@@ -1740,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raven Quest | 133198 | [133198-raven-quest.json](./133198-raven-quest.json) |
 | Raven Squad: Operation Hidden Dagger | 7156 | [7156-raven-squad-operation-hidden-dagger.json](./7156-raven-squad-operation-hidden-dagger.json) |
 | Raven Tea | 371563 | [371563-raven-tea.json](./371563-raven-tea.json) |
+| Raven the Last Neko Slayer | 114083 | [114083-raven-the-last-neko-slayer.json](./114083-raven-the-last-neko-slayer.json) |
 | Raven-Star | 350207 | [350207-raven-star.json](./350207-raven-star.json) |
 | Raven: Chapter 1 - The Commands of Eurybia | 74002 | [74002-raven-chapter-1-the-commands-of-eurybia.json](./74002-raven-chapter-1-the-commands-of-eurybia.json) |
 | Raven: The Rise | 224406 | [224406-raven-the-rise.json](./224406-raven-the-rise.json) |
@@ -3166,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Tie Runner | 265720 | [265720-red-tie-runner.json](./265720-red-tie-runner.json) |
 | Red Titans | 259638 | [259638-red-titans.json](./259638-red-titans.json) |
 | Red Tower | 207704 | [207704-red-tower.json](./207704-red-tower.json) |
+| Red Tractor Tycoon | 114070 | [114070-red-tractor-tycoon.json](./114070-red-tractor-tycoon.json) |
 | Red Trees Rail. CO | 305925 | [305925-red-trees-rail-co.json](./305925-red-trees-rail-co.json) |
 | Red Triangle Super Collection | 192154 | [192154-red-triangle-super-collection.json](./192154-red-triangle-super-collection.json) |
 | Red Turn: The Road to Berlin 1943-45 | 22646 | [22646-red-turn-the-road-to-berlin-1943-45.json](./22646-red-turn-the-road-to-berlin-1943-45.json) |
@@ -3491,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reformpunk | 367604 | [367604-reformpunk.json](./367604-reformpunk.json) |
 | Refract | 43162 | [43162-refract.json](./43162-refract.json) |
 | Refracted Reality | 259428 | [259428-refracted-reality.json](./259428-refracted-reality.json) |
+| Refraction | 114057 | [114057-refraction.json](./114057-refraction.json) |
 | Refraction | 171338 | [171338-refraction.json](./171338-refraction.json) |
 | Refraction | 197688 | [197688-refraction.json](./197688-refraction.json) |
 | Refraction HD | 175075 | [175075-refraction-hd.json](./175075-refraction-hd.json) |
@@ -7744,6 +7747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodent Retribution | 275707 | [275707-rodent-retribution.json](./275707-rodent-retribution.json) |
 | Rodent Rooms | 403449 | [403449-rodent-rooms.json](./403449-rodent-rooms.json) |
 | Rodent Rumble | 272943 | [272943-rodent-rumble.json](./272943-rodent-rumble.json) |
+| Rodent Warriors | 114081 | [114081-rodent-warriors.json](./114081-rodent-warriors.json) |
 | Rodent's Revenge | 56881 | [56881-rodents-revenge.json](./56881-rodents-revenge.json) |
 | Rodeo | 71559 | [71559-rodeo.json](./71559-rodeo.json) |
 | Rodeo Clown | 319554 | [319554-rodeo-clown.json](./319554-rodeo-clown.json) |
@@ -9673,6 +9677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runa | 295171 | [295171-runa.json](./295171-runa.json) |
 | Runa & the Chaikurú Legacy | 238734 | [238734-runa-and-the-chaikuru-legacy.json](./238734-runa-and-the-chaikuru-legacy.json) |
 | Runa Illustra | 341659 | [341659-runa-illustra.json](./341659-runa-illustra.json) |
+| Runa's School Story | 114066 | [114066-runas-school-story.json](./114066-runas-school-story.json) |
 | Runabout 3D: Drive Impossible | 64850 | [64850-runabout-3d-drive-impossible.json](./64850-runabout-3d-drive-impossible.json) |
 | Runai | 368613 | [368613-runai.json](./368613-runai.json) |
 | Runaround Reaper | 276730 | [276730-runaround-reaper.json](./276730-runaround-reaper.json) |
