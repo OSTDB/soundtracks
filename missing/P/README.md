@@ -5411,6 +5411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Dungeon | 177562 | [177562-pinball-dungeon.json](./177562-pinball-dungeon.json) |
 | Pinball Fantasies | 6023 | [6023-pinball-fantasies.json](./6023-pinball-fantasies.json) |
 | Pinball Fantasies Deluxe | 78624 | [78624-pinball-fantasies-deluxe.json](./78624-pinball-fantasies-deluxe.json) |
+| Pinball Fantastic | 107554 | [107554-pinball-fantastic.json](./107554-pinball-fantastic.json) |
 | Pinball Fish | 246357 | [246357-pinball-fish.json](./246357-pinball-fish.json) |
 | Pinball for the CD-i | 131493 | [131493-pinball-for-the-cd-i.json](./131493-pinball-for-the-cd-i.json) |
 | Pinball for the TRS-80 CoCo. | 131468 | [131468-pinball-for-the-trs-80-coco.json](./131468-pinball-for-the-trs-80-coco.json) |
