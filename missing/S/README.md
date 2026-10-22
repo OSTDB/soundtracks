@@ -5661,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Karate | 47216 | [47216-shanghai-karate.json](./47216-shanghai-karate.json) |
 | Shanghai Kid | 38571 | [38571-shanghai-kid.json](./38571-shanghai-kid.json) |
 | Shanghai Mahjong | 205088 | [205088-shanghai-mahjong.json](./205088-shanghai-mahjong.json) |
+| Shanghai Refresh | 123268 | [123268-shanghai-refresh.json](./123268-shanghai-refresh.json) |
 | Shanghai Street Racer | 79547 | [79547-shanghai-street-racer.json](./79547-shanghai-street-racer.json) |
 | Shanghai Summer | 234139 | [234139-shanghai-summer.json](./234139-shanghai-summer.json) |
 | Shanghai Wii | 84853 | [84853-shanghai-wii.json](./84853-shanghai-wii.json) |
