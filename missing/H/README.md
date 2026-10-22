@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanage Nuki! Nuki! - Nose Hair Master | 342652 | [342652-hanage-nuki-nuki-nose-hair-master.json](./342652-hanage-nuki-nuki-nose-hair-master.json) |
 | Hanagumi Taisen Columns | 69307 | [69307-hanagumi-taisen-columns.json](./69307-hanagumi-taisen-columns.json) |
 | Hanakisou | 234529 | [234529-hanakisou.json](./234529-hanakisou.json) |
+| Hanako | 143388 | [143388-hanako.json](./143388-hanako.json) |
 | Hanako in the Abandoned School | 207766 | [207766-hanako-in-the-abandoned-school.json](./207766-hanako-in-the-abandoned-school.json) |
 | Hanako: Honor & Blade | 36605 | [36605-hanako-honor-and-blade.json](./36605-hanako-honor-and-blade.json) |
 | Hanako's flower shop | 163787 | [163787-hanakos-flower-shop.json](./163787-hanakos-flower-shop.json) |
@@ -1005,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handball 17 | 31316 | [31316-handball-17.json](./31316-handball-17.json) |
 | Handball Action Total | 76617 | [76617-handball-action-total.json](./76617-handball-action-total.json) |
 | Handball Manager 07/08 | 152027 | [152027-handball-manager-07-08.json](./152027-handball-manager-07-08.json) |
+| Handball Manager 2021 | 142666 | [142666-handball-manager-2021.json](./142666-handball-manager-2021.json) |
 | Handball Manager 2022 | 193497 | [193497-handball-manager-2022.json](./193497-handball-manager-2022.json) |
 | Handball Pelota | 193773 | [193773-handball-pelota.json](./193773-handball-pelota.json) |
 | Handdogg | 185154 | [185154-handdogg.json](./185154-handdogg.json) |
@@ -2342,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazing: Night Shift | 305147 | [305147-hazing-night-shift.json](./305147-hazing-night-shift.json) |
 | Hazmat Hijinks | 101327 | [101327-hazmat-hijinks.json](./101327-hazmat-hijinks.json) |
 | Hazmat Magic | 180789 | [180789-hazmat-magic.json](./180789-hazmat-magic.json) |
+| Hazordhu | 142926 | [142926-hazordhu.json](./142926-hazordhu.json) |
 | Hazuki Dies: She Has No Name | 130633 | [130633-hazuki-dies-she-has-no-name.json](./130633-hazuki-dies-she-has-no-name.json) |
 | Hazuki Makimura's Love Story | 221265 | [221265-hazuki-makimuras-love-story.json](./221265-hazuki-makimuras-love-story.json) |
 | Hazuki Makimura's Love Story | 255108 | [255108-hazuki-makimuras-love-story.json](./255108-hazuki-makimuras-love-story.json) |
@@ -5402,6 +5405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Mysteries: Forbidden City | 209899 | [209899-hidden-mysteries-forbidden-city.json](./209899-hidden-mysteries-forbidden-city.json) |
 | Hidden Mysteries: Gates of Graceland | 54092 | [54092-hidden-mysteries-gates-of-graceland.json](./54092-hidden-mysteries-gates-of-graceland.json) |
 | Hidden Mysteries: Lost Secrets - A Vampires Tale, Paris Stories | 209401 | [209401-hidden-mysteries-lost-secrets-a-vampires-tale-paris-stories.json](./209401-hidden-mysteries-lost-secrets-a-vampires-tale-paris-stories.json) |
+| Hidden Mysteries: Notre Dame | 143400 | [143400-hidden-mysteries-notre-dame.json](./143400-hidden-mysteries-notre-dame.json) |
 | Hidden Mysteries: Return to Titanic | 206730 | [206730-hidden-mysteries-return-to-titanic.json](./206730-hidden-mysteries-return-to-titanic.json) |
 | Hidden Mysteries: Salem Secrets | 66193 | [66193-hidden-mysteries-salem-secrets.json](./66193-hidden-mysteries-salem-secrets.json) |
 | Hidden Mystery: Triple pack | 130658 | [130658-hidden-mystery-triple-pack.json](./130658-hidden-mystery-triple-pack.json) |
@@ -7074,6 +7078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Alone Survival | 365062 | [365062-home-alone-survival.json](./365062-home-alone-survival.json) |
 | Home Babysitter | 83265 | [83265-home-babysitter.json](./83265-home-babysitter.json) |
 | Home Before Dark | 183360 | [183360-home-before-dark.json](./183360-home-before-dark.json) |
+| Home Behind 2 | 142663 | [142663-home-behind-2.json](./142663-home-behind-2.json) |
 | Home by the River | 212104 | [212104-home-by-the-river.json](./212104-home-by-the-river.json) |
 | Home Computer Heroes Collection 1 | 260072 | [260072-home-computer-heroes-collection-1.json](./260072-home-computer-heroes-collection-1.json) |
 | Home Construction Sim | 294965 | [294965-home-construction-sim.json](./294965-home-construction-sim.json) |
@@ -8048,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostile Intent | 259423 | [259423-hostile-intent.json](./259423-hostile-intent.json) |
 | Hostile Mars | 151031 | [151031-hostile-mars.json](./151031-hostile-mars.json) |
 | Hostile Space Revived | 97973 | [97973-hostile-space-revived.json](./97973-hostile-space-revived.json) |
+| Hostile Takeover | 143533 | [143533-hostile-takeover.json](./143533-hostile-takeover.json) |
 | Hostile Takeover | 182754 | [182754-hostile-takeover.json](./182754-hostile-takeover.json) |
 | Hostile User Interface | 112794 | [112794-hostile-user-interface.json](./112794-hostile-user-interface.json) |
 | Hostile Waters | 308449 | [308449-hostile-waters.json](./308449-hostile-waters.json) |
@@ -9834,6 +9840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperoid | 80121 | [80121-hyperoid.json](./80121-hyperoid.json) |
 | Hyperons | 260542 | [260542-hyperons.json](./260542-hyperons.json) |
 | HyperParasite | 101257 | [101257-hyperparasite.json](./101257-hyperparasite.json) |
+| Hyperplasm | 142656 | [142656-hyperplasm.json](./142656-hyperplasm.json) |
 | HyperPop | 298664 | [298664-hyperpop.json](./298664-hyperpop.json) |
 | HyperPortals | 195712 | [195712-hyperportals.json](./195712-hyperportals.json) |
 | Hyperrail Detective | 272762 | [272762-hyperrail-detective.json](./272762-hyperrail-detective.json) |
