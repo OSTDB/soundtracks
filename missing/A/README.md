@@ -5178,6 +5178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Poker | 270621 | [270621-alien-poker.json](./270621-alien-poker.json) |
 | Alien Prop Hunt | 190221 | [190221-alien-prop-hunt.json](./190221-alien-prop-hunt.json) |
 | Alien Puzzle Adventure | 84744 | [84744-alien-puzzle-adventure.json](./84744-alien-puzzle-adventure.json) |
+| Alien Race | 133644 | [133644-alien-race.json](./133644-alien-race.json) |
 | Alien Rain | 12251 | [12251-alien-rain.json](./12251-alien-rain.json) |
 | Alien Rampage | 46630 | [46630-alien-rampage.json](./46630-alien-rampage.json) |
 | Alien Resource Manager | 418313 | [418313-alien-resource-manager.json](./418313-alien-resource-manager.json) |
@@ -13237,6 +13238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Australia Did It | 365278 | [365278-australia-did-it.json](./365278-australia-did-it.json) |
 | Australian Cricket Captain | 74080 | [74080-australian-cricket-captain.json](./74080-australian-cricket-captain.json) |
 | Australian Football Coach 2019 | 119883 | [119883-australian-football-coach-2019.json](./119883-australian-football-coach-2019.json) |
+| Australian Football Coach 2020 | 133683 | [133683-australian-football-coach-2020.json](./133683-australian-football-coach-2020.json) |
 | Australian Idol Sing | 71766 | [71766-australian-idol-sing.json](./71766-australian-idol-sing.json) |
 | Australian Maze | 273356 | [273356-australian-maze.json](./273356-australian-maze.json) |
 | Australian Open VR | 329418 | [329418-australian-open-vr.json](./329418-australian-open-vr.json) |
