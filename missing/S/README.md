@@ -8271,6 +8271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Fish | 83268 | [83268-silicon-fish.json](./83268-silicon-fish.json) |
 | Silicon Foundry | 401759 | [401759-silicon-foundry.json](./401759-silicon-foundry.json) |
 | Silicon Magic: Umareru Mae Kara Anata Senyou?! | 77954 | [77954-silicon-magic-umareru-mae-kara-anata-senyou.json](./77954-silicon-magic-umareru-mae-kara-anata-senyou.json) |
+| Silicon Valley Inside the Hacker Hostel VR | 108166 | [108166-silicon-valley-inside-the-hacker-hostel-vr.json](./108166-silicon-valley-inside-the-hacker-hostel-vr.json) |
 | Silicon Valley Investor | 149204 | [149204-silicon-valley-investor.json](./149204-silicon-valley-investor.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
 | Silicon Wasteland | 290834 | [290834-silicon-wasteland.json](./290834-silicon-wasteland.json) |
@@ -12918,6 +12919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Perfect Match | 87126 | [87126-solitaire-perfect-match.json](./87126-solitaire-perfect-match.json) |
 | Solitaire Plus! | 88613 | [88613-solitaire-plus.json](./88613-solitaire-plus.json) |
 | Solitaire Poker | 19493 | [19493-solitaire-poker.json](./19493-solitaire-poker.json) |
+| Solitaire Q | 108205 | [108205-solitaire-q.json](./108205-solitaire-q.json) |
 | Solitaire Quest: Garden Story | 260395 | [260395-solitaire-quest-garden-story.json](./260395-solitaire-quest-garden-story.json) |
 | Solitaire Quest: Love Blossoms | 340354 | [340354-solitaire-quest-love-blossoms.json](./340354-solitaire-quest-love-blossoms.json) |
 | Solitaire Retro | 102598 | [102598-solitaire-retro.json](./102598-solitaire-retro.json) |
@@ -20561,6 +20563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Freight: Echoes of the Void | 353977 | [353977-stellar-freight-echoes-of-the-void.json](./353977-stellar-freight-echoes-of-the-void.json) |
 | Stellar Freight: Endless Horizon | 395520 | [395520-stellar-freight-endless-horizon.json](./395520-stellar-freight-endless-horizon.json) |
 | Stellar Gun | 167146 | [167146-stellar-gun.json](./167146-stellar-gun.json) |
+| Stellar Horizon | 108185 | [108185-stellar-horizon.json](./108185-stellar-horizon.json) |
 | Stellar Howl: Galactic Repairs | 417368 | [417368-stellar-howl-galactic-repairs.json](./417368-stellar-howl-galactic-repairs.json) |
 | Stellar Hunter | 141567 | [141567-stellar-hunter.json](./141567-stellar-hunter.json) |
 | Stellar Impact: Artillery Ship | 162582 | [162582-stellar-impact-artillery-ship.json](./162582-stellar-impact-artillery-ship.json) |
@@ -28223,6 +28226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syrian Warfare: Return to Palmyra | 167798 | [167798-syrian-warfare-return-to-palmyra.json](./167798-syrian-warfare-return-to-palmyra.json) |
 | Syrnia | 130718 | [130718-syrnia.json](./130718-syrnia.json) |
 | Syrup 2: Candy Alchemy RPG | 362733 | [362733-syrup-2-candy-alchemy-rpg.json](./362733-syrup-2-candy-alchemy-rpg.json) |
+| Syrup and the Ultimate Sweet | 108174 | [108174-syrup-and-the-ultimate-sweet.json](./108174-syrup-and-the-ultimate-sweet.json) |
 | Syrup Drip | 245187 | [245187-syrup-drip.json](./245187-syrup-drip.json) |
 | SyS KillMirror | 316616 | [316616-sys-killmirror.json](./316616-sys-killmirror.json) |
 | SYS: Save Your Soul | 386330 | [386330-sys-save-your-soul.json](./386330-sys-save-your-soul.json) |
