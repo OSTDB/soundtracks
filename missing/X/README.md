@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XP8 | 15569 | [15569-xp8.json](./15569-xp8.json) |
 | Xpand Rally | 8034 | [8034-xpand-rally.json](./8034-xpand-rally.json) |
 | Xpand Rally Xtreme | 9310 | [9310-xpand-rally-xtreme.json](./9310-xpand-rally-xtreme.json) |
+| XpCade | 155955 | [155955-xpcade.json](./155955-xpcade.json) |
 | XPilot | 142943 | [142943-xpilot.json](./142943-xpilot.json) |
 | Xplode Man | 313495 | [313495-xplode-man.json](./313495-xplode-man.json) |
 | Xploit.Zero | 380561 | [380561-xploit-zero.json](./380561-xploit-zero.json) |
