@@ -3081,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pencil Whipped | 72546 | [72546-pencil-whipped.json](./72546-pencil-whipped.json) |
 | Pencilvania | 292755 | [292755-pencilvania.json](./292755-pencilvania.json) |
 | Pendelum | 138540 | [138540-pendelum.json](./138540-pendelum.json) |
+| Pendle Hill | 151513 | [151513-pendle-hill.json](./151513-pendle-hill.json) |
 | Pendragon | 132903 | [132903-pendragon.json](./132903-pendragon.json) |
 | Pendragon Rising | 34210 | [34210-pendragon-rising.json](./34210-pendragon-rising.json) |
 | Pendu | 94390 | [94390-pendu.json](./94390-pendu.json) |
@@ -9460,6 +9461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pompom | 173842 | [173842-pompom.json](./173842-pompom.json) |
 | Pon Para and the Great Southern Labyrinth | 118259 | [118259-pon-para-and-the-great-southern-labyrinth.json](./118259-pon-para-and-the-great-southern-labyrinth.json) |
 | Pon Para and the Great Southern Labyrinth: Love and Shadows | 156067 | [156067-pon-para-and-the-great-southern-labyrinth-love-and-shadows.json](./156067-pon-para-and-the-great-southern-labyrinth-love-and-shadows.json) |
+| Pon Para and the Unconquerable Scorpion | 151515 | [151515-pon-para-and-the-unconquerable-scorpion.json](./151515-pon-para-and-the-unconquerable-scorpion.json) |
 | PoN!: The Armadillo Island | 227789 | [227789-pon-the-armadillo-island.json](./227789-pon-the-armadillo-island.json) |
 | Poncho | 14291 | [14291-poncho.json](./14291-poncho.json) |
 | Ponchorado | 391593 | [391593-ponchorado.json](./391593-ponchorado.json) |
@@ -12050,6 +12052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Brutality | 140298 | [140298-project-brutality.json](./140298-project-brutality.json) |
 | Project Brutality | 214713 | [214713-project-brutality.json](./214713-project-brutality.json) |
 | Project Bubblegum | 290607 | [290607-project-bubblegum.json](./290607-project-bubblegum.json) |
+| Project Bullet | 151510 | [151510-project-bullet.json](./151510-project-bullet.json) |
 | Project Butterfly | 327793 | [327793-project-butterfly.json](./327793-project-butterfly.json) |
 | Project Cairo | 297475 | [297475-project-cairo.json](./297475-project-cairo.json) |
 | Project Canopy | 144090 | [144090-project-canopy.json](./144090-project-canopy.json) |
@@ -13326,6 +13329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulstar | 7255 | [7255-pulstar.json](./7255-pulstar.json) |
 | Pulsus | 138524 | [138524-pulsus.json](./138524-pulsus.json) |
 | Pultimush | 282461 | [282461-pultimush.json](./282461-pultimush.json) |
+| Pulut Adventure RPG | 151451 | [151451-pulut-adventure-rpg.json](./151451-pulut-adventure-rpg.json) |
 | Pulver | 287545 | [287545-pulver.json](./287545-pulver.json) |
 | Pulzar | 304294 | [304294-pulzar.json](./304294-pulzar.json) |
 | PulzAR | 93544 | [93544-pulzar.json](./93544-pulzar.json) |
