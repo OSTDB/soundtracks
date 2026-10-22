@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Tomorrow | 369643 | [369643-echoes-of-tomorrow.json](./369643-echoes-of-tomorrow.json) |
 | Echoes of Undeath | 355019 | [355019-echoes-of-undeath.json](./355019-echoes-of-undeath.json) |
 | Echoes of Vision | 321776 | [321776-echoes-of-vision.json](./321776-echoes-of-vision.json) |
+| Echoes of War: The Last Heartbeat | 105074 | [105074-echoes-of-war-the-last-heartbeat.json](./105074-echoes-of-war-the-last-heartbeat.json) |
 | Echoes of Yi: Samsara | 288880 | [288880-echoes-of-yi-samsara.json](./288880-echoes-of-yi-samsara.json) |
 | Echoes of You | 252365 | [252365-echoes-of-you.json](./252365-echoes-of-you.json) |
 | Echoes of You | 306346 | [306346-echoes-of-you.json](./306346-echoes-of-you.json) |
@@ -4197,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape IV - Prison Break | 90665 | [90665-escape-iv-prison-break.json](./90665-escape-iv-prison-break.json) |
 | Escape Kids | 39867 | [39867-escape-kids.json](./39867-escape-kids.json) |
 | Escape Knox Manor | 157980 | [157980-escape-knox-manor.json](./157980-escape-knox-manor.json) |
+| Escape Lala | 105033 | [105033-escape-lala.json](./105033-escape-lala.json) |
 | Escape Lala 2 | 118370 | [118370-escape-lala-2.json](./118370-escape-lala-2.json) |
 | Escape Legacy VR | 113192 | [113192-escape-legacy-vr.json](./113192-escape-legacy-vr.json) |
 | Escape Legacy: Ancient Scrolls | 110733 | [110733-escape-legacy-ancient-scrolls.json](./110733-escape-legacy-ancient-scrolls.json) |
@@ -5195,6 +5197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eventyr | 272476 | [272476-eventyr.json](./272476-eventyr.json) |
 | Ever 17: The Out of Infinity | 323127 | [323127-ever-17-the-out-of-infinity.json](./323127-ever-17-the-out-of-infinity.json) |
 | Ever After Again: A Stories Adventure | 414459 | [414459-ever-after-again-a-stories-adventure.json](./414459-ever-after-again-a-stories-adventure.json) |
+| Ever End | 105019 | [105019-ever-end.json](./105019-ever-end.json) |
 | Ever Fallen Empire | 189947 | [189947-ever-fallen-empire.json](./189947-ever-fallen-empire.json) |
 | Ever Forward | 132328 | [132328-ever-forward.json](./132328-ever-forward.json) |
 | Ever Lasting Joy | 51527 | [51527-ever-lasting-joy.json](./51527-ever-lasting-joy.json) |
