@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necronator 2 | 304049 | [304049-necronator-2.json](./304049-necronator-2.json) |
 | NecroNegate | 337162 | [337162-necronegate.json](./337162-necronegate.json) |
 | NecroNightmare | 191581 | [191581-necronightmare.json](./191581-necronightmare.json) |
+| Necronomistore | 117361 | [117361-necronomistore.json](./117361-necronomistore.json) |
 | Necronomistore: Black Friday - Season One | 170226 | [170226-necronomistore-black-friday-season-one.json](./170226-necronomistore-black-friday-season-one.json) |
 | NecroNomNomNom: Eldritch Horror Dating | 220638 | [220638-necronomnomnom-eldritch-horror-dating.json](./220638-necronomnomnom-eldritch-horror-dating.json) |
 | Necrophobia | 211715 | [211715-necrophobia.json](./211715-necrophobia.json) |
