@@ -3196,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NieR Re[in]carnation | 132005 | [132005-nier-re-in-carnation.json](./132005-nier-re-in-carnation.json) |
 | NieR Re[in]carnation: The People and the World | 259669 | [259669-nier-re-in-carnation-the-people-and-the-world.json](./259669-nier-re-in-carnation-the-people-and-the-world.json) |
 | NieR Re[in]carnation: The Sun and the Moon | 259657 | [259657-nier-re-in-carnation-the-sun-and-the-moon.json](./259657-nier-re-in-carnation-the-sun-and-the-moon.json) |
+| NieR Replicant Ver. 1.22474487139...: White Snow Edition | 139071 | [139071-nier-replicant-ver-1-22474487139-white-snow-edition.json](./139071-nier-replicant-ver-1-22474487139-white-snow-edition.json) |
 | NieR Replicant ver.1.22474487139...: 4 YoRHa | 360511 | [360511-nier-replicant-ver-1-22474487139-4-yorha.json](./360511-nier-replicant-ver-1-22474487139-4-yorha.json) |
 | NieR Replicant ver.1.22474487139...: Lunar Tear Edition | 167139 | [167139-nier-replicant-ver-1-22474487139-lunar-tear-edition.json](./167139-nier-replicant-ver-1-22474487139-lunar-tear-edition.json) |
 | NieR Replicant: Red and Black | 375545 | [375545-nier-replicant-red-and-black.json](./375545-nier-replicant-red-and-black.json) |
@@ -5525,6 +5526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Force | 60583 | [60583-nova-force.json](./60583-nova-force.json) |
 | Nova Genetics | 160073 | [160073-nova-genetics.json](./160073-nova-genetics.json) |
 | Nova Golf | 89242 | [89242-nova-golf.json](./89242-nova-golf.json) |
+| Nova III | 139027 | [139027-nova-iii.json](./139027-nova-iii.json) |
 | Nova Impact | 405521 | [405521-nova-impact.json](./405521-nova-impact.json) |
 | Nova Island | 144768 | [144768-nova-island.json](./144768-nova-island.json) |
 | Nova Jumper | 414388 | [414388-nova-jumper.json](./414388-nova-jumper.json) |
