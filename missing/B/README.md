@@ -1232,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballblazer | 176 | [176-ballblazer.json](./176-ballblazer.json) |
 | Ballblazer | 273081 | [273081-ballblazer.json](./273081-ballblazer.json) |
 | Ballblazer Champions | 177 | [177-ballblazer-champions.json](./177-ballblazer-champions.json) |
+| BallBoi | 121313 | [121313-ballboi.json](./121313-ballboi.json) |
 | BallBuster Collection | 52443 | [52443-ballbuster-collection.json](./52443-ballbuster-collection.json) |
 | BallCore | 283979 | [283979-ballcore.json](./283979-ballcore.json) |
 | Balldventure | 226173 | [226173-balldventure.json](./226173-balldventure.json) |
@@ -6927,6 +6928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Box VR | 140619 | [140619-black-box-vr.json](./140619-black-box-vr.json) |
 | Black Box: Hacker Day One | 406161 | [406161-black-box-hacker-day-one.json](./406161-black-box-hacker-day-one.json) |
 | Black Butler: Phantom & Ghost | 115532 | [115532-black-butler-phantom-and-ghost.json](./115532-black-butler-phantom-and-ghost.json) |
+| Black Butterfly | 121299 | [121299-black-butterfly.json](./121299-black-butterfly.json) |
 | Black Castle | 143051 | [143051-black-castle.json](./143051-black-castle.json) |
 | Black Cat | 144278 | [144278-black-cat.json](./144278-black-cat.json) |
 | Black Cat Adventures | 129752 | [129752-black-cat-adventures.json](./129752-black-cat-adventures.json) |
@@ -9597,6 +9599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku to Joi no Shinsatsu Nisshi [Nurse Enjoy Pack] | 146110 | [146110-boku-to-joi-no-shinsatsu-nisshi-nurse-enjoy-pack.json](./146110-boku-to-joi-no-shinsatsu-nisshi-nurse-enjoy-pack.json) |
 | Boku to Joi no Shinsatsu Nisshi: Premium Edition | 146113 | [146113-boku-to-joi-no-shinsatsu-nisshi-premium-edition.json](./146113-boku-to-joi-no-shinsatsu-nisshi-premium-edition.json) |
 | Boku to Kare no Kiken na Doukyo Seikatsu | 203875 | [203875-boku-to-kare-no-kiken-na-doukyo-seikatsu.json](./203875-boku-to-kare-no-kiken-na-doukyo-seikatsu.json) |
+| Boku to Nurse no Kenshuu Nisshi | 121275 | [121275-boku-to-nurse-no-kenshuu-nisshi.json](./121275-boku-to-nurse-no-kenshuu-nisshi.json) |
 | Boku to Nurse no Kenshuu Nisshi: Premium Edition | 146119 | [146119-boku-to-nurse-no-kenshuu-nisshi-premium-edition.json](./146119-boku-to-nurse-no-kenshuu-nisshi-premium-edition.json) |
 | Boku to Tsuri Nikki | 412519 | [412519-boku-to-tsuri-nikki.json](./412519-boku-to-tsuri-nikki.json) |
 | Boku to Wanko | 58819 | [58819-boku-to-wanko.json](./58819-boku-to-wanko.json) |
@@ -10058,6 +10061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boobs vs Aliens | 229234 | [229234-boobs-vs-aliens.json](./229234-boobs-vs-aliens.json) |
 | Boobs vs Zombies | 114292 | [114292-boobs-vs-zombies.json](./114292-boobs-vs-zombies.json) |
 | Boobsle | 284269 | [284269-boobsle.json](./284269-boobsle.json) |
+| Booby and the Booby Trap | 121279 | [121279-booby-and-the-booby-trap.json](./121279-booby-and-the-booby-trap.json) |
 | Booby Kids | 7796 | [7796-booby-kids.json](./7796-booby-kids.json) |
 | BoobyRogue: Tumor Takedown | 373295 | [373295-boobyrogue-tumor-takedown.json](./373295-boobyrogue-tumor-takedown.json) |
 | Boodunnit | 143556 | [143556-boodunnit.json](./143556-boodunnit.json) |
