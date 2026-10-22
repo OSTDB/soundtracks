@@ -1141,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 in 1 Game Pack: DreamWorks' Shark Tale + Shrek 2 | 79558 | [79558-2-in-1-game-pack-dreamworks-shark-tale-shrek-2.json](./79558-2-in-1-game-pack-dreamworks-shark-tale-shrek-2.json) |
 | 2 in 1 I Asterix & Obelix: Bash Them All! + Asterix & Obelix XXL | 82102 | [82102-2-in-1-i-asterix-and-obelix-bash-them-all-asterix-and-obelix-xxl.json](./82102-2-in-1-i-asterix-and-obelix-bash-them-all-asterix-and-obelix-xxl.json) |
 | 2 in 1 I My Pet Hotel & My Vet Practice: In the Country | 127329 | [127329-2-in-1-i-my-pet-hotel-and-my-vet-practice-in-the-country.json](./127329-2-in-1-i-my-pet-hotel-and-my-vet-practice-in-the-country.json) |
+| 2 in 1 Pack: St. Thomas - Elisabeth I. | 137498 | [137498-2-in-1-pack-st-thomas-elisabeth-i.json](./137498-2-in-1-pack-st-thomas-elisabeth-i.json) |
 | 2 in 1 Pack: Super Bubsy/Lollypop | 182328 | [182328-2-in-1-pack-super-bubsy-lollypop.json](./182328-2-in-1-pack-super-bubsy-lollypop.json) |
 | 2 in 1 Workout | 232565 | [232565-2-in-1-workout.json](./232565-2-in-1-workout.json) |
 | 2 in 1: Block Buster/Cross High | 70870 | [70870-2-in-1-block-buster-cross-high.json](./70870-2-in-1-block-buster-cross-high.json) |
@@ -1876,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Ultra Minigolf Adventures 2 | 52039 | [52039-3d-ultra-minigolf-adventures-2.json](./52039-3d-ultra-minigolf-adventures-2.json) |
 | 3D Ultra Minigolf Adventures: Carnival | 73260 | [73260-3d-ultra-minigolf-adventures-carnival.json](./73260-3d-ultra-minigolf-adventures-carnival.json) |
 | 3D Ultra Minigolf Adventures: Space | 137378 | [137378-3d-ultra-minigolf-adventures-space.json](./137378-3d-ultra-minigolf-adventures-space.json) |
+| 3D Ultra Minigolf Adventures: Wild West | 137503 | [137503-3d-ultra-minigolf-adventures-wild-west.json](./137503-3d-ultra-minigolf-adventures-wild-west.json) |
 | 3D Visual Novel Maker | 371018 | [371018-3d-visual-novel-maker.json](./371018-3d-visual-novel-maker.json) |
 | 3D Waifu - a physical experience | 139110 | [139110-3d-waifu-a-physical-experience.json](./139110-3d-waifu-a-physical-experience.json) |
 | 3D Water Bike | 255033 | [255033-3d-water-bike.json](./255033-3d-water-bike.json) |
