@@ -9074,6 +9074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister Travel | 111718 | [111718-sister-travel.json](./111718-sister-travel.json) |
 | Sister's Dream | 202330 | [202330-sisters-dream.json](./202330-sisters-dream.json) |
 | Sister's Little Helper | 326660 | [326660-sisters-little-helper.json](./326660-sisters-little-helper.json) |
+| SisterFight | 125667 | [125667-sisterfight.json](./125667-sisterfight.json) |
 | Sisterhood | 159752 | [159752-sisterhood.json](./159752-sisterhood.json) |
 | Sisterly Bliss: Don't Let Mom Find Out | 415277 | [415277-sisterly-bliss-dont-let-mom-find-out.json](./415277-sisterly-bliss-dont-let-mom-find-out.json) |
 | Sisters of Silent Liberty | 154410 | [154410-sisters-of-silent-liberty.json](./154410-sisters-of-silent-liberty.json) |
@@ -11651,6 +11652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneak Thief 5: Final Five | 386513 | [386513-sneak-thief-5-final-five.json](./386513-sneak-thief-5-final-five.json) |
 | Sneakalot | 372242 | [372242-sneakalot.json](./372242-sneakalot.json) |
 | SneakBit | 326712 | [326712-sneakbit.json](./326712-sneakbit.json) |
+| Sneaker | 125677 | [125677-sneaker.json](./125677-sneaker.json) |
 | Sneaker Store Simulator | 389965 | [389965-sneaker-store-simulator.json](./389965-sneaker-store-simulator.json) |
 | Sneakers | 6053 | [6053-sneakers.json](./6053-sneakers.json) |
 | SneakR | 184950 | [184950-sneakr.json](./184950-sneakr.json) |
@@ -15925,6 +15927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark | 256525 | [256525-spark.json](./256525-spark.json) |
 | Spark | 302800 | [302800-spark.json](./302800-spark.json) |
 | Spark & Kling | 290293 | [290293-spark-and-kling.json](./290293-spark-and-kling.json) |
+| Spark & Sparkle | 125696 | [125696-spark-and-sparkle.json](./125696-spark-and-sparkle.json) |
 | Spark Era | 229112 | [229112-spark-era.json](./229112-spark-era.json) |
 | Spark Era: Echo to Universe | 227171 | [227171-spark-era-echo-to-universe.json](./227171-spark-era-echo-to-universe.json) |
 | Spark Five | 111683 | [111683-spark-five.json](./111683-spark-five.json) |
@@ -21525,6 +21528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strato'S Sylph | 82702 | [82702-stratos-sylph.json](./82702-stratos-sylph.json) |
 | StratoBash | 28764 | [28764-stratobash.json](./28764-stratobash.json) |
 | Stratogun | 333116 | [333116-stratogun.json](./333116-stratogun.json) |
+| Stratos | 125700 | [125700-stratos.json](./125700-stratos.json) |
 | Stratos | 24896 | [24896-stratos.json](./24896-stratos.json) |
 | Stratoscape | 126944 | [126944-stratoscape.json](./126944-stratoscape.json) |
 | Stratoskirmish | 234582 | [234582-stratoskirmish.json](./234582-stratoskirmish.json) |
