@@ -1504,6 +1504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain's Big Day | 176259 | [176259-captains-big-day.json](./176259-captains-big-day.json) |
 | Captain's Call | 403130 | [403130-captains-call.json](./403130-captains-call.json) |
 | Captain's Room | 181130 | [181130-captains-room.json](./181130-captains-room.json) |
+| CaptainMarlene | 117385 | [117385-captainmarlene.json](./117385-captainmarlene.json) |
 | Captains & Dungeons | 157425 | [157425-captains-and-dungeons.json](./157425-captains-and-dungeons.json) |
 | Captains of the Wacky Waters | 146045 | [146045-captains-of-the-wacky-waters.json](./146045-captains-of-the-wacky-waters.json) |
 | Captcha Overload | 411493 | [411493-captcha-overload.json](./411493-captcha-overload.json) |
@@ -3140,6 +3141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Tiles: Matching Puzzle | 232377 | [232377-cat-tiles-matching-puzzle.json](./232377-cat-tiles-matching-puzzle.json) |
 | Cat Town | 187133 | [187133-cat-town.json](./187133-cat-town.json) |
 | Cat Train | 177493 | [177493-cat-train.json](./177493-cat-train.json) |
+| Cat Trax | 117412 | [117412-cat-trax.json](./117412-cat-trax.json) |
 | Cat Trax | 40689 | [40689-cat-trax.json](./40689-cat-trax.json) |
 | Cat Tree | 326792 | [326792-cat-tree.json](./326792-cat-tree.json) |
 | Cat Trip | 322032 | [322032-cat-trip.json](./322032-cat-trip.json) |
@@ -6065,6 +6067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopper I | 21732 | [21732-chopper-i.json](./21732-chopper-i.json) |
 | Chopper Mike | 62082 | [62082-chopper-mike.json](./62082-chopper-mike.json) |
 | Chopper Strike | 304794 | [304794-chopper-strike.json](./304794-chopper-strike.json) |
+| Chopper to Hell | 117393 | [117393-chopper-to-hell.json](./117393-chopper-to-hell.json) |
 | Chopper X | 404195 | [404195-chopper-x.json](./404195-chopper-x.json) |
 | Chopper: Lethal darkness | 31281 | [31281-chopper-lethal-darkness.json](./31281-chopper-lethal-darkness.json) |
 | Chopper: Lethal darkness - Deluxe Edition | 52740 | [52740-chopper-lethal-darkness-deluxe-edition.json](./52740-chopper-lethal-darkness-deluxe-edition.json) |
@@ -7428,6 +7431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clans | 17121 | [17121-clans.json](./17121-clans.json) |
 | Clans Logue | 259718 | [259718-clans-logue.json](./259718-clans-logue.json) |
 | Clans of London | 379128 | [379128-clans-of-london.json](./379128-clans-of-london.json) |
+| Clans to Kingdoms | 117417 | [117417-clans-to-kingdoms.json](./117417-clans-to-kingdoms.json) |
 | Clanswoman | 264598 | [264598-clanswoman.json](./264598-clanswoman.json) |
 | Clapper - A rhythm and clap game! | 74697 | [74697-clapper-a-rhythm-and-clap-game.json](./74697-clapper-a-rhythm-and-clap-game.json) |
 | Clappy Cheeks: Lust and Magic | 379351 | [379351-clappy-cheeks-lust-and-magic.json](./379351-clappy-cheeks-lust-and-magic.json) |
@@ -10225,6 +10229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Exiles: Riders of Hyboria Pack | 164794 | [164794-conan-exiles-riders-of-hyboria-pack.json](./164794-conan-exiles-riders-of-hyboria-pack.json) |
 | Conan Exiles: Savage Edition | 164771 | [164771-conan-exiles-savage-edition.json](./164771-conan-exiles-savage-edition.json) |
 | Conan Exiles: Seekers of the Dawn Pack | 164775 | [164775-conan-exiles-seekers-of-the-dawn-pack.json](./164775-conan-exiles-seekers-of-the-dawn-pack.json) |
+| Conan Exiles: Treasures of Turan | 117416 | [117416-conan-exiles-treasures-of-turan.json](./117416-conan-exiles-treasures-of-turan.json) |
 | Conan Exiles: Treasures of Turan Pack | 164779 | [164779-conan-exiles-treasures-of-turan-pack.json](./164779-conan-exiles-treasures-of-turan-pack.json) |
 | Conan Room | 194321 | [194321-conan-room.json](./194321-conan-room.json) |
 | Conan the Barbarian | 172401 | [172401-conan-the-barbarian.json](./172401-conan-the-barbarian.json) |
@@ -10303,6 +10308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condor | 305435 | [305435-condor.json](./305435-condor.json) |
 | Condor | 47268 | [47268-condor.json](./47268-condor.json) |
 | Condor 3 | 327922 | [327922-condor-3.json](./327922-condor-3.json) |
+| Condor Attack | 117413 | [117413-condor-attack.json](./117413-condor-attack.json) |
 | Condors vs. Ocelots | 164932 | [164932-condors-vs-ocelots.json](./164932-condors-vs-ocelots.json) |
 | Condottiero | 394132 | [394132-condottiero.json](./394132-condottiero.json) |
 | Conduct Together!: Track Pack | 307246 | [307246-conduct-together-track-pack.json](./307246-conduct-together-track-pack.json) |
