@@ -5050,6 +5050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isomer | 17595 | [17595-isomer.json](./17595-isomer.json) |
 | Isometria | 266430 | [266430-isometria.json](./266430-isometria.json) |
 | Isometric & Karate Exercise: Wii de Kotsuban Fitness | 134478 | [134478-isometric-and-karate-exercise-wii-de-kotsuban-fitness.json](./134478-isometric-and-karate-exercise-wii-de-kotsuban-fitness.json) |
+| Isometric Epilepsy | 108775 | [108775-isometric-epilepsy.json](./108775-isometric-epilepsy.json) |
 | Isometric Factories | 391647 | [391647-isometric-factories.json](./391647-isometric-factories.json) |
 | Isometric Squares | 175356 | [175356-isometric-squares.json](./175356-isometric-squares.json) |
 | Isometric World | 204279 | [204279-isometric-world.json](./204279-isometric-world.json) |
