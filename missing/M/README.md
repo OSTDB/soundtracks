@@ -1505,6 +1505,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Lonely Island: Majong Star Tower Deluxe | 232387 | [232387-mahjong-lonely-island-majong-star-tower-deluxe.json](./232387-mahjong-lonely-island-majong-star-tower-deluxe.json) |
 | Mahjong Magic Islands | 74386 | [74386-mahjong-magic-islands.json](./74386-mahjong-magic-islands.json) |
 | Mahjong Magic Journey | 90763 | [90763-mahjong-magic-journey.json](./90763-mahjong-magic-journey.json) |
+| Mahjong Magic Journey 2 | 109345 | [109345-mahjong-magic-journey-2.json](./109345-mahjong-magic-journey-2.json) |
+| Mahjong Magic Journey 3 | 109343 | [109343-mahjong-magic-journey-3.json](./109343-mahjong-magic-journey-3.json) |
 | Mahjong Master | 85994 | [85994-mahjong-master.json](./85994-mahjong-master.json) |
 | Mahjong Masters | 163164 | [163164-mahjong-masters.json](./163164-mahjong-masters.json) |
 | Mahjong Masters Club | 385090 | [385090-mahjong-masters-club.json](./385090-mahjong-masters-club.json) |
@@ -5666,6 +5668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet the Letters Flashcards: Lowercase | 87619 | [87619-meet-the-letters-flashcards-lowercase.json](./87619-meet-the-letters-flashcards-lowercase.json) |
 | Meet the Letters Flashcards: Uppercase | 101435 | [101435-meet-the-letters-flashcards-uppercase.json](./101435-meet-the-letters-flashcards-uppercase.json) |
 | Meet the Master | 332792 | [332792-meet-the-master.json](./332792-meet-the-master.json) |
+| Meet the Miner: WDR VR Bergwerk | 109319 | [109319-meet-the-miner-wdr-vr-bergwerk.json](./109319-meet-the-miner-wdr-vr-bergwerk.json) |
 | Meet the Mole | 180679 | [180679-meet-the-mole.json](./180679-meet-the-mole.json) |
 | Meet the Myths: An Ormhildur the Brave Game | 331126 | [331126-meet-the-myths-an-ormhildur-the-brave-game.json](./331126-meet-the-myths-an-ormhildur-the-brave-game.json) |
 | Meet the Robinsons | 200908 | [200908-meet-the-robinsons.json](./200908-meet-the-robinsons.json) |
@@ -7046,6 +7049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mendalos | 191835 | [191835-mendalos.json](./191835-mendalos.json) |
 | Mendel Palace | 48052 | [48052-mendel-palace.json](./48052-mendel-palace.json) |
 | Mendel's Garden | 121691 | [121691-mendels-garden.json](./121691-mendels-garden.json) |
+| Mèng Běn Wúyōu | 109313 | [109313-meng-ben-wuyou.json](./109313-meng-ben-wuyou.json) |
 | Méng Chǒng Xīyóu | 367432 | [367432-meng-chong-xiyou.json](./367432-meng-chong-xiyou.json) |
 | Mèng Huí Sānguó | 154921 | [154921-meng-hui-sanguo.json](./154921-meng-hui-sanguo.json) |
 | Meng Jun Gan Si Dui | 319846 | [319846-meng-jun-gan-si-dui.json](./319846-meng-jun-gan-si-dui.json) |
