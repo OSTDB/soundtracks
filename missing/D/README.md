@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dairoku: Agents of Sakuratani | 146180 | [146180-dairoku-agents-of-sakuratani.json](./146180-dairoku-agents-of-sakuratani.json) |
 | Dairy Dash | 90700 | [90700-dairy-dash.json](./90700-dairy-dash.json) |
 | Dairy of the Dead | 339362 | [339362-dairy-of-the-dead.json](./339362-dairy-of-the-dead.json) |
+| Dairy Princess | 126845 | [126845-dairy-princess.json](./126845-dairy-princess.json) |
 | Daiseiou | 64492 | [64492-daiseiou.json](./64492-daiseiou.json) |
 | Daisen | 359357 | [359357-daisen.json](./359357-daisen.json) |
 | Daisenryaku | 194311 | [194311-daisenryaku.json](./194311-daisenryaku.json) |
@@ -2203,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day In | 374202 | [374202-day-in.json](./374202-day-in.json) |
 | Day In Dementia | 103170 | [103170-day-in-dementia.json](./103170-day-in-dementia.json) |
 | Day in the Life | 177323 | [177323-day-in-the-life.json](./177323-day-in-the-life.json) |
+| Day in the Life of a Harpy | 126877 | [126877-day-in-the-life-of-a-harpy.json](./126877-day-in-the-life-of-a-harpy.json) |
 | Day Island | 135747 | [135747-day-island.json](./135747-day-island.json) |
 | Day of Atonement | 307889 | [307889-day-of-atonement.json](./307889-day-of-atonement.json) |
 | Day Of Dead | 246856 | [246856-day-of-dead.json](./246856-day-of-dead.json) |
@@ -6020,6 +6022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Sherlock: Shadow Stalker | 361844 | [361844-detective-sherlock-shadow-stalker.json](./361844-detective-sherlock-shadow-stalker.json) |
 | Detective Sherlock: Shadow Stalker | 413113 | [413113-detective-sherlock-shadow-stalker.json](./413113-detective-sherlock-shadow-stalker.json) |
 | Detective Sir Biscuit in Green Burguer Mystery | 310580 | [310580-detective-sir-biscuit-in-green-burguer-mystery.json](./310580-detective-sir-biscuit-in-green-burguer-mystery.json) |
+| Detective Solitaire Inspector Magic | 126846 | [126846-detective-solitaire-inspector-magic.json](./126846-detective-solitaire-inspector-magic.json) |
 | Detective Solitaire Inspector Magic and the Man Without Face | 158606 | [158606-detective-solitaire-inspector-magic-and-the-man-without-face.json](./158606-detective-solitaire-inspector-magic-and-the-man-without-face.json) |
 | Detective Solitaire: Butler Story | 123981 | [123981-detective-solitaire-butler-story.json](./123981-detective-solitaire-butler-story.json) |
 | Detective Solitaire: Butler Story 2 | 242580 | [242580-detective-solitaire-butler-story-2.json](./242580-detective-solitaire-butler-story-2.json) |
@@ -7187,6 +7190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensional: Prophecy of Zohar | 187888 | [187888-dimensional-prophecy-of-zohar.json](./187888-dimensional-prophecy-of-zohar.json) |
 | Dimensional: Prophecy of Zohar 2 | 342892 | [342892-dimensional-prophecy-of-zohar-2.json](./342892-dimensional-prophecy-of-zohar-2.json) |
 | DimensionalDoors | 232666 | [232666-dimensionaldoors.json](./232666-dimensionaldoors.json) |
+| Dimensionality 3.5 | 126844 | [126844-dimensionality-3-5.json](./126844-dimensionality-3-5.json) |
 | Dimensionals | 257821 | [257821-dimensionals.json](./257821-dimensionals.json) |
 | Dimensione Sconosciuta | 405505 | [405505-dimensione-sconosciuta.json](./405505-dimensione-sconosciuta.json) |
 | Dimensionless | 241296 | [241296-dimensionless.json](./241296-dimensionless.json) |
@@ -7688,6 +7692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Frenzy | 296720 | [296720-disc-frenzy.json](./296720-disc-frenzy.json) |
 | Disc Golf 3D | 89808 | [89808-disc-golf-3d.json](./89808-disc-golf-3d.json) |
 | Disc Golf Adventure 2 VR | 148481 | [148481-disc-golf-adventure-2-vr.json](./148481-disc-golf-adventure-2-vr.json) |
+| Disc Golf Adventure VR | 126822 | [126822-disc-golf-adventure-vr.json](./126822-disc-golf-adventure-vr.json) |
 | Disc Golf City | 350805 | [350805-disc-golf-city.json](./350805-disc-golf-city.json) |
 | Disc Golf Game | 89834 | [89834-disc-golf-game.json](./89834-disc-golf-game.json) |
 | Disc Golf Masters | 338053 | [338053-disc-golf-masters.json](./338053-disc-golf-masters.json) |
