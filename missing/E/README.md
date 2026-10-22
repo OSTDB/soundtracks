@@ -3325,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entomorph: Plague of the Darkfall | 3138 | [3138-entomorph-plague-of-the-darkfall.json](./3138-entomorph-plague-of-the-darkfall.json) |
 | Entrance 8 Iriguchi | 391864 | [391864-entrance-8-iriguchi.json](./391864-entrance-8-iriguchi.json) |
 | Entre Laços e Amassos | 215790 | [215790-entre-lacos-e-amassos.json](./215790-entre-lacos-e-amassos.json) |
+| Entre-Deux | 99445 | [99445-entre-deux.json](./99445-entre-deux.json) |
 | Entrenched | 257229 | [257229-entrenched.json](./257229-entrenched.json) |
 | Entrepreneurial tycoon | 236884 | [236884-entrepreneurial-tycoon.json](./236884-entrepreneurial-tycoon.json) |
 | Entropic Decay | 192622 | [192622-entropic-decay.json](./192622-entropic-decay.json) |
@@ -3463,6 +3464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Dumpster Bear | 19615 | [19615-epic-dumpster-bear.json](./19615-epic-dumpster-bear.json) |
 | Epic Dumpster Bear 1.5 DX: Dumpster Fire Rebirth | 290824 | [290824-epic-dumpster-bear-1-5-dx-dumpster-fire-rebirth.json](./290824-epic-dumpster-bear-1-5-dx-dumpster-fire-rebirth.json) |
 | Epic Dumpster Bear 2: He Who Bears Wins | 135146 | [135146-epic-dumpster-bear-2-he-who-bears-wins.json](./135146-epic-dumpster-bear-2-he-who-bears-wins.json) |
+| Epic Dumpster Bear: Dumpster Fire Redux | 99461 | [99461-epic-dumpster-bear-dumpster-fire-redux.json](./99461-epic-dumpster-bear-dumpster-fire-redux.json) |
 | Epic Empire | 318732 | [318732-epic-empire.json](./318732-epic-empire.json) |
 | Epic Eon | 280337 | [280337-epic-eon.json](./280337-epic-eon.json) |
 | Epic Escapes Dark Seas, Mysteries of Ancient Inventors Atlantis, Elementary My Dear Majesty | 201273 | [201273-epic-escapes-dark-seas-mysteries-of-ancient-inventors-atlantis-elementary-my-dear-majesty.json](./201273-epic-escapes-dark-seas-mysteries-of-ancient-inventors-atlantis-elementary-my-dear-majesty.json) |
@@ -6317,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Cycling | 330189 | [330189-extreme-cycling.json](./330189-extreme-cycling.json) |
 | Extreme Cycling Championship | 406796 | [406796-extreme-cycling-championship.json](./406796-extreme-cycling-championship.json) |
 | Extreme Dash | 262468 | [262468-extreme-dash.json](./262468-extreme-dash.json) |
+| Extreme Dash: Reloaded | 99453 | [99453-extreme-dash-reloaded.json](./99453-extreme-dash-reloaded.json) |
 | Extreme Demolition | 78541 | [78541-extreme-demolition.json](./78541-extreme-demolition.json) |
 | Extreme Drift Car Driving | 108226 | [108226-extreme-drift-car-driving.json](./108226-extreme-drift-car-driving.json) |
 | Extreme Drifters | 105161 | [105161-extreme-drifters.json](./105161-extreme-drifters.json) |
