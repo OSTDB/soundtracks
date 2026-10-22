@@ -6504,6 +6504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitori H Aco tan | 98035 | [98035-hitori-h-aco-tan.json](./98035-hitori-h-aco-tan.json) |
 | Hitori Kakurenbo | 150131 | [150131-hitori-kakurenbo.json](./150131-hitori-kakurenbo.json) |
 | Hitori Kakurenbo Online | 187450 | [187450-hitori-kakurenbo-online.json](./187450-hitori-kakurenbo-online.json) |
+| Hitori Logic | 146754 | [146754-hitori-logic.json](./146754-hitori-logic.json) |
 | Hitori no Shita: The Outcast | 228959 | [228959-hitori-no-shita-the-outcast.json](./228959-hitori-no-shita-the-outcast.json) |
 | Hitoriasobi | 398576 | [398576-hitoriasobi.json](./398576-hitoriasobi.json) |
 | Hitotsu No Mori | 120770 | [120770-hitotsu-no-mori.json](./120770-hitotsu-no-mori.json) |
@@ -6826,6 +6827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Mania | 157183 | [157183-holiday-mania.json](./157183-holiday-mania.json) |
 | Holiday Present Hunt | 349501 | [349501-holiday-present-hunt.json](./349501-holiday-present-hunt.json) |
 | Holiday Racer | 144386 | [144386-holiday-racer.json](./144386-holiday-racer.json) |
+| Holiday Rush | 146586 | [146586-holiday-rush.json](./146586-holiday-rush.json) |
 | Holiday Simulator : Wacky Sleigh Ride | 30070 | [30070-holiday-simulator-wacky-sleigh-ride.json](./30070-holiday-simulator-wacky-sleigh-ride.json) |
 | Holiday Solitaire Easter | 173070 | [173070-holiday-solitaire-easter.json](./173070-holiday-solitaire-easter.json) |
 | Holiday Tapp Gingerbread Chase | 266141 | [266141-holiday-tapp-gingerbread-chase.json](./266141-holiday-tapp-gingerbread-chase.json) |
@@ -9217,6 +9219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt For Gods | 55248 | [55248-hunt-for-gods.json](./55248-hunt-for-gods.json) |
 | Hunt for Junk | 205247 | [205247-hunt-for-junk.json](./205247-hunt-for-junk.json) |
 | Hunt for the Shadow Rider | 140992 | [140992-hunt-for-the-shadow-rider.json](./140992-hunt-for-the-shadow-rider.json) |
+| Hunt for Treasure | 146583 | [146583-hunt-for-treasure.json](./146583-hunt-for-treasure.json) |
 | Hunt Grounds | 366949 | [366949-hunt-grounds.json](./366949-hunt-grounds.json) |
 | Hunt Hide Run | 296916 | [296916-hunt-hide-run.json](./296916-hunt-hide-run.json) |
 | Hunt Me | 305972 | [305972-hunt-me.json](./305972-hunt-me.json) |
