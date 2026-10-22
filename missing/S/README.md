@@ -4173,6 +4173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senalux: Level Pack 3 | 168755 | [168755-senalux-level-pack-3.json](./168755-senalux-level-pack-3.json) |
 | Senalux: Level Pack 4 | 168756 | [168756-senalux-level-pack-4.json](./168756-senalux-level-pack-4.json) |
 | Senbazuru | 288681 | [288681-senbazuru.json](./288681-senbazuru.json) |
+| Send | 133672 | [133672-send.json](./133672-send.json) |
 | Send & Defend | 421335 | [421335-send-and-defend.json](./421335-send-and-defend.json) |
 | Send In The Clown | 424041 | [424041-send-in-the-clown.json](./424041-send-in-the-clown.json) |
 | Send In The Vampires | 386344 | [386344-send-in-the-vampires.json](./386344-send-in-the-vampires.json) |
@@ -5873,6 +5874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharkey's Shootout | 91401 | [91401-sharkeys-shootout.json](./91401-sharkeys-shootout.json) |
 | Sharknado VR: Arcade Edition | 197404 | [197404-sharknado-vr-arcade-edition.json](./197404-sharknado-vr-arcade-edition.json) |
 | Sharknado VR: Eye of the Storm | 110288 | [110288-sharknado-vr-eye-of-the-storm.json](./110288-sharknado-vr-eye-of-the-storm.json) |
+| Sharknado: The Video Game | 133675 | [133675-sharknado-the-video-game.json](./133675-sharknado-the-video-game.json) |
 | Sharkphobia | 243653 | [243653-sharkphobia.json](./243653-sharkphobia.json) |
 | Sharks | 239708 | [239708-sharks.json](./239708-sharks.json) |
 | Sharks 3D | 328305 | [328305-sharks-3d.json](./328305-sharks-3d.json) |
@@ -15821,6 +15823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceum | 356050 | [356050-spaceum.json](./356050-spaceum.json) |
 | SpaceVenture | 63497 | [63497-spaceventure.json](./63497-spaceventure.json) |
 | SpaceVibes | 129120 | [129120-spacevibes.json](./129120-spacevibes.json) |
+| Spacewalk Defender | 133664 | [133664-spacewalk-defender.json](./133664-spacewalk-defender.json) |
 | Spacewar | 181938 | [181938-spacewar.json](./181938-spacewar.json) |
 | SpacewAR Uprising | 101415 | [101415-spacewar-uprising.json](./101415-spacewar-uprising.json) |
 | Spaceward Ho! | 47296 | [47296-spaceward-ho.json](./47296-spaceward-ho.json) |
@@ -21360,6 +21363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Place | 351615 | [351615-strange-place.json](./351615-strange-place.json) |
 | Strange Pong | 339659 | [339659-strange-pong.json](./339659-strange-pong.json) |
 | Strange Pool | 331879 | [331879-strange-pool.json](./331879-strange-pool.json) |
+| Strange Science | 133679 | [133679-strange-science.json](./133679-strange-science.json) |
 | Strange Seed | 257998 | [257998-strange-seed.json](./257998-strange-seed.json) |
 | Strange Shadow | 258651 | [258651-strange-shadow.json](./258651-strange-shadow.json) |
 | Strange Shores: Social Desktop Fishing | 344395 | [344395-strange-shores-social-desktop-fishing.json](./344395-strange-shores-social-desktop-fishing.json) |
@@ -23621,6 +23625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Artificial Intelligence Psike | 216871 | [216871-super-artificial-intelligence-psike.json](./216871-super-artificial-intelligence-psike.json) |
 | Super Asqr | 199370 | [199370-super-asqr.json](./199370-super-asqr.json) |
 | Super Assfuck RPG | 282096 | [282096-super-assfuck-rpg.json](./282096-super-assfuck-rpg.json) |
+| Super Astreus 2 | 133651 | [133651-super-astreus-2.json](./133651-super-astreus-2.json) |
 | Super Astro Cat | 331521 | [331521-super-astro-cat.json](./331521-super-astro-cat.json) |
 | Super Astro Fighter | 60200 | [60200-super-astro-fighter.json](./60200-super-astro-fighter.json) |
 | Super Astro Space Blast | 387542 | [387542-super-astro-space-blast.json](./387542-super-astro-space-blast.json) |
@@ -27517,6 +27522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Atlas | 188565 | [188565-sword-of-atlas.json](./188565-sword-of-atlas.json) |
 | Sword of Chaos | 59467 | [59467-sword-of-chaos.json](./59467-sword-of-chaos.json) |
 | Sword of Convallaria: For This World of Peace | 212438 | [212438-sword-of-convallaria-for-this-world-of-peace.json](./212438-sword-of-convallaria-for-this-world-of-peace.json) |
+| Sword of Destiny | 133670 | [133670-sword-of-destiny.json](./133670-sword-of-destiny.json) |
 | Sword of Destruction | 237428 | [237428-sword-of-destruction.json](./237428-sword-of-destruction.json) |
 | Sword of Fireheart - The Awakening Element | 31989 | [31989-sword-of-fireheart-the-awakening-element.json](./31989-sword-of-fireheart-the-awakening-element.json) |
 | Sword of Glory Roguelite Slash | 219990 | [219990-sword-of-glory-roguelite-slash.json](./219990-sword-of-glory-roguelite-slash.json) |
