@@ -6610,6 +6610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birmingham's Ghosts: Fear and Loathing | 248675 | [248675-birminghams-ghosts-fear-and-loathing.json](./248675-birminghams-ghosts-fear-and-loathing.json) |
 | Birnchen & Yoshie: Minor Confrontations | 211457 | [211457-birnchen-and-yoshie-minor-confrontations.json](./211457-birnchen-and-yoshie-minor-confrontations.json) |
 | Birola World | 267903 | [267903-birola-world.json](./267903-birola-world.json) |
+| Birth of a Hunter | 115344 | [115344-birth-of-a-hunter.json](./115344-birth-of-a-hunter.json) |
 | Birth of America 2: Wars in America | 59496 | [59496-birth-of-america-2-wars-in-america.json](./59496-birth-of-america-2-wars-in-america.json) |
 | Birth of Rome: Alea Jacta Est | 62138 | [62138-birth-of-rome-alea-jacta-est.json](./62138-birth-of-rome-alea-jacta-est.json) |
 | Birth of Shadows | 34490 | [34490-birth-of-shadows.json](./34490-birth-of-shadows.json) |
