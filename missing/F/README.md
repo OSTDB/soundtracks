@@ -7183,6 +7183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footballer | 160193 | [160193-footballer.json](./160193-footballer.json) |
 | Footballer of the Year | 41005 | [41005-footballer-of-the-year.json](./41005-footballer-of-the-year.json) |
 | Footballer of the Year 2 | 41004 | [41004-footballer-of-the-year-2.json](./41004-footballer-of-the-year-2.json) |
+| FootballTeam | 153801 | [153801-footballteam.json](./153801-footballteam.json) |
 | FootGoal! Tiki Taka | 147921 | [147921-footgoal-tiki-taka.json](./147921-footgoal-tiki-taka.json) |
 | Foothold VR | 283409 | [283409-foothold-vr.json](./283409-foothold-vr.json) |
 | Footie | 268485 | [268485-footie.json](./268485-footie.json) |
