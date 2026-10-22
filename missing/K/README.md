@@ -814,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Drift | 36879 | [36879-kart-drift.json](./36879-kart-drift.json) |
 | Kart Evolution 2025 | 345816 | [345816-kart-evolution-2025.json](./345816-kart-evolution-2025.json) |
 | Kart Fighter | 48577 | [48577-kart-fighter.json](./48577-kart-fighter.json) |
+| Kart kids | 129433 | [129433-kart-kids.json](./129433-kart-kids.json) |
 | Kart Krashers | 23588 | [23588-kart-krashers.json](./23588-kart-krashers.json) |
 | Kart Life | 260589 | [260589-kart-life.json](./260589-kart-life.json) |
 | Kart Racing | 381228 | [381228-kart-racing.json](./381228-kart-racing.json) |
@@ -3360,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kluno: A Kid's Dream | 26767 | [26767-kluno-a-kids-dream.json](./26767-kluno-a-kids-dream.json) |
 | Klustar | 93363 | [93363-klustar.json](./93363-klustar.json) |
 | Kly-Kly | 192942 | [192942-kly-kly.json](./192942-kly-kly.json) |
+| Klym | 129427 | [129427-klym.json](./129427-klym.json) |
 | Kmenta | 109653 | [109653-kmenta.json](./109653-kmenta.json) |
 | Kmf | 184484 | [184484-kmf.json](./184484-kmf.json) |
 | KMG Tournament: Kiss More Girls | 180690 | [180690-kmg-tournament-kiss-more-girls.json](./180690-kmg-tournament-kiss-more-girls.json) |
@@ -4407,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kraken Land | 116434 | [116434-kraken-land.json](./116434-kraken-land.json) |
 | Kraken Odyssey | 256215 | [256215-kraken-odyssey.json](./256215-kraken-odyssey.json) |
 | Kraken Skulls | 110228 | [110228-kraken-skulls.json](./110228-kraken-skulls.json) |
+| Kraken's Curse | 129429 | [129429-krakens-curse.json](./129429-krakens-curse.json) |
 | Krakout | 37171 | [37171-krakout.json](./37171-krakout.json) |
 | Kraktures | 318981 | [318981-kraktures.json](./318981-kraktures.json) |
 | Kram | 46878 | [46878-kram.json](./46878-kram.json) |
