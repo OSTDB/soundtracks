@@ -3541,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders: Planetfall - Deluxe Edition | 118845 | [118845-age-of-wonders-planetfall-deluxe-edition.json](./118845-age-of-wonders-planetfall-deluxe-edition.json) |
 | Age of Wonders: Planetfall - Invasions | 132166 | [132166-age-of-wonders-planetfall-invasions.json](./132166-age-of-wonders-planetfall-invasions.json) |
 | Age of Wonders: Planetfall - Premium Edition | 154527 | [154527-age-of-wonders-planetfall-premium-edition.json](./154527-age-of-wonders-planetfall-premium-edition.json) |
+| Age of Wonders: Planetfall - Revelations | 140435 | [140435-age-of-wonders-planetfall-revelations.json](./140435-age-of-wonders-planetfall-revelations.json) |
 | Age of Wonders: Planetfall - Star Kings | 148927 | [148927-age-of-wonders-planetfall-star-kings.json](./148927-age-of-wonders-planetfall-star-kings.json) |
 | Age of Wonders: Shadow Magic | 591 | [591-age-of-wonders-shadow-magic.json](./591-age-of-wonders-shadow-magic.json) |
 | Age of Wushu 2 | 26643 | [26643-age-of-wushu-2.json](./26643-age-of-wushu-2.json) |
@@ -5588,6 +5589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Star Supermarket Simulator: Vinyl Vibes | 328573 | [328573-all-star-supermarket-simulator-vinyl-vibes.json](./328573-all-star-supermarket-simulator-vinyl-vibes.json) |
 | All-Star Troopers | 107378 | [107378-all-star-troopers.json](./107378-all-star-troopers.json) |
 | All-Star Watersports | 278852 | [278852-all-star-watersports.json](./278852-all-star-watersports.json) |
+| All-Time Battle | 140446 | [140446-all-time-battle.json](./140446-all-time-battle.json) |
 | All‑Stars 4‑Game Collection | 396440 | [396440-all-stars-4-game-collection.json](./396440-all-stars-4-game-collection.json) |
 | Alla Prima | 207315 | [207315-alla-prima.json](./207315-alla-prima.json) |
 | Allakin | 217307 | [217307-allakin.json](./217307-allakin.json) |
@@ -5876,6 +5878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlphaPit | 58299 | [58299-alphapit.json](./58299-alphapit.json) |
 | Alphapoint | 244329 | [244329-alphapoint.json](./244329-alphapoint.json) |
 | Alphaputt | 134386 | [134386-alphaputt.json](./134386-alphaputt.json) |
+| Alphaset by Powgi | 140411 | [140411-alphaset-by-powgi.json](./140411-alphaset-by-powgi.json) |
 | AlphaSwap | 234071 | [234071-alphaswap.json](./234071-alphaswap.json) |
 | Alphaville | 253284 | [253284-alphaville.json](./253284-alphaville.json) |
 | Alphys Neo | 268875 | [268875-alphys-neo.json](./268875-alphys-neo.json) |
