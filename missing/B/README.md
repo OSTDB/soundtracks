@@ -5586,6 +5586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biblioteksspel | 393749 | [393749-biblioteksspel.json](./393749-biblioteksspel.json) |
 | Biblistry | 58797 | [58797-biblistry.json](./58797-biblistry.json) |
 | Bibou | 32916 | [32916-bibou.json](./32916-bibou.json) |
+| Bibou Quest | 150917 | [150917-bibou-quest.json](./150917-bibou-quest.json) |
 | Bic's Christmas Tale | 317344 | [317344-bics-christmas-tale.json](./317344-bics-christmas-tale.json) |
 | Bicho | 223474 | [223474-bicho.json](./223474-bicho.json) |
 | Bickadoodle | 185088 | [185088-bickadoodle.json](./185088-bickadoodle.json) |
@@ -8058,6 +8059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Craft 3D: City Building | 86995 | [86995-block-craft-3d-city-building.json](./86995-block-craft-3d-city-building.json) |
 | Block Craft 3D: Crafting & Building Game | 99707 | [99707-block-craft-3d-crafting-and-building-game.json](./99707-block-craft-3d-crafting-and-building-game.json) |
 | Block Dash Adventure | 164294 | [164294-block-dash-adventure.json](./164294-block-dash-adventure.json) |
+| Block Destruction | 150986 | [150986-block-destruction.json](./150986-block-destruction.json) |
 | Block Destruction | 56391 | [56391-block-destruction.json](./56391-block-destruction.json) |
 | Block Dizzy | 235099 | [235099-block-dizzy.json](./235099-block-dizzy.json) |
 | Block Dodge Challenge | 121584 | [121584-block-dodge-challenge.json](./121584-block-dodge-challenge.json) |
@@ -13466,6 +13468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Bye-Bye | 242117 | [242117-bunny-bye-bye.json](./242117-bunny-bye-bye.json) |
 | Bunny Catch Those Eggs | 387730 | [387730-bunny-catch-those-eggs.json](./387730-bunny-catch-those-eggs.json) |
 | Bunny Clicker | 320340 | [320340-bunny-clicker.json](./320340-bunny-clicker.json) |
+| Bunny Count | 150918 | [150918-bunny-count.json](./150918-bunny-count.json) |
 | Bunny Dodge | 118933 | [118933-bunny-dodge.json](./118933-bunny-dodge.json) |
 | Bunny E-shop | 306528 | [306528-bunny-e-shop.json](./306528-bunny-e-shop.json) |
 | Bunny Eureka | 221162 | [221162-bunny-eureka.json](./221162-bunny-eureka.json) |
