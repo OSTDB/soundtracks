@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen Beast | 225213 | [225213-queen-beast.json](./225213-queen-beast.json) |
 | Queen Boat | 364360 | [364360-queen-boat.json](./364360-queen-boat.json) |
 | Queen Busters | 324157 | [324157-queen-busters.json](./324157-queen-busters.json) |
+| Queen City Chaos | 118059 | [118059-queen-city-chaos.json](./118059-queen-city-chaos.json) |
 | Queen Elsa and Her Horse Girl Games | 107862 | [107862-queen-elsa-and-her-horse-girl-games.json](./107862-queen-elsa-and-her-horse-girl-games.json) |
 | Queen Fighter 2000 | 269754 | [269754-queen-fighter-2000.json](./269754-queen-fighter-2000.json) |
 | Queen Frances and the Rat Rebellion | 112307 | [112307-queen-frances-and-the-rat-rebellion.json](./112307-queen-frances-and-the-rat-rebellion.json) |
