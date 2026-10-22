@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
 | Danger Room | 30616 | [30616-danger-room.json](./30616-danger-room.json) |
 | Danger Room VR | 108399 | [108399-danger-room-vr.json](./108399-danger-room-vr.json) |
+| Danger Scavenger | 133673 | [133673-danger-scavenger.json](./133673-danger-scavenger.json) |
 | Danger Sticks | 398488 | [398488-danger-sticks.json](./398488-danger-sticks.json) |
 | Danger Street | 304126 | [304126-danger-street.json](./304126-danger-street.json) |
 | Danger Stunt Drive: Extreme Racing Simulator | 308633 | [308633-danger-stunt-drive-extreme-racing-simulator.json](./308633-danger-stunt-drive-extreme-racing-simulator.json) |
@@ -1149,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Dimensions: Wax Beauty | 139789 | [139789-dark-dimensions-wax-beauty.json](./139789-dark-dimensions-wax-beauty.json) |
 | Dark Disciples | 233470 | [233470-dark-disciples.json](./233470-dark-disciples.json) |
 | Dark Disciples II | 168324 | [168324-dark-disciples-ii.json](./168324-dark-disciples-ii.json) |
+| Dark Disharmony | 133662 | [133662-dark-disharmony.json](./133662-dark-disharmony.json) |
 | Dark Dive | 297858 | [297858-dark-dive.json](./297858-dark-dive.json) |
 | Dark Dive: The Last Tropic | 277021 | [277021-dark-dive-the-last-tropic.json](./277021-dark-dive-the-last-tropic.json) |
 | Dark Divinity: The Calling | 196545 | [196545-dark-divinity-the-calling.json](./196545-dark-divinity-the-calling.json) |
@@ -1379,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Realm: Queen of Flames | 139797 | [139797-dark-realm-queen-of-flames.json](./139797-dark-realm-queen-of-flames.json) |
 | Dark Realm: Queen of Flames - Collector's Edition HD | 88309 | [88309-dark-realm-queen-of-flames-collectors-edition-hd.json](./88309-dark-realm-queen-of-flames-collectors-edition-hd.json) |
 | Dark Reflection | 380233 | [380233-dark-reflection.json](./380233-dark-reflection.json) |
+| Dark Regents | 133657 | [133657-dark-regents.json](./133657-dark-regents.json) |
 | Dark Reign 2 | 11390 | [11390-dark-reign-2.json](./11390-dark-reign-2.json) |
 | Dark Reign: The Future of War - Battles of the Outer Rim | 73771 | [73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json](./73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json) |
 | Dark Reign: The Future of War - Rise of the Shadowhand | 658 | [658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json](./658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json) |
@@ -5655,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolation Tycoon | 169361 | [169361-desolation-tycoon.json](./169361-desolation-tycoon.json) |
 | Desolatium | 150643 | [150643-desolatium.json](./150643-desolatium.json) |
 | Desolatium: Prologue | 200115 | [200115-desolatium-prologue.json](./200115-desolatium-prologue.json) |
+| Désolé | 133693 | [133693-desole.json](./133693-desole.json) |
 | Desolus | 58718 | [58718-desolus.json](./58718-desolus.json) |
 | Desomnia | 365844 | [365844-desomnia.json](./365844-desomnia.json) |
 | DésoPadéso | 140845 | [140845-desopadeso.json](./140845-desopadeso.json) |
@@ -6529,6 +6533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dibbles 2: Winter Woes | 403112 | [403112-dibbles-2-winter-woes.json](./403112-dibbles-2-winter-woes.json) |
 | Dibbles 3: Desert Despair | 403113 | [403113-dibbles-3-desert-despair.json](./403113-dibbles-3-desert-despair.json) |
 | Dibbles Pro Pack | 403114 | [403114-dibbles-pro-pack.json](./403114-dibbles-pro-pack.json) |
+| Dicast: Rules of Chaos | 133686 | [133686-dicast-rules-of-chaos.json](./133686-dicast-rules-of-chaos.json) |
 | Dice | 288365 | [288365-dice.json](./288365-dice.json) |
 | Dice | 309457 | [309457-dice.json](./309457-dice.json) |
 | Dice & Fighter | 126388 | [126388-dice-and-fighter.json](./126388-dice-and-fighter.json) |
@@ -10382,6 +10387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorifto! | 421208 | [421208-dorifto.json](./421208-dorifto.json) |
 | Doritos Crash Course Go! | 63573 | [63573-doritos-crash-course-go.json](./63573-doritos-crash-course-go.json) |
 | Doritos Crash Course: City Lights | 349720 | [349720-doritos-crash-course-city-lights.json](./349720-doritos-crash-course-city-lights.json) |
+| Dork's Dilemma? | 133681 | [133681-dorks-dilemma.json](./133681-dorks-dilemma.json) |
 | Dorkom | 407600 | [407600-dorkom.json](./407600-dorkom.json) |
 | Dorky Fork | 130209 | [130209-dorky-fork.json](./130209-dorky-fork.json) |
 | Dorman's Attraction: Upgraded & Advanced | 396897 | [396897-dormans-attraction-upgraded-and-advanced.json](./396897-dormans-attraction-upgraded-and-advanced.json) |
