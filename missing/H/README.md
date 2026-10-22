@@ -2875,6 +2875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hector The Cat: Treasure Hunter | 257437 | [257437-hector-the-cat-treasure-hunter.json](./257437-hector-the-cat-treasure-hunter.json) |
 | Hector: Badge of Carnage! - Episode 1 | 119182 | [119182-hector-badge-of-carnage-episode-1.json](./119182-hector-badge-of-carnage-episode-1.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
+| Hed the Pig | 142305 | [142305-hed-the-pig.json](./142305-hed-the-pig.json) |
 | Hedera | 135605 | [135605-hedera.json](./135605-hedera.json) |
 | Hedge Fund Tycoon | 239779 | [239779-hedge-fund-tycoon.json](./239779-hedge-fund-tycoon.json) |
 | Hedgeborough | 390712 | [390712-hedgeborough.json](./390712-hedgeborough.json) |
@@ -8376,6 +8377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel The Memory | 409710 | [409710-hotel-the-memory.json](./409710-hotel-the-memory.json) |
 | Hotel Tome ws | 340486 | [340486-hotel-tome-ws.json](./340486-hotel-tome-ws.json) |
 | Hotel Transylvania 2: The Game | 108822 | [108822-hotel-transylvania-2-the-game.json](./108822-hotel-transylvania-2-the-game.json) |
+| Hotel Transylvania Adventures: Run, Jump, Build! | 142290 | [142290-hotel-transylvania-adventures-run-jump-build.json](./142290-hotel-transylvania-adventures-run-jump-build.json) |
 | Hotel Transylvania Dash | 108820 | [108820-hotel-transylvania-dash.json](./108820-hotel-transylvania-dash.json) |
 | Hotel Transylvania Popstic | 106141 | [106141-hotel-transylvania-popstic.json](./106141-hotel-transylvania-popstic.json) |
 | Hotel Transylvania: Crazy Cruise | 105769 | [105769-hotel-transylvania-crazy-cruise.json](./105769-hotel-transylvania-crazy-cruise.json) |
