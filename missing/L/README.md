@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laws of Attraction | 313731 | [313731-laws-of-attraction.json](./313731-laws-of-attraction.json) |
 | Laws of Attraction 2 | 313732 | [313732-laws-of-attraction-2.json](./313732-laws-of-attraction-2.json) |
 | Laws of Machine | 96865 | [96865-laws-of-machine.json](./96865-laws-of-machine.json) |
+| Lawyer Guy: Defender of Justice | 140852 | [140852-lawyer-guy-defender-of-justice.json](./140852-lawyer-guy-defender-of-justice.json) |
 | Lawyer Hunt | 94377 | [94377-lawyer-hunt.json](./94377-lawyer-hunt.json) |
 | Laxius Force | 50802 | [50802-laxius-force.json](./50802-laxius-force.json) |
 | Laxius Force | 63127 | [63127-laxius-force.json](./63127-laxius-force.json) |
@@ -7155,6 +7156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid Trips | 26803 | [26803-lucid-trips.json](./26803-lucid-trips.json) |
 | Lucid9: Inciting Incident | 80553 | [80553-lucid9-inciting-incident.json](./80553-lucid9-inciting-incident.json) |
 | Lucido Cancels Everything | 295309 | [295309-lucido-cancels-everything.json](./295309-lucido-cancels-everything.json) |
+| Lucidscape | 141067 | [141067-lucidscape.json](./141067-lucidscape.json) |
 | Lucidus Mortem | 154075 | [154075-lucidus-mortem.json](./154075-lucidus-mortem.json) |
 | Lucie | 90834 | [90834-lucie.json](./90834-lucie.json) |
 | Lucie's Bistro | 215787 | [215787-lucies-bistro.json](./215787-lucies-bistro.json) |
