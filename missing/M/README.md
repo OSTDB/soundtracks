@@ -10417,6 +10417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misao: Definitive Edition | 74567 | [74567-misao-definitive-edition.json](./74567-misao-definitive-edition.json) |
 | Misc. | 159079 | [159079-misc.json](./159079-misc.json) |
 | Misc. A Tiny Tale | 138025 | [138025-misc-a-tiny-tale.json](./138025-misc-a-tiny-tale.json) |
+| Mischance | 148937 | [148937-mischance.json](./148937-mischance.json) |
 | Mischief Dungeon Life | 204285 | [204285-mischief-dungeon-life.json](./204285-mischief-dungeon-life.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Asha Edition | 225040 | [225040-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-asha-edition.json](./225040-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-asha-edition.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Clara Edition | 232996 | [232996-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-clara-edition.json](./232996-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-clara-edition.json) |
@@ -16966,6 +16967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth of Empires: Hellenic Civilization Pack | 322729 | [322729-myth-of-empires-hellenic-civilization-pack.json](./322729-myth-of-empires-hellenic-civilization-pack.json) |
 | Myth of Empires: Musical Instruments Pack | 293413 | [293413-myth-of-empires-musical-instruments-pack.json](./293413-myth-of-empires-musical-instruments-pack.json) |
 | Myth of Empires: Throne | 396559 | [396559-myth-of-empires-throne.json](./396559-myth-of-empires-throne.json) |
+| Myth of Ethary | 148790 | [148790-myth-of-ethary.json](./148790-myth-of-ethary.json) |
 | Myth of Future Dimension | 277739 | [277739-myth-of-future-dimension.json](./277739-myth-of-future-dimension.json) |
 | Myth of Mirka | 209670 | [209670-myth-of-mirka.json](./209670-myth-of-mirka.json) |
 | Myth of Mist: Legacy | 167766 | [167766-myth-of-mist-legacy.json](./167766-myth-of-mist-legacy.json) |
