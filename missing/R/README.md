@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raige | 156044 | [156044-raige.json](./156044-raige.json) |
 | Raik | 135688 | [135688-raik.json](./135688-raik.json) |
 | Rail Adventures | 19063 | [19063-rail-adventures.json](./19063-rail-adventures.json) |
+| Rail Blazers run | 102641 | [102641-rail-blazers-run.json](./102641-rail-blazers-run.json) |
 | Rail Cargo Simulator | 33446 | [33446-rail-cargo-simulator.json](./33446-rail-cargo-simulator.json) |
 | Rail Chase 2 | 39469 | [39469-rail-chase-2.json](./39469-rail-chase-2.json) |
 | Rail Estate | 387367 | [387367-rail-estate.json](./387367-rail-estate.json) |
@@ -1999,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Robot Adventure Game | 223953 | [223953-rc-robot-adventure-game.json](./223953-rc-robot-adventure-game.json) |
 | RC SIM 2022 | 369554 | [369554-rc-sim-2022.json](./369554-rc-sim-2022.json) |
 | RC Simulation 2.0 | 34978 | [34978-rc-simulation-2-0.json](./34978-rc-simulation-2-0.json) |
+| RC Spy Drone 2018 | 102548 | [102548-rc-spy-drone-2018.json](./102548-rc-spy-drone-2018.json) |
 | RC Toy Machines | 100173 | [100173-rc-toy-machines.json](./100173-rc-toy-machines.json) |
 | RC-AirSim - RC Model Airplane Flight Simulator | 31868 | [31868-rc-airsim-rc-model-airplane-flight-simulator.json](./31868-rc-airsim-rc-model-airplane-flight-simulator.json) |
 | RC: Car Maniacs | 311130 | [311130-rc-car-maniacs.json](./311130-rc-car-maniacs.json) |
