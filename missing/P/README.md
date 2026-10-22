@@ -3869,6 +3869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petrichor | 333175 | [333175-petrichor.json](./333175-petrichor.json) |
 | Petrichor | 337594 | [337594-petrichor.json](./337594-petrichor.json) |
 | Petrichor | 60540 | [60540-petrichor.json](./60540-petrichor.json) |
+| Petrichor: Time Attack! | 130580 | [130580-petrichor-time-attack.json](./130580-petrichor-time-attack.json) |
 | Petrick | 370306 | [370306-petrick.json](./370306-petrick.json) |
 | Petricor | 413905 | [413905-petricor.json](./413905-petricor.json) |
 | PetriDish.pw | 55793 | [55793-petridish-pw.json](./55793-petridish-pw.json) |
@@ -7433,6 +7434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plastic Invasion: A Super Magical Mermaid Adventure | 302128 | [302128-plastic-invasion-a-super-magical-mermaid-adventure.json](./302128-plastic-invasion-a-super-magical-mermaid-adventure.json) |
 | Plastic Love | 122910 | [122910-plastic-love.json](./122910-plastic-love.json) |
 | Plastic Lust | 392357 | [392357-plastic-lust.json](./392357-plastic-lust.json) |
+| Plastic Memories | 130603 | [130603-plastic-memories.json](./130603-plastic-memories.json) |
 | Plastic Model | 229684 | [229684-plastic-model.json](./229684-plastic-model.json) |
 | Plastic Playground | 33116 | [33116-plastic-playground.json](./33116-plastic-playground.json) |
 | Plastic Soldiers | 111701 | [111701-plastic-soldiers.json](./111701-plastic-soldiers.json) |
