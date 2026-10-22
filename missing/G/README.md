@@ -1609,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gary Grigsby's War in the East: Don to the Danube | 154491 | [154491-gary-grigsbys-war-in-the-east-don-to-the-danube.json](./154491-gary-grigsbys-war-in-the-east-don-to-the-danube.json) |
 | Gary Grigsby's War in the East: Lost Battles | 174171 | [174171-gary-grigsbys-war-in-the-east-lost-battles.json](./174171-gary-grigsbys-war-in-the-east-lost-battles.json) |
 | Gary Grigsby's War in the Pacific | 69846 | [69846-gary-grigsbys-war-in-the-pacific.json](./69846-gary-grigsbys-war-in-the-pacific.json) |
+| Gary Grigsby's War in the Pacific: Admiral's Edition | 143319 | [143319-gary-grigsbys-war-in-the-pacific-admirals-edition.json](./143319-gary-grigsbys-war-in-the-pacific-admirals-edition.json) |
 | Gary Grigsby's War in the West | 59528 | [59528-gary-grigsbys-war-in-the-west.json](./59528-gary-grigsbys-war-in-the-west.json) |
 | Gary Grigsby's War in the West: Operation Torch | 154492 | [154492-gary-grigsbys-war-in-the-west-operation-torch.json](./154492-gary-grigsbys-war-in-the-west-operation-torch.json) |
 | Gary Lineker's Hot-Shot! | 107607 | [107607-gary-linekers-hot-shot.json](./107607-gary-linekers-hot-shot.json) |
@@ -2356,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gennady | 252013 | [252013-gennady.json](./252013-gennady.json) |
 | Geno 2 the Generals' Orders | 265933 | [265933-geno-2-the-generals-orders.json](./265933-geno-2-the-generals-orders.json) |
 | Geno the Fallen King | 126410 | [126410-geno-the-fallen-king.json](./126410-geno-the-fallen-king.json) |
+| Genocide | 142652 | [142652-genocide.json](./142652-genocide.json) |
 | Genocide | 212859 | [212859-genocide.json](./212859-genocide.json) |
 | Genocide | 56419 | [56419-genocide.json](./56419-genocide.json) |
 | Genocide 2 | 38334 | [38334-genocide-2.json](./38334-genocide-2.json) |
@@ -3549,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls, I Just Want to Get Paid! | 378284 | [378284-girls-i-just-want-to-get-paid.json](./378284-girls-i-just-want-to-get-paid.json) |
 | Girls! Girls! Girls!? | 219796 | [219796-girls-girls-girls.json](./219796-girls-girls-girls.json) |
 | Girls' civilization | 113267 | [113267-girls-civilization.json](./113267-girls-civilization.json) |
+| Girls' Civilization 2 | 143395 | [143395-girls-civilization-2.json](./143395-girls-civilization-2.json) |
 | Girls' Civilization 3 | 207398 | [207398-girls-civilization-3.json](./207398-girls-civilization-3.json) |
 | Girls' Day Out | 407327 | [407327-girls-day-out.json](./407327-girls-day-out.json) |
 | Girls' Dorm Wars | 359346 | [359346-girls-dorm-wars.json](./359346-girls-dorm-wars.json) |
@@ -3803,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitchhikers: The Spaces Between - Deluxe Glitchpod Edition | 205227 | [205227-glitchhikers-the-spaces-between-deluxe-glitchpod-edition.json](./205227-glitchhikers-the-spaces-between-deluxe-glitchpod-edition.json) |
 | Glitchphobia | 139462 | [139462-glitchphobia.json](./139462-glitchphobia.json) |
 | GlitchPoly | 140396 | [140396-glitchpoly.json](./140396-glitchpoly.json) |
+| Glitchpunk | 142927 | [142927-glitchpunk.json](./142927-glitchpunk.json) |
 | Glitchrunners | 33456 | [33456-glitchrunners.json](./33456-glitchrunners.json) |
 | Glitchspace | 6070 | [6070-glitchspace.json](./6070-glitchspace.json) |
 | Glitchspankr | 282076 | [282076-glitchspankr.json](./282076-glitchspankr.json) |
@@ -4654,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godmorgon: Spooky Ride | 187227 | [187227-godmorgon-spooky-ride.json](./187227-godmorgon-spooky-ride.json) |
 | Godo | 169812 | [169812-godo.json](./169812-godo.json) |
 | Gododo | 148902 | [148902-gododo.json](./148902-gododo.json) |
+| Godot Kart | 142917 | [142917-godot-kart.json](./142917-godot-kart.json) |
 | GodPey | 84328 | [84328-godpey.json](./84328-godpey.json) |
 | Godproof | 357429 | [357429-godproof.json](./357429-godproof.json) |
 | Godrop | 292290 | [292290-godrop.json](./292290-godrop.json) |
@@ -4992,6 +4997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Warden | 310836 | [310836-golden-warden.json](./310836-golden-warden.json) |
 | Goldene Zeiten | 94234 | [94234-goldene-zeiten.json](./94234-goldene-zeiten.json) |
 | GoldenEye 007 | 1647 | [1647-goldeneye-007.json](./1647-goldeneye-007.json) |
+| GoldenEye 007: Xbox Live Arcade | 143406 | [143406-goldeneye-007-xbox-live-arcade.json](./143406-goldeneye-007-xbox-live-arcade.json) |
 | Goldeneye Doom2 | 196026 | [196026-goldeneye-doom2.json](./196026-goldeneye-doom2.json) |
 | GoldenEye With Mario Characters | 283110 | [283110-goldeneye-with-mario-characters.json](./283110-goldeneye-with-mario-characters.json) |
 | GoldenEye: Rogue Agent | 146882 | [146882-goldeneye-rogue-agent.json](./146882-goldeneye-rogue-agent.json) |
@@ -7541,6 +7547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow in the Hole | 178275 | [178275-grow-in-the-hole.json](./178275-grow-in-the-hole.json) |
 | Grow Island | 78848 | [78848-grow-island.json](./78848-grow-island.json) |
 | Grow Nano 3 | 198167 | [198167-grow-nano-3.json](./198167-grow-nano-3.json) |
+| Grow Planet | 142922 | [142922-grow-planet.json](./142922-grow-planet.json) |
 | Grow Recovery | 175835 | [175835-grow-recovery.json](./175835-grow-recovery.json) |
 | Grow RPG | 175831 | [175831-grow-rpg.json](./175831-grow-rpg.json) |
 | Grow the Seed | 244158 | [244158-grow-the-seed.json](./244158-grow-the-seed.json) |
