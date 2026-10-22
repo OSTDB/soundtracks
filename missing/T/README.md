@@ -2238,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tayto Runner | 330348 | [330348-tayto-runner.json](./330348-tayto-runner.json) |
 | Tayto Says | 330349 | [330349-tayto-says.json](./330349-tayto-says.json) |
 | Tayutama 2-you're the only one- ENG ver. | 82046 | [82046-tayutama-2-youre-the-only-one-eng-ver.json](./82046-tayutama-2-youre-the-only-one-eng-ver.json) |
+| Tayutama 2: You're the only one | 153694 | [153694-tayutama-2-youre-the-only-one.json](./153694-tayutama-2-youre-the-only-one.json) |
 | Tayutama 2: You're the only one | 30612 | [30612-tayutama-2-youre-the-only-one.json](./30612-tayutama-2-youre-the-only-one.json) |
 | Tayutama: It's happy days | 362212 | [362212-tayutama-its-happy-days.json](./362212-tayutama-its-happy-days.json) |
 | Tayutama: Kiss on My Deity | 403095 | [403095-tayutama-kiss-on-my-deity.json](./403095-tayutama-kiss-on-my-deity.json) |
@@ -2498,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technobabylon: Deluxe Edition | 51929 | [51929-technobabylon-deluxe-edition.json](./51929-technobabylon-deluxe-edition.json) |
 | Technoblade The Quest Of L'Manburg | 337634 | [337634-technoblade-the-quest-of-lmanburg.json](./337634-technoblade-the-quest-of-lmanburg.json) |
 | Technobog | 199445 | [199445-technobog.json](./199445-technobog.json) |
+| Technoccult: Covenant | 153764 | [153764-technoccult-covenant.json](./153764-technoccult-covenant.json) |
 | Technocide | 262937 | [262937-technocide.json](./262937-technocide.json) |
 | Technolites | 109509 | [109509-technolites.json](./109509-technolites.json) |
 | Technolites: Episode 1 | 109616 | [109616-technolites-episode-1.json](./109616-technolites-episode-1.json) |
@@ -4093,6 +4095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Time My School Was Invaded by Dimensional Snakes and Now I'm Bound to a Multiverse Protector! | 401267 | [401267-that-time-my-school-was-invaded-by-dimensional-snakes-and-now-im-bound-to-a-multiverse-protector.json](./401267-that-time-my-school-was-invaded-by-dimensional-snakes-and-now-im-bound-to-a-multiverse-protector.json) |
 | That Tiny Spaceship | 102351 | [102351-that-tiny-spaceship.json](./102351-that-tiny-spaceship.json) |
 | That Village | 337740 | [337740-that-village.json](./337740-that-village.json) |
+| That Which Faith Demands | 153793 | [153793-that-which-faith-demands.json](./153793-that-which-faith-demands.json) |
 | That Which Surrounds | 321660 | [321660-that-which-surrounds.json](./321660-that-which-surrounds.json) |
 | That Which Was Lost | 201478 | [201478-that-which-was-lost.json](./201478-that-which-was-lost.json) |
 | That's a Cow | 213220 | [213220-thats-a-cow.json](./213220-thats-a-cow.json) |
@@ -14508,6 +14511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wand Wizard | 255150 | [255150-the-wand-wizard.json](./255150-the-wand-wizard.json) |
 | The Wanderer | 193161 | [193161-the-wanderer.json](./193161-the-wanderer.json) |
 | The Wanderer | 320033 | [320033-the-wanderer.json](./320033-the-wanderer.json) |
+| The Wanderer Vibes: Neon | 153792 | [153792-the-wanderer-vibes-neon.json](./153792-the-wanderer-vibes-neon.json) |
 | The Wanderer: Chosen One | 211752 | [211752-the-wanderer-chosen-one.json](./211752-the-wanderer-chosen-one.json) |
 | The Wanderer's Rest | 391119 | [391119-the-wanderers-rest.json](./391119-the-wanderers-rest.json) |
 | The Wandering Demon Blade | 288625 | [288625-the-wandering-demon-blade.json](./288625-the-wandering-demon-blade.json) |
