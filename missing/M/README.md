@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Age and This Guy | 56613 | [56613-mad-age-and-this-guy.json](./56613-mad-age-and-this-guy.json) |
 | Mad Aliens: Seeking the Soul | 247936 | [247936-mad-aliens-seeking-the-soul.json](./247936-mad-aliens-seeking-the-soul.json) |
 | Mad Arkanoid | 50536 | [50536-mad-arkanoid.json](./50536-mad-arkanoid.json) |
+| Mad Art Millionaire | 114704 | [114704-mad-art-millionaire.json](./114704-mad-art-millionaire.json) |
 | Mad Ball | 128449 | [128449-mad-ball.json](./128449-mad-ball.json) |
 | Mad Ball v2.0 | 258841 | [258841-mad-ball-v2-0.json](./258841-mad-ball-v2-0.json) |
 | Mad BalloonRider | 243172 | [243172-mad-balloonrider.json](./243172-mad-balloonrider.json) |
@@ -4420,6 +4421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math the Question | 130840 | [130840-math-the-question.json](./130840-math-the-question.json) |
 | Math Tile | 82352 | [82352-math-tile.json](./82352-math-tile.json) |
 | Math Workshop | 94384 | [94384-math-workshop.json](./94384-math-workshop.json) |
+| Math World | 114686 | [114686-math-world.json](./114686-math-world.json) |
 | Math World VR | 254919 | [254919-math-world-vr.json](./254919-math-world-vr.json) |
 | Math-A-Thon 2: The Mystery of the Missing Laboratory | 209547 | [209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json](./209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json) |
 | Math, BFF, and Notes | 276962 | [276962-math-bff-and-notes.json](./276962-math-bff-and-notes.json) |
@@ -12791,8 +12793,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mooky Takes Manhattan! | 261306 | [261306-mooky-takes-manhattan.json](./261306-mooky-takes-manhattan.json) |
 | Moolii's Dreamland | 142664 | [142664-mooliis-dreamland.json](./142664-mooliis-dreamland.json) |
 | Moomi & Spike | 316359 | [316359-moomi-and-spike.json](./316359-moomi-and-spike.json) |
+| Moomin Adventures: Jam Run | 114708 | [114708-moomin-adventures-jam-run.json](./114708-moomin-adventures-jam-run.json) |
 | Moomin Midsummer Madness | 404859 | [404859-moomin-midsummer-madness.json](./404859-moomin-midsummer-madness.json) |
 | Moomin no Suteki na Present | 230276 | [230276-moomin-no-suteki-na-present.json](./230276-moomin-no-suteki-na-present.json) |
+| Moomin Under Sail | 114729 | [114729-moomin-under-sail.json](./114729-moomin-under-sail.json) |
 | Moomin's Tale | 49859 | [49859-moomins-tale.json](./49859-moomins-tale.json) |
 | Moomintroll: Winter's Warmth | 348272 | [348272-moomintroll-winters-warmth.json](./348272-moomintroll-winters-warmth.json) |
 | MooMoo.io | 111895 | [111895-moomoo-io.json](./111895-moomoo-io.json) |
