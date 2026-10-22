@@ -1182,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gameloft Classics: 20 Years | 141712 | [141712-gameloft-classics-20-years.json](./141712-gameloft-classics-20-years.json) |
 | GameMaker 25th Anniversary | 324949 | [324949-gamemaker-25th-anniversary.json](./324949-gamemaker-25th-anniversary.json) |
 | GameMaster | 241481 | [241481-gamemaster.json](./241481-gamemaster.json) |
+| GameMaster: Magus | 101284 | [101284-gamemaster-magus.json](./101284-gamemaster-magus.json) |
 | Gamemory | 158961 | [158961-gamemory.json](./158961-gamemory.json) |
 | GameOn! | 348239 | [348239-gameon.json](./348239-gameon.json) |
 | GamePack 2 | 122308 | [122308-gamepack-2.json](./122308-gamepack-2.json) |
@@ -1493,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden's Bane: DG's Quest | 208610 | [208610-gardens-bane-dgs-quest.json](./208610-gardens-bane-dgs-quest.json) |
 | Gardener | 285578 | [285578-gardener.json](./285578-gardener.json) |
 | Gardener Simulator | 390636 | [390636-gardener-simulator.json](./390636-gardener-simulator.json) |
+| Gardener the Ripper | 101291 | [101291-gardener-the-ripper.json](./101291-gardener-the-ripper.json) |
 | Gardener's Path | 185953 | [185953-gardeners-path.json](./185953-gardeners-path.json) |
 | Gardener's Quest | 287235 | [287235-gardeners-quest.json](./287235-gardeners-quest.json) |
 | Gardenia: Prologue | 402924 | [402924-gardenia-prologue.json](./402924-gardenia-prologue.json) |
@@ -5918,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grain Sling | 273916 | [273916-grain-sling.json](./273916-grain-sling.json) |
 | Grainhold | 390256 | [390256-grainhold.json](./390256-grainhold.json) |
 | Grainwind Incident 77 | 229358 | [229358-grainwind-incident-77.json](./229358-grainwind-incident-77.json) |
+| Gral | 101295 | [101295-gral.json](./101295-gral.json) |
 | Gramik Paint Roller | 253223 | [253223-gramik-paint-roller.json](./253223-gramik-paint-roller.json) |
 | Gramik Paint Roller | 254129 | [254129-gramik-paint-roller.json](./254129-gramik-paint-roller.json) |
 | Grammar Fun 2nd Grade | 89081 | [89081-grammar-fun-2nd-grade.json](./89081-grammar-fun-2nd-grade.json) |
