@@ -7168,6 +7168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Despair: Shadows Over Tokyo | 388252 | [388252-city-of-despair-shadows-over-tokyo.json](./388252-city-of-despair-shadows-over-tokyo.json) |
 | City of Dolorosa | 348319 | [348319-city-of-dolorosa.json](./348319-city-of-dolorosa.json) |
 | City of Dusk | 246951 | [246951-city-of-dusk.json](./246951-city-of-dusk.json) |
+| City of Edges | 116752 | [116752-city-of-edges.json](./116752-city-of-edges.json) |
 | City of Elves | 223321 | [223321-city-of-elves.json](./223321-city-of-elves.json) |
 | City of Fools | 35520 | [35520-city-of-fools.json](./35520-city-of-fools.json) |
 | City of Forever 7 Days | 208204 | [208204-city-of-forever-7-days.json](./208204-city-of-forever-7-days.json) |
@@ -13619,6 +13620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critters for Sale: Snake | 158055 | [158055-critters-for-sale-snake.json](./158055-critters-for-sale-snake.json) |
 | Critters: Cute Cubs in a Cruel World | 75037 | [75037-critters-cute-cubs-in-a-cruel-world.json](./75037-critters-cute-cubs-in-a-cruel-world.json) |
 | Critterville Goes Bankrupt | 378412 | [378412-critterville-goes-bankrupt.json](./378412-critterville-goes-bankrupt.json) |
+| Crix | 116750 | [116750-crix.json](./116750-crix.json) |
 | Crnvrs | 186275 | [186275-crnvrs.json](./186275-crnvrs.json) |
 | Cro Magnon | 105214 | [105214-cro-magnon.json](./105214-cro-magnon.json) |
 | Cro-Mag Rally | 92404 | [92404-cro-mag-rally.json](./92404-cro-mag-rally.json) |
