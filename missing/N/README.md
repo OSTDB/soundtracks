@@ -3213,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nidia | 57189 | [57189-nidia.json](./57189-nidia.json) |
 | Nidus | 245762 | [245762-nidus.json](./245762-nidus.json) |
 | Nie no Hakoniwa: Dollhouse of Offerings | 268012 | [268012-nie-no-hakoniwa-dollhouse-of-offerings.json](./268012-nie-no-hakoniwa-dollhouse-of-offerings.json) |
+| Nièpán zhī Lù | 116728 | [116728-niepan-zhi-lu.json](./116728-niepan-zhi-lu.json) |
 | NieR Re[in]carnation | 132005 | [132005-nier-re-in-carnation.json](./132005-nier-re-in-carnation.json) |
 | NieR Re[in]carnation: The People and the World | 259669 | [259669-nier-re-in-carnation-the-people-and-the-world.json](./259669-nier-re-in-carnation-the-people-and-the-world.json) |
 | NieR Re[in]carnation: The Sun and the Moon | 259657 | [259657-nier-re-in-carnation-the-sun-and-the-moon.json](./259657-nier-re-in-carnation-the-sun-and-the-moon.json) |
@@ -5620,6 +5621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novum Vexillum | 356058 | [356058-novum-vexillum.json](./356058-novum-vexillum.json) |
 | Novus | 243057 | [243057-novus.json](./243057-novus.json) |
 | Novus AEterno | 5149 | [5149-novus-aeterno.json](./5149-novus-aeterno.json) |
+| Novus Campis | 116727 | [116727-novus-campis.json](./116727-novus-campis.json) |
 | Novus Conquest | 248881 | [248881-novus-conquest.json](./248881-novus-conquest.json) |
 | Novus Inceptio | 34857 | [34857-novus-inceptio.json](./34857-novus-inceptio.json) |
 | Novus Orbis | 253583 | [253583-novus-orbis.json](./253583-novus-orbis.json) |
