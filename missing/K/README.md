@@ -1607,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiara and the Case of the Missing Chocolates | 181844 | [181844-kiara-and-the-case-of-the-missing-chocolates.json](./181844-kiara-and-the-case-of-the-missing-chocolates.json) |
 | Kibble Cats | 410233 | [410233-kibble-cats.json](./410233-kibble-cats.json) |
 | Kibitz Bugs | 273852 | [273852-kibitz-bugs.json](./273852-kibitz-bugs.json) |
+| Kibo | 104395 | [104395-kibo.json](./104395-kibo.json) |
 | Kiborg | 249998 | [249998-kiborg.json](./249998-kiborg.json) |
 | Kiborg: Arena | 306565 | [306565-kiborg-arena.json](./306565-kiborg-arena.json) |
 | Kiborg: Descent | 393609 | [393609-kiborg-descent.json](./393609-kiborg-descent.json) |
@@ -4777,6 +4778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurenai no Homura Sanada Ninpouchou | 136472 | [136472-kurenai-no-homura-sanada-ninpouchou.json](./136472-kurenai-no-homura-sanada-ninpouchou.json) |
 | Kurenai no Tsuki | 151839 | [151839-kurenai-no-tsuki.json](./151839-kurenai-no-tsuki.json) |
 | Kurenkisho Quolta Amadeus EG | 134626 | [134626-kurenkisho-quolta-amadeus-eg.json](./134626-kurenkisho-quolta-amadeus-eg.json) |
+| Kuri | 104422 | [104422-kuri.json](./104422-kuri.json) |
 | Kuri Kinton | 40086 | [40086-kuri-kinton.json](./40086-kuri-kinton.json) |
 | Kurikin: Nano Island Story | 59337 | [59337-kurikin-nano-island-story.json](./59337-kurikin-nano-island-story.json) |
 | Kurmatron | 255505 | [255505-kurmatron.json](./255505-kurmatron.json) |
