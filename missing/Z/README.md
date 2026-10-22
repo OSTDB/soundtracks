@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhed | 122801 | [122801-zhed.json](./122801-zhed.json) |
 | Zhèn Xié | 375425 | [375425-zhen-xie.json](./375425-zhen-xie.json) |
 | Zhen: Shattered Legacy | 328614 | [328614-zhen-shattered-legacy.json](./328614-zhen-shattered-legacy.json) |
+| Zhēnběn Xīyóujì: The Adventures of Monkey | 138648 | [138648-zhenben-xiyouji-the-adventures-of-monkey.json](./138648-zhenben-xiyouji-the-adventures-of-monkey.json) |
 | Zhēngtiān Fēngwǔ Zhuán | 84225 | [84225-zhengtian-fengwu-zhuan.json](./84225-zhengtian-fengwu-zhuan.json) |
 | Zhèngzōng Taiwan Shíliù Zhāng Mahjong | 149591 | [149591-zhengzong-taiwan-shiliu-zhang-mahjong.json](./149591-zhengzong-taiwan-shiliu-zhang-mahjong.json) |
 | Zhēnjiǎ Hóuwáng | 321436 | [321436-zhenjia-houwang.json](./321436-zhenjia-houwang.json) |
