@@ -5016,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 2 Regrown | 299745 | [299745-pikmin-2-regrown.json](./299745-pikmin-2-regrown.json) |
 | Pikmin 2 WorldWide | 313357 | [313357-pikmin-2-worldwide.json](./313357-pikmin-2-worldwide.json) |
 | Pikmin 2: Caveless Edition | 270726 | [270726-pikmin-2-caveless-edition.json](./270726-pikmin-2-caveless-edition.json) |
+| Pikmin 2: Colossal Caverns | 140840 | [140840-pikmin-2-colossal-caverns.json](./140840-pikmin-2-colossal-caverns.json) |
 | Pikmin 2: New Year | 312294 | [312294-pikmin-2-new-year.json](./312294-pikmin-2-new-year.json) |
 | Pikmin 2D | 387584 | [387584-pikmin-2d.json](./387584-pikmin-2d.json) |
 | Pikmin 3 | 2241 | [2241-pikmin-3.json](./2241-pikmin-3.json) |
@@ -9084,6 +9085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokkén Tournament: Update Ver.N01 | 300364 | [300364-pokken-tournament-update-ver-n01.json](./300364-pokken-tournament-update-ver-n01.json) |
 | Poko Memorial: 18th Hole Miniature Golf | 73537 | [73537-poko-memorial-18th-hole-miniature-golf.json](./73537-poko-memorial-18th-hole-miniature-golf.json) |
 | Pokon Factory Survival | 150936 | [150936-pokon-factory-survival.json](./150936-pokon-factory-survival.json) |
+| Pokonyan! Balloon | 140850 | [140850-pokonyan-balloon.json](./140850-pokonyan-balloon.json) |
 | Pokor | 397770 | [397770-pokor.json](./397770-pokor.json) |
 | Pokosuka Racing | 408945 | [408945-pokosuka-racing.json](./408945-pokosuka-racing.json) |
 | Pokris | 116099 | [116099-pokris.json](./116099-pokris.json) |
@@ -10391,6 +10393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Blade | 48079 | [48079-power-blade.json](./48079-power-blade.json) |
 | Power Blazer | 48568 | [48568-power-blazer.json](./48568-power-blazer.json) |
 | Power Block | 130286 | [130286-power-block.json](./130286-power-block.json) |
+| Power Bomberman | 141044 | [141044-power-bomberman.json](./141044-power-bomberman.json) |
 | Power Box | 407884 | [407884-power-box.json](./407884-power-box.json) |
 | Power Brain Trainer | 118760 | [118760-power-brain-trainer.json](./118760-power-brain-trainer.json) |
 | Power Champions | 250868 | [250868-power-champions.json](./250868-power-champions.json) |
@@ -13047,6 +13050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycastria | 13748 | [13748-psycastria.json](./13748-psycastria.json) |
 | Psych | 150012 | [150012-psych.json](./150012-psych.json) |
 | Psych: The Game | 19312 | [19312-psych-the-game.json](./19312-psych-the-game.json) |
+| Psyche Metal: The Bleeding | 141070 | [141070-psyche-metal-the-bleeding.json](./141070-psyche-metal-the-bleeding.json) |
 | Psyche Soldier VR | 30097 | [30097-psyche-soldier-vr.json](./30097-psyche-soldier-vr.json) |
 | Psychedelica of the Ashen Hawk | 41824 | [41824-psychedelica-of-the-ashen-hawk.json](./41824-psychedelica-of-the-ashen-hawk.json) |
 | Psychiatric Hospital | 245978 | [245978-psychiatric-hospital.json](./245978-psychiatric-hospital.json) |
