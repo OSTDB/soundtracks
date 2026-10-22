@@ -1343,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AbalaBurn | 43819 | [43819-abalaburn.json](./43819-abalaburn.json) |
 | Abalone | 328242 | [328242-abalone.json](./328242-abalone.json) |
 | Abalone | 9939 | [9939-abalone.json](./9939-abalone.json) |
+| Abalyte | 110692 | [110692-abalyte.json](./110692-abalyte.json) |
 | Aban Hawkins & the 1000 Spikes | 91756 | [91756-aban-hawkins-and-the-1000-spikes.json](./91756-aban-hawkins-and-the-1000-spikes.json) |
 | Abandon: The Town | 268033 | [268033-abandon-the-town.json](./268033-abandon-the-town.json) |
 | Abandon02 | 129084 | [129084-abandon02.json](./129084-abandon02.json) |
@@ -7788,6 +7789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AniMatch: Animal Matching Game | 86874 | [86874-animatch-animal-matching-game.json](./86874-animatch-animal-matching-game.json) |
 | Animated Jigsaw Puzzles | 269286 | [269286-animated-jigsaw-puzzles.json](./269286-animated-jigsaw-puzzles.json) |
 | Animated Jigsaws Collection | 119512 | [119512-animated-jigsaws-collection.json](./119512-animated-jigsaws-collection.json) |
+| Animated Jigsaws: Japanese Women | 110734 | [110734-animated-jigsaws-japanese-women.json](./110734-animated-jigsaws-japanese-women.json) |
 | Animated Jigsaws: Wild Animals | 114205 | [114205-animated-jigsaws-wild-animals.json](./114205-animated-jigsaws-wild-animals.json) |
 | Animated Puzzles: Spooky Pack | 163420 | [163420-animated-puzzles-spooky-pack.json](./163420-animated-puzzles-spooky-pack.json) |
 | Animated StoryBook: Winnie the Pooh and the Honey Tree | 342669 | [342669-animated-storybook-winnie-the-pooh-and-the-honey-tree.json](./342669-animated-storybook-winnie-the-pooh-and-the-honey-tree.json) |
@@ -8492,6 +8494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antidote | 170819 | [170819-antidote.json](./170819-antidote.json) |
 | Antidote | 422526 | [422526-antidote.json](./422526-antidote.json) |
 | Antiem | 183856 | [183856-antiem.json](./183856-antiem.json) |
+| Antifector | 110709 | [110709-antifector.json](./110709-antifector.json) |
 | Antiflux | 32656 | [32656-antiflux.json](./32656-antiflux.json) |
 | AntiGolfity | 260293 | [260293-antigolfity.json](./260293-antigolfity.json) |
 | Antigrams | 98521 | [98521-antigrams.json](./98521-antigrams.json) |
@@ -13551,6 +13554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AV Director Life! | 346669 | [346669-av-director-life.json](./346669-av-director-life.json) |
 | AV Pachinko | 242089 | [242089-av-pachinko.json](./242089-av-pachinko.json) |
 | AV Sex Manager | 400407 | [400407-av-sex-manager.json](./400407-av-sex-manager.json) |
+| AV-17 | 110670 | [110670-av-17.json](./110670-av-17.json) |
 | AV.Runner | 217218 | [217218-av-runner.json](./217218-av-runner.json) |
 | Ava | 119569 | [119569-ava.json](./119569-ava.json) |
 | AVA | 367997 | [367997-ava.json](./367997-ava.json) |
