@@ -2570,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom City Drowning Ep1 - The Champion | 55463 | [55463-kingdom-city-drowning-ep1-the-champion.json](./55463-kingdom-city-drowning-ep1-the-champion.json) |
 | Kingdom Clicker | 91157 | [91157-kingdom-clicker.json](./91157-kingdom-clicker.json) |
 | Kingdom Coins Lucky Vegas - Dozer of Coins Arcade Game | 87080 | [87080-kingdom-coins-lucky-vegas-dozer-of-coins-arcade-game.json](./87080-kingdom-coins-lucky-vegas-dozer-of-coins-arcade-game.json) |
+| Kingdom Coins: Dozer of Coins Arcade Game - Pirate Booty Edition | 100028 | [100028-kingdom-coins-dozer-of-coins-arcade-game-pirate-booty-edition.json](./100028-kingdom-coins-dozer-of-coins-arcade-game-pirate-booty-edition.json) |
 | Kingdom Come: Deliverance - A Woman's Lot | 119899 | [119899-kingdom-come-deliverance-a-womans-lot.json](./119899-kingdom-come-deliverance-a-womans-lot.json) |
 | Kingdom Come: Deliverance - Band of Bastards | 115030 | [115030-kingdom-come-deliverance-band-of-bastards.json](./115030-kingdom-come-deliverance-band-of-bastards.json) |
 | Kingdom Come: Deliverance - DLC Collection | 164856 | [164856-kingdom-come-deliverance-dlc-collection.json](./164856-kingdom-come-deliverance-dlc-collection.json) |
