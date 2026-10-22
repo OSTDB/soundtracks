@@ -2222,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fart King | 338558 | [338558-fart-king.json](./338558-fart-king.json) |
 | Fart Up | 299455 | [299455-fart-up.json](./299455-fart-up.json) |
 | Fartcore | 374946 | [374946-fartcore.json](./374946-fartcore.json) |
+| Farther Than the Blue Sky | 139024 | [139024-farther-than-the-blue-sky.json](./139024-farther-than-the-blue-sky.json) |
 | Farting Simulator | 315285 | [315285-farting-simulator.json](./315285-farting-simulator.json) |
 | Fartonauts | 348358 | [348358-fartonauts.json](./348358-fartonauts.json) |
 | Farty Bird | 148805 | [148805-farty-bird.json](./148805-farty-bird.json) |
@@ -4581,6 +4582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Path of a New World | 323033 | [323033-fire-emblem-path-of-a-new-world.json](./323033-fire-emblem-path-of-a-new-world.json) |
 | Fire Emblem: Path of Radiance | 1441 | [1441-fire-emblem-path-of-radiance.json](./1441-fire-emblem-path-of-radiance.json) |
 | Fire Emblem: Radiant Dawn | 1442 | [1442-fire-emblem-radiant-dawn.json](./1442-fire-emblem-radiant-dawn.json) |
+| Fire Emblem: Requiem | 139070 | [139070-fire-emblem-requiem.json](./139070-fire-emblem-requiem.json) |
 | Fire Emblem: Sacred Stones Plus | 229002 | [229002-fire-emblem-sacred-stones-plus.json](./229002-fire-emblem-sacred-stones-plus.json) |
 | Fire Emblem: Sacred Stones Reforged | 344571 | [344571-fire-emblem-sacred-stones-reforged.json](./344571-fire-emblem-sacred-stones-reforged.json) |
 | Fire Emblem: Scarlet Rising | 143986 | [143986-fire-emblem-scarlet-rising.json](./143986-fire-emblem-scarlet-rising.json) |
@@ -9133,6 +9135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreshWomen: Season 3 | 411674 | [411674-freshwomen-season-3.json](./411674-freshwomen-season-3.json) |
 | Frest | 343298 | [343298-frest.json](./343298-frest.json) |
 | Fret Nice | 52230 | [52230-fret-nice.json](./52230-fret-nice.json) |
+| Fret Smasher | 139272 | [139272-fret-smasher.json](./139272-fret-smasher.json) |
 | Freud Gate | 125200 | [125200-freud-gate.json](./125200-freud-gate.json) |
 | Freya's Potion Shop | 157702 | [157702-freyas-potion-shop.json](./157702-freyas-potion-shop.json) |
 | Freyja's Demise | 299844 | [299844-freyjas-demise.json](./299844-freyjas-demise.json) |
