@@ -2338,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency: Road Services Simulator | 217410 | [217410-emergency-road-services-simulator.json](./217410-emergency-road-services-simulator.json) |
 | Emergency! Disaster Rescue Squad | 339374 | [339374-emergency-disaster-rescue-squad.json](./339374-emergency-disaster-rescue-squad.json) |
 | EmergencyCrank | 412485 | [412485-emergencycrank.json](./412485-emergencycrank.json) |
+| Emergent Fates | 138442 | [138442-emergent-fates.json](./138442-emergent-fates.json) |
 | Emergent Magic | 235645 | [235645-emergent-magic.json](./235645-emergent-magic.json) |
 | Emergent-Z | 372617 | [372617-emergent-z.json](./372617-emergent-z.json) |
 | Emergents Trading Card Game | 183603 | [183603-emergents-trading-card-game.json](./183603-emergents-trading-card-game.json) |
@@ -4368,6 +4369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escaping Atlantis | 249877 | [249877-escaping-atlantis.json](./249877-escaping-atlantis.json) |
 | Escaping Darkness | 320531 | [320531-escaping-darkness.json](./320531-escaping-darkness.json) |
 | Escaping Diddler | 321528 | [321528-escaping-diddler.json](./321528-escaping-diddler.json) |
+| Escaping Hell | 138642 | [138642-escaping-hell.json](./138642-escaping-hell.json) |
 | Escaping Wonderland | 306956 | [306956-escaping-wonderland.json](./306956-escaping-wonderland.json) |
 | Escapism Ltd. | 308869 | [308869-escapism-ltd.json](./308869-escapism-ltd.json) |
 | Escapology | 174582 | [174582-escapology.json](./174582-escapology.json) |
