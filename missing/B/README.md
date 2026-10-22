@@ -4277,6 +4277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 5th style | 72913 | [72913-beatmania-iidx-5th-style.json](./72913-beatmania-iidx-5th-style.json) |
 | Beatmania IIDX 6th style | 72915 | [72915-beatmania-iidx-6th-style.json](./72915-beatmania-iidx-6th-style.json) |
 | Beatmania IIDX 7th style | 72914 | [72914-beatmania-iidx-7th-style.json](./72914-beatmania-iidx-7th-style.json) |
+| Beatmania IIDX Club Version | 141046 | [141046-beatmania-iidx-club-version.json](./141046-beatmania-iidx-club-version.json) |
 | beatmania III -The latest evolution machine- | 61017 | [61017-beatmania-iii-the-latest-evolution-machine.json](./61017-beatmania-iii-the-latest-evolution-machine.json) |
 | Beatmania III The Final | 61022 | [61022-beatmania-iii-the-final.json](./61022-beatmania-iii-the-final.json) |
 | Beatmania III: Append 6thMix | 61019 | [61019-beatmania-iii-append-6thmix.json](./61019-beatmania-iii-append-6thmix.json) |
@@ -6061,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billiards with Pilot Brothers comments | 119438 | [119438-billiards-with-pilot-brothers-comments.json](./119438-billiards-with-pilot-brothers-comments.json) |
 | Billiards Wizards | 81752 | [81752-billiards-wizards.json](./81752-billiards-wizards.json) |
 | Billiards Xciting | 78000 | [78000-billiards-xciting.json](./78000-billiards-xciting.json) |
+| Billie Bust Up | 140853 | [140853-billie-bust-up.json](./140853-billie-bust-up.json) |
 | Billie's Wheelie | 383571 | [383571-billies-wheelie.json](./383571-billies-wheelie.json) |
 | Billion | 402385 | [402385-billion.json](./402385-billion.json) |
 | Billion Bastard Bots | 219207 | [219207-billion-bastard-bots.json](./219207-billion-bastard-bots.json) |
@@ -11718,6 +11720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreakLoop | 383953 | [383953-breakloop.json](./383953-breakloop.json) |
 | Breakneck | 78593 | [78593-breakneck.json](./78593-breakneck.json) |
 | Breakneck City | 127730 | [127730-breakneck-city.json](./127730-breakneck-city.json) |
+| Breakout | 140838 | [140838-breakout.json](./140838-breakout.json) |
 | Breakout | 227733 | [227733-breakout.json](./227733-breakout.json) |
 | Breakout | 228318 | [228318-breakout.json](./228318-breakout.json) |
 | Breakout | 308606 | [308606-breakout.json](./308606-breakout.json) |
@@ -12315,6 +12318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrokenLore: Ascend | 377235 | [377235-brokenlore-ascend.json](./377235-brokenlore-ascend.json) |
 | BrokenLore: Don't Lie | 370708 | [370708-brokenlore-dont-lie.json](./370708-brokenlore-dont-lie.json) |
 | BrokenLore: Low | 304308 | [304308-brokenlore-low.json](./304308-brokenlore-low.json) |
+| Broll | 140843 | [140843-broll.json](./140843-broll.json) |
 | Bromeliad | 158053 | [158053-bromeliad.json](./158053-bromeliad.json) |
 | Brominion | 335637 | [335637-brominion.json](./335637-brominion.json) |
 | BROMS: Battle Royale Management Simulator | 410877 | [410877-broms-battle-royale-management-simulator.json](./410877-broms-battle-royale-management-simulator.json) |
