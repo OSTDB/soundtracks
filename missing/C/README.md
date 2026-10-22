@@ -1560,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Down | 405038 | [405038-car-down.json](./405038-car-down.json) |
 | Car Drag Racing Simulator | 253227 | [253227-car-drag-racing-simulator.json](./253227-car-drag-racing-simulator.json) |
 | Car Drawing Game | 181806 | [181806-car-drawing-game.json](./181806-car-drawing-game.json) |
+| Car Drive | 149842 | [149842-car-drive.json](./149842-car-drive.json) |
 | Car Driver 5 | 414471 | [414471-car-driver-5.json](./414471-car-driver-5.json) |
 | Car Driving School Simulator | 90233 | [90233-car-driving-school-simulator.json](./90233-car-driving-school-simulator.json) |
 | Car Driving Simulator | 153835 | [153835-car-driving-simulator.json](./153835-car-driving-simulator.json) |
@@ -2633,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Asleep | 315503 | [315503-castle-of-asleep.json](./315503-castle-of-asleep.json) |
 | Castle of Awa | 104089 | [104089-castle-of-awa.json](./104089-castle-of-awa.json) |
 | Castle of Cards | 200129 | [200129-castle-of-cards.json](./200129-castle-of-cards.json) |
+| Castle of Collapse | 149843 | [149843-castle-of-collapse.json](./149843-castle-of-collapse.json) |
 | Castle of Deceit | 242413 | [242413-castle-of-deceit.json](./242413-castle-of-deceit.json) |
 | Castle of Deceit | 7779 | [7779-castle-of-deceit.json](./7779-castle-of-deceit.json) |
 | Castle of Doom | 215380 | [215380-castle-of-doom.json](./215380-castle-of-doom.json) |
@@ -6376,6 +6378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles Of Errodean | 247740 | [247740-chronicles-of-errodean.json](./247740-chronicles-of-errodean.json) |
 | Chronicles of Fear: The Babysitter's Tale | 303734 | [303734-chronicles-of-fear-the-babysitters-tale.json](./303734-chronicles-of-fear-the-babysitters-tale.json) |
 | Chronicles of Immortality in the Cloud Abyss | 379087 | [379087-chronicles-of-immortality-in-the-cloud-abyss.json](./379087-chronicles-of-immortality-in-the-cloud-abyss.json) |
+| Chronicles of Lilith | 149833 | [149833-chronicles-of-lilith.json](./149833-chronicles-of-lilith.json) |
 | Chronicles of Lussaria | 284899 | [284899-chronicles-of-lussaria.json](./284899-chronicles-of-lussaria.json) |
 | Chronicles of Magic: Divided Kingdoms | 94061 | [94061-chronicles-of-magic-divided-kingdoms.json](./94061-chronicles-of-magic-divided-kingdoms.json) |
 | Chronicles of Middle Ages | 342761 | [342761-chronicles-of-middle-ages.json](./342761-chronicles-of-middle-ages.json) |
@@ -8329,6 +8332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutch | 16049 | [16049-clutch.json](./16049-clutch.json) |
 | Clutch Hitter | 369246 | [369246-clutch-hitter.json](./369246-clutch-hitter.json) |
 | Clutch: The Drift Simulation | 338531 | [338531-clutch-the-drift-simulation.json](./338531-clutch-the-drift-simulation.json) |
+| Clutter 1000 | 149844 | [149844-clutter-1000.json](./149844-clutter-1000.json) |
 | Clutter 12: It's About Time - Collector's Edition | 195433 | [195433-clutter-12-its-about-time-collectors-edition.json](./195433-clutter-12-its-about-time-collectors-edition.json) |
 | Clutter 14 | 322436 | [322436-clutter-14.json](./322436-clutter-14.json) |
 | Clutter 17: Flower Power - Collector's Edition | 338869 | [338869-clutter-17-flower-power-collectors-edition.json](./338869-clutter-17-flower-power-collectors-edition.json) |
@@ -8915,6 +8919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collapse of the Midnight Sun | 351635 | [351635-collapse-of-the-midnight-sun.json](./351635-collapse-of-the-midnight-sun.json) |
 | Collapse Relapse | 203969 | [203969-collapse-relapse.json](./203969-collapse-relapse.json) |
 | Collapse Zone | 382309 | [382309-collapse-zone.json](./382309-collapse-zone.json) |
+| Collapse: A Political Simulator | 149837 | [149837-collapse-a-political-simulator.json](./149837-collapse-a-political-simulator.json) |
 | Collapse! | 84439 | [84439-collapse.json](./84439-collapse.json) |
 | Collapse! Chaos | 410114 | [410114-collapse-chaos.json](./410114-collapse-chaos.json) |
 | Collapse! Crunch | 73327 | [73327-collapse-crunch.json](./73327-collapse-crunch.json) |
@@ -11237,6 +11242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corneroids | 392409 | [392409-corneroids.json](./392409-corneroids.json) |
 | Cornerpond | 341374 | [341374-cornerpond.json](./341374-cornerpond.json) |
 | CornerQuest | 393782 | [393782-cornerquest.json](./393782-cornerquest.json) |
+| Corners | 149841 | [149841-corners.json](./149841-corners.json) |
 | Cornerstone: The Song of Tyrim | 20124 | [20124-cornerstone-the-song-of-tyrim.json](./20124-cornerstone-the-song-of-tyrim.json) |
 | CornField | 319697 | [319697-cornfield.json](./319697-cornfield.json) |
 | Cornfield Escape | 370575 | [370575-cornfield-escape.json](./370575-cornfield-escape.json) |
