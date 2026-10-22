@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Cuillere | 141888 | [141888-cafe-cuillere.json](./141888-cafe-cuillere.json) |
 | Cafe Deux Femmes | 139210 | [139210-cafe-deux-femmes.json](./139210-cafe-deux-femmes.json) |
 | Cafe Dreamland | 333109 | [333109-cafe-dreamland.json](./333109-cafe-dreamland.json) |
+| Cafe Ehaburu: White Version | 108175 | [108175-cafe-ehaburu-white-version.json](./108175-cafe-ehaburu-white-version.json) |
 | Café Enchanté: Limited Edition | 254787 | [254787-cafe-enchante-limited-edition.json](./254787-cafe-enchante-limited-edition.json) |
 | Café Guile | 364495 | [364495-cafe-guile.json](./364495-cafe-guile.json) |
 | Cafe Haven | 406157 | [406157-cafe-haven.json](./406157-cafe-haven.json) |
@@ -4916,6 +4917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers Minimal | 192075 | [192075-checkers-minimal.json](./192075-checkers-minimal.json) |
 | Checkers Online | 225746 | [225746-checkers-online.json](./225746-checkers-online.json) |
 | Checkers Premium | 87269 | [87269-checkers-premium.json](./87269-checkers-premium.json) |
+| Checkers Q | 108197 | [108197-checkers-q.json](./108197-checkers-q.json) |
 | Checkers Quest Bundle | 231068 | [231068-checkers-quest-bundle.json](./231068-checkers-quest-bundle.json) |
 | Checkers Royale | 96309 | [96309-checkers-royale.json](./96309-checkers-royale.json) |
 | Checkers RPG: Online Battles | 261829 | [261829-checkers-rpg-online-battles.json](./261829-checkers-rpg-online-battles.json) |
@@ -7500,6 +7502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Evil: The Comeback | 272815 | [272815-clash-of-evil-the-comeback.json](./272815-clash-of-evil-the-comeback.json) |
 | Clash of Fingers | 237958 | [237958-clash-of-fingers.json](./237958-clash-of-fingers.json) |
 | Clash of Irons: Blitzkrieg | 157483 | [157483-clash-of-irons-blitzkrieg.json](./157483-clash-of-irons-blitzkrieg.json) |
+| Clash of Legends | 108178 | [108178-clash-of-legends.json](./108178-clash-of-legends.json) |
 | Clash of Magic: Spectator Mode | 99027 | [99027-clash-of-magic-spectator-mode.json](./99027-clash-of-magic-spectator-mode.json) |
 | Clash of Panzer | 220159 | [220159-clash-of-panzer.json](./220159-clash-of-panzer.json) |
 | Clash of Puppets | 17892 | [17892-clash-of-puppets.json](./17892-clash-of-puppets.json) |
