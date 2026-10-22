@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Stage Capitalism | 355125 | [355125-late-stage-capitalism.json](./355125-late-stage-capitalism.json) |
 | Late Stage Inferno | 149871 | [149871-late-stage-inferno.json](./149871-late-stage-inferno.json) |
 | Late Work | 177487 | [177487-late-work.json](./177487-late-work.json) |
+| Late'O'Clock | 111362 | [111362-lateoclock.json](./111362-lateoclock.json) |
 | Latebus | 177832 | [177832-latebus.json](./177832-latebus.json) |
 | Latent Experience | 340899 | [340899-latent-experience.json](./340899-latent-experience.json) |
 | Latent Leftovers | 340900 | [340900-latent-leftovers.json](./340900-latent-leftovers.json) |
