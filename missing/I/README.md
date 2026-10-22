@@ -1764,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ImaginAction | 210082 | [210082-imaginaction.json](./210082-imaginaction.json) |
 | Imaginal Voyages | 245779 | [245779-imaginal-voyages.json](./245779-imaginal-voyages.json) |
 | Imaginari | 215345 | [215345-imaginari.json](./215345-imaginari.json) |
+| Imaginaria | 153211 | [153211-imaginaria.json](./153211-imaginaria.json) |
 | Imaginarium | 126614 | [126614-imaginarium.json](./126614-imaginarium.json) |
 | Imaginary | 94153 | [94153-imaginary.json](./94153-imaginary.json) |
 | Imaginary Chaos Fight | 340509 | [340509-imaginary-chaos-fight.json](./340509-imaginary-chaos-fight.json) |
@@ -2617,6 +2618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiepocalypse #71 | 382206 | [382206-indiepocalypse-71.json](./382206-indiepocalypse-71.json) |
 | Indiepocalypse #75 | 402283 | [402283-indiepocalypse-75.json](./402283-indiepocalypse-75.json) |
 | Indiepocalypse #77 | 412930 | [412930-indiepocalypse-77.json](./412930-indiepocalypse-77.json) |
+| Indies' Lies | 153219 | [153219-indies-lies.json](./153219-indies-lies.json) |
 | Indies' Lies 2: Fire Seed | 292942 | [292942-indies-lies-2-fire-seed.json](./292942-indies-lies-2-fire-seed.json) |
 | Indies' Lies: Desires Flowing | 349374 | [349374-indies-lies-desires-flowing.json](./349374-indies-lies-desires-flowing.json) |
 | Indigenous | 26555 | [26555-indigenous.json](./26555-indigenous.json) |
