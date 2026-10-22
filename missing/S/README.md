@@ -17074,6 +17074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of Death | 294252 | [294252-spirit-of-death.json](./294252-spirit-of-death.json) |
 | Spirit of Excalibur | 70028 | [70028-spirit-of-excalibur.json](./70028-spirit-of-excalibur.json) |
 | Spirit of Maya | 29903 | [29903-spirit-of-maya.json](./29903-spirit-of-maya.json) |
+| Spirit of Midnight | 122013 | [122013-spirit-of-midnight.json](./122013-spirit-of-midnight.json) |
 | Spirit of Revenge: Cursed Castle | 140226 | [140226-spirit-of-revenge-cursed-castle.json](./140226-spirit-of-revenge-cursed-castle.json) |
 | Spirit of Revenge: Cursed Castle - Collector's Edition | 30675 | [30675-spirit-of-revenge-cursed-castle-collectors-edition.json](./30675-spirit-of-revenge-cursed-castle-collectors-edition.json) |
 | Spirit of Revenge: Gem Fury | 53652 | [53652-spirit-of-revenge-gem-fury.json](./53652-spirit-of-revenge-gem-fury.json) |
@@ -18048,6 +18049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Valley | 200051 | [200051-square-valley.json](./200051-square-valley.json) |
 | Square vs Triangles | 156054 | [156054-square-vs-triangles.json](./156054-square-vs-triangles.json) |
 | Square Wave | 246779 | [246779-square-wave.json](./246779-square-wave.json) |
+| Square Weapons Dungeon | 122026 | [122026-square-weapons-dungeon.json](./122026-square-weapons-dungeon.json) |
 | Square Word: Back to Work | 260545 | [260545-square-word-back-to-work.json](./260545-square-word-back-to-work.json) |
 | Square Word: Christmas Edition | 185349 | [185349-square-word-christmas-edition.json](./185349-square-word-christmas-edition.json) |
 | Square Word: Hello Winter! | 268960 | [268960-square-word-hello-winter.json](./268960-square-word-hello-winter.json) |
@@ -18650,6 +18652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Garden | 334856 | [334856-star-garden.json](./334856-star-garden.json) |
 | Star General | 74087 | [74087-star-general.json](./74087-star-general.json) |
 | Star Ghost | 58873 | [58873-star-ghost.json](./58873-star-ghost.json) |
+| Star Girl Proxima | 121992 | [121992-star-girl-proxima.json](./121992-star-girl-proxima.json) |
 | Star Girls | 118075 | [118075-star-girls.json](./118075-star-girls.json) |
 | Star Girls | 343757 | [343757-star-girls.json](./343757-star-girls.json) |
 | Star Gladiator Episode I: Final Crusade | 14680 | [14680-star-gladiator-episode-i-final-crusade.json](./14680-star-gladiator-episode-i-final-crusade.json) |
@@ -19369,6 +19372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust Valkyries | 215712 | [215712-stardust-valkyries.json](./215712-stardust-valkyries.json) |
 | Stardust VR | 109429 | [109429-stardust-vr.json](./109429-stardust-vr.json) |
 | StarDust: Endless | 105948 | [105948-stardust-endless.json](./105948-stardust-endless.json) |
+| Stare : Block Breaker | 122023 | [122023-stare-block-breaker.json](./122023-stare-block-breaker.json) |
 | Starecrown | 291818 | [291818-starecrown.json](./291818-starecrown.json) |
 | Stares Back | 375854 | [375854-stares-back.json](./375854-stares-back.json) |
 | Starexcess | 124248 | [124248-starexcess.json](./124248-starexcess.json) |
@@ -23792,6 +23796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bomberman: Panic Bomber W | 42546 | [42546-super-bomberman-panic-bomber-w.json](./42546-super-bomberman-panic-bomber-w.json) |
 | Super Bombinhas | 185968 | [185968-super-bombinhas.json](./185968-super-bombinhas.json) |
 | Super BOO Quest | 110180 | [110180-super-boo-quest.json](./110180-super-boo-quest.json) |
+| Super Bora Dragon Eyes | 122024 | [122024-super-bora-dragon-eyes.json](./122024-super-bora-dragon-eyes.json) |
 | Super Boss Collection | 214420 | [214420-super-boss-collection.json](./214420-super-boss-collection.json) |
 | Super Boss Gaiden | 20333 | [20333-super-boss-gaiden.json](./20333-super-boss-gaiden.json) |
 | Super Botte & Bamba II Turbo | 234034 | [234034-super-botte-and-bamba-ii-turbo.json](./234034-super-botte-and-bamba-ii-turbo.json) |
