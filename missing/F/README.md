@@ -10301,6 +10301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun! Fun! Pingu | 61678 | [61678-fun-fun-pingu.json](./61678-fun-fun-pingu.json) |
 | Fun.Io | 254310 | [254310-fun-io.json](./254310-fun-io.json) |
 | Funaki Masakatsu Hybrid Wrestler: Tougi Denshou | 44459 | [44459-funaki-masakatsu-hybrid-wrestler-tougi-denshou.json](./44459-funaki-masakatsu-hybrid-wrestler-tougi-denshou.json) |
+| Funanigans | 136893 | [136893-funanigans.json](./136893-funanigans.json) |
 | Funanigans: Party Games | 168579 | [168579-funanigans-party-games.json](./168579-funanigans-party-games.json) |
 | Funbag Fantasy | 114807 | [114807-funbag-fantasy.json](./114807-funbag-fantasy.json) |
 | Funbag Fantasy 2 | 127948 | [127948-funbag-fantasy-2.json](./127948-funbag-fantasy-2.json) |
