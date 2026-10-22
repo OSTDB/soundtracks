@@ -2390,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faster Than Speed | 39442 | [39442-faster-than-speed.json](./39442-faster-than-speed.json) |
 | Fastest 1 | 122854 | [122854-fastest-1.json](./122854-fastest-1.json) |
 | Fastest Cashier | 337057 | [337057-fastest-cashier.json](./337057-fastest-cashier.json) |
+| Fastest Dialler | 105027 | [105027-fastest-dialler.json](./105027-fastest-dialler.json) |
 | Fastest Finger First! 3 Hint Quiz | 283287 | [283287-fastest-finger-first-3-hint-quiz.json](./283287-fastest-finger-first-3-hint-quiz.json) |
 | Fastest Hands in the Wasd | 167922 | [167922-fastest-hands-in-the-wasd.json](./167922-fastest-hands-in-the-wasd.json) |
 | FastFly | 349895 | [349895-fastfly.json](./349895-fastfly.json) |
