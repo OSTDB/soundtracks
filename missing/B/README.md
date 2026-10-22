@@ -1598,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang Bang Barrage | 313190 | [313190-bang-bang-barrage.json](./313190-bang-bang-barrage.json) |
 | Bang Bang Fruit | 29557 | [29557-bang-bang-fruit.json](./29557-bang-bang-fruit.json) |
 | Bang Bang Fruit 2 | 74373 | [74373-bang-bang-fruit-2.json](./74373-bang-bang-fruit-2.json) |
+| Bang Bang Fruit 3 | 105661 | [105661-bang-bang-fruit-3.json](./105661-bang-bang-fruit-3.json) |
 | Bang Bang Girls: Moe Panic | 376757 | [376757-bang-bang-girls-moe-panic.json](./376757-bang-bang-girls-moe-panic.json) |
 | Bang Bang Homeroom | 82736 | [82736-bang-bang-homeroom.json](./82736-bang-bang-homeroom.json) |
 | Bang Bang Land | 241519 | [241519-bang-bang-land.json](./241519-bang-bang-land.json) |
@@ -9760,6 +9761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Squad Academy | 28012 | [28012-bomb-squad-academy.json](./28012-bomb-squad-academy.json) |
 | Bomb Sweeper VR | 187179 | [187179-bomb-sweeper-vr.json](./187179-bomb-sweeper-vr.json) |
 | Bomb Sweeper: Mine Finder | 195936 | [195936-bomb-sweeper-mine-finder.json](./195936-bomb-sweeper-mine-finder.json) |
+| Bomb Sworders | 105678 | [105678-bomb-sworders.json](./105678-bomb-sworders.json) |
 | Bomb the City | 57669 | [57669-bomb-the-city.json](./57669-bomb-the-city.json) |
 | Bomb the Hill | 400674 | [400674-bomb-the-hill.json](./400674-bomb-the-hill.json) |
 | Bomb the Monsters! | 35638 | [35638-bomb-the-monsters.json](./35638-bomb-the-monsters.json) |
@@ -12195,6 +12197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BridgeTeam: Ship Simulator | 190981 | [190981-bridgeteam-ship-simulator.json](./190981-bridgeteam-ship-simulator.json) |
 | Brie Parmesan Mysteries | 244909 | [244909-brie-parmesan-mysteries.json](./244909-brie-parmesan-mysteries.json) |
 | Brief Karate Foolish | 30877 | [30877-brief-karate-foolish.json](./30877-brief-karate-foolish.json) |
+| Brig 12 | 105714 | [105714-brig-12.json](./105714-brig-12.json) |
 | Brigade Commander | 14349 | [14349-brigade-commander.json](./14349-brigade-commander.json) |
 | Brigadoon: The Quest of Time | 204485 | [204485-brigadoon-the-quest-of-time.json](./204485-brigadoon-the-quest-of-time.json) |
 | Brigador | 13361 | [13361-brigador.json](./13361-brigador.json) |
