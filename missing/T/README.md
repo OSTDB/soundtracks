@@ -1639,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks | 102253 | [102253-tanks.json](./102253-tanks.json) |
 | Tanks | 259625 | [259625-tanks.json](./259625-tanks.json) |
 | Tanks & Planes Battle | 347003 | [347003-tanks-and-planes-battle.json](./347003-tanks-and-planes-battle.json) |
+| Tanks 2020 | 128217 | [128217-tanks-2020.json](./128217-tanks-2020.json) |
 | Tanks 3D | 328019 | [328019-tanks-3d.json](./328019-tanks-3d.json) |
 | Tanks and Turrets 3 | 247439 | [247439-tanks-and-turrets-3.json](./247439-tanks-and-turrets-3.json) |
 | Tanks Blitz | 352188 | [352188-tanks-blitz.json](./352188-tanks-blitz.json) |
@@ -6641,6 +6642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreamlands: Aisling's Quest | 93762 | [93762-the-dreamlands-aislings-quest.json](./93762-the-dreamlands-aislings-quest.json) |
 | The Dreamlurker | 271632 | [271632-the-dreamlurker.json](./271632-the-dreamlurker.json) |
 | The Dreams in the Peacock House | 400888 | [400888-the-dreams-in-the-peacock-house.json](./400888-the-dreams-in-the-peacock-house.json) |
+| The Dreams of Candlelight | 128220 | [128220-the-dreams-of-candlelight.json](./128220-the-dreams-of-candlelight.json) |
 | The Dreamwalkers | 127221 | [127221-the-dreamwalkers.json](./127221-the-dreamwalkers.json) |
 | The Dreamwell Enigma: Barlington Estate | 276376 | [276376-the-dreamwell-enigma-barlington-estate.json](./276376-the-dreamwell-enigma-barlington-estate.json) |
 | The Dresden Files Cooperative Card Game: Expansion 6 - Faithful Friends | 316217 | [316217-the-dresden-files-cooperative-card-game-expansion-6-faithful-friends.json](./316217-the-dresden-files-cooperative-card-game-expansion-6-faithful-friends.json) |
@@ -10320,6 +10322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Bear | 53923 | [53923-the-lost-bear.json](./53923-the-lost-bear.json) |
 | The Lost Block | 386377 | [386377-the-lost-block.json](./386377-the-lost-block.json) |
 | The Lost Bloodline | 218676 | [218676-the-lost-bloodline.json](./218676-the-lost-bloodline.json) |
+| The Lost Brewery | 128215 | [128215-the-lost-brewery.json](./128215-the-lost-brewery.json) |
 | The Lost Bullets | 176159 | [176159-the-lost-bullets.json](./176159-the-lost-bullets.json) |
 | The Lost Cases of Sherlock Holmes | 10978 | [10978-the-lost-cases-of-sherlock-holmes.json](./10978-the-lost-cases-of-sherlock-holmes.json) |
 | The Lost Cases of Sherlock Holmes 2 | 10979 | [10979-the-lost-cases-of-sherlock-holmes-2.json](./10979-the-lost-cases-of-sherlock-holmes-2.json) |
@@ -11040,6 +11043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -24375,6 +24379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TriTryst | 79189 | [79189-tritryst.json](./79189-tritryst.json) |
 | Trium | 377927 | [377927-trium.json](./377927-trium.json) |
 | Triumph | 184041 | [184041-triumph.json](./184041-triumph.json) |
+| Triumph Action | 128233 | [128233-triumph-action.json](./128233-triumph-action.json) |
 | TriumphInTheSkies | 126401 | [126401-triumphintheskies.json](./126401-triumphintheskies.json) |
 | Triumvora | 346200 | [346200-triumvora.json](./346200-triumvora.json) |
 | Triuna: The Seven | 128280 | [128280-triuna-the-seven.json](./128280-triuna-the-seven.json) |
@@ -24903,6 +24908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trust the blackbird | 183986 | [183986-trust-the-blackbird.json](./183986-trust-the-blackbird.json) |
 | Trust the Watchers | 415497 | [415497-trust-the-watchers.json](./415497-trust-the-watchers.json) |
 | Trust Your Ears | 249193 | [249193-trust-your-ears.json](./249193-trust-your-ears.json) |
+| Trusty Brothers | 128216 | [128216-trusty-brothers.json](./128216-trusty-brothers.json) |
 | Truth | 259040 | [259040-truth.json](./259040-truth.json) |
 | Truth | 281922 | [281922-truth.json](./281922-truth.json) |
 | Truth & Trolls [Episode 1: Broken Promises] | 109069 | [109069-truth-and-trolls-episode-1-broken-promises.json](./109069-truth-and-trolls-episode-1-broken-promises.json) |
@@ -25268,6 +25274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tune Her Out | 303211 | [303211-tune-her-out.json](./303211-tune-her-out.json) |
 | Tune in to the Show | 380183 | [380183-tune-in-to-the-show.json](./380183-tune-in-to-the-show.json) |
 | Tune My Car: Tuning Studio & Mechanic Simulator 2026 | 409562 | [409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json](./409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json) |
+| Tune the Tone | 128198 | [128198-tune-the-tone.json](./128198-tune-the-tone.json) |
 | Tunebound | 418296 | [418296-tunebound.json](./418296-tunebound.json) |
 | Tuned Heart | 45971 | [45971-tuned-heart.json](./45971-tuned-heart.json) |
 | Tuned to Your Heart | 225562 | [225562-tuned-to-your-heart.json](./225562-tuned-to-your-heart.json) |
@@ -26031,6 +26038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Kiss with Two Men | 303272 | [303272-two-kiss-with-two-men.json](./303272-two-kiss-with-two-men.json) |
 | Two Lane | 270776 | [270776-two-lane.json](./270776-two-lane.json) |
 | Two Little Ghosts of that House: The Missing Toy | 319340 | [319340-two-little-ghosts-of-that-house-the-missing-toy.json](./319340-two-little-ghosts-of-that-house-the-missing-toy.json) |
+| Two Love | 128240 | [128240-two-love.json](./128240-two-love.json) |
 | Two Men Go On A Date And Don't Fall In Love | 330367 | [330367-two-men-go-on-a-date-and-dont-fall-in-love.json](./330367-two-men-go-on-a-date-and-dont-fall-in-love.json) |
 | Two Moon: Space Rabbit | 270141 | [270141-two-moon-space-rabbit.json](./270141-two-moon-space-rabbit.json) |
 | Two Move Chess | 215680 | [215680-two-move-chess.json](./215680-two-move-chess.json) |
