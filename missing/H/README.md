@@ -5284,6 +5284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-way | 18201 | [18201-hi-way.json](./18201-hi-way.json) |
 | Hi, How Are You | 251426 | [251426-hi-how-are-you.json](./251426-hi-how-are-you.json) |
 | Hi! Hamtaro: Ham-Ham Challenge | 77875 | [77875-hi-hamtaro-ham-ham-challenge.json](./77875-hi-hamtaro-ham-ham-challenge.json) |
+| Hiarcs Chess for iPad | 103135 | [103135-hiarcs-chess-for-ipad.json](./103135-hiarcs-chess-for-ipad.json) |
 | Hiatari Ryoukou! | 258850 | [258850-hiatari-ryoukou.json](./258850-hiatari-ryoukou.json) |
 | Hibachi Hero | 395015 | [395015-hibachi-hero.json](./395015-hibachi-hero.json) |
 | Hiber | 113369 | [113369-hiber.json](./113369-hiber.json) |
@@ -8214,6 +8215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Dodge! | 158721 | [158721-hot-dodge.json](./158721-hot-dodge.json) |
 | Hot Dog Bush | 159351 | [159351-hot-dog-bush.json](./159351-hot-dog-bush.json) |
 | Hot Dog Champion | 19147 | [19147-hot-dog-champion.json](./19147-hot-dog-champion.json) |
+| Hot Dog Deluxe | 103126 | [103126-hot-dog-deluxe.json](./103126-hot-dog-deluxe.json) |
 | Hot Dog Dreamer | 182694 | [182694-hot-dog-dreamer.json](./182694-hot-dog-dreamer.json) |
 | Hot Dog King | 20369 | [20369-hot-dog-king.json](./20369-hot-dog-king.json) |
 | Hot Dog King: A Fast Food Empire | 70328 | [70328-hot-dog-king-a-fast-food-empire.json](./70328-hot-dog-king-a-fast-food-empire.json) |
@@ -8954,6 +8956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HPL: Nyarlathotep Rising | 258223 | [258223-hpl-nyarlathotep-rising.json](./258223-hpl-nyarlathotep-rising.json) |
 | HPRZ: The Syndrome | 149551 | [149551-hprz-the-syndrome.json](./149551-hprz-the-syndrome.json) |
 | HPS1 Sports | 276756 | [276756-hps1-sports.json](./276756-hps1-sports.json) |
+| HQ Taxi Driving 3D | 103145 | [103145-hq-taxi-driving-3d.json](./103145-hq-taxi-driving-3d.json) |
 | HQ Trivia | 214770 | [214770-hq-trivia.json](./214770-hq-trivia.json) |
 | HR Simulator | 322971 | [322971-hr-simulator.json](./322971-hr-simulator.json) |
 | HR: Human Remains | 347337 | [347337-hr-human-remains.json](./347337-hr-human-remains.json) |
