@@ -1154,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Match Quest | 108481 | [108481-ball-match-quest.json](./108481-ball-match-quest.json) |
 | Ball O | 262897 | [262897-ball-o.json](./262897-ball-o.json) |
 | Ball of Adventure | 220051 | [220051-ball-of-adventure.json](./220051-ball-of-adventure.json) |
+| Ball of Doom | 132465 | [132465-ball-of-doom.json](./132465-ball-of-doom.json) |
 | Ball of Paint | 334752 | [334752-ball-of-paint.json](./334752-ball-of-paint.json) |
 | Ball of Poo | 276855 | [276855-ball-of-poo.json](./276855-ball-of-poo.json) |
 | Ball of Woe | 253267 | [253267-ball-of-woe.json](./253267-ball-of-woe.json) |
@@ -2121,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barney: On Location - All Around Town | 73702 | [73702-barney-on-location-all-around-town.json](./73702-barney-on-location-all-around-town.json) |
 | Barney's Dream Cruise | 120908 | [120908-barneys-dream-cruise.json](./120908-barneys-dream-cruise.json) |
 | Barney's Hide & Seek Game | 46286 | [46286-barneys-hide-and-seek-game.json](./46286-barneys-hide-and-seek-game.json) |
+| BarnFinders: The Pilot | 133072 | [133072-barnfinders-the-pilot.json](./133072-barnfinders-the-pilot.json) |
 | Barnicle | 344380 | [344380-barnicle.json](./344380-barnicle.json) |
 | Barnstormer | 92849 | [92849-barnstormer.json](./92849-barnstormer.json) |
 | Barnstormers: Determined to Win | 241304 | [241304-barnstormers-determined-to-win.json](./241304-barnstormers-determined-to-win.json) |
@@ -13397,7 +13399,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulwark: Falconeer Chronicles - Medieval Houses | 408049 | [408049-bulwark-falconeer-chronicles-medieval-houses.json](./408049-bulwark-falconeer-chronicles-medieval-houses.json) |
 | Bulwark: Falconeer Chronicles - Trade, Dispute and Splinters update | 299607 | [299607-bulwark-falconeer-chronicles-trade-dispute-and-splinters-update.json](./299607-bulwark-falconeer-chronicles-trade-dispute-and-splinters-update.json) |
 | Bum Bum Monsterz | 258511 | [258511-bum-bum-monsterz.json](./258511-bum-bum-monsterz.json) |
-| Bum Simulator | 101320 | [101320-bum-simulator.json](./101320-bum-simulator.json) |
 | Bum Simulator VR | 201513 | [201513-bum-simulator-vr.json](./201513-bum-simulator-vr.json) |
 | Bumaga | 197122 | [197122-bumaga.json](./197122-bumaga.json) |
 | Bumballon | 190027 | [190027-bumballon.json](./190027-bumballon.json) |
