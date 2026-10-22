@@ -7084,6 +7084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plane Flight Simulator | 380171 | [380171-plane-flight-simulator.json](./380171-plane-flight-simulator.json) |
 | Plane Graveyard Simulator | 315337 | [315337-plane-graveyard-simulator.json](./315337-plane-graveyard-simulator.json) |
 | Plane in Hole | 116883 | [116883-plane-in-hole.json](./116883-plane-in-hole.json) |
+| Plane Landing Simulator | 108189 | [108189-plane-landing-simulator.json](./108189-plane-landing-simulator.json) |
 | Plane Master | 232691 | [232691-plane-master.json](./232691-plane-master.json) |
 | Plane Race | 235111 | [235111-plane-race.json](./235111-plane-race.json) |
 | Plane Racer | 230296 | [230296-plane-racer.json](./230296-plane-racer.json) |
