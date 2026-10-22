@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napoleon's Campaigns | 21362 | [21362-napoleons-campaigns.json](./21362-napoleons-campaigns.json) |
 | Napoleon's Campaigns II | 65045 | [65045-napoleons-campaigns-ii.json](./65045-napoleons-campaigns-ii.json) |
 | Napoleon's Campaigns: 1813 & 1815 | 23989 | [23989-napoleons-campaigns-1813-and-1815.json](./23989-napoleons-campaigns-1813-and-1815.json) |
+| Napoleon's Russian Campaign | 144838 | [144838-napoleons-russian-campaign.json](./144838-napoleons-russian-campaign.json) |
 | Napoleonic Battles: The Final Struggle | 182272 | [182272-napoleonic-battles-the-final-struggle.json](./182272-napoleonic-battles-the-final-struggle.json) |
 | Napolitan Hotel | 336506 | [336506-napolitan-hotel.json](./336506-napolitan-hotel.json) |
 | Napped | 219648 | [219648-napped.json](./219648-napped.json) |
