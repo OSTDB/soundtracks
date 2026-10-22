@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-22T08:49:59.778Z",
-  "total_missing": 245844,
+  "generated_at": "2026-10-22T09:04:19.007Z",
+  "total_missing": 245894,
   "games": [
     {
       "igdb_id": 191680,
@@ -53287,6 +53287,11 @@
       "file": "missing/A/135738-anno-1404-history-edition.json"
     },
     {
+      "igdb_id": 136092,
+      "game_name": "Anno 1503: History Edition",
+      "file": "missing/A/136092-anno-1503-history-edition.json"
+    },
+    {
       "igdb_id": 77223,
       "game_name": "Anno 1503: Royal Edition",
       "file": "missing/A/77223-anno-1503-royal-edition.json"
@@ -71820,6 +71825,11 @@
       "igdb_id": 211296,
       "game_name": "Assassin's Creed Valhalla: Forgotten Saga",
       "file": "missing/A/211296-assassins-creed-valhalla-forgotten-saga.json"
+    },
+    {
+      "igdb_id": 136108,
+      "game_name": "Assassin's Creed Valhalla: Limited Edition",
+      "file": "missing/A/136108-assassins-creed-valhalla-limited-edition.json"
     },
     {
       "igdb_id": 222815,
@@ -107877,6 +107887,11 @@
       "file": "missing/B/304148-below-rusted-gods.json"
     },
     {
+      "igdb_id": 136308,
+      "game_name": "Belt Action Collection",
+      "file": "missing/B/136308-belt-action-collection.json"
+    },
+    {
       "igdb_id": 214951,
       "game_name": "Belt Colony",
       "file": "missing/B/214951-belt-colony.json"
@@ -115347,6 +115362,11 @@
       "file": "missing/B/213287-biomorph.json"
     },
     {
+      "igdb_id": 136313,
+      "game_name": "Biomutant: Atomic Edition",
+      "file": "missing/B/136313-biomutant-atomic-edition.json"
+    },
+    {
       "igdb_id": 30749,
       "game_name": "Biomydra",
       "file": "missing/B/30749-biomydra.json"
@@ -118880,6 +118900,11 @@
       "igdb_id": 10049,
       "game_name": "Black Mirror III: Final Fear",
       "file": "missing/B/10049-black-mirror-iii-final-fear.json"
+    },
+    {
+      "igdb_id": 136096,
+      "game_name": "Black Mirror: Bandersnatch",
+      "file": "missing/B/136096-black-mirror-bandersnatch.json"
     },
     {
       "igdb_id": 339816,
@@ -155480,6 +155505,11 @@
       "igdb_id": 20219,
       "game_name": "Cabela's Big Game Hunter: Hunting Party",
       "file": "missing/C/20219-cabelas-big-game-hunter-hunting-party.json"
+    },
+    {
+      "igdb_id": 136305,
+      "game_name": "Cabela's Big Game Hunter: Hunting Party with Gun",
+      "file": "missing/C/136305-cabelas-big-game-hunter-hunting-party-with-gun.json"
     },
     {
       "igdb_id": 45298,
@@ -217647,6 +217677,11 @@
       "file": "missing/C/113113-crash-team-racing-nitro-fueled.json"
     },
     {
+      "igdb_id": 136126,
+      "game_name": "Crash Team Racing Nitro-Fueled + Spyro Reignited Trilogy Bundle",
+      "file": "missing/C/136126-crash-team-racing-nitro-fueled-spyro-reignited-trilogy-bundle.json"
+    },
+    {
       "igdb_id": 324837,
       "game_name": "Crash Team Racing Nitro-Fueled: Back N. Time Grand Prix",
       "file": "missing/C/324837-crash-team-racing-nitro-fueled-back-n-time-grand-prix.json"
@@ -218045,6 +218080,11 @@
       "igdb_id": 61568,
       "game_name": "Crate Man",
       "file": "missing/C/61568-crate-man.json"
+    },
+    {
+      "igdb_id": 136098,
+      "game_name": "Crate Punks: Dada is Dead",
+      "file": "missing/C/136098-crate-punks-dada-is-dead.json"
     },
     {
       "igdb_id": 150402,
@@ -253307,6 +253347,11 @@
       "file": "missing/D/168383-death-wore-endless-feathers.json"
     },
     {
+      "igdb_id": 136118,
+      "game_name": "Death World",
+      "file": "missing/D/136118-death-world.json"
+    },
+    {
       "igdb_id": 337201,
       "game_name": "Death Worm",
       "file": "missing/D/337201-death-worm.json"
@@ -257580,6 +257625,11 @@
       "igdb_id": 405485,
       "game_name": "Deformuseum",
       "file": "missing/D/405485-deformuseum.json"
+    },
+    {
+      "igdb_id": 136116,
+      "game_name": "Defrag",
+      "file": "missing/D/136116-defrag.json"
     },
     {
       "igdb_id": 390232,
@@ -264377,6 +264427,11 @@
       "file": "missing/D/203364-destroy-all-humans-clone-carnage.json"
     },
     {
+      "igdb_id": 136110,
+      "game_name": "Destroy All Humans!: Crypto 137 Edition",
+      "file": "missing/D/136110-destroy-all-humans-crypto-137-edition.json"
+    },
+    {
       "igdb_id": 312763,
       "game_name": "Destroy All Letters",
       "file": "missing/D/312763-destroy-all-letters.json"
@@ -270377,6 +270432,11 @@
       "file": "missing/D/136416-digital-devil-saga-avatar-tuner-as-test-server.json"
     },
     {
+      "igdb_id": 136113,
+      "game_name": "Digital Devil Story: Megami Tensei",
+      "file": "missing/D/136113-digital-devil-story-megami-tensei.json"
+    },
+    {
       "igdb_id": 48656,
       "game_name": "Digital Devil Story: Megami Tensei II",
       "file": "missing/D/48656-digital-devil-story-megami-tensei-ii.json"
@@ -274555,6 +274615,11 @@
       "igdb_id": 136269,
       "game_name": "Dishonored 2: Collector's Edition",
       "file": "missing/D/136269-dishonored-2-collectors-edition.json"
+    },
+    {
+      "igdb_id": 136124,
+      "game_name": "Dishonored 2: Jewel of the South Pack",
+      "file": "missing/D/136124-dishonored-2-jewel-of-the-south-pack.json"
     },
     {
       "igdb_id": 255606,
@@ -311412,6 +311477,11 @@
       "file": "missing/E/80895-earthlock.json"
     },
     {
+      "igdb_id": 136090,
+      "game_name": "Earthlock 2",
+      "file": "missing/E/136090-earthlock-2.json"
+    },
+    {
       "igdb_id": 7202,
       "game_name": "Earthlock: Festival of Magic",
       "file": "missing/E/7202-earthlock-festival-of-magic.json"
@@ -325860,6 +325930,11 @@
       "igdb_id": 118942,
       "game_name": "Enter the Gungeon: A Farewell to Arms",
       "file": "missing/E/118942-enter-the-gungeon-a-farewell-to-arms.json"
+    },
+    {
+      "igdb_id": 136309,
+      "game_name": "Enter the Gungeon: Deluxe Edition",
+      "file": "missing/E/136309-enter-the-gungeon-deluxe-edition.json"
     },
     {
       "igdb_id": 294005,
@@ -350767,6 +350842,11 @@
       "file": "missing/F/51544-far-cry-3-wish-you-were-here-edition.json"
     },
     {
+      "igdb_id": 136307,
+      "game_name": "Far Cry 4 + Far Cry Primal Double Pack",
+      "file": "missing/F/136307-far-cry-4-far-cry-primal-double-pack.json"
+    },
+    {
       "igdb_id": 164801,
       "game_name": "Far Cry 4 + Far Cry: Primal Bundle",
       "file": "missing/F/164801-far-cry-4-far-cry-primal-bundle.json"
@@ -354580,6 +354660,11 @@
       "igdb_id": 19799,
       "game_name": "Fate/Extella: The Umbral Star",
       "file": "missing/F/19799-fate-extella-the-umbral-star.json"
+    },
+    {
+      "igdb_id": 136318,
+      "game_name": "Fate/Extella: The Umbral Star - Noble Phantasm Edition",
+      "file": "missing/F/136318-fate-extella-the-umbral-star-noble-phantasm-edition.json"
     },
     {
       "igdb_id": 12382,
@@ -381402,6 +381487,11 @@
       "file": "missing/F/310666-fort-boyard-millennium.json"
     },
     {
+      "igdb_id": 136117,
+      "game_name": "Fort Boyard: Nouvelle Edition",
+      "file": "missing/F/136117-fort-boyard-nouvelle-edition.json"
+    },
+    {
       "igdb_id": 388268,
       "game_name": "Fort Boyard: The Challenge",
       "file": "missing/F/388268-fort-boyard-the-challenge.json"
@@ -388085,6 +388175,11 @@
       "igdb_id": 224244,
       "game_name": "Friday the 13th: The Game - Spring Break 1984 Clothing Pack",
       "file": "missing/F/224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json"
+    },
+    {
+      "igdb_id": 136315,
+      "game_name": "Friday The 13th: The Game - Ultimate Slasher Collector's Edition",
+      "file": "missing/F/136315-friday-the-13th-the-game-ultimate-slasher-collectors-edition.json"
     },
     {
       "igdb_id": 115835,
@@ -406025,6 +406120,11 @@
       "igdb_id": 342721,
       "game_name": "Gears of War: Reloaded",
       "file": "missing/G/342721-gears-of-war-reloaded.json"
+    },
+    {
+      "igdb_id": 136314,
+      "game_name": "Gears of War: Triple Pack",
+      "file": "missing/G/136314-gears-of-war-triple-pack.json"
     },
     {
       "igdb_id": 164770,
@@ -469637,6 +469737,11 @@
       "file": "missing/H/271207-high-energy-heroes.json"
     },
     {
+      "igdb_id": 136112,
+      "game_name": "High Entropy: Challenges",
+      "file": "missing/H/136112-high-entropy-challenges.json"
+    },
+    {
       "igdb_id": 182097,
       "game_name": "High Factory",
       "file": "missing/H/182097-high-factory.json"
@@ -472830,6 +472935,11 @@
       "igdb_id": 336886,
       "game_name": "Hitman 2 Christmas Game",
       "file": "missing/H/336886-hitman-2-christmas-game.json"
+    },
+    {
+      "igdb_id": 136111,
+      "game_name": "HITMAN 2: Collector's Edition",
+      "file": "missing/H/136111-hitman-2-collectors-edition.json"
     },
     {
       "igdb_id": 118173,
@@ -515485,6 +515595,11 @@
       "igdb_id": 326411,
       "game_name": "ISS Simulator",
       "file": "missing/I/326411-iss-simulator.json"
+    },
+    {
+      "igdb_id": 136303,
+      "game_name": "ISS: International Superstar Soccer",
+      "file": "missing/I/136303-iss-international-superstar-soccer.json"
     },
     {
       "igdb_id": 220859,
@@ -600352,6 +600467,16 @@
       "file": "missing/M/243662-madden-nfl-21-mobile.json"
     },
     {
+      "igdb_id": 136094,
+      "game_name": "Madden NFL 21: Deluxe Edition",
+      "file": "missing/M/136094-madden-nfl-21-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 136095,
+      "game_name": "Madden NFL 21: MVP Edition",
+      "file": "missing/M/136095-madden-nfl-21-mvp-edition.json"
+    },
+    {
       "igdb_id": 141182,
       "game_name": "Madden NFL 21: NXT LVL Edition",
       "file": "missing/M/141182-madden-nfl-21-nxt-lvl-edition.json"
@@ -625170,6 +625295,11 @@
       "igdb_id": 383479,
       "game_name": "MediAevi",
       "file": "missing/M/383479-mediaevi.json"
+    },
+    {
+      "igdb_id": 136102,
+      "game_name": "Median XL",
+      "file": "missing/M/136102-median-xl.json"
     },
     {
       "igdb_id": 118915,
@@ -664695,6 +664825,11 @@
       "igdb_id": 4121,
       "game_name": "Mortal Kombat Trilogy",
       "file": "missing/M/4121-mortal-kombat-trilogy.json"
+    },
+    {
+      "igdb_id": 136302,
+      "game_name": "Mortal Kombat vs DC Universe: Silver Shield Combo Pack",
+      "file": "missing/M/136302-mortal-kombat-vs-dc-universe-silver-shield-combo-pack.json"
     },
     {
       "igdb_id": 1617,
@@ -716882,6 +717017,11 @@
       "file": "missing/O/289405-oddworld-munchs-oddysee.json"
     },
     {
+      "igdb_id": 136115,
+      "game_name": "Oddworld: Munch's Oddysee - Limited Edition",
+      "file": "missing/O/136115-oddworld-munchs-oddysee-limited-edition.json"
+    },
+    {
       "igdb_id": 51329,
       "game_name": "Oddworld: Munch's Oddysee HD",
       "file": "missing/O/51329-oddworld-munchs-oddysee-hd.json"
@@ -736330,6 +736470,11 @@
       "igdb_id": 262900,
       "game_name": "Overmortal",
       "file": "missing/O/262900-overmortal.json"
+    },
+    {
+      "igdb_id": 136317,
+      "game_name": "Overnight",
+      "file": "missing/O/136317-overnight.json"
     },
     {
       "igdb_id": 207512,
@@ -757687,6 +757832,31 @@
       "file": "missing/P/136795-phantasy-star-online-2-episode-6-deluxe-package-limited-edition.json"
     },
     {
+      "igdb_id": 136103,
+      "game_name": "Phantasy Star Online 2: Episode2 Code",
+      "file": "missing/P/136103-phantasy-star-online-2-episode2-code.json"
+    },
+    {
+      "igdb_id": 136104,
+      "game_name": "Phantasy Star Online 2: Episode3 Mission",
+      "file": "missing/P/136104-phantasy-star-online-2-episode3-mission.json"
+    },
+    {
+      "igdb_id": 136105,
+      "game_name": "Phantasy Star Online 2: Episode4 Reborn",
+      "file": "missing/P/136105-phantasy-star-online-2-episode4-reborn.json"
+    },
+    {
+      "igdb_id": 136106,
+      "game_name": "Phantasy Star Online 2: Episode5 Heroes",
+      "file": "missing/P/136106-phantasy-star-online-2-episode5-heroes.json"
+    },
+    {
+      "igdb_id": 136107,
+      "game_name": "Phantasy Star Online 2: Episode6 Stars",
+      "file": "missing/P/136107-phantasy-star-online-2-episode6-stars.json"
+    },
+    {
       "igdb_id": 225867,
       "game_name": "Phantasy Star Online 2: Helga Pack",
       "file": "missing/P/225867-phantasy-star-online-2-helga-pack.json"
@@ -757697,9 +757867,19 @@
       "file": "missing/P/225863-phantasy-star-online-2-howzer-pack.json"
     },
     {
+      "igdb_id": 136101,
+      "game_name": "Phantasy Star Online 2: Ragol Fashion Pack 3rd",
+      "file": "missing/P/136101-phantasy-star-online-2-ragol-fashion-pack-3rd.json"
+    },
+    {
       "igdb_id": 132156,
       "game_name": "Phantasy Star Online 2: Sonic Collaboration Edition",
       "file": "missing/P/132156-phantasy-star-online-2-sonic-collaboration-edition.json"
+    },
+    {
+      "igdb_id": 136099,
+      "game_name": "Phantasy Star Online 2: Sonic Collaboration Pack",
+      "file": "missing/P/136099-phantasy-star-online-2-sonic-collaboration-pack.json"
     },
     {
       "igdb_id": 143580,
@@ -791610,6 +791790,11 @@
       "igdb_id": 49354,
       "game_name": "Premier Manager 2005-2006",
       "file": "missing/P/49354-premier-manager-2005-2006.json"
+    },
+    {
+      "igdb_id": 136304,
+      "game_name": "Premier Manager 2006-07",
+      "file": "missing/P/136304-premier-manager-2006-07.json"
     },
     {
       "igdb_id": 91301,
@@ -905337,6 +905522,11 @@
       "file": "missing/S/278635-sid-meiers-civilization-vi-mudrock-pack.json"
     },
     {
+      "igdb_id": 136310,
+      "game_name": "Sid Meier's Civilization VI: New Frontier Pass",
+      "file": "missing/S/136310-sid-meiers-civilization-vi-new-frontier-pass.json"
+    },
+    {
       "igdb_id": 164403,
       "game_name": "Sid Meier's Civilization VI: Nubia Civilization & Scenario Pack",
       "file": "missing/S/164403-sid-meiers-civilization-vi-nubia-civilization-and-scenario-pack.json"
@@ -962792,6 +962982,11 @@
       "file": "missing/S/417642-starcraft.json"
     },
     {
+      "igdb_id": 136312,
+      "game_name": "StarCraft II: Battle Chest",
+      "file": "missing/S/136312-starcraft-ii-battle-chest.json"
+    },
+    {
       "igdb_id": 356059,
       "game_name": "StarCraft II: Campaign Collection",
       "file": "missing/S/356059-starcraft-ii-campaign-collection.json"
@@ -1009132,6 +1009327,11 @@
       "file": "missing/T/104992-taiko-no-tatsujin-drum-n-fun.json"
     },
     {
+      "igdb_id": 136119,
+      "game_name": "Taiko no Tatsujin: Drum 'n' Fun! Bundle",
+      "file": "missing/T/136119-taiko-no-tatsujin-drum-n-fun-bundle.json"
+    },
+    {
       "igdb_id": 118719,
       "game_name": "Taiko No Tatsujin: Drum Session! - Deluxe Edition",
       "file": "missing/T/118719-taiko-no-tatsujin-drum-session-deluxe-edition.json"
@@ -1012685,6 +1012885,11 @@
       "igdb_id": 238649,
       "game_name": "Tales of: Sena",
       "file": "missing/T/238649-tales-of-sena.json"
+    },
+    {
+      "igdb_id": 136127,
+      "game_name": "Tales of: Vesperia + Berseria + Zestiria Bundle",
+      "file": "missing/T/136127-tales-of-vesperia-berseria-zestiria-bundle.json"
     },
     {
       "igdb_id": 17932,
@@ -1020685,6 +1020890,11 @@
       "igdb_id": 393420,
       "game_name": "Tekken 6: Bloodline Rebellion",
       "file": "missing/T/393420-tekken-6-bloodline-rebellion.json"
+    },
+    {
+      "igdb_id": 136121,
+      "game_name": "Tekken 7 + SoulCalibur VI Double Pack",
+      "file": "missing/T/136121-tekken-7-soulcalibur-vi-double-pack.json"
     },
     {
       "igdb_id": 163266,
@@ -1036955,6 +1037165,11 @@
       "igdb_id": 400874,
       "game_name": "The Crust: Supporter Pack",
       "file": "missing/T/400874-the-crust-supporter-pack.json"
+    },
+    {
+      "igdb_id": 136114,
+      "game_name": "The Crying Game",
+      "file": "missing/T/136114-the-crying-game.json"
     },
     {
       "igdb_id": 219551,
@@ -1071122,6 +1071337,11 @@
       "file": "missing/T/14583-the-sims-3-aurora-skies.json"
     },
     {
+      "igdb_id": 136301,
+      "game_name": "The Sims 3: Expansion Bundle",
+      "file": "missing/T/136301-the-sims-3-expansion-bundle.json"
+    },
+    {
       "igdb_id": 13116,
       "game_name": "The Sims 3: Into the Future",
       "file": "missing/T/13116-the-sims-3-into-the-future.json"
@@ -1071647,6 +1071867,11 @@
       "file": "missing/T/226791-the-sims-4-pastel-pop-kit.json"
     },
     {
+      "igdb_id": 136109,
+      "game_name": "The Sims 4: Plus Cats & Dogs Bundle",
+      "file": "missing/T/136109-the-sims-4-plus-cats-and-dogs-bundle.json"
+    },
+    {
       "igdb_id": 166308,
       "game_name": "The Sims 4: Plus Eco Lifestyle Bundle",
       "file": "missing/T/166308-the-sims-4-plus-eco-lifestyle-bundle.json"
@@ -1071660,6 +1071885,11 @@
       "igdb_id": 139823,
       "game_name": "The Sims 4: Plus Journey to Batuu Bundle",
       "file": "missing/T/139823-the-sims-4-plus-journey-to-batuu-bundle.json"
+    },
+    {
+      "igdb_id": 136306,
+      "game_name": "The Sims 4: Plus Seasons Bundle",
+      "file": "missing/T/136306-the-sims-4-plus-seasons-bundle.json"
     },
     {
       "igdb_id": 265704,
@@ -1144517,6 +1144747,11 @@
       "file": "missing/U/121369-under-night-in-birth-exe-late-cl-r.json"
     },
     {
+      "igdb_id": 136316,
+      "game_name": "Under Night In-Birth Exe:Late[cl-r] - Collector's Edition",
+      "file": "missing/U/136316-under-night-in-birth-exe-late-cl-r-collectors-edition.json"
+    },
+    {
       "igdb_id": 260087,
       "game_name": "Under Night In-Birth II Sys:Celes",
       "file": "missing/U/260087-under-night-in-birth-ii-sys-celes.json"
@@ -1170835,6 +1171070,11 @@
       "igdb_id": 188052,
       "game_name": "Walking Simulator",
       "file": "missing/W/188052-walking-simulator.json"
+    },
+    {
+      "igdb_id": 136100,
+      "game_name": "Walking Simulator A Month Club (Complete Edition)",
+      "file": "missing/W/136100-walking-simulator-a-month-club-complete-edition.json"
     },
     {
       "igdb_id": 366576,
@@ -1201597,6 +1201837,11 @@
       "file": "missing/W/275175-world-of-warcraft-classic-season-of-discovery.json"
     },
     {
+      "igdb_id": 136120,
+      "game_name": "World of Warcraft: 15th Anniversary - Collector's Edition",
+      "file": "missing/W/136120-world-of-warcraft-15th-anniversary-collectors-edition.json"
+    },
+    {
       "igdb_id": 75380,
       "game_name": "World of Warcraft: Battle for Azeroth",
       "file": "missing/W/75380-world-of-warcraft-battle-for-azeroth.json"
@@ -1217420,6 +1217665,11 @@
       "igdb_id": 174874,
       "game_name": "Yu-Gi-Oh! Cross Duel",
       "file": "missing/Y/174874-yu-gi-oh-cross-duel.json"
+    },
+    {
+      "igdb_id": 136097,
+      "game_name": "Yu-Gi-Oh! Dawn of a New Era",
+      "file": "missing/Y/136097-yu-gi-oh-dawn-of-a-new-era.json"
     },
     {
       "igdb_id": 49204,
