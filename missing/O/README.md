@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ojou-sama, Chijoku no hate ni Warau. | 108940 | [108940-ojou-sama-chijoku-no-hate-ni-warau.json](./108940-ojou-sama-chijoku-no-hate-ni-warau.json) |
 | Ojousama Sousamou | 70400 | [70400-ojousama-sousamou.json](./70400-ojousama-sousamou.json) |
 | OK Boomer | 127160 | [127160-ok-boomer.json](./127160-ok-boomer.json) |
+| OK, Dracula | 124507 | [124507-ok-dracula.json](./124507-ok-dracula.json) |
 | OK! Bird: Wing Up | 240863 | [240863-ok-bird-wing-up.json](./240863-ok-bird-wing-up.json) |
 | Ok/Normal | 101635 | [101635-ok-normal.json](./101635-ok-normal.json) |
 | Okabu | 20603 | [20603-okabu.json](./20603-okabu.json) |
