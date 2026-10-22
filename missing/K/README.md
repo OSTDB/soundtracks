@@ -4061,6 +4061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konna | 275598 | [275598-konna.json](./275598-konna.json) |
 | Konna Tokoro ni? Mitsuketa! | 253231 | [253231-konna-tokoro-ni-mitsuketa.json](./253231-konna-tokoro-ni-mitsuketa.json) |
 | Konneko: Keep A Memory Green | 56747 | [56747-konneko-keep-a-memory-green.json](./56747-konneko-keep-a-memory-green.json) |
+| Kono Aozora ni Yakusoku wo | 143993 | [143993-kono-aozora-ni-yakusoku-wo.json](./143993-kono-aozora-ni-yakusoku-wo.json) |
 | Kono Aozora ni Yakusoku wo | 324662 | [324662-kono-aozora-ni-yakusoku-wo.json](./324662-kono-aozora-ni-yakusoku-wo.json) |
 | Kono Aozora ni Yakusoku wo: Melody of the Sun and Sea | 324668 | [324668-kono-aozora-ni-yakusoku-wo-melody-of-the-sun-and-sea.json](./324668-kono-aozora-ni-yakusoku-wo-melody-of-the-sun-and-sea.json) |
 | Kono Aozora ni Yakusoku wo: Refine | 324677 | [324677-kono-aozora-ni-yakusoku-wo-refine.json](./324677-kono-aozora-ni-yakusoku-wo-refine.json) |
@@ -4541,6 +4542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubrain | 200021 | [200021-kubrain.json](./200021-kubrain.json) |
 | Kubus | 80580 | [80580-kubus.json](./80580-kubus.json) |
 | Kuchisake Onna | 110496 | [110496-kuchisake-onna.json](./110496-kuchisake-onna.json) |
+| Kuchitsu | 143987 | [143987-kuchitsu.json](./143987-kuchitsu.json) |
 | Kud Wafter | 9659 | [9659-kud-wafter.json](./9659-kud-wafter.json) |
 | Kud Wafter: Converted Edition | 274649 | [274649-kud-wafter-converted-edition.json](./274649-kud-wafter-converted-edition.json) |
 | Kudamono Drop | 316780 | [316780-kudamono-drop.json](./316780-kudamono-drop.json) |
