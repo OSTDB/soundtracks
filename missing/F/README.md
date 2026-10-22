@@ -2141,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 17: Ropa Pack | 90136 | [90136-farming-simulator-17-ropa-pack.json](./90136-farming-simulator-17-ropa-pack.json) |
 | Farming Simulator 19: Alpine Farming Expansion | 166102 | [166102-farming-simulator-19-alpine-farming-expansion.json](./166102-farming-simulator-19-alpine-farming-expansion.json) |
 | Farming Simulator 19: Ambassador Edition | 202420 | [202420-farming-simulator-19-ambassador-edition.json](./202420-farming-simulator-19-ambassador-edition.json) |
+| Farming Simulator 19: Anderson Group | 116015 | [116015-farming-simulator-19-anderson-group.json](./116015-farming-simulator-19-anderson-group.json) |
 | Farming Simulator 19: Anderson Group Equipment Pack | 166098 | [166098-farming-simulator-19-anderson-group-equipment-pack.json](./166098-farming-simulator-19-anderson-group-equipment-pack.json) |
 | Farming Simulator 19: Bourgault DLC | 166099 | [166099-farming-simulator-19-bourgault-dlc.json](./166099-farming-simulator-19-bourgault-dlc.json) |
 | Farming Simulator 19: Day One Edition | 136148 | [136148-farming-simulator-19-day-one-edition.json](./136148-farming-simulator-19-day-one-edition.json) |
@@ -2758,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear for Sale: City of the Past - Collector's Edition | 107836 | [107836-fear-for-sale-city-of-the-past-collectors-edition.json](./107836-fear-for-sale-city-of-the-past-collectors-edition.json) |
 | Fear for Sale: City of the Past HD - A Hidden Object Mystery | 88307 | [88307-fear-for-sale-city-of-the-past-hd-a-hidden-object-mystery.json](./88307-fear-for-sale-city-of-the-past-hd-a-hidden-object-mystery.json) |
 | Fear for Sale: Endless Voyage | 140251 | [140251-fear-for-sale-endless-voyage.json](./140251-fear-for-sale-endless-voyage.json) |
+| Fear for Sale: Endless Voyage - Collector's Edition | 116032 | [116032-fear-for-sale-endless-voyage-collectors-edition.json](./116032-fear-for-sale-endless-voyage-collectors-edition.json) |
 | Fear for Sale: Endless Voyage HD | 102204 | [102204-fear-for-sale-endless-voyage-hd.json](./102204-fear-for-sale-endless-voyage-hd.json) |
 | Fear For Sale: Hidden in the Darkness | 187899 | [187899-fear-for-sale-hidden-in-the-darkness.json](./187899-fear-for-sale-hidden-in-the-darkness.json) |
 | Fear for Sale: Mystery of McInroy Manor | 140252 | [140252-fear-for-sale-mystery-of-mcinroy-manor.json](./140252-fear-for-sale-mystery-of-mcinroy-manor.json) |
@@ -6588,6 +6590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Fall | 87172 | [87172-fluffy-fall.json](./87172-fluffy-fall.json) |
 | Fluffy Friends | 57040 | [57040-fluffy-friends.json](./57040-fluffy-friends.json) |
 | Fluffy Friends 2 | 74943 | [74943-fluffy-friends-2.json](./74943-fluffy-friends-2.json) |
+| Fluffy Friends 3 | 116038 | [116038-fluffy-friends-3.json](./116038-fluffy-friends-3.json) |
 | Fluffy Gore | 150156 | [150156-fluffy-gore.json](./150156-fluffy-gore.json) |
 | Fluffy Horde | 107385 | [107385-fluffy-horde.json](./107385-fluffy-horde.json) |
 | Fluffy Horde + Clumsy Rush | 230407 | [230407-fluffy-horde-clumsy-rush.json](./230407-fluffy-horde-clumsy-rush.json) |
