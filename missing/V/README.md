@@ -1496,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory | 23570 | [23570-victory.json](./23570-victory.json) |
 | Victory | 95445 | [95445-victory.json](./95445-victory.json) |
 | Victory and Glory: Napoleon | 33552 | [33552-victory-and-glory-napoleon.json](./33552-victory-and-glory-napoleon.json) |
+| Victory and Glory: The American Civil War | 132487 | [132487-victory-and-glory-the-american-civil-war.json](./132487-victory-and-glory-the-american-civil-war.json) |
 | Victory at Sea Atlantic | 261743 | [261743-victory-at-sea-atlantic.json](./261743-victory-at-sea-atlantic.json) |
 | Victory At Sea Ironclad | 171417 | [171417-victory-at-sea-ironclad.json](./171417-victory-at-sea-ironclad.json) |
 | Victory At Sea Pacific | 104004 | [104004-victory-at-sea-pacific.json](./104004-victory-at-sea-pacific.json) |
@@ -2738,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volleyball Xciting | 79579 | [79579-volleyball-xciting.json](./79579-volleyball-xciting.json) |
 | Volleyball! | 109453 | [109453-volleyball.json](./109453-volleyball.json) |
 | Volleyborne: Unbound Horizons | 322076 | [322076-volleyborne-unbound-horizons.json](./322076-volleyborne-unbound-horizons.json) |
+| VolleyBrawl | 132502 | [132502-volleybrawl.json](./132502-volleybrawl.json) |
 | Volleyfire | 66618 | [66618-volleyfire.json](./66618-volleyfire.json) |
 | Volleying | 72413 | [72413-volleying.json](./72413-volleying.json) |
 | VolleySmash | 322075 | [322075-volleysmash.json](./322075-volleysmash.json) |
