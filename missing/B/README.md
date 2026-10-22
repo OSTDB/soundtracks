@@ -734,7 +734,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10214,6 +10213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Bits | 108040 | [108040-boom-bits.json](./108040-boom-bits.json) |
 | Boom Blast | 108220 | [108220-boom-blast.json](./108220-boom-blast.json) |
 | Boom Blaster | 100891 | [100891-boom-blaster.json](./100891-boom-blaster.json) |
+| Boom Block | 108733 | [108733-boom-block.json](./108733-boom-block.json) |
 | Boom Boom Bovine | 120118 | [120118-boom-boom-bovine.json](./120118-boom-boom-bovine.json) |
 | Boom Boom Hamster Doom | 344168 | [344168-boom-boom-hamster-doom.json](./344168-boom-boom-hamster-doom.json) |
 | Boom Boom Tower | 118063 | [118063-boom-boom-tower.json](./118063-boom-boom-tower.json) |
