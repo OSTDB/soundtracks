@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazekao | 340786 | [340786-kazekao.json](./340786-kazekao.json) |
 | Kazfall | 413875 | [413875-kazfall.json](./413875-kazfall.json) |
 | Kazoe Meshi | 258953 | [258953-kazoe-meshi.json](./258953-kazoe-meshi.json) |
+| Kazoete | 130030 | [130030-kazoete.json](./130030-kazoete.json) |
 | Kazoku Gokko | 396474 | [396474-kazoku-gokko.json](./396474-kazoku-gokko.json) |
 | Kazoku Keikaku | 56773 | [56773-kazoku-keikaku.json](./56773-kazoku-keikaku.json) |
 | Kazoku Keikaku Soshite Mata Kazoku Keikaku o | 237408 | [237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json](./237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json) |
@@ -1329,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemotaku | 325527 | [325527-kemotaku.json](./325527-kemotaku.json) |
 | Kemuri | 279625 | [279625-kemuri.json](./279625-kemuri.json) |
 | Ken ga Kimi for S | 144572 | [144572-ken-ga-kimi-for-s.json](./144572-ken-ga-kimi-for-s.json) |
+| Ken ga Kimi: Momoyo Tsuzuri | 129997 | [129997-ken-ga-kimi-momoyo-tsuzuri.json](./129997-ken-ga-kimi-momoyo-tsuzuri.json) |
 | Ken Griffey Jr. Presents Major League Baseball | 299308 | [299308-ken-griffey-jr-presents-major-league-baseball.json](./299308-ken-griffey-jr-presents-major-league-baseball.json) |
 | Ken Griffey Jr.'s Horrible Tower | 382786 | [382786-ken-griffey-jr-s-horrible-tower.json](./382786-ken-griffey-jr-s-horrible-tower.json) |
 | Ken Griffey Jr.'s Slugfest | 249120 | [249120-ken-griffey-jr-s-slugfest.json](./249120-ken-griffey-jr-s-slugfest.json) |
@@ -3826,6 +3828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koe wo Tayori ni SP | 83818 | [83818-koe-wo-tayori-ni-sp.json](./83818-koe-wo-tayori-ni-sp.json) |
 | Koen Hunter | 97769 | [97769-koen-hunter.json](./97769-koen-hunter.json) |
 | Koenchu! The Tale of the Voice Actress: You, the Sky, and that Summer | 82714 | [82714-koenchu-the-tale-of-the-voice-actress-you-the-sky-and-that-summer.json](./82714-koenchu-the-tale-of-the-voice-actress-you-the-sky-and-that-summer.json) |
+| Koezaru ha Akai Hana: Koi ha Tsuki ni Michibikareru | 130001 | [130001-koezaru-ha-akai-hana-koi-ha-tsuki-ni-michibikareru.json](./130001-koezaru-ha-akai-hana-koi-ha-tsuki-ni-michibikareru.json) |
 | KOF Chronicle | 117502 | [117502-kof-chronicle.json](./117502-kof-chronicle.json) |
 | KOF X Garou Densetsu | 63832 | [63832-kof-x-garou-densetsu.json](./63832-kof-x-garou-densetsu.json) |
 | Koffi Yellow Copter | 40797 | [40797-koffi-yellow-copter.json](./40797-koffi-yellow-copter.json) |
