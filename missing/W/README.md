@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarFire | 32657 | [32657-warfire.json](./32657-warfire.json) |
 | WarFire: Deluxe Edition | 53886 | [53886-warfire-deluxe-edition.json](./53886-warfire-deluxe-edition.json) |
 | Warforged | 114193 | [114193-warforged.json](./114193-warforged.json) |
+| Warfork | 121290 | [121290-warfork.json](./121290-warfork.json) |
 | WarForwards | 119531 | [119531-warforwards.json](./119531-warforwards.json) |
 | Warframe: 1999 | 263563 | [263563-warframe-1999.json](./263563-warframe-1999.json) |
 | Warframe: Abyss of Dagath | 263531 | [263531-warframe-abyss-of-dagath.json](./263531-warframe-abyss-of-dagath.json) |
