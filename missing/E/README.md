@@ -4571,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ETea | 319066 | [319066-etea.json](./319066-etea.json) |
 | Etera | 306237 | [306237-etera.json](./306237-etera.json) |
 | Eterium | 17102 | [17102-eterium.json](./17102-eterium.json) |
+| Eterna: Heroes Fall | 139639 | [139639-eterna-heroes-fall.json](./139639-eterna-heroes-fall.json) |
 | Eternal | 303056 | [303056-eternal.json](./303056-eternal.json) |
 | Eternal | 357727 | [357727-eternal.json](./357727-eternal.json) |
 | Eternal Affairs | 347767 | [347767-eternal-affairs.json](./347767-eternal-affairs.json) |
@@ -5000,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evacuation | 182454 | [182454-evacuation.json](./182454-evacuation.json) |
 | Evacuation Combat | 156682 | [156682-evacuation-combat.json](./156682-evacuation-combat.json) |
 | Evacuation Zone: Tampere | 342759 | [342759-evacuation-zone-tampere.json](./342759-evacuation-zone-tampere.json) |
+| Evade | 139677 | [139677-evade.json](./139677-evade.json) |
 | Evade 2 | 144373 | [144373-evade-2.json](./144373-evade-2.json) |
 | Evade 2 | 227469 | [227469-evade-2.json](./227469-evade-2.json) |
 | Evade Prison | 380812 | [380812-evade-prison.json](./380812-evade-prison.json) |
