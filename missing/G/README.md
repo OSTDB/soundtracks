@@ -8144,6 +8144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Force II | 10450 | [10450-gun-force-ii.json](./10450-gun-force-ii.json) |
 | Gun Frog | 319290 | [319290-gun-frog.json](./319290-gun-frog.json) |
 | Gun Frontier | 39681 | [39681-gun-frontier.json](./39681-gun-frontier.json) |
+| Gun Game | 152718 | [152718-gun-game.json](./152718-gun-game.json) |
 | Gun Games 3D Offline Fps Games | 296769 | [296769-gun-games-3d-offline-fps-games.json](./296769-gun-games-3d-offline-fps-games.json) |
 | Gun Glade | 397627 | [397627-gun-glade.json](./397627-gun-glade.json) |
 | Gun Gladiator | 287749 | [287749-gun-gladiator.json](./287749-gun-gladiator.json) |
