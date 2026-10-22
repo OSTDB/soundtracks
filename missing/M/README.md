@@ -929,6 +929,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Kingdom War DLC-2 | 220610 | [220610-magic-kingdom-war-dlc-2.json](./220610-magic-kingdom-war-dlc-2.json) |
 | Magic Klondike | 232561 | [232561-magic-klondike.json](./232561-magic-klondike.json) |
 | Magic Knight Grand Charion | 305482 | [305482-magic-knight-grand-charion.json](./305482-magic-knight-grand-charion.json) |
+| Magic Knight Rayearth | 105043 | [105043-magic-knight-rayearth.json](./105043-magic-knight-rayearth.json) |
+| Magic Knight Rayearth | 105045 | [105045-magic-knight-rayearth.json](./105045-magic-knight-rayearth.json) |
 | Magic Knight Rayearth | 38375 | [38375-magic-knight-rayearth.json](./38375-magic-knight-rayearth.json) |
 | Magic Knight Rayearth | 78959 | [78959-magic-knight-rayearth.json](./78959-magic-knight-rayearth.json) |
 | Magic Knight Rayearth 2: Making of Magic Knight | 45265 | [45265-magic-knight-rayearth-2-making-of-magic-knight.json](./45265-magic-knight-rayearth-2-making-of-magic-knight.json) |
@@ -1613,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahoromatic: Moetto! Kira Kira Maid-san | 72579 | [72579-mahoromatic-moetto-kira-kira-maid-san.json](./72579-mahoromatic-moetto-kira-kira-maid-san.json) |
 | Mahou Arms | 96114 | [96114-mahou-arms.json](./96114-mahou-arms.json) |
 | Mahou City | 268524 | [268524-mahou-city.json](./268524-mahou-city.json) |
+| Mahou Kishi Rayearth 2nd: The Missing Colors | 105046 | [105046-mahou-kishi-rayearth-2nd-the-missing-colors.json](./105046-mahou-kishi-rayearth-2nd-the-missing-colors.json) |
 | Mahou Mating | 128014 | [128014-mahou-mating.json](./128014-mahou-mating.json) |
 | Mahou no Princess Minky Momo: Remember Dream | 61432 | [61432-mahou-no-princess-minky-momo-remember-dream.json](./61432-mahou-no-princess-minky-momo-remember-dream.json) |
 | Mahou no Shippo na | 69587 | [69587-mahou-no-shippo-na.json](./69587-mahou-no-shippo-na.json) |
@@ -7200,6 +7203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenary Brotherhood | 423295 | [423295-mercenary-brotherhood.json](./423295-mercenary-brotherhood.json) |
 | Mercenary Force | 48917 | [48917-mercenary-force.json](./48917-mercenary-force.json) |
 | Mercenary Guild Manager | 420500 | [420500-mercenary-guild-manager.json](./420500-mercenary-guild-manager.json) |
+| Mercenary Leto | 105145 | [105145-mercenary-leto.json](./105145-mercenary-leto.json) |
 | Mercenary Ops | 65175 | [65175-mercenary-ops.json](./65175-mercenary-ops.json) |
 | Mercenary Squad Auto Chess | 285366 | [285366-mercenary-squad-auto-chess.json](./285366-mercenary-squad-auto-chess.json) |
 | Mercenary Tactics | 310800 | [310800-mercenary-tactics.json](./310800-mercenary-tactics.json) |
@@ -12043,6 +12047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mononoke Tantei: Nobuta no Ayakashi Jikenbo | 222361 | [222361-mononoke-tantei-nobuta-no-ayakashi-jikenbo.json](./222361-mononoke-tantei-nobuta-no-ayakashi-jikenbo.json) |
 | Monophobia | 122821 | [122821-monophobia.json](./122821-monophobia.json) |
 | Monophobia | 395993 | [395993-monophobia.json](./395993-monophobia.json) |
+| Monopolist: Technological Revolution | 105143 | [105143-monopolist-technological-revolution.json](./105143-monopolist-technological-revolution.json) |
 | Monopoly | 131463 | [131463-monopoly.json](./131463-monopoly.json) |
 | Monopoly | 131548 | [131548-monopoly.json](./131548-monopoly.json) |
 | Monopoly | 186723 | [186723-monopoly.json](./186723-monopoly.json) |
