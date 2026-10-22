@@ -8768,6 +8768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Francisca 2 | 156073 | [156073-francisca-2.json](./156073-francisca-2.json) |
 | Franco and Apollo | 211387 | [211387-franco-and-apollo.json](./211387-franco-and-apollo.json) |
 | Frane: Dragons' Odyssey | 116790 | [116790-frane-dragons-odyssey.json](./116790-frane-dragons-odyssey.json) |
+| Frank & the TimeTwister Machine | 117390 | [117390-frank-and-the-timetwister-machine.json](./117390-frank-and-the-timetwister-machine.json) |
 | Frank and 10 roots | 116286 | [116286-frank-and-10-roots.json](./116286-frank-and-10-roots.json) |
 | Frank and Drake | 152923 | [152923-frank-and-drake.json](./152923-frank-and-drake.json) |
 | Frank Bruno's Boxing | 45246 | [45246-frank-brunos-boxing.json](./45246-frank-brunos-boxing.json) |
