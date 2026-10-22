@@ -3234,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaborn | 176450 | [176450-seaborn.json](./176450-seaborn.json) |
 | Seacorp Technologies | 108903 | [108903-seacorp-technologies.json](./108903-seacorp-technologies.json) |
 | SeaCret 1 | 352464 | [352464-seacret-1.json](./352464-seacret-1.json) |
+| Seacurity Breach | 109309 | [109309-seacurity-breach.json](./109309-seacurity-breach.json) |
 | Seafarer | 296463 | [296463-seafarer.json](./296463-seafarer.json) |
 | Seafarer: The Ship Sim | 334351 | [334351-seafarer-the-ship-sim.json](./334351-seafarer-the-ship-sim.json) |
 | Seafarer's Gambit | 329172 | [329172-seafarers-gambit.json](./329172-seafarers-gambit.json) |
@@ -4490,6 +4491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seraphim Flame | 402352 | [402352-seraphim-flame.json](./402352-seraphim-flame.json) |
 | Seraphim Slum | 272162 | [272162-seraphim-slum.json](./272162-seraphim-slum.json) |
 | Seraphim: Master of Legend | 146537 | [146537-seraphim-master-of-legend.json](./146537-seraphim-master-of-legend.json) |
+| Seraphims of Astraeus | 109332 | [109332-seraphims-of-astraeus.json](./109332-seraphims-of-astraeus.json) |
 | Seraphine's Skyward Journey | 388054 | [388054-seraphines-skyward-journey.json](./388054-seraphines-skyward-journey.json) |
 | Seraphixial | 392164 | [392164-seraphixial.json](./392164-seraphixial.json) |
 | Serbia '14 | 131997 | [131997-serbia-14.json](./131997-serbia-14.json) |
@@ -7144,6 +7146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Genius | 253280 | [253280-shooting-genius.json](./253280-shooting-genius.json) |
 | Shooting girl | 201669 | [201669-shooting-girl.json](./201669-shooting-girl.json) |
 | Shooting Hunter Terrorist | 103155 | [103155-shooting-hunter-terrorist.json](./103155-shooting-hunter-terrorist.json) |
+| Shooting Hurts | 109356 | [109356-shooting-hurts.json](./109356-shooting-hurts.json) |
 | Shooting King | 105518 | [105518-shooting-king.json](./105518-shooting-king.json) |
 | Shooting Love. 10-shuunen | 268857 | [268857-shooting-love-10-shuunen.json](./268857-shooting-love-10-shuunen.json) |
 | Shooting Love. 2007 | 83422 | [83422-shooting-love-2007.json](./83422-shooting-love-2007.json) |
@@ -9310,6 +9313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkateNationXL | 272579 | [272579-skatenationxl.json](./272579-skatenationxl.json) |
 | Skater | 245172 | [245172-skater.json](./245172-skater.json) |
 | Skater Bunny Simulator | 320459 | [320459-skater-bunny-simulator.json](./320459-skater-bunny-simulator.json) |
+| Skater Cally | 109320 | [109320-skater-cally.json](./109320-skater-cally.json) |
 | Skater Cat | 85377 | [85377-skater-cat.json](./85377-skater-cat.json) |
 | Skater Frog | 129048 | [129048-skater-frog.json](./129048-skater-frog.json) |
 | Skater Girl - Makeup & Dressup | 87874 | [87874-skater-girl-makeup-and-dressup.json](./87874-skater-girl-makeup-and-dressup.json) |
@@ -14958,6 +14962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cavern | 18502 | [18502-space-cavern.json](./18502-space-cavern.json) |
 | Space Challenge | 96640 | [96640-space-challenge.json](./96640-space-challenge.json) |
 | Space Channel 5 Game App | 214953 | [214953-space-channel-5-game-app.json](./214953-space-channel-5-game-app.json) |
+| Space Channel 5 VR: Kinda Funky News Flash | 109296 | [109296-space-channel-5-vr-kinda-funky-news-flash.json](./109296-space-channel-5-vr-kinda-funky-news-flash.json) |
 | Space Channel 5: Ulala's Cosmic Attack | 23716 | [23716-space-channel-5-ulalas-cosmic-attack.json](./23716-space-channel-5-ulalas-cosmic-attack.json) |
 | Space Chaos | 374354 | [374354-space-chaos.json](./374354-space-chaos.json) |
 | Space Chase: Odyssey | 333599 | [333599-space-chase-odyssey.json](./333599-space-chase-odyssey.json) |
@@ -23699,6 +23704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supaplex | 413616 | [413616-supaplex.json](./413616-supaplex.json) |
 | Supaplex Hard | 107929 | [107929-supaplex-hard.json](./107929-supaplex-hard.json) |
 | Supaplex Squares | 105513 | [105513-supaplex-squares.json](./105513-supaplex-squares.json) |
+| Supaplex WOW! | 109314 | [109314-supaplex-wow.json](./109314-supaplex-wow.json) |
 | Supaplex: Second Chance | 145010 | [145010-supaplex-second-chance.json](./145010-supaplex-second-chance.json) |
 | Supapoon DX | 42418 | [42418-supapoon-dx.json](./42418-supapoon-dx.json) |
 | SupaSanta | 400568 | [400568-supasanta.json](./400568-supasanta.json) |
@@ -25562,6 +25568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sec Soccer | 180500 | [180500-super-sec-soccer.json](./180500-super-sec-soccer.json) |
 | Super Seducer | 76397 | [76397-super-seducer.json](./76397-super-seducer.json) |
 | Super Seducer 2 | 103232 | [103232-super-seducer-2.json](./103232-super-seducer-2.json) |
+| Super Seducer 3 | 109347 | [109347-super-seducer-3.json](./109347-super-seducer-3.json) |
 | Super Seeker | 111568 | [111568-super-seeker.json](./111568-super-seeker.json) |
 | Super Senso | 26626 | [26626-super-senso.json](./26626-super-senso.json) |
 | Super Sentai Battle: Dice-O | 59823 | [59823-super-sentai-battle-dice-o.json](./59823-super-sentai-battle-dice-o.json) |
