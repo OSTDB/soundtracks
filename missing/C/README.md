@@ -5130,6 +5130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Minis | 232378 | [232378-chess-minis.json](./232378-chess-minis.json) |
 | Chess Mix | 135240 | [135240-chess-mix.json](./135240-chess-mix.json) |
 | Chess Morph: The Queen's Wormholes | 237058 | [237058-chess-morph-the-queens-wormholes.json](./237058-chess-morph-the-queens-wormholes.json) |
+| Chess of Chains | 148824 | [148824-chess-of-chains.json](./148824-chess-of-chains.json) |
 | Chess of Doom | 346550 | [346550-chess-of-doom.json](./346550-chess-of-doom.json) |
 | Chess of Fortune | 357216 | [357216-chess-of-fortune.json](./357216-chess-of-fortune.json) |
 | Chess of the SOL | 181633 | [181633-chess-of-the-sol.json](./181633-chess-of-the-sol.json) |
@@ -5711,6 +5712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Driving Test Simulator | 189929 | [189929-chinese-driving-test-simulator.json](./189929-chinese-driving-test-simulator.json) |
 | Chinese Empire | 155923 | [155923-chinese-empire.json](./155923-chinese-empire.json) |
 | Chinese Expeditionary Force: Assault Team | 233783 | [233783-chinese-expeditionary-force-assault-team.json](./233783-chinese-expeditionary-force-assault-team.json) |
+| Chinese Game Company Simulator | 148798 | [148798-chinese-game-company-simulator.json](./148798-chinese-game-company-simulator.json) |
 | Chinese Hero | 19716 | [19716-chinese-hero.json](./19716-chinese-hero.json) |
 | Chinese inn | 76683 | [76683-chinese-inn.json](./76683-chinese-inn.json) |
 | Chinese Inn | 109200 | [109200-chinese-inn.json](./109200-chinese-inn.json) |
@@ -11757,6 +11759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Count of Hatchet | 158634 | [158634-count-of-hatchet.json](./158634-count-of-hatchet.json) |
 | Count of Wallachia | 276403 | [276403-count-of-wallachia.json](./276403-count-of-wallachia.json) |
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
+| Count the Dead | 148787 | [148787-count-the-dead.json](./148787-count-the-dead.json) |
 | Count to Ten: Supporter Edition | 310385 | [310385-count-to-ten-supporter-edition.json](./310385-count-to-ten-supporter-edition.json) |
 | Count your Clones | 413889 | [413889-count-your-clones.json](./413889-count-your-clones.json) |
 | Countdown | 13524 | [13524-countdown.json](./13524-countdown.json) |
@@ -12543,6 +12546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashday: Redline Edition | 50093 | [50093-crashday-redline-edition.json](./50093-crashday-redline-edition.json) |
 | Crashed | 329598 | [329598-crashed.json](./329598-crashed.json) |
 | Crashed Bandicoot | 184342 | [184342-crashed-bandicoot.json](./184342-crashed-bandicoot.json) |
+| Crashers of Aetheria | 149332 | [149332-crashers-of-aetheria.json](./149332-crashers-of-aetheria.json) |
 | Crashimals | 120893 | [120893-crashimals.json](./120893-crashimals.json) |
 | Crashimals | 268931 | [268931-crashimals.json](./268931-crashimals.json) |
 | Crashing Not Optional | 296726 | [296726-crashing-not-optional.json](./296726-crashing-not-optional.json) |
@@ -13001,6 +13005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creator of Another World | 294167 | [294167-creator-of-another-world.json](./294167-creator-of-another-world.json) |
 | Creator Shelter: DLC Cuisine | 418504 | [418504-creator-shelter-dlc-cuisine.json](./418504-creator-shelter-dlc-cuisine.json) |
 | Creator's Asteroid | 191191 | [191191-creators-asteroid.json](./191191-creators-asteroid.json) |
+| Creator's Chasm | 148811 | [148811-creators-chasm.json](./148811-creators-chasm.json) |
 | Creators | 284985 | [284985-creators.json](./284985-creators.json) |
 | Creatorverse | 64497 | [64497-creatorverse.json](./64497-creatorverse.json) |
 | Creatura | 82351 | [82351-creatura.json](./82351-creatura.json) |
