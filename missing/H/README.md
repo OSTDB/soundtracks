@@ -1106,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangman for Windows | 83452 | [83452-hangman-for-windows.json](./83452-hangman-for-windows.json) |
 | Hangman Hijinks | 366435 | [366435-hangman-hijinks.json](./366435-hangman-hijinks.json) |
 | Hangman II | 248920 | [248920-hangman-ii.json](./248920-hangman-ii.json) |
+| Hangman Lux 3D | 105667 | [105667-hangman-lux-3d.json](./105667-hangman-lux-3d.json) |
 | Hangman: Fun Word Game | 89236 | [89236-hangman-fun-word-game.json](./89236-hangman-fun-word-game.json) |
 | Hangman: Mathematics and More | 407249 | [407249-hangman-mathematics-and-more.json](./407249-hangman-mathematics-and-more.json) |
 | Hangman's Revenge | 67973 | [67973-hangmans-revenge.json](./67973-hangmans-revenge.json) |
@@ -1511,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard2Fly | 133778 | [133778-hard2fly.json](./133778-hard2fly.json) |
 | Hard8 | 175084 | [175084-hard8.json](./175084-hard8.json) |
 | HardAF | 276839 | [276839-hardaf.json](./276839-hardaf.json) |
+| HardBack | 105664 | [105664-hardback.json](./105664-hardback.json) |
 | HardBall | 268448 | [268448-hardball.json](./268448-hardball.json) |
 | HardBall | 55358 | [55358-hardball.json](./55358-hardball.json) |
 | HardBall '95 | 45782 | [45782-hardball-95.json](./45782-hardball-95.json) |
@@ -2107,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel: Silent Waters - Collector's Edition | 186678 | [186678-haunted-hotel-silent-waters-collectors-edition.json](./186678-haunted-hotel-silent-waters-collectors-edition.json) |
 | Haunted Hotel: Stay in the Light | 43149 | [43149-haunted-hotel-stay-in-the-light.json](./43149-haunted-hotel-stay-in-the-light.json) |
 | Haunted Hotel: The Axiom Butcher - Collector's Edition | 171308 | [171308-haunted-hotel-the-axiom-butcher-collectors-edition.json](./171308-haunted-hotel-the-axiom-butcher-collectors-edition.json) |
+| Haunted Hotel: The Evil Inside | 105700 | [105700-haunted-hotel-the-evil-inside.json](./105700-haunted-hotel-the-evil-inside.json) |
 | Haunted Hotel: The Thirteenth | 182281 | [182281-haunted-hotel-the-thirteenth.json](./182281-haunted-hotel-the-thirteenth.json) |
 | Haunted Hotel: The X | 57725 | [57725-haunted-hotel-the-x.json](./57725-haunted-hotel-the-x.json) |
 | Haunted Hotel: The X - Collector's Edition | 154920 | [154920-haunted-hotel-the-x-collectors-edition.json](./154920-haunted-hotel-the-x-collectors-edition.json) |
@@ -6712,6 +6715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobo 7: Heaven | 295633 | [295633-hobo-7-heaven.json](./295633-hobo-7-heaven.json) |
 | Hobo Brawl | 237478 | [237478-hobo-brawl.json](./237478-hobo-brawl.json) |
 | Hobo Cat Adventures | 149396 | [149396-hobo-cat-adventures.json](./149396-hobo-cat-adventures.json) |
+| Hobo life simulator | 105671 | [105671-hobo-life-simulator.json](./105671-hobo-life-simulator.json) |
 | Hobo Soccer | 92594 | [92594-hobo-soccer.json](./92594-hobo-soccer.json) |
 | Hobo with a Shotgun | 63872 | [63872-hobo-with-a-shotgun.json](./63872-hobo-with-a-shotgun.json) |
 | Hobo: Life Business Simulator | 234009 | [234009-hobo-life-business-simulator.json](./234009-hobo-life-business-simulator.json) |
