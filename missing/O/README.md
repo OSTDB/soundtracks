@@ -3455,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshirikko Venus | 194580 | [194580-oshirikko-venus.json](./194580-oshirikko-venus.json) |
 | Oshirikko Venus 2 | 194581 | [194581-oshirikko-venus-2.json](./194581-oshirikko-venus-2.json) |
 | Oshiya! Push! | 185518 | [185518-oshiya-push.json](./185518-oshiya-push.json) |
+| Osiris | 116067 | [116067-osiris.json](./116067-osiris.json) |
 | Osiris | 224954 | [224954-osiris.json](./224954-osiris.json) |
 | Oslo: 2084 | 253890 | [253890-oslo-2084.json](./253890-oslo-2084.json) |
 | Osman Ghazi: Ottoman Rising | 382297 | [382297-osman-ghazi-ottoman-rising.json](./382297-osman-ghazi-ottoman-rising.json) |
@@ -4280,6 +4281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over Jump Rally | 260225 | [260225-over-jump-rally.json](./260225-over-jump-rally.json) |
 | Over Many Waters | 270964 | [270964-over-many-waters.json](./270964-over-many-waters.json) |
 | Over My Dead Body (For You) | 38751 | [38751-over-my-dead-body-for-you.json](./38751-over-my-dead-body-for-you.json) |
+| Over My Dead Pixel | 116046 | [116046-over-my-dead-pixel.json](./116046-over-my-dead-pixel.json) |
 | Over OBJ | 255107 | [255107-over-obj.json](./255107-over-obj.json) |
 | Over Paradise Isolated | 350970 | [350970-over-paradise-isolated.json](./350970-over-paradise-isolated.json) |
 | Over Requiemz | 274885 | [274885-over-requiemz.json](./274885-over-requiemz.json) |
