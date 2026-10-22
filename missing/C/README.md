@@ -3213,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catalypse | 186640 | [186640-catalypse.json](./186640-catalypse.json) |
 | Catalyst | 114333 | [114333-catalyst.json](./114333-catalyst.json) |
 | Catalyst | 352260 | [352260-catalyst.json](./352260-catalyst.json) |
+| Catalyst Black | 133661 | [133661-catalyst-black.json](./133661-catalyst-black.json) |
 | Catalyst Core | 412326 | [412326-catalyst-core.json](./412326-catalyst-core.json) |
 | Catalyst of Quoralis | 417643 | [417643-catalyst-of-quoralis.json](./417643-catalyst-of-quoralis.json) |
 | Catalyst: Blind Faith | 221217 | [221217-catalyst-blind-faith.json](./221217-catalyst-blind-faith.json) |
@@ -7509,6 +7510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Arcadia & Baby Arcadia | 85735 | [85735-classic-arcadia-and-baby-arcadia.json](./85735-classic-arcadia-and-baby-arcadia.json) |
 | Classic Axiens | 60221 | [60221-classic-axiens.json](./60221-classic-axiens.json) |
 | Classic Basic Games | 86021 | [86021-classic-basic-games.json](./86021-classic-basic-games.json) |
+| Classic Bites: Bam 'N Jam | 133645 | [133645-classic-bites-bam-n-jam.json](./133645-classic-bites-bam-n-jam.json) |
 | Classic Board Game Bundle: Ticket to Ride, Cluedo, Mouse Trap, Battleship and The Game of Life 2 | 328543 | [328543-classic-board-game-bundle-ticket-to-ride-cluedo-mouse-trap-battleship-and-the-game-of-life-2.json](./328543-classic-board-game-bundle-ticket-to-ride-cluedo-mouse-trap-battleship-and-the-game-of-life-2.json) |
 | Classic British Motor Racing | 4766 | [4766-classic-british-motor-racing.json](./4766-classic-british-motor-racing.json) |
 | Classic Car Racing | 27469 | [27469-classic-car-racing.json](./27469-classic-car-racing.json) |
@@ -13598,6 +13600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crollors Game Pack | 85559 | [85559-crollors-game-pack.json](./85559-crollors-game-pack.json) |
 | Crom: Journey of Conquest | 173217 | [173217-crom-journey-of-conquest.json](./173217-crom-journey-of-conquest.json) |
 | Crome: Before Purgatory | 112764 | [112764-crome-before-purgatory.json](./112764-crome-before-purgatory.json) |
+| Cromimi | 133694 | [133694-cromimi.json](./133694-cromimi.json) |
 | Cromwell | 134614 | [134614-cromwell.json](./134614-cromwell.json) |
 | Crone | 408087 | [408087-crone.json](./408087-crone.json) |
 | Croneworld | 83815 | [83815-croneworld.json](./83815-croneworld.json) |
@@ -16053,6 +16056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyra and the Beacon Path | 203962 | [203962-cyra-and-the-beacon-path.json](./203962-cyra-and-the-beacon-path.json) |
 | Cyrah's Ascent | 201558 | [201558-cyrahs-ascent.json](./201558-cyrahs-ascent.json) |
 | Cyraid | 48953 | [48953-cyraid.json](./48953-cyraid.json) |
+| Cyrano Story | 133639 | [133639-cyrano-story.json](./133639-cyrano-story.json) |
 | Cyrcles | 180065 | [180065-cyrcles.json](./180065-cyrcles.json) |
 | Cyrgoth's Manor | 268890 | [268890-cyrgoths-manor.json](./268890-cyrgoths-manor.json) |
 | Cyrgoth's Revenge | 268891 | [268891-cyrgoths-revenge.json](./268891-cyrgoths-revenge.json) |
