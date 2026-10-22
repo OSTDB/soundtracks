@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dasshutsu Youki no Jukai: Nehan no Mori | 138749 | [138749-dasshutsu-youki-no-jukai-nehan-no-mori.json](./138749-dasshutsu-youki-no-jukai-nehan-no-mori.json) |
 | Dastardly & Muttley: Operation - Pigeon Pursuit | 313186 | [313186-dastardly-and-muttley-operation-pigeon-pursuit.json](./313186-dastardly-and-muttley-operation-pigeon-pursuit.json) |
 | Dat Boi 2048 | 202702 | [202702-dat-boi-2048.json](./202702-dat-boi-2048.json) |
+| Dat Gaem | 146749 | [146749-dat-gaem.json](./146749-dat-gaem.json) |
 | Data | 114781 | [114781-data.json](./114781-data.json) |
 | Data Ball | 104031 | [104031-data-ball.json](./104031-data-ball.json) |
 | Data Carddass Dragon Ball Z | 66916 | [66916-data-carddass-dragon-ball-z.json](./66916-data-carddass-dragon-ball-z.json) |
@@ -4415,6 +4416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defensive Attacks | 150548 | [150548-defensive-attacks.json](./150548-defensive-attacks.json) |
 | Defensive Measures | 199403 | [199403-defensive-measures.json](./199403-defensive-measures.json) |
 | Defensurvivor | 324715 | [324715-defensurvivor.json](./324715-defensurvivor.json) |
+| Defentron | 146748 | [146748-defentron.json](./146748-defentron.json) |
 | Deff | 133973 | [133973-deff.json](./133973-deff.json) |
 | Defi Gravity | 227157 | [227157-defi-gravity.json](./227157-defi-gravity.json) |
 | Defi Kingdoms | 185371 | [185371-defi-kingdoms.json](./185371-defi-kingdoms.json) |
@@ -5016,6 +5018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DemonCountdown | 272250 | [272250-demoncountdown.json](./272250-demoncountdown.json) |
 | DemonCrawl: Arena Plus | 172150 | [172150-demoncrawl-arena-plus.json](./172150-demoncrawl-arena-plus.json) |
 | Demondemon Demon Tamer | 370456 | [370456-demondemon-demon-tamer.json](./370456-demondemon-demon-tamer.json) |
+| Demong Hunter | 146745 | [146745-demong-hunter.json](./146745-demong-hunter.json) |
 | Demongeon | 85566 | [85566-demongeon.json](./85566-demongeon.json) |
 | Demonheart | 29775 | [29775-demonheart.json](./29775-demonheart.json) |
 | Demonia | 41810 | [41810-demonia.json](./41810-demonia.json) |
@@ -5174,6 +5177,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de GO! Professional | 78575 | [78575-densha-de-go-professional.json](./78575-densha-de-go-professional.json) |
 | Densha de Go! Shinkansen EX: Sanyou Shinkansen-hen | 146542 | [146542-densha-de-go-shinkansen-ex-sanyou-shinkansen-hen.json](./146542-densha-de-go-shinkansen-ex-sanyou-shinkansen-hen.json) |
 | Densha de GO! Tokubetsu-hen: Fukkatsu Shouwa no Yamanotesen | 66660 | [66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json](./66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json) |
+| Densha de Go!! | 146597 | [146597-densha-de-go.json](./146597-densha-de-go.json) |
+| Densha de Go!! Kids | 146600 | [146600-densha-de-go-kids.json](./146600-densha-de-go-kids.json) |
 | Densha Unten Shirei! Tokaido-hen | 221739 | [221739-densha-unten-shirei-tokaido-hen.json](./221739-densha-unten-shirei-tokaido-hen.json) |
 | Densha Unten Shirei! Tokyo-wan-hen | 221738 | [221738-densha-unten-shirei-tokyo-wan-hen.json](./221738-densha-unten-shirei-tokyo-wan-hen.json) |
 | Densha-zukuri no Popo | 250235 | [250235-densha-zukuri-no-popo.json](./250235-densha-zukuri-no-popo.json) |
@@ -6738,6 +6743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Pizzeria | 91542 | [91542-die-pizzeria.json](./91542-die-pizzeria.json) |
 | Die Quelle von Naroth | 356840 | [356840-die-quelle-von-naroth.json](./356840-die-quelle-von-naroth.json) |
 | Die Rache der Sumpfhühner | 402835 | [402835-die-rache-der-sumpfhuhner.json](./402835-die-rache-der-sumpfhuhner.json) |
+| Die Rache der Sumpfhühner 2 | 146608 | [146608-die-rache-der-sumpfhuhner-2.json](./146608-die-rache-der-sumpfhuhner-2.json) |
 | Die Rangliste | 157882 | [157882-die-rangliste.json](./157882-die-rangliste.json) |
 | Die Rave | 245904 | [245904-die-rave.json](./245904-die-rave.json) |
 | Die Reise ins All | 127916 | [127916-die-reise-ins-all.json](./127916-die-reise-ins-all.json) |
@@ -10966,6 +10972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula Unleashed | 5376 | [5376-dracula-unleashed.json](./5376-dracula-unleashed.json) |
 | Dracula vs. Monsters | 298584 | [298584-dracula-vs-monsters.json](./298584-dracula-vs-monsters.json) |
 | Dracula vs. The Ninja On the Moon | 144306 | [144306-dracula-vs-the-ninja-on-the-moon.json](./144306-dracula-vs-the-ninja-on-the-moon.json) |
+| Dracula: A Gothic RPG | 146744 | [146744-dracula-a-gothic-rpg.json](./146744-dracula-a-gothic-rpg.json) |
 | Dracula: Crazy Vampire | 49941 | [49941-dracula-crazy-vampire.json](./49941-dracula-crazy-vampire.json) |
 | Dracula: Love Kills | 16688 | [16688-dracula-love-kills.json](./16688-dracula-love-kills.json) |
 | Dracula: Origin 2 | 95433 | [95433-dracula-origin-2.json](./95433-dracula-origin-2.json) |
