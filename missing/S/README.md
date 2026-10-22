@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samosbor | 130179 | [130179-samosbor.json](./130179-samosbor.json) |
 | Samosbor 2D | 120986 | [120986-samosbor-2d.json](./120986-samosbor-2d.json) |
 | Samozbor ID:Heaven | 129231 | [129231-samozbor-id-heaven.json](./129231-samozbor-id-heaven.json) |
+| Samozbor: Rebellion | 112677 | [112677-samozbor-rebellion.json](./112677-samozbor-rebellion.json) |
 | Sample Gunpowder | 310271 | [310271-sample-gunpowder.json](./310271-sample-gunpowder.json) |
 | Sampling | 107874 | [107874-sampling.json](./107874-sampling.json) |
 | Sampras Extreme Tennis | 44851 | [44851-sampras-extreme-tennis.json](./44851-sampras-extreme-tennis.json) |
@@ -3572,6 +3573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of the Magic Crystals | 10427 | [10427-secret-of-the-magic-crystals.json](./10427-secret-of-the-magic-crystals.json) |
 | Secret of the Pendulum: Premium Edition | 98900 | [98900-secret-of-the-pendulum-premium-edition.json](./98900-secret-of-the-pendulum-premium-edition.json) |
 | Secret of the Pharaohs | 41556 | [41556-secret-of-the-pharaohs.json](./41556-secret-of-the-pharaohs.json) |
+| Secret of the Rendrasha Blade | 112668 | [112668-secret-of-the-rendrasha-blade.json](./112668-secret-of-the-rendrasha-blade.json) |
 | Secret of the Royal Throne | 32913 | [32913-secret-of-the-royal-throne.json](./32913-secret-of-the-royal-throne.json) |
 | Secret of the Solstice | 307331 | [307331-secret-of-the-solstice.json](./307331-secret-of-the-solstice.json) |
 | Secret of the Vikings 2: The World Tree | 265113 | [265113-secret-of-the-vikings-2-the-world-tree.json](./265113-secret-of-the-vikings-2-the-world-tree.json) |
@@ -10130,6 +10132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash Mr. M | 181152 | [181152-slash-mr-m.json](./181152-slash-mr-m.json) |
 | Slash Ninja | 147651 | [147651-slash-ninja.json](./147651-slash-ninja.json) |
 | Slash of Bullet | 151675 | [151675-slash-of-bullet.json](./151675-slash-of-bullet.json) |
+| Slash of Sword | 112649 | [112649-slash-of-sword.json](./112649-slash-of-sword.json) |
 | Slash of Sword 2 | 254157 | [254157-slash-of-sword-2.json](./254157-slash-of-sword-2.json) |
 | Slash or Die 2 | 105258 | [105258-slash-or-die-2.json](./105258-slash-or-die-2.json) |
 | Slash Quest: The King Kabbage Mystery | 400405 | [400405-slash-quest-the-king-kabbage-mystery.json](./400405-slash-quest-the-king-kabbage-mystery.json) |
