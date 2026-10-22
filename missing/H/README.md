@@ -2153,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Manor HD | 91314 | [91314-haunted-manor-hd.json](./91314-haunted-manor-hd.json) |
 | Haunted Manor: Lord of Mirrors | 140029 | [140029-haunted-manor-lord-of-mirrors.json](./140029-haunted-manor-lord-of-mirrors.json) |
 | Haunted Manor: Painted Beauties | 140030 | [140030-haunted-manor-painted-beauties.json](./140030-haunted-manor-painted-beauties.json) |
+| Haunted Manor: Painted Beauties HD | 100051 | [100051-haunted-manor-painted-beauties-hd.json](./100051-haunted-manor-painted-beauties-hd.json) |
 | Haunted Manor: Queen of Death | 140031 | [140031-haunted-manor-queen-of-death.json](./140031-haunted-manor-queen-of-death.json) |
 | Haunted Manor: Queen of Death - Collector's Edition | 81079 | [81079-haunted-manor-queen-of-death-collectors-edition.json](./81079-haunted-manor-queen-of-death-collectors-edition.json) |
 | Haunted Mansion | 204693 | [204693-haunted-mansion.json](./204693-haunted-mansion.json) |
@@ -7300,6 +7301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homefront: The Revolution - Goliath Edition | 89840 | [89840-homefront-the-revolution-goliath-edition.json](./89840-homefront-the-revolution-goliath-edition.json) |
 | Homefront: The Revolution - The Voice Of Freedom | 53205 | [53205-homefront-the-revolution-the-voice-of-freedom.json](./53205-homefront-the-revolution-the-voice-of-freedom.json) |
 | Homefront: The Rock Map Pack | 224224 | [224224-homefront-the-rock-map-pack.json](./224224-homefront-the-rock-map-pack.json) |
+| Homefront: Ultimate Edition | 99960 | [99960-homefront-ultimate-edition.json](./99960-homefront-ultimate-edition.json) |
 | Homegrown | 322451 | [322451-homegrown.json](./322451-homegrown.json) |
 | Homeguard | 423249 | [423249-homeguard.json](./423249-homeguard.json) |
 | Homehead | 346023 | [346023-homehead.json](./346023-homehead.json) |
@@ -8307,6 +8309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Shots Golf Fore! | 204439 | [204439-hot-shots-golf-fore.json](./204439-hot-shots-golf-fore.json) |
 | Hot Shots Golf: Open Tee 2 | 21050 | [21050-hot-shots-golf-open-tee-2.json](./21050-hot-shots-golf-open-tee-2.json) |
 | Hot Shots Golf: Out of Bounds | 154692 | [154692-hot-shots-golf-out-of-bounds.json](./154692-hot-shots-golf-out-of-bounds.json) |
+| Hot Shots Golf: Out of Bounds Complete Collection | 99965 | [99965-hot-shots-golf-out-of-bounds-complete-collection.json](./99965-hot-shots-golf-out-of-bounds-complete-collection.json) |
 | Hot Shots Golf: World Invitational | 7301 | [7301-hot-shots-golf-world-invitational.json](./7301-hot-shots-golf-world-invitational.json) |
 | Hot Shots Shorties: Blue | 209920 | [209920-hot-shots-shorties-blue.json](./209920-hot-shots-shorties-blue.json) |
 | Hot Shots Shorties: Green | 209921 | [209921-hot-shots-shorties-green.json](./209921-hot-shots-shorties-green.json) |
