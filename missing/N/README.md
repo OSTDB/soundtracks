@@ -2058,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Wars | 312925 | [312925-neon-wars.json](./312925-neon-wars.json) |
 | Neon Wings: Air Race | 147090 | [147090-neon-wings-air-race.json](./147090-neon-wings-air-race.json) |
 | Neon: Eternal | 169735 | [169735-neon-eternal.json](./169735-neon-eternal.json) |
+| NeonArcade: Adventure Puzzle Muse | 111378 | [111378-neonarcade-adventure-puzzle-muse.json](./111378-neonarcade-adventure-puzzle-muse.json) |
 | NeonCode | 111979 | [111979-neoncode.json](./111979-neoncode.json) |
 | Neoncube | 34983 | [34983-neoncube.json](./34983-neoncube.json) |
 | Neondrops | 166610 | [166610-neondrops.json](./166610-neondrops.json) |
@@ -4644,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Service | 391030 | [391030-no-service.json](./391030-no-service.json) |
 | No Shot | 398919 | [398919-no-shot.json](./398919-no-shot.json) |
 | No Sidewalks in the Mushroom Kingdom | 177296 | [177296-no-sidewalks-in-the-mushroom-kingdom.json](./177296-no-sidewalks-in-the-mushroom-kingdom.json) |
+| No Signal | 111418 | [111418-no-signal.json](./111418-no-signal.json) |
 | No Signal Escape Room | 413624 | [413624-no-signal-escape-room.json](./413624-no-signal-escape-room.json) |
 | No Signal: Chornobyl | 414165 | [414165-no-signal-chornobyl.json](./414165-no-signal-chornobyl.json) |
 | No Skirt Convenience Shop | 212193 | [212193-no-skirt-convenience-shop.json](./212193-no-skirt-convenience-shop.json) |
