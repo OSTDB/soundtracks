@@ -12040,6 +12040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboarding | 230837 | [230837-snowboarding.json](./230837-snowboarding.json) |
 | Snowboarding | 358843 | [358843-snowboarding.json](./358843-snowboarding.json) |
 | Snowboarding: The Fourth Phase | 88772 | [88772-snowboarding-the-fourth-phase.json](./88772-snowboarding-the-fourth-phase.json) |
+| Snowboarding: The Next Phase | 114051 | [114051-snowboarding-the-next-phase.json](./114051-snowboarding-the-next-phase.json) |
 | Snowboarding+ | 90527 | [90527-snowboarding.json](./90527-snowboarding.json) |
 | Snowbound Blood | 177348 | [177348-snowbound-blood.json](./177348-snowbound-blood.json) |
 | Snowbound: Dead of Winter | 310131 | [310131-snowbound-dead-of-winter.json](./310131-snowbound-dead-of-winter.json) |
@@ -16662,6 +16663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere III: Enchanted World | 34619 | [34619-sphere-iii-enchanted-world.json](./34619-sphere-iii-enchanted-world.json) |
 | Sphere of Destiny | 13759 | [13759-sphere-of-destiny.json](./13759-sphere-of-destiny.json) |
 | Sphere TD | 400231 | [400231-sphere-td.json](./400231-sphere-td.json) |
+| Sphere This! | 114109 | [114109-sphere-this.json](./114109-sphere-this.json) |
 | Sphere vs. Gravity | 318476 | [318476-sphere-vs-gravity.json](./318476-sphere-vs-gravity.json) |
 | Sphere: Flying Cities | 132510 | [132510-sphere-flying-cities.json](./132510-sphere-flying-cities.json) |
 | Sphere: Flying Cities - Save the World Edition | 186905 | [186905-sphere-flying-cities-save-the-world-edition.json](./186905-sphere-flying-cities-save-the-world-edition.json) |
