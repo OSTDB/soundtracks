@@ -3713,6 +3713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agrocracy | 388794 | [388794-agrocracy.json](./388794-agrocracy.json) |
 | Agromatic | 381849 | [381849-agromatic.json](./381849-agromatic.json) |
 | Agronom | 293977 | [293977-agronom.json](./293977-agronom.json) |
+| Agross | 121973 | [121973-agross.json](./121973-agross.json) |
 | Agrou: Panda pet | 170825 | [170825-agrou-panda-pet.json](./170825-agrou-panda-pet.json) |
 | Agrou: Rabbit pet | 170826 | [170826-agrou-rabbit-pet.json](./170826-agrou-rabbit-pet.json) |
 | Aground Zero | 211418 | [211418-aground-zero.json](./211418-aground-zero.json) |
@@ -3811,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai to Yume to Bouken Sanrio Puroland! | 250334 | [250334-ai-to-yume-to-bouken-sanrio-puroland.json](./250334-ai-to-yume-to-bouken-sanrio-puroland.json) |
 | AI Unbound | 245865 | [245865-ai-unbound.json](./245865-ai-unbound.json) |
 | AI Under Test | 203734 | [203734-ai-under-test.json](./203734-ai-under-test.json) |
+| AI Vendetta | 122032 | [122032-ai-vendetta.json](./122032-ai-vendetta.json) |
 | AI War 2 | 25648 | [25648-ai-war-2.json](./25648-ai-war-2.json) |
 | AI War 2: The Neinzul Abyss | 174138 | [174138-ai-war-2-the-neinzul-abyss.json](./174138-ai-war-2-the-neinzul-abyss.json) |
 | AI War 2: Titan Edition | 159700 | [159700-ai-war-2-titan-edition.json](./159700-ai-war-2-titan-edition.json) |
@@ -4768,6 +4770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alebound | 356021 | [356021-alebound.json](./356021-alebound.json) |
 | Alec Adventure | 172971 | [172971-alec-adventure.json](./172971-alec-adventure.json) |
 | Aledorn | 197154 | [197154-aledorn.json](./197154-aledorn.json) |
+| Aleesha's Tower | 121997 | [121997-aleeshas-tower.json](./121997-aleeshas-tower.json) |
 | Alef's Blademaker: Arms Shop | 304244 | [304244-alefs-blademaker-arms-shop.json](./304244-alefs-blademaker-arms-shop.json) |
 | Alegraz | 391895 | [391895-alegraz.json](./391895-alegraz.json) |
 | Alehouse Tavern Simulator | 334489 | [334489-alehouse-tavern-simulator.json](./334489-alehouse-tavern-simulator.json) |
@@ -6984,6 +6987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Cultures: Tikal's Realm | 216466 | [216466-ancient-cultures-tikals-realm.json](./216466-ancient-cultures-tikals-realm.json) |
 | Ancient Demon Shadow | 304817 | [304817-ancient-demon-shadow.json](./304817-ancient-demon-shadow.json) |
 | Ancient Dino Runner | 156227 | [156227-ancient-dino-runner.json](./156227-ancient-dino-runner.json) |
+| Ancient Dungeon | 121993 | [121993-ancient-dungeon.json](./121993-ancient-dungeon.json) |
 | Ancient Egypt | 358911 | [358911-ancient-egypt.json](./358911-ancient-egypt.json) |
 | Ancient Egyptian Mehen: The Forbidden Game of the Snake | 57567 | [57567-ancient-egyptian-mehen-the-forbidden-game-of-the-snake.json](./57567-ancient-egyptian-mehen-the-forbidden-game-of-the-snake.json) |
 | Ancient Empires Reloaded | 207866 | [207866-ancient-empires-reloaded.json](./207866-ancient-empires-reloaded.json) |
