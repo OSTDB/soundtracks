@@ -1564,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Crash Couch Party | 83586 | [83586-car-crash-couch-party.json](./83586-car-crash-couch-party.json) |
 | Car Crash Online | 105162 | [105162-car-crash-online.json](./105162-car-crash-online.json) |
 | Car Crash Racing: Stunt Master | 231977 | [231977-car-crash-racing-stunt-master.json](./231977-car-crash-racing-stunt-master.json) |
+| Car Crush Racing Simulator | 132508 | [132508-car-crush-racing-simulator.json](./132508-car-crush-racing-simulator.json) |
 | Car Dealer Driver | 207881 | [207881-car-dealer-driver.json](./207881-car-dealer-driver.json) |
 | Car Dealership Business Simulator | 336414 | [336414-car-dealership-business-simulator.json](./336414-car-dealership-business-simulator.json) |
 | Car Dealership Simulator | 216183 | [216183-car-dealership-simulator.json](./216183-car-dealership-simulator.json) |
@@ -2240,7 +2241,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars 2 | 220080 | [220080-cars-2.json](./220080-cars-2.json) |
 | Cars 2 | 230345 | [230345-cars-2.json](./230345-cars-2.json) |
 | Cars 2 | 230555 | [230555-cars-2.json](./230555-cars-2.json) |
-| Cars 2 | 4747 | [4747-cars-2.json](./4747-cars-2.json) |
 | Cars 2 Racing Beena: Mezase! World Champion! | 125323 | [125323-cars-2-racing-beena-mezase-world-champion.json](./125323-cars-2-racing-beena-mezase-world-champion.json) |
 | Cars 3: Driven to Win | 28075 | [28075-cars-3-driven-to-win.json](./28075-cars-3-driven-to-win.json) |
 | Cars and Trucks: preschool toddler learning games, learn shapes & colors | 90140 | [90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json](./90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json) |
@@ -4467,7 +4467,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chantelise - A Tale of Two Sisters | 12525 | [12525-chantelise-a-tale-of-two-sisters.json](./12525-chantelise-a-tale-of-two-sisters.json) |
 | Chanter: Kimi no Uta ga Todoitara | 77906 | [77906-chanter-kimi-no-uta-ga-todoitara.json](./77906-chanter-kimi-no-uta-ga-todoitara.json) |
 | Chanter: Kimi no Uta ga Todoitara # | 338056 | [338056-chanter-kimi-no-uta-ga-todoitara.json](./338056-chanter-kimi-no-uta-ga-todoitara.json) |
-| Chants of Sennaar | 198499 | [198499-chants-of-sennaar.json](./198499-chants-of-sennaar.json) |
 | Chanye's Home | 280151 | [280151-chanyes-home.json](./280151-chanyes-home.json) |
 | Chao Adventure | 225623 | [225623-chao-adventure.json](./225623-chao-adventure.json) |
 | Chao Adventure | 331473 | [331473-chao-adventure.json](./331473-chao-adventure.json) |
