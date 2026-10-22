@@ -10642,6 +10642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construct Conspiracy | 252096 | [252096-construct-conspiracy.json](./252096-construct-conspiracy.json) |
 | Construct Farm | 308632 | [308632-construct-farm.json](./308632-construct-farm.json) |
 | Construct Farm / Cat Simulator | 381715 | [381715-construct-farm-cat-simulator.json](./381715-construct-farm-cat-simulator.json) |
+| Construct PRO | 110689 | [110689-construct-pro.json](./110689-construct-pro.json) |
 | Construct: Embers of Life | 54530 | [54530-construct-embers-of-life.json](./54530-construct-embers-of-life.json) |
 | Construct: Escape the System | 27904 | [27904-construct-escape-the-system.json](./27904-construct-escape-the-system.json) |
 | Construct.AI | 172128 | [172128-construct-ai.json](./172128-construct-ai.json) |
@@ -13065,6 +13066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Stunt Driver: Extreme Racing Simulator | 300859 | [300859-crazy-stunt-driver-extreme-racing-simulator.json](./300859-crazy-stunt-driver-extreme-racing-simulator.json) |
 | Crazy Sue goes on | 37276 | [37276-crazy-sue-goes-on.json](./37276-crazy-sue-goes-on.json) |
 | Crazy Super Bunnies | 234692 | [234692-crazy-super-bunnies.json](./234692-crazy-super-bunnies.json) |
+| Crazy Tank | 110680 | [110680-crazy-tank.json](./110680-crazy-tank.json) |
 | Crazy Tap Chef | 108610 | [108610-crazy-tap-chef.json](./108610-crazy-tap-chef.json) |
 | Crazy Tapper + | 175343 | [175343-crazy-tapper.json](./175343-crazy-tapper.json) |
 | Crazy Taxi | 1805 | [1805-crazy-taxi.json](./1805-crazy-taxi.json) |
