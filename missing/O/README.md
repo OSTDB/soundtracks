@@ -2540,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oops! Simulator | 390757 | [390757-oops-simulator.json](./390757-oops-simulator.json) |
 | Oops! You're the Hero! | 412427 | [412427-oops-youre-the-hero.json](./412427-oops-youre-the-hero.json) |
 | Oops! Zombie Swarm | 298658 | [298658-oops-zombie-swarm.json](./298658-oops-zombie-swarm.json) |
+| Oops!!! I Slept With Your Mom | 109349 | [109349-oops-i-slept-with-your-mom.json](./109349-oops-i-slept-with-your-mom.json) |
 | Oops!!! Puzzles!!! | 116262 | [116262-oops-puzzles.json](./116262-oops-puzzles.json) |
 | Oopstacles | 174648 | [174648-oopstacles.json](./174648-oopstacles.json) |
 | Oopz-Oofs | 310026 | [310026-oopz-oofs.json](./310026-oopz-oofs.json) |
