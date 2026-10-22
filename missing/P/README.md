@@ -3597,7 +3597,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Reload: Aigis Edition | 262640 | [262640-persona-3-reload-aigis-edition.json](./262640-persona-3-reload-aigis-edition.json) |
 | Persona 3 Reload: Digital Deluxe Edition | 262642 | [262642-persona-3-reload-digital-deluxe-edition.json](./262642-persona-3-reload-digital-deluxe-edition.json) |
 | Persona 3 Reload: Digital Premium Edition | 262643 | [262643-persona-3-reload-digital-premium-edition.json](./262643-persona-3-reload-digital-premium-edition.json) |
-| Persona 3 Reload: Episode Aigis | 289703 | [289703-persona-3-reload-episode-aigis.json](./289703-persona-3-reload-episode-aigis.json) |
 | Persona 3 Reload: FeMC Mod | 327019 | [327019-persona-3-reload-femc-mod.json](./327019-persona-3-reload-femc-mod.json) |
 | Persona 3 Reload: FemC Reloaded Project | 328622 | [328622-persona-3-reload-femc-reloaded-project.json](./328622-persona-3-reload-femc-reloaded-project.json) |
 | Persona 3 Reload: Limited Box | 262641 | [262641-persona-3-reload-limited-box.json](./262641-persona-3-reload-limited-box.json) |
