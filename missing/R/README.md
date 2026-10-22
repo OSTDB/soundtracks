@@ -2141,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaction Match | 230704 | [230704-reaction-match.json](./230704-reaction-match.json) |
 | Reaction Quake 3 | 200651 | [200651-reaction-quake-3.json](./200651-reaction-quake-3.json) |
 | Reaction: Block Buster | 61132 | [61132-reaction-block-buster.json](./61132-reaction-block-buster.json) |
+| Reactivated | 117378 | [117378-reactivated.json](./117378-reactivated.json) |
 | Reactor | 18545 | [18545-reactor.json](./18545-reactor.json) |
 | Reactor 09 | 123596 | [123596-reactor-09.json](./123596-reactor-09.json) |
 | Reactor Critical | 406651 | [406651-reactor-critical.json](./406651-reactor-critical.json) |
@@ -2524,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realpolitiks: New Power | 116997 | [116997-realpolitiks-new-power.json](./116997-realpolitiks-new-power.json) |
 | RealRTCW: Agency Weapon Pack | 323254 | [323254-realrtcw-agency-weapon-pack.json](./323254-realrtcw-agency-weapon-pack.json) |
 | Realshot | 81642 | [81642-realshot.json](./81642-realshot.json) |
+| RealSports Baseball | 117409 | [117409-realsports-baseball.json](./117409-realsports-baseball.json) |
 | RealSports Baseball | 18416 | [18416-realsports-baseball.json](./18416-realsports-baseball.json) |
 | RealSports Baseball | 239513 | [239513-realsports-baseball.json](./239513-realsports-baseball.json) |
 | RealSports Basketball | 239514 | [239514-realsports-basketball.json](./239514-realsports-basketball.json) |
@@ -4084,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replikant Chat | 326657 | [326657-replikant-chat.json](./326657-replikant-chat.json) |
 | Replikator | 145251 | [145251-replikator.json](./145251-replikator.json) |
 | Reply All | 350055 | [350055-reply-all.json](./350055-reply-all.json) |
+| Repo Man | 117403 | [117403-repo-man.json](./117403-repo-man.json) |
 | Report II | 322812 | [322812-report-ii.json](./322812-report-ii.json) |
 | Report III | 322813 | [322813-report-iii.json](./322813-report-iii.json) |
 | Report on the Death of Robert Evergreen | 277322 | [277322-report-on-the-death-of-robert-evergreen.json](./277322-report-on-the-death-of-robert-evergreen.json) |
@@ -5874,6 +5877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rigid Memory | 205107 | [205107-rigid-memory.json](./205107-rigid-memory.json) |
 | Riglas | 281255 | [281255-riglas.json](./281255-riglas.json) |
 | Riglord Saga 2 | 73838 | [73838-riglord-saga-2.json](./73838-riglord-saga-2.json) |
+| Rigo: The Movie | 117375 | [117375-rigo-the-movie.json](./117375-rigo-the-movie.json) |
 | Rigor Mortis | 124509 | [124509-rigor-mortis.json](./124509-rigor-mortis.json) |
 | RigorZ | 350565 | [350565-rigorz.json](./350565-rigorz.json) |
 | Rigs: Mechanized Combat League | 11253 | [11253-rigs-mechanized-combat-league.json](./11253-rigs-mechanized-combat-league.json) |
