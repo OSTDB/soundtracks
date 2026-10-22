@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
 | Dark Realm: Queen of Flames | 139797 | [139797-dark-realm-queen-of-flames.json](./139797-dark-realm-queen-of-flames.json) |
 | Dark Realm: Queen of Flames - Collector's Edition HD | 88309 | [88309-dark-realm-queen-of-flames-collectors-edition-hd.json](./88309-dark-realm-queen-of-flames-collectors-edition-hd.json) |
+| Dark Reflection | 121970 | [121970-dark-reflection.json](./121970-dark-reflection.json) |
 | Dark Reflection | 380233 | [380233-dark-reflection.json](./380233-dark-reflection.json) |
 | Dark Regents | 133657 | [133657-dark-regents.json](./133657-dark-regents.json) |
 | Dark Reign 2 | 11390 | [11390-dark-reign-2.json](./11390-dark-reign-2.json) |
@@ -3981,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deemo: Reborn - Rayark Selection vol.3 | 356583 | [356583-deemo-reborn-rayark-selection-vol-3.json](./356583-deemo-reborn-rayark-selection-vol-3.json) |
 | Deemo: Reborn - Taiko no Tatsujin Collaboration Collection | 356443 | [356443-deemo-reborn-taiko-no-tatsujin-collaboration-collection.json](./356443-deemo-reborn-taiko-no-tatsujin-collaboration-collection.json) |
 | Deemo: The Last Recital | 26996 | [26996-deemo-the-last-recital.json](./26996-deemo-the-last-recital.json) |
+| Deep | 121999 | [121999-deep.json](./121999-deep.json) |
 | Deep | 184605 | [184605-deep.json](./184605-deep.json) |
 | Deep | 372091 | [372091-deep.json](./372091-deep.json) |
 | Deep | 380247 | [380247-deep.json](./380247-deep.json) |
@@ -7112,6 +7114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Processing | 400284 | [400284-digital-processing.json](./400284-digital-processing.json) |
 | Digital Resistance | 105189 | [105189-digital-resistance.json](./105189-digital-resistance.json) |
 | Digital Road | 70057 | [70057-digital-road.json](./70057-digital-road.json) |
+| Digital Rose | 122014 | [122014-digital-rose.json](./122014-digital-rose.json) |
 | Digital Runner | 93725 | [93725-digital-runner.json](./93725-digital-runner.json) |
 | Digital Spacecade | 28181 | [28181-digital-spacecade.json](./28181-digital-spacecade.json) |
 | Digital Survivor | 411728 | [411728-digital-survivor.json](./411728-digital-survivor.json) |
@@ -12805,6 +12808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DriftOn | 129053 | [129053-drifton.json](./129053-drifton.json) |
 | Driftpunk Racer | 106456 | [106456-driftpunk-racer.json](./106456-driftpunk-racer.json) |
 | Driftwatch VR | 30919 | [30919-driftwatch-vr.json](./30919-driftwatch-vr.json) |
+| DriftWay | 121981 | [121981-driftway.json](./121981-driftway.json) |
 | Driftwood | 129563 | [129563-driftwood.json](./129563-driftwood.json) |
 | Driftwood | 31831 | [31831-driftwood.json](./31831-driftwood.json) |
 | Driftwood Fate | 405975 | [405975-driftwood-fate.json](./405975-driftwood-fate.json) |
@@ -12889,6 +12893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Master: Simple Operation | 206557 | [206557-drive-master-simple-operation.json](./206557-drive-master-simple-operation.json) |
 | Drive Me Broke | 373107 | [373107-drive-me-broke.json](./373107-drive-me-broke.json) |
 | Drive Me to Hell | 253969 | [253969-drive-me-to-hell.json](./253969-drive-me-to-hell.json) |
+| Drive Me to the Moon | 122018 | [122018-drive-me-to-the-moon.json](./122018-drive-me-to-the-moon.json) |
 | Drive Megapolis | 31659 | [31659-drive-megapolis.json](./31659-drive-megapolis.json) |
 | Drive of the Dead | 414854 | [414854-drive-of-the-dead.json](./414854-drive-of-the-dead.json) |
 | Drive On Lucy | 323299 | [323299-drive-on-lucy.json](./323299-drive-on-lucy.json) |
