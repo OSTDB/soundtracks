@@ -10943,6 +10943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box To The Beat VR: Shadow Dreams Pack | 263202 | [263202-box-to-the-beat-vr-shadow-dreams-pack.json](./263202-box-to-the-beat-vr-shadow-dreams-pack.json) |
 | Box to the Box | 207896 | [207896-box-to-the-box.json](./207896-box-to-the-box.json) |
 | Box Up | 54958 | [54958-box-up.json](./54958-box-up.json) |
+| Box Voyage | 134320 | [134320-box-voyage.json](./134320-box-voyage.json) |
 | Box World | 338824 | [338824-box-world.json](./338824-box-world.json) |
 | Box World Greens | 338846 | [338846-box-world-greens.json](./338846-box-world-greens.json) |
 | Box Wrangler | 305642 | [305642-box-wrangler.json](./305642-box-wrangler.json) |
