@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lost Note | 244748 | [244748-a-lost-note.json](./244748-a-lost-note.json) |
 | A Lost Room | 29058 | [29058-a-lost-room.json](./29058-a-lost-room.json) |
 | A Lot of Asteroids | 185347 | [185347-a-lot-of-asteroids.json](./185347-a-lot-of-asteroids.json) |
+| A Lot of Universes | 135727 | [135727-a-lot-of-universes.json](./135727-a-lot-of-universes.json) |
 | A Lounge Somewhere | 352388 | [352388-a-lounge-somewhere.json](./352388-a-lounge-somewhere.json) |
 | A Love Letter in Snowfall | 411049 | [411049-a-love-letter-in-snowfall.json](./411049-a-love-letter-in-snowfall.json) |
 | A Love Like Broken Glass | 410440 | [410440-a-love-like-broken-glass.json](./410440-a-love-like-broken-glass.json) |
@@ -8001,6 +8002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1602: Erschaffung einer Neuen Welt - Im Namen des Königs | 131277 | [131277-anno-1602-erschaffung-einer-neuen-welt-im-namen-des-konigs.json](./131277-anno-1602-erschaffung-einer-neuen-welt-im-namen-des-konigs.json) |
 | Anno 1602: History Edition | 136093 | [136093-anno-1602-history-edition.json](./136093-anno-1602-history-edition.json) |
 | Anno 1701 A.D.: Gold Edition | 180265 | [180265-anno-1701-a-d-gold-edition.json](./180265-anno-1701-a-d-gold-edition.json) |
+| Anno 1701: History Edition | 135739 | [135739-anno-1701-history-edition.json](./135739-anno-1701-history-edition.json) |
 | Anno 1701: Limited Edition | 180266 | [180266-anno-1701-limited-edition.json](./180266-anno-1701-limited-edition.json) |
 | Anno 1800: Aesthetic Artisans Bundle | 317365 | [317365-anno-1800-aesthetic-artisans-bundle.json](./317365-anno-1800-aesthetic-artisans-bundle.json) |
 | Anno 1800: Amusements Pack | 227317 | [227317-anno-1800-amusements-pack.json](./227317-anno-1800-amusements-pack.json) |
