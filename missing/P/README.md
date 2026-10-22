@@ -10500,6 +10500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Battle for the Grid - Ryu Crimson Hawk Ranger | 167791 | [167791-power-rangers-battle-for-the-grid-ryu-crimson-hawk-ranger.json](./167791-power-rangers-battle-for-the-grid-ryu-crimson-hawk-ranger.json) |
 | Power Rangers: Battle for the Grid - Scorpina | 167795 | [167795-power-rangers-battle-for-the-grid-scorpina.json](./167795-power-rangers-battle-for-the-grid-scorpina.json) |
 | Power Rangers: Battle for the Grid - Street Fighter Pack | 237979 | [237979-power-rangers-battle-for-the-grid-street-fighter-pack.json](./237979-power-rangers-battle-for-the-grid-street-fighter-pack.json) |
+| Power Rangers: Battle for the Grid - Super Edition | 145981 | [145981-power-rangers-battle-for-the-grid-super-edition.json](./145981-power-rangers-battle-for-the-grid-super-edition.json) |
 | Power Rangers: Battle for the Grid - Trey of Triforia: Gold Zeo Ranger | 167792 | [167792-power-rangers-battle-for-the-grid-trey-of-triforia-gold-zeo-ranger.json](./167792-power-rangers-battle-for-the-grid-trey-of-triforia-gold-zeo-ranger.json) |
 | Power Rangers: Beats of Power | 198344 | [198344-power-rangers-beats-of-power.json](./198344-power-rangers-beats-of-power.json) |
 | Power Rangers: Dino Thunder | 243195 | [243195-power-rangers-dino-thunder.json](./243195-power-rangers-dino-thunder.json) |
