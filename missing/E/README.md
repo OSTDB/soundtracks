@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat Me! | 301896 | [301896-eat-me.json](./301896-eat-me.json) |
 | Eat More Vegetables! | 157206 | [157206-eat-more-vegetables.json](./157206-eat-more-vegetables.json) |
 | Eat my Shuriken and Die! | 105433 | [105433-eat-my-shuriken-and-die.json](./105433-eat-my-shuriken-and-die.json) |
+| Eat or DIE! | 148791 | [148791-eat-or-die.json](./148791-eat-or-die.json) |
 | Eat or Eaten | 364223 | [364223-eat-or-eaten.json](./364223-eat-or-eaten.json) |
 | Eat or Fight | 314950 | [314950-eat-or-fight.json](./314950-eat-or-fight.json) |
 | Eat Sheep & Die | 179546 | [179546-eat-sheep-and-die.json](./179546-eat-sheep-and-die.json) |
