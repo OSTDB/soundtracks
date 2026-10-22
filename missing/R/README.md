@@ -2986,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Entity | 181917 | [181917-red-entity.json](./181917-red-entity.json) |
 | Red Entropy | 250788 | [250788-red-entropy.json](./250788-red-entropy.json) |
 | Red Escape Bundle | 215318 | [215318-red-escape-bundle.json](./215318-red-escape-bundle.json) |
+| Red Evil | 126848 | [126848-red-evil.json](./126848-red-evil.json) |
 | Red Exit Is a Lie | 392714 | [392714-red-exit-is-a-lie.json](./392714-red-exit-is-a-lie.json) |
 | Red Eye | 274378 | [274378-red-eye.json](./274378-red-eye.json) |
 | Red Eyes | 103195 | [103195-red-eyes.json](./103195-red-eyes.json) |
@@ -3820,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remember to Remember | 249736 | [249736-remember-to-remember.json](./249736-remember-to-remember.json) |
 | Remember Valentine | 330967 | [330967-remember-valentine.json](./330967-remember-valentine.json) |
 | Remember When | 155382 | [155382-remember-when.json](./155382-remember-when.json) |
+| Remember, Lights Out | 126882 | [126882-remember-lights-out.json](./126882-remember-lights-out.json) |
 | Remember, Remember | 36495 | [36495-remember-remember.json](./36495-remember-remember.json) |
 | Remembering Emily | 348865 | [348865-remembering-emily.json](./348865-remembering-emily.json) |
 | Remembering Which Buttons Take However Long to Press | 57713 | [57713-remembering-which-buttons-take-however-long-to-press.json](./57713-remembering-which-buttons-take-however-long-to-press.json) |
@@ -6635,6 +6637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Morrow | 172669 | [172669-road-to-morrow.json](./172669-road-to-morrow.json) |
 | Road to Moscow | 25613 | [25613-road-to-moscow.json](./25613-road-to-moscow.json) |
 | Road to Newtopia | 213250 | [213250-road-to-newtopia.json](./213250-road-to-newtopia.json) |
+| Road to Nowhere | 126836 | [126836-road-to-nowhere.json](./126836-road-to-nowhere.json) |
 | Road to Olympus | 345974 | [345974-road-to-olympus.json](./345974-road-to-olympus.json) |
 | Road to Salvation | 245742 | [245742-road-to-salvation.json](./245742-road-to-salvation.json) |
 | Road to Scrubville: A Bijuu Mike Fangame | 230254 | [230254-road-to-scrubville-a-bijuu-mike-fangame.json](./230254-road-to-scrubville-a-bijuu-mike-fangame.json) |
