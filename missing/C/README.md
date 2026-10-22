@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Big Game Hunter: 2005 Adventures | 242469 | [242469-cabelas-big-game-hunter-2005-adventures.json](./242469-cabelas-big-game-hunter-2005-adventures.json) |
 | Cabela's Big Game Hunter: 2005 Adventures | 3842 | [3842-cabelas-big-game-hunter-2005-adventures.json](./3842-cabelas-big-game-hunter-2005-adventures.json) |
 | Cabela's Big Game Hunter: Hunting Party | 20219 | [20219-cabelas-big-game-hunter-hunting-party.json](./20219-cabelas-big-game-hunter-hunting-party.json) |
+| Cabela's Big Game Hunter: Hunting Party with Gun | 136305 | [136305-cabelas-big-game-hunter-hunting-party-with-gun.json](./136305-cabelas-big-game-hunter-hunting-party-with-gun.json) |
 | Cabela's Big Game Hunter: Ultimate Challenge | 45298 | [45298-cabelas-big-game-hunter-ultimate-challenge.json](./45298-cabelas-big-game-hunter-ultimate-challenge.json) |
 | Cabela's Dangerous Hunts | 5763 | [5763-cabelas-dangerous-hunts.json](./5763-cabelas-dangerous-hunts.json) |
 | Cabela's Dangerous Hunts 2009 | 4737 | [4737-cabelas-dangerous-hunts-2009.json](./4737-cabelas-dangerous-hunts-2009.json) |
@@ -12544,6 +12545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Tag Team Racing | 248550 | [248550-crash-tag-team-racing.json](./248550-crash-tag-team-racing.json) |
 | Crash Team Racing | 388117 | [388117-crash-team-racing.json](./388117-crash-team-racing.json) |
 | Crash Team Racing Nitro-Fueled | 113113 | [113113-crash-team-racing-nitro-fueled.json](./113113-crash-team-racing-nitro-fueled.json) |
+| Crash Team Racing Nitro-Fueled + Spyro Reignited Trilogy Bundle | 136126 | [136126-crash-team-racing-nitro-fueled-spyro-reignited-trilogy-bundle.json](./136126-crash-team-racing-nitro-fueled-spyro-reignited-trilogy-bundle.json) |
 | Crash Team Racing Nitro-Fueled: Back N. Time Grand Prix | 324837 | [324837-crash-team-racing-nitro-fueled-back-n-time-grand-prix.json](./324837-crash-team-racing-nitro-fueled-back-n-time-grand-prix.json) |
 | Crash Team Racing Nitro-Fueled: Cove Cruiser Kart Body + Tropic Swirl Decal | 325137 | [325137-crash-team-racing-nitro-fueled-cove-cruiser-kart-body-tropic-swirl-decal.json](./325137-crash-team-racing-nitro-fueled-cove-cruiser-kart-body-tropic-swirl-decal.json) |
 | Crash Team Racing Nitro-Fueled: Gasmoxia Grand Prix | 324843 | [324843-crash-team-racing-nitro-fueled-gasmoxia-grand-prix.json](./324843-crash-team-racing-nitro-fueled-gasmoxia-grand-prix.json) |
@@ -12624,6 +12626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crate Fang | 349830 | [349830-crate-fang.json](./349830-crate-fang.json) |
 | Crate Knight | 207532 | [207532-crate-knight.json](./207532-crate-knight.json) |
 | Crate Man | 61568 | [61568-crate-man.json](./61568-crate-man.json) |
+| Crate Punks: Dada is Dead | 136098 | [136098-crate-punks-dada-is-dead.json](./136098-crate-punks-dada-is-dead.json) |
 | Crate Wars | 150402 | [150402-crate-wars.json](./150402-crate-wars.json) |
 | Crategun | 176840 | [176840-crategun.json](./176840-crategun.json) |
 | CrateMage | 310103 | [310103-cratemage.json](./310103-cratemage.json) |
