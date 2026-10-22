@@ -2420,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Face Jump! | 272206 | [272206-emoji-face-jump.json](./272206-emoji-face-jump.json) |
 | Emoji Janken RPG | 416017 | [416017-emoji-janken-rpg.json](./416017-emoji-janken-rpg.json) |
 | Emoji Match-3 Game | 103156 | [103156-emoji-match-3-game.json](./103156-emoji-match-3-game.json) |
+| Emoji Pop | 133659 | [133659-emoji-pop.json](./133659-emoji-pop.json) |
 | Emoji Puzzle | 305416 | [305416-emoji-puzzle.json](./305416-emoji-puzzle.json) |
 | Emoji Quest | 388908 | [388908-emoji-quest.json](./388908-emoji-quest.json) |
 | Emoji Quiz Football | 305265 | [305265-emoji-quiz-football.json](./305265-emoji-quiz-football.json) |
@@ -4067,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From the Hospital | 100742 | [100742-escape-from-the-hospital.json](./100742-escape-from-the-hospital.json) |
 | Escape From The Island | 283290 | [283290-escape-from-the-island.json](./283290-escape-from-the-island.json) |
 | Escape from the Lockdown: The Demon Fortress | 166061 | [166061-escape-from-the-lockdown-the-demon-fortress.json](./166061-escape-from-the-lockdown-the-demon-fortress.json) |
+| Escape from the Lost World | 133676 | [133676-escape-from-the-lost-world.json](./133676-escape-from-the-lost-world.json) |
 | Escape from the Marble Monster | 216733 | [216733-escape-from-the-marble-monster.json](./216733-escape-from-the-marble-monster.json) |
 | Escape from the Mindmaster | 18567 | [18567-escape-from-the-mindmaster.json](./18567-escape-from-the-mindmaster.json) |
 | Escape from the Nuke | 276099 | [276099-escape-from-the-nuke.json](./276099-escape-from-the-nuke.json) |
