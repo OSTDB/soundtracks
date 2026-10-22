@@ -2175,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Cat | 14205 | [14205-action-cat.json](./14205-action-cat.json) |
 | Action Commando | 171425 | [171425-action-commando.json](./171425-action-commando.json) |
 | Action Commando 2 | 152711 | [152711-action-commando-2.json](./152711-action-commando-2.json) |
+| Action Commando: Max Shooting | 108191 | [108191-action-commando-max-shooting.json](./108191-action-commando-max-shooting.json) |
 | Action Doom | 55134 | [55134-action-doom.json](./55134-action-doom.json) |
 | Action Draw Jumper | 339861 | [339861-action-draw-jumper.json](./339861-action-draw-jumper.json) |
 | Action Entities | 343608 | [343608-action-entities.json](./343608-action-entities.json) |
@@ -10079,6 +10080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Arena | 160102 | [160102-archery-arena.json](./160102-archery-arena.json) |
 | Archery Art | 105774 | [105774-archery-art.json](./105774-archery-art.json) |
 | Archery Battle VR | 243601 | [243601-archery-battle-vr.json](./243601-archery-battle-vr.json) |
+| Archery Big Game Hunting | 108209 | [108209-archery-big-game-hunting.json](./108209-archery-big-game-hunting.json) |
 | Archery Black | 356646 | [356646-archery-black.json](./356646-archery-black.json) |
 | Archery by Thornbury Software | 84757 | [84757-archery-by-thornbury-software.json](./84757-archery-by-thornbury-software.json) |
 | Archery Champion Bowman | 87928 | [87928-archery-champion-bowman.json](./87928-archery-champion-bowman.json) |
