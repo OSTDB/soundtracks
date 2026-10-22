@@ -1756,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Riding Hero | 103942 | [103942-aca-neo-geo-riding-hero.json](./103942-aca-neo-geo-riding-hero.json) |
 | ACA Neo Geo: Robo Army | 99483 | [99483-aca-neo-geo-robo-army.json](./99483-aca-neo-geo-robo-army.json) |
 | ACA Neo Geo: Samurai Shodown V Special | 117520 | [117520-aca-neo-geo-samurai-shodown-v-special.json](./117520-aca-neo-geo-samurai-shodown-v-special.json) |
+| ACA Neo Geo: Savage Reign | 111396 | [111396-aca-neo-geo-savage-reign.json](./111396-aca-neo-geo-savage-reign.json) |
 | ACA Neo Geo: Sengoku 3 | 104269 | [104269-aca-neo-geo-sengoku-3.json](./104269-aca-neo-geo-sengoku-3.json) |
 | ACA Neo Geo: Shock Troopers | 28412 | [28412-aca-neo-geo-shock-troopers.json](./28412-aca-neo-geo-shock-troopers.json) |
 | ACA Neo Geo: Spin Master | 67624 | [67624-aca-neo-geo-spin-master.json](./67624-aca-neo-geo-spin-master.json) |
@@ -2811,7 +2812,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -4876,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfabet Śmierci | 14238 | [14238-alfabet-smierci.json](./14238-alfabet-smierci.json) |
 | Alfabit Gonki za Poteryannymi Bukvami (Byez Peklamy) | 104570 | [104570-alfabit-gonki-za-poteryannymi-bukvami-byez-peklamy.json](./104570-alfabit-gonki-za-poteryannymi-bukvami-byez-peklamy.json) |
 | Alfal's Grove | 132651 | [132651-alfals-grove.json](./132651-alfals-grove.json) |
+| Alfasnake | 111394 | [111394-alfasnake.json](./111394-alfasnake.json) |
 | Alfelus | 125669 | [125669-alfelus.json](./125669-alfelus.json) |
 | Alfons World | 345053 | [345053-alfons-world.json](./345053-alfons-world.json) |
 | Alfonzo's Arctic Adventure | 122808 | [122808-alfonzos-arctic-adventure.json](./122808-alfonzos-arctic-adventure.json) |
@@ -5839,6 +5840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha | 117490 | [117490-alpha.json](./117490-alpha.json) |
 | Alpha | 131301 | [131301-alpha.json](./131301-alpha.json) |
 | Alpha | 313804 | [313804-alpha.json](./313804-alpha.json) |
+| Alpha & Beta | 111369 | [111369-alpha-and-beta.json](./111369-alpha-and-beta.json) |
 | Alpha 2 | 323996 | [323996-alpha-2.json](./323996-alpha-2.json) |
 | Alpha Accident: Terra Nova | 256878 | [256878-alpha-accident-terra-nova.json](./256878-alpha-accident-terra-nova.json) |
 | Alpha Ace | 188364 | [188364-alpha-ace.json](./188364-alpha-ace.json) |
@@ -8537,6 +8539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antistar: Rising | 315680 | [315680-antistar-rising.json](./315680-antistar-rising.json) |
 | Antistatic | 114215 | [114215-antistatic.json](./114215-antistatic.json) |
 | Antisuns | 303339 | [303339-antisuns.json](./303339-antisuns.json) |
+| Antitetrise | 111427 | [111427-antitetrise.json](./111427-antitetrise.json) |
 | Antithesis | 164885 | [164885-antithesis.json](./164885-antithesis.json) |
 | Antivine | 250998 | [250998-antivine.json](./250998-antivine.json) |
 | Antivirus | 365003 | [365003-antivirus.json](./365003-antivirus.json) |
@@ -8560,6 +8563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antons 10 Minutes in Cool Hell | 326117 | [326117-antons-10-minutes-in-cool-hell.json](./326117-antons-10-minutes-in-cool-hell.json) |
 | AntonSneeze | 326109 | [326109-antonsneeze.json](./326109-antonsneeze.json) |
 | AntonWare | 326110 | [326110-antonware.json](./326110-antonware.json) |
+| Antox vs. Free Radicals | 111416 | [111416-antox-vs-free-radicals.json](./111416-antox-vs-free-radicals.json) |
 | Antpocalypse | 386917 | [386917-antpocalypse.json](./386917-antpocalypse.json) |
 | AntQueen 3D | 117642 | [117642-antqueen-3d.json](./117642-antqueen-3d.json) |
 | Antrabhara | 223491 | [223491-antrabhara.json](./223491-antrabhara.json) |
@@ -13951,6 +13955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axe Slasher | 333065 | [333065-axe-slasher.json](./333065-axe-slasher.json) |
 | Axe Throw VR | 107850 | [107850-axe-throw-vr.json](./107850-axe-throw-vr.json) |
 | AxE: Alliance Vs Empire | 125351 | [125351-axe-alliance-vs-empire.json](./125351-axe-alliance-vs-empire.json) |
+| Axe: Survival | 111389 | [111389-axe-survival.json](./111389-axe-survival.json) |
 | Axe.io | 100358 | [100358-axe-io.json](./100358-axe-io.json) |
 | Axecutioners | 249064 | [249064-axecutioners.json](./249064-axecutioners.json) |
 | Axegend | 131596 | [131596-axegend.json](./131596-axegend.json) |
