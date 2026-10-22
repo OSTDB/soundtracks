@@ -6874,6 +6874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Blade | 293097 | [293097-black-blade.json](./293097-black-blade.json) |
 | Black blood | 132781 | [132781-black-blood.json](./132781-black-blood.json) |
 | Black Blood | 379357 | [379357-black-blood.json](./379357-black-blood.json) |
+| Black Border Patrol Simulator | 139646 | [139646-black-border-patrol-simulator.json](./139646-black-border-patrol-simulator.json) |
 | Black Border: Border Simulator | 174205 | [174205-black-border-border-simulator.json](./174205-black-border-border-simulator.json) |
 | Black Box Challenge | 108811 | [108811-black-box-challenge.json](./108811-black-box-challenge.json) |
 | Black Box Chess | 116897 | [116897-black-box-chess.json](./116897-black-box-chess.json) |
@@ -10639,6 +10640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncer | 100671 | [100671-bouncer.json](./100671-bouncer.json) |
 | Bouncer | 13698 | [13698-bouncer.json](./13698-bouncer.json) |
 | Bouncer 2 | 266644 | [266644-bouncer-2.json](./266644-bouncer-2.json) |
+| Bouncer Story | 139645 | [139645-bouncer-story.json](./139645-bouncer-story.json) |
 | Bouncers | 131481 | [131481-bouncers.json](./131481-bouncers.json) |
 | Bouncers | 259755 | [259755-bouncers.json](./259755-bouncers.json) |
 | Bouncers | 46422 | [46422-bouncers.json](./46422-bouncers.json) |
@@ -12208,6 +12210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broccoli Quest | 176873 | [176873-broccoli-quest.json](./176873-broccoli-quest.json) |
 | Broccoli Quest II: The Dark Sacrament | 176874 | [176874-broccoli-quest-ii-the-dark-sacrament.json](./176874-broccoli-quest-ii-the-dark-sacrament.json) |
 | BroChicken | 253806 | [253806-brochicken.json](./253806-brochicken.json) |
+| Brocula | 139651 | [139651-brocula.json](./139651-brocula.json) |
 | Brødrene Mortensens Jul | 129815 | [129815-br-drene-mortensens-jul.json](./129815-br-drene-mortensens-jul.json) |
 | Broforce: Forever | 260721 | [260721-broforce-forever.json](./260721-broforce-forever.json) |
 | Broilers | 218673 | [218673-broilers.json](./218673-broilers.json) |
@@ -13064,6 +13067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BugSquash | 346562 | [346562-bugsquash.json](./346562-bugsquash.json) |
 | Bugsted: Back to the Moon | 176698 | [176698-bugsted-back-to-the-moon.json](./176698-bugsted-back-to-the-moon.json) |
 | Bugtris | 130674 | [130674-bugtris.json](./130674-bugtris.json) |
+| Bugvasion TD | 139661 | [139661-bugvasion-td.json](./139661-bugvasion-td.json) |
 | BugWorld | 254003 | [254003-bugworld.json](./254003-bugworld.json) |
 | Bugworld: Online | 139148 | [139148-bugworld-online.json](./139148-bugworld-online.json) |
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
