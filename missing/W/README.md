@@ -3140,7 +3140,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -4528,6 +4527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windy wo Kaitain desu ga... | 411715 | [411715-windy-wo-kaitain-desu-ga.json](./411715-windy-wo-kaitain-desu-ga.json) |
 | Windy x Windam | 94899 | [94899-windy-x-windam.json](./94899-windy-x-windam.json) |
 | Windy Zetsumetsu Keikaku | 412337 | [412337-windy-zetsumetsu-keikaku.json](./412337-windy-zetsumetsu-keikaku.json) |
+| Wine & Roses | 124456 | [124456-wine-and-roses.json](./124456-wine-and-roses.json) |
 | Wine Factory Simulator | 332485 | [332485-wine-factory-simulator.json](./332485-wine-factory-simulator.json) |
 | Wine Tycoon | 201074 | [201074-wine-tycoon.json](./201074-wine-tycoon.json) |
 | Winery Simulator | 216836 | [216836-winery-simulator.json](./216836-winery-simulator.json) |
@@ -5251,6 +5251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard of Legend Mobile | 174701 | [174701-wizard-of-legend-mobile.json](./174701-wizard-of-legend-mobile.json) |
 | Wizard of the 4 Corners | 301903 | [301903-wizard-of-the-4-corners.json](./301903-wizard-of-the-4-corners.json) |
 | Wizard of Wall Street | 68043 | [68043-wizard-of-wall-street.json](./68043-wizard-of-wall-street.json) |
+| Wizard of White Box | 124465 | [124465-wizard-of-white-box.json](./124465-wizard-of-white-box.json) |
 | Wizard of Wings | 309550 | [309550-wizard-of-wings.json](./309550-wizard-of-wings.json) |
 | Wizard of Wor | 282083 | [282083-wizard-of-wor.json](./282083-wizard-of-wor.json) |
 | Wizard of Wor | 282084 | [282084-wizard-of-wor.json](./282084-wizard-of-wor.json) |
