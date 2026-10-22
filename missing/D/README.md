@@ -4468,6 +4468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense of Kyrath | 406310 | [406310-defense-of-kyrath.json](./406310-defense-of-kyrath.json) |
 | Defense of Nations | 268505 | [268505-defense-of-nations.json](./268505-defense-of-nations.json) |
 | Defense of the Ass | 141837 | [141837-defense-of-the-ass.json](./141837-defense-of-the-ass.json) |
+| Defense of the Fantasy Robots | 110079 | [110079-defense-of-the-fantasy-robots.json](./110079-defense-of-the-fantasy-robots.json) |
 | Defense of the Middle Kingdom | 85568 | [85568-defense-of-the-middle-kingdom.json](./85568-defense-of-the-middle-kingdom.json) |
 | Defense of the Sodomites | 336679 | [336679-defense-of-the-sodomites.json](./336679-defense-of-the-sodomites.json) |
 | Defense Technica | 10178 | [10178-defense-technica.json](./10178-defense-technica.json) |
@@ -11276,6 +11277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Assault | 360148 | [360148-dragon-assault.json](./360148-dragon-assault.json) |
 | Dragon Atlas | 23635 | [23635-dragon-atlas.json](./23635-dragon-atlas.json) |
 | Dragon Audit: Deluxe Edition | 237853 | [237853-dragon-audit-deluxe-edition.json](./237853-dragon-audit-deluxe-edition.json) |
+| Dragon Awaken | 110084 | [110084-dragon-awaken.json](./110084-dragon-awaken.json) |
 | Dragon Ball | 38662 | [38662-dragon-ball.json](./38662-dragon-ball.json) |
 | Dragon Ball 3: Goku-den | 48679 | [48679-dragon-ball-3-goku-den.json](./48679-dragon-ball-3-goku-den.json) |
 | Dragon Ball Budokai AF | 180246 | [180246-dragon-ball-budokai-af.json](./180246-dragon-ball-budokai-af.json) |
@@ -11501,6 +11503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Dash Division | 167535 | [167535-dragon-dash-division.json](./167535-dragon-dash-division.json) |
 | Dragon Defender | 40644 | [40644-dragon-defender.json](./40644-dragon-defender.json) |
 | Dragon Defender: Castle Kingdom Quest | 234188 | [234188-dragon-defender-castle-kingdom-quest.json](./234188-dragon-defender-castle-kingdom-quest.json) |
+| Dragon Defense | 110083 | [110083-dragon-defense.json](./110083-dragon-defense.json) |
 | Dragon Den | 287502 | [287502-dragon-den.json](./287502-dragon-den.json) |
 | Dragon Detective: A Friend From the Shadows | 349096 | [349096-dragon-detective-a-friend-from-the-shadows.json](./349096-dragon-detective-a-friend-from-the-shadows.json) |
 | Dragon Dice | 69894 | [69894-dragon-dice.json](./69894-dragon-dice.json) |
