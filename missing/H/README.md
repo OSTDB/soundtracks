@@ -1647,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harold Rabbit: Finder of Lost Things | 333141 | [333141-harold-rabbit-finder-of-lost-things.json](./333141-harold-rabbit-finder-of-lost-things.json) |
 | Harold's Bad Day | 396709 | [396709-harolds-bad-day.json](./396709-harolds-bad-day.json) |
 | Harold's Mission | 330388 | [330388-harolds-mission.json](./330388-harolds-mission.json) |
+| Harold's Walk | 147151 | [147151-harolds-walk.json](./147151-harolds-walk.json) |
 | Harold's Walk | 306569 | [306569-harolds-walk.json](./306569-harolds-walk.json) |
 | Haron: The Riverside | 188822 | [188822-haron-the-riverside.json](./188822-haron-the-riverside.json) |
 | Harp | 145597 | [145597-harp.json](./145597-harp.json) |
