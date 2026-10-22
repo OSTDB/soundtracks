@@ -5508,6 +5508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Rooms | 102361 | [102361-five-rooms.json](./102361-five-rooms.json) |
 | Five Seconds of Bad Music | 109619 | [109619-five-seconds-of-bad-music.json](./109619-five-seconds-of-bad-music.json) |
 | Five Shifts at Zlata's | 385280 | [385280-five-shifts-at-zlatas.json](./385280-five-shifts-at-zlatas.json) |
+| Five Shows at Wario's | 145343 | [145343-five-shows-at-warios.json](./145343-five-shows-at-warios.json) |
 | Five Sonic Rings Bundle | 210301 | [210301-five-sonic-rings-bundle.json](./210301-five-sonic-rings-bundle.json) |
 | Five Stages | 128429 | [128429-five-stages.json](./128429-five-stages.json) |
 | Five Star Games | 100129 | [100129-five-star-games.json](./100129-five-star-games.json) |
@@ -6313,6 +6314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor is Water | 193402 | [193402-floor-is-water.json](./193402-floor-is-water.json) |
 | Floor is...What!? | 189135 | [189135-floor-is-what.json](./189135-floor-is-what.json) |
 | Floor Observer | 284437 | [284437-floor-observer.json](./284437-floor-observer.json) |
+| Floor Plan 2 | 145348 | [145348-floor-plan-2.json](./145348-floor-plan-2.json) |
 | Floor Plan Puzzle (Red Room Simulator) | 347321 | [347321-floor-plan-puzzle-red-room-simulator.json](./347321-floor-plan-puzzle-red-room-simulator.json) |
 | Floor Plan Remastered | 273589 | [273589-floor-plan-remastered.json](./273589-floor-plan-remastered.json) |
 | Floor Plan: Hands-On Edition | 55801 | [55801-floor-plan-hands-on-edition.json](./55801-floor-plan-hands-on-edition.json) |
@@ -7102,6 +7104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football girl | 161366 | [161366-football-girl.json](./161366-football-girl.json) |
 | Football Girls: Dream Team | 102374 | [102374-football-girls-dream-team.json](./102374-football-girls-dream-team.json) |
 | Football Glory | 93488 | [93488-football-glory.json](./93488-football-glory.json) |
+| Football GM | 145347 | [145347-football-gm.json](./145347-football-gm.json) |
 | Football Granny | 107160 | [107160-football-granny.json](./107160-football-granny.json) |
 | Football Hero | 262060 | [262060-football-hero.json](./262060-football-hero.json) |
 | Football Heroes 2015 | 238305 | [238305-football-heroes-2015.json](./238305-football-heroes-2015.json) |
