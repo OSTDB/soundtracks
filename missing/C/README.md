@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: World at War Map Pack 2 | 273857 | [273857-call-of-duty-world-at-war-map-pack-2.json](./273857-call-of-duty-world-at-war-map-pack-2.json) |
 | Call of Duty: World at War Map Pack 3 | 273858 | [273858-call-of-duty-world-at-war-map-pack-3.json](./273858-call-of-duty-world-at-war-map-pack-3.json) |
 | Call of Duty: WWII - Digital Deluxe Edition | 52717 | [52717-call-of-duty-wwii-digital-deluxe-edition.json](./52717-call-of-duty-wwii-digital-deluxe-edition.json) |
+| Call of Duty: WWII - Game of the Year Edition | 136698 | [136698-call-of-duty-wwii-game-of-the-year-edition.json](./136698-call-of-duty-wwii-game-of-the-year-edition.json) |
 | Call of Duty: WWII - Gold Edition | 118729 | [118729-call-of-duty-wwii-gold-edition.json](./118729-call-of-duty-wwii-gold-edition.json) |
 | Call of Duty: WWII - Pro Edition | 11499 | [11499-call-of-duty-wwii-pro-edition.json](./11499-call-of-duty-wwii-pro-edition.json) |
 | Call of Duty: WWII - United Front DLC | 103518 | [103518-call-of-duty-wwii-united-front-dlc.json](./103518-call-of-duty-wwii-united-front-dlc.json) |
