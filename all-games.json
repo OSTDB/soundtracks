@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-22T10:36:48.156Z",
-  "total_soundtracks": 2501,
+  "generated_at": "2026-10-22T10:41:37.071Z",
+  "total_soundtracks": 2510,
   "games": [
     {
       "igdb_id": 7522,
@@ -505,6 +505,20 @@
       ]
     },
     {
+      "igdb_id": 137679,
+      "game_name": "Ad Agency Tycoon",
+      "game_url": "https://ostdb.net/games/ad-agency-tycoon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d30671e3736d71ca4cd5f438",
+      "albums": [
+        {
+          "album_name": "Ad Agency Tycoon (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5RaPU28gtjHz1A6LV62jh2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 77338,
       "game_name": "Ad Infinitum",
       "game_url": "https://ostdb.net/games/ad-infinitum",
@@ -575,6 +589,20 @@
       ]
     },
     {
+      "igdb_id": 270142,
+      "game_name": "Aethus",
+      "game_url": "https://ostdb.net/games/aethus",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737e6890ba5d457fa411478bee",
+      "albums": [
+        {
+          "album_name": "AETHUS: Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/46aR0SLO058G7iEG6DO1dU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 286114,
       "game_name": "AFK Journey",
       "game_url": "https://ostdb.net/games/afk-journey",
@@ -625,6 +653,20 @@
         {
           "album_name": "Against the Storm (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0RL6vCkx6i0mO8QiECPfzA",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 269042,
+      "game_name": "Agame",
+      "game_url": "https://ostdb.net/games/agame",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273817c3ed8bb09fb8058bf8204",
+      "albums": [
+        {
+          "album_name": "aGame (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0ce6j4fQ9iSE0CG1yecdqw",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -4337,6 +4379,20 @@
       ]
     },
     {
+      "igdb_id": 4747,
+      "game_name": "Cars 2",
+      "game_url": "https://ostdb.net/games/cars-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cce6b71df05dd3603c275fdf",
+      "albums": [
+        {
+          "album_name": "Cars 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 133866,
       "game_name": "Cassette Beasts",
       "game_url": "https://ostdb.net/games/cassette-beasts",
@@ -7737,6 +7793,20 @@
           "spotify_url": "https://open.spotify.com/album/03vh7zjvWbHkpw1IJmqqeW",
           "apple_music_url": "https://music.apple.com/us/album/dredge-original-game-soundtrack/1680000800",
           "album_link_url": "https://album.link/i/1680000800"
+        }
+      ]
+    },
+    {
+      "igdb_id": 270502,
+      "game_name": "Dredge: The Pale Reach",
+      "game_url": "https://ostdb.net/games/dredge-the-pale-reach",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739d5ef757e223e8f684d7031d",
+      "albums": [
+        {
+          "album_name": "DREDGE The Pale Reach (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1j5JB6uOMF1JyUrGKapF7W",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -14919,6 +14989,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/lords-of-the-fallen-original-soundtrack/1745071453?uo=4",
           "album_link_url": "https://album.link/i/1745071453"
+        }
+      ]
+    },
+    {
+      "igdb_id": 26128,
+      "game_name": "Lost Ark",
+      "game_url": "https://ostdb.net/games/lost-ark",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a2484198c7fce96ab6cb3745",
+      "albums": [
+        {
+          "album_name": "LOST ARK (Original Soundtrack): Dear Friends",
+          "spotify_url": "https://open.spotify.com/album/4fcUqoIvDiwTU5Vq8RjSfI",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -23767,6 +23851,20 @@
       ]
     },
     {
+      "igdb_id": 213473,
+      "game_name": "Squirrel with a Gun",
+      "game_url": "https://ostdb.net/games/squirrel-with-a-gun",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27341ae5dbd9b9d2ccaedddfdf1",
+      "albums": [
+        {
+          "album_name": "Squirrel With A Gun Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/18zJEmwpMxMhM1PQDvG9ve",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 325604,
       "game_name": "Stage Fright",
       "game_url": "https://ostdb.net/games/stage-fright",
@@ -23986,6 +24084,20 @@
           "album_name": "Star Wars: Battlefront II (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6qilh9K60vswro2eujBqwC",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 143611,
+      "game_name": "Star Wars: Hunters",
+      "game_url": "https://ostdb.net/games/star-wars-hunters",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734ac85b9e679e6e0a1eb013fd",
+      "albums": [
+        {
+          "album_name": "Star Wars: Hunters (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5uGX8I125qTzvzCMhuu5VB",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -29341,6 +29453,20 @@
         {
           "album_name": "Viewfinder (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5H8rtq2lBOSVlEedUCeDbD",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 114485,
+      "game_name": "Vigil: The Longest Night",
+      "game_url": "https://ostdb.net/games/vigil-the-longest-night",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734f3c6e18c15fdf53733c153d",
+      "albums": [
+        {
+          "album_name": "Vigil: The Longest Night (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7zpVGZ2PmKlqUyetyq9X5N",
           "apple_music_url": "",
           "album_link_url": ""
         }
