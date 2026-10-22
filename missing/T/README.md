@@ -1302,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talon's End | 300033 | [300033-talons-end.json](./300033-talons-end.json) |
 | Talos Descent | 182801 | [182801-talos-descent.json](./182801-talos-descent.json) |
 | Talos VR | 102170 | [102170-talos-vr.json](./102170-talos-vr.json) |
+| TalosFray | 130054 | [130054-talosfray.json](./130054-talosfray.json) |
 | Talparun | 268905 | [268905-talparun.json](./268905-talparun.json) |
 | Talshard | 127821 | [127821-talshard.json](./127821-talshard.json) |
 | Talvisota: Icy Hell | 9095 | [9095-talvisota-icy-hell.json](./9095-talvisota-icy-hell.json) |
