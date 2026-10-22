@@ -2363,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Winners: Victoryball | 109659 | [109659-real-winners-victoryball.json](./109659-real-winners-victoryball.json) |
 | Real World | 275637 | [275637-real-world.json](./275637-real-world.json) |
 | Real World 2 | 275638 | [275638-real-world-2.json](./275638-real-world-2.json) |
+| Real World Cricket - T20 Cricket | 124458 | [124458-real-world-cricket-t20-cricket.json](./124458-real-world-cricket-t20-cricket.json) |
 | Real World Golf | 80386 | [80386-real-world-golf.json](./80386-real-world-golf.json) |
 | Real World Golf 2007 | 23010 | [23010-real-world-golf-2007.json](./23010-real-world-golf-2007.json) |
 | Real World Racing | 7028 | [7028-real-world-racing.json](./7028-real-world-racing.json) |
@@ -5317,6 +5318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhyolite | 335351 | [335351-rhyolite.json](./335351-rhyolite.json) |
 | Rhyth-Metria | 227167 | [227167-rhyth-metria.json](./227167-rhyth-metria.json) |
 | Rhythia | 234769 | [234769-rhythia.json](./234769-rhythia.json) |
+| Rhythm | 124498 | [124498-rhythm.json](./124498-rhythm.json) |
 | Rhythm 'n Bullets | 140928 | [140928-rhythm-n-bullets.json](./140928-rhythm-n-bullets.json) |
 | Rhythm 'n Notes: Improve Your Music Skills | 79176 | [79176-rhythm-n-notes-improve-your-music-skills.json](./79176-rhythm-n-notes-improve-your-music-skills.json) |
 | Rhythm & Beats | 292282 | [292282-rhythm-and-beats.json](./292282-rhythm-and-beats.json) |
@@ -5861,6 +5863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rigid Memory | 205107 | [205107-rigid-memory.json](./205107-rigid-memory.json) |
 | Riglas | 281255 | [281255-riglas.json](./281255-riglas.json) |
 | Riglord Saga 2 | 73838 | [73838-riglord-saga-2.json](./73838-riglord-saga-2.json) |
+| Rigor Mortis | 124509 | [124509-rigor-mortis.json](./124509-rigor-mortis.json) |
 | RigorZ | 350565 | [350565-rigorz.json](./350565-rigorz.json) |
 | Rigs: Mechanized Combat League | 11253 | [11253-rigs-mechanized-combat-league.json](./11253-rigs-mechanized-combat-league.json) |
 | Riichi City | 187355 | [187355-riichi-city.json](./187355-riichi-city.json) |
