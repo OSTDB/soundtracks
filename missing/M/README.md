@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girls vs. Cat Aliens | 325847 | [325847-magical-girls-vs-cat-aliens.json](./325847-magical-girls-vs-cat-aliens.json) |
 | Magical Greenhouse | 372182 | [372182-magical-greenhouse.json](./372182-magical-greenhouse.json) |
 | Magical Harvest | 197156 | [197156-magical-harvest.json](./197156-magical-harvest.json) |
+| Magical Hat | 137515 | [137515-magical-hat.json](./137515-magical-hat.json) |
 | Magical Hike | 264592 | [264592-magical-hike.json](./264592-magical-hike.json) |
 | Magical Houshin | 248471 | [248471-magical-houshin.json](./248471-magical-houshin.json) |
 | Magical Jewelry | 48670 | [48670-magical-jewelry.json](./48670-magical-jewelry.json) |
@@ -13659,6 +13660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motivo | 39759 | [39759-motivo.json](./39759-motivo.json) |
 | Moto | 252606 | [252606-moto.json](./252606-moto.json) |
 | Moto Championship 26 | 385089 | [385089-moto-championship-26.json](./385089-moto-championship-26.json) |
+| Moto Chaser | 137512 | [137512-moto-chaser.json](./137512-moto-chaser.json) |
 | Moto Extreme | 70342 | [70342-moto-extreme.json](./70342-moto-extreme.json) |
 | Moto GP: Ultimate racing technology | 8268 | [8268-moto-gp-ultimate-racing-technology.json](./8268-moto-gp-ultimate-racing-technology.json) |
 | Moto Hero | 197706 | [197706-moto-hero.json](./197706-moto-hero.json) |
@@ -14553,6 +14555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Msoids | 199081 | [199081-msoids.json](./199081-msoids.json) |
 | MSSP 9: New Pietniemi | 308263 | [308263-mssp-9-new-pietniemi.json](./308263-mssp-9-new-pietniemi.json) |
 | MSSP8 | 308262 | [308262-mssp8.json](./308262-mssp8.json) |
+| Mstar | 137518 | [137518-mstar.json](./137518-mstar.json) |
 | MSX Baseball | 94321 | [94321-msx-baseball.json](./94321-msx-baseball.json) |
 | MSX Copycat | 352337 | [352337-msx-copycat.json](./352337-msx-copycat.json) |
 | MSX Soccer | 94680 | [94680-msx-soccer.json](./94680-msx-soccer.json) |
