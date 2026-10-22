@@ -5236,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It’s on the Mouse | 328244 | [328244-it-s-on-the-mouse.json](./328244-it-s-on-the-mouse.json) |
 | It's Only Money | 215586 | [215586-its-only-money.json](./215586-its-only-money.json) |
 | It's Our Revolution | 304108 | [304108-its-our-revolution.json](./304108-its-our-revolution.json) |
+| It's Paper Guy! | 105035 | [105035-its-paper-guy.json](./105035-its-paper-guy.json) |
 | It's possible | 111536 | [111536-its-possible.json](./111536-its-possible.json) |
 | It's Puzzles: Wild Nature | 257882 | [257882-its-puzzles-wild-nature.json](./257882-its-puzzles-wild-nature.json) |
 | It's Raining Acorn! | 331136 | [331136-its-raining-acorn.json](./331136-its-raining-acorn.json) |
