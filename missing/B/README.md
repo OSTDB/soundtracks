@@ -4972,6 +4972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath & Beyond | 273367 | [273367-beneath-and-beyond.json](./273367-beneath-and-beyond.json) |
 | Beneath a Dead City | 327406 | [327406-beneath-a-dead-city.json](./327406-beneath-a-dead-city.json) |
 | Beneath a Steel Sky | 612 | [612-beneath-a-steel-sky.json](./612-beneath-a-steel-sky.json) |
+| Beneath a Withering Moon | 141719 | [141719-beneath-a-withering-moon.json](./141719-beneath-a-withering-moon.json) |
 | Beneath Apple Manor | 2873 | [2873-beneath-apple-manor.json](./2873-beneath-apple-manor.json) |
 | Beneath Floes | 58701 | [58701-beneath-floes.json](./58701-beneath-floes.json) |
 | Beneath Folly | 229214 | [229214-beneath-folly.json](./229214-beneath-folly.json) |
@@ -13229,6 +13230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Chain: Vessels | 390075 | [390075-bullet-chain-vessels.json](./390075-bullet-chain-vessels.json) |
 | Bullet Chase | 205032 | [205032-bullet-chase.json](./205032-bullet-chase.json) |
 | Bullet Chess | 101673 | [101673-bullet-chess.json](./101673-bullet-chess.json) |
+| Bullet Cove | 141701 | [141701-bullet-cove.json](./141701-bullet-cove.json) |
 | Bullet Destroyer | 226273 | [226273-bullet-destroyer.json](./226273-bullet-destroyer.json) |
 | Bullet Express | 185477 | [185477-bullet-express.json](./185477-bullet-express.json) |
 | Bullet Fractals | 181894 | [181894-bullet-fractals.json](./181894-bullet-fractals.json) |
