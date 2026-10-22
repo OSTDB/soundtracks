@@ -6688,6 +6688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's Biggest Solitaire | 109918 | [109918-worlds-biggest-solitaire.json](./109918-worlds-biggest-solitaire.json) |
 | World's End Chapter 3 | 101707 | [101707-worlds-end-chapter-3.json](./101707-worlds-end-chapter-3.json) |
 | World's End Club | 110581 | [110581-worlds-end-club.json](./110581-worlds-end-club.json) |
+| World's End Club: Deluxe Edition | 146152 | [146152-worlds-end-club-deluxe-edition.json](./146152-worlds-end-club-deluxe-edition.json) |
 | World's End Garden | 98043 | [98043-worlds-end-garden.json](./98043-worlds-end-garden.json) |
 | World's Fair Jig Saw | 130865 | [130865-worlds-fair-jig-saw.json](./130865-worlds-fair-jig-saw.json) |
 | World's Fastest Pizza | 34599 | [34599-worlds-fastest-pizza.json](./34599-worlds-fastest-pizza.json) |
