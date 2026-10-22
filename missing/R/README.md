@@ -7658,6 +7658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockytown | 148786 | [148786-rockytown.json](./148786-rockytown.json) |
 | Rocman X | 247412 | [247412-rocman-x.json](./247412-rocman-x.json) |
 | Roco Kingdom | 395852 | [395852-roco-kingdom.json](./395852-roco-kingdom.json) |
+| Rococo | 142088 | [142088-rococo.json](./142088-rococo.json) |
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
 | Rocpain: Rock Paper Scissors | 226366 | [226366-rocpain-rock-paper-scissors.json](./226366-rocpain-rock-paper-scissors.json) |
 | Rod & Ripple | 343223 | [343223-rod-and-ripple.json](./343223-rod-and-ripple.json) |
@@ -9176,6 +9177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruby: Huntress of Vale | 257333 | [257333-ruby-huntress-of-vale.json](./257333-ruby-huntress-of-vale.json) |
 | Ruby's Land | 298052 | [298052-rubys-land.json](./298052-rubys-land.json) |
 | Ruby’s Realms | 360746 | [360746-ruby-s-realms.json](./360746-ruby-s-realms.json) |
+| Ruby's Rebalanced Halo 2 Campaign | 142297 | [142297-rubys-rebalanced-halo-2-campaign.json](./142297-rubys-rebalanced-halo-2-campaign.json) |
 | Ruby's Rebalanced Halo 3 Campaign | 142379 | [142379-rubys-rebalanced-halo-3-campaign.json](./142379-rubys-rebalanced-halo-3-campaign.json) |
 | Ruby's Rebalanced Halo CE Campaign | 142276 | [142276-rubys-rebalanced-halo-ce-campaign.json](./142276-rubys-rebalanced-halo-ce-campaign.json) |
 | Ruby's Rebalanced Reach Campaign | 142380 | [142380-rubys-rebalanced-reach-campaign.json](./142380-rubys-rebalanced-reach-campaign.json) |
