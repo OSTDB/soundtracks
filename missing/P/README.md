@@ -9167,6 +9167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Bowler | 44071 | [44071-polar-bowler.json](./44071-polar-bowler.json) |
 | Polar Bowler 1st Frame | 294452 | [294452-polar-bowler-1st-frame.json](./294452-polar-bowler-1st-frame.json) |
 | Polar Explorer Simulator | 173061 | [173061-polar-explorer-simulator.json](./173061-polar-explorer-simulator.json) |
+| Polar Jump | 120592 | [120592-polar-jump.json](./120592-polar-jump.json) |
 | Polar Jump | 386921 | [386921-polar-jump.json](./386921-polar-jump.json) |
 | Polar Panic | 21768 | [21768-polar-panic.json](./21768-polar-panic.json) |
 | Polar Panic | 275603 | [275603-polar-panic.json](./275603-polar-panic.json) |
@@ -9385,6 +9386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Ego | 260729 | [260729-poly-ego.json](./260729-poly-ego.json) |
 | Poly Fighter | 403109 | [403109-poly-fighter.json](./403109-poly-fighter.json) |
 | Poly Fire | 319119 | [319119-poly-fire.json](./319119-poly-fire.json) |
+| Poly Fishing | 120609 | [120609-poly-fishing.json](./120609-poly-fishing.json) |
 | Poly Frenzy | 373217 | [373217-poly-frenzy.json](./373217-poly-frenzy.json) |
 | Poly Gangs | 159724 | [159724-poly-gangs.json](./159724-poly-gangs.json) |
 | Poly Impulse | 288073 | [288073-poly-impulse.json](./288073-poly-impulse.json) |
