@@ -3508,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Reforging: The Freelands | 171364 | [171364-age-of-reforging-the-freelands.json](./171364-age-of-reforging-the-freelands.json) |
 | Age of Respair | 350402 | [350402-age-of-respair.json](./350402-age-of-respair.json) |
 | Age of Rivals | 29383 | [29383-age-of-rivals.json](./29383-age-of-rivals.json) |
+| Age of Rust | 134283 | [134283-age-of-rust.json](./134283-age-of-rust.json) |
 | Age of Sail | 14229 | [14229-age-of-sail.json](./14229-age-of-sail.json) |
 | Age of Sail | 9430 | [9430-age-of-sail.json](./9430-age-of-sail.json) |
 | Age of Sail II | 9428 | [9428-age-of-sail-ii.json](./9428-age-of-sail-ii.json) |
