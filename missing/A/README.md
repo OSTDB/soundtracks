@@ -11835,6 +11835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assenizator | 355116 | [355116-assenizator.json](./355116-assenizator.json) |
 | Assessment | 323791 | [323791-assessment.json](./323791-assessment.json) |
 | Assessment Examination | 216284 | [216284-assessment-examination.json](./216284-assessment-examination.json) |
+| Asset Flip Simulator | 128848 | [128848-asset-flip-simulator.json](./128848-asset-flip-simulator.json) |
 | Assetflip Attorney | 333118 | [333118-assetflip-attorney.json](./333118-assetflip-attorney.json) |
 | Assetto Corsa | 5597 | [5597-assetto-corsa.json](./5597-assetto-corsa.json) |
 | Assetto Corsa Competizione | 171274 | [171274-assetto-corsa-competizione.json](./171274-assetto-corsa-competizione.json) |
