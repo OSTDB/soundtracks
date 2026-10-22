@@ -1134,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Mother Disgusts Me | 388801 | [388801-your-mother-disgusts-me.json](./388801-your-mother-disgusts-me.json) |
 | Your Otherworldly Harem | 235723 | [235723-your-otherworldly-harem.json](./235723-your-otherworldly-harem.json) |
 | Your Own Cozy Motel | 409729 | [409729-your-own-cozy-motel.json](./409729-your-own-cozy-motel.json) |
+| Your Own Reality | 141702 | [141702-your-own-reality.json](./141702-your-own-reality.json) |
 | Your Painting, Sir | 383657 | [383657-your-painting-sir.json](./383657-your-painting-sir.json) |
 | Your Party Died Again | 404990 | [404990-your-party-died-again.json](./404990-your-party-died-again.json) |
 | Your Personal Chill Apartment | 199365 | [199365-your-personal-chill-apartment.json](./199365-your-personal-chill-apartment.json) |
@@ -1300,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YTP All-Stars | 370903 | [370903-ytp-all-stars.json](./370903-ytp-all-stars.json) |
 | Yttrium | 316918 | [316918-yttrium.json](./316918-yttrium.json) |
 | Yu Crossing Animals | 219037 | [219037-yu-crossing-animals.json](./219037-yu-crossing-animals.json) |
+| Yu Escape / Monday | 141467 | [141467-yu-escape-monday.json](./141467-yu-escape-monday.json) |
 | Yu Hayami no American Kids: Eigo de Bikkuri | 293911 | [293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json](./293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json) |
 | Yu Hayami no American Kids: Eigo de Talk | 293913 | [293913-yu-hayami-no-american-kids-eigo-de-talk.json](./293913-yu-hayami-no-american-kids-eigo-de-talk.json) |
 | Yu Hayami no American Kids: Eigo de Tango | 293910 | [293910-yu-hayami-no-american-kids-eigo-de-tango.json](./293910-yu-hayami-no-american-kids-eigo-de-tango.json) |
