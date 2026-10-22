@@ -4941,6 +4941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben Bildim | 360447 | [360447-ben-bildim.json](./360447-ben-bildim.json) |
 | Ben Jordan: Paranormal Investigator | 127124 | [127124-ben-jordan-paranormal-investigator.json](./127124-ben-jordan-paranormal-investigator.json) |
 | Ben Jordan: Paranormal Investigator - Case 1: In Search of the Skunk-Ape | 78058 | [78058-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape.json](./78058-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape.json) |
+| Ben Jordan: Paranormal Investigator - Case 1: In Search of the Skunk-Ape - Deluxe Edition | 137510 | [137510-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape-deluxe-edition.json](./137510-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape-deluxe-edition.json) |
 | Ben Jordan: Paranormal Investigator - Case 2: The Lost Galleon of the Salton Sea | 71216 | [71216-ben-jordan-paranormal-investigator-case-2-the-lost-galleon-of-the-salton-sea.json](./71216-ben-jordan-paranormal-investigator-case-2-the-lost-galleon-of-the-salton-sea.json) |
 | Ben Jordan: Paranormal Investigator - Case 3: The Sorceress of Smailholm | 79117 | [79117-ben-jordan-paranormal-investigator-case-3-the-sorceress-of-smailholm.json](./79117-ben-jordan-paranormal-investigator-case-3-the-sorceress-of-smailholm.json) |
 | Ben Jordan: Paranormal Investigator - Case 4: Horror at Number 50 | 70981 | [70981-ben-jordan-paranormal-investigator-case-4-horror-at-number-50.json](./70981-ben-jordan-paranormal-investigator-case-4-horror-at-number-50.json) |
@@ -5782,6 +5783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Fight: Big Trouble in the Atlantic Ocean | 40233 | [40233-big-fight-big-trouble-in-the-atlantic-ocean.json](./40233-big-fight-big-trouble-in-the-atlantic-ocean.json) |
 | Big Flappy Tower vs. Tiny Square | 166806 | [166806-big-flappy-tower-vs-tiny-square.json](./166806-big-flappy-tower-vs-tiny-square.json) |
 | Big Flying Asteroid | 207675 | [207675-big-flying-asteroid.json](./207675-big-flying-asteroid.json) |
+| Big Four | 137501 | [137501-big-four.json](./137501-big-four.json) |
 | Big Game Bundle 10-in-1 | 380189 | [380189-big-game-bundle-10-in-1.json](./380189-big-game-bundle-10-in-1.json) |
 | Big Game Fishing | 12403 | [12403-big-game-fishing.json](./12403-big-game-fishing.json) |
 | Big Game Trophy Hunter | 94208 | [94208-big-game-trophy-hunter.json](./94208-big-game-trophy-hunter.json) |
@@ -6843,6 +6845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black & White | 376747 | [376747-black-and-white.json](./376747-black-and-white.json) |
 | Black & White 2 | 1921 | [1921-black-and-white-2.json](./1921-black-and-white-2.json) |
 | Black & White Creatures | 323208 | [323208-black-and-white-creatures.json](./323208-black-and-white-creatures.json) |
+| Black & White Deluxe | 137509 | [137509-black-and-white-deluxe.json](./137509-black-and-white-deluxe.json) |
 | Black & White Lite | 295164 | [295164-black-and-white-lite.json](./295164-black-and-white-lite.json) |
 | Black & White: Creature Isle | 1922 | [1922-black-and-white-creature-isle.json](./1922-black-and-white-creature-isle.json) |
 | Black 9 | 369716 | [369716-black-9.json](./369716-black-9.json) |
