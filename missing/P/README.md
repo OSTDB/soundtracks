@@ -10193,6 +10193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postman Pat and the Greendale Rocket | 49477 | [49477-postman-pat-and-the-greendale-rocket.json](./49477-postman-pat-and-the-greendale-rocket.json) |
 | Postman Pat: Special Delivery Service | 67618 | [67618-postman-pat-special-delivery-service.json](./67618-postman-pat-special-delivery-service.json) |
 | Postman Simon | 179354 | [179354-postman-simon.json](./179354-postman-simon.json) |
+| Postmaster Legacy | 148817 | [148817-postmaster-legacy.json](./148817-postmaster-legacy.json) |
 | Postmortem Hero | 184111 | [184111-postmortem-hero.json](./184111-postmortem-hero.json) |
 | Postmortem: One must Die | 10715 | [10715-postmortem-one-must-die.json](./10715-postmortem-one-must-die.json) |
 | Postmortem: One Must Die (Extended Cut) | 30257 | [30257-postmortem-one-must-die-extended-cut.json](./30257-postmortem-one-must-die-extended-cut.json) |
