@@ -7550,6 +7550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Journey | 219109 | [219109-classic-journey.json](./219109-classic-journey.json) |
 | Classic Journey: Nitro | 219175 | [219175-classic-journey-nitro.json](./219175-classic-journey-nitro.json) |
 | Classic Kakuro | 206972 | [206972-classic-kakuro.json](./206972-classic-kakuro.json) |
+| Classic Kong | 134306 | [134306-classic-kong.json](./134306-classic-kong.json) |
 | Classic Mario World: The Magic Crystals | 191909 | [191909-classic-mario-world-the-magic-crystals.json](./191909-classic-mario-world-the-magic-crystals.json) |
 | Classic Max Lite | 359478 | [359478-classic-max-lite.json](./359478-classic-max-lite.json) |
 | Classic Muncher | 13496 | [13496-classic-muncher.json](./13496-classic-muncher.json) |
