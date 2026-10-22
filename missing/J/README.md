@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Bone | 177826 | [177826-jagged-bone.json](./177826-jagged-bone.json) |
 | Jaghund Armoured Organ Delivery Service | 329941 | [329941-jaghund-armoured-organ-delivery-service.json](./329941-jaghund-armoured-organ-delivery-service.json) |
 | Jagot | 267393 | [267393-jagot.json](./267393-jagot.json) |
+| Jaguar Bomber | 138625 | [138625-jaguar-bomber.json](./138625-jaguar-bomber.json) |
 | Jaguar Drift Simulator | 104589 | [104589-jaguar-drift-simulator.json](./104589-jaguar-drift-simulator.json) |
 | Jaguar Suns | 333403 | [333403-jaguar-suns.json](./333403-jaguar-suns.json) |
 | Jaguar XJ220 | 5395 | [5395-jaguar-xj220.json](./5395-jaguar-xj220.json) |
