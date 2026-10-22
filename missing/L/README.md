@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L'Histoire de France Pour Les Nuls | 269633 | [269633-lhistoire-de-france-pour-les-nuls.json](./269633-lhistoire-de-france-pour-les-nuls.json) |
 | L'Île Archéo | 285119 | [285119-lile-archeo.json](./285119-lile-archeo.json) |
 | L'Impiccato in Italiano | 96042 | [96042-limpiccato-in-italiano.json](./96042-limpiccato-in-italiano.json) |
+| L'intrépide: Le Futur de L'imparfait | 145320 | [145320-lintrepide-le-futur-de-limparfait.json](./145320-lintrepide-le-futur-de-limparfait.json) |
 | L'Odyssée Sibérienne: Le Rêve Utile de Nicolas Vanier | 321859 | [321859-lodyssee-siberienne-le-reve-utile-de-nicolas-vanier.json](./321859-lodyssee-siberienne-le-reve-utile-de-nicolas-vanier.json) |
 | L@ve Once | 139450 | [139450-l-ve-once.json](./139450-l-ve-once.json) |
 | L00P | 255671 | [255671-l00p.json](./255671-l00p.json) |
