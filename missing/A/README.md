@@ -9564,6 +9564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Viper Phase 1 | 325894 | [325894-arcade-archives-viper-phase-1.json](./325894-arcade-archives-viper-phase-1.json) |
 | Arcade Archives: Volfied | 294820 | [294820-arcade-archives-volfied.json](./294820-arcade-archives-volfied.json) |
 | Arcade Archives: Vs. Balloon Fight | 68332 | [68332-arcade-archives-vs-balloon-fight.json](./68332-arcade-archives-vs-balloon-fight.json) |
+| Arcade Archives: Vs. Baseball | 147077 | [147077-arcade-archives-vs-baseball.json](./147077-arcade-archives-vs-baseball.json) |
 | Arcade Archives: vs. Battle City | 317219 | [317219-arcade-archives-vs-battle-city.json](./317219-arcade-archives-vs-battle-city.json) |
 | Arcade Archives: vs. Family Tennis | 328093 | [328093-arcade-archives-vs-family-tennis.json](./328093-arcade-archives-vs-family-tennis.json) |
 | Arcade Archives: Vs. Mahjong | 147100 | [147100-arcade-archives-vs-mahjong.json](./147100-arcade-archives-vs-mahjong.json) |
@@ -10579,6 +10580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armchair Commander | 267865 | [267865-armchair-commander.json](./267865-armchair-commander.json) |
 | Armchair Quarterback | 314037 | [314037-armchair-quarterback.json](./314037-armchair-quarterback.json) |
 | Armechgeddon | 238623 | [238623-armechgeddon.json](./238623-armechgeddon.json) |
+| Armed 7 DX | 147074 | [147074-armed-7-dx.json](./147074-armed-7-dx.json) |
 | Armed Against the Undead | 32898 | [32898-armed-against-the-undead.json](./32898-armed-against-the-undead.json) |
 | Armed Air Forces | 193945 | [193945-armed-air-forces.json](./193945-armed-air-forces.json) |
 | Armed Air Forces | 242683 | [242683-armed-air-forces.json](./242683-armed-air-forces.json) |
@@ -11821,6 +11823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterisk | 390189 | [390189-asterisk.json](./390189-asterisk.json) |
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
 | Asterism | 245712 | [245712-asterism.json](./245712-asterism.json) |
+| Asterism Basketball | 147071 | [147071-asterism-basketball.json](./147071-asterism-basketball.json) |
 | Asterism: Apex of War | 190088 | [190088-asterism-apex-of-war.json](./190088-asterism-apex-of-war.json) |
 | Asterius | 181723 | [181723-asterius.json](./181723-asterius.json) |
 | Asterix | 12242 | [12242-asterix.json](./12242-asterix.json) |
