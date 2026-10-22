@@ -10798,6 +10798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monastery of Mount Cinburron | 308388 | [308388-the-monastery-of-mount-cinburron.json](./308388-the-monastery-of-mount-cinburron.json) |
 | The Money Game | 48770 | [48770-the-money-game.json](./48770-the-money-game.json) |
 | The Money Man | 411544 | [411544-the-money-man.json](./411544-the-money-man.json) |
+| The MoneyMakers Rallye | 140433 | [140433-the-moneymakers-rallye.json](./140433-the-moneymakers-rallye.json) |
 | The Monitor Puzzle Kineko: Kinetic Connection | 41298 | [41298-the-monitor-puzzle-kineko-kinetic-connection.json](./41298-the-monitor-puzzle-kineko-kinetic-connection.json) |
 | The Monk | 268945 | [268945-the-monk.json](./268945-the-monk.json) |
 | The Monkey King: Flying Dojo | 341030 | [341030-the-monkey-king-flying-dojo.json](./341030-the-monkey-king-flying-dojo.json) |
@@ -16112,6 +16113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thy Dungeonman II | 135846 | [135846-thy-dungeonman-ii.json](./135846-thy-dungeonman-ii.json) |
 | Thy Flesh | 232837 | [232837-thy-flesh.json](./232837-thy-flesh.json) |
 | Thy Flesh Consumed | 396452 | [396452-thy-flesh-consumed.json](./396452-thy-flesh-consumed.json) |
+| Thy Flesh Turned into a Draft Excluder | 140430 | [140430-thy-flesh-turned-into-a-draft-excluder.json](./140430-thy-flesh-turned-into-a-draft-excluder.json) |
 | Thy Knights of Climbalot | 109675 | [109675-thy-knights-of-climbalot.json](./109675-thy-knights-of-climbalot.json) |
 | Thy Sword | 210447 | [210447-thy-sword.json](./210447-thy-sword.json) |
 | Thy Sword | 68320 | [68320-thy-sword.json](./68320-thy-sword.json) |
@@ -18285,6 +18287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Eden | 346609 | [346609-tiny-eden.json](./346609-tiny-eden.json) |
 | Tiny Escape | 392270 | [392270-tiny-escape.json](./392270-tiny-escape.json) |
 | Tiny Europe | 258033 | [258033-tiny-europe.json](./258033-tiny-europe.json) |
+| Tiny Fantasy | 140426 | [140426-tiny-fantasy.json](./140426-tiny-fantasy.json) |
 | Tiny Farm | 303143 | [303143-tiny-farm.json](./303143-tiny-farm.json) |
 | Tiny Farm: Remastered | 335817 | [335817-tiny-farm-remastered.json](./335817-tiny-farm-remastered.json) |
 | Tiny Fat Hero | 232144 | [232144-tiny-fat-hero.json](./232144-tiny-fat-hero.json) |
