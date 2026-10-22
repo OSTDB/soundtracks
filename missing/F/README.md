@@ -5749,6 +5749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappatron: Episode 4 (Chapters 11 - 13) | 168845 | [168845-flappatron-episode-4-chapters-11-13.json](./168845-flappatron-episode-4-chapters-11-13.json) |
 | Flappin Nutz | 27504 | [27504-flappin-nutz.json](./27504-flappin-nutz.json) |
 | FlapPing | 40718 | [40718-flapping.json](./40718-flapping.json) |
+| Flapping Over It | 100632 | [100632-flapping-over-it.json](./100632-flapping-over-it.json) |
 | FlapPlane | 137573 | [137573-flapplane.json](./137573-flapplane.json) |
 | Flapple Bird | 222746 | [222746-flapple-bird.json](./222746-flapple-bird.json) |
 | Flappy | 195527 | [195527-flappy.json](./195527-flappy.json) |
@@ -6147,6 +6148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flinch | 82338 | [82338-flinch.json](./82338-flinch.json) |
 | Fling | 93541 | [93541-fling.json](./93541-fling.json) |
 | Fling D'Block | 239754 | [239754-fling-dblock.json](./239754-fling-dblock.json) |
+| Fling Fighters | 100641 | [100641-fling-fighters.json](./100641-fling-fighters.json) |
 | Fling Friends | 373359 | [373359-fling-friends.json](./373359-fling-friends.json) |
 | Fling to the Finish | 116840 | [116840-fling-to-the-finish.json](./116840-fling-to-the-finish.json) |
 | Fling with a Tiefling | 322001 | [322001-fling-with-a-tiefling.json](./322001-fling-with-a-tiefling.json) |
