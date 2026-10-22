@@ -1915,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farland Story FX | 45953 | [45953-farland-story-fx.json](./45953-farland-story-fx.json) |
 | Farland Story: Daichi no Kizuna | 70455 | [70455-farland-story-daichi-no-kizuna.json](./70455-farland-story-daichi-no-kizuna.json) |
 | Farland Story: Shirogane no Tsubasa | 79121 | [79121-farland-story-shirogane-no-tsubasa.json](./79121-farland-story-shirogane-no-tsubasa.json) |
+| Farlanders | 144018 | [144018-farlanders.json](./144018-farlanders.json) |
 | Farlands | 236859 | [236859-farlands.json](./236859-farlands.json) |
 | Farlands Journey | 301337 | [301337-farlands-journey.json](./301337-farlands-journey.json) |
 | Farlands: First Landing | 244124 | [244124-farlands-first-landing.json](./244124-farlands-first-landing.json) |
@@ -4572,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Radiant Dawn | 1442 | [1442-fire-emblem-radiant-dawn.json](./1442-fire-emblem-radiant-dawn.json) |
 | Fire Emblem: Sacred Stones Plus | 229002 | [229002-fire-emblem-sacred-stones-plus.json](./229002-fire-emblem-sacred-stones-plus.json) |
 | Fire Emblem: Sacred Stones Reforged | 344571 | [344571-fire-emblem-sacred-stones-reforged.json](./344571-fire-emblem-sacred-stones-reforged.json) |
+| Fire Emblem: Scarlet Rising | 143986 | [143986-fire-emblem-scarlet-rising.json](./143986-fire-emblem-scarlet-rising.json) |
 | Fire Emblem: Seisen no Keifu | 1436 | [1436-fire-emblem-seisen-no-keifu.json](./1436-fire-emblem-seisen-no-keifu.json) |
 | Fire Emblem: Shadow Dragon | 1444 | [1444-fire-emblem-shadow-dragon.json](./1444-fire-emblem-shadow-dragon.json) |
 | Fire Emblem: Shadow Dragon and the Blade of Light - 30th Anniversary Edition | 140611 | [140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json](./140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json) |
@@ -6009,6 +6011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Masters: The Horizon Chase | 322121 | [322121-flight-masters-the-horizon-chase.json](./322121-flight-masters-the-horizon-chase.json) |
 | Flight of a Dragon | 270406 | [270406-flight-of-a-dragon.json](./270406-flight-of-a-dragon.json) |
 | Flight of Light | 52771 | [52771-flight-of-light.json](./52771-flight-of-light.json) |
+| Flight of Pigarus | 144017 | [144017-flight-of-pigarus.json](./144017-flight-of-pigarus.json) |
 | Flight of the Amazon Queen | 8789 | [8789-flight-of-the-amazon-queen.json](./8789-flight-of-the-amazon-queen.json) |
 | Flight of the Fireflies | 22339 | [22339-flight-of-the-fireflies.json](./22339-flight-of-the-fireflies.json) |
 | Flight of the Intruder | 12102 | [12102-flight-of-the-intruder.json](./12102-flight-of-the-intruder.json) |
@@ -7226,6 +7229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foqus | 46609 | [46609-foqus.json](./46609-foqus.json) |
 | For a Better Country | 121373 | [121373-for-a-better-country.json](./121373-for-a-better-country.json) |
 | For a Place by the Putrid Sea | 297600 | [297600-for-a-place-by-the-putrid-sea.json](./297600-for-a-place-by-the-putrid-sea.json) |
+| For a Vast Future | 144170 | [144170-for-a-vast-future.json](./144170-for-a-vast-future.json) |
 | For a Vast Future: Colour Palette 1 | 295703 | [295703-for-a-vast-future-colour-palette-1.json](./295703-for-a-vast-future-colour-palette-1.json) |
 | For a Vast Future: Colour Palette 10 | 295702 | [295702-for-a-vast-future-colour-palette-10.json](./295702-for-a-vast-future-colour-palette-10.json) |
 | For a Vast Future: Colour Palette 3 | 295704 | [295704-for-a-vast-future-colour-palette-3.json](./295704-for-a-vast-future-colour-palette-3.json) |
