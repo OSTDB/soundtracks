@@ -5933,6 +5933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Creature Zone VR: Welcome To Dystopia | 286069 | [286069-the-creature-zone-vr-welcome-to-dystopia.json](./286069-the-creature-zone-vr-welcome-to-dystopia.json) |
 | The Creature: Escape Room | 207538 | [207538-the-creature-escape-room.json](./207538-the-creature-escape-room.json) |
 | The Creeps! | 232581 | [232581-the-creeps.json](./232581-the-creeps.json) |
+| The Cremation of Sam McGee | 141717 | [141717-the-cremation-of-sam-mcgee.json](./141717-the-cremation-of-sam-mcgee.json) |
 | The Crevice | 275826 | [275826-the-crevice.json](./275826-the-crevice.json) |
 | The Crew 2: Deluxe Edition | 89836 | [89836-the-crew-2-deluxe-edition.json](./89836-the-crew-2-deluxe-edition.json) |
 | The Crew 2: Digital Deluxe Edition | 118708 | [118708-the-crew-2-digital-deluxe-edition.json](./118708-the-crew-2-digital-deluxe-edition.json) |
@@ -8956,6 +8957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King Cat Clicker | 312724 | [312724-the-king-cat-clicker.json](./312724-the-king-cat-clicker.json) |
 | The King in the Shades | 259852 | [259852-the-king-in-the-shades.json](./259852-the-king-in-the-shades.json) |
 | The King is Dead | 310792 | [310792-the-king-is-dead.json](./310792-the-king-is-dead.json) |
+| The king is gone | 141715 | [141715-the-king-is-gone.json](./141715-the-king-is-gone.json) |
 | The King is Watching | 282826 | [282826-the-king-is-watching.json](./282826-the-king-is-watching.json) |
 | The King is Watching | 366575 | [366575-the-king-is-watching.json](./366575-the-king-is-watching.json) |
 | The King is Watching: Crowns of History | 394315 | [394315-the-king-is-watching-crowns-of-history.json](./394315-the-king-is-watching-crowns-of-history.json) |
@@ -13585,6 +13587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tawashi | 128416 | [128416-the-tawashi.json](./128416-the-tawashi.json) |
 | The Teacher Is My Mistress | 97770 | [97770-the-teacher-is-my-mistress.json](./97770-the-teacher-is-my-mistress.json) |
 | The Tear | 115005 | [115005-the-tear.json](./115005-the-tear.json) |
+| The Tearoom | 141722 | [141722-the-tearoom.json](./141722-the-tearoom.json) |
 | The Technomancer | 9919 | [9919-the-technomancer.json](./9919-the-technomancer.json) |
 | The Teeth | 210650 | [210650-the-teeth.json](./210650-the-teeth.json) |
 | The Teletransport Smurf | 135833 | [135833-the-teletransport-smurf.json](./135833-the-teletransport-smurf.json) |
@@ -14829,6 +14832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher 3: Wild Hunt - Complete Edition: 10th Anniversary Edition | 372654 | [372654-the-witcher-3-wild-hunt-complete-edition-10th-anniversary-edition.json](./372654-the-witcher-3-wild-hunt-complete-edition-10th-anniversary-edition.json) |
 | The Witcher 3: Wild Hunt - New Quest 'Where the Cat and Wolf Play...' | 170449 | [170449-the-witcher-3-wild-hunt-new-quest-where-the-cat-and-wolf-play.json](./170449-the-witcher-3-wild-hunt-new-quest-where-the-cat-and-wolf-play.json) |
 | The Witcher 3: Wild Hunt - Songs of the Past | 403150 | [403150-the-witcher-3-wild-hunt-songs-of-the-past.json](./403150-the-witcher-3-wild-hunt-songs-of-the-past.json) |
+| The Witcher 3: Wild Hunt + Dark Souls III | 141472 | [141472-the-witcher-3-wild-hunt-dark-souls-iii.json](./141472-the-witcher-3-wild-hunt-dark-souls-iii.json) |
 | The Witcher Franchise Bundle | 154960 | [154960-the-witcher-franchise-bundle.json](./154960-the-witcher-franchise-bundle.json) |
 | The Witcher Remake | 220277 | [220277-the-witcher-remake.json](./220277-the-witcher-remake.json) |
 | The Witcher: Crimson Trail | 187249 | [187249-the-witcher-crimson-trail.json](./187249-the-witcher-crimson-trail.json) |
@@ -19018,6 +19022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toe to Toe: Party Games | 196237 | [196237-toe-to-toe-party-games.json](./196237-toe-to-toe-party-games.json) |
 | Toeic Test DS Training | 124095 | [124095-toeic-test-ds-training.json](./124095-toeic-test-ds-training.json) |
 | TOEIC Test: Jissen Tokkun | 65291 | [65291-toeic-test-jissen-tokkun.json](./65291-toeic-test-jissen-tokkun.json) |
+| TOEIC Test: Jissen Tokkun 2 | 141476 | [141476-toeic-test-jissen-tokkun-2.json](./141476-toeic-test-jissen-tokkun-2.json) |
 | ToeJam & Earl in Panic on Funkotron | 11123 | [11123-toejam-and-earl-in-panic-on-funkotron.json](./11123-toejam-and-earl-in-panic-on-funkotron.json) |
 | Toem | 118193 | [118193-toem.json](./118193-toem.json) |
 | Toem 2 | 325182 | [325182-toem-2.json](./325182-toem-2.json) |
