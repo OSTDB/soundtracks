@@ -2306,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food King | 384714 | [384714-fast-food-king.json](./384714-fast-food-king.json) |
 | Fast Food Manager | 147062 | [147062-fast-food-manager.json](./147062-fast-food-manager.json) |
 | Fast Food Manager 2 | 347719 | [347719-fast-food-manager-2.json](./347719-fast-food-manager-2.json) |
+| Fast Food Mania | 146613 | [146613-fast-food-mania.json](./146613-fast-food-mania.json) |
 | Fast Food Mania 3D | 152980 | [152980-fast-food-mania-3d.json](./152980-fast-food-mania-3d.json) |
 | Fast Food Never More | 127241 | [127241-fast-food-never-more.json](./127241-fast-food-never-more.json) |
 | Fast Food On The Beach! | 321333 | [321333-fast-food-on-the-beach.json](./321333-fast-food-on-the-beach.json) |
