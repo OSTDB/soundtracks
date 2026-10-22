@@ -5429,6 +5429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbit Rampage | 305331 | [305331-ribbit-rampage.json](./305331-ribbit-rampage.json) |
 | Ribbit Rogue | 320841 | [320841-ribbit-rogue.json](./320841-ribbit-rogue.json) |
 | Ribbit Up: Frog Climber | 348989 | [348989-ribbit-up-frog-climber.json](./348989-ribbit-up-frog-climber.json) |
+| Ribbiting Saga | 119366 | [119366-ribbiting-saga.json](./119366-ribbiting-saga.json) |
 | Ribbits | 341867 | [341867-ribbits.json](./341867-ribbits.json) |
 | Ribbits | 384081 | [384081-ribbits.json](./384081-ribbits.json) |
 | Ribbon of Green | 124672 | [124672-ribbon-of-green.json](./124672-ribbon-of-green.json) |
