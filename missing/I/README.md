@@ -1978,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immune Simulator Type Z | 265345 | [265345-immune-simulator-type-z.json](./265345-immune-simulator-type-z.json) |
 | Immunica | 385872 | [385872-immunica.json](./385872-immunica.json) |
 | Immunity | 126402 | [126402-immunity.json](./126402-immunity.json) |
+| Immunity Adventures | 148831 | [148831-immunity-adventures.json](./148831-immunity-adventures.json) |
 | Immunity of Sensibility | 184335 | [184335-immunity-of-sensibility.json](./184335-immunity-of-sensibility.json) |
 | Immunity Protocol | 401625 | [401625-immunity-protocol.json](./401625-immunity-protocol.json) |
 | Immunity Tales | 155967 | [155967-immunity-tales.json](./155967-immunity-tales.json) |
@@ -2209,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Hindsight | 179503 | [179503-in-hindsight.json](./179503-in-hindsight.json) |
 | In His Time | 246817 | [246817-in-his-time.json](./246817-in-his-time.json) |
 | In Hope Voiden | 350022 | [350022-in-hope-voiden.json](./350022-in-hope-voiden.json) |
+| In It Together | 148816 | [148816-in-it-together.json](./148816-in-it-together.json) |
 | In League | 103952 | [103952-in-league.json](./103952-in-league.json) |
 | In Light | 68278 | [68278-in-light.json](./68278-in-light.json) |
 | In Loving, Oblivion | 372761 | [372761-in-loving-oblivion.json](./372761-in-loving-oblivion.json) |
@@ -2790,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infection X | 260417 | [260417-infection-x.json](./260417-infection-x.json) |
 | Infection: Board Game | 147906 | [147906-infection-board-game.json](./147906-infection-board-game.json) |
 | Infection: Humanity's Last Gasp | 34907 | [34907-infection-humanitys-last-gasp.json](./34907-infection-humanitys-last-gasp.json) |
+| Infectious | 148939 | [148939-infectious.json](./148939-infectious.json) |
 | Infecto | 89934 | [89934-infecto.json](./89934-infecto.json) |
 | Infectonator | 200728 | [200728-infectonator.json](./200728-infectonator.json) |
 | Infectonator 2 | 95939 | [95939-infectonator-2.json](./95939-infectonator-2.json) |
@@ -2926,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Dash | 173800 | [173800-infinite-dash.json](./173800-infinite-dash.json) |
 | Infinite Dunamis | 39013 | [39013-infinite-dunamis.json](./39013-infinite-dunamis.json) |
 | Infinite Dungeon | 386473 | [386473-infinite-dungeon.json](./386473-infinite-dungeon.json) |
+| Infinite Dungeon Crawler | 148827 | [148827-infinite-dungeon-crawler.json](./148827-infinite-dungeon-crawler.json) |
 | Infinite Dungeon Crawler: The Abysmal Furnaces | 174535 | [174535-infinite-dungeon-crawler-the-abysmal-furnaces.json](./174535-infinite-dungeon-crawler-the-abysmal-furnaces.json) |
 | Infinite Dungeon Crawler: The Frozen Expanse | 170797 | [170797-infinite-dungeon-crawler-the-frozen-expanse.json](./170797-infinite-dungeon-crawler-the-frozen-expanse.json) |
 | Infinite Dungeon Crawler: The Infernal Dungeons | 155348 | [155348-infinite-dungeon-crawler-the-infernal-dungeons.json](./155348-infinite-dungeon-crawler-the-infernal-dungeons.json) |
@@ -4783,6 +4787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island 1979 | 119667 | [119667-island-1979.json](./119667-island-1979.json) |
 | Island 404 | 113564 | [113564-island-404.json](./113564-island-404.json) |
 | Island Adventure | 175769 | [175769-island-adventure.json](./175769-island-adventure.json) |
+| Island and Factories | 148821 | [148821-island-and-factories.json](./148821-island-and-factories.json) |
 | Island Assault | 195609 | [195609-island-assault.json](./195609-island-assault.json) |
 | Island Bender | 234346 | [234346-island-bender.json](./234346-island-bender.json) |
 | Island Berry | 188843 | [188843-island-berry.json](./188843-island-berry.json) |
