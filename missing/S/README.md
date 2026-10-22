@@ -2934,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scuba Brick | 247073 | [247073-scuba-brick.json](./247073-scuba-brick.json) |
 | Scuba Diver | 40744 | [40744-scuba-diver.json](./40744-scuba-diver.json) |
 | Scuba Diver | 40766 | [40766-scuba-diver.json](./40766-scuba-diver.json) |
+| Scuba Diver the Simulation | 143399 | [143399-scuba-diver-the-simulation.json](./143399-scuba-diver-the-simulation.json) |
 | Scuba Kidz | 92069 | [92069-scuba-kidz.json](./92069-scuba-kidz.json) |
 | Scubaman's Quest | 143459 | [143459-scubamans-quest.json](./143459-scubamans-quest.json) |
 | ScubaVenture: The Search For Pirate's Treasure | 77855 | [77855-scubaventure-the-search-for-pirates-treasure.json](./77855-scubaventure-the-search-for-pirates-treasure.json) |
@@ -3562,6 +3563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Pie | 345529 | [345529-secret-pie.json](./345529-secret-pie.json) |
 | Secret Pie: End Roll | 298024 | [298024-secret-pie-end-roll.json](./298024-secret-pie-end-roll.json) |
 | Secret Pie: Hidden Room | 255018 | [255018-secret-pie-hidden-room.json](./255018-secret-pie-hidden-room.json) |
+| Secret Ponchos: Most Wanted Edition | 143320 | [143320-secret-ponchos-most-wanted-edition.json](./143320-secret-ponchos-most-wanted-edition.json) |
 | Secret Puzzle Society | 321036 | [321036-secret-puzzle-society.json](./321036-secret-puzzle-society.json) |
 | Secret Quest | 41108 | [41108-secret-quest.json](./41108-secret-quest.json) |
 | Secret Reflections Collection | 201864 | [201864-secret-reflections-collection.json](./201864-secret-reflections-collection.json) |
@@ -7142,6 +7144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Tycoon | 162079 | [162079-shop-tycoon.json](./162079-shop-tycoon.json) |
 | Shop Tycoon | 284891 | [284891-shop-tycoon.json](./284891-shop-tycoon.json) |
 | Shop Tycoon the Boss | 103537 | [103537-shop-tycoon-the-boss.json](./103537-shop-tycoon-the-boss.json) |
+| Shop Tycoon: Prepare Your Wallet | 142673 | [142673-shop-tycoon-prepare-your-wallet.json](./142673-shop-tycoon-prepare-your-wallet.json) |
 | Shop-Like: The Rogue-Like Item Shop Experience | 250649 | [250649-shop-like-the-rogue-like-item-shop-experience.json](./250649-shop-like-the-rogue-like-item-shop-experience.json) |
 | Shopenkraft's Quantum Curiosities | 411501 | [411501-shopenkrafts-quantum-curiosities.json](./411501-shopenkrafts-quantum-curiosities.json) |
 | ShopFront | 348568 | [348568-shopfront.json](./348568-shopfront.json) |
@@ -9385,6 +9388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Girl Superstar | 88799 | [88799-ski-girl-superstar.json](./88799-ski-girl-superstar.json) |
 | Ski Hunt | 40796 | [40796-ski-hunt.json](./40796-ski-hunt.json) |
 | Ski Jump Challange 2024 | 280671 | [280671-ski-jump-challange-2024.json](./280671-ski-jump-challange-2024.json) |
+| Ski Jump Challenge | 143546 | [143546-ski-jump-challenge.json](./143546-ski-jump-challenge.json) |
 | Ski Jump International v2 | 342080 | [342080-ski-jump-international-v2.json](./342080-ski-jump-international-v2.json) |
 | Ski Jump International v3 | 186727 | [186727-ski-jump-international-v3.json](./186727-ski-jump-international-v3.json) |
 | Ski Jumping Pro | 112905 | [112905-ski-jumping-pro.json](./112905-ski-jumping-pro.json) |
@@ -21426,6 +21430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Chocolate: Miner 8AD 4SS | 162253 | [162253-strawberry-chocolate-miner-8ad-4ss.json](./162253-strawberry-chocolate-miner-8ad-4ss.json) |
 | Strawberry Jam | 159175 | [159175-strawberry-jam.json](./159175-strawberry-jam.json) |
 | Strawberry Magic | 186032 | [186032-strawberry-magic.json](./186032-strawberry-magic.json) |
+| Strawberry Nauts | 143386 | [143386-strawberry-nauts.json](./143386-strawberry-nauts.json) |
 | Strawberry Nauts: Complete Limited Edition | 172586 | [172586-strawberry-nauts-complete-limited-edition.json](./172586-strawberry-nauts-complete-limited-edition.json) |
 | Strawberry Note 3 | 343324 | [343324-strawberry-note-3.json](./343324-strawberry-note-3.json) |
 | Strawberry Park | 312732 | [312732-strawberry-park.json](./312732-strawberry-park.json) |
@@ -23381,6 +23386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Side Nightmare | 320886 | [320886-sunny-side-nightmare.json](./320886-sunny-side-nightmare.json) |
 | Sunny Side Up | 410498 | [410498-sunny-side-up.json](./410498-sunny-side-up.json) |
 | Sunny Smiles | 99422 | [99422-sunny-smiles.json](./99422-sunny-smiles.json) |
+| Sunny-Place | 142930 | [142930-sunny-place.json](./142930-sunny-place.json) |
 | Sunny-Place-3: Microgods | 241275 | [241275-sunny-place-3-microgods.json](./241275-sunny-place-3-microgods.json) |
 | SunnySide | 158994 | [158994-sunnyside.json](./158994-sunnyside.json) |
 | Sunnyside vs. the Eggies | 222797 | [222797-sunnyside-vs-the-eggies.json](./222797-sunnyside-vs-the-eggies.json) |
@@ -26722,6 +26728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sutopuri Nurie | 193783 | [193783-sutopuri-nurie.json](./193783-sutopuri-nurie.json) |
 | Sutte Hakkun | 356234 | [356234-sutte-hakkun.json](./356234-sutte-hakkun.json) |
 | Sutte Hakkun | 42541 | [42541-sutte-hakkun.json](./42541-sutte-hakkun.json) |
+| Sutte Hakkun GB | 142903 | [142903-sutte-hakkun-gb.json](./142903-sutte-hakkun-gb.json) |
 | Suugaku Riki-ou: Shokyuu Chuu-1 Level | 282046 | [282046-suugaku-riki-ou-shokyuu-chuu-1-level.json](./282046-suugaku-riki-ou-shokyuu-chuu-1-level.json) |
 | Suugaku Rikiou: Joukyuu Naka-3-Level | 145391 | [145391-suugaku-rikiou-joukyuu-naka-3-level.json](./145391-suugaku-rikiou-joukyuu-naka-3-level.json) |
 | Suuji Atta! | 266165 | [266165-suuji-atta.json](./266165-suuji-atta.json) |
