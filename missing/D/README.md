@@ -4127,6 +4127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sheol | 372838 | [372838-deep-sheol.json](./372838-deep-sheol.json) |
 | Deep Siren | 371010 | [371010-deep-siren.json](./371010-deep-siren.json) |
 | Deep Sky Derelicts | 54793 | [54793-deep-sky-derelicts.json](./54793-deep-sky-derelicts.json) |
+| Deep Sky Derelicts: Definitive Edition | 131855 | [131855-deep-sky-derelicts-definitive-edition.json](./131855-deep-sky-derelicts-definitive-edition.json) |
 | Deep Sky Derelicts: Station Life | 154419 | [154419-deep-sky-derelicts-station-life.json](./154419-deep-sky-derelicts-station-life.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
 | Deep Sleep | 380751 | [380751-deep-sleep.json](./380751-deep-sleep.json) |
@@ -8274,6 +8275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Garden | 309742 | [309742-distant-garden.json](./309742-distant-garden.json) |
 | Distant Guns: The Russo-Japanese War at Sea | 63179 | [63179-distant-guns-the-russo-japanese-war-at-sea.json](./63179-distant-guns-the-russo-japanese-war-at-sea.json) |
 | Distant Lands: Earendel | 335123 | [335123-distant-lands-earendel.json](./335123-distant-lands-earendel.json) |
+| Distant Memoraĵo | 131891 | [131891-distant-memorajo.json](./131891-distant-memorajo.json) |
 | Distant Nightmare | 37044 | [37044-distant-nightmare.json](./37044-distant-nightmare.json) |
 | Distant Oceanic Getaway | 298371 | [298371-distant-oceanic-getaway.json](./298371-distant-oceanic-getaway.json) |
 | Distant Paradise | 402858 | [402858-distant-paradise.json](./402858-distant-paradise.json) |
