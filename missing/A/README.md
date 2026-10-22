@@ -3317,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftermath | 215776 | [215776-aftermath.json](./215776-aftermath.json) |
 | Aftermath | 35770 | [35770-aftermath.json](./35770-aftermath.json) |
 | Aftermath | 380111 | [380111-aftermath.json](./380111-aftermath.json) |
+| Aftermath 1945 | 112083 | [112083-aftermath-1945.json](./112083-aftermath-1945.json) |
 | Aftermath Y2K | 41900 | [41900-aftermath-y2k.json](./41900-aftermath-y2k.json) |
 | Aftermath Z: Red Pine Lake | 380638 | [380638-aftermath-z-red-pine-lake.json](./380638-aftermath-z-red-pine-lake.json) |
 | Aftermoor | 121650 | [121650-aftermoor.json](./121650-aftermoor.json) |
@@ -4201,6 +4202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Flight Attendant Simulator VR | 236016 | [236016-airline-flight-attendant-simulator-vr.json](./236016-airline-flight-attendant-simulator-vr.json) |
 | Airline Manager | 206104 | [206104-airline-manager.json](./206104-airline-manager.json) |
 | Airline Manager 4 | 152471 | [152471-airline-manager-4.json](./152471-airline-manager-4.json) |
+| Airline Pilots | 112070 | [112070-airline-pilots.json](./112070-airline-pilots.json) |
 | Airline Simulator | 306760 | [306760-airline-simulator.json](./306760-airline-simulator.json) |
 | Airline Tycoon 2: Falcon Airlines | 9956 | [9956-airline-tycoon-2-falcon-airlines.json](./9956-airline-tycoon-2-falcon-airlines.json) |
 | Airline Tycoon 2: Falcon Lines | 52568 | [52568-airline-tycoon-2-falcon-lines.json](./52568-airline-tycoon-2-falcon-lines.json) |
@@ -10096,6 +10098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archgate: Pride & Accomplishment | 142106 | [142106-archgate-pride-and-accomplishment.json](./142106-archgate-pride-and-accomplishment.json) |
 | Archi-Tek | 262551 | [262551-archi-tek.json](./262551-archi-tek.json) |
 | Archibald 2 | 116985 | [116985-archibald-2.json](./116985-archibald-2.json) |
+| Archibald Applebrook's Abenteuer | 112058 | [112058-archibald-applebrooks-abenteuer.json](./112058-archibald-applebrooks-abenteuer.json) |
 | Archibald's Adventures | 33046 | [33046-archibalds-adventures.json](./33046-archibalds-adventures.json) |
 | Archie: Riverdale Rescue | 186060 | [186060-archie-riverdale-rescue.json](./186060-archie-riverdale-rescue.json) |
 | Archipel Logic Infinite | 310261 | [310261-archipel-logic-infinite.json](./310261-archipel-logic-infinite.json) |
@@ -11631,6 +11634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asonde Poker ga Tsuyoku Naru! Texas Hold 'Em | 144998 | [144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json](./144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json) |
 | Asonde Shogi ga Tsuyoku Naru! Ginsei Shogi DX | 83460 | [83460-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-dx.json](./83460-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-dx.json) |
 | Asonde Shogi ga Tsuyoku Naru!! Ginsei Shogi DS | 83443 | [83443-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-ds.json](./83443-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-ds.json) |
+| Aspect | 112059 | [112059-aspect.json](./112059-aspect.json) |
 | Aspect Heroes | 277331 | [277331-aspect-heroes.json](./277331-aspect-heroes.json) |
 | Aspect of Daedalus | 275207 | [275207-aspect-of-daedalus.json](./275207-aspect-of-daedalus.json) |
 | Aspectless One | 405547 | [405547-aspectless-one.json](./405547-aspectless-one.json) |
