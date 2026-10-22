@@ -4368,6 +4368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Residue: Final Cut | 30250 | [30250-residue-final-cut.json](./30250-residue-final-cut.json) |
 | Residuum | 239752 | [239752-residuum.json](./239752-residuum.json) |
 | Residuum | 373820 | [373820-residuum.json](./373820-residuum.json) |
+| Resigned | 154288 | [154288-resigned.json](./154288-resigned.json) |
 | Resilience | 185338 | [185338-resilience.json](./185338-resilience.json) |
 | Resilience | 273443 | [273443-resilience.json](./273443-resilience.json) |
 | Resilience 2043 | 369900 | [369900-resilience-2043.json](./369900-resilience-2043.json) |
