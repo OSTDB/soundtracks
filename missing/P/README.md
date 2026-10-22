@@ -3398,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perennial Dusk: Kinsenka | 326641 | [326641-perennial-dusk-kinsenka.json](./326641-perennial-dusk-kinsenka.json) |
 | Perennial Order | 149935 | [149935-perennial-order.json](./149935-perennial-order.json) |
 | Perestroika | 180293 | [180293-perestroika.json](./180293-perestroika.json) |
+| Perfect | 120049 | [120049-perfect.json](./120049-perfect.json) |
 | Perfect Ace 2: The Championships | 43247 | [43247-perfect-ace-2-the-championships.json](./43247-perfect-ace-2-the-championships.json) |
 | Perfect Ace: Pro Tournament Tennis | 67639 | [67639-perfect-ace-pro-tournament-tennis.json](./67639-perfect-ace-pro-tournament-tennis.json) |
 | Perfect Affection Plan: Cassiopeia | 168612 | [168612-perfect-affection-plan-cassiopeia.json](./168612-perfect-affection-plan-cassiopeia.json) |
@@ -3976,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pew Pew Gaem 3 | 326260 | [326260-pew-pew-gaem-3.json](./326260-pew-pew-gaem-3.json) |
 | Pew Pew Planet | 129479 | [129479-pew-pew-planet.json](./129479-pew-pew-planet.json) |
 | Pew Pew Pod | 65252 | [65252-pew-pew-pod.json](./65252-pew-pew-pod.json) |
+| Pew Pew Puzzle Defense | 120033 | [120033-pew-pew-puzzle-defense.json](./120033-pew-pew-puzzle-defense.json) |
 | Pew Pew Squad | 273440 | [273440-pew-pew-squad.json](./273440-pew-pew-squad.json) |
 | Pew Pew Zombies | 88300 | [88300-pew-pew-zombies.json](./88300-pew-pew-zombies.json) |
 | Pew-casso | 369387 | [369387-pew-casso.json](./369387-pew-casso.json) |
@@ -7053,6 +7055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plan it Green | 10703 | [10703-plan-it-green.json](./10703-plan-it-green.json) |
 | Plana Gravatatis | 135076 | [135076-plana-gravatatis.json](./135076-plana-gravatatis.json) |
 | Planar Conquest | 33335 | [33335-planar-conquest.json](./33335-planar-conquest.json) |
+| Planaris 2+ | 119996 | [119996-planaris-2.json](./119996-planaris-2.json) |
 | Planarity | 246117 | [246117-planarity.json](./246117-planarity.json) |
 | Planck | 92468 | [92468-planck.json](./92468-planck.json) |
 | Planckman | 359025 | [359025-planckman.json](./359025-planckman.json) |
@@ -9411,6 +9414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Memory: Furries 2 | 384065 | [384065-poly-memory-furries-2.json](./384065-poly-memory-furries-2.json) |
 | Poly Memory: Predators | 215332 | [215332-poly-memory-predators.json](./215332-poly-memory-predators.json) |
 | Poly Memory: Primates | 210878 | [210878-poly-memory-primates.json](./210878-poly-memory-primates.json) |
+| Poly Mole | 120034 | [120034-poly-mole.json](./120034-poly-mole.json) |
 | Poly Parkour | 215699 | [215699-poly-parkour.json](./215699-poly-parkour.json) |
 | Poly Party | 158664 | [158664-poly-party.json](./158664-poly-party.json) |
 | Poly Pirates | 149500 | [149500-poly-pirates.json](./149500-poly-pirates.json) |
@@ -14692,6 +14696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyrastak | 351757 | [351757-pyrastak.json](./351757-pyrastak.json) |
 | Pyratel | 308239 | [308239-pyratel.json](./308239-pyratel.json) |
 | Pyrates! | 176742 | [176742-pyrates.json](./176742-pyrates.json) |
+| Pyrax | 120020 | [120020-pyrax.json](./120020-pyrax.json) |
 | Pyre | 18822 | [18822-pyre.json](./18822-pyre.json) |
 | Pyreside Waltz | 236117 | [236117-pyreside-waltz.json](./236117-pyreside-waltz.json) |
 | Pyrite Heart | 17860 | [17860-pyrite-heart.json](./17860-pyrite-heart.json) |
