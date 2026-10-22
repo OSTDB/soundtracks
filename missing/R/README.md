@@ -3556,6 +3556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regulus: The Advent | 373720 | [373720-regulus-the-advent.json](./373720-regulus-the-advent.json) |
 | Regxkcd | 182864 | [182864-regxkcd.json](./182864-regxkcd.json) |
 | Rehab Friday: With Henry Huxley | 366625 | [366625-rehab-friday-with-henry-huxley.json](./366625-rehab-friday-with-henry-huxley.json) |
+| Rehabbers | 127596 | [127596-rehabbers.json](./127596-rehabbers.json) |
 | RehAIbilitation | 257561 | [257561-rehaibilitation.json](./257561-rehaibilitation.json) |
 | Rehaunted | 410924 | [410924-rehaunted.json](./410924-rehaunted.json) |
 | Reheat: The Rescue | 307419 | [307419-reheat-the-rescue.json](./307419-reheat-the-rescue.json) |
@@ -3963,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renegade | 255243 | [255243-renegade.json](./255243-renegade.json) |
 | Renegade | 255262 | [255262-renegade.json](./255262-renegade.json) |
 | Renegade Grounds: Episode 1 | 55508 | [55508-renegade-grounds-episode-1.json](./55508-renegade-grounds-episode-1.json) |
+| Renegade Grounds: Episode 2 | 127579 | [127579-renegade-grounds-episode-2.json](./127579-renegade-grounds-episode-2.json) |
 | Renegade Legion: Interceptor | 73333 | [73333-renegade-legion-interceptor.json](./73333-renegade-legion-interceptor.json) |
 | Renegade Ops: Coldstrike Campaign | 140394 | [140394-renegade-ops-coldstrike-campaign.json](./140394-renegade-ops-coldstrike-campaign.json) |
 | Renegade Ops: Reinforcement Pack | 140393 | [140393-renegade-ops-reinforcement-pack.json](./140393-renegade-ops-reinforcement-pack.json) |
@@ -8684,6 +8686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose of Longevity | 326822 | [326822-rose-of-longevity.json](./326822-rose-of-longevity.json) |
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
 | Rose Puzzle | 91097 | [91097-rose-puzzle.json](./91097-rose-puzzle.json) |
+| Rose Riddle 2: Werewolf Shadow | 127619 | [127619-rose-riddle-2-werewolf-shadow.json](./127619-rose-riddle-2-werewolf-shadow.json) |
 | Rose Riddle: Fairy Tale Detective - Collector's Edition | 343359 | [343359-rose-riddle-fairy-tale-detective-collectors-edition.json](./343359-rose-riddle-fairy-tale-detective-collectors-edition.json) |
 | Rose Seed Replica | 167381 | [167381-rose-seed-replica.json](./167381-rose-seed-replica.json) |
 | Rosebaker's Icy Treats | 55495 | [55495-rosebakers-icy-treats.json](./55495-rosebakers-icy-treats.json) |
@@ -9424,6 +9427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rules: Motel Horizon | 392128 | [392128-rules-motel-horizon.json](./392128-rules-motel-horizon.json) |
 | Rules! | 80537 | [80537-rules.json](./80537-rules.json) |
 | Ruling Horsestown | 357858 | [357858-ruling-horsestown.json](./357858-ruling-horsestown.json) |
+| Rum & Gun | 127620 | [127620-rum-and-gun.json](./127620-rum-and-gun.json) |
 | Rum N' Gold Royale | 306376 | [306376-rum-n-gold-royale.json](./306376-rum-n-gold-royale.json) |
 | Rum no Izumi Dungeon | 206551 | [206551-rum-no-izumi-dungeon.json](./206551-rum-no-izumi-dungeon.json) |
 | Rum Skulls | 294063 | [294063-rum-skulls.json](./294063-rum-skulls.json) |
