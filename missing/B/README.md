@@ -7335,6 +7335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Master | 414470 | [414470-blade-master.json](./414470-blade-master.json) |
 | Blade Mistress | 57888 | [57888-blade-mistress.json](./57888-blade-mistress.json) |
 | Blade of Acrimony | 114222 | [114222-blade-of-acrimony.json](./114222-blade-of-acrimony.json) |
+| Blade of Agony | 146593 | [146593-blade-of-agony.json](./146593-blade-of-agony.json) |
 | Blade of Chaos | 361454 | [361454-blade-of-chaos.json](./361454-blade-of-chaos.json) |
 | Blade of Chaos: Immortal Titan | 224093 | [224093-blade-of-chaos-immortal-titan.json](./224093-blade-of-chaos-immortal-titan.json) |
 | Blade of Darkness | 234658 | [234658-blade-of-darkness.json](./234658-blade-of-darkness.json) |
