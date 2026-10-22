@@ -2883,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeolus Fighter | 236797 | [236797-aeolus-fighter.json](./236797-aeolus-fighter.json) |
 | Aeolus Fighter 2 | 231827 | [231827-aeolus-fighter-2.json](./231827-aeolus-fighter-2.json) |
 | Aeolus Fighter 3 | 265585 | [265585-aeolus-fighter-3.json](./265585-aeolus-fighter-3.json) |
+| Aeon Alpha | 141071 | [141071-aeon-alpha.json](./141071-aeon-alpha.json) |
 | Aeon Blood | 169383 | [169383-aeon-blood.json](./169383-aeon-blood.json) |
 | Aeon Flux | 15847 | [15847-aeon-flux.json](./15847-aeon-flux.json) |
 | Aeon Flux | 80426 | [80426-aeon-flux.json](./80426-aeon-flux.json) |
@@ -3392,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Blocks | 379516 | [379516-age-of-blocks.json](./379516-age-of-blocks.json) |
 | Age of Booty | 9948 | [9948-age-of-booty.json](./9948-age-of-booty.json) |
 | Age of Booty: Tactics | 61332 | [61332-age-of-booty-tactics.json](./61332-age-of-booty-tactics.json) |
+| Age of Cards: Ra's Chess | 140837 | [140837-age-of-cards-ras-chess.json](./140837-age-of-cards-ras-chess.json) |
 | Age of Castles: Warlords | 35183 | [35183-age-of-castles-warlords.json](./35183-age-of-castles-warlords.json) |
 | Age of Chaos | 231979 | [231979-age-of-chaos.json](./231979-age-of-chaos.json) |
 | Age of Chaos: Legends | 193934 | [193934-age-of-chaos-legends.json](./193934-age-of-chaos-legends.json) |
