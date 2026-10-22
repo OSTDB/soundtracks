@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Perfect Day | 97271 | [97271-a-perfect-day.json](./97271-a-perfect-day.json) |
 | A Perfect Day for White Dolphin | 150480 | [150480-a-perfect-day-for-white-dolphin.json](./150480-a-perfect-day-for-white-dolphin.json) |
 | A Personal Nightmare | 41868 | [41868-a-personal-nightmare.json](./41868-a-personal-nightmare.json) |
+| A Pet Shop After Dark | 138081 | [138081-a-pet-shop-after-dark.json](./138081-a-pet-shop-after-dark.json) |
 | A Phone Found in Tall Grass | 245025 | [245025-a-phone-found-in-tall-grass.json](./245025-a-phone-found-in-tall-grass.json) |
 | A Piano Tale | 201677 | [201677-a-piano-tale.json](./201677-a-piano-tale.json) |
 | A Piece of Wish upon the Stars | 106410 | [106410-a-piece-of-wish-upon-the-stars.json](./106410-a-piece-of-wish-upon-the-stars.json) |
@@ -1263,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A320 | 14151 | [14151-a320.json](./14151-a320.json) |
 | A320 Airbus Vol. 2 | 14201 | [14201-a320-airbus-vol-2.json](./14201-a320-airbus-vol-2.json) |
 | A320 Airbus: Edition USA | 14595 | [14595-a320-airbus-edition-usa.json](./14595-a320-airbus-edition-usa.json) |
+| A340-500/600 Expansion pack for FS2004/FSX | 138083 | [138083-a340-500-600-expansion-pack-for-fs2004-fsx.json](./138083-a340-500-600-expansion-pack-for-fs2004-fsx.json) |
 | A3P | 108819 | [108819-a3p.json](./108819-a3p.json) |
 | A6: A-Train 6 | 9997 | [9997-a6-a-train-6.json](./9997-a6-a-train-6.json) |
 | A7: Gateway Guardians | 377416 | [377416-a7-gateway-guardians.json](./377416-a7-gateway-guardians.json) |
@@ -2394,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Admirals of Ophiuchus | 379559 | [379559-admirals-of-ophiuchus.json](./379559-admirals-of-ophiuchus.json) |
 | Adohiinage | 345439 | [345439-adohiinage.json](./345439-adohiinage.json) |
 | Adolfish | 185014 | [185014-adolfish.json](./185014-adolfish.json) |
+| ADOM II | 138068 | [138068-adom-ii.json](./138068-adom-ii.json) |
 | ADOM: Ancient Domains of Mystery | 36159 | [36159-adom-ancient-domains-of-mystery.json](./36159-adom-ancient-domains-of-mystery.json) |
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
 | Adonis | 82358 | [82358-adonis.json](./82358-adonis.json) |
@@ -4092,6 +4095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Wars | 23535 | [23535-air-wars.json](./23535-air-wars.json) |
 | Air Wars | 336561 | [336561-air-wars.json](./336561-air-wars.json) |
 | Air Wars 2 | 97976 | [97976-air-wars-2.json](./97976-air-wars-2.json) |
+| Air Wars 3 | 137877 | [137877-air-wars-3.json](./137877-air-wars-3.json) |
 | Air Zonk | 42129 | [42129-air-zonk.json](./42129-air-zonk.json) |
 | Air-Sea Battle | 11859 | [11859-air-sea-battle.json](./11859-air-sea-battle.json) |
 | Air&Hook | 372643 | [372643-air-and-hook.json](./372643-air-and-hook.json) |
@@ -5805,6 +5809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Decay | 31707 | [31707-alpha-decay.json](./31707-alpha-decay.json) |
 | Alpha Dog | 120429 | [120429-alpha-dog.json](./120429-alpha-dog.json) |
 | Alpha Guns | 137675 | [137675-alpha-guns.json](./137675-alpha-guns.json) |
+| Alpha Guns 2 | 137869 | [137869-alpha-guns-2.json](./137869-alpha-guns-2.json) |
 | Alpha Invasion | 135584 | [135584-alpha-invasion.json](./135584-alpha-invasion.json) |
 | Alpha Kimori: Great Doubt - Episode One | 16874 | [16874-alpha-kimori-great-doubt-episode-one.json](./16874-alpha-kimori-great-doubt-episode-one.json) |
 | Alpha Kimori: Great Doubt - Episode Two | 82080 | [82080-alpha-kimori-great-doubt-episode-two.json](./82080-alpha-kimori-great-doubt-episode-two.json) |
@@ -7985,6 +7990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1404: History Edition | 135738 | [135738-anno-1404-history-edition.json](./135738-anno-1404-history-edition.json) |
 | Anno 1503: Royal Edition | 77223 | [77223-anno-1503-royal-edition.json](./77223-anno-1503-royal-edition.json) |
 | Anno 1602 A.D. | 180271 | [180271-anno-1602-a-d.json](./180271-anno-1602-a-d.json) |
+| Anno 1602: Creation of a New World - New Islands, New Adventure | 138084 | [138084-anno-1602-creation-of-a-new-world-new-islands-new-adventure.json](./138084-anno-1602-creation-of-a-new-world-new-islands-new-adventure.json) |
 | Anno 1602: Erschaffung einer Neuen Welt - Im Namen des Königs | 131277 | [131277-anno-1602-erschaffung-einer-neuen-welt-im-namen-des-konigs.json](./131277-anno-1602-erschaffung-einer-neuen-welt-im-namen-des-konigs.json) |
 | Anno 1602: History Edition | 136093 | [136093-anno-1602-history-edition.json](./136093-anno-1602-history-edition.json) |
 | Anno 1701 A.D.: Gold Edition | 180265 | [180265-anno-1701-a-d-gold-edition.json](./180265-anno-1701-a-d-gold-edition.json) |
@@ -13450,6 +13456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon | 229775 | [229775-avalon.json](./229775-avalon.json) |
 | Avalon | 23068 | [23068-avalon.json](./23068-avalon.json) |
 | Avalon | 269110 | [269110-avalon.json](./269110-avalon.json) |
+| Avalon / Dragontorc | 137854 | [137854-avalon-dragontorc.json](./137854-avalon-dragontorc.json) |
 | Avalon Code | 21206 | [21206-avalon-code.json](./21206-avalon-code.json) |
 | Avalon Crew | 386705 | [386705-avalon-crew.json](./386705-avalon-crew.json) |
 | Avalon Heroes | 63886 | [63886-avalon-heroes.json](./63886-avalon-heroes.json) |
