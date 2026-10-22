@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Nook | 364627 | [364627-fairy-nook.json](./364627-fairy-nook.json) |
 | Fairy of the treasures | 81823 | [81823-fairy-of-the-treasures.json](./81823-fairy-of-the-treasures.json) |
 | Fairy Orb: Magical Girl Aya & Yui | 82697 | [82697-fairy-orb-magical-girl-aya-and-yui.json](./82697-fairy-orb-magical-girl-aya-and-yui.json) |
+| Fairy Penguin Parade | 134916 | [134916-fairy-penguin-parade.json](./134916-fairy-penguin-parade.json) |
 | Fairy Picturebook of Hero and Sorceress | 113698 | [113698-fairy-picturebook-of-hero-and-sorceress.json](./113698-fairy-picturebook-of-hero-and-sorceress.json) |
 | Fairy Pinball: Yousei-tachi no Pinball | 41359 | [41359-fairy-pinball-yousei-tachi-no-pinball.json](./41359-fairy-pinball-yousei-tachi-no-pinball.json) |
 | Fairy Rush: Fly to Candyland | 200056 | [200056-fairy-rush-fly-to-candyland.json](./200056-fairy-rush-fly-to-candyland.json) |
@@ -1013,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Plus | 112514 | [112514-falling-plus.json](./112514-falling-plus.json) |
 | Falling Sand! | 146811 | [146811-falling-sand.json](./146811-falling-sand.json) |
 | Falling Sands Fast | 152038 | [152038-falling-sands-fast.json](./152038-falling-sands-fast.json) |
+| Falling Skies | 135084 | [135084-falling-skies.json](./135084-falling-skies.json) |
 | Falling Skies: The Game | 19644 | [19644-falling-skies-the-game.json](./19644-falling-skies-the-game.json) |
 | Falling Sky | 82888 | [82888-falling-sky.json](./82888-falling-sky.json) |
 | Falling Slime | 102315 | [102315-falling-slime.json](./102315-falling-slime.json) |
@@ -9899,6 +9901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frqncy | 105448 | [105448-frqncy.json](./105448-frqncy.json) |
 | Fru | 19917 | [19917-fru.json](./19917-fru.json) |
 | Fruboom | 315706 | [315706-fruboom.json](./315706-fruboom.json) |
+| Fruit | 134919 | [134919-fruit.json](./134919-fruit.json) |
 | Fruit Adventure | 214487 | [214487-fruit-adventure.json](./214487-fruit-adventure.json) |
 | Fruit Adventure Returns | 332531 | [332531-fruit-adventure-returns.json](./332531-fruit-adventure-returns.json) |
 | Fruit am I? | 229194 | [229194-fruit-am-i.json](./229194-fruit-am-i.json) |
