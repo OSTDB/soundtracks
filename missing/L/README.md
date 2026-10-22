@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Largo | 292285 | [292285-largo.json](./292285-largo.json) |
 | Largo Winch .// Commando SAR | 78290 | [78290-largo-winch-commando-sar.json](./78290-largo-winch-commando-sar.json) |
 | Largo Winch: Empire Under Threat | 3971 | [3971-largo-winch-empire-under-threat.json](./3971-largo-winch-empire-under-threat.json) |
+| Larkin building by Frank Lloyd Wright | 101272 | [101272-larkin-building-by-frank-lloyd-wright.json](./101272-larkin-building-by-frank-lloyd-wright.json) |
 | Larn | 2889 | [2889-larn.json](./2889-larn.json) |
 | Larry and the Long Look for a Luscious Lover | 195509 | [195509-larry-and-the-long-look-for-a-luscious-lover.json](./195509-larry-and-the-long-look-for-a-luscious-lover.json) |
 | Larry Bond's Harpoon 3: Advanced Naval Warfare | 130797 | [130797-larry-bonds-harpoon-3-advanced-naval-warfare.json](./130797-larry-bonds-harpoon-3-advanced-naval-warfare.json) |
