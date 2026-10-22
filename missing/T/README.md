@@ -2745,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teios' Journey | 347849 | [347849-teios-journey.json](./347849-teios-journey.json) |
 | Teisatsu | 196248 | [196248-teisatsu.json](./196248-teisatsu.json) |
 | Teisoukannen Zero: Yariman Kazoku to Hame Kurui Natsuyasumi | 82956 | [82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json](./82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json) |
+| Teitai Shoujo | 124454 | [124454-teitai-shoujo.json](./124454-teitai-shoujo.json) |
 | Tek-Kids Flash-Ops: Mission - Data Island | 70023 | [70023-tek-kids-flash-ops-mission-data-island.json](./70023-tek-kids-flash-ops-mission-data-island.json) |
 | Tek-Kids Flash-Ops: Mission - Polar Challenge | 71427 | [71427-tek-kids-flash-ops-mission-polar-challenge.json](./71427-tek-kids-flash-ops-mission-polar-challenge.json) |
 | Tek-Kids Flash-Ops: Mission - Sky Fortress | 69940 | [69940-tek-kids-flash-ops-mission-sky-fortress.json](./69940-tek-kids-flash-ops-mission-sky-fortress.json) |
@@ -4622,6 +4623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arab Republic of Taghia | 125681 | [125681-the-arab-republic-of-taghia.json](./125681-the-arab-republic-of-taghia.json) |
 | The Arcade Tower | 194373 | [194373-the-arcade-tower.json](./194373-the-arcade-tower.json) |
 | The Arcadia of Wulin | 155346 | [155346-the-arcadia-of-wulin.json](./155346-the-arcadia-of-wulin.json) |
+| The Arcana | 124469 | [124469-the-arcana.json](./124469-the-arcana.json) |
 | The Arcana: Dark Tarot & Kings of Madness | 389075 | [389075-the-arcana-dark-tarot-and-kings-of-madness.json](./389075-the-arcana-dark-tarot-and-kings-of-madness.json) |
 | The Arcana: Dark Tarot & Queens of Madness | 389077 | [389077-the-arcana-dark-tarot-and-queens-of-madness.json](./389077-the-arcana-dark-tarot-and-queens-of-madness.json) |
 | The Arcane Tower | 166744 | [166744-the-arcane-tower.json](./166744-the-arcane-tower.json) |
@@ -10793,6 +10795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Miracle Of San Martin | 416606 | [416606-the-miracle-of-san-martin.json](./416606-the-miracle-of-san-martin.json) |
 | The Mirage: Illusion of Wish | 25057 | [25057-the-mirage-illusion-of-wish.json](./25057-the-mirage-illusion-of-wish.json) |
 | The Mirrion | 345104 | [345104-the-mirrion.json](./345104-the-mirrion.json) |
+| The Mirror | 124488 | [124488-the-mirror.json](./124488-the-mirror.json) |
 | The Mirror Between Us | 191535 | [191535-the-mirror-between-us.json](./191535-the-mirror-between-us.json) |
 | The Mirror Circle | 382746 | [382746-the-mirror-circle.json](./382746-the-mirror-circle.json) |
 | The Mirror Dimension | 260655 | [260655-the-mirror-dimension.json](./260655-the-mirror-dimension.json) |
@@ -11056,7 +11059,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -13834,6 +13836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Throng | 335304 | [335304-the-throng.json](./335304-the-throng.json) |
 | The Thundermans: Dr. Colosso On The Run | 258358 | [258358-the-thundermans-dr-colosso-on-the-run.json](./258358-the-thundermans-dr-colosso-on-the-run.json) |
 | The Thundermans: Heroes & Villains Unite | 258310 | [258310-the-thundermans-heroes-and-villains-unite.json](./258310-the-thundermans-heroes-and-villains-unite.json) |
+| The Tiamat Sacrament | 124455 | [124455-the-tiamat-sacrament.json](./124455-the-tiamat-sacrament.json) |
 | The Tibble Super Action Challenge | 300543 | [300543-the-tibble-super-action-challenge.json](./300543-the-tibble-super-action-challenge.json) |
 | The Tick | 46594 | [46594-the-tick.json](./46594-the-tick.json) |
 | The Tick of Guilt | 180703 | [180703-the-tick-of-guilt.json](./180703-the-tick-of-guilt.json) |
@@ -19395,6 +19398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom and Jerry in Infurnal Escape | 8029 | [8029-tom-and-jerry-in-infurnal-escape.json](./8029-tom-and-jerry-in-infurnal-escape.json) |
 | Tom and Jerry in Mouse Attacks | 8033 | [8033-tom-and-jerry-in-mouse-attacks.json](./8033-tom-and-jerry-in-mouse-attacks.json) |
 | Tom and Jerry in War of the Whiskers | 2650 | [2650-tom-and-jerry-in-war-of-the-whiskers.json](./2650-tom-and-jerry-in-war-of-the-whiskers.json) |
+| Tom and Jerry Mobile | 124449 | [124449-tom-and-jerry-mobile.json](./124449-tom-and-jerry-mobile.json) |
 | Tom and Jerry Tales | 8027 | [8027-tom-and-jerry-tales.json](./8027-tom-and-jerry-tales.json) |
 | Tom and Jerry: Chase | 137415 | [137415-tom-and-jerry-chase.json](./137415-tom-and-jerry-chase.json) |
 | Tom and Jerry: Frantic Antics! | 307061 | [307061-tom-and-jerry-frantic-antics.json](./307061-tom-and-jerry-frantic-antics.json) |
@@ -19498,6 +19502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six: Vegas 2 | 1853 | [1853-tom-clancys-rainbow-six-vegas-2.json](./1853-tom-clancys-rainbow-six-vegas-2.json) |
 | Tom Clancy's Rainbow Six: Vegas 2 / Tom Clancy's Ghost Recon: Advanced Warfighter 2 | 130809 | [130809-tom-clancys-rainbow-six-vegas-2-tom-clancys-ghost-recon-advanced-warfighter-2.json](./130809-tom-clancys-rainbow-six-vegas-2-tom-clancys-ghost-recon-advanced-warfighter-2.json) |
 | Tom Clancy's Rainbow Six: Vegas Collection | 295251 | [295251-tom-clancys-rainbow-six-vegas-collection.json](./295251-tom-clancys-rainbow-six-vegas-collection.json) |
+| Tom Clancy's ShadowBreak | 124470 | [124470-tom-clancys-shadowbreak.json](./124470-tom-clancys-shadowbreak.json) |
 | Tom Clancy's Signature Collection | 53823 | [53823-tom-clancys-signature-collection.json](./53823-tom-clancys-signature-collection.json) |
 | Tom Clancy's Splinter Cell | 134350 | [134350-tom-clancys-splinter-cell.json](./134350-tom-clancys-splinter-cell.json) |
 | Tom Clancy's Splinter Cell | 90689 | [90689-tom-clancys-splinter-cell.json](./90689-tom-clancys-splinter-cell.json) |
