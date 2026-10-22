@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FairyLand | 413711 | [413711-fairyland.json](./413711-fairyland.json) |
 | Fairyland Melody Magic | 68055 | [68055-fairyland-melody-magic.json](./68055-fairyland-melody-magic.json) |
 | Fairyland Solitaire | 271083 | [271083-fairyland-solitaire.json](./271083-fairyland-solitaire.json) |
+| Fairyland: Fairylines | 111367 | [111367-fairyland-fairylines.json](./111367-fairyland-fairylines.json) |
 | Fairyland: Guild | 107689 | [107689-fairyland-guild.json](./107689-fairyland-guild.json) |
 | Fairyland: Incursion | 32301 | [32301-fairyland-incursion.json](./32301-fairyland-incursion.json) |
 | Fairyland: Manuscript | 51431 | [51431-fairyland-manuscript.json](./51431-fairyland-manuscript.json) |
