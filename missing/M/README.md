@@ -14759,6 +14759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplayer Wizards | 304820 | [304820-multiplayer-wizards.json](./304820-multiplayer-wizards.json) |
 | Multiplayer.Golf | 205657 | [205657-multiplayer-golf.json](./205657-multiplayer-golf.json) |
 | Multiple Territory War | 419202 | [419202-multiple-territory-war.json](./419202-multiple-territory-war.json) |
+| MultipleGamePack | 135544 | [135544-multiplegamepack.json](./135544-multiplegamepack.json) |
 | Multiplication Dragons | 103545 | [103545-multiplication-dragons.json](./103545-multiplication-dragons.json) |
 | Multiplication Mayhem | 277280 | [277280-multiplication-mayhem.json](./277280-multiplication-mayhem.json) |
 | Multiplications Asteroids: Math in Space Learning Series | 89518 | [89518-multiplications-asteroids-math-in-space-learning-series.json](./89518-multiplications-asteroids-math-in-space-learning-series.json) |
