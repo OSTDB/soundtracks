@@ -1199,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youtubers Life - Cooking Channel | 89533 | [89533-youtubers-life-cooking-channel.json](./89533-youtubers-life-cooking-channel.json) |
 | Youtubers Life: Gaming Channel | 88942 | [88942-youtubers-life-gaming-channel.json](./88942-youtubers-life-gaming-channel.json) |
 | Youtubers Life: OMG Edition | 111159 | [111159-youtubers-life-omg-edition.json](./111159-youtubers-life-omg-edition.json) |
+| Yóuxì Rénshēng: Xīnmó | 154332 | [154332-youxi-rensheng-xinmo.json](./154332-youxi-rensheng-xinmo.json) |
 | Youxing Continent | 326292 | [326292-youxing-continent.json](./326292-youxing-continent.json) |
 | Youyou Kengeki Musou | 137062 | [137062-youyou-kengeki-musou.json](./137062-youyou-kengeki-musou.json) |
 | Yowamushi Pedal Ashita he no Kou Kaiten | 222479 | [222479-yowamushi-pedal-ashita-he-no-kou-kaiten.json](./222479-yowamushi-pedal-ashita-he-no-kou-kaiten.json) |
