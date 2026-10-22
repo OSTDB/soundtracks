@@ -1642,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Chance | 16755 | [16755-once-chance.json](./16755-once-chance.json) |
 | Once Clover Died | 318845 | [318845-once-clover-died.json](./318845-once-clover-died.json) |
 | Once Ever After | 111467 | [111467-once-ever-after.json](./111467-once-ever-after.json) |
+| Once Heroes | 110031 | [110031-once-heroes.json](./110031-once-heroes.json) |
 | Once in a Blue Moon | 226163 | [226163-once-in-a-blue-moon.json](./226163-once-in-a-blue-moon.json) |
 | Once in a Lifetime | 209627 | [209627-once-in-a-lifetime.json](./209627-once-in-a-lifetime.json) |
 | Once in Flowerlake | 190188 | [190188-once-in-flowerlake.json](./190188-once-in-flowerlake.json) |
@@ -2328,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onironautilus: Oppression | 398352 | [398352-onironautilus-oppression.json](./398352-onironautilus-oppression.json) |
 | Onironautilus: Uncolored | 398351 | [398351-onironautilus-uncolored.json](./398351-onironautilus-uncolored.json) |
 | Onita Atsushi FMW | 38229 | [38229-onita-atsushi-fmw.json](./38229-onita-atsushi-fmw.json) |
+| Onitama | 110036 | [110036-onitama.json](./110036-onitama.json) |
 | Onitama | 183438 | [183438-onitama.json](./183438-onitama.json) |
 | Oniwaki Village | 331881 | [331881-oniwaki-village.json](./331881-oniwaki-village.json) |
 | Onizuka Katsuya Super Virtual Boxing: Shin Kentou-ou Densetsu | 44384 | [44384-onizuka-katsuya-super-virtual-boxing-shin-kentou-ou-densetsu.json](./44384-onizuka-katsuya-super-virtual-boxing-shin-kentou-ou-densetsu.json) |
@@ -2974,6 +2976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit Blade | 420004 | [420004-orbit-blade.json](./420004-orbit-blade.json) |
 | Orbit Drop | 120339 | [120339-orbit-drop.json](./120339-orbit-drop.json) |
 | Orbit Express | 258401 | [258401-orbit-express.json](./258401-orbit-express.json) |
+| Orbit Legends | 110029 | [110029-orbit-legends.json](./110029-orbit-legends.json) |
 | Orbit Maze | 347189 | [347189-orbit-maze.json](./347189-orbit-maze.json) |
 | Orbit of Death | 129423 | [129423-orbit-of-death.json](./129423-orbit-of-death.json) |
 | Orbit of Eternity | 364279 | [364279-orbit-of-eternity.json](./364279-orbit-of-eternity.json) |
@@ -4556,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ovivo | 29388 | [29388-ovivo.json](./29388-ovivo.json) |
 | OvO | 144109 | [144109-ovo.json](./144109-ovo.json) |
 | OVO Smash! | 69238 | [69238-ovo-smash.json](./69238-ovo-smash.json) |
+| Ovoid | 110030 | [110030-ovoid.json](./110030-ovoid.json) |
 | Ovorol | 345643 | [345643-ovorol.json](./345643-ovorol.json) |
 | OVR Dynamic Resolution | 319793 | [319793-ovr-dynamic-resolution.json](./319793-ovr-dynamic-resolution.json) |
 | Ovrdark: A Do Not Open Story | 258122 | [258122-ovrdark-a-do-not-open-story.json](./258122-ovrdark-a-do-not-open-story.json) |
