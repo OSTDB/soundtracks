@@ -5072,6 +5072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish to Dish: Idle Sushi | 344540 | [344540-fish-to-dish-idle-sushi.json](./344540-fish-to-dish-idle-sushi.json) |
 | Fish Tycoon | 29117 | [29117-fish-tycoon.json](./29117-fish-tycoon.json) |
 | Fish Tycoon | 88574 | [88574-fish-tycoon.json](./88574-fish-tycoon.json) |
+| Fish Tycoon 2: Virtual Aquarium | 101270 | [101270-fish-tycoon-2-virtual-aquarium.json](./101270-fish-tycoon-2-virtual-aquarium.json) |
 | Fish Upon a Star | 112287 | [112287-fish-upon-a-star.json](./112287-fish-upon-a-star.json) |
 | Fish Volleyball | 235178 | [235178-fish-volleyball.json](./235178-fish-volleyball.json) |
 | Fish vs. Crabs | 62806 | [62806-fish-vs-crabs.json](./62806-fish-vs-crabs.json) |
@@ -8485,6 +8486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Second Frenzy | 196796 | [196796-four-second-frenzy.json](./196796-four-second-frenzy.json) |
 | Four Sided Fantasy | 20104 | [20104-four-sided-fantasy.json](./20104-four-sided-fantasy.json) |
 | Four Smash Hits from Hewson | 97465 | [97465-four-smash-hits-from-hewson.json](./97465-four-smash-hits-from-hewson.json) |
+| Four Stories Below | 101308 | [101308-four-stories-below.json](./101308-four-stories-below.json) |
 | Four Trax | 46864 | [46864-four-trax.json](./46864-four-trax.json) |
 | Four Ways | 129702 | [129702-four-ways.json](./129702-four-ways.json) |
 | Four Ways: Block Puzzle | 131554 | [131554-four-ways-block-puzzle.json](./131554-four-ways-block-puzzle.json) |
@@ -9038,6 +9040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Strategy Chess Game | 349862 | [349862-free-strategy-chess-game.json](./349862-free-strategy-chess-game.json) |
 | Free Style | 359740 | [359740-free-style.json](./359740-free-style.json) |
 | Free SuDoKu | 71981 | [71981-free-sudoku.json](./71981-free-sudoku.json) |
+| Free the Animation | 101318 | [101318-free-the-animation.json](./101318-free-the-animation.json) |
 | Free the Bird | 319165 | [319165-free-the-bird.json](./319165-free-the-bird.json) |
 | Free the Blobs | 18428 | [18428-free-the-blobs.json](./18428-free-the-blobs.json) |
 | Free the Lazy Dogs | 258516 | [258516-free-the-lazy-dogs.json](./258516-free-the-lazy-dogs.json) |
@@ -9216,6 +9219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frequon Invaders | 73186 | [73186-frequon-invaders.json](./73186-frequon-invaders.json) |
 | Fresh Body | 30666 | [30666-fresh-body.json](./30666-fresh-body.json) |
 | Fresh Catch! | 346712 | [346712-fresh-catch.json](./346712-fresh-catch.json) |
+| Fresh Craft : Survival & Creative | 101292 | [101292-fresh-craft-survival-and-creative.json](./101292-fresh-craft-survival-and-creative.json) |
 | Fresh Food Merge | 397989 | [397989-fresh-food-merge.json](./397989-fresh-food-merge.json) |
 | Fresh Force Frustrations: A Gay Superhero Erotic Visual Novel | 258831 | [258831-fresh-force-frustrations-a-gay-superhero-erotic-visual-novel.json](./258831-fresh-force-frustrations-a-gay-superhero-erotic-visual-novel.json) |
 | Fresh Hops | 333232 | [333232-fresh-hops.json](./333232-fresh-hops.json) |
