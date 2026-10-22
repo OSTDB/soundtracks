@@ -2773,6 +2773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Woodwarf 2 | 118612 | [118612-castle-woodwarf-2.json](./118612-castle-woodwarf-2.json) |
 | Castle Wreck | 373638 | [373638-castle-wreck.json](./373638-castle-wreck.json) |
 | Castle: Daybreak | 166166 | [166166-castle-daybreak.json](./166166-castle-daybreak.json) |
+| Castle: Jigsaw Puzzles | 101394 | [101394-castle-jigsaw-puzzles.json](./101394-castle-jigsaw-puzzles.json) |
 | Castle: Never Judge a Book by its Cover | 17407 | [17407-castle-never-judge-a-book-by-its-cover.json](./17407-castle-never-judge-a-book-by-its-cover.json) |
 | Castle: The 3D Hidden Objects | 106344 | [106344-castle-the-3d-hidden-objects.json](./106344-castle-the-3d-hidden-objects.json) |
 | Castle's Adventure | 245542 | [245542-castles-adventure.json](./245542-castles-adventure.json) |
@@ -11477,6 +11478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Mansion | 167353 | [167353-corpse-mansion.json](./167353-corpse-mansion.json) |
 | Corpse Master | 250805 | [250805-corpse-master.json](./250805-corpse-master.json) |
 | Corpse Master Carnage | 277020 | [277020-corpse-master-carnage.json](./277020-corpse-master-carnage.json) |
+| Corpse Mob | 101279 | [101279-corpse-mob.json](./101279-corpse-mob.json) |
 | Corpse of Discovery | 11490 | [11490-corpse-of-discovery.json](./11490-corpse-of-discovery.json) |
 | Corpse Party | 11600 | [11600-corpse-party.json](./11600-corpse-party.json) |
 | Corpse Party | 178111 | [178111-corpse-party.json](./178111-corpse-party.json) |
@@ -11730,6 +11732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Shock Absorber | 13520 | [13520-cosmic-shock-absorber.json](./13520-cosmic-shock-absorber.json) |
 | Cosmic Slime Defense | 287202 | [287202-cosmic-slime-defense.json](./287202-cosmic-slime-defense.json) |
 | Cosmic Smash | 6729 | [6729-cosmic-smash.json](./6729-cosmic-smash.json) |
+| Cosmic Snake 8473/3671 | 101250 | [101250-cosmic-snake-8473-3671.json](./101250-cosmic-snake-8473-3671.json) |
 | Cosmic Soldier | 7544 | [7544-cosmic-soldier.json](./7544-cosmic-soldier.json) |
 | Cosmic Soldier 2: Psychic War | 62622 | [62622-cosmic-soldier-2-psychic-war.json](./62622-cosmic-soldier-2-psychic-war.json) |
 | Cosmic Spacehead | 374682 | [374682-cosmic-spacehead.json](./374682-cosmic-spacehead.json) |
