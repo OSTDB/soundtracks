@@ -3609,6 +3609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rejuvan | 302966 | [302966-rejuvan.json](./302966-rejuvan.json) |
 | Rekea: GOTY Edition | 181333 | [181333-rekea-goty-edition.json](./181333-rekea-goty-edition.json) |
 | Rekesh Gaal | 292232 | [292232-rekesh-gaal.json](./292232-rekesh-gaal.json) |
+| Rekindle | 155922 | [155922-rekindle.json](./155922-rekindle.json) |
 | Rekindle | 318709 | [318709-rekindle.json](./318709-rekindle.json) |
 | Rekindled | 404192 | [404192-rekindled.json](./404192-rekindled.json) |
 | Rekindled Trails | 342079 | [342079-rekindled-trails.json](./342079-rekindled-trails.json) |
@@ -5418,6 +5419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rick Shaw's Radical Rickshaw | 180685 | [180685-rick-shaws-radical-rickshaw.json](./180685-rick-shaws-radical-rickshaw.json) |
 | Rick's Konbini | 387647 | [387647-ricks-konbini.json](./387647-ricks-konbini.json) |
 | Rickdle | 396406 | [396406-rickdle.json](./396406-rickdle.json) |
+| Ricky Did Nothing Wrong | 155965 | [155965-ricky-did-nothing-wrong.json](./155965-ricky-did-nothing-wrong.json) |
 | Ricky Raccoon | 34666 | [34666-ricky-raccoon.json](./34666-ricky-raccoon.json) |
 | Ricky Recharge | 121593 | [121593-ricky-recharge.json](./121593-ricky-recharge.json) |
 | Ricky's Furry Duck Hunt | 255265 | [255265-rickys-furry-duck-hunt.json](./255265-rickys-furry-duck-hunt.json) |
@@ -6707,6 +6709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin Hood | 23575 | [23575-robin-hood.json](./23575-robin-hood.json) |
 | Robin Hood Legends | 104581 | [104581-robin-hood-legends.json](./104581-robin-hood-legends.json) |
 | Robin Hood: Forest Adventures | 394460 | [394460-robin-hood-forest-adventures.json](./394460-robin-hood-forest-adventures.json) |
+| Robin Hood: Hail to the King | 155964 | [155964-robin-hood-hail-to-the-king.json](./155964-robin-hood-hail-to-the-king.json) |
 | Robin Hood: Legend Quest | 12748 | [12748-robin-hood-legend-quest.json](./12748-robin-hood-legend-quest.json) |
 | Robin Hood: Prince of Thieves | 48088 | [48088-robin-hood-prince-of-thieves.json](./48088-robin-hood-prince-of-thieves.json) |
 | Robin Hood: Shadow of Nottingham | 298364 | [298364-robin-hood-shadow-of-nottingham.json](./298364-robin-hood-shadow-of-nottingham.json) |
@@ -7086,6 +7089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocco | 78015 | [78015-rocco.json](./78015-rocco.json) |
 | Rocco's Inferno | 197147 | [197147-roccos-inferno.json](./197147-roccos-inferno.json) |
 | Rocco's Island: Pocket Edition | 232321 | [232321-roccos-island-pocket-edition.json](./232321-roccos-island-pocket-edition.json) |
+| Roce's Journey | 155952 | [155952-roces-journey.json](./155952-roces-journey.json) |
 | Roch Island | 270695 | [270695-roch-island.json](./270695-roch-island.json) |
 | Roch Series | 270664 | [270664-roch-series.json](./270664-roch-series.json) |
 | Rocha's Golem | 156627 | [156627-rochas-golem.json](./156627-rochas-golem.json) |
@@ -7223,6 +7227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Arena: Season 3 | 144044 | [144044-rocket-arena-season-3.json](./144044-rocket-arena-season-3.json) |
 | Rocket Bits | 196311 | [196311-rocket-bits.json](./196311-rocket-bits.json) |
 | Rocket Boots Mania | 112218 | [112218-rocket-boots-mania.json](./112218-rocket-boots-mania.json) |
+| Rocket Bots | 155941 | [155941-rocket-bots.json](./155941-rocket-bots.json) |
 | Rocket Brown 2 | 317342 | [317342-rocket-brown-2.json](./317342-rocket-brown-2.json) |
 | Rocket Buddies | 410356 | [410356-rocket-buddies.json](./410356-rocket-buddies.json) |
 | Rocket Bunnies | 208387 | [208387-rocket-bunnies.json](./208387-rocket-bunnies.json) |
@@ -7709,6 +7714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Egg: Hatch Hero | 256170 | [256170-rogue-egg-hatch-hero.json](./256170-rogue-egg-hatch-hero.json) |
 | Rogue Elements | 421800 | [421800-rogue-elements.json](./421800-rogue-elements.json) |
 | Rogue Empire | 75077 | [75077-rogue-empire.json](./75077-rogue-empire.json) |
+| Rogue Explorer | 155935 | [155935-rogue-explorer.json](./155935-rogue-explorer.json) |
 | Rogue Fable II | 181247 | [181247-rogue-fable-ii.json](./181247-rogue-fable-ii.json) |
 | Rogue Fable III | 113389 | [113389-rogue-fable-iii.json](./113389-rogue-fable-iii.json) |
 | Rogue Fable IV | 280260 | [280260-rogue-fable-iv.json](./280260-rogue-fable-iv.json) |
