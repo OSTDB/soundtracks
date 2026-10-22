@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Baseball | 246277 | [246277-fantasy-baseball.json](./246277-fantasy-baseball.json) |
 | Fantasy Battles | 109762 | [109762-fantasy-battles.json](./109762-fantasy-battles.json) |
 | Fantasy Battles | 343604 | [343604-fantasy-battles.json](./343604-fantasy-battles.json) |
+| Fantasy Beast Football | 99372 | [99372-fantasy-beast-football.json](./99372-fantasy-beast-football.json) |
 | Fantasy Beauties | 301512 | [301512-fantasy-beauties.json](./301512-fantasy-beauties.json) |
 | Fantasy Beauties - All Girls Photo Pack | 310636 | [310636-fantasy-beauties-all-girls-photo-pack.json](./310636-fantasy-beauties-all-girls-photo-pack.json) |
 | Fantasy Beauties - Astrid Photo Pack | 310634 | [310634-fantasy-beauties-astrid-photo-pack.json](./310634-fantasy-beauties-astrid-photo-pack.json) |
@@ -2262,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FAS: Fight Action Sandbox | 243569 | [243569-fas-fight-action-sandbox.json](./243569-fas-fight-action-sandbox.json) |
 | Fasaria World Online | 34530 | [34530-fasaria-world-online.json](./34530-fasaria-world-online.json) |
 | Fasaria World: Ancients of Moons | 53051 | [53051-fasaria-world-ancients-of-moons.json](./53051-fasaria-world-ancients-of-moons.json) |
+| Fasaria World: Ancients of Moons + Server | 99444 | [99444-fasaria-world-ancients-of-moons-server.json](./99444-fasaria-world-ancients-of-moons-server.json) |
 | Fascination | 10793 | [10793-fascination.json](./10793-fascination.json) |
 | Fascination | 205658 | [205658-fascination.json](./205658-fascination.json) |
 | Fashion Advisor | 104551 | [104551-fashion-advisor.json](./104551-fashion-advisor.json) |
@@ -3407,6 +3409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 16 | 11071 | [11071-fifa-16.json](./11071-fifa-16.json) |
 | FIFA 17 | 240450 | [240450-fifa-17.json](./240450-fifa-17.json) |
 | FIFA 17: Deluxe Edition | 53044 | [53044-fifa-17-deluxe-edition.json](./53044-fifa-17-deluxe-edition.json) |
+| FIFA 18: Legacy Edition | 99480 | [99480-fifa-18-legacy-edition.json](./99480-fifa-18-legacy-edition.json) |
 | FIFA 19 | 240453 | [240453-fifa-19.json](./240453-fifa-19.json) |
 | FIFA 19 | 96209 | [96209-fifa-19.json](./96209-fifa-19.json) |
 | FIFA 19: Champions Edition | 103377 | [103377-fifa-19-champions-edition.json](./103377-fifa-19-champions-edition.json) |
@@ -4455,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Gravity | 253263 | [253263-finger-gravity.json](./253263-finger-gravity.json) |
 | Finger Guessing King | 169722 | [169722-finger-guessing-king.json](./169722-finger-guessing-king.json) |
 | Finger Is 300 Bugs | 242958 | [242958-finger-is-300-bugs.json](./242958-finger-is-300-bugs.json) |
+| Finger Jets: Phase Challenge | 99452 | [99452-finger-jets-phase-challenge.json](./99452-finger-jets-phase-challenge.json) |
 | Finger Maniac | 262351 | [262351-finger-maniac.json](./262351-finger-maniac.json) |
 | Finger Ninja | 82006 | [82006-finger-ninja.json](./82006-finger-ninja.json) |
 | Finger on the Roof! Go! Rooftop Runner! | 214568 | [214568-finger-on-the-roof-go-rooftop-runner.json](./214568-finger-on-the-roof-go-rooftop-runner.json) |
@@ -6302,6 +6306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipto | 348458 | [348458-flipto.json](./348458-flipto.json) |
 | Flipull | 172779 | [172779-flipull.json](./172779-flipull.json) |
 | Flipy | 233019 | [233019-flipy.json](./233019-flipy.json) |
+| Flipy's Tesla! Let's invent the future! | 99470 | [99470-flipys-tesla-lets-invent-the-future.json](./99470-flipys-tesla-lets-invent-the-future.json) |
 | Flipz | 249455 | [249455-flipz.json](./249455-flipz.json) |
 | Flirt | 130362 | [130362-flirt.json](./130362-flirt.json) |
 | Flirtatious | 171433 | [171433-flirtatious.json](./171433-flirtatious.json) |
@@ -6656,6 +6661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flunky | 15252 | [15252-flunky.json](./15252-flunky.json) |
 | Flunky Farm | 224250 | [224250-flunky-farm.json](./224250-flunky-farm.json) |
 | Flupp the Fish | 264040 | [264040-flupp-the-fish.json](./264040-flupp-the-fish.json) |
+| Flurius | 99441 | [99441-flurius.json](./99441-flurius.json) |
 | Flurry Words | 233100 | [233100-flurry-words.json](./233100-flurry-words.json) |
 | FlurryHurry! | 323522 | [323522-flurryhurry.json](./323522-flurryhurry.json) |
 | Flush It! | 235251 | [235251-flush-it.json](./235251-flush-it.json) |
@@ -7652,6 +7658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Lost in the Never Ending Museum of Still Life | 129603 | [129603-forever-lost-in-the-never-ending-museum-of-still-life.json](./129603-forever-lost-in-the-never-ending-museum-of-still-life.json) |
 | Forever Lost: Episode 1 SD | 101071 | [101071-forever-lost-episode-1-sd.json](./101071-forever-lost-episode-1-sd.json) |
 | Forever Lost: Episode 2 SD | 100336 | [100336-forever-lost-episode-2-sd.json](./100336-forever-lost-episode-2-sd.json) |
+| Forever Lost: Episode 3 SD | 99367 | [99367-forever-lost-episode-3-sd.json](./99367-forever-lost-episode-3-sd.json) |
 | Forever Night | 155673 | [155673-forever-night.json](./155673-forever-night.json) |
 | Forever Quester | 243957 | [243957-forever-quester.json](./243957-forever-quester.json) |
 | Forever Skies | 187096 | [187096-forever-skies.json](./187096-forever-skies.json) |
@@ -9025,6 +9032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Realms | 20279 | [20279-free-realms.json](./20279-free-realms.json) |
 | Free Realms: Sunrise | 141650 | [141650-free-realms-sunrise.json](./141650-free-realms-sunrise.json) |
 | Free Rider HD | 56392 | [56392-free-rider-hd.json](./56392-free-rider-hd.json) |
+| Free Road | 99464 | [99464-free-road.json](./99464-free-road.json) |
 | Free Royale | 137976 | [137976-free-royale.json](./137976-free-royale.json) |
 | Free Running | 4873 | [4873-free-running.json](./4873-free-running.json) |
 | Free Skies | 316175 | [316175-free-skies.json](./316175-free-skies.json) |
