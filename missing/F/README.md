@@ -7457,6 +7457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forefront | 335125 | [335125-forefront.json](./335125-forefront.json) |
 | Foregone | 116484 | [116484-foregone.json](./116484-foregone.json) |
 | Forehead Chip | 257939 | [257939-forehead-chip.json](./257939-forehead-chip.json) |
+| Foreign | 123837 | [123837-foreign.json](./123837-foreign.json) |
 | Foreign Affairs | 313850 | [313850-foreign-affairs.json](./313850-foreign-affairs.json) |
 | Foreign Body | 236549 | [236549-foreign-body.json](./236549-foreign-body.json) |
 | Foreign Galaxies | 196232 | [196232-foreign-galaxies.json](./196232-foreign-galaxies.json) |
@@ -10454,6 +10455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funnels and Buckets | 46644 | [46644-funnels-and-buckets.json](./46644-funnels-and-buckets.json) |
 | Funny Alphabet | 254065 | [254065-funny-alphabet.json](./254065-funny-alphabet.json) |
 | Funny AntiVirus TD | 128293 | [128293-funny-antivirus-td.json](./128293-funny-antivirus-td.json) |
+| Funny Archery | 123851 | [123851-funny-archery.json](./123851-funny-archery.json) |
 | Funny Balloon | 95633 | [95633-funny-balloon.json](./95633-funny-balloon.json) |
 | Funny Bird | 247538 | [247538-funny-bird.json](./247538-funny-bird.json) |
 | Funny Bubble | 40130 | [40130-funny-bubble.json](./40130-funny-bubble.json) |
