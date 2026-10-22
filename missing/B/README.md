@@ -996,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance Balls | 262438 | [262438-balance-balls.json](./262438-balance-balls.json) |
 | Balance Balls 2 | 262442 | [262442-balance-balls-2.json](./262442-balance-balls-2.json) |
 | Balance Helicopter | 233887 | [233887-balance-helicopter.json](./233887-balance-helicopter.json) |
+| Balance in the Mountains | 116039 | [116039-balance-in-the-mountains.json](./116039-balance-in-the-mountains.json) |
 | Balance It! | 408294 | [408294-balance-it.json](./408294-balance-it.json) |
 | Balance Knight | 197220 | [197220-balance-knight.json](./197220-balance-knight.json) |
 | Balance of Kingdoms | 66144 | [66144-balance-of-kingdoms.json](./66144-balance-of-kingdoms.json) |
@@ -5741,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bobby Car: The Big Race | 139861 | [139861-big-bobby-car-the-big-race.json](./139861-big-bobby-car-the-big-race.json) |
 | Big Boo's Haunt | 308230 | [308230-big-boos-haunt.json](./308230-big-boos-haunt.json) |
 | Big Boo's Revenge | 261431 | [261431-big-boos-revenge.json](./261431-big-boos-revenge.json) |
+| Big Boot Baseball | 116063 | [116063-big-boot-baseball.json](./116063-big-boot-baseball.json) |
 | Big Booty Adventures | 186312 | [186312-big-booty-adventures.json](./186312-big-booty-adventures.json) |
 | Big Boy Boxing | 145410 | [145410-big-boy-boxing.json](./145410-big-boy-boxing.json) |
 | Big Brave | 91440 | [91440-big-brave.json](./91440-big-brave.json) |
@@ -13643,6 +13645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Mazes | 324986 | [324986-bunny-mazes.json](./324986-bunny-mazes.json) |
 | Bunny Minesweeper | 106579 | [106579-bunny-minesweeper.json](./106579-bunny-minesweeper.json) |
 | Bunny on Rails | 298831 | [298831-bunny-on-rails.json](./298831-bunny-on-rails.json) |
+| Bunny Parking | 116064 | [116064-bunny-parking.json](./116064-bunny-parking.json) |
 | Bunny Pop 2: Beat the Wolf | 103890 | [103890-bunny-pop-2-beat-the-wolf.json](./103890-bunny-pop-2-beat-the-wolf.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
 | Bunny Quest | 143942 | [143942-bunny-quest.json](./143942-bunny-quest.json) |
