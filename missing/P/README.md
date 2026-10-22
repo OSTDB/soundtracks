@@ -9342,6 +9342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Políticos Memes Kombat | 273558 | [273558-politicos-memes-kombat.json](./273558-politicos-memes-kombat.json) |
 | Politics and War | 74269 | [74269-politics-and-war.json](./74269-politics-and-war.json) |
 | Politics The Game | 304903 | [304903-politics-the-game.json](./304903-politics-the-game.json) |
+| Polities | 118649 | [118649-polities.json](./118649-polities.json) |
 | Politiks | 391176 | [391176-politiks.json](./391176-politiks.json) |
 | PolitiTruth | 102065 | [102065-polititruth.json](./102065-polititruth.json) |
 | Politon | 259099 | [259099-politon.json](./259099-politon.json) |
@@ -13971,6 +13972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pushover | 327781 | [327781-pushover.json](./327781-pushover.json) |
 | PushOver | 267436 | [267436-pushover.json](./267436-pushover.json) |
 | Pushpully | 261222 | [261222-pushpully.json](./261222-pushpully.json) |
+| Pushtastic | 118621 | [118621-pushtastic.json](./118621-pushtastic.json) |
 | Pushy | 354009 | [354009-pushy.json](./354009-pushy.json) |
 | Pushy & Pully in Blockland | 112107 | [112107-pushy-and-pully-in-blockland.json](./112107-pushy-and-pully-in-blockland.json) |
 | Pushy II | 295992 | [295992-pushy-ii.json](./295992-pushy-ii.json) |
