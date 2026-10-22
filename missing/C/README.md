@@ -2353,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Roach: Fun Ninja Game | 175599 | [175599-cartoon-roach-fun-ninja-game.json](./175599-cartoon-roach-fun-ninja-game.json) |
 | Cartoon Toolbox Starring Felix the Cat | 144002 | [144002-cartoon-toolbox-starring-felix-the-cat.json](./144002-cartoon-toolbox-starring-felix-the-cat.json) |
 | Cartoon Tower Defense | 186568 | [186568-cartoon-tower-defense.json](./186568-cartoon-tower-defense.json) |
+| Cartoon Town: City Farm Building | 106343 | [106343-cartoon-town-city-farm-building.json](./106343-cartoon-town-city-farm-building.json) |
 | Cartoon Universe | 247576 | [247576-cartoon-universe.json](./247576-cartoon-universe.json) |
 | Cartoon Wars | 230784 | [230784-cartoon-wars.json](./230784-cartoon-wars.json) |
 | Cartoon Wars Blade | 369757 | [369757-cartoon-wars-blade.json](./369757-cartoon-wars-blade.json) |
@@ -2765,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Wreck | 373638 | [373638-castle-wreck.json](./373638-castle-wreck.json) |
 | Castle: Daybreak | 166166 | [166166-castle-daybreak.json](./166166-castle-daybreak.json) |
 | Castle: Never Judge a Book by its Cover | 17407 | [17407-castle-never-judge-a-book-by-its-cover.json](./17407-castle-never-judge-a-book-by-its-cover.json) |
+| Castle: The 3D Hidden Objects | 106344 | [106344-castle-the-3d-hidden-objects.json](./106344-castle-the-3d-hidden-objects.json) |
 | Castle's Adventure | 245542 | [245542-castles-adventure.json](./245542-castles-adventure.json) |
 | CastleAbra | 35334 | [35334-castleabra.json](./35334-castleabra.json) |
 | Castlebound | 335841 | [335841-castlebound.json](./335841-castlebound.json) |
@@ -6873,6 +6875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circles 2 by Powgi | 140420 | [140420-circles-2-by-powgi.json](./140420-circles-2-by-powgi.json) |
 | Circles by Powgi | 140413 | [140413-circles-by-powgi.json](./140413-circles-by-powgi.json) |
 | Circles of Hell | 96621 | [96621-circles-of-hell.json](./96621-circles-of-hell.json) |
+| Circles3 | 106293 | [106293-circles3.json](./106293-circles3.json) |
 | Circling | 304338 | [304338-circling.json](./304338-circling.json) |
 | Circlt | 57750 | [57750-circlt.json](./57750-circlt.json) |
 | Circo: Dark Story | 187167 | [187167-circo-dark-story.json](./187167-circo-dark-story.json) |
@@ -9788,6 +9791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combined Arms: World War II | 59523 | [59523-combined-arms-world-war-ii.json](./59523-combined-arms-world-war-ii.json) |
 | Combined_Arms | 143116 | [143116-combined-arms.json](./143116-combined-arms.json) |
 | Combined_Arms Gaiden | 143117 | [143117-combined-arms-gaiden.json](./143117-combined-arms-gaiden.json) |
+| Combiner the Card Game | 106327 | [106327-combiner-the-card-game.json](./106327-combiner-the-card-game.json) |
 | Combines.io | 327942 | [327942-combines-io.json](./327942-combines-io.json) |
 | CombiPark Tonde Mat | 289738 | [289738-combipark-tonde-mat.json](./289738-combipark-tonde-mat.json) |
 | Combo Babies | 167811 | [167811-combo-babies.json](./167811-combo-babies.json) |
