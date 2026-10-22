@@ -6988,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Magic | 300790 | [300790-black-magic.json](./300790-black-magic.json) |
 | Black Magic Gamebox | 192798 | [192798-black-magic-gamebox.json](./192798-black-magic-gamebox.json) |
 | Black Magnetic | 262560 | [262560-black-magnetic.json](./262560-black-magnetic.json) |
+| Black Mansion | 152704 | [152704-black-mansion.json](./152704-black-mansion.json) |
 | Black Maou & Rainbow Kingdom | 151285 | [151285-black-maou-and-rainbow-kingdom.json](./151285-black-maou-and-rainbow-kingdom.json) |
 | Black Maria Overdrive | 133740 | [133740-black-maria-overdrive.json](./133740-black-maria-overdrive.json) |
 | Black Market | 338243 | [338243-black-market.json](./338243-black-market.json) |
@@ -9124,6 +9125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blupimania | 137920 | [137920-blupimania.json](./137920-blupimania.json) |
 | Blur | 3235 | [3235-blur.json](./3235-blur.json) |
 | Blur time | 60790 | [60790-blur-time.json](./60790-blur-time.json) |
+| Bluravity | 152713 | [152713-bluravity.json](./152713-bluravity.json) |
 | Blured Angel | 161566 | [161566-blured-angel.json](./161566-blured-angel.json) |
 | Blurple Food Wars | 143412 | [143412-blurple-food-wars.json](./143412-blurple-food-wars.json) |
 | Blurred Weird Night | 150647 | [150647-blurred-weird-night.json](./150647-blurred-weird-night.json) |
