@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venova Adventure | 200002 | [200002-venova-adventure.json](./200002-venova-adventure.json) |
 | Vent Match: Tile Zen World | 223890 | [223890-vent-match-tile-zen-world.json](./223890-vent-match-tile-zen-world.json) |
 | Vent Vipers | 280106 | [280106-vent-vipers.json](./280106-vent-vipers.json) |
+| Venti Mesi | 146001 | [146001-venti-mesi.json](./146001-venti-mesi.json) |
 | Ventilate | 337305 | [337305-ventilate.json](./337305-ventilate.json) |
 | Ventilator | 57474 | [57474-ventilator.json](./57474-ventilator.json) |
 | Ventisette Voci | 328935 | [328935-ventisette-voci.json](./328935-ventisette-voci.json) |
@@ -2611,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Terrarium | 122721 | [122721-void-terrarium.json](./122721-void-terrarium.json) |
 | Void Terrarium: Limited Edition | 167108 | [167108-void-terrarium-limited-edition.json](./167108-void-terrarium-limited-edition.json) |
 | Void Terrarium++ | 143999 | [143999-void-terrarium.json](./143999-void-terrarium.json) |
+| Void Terrarium++: Deluxe Edition | 146162 | [146162-void-terrarium-deluxe-edition.json](./146162-void-terrarium-deluxe-edition.json) |
 | Void Titan | 220644 | [220644-void-titan.json](./220644-void-titan.json) |
 | Void Vanguard | 419331 | [419331-void-vanguard.json](./419331-void-vanguard.json) |
 | Void Vikings | 33573 | [33573-void-vikings.json](./33573-void-vikings.json) |
