@@ -1431,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Madness | 192330 | [192330-garden-madness.json](./192330-garden-madness.json) |
 | Garden Magic | 149334 | [149334-garden-magic.json](./149334-garden-magic.json) |
 | Garden Masters | 343295 | [343295-garden-masters.json](./343295-garden-masters.json) |
+| Garden Match | 134890 | [134890-garden-match.json](./134890-garden-match.json) |
 | Garden Maze | 246539 | [246539-garden-maze.json](./246539-garden-maze.json) |
 | Garden of Aiden | 295843 | [295843-garden-of-aiden.json](./295843-garden-of-aiden.json) |
 | Garden of Butterflies | 353283 | [353283-garden-of-butterflies.json](./353283-garden-of-butterflies.json) |
@@ -4598,6 +4599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God vs. Sin | 273595 | [273595-god-vs-sin.json](./273595-god-vs-sin.json) |
 | God Wars | 347325 | [347325-god-wars.json](./347325-god-wars.json) |
 | God Wars: Future Past | 25312 | [25312-god-wars-future-past.json](./25312-god-wars-future-past.json) |
+| God, I Hate Wasps | 135080 | [135080-god-i-hate-wasps.json](./135080-god-i-hate-wasps.json) |
 | God, Save the Queens! | 406682 | [406682-god-save-the-queens.json](./406682-god-save-the-queens.json) |
 | God: The Game | 264872 | [264872-god-the-game.json](./264872-god-the-game.json) |
 | God'n Spy Add-on: Power & Revolution 2023 Edition | 256989 | [256989-godn-spy-add-on-power-and-revolution-2023-edition.json](./256989-godn-spy-add-on-power-and-revolution-2023-edition.json) |
@@ -8052,6 +8054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Band Battle | 175729 | [175729-guitar-band-battle.json](./175729-guitar-band-battle.json) |
 | Guitar Band: Rock Battle | 299999 | [299999-guitar-band-rock-battle.json](./299999-guitar-band-rock-battle.json) |
 | Guitar Freaks V3 & DrumMania V3 | 78349 | [78349-guitar-freaks-v3-and-drummania-v3.json](./78349-guitar-freaks-v3-and-drummania-v3.json) |
+| Guitar Fretter | 134902 | [134902-guitar-fretter.json](./134902-guitar-fretter.json) |
 | Guitar Girl | 138548 | [138548-guitar-girl.json](./138548-guitar-girl.json) |
 | Guitar Girl Match 3 | 193930 | [193930-guitar-girl-match-3.json](./193930-guitar-girl-match-3.json) |
 | Guitar Hardness | 55784 | [55784-guitar-hardness.json](./55784-guitar-hardness.json) |
@@ -8309,6 +8312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunbrella: Deluxe Edition | 266822 | [266822-gunbrella-deluxe-edition.json](./266822-gunbrella-deluxe-edition.json) |
 | Gunbrick | 59838 | [59838-gunbrick.json](./59838-gunbrick.json) |
 | Gunbrick: Reloaded | 131982 | [131982-gunbrick-reloaded.json](./131982-gunbrick-reloaded.json) |
+| Gunbuds | 134895 | [134895-gunbuds.json](./134895-gunbuds.json) |
 | Gunbug | 336489 | [336489-gunbug.json](./336489-gunbug.json) |
 | Guncar Arena | 215585 | [215585-guncar-arena.json](./215585-guncar-arena.json) |
 | Guncaster | 142417 | [142417-guncaster.json](./142417-guncaster.json) |
@@ -8476,6 +8480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunparade Orchestra: Shiro no Shou | 64886 | [64886-gunparade-orchestra-shiro-no-shou.json](./64886-gunparade-orchestra-shiro-no-shou.json) |
 | Gunpey | 127045 | [127045-gunpey.json](./127045-gunpey.json) |
 | Gunpey | 1350 | [1350-gunpey.json](./1350-gunpey.json) |
+| Gunpig: Firepower For Hire | 134888 | [134888-gunpig-firepower-for-hire.json](./134888-gunpig-firepower-for-hire.json) |
 | Gunple: Gunman's Proof | 42590 | [42590-gunple-gunmans-proof.json](./42590-gunple-gunmans-proof.json) |
 | Gunpoint | 3242 | [3242-gunpoint.json](./3242-gunpoint.json) |
 | Gunpoint Gambit | 391036 | [391036-gunpoint-gambit.json](./391036-gunpoint-gambit.json) |
