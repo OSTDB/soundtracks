@@ -1693,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Brothers | 36372 | [36372-viking-brothers.json](./36372-viking-brothers.json) |
 | Viking Brothers 2 | 53872 | [53872-viking-brothers-2.json](./53872-viking-brothers-2.json) |
 | Viking Brothers 3 CE | 104452 | [104452-viking-brothers-3-ce.json](./104452-viking-brothers-3-ce.json) |
+| Viking Brothers III | 99458 | [99458-viking-brothers-iii.json](./99458-viking-brothers-iii.json) |
 | Viking Brothers IV | 99436 | [99436-viking-brothers-iv.json](./99436-viking-brothers-iv.json) |
 | Viking Brothers VI: Collector's Edition | 416149 | [416149-viking-brothers-vi-collectors-edition.json](./416149-viking-brothers-vi-collectors-edition.json) |
 | Viking City Tycoon | 317441 | [317441-viking-city-tycoon.json](./317441-viking-city-tycoon.json) |
