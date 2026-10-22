@@ -734,7 +734,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4239,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Weaver | 393657 | [393657-beat-weaver.json](./393657-beat-weaver.json) |
 | Beat Workers | 175133 | [175133-beat-workers.json](./175133-beat-workers.json) |
 | Beat Your Boss | 389743 | [389743-beat-your-boss.json](./389743-beat-your-boss.json) |
+| Beat Your Meat | 114107 | [114107-beat-your-meat.json](./114107-beat-your-meat.json) |
 | Beat, Heart, Beat | 322745 | [322745-beat-heart-beat.json](./322745-beat-heart-beat.json) |
 | Beat!: After the Summer - Another Season Episode | 241326 | [241326-beat-after-the-summer-another-season-episode.json](./241326-beat-after-the-summer-another-season-episode.json) |
 | Beat'n Groovy | 84325 | [84325-beatn-groovy.json](./84325-beatn-groovy.json) |
@@ -5599,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biathlon 2002 | 92911 | [92911-biathlon-2002.json](./92911-biathlon-2002.json) |
 | Biathlon 2003 | 56877 | [56877-biathlon-2003.json](./56877-biathlon-2003.json) |
 | Biathlon 2008 | 70651 | [70651-biathlon-2008.json](./70651-biathlon-2008.json) |
+| Biathlon Battle VR | 114088 | [114088-biathlon-battle-vr.json](./114088-biathlon-battle-vr.json) |
 | Biathlon Challenge | 346938 | [346938-biathlon-challenge.json](./346938-biathlon-challenge.json) |
 | Bibbidiba Fan Game | 338234 | [338234-bibbidiba-fan-game.json](./338234-bibbidiba-fan-game.json) |
 | Bibdu | 395855 | [395855-bibdu.json](./395855-bibdu.json) |
@@ -8963,6 +8964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossom Tales 2: The Minotaur Prince | 172489 | [172489-blossom-tales-2-the-minotaur-prince.json](./172489-blossom-tales-2-the-minotaur-prince.json) |
 | Blossom Voyage | 403740 | [403740-blossom-voyage.json](./403740-blossom-voyage.json) |
 | Blossom: La Jirafa Saga | 186496 | [186496-blossom-la-jirafa-saga.json](./186496-blossom-la-jirafa-saga.json) |
+| Blossoming Yandere | 114115 | [114115-blossoming-yandere.json](./114115-blossoming-yandere.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
 | Blow & Fly | 189358 | [189358-blow-and-fly.json](./189358-blow-and-fly.json) |
 | Blow Away | 244885 | [244885-blow-away.json](./244885-blow-away.json) |
