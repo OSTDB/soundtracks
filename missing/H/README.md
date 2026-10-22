@@ -8063,6 +8063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshizora Testudou to Shiro no Tabi | 147405 | [147405-hoshizora-testudou-to-shiro-no-tabi.json](./147405-hoshizora-testudou-to-shiro-no-tabi.json) |
 | Hospice | 55161 | [55161-hospice.json](./55161-hospice.json) |
 | Hospital | 261662 | [261662-hospital.json](./261662-hospital.json) |
+| Hospital 9 | 123818 | [123818-hospital-9.json](./123818-hospital-9.json) |
 | Hospital 9: Mai's Report | 174174 | [174174-hospital-9-mais-report.json](./174174-hospital-9-mais-report.json) |
 | Hospital 9: Puzzles | 163417 | [163417-hospital-9-puzzles.json](./163417-hospital-9-puzzles.json) |
 | Hospital Black River | 184961 | [184961-hospital-black-river.json](./184961-hospital-black-river.json) |
@@ -8543,6 +8544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House M.D.: Episode 4 - Crashed | 85175 | [85175-house-m-d-episode-4-crashed.json](./85175-house-m-d-episode-4-crashed.json) |
 | House Maid Asuka | 97368 | [97368-house-maid-asuka.json](./97368-house-maid-asuka.json) |
 | House Mansion Flipper | 330233 | [330233-house-mansion-flipper.json](./330233-house-mansion-flipper.json) |
+| House Number 666 | 123863 | [123863-house-number-666.json](./123863-house-number-666.json) |
 | House of 1000 Doors: Evil Inside | 116059 | [116059-house-of-1000-doors-evil-inside.json](./116059-house-of-1000-doors-evil-inside.json) |
 | House of 1000 Doors: Evil Inside - Collector's Edition | 273946 | [273946-house-of-1000-doors-evil-inside-collectors-edition.json](./273946-house-of-1000-doors-evil-inside-collectors-edition.json) |
 | House of 1000 Doors: Family Secrets | 36371 | [36371-house-of-1000-doors-family-secrets.json](./36371-house-of-1000-doors-family-secrets.json) |
