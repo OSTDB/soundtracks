@@ -2929,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Keeper | 312187 | [312187-ghost-keeper.json](./312187-ghost-keeper.json) |
 | Ghost Killer | 101398 | [101398-ghost-killer.json](./101398-ghost-killer.json) |
 | Ghost Killers: The Revenge of the Sucker-Fun | 235605 | [235605-ghost-killers-the-revenge-of-the-sucker-fun.json](./235605-ghost-killers-the-revenge-of-the-sucker-fun.json) |
+| Ghost Land | 120586 | [120586-ghost-land.json](./120586-ghost-land.json) |
 | Ghost legend | 289251 | [289251-ghost-legend.json](./289251-ghost-legend.json) |
 | Ghost Light | 310020 | [310020-ghost-light.json](./310020-ghost-light.json) |
 | Ghost Manor | 79976 | [79976-ghost-manor.json](./79976-ghost-manor.json) |
