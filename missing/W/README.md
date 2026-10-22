@@ -2312,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Love Katamari REROLL+ Royal Reverie: Special Edition | 251688 | [251688-we-love-katamari-reroll-royal-reverie-special-edition.json](./251688-we-love-katamari-reroll-royal-reverie-special-edition.json) |
 | We Love Mind Control Rocket | 358725 | [358725-we-love-mind-control-rocket.json](./358725-we-love-mind-control-rocket.json) |
 | We Met in May | 119482 | [119482-we-met-in-may.json](./119482-we-met-in-may.json) |
+| We Must Praise Our Glorious Leader the Flumf | 111403 | [111403-we-must-praise-our-glorious-leader-the-flumf.json](./111403-we-must-praise-our-glorious-leader-the-flumf.json) |
 | We Need an Army | 363952 | [363952-we-need-an-army.json](./363952-we-need-an-army.json) |
 | We Need More Guns | 277778 | [277778-we-need-more-guns.json](./277778-we-need-more-guns.json) |
 | We Need More Steam! | 282221 | [282221-we-need-more-steam.json](./282221-we-need-more-steam.json) |
@@ -3156,7 +3157,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -3486,6 +3486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whimel Academy | 275558 | [275558-whimel-academy.json](./275558-whimel-academy.json) |
 | Whimpact! | 378538 | [378538-whimpact.json](./378538-whimpact.json) |
 | Whimre | 252228 | [252228-whimre.json](./252228-whimre.json) |
+| Whimsical Quest | 111421 | [111421-whimsical-quest.json](./111421-whimsical-quest.json) |
 | Whimsy Bake ＆ Craft | 349469 | [349469-whimsy-bake-and-craft.json](./349469-whimsy-bake-and-craft.json) |
 | Whimsy Koi | 384307 | [384307-whimsy-koi.json](./384307-whimsy-koi.json) |
 | Whip Dummy Crash | 174902 | [174902-whip-dummy-crash.json](./174902-whip-dummy-crash.json) |
@@ -4226,6 +4227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildborn | 175665 | [175665-wildborn.json](./175665-wildborn.json) |
 | WildBorn | 398589 | [398589-wildborn.json](./398589-wildborn.json) |
 | Wildbound | 347711 | [347711-wildbound.json](./347711-wildbound.json) |
+| Wildbus | 111358 | [111358-wildbus.json](./111358-wildbus.json) |
 | Wildcard | 235086 | [235086-wildcard.json](./235086-wildcard.json) |
 | Wildcat Snack Attack | 338366 | [338366-wildcat-snack-attack.json](./338366-wildcat-snack-attack.json) |
 | Wildcatting | 42131 | [42131-wildcatting.json](./42131-wildcatting.json) |
@@ -4754,6 +4756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Games Collection | 324192 | [324192-winter-games-collection.json](./324192-winter-games-collection.json) |
 | Winter Games Collection + Advent Calendar | 357021 | [357021-winter-games-collection-advent-calendar.json](./357021-winter-games-collection-advent-calendar.json) |
 | Winter Gifts | 412164 | [412164-winter-gifts.json](./412164-winter-gifts.json) |
+| Winter Girls 2048 | 111366 | [111366-winter-girls-2048.json](./111366-winter-girls-2048.json) |
 | Winter Grae | 188827 | [188827-winter-grae.json](./188827-winter-grae.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
 | Winter Is... | 92389 | [92389-winter-is.json](./92389-winter-is.json) |
