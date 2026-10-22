@@ -4711,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Kart | 234205 | [234205-retro-kart.json](./234205-retro-kart.json) |
 | Retro League Racing | 296530 | [296530-retro-league-racing.json](./296530-retro-league-racing.json) |
 | Retro Life | 239785 | [239785-retro-life.json](./239785-retro-life.json) |
+| Retro Machina | 116020 | [116020-retro-machina.json](./116020-retro-machina.json) |
 | Retro Machina: Nucleonics | 159569 | [159569-retro-machina-nucleonics.json](./159569-retro-machina-nucleonics.json) |
 | Retro Meadow | 362759 | [362759-retro-meadow.json](./362759-retro-meadow.json) |
 | Retro Miami | 76505 | [76505-retro-miami.json](./76505-retro-miami.json) |
