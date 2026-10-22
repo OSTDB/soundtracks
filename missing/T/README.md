@@ -4272,6 +4272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventure of Amethyst Knight | 368028 | [368028-the-adventure-of-amethyst-knight.json](./368028-the-adventure-of-amethyst-knight.json) |
 | The Adventure of Hourai High School | 42549 | [42549-the-adventure-of-hourai-high-school.json](./42549-the-adventure-of-hourai-high-school.json) |
 | The Adventure of Little Ralph | 44856 | [44856-the-adventure-of-little-ralph.json](./44856-the-adventure-of-little-ralph.json) |
+| The Adventure of Nayu | 142651 | [142651-the-adventure-of-nayu.json](./142651-the-adventure-of-nayu.json) |
 | The Adventure of Ninomae Ina'nis | 321522 | [321522-the-adventure-of-ninomae-inanis.json](./321522-the-adventure-of-ninomae-inanis.json) |
 | The Adventure of Popo | 309948 | [309948-the-adventure-of-popo.json](./309948-the-adventure-of-popo.json) |
 | The Adventure Pals | 22359 | [22359-the-adventure-pals.json](./22359-the-adventure-pals.json) |
@@ -9303,6 +9304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Flower | 294869 | [294869-the-last-flower.json](./294869-the-last-flower.json) |
 | The last four | 216794 | [216794-the-last-four.json](./216794-the-last-four.json) |
 | The Last Frame | 385360 | [385360-the-last-frame.json](./385360-the-last-frame.json) |
+| The Last from Mars | 143528 | [143528-the-last-from-mars.json](./143528-the-last-from-mars.json) |
 | The Last Front | 98707 | [98707-the-last-front.json](./98707-the-last-front.json) |
 | The Last Galaxy | 109921 | [109921-the-last-galaxy.json](./109921-the-last-galaxy.json) |
 | The Last Game | 267253 | [267253-the-last-game.json](./267253-the-last-game.json) |
@@ -10696,6 +10698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mighty Quest for Epic Loot | 217796 | [217796-the-mighty-quest-for-epic-loot.json](./217796-the-mighty-quest-for-epic-loot.json) |
 | The Migrant | 199080 | [199080-the-migrant.json](./199080-the-migrant.json) |
 | The Migration | 176243 | [176243-the-migration.json](./176243-the-migration.json) |
+| The Mikado Birdgirl in Taichung | 142660 | [142660-the-mikado-birdgirl-in-taichung.json](./142660-the-mikado-birdgirl-in-taichung.json) |
 | The Mildew Children | 253605 | [253605-the-mildew-children.json](./253605-the-mildew-children.json) |
 | The Militant Mouse | 230886 | [230886-the-militant-mouse.json](./230886-the-militant-mouse.json) |
 | The Milk Lake | 211775 | [211775-the-milk-lake.json](./211775-the-milk-lake.json) |
@@ -12628,6 +12631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow Sun | 108496 | [108496-the-shadow-sun.json](./108496-the-shadow-sun.json) |
 | The Shadow Syndicate | 342265 | [342265-the-shadow-syndicate.json](./342265-the-shadow-syndicate.json) |
 | The Shadow Warrior Trilogy | 243065 | [243065-the-shadow-warrior-trilogy.json](./243065-the-shadow-warrior-trilogy.json) |
+| The Shadow You | 142657 | [142657-the-shadow-you.json](./142657-the-shadow-you.json) |
 | The Shadow's Terror | 257907 | [257907-the-shadows-terror.json](./257907-the-shadows-terror.json) |
 | The Shadowland | 32796 | [32796-the-shadowland.json](./32796-the-shadowland.json) |
 | The Shadows Lengthen | 190481 | [190481-the-shadows-lengthen.json](./190481-the-shadows-lengthen.json) |
@@ -12726,6 +12730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Signal VR | 360780 | [360780-the-signal-vr.json](./360780-the-signal-vr.json) |
 | The Signal: Stranded on Sirenis | 265499 | [265499-the-signal-stranded-on-sirenis.json](./265499-the-signal-stranded-on-sirenis.json) |
 | The Signifier: Deluxe Edition | 154550 | [154550-the-signifier-deluxe-edition.json](./154550-the-signifier-deluxe-edition.json) |
+| The Signifier: Director's Cut | 143404 | [143404-the-signifier-directors-cut.json](./143404-the-signifier-directors-cut.json) |
 | The Silence | 185625 | [185625-the-silence.json](./185625-the-silence.json) |
 | The Silence After | 361769 | [361769-the-silence-after.json](./361769-the-silence-after.json) |
 | The Silence of Darkness | 30186 | [30186-the-silence-of-darkness.json](./30186-the-silence-of-darkness.json) |
@@ -15380,6 +15385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Speak From The Abyss: Zenith | 252033 | [252033-they-speak-from-the-abyss-zenith.json](./252033-they-speak-from-the-abyss-zenith.json) |
 | They Started It | 181224 | [181224-they-started-it.json](./181224-they-started-it.json) |
 | They Stop for Gas at Night | 404445 | [404445-they-stop-for-gas-at-night.json](./404445-they-stop-for-gas-at-night.json) |
+| They Suspect Nothing: Overclocked | 143321 | [143321-they-suspect-nothing-overclocked.json](./143321-they-suspect-nothing-overclocked.json) |
 | They That Feast | 113036 | [113036-they-that-feast.json](./113036-they-that-feast.json) |
 | They Took the Sun | 358467 | [358467-they-took-the-sun.json](./358467-they-took-the-sun.json) |
 | They Walk Beyond | 386303 | [386303-they-walk-beyond.json](./386303-they-walk-beyond.json) |
