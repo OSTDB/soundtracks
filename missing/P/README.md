@@ -3745,6 +3745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Alien: An Intergalactic Puzzlepalooza | 8120 | [8120-pet-alien-an-intergalactic-puzzlepalooza.json](./8120-pet-alien-an-intergalactic-puzzlepalooza.json) |
 | Pet Buddies | 356732 | [356732-pet-buddies.json](./356732-pet-buddies.json) |
 | Pet Cam | 319272 | [319272-pet-cam.json](./319272-pet-cam.json) |
+| Pet Care | 115335 | [115335-pet-care.json](./115335-pet-care.json) |
 | Pet Cats, Save the World | 144236 | [144236-pet-cats-save-the-world.json](./144236-pet-cats-save-the-world.json) |
 | Pet Cemetery | 302710 | [302710-pet-cemetery.json](./302710-pet-cemetery.json) |
 | Pet City | 279638 | [279638-pet-city.json](./279638-pet-city.json) |
@@ -5378,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Xenon | 353267 | [353267-pinball-arcade-xenon.json](./353267-pinball-arcade-xenon.json) |
 | Pinball Big Splash | 147692 | [147692-pinball-big-splash.json](./147692-pinball-big-splash.json) |
 | Pinball Brain Damage | 69591 | [69591-pinball-brain-damage.json](./69591-pinball-brain-damage.json) |
+| Pinball Breaker | 115334 | [115334-pinball-breaker.json](./115334-pinball-breaker.json) |
 | Pinball Breaker 3 | 146686 | [146686-pinball-breaker-3.json](./146686-pinball-breaker-3.json) |
 | Pinball Breaker 4 | 146685 | [146685-pinball-breaker-4.json](./146685-pinball-breaker-4.json) |
 | Pinball Breaker V | 147357 | [147357-pinball-breaker-v.json](./147357-pinball-breaker-v.json) |
@@ -8195,6 +8197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poco's Maze Adventure | 319190 | [319190-pocos-maze-adventure.json](./319190-pocos-maze-adventure.json) |
 | Pocohontos | 225732 | [225732-pocohontos.json](./225732-pocohontos.json) |
 | Pocolon Dungeon | 98331 | [98331-pocolon-dungeon.json](./98331-pocolon-dungeon.json) |
+| Pocoman | 115342 | [115342-pocoman.json](./115342-pocoman.json) |
 | Pocoman: Green Machine Level Pack | 262944 | [262944-pocoman-green-machine-level-pack.json](./262944-pocoman-green-machine-level-pack.json) |
 | Pocoro | 80126 | [80126-pocoro.json](./80126-pocoro.json) |
 | Pocoyo | 230414 | [230414-pocoyo.json](./230414-pocoyo.json) |
