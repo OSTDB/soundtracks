@@ -11053,6 +11053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mushroom Season | 215228 | [215228-the-mushroom-season.json](./215228-the-mushroom-season.json) |
 | The Mushrooms' Happy New Year | 396193 | [396193-the-mushrooms-happy-new-year.json](./396193-the-mushrooms-happy-new-year.json) |
 | The Music Machine | 282793 | [282793-the-music-machine.json](./282793-the-music-machine.json) |
+| The Music Trivia Challenge | 106894 | [106894-the-music-trivia-challenge.json](./106894-the-music-trivia-challenge.json) |
 | The Musketeers: Victoria's Quest | 34759 | [34759-the-musketeers-victorias-quest.json](./34759-the-musketeers-victorias-quest.json) |
 | The Mutant Virus: "Crisis in a Computer World!" | 48196 | [48196-the-mutant-virus-crisis-in-a-computer-world.json](./48196-the-mutant-virus-crisis-in-a-computer-world.json) |
 | The Mute House | 239097 | [239097-the-mute-house.json](./239097-the-mute-house.json) |
@@ -11454,6 +11455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The other side: My own horror | 161402 | [161402-the-other-side-my-own-horror.json](./161402-the-other-side-my-own-horror.json) |
 | The Other Side: Tower of Souls | 53765 | [53765-the-other-side-tower-of-souls.json](./53765-the-other-side-tower-of-souls.json) |
 | The Other Side: Tower of Souls Remaster | 310066 | [310066-the-other-side-tower-of-souls-remaster.json](./310066-the-other-side-tower-of-souls-remaster.json) |
+| The Other World of Coraline | 106901 | [106901-the-other-world-of-coraline.json](./106901-the-other-world-of-coraline.json) |
 | The Other: Airi's Adventure | 113614 | [113614-the-other-airis-adventure.json](./113614-the-other-airis-adventure.json) |
 | The Other: Rosie's Road of Love | 147394 | [147394-the-other-rosies-road-of-love.json](./147394-the-other-rosies-road-of-love.json) |
 | The Others | 111429 | [111429-the-others.json](./111429-the-others.json) |
@@ -16043,6 +16045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrice in a row | 133176 | [133176-thrice-in-a-row.json](./133176-thrice-in-a-row.json) |
 | Thrice in a row: A new adventure | 153529 | [153529-thrice-in-a-row-a-new-adventure.json](./153529-thrice-in-a-row-a-new-adventure.json) |
 | Thrice in a row: Last Adventure | 213419 | [213419-thrice-in-a-row-last-adventure.json](./213419-thrice-in-a-row-last-adventure.json) |
+| Thrift Store Story | 106920 | [106920-thrift-store-story.json](./106920-thrift-store-story.json) |
 | Thrift Store Treasure: Hidden Objects | 417510 | [417510-thrift-store-treasure-hidden-objects.json](./417510-thrift-store-treasure-hidden-objects.json) |
 | Thriftgirl | 384818 | [384818-thriftgirl.json](./384818-thriftgirl.json) |
 | Thrill Drill | 391109 | [391109-thrill-drill.json](./391109-thrill-drill.json) |
@@ -21339,6 +21342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of the Mad Wizard | 251986 | [251986-tower-of-the-mad-wizard.json](./251986-tower-of-the-mad-wizard.json) |
 | Tower of the Sage | 195140 | [195140-tower-of-the-sage.json](./195140-tower-of-the-sage.json) |
 | Tower of the Sorceror | 202778 | [202778-tower-of-the-sorceror.json](./202778-tower-of-the-sorceror.json) |
+| Tower of the Wizard: Gameboy Adventure | 106886 | [106886-tower-of-the-wizard-gameboy-adventure.json](./106886-tower-of-the-wizard-gameboy-adventure.json) |
 | Tower of Titans | 375320 | [375320-tower-of-titans.json](./375320-tower-of-titans.json) |
 | Tower of Tori | 339289 | [339289-tower-of-tori.json](./339289-tower-of-tori.json) |
 | Tower of Traceability | 242955 | [242955-tower-of-traceability.json](./242955-tower-of-traceability.json) |
