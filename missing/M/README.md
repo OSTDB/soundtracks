@@ -1905,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make America Great Again | 36447 | [36447-make-america-great-again.json](./36447-make-america-great-again.json) |
 | Make America Great Again: The Trump Presidency | 31663 | [31663-make-america-great-again-the-trump-presidency.json](./31663-make-america-great-again-the-trump-presidency.json) |
 | Make Border Great Again! | 74345 | [74345-make-border-great-again.json](./74345-make-border-great-again.json) |
+| Make Butter Together! | 120013 | [120013-make-butter-together.json](./120013-make-butter-together.json) |
 | Make Candy | 175368 | [175368-make-candy.json](./175368-make-candy.json) |
 | Make Capybara Happy | 335248 | [335248-make-capybara-happy.json](./335248-make-capybara-happy.json) |
 | Make Dogs in Temple Jump 2020 | 257875 | [257875-make-dogs-in-temple-jump-2020.json](./257875-make-dogs-in-temple-jump-2020.json) |
@@ -15393,6 +15394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muteki Kyoujin Rozario kai | 377611 | [377611-muteki-kyoujin-rozario-kai.json](./377611-muteki-kyoujin-rozario-kai.json) |
 | Mutilate-a-Doll 2 | 95937 | [95937-mutilate-a-doll-2.json](./95937-mutilate-a-doll-2.json) |
 | Mutiny | 256879 | [256879-mutiny.json](./256879-mutiny.json) |
+| Mutiny Island | 120016 | [120016-mutiny-island.json](./120016-mutiny-island.json) |
 | MutoReRe | 85975 | [85975-mutorere.json](./85975-mutorere.json) |
 | Mutrix | 253449 | [253449-mutrix.json](./253449-mutrix.json) |
 | Mutsu Tonohohon | 4023 | [4023-mutsu-tonohohon.json](./4023-mutsu-tonohohon.json) |
