@@ -1279,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking to My Dad | 229016 | [229016-talking-to-my-dad.json](./229016-talking-to-my-dad.json) |
 | Talking Tom & Ben News | 214781 | [214781-talking-tom-and-ben-news.json](./214781-talking-tom-and-ben-news.json) |
 | Talking Tom 3 in Olympics | 315363 | [315363-talking-tom-3-in-olympics.json](./315363-talking-tom-3-in-olympics.json) |
+| Talking Tom Cake Jump | 105698 | [105698-talking-tom-cake-jump.json](./105698-talking-tom-cake-jump.json) |
 | Talking Tom Camp | 91217 | [91217-talking-tom-camp.json](./91217-talking-tom-camp.json) |
 | Talking Tom Candy Run | 107165 | [107165-talking-tom-candy-run.json](./107165-talking-tom-candy-run.json) |
 | Talking Tom Cat | 214349 | [214349-talking-tom-cat.json](./214349-talking-tom-cat.json) |
@@ -5684,6 +5685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chosen RPG | 146264 | [146264-the-chosen-rpg.json](./146264-the-chosen-rpg.json) |
 | The Chosen Warriors | 81229 | [81229-the-chosen-warriors.json](./81229-the-chosen-warriors.json) |
 | The Chosen: Well of Souls | 21228 | [21228-the-chosen-well-of-souls.json](./21228-the-chosen-well-of-souls.json) |
+| The Christmas Gifts | 105688 | [105688-the-christmas-gifts.json](./105688-the-christmas-gifts.json) |
 | The Christmas Pickle | 391279 | [391279-the-christmas-pickle.json](./391279-the-christmas-pickle.json) |
 | The Christmas Spirit: Golden Ticket | 187968 | [187968-the-christmas-spirit-golden-ticket.json](./187968-the-christmas-spirit-golden-ticket.json) |
 | The Christmas Spirit: Grimm Tales | 139430 | [139430-the-christmas-spirit-grimm-tales.json](./139430-the-christmas-spirit-grimm-tales.json) |
@@ -24384,6 +24386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TriggerHeart Exelica Enhanced | 348965 | [348965-triggerheart-exelica-enhanced.json](./348965-triggerheart-exelica-enhanced.json) |
 | Triggering Simulator | 129110 | [129110-triggering-simulator.json](./129110-triggering-simulator.json) |
 | Triggerman | 43555 | [43555-triggerman.json](./43555-triggerman.json) |
+| Triggerun | 105713 | [105713-triggerun.json](./105713-triggerun.json) |
 | Triggore | 182913 | [182913-triggore.json](./182913-triggore.json) |
 | Trigon: Space Story - Deluxe Edition | 227186 | [227186-trigon-space-story-deluxe-edition.json](./227186-trigon-space-story-deluxe-edition.json) |
 | Trigonal | 188097 | [188097-trigonal.json](./188097-trigonal.json) |
