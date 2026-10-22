@@ -6994,6 +6994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Cats and Pointed Hats | 71785 | [71785-black-cats-and-pointed-hats.json](./71785-black-cats-and-pointed-hats.json) |
 | Black Cauldron Remake | 319346 | [319346-black-cauldron-remake.json](./319346-black-cauldron-remake.json) |
 | Black Chapter | 156624 | [156624-black-chapter.json](./156624-black-chapter.json) |
+| Black Circle | 100032 | [100032-black-circle.json](./100032-black-circle.json) |
 | Black Circle | 9297 | [9297-black-circle.json](./9297-black-circle.json) |
 | Black Clover Mobile | 188401 | [188401-black-clover-mobile.json](./188401-black-clover-mobile.json) |
 | Black Clover: Infinite Knights | 122885 | [122885-black-clover-infinite-knights.json](./122885-black-clover-infinite-knights.json) |
@@ -9023,6 +9024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blowout & Cosmic Alphabet | 14325 | [14325-blowout-and-cosmic-alphabet.json](./14325-blowout-and-cosmic-alphabet.json) |
 | Blowup | 269109 | [269109-blowup.json](./269109-blowup.json) |
 | Blowup!! | 233246 | [233246-blowup.json](./233246-blowup.json) |
+| Blox | 100054 | [100054-blox.json](./100054-blox.json) |
 | Blox | 18322 | [18322-blox.json](./18322-blox.json) |
 | Blox 3D | 100146 | [100146-blox-3d.json](./100146-blox-3d.json) |
 | Blox 3D World | 196053 | [196053-blox-3d-world.json](./196053-blox-3d-world.json) |
@@ -10313,6 +10315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boon Boon | 119691 | [119691-boon-boon.json](./119691-boon-boon.json) |
 | Boondog | 242918 | [242918-boondog.json](./242918-boondog.json) |
 | Boong-Ga Boong-Ga | 58738 | [58738-boong-ga-boong-ga.json](./58738-boong-ga-boong-ga.json) |
+| Boong?!: Die ultimatiefe Fußballsimulation | 100056 | [100056-boong-die-ultimatiefe-fu-ballsimulation.json](./100056-boong-die-ultimatiefe-fu-ballsimulation.json) |
 | Boonka | 317386 | [317386-boonka.json](./317386-boonka.json) |
 | Boons Farm | 108043 | [108043-boons-farm.json](./108043-boons-farm.json) |
 | Booobjz | 157388 | [157388-booobjz.json](./157388-booobjz.json) |
@@ -10597,6 +10600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Botanicula: Collector's Edition | 186881 | [186881-botanicula-collectors-edition.json](./186881-botanicula-collectors-edition.json) |
 | Botanik | 129569 | [129569-botanik.json](./129569-botanik.json) |
 | Botaniki | 229673 | [229673-botaniki.json](./229673-botaniki.json) |
+| Boter, kaas en eieren | 100034 | [100034-boter-kaas-en-eieren.json](./100034-boter-kaas-en-eieren.json) |
 | Botfestation | 291305 | [291305-botfestation.json](./291305-botfestation.json) |
 | Both Barrels | 59782 | [59782-both-barrels.json](./59782-both-barrels.json) |
 | Boti: Byteland Overclocked | 221164 | [221164-boti-byteland-overclocked.json](./221164-boti-byteland-overclocked.json) |
@@ -12046,6 +12050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker Maker | 344515 | [344515-brick-breaker-maker.json](./344515-brick-breaker-maker.json) |
 | Brick Breaker Premium | 104081 | [104081-brick-breaker-premium.json](./104081-brick-breaker-premium.json) |
 | Brick Breaker Premium 2 | 100705 | [100705-brick-breaker-premium-2.json](./100705-brick-breaker-premium-2.json) |
+| Brick Breaker Premium 3 | 100031 | [100031-brick-breaker-premium-3.json](./100031-brick-breaker-premium-3.json) |
 | Brick Breaker Remix | 134930 | [134930-brick-breaker-remix.json](./134930-brick-breaker-remix.json) |
 | Brick Breaker Revolution | 383630 | [383630-brick-breaker-revolution.json](./383630-brick-breaker-revolution.json) |
 | Brick Breaker Ultimate | 65800 | [65800-brick-breaker-ultimate.json](./65800-brick-breaker-ultimate.json) |
