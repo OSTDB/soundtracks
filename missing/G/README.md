@@ -1042,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Puzzles: Dinosaurs | 148994 | [148994-game-of-puzzles-dinosaurs.json](./148994-game-of-puzzles-dinosaurs.json) |
 | Game Of Puzzles: Dragons | 248922 | [248922-game-of-puzzles-dragons.json](./248922-game-of-puzzles-dragons.json) |
 | Game of Puzzles: Slavic Mythology | 163415 | [163415-game-of-puzzles-slavic-mythology.json](./163415-game-of-puzzles-slavic-mythology.json) |
+| Game of Puzzles: Space | 129438 | [129438-game-of-puzzles-space.json](./129438-game-of-puzzles-space.json) |
 | Game of Roads | 174364 | [174364-game-of-roads.json](./174364-game-of-roads.json) |
 | Game of Rollink | 244662 | [244662-game-of-rollink.json](./244662-game-of-rollink.json) |
 | Game of Seven | 199468 | [199468-game-of-seven.json](./199468-game-of-seven.json) |
@@ -4397,6 +4398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobelinus: The Cursed Deck | 391718 | [391718-gobelinus-the-cursed-deck.json](./391718-gobelinus-the-cursed-deck.json) |
 | Gobernators: Parodia Política Peruana | 90570 | [90570-gobernators-parodia-politica-peruana.json](./90570-gobernators-parodia-politica-peruana.json) |
 | GoBlaster | 161898 | [161898-goblaster.json](./161898-goblaster.json) |
+| Goblet Cave | 129447 | [129447-goblet-cave.json](./129447-goblet-cave.json) |
 | Goblet Grotto | 64354 | [64354-goblet-grotto.json](./64354-goblet-grotto.json) |
 | Goblet of Mercy | 271628 | [271628-goblet-of-mercy.json](./271628-goblet-of-mercy.json) |
 | Goblet Tower | 287654 | [287654-goblet-tower.json](./287654-goblet-tower.json) |
@@ -5325,6 +5327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Girls: Seduction Starts With a Smile | 406066 | [406066-good-girls-seduction-starts-with-a-smile.json](./406066-good-girls-seduction-starts-with-a-smile.json) |
 | Good God! | 400882 | [400882-good-god.json](./400882-good-god.json) |
 | Good Goliath | 132187 | [132187-good-goliath.json](./132187-good-goliath.json) |
+| Good Goods Incorporated | 129437 | [129437-good-goods-incorporated.json](./129437-good-goods-incorporated.json) |
 | Good Guy Card | 158535 | [158535-good-guy-card.json](./158535-good-guy-card.json) |
 | Good Guys | 289183 | [289183-good-guys.json](./289183-good-guys.json) |
 | Good Heavens! | 204463 | [204463-good-heavens.json](./204463-good-heavens.json) |
