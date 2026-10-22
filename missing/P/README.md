@@ -5616,6 +5616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pingus | 146207 | [146207-pingus.json](./146207-pingus.json) |
 | Pingwinek Kelvin | 142495 | [142495-pingwinek-kelvin.json](./142495-pingwinek-kelvin.json) |
 | Pìnjìng de Kāiduān | 155969 | [155969-pinjing-de-kaiduan.json](./155969-pinjing-de-kaiduan.json) |
+| Pink | 142921 | [142921-pink.json](./142921-pink.json) |
 | Pink 2048 | 211737 | [211737-pink-2048.json](./211737-pink-2048.json) |
 | Pink Birdie | 175743 | [175743-pink-birdie.json](./175743-pink-birdie.json) |
 | Pink Carnations | 398811 | [398811-pink-carnations.json](./398811-pink-carnations.json) |
@@ -8498,6 +8499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Chasm Crosser | 55011 | [55011-pokemon-chasm-crosser.json](./55011-pokemon-chasm-crosser.json) |
 | Pokémon Chess | 249112 | [249112-pokemon-chess.json](./249112-pokemon-chess.json) |
 | Pokemon Classic | 409748 | [409748-pokemon-classic.json](./409748-pokemon-classic.json) |
+| Pokémon Clockwork | 142918 | [142918-pokemon-clockwork.json](./142918-pokemon-clockwork.json) |
 | Pokémon Clover | 129810 | [129810-pokemon-clover.json](./129810-pokemon-clover.json) |
 | Pokémon Cock Version | 141480 | [141480-pokemon-cock-version.json](./141480-pokemon-cock-version.json) |
 | Pokémon Coda | 360178 | [360178-pokemon-coda.json](./360178-pokemon-coda.json) |
@@ -12753,6 +12755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prop Cycle | 40395 | [40395-prop-cycle.json](./40395-prop-cycle.json) |
 | Prop Game | 256000 | [256000-prop-game.json](./256000-prop-game.json) |
 | Prop Haunt | 330537 | [330537-prop-haunt.json](./330537-prop-haunt.json) |
+| Prop Hunt | 142924 | [142924-prop-hunt.json](./142924-prop-hunt.json) |
 | Prop Hunt Portable | 39195 | [39195-prop-hunt-portable.json](./39195-prop-hunt-portable.json) |
 | Prop of the Class | 412940 | [412940-prop-of-the-class.json](./412940-prop-of-the-class.json) |
 | Prop Pack | 358096 | [358096-prop-pack.json](./358096-prop-pack.json) |
