@@ -1809,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Shop Tycoon | 203368 | [203368-card-shop-tycoon.json](./203368-card-shop-tycoon.json) |
 | Card Shuffle Sort | 251237 | [251237-card-shuffle-sort.json](./251237-card-shuffle-sort.json) |
 | Card Sim: Chinese Restaurant | 391182 | [391182-card-sim-chinese-restaurant.json](./391182-card-sim-chinese-restaurant.json) |
+| Card Smash: Tribes at War | 114706 | [114706-card-smash-tribes-at-war.json](./114706-card-smash-tribes-at-war.json) |
 | Card Solitaire Z | 88603 | [88603-card-solitaire-z.json](./88603-card-solitaire-z.json) |
 | Card story | 120851 | [120851-card-story.json](./120851-card-story.json) |
 | Card Streamer Simulator | 343218 | [343218-card-streamer-simulator.json](./343218-card-streamer-simulator.json) |
@@ -12290,6 +12291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab Island | 226775 | [226775-crab-island.json](./226775-crab-island.json) |
 | Crab My Passion | 279210 | [279210-crab-my-passion.json](./279210-crab-my-passion.json) |
 | Crab Raid Tactics | 247749 | [247749-crab-raid-tactics.json](./247749-crab-raid-tactics.json) |
+| Crab War | 114691 | [114691-crab-war.json](./114691-crab-war.json) |
 | Crab Wave | 315646 | [315646-crab-wave.json](./315646-crab-wave.json) |
 | Crab-Ball | 370111 | [370111-crab-ball.json](./370111-crab-ball.json) |
 | Craball | 350043 | [350043-craball.json](./350043-craball.json) |
@@ -15594,6 +15596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Puzzles!!! | 249758 | [249758-cute-puzzles.json](./249758-cute-puzzles.json) |
 | Cute Snake | 193473 | [193473-cute-snake.json](./193473-cute-snake.json) |
 | Cute Socks | 310722 | [310722-cute-socks.json](./310722-cute-socks.json) |
+| Cute Space Bosses | 114687 | [114687-cute-space-bosses.json](./114687-cute-space-bosses.json) |
 | Cute Star Heroes | 349471 | [349471-cute-star-heroes.json](./349471-cute-star-heroes.json) |
 | Cute Techno Slayer: Re Seele | 379700 | [379700-cute-techno-slayer-re-seele.json](./379700-cute-techno-slayer-re-seele.json) |
 | Cute Things Dying Violently | 12394 | [12394-cute-things-dying-violently.json](./12394-cute-things-dying-violently.json) |
