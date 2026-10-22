@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Be The SuperTux | 240946 | [240946-i-wanna-be-the-supertux.json](./240946-i-wanna-be-the-supertux.json) |
 | I Wanna Be The SuperTux 2 | 240947 | [240947-i-wanna-be-the-supertux-2.json](./240947-i-wanna-be-the-supertux-2.json) |
 | I wanna be the Yin-Yang orb | 132451 | [132451-i-wanna-be-the-yin-yang-orb.json](./132451-i-wanna-be-the-yin-yang-orb.json) |
+| I Wanna Brother | 121314 | [121314-i-wanna-brother.json](./121314-i-wanna-brother.json) |
 | I Wanna Commit Crimes So I Can Go to Prison Then Commit Super Crimes So I Can Go to Super Prison 64 | 266416 | [266416-i-wanna-commit-crimes-so-i-can-go-to-prison-then-commit-super-crimes-so-i-can-go-to-super-prison-64.json](./266416-i-wanna-commit-crimes-so-i-can-go-to-prison-then-commit-super-crimes-so-i-can-go-to-super-prison-64.json) |
 | I Wanna Eat the Lemon | 191263 | [191263-i-wanna-eat-the-lemon.json](./191263-i-wanna-eat-the-lemon.json) |
 | I Wanna Escape Into My Mind | 355175 | [355175-i-wanna-escape-into-my-mind.json](./355175-i-wanna-escape-into-my-mind.json) |
