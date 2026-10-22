@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saghala: Heroes of the Last World | 195646 | [195646-saghala-heroes-of-the-last-world.json](./195646-saghala-heroes-of-the-last-world.json) |
 | Sagittarius: The Lost and Cursed | 352225 | [352225-sagittarius-the-lost-and-cursed.json](./352225-sagittarius-the-lost-and-cursed.json) |
 | Sago Mini Forest Flyer | 200108 | [200108-sago-mini-forest-flyer.json](./200108-sago-mini-forest-flyer.json) |
+| Sagrada | 132490 | [132490-sagrada.json](./132490-sagrada.json) |
 | Sahara Storms WWIII | 239713 | [239713-sahara-storms-wwiii.json](./239713-sahara-storms-wwiii.json) |
 | Sahara's Underworld | 367744 | [367744-saharas-underworld.json](./367744-saharas-underworld.json) |
 | Sahir: Shiv of Memories | 372737 | [372737-sahir-shiv-of-memories.json](./372737-sahir-shiv-of-memories.json) |
@@ -1982,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayo-kun no Omajinai | 314850 | [314850-sayo-kun-no-omajinai.json](./314850-sayo-kun-no-omajinai.json) |
 | Sayonalaika | 340880 | [340880-sayonalaika.json](./340880-sayonalaika.json) |
 | Sayonara | 252989 | [252989-sayonara.json](./252989-sayonara.json) |
+| Sayonara Electric | 132475 | [132475-sayonara-electric.json](./132475-sayonara-electric.json) |
 | Sayonara Golden Days | 148249 | [148249-sayonara-golden-days.json](./148249-sayonara-golden-days.json) |
 | Sayonara Golden Days: Golden Souls | 148345 | [148345-sayonara-golden-days-golden-souls.json](./148345-sayonara-golden-days-golden-souls.json) |
 | Sayonara Jinsei. | 288438 | [288438-sayonara-jinsei.json](./288438-sayonara-jinsei.json) |
@@ -15337,6 +15339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Orb | 105014 | [105014-space-orb.json](./105014-space-orb.json) |
 | Space Orbs | 175766 | [175766-space-orbs.json](./175766-space-orbs.json) |
 | Space Orcs Brawl | 348895 | [348895-space-orcs-brawl.json](./348895-space-orcs-brawl.json) |
+| Space Otter Charlie | 132454 | [132454-space-otter-charlie.json](./132454-space-otter-charlie.json) |
 | Space Out | 195166 | [195166-space-out.json](./195166-space-out.json) |
 | Space Out | 72627 | [72627-space-out.json](./72627-space-out.json) |
 | Space Outpost Sigma | 331742 | [331742-space-outpost-sigma.json](./331742-space-outpost-sigma.json) |
@@ -17968,6 +17971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Fall | 401811 | [401811-square-fall.json](./401811-square-fall.json) |
 | Square Farm | 125349 | [125349-square-farm.json](./125349-square-farm.json) |
 | Square Farm | 326102 | [326102-square-farm.json](./326102-square-farm.json) |
+| Square Fast | 132461 | [132461-square-fast.json](./132461-square-fast.json) |
 | Square Fighter | 124706 | [124706-square-fighter.json](./124706-square-fighter.json) |
 | Square Fighters | 131591 | [131591-square-fighters.json](./131591-square-fighters.json) |
 | Square Fishing Builder | 340176 | [340176-square-fishing-builder.json](./340176-square-fishing-builder.json) |
@@ -21949,6 +21953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strength of the Sword 3 | 52864 | [52864-strength-of-the-sword-3.json](./52864-strength-of-the-sword-3.json) |
 | Stress Attack | 337771 | [337771-stress-attack.json](./337771-stress-attack.json) |
 | Stress Ball | 285448 | [285448-stress-ball.json](./285448-stress-ball.json) |
+| Stress explosion | 132505 | [132505-stress-explosion.json](./132505-stress-explosion.json) |
 | Stress Random | 169752 | [169752-stress-random.json](./169752-stress-random.json) |
 | Stress Test | 200168 | [200168-stress-test.json](./200168-stress-test.json) |
 | Stress testing | 267301 | [267301-stress-testing.json](./267301-stress-testing.json) |
@@ -23912,6 +23917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cup Finals | 40428 | [40428-super-cup-finals.json](./40428-super-cup-finals.json) |
 | Super Cup Football | 142368 | [142368-super-cup-football.json](./142368-super-cup-football.json) |
 | Super Cursor | 304286 | [304286-super-cursor.json](./304286-super-cursor.json) |
+| Super Cute Alien | 132498 | [132498-super-cute-alien.json](./132498-super-cute-alien.json) |
 | Super Cute Alien's Adventure | 242584 | [242584-super-cute-aliens-adventure.json](./242584-super-cute-aliens-adventure.json) |
 | Super Cyborg | 20191 | [20191-super-cyborg.json](./20191-super-cyborg.json) |
 | Super Daisenryaku: Map Collection | 381856 | [381856-super-daisenryaku-map-collection.json](./381856-super-daisenryaku-map-collection.json) |
@@ -25136,6 +25142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ninji Land Reawakened | 373554 | [373554-super-ninji-land-reawakened.json](./373554-super-ninji-land-reawakened.json) |
 | Super Nisqually | 73273 | [73273-super-nisqually.json](./73273-super-nisqually.json) |
 | Super Nitrous Zoomer | 114982 | [114982-super-nitrous-zoomer.json](./114982-super-nitrous-zoomer.json) |
+| Super No Crying in Baseball | 132504 | [132504-super-no-crying-in-baseball.json](./132504-super-no-crying-in-baseball.json) |
 | Super Noah's Ark 3D | 11168 | [11168-super-noahs-ark-3d.json](./11168-super-noahs-ark-3d.json) |
 | Super Nodage World | 200916 | [200916-super-nodage-world.json](./200916-super-nodage-world.json) |
 | Super Nosebleed Land | 105075 | [105075-super-nosebleed-land.json](./105075-super-nosebleed-land.json) |
