@@ -5,6 +5,7 @@
 | Cover | Game | Albums |
 |---|---|---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273554d5b3d2daa8a426a84c250" width="60" /> | [NBA 2K24](https://ostdb.net/games/nba-2k24) | **NBA 2K24 Soundtrack** · [Spotify](https://open.spotify.com/album/3tHl9pVwXxPaDLVtUxQLGm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735927f264545926d2aab3014c" width="60" /> | [NEO Scavenger](https://ostdb.net/games/neo-scavenger) | **Neo Scavenger (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7ixJF8lSTPZchMsQivOja3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273514fa4560fa0096f94db3df0" width="60" /> | [NEO: The World Ends with You](https://ostdb.net/games/neo-the-world-ends-with-you) | **NEO: The World Ends with You - Original Soundtrack** · [Spotify](https://open.spotify.com/album/1TEsX50DWbhcBbWm0hnJVI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed892fb5b5ce294862a116cd" width="60" /> | [Napoleon: Total War](https://ostdb.net/games/napoleon-total-war) | **Total War: Napoleon (Original Soundtrack) [Remastered]** · [Spotify](https://open.spotify.com/album/3zTC53iHEE3QBSJW6cx3yt) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c5/ad/b6/c5adb655-978f-1aa7-9df4-b0e211689544/198391102622.jpg/600x600bb.jpg" width="60" /> | [Narita Boy](https://ostdb.net/games/narita-boy) | **Narita Boy** · [Apple Music](https://music.apple.com/us/album/narita-boy/1728859021?uo=4) · [Album](https://album.link/i/1728859021) |
