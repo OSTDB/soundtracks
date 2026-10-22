@@ -3483,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of a Polygon | 177231 | [177231-life-of-a-polygon.json](./177231-life-of-a-polygon.json) |
 | Life of a Space Force Captain | 190947 | [190947-life-of-a-space-force-captain.json](./190947-life-of-a-space-force-captain.json) |
 | Life of a Thug | 306341 | [306341-life-of-a-thug.json](./306341-life-of-a-thug.json) |
+| Life of A Yandere Simp | 155933 | [155933-life-of-a-yandere-simp.json](./155933-life-of-a-yandere-simp.json) |
 | Life of an NPC | 381128 | [381128-life-of-an-npc.json](./381128-life-of-an-npc.json) |
 | Life of Black Tiger | 56892 | [56892-life-of-black-tiger.json](./56892-life-of-black-tiger.json) |
 | Life of D. Duck | 68260 | [68260-life-of-d-duck.json](./68260-life-of-d-duck.json) |
