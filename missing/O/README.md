@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsidian Conflict | 142407 | [142407-obsidian-conflict.json](./142407-obsidian-conflict.json) |
 | Obsidian Crown | 124164 | [124164-obsidian-crown.json](./124164-obsidian-crown.json) |
 | Obsidian Moon | 357005 | [357005-obsidian-moon.json](./357005-obsidian-moon.json) |
+| Obsidian Prince | 138452 | [138452-obsidian-prince.json](./138452-obsidian-prince.json) |
 | Obsidienne | 185120 | [185120-obsidienne.json](./185120-obsidienne.json) |
 | Obsolete | 142804 | [142804-obsolete.json](./142804-obsolete.json) |
 | Obsolete | 184488 | [184488-obsolete.json](./184488-obsolete.json) |
@@ -2736,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Wolfenstein | 179472 | [179472-operation-wolfenstein.json](./179472-operation-wolfenstein.json) |
 | Operation Z.E.R.O.: OutNumbuh'd! | 234540 | [234540-operation-z-e-r-o-outnumbuhd.json](./234540-operation-z-e-r-o-outnumbuhd.json) |
 | Operation Zero | 333014 | [333014-operation-zero.json](./333014-operation-zero.json) |
+| Operation Zeta | 138457 | [138457-operation-zeta.json](./138457-operation-zeta.json) |
 | Operation: Air Assault | 281278 | [281278-operation-air-assault.json](./281278-operation-air-assault.json) |
 | Operation: Alpha Zylon | 54265 | [54265-operation-alpha-zylon.json](./54265-operation-alpha-zylon.json) |
 | Operation: Armored Liberty | 49319 | [49319-operation-armored-liberty.json](./49319-operation-armored-liberty.json) |
@@ -3142,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore ha Chokkaku: Chokkaku Kiri Kenzan!! | 349432 | [349432-ore-ha-chokkaku-chokkaku-kiri-kenzan.json](./349432-ore-ha-chokkaku-chokkaku-kiri-kenzan.json) |
 | Ore Klast | 410404 | [410404-ore-klast.json](./410404-ore-klast.json) |
 | Ore Market Masters Simulator | 326393 | [326393-ore-market-masters-simulator.json](./326393-ore-market-masters-simulator.json) |
+| Ore ni Hatarakette Iwaretemo Otu | 138650 | [138650-ore-ni-hatarakette-iwaretemo-otu.json](./138650-ore-ni-hatarakette-iwaretemo-otu.json) |
 | Ore ni Hatarakette Iwaretemo Tori | 60197 | [60197-ore-ni-hatarakette-iwaretemo-tori.json](./60197-ore-ni-hatarakette-iwaretemo-tori.json) |
 | Ore no Animism: Heaven Chapter | 171804 | [171804-ore-no-animism-heaven-chapter.json](./171804-ore-no-animism-heaven-chapter.json) |
 | Ore No Animism: Hell Chapter | 171803 | [171803-ore-no-animism-hell-chapter.json](./171803-ore-no-animism-hell-chapter.json) |
