@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Guys: Season 4 - Creative Construction | 243406 | [243406-fall-guys-season-4-creative-construction.json](./243406-fall-guys-season-4-creative-construction.json) |
 | Fall Guys: Starter Pack | 243660 | [243660-fall-guys-starter-pack.json](./243660-fall-guys-starter-pack.json) |
 | Fall Guys: Stunning Sealife Pack | 243664 | [243664-fall-guys-stunning-sealife-pack.json](./243664-fall-guys-stunning-sealife-pack.json) |
+| Fall Guys: Ultimate Knockout - Season 2 | 140444 | [140444-fall-guys-ultimate-knockout-season-2.json](./140444-fall-guys-ultimate-knockout-season-2.json) |
 | Fall Guys: Ultimate Knockout - Season 3 | 141572 | [141572-fall-guys-ultimate-knockout-season-3.json](./141572-fall-guys-ultimate-knockout-season-3.json) |
 | Fall Guys: Ultimate Knockout - Season 4 | 144048 | [144048-fall-guys-ultimate-knockout-season-4.json](./144048-fall-guys-ultimate-knockout-season-4.json) |
 | Fall Guys: Ultimate Knockout - Season 5 | 159046 | [159046-fall-guys-ultimate-knockout-season-5.json](./159046-fall-guys-ultimate-knockout-season-5.json) |
@@ -6482,6 +6483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowering Across | 153419 | [153419-flowering-across.json](./153419-flowering-across.json) |
 | Flowering Nightshade | 158400 | [158400-flowering-nightshade.json](./158400-flowering-nightshade.json) |
 | Flowering Void | 380217 | [380217-flowering-void.json](./380217-flowering-void.json) |
+| Flowers 2 by Powgi | 140419 | [140419-flowers-2-by-powgi.json](./140419-flowers-2-by-powgi.json) |
 | Flowers and Deities | 350787 | [350787-flowers-and-deities.json](./350787-flowers-and-deities.json) |
 | Flowers Blooming at the End of Summer | 129727 | [129727-flowers-blooming-at-the-end-of-summer.json](./129727-flowers-blooming-at-the-end-of-summer.json) |
 | Flowers Bundle | 213328 | [213328-flowers-bundle.json](./213328-flowers-bundle.json) |
