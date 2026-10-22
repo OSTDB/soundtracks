@@ -8616,6 +8616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codebreaker Puzzle 1000! ENG & JAN | 147958 | [147958-codebreaker-puzzle-1000-eng-and-jan.json](./147958-codebreaker-puzzle-1000-eng-and-jan.json) |
 | Codebreakers VR | 318181 | [318181-codebreakers-vr.json](./318181-codebreakers-vr.json) |
 | Coded Arms | 21619 | [21619-coded-arms.json](./21619-coded-arms.json) |
+| Coded Arms: Assault | 137876 | [137876-coded-arms-assault.json](./137876-coded-arms-assault.json) |
 | Coded Black | 347784 | [347784-coded-black.json](./347784-coded-black.json) |
 | Codedoor | 281997 | [281997-codedoor.json](./281997-codedoor.json) |
 | Codemakers | 193411 | [193411-codemakers.json](./193411-codemakers.json) |
@@ -11926,6 +11927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | County of Fortune | 327218 | [327218-county-of-fortune.json](./327218-county-of-fortune.json) |
 | Coup de Koala | 357030 | [357030-coup-de-koala.json](./357030-coup-de-koala.json) |
 | CoupButat | 242568 | [242568-coupbutat.json](./242568-coupbutat.json) |
+| Couple in Trouble | 138061 | [138061-couple-in-trouble.json](./138061-couple-in-trouble.json) |
 | Couple Life 3D | 224066 | [224066-couple-life-3d.json](./224066-couple-life-3d.json) |
 | Couple-Cultivation Saves the World | 324669 | [324669-couple-cultivation-saves-the-world.json](./324669-couple-cultivation-saves-the-world.json) |
 | Couples | 271690 | [271690-couples.json](./271690-couples.json) |
@@ -14919,6 +14921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cukies World | 237319 | [237319-cukies-world.json](./237319-cukies-world.json) |
 | Cul-De-Sac | 288989 | [288989-cul-de-sac.json](./288989-cul-de-sac.json) |
 | Culcept Saga | 21498 | [21498-culcept-saga.json](./21498-culcept-saga.json) |
+| Culdcept | 138069 | [138069-culdcept.json](./138069-culdcept.json) |
 | Culdcept | 22100 | [22100-culdcept.json](./22100-culdcept.json) |
 | Culdcept Expansion | 361753 | [361753-culdcept-expansion.json](./361753-culdcept-expansion.json) |
 | Culdcept Revolt | 27258 | [27258-culdcept-revolt.json](./27258-culdcept-revolt.json) |
