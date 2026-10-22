@@ -4832,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below the Surface: Uncovering the Truth in the Sewers | 372074 | [372074-below-the-surface-uncovering-the-truth-in-the-sewers.json](./372074-below-the-surface-uncovering-the-truth-in-the-sewers.json) |
 | Below Zero: Prologue | 317326 | [317326-below-zero-prologue.json](./317326-below-zero-prologue.json) |
 | Below, Rusted Gods | 304148 | [304148-below-rusted-gods.json](./304148-below-rusted-gods.json) |
+| Belt Action Collection | 136308 | [136308-belt-action-collection.json](./136308-belt-action-collection.json) |
 | Belt Colony | 214951 | [214951-belt-colony.json](./214951-belt-colony.json) |
 | Beltlife: Prospector | 391084 | [391084-beltlife-prospector.json](./391084-beltlife-prospector.json) |
 | Beltmatic | 281960 | [281960-beltmatic.json](./281960-beltmatic.json) |
@@ -6326,6 +6327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioMeteor | 377824 | [377824-biometeor.json](./377824-biometeor.json) |
 | Biomisland | 199578 | [199578-biomisland.json](./199578-biomisland.json) |
 | Biomorph | 213287 | [213287-biomorph.json](./213287-biomorph.json) |
+| Biomutant: Atomic Edition | 136313 | [136313-biomutant-atomic-edition.json](./136313-biomutant-atomic-edition.json) |
 | Biomydra | 30749 | [30749-biomydra.json](./30749-biomydra.json) |
 | Bion Clash | 361009 | [361009-bion-clash.json](./361009-bion-clash.json) |
 | Bionic Attack | 36527 | [36527-bionic-attack.json](./36527-bionic-attack.json) |
@@ -7033,6 +7035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Metal Man 2 | 197686 | [197686-black-metal-man-2.json](./197686-black-metal-man-2.json) |
 | Black Mirror | 54699 | [54699-black-mirror.json](./54699-black-mirror.json) |
 | Black Mirror III: Final Fear | 10049 | [10049-black-mirror-iii-final-fear.json](./10049-black-mirror-iii-final-fear.json) |
+| Black Mirror: Bandersnatch | 136096 | [136096-black-mirror-bandersnatch.json](./136096-black-mirror-bandersnatch.json) |
 | Black Mirror: Thronglets | 339816 | [339816-black-mirror-thronglets.json](./339816-black-mirror-thronglets.json) |
 | Black Mist | 51515 | [51515-black-mist.json](./51515-black-mist.json) |
 | Black Monday | 94217 | [94217-black-monday.json](./94217-black-monday.json) |
