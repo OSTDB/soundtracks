@@ -1902,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make a Good Mega Man Level Contest 3 | 305260 | [305260-make-a-good-mega-man-level-contest-3.json](./305260-make-a-good-mega-man-level-contest-3.json) |
 | Make a Good Mega Man Level: Episode Zero | 197785 | [197785-make-a-good-mega-man-level-episode-zero.json](./197785-make-a-good-mega-man-level-episode-zero.json) |
 | Make a Happy Baby | 239039 | [239039-make-a-happy-baby.json](./239039-make-a-happy-baby.json) |
+| Make A Jigsaw Puzzle | 113398 | [113398-make-a-jigsaw-puzzle.json](./113398-make-a-jigsaw-puzzle.json) |
 | Make a Killing | 118827 | [118827-make-a-killing.json](./118827-make-a-killing.json) |
 | Make a Path for the Chicken | 165624 | [165624-make-a-path-for-the-chicken.json](./165624-make-a-path-for-the-chicken.json) |
 | Make a Scene: Dinosaurs | 96044 | [96044-make-a-scene-dinosaurs.json](./96044-make-a-scene-dinosaurs.json) |
