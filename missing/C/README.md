@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: League - Toronto Ultra Team Pack 2024 | 281941 | [281941-call-of-duty-league-toronto-ultra-team-pack-2024.json](./281941-call-of-duty-league-toronto-ultra-team-pack-2024.json) |
 | Call of Duty: League - Vegas Legion Team Pack 2024 | 281942 | [281942-call-of-duty-league-vegas-legion-team-pack-2024.json](./281942-call-of-duty-league-vegas-legion-team-pack-2024.json) |
 | Call of Duty: Legacy | 294560 | [294560-call-of-duty-legacy.json](./294560-call-of-duty-legacy.json) |
+| Call of Duty: Legends of War | 113383 | [113383-call-of-duty-legends-of-war.json](./113383-call-of-duty-legends-of-war.json) |
 | Call of Duty: Modern Warfare - Precision Edition | 136342 | [136342-call-of-duty-modern-warfare-precision-edition.json](./136342-call-of-duty-modern-warfare-precision-edition.json) |
 | Call of Duty: Modern Warfare - Reflex Edition | 21199 | [21199-call-of-duty-modern-warfare-reflex-edition.json](./21199-call-of-duty-modern-warfare-reflex-edition.json) |
 | Call of Duty: Modern Warfare - Season Five | 136976 | [136976-call-of-duty-modern-warfare-season-five.json](./136976-call-of-duty-modern-warfare-season-five.json) |
@@ -6499,6 +6500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Crystal | 247916 | [247916-chrono-crystal.json](./247916-chrono-crystal.json) |
 | Chrono Crystal: Factory DLC | 253497 | [253497-chrono-crystal-factory-dlc.json](./253497-chrono-crystal-factory-dlc.json) |
 | Chrono Crystal: Giant Gate DLC | 253386 | [253386-chrono-crystal-giant-gate-dlc.json](./253386-chrono-crystal-giant-gate-dlc.json) |
+| Chrono Ghost | 113417 | [113417-chrono-ghost.json](./113417-chrono-ghost.json) |
 | Chrono Hunter | 253190 | [253190-chrono-hunter.json](./253190-chrono-hunter.json) |
 | Chrono Impact | 369095 | [369095-chrono-impact.json](./369095-chrono-impact.json) |
 | Chrono Knight | 305315 | [305315-chrono-knight.json](./305315-chrono-knight.json) |
@@ -6875,6 +6877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit Racer | 26656 | [26656-circuit-racer.json](./26656-circuit-racer.json) |
 | Circuit Racer 2: Race and Chase | 88499 | [88499-circuit-racer-2-race-and-chase.json](./88499-circuit-racer-2-race-and-chase.json) |
 | Circuit Runner | 311634 | [311634-circuit-runner.json](./311634-circuit-runner.json) |
+| Circuit Slinger | 113392 | [113392-circuit-slinger.json](./113392-circuit-slinger.json) |
 | Circuit Stance | 392123 | [392123-circuit-stance.json](./392123-circuit-stance.json) |
 | Circuit Strike.One | 68244 | [68244-circuit-strike-one.json](./68244-circuit-strike-one.json) |
 | Circuit Superstars DLC: Top Gear - The Stig Challenge | 254379 | [254379-circuit-superstars-dlc-top-gear-the-stig-challenge.json](./254379-circuit-superstars-dlc-top-gear-the-stig-challenge.json) |
@@ -10234,6 +10237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Exiles: Riders of Hyboria | 127253 | [127253-conan-exiles-riders-of-hyboria.json](./127253-conan-exiles-riders-of-hyboria.json) |
 | Conan Exiles: Riders of Hyboria Pack | 164794 | [164794-conan-exiles-riders-of-hyboria-pack.json](./164794-conan-exiles-riders-of-hyboria-pack.json) |
 | Conan Exiles: Savage Edition | 164771 | [164771-conan-exiles-savage-edition.json](./164771-conan-exiles-savage-edition.json) |
+| Conan Exiles: Seekers of the Dawn | 113367 | [113367-conan-exiles-seekers-of-the-dawn.json](./113367-conan-exiles-seekers-of-the-dawn.json) |
 | Conan Exiles: Seekers of the Dawn Pack | 164775 | [164775-conan-exiles-seekers-of-the-dawn-pack.json](./164775-conan-exiles-seekers-of-the-dawn-pack.json) |
 | Conan Exiles: Treasures of Turan | 117416 | [117416-conan-exiles-treasures-of-turan.json](./117416-conan-exiles-treasures-of-turan.json) |
 | Conan Exiles: Treasures of Turan Pack | 164779 | [164779-conan-exiles-treasures-of-turan-pack.json](./164779-conan-exiles-treasures-of-turan-pack.json) |
@@ -15498,6 +15502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Customized Girlfriend | 327902 | [327902-customized-girlfriend.json](./327902-customized-girlfriend.json) |
 | Customplay Golf 2010 | 21118 | [21118-customplay-golf-2010.json](./21118-customplay-golf-2010.json) |
 | Cut | 202201 | [202201-cut.json](./202201-cut.json) |
+| Cut & Run | 113423 | [113423-cut-and-run.json](./113423-cut-and-run.json) |
 | Cut 2017 | 91411 | [91411-cut-2017.json](./91411-cut-2017.json) |
 | Cut Around 3D | 219974 | [219974-cut-around-3d.json](./219974-cut-around-3d.json) |
 | Cut Cats' Balls | 410309 | [410309-cut-cats-balls.json](./410309-cut-cats-balls.json) |
