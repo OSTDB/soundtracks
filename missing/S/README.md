@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakuya-san Tactics | 210473 | [210473-sakuya-san-tactics.json](./210473-sakuya-san-tactics.json) |
 | Sal Terrae: in search of SALT | 414150 | [414150-sal-terrae-in-search-of-salt.json](./414150-sal-terrae-in-search-of-salt.json) |
 | Sal. | 266231 | [266231-sal.json](./266231-sal.json) |
+| Sal's Sublime Sundae | 146592 | [146592-sals-sublime-sundae.json](./146592-sals-sublime-sundae.json) |
 | Sala de Juegos 3D | 414507 | [414507-sala-de-juegos-3d.json](./414507-sala-de-juegos-3d.json) |
 | Salaam | 127341 | [127341-salaam.json](./127341-salaam.json) |
 | Salacot Jack: Deluxe | 316400 | [316400-salacot-jack-deluxe.json](./316400-salacot-jack-deluxe.json) |
@@ -3783,6 +3784,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek & Find Vol 1 | 109164 | [109164-seek-and-find-vol-1.json](./109164-seek-and-find-vol-1.json) |
 | Seek & Snipe | 267106 | [267106-seek-and-snipe.json](./267106-seek-and-snipe.json) |
 | Seek and Find Adventures 3 | 206633 | [206633-seek-and-find-adventures-3.json](./206633-seek-and-find-adventures-3.json) |
+| Seek and Find Collection 1 | 146580 | [146580-seek-and-find-collection-1.json](./146580-seek-and-find-collection-1.json) |
+| Seek and Find Collection 2 | 146582 | [146582-seek-and-find-collection-2.json](./146582-seek-and-find-collection-2.json) |
 | Seek Girl | 114277 | [114277-seek-girl.json](./114277-seek-girl.json) |
 | Seek Girl 2 | 130249 | [130249-seek-girl-2.json](./130249-seek-girl-2.json) |
 | Seek Girl III | 127147 | [127147-seek-girl-iii.json](./127147-seek-girl-iii.json) |
@@ -5914,6 +5917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Melodies | 311221 | [311221-shattered-melodies.json](./311221-shattered-melodies.json) |
 | Shattered Minds: Encore | 158948 | [158948-shattered-minds-encore.json](./158948-shattered-minds-encore.json) |
 | Shattered Minds: Masquerade | 369714 | [369714-shattered-minds-masquerade.json](./369714-shattered-minds-masquerade.json) |
+| Shattered Ninja | 146611 | [146611-shattered-ninja.json](./146611-shattered-ninja.json) |
 | Shattered Palace | 312902 | [312902-shattered-palace.json](./312902-shattered-palace.json) |
 | Shattered Paradise | 387019 | [387019-shattered-paradise.json](./387019-shattered-paradise.json) |
 | Shattered Pixel Dungeon | 130394 | [130394-shattered-pixel-dungeon.json](./130394-shattered-pixel-dungeon.json) |
@@ -16613,6 +16617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Solitaire Box | 87090 | [87090-spider-solitaire-box.json](./87090-spider-solitaire-box.json) |
 | Spider Solitaire Collection | 154330 | [154330-spider-solitaire-collection.json](./154330-spider-solitaire-collection.json) |
 | Spider Solitaire F | 109493 | [109493-spider-solitaire-f.json](./109493-spider-solitaire-f.json) |
+| Spider Solitaire Gold | 146612 | [146612-spider-solitaire-gold.json](./146612-spider-solitaire-gold.json) |
 | Spider Solitaire Pro! | 89182 | [89182-spider-solitaire-pro.json](./89182-spider-solitaire-pro.json) |
 | Spider Solitarus | 88564 | [88564-spider-solitarus.json](./88564-spider-solitarus.json) |
 | Spider Sub | 359467 | [359467-spider-sub.json](./359467-spider-sub.json) |
@@ -24914,6 +24919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mini Puzzle Heroes | 64711 | [64711-super-mini-puzzle-heroes.json](./64711-super-mini-puzzle-heroes.json) |
 | Super Mining Mechs | 319672 | [319672-super-mining-mechs.json](./319672-super-mining-mechs.json) |
 | Super Mining Mechs: Toxic Treasures | 340567 | [340567-super-mining-mechs-toxic-treasures.json](./340567-super-mining-mechs-toxic-treasures.json) |
+| Super Mole | 146576 | [146576-super-mole.json](./146576-super-mole.json) |
 | Super Mombo Quest | 139438 | [139438-super-mombo-quest.json](./139438-super-mombo-quest.json) |
 | Super Momos Crushers | 370197 | [370197-super-momos-crushers.json](./370197-super-momos-crushers.json) |
 | Super Momotaro Dentetsu | 48888 | [48888-super-momotaro-dentetsu.json](./48888-super-momotaro-dentetsu.json) |
