@@ -1462,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Deluxe 2 | 89686 | [89686-mahjong-deluxe-2.json](./89686-mahjong-deluxe-2.json) |
 | Mahjong Deluxe 2: Astral Planes | 105996 | [105996-mahjong-deluxe-2-astral-planes.json](./105996-mahjong-deluxe-2-astral-planes.json) |
 | Mahjong Deluxe HD | 70900 | [70900-mahjong-deluxe-hd.json](./70900-mahjong-deluxe-hd.json) |
+| Mahjong Demon | 104419 | [104419-mahjong-demon.json](./104419-mahjong-demon.json) |
 | Mahjong Demon XL | 221333 | [221333-mahjong-demon-xl.json](./221333-mahjong-demon-xl.json) |
 | Mahjong Detective: The Stolen Love | 295919 | [295919-mahjong-detective-the-stolen-love.json](./295919-mahjong-detective-the-stolen-love.json) |
 | Mahjong Domino | 89830 | [89830-mahjong-domino.json](./89830-mahjong-domino.json) |
@@ -1470,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Epic | 83414 | [83414-mahjong-epic.json](./83414-mahjong-epic.json) |
 | Mahjong Escape: Ancient China | 135673 | [135673-mahjong-escape-ancient-china.json](./135673-mahjong-escape-ancient-china.json) |
 | Mahjong Escape: Ancient Japan | 202093 | [202093-mahjong-escape-ancient-japan.json](./202093-mahjong-escape-ancient-japan.json) |
+| Mahjong Fantasy | 104413 | [104413-mahjong-fantasy.json](./104413-mahjong-fantasy.json) |
 | Mahjong Fest: Winterland | 113163 | [113163-mahjong-fest-winterland.json](./113163-mahjong-fest-winterland.json) |
 | Mahjong Fight Club SP | 212649 | [212649-mahjong-fight-club-sp.json](./212649-mahjong-fight-club-sp.json) |
 | Mahjong Fight Club Wii: Wi-Fi Taiou | 125914 | [125914-mahjong-fight-club-wii-wi-fi-taiou.json](./125914-mahjong-fight-club-wii-wi-fi-taiou.json) |
@@ -4786,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem Above | 55502 | [55502-mayhem-above.json](./55502-mayhem-above.json) |
 | Mayhem Brawler | 143858 | [143858-mayhem-brawler.json](./143858-mayhem-brawler.json) |
 | Mayhem Brawler II: Best of Both Worlds | 264802 | [264802-mayhem-brawler-ii-best-of-both-worlds.json](./264802-mayhem-brawler-ii-best-of-both-worlds.json) |
+| Mayhem Combat | 104410 | [104410-mayhem-combat.json](./104410-mayhem-combat.json) |
 | Mayhem Combat - Fighting Game | 104550 | [104550-mayhem-combat-fighting-game.json](./104550-mayhem-combat-fighting-game.json) |
 | Mayhem Fortress | 224575 | [224575-mayhem-fortress.json](./224575-mayhem-fortress.json) |
 | Mayhem Heroes | 234528 | [234528-mayhem-heroes.json](./234528-mayhem-heroes.json) |
@@ -6206,6 +6209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega R-Type | 276776 | [276776-mega-r-type.json](./276776-mega-r-type.json) |
 | Mega Ramp Car Jumping | 306542 | [306542-mega-ramp-car-jumping.json](./306542-mega-ramp-car-jumping.json) |
 | Mega Ramp Moto: Dirt Bike Stunts Simulator | 257883 | [257883-mega-ramp-moto-dirt-bike-stunts-simulator.json](./257883-mega-ramp-moto-dirt-bike-stunts-simulator.json) |
+| Mega Ramp V5 | 104400 | [104400-mega-ramp-v5.json](./104400-mega-ramp-v5.json) |
 | Mega Roids | 418527 | [418527-mega-roids.json](./418527-mega-roids.json) |
 | Mega Screen Solitaire | 330210 | [330210-mega-screen-solitaire.json](./330210-mega-screen-solitaire.json) |
 | Mega Serval | 224750 | [224750-mega-serval.json](./224750-mega-serval.json) |
@@ -16544,6 +16548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Town : Hotel | 104615 | [104615-my-town-hotel.json](./104615-my-town-hotel.json) |
 | My Town : Police | 105920 | [105920-my-town-police.json](./105920-my-town-police.json) |
 | My Town : Street Fun | 104474 | [104474-my-town-street-fun.json](./104474-my-town-street-fun.json) |
+| My Town : Street Fun | 104496 | [104496-my-town-street-fun.json](./104496-my-town-street-fun.json) |
 | My Town: Airport | 88533 | [88533-my-town-airport.json](./88533-my-town-airport.json) |
 | My Town: Dessert Slice | 130086 | [130086-my-town-dessert-slice.json](./130086-my-town-dessert-slice.json) |
 | My Town: Home | 362420 | [362420-my-town-home.json](./362420-my-town-home.json) |
@@ -16891,6 +16896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Lover 2: Forgotten Truth | 275490 | [275490-mystery-lover-2-forgotten-truth.json](./275490-mystery-lover-2-forgotten-truth.json) |
 | Mystery Lover: Nonexistent Summer | 259722 | [259722-mystery-lover-nonexistent-summer.json](./259722-mystery-lover-nonexistent-summer.json) |
 | Mystery Manor | 88456 | [88456-mystery-manor.json](./88456-mystery-manor.json) |
+| Mystery Manor: Hidden Objects | 104411 | [104411-mystery-manor-hidden-objects.json](./104411-mystery-manor-hidden-objects.json) |
 | Mystery Mansion | 251102 | [251102-mystery-mansion.json](./251102-mystery-mansion.json) |
 | Mystery Mansion | 353879 | [353879-mystery-mansion.json](./353879-mystery-mansion.json) |
 | Mystery Mansion Pinball | 69141 | [69141-mystery-mansion-pinball.json](./69141-mystery-mansion-pinball.json) |
