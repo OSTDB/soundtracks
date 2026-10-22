@@ -5961,7 +5961,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter A.I.L.A. Genesis | 308425 | [308425-alter-a-i-l-a-genesis.json](./308425-alter-a-i-l-a-genesis.json) |
 | Alter Age | 310513 | [310513-alter-age.json](./310513-alter-age.json) |
 | Alter Cosmos | 103539 | [103539-alter-cosmos.json](./103539-alter-cosmos.json) |
-| Alter Ego | 132717 | [132717-alter-ego.json](./132717-alter-ego.json) |
 | Alter Ego | 134505 | [134505-alter-ego.json](./134505-alter-ego.json) |
 | Alter Ego | 270396 | [270396-alter-ego.json](./270396-alter-ego.json) |
 | Alter Ego | 27888 | [27888-alter-ego.json](./27888-alter-ego.json) |
@@ -6388,6 +6387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amelorn | 379127 | [379127-amelorn.json](./379127-amelorn.json) |
 | Amen Jesus Flap | 61442 | [61442-amen-jesus-flap.json](./61442-amen-jesus-flap.json) |
 | Amen: The Quiet Exodus | 406731 | [406731-amen-the-quiet-exodus.json](./406731-amen-the-quiet-exodus.json) |
+| Amends VR | 133070 | [133070-amends-vr.json](./133070-amends-vr.json) |
 | Amenity's Life | 98541 | [98541-amenitys-life.json](./98541-amenitys-life.json) |
 | Amentes Online | 401011 | [401011-amentes-online.json](./401011-amentes-online.json) |
 | Ameprod Television Game 10 | 243416 | [243416-ameprod-television-game-10.json](./243416-ameprod-television-game-10.json) |
@@ -9976,6 +9976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archer Master | 150744 | [150744-archer-master.json](./150744-archer-master.json) |
 | Archer of God | 237646 | [237646-archer-of-god.json](./237646-archer-of-god.json) |
 | Archer Pinball | 261802 | [261802-archer-pinball.json](./261802-archer-pinball.json) |
+| Archer VR | 133082 | [133082-archer-vr.json](./133082-archer-vr.json) |
 | Archer: Danger Phone | 138558 | [138558-archer-danger-phone.json](./138558-archer-danger-phone.json) |
 | Archer: Sheshou | 246990 | [246990-archer-sheshou.json](./246990-archer-sheshou.json) |
 | Archer's Adventure | 165706 | [165706-archers-adventure.json](./165706-archers-adventure.json) |
@@ -10224,6 +10225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arelite Core: Horse Armor | 156140 | [156140-arelite-core-horse-armor.json](./156140-arelite-core-horse-armor.json) |
 | Arelt City | 138456 | [138456-arelt-city.json](./138456-arelt-city.json) |
 | Aren't You Overcompensating for Something? | 225804 | [225804-arent-you-overcompensating-for-something.json](./225804-arent-you-overcompensating-for-something.json) |
+| Arena | 133066 | [133066-arena.json](./133066-arena.json) |
 | Arena | 14169 | [14169-arena.json](./14169-arena.json) |
 | Arena | 14599 | [14599-arena.json](./14599-arena.json) |
 | Arena | 179899 | [179899-arena.json](./179899-arena.json) |
@@ -11378,6 +11380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash of Gods: Fan Edition | 257095 | [257095-ash-of-gods-fan-edition.json](./257095-ash-of-gods-fan-edition.json) |
 | Ash of Gods: The Way | 192439 | [192439-ash-of-gods-the-way.json](./192439-ash-of-gods-the-way.json) |
 | Ash of Gods: Universe Bundle | 257096 | [257096-ash-of-gods-universe-bundle.json](./257096-ash-of-gods-universe-bundle.json) |
+| Ash of Legends | 133096 | [133096-ash-of-legends.json](./133096-ash-of-legends.json) |
 | Ash of War | 109684 | [109684-ash-of-war.json](./109684-ash-of-war.json) |
 | Ash of War: Operation Sundown | 174157 | [174157-ash-of-war-operation-sundown.json](./174157-ash-of-war-operation-sundown.json) |
 | Ash Pines: The Motel | 361695 | [361695-ash-pines-the-motel.json](./361695-ash-pines-the-motel.json) |
