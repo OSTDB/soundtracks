@@ -2603,6 +2603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open World Game: The Open World Game | 130270 | [130270-open-world-game-the-open-world-game.json](./130270-open-world-game-the-open-world-game.json) |
 | Open World Game: The Open World Game - The Gratuitous DLC | 133919 | [133919-open-world-game-the-open-world-game-the-gratuitous-dlc.json](./133919-open-world-game-the-open-world-game-the-gratuitous-dlc.json) |
 | Open Your Eyes | 376576 | [376576-open-your-eyes.json](./376576-open-your-eyes.json) |
+| OpenApoc | 128209 | [128209-openapoc.json](./128209-openapoc.json) |
 | OpenArena | 77358 | [77358-openarena.json](./77358-openarena.json) |
 | OpenArena Live | 357434 | [357434-openarena-live.json](./357434-openarena-live.json) |
 | OpenBlox | 376648 | [376648-openblox.json](./376648-openblox.json) |
@@ -2633,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenTaiko | 323888 | [323888-opentaiko.json](./323888-opentaiko.json) |
 | OpenTyrian | 46729 | [46729-opentyrian.json](./46729-opentyrian.json) |
 | OpenViva | 316813 | [316813-openviva.json](./316813-openviva.json) |
+| OpenXcom | 128210 | [128210-openxcom.json](./128210-openxcom.json) |
 | Opera Nova | 280084 | [280084-opera-nova.json](./280084-opera-nova.json) |
 | Opera Omnia | 77359 | [77359-opera-omnia.json](./77359-opera-omnia.json) |
 | Opera Prima | 325565 | [325565-opera-prima.json](./325565-opera-prima.json) |
