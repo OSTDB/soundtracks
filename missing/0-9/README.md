@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Bullets to Midnight | 349287 | [349287-12-bullets-to-midnight.json](./349287-12-bullets-to-midnight.json) |
 | 12 Dino Games in 1 | 54970 | [54970-12-dino-games-in-1.json](./54970-12-dino-games-in-1.json) |
 | 12 Hours | 117354 | [117354-12-hours.json](./117354-12-hours.json) |
+| 12 Hours 2 | 121292 | [121292-12-hours-2.json](./121292-12-hours-2.json) |
 | 12 Hours Before Christmas | 113483 | [113483-12-hours-before-christmas.json](./113483-12-hours-before-christmas.json) |
 | 12 Hours Museum | 308938 | [308938-12-hours-museum.json](./308938-12-hours-museum.json) |
 | 12 Hours to Die | 146790 | [146790-12-hours-to-die.json](./146790-12-hours-to-die.json) |
