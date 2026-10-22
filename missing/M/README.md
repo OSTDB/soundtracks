@@ -4978,6 +4978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MC Groovz Dance Craze | 50581 | [50581-mc-groovz-dance-craze.json](./50581-mc-groovz-dance-craze.json) |
 | MC Hammer: U Can't Touch This | 198811 | [198811-mc-hammer-u-cant-touch-this.json](./198811-mc-hammer-u-cant-touch-this.json) |
 | MC Lars 2: Brotherhood | 75188 | [75188-mc-lars-2-brotherhood.json](./75188-mc-lars-2-brotherhood.json) |
+| MCAS Simulation | 131226 | [131226-mcas-simulation.json](./131226-mcas-simulation.json) |
 | McBelle Manor | 321492 | [321492-mcbelle-manor.json](./321492-mcbelle-manor.json) |
 | McDonald's Chicken McNugget Tetris | 251023 | [251023-mcdonalds-chicken-mcnugget-tetris.json](./251023-mcdonalds-chicken-mcnugget-tetris.json) |
 | McDonald's Fairies: Lily | 254793 | [254793-mcdonalds-fairies-lily.json](./254793-mcdonalds-fairies-lily.json) |
@@ -14745,6 +14746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multilytheus | 186271 | [186271-multilytheus.json](./186271-multilytheus.json) |
 | Multimaker | 109748 | [109748-multimaker.json](./109748-multimaker.json) |
 | Multimedia Cats | 194441 | [194441-multimedia-cats.json](./194441-multimedia-cats.json) |
+| Multimedia Celebrity Poker | 131152 | [131152-multimedia-celebrity-poker.json](./131152-multimedia-celebrity-poker.json) |
 | Multimedia Dinosaurs | 98941 | [98941-multimedia-dinosaurs.json](./98941-multimedia-dinosaurs.json) |
 | Multimedia Shinsho: Driving School - Futsu Menkyoka-hen | 245253 | [245253-multimedia-shinsho-driving-school-futsu-menkyoka-hen.json](./245253-multimedia-shinsho-driving-school-futsu-menkyoka-hen.json) |
 | Multimind | 322244 | [322244-multimind.json](./322244-multimind.json) |
