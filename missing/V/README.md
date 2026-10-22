@@ -3334,5 +3334,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vyulettes | 371006 | [371006-vyulettes.json](./371006-vyulettes.json) |
 | Vyun, Kosmeya, and the Witch's Curse | 374714 | [374714-vyun-kosmeya-and-the-witchs-curse.json](./374714-vyun-kosmeya-and-the-witchs-curse.json) |
 | Vyzyvatel | 374717 | [374717-vyzyvatel.json](./374717-vyzyvatel.json) |
+| VZfit Explorer | 130050 | [130050-vzfit-explorer.json](./130050-vzfit-explorer.json) |
 | VZfit Play | 125428 | [125428-vzfit-play.json](./125428-vzfit-play.json) |
 | VZones | 396501 | [396501-vzones.json](./396501-vzones.json) |
