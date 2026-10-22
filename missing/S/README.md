@@ -4695,6 +4695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Settlemoon | 253593 | [253593-settlemoon.json](./253593-settlemoon.json) |
 | Settler's Domain | 333411 | [333411-settlers-domain.json](./333411-settlers-domain.json) |
 | Settlers of Catan | 320966 | [320966-settlers-of-catan.json](./320966-settlers-of-catan.json) |
+| Settlers of Orion | 118053 | [118053-settlers-of-orion.json](./118053-settlers-of-orion.json) |
 | Settlers of the Deep | 121607 | [121607-settlers-of-the-deep.json](./121607-settlers-of-the-deep.json) |
 | Settris | 252269 | [252269-settris.json](./252269-settris.json) |
 | Setuna: Legend of Hamburger 2 | 391108 | [391108-setuna-legend-of-hamburger-2.json](./391108-setuna-legend-of-hamburger-2.json) |
