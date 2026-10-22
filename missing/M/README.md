@@ -1247,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicians Dead | 76544 | [76544-magicians-dead.json](./76544-magicians-dead.json) |
 | Magicians Dead: Force of the Soul | 172716 | [172716-magicians-dead-force-of-the-soul.json](./172716-magicians-dead-force-of-the-soul.json) |
 | Magicians Lair | 66548 | [66548-magicians-lair.json](./66548-magicians-lair.json) |
+| Magicians Legacy | 125662 | [125662-magicians-legacy.json](./125662-magicians-legacy.json) |
 | Magicians: The Devil's Deal | 405080 | [405080-magicians-the-devils-deal.json](./405080-magicians-the-devils-deal.json) |
 | Magicians' Chase: Missing Curry Recipe | 219286 | [219286-magicians-chase-missing-curry-recipe.json](./219286-magicians-chase-missing-curry-recipe.json) |
 | MagiCirBrk | 98786 | [98786-magicirbrk.json](./98786-magicirbrk.json) |
@@ -2197,6 +2198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man Vs. Missiles | 83195 | [83195-man-vs-missiles.json](./83195-man-vs-missiles.json) |
 | Man vs. Wild With Bear Grylls | 4995 | [4995-man-vs-wild-with-bear-grylls.json](./4995-man-vs-wild-with-bear-grylls.json) |
 | Man Without Clothes Runner | 368469 | [368469-man-without-clothes-runner.json](./368469-man-without-clothes-runner.json) |
+| Man Wreck | 125683 | [125683-man-wreck.json](./125683-man-wreck.json) |
 | Man, I Hate That Indie Game! | 233379 | [233379-man-i-hate-that-indie-game.json](./233379-man-i-hate-that-indie-game.json) |
 | Man, I Love Terraria Fishing | 383611 | [383611-man-i-love-terraria-fishing.json](./383611-man-i-love-terraria-fishing.json) |
 | Man's Body: For Adults | 385312 | [385312-mans-body-for-adults.json](./385312-mans-body-for-adults.json) |
@@ -5551,6 +5553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Warriors | 72139 | [72139-medieval-warriors.json](./72139-medieval-warriors.json) |
 | Medieval Wars | 165697 | [165697-medieval-wars.json](./165697-medieval-wars.json) |
 | Medieval: Defense & Conquest | 255792 | [255792-medieval-defense-and-conquest.json](./255792-medieval-defense-and-conquest.json) |
+| Medieval: Embers of War | 125665 | [125665-medieval-embers-of-war.json](./125665-medieval-embers-of-war.json) |
 | Medieval: Idle Prayer | 364603 | [364603-medieval-idle-prayer.json](./364603-medieval-idle-prayer.json) |
 | Medieval: Total War | 437 | [437-medieval-total-war.json](./437-medieval-total-war.json) |
 | Medieval: Total War - Collection | 82055 | [82055-medieval-total-war-collection.json](./82055-medieval-total-war-collection.json) |
@@ -10206,6 +10209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minivader | 308008 | [308008-minivader.json](./308008-minivader.json) |
 | Miniverse | 179059 | [179059-miniverse.json](./179059-miniverse.json) |
 | Miniverse Minigolf | 93383 | [93383-miniverse-minigolf.json](./93383-miniverse-minigolf.json) |
+| Miniverse Wars | 125709 | [125709-miniverse-wars.json](./125709-miniverse-wars.json) |
 | MiniWood VR | 118159 | [118159-miniwood-vr.json](./118159-miniwood-vr.json) |
 | MiniWorld | 184032 | [184032-miniworld.json](./184032-miniworld.json) |
 | Miniworld Royale | 208969 | [208969-miniworld-royale.json](./208969-miniworld-royale.json) |
@@ -10405,6 +10409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mireille and Amrita, the Forest of Illusions | 188512 | [188512-mireille-and-amrita-the-forest-of-illusions.json](./188512-mireille-and-amrita-the-forest-of-illusions.json) |
 | Mirelaine | 360065 | [360065-mirelaine.json](./360065-mirelaine.json) |
 | Miriam: The Escape | 175703 | [175703-miriam-the-escape.json](./175703-miriam-the-escape.json) |
+| Miriel Saga | 125707 | [125707-miriel-saga.json](./125707-miriel-saga.json) |
 | Miriel the Magical Merchant | 209206 | [209206-miriel-the-magical-merchant.json](./209206-miriel-the-magical-merchant.json) |
 | Miriel's Enchanted Mystery | 53386 | [53386-miriels-enchanted-mystery.json](./53386-miriels-enchanted-mystery.json) |
 | Mirk | 179584 | [179584-mirk.json](./179584-mirk.json) |
@@ -12066,6 +12071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Battle | 302368 | [302368-monster-battle.json](./302368-monster-battle.json) |
 | Monster Battle Quest | 156930 | [156930-monster-battle-quest.json](./156930-monster-battle-quest.json) |
 | Monster Battles | 343864 | [343864-monster-battles.json](./343864-monster-battles.json) |
+| Monster Battles: Portals | 125666 | [125666-monster-battles-portals.json](./125666-monster-battles-portals.json) |
 | Monster Blast | 146780 | [146780-monster-blast.json](./146780-monster-blast.json) |
 | Monster Blast Infinity | 330940 | [330940-monster-blast-infinity.json](./330940-monster-blast-infinity.json) |
 | Monster Block | 41193 | [41193-monster-block.json](./41193-monster-block.json) |
@@ -12731,6 +12737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moo Who? | 414543 | [414543-moo-who.json](./414543-moo-who.json) |
 | Mooch | 34536 | [34536-mooch.json](./34536-mooch.json) |
 | Mood Bye | 319550 | [319550-mood-bye.json](./319550-mood-bye.json) |
+| Moofa | 125698 | [125698-moofa.json](./125698-moofa.json) |
 | Moogle Cavern RPG | 331155 | [331155-moogle-cavern-rpg.json](./331155-moogle-cavern-rpg.json) |
 | Moogle Cavern: The Online RPG | 332646 | [332646-moogle-cavern-the-online-rpg.json](./332646-moogle-cavern-the-online-rpg.json) |
 | Mooh | 307214 | [307214-mooh.json](./307214-mooh.json) |
