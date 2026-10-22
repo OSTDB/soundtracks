@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zippy the Circle: Level 8, Level 9, & Level 10 | 214695 | [214695-zippy-the-circle-level-8-level-9-and-level-10.json](./214695-zippy-the-circle-level-8-level-9-and-level-10.json) |
 | Zippy the Porcupine | 18411 | [18411-zippy-the-porcupine.json](./18411-zippy-the-porcupine.json) |
 | Zippy Zombi | 73813 | [73813-zippy-zombi.json](./73813-zippy-zombi.json) |
+| Ziq | 105068 | [105068-ziq.json](./105068-ziq.json) |
 | Ziria | 106091 | [106091-ziria.json](./106091-ziria.json) |
 | Zirkus-Simulator 2013 | 52781 | [52781-zirkus-simulator-2013.json](./52781-zirkus-simulator-2013.json) |
 | Zissi's Island | 31644 | [31644-zissis-island.json](./31644-zissis-island.json) |
@@ -987,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZJ the Ball: Special | 229078 | [229078-zj-the-ball-special.json](./229078-zj-the-ball-special.json) |
 | Zjawa: Bloodstained Soul | 374587 | [374587-zjawa-bloodstained-soul.json](./374587-zjawa-bloodstained-soul.json) |
 | ZK1L4 | 373213 | [373213-zk1l4.json](./373213-zk1l4.json) |
+| Zkiller | 105153 | [105153-zkiller.json](./105153-zkiller.json) |
 | Zlalox | 302949 | [302949-zlalox.json](./302949-zlalox.json) |
 | Zlap.io | 57339 | [57339-zlap-io.json](./57339-zlap-io.json) |
 | Zlatogorye 2 | 19122 | [19122-zlatogorye-2.json](./19122-zlatogorye-2.json) |
