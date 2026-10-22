@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ICarly: Isock it to 'Em | 210076 | [210076-icarly-isock-it-to-em.json](./210076-icarly-isock-it-to-em.json) |
 | Icarus | 245054 | [245054-icarus.json](./245054-icarus.json) |
 | Icarus | 274674 | [274674-icarus.json](./274674-icarus.json) |
+| Icarus - Prima Regula | 117377 | [117377-icarus-prima-regula.json](./117377-icarus-prima-regula.json) |
 | Icarus Challenge | 210893 | [210893-icarus-challenge.json](./210893-icarus-challenge.json) |
 | Icarus M: Guild War | 309569 | [309569-icarus-m-guild-war.json](./309569-icarus-m-guild-war.json) |
 | Icarus Needs | 119505 | [119505-icarus-needs.json](./119505-icarus-needs.json) |
@@ -3526,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insect Empires | 333428 | [333428-insect-empires.json](./333428-insect-empires.json) |
 | Insect Planet TD | 111461 | [111461-insect-planet-td.json](./111461-insect-planet-td.json) |
 | Insect Planet TD | 111462 | [111462-insect-planet-td.json](./111462-insect-planet-td.json) |
+| Insect Revolution VR | 117356 | [117356-insect-revolution-vr.json](./117356-insect-revolution-vr.json) |
 | Insect Seeker | 180994 | [180994-insect-seeker.json](./180994-insect-seeker.json) |
 | Insect Simulator | 192641 | [192641-insect-simulator.json](./192641-insect-simulator.json) |
 | Insect War | 188844 | [188844-insect-war.json](./188844-insect-war.json) |
@@ -4570,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Guard VR | 127726 | [127726-iron-guard-vr.json](./127726-iron-guard-vr.json) |
 | Iron Guard: Salvation | 333034 | [333034-iron-guard-salvation.json](./333034-iron-guard-salvation.json) |
 | Iron Hammer | 210601 | [210601-iron-hammer.json](./210601-iron-hammer.json) |
+| Iron Heart | 117355 | [117355-iron-heart.json](./117355-iron-heart.json) |
 | Iron Helix | 5394 | [5394-iron-helix.json](./5394-iron-helix.json) |
 | Iron Hopper | 256155 | [256155-iron-hopper.json](./256155-iron-hopper.json) |
 | Iron Hunters | 296943 | [296943-iron-hunters.json](./296943-iron-hunters.json) |
