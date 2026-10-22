@@ -1124,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanna in a Choppa | 416744 | [416744-hanna-in-a-choppa.json](./416744-hanna-in-a-choppa.json) |
 | Hanna in a Choppa 2 | 416746 | [416746-hanna-in-a-choppa-2.json](./416746-hanna-in-a-choppa-2.json) |
 | Hanna in a Choppa 3 | 191624 | [191624-hanna-in-a-choppa-3.json](./191624-hanna-in-a-choppa-3.json) |
+| Hannah | 144173 | [144173-hannah.json](./144173-hannah.json) |
 | Hannah & Henry | 257067 | [257067-hannah-and-henry.json](./257067-hannah-and-henry.json) |
 | Hannah and the Ice Caves | 338367 | [338367-hannah-and-the-ice-caves.json](./338367-hannah-and-the-ice-caves.json) |
 | Hannah and the Kreludor Caves | 338381 | [338381-hannah-and-the-kreludor-caves.json](./338381-hannah-and-the-kreludor-caves.json) |
@@ -6894,6 +6895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Survivors | 236864 | [236864-hollow-survivors.json](./236864-hollow-survivors.json) |
 | Hollow Treats | 378207 | [378207-hollow-treats.json](./378207-hollow-treats.json) |
 | Hollow Victory | 259529 | [259529-hollow-victory.json](./259529-hollow-victory.json) |
+| Hollow Witch | 143998 | [143998-hollow-witch.json](./143998-hollow-witch.json) |
 | Hollow Woods | 323616 | [323616-hollow-woods.json](./323616-hollow-woods.json) |
 | Hollow World: Dark Knight | 231055 | [231055-hollow-world-dark-knight.json](./231055-hollow-world-dark-knight.json) |
 | Hollowbody | 215682 | [215682-hollowbody.json](./215682-hollowbody.json) |
@@ -9441,6 +9443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurry Up Bird Hunter! | 82107 | [82107-hurry-up-bird-hunter.json](./82107-hurry-up-bird-hunter.json) |
 | Hurry Up Hedgehog! | 47855 | [47855-hurry-up-hedgehog.json](./47855-hurry-up-hedgehog.json) |
 | Hurry Up! | 167518 | [167518-hurry-up.json](./167518-hurry-up.json) |
+| Hurt | 144157 | [144157-hurt.json](./144157-hurt.json) |
 | Hurt Me Plenty | 20248 | [20248-hurt-me-plenty.json](./20248-hurt-me-plenty.json) |
 | Huru Beach Party | 24769 | [24769-huru-beach-party.json](./24769-huru-beach-party.json) |
 | Hush | 34988 | [34988-hush.json](./34988-hush.json) |
