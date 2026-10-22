@@ -6379,6 +6379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Gundam Musou | 52832 | [52832-shin-gundam-musou.json](./52832-shin-gundam-musou.json) |
 | Shin Hayarigami | 79331 | [79331-shin-hayarigami.json](./79331-shin-hayarigami.json) |
 | Shin Hayarigami 1-2 Pack | 118125 | [118125-shin-hayarigami-1-2-pack.json](./118125-shin-hayarigami-1-2-pack.json) |
+| Shin Hayarigami 3 | 146010 | [146010-shin-hayarigami-3.json](./146010-shin-hayarigami-3.json) |
 | Shin Hayarigami: Blindman | 95861 | [95861-shin-hayarigami-blindman.json](./95861-shin-hayarigami-blindman.json) |
 | Shin Hayarigami: Doll | 196705 | [196705-shin-hayarigami-doll.json](./196705-shin-hayarigami-doll.json) |
 | Shin Hayarigami: Ghost | 196702 | [196702-shin-hayarigami-ghost.json](./196702-shin-hayarigami-ghost.json) |
@@ -7726,6 +7727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: Platinum Edition | 136199 | [136199-sid-meiers-civilization-vi-platinum-edition.json](./136199-sid-meiers-civilization-vi-platinum-edition.json) |
 | Sid Meier's Civilization VI: Poland Civilization & Scenario Pack | 164399 | [164399-sid-meiers-civilization-vi-poland-civilization-and-scenario-pack.json](./164399-sid-meiers-civilization-vi-poland-civilization-and-scenario-pack.json) |
 | Sid Meier's Civilization VI: Porfirio Diaz Pack | 277798 | [277798-sid-meiers-civilization-vi-porfirio-diaz-pack.json](./277798-sid-meiers-civilization-vi-porfirio-diaz-pack.json) |
+| Sid Meier's Civilization VI: Portugal Pack | 146007 | [146007-sid-meiers-civilization-vi-portugal-pack.json](./146007-sid-meiers-civilization-vi-portugal-pack.json) |
 | Sid Meier's Civilization VI: Shinra Pack | 276934 | [276934-sid-meiers-civilization-vi-shinra-pack.json](./276934-sid-meiers-civilization-vi-shinra-pack.json) |
 | Sid Meier's Civilization VI: Sun and Moon of Teyvat Pack | 278052 | [278052-sid-meiers-civilization-vi-sun-and-moon-of-teyvat-pack.json](./278052-sid-meiers-civilization-vi-sun-and-moon-of-teyvat-pack.json) |
 | Sid Meier's Civilization VI: Super Mario Leaders Pack | 276935 | [276935-sid-meiers-civilization-vi-super-mario-leaders-pack.json](./276935-sid-meiers-civilization-vi-super-mario-leaders-pack.json) |
@@ -9107,6 +9109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six-Sided Streets | 234897 | [234897-six-sided-streets.json](./234897-six-sided-streets.json) |
 | Six! | 88774 | [88774-six.json](./88774-six.json) |
 | Six. Eight. Two. | 281258 | [281258-six-eight-two.json](./281258-six-eight-two.json) |
+| Sixit | 145992 | [145992-sixit.json](./145992-sixit.json) |
 | Sixtar Gate: Startrail | 181103 | [181103-sixtar-gate-startrail.json](./181103-sixtar-gate-startrail.json) |
 | Sixtar Gate: Startrail - Dystopia Pack | 293402 | [293402-sixtar-gate-startrail-dystopia-pack.json](./293402-sixtar-gate-startrail-dystopia-pack.json) |
 | Sixtar Gate: Startrail - Flower & Destiny Pack | 225093 | [225093-sixtar-gate-startrail-flower-and-destiny-pack.json](./225093-sixtar-gate-startrail-flower-and-destiny-pack.json) |
@@ -12852,6 +12855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solivagant | 262840 | [262840-solivagant.json](./262840-solivagant.json) |
 | Sollarion | 238586 | [238586-sollarion.json](./238586-sollarion.json) |
 | Solm | 183079 | [183079-solm.json](./183079-solm.json) |
+| Solo | 145987 | [145987-solo.json](./145987-solo.json) |
 | Solo | 277771 | [277771-solo.json](./277771-solo.json) |
 | Solo | 28315 | [28315-solo.json](./28315-solo.json) |
 | Solo Chess | 372985 | [372985-solo-chess.json](./372985-solo-chess.json) |
@@ -21867,6 +21871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stress, Out! | 258716 | [258716-stress-out.json](./258716-stress-out.json) |
 | StressOut | 128926 | [128926-stressout.json](./128926-stressout.json) |
 | StressRoom | 301256 | [301256-stressroom.json](./301256-stressroom.json) |
+| Stretch Arcade | 146018 | [146018-stretch-arcade.json](./146018-stretch-arcade.json) |
 | Stretch Armstrong: The Breakout | 256871 | [256871-stretch-armstrong-the-breakout.json](./256871-stretch-armstrong-the-breakout.json) |
 | Stretch Guy | 315844 | [315844-stretch-guy.json](./315844-stretch-guy.json) |
 | Stretch Text: Find Proverb | 266834 | [266834-stretch-text-find-proverb.json](./266834-stretch-text-find-proverb.json) |
