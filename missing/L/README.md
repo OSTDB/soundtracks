@@ -3476,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life in the Dorms | 107031 | [107031-life-in-the-dorms.json](./107031-life-in-the-dorms.json) |
 | Life in the Fast Lane | 74057 | [74057-life-in-the-fast-lane.json](./74057-life-in-the-fast-lane.json) |
 | Life in the Machine | 189208 | [189208-life-in-the-machine.json](./189208-life-in-the-machine.json) |
+| Life in the Static | 128838 | [128838-life-in-the-static.json](./128838-life-in-the-static.json) |
 | Life in the Twilight | 239758 | [239758-life-in-the-twilight.json](./239758-life-in-the-twilight.json) |
 | Life In Yima | 144930 | [144930-life-in-yima.json](./144930-life-in-yima.json) |
 | Life Inc. | 389727 | [389727-life-inc.json](./389727-life-inc.json) |
@@ -3842,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
 | Lights Out | 393161 | [393161-lights-out.json](./393161-lights-out.json) |
 | Lights Out Luigi | 323285 | [323285-lights-out-luigi.json](./323285-lights-out-luigi.json) |
+| Lights Out, Please | 128827 | [128827-lights-out-please.json](./128827-lights-out-please.json) |
 | Lights Out! | 376190 | [376190-lights-out.json](./376190-lights-out.json) |
 | Lights, Camera, Party! | 52543 | [52543-lights-camera-party.json](./52543-lights-camera-party.json) |
 | Lightsaver | 388384 | [388384-lightsaver.json](./388384-lightsaver.json) |
