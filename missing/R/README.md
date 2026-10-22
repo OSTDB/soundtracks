@@ -2749,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recollection | 203747 | [203747-recollection.json](./203747-recollection.json) |
 | Recollection | 343806 | [343806-recollection.json](./343806-recollection.json) |
 | Recolorize | 357104 | [357104-recolorize.json](./357104-recolorize.json) |
+| Recommendation Dog!! | 151983 | [151983-recommendation-dog.json](./151983-recommendation-dog.json) |
 | Recon Control | 156914 | [156914-recon-control.json](./156914-recon-control.json) |
 | Recon Quest | 291578 | [291578-recon-quest.json](./291578-recon-quest.json) |
 | Reconciliation | 309536 | [309536-reconciliation.json](./309536-reconciliation.json) |
@@ -3350,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Life | 251963 | [251963-reel-life.json](./251963-reel-life.json) |
 | Reel Me In | 316949 | [316949-reel-me-in.json](./316949-reel-me-in.json) |
 | Reel Run | 367743 | [367743-reel-run.json](./367743-reel-run.json) |
+| Reel Steal | 151984 | [151984-reel-steal.json](./151984-reel-steal.json) |
 | Reel Talk: A Thoughtful Fishcussion | 408172 | [408172-reel-talk-a-thoughtful-fishcussion.json](./408172-reel-talk-a-thoughtful-fishcussion.json) |
 | Reel-istic Fishing | 259823 | [259823-reel-istic-fishing.json](./259823-reel-istic-fishing.json) |
 | Reelism | 141643 | [141643-reelism.json](./141643-reelism.json) |
@@ -6950,6 +6952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Fighter | 216762 | [216762-robot-fighter.json](./216762-robot-fighter.json) |
 | Robot Fighter: Epic Battles | 378407 | [378407-robot-fighter-epic-battles.json](./378407-robot-fighter-epic-battles.json) |
 | Robot Fighting | 86417 | [86417-robot-fighting.json](./86417-robot-fighting.json) |
+| Robot Fishing | 151991 | [151991-robot-fishing.json](./151991-robot-fishing.json) |
 | Robot Girls Z Online | 61535 | [61535-robot-girls-z-online.json](./61535-robot-girls-z-online.json) |
 | Robot Hospice | 342219 | [342219-robot-hospice.json](./342219-robot-hospice.json) |
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
@@ -7324,6 +7327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: TriTrim Wheels | 366848 | [366848-rocket-league-tritrim-wheels.json](./366848-rocket-league-tritrim-wheels.json) |
 | Rocket League: Whiplash | 279244 | [279244-rocket-league-whiplash.json](./279244-rocket-league-whiplash.json) |
 | Rocket Lift | 255178 | [255178-rocket-lift.json](./255178-rocket-lift.json) |
+| Rocket Man | 152089 | [152089-rocket-man.json](./152089-rocket-man.json) |
 | Rocket Man | 315331 | [315331-rocket-man.json](./315331-rocket-man.json) |
 | Rocket Mania | 195213 | [195213-rocket-mania.json](./195213-rocket-mania.json) |
 | Rocket Mania Deluxe | 27815 | [27815-rocket-mania-deluxe.json](./27815-rocket-mania-deluxe.json) |
