@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-22T20:19:01.403Z",
-  "total_missing": 248058,
+  "generated_at": "2026-10-22T20:21:32.277Z",
+  "total_missing": 248057,
   "games": [
     {
       "igdb_id": 191680,
@@ -845320,11 +845320,6 @@
       "igdb_id": 41862,
       "game_name": "Resident Evil: Origins Collection",
       "file": "missing/R/41862-resident-evil-origins-collection.json"
-    },
-    {
-      "igdb_id": 150045,
-      "game_name": "Resident Evil: Revelations",
-      "file": "missing/R/150045-resident-evil-revelations.json"
     },
     {
       "igdb_id": 89903,
