@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Cars | 94261 | [94261-mad-cars.json](./94261-mad-cars.json) |
 | Mad Cat's World | 120910 | [120910-mad-cats-world.json](./120910-mad-cats-world.json) |
 | Mad CEO | 95973 | [95973-mad-ceo.json](./95973-mad-ceo.json) |
+| Mad Chess | 155921 | [155921-mad-chess.json](./155921-mad-chess.json) |
 | Mad City | 48575 | [48575-mad-city.json](./48575-mad-city.json) |
 | Mad Cop 3 | 175371 | [175371-mad-cop-3.json](./175371-mad-cop-3.json) |
 | Mad Cow Man and Deep Fried Beef Fat Boy | 73741 | [73741-mad-cow-man-and-deep-fried-beef-fat-boy.json](./73741-mad-cow-man-and-deep-fried-beef-fat-boy.json) |
@@ -4081,6 +4082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mastermind | 95406 | [95406-mastermind.json](./95406-mastermind.json) |
 | Mastermind - Cows and Bulls Free Word Game | 89711 | [89711-mastermind-cows-and-bulls-free-word-game.json](./89711-mastermind-cows-and-bulls-free-word-game.json) |
 | Mastermind Classic | 135001 | [135001-mastermind-classic.json](./135001-mastermind-classic.json) |
+| Mastermine | 155924 | [155924-mastermine.json](./155924-mastermine.json) |
 | Masternoid | 254402 | [254402-masternoid.json](./254402-masternoid.json) |
 | Masterpack for Doom II | 300701 | [300701-masterpack-for-doom-ii.json](./300701-masterpack-for-doom-ii.json) |
 | Masterpiece | 351033 | [351033-masterpiece.json](./351033-masterpiece.json) |
@@ -4774,6 +4776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Art: Red | 387489 | [387489-maze-art-red.json](./387489-maze-art-red.json) |
 | Maze Ball Neon | 176367 | [176367-maze-ball-neon.json](./176367-maze-ball-neon.json) |
 | Maze Bandit | 43177 | [43177-maze-bandit.json](./43177-maze-bandit.json) |
+| Maze Banquet | 155950 | [155950-maze-banquet.json](./155950-maze-banquet.json) |
 | Maze Blaze | 219287 | [219287-maze-blaze.json](./219287-maze-blaze.json) |
 | Maze Break | 56415 | [56415-maze-break.json](./56415-maze-break.json) |
 | Maze Breaker | 130695 | [130695-maze-breaker.json](./130695-maze-breaker.json) |
@@ -16129,6 +16132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Recycling Center: Resources Trading Expansion | 358250 | [358250-my-recycling-center-resources-trading-expansion.json](./358250-my-recycling-center-resources-trading-expansion.json) |
 | My Rental Girlfriend | 205819 | [205819-my-rental-girlfriend.json](./205819-my-rental-girlfriend.json) |
 | My Resume: The Video Game | 88014 | [88014-my-resume-the-video-game.json](./88014-my-resume-the-video-game.json) |
+| My Retail Store | 155927 | [155927-my-retail-store.json](./155927-my-retail-store.json) |
 | My Retro World | 374823 | [374823-my-retro-world.json](./374823-my-retro-world.json) |
 | My Riding Stables | 17045 | [17045-my-riding-stables.json](./17045-my-riding-stables.json) |
 | My Riding Stables 2: A New Adventure | 140008 | [140008-my-riding-stables-2-a-new-adventure.json](./140008-my-riding-stables-2-a-new-adventure.json) |
