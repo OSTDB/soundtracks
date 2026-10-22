@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale in the Desert | 23701 | [23701-a-tale-in-the-desert.json](./23701-a-tale-in-the-desert.json) |
 | A Tale In The Garden | 332404 | [332404-a-tale-in-the-garden.json](./332404-a-tale-in-the-garden.json) |
 | A Tale in the Zoo | 312833 | [312833-a-tale-in-the-zoo.json](./312833-a-tale-in-the-zoo.json) |
+| A Tale of Arms and Ale | 103132 | [103132-a-tale-of-arms-and-ale.json](./103132-a-tale-of-arms-and-ale.json) |
 | A Tale of Betrayal | 312850 | [312850-a-tale-of-betrayal.json](./312850-a-tale-of-betrayal.json) |
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
 | A Tale of Brothers | 358879 | [358879-a-tale-of-brothers.json](./358879-a-tale-of-brothers.json) |
@@ -1642,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss | 414121 | [414121-abyss.json](./414121-abyss.json) |
 | Abyss | 80512 | [80512-abyss.json](./80512-abyss.json) |
 | Abyss | 8524 | [8524-abyss.json](./8524-abyss.json) |
+| Abyss and Dark: The King's Secret Pledge | 103146 | [103146-abyss-and-dark-the-kings-secret-pledge.json](./103146-abyss-and-dark-the-kings-secret-pledge.json) |
 | Abyss and Dungeon | 292164 | [292164-abyss-and-dungeon.json](./292164-abyss-and-dungeon.json) |
 | Abyss Boat | 276095 | [276095-abyss-boat.json](./276095-abyss-boat.json) |
 | Abyss Cards | 398037 | [398037-abyss-cards.json](./398037-abyss-cards.json) |
