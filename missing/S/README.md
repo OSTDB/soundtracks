@@ -7971,6 +7971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sign Craft: Simulator | 273426 | [273426-sign-craft-simulator.json](./273426-sign-craft-simulator.json) |
 | Sign It | 413186 | [413186-sign-it.json](./413186-sign-it.json) |
 | Sign Me ABCs | 103659 | [103659-sign-me-abcs.json](./103659-sign-me-abcs.json) |
+| Sign of Silence | 139275 | [139275-sign-of-silence.json](./139275-sign-of-silence.json) |
 | Sign of the Sun | 69878 | [69878-sign-of-the-sun.json](./69878-sign-of-the-sun.json) |
 | Sign of Torment | 257348 | [257348-sign-of-torment.json](./257348-sign-of-torment.json) |
 | Sign Off | 364705 | [364705-sign-off.json](./364705-sign-off.json) |
@@ -9950,6 +9951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyscraper Jump | 199392 | [199392-skyscraper-jump.json](./199392-skyscraper-jump.json) |
 | Skyscraper Simulator | 9421 | [9421-skyscraper-simulator.json](./9421-skyscraper-simulator.json) |
 | Skyscrapers Puzzle: Airi's tale | 104155 | [104155-skyscrapers-puzzle-airis-tale.json](./104155-skyscrapers-puzzle-airis-tale.json) |
+| Skyseeker | 139284 | [139284-skyseeker.json](./139284-skyseeker.json) |
 | SkyShard | 362918 | [362918-skyshard.json](./362918-skyshard.json) |
 | Skyshine's Bedlam | 12637 | [12637-skyshines-bedlam.json](./12637-skyshines-bedlam.json) |
 | Skyshine's Bedlam Redux! | 51904 | [51904-skyshines-bedlam-redux.json](./51904-skyshines-bedlam-redux.json) |
@@ -15331,6 +15333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pilot 2 | 25723 | [25723-space-pilot-2.json](./25723-space-pilot-2.json) |
 | Space Pilot Alliance | 182834 | [182834-space-pilot-alliance.json](./182834-space-pilot-alliance.json) |
 | Space Pinball | 50595 | [50595-space-pinball.json](./50595-space-pinball.json) |
+| Space Pirate Sara | 139039 | [139039-space-pirate-sara.json](./139039-space-pirate-sara.json) |
 | Space Pirate Trainer | 34041 | [34041-space-pirate-trainer.json](./34041-space-pirate-trainer.json) |
 | Space Pirate Trainer DX | 174556 | [174556-space-pirate-trainer-dx.json](./174556-space-pirate-trainer-dx.json) |
 | Space Pirates | 176837 | [176837-space-pirates.json](./176837-space-pirates.json) |
@@ -16188,6 +16191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Metal Vimana | 184827 | [184827-speed-metal-vimana.json](./184827-speed-metal-vimana.json) |
 | Speed NFL | 289009 | [289009-speed-nfl.json](./289009-speed-nfl.json) |
 | Speed Night | 278689 | [278689-speed-night.json](./278689-speed-night.json) |
+| Speed of Doom | 139026 | [139026-speed-of-doom.json](./139026-speed-of-doom.json) |
 | Speed or Death | 254053 | [254053-speed-or-death.json](./254053-speed-or-death.json) |
 | Speed Overflow | 306537 | [306537-speed-overflow.json](./306537-speed-overflow.json) |
 | Speed Plumber | 290270 | [290270-speed-plumber.json](./290270-speed-plumber.json) |
@@ -26680,8 +26684,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Castle | 64879 | [64879-sushi-castle.json](./64879-sushi-castle.json) |
 | Sushi Cat | 87214 | [87214-sushi-cat.json](./87214-sushi-cat.json) |
 | Sushi Cat 2 | 323934 | [323934-sushi-cat-2.json](./323934-sushi-cat-2.json) |
+| Sushi Cat 2: The Great Purrade | 139055 | [139055-sushi-cat-2-the-great-purrade.json](./139055-sushi-cat-2-the-great-purrade.json) |
 | Sushi Cat Legacy Collection | 377246 | [377246-sushi-cat-legacy-collection.json](./377246-sushi-cat-legacy-collection.json) |
 | Sushi Cat Storycraft World Creator | 377775 | [377775-sushi-cat-storycraft-world-creator.json](./377775-sushi-cat-storycraft-world-creator.json) |
+| Sushi Cat the Honeymoon | 139054 | [139054-sushi-cat-the-honeymoon.json](./139054-sushi-cat-the-honeymoon.json) |
 | Sushi Cat Words | 249366 | [249366-sushi-cat-words.json](./249366-sushi-cat-words.json) |
 | Sushi Cat: Tower Defense | 364270 | [364270-sushi-cat-tower-defense.json](./364270-sushi-cat-tower-defense.json) |
 | Sushi Catapult | 320746 | [320746-sushi-catapult.json](./320746-sushi-catapult.json) |
