@@ -2649,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Land | 132641 | [132641-new-super-mario-land.json](./132641-new-super-mario-land.json) |
 | New Super Mario Lost Worlds | 394349 | [394349-new-super-mario-lost-worlds.json](./394349-new-super-mario-lost-worlds.json) |
 | New Super Mario Run | 314116 | [314116-new-super-mario-run.json](./314116-new-super-mario-run.json) |
+| New Super Mario World 1: The Twelve Magic Orbs | 130007 | [130007-new-super-mario-world-1-the-twelve-magic-orbs.json](./130007-new-super-mario-world-1-the-twelve-magic-orbs.json) |
 | New Super Mario World 1: The Twelve Magic Orbs - Powered-Up | 222515 | [222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json](./222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json) |
 | New Super Mario World: The Seven Crystals of Peace | 267935 | [267935-new-super-mario-world-the-seven-crystals-of-peace.json](./267935-new-super-mario-world-the-seven-crystals-of-peace.json) |
 | New Super Triv III | 307370 | [307370-new-super-triv-iii.json](./307370-new-super-triv-iii.json) |
@@ -4408,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Break | 159162 | [159162-no-break.json](./159162-no-break.json) |
 | No Breaks Valet | 268949 | [268949-no-breaks-valet.json](./268949-no-breaks-valet.json) |
 | No Bugs On My Windshield | 292584 | [292584-no-bugs-on-my-windshield.json](./292584-no-bugs-on-my-windshield.json) |
+| No Captain Allowed! | 130039 | [130039-no-captain-allowed.json](./130039-no-captain-allowed.json) |
 | No Chance | 146866 | [146866-no-chance.json](./146866-no-chance.json) |
 | No Clean, No Exit | 414769 | [414769-no-clean-no-exit.json](./414769-no-clean-no-exit.json) |
 | No Clue VR | 28669 | [28669-no-clue-vr.json](./28669-no-clue-vr.json) |
@@ -5122,6 +5124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nontan to Issho: Kuru-kuru Puzzle | 44400 | [44400-nontan-to-issho-kuru-kuru-puzzle.json](./44400-nontan-to-issho-kuru-kuru-puzzle.json) |
 | Nontan to Issho: Nohara de Asobo | 268519 | [268519-nontan-to-issho-nohara-de-asobo.json](./268519-nontan-to-issho-nohara-de-asobo.json) |
 | Nonu | 292378 | [292378-nonu.json](./292378-nonu.json) |
+| Noob Hunter | 130053 | [130053-noob-hunter.json](./130053-noob-hunter.json) |
 | Noob Squad | 32242 | [32242-noob-squad.json](./32242-noob-squad.json) |
 | Noob: Les Sans-Factions - Limited Edition | 242937 | [242937-noob-les-sans-factions-limited-edition.json](./242937-noob-les-sans-factions-limited-edition.json) |
 | Noob: The Factionless | 130564 | [130564-noob-the-factionless.json](./130564-noob-the-factionless.json) |
