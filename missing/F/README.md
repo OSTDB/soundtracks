@@ -4690,6 +4690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefight | 121746 | [121746-firefight.json](./121746-firefight.json) |
 | Firefight | 21411 | [21411-firefight.json](./21411-firefight.json) |
 | Firefight! | 128251 | [128251-firefight.json](./128251-firefight.json) |
+| Firefighter | 154875 | [154875-firefighter.json](./154875-firefighter.json) |
 | Firefighter Command: Raging Inferno | 22631 | [22631-firefighter-command-raging-inferno.json](./22631-firefighter-command-raging-inferno.json) |
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
 | Firefighter Gaiden | 381277 | [381277-firefighter-gaiden.json](./381277-firefighter-gaiden.json) |
@@ -4740,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FireKrackers | 264686 | [264686-firekrackers.json](./264686-firekrackers.json) |
 | Firelight Fantasy: Force Energy | 147483 | [147483-firelight-fantasy-force-energy.json](./147483-firelight-fantasy-force-energy.json) |
 | Firelight Fantasy: Phoenix Crew | 151013 | [151013-firelight-fantasy-phoenix-crew.json](./151013-firelight-fantasy-phoenix-crew.json) |
+| Firelight Fantasy: Resistance | 154880 | [154880-firelight-fantasy-resistance.json](./154880-firelight-fantasy-resistance.json) |
 | Firelight Fantasy: Vengeance | 153982 | [153982-firelight-fantasy-vengeance.json](./153982-firelight-fantasy-vengeance.json) |
 | Firelord | 13846 | [13846-firelord.json](./13846-firelord.json) |
 | Firelore: Short Tales | 333391 | [333391-firelore-short-tales.json](./333391-firelore-short-tales.json) |
@@ -7463,6 +7465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Restoration | 361744 | [361744-forest-restoration.json](./361744-forest-restoration.json) |
 | Forest Rites | 360707 | [360707-forest-rites.json](./360707-forest-rites.json) |
 | Forest run | 46452 | [46452-forest-run.json](./46452-forest-run.json) |
+| Forest Run: Animal Adventure | 154867 | [154867-forest-run-animal-adventure.json](./154867-forest-run-animal-adventure.json) |
 | Forest Runner | 330583 | [330583-forest-runner.json](./330583-forest-runner.json) |
 | Forest Showdown: Cat Hero Battle | 293975 | [293975-forest-showdown-cat-hero-battle.json](./293975-forest-showdown-cat-hero-battle.json) |
 | Forest Simulator 2025 | 326427 | [326427-forest-simulator-2025.json](./326427-forest-simulator-2025.json) |
@@ -10246,6 +10249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Function | 119618 | [119618-function.json](./119618-function.json) |
 | Function Ball | 293503 | [293503-function-ball.json](./293503-function-ball.json) |
 | Function.Repair | 63827 | [63827-function-repair.json](./63827-function-repair.json) |
+| Functional | 154877 | [154877-functional.json](./154877-functional.json) |
 | Functional: Trees | 296599 | [296599-functional-trees.json](./296599-functional-trees.json) |
 | Fundación 3M España: The Recycling Heroes | 377228 | [377228-fundacion-3m-espana-the-recycling-heroes.json](./377228-fundacion-3m-espana-the-recycling-heroes.json) |
 | Fune Tarou | 42241 | [42241-fune-tarou.json](./42241-fune-tarou.json) |
