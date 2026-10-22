@@ -1129,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Salt | 165056 | [165056-old-salt.json](./165056-old-salt.json) |
 | Old School | 61167 | [61167-old-school.json](./61167-old-school.json) |
 | Old School FOTD | 74453 | [74453-old-school-fotd.json](./74453-old-school-fotd.json) |
+| Old School Horror Game : Bright Day | 125679 | [125679-old-school-horror-game-bright-day.json](./125679-old-school-horror-game-bright-day.json) |
 | Old School Racer | 91887 | [91887-old-school-racer.json](./91887-old-school-racer.json) |
 | Old School Rally | 293490 | [293490-old-school-rally.json](./293490-old-school-rally.json) |
 | Old School RPG | 253456 | [253456-old-school-rpg.json](./253456-old-school-rpg.json) |
@@ -2654,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Airsoft | 146587 | [146587-operation-airsoft.json](./146587-operation-airsoft.json) |
 | Operation Apex | 75498 | [75498-operation-apex.json](./75498-operation-apex.json) |
 | Operation Apocalypse | 23991 | [23991-operation-apocalypse.json](./23991-operation-apocalypse.json) |
+| Operation Armstrong | 125668 | [125668-operation-armstrong.json](./125668-operation-armstrong.json) |
 | Operation Babel: New Tokyo Legacy | 25593 | [25593-operation-babel-new-tokyo-legacy.json](./25593-operation-babel-new-tokyo-legacy.json) |
 | Operation Blackout | 341514 | [341514-operation-blackout.json](./341514-operation-blackout.json) |
 | Operation Blindside: Annihilation | 343440 | [343440-operation-blindside-annihilation.json](./343440-operation-blindside-annihilation.json) |
