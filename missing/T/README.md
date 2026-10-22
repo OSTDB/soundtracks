@@ -2348,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team | 93207 | [93207-team.json](./93207-team.json) |
 | Team 47 GoMan | 180229 | [180229-team-47-goman.json](./180229-team-47-goman.json) |
 | Team Assault: Baptism of Fire | 66032 | [66032-team-assault-baptism-of-fire.json](./66032-team-assault-baptism-of-fire.json) |
+| Team Awesome | 112056 | [112056-team-awesome.json](./112056-team-awesome.json) |
 | Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart | 70412 | [70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json](./70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json) |
 | Team Canada Table Hockey | 88129 | [88129-team-canada-table-hockey.json](./88129-team-canada-table-hockey.json) |
 | Team Conquest | 220053 | [220053-team-conquest.json](./220053-team-conquest.json) |
@@ -18371,6 +18372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TinTin: Destination Adventure | 43902 | [43902-tintin-destination-adventure.json](./43902-tintin-destination-adventure.json) |
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
 | Tiny | 298261 | [298261-tiny.json](./298261-tiny.json) |
+| tiny & Tall: Gleipnir | 112031 | [112031-tiny-and-tall-gleipnir.json](./112031-tiny-and-tall-gleipnir.json) |
 | Tiny 2048 | 267568 | [267568-tiny-2048.json](./267568-tiny-2048.json) |
 | Tiny Adventure | 304163 | [304163-tiny-adventure.json](./304163-tiny-adventure.json) |
 | Tiny and Big: Grandpa's Leftovers | 3079 | [3079-tiny-and-big-grandpas-leftovers.json](./3079-tiny-and-big-grandpas-leftovers.json) |
@@ -18727,6 +18729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Quest: Gold Edition | 51386 | [51386-titan-quest-gold-edition.json](./51386-titan-quest-gold-edition.json) |
 | Titan Quest: Ragnarök | 75999 | [75999-titan-quest-ragnarok.json](./75999-titan-quest-ragnarok.json) |
 | Titan Revenge | 278356 | [278356-titan-revenge.json](./278356-titan-revenge.json) |
+| Titan Saga: Chains of Kronos | 112060 | [112060-titan-saga-chains-of-kronos.json](./112060-titan-saga-chains-of-kronos.json) |
 | Titan Shell | 216499 | [216499-titan-shell.json](./216499-titan-shell.json) |
 | Titan Shield | 118065 | [118065-titan-shield.json](./118065-titan-shield.json) |
 | Titan Slayer | 193956 | [193956-titan-slayer.json](./193956-titan-slayer.json) |
@@ -18810,6 +18813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TitTok Kitty: Pussy | 235183 | [235183-tittok-kitty-pussy.json](./235183-tittok-kitty-pussy.json) |
 | Titty Crush | 99701 | [99701-titty-crush.json](./99701-titty-crush.json) |
 | Titty World | 334675 | [334675-titty-world.json](./334675-titty-world.json) |
+| Titus the Fox | 112076 | [112076-titus-the-fox.json](./112076-titus-the-fox.json) |
 | Titus the Fox | 65798 | [65798-titus-the-fox.json](./65798-titus-the-fox.json) |
 | Titus the Fox: To Marrakech and Back | 6313 | [6313-titus-the-fox-to-marrakech-and-back.json](./6313-titus-the-fox-to-marrakech-and-back.json) |
 | Titus: Politics is not a game | 223618 | [223618-titus-politics-is-not-a-game.json](./223618-titus-politics-is-not-a-game.json) |
@@ -19073,6 +19077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toast the Chicken: Hard Puzzle Game Unique Brain Teaser | 232534 | [232534-toast-the-chicken-hard-puzzle-game-unique-brain-teaser.json](./232534-toast-the-chicken-hard-puzzle-game-unique-brain-teaser.json) |
 | Toast the Ghost | 220146 | [220146-toast-the-ghost.json](./220146-toast-the-ghost.json) |
 | Toast Time | 17708 | [17708-toast-time.json](./17708-toast-time.json) |
+| Toast Time: Smash Up! | 112079 | [112079-toast-time-smash-up.json](./112079-toast-time-smash-up.json) |
 | Toast! | 23987 | [23987-toast.json](./23987-toast.json) |
 | Toasted! | 188101 | [188101-toasted.json](./188101-toasted.json) |
 | Toaster Defense | 157144 | [157144-toaster-defense.json](./157144-toaster-defense.json) |
