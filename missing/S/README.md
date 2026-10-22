@@ -7745,6 +7745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: Maya & Gran Colombia Pack | 164406 | [164406-sid-meiers-civilization-vi-maya-and-gran-colombia-pack.json](./164406-sid-meiers-civilization-vi-maya-and-gran-colombia-pack.json) |
 | Sid Meier's Civilization VI: Mona Megistus Pack | 278742 | [278742-sid-meiers-civilization-vi-mona-megistus-pack.json](./278742-sid-meiers-civilization-vi-mona-megistus-pack.json) |
 | Sid Meier's Civilization VI: Mudrock Pack | 278635 | [278635-sid-meiers-civilization-vi-mudrock-pack.json](./278635-sid-meiers-civilization-vi-mudrock-pack.json) |
+| Sid Meier's Civilization VI: New Frontier Pass | 136310 | [136310-sid-meiers-civilization-vi-new-frontier-pass.json](./136310-sid-meiers-civilization-vi-new-frontier-pass.json) |
 | Sid Meier's Civilization VI: Nubia Civilization & Scenario Pack | 164403 | [164403-sid-meiers-civilization-vi-nubia-civilization-and-scenario-pack.json](./164403-sid-meiers-civilization-vi-nubia-civilization-and-scenario-pack.json) |
 | Sid Meier's Civilization VI: Persia and Macedon Civilization & Scenario Pack | 164405 | [164405-sid-meiers-civilization-vi-persia-and-macedon-civilization-and-scenario-pack.json](./164405-sid-meiers-civilization-vi-persia-and-macedon-civilization-and-scenario-pack.json) |
 | Sid Meier's Civilization VI: Platinum Edition | 136199 | [136199-sid-meiers-civilization-vi-platinum-edition.json](./136199-sid-meiers-civilization-vi-platinum-edition.json) |
@@ -19234,6 +19235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcom: Nexus | 107854 | [107854-starcom-nexus.json](./107854-starcom-nexus.json) |
 | Starcom: Unknown Space | 211207 | [211207-starcom-unknown-space.json](./211207-starcom-unknown-space.json) |
 | Starcraft | 417642 | [417642-starcraft.json](./417642-starcraft.json) |
+| StarCraft II: Battle Chest | 136312 | [136312-starcraft-ii-battle-chest.json](./136312-starcraft-ii-battle-chest.json) |
 | StarCraft II: Campaign Collection | 356059 | [356059-starcraft-ii-campaign-collection.json](./356059-starcraft-ii-campaign-collection.json) |
 | Starcraft II: Heart of the Swarm - Collector's Edition | 46441 | [46441-starcraft-ii-heart-of-the-swarm-collectors-edition.json](./46441-starcraft-ii-heart-of-the-swarm-collectors-edition.json) |
 | StarCraft II: Legacy of the Void - Collector's Edition | 51293 | [51293-starcraft-ii-legacy-of-the-void-collectors-edition.json](./51293-starcraft-ii-legacy-of-the-void-collectors-edition.json) |
