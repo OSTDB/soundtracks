@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Blacksmith | 231942 | [231942-jack-blacksmith.json](./231942-jack-blacksmith.json) |
 | Jack Claw | 63244 | [63244-jack-claw.json](./63244-jack-claw.json) |
 | Jack Flash | 93078 | [93078-jack-flash.json](./93078-jack-flash.json) |
+| Jack Hayes: The Lazarus Sign | 133067 | [133067-jack-hayes-the-lazarus-sign.json](./133067-jack-hayes-the-lazarus-sign.json) |
 | Jack Horror | 63859 | [63859-jack-horror.json](./63859-jack-horror.json) |
 | Jack In Space | 409664 | [409664-jack-in-space.json](./409664-jack-in-space.json) |
 | Jack In Town | 129041 | [129041-jack-in-town.json](./129041-jack-in-town.json) |
@@ -920,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jessie 'Boom' James | 148344 | [148344-jessie-boom-james.json](./148344-jessie-boom-james.json) |
 | Jessie Jaeger in Cleopatra's Curse | 142392 | [142392-jessie-jaeger-in-cleopatras-curse.json](./142392-jessie-jaeger-in-cleopatras-curse.json) |
 | Jessie: Mother's Sins | 165371 | [165371-jessie-mothers-sins.json](./165371-jessie-mothers-sins.json) |
+| Jessika | 133092 | [133092-jessika.json](./133092-jessika.json) |
 | Jessy: Ein Zirkuspferd in Not | 85736 | [85736-jessy-ein-zirkuspferd-in-not.json](./85736-jessy-ein-zirkuspferd-in-not.json) |
 | Jest Messter | 296155 | [296155-jest-messter.json](./296155-jest-messter.json) |
 | Jester | 251714 | [251714-jester.json](./251714-jester.json) |
