@@ -3110,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party 4 Deluxe | 323833 | [323833-mario-party-4-deluxe.json](./323833-mario-party-4-deluxe.json) |
 | Mario Party 5 | 2331 | [2331-mario-party-5.json](./2331-mario-party-5.json) |
 | Mario Party 6 | 2333 | [2333-mario-party-6.json](./2333-mario-party-6.json) |
+| Mario Party 64 | 131856 | [131856-mario-party-64.json](./131856-mario-party-64.json) |
 | Mario Party 7 | 2334 | [2334-mario-party-7.json](./2334-mario-party-7.json) |
 | Mario Party 7 Bon Voyage | 231602 | [231602-mario-party-7-bon-voyage.json](./231602-mario-party-7-bon-voyage.json) |
 | Mario Party 8 | 328675 | [328675-mario-party-8.json](./328675-mario-party-8.json) |
@@ -3202,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario: The Music Box | 140400 | [140400-mario-the-music-box.json](./140400-mario-the-music-box.json) |
 | Mario: The Music Box Remastered | 239176 | [239176-mario-the-music-box-remastered.json](./239176-mario-the-music-box-remastered.json) |
 | Mario.exe | 274985 | [274985-mario-exe.json](./274985-mario-exe.json) |
+| Mario's Amazing Adventure Revitalized | 131860 | [131860-marios-amazing-adventure-revitalized.json](./131860-marios-amazing-adventure-revitalized.json) |
 | Mario's Balls | 343829 | [343829-marios-balls.json](./343829-marios-balls.json) |
 | Mario's Bombs Away | 131938 | [131938-marios-bombs-away.json](./131938-marios-bombs-away.json) |
 | Mario's Carnival Quest | 307903 | [307903-marios-carnival-quest.json](./307903-marios-carnival-quest.json) |
@@ -5367,6 +5369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Allied Assault - Breakthrough | 9229 | [9229-medal-of-honor-allied-assault-breakthrough.json](./9229-medal-of-honor-allied-assault-breakthrough.json) |
 | Medal of Honor: Allied Assault - War Chest | 51836 | [51836-medal-of-honor-allied-assault-war-chest.json](./51836-medal-of-honor-allied-assault-war-chest.json) |
 | Medal of Honor: Heroes | 1312 | [1312-medal-of-honor-heroes.json](./1312-medal-of-honor-heroes.json) |
+| Medal of Honor: Pacific Assault - Director's Edition | 131852 | [131852-medal-of-honor-pacific-assault-directors-edition.json](./131852-medal-of-honor-pacific-assault-directors-edition.json) |
 | Medal of Honor: Tier 1 Edition | 47463 | [47463-medal-of-honor-tier-1-edition.json](./47463-medal-of-honor-tier-1-edition.json) |
 | Medal of Honor: Warfighter | 1306 | [1306-medal-of-honor-warfighter.json](./1306-medal-of-honor-warfighter.json) |
 | Medal of Honor: Warfighter - Digital Deluxe Edition | 202061 | [202061-medal-of-honor-warfighter-digital-deluxe-edition.json](./202061-medal-of-honor-warfighter-digital-deluxe-edition.json) |
