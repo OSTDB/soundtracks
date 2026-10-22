@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oasis Invasion | 380648 | [380648-oasis-invasion.json](./380648-oasis-invasion.json) |
 | Oasis Mission: Colony Sim | 274349 | [274349-oasis-mission-colony-sim.json](./274349-oasis-mission-colony-sim.json) |
 | Oasis of Lilies | 412276 | [412276-oasis-of-lilies.json](./412276-oasis-of-lilies.json) |
+| Oasis Shooting Ops | 120579 | [120579-oasis-shooting-ops.json](./120579-oasis-shooting-ops.json) |
 | Oasis VR | 140520 | [140520-oasis-vr.json](./140520-oasis-vr.json) |
 | Oasis: Dark Forest | 189348 | [189348-oasis-dark-forest.json](./189348-oasis-dark-forest.json) |
 | OAsys | 368597 | [368597-oasys.json](./368597-oasys.json) |
@@ -1177,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oldschool Tennis | 367591 | [367591-oldschool-tennis.json](./367591-oldschool-tennis.json) |
 | oldTail | 98990 | [98990-oldtail.json](./98990-oldtail.json) |
 | OldTV | 80544 | [80544-oldtv.json](./80544-oldtv.json) |
+| OldWar 2 | 120583 | [120583-oldwar-2.json](./120583-oldwar-2.json) |
 | Olé, Toro | 93445 | [93445-ole-toro.json](./93445-ole-toro.json) |
 | Ole! | 93045 | [93045-ole.json](./93045-ole.json) |
 | Olea's Messenger | 110501 | [110501-oleas-messenger.json](./110501-oleas-messenger.json) |
@@ -1600,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Run | 361697 | [361697-on-the-run.json](./361697-on-the-run.json) |
 | On the Trail of the Whitetail | 127993 | [127993-on-the-trail-of-the-whitetail.json](./127993-on-the-trail-of-the-whitetail.json) |
 | On the Train | 392124 | [392124-on-the-train.json](./392124-on-the-train.json) |
+| On the Verge II | 120595 | [120595-on-the-verge-ii.json](./120595-on-the-verge-ii.json) |
 | On the Way | 356580 | [356580-on-the-way.json](./356580-on-the-way.json) |
 | On the Western Front | 102411 | [102411-on-the-western-front.json](./102411-on-the-western-front.json) |
 | On the Wind | 233220 | [233220-on-the-wind.json](./233220-on-the-wind.json) |
@@ -3512,6 +3515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otaku's Rage: Waifu Strikes Back | 144368 | [144368-otakus-rage-waifu-strikes-back.json](./144368-otakus-rage-waifu-strikes-back.json) |
 | Otakus Don't Want to Fall in Love | 303295 | [303295-otakus-dont-want-to-fall-in-love.json](./303295-otakus-dont-want-to-fall-in-love.json) |
 | Otar Island | 380769 | [380769-otar-island.json](./380769-otar-island.json) |
+| Otawamure | 120605 | [120605-otawamure.json](./120605-otawamure.json) |
 | Otenba Becky no Daibouken | 131894 | [131894-otenba-becky-no-daibouken.json](./131894-otenba-becky-no-daibouken.json) |
 | Otenki Kororin: Weather Tales | 299832 | [299832-otenki-kororin-weather-tales.json](./299832-otenki-kororin-weather-tales.json) |
 | Othello | 128892 | [128892-othello.json](./128892-othello.json) |
@@ -4275,6 +4279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over Run | 134901 | [134901-over-run.json](./134901-over-run.json) |
 | Over Sand | 402485 | [402485-over-sand.json](./402485-over-sand.json) |
 | Over Shooter | 339284 | [339284-over-shooter.json](./339284-over-shooter.json) |
+| Over Sky | 120597 | [120597-over-sky.json](./120597-over-sky.json) |
 | Over Speed | 247021 | [247021-over-speed.json](./247021-over-speed.json) |
 | Over the Alps: King of the Mountain | 135802 | [135802-over-the-alps-king-of-the-mountain.json](./135802-over-the-alps-king-of-the-mountain.json) |
 | Over the Counter | 186813 | [186813-over-the-counter.json](./186813-over-the-counter.json) |
