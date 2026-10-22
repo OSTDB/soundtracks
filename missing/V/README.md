@@ -1423,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vibrant Frame | 304246 | [304246-vibrant-frame.json](./304246-vibrant-frame.json) |
 | Vibrant Venture | 127991 | [127991-vibrant-venture.json](./127991-vibrant-venture.json) |
 | Vibrant World Adventure | 288092 | [288092-vibrant-world-adventure.json](./288092-vibrant-world-adventure.json) |
+| Vibur: Disintegration - Episode 1 | 118045 | [118045-vibur-disintegration-episode-1.json](./118045-vibur-disintegration-episode-1.json) |
 | Vic Panic | 130371 | [130371-vic-panic.json](./130371-vic-panic.json) |
 | VIC Scramble | 92825 | [92825-vic-scramble.json](./92825-vic-scramble.json) |
 | ViCam | 142857 | [142857-vicam.json](./142857-vicam.json) |
