@@ -1786,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imaginary | 94153 | [94153-imaginary.json](./94153-imaginary.json) |
 | Imaginary Chaos Fight | 340509 | [340509-imaginary-chaos-fight.json](./340509-imaginary-chaos-fight.json) |
 | Imaginary Friend Asylum | 273459 | [273459-imaginary-friend-asylum.json](./273459-imaginary-friend-asylum.json) |
+| Imaginary Friends | 133689 | [133689-imaginary-friends.json](./133689-imaginary-friends.json) |
 | Imaginary Girl: Prequel | 253347 | [253347-imaginary-girl-prequel.json](./253347-imaginary-girl-prequel.json) |
 | Imaginary Girls Three Kingdoms | 235347 | [235347-imaginary-girls-three-kingdoms.json](./235347-imaginary-girls-three-kingdoms.json) |
 | Imaginary Golf Game | 413176 | [413176-imaginary-golf-game.json](./413176-imaginary-golf-game.json) |
