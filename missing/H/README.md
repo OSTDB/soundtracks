@@ -2983,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hela: Of Mice & Magic | 314449 | [314449-hela-of-mice-and-magic.json](./314449-hela-of-mice-and-magic.json) |
 | Helam: A Stripling Warrior Quest | 65468 | [65468-helam-a-stripling-warrior-quest.json](./65468-helam-a-stripling-warrior-quest.json) |
 | Helbreath | 307147 | [307147-helbreath.json](./307147-helbreath.json) |
+| Helbreath Apocalypse | 133642 | [133642-helbreath-apocalypse.json](./133642-helbreath-apocalypse.json) |
 | Helbreath Argentina | 306180 | [306180-helbreath-argentina.json](./306180-helbreath-argentina.json) |
 | Helbreath Nemesis | 292432 | [292432-helbreath-nemesis.json](./292432-helbreath-nemesis.json) |
 | Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
@@ -4584,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero-U: Rogue to Redemption | 64359 | [64359-hero-u-rogue-to-redemption.json](./64359-hero-u-rogue-to-redemption.json) |
 | Hero: 108 Online | 209873 | [209873-hero-108-online.json](./209873-hero-108-online.json) |
 | Hero: Flood Rescue | 118428 | [118428-hero-flood-rescue.json](./118428-hero-flood-rescue.json) |
+| Hero.EXE | 133074 | [133074-hero-exe.json](./133074-hero-exe.json) |
 | Hero's Advent | 361242 | [361242-heros-advent.json](./361242-heros-advent.json) |
 | Hero's Adventure: Road to Passion | 275459 | [275459-heros-adventure-road-to-passion.json](./275459-heros-adventure-road-to-passion.json) |
 | Hero's Arms | 346633 | [346633-heros-arms.json](./346633-heros-arms.json) |
@@ -6614,6 +6616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hlína | 335501 | [335501-hlina.json](./335501-hlina.json) |
 | Hlípa | 131414 | [131414-hlipa.json](./131414-hlipa.json) |
 | Hmph! Hmph! Yowai | 289454 | [289454-hmph-hmph-yowai.json](./289454-hmph-hmph-yowai.json) |
+| Hnefatafl | 133083 | [133083-hnefatafl.json](./133083-hnefatafl.json) |
 | Hnefatafl Online | 291399 | [291399-hnefatafl-online.json](./291399-hnefatafl-online.json) |
 | Ho Ho Ho Sokoban | 411131 | [411131-ho-ho-ho-sokoban.json](./411131-ho-ho-ho-sokoban.json) |
 | Ho-Ho-Home Invasion | 141655 | [141655-ho-ho-home-invasion.json](./141655-ho-ho-home-invasion.json) |
@@ -7975,6 +7978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Racing Manager | 288809 | [288809-horse-racing-manager.json](./288809-horse-racing-manager.json) |
 | Horse Racing Manager 2 | 67994 | [67994-horse-racing-manager-2.json](./67994-horse-racing-manager-2.json) |
 | Horse Racing Manager 2020 | 233117 | [233117-horse-racing-manager-2020.json](./233117-horse-racing-manager-2020.json) |
+| Horse Racing Rally | 133103 | [133103-horse-racing-rally.json](./133103-horse-racing-rally.json) |
 | Horse Riding Classic | 391814 | [391814-horse-riding-classic.json](./391814-horse-riding-classic.json) |
 | Horse Riding Deluxe | 81654 | [81654-horse-riding-deluxe.json](./81654-horse-riding-deluxe.json) |
 | Horse Riding Tales | 235160 | [235160-horse-riding-tales.json](./235160-horse-riding-tales.json) |
