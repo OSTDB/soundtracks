@@ -820,15 +820,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Wombo | 351010 | [351010-camp-wombo.json](./351010-camp-wombo.json) |
 | Campaign | 14371 | [14371-campaign.json](./14371-campaign.json) |
 | Campaign | 246322 | [246322-campaign.json](./246322-campaign.json) |
+| Campaign 1814 | 144833 | [144833-campaign-1814.json](./144833-campaign-1814.json) |
 | Campaign Antietam | 182260 | [182260-campaign-antietam.json](./182260-campaign-antietam.json) |
+| Campaign Austerlitz | 144835 | [144835-campaign-austerlitz.json](./144835-campaign-austerlitz.json) |
+| Campaign Bautzen | 144832 | [144832-campaign-bautzen.json](./144832-campaign-bautzen.json) |
+| Campaign Eylau-Friedland | 144829 | [144829-campaign-eylau-friedland.json](./144829-campaign-eylau-friedland.json) |
 | Campaign Gettysburg | 182261 | [182261-campaign-gettysburg.json](./182261-campaign-gettysburg.json) |
 | Campaign II | 14372 | [14372-campaign-ii.json](./14372-campaign-ii.json) |
 | Campaign Including 25 Extra Missions | 72048 | [72048-campaign-including-25-extra-missions.json](./72048-campaign-including-25-extra-missions.json) |
+| Campaign Jena-Auerstedt | 144836 | [144836-campaign-jena-auerstedt.json](./144836-campaign-jena-auerstedt.json) |
+| Campaign Leipzig | 144834 | [144834-campaign-leipzig.json](./144834-campaign-leipzig.json) |
 | Campaign Manager: An Election Simulator | 94882 | [94882-campaign-manager-an-election-simulator.json](./94882-campaign-manager-an-election-simulator.json) |
+| Campaign Marengo | 144830 | [144830-campaign-marengo.json](./144830-campaign-marengo.json) |
 | Campaign Ozark | 135885 | [135885-campaign-ozark.json](./135885-campaign-ozark.json) |
 | Campaign Series Vietnam | 150123 | [150123-campaign-series-vietnam.json](./150123-campaign-series-vietnam.json) |
 | Campaign Series: Middle East 1948-1985 | 59492 | [59492-campaign-series-middle-east-1948-1985.json](./59492-campaign-series-middle-east-1948-1985.json) |
 | Campaign Trail | 309186 | [309186-campaign-trail.json](./309186-campaign-trail.json) |
+| Campaign Waterloo | 144837 | [144837-campaign-waterloo.json](./144837-campaign-waterloo.json) |
 | Campaign: From North Africa to Northern Europe | 73730 | [73730-campaign-from-north-africa-to-northern-europe.json](./73730-campaign-from-north-africa-to-northern-europe.json) |
 | Campaigns on the Danube | 59498 | [59498-campaigns-on-the-danube.json](./59498-campaigns-on-the-danube.json) |
 | Campaña contra el Opio 2024 | 298967 | [298967-campana-contra-el-opio-2024.json](./298967-campana-contra-el-opio-2024.json) |
@@ -5916,6 +5924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choices, the Game | 83531 | [83531-choices-the-game.json](./83531-choices-the-game.json) |
 | Choirsaintess | 367060 | [367060-choirsaintess.json](./367060-choirsaintess.json) |
 | Choju Yokai Giga | 151684 | [151684-choju-yokai-giga.json](./151684-choju-yokai-giga.json) |
+| Choker: Chess & Poker | 144646 | [144646-choker-chess-and-poker.json](./144646-choker-chess-and-poker.json) |
 | Chokkan Asonde Rilakkuma | 279117 | [279117-chokkan-asonde-rilakkuma.json](./279117-chokkan-asonde-rilakkuma.json) |
 | Chokkan Crash Bandicoot | 210241 | [210241-chokkan-crash-bandicoot.json](./210241-chokkan-crash-bandicoot.json) |
 | Choko Loco 2 | 321179 | [321179-choko-loco-2.json](./321179-choko-loco-2.json) |
@@ -12566,6 +12575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashland | 144349 | [144349-crashland.json](./144349-crashland.json) |
 | Crashletics | 242217 | [242217-crashletics.json](./242217-crashletics.json) |
 | CrashMetal | 174683 | [174683-crashmetal.json](./174683-crashmetal.json) |
+| CrashMetal: Cyberpunk | 144661 | [144661-crashmetal-cyberpunk.json](./144661-crashmetal-cyberpunk.json) |
 | CrashMetal: Drift Racing Car Driving Simulator | 213805 | [213805-crashmetal-drift-racing-car-driving-simulator.json](./213805-crashmetal-drift-racing-car-driving-simulator.json) |
 | CrashMetal: Drift Racing Car Driving Simulator - Premium Edition | 283151 | [283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json](./283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json) |
 | Crashnauts | 34131 | [34131-crashnauts.json](./34131-crashnauts.json) |
@@ -12827,6 +12837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Jump | 158121 | [158121-crazy-jump.json](./158121-crazy-jump.json) |
 | Crazy Justice | 56548 | [56548-crazy-justice.json](./56548-crazy-justice.json) |
 | Crazy Kickers | 57615 | [57615-crazy-kickers.json](./57615-crazy-kickers.json) |
+| Crazy Killer | 144678 | [144678-crazy-killer.json](./144678-crazy-killer.json) |
 | Crazy Kings | 114734 | [114734-crazy-kings.json](./114734-crazy-kings.json) |
 | Crazy Kitchen | 265675 | [265675-crazy-kitchen.json](./265675-crazy-kitchen.json) |
 | Crazy Kong | 130753 | [130753-crazy-kong.json](./130753-crazy-kong.json) |
