@@ -5299,6 +5299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Broken Seal | 74493 | [74493-the-broken-seal.json](./74493-the-broken-seal.json) |
 | The Broken Seal: Arena | 86434 | [86434-the-broken-seal-arena.json](./86434-the-broken-seal-arena.json) |
 | The Broken Vow | 322173 | [322173-the-broken-vow.json](./322173-the-broken-vow.json) |
+| The Bronx | 154914 | [154914-the-bronx.json](./154914-the-bronx.json) |
 | The Broston Saga | 143932 | [143932-the-broston-saga.json](./143932-the-broston-saga.json) |
 | The Brotherhood of Ruin | 142277 | [142277-the-brotherhood-of-ruin.json](./142277-the-brotherhood-of-ruin.json) |
 | The Brothers | 216751 | [216751-the-brothers.json](./216751-the-brothers.json) |
@@ -13513,6 +13514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tarot Experience VR | 257684 | [257684-the-tarot-experience-vr.json](./257684-the-tarot-experience-vr.json) |
 | The Tartarus Loop | 410449 | [410449-the-tartarus-loop.json](./410449-the-tartarus-loop.json) |
 | The Tartine's Show | 263657 | [263657-the-tartines-show.json](./263657-the-tartines-show.json) |
+| The Tau Ceti Terminus | 154895 | [154895-the-tau-ceti-terminus.json](./154895-the-tau-ceti-terminus.json) |
 | The Tau Experiment | 276144 | [276144-the-tau-experiment.json](./276144-the-tau-experiment.json) |
 | The Tavern | 36596 | [36596-the-tavern.json](./36596-the-tavern.json) |
 | The Tavern In the Woods | 347191 | [347191-the-tavern-in-the-woods.json](./347191-the-tavern-in-the-woods.json) |
@@ -18852,6 +18854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobakero | 227736 | [227736-tobakero.json](./227736-tobakero.json) |
 | Tobal 2 | 1662 | [1662-tobal-2.json](./1662-tobal-2.json) |
 | Tobari 2: Dream Ocean | 135815 | [135815-tobari-2-dream-ocean.json](./135815-tobari-2-dream-ocean.json) |
+| Tobari 2: Nightmare | 154883 | [154883-tobari-2-nightmare.json](./154883-tobari-2-nightmare.json) |
 | Tobari and the Vampire Alchemist | 398568 | [398568-tobari-and-the-vampire-alchemist.json](./398568-tobari-and-the-vampire-alchemist.json) |
 | Tobari Dream Ocean + Nightmare | 276950 | [276950-tobari-dream-ocean-nightmare.json](./276950-tobari-dream-ocean-nightmare.json) |
 | Tobari Dream Ocean: Nightmare | 277229 | [277229-tobari-dream-ocean-nightmare.json](./277229-tobari-dream-ocean-nightmare.json) |
