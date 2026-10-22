@@ -7979,6 +7979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Petit 2 | 9148 | [9148-guilty-gear-petit-2.json](./9148-guilty-gear-petit-2.json) |
 | Guilty Gear Strive: In the Name of Peace | 372007 | [372007-guilty-gear-strive-in-the-name-of-peace.json](./372007-guilty-gear-strive-in-the-name-of-peace.json) |
 | Guilty Gear X | 9141 | [9141-guilty-gear-x.json](./9141-guilty-gear-x.json) |
+| Guilty Gear X: Ver 1.5 | 134303 | [134303-guilty-gear-x-ver-1-5.json](./134303-guilty-gear-x-ver-1-5.json) |
 | Guilty Gear X2 | 9142 | [9142-guilty-gear-x2.json](./9142-guilty-gear-x2.json) |
 | Guilty Gear X2 #Reload | 9143 | [9143-guilty-gear-x2-reload.json](./9143-guilty-gear-x2-reload.json) |
 | Guilty Gear Xrd 2: Character Colors Kum Haehyun | 342873 | [342873-guilty-gear-xrd-2-character-colors-kum-haehyun.json](./342873-guilty-gear-xrd-2-character-colors-kum-haehyun.json) |
