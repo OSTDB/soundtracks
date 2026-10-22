@@ -5072,6 +5072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing | 246456 | [246456-fishing.json](./246456-fishing.json) |
 | Fishing | 358837 | [358837-fishing.json](./358837-fishing.json) |
 | Fishing | 359190 | [359190-fishing.json](./359190-fishing.json) |
+| Fishing 3D | 141692 | [141692-fishing-3d.json](./141692-fishing-3d.json) |
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
 | FIshing Adventure VR | 127004 | [127004-fishing-adventure-vr.json](./127004-fishing-adventure-vr.json) |
 | Fishing Adventure: Finland Reserve | 250800 | [250800-fishing-adventure-finland-reserve.json](./250800-fishing-adventure-finland-reserve.json) |
@@ -10899,6 +10900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FX Football | 9788 | [9788-fx-football.json](./9788-fx-football.json) |
 | FX Racer | 380682 | [380682-fx-racer.json](./380682-fx-racer.json) |
 | Fx Racer Unlimited | 175117 | [175117-fx-racer-unlimited.json](./175117-fx-racer-unlimited.json) |
+| Fxxx Me Royally!! Horny Magical Princess | 141710 | [141710-fxxx-me-royally-horny-magical-princess.json](./141710-fxxx-me-royally-horny-magical-princess.json) |
 | Fyd | 80898 | [80898-fyd.json](./80898-fyd.json) |
 | Fydo's Magic Tiles | 215179 | [215179-fydos-magic-tiles.json](./215179-fydos-magic-tiles.json) |
 | Fylgja | 92098 | [92098-fylgja.json](./92098-fylgja.json) |
