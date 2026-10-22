@@ -12260,6 +12260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Eater Ep.1 | 118096 | [118096-dream-eater-ep-1.json](./118096-dream-eater-ep-1.json) |
 | Dream Eaters.exe | 344353 | [344353-dream-eaters-exe.json](./344353-dream-eaters-exe.json) |
 | Dream Enders | 114878 | [114878-dream-enders.json](./114878-dream-enders.json) |
+| Dream Ending | 120017 | [120017-dream-ending.json](./120017-dream-ending.json) |
 | Dream Ending: Drama | 121033 | [121033-dream-ending-drama.json](./121033-dream-ending-drama.json) |
 | Dream Engines: Nomad Cities | 118281 | [118281-dream-engines-nomad-cities.json](./118281-dream-engines-nomad-cities.json) |
 | Dream Enkoure | 316157 | [316157-dream-enkoure.json](./316157-dream-enkoure.json) |
@@ -13207,6 +13208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DrumMania | 80397 | [80397-drummania.json](./80397-drummania.json) |
 | DrumMania 3rdMix | 188662 | [188662-drummania-3rdmix.json](./188662-drummania-3rdmix.json) |
 | DrumMania V8 | 60432 | [60432-drummania-v8.json](./60432-drummania-v8.json) |
+| DrumMasterVR | 120035 | [120035-drummastervr.json](./120035-drummastervr.json) |
 | Drump Simulator | 407362 | [407362-drump-simulator.json](./407362-drump-simulator.json) |
 | Drumpf 2: Lost, But Not Forgotten! | 120366 | [120366-drumpf-2-lost-but-not-forgotten.json](./120366-drumpf-2-lost-but-not-forgotten.json) |
 | Drumpf: Rise Up, Libertonia! | 88017 | [88017-drumpf-rise-up-libertonia.json](./88017-drumpf-rise-up-libertonia.json) |
