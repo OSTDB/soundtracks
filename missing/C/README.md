@@ -10777,6 +10777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraband Patrol Simulator | 364973 | [364973-contraband-patrol-simulator.json](./364973-contraband-patrol-simulator.json) |
 | Contraband Police - Crimson Fall | 381783 | [381783-contraband-police-crimson-fall.json](./381783-contraband-police-crimson-fall.json) |
 | Contrablade World | 197162 | [197162-contrablade-world.json](./197162-contrablade-world.json) |
+| Contract | 131217 | [131217-contract.json](./131217-contract.json) |
 | Contract Bridge Solo | 398415 | [398415-contract-bridge-solo.json](./398415-contract-bridge-solo.json) |
 | Contract Cooks | 403578 | [403578-contract-cooks.json](./403578-contract-cooks.json) |
 | Contract Demon | 140911 | [140911-contract-demon.json](./140911-contract-demon.json) |
@@ -13659,6 +13660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crordle | 223555 | [223555-crordle.json](./223555-crordle.json) |
 | Crosak | 380164 | [380164-crosak.json](./380164-crosak.json) |
 | Crosps | 125844 | [125844-crosps.json](./125844-crosps.json) |
+| Cross & Word Games | 131185 | [131185-cross-and-word-games.json](./131185-cross-and-word-games.json) |
 | Cross and Crush | 89270 | [89270-cross-and-crush.json](./89270-cross-and-crush.json) |
 | Cross Blitz | 158620 | [158620-cross-blitz.json](./158620-cross-blitz.json) |
 | Cross Board Soccer | 154278 | [154278-cross-board-soccer.json](./154278-cross-board-soccer.json) |
