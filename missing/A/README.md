@@ -6268,6 +6268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber County | 102067 | [102067-amber-county.json](./102067-amber-county.json) |
 | Amber Effect | 174693 | [174693-amber-effect.json](./174693-amber-effect.json) |
 | Amber Island | 210903 | [210903-amber-island.json](./210903-amber-island.json) |
+| Amber Isle | 152188 | [152188-amber-isle.json](./152188-amber-isle.json) |
 | Amber Isle: Deluxe Edition | 330195 | [330195-amber-isle-deluxe-edition.json](./330195-amber-isle-deluxe-edition.json) |
 | Amber Isle: Starter Pack | 330221 | [330221-amber-isle-starter-pack.json](./330221-amber-isle-starter-pack.json) |
 | Amber of The End | 359547 | [359547-amber-of-the-end.json](./359547-amber-of-the-end.json) |
@@ -7983,7 +7984,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Old Town Pack | 227938 | [227938-anno-1800-old-town-pack.json](./227938-anno-1800-old-town-pack.json) |
 | Anno 1800: Pirate Cove Pack | 317336 | [317336-anno-1800-pirate-cove-pack.json](./317336-anno-1800-pirate-cove-pack.json) |
 | Anno 1800: Royal Edition | 136141 | [136141-anno-1800-royal-edition.json](./136141-anno-1800-royal-edition.json) |
+| Anno 1800: Season 2 Pass | 152007 | [152007-anno-1800-season-2-pass.json](./152007-anno-1800-season-2-pass.json) |
+| Anno 1800: Season 3 Pass | 152008 | [152008-anno-1800-season-3-pass.json](./152008-anno-1800-season-3-pass.json) |
 | Anno 1800: Season 4 Pass | 194884 | [194884-anno-1800-season-4-pass.json](./194884-anno-1800-season-4-pass.json) |
+| Anno 1800: Season Pass | 152006 | [152006-anno-1800-season-pass.json](./152006-anno-1800-season-pass.json) |
 | Anno 1800: Seasonal Decorations Pack | 227405 | [227405-anno-1800-seasonal-decorations-pack.json](./227405-anno-1800-seasonal-decorations-pack.json) |
 | Anno 1800: Seeds of Change | 197349 | [197349-anno-1800-seeds-of-change.json](./197349-anno-1800-seeds-of-change.json) |
 | Anno 1800: The High Life | 165588 | [165588-anno-1800-the-high-life.json](./165588-anno-1800-the-high-life.json) |
