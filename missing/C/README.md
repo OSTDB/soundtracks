@@ -15073,6 +15073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cumrooms | 385318 | [385318-cumrooms.json](./385318-cumrooms.json) |
 | Cumulater | 241347 | [241347-cumulater.json](./241347-cumulater.json) |
 | Cumulative Pack 2 | 323709 | [323709-cumulative-pack-2.json](./323709-cumulative-pack-2.json) |
+| Cumulus | 125063 | [125063-cumulus.json](./125063-cumulus.json) |
 | Cumverse | 339355 | [339355-cumverse.json](./339355-cumverse.json) |
 | Cunning Crooks | 382888 | [382888-cunning-crooks.json](./382888-cunning-crooks.json) |
 | Cunning Fox | 83527 | [83527-cunning-fox.json](./83527-cunning-fox.json) |
