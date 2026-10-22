@@ -5387,6 +5387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShadowCore VR | 75069 | [75069-shadowcore-vr.json](./75069-shadowcore-vr.json) |
 | Shadowcrawl | 80971 | [80971-shadowcrawl.json](./80971-shadowcrawl.json) |
 | Shadowcrypt | 17711 | [17711-shadowcrypt.json](./17711-shadowcrypt.json) |
+| Shadowcut | 134898 | [134898-shadowcut.json](./134898-shadowcut.json) |
 | Shadowed Descent | 304838 | [304838-shadowed-descent.json](./304838-shadowed-descent.json) |
 | Shadowed: The Demon Castle of Ooe | 363669 | [363669-shadowed-the-demon-castle-of-ooe.json](./363669-shadowed-the-demon-castle-of-ooe.json) |
 | Shadowfall | 250990 | [250990-shadowfall.json](./250990-shadowfall.json) |
@@ -6070,6 +6071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheepland | 175269 | [175269-sheepland.json](./175269-sheepland.json) |
 | Sheeple | 337502 | [337502-sheeple.json](./337502-sheeple.json) |
 | Sheeple | 410724 | [410724-sheeple.json](./410724-sheeple.json) |
+| Sheepless Nights | 135082 | [135082-sheepless-nights.json](./135082-sheepless-nights.json) |
 | Sheeplings | 203522 | [203522-sheeplings.json](./203522-sheeplings.json) |
 | Sheeplings | 25508 | [25508-sheeplings.json](./25508-sheeplings.json) |
 | Sheeps | 391303 | [391303-sheeps.json](./391303-sheeps.json) |
@@ -21402,6 +21404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strangers World: The Swarm | 236365 | [236365-strangers-world-the-swarm.json](./236365-strangers-world-the-swarm.json) |
 | StrangerZ | 237435 | [237435-strangerz.json](./237435-strangerz.json) |
 | Strangest.io's My Megamix '21 | 195798 | [195798-strangest-ios-my-megamix-21.json](./195798-strangest-ios-my-megamix-21.json) |
+| Strangle/Hold | 134906 | [134906-strangle-hold.json](./134906-strangle-hold.json) |
 | Stranglehold | 6146 | [6146-stranglehold.json](./6146-stranglehold.json) |
 | Strangling a Snake Tale | 294028 | [294028-strangling-a-snake-tale.json](./294028-strangling-a-snake-tale.json) |
 | Strania: The Stella Machina | 34342 | [34342-strania-the-stella-machina.json](./34342-strania-the-stella-machina.json) |
@@ -25012,6 +25015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monaco GP | 4528 | [4528-super-monaco-gp.json](./4528-super-monaco-gp.json) |
 | Super Monday Night Combat | 16255 | [16255-super-monday-night-combat.json](./16255-super-monday-night-combat.json) |
 | Super Monk War Z | 151038 | [151038-super-monk-war-z.json](./151038-super-monk-war-z.json) |
+| Super Monkey Ball | 134907 | [134907-super-monkey-ball.json](./134907-super-monkey-ball.json) |
 | Super Monkey Ball | 2927 | [2927-super-monkey-ball.json](./2927-super-monkey-ball.json) |
 | Super Monkey Ball 2 | 2928 | [2928-super-monkey-ball-2.json](./2928-super-monkey-ball-2.json) |
 | Super Monkey Ball Adventure | 248530 | [248530-super-monkey-ball-adventure.json](./248530-super-monkey-ball-adventure.json) |
@@ -26390,6 +26394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surprise Attack | 46783 | [46783-surprise-attack.json](./46783-surprise-attack.json) |
 | Surprise Cat | 213593 | [213593-surprise-cat.json](./213593-surprise-cat.json) |
 | Surprise Eggs | 96609 | [96609-surprise-eggs.json](./96609-surprise-eggs.json) |
+| Surprise Mechanic: The Gaming Trivia | 134896 | [134896-surprise-mechanic-the-gaming-trivia.json](./134896-surprise-mechanic-the-gaming-trivia.json) |
 | Surprise Party! | 164907 | [164907-surprise-party.json](./164907-surprise-party.json) |
 | Surprising Laws Around the World True or False Quiz | 401096 | [401096-surprising-laws-around-the-world-true-or-false-quiz.json](./401096-surprising-laws-around-the-world-true-or-false-quiz.json) |
 | Surprising My Neighbors 2 | 149038 | [149038-surprising-my-neighbors-2.json](./149038-surprising-my-neighbors-2.json) |
@@ -28024,6 +28029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SYS: Save Your Soul | 386330 | [386330-sys-save-your-soul.json](./386330-sys-save-your-soul.json) |
 | Sys//Purge | 395041 | [395041-sys-purge.json](./395041-sys-purge.json) |
 | SysAdmin Odyssey: Back to the office | 293870 | [293870-sysadmin-odyssey-back-to-the-office.json](./293870-sysadmin-odyssey-back-to-the-office.json) |
+| Syscrusher | 134905 | [134905-syscrusher.json](./134905-syscrusher.json) |
 | Sysop | 130950 | [130950-sysop.json](./130950-sysop.json) |
 | SysOps Saga | 279482 | [279482-sysops-saga.json](./279482-sysops-saga.json) |
 | System 15000 | 262189 | [262189-system-15000.json](./262189-system-15000.json) |
