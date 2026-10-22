@@ -4421,6 +4421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akcionář II | 391053 | [391053-akcionar-ii.json](./391053-akcionar-ii.json) |
 | Akda | 81676 | [81676-akda.json](./81676-akda.json) |
 | Ake no Yosuga: Twilight Loop | 402477 | [402477-ake-no-yosuga-twilight-loop.json](./402477-ake-no-yosuga-twilight-loop.json) |
+| Ake-Bre | 130602 | [130602-ake-bre.json](./130602-ake-bre.json) |
 | Akechi to Iu Otoko: A Danshaku-tei Satsujin Jiken | 340395 | [340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json](./340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json) |
 | Akeiro ni Somaru, Utsukushiki Yashiro de | 394791 | [394791-akeiro-ni-somaru-utsukushiki-yashiro-de.json](./394791-akeiro-ni-somaru-utsukushiki-yashiro-de.json) |
 | Akemi-tan | 150550 | [150550-akemi-tan.json](./150550-akemi-tan.json) |
@@ -7305,6 +7306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anger of Stick 2 | 299011 | [299011-anger-of-stick-2.json](./299011-anger-of-stick-2.json) |
 | Anger of Stick 4 | 237643 | [237643-anger-of-stick-4.json](./237643-anger-of-stick-4.json) |
 | Anger of Stick 5: Zombie | 331159 | [331159-anger-of-stick-5-zombie.json](./331159-anger-of-stick-5-zombie.json) |
+| Angeraze 2: Tenshi no Kiseki | 130601 | [130601-angeraze-2-tenshi-no-kiseki.json](./130601-angeraze-2-tenshi-no-kiseki.json) |
 | AngerDark | 112797 | [112797-angerdark.json](./112797-angerdark.json) |
 | AngerForce: Reloaded for Nintendo Switch | 147948 | [147948-angerforce-reloaded-for-nintendo-switch.json](./147948-angerforce-reloaded-for-nintendo-switch.json) |
 | AngerOfStick | 175433 | [175433-angerofstick.json](./175433-angerofstick.json) |
@@ -9907,6 +9909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcante | 140486 | [140486-arcante.json](./140486-arcante.json) |
 | Arcanterra | 303346 | [303346-arcanterra.json](./303346-arcanterra.json) |
 | Arcanum | 258506 | [258506-arcanum.json](./258506-arcanum.json) |
+| Arcanum Echo: Sorairo no Elexia | 130595 | [130595-arcanum-echo-sorairo-no-elexia.json](./130595-arcanum-echo-sorairo-no-elexia.json) |
 | Arcanus Online | 351054 | [351054-arcanus-online.json](./351054-arcanus-online.json) |
 | Arcany | 375981 | [375981-arcany.json](./375981-arcany.json) |
 | ArcaPinball: NeoWorlds | 146892 | [146892-arcapinball-neoworlds.json](./146892-arcapinball-neoworlds.json) |
@@ -11802,6 +11805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Suits Valken Declassified | 240410 | [240410-assault-suits-valken-declassified.json](./240410-assault-suits-valken-declassified.json) |
 | Assault Wing | 274517 | [274517-assault-wing.json](./274517-assault-wing.json) |
 | AssaultCube | 9530 | [9530-assaultcube.json](./9530-assaultcube.json) |
+| AssaultCube Reloaded | 130611 | [130611-assaultcube-reloaded.json](./130611-assaultcube-reloaded.json) |
 | AssaultTech 1: BattleTech | 66071 | [66071-assaulttech-1-battletech.json](./66071-assaulttech-1-battletech.json) |
 | Asscar | 345573 | [345573-asscar.json](./345573-asscar.json) |
 | Assemblage of Angels | 299123 | [299123-assemblage-of-angels.json](./299123-assemblage-of-angels.json) |
@@ -12495,6 +12499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atajrubah | 36426 | [36426-atajrubah.json](./36426-atajrubah.json) |
 | Atak | 226226 | [226226-atak.json](./226226-atak.json) |
 | Atama | 207724 | [207724-atama.json](./207724-atama.json) |
+| Atama de DO! Kotencotenco | 130609 | [130609-atama-de-do-kotencotenco.json](./130609-atama-de-do-kotencotenco.json) |
 | Atama ga Saeru Chou IQ | 251625 | [251625-atama-ga-saeru-chou-iq.json](./251625-atama-ga-saeru-chou-iq.json) |
 | Atama Ikuto | 344367 | [344367-atama-ikuto.json](./344367-atama-ikuto.json) |
 | Atama no Kaiten no Training: Rubik's Cube & Chou Yuumei Puzzle Tachi | 269564 | [269564-atama-no-kaiten-no-training-rubiks-cube-and-chou-yuumei-puzzle-tachi.json](./269564-atama-no-kaiten-no-training-rubiks-cube-and-chou-yuumei-puzzle-tachi.json) |
