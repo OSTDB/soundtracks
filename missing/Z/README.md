@@ -1806,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zorakk: The Conqueror | 57154 | [57154-zorakk-the-conqueror.json](./57154-zorakk-the-conqueror.json) |
 | Zorax | 221227 | [221227-zorax.json](./221227-zorax.json) |
 | Zorbit's Orbits | 108880 | [108880-zorbits-orbits.json](./108880-zorbits-orbits.json) |
+| Zorbus | 126268 | [126268-zorbus.json](./126268-zorbus.json) |
 | Zordak | 140297 | [140297-zordak.json](./140297-zordak.json) |
 | Zoria and the Cursed Land | 152227 | [152227-zoria-and-the-cursed-land.json](./152227-zoria-and-the-cursed-land.json) |
 | Zoria: Age of Shattering | 123928 | [123928-zoria-age-of-shattering.json](./123928-zoria-age-of-shattering.json) |
