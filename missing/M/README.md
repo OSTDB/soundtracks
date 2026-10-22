@@ -9498,6 +9498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine or Die | 99115 | [99115-mine-or-die.json](./99115-mine-or-die.json) |
 | Mine Puzzle Pieces of Flower Garden World | 379027 | [379027-mine-puzzle-pieces-of-flower-garden-world.json](./379027-mine-puzzle-pieces-of-flower-garden-world.json) |
 | Mine Quest | 196868 | [196868-mine-quest.json](./196868-mine-quest.json) |
+| Mine Royale - Battle Royale | 111408 | [111408-mine-royale-battle-royale.json](./111408-mine-royale-battle-royale.json) |
 | Mine Safety | 347472 | [347472-mine-safety.json](./347472-mine-safety.json) |
 | Mine Searcher | 95619 | [95619-mine-searcher.json](./95619-mine-searcher.json) |
 | Mine Seeker | 225731 | [225731-mine-seeker.json](./225731-mine-seeker.json) |
