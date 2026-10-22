@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhūtiān Jì | 157534 | [157534-zhutian-ji.json](./157534-zhutian-ji.json) |
 | Zhuzi Subdues Demons | 295167 | [295167-zhuzi-subdues-demons.json](./295167-zhuzi-subdues-demons.json) |
 | Zi | 279039 | [279039-zi.json](./279039-zi.json) |
+| Zǐ Fēimāo | 155930 | [155930-zi-feimao.json](./155930-zi-feimao.json) |
 | ZI Survival | 220735 | [220735-zi-survival.json](./220735-zi-survival.json) |
 | Zì Xī Cú Dōng | 163846 | [163846-zi-xi-cu-dong.json](./163846-zi-xi-cu-dong.json) |
 | Zi´s Mansion | 418744 | [418744-zi-s-mansion.json](./418744-zi-s-mansion.json) |
