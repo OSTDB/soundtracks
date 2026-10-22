@@ -996,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A thousand words that I could tell you | 257539 | [257539-a-thousand-words-that-i-could-tell-you.json](./257539-a-thousand-words-that-i-could-tell-you.json) |
 | A Thousand Words to Tell I Love You | 183791 | [183791-a-thousand-words-to-tell-i-love-you.json](./183791-a-thousand-words-to-tell-i-love-you.json) |
 | A Thug's Ascension | 250817 | [250817-a-thugs-ascension.json](./250817-a-thugs-ascension.json) |
+| A Ticket to Ride | 100037 | [100037-a-ticket-to-ride.json](./100037-a-ticket-to-ride.json) |
 | A Time of Life | 166666 | [166666-a-time-of-life.json](./166666-a-time-of-life.json) |
 | A Time Traveller's Guide to Past Delicacies | 285882 | [285882-a-time-travellers-guide-to-past-delicacies.json](./285882-a-time-travellers-guide-to-past-delicacies.json) |
 | A Timeless Carol | 112305 | [112305-a-timeless-carol.json](./112305-a-timeless-carol.json) |
@@ -1166,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Zone | 125102 | [125102-a-zone.json](./125102-a-zone.json) |
 | A-01's Voyage.Logs | 399288 | [399288-a-01s-voyage-logs.json](./399288-a-01s-voyage-logs.json) |
 | A-10 Tank Killer | 14200 | [14200-a-10-tank-killer.json](./14200-a-10-tank-killer.json) |
+| A-10 Tank Killer + Extra Missions | 100046 | [100046-a-10-tank-killer-extra-missions.json](./100046-a-10-tank-killer-extra-missions.json) |
 | A-10 Tank Killer Version 1.5 | 15570 | [15570-a-10-tank-killer-version-1-5.json](./15570-a-10-tank-killer-version-1-5.json) |
 | A-10 VR | 33665 | [33665-a-10-vr.json](./33665-a-10-vr.json) |
 | A-2481 | 263580 | [263580-a-2481.json](./263580-a-2481.json) |
@@ -5027,6 +5029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice: An Interactive Museum | 74064 | [74064-alice-an-interactive-museum.json](./74064-alice-an-interactive-museum.json) |
 | Alice: Asylum | 82393 | [82393-alice-asylum.json](./82393-alice-asylum.json) |
 | Alice: Dark Fairytale | 174656 | [174656-alice-dark-fairytale.json](./174656-alice-dark-fairytale.json) |
+| Alice: Madness Returns - Ultimate Edition | 99962 | [99962-alice-madness-returns-ultimate-edition.json](./99962-alice-madness-returns-ultimate-edition.json) |
 | Alice! | 186324 | [186324-alice.json](./186324-alice.json) |
 | Alice's 1997 | 315592 | [315592-alices-1997.json](./315592-alices-1997.json) |
 | Alice's Adventures | 96939 | [96939-alices-adventures.json](./96939-alices-adventures.json) |
@@ -7421,6 +7424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angra-I | 215853 | [215853-angra-i.json](./215853-angra-i.json) |
 | Angrbotha Mountains | 239668 | [239668-angrbotha-mountains.json](./239668-angrbotha-mountains.json) |
 | Angriest Whopper Game | 237940 | [237940-angriest-whopper-game.json](./237940-angriest-whopper-game.json) |
+| Angriff vom Saturn | 100033 | [100033-angriff-vom-saturn.json](./100033-angriff-vom-saturn.json) |
 | Angry Angry Dad | 183222 | [183222-angry-angry-dad.json](./183222-angry-angry-dad.json) |
 | Angry Angry Shark | 161619 | [161619-angry-angry-shark.json](./161619-angry-angry-shark.json) |
 | Angry Angus | 224540 | [224540-angry-angus.json](./224540-angry-angus.json) |
@@ -11775,6 +11779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed III: The Battle Hardened Pack | 151548 | [151548-assassins-creed-iii-the-battle-hardened-pack.json](./151548-assassins-creed-iii-the-battle-hardened-pack.json) |
 | Assassin's Creed III: Tyranny of King Washington - The Betrayal | 302628 | [302628-assassins-creed-iii-tyranny-of-king-washington-the-betrayal.json](./302628-assassins-creed-iii-tyranny-of-king-washington-the-betrayal.json) |
 | Assassin's Creed III: Tyranny of King Washington - The Redemption | 302629 | [302629-assassins-creed-iii-tyranny-of-king-washington-the-redemption.json](./302629-assassins-creed-iii-tyranny-of-king-washington-the-redemption.json) |
+| Assassin's Creed III: Ultimate Edition | 99952 | [99952-assassins-creed-iii-ultimate-edition.json](./99952-assassins-creed-iii-ultimate-edition.json) |
 | Assassin's Creed Infinity | 154791 | [154791-assassins-creed-infinity.json](./154791-assassins-creed-infinity.json) |
 | Assassin's Creed IV Black Flag + Assassin's Creed Rogue Double Pack | 167003 | [167003-assassins-creed-iv-black-flag-assassins-creed-rogue-double-pack.json](./167003-assassins-creed-iv-black-flag-assassins-creed-rogue-double-pack.json) |
 | Assassin's Creed IV Black Flag: Aveline | 26095 | [26095-assassins-creed-iv-black-flag-aveline.json](./26095-assassins-creed-iv-black-flag-aveline.json) |
@@ -11871,6 +11876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Recollection | 77265 | [77265-assassins-creed-recollection.json](./77265-assassins-creed-recollection.json) |
 | Assassin's Creed: Revelations - Collectors Edition | 45119 | [45119-assassins-creed-revelations-collectors-edition.json](./45119-assassins-creed-revelations-collectors-edition.json) |
 | Assassin's Creed: Revelations - Gold Edition | 52417 | [52417-assassins-creed-revelations-gold-edition.json](./52417-assassins-creed-revelations-gold-edition.json) |
+| Assassin's Creed: Revelations - Ultimate Edition | 99961 | [99961-assassins-creed-revelations-ultimate-edition.json](./99961-assassins-creed-revelations-ultimate-edition.json) |
 | Assassin's Creed: Rogue Remastered | 81205 | [81205-assassins-creed-rogue-remastered.json](./81205-assassins-creed-rogue-remastered.json) |
 | Assassin's Creed: Syndicate - Big Ben Edition | 41612 | [41612-assassins-creed-syndicate-big-ben-edition.json](./41612-assassins-creed-syndicate-big-ben-edition.json) |
 | Assassin's Creed: Syndicate - Gold Edition | 52626 | [52626-assassins-creed-syndicate-gold-edition.json](./52626-assassins-creed-syndicate-gold-edition.json) |
