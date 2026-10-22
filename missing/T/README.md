@@ -11438,6 +11438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orphanage | 236381 | [236381-the-orphanage.json](./236381-the-orphanage.json) |
 | The Orphanage | 370989 | [370989-the-orphanage.json](./370989-the-orphanage.json) |
 | The Orphaned House | 413212 | [413212-the-orphaned-house.json](./413212-the-orphaned-house.json) |
+| The Orphaned Soul | 106338 | [106338-the-orphaned-soul.json](./106338-the-orphaned-soul.json) |
 | The Orpheus Ruse | 33910 | [33910-the-orpheus-ruse.json](./33910-the-orpheus-ruse.json) |
 | The Orville: Interactive Fan Experience | 120669 | [120669-the-orville-interactive-fan-experience.json](./120669-the-orville-interactive-fan-experience.json) |
 | The Othello | 91958 | [91958-the-othello.json](./91958-the-othello.json) |
@@ -11592,6 +11593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Path of the Pumpkin | 125141 | [125141-the-path-of-the-pumpkin.json](./125141-the-path-of-the-pumpkin.json) |
 | The Path of Veins | 319270 | [319270-the-path-of-veins.json](./319270-the-path-of-veins.json) |
 | The Path to Die | 115638 | [115638-the-path-to-die.json](./115638-the-path-to-die.json) |
+| The path to domination | 106342 | [106342-the-path-to-domination.json](./106342-the-path-to-domination.json) |
 | The Path to Memento Mori | 269989 | [269989-the-path-to-memento-mori.json](./269989-the-path-to-memento-mori.json) |
 | The Paths We Cross | 392239 | [392239-the-paths-we-cross.json](./392239-the-paths-we-cross.json) |
 | The Patient: After Hours | 207495 | [207495-the-patient-after-hours.json](./207495-the-patient-after-hours.json) |
@@ -16455,6 +16457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TidyUp 2000 | 418503 | [418503-tidyup-2000.json](./418503-tidyup-2000.json) |
 | Tie Break Tennis | 125970 | [125970-tie-break-tennis.json](./125970-tie-break-tennis.json) |
 | Tie Dye | 237634 | [237634-tie-dye.json](./237634-tie-dye.json) |
+| Tie Dye Doodle | 106347 | [106347-tie-dye-doodle.json](./106347-tie-dye-doodle.json) |
 | Tie-Break | 37284 | [37284-tie-break.json](./37284-tie-break.json) |
 | Tie: A Game About Depression | 326716 | [326716-tie-a-game-about-depression.json](./326716-tie-a-game-about-depression.json) |
 | Tiebreak | 241244 | [241244-tiebreak.json](./241244-tiebreak.json) |
@@ -23413,6 +23416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tranquil Garden: Adventurer's Edition | 244156 | [244156-tranquil-garden-adventurers-edition.json](./244156-tranquil-garden-adventurers-edition.json) |
 | Tranquil Isle | 240790 | [240790-tranquil-isle.json](./240790-tranquil-isle.json) |
 | Tranquility | 55825 | [55825-tranquility.json](./55825-tranquility.json) |
+| Tranquility Base Mining Colony: The Moon - Explorer Version | 106324 | [106324-tranquility-base-mining-colony-the-moon-explorer-version.json](./106324-tranquility-base-mining-colony-the-moon-explorer-version.json) |
 | Tranquility I | 131336 | [131336-tranquility-i.json](./131336-tranquility-i.json) |
 | Tranquillizer Gun | 6128 | [6128-tranquillizer-gun.json](./6128-tranquillizer-gun.json) |
 | Trans Coming Out Simulator 2018 | 176927 | [176927-trans-coming-out-simulator-2018.json](./176927-trans-coming-out-simulator-2018.json) |
