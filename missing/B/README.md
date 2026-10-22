@@ -4067,6 +4067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Me! | 125670 | [125670-beat-me.json](./125670-beat-me.json) |
 | Beat Me! Puppetonia Tournament | 156515 | [156515-beat-me-puppetonia-tournament.json](./156515-beat-me-puppetonia-tournament.json) |
 | Beat Meet | 325907 | [325907-beat-meet.json](./325907-beat-meet.json) |
+| Beat Miner | 116746 | [116746-beat-miner.json](./116746-beat-miner.json) |
 | Beat Monsters | 119003 | [119003-beat-monsters.json](./119003-beat-monsters.json) |
 | Beat Mp3 | 249687 | [249687-beat-mp3.json](./249687-beat-mp3.json) |
 | Beat MP3 for YouTube | 213380 | [213380-beat-mp3-for-youtube.json](./213380-beat-mp3-for-youtube.json) |
@@ -6417,6 +6418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biophobia | 343832 | [343832-biophobia.json](./343832-biophobia.json) |
 | Bioprototype | 344140 | [344140-bioprototype.json](./344140-bioprototype.json) |
 | Biorage | 367035 | [367035-biorage.json](./367035-biorage.json) |
+| Biorhythm | 116721 | [116721-biorhythm.json](./116721-biorhythm.json) |
 | Biorhythm | 170531 | [170531-biorhythm.json](./170531-biorhythm.json) |
 | Biorhythm | 78373 | [78373-biorhythm.json](./78373-biorhythm.json) |
 | Bios | 26575 | [26575-bios.json](./26575-bios.json) |
@@ -6461,6 +6463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biphase | 148549 | [148549-biphase.json](./148549-biphase.json) |
 | BiPlane | 110885 | [110885-biplane.json](./110885-biplane.json) |
 | BiPlane 4 | 112890 | [112890-biplane-4.json](./112890-biplane-4.json) |
+| Biplane Racer | 116754 | [116754-biplane-racer.json](./116754-biplane-racer.json) |
 | Bipo's Adventure | 183018 | [183018-bipos-adventure.json](./183018-bipos-adventure.json) |
 | Bipolar Game | 32975 | [32975-bipolar-game.json](./32975-bipolar-game.json) |
 | Bipolar: The Tube | 327671 | [327671-bipolar-the-tube.json](./327671-bipolar-the-tube.json) |
@@ -8562,6 +8565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Money | 11968 | [11968-blood-money.json](./11968-blood-money.json) |
 | Blood Money | 411673 | [411673-blood-money.json](./411673-blood-money.json) |
 | Blood Money: Lethal Eden | 388296 | [388296-blood-money-lethal-eden.json](./388296-blood-money-lethal-eden.json) |
+| Blood Moon | 116731 | [116731-blood-moon.json](./116731-blood-moon.json) |
 | Blood Moon Calling | 299010 | [299010-blood-moon-calling.json](./299010-blood-moon-calling.json) |
 | Blood Moon Horror | 262810 | [262810-blood-moon-horror.json](./262810-blood-moon-horror.json) |
 | Blood Moon Massacre | 373904 | [373904-blood-moon-massacre.json](./373904-blood-moon-massacre.json) |
@@ -9937,6 +9941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone Sniffer! | 318477 | [318477-bone-sniffer.json](./318477-bone-sniffer.json) |
 | Bone Souls | 359038 | [359038-bone-souls.json](./359038-bone-souls.json) |
 | Bone Stuff | 407338 | [407338-bone-stuff.json](./407338-bone-stuff.json) |
+| Bone Voyage | 116713 | [116713-bone-voyage.json](./116713-bone-voyage.json) |
 | Bone Warper | 323777 | [323777-bone-warper.json](./323777-bone-warper.json) |
 | Bone's Cafe | 188921 | [188921-bones-cafe.json](./188921-bones-cafe.json) |
 | BoneBone | 19752 | [19752-bonebone.json](./19752-bonebone.json) |
@@ -12971,6 +12976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucket List | 22741 | [22741-bucket-list.json](./22741-bucket-list.json) |
 | Bucket Truck VR Simulator | 326478 | [326478-bucket-truck-vr-simulator.json](./326478-bucket-truck-vr-simulator.json) |
 | Bucketneers | 176281 | [176281-bucketneers.json](./176281-bucketneers.json) |
+| Buckler 2 | 116720 | [116720-buckler-2.json](./116720-buckler-2.json) |
 | Buckmasters Top Bow Championship | 122233 | [122233-buckmasters-top-bow-championship.json](./122233-buckmasters-top-bow-championship.json) |
 | Bucko | 236359 | [236359-bucko.json](./236359-bucko.json) |
 | Buckshot Battlemage | 345653 | [345653-buckshot-battlemage.json](./345653-buckshot-battlemage.json) |
