@@ -987,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of Daggers | 398393 | [398393-hand-of-daggers.json](./398393-hand-of-daggers.json) |
 | Hand of Doom | 201681 | [201681-hand-of-doom.json](./201681-hand-of-doom.json) |
 | Hand of Fate 2: The Servant and the Beast | 111062 | [111062-hand-of-fate-2-the-servant-and-the-beast.json](./111062-hand-of-fate-2-the-servant-and-the-beast.json) |
+| Hand of Fate: Deluxe Edition | 118664 | [118664-hand-of-fate-deluxe-edition.json](./118664-hand-of-fate-deluxe-edition.json) |
 | Hand of Fate: Hordes | 334544 | [334544-hand-of-fate-hordes.json](./334544-hand-of-fate-hordes.json) |
 | Hand of Fate: Wildcards | 51823 | [51823-hand-of-fate-wildcards.json](./51823-hand-of-fate-wildcards.json) |
 | Hand of Hexes | 338867 | [338867-hand-of-hexes.json](./338867-hand-of-hexes.json) |
@@ -9218,6 +9219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry | 393567 | [393567-hungry.json](./393567-hungry.json) |
 | Hungry Adventurer | 248013 | [248013-hungry-adventurer.json](./248013-hungry-adventurer.json) |
 | Hungry Animals | 196675 | [196675-hungry-animals.json](./196675-hungry-animals.json) |
+| Hungry Baby: Party Treats! | 118667 | [118667-hungry-baby-party-treats.json](./118667-hungry-baby-party-treats.json) |
 | Hungry Birds | 187889 | [187889-hungry-birds.json](./187889-hungry-birds.json) |
 | Hungry Black Hole | 28106 | [28106-hungry-black-hole.json](./28106-hungry-black-hole.json) |
 | Hungry Boy | 135725 | [135725-hungry-boy.json](./135725-hungry-boy.json) |
@@ -9666,6 +9668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Attraction Sky Games | 203182 | [203182-hyper-attraction-sky-games.json](./203182-hyper-attraction-sky-games.json) |
 | Hyper Biker | 318260 | [318260-hyper-biker.json](./318260-hyper-biker.json) |
 | Hyper Bishi Bashi Champ | 228466 | [228466-hyper-bishi-bashi-champ.json](./228466-hyper-bishi-bashi-champ.json) |
+| Hyper Bit Chasm | 118646 | [118646-hyper-bit-chasm.json](./118646-hyper-bit-chasm.json) |
 | Hyper Black Bass '95 | 61349 | [61349-hyper-black-bass-95.json](./61349-hyper-black-bass-95.json) |
 | Hyper Bounce Blast | 34328 | [34328-hyper-bounce-blast.json](./34328-hyper-bounce-blast.json) |
 | Hyper Box | 33599 | [33599-hyper-box.json](./33599-hyper-box.json) |
