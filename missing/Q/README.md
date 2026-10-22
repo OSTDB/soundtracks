@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarantine | 295910 | [295910-quarantine.json](./295910-quarantine.json) |
 | Quarantine | 4289 | [4289-quarantine.json](./4289-quarantine.json) |
 | Quarantine Area: Zombie Attack | 370791 | [370791-quarantine-area-zombie-attack.json](./370791-quarantine-area-zombie-attack.json) |
+| Quarantine Arena | 138630 | [138630-quarantine-arena.json](./138630-quarantine-arena.json) |
 | Quarantine Circular | 102119 | [102119-quarantine-circular.json](./102119-quarantine-circular.json) |
 | Quarantine Cutz | 150519 | [150519-quarantine-cutz.json](./150519-quarantine-cutz.json) |
 | Quarantine Lockdown Simulator: Zombie Border | 366217 | [366217-quarantine-lockdown-simulator-zombie-border.json](./366217-quarantine-lockdown-simulator-zombie-border.json) |
