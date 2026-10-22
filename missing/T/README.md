@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisen Golf | 198208 | [198208-taisen-golf.json](./198208-taisen-golf.json) |
 | Taisen Hot Gimmick: Axes-Jong | 282136 | [282136-taisen-hot-gimmick-axes-jong.json](./282136-taisen-hot-gimmick-axes-jong.json) |
 | Taisen Hot Gimmick: Axes-Jong | 97968 | [97968-taisen-hot-gimmick-axes-jong.json](./97968-taisen-hot-gimmick-axes-jong.json) |
+| Taisen Hot Gimmick: Cosplay-Jan for Nintendo Switch | 105022 | [105022-taisen-hot-gimmick-cosplay-jan-for-nintendo-switch.json](./105022-taisen-hot-gimmick-cosplay-jan-for-nintendo-switch.json) |
 | Taisen IQ | 198203 | [198203-taisen-iq.json](./198203-taisen-iq.json) |
 | Taisen IQ + | 198204 | [198204-taisen-iq.json](./198204-taisen-iq.json) |
 | Taisen Mahjong | 198202 | [198202-taisen-mahjong.json](./198202-taisen-mahjong.json) |
@@ -12740,6 +12741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Realms: Realm 3 - High Lathión | 267673 | [267673-the-seven-realms-realm-3-high-lathion.json](./267673-the-seven-realms-realm-3-high-lathion.json) |
 | The Seven Sisters | 332630 | [332630-the-seven-sisters.json](./332630-the-seven-sisters.json) |
 | The Seven Spirits of Ra | 2893 | [2893-the-seven-spirits-of-ra.json](./2893-the-seven-spirits-of-ra.json) |
+| The Seven Stages | 105026 | [105026-the-seven-stages.json](./105026-the-seven-stages.json) |
 | The Seven Years War (1756-1763) | 13666 | [13666-the-seven-years-war-1756-1763.json](./13666-the-seven-years-war-1756-1763.json) |
 | The Seven Years War (1756-1763): Pomeranian War | 171610 | [171610-the-seven-years-war-1756-1763-pomeranian-war.json](./171610-the-seven-years-war-1756-1763-pomeranian-war.json) |
 | The Seventh Floor | 337152 | [337152-the-seventh-floor.json](./337152-the-seventh-floor.json) |
