@@ -1067,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shoguns Heart: Romance Among the Cherry Blossoms | 378783 | [378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json](./378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json) |
 | Samurai Siege | 38868 | [38868-samurai-siege.json](./38868-samurai-siege.json) |
 | Samurai Slash | 254326 | [254326-samurai-slash.json](./254326-samurai-slash.json) |
+| Samurai Slaughter House | 150468 | [150468-samurai-slaughter-house.json](./150468-samurai-slaughter-house.json) |
 | Samurai Solitaire: Return of the Ronin | 204103 | [204103-samurai-solitaire-return-of-the-ronin.json](./204103-samurai-solitaire-return-of-the-ronin.json) |
 | Samurai Solitaire: Threads of Fate | 195694 | [195694-samurai-solitaire-threads-of-fate.json](./195694-samurai-solitaire-threads-of-fate.json) |
 | Samurai Spirits Zero Special (Fixed) | 75446 | [75446-samurai-spirits-zero-special-fixed.json](./75446-samurai-spirits-zero-special-fixed.json) |
@@ -1847,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Frog Keita | 295268 | [295268-save-the-frog-keita.json](./295268-save-the-frog-keita.json) |
 | Save the Furries | 10813 | [10813-save-the-furries.json](./10813-save-the-furries.json) |
 | Save the Girl | 108382 | [108382-save-the-girl.json](./108382-save-the-girl.json) |
+| Save the girls Action | 150469 | [150469-save-the-girls-action.json](./150469-save-the-girls-action.json) |
 | Save the Halloween | 75198 | [75198-save-the-halloween.json](./75198-save-the-halloween.json) |
 | Save the Hamsters | 63121 | [63121-save-the-hamsters.json](./63121-save-the-hamsters.json) |
 | Save the Knight | 308882 | [308882-save-the-knight.json](./308882-save-the-knight.json) |
@@ -7090,6 +7092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoottris: Beyond the Classic Game | 110508 | [110508-shoottris-beyond-the-classic-game.json](./110508-shoottris-beyond-the-classic-game.json) |
 | Shootvaders: The Beginning | 190945 | [190945-shootvaders-the-beginning.json](./190945-shootvaders-the-beginning.json) |
 | ShootX | 343260 | [343260-shootx.json](./343260-shootx.json) |
+| Shooty 2D | 150482 | [150482-shooty-2d.json](./150482-shooty-2d.json) |
 | Shooty and the Catfish: Episode 1 | 181838 | [181838-shooty-and-the-catfish-episode-1.json](./181838-shooty-and-the-catfish-episode-1.json) |
 | Shooty and the Catfish: Episode 2 | 181936 | [181936-shooty-and-the-catfish-episode-2.json](./181936-shooty-and-the-catfish-episode-2.json) |
 | Shooty Ballz | 184656 | [184656-shooty-ballz.json](./184656-shooty-ballz.json) |
@@ -8760,6 +8763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singled Out | 122145 | [122145-singled-out.json](./122145-singled-out.json) |
 | Singles 2: Triple Trouble | 27606 | [27606-singles-2-triple-trouble.json](./27606-singles-2-triple-trouble.json) |
 | Singles: Flirt up your life | 18935 | [18935-singles-flirt-up-your-life.json](./18935-singles-flirt-up-your-life.json) |
+| Singles' Generation | 150479 | [150479-singles-generation.json](./150479-singles-generation.json) |
 | Singmetosleep | 392762 | [392762-singmetosleep.json](./392762-singmetosleep.json) |
 | SingSpace | 128458 | [128458-singspace.json](./128458-singspace.json) |
 | SingStar | 15180 | [15180-singstar.json](./15180-singstar.json) |
@@ -10383,6 +10387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sliding Puzzles | 270388 | [270388-sliding-puzzles.json](./270388-sliding-puzzles.json) |
 | Sliding Seas | 174584 | [174584-sliding-seas.json](./174584-sliding-seas.json) |
 | Sliding-Block Puzzles | 92426 | [92426-sliding-block-puzzles.json](./92426-sliding-block-puzzles.json) |
+| Slidungeon | 150401 | [150401-slidungeon.json](./150401-slidungeon.json) |
 | Slidy | 26509 | [26509-slidy.json](./26509-slidy.json) |
 | Sligga Trigger | 272580 | [272580-sligga-trigger.json](./272580-sligga-trigger.json) |
 | Slight Mechanical Destruction | 402793 | [402793-slight-mechanical-destruction.json](./402793-slight-mechanical-destruction.json) |
