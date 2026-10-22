@@ -3909,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Widget | 95355 | [95355-widget.json](./95355-widget.json) |
 | Widget Inc. | 319207 | [319207-widget-inc.json](./319207-widget-inc.json) |
 | Widget Satchel | 105353 | [105353-widget-satchel.json](./105353-widget-satchel.json) |
+| Widget Satchel II: Return of Sprocket | 151985 | [151985-widget-satchel-ii-return-of-sprocket.json](./151985-widget-satchel-ii-return-of-sprocket.json) |
 | Widget's Odyssey II | 53048 | [53048-widgets-odyssey-ii.json](./53048-widgets-odyssey-ii.json) |
 | Widgets and Gidgets | 157954 | [157954-widgets-and-gidgets.json](./157954-widgets-and-gidgets.json) |
 | Widgets Odyssey | 42788 | [42788-widgets-odyssey.json](./42788-widgets-odyssey.json) |
@@ -5061,6 +5062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchtastic | 135787 | [135787-witchtastic.json](./135787-witchtastic.json) |
 | Witchworker | 405611 | [405611-witchworker.json](./405611-witchworker.json) |
 | Witchy Business | 338315 | [338315-witchy-business.json](./338315-witchy-business.json) |
+| Witchy Life Story | 152184 | [152184-witchy-life-story.json](./152184-witchy-life-story.json) |
 | Witchy Wonderland | 344348 | [344348-witchy-wonderland.json](./344348-witchy-wonderland.json) |
 | Witchy Woo | 379902 | [379902-witchy-woo.json](./379902-witchy-woo.json) |
 | Witchydoku | 419862 | [419862-witchydoku.json](./419862-witchydoku.json) |
@@ -5593,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderland | 377143 | [377143-wonderland.json](./377143-wonderland.json) |
 | Wonderland | 95460 | [95460-wonderland.json](./95460-wonderland.json) |
 | Wonderland Adventures | 145906 | [145906-wonderland-adventures.json](./145906-wonderland-adventures.json) |
+| Wonderland Dizzy | 152001 | [152001-wonderland-dizzy.json](./152001-wonderland-dizzy.json) |
 | Wonderland Mahjong | 415957 | [415957-wonderland-mahjong.json](./415957-wonderland-mahjong.json) |
 | Wonderland Nights: White Rabbit's Diary | 151705 | [151705-wonderland-nights-white-rabbits-diary.json](./151705-wonderland-nights-white-rabbits-diary.json) |
 | Wonderland Online | 158149 | [158149-wonderland-online.json](./158149-wonderland-online.json) |
