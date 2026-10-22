@@ -2362,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DayZ: Frostline | 311724 | [311724-dayz-frostline.json](./311724-dayz-frostline.json) |
 | DayZ: Livonia | 122663 | [122663-dayz-livonia.json](./122663-dayz-livonia.json) |
 | DayZ: Livonia Edition | 164803 | [164803-dayz-livonia-edition.json](./164803-dayz-livonia-edition.json) |
+| Daze | 112661 | [112661-daze.json](./112661-daze.json) |
 | Daze | 229555 | [229555-daze.json](./229555-daze.json) |
 | Daze Before Christmas | 7662 | [7662-daze-before-christmas.json](./7662-daze-before-christmas.json) |
 | Dazzeloids | 64351 | [64351-dazzeloids.json](./64351-dazzeloids.json) |
@@ -4293,6 +4294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Man | 19045 | [19045-deer-man.json](./19045-deer-man.json) |
 | Deer Napped | 93223 | [93223-deer-napped.json](./93223-deer-napped.json) |
 | Deer Simulator | 83185 | [83185-deer-simulator.json](./83185-deer-simulator.json) |
+| Deer's Revenge | 112655 | [112655-deers-revenge.json](./112655-deers-revenge.json) |
 | DeerHunterFan.com TV: The Season | 219236 | [219236-deerhunterfan-com-tv-the-season.json](./219236-deerhunterfan-com-tv-the-season.json) |
 | Deerlivery | 361738 | [361738-deerlivery.json](./361738-deerlivery.json) |
 | Deers and Deckards | 284400 | [284400-deers-and-deckards.json](./284400-deers-and-deckards.json) |
@@ -6237,6 +6239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 4: Collector's Edition | 41601 | [41601-devil-may-cry-4-collectors-edition.json](./41601-devil-may-cry-4-collectors-edition.json) |
 | Devil May Cry 4: Special Edition - Lady & Trish Costume Pack | 410413 | [410413-devil-may-cry-4-special-edition-lady-and-trish-costume-pack.json](./410413-devil-may-cry-4-special-edition-lady-and-trish-costume-pack.json) |
 | Devil May Cry 4: Special Edition - Super Nero/Super Dante/Super Vergil | 410412 | [410412-devil-may-cry-4-special-edition-super-nero-super-dante-super-vergil.json](./410412-devil-may-cry-4-special-edition-super-nero-super-dante-super-vergil.json) |
+| Devil May Cry 5: Collector's Edition | 112662 | [112662-devil-may-cry-5-collectors-edition.json](./112662-devil-may-cry-5-collectors-edition.json) |
 | Devil May Cry 5: Deluxe Edition | 111750 | [111750-devil-may-cry-5-deluxe-edition.json](./111750-devil-may-cry-5-deluxe-edition.json) |
 | Devil May Cry 5: Mega Buster | 370873 | [370873-devil-may-cry-5-mega-buster.json](./370873-devil-may-cry-5-mega-buster.json) |
 | Devil May Cry 5: Monkey Business | 370875 | [370875-devil-may-cry-5-monkey-business.json](./370875-devil-may-cry-5-monkey-business.json) |
