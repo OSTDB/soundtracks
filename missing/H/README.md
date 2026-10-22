@@ -3379,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Emoji: Drawing to Solve Puzzles | 229798 | [229798-hello-emoji-drawing-to-solve-puzzles.json](./229798-hello-emoji-drawing-to-solve-puzzles.json) |
 | Hello Engineer | 153521 | [153521-hello-engineer.json](./153521-hello-engineer.json) |
 | Hello Fangaming Collection | 320231 | [320231-hello-fangaming-collection.json](./320231-hello-fangaming-collection.json) |
+| Hello From Darkness | 150992 | [150992-hello-from-darkness.json](./150992-hello-from-darkness.json) |
 | Hello Games Neighbor | 101101 | [101101-hello-games-neighbor.json](./101101-hello-games-neighbor.json) |
 | Hello Girl | 257343 | [257343-hello-girl.json](./257343-hello-girl.json) |
 | Hello Girl | 333668 | [333668-hello-girl.json](./333668-hello-girl.json) |
