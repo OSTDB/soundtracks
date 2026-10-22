@@ -2429,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm Craft | 251811 | [251811-realm-craft.json](./251811-realm-craft.json) |
 | Realm Drifter | 309714 | [309714-realm-drifter.json](./309714-realm-drifter.json) |
 | Realm Hacker | 132271 | [132271-realm-hacker.json](./132271-realm-hacker.json) |
+| Realm Lands | 125686 | [125686-realm-lands.json](./125686-realm-lands.json) |
 | Realm of Abhorrus | 182747 | [182747-realm-of-abhorrus.json](./182747-realm-of-abhorrus.json) |
 | Realm of Alters | 169397 | [169397-realm-of-alters.json](./169397-realm-of-alters.json) |
 | Realm of Chaos | 313868 | [313868-realm-of-chaos.json](./313868-realm-of-chaos.json) |
