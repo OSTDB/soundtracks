@@ -1691,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Light: Silent Mountain - Collector's Edition | 76482 | [76482-league-of-light-silent-mountain-collectors-edition.json](./76482-league-of-light-silent-mountain-collectors-edition.json) |
 | League of Light: The Gatherer | 182309 | [182309-league-of-light-the-gatherer.json](./182309-league-of-light-the-gatherer.json) |
 | League of Light: The Gatherer - Collector's Edition | 182310 | [182310-league-of-light-the-gatherer-collectors-edition.json](./182310-league-of-light-the-gatherer-collectors-edition.json) |
+| League of Light: Wicked Harvest | 108204 | [108204-league-of-light-wicked-harvest.json](./108204-league-of-light-wicked-harvest.json) |
 | League of Maidens | 38786 | [38786-league-of-maidens.json](./38786-league-of-maidens.json) |
 | League of Maidens: Standard Edition | 343745 | [343745-league-of-maidens-standard-edition.json](./343745-league-of-maidens-standard-edition.json) |
 | League of Mermaids | 34920 | [34920-league-of-mermaids.json](./34920-league-of-mermaids.json) |
@@ -4696,6 +4697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Lost Robots | 115353 | [115353-little-lost-robots.json](./115353-little-lost-robots.json) |
 | Little Lovers | 108969 | [108969-little-lovers.json](./108969-little-lovers.json) |
 | Little Lovers 2nd. Yui | 108968 | [108968-little-lovers-2nd-yui.json](./108968-little-lovers-2nd-yui.json) |
+| Little Lovers: She So Game | 108165 | [108165-little-lovers-she-so-game.json](./108165-little-lovers-she-so-game.json) |
 | Little Luna | 341172 | [341172-little-luna.json](./341172-little-luna.json) |
 | Little Lures | 361225 | [361225-little-lures.json](./361225-little-lures.json) |
 | Little Maddie Dear | 278882 | [278882-little-maddie-dear.json](./278882-little-maddie-dear.json) |
@@ -4762,6 +4764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little One | 118638 | [118638-little-one.json](./118638-little-one.json) |
 | Little One | 399702 | [399702-little-one.json](./399702-little-one.json) |
 | Little Otter's Fishing Life | 386944 | [386944-little-otters-fishing-life.json](./386944-little-otters-fishing-life.json) |
+| Little Panda Restaurant | 108177 | [108177-little-panda-restaurant.json](./108177-little-panda-restaurant.json) |
 | Little Panda: Dinosaur Care | 234441 | [234441-little-panda-dinosaur-care.json](./234441-little-panda-dinosaur-care.json) |
 | Little Panda's Camping Trip | 105963 | [105963-little-pandas-camping-trip.json](./105963-little-pandas-camping-trip.json) |
 | Little Panda's Candy Shop | 231932 | [231932-little-pandas-candy-shop.json](./231932-little-pandas-candy-shop.json) |
@@ -5735,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loofy | 157010 | [157010-loofy.json](./157010-loofy.json) |
 | Look and Find: Curiosity | 170297 | [170297-look-and-find-curiosity.json](./170297-look-and-find-curiosity.json) |
 | Look and Find: Elmo on Sesame Street | 88402 | [88402-look-and-find-elmo-on-sesame-street.json](./88402-look-and-find-elmo-on-sesame-street.json) |
+| Look and Guess a Word! | 108198 | [108198-look-and-guess-a-word.json](./108198-look-and-guess-a-word.json) |
 | Look At Me | 285564 | [285564-look-at-me.json](./285564-look-at-me.json) |
 | Look At Me | 327452 | [327452-look-at-me.json](./327452-look-at-me.json) |
 | Look Back | 304827 | [304827-look-back.json](./304827-look-back.json) |
