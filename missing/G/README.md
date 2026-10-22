@@ -3153,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghoul Britannia: Land of Hope and Gorey | 116979 | [116979-ghoul-britannia-land-of-hope-and-gorey.json](./116979-ghoul-britannia-land-of-hope-and-gorey.json) |
 | Ghoul Dungeon | 190373 | [190373-ghoul-dungeon.json](./190373-ghoul-dungeon.json) |
 | Ghoul Fort | 294263 | [294263-ghoul-fort.json](./294263-ghoul-fort.json) |
+| Ghoul Grind: Night of the Necromancer | 145356 | [145356-ghoul-grind-night-of-the-necromancer.json](./145356-ghoul-grind-night-of-the-necromancer.json) |
 | Ghoul Groove | 365800 | [365800-ghoul-groove.json](./365800-ghoul-groove.json) |
 | Ghoul Kid | 33012 | [33012-ghoul-kid.json](./33012-ghoul-kid.json) |
 | Ghoul Panic | 14392 | [14392-ghoul-panic.json](./14392-ghoul-panic.json) |
@@ -6802,6 +6803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Lantern: Rise of the Manhunters | 196505 | [196505-green-lantern-rise-of-the-manhunters.json](./196505-green-lantern-rise-of-the-manhunters.json) |
 | Green Lantern: Rise of the Manhunters | 289569 | [289569-green-lantern-rise-of-the-manhunters.json](./289569-green-lantern-rise-of-the-manhunters.json) |
 | Green Lantern: Rise of the Manhunters | 4896 | [4896-green-lantern-rise-of-the-manhunters.json](./4896-green-lantern-rise-of-the-manhunters.json) |
+| Green Lava Studios Volume 1 | 145358 | [145358-green-lava-studios-volume-1.json](./145358-green-lava-studios-volume-1.json) |
 | Green Lava Studios Volume 2 | 195092 | [195092-green-lava-studios-volume-2.json](./195092-green-lava-studios-volume-2.json) |
 | Green Light | 393827 | [393827-green-light.json](./393827-green-light.json) |
 | Green Light District | 416837 | [416837-green-light-district.json](./416837-green-light-district.json) |
@@ -8132,6 +8134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gump Runner | 29183 | [29183-gump-runner.json](./29183-gump-runner.json) |
 | GumPop! | 380196 | [380196-gumpop.json](./380196-gumpop.json) |
 | Gumrun | 286969 | [286969-gumrun.json](./286969-gumrun.json) |
+| Gumshoe | 145346 | [145346-gumshoe.json](./145346-gumshoe.json) |
 | Gumshoe | 18834 | [18834-gumshoe.json](./18834-gumshoe.json) |
 | Gumshoe Detective Agency: The First Case | 346629 | [346629-gumshoe-detective-agency-the-first-case.json](./346629-gumshoe-detective-agency-the-first-case.json) |
 | Gumslinger | 138594 | [138594-gumslinger.json](./138594-gumslinger.json) |
