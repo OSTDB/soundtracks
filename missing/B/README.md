@@ -5417,6 +5417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Black Hole | 73792 | [73792-beyond-the-black-hole.json](./73792-beyond-the-black-hole.json) |
 | Beyond the Board | 195954 | [195954-beyond-the-board.json](./195954-beyond-the-board.json) |
 | Beyond The Board | 289383 | [289383-beyond-the-board.json](./289383-beyond-the-board.json) |
+| Beyond the Bow | 153789 | [153789-beyond-the-bow.json](./153789-beyond-the-bow.json) |
 | Beyond the Breach | 291863 | [291863-beyond-the-breach.json](./291863-beyond-the-breach.json) |
 | Beyond the Bridge | 338232 | [338232-beyond-the-bridge.json](./338232-beyond-the-bridge.json) |
 | Beyond the Chiron Gate | 205085 | [205085-beyond-the-chiron-gate.json](./205085-beyond-the-chiron-gate.json) |
@@ -6332,6 +6333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle Heroes | 3818 | [3818-bionicle-heroes.json](./3818-bionicle-heroes.json) |
 | Bionicle Heroes: DOOM | 135832 | [135832-bionicle-heroes-doom.json](./135832-bionicle-heroes-doom.json) |
 | Bionicle Metru Nui: City of Legends - Stop the Morbuzakh | 279236 | [279236-bionicle-metru-nui-city-of-legends-stop-the-morbuzakh.json](./279236-bionicle-metru-nui-city-of-legends-stop-the-morbuzakh.json) |
+| Bionicle Mistika | 153690 | [153690-bionicle-mistika.json](./153690-bionicle-mistika.json) |
 | Bionicle: City of Legends | 175995 | [175995-bionicle-city-of-legends.json](./175995-bionicle-city-of-legends.json) |
 | Bionicle: Command The Toa Mahri | 343282 | [343282-bionicle-command-the-toa-mahri.json](./343282-bionicle-command-the-toa-mahri.json) |
 | Bionicle: Glatorian Arena | 343354 | [343354-bionicle-glatorian-arena.json](./343354-bionicle-glatorian-arena.json) |
@@ -10338,6 +10340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borussia Dortmund Club Football | 267884 | [267884-borussia-dortmund-club-football.json](./267884-borussia-dortmund-club-football.json) |
 | Borussia Dortmund Club Football 2005 | 267893 | [267893-borussia-dortmund-club-football-2005.json](./267893-borussia-dortmund-club-football-2005.json) |
 | Borzoi Adventure | 284783 | [284783-borzoi-adventure.json](./284783-borzoi-adventure.json) |
+| Bos Wars | 153760 | [153760-bos-wars.json](./153760-bos-wars.json) |
 | Bosconian | 18758 | [18758-bosconian.json](./18758-bosconian.json) |
 | Bosconian in 3-D | 378436 | [378436-bosconian-in-3-d.json](./378436-bosconian-in-3-d.json) |
 | Bosei Kanojo: Shikyuu Kikan-hen | 194638 | [194638-bosei-kanojo-shikyuu-kikan-hen.json](./194638-bosei-kanojo-shikyuu-kikan-hen.json) |
