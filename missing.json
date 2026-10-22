@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-22T04:34:00.380Z",
-  "total_missing": 245030,
+  "generated_at": "2026-10-22T04:51:40.599Z",
+  "total_missing": 245080,
   "games": [
     {
       "igdb_id": 191680,
@@ -19172,6 +19172,11 @@
       "file": "missing/A/272683-a-train-9-version-5-0-final.json"
     },
     {
+      "igdb_id": 146014,
+      "game_name": "A-Train All Aboard! Tourism",
+      "file": "missing/A/146014-a-train-all-aboard-tourism.json"
+    },
+    {
       "igdb_id": 221236,
       "game_name": "A-Train de Ikou Hirogaru Kankou Line",
       "file": "missing/A/221236-a-train-de-ikou-hirogaru-kankou-line.json"
@@ -35360,6 +35365,11 @@
       "igdb_id": 142373,
       "game_name": "Akiba’s Trip: First Memory - 10th Anniversary Edition",
       "file": "missing/A/142373-akiba-s-trip-first-memory-10th-anniversary-edition.json"
+    },
+    {
+      "igdb_id": 146159,
+      "game_name": "Akiba's Trip: Hellbound & Debriefed - 10th Anniversary Edition",
+      "file": "missing/A/146159-akibas-trip-hellbound-and-debriefed-10th-anniversary-edition.json"
     },
     {
       "igdb_id": 7268,
@@ -56755,6 +56765,11 @@
       "igdb_id": 330746,
       "game_name": "Apex Legends: From the Rift",
       "file": "missing/A/330746-apex-legends-from-the-rift.json"
+    },
+    {
+      "igdb_id": 146158,
+      "game_name": "Apex Legends: Gibraltar Edition",
+      "file": "missing/A/146158-apex-legends-gibraltar-edition.json"
     },
     {
       "igdb_id": 210618,
@@ -83110,6 +83125,11 @@
       "igdb_id": 80628,
       "game_name": "Aztec Wars",
       "file": "missing/A/80628-aztec-wars.json"
+    },
+    {
+      "igdb_id": 145995,
+      "game_name": "Aztec: Hunt for the Sun-God",
+      "file": "missing/A/145995-aztec-hunt-for-the-sun-god.json"
     },
     {
       "igdb_id": 206013,
@@ -143637,6 +143657,11 @@
       "file": "missing/B/121960-brigandine-the-legend-of-runersia.json"
     },
     {
+      "igdb_id": 146144,
+      "game_name": "Brigandine: The Legend of Runersia - Collector's Edition",
+      "file": "missing/B/146144-brigandine-the-legend-of-runersia-collectors-edition.json"
+    },
+    {
       "igdb_id": 136950,
       "game_name": "Brigandine: The Legend of Runersia - Limited Edition",
       "file": "missing/B/136950-brigandine-the-legend-of-runersia-limited-edition.json"
@@ -170905,6 +170930,11 @@
       "igdb_id": 236769,
       "game_name": "Catching Spirits",
       "file": "missing/C/236769-catching-spirits.json"
+    },
+    {
+      "igdb_id": 146005,
+      "game_name": "Catching the Train",
+      "file": "missing/C/146005-catching-the-train.json"
     },
     {
       "igdb_id": 215227,
@@ -306687,6 +306717,11 @@
       "file": "missing/D/385854-dust-to-dust.json"
     },
     {
+      "igdb_id": 146016,
+      "game_name": "Dust to the End",
+      "file": "missing/D/146016-dust-to-the-end.json"
+    },
+    {
       "igdb_id": 386227,
       "game_name": "Dust Town",
       "file": "missing/D/386227-dust-town.json"
@@ -310145,6 +310180,11 @@
       "igdb_id": 164078,
       "game_name": "Earth's Shadow",
       "file": "missing/E/164078-earths-shadow.json"
+    },
+    {
+      "igdb_id": 145983,
+      "game_name": "Earthblade",
+      "file": "missing/E/145983-earthblade.json"
     },
     {
       "igdb_id": 303054,
@@ -332062,6 +332102,11 @@
       "file": "missing/E/215366-eternia-chronicles-of-meranthe.json"
     },
     {
+      "igdb_id": 145970,
+      "game_name": "Eternia: Pet Whisperer",
+      "file": "missing/E/145970-eternia-pet-whisperer.json"
+    },
+    {
       "igdb_id": 203367,
       "game_name": "Eternights",
       "file": "missing/E/203367-eternights.json"
@@ -352575,6 +352620,11 @@
       "igdb_id": 227740,
       "game_name": "Fat Rain",
       "file": "missing/F/227740-fat-rain.json"
+    },
+    {
+      "igdb_id": 145988,
+      "game_name": "Fat Rat Pinball",
+      "file": "missing/F/145988-fat-rat-pinball.json"
     },
     {
       "igdb_id": 185653,
@@ -393007,6 +393057,11 @@
       "file": "missing/F/248761-furlong-fracas.json"
     },
     {
+      "igdb_id": 145985,
+      "game_name": "FurnCap",
+      "file": "missing/F/145985-furncap.json"
+    },
+    {
       "igdb_id": 255132,
       "game_name": "Furni-Jumpin'",
       "file": "missing/F/255132-furni-jumpin.json"
@@ -415525,6 +415580,11 @@
       "igdb_id": 291895,
       "game_name": "Gnomemade",
       "file": "missing/G/291895-gnomemade.json"
+    },
+    {
+      "igdb_id": 145994,
+      "game_name": "Gnomepunk",
+      "file": "missing/G/145994-gnomepunk.json"
     },
     {
       "igdb_id": 37182,
@@ -439850,6 +439910,11 @@
       "igdb_id": 13867,
       "game_name": "Hades Nebula",
       "file": "missing/H/13867-hades-nebula.json"
+    },
+    {
+      "igdb_id": 146154,
+      "game_name": "Hades: Limited Edition",
+      "file": "missing/H/146154-hades-limited-edition.json"
     },
     {
       "igdb_id": 56959,
@@ -469980,6 +470045,16 @@
       "igdb_id": 161722,
       "game_name": "Hinge VR",
       "file": "missing/H/161722-hinge-vr.json"
+    },
+    {
+      "igdb_id": 146153,
+      "game_name": "Hinokakera Chaotic Eclipse",
+      "file": "missing/H/146153-hinokakera-chaotic-eclipse.json"
+    },
+    {
+      "igdb_id": 146148,
+      "game_name": "Hinokakera fragment:Eclipse",
+      "file": "missing/H/146148-hinokakera-fragment-eclipse.json"
     },
     {
       "igdb_id": 64642,
@@ -538392,6 +538467,11 @@
       "file": "missing/K/140887-kemco-rpg-selection-vol-6.json"
     },
     {
+      "igdb_id": 146017,
+      "game_name": "Kemco RPG Selection Vol. 7",
+      "file": "missing/K/146017-kemco-rpg-selection-vol-7.json"
+    },
+    {
       "igdb_id": 186664,
       "game_name": "Kemco RPG Selection Vol. 9",
       "file": "missing/K/186664-kemco-rpg-selection-vol-9.json"
@@ -556867,6 +556947,11 @@
       "file": "missing/L/141821-la-espada-sagrada.json"
     },
     {
+      "igdb_id": 145977,
+      "game_name": "La Fabbrica Spaziale",
+      "file": "missing/L/145977-la-fabbrica-spaziale.json"
+    },
+    {
       "igdb_id": 176779,
       "game_name": "La Foret",
       "file": "missing/L/176779-la-foret.json"
@@ -556880,6 +556965,11 @@
       "igdb_id": 115603,
       "game_name": "La Fuga",
       "file": "missing/L/115603-la-fuga.json"
+    },
+    {
+      "igdb_id": 145976,
+      "game_name": "La Giungla Tenebrosa",
+      "file": "missing/L/145976-la-giungla-tenebrosa.json"
     },
     {
       "igdb_id": 85724,
@@ -557005,6 +557095,11 @@
       "igdb_id": 154970,
       "game_name": "LA Monsters",
       "file": "missing/L/154970-la-monsters.json"
+    },
+    {
+      "igdb_id": 145980,
+      "game_name": "La Montagna Misteriosa",
+      "file": "missing/L/145980-la-montagna-misteriosa.json"
     },
     {
       "igdb_id": 97786,
@@ -557140,6 +557235,11 @@
       "igdb_id": 153427,
       "game_name": "La Ultima Comida",
       "file": "missing/L/153427-la-ultima-comida.json"
+    },
+    {
+      "igdb_id": 145975,
+      "game_name": "La Valle Magica",
+      "file": "missing/L/145975-la-valle-magica.json"
     },
     {
       "igdb_id": 406653,
@@ -571310,6 +571410,11 @@
       "igdb_id": 137084,
       "game_name": "Let's Sing 2021: Hits Français et Internationaux Solo",
       "file": "missing/L/137084-lets-sing-2021-hits-francais-et-internationaux-solo.json"
+    },
+    {
+      "igdb_id": 146150,
+      "game_name": "Let's Sing 2021: Mit Deutschen Hits",
+      "file": "missing/L/146150-lets-sing-2021-mit-deutschen-hits.json"
     },
     {
       "igdb_id": 215361,
@@ -595160,6 +595265,11 @@
       "igdb_id": 152313,
       "game_name": "Lust From Beyond: M Edition",
       "file": "missing/L/152313-lust-from-beyond-m-edition.json"
+    },
+    {
+      "igdb_id": 145974,
+      "game_name": "Lust from Beyond: Prologue",
+      "file": "missing/L/145974-lust-from-beyond-prologue.json"
     },
     {
       "igdb_id": 141129,
@@ -642107,6 +642217,11 @@
       "file": "missing/M/245439-mind-boggler.json"
     },
     {
+      "igdb_id": 145999,
+      "game_name": "Mind Cards",
+      "file": "missing/M/145999-mind-cards.json"
+    },
+    {
       "igdb_id": 339702,
       "game_name": "Mind Castle II",
       "file": "missing/M/339702-mind-castle-ii.json"
@@ -643125,6 +643240,11 @@
       "igdb_id": 164849,
       "game_name": "Minecraft Dungeons: Echoing Void",
       "file": "missing/M/164849-minecraft-dungeons-echoing-void.json"
+    },
+    {
+      "igdb_id": 146161,
+      "game_name": "Minecraft Dungeons: Flames of the Nether",
+      "file": "missing/M/146161-minecraft-dungeons-flames-of-the-nether.json"
     },
     {
       "igdb_id": 132145,
@@ -714347,6 +714467,11 @@
       "file": "missing/O/132146-oddworld-new-n-tasty-deluxe-edition.json"
     },
     {
+      "igdb_id": 146008,
+      "game_name": "Oddworld: Soulstorm - Collector's Oddition",
+      "file": "missing/O/146008-oddworld-soulstorm-collectors-oddition.json"
+    },
+    {
       "igdb_id": 146118,
       "game_name": "Oddworld: Soulstorm - Day 1 Oddition",
       "file": "missing/O/146118-oddworld-soulstorm-day-1-oddition.json"
@@ -722925,6 +723050,11 @@
       "igdb_id": 335428,
       "game_name": "Oni Fight",
       "file": "missing/O/335428-oni-fight.json"
+    },
+    {
+      "igdb_id": 145984,
+      "game_name": "Oni Hunter",
+      "file": "missing/O/145984-oni-hunter.json"
     },
     {
       "igdb_id": 265506,
@@ -787247,6 +787377,11 @@
       "file": "missing/P/237979-power-rangers-battle-for-the-grid-street-fighter-pack.json"
     },
     {
+      "igdb_id": 145981,
+      "game_name": "Power Rangers: Battle for the Grid - Super Edition",
+      "file": "missing/P/145981-power-rangers-battle-for-the-grid-super-edition.json"
+    },
+    {
       "igdb_id": 167792,
       "game_name": "Power Rangers: Battle for the Grid - Trey of Triforia: Gold Zeo Ranger",
       "file": "missing/P/167792-power-rangers-battle-for-the-grid-trey-of-triforia-gold-zeo-ranger.json"
@@ -821177,6 +821312,11 @@
       "file": "missing/R/407558-ratchet-and-clank-rift-apart-digital-deluxe-edition.json"
     },
     {
+      "igdb_id": 145991,
+      "game_name": "Ratchet & Clank: Rift Apart - Launch Edition",
+      "file": "missing/R/145991-ratchet-and-clank-rift-apart-launch-edition.json"
+    },
+    {
       "igdb_id": 308039,
       "game_name": "Ratchet & Clank: Size Matters",
       "file": "missing/R/308039-ratchet-and-clank-size-matters.json"
@@ -831085,6 +831225,11 @@
       "igdb_id": 130401,
       "game_name": "Reknum",
       "file": "missing/R/130401-reknum.json"
+    },
+    {
+      "igdb_id": 145968,
+      "game_name": "Reknum Cheri Dreamland",
+      "file": "missing/R/145968-reknum-cheri-dreamland.json"
     },
     {
       "igdb_id": 182475,
@@ -844230,6 +844375,11 @@
       "igdb_id": 354995,
       "game_name": "Risk: Pogo Domination",
       "file": "missing/R/354995-risk-pogo-domination.json"
+    },
+    {
+      "igdb_id": 146155,
+      "game_name": "Risk: The Game of Global Domination",
+      "file": "missing/R/146155-risk-the-game-of-global-domination.json"
     },
     {
       "igdb_id": 62161,
@@ -895442,6 +895592,11 @@
       "file": "missing/S/118125-shin-hayarigami-1-2-pack.json"
     },
     {
+      "igdb_id": 146010,
+      "game_name": "Shin Hayarigami 3",
+      "file": "missing/S/146010-shin-hayarigami-3.json"
+    },
+    {
       "igdb_id": 95861,
       "game_name": "Shin Hayarigami: Blindman",
       "file": "missing/S/95861-shin-hayarigami-blindman.json"
@@ -902175,6 +902330,11 @@
       "igdb_id": 277798,
       "game_name": "Sid Meier's Civilization VI: Porfirio Diaz Pack",
       "file": "missing/S/277798-sid-meiers-civilization-vi-porfirio-diaz-pack.json"
+    },
+    {
+      "igdb_id": 146007,
+      "game_name": "Sid Meier's Civilization VI: Portugal Pack",
+      "file": "missing/S/146007-sid-meiers-civilization-vi-portugal-pack.json"
     },
     {
       "igdb_id": 276934,
@@ -909080,6 +909240,11 @@
       "igdb_id": 281258,
       "game_name": "Six. Eight. Two.",
       "file": "missing/S/281258-six-eight-two.json"
+    },
+    {
+      "igdb_id": 145992,
+      "game_name": "Sixit",
+      "file": "missing/S/145992-sixit.json"
     },
     {
       "igdb_id": 181103,
@@ -927805,6 +927970,11 @@
       "igdb_id": 183079,
       "game_name": "Solm",
       "file": "missing/S/183079-solm.json"
+    },
+    {
+      "igdb_id": 145987,
+      "game_name": "Solo",
+      "file": "missing/S/145987-solo.json"
     },
     {
       "igdb_id": 277771,
@@ -972892,6 +973062,11 @@
       "file": "missing/S/301256-stressroom.json"
     },
     {
+      "igdb_id": 146018,
+      "game_name": "Stretch Arcade",
+      "file": "missing/S/146018-stretch-arcade.json"
+    },
+    {
       "igdb_id": 256871,
       "game_name": "Stretch Armstrong: The Breakout",
       "file": "missing/S/256871-stretch-armstrong-the-breakout.json"
@@ -1016567,6 +1016742,11 @@
       "file": "missing/T/146004-teenage-mutant-ninja-turtles.json"
     },
     {
+      "igdb_id": 146006,
+      "game_name": "Teenage Mutant Ninja Turtles",
+      "file": "missing/T/146006-teenage-mutant-ninja-turtles.json"
+    },
+    {
       "igdb_id": 19747,
       "game_name": "Teenage Mutant Ninja Turtles",
       "file": "missing/T/19747-teenage-mutant-ninja-turtles.json"
@@ -1020630,6 +1020810,11 @@
       "igdb_id": 146146,
       "game_name": "Terminator: Resistance Enhanced",
       "file": "missing/T/146146-terminator-resistance-enhanced.json"
+    },
+    {
+      "igdb_id": 146147,
+      "game_name": "Terminator: Resistance Enhanced - Collector's Edition",
+      "file": "missing/T/146147-terminator-resistance-enhanced-collectors-edition.json"
     },
     {
       "igdb_id": 62965,
@@ -1030450,6 +1030635,11 @@
       "igdb_id": 227183,
       "game_name": "The Caligula Effect 2: Complete Edition",
       "file": "missing/T/227183-the-caligula-effect-2-complete-edition.json"
+    },
+    {
+      "igdb_id": 146013,
+      "game_name": "The Caligula Effect 2: First Press Limited Edition",
+      "file": "missing/T/146013-the-caligula-effect-2-first-press-limited-edition.json"
     },
     {
       "igdb_id": 122355,
@@ -1043227,6 +1043417,11 @@
       "file": "missing/T/184941-the-great-order.json"
     },
     {
+      "igdb_id": 146002,
+      "game_name": "The Great Palermo",
+      "file": "missing/T/146002-the-great-palermo.json"
+    },
+    {
       "igdb_id": 55835,
       "game_name": "The Great Race",
       "file": "missing/T/55835-the-great-race.json"
@@ -1045965,6 +1046160,11 @@
       "igdb_id": 54983,
       "game_name": "The Idolmaster: SideM - Live on Stage!",
       "file": "missing/T/54983-the-idolmaster-sidem-live-on-stage.json"
+    },
+    {
+      "igdb_id": 146012,
+      "game_name": "The Idolmaster: Starlit Season - Starlight Box",
+      "file": "missing/T/146012-the-idolmaster-starlit-season-starlight-box.json"
     },
     {
       "igdb_id": 68288,
@@ -1054077,6 +1054277,11 @@
       "file": "missing/T/237079-the-lone-alien.json"
     },
     {
+      "igdb_id": 145972,
+      "game_name": "The Lone Blade",
+      "file": "missing/T/145972-the-lone-blade.json"
+    },
+    {
       "igdb_id": 87994,
       "game_name": "The Lone Chameleon",
       "file": "missing/T/87994-the-lone-chameleon.json"
@@ -1060142,6 +1060347,11 @@
       "file": "missing/T/348309-the-outer-worlds-2-premium-edition.json"
     },
     {
+      "igdb_id": 146157,
+      "game_name": "The Outer Worlds: Board-Approved Bundle",
+      "file": "missing/T/146157-the-outer-worlds-board-approved-bundle.json"
+    },
+    {
       "igdb_id": 293732,
       "game_name": "The Outer Worlds: Expansion Pass",
       "file": "missing/T/293732-the-outer-worlds-expansion-pass.json"
@@ -1060970,6 +1061180,11 @@
       "igdb_id": 37282,
       "game_name": "The Persistence",
       "file": "missing/T/37282-the-persistence.json"
+    },
+    {
+      "igdb_id": 146151,
+      "game_name": "The Persistence Enhanced",
+      "file": "missing/T/146151-the-persistence-enhanced.json"
     },
     {
       "igdb_id": 409509,
@@ -1100577,6 +1100792,11 @@
       "file": "missing/T/209315-tom-clancys-the-division-2-warlords-of-new-york-season-two-keener-s-legacy.json"
     },
     {
+      "igdb_id": 146156,
+      "game_name": "Tom Clancy's The Division 2: Warlords of New York - Ultimate Edition",
+      "file": "missing/T/146156-tom-clancys-the-division-2-warlords-of-new-york-ultimate-edition.json"
+    },
+    {
       "igdb_id": 152165,
       "game_name": "Tom Clancy's The Division 2: Year 1 Pass",
       "file": "missing/T/152165-tom-clancys-the-division-2-year-1-pass.json"
@@ -1119395,6 +1119615,11 @@
       "igdb_id": 188638,
       "game_name": "Transformers: Battlegrounds - Complete Edition",
       "file": "missing/T/188638-transformers-battlegrounds-complete-edition.json"
+    },
+    {
+      "igdb_id": 146009,
+      "game_name": "Transformers: Battlegrounds - Deluxe Edition",
+      "file": "missing/T/146009-transformers-battlegrounds-deluxe-edition.json"
     },
     {
       "igdb_id": 273897,
@@ -1148337,6 +1148562,11 @@
       "file": "missing/U/167071-utawarerumono-prelude-to-the-fallen-premium-edition.json"
     },
     {
+      "igdb_id": 146015,
+      "game_name": "Utawarerumono: Zan 2 - Premium Edition",
+      "file": "missing/U/146015-utawarerumono-zan-2-premium-edition.json"
+    },
+    {
       "igdb_id": 334044,
       "game_name": "Ute",
       "file": "missing/U/334044-ute.json"
@@ -1154190,6 +1154420,11 @@
       "igdb_id": 280106,
       "game_name": "Vent Vipers",
       "file": "missing/V/280106-vent-vipers.json"
+    },
+    {
+      "igdb_id": 146001,
+      "game_name": "Venti Mesi",
+      "file": "missing/V/146001-venti-mesi.json"
     },
     {
       "igdb_id": 337305,
@@ -1161775,6 +1162010,11 @@
       "igdb_id": 143999,
       "game_name": "Void Terrarium++",
       "file": "missing/V/143999-void-terrarium.json"
+    },
+    {
+      "igdb_id": 146162,
+      "game_name": "Void Terrarium++: Deluxe Edition",
+      "file": "missing/V/146162-void-terrarium-deluxe-edition.json"
     },
     {
       "igdb_id": 220644,
@@ -1198737,6 +1198977,11 @@
       "file": "missing/W/110581-worlds-end-club.json"
     },
     {
+      "igdb_id": 146152,
+      "game_name": "World's End Club: Deluxe Edition",
+      "file": "missing/W/146152-worlds-end-club-deluxe-edition.json"
+    },
+    {
       "igdb_id": 98043,
       "game_name": "World's End Garden",
       "file": "missing/W/98043-worlds-end-garden.json"
@@ -1210255,6 +1210500,11 @@
       "igdb_id": 171288,
       "game_name": "Yonder: The Cloud Catcher Chronicles - Enhanced Edition",
       "file": "missing/Y/171288-yonder-the-cloud-catcher-chronicles-enhanced-edition.json"
+    },
+    {
+      "igdb_id": 146145,
+      "game_name": "Yonder: The Cloud Catcher Chronicles - Signature Edition",
+      "file": "missing/Y/146145-yonder-the-cloud-catcher-chronicles-signature-edition.json"
     },
     {
       "igdb_id": 241260,
