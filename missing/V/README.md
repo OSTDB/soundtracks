@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard Exiles | 328936 | [328936-vanguard-exiles.json](./328936-vanguard-exiles.json) |
 | Vanguard Monsters | 289172 | [289172-vanguard-monsters.json](./289172-vanguard-monsters.json) |
 | Vanguard Of Armor | 394159 | [394159-vanguard-of-armor.json](./394159-vanguard-of-armor.json) |
+| Vanguard of Demise | 105040 | [105040-vanguard-of-demise.json](./105040-vanguard-of-demise.json) |
 | Vanguard Online: Battlefield | 208080 | [208080-vanguard-online-battlefield.json](./208080-vanguard-online-battlefield.json) |
 | Vanguard Princess | 377294 | [377294-vanguard-princess.json](./377294-vanguard-princess.json) |
 | Vanguard Princess | 9433 | [9433-vanguard-princess.json](./9433-vanguard-princess.json) |
@@ -3021,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Fantasy | 395540 | [395540-vr-fantasy.json](./395540-vr-fantasy.json) |
 | VR Fight Covid-19 | 147352 | [147352-vr-fight-covid-19.json](./147352-vr-fight-covid-19.json) |
 | VR Fighter Jets War | 157380 | [157380-vr-fighter-jets-war.json](./157380-vr-fighter-jets-war.json) |
+| VR Figure from Shining: Kirika Towa Alma | 105021 | [105021-vr-figure-from-shining-kirika-towa-alma.json](./105021-vr-figure-from-shining-kirika-towa-alma.json) |
 | VR Fire Emergency Simulation System | 76699 | [76699-vr-fire-emergency-simulation-system.json](./76699-vr-fire-emergency-simulation-system.json) |
 | VR Fishtank | 244772 | [244772-vr-fishtank.json](./244772-vr-fishtank.json) |
 | VR Fitness | 245713 | [245713-vr-fitness.json](./245713-vr-fitness.json) |
