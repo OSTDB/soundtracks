@@ -985,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warehouse Simulator | 158597 | [158597-warehouse-simulator.json](./158597-warehouse-simulator.json) |
 | Warehouse Simulator | 377156 | [377156-warehouse-simulator.json](./377156-warehouse-simulator.json) |
 | Warehouse Simulator: Forklift Driver | 190070 | [190070-warehouse-simulator-forklift-driver.json](./190070-warehouse-simulator-forklift-driver.json) |
+| Warehouse Tycoon | 132481 | [132481-warehouse-tycoon.json](./132481-warehouse-tycoon.json) |
 | Warehuman | 201685 | [201685-warehuman.json](./201685-warehuman.json) |
 | Warera Mitsurin Tankentai!! | 179034 | [179034-warera-mitsurin-tankentai.json](./179034-warera-mitsurin-tankentai.json) |
 | Warf | 262881 | [262881-warf.json](./262881-warf.json) |
