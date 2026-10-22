@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Trails: A Hiking Game | 152742 | [152742-wandering-trails-a-hiking-game.json](./152742-wandering-trails-a-hiking-game.json) |
 | Wandering Willows | 16073 | [16073-wandering-willows.json](./16073-wandering-willows.json) |
 | Wandering Wolf | 165959 | [165959-wandering-wolf.json](./165959-wandering-wolf.json) |
+| Wandering Wolf Trick | 135487 | [135487-wandering-wolf-trick.json](./135487-wandering-wolf-trick.json) |
 | Wanderland | 30901 | [30901-wanderland.json](./30901-wanderland.json) |
 | Wanderlost | 145380 | [145380-wanderlost.json](./145380-wanderlost.json) |
 | Wanderlost | 225712 | [225712-wanderlost.json](./225712-wanderlost.json) |
