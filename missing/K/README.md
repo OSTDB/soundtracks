@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep It Contained | 390028 | [390028-keep-it-contained.json](./390028-keep-it-contained.json) |
 | Keep it Cool, Man | 202625 | [202625-keep-it-cool-man.json](./202625-keep-it-cool-man.json) |
 | Keep it Live | 194666 | [194666-keep-it-live.json](./194666-keep-it-live.json) |
+| Keep it Rise | 100620 | [100620-keep-it-rise.json](./100620-keep-it-rise.json) |
 | Keep It Running | 283747 | [283747-keep-it-running.json](./283747-keep-it-running.json) |
 | Keep It Running: Together | 330692 | [330692-keep-it-running-together.json](./330692-keep-it-running-together.json) |
 | Keep It Steady! | 295893 | [295893-keep-it-steady.json](./295893-keep-it-steady.json) |
