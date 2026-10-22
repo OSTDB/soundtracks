@@ -1957,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Truth | 33087 | [33087-immortal-truth.json](./33087-immortal-truth.json) |
 | Immortal Wayfarer | 402420 | [402420-immortal-wayfarer.json](./402420-immortal-wayfarer.json) |
 | Immortal: And the Death that Follows | 217325 | [217325-immortal-and-the-death-that-follows.json](./217325-immortal-and-the-death-that-follows.json) |
+| Immortal: Gates of Pyre | 141069 | [141069-immortal-gates-of-pyre.json](./141069-immortal-gates-of-pyre.json) |
 | Immortal: Mors tud, vita mea | 178831 | [178831-immortal-mors-tud-vita-mea.json](./178831-immortal-mors-tud-vita-mea.json) |
 | Immortal: Unchained | 55038 | [55038-immortal-unchained.json](./55038-immortal-unchained.json) |
 | Immortal: Unchained - Storm Breaker | 118202 | [118202-immortal-unchained-storm-breaker.json](./118202-immortal-unchained-storm-breaker.json) |
@@ -5168,6 +5169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Raining Cats' & Dogs' Poop | 62217 | [62217-its-raining-cats-and-dogs-poop.json](./62217-its-raining-cats-and-dogs-poop.json) |
 | It's Raining Cats' & Dogs' Poop 2 | 62216 | [62216-its-raining-cats-and-dogs-poop-2.json](./62216-its-raining-cats-and-dogs-poop-2.json) |
 | It's Raining Fists and Metal | 124202 | [124202-its-raining-fists-and-metal.json](./124202-its-raining-fists-and-metal.json) |
+| It's Six Random Characters and a Single Floor Dungeon: That's the Whole Game | 140848 | [140848-its-six-random-characters-and-a-single-floor-dungeon-thats-the-whole-game.json](./140848-its-six-random-characters-and-a-single-floor-dungeon-thats-the-whole-game.json) |
 | It's Skrot-Robot Time! | 293978 | [293978-its-skrot-robot-time.json](./293978-its-skrot-robot-time.json) |
 | It's Slime-Creep Time! | 293972 | [293972-its-slime-creep-time.json](./293972-its-slime-creep-time.json) |
 | It's Still a Space Thing | 200053 | [200053-its-still-a-space-thing.json](./200053-its-still-a-space-thing.json) |
