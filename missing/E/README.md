@@ -2973,6 +2973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless War 7 | 234926 | [234926-endless-war-7.json](./234926-endless-war-7.json) |
 | Endless Wave | 75068 | [75068-endless-wave.json](./75068-endless-wave.json) |
 | Endless Winter | 36970 | [36970-endless-winter.json](./36970-endless-winter.json) |
+| Endless World | 106312 | [106312-endless-world.json](./106312-endless-world.json) |
 | Endless Zombie Tower | 151172 | [151172-endless-zombie-tower.json](./151172-endless-zombie-tower.json) |
 | Endless Zombie Weekend | 190384 | [190384-endless-zombie-weekend.json](./190384-endless-zombie-weekend.json) |
 | Endless Zone | 140043 | [140043-endless-zone.json](./140043-endless-zone.json) |
@@ -5517,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Manor | 137485 | [137485-evil-manor.json](./137485-evil-manor.json) |
 | Evil Maze 2 | 111637 | [111637-evil-maze-2.json](./111637-evil-maze-2.json) |
 | Evil Maze 2: Lava Dungeon | 193292 | [193292-evil-maze-2-lava-dungeon.json](./193292-evil-maze-2-lava-dungeon.json) |
+| Evil Minds: Dirty Charades! | 106346 | [106346-evil-minds-dirty-charades.json](./106346-evil-minds-dirty-charades.json) |
 | Evil Mountains | 276675 | [276675-evil-mountains.json](./276675-evil-mountains.json) |
 | Evil Next Door | 217366 | [217366-evil-next-door.json](./217366-evil-next-door.json) |
 | Evil Night | 94718 | [94718-evil-night.json](./94718-evil-night.json) |
@@ -5977,6 +5979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus of Souls | 217161 | [217161-exodus-of-souls.json](./217161-exodus-of-souls.json) |
 | Exodus Vigil | 207353 | [207353-exodus-vigil.json](./207353-exodus-vigil.json) |
 | Exodus: Journey to the Promised Land | 11164 | [11164-exodus-journey-to-the-promised-land.json](./11164-exodus-journey-to-the-promised-land.json) |
+| Exodus: Proxima Centauri | 106323 | [106323-exodus-proxima-centauri.json](./106323-exodus-proxima-centauri.json) |
 | Exodus: Sunflower on the Horizon | 257977 | [257977-exodus-sunflower-on-the-horizon.json](./257977-exodus-sunflower-on-the-horizon.json) |
 | Exodus: The Last War | 69930 | [69930-exodus-the-last-war.json](./69930-exodus-the-last-war.json) |
 | Exofinity Clicker | 383579 | [383579-exofinity-clicker.json](./383579-exofinity-clicker.json) |
