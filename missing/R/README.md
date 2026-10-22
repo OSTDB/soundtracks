@@ -2157,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready 2 Rumble Boxing: Round 2 | 3587 | [3587-ready-2-rumble-boxing-round-2.json](./3587-ready-2-rumble-boxing-round-2.json) |
 | Ready 2 Rumble: Revolution | 5118 | [5118-ready-2-rumble-revolution.json](./5118-ready-2-rumble-revolution.json) |
 | Ready Action | 196893 | [196893-ready-action.json](./196893-ready-action.json) |
+| Ready Aim Fire | 149295 | [149295-ready-aim-fire.json](./149295-ready-aim-fire.json) |
 | Ready Contest | 112233 | [112233-ready-contest.json](./112233-ready-contest.json) |
 | Ready or Die | 389071 | [389071-ready-or-die.json](./389071-ready-or-die.json) |
 | Ready or Not: Boiling Point | 394376 | [394376-ready-or-not-boiling-point.json](./394376-ready-or-not-boiling-point.json) |
@@ -3192,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redcon | 25098 | [25098-redcon.json](./25098-redcon.json) |
 | Redcrest: 1993 | 346241 | [346241-redcrest-1993.json](./346241-redcrest-1993.json) |
 | Redd War: Turnabout | 318805 | [318805-redd-war-turnabout.json](./318805-redd-war-turnabout.json) |
+| Redd's Runaway | 149321 | [149321-redds-runaway.json](./149321-redds-runaway.json) |
 | Redden | 83576 | [83576-redden.json](./83576-redden.json) |
 | Redden: 100denarii | 192064 | [192064-redden-100denarii.json](./192064-redden-100denarii.json) |
 | Reddie and the Redirected Walker: Module 01 - Alpha | 267261 | [267261-reddie-and-the-redirected-walker-module-01-alpha.json](./267261-reddie-and-the-redirected-walker-module-01-alpha.json) |
@@ -4437,6 +4439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Respawn | 203851 | [203851-respawn.json](./203851-respawn.json) |
 | Respawn | 246796 | [246796-respawn.json](./246796-respawn.json) |
 | Respawn Man | 34527 | [34527-respawn-man.json](./34527-respawn-man.json) |
+| Respawnables Heroes | 149317 | [149317-respawnables-heroes.json](./149317-respawnables-heroes.json) |
 | Respawnables: Special Forces | 94784 | [94784-respawnables-special-forces.json](./94784-respawnables-special-forces.json) |
 | Respite | 179083 | [179083-respite.json](./179083-respite.json) |
 | Responding | 128585 | [128585-responding.json](./128585-responding.json) |
@@ -4769,6 +4772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrowave Hexon | 159857 | [159857-retrowave-hexon.json](./159857-retrowave-hexon.json) |
 | Retrowave Illusions: Aesthetics Edition | 250304 | [250304-retrowave-illusions-aesthetics-edition.json](./250304-retrowave-illusions-aesthetics-edition.json) |
 | Retrowave Rider | 207606 | [207606-retrowave-rider.json](./207606-retrowave-rider.json) |
+| Retrowave Road | 149274 | [149274-retrowave-road.json](./149274-retrowave-road.json) |
 | Retrowave World | 258383 | [258383-retrowave-world.json](./258383-retrowave-world.json) |
 | Retrozen | 298417 | [298417-retrozen.json](./298417-retrozen.json) |
 | Retrys | 355576 | [355576-retrys.json](./355576-retrys.json) |
@@ -6555,6 +6559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Adventure! | 143747 | [143747-road-to-adventure.json](./143747-road-to-adventure.json) |
 | Road to Beta | 86114 | [86114-road-to-beta.json](./86114-road-to-beta.json) |
 | Road to Champion: Boxing Simulator | 312428 | [312428-road-to-champion-boxing-simulator.json](./312428-road-to-champion-boxing-simulator.json) |
+| Road to Death | 149457 | [149457-road-to-death.json](./149457-road-to-death.json) |
 | Road to Devadatta | 225198 | [225198-road-to-devadatta.json](./225198-road-to-devadatta.json) |
 | Road to Eden | 106101 | [106101-road-to-eden.json](./106101-road-to-eden.json) |
 | Road to Empress I | 351103 | [351103-road-to-empress-i.json](./351103-road-to-empress-i.json) |
@@ -7755,6 +7760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Heroes: Ruins of Tasos | 137985 | [137985-rogue-heroes-ruins-of-tasos.json](./137985-rogue-heroes-ruins-of-tasos.json) |
 | Rogue Hex | 243806 | [243806-rogue-hex.json](./243806-rogue-hex.json) |
 | Rogue Inferno | 374783 | [374783-rogue-inferno.json](./374783-rogue-inferno.json) |
+| Rogue Invader | 149462 | [149462-rogue-invader.json](./149462-rogue-invader.json) |
 | Rogue Islands | 32073 | [32073-rogue-islands.json](./32073-rogue-islands.json) |
 | Rogue Jungle | 307949 | [307949-rogue-jungle.json](./307949-rogue-jungle.json) |
 | Rogue Kingdom | 406323 | [406323-rogue-kingdom.json](./406323-rogue-kingdom.json) |
@@ -9253,6 +9259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruin Arm | 38292 | [38292-ruin-arm.json](./38292-ruin-arm.json) |
 | Ruin City Gasolina | 55343 | [55343-ruin-city-gasolina.json](./55343-ruin-city-gasolina.json) |
 | Ruin Hunter Raichi | 392456 | [392456-ruin-hunter-raichi.json](./392456-ruin-hunter-raichi.json) |
+| Ruin Hunters | 149270 | [149270-ruin-hunters.json](./149270-ruin-hunters.json) |
 | Ruin of the Fae Realm | 312314 | [312314-ruin-of-the-fae-realm.json](./312314-ruin-of-the-fae-realm.json) |
 | Ruin of the Reckless | 28240 | [28240-ruin-of-the-reckless.json](./28240-ruin-of-the-reckless.json) |
 | Ruin or Victory | 190926 | [190926-ruin-or-victory.json](./190926-ruin-or-victory.json) |
