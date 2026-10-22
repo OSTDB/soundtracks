@@ -1055,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Hair Salon | 90898 | [90898-candy-hair-salon.json](./90898-candy-hair-salon.json) |
 | Candy Hentai | 301662 | [301662-candy-hentai.json](./301662-candy-hentai.json) |
 | Candy Ice Cream Jam Match 3 | 166297 | [166297-candy-ice-cream-jam-match-3.json](./166297-candy-ice-cream-jam-match-3.json) |
+| Candy Jump 2: The Old Age | 104404 | [104404-candy-jump-2-the-old-age.json](./104404-candy-jump-2-the-old-age.json) |
 | Candy Jump featuring Frosty | 147131 | [147131-candy-jump-featuring-frosty.json](./147131-candy-jump-featuring-frosty.json) |
 | Candy Kingdom | 31395 | [31395-candy-kingdom.json](./31395-candy-kingdom.json) |
 | Candy Kombat | 216646 | [216646-candy-kombat.json](./216646-candy-kombat.json) |
@@ -1690,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Simulator Bundle | 357026 | [357026-car-simulator-bundle.json](./357026-car-simulator-bundle.json) |
 | Car Simulator OG | 68532 | [68532-car-simulator-og.json](./68532-car-simulator-og.json) |
 | Car Simulator: Car Games 3D | 266260 | [266260-car-simulator-car-games-3d.json](./266260-car-simulator-car-games-3d.json) |
+| Car Soccer 2018 | 104409 | [104409-car-soccer-2018.json](./104409-car-soccer-2018.json) |
 | Car Soccer World Cup | 120825 | [120825-car-soccer-world-cup.json](./120825-car-soccer-world-cup.json) |
 | Car Street | 349815 | [349815-car-street.json](./349815-car-street.json) |
 | Car Trader Simulator | 81162 | [81162-car-trader-simulator.json](./81162-car-trader-simulator.json) |
@@ -5723,6 +5725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimera Pro | 417355 | [417355-chimera-pro.json](./417355-chimera-pro.json) |
 | Chimeral Fantasy | 223506 | [223506-chimeral-fantasy.json](./223506-chimeral-fantasy.json) |
 | Chimeraland | 174589 | [174589-chimeraland.json](./174589-chimeraland.json) |
+| Chimeras: Blinding Love | 104427 | [104427-chimeras-blinding-love.json](./104427-chimeras-blinding-love.json) |
 | Chimeras: Cherished Serpent | 417543 | [417543-chimeras-cherished-serpent.json](./417543-chimeras-cherished-serpent.json) |
 | Chimeras: Cherished Serpent - Collector's Edition | 170216 | [170216-chimeras-cherished-serpent-collectors-edition.json](./170216-chimeras-cherished-serpent-collectors-edition.json) |
 | Chimeras: Cursed and Forgotten | 103977 | [103977-chimeras-cursed-and-forgotten.json](./103977-chimeras-cursed-and-forgotten.json) |
@@ -7267,6 +7270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Siege Sniper | 266850 | [266850-city-siege-sniper.json](./266850-city-siege-sniper.json) |
 | City Siege: Faction Island | 29814 | [29814-city-siege-faction-island.json](./29814-city-siege-faction-island.json) |
 | City Sights: Hello Seattle! | 206350 | [206350-city-sights-hello-seattle.json](./206350-city-sights-hello-seattle.json) |
+| City Skater Board Master | 104416 | [104416-city-skater-board-master.json](./104416-city-skater-board-master.json) |
 | City Slicker | 12985 | [12985-city-slicker.json](./12985-city-slicker.json) |
 | City Slickers | 250647 | [250647-city-slickers.json](./250647-city-slickers.json) |
 | City Smasher | 196542 | [196542-city-smasher.json](./196542-city-smasher.json) |
@@ -7483,6 +7487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash | 55033 | [55033-clash.json](./55033-clash.json) |
 | Clash Battle Simulator | 326450 | [326450-clash-battle-simulator.json](./326450-clash-battle-simulator.json) |
 | Clash Bro's! | 330962 | [330962-clash-bros.json](./330962-clash-bros.json) |
+| Clash Caddie | 104495 | [104495-clash-caddie.json](./104495-clash-caddie.json) |
 | Clash Cats | 262834 | [262834-clash-cats.json](./262834-clash-cats.json) |
 | Clash Cup Turbo | 34703 | [34703-clash-cup-turbo.json](./34703-clash-cup-turbo.json) |
 | Clash for Crust | 310042 | [310042-clash-for-crust.json](./310042-clash-for-crust.json) |
@@ -8890,6 +8895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Master | 87020 | [87020-coin-master.json](./87020-coin-master.json) |
 | Coin Pickers | 127804 | [127804-coin-pickers.json](./127804-coin-pickers.json) |
 | Coin Pit | 394563 | [394563-coin-pit.json](./394563-coin-pit.json) |
+| Coin Princess VIP | 104401 | [104401-coin-princess-vip.json](./104401-coin-princess-vip.json) |
 | Coin Push RPG | 336010 | [336010-coin-push-rpg.json](./336010-coin-push-rpg.json) |
 | Coin Pusher Casino | 230196 | [230196-coin-pusher-casino.json](./230196-coin-pusher-casino.json) |
 | Coin Rush | 181054 | [181054-coin-rush.json](./181054-coin-rush.json) |
