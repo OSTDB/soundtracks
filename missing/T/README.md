@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take the Cake | 76290 | [76290-take-the-cake.json](./76290-take-the-cake.json) |
 | Take the Earth | 258439 | [258439-take-the-earth.json](./258439-take-the-earth.json) |
 | Take the King! | 270737 | [270737-take-the-king.json](./270737-take-the-king.json) |
+| Take the Throne | 142301 | [142301-take-the-throne.json](./142301-take-the-throne.json) |
 | Take the Veil | 201638 | [201638-take-the-veil.json](./201638-take-the-veil.json) |
 | Take town | 163402 | [163402-take-town.json](./163402-take-town.json) |
 | Take Your Altushka | 310106 | [310106-take-your-altushka.json](./310106-take-your-altushka.json) |
@@ -6217,6 +6218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Side of the Moon | 144010 | [144010-the-dark-side-of-the-moon.json](./144010-the-dark-side-of-the-moon.json) |
 | The Dark Side of the Moon | 54465 | [54465-the-dark-side-of-the-moon.json](./54465-the-dark-side-of-the-moon.json) |
 | The Dark Spire | 21185 | [21185-the-dark-spire.json](./21185-the-dark-spire.json) |
+| The Dark Stares Back | 142091 | [142091-the-dark-stares-back.json](./142091-the-dark-stares-back.json) |
 | The Dark Stone of Mebara | 9398 | [9398-the-dark-stone-of-mebara.json](./9398-the-dark-stone-of-mebara.json) |
 | The Dark Survivors | 273647 | [273647-the-dark-survivors.json](./273647-the-dark-survivors.json) |
 | The Dark Tales of Katarina | 28871 | [28871-the-dark-tales-of-katarina.json](./28871-the-dark-tales-of-katarina.json) |
@@ -12766,6 +12768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silver Lining | 50807 | [50807-the-silver-lining.json](./50807-the-silver-lining.json) |
 | The Silver Spoon Caper | 185403 | [185403-the-silver-spoon-caper.json](./185403-the-silver-spoon-caper.json) |
 | The Simen Rumors | 397220 | [397220-the-simen-rumors.json](./397220-the-simen-rumors.json) |
+| The Simple Balance | 142079 | [142079-the-simple-balance.json](./142079-the-simple-balance.json) |
 | The Simpler Times | 421354 | [421354-the-simpler-times.json](./421354-the-simpler-times.json) |
 | The Simplest Game in the World | 262872 | [262872-the-simplest-game-in-the-world.json](./262872-the-simplest-game-in-the-world.json) |
 | The Simpsons | 198885 | [198885-the-simpsons.json](./198885-the-simpsons.json) |
