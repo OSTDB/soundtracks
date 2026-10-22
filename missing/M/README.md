@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Bullets | 33262 | [33262-mad-bullets.json](./33262-mad-bullets.json) |
 | Mad Burger 3: Wild West | 102040 | [102040-mad-burger-3-wild-west.json](./102040-mad-burger-3-wild-west.json) |
 | Mad Bus | 156101 | [156101-mad-bus.json](./156101-mad-bus.json) |
+| Mad Caps | 103844 | [103844-mad-caps.json](./103844-mad-caps.json) |
 | Mad Carnage | 86241 | [86241-mad-carnage.json](./86241-mad-carnage.json) |
 | Mad Cars | 94261 | [94261-mad-cars.json](./94261-mad-cars.json) |
 | Mad Cat's World | 120910 | [120910-mad-cats-world.json](./120910-mad-cats-world.json) |
@@ -5240,6 +5241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Survivors | 359921 | [359921-mecha-survivors.json](./359921-mecha-survivors.json) |
 | Mecha Tactics | 154392 | [154392-mecha-tactics.json](./154392-mecha-tactics.json) |
 | Mecha Taisen on Planet Oldskool | 73497 | [73497-mecha-taisen-on-planet-oldskool.json](./73497-mecha-taisen-on-planet-oldskool.json) |
+| Mecha-Tokyo Rush | 103828 | [103828-mecha-tokyo-rush.json](./103828-mecha-tokyo-rush.json) |
 | Mecha: War Robots | 208170 | [208170-mecha-war-robots.json](./208170-mecha-war-robots.json) |
 | Mecha's Negotiations | 363915 | [363915-mechas-negotiations.json](./363915-mechas-negotiations.json) |
 | Mechabellum | 240897 | [240897-mechabellum.json](./240897-mechabellum.json) |
