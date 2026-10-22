@@ -1314,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egyptian Settlement Gold | 35308 | [35308-egyptian-settlement-gold.json](./35308-egyptian-settlement-gold.json) |
 | Egyptian Trilogy | 209179 | [209179-egyptian-trilogy.json](./209179-egyptian-trilogy.json) |
 | Ehrgeiz | 1361 | [1361-ehrgeiz.json](./1361-ehrgeiz.json) |
+| Eia | 149319 | [149319-eia.json](./149319-eia.json) |
 | Eidetus | 125898 | [125898-eidetus.json](./125898-eidetus.json) |
 | Eidol | 405550 | [405550-eidol.json](./405550-eidol.json) |
 | Eidolon | 17161 | [17161-eidolon.json](./17161-eidolon.json) |
@@ -1365,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ein's Sword 3 | 312112 | [312112-eins-sword-3.json](./312112-eins-sword-3.json) |
 | Einar | 50540 | [50540-einar.json](./50540-einar.json) |
 | Einar: Loki's Traps | 171357 | [171357-einar-lokis-traps.json](./171357-einar-lokis-traps.json) |
+| Eindeloos Mahjong | 149282 | [149282-eindeloos-mahjong.json](./149282-eindeloos-mahjong.json) |
 | Einhänder | 1360 | [1360-einhander.json](./1360-einhander.json) |
 | Einheriar | 243574 | [243574-einheriar.json](./243574-einheriar.json) |
 | Einherjar | 181122 | [181122-einherjar.json](./181122-einherjar.json) |
@@ -2788,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Chase: Fate of Bolek | 307211 | [307211-endless-chase-fate-of-bolek.json](./307211-endless-chase-fate-of-bolek.json) |
 | Endless Combat | 72365 | [72365-endless-combat.json](./72365-endless-combat.json) |
 | Endless Combat Dungeon | 184621 | [184621-endless-combat-dungeon.json](./184621-endless-combat-dungeon.json) |
+| Endless Crawler | 149310 | [149310-endless-crawler.json](./149310-endless-crawler.json) |
 | Endless Crusade | 99015 | [99015-endless-crusade.json](./99015-endless-crusade.json) |
 | Endless Dark | 236912 | [236912-endless-dark.json](./236912-endless-dark.json) |
 | Endless Days | 240077 | [240077-endless-days.json](./240077-endless-days.json) |
@@ -5853,6 +5856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo-Ship Saga | 172537 | [172537-exo-ship-saga.json](./172537-exo-ship-saga.json) |
 | Exo-tical | 334866 | [334866-exo-tical.json](./334866-exo-tical.json) |
 | Exo: Arena | 257473 | [257473-exo-arena.json](./257473-exo-arena.json) |
+| Exoblast | 149265 | [149265-exoblast.json](./149265-exoblast.json) |
 | Exocet | 40641 | [40641-exocet.json](./40641-exocet.json) |
 | Exocide | 197046 | [197046-exocide.json](./197046-exocide.json) |
 | ExoColony: Planet Survival | 226715 | [226715-exocolony-planet-survival.json](./226715-exocolony-planet-survival.json) |
