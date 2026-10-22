@@ -4490,6 +4490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Dream of School | 114289 | [114289-hero-dream-of-school.json](./114289-hero-dream-of-school.json) |
 | Hero Emblem 2 | 82712 | [82712-hero-emblem-2.json](./82712-hero-emblem-2.json) |
 | Hero Emblems II | 114777 | [114777-hero-emblems-ii.json](./114777-hero-emblems-ii.json) |
+| Hero Express | 120041 | [120041-hero-express.json](./120041-hero-express.json) |
 | Hero Fighter | 66720 | [66720-hero-fighter.json](./66720-hero-fighter.json) |
 | Hero Fighters Club | 62693 | [62693-hero-fighters-club.json](./62693-hero-fighters-club.json) |
 | Hero Fodder | 224673 | [224673-hero-fodder.json](./224673-hero-fodder.json) |
@@ -8385,6 +8386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Dracula | 81139 | [81139-hotel-dracula.json](./81139-hotel-dracula.json) |
 | Hotel Empire Tycoon | 234464 | [234464-hotel-empire-tycoon.json](./234464-hotel-empire-tycoon.json) |
 | Hotel Empire: Check Inn | 413097 | [413097-hotel-empire-check-inn.json](./413097-hotel-empire-check-inn.json) |
+| Hotel Ever After: Ella's Wish | 119999 | [119999-hotel-ever-after-ellas-wish.json](./119999-hotel-ever-after-ellas-wish.json) |
 | Hotel for Dogs | 21256 | [21256-hotel-for-dogs.json](./21256-hotel-for-dogs.json) |
 | Hotel Giant | 292 | [292-hotel-giant.json](./292-hotel-giant.json) |
 | Hotel Giant Bundle | 193738 | [193738-hotel-giant-bundle.json](./193738-hotel-giant-bundle.json) |
