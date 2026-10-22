@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oik 5: DLC | 171626 | [171626-oik-5-dlc.json](./171626-oik-5-dlc.json) |
 | Oik Memory | 81155 | [81155-oik-memory.json](./81155-oik-memory.json) |
 | Oik Memory 3 | 114976 | [114976-oik-memory-3.json](./114976-oik-memory-3.json) |
+| Oik Memory: Endgame | 118623 | [118623-oik-memory-endgame.json](./118623-oik-memory-endgame.json) |
 | Oik Reloaded | 115809 | [115809-oik-reloaded.json](./115809-oik-reloaded.json) |
 | Oika | 120848 | [120848-oika.json](./120848-oika.json) |
 | Oikizo | 366734 | [366734-oikizo.json](./366734-oikizo.json) |
@@ -1069,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okinawa Rush | 69375 | [69375-okinawa-rush.json](./69375-okinawa-rush.json) |
 | Okinawa Rush: Limited Edition | 171283 | [171283-okinawa-rush-limited-edition.json](./171283-okinawa-rush-limited-edition.json) |
 | OkioGo! | 61061 | [61061-okiogo.json](./61061-okiogo.json) |
+| Okira GO - Endless 3D Platformer Runner | 118672 | [118672-okira-go-endless-3d-platformer-runner.json](./118672-okira-go-endless-3d-platformer-runner.json) |
 | Okiraku Daifugou 3D | 222326 | [222326-okiraku-daifugou-3d.json](./222326-okiraku-daifugou-3d.json) |
 | Okiraku Fishing 3D | 222450 | [222450-okiraku-fishing-3d.json](./222450-okiraku-fishing-3d.json) |
 | Okiraku Golf 3D | 222293 | [222293-okiraku-golf-3d.json](./222293-okiraku-golf-3d.json) |
@@ -1113,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Friends Dog Game | 159311 | [159311-old-friends-dog-game.json](./159311-old-friends-dog-game.json) |
 | Old Future: Post-Apocalyptic Times | 196882 | [196882-old-future-post-apocalyptic-times.json](./196882-old-future-post-apocalyptic-times.json) |
 | Old Gay Cats Look at Old Photos | 264353 | [264353-old-gay-cats-look-at-old-photos.json](./264353-old-gay-cats-look-at-old-photos.json) |
+| Old Gods Rising | 118635 | [118635-old-gods-rising.json](./118635-old-gods-rising.json) |
 | Old Hound of Baker Street | 280181 | [280181-old-hound-of-baker-street.json](./280181-old-hound-of-baker-street.json) |
 | Old Hunter | 165664 | [165664-old-hunter.json](./165664-old-hunter.json) |
 | Old Ironsides | 23577 | [23577-old-ironsides.json](./23577-old-ironsides.json) |
@@ -4105,6 +4108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw Mayor Panic | 144675 | [144675-outlaw-mayor-panic.json](./144675-outlaw-mayor-panic.json) |
 | Outlaw Racers | 47085 | [47085-outlaw-racers.json](./47085-outlaw-racers.json) |
 | Outlaw Racing | 210603 | [210603-outlaw-racing.json](./210603-outlaw-racing.json) |
+| Outlaw Tales: Survival Online | 118657 | [118657-outlaw-tales-survival-online.json](./118657-outlaw-tales-survival-online.json) |
 | Outlaw Tales: Western Adventure Survival | 118199 | [118199-outlaw-tales-western-adventure-survival.json](./118199-outlaw-tales-western-adventure-survival.json) |
 | Outlaw Tennis | 5977 | [5977-outlaw-tennis.json](./5977-outlaw-tennis.json) |
 | Outlaw Volleyball | 3806 | [3806-outlaw-volleyball.json](./3806-outlaw-volleyball.json) |
