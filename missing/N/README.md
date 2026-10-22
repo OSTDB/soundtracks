@@ -4607,6 +4607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Rush! | 25522 | [25522-no-rush.json](./25522-no-rush.json) |
 | No safety | 84086 | [84086-no-safety.json](./84086-no-safety.json) |
 | No Salvation | 281249 | [281249-no-salvation.json](./281249-no-salvation.json) |
+| No Secrets | 135491 | [135491-no-secrets.json](./135491-no-secrets.json) |
 | No Senses | 198236 | [198236-no-senses.json](./198236-no-senses.json) |
 | No Service | 391030 | [391030-no-service.json](./391030-no-service.json) |
 | No Shot | 398919 | [398919-no-shot.json](./398919-no-shot.json) |
