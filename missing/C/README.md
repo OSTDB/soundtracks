@@ -11421,6 +11421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corona Blossom Vol.1 Gift From the Galaxy | 32228 | [32228-corona-blossom-vol-1-gift-from-the-galaxy.json](./32228-corona-blossom-vol-1-gift-from-the-galaxy.json) |
 | Corona Blossom Vol.3 Journey to the Stars | 30334 | [30334-corona-blossom-vol-3-journey-to-the-stars.json](./30334-corona-blossom-vol-3-journey-to-the-stars.json) |
 | Corona Borealis | 113186 | [113186-corona-borealis.json](./113186-corona-borealis.json) |
+| Corona Cannon | 103914 | [103914-corona-cannon.json](./103914-corona-cannon.json) |
 | Corona Find Us | 150419 | [150419-corona-find-us.json](./150419-corona-find-us.json) |
 | Corona Frustration Elimination | 165001 | [165001-corona-frustration-elimination.json](./165001-corona-frustration-elimination.json) |
 | Corona Kombat | 159582 | [159582-corona-kombat.json](./159582-corona-kombat.json) |
@@ -12105,6 +12106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covenant: Project Zero | 236368 | [236368-covenant-project-zero.json](./236368-covenant-project-zero.json) |
 | Covenanted | 157155 | [157155-covenanted.json](./157155-covenanted.json) |
 | Cover Fire | 38954 | [38954-cover-fire.json](./38954-cover-fire.json) |
+| Cover Fire: Shooter vs Sniper | 103855 | [103855-cover-fire-shooter-vs-sniper.json](./103855-cover-fire-shooter-vs-sniper.json) |
 | Cover Orange | 403224 | [403224-cover-orange.json](./403224-cover-orange.json) |
 | Cover Orange | 86862 | [86862-cover-orange.json](./86862-cover-orange.json) |
 | Cover Orange | 90090 | [90090-cover-orange.json](./90090-cover-orange.json) |
