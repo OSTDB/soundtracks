@@ -3368,6 +3368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Reader | 124034 | [124034-dear-reader.json](./124034-dear-reader.json) |
 | Dear Red | 280724 | [280724-dear-red.json](./280724-dear-red.json) |
 | Dear Red: Extended | 33250 | [33250-dear-red-extended.json](./33250-dear-red-extended.json) |
+| Dear Stefan | 116011 | [116011-dear-stefan.json](./116011-dear-stefan.json) |
 | Dear Toki | 122972 | [122972-dear-toki.json](./122972-dear-toki.json) |
 | Dear world Re. | 386252 | [386252-dear-world-re.json](./386252-dear-world-re.json) |
 | Dear, Ella | 232298 | [232298-dear-ella.json](./232298-dear-ella.json) |
@@ -10902,6 +10903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
 | Doxxed | 214111 | [214111-doxxed.json](./214111-doxxed.json) |
 | DoxyLanD | 169662 | [169662-doxyland.json](./169662-doxyland.json) |
+| Doza 2: Novogodniy Peredoz | 116060 | [116060-doza-2-novogodniy-peredoz.json](./116060-doza-2-novogodniy-peredoz.json) |
 | Dozie Penguins | 216411 | [216411-dozie-penguins.json](./216411-dozie-penguins.json) |
 | DP.T: Dr Pepper Terror | 140916 | [140916-dp-t-dr-pepper-terror.json](./140916-dp-t-dr-pepper-terror.json) |
 | Dps Idle | 161333 | [161333-dps-idle.json](./161333-dps-idle.json) |
@@ -12404,6 +12406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Square: Hinagata Akiko | 216418 | [216418-dream-square-hinagata-akiko.json](./216418-dream-square-hinagata-akiko.json) |
 | Dream Station | 318820 | [318820-dream-station.json](./318820-dream-station.json) |
 | Dream Storm | 189047 | [189047-dream-storm.json](./189047-dream-storm.json) |
+| Dream Story: Origin | 116012 | [116012-dream-story-origin.json](./116012-dream-story-origin.json) |
 | Dream Survivors | 297085 | [297085-dream-survivors.json](./297085-dream-survivors.json) |
 | Dream Syndrome | 138269 | [138269-dream-syndrome.json](./138269-dream-syndrome.json) |
 | Dream Tactics | 211623 | [211623-dream-tactics.json](./211623-dream-tactics.json) |
@@ -13231,6 +13234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drump Simulator | 407362 | [407362-drump-simulator.json](./407362-drump-simulator.json) |
 | Drumpf 2: Lost, But Not Forgotten! | 120366 | [120366-drumpf-2-lost-but-not-forgotten.json](./120366-drumpf-2-lost-but-not-forgotten.json) |
 | Drumpf: Rise Up, Libertonia! | 88017 | [88017-drumpf-rise-up-libertonia.json](./88017-drumpf-rise-up-libertonia.json) |
+| Drumpfy Walls | 116061 | [116061-drumpfy-walls.json](./116061-drumpfy-walls.json) |
 | Drums | 187313 | [187313-drums.json](./187313-drums.json) |
 | Drums Hero PC | 37398 | [37398-drums-hero-pc.json](./37398-drums-hero-pc.json) |
 | Drums of War | 307662 | [307662-drums-of-war.json](./307662-drums-of-war.json) |
