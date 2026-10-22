@@ -15245,6 +15245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutants: Genesis | 220144 | [220144-mutants-genesis.json](./220144-mutants-genesis.json) |
 | Mutasmagoria | 382498 | [382498-mutasmagoria.json](./382498-mutasmagoria.json) |
 | Mutate! Fight! Purr! | 381640 | [381640-mutate-fight-purr.json](./381640-mutate-fight-purr.json) |
+| Mutated Muter's Invasion | 150984 | [150984-mutated-muters-invasion.json](./150984-mutated-muters-invasion.json) |
 | Mutation | 146539 | [146539-mutation.json](./146539-mutation.json) |
 | Mutation Madness | 264690 | [264690-mutation-madness.json](./264690-mutation-madness.json) |
 | Mutation Mayhem | 102914 | [102914-mutation-mayhem.json](./102914-mutation-mayhem.json) |
