@@ -4909,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Killer | 349847 | [349847-demon-killer.json](./349847-demon-killer.json) |
 | Demon Killer VR | 156543 | [156543-demon-killer-vr.json](./156543-demon-killer-vr.json) |
 | Demon King | 192687 | [192687-demon-king.json](./192687-demon-king.json) |
+| Demon King Chronicle | 145345 | [145345-demon-king-chronicle.json](./145345-demon-king-chronicle.json) |
 | Demon Kingdom | 303470 | [303470-demon-kingdom.json](./303470-demon-kingdom.json) |
 | Demon Knight | 38922 | [38922-demon-knight.json](./38922-demon-knight.json) |
 | Demon Knives | 337587 | [337587-demon-knives.json](./337587-demon-knives.json) |
@@ -7624,6 +7625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disbelief | 354417 | [354417-disbelief.json](./354417-disbelief.json) |
 | Disc | 365671 | [365671-disc.json](./365671-disc.json) |
 | Disc Creatures | 117532 | [117532-disc-creatures.json](./117532-disc-creatures.json) |
+| Disc Creatures World | 145333 | [145333-disc-creatures-world.json](./145333-disc-creatures-world.json) |
 | Disc Dimension | 278153 | [278153-disc-dimension.json](./278153-disc-dimension.json) |
 | Disc Drivin' | 92398 | [92398-disc-drivin.json](./92398-disc-drivin.json) |
 | Disc Frenzy | 296720 | [296720-disc-frenzy.json](./296720-disc-frenzy.json) |
@@ -10744,6 +10746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Mafia: Gang Wars | 105348 | [105348-downtown-mafia-gang-wars.json](./105348-downtown-mafia-gang-wars.json) |
 | Downtown Nekketsu Jidaigeki | 60562 | [60562-downtown-nekketsu-jidaigeki.json](./60562-downtown-nekketsu-jidaigeki.json) |
 | Downtown Nekketsu Koushinkyoku: Dokodemo Daiundoukai | 49109 | [49109-downtown-nekketsu-koushinkyoku-dokodemo-daiundoukai.json](./49109-downtown-nekketsu-koushinkyoku-dokodemo-daiundoukai.json) |
+| Downtown Nekketsu Monogatari | 145363 | [145363-downtown-nekketsu-monogatari.json](./145363-downtown-nekketsu-monogatari.json) |
 | Downtown Nekketsu Monogatari | 37624 | [37624-downtown-nekketsu-monogatari.json](./37624-downtown-nekketsu-monogatari.json) |
 | Downtown Nekketsu Monogatari 2 | 66084 | [66084-downtown-nekketsu-monogatari-2.json](./66084-downtown-nekketsu-monogatari-2.json) |
 | Downtown Nekketsu Monogatari EX | 191676 | [191676-downtown-nekketsu-monogatari-ex.json](./191676-downtown-nekketsu-monogatari-ex.json) |
