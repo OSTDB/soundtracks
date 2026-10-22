@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Side of War | 150599 | [150599-dark-side-of-war.json](./150599-dark-side-of-war.json) |
 | Dark Siege: The First Knight | 192677 | [192677-dark-siege-the-first-knight.json](./192677-dark-siege-the-first-knight.json) |
 | Dark Siren | 227716 | [227716-dark-siren.json](./227716-dark-siren.json) |
+| Dark Skeleton Survival | 118636 | [118636-dark-skeleton-survival.json](./118636-dark-skeleton-survival.json) |
 | Dark Skies 2: Keepers of Nemansk | 296689 | [296689-dark-skies-2-keepers-of-nemansk.json](./296689-dark-skies-2-keepers-of-nemansk.json) |
 | Dark Skies: The Nemansk Incident | 126971 | [126971-dark-skies-the-nemansk-incident.json](./126971-dark-skies-the-nemansk-incident.json) |
 | Dark Sky | 290393 | [290393-dark-sky.json](./290393-dark-sky.json) |
@@ -1472,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls: Nightfall | 401846 | [401846-dark-souls-nightfall.json](./401846-dark-souls-nightfall.json) |
 | Dark Souls: Prepare to Die Edition | 21040 | [21040-dark-souls-prepare-to-die-edition.json](./21040-dark-souls-prepare-to-die-edition.json) |
 | Dark Space | 283396 | [283396-dark-space.json](./283396-dark-space.json) |
+| Dark Space Conqueror | 118615 | [118615-dark-space-conqueror.json](./118615-dark-space-conqueror.json) |
 | Dark Spirit | 294948 | [294948-dark-spirit.json](./294948-dark-spirit.json) |
 | Dark Spot | 157377 | [157377-dark-spot.json](./157377-dark-spot.json) |
 | Dark Star | 134598 | [134598-dark-star.json](./134598-dark-star.json) |
@@ -2868,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 6: Bayman | 155441 | [155441-dead-or-alive-6-bayman.json](./155441-dead-or-alive-6-bayman.json) |
 | Dead or Alive 6: Christie | 155437 | [155437-dead-or-alive-6-christie.json](./155437-dead-or-alive-6-christie.json) |
 | Dead or Alive 6: Collector's Limited Edition | 166261 | [166261-dead-or-alive-6-collectors-limited-edition.json](./166261-dead-or-alive-6-collectors-limited-edition.json) |
+| Dead or Alive 6: Digital Deluxe Edition | 118660 | [118660-dead-or-alive-6-digital-deluxe-edition.json](./118660-dead-or-alive-6-digital-deluxe-edition.json) |
 | Dead or Alive 6: Eliot | 155436 | [155436-dead-or-alive-6-eliot.json](./155436-dead-or-alive-6-eliot.json) |
 | Dead or Alive 6: Energy Up! Training Wear Set | 225904 | [225904-dead-or-alive-6-energy-up-training-wear-set.json](./225904-dead-or-alive-6-energy-up-training-wear-set.json) |
 | Dead or Alive 6: Gamecity Limited Edition | 167018 | [167018-dead-or-alive-6-gamecity-limited-edition.json](./167018-dead-or-alive-6-gamecity-limited-edition.json) |
@@ -3488,6 +3491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death in the Water 2 | 222355 | [222355-death-in-the-water-2.json](./222355-death-in-the-water-2.json) |
 | Death in Unison | 301383 | [301383-death-in-unison.json](./301383-death-in-unison.json) |
 | Death In Your Dice | 334740 | [334740-death-in-your-dice.json](./334740-death-in-your-dice.json) |
+| Death Inn | 118605 | [118605-death-inn.json](./118605-death-inn.json) |
 | Death Inn Ⅱ :The Immortal Is Coming | 284288 | [284288-death-inn-ii-the-immortal-is-coming.json](./284288-death-inn-ii-the-immortal-is-coming.json) |
 | Death is better than Hell | 51971 | [51971-death-is-better-than-hell.json](./51971-death-is-better-than-hell.json) |
 | Death Jr: Root of Evil | 90656 | [90656-death-jr-root-of-evil.json](./90656-death-jr-root-of-evil.json) |
@@ -3846,6 +3850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck Adventure | 372254 | [372254-deck-adventure.json](./372254-deck-adventure.json) |
 | Deck Adventurers II | 199570 | [199570-deck-adventurers-ii.json](./199570-deck-adventurers-ii.json) |
 | Deck Beasts | 418622 | [418622-deck-beasts.json](./418622-deck-beasts.json) |
+| Deck Box Dungeons | 118611 | [118611-deck-box-dungeons.json](./118611-deck-box-dungeons.json) |
 | Deck Casters | 81111 | [81111-deck-casters.json](./81111-deck-casters.json) |
 | Deck Collector | 404827 | [404827-deck-collector.json](./404827-deck-collector.json) |
 | Deck Combo | 368903 | [368903-deck-combo.json](./368903-deck-combo.json) |
@@ -14910,6 +14915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 9 Mobile | 116235 | [116235-dynasty-warriors-9-mobile.json](./116235-dynasty-warriors-9-mobile.json) |
 | Dynasty Warriors 9 with Bonus | 90690 | [90690-dynasty-warriors-9-with-bonus.json](./90690-dynasty-warriors-9-with-bonus.json) |
 | Dynasty Warriors 9: Complete Edition | 199637 | [199637-dynasty-warriors-9-complete-edition.json](./199637-dynasty-warriors-9-complete-edition.json) |
+| Dynasty Warriors 9: Digital Deluxe Edition | 118662 | [118662-dynasty-warriors-9-digital-deluxe-edition.json](./118662-dynasty-warriors-9-digital-deluxe-edition.json) |
 | Dynasty Warriors 9: Empires | 139126 | [139126-dynasty-warriors-9-empires.json](./139126-dynasty-warriors-9-empires.json) |
 | Dynasty Warriors 9: Empires - Deluxe Edition | 194262 | [194262-dynasty-warriors-9-empires-deluxe-edition.json](./194262-dynasty-warriors-9-empires-deluxe-edition.json) |
 | Dynasty Warriors 9: Empires - Idol Stage | 191040 | [191040-dynasty-warriors-9-empires-idol-stage.json](./191040-dynasty-warriors-9-empires-idol-stage.json) |
