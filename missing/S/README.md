@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saddle Up: Time to Ride | 64114 | [64114-saddle-up-time-to-ride.json](./64114-saddle-up-time-to-ride.json) |
 | Sadhana | 364598 | [364598-sadhana.json](./364598-sadhana.json) |
 | Sadist II: Ostatni Krzyk | 404380 | [404380-sadist-ii-ostatni-krzyk.json](./404380-sadist-ii-ostatni-krzyk.json) |
+| Sadistic Medicine | 130034 | [130034-sadistic-medicine.json](./130034-sadistic-medicine.json) |
 | Sadko | 397674 | [397674-sadko.json](./397674-sadko.json) |
 | Sadlands | 284580 | [284580-sadlands.json](./284580-sadlands.json) |
 | Sadness & Solitude | 61149 | [61149-sadness-and-solitude.json](./61149-sadness-and-solitude.json) |
@@ -4234,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Legends 2001 | 75445 | [75445-sengoku-legends-2001.json](./75445-sengoku-legends-2001.json) |
 | Sengoku Mahjong | 43202 | [43202-sengoku-mahjong.json](./43202-sengoku-mahjong.json) |
 | Sengoku Mugen | 392768 | [392768-sengoku-mugen.json](./392768-sengoku-mugen.json) |
+| Sengoku Musou 2 with Moushouden & Empires HD Version | 130012 | [130012-sengoku-musou-2-with-moushouden-and-empires-hd-version.json](./130012-sengoku-musou-2-with-moushouden-and-empires-hd-version.json) |
 | Sengoku Musou 4-II: Treasure Box | 167021 | [167021-sengoku-musou-4-ii-treasure-box.json](./167021-sengoku-musou-4-ii-treasure-box.json) |
 | Sengoku Musou Shoot | 61497 | [61497-sengoku-musou-shoot.json](./61497-sengoku-musou-shoot.json) |
 | Sengoku Ninja Tai | 83391 | [83391-sengoku-ninja-tai.json](./83391-sengoku-ninja-tai.json) |
@@ -6703,6 +6705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinshuku Taisen: It's a Noni! | 123622 | [123622-shinshuku-taisen-its-a-noni.json](./123622-shinshuku-taisen-its-a-noni.json) |
 | Shinsou Kaiten!! Wan-wan Umi Monogatari: Sanyo Pachinko Paradise DX | 351072 | [351072-shinsou-kaiten-wan-wan-umi-monogatari-sanyo-pachinko-paradise-dx.json](./351072-shinsou-kaiten-wan-wan-umi-monogatari-sanyo-pachinko-paradise-dx.json) |
 | Shinsou Seiki Elementia ~Kutsujoku no Sennou Saimin~ | 133246 | [133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json](./133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json) |
+| Shinsouban Heart no Kuni no Alice: Wonderful Wonder World | 130009 | [130009-shinsouban-heart-no-kuni-no-alice-wonderful-wonder-world.json](./130009-shinsouban-heart-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Shinsouban Mahoutsukai to Goshujin-sama: Wizard and The Master | 60251 | [60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json](./60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json) |
 | Shinsouban Okashi na Shima no Peter Pan: Sweet Never Land | 60467 | [60467-shinsouban-okashi-na-shima-no-peter-pan-sweet-never-land.json](./60467-shinsouban-okashi-na-shima-no-peter-pan-sweet-never-land.json) |
 | Shiny Ninjas | 36479 | [36479-shiny-ninjas.json](./36479-shiny-ninjas.json) |
@@ -13385,6 +13388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Colors: Ultimate - Digital Deluxe | 169201 | [169201-sonic-colors-ultimate-digital-deluxe.json](./169201-sonic-colors-ultimate-digital-deluxe.json) |
 | Sonic Colors: Ultimate Online Puzzle | 237491 | [237491-sonic-colors-ultimate-online-puzzle.json](./237491-sonic-colors-ultimate-online-puzzle.json) |
 | Sonic Continuity Distortion | 316337 | [316337-sonic-continuity-distortion.json](./316337-sonic-continuity-distortion.json) |
+| Sonic Core | 130038 | [130038-sonic-core.json](./130038-sonic-core.json) |
 | Sonic Core | 332596 | [332596-sonic-core.json](./332596-sonic-core.json) |
 | Sonic Darts | 261252 | [261252-sonic-darts.json](./261252-sonic-darts.json) |
 | Sonic Dash | 19506 | [19506-sonic-dash.json](./19506-sonic-dash.json) |
@@ -13445,6 +13449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Forces: Speed Battle | 69392 | [69392-sonic-forces-speed-battle.json](./69392-sonic-forces-speed-battle.json) |
 | Sonic Forces: Super Sonic | 255540 | [255540-sonic-forces-super-sonic.json](./255540-sonic-forces-super-sonic.json) |
 | Sonic Free Riders: No Kinect Patch | 276926 | [276926-sonic-free-riders-no-kinect-patch.json](./276926-sonic-free-riders-no-kinect-patch.json) |
+| Sonic Freedom | 130020 | [130020-sonic-freedom.json](./130020-sonic-freedom.json) |
 | Sonic Freedom Frontiers | 316345 | [316345-sonic-freedom-frontiers.json](./316345-sonic-freedom-frontiers.json) |
 | Sonic Frenzy Adventure | 305283 | [305283-sonic-frenzy-adventure.json](./305283-sonic-frenzy-adventure.json) |
 | Sonic Frontiers 2D | 336348 | [336348-sonic-frontiers-2d.json](./336348-sonic-frontiers-2d.json) |
@@ -16208,6 +16213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Golf Royale | 246001 | [246001-speed-golf-royale.json](./246001-speed-golf-royale.json) |
 | Speed Guess: Something | 323188 | [323188-speed-guess-something.json](./323188-speed-guess-something.json) |
 | Speed Haste | 340881 | [340881-speed-haste.json](./340881-speed-haste.json) |
+| Speed Hawk | 130003 | [130003-speed-hawk.json](./130003-speed-hawk.json) |
 | Speed Hero vs. Mega Ramp | 101985 | [101985-speed-hero-vs-mega-ramp.json](./101985-speed-hero-vs-mega-ramp.json) |
 | Speed High | 240355 | [240355-speed-high.json](./240355-speed-high.json) |
 | Speed Intense Island | 233514 | [233514-speed-intense-island.json](./233514-speed-intense-island.json) |
@@ -20168,6 +20174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunch: Lost Tombs | 358357 | [358357-steampunch-lost-tombs.json](./358357-steampunch-lost-tombs.json) |
 | Steampunk Abyss | 188864 | [188864-steampunk-abyss.json](./188864-steampunk-abyss.json) |
 | Steampunk Action Battle Simulator | 41930 | [41930-steampunk-action-battle-simulator.json](./41930-steampunk-action-battle-simulator.json) |
+| Steampunk Genius | 130056 | [130056-steampunk-genius.json](./130056-steampunk-genius.json) |
 | Steampunk Idle Spinner | 116243 | [116243-steampunk-idle-spinner.json](./116243-steampunk-idle-spinner.json) |
 | Steampunk Jigsaw Puzzles | 264578 | [264578-steampunk-jigsaw-puzzles.json](./264578-steampunk-jigsaw-puzzles.json) |
 | Steampunk Jigsaw Puzzles: Airships & Aviators | 265567 | [265567-steampunk-jigsaw-puzzles-airships-and-aviators.json](./265567-steampunk-jigsaw-puzzles-airships-and-aviators.json) |
@@ -22826,6 +22833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Race | 267591 | [267591-sudoku-race.json](./267591-sudoku-race.json) |
 | Sudoku Relax 2 Summer Waves | 124064 | [124064-sudoku-relax-2-summer-waves.json](./124064-sudoku-relax-2-summer-waves.json) |
 | Sudoku Relax 3 Autumn Leaves | 125746 | [125746-sudoku-relax-3-autumn-leaves.json](./125746-sudoku-relax-3-autumn-leaves.json) |
+| Sudoku Relax 4 Winter Snow | 130041 | [130041-sudoku-relax-4-winter-snow.json](./130041-sudoku-relax-4-winter-snow.json) |
 | Sudoku Relax 5 Full Bloom | 147618 | [147618-sudoku-relax-5-full-bloom.json](./147618-sudoku-relax-5-full-bloom.json) |
 | Sudoku RPG | 143029 | [143029-sudoku-rpg.json](./143029-sudoku-rpg.json) |
 | Sudoku Samurai | 216127 | [216127-sudoku-samurai.json](./216127-sudoku-samurai.json) |
@@ -22924,6 +22932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Rush | 58209 | [58209-sugar-rush.json](./58209-sugar-rush.json) |
 | Sugar Service | 379590 | [379590-sugar-service.json](./379590-sugar-service.json) |
 | Sugar Shack | 236767 | [236767-sugar-shack.json](./236767-sugar-shack.json) |
+| Sugar Shock | 130052 | [130052-sugar-shock.json](./130052-sugar-shock.json) |
 | Sugar Siege | 338270 | [338270-sugar-siege.json](./338270-sugar-siege.json) |
 | Sugar Sling Showdown | 341685 | [341685-sugar-sling-showdown.json](./341685-sugar-sling-showdown.json) |
 | Sugar Smash: Book of Life | 138447 | [138447-sugar-smash-book-of-life.json](./138447-sugar-smash-book-of-life.json) |
