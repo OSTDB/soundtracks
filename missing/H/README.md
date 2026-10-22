@@ -8983,6 +8983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugungui Beopchik | 212858 | [212858-hugungui-beopchik.json](./212858-hugungui-beopchik.json) |
 | Huíwén Píngtái Tiàoyuè | 156136 | [156136-huiwen-pingtai-tiaoyue.json](./156136-huiwen-pingtai-tiaoyue.json) |
 | Huíwén Zhànqí | 415511 | [415511-huiwen-zhanqi.json](./415511-huiwen-zhanqi.json) |
+| Hula Wii: Hula de Hajimeru - Bi to Kenkou! | 141473 | [141473-hula-wii-hula-de-hajimeru-bi-to-kenkou.json](./141473-hula-wii-hula-de-hajimeru-bi-to-kenkou.json) |
 | Hula Wii: Minna de Fura Oodorou! | 70679 | [70679-hula-wii-minna-de-fura-oodorou.json](./70679-hula-wii-minna-de-fura-oodorou.json) |
 | Hulabear | 56394 | [56394-hulabear.json](./56394-hulabear.json) |
 | Hulesverd | 372207 | [372207-hulesverd.json](./372207-hulesverd.json) |
