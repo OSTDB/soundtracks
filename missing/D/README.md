@@ -3372,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death by Deduction | 302069 | [302069-death-by-deduction.json](./302069-death-by-deduction.json) |
 | Death by Degrees | 1241 | [1241-death-by-degrees.json](./1241-death-by-degrees.json) |
 | Death by Flower Arrangement | 186164 | [186164-death-by-flower-arrangement.json](./186164-death-by-flower-arrangement.json) |
+| Death by FrostByte | 140860 | [140860-death-by-frostbyte.json](./140860-death-by-frostbyte.json) |
 | Death By Hamster | 262666 | [262666-death-by-hamster.json](./262666-death-by-hamster.json) |
 | Death by Hype | 307882 | [307882-death-by-hype.json](./307882-death-by-hype.json) |
 | Death by Refund | 216670 | [216670-death-by-refund.json](./216670-death-by-refund.json) |
@@ -4425,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defi Kingdoms | 185371 | [185371-defi-kingdoms.json](./185371-defi-kingdoms.json) |
 | Defiance | 139312 | [139312-defiance.json](./139312-defiance.json) |
 | Defiance | 1973 | [1973-defiance.json](./1973-defiance.json) |
+| Defiance & Mr. Good Looking | 140856 | [140856-defiance-and-mr-good-looking.json](./140856-defiance-and-mr-good-looking.json) |
 | Defiance 2050 | 89554 | [89554-defiance-2050.json](./89554-defiance-2050.json) |
 | Defiant Ascent | 375439 | [375439-defiant-ascent.json](./375439-defiant-ascent.json) |
 | Deficiency | 278161 | [278161-deficiency.json](./278161-deficiency.json) |
@@ -5633,6 +5635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolatium: Prologue | 200115 | [200115-desolatium-prologue.json](./200115-desolatium-prologue.json) |
 | Desolus | 58718 | [58718-desolus.json](./58718-desolus.json) |
 | Desomnia | 365844 | [365844-desomnia.json](./365844-desomnia.json) |
+| DésoPadéso | 140845 | [140845-desopadeso.json](./140845-desopadeso.json) |
 | Desouled | 413087 | [413087-desouled.json](./413087-desouled.json) |
 | Despair | 268774 | [268774-despair.json](./268774-despair.json) |
 | Despair 3 | 57684 | [57684-despair-3.json](./57684-despair-3.json) |
@@ -6294,6 +6297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devoured Time | 35583 | [35583-devoured-time.json](./35583-devoured-time.json) |
 | Devtheism | 134512 | [134512-devtheism.json](./134512-devtheism.json) |
 | DevTycoon | 329780 | [329780-devtycoon.json](./329780-devtycoon.json) |
+| Devwill Too MD | 141061 | [141061-devwill-too-md.json](./141061-devwill-too-md.json) |
 | Devwill Too ZX | 333924 | [333924-devwill-too-zx.json](./333924-devwill-too-zx.json) |
 | Devyat' princev Ambera | 305174 | [305174-devyat-princev-ambera.json](./305174-devyat-princev-ambera.json) |
 | Dew | 343439 | [343439-dew.json](./343439-dew.json) |
@@ -7469,6 +7473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diorama No.3 : The Marchland | 33798 | [33798-diorama-no-3-the-marchland.json](./33798-diorama-no-3-the-marchland.json) |
 | Dioramos | 333556 | [333556-dioramos.json](./333556-dioramos.json) |
 | Diortem | 300797 | [300797-diortem.json](./300797-diortem.json) |
+| Dios | 141045 | [141045-dios.json](./141045-dios.json) |
 | Dioxide | 403807 | [403807-dioxide.json](./403807-dioxide.json) |
 | Dip the Frog | 159220 | [159220-dip-the-frog.json](./159220-dip-the-frog.json) |
 | Dipets | 327300 | [327300-dipets.json](./327300-dipets.json) |
@@ -9983,6 +9988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
 | Doom 2 In Spain Only | 258890 | [258890-doom-2-in-spain-only.json](./258890-doom-2-in-spain-only.json) |
 | Doom 2 Reloaded | 160288 | [160288-doom-2-reloaded.json](./160288-doom-2-reloaded.json) |
+| Doom 2 the Way id Did | 141066 | [141066-doom-2-the-way-id-did.json](./141066-doom-2-the-way-id-did.json) |
 | Doom 2: The Way We Remember It | 252032 | [252032-doom-2-the-way-we-remember-it.json](./252032-doom-2-the-way-we-remember-it.json) |
 | Doom 2D | 89509 | [89509-doom-2d.json](./89509-doom-2d.json) |
 | Doom 3: 2553 | 411719 | [411719-doom-3-2553.json](./411719-doom-3-2553.json) |
@@ -10056,6 +10062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Survivor: Horde Rush | 396187 | [396187-doom-survivor-horde-rush.json](./396187-doom-survivor-horde-rush.json) |
 | Doom Survivors | 295799 | [295799-doom-survivors.json](./295799-doom-survivors.json) |
 | Doom Sweeper | 259034 | [259034-doom-sweeper.json](./259034-doom-sweeper.json) |
+| Doom the Way id Did: The Lost Episodes | 141065 | [141065-doom-the-way-id-did-the-lost-episodes.json](./141065-doom-the-way-id-did-the-lost-episodes.json) |
 | Doom Tournament | 202843 | [202843-doom-tournament.json](./202843-doom-tournament.json) |
 | Doom Troopers: Mutant Chronicles | 4544 | [4544-doom-troopers-mutant-chronicles.json](./4544-doom-troopers-mutant-chronicles.json) |
 | Doom Ultimate Enhanced | 198487 | [198487-doom-ultimate-enhanced.json](./198487-doom-ultimate-enhanced.json) |
