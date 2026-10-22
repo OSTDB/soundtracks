@@ -4118,6 +4118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Nations | 106595 | [106595-gnome-nations.json](./106595-gnome-nations.json) |
 | Gnome Nibbles | 122778 | [122778-gnome-nibbles.json](./122778-gnome-nibbles.json) |
 | Gnome Online | 199503 | [199503-gnome-online.json](./199503-gnome-online.json) |
+| Gnome Rampage | 126243 | [126243-gnome-rampage.json](./126243-gnome-rampage.json) |
 | Gnome Ranger | 15492 | [15492-gnome-ranger.json](./15492-gnome-ranger.json) |
 | Gnome Ranger II: Ingrid's Back | 47109 | [47109-gnome-ranger-ii-ingrids-back.json](./47109-gnome-ranger-ii-ingrids-back.json) |
 | Gnome Robots | 122779 | [122779-gnome-robots.json](./122779-gnome-robots.json) |
@@ -4735,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godspell Defender | 201667 | [201667-godspell-defender.json](./201667-godspell-defender.json) |
 | Godstone | 187822 | [187822-godstone.json](./187822-godstone.json) |
 | Godstrike | 141527 | [141527-godstrike.json](./141527-godstrike.json) |
+| Godstruction | 126276 | [126276-godstruction.json](./126276-godstruction.json) |
 | Godsvivors | 260518 | [260518-godsvivors.json](./260518-godsvivors.json) |
 | Godsworn | 213612 | [213612-godsworn.json](./213612-godsworn.json) |
 | Godtail | 207755 | [207755-godtail.json](./207755-godtail.json) |
