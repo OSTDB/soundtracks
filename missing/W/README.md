@@ -2724,6 +2724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolf Online | 420656 | [420656-werewolf-online.json](./420656-werewolf-online.json) |
 | Werewolf Party | 301378 | [301378-werewolf-party.json](./301378-werewolf-party.json) |
 | Werewolf Pinball | 105930 | [105930-werewolf-pinball.json](./105930-werewolf-pinball.json) |
+| Werewolf Princess Kaguya | 142309 | [142309-werewolf-princess-kaguya.json](./142309-werewolf-princess-kaguya.json) |
 | Werewolf Stand-alone | 117823 | [117823-werewolf-stand-alone.json](./117823-werewolf-stand-alone.json) |
 | Werewolf Tycoon: Web Edition | 102031 | [102031-werewolf-tycoon-web-edition.json](./102031-werewolf-tycoon-web-edition.json) |
 | Werewolf Voice: Best Board Game | 130212 | [130212-werewolf-voice-best-board-game.json](./130212-werewolf-voice-best-board-game.json) |
@@ -7123,6 +7124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Writer's Block | 391020 | [391020-writers-block.json](./391020-writers-block.json) |
 | Writer's Block | 80234 | [80234-writers-block.json](./80234-writers-block.json) |
 | Writers | 75105 | [75105-writers.json](./75105-writers.json) |
+| Writhe | 142308 | [142308-writhe.json](./142308-writhe.json) |
 | Writhe | 213466 | [213466-writhe.json](./213466-writhe.json) |
 | Writhing | 378356 | [378356-writhing.json](./378356-writhing.json) |
 | WrldCraft | 120169 | [120169-wrldcraft.json](./120169-wrldcraft.json) |
