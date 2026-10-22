@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectrexagon | 46518 | [46518-vectrexagon.json](./46518-vectrexagon.json) |
 | Vectrexit | 273915 | [273915-vectrexit.json](./273915-vectrexit.json) |
 | Vectris | 273099 | [273099-vectris.json](./273099-vectris.json) |
+| Vectrix | 121974 | [121974-vectrix.json](./121974-vectrix.json) |
 | VectroMirror | 140006 | [140006-vectromirror.json](./140006-vectromirror.json) |
 | Vectron | 287572 | [287572-vectron.json](./287572-vectron.json) |
 | Vectron | 295639 | [295639-vectron.json](./295639-vectron.json) |
@@ -2411,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivid Army | 389485 | [389485-vivid-army.json](./389485-vivid-army.json) |
 | Vivid Conceptions | 93152 | [93152-vivid-conceptions.json](./93152-vivid-conceptions.json) |
 | Vivid Knight | 148301 | [148301-vivid-knight.json](./148301-vivid-knight.json) |
+| Vivid Spirit | 122012 | [122012-vivid-spirit.json](./122012-vivid-spirit.json) |
 | Vivid Surf | 171315 | [171315-vivid-surf.json](./171315-vivid-surf.json) |
 | Vivid Tale | 235817 | [235817-vivid-tale.json](./235817-vivid-tale.json) |
 | Vivid Twinkler: Frozen Flame | 377753 | [377753-vivid-twinkler-frozen-flame.json](./377753-vivid-twinkler-frozen-flame.json) |
