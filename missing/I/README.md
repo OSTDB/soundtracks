@@ -1162,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Flipper | 87666 | [87666-idle-flipper.json](./87666-idle-flipper.json) |
 | Idle Food Empire Tycoon | 219268 | [219268-idle-food-empire-tycoon.json](./219268-idle-food-empire-tycoon.json) |
 | Idle Frontier | 348573 | [348573-idle-frontier.json](./348573-idle-frontier.json) |
+| Idle Frontier: Tap Town Tycoon | 134287 | [134287-idle-frontier-tap-town-tycoon.json](./134287-idle-frontier-tap-town-tycoon.json) |
 | Idle Galaxy | 203805 | [203805-idle-galaxy.json](./203805-idle-galaxy.json) |
 | Idle Game 1 | 234690 | [234690-idle-game-1.json](./234690-idle-game-1.json) |
 | Idle Game Simulator | 312443 | [312443-idle-game-simulator.json](./312443-idle-game-simulator.json) |
@@ -1273,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Robot: Build Your Own Mecha | 199940 | [199940-idle-robot-build-your-own-mecha.json](./199940-idle-robot-build-your-own-mecha.json) |
 | Idle Roboto | 152888 | [152888-idle-roboto.json](./152888-idle-roboto.json) |
 | Idle Robots | 255795 | [255795-idle-robots.json](./255795-idle-robots.json) |
+| Idle Royale Tycoon: Incremental Merge Battle Game | 134289 | [134289-idle-royale-tycoon-incremental-merge-battle-game.json](./134289-idle-royale-tycoon-incremental-merge-battle-game.json) |
 | Idle RPG: The Game is Bugged! | 292135 | [292135-idle-rpg-the-game-is-bugged.json](./292135-idle-rpg-the-game-is-bugged.json) |
 | Idle Run | 258389 | [258389-idle-run.json](./258389-idle-run.json) |
 | Idle Saga | 318215 | [318215-idle-saga.json](./318215-idle-saga.json) |
@@ -1348,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Waters | 304604 | [304604-idle-waters.json](./304604-idle-waters.json) |
 | Idle Ways | 390213 | [390213-idle-ways.json](./390213-idle-ways.json) |
 | Idle Weaponshop | 261756 | [261756-idle-weaponshop.json](./261756-idle-weaponshop.json) |
+| Idle Web Tycoon | 134316 | [134316-idle-web-tycoon.json](./134316-idle-web-tycoon.json) |
 | Idle Wizard | 101773 | [101773-idle-wizard.json](./101773-idle-wizard.json) |
 | Idle World | 392449 | [392449-idle-world.json](./392449-idle-world.json) |
 | Idle Zombie Shelter | 200729 | [200729-idle-zombie-shelter.json](./200729-idle-zombie-shelter.json) |
