@@ -7771,6 +7771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Bullet | 197657 | [197657-side-bullet.json](./197657-side-bullet.json) |
 | Side by Side Special | 93055 | [93055-side-by-side-special.json](./93055-side-by-side-special.json) |
 | Side by Side Special 2000 | 43767 | [43767-side-by-side-special-2000.json](./43767-side-by-side-special-2000.json) |
+| Side Effect | 149825 | [149825-side-effect.json](./149825-side-effect.json) |
 | Side Effect | 190488 | [190488-side-effect.json](./190488-side-effect.json) |
 | Side Effects | 343472 | [343472-side-effects.json](./343472-side-effects.json) |
 | Side Effects | 364621 | [364621-side-effects.json](./364621-side-effects.json) |
@@ -10932,6 +10933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Junior Academy - Spring | 76936 | [76936-smart-junior-academy-spring.json](./76936-smart-junior-academy-spring.json) |
 | Smart Kid's: Gameclub | 124050 | [124050-smart-kids-gameclub.json](./124050-smart-kids-gameclub.json) |
 | Smart Kid's: Party Fun Pack | 124059 | [124059-smart-kids-party-fun-pack.json](./124059-smart-kids-party-fun-pack.json) |
+| Smart Moves 2 | 149913 | [149913-smart-moves-2.json](./149913-smart-moves-2.json) |
 | Smart Moves Bundle | 218459 | [218459-smart-moves-bundle.json](./218459-smart-moves-bundle.json) |
 | Smart Porter | 247070 | [247070-smart-porter.json](./247070-smart-porter.json) |
 | Smart Preschool Baby Shapes and Colors by Learning Games for Toddlers | 108597 | [108597-smart-preschool-baby-shapes-and-colors-by-learning-games-for-toddlers.json](./108597-smart-preschool-baby-shapes-and-colors-by-learning-games-for-toddlers.json) |
@@ -14692,6 +14694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Angel Boin Boin! | 97832 | [97832-space-angel-boin-boin.json](./97832-space-angel-boin-boin.json) |
 | Space Arcade | 237374 | [237374-space-arcade.json](./237374-space-arcade.json) |
 | Space Arcade Collection | 208870 | [208870-space-arcade-collection.json](./208870-space-arcade-collection.json) |
+| Space Architect | 149848 | [149848-space-architect.json](./149848-space-architect.json) |
 | Space Arena | 101030 | [101030-space-arena.json](./101030-space-arena.json) |
 | Space Armor | 6137 | [6137-space-armor.json](./6137-space-armor.json) |
 | Space Ashes | 109899 | [109899-space-ashes.json](./109899-space-ashes.json) |
@@ -15335,6 +15338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rift Non-VR - Episode 1 | 30622 | [30622-space-rift-non-vr-episode-1.json](./30622-space-rift-non-vr-episode-1.json) |
 | Space Ripper Plastiline | 108362 | [108362-space-ripper-plastiline.json](./108362-space-ripper-plastiline.json) |
 | Space Road | 125713 | [125713-space-road.json](./125713-space-road.json) |
+| Space Roaming | 149832 | [149832-space-roaming.json](./149832-space-roaming.json) |
 | Space Robinson | 111807 | [111807-space-robinson.json](./111807-space-robinson.json) |
 | Space Robot | 46895 | [46895-space-robot.json](./46895-space-robot.json) |
 | Space Robot Samurai Zombie Slayer | 35569 | [35569-space-robot-samurai-zombie-slayer.json](./35569-space-robot-samurai-zombie-slayer.json) |
@@ -15417,6 +15421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Squadron | 160208 | [160208-space-squadron.json](./160208-space-squadron.json) |
 | Space Star: Heart of a Soldier | 292628 | [292628-space-star-heart-of-a-soldier.json](./292628-space-star-heart-of-a-soldier.json) |
 | Space Station 13 | 66396 | [66396-space-station-13.json](./66396-space-station-13.json) |
+| Space Station 14 | 149853 | [149853-space-station-14.json](./149853-space-station-14.json) |
 | Space Station 51 | 192597 | [192597-space-station-51.json](./192597-space-station-51.json) |
 | Space Station Alpha | 35964 | [35964-space-station-alpha.json](./35964-space-station-alpha.json) |
 | Space Station Alpha: The Encounter | 208770 | [208770-space-station-alpha-the-encounter.json](./208770-space-station-alpha-the-encounter.json) |
@@ -17341,6 +17346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Shooter 3D | 186802 | [186802-spooky-shooter-3d.json](./186802-spooky-shooter-3d.json) |
 | Spooky Shopping Tour! | 301966 | [301966-spooky-shopping-tour.json](./301966-spooky-shopping-tour.json) |
 | Spooky Solitaire: Halloween | 386149 | [386149-spooky-solitaire-halloween.json](./386149-spooky-solitaire-halloween.json) |
+| Spooky Speakeasy | 149822 | [149822-spooky-speakeasy.json](./149822-spooky-speakeasy.json) |
 | Spooky Speedrun | 157048 | [157048-spooky-speedrun.json](./157048-spooky-speedrun.json) |
 | Spooky Spins Deluxe | 140310 | [140310-spooky-spins-deluxe.json](./140310-spooky-spins-deluxe.json) |
 | Spooky Spins Returns: Crazy Cash Edition - Slots | 276172 | [276172-spooky-spins-returns-crazy-cash-edition-slots.json](./276172-spooky-spins-returns-crazy-cash-edition-slots.json) |
@@ -25059,6 +25065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pixel Maker | 181758 | [181758-super-pixel-maker.json](./181758-super-pixel-maker.json) |
 | Super Pixel Merge Balls | 293502 | [293502-super-pixel-merge-balls.json](./293502-super-pixel-merge-balls.json) |
 | Super Pixel Racers | 111185 | [111185-super-pixel-racers.json](./111185-super-pixel-racers.json) |
+| Super Pixel World | 149829 | [149829-super-pixel-world.json](./149829-super-pixel-world.json) |
 | Super Pixelander | 124757 | [124757-super-pixelander.json](./124757-super-pixelander.json) |
 | Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
 | Super Platformer | 182745 | [182745-super-platformer.json](./182745-super-platformer.json) |
