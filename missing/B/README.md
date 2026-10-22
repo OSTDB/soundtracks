@@ -8881,6 +8881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blooming Ashes | 407540 | [407540-blooming-ashes.json](./407540-blooming-ashes.json) |
 | Blooming Business: Casino | 151543 | [151543-blooming-business-casino.json](./151543-blooming-business-casino.json) |
 | Blooming Cards | 377054 | [377054-blooming-cards.json](./377054-blooming-cards.json) |
+| Blooming Nightshade | 122025 | [122025-blooming-nightshade.json](./122025-blooming-nightshade.json) |
 | Blooming Suspicion | 365308 | [365308-blooming-suspicion.json](./365308-blooming-suspicion.json) |
 | Bloompunk | 249355 | [249355-bloompunk.json](./249355-bloompunk.json) |
 | Blooms | 202241 | [202241-blooms.json](./202241-blooms.json) |
@@ -12439,6 +12440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrothelManager | 18109 | [18109-brothelmanager.json](./18109-brothelmanager.json) |
 | Brother | 340545 | [340545-brother.json](./340545-brother.json) |
 | Brother & Sister | 116080 | [116080-brother-and-sister.json](./116080-brother-and-sister.json) |
+| Brother 2: Back to America | 122009 | [122009-brother-2-back-to-america.json](./122009-brother-2-back-to-america.json) |
 | Brother Adventure | 73508 | [73508-brother-adventure.json](./73508-brother-adventure.json) |
 | Brother Against Brother | 59494 | [59494-brother-against-brother.json](./59494-brother-against-brother.json) |
 | Brother Cat: The Legend of Super Cat | 98500 | [98500-brother-cat-the-legend-of-super-cat.json](./98500-brother-cat-the-legend-of-super-cat.json) |
