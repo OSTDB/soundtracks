@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes III | 107373 | [107373-echoes-iii.json](./107373-echoes-iii.json) |
 | Echoes In Static | 395879 | [395879-echoes-in-static.json](./395879-echoes-in-static.json) |
 | Echoes in the Storm | 373216 | [373216-echoes-in-the-storm.json](./373216-echoes-in-the-storm.json) |
+| Echoes in White | 110723 | [110723-echoes-in-white.json](./110723-echoes-in-white.json) |
 | Echoes of a Thread | 393053 | [393053-echoes-of-a-thread.json](./393053-echoes-of-a-thread.json) |
 | Echoes of a Turnabout: Franziska von Karma | 318768 | [318768-echoes-of-a-turnabout-franziska-von-karma.json](./318768-echoes-of-a-turnabout-franziska-von-karma.json) |
 | Echoes of Above | 407874 | [407874-echoes-of-above.json](./407874-echoes-of-above.json) |
@@ -2506,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of Angels IV | 78589 | [78589-empire-of-angels-iv.json](./78589-empire-of-angels-iv.json) |
 | Empire of Angels IV: Limited Edition | 166264 | [166264-empire-of-angels-iv-limited-edition.json](./166264-empire-of-angels-iv-limited-edition.json) |
 | Empire of Atlantis | 66950 | [66950-empire-of-atlantis.json](./66950-empire-of-atlantis.json) |
+| Empire of Devil | 110703 | [110703-empire-of-devil.json](./110703-empire-of-devil.json) |
 | Empire of Empires | 211966 | [211966-empire-of-empires.json](./211966-empire-of-empires.json) |
 | Empire of Gnomes | 102701 | [102701-empire-of-gnomes.json](./102701-empire-of-gnomes.json) |
 | Empire of Lust | 345287 | [345287-empire-of-lust.json](./345287-empire-of-lust.json) |
