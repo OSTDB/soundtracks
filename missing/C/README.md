@@ -5547,6 +5547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Childhood | 128444 | [128444-childhood.json](./128444-childhood.json) |
 | Childhood Dreams: Jigsaw Puzzle | 242509 | [242509-childhood-dreams-jigsaw-puzzle.json](./242509-childhood-dreams-jigsaw-puzzle.json) |
 | Childhood Dreams: Jigsaw Puzzle - Expansion Pack 1 | 242510 | [242510-childhood-dreams-jigsaw-puzzle-expansion-pack-1.json](./242510-childhood-dreams-jigsaw-puzzle-expansion-pack-1.json) |
+| Childhood Fears | 151522 | [151522-childhood-fears.json](./151522-childhood-fears.json) |
 | Childhood Friends | 150423 | [150423-childhood-friends.json](./150423-childhood-friends.json) |
 | Childhood Friends | 364958 | [364958-childhood-friends.json](./364958-childhood-friends.json) |
 | Childhood Gone: Shadowed Wand | 157536 | [157536-childhood-gone-shadowed-wand.json](./157536-childhood-gone-shadowed-wand.json) |
@@ -6881,6 +6882,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities in Motion 2: Bus Mania | 52734 | [52734-cities-in-motion-2-bus-mania.json](./52734-cities-in-motion-2-bus-mania.json) |
 | Cities in Motion 2: European Cities | 52733 | [52733-cities-in-motion-2-european-cities.json](./52733-cities-in-motion-2-european-cities.json) |
 | Cities in Motion 2: Marvellous Monorails | 52730 | [52730-cities-in-motion-2-marvellous-monorails.json](./52730-cities-in-motion-2-marvellous-monorails.json) |
+| Cities in Motion 2: Olden Times | 151426 | [151426-cities-in-motion-2-olden-times.json](./151426-cities-in-motion-2-olden-times.json) |
+| Cities in Motion 2: Players Choice Vehicle Pack | 151425 | [151425-cities-in-motion-2-players-choice-vehicle-pack.json](./151425-cities-in-motion-2-players-choice-vehicle-pack.json) |
 | Cities in Motion 2: Trekking Trolleys | 52727 | [52727-cities-in-motion-2-trekking-trolleys.json](./52727-cities-in-motion-2-trekking-trolleys.json) |
 | Cities in Motion 2: Wending Waterbuses | 52725 | [52725-cities-in-motion-2-wending-waterbuses.json](./52725-cities-in-motion-2-wending-waterbuses.json) |
 | Cities in Motion Complete Collection | 52731 | [52731-cities-in-motion-complete-collection.json](./52731-cities-in-motion-complete-collection.json) |
@@ -9162,6 +9165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Road: Sweet & Shiny | 295699 | [295699-color-road-sweet-and-shiny.json](./295699-color-road-sweet-and-shiny.json) |
 | Color Road! | 90364 | [90364-color-road.json](./90364-color-road.json) |
 | Color Roll 3D | 215242 | [215242-color-roll-3d.json](./215242-color-roll-3d.json) |
+| Color Security | 151453 | [151453-color-security.json](./151453-color-security.json) |
 | Color Shape | 109528 | [109528-color-shape.json](./109528-color-shape.json) |
 | Color Sheep | 63683 | [63683-color-sheep.json](./63683-color-sheep.json) |
 | Color Shooter | 290094 | [290094-color-shooter.json](./290094-color-shooter.json) |
