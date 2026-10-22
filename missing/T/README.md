@@ -5460,6 +5460,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cards You're Dealt | 182877 | [182877-the-cards-youre-dealt.json](./182877-the-cards-youre-dealt.json) |
 | The Caretaker | 184766 | [184766-the-caretaker.json](./184766-the-caretaker.json) |
 | The Caretaker’s Lease | 361046 | [361046-the-caretaker-s-lease.json](./361046-the-caretaker-s-lease.json) |
+| The Caribbean Sail: Fantasy Toggle | 144166 | [144166-the-caribbean-sail-fantasy-toggle.json](./144166-the-caribbean-sail-fantasy-toggle.json) |
+| The Caribbean Sail: Route Planing | 144165 | [144165-the-caribbean-sail-route-planing.json](./144165-the-caribbean-sail-route-planing.json) |
 | The Carnage Continues | 276385 | [276385-the-carnage-continues.json](./276385-the-carnage-continues.json) |
 | The Carnival Killer | 320578 | [320578-the-carnival-killer.json](./320578-the-carnival-killer.json) |
 | The Carnival Of Company | 293632 | [293632-the-carnival-of-company.json](./293632-the-carnival-of-company.json) |
@@ -6211,6 +6213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Realm | 194269 | [194269-the-dark-realm.json](./194269-the-dark-realm.json) |
 | The Dark Rites of Arkham | 338552 | [338552-the-dark-rites-of-arkham.json](./338552-the-dark-rites-of-arkham.json) |
 | The Dark Room | 301353 | [301353-the-dark-room.json](./301353-the-dark-room.json) |
+| The Dark Side of the Moon | 144010 | [144010-the-dark-side-of-the-moon.json](./144010-the-dark-side-of-the-moon.json) |
 | The Dark Side of the Moon | 54465 | [54465-the-dark-side-of-the-moon.json](./54465-the-dark-side-of-the-moon.json) |
 | The Dark Spire | 21185 | [21185-the-dark-spire.json](./21185-the-dark-spire.json) |
 | The Dark Stone of Mebara | 9398 | [9398-the-dark-stone-of-mebara.json](./9398-the-dark-stone-of-mebara.json) |
@@ -7569,6 +7572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frontier | 30929 | [30929-the-frontier.json](./30929-the-frontier.json) |
 | The Frontier Outskirts VR | 91192 | [91192-the-frontier-outskirts-vr.json](./91192-the-frontier-outskirts-vr.json) |
 | The Frost | 28872 | [28872-the-frost.json](./28872-the-frost.json) |
+| The Frost Rebirth | 144000 | [144000-the-frost-rebirth.json](./144000-the-frost-rebirth.json) |
 | The Frosts: First Ones | 153919 | [153919-the-frosts-first-ones.json](./153919-the-frosts-first-ones.json) |
 | The Frozen Dead Wait | 302733 | [302733-the-frozen-dead-wait.json](./302733-the-frozen-dead-wait.json) |
 | The Frozen Garden | 257800 | [257800-the-frozen-garden.json](./257800-the-frozen-garden.json) |
@@ -10286,6 +10290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Clown | 268736 | [268736-the-lost-clown.json](./268736-the-lost-clown.json) |
 | The Lost Crown of Queen Anne | 70072 | [70072-the-lost-crown-of-queen-anne.json](./70072-the-lost-crown-of-queen-anne.json) |
 | The Lost Crucible | 350783 | [350783-the-lost-crucible.json](./350783-the-lost-crucible.json) |
+| The Lost Cube | 144147 | [144147-the-lost-cube.json](./144147-the-lost-cube.json) |
 | The Lost Detective | 275342 | [275342-the-lost-detective.json](./275342-the-lost-detective.json) |
 | The Lost Dimension | 75121 | [75121-the-lost-dimension.json](./75121-the-lost-dimension.json) |
 | The Lost Dino: Survival Expedition | 335965 | [335965-the-lost-dino-survival-expedition.json](./335965-the-lost-dino-survival-expedition.json) |
@@ -13725,6 +13730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three Kingdoms: The Dynamic | 212857 | [212857-the-three-kingdoms-the-dynamic.json](./212857-the-three-kingdoms-the-dynamic.json) |
 | The Three Kingdoms: The Story of Seeking Generals | 284612 | [284612-the-three-kingdoms-the-story-of-seeking-generals.json](./284612-the-three-kingdoms-the-story-of-seeking-generals.json) |
 | The Three Kingdoms: The Tales of Jian An | 379442 | [379442-the-three-kingdoms-the-tales-of-jian-an.json](./379442-the-three-kingdoms-the-tales-of-jian-an.json) |
+| The Three Lights of Glaurung | 144009 | [144009-the-three-lights-of-glaurung.json](./144009-the-three-lights-of-glaurung.json) |
 | The Three Little Pigs: Interactive Book | 400063 | [400063-the-three-little-pigs-interactive-book.json](./400063-the-three-little-pigs-interactive-book.json) |
 | The Three Monkeys | 397425 | [397425-the-three-monkeys.json](./397425-the-three-monkeys.json) |
 | The Three Musketeers | 186262 | [186262-the-three-musketeers.json](./186262-the-three-musketeers.json) |
@@ -20193,6 +20199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torture Chamber | 99673 | [99673-torture-chamber.json](./99673-torture-chamber.json) |
 | Torture Jam 1 | 308525 | [308525-torture-jam-1.json](./308525-torture-jam-1.json) |
 | Torture the Stickman 2 | 188324 | [188324-torture-the-stickman-2.json](./188324-torture-the-stickman-2.json) |
+| Tortured Hearts: Or How I Saved the Universe. Again. | 144001 | [144001-tortured-hearts-or-how-i-saved-the-universe-again.json](./144001-tortured-hearts-or-how-i-saved-the-universe-again.json) |
 | Tortured Souls | 293224 | [293224-tortured-souls.json](./293224-tortured-souls.json) |
 | Toru | 157362 | [157362-toru.json](./157362-toru.json) |
 | Torus | 214725 | [214725-torus.json](./214725-torus.json) |
