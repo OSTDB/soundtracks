@@ -5109,6 +5109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shades of Black | 36009 | [36009-shades-of-black.json](./36009-shades-of-black.json) |
 | Shades of Darkness | 268884 | [268884-shades-of-darkness.json](./268884-shades-of-darkness.json) |
 | Shades of Doom | 71518 | [71518-shades-of-doom.json](./71518-shades-of-doom.json) |
+| Shades of Heroes | 126843 | [126843-shades-of-heroes.json](./126843-shades-of-heroes.json) |
 | Shades of Manhattan 2 | 182453 | [182453-shades-of-manhattan-2.json](./182453-shades-of-manhattan-2.json) |
 | Shades of Sakura | 161616 | [161616-shades-of-sakura.json](./161616-shades-of-sakura.json) |
 | Shades: Combat Militia | 223918 | [223918-shades-combat-militia.json](./223918-shades-combat-militia.json) |
@@ -9527,6 +9528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skin & Bones | 135698 | [135698-skin-and-bones.json](./135698-skin-and-bones.json) |
 | Skin & Scales | 301422 | [301422-skin-and-scales.json](./301422-skin-and-scales.json) |
 | Skin Deep | 111061 | [111061-skin-deep.json](./111061-skin-deep.json) |
+| Skin Witch | 126826 | [126826-skin-witch.json](./126826-skin-witch.json) |
 | Skinator | 400360 | [400360-skinator.json](./400360-skinator.json) |
 | Skincrawlers | 230292 | [230292-skincrawlers.json](./230292-skincrawlers.json) |
 | Skinfreak | 370337 | [370337-skinfreak.json](./370337-skinfreak.json) |
@@ -12598,6 +12600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Nations | 207586 | [207586-solar-nations.json](./207586-solar-nations.json) |
 | Solar Nations 2 | 401711 | [401711-solar-nations-2.json](./401711-solar-nations-2.json) |
 | Solar Pall | 267443 | [267443-solar-pall.json](./267443-solar-pall.json) |
+| Solar Panic: Utter Distress | 126862 | [126862-solar-panic-utter-distress.json](./126862-solar-panic-utter-distress.json) |
 | Solar Plexus | 40754 | [40754-solar-plexus.json](./40754-solar-plexus.json) |
 | Solar Plexus | 87803 | [87803-solar-plexus.json](./87803-solar-plexus.json) |
 | Solar Purge | 109698 | [109698-solar-purge.json](./109698-solar-purge.json) |
@@ -14894,6 +14897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Captain McCallery Episode 3: The Weaponmaster's Challenge | 142381 | [142381-space-captain-mccallery-episode-3-the-weaponmasters-challenge.json](./142381-space-captain-mccallery-episode-3-the-weaponmasters-challenge.json) |
 | Space Captain McCallery Episode 4: The Turquoise Temple | 245977 | [245977-space-captain-mccallery-episode-4-the-turquoise-temple.json](./245977-space-captain-mccallery-episode-4-the-turquoise-temple.json) |
 | Space Captain vs Mega Robots | 28119 | [28119-space-captain-vs-mega-robots.json](./28119-space-captain-vs-mega-robots.json) |
+| Space Carrot | 126855 | [126855-space-carrot.json](./126855-space-carrot.json) |
 | Space Castle | 169836 | [169836-space-castle.json](./169836-space-castle.json) |
 | Space Castle | 59796 | [59796-space-castle.json](./59796-space-castle.json) |
 | Space Casual | 220625 | [220625-space-casual.json](./220625-space-casual.json) |
@@ -23089,6 +23093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suīyáng: Shī Yǔ Huǒ | 374626 | [374626-suiyang-shi-yu-huo.json](./374626-suiyang-shi-yu-huo.json) |
 | Suizokukan Project: Fish Hunter he no Michi | 385927 | [385927-suizokukan-project-fish-hunter-he-no-michi.json](./385927-suizokukan-project-fish-hunter-he-no-michi.json) |
 | Sujimon Quest | 258343 | [258343-sujimon-quest.json](./258343-sujimon-quest.json) |
+| Suka's Escape | 126872 | [126872-sukas-escape.json](./126872-sukas-escape.json) |
 | Sukakko | 156048 | [156048-sukakko.json](./156048-sukakko.json) |
 | Sukashika Shipanman DS | 69212 | [69212-sukashika-shipanman-ds.json](./69212-sukashika-shipanman-ds.json) |
 | Sukeban Deka II: Shoujo Tekkamen Densetsu | 46119 | [46119-sukeban-deka-ii-shoujo-tekkamen-densetsu.json](./46119-sukeban-deka-ii-shoujo-tekkamen-densetsu.json) |
@@ -25188,6 +25193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nova Party | 219576 | [219576-super-nova-party.json](./219576-super-nova-party.json) |
 | Super Nova Stadium | 165687 | [165687-super-nova-stadium.json](./165687-super-nova-stadium.json) |
 | Super Nova's Symphony | 177774 | [177774-super-novas-symphony.json](./177774-super-novas-symphony.json) |
+| Super Novel Collector (Speedrun Edition) | 126883 | [126883-super-novel-collector-speedrun-edition.json](./126883-super-novel-collector-speedrun-edition.json) |
 | Super Nudge 2000 | 72698 | [72698-super-nudge-2000.json](./72698-super-nudge-2000.json) |
 | Super Ocho Bros. | 276027 | [276027-super-ocho-bros.json](./276027-super-ocho-bros.json) |
 | Super Off Road | 245295 | [245295-super-off-road.json](./245295-super-off-road.json) |
@@ -26028,6 +26034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperDucks | 357363 | [357363-superducks.json](./357363-superducks.json) |
 | SuperDude | 103923 | [103923-superdude.json](./103923-superdude.json) |
 | SuperDungeon MegaCorp | 190995 | [190995-superdungeon-megacorp.json](./190995-superdungeon-megacorp.json) |
+| SuperEpic: The Entertainment War | 126820 | [126820-superepic-the-entertainment-war.json](./126820-superepic-the-entertainment-war.json) |
 | SuperEpic: The Entertainment War - Badge Edition | 167027 | [167027-superepic-the-entertainment-war-badge-edition.json](./167027-superepic-the-entertainment-war-badge-edition.json) |
 | Superfetch Dog | 263656 | [263656-superfetch-dog.json](./263656-superfetch-dog.json) |
 | Superfidos | 242448 | [242448-superfidos.json](./242448-superfidos.json) |
