@@ -1649,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Puppet | 74771 | [74771-once-upon-a-puppet.json](./74771-once-upon-a-puppet.json) |
 | Once Upon A Puppet: Backstage Edition | 342235 | [342235-once-upon-a-puppet-backstage-edition.json](./342235-once-upon-a-puppet-backstage-edition.json) |
 | Once Upon a Rogue's Tale | 273787 | [273787-once-upon-a-rogues-tale.json](./273787-once-upon-a-rogues-tale.json) |
+| Once Upon a Sea | 147063 | [147063-once-upon-a-sea.json](./147063-once-upon-a-sea.json) |
 | Once Upon a Shell | 383151 | [383151-once-upon-a-shell.json](./383151-once-upon-a-shell.json) |
 | Once Upon A Siege | 224765 | [224765-once-upon-a-siege.json](./224765-once-upon-a-siege.json) |
 | Once Upon a Spirit | 354000 | [354000-once-upon-a-spirit.json](./354000-once-upon-a-spirit.json) |
