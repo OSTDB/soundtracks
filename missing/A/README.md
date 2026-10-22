@@ -6383,6 +6383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amelorn | 379127 | [379127-amelorn.json](./379127-amelorn.json) |
 | Amen Jesus Flap | 61442 | [61442-amen-jesus-flap.json](./61442-amen-jesus-flap.json) |
 | Amen: The Quiet Exodus | 406731 | [406731-amen-the-quiet-exodus.json](./406731-amen-the-quiet-exodus.json) |
+| Amendium | 132500 | [132500-amendium.json](./132500-amendium.json) |
 | Amends VR | 133070 | [133070-amends-vr.json](./133070-amends-vr.json) |
 | Amenity's Life | 98541 | [98541-amenitys-life.json](./98541-amenitys-life.json) |
 | Amentes Online | 401011 | [401011-amentes-online.json](./401011-amentes-online.json) |
@@ -10381,6 +10382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aria Chronicle: Necroknight | 172386 | [172386-aria-chronicle-necroknight.json](./172386-aria-chronicle-necroknight.json) |
 | Aria Chronicle: Necroknight Amazon Bundle | 199888 | [199888-aria-chronicle-necroknight-amazon-bundle.json](./199888-aria-chronicle-necroknight-amazon-bundle.json) |
 | Aria Dating Simulator | 385049 | [385049-aria-dating-simulator.json](./385049-aria-dating-simulator.json) |
+| Aria Disconnect | 132479 | [132479-aria-disconnect.json](./132479-aria-disconnect.json) |
 | Aria of Destiny | 326828 | [326828-aria-of-destiny.json](./326828-aria-of-destiny.json) |
 | Aria of God Killing | 193977 | [193977-aria-of-god-killing.json](./193977-aria-of-god-killing.json) |
 | ARIA: Angelic Realms In Arborea | 255552 | [255552-aria-angelic-realms-in-arborea.json](./255552-aria-angelic-realms-in-arborea.json) |
