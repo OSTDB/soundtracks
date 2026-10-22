@@ -2813,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -7588,6 +7589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Coloring Book for Kids & Toddlers: Unicorns | 402570 | [402570-animal-coloring-book-for-kids-and-toddlers-unicorns.json](./402570-animal-coloring-book-for-kids-and-toddlers-unicorns.json) |
 | Animal Couple | 334801 | [334801-animal-couple.json](./334801-animal-couple.json) |
 | Animal Cove: Match 3 Adventure | 108854 | [108854-animal-cove-match-3-adventure.json](./108854-animal-cove-match-3-adventure.json) |
+| Animal Cove: Solve Puzzles & Customize Your Island | 108736 | [108736-animal-cove-solve-puzzles-and-customize-your-island.json](./108736-animal-cove-solve-puzzles-and-customize-your-island.json) |
 | Animal Crackers | 177567 | [177567-animal-crackers.json](./177567-animal-crackers.json) |
 | Animal Crossing Deluxe | 357452 | [357452-animal-crossing-deluxe.json](./357452-animal-crossing-deluxe.json) |
 | Animal Crossing Neighborhood | 323890 | [323890-animal-crossing-neighborhood.json](./323890-animal-crossing-neighborhood.json) |
