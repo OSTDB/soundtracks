@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Crunch | 105954 | [105954-card-crunch.json](./105954-card-crunch.json) |
 | Card Cultivation | 369080 | [369080-card-cultivation.json](./369080-card-cultivation.json) |
 | Card Cultivation: Nine Palaces Illusory Realm | 297916 | [297916-card-cultivation-nine-palaces-illusory-realm.json](./297916-card-cultivation-nine-palaces-illusory-realm.json) |
+| Card de Renketsu! Densha de GO! | 146596 | [146596-card-de-renketsu-densha-de-go.json](./146596-card-de-renketsu-densha-de-go.json) |
 | Card Draw | 334643 | [334643-card-draw.json](./334643-card-draw.json) |
 | Card Eater | 406051 | [406051-card-eater.json](./406051-card-eater.json) |
 | Card Escape: Plane Crash | 188113 | [188113-card-escape-plane-crash.json](./188113-card-escape-plane-crash.json) |
@@ -2152,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carprogram | 273379 | [273379-carprogram.json](./273379-carprogram.json) |
 | Carrera | 295031 | [295031-carrera.json](./295031-carrera.json) |
 | Carrera Power Slide | 49308 | [49308-carrera-power-slide.json](./49308-carrera-power-slide.json) |
+| Carrera: Grand Prix | 146607 | [146607-carrera-grand-prix.json](./146607-carrera-grand-prix.json) |
 | Carreta Furacão: The Legend | 253742 | [253742-carreta-furacao-the-legend.json](./253742-carreta-furacao-the-legend.json) |
 | Carriages | 420477 | [420477-carriages.json](./420477-carriages.json) |
 | Carrie the Caregiver: Episode 1 - Infancy | 95416 | [95416-carrie-the-caregiver-episode-1-infancy.json](./95416-carrie-the-caregiver-episode-1-infancy.json) |
@@ -9871,6 +9873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander Keen in Invasion of the Vorticons: Marooned on Mars | 2439 | [2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json](./2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json) |
 | Commander Keen in Invasion of the Vorticons: The Earth Explodes | 2440 | [2440-commander-keen-in-invasion-of-the-vorticons-the-earth-explodes.json](./2440-commander-keen-in-invasion-of-the-vorticons-the-earth-explodes.json) |
 | Commander Keen in Keen Dreams | 2442 | [2442-commander-keen-in-keen-dreams.json](./2442-commander-keen-in-keen-dreams.json) |
+| Commander Keen in Keen Dreams: Definitive Edition | 146755 | [146755-commander-keen-in-keen-dreams-definitive-edition.json](./146755-commander-keen-in-keen-dreams-definitive-edition.json) |
 | Commander Keen: Battle of the Brains | 288347 | [288347-commander-keen-battle-of-the-brains.json](./288347-commander-keen-battle-of-the-brains.json) |
 | Commander Keen: Dead in the Desert | 288346 | [288346-commander-keen-dead-in-the-desert.json](./288346-commander-keen-dead-in-the-desert.json) |
 | Commander Keen: Invasion of the Vorticons | 71234 | [71234-commander-keen-invasion-of-the-vorticons.json](./71234-commander-keen-invasion-of-the-vorticons.json) |
@@ -14985,6 +14988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupcake Clicker 4 | 231381 | [231381-cupcake-clicker-4.json](./231381-cupcake-clicker-4.json) |
 | Cupcake Doodle | 101424 | [101424-cupcake-doodle.json](./101424-cupcake-doodle.json) |
 | Cupcake House: Liv's cupcakes matching sweetness! | 252705 | [252705-cupcake-house-livs-cupcakes-matching-sweetness.json](./252705-cupcake-house-livs-cupcakes-matching-sweetness.json) |
+| Cupcake Match | 146751 | [146751-cupcake-match.json](./146751-cupcake-match.json) |
 | Cupcake Remember | 190028 | [190028-cupcake-remember.json](./190028-cupcake-remember.json) |
 | Cupcake: an Apartment Adventure | 163818 | [163818-cupcake-an-apartment-adventure.json](./163818-cupcake-an-apartment-adventure.json) |
 | Cupcakeroo! | 256792 | [256792-cupcakeroo.json](./256792-cupcakeroo.json) |
