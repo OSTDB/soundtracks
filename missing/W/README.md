@@ -2735,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Went: Zero | 115412 | [115412-went-zero.json](./115412-went-zero.json) |
 | Went.ai | 140963 | [140963-went-ai.json](./140963-went-ai.json) |
 | Wénzìyù | 115626 | [115626-wenziyu.json](./115626-wenziyu.json) |
+| Wequer | 116036 | [116036-wequer.json](./116036-wequer.json) |
 | Wer Weiß Denn Sowas? | 110499 | [110499-wer-wei-denn-sowas.json](./110499-wer-wei-denn-sowas.json) |
 | Wer weiß denn sowas?: Das 3. Spiel | 315657 | [315657-wer-wei-denn-sowas-das-3-spiel.json](./315657-wer-wei-denn-sowas-das-3-spiel.json) |
 | Were House | 178553 | [178553-were-house.json](./178553-were-house.json) |
@@ -4573,6 +4574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing of Alnam: Shouchiri no Sora no Achira he | 167100 | [167100-wing-of-alnam-shouchiri-no-sora-no-achira-he.json](./167100-wing-of-alnam-shouchiri-no-sora-no-achira-he.json) |
 | Wing of Darkness | 114756 | [114756-wing-of-darkness.json](./114756-wing-of-darkness.json) |
 | Wing of Darkness: Limited Edition | 140005 | [140005-wing-of-darkness-limited-edition.json](./140005-wing-of-darkness-limited-edition.json) |
+| Wing of Misadventure | 116065 | [116065-wing-of-misadventure.json](./116065-wing-of-misadventure.json) |
 | Wing Over | 67674 | [67674-wing-over.json](./67674-wing-over.json) |
 | Wing Over 2 | 67667 | [67667-wing-over-2.json](./67667-wing-over-2.json) |
 | Wing War | 131192 | [131192-wing-war.json](./131192-wing-war.json) |
@@ -5773,6 +5775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodo | 145078 | [145078-woodo.json](./145078-woodo.json) |
 | Woodroid HD+ | 233742 | [233742-woodroid-hd.json](./233742-woodroid-hd.json) |
 | Woodrot | 357037 | [357037-woodrot.json](./357037-woodrot.json) |
+| Woods Looting | 116037 | [116037-woods-looting.json](./116037-woods-looting.json) |
 | Woods of Disturbance | 221040 | [221040-woods-of-disturbance.json](./221040-woods-of-disturbance.json) |
 | Woods of War | 329153 | [329153-woods-of-war.json](./329153-woods-of-war.json) |
 | Woodspell | 92959 | [92959-woodspell.json](./92959-woodspell.json) |
