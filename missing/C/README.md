@@ -5659,6 +5659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Fishing | 337457 | [337457-chill-fishing.json](./337457-chill-fishing.json) |
 | Chill Fishing | 379644 | [379644-chill-fishing.json](./379644-chill-fishing.json) |
 | Chill Fox | 368820 | [368820-chill-fox.json](./368820-chill-fox.json) |
+| Chill II | 116072 | [116072-chill-ii.json](./116072-chill-ii.json) |
 | Chill Manor | 64704 | [64704-chill-manor.json](./64704-chill-manor.json) |
 | Chill of Death's: Breath | 269280 | [269280-chill-of-deaths-breath.json](./269280-chill-of-deaths-breath.json) |
 | Chill Out | 181625 | [181625-chill-out.json](./181625-chill-out.json) |
