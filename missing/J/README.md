@@ -1277,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigoku Nagashi | 229695 | [229695-jigoku-nagashi.json](./229695-jigoku-nagashi.json) |
 | Jigoku no Sata mo Dasidahi | 82716 | [82716-jigoku-no-sata-mo-dasidahi.json](./82716-jigoku-no-sata-mo-dasidahi.json) |
 | Jigoku Seek | 308251 | [308251-jigoku-seek.json](./308251-jigoku-seek.json) |
+| Jigoku Shoujo Akekazura | 124496 | [124496-jigoku-shoujo-akekazura.json](./124496-jigoku-shoujo-akekazura.json) |
 | Jigoku Shoujo: Akekazura | 72615 | [72615-jigoku-shoujo-akekazura.json](./72615-jigoku-shoujo-akekazura.json) |
 | Jigoku Train | 314069 | [314069-jigoku-train.json](./314069-jigoku-train.json) |
 | Jigoku Unko | 151195 | [151195-jigoku-unko.json](./151195-jigoku-unko.json) |
