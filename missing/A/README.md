@@ -3988,6 +3988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Conflicts: Secret Wars - Ultimate Edition | 27783 | [27783-air-conflicts-secret-wars-ultimate-edition.json](./27783-air-conflicts-secret-wars-ultimate-edition.json) |
 | Air Conflicts: Vietnam Ultimate Edition | 44546 | [44546-air-conflicts-vietnam-ultimate-edition.json](./44546-air-conflicts-vietnam-ultimate-edition.json) |
 | Air Control | 13160 | [13160-air-control.json](./13160-air-control.json) |
+| Air Control | 136711 | [136711-air-control.json](./136711-air-control.json) |
 | Air Dash | 76691 | [76691-air-dash.json](./76691-air-dash.json) |
 | Air Dash: Sky Racing Simulator | 365004 | [365004-air-dash-sky-racing-simulator.json](./365004-air-dash-sky-racing-simulator.json) |
 | Air Dasher | 198318 | [198318-air-dasher.json](./198318-air-dasher.json) |
@@ -6939,6 +6940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Abyss | 107024 | [107024-ancient-abyss.json](./107024-ancient-abyss.json) |
 | Ancient Adventure | 406222 | [406222-ancient-adventure.json](./406222-ancient-adventure.json) |
 | Ancient Adventures | 205841 | [205841-ancient-adventures.json](./205841-ancient-adventures.json) |
+| Ancient Aliens | 136707 | [136707-ancient-aliens.json](./136707-ancient-aliens.json) |
 | Ancient Aliens: The Game | 211402 | [211402-ancient-aliens-the-game.json](./211402-ancient-aliens-the-game.json) |
 | Ancient Allies Tower Defense | 233452 | [233452-ancient-allies-tower-defense.json](./233452-ancient-allies-tower-defense.json) |
 | Ancient and Arcane: Escape Room Bundle | 410840 | [410840-ancient-and-arcane-escape-room-bundle.json](./410840-ancient-and-arcane-escape-room-bundle.json) |
@@ -12563,6 +12565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ayesha: The Alchemist of Dusk DX | 122748 | [122748-atelier-ayesha-the-alchemist-of-dusk-dx.json](./122748-atelier-ayesha-the-alchemist-of-dusk-dx.json) |
 | Atelier Dusk Trilogy Deluxe Pack | 125186 | [125186-atelier-dusk-trilogy-deluxe-pack.json](./125186-atelier-dusk-trilogy-deluxe-pack.json) |
 | Atelier Dusk Trilogy Deluxe Pack: Limited Premium Box Set | 136825 | [136825-atelier-dusk-trilogy-deluxe-pack-limited-premium-box-set.json](./136825-atelier-dusk-trilogy-deluxe-pack-limited-premium-box-set.json) |
+| Atelier Dusk Trilogy: Special Collection Box | 136689 | [136689-atelier-dusk-trilogy-special-collection-box.json](./136689-atelier-dusk-trilogy-special-collection-box.json) |
 | Atelier Elie: Puzzle Workshop | 338535 | [338535-atelier-elie-puzzle-workshop.json](./338535-atelier-elie-puzzle-workshop.json) |
 | Atelier Elie: The Alchemist of Salburg 2 | 26440 | [26440-atelier-elie-the-alchemist-of-salburg-2.json](./26440-atelier-elie-the-alchemist-of-salburg-2.json) |
 | Atelier Ellie: Puzzle Workshop | 329392 | [329392-atelier-ellie-puzzle-workshop.json](./329392-atelier-ellie-puzzle-workshop.json) |
