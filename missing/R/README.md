@@ -2841,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Alert 2: Apocalypse Rising | 376096 | [376096-red-alert-2-apocalypse-rising.json](./376096-red-alert-2-apocalypse-rising.json) |
 | Red Algorithm | 152654 | [152654-red-algorithm.json](./152654-red-algorithm.json) |
 | Red Algorithm: Fernando | 172095 | [172095-red-algorithm-fernando.json](./172095-red-algorithm-fernando.json) |
+| Red Algorithm: Osiris | 155447 | [155447-red-algorithm-osiris.json](./155447-red-algorithm-osiris.json) |
 | Red Amazon | 231793 | [231793-red-amazon.json](./231793-red-amazon.json) |
 | Red and Blue | 133776 | [133776-red-and-blue.json](./133776-red-and-blue.json) |
 | Red and Blue Balls | 99395 | [99395-red-and-blue-balls.json](./99395-red-and-blue-balls.json) |
