@@ -1202,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keeper | 348217 | [348217-keeper.json](./348217-keeper.json) |
 | Keeper | 91388 | [91388-keeper.json](./91388-keeper.json) |
 | Keeper 2119 | 121984 | [121984-keeper-2119.json](./121984-keeper-2119.json) |
+| Keeper of the Grove 2 | 102015 | [102015-keeper-of-the-grove-2.json](./102015-keeper-of-the-grove-2.json) |
 | Keeper of the Grove 3 | 219764 | [219764-keeper-of-the-grove-3.json](./219764-keeper-of-the-grove-3.json) |
 | Keeper Of The Hell Gate | 271748 | [271748-keeper-of-the-hell-gate.json](./271748-keeper-of-the-hell-gate.json) |
 | Keeper of the Labyrinth | 153865 | [153865-keeper-of-the-labyrinth.json](./153865-keeper-of-the-labyrinth.json) |
@@ -2506,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Downfall | 383675 | [383675-kings-downfall.json](./383675-kings-downfall.json) |
 | King's Dungeon | 228691 | [228691-kings-dungeon.json](./228691-kings-dungeon.json) |
 | King's Empire | 344002 | [344002-kings-empire.json](./344002-kings-empire.json) |
+| King's Escape | 101919 | [101919-kings-escape.json](./101919-kings-escape.json) |
 | King's Field | 340963 | [340963-kings-field.json](./340963-kings-field.json) |
 | King's Field | 7422 | [7422-kings-field.json](./7422-kings-field.json) |
 | King's Field | 7423 | [7423-kings-field.json](./7423-kings-field.json) |
@@ -4093,6 +4095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kǒngmíng Suǒ | 414117 | [414117-kongming-suo.json](./414117-kongming-suo.json) |
 | Kongming's Fiendish Maze | 249674 | [249674-kongmings-fiendish-maze.json](./249674-kongmings-fiendish-maze.json) |
 | Kongo Kong | 62983 | [62983-kongo-kong.json](./62983-kongo-kong.json) |
+| Kongpanion Avatar Maker | 102006 | [102006-kongpanion-avatar-maker.json](./102006-kongpanion-avatar-maker.json) |
 | KongQuest | 216172 | [216172-kongquest.json](./216172-kongquest.json) |
 | Kongregate Racing | 338926 | [338926-kongregate-racing.json](./338926-kongregate-racing.json) |
 | Konjiki no Gash Bell!! Golden Memories | 261218 | [261218-konjiki-no-gash-bell-golden-memories.json](./261218-konjiki-no-gash-bell-golden-memories.json) |
