@@ -201,6 +201,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO Robot Grendizer: The Feast of the Wolves - Princely Outfit | 301563 | [301563-ufo-robot-grendizer-the-feast-of-the-wolves-princely-outfit.json](./301563-ufo-robot-grendizer-the-feast-of-the-wolves-princely-outfit.json) |
 | UFO Shooting | 312273 | [312273-ufo-shooting.json](./312273-ufo-shooting.json) |
 | UFO Sightings Simulator | 282255 | [282255-ufo-sightings-simulator.json](./282255-ufo-sightings-simulator.json) |
+| UFO Simulator Control Master | 114126 | [114126-ufo-simulator-control-master.json](./114126-ufo-simulator-control-master.json) |
+| UFO Simulator Control Master | 114127 | [114127-ufo-simulator-control-master.json](./114127-ufo-simulator-control-master.json) |
 | UFO Slide Racing | 265744 | [265744-ufo-slide-racing.json](./265744-ufo-slide-racing.json) |
 | Ufo snowboard | 288702 | [288702-ufo-snowboard.json](./288702-ufo-snowboard.json) |
 | UFO Stomper | 348013 | [348013-ufo-stomper.json](./348013-ufo-stomper.json) |
