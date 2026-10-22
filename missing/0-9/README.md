@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #Wish travel, Super Puzzles Dream | 147423 | [147423-wish-travel-super-puzzles-dream.json](./147423-wish-travel-super-puzzles-dream.json) |
 | #womenUp, Super Puzzles Dream | 147437 | [147437-womenup-super-puzzles-dream.json](./147437-womenup-super-puzzles-dream.json) |
 | %100 | 83221 | [83221-100.json](./83221-100.json) |
+| %s, Computer Love | 134302 | [134302-s-computer-love.json](./134302-s-computer-love.json) |
 | ^_^ | 165499 | [165499-.json](./165499-.json) |
 | + Fence | 347176 | [347176-fence.json](./347176-fence.json) |
 | +1 | 308928 | [308928-1.json](./308928-1.json) |
@@ -2544,6 +2545,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8bit-Collection Jaleco Vol. 01 | 97885 | [97885-8bit-collection-jaleco-vol-01.json](./97885-8bit-collection-jaleco-vol-01.json) |
 | 8BitBoy | 17331 | [17331-8bitboy.json](./17331-8bitboy.json) |
 | 8BitMMO | 30232 | [30232-8bitmmo.json](./30232-8bitmmo.json) |
+| 8bitWar: Apokalyps | 134313 | [134313-8bitwar-apokalyps.json](./134313-8bitwar-apokalyps.json) |
+| 8bitWar: Netherworld | 134312 | [134312-8bitwar-netherworld.json](./134312-8bitwar-netherworld.json) |
+| 8bitWar: Origins | 134311 | [134311-8bitwar-origins.json](./134311-8bitwar-origins.json) |
 | 8Doors: Arum's Afterlife Adventure | 137635 | [137635-8doors-arums-afterlife-adventure.json](./137635-8doors-arums-afterlife-adventure.json) |
 | 8Floor Bundle | 277722 | [277722-8floor-bundle.json](./277722-8floor-bundle.json) |
 | 8Floor Bundle 3 in 1 | 273940 | [273940-8floor-bundle-3-in-1.json](./273940-8floor-bundle-3-in-1.json) |
