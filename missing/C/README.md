@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calico & Co | 28793 | [28793-calico-and-co.json](./28793-calico-and-co.json) |
 | Calico Wilder and the Crystal Blade | 416553 | [416553-calico-wilder-and-the-crystal-blade.json](./416553-calico-wilder-and-the-crystal-blade.json) |
 | Calico: Neat Things | 330568 | [330568-calico-neat-things.json](./330568-calico-neat-things.json) |
+| California Games | 154872 | [154872-california-games.json](./154872-california-games.json) |
 | California Games | 263875 | [263875-california-games.json](./263875-california-games.json) |
 | California Games | 263877 | [263877-california-games.json](./263877-california-games.json) |
 | California Games | 263878 | [263878-california-games.json](./263878-california-games.json) |
@@ -1098,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CandyZoo 2 Electric Boogaloo | 133976 | [133976-candyzoo-2-electric-boogaloo.json](./133976-candyzoo-2-electric-boogaloo.json) |
 | Canfield | 83476 | [83476-canfield.json](./83476-canfield.json) |
 | Canfield Solitaire Collection | 211769 | [211769-canfield-solitaire-collection.json](./211769-canfield-solitaire-collection.json) |
+| Cāng zhī Lù | 154897 | [154897-cang-zhi-lu.json](./154897-cang-zhi-lu.json) |
 | Canghai Zhuansheng Tan | 348917 | [348917-canghai-zhuansheng-tan.json](./348917-canghai-zhuansheng-tan.json) |
 | Cānghóng Lèi: Nì Tiān Shénhuà | 394183 | [394183-canghong-lei-ni-tian-shenhua.json](./394183-canghong-lei-ni-tian-shenhua.json) |
 | Cāngyè | 108390 | [108390-cangye.json](./108390-cangye.json) |
@@ -3161,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacomb Master | 246783 | [246783-catacomb-master.json](./246783-catacomb-master.json) |
 | Catacomb Snatch | 65388 | [65388-catacomb-snatch.json](./65388-catacomb-snatch.json) |
 | Catacomb Towers | 316075 | [316075-catacomb-towers.json](./316075-catacomb-towers.json) |
+| Catacombia | 154913 | [154913-catacombia.json](./154913-catacombia.json) |
 | Catacombs | 142466 | [142466-catacombs.json](./142466-catacombs.json) |
 | Catacombs | 169979 | [169979-catacombs.json](./169979-catacombs.json) |
 | Catacombs | 25918 | [25918-catacombs.json](./25918-catacombs.json) |
@@ -15486,6 +15489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Courier 2088 | 233666 | [233666-cyber-courier-2088.json](./233666-cyber-courier-2088.json) |
 | Cyber Cult City | 154083 | [154083-cyber-cult-city.json](./154083-cyber-cult-city.json) |
 | Cyber Cycles | 39829 | [39829-cyber-cycles.json](./39829-cyber-cycles.json) |
+| Cyber Defense 2088 | 154896 | [154896-cyber-defense-2088.json](./154896-cyber-defense-2088.json) |
 | Cyber Diver | 176721 | [176721-cyber-diver.json](./176721-cyber-diver.json) |
 | Cyber Dodge | 42054 | [42054-cyber-dodge.json](./42054-cyber-dodge.json) |
 | Cyber Doll | 71716 | [71716-cyber-doll.json](./71716-cyber-doll.json) |
