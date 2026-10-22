@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naelyeojjiggi | 309732 | [309732-naelyeojjiggi.json](./309732-naelyeojjiggi.json) |
 | Naemo | 385216 | [385216-naemo.json](./385216-naemo.json) |
 | Naenia | 398633 | [398633-naenia.json](./398633-naenia.json) |
+| Naera: It's Time to Retry | 150921 | [150921-naera-its-time-to-retry.json](./150921-naera-its-time-to-retry.json) |
 | Nafanya the Poltergeist | 277759 | [277759-nafanya-the-poltergeist.json](./277759-nafanya-the-poltergeist.json) |
 | Nafuda Sagashi: Identity Lost | 404807 | [404807-nafuda-sagashi-identity-lost.json](./404807-nafuda-sagashi-identity-lost.json) |
 | Naga Girls | 271611 | [271611-naga-girls.json](./271611-naga-girls.json) |
@@ -800,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Minds | 380681 | [380681-nature-minds.json](./380681-nature-minds.json) |
 | Nature Moms | 82168 | [82168-nature-moms.json](./82168-nature-moms.json) |
 | Nature of Dread | 403683 | [403683-nature-of-dread.json](./403683-nature-of-dread.json) |
+| Nature Park | 150985 | [150985-nature-park.json](./150985-nature-park.json) |
 | Nature Park | 274729 | [274729-nature-park.json](./274729-nature-park.json) |
 | Nature Prhysm | 206374 | [206374-nature-prhysm.json](./206374-nature-prhysm.json) |
 | Nature Treks VR | 29552 | [29552-nature-treks-vr.json](./29552-nature-treks-vr.json) |
@@ -3439,6 +3441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Walk | 62008 | [62008-night-walk.json](./62008-night-walk.json) |
 | Night Walker | 231540 | [231540-night-walker.json](./231540-night-walker.json) |
 | Night Walker | 256316 | [256316-night-walker.json](./256316-night-walker.json) |
+| Night Wanderings | 150923 | [150923-night-wanderings.json](./150923-night-wanderings.json) |
 | Night Watch | 20540 | [20540-night-watch.json](./20540-night-watch.json) |
 | Night Watch | 231811 | [231811-night-watch.json](./231811-night-watch.json) |
 | Night Watch | 418613 | [418613-night-watch.json](./418613-night-watch.json) |
