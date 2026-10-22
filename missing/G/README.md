@@ -2759,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geten no Hana | 62085 | [62085-geten-no-hana.json](./62085-geten-no-hana.json) |
 | Geten no Hana with Yume Akari Aizouban | 135857 | [135857-geten-no-hana-with-yume-akari-aizouban.json](./135857-geten-no-hana-with-yume-akari-aizouban.json) |
 | Geten no Hana: Yume Akari | 62093 | [62093-geten-no-hana-yume-akari.json](./62093-geten-no-hana-yume-akari.json) |
+| Gethaut | 148806 | [148806-gethaut.json](./148806-gethaut.json) |
 | GetHigh.exe | 393798 | [393798-gethigh-exe.json](./393798-gethigh-exe.json) |
 | GetRektBambi | 59656 | [59656-getrektbambi.json](./59656-getrektbambi.json) |
 | Getsu Fuuma Den | 15829 | [15829-getsu-fuuma-den.json](./15829-getsu-fuuma-den.json) |
@@ -5604,6 +5605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gosh A Ghost | 188872 | [188872-gosh-a-ghost.json](./188872-gosh-a-ghost.json) |
 | Gosick Rogue | 341909 | [341909-gosick-rogue.json](./341909-gosick-rogue.json) |
 | GoSickRogue | 260591 | [260591-gosickrogue.json](./260591-gosickrogue.json) |
+| Gospel of Abaddon | 148789 | [148789-gospel-of-abaddon.json](./148789-gospel-of-abaddon.json) |
 | Gospel of Eve | 225268 | [225268-gospel-of-eve.json](./225268-gospel-of-eve.json) |
 | Gossamer | 212184 | [212184-gossamer.json](./212184-gossamer.json) |
 | Gossamer | 387109 | [387109-gossamer.json](./387109-gossamer.json) |
@@ -8173,6 +8175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Knife Bomb | 422088 | [422088-gun-knife-bomb.json](./422088-gun-knife-bomb.json) |
 | Gun Lady | 286440 | [286440-gun-lady.json](./286440-gun-lady.json) |
 | Gun Law | 39775 | [39775-gun-law.json](./39775-gun-law.json) |
+| Gun Mage | 148940 | [148940-gun-mage.json](./148940-gun-mage.json) |
 | Gun Man | 115157 | [115157-gun-man.json](./115157-gun-man.json) |
 | Gun Man | 346091 | [346091-gun-man.json](./346091-gun-man.json) |
 | Gun Master | 169652 | [169652-gun-master.json](./169652-gun-master.json) |
