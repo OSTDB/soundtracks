@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigoku Unko: Toripuru | 203742 | [203742-jigoku-unko-toripuru.json](./203742-jigoku-unko-toripuru.json) |
 | Jigokuraku: Paradise Battle | 409820 | [409820-jigokuraku-paradise-battle.json](./409820-jigokuraku-paradise-battle.json) |
 | Jigoro | 367140 | [367140-jigoro.json](./367140-jigoro.json) |
+| Jigsaw | 149289 | [149289-jigsaw.json](./149289-jigsaw.json) |
 | Jigsaw | 7863 | [7863-jigsaw.json](./7863-jigsaw.json) |
 | Jigsaw 360 | 112490 | [112490-jigsaw-360.json](./112490-jigsaw-360.json) |
 | Jigsaw Advent Calendar | 276845 | [276845-jigsaw-advent-calendar.json](./276845-jigsaw-advent-calendar.json) |
@@ -3282,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice: Fallen Clan | 113167 | [113167-justice-fallen-clan.json](./113167-justice-fallen-clan.json) |
 | Justice.exe | 132238 | [132238-justice-exe.json](./132238-justice-exe.json) |
 | Justin Bieber Revenge | 79575 | [79575-justin-bieber-revenge.json](./79575-justin-bieber-revenge.json) |
+| Justin Danger | 149302 | [149302-justin-danger.json](./149302-justin-danger.json) |
 | Justin Freeman's Build A House | 304647 | [304647-justin-freemans-build-a-house.json](./304647-justin-freemans-build-a-house.json) |
 | Justin Wack and the Big Time Hack | 121639 | [121639-justin-wack-and-the-big-time-hack.json](./121639-justin-wack-and-the-big-time-hack.json) |
 | Justin Wack and the Big Time Hack: Deluxe Edition | 230819 | [230819-justin-wack-and-the-big-time-hack-deluxe-edition.json](./230819-justin-wack-and-the-big-time-hack-deluxe-edition.json) |
