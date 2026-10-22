@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaibil | 390732 | [390732-kaibil.json](./390732-kaibil.json) |
 | Kaibutsu Para-Dice | 263672 | [263672-kaibutsu-para-dice.json](./263672-kaibutsu-para-dice.json) |
 | Kaichu: The Kaiju Dating Sim - Deluxe Edition | 227402 | [227402-kaichu-the-kaiju-dating-sim-deluxe-edition.json](./227402-kaichu-the-kaiju-dating-sim-deluxe-edition.json) |
+| Kaidan 00 | 146606 | [146606-kaidan-00.json](./146606-kaidan-00.json) |
 | Kaidann | 290470 | [290470-kaidann.json](./290470-kaidann.json) |
 | Kaidi Armed With a Cat | 113501 | [113501-kaidi-armed-with-a-cat.json](./113501-kaidi-armed-with-a-cat.json) |
 | Kaido Genkai | 349376 | [349376-kaido-genkai.json](./349376-kaido-genkai.json) |
@@ -4641,6 +4642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fury: Street Rage - A Day at the Beach | 182181 | [182181-kung-fury-street-rage-a-day-at-the-beach.json](./182181-kung-fury-street-rage-a-day-at-the-beach.json) |
 | Kung Fury: Street Rage - Ultimate Edition | 204716 | [204716-kung-fury-street-rage-ultimate-edition.json](./204716-kung-fury-street-rage-ultimate-edition.json) |
 | Kung Pao Banqi | 320527 | [320527-kung-pao-banqi.json](./320527-kung-pao-banqi.json) |
+| Kung Tutu | 146756 | [146756-kung-tutu.json](./146756-kung-tutu.json) |
 | Kung-fu Beat | 332672 | [332672-kung-fu-beat.json](./332672-kung-fu-beat.json) |
 | Kung-Fu Heroes | 214619 | [214619-kung-fu-heroes.json](./214619-kung-fu-heroes.json) |
 | Kung-Fu Live | 52530 | [52530-kung-fu-live.json](./52530-kung-fu-live.json) |
@@ -4778,6 +4780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kusari Kingdom | 190974 | [190974-kusari-kingdom.json](./190974-kusari-kingdom.json) |
 | Kusarihime: Euthanasia | 138804 | [138804-kusarihime-euthanasia.json](./138804-kusarihime-euthanasia.json) |
 | Kusarihime: Jamais Vu | 331686 | [331686-kusarihime-jamais-vu.json](./331686-kusarihime-jamais-vu.json) |
+| Kuso | 146743 | [146743-kuso.json](./146743-kuso.json) |
 | Kuso Game Girl Wateri | 335483 | [335483-kuso-game-girl-wateri.json](./335483-kuso-game-girl-wateri.json) |
 | Kusodeka Bayashi | 321647 | [321647-kusodeka-bayashi.json](./321647-kusodeka-bayashi.json) |
 | Kusoge | 184984 | [184984-kusoge.json](./184984-kusoge.json) |
