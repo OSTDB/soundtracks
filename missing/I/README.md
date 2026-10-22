@@ -2011,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immunity Protocol | 401625 | [401625-immunity-protocol.json](./401625-immunity-protocol.json) |
 | Immunity Tales | 155967 | [155967-immunity-tales.json](./155967-immunity-tales.json) |
 | Immunity Wars | 305631 | [305631-immunity-wars.json](./305631-immunity-wars.json) |
+| Immuno | 106929 | [106929-immuno.json](./106929-immuno.json) |
 | Immure | 107517 | [107517-immure.json](./107517-immure.json) |
 | Immure: Part Two | 167302 | [167302-immure-part-two.json](./167302-immure-part-two.json) |
 | IMob | 92690 | [92690-imob.json](./92690-imob.json) |
@@ -2981,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Einstein Tiles2 | 374253 | [374253-infinite-einstein-tiles2.json](./374253-infinite-einstein-tiles2.json) |
 | Infinite Energy | 362908 | [362908-infinite-energy.json](./362908-infinite-energy.json) |
 | Infinite Fleet | 185922 | [185922-infinite-fleet.json](./185922-infinite-fleet.json) |
+| Infinite Flight Checklist | 106909 | [106909-infinite-flight-checklist.json](./106909-infinite-flight-checklist.json) |
 | Infinite Forest Idle | 277433 | [277433-infinite-forest-idle.json](./277433-infinite-forest-idle.json) |
 | Infinite Game Cartridge Collection: Dungeon Grove | 385420 | [385420-infinite-game-cartridge-collection-dungeon-grove.json](./385420-infinite-game-cartridge-collection-dungeon-grove.json) |
 | Infinite Game Works Episode 0 | 36316 | [36316-infinite-game-works-episode-0.json](./36316-infinite-game-works-episode-0.json) |
