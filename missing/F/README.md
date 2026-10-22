@@ -2395,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Princess: Fistful of Cake | 21752 | [21752-fat-princess-fistful-of-cake.json](./21752-fat-princess-fistful-of-cake.json) |
 | Fat Prisoner Simulator 3 | 169156 | [169156-fat-prisoner-simulator-3.json](./169156-fat-prisoner-simulator-3.json) |
 | Fat Rain | 227740 | [227740-fat-rain.json](./227740-fat-rain.json) |
+| Fat Rat Pinball | 145988 | [145988-fat-rat-pinball.json](./145988-fat-rat-pinball.json) |
 | Fat Slice 2 | 185653 | [185653-fat-slice-2.json](./185653-fat-slice-2.json) |
 | Fat Sonic | 330866 | [330866-fat-sonic.json](./330866-fat-sonic.json) |
 | Fat Worm Blows a Sparky | 37075 | [37075-fat-worm-blows-a-sparky.json](./37075-fat-worm-blows-a-sparky.json) |
@@ -10481,6 +10482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furistas Cat Cafe | 106629 | [106629-furistas-cat-cafe.json](./106629-furistas-cat-cafe.json) |
 | Furius Legacy | 209763 | [209763-furius-legacy.json](./209763-furius-legacy.json) |
 | Furlong Fracas | 248761 | [248761-furlong-fracas.json](./248761-furlong-fracas.json) |
+| FurnCap | 145985 | [145985-furncap.json](./145985-furncap.json) |
 | Furni-Jumpin' | 255132 | [255132-furni-jumpin.json](./255132-furni-jumpin.json) |
 | Furnish Master | 212816 | [212816-furnish-master.json](./212816-furnish-master.json) |
 | Furniture Assembler Simulator | 402351 | [402351-furniture-assembler-simulator.json](./402351-furniture-assembler-simulator.json) |
