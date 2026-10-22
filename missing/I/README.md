@@ -4809,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iShuffle Board 2 | 174234 | [174234-ishuffle-board-2.json](./174234-ishuffle-board-2.json) |
 | IShuffle Bowling | 175298 | [175298-ishuffle-bowling.json](./175298-ishuffle-bowling.json) |
 | Isida | 382755 | [382755-isida.json](./382755-isida.json) |
+| ISIS Simulator | 128854 | [128854-isis-simulator.json](./128854-isis-simulator.json) |
 | Isis: The Fall | 255100 | [255100-isis-the-fall.json](./255100-isis-the-fall.json) |
 | Iskelonia | 290489 | [290489-iskelonia.json](./290489-iskelonia.json) |
 | iSketch | 143375 | [143375-isketch.json](./143375-isketch.json) |
@@ -5273,6 +5274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Its Snowing | 282613 | [282613-its-snowing.json](./282613-its-snowing.json) |
 | Its Time To Meet God | 334131 | [334131-its-time-to-meet-god.json](./334131-its-time-to-meet-god.json) |
 | Its Village | 51502 | [51502-its-village.json](./51502-its-village.json) |
+| Its your last chance in new school | 128855 | [128855-its-your-last-chance-in-new-school.json](./128855-its-your-last-chance-in-new-school.json) |
 | ItsJustAStory | 251745 | [251745-itsjustastory.json](./251745-itsjustastory.json) |
 | Itsu Doko de Online | 220295 | [220295-itsu-doko-de-online.json](./220295-itsu-doko-de-online.json) |
 | Itsu no Ma ni Koukan Nikki | 222319 | [222319-itsu-no-ma-ni-koukan-nikki.json](./222319-itsu-no-ma-ni-koukan-nikki.json) |
