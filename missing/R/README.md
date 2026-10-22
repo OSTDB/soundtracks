@@ -10043,6 +10043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Punk | 177923 | [177923-rusty-punk.json](./177923-rusty-punk.json) |
 | Rusty Rabbit | 267796 | [267796-rusty-rabbit.json](./267796-rusty-rabbit.json) |
 | Rusty Ride | 266794 | [266794-rusty-ride.json](./266794-rusty-ride.json) |
+| Rusty Rivets: Fix-it Adventures | 137495 | [137495-rusty-rivets-fix-it-adventures.json](./137495-rusty-rivets-fix-it-adventures.json) |
 | Rusty Road Racing | 324924 | [324924-rusty-road-racing.json](./324924-rusty-road-racing.json) |
 | Rusty Robot Wants to Cry | 254899 | [254899-rusty-robot-wants-to-cry.json](./254899-rusty-robot-wants-to-cry.json) |
 | Rusty Runner | 116938 | [116938-rusty-runner.json](./116938-rusty-runner.json) |
