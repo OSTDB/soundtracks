@@ -4628,6 +4628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Horror Raiser | 216185 | [216185-little-horror-raiser.json](./216185-little-horror-raiser.json) |
 | Little Horrors! | 287240 | [287240-little-horrors.json](./287240-little-horrors.json) |
 | Little House | 341833 | [341833-little-house.json](./341833-little-house.json) |
+| Little Idle Monsters | 119376 | [119376-little-idle-monsters.json](./119376-little-idle-monsters.json) |
 | Little Inferno: Ho Ho Holiday | 224412 | [224412-little-inferno-ho-ho-holiday.json](./224412-little-inferno-ho-ho-holiday.json) |
 | Little Inner Monsters | 193666 | [193666-little-inner-monsters.json](./193666-little-inner-monsters.json) |
 | Little Island | 189072 | [189072-little-island.json](./189072-little-island.json) |
@@ -5479,6 +5480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistics Simulator | 161346 | [161346-logistics-simulator.json](./161346-logistics-simulator.json) |
 | Logistique | 157572 | [157572-logistique.json](./157572-logistique.json) |
 | Logix: The Missing Part | 301884 | [301884-logix-the-missing-part.json](./301884-logix-the-missing-part.json) |
+| Logo | 119300 | [119300-logo.json](./119300-logo.json) |
 | Logo Game Guess: Brand Quiz | 331650 | [331650-logo-game-guess-brand-quiz.json](./331650-logo-game-guess-brand-quiz.json) |
 | Logo Quiz | 135126 | [135126-logo-quiz.json](./135126-logo-quiz.json) |
 | Logo Quiz Club | 105849 | [105849-logo-quiz-club.json](./105849-logo-quiz-club.json) |
@@ -6096,6 +6098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lort | 345444 | [345444-lort.json](./345444-lort.json) |
 | Los Angeles 1985 | 358306 | [358306-los-angeles-1985.json](./358306-los-angeles-1985.json) |
 | Los Angeles SWAT | 13012 | [13012-los-angeles-swat.json](./13012-los-angeles-swat.json) |
+| Los Justicieros (Zorton Brothers) | 119398 | [119398-los-justicieros-zorton-brothers.json](./119398-los-justicieros-zorton-brothers.json) |
 | Los Lunnis | 269610 | [269610-los-lunnis.json](./269610-los-lunnis.json) |
 | Los Páramos | 236107 | [236107-los-paramos.json](./236107-los-paramos.json) |
 | Los Perdedores | 323800 | [323800-los-perdedores.json](./323800-los-perdedores.json) |
