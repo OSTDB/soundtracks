@@ -3758,6 +3758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Is Your Prince? In the Rich School | 255882 | [255882-who-is-your-prince-in-the-rich-school.json](./255882-who-is-your-prince-in-the-rich-school.json) |
 | Who Is Zombie | 192084 | [192084-who-is-zombie.json](./192084-who-is-zombie.json) |
 | Who Killed Mr. White? | 164951 | [164951-who-killed-mr-white.json](./164951-who-killed-mr-white.json) |
+| Who Killed My Father Academy! | 134878 | [134878-who-killed-my-father-academy.json](./134878-who-killed-my-father-academy.json) |
 | Who Killed My Sister? | 122946 | [122946-who-killed-my-sister.json](./122946-who-killed-my-sister.json) |
 | Who Killed the Streamer? | 260645 | [260645-who-killed-the-streamer.json](./260645-who-killed-the-streamer.json) |
 | Who Knows Where They're Going | 184053 | [184053-who-knows-where-theyre-going.json](./184053-who-knows-where-theyre-going.json) |
@@ -5715,6 +5716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WoodHeart | 160160 | [160160-woodheart.json](./160160-woodheart.json) |
 | Woodla: The Tower | 251199 | [251199-woodla-the-tower.json](./251199-woodla-the-tower.json) |
 | Woodland | 230719 | [230719-woodland.json](./230719-woodland.json) |
+| Woodland Chasers | 135079 | [135079-woodland-chasers.json](./135079-woodland-chasers.json) |
 | Woodland Hike | 244117 | [244117-woodland-hike.json](./244117-woodland-hike.json) |
 | Woodland Isle | 265103 | [265103-woodland-isle.json](./265103-woodland-isle.json) |
 | Woodland Rebels | 385604 | [385604-woodland-rebels.json](./385604-woodland-rebels.json) |
