@@ -2163,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passionstruck | 409840 | [409840-passionstruck.json](./409840-passionstruck.json) |
 | Passive Hero: Save the World in 100 Days! | 359575 | [359575-passive-hero-save-the-world-in-100-days.json](./359575-passive-hero-save-the-world-in-100-days.json) |
 | Passive Income | 167192 | [167192-passive-income.json](./167192-passive-income.json) |
+| Passpartout 2: The Lost Artist | 152185 | [152185-passpartout-2-the-lost-artist.json](./152185-passpartout-2-the-lost-artist.json) |
 | Passpartout 2: The Lost Artist - Special Edition | 250284 | [250284-passpartout-2-the-lost-artist-special-edition.json](./250284-passpartout-2-the-lost-artist-special-edition.json) |
 | Passpartout: The One Man Band | 263452 | [263452-passpartout-the-one-man-band.json](./263452-passpartout-the-one-man-band.json) |
 | Passport to Amsterdam | 55850 | [55850-passport-to-amsterdam.json](./55850-passport-to-amsterdam.json) |
@@ -5131,6 +5132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillars Of Fog | 337165 | [337165-pillars-of-fog.json](./337165-pillars-of-fog.json) |
 | Pillars of Garendall | 69873 | [69873-pillars-of-garendall.json](./69873-pillars-of-garendall.json) |
 | Pillars of Light | 197018 | [197018-pillars-of-light.json](./197018-pillars-of-light.json) |
+| Pillars on Poppy Hills | 152095 | [152095-pillars-on-poppy-hills.json](./152095-pillars-on-poppy-hills.json) |
 | Pillazon: MMO Drug Lord Tycoon | 227794 | [227794-pillazon-mmo-drug-lord-tycoon.json](./227794-pillazon-mmo-drug-lord-tycoon.json) |
 | Pilli Adventure | 76534 | [76534-pilli-adventure.json](./76534-pilli-adventure.json) |
 | Pillory | 280664 | [280664-pillory.json](./280664-pillory.json) |
@@ -7593,6 +7595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playing with Our Lives | 291003 | [291003-playing-with-our-lives.json](./291003-playing-with-our-lives.json) |
 | Playing With the Big Boys | 360697 | [360697-playing-with-the-big-boys.json](./360697-playing-with-the-big-boys.json) |
 | PlayM2M | 240168 | [240168-playm2m.json](./240168-playm2m.json) |
+| Playmaker | 151993 | [151993-playmaker.json](./151993-playmaker.json) |
 | PlayMaker Football | 366964 | [366964-playmaker-football.json](./366964-playmaker-football.json) |
 | PlayMaker Football 2.0 | 79567 | [79567-playmaker-football-2-0.json](./79567-playmaker-football-2-0.json) |
 | Playman Extreme Running | 316707 | [316707-playman-extreme-running.json](./316707-playman-extreme-running.json) |
@@ -7658,6 +7661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please adopt me. # AI needs repair. | 135719 | [135719-please-adopt-me-ai-needs-repair.json](./135719-please-adopt-me-ai-needs-repair.json) |
 | Please Answer Carefully | 176488 | [176488-please-answer-carefully.json](./176488-please-answer-carefully.json) |
 | Please Bang My Wife | 57550 | [57550-please-bang-my-wife.json](./57550-please-bang-my-wife.json) |
+| Please Be Happy | 152183 | [152183-please-be-happy.json](./152183-please-be-happy.json) |
 | Please Be Kind to the Chickens | 258080 | [258080-please-be-kind-to-the-chickens.json](./258080-please-be-kind-to-the-chickens.json) |
 | Please close the doors | 81639 | [81639-please-close-the-doors.json](./81639-please-close-the-doors.json) |
 | Please Come to The Castle | 349906 | [349906-please-come-to-the-castle.json](./349906-please-come-to-the-castle.json) |
