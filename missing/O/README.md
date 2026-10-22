@@ -3130,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order9 | 319412 | [319412-order9.json](./319412-order9.json) |
 | Orderly Havoc | 251820 | [251820-orderly-havoc.json](./251820-orderly-havoc.json) |
 | OrderlyWorld | 423288 | [423288-orderlyworld.json](./423288-orderlyworld.json) |
+| Orders of Magnitude | 133665 | [133665-orders-of-magnitude.json](./133665-orders-of-magnitude.json) |
 | Orders of the Ruler | 123366 | [123366-orders-of-the-ruler.json](./123366-orders-of-the-ruler.json) |
 | Orders, Captain! | 407888 | [407888-orders-captain.json](./407888-orders-captain.json) |
 | OrderZero | 256520 | [256520-orderzero.json](./256520-orderzero.json) |
