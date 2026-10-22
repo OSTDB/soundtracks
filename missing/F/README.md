@@ -2902,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed the Circuit | 390587 | [390587-feed-the-circuit.json](./390587-feed-the-circuit.json) |
 | Feed the Deep | 244320 | [244320-feed-the-deep.json](./244320-feed-the-deep.json) |
 | Feed the Demon Incremental | 389528 | [389528-feed-the-demon-incremental.json](./389528-feed-the-demon-incremental.json) |
+| Feed the Ducks | 128867 | [128867-feed-the-ducks.json](./128867-feed-the-ducks.json) |
 | Feed the Ducks | 177541 | [177541-feed-the-ducks.json](./177541-feed-the-ducks.json) |
 | Feed the Feed | 396888 | [396888-feed-the-feed.json](./396888-feed-the-feed.json) |
 | Feed The Flames | 375335 | [375335-feed-the-flames.json](./375335-feed-the-flames.json) |
@@ -3397,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 23 | 240456 | [240456-fifa-23.json](./240456-fifa-23.json) |
 | FIFA 23: Legacy Edition | 210455 | [210455-fifa-23-legacy-edition.json](./210455-fifa-23-legacy-edition.json) |
 | FIFA 99 | 699 | [699-fifa-99.json](./699-fifa-99.json) |
+| FIFA International Soccer | 128887 | [128887-fifa-international-soccer.json](./128887-fifa-international-soccer.json) |
 | FIFA International Soccer | 240238 | [240238-fifa-international-soccer.json](./240238-fifa-international-soccer.json) |
 | FIFA International Soccer | 240239 | [240239-fifa-international-soccer.json](./240239-fifa-international-soccer.json) |
 | FIFA Manager 06 | 20675 | [20675-fifa-manager-06.json](./20675-fifa-manager-06.json) |
@@ -5049,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishao | 221821 | [221821-fishao.json](./221821-fishao.json) |
 | Fishards | 152852 | [152852-fishards.json](./152852-fishards.json) |
 | Fishbait | 373634 | [373634-fishbait.json](./373634-fishbait.json) |
+| Fishbane | 128871 | [128871-fishbane.json](./128871-fishbane.json) |
 | Fishbone | 218068 | [218068-fishbone.json](./218068-fishbone.json) |
 | Fishbones | 122194 | [122194-fishbones.json](./122194-fishbones.json) |
 | Fishbowl | 68629 | [68629-fishbowl.json](./68629-fishbowl.json) |
