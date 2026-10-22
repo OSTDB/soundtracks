@@ -16089,6 +16089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Ninja Romance | 299520 | [299520-my-ninja-romance.json](./299520-my-ninja-romance.json) |
 | My Nintendo Picross: The Legend of Zelda Twilight Princess | 58782 | [58782-my-nintendo-picross-the-legend-of-zelda-twilight-princess.json](./58782-my-nintendo-picross-the-legend-of-zelda-twilight-princess.json) |
 | My Nonogram Waifu: Forbidden Love | 262367 | [262367-my-nonogram-waifu-forbidden-love.json](./262367-my-nonogram-waifu-forbidden-love.json) |
+| My Nuclear Octopus | 151516 | [151516-my-nuclear-octopus.json](./151516-my-nuclear-octopus.json) |
 | My Nurse Girlfriend | 205891 | [205891-my-nurse-girlfriend.json](./205891-my-nurse-girlfriend.json) |
 | My Oil Empire | 212480 | [212480-my-oil-empire.json](./212480-my-oil-empire.json) |
 | My Only | 375859 | [375859-my-only.json](./375859-my-only.json) |
@@ -16654,6 +16655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Fun House | 18520 | [18520-mystery-fun-house.json](./18520-mystery-fun-house.json) |
 | Mystery Gold | 55862 | [55862-mystery-gold.json](./55862-mystery-gold.json) |
 | Mystery Horror Bundle: Saint Kotar & Charon's Staircase | 380703 | [380703-mystery-horror-bundle-saint-kotar-and-charons-staircase.json](./380703-mystery-horror-bundle-saint-kotar-and-charons-staircase.json) |
+| Mystery Hotel: Hidden Object Detective Game | 151452 | [151452-mystery-hotel-hidden-object-detective-game.json](./151452-mystery-hotel-hidden-object-detective-game.json) |
 | Mystery House | 229793 | [229793-mystery-house.json](./229793-mystery-house.json) |
 | Mystery House | 2479 | [2479-mystery-house.json](./2479-mystery-house.json) |
 | Mystery House | 342677 | [342677-mystery-house.json](./342677-mystery-house.json) |
