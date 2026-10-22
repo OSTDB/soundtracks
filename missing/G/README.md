@@ -8308,6 +8308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Man | 346091 | [346091-gun-man.json](./346091-gun-man.json) |
 | Gun Master | 169652 | [169652-gun-master.json](./169652-gun-master.json) |
 | Gun Mayhem | 342123 | [342123-gun-mayhem.json](./342123-gun-mayhem.json) |
+| Gun Mayhem Redux | 102021 | [102021-gun-mayhem-redux.json](./102021-gun-mayhem-redux.json) |
 | Gun Monkey! | 406559 | [406559-gun-monkey.json](./406559-gun-monkey.json) |
 | Gun Monkeys | 16541 | [16541-gun-monkeys.json](./16541-gun-monkeys.json) |
 | Gun Nose | 390152 | [390152-gun-nose.json](./390152-gun-nose.json) |
