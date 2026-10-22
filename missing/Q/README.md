@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quazatron | 23061 | [23061-quazatron.json](./23061-quazatron.json) |
 | Qub | 362305 | [362305-qub.json](./362305-qub.json) |
 | Qubd | 223608 | [223608-qubd.json](./223608-qubd.json) |
+| Qube Qross | 147706 | [147706-qube-qross.json](./147706-qube-qross.json) |
 | Qube Stories: Escape Adventure | 260711 | [260711-qube-stories-escape-adventure.json](./260711-qube-stories-escape-adventure.json) |
 | Qube: Against the Qlock | 8878 | [8878-qube-against-the-qlock.json](./8878-qube-against-the-qlock.json) |
 | QubeFall | 184395 | [184395-qubefall.json](./184395-qubefall.json) |
