@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Cocoa | 363573 | [363573-galaxy-cocoa.json](./363573-galaxy-cocoa.json) |
 | Galaxy Commanders | 262811 | [262811-galaxy-commanders.json](./262811-galaxy-commanders.json) |
 | Galaxy Control: Arena Station | 89823 | [89823-galaxy-control-arena-station.json](./89823-galaxy-control-arena-station.json) |
+| Galaxy Crash | 108782 | [108782-galaxy-crash.json](./108782-galaxy-crash.json) |
 | Galaxy Crisis | 150450 | [150450-galaxy-crisis.json](./150450-galaxy-crisis.json) |
 | Galaxy Critter Co. | 412918 | [412918-galaxy-critter-co.json](./412918-galaxy-critter-co.json) |
 | Galaxy Defenders: Classic TD | 359068 | [359068-galaxy-defenders-classic-td.json](./359068-galaxy-defenders-classic-td.json) |
@@ -8426,6 +8427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Tactics: Mobility Fleet 0079 | 289744 | [289744-gundam-tactics-mobility-fleet-0079.json](./289744-gundam-tactics-mobility-fleet-0079.json) |
 | Gundam Versus | 28287 | [28287-gundam-versus.json](./28287-gundam-versus.json) |
 | Gundam Versus: Premium G Sound Edition | 136696 | [136696-gundam-versus-premium-g-sound-edition.json](./136696-gundam-versus-premium-g-sound-edition.json) |
+| Gundam Virtual Modeler Light | 108785 | [108785-gundam-virtual-modeler-light.json](./108785-gundam-virtual-modeler-light.json) |
 | Gundam VR: Daiba Assault | 52001 | [52001-gundam-vr-daiba-assault.json](./52001-gundam-vr-daiba-assault.json) |
 | Gundam Wing: Wing Assault | 315085 | [315085-gundam-wing-wing-assault.json](./315085-gundam-wing-wing-assault.json) |
 | Gundam: Battle Assault | 45006 | [45006-gundam-battle-assault.json](./45006-gundam-battle-assault.json) |
