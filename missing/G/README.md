@@ -1333,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangster Town | 45650 | [45650-gangster-town.json](./45650-gangster-town.json) |
 | Gangster War | 149195 | [149195-gangster-war.json](./149195-gangster-war.json) |
 | Gangsters | 69233 | [69233-gangsters.json](./69233-gangsters.json) |
+| Gangsters 1920 | 125078 | [125078-gangsters-1920.json](./125078-gangsters-1920.json) |
 | Gangsters 2: Vendetta | 51226 | [51226-gangsters-2-vendetta.json](./51226-gangsters-2-vendetta.json) |
 | GangV: Battle Royale | 144201 | [144201-gangv-battle-royale.json](./144201-gangv-battle-royale.json) |
 | Gangway Monsters | 43844 | [43844-gangway-monsters.json](./43844-gangway-monsters.json) |
@@ -3225,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Rush: Cute DLC | 324437 | [324437-giant-rush-cute-dlc.json](./324437-giant-rush-cute-dlc.json) |
 | Giant Rush: Gold Edition | 385201 | [385201-giant-rush-gold-edition.json](./385201-giant-rush-gold-edition.json) |
 | Giant Rush: Silly DLC | 324438 | [324438-giant-rush-silly-dlc.json](./324438-giant-rush-silly-dlc.json) |
+| Giant Slayers | 125067 | [125067-giant-slayers.json](./125067-giant-slayers.json) |
 | Giant Snake Girl Wants the Burger! | 383379 | [383379-giant-snake-girl-wants-the-burger.json](./383379-giant-snake-girl-wants-the-burger.json) |
 | Giant Trucks Driving Simulator | 90355 | [90355-giant-trucks-driving-simulator.json](./90355-giant-trucks-driving-simulator.json) |
 | Giant Waifu Wash Simulator | 406570 | [406570-giant-waifu-wash-simulator.json](./406570-giant-waifu-wash-simulator.json) |
