@@ -5178,6 +5178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Gambit: Yuki's Wish | 279538 | [279538-shadow-gambit-yukis-wish.json](./279538-shadow-gambit-yukis-wish.json) |
 | Shadow Gambit: Zagan's Ritual | 279542 | [279542-shadow-gambit-zagans-ritual.json](./279542-shadow-gambit-zagans-ritual.json) |
 | Shadow Game | 331297 | [331297-shadow-game.json](./331297-shadow-game.json) |
+| Shadow Gangs | 133056 | [133056-shadow-gangs.json](./133056-shadow-gangs.json) |
 | Shadow Girls | 396566 | [396566-shadow-girls.json](./396566-shadow-girls.json) |
 | Shadow Guardian | 112206 | [112206-shadow-guardian.json](./112206-shadow-guardian.json) |
 | Shadow Gunner: The Robot Wars | 144188 | [144188-shadow-gunner-the-robot-wars.json](./144188-shadow-gunner-the-robot-wars.json) |
@@ -7366,6 +7367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show do Milhão Volume 2 | 122333 | [122333-show-do-milhao-volume-2.json](./122333-show-do-milhao-volume-2.json) |
 | Show do Milhão Volume 3 | 122362 | [122362-show-do-milhao-volume-3.json](./122362-show-do-milhao-volume-3.json) |
 | Show do Milho Grande | 359981 | [359981-show-do-milho-grande.json](./359981-show-do-milho-grande.json) |
+| Show for Lovers | 133048 | [133048-show-for-lovers.json](./133048-show-for-lovers.json) |
 | Show Guts | 382372 | [382372-show-guts.json](./382372-show-guts.json) |
 | Show It 2 Me | 81216 | [81216-show-it-2-me.json](./81216-show-it-2-me.json) |
 | Show Jumping | 93178 | [93178-show-jumping.json](./93178-show-jumping.json) |
@@ -23065,6 +23067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sulfur | 233970 | [233970-sulfur.json](./233970-sulfur.json) |
 | Sulfur | 261285 | [261285-sulfur.json](./261285-sulfur.json) |
 | Sulfur Ignition | 352224 | [352224-sulfur-ignition.json](./352224-sulfur-ignition.json) |
+| Suli Fallen Harmony | 133090 | [133090-suli-fallen-harmony.json](./133090-suli-fallen-harmony.json) |
 | Sulka | 186667 | [186667-sulka.json](./186667-sulka.json) |
 | Sulky Manager | 224975 | [224975-sulky-manager.json](./224975-sulky-manager.json) |
 | Sulkyland | 214529 | [214529-sulkyland.json](./214529-sulkyland.json) |
