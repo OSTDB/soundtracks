@@ -4684,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Artifact of Ancients | 301838 | [301838-the-artifact-of-ancients.json](./301838-the-artifact-of-ancients.json) |
 | The Artifact Protocol | 365775 | [365775-the-artifact-protocol.json](./365775-the-artifact-protocol.json) |
 | The Artifactory | 334179 | [334179-the-artifactory.json](./334179-the-artifactory.json) |
+| The Artifacts | 117369 | [117369-the-artifacts.json](./117369-the-artifacts.json) |
 | The Artifacts of Marvelous Birds | 278627 | [278627-the-artifacts-of-marvelous-birds.json](./278627-the-artifacts-of-marvelous-birds.json) |
 | The Artisan of Glimmith | 383145 | [383145-the-artisan-of-glimmith.json](./383145-the-artisan-of-glimmith.json) |
 | The Artist Colors | 280630 | [280630-the-artist-colors.json](./280630-the-artist-colors.json) |
@@ -6725,6 +6726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dwarf | 257879 | [257879-the-dwarf.json](./257879-the-dwarf.json) |
 | The Dwarf Run | 34654 | [34654-the-dwarf-run.json](./34654-the-dwarf-run.json) |
 | The Dwarves | 13164 | [13164-the-dwarves.json](./13164-the-dwarves.json) |
+| The Dwarves of Glistenveld | 117359 | [117359-the-dwarves-of-glistenveld.json](./117359-the-dwarves-of-glistenveld.json) |
 | The Dwarves: Deluxe Edition | 53727 | [53727-the-dwarves-deluxe-edition.json](./53727-the-dwarves-deluxe-edition.json) |
 | The Dwarves: Digital Deluxe Edition | 53728 | [53728-the-dwarves-digital-deluxe-edition.json](./53728-the-dwarves-digital-deluxe-edition.json) |
 | The Dynastic Hero | 37601 | [37601-the-dynastic-hero.json](./37601-the-dynastic-hero.json) |
@@ -7196,6 +7198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fallen Kingdom | 31990 | [31990-the-fallen-kingdom.json](./31990-the-fallen-kingdom.json) |
 | The Fallen Kingdom | 324298 | [324298-the-fallen-kingdom.json](./324298-the-fallen-kingdom.json) |
 | The Fallen Night | 236198 | [236198-the-fallen-night.json](./236198-the-fallen-night.json) |
+| The Fallen of the Blaze Empire | 117363 | [117363-the-fallen-of-the-blaze-empire.json](./117363-the-fallen-of-the-blaze-empire.json) |
 | The Fallen Priest | 276397 | [276397-the-fallen-priest.json](./276397-the-fallen-priest.json) |
 | The Fallen Will | 386447 | [386447-the-fallen-will.json](./386447-the-fallen-will.json) |
 | The Falling Nights | 36481 | [36481-the-falling-nights.json](./36481-the-falling-nights.json) |
@@ -11086,6 +11089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -15778,6 +15782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This, My Soul | 179692 | [179692-this-my-soul.json](./179692-this-my-soul.json) |
 | This, Too, Shall Pass | 176235 | [176235-this-too-shall-pass.json](./176235-this-too-shall-pass.json) |
 | ThisIsTheGame | 269194 | [269194-thisisthegame.json](./269194-thisisthegame.json) |
+| Thistledown: A Tragedy of Blood | 117370 | [117370-thistledown-a-tragedy-of-blood.json](./117370-thistledown-a-tragedy-of-blood.json) |
 | Thistledown: Marrowroot | 216502 | [216502-thistledown-marrowroot.json](./216502-thistledown-marrowroot.json) |
 | Thnt | 204331 | [204331-thnt.json](./204331-thnt.json) |
 | THO Simulator | 188086 | [188086-tho-simulator.json](./188086-tho-simulator.json) |
@@ -19278,6 +19283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Memorial 2: EVS Append Disc | 369848 | [369848-tokimeki-memorial-2-evs-append-disc.json](./369848-tokimeki-memorial-2-evs-append-disc.json) |
 | Tokimeki Memorial 4 | 67379 | [67379-tokimeki-memorial-4.json](./67379-tokimeki-memorial-4.json) |
 | Tokimeki Memorial Girl's Side | 72670 | [72670-tokimeki-memorial-girls-side.json](./72670-tokimeki-memorial-girls-side.json) |
+| Tokimeki Memorial Girl's Side 4th Heart | 117406 | [117406-tokimeki-memorial-girls-side-4th-heart.json](./117406-tokimeki-memorial-girls-side-4th-heart.json) |
 | Tokimeki Memorial Girl's Side Triple Pack | 109045 | [109045-tokimeki-memorial-girls-side-triple-pack.json](./109045-tokimeki-memorial-girls-side-triple-pack.json) |
 | Tokimeki Memorial Girl's Side: 1st Love | 124096 | [124096-tokimeki-memorial-girls-side-1st-love.json](./124096-tokimeki-memorial-girls-side-1st-love.json) |
 | Tokimeki Memorial Girl's Side: 1st Love Plus | 124097 | [124097-tokimeki-memorial-girls-side-1st-love-plus.json](./124097-tokimeki-memorial-girls-side-1st-love-plus.json) |
@@ -26065,6 +26071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisty Twins | 244111 | [244111-twisty-twins.json](./244111-twisty-twins.json) |
 | Twisty's Asylum Escapades | 31940 | [31940-twistys-asylum-escapades.json](./31940-twistys-asylum-escapades.json) |
 | Twitch Place | 230971 | [230971-twitch-place.json](./230971-twitch-place.json) |
+| Twitch Sings | 117421 | [117421-twitch-sings.json](./117421-twitch-sings.json) |
 | Twitchbox | 96052 | [96052-twitchbox.json](./96052-twitchbox.json) |
 | Twitchoos RUN: Socks & Stream | 133111 | [133111-twitchoos-run-socks-and-stream.json](./133111-twitchoos-run-socks-and-stream.json) |
 | Twitter Island | 185641 | [185641-twitter-island.json](./185641-twitter-island.json) |
