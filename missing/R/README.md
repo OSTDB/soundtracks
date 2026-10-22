@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raef | 131588 | [131588-raef.json](./131588-raef.json) |
 | Raev: Kingdom on the Distant Shores | 336154 | [336154-raev-kingdom-on-the-distant-shores.json](./336154-raev-kingdom-on-the-distant-shores.json) |
 | Rafa's World + Axolotl + Cat Milk | 242658 | [242658-rafas-world-axolotl-cat-milk.json](./242658-rafas-world-axolotl-cat-milk.json) |
+| Raffle Cat | 123254 | [123254-raffle-cat.json](./123254-raffle-cat.json) |
 | Rafflesia | 40167 | [40167-rafflesia.json](./40167-rafflesia.json) |
 | Raft Life | 203704 | [203704-raft-life.json](./203704-raft-life.json) |
 | Raft Rider | 22819 | [22819-raft-rider.json](./22819-raft-rider.json) |
@@ -3318,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReDraft: The Fantasy Football Simulator | 414361 | [414361-redraft-the-fantasy-football-simulator.json](./414361-redraft-the-fantasy-football-simulator.json) |
 | ReDrawn: The Painted Tower | 188035 | [188035-redrawn-the-painted-tower.json](./188035-redrawn-the-painted-tower.json) |
 | ReDrawn: The Painted Tower - Collector's Edition | 193231 | [193231-redrawn-the-painted-tower-collectors-edition.json](./193231-redrawn-the-painted-tower-collectors-edition.json) |
+| RedRive | 123286 | [123286-redrive.json](./123286-redrive.json) |
 | Redriver 2 | 232854 | [232854-redriver-2.json](./232854-redriver-2.json) |
 | Redrock | 270721 | [270721-redrock.json](./270721-redrock.json) |
 | Redroom | 367532 | [367532-redroom.json](./367532-redroom.json) |
@@ -5323,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm | 124498 | [124498-rhythm.json](./124498-rhythm.json) |
 | Rhythm 'n Bullets | 140928 | [140928-rhythm-n-bullets.json](./140928-rhythm-n-bullets.json) |
 | Rhythm 'n Notes: Improve Your Music Skills | 79176 | [79176-rhythm-n-notes-improve-your-music-skills.json](./79176-rhythm-n-notes-improve-your-music-skills.json) |
+| Rhythm 'n' Face | 123290 | [123290-rhythm-n-face.json](./123290-rhythm-n-face.json) |
 | Rhythm & Beats | 292282 | [292282-rhythm-and-beats.json](./292282-rhythm-and-beats.json) |
 | Rhythm Action Gatsby | 184340 | [184340-rhythm-action-gatsby.json](./184340-rhythm-action-gatsby.json) |
 | Rhythm Any Music | 220709 | [220709-rhythm-any-music.json](./220709-rhythm-any-music.json) |
@@ -8253,6 +8256,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roly Poly Putt | 251663 | [251663-roly-poly-putt.json](./251663-roly-poly-putt.json) |
 | Roly Poly Roundup | 396415 | [396415-roly-poly-roundup.json](./396415-roly-poly-roundup.json) |
 | Roly-Polo | 158575 | [158575-roly-polo.json](./158575-roly-polo.json) |
+| Roly-Polys no Nanakorobi Yaoki | 123288 | [123288-roly-polys-no-nanakorobi-yaoki.json](./123288-roly-polys-no-nanakorobi-yaoki.json) |
+| Rolypolys no Sekai Daibouken | 123289 | [123289-rolypolys-no-sekai-daibouken.json](./123289-rolypolys-no-sekai-daibouken.json) |
 | Rom | 176846 | [176846-rom.json](./176846-rom.json) |
 | ROM Check Fail | 79311 | [79311-rom-check-fail.json](./79311-rom-check-fail.json) |
 | Rom Rom Stadium | 64377 | [64377-rom-rom-stadium.json](./64377-rom-rom-stadium.json) |
