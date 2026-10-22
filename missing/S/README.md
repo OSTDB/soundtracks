@@ -7033,6 +7033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot or Die | 310809 | [310809-shoot-or-die.json](./310809-shoot-or-die.json) |
 | Shoot Out | 38561 | [38561-shoot-out.json](./38561-shoot-out.json) |
 | Shoot Paint | 334747 | [334747-shoot-paint.json](./334747-shoot-paint.json) |
+| Shoot Pump Shoot | 128244 | [128244-shoot-pump-shoot.json](./128244-shoot-pump-shoot.json) |
 | Shoot Run | 213353 | [213353-shoot-run.json](./213353-shoot-run.json) |
 | Shoot Shoot Cowboy! | 311230 | [311230-shoot-shoot-cowboy.json](./311230-shoot-shoot-cowboy.json) |
 | Shoot Shoot Mega Pack | 28506 | [28506-shoot-shoot-mega-pack.json](./28506-shoot-shoot-mega-pack.json) |
@@ -13010,6 +13011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Peace of Mind | 22361 | [22361-some-peace-of-mind.json](./22361-some-peace-of-mind.json) |
 | Some RPG Game | 273422 | [273422-some-rpg-game.json](./273422-some-rpg-game.json) |
 | Some Say It Has Always Been Here | 142082 | [142082-some-say-it-has-always-been-here.json](./142082-some-say-it-has-always-been-here.json) |
+| Some Some Convenience Store | 128227 | [128227-some-some-convenience-store.json](./128227-some-some-convenience-store.json) |
 | Some Some Convenience Store: Adela After Story | 316253 | [316253-some-some-convenience-store-adela-after-story.json](./316253-some-some-convenience-store-adela-after-story.json) |
 | Some Some Convenience Store: After Stories Pass | 316254 | [316254-some-some-convenience-store-after-stories-pass.json](./316254-some-some-convenience-store-after-stories-pass.json) |
 | Some Some Convenience Store: Soohee After Story | 316252 | [316252-some-some-convenience-store-soohee-after-story.json](./316252-some-some-convenience-store-soohee-after-story.json) |
@@ -19747,6 +19749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars Blast | 243088 | [243088-stars-blast.json](./243088-stars-blast.json) |
 | Stars Collapse | 302672 | [302672-stars-collapse.json](./302672-stars-collapse.json) |
 | Stars Era: Abyss Frontier | 289303 | [289303-stars-era-abyss-frontier.json](./289303-stars-era-abyss-frontier.json) |
+| Stars Era: Lost Stars | 128238 | [128238-stars-era-lost-stars.json](./128238-stars-era-lost-stars.json) |
 | Stars Era: The Final Defence | 320241 | [320241-stars-era-the-final-defence.json](./320241-stars-era-the-final-defence.json) |
 | Stars Force | 148491 | [148491-stars-force.json](./148491-stars-force.json) |
 | Stars in Shadow | 27089 | [27089-stars-in-shadow.json](./27089-stars-in-shadow.json) |
