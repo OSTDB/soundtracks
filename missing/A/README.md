@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Date with Death: Beyond the Bet | 288917 | [288917-a-date-with-death-beyond-the-bet.json](./288917-a-date-with-death-beyond-the-bet.json) |
 | A Date with Death: Expansion DLC | 276859 | [276859-a-date-with-death-expansion-dlc.json](./276859-a-date-with-death-expansion-dlc.json) |
 | A Date with Yesterday | 232848 | [232848-a-date-with-yesterday.json](./232848-a-date-with-yesterday.json) |
+| A Day | 145366 | [145366-a-day.json](./145366-a-day.json) |
 | A Day as a T-Rex | 209185 | [209185-a-day-as-a-t-rex.json](./209185-a-day-as-a-t-rex.json) |
 | A Day at the Carnival | 55853 | [55853-a-day-at-the-carnival.json](./55853-a-day-at-the-carnival.json) |
 | A Day at the Library | 102050 | [102050-a-day-at-the-library.json](./102050-a-day-at-the-library.json) |
@@ -1783,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Academy: Checkers | 84734 | [84734-academy-checkers.json](./84734-academy-checkers.json) |
 | Academy: Chess Puzzles | 84733 | [84733-academy-chess-puzzles.json](./84733-academy-chess-puzzles.json) |
 | Acai cOrner | 297558 | [297558-acai-corner.json](./297558-acai-corner.json) |
+| Acalesia | 145361 | [145361-acalesia.json](./145361-acalesia.json) |
 | Acalius: Enemies of the Wild | 58069 | [58069-acalius-enemies-of-the-wild.json](./58069-acalius-enemies-of-the-wild.json) |
 | Acan's Call: Act 1 | 32084 | [32084-acans-call-act-1.json](./32084-acans-call-act-1.json) |
 | Acanthoceras | 208272 | [208272-acanthoceras.json](./208272-acanthoceras.json) |
@@ -2754,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure's Calling | 235052 | [235052-adventures-calling.json](./235052-adventures-calling.json) |
 | Adventure4+ | 305199 | [305199-adventure4.json](./305199-adventure4.json) |
 | AdventureQuest | 79499 | [79499-adventurequest.json](./79499-adventurequest.json) |
+| AdventureQuest 8-Bit: Dungeons & DoomKnights | 145362 | [145362-adventurequest-8-bit-dungeons-and-doomknights.json](./145362-adventurequest-8-bit-dungeons-and-doomknights.json) |
 | AdventureQuest Dragons | 112229 | [112229-adventurequest-dragons.json](./112229-adventurequest-dragons.json) |
 | AdventureQuest Undead Assault | 112227 | [112227-adventurequest-undead-assault.json](./112227-adventurequest-undead-assault.json) |
 | AdventureQuest Worlds | 107272 | [107272-adventurequest-worlds.json](./107272-adventurequest-worlds.json) |
@@ -5622,6 +5625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alliance of the Sacred Suns | 120833 | [120833-alliance-of-the-sacred-suns.json](./120833-alliance-of-the-sacred-suns.json) |
 | Alliance of Valiant Arms | 16253 | [16253-alliance-of-valiant-arms.json](./16253-alliance-of-valiant-arms.json) |
 | Alliance Peacefighter | 333129 | [333129-alliance-peacefighter.json](./333129-alliance-peacefighter.json) |
+| Alliance Space Guard | 145492 | [145492-alliance-space-guard.json](./145492-alliance-space-guard.json) |
 | Alliance Tales: Battle for the Frontier | 380568 | [380568-alliance-tales-battle-for-the-frontier.json](./380568-alliance-tales-battle-for-the-frontier.json) |
 | Alliance Warfare | 23631 | [23631-alliance-warfare.json](./23631-alliance-warfare.json) |
 | Alliance: Future Combat | 61681 | [61681-alliance-future-combat.json](./61681-alliance-future-combat.json) |
@@ -7521,6 +7525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Daedal | 180087 | [180087-animal-daedal.json](./180087-animal-daedal.json) |
 | Animal Defense Versus | 152978 | [152978-animal-defense-versus.json](./152978-animal-defense-versus.json) |
 | Animal Diner | 217391 | [217391-animal-diner.json](./217391-animal-diner.json) |
+| Animal Doctor | 145494 | [145494-animal-doctor.json](./145494-animal-doctor.json) |
 | Animal Drifters | 219296 | [219296-animal-drifters.json](./219296-animal-drifters.json) |
 | Animal Drivers | 59810 | [59810-animal-drivers.json](./59810-animal-drivers.json) |
 | Animal Drop Safari | 168658 | [168658-animal-drop-safari.json](./168658-animal-drop-safari.json) |
@@ -7592,6 +7597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Rescue | 169407 | [169407-animal-rescue.json](./169407-animal-rescue.json) |
 | Animal Rescuer | 139419 | [139419-animal-rescuer.json](./139419-animal-rescuer.json) |
 | Animal Restaurant | 133792 | [133792-animal-restaurant.json](./133792-animal-restaurant.json) |
+| Animal Revolt Battle Simulator | 145336 | [145336-animal-revolt-battle-simulator.json](./145336-animal-revolt-battle-simulator.json) |
 | Animal Rivals | 28915 | [28915-animal-rivals.json](./28915-animal-rivals.json) |
 | Animal Rivals | 370847 | [370847-animal-rivals.json](./370847-animal-rivals.json) |
 | Animal Rivals: Nintendo Switch Edition | 105904 | [105904-animal-rivals-nintendo-switch-edition.json](./105904-animal-rivals-nintendo-switch-edition.json) |
