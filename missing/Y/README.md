@@ -1216,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yowamushi Pedal Ashita he no Kou Kaiten | 222479 | [222479-yowamushi-pedal-ashita-he-no-kou-kaiten.json](./222479-yowamushi-pedal-ashita-he-no-kou-kaiten.json) |
 | Yowasugiru RPG | 313584 | [313584-yowasugiru-rpg.json](./313584-yowasugiru-rpg.json) |
 | Yowie | 300334 | [300334-yowie.json](./300334-yowie.json) |
+| YoWorld | 120611 | [120611-yoworld.json](./120611-yoworld.json) |
 | Yoyo | 128468 | [128468-yoyo.json](./128468-yoyo.json) |
 | Yoyo Blade | 419983 | [419983-yoyo-blade.json](./419983-yoyo-blade.json) |
 | Yoyo Fighter | 339992 | [339992-yoyo-fighter.json](./339992-yoyo-fighter.json) |
@@ -1645,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yusetsu | 211178 | [211178-yusetsu.json](./211178-yusetsu.json) |
 | Yusha no Hanamichi | 331863 | [331863-yusha-no-hanamichi.json](./331863-yusha-no-hanamichi.json) |
 | Yusha: Heaven's Gate | 44868 | [44868-yusha-heavens-gate.json](./44868-yusha-heavens-gate.json) |
+| Yut Yut | 120601 | [120601-yut-yut.json](./120601-yut-yut.json) |
 | Yuu Maze | 41307 | [41307-yuu-maze.json](./41307-yuu-maze.json) |
 | Yuu Yuu Jinsei | 37649 | [37649-yuu-yuu-jinsei.json](./37649-yuu-yuu-jinsei.json) |
 | Yuugao | 308415 | [308415-yuugao.json](./308415-yuugao.json) |
