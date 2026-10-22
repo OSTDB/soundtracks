@@ -3059,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helionaut | 136730 | [136730-helionaut.json](./136730-helionaut.json) |
 | Heliopedia | 175891 | [175891-heliopedia.json](./175891-heliopedia.json) |
 | Heliophobia | 110751 | [110751-heliophobia.json](./110751-heliophobia.json) |
+| Helios | 128836 | [128836-helios.json](./128836-helios.json) |
 | Helios | 185086 | [185086-helios.json](./185086-helios.json) |
 | Helios Battle Universe | 157180 | [157180-helios-battle-universe.json](./157180-helios-battle-universe.json) |
 | Helios Equinox | 361642 | [361642-helios-equinox.json](./361642-helios-equinox.json) |
@@ -8927,6 +8928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hudson Selection Vol. 4: Takahashi Meijin no Bouken-jima | 50574 | [50574-hudson-selection-vol-4-takahashi-meijin-no-bouken-jima.json](./50574-hudson-selection-vol-4-takahashi-meijin-no-bouken-jima.json) |
 | Hudson x Greeeen Live!? Deeees!? | 97682 | [97682-hudson-x-greeeen-live-deeees.json](./97682-hudson-x-greeeen-live-deeees.json) |
 | Hue | 18927 | [18927-hue.json](./18927-hue.json) |
+| Hue Am I? | 128830 | [128830-hue-am-i.json](./128830-hue-am-i.json) |
 | Hue change | 184379 | [184379-hue-change.json](./184379-hue-change.json) |
 | Hue Factory | 403067 | [403067-hue-factory.json](./403067-hue-factory.json) |
 | Hue Hooligans | 323856 | [323856-hue-hooligans.json](./323856-hue-hooligans.json) |
