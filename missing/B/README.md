@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -759,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Trip | 379998 | [379998-bad-trip.json](./379998-bad-trip.json) |
 | Bad Vaxx | 361788 | [361788-bad-vaxx.json](./361788-bad-vaxx.json) |
 | Bad Vibes | 171378 | [171378-bad-vibes.json](./171378-bad-vibes.json) |
+| Bad Viking and the Curse of the Mushroom King | 119377 | [119377-bad-viking-and-the-curse-of-the-mushroom-king.json](./119377-bad-viking-and-the-curse-of-the-mushroom-king.json) |
 | Bad Way | 189204 | [189204-bad-way.json](./189204-bad-way.json) |
 | Bad Weekend | 273135 | [273135-bad-weekend.json](./273135-bad-weekend.json) |
 | Bad Writer | 195016 | [195016-bad-writer.json](./195016-bad-writer.json) |
@@ -892,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baker Street Breakouts: A Sherlockian Escape Adventure | 231870 | [231870-baker-street-breakouts-a-sherlockian-escape-adventure.json](./231870-baker-street-breakouts-a-sherlockian-escape-adventure.json) |
 | Baker's Dozen | 260859 | [260859-bakers-dozen.json](./260859-bakers-dozen.json) |
 | Bakeru | 254466 | [254466-bakeru.json](./254466-bakeru.json) |
+| Bakery Biz Tycoon | 119306 | [119306-bakery-biz-tycoon.json](./119306-bakery-biz-tycoon.json) |
 | Bakery Cafe Simulator | 339217 | [339217-bakery-cafe-simulator.json](./339217-bakery-cafe-simulator.json) |
 | Bakery Magnate: Beginning | 292692 | [292692-bakery-magnate-beginning.json](./292692-bakery-magnate-beginning.json) |
 | Bakery Master | 147091 | [147091-bakery-master.json](./147091-bakery-master.json) |
