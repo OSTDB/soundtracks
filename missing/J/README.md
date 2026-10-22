@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly in the Dark | 215587 | [215587-jelly-in-the-dark.json](./215587-jelly-in-the-dark.json) |
 | Jelly Is Sticky | 158142 | [158142-jelly-is-sticky.json](./158142-jelly-is-sticky.json) |
 | Jelly Jam Blast | 105882 | [105882-jelly-jam-blast.json](./105882-jelly-jam-blast.json) |
+| Jelly Jellies | 108788 | [108788-jelly-jellies.json](./108788-jelly-jellies.json) |
 | Jelly Juice | 88438 | [88438-jelly-juice.json](./88438-jelly-juice.json) |
 | Jelly Jump | 147411 | [147411-jelly-jump.json](./147411-jelly-jump.json) |
 | Jelly Jump | 86950 | [86950-jelly-jump.json](./86950-jelly-jump.json) |
