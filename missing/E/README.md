@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge Not Found | 177234 | [177234-edge-not-found.json](./177234-edge-not-found.json) |
 | Edge of Atlantis | 28946 | [28946-edge-of-atlantis.json](./28946-edge-of-atlantis.json) |
 | Edge of Book | 130229 | [130229-edge-of-book.json](./130229-edge-of-book.json) |
+| Edge of Chaos | 112081 | [112081-edge-of-chaos.json](./112081-edge-of-chaos.json) |
 | Edge of Collapse | 214387 | [214387-edge-of-collapse.json](./214387-edge-of-collapse.json) |
 | Edge of Dawn | 135799 | [135799-edge-of-dawn.json](./135799-edge-of-dawn.json) |
 | Edge of Dead: Under a Uranium Sky | 150597 | [150597-edge-of-dead-under-a-uranium-sky.json](./150597-edge-of-dead-under-a-uranium-sky.json) |
