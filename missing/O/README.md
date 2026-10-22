@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh That's Why | 381951 | [381951-oh-thats-why.json](./381951-oh-thats-why.json) |
 | Oh the Humanity! | 311481 | [311481-oh-the-humanity.json](./311481-oh-the-humanity.json) |
 | Oh to be a ghost bringing a scarf to my beloved | 307696 | [307696-oh-to-be-a-ghost-bringing-a-scarf-to-my-beloved.json](./307696-oh-to-be-a-ghost-bringing-a-scarf-to-my-beloved.json) |
+| Oh Trap! | 113411 | [113411-oh-trap.json](./113411-oh-trap.json) |
 | Oh Yeah | 276628 | [276628-oh-yeah.json](./276628-oh-yeah.json) |
 | Oh, Brave New “Red” World! | 197039 | [197039-oh-brave-new-red-world.json](./197039-oh-brave-new-red-world.json) |
 | Oh, Bugger! | 347679 | [347679-oh-bugger.json](./347679-oh-bugger.json) |
