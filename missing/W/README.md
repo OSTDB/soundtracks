@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wan Nyan Dobutsu Byouin: Suteki na Juui-San ni Narou! | 222539 | [222539-wan-nyan-dobutsu-byouin-suteki-na-juui-san-ni-narou.json](./222539-wan-nyan-dobutsu-byouin-suteki-na-juui-san-ni-narou.json) |
 | Wan Nyan Doubutsu Byouin | 275626 | [275626-wan-nyan-doubutsu-byouin.json](./275626-wan-nyan-doubutsu-byouin.json) |
 | Wan Nyan Doubutsu Byouin | 275628 | [275628-wan-nyan-doubutsu-byouin.json](./275628-wan-nyan-doubutsu-byouin.json) |
+| Wan Nyan Doubutsu Byouin 2 | 141690 | [141690-wan-nyan-doubutsu-byouin-2.json](./141690-wan-nyan-doubutsu-byouin-2.json) |
 | Wan Nyan Doubutsu Byouin: Pet no Oisha-san ni Narou! | 136863 | [136863-wan-nyan-doubutsu-byouin-pet-no-oisha-san-ni-narou.json](./136863-wan-nyan-doubutsu-byouin-pet-no-oisha-san-ni-narou.json) |
 | Wan Nyan Pet Shop | 275625 | [275625-wan-nyan-pet-shop.json](./275625-wan-nyan-pet-shop.json) |
 | Wan Nyan Slash | 123027 | [123027-wan-nyan-slash.json](./123027-wan-nyan-slash.json) |
@@ -5993,6 +5994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worddate | 202045 | [202045-worddate.json](./202045-worddate.json) |
 | Wordeal | 183811 | [183811-wordeal.json](./183811-wordeal.json) |
 | Worded! | 233051 | [233051-worded.json](./233051-worded.json) |
+| Wordeous | 141694 | [141694-wordeous.json](./141694-wordeous.json) |
 | Worder | 116852 | [116852-worder.json](./116852-worder.json) |
 | WordFall | 186666 | [186666-wordfall.json](./186666-wordfall.json) |
 | Wordfish | 178304 | [178304-wordfish.json](./178304-wordfish.json) |
