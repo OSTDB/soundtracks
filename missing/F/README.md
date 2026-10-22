@@ -1800,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 3: Insane Edition | 142163 | [142163-far-cry-3-insane-edition.json](./142163-far-cry-3-insane-edition.json) |
 | Far Cry 3: Monkey Business | 229538 | [229538-far-cry-3-monkey-business.json](./229538-far-cry-3-monkey-business.json) |
 | Far Cry 3: The Lost Expeditions Edition | 142159 | [142159-far-cry-3-the-lost-expeditions-edition.json](./142159-far-cry-3-the-lost-expeditions-edition.json) |
+| Far Cry 3: Ultimate Edition | 99950 | [99950-far-cry-3-ultimate-edition.json](./99950-far-cry-3-ultimate-edition.json) |
 | Far Cry 3: Wish You Were Here Edition | 51544 | [51544-far-cry-3-wish-you-were-here-edition.json](./51544-far-cry-3-wish-you-were-here-edition.json) |
 | Far Cry 4 + Far Cry Primal Double Pack | 136307 | [136307-far-cry-4-far-cry-primal-double-pack.json](./136307-far-cry-4-far-cry-primal-double-pack.json) |
 | Far Cry 4 + Far Cry: Primal Bundle | 164801 | [164801-far-cry-4-far-cry-primal-bundle.json](./164801-far-cry-4-far-cry-primal-bundle.json) |
@@ -9954,6 +9955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Cortex | 16521 | [16521-frozen-cortex.json](./16521-frozen-cortex.json) |
 | Frozen Depths | 67632 | [67632-frozen-depths.json](./67632-frozen-depths.json) |
 | Frozen Dragon Gems | 96849 | [96849-frozen-dragon-gems.json](./96849-frozen-dragon-gems.json) |
+| Frozen Dragon Gems Unlocked | 100029 | [100029-frozen-dragon-gems-unlocked.json](./100029-frozen-dragon-gems-unlocked.json) |
 | Frozen Drift Race | 30185 | [30185-frozen-drift-race.json](./30185-frozen-drift-race.json) |
 | Frozen Echo | 414115 | [414115-frozen-echo.json](./414115-frozen-echo.json) |
 | Frozen Feathers | 362266 | [362266-frozen-feathers.json](./362266-frozen-feathers.json) |
