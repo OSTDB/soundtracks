@@ -1195,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Inquisitor - Martyr: Forgotten Arsenal | 149316 | [149316-warhammer-40-000-inquisitor-martyr-forgotten-arsenal.json](./149316-warhammer-40-000-inquisitor-martyr-forgotten-arsenal.json) |
 | Warhammer 40,000: Inquisitor - Martyr: Grim Penance | 149306 | [149306-warhammer-40-000-inquisitor-martyr-grim-penance.json](./149306-warhammer-40-000-inquisitor-martyr-grim-penance.json) |
 | Warhammer 40,000: Inquisitor - Martyr: Hollow Bliss | 149308 | [149308-warhammer-40-000-inquisitor-martyr-hollow-bliss.json](./149308-warhammer-40-000-inquisitor-martyr-hollow-bliss.json) |
+| Warhammer 40,000: Inquisitor - Martyr: Imperium Edition | 100550 | [100550-warhammer-40-000-inquisitor-martyr-imperium-edition.json](./100550-warhammer-40-000-inquisitor-martyr-imperium-edition.json) |
 | Warhammer 40,000: Inquisitor - Martyr: Maelstrom of Carnage | 149315 | [149315-warhammer-40-000-inquisitor-martyr-maelstrom-of-carnage.json](./149315-warhammer-40-000-inquisitor-martyr-maelstrom-of-carnage.json) |
 | Warhammer 40,000: Inquisitor - Martyr: Mind Plague | 149304 | [149304-warhammer-40-000-inquisitor-martyr-mind-plague.json](./149304-warhammer-40-000-inquisitor-martyr-mind-plague.json) |
 | Warhammer 40,000: Inquisitor - Martyr: Poisoned Souls | 149312 | [149312-warhammer-40-000-inquisitor-martyr-poisoned-souls.json](./149312-warhammer-40-000-inquisitor-martyr-poisoned-souls.json) |
@@ -5908,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Crack | 402312 | [402312-word-crack.json](./402312-word-crack.json) |
 | Word Craft | 205889 | [205889-word-craft.json](./205889-word-craft.json) |
 | Word Cross - Word Cheese | 107582 | [107582-word-cross-word-cheese.json](./107582-word-cross-word-cheese.json) |
+| Word Cross Farm: Search Games | 100655 | [100655-word-cross-farm-search-games.json](./100655-word-cross-farm-search-games.json) |
 | Word Crossy: A crossword game | 88767 | [88767-word-crossy-a-crossword-game.json](./88767-word-crossy-a-crossword-game.json) |
 | Word Crush | 78150 | [78150-word-crush.json](./78150-word-crush.json) |
 | Word Crush Hidden | 154911 | [154911-word-crush-hidden.json](./154911-word-crush-hidden.json) |
