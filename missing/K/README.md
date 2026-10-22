@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katagiri-san is Relying on Me | 372818 | [372818-katagiri-san-is-relying-on-me.json](./372818-katagiri-san-is-relying-on-me.json) |
 | Katagiri-san is Very Cold | 372817 | [372817-katagiri-san-is-very-cold.json](./372817-katagiri-san-is-very-cold.json) |
 | Katahane | 65595 | [65595-katahane.json](./65595-katahane.json) |
+| Katahane: An' Call Belle | 148267 | [148267-katahane-an-call-belle.json](./148267-katahane-an-call-belle.json) |
 | Katakis | 12652 | [12652-katakis.json](./12652-katakis.json) |
 | Katakoi Contrast: Collection of Branch | 136974 | [136974-katakoi-contrast-collection-of-branch.json](./136974-katakoi-contrast-collection-of-branch.json) |
 | Katakoi Contrast: Way of Parting Vol.1 | 116380 | [116380-katakoi-contrast-way-of-parting-vol-1.json](./116380-katakoi-contrast-way-of-parting-vol-1.json) |
