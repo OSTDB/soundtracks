@@ -5514,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowtime | 336860 | [336860-shadowtime.json](./336860-shadowtime.json) |
 | Shadowvane | 254781 | [254781-shadowvane.json](./254781-shadowvane.json) |
 | Shadowveil: Legend of The Five Rings | 321163 | [321163-shadowveil-legend-of-the-five-rings.json](./321163-shadowveil-legend-of-the-five-rings.json) |
+| Shadowverse: Champion's Battle | 134301 | [134301-shadowverse-champions-battle.json](./134301-shadowverse-champions-battle.json) |
 | Shadowverse: Wonderland Dreams | 37072 | [37072-shadowverse-wonderland-dreams.json](./37072-shadowverse-wonderland-dreams.json) |
 | Shadowverse: Worlds Beyond | 339985 | [339985-shadowverse-worlds-beyond.json](./339985-shadowverse-worlds-beyond.json) |
 | Shadwen | 14747 | [14747-shadwen.json](./14747-shadwen.json) |
@@ -9534,6 +9535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skip's Sanity | 99072 | [99072-skips-sanity.json](./99072-skips-sanity.json) |
 | Skipchaser | 31927 | [31927-skipchaser.json](./31927-skipchaser.json) |
 | Skiplit | 27799 | [27799-skiplit.json](./27799-skiplit.json) |
+| Skipp and Friends: Unexpected Journey | 134285 | [134285-skipp-and-friends-unexpected-journey.json](./134285-skipp-and-friends-unexpected-journey.json) |
 | Skipper & Skeeto: The Shadow of Mr. Shade | 22353 | [22353-skipper-and-skeeto-the-shadow-of-mr-shade.json](./22353-skipper-and-skeeto-the-shadow-of-mr-shade.json) |
 | Skipper 2 | 395724 | [395724-skipper-2.json](./395724-skipper-2.json) |
 | Skippy Cat | 60999 | [60999-skippy-cat.json](./60999-skippy-cat.json) |
@@ -15520,6 +15522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Station Oblivion | 12059 | [12059-space-station-oblivion.json](./12059-space-station-oblivion.json) |
 | Space Station Proto Speedmap Jam | 300420 | [300420-space-station-proto-speedmap-jam.json](./300420-space-station-proto-speedmap-jam.json) |
 | Space Station Racer | 197698 | [197698-space-station-racer.json](./197698-space-station-racer.json) |
+| Space Station Silicon Valley | 134275 | [134275-space-station-silicon-valley.json](./134275-space-station-silicon-valley.json) |
 | Space Station Silicon Valley | 3602 | [3602-space-station-silicon-valley.json](./3602-space-station-silicon-valley.json) |
 | Space Station Sprint | 141140 | [141140-space-station-sprint.json](./141140-space-station-sprint.json) |
 | Space Station: Frontier | 233545 | [233545-space-station-frontier.json](./233545-space-station-frontier.json) |
@@ -17262,6 +17265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splitz | 271376 | [271376-splitz.json](./271376-splitz.json) |
 | Splix.io | 57900 | [57900-splix-io.json](./57900-splix-io.json) |
 | Splodey | 282965 | [282965-splodey.json](./282965-splodey.json) |
+| Splodey Vaders | 134262 | [134262-splodey-vaders.json](./134262-splodey-vaders.json) |
 | Splodge Royale | 190166 | [190166-splodge-royale.json](./190166-splodge-royale.json) |
 | Splort | 312175 | [312175-splort.json](./312175-splort.json) |
 | Splosion Man | 8354 | [8354-splosion-man.json](./8354-splosion-man.json) |
@@ -17352,6 +17356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Revenge of the Flying Dutchman | 2762 | [2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json](./2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json) |
 | Spongebob Squarepants: Shrink n' Sink Golf | 394537 | [394537-spongebob-squarepants-shrink-n-sink-golf.json](./394537-spongebob-squarepants-shrink-n-sink-golf.json) |
 | SpongeBob SquarePants: Spatula Collector | 350775 | [350775-spongebob-squarepants-spatula-collector.json](./350775-spongebob-squarepants-spatula-collector.json) |
+| SpongeBob SquarePants: SpongeBob Saves the Day! | 134309 | [134309-spongebob-squarepants-spongebob-saves-the-day.json](./134309-spongebob-squarepants-spongebob-saves-the-day.json) |
 | SpongeBob SquarePants: SuperSponge | 248626 | [248626-spongebob-squarepants-supersponge.json](./248626-spongebob-squarepants-supersponge.json) |
 | SpongeBob SquarePants: The Clam Prix | 230402 | [230402-spongebob-squarepants-the-clam-prix.json](./230402-spongebob-squarepants-the-clam-prix.json) |
 | SpongeBob SquarePants: The Cosmic Shake | 171219 | [171219-spongebob-squarepants-the-cosmic-shake.json](./171219-spongebob-squarepants-the-cosmic-shake.json) |
@@ -19300,6 +19305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust Defenders | 251970 | [251970-stardust-defenders.json](./251970-stardust-defenders.json) |
 | Stardust Demon | 291687 | [291687-stardust-demon.json](./291687-stardust-demon.json) |
 | Stardust Escape | 373158 | [373158-stardust-escape.json](./373158-stardust-escape.json) |
+| Stardust Falls | 134264 | [134264-stardust-falls.json](./134264-stardust-falls.json) |
 | Stardust League | 222391 | [222391-stardust-league.json](./222391-stardust-league.json) |
 | Stardust Odyssey | 122994 | [122994-stardust-odyssey.json](./122994-stardust-odyssey.json) |
 | Stardust Rain | 274965 | [274965-stardust-rain.json](./274965-stardust-rain.json) |
@@ -20362,6 +20368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stela | 116125 | [116125-stela.json](./116125-stela.json) |
 | Stela Boss | 334324 | [334324-stela-boss.json](./334324-stela-boss.json) |
 | Stelarace | 245851 | [245851-stelarace.json](./245851-stelarace.json) |
+| Stele | 134315 | [134315-stele.json](./134315-stele.json) |
 | Stele | 339664 | [339664-stele.json](./339664-stele.json) |
 | Stell-A-Sketch | 40692 | [40692-stell-a-sketch.json](./40692-stell-a-sketch.json) |
 | Stell-A-Sketch/Okie Dokie | 93217 | [93217-stell-a-sketch-okie-dokie.json](./93217-stell-a-sketch-okie-dokie.json) |
@@ -23607,6 +23614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Arcade Soccer | 115136 | [115136-super-arcade-soccer.json](./115136-super-arcade-soccer.json) |
 | Super Arcade Soccer 2021 | 140421 | [140421-super-arcade-soccer-2021.json](./140421-super-arcade-soccer-2021.json) |
 | Super Arcade Soccer 2026 | 405743 | [405743-super-arcade-soccer-2026.json](./405743-super-arcade-soccer-2026.json) |
+| Super Armand | 134266 | [134266-super-armand.json](./134266-super-armand.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - XPack II: Call of Koithulhu | 172367 | [172367-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-xpack-ii-call-of-koithulhu.json](./172367-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-xpack-ii-call-of-koithulhu.json) |
 | Super Arter | 287022 | [287022-super-arter.json](./287022-super-arter.json) |
@@ -23781,6 +23789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Castlevania IV | 1124 | [1124-super-castlevania-iv.json](./1124-super-castlevania-iv.json) |
 | Super Castlevania IV: Other Castle | 309603 | [309603-super-castlevania-iv-other-castle.json](./309603-super-castlevania-iv-other-castle.json) |
 | Super Cat Herding: Totally Awesome Edition | 33084 | [33084-super-cat-herding-totally-awesome-edition.json](./33084-super-cat-herding-totally-awesome-edition.json) |
+| Super Cat Planet | 134314 | [134314-super-cat-planet.json](./134314-super-cat-planet.json) |
 | Super Cat Tales | 96155 | [96155-super-cat-tales.json](./96155-super-cat-tales.json) |
 | Super Cat Tales: Paws | 250999 | [250999-super-cat-tales-paws.json](./250999-super-cat-tales-paws.json) |
 | Super Cat the Builder | 386332 | [386332-super-cat-the-builder.json](./386332-super-cat-the-builder.json) |
@@ -24581,6 +24590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros: Impending Doom | 336103 | [336103-super-mario-bros-impending-doom.json](./336103-super-mario-bros-impending-doom.json) |
 | Super Mario Bros: Merry Mountain Christmas Adventure - SMW Christmas Edition V3.0 | 229679 | [229679-super-mario-bros-merry-mountain-christmas-adventure-smw-christmas-edition-v3-0.json](./229679-super-mario-bros-merry-mountain-christmas-adventure-smw-christmas-edition-v3-0.json) |
 | Super Mario Bros: Mythical Mushrooms | 320224 | [320224-super-mario-bros-mythical-mushrooms.json](./320224-super-mario-bros-mythical-mushrooms.json) |
+| Super Mario Bros: Odyssey - Chapter 1 | 134294 | [134294-super-mario-bros-odyssey-chapter-1.json](./134294-super-mario-bros-odyssey-chapter-1.json) |
 | Super Mario Bros: Restless Reality | 320223 | [320223-super-mario-bros-restless-reality.json](./320223-super-mario-bros-restless-reality.json) |
 | Super Mario Bros: Revenge of Bowser | 250056 | [250056-super-mario-bros-revenge-of-bowser.json](./250056-super-mario-bros-revenge-of-bowser.json) |
 | Super Mario Bros: The Early Years | 268364 | [268364-super-mario-bros-the-early-years.json](./268364-super-mario-bros-the-early-years.json) |
@@ -24620,6 +24630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. All-Star Quest | 135132 | [135132-super-mario-bros-all-star-quest.json](./135132-super-mario-bros-all-star-quest.json) |
 | Super Mario Bros. Crossover | 8734 | [8734-super-mario-bros-crossover.json](./8734-super-mario-bros-crossover.json) |
 | Super Mario Bros. Crowd Control | 242112 | [242112-super-mario-bros-crowd-control.json](./242112-super-mario-bros-crowd-control.json) |
+| Super Mario Bros. DDX | 134295 | [134295-super-mario-bros-ddx.json](./134295-super-mario-bros-ddx.json) |
 | Super Mario Bros. Deluxe | 49877 | [49877-super-mario-bros-deluxe.json](./49877-super-mario-bros-deluxe.json) |
 | Super Mario Bros. Dimensions | 134074 | [134074-super-mario-bros-dimensions.json](./134074-super-mario-bros-dimensions.json) |
 | Super Mario Bros. Dimensions 2 | 134959 | [134959-super-mario-bros-dimensions-2.json](./134959-super-mario-bros-dimensions-2.json) |
@@ -24809,6 +24820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Star Scramble 3 | 215250 | [215250-super-mario-star-scramble-3.json](./215250-super-mario-star-scramble-3.json) |
 | Super Mario Star Scramble Jam | 370297 | [370297-super-mario-star-scramble-jam.json](./370297-super-mario-star-scramble-jam.json) |
 | Super Mario Star World | 185685 | [185685-super-mario-star-world.json](./185685-super-mario-star-world.json) |
+| Super Mario Stardust | 134296 | [134296-super-mario-stardust.json](./134296-super-mario-stardust.json) |
 | Super Mario Starlight | 273867 | [273867-super-mario-starlight.json](./273867-super-mario-starlight.json) |
 | Super Mario Starshine | 223050 | [223050-super-mario-starshine.json](./223050-super-mario-starshine.json) |
 | Super Mario Storm I | 324681 | [324681-super-mario-storm-i.json](./324681-super-mario-storm-i.json) |
