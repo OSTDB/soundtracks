@@ -1015,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Stone Knights | 251441 | [251441-magic-stone-knights.json](./251441-magic-stone-knights.json) |
 | Magic Storm | 310808 | [310808-magic-storm.json](./310808-magic-storm.json) |
 | Magic Streets | 335648 | [335648-magic-streets.json](./335648-magic-streets.json) |
+| Magic Sudoku | 137875 | [137875-magic-sudoku.json](./137875-magic-sudoku.json) |
 | Magic Summoning Adventure | 154014 | [154014-magic-summoning-adventure.json](./154014-magic-summoning-adventure.json) |
 | Magic Survival | 188606 | [188606-magic-survival.json](./188606-magic-survival.json) |
 | Magic Survivor Undead | 333399 | [333399-magic-survivor-undead.json](./333399-magic-survivor-undead.json) |
@@ -4834,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Machina | 119646 | [119646-maze-machina.json](./119646-maze-machina.json) |
 | Maze Madness | 101598 | [101598-maze-madness.json](./101598-maze-madness.json) |
 | Maze Maid | 287656 | [287656-maze-maid.json](./287656-maze-maid.json) |
+| Maze Mania | 137858 | [137858-maze-mania.json](./137858-maze-mania.json) |
 | Maze Mart | 208248 | [208248-maze-mart.json](./208248-maze-mart.json) |
 | Maze Master | 94010 | [94010-maze-master.json](./94010-maze-master.json) |
 | Maze Masters | 148913 | [148913-maze-masters.json](./148913-maze-masters.json) |
@@ -5381,6 +5383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot 7: Kuwagata Version | 83882 | [83882-medarot-7-kuwagata-version.json](./83882-medarot-7-kuwagata-version.json) |
 | Medarot 8: Kabuto Version | 138117 | [138117-medarot-8-kabuto-version.json](./138117-medarot-8-kabuto-version.json) |
 | Medarot 9 Kabuto/Kuwagata | 59661 | [59661-medarot-9-kabuto-kuwagata.json](./59661-medarot-9-kabuto-kuwagata.json) |
+| Medarot 9: Kabuto Version | 138065 | [138065-medarot-9-kabuto-version.json](./138065-medarot-9-kabuto-version.json) |
 | Medarot Cardrobottle: Kabuto Version | 66551 | [66551-medarot-cardrobottle-kabuto-version.json](./66551-medarot-cardrobottle-kabuto-version.json) |
 | Medarot Cardrobottle: Kuwagata Version | 228618 | [228618-medarot-cardrobottle-kuwagata-version.json](./228618-medarot-cardrobottle-kuwagata-version.json) |
 | Medarot Classics | 71577 | [71577-medarot-classics.json](./71577-medarot-classics.json) |
@@ -8177,6 +8180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Miners | 74338 | [74338-micro-miners.json](./74338-micro-miners.json) |
 | Micro Monster Park | 105874 | [105874-micro-monster-park.json](./105874-micro-monster-park.json) |
 | Micro Monster Truck | 91352 | [91352-micro-monster-truck.json](./91352-micro-monster-truck.json) |
+| Micro Mouse | 138087 | [138087-micro-mouse.json](./138087-micro-mouse.json) |
 | Micro Mouse Game | 91957 | [91957-micro-mouse-game.json](./91957-micro-mouse-game.json) |
 | Micro Murder: But It's Robots So It's OK | 181238 | [181238-micro-murder-but-its-robots-so-its-ok.json](./181238-micro-murder-but-its-robots-so-its-ok.json) |
 | Micro Ninja | 314647 | [314647-micro-ninja.json](./314647-micro-ninja.json) |
@@ -8963,6 +8967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko Monogatari! | 222277 | [222277-miko-monogatari.json](./222277-miko-monogatari.json) |
 | Miko no Kanata: Curious Tales from Oguni Shrine - Cycles | 211055 | [211055-miko-no-kanata-curious-tales-from-oguni-shrine-cycles.json](./211055-miko-no-kanata-curious-tales-from-oguni-shrine-cycles.json) |
 | Miko no Kanata: Curious Tales from Oguni Shrine - Zero | 387081 | [387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json](./387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json) |
+| Miko to Akemi no Jungle Adventures | 137855 | [137855-miko-to-akemi-no-jungle-adventures.json](./137855-miko-to-akemi-no-jungle-adventures.json) |
 | Miko x Miko Sisters: Kagura-kei no Miko to Akuryou | 333522 | [333522-miko-x-miko-sisters-kagura-kei-no-miko-to-akuryou.json](./333522-miko-x-miko-sisters-kagura-kei-no-miko-to-akuryou.json) |
 | Miko-san Fighter! Ryouko-chan | 395756 | [395756-miko-san-fighter-ryouko-chan.json](./395756-miko-san-fighter-ryouko-chan.json) |
 | Miko-san no Miracle Board | 374956 | [374956-miko-san-no-miracle-board.json](./374956-miko-san-no-miracle-board.json) |
@@ -15123,6 +15128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushy Score | 257694 | [257694-mushy-score.json](./257694-mushy-score.json) |
 | Musi-Chance | 190906 | [190906-musi-chance.json](./190906-musi-chance.json) |
 | Music 2002: Club Edition | 144600 | [144600-music-2002-club-edition.json](./144600-music-2002-club-edition.json) |
+| Music Ball | 137865 | [137865-music-ball.json](./137865-music-ball.json) |
 | Music Band Manager | 82312 | [82312-music-band-manager.json](./82312-music-band-manager.json) |
 | Music Box | 309035 | [309035-music-box.json](./309035-music-box.json) |
 | Music Box: Electro Pop | 316232 | [316232-music-box-electro-pop.json](./316232-music-box-electro-pop.json) |
