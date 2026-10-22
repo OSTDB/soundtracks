@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 03.04 | 113188 | [113188-03-04.json](./113188-03-04.json) |
 | 07Gorillas | 325492 | [325492-07gorillas.json](./325492-07gorillas.json) |
 | 07th Theater | 258995 | [258995-07th-theater.json](./258995-07th-theater.json) |
+| 0h h1 | 135741 | [135741-0h-h1.json](./135741-0h-h1.json) |
 | 0h N0 | 229251 | [229251-0h-n0.json](./229251-0h-n0.json) |
 | 0Hz Zero Hertz | 216771 | [216771-0hz-zero-hertz.json](./216771-0hz-zero-hertz.json) |
 | 0rbitalis | 9583 | [9583-0rbitalis.json](./9583-0rbitalis.json) |
@@ -1670,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 35 Electric | 382899 | [382899-35-electric.json](./382899-35-electric.json) |
 | 3594e: Sangokushi Eiga | 80633 | [80633-3594e-sangokushi-eiga.json](./80633-3594e-sangokushi-eiga.json) |
 | 35MM | 19396 | [19396-35mm.json](./19396-35mm.json) |
+| 36 Days a Week | 135493 | [135493-36-days-a-week.json](./135493-36-days-a-week.json) |
 | 36 Nights | 277942 | [277942-36-nights.json](./277942-36-nights.json) |
 | 36 Zodiac Cycles | 362407 | [362407-36-zodiac-cycles.json](./362407-36-zodiac-cycles.json) |
 | 360 | 178446 | [178446-360.json](./178446-360.json) |
