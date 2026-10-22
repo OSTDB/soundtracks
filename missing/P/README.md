@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemonia | 317530 | [317530-pandemonia.json](./317530-pandemonia.json) |
 | Pandemonium | 128466 | [128466-pandemonium.json](./128466-pandemonium.json) |
 | Pandemonium 2 | 6269 | [6269-pandemonium-2.json](./6269-pandemonium-2.json) |
+| Pandemos | 150543 | [150543-pandemos.json](./150543-pandemos.json) |
 | Pando Engines | 211193 | [211193-pando-engines.json](./211193-pando-engines.json) |
 | Pandoland | 306675 | [306675-pandoland.json](./306675-pandoland.json) |
 | Pandora | 15334 | [15334-pandora.json](./15334-pandora.json) |
@@ -3121,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Cafe | 132184 | [132184-penguin-cafe.json](./132184-penguin-cafe.json) |
 | Penguin Chat 2 | 353302 | [353302-penguin-chat-2.json](./353302-penguin-chat-2.json) |
 | Penguin Chat 3 | 227928 | [227928-penguin-chat-3.json](./227928-penguin-chat-3.json) |
+| Penguin Climbing | 150387 | [150387-penguin-climbing.json](./150387-penguin-climbing.json) |
 | Penguin Colony | 354409 | [354409-penguin-colony.json](./354409-penguin-colony.json) |
 | Penguin Detectives: Crash Patrol | 317555 | [317555-penguin-detectives-crash-patrol.json](./317555-penguin-detectives-crash-patrol.json) |
 | Penguin Escape | 326236 | [326236-penguin-escape.json](./326236-penguin-escape.json) |
@@ -5900,6 +5902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate's Gold | 193272 | [193272-pirates-gold.json](./193272-pirates-gold.json) |
 | Pirate's Pension | 176304 | [176304-pirates-pension.json](./176304-pirates-pension.json) |
 | Pirate's Solitaire | 195715 | [195715-pirates-solitaire.json](./195715-pirates-solitaire.json) |
+| Piratecraft | 150410 | [150410-piratecraft.json](./150410-piratecraft.json) |
 | Pirated Code | 179612 | [179612-pirated-code.json](./179612-pirated-code.json) |
 | Pirated Code: Admin Edition | 212187 | [212187-pirated-code-admin-edition.json](./212187-pirated-code-admin-edition.json) |
 | Pirateer: High Seas | 253575 | [253575-pirateer-high-seas.json](./253575-pirateer-high-seas.json) |
@@ -10164,6 +10167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postcat Caitsith | 194318 | [194318-postcat-caitsith.json](./194318-postcat-caitsith.json) |
 | Postcodeloterij Deal or No Deal: Het Interactive DVD-Spel | 319736 | [319736-postcodeloterij-deal-or-no-deal-het-interactive-dvd-spel.json](./319736-postcodeloterij-deal-or-no-deal-het-interactive-dvd-spel.json) |
 | PostCollapse | 31888 | [31888-postcollapse.json](./31888-postcollapse.json) |
+| Poster Sticker | 150392 | [150392-poster-sticker.json](./150392-poster-sticker.json) |
 | Posterdle | 246235 | [246235-posterdle.json](./246235-posterdle.json) |
 | Postfrost | 247751 | [247751-postfrost.json](./247751-postfrost.json) |
 | Posthaste | 264569 | [264569-posthaste.json](./264569-posthaste.json) |
@@ -13746,6 +13750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pursuit of Light | 104272 | [104272-pursuit-of-light.json](./104272-pursuit-of-light.json) |
 | Pursuit of Power 2 | 30866 | [30866-pursuit-of-power-2.json](./30866-pursuit-of-power-2.json) |
 | Pursuit of Redemption | 148979 | [148979-pursuit-of-redemption.json](./148979-pursuit-of-redemption.json) |
+| Pursuit of the Bookkeeper | 150412 | [150412-pursuit-of-the-bookkeeper.json](./150412-pursuit-of-the-bookkeeper.json) |
 | Puru-Chara Friends: Hoppe-chan to Sanrio Characters | 115185 | [115185-puru-chara-friends-hoppe-chan-to-sanrio-characters.json](./115185-puru-chara-friends-hoppe-chan-to-sanrio-characters.json) |
 | Purumui Purumui | 143677 | [143677-purumui-purumui.json](./143677-purumui-purumui.json) |
 | Pururun! Shizuku-chan: Asonde Tanoshiku Nouryoku Up | 327618 | [327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json](./327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json) |
