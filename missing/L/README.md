@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands of Lore: The Throne of Chaos | 2528 | [2528-lands-of-lore-the-throne-of-chaos.json](./2528-lands-of-lore-the-throne-of-chaos.json) |
 | Lands of Mine | 364867 | [364867-lands-of-mine.json](./364867-lands-of-mine.json) |
 | Lands of Peace: Legends - Chapter 1 | 168864 | [168864-lands-of-peace-legends-chapter-1.json](./168864-lands-of-peace-legends-chapter-1.json) |
+| Lands of Pharaoh: Episode 1 | 126858 | [126858-lands-of-pharaoh-episode-1.json](./126858-lands-of-pharaoh-episode-1.json) |
 | Lands of Rage | 211821 | [211821-lands-of-rage.json](./211821-lands-of-rage.json) |
 | Lands of Raynar | 150904 | [150904-lands-of-raynar.json](./150904-lands-of-raynar.json) |
 | Lands of Ryuu | 211586 | [211586-lands-of-ryuu.json](./211586-lands-of-ryuu.json) |
@@ -1831,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lèdòng Dárén HD | 101473 | [101473-ledong-daren-hd.json](./101473-ledong-daren-hd.json) |
 | Lee Carvallo's Putting Challenge | 180781 | [180781-lee-carvallos-putting-challenge.json](./180781-lee-carvallos-putting-challenge.json) |
 | Lee Carvallo's Putting Challenge 2 | 308411 | [308411-lee-carvallos-putting-challenge-2.json](./308411-lee-carvallos-putting-challenge-2.json) |
+| Lee Inside TV | 126852 | [126852-lee-inside-tv.json](./126852-lee-inside-tv.json) |
 | Lee Trevino's Fighting Golf | 217735 | [217735-lee-trevinos-fighting-golf.json](./217735-lee-trevinos-fighting-golf.json) |
 | Lee-Lee's Quest 2 | 165370 | [165370-lee-lees-quest-2.json](./165370-lee-lees-quest-2.json) |
 | Leedmees | 20158 | [20158-leedmees.json](./20158-leedmees.json) |
@@ -1998,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Empress | 255118 | [255118-legend-of-empress.json](./255118-legend-of-empress.json) |
 | Legend of Equip > Pants | 396346 | [396346-legend-of-equip-pants.json](./396346-legend-of-equip-pants.json) |
 | Legend of Etad | 208211 | [208211-legend-of-etad.json](./208211-legend-of-etad.json) |
+| Legend of Everything | 126827 | [126827-legend-of-everything.json](./126827-legend-of-everything.json) |
 | Legend of Fae | 16262 | [16262-legend-of-fae.json](./16262-legend-of-fae.json) |
 | Legend of Fairies | 73814 | [73814-legend-of-fairies.json](./73814-legend-of-fairies.json) |
 | Legend of Fighters | 62670 | [62670-legend-of-fighters.json](./62670-legend-of-fighters.json) |
