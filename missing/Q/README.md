@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadrobat | 209950 | [209950-quadrobat.json](./209950-quadrobat.json) |
 | Quadrofriend | 347172 | [347172-quadrofriend.json](./347172-quadrofriend.json) |
 | Quadroids | 264136 | [264136-quadroids.json](./264136-quadroids.json) |
+| Quadron | 113349 | [113349-quadron.json](./113349-quadron.json) |
 | Quadropus Rampage | 39180 | [39180-quadropus-rampage.json](./39180-quadropus-rampage.json) |
 | QuadroX-2 | 80242 | [80242-quadrox-2.json](./80242-quadrox-2.json) |
 | Quadrun | 40713 | [40713-quadrun.json](./40713-quadrun.json) |
@@ -772,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questlike | 93781 | [93781-questlike.json](./93781-questlike.json) |
 | Questlike: Pocket - Monster Hunt | 204228 | [204228-questlike-pocket-monster-hunt.json](./204228-questlike-pocket-monster-hunt.json) |
 | QuestLord | 38895 | [38895-questlord.json](./38895-questlord.json) |
+| QuestLord 2 | 113385 | [113385-questlord-2.json](./113385-questlord-2.json) |
 | QuestMania | 79305 | [79305-questmania.json](./79305-questmania.json) |
 | Questmore | 95970 | [95970-questmore.json](./95970-questmore.json) |
 | Questor's Quest | 59693 | [59693-questors-quest.json](./59693-questors-quest.json) |
