@@ -2310,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion of Evil | 346775 | [346775-legion-of-evil.json](./346775-legion-of-evil.json) |
 | Legion of Honor | 401925 | [401925-legion-of-honor.json](./401925-legion-of-honor.json) |
 | Legion of Judgment: Fallen Angel | 238755 | [238755-legion-of-judgment-fallen-angel.json](./238755-legion-of-judgment-fallen-angel.json) |
+| Legion of Scorn | 118056 | [118056-legion-of-scorn.json](./118056-legion-of-scorn.json) |
 | Legion of Valkyrie | 284250 | [284250-legion-of-valkyrie.json](./284250-legion-of-valkyrie.json) |
 | Legion Otherworld | 284428 | [284428-legion-otherworld.json](./284428-legion-otherworld.json) |
 | Legion Saga II | 383573 | [383573-legion-saga-ii.json](./383573-legion-saga-ii.json) |
