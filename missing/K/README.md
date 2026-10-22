@@ -2750,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms CCG | 17970 | [17970-kingdoms-ccg.json](./17970-kingdoms-ccg.json) |
 | Kingdoms Conquer | 368054 | [368054-kingdoms-conquer.json](./368054-kingdoms-conquer.json) |
 | Kingdoms Fall | 41489 | [41489-kingdoms-fall.json](./41489-kingdoms-fall.json) |
+| Kingdoms Forlorn | 105067 | [105067-kingdoms-forlorn.json](./105067-kingdoms-forlorn.json) |
 | Kingdoms Hegemony | 387620 | [387620-kingdoms-hegemony.json](./387620-kingdoms-hegemony.json) |
 | Kingdoms of Amalur: Re-Reckoning - Collector’s Edition | 138200 | [138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json](./138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json) |
 | Kingdoms of Amalur: Re-Reckoning - Fate Edition | 138198 | [138198-kingdoms-of-amalur-re-reckoning-fate-edition.json](./138198-kingdoms-of-amalur-re-reckoning-fate-edition.json) |
