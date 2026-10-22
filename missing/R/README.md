@@ -5324,6 +5324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Defender | 118263 | [118263-rhythm-defender.json](./118263-rhythm-defender.json) |
 | Rhythm Dodge | 257999 | [257999-rhythm-dodge.json](./257999-rhythm-dodge.json) |
 | Rhythm Drive: Synthwave City | 237202 | [237202-rhythm-drive-synthwave-city.json](./237202-rhythm-drive-synthwave-city.json) |
+| Rhythm Fighter | 129413 | [129413-rhythm-fighter.json](./129413-rhythm-fighter.json) |
 | Rhythm Flash | 234445 | [234445-rhythm-flash.json](./234445-rhythm-flash.json) |
 | Rhythm Girl | 90070 | [90070-rhythm-girl.json](./90070-rhythm-girl.json) |
 | Rhythm Good | 216207 | [216207-rhythm-good.json](./216207-rhythm-good.json) |
@@ -8456,6 +8457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftops & Alleys: The Parkour Game | 279900 | [279900-rooftops-and-alleys-the-parkour-game.json](./279900-rooftops-and-alleys-the-parkour-game.json) |
 | Roogoo Attack! | 21242 | [21242-roogoo-attack.json](./21242-roogoo-attack.json) |
 | Roogoo Twisted Towers! | 21248 | [21248-roogoo-twisted-towers.json](./21248-roogoo-twisted-towers.json) |
+| Rook | 129441 | [129441-rook.json](./129441-rook.json) |
 | Rook | 359282 | [359282-rook.json](./359282-rook.json) |
 | Rookfall | 174617 | [174617-rookfall.json](./174617-rookfall.json) |
 | Rookie Bowman | 165758 | [165758-rookie-bowman.json](./165758-rookie-bowman.json) |
