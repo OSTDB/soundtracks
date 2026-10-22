@@ -7427,6 +7427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrineflow | 304434 | [304434-shrineflow.json](./304434-shrineflow.json) |
 | Shrines of Power | 278682 | [278682-shrines-of-power.json](./278682-shrines-of-power.json) |
 | Shrines of Sacred Essenсe | 110991 | [110991-shrines-of-sacred-essen-e.json](./110991-shrines-of-sacred-essen-e.json) |
+| ShrineSpark | 153770 | [153770-shrinespark.json](./153770-shrinespark.json) |
 | Shrink Assault | 264469 | [264469-shrink-assault.json](./264469-shrink-assault.json) |
 | Shrink Rooms | 339971 | [339971-shrink-rooms.json](./339971-shrink-rooms.json) |
 | Shrink with a Succubus | 397622 | [397622-shrink-with-a-succubus.json](./397622-shrink-with-a-succubus.json) |
@@ -10201,6 +10202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepless in the Sapphire City | 299864 | [299864-sleepless-in-the-sapphire-city.json](./299864-sleepless-in-the-sapphire-city.json) |
 | Sleepless Night | 172485 | [172485-sleepless-night.json](./172485-sleepless-night.json) |
 | Sleepless Night | 267252 | [267252-sleepless-night.json](./267252-sleepless-night.json) |
+| Sleepless: A Midsummer Night's Dream | 153779 | [153779-sleepless-a-midsummer-nights-dream.json](./153779-sleepless-a-midsummer-nights-dream.json) |
 | Sleepover | 113709 | [113709-sleepover.json](./113709-sleepover.json) |
 | Sleepover | 145908 | [145908-sleepover.json](./145908-sleepover.json) |
 | Sleepover | 401631 | [401631-sleepover.json](./401631-sleepover.json) |
@@ -19100,6 +19102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starborne: Sovereign Space | 75220 | [75220-starborne-sovereign-space.json](./75220-starborne-sovereign-space.json) |
 | Starbot | 133848 | [133848-starbot.json](./133848-starbot.json) |
 | Starbound | 3019 | [3019-starbound.json](./3019-starbound.json) |
+| StarBoy | 153800 | [153800-starboy.json](./153800-starboy.json) |
 | Starboy Adventures | 153532 | [153532-starboy-adventures.json](./153532-starboy-adventures.json) |
 | Starboy and the Captain of Outer Space: Mutant Hotdog Game | 396389 | [396389-starboy-and-the-captain-of-outer-space-mutant-hotdog-game.json](./396389-starboy-and-the-captain-of-outer-space-mutant-hotdog-game.json) |
 | Starboys | 393402 | [393402-starboys.json](./393402-starboys.json) |
@@ -20969,6 +20972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storekeeper Revenge | 220507 | [220507-storekeeper-revenge.json](./220507-storekeeper-revenge.json) |
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
 | Stories | 292753 | [292753-stories.json](./292753-stories.json) |
+| Stories and Smoke | 153799 | [153799-stories-and-smoke.json](./153799-stories-and-smoke.json) |
 | Stories From the Cores | 231774 | [231774-stories-from-the-cores.json](./231774-stories-from-the-cores.json) |
 | Stories in Glass: Winter | 274911 | [274911-stories-in-glass-winter.json](./274911-stories-in-glass-winter.json) |
 | Stories In Stone | 106434 | [106434-stories-in-stone.json](./106434-stories-in-stone.json) |
@@ -22100,6 +22104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Studium | 333708 | [333708-studium.json](./333708-studium.json) |
 | Study Arcade | 367497 | [367497-study-arcade.json](./367497-study-arcade.json) |
 | Study of Unusual: Forest of Secrets | 105184 | [105184-study-of-unusual-forest-of-secrets.json](./105184-study-of-unusual-forest-of-secrets.json) |
+| Study Steady | 153756 | [153756-study-steady.json](./153756-study-steady.json) |
 | Study Time Anomaly | 369597 | [369597-study-time-anomaly.json](./369597-study-time-anomaly.json) |
 | Stuff | 227755 | [227755-stuff.json](./227755-stuff.json) |
 | Stuff and Nonsense | 57488 | [57488-stuff-and-nonsense.json](./57488-stuff-and-nonsense.json) |
@@ -26660,6 +26665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzu to Mari no Bouken: The Ghost of Friend | 206176 | [206176-suzu-to-mari-no-bouken-the-ghost-of-friend.json](./206176-suzu-to-mari-no-bouken-the-ghost-of-friend.json) |
 | Suzuki Bakuhatsu | 43852 | [43852-suzuki-bakuhatsu.json](./43852-suzuki-bakuhatsu.json) |
 | Suzuki TT Superbikes: Real Road Racing | 20211 | [20211-suzuki-tt-superbikes-real-road-racing.json](./20211-suzuki-tt-superbikes-real-road-racing.json) |
+| Suzukuri Dungeon: Karin in the Mountain | 153812 | [153812-suzukuri-dungeon-karin-in-the-mountain.json](./153812-suzukuri-dungeon-karin-in-the-mountain.json) |
 | Suzume: Match 3 Puzzle | 255336 | [255336-suzume-match-3-puzzle.json](./255336-suzume-match-3-puzzle.json) |
 | Suzumiya Hachiruhi no Inyoku | 126321 | [126321-suzumiya-hachiruhi-no-inyoku.json](./126321-suzumiya-hachiruhi-no-inyoku.json) |
 | Suzumiya Haruhi No Datsui | 97512 | [97512-suzumiya-haruhi-no-datsui.json](./97512-suzumiya-haruhi-no-datsui.json) |
