@@ -1782,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanuki: Pon's Summer | 317817 | [317817-tanuki-pons-summer.json](./317817-tanuki-pons-summer.json) |
 | Tanuki's Dream | 307152 | [307152-tanukis-dream.json](./307152-tanukis-dream.json) |
 | Tanuki's Spring Walk | 229116 | [229116-tanukis-spring-walk.json](./229116-tanukis-spring-walk.json) |
+| TanukiTumble | 103143 | [103143-tanukitumble.json](./103143-tanukitumble.json) |
 | Tanx | 296009 | [296009-tanx.json](./296009-tanx.json) |
 | Tanx | 71058 | [71058-tanx.json](./71058-tanx.json) |
 | Tanya Grotter And Magic Double Bass | 366377 | [366377-tanya-grotter-and-magic-double-bass.json](./366377-tanya-grotter-and-magic-double-bass.json) |
@@ -1806,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap and Field | 175201 | [175201-tap-and-field.json](./175201-tap-and-field.json) |
 | Tap and Teach: The Story of Noah's Ark | 206616 | [206616-tap-and-teach-the-story-of-noahs-ark.json](./206616-tap-and-teach-the-story-of-noahs-ark.json) |
 | Tap Away | 230515 | [230515-tap-away.json](./230515-tap-away.json) |
+| Tap Beats Dubstep | 103119 | [103119-tap-beats-dubstep.json](./103119-tap-beats-dubstep.json) |
 | Tap Beats Jazz | 86917 | [86917-tap-beats-jazz.json](./86917-tap-beats-jazz.json) |
 | Tap Bingo | 232381 | [232381-tap-bingo.json](./232381-tap-bingo.json) |
 | Tap Blocks Out | 254746 | [254746-tap-blocks-out.json](./254746-tap-blocks-out.json) |
@@ -11757,6 +11759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Planets | 251367 | [251367-the-planets.json](./251367-the-planets.json) |
 | The Planner: Farming | 53764 | [53764-the-planner-farming.json](./53764-the-planner-farming.json) |
 | The Plant | 105135 | [105135-the-plant.json](./105135-the-plant.json) |
+| The Platypus' Search | 103116 | [103116-the-platypus-search.json](./103116-the-platypus-search.json) |
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
 | The Player RPG | 102121 | [102121-the-player-rpg.json](./102121-the-player-rpg.json) |
 | The Player Who Can't Level Up | 312830 | [312830-the-player-who-cant-level-up.json](./312830-the-player-who-cant-level-up.json) |
@@ -24477,6 +24480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trip's Voyage: Gem Rush | 309122 | [309122-trips-voyage-gem-rush.json](./309122-trips-voyage-gem-rush.json) |
 | TriPeaks | 282148 | [282148-tripeaks.json](./282148-tripeaks.json) |
 | TriPeaks Solitaire | 370438 | [370438-tripeaks-solitaire.json](./370438-tripeaks-solitaire.json) |
+| Tripeaks Solitaire Multi | 103099 | [103099-tripeaks-solitaire-multi.json](./103099-tripeaks-solitaire-multi.json) |
 | TriPeaks Solitaire: Card Game | 89185 | [89185-tripeaks-solitaire-card-game.json](./89185-tripeaks-solitaire-card-game.json) |
 | Tripgate | 142866 | [142866-tripgate.json](./142866-tripgate.json) |
 | Triphammer | 378920 | [378920-triphammer.json](./378920-triphammer.json) |
