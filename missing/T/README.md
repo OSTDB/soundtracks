@@ -4901,6 +4901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Batman: The Cobblebot Caper | 338352 | [338352-the-batman-the-cobblebot-caper.json](./338352-the-batman-the-cobblebot-caper.json) |
 | The Battle Cats | 59746 | [59746-the-battle-cats.json](./59746-the-battle-cats.json) |
 | The Battle Cats POP! | 19898 | [19898-the-battle-cats-pop.json](./19898-the-battle-cats-pop.json) |
+| The Battle Cats Unite! | 113359 | [113359-the-battle-cats-unite.json](./113359-the-battle-cats-unite.json) |
 | The Battle for Christmas | 326210 | [326210-the-battle-for-christmas.json](./326210-the-battle-for-christmas.json) |
 | The Battle for Murk | 102884 | [102884-the-battle-for-murk.json](./102884-the-battle-for-murk.json) |
 | The Battle for Sector 219 | 33184 | [33184-the-battle-for-sector-219.json](./33184-the-battle-for-sector-219.json) |
@@ -5809,6 +5810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Collider 2 | 18685 | [18685-the-collider-2.json](./18685-the-collider-2.json) |
 | The Colonel's Bequest | 12008 | [12008-the-colonels-bequest.json](./12008-the-colonels-bequest.json) |
 | The Colonists | 75065 | [75065-the-colonists.json](./75065-the-colonists.json) |
+| The Colony | 113413 | [113413-the-colony.json](./113413-the-colony.json) |
 | The Colony | 12411 | [12411-the-colony.json](./12411-the-colony.json) |
 | The Colony | 178020 | [178020-the-colony.json](./178020-the-colony.json) |
 | The Colony 2044 | 271081 | [271081-the-colony-2044.json](./271081-the-colony-2044.json) |
@@ -11098,7 +11100,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -11127,6 +11128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Necromancer's Castle | 82462 | [82462-the-necromancers-castle.json](./82462-the-necromancers-castle.json) |
 | The Necromancer's Pact | 302187 | [302187-the-necromancers-pact.json](./302187-the-necromancers-pact.json) |
 | The Necromancer's Tower | 297566 | [297566-the-necromancers-tower.json](./297566-the-necromancers-tower.json) |
+| The Ned Balls | 113393 | [113393-the-ned-balls.json](./113393-the-ned-balls.json) |
 | The Need for Speed | 90 | [90-the-need-for-speed.json](./90-the-need-for-speed.json) |
 | The Nefargad | 278871 | [278871-the-nefargad.json](./278871-the-nefargad.json) |
 | The Neighbor: Escape Room | 309505 | [309505-the-neighbor-escape-room.json](./309505-the-neighbor-escape-room.json) |
@@ -12659,6 +12661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Server | 405527 | [405527-the-server.json](./405527-the-server.json) |
 | The Servers Are Shutting Down in 24 Hours but My Pull Rate's Been Set to 0.0001%?! | 382984 | [382984-the-servers-are-shutting-down-in-24-hours-but-my-pull-rates-been-set-to-0-0001.json](./382984-the-servers-are-shutting-down-in-24-hours-but-my-pull-rates-been-set-to-0-0001.json) |
 | The Settlements | 259430 | [259430-the-settlements.json](./259430-the-settlements.json) |
+| The Settlers 5: History Edition | 113421 | [113421-the-settlers-5-history-edition.json](./113421-the-settlers-5-history-edition.json) |
 | The Settlers 7: History Edition | 114447 | [114447-the-settlers-7-history-edition.json](./114447-the-settlers-7-history-edition.json) |
 | The Settlers 7: Paths to a Kingdom - Conquest: The Empire Expansion | 225912 | [225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json](./225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json) |
 | The Settlers 7: Paths to a Kingdom - Gold Edition | 27863 | [27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json](./27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json) |
@@ -21307,6 +21310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Tactics Arena | 285534 | [285534-tower-tactics-arena.json](./285534-tower-tactics-arena.json) |
 | Tower Tactics II | 374368 | [374368-tower-tactics-ii.json](./374368-tower-tactics-ii.json) |
 | Tower Tactics: Astral Siege | 336624 | [336624-tower-tactics-astral-siege.json](./336624-tower-tactics-astral-siege.json) |
+| Tower Tank: TD Reversal | 113396 | [113396-tower-tank-td-reversal.json](./113396-tower-tank-td-reversal.json) |
 | Tower to Heaven | 173313 | [173313-tower-to-heaven.json](./173313-tower-to-heaven.json) |
 | Tower Up | 346547 | [346547-tower-up.json](./346547-tower-up.json) |
 | Tower VR | 121307 | [121307-tower-vr.json](./121307-tower-vr.json) |
