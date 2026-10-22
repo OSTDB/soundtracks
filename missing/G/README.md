@@ -5109,6 +5109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Construction Set | 119404 | [119404-golf-construction-set.json](./119404-golf-construction-set.json) |
 | Golf Daisuki! | 228552 | [228552-golf-daisuki.json](./228552-golf-daisuki.json) |
 | Golf Daisuki! O.B. Club | 134451 | [134451-golf-daisuki-o-b-club.json](./134451-golf-daisuki-o-b-club.json) |
+| Golf Defied | 118634 | [118634-golf-defied.json](./118634-golf-defied.json) |
 | Golf Dreams | 193708 | [193708-golf-dreams.json](./193708-golf-dreams.json) |
 | Golf Escape | 281387 | [281387-golf-escape.json](./281387-golf-escape.json) |
 | Golf Evolution Simulation | 265082 | [265082-golf-evolution-simulation.json](./265082-golf-evolution-simulation.json) |
