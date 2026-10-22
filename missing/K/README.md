@@ -2980,6 +2980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirigami | 183384 | [183384-kirigami.json](./183384-kirigami.json) |
 | Kirikou | 220785 | [220785-kirikou.json](./220785-kirikou.json) |
 | Kirikou | 50028 | [50028-kirikou.json](./50028-kirikou.json) |
+| Kirikou and the Wild Beasts | 131862 | [131862-kirikou-and-the-wild-beasts.json](./131862-kirikou-and-the-wild-beasts.json) |
 | Kirilma: Helix Horizon | 406847 | [406847-kirilma-helix-horizon.json](./406847-kirilma-helix-horizon.json) |
 | Kirisame Escape | 377363 | [377363-kirisame-escape.json](./377363-kirisame-escape.json) |
 | Kiritan Island Okawari! | 204731 | [204731-kiritan-island-okawari.json](./204731-kiritan-island-okawari.json) |
