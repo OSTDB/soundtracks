@@ -1191,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papaya Plaza | 403774 | [403774-papaya-plaza.json](./403774-papaya-plaza.json) |
 | Papaye Bang Bang VR | 256181 | [256181-papaye-bang-bang-vr.json](./256181-papaye-bang-bang-vr.json) |
 | Pape Rangers | 294131 | [294131-pape-rangers.json](./294131-pape-rangers.json) |
+| Paper - A Game of Folding | 123859 | [123859-paper-a-game-of-folding.json](./123859-paper-a-game-of-folding.json) |
 | Paper 2: Origami Refolded | 333641 | [333641-paper-2-origami-refolded.json](./333641-paper-2-origami-refolded.json) |
 | Paper Airplane Flying Game | 414452 | [414452-paper-airplane-flying-game.json](./414452-paper-airplane-flying-game.json) |
 | Paper Angel | 247522 | [247522-paper-angel.json](./247522-paper-angel.json) |
@@ -1664,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoid: Paranoiac | 201101 | [201101-paranoid-paranoiac.json](./201101-paranoid-paranoiac.json) |
 | Paranoid! | 325673 | [325673-paranoid.json](./325673-paranoid.json) |
 | Paranoide | 333371 | [333371-paranoide.json](./333371-paranoide.json) |
+| Paranoihell | 123826 | [123826-paranoihell.json](./123826-paranoihell.json) |
 | Paranoir | 354639 | [354639-paranoir.json](./354639-paranoir.json) |
 | Paranormal Activity: The Lost Soul | 32699 | [32699-paranormal-activity-the-lost-soul.json](./32699-paranormal-activity-the-lost-soul.json) |
 | Paranormal Activity: The VR Game | 25626 | [25626-paranormal-activity-the-vr-game.json](./25626-paranormal-activity-the-vr-game.json) |
@@ -2313,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Sin: Greed | 107734 | [107734-path-of-sin-greed.json](./107734-path-of-sin-greed.json) |
 | Path of Survival | 412274 | [412274-path-of-survival.json](./412274-path-of-survival.json) |
 | Path of Tengri | 202716 | [202716-path-of-tengri.json](./202716-path-of-tengri.json) |
+| Path of Thalanos | 123883 | [123883-path-of-thalanos.json](./123883-path-of-thalanos.json) |
 | Path of the Bogatyr | 356569 | [356569-path-of-the-bogatyr.json](./356569-path-of-the-bogatyr.json) |
 | Path of the Dead | 185335 | [185335-path-of-the-dead.json](./185335-path-of-the-dead.json) |
 | Path of the Heart | 364885 | [364885-path-of-the-heart.json](./364885-path-of-the-heart.json) |
@@ -2640,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pax Nova: Tech Supremacy | 193223 | [193223-pax-nova-tech-supremacy.json](./193223-pax-nova-tech-supremacy.json) |
 | Pax Romana | 115512 | [115512-pax-romana.json](./115512-pax-romana.json) |
 | Pax Romana: Romulus | 70076 | [70076-pax-romana-romulus.json](./70076-pax-romana-romulus.json) |
+| Pax Ruthenia | 123855 | [123855-pax-ruthenia.json](./123855-pax-ruthenia.json) |
 | Pax Solis | 298291 | [298291-pax-solis.json](./298291-pax-solis.json) |
 | Pax Warrior | 174108 | [174108-pax-warrior.json](./174108-pax-warrior.json) |
 | Pay 4 It | 229821 | [229821-pay-4-it.json](./229821-pay-4-it.json) |
@@ -7124,6 +7128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Crusher | 367718 | [367718-planet-crusher.json](./367718-planet-crusher.json) |
 | Planet Defender | 386331 | [386331-planet-defender.json](./386331-planet-defender.json) |
 | Planet Delta | 80552 | [80552-planet-delta.json](./80552-planet-delta.json) |
+| Planet destroyer | 123867 | [123867-planet-destroyer.json](./123867-planet-destroyer.json) |
 | Planet Diver | 34069 | [34069-planet-diver.json](./34069-planet-diver.json) |
 | Planet Dysphoria | 181744 | [181744-planet-dysphoria.json](./181744-planet-dysphoria.json) |
 | Planet Ennea | 229653 | [229653-planet-ennea.json](./229653-planet-ennea.json) |
@@ -12463,6 +12468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Nova | 28696 | [28696-project-nova.json](./28696-project-nova.json) |
 | Project Null | 239798 | [239798-project-null.json](./239798-project-null.json) |
 | Project Nyx | 163816 | [163816-project-nyx.json](./163816-project-nyx.json) |
+| Project Oasis | 123875 | [123875-project-oasis.json](./123875-project-oasis.json) |
 | Project Obscure | 374370 | [374370-project-obscure.json](./374370-project-obscure.json) |
 | Project Octavia | 361271 | [361271-project-octavia.json](./361271-project-octavia.json) |
 | Project of the Gods | 156118 | [156118-project-of-the-gods.json](./156118-project-of-the-gods.json) |
