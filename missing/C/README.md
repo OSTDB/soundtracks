@@ -14366,6 +14366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt Underworld | 109072 | [109072-crypt-underworld.json](./109072-crypt-underworld.json) |
 | Crypt-Oink Racing Friends | 130823 | [130823-crypt-oink-racing-friends.json](./130823-crypt-oink-racing-friends.json) |
 | Cryptage | 333114 | [333114-cryptage.json](./333114-cryptage.json) |
+| CryptantCrab | 110043 | [110043-cryptantcrab.json](./110043-cryptantcrab.json) |
 | CryptaSync Cyber: Urban Depths | 271111 | [271111-cryptasync-cyber-urban-depths.json](./271111-cryptasync-cyber-urban-depths.json) |
 | Cryptic | 122425 | [122425-cryptic.json](./122425-cryptic.json) |
 | Cryptic Castle | 146854 | [146854-cryptic-castle.json](./146854-cryptic-castle.json) |
@@ -14666,6 +14667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CTR: St. Patrick's Day Racing | 399179 | [399179-ctr-st-patricks-day-racing.json](./399179-ctr-st-patricks-day-racing.json) |
 | Ctrl | 78068 | [78068-ctrl.json](./78068-ctrl.json) |
 | Ctrl Alt Ego | 178378 | [178378-ctrl-alt-ego.json](./178378-ctrl-alt-ego.json) |
+| Ctrl Alt Survive | 110078 | [110078-ctrl-alt-survive.json](./110078-ctrl-alt-survive.json) |
 | Ctrl CV | 101514 | [101514-ctrl-cv.json](./101514-ctrl-cv.json) |
 | CTRL Phreak | 169758 | [169758-ctrl-phreak.json](./169758-ctrl-phreak.json) |
 | Ctrl-U | 272863 | [272863-ctrl-u.json](./272863-ctrl-u.json) |
