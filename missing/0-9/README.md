@@ -785,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 112 Operator: The Last Duty | 168946 | [168946-112-operator-the-last-duty.json](./168946-112-operator-the-last-duty.json) |
 | 112 Operator: Water Operations | 168947 | [168947-112-operator-water-operations.json](./168947-112-operator-water-operations.json) |
 | 1125899906842624 | 253218 | [253218-1125899906842624.json](./253218-1125899906842624.json) |
+| 112th Seed | 138458 | [138458-112th-seed.json](./138458-112th-seed.json) |
 | 114 Miles to Doctor Noodles Farm | 250501 | [250501-114-miles-to-doctor-noodles-farm.json](./250501-114-miles-to-doctor-noodles-farm.json) |
 | 1166 | 29715 | [29715-1166.json](./29715-1166.json) |
 | 1193 Anno Domini: Merchants and Crusaders | 71494 | [71494-1193-anno-domini-merchants-and-crusaders.json](./71494-1193-anno-domini-merchants-and-crusaders.json) |
