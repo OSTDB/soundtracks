@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | _Prism | 95694 | [95694-prism.json](./95694-prism.json) |
 | _Turing | 306086 | [306086-turing.json](./306086-turing.json) |
 | -256 | 245917 | [245917-256.json](./245917-256.json) |
+| -A- | 148263 | [148263-a.json](./148263-a.json) |
 | -Space Hunter- | 125156 | [125156-space-hunter.json](./125156-space-hunter.json) |
 | -Sprout- | 170321 | [170321-sprout.json](./170321-sprout.json) |
 | -Top Bear- | 133863 | [133863-top-bear.json](./133863-top-bear.json) |
