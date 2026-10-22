@@ -2436,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm | 348391 | [348391-realm.json](./348391-realm.json) |
 | Realm | 361078 | [361078-realm.json](./361078-realm.json) |
 | Realm | 44457 | [44457-realm.json](./44457-realm.json) |
+| Realm Battle | 104399 | [104399-realm-battle.json](./104399-realm-battle.json) |
 | Realm Craft | 251811 | [251811-realm-craft.json](./251811-realm-craft.json) |
 | Realm Drifter | 309714 | [309714-realm-drifter.json](./309714-realm-drifter.json) |
 | Realm Hacker | 132271 | [132271-realm-hacker.json](./132271-realm-hacker.json) |
@@ -3735,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relaxing Time: Italy Tour - Collector's Edition | 337246 | [337246-relaxing-time-italy-tour-collectors-edition.json](./337246-relaxing-time-italy-tour-collectors-edition.json) |
 | Relaxing Time: Paradise Resort - Collector's Edition | 304591 | [304591-relaxing-time-paradise-resort-collectors-edition.json](./304591-relaxing-time-paradise-resort-collectors-edition.json) |
 | Relaxing VR Games: Mahjong | 31166 | [31166-relaxing-vr-games-mahjong.json](./31166-relaxing-vr-games-mahjong.json) |
+| Relaxing Waves | 104502 | [104502-relaxing-waves.json](./104502-relaxing-waves.json) |
 | Relaxjong | 368677 | [368677-relaxjong.json](./368677-relaxjong.json) |
 | Relay | 179989 | [179989-relay.json](./179989-relay.json) |
 | Relay | 376814 | [376814-relay.json](./376814-relay.json) |
@@ -7062,6 +7064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Fighter | 216762 | [216762-robot-fighter.json](./216762-robot-fighter.json) |
 | Robot Fighter: Epic Battles | 378407 | [378407-robot-fighter-epic-battles.json](./378407-robot-fighter-epic-battles.json) |
 | Robot Fighting | 86417 | [86417-robot-fighting.json](./86417-robot-fighting.json) |
+| Robot Fighting 2: Minibots | 104498 | [104498-robot-fighting-2-minibots.json](./104498-robot-fighting-2-minibots.json) |
 | Robot Fishing | 151991 | [151991-robot-fishing.json](./151991-robot-fishing.json) |
 | Robot Girls Z Online | 61535 | [61535-robot-girls-z-online.json](./61535-robot-girls-z-online.json) |
 | Robot Hospice | 342219 | [342219-robot-hospice.json](./342219-robot-hospice.json) |
