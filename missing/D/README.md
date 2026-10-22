@@ -8593,6 +8593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do I Know You? | 274334 | [274334-do-i-know-you.json](./274334-do-i-know-you.json) |
 | Do I Pass? | 179738 | [179738-do-i-pass.json](./179738-do-i-pass.json) |
 | Do I Really Like Chocolate? | 397944 | [397944-do-i-really-like-chocolate.json](./397944-do-i-really-like-chocolate.json) |
+| Do I smell Pizza? | 143996 | [143996-do-i-smell-pizza.json](./143996-do-i-smell-pizza.json) |
 | Do It for Me | 122997 | [122997-do-it-for-me.json](./122997-do-it-for-me.json) |
 | Do It With Hay | 151084 | [151084-do-it-with-hay.json](./151084-do-it-with-hay.json) |
 | Do No Harm | 324687 | [324687-do-no-harm.json](./324687-do-no-harm.json) |
@@ -9982,6 +9983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 3: The Lost Mission | 167753 | [167753-doom-3-the-lost-mission.json](./167753-doom-3-the-lost-mission.json) |
 | Doom 3: VR Edition | 144524 | [144524-doom-3-vr-edition.json](./144524-doom-3-vr-edition.json) |
 | Doom 4 For Doom | 201182 | [201182-doom-4-for-doom.json](./201182-doom-4-for-doom.json) |
+| Doom 4 Vanilla | 144158 | [144158-doom-4-vanilla.json](./144158-doom-4-vanilla.json) |
 | Doom 64 for Doom II | 201106 | [201106-doom-64-for-doom-ii.json](./201106-doom-64-for-doom-ii.json) |
 | Doom 64 for Dreamcast | 346123 | [346123-doom-64-for-dreamcast.json](./346123-doom-64-for-dreamcast.json) |
 | Doom 64 Reloaded | 346668 | [346668-doom-64-reloaded.json](./346668-doom-64-reloaded.json) |
