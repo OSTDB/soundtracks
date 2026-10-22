@@ -25664,6 +25664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sucker: Smart DLC | 351241 | [351241-super-sucker-smart-dlc.json](./351241-super-sucker-smart-dlc.json) |
 | Super Sudoku | 195526 | [195526-super-sudoku.json](./195526-super-sudoku.json) |
 | Super Sunburnt Siesta Snoozer | 299566 | [299566-super-sunburnt-siesta-snoozer.json](./299566-super-sunburnt-siesta-snoozer.json) |
+| Super Sunny Island | 144822 | [144822-super-sunny-island.json](./144822-super-sunny-island.json) |
 | Super Sunny World | 324695 | [324695-super-sunny-world.json](./324695-super-sunny-world.json) |
 | Super Super Fun World | 276937 | [276937-super-super-fun-world.json](./276937-super-super-fun-world.json) |
 | Super Super Mario Land | 290249 | [290249-super-super-mario-land.json](./290249-super-super-mario-land.json) |
