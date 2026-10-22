@@ -15866,6 +15866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceStationSim | 20645 | [20645-spacestationsim.json](./20645-spacestationsim.json) |
 | SpaceTac | 47171 | [47171-spacetac.json](./47171-spacetac.json) |
 | Spaceteam | 7207 | [7207-spaceteam.json](./7207-spaceteam.json) |
+| Spaceteam VR | 119337 | [119337-spaceteam-vr.json](./119337-spaceteam-vr.json) |
 | Spaceteam: The Second Dimension | 211606 | [211606-spaceteam-the-second-dimension.json](./211606-spaceteam-the-second-dimension.json) |
 | Spacetour Express | 315890 | [315890-spacetour-express.json](./315890-spacetour-express.json) |
 | Spacetron | 258469 | [258469-spacetron.json](./258469-spacetron.json) |
@@ -18447,6 +18448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Standard Legend | 116365 | [116365-standard-legend.json](./116365-standard-legend.json) |
 | Standard Snake | 87156 | [87156-standard-snake.json](./87156-standard-snake.json) |
 | Standball | 367154 | [367154-standball.json](./367154-standball.json) |
+| Standby | 119364 | [119364-standby.json](./119364-standby.json) |
 | Standby | 248069 | [248069-standby.json](./248069-standby.json) |
 | Standby | 26715 | [26715-standby.json](./26715-standby.json) |
 | Standby Say You! | 108836 | [108836-standby-say-you.json](./108836-standby-say-you.json) |
@@ -19303,6 +19305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbucks | 378167 | [378167-starbucks.json](./378167-starbucks.json) |
 | Starburst Fever Night | 390669 | [390669-starburst-fever-night.json](./390669-starburst-fever-night.json) |
 | Starbust | 181378 | [181378-starbust.json](./181378-starbust.json) |
+| Starbyte Super Soccer | 119352 | [119352-starbyte-super-soccer.json](./119352-starbyte-super-soccer.json) |
 | Starcaller | 142496 | [142496-starcaller.json](./142496-starcaller.json) |
 | StarCast | 349980 | [349980-starcast.json](./349980-starcast.json) |
 | Starcaster | 89677 | [89677-starcaster.json](./89677-starcaster.json) |
@@ -19967,6 +19970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of Decay | 3049 | [3049-state-of-decay.json](./3049-state-of-decay.json) |
 | State of Decay 2: Curveball Update | 266858 | [266858-state-of-decay-2-curveball-update.json](./266858-state-of-decay-2-curveball-update.json) |
 | State of Decay 2: Daybreak Pack | 194647 | [194647-state-of-decay-2-daybreak-pack.json](./194647-state-of-decay-2-daybreak-pack.json) |
+| State of Decay 2: Heartland | 119302 | [119302-state-of-decay-2-heartland.json](./119302-state-of-decay-2-heartland.json) |
 | State of Decay: Breakdown | 111845 | [111845-state-of-decay-breakdown.json](./111845-state-of-decay-breakdown.json) |
 | State of Decay: Lifeline | 10894 | [10894-state-of-decay-lifeline.json](./10894-state-of-decay-lifeline.json) |
 | State of Decay: Year-One Survival Edition | 7710 | [7710-state-of-decay-year-one-survival-edition.json](./7710-state-of-decay-year-one-survival-edition.json) |
@@ -21708,6 +21712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Basketball: Premium Edition | 411839 | [411839-street-basketball-premium-edition.json](./411839-street-basketball-premium-edition.json) |
 | Street Beat | 69836 | [69836-street-beat.json](./69836-street-beat.json) |
 | Street Bike: Full Blast HD | 20742 | [20742-street-bike-full-blast-hd.json](./20742-street-bike-full-blast-hd.json) |
+| Street Blaster II Pro | 119413 | [119413-street-blaster-ii-pro.json](./119413-street-blaster-ii-pro.json) |
 | Street Boss | 370180 | [370180-street-boss.json](./370180-street-boss.json) |
 | Street Boy | 220646 | [220646-street-boy.json](./220646-street-boy.json) |
 | Street Boyz | 43237 | [43237-street-boyz.json](./43237-street-boyz.json) |
@@ -25369,6 +25374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Real Mahjong Love 2~7! | 127798 | [127798-super-real-mahjong-love-2-7.json](./127798-super-real-mahjong-love-2-7.json) |
 | Super Real Mahjong Love 2~7! Special Edition | 342064 | [342064-super-real-mahjong-love-2-7-special-edition.json](./342064-super-real-mahjong-love-2-7-special-edition.json) |
 | Super Real Mahjong P.V Custom | 342018 | [342018-super-real-mahjong-p-v-custom.json](./342018-super-real-mahjong-p-v-custom.json) |
+| Super Real Mahjong P7 | 119320 | [119320-super-real-mahjong-p7.json](./119320-super-real-mahjong-p7.json) |
 | Super Real Mahjong P7 | 342132 | [342132-super-real-mahjong-p7.json](./342132-super-real-mahjong-p7.json) |
 | Super Real Mahjong PII & PIII Custom | 342017 | [342017-super-real-mahjong-pii-and-piii-custom.json](./342017-super-real-mahjong-pii-and-piii-custom.json) |
 | Super Real Mahjong PIV Custom | 342013 | [342013-super-real-mahjong-piv-custom.json](./342013-super-real-mahjong-piv-custom.json) |
@@ -25738,6 +25744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sonic Surge | 39786 | [39786-super-sonic-surge.json](./39786-super-sonic-surge.json) |
 | Super Space Acer | 421225 | [421225-super-space-acer.json](./421225-super-space-acer.json) |
 | Super Space Arcade | 260229 | [260229-super-space-arcade.json](./260229-super-space-arcade.json) |
+| Super Space Club | 119363 | [119363-super-space-club.json](./119363-super-space-club.json) |
 | Super Space Frogs | 356049 | [356049-super-space-frogs.json](./356049-super-space-frogs.json) |
 | Super Space Galaxy | 199797 | [199797-super-space-galaxy.json](./199797-super-space-galaxy.json) |
 | Super Space Invaders | 12859 | [12859-super-space-invaders.json](./12859-super-space-invaders.json) |
@@ -26945,6 +26952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzy Burger | 151609 | [151609-suzy-burger.json](./151609-suzy-burger.json) |
 | Suzy Cube | 103247 | [103247-suzy-cube.json](./103247-suzy-cube.json) |
 | Suzy's Restaurant: Food Empire | 345270 | [345270-suzys-restaurant-food-empire.json](./345270-suzys-restaurant-food-empire.json) |
+| Svajp | 119407 | [119407-svajp.json](./119407-svajp.json) |
 | Svarog's Dream: Return of the Old Gods | 311099 | [311099-svarogs-dream-return-of-the-old-gods.json](./311099-svarogs-dream-return-of-the-old-gods.json) |
 | Svea Rike | 92933 | [92933-svea-rike.json](./92933-svea-rike.json) |
 | Svea Rike 2 | 84179 | [84179-svea-rike-2.json](./84179-svea-rike-2.json) |
