@@ -1160,6 +1160,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Gladius - T'au | 148958 | [148958-warhammer-40-000-gladius-tau.json](./148958-warhammer-40-000-gladius-tau.json) |
 | Warhammer 40,000: Inquisitor - Martyr | 203272 | [203272-warhammer-40-000-inquisitor-martyr.json](./203272-warhammer-40-000-inquisitor-martyr.json) |
 | Warhammer 40,000: Inquisitor - Martyr Complete Collection | 173158 | [173158-warhammer-40-000-inquisitor-martyr-complete-collection.json](./173158-warhammer-40-000-inquisitor-martyr-complete-collection.json) |
+| Warhammer 40,000: Inquisitor - Martyr: Charybdis Outpost | 149297 | [149297-warhammer-40-000-inquisitor-martyr-charybdis-outpost.json](./149297-warhammer-40-000-inquisitor-martyr-charybdis-outpost.json) |
+| Warhammer 40,000: Inquisitor - Martyr: City of Suffering | 149311 | [149311-warhammer-40-000-inquisitor-martyr-city-of-suffering.json](./149311-warhammer-40-000-inquisitor-martyr-city-of-suffering.json) |
+| Warhammer 40,000: Inquisitor - Martyr: Desperate Crusade | 149298 | [149298-warhammer-40-000-inquisitor-martyr-desperate-crusade.json](./149298-warhammer-40-000-inquisitor-martyr-desperate-crusade.json) |
+| Warhammer 40,000: Inquisitor - Martyr: Discordant Choir | 149314 | [149314-warhammer-40-000-inquisitor-martyr-discordant-choir.json](./149314-warhammer-40-000-inquisitor-martyr-discordant-choir.json) |
+| Warhammer 40,000: Inquisitor - Martyr: Faith Undone | 149313 | [149313-warhammer-40-000-inquisitor-martyr-faith-undone.json](./149313-warhammer-40-000-inquisitor-martyr-faith-undone.json) |
+| Warhammer 40,000: Inquisitor - Martyr: Forgotten Arsenal | 149316 | [149316-warhammer-40-000-inquisitor-martyr-forgotten-arsenal.json](./149316-warhammer-40-000-inquisitor-martyr-forgotten-arsenal.json) |
+| Warhammer 40,000: Inquisitor - Martyr: Grim Penance | 149306 | [149306-warhammer-40-000-inquisitor-martyr-grim-penance.json](./149306-warhammer-40-000-inquisitor-martyr-grim-penance.json) |
+| Warhammer 40,000: Inquisitor - Martyr: Hollow Bliss | 149308 | [149308-warhammer-40-000-inquisitor-martyr-hollow-bliss.json](./149308-warhammer-40-000-inquisitor-martyr-hollow-bliss.json) |
+| Warhammer 40,000: Inquisitor - Martyr: Maelstrom of Carnage | 149315 | [149315-warhammer-40-000-inquisitor-martyr-maelstrom-of-carnage.json](./149315-warhammer-40-000-inquisitor-martyr-maelstrom-of-carnage.json) |
+| Warhammer 40,000: Inquisitor - Martyr: Mind Plague | 149304 | [149304-warhammer-40-000-inquisitor-martyr-mind-plague.json](./149304-warhammer-40-000-inquisitor-martyr-mind-plague.json) |
+| Warhammer 40,000: Inquisitor - Martyr: Poisoned Souls | 149312 | [149312-warhammer-40-000-inquisitor-martyr-poisoned-souls.json](./149312-warhammer-40-000-inquisitor-martyr-poisoned-souls.json) |
 | Warhammer 40,000: Inquisitor - Martyr: Ultimate Edition | 219440 | [219440-warhammer-40-000-inquisitor-martyr-ultimate-edition.json](./219440-warhammer-40-000-inquisitor-martyr-ultimate-edition.json) |
 | Warhammer 40,000: Inquisitor - Prophecy | 118770 | [118770-warhammer-40-000-inquisitor-prophecy.json](./118770-warhammer-40-000-inquisitor-prophecy.json) |
 | Warhammer 40,000: Kill Team | 7045 | [7045-warhammer-40-000-kill-team.json](./7045-warhammer-40-000-kill-team.json) |
@@ -3102,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Time MUD | 229107 | [229107-wheel-of-time-mud.json](./229107-wheel-of-time-mud.json) |
 | Wheel Runner | 280137 | [280137-wheel-runner.json](./280137-wheel-runner.json) |
 | Wheel Saint: Hellride | 384669 | [384669-wheel-saint-hellride.json](./384669-wheel-saint-hellride.json) |
+| Wheel Smash | 149352 | [149352-wheel-smash.json](./149352-wheel-smash.json) |
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
@@ -4066,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Planet | 137049 | [137049-wild-planet.json](./137049-wild-planet.json) |
 | Wild Radio Flux | 236943 | [236943-wild-radio-flux.json](./236943-wild-radio-flux.json) |
 | Wild Rapids | 44737 | [44737-wild-rapids.json](./44737-wild-rapids.json) |
+| Wild Rat | 149309 | [149309-wild-rat.json](./149309-wild-rat.json) |
 | Wild Ride | 12973 | [12973-wild-ride.json](./12973-wild-ride.json) |
 | Wild Rides: WaterPark Factory | 205807 | [205807-wild-rides-waterpark-factory.json](./205807-wild-rides-waterpark-factory.json) |
 | Wild River Run | 230311 | [230311-wild-river-run.json](./230311-wild-river-run.json) |
