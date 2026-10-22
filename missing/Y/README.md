@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu'N'Mi | 175745 | [175745-yunmi.json](./175745-yunmi.json) |
 | Yua's Yuri Office | 273774 | [273774-yuas-yuri-office.json](./273774-yuas-yuri-office.json) |
 | Yuan Ka Card 2: MetaCard2 | 276136 | [276136-yuan-ka-card-2-metacard2.json](./276136-yuan-ka-card-2-metacard2.json) |
+| Yuǎngǔ Dàlù Wàizhuàn: Gǔdào de Jìntóu | 128239 | [128239-yuangu-dalu-waizhuan-gudao-de-jintou.json](./128239-yuangu-dalu-waizhuan-gudao-de-jintou.json) |
 | Yuánshǐ Bùluò | 120857 | [120857-yuanshi-buluo.json](./120857-yuanshi-buluo.json) |
 | Yubisaki Connection | 333578 | [333578-yubisaki-connection.json](./333578-yubisaki-connection.json) |
 | Yubisaki Connection Mini Fandisk Vol. 01: Yuzuki & Mikoto Hen | 382236 | [382236-yubisaki-connection-mini-fandisk-vol-01-yuzuki-and-mikoto-hen.json](./382236-yubisaki-connection-mini-fandisk-vol-01-yuzuki-and-mikoto-hen.json) |
