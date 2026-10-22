@@ -1973,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elidriel | 252024 | [252024-elidriel.json](./252024-elidriel.json) |
 | Elif | 186689 | [186689-elif.json](./186689-elif.json) |
 | Elifoot | 91631 | [91631-elifoot.json](./91631-elifoot.json) |
+| Elifoot 18 | 104499 | [104499-elifoot-18.json](./104499-elifoot-18.json) |
 | Elimination | 207732 | [207732-elimination.json](./207732-elimination.json) |
 | Elimination Games | 220840 | [220840-elimination-games.json](./220840-elimination-games.json) |
 | Eliminato | 102826 | [102826-eliminato.json](./102826-eliminato.json) |
@@ -2436,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Battlefield: Sky Massacre | 406798 | [406798-emoji-battlefield-sky-massacre.json](./406798-emoji-battlefield-sky-massacre.json) |
 | Emoji Battlefield: Summer Vacation | 399636 | [399636-emoji-battlefield-summer-vacation.json](./399636-emoji-battlefield-summer-vacation.json) |
 | Emoji Bomb | 398978 | [398978-emoji-bomb.json](./398978-emoji-bomb.json) |
+| Emoji Charades | 104405 | [104405-emoji-charades.json](./104405-emoji-charades.json) |
 | Emoji Clicker | 309430 | [309430-emoji-clicker.json](./309430-emoji-clicker.json) |
 | Emoji Craft ! | 103503 | [103503-emoji-craft.json](./103503-emoji-craft.json) |
 | Emoji Face Jump! | 272206 | [272206-emoji-face-jump.json](./272206-emoji-face-jump.json) |
@@ -2664,6 +2666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted in the Moonlight: Miyabi, Kyoga & Samon | 119446 | [119446-enchanted-in-the-moonlight-miyabi-kyoga-and-samon.json](./119446-enchanted-in-the-moonlight-miyabi-kyoga-and-samon.json) |
 | Enchanted in the Moonlight: Miyabi, Kyoga & Samon - Luck in Love: The Key to Happiness | 238068 | [238068-enchanted-in-the-moonlight-miyabi-kyoga-and-samon-luck-in-love-the-key-to-happiness.json](./238068-enchanted-in-the-moonlight-miyabi-kyoga-and-samon-luck-in-love-the-key-to-happiness.json) |
 | Enchanted Katya and the Mystery of the Lost Wizard | 64708 | [64708-enchanted-katya-and-the-mystery-of-the-lost-wizard.json](./64708-enchanted-katya-and-the-mystery-of-the-lost-wizard.json) |
+| Enchanted Kingdom: A Dark Seed | 104492 | [104492-enchanted-kingdom-a-dark-seed.json](./104492-enchanted-kingdom-a-dark-seed.json) |
 | Enchanted Kingdom: A Stranger's Venom | 188003 | [188003-enchanted-kingdom-a-strangers-venom.json](./188003-enchanted-kingdom-a-strangers-venom.json) |
 | Enchanted Kingdom: Descent of the Elders - Collector's Edition | 170996 | [170996-enchanted-kingdom-descent-of-the-elders-collectors-edition.json](./170996-enchanted-kingdom-descent-of-the-elders-collectors-edition.json) |
 | Enchanted Kingdom: Frost Curse - Collector's Edition | 164955 | [164955-enchanted-kingdom-frost-curse-collectors-edition.json](./164955-enchanted-kingdom-frost-curse-collectors-edition.json) |
@@ -4102,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From the Dark | 196285 | [196285-escape-from-the-dark.json](./196285-escape-from-the-dark.json) |
 | Escape from the Darkness | 259420 | [259420-escape-from-the-darkness.json](./259420-escape-from-the-darkness.json) |
 | Escape From the Depth | 242050 | [242050-escape-from-the-depth.json](./242050-escape-from-the-depth.json) |
+| Escape From the Dinosaurs | 104425 | [104425-escape-from-the-dinosaurs.json](./104425-escape-from-the-dinosaurs.json) |
 | Escape From the Dragons | 111686 | [111686-escape-from-the-dragons.json](./111686-escape-from-the-dragons.json) |
 | Escape From The Dreamy | 278317 | [278317-escape-from-the-dreamy.json](./278317-escape-from-the-dreamy.json) |
 | Escape from the Dungeon | 332009 | [332009-escape-from-the-dungeon.json](./332009-escape-from-the-dungeon.json) |
@@ -4941,6 +4945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Rally Champion | 43298 | [43298-euro-rally-champion.json](./43298-euro-rally-champion.json) |
 | Euro Train Simulator | 202231 | [202231-euro-train-simulator.json](./202231-euro-train-simulator.json) |
 | Euro Train Simulator 2 | 202232 | [202232-euro-train-simulator-2.json](./202232-euro-train-simulator-2.json) |
+| Euro Truck Driver 2018 | 104408 | [104408-euro-truck-driver-2018.json](./104408-euro-truck-driver-2018.json) |
 | Euro Truck Driver Simulator | 276864 | [276864-euro-truck-driver-simulator.json](./276864-euro-truck-driver-simulator.json) |
 | Euro Truck Life & Logistics Simulators | 221709 | [221709-euro-truck-life-and-logistics-simulators.json](./221709-euro-truck-life-and-logistics-simulators.json) |
 | Euro Truck of Reality | 193803 | [193803-euro-truck-of-reality.json](./193803-euro-truck-of-reality.json) |
