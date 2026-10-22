@@ -6600,6 +6600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meisa no Sekai | 285386 | [285386-meisa-no-sekai.json](./285386-meisa-no-sekai.json) |
 | Měishàonián Mèng Gōngchǎng 3: Chóngshēng | 116981 | [116981-meishaonian-meng-gongchang-3-chongsheng.json](./116981-meishaonian-meng-gongchang-3-chongsheng.json) |
 | Měishàonǚ Mahjong Jiēlóng | 106442 | [106442-meishaonu-mahjong-jielong.json](./106442-meishaonu-mahjong-jielong.json) |
+| Měishàonǚ Xiàrì Huānlè! | 101255 | [101255-meishaonu-xiari-huanle.json](./101255-meishaonu-xiari-huanle.json) |
 | Meister | 113670 | [113670-meister.json](./113670-meister.json) |
 | Meister2 | 192639 | [192639-meister2.json](./192639-meister2.json) |
 | MeisterPower | 383980 | [383980-meisterpower.json](./383980-meisterpower.json) |
@@ -7404,6 +7405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Land | 89263 | [89263-mermaid-land.json](./89263-mermaid-land.json) |
 | Mermaid Life | 400533 | [400533-mermaid-life.json](./400533-mermaid-life.json) |
 | Mermaid Melody: Pichi Pichi Pitch - Pichi Pichitto Live Start! | 63793 | [63793-mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start.json](./63793-mermaid-melody-pichi-pichi-pitch-pichi-pichitto-live-start.json) |
+| Mermaid Mission: Titanic | 101288 | [101288-mermaid-mission-titanic.json](./101288-mermaid-mission-titanic.json) |
 | Mermaid no Kisetsu | 371011 | [371011-mermaid-no-kisetsu.json](./371011-mermaid-no-kisetsu.json) |
 | Mermaid Prism | 203341 | [203341-mermaid-prism.json](./203341-mermaid-prism.json) |
 | Mermaid Secrets10-First Crush in high school | 95877 | [95877-mermaid-secrets10-first-crush-in-high-school.json](./95877-mermaid-secrets10-first-crush-in-high-school.json) |
@@ -14414,6 +14416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Orange | 256660 | [256660-mr-orange.json](./256660-mr-orange.json) |
 | Mr Rabbit's Alphabet Forest Adventure | 44168 | [44168-mr-rabbits-alphabet-forest-adventure.json](./44168-mr-rabbits-alphabet-forest-adventure.json) |
 | Mr Rabbit's Cambridge: Point and Click Adventure | 242973 | [242973-mr-rabbits-cambridge-point-and-click-adventure.json](./242973-mr-rabbits-cambridge-point-and-click-adventure.json) |
+| Mr Rabbit's Memory | 101312 | [101312-mr-rabbits-memory.json](./101312-mr-rabbits-memory.json) |
 | MR Racer | 343459 | [343459-mr-racer.json](./343459-mr-racer.json) |
 | MR Racer Stunt Mania | 349888 | [349888-mr-racer-stunt-mania.json](./349888-mr-racer-stunt-mania.json) |
 | Mr Right Simulator | 348795 | [348795-mr-right-simulator.json](./348795-mr-right-simulator.json) |
@@ -15665,6 +15668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Boyfriend is a Martian | 295389 | [295389-my-boyfriend-is-a-martian.json](./295389-my-boyfriend-is-a-martian.json) |
 | My Boyfriend, Sonic the Hedgehog | 422465 | [422465-my-boyfriend-sonic-the-hedgehog.json](./422465-my-boyfriend-sonic-the-hedgehog.json) |
 | My Boyfriend's a Werecat! | 169362 | [169362-my-boyfriends-a-werecat.json](./169362-my-boyfriends-a-werecat.json) |
+| My Break Up Story | 101307 | [101307-my-break-up-story.json](./101307-my-break-up-story.json) |
 | My Breast Friend Sally | 286500 | [286500-my-breast-friend-sally.json](./286500-my-breast-friend-sally.json) |
 | My Brick Breaker | 307158 | [307158-my-brick-breaker.json](./307158-my-brick-breaker.json) |
 | My Broken Blocks | 63141 | [63141-my-broken-blocks.json](./63141-my-broken-blocks.json) |
