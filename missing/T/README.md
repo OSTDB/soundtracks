@@ -2407,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Sonic Racing | 103018 | [103018-team-sonic-racing.json](./103018-team-sonic-racing.json) |
 | Team Sonic Racing: 30th Anniversary Edition | 166305 | [166305-team-sonic-racing-30th-anniversary-edition.json](./166305-team-sonic-racing-30th-anniversary-edition.json) |
 | Team Suzuki | 12792 | [12792-team-suzuki.json](./12792-team-suzuki.json) |
+| Team Switch VR: Experts Burglary Agency | 126825 | [126825-team-switch-vr-experts-burglary-agency.json](./126825-team-switch-vr-experts-burglary-agency.json) |
 | Team Troopers | 147625 | [147625-team-troopers.json](./147625-team-troopers.json) |
 | Team Umizoomi | 47958 | [47958-team-umizoomi.json](./47958-team-umizoomi.json) |
 | Team Umizoomi & Dora's Fantastic Flight | 7980 | [7980-team-umizoomi-and-doras-fantastic-flight.json](./7980-team-umizoomi-and-doras-fantastic-flight.json) |
@@ -4523,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Spider-Man: Creative Studio | 208783 | [208783-the-amazing-spider-man-creative-studio.json](./208783-the-amazing-spider-man-creative-studio.json) |
 | The Amazing Spider-Man: Lethal Foes | 42403 | [42403-the-amazing-spider-man-lethal-foes.json](./42403-the-amazing-spider-man-lethal-foes.json) |
 | The Amazing Spider-Man: Web of Fire | 45882 | [45882-the-amazing-spider-man-web-of-fire.json](./45882-the-amazing-spider-man-web-of-fire.json) |
+| The Amazing T.K's Suburban Nightmares | 126864 | [126864-the-amazing-t-ks-suburban-nightmares.json](./126864-the-amazing-t-ks-suburban-nightmares.json) |
 | The Amazing Universe of the Psychotrons | 315610 | [315610-the-amazing-universe-of-the-psychotrons.json](./315610-the-amazing-universe-of-the-psychotrons.json) |
 | The Amazing Virtual Sea-Monkeys | 49267 | [49267-the-amazing-virtual-sea-monkeys.json](./49267-the-amazing-virtual-sea-monkeys.json) |
 | The Amazing World of Gumball Mini Games | 352173 | [352173-the-amazing-world-of-gumball-mini-games.json](./352173-the-amazing-world-of-gumball-mini-games.json) |
@@ -11584,6 +11586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Petshop Incident | 71011 | [71011-the-petshop-incident.json](./71011-the-petshop-incident.json) |
 | The Phantom | 344314 | [344314-the-phantom.json](./344314-the-phantom.json) |
 | The Phantom Agent | 313873 | [313873-the-phantom-agent.json](./313873-the-phantom-agent.json) |
+| The Phantom Fable: Steven Universe | 126875 | [126875-the-phantom-fable-steven-universe.json](./126875-the-phantom-fable-steven-universe.json) |
 | The Phantom Forest | 278909 | [278909-the-phantom-forest.json](./278909-the-phantom-forest.json) |
 | The Phantom Inheritance | 71171 | [71171-the-phantom-inheritance.json](./71171-the-phantom-inheritance.json) |
 | The Phantom of the City | 112837 | [112837-the-phantom-of-the-city.json](./112837-the-phantom-of-the-city.json) |
@@ -13419,6 +13422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Strange Case of Mei Lysel Andi | 257543 | [257543-the-strange-case-of-mei-lysel-andi.json](./257543-the-strange-case-of-mei-lysel-andi.json) |
 | The strange case of the serpent | 328322 | [328322-the-strange-case-of-the-serpent.json](./328322-the-strange-case-of-the-serpent.json) |
 | The Strange Men Anthology | 345349 | [345349-the-strange-men-anthology.json](./345349-the-strange-men-anthology.json) |
+| The Strange Story of Brian Fisher: Chapter 1 | 126829 | [126829-the-strange-story-of-brian-fisher-chapter-1.json](./126829-the-strange-story-of-brian-fisher-chapter-1.json) |
 | The Strange Story of Brian Fisher: Chapter 2 | 168841 | [168841-the-strange-story-of-brian-fisher-chapter-2.json](./168841-the-strange-story-of-brian-fisher-chapter-2.json) |
 | The Stranger | 57143 | [57143-the-stranger.json](./57143-the-stranger.json) |
 | The Stranger From the Bus Stop | 332396 | [332396-the-stranger-from-the-bus-stop.json](./332396-the-stranger-from-the-bus-stop.json) |
@@ -14812,6 +14816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wild Thornberrys: Chimp Chase | 49373 | [49373-the-wild-thornberrys-chimp-chase.json](./49373-the-wild-thornberrys-chimp-chase.json) |
 | The Wild Thornberrys' Animal Adventures | 8014 | [8014-the-wild-thornberrys-animal-adventures.json](./8014-the-wild-thornberrys-animal-adventures.json) |
 | The Wild West | 47889 | [47889-the-wild-west.json](./47889-the-wild-west.json) |
+| The Wilds of Dacrima: Field Notes from a Poorly Supervised Alchemist and his Clockwork Robot Companion | 126856 | [126856-the-wilds-of-dacrima-field-notes-from-a-poorly-supervised-alchemist-and-his-clockwork-robot-companion.json](./126856-the-wilds-of-dacrima-field-notes-from-a-poorly-supervised-alchemist-and-his-clockwork-robot-companion.json) |
 | The Will 2 - The Castle 1999 | 124682 | [124682-the-will-2-the-castle-1999.json](./124682-the-will-2-the-castle-1999.json) |
 | The Will of a Single Tale | 100117 | [100117-the-will-of-a-single-tale.json](./100117-the-will-of-a-single-tale.json) |
 | The Will of Dr. Frankenstein | 66715 | [66715-the-will-of-dr-frankenstein.json](./66715-the-will-of-dr-frankenstein.json) |
@@ -17908,6 +17913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time for Teletubbies | 326581 | [326581-time-for-teletubbies.json](./326581-time-for-teletubbies.json) |
 | Time For You: Chapter 01 | 168860 | [168860-time-for-you-chapter-01.json](./168860-time-for-you-chapter-01.json) |
 | Time for You: Chapter 02 - Dirty Thoughts and Corporate Bots | 170373 | [170373-time-for-you-chapter-02-dirty-thoughts-and-corporate-bots.json](./170373-time-for-you-chapter-02-dirty-thoughts-and-corporate-bots.json) |
+| Time Fragments: 24h in Capua | 126818 | [126818-time-fragments-24h-in-capua.json](./126818-time-fragments-24h-in-capua.json) |
 | Time Freeze | 168936 | [168936-time-freeze.json](./168936-time-freeze.json) |
 | Time From Earth | 212299 | [212299-time-from-earth.json](./212299-time-from-earth.json) |
 | Time Gal & Ninja Hayate | 55871 | [55871-time-gal-and-ninja-hayate.json](./55871-time-gal-and-ninja-hayate.json) |
@@ -23487,6 +23493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trappy Dungeon | 180563 | [180563-trappy-dungeon.json](./180563-trappy-dungeon.json) |
 | Trappy Mine | 181859 | [181859-trappy-mine.json](./181859-trappy-mine.json) |
 | Traps 'n' Treasures | 37275 | [37275-traps-n-treasures.json](./37275-traps-n-treasures.json) |
+| Traps Ahead! | 126850 | [126850-traps-ahead.json](./126850-traps-ahead.json) |
 | Traps in Space | 142482 | [142482-traps-in-space.json](./142482-traps-in-space.json) |
 | Trapt | 232845 | [232845-trapt.json](./232845-trapt.json) |
 | TrapThem | 62004 | [62004-trapthem.json](./62004-trapthem.json) |
