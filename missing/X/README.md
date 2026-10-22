@@ -777,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xposed Switched | 232562 | [232562-xposed-switched.json](./232562-xposed-switched.json) |
 | Xpressorcist | 197139 | [197139-xpressorcist.json](./197139-xpressorcist.json) |
 | XR-35 | 55210 | [55210-xr-35.json](./55210-xr-35.json) |
+| XRacer 2: Evolution | 132472 | [132472-xracer-2-evolution.json](./132472-xracer-2-evolution.json) |
 | XRacing | 360123 | [360123-xracing.json](./360123-xracing.json) |
 | xRC Simulator | 137422 | [137422-xrc-simulator.json](./137422-xrc-simulator.json) |
 | XRick | 280354 | [280354-xrick.json](./280354-xrick.json) |
