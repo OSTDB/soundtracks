@@ -2146,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Card Football | 109662 | [109662-action-card-football.json](./109662-action-card-football.json) |
 | Action Cat | 14205 | [14205-action-cat.json](./14205-action-cat.json) |
 | Action Commando | 171425 | [171425-action-commando.json](./171425-action-commando.json) |
+| Action Commando 2 | 152711 | [152711-action-commando-2.json](./152711-action-commando-2.json) |
 | Action Doom | 55134 | [55134-action-doom.json](./55134-action-doom.json) |
 | Action Draw Jumper | 339861 | [339861-action-draw-jumper.json](./339861-action-draw-jumper.json) |
 | Action Entities | 343608 | [343608-action-entities.json](./343608-action-entities.json) |
@@ -4428,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akina: Dotei Hunt Hen | 97773 | [97773-akina-dotei-hunt-hen.json](./97773-akina-dotei-hunt-hen.json) |
 | Akinakes | 342231 | [342231-akinakes.json](./342231-akinakes.json) |
 | Akindo | 200052 | [200052-akindo.json](./200052-akindo.json) |
+| Akinofa | 152700 | [152700-akinofa.json](./152700-akinofa.json) |
 | Akir8 | 178852 | [178852-akir8.json](./178852-akir8.json) |
 | Akira | 14234 | [14234-akira.json](./14234-akira.json) |
 | Akira | 248743 | [248743-akira.json](./248743-akira.json) |
@@ -13984,3 +13986,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azy | 172066 | [172066-azy.json](./172066-azy.json) |
 | AZZL | 101964 | [101964-azzl.json](./101964-azzl.json) |
 | Azzle | 239121 | [239121-azzle.json](./239121-azzle.json) |
+| Azzy Battles the Darkness | 152691 | [152691-azzy-battles-the-darkness.json](./152691-azzy-battles-the-darkness.json) |
