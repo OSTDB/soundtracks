@@ -3749,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman | 47281 | [47281-caveman.json](./47281-caveman.json) |
 | Caveman Capers | 13702 | [13702-caveman-capers.json](./13702-caveman-capers.json) |
 | Caveman Caravan | 369667 | [369667-caveman-caravan.json](./369667-caveman-caravan.json) |
+| Caveman Chuck | 109325 | [109325-caveman-chuck.json](./109325-caveman-chuck.json) |
 | Caveman Games | 48100 | [48100-caveman-games.json](./48100-caveman-games.json) |
 | Caveman HD | 102744 | [102744-caveman-hd.json](./102744-caveman-hd.json) |
 | Caveman hits Giraffe in a Car | 333397 | [333397-caveman-hits-giraffe-in-a-car.json](./333397-caveman-hits-giraffe-in-a-car.json) |
@@ -5951,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice Matters | 312752 | [312752-choice-matters.json](./312752-choice-matters.json) |
 | Choice of Alexandria | 19483 | [19483-choice-of-alexandria.json](./19483-choice-of-alexandria.json) |
 | Choice of Broadsides | 63202 | [63202-choice-of-broadsides.json](./63202-choice-of-broadsides.json) |
+| Choice of Broadsides: HMS Foraker | 109340 | [109340-choice-of-broadsides-hms-foraker.json](./109340-choice-of-broadsides-hms-foraker.json) |
 | Choice of Life: Floors | 390183 | [390183-choice-of-life-floors.json](./390183-choice-of-life-floors.json) |
 | Choice of Life: Samosbor | 158645 | [158645-choice-of-life-samosbor.json](./158645-choice-of-life-samosbor.json) |
 | Choice of Life: Wild Islands | 253576 | [253576-choice-of-life-wild-islands.json](./253576-choice-of-life-wild-islands.json) |
@@ -6248,6 +6250,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Jumper Jam | 326981 | [326981-christmas-jumper-jam.json](./326981-christmas-jumper-jam.json) |
 | Christmas Luge | 236521 | [236521-christmas-luge.json](./236521-christmas-luge.json) |
 | Christmas Magic | 257442 | [257442-christmas-magic.json](./257442-christmas-magic.json) |
+| Christmas Mahjong | 109346 | [109346-christmas-mahjong.json](./109346-christmas-mahjong.json) |
+| Christmas Mahjong 2 | 109342 | [109342-christmas-mahjong-2.json](./109342-christmas-mahjong-2.json) |
 | Christmas Mansion | 100190 | [100190-christmas-mansion.json](./100190-christmas-mansion.json) |
 | Christmas Mansion | 196116 | [196116-christmas-mansion.json](./196116-christmas-mansion.json) |
 | Christmas Massacre | 186281 | [186281-christmas-massacre.json](./186281-christmas-massacre.json) |
@@ -10660,6 +10664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Ramp Jumping | 212358 | [212358-construction-ramp-jumping.json](./212358-construction-ramp-jumping.json) |
 | Construction Runner | 291533 | [291533-construction-runner.json](./291533-construction-runner.json) |
 | Construction Simulator 2 | 87338 | [87338-construction-simulator-2.json](./87338-construction-simulator-2.json) |
+| Construction Simulator 2: Console Edition | 109294 | [109294-construction-simulator-2-console-edition.json](./109294-construction-simulator-2-console-edition.json) |
 | Construction Simulator 2+3 | 139934 | [139934-construction-simulator-2-3.json](./139934-construction-simulator-2-3.json) |
 | Construction Simulator 2+3 Bundle | 295698 | [295698-construction-simulator-2-3-bundle.json](./295698-construction-simulator-2-3-bundle.json) |
 | Construction Simulator 2014 | 86891 | [86891-construction-simulator-2014.json](./86891-construction-simulator-2014.json) |
