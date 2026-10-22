@@ -1809,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts Wii DX | 268121 | [268121-darts-wii-dx.json](./268121-darts-wii-dx.json) |
 | Dartwords | 416662 | [416662-dartwords.json](./416662-dartwords.json) |
 | Dartz | 354574 | [354574-dartz.json](./354574-dartz.json) |
+| Daruber Muss Man Schweigen | 105047 | [105047-daruber-muss-man-schweigen.json](./105047-daruber-muss-man-schweigen.json) |
 | Daruino | 185536 | [185536-daruino.json](./185536-daruino.json) |
 | Darum | 308030 | [308030-darum.json](./308030-darum.json) |
 | Darumeshi Sports Store | 230306 | [230306-darumeshi-sports-store.json](./230306-darumeshi-sports-store.json) |
@@ -2651,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: The Walking Dead | 358407 | [358407-dead-by-daylight-the-walking-dead.json](./358407-dead-by-daylight-the-walking-dead.json) |
 | Dead by Daylight: The Walking Dead - Daryl Dixon | 358409 | [358409-dead-by-daylight-the-walking-dead-daryl-dixon.json](./358409-dead-by-daylight-the-walking-dead-daryl-dixon.json) |
 | Dead by Daylight: Tools of Torment Chapter | 241319 | [241319-dead-by-daylight-tools-of-torment-chapter.json](./241319-dead-by-daylight-tools-of-torment-chapter.json) |
+| Dead by Death | 105024 | [105024-dead-by-death.json](./105024-dead-by-death.json) |
 | Dead By Murder | 74144 | [74144-dead-by-murder.json](./74144-dead-by-murder.json) |
 | Dead by Skill Check | 341609 | [341609-dead-by-skill-check.json](./341609-dead-by-skill-check.json) |
 | Dead by Wheel: Battle Royal | 109718 | [109718-dead-by-wheel-battle-royal.json](./109718-dead-by-wheel-battle-royal.json) |
@@ -3943,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decommissioner | 186252 | [186252-decommissioner.json](./186252-decommissioner.json) |
 | Decompose With Me | 408160 | [408160-decompose-with-me.json](./408160-decompose-with-me.json) |
 | Decomposition | 339791 | [339791-decomposition.json](./339791-decomposition.json) |
+| Deconstruction | 105069 | [105069-deconstruction.json](./105069-deconstruction.json) |
 | Deconstruction Lab | 111228 | [111228-deconstruction-lab.json](./111228-deconstruction-lab.json) |
 | Deconstuctor | 102367 | [102367-deconstuctor.json](./102367-deconstuctor.json) |
 | Decontamination | 335879 | [335879-decontamination.json](./335879-decontamination.json) |
@@ -5196,6 +5199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dengeki Bunko: Fighting Climax | 11448 | [11448-dengeki-bunko-fighting-climax.json](./11448-dengeki-bunko-fighting-climax.json) |
 | Dengeki Bunko: Fighting Climax Ignition | 13550 | [13550-dengeki-bunko-fighting-climax-ignition.json](./13550-dengeki-bunko-fighting-climax-ignition.json) |
 | Dengeki Bunko: Fighting Climax Ignition - Mobile Version | 52139 | [52139-dengeki-bunko-fighting-climax-ignition-mobile-version.json](./52139-dengeki-bunko-fighting-climax-ignition-mobile-version.json) |
+| Dengeki Gakuen RPG: Cross of Venus Special | 105066 | [105066-dengeki-gakuen-rpg-cross-of-venus-special.json](./105066-dengeki-gakuen-rpg-cross-of-venus-special.json) |
 | Dengeki no Pilot: Tenkuu no Kizuna | 213835 | [213835-dengeki-no-pilot-tenkuu-no-kizuna.json](./213835-dengeki-no-pilot-tenkuu-no-kizuna.json) |
 | Dengeki Nurse | 412440 | [412440-dengeki-nurse.json](./412440-dengeki-nurse.json) |
 | Dengeki Nurse | 67241 | [67241-dengeki-nurse.json](./67241-dengeki-nurse.json) |
@@ -6890,7 +6894,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diercke: Junior-Quiz Geographie | 269744 | [269744-diercke-junior-quiz-geographie.json](./269744-diercke-junior-quiz-geographie.json) |
 | DieRoll | 88263 | [88263-dieroll.json](./88263-dieroll.json) |
 | Dies Irae: Amantes Amentes - Act II: Nihil Difficile Amanti (Kei & Rea Scenario) | 174536 | [174536-dies-irae-amantes-amentes-act-ii-nihil-difficile-amanti-kei-and-rea-scenario.json](./174536-dies-irae-amantes-amentes-act-ii-nihil-difficile-amanti-kei-and-rea-scenario.json) |
+| Dies irae: Amantes Amentes for Nintendo Switch | 105059 | [105059-dies-irae-amantes-amentes-for-nintendo-switch.json](./105059-dies-irae-amantes-amentes-for-nintendo-switch.json) |
 | Dies Irae: Interview with Kaziklu Bey | 115243 | [115243-dies-irae-interview-with-kaziklu-bey.json](./115243-dies-irae-interview-with-kaziklu-bey.json) |
+| Dies irae: Pantheon | 105060 | [105060-dies-irae-pantheon.json](./105060-dies-irae-pantheon.json) |
 | Dies Mortis | 185163 | [185163-dies-mortis.json](./185163-dies-mortis.json) |
 | Diesel and Death | 194872 | [194872-diesel-and-death.json](./194872-diesel-and-death.json) |
 | Diesel Attack | 125044 | [125044-diesel-attack.json](./125044-diesel-attack.json) |
