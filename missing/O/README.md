@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OffRoad Drive Desert | 90087 | [90087-offroad-drive-desert.json](./90087-offroad-drive-desert.json) |
 | Offroad Driving Simulator 4x4: Trucks & SUV Trophy | 147933 | [147933-offroad-driving-simulator-4x4-trucks-and-suv-trophy.json](./147933-offroad-driving-simulator-4x4-trucks-and-suv-trophy.json) |
 | Offroad Extreme! | 66935 | [66935-offroad-extreme.json](./66935-offroad-extreme.json) |
+| Offroad Heat | 112052 | [112052-offroad-heat.json](./112052-offroad-heat.json) |
 | Offroad Jeep Driving | 304329 | [304329-offroad-jeep-driving.json](./304329-offroad-jeep-driving.json) |
 | Offroad Jeep Quest: Mountain Trails | 293363 | [293363-offroad-jeep-quest-mountain-trails.json](./293363-offroad-jeep-quest-mountain-trails.json) |
 | Offroad Mania | 128460 | [128460-offroad-mania.json](./128460-offroad-mania.json) |
@@ -3589,6 +3590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Legends: Zilan | 310083 | [310083-otherworld-legends-zilan.json](./310083-otherworld-legends-zilan.json) |
 | Otherworld: Omens of Summer | 63772 | [63772-otherworld-omens-of-summer.json](./63772-otherworld-omens-of-summer.json) |
 | Otherworld: Omens of Summer - Collector's Edition | 29617 | [29617-otherworld-omens-of-summer-collectors-edition.json](./29617-otherworld-omens-of-summer-collectors-edition.json) |
+| Otherworld: Shades of Fall | 112061 | [112061-otherworld-shades-of-fall.json](./112061-otherworld-shades-of-fall.json) |
 | Otherworld: Shades of Fall - Collector's Edition | 55662 | [55662-otherworld-shades-of-fall-collectors-edition.json](./55662-otherworld-shades-of-fall-collectors-edition.json) |
 | Otherworld: Spring of Shadows | 63771 | [63771-otherworld-spring-of-shadows.json](./63771-otherworld-spring-of-shadows.json) |
 | Otherworld: Spring of Shadows - Collector's Edition | 32788 | [32788-otherworld-spring-of-shadows-collectors-edition.json](./32788-otherworld-spring-of-shadows-collectors-edition.json) |
