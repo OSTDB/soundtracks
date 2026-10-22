@@ -1941,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elimination Games | 220840 | [220840-elimination-games.json](./220840-elimination-games.json) |
 | Eliminato | 102826 | [102826-eliminato.json](./102826-eliminato.json) |
 | Eliminator | 12063 | [12063-eliminator.json](./12063-eliminator.json) |
+| Eliminator | 154329 | [154329-eliminator.json](./154329-eliminator.json) |
 | Eliminator | 354648 | [354648-eliminator.json](./354648-eliminator.json) |
 | Eliminator | 81465 | [81465-eliminator.json](./81465-eliminator.json) |
 | Elin | 221102 | [221102-elin.json](./221102-elin.json) |
@@ -2081,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elpis | 381140 | [381140-elpis.json](./381140-elpis.json) |
 | Elpis: Fallen Star | 362914 | [362914-elpis-fallen-star.json](./362914-elpis-fallen-star.json) |
 | Elrentaros Wanderings | 230621 | [230621-elrentaros-wanderings.json](./230621-elrentaros-wanderings.json) |
+| Elroi: Defense War | 154324 | [154324-elroi-defense-war.json](./154324-elroi-defense-war.json) |
 | Elroy Goes Bugzerk | 123385 | [123385-elroy-goes-bugzerk.json](./123385-elroy-goes-bugzerk.json) |
 | Else Walker | 177947 | [177947-else-walker.json](./177947-else-walker.json) |
 | Elsewar | 415130 | [415130-elsewar.json](./415130-elsewar.json) |
@@ -4313,6 +4315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape: Site-13 | 211065 | [211065-escape-site-13.json](./211065-escape-site-13.json) |
 | Escape: Small Laboratory | 224055 | [224055-escape-small-laboratory.json](./224055-escape-small-laboratory.json) |
 | Escape: The Endless Dogwatch | 207135 | [207135-escape-the-endless-dogwatch.json](./207135-escape-the-endless-dogwatch.json) |
+| Escape: The Speedrun Game | 154298 | [154298-escape-the-speedrun-game.json](./154298-escape-the-speedrun-game.json) |
 | Escape: Tutankhamen's Tomb | 88453 | [88453-escape-tutankhamens-tomb.json](./88453-escape-tutankhamens-tomb.json) |
 | Escape: Underground | 149490 | [149490-escape-underground.json](./149490-escape-underground.json) |
 | Escape: VR | 29157 | [29157-escape-vr.json](./29157-escape-vr.json) |
