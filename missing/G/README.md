@@ -8564,6 +8564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns and Blood: 2D Zombie Shooter | 96025 | [96025-guns-and-blood-2d-zombie-shooter.json](./96025-guns-and-blood-2d-zombie-shooter.json) |
 | Guns and Braps | 127027 | [127027-guns-and-braps.json](./127027-guns-and-braps.json) |
 | Guns and Donuts | 260635 | [260635-guns-and-donuts.json](./260635-guns-and-donuts.json) |
+| Guns and Ghosts | 110676 | [110676-guns-and-ghosts.json](./110676-guns-and-ghosts.json) |
 | Guns and Grapples | 152363 | [152363-guns-and-grapples.json](./152363-guns-and-grapples.json) |
 | Guns and Lords | 196537 | [196537-guns-and-lords.json](./196537-guns-and-lords.json) |
 | Guns and Spurs | 50372 | [50372-guns-and-spurs.json](./50372-guns-and-spurs.json) |
