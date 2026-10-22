@@ -1082,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZomBay | 287002 | [287002-zombay.json](./287002-zombay.json) |
 | ZombCube | 305975 | [305975-zombcube.json](./305975-zombcube.json) |
 | Zombeat | 79946 | [79946-zombeat.json](./79946-zombeat.json) |
+| Zombecks | 107573 | [107573-zombecks.json](./107573-zombecks.json) |
 | Zombeer | 16815 | [16815-zombeer.json](./16815-zombeer.json) |
 | Zombeer: Delivery Mission | 159824 | [159824-zombeer-delivery-mission.json](./159824-zombeer-delivery-mission.json) |
 | ZomBees: Bee The Swarm | 58877 | [58877-zombees-bee-the-swarm.json](./58877-zombees-bee-the-swarm.json) |
