@@ -1912,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3DO Buffet | 38819 | [38819-3do-buffet.json](./38819-3do-buffet.json) |
 | 3DO Games: Decathlon | 100219 | [100219-3do-games-decathlon.json](./100219-3do-games-decathlon.json) |
 | 3DO Interactive Sampler 3 | 38822 | [38822-3do-interactive-sampler-3.json](./38822-3do-interactive-sampler-3.json) |
+| 3Doku | 106927 | [106927-3doku.json](./106927-3doku.json) |
 | 3DRPG | 33819 | [33819-3drpg.json](./33819-3drpg.json) |
 | 3DSCraft | 253796 | [253796-3dscraft.json](./253796-3dscraft.json) |
 | 3DTuning: Car Game & Simulator | 344916 | [344916-3dtuning-car-game-and-simulator.json](./344916-3dtuning-car-game-and-simulator.json) |
