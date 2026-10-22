@@ -6787,6 +6787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls IV: Oblivion Mobile | 209010 | [209010-the-elder-scrolls-iv-oblivion-mobile.json](./209010-the-elder-scrolls-iv-oblivion-mobile.json) |
 | The Elder Scrolls IV: Oblivion Remastered | 267306 | [267306-the-elder-scrolls-iv-oblivion-remastered.json](./267306-the-elder-scrolls-iv-oblivion-remastered.json) |
 | The Elder Scrolls IV: Shivering Isles | 894 | [894-the-elder-scrolls-iv-shivering-isles.json](./894-the-elder-scrolls-iv-shivering-isles.json) |
+| The Elder Scrolls Legends: Moons of Elsweyr | 119311 | [119311-the-elder-scrolls-legends-moons-of-elsweyr.json](./119311-the-elder-scrolls-legends-moons-of-elsweyr.json) |
 | The Elder Scrolls Online Collection: Gold Road | 306484 | [306484-the-elder-scrolls-online-collection-gold-road.json](./306484-the-elder-scrolls-online-collection-gold-road.json) |
 | The Elder Scrolls Online: 2025 Premium Edition | 340745 | [340745-the-elder-scrolls-online-2025-premium-edition.json](./340745-the-elder-scrolls-online-2025-premium-edition.json) |
 | The Elder Scrolls Online: Ascending Tide | 237337 | [237337-the-elder-scrolls-online-ascending-tide.json](./237337-the-elder-scrolls-online-ascending-tide.json) |
@@ -6813,6 +6814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Morrowind - Digital Collector's Edition | 53729 | [53729-the-elder-scrolls-online-morrowind-digital-collectors-edition.json](./53729-the-elder-scrolls-online-morrowind-digital-collectors-edition.json) |
 | The Elder Scrolls Online: Necrom | 233587 | [233587-the-elder-scrolls-online-necrom.json](./233587-the-elder-scrolls-online-necrom.json) |
 | The Elder Scrolls Online: Premium Edition | 136165 | [136165-the-elder-scrolls-online-premium-edition.json](./136165-the-elder-scrolls-online-premium-edition.json) |
+| The Elder Scrolls Online: Scalebreaker | 119326 | [119326-the-elder-scrolls-online-scalebreaker.json](./119326-the-elder-scrolls-online-scalebreaker.json) |
 | The Elder Scrolls Online: Scions of Ithelia | 296825 | [296825-the-elder-scrolls-online-scions-of-ithelia.json](./296825-the-elder-scrolls-online-scions-of-ithelia.json) |
 | The Elder Scrolls Online: Scribes of Fate | 251417 | [251417-the-elder-scrolls-online-scribes-of-fate.json](./251417-the-elder-scrolls-online-scribes-of-fate.json) |
 | The Elder Scrolls Online: Season One - Return of the Thieves Guild | 405082 | [405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json](./405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json) |
@@ -10256,6 +10258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Longest Drift | 175441 | [175441-the-longest-drift.json](./175441-the-longest-drift.json) |
 | The Longest Dungeon | 238602 | [238602-the-longest-dungeon.json](./238602-the-longest-dungeon.json) |
 | The Longest Five Minutes | 44078 | [44078-the-longest-five-minutes.json](./44078-the-longest-five-minutes.json) |
+| The Longest Game Ever 2 | 119412 | [119412-the-longest-game-ever-2.json](./119412-the-longest-game-ever-2.json) |
 | The Longest Journey | 895 | [895-the-longest-journey.json](./895-the-longest-journey.json) |
 | The Longest Journey Remastered | 27658 | [27658-the-longest-journey-remastered.json](./27658-the-longest-journey-remastered.json) |
 | The Longest Path | 220693 | [220693-the-longest-path.json](./220693-the-longest-path.json) |
@@ -11073,7 +11076,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -14699,6 +14701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ward | 70348 | [70348-the-ward.json](./70348-the-ward.json) |
 | The Warden | 34149 | [34149-the-warden.json](./34149-the-warden.json) |
 | The Warden's Paradise | 289951 | [289951-the-wardens-paradise.json](./289951-the-wardens-paradise.json) |
+| The Wardrobe: Even Better Edition | 119400 | [119400-the-wardrobe-even-better-edition.json](./119400-the-wardrobe-even-better-edition.json) |
 | The Warehouse | 288624 | [288624-the-warehouse.json](./288624-the-warehouse.json) |
 | The Warfare | 417488 | [417488-the-warfare.json](./417488-the-warfare.json) |
 | The Warfstache Clicker | 239539 | [239539-the-warfstache-clicker.json](./239539-the-warfstache-clicker.json) |
@@ -18825,6 +18828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNN Motorsports Hardcore Heat | 45845 | [45845-tnn-motorsports-hardcore-heat.json](./45845-tnn-motorsports-hardcore-heat.json) |
 | TNN Outdoors Bass Tournament '96 | 46244 | [46244-tnn-outdoors-bass-tournament-96.json](./46244-tnn-outdoors-bass-tournament-96.json) |
 | TNN Outdoors Pro Hunter | 23150 | [23150-tnn-outdoors-pro-hunter.json](./23150-tnn-outdoors-pro-hunter.json) |
+| TNN Outdoors Pro Hunter 2 | 119397 | [119397-tnn-outdoors-pro-hunter-2.json](./119397-tnn-outdoors-pro-hunter-2.json) |
 | TNT 2: Devilution | 280913 | [280913-tnt-2-devilution.json](./280913-tnt-2-devilution.json) |
 | TNT Goes Boom! | 269661 | [269661-tnt-goes-boom.json](./269661-tnt-goes-boom.json) |
 | TNT Racers | 20555 | [20555-tnt-racers.json](./20555-tnt-racers.json) |
@@ -20111,6 +20115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Secret | 75967 | [75967-top-secret.json](./75967-top-secret.json) |
 | Top Skater | 18047 | [18047-top-skater.json](./18047-top-skater.json) |
 | Top Solitaire | 87111 | [87111-top-solitaire.json](./87111-top-solitaire.json) |
+| Top Speed 2 | 119378 | [119378-top-speed-2.json](./119378-top-speed-2.json) |
 | Top Speed 2: Drag Rivals & Nitro Racing | 200464 | [200464-top-speed-2-drag-rivals-and-nitro-racing.json](./200464-top-speed-2-drag-rivals-and-nitro-racing.json) |
 | Top Speed 2: Racing Legends | 121448 | [121448-top-speed-2-racing-legends.json](./121448-top-speed-2-racing-legends.json) |
 | Top Speed: Drag & Fast Racing | 88441 | [88441-top-speed-drag-and-fast-racing.json](./88441-top-speed-drag-and-fast-racing.json) |
@@ -24671,6 +24676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico Jong: Butterfly Expedition | 416177 | [416177-tropico-jong-butterfly-expedition.json](./416177-tropico-jong-butterfly-expedition.json) |
 | Tropico Reloaded | 53861 | [53861-tropico-reloaded.json](./53861-tropico-reloaded.json) |
 | Tropico Trilogy | 53860 | [53860-tropico-trilogy.json](./53860-tropico-trilogy.json) |
+| Tropico: Mucho Macho Edition | 119356 | [119356-tropico-mucho-macho-edition.json](./119356-tropico-mucho-macho-edition.json) |
 | Tropico: Paradise Island | 11029 | [11029-tropico-paradise-island.json](./11029-tropico-paradise-island.json) |
 | Tropix 2: Quest for the Golden Banana | 53859 | [53859-tropix-2-quest-for-the-golden-banana.json](./53859-tropix-2-quest-for-the-golden-banana.json) |
 | TropTopia | 368560 | [368560-troptopia.json](./368560-troptopia.json) |
