@@ -5545,6 +5545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Up | 386297 | [386297-beyond-up.json](./386297-beyond-up.json) |
 | Beyond Yardwork Simulator | 397238 | [397238-beyond-yardwork-simulator.json](./397238-beyond-yardwork-simulator.json) |
 | Beyond Ynth HDX | 103880 | [103880-beyond-ynth-hdx.json](./103880-beyond-ynth-hdx.json) |
+| Beyond You! | 122707 | [122707-beyond-you.json](./122707-beyond-you.json) |
 | Beyond Your Fear | 195596 | [195596-beyond-your-fear.json](./195596-beyond-your-fear.json) |
 | Beyond Your Wall | 369593 | [369593-beyond-your-wall.json](./369593-beyond-your-wall.json) |
 | Beyond Zero Line | 386299 | [386299-beyond-zero-line.json](./386299-beyond-zero-line.json) |
@@ -10811,6 +10812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Hunter | 72008 | [72008-bounty-hunter.json](./72008-bounty-hunter.json) |
 | Bounty Hunter 2099 Pinball | 206469 | [206469-bounty-hunter-2099-pinball.json](./206469-bounty-hunter-2099-pinball.json) |
 | Bounty Hunter: Ocean Diver | 95617 | [95617-bounty-hunter-ocean-diver.json](./95617-bounty-hunter-ocean-diver.json) |
+| Bounty Hunter: Space Lizard | 122730 | [122730-bounty-hunter-space-lizard.json](./122730-bounty-hunter-space-lizard.json) |
 | Bounty Hunters | 188507 | [188507-bounty-hunters.json](./188507-bounty-hunters.json) |
 | Bounty Hunters | 265389 | [265389-bounty-hunters.json](./265389-bounty-hunters.json) |
 | Bounty Hunting Time | 255029 | [255029-bounty-hunting-time.json](./255029-bounty-hunting-time.json) |
