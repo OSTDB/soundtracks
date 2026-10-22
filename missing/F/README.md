@@ -2304,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Frog | 358881 | [358881-fast-food-frog.json](./358881-fast-food-frog.json) |
 | Fast Food Funkin' | 408121 | [408121-fast-food-funkin.json](./408121-fast-food-funkin.json) |
 | Fast Food King | 384714 | [384714-fast-food-king.json](./384714-fast-food-king.json) |
+| Fast Food Manager | 147062 | [147062-fast-food-manager.json](./147062-fast-food-manager.json) |
 | Fast Food Manager 2 | 347719 | [347719-fast-food-manager-2.json](./347719-fast-food-manager-2.json) |
 | Fast Food Mania 3D | 152980 | [152980-fast-food-mania-3d.json](./152980-fast-food-mania-3d.json) |
 | Fast Food Never More | 127241 | [127241-fast-food-never-more.json](./127241-fast-food-never-more.json) |
@@ -9794,6 +9795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrostRunner | 113391 | [113391-frostrunner.json](./113391-frostrunner.json) |
 | Frostveil: The Last Winter | 389580 | [389580-frostveil-the-last-winter.json](./389580-frostveil-the-last-winter.json) |
 | Frosty Enterprise | 326409 | [326409-frosty-enterprise.json](./326409-frosty-enterprise.json) |
+| Frosty Jump | 147148 | [147148-frosty-jump.json](./147148-frosty-jump.json) |
 | Frosty Jumper | 152825 | [152825-frosty-jumper.json](./152825-frosty-jumper.json) |
 | Frosty Kiss | 15933 | [15933-frosty-kiss.json](./15933-frosty-kiss.json) |
 | Frosty Nights | 76360 | [76360-frosty-nights.json](./76360-frosty-nights.json) |
@@ -10746,6 +10748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futebol de Tampinhas | 290090 | [290090-futebol-de-tampinhas.json](./290090-futebol-de-tampinhas.json) |
 | Futile | 398663 | [398663-futile.json](./398663-futile.json) |
 | Futilitris | 138152 | [138152-futilitris.json](./138152-futilitris.json) |
+| Futoshiki Math | 147146 | [147146-futoshiki-math.json](./147146-futoshiki-math.json) |
 | Futr8 | 231339 | [231339-futr8.json](./231339-futr8.json) |
 | Futsal: 5 on 5 Mini Soccer | 75464 | [75464-futsal-5-on-5-mini-soccer.json](./75464-futsal-5-on-5-mini-soccer.json) |
 | FutSim | 276783 | [276783-futsim.json](./276783-futsim.json) |
