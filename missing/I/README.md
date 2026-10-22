@@ -1560,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IHRA Drag Racing 2 | 210078 | [210078-ihra-drag-racing-2.json](./210078-ihra-drag-racing-2.json) |
 | IHRA Drag Racing 2004 | 69921 | [69921-ihra-drag-racing-2004.json](./69921-ihra-drag-racing-2004.json) |
 | IHRA Drag Racing: Sportsman Edition | 20547 | [20547-ihra-drag-racing-sportsman-edition.json](./20547-ihra-drag-racing-sportsman-edition.json) |
+| IHRA Motorsports | 138075 | [138075-ihra-motorsports.json](./138075-ihra-motorsports.json) |
 | IHRA Professional Drag Racing 2005 | 43221 | [43221-ihra-professional-drag-racing-2005.json](./43221-ihra-professional-drag-racing-2005.json) |
 | IHugU | 68611 | [68611-ihugu.json](./68611-ihugu.json) |
 | II-III-V | 180808 | [180808-ii-iii-v.json](./180808-ii-iii-v.json) |
@@ -4656,6 +4657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irradiate 235 | 359603 | [359603-irradiate-235.json](./359603-irradiate-235.json) |
 | Irrational | 179009 | [179009-irrational.json](./179009-irrational.json) |
 | Irrational Exuberance | 33518 | [33518-irrational-exuberance.json](./33518-irrational-exuberance.json) |
+| Irrelevance V | 137302 | [137302-irrelevance-v.json](./137302-irrelevance-v.json) |
 | Irreminiscence | 392479 | [392479-irreminiscence.json](./392479-irreminiscence.json) |
 | Irresistible Love | 340764 | [340764-irresistible-love.json](./340764-irresistible-love.json) |
 | Irresistible Mistakes | 212630 | [212630-irresistible-mistakes.json](./212630-irresistible-mistakes.json) |
