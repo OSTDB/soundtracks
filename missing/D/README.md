@@ -3620,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Wake | 13580 | [13580-death-wake.json](./13580-death-wake.json) |
 | Death Walk | 217295 | [217295-death-walk.json](./217295-death-walk.json) |
 | Death Waves | 114978 | [114978-death-waves.json](./114978-death-waves.json) |
+| Death Wish | 130033 | [130033-death-wish.json](./130033-death-wish.json) |
 | Death Wish | 159789 | [159789-death-wish.json](./159789-death-wish.json) |
 | Death Wish 3 | 13581 | [13581-death-wish-3.json](./13581-death-wish-3.json) |
 | Death Wore Endless Feathers | 168383 | [168383-death-wore-endless-feathers.json](./168383-death-wore-endless-feathers.json) |
@@ -9902,6 +9903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut Get! | 51173 | [51173-donut-get.json](./51173-donut-get.json) |
 | Donut Hockey | 373558 | [373558-donut-hockey.json](./373558-donut-hockey.json) |
 | Donut Maker | 232179 | [232179-donut-maker.json](./232179-donut-maker.json) |
+| Donut Mod | 130036 | [130036-donut-mod.json](./130036-donut-mod.json) |
 | Donut or Cookie | 233660 | [233660-donut-or-cookie.json](./233660-donut-or-cookie.json) |
 | Donut Plus | 309639 | [309639-donut-plus.json](./309639-donut-plus.json) |
 | Donut Punks | 141638 | [141638-donut-punks.json](./141638-donut-punks.json) |
@@ -11586,6 +11588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monsters: The Withered World | 403174 | [403174-dragon-quest-monsters-the-withered-world.json](./403174-dragon-quest-monsters-the-withered-world.json) |
 | Dragon Quest Monsters: The Withered World - Digital Deluxe Edition | 418330 | [418330-dragon-quest-monsters-the-withered-world-digital-deluxe-edition.json](./418330-dragon-quest-monsters-the-withered-world-digital-deluxe-edition.json) |
 | Dragon Quest of the Stars | 131686 | [131686-dragon-quest-of-the-stars.json](./131686-dragon-quest-of-the-stars.json) |
+| Dragon Quest Tact | 130037 | [130037-dragon-quest-tact.json](./130037-dragon-quest-tact.json) |
 | Dragon Quest Treasures: Digital Deluxe Edition | 219485 | [219485-dragon-quest-treasures-digital-deluxe-edition.json](./219485-dragon-quest-treasures-digital-deluxe-edition.json) |
 | Dragon Quest V: Tenkuu no Hanayome | 205595 | [205595-dragon-quest-v-tenkuu-no-hanayome.json](./205595-dragon-quest-v-tenkuu-no-hanayome.json) |
 | Dragon Quest VI: Realms of Revelation | 1817 | [1817-dragon-quest-vi-realms-of-revelation.json](./1817-dragon-quest-vi-realms-of-revelation.json) |
