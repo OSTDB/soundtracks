@@ -1242,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.V.A: Global - Busters Content | 302806 | [302806-a-v-a-global-busters-content.json](./302806-a-v-a-global-busters-content.json) |
 | A.V.A: Global - Busters Content: Lilly Edition | 302807 | [302807-a-v-a-global-busters-content-lilly-edition.json](./302807-a-v-a-global-busters-content-lilly-edition.json) |
 | A.V.A: Guns on Fire | 55245 | [55245-a-v-a-guns-on-fire.json](./55245-a-v-a-guns-on-fire.json) |
+| A.V.I | 149840 | [149840-a-v-i.json](./149840-a-v-i.json) |
 | A.void | 128428 | [128428-a-void.json](./128428-a-void.json) |
 | A.W.O.L. | 193214 | [193214-a-w-o-l.json](./193214-a-w-o-l.json) |
 | A'Jatt | 372556 | [372556-ajatt.json](./372556-ajatt.json) |
@@ -5035,6 +5036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Cat 3 | 169493 | [169493-alien-cat-3.json](./169493-alien-cat-3.json) |
 | Alien Cat 5 | 158658 | [158658-alien-cat-5.json](./158658-alien-cat-5.json) |
 | Alien Cat 6 | 157475 | [157475-alien-cat-6.json](./157475-alien-cat-6.json) |
+| Alien Cat 8 | 149854 | [149854-alien-cat-8.json](./149854-alien-cat-8.json) |
 | Alien Challenge | 39524 | [39524-alien-challenge.json](./39524-alien-challenge.json) |
 | Alien Cleaner | 299527 | [299527-alien-cleaner.json](./299527-alien-cleaner.json) |
 | Alien Clones | 263469 | [263469-alien-clones.json](./263469-alien-clones.json) |
@@ -8365,6 +8367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti-Nightmare Master Plan | 211435 | [211435-anti-nightmare-master-plan.json](./211435-anti-nightmare-master-plan.json) |
 | Anti-Opoly | 35916 | [35916-anti-opoly.json](./35916-anti-opoly.json) |
 | Anti-Sane | 236798 | [236798-anti-sane.json](./236798-anti-sane.json) |
+| Anti-Science Brigade | 149908 | [149908-anti-science-brigade.json](./149908-anti-science-brigade.json) |
 | Anti-TuringTest | 371914 | [371914-anti-turingtest.json](./371914-anti-turingtest.json) |
 | Anti-World Island | 250251 | [250251-anti-world-island.json](./250251-anti-world-island.json) |
 | ANti: Virus Destroyer | 105265 | [105265-anti-virus-destroyer.json](./105265-anti-virus-destroyer.json) |
@@ -9835,6 +9838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanists | 62268 | [62268-arcanists.json](./62268-arcanists.json) |
 | Arcanists 2 | 245802 | [245802-arcanists-2.json](./245802-arcanists-2.json) |
 | Arcanium: Rise of Akhan | 97340 | [97340-arcanium-rise-of-akhan.json](./97340-arcanium-rise-of-akhan.json) |
+| Arcano | 149826 | [149826-arcano.json](./149826-arcano.json) |
 | Arcano: The Trickery | 159638 | [159638-arcano-the-trickery.json](./159638-arcano-the-trickery.json) |
 | Arcanoid Breakout | 147468 | [147468-arcanoid-breakout.json](./147468-arcanoid-breakout.json) |
 | Arcanora | 272789 | [272789-arcanora.json](./272789-arcanora.json) |
@@ -10681,6 +10685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored War | 277327 | [277327-armored-war.json](./277327-armored-war.json) |
 | Armored Warfare | 15853 | [15853-armored-warfare.json](./15853-armored-warfare.json) |
 | Armored Warriors | 13688 | [13688-armored-warriors.json](./13688-armored-warriors.json) |
+| Armored Xpress | 149836 | [149836-armored-xpress.json](./149836-armored-xpress.json) |
 | Armorik the Viking: The Eight Conquests | 69172 | [69172-armorik-the-viking-the-eight-conquests.json](./69172-armorik-the-viking-the-eight-conquests.json) |
 | Armorines: Project S.W.A.R.M. | 186027 | [186027-armorines-project-s-w-a-r-m.json](./186027-armorines-project-s-w-a-r-m.json) |
 | Armorines: Project S.W.A.R.M. | 3439 | [3439-armorines-project-s-w-a-r-m.json](./3439-armorines-project-s-w-a-r-m.json) |
