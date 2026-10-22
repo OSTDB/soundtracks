@@ -1110,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Store Simulator | 266999 | [266999-game-store-simulator.json](./266999-game-store-simulator.json) |
 | Game Store Simulator | 346695 | [346695-game-store-simulator.json](./346695-game-store-simulator.json) |
 | Game Studio Simulator | 115594 | [115594-game-studio-simulator.json](./115594-game-studio-simulator.json) |
+| Game Studio Tycoon 3 | 102628 | [102628-game-studio-tycoon-3.json](./102628-game-studio-tycoon-3.json) |
 | Game Tengoku CruisinMix Special: Clarice | 155341 | [155341-game-tengoku-cruisinmix-special-clarice.json](./155341-game-tengoku-cruisinmix-special-clarice.json) |
 | Game Tengoku: Cruisin Mix | 52187 | [52187-game-tengoku-cruisin-mix.json](./52187-game-tengoku-cruisin-mix.json) |
 | Game Tengoku: Cruisin Mix Special - Gokuraku Box | 167054 | [167054-game-tengoku-cruisin-mix-special-gokuraku-box.json](./167054-game-tengoku-cruisin-mix-special-gokuraku-box.json) |
