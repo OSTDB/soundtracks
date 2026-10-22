@@ -2026,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MALdle | 372107 | [372107-maldle.json](./372107-maldle.json) |
 | Maldrin Journey | 123037 | [123037-maldrin-journey.json](./123037-maldrin-journey.json) |
 | Malebolgia | 17754 | [17754-malebolgia.json](./17754-malebolgia.json) |
+| Malediction | 127574 | [127574-malediction.json](./127574-malediction.json) |
 | Maledictor | 296969 | [296969-maledictor.json](./296969-maledictor.json) |
 | Maledictum | 382295 | [382295-maledictum.json](./382295-maledictum.json) |
 | Maleficent Free Fall | 61680 | [61680-maleficent-free-fall.json](./61680-maleficent-free-fall.json) |
@@ -12652,6 +12653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstrum | 10554 | [10554-monstrum.json](./10554-monstrum.json) |
 | Monstrum 2 | 119685 | [119685-monstrum-2.json](./119685-monstrum-2.json) |
 | Monstrum: Deluxe Edition | 53377 | [53377-monstrum-deluxe-edition.json](./53377-monstrum-deluxe-edition.json) |
+| Monstrüous | 127608 | [127608-monstruous.json](./127608-monstruous.json) |
 | Monsty Corp | 164509 | [164509-monsty-corp.json](./164509-monsty-corp.json) |
 | Monsty Corp: The Prequels | 296059 | [296059-monsty-corp-the-prequels.json](./296059-monsty-corp-the-prequels.json) |
 | Monsty Corp: The Sequels | 296058 | [296058-monsty-corp-the-sequels.json](./296058-monsty-corp-the-sequels.json) |
