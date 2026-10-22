@@ -1461,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Rock Zombie Truck | 54337 | [54337-hard-rock-zombie-truck.json](./54337-hard-rock-zombie-truck.json) |
 | Hard Rock Zombie Truck Plastiline | 109870 | [109870-hard-rock-zombie-truck-plastiline.json](./109870-hard-rock-zombie-truck-plastiline.json) |
 | Hard Room | 33806 | [33806-hard-room.json](./33806-hard-room.json) |
+| Hard Steel | 152710 | [152710-hard-steel.json](./152710-hard-steel.json) |
 | Hard Survivor | 232973 | [232973-hard-survivor.json](./232973-hard-survivor.json) |
 | Hard Tapes | 164054 | [164054-hard-tapes.json](./164054-hard-tapes.json) |
 | Hard Time | 152241 | [152241-hard-time.json](./152241-hard-time.json) |
@@ -2498,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Fragment: Book Two - Belief Fragments | 196126 | [196126-heart-fragment-book-two-belief-fragments.json](./196126-heart-fragment-book-two-belief-fragments.json) |
 | Heart in the Cell: Rebirth | 157020 | [157020-heart-in-the-cell-rebirth.json](./157020-heart-in-the-cell-rebirth.json) |
 | Heart in the Dark | 125090 | [125090-heart-in-the-dark.json](./125090-heart-in-the-dark.json) |
+| Heart Inside | 152623 | [152623-heart-inside.json](./152623-heart-inside.json) |
 | Heart is Muscle | 181933 | [181933-heart-is-muscle.json](./181933-heart-is-muscle.json) |
 | Heart Keeper | 342634 | [342634-heart-keeper.json](./342634-heart-keeper.json) |
 | Heart Knots | 138022 | [138022-heart-knots.json](./138022-heart-knots.json) |
@@ -4195,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Vivian | 265767 | [265767-hentai-vivian.json](./265767-hentai-vivian.json) |
 | Hentai VR 18+ | 366524 | [366524-hentai-vr-18.json](./366524-hentai-vr-18.json) |
 | Hentai VR 3 | 147408 | [147408-hentai-vr-3.json](./147408-hentai-vr-3.json) |
+| Hentai VR 4 | 152620 | [152620-hentai-vr-4.json](./152620-hentai-vr-4.json) |
 | Hentai vs. Evil | 146095 | [146095-hentai-vs-evil.json](./146095-hentai-vs-evil.json) |
 | Hentai vs. Furries | 164376 | [164376-hentai-vs-furries.json](./164376-hentai-vs-furries.json) |
 | Hentai vs. Orcs | 161388 | [161388-hentai-vs-orcs.json](./161388-hentai-vs-orcs.json) |
@@ -7606,6 +7609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopeless. | 228080 | [228080-hopeless.json](./228080-hopeless.json) |
 | Hopepunk City | 255098 | [255098-hopepunk-city.json](./255098-hopepunk-city.json) |
 | Hopfall | 370126 | [370126-hopfall.json](./370126-hopfall.json) |
+| HopHeaders | 152627 | [152627-hopheaders.json](./152627-hopheaders.json) |
 | HopHop Fox | 309546 | [309546-hophop-fox.json](./309546-hophop-fox.json) |
 | Hoping Forest | 236896 | [236896-hoping-forest.json](./236896-hoping-forest.json) |
 | Hoping This Finds You Well | 288091 | [288091-hoping-this-finds-you-well.json](./288091-hoping-this-finds-you-well.json) |
