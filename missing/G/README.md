@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Revo: Remake | 247488 | [247488-galaxy-revo-remake.json](./247488-galaxy-revo-remake.json) |
 | Galaxy Roll | 358429 | [358429-galaxy-roll.json](./358429-galaxy-roll.json) |
 | Galaxy Rush | 310834 | [310834-galaxy-rush.json](./310834-galaxy-rush.json) |
+| Galaxy Rushroom | 116024 | [116024-galaxy-rushroom.json](./116024-galaxy-rushroom.json) |
 | Galaxy Shooter Space War Games | 231949 | [231949-galaxy-shooter-space-war-games.json](./231949-galaxy-shooter-space-war-games.json) |
 | Galaxy Shooting: Alien War | 105539 | [105539-galaxy-shooting-alien-war.json](./105539-galaxy-shooting-alien-war.json) |
 | Galaxy Sphere | 180066 | [180066-galaxy-sphere.json](./180066-galaxy-sphere.json) |
@@ -3636,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GL Golf | 88347 | [88347-gl-golf.json](./88347-gl-golf.json) |
 | GL-117 Action Flight Simulator | 51245 | [51245-gl-117-action-flight-simulator.json](./51245-gl-117-action-flight-simulator.json) |
 | Glace | 79621 | [79621-glace.json](./79621-glace.json) |
+| Glacial | 116040 | [116040-glacial.json](./116040-glacial.json) |
 | Glacier | 73153 | [73153-glacier.json](./73153-glacier.json) |
 | Glacier 2 | 51046 | [51046-glacier-2.json](./51046-glacier-2.json) |
 | Glacier 3: The Meltdown | 16902 | [16902-glacier-3-the-meltdown.json](./16902-glacier-3-the-meltdown.json) |
@@ -6008,6 +6010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Ages: Rome - Gold Edition | 53071 | [53071-grand-ages-rome-gold-edition.json](./53071-grand-ages-rome-gold-edition.json) |
 | Grand Attrition | 173044 | [173044-grand-attrition.json](./173044-grand-attrition.json) |
 | Grand Banda | 392727 | [392727-grand-banda.json](./392727-grand-banda.json) |
+| Grand Battle | 116043 | [116043-grand-battle.json](./116043-grand-battle.json) |
 | Grand Battle--MMO Strategy:War | 61712 | [61712-grand-battle-mmo-strategy-war.json](./61712-grand-battle-mmo-strategy-war.json) |
 | Grand Bubble Shoot | 99096 | [99096-grand-bubble-shoot.json](./99096-grand-bubble-shoot.json) |
 | Grand Cash Casino Slots | 386226 | [386226-grand-cash-casino-slots.json](./386226-grand-cash-casino-slots.json) |
@@ -8846,6 +8849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyras: Rogue | 305540 | [305540-gyras-rogue.json](./305540-gyras-rogue.json) |
 | Gyre | 347749 | [347749-gyre.json](./347749-gyre.json) |
 | Gyre: Nova State | 109910 | [109910-gyre-nova-state.json](./109910-gyre-nova-state.json) |
+| Gyro Boss DX | 116069 | [116069-gyro-boss-dx.json](./116069-gyro-boss-dx.json) |
 | Gyro Buster | 106000 | [106000-gyro-buster.json](./106000-gyro-buster.json) |
 | Gyro Gear | 181724 | [181724-gyro-gear.json](./181724-gyro-gear.json) |
 | Gyro Gear Tournament+ | 211733 | [211733-gyro-gear-tournament.json](./211733-gyro-gear-tournament.json) |
