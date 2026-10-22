@@ -962,7 +962,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Stole My Heart! | 340344 | [340344-you-stole-my-heart.json](./340344-you-stole-my-heart.json) |
 | You Suck and I Hate You | 362413 | [362413-you-suck-and-i-hate-you.json](./362413-you-suck-and-i-hate-you.json) |
 | You Suck at Football | 363571 | [363571-you-suck-at-football.json](./363571-you-suck-at-football.json) |
-| You Suck at Parking | 138884 | [138884-you-suck-at-parking.json](./138884-you-suck-at-parking.json) |
 | You Sure Wanna Drink This? | 346699 | [346699-you-sure-wanna-drink-this.json](./346699-you-sure-wanna-drink-this.json) |
 | You VS Drugs: Education & Prevention | 311316 | [311316-you-vs-drugs-education-and-prevention.json](./311316-you-vs-drugs-education-and-prevention.json) |
 | You vs. Boo | 307665 | [307665-you-vs-boo.json](./307665-you-vs-boo.json) |
