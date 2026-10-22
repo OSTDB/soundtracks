@@ -3833,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remission | 302090 | [302090-remission.json](./302090-remission.json) |
 | ReMix | 276642 | [276642-remix.json](./276642-remix.json) |
 | ReMix: Encore | 311815 | [311815-remix-encore.json](./311815-remix-encore.json) |
+| Remnant | 144676 | [144676-remnant.json](./144676-remnant.json) |
 | Remnant Frontier: Survival | 373001 | [373001-remnant-frontier-survival.json](./373001-remnant-frontier-survival.json) |
 | Remnant Generation: Prologue | 392293 | [392293-remnant-generation-prologue.json](./392293-remnant-generation-prologue.json) |
 | Remnant II | 228535 | [228535-remnant-ii.json](./228535-remnant-ii.json) |
@@ -4089,6 +4090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Republic of Jungle | 138655 | [138655-republic-of-jungle.json](./138655-republic-of-jungle.json) |
 | Republic of Pirates | 278603 | [278603-republic-of-pirates.json](./278603-republic-of-pirates.json) |
 | Republic: The Revolution | 10236 | [10236-republic-the-revolution.json](./10236-republic-the-revolution.json) |
+| Republican Bayonets on the Rhine | 144826 | [144826-republican-bayonets-on-the-rhine.json](./144826-republican-bayonets-on-the-rhine.json) |
 | République VR | 159154 | [159154-republique-vr.json](./159154-republique-vr.json) |
 | Republique: Anniversary Edition | 152324 | [152324-republique-anniversary-edition.json](./152324-republique-anniversary-edition.json) |
 | République: Deluxe Edition | 51875 | [51875-republique-deluxe-edition.json](./51875-republique-deluxe-edition.json) |
@@ -5238,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | rFactor | 9493 | [9493-rfactor.json](./9493-rfactor.json) |
 | rFactor 2 | 9494 | [9494-rfactor-2.json](./9494-rfactor-2.json) |
 | Rflex | 34677 | [34677-rflex.json](./34677-rflex.json) |
+| RFS: Real Flight Simulator | 144649 | [144649-rfs-real-flight-simulator.json](./144649-rfs-real-flight-simulator.json) |
 | RFVR | 189989 | [189989-rfvr.json](./189989-rfvr.json) |
 | Rg-ft | 176997 | [176997-rg-ft.json](./176997-rg-ft.json) |
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
