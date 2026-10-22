@@ -1920,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Madden Football | 13240 | [13240-john-madden-football.json](./13240-john-madden-football.json) |
 | John Madden Football | 295034 | [295034-john-madden-football.json](./295034-john-madden-football.json) |
 | John Madden Football | 295035 | [295035-john-madden-football.json](./295035-john-madden-football.json) |
+| John Mambo | 101268 | [101268-john-mambo.json](./101268-john-mambo.json) |
 | John Novak | 270552 | [270552-john-novak.json](./270552-john-novak.json) |
 | John Parkour | 345254 | [345254-john-parkour.json](./345254-john-parkour.json) |
 | John Tiller's Campaign Series | 129544 | [129544-john-tillers-campaign-series.json](./129544-john-tillers-campaign-series.json) |
@@ -2186,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey of Reincarnation | 303598 | [303598-journey-of-reincarnation.json](./303598-journey-of-reincarnation.json) |
 | Journey of the Broken Circle | 136502 | [136502-journey-of-the-broken-circle.json](./136502-journey-of-the-broken-circle.json) |
 | Journey of the Forgotten | 274460 | [274460-journey-of-the-forgotten.json](./274460-journey-of-the-forgotten.json) |
+| Journey of the Fox | 101287 | [101287-journey-of-the-fox.json](./101287-journey-of-the-fox.json) |
 | Journey of the Garden Rose | 346185 | [346185-journey-of-the-garden-rose.json](./346185-journey-of-the-garden-rose.json) |
 | Journey of the King | 17930 | [17930-journey-of-the-king.json](./17930-journey-of-the-king.json) |
 | Journey Of The Light | 370850 | [370850-journey-of-the-light.json](./370850-journey-of-the-light.json) |
@@ -2825,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Jammy | 242565 | [242565-jungle-jammy.json](./242565-jungle-jammy.json) |
 | Jungle Jim | 340781 | [340781-jungle-jim.json](./340781-jungle-jim.json) |
 | Jungle Jinx | 355563 | [355563-jungle-jinx.json](./355563-jungle-jinx.json) |
+| Jungle Juggle | 101271 | [101271-jungle-juggle.json](./101271-jungle-juggle.json) |
 | Jungle Jumble | 341454 | [341454-jungle-jumble.json](./341454-jungle-jumble.json) |
 | Jungle Jumperz | 336754 | [336754-jungle-jumperz.json](./336754-jungle-jumperz.json) |
 | Jungle Kong | 339240 | [339240-jungle-kong.json](./339240-jungle-kong.json) |
@@ -2863,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungler | 297490 | [297490-jungler.json](./297490-jungler.json) |
 | Jungler | 40050 | [40050-jungler.json](./40050-jungler.json) |
 | Jungles of Maxtheria | 139403 | [139403-jungles-of-maxtheria.json](./139403-jungles-of-maxtheria.json) |
+| JungleShoot | 101251 | [101251-jungleshoot.json](./101251-jungleshoot.json) |
 | Junglex | 115616 | [115616-junglex.json](./115616-junglex.json) |
 | Jungo | 257391 | [257391-jungo.json](./257391-jungo.json) |
 | Junior Arithmancer | 138149 | [138149-junior-arithmancer.json](./138149-junior-arithmancer.json) |
@@ -2998,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Pixel Dinosaur Craft | 350596 | [350596-jurassic-pixel-dinosaur-craft.json](./350596-jurassic-pixel-dinosaur-craft.json) |
 | Jurassic Racer - Dinosaur Racing Game | 100330 | [100330-jurassic-racer-dinosaur-racing-game.json](./100330-jurassic-racer-dinosaur-racing-game.json) |
 | Jurassic Rampage: Smash the City! | 100329 | [100329-jurassic-rampage-smash-the-city.json](./100329-jurassic-rampage-smash-the-city.json) |
+| Jurassic Safari Hunt | 101316 | [101316-jurassic-safari-hunt.json](./101316-jurassic-safari-hunt.json) |
 | Jurassic Snap | 172997 | [172997-jurassic-snap.json](./172997-jurassic-snap.json) |
 | Jurassic Survival Island: Evolve | 194026 | [194026-jurassic-survival-island-evolve.json](./194026-jurassic-survival-island-evolve.json) |
 | Jurassic Tower Defense | 301403 | [301403-jurassic-tower-defense.json](./301403-jurassic-tower-defense.json) |
