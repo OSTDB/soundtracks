@@ -5361,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior Tactics | 94184 | [94184-mechwarrior-tactics.json](./94184-mechwarrior-tactics.json) |
 | MechWarrior: Living Legends | 51237 | [51237-mechwarrior-living-legends.json](./51237-mechwarrior-living-legends.json) |
 | MechWarrior: Tactical Command | 19196 | [19196-mechwarrior-tactical-command.json](./19196-mechwarrior-tactical-command.json) |
+| MechZ9 | 123270 | [123270-mechz9.json](./123270-mechz9.json) |
 | Meda Avi | 188842 | [188842-meda-avi.json](./188842-meda-avi.json) |
 | Medabots 4 | 55141 | [55141-medabots-4.json](./55141-medabots-4.json) |
 | Medabots 5: Susutake Mura no Tenkousei | 55142 | [55142-medabots-5-susutake-mura-no-tenkousei.json](./55142-medabots-5-susutake-mura-no-tenkousei.json) |
@@ -10384,6 +10385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage: Illusions | 326977 | [326977-mirage-illusions.json](./326977-mirage-illusions.json) |
 | Mirage: Perfect Skyline | 303194 | [303194-mirage-perfect-skyline.json](./303194-mirage-perfect-skyline.json) |
 | Mirages | 223433 | [223433-mirages.json](./223433-mirages.json) |
+| Mirages of Winter | 123275 | [123275-mirages-of-winter.json](./123275-mirages-of-winter.json) |
 | Miragine War | 176890 | [176890-miragine-war.json](./176890-miragine-war.json) |
 | Mirai | 200755 | [200755-mirai.json](./200755-mirai.json) |
 | Mirai Dagakki FutureTomTom | 140962 | [140962-mirai-dagakki-futuretomtom.json](./140962-mirai-dagakki-futuretomtom.json) |
@@ -12623,6 +12625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters vs. Aliens | 248559 | [248559-monsters-vs-aliens.json](./248559-monsters-vs-aliens.json) |
 | Monsters vs. Aliens | 5021 | [5021-monsters-vs-aliens.json](./5021-monsters-vs-aliens.json) |
 | Monsters vs. Aliens: The Mobile Game | 316477 | [316477-monsters-vs-aliens-the-mobile-game.json](./316477-monsters-vs-aliens-the-mobile-game.json) |
+| Monsters with Attitude | 123250 | [123250-monsters-with-attitude.json](./123250-monsters-with-attitude.json) |
 | Monsters, Briefcase and Road | 159831 | [159831-monsters-briefcase-and-road.json](./159831-monsters-briefcase-and-road.json) |
 | Monsters, Inc. | 86185 | [86185-monsters-inc.json](./86185-monsters-inc.json) |
 | Monsters, Inc. Scare Station | 350217 | [350217-monsters-inc-scare-station.json](./350217-monsters-inc-scare-station.json) |
