@@ -1915,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eleven | 179401 | [179401-eleven.json](./179401-eleven.json) |
 | Eleven Beat World Tournament | 299780 | [299780-eleven-beat-world-tournament.json](./299780-eleven-beat-world-tournament.json) |
 | Eleven Eleven | 118433 | [118433-eleven-eleven.json](./118433-eleven-eleven.json) |
+| Eleven Islands Puzzle | 102640 | [102640-eleven-islands-puzzle.json](./102640-eleven-islands-puzzle.json) |
 | Eleven Pickleball | 341121 | [341121-eleven-pickleball.json](./341121-eleven-pickleball.json) |
 | Eleven: Table Tennis VR | 32889 | [32889-eleven-table-tennis-vr.json](./32889-eleven-table-tennis-vr.json) |
 | Eleven's Quest | 245183 | [245183-elevens-quest.json](./245183-elevens-quest.json) |
@@ -5356,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everstill Valley | 394899 | [394899-everstill-valley.json](./394899-everstill-valley.json) |
 | Everstorm | 283100 | [283100-everstorm.json](./283100-everstorm.json) |
 | Evertales | 23927 | [23927-evertales.json](./23927-evertales.json) |
+| Evertech Sandbox | 102662 | [102662-evertech-sandbox.json](./102662-evertech-sandbox.json) |
 | Evertown | 33782 | [33782-evertown.json](./33782-evertown.json) |
 | Evertree Inn | 30187 | [30187-evertree-inn.json](./30187-evertree-inn.json) |
 | Evertried | 142081 | [142081-evertried.json](./142081-evertried.json) |
