@@ -4259,6 +4259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koten Tsumego Shuu: Shijin no Maki | 384658 | [384658-koten-tsumego-shuu-shijin-no-maki.json](./384658-koten-tsumego-shuu-shijin-no-maki.json) |
 | KóterGame | 111856 | [111856-kotergame.json](./111856-kotergame.json) |
 | Kotoba Dash | 388182 | [388182-kotoba-dash.json](./388182-kotoba-dash.json) |
+| Kotoba no Kieta Hi ~Kokoro made Hadaka ni Suru Jun'ai Choukyou~ | 142904 | [142904-kotoba-no-kieta-hi-kokoro-made-hadaka-ni-suru-junai-choukyou.json](./142904-kotoba-no-kieta-hi-kokoro-made-hadaka-ni-suru-junai-choukyou.json) |
 | Kotoba no Puzzle Mojipittan Daijiten | 68082 | [68082-kotoba-no-puzzle-mojipittan-daijiten.json](./68082-kotoba-no-puzzle-mojipittan-daijiten.json) |
 | Kotoba no Puzzle Mojipittan Wii | 68081 | [68081-kotoba-no-puzzle-mojipittan-wii.json](./68081-kotoba-no-puzzle-mojipittan-wii.json) |
 | Kotoba no Puzzle: Mojipittan | 80798 | [80798-kotoba-no-puzzle-mojipittan.json](./80798-kotoba-no-puzzle-mojipittan.json) |
