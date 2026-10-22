@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.U.B.E | 412998 | [412998-c-u-b-e.json](./412998-c-u-b-e.json) |
 | C.U.B.I.P.L.E.X. | 58576 | [58576-c-u-b-i-p-l-e-x.json](./58576-c-u-b-i-p-l-e-x.json) |
 | C.V.: Watashi to Watashi no Naka no Hito - The Fourth Insider | 397400 | [397400-c-v-watashi-to-watashi-no-naka-no-hito-the-fourth-insider.json](./397400-c-v-watashi-to-watashi-no-naka-no-hito-the-fourth-insider.json) |
+| C.Y.S.M.A. | 128245 | [128245-c-y-s-m-a.json](./128245-c-y-s-m-a.json) |
 | C'est La Vie | 250205 | [250205-cest-la-vie.json](./250205-cest-la-vie.json) |
 | C'est La Vie | 55882 | [55882-cest-la-vie.json](./55882-cest-la-vie.json) |
 | C'est Pas Sorcier | 269671 | [269671-cest-pas-sorcier.json](./269671-cest-pas-sorcier.json) |
@@ -5797,6 +5798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip-8 Emulator | 252650 | [252650-chip-8-emulator.json](./252650-chip-8-emulator.json) |
 | Chip-Boi | 177954 | [177954-chip-boi.json](./177954-chip-boi.json) |
 | Chip-chan Kick! | 45961 | [45961-chip-chan-kick.json](./45961-chip-chan-kick.json) |
+| Chip: Rescuer of Kittens | 128221 | [128221-chip-rescuer-of-kittens.json](./128221-chip-rescuer-of-kittens.json) |
 | Chip's Challenge | 12001 | [12001-chips-challenge.json](./12001-chips-challenge.json) |
 | Chip's Challenge | 282471 | [282471-chips-challenge.json](./282471-chips-challenge.json) |
 | Chip's Challenge | 282555 | [282555-chips-challenge.json](./282555-chips-challenge.json) |
@@ -7949,6 +7951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb Jump | 175746 | [175746-climb-jump.json](./175746-climb-jump.json) |
 | Climb New York Parkour VR | 244640 | [244640-climb-new-york-parkour-vr.json](./244640-climb-new-york-parkour-vr.json) |
 | Climb out of Hell | 343322 | [343322-climb-out-of-hell.json](./343322-climb-out-of-hell.json) |
+| Climb Out! | 128236 | [128236-climb-out.json](./128236-climb-out.json) |
 | Climb Quest | 315113 | [315113-climb-quest.json](./315113-climb-quest.json) |
 | Climb the Tower | 157208 | [157208-climb-the-tower.json](./157208-climb-the-tower.json) |
 | Climb the Tower | 268185 | [268185-climb-the-tower.json](./268185-climb-the-tower.json) |
@@ -8576,6 +8579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Geass: Lelouch of the Rebellion - Lost Colors | 66411 | [66411-code-geass-lelouch-of-the-rebellion-lost-colors.json](./66411-code-geass-lelouch-of-the-rebellion-lost-colors.json) |
 | Code Geass: Lelouch of the Rebellion R2 Banjou no Geass Gekijou | 80162 | [80162-code-geass-lelouch-of-the-rebellion-r2-banjou-no-geass-gekijou.json](./80162-code-geass-lelouch-of-the-rebellion-r2-banjou-no-geass-gekijou.json) |
 | Code Lyoko RDT | 346460 | [346460-code-lyoko-rdt.json](./346460-code-lyoko-rdt.json) |
+| Code Lyoko: Carthage Explorer | 128207 | [128207-code-lyoko-carthage-explorer.json](./128207-code-lyoko-carthage-explorer.json) |
 | Code Lyoko: Get Ready to Virtualize | 8453 | [8453-code-lyoko-get-ready-to-virtualize.json](./8453-code-lyoko-get-ready-to-virtualize.json) |
 | Code My Robot Vacuum | 396524 | [396524-code-my-robot-vacuum.json](./396524-code-my-robot-vacuum.json) |
 | Code Name Teacher | 292307 | [292307-code-name-teacher.json](./292307-code-name-teacher.json) |
@@ -12989,6 +12993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Shooters 2 | 204475 | [204475-crazy-shooters-2.json](./204475-crazy-shooters-2.json) |
 | Crazy Shopping | 123966 | [123966-crazy-shopping.json](./123966-crazy-shopping.json) |
 | Crazy Shot | 12414 | [12414-crazy-shot.json](./12414-crazy-shot.json) |
+| Crazy Simulator | 128230 | [128230-crazy-simulator.json](./128230-crazy-simulator.json) |
 | Crazy Skies: Endless Arcade Flyer | 175560 | [175560-crazy-skies-endless-arcade-flyer.json](./175560-crazy-skies-endless-arcade-flyer.json) |
 | Crazy Snowboard | 87553 | [87553-crazy-snowboard.json](./87553-crazy-snowboard.json) |
 | Crazy Soccer | 104631 | [104631-crazy-soccer.json](./104631-crazy-soccer.json) |
