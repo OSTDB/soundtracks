@@ -825,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Slaughter | 405943 | [405943-camp-slaughter.json](./405943-camp-slaughter.json) |
 | Camp Sunshine | 25605 | [25605-camp-sunshine.json](./25605-camp-sunshine.json) |
 | Camp Sunshine: Ultimate Edition | 52713 | [52713-camp-sunshine-ultimate-edition.json](./52713-camp-sunshine-ultimate-edition.json) |
+| Camp Teddy | 106930 | [106930-camp-teddy.json](./106930-camp-teddy.json) |
 | Camp W | 99025 | [99025-camp-w.json](./99025-camp-w.json) |
 | Camp Wars | 186668 | [186668-camp-wars.json](./186668-camp-wars.json) |
 | Camp Wombo | 351010 | [351010-camp-wombo.json](./351010-camp-wombo.json) |
@@ -5785,6 +5786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Inn | 109200 | [109200-chinese-inn.json](./109200-chinese-inn.json) |
 | Chinese Juggler | 13830 | [13830-chinese-juggler.json](./13830-chinese-juggler.json) |
 | Chinese Karate | 15885 | [15885-chinese-karate.json](./15885-chinese-karate.json) |
+| Chinese Ludo Forever | 106917 | [106917-chinese-ludo-forever.json](./106917-chinese-ludo-forever.json) |
 | Chinese mother in law | 158166 | [158166-chinese-mother-in-law.json](./158166-chinese-mother-in-law.json) |
 | Chinese Mythology: Journey to the West | 369216 | [369216-chinese-mythology-journey-to-the-west.json](./369216-chinese-mythology-journey-to-the-west.json) |
 | Chinese New Year 2013 | 233779 | [233779-chinese-new-year-2013.json](./233779-chinese-new-year-2013.json) |
@@ -9329,6 +9331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Symphony 2 | 34396 | [34396-color-symphony-2.json](./34396-color-symphony-2.json) |
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
 | Color the Truth | 57512 | [57512-color-the-truth.json](./57512-color-the-truth.json) |
+| Color Tiles - Puzzle | 106911 | [106911-color-tiles-puzzle.json](./106911-color-tiles-puzzle.json) |
 | Color Tower | 243080 | [243080-color-tower.json](./243080-color-tower.json) |
 | Color Tower Defence | 309712 | [309712-color-tower-defence.json](./309712-color-tower-defence.json) |
 | Color Trigger | 400352 | [400352-color-trigger.json](./400352-color-trigger.json) |
