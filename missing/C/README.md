@@ -1596,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Driving School Simulator | 90233 | [90233-car-driving-school-simulator.json](./90233-car-driving-school-simulator.json) |
 | Car Driving Simulator | 153835 | [153835-car-driving-simulator.json](./153835-car-driving-simulator.json) |
 | Car Eats Car 2 | 227900 | [227900-car-eats-car-2.json](./227900-car-eats-car-2.json) |
+| Car Eats Car 3 | 102023 | [102023-car-eats-car-3.json](./102023-car-eats-car-3.json) |
 | Car Escape | 88602 | [88602-car-escape.json](./88602-car-escape.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car Factory Tycoon | 230372 | [230372-car-factory-tycoon.json](./230372-car-factory-tycoon.json) |
@@ -4762,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charming Hearts | 302345 | [302345-charming-hearts.json](./302345-charming-hearts.json) |
 | Charming Hill | 399262 | [399262-charming-hill.json](./399262-charming-hill.json) |
 | Charming Tails | 298987 | [298987-charming-tails.json](./298987-charming-tails.json) |
+| Charms of Lavender Blue | 101995 | [101995-charms-of-lavender-blue.json](./101995-charms-of-lavender-blue.json) |
 | Charmy Bee in Sonic the Hedgehog | 129181 | [129181-charmy-bee-in-sonic-the-hedgehog.json](./129181-charmy-bee-in-sonic-the-hedgehog.json) |
 | Charmy Maze | 332220 | [332220-charmy-maze.json](./332220-charmy-maze.json) |
 | Charoite Into the Deep | 374429 | [374429-charoite-into-the-deep.json](./374429-charoite-into-the-deep.json) |
@@ -12808,6 +12810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Mandala | 411814 | [411814-crayon-mandala.json](./411814-crayon-mandala.json) |
 | Crayon Pairs | 105945 | [105945-crayon-pairs.json](./105945-crayon-pairs.json) |
 | Crayon Physics | 70935 | [70935-crayon-physics.json](./70935-crayon-physics.json) |
+| Crayon Poke | 101918 | [101918-crayon-poke.json](./101918-crayon-poke.json) |
 | Crayon Run | 106365 | [106365-crayon-run.json](./106365-crayon-run.json) |
 | Crayon Sea Friends | 399629 | [399629-crayon-sea-friends.json](./399629-crayon-sea-friends.json) |
 | Crayon Shin Chan: The Storm Called! Flaming Kasukabe Runner!! | 130760 | [130760-crayon-shin-chan-the-storm-called-flaming-kasukabe-runner.json](./130760-crayon-shin-chan-the-storm-called-flaming-kasukabe-runner.json) |
@@ -13272,6 +13275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creeping Deck: Pharaoh's Curse | 225228 | [225228-creeping-deck-pharaohs-curse.json](./225228-creeping-deck-pharaohs-curse.json) |
 | Creeping It Reel | 141049 | [141049-creeping-it-reel.json](./141049-creeping-it-reel.json) |
 | Creepless | 253427 | [253427-creepless.json](./253427-creepless.json) |
+| Creepo's Tales 2 | 101928 | [101928-creepos-tales-2.json](./101928-creepos-tales-2.json) |
 | Creepo's Tales: Chopping Mall | 310556 | [310556-creepos-tales-chopping-mall.json](./310556-creepos-tales-chopping-mall.json) |
 | Creepshow | 272838 | [272838-creepshow.json](./272838-creepshow.json) |
 | Creepslore | 195165 | [195165-creepslore.json](./195165-creepslore.json) |
