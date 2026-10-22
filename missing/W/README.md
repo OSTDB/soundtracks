@@ -1547,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors & Castles | 35200 | [35200-warriors-and-castles.json](./35200-warriors-and-castles.json) |
 | Warriors & Mages | 173270 | [173270-warriors-and-mages.json](./173270-warriors-and-mages.json) |
 | Warriors All-Stars: Treasure Box | 212334 | [212334-warriors-all-stars-treasure-box.json](./212334-warriors-all-stars-treasure-box.json) |
+| Warriors Heaven | 150991 | [150991-warriors-heaven.json](./150991-warriors-heaven.json) |
 | Warriors Match Connect Classic | 235231 | [235231-warriors-match-connect-classic.json](./235231-warriors-match-connect-classic.json) |
 | Warriors of Destiny | 188346 | [188346-warriors-of-destiny.json](./188346-warriors-of-destiny.json) |
 | Warriors of Dust | 278350 | [278350-warriors-of-dust.json](./278350-warriors-of-dust.json) |
@@ -1591,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars Across the World: Armada 1588 | 159620 | [159620-wars-across-the-world-armada-1588.json](./159620-wars-across-the-world-armada-1588.json) |
 | Wars Across the World: Austerlitz 1805 | 159603 | [159603-wars-across-the-world-austerlitz-1805.json](./159603-wars-across-the-world-austerlitz-1805.json) |
 | Wars Across the World: Berlin 1945 | 159634 | [159634-wars-across-the-world-berlin-1945.json](./159634-wars-across-the-world-berlin-1945.json) |
+| Wars Across the World: Bosworth 1485 | 150925 | [150925-wars-across-the-world-bosworth-1485.json](./150925-wars-across-the-world-bosworth-1485.json) |
 | Wars Across the World: Bulgaria 1913 | 350611 | [350611-wars-across-the-world-bulgaria-1913.json](./350611-wars-across-the-world-bulgaria-1913.json) |
 | Wars across the World: Bulge 1944 | 150510 | [150510-wars-across-the-world-bulge-1944.json](./150510-wars-across-the-world-bulge-1944.json) |
 | Wars Across the World: Bull Run 1861 | 159629 | [159629-wars-across-the-world-bull-run-1861.json](./159629-wars-across-the-world-bull-run-1861.json) |
@@ -2036,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waven: Drhell's Bells Pack | 289458 | [289458-waven-drhells-bells-pack.json](./289458-waven-drhells-bells-pack.json) |
 | WaveOfTimeLite | 102893 | [102893-waveoftimelite.json](./102893-waveoftimelite.json) |
 | WavePlayer | 190161 | [190161-waveplayer.json](./190161-waveplayer.json) |
+| Waverly Hills | 150920 | [150920-waverly-hills.json](./150920-waverly-hills.json) |
 | Waves | 13547 | [13547-waves.json](./13547-waves.json) |
 | Waves ! | 104097 | [104097-waves.json](./104097-waves.json) |
 | Waves of Chess | 383496 | [383496-waves-of-chess.json](./383496-waves-of-chess.json) |
