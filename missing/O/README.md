@@ -1764,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Dreamy Night | 312587 | [312587-one-dreamy-night.json](./312587-one-dreamy-night.json) |
 | One Drone | 236251 | [236251-one-drone.json](./236251-one-drone.json) |
 | One Drop | 284396 | [284396-one-drop.json](./284396-one-drop.json) |
+| One Drop Bot | 117367 | [117367-one-drop-bot.json](./117367-one-drop-bot.json) |
 | One Drunken Knight | 211969 | [211969-one-drunken-knight.json](./211969-one-drunken-knight.json) |
 | One Dumb Wizard | 402970 | [402970-one-dumb-wizard.json](./402970-one-dumb-wizard.json) |
 | One Eleven | 211694 | [211694-one-eleven.json](./211694-one-eleven.json) |
