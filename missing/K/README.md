@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaimeishi | 312654 | [312654-kaimeishi.json](./312654-kaimeishi.json) |
 | Kaimyou Maker | 324191 | [324191-kaimyou-maker.json](./324191-kaimyou-maker.json) |
 | Kain Cobra: Autogun Blaster | 307205 | [307205-kain-cobra-autogun-blaster.json](./307205-kain-cobra-autogun-blaster.json) |
+| Kainga | 132462 | [132462-kainga.json](./132462-kainga.json) |
 | Kainga: Collector's Edition | 243803 | [243803-kainga-collectors-edition.json](./243803-kainga-collectors-edition.json) |
 | Kaire | 344388 | [344388-kaire.json](./344388-kaire.json) |
 | Kairo Land | 208037 | [208037-kairo-land.json](./208037-kairo-land.json) |
@@ -1899,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill It With Fire VR | 239612 | [239612-kill-it-with-fire-vr.json](./239612-kill-it-with-fire-vr.json) |
 | Kill It With Fire: Exterminator Edition | 208574 | [208574-kill-it-with-fire-exterminator-edition.json](./208574-kill-it-with-fire-exterminator-edition.json) |
 | Kill It With Fire: HeatWave | 137005 | [137005-kill-it-with-fire-heatwave.json](./137005-kill-it-with-fire-heatwave.json) |
+| Kill It With Fire: Ignition | 133071 | [133071-kill-it-with-fire-ignition.json](./133071-kill-it-with-fire-ignition.json) |
 | Kill Kill Kill Kill | 312579 | [312579-kill-kill-kill-kill.json](./312579-kill-kill-kill-kill.json) |
 | Kill King | 189923 | [189923-kill-king.json](./189923-kill-king.json) |
 | Kill la Kill: IF - Limited Box Edition | 167112 | [167112-kill-la-kill-if-limited-box-edition.json](./167112-kill-la-kill-if-limited-box-edition.json) |
@@ -2364,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Bugs | 348317 | [348317-king-of-bugs.json](./348317-king-of-bugs.json) |
 | King of Conquerors | 211175 | [211175-king-of-conquerors.json](./211175-king-of-conquerors.json) |
 | King of Cooking | 151158 | [151158-king-of-cooking.json](./151158-king-of-cooking.json) |
+| King of Crabs | 133077 | [133077-king-of-crabs.json](./133077-king-of-crabs.json) |
 | King of Crowns Chess Online | 74262 | [74262-king-of-crowns-chess-online.json](./74262-king-of-crowns-chess-online.json) |
 | King of Darts | 60388 | [60388-king-of-darts.json](./60388-king-of-darts.json) |
 | King of Dead | 106735 | [106735-king-of-dead.json](./106735-king-of-dead.json) |
@@ -2435,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Road | 238642 | [238642-king-of-the-road.json](./238642-king-of-the-road.json) |
 | King of the Sandcastle | 129566 | [129566-king-of-the-sandcastle.json](./129566-king-of-the-sandcastle.json) |
 | King of the Savage Realms | 195473 | [195473-king-of-the-savage-realms.json](./195473-king-of-the-savage-realms.json) |
+| King of the Streets | 132494 | [132494-king-of-the-streets.json](./132494-king-of-the-streets.json) |
 | King of the Times | 269225 | [269225-king-of-the-times.json](./269225-king-of-the-times.json) |
 | King of the Universe | 188878 | [188878-king-of-the-universe.json](./188878-king-of-the-universe.json) |
 | King of the West | 231986 | [231986-king-of-the-west.json](./231986-king-of-the-west.json) |
@@ -4609,7 +4613,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kumo: The Little Robot | 126986 | [126986-kumo-the-little-robot.json](./126986-kumo-the-little-robot.json) |
 | Kumoon: Ballistic Physics Puzzle | 19029 | [19029-kumoon-ballistic-physics-puzzle.json](./19029-kumoon-ballistic-physics-puzzle.json) |
 | Kun’tewiktuk: A Mi’kmaw Adventure | 303620 | [303620-kun-tewiktuk-a-mi-kmaw-adventure.json](./303620-kun-tewiktuk-a-mi-kmaw-adventure.json) |
-| Kunai | 114094 | [114094-kunai.json](./114094-kunai.json) |
 | Kunai Master | 224024 | [224024-kunai-master.json](./224024-kunai-master.json) |
 | Kunai Strike | 203557 | [203557-kunai-strike.json](./203557-kunai-strike.json) |
 | Kundara: Art of Cards | 381311 | [381311-kundara-art-of-cards.json](./381311-kundara-art-of-cards.json) |
