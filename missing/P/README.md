@@ -1606,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallel Plague: Good Old Days | 290487 | [290487-parallel-plague-good-old-days.json](./290487-parallel-plague-good-old-days.json) |
 | Parallel Rift | 332300 | [332300-parallel-rift.json](./332300-parallel-rift.json) |
 | Parallel Room Escape | 243176 | [243176-parallel-room-escape.json](./243176-parallel-room-escape.json) |
+| Parallel Shift | 143394 | [143394-parallel-shift.json](./143394-parallel-shift.json) |
 | Parallel Universe | 184357 | [184357-parallel-universe.json](./184357-parallel-universe.json) |
 | Parallel World | 113026 | [113026-parallel-world.json](./113026-parallel-world.json) |
 | Parallel World in the Dream | 408206 | [408206-parallel-world-in-the-dream.json](./408206-parallel-world-in-the-dream.json) |
@@ -8961,6 +8962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokemonGoGo | 381780 | [381780-pokemongogo.json](./381780-pokemongogo.json) |
 | PokeNade Monster Ball | 366574 | [366574-pokenade-monster-ball.json](./366574-pokenade-monster-ball.json) |
 | Pokénet | 333548 | [333548-pokenet.json](./333548-pokenet.json) |
+| PokeNexus | 143403 | [143403-pokenexus.json](./143403-pokenexus.json) |
 | PokéOne | 127982 | [127982-pokeone.json](./127982-pokeone.json) |
 | PokéPark 2: Wonders Beyond | 4559 | [4559-pokepark-2-wonders-beyond.json](./4559-pokepark-2-wonders-beyond.json) |
 | PokéPark Wii: Pikachu's Adventure | 4558 | [4558-pokepark-wii-pikachus-adventure.json](./4558-pokepark-wii-pikachus-adventure.json) |
@@ -9211,6 +9213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Simulator | 415170 | [415170-police-simulator.json](./415170-police-simulator.json) |
 | Police Simulator | 54285 | [54285-police-simulator.json](./54285-police-simulator.json) |
 | Police Simulator 2 | 10711 | [10711-police-simulator-2.json](./10711-police-simulator-2.json) |
+| Police Simulator: Patrol Duty | 143318 | [143318-police-simulator-patrol-duty.json](./143318-police-simulator-patrol-duty.json) |
 | Police Simulator: Patrol Officers - Complete Edition | 399824 | [399824-police-simulator-patrol-officers-complete-edition.json](./399824-police-simulator-patrol-officers-complete-edition.json) |
 | Police Simulator: Patrol Officers - Extended Edition | 292618 | [292618-police-simulator-patrol-officers-extended-edition.json](./292618-police-simulator-patrol-officers-extended-edition.json) |
 | Police Simulator: Patrol Officers - Gold Edition | 293933 | [293933-police-simulator-patrol-officers-gold-edition.json](./293933-police-simulator-patrol-officers-gold-edition.json) |
@@ -10361,6 +10364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowBall Renaissance | 54508 | [54508-powball-renaissance.json](./54508-powball-renaissance.json) |
 | Powder | 49505 | [49505-powder.json](./49505-powder.json) |
 | Powder | 80803 | [80803-powder.json](./80803-powder.json) |
+| Powder Game 2 | 143551 | [143551-powder-game-2.json](./143551-powder-game-2.json) |
 | Powder VR | 116864 | [116864-powder-vr.json](./116864-powder-vr.json) |
 | Powdergray | 322965 | [322965-powdergray.json](./322965-powdergray.json) |
 | Power | 130818 | [130818-power.json](./130818-power.json) |
@@ -14115,6 +14119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle de Harvest Moon | 20897 | [20897-puzzle-de-harvest-moon.json](./20897-puzzle-de-harvest-moon.json) |
 | Puzzle de Pon! R | 47579 | [47579-puzzle-de-pon-r.json](./47579-puzzle-de-pon-r.json) |
 | Puzzle de Shoubu yo! Wootama-chan | 282515 | [282515-puzzle-de-shoubu-yo-wootama-chan.json](./282515-puzzle-de-shoubu-yo-wootama-chan.json) |
+| Puzzle Defense | 143391 | [143391-puzzle-defense.json](./143391-puzzle-defense.json) |
 | Puzzle DeFusion | 78979 | [78979-puzzle-defusion.json](./78979-puzzle-defusion.json) |
 | Puzzle Depot | 59650 | [59650-puzzle-depot.json](./59650-puzzle-depot.json) |
 | Puzzle Detective | 209370 | [209370-puzzle-detective.json](./209370-puzzle-detective.json) |
