@@ -5038,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mean Girls | 150035 | [150035-mean-girls.json](./150035-mean-girls.json) |
 | Mean Machines | 246257 | [246257-mean-machines.json](./246257-mean-machines.json) |
 | Mean Routine | 111540 | [111540-mean-routine.json](./111540-mean-routine.json) |
+| Mean-While | 149329 | [149329-mean-while.json](./149329-mean-while.json) |
 | Meander | 108986 | [108986-meander.json](./108986-meander.json) |
 | Meander Land | 265703 | [265703-meander-land.json](./265703-meander-land.json) |
 | Meanderer | 217163 | [217163-meanderer.json](./217163-meanderer.json) |
@@ -7028,6 +7029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Defence | 214159 | [214159-meow-defence.json](./214159-meow-defence.json) |
 | Meow Express | 186685 | [186685-meow-express.json](./186685-meow-express.json) |
 | Meow Garden | 333906 | [333906-meow-garden.json](./333906-meow-garden.json) |
+| Meow Lab | 149349 | [149349-meow-lab.json](./149349-meow-lab.json) |
 | Meow Master: Battle for Catnip | 251726 | [251726-meow-master-battle-for-catnip.json](./251726-meow-master-battle-for-catnip.json) |
 | Meow Meow Wizard Arena | 289256 | [289256-meow-meow-wizard-arena.json](./289256-meow-meow-wizard-arena.json) |
 | Meow Meoww | 265415 | [265415-meow-meoww.json](./265415-meow-meoww.json) |
@@ -10669,6 +10671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission to Venus | 387643 | [387643-mission-to-venus.json](./387643-mission-to-venus.json) |
 | Mission Twentyeight | 193412 | [193412-mission-twentyeight.json](./193412-mission-twentyeight.json) |
 | Mission Twentynine | 296983 | [296983-mission-twentynine.json](./296983-mission-twentynine.json) |
+| Mission Veterinaire | 149283 | [149283-mission-veterinaire.json](./149283-mission-veterinaire.json) |
 | Mission Z | 157035 | [157035-mission-z.json](./157035-mission-z.json) |
 | Mission: Caduceus | 128406 | [128406-mission-caduceus.json](./128406-mission-caduceus.json) |
 | Mission: Chao | 330713 | [330713-mission-chao.json](./330713-mission-chao.json) |
@@ -11500,6 +11503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molly n' D.O.G.'s Records | 376609 | [376609-molly-n-d-o-g-s-records.json](./376609-molly-n-d-o-g-s-records.json) |
 | Molly: fear of clowns | 126613 | [126613-molly-fear-of-clowns.json](./126613-molly-fear-of-clowns.json) |
 | Molly: The Near Mint Hero | 385355 | [385355-molly-the-near-mint-hero.json](./385355-molly-the-near-mint-hero.json) |
+| Mollycoddle Mayhem | 149318 | [149318-mollycoddle-mayhem.json](./149318-mollycoddle-mayhem.json) |
 | Molnspelet | 19813 | [19813-molnspelet.json](./19813-molnspelet.json) |
 | Molo's Revenge | 323255 | [323255-molos-revenge.json](./323255-molos-revenge.json) |
 | Moloch Kombinat | 410886 | [410886-moloch-kombinat.json](./410886-moloch-kombinat.json) |
@@ -11621,6 +11625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momoyo to Tsukasa no Dig Dig Adventure | 234513 | [234513-momoyo-to-tsukasa-no-dig-dig-adventure.json](./234513-momoyo-to-tsukasa-no-dig-dig-adventure.json) |
 | Mompreneur: Pizza Cooking Life Sim | 127829 | [127829-mompreneur-pizza-cooking-life-sim.json](./127829-mompreneur-pizza-cooking-life-sim.json) |
 | Mon | 185461 | [185461-mon.json](./185461-mon.json) |
+| Mon Coach Personnel, J'enrichis Mon Vocabulaire | 149278 | [149278-mon-coach-personnel-jenrichis-mon-vocabulaire.json](./149278-mon-coach-personnel-jenrichis-mon-vocabulaire.json) |
 | Mon Coach Personnel: J'ameliore Mon Anglais | 210124 | [210124-mon-coach-personnel-jameliore-mon-anglais.json](./210124-mon-coach-personnel-jameliore-mon-anglais.json) |
 | Mon Poulain 3D | 147219 | [147219-mon-poulain-3d.json](./147219-mon-poulain-3d.json) |
 | Mon-cuties for All | 134679 | [134679-mon-cuties-for-all.json](./134679-mon-cuties-for-all.json) |
