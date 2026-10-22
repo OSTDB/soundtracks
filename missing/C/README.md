@@ -3718,6 +3718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caved-in | 249797 | [249797-caved-in.json](./249797-caved-in.json) |
 | CaveDare | 110907 | [110907-cavedare.json](./110907-cavedare.json) |
 | Cavedude | 397940 | [397940-cavedude.json](./397940-cavedude.json) |
+| Cavefall | 128851 | [128851-cavefall.json](./128851-cavefall.json) |
 | CaveFiction | 216789 | [216789-cavefiction.json](./216789-cavefiction.json) |
 | Cavegirl Adventures | 163992 | [163992-cavegirl-adventures.json](./163992-cavegirl-adventures.json) |
 | Caveheart: Legacy of The Depths | 322662 | [322662-caveheart-legacy-of-the-depths.json](./322662-caveheart-legacy-of-the-depths.json) |
@@ -4485,6 +4486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chao Extreme | 331372 | [331372-chao-extreme.json](./331372-chao-extreme.json) |
 | Chao Illust Club | 130714 | [130714-chao-illust-club.json](./130714-chao-illust-club.json) |
 | Chao Internet Pet | 331475 | [331475-chao-internet-pet.json](./331475-chao-internet-pet.json) |
+| Chao Ji Mahjong Club | 128878 | [128878-chao-ji-mahjong-club.json](./128878-chao-ji-mahjong-club.json) |
 | Chao Life | 326835 | [326835-chao-life.json](./326835-chao-life.json) |
 | Chao Online | 331154 | [331154-chao-online.json](./331154-chao-online.json) |
 | Chao Resort Island | 148404 | [148404-chao-resort-island.json](./148404-chao-resort-island.json) |
@@ -7291,6 +7293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cityglitch | 86747 | [86747-cityglitch.json](./86747-cityglitch.json) |
 | CityInc | 307902 | [307902-cityinc.json](./307902-cityinc.json) |
 | CityLights - San Francisco | 112904 | [112904-citylights-san-francisco.json](./112904-citylights-san-francisco.json) |
+| CityManager | 128833 | [128833-citymanager.json](./128833-citymanager.json) |
 | Citypurger | 323411 | [323411-citypurger.json](./323411-citypurger.json) |
 | Cityquiz.io | 305324 | [305324-cityquiz-io.json](./305324-cityquiz-io.json) |
 | CityRunner | 155409 | [155409-cityrunner.json](./155409-cityrunner.json) |
@@ -8039,6 +8042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClockWork | 217480 | [217480-clockwork.json](./217480-clockwork.json) |
 | Clockwork Apple | 182934 | [182934-clockwork-apple.json](./182934-clockwork-apple.json) |
 | Clockwork Calamity in Mushroom World: What would you do if the time stopped ticking? | 153424 | [153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json](./153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json) |
+| Clockwork Cat | 128868 | [128868-clockwork-cat.json](./128868-clockwork-cat.json) |
 | Clockwork Dreams | 169238 | [169238-clockwork-dreams.json](./169238-clockwork-dreams.json) |
 | Clockwork Dungeon | 165682 | [165682-clockwork-dungeon.json](./165682-clockwork-dungeon.json) |
 | Clockwork Empires | 9764 | [9764-clockwork-empires.json](./9764-clockwork-empires.json) |
