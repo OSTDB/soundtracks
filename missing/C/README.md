@@ -6528,6 +6528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Ma:Gia | 86680 | [86680-chrono-ma-gia.json](./86680-chrono-ma-gia.json) |
 | Chrono Mirror | 276696 | [276696-chrono-mirror.json](./276696-chrono-mirror.json) |
 | Chrono Port: Heroes of All Time | 366320 | [366320-chrono-port-heroes-of-all-time.json](./366320-chrono-port-heroes-of-all-time.json) |
+| Chrono Project | 105146 | [105146-chrono-project.json](./105146-chrono-project.json) |
 | Chrono Quest | 14179 | [14179-chrono-quest.json](./14179-chrono-quest.json) |
 | Chrono Quest II | 14180 | [14180-chrono-quest-ii.json](./14180-chrono-quest-ii.json) |
 | Chrono Ressurection | 263448 | [263448-chrono-ressurection.json](./263448-chrono-ressurection.json) |
@@ -14817,6 +14818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Paste | 146231 | [146231-cube-paste.json](./146231-cube-paste.json) |
 | Cube Quest | 25818 | [25818-cube-quest.json](./25818-cube-quest.json) |
 | Cube Racer | 74217 | [74217-cube-racer.json](./74217-cube-racer.json) |
+| Cube Racer Free to play | 105036 | [105036-cube-racer-free-to-play.json](./105036-cube-racer-free-to-play.json) |
 | Cube Raiders | 140968 | [140968-cube-raiders.json](./140968-cube-raiders.json) |
 | Cube Railway | 312695 | [312695-cube-railway.json](./312695-cube-railway.json) |
 | Cube Rampage | 134702 | [134702-cube-rampage.json](./134702-cube-rampage.json) |
