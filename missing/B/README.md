@@ -734,7 +734,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1512,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana-Clicker | 322657 | [322657-banana-clicker.json](./322657-banana-clicker.json) |
 | Banana-Shaped | 309490 | [309490-banana-shaped.json](./309490-banana-shaped.json) |
 | Bananaganza | 366736 | [366736-bananaganza.json](./366736-bananaganza.json) |
+| Bananagrams | 110038 | [110038-bananagrams.json](./110038-bananagrams.json) |
 | BananaGuideline | 125827 | [125827-bananaguideline.json](./125827-bananaguideline.json) |
 | BananaGuy | 247604 | [247604-bananaguy.json](./247604-bananaguy.json) |
 | Bananaman: Food Fighter | 312817 | [312817-bananaman-food-fighter.json](./312817-bananaman-food-fighter.json) |
@@ -1609,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BanG Dream! Girls Band Party! for Nintendo Switch | 152887 | [152887-bang-dream-girls-band-party-for-nintendo-switch.json](./152887-bang-dream-girls-band-party-for-nintendo-switch.json) |
 | Bang For Your Truck | 133137 | [133137-bang-for-your-truck.json](./133137-bang-for-your-truck.json) |
 | Bang-On Balls: Chronicles - Deluxe Edition | 288284 | [288284-bang-on-balls-chronicles-deluxe-edition.json](./288284-bang-on-balls-chronicles-deluxe-edition.json) |
+| Bang! | 110037 | [110037-bang.json](./110037-bang.json) |
 | Bang! Bang! Totally Accurate Redneck Simulator | 138808 | [138808-bang-bang-totally-accurate-redneck-simulator.json](./138808-bang-bang-totally-accurate-redneck-simulator.json) |
 | Bang! Howdy | 51472 | [51472-bang-howdy.json](./51472-bang-howdy.json) |
 | Bangai-O | 3443 | [3443-bangai-o.json](./3443-bangai-o.json) |
@@ -2873,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for Desert City | 281952 | [281952-battle-for-desert-city.json](./281952-battle-for-desert-city.json) |
 | Battle For Dream Island Again 5b | 138011 | [138011-battle-for-dream-island-again-5b.json](./138011-battle-for-dream-island-again-5b.json) |
 | Battle For Embolia | 123390 | [123390-battle-for-embolia.json](./123390-battle-for-embolia.json) |
+| Battle for Gaming | 110081 | [110081-battle-for-gaming.json](./110081-battle-for-gaming.json) |
 | Battle for Graxia | 50814 | [50814-battle-for-graxia.json](./50814-battle-for-graxia.json) |
 | Battle For It All | 87192 | [87192-battle-for-it-all.json](./87192-battle-for-it-all.json) |
 | Battle for Iwo Jima | 130070 | [130070-battle-for-iwo-jima.json](./130070-battle-for-iwo-jima.json) |
@@ -3655,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BBTan2 | 250192 | [250192-bbtan2.json](./250192-bbtan2.json) |
 | Bburago Rally | 362414 | [362414-bburago-rally.json](./362414-bburago-rally.json) |
 | Bby don't hurt me | 383011 | [383011-bby-dont-hurt-me.json](./383011-bby-dont-hurt-me.json) |
+| BC Project | 110046 | [110046-bc-project.json](./110046-bc-project.json) |
 | BC Racers | 5362 | [5362-bc-racers.json](./5362-bc-racers.json) |
 | BCBasic | 313457 | [313457-bcbasic.json](./313457-bcbasic.json) |
 | BCFX: The Doug Williams Edition | 70603 | [70603-bcfx-the-doug-williams-edition.json](./70603-bcfx-the-doug-williams-edition.json) |
@@ -8344,6 +8347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockout | 347672 | [347672-blockout.json](./347672-blockout.json) |
 | Blockoverse: The Legend of the Pix | 321070 | [321070-blockoverse-the-legend-of-the-pix.json](./321070-blockoverse-the-legend-of-the-pix.json) |
 | Blockpop Heroes | 219211 | [219211-blockpop-heroes.json](./219211-blockpop-heroes.json) |
+| Blockpost | 110077 | [110077-blockpost.json](./110077-blockpost.json) |
 | Blockpost Mobile | 225875 | [225875-blockpost-mobile.json](./225875-blockpost-mobile.json) |
 | Blockremental | 348025 | [348025-blockremental.json](./348025-blockremental.json) |
 | Blocks | 113503 | [113503-blocks.json](./113503-blocks.json) |
