@@ -4302,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maten no Soumetsu | 46073 | [46073-maten-no-soumetsu.json](./46073-maten-no-soumetsu.json) |
 | Matendouji | 215140 | [215140-matendouji.json](./215140-matendouji.json) |
 | Mater's Tires | 359380 | [359380-maters-tires.json](./359380-maters-tires.json) |
+| Matergari: Below Valesia | 133087 | [133087-matergari-below-valesia.json](./133087-matergari-below-valesia.json) |
 | Material Brave | 180612 | [180612-material-brave.json](./180612-material-brave.json) |
 | Material Brave Ignition | 180630 | [180630-material-brave-ignition.json](./180630-material-brave-ignition.json) |
 | Materialization of Memories | 248019 | [248019-materialization-of-memories.json](./248019-materialization-of-memories.json) |
@@ -4753,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem Heroes | 234528 | [234528-mayhem-heroes.json](./234528-mayhem-heroes.json) |
 | Mayhem in Monsterland | 18550 | [18550-mayhem-in-monsterland.json](./18550-mayhem-in-monsterland.json) |
 | Mayhem in Single Valley | 116780 | [116780-mayhem-in-single-valley.json](./116780-mayhem-in-single-valley.json) |
+| Mayhem in Single Valley: Confessions | 133099 | [133099-mayhem-in-single-valley-confessions.json](./133099-mayhem-in-single-valley-confessions.json) |
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
 | Mayhem Mail | 272746 | [272746-mayhem-mail.json](./272746-mayhem-mail.json) |
 | Mayhem Motorsports Collection | 283208 | [283208-mayhem-motorsports-collection.json](./283208-mayhem-motorsports-collection.json) |
@@ -6218,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megagun | 408538 | [408538-megagun.json](./408538-megagun.json) |
 | Megajump | 174077 | [174077-megajump.json](./174077-megajump.json) |
 | Megako Punch! | 407597 | [407597-megako-punch.json](./407597-megako-punch.json) |
+| Megalan 11 | 133101 | [133101-megalan-11.json](./133101-megalan-11.json) |
 | Megalit | 19558 | [19558-megalit.json](./19558-megalit.json) |
 | Megalith | 143049 | [143049-megalith.json](./143049-megalith.json) |
 | Megalith | 75246 | [75246-megalith.json](./75246-megalith.json) |
@@ -11921,6 +11924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monochrome Racing | 52592 | [52592-monochrome-racing.json](./52592-monochrome-racing.json) |
 | Monochrome RPG Episode 1: The Maniacal Morning | 152894 | [152894-monochrome-rpg-episode-1-the-maniacal-morning.json](./152894-monochrome-rpg-episode-1-the-maniacal-morning.json) |
 | Monochrome Valentine | 183576 | [183576-monochrome-valentine.json](./183576-monochrome-valentine.json) |
+| Monochrome World | 133104 | [133104-monochrome-world.json](./133104-monochrome-world.json) |
 | Monochrono | 57937 | [57937-monochrono.json](./57937-monochrono.json) |
 | Monocity | 220680 | [220680-monocity.json](./220680-monocity.json) |
 | Monodot | 207828 | [207828-monodot.json](./207828-monodot.json) |
@@ -13540,7 +13544,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moss Palace Parade | 406118 | [406118-moss-palace-parade.json](./406118-moss-palace-parade.json) |
 | Moss Piglets | 295102 | [295102-moss-piglets.json](./295102-moss-piglets.json) |
 | Moss: Becoming Human | 337448 | [337448-moss-becoming-human.json](./337448-moss-becoming-human.json) |
-| Moss: Book II | 154839 | [154839-moss-book-ii.json](./154839-moss-book-ii.json) |
 | Moss: The Twilight Garden | 162204 | [162204-moss-the-twilight-garden.json](./162204-moss-the-twilight-garden.json) |
 | Mossbound | 385219 | [385219-mossbound.json](./385219-mossbound.json) |
 | Mossfield Origins | 204536 | [204536-mossfield-origins.json](./204536-mossfield-origins.json) |
