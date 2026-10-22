@@ -5027,6 +5027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Israel vs. Iran: Iron Dome | 377080 | [377080-israel-vs-iran-iron-dome.json](./377080-israel-vs-iran-iron-dome.json) |
 | ISS Pro Evolution | 28403 | [28403-iss-pro-evolution.json](./28403-iss-pro-evolution.json) |
 | ISS Simulator | 326411 | [326411-iss-simulator.json](./326411-iss-simulator.json) |
+| ISS: International Superstar Soccer | 136303 | [136303-iss-international-superstar-soccer.json](./136303-iss-international-superstar-soccer.json) |
 | ISS: International Superstar Soccer | 220859 | [220859-iss-international-superstar-soccer.json](./220859-iss-international-superstar-soccer.json) |
 | Issho ni Asobo Koupen-chan | 133715 | [133715-issho-ni-asobo-koupen-chan.json](./133715-issho-ni-asobo-koupen-chan.json) |
 | Issho ni Asobo Koupen-chan | 144685 | [144685-issho-ni-asobo-koupen-chan.json](./144685-issho-ni-asobo-koupen-chan.json) |
