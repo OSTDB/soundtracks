@@ -1130,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Witch Shall be Born | 315559 | [315559-a-witch-shall-be-born.json](./315559-a-witch-shall-be-born.json) |
 | A Witch's Game | 293552 | [293552-a-witchs-game.json](./293552-a-witchs-game.json) |
 | A Witch's Stop | 382374 | [382374-a-witchs-stop.json](./382374-a-witchs-stop.json) |
+| A Witch's Word | 123280 | [123280-a-witchs-word.json](./123280-a-witchs-word.json) |
 | A Wizard's Curse | 416855 | [416855-a-wizards-curse.json](./416855-a-wizards-curse.json) |
 | A Wizard's Odyssey | 68651 | [68651-a-wizards-odyssey.json](./68651-a-wizards-odyssey.json) |
 | A Woman for All Seasons | 323217 | [323217-a-woman-for-all-seasons.json](./323217-a-woman-for-all-seasons.json) |
@@ -1431,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abeline Rush | 377432 | [377432-abeline-rush.json](./377432-abeline-rush.json) |
 | Abenteuer Landtag 2 | 135093 | [135093-abenteuer-landtag-2.json](./135093-abenteuer-landtag-2.json) |
 | Abenteuer Stahl | 141497 | [141497-abenteuer-stahl.json](./141497-abenteuer-stahl.json) |
+| Abenteuer Weltraum | 123246 | [123246-abenteuer-weltraum.json](./123246-abenteuer-weltraum.json) |
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
 | Aberrant Nights | 304671 | [304671-aberrant-nights.json](./304671-aberrant-nights.json) |
 | Aberrate Inc. | 377431 | [377431-aberrate-inc.json](./377431-aberrate-inc.json) |
@@ -7189,6 +7191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Adventures | 238403 | [238403-angel-adventures.json](./238403-angel-adventures.json) |
 | Angel and Devil, Ninja, Sushi, Tempura, Panda and the Statue of Liberty | 108389 | [108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json](./108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json) |
 | Angel Beats! 1st Beat | 11414 | [11414-angel-beats-1st-beat.json](./11414-angel-beats-1st-beat.json) |
+| Angel Blade: Neo Tokyo Guardians | 123291 | [123291-angel-blade-neo-tokyo-guardians.json](./123291-angel-blade-neo-tokyo-guardians.json) |
 | Angel Clicker | 381320 | [381320-angel-clicker.json](./381320-angel-clicker.json) |
 | Angel Club | 385849 | [385849-angel-club.json](./385849-angel-club.json) |
 | Angel Code | 52405 | [52405-angel-code.json](./52405-angel-code.json) |
@@ -13157,6 +13160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audiosurf 2 | 9707 | [9707-audiosurf-2.json](./9707-audiosurf-2.json) |
 | AudioWizards | 129054 | [129054-audiowizards.json](./129054-audiowizards.json) |
 | Audition 2 | 135805 | [135805-audition-2.json](./135805-audition-2.json) |
+| Audition Next Gen | 123258 | [123258-audition-next-gen.json](./123258-audition-next-gen.json) |
 | Audition Portable | 56520 | [56520-audition-portable.json](./56520-audition-portable.json) |
 | Auditorium | 15282 | [15282-auditorium.json](./15282-auditorium.json) |
 | Audo | 181348 | [181348-audo.json](./181348-audo.json) |
