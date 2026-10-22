@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld: Munch's Oddysee HD | 51329 | [51329-oddworld-munchs-oddysee-hd.json](./51329-oddworld-munchs-oddysee-hd.json) |
 | Oddworld: New 'n' Tasty | 5552 | [5552-oddworld-new-n-tasty.json](./5552-oddworld-new-n-tasty.json) |
 | Oddworld: New 'n' Tasty - Deluxe Edition | 132146 | [132146-oddworld-new-n-tasty-deluxe-edition.json](./132146-oddworld-new-n-tasty-deluxe-edition.json) |
+| Oddworld: New 'n' Tasty - Limited Edition | 139855 | [139855-oddworld-new-n-tasty-limited-edition.json](./139855-oddworld-new-n-tasty-limited-edition.json) |
 | Oddworld: Soulstorm - Collector's Oddition | 146008 | [146008-oddworld-soulstorm-collectors-oddition.json](./146008-oddworld-soulstorm-collectors-oddition.json) |
 | Oddworld: Soulstorm - Day 1 Oddition | 146118 | [146118-oddworld-soulstorm-day-1-oddition.json](./146118-oddworld-soulstorm-day-1-oddition.json) |
 | Oddworld: Soulstorm Oddtimized Edition | 222891 | [222891-oddworld-soulstorm-oddtimized-edition.json](./222891-oddworld-soulstorm-oddtimized-edition.json) |
@@ -1348,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omensight: Definitive Edition | 112879 | [112879-omensight-definitive-edition.json](./112879-omensight-definitive-edition.json) |
 | Omerta | 413190 | [413190-omerta.json](./413190-omerta.json) |
 | Omerta Chinmoku no Okite: The Legacy | 287637 | [287637-omerta-chinmoku-no-okite-the-legacy.json](./287637-omerta-chinmoku-no-okite-the-legacy.json) |
+| Omertà Code: Tycoon Kai | 139852 | [139852-omerta-code-tycoon-kai.json](./139852-omerta-code-tycoon-kai.json) |
 | Omerta: City of Gangsters | 6330 | [6330-omerta-city-of-gangsters.json](./6330-omerta-city-of-gangsters.json) |
 | Omerta: City of Gangsters - Damsel in Distress | 10639 | [10639-omerta-city-of-gangsters-damsel-in-distress.json](./10639-omerta-city-of-gangsters-damsel-in-distress.json) |
 | Omerta: City of Gangsters - The Arms Industry | 10640 | [10640-omerta-city-of-gangsters-the-arms-industry.json](./10640-omerta-city-of-gangsters-the-arms-industry.json) |
