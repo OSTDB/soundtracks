@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: Bakersfield | 356437 | [356437-fallout-bakersfield.json](./356437-fallout-bakersfield.json) |
 | Fallout: Dust | 243647 | [243647-fallout-dust.json](./243647-fallout-dust.json) |
 | Fallout: Empire Wastes | 322274 | [322274-fallout-empire-wastes.json](./322274-fallout-empire-wastes.json) |
+| Fallout: Legacy Collection | 122725 | [122725-fallout-legacy-collection.json](./122725-fallout-legacy-collection.json) |
 | Fallout: Nevada | 237830 | [237830-fallout-nevada.json](./237830-fallout-nevada.json) |
 | Fallout: New Vegas - Collector's Edition | 45129 | [45129-fallout-new-vegas-collectors-edition.json](./45129-fallout-new-vegas-collectors-edition.json) |
 | Fallout: New Vegas - Courier's Stash | 45127 | [45127-fallout-new-vegas-couriers-stash.json](./45127-fallout-new-vegas-couriers-stash.json) |
@@ -3221,6 +3222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fez II | 63291 | [63291-fez-ii.json](./63291-fez-ii.json) |
 | Fez Pocket Edition | 78543 | [78543-fez-pocket-edition.json](./78543-fez-pocket-edition.json) |
 | Feztal | 176887 | [176887-feztal.json](./176887-feztal.json) |
+| Ff | 122660 | [122660-ff.json](./122660-ff.json) |
 | FF Link | 311806 | [311806-ff-link.json](./311806-ff-link.json) |
 | FF: U on PC - Final Fantasy: Unlimited - Labyrinth: Kuroki Dream Memory | 336020 | [336020-ff-u-on-pc-final-fantasy-unlimited-labyrinth-kuroki-dream-memory.json](./336020-ff-u-on-pc-final-fantasy-unlimited-labyrinth-kuroki-dream-memory.json) |
 | FF2us Impossible | 360107 | [360107-ff2us-impossible.json](./360107-ff2us-impossible.json) |
@@ -6047,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Control HD | 15064 | [15064-flight-control-hd.json](./15064-flight-control-hd.json) |
 | Flight Date | 403710 | [403710-flight-date.json](./403710-flight-date.json) |
 | Flight Deck 5 | 78093 | [78093-flight-deck-5.json](./78093-flight-deck-5.json) |
+| Flight Deck II | 122647 | [122647-flight-deck-ii.json](./122647-flight-deck-ii.json) |
 | Flight Fight 2s | 89699 | [89699-flight-fight-2s.json](./89699-flight-fight-2s.json) |
 | Flight Light Plus | 96504 | [96504-flight-light-plus.json](./96504-flight-light-plus.json) |
 | Flight Mania | 76147 | [76147-flight-mania.json](./76147-flight-mania.json) |
