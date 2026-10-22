@@ -4278,10 +4278,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Grid VR | 102350 | [102350-escape-the-grid-vr.json](./102350-escape-the-grid-vr.json) |
 | Escape the House | 413116 | [413116-escape-the-house.json](./413116-escape-the-house.json) |
 | Escape the Humans | 362409 | [362409-escape-the-humans.json](./362409-escape-the-humans.json) |
+| Escape the Island | 128852 | [128852-escape-the-island.json](./128852-escape-the-island.json) |
 | Escape the Lab | 126938 | [126938-escape-the-lab.json](./126938-escape-the-lab.json) |
 | Escape the Loop | 30183 | [30183-escape-the-loop.json](./30183-escape-the-loop.json) |
 | Escape The Lost Kingdom: The Forgotten Pharaoh | 17293 | [17293-escape-the-lost-kingdom-the-forgotten-pharaoh.json](./17293-escape-the-lost-kingdom-the-forgotten-pharaoh.json) |
 | Escape the Mad Empire | 217233 | [217233-escape-the-mad-empire.json](./217233-escape-the-mad-empire.json) |
+| Escape the Manor | 128840 | [128840-escape-the-manor.json](./128840-escape-the-manor.json) |
 | Escape the Marine Lab | 406693 | [406693-escape-the-marine-lab.json](./406693-escape-the-marine-lab.json) |
 | Escape the Maze | 366117 | [366117-escape-the-maze.json](./366117-escape-the-maze.json) |
 | Escape the Mazes | 90483 | [90483-escape-the-mazes.json](./90483-escape-the-mazes.json) |
@@ -4685,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Puppet | 291394 | [291394-eternal-puppet.json](./291394-eternal-puppet.json) |
 | Eternal Quest | 154266 | [154266-eternal-quest.json](./154266-eternal-quest.json) |
 | Eternal Quest | 43353 | [43353-eternal-quest.json](./43353-eternal-quest.json) |
+| Eternal Radiance | 128856 | [128856-eternal-radiance.json](./128856-eternal-radiance.json) |
 | Eternal Realm | 280723 | [280723-eternal-realm.json](./280723-eternal-realm.json) |
 | Eternal Reckoning | 287733 | [287733-eternal-reckoning.json](./287733-eternal-reckoning.json) |
 | Eternal Refresh | 419948 | [419948-eternal-refresh.json](./419948-eternal-refresh.json) |
@@ -6051,6 +6054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eXperience 112 | 17873 | [17873-experience-112.json](./17873-experience-112.json) |
 | Experience: Colorblindness | 112363 | [112363-experience-colorblindness.json](./112363-experience-colorblindness.json) |
 | Experiment | 357738 | [357738-experiment.json](./357738-experiment.json) |
+| Experiment 12 | 128826 | [128826-experiment-12.json](./128826-experiment-12.json) |
 | Experiment 28 | 344789 | [344789-experiment-28.json](./344789-experiment-28.json) |
 | Experiment 404 | 391159 | [391159-experiment-404.json](./391159-experiment-404.json) |
 | Experiment 427 | 305308 | [305308-experiment-427.json](./305308-experiment-427.json) |
