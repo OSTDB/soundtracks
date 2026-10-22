@@ -6486,6 +6486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitee Wars | 245575 | [245575-gravitee-wars.json](./245575-gravitee-wars.json) |
 | Gravitee Wars | 310833 | [310833-gravitee-wars.json](./310833-gravitee-wars.json) |
 | Gravitee Wars Online | 95940 | [95940-gravitee-wars-online.json](./95940-gravitee-wars-online.json) |
+| Graviter | 131834 | [131834-graviter.json](./131834-graviter.json) |
 | Graviter | 417310 | [417310-graviter.json](./417310-graviter.json) |
 | Gravitia | 285909 | [285909-gravitia.json](./285909-gravitia.json) |
 | Gravito | 184265 | [184265-gravito.json](./184265-gravito.json) |
