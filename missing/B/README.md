@@ -3487,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship Avalon | 309539 | [309539-battleship-avalon.json](./309539-battleship-avalon.json) |
 | Battleship Command | 403062 | [403062-battleship-command.json](./403062-battleship-command.json) |
 | Battleship Crafting | 358484 | [358484-battleship-crafting.json](./358484-battleship-crafting.json) |
+| Battleship Empire | 103104 | [103104-battleship-empire.json](./103104-battleship-empire.json) |
 | Battleship Lonewolf | 260651 | [260651-battleship-lonewolf.json](./260651-battleship-lonewolf.json) |
 | Battleship Naval Combat | 366404 | [366404-battleship-naval-combat.json](./366404-battleship-naval-combat.json) |
 | Battleship War Multiplayer | 325534 | [325534-battleship-war-multiplayer.json](./325534-battleship-war-multiplayer.json) |
@@ -3644,6 +3645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
 | BB Adventure | 368823 | [368823-bb-adventure.json](./368823-bb-adventure.json) |
 | BB Ball | 49485 | [49485-bb-ball.json](./49485-bb-ball.json) |
+| BB Carom Billiard | 103117 | [103117-bb-carom-billiard.json](./103117-bb-carom-billiard.json) |
 | BBA Ghost Story: Ward Edition | 358254 | [358254-bba-ghost-story-ward-edition.json](./358254-bba-ghost-story-ward-edition.json) |
 | BBB: Vestal (Visual Novel Vol. 1) | 118130 | [118130-bbb-vestal-visual-novel-vol-1.json](./118130-bbb-vestal-visual-novel-vol-1.json) |
 | BBC-rex | 289573 | [289573-bbc-rex.json](./289573-bbc-rex.json) |
@@ -10241,6 +10243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Faster | 157198 | [157198-boom-faster.json](./157198-boom-faster.json) |
 | Boom Guys | 176141 | [176141-boom-guys.json](./176141-boom-guys.json) |
 | Boom Karts: Multiplayer Kart Racing | 144982 | [144982-boom-karts-multiplayer-kart-racing.json](./144982-boom-karts-multiplayer-kart-racing.json) |
+| Boom Land | 103148 | [103148-boom-land.json](./103148-boom-land.json) |
 | Boom Lift Operator | 298156 | [298156-boom-lift-operator.json](./298156-boom-lift-operator.json) |
 | Boom Pilot | 120643 | [120643-boom-pilot.json](./120643-boom-pilot.json) |
 | Boom Robots | 312094 | [312094-boom-robots.json](./312094-boom-robots.json) |
@@ -10957,6 +10960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Fever: Power Edition | 399811 | [399811-bowling-fever-power-edition.json](./399811-bowling-fever-power-edition.json) |
 | Bowling Fever: Superior Edition | 317915 | [317915-bowling-fever-superior-edition.json](./317915-bowling-fever-superior-edition.json) |
 | Bowling Game 3D | 88584 | [88584-bowling-game-3d.json](./88584-bowling-game-3d.json) |
+| Bowling Game 3D HD | 103131 | [103131-bowling-game-3d-hd.json](./103131-bowling-game-3d-hd.json) |
 | Bowling in a Skate Park | 309002 | [309002-bowling-in-a-skate-park.json](./309002-bowling-in-a-skate-park.json) |
 | Bowling is a Fun Game | 134333 | [134333-bowling-is-a-fun-game.json](./134333-bowling-is-a-fun-game.json) |
 | Bowling Islands | 234616 | [234616-bowling-islands.json](./234616-bowling-islands.json) |
@@ -11568,6 +11572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravest Burden | 173291 | [173291-bravest-burden.json](./173291-bravest-burden.json) |
 | Bravest Chicken | 275878 | [275878-bravest-chicken.json](./275878-bravest-chicken.json) |
 | Bravest Coconut | 310837 | [310837-bravest-coconut.json](./310837-bravest-coconut.json) |
+| BraveWorld: Helix Jumper | 103103 | [103103-braveworld-helix-jumper.json](./103103-braveworld-helix-jumper.json) |
 | BraveWorld: Sky Rolling Ball | 100777 | [100777-braveworld-sky-rolling-ball.json](./100777-braveworld-sky-rolling-ball.json) |
 | Bravium | 81083 | [81083-bravium.json](./81083-bravium.json) |
 | Bravium: Hero Defense | 38974 | [38974-bravium-hero-defense.json](./38974-bravium-hero-defense.json) |
