@@ -11725,7 +11725,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monastery: Ora et Labora | 364402 | [364402-monastery-ora-et-labora.json](./364402-monastery-ora-et-labora.json) |
 | Monativity Surveillance | 359542 | [359542-monativity-surveillance.json](./359542-monativity-surveillance.json) |
 | Monato Esprit | 68047 | [68047-monato-esprit.json](./68047-monato-esprit.json) |
-| Moncage | 116578 | [116578-moncage.json](./116578-moncage.json) |
 | Monch! | 250975 | [250975-monch.json](./250975-monch.json) |
 | Monculi | 261095 | [261095-monculi.json](./261095-monculi.json) |
 | Mondai no Aru Share House | 260117 | [260117-mondai-no-aru-share-house.json](./260117-mondai-no-aru-share-house.json) |
