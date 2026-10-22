@@ -2230,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the West: Blade Souls | 286135 | [286135-journey-to-the-west-blade-souls.json](./286135-journey-to-the-west-blade-souls.json) |
 | Journey to the West: Dark Invasion | 309650 | [309650-journey-to-the-west-dark-invasion.json](./309650-journey-to-the-west-dark-invasion.json) |
 | Journey to the West: Unparalleled | 357813 | [357813-journey-to-the-west-unparalleled.json](./357813-journey-to-the-west-unparalleled.json) |
+| Journey to Valhalla | 107549 | [107549-journey-to-valhalla.json](./107549-journey-to-valhalla.json) |
 | Journey to Whale Fall | 338740 | [338740-journey-to-whale-fall.json](./338740-journey-to-whale-fall.json) |
 | Journey to Wild Divine | 23743 | [23743-journey-to-wild-divine.json](./23743-journey-to-wild-divine.json) |
 | Journey Up | 319404 | [319404-journey-up.json](./319404-journey-up.json) |
