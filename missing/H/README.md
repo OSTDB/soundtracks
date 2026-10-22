@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand Almighty | 393759 | [393759-hand-almighty.json](./393759-hand-almighty.json) |
 | Hand Cannon Virtuoso | 132256 | [132256-hand-cannon-virtuoso.json](./132256-hand-cannon-virtuoso.json) |
 | Hand Cooking Simulator: Multi-Chef | 326403 | [326403-hand-cooking-simulator-multi-chef.json](./326403-hand-cooking-simulator-multi-chef.json) |
+| Hand Doctor For Kids | 106926 | [106926-hand-doctor-for-kids.json](./106926-hand-doctor-for-kids.json) |
 | Hand Held Boggle | 239337 | [239337-hand-held-boggle.json](./239337-hand-held-boggle.json) |
 | Hand Maid Mahjong 2 | 97823 | [97823-hand-maid-mahjong-2.json](./97823-hand-maid-mahjong-2.json) |
 | Hand Me A Lighter | 273816 | [273816-hand-me-a-lighter.json](./273816-hand-me-a-lighter.json) |
@@ -3696,6 +3697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HenPri: Hentai Prison | 192094 | [192094-henpri-hentai-prison.json](./192094-henpri-hentai-prison.json) |
 | Henri | 222521 | [222521-henri.json](./222521-henri.json) |
 | Henry | 80642 | [80642-henry.json](./80642-henry.json) |
+| Henry Danger Crime Warp | 106933 | [106933-henry-danger-crime-warp.json](./106933-henry-danger-crime-warp.json) |
 | Henry Danger: Day of Danger | 242381 | [242381-henry-danger-day-of-danger.json](./242381-henry-danger-day-of-danger.json) |
 | Henry Mosse and the Wormhole Conspiracy | 125689 | [125689-henry-mosse-and-the-wormhole-conspiracy.json](./125689-henry-mosse-and-the-wormhole-conspiracy.json) |
 | Henry Stickmin: Defending the Mall | 378979 | [378979-henry-stickmin-defending-the-mall.json](./378979-henry-stickmin-defending-the-mall.json) |
@@ -6308,6 +6310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiouden II | 297548 | [297548-hiouden-ii.json](./297548-hiouden-ii.json) |
 | Hiouden: Mamono-tachi to no Chikai | 60499 | [60499-hiouden-mamono-tachi-to-no-chikai.json](./60499-hiouden-mamono-tachi-to-no-chikai.json) |
 | Hip Hop & Street Dance School | 87868 | [87868-hip-hop-and-street-dance-school.json](./87868-hip-hop-and-street-dance-school.json) |
+| Hip Hop Battle: Girls vs. Boys - Dance Clash of the Sexes | 106902 | [106902-hip-hop-battle-girls-vs-boys-dance-clash-of-the-sexes.json](./106902-hip-hop-battle-girls-vs-boys-dance-clash-of-the-sexes.json) |
 | Hip Hop King: Rytmik Edition | 65460 | [65460-hip-hop-king-rytmik-edition.json](./65460-hip-hop-king-rytmik-edition.json) |
 | Hipatya in I wanna world | 307896 | [307896-hipatya-in-i-wanna-world.json](./307896-hipatya-in-i-wanna-world.json) |
 | Hiper Tronic | 72146 | [72146-hiper-tronic.json](./72146-hiper-tronic.json) |
