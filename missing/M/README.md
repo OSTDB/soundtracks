@@ -6515,6 +6515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaWorld | 286568 | [286568-megaworld.json](./286568-megaworld.json) |
 | Megazone 23: Aoi Garland | 7366 | [7366-megazone-23-aoi-garland.json](./7366-megazone-23-aoi-garland.json) |
 | Megdan | 298549 | [298549-megdan.json](./298549-megdan.json) |
+| Megido 72 | 108777 | [108777-megido-72.json](./108777-megido-72.json) |
 | Megis Adventure | 312670 | [312670-megis-adventure.json](./312670-megis-adventure.json) |
 | Megopoly | 152018 | [152018-megopoly.json](./152018-megopoly.json) |
 | Megpoid the Music Sharp | 38484 | [38484-megpoid-the-music-sharp.json](./38484-megpoid-the-music-sharp.json) |
@@ -11645,6 +11646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mom | 159247 | [159247-mom.json](./159247-mom.json) |
 | Mom | 319278 | [319278-mom.json](./319278-mom.json) |
 | Mom and Cake | 244105 | [244105-mom-and-cake.json](./244105-mom-and-cake.json) |
+| Mom and Me | 108773 | [108773-mom-and-me.json](./108773-mom-and-me.json) |
 | Mom Crush: Hidden Hotel Love Story | 387673 | [387673-mom-crush-hidden-hotel-love-story.json](./387673-mom-crush-hidden-hotel-love-story.json) |
 | Mom Hid My Game! | 78160 | [78160-mom-hid-my-game.json](./78160-mom-hid-my-game.json) |
 | Mom Hid My Game! 2 | 147835 | [147835-mom-hid-my-game-2.json](./147835-mom-hid-my-game-2.json) |
@@ -15447,6 +15449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutual Secret | 107386 | [107386-mutual-secret.json](./107386-mutual-secret.json) |
 | Mutus Meteora | 261190 | [261190-mutus-meteora.json](./261190-mutus-meteora.json) |
 | Muumit ja Taikalamppu | 178047 | [178047-muumit-ja-taikalamppu.json](./178047-muumit-ja-taikalamppu.json) |
+| Muumit ja Taikurin hattu | 108737 | [108737-muumit-ja-taikurin-hattu.json](./108737-muumit-ja-taikurin-hattu.json) |
 | Muumit meren aalloilla | 26376 | [26376-muumit-meren-aalloilla.json](./26376-muumit-meren-aalloilla.json) |
 | Muumit piilosilla | 26375 | [26375-muumit-piilosilla.json](./26375-muumit-piilosilla.json) |
 | Muv-Luv | 11778 | [11778-muv-luv.json](./11778-muv-luv.json) |
