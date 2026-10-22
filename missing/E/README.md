@@ -3257,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter the Flesh Again | 105110 | [105110-enter-the-flesh-again.json](./105110-enter-the-flesh-again.json) |
 | Enter the Gungeon: A Farewell to Arms | 118942 | [118942-enter-the-gungeon-a-farewell-to-arms.json](./118942-enter-the-gungeon-a-farewell-to-arms.json) |
 | Enter the Gungeon: Deluxe Edition | 136309 | [136309-enter-the-gungeon-deluxe-edition.json](./136309-enter-the-gungeon-deluxe-edition.json) |
+| Enter the Gungeon: House of the Gundead | 119317 | [119317-enter-the-gungeon-house-of-the-gundead.json](./119317-enter-the-gungeon-house-of-the-gundead.json) |
 | Enter The Lost Chamber | 294005 | [294005-enter-the-lost-chamber.json](./294005-enter-the-lost-chamber.json) |
 | Enter the Matrix | 1003 | [1003-enter-the-matrix.json](./1003-enter-the-matrix.json) |
 | Enter the Nemesis: Blood Portal | 346574 | [346574-enter-the-nemesis-blood-portal.json](./346574-enter-the-nemesis-blood-portal.json) |
@@ -5814,6 +5815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exfiltraitor | 181562 | [181562-exfiltraitor.json](./181562-exfiltraitor.json) |
 | Exfiltrator: Cyber Stealth Missions | 204464 | [204464-exfiltrator-cyber-stealth-missions.json](./204464-exfiltrator-cyber-stealth-missions.json) |
 | Exhaust | 80168 | [80168-exhaust.json](./80168-exhaust.json) |
+| Exhausted Man | 119319 | [119319-exhausted-man.json](./119319-exhausted-man.json) |
 | Exhibit of Sorrows | 321126 | [321126-exhibit-of-sorrows.json](./321126-exhibit-of-sorrows.json) |
 | Exhibition | 60014 | [60014-exhibition.json](./60014-exhibition.json) |
 | Exhibitors | 235882 | [235882-exhibitors.json](./235882-exhibitors.json) |
