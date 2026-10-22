@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TAL: Wizard's Adventures | 126956 | [126956-tal-wizards-adventures.json](./126956-tal-wizards-adventures.json) |
 | Talaka | 366585 | [366585-talaka.json](./366585-talaka.json) |
 | Tale of a Hero | 63385 | [63385-tale-of-a-hero.json](./63385-tale-of-a-hero.json) |
+| Tale of a Wolf | 139641 | [139641-tale-of-a-wolf.json](./139641-tale-of-a-wolf.json) |
 | Tale of an Apocalypse | 157014 | [157014-tale-of-an-apocalypse.json](./157014-tale-of-an-apocalypse.json) |
 | Tale of Avamphil | 177925 | [177925-tale-of-avamphil.json](./177925-tale-of-avamphil.json) |
 | Tale of Exorcists | 375313 | [375313-tale-of-exorcists.json](./375313-tale-of-exorcists.json) |
@@ -2307,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tea for Sana | 310036 | [310036-tea-for-sana.json](./310036-tea-for-sana.json) |
 | Tea for the King | 238103 | [238103-tea-for-the-king.json](./238103-tea-for-the-king.json) |
 | Tea for the Soul | 386497 | [386497-tea-for-the-soul.json](./386497-tea-for-the-soul.json) |
+| Tea Garden Simulator | 139647 | [139647-tea-garden-simulator.json](./139647-tea-garden-simulator.json) |
 | Tea Society of a Witch | 72664 | [72664-tea-society-of-a-witch.json](./72664-tea-society-of-a-witch.json) |
 | Tea Time | 195964 | [195964-tea-time.json](./195964-tea-time.json) |
 | Tea Time | 359406 | [359406-tea-time.json](./359406-tea-time.json) |
@@ -23766,6 +23768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trebuchet Town | 175993 | [175993-trebuchet-town.json](./175993-trebuchet-town.json) |
 | Tree Golf | 181662 | [181662-tree-golf.json](./181662-tree-golf.json) |
 | Tree Hole: Adventures In Wonderland | 248191 | [248191-tree-hole-adventures-in-wonderland.json](./248191-tree-hole-adventures-in-wonderland.json) |
+| Tree House Survivors | 139650 | [139650-tree-house-survivors.json](./139650-tree-house-survivors.json) |
 | Tree Kingdoms | 345485 | [345485-tree-kingdoms.json](./345485-tree-kingdoms.json) |
 | Tree n Ant | 355611 | [355611-tree-n-ant.json](./355611-tree-n-ant.json) |
 | Tree of Ashes | 272823 | [272823-tree-of-ashes.json](./272823-tree-of-ashes.json) |
@@ -25242,6 +25245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Divers | 41953 | [41953-tunnel-divers.json](./41953-tunnel-divers.json) |
 | Tunnel Escape | 302803 | [302803-tunnel-escape.json](./302803-tunnel-escape.json) |
 | Tunnel Hero 3D | 232328 | [232328-tunnel-hero-3d.json](./232328-tunnel-hero-3d.json) |
+| Tunnel of Doom | 139660 | [139660-tunnel-of-doom.json](./139660-tunnel-of-doom.json) |
 | Tunnel Racer | 176383 | [176383-tunnel-racer.json](./176383-tunnel-racer.json) |
 | Tunnel Run | 87226 | [87226-tunnel-run.json](./87226-tunnel-run.json) |
 | Tunnel Runner | 22757 | [22757-tunnel-runner.json](./22757-tunnel-runner.json) |
@@ -25667,6 +25671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Lovers | 298983 | [298983-twilight-lovers.json](./298983-twilight-lovers.json) |
 | Twilight Mahjongg | 73225 | [73225-twilight-mahjongg.json](./73225-twilight-mahjongg.json) |
 | Twilight Manor | 289929 | [289929-twilight-manor.json](./289929-twilight-manor.json) |
+| Twilight Memoria | 139638 | [139638-twilight-memoria.json](./139638-twilight-memoria.json) |
 | Twilight Memoria: Freedom | 253819 | [253819-twilight-memoria-freedom.json](./253819-twilight-memoria-freedom.json) |
 | Twilight Moonflower | 380224 | [380224-twilight-moonflower.json](./380224-twilight-moonflower.json) |
 | Twilight of Humanity | 181157 | [181157-twilight-of-humanity.json](./181157-twilight-of-humanity.json) |
