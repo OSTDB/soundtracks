@@ -3915,12 +3915,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages Lightening Force: Quest for the Darkstar | 109595 | [109595-sega-ages-lightening-force-quest-for-the-darkstar.json](./109595-sega-ages-lightening-force-quest-for-the-darkstar.json) |
 | Sega Ages Out Run | 45392 | [45392-sega-ages-out-run.json](./45392-sega-ages-out-run.json) |
 | Sega Ages Phantasy Star | 109596 | [109596-sega-ages-phantasy-star.json](./109596-sega-ages-phantasy-star.json) |
+| Sega Ages Puyo Puyo | 113379 | [113379-sega-ages-puyo-puyo.json](./113379-sega-ages-puyo-puyo.json) |
 | Sega Ages Thunder Force AC | 110060 | [110060-sega-ages-thunder-force-ac.json](./110060-sega-ages-thunder-force-ac.json) |
 | Sega Ages Virtua Racing | 110062 | [110062-sega-ages-virtua-racing.json](./110062-sega-ages-virtua-racing.json) |
 | Sega Ages Wonder Boy: Monster Land | 117160 | [117160-sega-ages-wonder-boy-monster-land.json](./117160-sega-ages-wonder-boy-monster-land.json) |
 | Sega Ages: Columns Arcade Collection | 63125 | [63125-sega-ages-columns-arcade-collection.json](./63125-sega-ages-columns-arcade-collection.json) |
 | Sega Ages: I Love Mickey Mouse - Fushigi no Oshiro Daibouken/I Love Donald Duck: Guruzia Ou no Hihou | 79786 | [79786-sega-ages-i-love-mickey-mouse-fushigi-no-oshiro-daibouken-i-love-donald-duck-guruzia-ou-no-hihou.json](./79786-sega-ages-i-love-mickey-mouse-fushigi-no-oshiro-daibouken-i-love-donald-duck-guruzia-ou-no-hihou.json) |
 | Sega Ages: Ichidant-R | 110804 | [110804-sega-ages-ichidant-r.json](./110804-sega-ages-ichidant-r.json) |
+| Sega Ages: Puyo Puyo 2 | 113380 | [113380-sega-ages-puyo-puyo-2.json](./113380-sega-ages-puyo-puyo-2.json) |
 | Sega Ages: Puzzle & Action - Shukudai ga Tant-R | 64315 | [64315-sega-ages-puzzle-and-action-shukudai-ga-tant-r.json](./64315-sega-ages-puzzle-and-action-shukudai-ga-tant-r.json) |
 | Sega Ages: Shinobi | 110805 | [110805-sega-ages-shinobi.json](./110805-sega-ages-shinobi.json) |
 | Sega Ages: Sonic the Hedgehog | 96393 | [96393-sega-ages-sonic-the-hedgehog.json](./96393-sega-ages-sonic-the-hedgehog.json) |
@@ -12153,6 +12155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowsquall Grip | 302375 | [302375-snowsquall-grip.json](./302375-snowsquall-grip.json) |
 | Snowstorm | 405717 | [405717-snowstorm.json](./405717-snowstorm.json) |
 | Snowstorm of despair | 192596 | [192596-snowstorm-of-despair.json](./192596-snowstorm-of-despair.json) |
+| Snowtopia: Ski Resort Builder | 113363 | [113363-snowtopia-ski-resort-builder.json](./113363-snowtopia-ski-resort-builder.json) |
 | Snowtracked | 216888 | [216888-snowtracked.json](./216888-snowtracked.json) |
 | Snowy Flag | 291444 | [291444-snowy-flag.json](./291444-snowy-flag.json) |
 | Snowy Leaps | 233436 | [233436-snowy-leaps.json](./233436-snowy-leaps.json) |
@@ -12300,6 +12303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Manager 2016 | 34335 | [34335-soccer-manager-2016.json](./34335-soccer-manager-2016.json) |
 | Soccer Manager 2017 | 31824 | [31824-soccer-manager-2017.json](./31824-soccer-manager-2017.json) |
 | Soccer Manager 2018 | 81102 | [81102-soccer-manager-2018.json](./81102-soccer-manager-2018.json) |
+| Soccer Manager 2019 | 113394 | [113394-soccer-manager-2019.json](./113394-soccer-manager-2019.json) |
 | Soccer Manager 2020 | 123351 | [123351-soccer-manager-2020.json](./123351-soccer-manager-2020.json) |
 | Soccer Manager 2021 | 152486 | [152486-soccer-manager-2021.json](./152486-soccer-manager-2021.json) |
 | Soccer Manager 2022 | 192599 | [192599-soccer-manager-2022.json](./192599-soccer-manager-2022.json) |
@@ -20294,6 +20298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel | 74310 | [74310-steel.json](./74310-steel.json) |
 | Steel & Bone | 157984 | [157984-steel-and-bone.json](./157984-steel-and-bone.json) |
 | Steel & Steam: Episode 1 | 10927 | [10927-steel-and-steam-episode-1.json](./10927-steel-and-steam-episode-1.json) |
+| Steel Alcimus | 113416 | [113416-steel-alcimus.json](./113416-steel-alcimus.json) |
 | Steel and Flesh | 174850 | [174850-steel-and-flesh.json](./174850-steel-and-flesh.json) |
 | Steel and Flesh 2: New Lands | 216097 | [216097-steel-and-flesh-2-new-lands.json](./216097-steel-and-flesh-2-new-lands.json) |
 | Steel Arena: Robot War | 90080 | [90080-steel-arena-robot-war.json](./90080-steel-arena-robot-war.json) |
@@ -23927,6 +23932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chesslike Adventure | 142141 | [142141-super-chesslike-adventure.json](./142141-super-chesslike-adventure.json) |
 | Super Chibi Knight | 36438 | [36438-super-chibi-knight.json](./36438-super-chibi-knight.json) |
 | Super Chick Sisters | 140535 | [140535-super-chick-sisters.json](./140535-super-chick-sisters.json) |
+| Super Chicken Catchers | 113430 | [113430-super-chicken-catchers.json](./113430-super-chicken-catchers.json) |
 | Super Chicken Jumper | 172471 | [172471-super-chicken-jumper.json](./172471-super-chicken-jumper.json) |
 | Super Chili Man | 392203 | [392203-super-chili-man.json](./392203-super-chili-man.json) |
 | Super Chillers: The Chat Room | 372641 | [372641-super-chillers-the-chat-room.json](./372641-super-chillers-the-chat-room.json) |
