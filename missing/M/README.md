@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magician Lord | 19109 | [19109-magician-lord.json](./19109-magician-lord.json) |
 | Magician Lord 2 | 324158 | [324158-magician-lord-2.json](./324158-magician-lord-2.json) |
 | Magician of Fallen | 82768 | [82768-magician-of-fallen.json](./82768-magician-of-fallen.json) |
+| Magician of Fire | 118047 | [118047-magician-of-fire.json](./118047-magician-of-fire.json) |
 | Magician's Apprentice | 34587 | [34587-magicians-apprentice.json](./34587-magicians-apprentice.json) |
 | Magician's Quest: Mysterious Times | 21183 | [21183-magicians-quest-mysterious-times.json](./21183-magicians-quest-mysterious-times.json) |
 | Magician's Saga | 54902 | [54902-magicians-saga.json](./54902-magicians-saga.json) |
@@ -2027,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malavision: The Origin | 31812 | [31812-malavision-the-origin.json](./31812-malavision-the-origin.json) |
 | Malazard: The Master of Magic | 32139 | [32139-malazard-the-master-of-magic.json](./32139-malazard-the-master-of-magic.json) |
 | Malcade | 366997 | [366997-malcade.json](./366997-malcade.json) |
+| Malcom's Day | 118013 | [118013-malcoms-day.json](./118013-malcoms-day.json) |
 | Maldark: Conqueror of All Worlds | 195069 | [195069-maldark-conqueror-of-all-worlds.json](./195069-maldark-conqueror-of-all-worlds.json) |
 | Maldita Castilla EX: Collector's Edition | 182480 | [182480-maldita-castilla-ex-collectors-edition.json](./182480-maldita-castilla-ex-collectors-edition.json) |
 | MALdle | 372107 | [372107-maldle.json](./372107-maldle.json) |
@@ -3524,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martian Threat | 41568 | [41568-martian-threat.json](./41568-martian-threat.json) |
 | Martian Wars | 137692 | [137692-martian-wars.json](./137692-martian-wars.json) |
 | Martianoids | 39774 | [39774-martianoids.json](./39774-martianoids.json) |
+| Martians Vs Robots | 118068 | [118068-martians-vs-robots.json](./118068-martians-vs-robots.json) |
 | Martin | 249035 | [249035-martin.json](./249035-martin.json) |
 | Martin and the Magic Staff | 154273 | [154273-martin-and-the-magic-staff.json](./154273-martin-and-the-magic-staff.json) |
 | Martin Goes on the Attack | 154088 | [154088-martin-goes-on-the-attack.json](./154088-martin-goes-on-the-attack.json) |
@@ -7039,6 +7042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meng Jun Gan Si Dui | 319846 | [319846-meng-jun-gan-si-dui.json](./319846-meng-jun-gan-si-dui.json) |
 | Mèng Luò Fánchén | 148881 | [148881-meng-luo-fanchen.json](./148881-meng-luo-fanchen.json) |
 | Mènghuàn Shuǐguǒ Pán: 777 Casino | 86066 | [86066-menghuan-shuiguo-pan-777-casino.json](./86066-menghuan-shuiguo-pan-777-casino.json) |
+| Mèngyá | 118031 | [118031-mengya.json](./118031-mengya.json) |
 | Menhera & Troll | 344713 | [344713-menhera-and-troll.json](./344713-menhera-and-troll.json) |
 | Menhera Kanojo to Boku: Uwaki shitara Jinsei Shuuryou yo | 208936 | [208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json](./208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json) |
 | Menhera Ota-hime Circle: Needy Princess Nerd Club | 305286 | [305286-menhera-ota-hime-circle-needy-princess-nerd-club.json](./305286-menhera-ota-hime-circle-needy-princess-nerd-club.json) |
@@ -10581,6 +10585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Bingo | 215307 | [215307-miss-bingo.json](./215307-miss-bingo.json) |
 | Miss Bullard's School for Former Ladies | 184058 | [184058-miss-bullards-school-for-former-ladies.json](./184058-miss-bullards-school-for-former-ladies.json) |
 | Miss Bullet | 362016 | [362016-miss-bullet.json](./362016-miss-bullet.json) |
+| Miss Cat | 118037 | [118037-miss-cat.json](./118037-miss-cat.json) |
 | Miss Cecilia | 201475 | [201475-miss-cecilia.json](./201475-miss-cecilia.json) |
 | Miss Chic Business | 54236 | [54236-miss-chic-business.json](./54236-miss-chic-business.json) |
 | Miss Chic Disco | 25518 | [25518-miss-chic-disco.json](./25518-miss-chic-disco.json) |
@@ -12888,6 +12893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonbriar | 249034 | [249034-moonbriar.json](./249034-moonbriar.json) |
 | MoonBright | 275549 | [275549-moonbright.json](./275549-moonbright.json) |
 | Moonbringer | 413478 | [413478-moonbringer.json](./413478-moonbringer.json) |
+| Moonbuggy VR | 118006 | [118006-moonbuggy-vr.json](./118006-moonbuggy-vr.json) |
 | Mooncake Shop | 100989 | [100989-mooncake-shop.json](./100989-mooncake-shop.json) |
 | Mooncat's Trio | 308976 | [308976-mooncats-trio.json](./308976-mooncats-trio.json) |
 | Moonchild | 252022 | [252022-moonchild.json](./252022-moonchild.json) |
@@ -14908,6 +14914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mundial de Fútbol | 86008 | [86008-mundial-de-futbol.json](./86008-mundial-de-futbol.json) |
 | Mundo SBT | 249459 | [249459-mundo-sbt.json](./249459-mundo-sbt.json) |
 | Mundus: Impossible Universe | 95572 | [95572-mundus-impossible-universe.json](./95572-mundus-impossible-universe.json) |
+| Mundus: Impossible Universe 2 | 118020 | [118020-mundus-impossible-universe-2.json](./118020-mundus-impossible-universe-2.json) |
 | Mung Daal Odyssey | 326589 | [326589-mung-daal-odyssey.json](./326589-mung-daal-odyssey.json) |
 | Munich Bus Simulator | 36440 | [36440-munich-bus-simulator.json](./36440-munich-bus-simulator.json) |
 | Munkiki's Castles | 111740 | [111740-munkikis-castles.json](./111740-munkikis-castles.json) |
