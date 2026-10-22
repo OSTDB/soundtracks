@@ -3195,6 +3195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell of a marriage | 178503 | [178503-hell-of-a-marriage.json](./178503-hell-of-a-marriage.json) |
 | Hell of an Office | 150002 | [150002-hell-of-an-office.json](./150002-hell-of-an-office.json) |
 | Hell of Fear: Mind Breach | 361595 | [361595-hell-of-fear-mind-breach.json](./361595-hell-of-fear-mind-breach.json) |
+| Hell of Men : Blood Brothers | 121306 | [121306-hell-of-men-blood-brothers.json](./121306-hell-of-men-blood-brothers.json) |
 | Hell of Nightmares: Chapter 1 | 254420 | [254420-hell-of-nightmares-chapter-1.json](./254420-hell-of-nightmares-chapter-1.json) |
 | Hell of Sand | 146665 | [146665-hell-of-sand.json](./146665-hell-of-sand.json) |
 | Hell of Sins: Soul | 209144 | [209144-hell-of-sins-soul.json](./209144-hell-of-sins-soul.json) |
@@ -5435,6 +5436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Mysteries: Lost Secrets - A Vampires Tale, Paris Stories | 209401 | [209401-hidden-mysteries-lost-secrets-a-vampires-tale-paris-stories.json](./209401-hidden-mysteries-lost-secrets-a-vampires-tale-paris-stories.json) |
 | Hidden Mysteries: Notre Dame | 143400 | [143400-hidden-mysteries-notre-dame.json](./143400-hidden-mysteries-notre-dame.json) |
 | Hidden Mysteries: Return to Titanic | 206730 | [206730-hidden-mysteries-return-to-titanic.json](./206730-hidden-mysteries-return-to-titanic.json) |
+| Hidden Mysteries: Royal Family Secrets | 121261 | [121261-hidden-mysteries-royal-family-secrets.json](./121261-hidden-mysteries-royal-family-secrets.json) |
 | Hidden Mysteries: Salem Secrets | 66193 | [66193-hidden-mysteries-salem-secrets.json](./66193-hidden-mysteries-salem-secrets.json) |
 | Hidden Mystery: Triple pack | 130658 | [130658-hidden-mystery-triple-pack.json](./130658-hidden-mystery-triple-pack.json) |
 | Hidden Nature | 372017 | [372017-hidden-nature.json](./372017-hidden-nature.json) |
@@ -5959,6 +5961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highlighters: Cosmic Puzzle Action | 291851 | [291851-highlighters-cosmic-puzzle-action.json](./291851-highlighters-cosmic-puzzle-action.json) |
 | Highlights Puzzlemania | 209909 | [209909-highlights-puzzlemania.json](./209909-highlights-puzzlemania.json) |
 | Highline Volleyball VR | 315316 | [315316-highline-volleyball-vr.json](./315316-highline-volleyball-vr.json) |
+| Highly Likely | 121297 | [121297-highly-likely.json](./121297-highly-likely.json) |
 | Highnoon | 11304 | [11304-highnoon.json](./11304-highnoon.json) |
 | Highpoint | 202917 | [202917-highpoint.json](./202917-highpoint.json) |
 | HighQ Quiz | 172370 | [172370-highq-quiz.json](./172370-highq-quiz.json) |
