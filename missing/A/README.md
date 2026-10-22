@@ -1620,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abysm 2: Spirit Falcon | 201230 | [201230-abysm-2-spirit-falcon.json](./201230-abysm-2-spirit-falcon.json) |
 | Abysmal Gateway | 312661 | [312661-abysmal-gateway.json](./312661-abysmal-gateway.json) |
 | Abyss | 12288 | [12288-abyss.json](./12288-abyss.json) |
+| Abyss | 131223 | [131223-abyss.json](./131223-abyss.json) |
 | Abyss | 193294 | [193294-abyss.json](./193294-abyss.json) |
 | Abyss | 210669 | [210669-abyss.json](./210669-abyss.json) |
 | Abyss | 249689 | [249689-abyss.json](./249689-abyss.json) |
@@ -6393,6 +6394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America Adventure | 206111 | [206111-america-adventure.json](./206111-america-adventure.json) |
 | America Against Ants | 338224 | [338224-america-against-ants.json](./338224-america-against-ants.json) |
 | America Double Barrel Collection | 57561 | [57561-america-double-barrel-collection.json](./57561-america-double-barrel-collection.json) |
+| America Expansion Pack | 131186 | [131186-america-expansion-pack.json](./131186-america-expansion-pack.json) |
 | America is Doing Great | 136486 | [136486-america-is-doing-great.json](./136486-america-is-doing-great.json) |
 | America Oudan Ultra Quiz | 268631 | [268631-america-oudan-ultra-quiz.json](./268631-america-oudan-ultra-quiz.json) |
 | America Oudan Ultra Quiz | 282817 | [282817-america-oudan-ultra-quiz.json](./282817-america-oudan-ultra-quiz.json) |
