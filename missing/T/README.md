@@ -8919,6 +8919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Killbox: Arena Combat | 74293 | [74293-the-killbox-arena-combat.json](./74293-the-killbox-arena-combat.json) |
 | The Killbox: Arena Combat US | 86976 | [86976-the-killbox-arena-combat-us.json](./86976-the-killbox-arena-combat-us.json) |
 | The Killbox: Leo | 223874 | [223874-the-killbox-leo.json](./223874-the-killbox-leo.json) |
+| The Killer of Dishonor | 150538 | [150538-the-killer-of-dishonor.json](./150538-the-killer-of-dishonor.json) |
 | The Killing Antidote | 287004 | [287004-the-killing-antidote.json](./287004-the-killing-antidote.json) |
 | The Killing Game of Thirst | 360903 | [360903-the-killing-game-of-thirst.json](./360903-the-killing-game-of-thirst.json) |
 | The Kind Camomille | 138494 | [138494-the-kind-camomille.json](./138494-the-kind-camomille.json) |
@@ -10531,6 +10532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Martial World of Drinking: Wu Song | 390603 | [390603-the-martial-world-of-drinking-wu-song.json](./390603-the-martial-world-of-drinking-wu-song.json) |
 | The Martian VR Experience | 25814 | [25814-the-martian-vr-experience.json](./25814-the-martian-vr-experience.json) |
 | The Martian: Official Game | 102771 | [102771-the-martian-official-game.json](./102771-the-martian-official-game.json) |
+| The Marvellous Machine | 150540 | [150540-the-marvellous-machine.json](./150540-the-marvellous-machine.json) |
 | The Marvellous Miss Take | 8780 | [8780-the-marvellous-miss-take.json](./8780-the-marvellous-miss-take.json) |
 | The Marvelous Misadventures of Flapjack: Bottle Cap'n | 259724 | [259724-the-marvelous-misadventures-of-flapjack-bottle-capn.json](./259724-the-marvelous-misadventures-of-flapjack-bottle-capn.json) |
 | The Marvelous Misadventures of Flapjack: Journey to Plague Island | 403660 | [403660-the-marvelous-misadventures-of-flapjack-journey-to-plague-island.json](./403660-the-marvelous-misadventures-of-flapjack-journey-to-plague-island.json) |
@@ -10960,7 +10962,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -24813,6 +24814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try to Escape! | 258434 | [258434-try-to-escape.json](./258434-try-to-escape.json) |
 | Try to Fit | 259965 | [259965-try-to-fit.json](./259965-try-to-fit.json) |
 | Try to Reach 10 | 130732 | [130732-try-to-reach-10.json](./130732-try-to-reach-10.json) |
+| Try to Remember | 150409 | [150409-try-to-remember.json](./150409-try-to-remember.json) |
 | Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
 | Try to Survive! | 172379 | [172379-try-to-survive.json](./172379-try-to-survive.json) |
 | Try to Win 2 | 196055 | [196055-try-to-win-2.json](./196055-try-to-win-2.json) |
