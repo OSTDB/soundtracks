@@ -2940,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telocation: Gemini | 145455 | [145455-telocation-gemini.json](./145455-telocation-gemini.json) |
 | Telomere | 148505 | [148505-telomere.json](./148505-telomere.json) |
 | Telomeria | 323268 | [323268-telomeria.json](./323268-telomeria.json) |
+| Telophase | 99438 | [99438-telophase.json](./99438-telophase.json) |
 | Telos Legacy | 229187 | [229187-telos-legacy.json](./229187-telos-legacy.json) |
 | Telstar Double Value Games: Pit-Fighter/Wrestle War | 64094 | [64094-telstar-double-value-games-pit-fighter-wrestle-war.json](./64094-telstar-double-value-games-pit-fighter-wrestle-war.json) |
 | Telusfax | 229810 | [229810-telusfax.json](./229810-telusfax.json) |
@@ -7430,6 +7431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Firelord | 157945 | [157945-the-firelord.json](./157945-the-firelord.json) |
 | The Firemen | 42621 | [42621-the-firemen.json](./42621-the-firemen.json) |
 | The Fireseed Treaty | 320825 | [320825-the-fireseed-treaty.json](./320825-the-fireseed-treaty.json) |
+| The Firlyn Stones | 99448 | [99448-the-firlyn-stones.json](./99448-the-firlyn-stones.json) |
 | The Firm | 23407 | [23407-the-firm.json](./23407-the-firm.json) |
 | The First Alkahistorian: Stage Two | 381877 | [381877-the-first-alkahistorian-stage-two.json](./381877-the-first-alkahistorian-stage-two.json) |
 | The First Backrooms | 211663 | [211663-the-first-backrooms.json](./211663-the-first-backrooms.json) |
@@ -12666,6 +12668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secrets of Hosea Freeman | 62691 | [62691-the-secrets-of-hosea-freeman.json](./62691-the-secrets-of-hosea-freeman.json) |
 | The Secrets of Jesus | 122495 | [122495-the-secrets-of-jesus.json](./122495-the-secrets-of-jesus.json) |
 | The Secrets of the Forest | 336562 | [336562-the-secrets-of-the-forest.json](./336562-the-secrets-of-the-forest.json) |
+| The Secrets of the Forest | 99451 | [99451-the-secrets-of-the-forest.json](./99451-the-secrets-of-the-forest.json) |
 | The Secrets We Grow | 362483 | [362483-the-secrets-we-grow.json](./362483-the-secrets-we-grow.json) |
 | The Seduction of Shaqeera | 113135 | [113135-the-seduction-of-shaqeera.json](./113135-the-seduction-of-shaqeera.json) |
 | The Seduction of Shaqeera VR | 344438 | [344438-the-seduction-of-shaqeera-vr.json](./344438-the-seduction-of-shaqeera-vr.json) |
@@ -13627,6 +13630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Supper | 128289 | [128289-the-supper.json](./128289-the-supper.json) |
 | The Supplier's Complex | 343201 | [343201-the-suppliers-complex.json](./343201-the-suppliers-complex.json) |
 | The Surfeit: Episode 1 | 170497 | [170497-the-surfeit-episode-1.json](./170497-the-surfeit-episode-1.json) |
+| The Surfer | 99471 | [99471-the-surfer.json](./99471-the-surfer.json) |
 | The Surge | 11590 | [11590-the-surge.json](./11590-the-surge.json) |
 | The Surge 1 & 2: Dual Pack | 139824 | [139824-the-surge-1-and-2-dual-pack.json](./139824-the-surge-1-and-2-dual-pack.json) |
 | The Surge 2: Future Shock Weapon Pack | 155352 | [155352-the-surge-2-future-shock-weapon-pack.json](./155352-the-surge-2-future-shock-weapon-pack.json) |
@@ -18651,6 +18655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Toon Adventures 2: Trouble in Wackyland | 8047 | [8047-tiny-toon-adventures-2-trouble-in-wackyland.json](./8047-tiny-toon-adventures-2-trouble-in-wackyland.json) |
 | Tiny Toon Adventures Cartoon Workshop | 8045 | [8045-tiny-toon-adventures-cartoon-workshop.json](./8045-tiny-toon-adventures-cartoon-workshop.json) |
 | Tiny Toon Adventures: Acme All-Stars | 8052 | [8052-tiny-toon-adventures-acme-all-stars.json](./8052-tiny-toon-adventures-acme-all-stars.json) |
+| Tiny Toon Adventures: Babs' Big Break | 99455 | [99455-tiny-toon-adventures-babs-big-break.json](./99455-tiny-toon-adventures-babs-big-break.json) |
 | Tiny Toon Adventures: Buster Busts Loose! | 8050 | [8050-tiny-toon-adventures-buster-busts-loose.json](./8050-tiny-toon-adventures-buster-busts-loose.json) |
 | Tiny Toon Adventures: Buster Saves the Day | 8057 | [8057-tiny-toon-adventures-buster-saves-the-day.json](./8057-tiny-toon-adventures-buster-saves-the-day.json) |
 | Tiny Toon Adventures: Buster's Hidden Treasure | 8049 | [8049-tiny-toon-adventures-busters-hidden-treasure.json](./8049-tiny-toon-adventures-busters-hidden-treasure.json) |
@@ -21951,6 +21956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trago | 104066 | [104066-trago.json](./104066-trago.json) |
 | Traha Infinity | 188374 | [188374-traha-infinity.json](./188374-traha-infinity.json) |
 | Trail & Error | 401495 | [401495-trail-and-error.json](./401495-trail-and-error.json) |
+| Trail Breaking | 99439 | [99439-trail-breaking.json](./99439-trail-breaking.json) |
 | Trail Master 3D | 245266 | [245266-trail-master-3d.json](./245266-trail-master-3d.json) |
 | Trail Mix | 176318 | [176318-trail-mix.json](./176318-trail-mix.json) |
 | Trail of Ayash | 112111 | [112111-trail-of-ayash.json](./112111-trail-of-ayash.json) |
@@ -25618,6 +25624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Sloths | 149199 | [149199-turbo-sloths.json](./149199-turbo-sloths.json) |
 | Turbo Snow Skiing | 257869 | [257869-turbo-snow-skiing.json](./257869-turbo-snow-skiing.json) |
 | Turbo Soccer VR | 102131 | [102131-turbo-soccer-vr.json](./102131-turbo-soccer-vr.json) |
+| Turbo Speed Jet Racing: Super Bike Challenge Game | 99371 | [99371-turbo-speed-jet-racing-super-bike-challenge-game.json](./99371-turbo-speed-jet-racing-super-bike-challenge-game.json) |
 | Turbo Speedway | 71381 | [71381-turbo-speedway.json](./71381-turbo-speedway.json) |
 | Turbo Sprint | 229785 | [229785-turbo-sprint.json](./229785-turbo-sprint.json) |
 | Turbo Stars | 352166 | [352166-turbo-stars.json](./352166-turbo-stars.json) |
