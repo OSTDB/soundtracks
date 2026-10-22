@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QUByte Classics: Zero Tolerance Collection by Piko | 206478 | [206478-qubyte-classics-zero-tolerance-collection-by-piko.json](./206478-qubyte-classics-zero-tolerance-collection-by-piko.json) |
 | Que ~Ancient Leaf no Yousei~ | 62408 | [62408-que-ancient-leaf-no-yousei.json](./62408-que-ancient-leaf-no-yousei.json) |
 | Que No Importa el Mañana Si No Lo Veo de Llegar | 388181 | [388181-que-no-importa-el-manana-si-no-lo-veo-de-llegar.json](./388181-que-no-importa-el-manana-si-no-lo-veo-de-llegar.json) |
+| Qué pasa Neng: El videojuego | 128211 | [128211-que-pasa-neng-el-videojuego.json](./128211-que-pasa-neng-el-videojuego.json) |
 | Que Pasa Perro? | 86043 | [86043-que-pasa-perro.json](./86043-que-pasa-perro.json) |
 | Quebra-cabeça | 290079 | [290079-quebra-cabeca.json](./290079-quebra-cabeca.json) |
 | Quebrantar Chapter 3: The Frozen Spears | 315699 | [315699-quebrantar-chapter-3-the-frozen-spears.json](./315699-quebrantar-chapter-3-the-frozen-spears.json) |
