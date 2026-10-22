@@ -1513,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Beyond Me | 166718 | [166718-zombies-beyond-me.json](./166718-zombies-beyond-me.json) |
 | Zombies Chasing My Cat | 56277 | [56277-zombies-chasing-my-cat.json](./56277-zombies-chasing-my-cat.json) |
 | Zombies Crusher | 319960 | [319960-zombies-crusher.json](./319960-zombies-crusher.json) |
+| Zombies Desert and Guns | 151589 | [151589-zombies-desert-and-guns.json](./151589-zombies-desert-and-guns.json) |
 | Zombies Don't Drive | 150014 | [150014-zombies-dont-drive.json](./150014-zombies-dont-drive.json) |
 | Zombies Everywhere 2 | 174068 | [174068-zombies-everywhere-2.json](./174068-zombies-everywhere-2.json) |
 | Zombies Everywhere 3 | 405736 | [405736-zombies-everywhere-3.json](./405736-zombies-everywhere-3.json) |
