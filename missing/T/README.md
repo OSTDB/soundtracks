@@ -3291,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis World Tour: John McEnroe | 238021 | [238021-tennis-world-tour-john-mcenroe.json](./238021-tennis-world-tour-john-mcenroe.json) |
 | Tennis World Tour: Kristina Mladenovic | 169941 | [169941-tennis-world-tour-kristina-mladenovic.json](./169941-tennis-world-tour-kristina-mladenovic.json) |
 | Tennis World Tour: Legends Bonus Pack | 169942 | [169942-tennis-world-tour-legends-bonus-pack.json](./169942-tennis-world-tour-legends-bonus-pack.json) |
+| Tennis World Tour: Legends Edition | 100549 | [100549-tennis-world-tour-legends-edition.json](./100549-tennis-world-tour-legends-edition.json) |
 | Tennis World Tour: Rafael Nadal | 169938 | [169938-tennis-world-tour-rafael-nadal.json](./169938-tennis-world-tour-rafael-nadal.json) |
 | Tennis World Tour: Roland-Garros Edition | 118167 | [118167-tennis-world-tour-roland-garros-edition.json](./118167-tennis-world-tour-roland-garros-edition.json) |
 | Tennis World Tour: Roland-Garros pack | 237986 | [237986-tennis-world-tour-roland-garros-pack.json](./237986-tennis-world-tour-roland-garros-pack.json) |
@@ -6997,6 +6998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Envolution of Wandaland | 254137 | [254137-the-envolution-of-wandaland.json](./254137-the-envolution-of-wandaland.json) |
 | The Epic | 153869 | [153869-the-epic.json](./153869-the-epic.json) |
 | The Epic and Amazing Adventure of GleepglorrpgilliandoohiggintilliousMMDCCXXXIX the Adventure Where GleepglorrpgilliandoohiggintilliousMMDCCXXXIX Lives and Becomes King GleepglorrpgilliandoohiggintilliousMMDCCXXXIX | 410947 | [410947-the-epic-and-amazing-adventure-of-gleepglorrpgilliandoohiggintilliousmmdccxxxix-the-adventure-where-gleepglorrpgilliandoohiggintilliousmmdccxxxix-lives-and-becomes-king-gleepglorrpgilliandoohiggintilliousmmdccxxxix.json](./410947-the-epic-and-amazing-adventure-of-gleepglorrpgilliandoohiggintilliousmmdccxxxix-the-adventure-where-gleepglorrpgilliandoohiggintilliousmmdccxxxix-lives-and-becomes-king-gleepglorrpgilliandoohiggintilliousmmdccxxxix.json) |
+| The Epic Bang Theory | 100542 | [100542-the-epic-bang-theory.json](./100542-the-epic-bang-theory.json) |
 | The Epic Might | 23632 | [23632-the-epic-might.json](./23632-the-epic-might.json) |
 | The Epic of Jusen | 145598 | [145598-the-epic-of-jusen.json](./145598-the-epic-of-jusen.json) |
 | The Epic Quest of Birdo The Pink Dinosaur | 250662 | [250662-the-epic-quest-of-birdo-the-pink-dinosaur.json](./250662-the-epic-quest-of-birdo-the-pink-dinosaur.json) |
@@ -22701,6 +22703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainer Eyes | 338952 | [338952-trainer-eyes.json](./338952-trainer-eyes.json) |
 | TrainFormation | 213204 | [213204-trainformation.json](./213204-trainformation.json) |
 | Trainfort | 345442 | [345442-trainfort.json](./345442-trainfort.json) |
+| Trainiac | 100634 | [100634-trainiac.json](./100634-trainiac.json) |
 | Training aim | 88239 | [88239-training-aim.json](./88239-training-aim.json) |
 | Training Elves | 288901 | [288901-training-elves.json](./288901-training-elves.json) |
 | Training Grounds | 169489 | [169489-training-grounds.json](./169489-training-grounds.json) |
@@ -24444,6 +24447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tring! | 344981 | [344981-tring.json](./344981-tring.json) |
 | Tringo | 49344 | [49344-tringo.json](./49344-tringo.json) |
 | Trinity | 2952 | [2952-trinity.json](./2952-trinity.json) |
+| Trinity 2 | 100547 | [100547-trinity-2.json](./100547-trinity-2.json) |
 | Trinity Archetype | 169756 | [169756-trinity-archetype.json](./169756-trinity-archetype.json) |
 | Trinity Building Editor | 373843 | [373843-trinity-building-editor.json](./373843-trinity-building-editor.json) |
 | Trinity Fusion | 218520 | [218520-trinity-fusion.json](./218520-trinity-fusion.json) |
@@ -24611,6 +24615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: 1980's Trivia 2 | 54879 | [54879-trivia-vault-1980s-trivia-2.json](./54879-trivia-vault-1980s-trivia-2.json) |
 | Trivia Vault: Art Trivia | 97241 | [97241-trivia-vault-art-trivia.json](./97241-trivia-vault-art-trivia.json) |
 | Trivia Vault: Boxing Trivia | 90180 | [90180-trivia-vault-boxing-trivia.json](./90180-trivia-vault-boxing-trivia.json) |
+| Trivia Vault: Business Trivia | 100633 | [100633-trivia-vault-business-trivia.json](./100633-trivia-vault-business-trivia.json) |
 | Trivia Vault: Celebrity Trivia | 96522 | [96522-trivia-vault-celebrity-trivia.json](./96522-trivia-vault-celebrity-trivia.json) |
 | Trivia Vault: Classic Rock Trivia 2 | 54890 | [54890-trivia-vault-classic-rock-trivia-2.json](./54890-trivia-vault-classic-rock-trivia-2.json) |
 | Trivia Vault: Fashion Trivia | 101615 | [101615-trivia-vault-fashion-trivia.json](./101615-trivia-vault-fashion-trivia.json) |
@@ -26188,6 +26193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisty Planets Space Puzzle | 83577 | [83577-twisty-planets-space-puzzle.json](./83577-twisty-planets-space-puzzle.json) |
 | Twisty Puzzle World | 264536 | [264536-twisty-puzzle-world.json](./264536-twisty-puzzle-world.json) |
 | Twisty Road! | 87660 | [87660-twisty-road.json](./87660-twisty-road.json) |
+| Twisty Tiles | 100637 | [100637-twisty-tiles.json](./100637-twisty-tiles.json) |
 | Twisty Tracks | 73999 | [73999-twisty-tracks.json](./73999-twisty-tracks.json) |
 | Twisty Twins | 244111 | [244111-twisty-twins.json](./244111-twisty-twins.json) |
 | Twisty's Asylum Escapades | 31940 | [31940-twistys-asylum-escapades.json](./31940-twistys-asylum-escapades.json) |
