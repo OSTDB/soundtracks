@@ -4126,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Frog | 301399 | [301399-final-frog.json](./301399-final-frog.json) |
 | Final Front: Enobetta | 174690 | [174690-final-front-enobetta.json](./174690-final-front-enobetta.json) |
 | Final Frontier Story | 360084 | [360084-final-frontier-story.json](./360084-final-frontier-story.json) |
+| Final Frontier: A New Journey | 107564 | [107564-final-frontier-a-new-journey.json](./107564-final-frontier-a-new-journey.json) |
 | Final Frost | 392192 | [392192-final-frost.json](./392192-final-frost.json) |
 | Final Furlong 2 | 355862 | [355862-final-furlong-2.json](./355862-final-furlong-2.json) |
 | Final Fury | 204336 | [204336-final-fury.json](./204336-final-fury.json) |
@@ -6249,6 +6250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipping is Hard | 351111 | [351111-flipping-is-hard.json](./351111-flipping-is-hard.json) |
 | Flipping Phantom | 358861 | [358861-flipping-phantom.json](./358861-flipping-phantom.json) |
 | Flipping Two Minutes | 267358 | [267358-flipping-two-minutes.json](./267358-flipping-two-minutes.json) |
+| FlipPix Art - Civilizations | 107561 | [107561-flippix-art-civilizations.json](./107561-flippix-art-civilizations.json) |
 | FlipPix Art - Dollhouse | 107118 | [107118-flippix-art-dollhouse.json](./107118-flippix-art-dollhouse.json) |
 | FlipPix Jigsaw - Retro | 91997 | [91997-flippix-jigsaw-retro.json](./91997-flippix-jigsaw-retro.json) |
 | FlipPix Jigsaw - Spicy | 96047 | [96047-flippix-jigsaw-spicy.json](./96047-flippix-jigsaw-spicy.json) |
