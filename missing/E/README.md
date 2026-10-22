@@ -6072,6 +6072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expert Laser Man | 120879 | [120879-expert-laser-man.json](./120879-expert-laser-man.json) |
 | Expert on Domestication | 152850 | [152850-expert-on-domestication.json](./152850-expert-on-domestication.json) |
 | Expest | 265611 | [265611-expest.json](./265611-expest.json) |
+| Exphelius: Arena | 126847 | [126847-exphelius-arena.json](./126847-exphelius-arena.json) |
 | Exphysia | 292218 | [292218-exphysia.json](./292218-exphysia.json) |
 | Expiare | 388920 | [388920-expiare.json](./388920-expiare.json) |
 | Expiate | 202574 | [202574-expiate.json](./202574-expiate.json) |
