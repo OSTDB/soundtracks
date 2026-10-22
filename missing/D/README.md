@@ -2938,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Raid | 140516 | [140516-dead-raid.json](./140516-dead-raid.json) |
 | Dead Raid | 249686 | [249686-dead-raid.json](./249686-dead-raid.json) |
 | Dead Rails | 335356 | [335356-dead-rails.json](./335356-dead-rails.json) |
+| Dead Rampage | 101996 | [101996-dead-rampage.json](./101996-dead-rampage.json) |
 | Dead Reckoner | 406220 | [406220-dead-reckoner.json](./406220-dead-reckoner.json) |
 | Dead Reckoning | 71536 | [71536-dead-reckoning.json](./71536-dead-reckoning.json) |
 | Dead Reckoning: Brassfield Manor | 22126 | [22126-dead-reckoning-brassfield-manor.json](./22126-dead-reckoning-brassfield-manor.json) |
@@ -3852,6 +3853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decipher the Deck | 309473 | [309473-decipher-the-deck.json](./309473-decipher-the-deck.json) |
 | Decision | 299762 | [299762-decision.json](./299762-decision.json) |
 | Decision 2: New City | 300446 | [300446-decision-2-new-city.json](./300446-decision-2-new-city.json) |
+| Decision 3 | 102003 | [102003-decision-3.json](./102003-decision-3.json) |
 | Decision in the Desert | 25923 | [25923-decision-in-the-desert.json](./25923-decision-in-the-desert.json) |
 | Decision Point | 373148 | [373148-decision-point.json](./373148-decision-point.json) |
 | Decision: Medieval | 95933 | [95933-decision-medieval.json](./95933-decision-medieval.json) |
@@ -4258,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeepLands | 103225 | [103225-deeplands.json](./103225-deeplands.json) |
 | DeepLight | 413729 | [413729-deeplight.json](./413729-deeplight.json) |
 | Deeply | 390113 | [390113-deeply.json](./390113-deeply.json) |
+| Deeply Absurd Chain | 101993 | [101993-deeply-absurd-chain.json](./101993-deeply-absurd-chain.json) |
 | Deeply Dark: Found Footage | 132519 | [132519-deeply-dark-found-footage.json](./132519-deeply-dark-found-footage.json) |
 | Deepmess | 285015 | [285015-deepmess.json](./285015-deepmess.json) |
 | Deepolis | 318139 | [318139-deepolis.json](./318139-deepolis.json) |
