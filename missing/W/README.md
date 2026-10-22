@@ -3196,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelspin | 5177 | [5177-wheelspin.json](./5177-wheelspin.json) |
 | WheelTravel | 117039 | [117039-wheeltravel.json](./117039-wheeltravel.json) |
 | WheelTris | 250023 | [250023-wheeltris.json](./250023-wheeltris.json) |
+| Wheely 4: Time Travel | 102004 | [102004-wheely-4-time-travel.json](./102004-wheely-4-time-travel.json) |
 | Wheelz2 | 90115 | [90115-wheelz2.json](./90115-wheelz2.json) |
 | Whelm | 296363 | [296363-whelm.json](./296363-whelm.json) |
 | When a Man Lose His Job | 147874 | [147874-when-a-man-lose-his-job.json](./147874-when-a-man-lose-his-job.json) |
@@ -4382,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | William and Sly 2 | 377900 | [377900-william-and-sly-2.json](./377900-william-and-sly-2.json) |
 | William and the Lands of Rage | 127621 | [127621-william-and-the-lands-of-rage.json](./127621-william-and-the-lands-of-rage.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
+| William the Conqueror | 102014 | [102014-william-the-conqueror.json](./102014-william-the-conqueror.json) |
 | William Wobbler | 94625 | [94625-william-wobbler.json](./94625-william-wobbler.json) |
 | William's Love Prelude | 127849 | [127849-williams-love-prelude.json](./127849-williams-love-prelude.json) |
 | Williams Arcade Classics | 199435 | [199435-williams-arcade-classics.json](./199435-williams-arcade-classics.json) |
