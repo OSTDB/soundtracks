@@ -5271,6 +5271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi! Hamtaro: Ham-Ham Challenge | 77875 | [77875-hi-hamtaro-ham-ham-challenge.json](./77875-hi-hamtaro-ham-ham-challenge.json) |
 | Hiatari Ryoukou! | 258850 | [258850-hiatari-ryoukou.json](./258850-hiatari-ryoukou.json) |
 | Hibachi Hero | 395015 | [395015-hibachi-hero.json](./395015-hibachi-hero.json) |
+| Hiber | 113369 | [113369-hiber.json](./113369-hiber.json) |
 | Hibernaculum | 225794 | [225794-hibernaculum.json](./225794-hibernaculum.json) |
 | Hibernation | 339638 | [339638-hibernation.json](./339638-hibernation.json) |
 | Hibernation Day | 247772 | [247772-hibernation-day.json](./247772-hibernation-day.json) |
@@ -9908,6 +9909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperforma | 96727 | [96727-hyperforma.json](./96727-hyperforma.json) |
 | Hyperforma: Lost Archives - Fragment I | 262316 | [262316-hyperforma-lost-archives-fragment-i.json](./262316-hyperforma-lost-archives-fragment-i.json) |
 | Hyperforma: Lost Archives - Fragment II | 262317 | [262317-hyperforma-lost-archives-fragment-ii.json](./262317-hyperforma-lost-archives-fragment-ii.json) |
+| Hypergalaxy Squad | 113397 | [113397-hypergalaxy-squad.json](./113397-hypergalaxy-squad.json) |
 | Hypergate | 87985 | [87985-hypergate.json](./87985-hypergate.json) |
 | HyperGlide | 211194 | [211194-hyperglide.json](./211194-hyperglide.json) |
 | Hyperhell | 235965 | [235965-hyperhell.json](./235965-hyperhell.json) |
