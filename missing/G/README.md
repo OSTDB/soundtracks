@@ -2567,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Dash: 2.1 Update | 374302 | [374302-geometry-dash-2-1-update.json](./374302-geometry-dash-2-1-update.json) |
 | Geometry Dash: 2.2 Update | 374303 | [374303-geometry-dash-2-2-update.json](./374303-geometry-dash-2-2-update.json) |
 | Geometry Defense | 98526 | [98526-geometry-defense.json](./98526-geometry-defense.json) |
+| Geometry Defense: Infinite | 103821 | [103821-geometry-defense-infinite.json](./103821-geometry-defense-infinite.json) |
 | Geometry Dodge Pro | 86908 | [86908-geometry-dodge-pro.json](./86908-geometry-dodge-pro.json) |
 | Geometry Hero | 126612 | [126612-geometry-hero.json](./126612-geometry-hero.json) |
 | Geometry League | 238986 | [238986-geometry-league.json](./238986-geometry-league.json) |
@@ -3549,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls for Sex for Sex Motel | 288893 | [288893-girls-for-sex-for-sex-motel.json](./288893-girls-for-sex-for-sex-motel.json) |
 | Girls Frantic Clan | 263606 | [263606-girls-frantic-clan.json](./263606-girls-frantic-clan.json) |
 | Girls Free | 127940 | [127940-girls-free.json](./127940-girls-free.json) |
+| Girls Girls Girls VR (create + pose in vr) | 103809 | [103809-girls-girls-girls-vr-create-pose-in-vr.json](./103809-girls-girls-girls-vr-create-pose-in-vr.json) |
 | Girls Gym | 237483 | [237483-girls-gym.json](./237483-girls-gym.json) |
 | Girls Hair Salon | 88026 | [88026-girls-hair-salon.json](./88026-girls-hair-salon.json) |
 | Girls Hobby in Love | 278922 | [278922-girls-hobby-in-love.json](./278922-girls-hobby-in-love.json) |
