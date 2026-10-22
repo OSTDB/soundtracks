@@ -3462,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oswald's Adventure | 55347 | [55347-oswalds-adventure.json](./55347-oswalds-adventure.json) |
 | Oswald's Supermarket | 299781 | [299781-oswalds-supermarket.json](./299781-oswalds-supermarket.json) |
 | Osyaberi! Horijyo! Gekihori: Anna Holinski Saves the Universe, Alright?! | 222425 | [222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json](./222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json) |
+| Osyaberi! Horijyo! Holin Slash | 147841 | [147841-osyaberi-horijyo-holin-slash.json](./147841-osyaberi-horijyo-holin-slash.json) |
 | Osyaberi! Puzzle Chigatan: Spot the Differences with Everyone | 147824 | [147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json](./147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json) |
 | Otaku and Bubbly Girl | 392312 | [392312-otaku-and-bubbly-girl.json](./392312-otaku-and-bubbly-girl.json) |
 | Otaku Club | 156924 | [156924-otaku-club.json](./156924-otaku-club.json) |
