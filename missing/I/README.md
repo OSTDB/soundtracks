@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iBowl Deluxe | 197668 | [197668-ibowl-deluxe.json](./197668-ibowl-deluxe.json) |
 | Ibreak! | 103895 | [103895-ibreak.json](./103895-ibreak.json) |
 | iBridgeCards | 88586 | [88586-ibridgecards.json](./88586-ibridgecards.json) |
+| iBridgeFun | 105670 | [105670-ibridgefun.json](./105670-ibridgefun.json) |
 | Ibuki Suika Game | 407592 | [407592-ibuki-suika-game.json](./407592-ibuki-suika-game.json) |
 | IC Carddass DragonBall | 59995 | [59995-ic-carddass-dragonball.json](./59995-ic-carddass-dragonball.json) |
 | ic2005 | 256861 | [256861-ic2005.json](./256861-ic2005.json) |
@@ -3150,6 +3151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Star M | 208175 | [208175-infinity-star-m.json](./208175-infinity-star-m.json) |
 | Infinity Strash: Dragon Quest - The Adventure of Dai | 137928 | [137928-infinity-strash-dragon-quest-the-adventure-of-dai.json](./137928-infinity-strash-dragon-quest-the-adventure-of-dai.json) |
 | Infinity Strash: Dragon Quest - The Adventure of Dai: Digital Deluxe Edition | 262330 | [262330-infinity-strash-dragon-quest-the-adventure-of-dai-digital-deluxe-edition.json](./262330-infinity-strash-dragon-quest-the-adventure-of-dai-digital-deluxe-edition.json) |
+| Infinity Sword | 105665 | [105665-infinity-sword.json](./105665-infinity-sword.json) |
 | Infinity Tank Battle | 107389 | [107389-infinity-tank-battle.json](./107389-infinity-tank-battle.json) |
 | Infinity Tao | 284273 | [284273-infinity-tao.json](./284273-infinity-tao.json) |
 | Infinity Tempest | 163207 | [163207-infinity-tempest.json](./163207-infinity-tempest.json) |
@@ -4992,6 +4994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Rein | 207397 | [207397-isle-of-rein.json](./207397-isle-of-rein.json) |
 | Isle of Reveries | 311611 | [311611-isle-of-reveries.json](./311611-isle-of-reveries.json) |
 | Isle of Skye | 105479 | [105479-isle-of-skye.json](./105479-isle-of-skye.json) |
+| Isle of Skye: The Tactical Board Game | 105675 | [105675-isle-of-skye-the-tactical-board-game.json](./105675-isle-of-skye-the-tactical-board-game.json) |
 | Isle of Spirits | 131857 | [131857-isle-of-spirits.json](./131857-isle-of-spirits.json) |
 | Isle of Swaps | 237304 | [237304-isle-of-swaps.json](./237304-isle-of-swaps.json) |
 | Isle of the Crown | 137362 | [137362-isle-of-the-crown.json](./137362-isle-of-the-crown.json) |
