@@ -2324,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
 | Cartoon Rage | 239216 | [239216-cartoon-rage.json](./239216-cartoon-rage.json) |
 | Cartoon Roach: Fun Ninja Game | 175599 | [175599-cartoon-roach-fun-ninja-game.json](./175599-cartoon-roach-fun-ninja-game.json) |
+| Cartoon Toolbox Starring Felix the Cat | 144002 | [144002-cartoon-toolbox-starring-felix-the-cat.json](./144002-cartoon-toolbox-starring-felix-the-cat.json) |
 | Cartoon Tower Defense | 186568 | [186568-cartoon-tower-defense.json](./186568-cartoon-tower-defense.json) |
 | Cartoon Universe | 247576 | [247576-cartoon-universe.json](./247576-cartoon-universe.json) |
 | Cartoon Wars | 230784 | [230784-cartoon-wars.json](./230784-cartoon-wars.json) |
@@ -2436,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cashier Simulator | 261723 | [261723-cashier-simulator.json](./261723-cashier-simulator.json) |
 | Cashier Simulator | 332312 | [332312-cashier-simulator.json](./332312-cashier-simulator.json) |
 | Cashtronauts | 34834 | [34834-cashtronauts.json](./34834-cashtronauts.json) |
+| Casina: A Visual Novel set in Ancient Greece | 144016 | [144016-casina-a-visual-novel-set-in-ancient-greece.json](./144016-casina-a-visual-novel-set-in-ancient-greece.json) |
 | Casino Black Jack | 336095 | [336095-casino-black-jack.json](./336095-casino-black-jack.json) |
 | Casino Blackjack | 86560 | [86560-casino-blackjack.json](./86560-casino-blackjack.json) |
 | Casino Boss Simulator | 278701 | [278701-casino-boss-simulator.json](./278701-casino-boss-simulator.json) |
@@ -8574,6 +8576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: Blue | 338870 | [338870-code-blue.json](./338870-code-blue.json) |
 | Code: D-Blood | 139222 | [139222-code-d-blood.json](./139222-code-d-blood.json) |
 | Code: Dead Ends | 254612 | [254612-code-dead-ends.json](./254612-code-dead-ends.json) |
+| Code: Dino-H | 144159 | [144159-code-dino-h.json](./144159-code-dino-h.json) |
 | Code: Europe | 73848 | [73848-code-europe.json](./73848-code-europe.json) |
 | Code: Mirage | 193817 | [193817-code-mirage.json](./193817-code-mirage.json) |
 | Code: OOC | 413828 | [413828-code-ooc.json](./413828-code-ooc.json) |
@@ -9616,6 +9619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission 2 | 645 | [645-combat-mission-2.json](./645-combat-mission-2.json) |
 | Combat Mission Afghanistan | 52518 | [52518-combat-mission-afghanistan.json](./52518-combat-mission-afghanistan.json) |
 | Combat Mission Anthology | 78011 | [78011-combat-mission-anthology.json](./78011-combat-mission-anthology.json) |
+| Combat Mission Cold War | 144154 | [144154-combat-mission-cold-war.json](./144154-combat-mission-cold-war.json) |
 | Combat Mission Fortress Italy: Gustav Line | 266386 | [266386-combat-mission-fortress-italy-gustav-line.json](./266386-combat-mission-fortress-italy-gustav-line.json) |
 | Combat Mission Fortress Italy: Rome to Victory | 266384 | [266384-combat-mission-fortress-italy-rome-to-victory.json](./266384-combat-mission-fortress-italy-rome-to-victory.json) |
 | Combat Mission II: Barbarossa to Berlin | 23748 | [23748-combat-mission-ii-barbarossa-to-berlin.json](./23748-combat-mission-ii-barbarossa-to-berlin.json) |
@@ -15567,6 +15571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Dungeon X Monster Girls | 351759 | [351759-cyber-dungeon-x-monster-girls.json](./351759-cyber-dungeon-x-monster-girls.json) |
 | Cyber Dungeon: Excalibur | 225193 | [225193-cyber-dungeon-excalibur.json](./225193-cyber-dungeon-excalibur.json) |
 | Cyber Egg: Battle Champion | 58062 | [58062-cyber-egg-battle-champion.json](./58062-cyber-egg-battle-champion.json) |
+| Cyber Emoji Tale 2099 | 144004 | [144004-cyber-emoji-tale-2099.json](./144004-cyber-emoji-tale-2099.json) |
 | Cyber Escape | 93793 | [93793-cyber-escape.json](./93793-cyber-escape.json) |
 | Cyber Evolution | 359865 | [359865-cyber-evolution.json](./359865-cyber-evolution.json) |
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
