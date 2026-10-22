@@ -5012,6 +5012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alicia Online | 60233 | [60233-alicia-online.json](./60233-alicia-online.json) |
 | Alicia Quatermain 2: The Stone of Fate | 104740 | [104740-alicia-quatermain-2-the-stone-of-fate.json](./104740-alicia-quatermain-2-the-stone-of-fate.json) |
 | Alicia Quatermain 3: The Mystery of the Flaming Gold | 113180 | [113180-alicia-quatermain-3-the-mystery-of-the-flaming-gold.json](./113180-alicia-quatermain-3-the-mystery-of-the-flaming-gold.json) |
+| Alicia Quatermain 4: Da Vinci and the Time Machine | 125030 | [125030-alicia-quatermain-4-da-vinci-and-the-time-machine.json](./125030-alicia-quatermain-4-da-vinci-and-the-time-machine.json) |
 | Alicia Quatermain: Secrets of the Lost Treasures | 55533 | [55533-alicia-quatermain-secrets-of-the-lost-treasures.json](./55533-alicia-quatermain-secrets-of-the-lost-treasures.json) |
 | Alicorn Simulator 3D | 105718 | [105718-alicorn-simulator-3d.json](./105718-alicorn-simulator-3d.json) |
 | Alida | 7665 | [7665-alida.json](./7665-alida.json) |
@@ -9436,6 +9437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Gangbusters | 340530 | [340530-arcade-archives-gangbusters.json](./340530-arcade-archives-gangbusters.json) |
 | Arcade Archives: Gee Bee | 371413 | [371413-arcade-archives-gee-bee.json](./371413-arcade-archives-gee-bee.json) |
 | Arcade Archives: Gemini Wing | 146343 | [146343-arcade-archives-gemini-wing.json](./146343-arcade-archives-gemini-wing.json) |
+| Arcade Archives: Golf | 125054 | [125054-arcade-archives-golf.json](./125054-arcade-archives-golf.json) |
 | Arcade Archives: Gradius | 99560 | [99560-arcade-archives-gradius.json](./99560-arcade-archives-gradius.json) |
 | Arcade Archives: Gradius II | 99541 | [99541-arcade-archives-gradius-ii.json](./99541-arcade-archives-gradius-ii.json) |
 | Arcade Archives: Gradius III | 147110 | [147110-arcade-archives-gradius-iii.json](./147110-arcade-archives-gradius-iii.json) |
