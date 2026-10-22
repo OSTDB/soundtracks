@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headbangers: Fright or Flight | 279539 | [279539-headbangers-fright-or-flight.json](./279539-headbangers-fright-or-flight.json) |
 | HeadCount | 144944 | [144944-headcount.json](./144944-headcount.json) |
 | Headcrab Frenzy! | 127926 | [127926-headcrab-frenzy.json](./127926-headcrab-frenzy.json) |
+| Headcrab Invasion | 102008 | [102008-headcrab-invasion.json](./102008-headcrab-invasion.json) |
 | HeadHorse Legacy | 249908 | [249908-headhorse-legacy.json](./249908-headhorse-legacy.json) |
 | Headhunter | 4350 | [4350-headhunter.json](./4350-headhunter.json) |
 | HeadHunters | 373751 | [373751-headhunters.json](./373751-headhunters.json) |
@@ -2453,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heading Home | 278954 | [278954-heading-home.json](./278954-heading-home.json) |
 | Headlander | 15857 | [15857-headlander.json](./15857-headlander.json) |
 | Headless D | 223629 | [223629-headless-d.json](./223629-headless-d.json) |
+| Headless Zombie 2 | 102020 | [102020-headless-zombie-2.json](./102020-headless-zombie-2.json) |
 | Headlice | 292585 | [292585-headlice.json](./292585-headlice.json) |
 | Headliner: NoviNews | 107596 | [107596-headliner-novinews.json](./107596-headliner-novinews.json) |
 | Headlines from the Deep | 177312 | [177312-headlines-from-the-deep.json](./177312-headlines-from-the-deep.json) |
@@ -4962,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Blocks Puzzle | 101754 | [101754-hex-blocks-puzzle.json](./101754-hex-blocks-puzzle.json) |
 | Hex Bots | 338313 | [338313-hex-bots.json](./338313-hex-bots.json) |
 | Hex Core | 404773 | [404773-hex-core.json](./404773-hex-core.json) |
+| Hex Empire | 101917 | [101917-hex-empire.json](./101917-hex-empire.json) |
 | Hex For Hire | 182925 | [182925-hex-for-hire.json](./182925-hex-for-hire.json) |
 | Hex Gambit | 70704 | [70704-hex-gambit.json](./70704-hex-gambit.json) |
 | Hex Gambit: Respawned | 133136 | [133136-hex-gambit-respawned.json](./133136-hex-gambit-respawned.json) |
@@ -9121,6 +9124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Baseball | 38342 | [38342-human-baseball.json](./38342-human-baseball.json) |
 | Human Bowling | 283270 | [283270-human-bowling.json](./283270-human-bowling.json) |
 | Human Cargo | 194449 | [194449-human-cargo.json](./194449-human-cargo.json) |
+| Human Chop 2 | 102002 | [102002-human-chop-2.json](./102002-human-chop-2.json) |
 | Human Construction Site | 377803 | [377803-human-construction-site.json](./377803-human-construction-site.json) |
 | Human Defense | 22274 | [22274-human-defense.json](./22274-human-defense.json) |
 | Human Delusion | 128224 | [128224-human-delusion.json](./128224-human-delusion.json) |
