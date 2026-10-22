@@ -3685,6 +3685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Squid | 122182 | [122182-terror-squid.json](./122182-terror-squid.json) |
 | Terror Time | 220792 | [220792-terror-time.json](./220792-terror-time.json) |
 | Terror Type: A.L.C.H.E.M.Y. | 338318 | [338318-terror-type-a-l-c-h-e-m-y.json](./338318-terror-type-a-l-c-h-e-m-y.json) |
+| Terror World | 101265 | [101265-terror-world.json](./101265-terror-world.json) |
 | Terror-Daktil 4D | 147211 | [147211-terror-daktil-4d.json](./147211-terror-daktil-4d.json) |
 | Terrorarium | 115014 | [115014-terrorarium.json](./115014-terrorarium.json) |
 | Terrorbytes | 319843 | [319843-terrorbytes.json](./319843-terrorbytes.json) |
@@ -11458,6 +11459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Other Side | 286264 | [286264-the-other-side.json](./286264-the-other-side.json) |
 | The Other Side | 308545 | [308545-the-other-side.json](./308545-the-other-side.json) |
 | The Other Side | 357744 | [357744-the-other-side.json](./357744-the-other-side.json) |
+| The Other Side of the Screen | 101277 | [101277-the-other-side-of-the-screen.json](./101277-the-other-side-of-the-screen.json) |
 | The Other Side of the Tracks | 179452 | [179452-the-other-side-of-the-tracks.json](./179452-the-other-side-of-the-tracks.json) |
 | The other side: My own horror | 161402 | [161402-the-other-side-my-own-horror.json](./161402-the-other-side-my-own-horror.json) |
 | The Other Side: Tower of Souls | 53765 | [53765-the-other-side-tower-of-souls.json](./53765-the-other-side-tower-of-souls.json) |
@@ -15507,6 +15509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theseus and the Minotaur | 24904 | [24904-theseus-and-the-minotaur.json](./24904-theseus-and-the-minotaur.json) |
 | Theseus Protocol | 216694 | [216694-theseus-protocol.json](./216694-theseus-protocol.json) |
 | Theseus: Journey to Athens | 114092 | [114092-theseus-journey-to-athens.json](./114092-theseus-journey-to-athens.json) |
+| TheShooterGame | 101283 | [101283-theshootergame.json](./101283-theshootergame.json) |
 | Thesmophoria | 244304 | [244304-thesmophoria.json](./244304-thesmophoria.json) |
 | TheSpoiler | 289962 | [289962-thespoiler.json](./289962-thespoiler.json) |
 | Theta | 67736 | [67736-theta.json](./67736-theta.json) |
@@ -24363,6 +24366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trident Barrage | 115370 | [115370-trident-barrage.json](./115370-trident-barrage.json) |
 | Trident's Tale | 336161 | [336161-tridents-tale.json](./336161-tridents-tale.json) |
 | Trident's Wake | 74813 | [74813-tridents-wake.json](./74813-tridents-wake.json) |
+| Tridevyatye zemli (Svet ili t'ma) | 101262 | [101262-tridevyatye-zemli-svet-ili-tma.json](./101262-tridevyatye-zemli-svet-ili-tma.json) |
 | Tridle | 228715 | [228715-tridle.json](./228715-tridle.json) |
 | Tridonis | 62749 | [62749-tridonis.json](./62749-tridonis.json) |
 | Triennale Game Collection Vol. 2 | 207027 | [207027-triennale-game-collection-vol-2.json](./207027-triennale-game-collection-vol-2.json) |
