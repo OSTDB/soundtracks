@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamia 1999 | 123022 | [123022-lamia-1999.json](./123022-lamia-1999.json) |
 | Lamia's Bambina | 240783 | [240783-lamias-bambina.json](./240783-lamias-bambina.json) |
 | Lamia's Game Room | 33724 | [33724-lamias-game-room.json](./33724-lamias-game-room.json) |
+| Lamia's Plan | 154893 | [154893-lamias-plan.json](./154893-lamias-plan.json) |
 | Lamina | 184259 | [184259-lamina.json](./184259-lamina.json) |
 | Lamina Island | 224537 | [224537-lamina-island.json](./224537-lamina-island.json) |
 | Lamm | 29600 | [29600-lamm.json](./29600-lamm.json) |
@@ -5406,6 +5407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logo Game Guess: Brand Quiz | 331650 | [331650-logo-game-guess-brand-quiz.json](./331650-logo-game-guess-brand-quiz.json) |
 | Logo Quiz | 135126 | [135126-logo-quiz.json](./135126-logo-quiz.json) |
 | Logo Quiz Club | 105849 | [105849-logo-quiz-club.json](./105849-logo-quiz-club.json) |
+| Logo Quiz Festival: Guess the Brands | 154917 | [154917-logo-quiz-festival-guess-the-brands.json](./154917-logo-quiz-festival-guess-the-brands.json) |
 | Logo Quiz Fever | 103661 | [103661-logo-quiz-fever.json](./103661-logo-quiz-fever.json) |
 | Logo Quiz: Guess the Image | 232483 | [232483-logo-quiz-guess-the-image.json](./232483-logo-quiz-guess-the-image.json) |
 | Logos | 55401 | [55401-logos.json](./55401-logos.json) |
