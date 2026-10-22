@@ -1744,6 +1744,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Fatal Fury 3 | 99484 | [99484-aca-neo-geo-fatal-fury-3.json](./99484-aca-neo-geo-fatal-fury-3.json) |
 | ACA Neo Geo: Fatal Fury Special | 99742 | [99742-aca-neo-geo-fatal-fury-special.json](./99742-aca-neo-geo-fatal-fury-special.json) |
 | ACA Neo Geo: Galaxy Fight - Universal Warriors | 99747 | [99747-aca-neo-geo-galaxy-fight-universal-warriors.json](./99747-aca-neo-geo-galaxy-fight-universal-warriors.json) |
+| ACA Neo Geo: Ghost Pilots | 103851 | [103851-aca-neo-geo-ghost-pilots.json](./103851-aca-neo-geo-ghost-pilots.json) |
+| ACA Neo Geo: Gururin | 103849 | [103849-aca-neo-geo-gururin.json](./103849-aca-neo-geo-gururin.json) |
 | ACA Neo Geo: King of the Monsters | 99492 | [99492-aca-neo-geo-king-of-the-monsters.json](./99492-aca-neo-geo-king-of-the-monsters.json) |
 | ACA Neo Geo: Kizuna Encounter | 113906 | [113906-aca-neo-geo-kizuna-encounter.json](./113906-aca-neo-geo-kizuna-encounter.json) |
 | ACA Neo Geo: Last Resort | 99748 | [99748-aca-neo-geo-last-resort.json](./99748-aca-neo-geo-last-resort.json) |
@@ -1751,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Metal Slug 2 | 99504 | [99504-aca-neo-geo-metal-slug-2.json](./99504-aca-neo-geo-metal-slug-2.json) |
 | ACA Neo Geo: Metal Slug X | 99481 | [99481-aca-neo-geo-metal-slug-x.json](./99481-aca-neo-geo-metal-slug-x.json) |
 | ACA Neo Geo: Nam-1975 | 28409 | [28409-aca-neo-geo-nam-1975.json](./28409-aca-neo-geo-nam-1975.json) |
+| ACA Neo Geo: Ninja Combat | 103852 | [103852-aca-neo-geo-ninja-combat.json](./103852-aca-neo-geo-ninja-combat.json) |
 | ACA Neo Geo: Ninja Master's | 114147 | [114147-aca-neo-geo-ninja-masters.json](./114147-aca-neo-geo-ninja-masters.json) |
 | ACA Neo Geo: Pleasure Goal - 5 on 5 Mini Soccer | 111644 | [111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json](./111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json) |
 | ACA Neo Geo: Power Spikes II | 82392 | [82392-aca-neo-geo-power-spikes-ii.json](./82392-aca-neo-geo-power-spikes-ii.json) |
@@ -1760,15 +1763,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Real Bout Fatal Fury | 90199 | [90199-aca-neo-geo-real-bout-fatal-fury.json](./90199-aca-neo-geo-real-bout-fatal-fury.json) |
 | ACA Neo Geo: Riding Hero | 103942 | [103942-aca-neo-geo-riding-hero.json](./103942-aca-neo-geo-riding-hero.json) |
 | ACA Neo Geo: Robo Army | 99483 | [99483-aca-neo-geo-robo-army.json](./99483-aca-neo-geo-robo-army.json) |
+| ACA Neo Geo: Samurai Shodown IV | 103848 | [103848-aca-neo-geo-samurai-shodown-iv.json](./103848-aca-neo-geo-samurai-shodown-iv.json) |
 | ACA Neo Geo: Samurai Shodown V Special | 117520 | [117520-aca-neo-geo-samurai-shodown-v-special.json](./117520-aca-neo-geo-samurai-shodown-v-special.json) |
 | ACA Neo Geo: Savage Reign | 111396 | [111396-aca-neo-geo-savage-reign.json](./111396-aca-neo-geo-savage-reign.json) |
 | ACA Neo Geo: Sengoku 3 | 104269 | [104269-aca-neo-geo-sengoku-3.json](./104269-aca-neo-geo-sengoku-3.json) |
 | ACA Neo Geo: Shock Troopers | 28412 | [28412-aca-neo-geo-shock-troopers.json](./28412-aca-neo-geo-shock-troopers.json) |
+| ACA Neo Geo: Shock Troopers 2nd Squad | 103847 | [103847-aca-neo-geo-shock-troopers-2nd-squad.json](./103847-aca-neo-geo-shock-troopers-2nd-squad.json) |
 | ACA Neo Geo: Spin Master | 67624 | [67624-aca-neo-geo-spin-master.json](./67624-aca-neo-geo-spin-master.json) |
 | ACA Neo Geo: Stakes Winner | 99167 | [99167-aca-neo-geo-stakes-winner.json](./99167-aca-neo-geo-stakes-winner.json) |
 | ACA Neo Geo: Stakes Winner 2 | 118216 | [118216-aca-neo-geo-stakes-winner-2.json](./118216-aca-neo-geo-stakes-winner-2.json) |
 | ACA Neo Geo: Super Baseball 2020 | 85561 | [85561-aca-neo-geo-super-baseball-2020.json](./85561-aca-neo-geo-super-baseball-2020.json) |
 | ACA Neo Geo: Super Sidekicks | 99493 | [99493-aca-neo-geo-super-sidekicks.json](./99493-aca-neo-geo-super-sidekicks.json) |
+| ACA Neo Geo: Super Sidekicks 2 | 103850 | [103850-aca-neo-geo-super-sidekicks-2.json](./103850-aca-neo-geo-super-sidekicks-2.json) |
 | ACA Neo Geo: Super Sidekicks 3 - The Next Glory | 103563 | [103563-aca-neo-geo-super-sidekicks-3-the-next-glory.json](./103563-aca-neo-geo-super-sidekicks-3-the-next-glory.json) |
 | ACA Neo Geo: The King of Fighters '94 | 99529 | [99529-aca-neo-geo-the-king-of-fighters-94.json](./99529-aca-neo-geo-the-king-of-fighters-94.json) |
 | ACA Neo Geo: The King of Fighters '95 | 99735 | [99735-aca-neo-geo-the-king-of-fighters-95.json](./99735-aca-neo-geo-the-king-of-fighters-95.json) |
@@ -4072,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Legends | 77273 | [77273-air-legends.json](./77273-air-legends.json) |
 | Air Mail | 104424 | [104424-air-mail.json](./104424-air-mail.json) |
 | Air Management '96 | 45431 | [45431-air-management-96.json](./45431-air-management-96.json) |
+| Air Manager | 103918 | [103918-air-manager.json](./103918-air-manager.json) |
 | Air Marty | 118136 | [118136-air-marty.json](./118136-air-marty.json) |
 | Air Master Hanemaru | 346747 | [346747-air-master-hanemaru.json](./346747-air-master-hanemaru.json) |
 | Air Missions: Hind | 20394 | [20394-air-missions-hind.json](./20394-air-missions-hind.json) |
@@ -13675,6 +13682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Snowball Fight | 77608 | [77608-avatar-snowball-fight.json](./77608-avatar-snowball-fight.json) |
 | Avatar Superstar | 20120 | [20120-avatar-superstar.json](./20120-avatar-superstar.json) |
 | Avatar Warfare! | 59778 | [59778-avatar-warfare.json](./59778-avatar-warfare.json) |
+| Avatar: Consolidate | 103831 | [103831-avatar-consolidate.json](./103831-avatar-consolidate.json) |
 | Avatar: Frontiers of Pandora - Complete Edition | 392391 | [392391-avatar-frontiers-of-pandora-complete-edition.json](./392391-avatar-frontiers-of-pandora-complete-edition.json) |
 | Avatar: Frontiers of Pandora - Deluxe Edition | 283590 | [283590-avatar-frontiers-of-pandora-deluxe-edition.json](./283590-avatar-frontiers-of-pandora-deluxe-edition.json) |
 | Avatar: Frontiers of Pandora - From the Ashes | 371949 | [371949-avatar-frontiers-of-pandora-from-the-ashes.json](./371949-avatar-frontiers-of-pandora-from-the-ashes.json) |
