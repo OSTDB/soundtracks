@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ketamina | 249848 | [249848-ketamina.json](./249848-ketamina.json) |
 | Ketchapp Summer Sports | 246960 | [246960-ketchapp-summer-sports.json](./246960-ketchapp-summer-sports.json) |
 | Ketchapp Tennis | 257877 | [257877-ketchapp-tennis.json](./257877-ketchapp-tennis.json) |
+| Ketchup and Mayonnaise | 152107 | [152107-ketchup-and-mayonnaise.json](./152107-ketchup-and-mayonnaise.json) |
 | Kether | 45921 | [45921-kether.json](./45921-kether.json) |
 | KetnetKick | 94236 | [94236-ketnetkick.json](./94236-ketnetkick.json) |
 | Ketris | 182540 | [182540-ketris.json](./182540-ketris.json) |
@@ -3903,6 +3904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokojokoa | 294398 | [294398-kokojokoa.json](./294398-kokojokoa.json) |
 | Kokomando | 299719 | [299719-kokomando.json](./299719-kokomando.json) |
 | Kokontouzai Eto Monogatari | 40229 | [40229-kokontouzai-eto-monogatari.json](./40229-kokontouzai-eto-monogatari.json) |
+| Kokopa's Atlas | 152182 | [152182-kokopas-atlas.json](./152182-kokopas-atlas.json) |
 | Kokoro Appliqué | 407284 | [407284-kokoro-applique.json](./407284-kokoro-applique.json) |
 | Kokoro Clover Infinite Phantasm | 416056 | [416056-kokoro-clover-infinite-phantasm.json](./416056-kokoro-clover-infinite-phantasm.json) |
 | Kokoro Clover Part2 | 142151 | [142151-kokoro-clover-part2.json](./142151-kokoro-clover-part2.json) |
