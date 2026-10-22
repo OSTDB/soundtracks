@@ -1148,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vera Blanc: Full Moon | 140912 | [140912-vera-blanc-full-moon.json](./140912-vera-blanc-full-moon.json) |
 | Vera Blanc: Ghost in the Castle | 142852 | [142852-vera-blanc-ghost-in-the-castle.json](./142852-vera-blanc-ghost-in-the-castle.json) |
 | Vera Blanc: Supernatural Mysteries | 306516 | [306516-vera-blanc-supernatural-mysteries.json](./306516-vera-blanc-supernatural-mysteries.json) |
+| Vera Swings | 101254 | [101254-vera-swings.json](./101254-vera-swings.json) |
 | Vera: The Last Hope | 215673 | [215673-vera-the-last-hope.json](./215673-vera-the-last-hope.json) |
 | Verald Defense | 53874 | [53874-verald-defense.json](./53874-verald-defense.json) |
 | Verdant Citadel | 141778 | [141778-verdant-citadel.json](./141778-verdant-citadel.json) |
@@ -2322,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visitor Center | 185313 | [185313-visitor-center.json](./185313-visitor-center.json) |
 | VISK | 248914 | [248914-visk.json](./248914-visk.json) |
 | Vism | 224943 | [224943-vism.json](./224943-vism.json) |
+| ViSP | 101248 | [101248-visp.json](./101248-visp.json) |
 | Vispire | 275574 | [275574-vispire.json](./275574-vispire.json) |
 | Vispo: Video Spot the Difference | 369185 | [369185-vispo-video-spot-the-difference.json](./369185-vispo-video-spot-the-difference.json) |
 | Vissekom | 142427 | [142427-vissekom.json](./142427-vissekom.json) |
