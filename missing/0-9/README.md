@@ -1778,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Hentai Puzzle 2 | 163534 | [163534-3d-hentai-puzzle-2.json](./163534-3d-hentai-puzzle-2.json) |
 | 3D Hopper | 327387 | [327387-3d-hopper.json](./327387-3d-hopper.json) |
 | 3D Icon Quiz | 232060 | [232060-3d-icon-quiz.json](./232060-3d-icon-quiz.json) |
+| 3D Illusion Maze Path Puzzle | 100621 | [100621-3d-illusion-maze-path-puzzle.json](./100621-3d-illusion-maze-path-puzzle.json) |
 | 3D Joys | 205073 | [205073-3d-joys.json](./205073-3d-joys.json) |
 | 3D Kaleidoscope: Baby Universe | 143644 | [143644-3d-kaleidoscope-baby-universe.json](./143644-3d-kaleidoscope-baby-universe.json) |
 | 3D Knifflis | 365464 | [365464-3d-knifflis.json](./365464-3d-knifflis.json) |
@@ -2413,6 +2414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Years From Now | 115856 | [115856-7-years-from-now.json](./115856-7-years-from-now.json) |
 | 7 Years War | 157003 | [157003-7-years-war.json](./157003-7-years-war.json) |
 | 7 Zwerge: Das Brettspiel | 84284 | [84284-7-zwerge-das-brettspiel.json](./84284-7-zwerge-das-brettspiel.json) |
+| 7-in-1 Brain Sharpness Bundle | 100635 | [100635-7-in-1-brain-sharpness-bundle.json](./100635-7-in-1-brain-sharpness-bundle.json) |
 | 7-minute HOP | 111509 | [111509-7-minute-hop.json](./111509-7-minute-hop.json) |
 | 7,62 Hard Life | 98372 | [98372-7-62-hard-life.json](./98372-7-62-hard-life.json) |
 | 7,62 High Calibre, 7,62 Hard Life, Brigade E5: New Jagged Union Pack | 84123 | [84123-7-62-high-calibre-7-62-hard-life-brigade-e5-new-jagged-union-pack.json](./84123-7-62-high-calibre-7-62-hard-life-brigade-e5-new-jagged-union-pack.json) |
