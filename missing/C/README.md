@@ -1531,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caput Mortum | 341136 | [341136-caput-mortum.json](./341136-caput-mortum.json) |
 | Capy Cakes | 398293 | [398293-capy-cakes.json](./398293-capy-cakes.json) |
 | Capy Farm | 407389 | [407389-capy-farm.json](./407389-capy-farm.json) |
+| Capy Hoky | 129426 | [129426-capy-hoky.json](./129426-capy-hoky.json) |
 | Capy Island | 310944 | [310944-capy-island.json](./310944-capy-island.json) |
 | Capy's Hot Springs Haven | 389706 | [389706-capys-hot-springs-haven.json](./389706-capys-hot-springs-haven.json) |
 | Capybara | 229820 | [229820-capybara.json](./229820-capybara.json) |
@@ -1966,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CardShark Hearts | 83479 | [83479-cardshark-hearts.json](./83479-cardshark-hearts.json) |
 | Cardsharp | 417445 | [417445-cardsharp.json](./417445-cardsharp.json) |
 | Cardstronaut | 345058 | [345058-cardstronaut.json](./345058-cardstronaut.json) |
+| Cardsweeper | 129459 | [129459-cardsweeper.json](./129459-cardsweeper.json) |
 | Cardterrupters | 213564 | [213564-cardterrupters.json](./213564-cardterrupters.json) |
 | Cardtographer | 330339 | [330339-cardtographer.json](./330339-cardtographer.json) |
 | CardWarden | 175409 | [175409-cardwarden.json](./175409-cardwarden.json) |
@@ -4366,6 +4368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions | 278368 | [278368-champions.json](./278368-champions.json) |
 | Champions and Challengers | 174739 | [174739-champions-and-challengers.json](./174739-champions-and-challengers.json) |
 | Champions Arena | 296218 | [296218-champions-arena.json](./296218-champions-arena.json) |
+| Champions Forces | 129461 | [129461-champions-forces.json](./129461-champions-forces.json) |
 | Champions of Aerial | 75429 | [75429-champions-of-aerial.json](./75429-champions-of-aerial.json) |
 | Champions of Avan | 273843 | [273843-champions-of-avan.json](./273843-champions-of-avan.json) |
 | Champions of Breakfast | 33423 | [33423-champions-of-breakfast.json](./33423-champions-of-breakfast.json) |
@@ -5877,6 +5880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChocChocPop | 66191 | [66191-chocchocpop.json](./66191-chocchocpop.json) |
 | Choco Clicker World | 344547 | [344547-choco-clicker-world.json](./344547-choco-clicker-world.json) |
 | Choco Kiosk Simulator | 363019 | [363019-choco-kiosk-simulator.json](./363019-choco-kiosk-simulator.json) |
+| Choco Pixel 2 | 129452 | [129452-choco-pixel-2.json](./129452-choco-pixel-2.json) |
 | Choco Pixel 4 | 157448 | [157448-choco-pixel-4.json](./157448-choco-pixel-4.json) |
 | Choco Pixel 5 | 158104 | [158104-choco-pixel-5.json](./158104-choco-pixel-5.json) |
 | Choco Pixel 6 | 158060 | [158060-choco-pixel-6.json](./158060-choco-pixel-6.json) |
@@ -7525,6 +7529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic British Motor Racing | 4766 | [4766-classic-british-motor-racing.json](./4766-classic-british-motor-racing.json) |
 | Classic Car Racing | 27469 | [27469-classic-car-racing.json](./27469-classic-car-racing.json) |
 | Classic Car Simulator Car Driving | 277356 | [277356-classic-car-simulator-car-driving.json](./277356-classic-car-simulator-car-driving.json) |
+| Classic Card Game Spades | 129439 | [129439-classic-card-game-spades.json](./129439-classic-card-game-spades.json) |
 | Classic Card Games | 85539 | [85539-classic-card-games.json](./85539-classic-card-games.json) |
 | Classic Card Games 3D | 111762 | [111762-classic-card-games-3d.json](./111762-classic-card-games-3d.json) |
 | Classic Card Games Collection | 367702 | [367702-classic-card-games-collection.json](./367702-classic-card-games-collection.json) |
@@ -15833,6 +15838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberkiller2049 | 320821 | [320821-cyberkiller2049.json](./320821-cyberkiller2049.json) |
 | CyberKitty: Neon Merge | 415858 | [415858-cyberkitty-neon-merge.json](./415858-cyberkitty-neon-merge.json) |
 | Cyberlaser | 232508 | [232508-cyberlaser.json](./232508-cyberlaser.json) |
+| Cyberless III: Online | 129418 | [129418-cyberless-iii-online.json](./129418-cyberless-iii-online.json) |
 | Cyberlinxx | 236952 | [236952-cyberlinxx.json](./236952-cyberlinxx.json) |
 | Cyberlords Arcology | 374290 | [374290-cyberlords-arcology.json](./374290-cyberlords-arcology.json) |
 | Cybermage: Darklight Awakening | 18998 | [18998-cybermage-darklight-awakening.json](./18998-cybermage-darklight-awakening.json) |
