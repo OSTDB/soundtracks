@@ -2159,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Master | 148900 | [148900-tavern-master.json](./148900-tavern-master.json) |
 | Tavern Master: Pirates Retreat | 377716 | [377716-tavern-master-pirates-retreat.json](./377716-tavern-master-pirates-retreat.json) |
 | Tavern of Empire | 248670 | [248670-tavern-of-empire.json](./248670-tavern-of-empire.json) |
+| Tavern of Gods | 149261 | [149261-tavern-of-gods.json](./149261-tavern-of-gods.json) |
 | Tavern Revisited | 308871 | [308871-tavern-revisited.json](./308871-tavern-revisited.json) |
 | Tavern Rivals | 417566 | [417566-tavern-rivals.json](./417566-tavern-rivals.json) |
 | Tavern Rumble: Roguelike Card | 256517 | [256517-tavern-rumble-roguelike-card.json](./256517-tavern-rumble-roguelike-card.json) |
@@ -2517,6 +2518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technoroid Unison Heart | 188292 | [188292-technoroid-unison-heart.json](./188292-technoroid-unison-heart.json) |
 | TechnoRun | 9251 | [9251-technorun.json](./9251-technorun.json) |
 | TechnoRunner | 156037 | [156037-technorunner.json](./156037-technorunner.json) |
+| Technōs Arcade I | 149286 | [149286-technos-arcade-i.json](./149286-technos-arcade-i.json) |
 | Technōs Collection I | 130692 | [130692-technos-collection-i.json](./130692-technos-collection-i.json) |
 | TechnoSorcery | 333610 | [333610-technosorcery.json](./333610-technosorcery.json) |
 | Technosphere Reload | 116829 | [116829-technosphere-reload.json](./116829-technosphere-reload.json) |
@@ -2734,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tek-Kids Flash-Ops: Mission - Polar Challenge | 71427 | [71427-tek-kids-flash-ops-mission-polar-challenge.json](./71427-tek-kids-flash-ops-mission-polar-challenge.json) |
 | Tek-Kids Flash-Ops: Mission - Sky Fortress | 69940 | [69940-tek-kids-flash-ops-mission-sky-fortress.json](./69940-tek-kids-flash-ops-mission-sky-fortress.json) |
 | Teke Teke: Moonlit Dread | 274395 | [274395-teke-teke-moonlit-dread.json](./274395-teke-teke-moonlit-dread.json) |
+| Teke-teke | 149335 | [149335-teke-teke.json](./149335-teke-teke.json) |
 | Teki Paki | 175805 | [175805-teki-paki.json](./175805-teki-paki.json) |
 | Tekichuu Keiba Juku | 37791 | [37791-tekichuu-keiba-juku.json](./37791-tekichuu-keiba-juku.json) |
 | TekiKare: Boyfriend or Foe? | 284610 | [284610-tekikare-boyfriend-or-foe.json](./284610-tekikare-boyfriend-or-foe.json) |
@@ -4012,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tezcatlipoca | 350488 | [350488-tezcatlipoca.json](./350488-tezcatlipoca.json) |
 | Tezotopia | 215019 | [215019-tezotopia.json](./215019-tezotopia.json) |
 | Tezuka World: Astro Crunch | 233542 | [233542-tezuka-world-astro-crunch.json](./233542-tezuka-world-astro-crunch.json) |
+| Tezz | 149262 | [149262-tezz.json](./149262-tezz.json) |
 | Tezzel: The Tilemaker's Tale | 344923 | [344923-tezzel-the-tilemakers-tale.json](./344923-tezzel-the-tilemakers-tale.json) |
 | TFX | 44874 | [44874-tfx.json](./44874-tfx.json) |
 | TFX | 76187 | [76187-tfx.json](./76187-tfx.json) |
@@ -4347,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Maddog Williams in the Dungeons of Duridian | 9664 | [9664-the-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json](./9664-the-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json) |
 | The Adventures of Major Havoc | 18468 | [18468-the-adventures-of-major-havoc.json](./18468-the-adventures-of-major-havoc.json) |
 | The Adventures of MassMouth | 294520 | [294520-the-adventures-of-massmouth.json](./294520-the-adventures-of-massmouth.json) |
+| The Adventures of Maximus | 149272 | [149272-the-adventures-of-maximus.json](./149272-the-adventures-of-maximus.json) |
 | The Adventures of Melvin Freebush | 73522 | [73522-the-adventures-of-melvin-freebush.json](./73522-the-adventures-of-melvin-freebush.json) |
 | The Adventures of Mr. Bobley | 35084 | [35084-the-adventures-of-mr-bobley.json](./35084-the-adventures-of-mr-bobley.json) |
 | The Adventures of Mr. Hat | 191822 | [191822-the-adventures-of-mr-hat.json](./191822-the-adventures-of-mr-hat.json) |
@@ -6514,6 +6519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doodle Palette | 377964 | [377964-the-doodle-palette.json](./377964-the-doodle-palette.json) |
 | The Doom Beneath | 175429 | [175429-the-doom-beneath.json](./175429-the-doom-beneath.json) |
 | The Doom Brutalist Community Project | 401315 | [401315-the-doom-brutalist-community-project.json](./401315-the-doom-brutalist-community-project.json) |
+| The Doomed Knight | 149268 | [149268-the-doomed-knight.json](./149268-the-doomed-knight.json) |
 | The Doomsday Crisis Line | 176763 | [176763-the-doomsday-crisis-line.json](./176763-the-doomsday-crisis-line.json) |
 | The Doomsland: Survivors | 245202 | [245202-the-doomsland-survivors.json](./245202-the-doomsland-survivors.json) |
 | The Door | 150501 | [150501-the-door.json](./150501-the-door.json) |
@@ -7217,6 +7223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The FED | 200016 | [200016-the-fed.json](./200016-the-fed.json) |
 | The Federal Rescue | 102967 | [102967-the-federal-rescue.json](./102967-the-federal-rescue.json) |
 | The Feeble Files | 12428 | [12428-the-feeble-files.json](./12428-the-feeble-files.json) |
+| The Fellowship Saga | 149338 | [149338-the-fellowship-saga.json](./149338-the-fellowship-saga.json) |
 | The Female Teacher's Sex Training | 97789 | [97789-the-female-teachers-sex-training.json](./97789-the-female-teachers-sex-training.json) |
 | The Fennels Figure Math | 93189 | [93189-the-fennels-figure-math.json](./93189-the-fennels-figure-math.json) |
 | The Feral Child | 112304 | [112304-the-feral-child.json](./112304-the-feral-child.json) |
@@ -10301,6 +10308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Island of Alanna | 71496 | [71496-the-lost-island-of-alanna.json](./71496-the-lost-island-of-alanna.json) |
 | The lost joystick | 81746 | [81746-the-lost-joystick.json](./81746-the-lost-joystick.json) |
 | The Lost Key | 281322 | [281322-the-lost-key.json](./281322-the-lost-key.json) |
+| The Lost King of Avallon | 149406 | [149406-the-lost-king-of-avallon.json](./149406-the-lost-king-of-avallon.json) |
 | The Lost Kingdom | 96537 | [96537-the-lost-kingdom.json](./96537-the-lost-kingdom.json) |
 | The Lost Kingdom Prophecy | 200581 | [200581-the-lost-kingdom-prophecy.json](./200581-the-lost-kingdom-prophecy.json) |
 | The Lost Labyrinth | 166712 | [166712-the-lost-labyrinth.json](./166712-the-lost-labyrinth.json) |
@@ -13189,6 +13197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spidy Quiz | 229669 | [229669-the-spidy-quiz.json](./229669-the-spidy-quiz.json) |
 | The Spiegul Contest | 273244 | [273244-the-spiegul-contest.json](./273244-the-spiegul-contest.json) |
 | The Spiral Egg Challenge | 257527 | [257527-the-spiral-egg-challenge.json](./257527-the-spiral-egg-challenge.json) |
+| The Spiral Labyrinth | 149330 | [149330-the-spiral-labyrinth.json](./149330-the-spiral-labyrinth.json) |
 | The Spire of Mech Zero | 321389 | [321389-the-spire-of-mech-zero.json](./321389-the-spire-of-mech-zero.json) |
 | The Spirit | 172144 | [172144-the-spirit.json](./172144-the-spirit.json) |
 | The Spirit Engine 2 | 54292 | [54292-the-spirit-engine-2.json](./54292-the-spirit-engine-2.json) |
@@ -25656,6 +25665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Goddesses | 43810 | [43810-twin-goddesses.json](./43810-twin-goddesses.json) |
 | Twin Hawk | 294036 | [294036-twin-hawk.json](./294036-twin-hawk.json) |
 | Twin Hobo Rocket | 215565 | [215565-twin-hobo-rocket.json](./215565-twin-hobo-rocket.json) |
+| Twin Horizons | 149343 | [149343-twin-horizons.json](./149343-twin-horizons.json) |
 | Twin Hotel, Spa, and More | 409208 | [409208-twin-hotel-spa-and-more.json](./409208-twin-hotel-spa-and-more.json) |
 | Twin Jet Racer | 225200 | [225200-twin-jet-racer.json](./225200-twin-jet-racer.json) |
 | Twin Jump | 168621 | [168621-twin-jump.json](./168621-twin-jump.json) |
