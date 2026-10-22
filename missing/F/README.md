@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Quiz 4-nin wa Rival | 48496 | [48496-family-quiz-4-nin-wa-rival.json](./48496-family-quiz-4-nin-wa-rival.json) |
 | Family Reunion | 381629 | [381629-family-reunion.json](./381629-family-reunion.json) |
 | Family Road Trips | 215402 | [215402-family-road-trips.json](./215402-family-road-trips.json) |
+| Family Rush | 101992 | [101992-family-rush.json](./101992-family-rush.json) |
 | Family School | 48767 | [48767-family-school.json](./48767-family-school.json) |
 | Family Secret | 75185 | [75185-family-secret.json](./75185-family-secret.json) |
 | Family Sport | 346056 | [346056-family-sport.json](./346056-family-sport.json) |
@@ -1400,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy Skiing VR | 31759 | [31759-fancy-skiing-vr.json](./31759-fancy-skiing-vr.json) |
 | Fancy Skulls | 17535 | [17535-fancy-skulls.json](./17535-fancy-skulls.json) |
 | Fancy Slingshot VR | 31670 | [31670-fancy-slingshot-vr.json](./31670-fancy-slingshot-vr.json) |
+| Fancy Snowboarding | 102010 | [102010-fancy-snowboarding.json](./102010-fancy-snowboarding.json) |
 | Fancy Solitaire | 147422 | [147422-fancy-solitaire.json](./147422-fancy-solitaire.json) |
 | Fancy Tale | 109523 | [109523-fancy-tale.json](./109523-fancy-tale.json) |
 | Fancy the Frog | 152653 | [152653-fancy-the-frog.json](./152653-fancy-the-frog.json) |
@@ -5296,6 +5298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FishTDX | 277734 | [277734-fishtdx.json](./277734-fishtdx.json) |
 | Fishticuffs | 142681 | [142681-fishticuffs.json](./142681-fishticuffs.json) |
 | Fishton: A Town to Remember | 219785 | [219785-fishton-a-town-to-remember.json](./219785-fishton-a-town-to-remember.json) |
+| Fishtopia Tycoon 2 | 101916 | [101916-fishtopia-tycoon-2.json](./101916-fishtopia-tycoon-2.json) |
 | FishVerse: Ultimate Fishing | 279140 | [279140-fishverse-ultimate-fishing.json](./279140-fishverse-ultimate-fishing.json) |
 | FishVille | 92386 | [92386-fishville.json](./92386-fishville.json) |
 | Fishy | 104572 | [104572-fishy.json](./104572-fishy.json) |
