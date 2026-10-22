@@ -5987,6 +5987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search Coffee Break | 415952 | [415952-word-search-coffee-break.json](./415952-word-search-coffee-break.json) |
 | Word Search Daily HD | 355011 | [355011-word-search-daily-hd.json](./355011-word-search-daily-hd.json) |
 | Word Search Epic | 83418 | [83418-word-search-epic.json](./83418-word-search-epic.json) |
+| Word Search For Kids 2 | 103134 | [103134-word-search-for-kids-2.json](./103134-word-search-for-kids-2.json) |
 | Word Search Fun | 87165 | [87165-word-search-fun.json](./87165-word-search-fun.json) |
 | Word Search Game | 86915 | [86915-word-search-game.json](./86915-word-search-game.json) |
 | Word Search Joy | 88270 | [88270-word-search-joy.json](./88270-word-search-joy.json) |
