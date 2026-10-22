@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Pumpkin Brawl | 317447 | [317447-halloween-pumpkin-brawl.json](./317447-halloween-pumpkin-brawl.json) |
 | Halloween Pumpkin Story | 74380 | [74380-halloween-pumpkin-story.json](./74380-halloween-pumpkin-story.json) |
 | Halloween Puzzle | 172998 | [172998-halloween-puzzle.json](./172998-halloween-puzzle.json) |
+| Halloween Puzzles | 111409 | [111409-halloween-puzzles.json](./111409-halloween-puzzles.json) |
 | Halloween Racer | 101020 | [101020-halloween-racer.json](./101020-halloween-racer.json) |
 | Halloween Racer | 50040 | [50040-halloween-racer.json](./50040-halloween-racer.json) |
 | Halloween Revenge | 310620 | [310620-halloween-revenge.json](./310620-halloween-revenge.json) |
