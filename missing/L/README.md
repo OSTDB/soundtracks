@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La costurera | 333974 | [333974-la-costurera.json](./333974-la-costurera.json) |
 | La Culture Generale pour les Nuls | 269831 | [269831-la-culture-generale-pour-les-nuls.json](./269831-la-culture-generale-pour-les-nuls.json) |
 | La Dame de Monsoreau | 209442 | [209442-la-dame-de-monsoreau.json](./209442-la-dame-de-monsoreau.json) |
+| LA Deadzone | 121994 | [121994-la-deadzone.json](./121994-la-deadzone.json) |
 | La Dimensione Interna | 161636 | [161636-la-dimensione-interna.json](./161636-la-dimensione-interna.json) |
 | La Divina Commedia | 361884 | [361884-la-divina-commedia.json](./361884-la-divina-commedia.json) |
 | La Escalera | 290332 | [290332-la-escalera.json](./290332-la-escalera.json) |
@@ -4182,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line: Disney Tsum Tsum | 38886 | [38886-line-disney-tsum-tsum.json](./38886-line-disney-tsum-tsum.json) |
 | Line: Monster Farm | 246913 | [246913-line-monster-farm.json](./246913-line-monster-farm.json) |
 | Line's Guarder | 252607 | [252607-lines-guarder.json](./252607-lines-guarder.json) |
+| Linea VR | 121972 | [121972-linea-vr.json](./121972-linea-vr.json) |
 | Lineage | 388008 | [388008-lineage.json](./388008-lineage.json) |
 | Lineage | 75854 | [75854-lineage.json](./75854-lineage.json) |
 | Lineage 2: Goddess of Destruction | 23530 | [23530-lineage-2-goddess-of-destruction.json](./23530-lineage-2-goddess-of-destruction.json) |
@@ -7194,6 +7196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid Lucy | 228957 | [228957-lucid-lucy.json](./228957-lucid-lucy.json) |
 | Lucid Night | 277800 | [277800-lucid-night.json](./277800-lucid-night.json) |
 | Lucid Nightmares | 355126 | [355126-lucid-nightmares.json](./355126-lucid-nightmares.json) |
+| Lucid Nina | 121971 | [121971-lucid-nina.json](./121971-lucid-nina.json) |
 | Lucid Path | 108065 | [108065-lucid-path.json](./108065-lucid-path.json) |
 | Lucid Soul | 153488 | [153488-lucid-soul.json](./153488-lucid-soul.json) |
 | Lucid Steam | 158599 | [158599-lucid-steam.json](./158599-lucid-steam.json) |
