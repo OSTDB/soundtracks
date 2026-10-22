@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eia | 149319 | [149319-eia.json](./149319-eia.json) |
 | Eidetus | 125898 | [125898-eidetus.json](./125898-eidetus.json) |
 | Eidol | 405550 | [405550-eidol.json](./405550-eidol.json) |
+| Eidolon | 122709 | [122709-eidolon.json](./122709-eidolon.json) |
 | Eidolon | 17161 | [17161-eidolon.json](./17161-eidolon.json) |
 | Eidolon | 183752 | [183752-eidolon.json](./183752-eidolon.json) |
 | Eidolon Adventure | 119459 | [119459-eidolon-adventure.json](./119459-eidolon-adventure.json) |
@@ -2921,6 +2922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Snake | 401789 | [401789-endless-snake.json](./401789-endless-snake.json) |
 | Endless Soul Light Solitaire | 169867 | [169867-endless-soul-light-solitaire.json](./169867-endless-soul-light-solitaire.json) |
 | Endless Space 2 | 11550 | [11550-endless-space-2.json](./11550-endless-space-2.json) |
+| Endless Space 2: Awakening | 122653 | [122653-endless-space-2-awakening.json](./122653-endless-space-2-awakening.json) |
 | Endless Space 2: Celestial Worlds | 148837 | [148837-endless-space-2-celestial-worlds.json](./148837-endless-space-2-celestial-worlds.json) |
 | Endless Space 2: Definitive Edition | 255506 | [255506-endless-space-2-definitive-edition.json](./255506-endless-space-2-definitive-edition.json) |
 | Endless Space 2: Deluxe Edition | 187986 | [187986-endless-space-2-deluxe-edition.json](./187986-endless-space-2-deluxe-edition.json) |
