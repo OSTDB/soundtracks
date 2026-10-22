@@ -4790,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuudere Funk | 287742 | [287742-kuudere-funk.json](./287742-kuudere-funk.json) |
 | Kuukiyomi 1 2 3+ | 170791 | [170791-kuukiyomi-1-2-3.json](./170791-kuukiyomi-1-2-3.json) |
 | Kuukiyomi 2: Consider It More! - New Era | 135640 | [135640-kuukiyomi-2-consider-it-more-new-era.json](./135640-kuukiyomi-2-consider-it-more-new-era.json) |
+| Kuukiyomi 3: Consider It More and More!! - Father to Son | 147060 | [147060-kuukiyomi-3-consider-it-more-and-more-father-to-son.json](./147060-kuukiyomi-3-consider-it-more-and-more-father-to-son.json) |
 | Kuukiyomi 4: Consider It | 324139 | [324139-kuukiyomi-4-consider-it.json](./324139-kuukiyomi-4-consider-it.json) |
 | Kuukiyomi 4: Consider It - Nintendo Switch 2 Edition | 378813 | [378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json](./378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json) |
 | Kuukiyomi: Consider It! Online | 187529 | [187529-kuukiyomi-consider-it-online.json](./187529-kuukiyomi-consider-it-online.json) |
