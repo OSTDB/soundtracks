@@ -968,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Symphony | 258903 | [258903-fallen-symphony.json](./258903-fallen-symphony.json) |
 | Fallen Tear: The Ascension | 142304 | [142304-fallen-tear-the-ascension.json](./142304-fallen-tear-the-ascension.json) |
 | Fallen Threats | 110170 | [110170-fallen-threats.json](./110170-fallen-threats.json) |
+| Fallen Valiant: Loopy | 120012 | [120012-fallen-valiant-loopy.json](./120012-fallen-valiant-loopy.json) |
 | Fallen World | 148938 | [148938-fallen-world.json](./148938-fallen-world.json) |
 | Fallen, the last light | 164267 | [164267-fallen-the-last-light.json](./164267-fallen-the-last-light.json) |
 | Fallen: Into the Darkness | 326182 | [326182-fallen-into-the-darkness.json](./326182-fallen-into-the-darkness.json) |
@@ -4530,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire and Forget 2: The Death Convoy | 73184 | [73184-fire-and-forget-2-the-death-convoy.json](./73184-fire-and-forget-2-the-death-convoy.json) |
 | Fire and Maneuver: Expansion - Boshin War | 246828 | [246828-fire-and-maneuver-expansion-boshin-war.json](./246828-fire-and-maneuver-expansion-boshin-war.json) |
 | Fire and Rescue | 287760 | [287760-fire-and-rescue.json](./287760-fire-and-rescue.json) |
+| Fire and Thunder | 120014 | [120014-fire-and-thunder.json](./120014-fire-and-thunder.json) |
 | Fire Ant | 93077 | [93077-fire-ant.json](./93077-fire-ant.json) |
 | Fire Attack | 231749 | [231749-fire-attack.json](./231749-fire-attack.json) |
 | Fire Ball | 161775 | [161775-fire-ball.json](./161775-fire-ball.json) |
