@@ -10192,6 +10192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door XP | 178956 | [178956-door-xp.json](./178956-door-xp.json) |
 | Door4: Ultimatum | 319686 | [319686-door4-ultimatum.json](./319686-door4-ultimatum.json) |
 | Doorbell Game! | 176728 | [176728-doorbell-game.json](./176728-doorbell-game.json) |
+| DoorDoor MK II | 138651 | [138651-doordoor-mk-ii.json](./138651-doordoor-mk-ii.json) |
 | Dooria | 158231 | [158231-dooria.json](./158231-dooria.json) |
 | Doorka | 346154 | [346154-doorka.json](./346154-doorka.json) |
 | Doorman | 200358 | [200358-doorman.json](./200358-doorman.json) |
@@ -11995,6 +11996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawing Evolution | 181314 | [181314-drawing-evolution.json](./181314-drawing-evolution.json) |
 | Drawing From Memory | 231412 | [231412-drawing-from-memory.json](./231412-drawing-from-memory.json) |
 | Drawing Rush | 233480 | [233480-drawing-rush.json](./233480-drawing-rush.json) |
+| Drawing Telephone Game: Telpic | 138635 | [138635-drawing-telephone-game-telpic.json](./138635-drawing-telephone-game-telpic.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
 | Drawize | 131579 | [131579-drawize.json](./131579-drawize.json) |
 | Drawn Before | 401615 | [401615-drawn-before.json](./401615-drawn-before.json) |
@@ -13516,6 +13518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duelite | 303496 | [303496-duelite.json](./303496-duelite.json) |
 | Duels | 94383 | [94383-duels.json](./94383-duels.json) |
 | Duels Kings | 227834 | [227834-duels-kings.json](./227834-duels-kings.json) |
+| Duels of Fortune | 138441 | [138441-duels-of-fortune.json](./138441-duels-of-fortune.json) |
 | Duels+ | 398635 | [398635-duels.json](./398635-duels.json) |
 | DuelVox | 155574 | [155574-duelvox.json](./155574-duelvox.json) |
 | Duelyst GG | 232452 | [232452-duelyst-gg.json](./232452-duelyst-gg.json) |
@@ -13810,6 +13813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Create | 265139 | [265139-dungeon-create.json](./265139-dungeon-create.json) |
 | Dungeon Creator | 241999 | [241999-dungeon-creator.json](./241999-dungeon-creator.json) |
 | Dungeon Cross | 221251 | [221251-dungeon-cross.json](./221251-dungeon-cross.json) |
+| Dungeon Crusher Kiritan | 138640 | [138640-dungeon-crusher-kiritan.json](./138640-dungeon-crusher-kiritan.json) |
 | Dungeon Crusher: Soul Hunters | 142999 | [142999-dungeon-crusher-soul-hunters.json](./142999-dungeon-crusher-soul-hunters.json) |
 | Dungeon Crystal | 322851 | [322851-dungeon-crystal.json](./322851-dungeon-crystal.json) |
 | Dungeon D14 | 163573 | [163573-dungeon-d14.json](./163573-dungeon-d14.json) |
