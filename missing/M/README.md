@@ -1916,6 +1916,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Magic Great Again | 391031 | [391031-make-magic-great-again.json](./391031-make-magic-great-again.json) |
 | Make me Float | 236959 | [236959-make-me-float.json](./236959-make-me-float.json) |
 | Make me Laugh! | 311319 | [311319-make-me-laugh.json](./311319-make-me-laugh.json) |
+| Make Me Real | 153777 | [153777-make-me-real.json](./153777-make-me-real.json) |
+| Make Me Real II: Sovereigns | 153778 | [153778-make-me-real-ii-sovereigns.json](./153778-make-me-real-ii-sovereigns.json) |
 | Make Me Real: Worthlessness Selected | 278314 | [278314-make-me-real-worthlessness-selected.json](./278314-make-me-real-worthlessness-selected.json) |
 | Make Merits in Another World | 370193 | [370193-make-merits-in-another-world.json](./370193-make-merits-in-another-world.json) |
 | Make Moku Proud | 395568 | [395568-make-moku-proud.json](./395568-make-moku-proud.json) |
@@ -2305,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mangetsu no Yume | 282512 | [282512-mangetsu-no-yume.json](./282512-mangetsu-no-yume.json) |
 | Manggis: Night Market Survivor | 422537 | [422537-manggis-night-market-survivor.json](./422537-manggis-night-market-survivor.json) |
 | Manglepaw | 199307 | [199307-manglepaw.json](./199307-manglepaw.json) |
+| Mango | 153803 | [153803-mango.json](./153803-mango.json) |
 | Mango | 393833 | [393833-mango.json](./393833-mango.json) |
 | Mango 64 | 296972 | [296972-mango-64.json](./296972-mango-64.json) |
 | Mango Goes to Mewsic School | 292256 | [292256-mango-goes-to-mewsic-school.json](./292256-mango-goes-to-mewsic-school.json) |
@@ -2553,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marathon: Durandal | 299291 | [299291-marathon-durandal.json](./299291-marathon-durandal.json) |
 | Marathon: Eternal X | 228484 | [228484-marathon-eternal-x.json](./228484-marathon-eternal-x.json) |
 | Marathon: Istoria | 252087 | [252087-marathon-istoria.json](./252087-marathon-istoria.json) |
+| Marathon: Red | 153809 | [153809-marathon-red.json](./153809-marathon-red.json) |
 | Marathon: Resurrection | 256152 | [256152-marathon-resurrection.json](./256152-marathon-resurrection.json) |
 | Marathon: Rubicon X | 140942 | [140942-marathon-rubicon-x.json](./140942-marathon-rubicon-x.json) |
 | Maratoma do Faustão | 242648 | [242648-maratoma-do-faustao.json](./242648-maratoma-do-faustao.json) |
@@ -12653,6 +12657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Alien Part II | 38581 | [38581-moon-alien-part-ii.json](./38581-moon-alien-part-ii.json) |
 | Moon and Away | 414619 | [414619-moon-and-away.json](./414619-moon-and-away.json) |
 | Moon and Fang | 390752 | [390752-moon-and-fang.json](./390752-moon-and-fang.json) |
+| Moon and Lou | 153785 | [153785-moon-and-lou.json](./153785-moon-and-lou.json) |
 | Moon Archer Shooting Stars | 177917 | [177917-moon-archer-shooting-stars.json](./177917-moon-archer-shooting-stars.json) |
 | Moon Ball Magic | 41402 | [41402-moon-ball-magic.json](./41402-moon-ball-magic.json) |
 | Moon Base | 167032 | [167032-moon-base.json](./167032-moon-base.json) |
