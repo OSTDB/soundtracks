@@ -2022,6 +2022,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4-in-1 Award Winning Indie Gems | 331453 | [331453-4-in-1-award-winning-indie-gems.json](./331453-4-in-1-award-winning-indie-gems.json) |
 | 4-in-1 Fun Pak | 69787 | [69787-4-in-1-fun-pak.json](./69787-4-in-1-fun-pak.json) |
 | 4-in-1 Funpak Volume II | 93553 | [93553-4-in-1-funpak-volume-ii.json](./93553-4-in-1-funpak-volume-ii.json) |
+| 4-in-1 Version 1 | 106313 | [106313-4-in-1-version-1.json](./106313-4-in-1-version-1.json) |
+| 4-in-1 Version 2 | 106314 | [106314-4-in-1-version-2.json](./106314-4-in-1-version-2.json) |
+| 4-in-1 Version 3 | 106315 | [106315-4-in-1-version-3.json](./106315-4-in-1-version-3.json) |
+| 4-in-1 Version 4 | 106316 | [106316-4-in-1-version-4.json](./106316-4-in-1-version-4.json) |
 | 4-in-1: Hash Block/Jacky Lucky/Challenger Tank/Brain Power | 195064 | [195064-4-in-1-hash-block-jacky-lucky-challenger-tank-brain-power.json](./195064-4-in-1-hash-block-jacky-lucky-challenger-tank-brain-power.json) |
 | 4-Legged Heroine | 135072 | [135072-4-legged-heroine.json](./135072-4-legged-heroine.json) |
 | 4-Lung Boy | 185651 | [185651-4-lung-boy.json](./185651-4-lung-boy.json) |
