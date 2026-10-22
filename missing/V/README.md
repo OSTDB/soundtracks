@@ -2798,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vorlaw: Space Opera | 149915 | [149915-vorlaw-space-opera.json](./149915-vorlaw-space-opera.json) |
 | Vorn's Adventure | 115547 | [115547-vorns-adventure.json](./115547-vorns-adventure.json) |
 | Voron: Raven's Story | 235968 | [235968-voron-ravens-story.json](./235968-voron-ravens-story.json) |
+| Voronica Cleans House: a Vore Adventure | 146603 | [146603-voronica-cleans-house-a-vore-adventure.json](./146603-voronica-cleans-house-a-vore-adventure.json) |
 | Voronium - Locust Sols | 106411 | [106411-voronium-locust-sols.json](./106411-voronium-locust-sols.json) |
 | Vorpal | 76166 | [76166-vorpal.json](./76166-vorpal.json) |
 | Vorrak | 24913 | [24913-vorrak.json](./24913-vorrak.json) |
