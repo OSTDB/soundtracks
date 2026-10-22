@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waba | 104821 | [104821-waba.json](./104821-waba.json) |
 | Wabash Cannonball | 175415 | [175415-wabash-cannonball.json](./175415-wabash-cannonball.json) |
 | Wabisabi | 127786 | [127786-wabisabi.json](./127786-wabisabi.json) |
+| Wacca | 122641 | [122641-wacca.json](./122641-wacca.json) |
 | Wacca Lily R | 154811 | [154811-wacca-lily-r.json](./154811-wacca-lily-r.json) |
 | Waccha PriMagi! Studio | 276064 | [276064-waccha-primagi-studio.json](./276064-waccha-primagi-studio.json) |
 | Wachenröder | 93007 | [93007-wachenroder.json](./93007-wachenroder.json) |
@@ -2645,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Princeland | 111112 | [111112-welcome-to-princeland.json](./111112-welcome-to-princeland.json) |
 | Welcome to Pussy Paradise | 58807 | [58807-welcome-to-pussy-paradise.json](./58807-welcome-to-pussy-paradise.json) |
 | Welcome to QiQu Club | 400226 | [400226-welcome-to-qiqu-club.json](./400226-welcome-to-qiqu-club.json) |
+| Welcome to Quiet Haven | 122728 | [122728-welcome-to-quiet-haven.json](./122728-welcome-to-quiet-haven.json) |
 | Welcome to Scott's Story in the World of Our Church and Halloween: Visual Novel | 225588 | [225588-welcome-to-scotts-story-in-the-world-of-our-church-and-halloween-visual-novel.json](./225588-welcome-to-scotts-story-in-the-world-of-our-church-and-halloween-visual-novel.json) |
 | Welcome to Sushi Tree | 316612 | [316612-welcome-to-sushi-tree.json](./316612-welcome-to-sushi-tree.json) |
 | Welcome to the Adamant Maintenance Monitoring Terminal | 186599 | [186599-welcome-to-the-adamant-maintenance-monitoring-terminal.json](./186599-welcome-to-the-adamant-maintenance-monitoring-terminal.json) |
@@ -5893,6 +5895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Lanes | 153749 | [153749-word-lanes.json](./153749-word-lanes.json) |
 | Word Link | 97131 | [97131-word-link.json](./97131-word-link.json) |
 | Word Logic by Powgi | 85495 | [85495-word-logic-by-powgi.json](./85495-word-logic-by-powgi.json) |
+| Word Maker | 122627 | [122627-word-maker.json](./122627-word-maker.json) |
 | Word Maker | 377140 | [377140-word-maker.json](./377140-word-maker.json) |
 | Word Maze 2 by Powgi | 140418 | [140418-word-maze-2-by-powgi.json](./140418-word-maze-2-by-powgi.json) |
 | Word Mesh | 120072 | [120072-word-mesh.json](./120072-word-mesh.json) |
