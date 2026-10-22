@@ -1585,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Tour de France | 172668 | [172668-le-tour-de-france.json](./172668-le-tour-de-france.json) |
 | Le Tour de France: Centenary Edition | 43449 | [43449-le-tour-de-france-centenary-edition.json](./43449-le-tour-de-france-centenary-edition.json) |
 | Le Trésor d'ali Gator | 336174 | [336174-le-tresor-dali-gator.json](./336174-le-tresor-dali-gator.json) |
+| Le Vilain Petit Canard | 139064 | [139064-le-vilain-petit-canard.json](./139064-le-vilain-petit-canard.json) |
 | Le Voyage de Toki | 142809 | [142809-le-voyage-de-toki.json](./142809-le-voyage-de-toki.json) |
 | Le Zoo | 346065 | [346065-le-zoo.json](./346065-le-zoo.json) |
 | Lea | 269228 | [269228-lea.json](./269228-lea.json) |
@@ -4835,6 +4836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Wheel | 80829 | [80829-little-wheel.json](./80829-little-wheel.json) |
 | Little White Man | 381959 | [381959-little-white-man.json](./381959-little-white-man.json) |
 | Little White Man vs. X | 252221 | [252221-little-white-man-vs-x.json](./252221-little-white-man-vs-x.json) |
+| Little Willy | 139047 | [139047-little-willy.json](./139047-little-willy.json) |
 | Little Wing | 264234 | [264234-little-wing.json](./264234-little-wing.json) |
 | Little Wing | 79591 | [79591-little-wing.json](./79591-little-wing.json) |
 | Little Wings Deliveries | 333658 | [333658-little-wings-deliveries.json](./333658-little-wings-deliveries.json) |
