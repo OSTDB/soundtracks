@@ -4493,6 +4493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Fantastics | 58228 | [58228-the-amazing-fantastics.json](./58228-the-amazing-fantastics.json) |
 | The Amazing Frog? | 63333 | [63333-the-amazing-frog.json](./63333-the-amazing-frog.json) |
 | The Amazing Meatbot | 22090 | [22090-the-amazing-meatbot.json](./22090-the-amazing-meatbot.json) |
+| The Amazing Odyssey of Growing Up | 134267 | [134267-the-amazing-odyssey-of-growing-up.json](./134267-the-amazing-odyssey-of-growing-up.json) |
 | The Amazing Shinsengumi: Heroes in Love | 32318 | [32318-the-amazing-shinsengumi-heroes-in-love.json](./32318-the-amazing-shinsengumi-heroes-in-love.json) |
 | The Amazing Shrinking Giraffe | 260775 | [260775-the-amazing-shrinking-giraffe.json](./260775-the-amazing-shrinking-giraffe.json) |
 | The Amazing Shrinking Man | 123537 | [123537-the-amazing-shrinking-man.json](./123537-the-amazing-shrinking-man.json) |
@@ -4535,6 +4536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Analyst | 211289 | [211289-the-analyst.json](./211289-the-analyst.json) |
 | The Ancestral Trail | 204911 | [204911-the-ancestral-trail.json](./204911-the-ancestral-trail.json) |
 | The Anchorite | 325079 | [325079-the-anchorite.json](./325079-the-anchorite.json) |
+| The Ancient Art of Staying Alive | 134268 | [134268-the-ancient-art-of-staying-alive.json](./134268-the-ancient-art-of-staying-alive.json) |
 | The Ancient Art of War | 14600 | [14600-the-ancient-art-of-war.json](./14600-the-ancient-art-of-war.json) |
 | The Ancient Key | 179562 | [179562-the-ancient-key.json](./179562-the-ancient-key.json) |
 | The Ancient Land of Ys | 2411 | [2411-the-ancient-land-of-ys.json](./2411-the-ancient-land-of-ys.json) |
@@ -5244,6 +5246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Yorle: Save the Village | 169964 | [169964-the-book-of-yorle-save-the-village.json](./169964-the-book-of-yorle-save-the-village.json) |
 | The Bookman | 385973 | [385973-the-bookman.json](./385973-the-bookman.json) |
 | The Books Tale: A Hop Adventure | 249844 | [249844-the-books-tale-a-hop-adventure.json](./249844-the-books-tale-a-hop-adventure.json) |
+| The Bookshelf Limbo | 134269 | [134269-the-bookshelf-limbo.json](./134269-the-bookshelf-limbo.json) |
 | The Bookwalker: Thief of Tales | 172454 | [172454-the-bookwalker-thief-of-tales.json](./172454-the-bookwalker-thief-of-tales.json) |
 | The Boomies Show | 405633 | [405633-the-boomies-show.json](./405633-the-boomies-show.json) |
 | The Boondock Saints Video Game | 95391 | [95391-the-boondock-saints-video-game.json](./95391-the-boondock-saints-video-game.json) |
@@ -8391,9 +8394,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of the Dead 2 & 3 Return | 4918 | [4918-the-house-of-the-dead-2-and-3-return.json](./4918-the-house-of-the-dead-2-and-3-return.json) |
 | The House of the Dead 2: Remake | 327808 | [327808-the-house-of-the-dead-2-remake.json](./327808-the-house-of-the-dead-2-remake.json) |
 | The House of the Dead 4 | 21721 | [21721-the-house-of-the-dead-4.json](./21721-the-house-of-the-dead-4.json) |
+| The House of the Dead 4: Special | 134319 | [134319-the-house-of-the-dead-4-special.json](./134319-the-house-of-the-dead-4-special.json) |
 | The House of the Dead III | 5863 | [5863-the-house-of-the-dead-iii.json](./5863-the-house-of-the-dead-iii.json) |
 | The House of the Dead: Nightmare | 125149 | [125149-the-house-of-the-dead-nightmare.json](./125149-the-house-of-the-dead-nightmare.json) |
 | The House of the Dead: Overkill - Extended Cut | 44614 | [44614-the-house-of-the-dead-overkill-extended-cut.json](./44614-the-house-of-the-dead-overkill-extended-cut.json) |
+| The House of the Dead: Overkill - The Lost Reels | 134305 | [134305-the-house-of-the-dead-overkill-the-lost-reels.json](./134305-the-house-of-the-dead-overkill-the-lost-reels.json) |
 | The House of the Dead: Remake | 145787 | [145787-the-house-of-the-dead-remake.json](./145787-the-house-of-the-dead-remake.json) |
 | The House of the Dead: Remake - Limidead Edition | 194406 | [194406-the-house-of-the-dead-remake-limidead-edition.json](./194406-the-house-of-the-dead-remake-limidead-edition.json) |
 | The House of the Dead: Scarlet Dawn | 82081 | [82081-the-house-of-the-dead-scarlet-dawn.json](./82081-the-house-of-the-dead-scarlet-dawn.json) |
@@ -11580,6 +11585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Photographer | 338302 | [338302-the-photographer.json](./338302-the-photographer.json) |
 | The Physiology of the Eye | 29705 | [29705-the-physiology-of-the-eye.json](./29705-the-physiology-of-the-eye.json) |
 | The Piano | 20180 | [20180-the-piano.json](./20180-the-piano.json) |
+| The Piano Past | 134270 | [134270-the-piano-past.json](./134270-the-piano-past.json) |
 | The Piano That Staying Time | 344421 | [344421-the-piano-that-staying-time.json](./344421-the-piano-that-staying-time.json) |
 | The Picture in the House | 142789 | [142789-the-picture-in-the-house.json](./142789-the-picture-in-the-house.json) |
 | The Picture of Cafe au Lait | 248442 | [248442-the-picture-of-cafe-au-lait.json](./248442-the-picture-of-cafe-au-lait.json) |
@@ -18113,6 +18119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeNot | 365265 | [365265-timenot.json](./365265-timenot.json) |
 | Timension | 75059 | [75059-timension.json](./75059-timension.json) |
 | Timeout | 305953 | [305953-timeout.json](./305953-timeout.json) |
+| TimeOut | 134271 | [134271-timeout.json](./134271-timeout.json) |
 | TimeOut | 385582 | [385582-timeout.json](./385582-timeout.json) |
 | Timeout Bistro | 279534 | [279534-timeout-bistro.json](./279534-timeout-bistro.json) |
 | Timepiece Ensemble | 216242 | [216242-timepiece-ensemble.json](./216242-timepiece-ensemble.json) |
@@ -21011,6 +21018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towards the Pantheon | 25316 | [25316-towards-the-pantheon.json](./25316-towards-the-pantheon.json) |
 | Towards the Sky | 144749 | [144749-towards-the-sky.json](./144749-towards-the-sky.json) |
 | Towards the Stars | 150689 | [150689-towards-the-stars.json](./150689-towards-the-stars.json) |
+| Towayami | 134273 | [134273-towayami.json](./134273-towayami.json) |
 | Towel Day | 322831 | [322831-towel-day.json](./322831-towel-day.json) |
 | Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
 | Towelfight 2: The Monocle of Destiny | 23402 | [23402-towelfight-2-the-monocle-of-destiny.json](./23402-towelfight-2-the-monocle-of-destiny.json) |
@@ -21075,6 +21083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Miners | 55790 | [55790-tower-miners.json](./55790-tower-miners.json) |
 | Tower Monster Rush | 309504 | [309504-tower-monster-rush.json](./309504-tower-monster-rush.json) |
 | Tower Networking Inc. | 310040 | [310040-tower-networking-inc.json](./310040-tower-networking-inc.json) |
+| Tower Noire | 134274 | [134274-tower-noire.json](./134274-tower-noire.json) |
 | Tower Numbers | 224667 | [224667-tower-numbers.json](./224667-tower-numbers.json) |
 | Tower O-ven | 338261 | [338261-tower-o-ven.json](./338261-tower-o-ven.json) |
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
