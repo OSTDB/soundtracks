@@ -3186,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Wings: Coloring Planes | 192405 | [192405-red-wings-coloring-planes.json](./192405-red-wings-coloring-planes.json) |
 | Red Wings: Coloring Planes - American Aces | 199875 | [199875-red-wings-coloring-planes-american-aces.json](./199875-red-wings-coloring-planes-american-aces.json) |
 | Red Wings: Coloring Planes Bundle | 199847 | [199847-red-wings-coloring-planes-bundle.json](./199847-red-wings-coloring-planes-bundle.json) |
+| Red Wizard Island | 112663 | [112663-red-wizard-island.json](./112663-red-wizard-island.json) |
 | Red Wolf | 378200 | [378200-red-wolf.json](./378200-red-wolf.json) |
 | Red World Fan Fork | 398440 | [398440-red-world-fan-fork.json](./398440-red-world-fan-fork.json) |
 | Red Wrecker | 71204 | [71204-red-wrecker.json](./71204-red-wrecker.json) |
