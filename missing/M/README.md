@@ -9944,6 +9944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Racing World | 152461 | [152461-mini-racing-world.json](./152461-mini-racing-world.json) |
 | Mini Racing: Mini Cars Curling | 233755 | [233755-mini-racing-mini-cars-curling.json](./233755-mini-racing-mini-cars-curling.json) |
 | Mini Raid Leader | 398999 | [398999-mini-raid-leader.json](./398999-mini-raid-leader.json) |
+| Mini Railway | 132455 | [132455-mini-railway.json](./132455-mini-railway.json) |
 | Mini Ranger | 255127 | [255127-mini-ranger.json](./255127-mini-ranger.json) |
 | Mini Reaper | 307122 | [307122-mini-reaper.json](./307122-mini-reaper.json) |
 | Mini Rocket | 412301 | [412301-mini-rocket.json](./412301-mini-rocket.json) |
@@ -11340,6 +11341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Warships: Sea Battle Online | 174797 | [174797-modern-warships-sea-battle-online.json](./174797-modern-warships-sea-battle-online.json) |
 | Modern Zombie | 24943 | [24943-modern-zombie.json](./24943-modern-zombie.json) |
 | ModernArcheryVR | 100832 | [100832-modernarcheryvr.json](./100832-modernarcheryvr.json) |
+| Modest Hero | 132459 | [132459-modest-hero.json](./132459-modest-hero.json) |
 | Modest Kind | 68613 | [68613-modest-kind.json](./68613-modest-kind.json) |
 | Modi i Nanna: Sprytne Smyki | 176138 | [176138-modi-i-nanna-sprytne-smyki.json](./176138-modi-i-nanna-sprytne-smyki.json) |
 | Modice | 421198 | [421198-modice.json](./421198-modice.json) |
