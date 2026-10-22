@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H2O: Footprints in the Sand | 72719 | [72719-h2o-footprints-in-the-sand.json](./72719-h2o-footprints-in-the-sand.json) |
 | H2O: High speed Boat Racing | 262403 | [262403-h2o-high-speed-boat-racing.json](./262403-h2o-high-speed-boat-racing.json) |
 | H2Overdrive | 92411 | [92411-h2overdrive.json](./92411-h2overdrive.json) |
+| H3H3: Ball Rider | 112033 | [112033-h3h3-ball-rider.json](./112033-h3h3-ball-rider.json) |
 | H7N9 | 305752 | [305752-h7n9.json](./305752-h7n9.json) |
 | H8machine | 210868 | [210868-h8machine.json](./210868-h8machine.json) |
 | Ha_Bits | 170537 | [170537-ha-bits.json](./170537-ha-bits.json) |
@@ -5996,6 +5997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highscore Processing Unit | 99645 | [99645-highscore-processing-unit.json](./99645-highscore-processing-unit.json) |
 | HighSpell | 341850 | [341850-highspell.json](./341850-highspell.json) |
 | Hightide | 215347 | [215347-hightide.json](./215347-hightide.json) |
+| HighVelocity Paintball | 112051 | [112051-highvelocity-paintball.json](./112051-highvelocity-paintball.json) |
 | Highway | 247016 | [247016-highway.json](./247016-highway.json) |
 | Highway | 267410 | [267410-highway.json](./267410-highway.json) |
 | Highway | 367840 | [367840-highway.json](./367840-highway.json) |
