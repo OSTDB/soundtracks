@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Magic Skillz Tournaments | 232487 | [232487-fairy-magic-skillz-tournaments.json](./232487-fairy-magic-skillz-tournaments.json) |
 | Fairy Massage | 347664 | [347664-fairy-massage.json](./347664-fairy-massage.json) |
 | Fairy Nook | 364627 | [364627-fairy-nook.json](./364627-fairy-nook.json) |
+| Fairy of Sit-ups | 104418 | [104418-fairy-of-sit-ups.json](./104418-fairy-of-sit-ups.json) |
 | Fairy of the treasures | 81823 | [81823-fairy-of-the-treasures.json](./81823-fairy-of-the-treasures.json) |
 | Fairy Orb: Magical Girl Aya & Yui | 82697 | [82697-fairy-orb-magical-girl-aya-and-yui.json](./82697-fairy-orb-magical-girl-aya-and-yui.json) |
 | Fairy Penguin Parade | 134916 | [134916-fairy-penguin-parade.json](./134916-fairy-penguin-parade.json) |
@@ -3625,6 +3626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Online | 252161 | [252161-fighter-online.json](./252161-fighter-online.json) |
 | Fighter Pilot | 12996 | [12996-fighter-pilot.json](./12996-fighter-pilot.json) |
 | Fighter Pilot: HeavyFire | 175699 | [175699-fighter-pilot-heavyfire.json](./175699-fighter-pilot-heavyfire.json) |
+| Fighter Saiyan: Super | 104398 | [104398-fighter-saiyan-super.json](./104398-fighter-saiyan-super.json) |
 | Fighter Wing | 73784 | [73784-fighter-wing.json](./73784-fighter-wing.json) |
 | Fighter Within | 4787 | [4787-fighter-within.json](./4787-fighter-within.json) |
 | Fighter X Fighter | 211947 | [211947-fighter-x-fighter.json](./211947-fighter-x-fighter.json) |
@@ -7580,6 +7582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Of Terenu | 369875 | [369875-forest-of-terenu.json](./369875-forest-of-terenu.json) |
 | Forest of the Abyss 2 | 98458 | [98458-forest-of-the-abyss-2.json](./98458-forest-of-the-abyss-2.json) |
 | Forest of the Dead | 133060 | [133060-forest-of-the-dead.json](./133060-forest-of-the-dead.json) |
+| Forest of the Forgotten Children | 104420 | [104420-forest-of-the-forgotten-children.json](./104420-forest-of-the-forgotten-children.json) |
 | Forest Offroad Driving Simulator | 270568 | [270568-forest-offroad-driving-simulator.json](./270568-forest-offroad-driving-simulator.json) |
 | Forest Plague | 109712 | [109712-forest-plague.json](./109712-forest-plague.json) |
 | Forest Pop | 218724 | [218724-forest-pop.json](./218724-forest-pop.json) |
