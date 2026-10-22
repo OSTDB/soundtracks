@@ -1369,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenpin Sagyou | 407881 | [407881-kenpin-sagyou.json](./407881-kenpin-sagyou.json) |
 | Kenran Butou Sai: The Mars Daybreak | 59077 | [59077-kenran-butou-sai-the-mars-daybreak.json](./59077-kenran-butou-sai-the-mars-daybreak.json) |
 | Kens Labyrinth | 46651 | [46651-kens-labyrinth.json](./46651-kens-labyrinth.json) |
+| Kensei | 154888 | [154888-kensei.json](./154888-kensei.json) |
 | Kensei: Sacred Fist | 36746 | [36746-kensei-sacred-fist.json](./36746-kensei-sacred-fist.json) |
 | Kenseiden | 65579 | [65579-kenseiden.json](./65579-kenseiden.json) |
 | Kenseiki Alpha Ride | 336507 | [336507-kenseiki-alpha-ride.json](./336507-kenseiki-alpha-ride.json) |
