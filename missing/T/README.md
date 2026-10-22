@@ -13365,6 +13365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Strongholds of Silberland | 183446 | [183446-the-strongholds-of-silberland.json](./183446-the-strongholds-of-silberland.json) |
 | The Struggle | 62022 | [62022-the-struggle.json](./62022-the-struggle.json) |
 | The Struggle For Russia | 66441 | [66441-the-struggle-for-russia.json](./66441-the-struggle-for-russia.json) |
+| The Struggle of Combat | 145338 | [145338-the-struggle-of-combat.json](./145338-the-struggle-of-combat.json) |
 | The Struggle of Trust | 177339 | [177339-the-struggle-of-trust.json](./177339-the-struggle-of-trust.json) |
 | The Struggle to Survive the Dragon Siege | 355867 | [355867-the-struggle-to-survive-the-dragon-siege.json](./355867-the-struggle-to-survive-the-dragon-siege.json) |
 | The Struggles of Stefan | 148975 | [148975-the-struggles-of-stefan.json](./148975-the-struggles-of-stefan.json) |
@@ -15653,6 +15654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas & Friends: Railway Adventures | 355515 | [355515-thomas-and-friends-railway-adventures.json](./355515-thomas-and-friends-railway-adventures.json) |
 | Thomas & Friends: Right on Time | 220126 | [220126-thomas-and-friends-right-on-time.json](./220126-thomas-and-friends-right-on-time.json) |
 | Thomas & Friends: Special Delivery | 206224 | [206224-thomas-and-friends-special-delivery.json](./206224-thomas-and-friends-special-delivery.json) |
+| Thomas & Friends: Steaming Around Sodor | 145337 | [145337-thomas-and-friends-steaming-around-sodor.json](./145337-thomas-and-friends-steaming-around-sodor.json) |
 | Thomas & Friends: The Great Festival Adventure | 70654 | [70654-thomas-and-friends-the-great-festival-adventure.json](./70654-thomas-and-friends-the-great-festival-adventure.json) |
 | Thomas & Friends: Trouble on the Tracks | 50425 | [50425-thomas-and-friends-trouble-on-the-tracks.json](./50425-thomas-and-friends-trouble-on-the-tracks.json) |
 | Thomas & Friends: Up, Up and Away! Diesel's Special Delivery | 242029 | [242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json](./242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json) |
@@ -18445,6 +18447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Toy Tanks | 159849 | [159849-tiny-toy-tanks.json](./159849-tiny-toy-tanks.json) |
 | Tiny Toyfare | 55513 | [55513-tiny-toyfare.json](./55513-tiny-toyfare.json) |
 | Tiny TrackZ | 175208 | [175208-tiny-trackz.json](./175208-tiny-trackz.json) |
+| Tiny Traffic | 145322 | [145322-tiny-traffic.json](./145322-tiny-traffic.json) |
 | Tiny Train Tycoon | 381355 | [381355-tiny-train-tycoon.json](./381355-tiny-train-tycoon.json) |
 | Tiny Transit | 389957 | [389957-tiny-transit.json](./389957-tiny-transit.json) |
 | Tiny Treasure Hunt | 283219 | [283219-tiny-treasure-hunt.json](./283219-tiny-treasure-hunt.json) |
@@ -18601,6 +18604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanium Hound | 217386 | [217386-titanium-hound.json](./217386-titanium-hound.json) |
 | Titanium Nephilim | 341367 | [341367-titanium-nephilim.json](./341367-titanium-nephilim.json) |
 | Titankin: Prologue | 165111 | [165111-titankin-prologue.json](./165111-titankin-prologue.json) |
+| titanRose | 145318 | [145318-titanrose.json](./145318-titanrose.json) |
 | Titans Black Ops | 165596 | [165596-titans-black-ops.json](./165596-titans-black-ops.json) |
 | Titans Clinic | 329062 | [329062-titans-clinic.json](./329062-titans-clinic.json) |
 | Titans Clinic VR | 252105 | [252105-titans-clinic-vr.json](./252105-titans-clinic-vr.json) |
@@ -20131,6 +20135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torn Familjen | 55687 | [55687-torn-familjen.json](./55687-torn-familjen.json) |
 | Torn Sails | 27909 | [27909-torn-sails.json](./27909-torn-sails.json) |
 | Torn Tales | 34773 | [34773-torn-tales.json](./34773-torn-tales.json) |
+| Tornado | 145315 | [145315-tornado.json](./145315-tornado.json) |
 | Tornado | 206085 | [206085-tornado.json](./206085-tornado.json) |
 | Tornado | 21333 | [21333-tornado.json](./21333-tornado.json) |
 | Tornado | 221895 | [221895-tornado.json](./221895-tornado.json) |
