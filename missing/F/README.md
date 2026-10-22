@@ -9467,6 +9467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
 | Frog Story: The Power Tongue | 289451 | [289451-frog-story-the-power-tongue.json](./289451-frog-story-the-power-tongue.json) |
 | Frog Street A-Z | 100818 | [100818-frog-street-a-z.json](./100818-frog-street-a-z.json) |
+| Frog Struggles | 129432 | [129432-frog-struggles.json](./129432-frog-struggles.json) |
 | Frog Telephone | 407163 | [407163-frog-telephone.json](./407163-frog-telephone.json) |
 | Frog Up! | 390816 | [390816-frog-up.json](./390816-frog-up.json) |
 | Frog Up! | 400664 | [400664-frog-up.json](./400664-frog-up.json) |
