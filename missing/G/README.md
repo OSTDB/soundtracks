@@ -5106,6 +5106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Club Nostalgia | 106027 | [106027-golf-club-nostalgia.json](./106027-golf-club-nostalgia.json) |
 | Golf Club Wasteland / Aspire Ina's Tale Bundle | 200463 | [200463-golf-club-wasteland-aspire-inas-tale-bundle.json](./200463-golf-club-wasteland-aspire-inas-tale-bundle.json) |
 | Golf Club: Birdie Rush | 48482 | [48482-golf-club-birdie-rush.json](./48482-golf-club-birdie-rush.json) |
+| Golf Construction Set | 119404 | [119404-golf-construction-set.json](./119404-golf-construction-set.json) |
 | Golf Daisuki! | 228552 | [228552-golf-daisuki.json](./228552-golf-daisuki.json) |
 | Golf Daisuki! O.B. Club | 134451 | [134451-golf-daisuki-o-b-club.json](./134451-golf-daisuki-o-b-club.json) |
 | Golf Dreams | 193708 | [193708-golf-dreams.json](./193708-golf-dreams.json) |
@@ -6767,6 +6768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greatlandia Election Simulator | 413195 | [413195-greatlandia-election-simulator.json](./413195-greatlandia-election-simulator.json) |
 | Greats of the Gridiron | 153514 | [153514-greats-of-the-gridiron.json](./153514-greats-of-the-gridiron.json) |
 | Greatsword Point! | 343748 | [343748-greatsword-point.json](./343748-greatsword-point.json) |
+| Grebit | 119405 | [119405-grebit.json](./119405-grebit.json) |
 | Gred | 126943 | [126943-gred.json](./126943-gred.json) |
 | Greda Inferno | 397591 | [397591-greda-inferno.json](./397591-greda-inferno.json) |
 | Grederys | 201226 | [201226-grederys.json](./201226-grederys.json) |
