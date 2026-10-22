@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthling Priorities | 229154 | [229154-earthling-priorities.json](./229154-earthling-priorities.json) |
 | Earthling's Undertaking | 371631 | [371631-earthlings-undertaking.json](./371631-earthlings-undertaking.json) |
 | Earthlock | 80895 | [80895-earthlock.json](./80895-earthlock.json) |
+| Earthlock 2 | 136090 | [136090-earthlock-2.json](./136090-earthlock-2.json) |
 | Earthlock: Festival of Magic | 7202 | [7202-earthlock-festival-of-magic.json](./7202-earthlock-festival-of-magic.json) |
 | EarthNight | 27742 | [27742-earthnight.json](./27742-earthnight.json) |
 | Earthpedia | 92393 | [92393-earthpedia.json](./92393-earthpedia.json) |
@@ -3239,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter the Drunkgeon | 149971 | [149971-enter-the-drunkgeon.json](./149971-enter-the-drunkgeon.json) |
 | Enter the Flesh Again | 105110 | [105110-enter-the-flesh-again.json](./105110-enter-the-flesh-again.json) |
 | Enter the Gungeon: A Farewell to Arms | 118942 | [118942-enter-the-gungeon-a-farewell-to-arms.json](./118942-enter-the-gungeon-a-farewell-to-arms.json) |
+| Enter the Gungeon: Deluxe Edition | 136309 | [136309-enter-the-gungeon-deluxe-edition.json](./136309-enter-the-gungeon-deluxe-edition.json) |
 | Enter The Lost Chamber | 294005 | [294005-enter-the-lost-chamber.json](./294005-enter-the-lost-chamber.json) |
 | Enter the Matrix | 1003 | [1003-enter-the-matrix.json](./1003-enter-the-matrix.json) |
 | Enter the Nemesis: Blood Portal | 346574 | [346574-enter-the-nemesis-blood-portal.json](./346574-enter-the-nemesis-blood-portal.json) |
