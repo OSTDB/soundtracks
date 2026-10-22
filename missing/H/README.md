@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hades | 80529 | [80529-hades.json](./80529-hades.json) |
 | Hades 2 | 134619 | [134619-hades-2.json](./134619-hades-2.json) |
 | Hades Nebula | 13867 | [13867-hades-nebula.json](./13867-hades-nebula.json) |
+| Hades: Limited Edition | 146154 | [146154-hades-limited-edition.json](./146154-hades-limited-edition.json) |
 | Hades' Star | 56959 | [56959-hades-star.json](./56959-hades-star.json) |
 | Hades' Star: Dark Nebula | 208167 | [208167-hades-star-dark-nebula.json](./208167-hades-star-dark-nebula.json) |
 | Hadou no Hyouteki | 77562 | [77562-hadou-no-hyouteki.json](./77562-hadou-no-hyouteki.json) |
@@ -6217,6 +6218,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hinekuremono no Gakuen Seishun Monogatari: Ore to Kanojo no Reversible | 194557 | [194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json](./194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json) |
 | Hinge VR | 141170 | [141170-hinge-vr.json](./141170-hinge-vr.json) |
 | Hinge VR | 161722 | [161722-hinge-vr.json](./161722-hinge-vr.json) |
+| Hinokakera Chaotic Eclipse | 146153 | [146153-hinokakera-chaotic-eclipse.json](./146153-hinokakera-chaotic-eclipse.json) |
+| Hinokakera fragment:Eclipse | 146148 | [146148-hinokakera-fragment-eclipse.json](./146148-hinokakera-fragment-eclipse.json) |
 | Hinokakera the Fragments of Innocent Sinner | 64642 | [64642-hinokakera-the-fragments-of-innocent-sinner.json](./64642-hinokakera-the-fragments-of-innocent-sinner.json) |
 | Hinokakera the Fragments of Innocent Sinner Reinforced Edition | 146047 | [146047-hinokakera-the-fragments-of-innocent-sinner-reinforced-edition.json](./146047-hinokakera-the-fragments-of-innocent-sinner-reinforced-edition.json) |
 | Hinoken | 222794 | [222794-hinoken.json](./222794-hinoken.json) |
