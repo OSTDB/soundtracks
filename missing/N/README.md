@@ -1862,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Abyss: Chrono Trap | 193164 | [193164-neon-abyss-chrono-trap.json](./193164-neon-abyss-chrono-trap.json) |
 | Neon Abyss: Deluxe Edition | 169182 | [169182-neon-abyss-deluxe-edition.json](./169182-neon-abyss-deluxe-edition.json) |
 | Neon Abyss: The Lovable Rogues Pack | 237993 | [237993-neon-abyss-the-lovable-rogues-pack.json](./237993-neon-abyss-the-lovable-rogues-pack.json) |
+| Neon Aileron | 110736 | [110736-neon-aileron.json](./110736-neon-aileron.json) |
 | Neon Apex: Beyond the Limit | 332863 | [332863-neon-apex-beyond-the-limit.json](./332863-neon-apex-beyond-the-limit.json) |
 | Neon Arena | 171309 | [171309-neon-arena.json](./171309-neon-arena.json) |
 | Neon Arena | 30516 | [30516-neon-arena.json](./30516-neon-arena.json) |
@@ -4783,6 +4784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobody's Home | 179732 | [179732-nobodys-home.json](./179732-nobodys-home.json) |
 | Nobody's Left | 250949 | [250949-nobodys-left.json](./250949-nobodys-left.json) |
 | Nobody's Quest | 157953 | [157953-nobodys-quest.json](./157953-nobodys-quest.json) |
+| Nobophobia | 110673 | [110673-nobophobia.json](./110673-nobophobia.json) |
 | Noboranka | 37330 | [37330-noboranka.json](./37330-noboranka.json) |
 | Nobu Jump | 383934 | [383934-nobu-jump.json](./383934-nobu-jump.json) |
 | Nobunaga Ibun | 49746 | [49746-nobunaga-ibun.json](./49746-nobunaga-ibun.json) |
