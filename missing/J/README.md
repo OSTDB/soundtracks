@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J'ai Trouvé! Le Manoir Hanté | 140600 | [140600-jai-trouve-le-manoir-hante.json](./140600-jai-trouve-le-manoir-hante.json) |
 | J'apprends L'Anglais CP-CM1 | 147347 | [147347-japprends-langlais-cp-cm1.json](./147347-japprends-langlais-cp-cm1.json) |
 | J's Racin' | 381863 | [381863-js-racin.json](./381863-js-racin.json) |
+| J15 Fighter Jet VR | 103807 | [103807-j15-fighter-jet-vr.json](./103807-j15-fighter-jet-vr.json) |
 | J3ss1c4 | 265666 | [265666-j3ss1c4.json](./265666-j3ss1c4.json) |
 | J8 Hero | 370761 | [370761-j8-hero.json](./370761-j8-hero.json) |
 | Ja-in | 274206 | [274206-ja-in.json](./274206-ja-in.json) |
