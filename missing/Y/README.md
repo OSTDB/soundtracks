@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-kai Watch 4++ | 127255 | [127255-yo-kai-watch-4.json](./127255-yo-kai-watch-4.json) |
 | Yo-kai Watch Blasters: Red Cat Corps | 11659 | [11659-yo-kai-watch-blasters-red-cat-corps.json](./11659-yo-kai-watch-blasters-red-cat-corps.json) |
 | Yo-kai Watch Busters 2: Hihou Densetsu Banbaraya Magnum | 136935 | [136935-yo-kai-watch-busters-2-hihou-densetsu-banbaraya-magnum.json](./136935-yo-kai-watch-busters-2-hihou-densetsu-banbaraya-magnum.json) |
+| Yo-kai Watch Busters: Shiroinutai | 136913 | [136913-yo-kai-watch-busters-shiroinutai.json](./136913-yo-kai-watch-busters-shiroinutai.json) |
 | Yo-kai Watch Dance: Just Dance Special Edition | 59946 | [59946-yo-kai-watch-dance-just-dance-special-edition.json](./59946-yo-kai-watch-dance-just-dance-special-edition.json) |
 | Yo-kai Watch Land | 137418 | [137418-yo-kai-watch-land.json](./137418-yo-kai-watch-land.json) |
 | Yo-Kai Watch Wibble Wobble | 79191 | [79191-yo-kai-watch-wibble-wobble.json](./79191-yo-kai-watch-wibble-wobble.json) |
@@ -1243,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys IV: Mask of the Sun | 15451 | [15451-ys-iv-mask-of-the-sun.json](./15451-ys-iv-mask-of-the-sun.json) |
 | Ys IV: The Dawn of Ys | 15452 | [15452-ys-iv-the-dawn-of-ys.json](./15452-ys-iv-the-dawn-of-ys.json) |
 | Ys IX: Monstrum Nox | 113431 | [113431-ys-ix-monstrum-nox.json](./113431-ys-ix-monstrum-nox.json) |
+| Ys IX: Monstrum Nox - Collector's Box | 136695 | [136695-ys-ix-monstrum-nox-collectors-box.json](./136695-ys-ix-monstrum-nox-collectors-box.json) |
 | Ys IX: Monstrum Nox - Crimson King's "Monstrum Troupe" Costume | 411011 | [411011-ys-ix-monstrum-nox-crimson-kings-monstrum-troupe-costume.json](./411011-ys-ix-monstrum-nox-crimson-kings-monstrum-troupe-costume.json) |
 | Ys IX: Monstrum Nox - Deluxe Edition | 222952 | [222952-ys-ix-monstrum-nox-deluxe-edition.json](./222952-ys-ix-monstrum-nox-deluxe-edition.json) |
 | Ys IX: Monstrum Nox - Doll's "Monstrum Troupe" Costume | 411012 | [411012-ys-ix-monstrum-nox-dolls-monstrum-troupe-costume.json](./411012-ys-ix-monstrum-nox-dolls-monstrum-troupe-costume.json) |
