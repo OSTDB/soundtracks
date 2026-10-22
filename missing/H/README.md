@@ -3679,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henri | 222521 | [222521-henri.json](./222521-henri.json) |
 | Henry | 80642 | [80642-henry.json](./80642-henry.json) |
 | Henry Danger: Day of Danger | 242381 | [242381-henry-danger-day-of-danger.json](./242381-henry-danger-day-of-danger.json) |
+| Henry Mosse and the Wormhole Conspiracy | 125689 | [125689-henry-mosse-and-the-wormhole-conspiracy.json](./125689-henry-mosse-and-the-wormhole-conspiracy.json) |
 | Henry Stickmin: Defending the Mall | 378979 | [378979-henry-stickmin-defending-the-mall.json](./378979-henry-stickmin-defending-the-mall.json) |
 | Henry Stickmin: Escaping the Prison | 140712 | [140712-henry-stickmin-escaping-the-prison.json](./140712-henry-stickmin-escaping-the-prison.json) |
 | Henry Stickmin: Fleeing the Complex | 145664 | [145664-henry-stickmin-fleeing-the-complex.json](./145664-henry-stickmin-fleeing-the-complex.json) |
@@ -7539,6 +7540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooked! Again: Real Motion Fishing | 50627 | [50627-hooked-again-real-motion-fishing.json](./50627-hooked-again-real-motion-fishing.json) |
 | Hookeye | 417465 | [417465-hookeye.json](./417465-hookeye.json) |
 | Hooking Season | 211192 | [211192-hooking-season.json](./211192-hooking-season.json) |
+| Hooks & Shotguns | 125704 | [125704-hooks-and-shotguns.json](./125704-hooks-and-shotguns.json) |
 | Hookscrap | 247357 | [247357-hookscrap.json](./247357-hookscrap.json) |
 | Hookshot Runner | 341615 | [341615-hookshot-runner.json](./341615-hookshot-runner.json) |
 | HookShotVR | 143934 | [143934-hookshotvr.json](./143934-hookshotvr.json) |
@@ -8539,6 +8541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of 1000 Doors: Family Secrets | 36371 | [36371-house-of-1000-doors-family-secrets.json](./36371-house-of-1000-doors-family-secrets.json) |
 | House of 1000 Doors: Family Secrets | 79322 | [79322-house-of-1000-doors-family-secrets.json](./79322-house-of-1000-doors-family-secrets.json) |
 | House of 1000 Doors: Serpent Flame | 119031 | [119031-house-of-1000-doors-serpent-flame.json](./119031-house-of-1000-doors-serpent-flame.json) |
+| House of 1000 Doors: The Palm of Zoroaster | 125688 | [125688-house-of-1000-doors-the-palm-of-zoroaster.json](./125688-house-of-1000-doors-the-palm-of-zoroaster.json) |
 | House Of 1000 Fowl | 399249 | [399249-house-of-1000-fowl.json](./399249-house-of-1000-fowl.json) |
 | House of Alice | 32091 | [32091-house-of-alice.json](./32091-house-of-alice.json) |
 | House of Asterion | 202599 | [202599-house-of-asterion.json](./202599-house-of-asterion.json) |
