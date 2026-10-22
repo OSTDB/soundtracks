@@ -5450,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodnight, Sun | 419900 | [419900-goodnight-sun.json](./419900-goodnight-sun.json) |
 | Goods Puzzle | 406165 | [406165-goods-puzzle.json](./406165-goods-puzzle.json) |
 | Goods Sorting 3 Match | 296746 | [296746-goods-sorting-3-match.json](./296746-goods-sorting-3-match.json) |
+| Goodsol Solitaire 101 | 106896 | [106896-goodsol-solitaire-101.json](./106896-goodsol-solitaire-101.json) |
 | Goodwad | 262439 | [262439-goodwad.json](./262439-goodwad.json) |
 | Goodwill Scrolls | 338012 | [338012-goodwill-scrolls.json](./338012-goodwill-scrolls.json) |
 | Gooey | 368139 | [368139-gooey.json](./368139-gooey.json) |
@@ -7094,6 +7095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Griddle | 373739 | [373739-griddle.json](./373739-griddle.json) |
 | Griddle Speed Puzzle | 114683 | [114683-griddle-speed-puzzle.json](./114683-griddle-speed-puzzle.json) |
 | Griddler | 242208 | [242208-griddler.json](./242208-griddler.json) |
+| Griddlers Legend of the Pirates | 106891 | [106891-griddlers-legend-of-the-pirates.json](./106891-griddlers-legend-of-the-pirates.json) |
 | Griddlers Plus | 227824 | [227824-griddlers-plus.json](./227824-griddlers-plus.json) |
 | Griddlers Victorian Picnic | 94878 | [94878-griddlers-victorian-picnic.json](./94878-griddlers-victorian-picnic.json) |
 | Griddy | 213318 | [213318-griddy.json](./213318-griddy.json) |
