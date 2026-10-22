@@ -6335,6 +6335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Decree | 417325 | [417325-the-decree.json](./417325-the-decree.json) |
 | The Deed | 26467 | [26467-the-deed.json](./26467-the-deed.json) |
 | The Deed II | 122623 | [122623-the-deed-ii.json](./122623-the-deed-ii.json) |
+| The Deed of Deception | 148941 | [148941-the-deed-of-deception.json](./148941-the-deed-of-deception.json) |
 | The Deed: Dynasty | 33073 | [33073-the-deed-dynasty.json](./33073-the-deed-dynasty.json) |
 | The Deep | 169464 | [169464-the-deep.json](./169464-the-deep.json) |
 | The Deep | 274009 | [274009-the-deep.json](./274009-the-deep.json) |
@@ -9953,6 +9954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legends of Maui | 289990 | [289990-the-legends-of-maui.json](./289990-the-legends-of-maui.json) |
 | The Legends of Owlia | 30059 | [30059-the-legends-of-owlia.json](./30059-the-legends-of-owlia.json) |
 | The Legends of Oz: One Hundred Years of Oz | 269668 | [269668-the-legends-of-oz-one-hundred-years-of-oz.json](./269668-the-legends-of-oz-one-hundred-years-of-oz.json) |
+| The Legion of Maelstrom | 148802 | [148802-the-legion-of-maelstrom.json](./148802-the-legion-of-maelstrom.json) |
 | The Legions of Rome | 31353 | [31353-the-legions-of-rome.json](./31353-the-legions-of-rome.json) |
 | The LEGO Games Bundle | 164574 | [164574-the-lego-games-bundle.json](./164574-the-lego-games-bundle.json) |
 | The LEGO Movie 2 Videogame | 112674 | [112674-the-lego-movie-2-videogame.json](./112674-the-lego-movie-2-videogame.json) |
@@ -10430,6 +10432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic Candle | 235346 | [235346-the-magic-candle.json](./235346-the-magic-candle.json) |
 | The Magic Candle III | 70948 | [70948-the-magic-candle-iii.json](./70948-the-magic-candle-iii.json) |
 | The Magic Circle: Gold Edition | 99755 | [99755-the-magic-circle-gold-edition.json](./99755-the-magic-circle-gold-edition.json) |
+| The Magic Elevator | 148810 | [148810-the-magic-elevator.json](./148810-the-magic-elevator.json) |
 | The Magic Flute | 60386 | [60386-the-magic-flute.json](./60386-the-magic-flute.json) |
 | The Magic Garden | 320545 | [320545-the-magic-garden.json](./320545-the-magic-garden.json) |
 | The Magic Land | 182450 | [182450-the-magic-land.json](./182450-the-magic-land.json) |
@@ -21483,6 +21486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracery of Fate VR | 207496 | [207496-tracery-of-fate-vr.json](./207496-tracery-of-fate-vr.json) |
 | TraceS | 176928 | [176928-traces.json](./176928-traces.json) |
 | Traces of Gods | 372097 | [372097-traces-of-gods.json](./372097-traces-of-gods.json) |
+| Traceur's Dreamlab VR | 148820 | [148820-traceurs-dreamlab-vr.json](./148820-traceurs-dreamlab-vr.json) |
 | Tracing | 346209 | [346209-tracing.json](./346209-tracing.json) |
 | Tracing Decay | 211143 | [211143-tracing-decay.json](./211143-tracing-decay.json) |
 | Track & Field | 239296 | [239296-track-and-field.json](./239296-track-and-field.json) |
