@@ -10190,6 +10190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna no Sokoban | 121416 | [121416-minna-no-sokoban.json](./121416-minna-no-sokoban.json) |
 | Minna no Tabou no Nakayoshi Daisakusen | 48628 | [48628-minna-no-tabou-no-nakayoshi-daisakusen.json](./48628-minna-no-tabou-no-nakayoshi-daisakusen.json) |
 | Minna no Tetris | 218532 | [218532-minna-no-tetris.json](./218532-minna-no-tetris.json) |
+| Minna no Tsume Shogi Chuukyuu-hen 1 | 145314 | [145314-minna-no-tsume-shogi-chuukyuu-hen-1.json](./145314-minna-no-tsume-shogi-chuukyuu-hen-1.json) |
 | Minna no Tsumeshougi Nyuomon-hen | 142215 | [142215-minna-no-tsumeshougi-nyuomon-hen.json](./142215-minna-no-tsumeshougi-nyuomon-hen.json) |
 | Minna no! Shougakusei aru aru Sagashi: Kokomo mo Otona mo Tanoshimeru Irasuto Quiz no Tore Game | 222232 | [222232-minna-no-shougakusei-aru-aru-sagashi-kokomo-mo-otona-mo-tanoshimeru-irasuto-quiz-no-tore-game.json](./222232-minna-no-shougakusei-aru-aru-sagashi-kokomo-mo-otona-mo-tanoshimeru-irasuto-quiz-no-tore-game.json) |
 | Minna to Biohazard Clan Master | 251369 | [251369-minna-to-biohazard-clan-master.json](./251369-minna-to-biohazard-clan-master.json) |
