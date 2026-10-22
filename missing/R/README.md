@@ -3805,6 +3805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remington Super Slam Hunting: North America | 51137 | [51137-remington-super-slam-hunting-north-america.json](./51137-remington-super-slam-hunting-north-america.json) |
 | Remington Upland Game Hunter | 319121 | [319121-remington-upland-game-hunter.json](./319121-remington-upland-game-hunter.json) |
 | Reminisce | 306685 | [306685-reminisce.json](./306685-reminisce.json) |
+| Reminiscence | 154887 | [154887-reminiscence.json](./154887-reminiscence.json) |
 | Reminiscence | 360643 | [360643-reminiscence.json](./360643-reminiscence.json) |
 | Reminiscence in the Rain | 294369 | [294369-reminiscence-in-the-rain.json](./294369-reminiscence-in-the-rain.json) |
 | Reminiscience Overwrite | 184362 | [184362-reminiscience-overwrite.json](./184362-reminiscience-overwrite.json) |
@@ -4482,6 +4483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restless I | 391816 | [391816-restless-i.json](./391816-restless-i.json) |
 | Restless Kids | 216957 | [216957-restless-kids.json](./216957-restless-kids.json) |
 | Restless Lands | 262815 | [262815-restless-lands.json](./262815-restless-lands.json) |
+| Restless Night | 154901 | [154901-restless-night.json](./154901-restless-night.json) |
 | Restless Nights | 393756 | [393756-restless-nights.json](./393756-restless-nights.json) |
 | Restless Soul | 192398 | [192398-restless-soul.json](./192398-restless-soul.json) |
 | Restless Voronezh | 267058 | [267058-restless-voronezh.json](./267058-restless-voronezh.json) |
@@ -5321,6 +5323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RhythMania | 327047 | [327047-rhythmania.json](./327047-rhythmania.json) |
 | RhythMario 64.5: Crescendo of Cosmic Beast | 307365 | [307365-rhythmario-64-5-crescendo-of-cosmic-beast.json](./307365-rhythmario-64-5-crescendo-of-cosmic-beast.json) |
 | Rhythmcremental | 176462 | [176462-rhythmcremental.json](./176462-rhythmcremental.json) |
+| Rhythmetallic | 154890 | [154890-rhythmetallic.json](./154890-rhythmetallic.json) |
 | Rhythmetric | 364572 | [364572-rhythmetric.json](./364572-rhythmetric.json) |
 | Rhythmic Retro Racer | 129664 | [129664-rhythmic-retro-racer.json](./129664-rhythmic-retro-racer.json) |
 | Rhythmic Star! | 43468 | [43468-rhythmic-star.json](./43468-rhythmic-star.json) |
