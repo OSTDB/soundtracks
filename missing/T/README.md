@@ -2148,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TauCeti Unknown Origin | 130911 | [130911-tauceti-unknown-origin.json](./130911-tauceti-unknown-origin.json) |
 | Tauren maze | 164057 | [164057-tauren-maze.json](./164057-tauren-maze.json) |
 | Tauriel Teaches Typing | 181883 | [181883-tauriel-teaches-typing.json](./181883-tauriel-teaches-typing.json) |
+| Taurion | 130594 | [130594-taurion.json](./130594-taurion.json) |
 | Tauronos | 50543 | [50543-tauronos.json](./50543-tauronos.json) |
 | Taurus VR | 127776 | [127776-taurus-vr.json](./127776-taurus-vr.json) |
 | Taurus War | 290701 | [290701-taurus-war.json](./290701-taurus-war.json) |
@@ -8735,6 +8736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island: Into the Mist | 173095 | [173095-the-island-into-the-mist.json](./173095-the-island-into-the-mist.json) |
 | The Island: King's Order | 164443 | [164443-the-island-kings-order.json](./164443-the-island-kings-order.json) |
 | The Islander: Landscape Designer | 118242 | [118242-the-islander-landscape-designer.json](./118242-the-islander-landscape-designer.json) |
+| The Islander: Town Architect | 130608 | [130608-the-islander-town-architect.json](./130608-the-islander-town-architect.json) |
 | The Islands | 188830 | [188830-the-islands.json](./188830-the-islands.json) |
 | The Islands of Freedom | 320307 | [320307-the-islands-of-freedom.json](./320307-the-islands-of-freedom.json) |
 | The Isle | 25838 | [25838-the-isle.json](./25838-the-isle.json) |
@@ -25438,6 +25440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turkey Hunting USA | 331746 | [331746-turkey-hunting-usa.json](./331746-turkey-hunting-usa.json) |
 | Turkey Runner | 404422 | [404422-turkey-runner.json](./404422-turkey-runner.json) |
 | Turkey Stuffin' | 62690 | [62690-turkey-stuffin.json](./62690-turkey-stuffin.json) |
+| Turkey, Please! | 130582 | [130582-turkey-please.json](./130582-turkey-please.json) |
 | Turkmenchay | 362858 | [362858-turkmenchay.json](./362858-turkmenchay.json) |
 | Turleon | 390755 | [390755-turleon.json](./390755-turleon.json) |
 | Turlock Holmes | 286086 | [286086-turlock-holmes.json](./286086-turlock-holmes.json) |
