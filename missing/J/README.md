@@ -2503,6 +2503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Burger | 292003 | [292003-jump-burger.json](./292003-jump-burger.json) |
 | Jump City | 142087 | [142087-jump-city.json](./142087-jump-city.json) |
 | Jump Coaster | 40051 | [40051-jump-coaster.json](./40051-jump-coaster.json) |
+| Jump Dash | 131838 | [131838-jump-dash.json](./131838-jump-dash.json) |
 | Jump Doll Super | 175562 | [175562-jump-doll-super.json](./175562-jump-doll-super.json) |
 | Jump Doper | 114863 | [114863-jump-doper.json](./114863-jump-doper.json) |
 | Jump Duck | 407306 | [407306-jump-duck.json](./407306-jump-duck.json) |
@@ -2673,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Jacks | 243100 | [243100-jumping-jacks.json](./243100-jumping-jacks.json) |
 | Jumping Jax | 141040 | [141040-jumping-jax.json](./141040-jumping-jax.json) |
 | Jumping Jean | 364235 | [364235-jumping-jean.json](./364235-jumping-jean.json) |
+| Jumping jet | 131844 | [131844-jumping-jet.json](./131844-jumping-jet.json) |
 | Jumping Joe! Friends Edition | 170387 | [170387-jumping-joe-friends-edition.json](./170387-jumping-joe-friends-edition.json) |
 | Jumping Jupingo | 22107 | [22107-jumping-jupingo.json](./22107-jumping-jupingo.json) |
 | Jumping Knight | 159755 | [159755-jumping-knight.json](./159755-jumping-knight.json) |
