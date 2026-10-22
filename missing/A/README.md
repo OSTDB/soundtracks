@@ -2813,7 +2813,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3279,6 +3278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftercare Sessions | 322175 | [322175-aftercare-sessions.json](./322175-aftercare-sessions.json) |
 | Aftercharge | 27698 | [27698-aftercharge.json](./27698-aftercharge.json) |
 | Afterconflict Lost War | 123324 | [123324-afterconflict-lost-war.json](./123324-afterconflict-lost-war.json) |
+| Afterdays | 109324 | [109324-afterdays.json](./109324-afterdays.json) |
 | Afterdream | 207735 | [207735-afterdream.json](./207735-afterdream.json) |
 | Afterdream & Distraint Series Bundle | 271122 | [271122-afterdream-and-distraint-series-bundle.json](./271122-afterdream-and-distraint-series-bundle.json) |
 | Aftereffect | 405349 | [405349-aftereffect.json](./405349-aftereffect.json) |
@@ -8717,6 +8717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment 213 | 97709 | [97709-apartment-213.json](./97709-apartment-213.json) |
 | Apartment 22 | 355540 | [355540-apartment-22.json](./355540-apartment-22.json) |
 | Apartment 327 | 109396 | [109396-apartment-327.json](./109396-apartment-327.json) |
+| Apartment 3301 | 109295 | [109295-apartment-3301.json](./109295-apartment-3301.json) |
 | Apartment 606 | 317710 | [317710-apartment-606.json](./317710-apartment-606.json) |
 | Apartment Dream | 332462 | [332462-apartment-dream.json](./332462-apartment-dream.json) |
 | Apartment Life to Cuck and Impregnate Neighboring Busty Married Women | 98450 | [98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json](./98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json) |
@@ -9919,6 +9920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Fate | 224099 | [224099-arcane-fate.json](./224099-arcane-fate.json) |
 | Arcane Fighters | 272790 | [272790-arcane-fighters.json](./272790-arcane-fighters.json) |
 | Arcane Investigations | 341092 | [341092-arcane-investigations.json](./341092-arcane-investigations.json) |
+| Arcane Legacy | 109354 | [109354-arcane-legacy.json](./109354-arcane-legacy.json) |
 | Arcane Legends | 60078 | [60078-arcane-legends.json](./60078-arcane-legends.json) |
 | Arcane Maelstrom | 29765 | [29765-arcane-maelstrom.json](./29765-arcane-maelstrom.json) |
 | Arcane Mayhem | 388424 | [388424-arcane-mayhem.json](./388424-arcane-mayhem.json) |
@@ -12076,6 +12078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Quest! | 100766 | [100766-asteroid-quest.json](./100766-asteroid-quest.json) |
 | AsteRoid Rage | 211409 | [211409-asteroid-rage.json](./211409-asteroid-rage.json) |
 | Asteroid Requiem | 351052 | [351052-asteroid-requiem.json](./351052-asteroid-requiem.json) |
+| Asteroid RKD | 109298 | [109298-asteroid-rkd.json](./109298-asteroid-rkd.json) |
 | Asteroid Run: No Questions Asked | 119990 | [119990-asteroid-run-no-questions-asked.json](./119990-asteroid-run-no-questions-asked.json) |
 | Asteroid Sentinel | 297791 | [297791-asteroid-sentinel.json](./297791-asteroid-sentinel.json) |
 | Asteroid Shooter VR | 36941 | [36941-asteroid-shooter-vr.json](./36941-asteroid-shooter-vr.json) |
