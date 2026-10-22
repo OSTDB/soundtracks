@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Ski Adventure | 359744 | [359744-jet-ski-adventure.json](./359744-jet-ski-adventure.json) |
 | Jet Ski Driving | 231943 | [231943-jet-ski-driving.json](./231943-jet-ski-driving.json) |
 | Jet Ski Mania: Aquatic Adrenaline Rush | 276119 | [276119-jet-ski-mania-aquatic-adrenaline-rush.json](./276119-jet-ski-mania-aquatic-adrenaline-rush.json) |
+| Jet Ski Rush | 147714 | [147714-jet-ski-rush.json](./147714-jet-ski-rush.json) |
 | Jet Skiing | 246506 | [246506-jet-skiing.json](./246506-jet-skiing.json) |
 | Jet Trains | 174200 | [174200-jet-trains.json](./174200-jet-trains.json) |
 | Jet-Boot Jack | 79119 | [79119-jet-boot-jack.json](./79119-jet-boot-jack.json) |
@@ -1277,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw | 149289 | [149289-jigsaw.json](./149289-jigsaw.json) |
 | Jigsaw | 7863 | [7863-jigsaw.json](./7863-jigsaw.json) |
 | Jigsaw 360 | 112490 | [112490-jigsaw-360.json](./112490-jigsaw-360.json) |
+| JigSaw Abundance | 147718 | [147718-jigsaw-abundance.json](./147718-jigsaw-abundance.json) |
 | Jigsaw Advent Calendar | 276845 | [276845-jigsaw-advent-calendar.json](./276845-jigsaw-advent-calendar.json) |
 | Jigsaw Art: 100+ Famous Masterpieces | 400070 | [400070-jigsaw-art-100-famous-masterpieces.json](./400070-jigsaw-art-100-famous-masterpieces.json) |
 | Jigsaw Boom 2 | 94886 | [94886-jigsaw-boom-2.json](./94886-jigsaw-boom-2.json) |
@@ -1706,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jirai-kei Menhera Danshi to Icha Love Pien Ichigo Tabetaai | 285874 | [285874-jirai-kei-menhera-danshi-to-icha-love-pien-ichigo-tabetaai.json](./285874-jirai-kei-menhera-danshi-to-icha-love-pien-ichigo-tabetaai.json) |
 | Jiří Kára Simulátor | 384219 | [384219-jiri-kara-simulator.json](./384219-jiri-kara-simulator.json) |
 | Jisatsu | 278971 | [278971-jisatsu.json](./278971-jisatsu.json) |
+| Jisei: The First Case HD | 147719 | [147719-jisei-the-first-case-hd.json](./147719-jisei-the-first-case-hd.json) |
 | Jishogi | 199614 | [199614-jishogi.json](./199614-jishogi.json) |
 | Jishou no Chihei Mendako | 150238 | [150238-jishou-no-chihei-mendako.json](./150238-jishou-no-chihei-mendako.json) |
 | Jissen Billiards | 92297 | [92297-jissen-billiards.json](./92297-jissen-billiards.json) |
@@ -2671,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Pirates | 172983 | [172983-jumping-pirates.json](./172983-jumping-pirates.json) |
 | Jumping Platform Minigame | 158683 | [158683-jumping-platform-minigame.json](./158683-jumping-platform-minigame.json) |
 | Jumping Pop | 46798 | [46798-jumping-pop.json](./46798-jumping-pop.json) |
+| Jumping Stack Ball | 147723 | [147723-jumping-stack-ball.json](./147723-jumping-stack-ball.json) |
 | Jumping Tank | 29701 | [29701-jumping-tank.json](./29701-jumping-tank.json) |
 | Jumping Troll | 416751 | [416751-jumping-troll.json](./416751-jumping-troll.json) |
 | Jumping Whopper | 238203 | [238203-jumping-whopper.json](./238203-jumping-whopper.json) |
