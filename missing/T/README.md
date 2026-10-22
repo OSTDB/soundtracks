@@ -2059,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task III | 55150 | [55150-task-iii.json](./55150-task-iii.json) |
 | Task Men | 160095 | [160095-task-men.json](./160095-task-men.json) |
 | Task: 312 | 144861 | [144861-task-312.json](./144861-task-312.json) |
+| TaskForce Gamma-13 : An SCP Tale | 127609 | [127609-taskforce-gamma-13-an-scp-tale.json](./127609-taskforce-gamma-13-an-scp-tale.json) |
 | Taskforce: The Mutants of October Morgane | 153493 | [153493-taskforce-the-mutants-of-october-morgane.json](./153493-taskforce-the-mutants-of-october-morgane.json) |
 | Tasking | 261973 | [261973-tasking.json](./261973-tasking.json) |
 | TaskMaker | 131288 | [131288-taskmaker.json](./131288-taskmaker.json) |
@@ -3473,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra | 183439 | [183439-terra.json](./183439-terra.json) |
 | Terra | 196634 | [196634-terra.json](./196634-terra.json) |
 | Terra | 295236 | [295236-terra.json](./295236-terra.json) |
+| Terra Alia | 127597 | [127597-terra-alia.json](./127597-terra-alia.json) |
 | Terra Alia | 279404 | [279404-terra-alia.json](./279404-terra-alia.json) |
 | Terra Atlantis | 152663 | [152663-terra-atlantis.json](./152663-terra-atlantis.json) |
 | Terra Avoider | 278508 | [278508-terra-avoider.json](./278508-terra-avoider.json) |
@@ -5378,6 +5380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Burgomaster | 171836 | [171836-the-burgomaster.json](./171836-the-burgomaster.json) |
 | The Buried Pillars | 397841 | [397841-the-buried-pillars.json](./397841-the-buried-pillars.json) |
 | The Burned Ground | 115701 | [115701-the-burned-ground.json](./115701-the-burned-ground.json) |
+| The Burning Descent | 127614 | [127614-the-burning-descent.json](./127614-the-burning-descent.json) |
 | The Burnt School | 147978 | [147978-the-burnt-school.json](./147978-the-burnt-school.json) |
 | The Burst | 253186 | [253186-the-burst.json](./253186-the-burst.json) |
 | The Bus: Hamburg City | 371245 | [371245-the-bus-hamburg-city.json](./371245-the-bus-hamburg-city.json) |
@@ -11043,7 +11046,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -14831,6 +14833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Winter Solstice | 70917 | [70917-the-winter-solstice.json](./70917-the-winter-solstice.json) |
 | The Winter Tower | 226439 | [226439-the-winter-tower.json](./226439-the-winter-tower.json) |
 | The Winter's Deal | 140264 | [140264-the-winters-deal.json](./140264-the-winters-deal.json) |
+| The Winter's Deal: Frosty Edition | 127601 | [127601-the-winters-deal-frosty-edition.json](./127601-the-winters-deal-frosty-edition.json) |
 | The Wire | 31955 | [31955-the-wire.json](./31955-the-wire.json) |
 | The Wire Loop Game VR | 32251 | [32251-the-wire-loop-game-vr.json](./32251-the-wire-loop-game-vr.json) |
 | The Wire Man | 208641 | [208641-the-wire-man.json](./208641-the-wire-man.json) |
@@ -24940,6 +24943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try 2 Sleep | 323434 | [323434-try-2-sleep.json](./323434-try-2-sleep.json) |
 | Try Again | 219526 | [219526-try-again.json](./219526-try-again.json) |
 | Try Again | 249388 | [249388-try-again.json](./249388-try-again.json) |
+| Try again! | 127595 | [127595-try-again.json](./127595-try-again.json) |
 | Try Dying | 319713 | [319713-try-dying.json](./319713-try-dying.json) |
 | Try Harder | 191613 | [191613-try-harder.json](./191613-try-harder.json) |
 | Try if you can 100 | 283030 | [283030-try-if-you-can-100.json](./283030-try-if-you-can-100.json) |
