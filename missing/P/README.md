@@ -4097,6 +4097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Brave: The Lost Hero - The Wandering Pirate | 332524 | [332524-phantom-brave-the-lost-hero-the-wandering-pirate.json](./332524-phantom-brave-the-lost-hero-the-wandering-pirate.json) |
 | Phantom Breaker | 7130 | [7130-phantom-breaker.json](./7130-phantom-breaker.json) |
 | Phantom breaker battle grounds over drive | 99779 | [99779-phantom-breaker-battle-grounds-over-drive.json](./99779-phantom-breaker-battle-grounds-over-drive.json) |
+| Phantom Breaker: Another Code | 144653 | [144653-phantom-breaker-another-code.json](./144653-phantom-breaker-another-code.json) |
 | Phantom Breaker: Battle Grounds | 11324 | [11324-phantom-breaker-battle-grounds.json](./11324-phantom-breaker-battle-grounds.json) |
 | Phantom Breaker: Battle Grounds Mobile | 363670 | [363670-phantom-breaker-battle-grounds-mobile.json](./363670-phantom-breaker-battle-grounds-mobile.json) |
 | Phantom Breaker: Battle Grounds Ultimate | 319268 | [319268-phantom-breaker-battle-grounds-ultimate.json](./319268-phantom-breaker-battle-grounds-ultimate.json) |
@@ -8122,6 +8123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocoyo and the Mystery of Hidden Objects | 266417 | [266417-pocoyo-and-the-mystery-of-hidden-objects.json](./266417-pocoyo-and-the-mystery-of-hidden-objects.json) |
 | Pocoyo Art | 102613 | [102613-pocoyo-art.json](./102613-pocoyo-art.json) |
 | Pocoyo Memo Game | 107659 | [107659-pocoyo-memo-game.json](./107659-pocoyo-memo-game.json) |
+| Pocoyo Party | 144821 | [144821-pocoyo-party.json](./144821-pocoyo-party.json) |
 | Pocoyo Racing | 50939 | [50939-pocoyo-racing.json](./50939-pocoyo-racing.json) |
 | Pocoyo World | 208235 | [208235-pocoyo-world.json](./208235-pocoyo-world.json) |
 | Pod | 86049 | [86049-pod.json](./86049-pod.json) |
@@ -9809,6 +9811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Taisen Puzzle Dama Online | 281402 | [281402-popn-taisen-puzzle-dama-online.json](./281402-popn-taisen-puzzle-dama-online.json) |
 | Pop'n Tanks | 43801 | [43801-popn-tanks.json](./43801-popn-tanks.json) |
 | Pop'n Tanks | 43802 | [43802-popn-tanks.json](./43802-popn-tanks.json) |
+| Pop'n TwinBee | 144657 | [144657-popn-twinbee.json](./144657-popn-twinbee.json) |
 | Pop'n Twinbee: Rainbow Bell Adventures | 42473 | [42473-popn-twinbee-rainbow-bell-adventures.json](./42473-popn-twinbee-rainbow-bell-adventures.json) |
 | Pop's | 190425 | [190425-pops.json](./190425-pops.json) |
 | Pop's Pipes / Slurp | 206462 | [206462-pops-pipes-slurp.json](./206462-pops-pipes-slurp.json) |
