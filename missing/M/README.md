@@ -2581,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marbies Party | 344934 | [344934-marbies-party.json](./344934-marbies-party.json) |
 | Marble Abduction! Patti Hattu | 299945 | [299945-marble-abduction-patti-hattu.json](./299945-marble-abduction-patti-hattu.json) |
 | Marble Age | 35838 | [35838-marble-age.json](./35838-marble-age.json) |
+| Marble Age: Remastered | 139653 | [139653-marble-age-remastered.json](./139653-marble-age-remastered.json) |
 | Marble Allstars | 335506 | [335506-marble-allstars.json](./335506-marble-allstars.json) |
 | Marble Ball: Racing 2022 | 237185 | [237185-marble-ball-racing-2022.json](./237185-marble-ball-racing-2022.json) |
 | Marble Battles | 240213 | [240213-marble-battles.json](./240213-marble-battles.json) |
@@ -8467,6 +8468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator: Deluxe Edition | 139959 | [139959-microsoft-flight-simulator-deluxe-edition.json](./139959-microsoft-flight-simulator-deluxe-edition.json) |
 | Microsoft Flight Simulator: Dune | 252831 | [252831-microsoft-flight-simulator-dune.json](./252831-microsoft-flight-simulator-dune.json) |
 | Microsoft Flight Simulator: Premium Deluxe 40th Anniversary Edition | 293927 | [293927-microsoft-flight-simulator-premium-deluxe-40th-anniversary-edition.json](./293927-microsoft-flight-simulator-premium-deluxe-40th-anniversary-edition.json) |
+| Microsoft Flight Simulator: Premium Deluxe Edition | 139860 | [139860-microsoft-flight-simulator-premium-deluxe-edition.json](./139860-microsoft-flight-simulator-premium-deluxe-edition.json) |
 | Microsoft Flight Simulator: Top Gun - Maverick | 152312 | [152312-microsoft-flight-simulator-top-gun-maverick.json](./152312-microsoft-flight-simulator-top-gun-maverick.json) |
 | Microsoft Flight Simulator: World Update 18 | 314484 | [314484-microsoft-flight-simulator-world-update-18.json](./314484-microsoft-flight-simulator-world-update-18.json) |
 | Microsoft FreeCell | 51354 | [51354-microsoft-freecell.json](./51354-microsoft-freecell.json) |
@@ -10111,6 +10113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Simulator | 241512 | [241512-mining-simulator.json](./241512-mining-simulator.json) |
 | Mining Wizards | 379861 | [379861-mining-wizards.json](./379861-mining-wizards.json) |
 | Minion Forest | 82333 | [82333-minion-forest.json](./82333-minion-forest.json) |
+| Minion Mail | 139671 | [139671-minion-mail.json](./139671-minion-mail.json) |
 | Minion Masters + Mordar's Malediction DLC | 173163 | [173163-minion-masters-mordars-malediction-dlc.json](./173163-minion-masters-mordars-malediction-dlc.json) |
 | Minion Masters: Arise! | 279249 | [279249-minion-masters-arise.json](./279249-minion-masters-arise.json) |
 | Minion Masters: Best Plan No Plan! | 330727 | [330727-minion-masters-best-plan-no-plan.json](./330727-minion-masters-best-plan-no-plan.json) |
@@ -13020,6 +13023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morbid Inhale | 173000 | [173000-morbid-inhale.json](./173000-morbid-inhale.json) |
 | Morbid Land | 62826 | [62826-morbid-land.json](./62826-morbid-land.json) |
 | Morbid: The Lords of Ire | 237772 | [237772-morbid-the-lords-of-ire.json](./237772-morbid-the-lords-of-ire.json) |
+| Morbid: The Seven Acolytes - Signature Edition | 139857 | [139857-morbid-the-seven-acolytes-signature-edition.json](./139857-morbid-the-seven-acolytes-signature-edition.json) |
 | Morbidity: 1 | 271757 | [271757-morbidity-1.json](./271757-morbidity-1.json) |
 | Morbidity: 2 | 271758 | [271758-morbidity-2.json](./271758-morbidity-2.json) |
 | Morbius Heardle | 203829 | [203829-morbius-heardle.json](./203829-morbius-heardle.json) |
