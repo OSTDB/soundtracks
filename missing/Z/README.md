@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Dash | 377133 | [377133-zombie-dash.json](./377133-zombie-dash.json) |
 | Zombie Dead Smasher Shooter: Premium Edition | 283163 | [283163-zombie-dead-smasher-shooter-premium-edition.json](./283163-zombie-dead-smasher-shooter-premium-edition.json) |
 | Zombie Death Day | 270010 | [270010-zombie-death-day.json](./270010-zombie-death-day.json) |
+| Zombie Deathmatch | 100625 | [100625-zombie-deathmatch.json](./100625-zombie-deathmatch.json) |
 | Zombie Deathrace Feeding Frenzy | 114185 | [114185-zombie-deathrace-feeding-frenzy.json](./114185-zombie-deathrace-feeding-frenzy.json) |
 | Zombie Defence TD | 223527 | [223527-zombie-defence-td.json](./223527-zombie-defence-td.json) |
 | Zombie Defense | 271703 | [271703-zombie-defense.json](./271703-zombie-defense.json) |
