@@ -5551,6 +5551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Womb of Worms | 394378 | [394378-womb-of-worms.json](./394378-womb-of-worms.json) |
 | Wombel | 315329 | [315329-wombel.json](./315329-wombel.json) |
 | WomboCombo | 390248 | [390248-wombocombo.json](./390248-wombocombo.json) |
+| Wǒmen de Dàxué | 120600 | [120600-women-de-daxue.json](./120600-women-de-daxue.json) |
 | Women's Murder Club: A Darker Shade of Grey | 64712 | [64712-womens-murder-club-a-darker-shade-of-grey.json](./64712-womens-murder-club-a-darker-shade-of-grey.json) |
 | Women's Murder Club: Death in Scarlet | 51404 | [51404-womens-murder-club-death-in-scarlet.json](./51404-womens-murder-club-death-in-scarlet.json) |
 | Women's Murder Club: Little Black Lies | 135250 | [135250-womens-murder-club-little-black-lies.json](./135250-womens-murder-club-little-black-lies.json) |
