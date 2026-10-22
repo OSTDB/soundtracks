@@ -6096,6 +6096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Art Bundle Vol. 1 | 132864 | [132864-pixel-art-bundle-vol-1.json](./132864-pixel-art-bundle-vol-1.json) |
 | Pixel Art Monster: Color by Number | 391688 | [391688-pixel-art-monster-color-by-number.json](./391688-pixel-art-monster-color-by-number.json) |
 | Pixel Art: Color by Number | 87040 | [87040-pixel-art-color-by-number.json](./87040-pixel-art-color-by-number.json) |
+| Pixel Art: Mash-Up | 155445 | [155445-pixel-art-mash-up.json](./155445-pixel-art-mash-up.json) |
 | Pixel Artist | 220876 | [220876-pixel-artist.json](./220876-pixel-artist.json) |
 | Pixel Artist Simulator | 177892 | [177892-pixel-artist-simulator.json](./177892-pixel-artist-simulator.json) |
 | Pixel Artist: Color Number, Pixel Coloring Book | 105847 | [105847-pixel-artist-color-number-pixel-coloring-book.json](./105847-pixel-artist-color-number-pixel-coloring-book.json) |
