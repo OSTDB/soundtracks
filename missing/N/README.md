@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcissus | 60355 | [60355-narcissus.json](./60355-narcissus.json) |
 | Narco Check | 389518 | [389518-narco-check.json](./389518-narco-check.json) |
 | Narco Express | 353399 | [353399-narco-express.json](./353399-narco-express.json) |
+| Narco Strike | 115387 | [115387-narco-strike.json](./115387-narco-strike.json) |
 | Narco Terror | 16446 | [16446-narco-terror.json](./16446-narco-terror.json) |
 | Narco Tycoon | 153896 | [153896-narco-tycoon.json](./153896-narco-tycoon.json) |
 | Narco Wars | 263133 | [263133-narco-wars.json](./263133-narco-wars.json) |
@@ -5661,6 +5662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nowhere New | 135768 | [135768-nowhere-new.json](./135768-nowhere-new.json) |
 | Nowhere Patrol | 111390 | [111390-nowhere-patrol.json](./111390-nowhere-patrol.json) |
 | Nowhere Road | 384861 | [384861-nowhere-road.json](./384861-nowhere-road.json) |
+| Nowhere Station | 115360 | [115360-nowhere-station.json](./115360-nowhere-station.json) |
 | Nowhere to Run | 407377 | [407377-nowhere-to-run.json](./407377-nowhere-to-run.json) |
 | Nowhere, MI | 248793 | [248793-nowhere-mi.json](./248793-nowhere-mi.json) |
 | Nowhere: Mysterious Artifacts | 216974 | [216974-nowhere-mysterious-artifacts.json](./216974-nowhere-mysterious-artifacts.json) |
