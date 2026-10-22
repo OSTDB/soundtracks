@@ -7901,6 +7901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Rising | 171504 | [171504-rogue-rising.json](./171504-rogue-rising.json) |
 | Rogue Robot: Escape Protocol | 304616 | [304616-rogue-robot-escape-protocol.json](./304616-rogue-robot-escape-protocol.json) |
 | Rogue Robots | 135653 | [135653-rogue-robots.json](./135653-rogue-robots.json) |
+| Rogue Rocks | 121265 | [121265-rogue-rocks.json](./121265-rogue-rocks.json) |
 | Rogue Rollers | 347097 | [347097-rogue-rollers.json](./347097-rogue-rollers.json) |
 | Rogue Run | 407304 | [407304-rogue-run.json](./407304-rogue-run.json) |
 | Rogue Samurai | 266278 | [266278-rogue-samurai.json](./266278-rogue-samurai.json) |
@@ -8752,6 +8753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rota's Nautical Chronicles of Trade: Aname Momo - Collaboration Commemorative Residentization DLC | 329009 | [329009-rotas-nautical-chronicles-of-trade-aname-momo-collaboration-commemorative-residentization-dlc.json](./329009-rotas-nautical-chronicles-of-trade-aname-momo-collaboration-commemorative-residentization-dlc.json) |
 | Rota's Nautical Chronicles of Trade: Nekozeno Shin - Collaboration Commemorative Residentization DLC | 323258 | [323258-rotas-nautical-chronicles-of-trade-nekozeno-shin-collaboration-commemorative-residentization-dlc.json](./323258-rotas-nautical-chronicles-of-trade-nekozeno-shin-collaboration-commemorative-residentization-dlc.json) |
 | RotaDim | 93031 | [93031-rotadim.json](./93031-rotadim.json) |
+| Rotaeno | 121276 | [121276-rotaeno.json](./121276-rotaeno.json) |
 | Rotata | 349184 | [349184-rotata.json](./349184-rotata.json) |
 | Rotate 'N' Shoot | 176155 | [176155-rotate-n-shoot.json](./176155-rotate-n-shoot.json) |
 | Rotate & Roll | 342600 | [342600-rotate-and-roll.json](./342600-rotate-and-roll.json) |
@@ -9700,6 +9702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory: Guardians of Azuma - Rune Factory 4 Bachelorette Outfit Bundle | 351193 | [351193-rune-factory-guardians-of-azuma-rune-factory-4-bachelorette-outfit-bundle.json](./351193-rune-factory-guardians-of-azuma-rune-factory-4-bachelorette-outfit-bundle.json) |
 | Rune Factory: Guardians of Azuma - Story of Seasons Bundle | 377761 | [377761-rune-factory-guardians-of-azuma-story-of-seasons-bundle.json](./377761-rune-factory-guardians-of-azuma-story-of-seasons-bundle.json) |
 | Rune Factory: Tides of Destiny | 5133 | [5133-rune-factory-tides-of-destiny.json](./5133-rune-factory-tides-of-destiny.json) |
+| Rune Fencer Illyia | 121258 | [121258-rune-fencer-illyia.json](./121258-rune-fencer-illyia.json) |
 | Rune Gate | 261738 | [261738-rune-gate.json](./261738-rune-gate.json) |
 | Rune Gems | 238298 | [238298-rune-gems.json](./238298-rune-gems.json) |
 | Rune Girl | 118976 | [118976-rune-girl.json](./118976-rune-girl.json) |
