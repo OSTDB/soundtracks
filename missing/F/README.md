@@ -1126,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallstreak 2: Traum | 364604 | [364604-fallstreak-2-traum.json](./364604-fallstreak-2-traum.json) |
 | Fallstreak: Requiem For My Homeland | 141631 | [141631-fallstreak-requiem-for-my-homeland.json](./141631-fallstreak-requiem-for-my-homeland.json) |
 | Fallstruktur | 348018 | [348018-fallstruktur.json](./348018-fallstruktur.json) |
+| Falnarion Tactics II | 118040 | [118040-falnarion-tactics-ii.json](./118040-falnarion-tactics-ii.json) |
 | Falnarion Tactics III | 280159 | [280159-falnarion-tactics-iii.json](./280159-falnarion-tactics-iii.json) |
 | Falnarion Tactics: Oathbreaker | 158730 | [158730-falnarion-tactics-oathbreaker.json](./158730-falnarion-tactics-oathbreaker.json) |
 | Falrika the Alchemist | 299292 | [299292-falrika-the-alchemist.json](./299292-falrika-the-alchemist.json) |
@@ -7477,6 +7478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foreign | 123837 | [123837-foreign.json](./123837-foreign.json) |
 | Foreign Affairs | 313850 | [313850-foreign-affairs.json](./313850-foreign-affairs.json) |
 | Foreign Body | 236549 | [236549-foreign-body.json](./236549-foreign-body.json) |
+| Foreign Frugglers | 118021 | [118021-foreign-frugglers.json](./118021-foreign-frugglers.json) |
 | Foreign Galaxies | 196232 | [196232-foreign-galaxies.json](./196232-foreign-galaxies.json) |
 | Foreign Legion: Buckets of Blood | 7521 | [7521-foreign-legion-buckets-of-blood.json](./7521-foreign-legion-buckets-of-blood.json) |
 | Foreign Sun | 289984 | [289984-foreign-sun.json](./289984-foreign-sun.json) |
