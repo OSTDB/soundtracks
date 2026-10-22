@@ -3372,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epejsodion Lodge | 150455 | [150455-epejsodion-lodge.json](./150455-epejsodion-lodge.json) |
 | Eperon Defend | 251447 | [251447-eperon-defend.json](./251447-eperon-defend.json) |
 | Ephemera | 161567 | [161567-ephemera.json](./161567-ephemera.json) |
+| Ephemera of Evalynn Cott | 135494 | [135494-ephemera-of-evalynn-cott.json](./135494-ephemera-of-evalynn-cott.json) |
 | Ephemeral | 184354 | [184354-ephemeral.json](./184354-ephemeral.json) |
 | Ephemeral Dreams, Eternal Love | 260116 | [260116-ephemeral-dreams-eternal-love.json](./260116-ephemeral-dreams-eternal-love.json) |
 | Ephemeral Fantasia | 44722 | [44722-ephemeral-fantasia.json](./44722-ephemeral-fantasia.json) |
@@ -4198,6 +4199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room Super Bundle | 295471 | [295471-escape-room-super-bundle.json](./295471-escape-room-super-bundle.json) |
 | Escape Room Ultimate Bundle | 306493 | [306493-escape-room-ultimate-bundle.json](./306493-escape-room-ultimate-bundle.json) |
 | Escape Room VR | 128340 | [128340-escape-room-vr.json](./128340-escape-room-vr.json) |
+| Escape Room VR: Inner Voices | 135724 | [135724-escape-room-vr-inner-voices.json](./135724-escape-room-vr-inner-voices.json) |
 | Escape Room: Bank Robbery Gone Wrong | 244246 | [244246-escape-room-bank-robbery-gone-wrong.json](./244246-escape-room-bank-robbery-gone-wrong.json) |
 | Escape Room: Beyond Mystery | 315265 | [315265-escape-room-beyond-mystery.json](./315265-escape-room-beyond-mystery.json) |
 | Escape Room: Christmas Quest | 241345 | [241345-escape-room-christmas-quest.json](./241345-escape-room-christmas-quest.json) |
@@ -4668,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal of Swordsman | 194033 | [194033-eternal-of-swordsman.json](./194033-eternal-of-swordsman.json) |
 | Eternal One | 369096 | [369096-eternal-one.json](./369096-eternal-one.json) |
 | Eternal One: Memories of Kumo Island | 369760 | [369760-eternal-one-memories-of-kumo-island.json](./369760-eternal-one-memories-of-kumo-island.json) |
+| Eternal Pain: Epiphany | 135722 | [135722-eternal-pain-epiphany.json](./135722-eternal-pain-epiphany.json) |
 | Eternal Palace Sakura | 342002 | [342002-eternal-palace-sakura.json](./342002-eternal-palace-sakura.json) |
 | Eternal Perk | 142133 | [142133-eternal-perk.json](./142133-eternal-perk.json) |
 | Eternal Pinball RPG | 203746 | [203746-eternal-pinball-rpg.json](./203746-eternal-pinball-rpg.json) |
