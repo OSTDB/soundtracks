@@ -2529,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opaline | 35246 | [35246-opaline.json](./35246-opaline.json) |
 | Open Bar | 161712 | [161712-open-bar.json](./161712-open-bar.json) |
 | Open Bar | 58804 | [58804-open-bar.json](./58804-open-bar.json) |
+| Open Brush | 151999 | [151999-open-brush.json](./151999-open-brush.json) |
 | Open Day | 214622 | [214622-open-day.json](./214622-open-day.json) |
 | Open Doctrines | 417557 | [417557-open-doctrines.json](./417557-open-doctrines.json) |
 | Open Door | 214177 | [214177-open-door.json](./214177-open-door.json) |
@@ -4535,6 +4536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxu 2 | 387755 | [387755-oxu-2.json](./387755-oxu-2.json) |
 | Oxxo | 119208 | [119208-oxxo.json](./119208-oxxo.json) |
 | Oxxonian | 74424 | [74424-oxxonian.json](./74424-oxxonian.json) |
+| Oxy Con Brio | 151986 | [151986-oxy-con-brio.json](./151986-oxy-con-brio.json) |
 | Oxyblack Fortress | 271317 | [271317-oxyblack-fortress.json](./271317-oxyblack-fortress.json) |
 | Oxyd | 126335 | [126335-oxyd.json](./126335-oxyd.json) |
 | Oxyd Extra | 93036 | [93036-oxyd-extra.json](./93036-oxyd-extra.json) |
