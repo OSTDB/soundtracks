@@ -6228,6 +6228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise Up - Dark Night Mode | 100700 | [100700-rise-up-dark-night-mode.json](./100700-rise-up-dark-night-mode.json) |
 | Rise up - Keeper challenge | 96743 | [96743-rise-up-keeper-challenge.json](./96743-rise-up-keeper-challenge.json) |
 | Rise: Race the Future | 27378 | [27378-rise-race-the-future.json](./27378-rise-race-the-future.json) |
+| Rise: The Vieneo Province | 113354 | [113354-rise-the-vieneo-province.json](./113354-rise-the-vieneo-province.json) |
 | RiseExplosion | 302433 | [302433-riseexplosion.json](./302433-riseexplosion.json) |
 | Risen | 226682 | [226682-risen.json](./226682-risen.json) |
 | Risen | 2444 | [2444-risen.json](./2444-risen.json) |
@@ -8037,6 +8038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rohga: Armor Force | 40260 | [40260-rohga-armor-force.json](./40260-rohga-armor-force.json) |
 | Rohgah Armor Force | 94756 | [94756-rohgah-armor-force.json](./94756-rohgah-armor-force.json) |
 | Roid Chimp | 366297 | [366297-roid-chimp.json](./366297-roid-chimp.json) |
+| Roid Rage | 113366 | [113366-roid-rage.json](./113366-roid-rage.json) |
 | Roidrekt | 114954 | [114954-roidrekt.json](./114954-roidrekt.json) |
 | Roids | 264564 | [264564-roids.json](./264564-roids.json) |
 | Rojiura Glory Hole | 193264 | [193264-rojiura-glory-hole.json](./193264-rojiura-glory-hole.json) |
@@ -9016,6 +9018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Challenge Solitaire | 54329 | [54329-royal-challenge-solitaire.json](./54329-royal-challenge-solitaire.json) |
 | Royal Chaos | 105798 | [105798-royal-chaos.json](./105798-royal-chaos.json) |
 | Royal Chaos: Enter a Dreamlike Kingdom of Romance | 105883 | [105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json](./105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json) |
+| Royal Crown | 113371 | [113371-royal-crown.json](./113371-royal-crown.json) |
 | Royal Decree! | 295098 | [295098-royal-decree.json](./295098-royal-decree.json) |
 | Royal Defense | 10784 | [10784-royal-defense.json](./10784-royal-defense.json) |
 | Royal Defense 2 | 10785 | [10785-royal-defense-2.json](./10785-royal-defense-2.json) |
