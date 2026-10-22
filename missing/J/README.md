@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaded | 280912 | [280912-jaded.json](./280912-jaded.json) |
 | Jaded Journey | 180109 | [180109-jaded-journey.json](./180109-jaded-journey.json) |
 | Jaden & Jasmine: Lost Memories | 259600 | [259600-jaden-and-jasmine-lost-memories.json](./259600-jaden-and-jasmine-lost-memories.json) |
+| Jaden & Jasmine: The Curse of Deception | 152692 | [152692-jaden-and-jasmine-the-curse-of-deception.json](./152692-jaden-and-jasmine-the-curse-of-deception.json) |
 | Jaden's Nether Expansion | 344016 | [344016-jadens-nether-expansion.json](./344016-jadens-nether-expansion.json) |
 | Jaderaze Inferno | 412465 | [412465-jaderaze-inferno.json](./412465-jaderaze-inferno.json) |
 | Jadoraki | 238574 | [238574-jadoraki.json](./238574-jadoraki.json) |
