@@ -5583,6 +5583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chantry | 118698 | [118698-the-chantry.json](./118698-the-chantry.json) |
 | The Chaotic Workshop | 105154 | [105154-the-chaotic-workshop.json](./105154-the-chaotic-workshop.json) |
 | The Chaput's Baby | 217992 | [217992-the-chaputs-baby.json](./217992-the-chaputs-baby.json) |
+| The Chariot | 139270 | [139270-the-chariot.json](./139270-the-chariot.json) |
 | The Charity Shop | 333942 | [333942-the-charity-shop.json](./333942-the-charity-shop.json) |
 | The Charm of Love | 157158 | [157158-the-charm-of-love.json](./157158-the-charm-of-love.json) |
 | The Charming Empire | 31976 | [31976-the-charming-empire.json](./31976-the-charming-empire.json) |
@@ -6340,6 +6341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Death of Zoe | 159841 | [159841-the-death-of-zoe.json](./159841-the-death-of-zoe.json) |
 | The Death Trap | 63756 | [63756-the-death-trap.json](./63756-the-death-trap.json) |
 | The Deathmind | 353381 | [353381-the-deathmind.json](./353381-the-deathmind.json) |
+| The Debug | 139269 | [139269-the-debug.json](./139269-the-debug.json) |
 | The Deceived Man | 310421 | [310421-the-deceived-man.json](./310421-the-deceived-man.json) |
 | The December Effect | 163766 | [163766-the-december-effect.json](./163766-the-december-effect.json) |
 | The December Job | 386871 | [386871-the-december-job.json](./386871-the-december-job.json) |
@@ -9344,6 +9346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hope: Dead Zone Survival | 255502 | [255502-the-last-hope-dead-zone-survival.json](./255502-the-last-hope-dead-zone-survival.json) |
 | The Last Horseman | 397189 | [397189-the-last-horseman.json](./397189-the-last-horseman.json) |
 | The Last Hospital | 292997 | [292997-the-last-hospital.json](./292997-the-last-hospital.json) |
+| The Last Hour | 139050 | [139050-the-last-hour.json](./139050-the-last-hour.json) |
 | The Last Human: Go! | 278942 | [278942-the-last-human-go.json](./278942-the-last-human-go.json) |
 | The Last Inca | 71771 | [71771-the-last-inca.json](./71771-the-last-inca.json) |
 | The Last Janitor: Data Cleanup | 361680 | [361680-the-last-janitor-data-cleanup.json](./361680-the-last-janitor-data-cleanup.json) |
@@ -10576,6 +10579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Marvelous Misadventures of Flapjack: Journey to Plague Island | 403660 | [403660-the-marvelous-misadventures-of-flapjack-journey-to-plague-island.json](./403660-the-marvelous-misadventures-of-flapjack-journey-to-plague-island.json) |
 | The Marvelous Raincaster of Yell Holler | 402520 | [402520-the-marvelous-raincaster-of-yell-holler.json](./402520-the-marvelous-raincaster-of-yell-holler.json) |
 | The Marvelous Snail | 208849 | [208849-the-marvelous-snail.json](./208849-the-marvelous-snail.json) |
+| The Mary Jane of Tomorrow | 139274 | [139274-the-mary-jane-of-tomorrow.json](./139274-the-mary-jane-of-tomorrow.json) |
 | The Mask | 42730 | [42730-the-mask.json](./42730-the-mask.json) |
 | The Mask Game | 278993 | [278993-the-mask-game.json](./278993-the-mask-game.json) |
 | The Mask of Agnosia | 399720 | [399720-the-mask-of-agnosia.json](./399720-the-mask-of-agnosia.json) |
@@ -14181,6 +14185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Turkish Bazaar | 369741 | [369741-the-turkish-bazaar.json](./369741-the-turkish-bazaar.json) |
 | The Turnabout that Shouldn't Exist | 318786 | [318786-the-turnabout-that-shouldnt-exist.json](./318786-the-turnabout-that-shouldnt-exist.json) |
 | The Turned About Turnabout | 308542 | [308542-the-turned-about-turnabout.json](./308542-the-turned-about-turnabout.json) |
+| The Turnip | 139278 | [139278-the-turnip.json](./139278-the-turnip.json) |
 | The Turrican Collection | 394895 | [394895-the-turrican-collection.json](./394895-the-turrican-collection.json) |
 | The Tuttles: Madcap Misadventures | 62156 | [62156-the-tuttles-madcap-misadventures.json](./62156-the-tuttles-madcap-misadventures.json) |
 | The TV Show | 54891 | [54891-the-tv-show.json](./54891-the-tv-show.json) |
@@ -18161,6 +18166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timothy: Shinpi no Mori | 189132 | [189132-timothy-shinpi-no-mori.json](./189132-timothy-shinpi-no-mori.json) |
 | Timruk | 191816 | [191816-timruk.json](./191816-timruk.json) |
 | Tims Word Challenge | 406241 | [406241-tims-word-challenge.json](./406241-tims-word-challenge.json) |
+| Tin Can | 139282 | [139282-tin-can.json](./139282-tin-can.json) |
 | Tin Can: Original Tracks | 293774 | [293774-tin-can-original-tracks.json](./293774-tin-can-original-tracks.json) |
 | Tin Knight | 240093 | [240093-tin-knight.json](./240093-tin-knight.json) |
 | Tin Soldiers: Alexander the Great | 72757 | [72757-tin-soldiers-alexander-the-great.json](./72757-tin-soldiers-alexander-the-great.json) |
