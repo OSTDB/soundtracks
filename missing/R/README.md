@@ -6038,6 +6038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rioters 2025 | 147328 | [147328-rioters-2025.json](./147328-rioters-2025.json) |
 | Riotous | 152619 | [152619-riotous.json](./152619-riotous.json) |
 | RiotZ | 41923 | [41923-riotz.json](./41923-riotz.json) |
+| RIP | 109328 | [109328-rip.json](./109328-rip.json) |
 | RIP | 392756 | [392756-rip.json](./392756-rip.json) |
 | RIP 2: Strike Back | 28922 | [28922-rip-2-strike-back.json](./28922-rip-2-strike-back.json) |
 | RIP 3: The Last Hero | 28923 | [28923-rip-3-the-last-hero.json](./28923-rip-3-the-last-hero.json) |
