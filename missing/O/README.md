@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsession | 268658 | [268658-obsession.json](./268658-obsession.json) |
 | Obsessive Love Adventure Utsuro's Diary | 151680 | [151680-obsessive-love-adventure-utsuros-diary.json](./151680-obsessive-love-adventure-utsuros-diary.json) |
 | Obsideo | 163148 | [163148-obsideo.json](./163148-obsideo.json) |
+| Obsidian | 141705 | [141705-obsidian.json](./141705-obsidian.json) |
 | Obsidian Conflict | 142407 | [142407-obsidian-conflict.json](./142407-obsidian-conflict.json) |
 | Obsidian Crown | 124164 | [124164-obsidian-crown.json](./124164-obsidian-crown.json) |
 | Obsidian Moon | 357005 | [357005-obsidian-moon.json](./357005-obsidian-moon.json) |
@@ -788,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Jeep Quest: Mountain Trails | 293363 | [293363-offroad-jeep-quest-mountain-trails.json](./293363-offroad-jeep-quest-mountain-trails.json) |
 | Offroad Mania | 128460 | [128460-offroad-mania.json](./128460-offroad-mania.json) |
 | Offroad Mechanic Simulator | 149870 | [149870-offroad-mechanic-simulator.json](./149870-offroad-mechanic-simulator.json) |
+| Offroad Mini Racing | 143547 | [143547-offroad-mini-racing.json](./143547-offroad-mini-racing.json) |
 | Offroad Moto Bike | 232464 | [232464-offroad-moto-bike.json](./232464-offroad-moto-bike.json) |
 | Offroad Night Racing | 193301 | [193301-offroad-night-racing.json](./193301-offroad-night-racing.json) |
 | Offroad Oil Tanker Hill Drivin | 108488 | [108488-offroad-oil-tanker-hill-drivin.json](./108488-offroad-oil-tanker-hill-drivin.json) |
@@ -2222,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ongeki Bright Memory Act.2 | 335953 | [335953-ongeki-bright-memory-act-2.json](./335953-ongeki-bright-memory-act-2.json) |
 | Ongeki Bright Memory Act.3 | 335954 | [335954-ongeki-bright-memory-act-3.json](./335954-ongeki-bright-memory-act-3.json) |
 | Ongeki Re:Fresh | 344013 | [344013-ongeki-re-fresh.json](./344013-ongeki-re-fresh.json) |
+| Ongeki Summer | 143317 | [143317-ongeki-summer.json](./143317-ongeki-summer.json) |
 | Oni | 2413 | [2413-oni.json](./2413-oni.json) |
 | Oni | 365784 | [365784-oni.json](./365784-oni.json) |
 | Oni | 384838 | [384838-oni.json](./384838-oni.json) |
