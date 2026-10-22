@@ -2185,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nessa no Hoshi | 123585 | [123585-nessa-no-hoshi.json](./123585-nessa-no-hoshi.json) |
 | Nessie | 64442 | [64442-nessie.json](./64442-nessie.json) |
 | Nessy the... Robot | 237044 | [237044-nessy-the-robot.json](./237044-nessy-the-robot.json) |
+| Nest Lander | 134894 | [134894-nest-lander.json](./134894-nest-lander.json) |
 | Nestables | 134029 | [134029-nestables.json](./134029-nestables.json) |
 | Nested | 274101 | [274101-nested.json](./274101-nested.json) |
 | Nested Lands | 270136 | [270136-nested-lands.json](./270136-nested-lands.json) |
@@ -3223,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nifty League | 184289 | [184289-nifty-league.json](./184289-nifty-league.json) |
 | Nigate Tale | 139175 | [139175-nigate-tale.json](./139175-nigate-tale.json) |
 | Nige-ron-pa | 43961 | [43961-nige-ron-pa.json](./43961-nige-ron-pa.json) |
+| Nigel | 134885 | [134885-nigel.json](./134885-nigel.json) |
 | Nigel: The Minuscule Adventure | 121456 | [121456-nigel-the-minuscule-adventure.json](./121456-nigel-the-minuscule-adventure.json) |
 | Nigel's Journey: A Working Day | 133378 | [133378-nigels-journey-a-working-day.json](./133378-nigels-journey-a-working-day.json) |
 | Nigel's World Adventure: Geography | 209402 | [209402-nigels-world-adventure-geography.json](./209402-nigels-world-adventure-geography.json) |
