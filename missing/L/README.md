@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser | 322581 | [322581-laser.json](./322581-laser.json) |
 | Laser 77: Virtual Lab | 280419 | [280419-laser-77-virtual-lab.json](./280419-laser-77-virtual-lab.json) |
 | Laser Arena | 9060 | [9060-laser-arena.json](./9060-laser-arena.json) |
+| Laser Arena Online | 126239 | [126239-laser-arena-online.json](./126239-laser-arena-online.json) |
 | Laser Attraction | 144762 | [144762-laser-attraction.json](./144762-laser-attraction.json) |
 | Laser Ball | 57556 | [57556-laser-ball.json](./57556-laser-ball.json) |
 | Laser Ball | 95664 | [95664-laser-ball.json](./95664-laser-ball.json) |
@@ -5052,6 +5053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living the Dream | 259763 | [259763-living-the-dream.json](./259763-living-the-dream.json) |
 | Living the Nightmare | 151144 | [151144-living-the-nightmare.json](./151144-living-the-nightmare.json) |
 | Living together with Fox Demon | 159757 | [159757-living-together-with-fox-demon.json](./159757-living-together-with-fox-demon.json) |
+| Living with a Scarecrow | 126263 | [126263-living-with-a-scarecrow.json](./126263-living-with-a-scarecrow.json) |
 | Living with an Elf: A Cozy Forest Retreat | 263195 | [263195-living-with-an-elf-a-cozy-forest-retreat.json](./263195-living-with-an-elf-a-cozy-forest-retreat.json) |
 | Living With Dragons | 219638 | [219638-living-with-dragons.json](./219638-living-with-dragons.json) |
 | Living With It | 329394 | [329394-living-with-it.json](./329394-living-with-it.json) |
