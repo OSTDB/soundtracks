@@ -2469,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incoherence | 291573 | [291573-incoherence.json](./291573-incoherence.json) |
 | Incoherence: Dark Rooms | 380234 | [380234-incoherence-dark-rooms.json](./380234-incoherence-dark-rooms.json) |
 | Incomer | 212203 | [212203-incomer.json](./212203-incomer.json) |
+| Incoming Evil | 122020 | [122020-incoming-evil.json](./122020-incoming-evil.json) |
 | Incoming War | 211979 | [211979-incoming-war.json](./211979-incoming-war.json) |
 | Incoming! | 67893 | [67893-incoming.json](./67893-incoming.json) |
 | Incompatible Fusion Machine | 312585 | [312585-incompatible-fusion-machine.json](./312585-incompatible-fusion-machine.json) |
@@ -2825,6 +2826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infection: Board Game | 147906 | [147906-infection-board-game.json](./147906-infection-board-game.json) |
 | Infection: Humanity's Last Gasp | 34907 | [34907-infection-humanitys-last-gasp.json](./34907-infection-humanitys-last-gasp.json) |
 | Infectious | 148939 | [148939-infectious.json](./148939-infectious.json) |
+| Infectis | 121978 | [121978-infectis.json](./121978-infectis.json) |
 | Infecto | 89934 | [89934-infecto.json](./89934-infecto.json) |
 | Infectonator | 200728 | [200728-infectonator.json](./200728-infectonator.json) |
 | Infectonator 2 | 95939 | [95939-infectonator-2.json](./95939-infectonator-2.json) |
