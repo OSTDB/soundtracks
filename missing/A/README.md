@@ -6906,6 +6906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anbar | 387545 | [387545-anbar.json](./387545-anbar.json) |
 | Anceder | 105204 | [105204-anceder.json](./105204-anceder.json) |
 | Ancestor's Legacy: Conqueror's Edition | 202221 | [202221-ancestors-legacy-conquerors-edition.json](./202221-ancestors-legacy-conquerors-edition.json) |
+| Ancestors Legacy: Day One Edition | 139851 | [139851-ancestors-legacy-day-one-edition.json](./139851-ancestors-legacy-day-one-edition.json) |
 | Ancestors Legacy: Saladin's Conquest | 122203 | [122203-ancestors-legacy-saladins-conquest.json](./122203-ancestors-legacy-saladins-conquest.json) |
 | Ancestors Legacy: Special Edition | 124820 | [124820-ancestors-legacy-special-edition.json](./124820-ancestors-legacy-special-edition.json) |
 | Ancestory | 13193 | [13193-ancestory.json](./13193-ancestory.json) |
@@ -9786,6 +9787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana: Seal of Rimsala | 312351 | [312351-arcana-seal-of-rimsala.json](./312351-arcana-seal-of-rimsala.json) |
 | Arcanamals | 274477 | [274477-arcanamals.json](./274477-arcanamals.json) |
 | Arcanard | 342479 | [342479-arcanard.json](./342479-arcanard.json) |
+| Arcanbreak | 139662 | [139662-arcanbreak.json](./139662-arcanbreak.json) |
 | Arcane | 271797 | [271797-arcane.json](./271797-arcane.json) |
 | Arcane | 31163 | [31163-arcane.json](./31163-arcane.json) |
 | Arcane Angler | 400238 | [400238-arcane-angler.json](./400238-arcane-angler.json) |
