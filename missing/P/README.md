@@ -2111,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Saboteurs: After Party | 130364 | [130364-party-saboteurs-after-party.json](./130364-party-saboteurs-after-party.json) |
 | Party Stars | 309181 | [309181-party-stars.json](./309181-party-stars.json) |
 | Party Talk Simulator | 183232 | [183232-party-talk-simulator.json](./183232-party-talk-simulator.json) |
+| Party Treats | 125055 | [125055-party-treats.json](./125055-party-treats.json) |
 | Party Versus | 326770 | [326770-party-versus.json](./326770-party-versus.json) |
 | Party Wave | 234506 | [234506-party-wave.json](./234506-party-wave.json) |
 | Party Words | 207543 | [207543-party-words.json](./207543-party-words.json) |
@@ -6879,6 +6880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Apocalypse | 169748 | [169748-pizza-apocalypse.json](./169748-pizza-apocalypse.json) |
 | Pizza at Resort 64 | 394367 | [394367-pizza-at-resort-64.json](./394367-pizza-at-resort-64.json) |
 | Pizza Bandit | 258559 | [258559-pizza-bandit.json](./258559-pizza-bandit.json) |
+| Pizza Bar Tycoon | 125058 | [125058-pizza-bar-tycoon.json](./125058-pizza-bar-tycoon.json) |
 | Pizza Bar Tycoon: Complete Edition | 222235 | [222235-pizza-bar-tycoon-complete-edition.json](./222235-pizza-bar-tycoon-complete-edition.json) |
 | Pizza Bar Tycoon: Discovery Edition | 330205 | [330205-pizza-bar-tycoon-discovery-edition.json](./330205-pizza-bar-tycoon-discovery-edition.json) |
 | Pizza Bar Tycoon: Expansion Pack 1 | 237977 | [237977-pizza-bar-tycoon-expansion-pack-1.json](./237977-pizza-bar-tycoon-expansion-pack-1.json) |
@@ -7878,6 +7880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunder Islands | 239486 | [239486-plunder-islands.json](./239486-plunder-islands.json) |
 | Plunder Kings | 114149 | [114149-plunder-kings.json](./114149-plunder-kings.json) |
 | Plunder Masters | 250789 | [250789-plunder-masters.json](./250789-plunder-masters.json) |
+| Plunder Pack | 125032 | [125032-plunder-pack.json](./125032-plunder-pack.json) |
 | Plunder Panic | 97965 | [97965-plunder-panic.json](./97965-plunder-panic.json) |
 | Plunder Protocol | 420544 | [420544-plunder-protocol.json](./420544-plunder-protocol.json) |
 | Plunder Squad | 107797 | [107797-plunder-squad.json](./107797-plunder-squad.json) |
@@ -10237,6 +10240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post-Shift 2 | 225791 | [225791-post-shift-2.json](./225791-post-shift-2.json) |
 | Post-Soviet Yandere | 159838 | [159838-post-soviet-yandere.json](./159838-post-soviet-yandere.json) |
 | Post/Capitalism | 139165 | [139165-post-capitalism.json](./139165-post-capitalism.json) |
+| Postal | 125023 | [125023-postal.json](./125023-postal.json) |
 | Postal 2 Redux | 349433 | [349433-postal-2-redux.json](./349433-postal-2-redux.json) |
 | Postal 2 VR | 335134 | [335134-postal-2-vr.json](./335134-postal-2-vr.json) |
 | Postal 2: A Very Postal Christmas | 129788 | [129788-postal-2-a-very-postal-christmas.json](./129788-postal-2-a-very-postal-christmas.json) |
@@ -10244,6 +10248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal 2: Apocalypse Weekend | 3131 | [3131-postal-2-apocalypse-weekend.json](./3131-postal-2-apocalypse-weekend.json) |
 | Postal 2: CO-OP | 360077 | [360077-postal-2-co-op.json](./360077-postal-2-co-op.json) |
 | Postal 2: Corkscrew RuLes! | 125026 | [125026-postal-2-corkscrew-rules.json](./125026-postal-2-corkscrew-rules.json) |
+| Postal Babes | 125024 | [125024-postal-babes.json](./125024-postal-babes.json) |
 | Postal F: The Thursday Expansion - A Mod for Friday Night Funkin'. | 298715 | [298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json](./298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json) |
 | Postal III | 3110 | [3110-postal-iii.json](./3110-postal-iii.json) |
 | Postal: Brain Damaged - These Sunny Daze | 347105 | [347105-postal-brain-damaged-these-sunny-daze.json](./347105-postal-brain-damaged-these-sunny-daze.json) |
@@ -10839,6 +10844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predictile | 304890 | [304890-predictile.json](./304890-predictile.json) |
 | Prediction Game | 255019 | [255019-prediction-game.json](./255019-prediction-game.json) |
 | Predictors | 219666 | [219666-predictors.json](./219666-predictors.json) |
+| Predimension | 125047 | [125047-predimension.json](./125047-predimension.json) |
 | Preekarity | 319653 | [319653-preekarity.json](./319653-preekarity.json) |
 | Pref Club | 80796 | [80796-pref-club.json](./80796-pref-club.json) |
 | Preface: Undiscovered World | 324577 | [324577-preface-undiscovered-world.json](./324577-preface-undiscovered-world.json) |
@@ -11322,6 +11328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Evangile W Happiness | 140525 | [140525-princess-evangile-w-happiness.json](./140525-princess-evangile-w-happiness.json) |
 | Princess Evangile W Happiness | 43360 | [43360-princess-evangile-w-happiness.json](./43360-princess-evangile-w-happiness.json) |
 | Princess Fantasy Catventure | 410887 | [410887-princess-fantasy-catventure.json](./410887-princess-fantasy-catventure.json) |
+| Princess Hit! | 125071 | [125071-princess-hit.json](./125071-princess-hit.json) |
 | Princess Home | 227243 | [227243-princess-home.json](./227243-princess-home.json) |
 | Princess in Airiness | 160161 | [160161-princess-in-airiness.json](./160161-princess-in-airiness.json) |
 | Princess in Love | 67663 | [67663-princess-in-love.json](./67663-princess-in-love.json) |
