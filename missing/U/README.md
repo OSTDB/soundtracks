@@ -2261,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsolved Crimes | 21376 | [21376-unsolved-crimes.json](./21376-unsolved-crimes.json) |
 | Unsolved Mystery Club: Amelia Earhart | 120819 | [120819-unsolved-mystery-club-amelia-earhart.json](./120819-unsolved-mystery-club-amelia-earhart.json) |
 | Unsolved Mystery Club: Ancient Astronauts | 140256 | [140256-unsolved-mystery-club-ancient-astronauts.json](./140256-unsolved-mystery-club-ancient-astronauts.json) |
+| Unsolved Mystery Club: Ancient Astronauts - Collector's Edition | 120050 | [120050-unsolved-mystery-club-ancient-astronauts-collectors-edition.json](./120050-unsolved-mystery-club-ancient-astronauts-collectors-edition.json) |
 | Unsolved Stories | 86535 | [86535-unsolved-stories.json](./86535-unsolved-stories.json) |
 | Unsorted Horror | 258669 | [258669-unsorted-horror.json](./258669-unsorted-horror.json) |
 | Unsorted VHS | 214425 | [214425-unsorted-vhs.json](./214425-unsorted-vhs.json) |
@@ -2327,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until Last Breath | 148539 | [148539-until-last-breath.json](./148539-until-last-breath.json) |
 | Until None Remain VR | 68365 | [68365-until-none-remain-vr.json](./68365-until-none-remain-vr.json) |
 | Until None Remain: Battle Royale VR | 74556 | [74556-until-none-remain-battle-royale-vr.json](./74556-until-none-remain-battle-royale-vr.json) |
+| Until September | 120047 | [120047-until-september.json](./120047-until-september.json) |
 | Until the End | 201051 | [201051-until-the-end.json](./201051-until-the-end.json) |
 | Until the Last Philomel | 399077 | [399077-until-the-last-philomel.json](./399077-until-the-last-philomel.json) |
 | Until the Last Plane 1942 | 278347 | [278347-until-the-last-plane-1942.json](./278347-until-the-last-plane-1942.json) |
@@ -2805,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Usual | 296624 | [296624-usual.json](./296624-usual.json) |
 | Usual John | 105141 | [105141-usual-john.json](./105141-usual-john.json) |
 | Usual June | 279615 | [279615-usual-june.json](./279615-usual-june.json) |
+| Usurpator | 120025 | [120025-usurpator.json](./120025-usurpator.json) |
 | Usurper | 267788 | [267788-usurper.json](./267788-usurper.json) |
 | Usurper | 345530 | [345530-usurper.json](./345530-usurper.json) |
 | Usurper Ghoul | 316688 | [316688-usurper-ghoul.json](./316688-usurper-ghoul.json) |
