@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hate Plus | 16542 | [16542-hate-plus.json](./16542-hate-plus.json) |
 | Hate You | 346394 | [346394-hate-you.json](./346394-hate-you.json) |
 | Hateful Days | 292424 | [292424-hateful-days.json](./292424-hateful-days.json) |
+| Haters | 149263 | [149263-haters.json](./149263-haters.json) |
 | Haters, kill them all! | 86540 | [86540-haters-kill-them-all.json](./86540-haters-kill-them-all.json) |
 | Hatetris | 280702 | [280702-hatetris.json](./280702-hatetris.json) |
 | Hatfall | 11818 | [11818-hatfall.json](./11818-hatfall.json) |
@@ -3227,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's Mouth | 223387 | [223387-hells-mouth.json](./223387-hells-mouth.json) |
 | Hell's New World | 217513 | [217513-hells-new-world.json](./217513-hells-new-world.json) |
 | Hell's On Hold | 300544 | [300544-hells-on-hold.json](./300544-hells-on-hold.json) |
+| Hell's Revenge 3D | 149348 | [149348-hells-revenge-3d.json](./149348-hells-revenge-3d.json) |
 | Hell's Scream | 290532 | [290532-hells-scream.json](./290532-hells-scream.json) |
 | Hell`s Little Story 2 | 109757 | [109757-hell-s-little-story-2.json](./109757-hell-s-little-story-2.json) |
 | Hellbanger | 116162 | [116162-hellbanger.json](./116162-hellbanger.json) |
@@ -6361,6 +6363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | History: Great Empires - Rome | 20694 | [20694-history-great-empires-rome.json](./20694-history-great-empires-rome.json) |
 | History: Ice Road Truckers | 66890 | [66890-history-ice-road-truckers.json](./66890-history-ice-road-truckers.json) |
 | History's Ice Road Truckers | 105530 | [105530-historys-ice-road-truckers.json](./105530-historys-ice-road-truckers.json) |
+| HistoryMaker VR | 149347 | [149347-historymaker-vr.json](./149347-historymaker-vr.json) |
 | Hisui no Kikai | 186839 | [186839-hisui-no-kikai.json](./186839-hisui-no-kikai.json) |
 | Hit | 208059 | [208059-hit.json](./208059-hit.json) |
 | Hit | 358300 | [358300-hit.json](./358300-hit.json) |
