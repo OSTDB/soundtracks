@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Abyss | 312573 | [312573-league-of-abyss.json](./312573-league-of-abyss.json) |
 | League of Angels | 23610 | [23610-league-of-angels.json](./23610-league-of-angels.json) |
 | League of Angels II | 21603 | [21603-league-of-angels-ii.json](./21603-league-of-angels-ii.json) |
+| League of Angels III | 112047 | [112047-league-of-angels-iii.json](./112047-league-of-angels-iii.json) |
 | League of Angels: Pact | 254046 | [254046-league-of-angels-pact.json](./254046-league-of-angels-pact.json) |
 | League of Battle | 50522 | [50522-league-of-battle.json](./50522-league-of-battle.json) |
 | League of Battleship: Thunder War | 181584 | [181584-league-of-battleship-thunder-war.json](./181584-league-of-battleship-thunder-war.json) |
