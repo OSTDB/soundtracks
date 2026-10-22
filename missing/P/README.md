@@ -4562,7 +4562,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pic Nic do Mickey | 281884 | [281884-pic-nic-do-mickey.json](./281884-pic-nic-do-mickey.json) |
 | Pic Pic | 85344 | [85344-pic-pic.json](./85344-pic-pic.json) |
 | Pic-A-Block | 361462 | [361462-pic-a-block.json](./361462-pic-a-block.json) |
+| Pic-a-Pix Classic 2 | 140423 | [140423-pic-a-pix-classic-2.json](./140423-pic-a-pix-classic-2.json) |
 | Pic-a-Pix Color 2 | 120799 | [120799-pic-a-pix-color-2.json](./120799-pic-a-pix-color-2.json) |
+| Pic-a-Pix Pieces 2 | 140424 | [140424-pic-a-pix-pieces-2.json](./140424-pic-a-pix-pieces-2.json) |
 | Pic-a-Pix Pieces: 15x15 Pieces Pack 1 | 404289 | [404289-pic-a-pix-pieces-15x15-pieces-pack-1.json](./404289-pic-a-pix-pieces-15x15-pieces-pack-1.json) |
 | Pic-a-Pix Pieces: 15x15 Pieces Pack 10 | 404290 | [404290-pic-a-pix-pieces-15x15-pieces-pack-10.json](./404290-pic-a-pix-pieces-15x15-pieces-pack-10.json) |
 | Pic-a-Pix Pieces: 15x15 Pieces Pack 11 | 404291 | [404291-pic-a-pix-pieces-15x15-pieces-pack-11.json](./404291-pic-a-pix-pieces-15x15-pieces-pack-11.json) |
@@ -5207,6 +5209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin City | 236344 | [236344-pin-city.json](./236344-pin-city.json) |
 | Pin Climb | 318755 | [318755-pin-climb.json](./318755-pin-climb.json) |
 | Pin Crasher | 258989 | [258989-pin-crasher.json](./258989-pin-crasher.json) |
+| Pin Hockey: Ice Arena | 140409 | [140409-pin-hockey-ice-arena.json](./140409-pin-hockey-ice-arena.json) |
 | Pin Pong | 18155 | [18155-pin-pong.json](./18155-pin-pong.json) |
 | Pin Strike | 315807 | [315807-pin-strike.json](./315807-pin-strike.json) |
 | Pin Strike 2 | 375421 | [375421-pin-strike-2.json](./375421-pin-strike-2.json) |
@@ -6328,6 +6331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Panic | 285902 | [285902-pixel-panic.json](./285902-pixel-panic.json) |
 | Pixel Petals | 269218 | [269218-pixel-petals.json](./269218-pixel-petals.json) |
 | Pixel Petkeeper | 213838 | [213838-pixel-petkeeper.json](./213838-pixel-petkeeper.json) |
+| Pixel Petz | 140428 | [140428-pixel-petz.json](./140428-pixel-petz.json) |
 | Pixel Pileup Party | 130201 | [130201-pixel-pileup-party.json](./130201-pixel-pileup-party.json) |
 | Pixel Piracy Online | 270040 | [270040-pixel-piracy-online.json](./270040-pixel-piracy-online.json) |
 | Pixel Pirate | 195572 | [195572-pixel-pirate.json](./195572-pixel-pirate.json) |
