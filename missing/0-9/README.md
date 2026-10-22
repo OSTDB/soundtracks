@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | {Undefined} | 159190 | [159190-undefined.json](./159190-undefined.json) |
 | @ Home Mate | 22467 | [22467-home-mate.json](./22467-home-mate.json) |
 | @Card SD Gundam Gaiden | 130888 | [130888-card-sd-gundam-gaiden.json](./130888-card-sd-gundam-gaiden.json) |
+| @Simple V Series Vol.1 - The Docodemo Gal Mahjong | 141475 | [141475-simple-v-series-vol-1-the-docodemo-gal-mahjong.json](./141475-simple-v-series-vol-1-the-docodemo-gal-mahjong.json) |
 | *Hello, Planet. | 142744 | [142744-hello-planet.json](./142744-hello-planet.json) |
 | *N Sync: Get to the Show | 94742 | [94742-n-sync-get-to-the-show.json](./94742-n-sync-get-to-the-show.json) |
 | //Todo: today | 112283 | [112283-todo-today.json](./112283-todo-today.json) |
