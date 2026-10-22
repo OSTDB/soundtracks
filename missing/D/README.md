@@ -546,12 +546,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Central Spotlight: Mark Ronson ft. Bruno Mars - "Uptown Funk" | 353210 | [353210-dance-central-spotlight-mark-ronson-ft-bruno-mars-uptown-funk.json](./353210-dance-central-spotlight-mark-ronson-ft-bruno-mars-uptown-funk.json) |
 | Dance Central Spotlight: The Pussycat Dolls ft. Busta Rhymes - "Don't Cha" | 353211 | [353211-dance-central-spotlight-the-pussycat-dolls-ft-busta-rhymes-dont-cha.json](./353211-dance-central-spotlight-the-pussycat-dolls-ft-busta-rhymes-dont-cha.json) |
 | Dance Cube | 277186 | [277186-dance-cube.json](./277186-dance-cube.json) |
+| Dance Dance Revolution | 135549 | [135549-dance-dance-revolution.json](./135549-dance-dance-revolution.json) |
 | Dance Dance Revolution | 140274 | [140274-dance-dance-revolution.json](./140274-dance-dance-revolution.json) |
 | Dance Dance Revolution | 250255 | [250255-dance-dance-revolution.json](./250255-dance-dance-revolution.json) |
 | Dance Dance Revolution 2nd Mix: Dreamcast Edition | 268647 | [268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json](./268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json) |
 | Dance Dance Revolution 2ndMix | 77640 | [77640-dance-dance-revolution-2ndmix.json](./77640-dance-dance-revolution-2ndmix.json) |
 | Dance Dance Revolution 2ndReMix: Append Club Version Vol. 1 | 132807 | [132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json](./132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json) |
 | Dance Dance Revolution A | 58120 | [58120-dance-dance-revolution-a.json](./58120-dance-dance-revolution-a.json) |
+| Dance Dance Revolution A20 Plus | 135550 | [135550-dance-dance-revolution-a20-plus.json](./135550-dance-dance-revolution-a20-plus.json) |
 | Dance Dance Revolution Best Hits | 132809 | [132809-dance-dance-revolution-best-hits.json](./132809-dance-dance-revolution-best-hits.json) |
 | Dance Dance Revolution Dance Wars | 3681 | [3681-dance-dance-revolution-dance-wars.json](./3681-dance-dance-revolution-dance-wars.json) |
 | Dance Dance Revolution Disney Mix | 44796 | [44796-dance-dance-revolution-disney-mix.json](./44796-dance-dance-revolution-disney-mix.json) |
@@ -566,6 +568,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution Mario Mix | 3680 | [3680-dance-dance-revolution-mario-mix.json](./3680-dance-dance-revolution-mario-mix.json) |
 | Dance Dance Revolution Mario Mix 2 | 201163 | [201163-dance-dance-revolution-mario-mix-2.json](./201163-dance-dance-revolution-mario-mix-2.json) |
 | Dance Dance Revolution Party Collection | 139244 | [139244-dance-dance-revolution-party-collection.json](./139244-dance-dance-revolution-party-collection.json) |
+| Dance Dance Revolution Solo 2000 | 135510 | [135510-dance-dance-revolution-solo-2000.json](./135510-dance-dance-revolution-solo-2000.json) |
+| Dance Dance Revolution Solo Bass Mix | 135509 | [135509-dance-dance-revolution-solo-bass-mix.json](./135509-dance-dance-revolution-solo-bass-mix.json) |
 | Dance Dance Revolution STR!KE | 128003 | [128003-dance-dance-revolution-str-ke.json](./128003-dance-dance-revolution-str-ke.json) |
 | Dance Dance Revolution Supernova | 6779 | [6779-dance-dance-revolution-supernova.json](./6779-dance-dance-revolution-supernova.json) |
 | Dance Dance Revolution Supernova 2 | 6780 | [6780-dance-dance-revolution-supernova-2.json](./6780-dance-dance-revolution-supernova-2.json) |
@@ -1206,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Forest: Lost Story VR | 164923 | [164923-dark-forest-lost-story-vr.json](./164923-dark-forest-lost-story-vr.json) |
 | Dark Forest: The Horror | 181038 | [181038-dark-forest-the-horror.json](./181038-dark-forest-the-horror.json) |
 | Dark Forester | 35760 | [35760-dark-forester.json](./35760-dark-forester.json) |
+| Dark Fracture | 135732 | [135732-dark-fracture.json](./135732-dark-fracture.json) |
 | Dark Frame | 159561 | [159561-dark-frame.json](./159561-dark-frame.json) |
 | Dark Front | 378597 | [378597-dark-front.json](./378597-dark-front.json) |
 | Dark Frontiers | 203362 | [203362-dark-frontiers.json](./203362-dark-frontiers.json) |
@@ -1527,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Undergrowth | 402801 | [402801-dark-undergrowth.json](./402801-dark-undergrowth.json) |
 | Dark Universe | 256893 | [256893-dark-universe.json](./256893-dark-universe.json) |
 | Dark Universe | 69798 | [69798-dark-universe.json](./69798-dark-universe.json) |
+| Dark Valiance | 135499 | [135499-dark-valiance.json](./135499-dark-valiance.json) |
 | Dark Vampires: The Shadows of Dust | 346472 | [346472-dark-vampires-the-shadows-of-dust.json](./346472-dark-vampires-the-shadows-of-dust.json) |
 | Dark Vengeance | 51368 | [51368-dark-vengeance.json](./51368-dark-vengeance.json) |
 | Dark Visit | 103446 | [103446-dark-visit.json](./103446-dark-visit.json) |
@@ -5262,6 +5268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depression Level 50 | 362878 | [362878-depression-level-50.json](./362878-depression-level-50.json) |
 | Depression Presented Ludically in the Style of a Videogame | 342905 | [342905-depression-presented-ludically-in-the-style-of-a-videogame.json](./342905-depression-presented-ludically-in-the-style-of-a-videogame.json) |
 | Depression the Game | 103456 | [103456-depression-the-game.json](./103456-depression-the-game.json) |
+| Depreston | 135742 | [135742-depreston.json](./135742-depreston.json) |
 | Deprision | 325707 | [325707-deprision.json](./325707-deprision.json) |
 | Deprived | 390754 | [390754-deprived.json](./390754-deprived.json) |
 | Depth | 11291 | [11291-depth.json](./11291-depth.json) |
@@ -7787,6 +7794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovery Kids: Puppy Playtime | 72894 | [72894-discovery-kids-puppy-playtime.json](./72894-discovery-kids-puppy-playtime.json) |
 | Discovery Kids: Spider Quest | 67308 | [67308-discovery-kids-spider-quest.json](./67308-discovery-kids-spider-quest.json) |
 | Discovery Tour Bundle by Assassin's Creed | 218999 | [218999-discovery-tour-bundle-by-assassins-creed.json](./218999-discovery-tour-bundle-by-assassins-creed.json) |
+| Discovery Tour: Ancient Egypt | 135506 | [135506-discovery-tour-ancient-egypt.json](./135506-discovery-tour-ancient-egypt.json) |
 | Discovery Tour: Ancient Greece | 133962 | [133962-discovery-tour-ancient-greece.json](./133962-discovery-tour-ancient-greece.json) |
 | Discovery Tour: Viking Age | 152231 | [152231-discovery-tour-viking-age.json](./152231-discovery-tour-viking-age.json) |
 | Discovery Yard Investigation | 149368 | [149368-discovery-yard-investigation.json](./149368-discovery-yard-investigation.json) |
@@ -13051,6 +13059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DropMix | 71592 | [71592-dropmix.json](./71592-dropmix.json) |
 | Dropoff | 410269 | [410269-dropoff.json](./410269-dropoff.json) |
 | Dropped into the Modern World: Surviving the Red-Light District | 311623 | [311623-dropped-into-the-modern-world-surviving-the-red-light-district.json](./311623-dropped-into-the-modern-world-surviving-the-red-light-district.json) |
+| Dropper | 135551 | [135551-dropper.json](./135551-dropper.json) |
 | Drops of God: Creating your Ambrosia | 291378 | [291378-drops-of-god-creating-your-ambrosia.json](./291378-drops-of-god-creating-your-ambrosia.json) |
 | Dropship: United Peace Force | 44723 | [44723-dropship-united-peace-force.json](./44723-dropship-united-peace-force.json) |
 | Dropshipping Simulator | 155993 | [155993-dropshipping-simulator.json](./155993-dropshipping-simulator.json) |
@@ -14129,6 +14138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Tails | 114735 | [114735-dungeon-tails.json](./114735-dungeon-tails.json) |
 | Dungeon Tale | 260006 | [260006-dungeon-tale.json](./260006-dungeon-tale.json) |
 | Dungeon Tales: RPG Card Game | 121732 | [121732-dungeon-tales-rpg-card-game.json](./121732-dungeon-tales-rpg-card-game.json) |
+| Dungeon Throne | 135723 | [135723-dungeon-throne.json](./135723-dungeon-throne.json) |
 | Dungeon Thrones: Rise of Slimes | 336576 | [336576-dungeon-thrones-rise-of-slimes.json](./336576-dungeon-thrones-rise-of-slimes.json) |
 | Dungeon Tiles | 58235 | [58235-dungeon-tiles.json](./58235-dungeon-tiles.json) |
 | Dungeon Tiny Hunter | 308908 | [308908-dungeon-tiny-hunter.json](./308908-dungeon-tiny-hunter.json) |
@@ -14641,6 +14651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dweep | 180148 | [180148-dweep.json](./180148-dweep.json) |
 | Dwell | 394155 | [394155-dwell.json](./394155-dwell.json) |
 | Dweller | 229239 | [229239-dweller.json](./229239-dweller.json) |
+| Dweller's Empty Path | 135734 | [135734-dwellers-empty-path.json](./135734-dwellers-empty-path.json) |
 | Dwelling | 309365 | [309365-dwelling.json](./309365-dwelling.json) |
 | Dwellink: War of the Nine | 301331 | [301331-dwellink-war-of-the-nine.json](./301331-dwellink-war-of-the-nine.json) |
 | Dwelp | 128547 | [128547-dwelp.json](./128547-dwelp.json) |
