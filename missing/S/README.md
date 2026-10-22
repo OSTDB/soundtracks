@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saban's VR Troopers | 19718 | [19718-sabans-vr-troopers.json](./19718-sabans-vr-troopers.json) |
 | Sabat Fight Arena | 116110 | [116110-sabat-fight-arena.json](./116110-sabat-fight-arena.json) |
 | Sabbat of the Witch | 105342 | [105342-sabbat-of-the-witch.json](./105342-sabbat-of-the-witch.json) |
+| Sabbat: Director's Kvt | 128873 | [128873-sabbat-directors-kvt.json](./128873-sabbat-directors-kvt.json) |
 | Sabbath | 275548 | [275548-sabbath.json](./275548-sabbath.json) |
 | Saber Fight VR | 127529 | [127529-saber-fight-vr.json](./127529-saber-fight-vr.json) |
 | Saber Marionette J: Battle Sabers | 44821 | [44821-saber-marionette-j-battle-sabers.json](./44821-saber-marionette-j-battle-sabers.json) |
@@ -4737,6 +4738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven of Heart | 176989 | [176989-seven-of-heart.json](./176989-seven-of-heart.json) |
 | Seven Photos | 122945 | [122945-seven-photos.json](./122945-seven-photos.json) |
 | Seven Pirates H | 192281 | [192281-seven-pirates-h.json](./192281-seven-pirates-h.json) |
+| Seven Red Lines | 128837 | [128837-seven-red-lines.json](./128837-seven-red-lines.json) |
 | Seven Sacrifices | 107402 | [107402-seven-sacrifices.json](./107402-seven-sacrifices.json) |
 | Seven Scrolls | 228928 | [228928-seven-scrolls.json](./228928-seven-scrolls.json) |
 | Seven Seas Jewels 2: Collector's Edition | 398822 | [398822-seven-seas-jewels-2-collectors-edition.json](./398822-seven-seas-jewels-2-collectors-edition.json) |
@@ -5764,6 +5766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaper Runners | 231903 | [231903-shaper-runners.json](./231903-shaper-runners.json) |
 | ShapeRockets | 31196 | [31196-shaperockets.json](./31196-shaperockets.json) |
 | Shaperoid | 105503 | [105503-shaperoid.json](./105503-shaperoid.json) |
+| Shapes 'N' Mates | 128831 | [128831-shapes-n-mates.json](./128831-shapes-n-mates.json) |
 | Shapes & Colors Farm Puzzles | 175095 | [175095-shapes-and-colors-farm-puzzles.json](./175095-shapes-and-colors-farm-puzzles.json) |
 | Shapes & Colors Learning: Free Toddler Kids Games | 89822 | [89822-shapes-and-colors-learning-free-toddler-kids-games.json](./89822-shapes-and-colors-learning-free-toddler-kids-games.json) |
 | Shapes and Patterns | 285871 | [285871-shapes-and-patterns.json](./285871-shapes-and-patterns.json) |
@@ -11081,6 +11084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Out Colony | 373130 | [373130-smash-out-colony.json](./373130-smash-out-colony.json) |
 | Smash Out! | 81175 | [81175-smash-out.json](./81175-smash-out.json) |
 | Smash Pixel Racing | 33154 | [33154-smash-pixel-racing.json](./33154-smash-pixel-racing.json) |
+| Smash Puck | 128885 | [128885-smash-puck.json](./128885-smash-puck.json) |
 | Smash Realm | 402941 | [402941-smash-realm.json](./402941-smash-realm.json) |
 | Smash Remix | 132637 | [132637-smash-remix.json](./132637-smash-remix.json) |
 | Smash Remix +Extra | 413132 | [413132-smash-remix-extra.json](./413132-smash-remix-extra.json) |
@@ -15809,6 +15813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceScape | 154871 | [154871-spacescape.json](./154871-spacescape.json) |
 | Spacesheep | 356047 | [356047-spacesheep.json](./356047-spacesheep.json) |
 | SpaceShift | 393610 | [393610-spaceshift.json](./393610-spaceshift.json) |
+| Spaceship Carptain | 128824 | [128824-spaceship-carptain.json](./128824-spaceship-carptain.json) |
 | Spaceship Commander | 124694 | [124694-spaceship-commander.json](./124694-spaceship-commander.json) |
 | Spaceship Curse | 147634 | [147634-spaceship-curse.json](./147634-spaceship-curse.json) |
 | Spaceship Down | 346220 | [346220-spaceship-down.json](./346220-spaceship-down.json) |
@@ -21788,6 +21793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: Capcom Pro Tour 2022 Premier Pass | 332661 | [332661-street-fighter-v-capcom-pro-tour-2022-premier-pass.json](./332661-street-fighter-v-capcom-pro-tour-2022-premier-pass.json) |
 | Street Fighter V: Champion Edition - All Character Pack | 201034 | [201034-street-fighter-v-champion-edition-all-character-pack.json](./201034-street-fighter-v-champion-edition-all-character-pack.json) |
 | Street Fighter V: Cody Travers | 322209 | [322209-street-fighter-v-cody-travers.json](./322209-street-fighter-v-cody-travers.json) |
+| Street Fighter V: Collector's Edition | 128866 | [128866-street-fighter-v-collectors-edition.json](./128866-street-fighter-v-collectors-edition.json) |
 | Street Fighter V: Cyber Akuma Skin | 318196 | [318196-street-fighter-v-cyber-akuma-skin.json](./318196-street-fighter-v-cyber-akuma-skin.json) |
 | Street Fighter V: Dan Hibiki | 262471 | [262471-street-fighter-v-dan-hibiki.json](./262471-street-fighter-v-dan-hibiki.json) |
 | Street Fighter V: E.Honda | 264489 | [264489-street-fighter-v-e-honda.json](./264489-street-fighter-v-e-honda.json) |
@@ -23955,6 +23961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dash | 302361 | [302361-super-dash.json](./302361-super-dash.json) |
 | Super Dash Ball | 286634 | [286634-super-dash-ball.json](./286634-super-dash-ball.json) |
 | Super Dashmatch | 95586 | [95586-super-dashmatch.json](./95586-super-dashmatch.json) |
+| Super Dashy Knight | 128849 | [128849-super-dashy-knight.json](./128849-super-dashy-knight.json) |
 | Super Dassalo Land | 313971 | [313971-super-dassalo-land.json](./313971-super-dassalo-land.json) |
 | Super Dead Rising 3 Arcade Remix | 21879 | [21879-super-dead-rising-3-arcade-remix.json](./21879-super-dead-rising-3-arcade-remix.json) |
 | Super Death Arena | 30126 | [30126-super-death-arena.json](./30126-super-death-arena.json) |
@@ -25294,6 +25301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzle Platformer Deluxe | 20997 | [20997-super-puzzle-platformer-deluxe.json](./20997-super-puzzle-platformer-deluxe.json) |
 | Super Puzzle Sisters | 30737 | [30737-super-puzzle-sisters.json](./30737-super-puzzle-sisters.json) |
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
+| Super Qube Hopper | 128857 | [128857-super-qube-hopper.json](./128857-super-qube-hopper.json) |
 | Super QuickHook | 78901 | [78901-super-quickhook.json](./78901-super-quickhook.json) |
 | Super R.B.I. Baseball | 5332 | [5332-super-r-b-i-baseball.json](./5332-super-r-b-i-baseball.json) |
 | Super Rabbit | 246482 | [246482-super-rabbit.json](./246482-super-rabbit.json) |
