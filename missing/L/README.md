@@ -2236,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Eisenwald: Road to Iron Forest | 51842 | [51842-legends-of-eisenwald-road-to-iron-forest.json](./51842-legends-of-eisenwald-road-to-iron-forest.json) |
 | Legends of Elementia | 262957 | [262957-legends-of-elementia.json](./262957-legends-of-elementia.json) |
 | Legends of Elumia | 330891 | [330891-legends-of-elumia.json](./330891-legends-of-elumia.json) |
+| Legends of Ethernal | 109311 | [109311-legends-of-ethernal.json](./109311-legends-of-ethernal.json) |
 | Legends of Exidia | 67152 | [67152-legends-of-exidia.json](./67152-legends-of-exidia.json) |
 | Legends of Fate | 50857 | [50857-legends-of-fate.json](./50857-legends-of-fate.json) |
 | Legends of Future Past | 65515 | [65515-legends-of-future-past.json](./65515-legends-of-future-past.json) |
@@ -4412,6 +4413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquid Space | 127078 | [127078-liquid-space.json](./127078-liquid-space.json) |
 | Liquid Space | 264554 | [264554-liquid-space.json](./264554-liquid-space.json) |
 | Liquid Sugar | 357193 | [357193-liquid-sugar.json](./357193-liquid-sugar.json) |
+| Liquid Sunshine | 109299 | [109299-liquid-sunshine.json](./109299-liquid-sunshine.json) |
 | Liquid War | 51250 | [51250-liquid-war.json](./51250-liquid-war.json) |
 | Liquidation | 168703 | [168703-liquidation.json](./168703-liquidation.json) |
 | Liquidator | 72446 | [72446-liquidator.json](./72446-liquidator.json) |
