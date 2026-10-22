@@ -16071,6 +16071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Mission | 175822 | [175822-special-mission.json](./175822-special-mission.json) |
 | Special Mission | 360512 | [360512-special-mission.json](./360512-special-mission.json) |
 | Special Operation 85: Hostage Rescue | 191673 | [191673-special-operation-85-hostage-rescue.json](./191673-special-operation-85-hostage-rescue.json) |
+| Special Operations | 131865 | [131865-special-operations.json](./131865-special-operations.json) |
 | Special Ops | 223908 | [223908-special-ops.json](./223908-special-ops.json) |
 | Special Ops | 271266 | [271266-special-ops.json](./271266-special-ops.json) |
 | Special Sampler | 55925 | [55925-special-sampler.json](./55925-special-sampler.json) |
