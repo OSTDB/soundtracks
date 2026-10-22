@@ -4746,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Red Dais | 252036 | [252036-behind-the-red-dais.json](./252036-behind-the-red-dais.json) |
 | Behind the Reflection | 52446 | [52446-behind-the-reflection.json](./52446-behind-the-reflection.json) |
 | Behind the Reflection 2: Witch's Revenge | 52445 | [52445-behind-the-reflection-2-witchs-revenge.json](./52445-behind-the-reflection-2-witchs-revenge.json) |
+| Behind the Screen | 106892 | [106892-behind-the-screen.json](./106892-behind-the-screen.json) |
 | Behind the Screen & Defoliation | 194974 | [194974-behind-the-screen-and-defoliation.json](./194974-behind-the-screen-and-defoliation.json) |
 | Behind the Smile | 374800 | [374800-behind-the-smile.json](./374800-behind-the-smile.json) |
 | Behind The Truth | 83954 | [83954-behind-the-truth.json](./83954-behind-the-truth.json) |
@@ -5643,6 +5644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibidi Bibidi! | 352229 | [352229-bibidi-bibidi.json](./352229-bibidi-bibidi.json) |
 | Bible Black: The Infection | 72571 | [72571-bible-black-the-infection.json](./72571-bible-black-the-infection.json) |
 | Bible Buffet | 11163 | [11163-bible-buffet.json](./11163-bible-buffet.json) |
+| Bible Games: Mission of Paul | 106937 | [106937-bible-games-mission-of-paul.json](./106937-bible-games-mission-of-paul.json) |
 | Bible Master | 299818 | [299818-bible-master.json](./299818-bible-master.json) |
 | Bible Master 2: The Chaos of Aglia | 299819 | [299819-bible-master-2-the-chaos-of-aglia.json](./299819-bible-master-2-the-chaos-of-aglia.json) |
 | Bible Puzzle | 319723 | [319723-bible-puzzle.json](./319723-bible-puzzle.json) |
