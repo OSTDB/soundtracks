@@ -6937,6 +6937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory of Souls | 314378 | [314378-memory-of-souls.json](./314378-memory-of-souls.json) |
 | Memory of The Waters | 277496 | [277496-memory-of-the-waters.json](./277496-memory-of-the-waters.json) |
 | Memory of Time | 339123 | [339123-memory-of-time.json](./339123-memory-of-time.json) |
+| Memory of Torenia | 118632 | [118632-memory-of-torenia.json](./118632-memory-of-torenia.json) |
 | Memory Patches | 264660 | [264660-memory-patches.json](./264660-memory-patches.json) |
 | Memory Puzzle Adventure | 285893 | [285893-memory-puzzle-adventure.json](./285893-memory-puzzle-adventure.json) |
 | Memory Puzzle: Futanari Boss | 212983 | [212983-memory-puzzle-futanari-boss.json](./212983-memory-puzzle-futanari-boss.json) |
@@ -7009,6 +7010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men of War: Vietnam - Special Edition | 51835 | [51835-men-of-war-vietnam-special-edition.json](./51835-men-of-war-vietnam-special-edition.json) |
 | Men on the Flying Trapeze | 250217 | [250217-men-on-the-flying-trapeze.json](./250217-men-on-the-flying-trapeze.json) |
 | Men's Room Mayhem | 52590 | [52590-mens-room-mayhem.json](./52590-mens-room-mayhem.json) |
+| MENA Speed | 118663 | [118663-mena-speed.json](./118663-mena-speed.json) |
 | Menace | 262664 | [262664-menace.json](./262664-menace.json) |
 | Menace | 8064 | [8064-menace.json](./8064-menace.json) |
 | Menace Beach | 11167 | [11167-menace-beach.json](./11167-menace-beach.json) |
