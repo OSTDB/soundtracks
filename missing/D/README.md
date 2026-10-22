@@ -3854,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decision: Medieval | 95933 | [95933-decision-medieval.json](./95933-decision-medieval.json) |
 | Decision: Red Daze | 152780 | [152780-decision-red-daze.json](./152780-decision-red-daze.json) |
 | Decisions | 114879 | [114879-decisions.json](./114879-decisions.json) |
+| Decisions - Choose Your Interactive Stories 2018 | 106914 | [106914-decisions-choose-your-interactive-stories-2018.json](./106914-decisions-choose-your-interactive-stories-2018.json) |
 | Decisive Battles of the American Civil War, Volume One | 54516 | [54516-decisive-battles-of-the-american-civil-war-volume-one.json](./54516-decisive-battles-of-the-american-civil-war-volume-one.json) |
 | Decisive Battles of the American Civil War, Volume Three | 54518 | [54518-decisive-battles-of-the-american-civil-war-volume-three.json](./54518-decisive-battles-of-the-american-civil-war-volume-three.json) |
 | Decisive Battles of the American Civil War, Volume Two | 54517 | [54517-decisive-battles-of-the-american-civil-war-volume-two.json](./54517-decisive-battles-of-the-american-civil-war-volume-two.json) |
@@ -9944,6 +9945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Konga 3: Tabehoudai! Haru Mogitate 50 Kyoku | 3891 | [3891-donkey-konga-3-tabehoudai-haru-mogitate-50-kyoku.json](./3891-donkey-konga-3-tabehoudai-haru-mogitate-50-kyoku.json) |
 | Donkey Konga Beat | 231646 | [231646-donkey-konga-beat.json](./231646-donkey-konga-beat.json) |
 | Donkey Konk | 231608 | [231608-donkey-konk.json](./231608-donkey-konk.json) |
+| Donkey Master | 106885 | [106885-donkey-master.json](./106885-donkey-master.json) |
 | Donkey Quiz | 263406 | [263406-donkey-quiz.json](./263406-donkey-quiz.json) |
 | Donkey Racing | 248057 | [248057-donkey-racing.json](./248057-donkey-racing.json) |
 | Donkey Xote | 61341 | [61341-donkey-xote.json](./61341-donkey-xote.json) |
@@ -13165,6 +13167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Point: Alaska | 63688 | [63688-drop-point-alaska.json](./63688-drop-point-alaska.json) |
 | Drop Pop | 386981 | [386981-drop-pop.json](./386981-drop-pop.json) |
 | Drop That Cat | 330399 | [330399-drop-that-cat.json](./330399-drop-that-cat.json) |
+| Drop the Ballz | 106932 | [106932-drop-the-ballz.json](./106932-drop-the-ballz.json) |
 | Drop the Bomb | 99587 | [99587-drop-the-bomb.json](./99587-drop-the-bomb.json) |
 | Drop the Number | 216214 | [216214-drop-the-number.json](./216214-drop-the-number.json) |
 | Drop Up | 106497 | [106497-drop-up.json](./106497-drop-up.json) |
@@ -14240,6 +14243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Settlers | 288782 | [288782-dungeon-settlers.json](./288782-dungeon-settlers.json) |
 | Dungeon Shifters | 364507 | [364507-dungeon-shifters.json](./364507-dungeon-shifters.json) |
 | Dungeon Shooter | 104715 | [104715-dungeon-shooter.json](./104715-dungeon-shooter.json) |
+| Dungeon Shooter V1.1 | 106931 | [106931-dungeon-shooter-v1-1.json](./106931-dungeon-shooter-v1-1.json) |
 | Dungeon Shooter: Dark Temple | 234580 | [234580-dungeon-shooter-dark-temple.json](./234580-dungeon-shooter-dark-temple.json) |
 | Dungeon Shooting | 129516 | [129516-dungeon-shooting.json](./129516-dungeon-shooting.json) |
 | Dungeon Siege Collection | 154612 | [154612-dungeon-siege-collection.json](./154612-dungeon-siege-collection.json) |
