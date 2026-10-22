@@ -2030,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waters of Ragnarok | 403653 | [403653-waters-of-ragnarok.json](./403653-waters-of-ragnarok.json) |
 | Waterscape Solitaire: American Falls | 416139 | [416139-waterscape-solitaire-american-falls.json](./416139-waterscape-solitaire-american-falls.json) |
 | Watership Down | 398498 | [398498-watership-down.json](./398498-watership-down.json) |
+| Waterside Chirping | 105017 | [105017-waterside-chirping.json](./105017-waterside-chirping.json) |
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
 | WaterWays | 67881 | [67881-waterways.json](./67881-waterways.json) |
 | Waterworks! | 182757 | [182757-waterworks.json](./182757-waterworks.json) |
