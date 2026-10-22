@@ -2432,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basket Random | 204351 | [204351-basket-random.json](./204351-basket-random.json) |
 | Basket Wall | 102714 | [102714-basket-wall.json](./102714-basket-wall.json) |
 | Basket Zombie | 282137 | [282137-basket-zombie.json](./282137-basket-zombie.json) |
+| Basketball | 103835 | [103835-basketball.json](./103835-basketball.json) |
 | Basketball | 109471 | [109471-basketball.json](./109471-basketball.json) |
 | Basketball | 131516 | [131516-basketball.json](./131516-basketball.json) |
 | Basketball | 131531 | [131531-basketball.json](./131531-basketball.json) |
@@ -2736,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlantis | 38544 | [38544-battlantis.json](./38544-battlantis.json) |
 | Battle | 333448 | [333448-battle.json](./333448-battle.json) |
 | Battle | 344392 | [344392-battle.json](./344392-battle.json) |
+| Battle 100 | 103818 | [103818-battle-100.json](./103818-battle-100.json) |
 | Battle 3D: Robots Sky | 138169 | [138169-battle-3d-robots-sky.json](./138169-battle-3d-robots-sky.json) |
 | Battle Academy | 200206 | [200206-battle-academy.json](./200206-battle-academy.json) |
 | Battle Academy | 328037 | [328037-battle-academy.json](./328037-battle-academy.json) |
@@ -5536,6 +5538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Legend: Mysteries of Olympus | 106968 | [106968-beyond-the-legend-mysteries-of-olympus.json](./106968-beyond-the-legend-mysteries-of-olympus.json) |
 | Beyond the Lens | 244738 | [244738-beyond-the-lens.json](./244738-beyond-the-lens.json) |
 | Beyond the Marion | 338233 | [338233-beyond-the-marion.json](./338233-beyond-the-marion.json) |
+| Beyond the Mind | 103837 | [103837-beyond-the-mind.json](./103837-beyond-the-mind.json) |
 | Beyond The Mist: Beginnings | 327908 | [327908-beyond-the-mist-beginnings.json](./327908-beyond-the-mist-beginnings.json) |
 | Beyond the Mountains | 244201 | [244201-beyond-the-mountains.json](./244201-beyond-the-mountains.json) |
 | Beyond the Oaks | 270019 | [270019-beyond-the-oaks.json](./270019-beyond-the-oaks.json) |
@@ -11061,6 +11064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box-In | 290100 | [290100-box-in.json](./290100-box-in.json) |
 | Box: Boxing | 149328 | [149328-box-boxing.json](./149328-box-boxing.json) |
 | BOX: Space Station | 147383 | [147383-box-space-station.json](./147383-box-space-station.json) |
+| Box: The Game | 103805 | [103805-box-the-game.json](./103805-box-the-game.json) |
 | Box's Dream | 186741 | [186741-boxs-dream.json](./186741-boxs-dream.json) |
 | Box2Glory | 110241 | [110241-box2glory.json](./110241-box2glory.json) |
 | BoxBoxBoy! | 19598 | [19598-boxboxboy.json](./19598-boxboxboy.json) |
@@ -14114,6 +14118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Tour: Great Leaders - Lincoln | 170234 | [170234-business-tour-great-leaders-lincoln.json](./170234-business-tour-great-leaders-lincoln.json) |
 | Business Tour: Great Leaders - Napoleon | 170235 | [170235-business-tour-great-leaders-napoleon.json](./170235-business-tour-great-leaders-napoleon.json) |
 | Business Tycoon | 12409 | [12409-business-tycoon.json](./12409-business-tycoon.json) |
+| Business Tycoon Billionaire | 103823 | [103823-business-tycoon-billionaire.json](./103823-business-tycoon-billionaire.json) |
 | Business Wars: The Card Game | 133113 | [133113-business-wars-the-card-game.json](./133113-business-wars-the-card-game.json) |
 | BusinessMan | 52066 | [52066-businessman.json](./52066-businessman.json) |
 | Businessman Simulator | 402891 | [402891-businessman-simulator.json](./402891-businessman-simulator.json) |
