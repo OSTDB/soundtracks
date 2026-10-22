@@ -1498,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Minimal | 213249 | [213249-mahjong-minimal.json](./213249-mahjong-minimal.json) |
 | Mahjong Mojo 3D | 87070 | [87070-mahjong-mojo-3d.json](./87070-mahjong-mojo-3d.json) |
 | Mahjong Musou: Former Army | 302817 | [302817-mahjong-musou-former-army.json](./302817-mahjong-musou-former-army.json) |
+| Mahjong Nagomi | 152004 | [152004-mahjong-nagomi.json](./152004-mahjong-nagomi.json) |
 | Mahjong on the Beach | 305195 | [305195-mahjong-on-the-beach.json](./305195-mahjong-on-the-beach.json) |
 | Mahjong Ou Densetsu | 91932 | [91932-mahjong-ou-densetsu.json](./91932-mahjong-ou-densetsu.json) |
 | Mahjong Palace | 89230 | [89230-mahjong-palace.json](./89230-mahjong-palace.json) |
@@ -12168,6 +12169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Stories | 287848 | [287848-monster-hunter-stories.json](./287848-monster-hunter-stories.json) |
 | Monster Hunter Stories | 9692 | [9692-monster-hunter-stories.json](./9692-monster-hunter-stories.json) |
 | Monster Hunter Stories 2: Wings of Ruin | 138951 | [138951-monster-hunter-stories-2-wings-of-ruin.json](./138951-monster-hunter-stories-2-wings-of-ruin.json) |
+| Monster Hunter Stories 2: Wings of Ruin - Deluxe Edition | 152109 | [152109-monster-hunter-stories-2-wings-of-ruin-deluxe-edition.json](./152109-monster-hunter-stories-2-wings-of-ruin-deluxe-edition.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Accessory: Crystalline Ornament | 412286 | [412286-monster-hunter-stories-3-twisted-reflection-accessory-crystalline-ornament.json](./412286-monster-hunter-stories-3-twisted-reflection-accessory-crystalline-ornament.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Accessory: Fang Talisman | 412284 | [412284-monster-hunter-stories-3-twisted-reflection-accessory-fang-talisman.json](./412284-monster-hunter-stories-3-twisted-reflection-accessory-fang-talisman.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Accessory: Gold Circlet | 394805 | [394805-monster-hunter-stories-3-twisted-reflection-accessory-gold-circlet.json](./394805-monster-hunter-stories-3-twisted-reflection-accessory-gold-circlet.json) |
@@ -14962,6 +14964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muscle Princess 3 | 212820 | [212820-muscle-princess-3.json](./212820-muscle-princess-3.json) |
 | Muscle Ranking GB2: Mezase! Muscle Champion | 228583 | [228583-muscle-ranking-gb2-mezase-muscle-champion.json](./228583-muscle-ranking-gb2-mezase-muscle-champion.json) |
 | Muscle Ranking Vol. 3: Saikyou no Challenger Tanjou! | 209614 | [209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json](./209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json) |
+| Muscle World | 152096 | [152096-muscle-world.json](./152096-muscle-world.json) |
 | Muse | 333096 | [333096-muse.json](./333096-muse.json) |
 | Muse & Barbarian | 219667 | [219667-muse-and-barbarian.json](./219667-muse-and-barbarian.json) |
 | Muse Dash | 86316 | [86316-muse-dash.json](./86316-muse-dash.json) |
