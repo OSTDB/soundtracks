@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landorus Therian Dating Simulator | 330104 | [330104-landorus-therian-dating-simulator.json](./330104-landorus-therian-dating-simulator.json) |
 | LandPort | 201005 | [201005-landport.json](./201005-landport.json) |
 | Landrocker | 149513 | [149513-landrocker.json](./149513-landrocker.json) |
+| Lands 101 | 143550 | [143550-lands-101.json](./143550-lands-101.json) |
 | Lands of Achra | 347708 | [347708-lands-of-achra.json](./347708-lands-of-achra.json) |
 | Lands of Avaronia | 293681 | [293681-lands-of-avaronia.json](./293681-lands-of-avaronia.json) |
 | Lands of Devastation | 32697 | [32697-lands-of-devastation.json](./32697-lands-of-devastation.json) |
@@ -1394,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawless Lands: Smoking Sands | 167711 | [167711-lawless-lands-smoking-sands.json](./167711-lawless-lands-smoking-sands.json) |
 | Lawless Lands: Unrest | 167712 | [167712-lawless-lands-unrest.json](./167712-lawless-lands-unrest.json) |
 | Lawless Lands: Witchcraft | 277349 | [277349-lawless-lands-witchcraft.json](./277349-lawless-lands-witchcraft.json) |
+| Lawless Legends | 143545 | [143545-lawless-legends.json](./143545-lawless-legends.json) |
 | Lawless Racer: 2D Street Racing | 294379 | [294379-lawless-racer-2d-street-racing.json](./294379-lawless-racer-2d-street-racing.json) |
 | Lawless West | 226675 | [226675-lawless-west.json](./226675-lawless-west.json) |
 | Lawless: Blood and Dust | 360207 | [360207-lawless-blood-and-dust.json](./360207-lawless-blood-and-dust.json) |
@@ -3772,7 +3774,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightkeeper | 375543 | [375543-lightkeeper.json](./375543-lightkeeper.json) |
 | Lightlike | 176464 | [176464-lightlike.json](./176464-lightlike.json) |
 | Lightman | 121385 | [121385-lightman.json](./121385-lightman.json) |
-| Lightmatter | 113150 | [113150-lightmatter.json](./113150-lightmatter.json) |
 | Lightmatter Anniversary | 340919 | [340919-lightmatter-anniversary.json](./340919-lightmatter-anniversary.json) |
 | Lightner | 136242 | [136242-lightner.json](./136242-lightner.json) |
 | Lightners Live Plus | 347858 | [347858-lightners-live-plus.json](./347858-lightners-live-plus.json) |
@@ -3820,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights e Shades: Safìna | 216210 | [216210-lights-e-shades-safina.json](./216210-lights-e-shades-safina.json) |
 | Lights In The Sky | 310267 | [310267-lights-in-the-sky.json](./310267-lights-in-the-sky.json) |
 | Lights Off | 100159 | [100159-lights-off.json](./100159-lights-off.json) |
+| Lights Orb | 143316 | [143316-lights-orb.json](./143316-lights-orb.json) |
 | Lights Out | 199429 | [199429-lights-out.json](./199429-lights-out.json) |
 | Lights Out | 217183 | [217183-lights-out.json](./217183-lights-out.json) |
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
