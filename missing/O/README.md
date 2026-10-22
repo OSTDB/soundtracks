@@ -3288,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ornamental | 230739 | [230739-ornamental.json](./230739-ornamental.json) |
 | Ornélia | 403776 | [403776-ornelia.json](./403776-ornelia.json) |
 | Oroboro | 311203 | [311203-oroboro.json](./311203-oroboro.json) |
+| Oroborus: Planes of the Dead | 152709 | [152709-oroborus-planes-of-the-dead.json](./152709-oroborus-planes-of-the-dead.json) |
 | Ororo | 404983 | [404983-ororo.json](./404983-ororo.json) |
 | Orphan | 11580 | [11580-orphan.json](./11580-orphan.json) |
 | Orphan Black: The Game | 27724 | [27724-orphan-black-the-game.json](./27724-orphan-black-the-game.json) |
@@ -4313,6 +4314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overgrowth | 229559 | [229559-overgrowth.json](./229559-overgrowth.json) |
 | Overgun | 285447 | [285447-overgun.json](./285447-overgun.json) |
 | Overhatched | 410321 | [410321-overhatched.json](./410321-overhatched.json) |
+| Overhaul | 152712 | [152712-overhaul.json](./152712-overhaul.json) |
 | Overhead | 402256 | [402256-overhead.json](./402256-overhead.json) |
 | Overhead | 86745 | [86745-overhead.json](./86745-overhead.json) |
 | Overhead Kick | 248319 | [248319-overhead-kick.json](./248319-overhead-kick.json) |
