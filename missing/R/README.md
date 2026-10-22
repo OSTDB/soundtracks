@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raggie Run | 202130 | [202130-raggie-run.json](./202130-raggie-run.json) |
 | Raging Ball | 157511 | [157511-raging-ball.json](./157511-raging-ball.json) |
 | Raging Blades | 43324 | [43324-raging-blades.json](./43324-raging-blades.json) |
+| Raging Blasters | 142659 | [142659-raging-blasters.json](./142659-raging-blasters.json) |
 | Raging Bytes | 246079 | [246079-raging-bytes.json](./246079-raging-bytes.json) |
 | Raging Fighter | 48921 | [48921-raging-fighter.json](./48921-raging-fighter.json) |
 | Raging Fists: Retribution | 166723 | [166723-raging-fists-retribution.json](./166723-raging-fists-retribution.json) |
@@ -1397,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randnet Disk | 94725 | [94725-randnet-disk.json](./94725-randnet-disk.json) |
 | Rando'Knights | 275491 | [275491-randoknights.json](./275491-randoknights.json) |
 | Random Acts of Madness | 270173 | [270173-random-acts-of-madness.json](./270173-random-acts-of-madness.json) |
+| Random Card Defense | 143392 | [143392-random-card-defense.json](./143392-random-card-defense.json) |
 | Random Coin | 411083 | [411083-random-coin.json](./411083-random-coin.json) |
 | Random Core Defense | 310816 | [310816-random-core-defense.json](./310816-random-core-defense.json) |
 | Random Deck | 341309 | [341309-random-deck.json](./341309-random-deck.json) |
