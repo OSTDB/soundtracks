@@ -4876,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Elf | 207688 | [207688-island-elf.json](./207688-island-elf.json) |
 | Island Escape | 401901 | [401901-island-escape.json](./401901-island-escape.json) |
 | Island Escape 2 | 311583 | [311583-island-escape-2.json](./311583-island-escape-2.json) |
+| Island Escape: Survivor Z Kill | 108190 | [108190-island-escape-survivor-z-kill.json](./108190-island-escape-survivor-z-kill.json) |
 | Island Experiment | 27938 | [27938-island-experiment.json](./27938-island-experiment.json) |
 | Island Explorer VR | 133068 | [133068-island-explorer-vr.json](./133068-island-explorer-vr.json) |
 | Island Flight Simulator | 24747 | [24747-island-flight-simulator.json](./24747-island-flight-simulator.json) |
@@ -5278,6 +5279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Item Synthesis and Dungeon Exploration | 196124 | [196124-item-synthesis-and-dungeon-exploration.json](./196124-item-synthesis-and-dungeon-exploration.json) |
 | ItemDay | 244659 | [244659-itemday.json](./244659-itemday.json) |
 | Iter | 398493 | [398493-iter.json](./398493-iter.json) |
+| Iter Vehemens Ad Necem | 108171 | [108171-iter-vehemens-ad-necem.json](./108171-iter-vehemens-ad-necem.json) |
 | Iter-8 | 316071 | [316071-iter-8.json](./316071-iter-8.json) |
 | Iteration Factor | 154573 | [154573-iteration-factor.json](./154573-iteration-factor.json) |
 | Iterations | 310102 | [310102-iterations.json](./310102-iterations.json) |
