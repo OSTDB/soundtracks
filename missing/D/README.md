@@ -7767,6 +7767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples II: Rise of the Elves Gold | 224495 | [224495-disciples-ii-rise-of-the-elves-gold.json](./224495-disciples-ii-rise-of-the-elves-gold.json) |
 | Disciples II: Servants of the Dark | 11402 | [11402-disciples-ii-servants-of-the-dark.json](./11402-disciples-ii-servants-of-the-dark.json) |
 | Disciples III: Renaissance | 9824 | [9824-disciples-iii-renaissance.json](./9824-disciples-iii-renaissance.json) |
+| Disciples of Dawn | 119334 | [119334-disciples-of-dawn.json](./119334-disciples-of-dawn.json) |
 | Disciples of Steel | 71793 | [71793-disciples-of-steel.json](./71793-disciples-of-steel.json) |
 | Disciples of the Storm | 110236 | [110236-disciples-of-the-storm.json](./110236-disciples-of-the-storm.json) |
 | Disciples of Varahces | 263029 | [263029-disciples-of-varahces.json](./263029-disciples-of-varahces.json) |
@@ -10161,6 +10162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DOOM: Collector's Edition | 41614 | [41614-doom-collectors-edition.json](./41614-doom-collectors-edition.json) |
 | DOOM: Day One Edition | 136168 | [136168-doom-day-one-edition.json](./136168-doom-day-one-edition.json) |
 | DOOM: Enhanced Vanilla Project | 199416 | [199416-doom-enhanced-vanilla-project.json](./199416-doom-enhanced-vanilla-project.json) |
+| Doom: Eternal - Collector's Edition | 119312 | [119312-doom-eternal-collectors-edition.json](./119312-doom-eternal-collectors-edition.json) |
 | DooM: Fall of Mars | 331655 | [331655-doom-fall-of-mars.json](./331655-doom-fall-of-mars.json) |
 | Doom: Hell Followed | 25571 | [25571-doom-hell-followed.json](./25571-doom-hell-followed.json) |
 | DooM: Infernal Attack | 198352 | [198352-doom-infernal-attack.json](./198352-doom-infernal-attack.json) |
