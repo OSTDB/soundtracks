@@ -3318,6 +3318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vump Jump | 210927 | [210927-vump-jump.json](./210927-vump-jump.json) |
 | VVVV | 225771 | [225771-vvvv.json](./225771-vvvv.json) |
 | VVVVK: Rogue Vampire Hunter | 209017 | [209017-vvvvk-rogue-vampire-hunter.json](./209017-vvvvk-rogue-vampire-hunter.json) |
+| VVVVV | 128234 | [128234-vvvvv.json](./128234-vvvvv.json) |
 | VVVVVV | 1990 | [1990-vvvvvv.json](./1990-vvvvvv.json) |
 | Vwls: A Game About Vowels! | 233541 | [233541-vwls-a-game-about-vowels.json](./233541-vwls-a-game-about-vowels.json) |
 | VxVigilantes | 141022 | [141022-vxvigilantes.json](./141022-vxvigilantes.json) |
