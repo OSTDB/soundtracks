@@ -1396,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bally Pin | 130870 | [130870-bally-pin.json](./130870-bally-pin.json) |
 | Ballz | 305983 | [305983-ballz.json](./305983-ballz.json) |
 | BallZ | 230914 | [230914-ballz.json](./230914-ballz.json) |
+| Ballz Break | 104397 | [104397-ballz-break.json](./104397-ballz-break.json) |
 | Ballz Deep | 245286 | [245286-ballz-deep.json](./245286-ballz-deep.json) |
 | Ballz Drop | 105721 | [105721-ballz-drop.json](./105721-ballz-drop.json) |
 | Ballz Drop | 105795 | [105795-ballz-drop.json](./105795-ballz-drop.json) |
@@ -6269,6 +6270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Master | 201998 | [201998-bingo-master.json](./201998-bingo-master.json) |
 | Bingo Master | 206140 | [206140-bingo-master.json](./206140-bingo-master.json) |
 | Bingo Math | 92407 | [92407-bingo-math.json](./92407-bingo-math.json) |
+| Bingo Monster Mania: Spooky Adventures | 104412 | [104412-bingo-monster-mania-spooky-adventures.json](./104412-bingo-monster-mania-spooky-adventures.json) |
 | Bingo Party Deluxe | 84988 | [84988-bingo-party-deluxe.json](./84988-bingo-party-deluxe.json) |
 | Bingo Pets Mania: Cat Craze | 105525 | [105525-bingo-pets-mania-cat-craze.json](./105525-bingo-pets-mania-cat-craze.json) |
 | Bingo Pinball Gameroom | 260154 | [260154-bingo-pinball-gameroom.json](./260154-bingo-pinball-gameroom.json) |
@@ -10804,6 +10806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Jump Ball | 231974 | [231974-bouncy-jump-ball.json](./231974-bouncy-jump-ball.json) |
 | Bouncy Kingdoms | 397768 | [397768-bouncy-kingdoms.json](./397768-bouncy-kingdoms.json) |
 | Bouncy Pork Simulator | 339394 | [339394-bouncy-pork-simulator.json](./339394-bouncy-pork-simulator.json) |
+| Bouncy Ropes | 104429 | [104429-bouncy-ropes.json](./104429-bouncy-ropes.json) |
 | Bouncy Smash | 89184 | [89184-bouncy-smash.json](./89184-bouncy-smash.json) |
 | Bouncy Toys | 88655 | [88655-bouncy-toys.json](./88655-bouncy-toys.json) |
 | Bouncy! Trampoline | 233520 | [233520-bouncy-trampoline.json](./233520-bouncy-trampoline.json) |
@@ -14092,6 +14095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Empire | 400657 | [400657-business-empire.json](./400657-business-empire.json) |
 | Business Empire Tycoon | 309489 | [309489-business-empire-tycoon.json](./309489-business-empire-tycoon.json) |
 | Business Empire: RichMan | 280220 | [280220-business-empire-richman.json](./280220-business-empire-richman.json) |
+| Business Game: Monopolist | 104406 | [104406-business-game-monopolist.json](./104406-business-game-monopolist.json) |
 | Business Magnate | 112754 | [112754-business-magnate.json](./112754-business-magnate.json) |
 | Business Man 2000 | 69933 | [69933-business-man-2000.json](./69933-business-man-2000.json) |
 | Business Management | 400853 | [400853-business-management.json](./400853-business-management.json) |
