@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VCB: Why City 4k | 116467 | [116467-vcb-why-city-4k.json](./116467-vcb-why-city-4k.json) |
 | vCoder Hero | 127268 | [127268-vcoder-hero.json](./127268-vcoder-hero.json) |
 | VCTR-SCTR | 225596 | [225596-vctr-sctr.json](./225596-vctr-sctr.json) |
+| VCuber | 115366 | [115366-vcuber.json](./115366-vcuber.json) |
 | Vec Sports Boxing | 273284 | [273284-vec-sports-boxing.json](./273284-vec-sports-boxing.json) |
 | Vec-Man | 273908 | [273908-vec-man.json](./273908-vec-man.json) |
 | Veccol | 111535 | [111535-veccol.json](./111535-veccol.json) |
