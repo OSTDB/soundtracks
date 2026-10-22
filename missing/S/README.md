@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Cannon | 190108 | [190108-safari-cannon.json](./190108-safari-cannon.json) |
 | Safari Central | 95387 | [95387-safari-central.json](./95387-safari-central.json) |
 | Safari Chef | 249732 | [249732-safari-chef.json](./249732-safari-chef.json) |
+| Safari Grounds - The Wilpattu Leopard | 126264 | [126264-safari-grounds-the-wilpattu-leopard.json](./126264-safari-grounds-the-wilpattu-leopard.json) |
 | Safari Guns | 12758 | [12758-safari-guns.json](./12758-safari-guns.json) |
 | Safari Hunt | 94935 | [94935-safari-hunt.json](./94935-safari-hunt.json) |
 | Safari Hunt 2018 | 108513 | [108513-safari-hunt-2018.json](./108513-safari-hunt-2018.json) |
@@ -2713,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: November 2010 | 337593 | [337593-scp-november-2010.json](./337593-scp-november-2010.json) |
 | SCP: ReEnter | 377925 | [377925-scp-reenter.json](./377925-scp-reenter.json) |
 | SCP: Refinarium | 407500 | [407500-scp-refinarium.json](./407500-scp-refinarium.json) |
+| SCP: Resonance | 126252 | [126252-scp-resonance.json](./126252-scp-resonance.json) |
 | SCP: Rulebreaker | 279770 | [279770-scp-rulebreaker.json](./279770-scp-rulebreaker.json) |
 | SCP: Run For Freedom | 338266 | [338266-scp-run-for-freedom.json](./338266-scp-run-for-freedom.json) |
 | SCP: Secret Facility | 336353 | [336353-scp-secret-facility.json](./336353-scp-secret-facility.json) |
@@ -10336,6 +10338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
 | Slender-Man | 64424 | [64424-slender-man.json](./64424-slender-man.json) |
 | Slender: Adrift | 321330 | [321330-slender-adrift.json](./321330-slender-adrift.json) |
+| Slender: Anxiety | 126274 | [126274-slender-anxiety.json](./126274-slender-anxiety.json) |
 | Slender: Dark Woods | 321434 | [321434-slender-dark-woods.json](./321434-slender-dark-woods.json) |
 | Slender: Last Sleep | 309591 | [309591-slender-last-sleep.json](./309591-slender-last-sleep.json) |
 | Slender: Lonely Home | 126446 | [126446-slender-lonely-home.json](./126446-slender-lonely-home.json) |
@@ -25067,6 +25070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Minecraft 64 DS | 270381 | [270381-super-minecraft-64-ds.json](./270381-super-minecraft-64-ds.json) |
 | Super Miners | 333792 | [333792-super-miners.json](./333792-super-miners.json) |
 | Super MineSweeper | 309683 | [309683-super-minesweeper.json](./309683-super-minesweeper.json) |
+| Super Minesweeper Attack | 126250 | [126250-super-minesweeper-attack.json](./126250-super-minesweeper-attack.json) |
 | Super Mini Mart | 204530 | [204530-super-mini-mart.json](./204530-super-mini-mart.json) |
 | Super Mini Puzzle Heroes | 64711 | [64711-super-mini-puzzle-heroes.json](./64711-super-mini-puzzle-heroes.json) |
 | Super Mining Mechs | 319672 | [319672-super-mining-mechs.json](./319672-super-mining-mechs.json) |
