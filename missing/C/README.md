@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannons-Defenders: Steam Edition | 28903 | [28903-cannons-defenders-steam-edition.json](./28903-cannons-defenders-steam-edition.json) |
 | Cannonship | 167536 | [167536-cannonship.json](./167536-cannonship.json) |
 | Cannot Contain | 278711 | [278711-cannot-contain.json](./278711-cannot-contain.json) |
+| Canon: Legend of the New Gods | 150993 | [150993-canon-legend-of-the-new-gods.json](./150993-canon-legend-of-the-new-gods.json) |
 | CanopySim: Skydive Landing Simulation | 141788 | [141788-canopysim-skydive-landing-simulation.json](./141788-canopysim-skydive-landing-simulation.json) |
 | Cantaloupe Chronicle | 327389 | [327389-cantaloupe-chronicle.json](./327389-cantaloupe-chronicle.json) |
 | Cantarella: Dominion of Qualia | 386219 | [386219-cantarella-dominion-of-qualia.json](./386219-cantarella-dominion-of-qualia.json) |
@@ -7376,6 +7377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash for Crust | 310042 | [310042-clash-for-crust.json](./310042-clash-for-crust.json) |
 | Clash Force | 72405 | [72405-clash-force.json](./72405-clash-force.json) |
 | Clash Heroes | 145547 | [145547-clash-heroes.json](./145547-clash-heroes.json) |
+| Clash II | 150930 | [150930-clash-ii.json](./150930-clash-ii.json) |
 | Clash Memory Game | 158557 | [158557-clash-memory-game.json](./158557-clash-memory-game.json) |
 | Clash Mini | 172495 | [172495-clash-mini.json](./172495-clash-mini.json) |
 | Clash of Aliens | 175144 | [175144-clash-of-aliens.json](./175144-clash-of-aliens.json) |
@@ -10475,6 +10477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console War Giant | 380762 | [380762-console-war-giant.json](./380762-console-war-giant.json) |
 | Console War Giant | 407313 | [407313-console-war-giant.json](./407313-console-war-giant.json) |
 | Consonance | 374596 | [374596-consonance.json](./374596-consonance.json) |
+| Consortya | 150999 | [150999-consortya.json](./150999-consortya.json) |
 | Conspiracies of the Heart | 299004 | [299004-conspiracies-of-the-heart.json](./299004-conspiracies-of-the-heart.json) |
 | Conspiracy Crew | 312152 | [312152-conspiracy-crew.json](./312152-conspiracy-crew.json) |
 | Conspiracy Field: Fog Shadow | 163879 | [163879-conspiracy-field-fog-shadow.json](./163879-conspiracy-field-fog-shadow.json) |
