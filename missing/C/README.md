@@ -6570,6 +6570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunithm | 56388 | [56388-chunithm.json](./56388-chunithm.json) |
 | Chunithm Air | 154228 | [154228-chunithm-air.json](./154228-chunithm-air.json) |
 | Chunithm Air Plus | 154229 | [154229-chunithm-air-plus.json](./154229-chunithm-air-plus.json) |
+| Chunithm Crystal | 151998 | [151998-chunithm-crystal.json](./151998-chunithm-crystal.json) |
 | Chunithm Luminous | 281381 | [281381-chunithm-luminous.json](./281381-chunithm-luminous.json) |
 | Chunithm Luminous Plus | 309593 | [309593-chunithm-luminous-plus.json](./309593-chunithm-luminous-plus.json) |
 | Chunithm New Plus | 231771 | [231771-chunithm-new-plus.json](./231771-chunithm-new-plus.json) |
@@ -13662,6 +13663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossfire II | 170284 | [170284-crossfire-ii.json](./170284-crossfire-ii.json) |
 | Crossfire Zombie Survivor | 233457 | [233457-crossfire-zombie-survivor.json](./233457-crossfire-zombie-survivor.json) |
 | CrossFire: Legends | 102759 | [102759-crossfire-legends.json](./102759-crossfire-legends.json) |
+| Crossfire: Legion | 152088 | [152088-crossfire-legion.json](./152088-crossfire-legion.json) |
 | Crossfire: Sierra Squad | 229351 | [229351-crossfire-sierra-squad.json](./229351-crossfire-sierra-squad.json) |
 | Crossfire: The Multiplayer Adventure Game | 171544 | [171544-crossfire-the-multiplayer-adventure-game.json](./171544-crossfire-the-multiplayer-adventure-game.json) |
 | CrossfireX | 119307 | [119307-crossfirex.json](./119307-crossfirex.json) |
@@ -14178,6 +14180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptic Castle | 146854 | [146854-cryptic-castle.json](./146854-cryptic-castle.json) |
 | Cryptic Caverns | 173810 | [173810-cryptic-caverns.json](./173810-cryptic-caverns.json) |
 | Cryptic Clash | 182907 | [182907-cryptic-clash.json](./182907-cryptic-clash.json) |
+| Cryptic College | 152084 | [152084-cryptic-college.json](./152084-cryptic-college.json) |
 | Cryptic Crawlz | 321478 | [321478-cryptic-crawlz.json](./321478-cryptic-crawlz.json) |
 | Cryptic Encounters | 208803 | [208803-cryptic-encounters.json](./208803-cryptic-encounters.json) |
 | Cryptic Glaze Mirror | 391174 | [391174-cryptic-glaze-mirror.json](./391174-cryptic-glaze-mirror.json) |
