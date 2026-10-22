@@ -7434,6 +7434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Tribe: New Era | 309366 | [309366-dino-tribe-new-era.json](./309366-dino-tribe-new-era.json) |
 | Dino Trumps | 112075 | [112075-dino-trumps.json](./112075-dino-trumps.json) |
 | Dino V. Xeno | 238382 | [238382-dino-v-xeno.json](./238382-dino-v-xeno.json) |
+| Dino VR : Jurassic World | 108212 | [108212-dino-vr-jurassic-world.json](./108212-dino-vr-jurassic-world.json) |
 | Dino Wars | 23918 | [23918-dino-wars.json](./23918-dino-wars.json) |
 | Dino-D | 199479 | [199479-dino-d.json](./199479-dino-d.json) |
 | Dino-Sorcerer | 74072 | [74072-dino-sorcerer.json](./74072-dino-sorcerer.json) |
@@ -10584,6 +10585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dots: Revamped! | 120099 | [120099-dots-revamped.json](./120099-dots-revamped.json) |
 | Dots! | 171484 | [171484-dots.json](./171484-dots.json) |
 | DotSec | 329579 | [329579-dotsec.json](./329579-dotsec.json) |
+| DotsLine | 108188 | [108188-dotsline.json](./108188-dotsline.json) |
 | Dotso | 93165 | [93165-dotso.json](./93165-dotso.json) |
 | Dotster 2 | 102234 | [102234-dotster-2.json](./102234-dotster-2.json) |
 | DotStrike | 155947 | [155947-dotstrike.json](./155947-dotstrike.json) |
