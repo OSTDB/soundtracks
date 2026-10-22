@@ -3312,6 +3312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MarksmanVR | 28878 | [28878-marksmanvr.json](./28878-marksmanvr.json) |
 | Marktopia | 365154 | [365154-marktopia.json](./365154-marktopia.json) |
 | Markus Ritter: Ghosts of the Past | 235604 | [235604-markus-ritter-ghosts-of-the-past.json](./235604-markus-ritter-ghosts-of-the-past.json) |
+| Markus Ritter: The Lost Family | 154296 | [154296-markus-ritter-the-lost-family.json](./154296-markus-ritter-the-lost-family.json) |
 | Marl de Jigsaw | 165610 | [165610-marl-de-jigsaw.json](./165610-marl-de-jigsaw.json) |
 | Marl Jong!! | 165594 | [165594-marl-jong.json](./165594-marl-jong.json) |
 | Marlboro Go! | 253027 | [253027-marlboro-go.json](./253027-marlboro-go.json) |
@@ -4619,6 +4620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximus 2: Fantasy Beat-Em-Up | 196574 | [196574-maximus-2-fantasy-beat-em-up.json](./196574-maximus-2-fantasy-beat-em-up.json) |
 | Maximus 2: Street Gladiators | 237237 | [237237-maximus-2-street-gladiators.json](./237237-maximus-2-street-gladiators.json) |
 | Maxit | 78372 | [78372-maxit.json](./78372-maxit.json) |
+| Mǎxìtuán zhī Yè | 154334 | [154334-maxituan-zhi-ye.json](./154334-maxituan-zhi-ye.json) |
 | Maxo Scringle's "Human Rocket" Mini-Type Rocket Golf | 402367 | [402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json](./402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json) |
 | Maxoo 2 | 216412 | [216412-maxoo-2.json](./216412-maxoo-2.json) |
 | MaxPlay Classic Games Volume 1 | 3996 | [3996-maxplay-classic-games-volume-1.json](./3996-maxplay-classic-games-volume-1.json) |
@@ -9734,6 +9736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ming Dynasty: Cards & Court | 390606 | [390606-ming-dynasty-cards-and-court.json](./390606-ming-dynasty-cards-and-court.json) |
 | Míngjiào Fēngyún zhī Jiǔ Yīn Jiǔ Yáng | 155014 | [155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json](./155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json) |
 | Mingle | 214416 | [214416-mingle.json](./214416-mingle.json) |
+| Míngmíng Rú Yuè | 154333 | [154333-mingming-ru-yue.json](./154333-mingming-ru-yue.json) |
 | Mingy Jongo | 60609 | [60609-mingy-jongo.json](./60609-mingy-jongo.json) |
 | Mìngyùn Biānjì | 389498 | [389498-mingyun-bianji.json](./389498-mingyun-bianji.json) |
 | Mìngyùn de Yǐndǎozhě: Chuánshuō Bǎoshí | 394195 | [394195-mingyun-de-yindaozhe-chuanshuo-baoshi.json](./394195-mingyun-de-yindaozhe-chuanshuo-baoshi.json) |
@@ -13023,6 +13026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Than Just Chess | 75008 | [75008-more-than-just-chess.json](./75008-more-than-just-chess.json) |
 | More than u no | 182841 | [182841-more-than-u-no.json](./182841-more-than-u-no.json) |
 | More Than Words | 361720 | [361720-more-than-words.json](./361720-more-than-words.json) |
+| More the Eternal Utopia | 154292 | [154292-more-the-eternal-utopia.json](./154292-more-the-eternal-utopia.json) |
 | More Toast! | 256697 | [256697-more-toast.json](./256697-more-toast.json) |
 | More Zombies | 234905 | [234905-more-zombies.json](./234905-more-zombies.json) |
 | More/Less | 351044 | [351044-more-less.json](./351044-more-less.json) |
