@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-22T10:38:08.860Z",
-  "total_missing": 246115,
+  "generated_at": "2026-10-22T10:42:50.060Z",
+  "total_missing": 246108,
   "games": [
     {
       "igdb_id": 191680,
@@ -24587,11 +24587,6 @@
       "file": "missing/A/291326-ad-agency-simulator.json"
     },
     {
-      "igdb_id": 137679,
-      "game_name": "Ad Agency Tycoon",
-      "file": "missing/A/137679-ad-agency-tycoon.json"
-    },
-    {
       "igdb_id": 45371,
       "game_name": "Ad Astra",
       "file": "missing/A/45371-ad-astra.json"
@@ -28727,11 +28722,6 @@
       "file": "missing/A/44089-aetherspace.json"
     },
     {
-      "igdb_id": 270142,
-      "game_name": "Aethus",
-      "file": "missing/A/270142-aethus.json"
-    },
-    {
       "igdb_id": 122895,
       "game_name": "Aetolia",
       "file": "missing/A/122895-aetolia.json"
@@ -30115,11 +30105,6 @@
       "igdb_id": 349927,
       "game_name": "Against Twilight",
       "file": "missing/A/349927-against-twilight.json"
-    },
-    {
-      "igdb_id": 269042,
-      "game_name": "Agame",
-      "file": "missing/A/269042-agame.json"
     },
     {
       "igdb_id": 332833,
@@ -166282,11 +166267,6 @@
       "file": "missing/C/230555-cars-2.json"
     },
     {
-      "igdb_id": 4747,
-      "game_name": "Cars 2",
-      "file": "missing/C/4747-cars-2.json"
-    },
-    {
       "igdb_id": 125323,
       "game_name": "Cars 2 Racing Beena: Mezase! World Champion!",
       "file": "missing/C/125323-cars-2-racing-beena-mezase-world-champion.json"
@@ -298530,11 +298510,6 @@
       "igdb_id": 305098,
       "game_name": "Dredge: The Iron Rig",
       "file": "missing/D/305098-dredge-the-iron-rig.json"
-    },
-    {
-      "igdb_id": 270502,
-      "game_name": "Dredge: The Pale Reach",
-      "file": "missing/D/270502-dredge-the-pale-reach.json"
     },
     {
       "igdb_id": 395816,
@@ -962912,11 +962887,6 @@
       "file": "missing/S/247756-star-wars-heritage-pack.json"
     },
     {
-      "igdb_id": 143611,
-      "game_name": "Star Wars: Hunters",
-      "file": "missing/S/143611-star-wars-hunters.json"
-    },
-    {
       "igdb_id": 328991,
       "game_name": "Star Wars: Hunters - Frosty Nerf Herder Cosmetic Pack",
       "file": "missing/S/328991-star-wars-hunters-frosty-nerf-herder-cosmetic-pack.json"
@@ -1162035,11 +1162005,6 @@
       "igdb_id": 130255,
       "game_name": "Vigil of Glory - Part I",
       "file": "missing/V/130255-vigil-of-glory-part-i.json"
-    },
-    {
-      "igdb_id": 114485,
-      "game_name": "Vigil: The Longest Night",
-      "file": "missing/V/114485-vigil-the-longest-night.json"
     },
     {
       "igdb_id": 93480,
