@@ -6001,6 +6001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill & Ted's Excellent Adventure: The Computer Game! | 83911 | [83911-bill-and-teds-excellent-adventure-the-computer-game.json](./83911-bill-and-teds-excellent-adventure-the-computer-game.json) |
 | Bill & Ted's Excellent Game Boy Adventure | 290651 | [290651-bill-and-teds-excellent-game-boy-adventure.json](./290651-bill-and-teds-excellent-game-boy-adventure.json) |
 | Bill & Ted's Excellent Retro Collection: Collector's Edition | 207048 | [207048-bill-and-teds-excellent-retro-collection-collectors-edition.json](./207048-bill-and-teds-excellent-retro-collection-collectors-edition.json) |
+| Bill & Ted's Excellent Video Game Adventure | 155412 | [155412-bill-and-teds-excellent-video-game-adventure.json](./155412-bill-and-teds-excellent-video-game-adventure.json) |
 | Bill and Ted's Excellent Retro Collection | 203772 | [203772-bill-and-teds-excellent-retro-collection.json](./203772-bill-and-teds-excellent-retro-collection.json) |
 | Bill Belichick Offseason Simulator | 139151 | [139151-bill-belichick-offseason-simulator.json](./139151-bill-belichick-offseason-simulator.json) |
 | Bill Bounce | 231623 | [231623-bill-bounce.json](./231623-bill-bounce.json) |
@@ -12131,6 +12132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broadside | 34450 | [34450-broadside.json](./34450-broadside.json) |
 | Broadside Bets | 401617 | [401617-broadside-bets.json](./401617-broadside-bets.json) |
 | Broadside Renegades | 285372 | [285372-broadside-renegades.json](./285372-broadside-renegades.json) |
+| Broadside: Perilous Waters | 155418 | [155418-broadside-perilous-waters.json](./155418-broadside-perilous-waters.json) |
 | Broadsides | 23988 | [23988-broadsides.json](./23988-broadsides.json) |
 | Broadsword : Age of Chivalry | 17618 | [17618-broadsword-age-of-chivalry.json](./17618-broadsword-age-of-chivalry.json) |
 | Broadsword: Warlord Edition | 272779 | [272779-broadsword-warlord-edition.json](./272779-broadsword-warlord-edition.json) |
