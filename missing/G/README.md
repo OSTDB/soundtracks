@@ -2234,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generic Jumper | 107719 | [107719-generic-jumper.json](./107719-generic-jumper.json) |
 | Generic Kart Racing | 216424 | [216424-generic-kart-racing.json](./216424-generic-kart-racing.json) |
 | Generic nonbinary game | 176926 | [176926-generic-nonbinary-game.json](./176926-generic-nonbinary-game.json) |
+| Genesis | 112652 | [112652-genesis.json](./112652-genesis.json) |
 | Genesis | 127265 | [127265-genesis.json](./127265-genesis.json) |
 | Genesis | 141479 | [141479-genesis.json](./141479-genesis.json) |
 | Genesis | 144583 | [144583-genesis.json](./144583-genesis.json) |
@@ -3619,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give Me More Pills | 181094 | [181094-give-me-more-pills.json](./181094-give-me-more-pills.json) |
 | Give Me Strength | 165563 | [165563-give-me-strength.json](./165563-give-me-strength.json) |
 | Give Me Toilet Paper! | 240369 | [240369-give-me-toilet-paper.json](./240369-give-me-toilet-paper.json) |
+| Give Me Your Coins | 112686 | [112686-give-me-your-coins.json](./112686-give-me-your-coins.json) |
 | Give My Regards to Broad Street | 66710 | [66710-give-my-regards-to-broad-street.json](./66710-give-my-regards-to-broad-street.json) |
 | Give the People What They Want | 197189 | [197189-give-the-people-what-they-want.json](./197189-give-the-people-what-they-want.json) |
 | Give Up 2 | 250183 | [250183-give-up-2.json](./250183-give-up-2.json) |
@@ -3981,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glorp | 213290 | [213290-glorp.json](./213290-glorp.json) |
 | Glory | 171382 | [171382-glory.json](./171382-glory.json) |
 | Glory & Honor | 105263 | [105263-glory-and-honor.json](./105263-glory-and-honor.json) |
+| Glory Ages - Samurais | 112650 | [112650-glory-ages-samurais.json](./112650-glory-ages-samurais.json) |
 | Glory by Example | 31640 | [31640-glory-by-example.json](./31640-glory-by-example.json) |
 | Glory Days 2 | 21230 | [21230-glory-days-2.json](./21230-glory-days-2.json) |
 | Glory Days: Tactical Defense | 84509 | [84509-glory-days-tactical-defense.json](./84509-glory-days-tactical-defense.json) |
