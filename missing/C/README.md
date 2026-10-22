@@ -6453,6 +6453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of the Witches and Warlocks | 34614 | [34614-chronicles-of-the-witches-and-warlocks.json](./34614-chronicles-of-the-witches-and-warlocks.json) |
 | Chronicles of the Wolf | 258184 | [258184-chronicles-of-the-wolf.json](./258184-chronicles-of-the-wolf.json) |
 | Chronicles of Time: Timeline Zero | 239723 | [239723-chronicles-of-time-timeline-zero.json](./239723-chronicles-of-time-timeline-zero.json) |
+| Chronicles of Tsufanubra | 123252 | [123252-chronicles-of-tsufanubra.json](./123252-chronicles-of-tsufanubra.json) |
 | Chronicles of Ultiria | 338526 | [338526-chronicles-of-ultiria.json](./338526-chronicles-of-ultiria.json) |
 | Chronicles of Vaeltaja: In Search of the Great Wanderer | 250786 | [250786-chronicles-of-vaeltaja-in-search-of-the-great-wanderer.json](./250786-chronicles-of-vaeltaja-in-search-of-the-great-wanderer.json) |
 | Chronicles of Vinland | 81008 | [81008-chronicles-of-vinland.json](./81008-chronicles-of-vinland.json) |
@@ -6567,6 +6568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chu | 206554 | [206554-chu.json](./206554-chu.json) |
 | Chu Da D | 247391 | [247391-chu-da-d.json](./247391-chu-da-d.json) |
 | Chu x Chu Idol | 321408 | [321408-chu-x-chu-idol.json](./321408-chu-x-chu-idol.json) |
+| Chu-Teng | 123287 | [123287-chu-teng.json](./123287-chu-teng.json) |
 | Chu!! Karate Uranai Voxel | 407442 | [407442-chu-karate-uranai-voxel.json](./407442-chu-karate-uranai-voxel.json) |
 | Chu's Dynasty | 66164 | [66164-chus-dynasty.json](./66164-chus-dynasty.json) |
 | Chuǎngguān Shā II | 113019 | [113019-chuangguan-sha-ii.json](./113019-chuangguan-sha-ii.json) |
@@ -6777,6 +6779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinicross | 367828 | [367828-cinicross.json](./367828-cinicross.json) |
 | Cinnabar Nights | 314682 | [314682-cinnabar-nights.json](./314682-cinnabar-nights.json) |
 | Cinnabunny | 295008 | [295008-cinnabunny.json](./295008-cinnabunny.json) |
+| Cinnamon Ball: Kuru-kuru Sweets Paradise | 123299 | [123299-cinnamon-ball-kuru-kuru-sweets-paradise.json](./123299-cinnamon-ball-kuru-kuru-sweets-paradise.json) |
 | Cinnamon Tea | 57513 | [57513-cinnamon-tea.json](./57513-cinnamon-tea.json) |
 | Cinnamon: Yume no Daibouken | 49558 | [49558-cinnamon-yume-no-daibouken.json](./49558-cinnamon-yume-no-daibouken.json) |
 | Cinnamoroll: Ohanashi Shiyo!: Kirakira de Kore Cafe | 240908 | [240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json](./240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json) |
@@ -7700,6 +7703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clayers | 348326 | [348326-clayers.json](./348326-clayers.json) |
 | ClayFighter: Tournament Edition | 42616 | [42616-clayfighter-tournament-edition.json](./42616-clayfighter-tournament-edition.json) |
 | Claymates | 42623 | [42623-claymates.json](./42623-claymates.json) |
+| Claymore: Gingan no Majo | 123300 | [123300-claymore-gingan-no-majo.json](./123300-claymore-gingan-no-majo.json) |
 | Clayton's Quest | 72325 | [72325-claytons-quest.json](./72325-claytons-quest.json) |
 | ClayTown Horror | 217403 | [217403-claytown-horror.json](./217403-claytown-horror.json) |
 | Clayverse | 274903 | [274903-clayverse.json](./274903-clayverse.json) |
@@ -7803,6 +7807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clever Girl | 184639 | [184639-clever-girl.json](./184639-clever-girl.json) |
 | Clever Kids: Creepy Crawlies | 268113 | [268113-clever-kids-creepy-crawlies.json](./268113-clever-kids-creepy-crawlies.json) |
 | Clever Kids: Dino Land | 52504 | [52504-clever-kids-dino-land.json](./52504-clever-kids-dino-land.json) |
+| Clever Kids: Farmyard Fun | 123301 | [123301-clever-kids-farmyard-fun.json](./123301-clever-kids-farmyard-fun.json) |
 | Clever Kids: Pirates | 122904 | [122904-clever-kids-pirates.json](./122904-clever-kids-pirates.json) |
 | CleverMonkey | 253265 | [253265-clevermonkey.json](./253265-clevermonkey.json) |
 | Cliax Codec | 404970 | [404970-cliax-codec.json](./404970-cliax-codec.json) |
@@ -9082,6 +9087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Slam | 365698 | [365698-college-slam.json](./365698-college-slam.json) |
 | College Slam | 4541 | [4541-college-slam.json](./4541-college-slam.json) |
 | College Wrestling Manager 2026 | 384514 | [384514-college-wrestling-manager-2026.json](./384514-college-wrestling-manager-2026.json) |
+| Collide-a-Ball 2 | 123297 | [123297-collide-a-ball-2.json](./123297-collide-a-ball-2.json) |
 | Collider | 116268 | [116268-collider.json](./116268-collider.json) |
 | Colliderscope | 109673 | [109673-colliderscope.json](./109673-colliderscope.json) |
 | Colliding Forces | 63543 | [63543-colliding-forces.json](./63543-colliding-forces.json) |
@@ -10717,6 +10723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constructor360 | 90907 | [90907-constructor360.json](./90907-constructor360.json) |
 | Consult Me Before Opening A Snack Shop | 280350 | [280350-consult-me-before-opening-a-snack-shop.json](./280350-consult-me-before-opening-a-snack-shop.json) |
 | Consume | 179514 | [179514-consume.json](./179514-consume.json) |
+| Consume Me | 123255 | [123255-consume-me.json](./123255-consume-me.json) |
 | Consume Thy Flesh: The Pumpkin Smashing Sim | 189137 | [189137-consume-thy-flesh-the-pumpkin-smashing-sim.json](./189137-consume-thy-flesh-the-pumpkin-smashing-sim.json) |
 | Consummate:Missing World | 51974 | [51974-consummate-missing-world.json](./51974-consummate-missing-world.json) |
 | Consumption | 179537 | [179537-consumption.json](./179537-consumption.json) |
@@ -13463,6 +13470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Realms: Relics of the Forgotten World | 389959 | [389959-crimson-realms-relics-of-the-forgotten-world.json](./389959-crimson-realms-relics-of-the-forgotten-world.json) |
 | Crimson Rest | 368066 | [368066-crimson-rest.json](./368066-crimson-rest.json) |
 | Crimson Rite | 368906 | [368906-crimson-rite.json](./368906-crimson-rite.json) |
+| Crimson Room | 123296 | [123296-crimson-room.json](./123296-crimson-room.json) |
 | Crimson Room | 247536 | [247536-crimson-room.json](./247536-crimson-room.json) |
 | Crimson Room: Decade | 25809 | [25809-crimson-room-decade.json](./25809-crimson-room-decade.json) |
 | Crimson Room: Reverse | 67281 | [67281-crimson-room-reverse.json](./67281-crimson-room-reverse.json) |
