@@ -4623,6 +4623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Champions: Challenge from the Dark Side | 5383 | [5383-eternal-champions-challenge-from-the-dark-side.json](./5383-eternal-champions-challenge-from-the-dark-side.json) |
 | Eternal Chrysalis Dream | 395569 | [395569-eternal-chrysalis-dream.json](./395569-eternal-chrysalis-dream.json) |
 | Eternal City | 90889 | [90889-eternal-city.json](./90889-eternal-city.json) |
+| Eternal Concord | 122000 | [122000-eternal-concord.json](./122000-eternal-concord.json) |
 | Eternal Cycle | 148908 | [148908-eternal-cycle.json](./148908-eternal-cycle.json) |
 | Eternal Damnation | 262265 | [262265-eternal-damnation.json](./262265-eternal-damnation.json) |
 | Eternal Damnation | 264549 | [264549-eternal-damnation.json](./264549-eternal-damnation.json) |
