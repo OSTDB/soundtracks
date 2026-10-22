@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pancake House | 156698 | [156698-pancake-house.json](./156698-pancake-house.json) |
 | Pancake Patrol | 268967 | [268967-pancake-patrol.json](./268967-pancake-patrol.json) |
 | Pancake Sailor | 149333 | [149333-pancake-sailor.json](./149333-pancake-sailor.json) |
+| Pancake: The Game | 103856 | [103856-pancake-the-game.json](./103856-pancake-the-game.json) |
 | Panchin is Frustrated | 258875 | [258875-panchin-is-frustrated.json](./258875-panchin-is-frustrated.json) |
 | Panchito Chepas | 325639 | [325639-panchito-chepas.json](./325639-panchito-chepas.json) |
 | Panchito Delivery: Project Elevator | 416084 | [416084-panchito-delivery-project-elevator.json](./416084-panchito-delivery-project-elevator.json) |
@@ -3523,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peril in the Agency | 365061 | [365061-peril-in-the-agency.json](./365061-peril-in-the-agency.json) |
 | Perilous Light | 374259 | [374259-perilous-light.json](./374259-perilous-light.json) |
 | Perilous Warp | 140357 | [140357-perilous-warp.json](./140357-perilous-warp.json) |
+| Perils of Baking | 103846 | [103846-perils-of-baking.json](./103846-perils-of-baking.json) |
 | Perils of Man | 17998 | [17998-perils-of-man.json](./17998-perils-of-man.json) |
 | Perimbó | 349431 | [349431-perimbo.json](./349431-perimbo.json) |
 | Perimeter | 397689 | [397689-perimeter.json](./397689-perimeter.json) |
@@ -6057,6 +6059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates! | 267320 | [267320-pirates.json](./267320-pirates.json) |
 | Pirates! Gold | 9232 | [9232-pirates-gold.json](./9232-pirates-gold.json) |
 | Pirates! Gold Plus | 36216 | [36216-pirates-gold-plus.json](./36216-pirates-gold-plus.json) |
+| Pirates! Showdown | 103840 | [103840-pirates-showdown.json](./103840-pirates-showdown.json) |
 | Pirates! Showdown: Enhanced Edition | 289318 | [289318-pirates-showdown-enhanced-edition.json](./289318-pirates-showdown-enhanced-edition.json) |
 | PiratesBattle | 176302 | [176302-piratesbattle.json](./176302-piratesbattle.json) |
 | PirateWar | 312156 | [312156-piratewar.json](./312156-piratewar.json) |
@@ -7565,6 +7568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platonic | 192728 | [192728-platonic.json](./192728-platonic.json) |
 | Platonic Paranoia | 117863 | [117863-platonic-paranoia.json](./117863-platonic-paranoia.json) |
 | Platonically Mauled by a Magic Cougar | 225195 | [225195-platonically-mauled-by-a-magic-cougar.json](./225195-platonically-mauled-by-a-magic-cougar.json) |
+| PlatOnir | 103825 | [103825-platonir.json](./103825-platonir.json) |
 | Platoon | 290275 | [290275-platoon.json](./290275-platoon.json) |
 | Platoon | 372245 | [372245-platoon.json](./372245-platoon.json) |
 | Platoon | 79175 | [79175-platoon.json](./79175-platoon.json) |
@@ -7903,6 +7907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber Pickle | 392742 | [392742-plumber-pickle.json](./392742-plumber-pickle.json) |
 | Plumber Waluigi | 323352 | [323352-plumber-waluigi.json](./323352-plumber-waluigi.json) |
 | Plumber World | 403752 | [403752-plumber-world.json](./403752-plumber-world.json) |
+| Plumber: the Pipe Rush | 103822 | [103822-plumber-the-pipe-rush.json](./103822-plumber-the-pipe-rush.json) |
 | Plumber’s Legacy | 351772 | [351772-plumber-s-legacy.json](./351772-plumber-s-legacy.json) |
 | Plumbers Creed | 178667 | [178667-plumbers-creed.json](./178667-plumbers-creed.json) |
 | Plumbers Don't Wear Ties | 4251 | [4251-plumbers-dont-wear-ties.json](./4251-plumbers-dont-wear-ties.json) |
@@ -12064,6 +12069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Watts Memory Match: Yummy Cupcakes | 106643 | [106643-professor-watts-memory-match-yummy-cupcakes.json](./106643-professor-watts-memory-match-yummy-cupcakes.json) |
 | Professor Watts Word Search: Into the Ocean | 43084 | [43084-professor-watts-word-search-into-the-ocean.json](./43084-professor-watts-word-search-into-the-ocean.json) |
 | Professor Watts Word Search: Pirates Life | 103467 | [103467-professor-watts-word-search-pirates-life.json](./103467-professor-watts-word-search-pirates-life.json) |
+| Professor Watts Word Search: Space Voyage | 103820 | [103820-professor-watts-word-search-space-voyage.json](./103820-professor-watts-word-search-space-voyage.json) |
 | Professor Watts Word Search: Yummy Foods | 103468 | [103468-professor-watts-word-search-yummy-foods.json](./103468-professor-watts-word-search-yummy-foods.json) |
 | Professor Watts: Memory Match | 50760 | [50760-professor-watts-memory-match.json](./50760-professor-watts-memory-match.json) |
 | Professor Wise and His X-Ray Eyes | 209907 | [209907-professor-wise-and-his-x-ray-eyes.json](./209907-professor-wise-and-his-x-ray-eyes.json) |
