@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zipangu Jima: Unmei ha Saikoro ga Kimeru!? | 350188 | [350188-zipangu-jima-unmei-ha-saikoro-ga-kimeru.json](./350188-zipangu-jima-unmei-ha-saikoro-ga-kimeru.json) |
 | ZiParate | 218122 | [218122-ziparate.json](./218122-ziparate.json) |
 | Zipp's Café | 272389 | [272389-zipps-cafe.json](./272389-zipps-cafe.json) |
+| Zipper | 151981 | [151981-zipper.json](./151981-zipper.json) |
 | Zipper Amusement Ride | 104668 | [104668-zipper-amusement-ride.json](./104668-zipper-amusement-ride.json) |
 | Zipple World | 33755 | [33755-zipple-world.json](./33755-zipple-world.json) |
 | Zipple World 2: The Sweet Chaos | 33052 | [33052-zipple-world-2-the-sweet-chaos.json](./33052-zipple-world-2-the-sweet-chaos.json) |
