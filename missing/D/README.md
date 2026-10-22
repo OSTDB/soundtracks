@@ -7761,6 +7761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discover My Body | 153577 | [153577-discover-my-body.json](./153577-discover-my-body.json) |
 | Discover the Ocean | 229220 | [229220-discover-the-ocean.json](./229220-discover-the-ocean.json) |
 | Discover The World | 375321 | [375321-discover-the-world.json](./375321-discover-the-world.json) |
+| Discovered | 137519 | [137519-discovered.json](./137519-discovered.json) |
 | Discovering Colors - Animals (Coloring Book) | 106572 | [106572-discovering-colors-animals-coloring-book.json](./106572-discovering-colors-animals-coloring-book.json) |
 | Discovering Endangered Wildlife | 262258 | [262258-discovering-endangered-wildlife.json](./262258-discovering-endangered-wildlife.json) |
 | Discovering Galimore | 294154 | [294154-discovering-galimore.json](./294154-discovering-galimore.json) |
@@ -11269,6 +11270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: The Legacy of Goku II | 19834 | [19834-dragon-ball-z-the-legacy-of-goku-ii.json](./19834-dragon-ball-z-the-legacy-of-goku-ii.json) |
 | Dragon Ball Z: The Legacy Of Tenkaichi | 308554 | [308554-dragon-ball-z-the-legacy-of-tenkaichi.json](./308554-dragon-ball-z-the-legacy-of-tenkaichi.json) |
 | Dragon Ball Z: The Legend | 2579 | [2579-dragon-ball-z-the-legend.json](./2579-dragon-ball-z-the-legend.json) |
+| Dragon Ball Z: The Plan to Destroy the Saiyans | 137522 | [137522-dragon-ball-z-the-plan-to-destroy-the-saiyans.json](./137522-dragon-ball-z-the-plan-to-destroy-the-saiyans.json) |
 | Dragon Ball Z: V.R.V.S. | 2561 | [2561-dragon-ball-z-v-r-v-s.json](./2561-dragon-ball-z-v-r-v-s.json) |
 | Dragon Ball Z: W Bakuretsu Impact | 66914 | [66914-dragon-ball-z-w-bakuretsu-impact.json](./66914-dragon-ball-z-w-bakuretsu-impact.json) |
 | Dragon Ball Z: XKeeperZ | 98436 | [98436-dragon-ball-z-xkeeperz.json](./98436-dragon-ball-z-xkeeperz.json) |
