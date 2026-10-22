@@ -4419,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akiba Lost | 369701 | [369701-akiba-lost.json](./369701-akiba-lost.json) |
 | Akiba Lost: Digital Deluxe Edition | 418328 | [418328-akiba-lost-digital-deluxe-edition.json](./418328-akiba-lost-digital-deluxe-edition.json) |
 | Akiba's Beat | 19465 | [19465-akibas-beat.json](./19465-akibas-beat.json) |
+| Akiba's Trip Festa! | 148244 | [148244-akibas-trip-festa.json](./148244-akibas-trip-festa.json) |
 | Akiba’s Trip: First Memory - 10th Anniversary Edition | 142373 | [142373-akiba-s-trip-first-memory-10th-anniversary-edition.json](./142373-akiba-s-trip-first-memory-10th-anniversary-edition.json) |
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
 | Akiba's Trip: Undead & Undressed - Kati Route | 204503 | [204503-akibas-trip-undead-and-undressed-kati-route.json](./204503-akibas-trip-undead-and-undressed-kati-route.json) |
@@ -7420,6 +7421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angular Momentum | 326754 | [326754-angular-momentum.json](./326754-angular-momentum.json) |
 | Angular Velocity | 260609 | [260609-angular-velocity.json](./260609-angular-velocity.json) |
 | Anguna 2600 | 134346 | [134346-anguna-2600.json](./134346-anguna-2600.json) |
+| Anguna: Scourge of the Goblin King | 148392 | [148392-anguna-scourge-of-the-goblin-king.json](./148392-anguna-scourge-of-the-goblin-king.json) |
 | Anguna: Warriors of Virtue | 49509 | [49509-anguna-warriors-of-virtue.json](./49509-anguna-warriors-of-virtue.json) |
 | Angus Hates Aliens | 33165 | [33165-angus-hates-aliens.json](./33165-angus-hates-aliens.json) |
 | Angy | 211077 | [211077-angy.json](./211077-angy.json) |
@@ -12662,6 +12664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantic Journey: The Lost Brother | 175797 | [175797-atlantic-journey-the-lost-brother.json](./175797-atlantic-journey-the-lost-brother.json) |
 | Atlantic Quest | 85504 | [85504-atlantic-quest.json](./85504-atlantic-quest.json) |
 | Atlantic Rim | 180827 | [180827-atlantic-rim.json](./180827-atlantic-rim.json) |
+| Atlantica Europe | 148255 | [148255-atlantica-europe.json](./148255-atlantica-europe.json) |
 | Atlantica Online | 9522 | [9522-atlantica-online.json](./9522-atlantica-online.json) |
 | Atlantis | 64734 | [64734-atlantis.json](./64734-atlantis.json) |
 | Atlantis Academy | 245813 | [245813-atlantis-academy.json](./245813-atlantis-academy.json) |
