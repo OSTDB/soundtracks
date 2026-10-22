@@ -7172,6 +7172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Farmer Was Replaced | 243931 | [243931-the-farmer-was-replaced.json](./243931-the-farmer-was-replaced.json) |
 | The Farming Game | 101664 | [101664-the-farming-game.json](./101664-the-farming-game.json) |
 | The Farming One | 383601 | [383601-the-farming-one.json](./383601-the-farming-one.json) |
+| The Farmthis Gallery | 154289 | [154289-the-farmthis-gallery.json](./154289-the-farmthis-gallery.json) |
 | The Farnese Hercules | 203308 | [203308-the-farnese-hercules.json](./203308-the-farnese-hercules.json) |
 | The Farside of Titan | 274182 | [274182-the-farside-of-titan.json](./274182-the-farside-of-titan.json) |
 | The Fast and the Flirtatious: LA Drift | 304626 | [304626-the-fast-and-the-flirtatious-la-drift.json](./304626-the-fast-and-the-flirtatious-la-drift.json) |
@@ -10606,6 +10607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Men of Yoshiwara: Ohgiya | 33398 | [33398-the-men-of-yoshiwara-ohgiya.json](./33398-the-men-of-yoshiwara-ohgiya.json) |
 | The Menacing | 156030 | [156030-the-menacing.json](./156030-the-menacing.json) |
 | The Mensional | 197112 | [197112-the-mensional.json](./197112-the-mensional.json) |
+| the Mercenary | 154297 | [154297-the-mercenary.json](./154297-the-mercenary.json) |
 | The Mercer Slough and You | 145622 | [145622-the-mercer-slough-and-you.json](./145622-the-mercer-slough-and-you.json) |
 | The Merchant Memoirs | 74233 | [74233-the-merchant-memoirs.json](./74233-the-merchant-memoirs.json) |
 | The Merchant's Eden | 372657 | [372657-the-merchants-eden.json](./372657-the-merchants-eden.json) |
@@ -12363,6 +12365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Search For Above Average Life | 361752 | [361752-the-search-for-above-average-life.json](./361752-the-search-for-above-average-life.json) |
 | The Search for Amelia Earhart | 29199 | [29199-the-search-for-amelia-earhart.json](./29199-the-search-for-amelia-earhart.json) |
 | The Search for Elsoliado | 69503 | [69503-the-search-for-elsoliado.json](./69503-the-search-for-elsoliado.json) |
+| The Search For Fran | 154300 | [154300-the-search-for-fran.json](./154300-the-search-for-fran.json) |
 | The Search for Fran 2 | 203778 | [203778-the-search-for-fran-2.json](./203778-the-search-for-fran-2.json) |
 | The Search for MR Fimple | 189003 | [189003-the-search-for-mr-fimple.json](./189003-the-search-for-mr-fimple.json) |
 | The Search For Paradisus | 223307 | [223307-the-search-for-paradisus.json](./223307-the-search-for-paradisus.json) |
@@ -14801,6 +14804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizards Pet | 108955 | [108955-the-wizards-pet.json](./108955-the-wizards-pet.json) |
 | The Wizards: Enhanced Edition | 116134 | [116134-the-wizards-enhanced-edition.json](./116134-the-wizards-enhanced-edition.json) |
 | The Wizardz Dungeon | 216677 | [216677-the-wizardz-dungeon.json](./216677-the-wizardz-dungeon.json) |
+| The Wolf | 154308 | [154308-the-wolf.json](./154308-the-wolf.json) |
 | The Wolf | 212509 | [212509-the-wolf.json](./212509-the-wolf.json) |
 | The Wolf Among Us 2 | 51523 | [51523-the-wolf-among-us-2.json](./51523-the-wolf-among-us-2.json) |
 | The Wolf Among Us: Episode 1 - Faith | 127107 | [127107-the-wolf-among-us-episode-1-faith.json](./127107-the-wolf-among-us-episode-1-faith.json) |
@@ -15082,7 +15086,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - New England Mountains | 227336 | [227336-thehunter-call-of-the-wild-new-england-mountains.json](./227336-thehunter-call-of-the-wild-new-england-mountains.json) |
 | TheHunter: Call of the Wild - New Species 2018 | 206824 | [206824-thehunter-call-of-the-wild-new-species-2018.json](./206824-thehunter-call-of-the-wild-new-species-2018.json) |
 | TheHunter: Call of the Wild - New Species 2019 | 206825 | [206825-thehunter-call-of-the-wild-new-species-2019.json](./206825-thehunter-call-of-the-wild-new-species-2019.json) |
+| TheHunter: Call of the Wild - Parque Fernando | 154336 | [154336-thehunter-call-of-the-wild-parque-fernando.json](./154336-thehunter-call-of-the-wild-parque-fernando.json) |
 | TheHunter: Call of the Wild - Parque Fernando Cosmetic Pack | 271133 | [271133-thehunter-call-of-the-wild-parque-fernando-cosmetic-pack.json](./271133-thehunter-call-of-the-wild-parque-fernando-cosmetic-pack.json) |
+| TheHunter: Call of the Wild - Rancho del Arroyo | 154335 | [154335-thehunter-call-of-the-wild-rancho-del-arroyo.json](./154335-thehunter-call-of-the-wild-rancho-del-arroyo.json) |
 | TheHunter: Call of the Wild - Remi Warren | 154342 | [154342-thehunter-call-of-the-wild-remi-warren.json](./154342-thehunter-call-of-the-wild-remi-warren.json) |
 | TheHunter: Call of the Wild - Reserve Cosmetics Bundle 1 | 271466 | [271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json](./271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json) |
 | TheHunter: Call of the Wild - Saseka Safari Trophy Lodge | 206798 | [206798-thehunter-call-of-the-wild-saseka-safari-trophy-lodge.json](./206798-thehunter-call-of-the-wild-saseka-safari-trophy-lodge.json) |
@@ -15099,6 +15105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Trophy Lodge Spring Creek Manor | 206803 | [206803-thehunter-call-of-the-wild-trophy-lodge-spring-creek-manor.json](./206803-thehunter-call-of-the-wild-trophy-lodge-spring-creek-manor.json) |
 | TheHunter: Call of the Wild - TruRACS | 206802 | [206802-thehunter-call-of-the-wild-truracs.json](./206802-thehunter-call-of-the-wild-truracs.json) |
 | TheHunter: Call of the Wild - Ultimate Hunting Bundle | 331490 | [331490-thehunter-call-of-the-wild-ultimate-hunting-bundle.json](./331490-thehunter-call-of-the-wild-ultimate-hunting-bundle.json) |
+| TheHunter: Call of the Wild - Vurhonga Savanna | 154337 | [154337-thehunter-call-of-the-wild-vurhonga-savanna.json](./154337-thehunter-call-of-the-wild-vurhonga-savanna.json) |
 | TheHunter: Call of the Wild - Vurhonga Savanna Cosmetic Pack | 271135 | [271135-thehunter-call-of-the-wild-vurhonga-savanna-cosmetic-pack.json](./271135-thehunter-call-of-the-wild-vurhonga-savanna-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Weapon Pack 1 | 206819 | [206819-thehunter-call-of-the-wild-weapon-pack-1.json](./206819-thehunter-call-of-the-wild-weapon-pack-1.json) |
 | TheHunter: Call of the Wild - Weapon Pack 2 | 206804 | [206804-thehunter-call-of-the-wild-weapon-pack-2.json](./206804-thehunter-call-of-the-wild-weapon-pack-2.json) |
@@ -18316,6 +18323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Rogues | 215217 | [215217-tiny-rogues.json](./215217-tiny-rogues.json) |
 | Tiny Room | 393716 | [393716-tiny-room.json](./393716-tiny-room.json) |
 | Tiny Room 2 | 393734 | [393734-tiny-room-2.json](./393734-tiny-room-2.json) |
+| Tiny Room Stories: Pure Escape | 154306 | [154306-tiny-room-stories-pure-escape.json](./154306-tiny-room-stories-pure-escape.json) |
 | Tiny Room Stories: Town Mystery | 122907 | [122907-tiny-room-stories-town-mystery.json](./122907-tiny-room-stories-town-mystery.json) |
 | Tiny RTS | 421831 | [421831-tiny-rts.json](./421831-tiny-rts.json) |
 | Tiny Shadows Interwoven Hearts | 374078 | [374078-tiny-shadows-interwoven-hearts.json](./374078-tiny-shadows-interwoven-hearts.json) |
@@ -20633,6 +20641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kobuto V: Burst Battle - Chibi-Chara | 238038 | [238038-touhou-kobuto-v-burst-battle-chibi-chara.json](./238038-touhou-kobuto-v-burst-battle-chibi-chara.json) |
 | Touhou Kobuto V: Burst Battle - Koishi Komeiji | 238037 | [238037-touhou-kobuto-v-burst-battle-koishi-komeiji.json](./238037-touhou-kobuto-v-burst-battle-koishi-komeiji.json) |
 | Touhou Kobuto V: Burst Battle - Youmu Konpaku | 238035 | [238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json](./238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json) |
+| Touhou Koi-Mystery: Legend and Fantasy of Monsters | 154294 | [154294-touhou-koi-mystery-legend-and-fantasy-of-monsters.json](./154294-touhou-koi-mystery-legend-and-fantasy-of-monsters.json) |
 | Touhou Komakyou | 262184 | [262184-touhou-komakyou.json](./262184-touhou-komakyou.json) |
 | Touhou Kosuzu no Butsuri Game! | 256898 | [256898-touhou-kosuzu-no-butsuri-game.json](./256898-touhou-kosuzu-no-butsuri-game.json) |
 | Touhou Kouhentan | 214371 | [214371-touhou-kouhentan.json](./214371-touhou-kouhentan.json) |
