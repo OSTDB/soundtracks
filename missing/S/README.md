@@ -12242,6 +12242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So You Wanna Be A Redneck | 362972 | [362972-so-you-wanna-be-a-redneck.json](./362972-so-you-wanna-be-a-redneck.json) |
 | SO-108 | 232945 | [232945-so-108.json](./232945-so-108.json) |
 | So-Gnar | 176465 | [176465-so-gnar.json](./176465-so-gnar.json) |
+| So, uh... a spaceship crashed in my yard. | 105694 | [105694-so-uh-a-spaceship-crashed-in-my-yard.json](./105694-so-uh-a-spaceship-crashed-in-my-yard.json) |
 | So, You're Possessed! | 187802 | [187802-so-youre-possessed.json](./187802-so-youre-possessed.json) |
 | Soak 'Em Out | 248215 | [248215-soak-em-out.json](./248215-soak-em-out.json) |
 | Soak & Splash | 250948 | [250948-soak-and-splash.json](./250948-soak-and-splash.json) |
@@ -15250,6 +15251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunter | 271175 | [271175-space-hunter.json](./271175-space-hunter.json) |
 | Space Hurricane | 385796 | [385796-space-hurricane.json](./385796-space-hurricane.json) |
 | Space Hurricane Storm | 102388 | [102388-space-hurricane-storm.json](./102388-space-hurricane-storm.json) |
+| Space Hurricane Storm: 2 Edition | 105659 | [105659-space-hurricane-storm-2-edition.json](./105659-space-hurricane-storm-2-edition.json) |
 | Space II | 84202 | [84202-space-ii.json](./84202-space-ii.json) |
 | Space Impact | 282457 | [282457-space-impact.json](./282457-space-impact.json) |
 | Space Impact Glitch | 29762 | [29762-space-impact-glitch.json](./29762-space-impact-glitch.json) |
@@ -23286,6 +23288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Camp | 167865 | [167865-summer-camp.json](./167865-summer-camp.json) |
 | Summer Camp | 347837 | [347837-summer-camp.json](./347837-summer-camp.json) |
 | Summer Camp | 47189 | [47189-summer-camp.json](./47189-summer-camp.json) |
+| Summer Camp Island AR | 105697 | [105697-summer-camp-island-ar.json](./105697-summer-camp-island-ar.json) |
 | Summer Camp Showdown | 208355 | [208355-summer-camp-showdown.json](./208355-summer-camp-showdown.json) |
 | Summer Carnival '92 Alzadick | 56374 | [56374-summer-carnival-92-alzadick.json](./56374-summer-carnival-92-alzadick.json) |
 | Summer Carnival '92: Recca | 48642 | [48642-summer-carnival-92-recca.json](./48642-summer-carnival-92-recca.json) |
@@ -27612,6 +27615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switchcars | 33541 | [33541-switchcars.json](./33541-switchcars.json) |
 | Switchcraft | 191802 | [191802-switchcraft.json](./191802-switchcraft.json) |
 | Switchcraft: Magical Match 3 | 219829 | [219829-switchcraft-magical-match-3.json](./219829-switchcraft-magical-match-3.json) |
+| Switcher | 105710 | [105710-switcher.json](./105710-switcher.json) |
 | Switcheroo | 340397 | [340397-switcheroo.json](./340397-switcheroo.json) |
 | Switcheroo | 59686 | [59686-switcheroo.json](./59686-switcheroo.json) |
 | Switchfire | 54418 | [54418-switchfire.json](./54418-switchfire.json) |
