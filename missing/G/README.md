@@ -2079,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemini Wing | 12117 | [12117-gemini-wing.json](./12117-gemini-wing.json) |
 | Gemini X | 404926 | [404926-gemini-x.json](./404926-gemini-x.json) |
 | Gemini: A Journey of Two Stars | 57734 | [57734-gemini-a-journey-of-two-stars.json](./57734-gemini-a-journey-of-two-stars.json) |
+| Gemini: Binary Conflict | 133085 | [133085-gemini-binary-conflict.json](./133085-gemini-binary-conflict.json) |
 | Gemini: Heroes Reborn | 19932 | [19932-gemini-heroes-reborn.json](./19932-gemini-heroes-reborn.json) |
 | GeminiArms | 116242 | [116242-geminiarms.json](./116242-geminiarms.json) |
 | GeminiFlame: Alpha Dragon | 269992 | [269992-geminiflame-alpha-dragon.json](./269992-geminiflame-alpha-dragon.json) |
@@ -3129,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 'n Goblins | 6807 | [6807-ghosts-n-goblins.json](./6807-ghosts-n-goblins.json) |
 | Ghosts 'n Goblins 64 | 297480 | [297480-ghosts-n-goblins-64.json](./297480-ghosts-n-goblins-64.json) |
 | Ghosts 'N Goblins: Gold Knights II | 63647 | [63647-ghosts-n-goblins-gold-knights-ii.json](./63647-ghosts-n-goblins-gold-knights-ii.json) |
+| Ghosts and Bureaucracy | 133064 | [133064-ghosts-and-bureaucracy.json](./133064-ghosts-and-bureaucracy.json) |
 | Ghosts I-IV for Quake | 131580 | [131580-ghosts-i-iv-for-quake.json](./131580-ghosts-i-iv-for-quake.json) |
 | Ghosts of Aliens | 255617 | [255617-ghosts-of-aliens.json](./255617-ghosts-of-aliens.json) |
 | Ghosts of Miami | 51422 | [51422-ghosts-of-miami.json](./51422-ghosts-of-miami.json) |
@@ -5254,6 +5256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gone Wandering | 215061 | [215061-gone-wandering.json](./215061-gone-wandering.json) |
 | Gone with Hideyoshi | 64636 | [64636-gone-with-hideyoshi.json](./64636-gone-with-hideyoshi.json) |
 | GONE: Game of Necromancy Education | 364989 | [364989-gone-game-of-necromancy-education.json](./364989-gone-game-of-necromancy-education.json) |
+| Gone: Survival | 132473 | [132473-gone-survival.json](./132473-gone-survival.json) |
 | Goner In The Town | 320037 | [320037-goner-in-the-town.json](./320037-goner-in-the-town.json) |
 | Goners | 401074 | [401074-goners.json](./401074-goners.json) |
 | Gong | 280356 | [280356-gong.json](./280356-gong.json) |
@@ -6340,6 +6343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Man | 179694 | [179694-grave-man.json](./179694-grave-man.json) |
 | Grave Mania: Pandemic Pandemonium | 31651 | [31651-grave-mania-pandemic-pandemonium.json](./31651-grave-mania-pandemic-pandemonium.json) |
 | Grave Mania: Undead Fever | 32784 | [32784-grave-mania-undead-fever.json](./32784-grave-mania-undead-fever.json) |
+| Grave of the Petrified | 132476 | [132476-grave-of-the-petrified.json](./132476-grave-of-the-petrified.json) |
 | Grave of Voices | 375610 | [375610-grave-of-voices.json](./375610-grave-of-voices.json) |
 | Grave Pobbery | 267258 | [267258-grave-pobbery.json](./267258-grave-pobbery.json) |
 | Grave Prosperity: Part 1 | 96869 | [96869-grave-prosperity-part-1.json](./96869-grave-prosperity-part-1.json) |
@@ -7941,6 +7945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars: Reforged | 380421 | [380421-guild-wars-reforged.json](./380421-guild-wars-reforged.json) |
 | Guildamation | 387567 | [387567-guildamation.json](./387567-guildamation.json) |
 | GuildBound | 119791 | [119791-guildbound.json](./119791-guildbound.json) |
+| Guilded | 133069 | [133069-guilded.json](./133069-guilded.json) |
 | Guilded | 258340 | [258340-guilded.json](./258340-guilded.json) |
 | Guilded Fools | 421809 | [421809-guilded-fools.json](./421809-guilded-fools.json) |
 | Guilded Hearts | 214037 | [214037-guilded-hearts.json](./214037-guilded-hearts.json) |
