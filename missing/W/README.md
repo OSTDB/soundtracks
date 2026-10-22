@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walking on Ice | 343242 | [343242-walking-on-ice.json](./343242-walking-on-ice.json) |
 | Walking Simulator | 128376 | [128376-walking-simulator.json](./128376-walking-simulator.json) |
 | Walking Simulator | 188052 | [188052-walking-simulator.json](./188052-walking-simulator.json) |
+| Walking Simulator A Month Club (Complete Edition) | 136100 | [136100-walking-simulator-a-month-club-complete-edition.json](./136100-walking-simulator-a-month-club-complete-edition.json) |
 | Walking Survival | 366576 | [366576-walking-survival.json](./366576-walking-survival.json) |
 | Walking Tourist | 134935 | [134935-walking-tourist.json](./134935-walking-tourist.json) |
 | Walking War Robots | 59759 | [59759-walking-war-robots.json](./59759-walking-war-robots.json) |
@@ -6485,6 +6486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Voidia | 128342 | [128342-world-of-voidia.json](./128342-world-of-voidia.json) |
 | World of Warcraft Classic | 75379 | [75379-world-of-warcraft-classic.json](./75379-world-of-warcraft-classic.json) |
 | World of Warcraft Classic: Season of Discovery | 275175 | [275175-world-of-warcraft-classic-season-of-discovery.json](./275175-world-of-warcraft-classic-season-of-discovery.json) |
+| World of Warcraft: 15th Anniversary - Collector's Edition | 136120 | [136120-world-of-warcraft-15th-anniversary-collectors-edition.json](./136120-world-of-warcraft-15th-anniversary-collectors-edition.json) |
 | World of Warcraft: Battle for Azeroth | 75380 | [75380-world-of-warcraft-battle-for-azeroth.json](./75380-world-of-warcraft-battle-for-azeroth.json) |
 | World of Warcraft: Burning Crusade Classic - Anniversary Edition | 390778 | [390778-world-of-warcraft-burning-crusade-classic-anniversary-edition.json](./390778-world-of-warcraft-burning-crusade-classic-anniversary-edition.json) |
 | World of Warcraft: Cataclysm - Collector's Edition | 136266 | [136266-world-of-warcraft-cataclysm-collectors-edition.json](./136266-world-of-warcraft-cataclysm-collectors-edition.json) |
