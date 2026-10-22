@@ -4460,6 +4460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Litguy Adventure | 213390 | [213390-litguy-adventure.json](./213390-litguy-adventure.json) |
 | Lithium City | 134543 | [134543-lithium-city.json](./134543-lithium-city.json) |
 | Lithium: Inmate 39 | 25876 | [25876-lithium-inmate-39.json](./25876-lithium-inmate-39.json) |
+| Lithium: Inmate 39 - Relapsed Edition | 123846 | [123846-lithium-inmate-39-relapsed-edition.json](./123846-lithium-inmate-39-relapsed-edition.json) |
 | Lithoi: Trials of Memory | 172002 | [172002-lithoi-trials-of-memory.json](./172002-lithoi-trials-of-memory.json) |
 | Litter ShiFu | 296623 | [296623-litter-shifu.json](./296623-litter-shifu.json) |
 | Litterbox League | 404654 | [404654-litterbox-league.json](./404654-litterbox-league.json) |
@@ -7007,6 +7008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Girls Puzzle | 163540 | [163540-lovely-girls-puzzle.json](./163540-lovely-girls-puzzle.json) |
 | Lovely Goddess | 155019 | [155019-lovely-goddess.json](./155019-lovely-goddess.json) |
 | Lovely Hentai | 126391 | [126391-lovely-hentai.json](./126391-lovely-hentai.json) |
+| Lovely Heroines | 123879 | [123879-lovely-heroines.json](./123879-lovely-heroines.json) |
 | Lovely Horror: Ochame na Yuurei | 269414 | [269414-lovely-horror-ochame-na-yuurei.json](./269414-lovely-horror-ochame-na-yuurei.json) |
 | Lovely Island | 109620 | [109620-lovely-island.json](./109620-lovely-island.json) |
 | Lovely Kitchen | 146585 | [146585-lovely-kitchen.json](./146585-lovely-kitchen.json) |
