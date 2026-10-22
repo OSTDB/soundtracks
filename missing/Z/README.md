@@ -1098,16 +1098,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Apocalypse: The Last Defense | 211147 | [211147-zombie-apocalypse-the-last-defense.json](./211147-zombie-apocalypse-the-last-defense.json) |
 | Zombie Apocalypse: The Last Fortress | 235067 | [235067-zombie-apocalypse-the-last-fortress.json](./235067-zombie-apocalypse-the-last-fortress.json) |
 | Zombie Arena | 220740 | [220740-zombie-arena.json](./220740-zombie-arena.json) |
+| Zombie Army 4: Dead War - American Sea Captain Character | 155454 | [155454-zombie-army-4-dead-war-american-sea-captain-character.json](./155454-zombie-army-4-dead-war-american-sea-captain-character.json) |
 | Zombie Army 4: Dead War - Deluxe Edition | 129784 | [129784-zombie-army-4-dead-war-deluxe-edition.json](./129784-zombie-army-4-dead-war-deluxe-edition.json) |
+| Zombie Army 4: Dead War - French Resistance Fighter Character | 155452 | [155452-zombie-army-4-dead-war-french-resistance-fighter-character.json](./155452-zombie-army-4-dead-war-french-resistance-fighter-character.json) |
 | Zombie Army 4: Dead War - Left 4 Dead Bundle | 199894 | [199894-zombie-army-4-dead-war-left-4-dead-bundle.json](./199894-zombie-army-4-dead-war-left-4-dead-bundle.json) |
+| Zombie Army 4: Dead War - Left 4 Dead Character Pack 1 | 155449 | [155449-zombie-army-4-dead-war-left-4-dead-character-pack-1.json](./155449-zombie-army-4-dead-war-left-4-dead-character-pack-1.json) |
 | Zombie Army 4: Dead War - Mission 2: Blood Count | 133936 | [133936-zombie-army-4-dead-war-mission-2-blood-count.json](./133936-zombie-army-4-dead-war-mission-2-blood-count.json) |
 | Zombie Army 4: Dead War - Mission 5: Alpine Blitz | 143684 | [143684-zombie-army-4-dead-war-mission-5-alpine-blitz.json](./143684-zombie-army-4-dead-war-mission-5-alpine-blitz.json) |
 | Zombie Army 4: Dead War - Mission 6: Dead Zeppelin | 143685 | [143685-zombie-army-4-dead-war-mission-6-dead-zeppelin.json](./143685-zombie-army-4-dead-war-mission-6-dead-zeppelin.json) |
 | Zombie Army 4: Dead War - Mission 9: Return to Hell | 162621 | [162621-zombie-army-4-dead-war-mission-9-return-to-hell.json](./162621-zombie-army-4-dead-war-mission-9-return-to-hell.json) |
 | Zombie Army 4: Dead War - Mission 9: Return to Hell | 163352 | [163352-zombie-army-4-dead-war-mission-9-return-to-hell.json](./163352-zombie-army-4-dead-war-mission-9-return-to-hell.json) |
+| Zombie Army 4: Dead War - Paratrooper Zombie Character | 155451 | [155451-zombie-army-4-dead-war-paratrooper-zombie-character.json](./155451-zombie-army-4-dead-war-paratrooper-zombie-character.json) |
 | Zombie Army 4: Dead War - Ragnarök | 200437 | [200437-zombie-army-4-dead-war-ragnarok.json](./200437-zombie-army-4-dead-war-ragnarok.json) |
 | Zombie Army 4: Dead War - Ragnarök Campaign & Character Pack | 201579 | [201579-zombie-army-4-dead-war-ragnarok-campaign-and-character-pack.json](./201579-zombie-army-4-dead-war-ragnarok-campaign-and-character-pack.json) |
+| Zombie Army 4: Dead War - Renegade Officer Character | 155453 | [155453-zombie-army-4-dead-war-renegade-officer-character.json](./155453-zombie-army-4-dead-war-renegade-officer-character.json) |
 | Zombie Army 4: Dead War - Super Deluxe Edition | 129783 | [129783-zombie-army-4-dead-war-super-deluxe-edition.json](./129783-zombie-army-4-dead-war-super-deluxe-edition.json) |
+| Zombie Army 4: Dead War - Undead Airman Character | 155450 | [155450-zombie-army-4-dead-war-undead-airman-character.json](./155450-zombie-army-4-dead-war-undead-airman-character.json) |
 | Zombie Army Trilogy | 20871 | [20871-zombie-army-trilogy.json](./20871-zombie-army-trilogy.json) |
 | Zombie Army VR | 288444 | [288444-zombie-army-vr.json](./288444-zombie-army-vr.json) |
 | Zombie Assault: Resurgence | 392214 | [392214-zombie-assault-resurgence.json](./392214-zombie-assault-resurgence.json) |
