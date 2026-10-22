@@ -3287,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch the Balls | 348273 | [348273-catch-the-balls.json](./348273-catch-the-balls.json) |
 | Catch the Bowling Balls | 152229 | [152229-catch-the-bowling-balls.json](./152229-catch-the-bowling-balls.json) |
 | Catch the Bowling Balls: Challenge Mode Edition | 207053 | [207053-catch-the-bowling-balls-challenge-mode-edition.json](./207053-catch-the-bowling-balls-challenge-mode-edition.json) |
+| Catch the Candy | 142315 | [142315-catch-the-candy.json](./142315-catch-the-candy.json) |
 | Catch the Candy: Remastered | 330922 | [330922-catch-the-candy-remastered.json](./330922-catch-the-candy-remastered.json) |
 | Catch the Chiken | 397599 | [397599-catch-the-chiken.json](./397599-catch-the-chiken.json) |
 | Catch the Clown II | 331897 | [331897-catch-the-clown-ii.json](./331897-catch-the-clown-ii.json) |
@@ -7268,6 +7269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cityscape Sprint | 208676 | [208676-cityscape-sprint.json](./208676-cityscape-sprint.json) |
 | Cityscapes | 386554 | [386554-cityscapes.json](./386554-cityscapes.json) |
 | Cityscapes: Sim Builder | 248581 | [248581-cityscapes-sim-builder.json](./248581-cityscapes-sim-builder.json) |
+| Citystate II | 142168 | [142168-citystate-ii.json](./142168-citystate-ii.json) |
 | Citytopia | 114791 | [114791-citytopia.json](./114791-citytopia.json) |
 | CityVille | 80153 | [80153-cityville.json](./80153-cityville.json) |
 | Citywars Savage | 112740 | [112740-citywars-savage.json](./112740-citywars-savage.json) |
@@ -12849,6 +12851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Kong | 130753 | [130753-crazy-kong.json](./130753-crazy-kong.json) |
 | Crazy Kong | 13833 | [13833-crazy-kong.json](./13833-crazy-kong.json) |
 | Crazy Kong Part II | 311035 | [311035-crazy-kong-part-ii.json](./311035-crazy-kong-part-ii.json) |
+| Crazy Kung Fu | 142161 | [142161-crazy-kung-fu.json](./142161-crazy-kung-fu.json) |
 | Crazy Little Jumper | 270572 | [270572-crazy-little-jumper.json](./270572-crazy-little-jumper.json) |
 | Crazy Lizard: The Amazing Journey | 235142 | [235142-crazy-lizard-the-amazing-journey.json](./235142-crazy-lizard-the-amazing-journey.json) |
 | Crazy Localization | 403527 | [403527-crazy-localization.json](./403527-crazy-localization.json) |
@@ -14944,6 +14947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult: Fear Inside | 72341 | [72341-cult-fear-inside.json](./72341-cult-fear-inside.json) |
 | Cult&Card | 291765 | [291765-cult-and-card.json](./291765-cult-and-card.json) |
 | Cultist Astronaut | 203968 | [203968-cultist-astronaut.json](./203968-cultist-astronaut.json) |
+| Cultist Simulator: Initiate Edition | 142313 | [142313-cultist-simulator-initiate-edition.json](./142313-cultist-simulator-initiate-edition.json) |
 | Cultist Simulator: The Lady Afterwards | 196087 | [196087-cultist-simulator-the-lady-afterwards.json](./196087-cultist-simulator-the-lady-afterwards.json) |
 | Cultivating Happiness | 229218 | [229218-cultivating-happiness.json](./229218-cultivating-happiness.json) |
 | Cultivating Immortals | 274641 | [274641-cultivating-immortals.json](./274641-cultivating-immortals.json) |
