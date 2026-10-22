@@ -1478,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undersea Escape | 315599 | [315599-undersea-escape.json](./315599-undersea-escape.json) |
 | Undersea: Waves and Adventures | 369328 | [369328-undersea-waves-and-adventures.json](./369328-undersea-waves-and-adventures.json) |
 | Undershadows | 252548 | [252548-undershadows.json](./252548-undershadows.json) |
+| Understand | 154873 | [154873-understand.json](./154873-understand.json) |
 | Understanding of the Abyss | 151733 | [151733-understanding-of-the-abyss.json](./151733-understanding-of-the-abyss.json) |
 | Understeel | 382204 | [382204-understeel.json](./382204-understeel.json) |
 | Underswap: Distrust the Game 2 | 331930 | [331930-underswap-distrust-the-game-2.json](./331930-underswap-distrust-the-game-2.json) |
@@ -2599,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Extreme | 198535 | [198535-urban-extreme.json](./198535-urban-extreme.json) |
 | Urban Fantasy: Vampires vs Werewolves | 169359 | [169359-urban-fantasy-vampires-vs-werewolves.json](./169359-urban-fantasy-vampires-vs-werewolves.json) |
 | Urban Farmer | 216852 | [216852-urban-farmer.json](./216852-urban-farmer.json) |
+| Urban Fight | 154900 | [154900-urban-fight.json](./154900-urban-fight.json) |
 | Urban Fighters: Battle Stars | 241804 | [241804-urban-fighters-battle-stars.json](./241804-urban-fighters-battle-stars.json) |
 | Urban Flow | 137659 | [137659-urban-flow.json](./137659-urban-flow.json) |
 | Urban Flow Chaos Control | 385173 | [385173-urban-flow-chaos-control.json](./385173-urban-flow-chaos-control.json) |
