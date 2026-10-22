@@ -351,7 +351,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthling of Gaia | 294367 | [294367-earthling-of-gaia.json](./294367-earthling-of-gaia.json) |
 | Earthling Priorities | 229154 | [229154-earthling-priorities.json](./229154-earthling-priorities.json) |
 | Earthling's Undertaking | 371631 | [371631-earthlings-undertaking.json](./371631-earthlings-undertaking.json) |
-| Earthlock | 80895 | [80895-earthlock.json](./80895-earthlock.json) |
 | Earthlock 2 | 136090 | [136090-earthlock-2.json](./136090-earthlock-2.json) |
 | Earthlock: Festival of Magic | 7202 | [7202-earthlock-festival-of-magic.json](./7202-earthlock-festival-of-magic.json) |
 | EarthNight | 27742 | [27742-earthnight.json](./27742-earthnight.json) |
@@ -3229,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entanglement | 350383 | [350383-entanglement.json](./350383-entanglement.json) |
 | Entasy Online | 230242 | [230242-entasy-online.json](./230242-entasy-online.json) |
 | Entelechy | 130080 | [130080-entelechy.json](./130080-entelechy.json) |
+| Enter Digiton | 133084 | [133084-enter-digiton.json](./133084-enter-digiton.json) |
 | Enter Falconry | 295515 | [295515-enter-falconry.json](./295515-enter-falconry.json) |
 | Enter HorrorLand | 344561 | [344561-enter-horrorland.json](./344561-enter-horrorland.json) |
 | Enter Synapse | 116093 | [116093-enter-synapse.json](./116093-enter-synapse.json) |
@@ -4798,6 +4798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ethos Mythos | 419975 | [419975-ethos-mythos.json](./419975-ethos-mythos.json) |
 | Ethos: Divinity's Curse | 201706 | [201706-ethos-divinitys-curse.json](./201706-ethos-divinitys-curse.json) |
 | Ethoterria's Last Soldier | 398042 | [398042-ethoterrias-last-soldier.json](./398042-ethoterrias-last-soldier.json) |
+| Ethyrial | 133073 | [133073-ethyrial.json](./133073-ethyrial.json) |
 | Eti Yami: Mekanik Istila | 92630 | [92630-eti-yami-mekanik-istila.json](./92630-eti-yami-mekanik-istila.json) |
 | Etiquette Elegance | 346195 | [346195-etiquette-elegance.json](./346195-etiquette-elegance.json) |
 | Eto | 339774 | [339774-eto.json](./339774-eto.json) |
@@ -5656,6 +5657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex-Argent: Menes no Sairyuu | 206566 | [206566-ex-argent-menes-no-sairyuu.json](./206566-ex-argent-menes-no-sairyuu.json) |
 | Ex-Fraktion | 181370 | [181370-ex-fraktion.json](./181370-ex-fraktion.json) |
 | EX-Xdriver | 272339 | [272339-ex-xdriver.json](./272339-ex-xdriver.json) |
+| Ex-Zodiac | 133089 | [133089-ex-zodiac.json](./133089-ex-zodiac.json) |
 | Ex/l | 376446 | [376446-ex-l.json](./376446-ex-l.json) |
 | Ex0 Escape | 211208 | [211208-ex0-escape.json](./211208-ex0-escape.json) |
 | Exa Innova | 47533 | [47533-exa-innova.json](./47533-exa-innova.json) |
