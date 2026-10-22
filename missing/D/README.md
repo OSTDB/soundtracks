@@ -1502,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's Lenore - Collector's Edition | 370676 | [370676-dark-tales-edgar-allan-poes-lenore-collectors-edition.json](./370676-dark-tales-edgar-allan-poes-lenore-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's Ligeia - Collector's Edition | 121318 | [121318-dark-tales-edgar-allan-poes-ligeia-collectors-edition.json](./121318-dark-tales-edgar-allan-poes-ligeia-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's Morella - Collector's Edition | 370677 | [370677-dark-tales-edgar-allan-poes-morella-collectors-edition.json](./370677-dark-tales-edgar-allan-poes-morella-collectors-edition.json) |
+| Dark Tales: Edgar Allan Poe's Murders in the Rue Morgue | 120626 | [120626-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue.json](./120626-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue.json) |
 | Dark Tales: Edgar Allan Poe's Murders in the Rue Morgue - Collector's Edition | 209007 | [209007-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue-collectors-edition.json](./209007-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's Speaking with the Dead | 187932 | [187932-dark-tales-edgar-allan-poes-speaking-with-the-dead.json](./187932-dark-tales-edgar-allan-poes-speaking-with-the-dead.json) |
 | Dark Tales: Edgar Allan Poe's The Bells | 187928 | [187928-dark-tales-edgar-allan-poes-the-bells.json](./187928-dark-tales-edgar-allan-poes-the-bells.json) |
@@ -10922,6 +10923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Chaos: Shadows of Mars | 268760 | [268760-dr-chaos-shadows-of-mars.json](./268760-dr-chaos-shadows-of-mars.json) |
 | Dr. Chatelet: Faith | 207757 | [207757-dr-chatelet-faith.json](./207757-dr-chatelet-faith.json) |
 | Dr. Chess | 268534 | [268534-dr-chess.json](./268534-dr-chess.json) |
+| Dr. Derk's Mutant Battlegrounds | 120604 | [120604-dr-derks-mutant-battlegrounds.json](./120604-dr-derks-mutant-battlegrounds.json) |
 | Dr. Despicable's Dastardly Deeds | 296194 | [296194-dr-despicables-dastardly-deeds.json](./296194-dr-despicables-dastardly-deeds.json) |
 | Dr. Dino -Doctor & Dentist games for boys girls | 232181 | [232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json](./232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json) |
 | Dr. Doe's Chemistry Quiz | 205624 | [205624-dr-does-chemistry-quiz.json](./205624-dr-does-chemistry-quiz.json) |
