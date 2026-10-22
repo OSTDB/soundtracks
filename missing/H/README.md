@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween is Crazy as Hell | 172026 | [172026-halloween-is-crazy-as-hell.json](./172026-halloween-is-crazy-as-hell.json) |
 | Halloween Jewels | 24776 | [24776-halloween-jewels.json](./24776-halloween-jewels.json) |
 | Halloween Jigsaw Puzzles: Puzzle Game for Kids & Toddlers | 187359 | [187359-halloween-jigsaw-puzzles-puzzle-game-for-kids-and-toddlers.json](./187359-halloween-jigsaw-puzzles-puzzle-game-for-kids-and-toddlers.json) |
+| Halloween Junior | 108208 | [108208-halloween-junior.json](./108208-halloween-junior.json) |
 | Halloween Madness | 75118 | [75118-halloween-madness.json](./75118-halloween-madness.json) |
 | Halloween Makeover: Spa, Makeup & Dressup Salon | 90374 | [90374-halloween-makeover-spa-makeup-and-dressup-salon.json](./90374-halloween-makeover-spa-makeup-and-dressup-salon.json) |
 | Halloween Memory Quest | 321488 | [321488-halloween-memory-quest.json](./321488-halloween-memory-quest.json) |
@@ -6313,6 +6314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hippo | 79822 | [79822-hippo.json](./79822-hippo.json) |
 | Hippo Doctor: Hospital Laboratory | 105946 | [105946-hippo-doctor-hospital-laboratory.json](./105946-hippo-doctor-hospital-laboratory.json) |
 | Hippo Eating Banana | 220835 | [220835-hippo-eating-banana.json](./220835-hippo-eating-banana.json) |
+| Hippo Engineering Patrol | 108211 | [108211-hippo-engineering-patrol.json](./108211-hippo-engineering-patrol.json) |
 | Hippo Hop | 415168 | [415168-hippo-hop.json](./415168-hippo-hop.json) |
 | Hippo Teeth | 41422 | [41422-hippo-teeth.json](./41422-hippo-teeth.json) |
 | Hippo Teeth | 47259 | [47259-hippo-teeth.json](./47259-hippo-teeth.json) |
@@ -6897,12 +6899,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Jigsaw Christmas 3 | 216442 | [216442-holiday-jigsaw-christmas-3.json](./216442-holiday-jigsaw-christmas-3.json) |
 | Holiday Jigsaw Easter | 169136 | [169136-holiday-jigsaw-easter.json](./169136-holiday-jigsaw-easter.json) |
 | Holiday Jigsaw Easter 2 | 195408 | [195408-holiday-jigsaw-easter-2.json](./195408-holiday-jigsaw-easter-2.json) |
+| Holiday Jigsaw Easter 3 | 108200 | [108200-holiday-jigsaw-easter-3.json](./108200-holiday-jigsaw-easter-3.json) |
 | Holiday Jigsaw Easter 4 | 296208 | [296208-holiday-jigsaw-easter-4.json](./296208-holiday-jigsaw-easter-4.json) |
 | Holiday Jigsaw Halloween | 168429 | [168429-holiday-jigsaw-halloween.json](./168429-holiday-jigsaw-halloween.json) |
 | Holiday Jigsaw Halloween 2 | 174050 | [174050-holiday-jigsaw-halloween-2.json](./174050-holiday-jigsaw-halloween-2.json) |
 | Holiday Jigsaw Valentine's Day 3 | 296813 | [296813-holiday-jigsaw-valentines-day-3.json](./296813-holiday-jigsaw-valentines-day-3.json) |
 | Holiday Jigsaw Valentines Day | 54087 | [54087-holiday-jigsaw-valentines-day.json](./54087-holiday-jigsaw-valentines-day.json) |
 | Holiday Jigsaw: Christmas 2 | 215684 | [215684-holiday-jigsaw-christmas-2.json](./215684-holiday-jigsaw-christmas-2.json) |
+| Holiday Jigsaw: Halloween 4 | 108199 | [108199-holiday-jigsaw-halloween-4.json](./108199-holiday-jigsaw-halloween-4.json) |
 | Holiday Jigsaw: Thanksgiving Day | 192169 | [192169-holiday-jigsaw-thanksgiving-day.json](./192169-holiday-jigsaw-thanksgiving-day.json) |
 | Holiday Jigsaw: Thanksgiving Day 2 | 188941 | [188941-holiday-jigsaw-thanksgiving-day-2.json](./188941-holiday-jigsaw-thanksgiving-day-2.json) |
 | Holiday Jigsaw: Thanksgiving Day 3 | 215683 | [215683-holiday-jigsaw-thanksgiving-day-3.json](./215683-holiday-jigsaw-thanksgiving-day-3.json) |
@@ -8814,6 +8818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Date a Magical Girl! | 107882 | [107882-how-to-date-a-magical-girl.json](./107882-how-to-date-a-magical-girl.json) |
 | How to Date a Non-Terrian Person | 184081 | [184081-how-to-date-a-non-terrian-person.json](./184081-how-to-date-a-non-terrian-person.json) |
 | How to Destroy a City | 408080 | [408080-how-to-destroy-a-city.json](./408080-how-to-destroy-a-city.json) |
+| How to Die in a Morgue | 108167 | [108167-how-to-die-in-a-morgue.json](./108167-how-to-die-in-a-morgue.json) |
 | How to Die. | 218131 | [218131-how-to-die.json](./218131-how-to-die.json) |
 | How to Disappear Completely | 268728 | [268728-how-to-disappear-completely.json](./268728-how-to-disappear-completely.json) |
 | How to Escape a Kidnapper | 367450 | [367450-how-to-escape-a-kidnapper.json](./367450-how-to-escape-a-kidnapper.json) |
