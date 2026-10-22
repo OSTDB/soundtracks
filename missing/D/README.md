@@ -3379,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Alley | 179681 | [179681-death-alley.json](./179681-death-alley.json) |
 | Death and Betrayal in Romania: A Dana Knightstone Novel - Collector's Edition | 107838 | [107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json](./107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json) |
 | Death and Tactics | 353364 | [353364-death-and-tactics.json](./353364-death-and-tactics.json) |
+| Death Angel | 121287 | [121287-death-angel.json](./121287-death-angel.json) |
 | Death Angel Nightmare | 235877 | [235877-death-angel-nightmare.json](./235877-death-angel-nightmare.json) |
 | Death Angel Trial | 284334 | [284334-death-angel-trial.json](./284334-death-angel-trial.json) |
 | Death Animal Parade | 260210 | [260210-death-animal-parade.json](./260210-death-animal-parade.json) |
@@ -6531,6 +6532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamonds on the forest | 227831 | [227831-diamonds-on-the-forest.json](./227831-diamonds-on-the-forest.json) |
 | Diana Hamilton's Dreams | 141718 | [141718-diana-hamiltons-dreams.json](./141718-diana-hamiltons-dreams.json) |
 | Diǎnchū Gè Sānguó | 413033 | [413033-dianchu-ge-sanguo.json](./413033-dianchu-ge-sanguo.json) |
+| Diàntǒng Xiá | 121264 | [121264-diantong-xia.json](./121264-diantong-xia.json) |
 | Diànwán Bǔyú | 369189 | [369189-dianwan-buyu.json](./369189-dianwan-buyu.json) |
 | Diapause | 374597 | [374597-diapause.json](./374597-diapause.json) |
 | Diaper Dash | 16069 | [16069-diaper-dash.json](./16069-diaper-dash.json) |
