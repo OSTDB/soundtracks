@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Farming | 230737 | [230737-factory-farming.json](./230737-factory-farming.json) |
 | Factory idle | 95942 | [95942-factory-idle.json](./95942-factory-idle.json) |
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
+| Factory Manager | 106317 | [106317-factory-manager.json](./106317-factory-manager.json) |
 | Factory Manager Simulator | 164053 | [164053-factory-manager-simulator.json](./164053-factory-manager-simulator.json) |
 | Factory missions | 101744 | [101744-factory-missions.json](./101744-factory-missions.json) |
 | Factory Mogul | 76148 | [76148-factory-mogul.json](./76148-factory-mogul.json) |
@@ -6816,6 +6817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Slime! | 120137 | [120137-flying-slime.json](./120137-flying-slime.json) |
 | Flying Sofa Simulator | 169350 | [169350-flying-sofa-simulator.json](./169350-flying-sofa-simulator.json) |
 | Flying Soldiers | 146863 | [146863-flying-soldiers.json](./146863-flying-soldiers.json) |
+| Flying Soul | 106328 | [106328-flying-soul.json](./106328-flying-soul.json) |
 | Flying Squadron | 43889 | [43889-flying-squadron.json](./43889-flying-squadron.json) |
 | Flying Stunt Simulator | 278156 | [278156-flying-stunt-simulator.json](./278156-flying-stunt-simulator.json) |
 | Flying Superhero Captain Robot Crime City Battle | 101982 | [101982-flying-superhero-captain-robot-crime-city-battle.json](./101982-flying-superhero-captain-robot-crime-city-battle.json) |
