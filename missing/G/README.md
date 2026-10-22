@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Blitz | 22560 | [22560-galactic-blitz.json](./22560-galactic-blitz.json) |
 | Galactic Bounty | 406684 | [406684-galactic-bounty.json](./406684-galactic-bounty.json) |
 | Galactic Breakout | 276264 | [276264-galactic-breakout.json](./276264-galactic-breakout.json) |
+| Galactic Bulwark Strike | 100629 | [100629-galactic-bulwark-strike.json](./100629-galactic-bulwark-strike.json) |
 | Galactic Campaign | 116878 | [116878-galactic-campaign.json](./116878-galactic-campaign.json) |
 | Galactic Catch | 254514 | [254514-galactic-catch.json](./254514-galactic-catch.json) |
 | Galactic Center VR | 131610 | [131610-galactic-center-vr.json](./131610-galactic-center-vr.json) |
