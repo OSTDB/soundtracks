@@ -9280,6 +9280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Laser Games | 321639 | [321639-the-laser-games.json](./321639-the-laser-games.json) |
 | The Last | 31802 | [31802-the-last.json](./31802-the-last.json) |
 | The Last (Hotdog) Stand | 399185 | [399185-the-last-hotdog-stand.json](./399185-the-last-hotdog-stand.json) |
+| The Last 47 Hours | 115374 | [115374-the-last-47-hours.json](./115374-the-last-47-hours.json) |
 | The Last 66 Days | 278107 | [278107-the-last-66-days.json](./278107-the-last-66-days.json) |
 | The Last Act | 165454 | [165454-the-last-act.json](./165454-the-last-act.json) |
 | The Last Adventure | 331756 | [331756-the-last-adventure.json](./331756-the-last-adventure.json) |
@@ -9866,6 +9867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Astera Stone | 300020 | [300020-the-legend-of-the-astera-stone.json](./300020-the-legend-of-the-astera-stone.json) |
 | The Legend of The Black Wizard | 157471 | [157471-the-legend-of-the-black-wizard.json](./157471-the-legend-of-the-black-wizard.json) |
 | The Legend of the Blue Sword | 307980 | [307980-the-legend-of-the-blue-sword.json](./307980-the-legend-of-the-blue-sword.json) |
+| The Legend of the Dragonflame High School 2 | 115380 | [115380-the-legend-of-the-dragonflame-high-school-2.json](./115380-the-legend-of-the-dragonflame-high-school-2.json) |
 | The Legend of The Duck Knite | 117507 | [117507-the-legend-of-the-duck-knite.json](./117507-the-legend-of-the-duck-knite.json) |
 | The Legend of the Radient Mask | 135094 | [135094-the-legend-of-the-radient-mask.json](./135094-the-legend-of-the-radient-mask.json) |
 | The Legend of The Sacred Stone EX | 371336 | [371336-the-legend-of-the-sacred-stone-ex.json](./371336-the-legend-of-the-sacred-stone-ex.json) |
@@ -10331,6 +10333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: Gollum - Precious Edition | 248677 | [248677-the-lord-of-the-rings-gollum-precious-edition.json](./248677-the-lord-of-the-rings-gollum-precious-edition.json) |
 | The Lord of the Rings: Heroes of Middle Earth | 209924 | [209924-the-lord-of-the-rings-heroes-of-middle-earth.json](./209924-the-lord-of-the-rings-heroes-of-middle-earth.json) |
 | The Lord of the Rings: Journey to Rivendell | 46888 | [46888-the-lord-of-the-rings-journey-to-rivendell.json](./46888-the-lord-of-the-rings-journey-to-rivendell.json) |
+| The Lord of the Rings: Journeys in Middle-earth | 115329 | [115329-the-lord-of-the-rings-journeys-in-middle-earth.json](./115329-the-lord-of-the-rings-journeys-in-middle-earth.json) |
 | The Lord of the Rings: Return to Moria - Ent-craft Pack | 336898 | [336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json](./336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json) |
 | The Lord of the Rings: Rise to War | 174867 | [174867-the-lord-of-the-rings-rise-to-war.json](./174867-the-lord-of-the-rings-rise-to-war.json) |
 | The Lord of the Rings: Tactics | 22458 | [22458-the-lord-of-the-rings-tactics.json](./22458-the-lord-of-the-rings-tactics.json) |
@@ -17216,6 +17219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Black Hill Fortress MP074 | 160366 | [160366-tiger-tank-59-i-black-hill-fortress-mp074.json](./160366-tiger-tank-59-i-black-hill-fortress-mp074.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP089 | 160335 | [160335-tiger-tank-59-i-black-hill-fortress-mp089.json](./160335-tiger-tank-59-i-black-hill-fortress-mp089.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP091 | 161064 | [161064-tiger-tank-59-i-black-hill-fortress-mp091.json](./161064-tiger-tank-59-i-black-hill-fortress-mp091.json) |
+| Tiger Tank 59 I: Break the Fog | 115369 | [115369-tiger-tank-59-i-break-the-fog.json](./115369-tiger-tank-59-i-break-the-fog.json) |
 | Tiger Tank 59 I: Break the Fog MP001 | 160808 | [160808-tiger-tank-59-i-break-the-fog-mp001.json](./160808-tiger-tank-59-i-break-the-fog-mp001.json) |
 | Tiger Tank 59 I: Break the Fog MP002 | 160326 | [160326-tiger-tank-59-i-break-the-fog-mp002.json](./160326-tiger-tank-59-i-break-the-fog-mp002.json) |
 | Tiger Tank 59 I: Break the Fog MP003 | 160798 | [160798-tiger-tank-59-i-break-the-fog-mp003.json](./160798-tiger-tank-59-i-break-the-fog-mp003.json) |
@@ -24261,6 +24265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TriDefense | 63229 | [63229-tridefense.json](./63229-tridefense.json) |
 | Tridek: Creatures of Galena | 63142 | [63142-tridek-creatures-of-galena.json](./63142-tridek-creatures-of-galena.json) |
 | Trident | 159647 | [159647-trident.json](./159647-trident.json) |
+| Trident Barrage | 115370 | [115370-trident-barrage.json](./115370-trident-barrage.json) |
 | Trident's Tale | 336161 | [336161-tridents-tale.json](./336161-tridents-tale.json) |
 | Trident's Wake | 74813 | [74813-tridents-wake.json](./74813-tridents-wake.json) |
 | Tridle | 228715 | [228715-tridle.json](./228715-tridle.json) |
@@ -25993,6 +25998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinsen's Little Big Adventure 2 Classic | 79653 | [79653-twinsens-little-big-adventure-2-classic.json](./79653-twinsens-little-big-adventure-2-classic.json) |
 | Twinsen's Little Big Adventure Classic | 8515 | [8515-twinsens-little-big-adventure-classic.json](./8515-twinsens-little-big-adventure-classic.json) |
 | Twinsen's Little Big Adventure Remastered 2 | 241953 | [241953-twinsens-little-big-adventure-remastered-2.json](./241953-twinsens-little-big-adventure-remastered-2.json) |
+| Twinship | 115365 | [115365-twinship.json](./115365-twinship.json) |
 | Twinstick Arcade | 149464 | [149464-twinstick-arcade.json](./149464-twinstick-arcade.json) |
 | TwinStick: This Ain't No Picnic | 77259 | [77259-twinstick-this-aint-no-picnic.json](./77259-twinstick-this-aint-no-picnic.json) |
 | Twintris | 396767 | [396767-twintris.json](./396767-twintris.json) |
