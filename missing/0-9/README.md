@@ -1909,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3in1: Meine Tierpension + Meine Tierschule + Mein Westernpferd | 269540 | [269540-3in1-meine-tierpension-meine-tierschule-mein-westernpferd.json](./269540-3in1-meine-tierpension-meine-tierschule-mein-westernpferd.json) |
 | 3LDK | 58152 | [58152-3ldk.json](./58152-3ldk.json) |
 | 3M Spain Foundation: Stem + VR | 187449 | [187449-3m-spain-foundation-stem-vr.json](./187449-3m-spain-foundation-stem-vr.json) |
+| 3ndl3zz: Base Defense | 130589 | [130589-3ndl3zz-base-defense.json](./130589-3ndl3zz-base-defense.json) |
 | 3on3 FreeStyle: 2025 Special Pack | 377374 | [377374-3on3-freestyle-2025-special-pack.json](./377374-3on3-freestyle-2025-special-pack.json) |
 | 3on3 FreeStyle: Battle Pass 2023 Autumn Bundle Part 1 | 269049 | [269049-3on3-freestyle-battle-pass-2023-autumn-bundle-part-1.json](./269049-3on3-freestyle-battle-pass-2023-autumn-bundle-part-1.json) |
 | 3on3 FreeStyle: Battle Pass 2023 Autumn Bundle Part 2 | 276857 | [276857-3on3-freestyle-battle-pass-2023-autumn-bundle-part-2.json](./276857-3on3-freestyle-battle-pass-2023-autumn-bundle-part-2.json) |
