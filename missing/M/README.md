@@ -5308,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechborn | 384809 | [384809-mechborn.json](./384809-mechborn.json) |
 | MechCom | 101549 | [101549-mechcom.json](./101549-mechcom.json) |
 | MechCom 2 | 105984 | [105984-mechcom-2.json](./105984-mechcom-2.json) |
+| MechCom 3 | 106918 | [106918-mechcom-3.json](./106918-mechcom-3.json) |
 | MechCommander | 19193 | [19193-mechcommander.json](./19193-mechcommander.json) |
 | MechCommander 2 | 19194 | [19194-mechcommander-2.json](./19194-mechcommander-2.json) |
 | MechCommander Gold | 79767 | [79767-mechcommander-gold.json](./79767-mechcommander-gold.json) |
@@ -6793,6 +6794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memology | 375957 | [375957-memology.json](./375957-memology.json) |
 | Memology 2: Old Times | 360484 | [360484-memology-2-old-times.json](./360484-memology-2-old-times.json) |
 | Memology: Goyda | 372583 | [372583-memology-goyda.json](./372583-memology-goyda.json) |
+| Memopoly | 106905 | [106905-memopoly.json](./106905-memopoly.json) |
 | Memora Wanderer | 298267 | [298267-memora-wanderer.json](./298267-memora-wanderer.json) |
 | Memorabilia | 177412 | [177412-memorabilia.json](./177412-memorabilia.json) |
 | Memoralysis: The Scorched Home | 323230 | [323230-memoralysis-the-scorched-home.json](./323230-memoralysis-the-scorched-home.json) |
@@ -12243,6 +12245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Prom | 96672 | [96672-monster-girl-prom.json](./96672-monster-girl-prom.json) |
 | Monster Girl Saga: Fallen Heroes | 341330 | [341330-monster-girl-saga-fallen-heroes.json](./341330-monster-girl-saga-fallen-heroes.json) |
 | Monster Girl's Labyrinth | 210470 | [210470-monster-girls-labyrinth.json](./210470-monster-girls-labyrinth.json) |
+| Monster Girls Salon Dress Up | 106895 | [106895-monster-girls-salon-dress-up.json](./106895-monster-girls-salon-dress-up.json) |
 | Monster Girls Survival & Craft 2040 | 421361 | [421361-monster-girls-survival-and-craft-2040.json](./421361-monster-girls-survival-and-craft-2040.json) |
 | Monster Girls: the Advent | 182733 | [182733-monster-girls-the-advent.json](./182733-monster-girls-the-advent.json) |
 | Monster Girls: You Can't Say No | 415164 | [415164-monster-girls-you-cant-say-no.json](./415164-monster-girls-you-cant-say-no.json) |
@@ -12573,6 +12576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Arena: Battle Royale | 322419 | [322419-monster-truck-arena-battle-royale.json](./322419-monster-truck-arena-battle-royale.json) |
 | Monster Truck Championship | 132220 | [132220-monster-truck-championship.json](./132220-monster-truck-championship.json) |
 | Monster Truck Championship: Rebel Hunter Edition | 164784 | [164784-monster-truck-championship-rebel-hunter-edition.json](./164784-monster-truck-championship-rebel-hunter-edition.json) |
+| Monster Truck Demolition | 106910 | [106910-monster-truck-demolition.json](./106910-monster-truck-demolition.json) |
 | Monster Truck Demolition Derby | 394803 | [394803-monster-truck-demolition-derby.json](./394803-monster-truck-demolition-derby.json) |
 | Monster Truck Drive | 96518 | [96518-monster-truck-drive.json](./96518-monster-truck-drive.json) |
 | Monster Truck Freestyle | 283279 | [283279-monster-truck-freestyle.json](./283279-monster-truck-freestyle.json) |
@@ -15567,6 +15571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My 1/6 Lover | 111404 | [111404-my-1-6-lover.json](./111404-my-1-6-lover.json) |
 | My 11 Heroes | 234508 | [234508-my-11-heroes.json](./234508-my-11-heroes.json) |
 | My 3rd Date with my Cyber Girlfriend | 183401 | [183401-my-3rd-date-with-my-cyber-girlfriend.json](./183401-my-3rd-date-with-my-cyber-girlfriend.json) |
+| My 5-Star Hotel | 106897 | [106897-my-5-star-hotel.json](./106897-my-5-star-hotel.json) |
 | My 9 Swallows: Topstars League | 241525 | [241525-my-9-swallows-topstars-league.json](./241525-my-9-swallows-topstars-league.json) |
 | My Adaptation In(to) Human | 301348 | [301348-my-adaptation-in-to-human.json](./301348-my-adaptation-in-to-human.json) |
 | My Agent is a Futanari | 220676 | [220676-my-agent-is-a-futanari.json](./220676-my-agent-is-a-futanari.json) |
@@ -16666,6 +16671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mylk | 146830 | [146830-mylk.json](./146830-mylk.json) |
 | Mylo uronil | 110143 | [110143-mylo-uronil.json](./110143-mylo-uronil.json) |
 | MyMan | 93150 | [93150-myman.json](./93150-myman.json) |
+| Mymyry | 106890 | [106890-mymyry.json](./106890-mymyry.json) |
 | MyNBA2K16 | 79975 | [79975-mynba2k16.json](./79975-mynba2k16.json) |
 | myNotebook: Tan | 91868 | [91868-mynotebook-tan.json](./91868-mynotebook-tan.json) |
 | Myoka: First Person View | 291376 | [291376-myoka-first-person-view.json](./291376-myoka-first-person-view.json) |
