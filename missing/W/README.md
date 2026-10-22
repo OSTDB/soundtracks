@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Dark Sectors | 201158 | [201158-warframe-dark-sectors.json](./201158-warframe-dark-sectors.json) |
 | Warframe: Echoes of Duviri | 263523 | [263523-warframe-echoes-of-duviri.json](./263523-warframe-echoes-of-duviri.json) |
 | Warframe: Echoes of the Sentient | 198336 | [198336-warframe-echoes-of-the-sentient.json](./198336-warframe-echoes-of-the-sentient.json) |
+| Warframe: Empyrean | 119348 | [119348-warframe-empyrean.json](./119348-warframe-empyrean.json) |
 | Warframe: Fortuna | 111285 | [111285-warframe-fortuna.json](./111285-warframe-fortuna.json) |
 | Warframe: Gunblade Battlekit | 353310 | [353310-warframe-gunblade-battlekit.json](./353310-warframe-gunblade-battlekit.json) |
 | Warframe: Heart of Deimos | 137295 | [137295-warframe-heart-of-deimos.json](./137295-warframe-heart-of-deimos.json) |
@@ -1868,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs: Access Granted Pack | 399905 | [399905-watch-dogs-access-granted-pack.json](./399905-watch-dogs-access-granted-pack.json) |
 | Watch Dogs: Bad Blood | 17473 | [17473-watch-dogs-bad-blood.json](./17473-watch-dogs-bad-blood.json) |
 | Watch Dogs: DEDSEC Edition | 103379 | [103379-watch-dogs-dedsec-edition.json](./103379-watch-dogs-dedsec-edition.json) |
+| Watch Dogs: Legion - Collector's Edition | 119354 | [119354-watch-dogs-legion-collectors-edition.json](./119354-watch-dogs-legion-collectors-edition.json) |
 | Watch Dogs: Legion - Gold Edition | 119575 | [119575-watch-dogs-legion-gold-edition.json](./119575-watch-dogs-legion-gold-edition.json) |
 | Watch Dogs: Legion - Golden King Pack | 334114 | [334114-watch-dogs-legion-golden-king-pack.json](./334114-watch-dogs-legion-golden-king-pack.json) |
 | Watch Dogs: Legion - Limited Edition Pack | 334550 | [334550-watch-dogs-legion-limited-edition-pack.json](./334550-watch-dogs-legion-limited-edition-pack.json) |
