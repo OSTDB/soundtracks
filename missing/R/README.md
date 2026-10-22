@@ -3865,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnants of Sin: Deck & Puzzle | 385352 | [385352-remnants-of-sin-deck-and-puzzle.json](./385352-remnants-of-sin-deck-and-puzzle.json) |
 | Remnants of Skystone | 270283 | [270283-remnants-of-skystone.json](./270283-remnants-of-skystone.json) |
 | Remnants of the Arcane | 32168 | [32168-remnants-of-the-arcane.json](./32168-remnants-of-the-arcane.json) |
+| Remnants of the Dawn | 132495 | [132495-remnants-of-the-dawn.json](./132495-remnants-of-the-dawn.json) |
 | Remnants of the Precursors | 133756 | [133756-remnants-of-the-precursors.json](./133756-remnants-of-the-precursors.json) |
 | Remnants of the Rift | 154369 | [154369-remnants-of-the-rift.json](./154369-remnants-of-the-rift.json) |
 | Remnants of Yore | 342654 | [342654-remnants-of-yore.json](./342654-remnants-of-yore.json) |
@@ -4422,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resistance Is Brutal | 403572 | [403572-resistance-is-brutal.json](./403572-resistance-is-brutal.json) |
 | Resistance is Fruitile | 117621 | [117621-resistance-is-fruitile.json](./117621-resistance-is-fruitile.json) |
 | Resistance Rocks | 270711 | [270711-resistance-rocks.json](./270711-resistance-rocks.json) |
+| Resistance TD | 132463 | [132463-resistance-td.json](./132463-resistance-td.json) |
 | Resistance: The 8th Wave | 192689 | [192689-resistance-the-8th-wave.json](./192689-resistance-the-8th-wave.json) |
 | Resistor | 252786 | [252786-resistor.json](./252786-resistor.json) |
 | reSnake | 230734 | [230734-resnake.json](./230734-resnake.json) |
@@ -4934,6 +4936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revector | 46516 | [46516-revector.json](./46516-revector.json) |
 | Reveil: Funhouse Edition | 290112 | [290112-reveil-funhouse-edition.json](./290112-reveil-funhouse-edition.json) |
 | Revel | 173010 | [173010-revel.json](./173010-revel.json) |
+| Revel Rousers | 132492 | [132492-revel-rousers.json](./132492-revel-rousers.json) |
 | Revelation | 126319 | [126319-revelation.json](./126319-revelation.json) |
 | Revelation | 126320 | [126320-revelation.json](./126320-revelation.json) |
 | Revelation | 263510 | [263510-revelation.json](./263510-revelation.json) |
