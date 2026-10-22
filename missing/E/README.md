@@ -2772,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End State | 77337 | [77337-end-state.json](./77337-end-state.json) |
 | End the Endless | 338716 | [338716-end-the-endless.json](./338716-end-the-endless.json) |
 | End Them, Soldier! | 347690 | [347690-end-them-soldier.json](./347690-end-them-soldier.json) |
+| End War RTS | 105711 | [105711-end-war-rts.json](./105711-end-war-rts.json) |
 | End War RTS 2 | 160234 | [160234-end-war-rts-2.json](./160234-end-war-rts-2.json) |
 | End's beginning | 310715 | [310715-ends-beginning.json](./310715-ends-beginning.json) |
 | End's Reach | 325331 | [325331-ends-reach.json](./325331-ends-reach.json) |
@@ -5432,6 +5433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everything Must Fall | 28132 | [28132-everything-must-fall.json](./28132-everything-must-fall.json) |
 | Everything Store | 391194 | [391194-everything-store.json](./391194-everything-store.json) |
 | Everything Will Be Fine! | 393969 | [393969-everything-will-be-fine.json](./393969-everything-will-be-fine.json) |
+| Everything Will Flow | 105708 | [105708-everything-will-flow.json](./105708-everything-will-flow.json) |
 | Everything You Didn't Get to Do | 282092 | [282092-everything-you-didnt-get-to-do.json](./282092-everything-you-didnt-get-to-do.json) |
 | Everything: All in 1 | 291761 | [291761-everything-all-in-1.json](./291761-everything-all-in-1.json) |
 | Everything's Fine | 281302 | [281302-everythings-fine.json](./281302-everythings-fine.json) |
