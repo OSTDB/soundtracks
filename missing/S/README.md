@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.U.N. Runner | 12368 | [12368-s-t-u-n-runner.json](./12368-s-t-u-n-runner.json) |
 | S.U.A.V.E - Sport-Utility Assault Vehicle Extreme! | 60908 | [60908-s-u-a-v-e-sport-utility-assault-vehicle-extreme.json](./60908-s-u-a-v-e-sport-utility-assault-vehicle-extreme.json) |
 | S.U.D.O.K.U. | 264459 | [264459-s-u-d-o-k-u.json](./264459-s-u-d-o-k-u.json) |
+| S.U.M. Slay Uncool Monsters | 142306 | [142306-s-u-m-slay-uncool-monsters.json](./142306-s-u-m-slay-uncool-monsters.json) |
 | S.U.M. Slay Uncool Monsters: Archer | 168247 | [168247-s-u-m-slay-uncool-monsters-archer.json](./168247-s-u-m-slay-uncool-monsters-archer.json) |
 | S.U.M. Slay Uncool Monsters: Assassin | 168248 | [168248-s-u-m-slay-uncool-monsters-assassin.json](./168248-s-u-m-slay-uncool-monsters-assassin.json) |
 | S.U.M. Slay Uncool Monsters: Paladin | 168250 | [168250-s-u-m-slay-uncool-monsters-paladin.json](./168250-s-u-m-slay-uncool-monsters-paladin.json) |
@@ -2521,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoops & Social Ice-Olation | 258521 | [258521-scoops-and-social-ice-olation.json](./258521-scoops-and-social-ice-olation.json) |
 | Scoops Ahoy | 245198 | [245198-scoops-ahoy.json](./245198-scoops-ahoy.json) |
 | Scoopy Cereal | 304951 | [304951-scoopy-cereal.json](./304951-scoopy-cereal.json) |
+| Scoot | 142169 | [142169-scoot.json](./142169-scoot.json) |
 | Scoot Hard DX: Daytime Drama Zero | 230508 | [230508-scoot-hard-dx-daytime-drama-zero.json](./230508-scoot-hard-dx-daytime-drama-zero.json) |
 | Scoot Kaboom and the Tomb of Doom | 132695 | [132695-scoot-kaboom-and-the-tomb-of-doom.json](./132695-scoot-kaboom-and-the-tomb-of-doom.json) |
 | Scoot Scoot | 180469 | [180469-scoot-scoot.json](./180469-scoot-scoot.json) |
@@ -5932,6 +5934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Skies | 21601 | [21601-shattered-skies.json](./21601-shattered-skies.json) |
 | Shattered Sky | 244502 | [244502-shattered-sky.json](./244502-shattered-sky.json) |
 | Shattered Slime | 160218 | [160218-shattered-slime.json](./160218-shattered-slime.json) |
+| Shattered Soul | 142307 | [142307-shattered-soul.json](./142307-shattered-soul.json) |
 | Shattered Souls | 316428 | [316428-shattered-souls.json](./316428-shattered-souls.json) |
 | Shattered State | 203750 | [203750-shattered-state.json](./203750-shattered-state.json) |
 | Shattered Stone | 185545 | [185545-shattered-stone.json](./185545-shattered-stone.json) |
@@ -6459,6 +6462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Imagine | 72672 | [72672-shin-megami-tensei-imagine.json](./72672-shin-megami-tensei-imagine.json) |
 | Shin Megami Tensei: Nine | 6050 | [6050-shin-megami-tensei-nine.json](./6050-shin-megami-tensei-nine.json) |
 | Shin Megami Tensei: Nocturne - Hardtype | 135678 | [135678-shin-megami-tensei-nocturne-hardtype.json](./135678-shin-megami-tensei-nocturne-hardtype.json) |
+| Shin Megami Tensei: Nocturne Randomizer | 142296 | [142296-shin-megami-tensei-nocturne-randomizer.json](./142296-shin-megami-tensei-nocturne-randomizer.json) |
 | Shin Megami Tensei: Persona | 21842 | [21842-shin-megami-tensei-persona.json](./21842-shin-megami-tensei-persona.json) |
 | Shin Megami Tensei: Persona 2 - Innocent Sin | 250931 | [250931-shin-megami-tensei-persona-2-innocent-sin.json](./250931-shin-megami-tensei-persona-2-innocent-sin.json) |
 | Shin Megami Tensei: Persona 3 Portable - Collector's Edition | 41863 | [41863-shin-megami-tensei-persona-3-portable-collectors-edition.json](./41863-shin-megami-tensei-persona-3-portable-collectors-edition.json) |
@@ -12946,6 +12950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Peace of Mind | 144108 | [144108-some-peace-of-mind.json](./144108-some-peace-of-mind.json) |
 | Some Peace of Mind | 22361 | [22361-some-peace-of-mind.json](./22361-some-peace-of-mind.json) |
 | Some RPG Game | 273422 | [273422-some-rpg-game.json](./273422-some-rpg-game.json) |
+| Some Say It Has Always Been Here | 142082 | [142082-some-say-it-has-always-been-here.json](./142082-some-say-it-has-always-been-here.json) |
 | Some Some Convenience Store: Adela After Story | 316253 | [316253-some-some-convenience-store-adela-after-story.json](./316253-some-some-convenience-store-adela-after-story.json) |
 | Some Some Convenience Store: After Stories Pass | 316254 | [316254-some-some-convenience-store-after-stories-pass.json](./316254-some-some-convenience-store-after-stories-pass.json) |
 | Some Some Convenience Store: Soohee After Story | 316252 | [316252-some-some-convenience-store-soohee-after-story.json](./316252-some-some-convenience-store-soohee-after-story.json) |
