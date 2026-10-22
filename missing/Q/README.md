@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q'Bicles | 93472 | [93472-qbicles.json](./93472-qbicles.json) |
 | Q'Redux | 216946 | [216946-qredux.json](./216946-qredux.json) |
 | Q*bert | 100023 | [100023-q-bert.json](./100023-q-bert.json) |
+| Q*bert | 141711 | [141711-q-bert.json](./141711-q-bert.json) |
 | Q*bert | 217954 | [217954-q-bert.json](./217954-q-bert.json) |
 | Q*bert | 218347 | [218347-q-bert.json](./218347-q-bert.json) |
 | Q*bert | 218430 | [218430-q-bert.json](./218430-q-bert.json) |
