@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octagonis | 177856 | [177856-octagonis.json](./177856-octagonis.json) |
 | Octahedron | 89749 | [89749-octahedron.json](./89749-octahedron.json) |
 | Octamari Rescue | 32844 | [32844-octamari-rescue.json](./32844-octamari-rescue.json) |
+| Octane Remix | 134307 | [134307-octane-remix.json](./134307-octane-remix.json) |
 | Octane100 | 359571 | [359571-octane100.json](./359571-octane100.json) |
 | Octapolis | 55030 | [55030-octapolis.json](./55030-octapolis.json) |
 | OctaRace | 273818 | [273818-octarace.json](./273818-octarace.json) |
@@ -1256,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Om Nom: Coloring, Toons & Puzzle - Flavorful Puzzles | 199828 | [199828-om-nom-coloring-toons-and-puzzle-flavorful-puzzles.json](./199828-om-nom-coloring-toons-and-puzzle-flavorful-puzzles.json) |
 | Om Nom: Coloring, Toons & Puzzle - Sweet Coloring Pages | 199827 | [199827-om-nom-coloring-toons-and-puzzle-sweet-coloring-pages.json](./199827-om-nom-coloring-toons-and-puzzle-sweet-coloring-pages.json) |
 | Om Nom: Coloring, Toons & Puzzle - Tasty Toons | 199826 | [199826-om-nom-coloring-toons-and-puzzle-tasty-toons.json](./199826-om-nom-coloring-toons-and-puzzle-tasty-toons.json) |
+| Om Nom: Merge | 134290 | [134290-om-nom-merge.json](./134290-om-nom-merge.json) |
 | Om Nom: Run - Costumes and Themes | 251666 | [251666-om-nom-run-costumes-and-themes.json](./251666-om-nom-run-costumes-and-themes.json) |
 | Om Nom: Run - Ultimate Edition | 251667 | [251667-om-nom-run-ultimate-edition.json](./251667-om-nom-run-ultimate-edition.json) |
 | Om Nom: Run & Om Nom: Run 2 | 363971 | [363971-om-nom-run-and-om-nom-run-2.json](./363971-om-nom-run-and-om-nom-run-2.json) |
