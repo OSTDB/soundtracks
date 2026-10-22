@@ -8780,6 +8780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
 | The Isolation Ward | 177840 | [177840-the-isolation-ward.json](./177840-the-isolation-ward.json) |
 | The Italianeer | 105552 | [105552-the-italianeer.json](./105552-the-italianeer.json) |
+| The Itch | 120002 | [120002-the-itch.json](./120002-the-itch.json) |
 | The Itchy & Scratchy Game | 368895 | [368895-the-itchy-and-scratchy-game.json](./368895-the-itchy-and-scratchy-game.json) |
 | The Jackbox Big Bang Bundle | 376263 | [376263-the-jackbox-big-bang-bundle.json](./376263-the-jackbox-big-bang-bundle.json) |
 | The Jackbox Bundle | 53750 | [53750-the-jackbox-bundle.json](./53750-the-jackbox-bundle.json) |
@@ -11072,6 +11073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -14746,6 +14748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way Home | 362293 | [362293-the-way-home.json](./362293-the-way-home.json) |
 | The Way Home: Dungeon Cat | 193711 | [193711-the-way-home-dungeon-cat.json](./193711-the-way-home-dungeon-cat.json) |
 | The Way It Rains on Animals | 332806 | [332806-the-way-it-rains-on-animals.json](./332806-the-way-it-rains-on-animals.json) |
+| The Way of Cinnamon | 120006 | [120006-the-way-of-cinnamon.json](./120006-the-way-of-cinnamon.json) |
 | The Way of Cooking | 292525 | [292525-the-way-of-cooking.json](./292525-the-way-of-cooking.json) |
 | The Way Of Kings | 296606 | [296606-the-way-of-kings.json](./296606-the-way-of-kings.json) |
 | The Way of Kings: Escape the Shattered Plains | 87860 | [87860-the-way-of-kings-escape-the-shattered-plains.json](./87860-the-way-of-kings-escape-the-shattered-plains.json) |
@@ -15621,6 +15624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thinky Dailies | 380657 | [380657-thinky-dailies.json](./380657-thinky-dailies.json) |
 | Thinky Dailies: Season 1 | 388215 | [388215-thinky-dailies-season-1.json](./388215-thinky-dailies-season-1.json) |
 | Thinky Dailies: Season 2 | 393808 | [393808-thinky-dailies-season-2.json](./393808-thinky-dailies-season-2.json) |
+| Thinnest Judgment | 119991 | [119991-thinnest-judgment.json](./119991-thinnest-judgment.json) |
 | Thirayan | 201551 | [201551-thirayan.json](./201551-thirayan.json) |
 | Third | 233784 | [233784-third.json](./233784-third.json) |
 | Third Age: Total War | 356233 | [356233-third-age-total-war.json](./356233-third-age-total-war.json) |
@@ -24456,6 +24460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Quest | 256860 | [256860-trivia-quest.json](./256860-trivia-quest.json) |
 | Trivia Quiz: All about everything! | 106156 | [106156-trivia-quiz-all-about-everything.json](./106156-trivia-quiz-all-about-everything.json) |
 | Trivia Replacement Questions | 87219 | [87219-trivia-replacement-questions.json](./87219-trivia-replacement-questions.json) |
+| Trivia Throwdown | 119992 | [119992-trivia-throwdown.json](./119992-trivia-throwdown.json) |
 | Trivia Town: Quiz Duel | 232064 | [232064-trivia-town-quiz-duel.json](./232064-trivia-town-quiz-duel.json) |
 | Trivia Tricks | 140534 | [140534-trivia-tricks.json](./140534-trivia-tricks.json) |
 | Trivia Trove | 55991 | [55991-trivia-trove.json](./55991-trivia-trove.json) |
@@ -24895,6 +24900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Matrix Total Conversion | 218654 | [218654-true-matrix-total-conversion.json](./218654-true-matrix-total-conversion.json) |
 | True Nightmare: Diner Loop | 413209 | [413209-true-nightmare-diner-loop.json](./413209-true-nightmare-diner-loop.json) |
 | True Nightmare: Roadside Сafe | 319642 | [319642-true-nightmare-roadside-afe.json](./319642-true-nightmare-roadside-afe.json) |
+| True North | 120030 | [120030-true-north.json](./120030-true-north.json) |
 | True or False | 96483 | [96483-true-or-false.json](./96483-true-or-false.json) |
 | True or False 2 | 29717 | [29717-true-or-false-2.json](./29717-true-or-false-2.json) |
 | True or False: Owl Rescue | 172364 | [172364-true-or-false-owl-rescue.json](./172364-true-or-false-owl-rescue.json) |
