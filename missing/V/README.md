@@ -1202,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermiworm | 183309 | [183309-vermiworm.json](./183309-vermiworm.json) |
 | Vernal Edge | 138365 | [138365-vernal-edge.json](./138365-vernal-edge.json) |
 | Verne World | 37772 | [37772-verne-world.json](./37772-verne-world.json) |
+| Verne: The Shape of Fantasy | 131885 | [131885-verne-the-shape-of-fantasy.json](./131885-verne-the-shape-of-fantasy.json) |
 | Verocity | 367745 | [367745-verocity.json](./367745-verocity.json) |
 | Verona | 110221 | [110221-verona.json](./110221-verona.json) |
 | Veronica | 343792 | [343792-veronica.json](./343792-veronica.json) |
@@ -2063,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Driving School | 404840 | [404840-virtual-driving-school.json](./404840-virtual-driving-school.json) |
 | Virtual Duck Hunt | 382521 | [382521-virtual-duck-hunt.json](./382521-virtual-duck-hunt.json) |
 | Virtual Earth Online | 106642 | [106642-virtual-earth-online.json](./106642-virtual-earth-online.json) |
+| Virtual Escape - The Play Room | 131875 | [131875-virtual-escape-the-play-room.json](./131875-virtual-escape-the-play-room.json) |
 | Virtual Escape: Digital World | 167838 | [167838-virtual-escape-digital-world.json](./167838-virtual-escape-digital-world.json) |
 | Virtual Expo 2025 Japan | 373170 | [373170-virtual-expo-2025-japan.json](./373170-virtual-expo-2025-japan.json) |
 | Virtual Families 3 | 239674 | [239674-virtual-families-3.json](./239674-virtual-families-3.json) |
