@@ -3415,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death End Re;Quest 2 | 120302 | [120302-death-end-re-quest-2.json](./120302-death-end-re-quest-2.json) |
 | Death end re;Quest 2 - Ultimate Weapon Set | 224513 | [224513-death-end-re-quest-2-ultimate-weapon-set.json](./224513-death-end-re-quest-2-ultimate-weapon-set.json) |
 | Death End Re;Quest 2: Complete Deluxe Edition | 186871 | [186871-death-end-re-quest-2-complete-deluxe-edition.json](./186871-death-end-re-quest-2-complete-deluxe-edition.json) |
+| Death End Re;Quest 2: Day One Edition | 139854 | [139854-death-end-re-quest-2-day-one-edition.json](./139854-death-end-re-quest-2-day-one-edition.json) |
 | Death End Re;Quest 2: Death End Box | 136721 | [136721-death-end-re-quest-2-death-end-box.json](./136721-death-end-re-quest-2-death-end-box.json) |
 | Death End Re;Quest 2: Limited Edition | 166236 | [166236-death-end-re-quest-2-limited-edition.json](./166236-death-end-re-quest-2-limited-edition.json) |
 | Death End Re;Quest 3 | 405964 | [405964-death-end-re-quest-3.json](./405964-death-end-re-quest-3.json) |
@@ -3607,6 +3608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Worm | 337201 | [337201-death-worm.json](./337201-death-worm.json) |
 | Death Zone | 144854 | [144854-death-zone.json](./144854-death-zone.json) |
 | Death, Soul & Robots | 245854 | [245854-death-soul-and-robots.json](./245854-death-soul-and-robots.json) |
+| Death: The Ascension | 139652 | [139652-death-the-ascension.json](./139652-death-the-ascension.json) |
 | Death? Preposterous! | 133985 | [133985-death-preposterous.json](./133985-death-preposterous.json) |
 | Death's Dichotomy | 261173 | [261173-deaths-dichotomy.json](./261173-deaths-dichotomy.json) |
 | Death's Door: Ultimate Edition | 206673 | [206673-deaths-door-ultimate-edition.json](./206673-deaths-door-ultimate-edition.json) |
@@ -5048,6 +5050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonic Tales Bundle | 233016 | [233016-demonic-tales-bundle.json](./233016-demonic-tales-bundle.json) |
 | DemonicGuestVR | 30747 | [30747-demonicguestvr.json](./30747-demonicguestvr.json) |
 | Demonicute | 155672 | [155672-demonicute.json](./155672-demonicute.json) |
+| Demonizer | 139678 | [139678-demonizer.json](./139678-demonizer.json) |
 | Demonk | 347239 | [347239-demonk.json](./347239-demonk.json) |
 | DeMonkey | 302122 | [302122-demonkey.json](./302122-demonkey.json) |
 | Demonology: Incubus - Chapter 5 | 319659 | [319659-demonology-incubus-chapter-5.json](./319659-demonology-incubus-chapter-5.json) |
@@ -9290,6 +9293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominator | 13601 | [13601-dominator.json](./13601-dominator.json) |
 | Dominator Idle | 235879 | [235879-dominator-idle.json](./235879-dominator-idle.json) |
 | Dominay | 211962 | [211962-dominay.json](./211962-dominay.json) |
+| Domineon 2 | 139655 | [139655-domineon-2.json](./139655-domineon-2.json) |
 | Domini | 353065 | [353065-domini.json](./353065-domini.json) |
 | Dominic Cranes's Dreamscape Mystery | 210211 | [210211-dominic-craness-dreamscape-mystery.json](./210211-dominic-craness-dreamscape-mystery.json) |
 | Dominion of Madess | 263359 | [263359-dominion-of-madess.json](./263359-dominion-of-madess.json) |
@@ -13790,6 +13794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Concierge | 377812 | [377812-dungeon-concierge.json](./377812-dungeon-concierge.json) |
 | Dungeon Conqueror | 166172 | [166172-dungeon-conqueror.json](./166172-dungeon-conqueror.json) |
 | Dungeon Construction Co | 96196 | [96196-dungeon-construction-co.json](./96196-dungeon-construction-co.json) |
+| Dungeon Consultant | 139648 | [139648-dungeon-consultant.json](./139648-dungeon-consultant.json) |
 | Dungeon Conundrum | 190887 | [190887-dungeon-conundrum.json](./190887-dungeon-conundrum.json) |
 | Dungeon Core Master | 274770 | [274770-dungeon-core-master.json](./274770-dungeon-core-master.json) |
 | Dungeon Coup | 161350 | [161350-dungeon-coup.json](./161350-dungeon-coup.json) |
