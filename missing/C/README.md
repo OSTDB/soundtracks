@@ -2165,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carousel | 13700 | [13700-carousel.json](./13700-carousel.json) |
 | Carousel | 261887 | [261887-carousel.json](./261887-carousel.json) |
 | Carpark Hero | 404216 | [404216-carpark-hero.json](./404216-carpark-hero.json) |
+| Carpathian Night | 108757 | [108757-carpathian-night.json](./108757-carpathian-night.json) |
 | Carpathian Night Starring Bela Lugosi | 330234 | [330234-carpathian-night-starring-bela-lugosi.json](./330234-carpathian-night-starring-bela-lugosi.json) |
 | Carpathian Skies | 310706 | [310706-carpathian-skies.json](./310706-carpathian-skies.json) |
 | Carpathian Survival | 315263 | [315263-carpathian-survival.json](./315263-carpathian-survival.json) |
@@ -14973,6 +14974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubiti Parti | 202749 | [202749-cubiti-parti.json](./202749-cubiti-parti.json) |
 | Cubitrix | 277257 | [277257-cubitrix.json](./277257-cubitrix.json) |
 | Cubium Dreams | 33381 | [33381-cubium-dreams.json](./33381-cubium-dreams.json) |
+| Cubiverse | 108774 | [108774-cubiverse.json](./108774-cubiverse.json) |
 | Cubivore: Survival of the Fittest | 3865 | [3865-cubivore-survival-of-the-fittest.json](./3865-cubivore-survival-of-the-fittest.json) |
 | Cubix Classic | 67981 | [67981-cubix-classic.json](./67981-cubix-classic.json) |
 | Cubix Robots for Everyone: Showdown | 242806 | [242806-cubix-robots-for-everyone-showdown.json](./242806-cubix-robots-for-everyone-showdown.json) |
