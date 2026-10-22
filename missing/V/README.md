@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vastophobia | 334327 | [334327-vastophobia.json](./334327-vastophobia.json) |
 | Vastynex | 184398 | [184398-vastynex.json](./184398-vastynex.json) |
 | Vatlva | 22503 | [22503-vatlva.json](./22503-vatlva.json) |
+| Vatnik Simulator - A Russian Patriot Game | 103814 | [103814-vatnik-simulator-a-russian-patriot-game.json](./103814-vatnik-simulator-a-russian-patriot-game.json) |
 | VATSim | 56506 | [56506-vatsim.json](./56506-vatsim.json) |
 | Vault Apocalypsis | 264529 | [264529-vault-apocalypsis.json](./264529-vault-apocalypsis.json) |
 | Vault Assault | 40731 | [40731-vault-assault.json](./40731-vault-assault.json) |
@@ -3211,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRChat | 33615 | [33615-vrchat.json](./33615-vrchat.json) |
 | VRcher | 137462 | [137462-vrcher.json](./137462-vrcher.json) |
 | VReakout | 33150 | [33150-vreakout.json](./33150-vreakout.json) |
+| Vreal | 103915 | [103915-vreal.json](./103915-vreal.json) |
 | VRealistic Fight: Aim For the Chest | 212206 | [212206-vrealistic-fight-aim-for-the-chest.json](./212206-vrealistic-fight-aim-for-the-chest.json) |
 | VRekken | 131293 | [131293-vrekken.json](./131293-vrekken.json) |
 | VRemin (A Virtual Theremin) | 29704 | [29704-vremin-a-virtual-theremin.json](./29704-vremin-a-virtual-theremin.json) |
