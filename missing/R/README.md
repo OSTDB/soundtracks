@@ -1156,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raisond'etre | 324849 | [324849-raisondetre.json](./324849-raisondetre.json) |
 | Raji: An Ancient Epic | 70828 | [70828-raji-an-ancient-epic.json](./70828-raji-an-ancient-epic.json) |
 | Raji: An Ancient Epic - Enhanced Edition | 152175 | [152175-raji-an-ancient-epic-enhanced-edition.json](./152175-raji-an-ancient-epic-enhanced-edition.json) |
+| Rakan Ayah | 128226 | [128226-rakan-ayah.json](./128226-rakan-ayah.json) |
 | Rake | 353765 | [353765-rake.json](./353765-rake.json) |
 | Rake Monster Hunter | 100840 | [100840-rake-monster-hunter.json](./100840-rake-monster-hunter.json) |
 | Rake Remastered | 267007 | [267007-rake-remastered.json](./267007-rake-remastered.json) |
@@ -2751,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reclamation of Xanthros | 298177 | [298177-reclamation-of-xanthros.json](./298177-reclamation-of-xanthros.json) |
 | Reclaym the Kingdom | 301899 | [301899-reclaym-the-kingdom.json](./301899-reclaym-the-kingdom.json) |
 | Reclock | 382495 | [382495-reclock.json](./382495-reclock.json) |
+| Recluses | 128250 | [128250-recluses.json](./128250-recluses.json) |
 | Reclusion | 285344 | [285344-reclusion.json](./285344-reclusion.json) |
 | Reclusive | 240755 | [240755-reclusive.json](./240755-reclusive.json) |
 | Reco Love: Blue Ocean | 136761 | [136761-reco-love-blue-ocean.json](./136761-reco-love-blue-ocean.json) |
@@ -4603,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retimed | 76921 | [76921-retimed.json](./76921-retimed.json) |
 | Retired Men's Nude Beach Volleyball League | 163452 | [163452-retired-mens-nude-beach-volleyball-league.json](./163452-retired-mens-nude-beach-volleyball-league.json) |
 | Retirement Home Tower Defense | 340569 | [340569-retirement-home-tower-defense.json](./340569-retirement-home-tower-defense.json) |
+| Retirement Simulator | 128243 | [128243-retirement-simulator.json](./128243-retirement-simulator.json) |
 | Retis Tormentum | 157084 | [157084-retis-tormentum.json](./157084-retis-tormentum.json) |
 | Retne | 54526 | [54526-retne.json](./54526-retne.json) |
 | Retool | 32974 | [32974-retool.json](./32974-retool.json) |
@@ -4654,6 +4657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Commander | 165060 | [165060-retro-commander.json](./165060-retro-commander.json) |
 | Retro Cube Slider | 421381 | [421381-retro-cube-slider.json](./421381-retro-cube-slider.json) |
 | Retro Derby | 202047 | [202047-retro-derby.json](./202047-retro-derby.json) |
+| Retro Drift | 128222 | [128222-retro-drift.json](./128222-retro-drift.json) |
 | Retro Drive | 220686 | [220686-retro-drive.json](./220686-retro-drive.json) |
 | Retro Drive: Revamped | 318289 | [318289-retro-drive-revamped.json](./318289-retro-drive-revamped.json) |
 | Retro Dungeons | 65812 | [65812-retro-dungeons.json](./65812-retro-dungeons.json) |
@@ -5380,6 +5384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RhythMania | 327047 | [327047-rhythmania.json](./327047-rhythmania.json) |
 | RhythMario 64.5: Crescendo of Cosmic Beast | 307365 | [307365-rhythmario-64-5-crescendo-of-cosmic-beast.json](./307365-rhythmario-64-5-crescendo-of-cosmic-beast.json) |
 | Rhythmcremental | 176462 | [176462-rhythmcremental.json](./176462-rhythmcremental.json) |
+| RhythmDanceVR | 128205 | [128205-rhythmdancevr.json](./128205-rhythmdancevr.json) |
 | Rhythmetallic | 154890 | [154890-rhythmetallic.json](./154890-rhythmetallic.json) |
 | Rhythmetric | 364572 | [364572-rhythmetric.json](./364572-rhythmetric.json) |
 | Rhythmic Retro Racer | 129664 | [129664-rhythmic-retro-racer.json](./129664-rhythmic-retro-racer.json) |
