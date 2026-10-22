@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm in Shock | 71413 | [71413-im-in-shock.json](./71413-im-in-shock.json) |
 | I'm Joshua | 22345 | [22345-im-joshua.json](./22345-im-joshua.json) |
 | I'm Just a Slime | 260424 | [260424-im-just-a-slime.json](./260424-im-just-a-slime.json) |
+| I'm Just Popping Down the Dungeon, Does Anybody Want Anything? | 141721 | [141721-im-just-popping-down-the-dungeon-does-anybody-want-anything.json](./141721-im-just-popping-down-the-dungeon-does-anybody-want-anything.json) |
 | I'm Keyboardman | 125720 | [125720-im-keyboardman.json](./125720-im-keyboardman.json) |
 | I'm Late | 223173 | [223173-im-late.json](./223173-im-late.json) |
 | I'm looking for 3024 people | 221069 | [221069-im-looking-for-3024-people.json](./221069-im-looking-for-3024-people.json) |
