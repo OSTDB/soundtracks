@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Bunny Girls 2 | 355079 | [355079-sakura-bunny-girls-2.json](./355079-sakura-bunny-girls-2.json) |
 | Sakura Clicker | 34950 | [34950-sakura-clicker.json](./34950-sakura-clicker.json) |
 | Sakura Day 2 Mahjong | 100216 | [100216-sakura-day-2-mahjong.json](./100216-sakura-day-2-mahjong.json) |
+| Sakura Day Mahjong | 99363 | [99363-sakura-day-mahjong.json](./99363-sakura-day-mahjong.json) |
 | Sakura Dimensions | 292694 | [292694-sakura-dimensions.json](./292694-sakura-dimensions.json) |
 | Sakura Drift | 401772 | [401772-sakura-drift.json](./401772-sakura-drift.json) |
 | Sakura Dungeon | 34340 | [34340-sakura-dungeon.json](./34340-sakura-dungeon.json) |
@@ -2028,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaffolder | 195056 | [195056-scaffolder.json](./195056-scaffolder.json) |
 | Scalak | 100543 | [100543-scalak.json](./100543-scalak.json) |
 | Scale | 9042 | [9042-scale.json](./9042-scale.json) |
+| Scale | 99365 | [99365-scale.json](./99365-scale.json) |
 | Scale Bullet: After Story | 358265 | [358265-scale-bullet-after-story.json](./358265-scale-bullet-after-story.json) |
 | Scale Mail | 393781 | [393781-scale-mail.json](./393781-scale-mail.json) |
 | Scale Of Survival | 398692 | [398692-scale-of-survival.json](./398692-scale-of-survival.json) |
@@ -10130,6 +10132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam! | 94696 | [94696-slam.json](./94696-slam.json) |
 | Slamaverse! | 424042 | [424042-slamaverse.json](./424042-slamaverse.json) |
 | Slamball | 94553 | [94553-slamball.json](./94553-slamball.json) |
+| Slamdunk VR | 99456 | [99456-slamdunk-vr.json](./99456-slamdunk-vr.json) |
 | Slamjet Stadium | 194187 | [194187-slamjet-stadium.json](./194187-slamjet-stadium.json) |
 | Slammer Caps Xtreme | 358854 | [358854-slammer-caps-xtreme.json](./358854-slammer-caps-xtreme.json) |
 | Slampunks | 360759 | [360759-slampunks.json](./360759-slampunks.json) |
@@ -12555,6 +12558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban DS | 307081 | [307081-sokoban-ds.json](./307081-sokoban-ds.json) |
 | Sokoban Gianta | 155973 | [155973-sokoban-gianta.json](./155973-sokoban-gianta.json) |
 | Sokoban Land DX | 44206 | [44206-sokoban-land-dx.json](./44206-sokoban-land-dx.json) |
+| Sokoban Next | 99478 | [99478-sokoban-next.json](./99478-sokoban-next.json) |
 | Sokoban World | 308565 | [308565-sokoban-world.json](./308565-sokoban-world.json) |
 | Sokoban World 2 | 311344 | [311344-sokoban-world-2.json](./311344-sokoban-world-2.json) |
 | Sokoban: Bunny Tales | 168220 | [168220-sokoban-bunny-tales.json](./168220-sokoban-bunny-tales.json) |
@@ -15792,6 +15796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Wreck | 122417 | [122417-space-wreck.json](./122417-space-wreck.json) |
 | Space X | 341840 | [341840-space-x.json](./341840-space-x.json) |
 | Space X Collector | 166168 | [166168-space-x-collector.json](./166168-space-x-collector.json) |
+| Space X: Galaxy War of Air Force | 99369 | [99369-space-x-galaxy-war-of-air-force.json](./99369-space-x-galaxy-war-of-air-force.json) |
 | Space X: Sky War of Air Force | 98929 | [98929-space-x-sky-war-of-air-force.json](./98929-space-x-sky-war-of-air-force.json) |
 | Space Yandere | 174062 | [174062-space-yandere.json](./174062-space-yandere.json) |
 | Space Zero | 37185 | [37185-space-zero.json](./37185-space-zero.json) |
@@ -17443,6 +17448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spolous Ex | 182920 | [182920-spolous-ex.json](./182920-spolous-ex.json) |
 | Sponchies | 68603 | [68603-sponchies.json](./68603-sponchies.json) |
 | Sponge Art | 223910 | [223910-sponge-art.json](./223910-sponge-art.json) |
+| Sponge Hospital. Five Nights at Bob 3D | 99362 | [99362-sponge-hospital-five-nights-at-bob-3d.json](./99362-sponge-hospital-five-nights-at-bob-3d.json) |
 | Sponge Pop | 243824 | [243824-sponge-pop.json](./243824-sponge-pop.json) |
 | Spongebob & Patrick: Dirty Bubble Busters | 338942 | [338942-spongebob-and-patrick-dirty-bubble-busters.json](./338942-spongebob-and-patrick-dirty-bubble-busters.json) |
 | SpongeBob Adventures: In A Jam | 300331 | [300331-spongebob-adventures-in-a-jam.json](./300331-spongebob-adventures-in-a-jam.json) |
@@ -19629,6 +19635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlink: Battle for Atlas - Collection Pack 2 | 168441 | [168441-starlink-battle-for-atlas-collection-pack-2.json](./168441-starlink-battle-for-atlas-collection-pack-2.json) |
 | Starlink: Battle for Atlas - Deluxe Edition | 121507 | [121507-starlink-battle-for-atlas-deluxe-edition.json](./121507-starlink-battle-for-atlas-deluxe-edition.json) |
 | Starlink: Battle for Atlas - Digital Edition | 246893 | [246893-starlink-battle-for-atlas-digital-edition.json](./246893-starlink-battle-for-atlas-digital-edition.json) |
+| Starlit Adventures | 99463 | [99463-starlit-adventures.json](./99463-starlit-adventures.json) |
 | Starlit Adventures Golden Stars | 147627 | [147627-starlit-adventures-golden-stars.json](./147627-starlit-adventures-golden-stars.json) |
 | Starlit Kart Racing | 215153 | [215153-starlit-kart-racing.json](./215153-starlit-kart-racing.json) |
 | Starlit On Wheels: Super Kart | 239614 | [239614-starlit-on-wheels-super-kart.json](./239614-starlit-on-wheels-super-kart.json) |
@@ -22798,6 +22805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Scramble | 92930 | [92930-subway-scramble.json](./92930-subway-scramble.json) |
 | Subway Simulator | 87982 | [87982-subway-simulator.json](./87982-subway-simulator.json) |
 | Subway Simulator 10: New York Edition | 91348 | [91348-subway-simulator-10-new-york-edition.json](./91348-subway-simulator-10-new-york-edition.json) |
+| Subway Simulator 2 - London Underground | 99364 | [99364-subway-simulator-2-london-underground.json](./99364-subway-simulator-2-london-underground.json) |
 | Subway Simulator: Moscow Train | 171903 | [171903-subway-simulator-moscow-train.json](./171903-subway-simulator-moscow-train.json) |
 | Subway Simulator: Underground Train Ride | 253844 | [253844-subway-simulator-underground-train-ride.json](./253844-subway-simulator-underground-train-ride.json) |
 | Subway Surfers | 251589 | [251589-subway-surfers.json](./251589-subway-surfers.json) |
@@ -27783,6 +27791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Destiny | 133670 | [133670-sword-of-destiny.json](./133670-sword-of-destiny.json) |
 | Sword of Destruction | 237428 | [237428-sword-of-destruction.json](./237428-sword-of-destruction.json) |
 | Sword of Fireheart - The Awakening Element | 31989 | [31989-sword-of-fireheart-the-awakening-element.json](./31989-sword-of-fireheart-the-awakening-element.json) |
+| Sword of Fortress the Onomuzim | 99469 | [99469-sword-of-fortress-the-onomuzim.json](./99469-sword-of-fortress-the-onomuzim.json) |
 | Sword of Glory Roguelite Slash | 219990 | [219990-sword-of-glory-roguelite-slash.json](./219990-sword-of-glory-roguelite-slash.json) |
 | Sword of Hearts | 183437 | [183437-sword-of-hearts.json](./183437-sword-of-hearts.json) |
 | Sword of Honour | 12790 | [12790-sword-of-honour.json](./12790-sword-of-honour.json) |
