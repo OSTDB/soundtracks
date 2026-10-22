@@ -2423,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverlast | 123363 | [123363-neverlast.json](./123363-neverlast.json) |
 | Neverless Academy | 371259 | [371259-neverless-academy.json](./371259-neverless-academy.json) |
 | Neverliria | 106153 | [106153-neverliria.json](./106153-neverliria.json) |
+| Neverlooted Dungeon | 131231 | [131231-neverlooted-dungeon.json](./131231-neverlooted-dungeon.json) |
 | Nevermind | 290939 | [290939-nevermind.json](./290939-nevermind.json) |
 | Nevermind This | 244123 | [244123-nevermind-this.json](./244123-nevermind-this.json) |
 | Nevermore | 115564 | [115564-nevermore.json](./115564-nevermore.json) |
@@ -5684,6 +5685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NSMB2: Mushroom Madness | 314097 | [314097-nsmb2-mushroom-madness.json](./314097-nsmb2-mushroom-madness.json) |
 | NSR: Night Street Racing | 397954 | [397954-nsr-night-street-racing.json](./397954-nsr-night-street-racing.json) |
 | nStations | 127115 | [127115-nstations.json](./127115-nstations.json) |
+| NSYNC Hotline Phone and Fantasy CD-Rom Game | 131189 | [131189-nsync-hotline-phone-and-fantasy-cd-rom-game.json](./131189-nsync-hotline-phone-and-fantasy-cd-rom-game.json) |
 | NSYNC: Get to the Show | 49955 | [49955-nsync-get-to-the-show.json](./49955-nsync-get-to-the-show.json) |
 | NTE: Neverness to Everness | 308535 | [308535-nte-neverness-to-everness.json](./308535-nte-neverness-to-everness.json) |
 | Nth Dimension[al] Hiking | 327183 | [327183-nth-dimension-al-hiking.json](./327183-nth-dimension-al-hiking.json) |
