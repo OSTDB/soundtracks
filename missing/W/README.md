@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfronts: Battle For Toria! | 153776 | [153776-warfronts-battle-for-toria.json](./153776-warfronts-battle-for-toria.json) |
 | Wargame Construction Set | 37158 | [37158-wargame-construction-set.json](./37158-wargame-construction-set.json) |
 | Wargame Construction Set Pack | 278721 | [278721-wargame-construction-set-pack.json](./278721-wargame-construction-set-pack.json) |
+| Wargame Korea 1950 | 102627 | [102627-wargame-korea-1950.json](./102627-wargame-korea-1950.json) |
 | Wargame: AirLand Battle - Magna Carta | 170747 | [170747-wargame-airland-battle-magna-carta.json](./170747-wargame-airland-battle-magna-carta.json) |
 | Wargame: AirLand Battle - Vox Populi | 170748 | [170748-wargame-airland-battle-vox-populi.json](./170748-wargame-airland-battle-vox-populi.json) |
 | Wargame: European Escalation | 8383 | [8383-wargame-european-escalation.json](./8383-wargame-european-escalation.json) |
@@ -5888,6 +5889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Carnivale | 112210 | [112210-word-carnivale.json](./112210-word-carnivale.json) |
 | Word Cats | 241195 | [241195-word-cats.json](./241195-word-cats.json) |
 | Word Challenge | 342250 | [342250-word-challenge.json](./342250-word-challenge.json) |
+| Word Champion! | 102637 | [102637-word-champion.json](./102637-word-champion.json) |
 | Word Chaos | 217984 | [217984-word-chaos.json](./217984-word-chaos.json) |
 | Word Charades | 396009 | [396009-word-charades.json](./396009-word-charades.json) |
 | Word Charm | 88511 | [88511-word-charm.json](./88511-word-charm.json) |
