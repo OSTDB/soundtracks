@@ -5959,6 +5959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big2Small | 252646 | [252646-big2small.json](./252646-big2small.json) |
 | BigBang Beat: 1st Impression | 133328 | [133328-bigbang-beat-1st-impression.json](./133328-bigbang-beat-1st-impression.json) |
 | BigBang Beat: Revolve | 133329 | [133329-bigbang-beat-revolve.json](./133329-bigbang-beat-revolve.json) |
+| BigBoy: Visual Crime Novel | 106330 | [106330-bigboy-visual-crime-novel.json](./106330-bigboy-visual-crime-novel.json) |
 | BigChick | 158002 | [158002-bigchick.json](./158002-bigchick.json) |
 | BigDay | 80972 | [80972-bigday.json](./80972-bigday.json) |
 | Bigface Marsh | 179179 | [179179-bigface-marsh.json](./179179-bigface-marsh.json) |
