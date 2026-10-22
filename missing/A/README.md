@@ -3721,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agrou: Panda pet | 170825 | [170825-agrou-panda-pet.json](./170825-agrou-panda-pet.json) |
 | Agrou: Rabbit pet | 170826 | [170826-agrou-rabbit-pet.json](./170826-agrou-rabbit-pet.json) |
 | Aground Zero | 211418 | [211418-aground-zero.json](./211418-aground-zero.json) |
+| Agtnan: Monster Shutdown Sequence | 116022 | [116022-agtnan-monster-shutdown-sequence.json](./116022-agtnan-monster-shutdown-sequence.json) |
 | Aguante Imaginario | 107240 | [107240-aguante-imaginario.json](./107240-aguante-imaginario.json) |
 | Aguni: Unmei no Saki | 413839 | [413839-aguni-unmei-no-saki.json](./413839-aguni-unmei-no-saki.json) |
 | Aguri Suzuki F-1 Super Driving | 7747 | [7747-aguri-suzuki-f-1-super-driving.json](./7747-aguri-suzuki-f-1-super-driving.json) |
@@ -13200,6 +13201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audo | 181348 | [181348-audo.json](./181348-audo.json) |
 | Audrey & Alexis | 100816 | [100816-audrey-and-alexis.json](./100816-audrey-and-alexis.json) |
 | Audubon Whales: Wildlife Adventure | 240150 | [240150-audubon-whales-wildlife-adventure.json](./240150-audubon-whales-wildlife-adventure.json) |
+| Auf Abwegen | 116058 | [116058-auf-abwegen.json](./116058-auf-abwegen.json) |
 | Auf Wiedersehen Monty | 13350 | [13350-auf-wiedersehen-monty.json](./13350-auf-wiedersehen-monty.json) |
 | Aufschwung Ost | 12395 | [12395-aufschwung-ost.json](./12395-aufschwung-ost.json) |
 | AUGG | 145902 | [145902-augg.json](./145902-augg.json) |
@@ -14145,6 +14147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Influx | 322397 | [322397-azure-influx.json](./322397-azure-influx.json) |
 | Azure Orphanage | 249212 | [249212-azure-orphanage.json](./249212-azure-orphanage.json) |
 | Azure Reflections | 60315 | [60315-azure-reflections.json](./60315-azure-reflections.json) |
+| Azure Saga: Pathfinder - Deluxe Edition | 116009 | [116009-azure-saga-pathfinder-deluxe-edition.json](./116009-azure-saga-pathfinder-deluxe-edition.json) |
 | Azure Sheep | 150595 | [150595-azure-sheep.json](./150595-azure-sheep.json) |
 | Azure Sky Project | 67908 | [67908-azure-sky-project.json](./67908-azure-sky-project.json) |
 | Azure Striker Gunvolt | 10373 | [10373-azure-striker-gunvolt.json](./10373-azure-striker-gunvolt.json) |
