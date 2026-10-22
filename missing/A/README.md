@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Rally of Trust | 337698 | [337698-a-rally-of-trust.json](./337698-a-rally-of-trust.json) |
 | A Random Maze | 150481 | [150481-a-random-maze.json](./150481-a-random-maze.json) |
 | A Rat Fell in Love with a Human Girl | 82988 | [82988-a-rat-fell-in-love-with-a-human-girl.json](./82988-a-rat-fell-in-love-with-a-human-girl.json) |
+| A Rat's Quest: The Way Back Home | 122733 | [122733-a-rats-quest-the-way-back-home.json](./122733-a-rats-quest-the-way-back-home.json) |
 | A Rat's Quest: The Way Back Home - Season 2 | 399152 | [399152-a-rats-quest-the-way-back-home-season-2.json](./399152-a-rats-quest-the-way-back-home-season-2.json) |
 | A Raven Monologue | 81092 | [81092-a-raven-monologue.json](./81092-a-raven-monologue.json) |
 | A Recipe for Survival | 356142 | [356142-a-recipe-for-survival.json](./356142-a-recipe-for-survival.json) |
@@ -2449,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrenaline Rampage | 273848 | [273848-adrenaline-rampage.json](./273848-adrenaline-rampage.json) |
 | Adrenaline Rush 4‑Pack | 396438 | [396438-adrenaline-rush-4-pack.json](./396438-adrenaline-rush-4-pack.json) |
 | Adrenaline Rush: Highway Extreme Traffic Racer | 300767 | [300767-adrenaline-rush-highway-extreme-traffic-racer.json](./300767-adrenaline-rush-highway-extreme-traffic-racer.json) |
+| Adrenaline Rush: Miami Drive | 122735 | [122735-adrenaline-rush-miami-drive.json](./122735-adrenaline-rush-miami-drive.json) |
 | Adrenix | 18486 | [18486-adrenix.json](./18486-adrenix.json) |
 | Adrian Ford in the Tomb of the Moon | 314994 | [314994-adrian-ford-in-the-tomb-of-the-moon.json](./314994-adrian-ford-in-the-tomb-of-the-moon.json) |
 | Adrian's Tale | 219112 | [219112-adrians-tale.json](./219112-adrians-tale.json) |
@@ -4745,6 +4747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aldora | 304614 | [304614-aldora.json](./304614-aldora.json) |
 | Aldoria | 322382 | [322382-aldoria.json](./322382-aldoria.json) |
 | Aldradah: Tome of Mist Realm | 381101 | [381101-aldradah-tome-of-mist-realm.json](./381101-aldradah-tome-of-mist-realm.json) |
+| Aldred Knight | 122736 | [122736-aldred-knight.json](./122736-aldred-knight.json) |
 | Aldriak: The Advent of a New World | 149569 | [149569-aldriak-the-advent-of-a-new-world.json](./149569-aldriak-the-advent-of-a-new-world.json) |
 | Aldro | 247747 | [247747-aldro.json](./247747-aldro.json) |
 | Aldroy: Chapter 1 | 133959 | [133959-aldroy-chapter-1.json](./133959-aldroy-chapter-1.json) |
@@ -7367,6 +7370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Action! | 19274 | [19274-angry-birds-action.json](./19274-angry-birds-action.json) |
 | Angry Birds AR: Isle of Pigs | 196589 | [196589-angry-birds-ar-isle-of-pigs.json](./196589-angry-birds-ar-isle-of-pigs.json) |
 | Angry Birds Arcade | 231439 | [231439-angry-birds-arcade.json](./231439-angry-birds-arcade.json) |
+| Angry Birds Blast Island | 122718 | [122718-angry-birds-blast-island.json](./122718-angry-birds-blast-island.json) |
 | Angry Birds Block Quest | 321375 | [321375-angry-birds-block-quest.json](./321375-angry-birds-block-quest.json) |
 | Angry Birds Boom! | 386241 | [386241-angry-birds-boom.json](./386241-angry-birds-boom.json) |
 | Angry Birds Bounce | 347237 | [347237-angry-birds-bounce.json](./347237-angry-birds-bounce.json) |
@@ -7394,6 +7398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Matching | 325566 | [325566-angry-birds-matching.json](./325566-angry-birds-matching.json) |
 | Angry Birds McDonald's | 202075 | [202075-angry-birds-mcdonalds.json](./202075-angry-birds-mcdonalds.json) |
 | Angry Birds Opera | 237496 | [237496-angry-birds-opera.json](./237496-angry-birds-opera.json) |
+| Angry Birds POP 2 | 122716 | [122716-angry-birds-pop-2.json](./122716-angry-birds-pop-2.json) |
 | Angry Birds Racing | 226776 | [226776-angry-birds-racing.json](./226776-angry-birds-racing.json) |
 | Angry Birds Refresh | 357348 | [357348-angry-birds-refresh.json](./357348-angry-birds-refresh.json) |
 | Angry Birds Reloaded | 159024 | [159024-angry-birds-reloaded.json](./159024-angry-birds-reloaded.json) |
@@ -11380,6 +11385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asdivine Cross | 38982 | [38982-asdivine-cross.json](./38982-asdivine-cross.json) |
 | Asdivine Dios | 38981 | [38981-asdivine-dios.json](./38981-asdivine-dios.json) |
 | Asdivine Hearts I & II | 196276 | [196276-asdivine-hearts-i-and-ii.json](./196276-asdivine-hearts-i-and-ii.json) |
+| Asdivine Kamura | 122726 | [122726-asdivine-kamura.json](./122726-asdivine-kamura.json) |
 | Asdivine Menace | 38980 | [38980-asdivine-menace.json](./38980-asdivine-menace.json) |
 | Asdivine Saga | 148517 | [148517-asdivine-saga.json](./148517-asdivine-saga.json) |
 | ASDVD: Umareta Bakari no Love Song | 408250 | [408250-asdvd-umareta-bakari-no-love-song.json](./408250-asdvd-umareta-bakari-no-love-song.json) |
@@ -12257,6 +12263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Fighters | 334190 | [334190-astro-fighters.json](./334190-astro-fighters.json) |
 | Astro Fighters 2 | 375991 | [375991-astro-fighters-2.json](./375991-astro-fighters-2.json) |
 | Astro Galaxy | 346140 | [346140-astro-galaxy.json](./346140-astro-galaxy.json) |
+| Astro Golf | 122706 | [122706-astro-golf.json](./122706-astro-golf.json) |
 | Astro Ike | 204805 | [204805-astro-ike.json](./204805-astro-ike.json) |
 | Astro Invader | 39656 | [39656-astro-invader.json](./39656-astro-invader.json) |
 | Astro Invaders | 206236 | [206236-astro-invaders.json](./206236-astro-invaders.json) |
