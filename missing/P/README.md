@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Crew | 390672 | [390672-panic-crew.json](./390672-panic-crew.json) |
 | Panic Crisis Mage Attack | 128636 | [128636-panic-crisis-mage-attack.json](./128636-panic-crisis-mage-attack.json) |
 | Panic Delivery | 332298 | [332298-panic-delivery.json](./332298-panic-delivery.json) |
+| Panic Drop | 110028 | [110028-panic-drop.json](./110028-panic-drop.json) |
 | Panic Factory | 194315 | [194315-panic-factory.json](./194315-panic-factory.json) |
 | Panic Files: Buried Sanity | 391090 | [391090-panic-files-buried-sanity.json](./391090-panic-files-buried-sanity.json) |
 | Panic Floor!! | 202658 | [202658-panic-floor.json](./202658-panic-floor.json) |
@@ -4158,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Doctrine: The Cabal | 138122 | [138122-phantom-doctrine-the-cabal.json](./138122-phantom-doctrine-the-cabal.json) |
 | Phantom Dust | 280275 | [280275-phantom-dust.json](./280275-phantom-dust.json) |
 | Phantom Dust | 7341 | [7341-phantom-dust.json](./7341-phantom-dust.json) |
+| Phantom Eden | 110027 | [110027-phantom-eden.json](./110027-phantom-eden.json) |
 | Phantom Fighter | 48188 | [48188-phantom-fighter.json](./48188-phantom-fighter.json) |
 | Phantom Flail | 244844 | [244844-phantom-flail.json](./244844-phantom-flail.json) |
 | Phantom Floor | 394178 | [394178-phantom-floor.json](./394178-phantom-floor.json) |
@@ -4879,6 +4881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piczle Lines DX 500 More Puzzles! | 106351 | [106351-piczle-lines-dx-500-more-puzzles.json](./106351-piczle-lines-dx-500-more-puzzles.json) |
 | Piczle Lines DX Bundle | 147788 | [147788-piczle-lines-dx-bundle.json](./147788-piczle-lines-dx-bundle.json) |
 | Piczle Lines DX+α | 116247 | [116247-piczle-lines-dx.json](./116247-piczle-lines-dx.json) |
+| Piczle Lines Jr. | 110026 | [110026-piczle-lines-jr.json](./110026-piczle-lines-jr.json) |
 | Piczle Puzzle Adventures + Picto Quest Puzzle Bundle | 145690 | [145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json](./145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json) |
 | Piczle Puzzle Pack 3-in-1 | 136960 | [136960-piczle-puzzle-pack-3-in-1.json](./136960-piczle-puzzle-pack-3-in-1.json) |
 | Pid | 1892 | [1892-pid.json](./1892-pid.json) |
@@ -6927,6 +6930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Delivery in a Storm | 319185 | [319185-pizza-delivery-in-a-storm.json](./319185-pizza-delivery-in-a-storm.json) |
 | Pizza Delivery Survivors | 320270 | [320270-pizza-delivery-survivors.json](./320270-pizza-delivery-survivors.json) |
 | Pizza Delivery: A Short Thriller | 305364 | [305364-pizza-delivery-a-short-thriller.json](./305364-pizza-delivery-a-short-thriller.json) |
+| Pizza Delivery: The Game | 110019 | [110019-pizza-delivery-the-game.json](./110019-pizza-delivery-the-game.json) |
 | Pizza Delivery: Zebaxx | 276189 | [276189-pizza-delivery-zebaxx.json](./276189-pizza-delivery-zebaxx.json) |
 | Pizza Empire | 151104 | [151104-pizza-empire.json](./151104-pizza-empire.json) |
 | Pizza Empire | 394630 | [394630-pizza-empire.json](./394630-pizza-empire.json) |
@@ -8061,6 +8065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Hockey | 324520 | [324520-pocket-hockey.json](./324520-pocket-hockey.json) |
 | Pocket Hunter Origins | 174870 | [174870-pocket-hunter-origins.json](./174870-pocket-hunter-origins.json) |
 | Pocket Idler: Fishing Pond | 298345 | [298345-pocket-idler-fishing-pond.json](./298345-pocket-idler-fishing-pond.json) |
+| Pocket Invader | 110065 | [110065-pocket-invader.json](./110065-pocket-invader.json) |
 | Pocket Jansou | 46603 | [46603-pocket-jansou.json](./46603-pocket-jansou.json) |
 | Pocket Kanon & Air | 384708 | [384708-pocket-kanon-and-air.json](./384708-pocket-kanon-and-air.json) |
 | Pocket Kickball | 304724 | [304724-pocket-kickball.json](./304724-pocket-kickball.json) |
@@ -8277,6 +8282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogopa | 406855 | [406855-pogopa.json](./406855-pogopa.json) |
 | Pogoppl | 236749 | [236749-pogoppl.json](./236749-pogoppl.json) |
 | Pogostick | 144741 | [144741-pogostick.json](./144741-pogostick.json) |
+| Pogs AR | 110040 | [110040-pogs-ar.json](./110040-pogs-ar.json) |
 | Pogs: Power of Golden Slammer | 348430 | [348430-pogs-power-of-golden-slammer.json](./348430-pogs-power-of-golden-slammer.json) |
 | Pogui | 379056 | [379056-pogui.json](./379056-pogui.json) |
 | Pogyo | 115411 | [115411-pogyo.json](./115411-pogyo.json) |
