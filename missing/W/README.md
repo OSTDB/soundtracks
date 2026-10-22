@@ -1294,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Shadow of the Horned Rat | 5527 | [5527-warhammer-shadow-of-the-horned-rat.json](./5527-warhammer-shadow-of-the-horned-rat.json) |
 | Warhammer: Snotling Fling | 34227 | [34227-warhammer-snotling-fling.json](./34227-warhammer-snotling-fling.json) |
 | Warhammer: Vermintide 2 - A Treacherous Adventure | 321734 | [321734-warhammer-vermintide-2-a-treacherous-adventure.json](./321734-warhammer-vermintide-2-a-treacherous-adventure.json) |
+| Warhammer: Vermintide 2 - Back to Ubersreik | 112087 | [112087-warhammer-vermintide-2-back-to-ubersreik.json](./112087-warhammer-vermintide-2-back-to-ubersreik.json) |
 | Warhammer: Vermintide 2 - Chaos Wastes | 148707 | [148707-warhammer-vermintide-2-chaos-wastes.json](./148707-warhammer-vermintide-2-chaos-wastes.json) |
 | Warhammer: Vermintide 2 - Deluxe Edition | 202218 | [202218-warhammer-vermintide-2-deluxe-edition.json](./202218-warhammer-vermintide-2-deluxe-edition.json) |
 | Warhammer: Vermintide 2 - Forgotten Relics Pack | 155705 | [155705-warhammer-vermintide-2-forgotten-relics-pack.json](./155705-warhammer-vermintide-2-forgotten-relics-pack.json) |
