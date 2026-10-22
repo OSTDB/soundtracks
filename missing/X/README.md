@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 9 | 51270 | [51270-x-plane-9.json](./51270-x-plane-9.json) |
 | X-Plane Flight Simulator | 196325 | [196325-x-plane-flight-simulator.json](./196325-x-plane-flight-simulator.json) |
 | X-Plane: Starship | 255743 | [255743-x-plane-starship.json](./255743-x-plane-starship.json) |
+| X-Point | 115378 | [115378-x-point.json](./115378-x-point.json) |
 | X-Racer | 220730 | [220730-x-racer.json](./220730-x-racer.json) |
 | X-Racing | 220633 | [220633-x-racing.json](./220633-x-racing.json) |
 | X-Ray & Dilligas | 144319 | [144319-x-ray-and-dilligas.json](./144319-x-ray-and-dilligas.json) |
@@ -742,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xon | 247946 | [247946-xon.json](./247946-xon.json) |
 | XON Episode One | 306777 | [306777-xon-episode-one.json](./306777-xon-episode-one.json) |
 | XON Episode Three | 100689 | [100689-xon-episode-three.json](./100689-xon-episode-three.json) |
+| Xong VR | 115341 | [115341-xong-vr.json](./115341-xong-vr.json) |
 | Xonix | 261315 | [261315-xonix.json](./261315-xonix.json) |
 | Xonix | 304330 | [304330-xonix.json](./304330-xonix.json) |
 | Xonox Double-Ender: Tomarc the Barbarian & Motocross Racer | 40743 | [40743-xonox-double-ender-tomarc-the-barbarian-and-motocross-racer.json](./40743-xonox-double-ender-tomarc-the-barbarian-and-motocross-racer.json) |
