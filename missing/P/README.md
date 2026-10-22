@@ -5821,6 +5821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipes Racer | 77158 | [77158-pipes-racer.json](./77158-pipes-racer.json) |
 | PipeWorks | 116927 | [116927-pipeworks.json](./116927-pipeworks.json) |
 | Pipi & Bibi's | 40138 | [40138-pipi-and-bibis.json](./40138-pipi-and-bibis.json) |
+| Piping Hot | 126842 | [126842-piping-hot.json](./126842-piping-hot.json) |
 | Pipistrello and the Cursed Yoyo | 292157 | [292157-pipistrello-and-the-cursed-yoyo.json](./292157-pipistrello-and-the-cursed-yoyo.json) |
 | Pipkin | 315712 | [315712-pipkin.json](./315712-pipkin.json) |
 | Pipler | 57701 | [57701-pipler.json](./57701-pipler.json) |
@@ -12816,6 +12817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pronty | 143125 | [143125-pronty.json](./143125-pronty.json) |
 | Proof of Existence | 405467 | [405467-proof-of-existence.json](./405467-proof-of-existence.json) |
 | Proof-O: Super Godotrio | 334739 | [334739-proof-o-super-godotrio.json](./334739-proof-o-super-godotrio.json) |
+| Prop and Seek | 126865 | [126865-prop-and-seek.json](./126865-prop-and-seek.json) |
 | Prop Cycle | 40395 | [40395-prop-cycle.json](./40395-prop-cycle.json) |
 | Prop Game | 256000 | [256000-prop-game.json](./256000-prop-game.json) |
 | Prop Haunt | 330537 | [330537-prop-haunt.json](./330537-prop-haunt.json) |
