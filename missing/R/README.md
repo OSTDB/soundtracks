@@ -2412,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Really Happy Mouse | 241409 | [241409-really-happy-mouse.json](./241409-really-happy-mouse.json) |
 | Really really auto chess | 183971 | [183971-really-really-auto-chess.json](./183971-really-really-auto-chess.json) |
 | Really Simple Golf | 303712 | [303712-really-simple-golf.json](./303712-really-simple-golf.json) |
+| Really Trash Game | 137872 | [137872-really-trash-game.json](./137872-really-trash-game.json) |
 | Really Unique Space Shooter | 136237 | [136237-really-unique-space-shooter.json](./136237-really-unique-space-shooter.json) |
 | Really? Really! RiaRiaDS | 330554 | [330554-really-really-riariads.json](./330554-really-really-riariads.json) |
 | Realm | 348391 | [348391-realm.json](./348391-realm.json) |
@@ -4683,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Mystery Club Vol.2: The Beppu Case | 289264 | [289264-retro-mystery-club-vol-2-the-beppu-case.json](./289264-retro-mystery-club-vol-2-the-beppu-case.json) |
 | Retro One | 78092 | [78092-retro-one.json](./78092-retro-one.json) |
 | Retro Otrop | 400288 | [400288-retro-otrop.json](./400288-retro-otrop.json) |
+| Retro Pixel Castles | 138064 | [138064-retro-pixel-castles.json](./138064-retro-pixel-castles.json) |
 | Retro Pocket | 21005 | [21005-retro-pocket.json](./21005-retro-pocket.json) |
 | Retro Pocket Rocket | 208459 | [208459-retro-pocket-rocket.json](./208459-retro-pocket-rocket.json) |
 | Retro Quiz Tower | 251378 | [251378-retro-quiz-tower.json](./251378-retro-quiz-tower.json) |
@@ -7929,6 +7931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RogueJack21 | 342713 | [342713-roguejack21.json](./342713-roguejack21.json) |
 | RoguekiniZ | 171507 | [171507-roguekiniz.json](./171507-roguekiniz.json) |
 | Roguelands | 19748 | [19748-roguelands.json](./19748-roguelands.json) |
+| Roguelegends: Dark Realms | 137852 | [137852-roguelegends-dark-realms.json](./137852-roguelegends-dark-realms.json) |
 | Roguelight | 56913 | [56913-roguelight.json](./56913-roguelight.json) |
 | Roguelike Hero | 107898 | [107898-roguelike-hero.json](./107898-roguelike-hero.json) |
 | Roguelike Journey to the West: 100 Ways to Slay Erlang Shen | 359536 | [359536-roguelike-journey-to-the-west-100-ways-to-slay-erlang-shen.json](./359536-roguelike-journey-to-the-west-100-ways-to-slay-erlang-shen.json) |
@@ -9400,6 +9403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble City | 60213 | [60213-rumble-city.json](./60213-rumble-city.json) |
 | Rumble Fighter | 67352 | [67352-rumble-fighter.json](./67352-rumble-fighter.json) |
 | Rumble Heroes | 242203 | [242203-rumble-heroes.json](./242203-rumble-heroes.json) |
+| Rumble Hockey | 137866 | [137866-rumble-hockey.json](./137866-rumble-hockey.json) |
 | Rumble League | 126042 | [126042-rumble-league.json](./126042-rumble-league.json) |
 | Rumble Racing | 43280 | [43280-rumble-racing.json](./43280-rumble-racing.json) |
 | Rumble Road | 58666 | [58666-rumble-road.json](./58666-rumble-road.json) |
