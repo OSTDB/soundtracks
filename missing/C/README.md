@@ -7220,6 +7220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CityLights - San Francisco | 112904 | [112904-citylights-san-francisco.json](./112904-citylights-san-francisco.json) |
 | Citypurger | 323411 | [323411-citypurger.json](./323411-citypurger.json) |
 | Cityquiz.io | 305324 | [305324-cityquiz-io.json](./305324-cityquiz-io.json) |
+| CityRunner | 155409 | [155409-cityrunner.json](./155409-cityrunner.json) |
 | Cityscape Sprint | 208676 | [208676-cityscape-sprint.json](./208676-cityscape-sprint.json) |
 | Cityscapes | 386554 | [386554-cityscapes.json](./386554-cityscapes.json) |
 | Cityscapes: Sim Builder | 248581 | [248581-cityscapes-sim-builder.json](./248581-cityscapes-sim-builder.json) |
@@ -8536,6 +8537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: Realize ~Future Blessings~ Day One Edition | 136263 | [136263-code-realize-future-blessings-day-one-edition.json](./136263-code-realize-future-blessings-day-one-edition.json) |
 | Code: Realize ~Wintertide Miracles~ Limited Edition | 112919 | [112919-code-realize-wintertide-miracles-limited-edition.json](./112919-code-realize-wintertide-miracles-limited-edition.json) |
 | Code: Replicant | 298986 | [298986-code-replicant.json](./298986-code-replicant.json) |
+| Code: Star Dungeon | 155448 | [155448-code-star-dungeon.json](./155448-code-star-dungeon.json) |
 | Code: Terraform | 401030 | [401030-code-terraform.json](./401030-code-terraform.json) |
 | Code: To Jin Yong | 208466 | [208466-code-to-jin-yong.json](./208466-code-to-jin-yong.json) |
 | Code: X | 174798 | [174798-code-x.json](./174798-code-x.json) |
