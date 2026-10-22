@@ -2563,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Bash | 58076 | [58076-kingdom-bash.json](./58076-kingdom-bash.json) |
 | Kingdom Builder | 61049 | [61049-kingdom-builder.json](./61049-kingdom-builder.json) |
 | Kingdom Chronicles | 89714 | [89714-kingdom-chronicles.json](./89714-kingdom-chronicles.json) |
+| Kingdom Chronicles HD | 102651 | [102651-kingdom-chronicles-hd.json](./102651-kingdom-chronicles-hd.json) |
 | Kingdom City Drowning Ep1 - The Champion | 55463 | [55463-kingdom-city-drowning-ep1-the-champion.json](./55463-kingdom-city-drowning-ep1-the-champion.json) |
 | Kingdom Clicker | 91157 | [91157-kingdom-clicker.json](./91157-kingdom-clicker.json) |
 | Kingdom Coins Lucky Vegas - Dozer of Coins Arcade Game | 87080 | [87080-kingdom-coins-lucky-vegas-dozer-of-coins-arcade-game.json](./87080-kingdom-coins-lucky-vegas-dozer-of-coins-arcade-game.json) |
@@ -3406,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knife Rush | 104093 | [104093-knife-rush.json](./104093-knife-rush.json) |
 | Knife Sisters | 110158 | [110158-knife-sisters.json](./110158-knife-sisters.json) |
 | Knife to Meet You | 159062 | [159062-knife-to-meet-you.json](./159062-knife-to-meet-you.json) |
+| Knife vs Fruit: Just Shoot It! | 102650 | [102650-knife-vs-fruit-just-shoot-it.json](./102650-knife-vs-fruit-just-shoot-it.json) |
 | KnifeBoy: Rebooted | 225880 | [225880-knifeboy-rebooted.json](./225880-knifeboy-rebooted.json) |
 | KnifePlayground: Horror Battle Royale | 277927 | [277927-knifeplayground-horror-battle-royale.json](./277927-knifeplayground-horror-battle-royale.json) |
 | Kniffelix | 122301 | [122301-kniffelix.json](./122301-kniffelix.json) |
@@ -3492,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Sim Life | 300868 | [300868-knight-sim-life.json](./300868-knight-sim-life.json) |
 | Knight Slinger | 64103 | [64103-knight-slinger.json](./64103-knight-slinger.json) |
 | Knight Solitaire | 58719 | [58719-knight-solitaire.json](./58719-knight-solitaire.json) |
+| Knight Solitaire 2 | 102559 | [102559-knight-solitaire-2.json](./102559-knight-solitaire-2.json) |
 | Knight Solitaire 3 | 212987 | [212987-knight-solitaire-3.json](./212987-knight-solitaire-3.json) |
 | Knight Solitaire. Royal Cup | 89475 | [89475-knight-solitaire-royal-cup.json](./89475-knight-solitaire-royal-cup.json) |
 | Knight Speed | 264708 | [264708-knight-speed.json](./264708-knight-speed.json) |
