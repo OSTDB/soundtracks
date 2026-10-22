@@ -455,6 +455,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 21 | 132707 | [132707-madden-nfl-21.json](./132707-madden-nfl-21.json) |
 | Madden NFL 21 | 243663 | [243663-madden-nfl-21.json](./243663-madden-nfl-21.json) |
 | Madden NFL 21 Mobile | 243662 | [243662-madden-nfl-21-mobile.json](./243662-madden-nfl-21-mobile.json) |
+| Madden NFL 21: Deluxe Edition | 136094 | [136094-madden-nfl-21-deluxe-edition.json](./136094-madden-nfl-21-deluxe-edition.json) |
+| Madden NFL 21: MVP Edition | 136095 | [136095-madden-nfl-21-mvp-edition.json](./136095-madden-nfl-21-mvp-edition.json) |
 | Madden NFL 21: NXT LVL Edition | 141182 | [141182-madden-nfl-21-nxt-lvl-edition.json](./141182-madden-nfl-21-nxt-lvl-edition.json) |
 | Madden NFL 21: Superstar Edition | 164806 | [164806-madden-nfl-21-superstar-edition.json](./164806-madden-nfl-21-superstar-edition.json) |
 | Madden NFL 21: Ultimate Team Starter Pack | 140010 | [140010-madden-nfl-21-ultimate-team-starter-pack.json](./140010-madden-nfl-21-ultimate-team-starter-pack.json) |
@@ -5419,6 +5421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Media Basket Manager | 415240 | [415240-media-basket-manager.json](./415240-media-basket-manager.json) |
 | Media Circus | 361829 | [361829-media-circus.json](./361829-media-circus.json) |
 | MediAevi | 383479 | [383479-mediaevi.json](./383479-mediaevi.json) |
+| Median XL | 136102 | [136102-median-xl.json](./136102-median-xl.json) |
 | Mediatonic Combo! | 118915 | [118915-mediatonic-combo.json](./118915-mediatonic-combo.json) |
 | Mediator | 355237 | [355237-mediator.json](./355237-mediator.json) |
 | Medic Mayhem | 406680 | [406680-medic-mayhem.json](./406680-medic-mayhem.json) |
@@ -13324,6 +13327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat Trilogy | 199010 | [199010-mortal-kombat-trilogy.json](./199010-mortal-kombat-trilogy.json) |
 | Mortal Kombat Trilogy | 199431 | [199431-mortal-kombat-trilogy.json](./199431-mortal-kombat-trilogy.json) |
 | Mortal Kombat Trilogy | 4121 | [4121-mortal-kombat-trilogy.json](./4121-mortal-kombat-trilogy.json) |
+| Mortal Kombat vs DC Universe: Silver Shield Combo Pack | 136302 | [136302-mortal-kombat-vs-dc-universe-silver-shield-combo-pack.json](./136302-mortal-kombat-vs-dc-universe-silver-shield-combo-pack.json) |
 | Mortal Kombat vs. DC Universe | 1617 | [1617-mortal-kombat-vs-dc-universe.json](./1617-mortal-kombat-vs-dc-universe.json) |
 | Mortal Kombat X | 241492 | [241492-mortal-kombat-x.json](./241492-mortal-kombat-x.json) |
 | Mortal Kombat X: Alien | 27889 | [27889-mortal-kombat-x-alien.json](./27889-mortal-kombat-x-alien.json) |
