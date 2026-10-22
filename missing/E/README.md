@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagles | 13842 | [13842-eagles.json](./13842-eagles.json) |
 | Eagles Expedition | 143933 | [143933-eagles-expedition.json](./143933-eagles-expedition.json) |
 | Eagles Strike | 59314 | [59314-eagles-strike.json](./59314-eagles-strike.json) |
+| Eagletalon vs. Horde of the Flies | 127604 | [127604-eagletalon-vs-horde-of-the-flies.json](./127604-eagletalon-vs-horde-of-the-flies.json) |
 | Ealam Arib | 90600 | [90600-ealam-arib.json](./90600-ealam-arib.json) |
 | Ear Hockey, a Microsoft Garage Project | 210740 | [210740-ear-hockey-a-microsoft-garage-project.json](./210740-ear-hockey-a-microsoft-garage-project.json) |
 | Earache: Extreme Metal Racing | 72596 | [72596-earache-extreme-metal-racing.json](./72596-earache-extreme-metal-racing.json) |
@@ -168,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth 2150 | 8932 | [8932-earth-2150.json](./8932-earth-2150.json) |
 | Earth 2150 Trilogy | 30238 | [30238-earth-2150-trilogy.json](./30238-earth-2150-trilogy.json) |
 | Earth 2160 | 8935 | [8935-earth-2160.json](./8935-earth-2160.json) |
+| Earth Analog | 127581 | [127581-earth-analog.json](./127581-earth-analog.json) |
 | Earth and Legend | 205086 | [205086-earth-and-legend.json](./205086-earth-and-legend.json) |
 | Earth and Sky | 9427 | [9427-earth-and-sky.json](./9427-earth-and-sky.json) |
 | Earth and Sky 2: Another Earth, Another Sky | 9504 | [9504-earth-and-sky-2-another-earth-another-sky.json](./9504-earth-and-sky-2-another-earth-another-sky.json) |
