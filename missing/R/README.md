@@ -4757,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroRealms: Halloween | 313489 | [313489-retrorealms-halloween.json](./313489-retrorealms-halloween.json) |
 | RetroScape | 185107 | [185107-retroscape.json](./185107-retroscape.json) |
 | RetroShip: Hit the space ship | 175285 | [175285-retroship-hit-the-space-ship.json](./175285-retroship-hit-the-space-ship.json) |
+| RetroShooti | 150910 | [150910-retroshooti.json](./150910-retroshooti.json) |
 | RetroSpace | 231488 | [231488-retrospace.json](./231488-retrospace.json) |
 | RetroSpace | 295608 | [295608-retrospace.json](./295608-retrospace.json) |
 | RetroVamp | 126634 | [126634-retrovamp.json](./126634-retrovamp.json) |
@@ -9812,6 +9813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush N Crash | 374782 | [374782-rush-n-crash.json](./374782-rush-n-crash.json) |
 | Rush On | 253353 | [253353-rush-on.json](./253353-rush-on.json) |
 | Rush Out | 174828 | [174828-rush-out.json](./174828-rush-out.json) |
+| Rush Out of the Room | 150912 | [150912-rush-out-of-the-room.json](./150912-rush-out-of-the-room.json) |
 | Rush Rally | 242212 | [242212-rush-rally.json](./242212-rush-rally.json) |
 | Rush Rally 2 | 38717 | [38717-rush-rally-2.json](./38717-rush-rally-2.json) |
 | Rush Rally 3 | 110866 | [110866-rush-rally-3.json](./110866-rush-rally-3.json) |
