@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales We Tell Ourselves | 144122 | [144122-tales-we-tell-ourselves.json](./144122-tales-we-tell-ourselves.json) |
 | Talespinner | 190106 | [190106-talespinner.json](./190106-talespinner.json) |
 | TaleSpire: Guest Edition | 316393 | [316393-talespire-guest-edition.json](./316393-talespire-guest-edition.json) |
+| Talesshop Puzzle Collection | 123836 | [123836-talesshop-puzzle-collection.json](./123836-talesshop-puzzle-collection.json) |
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Deussi | 167859 | [167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json](./167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json) |
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Dummy | 167858 | [167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json](./167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json) |
 | TalesWeaver | 57117 | [57117-talesweaver.json](./57117-talesweaver.json) |
@@ -8489,6 +8490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunted Witch | 252678 | [252678-the-hunted-witch.json](./252678-the-hunted-witch.json) |
 | The Hunter | 284260 | [284260-the-hunter.json](./284260-the-hunter.json) |
 | The Hunter Cursed by Night | 296467 | [296467-the-hunter-cursed-by-night.json](./296467-the-hunter-cursed-by-night.json) |
+| The Hunter's Journals: Blissful Ignorance | 123870 | [123870-the-hunters-journals-blissful-ignorance.json](./123870-the-hunters-journals-blissful-ignorance.json) |
 | The Hunter's Journals: Wight Chapel Dreams | 213424 | [213424-the-hunters-journals-wight-chapel-dreams.json](./213424-the-hunters-journals-wight-chapel-dreams.json) |
 | The Hunter's Path | 327292 | [327292-the-hunters-path.json](./327292-the-hunters-path.json) |
 | The Hunters Journals; Pale Harbour | 119680 | [119680-the-hunters-journals-pale-harbour.json](./119680-the-hunters-journals-pale-harbour.json) |
@@ -9669,6 +9671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Chosen Blood | 285608 | [285608-the-legend-of-chosen-blood.json](./285608-the-legend-of-chosen-blood.json) |
 | The Legend of Chuck | 291006 | [291006-the-legend-of-chuck.json](./291006-the-legend-of-chuck.json) |
 | The Legend Of Chupacabra And The Sentient Log | 404451 | [404451-the-legend-of-chupacabra-and-the-sentient-log.json](./404451-the-legend-of-chupacabra-and-the-sentient-log.json) |
+| The Legend of Crystal Valley | 123838 | [123838-the-legend-of-crystal-valley.json](./123838-the-legend-of-crystal-valley.json) |
 | The Legend of Cube | 227858 | [227858-the-legend-of-cube.json](./227858-the-legend-of-cube.json) |
 | The Legend of Cyber Cowboy | 322406 | [322406-the-legend-of-cyber-cowboy.json](./322406-the-legend-of-cyber-cowboy.json) |
 | The Legend of Dad: Quest for Milk | 383026 | [383026-the-legend-of-dad-quest-for-milk.json](./383026-the-legend-of-dad-quest-for-milk.json) |
@@ -15907,6 +15910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three life | 106399 | [106399-three-life.json](./106399-three-life.json) |
 | Three Lions | 249151 | [249151-three-lions.json](./249151-three-lions.json) |
 | Three Lions | 385966 | [385966-three-lions.json](./385966-three-lions.json) |
+| Three Little Bears | 123852 | [123852-three-little-bears.json](./123852-three-little-bears.json) |
 | Three Little Pigs - fairy tale with games for kids | 91154 | [91154-three-little-pigs-fairy-tale-with-games-for-kids.json](./91154-three-little-pigs-fairy-tale-with-games-for-kids.json) |
 | Three Mazeketeers | 192869 | [192869-three-mazeketeers.json](./192869-three-mazeketeers.json) |
 | Three Men's Morris | 384169 | [384169-three-mens-morris.json](./384169-three-mens-morris.json) |
@@ -20220,6 +20224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torin's Passage | 2223 | [2223-torins-passage.json](./2223-torins-passage.json) |
 | Torino 2006 | 6205 | [6205-torino-2006.json](./6205-torino-2006.json) |
 | Torins Towers: Rise of Heroes | 167255 | [167255-torins-towers-rise-of-heroes.json](./167255-torins-towers-rise-of-heroes.json) |
+| Torinto | 123868 | [123868-torinto.json](./123868-torinto.json) |
 | Toripon | 116971 | [116971-toripon.json](./116971-toripon.json) |
 | Torizon Telecom | 410067 | [410067-torizon-telecom.json](./410067-torizon-telecom.json) |
 | Tormans | 157903 | [157903-tormans.json](./157903-tormans.json) |
@@ -20862,6 +20867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TouHou Nil Soul | 114801 | [114801-touhou-nil-soul.json](./114801-touhou-nil-soul.json) |
 | Touhou Pants Contest | 111365 | [111365-touhou-pants-contest.json](./111365-touhou-pants-contest.json) |
 | Touhou Perfect Sakura Fantastica | 212732 | [212732-touhou-perfect-sakura-fantastica.json](./212732-touhou-perfect-sakura-fantastica.json) |
+| Touhou Phantasm Dream | 123848 | [123848-touhou-phantasm-dream.json](./123848-touhou-phantasm-dream.json) |
 | Touhou Piano Game: Music Tiles | 216213 | [216213-touhou-piano-game-music-tiles.json](./216213-touhou-piano-game-music-tiles.json) |
 | Touhou Picross: Nazrin's Puzzles | 312688 | [312688-touhou-picross-nazrins-puzzles.json](./312688-touhou-picross-nazrins-puzzles.json) |
 | Touhou Pocket Wars | 128382 | [128382-touhou-pocket-wars.json](./128382-touhou-pocket-wars.json) |
