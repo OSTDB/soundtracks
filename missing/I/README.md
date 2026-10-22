@@ -5176,6 +5176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's a Giant! | 185102 | [185102-its-a-giant.json](./185102-its-a-giant.json) |
 | It's a Knockout | 77615 | [77615-its-a-knockout.json](./77615-its-a-knockout.json) |
 | It's a living | 183223 | [183223-its-a-living.json](./183223-its-a-living.json) |
+| It's a Long Way to the Top (If You Wanna Be a CEO) | 116075 | [116075-its-a-long-way-to-the-top-if-you-wanna-be-a-ceo.json](./116075-its-a-long-way-to-the-top-if-you-wanna-be-a-ceo.json) |
 | It's a Match!! | 268987 | [268987-its-a-match.json](./268987-its-a-match.json) |
 | It's A Me | 202391 | [202391-its-a-me.json](./202391-its-a-me.json) |
 | It's A Promise | 225513 | [225513-its-a-promise.json](./225513-its-a-promise.json) |
@@ -5234,6 +5235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Time | 201246 | [201246-its-time.json](./201246-its-time.json) |
 | It's Time | 23888 | [23888-its-time.json](./23888-its-time.json) |
 | It's Too Late to Apologize | 401642 | [401642-its-too-late-to-apologize.json](./401642-its-too-late-to-apologize.json) |
+| It's Too Rainy Day | 116057 | [116057-its-too-rainy-day.json](./116057-its-too-rainy-day.json) |
 | It's Walky! Resurrection | 60470 | [60470-its-walky-resurrection.json](./60470-its-walky-resurrection.json) |
 | It's Wiggle Time | 92679 | [92679-its-wiggle-time.json](./92679-its-wiggle-time.json) |
 | It's You: A Breakup Story | 105097 | [105097-its-you-a-breakup-story.json](./105097-its-you-a-breakup-story.json) |
