@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Hunter, Inc. | 34832 | [34832-zombie-hunter-inc.json](./34832-zombie-hunter-inc.json) |
 | Zombie Hunter: Crimson Hanbok | 238057 | [238057-zombie-hunter-crimson-hanbok.json](./238057-zombie-hunter-crimson-hanbok.json) |
 | Zombie Hunter: Mobile Shooting Game | 159239 | [159239-zombie-hunter-mobile-shooting-game.json](./159239-zombie-hunter-mobile-shooting-game.json) |
+| Zombie Hustle | 152632 | [152632-zombie-hustle.json](./152632-zombie-hustle.json) |
 | Zombie I Scream | 63540 | [63540-zombie-i-scream.json](./63540-zombie-i-scream.json) |
 | Zombie In Town | 164976 | [164976-zombie-in-town.json](./164976-zombie-in-town.json) |
 | Zombie Incident | 41714 | [41714-zombie-incident.json](./41714-zombie-incident.json) |
