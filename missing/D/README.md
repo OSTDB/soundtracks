@@ -1158,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Door | 380232 | [380232-dark-door.json](./380232-dark-door.json) |
 | Dark Dragonkin | 160066 | [160066-dark-dragonkin.json](./160066-dark-dragonkin.json) |
 | Dark Dreams on Diverging Roads | 382592 | [382592-dark-dreams-on-diverging-roads.json](./382592-dark-dreams-on-diverging-roads.json) |
+| Dark Dreams RHN | 127567 | [127567-dark-dreams-rhn.json](./127567-dark-dreams-rhn.json) |
 | Dark Drive | 95620 | [95620-dark-drive.json](./95620-dark-drive.json) |
 | Dark Dungeon Feminized | 334340 | [334340-dark-dungeon-feminized.json](./334340-dark-dungeon-feminized.json) |
 | Dark Dynasty: The Siege of Londor | 317522 | [317522-dark-dynasty-the-siege-of-londor.json](./317522-dark-dynasty-the-siege-of-londor.json) |
