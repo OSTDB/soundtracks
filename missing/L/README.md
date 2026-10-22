@@ -5887,12 +5887,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looty Dungeon | 104516 | [104516-looty-dungeon.json](./104516-looty-dungeon.json) |
 | LooWarVR | 31838 | [31838-loowarvr.json](./31838-loowarvr.json) |
 | Looxi | 343248 | [343248-looxi.json](./343248-looxi.json) |
+| Lophis Roguelike-Card RPG game: Darkest Dungeon | 147138 | [147138-lophis-roguelike-card-rpg-game-darkest-dungeon.json](./147138-lophis-roguelike-card-rpg-game-darkest-dungeon.json) |
 | Loplight | 208210 | [208210-loplight.json](./208210-loplight.json) |
 | Lopp | 81648 | [81648-lopp.json](./81648-lopp.json) |
 | Loppi Puzzle Magazine: Hirameku Soukangou | 226398 | [226398-loppi-puzzle-magazine-hirameku-soukangou.json](./226398-loppi-puzzle-magazine-hirameku-soukangou.json) |
 | Loppi Puzzle Magazine: Kangaeru Dai-2-gou | 226399 | [226399-loppi-puzzle-magazine-kangaeru-dai-2-gou.json](./226399-loppi-puzzle-magazine-kangaeru-dai-2-gou.json) |
 | Loppi Puzzle Magazine: Kangaeru Dai-3-gou | 226400 | [226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json](./226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json) |
 | Loppi Puzzle Magazine: Kangaeru Puzzle Soukangou | 226401 | [226401-loppi-puzzle-magazine-kangaeru-puzzle-soukangou.json](./226401-loppi-puzzle-magazine-kangaeru-puzzle-soukangou.json) |
+| Loppy: Planet Hopper | 147139 | [147139-loppy-planet-hopper.json](./147139-loppy-planet-hopper.json) |
 | Loptice | 41939 | [41939-loptice.json](./41939-loptice.json) |
 | LOR - League of Runners | 29592 | [29592-lor-league-of-runners.json](./29592-lor-league-of-runners.json) |
 | Lorax Garden | 175136 | [175136-lorax-garden.json](./175136-lorax-garden.json) |
