@@ -4534,6 +4534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physical Contact: 2048 | 70884 | [70884-physical-contact-2048.json](./70884-physical-contact-2048.json) |
 | Physical Contact: Picture Place | 74348 | [74348-physical-contact-picture-place.json](./74348-physical-contact-picture-place.json) |
 | Physical Contact: Speed | 51409 | [51409-physical-contact-speed.json](./51409-physical-contact-speed.json) |
+| Physical Exorcism: Case 01 | 110672 | [110672-physical-exorcism-case-01.json](./110672-physical-exorcism-case-01.json) |
 | Physical Layer | 241282 | [241282-physical-layer.json](./241282-physical-layer.json) |
 | Physical Spheres | 305519 | [305519-physical-spheres.json](./305519-physical-spheres.json) |
 | Physical Train: Chamland National Railway | 374625 | [374625-physical-train-chamland-national-railway.json](./374625-physical-train-chamland-national-railway.json) |
@@ -7378,6 +7379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plantan | 110330 | [110330-plantan.json](./110330-plantan.json) |
 | Plantasia | 333098 | [333098-plantasia.json](./333098-plantasia.json) |
 | Plantasia | 53463 | [53463-plantasia.json](./53463-plantasia.json) |
+| PlanTechtor | 110711 | [110711-plantechtor.json](./110711-plantechtor.json) |
 | Planted | 183411 | [183411-planted.json](./183411-planted.json) |
 | Planted! | 398336 | [398336-planted.json](./398336-planted.json) |
 | Plantera 2: Golden Acorn | 128835 | [128835-plantera-2-golden-acorn.json](./128835-plantera-2-golden-acorn.json) |
@@ -9564,6 +9566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyWar | 341564 | [341564-polywar.json](./341564-polywar.json) |
 | PolyZ | 297875 | [297875-polyz.json](./297875-polyz.json) |
 | PolyZen Drive | 278679 | [278679-polyzen-drive.json](./278679-polyzen-drive.json) |
+| Polzun | 110729 | [110729-polzun.json](./110729-polzun.json) |
 | Pom Pom Purin: Koro-koro Daibouken | 222518 | [222518-pom-pom-purin-koro-koro-daibouken.json](./222518-pom-pom-purin-koro-koro-daibouken.json) |
 | Pom Simulator 9000 | 135006 | [135006-pom-simulator-9000.json](./135006-pom-simulator-9000.json) |
 | Pom-Bar: Weltenbauer | 330361 | [330361-pom-bar-weltenbauer.json](./330361-pom-bar-weltenbauer.json) |
@@ -12150,6 +12153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Adventure Game: The Cycle of the Cave | 124578 | [124578-project-adventure-game-the-cycle-of-the-cave.json](./124578-project-adventure-game-the-cycle-of-the-cave.json) |
 | Project Adventurer | 137523 | [137523-project-adventurer.json](./137523-project-adventurer.json) |
 | Project Aeroes | 330342 | [330342-project-aeroes.json](./330342-project-aeroes.json) |
+| Project Aether: First Contact | 110732 | [110732-project-aether-first-contact.json](./110732-project-aether-first-contact.json) |
 | Project Aftershock | 94753 | [94753-project-aftershock.json](./94753-project-aftershock.json) |
 | Project Agora | 140326 | [140326-project-agora.json](./140326-project-agora.json) |
 | Project Alex | 216400 | [216400-project-alex.json](./216400-project-alex.json) |
