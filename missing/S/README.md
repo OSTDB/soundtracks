@@ -14821,6 +14821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Adventure Cobra: The Psychogun Vol. 2 | 209728 | [209728-space-adventure-cobra-the-psychogun-vol-2.json](./209728-space-adventure-cobra-the-psychogun-vol-2.json) |
 | Space Adventure Cobra: The Shooting | 75735 | [75735-space-adventure-cobra-the-shooting.json](./75735-space-adventure-cobra-the-shooting.json) |
 | Space Adventure Laika | 128634 | [128634-space-adventure-laika.json](./128634-space-adventure-laika.json) |
+| Space Adventure TD | 115385 | [115385-space-adventure-td.json](./115385-space-adventure-td.json) |
 | Space Adventure Zodiac | 406168 | [406168-space-adventure-zodiac.json](./406168-space-adventure-zodiac.json) |
 | Space Adventure: Escape from Siphilus 1b | 219587 | [219587-space-adventure-escape-from-siphilus-1b.json](./219587-space-adventure-escape-from-siphilus-1b.json) |
 | Space Adventure: Mercury | 379151 | [379151-space-adventure-mercury.json](./379151-space-adventure-mercury.json) |
@@ -16921,6 +16922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spikes Have Rage | 58716 | [58716-spikes-have-rage.json](./58716-spikes-have-rage.json) |
 | Spikeventure | 345641 | [345641-spikeventure.json](./345641-spikeventure.json) |
 | Spikey Walls | 59445 | [59445-spikey-walls.json](./59445-spikey-walls.json) |
+| Spiki Game Box | 115337 | [115337-spiki-game-box.json](./115337-spiki-game-box.json) |
 | Spikit | 31908 | [31908-spikit.json](./31908-spikit.json) |
 | Spiky | 144281 | [144281-spiky.json](./144281-spiky.json) |
 | Spiky Way: Forest | 257582 | [257582-spiky-way-forest.json](./257582-spiky-way-forest.json) |
@@ -19526,6 +19528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight Vega | 35041 | [35041-starlight-vega.json](./35041-starlight-vega.json) |
 | Starlight X-2: Galactic Puzzles | 163421 | [163421-starlight-x-2-galactic-puzzles.json](./163421-starlight-x-2-galactic-puzzles.json) |
 | Starlight: Eye of the Storm | 155670 | [155670-starlight-eye-of-the-storm.json](./155670-starlight-eye-of-the-storm.json) |
+| StarLightRiders: HyperJump | 115331 | [115331-starlightriders-hyperjump.json](./115331-starlightriders-hyperjump.json) |
 | Starlines | 305956 | [305956-starlines.json](./305956-starlines.json) |
 | Starlink: Battle for Atlas | 317065 | [317065-starlink-battle-for-atlas.json](./317065-starlink-battle-for-atlas.json) |
 | Starlink: Battle for Atlas - Collection Pack 2 | 168441 | [168441-starlink-battle-for-atlas-collection-pack-2.json](./168441-starlink-battle-for-atlas-collection-pack-2.json) |
@@ -19792,6 +19795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarryMonogatari: Student's Terminal | 302103 | [302103-starrymonogatari-students-terminal.json](./302103-starrymonogatari-students-terminal.json) |
 | Stars and Empires: Colony Defense | 317078 | [317078-stars-and-empires-colony-defense.json](./317078-stars-and-empires-colony-defense.json) |
 | Stars and Ghosts | 90398 | [90398-stars-and-ghosts.json](./90398-stars-and-ghosts.json) |
+| Stars and Snowdrops | 115379 | [115379-stars-and-snowdrops.json](./115379-stars-and-snowdrops.json) |
 | Stars Below | 177518 | [177518-stars-below.json](./177518-stars-below.json) |
 | Stars Beyond Reach | 13208 | [13208-stars-beyond-reach.json](./13208-stars-beyond-reach.json) |
 | Stars Blast | 243088 | [243088-stars-blast.json](./243088-stars-blast.json) |
@@ -20552,6 +20556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Shipyard | 388717 | [388717-stellar-shipyard.json](./388717-stellar-shipyard.json) |
 | Stellar Smooch | 60758 | [60758-stellar-smooch.json](./60758-stellar-smooch.json) |
 | Stellar Sovereigns | 176178 | [176178-stellar-sovereigns.json](./176178-stellar-sovereigns.json) |
+| Stellar Sphere | 115356 | [115356-stellar-sphere.json](./115356-stellar-sphere.json) |
 | Stellar Squad | 101738 | [101738-stellar-squad.json](./101738-stellar-squad.json) |
 | Stellar Stroll | 244323 | [244323-stellar-stroll.json](./244323-stellar-stroll.json) |
 | Stellar Survivor | 119476 | [119476-stellar-survivor.json](./119476-stellar-survivor.json) |
@@ -22946,6 +22951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku. | 90993 | [90993-sudoku.json](./90993-sudoku.json) |
 | Sudoku+ | 87862 | [87862-sudoku.json](./87862-sudoku.json) |
 | Sudoku3D | 113193 | [113193-sudoku3d.json](./113193-sudoku3d.json) |
+| Sudoku3D 2: The Cube | 115355 | [115355-sudoku3d-2-the-cube.json](./115355-sudoku3d-2-the-cube.json) |
 | Sudokuball Detective | 10930 | [10930-sudokuball-detective.json](./10930-sudokuball-detective.json) |
 | SudoKube | 193451 | [193451-sudokube.json](./193451-sudokube.json) |
 | Sudokumaniacs | 148880 | [148880-sudokumaniacs.json](./148880-sudokumaniacs.json) |
@@ -23610,6 +23616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Overdrive: Dawn of the Rise of the Fallen Machines | 21934 | [21934-sunset-overdrive-dawn-of-the-rise-of-the-fallen-machines.json](./21934-sunset-overdrive-dawn-of-the-rise-of-the-fallen-machines.json) |
 | Sunset Overdrive: Deluxe Edition | 164800 | [164800-sunset-overdrive-deluxe-edition.json](./164800-sunset-overdrive-deluxe-edition.json) |
 | Sunset Overdrive: Mystery of the Mooil Rig | 20050 | [20050-sunset-overdrive-mystery-of-the-mooil-rig.json](./20050-sunset-overdrive-mystery-of-the-mooil-rig.json) |
+| Sunset Planet | 115376 | [115376-sunset-planet.json](./115376-sunset-planet.json) |
 | Sunset Racer | 284485 | [284485-sunset-racer.json](./284485-sunset-racer.json) |
 | Sunset Racer | 344488 | [344488-sunset-racer.json](./344488-sunset-racer.json) |
 | Sunset Racing | 391305 | [391305-sunset-racing.json](./391305-sunset-racing.json) |
