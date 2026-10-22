@@ -9025,6 +9025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaLife 3D | 288877 | [288877-aqualife-3d.json](./288877-aqualife-3d.json) |
 | Aqualux | 52410 | [52410-aqualux.json](./52410-aqualux.json) |
 | Aquaman: Battle for Atlantis | 3788 | [3788-aquaman-battle-for-atlantis.json](./3788-aquaman-battle-for-atlantis.json) |
+| Aquamania! | 146616 | [146616-aquamania.json](./146616-aquamania.json) |
 | Aquamarine | 132518 | [132518-aquamarine.json](./132518-aquamarine.json) |
 | Aquamarine Submarine | 174564 | [174564-aquamarine-submarine.json](./174564-aquamarine-submarine.json) |
 | Aquamarine: Explorer's Edition | 390486 | [390486-aquamarine-explorers-edition.json](./390486-aquamarine-explorers-edition.json) |
@@ -9747,6 +9748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana Famiglia: Vascello Phantasma no Majutsushi | 64668 | [64668-arcana-famiglia-vascello-phantasma-no-majutsushi.json](./64668-arcana-famiglia-vascello-phantasma-no-majutsushi.json) |
 | Arcana Heart | 243694 | [243694-arcana-heart.json](./243694-arcana-heart.json) |
 | Arcana Heart 2 | 15865 | [15865-arcana-heart-2.json](./15865-arcana-heart-2.json) |
+| Arcana Heart 3 Lovemax Sixstars!!!!!! Xtend | 146590 | [146590-arcana-heart-3-lovemax-sixstars-xtend.json](./146590-arcana-heart-3-lovemax-sixstars-xtend.json) |
 | Arcana Noir | 261833 | [261833-arcana-noir.json](./261833-arcana-noir.json) |
 | Arcana of Paradise: The Tower | 194945 | [194945-arcana-of-paradise-the-tower.json](./194945-arcana-of-paradise-the-tower.json) |
 | Arcana Ritter | 91422 | [91422-arcana-ritter.json](./91422-arcana-ritter.json) |
@@ -9857,6 +9859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanus Online | 351054 | [351054-arcanus-online.json](./351054-arcanus-online.json) |
 | Arcany | 375981 | [375981-arcany.json](./375981-arcany.json) |
 | ArcaPinball: NeoWorlds | 146892 | [146892-arcapinball-neoworlds.json](./146892-arcapinball-neoworlds.json) |
+| ArcaPinball: Wacky Worlds | 146589 | [146589-arcapinball-wacky-worlds.json](./146589-arcapinball-wacky-worlds.json) |
 | ArcArg | 337968 | [337968-arcarg.json](./337968-arcarg.json) |
 | Arcas Champions | 336158 | [336158-arcas-champions.json](./336158-arcas-champions.json) |
 | Arcatera: The Dark Brotherhood | 24134 | [24134-arcatera-the-dark-brotherhood.json](./24134-arcatera-the-dark-brotherhood.json) |
