@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Legends | 306644 | [306644-war-of-legends.json](./306644-war-of-legends.json) |
 | War of Nations | 323324 | [323324-war-of-nations.json](./323324-war-of-nations.json) |
 | War of Ninja | 105728 | [105728-war-of-ninja.json](./105728-war-of-ninja.json) |
+| War of Power: The Last Fight | 115371 | [115371-war-of-power-the-last-fight.json](./115371-war-of-power-the-last-fight.json) |
 | War of Rights | 33953 | [33953-war-of-rights.json](./33953-war-of-rights.json) |
 | War of Roses | 177506 | [177506-war-of-roses.json](./177506-war-of-roses.json) |
 | War of Ships | 225895 | [225895-war-of-ships.json](./225895-war-of-ships.json) |
