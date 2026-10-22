@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbeatable: The Jamie Paige Content Companion | 408174 | [408174-unbeatable-the-jamie-paige-content-companion.json](./408174-unbeatable-the-jamie-paige-content-companion.json) |
 | Unbeknown | 59682 | [59682-unbeknown.json](./59682-unbeknown.json) |
 | Unbelievaboom! | 232815 | [232815-unbelievaboom.json](./232815-unbelievaboom.json) |
+| Unbeliever | 151431 | [151431-unbeliever.json](./151431-unbeliever.json) |
 | Unbeliever | 261438 | [261438-unbeliever.json](./261438-unbeliever.json) |
 | Unbind | 112481 | [112481-unbind.json](./112481-unbind.json) |
 | Unbirth | 305418 | [305418-unbirth.json](./305418-unbirth.json) |
