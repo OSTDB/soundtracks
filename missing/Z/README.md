@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Mutant DNA | 128959 | [128959-zombie-mutant-dna.json](./128959-zombie-mutant-dna.json) |
 | Zombie Mutant Run | 262338 | [262338-zombie-mutant-run.json](./262338-zombie-mutant-run.json) |
 | Zombie Nation | 48201 | [48201-zombie-nation.json](./48201-zombie-nation.json) |
+| Zombie Neighborhood | 150475 | [150475-zombie-neighborhood.json](./150475-zombie-neighborhood.json) |
 | Zombie Night | 276140 | [276140-zombie-night.json](./276140-zombie-night.json) |
 | Zombie Night Defense | 300829 | [300829-zombie-night-defense.json](./300829-zombie-night-defense.json) |
 | Zombie Night Terror: Collector's Edition | 194408 | [194408-zombie-night-terror-collectors-edition.json](./194408-zombie-night-terror-collectors-edition.json) |
