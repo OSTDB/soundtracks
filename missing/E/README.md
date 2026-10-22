@@ -2505,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of Sin: Make It Count | 193431 | [193431-empire-of-sin-make-it-count.json](./193431-empire-of-sin-make-it-count.json) |
 | Empire of Sin: Premium Edition | 143487 | [143487-empire-of-sin-premium-edition.json](./143487-empire-of-sin-premium-edition.json) |
 | Empire of Sports | 72921 | [72921-empire-of-sports.json](./72921-empire-of-sports.json) |
+| Empire of Steel and Bone | 125046 | [125046-empire-of-steel-and-bone.json](./125046-empire-of-steel-and-bone.json) |
 | Empire of the Ants | 237276 | [237276-empire-of-the-ants.json](./237276-empire-of-the-ants.json) |
 | Empire of the Ants | 47102 | [47102-empire-of-the-ants.json](./47102-empire-of-the-ants.json) |
 | Empire of the Ants: Digital Deluxe Edition | 320754 | [320754-empire-of-the-ants-digital-deluxe-edition.json](./320754-empire-of-the-ants-digital-deluxe-edition.json) |
@@ -2577,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty Horizons | 32247 | [32247-empty-horizons.json](./32247-empty-horizons.json) |
 | Empty Human Beans | 340898 | [340898-empty-human-beans.json](./340898-empty-human-beans.json) |
 | Empty Mind: Blank Fate | 307578 | [307578-empty-mind-blank-fate.json](./307578-empty-mind-blank-fate.json) |
+| Empty Sharp | 125043 | [125043-empty-sharp.json](./125043-empty-sharp.json) |
 | Empty Shell 2 | 345148 | [345148-empty-shell-2.json](./345148-empty-shell-2.json) |
 | Empty Shell: The Loop | 302365 | [302365-empty-shell-the-loop.json](./302365-empty-shell-the-loop.json) |
 | Empty Soul | 139287 | [139287-empty-soul.json](./139287-empty-soul.json) |
@@ -4921,6 +4923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: Renault Trucks E-Tech T | 311995 | [311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json](./311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json) |
 | Euro Truck Simulator 2: Road to the Black Sea | 118305 | [118305-euro-truck-simulator-2-road-to-the-black-sea.json](./118305-euro-truck-simulator-2-road-to-the-black-sea.json) |
 | Euro Truck Simulator 2: Soul of Anatolia | 398433 | [398433-euro-truck-simulator-2-soul-of-anatolia.json](./398433-euro-truck-simulator-2-soul-of-anatolia.json) |
+| Euro Truck Simulator 2: Special Transport | 125025 | [125025-euro-truck-simulator-2-special-transport.json](./125025-euro-truck-simulator-2-special-transport.json) |
 | Euro Truck Simulator 2: Street Art Paint Jobs Pack | 225577 | [225577-euro-truck-simulator-2-street-art-paint-jobs-pack.json](./225577-euro-truck-simulator-2-street-art-paint-jobs-pack.json) |
 | Euro Truck Simulator 2: Vive La France | 26254 | [26254-euro-truck-simulator-2-vive-la-france.json](./26254-euro-truck-simulator-2-vive-la-france.json) |
 | Euro Truck Simulator 2: West Balkans | 204244 | [204244-euro-truck-simulator-2-west-balkans.json](./204244-euro-truck-simulator-2-west-balkans.json) |
@@ -6127,6 +6130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploring Phonics 1 for Beginners | 334109 | [334109-exploring-phonics-1-for-beginners.json](./334109-exploring-phonics-1-for-beginners.json) |
 | Explory Story | 160203 | [160203-explory-story.json](./160203-explory-story.json) |
 | Explosion | 200466 | [200466-explosion.json](./200466-explosion.json) |
+| Explosion Magic Firebolt VR | 125087 | [125087-explosion-magic-firebolt-vr.json](./125087-explosion-magic-firebolt-vr.json) |
 | Explosionade | 35176 | [35176-explosionade.json](./35176-explosionade.json) |
 | Explosionade DX | 146797 | [146797-explosionade-dx.json](./146797-explosionade-dx.json) |
 | Explosioneer | 389034 | [389034-explosioneer.json](./389034-explosioneer.json) |
