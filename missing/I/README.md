@@ -1862,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imbalance | 197260 | [197260-imbalance.json](./197260-imbalance.json) |
 | Imball | 391350 | [391350-imball.json](./391350-imball.json) |
 | Imbolg no Sugoshikata | 331190 | [331190-imbolg-no-sugoshikata.json](./331190-imbolg-no-sugoshikata.json) |
+| Imbroglio | 131230 | [131230-imbroglio.json](./131230-imbroglio.json) |
 | IMC | 217232 | [217232-imc.json](./217232-imc.json) |
 | Imercyve: Living with Intellectual Disability | 156884 | [156884-imercyve-living-with-intellectual-disability.json](./156884-imercyve-living-with-intellectual-disability.json) |
 | IMG International Tour Tennis | 46207 | [46207-img-international-tour-tennis.json](./46207-img-international-tour-tennis.json) |
@@ -5233,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itch! | 143745 | [143745-itch.json](./143745-itch.json) |
 | Itchana Tchones Zombie Terror | 285139 | [285139-itchana-tchones-zombie-terror.json](./285139-itchana-tchones-zombie-terror.json) |
 | Itchy Scratchy | 215547 | [215547-itchy-scratchy.json](./215547-itchy-scratchy.json) |
+| iTD | 131191 | [131191-itd.json](./131191-itd.json) |
 | Item Collector: Pirates | 369338 | [369338-item-collector-pirates.json](./369338-item-collector-pirates.json) |
 | Item Frenzy | 328516 | [328516-item-frenzy.json](./328516-item-frenzy.json) |
 | Item Shop Simulator | 406226 | [406226-item-shop-simulator.json](./406226-item-shop-simulator.json) |
@@ -5303,6 +5305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ivaxion | 265051 | [265051-ivaxion.json](./265051-ivaxion.json) |
 | Ivayami: Cradle of Fog | 327056 | [327056-ivayami-cradle-of-fog.json](./327056-ivayami-cradle-of-fog.json) |
 | Iveri: The 1.000 Story | 368264 | [368264-iveri-the-1-000-story.json](./368264-iveri-the-1-000-story.json) |
+| Iverian Wars: Craxion vs Defugel | 131225 | [131225-iverian-wars-craxion-vs-defugel.json](./131225-iverian-wars-craxion-vs-defugel.json) |
 | Ivilyn Kingdoms | 391142 | [391142-ivilyn-kingdoms.json](./391142-ivilyn-kingdoms.json) |
 | Ivory Springs | 87804 | [87804-ivory-springs.json](./87804-ivory-springs.json) |
 | Ivri | 291511 | [291511-ivri.json](./291511-ivri.json) |
