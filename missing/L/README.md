@@ -3601,6 +3601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifeless Horizon | 266900 | [266900-lifeless-horizon.json](./266900-lifeless-horizon.json) |
 | Lifeless Moon | 27933 | [27933-lifeless-moon.json](./27933-lifeless-moon.json) |
 | Lifeless Planet: Premier Edition | 20950 | [20950-lifeless-planet-premier-edition.json](./20950-lifeless-planet-premier-edition.json) |
+| Lifeless Vanguard | 116764 | [116764-lifeless-vanguard.json](./116764-lifeless-vanguard.json) |
 | Lifelike | 178003 | [178003-lifelike.json](./178003-lifelike.json) |
 | Lifelike: Chapter One | 117004 | [117004-lifelike-chapter-one.json](./117004-lifelike-chapter-one.json) |
 | Lifeline | 19282 | [19282-lifeline.json](./19282-lifeline.json) |
@@ -5331,6 +5332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locomotive | 78737 | [78737-locomotive.json](./78737-locomotive.json) |
 | Locomotive 115 | 322993 | [322993-locomotive-115.json](./322993-locomotive-115.json) |
 | Locomotive 2 | 66556 | [66556-locomotive-2.json](./66556-locomotive-2.json) |
+| LocoMotives | 116719 | [116719-locomotives.json](./116719-locomotives.json) |
 | LocoPets | 311861 | [311861-locopets.json](./311861-locopets.json) |
 | LocoRoco 2 | 1461 | [1461-locoroco-2.json](./1461-locoroco-2.json) |
 | LocoRoco Midnight Carnival | 1462 | [1462-locoroco-midnight-carnival.json](./1462-locoroco-midnight-carnival.json) |
