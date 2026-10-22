@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gadkiy Ya 2 | 210318 | [210318-gadkiy-ya-2.json](./210318-gadkiy-ya-2.json) |
 | Gado Fight | 132222 | [132222-gado-fight.json](./132222-gado-fight.json) |
 | Gadvia | 223940 | [223940-gadvia.json](./223940-gadvia.json) |
+| Gaelco Arcade 1 | 149291 | [149291-gaelco-arcade-1.json](./149291-gaelco-arcade-1.json) |
 | Gaelic Football Laochra | 394897 | [394897-gaelic-football-laochra.json](./394897-gaelic-football-laochra.json) |
 | Gaelic Games: Football | 98973 | [98973-gaelic-games-football.json](./98973-gaelic-games-football.json) |
 | Gaelic Games: Football 2 | 57605 | [57605-gaelic-games-football-2.json](./57605-gaelic-games-football-2.json) |
@@ -1422,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Life: Garden Party Pack | 286203 | [286203-garden-life-garden-party-pack.json](./286203-garden-life-garden-party-pack.json) |
 | Garden Life: Supporter Pack | 289321 | [289321-garden-life-supporter-pack.json](./289321-garden-life-supporter-pack.json) |
 | Garden Madness | 192330 | [192330-garden-madness.json](./192330-garden-madness.json) |
+| Garden Magic | 149334 | [149334-garden-magic.json](./149334-garden-magic.json) |
 | Garden Masters | 343295 | [343295-garden-masters.json](./343295-garden-masters.json) |
 | Garden Maze | 246539 | [246539-garden-maze.json](./246539-garden-maze.json) |
 | Garden of Aiden | 295843 | [295843-garden-of-aiden.json](./295843-garden-of-aiden.json) |
@@ -3640,6 +3642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiators Tale | 248001 | [248001-gladiators-tale.json](./248001-gladiators-tale.json) |
 | Gladiators: Ludus Manager | 116213 | [116213-gladiators-ludus-manager.json](./116213-gladiators-ludus-manager.json) |
 | Gladiators: The Unconquered | 132535 | [132535-gladiators-the-unconquered.json](./132535-gladiators-the-unconquered.json) |
+| Gladihaters | 149405 | [149405-gladihaters.json](./149405-gladihaters.json) |
 | Gladihoppers | 103356 | [103356-gladihoppers.json](./103356-gladihoppers.json) |
 | Gladii | 158922 | [158922-gladii.json](./158922-gladii.json) |
 | Gladio and Glory | 144881 | [144881-gladio-and-glory.json](./144881-gladio-and-glory.json) |
@@ -5969,6 +5972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Heist | 120317 | [120317-grand-heist.json](./120317-grand-heist.json) |
 | Grand Horse Attraction | 151302 | [151302-grand-horse-attraction.json](./151302-grand-horse-attraction.json) |
 | Grand Hotel Mania | 235162 | [235162-grand-hotel-mania.json](./235162-grand-hotel-mania.json) |
+| Grand Intention Adjustment | 149341 | [149341-grand-intention-adjustment.json](./149341-grand-intention-adjustment.json) |
 | Grand Kingdom: Grand Edition | 89908 | [89908-grand-kingdom-grand-edition.json](./89908-grand-kingdom-grand-edition.json) |
 | Grand Kingdom: Limited Edition | 89909 | [89909-grand-kingdom-limited-edition.json](./89909-grand-kingdom-limited-edition.json) |
 | Grand Knights History | 42808 | [42808-grand-knights-history.json](./42808-grand-knights-history.json) |
@@ -6030,6 +6034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Slam | 20812 | [20812-grand-slam.json](./20812-grand-slam.json) |
 | Grand Slam Bridge II | 74004 | [74004-grand-slam-bridge-ii.json](./74004-grand-slam-bridge-ii.json) |
 | Grand Slam Rally | 137908 | [137908-grand-slam-rally.json](./137908-grand-slam-rally.json) |
+| Grand Slam Tennis | 149301 | [149301-grand-slam-tennis.json](./149301-grand-slam-tennis.json) |
 | Grand Slam Tennis | 4894 | [4894-grand-slam-tennis.json](./4894-grand-slam-tennis.json) |
 | Grand Slam Tennis 2 | 7002 | [7002-grand-slam-tennis-2.json](./7002-grand-slam-tennis-2.json) |
 | Grand Soul Saga | 292629 | [292629-grand-soul-saga.json](./292629-grand-soul-saga.json) |
@@ -6594,6 +6599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gray Planet | 344872 | [344872-gray-planet.json](./344872-gray-planet.json) |
 | Gray platformer | 142420 | [142420-gray-platformer.json](./142420-gray-platformer.json) |
 | Gray Skies, Dark Waters | 37002 | [37002-gray-skies-dark-waters.json](./37002-gray-skies-dark-waters.json) |
+| Gray Space | 149351 | [149351-gray-space.json](./149351-gray-space.json) |
 | Grayland | 127715 | [127715-grayland.json](./127715-grayland.json) |
 | Grayland | 171899 | [171899-grayland.json](./171899-grayland.json) |
 | Grayland Remastered | 374967 | [374967-grayland-remastered.json](./374967-grayland-remastered.json) |
@@ -7053,6 +7059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grill on Wheels | 272214 | [272214-grill-on-wheels.json](./272214-grill-on-wheels.json) |
 | Grill-Off with Ultra Hand! | 50696 | [50696-grill-off-with-ultra-hand.json](./50696-grill-off-with-ultra-hand.json) |
 | Grille Logic | 286580 | [286580-grille-logic.json](./286580-grille-logic.json) |
+| Grilled | 149459 | [149459-grilled.json](./149459-grilled.json) |
 | Grim | 196319 | [196319-grim.json](./196319-grim.json) |
 | Grim | 261740 | [261740-grim.json](./261740-grim.json) |
 | Grim | 379863 | [379863-grim.json](./379863-grim.json) |
