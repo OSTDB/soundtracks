@@ -3679,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Masquerade 3: Honeylines - Folks & Spirits | 307201 | [307201-glass-masquerade-3-honeylines-folks-and-spirits.json](./307201-glass-masquerade-3-honeylines-folks-and-spirits.json) |
 | Glass Masquerade 3: Honeylines - Wings & Tunes | 274640 | [274640-glass-masquerade-3-honeylines-wings-and-tunes.json](./274640-glass-masquerade-3-honeylines-wings-and-tunes.json) |
 | Glass Masquerade 4: Constellations - Celestials | 403633 | [403633-glass-masquerade-4-constellations-celestials.json](./403633-glass-masquerade-4-constellations-celestials.json) |
+| Glass Masquerade: Halloween Puzzle Pack | 155413 | [155413-glass-masquerade-halloween-puzzle-pack.json](./155413-glass-masquerade-halloween-puzzle-pack.json) |
 | Glass Road | 58662 | [58662-glass-road.json](./58662-glass-road.json) |
 | Glass Rose | 43441 | [43441-glass-rose.json](./43441-glass-rose.json) |
 | Glass Smash 64 | 338801 | [338801-glass-smash-64.json](./338801-glass-smash-64.json) |
@@ -5809,6 +5810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GraFi | 117476 | [117476-grafi.json](./117476-grafi.json) |
 | GraFi 2 | 119013 | [119013-grafi-2.json](./119013-grafi-2.json) |
 | GraFi Christmas | 126556 | [126556-grafi-christmas.json](./126556-grafi-christmas.json) |
+| GraFi Easter | 155407 | [155407-grafi-easter.json](./155407-grafi-easter.json) |
 | GraFi Halloween | 127309 | [127309-grafi-halloween.json](./127309-grafi-halloween.json) |
 | GraFi Lunar | 127774 | [127774-grafi-lunar.json](./127774-grafi-lunar.json) |
 | GraFi Valentine | 129616 | [129616-grafi-valentine.json](./129616-grafi-valentine.json) |
@@ -8123,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Builder Elite HD | 351036 | [351036-gun-builder-elite-hd.json](./351036-gun-builder-elite-hd.json) |
 | Gun Building 3 | 351042 | [351042-gun-building-3.json](./351042-gun-building-3.json) |
 | Gun Chain | 117135 | [117135-gun-chain.json](./117135-gun-chain.json) |
+| Gun Club VR: SWAT DLC | 155456 | [155456-gun-club-vr-swat-dlc.json](./155456-gun-club-vr-swat-dlc.json) |
 | Gun Commando | 52221 | [52221-gun-commando.json](./52221-gun-commando.json) |
 | Gun Crazy | 110093 | [110093-gun-crazy.json](./110093-gun-crazy.json) |
 | Gun Dealer | 348904 | [348904-gun-dealer.json](./348904-gun-dealer.json) |
