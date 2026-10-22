@@ -6319,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HIS: Heroes in the Sky - Fa223 Berta Hildebrand Pack | 170408 | [170408-his-heroes-in-the-sky-fa223-berta-hildebrand-pack.json](./170408-his-heroes-in-the-sky-fa223-berta-hildebrand-pack.json) |
 | HIS: Heroes in the Sky - Ju87G Berta Hildebrand Pack | 170407 | [170407-his-heroes-in-the-sky-ju87g-berta-hildebrand-pack.json](./170407-his-heroes-in-the-sky-ju87g-berta-hildebrand-pack.json) |
 | HIS: Heroes in the Sky - XB-35 Julia Mackin Pack | 170404 | [170404-his-heroes-in-the-sky-xb-35-julia-mackin-pack.json](./170404-his-heroes-in-the-sky-xb-35-julia-mackin-pack.json) |
+| Hisato No Saku | 139281 | [139281-hisato-no-saku.json](./139281-hisato-no-saku.json) |
 | Hiscores! Gold | 118999 | [118999-hiscores-gold.json](./118999-hiscores-gold.json) |
 | Hishou Ayu: Dreampainter | 206004 | [206004-hishou-ayu-dreampainter.json](./206004-hishou-ayu-dreampainter.json) |
 | Hishou Same! Same! Same! | 186708 | [186708-hishou-same-same-same.json](./186708-hishou-same-same-same.json) |
