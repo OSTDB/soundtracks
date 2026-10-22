@@ -1539,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Mayhem | 266424 | [266424-tank-mayhem.json](./266424-tank-mayhem.json) |
 | Tank Maze | 293076 | [293076-tank-maze.json](./293076-tank-maze.json) |
 | Tank Mechanic Simulator | 43115 | [43115-tank-mechanic-simulator.json](./43115-tank-mechanic-simulator.json) |
+| Tank Mechanic Simulator VR | 149831 | [149831-tank-mechanic-simulator-vr.json](./149831-tank-mechanic-simulator-vr.json) |
 | Tank Mechanic Simulator: Cromwell Mk.IV | 391333 | [391333-tank-mechanic-simulator-cromwell-mk-iv.json](./391333-tank-mechanic-simulator-cromwell-mk-iv.json) |
 | Tank Mechanic Simulator: First Supply DLC | 387696 | [387696-tank-mechanic-simulator-first-supply-dlc.json](./387696-tank-mechanic-simulator-first-supply-dlc.json) |
 | Tank Mechanic Simulator: Shermans DLC | 387695 | [387695-tank-mechanic-simulator-shermans-dlc.json](./387695-tank-mechanic-simulator-shermans-dlc.json) |
@@ -5288,6 +5289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bread Pub Brawlers | 86118 | [86118-the-bread-pub-brawlers.json](./86118-the-bread-pub-brawlers.json) |
 | The Break-In | 199298 | [199298-the-break-in.json](./199298-the-break-in.json) |
 | the Breath. | 59242 | [59242-the-breath.json](./59242-the-breath.json) |
+| The Brew Barons | 149850 | [149850-the-brew-barons.json](./149850-the-brew-barons.json) |
 | The Brick Wall | 92392 | [92392-the-brick-wall.json](./92392-the-brick-wall.json) |
 | The Bricksperience | 184370 | [184370-the-bricksperience.json](./184370-the-bricksperience.json) |
 | The Bride Horror Game | 238950 | [238950-the-bride-horror-game.json](./238950-the-bride-horror-game.json) |
@@ -9497,6 +9499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Time | 23942 | [23942-the-last-time.json](./23942-the-last-time.json) |
 | The Last Tower | 93798 | [93798-the-last-tower.json](./93798-the-last-tower.json) |
 | The Last Town | 118829 | [118829-the-last-town.json](./118829-the-last-town.json) |
+| The Last Town: Excape | 149839 | [149839-the-last-town-excape.json](./149839-the-last-town-excape.json) |
 | The Last Train | 109625 | [109625-the-last-train.json](./109625-the-last-train.json) |
 | The Last Train: Baquedano | 343255 | [343255-the-last-train-baquedano.json](./343255-the-last-train-baquedano.json) |
 | The Last Train: Final Ride | 175364 | [175364-the-last-train-final-ride.json](./175364-the-last-train-final-ride.json) |
@@ -11311,6 +11314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Out Door | 312723 | [312723-the-out-door.json](./312723-the-out-door.json) |
 | The Outbreak | 140970 | [140970-the-outbreak.json](./140970-the-outbreak.json) |
 | The Outbreak Guardian | 168185 | [168185-the-outbreak-guardian.json](./168185-the-outbreak-guardian.json) |
+| The Outbreak Story | 149852 | [149852-the-outbreak-story.json](./149852-the-outbreak-story.json) |
 | The Outbreak: Wilderness | 167519 | [167519-the-outbreak-wilderness.json](./167519-the-outbreak-wilderness.json) |
 | The Outcast Lovers | 135899 | [135899-the-outcast-lovers.json](./135899-the-outcast-lovers.json) |
 | The Outer Darkness | 274200 | [274200-the-outer-darkness.json](./274200-the-outer-darkness.json) |
@@ -25333,6 +25337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn It Around | 21236 | [21236-turn-it-around.json](./21236-turn-it-around.json) |
 | Turn it! | 371430 | [371430-turn-it.json](./371430-turn-it.json) |
 | Turn Me On | 121399 | [121399-turn-me-on.json](./121399-turn-me-on.json) |
+| Turn on All the Lights | 149830 | [149830-turn-on-all-the-lights.json](./149830-turn-on-all-the-lights.json) |
 | Turn on the Light: Jigsaw | 253445 | [253445-turn-on-the-light-jigsaw.json](./253445-turn-on-the-light-jigsaw.json) |
 | Turn on the Lights Carefully | 238750 | [238750-turn-on-the-lights-carefully.json](./238750-turn-on-the-lights-carefully.json) |
 | Turn on the lights! Brain Game | 245782 | [245782-turn-on-the-lights-brain-game.json](./245782-turn-on-the-lights-brain-game.json) |
