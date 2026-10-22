@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of Fate: Hordes | 334544 | [334544-hand-of-fate-hordes.json](./334544-hand-of-fate-hordes.json) |
 | Hand of Fate: Wildcards | 51823 | [51823-hand-of-fate-wildcards.json](./51823-hand-of-fate-wildcards.json) |
 | Hand of Hexes | 338867 | [338867-hand-of-hexes.json](./338867-hand-of-hexes.json) |
+| Hand of Horzasha | 114078 | [114078-hand-of-horzasha.json](./114078-hand-of-horzasha.json) |
 | Hand of Seasons | 298687 | [298687-hand-of-seasons.json](./298687-hand-of-seasons.json) |
 | Hand of the Divine | 294513 | [294513-hand-of-the-divine.json](./294513-hand-of-the-divine.json) |
 | Hand of the Goddess | 273919 | [273919-hand-of-the-goddess.json](./273919-hand-of-the-goddess.json) |
@@ -2584,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart's Medicine: Time to Heal | 32311 | [32311-hearts-medicine-time-to-heal.json](./32311-hearts-medicine-time-to-heal.json) |
 | Heart&Slash | 17911 | [17911-heart-and-slash.json](./17911-heart-and-slash.json) |
 | Heartache | 57687 | [57687-heartache.json](./57687-heartache.json) |
+| HeartandAxe | 114060 | [114060-heartandaxe.json](./114060-heartandaxe.json) |
 | Heartbaked | 177504 | [177504-heartbaked.json](./177504-heartbaked.json) |
 | Heartbeat | 176978 | [176978-heartbeat.json](./176978-heartbeat.json) |
 | Heartbeat at Midnight | 407310 | [407310-heartbeat-at-midnight.json](./407310-heartbeat-at-midnight.json) |
@@ -2887,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heckin' Slimes | 176788 | [176788-heckin-slimes.json](./176788-heckin-slimes.json) |
 | Heckle Dungeon | 123999 | [123999-heckle-dungeon.json](./123999-heckle-dungeon.json) |
 | Heckpoint | 74539 | [74539-heckpoint.json](./74539-heckpoint.json) |
+| Hectic Highways | 114104 | [114104-hectic-highways.json](./114104-hectic-highways.json) |
 | Hectic Space 2 | 194176 | [194176-hectic-space-2.json](./194176-hectic-space-2.json) |
 | Hector The Cat: Treasure Hunter | 257437 | [257437-hector-the-cat-treasure-hunter.json](./257437-hector-the-cat-treasure-hunter.json) |
 | Hector: Badge of Carnage! - Episode 1 | 119182 | [119182-hector-badge-of-carnage-episode-1.json](./119182-hector-badge-of-carnage-episode-1.json) |
@@ -4492,6 +4495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Conquest | 83215 | [83215-hero-conquest.json](./83215-hero-conquest.json) |
 | Hero Cummy | 285398 | [285398-hero-cummy.json](./285398-hero-cummy.json) |
 | Hero Defence | 25095 | [25095-hero-defence.json](./25095-hero-defence.json) |
+| Hero Defender | 114114 | [114114-hero-defender.json](./114114-hero-defender.json) |
 | Hero Defense: Haunted Island | 80217 | [80217-hero-defense-haunted-island.json](./80217-hero-defense-haunted-island.json) |
 | Hero Dream of School | 114289 | [114289-hero-dream-of-school.json](./114289-hero-dream-of-school.json) |
 | Hero Emblem 2 | 82712 | [82712-hero-emblem-2.json](./82712-hero-emblem-2.json) |
@@ -4692,6 +4696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Must Die | 32947 | [32947-heroes-must-die.json](./32947-heroes-must-die.json) |
 | Heroes Must Diee | 155877 | [155877-heroes-must-diee.json](./155877-heroes-must-diee.json) |
 | Heroes of a Broken Land | 17663 | [17663-heroes-of-a-broken-land.json](./17663-heroes-of-a-broken-land.json) |
+| Heroes of a Broken Land 2 | 114089 | [114089-heroes-of-a-broken-land-2.json](./114089-heroes-of-a-broken-land-2.json) |
 | Heroes of Abyss | 191160 | [191160-heroes-of-abyss.json](./191160-heroes-of-abyss.json) |
 | Heroes of Anirea | 349910 | [349910-heroes-of-anirea.json](./349910-heroes-of-anirea.json) |
 | Heroes of Annihilated Empires | 14824 | [14824-heroes-of-annihilated-empires.json](./14824-heroes-of-annihilated-empires.json) |
