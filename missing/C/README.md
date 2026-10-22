@@ -3274,6 +3274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch The Rabbit | 348244 | [348244-catch-the-rabbit.json](./348244-catch-the-rabbit.json) |
 | Catch the Rhythm | 339790 | [339790-catch-the-rhythm.json](./339790-catch-the-rhythm.json) |
 | Catch the Sperm | 319974 | [319974-catch-the-sperm.json](./319974-catch-the-sperm.json) |
+| Catch the Stars | 155926 | [155926-catch-the-stars.json](./155926-catch-the-stars.json) |
 | Catch the Stars: Jigsaw Puzzle | 153152 | [153152-catch-the-stars-jigsaw-puzzle.json](./153152-catch-the-stars-jigsaw-puzzle.json) |
 | Catch the thief | 202011 | [202011-catch-the-thief.json](./202011-catch-the-thief.json) |
 | Catch the Turtle | 410230 | [410230-catch-the-turtle.json](./410230-catch-the-turtle.json) |
@@ -5608,6 +5609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill X | 161260 | [161260-chill-x.json](./161260-chill-x.json) |
 | Chillax | 261959 | [261959-chillax.json](./261959-chillax.json) |
 | Chillax | 303724 | [303724-chillax.json](./303724-chillax.json) |
+| Chillax VR | 155966 | [155966-chillax-vr.json](./155966-chillax-vr.json) |
 | Chilled Chicken | 262421 | [262421-chilled-chicken.json](./262421-chilled-chicken.json) |
 | Chiller | 11727 | [11727-chiller.json](./11727-chiller.json) |
 | Chiller | 229644 | [229644-chiller.json](./229644-chiller.json) |
@@ -5694,6 +5696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Chess: Elephant Game | 72872 | [72872-chinese-chess-elephant-game.json](./72872-chinese-chess-elephant-game.json) |
 | Chinese Culinary Shop | 276221 | [276221-chinese-culinary-shop.json](./276221-chinese-culinary-shop.json) |
 | Chinese Driving Test Simulator | 189929 | [189929-chinese-driving-test-simulator.json](./189929-chinese-driving-test-simulator.json) |
+| Chinese Empire | 155923 | [155923-chinese-empire.json](./155923-chinese-empire.json) |
 | Chinese Expeditionary Force: Assault Team | 233783 | [233783-chinese-expeditionary-force-assault-team.json](./233783-chinese-expeditionary-force-assault-team.json) |
 | Chinese Hero | 19716 | [19716-chinese-hero.json](./19716-chinese-hero.json) |
 | Chinese inn | 76683 | [76683-chinese-inn.json](./76683-chinese-inn.json) |
@@ -12197,6 +12200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cradle of Souls | 188886 | [188886-cradle-of-souls.json](./188886-cradle-of-souls.json) |
 | Cradle of the Dark Brood | 408203 | [408203-cradle-of-the-dark-brood.json](./408203-cradle-of-the-dark-brood.json) |
 | Cradle Song | 65248 | [65248-cradle-song.json](./65248-cradle-song.json) |
+| Cradle-18 | 155920 | [155920-cradle-18.json](./155920-cradle-18.json) |
 | Cradlemoor | 197058 | [197058-cradlemoor.json](./197058-cradlemoor.json) |
 | Cradles | 253982 | [253982-cradles.json](./253982-cradles.json) |
 | Craft | 280355 | [280355-craft.json](./280355-craft.json) |
@@ -15666,6 +15670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberGhitch | 390059 | [390059-cyberghitch.json](./390059-cyberghitch.json) |
 | CyberGladiators | 50149 | [50149-cybergladiators.json](./50149-cybergladiators.json) |
 | CyberGlide VR | 120319 | [120319-cyberglide-vr.json](./120319-cyberglide-vr.json) |
+| CyberGrid: Tower defense | 155944 | [155944-cybergrid-tower-defense.json](./155944-cybergrid-tower-defense.json) |
 | CyberGroove | 262263 | [262263-cybergroove.json](./262263-cybergroove.json) |
 | CyberHeroes Arena | 218660 | [218660-cyberheroes-arena.json](./218660-cyberheroes-arena.json) |
 | CyberHeroes Arena DX | 235300 | [235300-cyberheroes-arena-dx.json](./235300-cyberheroes-arena-dx.json) |
