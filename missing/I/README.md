@@ -1777,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imadoki no Vampire: Bloody Bride | 43778 | [43778-imadoki-no-vampire-bloody-bride.json](./43778-imadoki-no-vampire-bloody-bride.json) |
 | Imae: Guardian Girl | 387536 | [387536-imae-guardian-girl.json](./387536-imae-guardian-girl.json) |
 | Image Fight II: Operation Deepstriker | 37623 | [37623-image-fight-ii-operation-deepstriker.json](./37623-image-fight-ii-operation-deepstriker.json) |
+| Image of Perfection | 120580 | [120580-image-of-perfection.json](./120580-image-of-perfection.json) |
 | ImageFight | 86243 | [86243-imagefight.json](./86243-imagefight.json) |
 | ImageFight II | 86242 | [86242-imagefight-ii.json](./86242-imagefight-ii.json) |
 | ImageStriker2 | 230796 | [230796-imagestriker2.json](./230796-imagestriker2.json) |
