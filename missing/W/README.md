@@ -6010,6 +6010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Swipe | 101529 | [101529-word-swipe.json](./101529-word-swipe.json) |
 | Word Symphony | 205882 | [205882-word-symphony.json](./205882-word-symphony.json) |
 | Word Tango | 383550 | [383550-word-tango.json](./383550-word-tango.json) |
+| Word Tiles by CleverMedia | 106936 | [106936-word-tiles-by-clevermedia.json](./106936-word-tiles-by-clevermedia.json) |
 | Word to Angel | 333049 | [333049-word-to-angel.json](./333049-word-to-angel.json) |
 | Word to your Sensei | 200123 | [200123-word-to-your-sensei.json](./200123-word-to-your-sensei.json) |
 | Word Tower Puzzle | 330728 | [330728-word-tower-puzzle.json](./330728-word-tower-puzzle.json) |
