@@ -11493,6 +11493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Quest | 261517 | [261517-snake-quest.json](./261517-snake-quest.json) |
 | Snake Rampage - Snake Simulator | 108619 | [108619-snake-rampage-snake-simulator.json](./108619-snake-rampage-snake-simulator.json) |
 | Snake Real World | 133874 | [133874-snake-real-world.json](./133874-snake-real-world.json) |
+| Snake Rewind | 124445 | [124445-snake-rewind.json](./124445-snake-rewind.json) |
 | Snake Rivals | 138453 | [138453-snake-rivals.json](./138453-snake-rivals.json) |
 | Snake Roy | 210642 | [210642-snake-roy.json](./210642-snake-roy.json) |
 | Snake Snafu | 180479 | [180479-snake-snafu.json](./180479-snake-snafu.json) |
@@ -14180,6 +14181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sore ha Maichiru Sakura no You ni: Re:birth | 368652 | [368652-sore-ha-maichiru-sakura-no-you-ni-re-birth.json](./368652-sore-ha-maichiru-sakura-no-you-ni-re-birth.json) |
 | Sore Ike! Anpanman: Hajimete Kaketa yo! Oboeta yo! Hiragana, Katakana: 50-on Board Kinou-tsuki | 300422 | [300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json](./300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json) |
 | Sore Jaa, Mata ne. | 201807 | [201807-sore-jaa-mata-ne.json](./201807-sore-jaa-mata-ne.json) |
+| Sore Losers | 124453 | [124453-sore-losers.json](./124453-sore-losers.json) |
 | Soreike! Anpanman Card de Tanoshiku ABC | 327608 | [327608-soreike-anpanman-card-de-tanoshiku-abc.json](./327608-soreike-anpanman-card-de-tanoshiku-abc.json) |
 | Soreike! Anpanman Doki-doki! Rescue Drive: Car Navi-tsuki | 327609 | [327609-soreike-anpanman-doki-doki-rescue-drive-car-navi-tsuki.json](./327609-soreike-anpanman-doki-doki-rescue-drive-car-navi-tsuki.json) |
 | Soreike! Anpanman o-Mise ga Ippai! TV de o-Ryouri Tsukucchao | 327610 | [327610-soreike-anpanman-o-mise-ga-ippai-tv-de-o-ryouri-tsukucchao.json](./327610-soreike-anpanman-o-mise-ga-ippai-tv-de-o-ryouri-tsukucchao.json) |
@@ -21656,6 +21658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamer Top | 370843 | [370843-streamer-top.json](./370843-streamer-top.json) |
 | Streamer vs. Chat | 414605 | [414605-streamer-vs-chat.json](./414605-streamer-vs-chat.json) |
 | Streamer's Court | 208817 | [208817-streamers-court.json](./208817-streamers-court.json) |
+| Streamer's Life | 124447 | [124447-streamers-life.json](./124447-streamers-life.json) |
 | StreamerFun | 413064 | [413064-streamerfun.json](./413064-streamerfun.json) |
 | Streamers Cleaning Simulator | 312422 | [312422-streamers-cleaning-simulator.json](./312422-streamers-cleaning-simulator.json) |
 | Streamers Interactive Quiz Game | 343454 | [343454-streamers-interactive-quiz-game.json](./343454-streamers-interactive-quiz-game.json) |
@@ -23494,6 +23497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunky.Mpeg | 198176 | [198176-sunky-mpeg.json](./198176-sunky-mpeg.json) |
 | Sunland Hike | 264613 | [264613-sunland-hike.json](./264613-sunland-hike.json) |
 | Sunland Town | 274899 | [274899-sunland-town.json](./274899-sunland-town.json) |
+| Sunless City | 124459 | [124459-sunless-city.json](./124459-sunless-city.json) |
 | Sunless Empire | 383603 | [383603-sunless-empire.json](./383603-sunless-empire.json) |
 | Sunless Sea | 8925 | [8925-sunless-sea.json](./8925-sunless-sea.json) |
 | Sunless Skies | 24427 | [24427-sunless-skies.json](./24427-sunless-skies.json) |
