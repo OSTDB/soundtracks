@@ -1746,6 +1746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasite Black | 239305 | [239305-parasite-black.json](./239305-parasite-black.json) |
 | Parasite Eve | 7357 | [7357-parasite-eve.json](./7357-parasite-eve.json) |
 | Parasite Eve II | 7358 | [7358-parasite-eve-ii.json](./7358-parasite-eve-ii.json) |
+| Parasite in City | 131839 | [131839-parasite-in-city.json](./131839-parasite-in-city.json) |
 | Parasite in Love | 219107 | [219107-parasite-in-love.json](./219107-parasite-in-love.json) |
 | Parasite Mutant | 370711 | [370711-parasite-mutant.json](./370711-parasite-mutant.json) |
 | Parasite Pack | 207292 | [207292-parasite-pack.json](./207292-parasite-pack.json) |
@@ -7313,6 +7314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plannes | 26168 | [26168-plannes.json](./26168-plannes.json) |
 | Plans for NY? | 75815 | [75815-plans-for-ny.json](./75815-plans-for-ny.json) |
 | Plant Chess | 260058 | [260058-plant-chess.json](./260058-plant-chess.json) |
+| Plant Daddy | 131854 | [131854-plant-daddy.json](./131854-plant-daddy.json) |
 | Plant Down | 198509 | [198509-plant-down.json](./198509-plant-down.json) |
 | Plant Firefighter Simulator 2014 | 88286 | [88286-plant-firefighter-simulator-2014.json](./88286-plant-firefighter-simulator-2014.json) |
 | Plant Gallery: A Short Botanic Experience | 267437 | [267437-plant-gallery-a-short-botanic-experience.json](./267437-plant-gallery-a-short-botanic-experience.json) |
@@ -11553,6 +11555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisoner 518 | 121172 | [121172-prisoner-518.json](./121172-prisoner-518.json) |
 | Prisoner Breaker | 372485 | [372485-prisoner-breaker.json](./372485-prisoner-breaker.json) |
 | Prisoner of Ice | 1605 | [1605-prisoner-of-ice.json](./1605-prisoner-of-ice.json) |
+| Prisoner of War | 131867 | [131867-prisoner-of-war.json](./131867-prisoner-of-war.json) |
 | Prisoner of War | 5990 | [5990-prisoner-of-war.json](./5990-prisoner-of-war.json) |
 | Prisoner: The Mystery Complex | 122243 | [122243-prisoner-the-mystery-complex.json](./122243-prisoner-the-mystery-complex.json) |
 | Prisoners | 285470 | [285470-prisoners.json](./285470-prisoners.json) |
