@@ -733,7 +733,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -975,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakutou Dochers: Bumps-jima ha Oosawagi | 44449 | [44449-bakutou-dochers-bumps-jima-ha-oosawagi.json](./44449-bakutou-dochers-bumps-jima-ha-oosawagi.json) |
 | Bakutsuri Bar Hunter | 118316 | [118316-bakutsuri-bar-hunter.json](./118316-bakutsuri-bar-hunter.json) |
 | Bal | 290930 | [290930-bal.json](./290930-bal.json) |
+| Bal Cube | 126292 | [126292-bal-cube.json](./126292-bal-cube.json) |
 | BAL Solid | 172383 | [172383-bal-solid.json](./172383-bal-solid.json) |
 | Bala na Manga | 238994 | [238994-bala-na-manga.json](./238994-bala-na-manga.json) |
 | Balaball | 373012 | [373012-balaball.json](./373012-balaball.json) |
@@ -2378,6 +2378,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bash the Bear | 114191 | [114191-bash-the-bear.json](./114191-bash-the-bear.json) |
 | Bash The Party | 381960 | [381960-bash-the-party.json](./381960-bash-the-party.json) |
 | Bash Your Lord | 58118 | [58118-bash-your-lord.json](./58118-bash-your-lord.json) |
+| Basha Baloot | 126270 | [126270-basha-baloot.json](./126270-basha-baloot.json) |
+| Basha Card Game Collection | 126272 | [126272-basha-card-game-collection.json](./126272-basha-card-game-collection.json) |
+| Basha Trix | 126271 | [126271-basha-trix.json](./126271-basha-trix.json) |
 | Bashed.os | 115438 | [115438-bashed-os.json](./115438-bashed-os.json) |
 | Bashers | 387606 | [387606-bashers.json](./387606-bashers.json) |
 | Bashful Adoration | 325342 | [325342-bashful-adoration.json](./325342-bashful-adoration.json) |
@@ -4603,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetle Barrage | 369466 | [369466-beetle-barrage.json](./369466-beetle-barrage.json) |
 | Beetle Bomp | 52632 | [52632-beetle-bomp.json](./52632-beetle-bomp.json) |
 | Beetle Buggin' | 205959 | [205959-beetle-buggin.json](./205959-beetle-buggin.json) |
+| Beetle Hunter | 126245 | [126245-beetle-hunter.json](./126245-beetle-hunter.json) |
 | Beetle Ju | 117668 | [117668-beetle-ju.json](./117668-beetle-ju.json) |
 | Beetle Ju 2 | 239500 | [239500-beetle-ju-2.json](./239500-beetle-ju-2.json) |
 | Beetle Ju 3 | 117669 | [117669-beetle-ju-3.json](./117669-beetle-ju-3.json) |
@@ -7273,6 +7277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout Hospital | 238533 | [238533-blackout-hospital.json](./238533-blackout-hospital.json) |
 | Blackout Memphis | 253414 | [253414-blackout-memphis.json](./253414-blackout-memphis.json) |
 | Blackout Route | 419157 | [419157-blackout-route.json](./419157-blackout-route.json) |
+| Blackout Rugby Manager | 126260 | [126260-blackout-rugby-manager.json](./126260-blackout-rugby-manager.json) |
 | Blackout Z | 139717 | [139717-blackout-z.json](./139717-blackout-z.json) |
 | Blackout: Director's Cut | 338244 | [338244-blackout-directors-cut.json](./338244-blackout-directors-cut.json) |
 | Blackout: Sightless Home | 227257 | [227257-blackout-sightless-home.json](./227257-blackout-sightless-home.json) |
@@ -11819,6 +11824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakthru in 3D | 169228 | [169228-breakthru-in-3d.json](./169228-breakthru-in-3d.json) |
 | BreakThru! | 7800 | [7800-breakthru.json](./7800-breakthru.json) |
 | Breaktory | 183552 | [183552-breaktory.json](./183552-breaktory.json) |
+| BreakTube | 126259 | [126259-breaktube.json](./126259-breaktube.json) |
 | Breakup Squad | 243103 | [243103-breakup-squad.json](./243103-breakup-squad.json) |
 | Breakwaters | 148425 | [148425-breakwaters.json](./148425-breakwaters.json) |
 | Breakyo | 208835 | [208835-breakyo.json](./208835-breakyo.json) |
