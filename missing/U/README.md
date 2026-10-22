@@ -1687,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unforgiven: Shattered Souls Portable | 139358 | [139358-unforgiven-shattered-souls-portable.json](./139358-unforgiven-shattered-souls-portable.json) |
 | Unforgiving Trials: The Darkest Crusade | 32868 | [32868-unforgiving-trials-the-darkest-crusade.json](./32868-unforgiving-trials-the-darkest-crusade.json) |
 | Unforgiving Trials: The Space Crusade | 31141 | [31141-unforgiving-trials-the-space-crusade.json](./31141-unforgiving-trials-the-space-crusade.json) |
+| Unforgotten | 133054 | [133054-unforgotten.json](./133054-unforgotten.json) |
 | Unforgotten: Ordinance | 276816 | [276816-unforgotten-ordinance.json](./276816-unforgotten-ordinance.json) |
 | Unformed | 129015 | [129015-unformed.json](./129015-unformed.json) |
 | Unforsaken | 396743 | [396743-unforsaken.json](./396743-unforsaken.json) |
@@ -2693,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urbo: Dream One | 261661 | [261661-urbo-dream-one.json](./261661-urbo-dream-one.json) |
 | Urcicus | 391836 | [391836-urcicus.json](./391836-urcicus.json) |
 | Urd Monster | 179535 | [179535-urd-monster.json](./179535-urd-monster.json) |
+| Urge | 133065 | [133065-urge.json](./133065-urge.json) |
 | Urgent Message | 343232 | [343232-urgent-message.json](./343232-urgent-message.json) |
 | Uridium 2 | 12808 | [12808-uridium-2.json](./12808-uridium-2.json) |
 | Uridium Plus | 140259 | [140259-uridium-plus.json](./140259-uridium-plus.json) |
