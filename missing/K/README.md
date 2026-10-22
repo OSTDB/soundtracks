@@ -2120,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killpaku! | 321380 | [321380-killpaku.json](./321380-killpaku.json) |
 | Killrun | 145940 | [145940-killrun.json](./145940-killrun.json) |
 | Killsquad | 118600 | [118600-killsquad.json](./118600-killsquad.json) |
+| KillStreak.tv | 116715 | [116715-killstreak-tv.json](./116715-killstreak-tv.json) |
 | Killzone 3 | 1867 | [1867-killzone-3.json](./1867-killzone-3.json) |
 | Killzone 3: Collector's Edition | 163151 | [163151-killzone-3-collectors-edition.json](./163151-killzone-3-collectors-edition.json) |
 | Killzone 3: Helghast Edition | 163147 | [163147-killzone-3-helghast-edition.json](./163147-killzone-3-helghast-edition.json) |
@@ -2164,7 +2165,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
