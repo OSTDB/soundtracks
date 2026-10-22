@@ -2764,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newton Museum - Kyouryuu Nendaiki Zenpen | 63961 | [63961-newton-museum-kyouryuu-nendaiki-zenpen.json](./63961-newton-museum-kyouryuu-nendaiki-zenpen.json) |
 | Newton Museum: Kyouryuu Nendaiki Kouhen | 63960 | [63960-newton-museum-kyouryuu-nendaiki-kouhen.json](./63960-newton-museum-kyouryuu-nendaiki-kouhen.json) |
 | Newton's Axiom | 178975 | [178975-newtons-axiom.json](./178975-newtons-axiom.json) |
+| Newton's Cradle Puzzle Game | 147713 | [147713-newtons-cradle-puzzle-game.json](./147713-newtons-cradle-puzzle-game.json) |
 | Newton's Fourth Law | 328859 | [328859-newtons-fourth-law.json](./328859-newtons-fourth-law.json) |
 | Newton's House of Forces | 163948 | [163948-newtons-house-of-forces.json](./163948-newtons-house-of-forces.json) |
 | Newton's Life at Home: Pixel Art Jigsaw Puzzle | 162219 | [162219-newtons-life-at-home-pixel-art-jigsaw-puzzle.json](./162219-newtons-life-at-home-pixel-art-jigsaw-puzzle.json) |
@@ -5804,6 +5805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nullspire | 374765 | [374765-nullspire.json](./374765-nullspire.json) |
 | NullStar | 144360 | [144360-nullstar.json](./144360-nullstar.json) |
 | Nullstar: Solus | 310206 | [310206-nullstar-solus.json](./310206-nullstar-solus.json) |
+| Nullum | 147708 | [147708-nullum.json](./147708-nullum.json) |
 | Nullysun | 74478 | [74478-nullysun.json](./74478-nullysun.json) |
 | Nulphia | 393717 | [393717-nulphia.json](./393717-nulphia.json) |
 | Nululu Online | 313991 | [313991-nululu-online.json](./313991-nululu-online.json) |
