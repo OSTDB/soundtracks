@@ -5005,6 +5005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Non-Stop Raiders | 216982 | [216982-non-stop-raiders.json](./216982-non-stop-raiders.json) |
 | Non-Stop Space Probe | 237389 | [237389-non-stop-space-probe.json](./237389-non-stop-space-probe.json) |
 | Non-Virtual Reality Games | 371033 | [371033-non-virtual-reality-games.json](./371033-non-virtual-reality-games.json) |
+| Non: The First Warp | 154315 | [154315-non-the-first-warp.json](./154315-non-the-first-warp.json) |
 | Nona's Game | 211925 | [211925-nonas-game.json](./211925-nonas-game.json) |
 | Nonamed | 84264 | [84264-nonamed.json](./84264-nonamed.json) |
 | None | 229652 | [229652-none.json](./229652-none.json) |
@@ -5741,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuggle | 361270 | [361270-nuggle.json](./361270-nuggle.json) |
 | Nugimus | 97669 | [97669-nugimus.json](./97669-nugimus.json) |
 | NugQuest | 341488 | [341488-nugquest.json](./341488-nugquest.json) |
+| Nǚhái yǔ Qī Pǐ Láng | 154301 | [154301-nuhai-yu-qi-pi-lang.json](./154301-nuhai-yu-qi-pi-lang.json) |
 | Nui | 138693 | [138693-nui.json](./138693-nui.json) |
 | Nui Goes to Town! | 354410 | [354410-nui-goes-to-town.json](./354410-nui-goes-to-town.json) |
 | Nuign Specter | 251242 | [251242-nuign-specter.json](./251242-nuign-specter.json) |
