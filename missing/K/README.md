@@ -4134,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konung 1 + 2 | 153008 | [153008-konung-1-2.json](./153008-konung-1-2.json) |
 | Konung III: Ties of the Dynasty | 13162 | [13162-konung-iii-ties-of-the-dynasty.json](./13162-konung-iii-ties-of-the-dynasty.json) |
 | Konyok-Gorbunok | 180455 | [180455-konyok-gorbunok.json](./180455-konyok-gorbunok.json) |
+| Koo & Yuu | 127580 | [127580-koo-and-yuu.json](./127580-koo-and-yuu.json) |
 | Koob Dog | 289777 | [289777-koob-dog.json](./289777-koob-dog.json) |
 | Koodbool | 308448 | [308448-koodbool.json](./308448-koodbool.json) |
 | Kook | 245829 | [245829-kook.json](./245829-kook.json) |
