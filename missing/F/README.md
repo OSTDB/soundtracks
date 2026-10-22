@@ -6300,6 +6300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flirting With Girls in Fantasy World | 386866 | [386866-flirting-with-girls-in-fantasy-world.json](./386866-flirting-with-girls-in-fantasy-world.json) |
 | Flirting with Yasmine | 238479 | [238479-flirting-with-yasmine.json](./238479-flirting-with-yasmine.json) |
 | Flitspire | 184748 | [184748-flitspire.json](./184748-flitspire.json) |
+| Flitter Inc. | 103101 | [103101-flitter-inc.json](./103101-flitter-inc.json) |
 | Flix and Chill | 29418 | [29418-flix-and-chill.json](./29418-flix-and-chill.json) |
 | Flixfam Abenteuer | 409215 | [409215-flixfam-abenteuer.json](./409215-flixfam-abenteuer.json) |
 | Flixy Cats | 165034 | [165034-flixy-cats.json](./165034-flixy-cats.json) |
@@ -7853,6 +7854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Form of Being | 218303 | [218303-form-of-being.json](./218303-form-of-being.json) |
 | Forma | 326941 | [326941-forma.json](./326941-forma.json) |
 | Forma.8 | 27277 | [27277-forma-8.json](./27277-forma-8.json) |
+| forma.8 GO | 103121 | [103121-forma-8-go.json](./103121-forma-8-go.json) |
 | Formaggio 2 | 327365 | [327365-formaggio-2.json](./327365-formaggio-2.json) |
 | Format | 312580 | [312580-format.json](./312580-format.json) |
 | Formata | 29754 | [29754-formata.json](./29754-formata.json) |
@@ -8715,6 +8717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragment: A Story in Growing | 267279 | [267279-fragment-a-story-in-growing.json](./267279-fragment-a-story-in-growing.json) |
 | fragment:AM | 218146 | [218146-fragment-am.json](./218146-fragment-am.json) |
 | Fragment's Moonrise | 133052 | [133052-fragments-moonrise.json](./133052-fragments-moonrise.json) |
+| Fragment's Note | 103129 | [103129-fragments-note.json](./103129-fragments-note.json) |
 | Fragment's Note 2 | 197251 | [197251-fragments-note-2.json](./197251-fragments-note-2.json) |
 | Fragment's Note 2+ | 267248 | [267248-fragments-note-2.json](./267248-fragments-note-2.json) |
 | Fragment's Note+ | 221086 | [221086-fragments-note.json](./221086-fragments-note.json) |
