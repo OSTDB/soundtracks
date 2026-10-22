@@ -1622,9 +1622,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jimmie Johnson's Anything with an Engine | 7023 | [7023-jimmie-johnsons-anything-with-an-engine.json](./7023-jimmie-johnsons-anything-with-an-engine.json) |
 | Jimmu | 128286 | [128286-jimmu.json](./128286-jimmu.json) |
 | Jimmy and the Pulsating Mass | 59227 | [59227-jimmy-and-the-pulsating-mass.json](./59227-jimmy-and-the-pulsating-mass.json) |
+| Jimmy Connors Pro Tennis Tour | 153771 | [153771-jimmy-connors-pro-tennis-tour.json](./153771-jimmy-connors-pro-tennis-tour.json) |
 | Jimmy Connors Pro Tennis Tour | 42605 | [42605-jimmy-connors-pro-tennis-tour.json](./42605-jimmy-connors-pro-tennis-tour.json) |
 | Jimmy Connors Tennis | 365696 | [365696-jimmy-connors-tennis.json](./365696-jimmy-connors-tennis.json) |
 | Jimmy Connors Tennis | 40845 | [40845-jimmy-connors-tennis.json](./40845-jimmy-connors-tennis.json) |
+| Jimmy Connors' Tennis | 153759 | [153759-jimmy-connors-tennis.json](./153759-jimmy-connors-tennis.json) |
 | Jimmy Houston's Bass Tournament U.S.A. | 42509 | [42509-jimmy-houstons-bass-tournament-u-s-a.json](./42509-jimmy-houstons-bass-tournament-u-s-a.json) |
 | Jimmy Houston's Bass Tournament U.S.A. 97 | 209993 | [209993-jimmy-houstons-bass-tournament-u-s-a-97.json](./209993-jimmy-houstons-bass-tournament-u-s-a-97.json) |
 | Jimmy Jumps | 390649 | [390649-jimmy-jumps.json](./390649-jimmy-jumps.json) |
