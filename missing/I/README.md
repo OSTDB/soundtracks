@@ -4385,6 +4385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invincible Vs.: Zero-Suit Mark Cosmetic Skin | 410816 | [410816-invincible-vs-zero-suit-mark-cosmetic-skin.json](./410816-invincible-vs-zero-suit-mark-cosmetic-skin.json) |
 | Invincible: Guarding the Globe | 257102 | [257102-invincible-guarding-the-globe.json](./257102-invincible-guarding-the-globe.json) |
 | Invirium | 143346 | [143346-invirium.json](./143346-invirium.json) |
+| Invisiballs | 100552 | [100552-invisiballs.json](./100552-invisiballs.json) |
 | Invisible | 131556 | [131556-invisible.json](./131556-invisible.json) |
 | Invisible | 178671 | [178671-invisible.json](./178671-invisible.json) |
 | Invisible | 377175 | [377175-invisible.json](./377175-invisible.json) |
@@ -5311,6 +5312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itoshi no My Master | 221052 | [221052-itoshi-no-my-master.json](./221052-itoshi-no-my-master.json) |
 | Itouke no Urawaza DS | 79599 | [79599-itouke-no-urawaza-ds.json](./79599-itouke-no-urawaza-ds.json) |
 | iTownGamePlay UNIVERSE | 90652 | [90652-itowngameplay-universe.json](./90652-itowngameplay-universe.json) |
+| iTraceur - Parkour / Freerunning Platform Game | 100643 | [100643-itraceur-parkour-freerunning-platform-game.json](./100643-itraceur-parkour-freerunning-platform-game.json) |
 | iTraffic Light | 88454 | [88454-itraffic-light.json](./88454-itraffic-light.json) |
 | Itrill | 260769 | [260769-itrill.json](./260769-itrill.json) |
 | Itro: In the Right Order | 59668 | [59668-itro-in-the-right-order.json](./59668-itro-in-the-right-order.json) |
