@@ -17733,6 +17733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprawl 96 | 314636 | [314636-sprawl-96.json](./314636-sprawl-96.json) |
 | Spray | 385404 | [385404-spray.json](./385404-spray.json) |
 | Spray | 5192 | [5192-spray.json](./5192-spray.json) |
+| Spray Dynamite X Radioactive Insects | 111391 | [111391-spray-dynamite-x-radioactive-insects.json](./111391-spray-dynamite-x-radioactive-insects.json) |
 | Spray N' Pray | 369125 | [369125-spray-n-pray.json](./369125-spray-n-pray.json) |
 | Spray Paint Simulator | 322702 | [322702-spray-paint-simulator.json](./322702-spray-paint-simulator.json) |
 | Spray Trace | 422480 | [422480-spray-trace.json](./422480-spray-trace.json) |
@@ -19982,6 +19983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starwatchers: The Search for Cosmic Jam | 178923 | [178923-starwatchers-the-search-for-cosmic-jam.json](./178923-starwatchers-the-search-for-cosmic-jam.json) |
 | Starwave | 306943 | [306943-starwave.json](./306943-starwave.json) |
 | Starway Ateez | 315487 | [315487-starway-ateez.json](./315487-starway-ateez.json) |
+| Starway VR | 111373 | [111373-starway-vr.json](./111373-starway-vr.json) |
 | Starway: BaRaider | 223328 | [223328-starway-baraider.json](./223328-starway-baraider.json) |
 | Starweaver Express: Per Aspera Ad Astra | 391752 | [391752-starweaver-express-per-aspera-ad-astra.json](./391752-starweaver-express-per-aspera-ad-astra.json) |
 | StarWheels | 119041 | [119041-starwheels.json](./119041-starwheels.json) |
@@ -20871,6 +20873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman League | 127194 | [127194-stickman-league.json](./127194-stickman-league.json) |
 | Stickman Legends | 323197 | [323197-stickman-legends.json](./323197-stickman-legends.json) |
 | Stickman Legends: Shadow Wars | 96810 | [96810-stickman-legends-shadow-wars.json](./96810-stickman-legends-shadow-wars.json) |
+| Stickman Maverick : Bad Boys Killer | 111363 | [111363-stickman-maverick-bad-boys-killer.json](./111363-stickman-maverick-bad-boys-killer.json) |
 | Stickman Monster Battle 3D | 401561 | [401561-stickman-monster-battle-3d.json](./401561-stickman-monster-battle-3d.json) |
 | Stickman Ninja Warriors | 108603 | [108603-stickman-ninja-warriors.json](./108603-stickman-ninja-warriors.json) |
 | Stickman Odyssey | 329578 | [329578-stickman-odyssey.json](./329578-stickman-odyssey.json) |
@@ -25997,6 +26000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ultra Star Shooter | 85417 | [85417-super-ultra-star-shooter.json](./85417-super-ultra-star-shooter.json) |
 | Super Ultra Usagi Rush!! | 335975 | [335975-super-ultra-usagi-rush.json](./335975-super-ultra-usagi-rush.json) |
 | Super Uno | 37946 | [37946-super-uno.json](./37946-super-uno.json) |
+| Super Urban Wizard | 111414 | [111414-super-urban-wizard.json](./111414-super-urban-wizard.json) |
 | Super Uwol | 299173 | [299173-super-uwol.json](./299173-super-uwol.json) |
 | Super V.G. | 38197 | [38197-super-v-g.json](./38197-super-v-g.json) |
 | Super Vadimka | 194310 | [194310-super-vadimka.json](./194310-super-vadimka.json) |
@@ -26418,6 +26422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supraland | 89354 | [89354-supraland.json](./89354-supraland.json) |
 | Supraland: Complete Edition | 169180 | [169180-supraland-complete-edition.json](./169180-supraland-complete-edition.json) |
 | Supraland: Six Inches Under | 172903 | [172903-supraland-six-inches-under.json](./172903-supraland-six-inches-under.json) |
+| Suprapong | 111371 | [111371-suprapong.json](./111371-suprapong.json) |
 | Supraworld | 250601 | [250601-supraworld.json](./250601-supraworld.json) |
 | Suprem.io | 138488 | [138488-suprem-io.json](./138488-suprem-io.json) |
 | Supremacy 1914 | 113460 | [113460-supremacy-1914.json](./113460-supremacy-1914.json) |
