@@ -7824,6 +7824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plicplic | 261324 | [261324-plicplic.json](./261324-plicplic.json) |
 | Plight | 86370 | [86370-plight.json](./86370-plight.json) |
 | Plighters | 386386 | [386386-plighters.json](./386386-plighters.json) |
+| Pliksim | 121315 | [121315-pliksim.json](./121315-pliksim.json) |
 | Plinbo | 372560 | [372560-plinbo.json](./372560-plinbo.json) |
 | Plinio Needs a Hand | 291089 | [291089-plinio-needs-a-hand.json](./291089-plinio-needs-a-hand.json) |
 | Plink by Pokerist | 401764 | [401764-plink-by-pokerist.json](./401764-plink-by-pokerist.json) |
@@ -10298,6 +10299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postponed | 398301 | [398301-postponed.json](./398301-postponed.json) |
 | PostScriptum | 360043 | [360043-postscriptum.json](./360043-postscriptum.json) |
 | PostZ: Zombies VR | 172148 | [172148-postz-zombies-vr.json](./172148-postz-zombies-vr.json) |
+| Pòsuì Fǎshù | 121308 | [121308-posui-fashu.json](./121308-posui-fashu.json) |
 | Poszukiwacze Zaginionej Warszawy | 85962 | [85962-poszukiwacze-zaginionej-warszawy.json](./85962-poszukiwacze-zaginionej-warszawy.json) |
 | Pot Breaker | 223444 | [223444-pot-breaker.json](./223444-pot-breaker.json) |
 | Pot Farm | 137394 | [137394-pot-farm.json](./137394-pot-farm.json) |
@@ -10748,6 +10750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PP: Pathetic Predator | 364479 | [364479-pp-pathetic-predator.json](./364479-pp-pathetic-predator.json) |
 | PPA Pickleball Tour 2025 | 309005 | [309005-ppa-pickleball-tour-2025.json](./309005-ppa-pickleball-tour-2025.json) |
 | PPD | 380180 | [380180-ppd.json](./380180-ppd.json) |
+| PPDD | 121266 | [121266-ppdd.json](./121266-ppdd.json) |
 | Ppoi: Hitonatsu no Keiken | 203373 | [203373-ppoi-hitonatsu-no-keiken.json](./203373-ppoi-hitonatsu-no-keiken.json) |
 | PPP | 259093 | [259093-ppp.json](./259093-ppp.json) |
 | PQ: Practical Intelligence Quotient | 46019 | [46019-pq-practical-intelligence-quotient.json](./46019-pq-practical-intelligence-quotient.json) |
