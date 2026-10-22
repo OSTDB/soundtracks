@@ -3795,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petal Crash | 139293 | [139293-petal-crash.json](./139293-petal-crash.json) |
 | Petal Crash 2 | 329600 | [329600-petal-crash-2.json](./329600-petal-crash-2.json) |
 | Petal Crash Online | 149973 | [149973-petal-crash-online.json](./149973-petal-crash-online.json) |
+| Petals of Doom | 133682 | [133682-petals-of-doom.json](./133682-petals-of-doom.json) |
 | Petals of the Star Curtain | 153331 | [153331-petals-of-the-star-curtain.json](./153331-petals-of-the-star-curtain.json) |
 | Petals to Petals | 364384 | [364384-petals-to-petals.json](./364384-petals-to-petals.json) |
 | Pétanque 2026 | 401828 | [401828-petanque-2026.json](./401828-petanque-2026.json) |
@@ -10010,6 +10011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pornocrates | 158065 | [158065-pornocrates.json](./158065-pornocrates.json) |
 | Pornographer | 411054 | [411054-pornographer.json](./411054-pornographer.json) |
 | Porntris | 299467 | [299467-porntris.json](./299467-porntris.json) |
+| Porp | 133656 | [133656-porp.json](./133656-porp.json) |
 | Porpetha | 249882 | [249882-porpetha.json](./249882-porpetha.json) |
 | Porradaria Upgrade | 91973 | [91973-porradaria-upgrade.json](./91973-porradaria-upgrade.json) |
 | Porrasturvat: Stair Dismount | 93059 | [93059-porrasturvat-stair-dismount.json](./93059-porrasturvat-stair-dismount.json) |
@@ -14096,6 +14098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Bobble VS | 47567 | [47567-puzzle-bobble-vs.json](./47567-puzzle-bobble-vs.json) |
 | Puzzle Bobble: Disney Edition | 64308 | [64308-puzzle-bobble-disney-edition.json](./64308-puzzle-bobble-disney-edition.json) |
 | Puzzle Bonsai | 259558 | [259558-puzzle-bonsai.json](./259558-puzzle-bonsai.json) |
+| Puzzle Book | 133653 | [133653-puzzle-book.json](./133653-puzzle-book.json) |
 | Puzzle Book: Adventure Pack | 237980 | [237980-puzzle-book-adventure-pack.json](./237980-puzzle-book-adventure-pack.json) |
 | Puzzle Book: Animals Edition | 378959 | [378959-puzzle-book-animals-edition.json](./378959-puzzle-book-animals-edition.json) |
 | Puzzle Book: Furry Friends Bundle | 223564 | [223564-puzzle-book-furry-friends-bundle.json](./223564-puzzle-book-furry-friends-bundle.json) |
