@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl Attack | 117473 | [117473-magical-girl-attack.json](./117473-magical-girl-attack.json) |
 | Magical Girl Celesphonia | 199384 | [199384-magical-girl-celesphonia.json](./199384-magical-girl-celesphonia.json) |
 | Magical Girl Creator | 163788 | [163788-magical-girl-creator.json](./163788-magical-girl-creator.json) |
+| Magical Girl Critical | 130605 | [130605-magical-girl-critical.json](./130605-magical-girl-critical.json) |
 | Magical Girl Critical Deluxe | 339978 | [339978-magical-girl-critical-deluxe.json](./339978-magical-girl-critical-deluxe.json) |
 | Magical Girl Fist Fight | 353812 | [353812-magical-girl-fist-fight.json](./353812-magical-girl-fist-fight.json) |
 | Magical Girl Konoha | 261828 | [261828-magical-girl-konoha.json](./261828-magical-girl-konoha.json) |
@@ -1679,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maidens of a Hollow Dream | 90257 | [90257-maidens-of-a-hollow-dream.json](./90257-maidens-of-a-hollow-dream.json) |
 | Maidens of the Ocean Solitaire | 164926 | [164926-maidens-of-the-ocean-solitaire.json](./164926-maidens-of-the-ocean-solitaire.json) |
 | MaidGardener | 253904 | [253904-maidgardener.json](./253904-maidgardener.json) |
+| Maidlien | 130587 | [130587-maidlien.json](./130587-maidlien.json) |
 | Maidnight | 373733 | [373733-maidnight.json](./373733-maidnight.json) |
 | Maido Hebo Shogi | 222199 | [222199-maido-hebo-shogi.json](./222199-maido-hebo-shogi.json) |
 | Maids of Storm | 391027 | [391027-maids-of-storm.json](./391027-maids-of-storm.json) |
@@ -13144,6 +13146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moribund Gold: A Pirate Adventure | 401054 | [401054-moribund-gold-a-pirate-adventure.json](./401054-moribund-gold-a-pirate-adventure.json) |
 | Moribunderland | 183964 | [183964-moribunderland.json](./183964-moribunderland.json) |
 | Morigami | 260613 | [260613-morigami.json](./260613-morigami.json) |
+| Moriko Kyouhaku Jiken | 130570 | [130570-moriko-kyouhaku-jiken.json](./130570-moriko-kyouhaku-jiken.json) |
 | Morikomori Life | 262977 | [262977-morikomori-life.json](./262977-morikomori-life.json) |
 | Morimiya Middle School Shooting | 134131 | [134131-morimiya-middle-school-shooting.json](./134131-morimiya-middle-school-shooting.json) |
 | Morinaga Pac-Man mini | 219448 | [219448-morinaga-pac-man-mini.json](./219448-morinaga-pac-man-mini.json) |
@@ -15211,6 +15214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Wars | 95967 | [95967-music-wars.json](./95967-music-wars.json) |
 | Music: Music Creation for the PlayStation | 131289 | [131289-music-music-creation-for-the-playstation.json](./131289-music-music-creation-for-the-playstation.json) |
 | Music95 | 149512 | [149512-music95.json](./149512-music95.json) |
+| Musical Aim Trainer | 130612 | [130612-musical-aim-trainer.json](./130612-musical-aim-trainer.json) |
 | Musical Balls | 149525 | [149525-musical-balls.json](./149525-musical-balls.json) |
 | Musical Chairs | 214009 | [214009-musical-chairs.json](./214009-musical-chairs.json) |
 | Musical Chairs with Bulldozers and Other Heavy Equipment | 232003 | [232003-musical-chairs-with-bulldozers-and-other-heavy-equipment.json](./232003-musical-chairs-with-bulldozers-and-other-heavy-equipment.json) |
