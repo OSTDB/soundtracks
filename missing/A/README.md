@@ -13526,6 +13526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ava and Avior Save the Earth | 84979 | [84979-ava-and-avior-save-the-earth.json](./84979-ava-and-avior-save-the-earth.json) |
 | Ava and the Half-World | 303268 | [303268-ava-and-the-half-world.json](./303268-ava-and-the-half-world.json) |
 | AVA: Dark History | 123856 | [123856-ava-dark-history.json](./123856-ava-dark-history.json) |
+| AVA: Dog Tag | 116760 | [116760-ava-dog-tag.json](./116760-ava-dog-tag.json) |
 | Ava's Adventure | 258693 | [258693-avas-adventure.json](./258693-avas-adventure.json) |
 | Ava's Hidden Adventures | 278269 | [278269-avas-hidden-adventures.json](./278269-avas-hidden-adventures.json) |
 | Ava's Manor | 406254 | [406254-avas-manor.json](./406254-avas-manor.json) |
