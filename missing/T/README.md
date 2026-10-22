@@ -3630,6 +3630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Territory | 190998 | [190998-territory.json](./190998-territory.json) |
 | Territory | 57897 | [57897-territory.json](./57897-territory.json) |
 | Territory Control 2 | 204844 | [204844-territory-control-2.json](./204844-territory-control-2.json) |
+| Territory Idle | 123284 | [123284-territory-idle.json](./123284-territory-idle.json) |
 | Territory War | 194846 | [194846-territory-war.json](./194846-territory-war.json) |
 | Territory War 3 | 234156 | [234156-territory-war-3.json](./234156-territory-war-3.json) |
 | Territory War Online | 254299 | [254299-territory-war-online.json](./254299-territory-war-online.json) |
@@ -11824,6 +11825,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Professional (Farming & Forestry) | 138082 | [138082-the-professional-farming-and-forestry.json](./138082-the-professional-farming-and-forestry.json) |
 | The Professor | 351483 | [351483-the-professor.json](./351483-the-professor.json) |
 | The Professor Presents: Got Handles? | 28937 | [28937-the-professor-presents-got-handles.json](./28937-the-professor-presents-got-handles.json) |
+| The Project Mars | 123294 | [123294-the-project-mars.json](./123294-the-project-mars.json) |
+| The Project Mars 2 | 123295 | [123295-the-project-mars-2.json](./123295-the-project-mars-2.json) |
 | The Project Mars 2+3 | 125927 | [125927-the-project-mars-2-3.json](./125927-the-project-mars-2-3.json) |
 | The Projection Room of Malka Spitzer | 262953 | [262953-the-projection-room-of-malka-spitzer.json](./262953-the-projection-room-of-malka-spitzer.json) |
 | The Projet Poulet | 287906 | [287906-the-projet-poulet.json](./287906-the-projet-poulet.json) |
@@ -12517,6 +12520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Second Reproduction: Reunion | 383596 | [383596-the-second-reproduction-reunion.json](./383596-the-second-reproduction-reunion.json) |
 | The Second Sight: Dead Reckoning | 331138 | [331138-the-second-sight-dead-reckoning.json](./331138-the-second-sight-dead-reckoning.json) |
 | The Second Word: Crossword | 232312 | [232312-the-second-word-crossword.json](./232312-the-second-word-crossword.json) |
+| The Second World | 123249 | [123249-the-second-world.json](./123249-the-second-world.json) |
 | The Secret Atelier | 288991 | [288991-the-secret-atelier.json](./288991-the-secret-atelier.json) |
 | The Secret Behind the Exam Paper | 314610 | [314610-the-secret-behind-the-exam-paper.json](./314610-the-secret-behind-the-exam-paper.json) |
 | The Secret Blue Forest | 155971 | [155971-the-secret-blue-forest.json](./155971-the-secret-blue-forest.json) |
@@ -19388,6 +19392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toll Booth Simulator | 357260 | [357260-toll-booth-simulator.json](./357260-toll-booth-simulator.json) |
 | Tollan Worlds | 252805 | [252805-tollan-worlds.json](./252805-tollan-worlds.json) |
 | Tollway Tycoon | 400258 | [400258-tollway-tycoon.json](./400258-tollway-tycoon.json) |
+| Tom & Jerry 2 | 123248 | [123248-tom-and-jerry-2.json](./123248-tom-and-jerry-2.json) |
 | Tom & Jerry MMO | 79312 | [79312-tom-and-jerry-mmo.json](./79312-tom-and-jerry-mmo.json) |
 | Tom & Jerry Popper | 47255 | [47255-tom-and-jerry-popper.json](./47255-tom-and-jerry-popper.json) |
 | Tom & Jerry: Hunting High and Low | 8024 | [8024-tom-and-jerry-hunting-high-and-low.json](./8024-tom-and-jerry-hunting-high-and-low.json) |
