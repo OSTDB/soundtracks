@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Early-blooming Black Lily: Moshi Mo-series | 275613 | [275613-early-blooming-black-lily-moshi-mo-series.json](./275613-early-blooming-black-lily-moshi-mo-series.json) |
 | Earn to Die | 80713 | [80713-earn-to-die.json](./80713-earn-to-die.json) |
 | Earn to Die 2 | 26524 | [26524-earn-to-die-2.json](./26524-earn-to-die-2.json) |
+| Earn to Die 2: Exodus | 101914 | [101914-earn-to-die-2-exodus.json](./101914-earn-to-die-2-exodus.json) |
 | Earn to Die 2012 | 378003 | [378003-earn-to-die-2012.json](./378003-earn-to-die-2012.json) |
 | Earn Your Legacy | 404078 | [404078-earn-your-legacy.json](./404078-earn-your-legacy.json) |
 | Earnest Evans Collection | 375602 | [375602-earnest-evans-collection.json](./375602-earnest-evans-collection.json) |
@@ -3443,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Beard 2 | 62028 | [62028-epic-beard-2.json](./62028-epic-beard-2.json) |
 | Epic Blood Quest | 180185 | [180185-epic-blood-quest.json](./180185-epic-blood-quest.json) |
 | Epic Boss Fighter | 242592 | [242592-epic-boss-fighter.json](./242592-epic-boss-fighter.json) |
+| Epic Boss Fighter 2 | 101998 | [101998-epic-boss-fighter-2.json](./101998-epic-boss-fighter-2.json) |
 | Epic Car Factory | 97568 | [97568-epic-car-factory.json](./97568-epic-car-factory.json) |
 | Epic Card Battle Simulator | 407476 | [407476-epic-card-battle-simulator.json](./407476-epic-card-battle-simulator.json) |
 | Epic Card Game | 56420 | [56420-epic-card-game.json](./56420-epic-card-game.json) |
