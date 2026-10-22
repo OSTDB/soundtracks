@@ -2311,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandrake Girls: Garden of Secret | 202399 | [202399-mandrake-girls-garden-of-secret.json](./202399-mandrake-girls-garden-of-secret.json) |
 | Mandrake Phantasy | 183300 | [183300-mandrake-phantasy.json](./183300-mandrake-phantasy.json) |
 | Mandrake The Magician | 344315 | [344315-mandrake-the-magician.json](./344315-mandrake-the-magician.json) |
+| Mandrake Town | 102553 | [102553-mandrake-town.json](./102553-mandrake-town.json) |
 | Mandy's Room 2: Naughty By Nature | 367014 | [367014-mandys-room-2-naughty-by-nature.json](./367014-mandys-room-2-naughty-by-nature.json) |
 | Mane | 158171 | [158171-mane.json](./158171-mane.json) |
 | Mane Box | 237396 | [237396-mane-box.json](./237396-mane-box.json) |
@@ -4456,6 +4457,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathematik II | 68563 | [68563-mathematik-ii.json](./68563-mathematik-ii.json) |
 | Mathematiqa - Brain Game | 106977 | [106977-mathematiqa-brain-game.json](./106977-mathematiqa-brain-game.json) |
 | Mathews Bowhunting | 51063 | [51063-mathews-bowhunting.json](./51063-mathews-bowhunting.json) |
+| Mathfacts-Additionflashcards | 102647 | [102647-mathfacts-additionflashcards.json](./102647-mathfacts-additionflashcards.json) |
+| Mathfacts-Subractionflashcards | 102648 | [102648-mathfacts-subractionflashcards.json](./102648-mathfacts-subractionflashcards.json) |
 | Mathica | 232870 | [232870-mathica.json](./232870-mathica.json) |
 | Mathigo | 350544 | [350544-mathigo.json](./350544-mathigo.json) |
 | MathJelly | 386854 | [386854-mathjelly.json](./386854-mathjelly.json) |
@@ -4721,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maya: Cats of Istanbul | 332975 | [332975-maya-cats-of-istanbul.json](./332975-maya-cats-of-istanbul.json) |
 | Maya's Dice | 179207 | [179207-mayas-dice.json](./179207-mayas-dice.json) |
 | Maya's Dream | 236508 | [236508-mayas-dream.json](./236508-mayas-dream.json) |
+| Maya's Mission | 102657 | [102657-mayas-mission.json](./102657-mayas-mission.json) |
 | Maya's Mission | 388755 | [388755-mayas-mission.json](./388755-mayas-mission.json) |
 | Mayak | 378419 | [378419-mayak.json](./378419-mayak.json) |
 | Mayan Death Robots: Arena | 82444 | [82444-mayan-death-robots-arena.json](./82444-mayan-death-robots-arena.json) |
@@ -5677,6 +5681,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Santa | 326969 | [326969-meet-santa.json](./326969-meet-santa.json) |
 | Meet The Animals | 293840 | [293840-meet-the-animals.json](./293840-meet-the-animals.json) |
 | Meet the Girls | 181801 | [181801-meet-the-girls.json](./181801-meet-the-girls.json) |
+| Meet the Letters - Lowercase | 102644 | [102644-meet-the-letters-lowercase.json](./102644-meet-the-letters-lowercase.json) |
+| Meet the Letters - Uppercase | 102643 | [102643-meet-the-letters-uppercase.json](./102643-meet-the-letters-uppercase.json) |
 | Meet the Letters Flashcards: Lowercase | 101569 | [101569-meet-the-letters-flashcards-lowercase.json](./101569-meet-the-letters-flashcards-lowercase.json) |
 | Meet the Letters Flashcards: Lowercase | 87619 | [87619-meet-the-letters-flashcards-lowercase.json](./87619-meet-the-letters-flashcards-lowercase.json) |
 | Meet the Letters Flashcards: Uppercase | 101435 | [101435-meet-the-letters-flashcards-uppercase.json](./101435-meet-the-letters-flashcards-uppercase.json) |
@@ -5684,11 +5690,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet the Miner: WDR VR Bergwerk | 109319 | [109319-meet-the-miner-wdr-vr-bergwerk.json](./109319-meet-the-miner-wdr-vr-bergwerk.json) |
 | Meet the Mole | 180679 | [180679-meet-the-mole.json](./180679-meet-the-mole.json) |
 | Meet the Myths: An Ormhildur the Brave Game | 331126 | [331126-meet-the-myths-an-ormhildur-the-brave-game.json](./331126-meet-the-myths-an-ormhildur-the-brave-game.json) |
+| Meet the Numbers Flashcards | 102639 | [102639-meet-the-numbers-flashcards.json](./102639-meet-the-numbers-flashcards.json) |
 | Meet the Robinsons | 200908 | [200908-meet-the-robinsons.json](./200908-meet-the-robinsons.json) |
 | Meet the Robinsons | 248515 | [248515-meet-the-robinsons.json](./248515-meet-the-robinsons.json) |
 | Meet the Robinsons | 248516 | [248516-meet-the-robinsons.json](./248516-meet-the-robinsons.json) |
 | Meet the Rookie | 310924 | [310924-meet-the-rookie.json](./310924-meet-the-rookie.json) |
+| Meet the Sight Words3 | 102645 | [102645-meet-the-sight-words3.json](./102645-meet-the-sight-words3.json) |
 | Meet the Vowels | 102773 | [102773-meet-the-vowels.json](./102773-meet-the-vowels.json) |
+| Meet the Vowels Flashcards | 102642 | [102642-meet-the-vowels-flashcards.json](./102642-meet-the-vowels-flashcards.json) |
 | Meet Your Maker | 212710 | [212710-meet-your-maker.json](./212710-meet-your-maker.json) |
 | Meet Your Maker: Deluxe Edition | 243798 | [243798-meet-your-maker-deluxe-edition.json](./243798-meet-your-maker-deluxe-edition.json) |
 | Meet Your Maker: Scorched Necropolis | 248093 | [248093-meet-your-maker-scorched-necropolis.json](./248093-meet-your-maker-scorched-necropolis.json) |
@@ -11581,6 +11590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojo Master | 66702 | [66702-mojo-master.json](./66702-mojo-master.json) |
 | Mojo Melee | 223479 | [223479-mojo-melee.json](./223479-mojo-melee.json) |
 | Mojo Party | 398528 | [398528-mojo-party.json](./398528-mojo-party.json) |
+| Mojo Solitaire Collection | 102560 | [102560-mojo-solitaire-collection.json](./102560-mojo-solitaire-collection.json) |
 | Mojo XXX | 292684 | [292684-mojo-xxx.json](./292684-mojo-xxx.json) |
 | MOK: Super Space Taxi | 119706 | [119706-mok-super-space-taxi.json](./119706-mok-super-space-taxi.json) |
 | Mokens League | 222788 | [222788-mokens-league.json](./222788-mokens-league.json) |
@@ -12593,6 +12603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Championship: Rebel Hunter Edition | 164784 | [164784-monster-truck-championship-rebel-hunter-edition.json](./164784-monster-truck-championship-rebel-hunter-edition.json) |
 | Monster Truck Demolition | 106910 | [106910-monster-truck-demolition.json](./106910-monster-truck-demolition.json) |
 | Monster Truck Demolition Derby | 394803 | [394803-monster-truck-demolition-derby.json](./394803-monster-truck-demolition-derby.json) |
+| Monster Truck Doodle | 102633 | [102633-monster-truck-doodle.json](./102633-monster-truck-doodle.json) |
 | Monster Truck Drive | 96518 | [96518-monster-truck-drive.json](./96518-monster-truck-drive.json) |
 | Monster Truck Freestyle | 283279 | [283279-monster-truck-freestyle.json](./283279-monster-truck-freestyle.json) |
 | Monster Truck Fury | 70032 | [70032-monster-truck-fury.json](./70032-monster-truck-fury.json) |
@@ -16095,6 +16106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Kingdom for the Princess II | 259831 | [259831-my-kingdom-for-the-princess-ii.json](./259831-my-kingdom-for-the-princess-ii.json) |
 | My Kingdom for the Princess II HD | 102140 | [102140-my-kingdom-for-the-princess-ii-hd.json](./102140-my-kingdom-for-the-princess-ii-hd.json) |
 | My Kingdom for the Princess III | 90781 | [90781-my-kingdom-for-the-princess-iii.json](./90781-my-kingdom-for-the-princess-iii.json) |
+| My Kingdom for the Princess III HD | 102634 | [102634-my-kingdom-for-the-princess-iii-hd.json](./102634-my-kingdom-for-the-princess-iii-hd.json) |
 | My Kingdom for the Princess IV HD | 106348 | [106348-my-kingdom-for-the-princess-iv-hd.json](./106348-my-kingdom-for-the-princess-iv-hd.json) |
 | My Klutzy Cupid | 248894 | [248894-my-klutzy-cupid.json](./248894-my-klutzy-cupid.json) |
 | My Koi | 88110 | [88110-my-koi.json](./88110-my-koi.json) |
