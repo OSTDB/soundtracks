@@ -1963,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Polo | 346104 | [346104-water-polo.json](./346104-water-polo.json) |
 | Water Rain | 158077 | [158077-water-rain.json](./158077-water-rain.json) |
 | Water Search | 224753 | [224753-water-search.json](./224753-water-search.json) |
+| Water Ski | 117410 | [117410-water-ski.json](./117410-water-ski.json) |
 | Water Ski | 40712 | [40712-water-ski.json](./40712-water-ski.json) |
 | Water Sort Challenge | 340521 | [340521-water-sort-challenge.json](./340521-water-sort-challenge.json) |
 | Water Sort Jigsaw: Color Sort | 208943 | [208943-water-sort-jigsaw-color-sort.json](./208943-water-sort-jigsaw-color-sort.json) |
@@ -3147,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -3745,6 +3747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who am I? | 328408 | [328408-who-am-i.json](./328408-who-am-i.json) |
 | Who Am You? | 306335 | [306335-who-am-you.json](./306335-who-am-you.json) |
 | Who Are Ya | 239284 | [239284-who-are-ya.json](./239284-who-are-ya.json) |
+| Who Are You, Mr. Cooper? | 117394 | [117394-who-are-you-mr-cooper.json](./117394-who-are-you-mr-cooper.json) |
 | Who Are You!? | 256522 | [256522-who-are-you.json](./256522-who-are-you.json) |
 | Who Are You? | 148253 | [148253-who-are-you.json](./148253-who-are-you.json) |
 | Who Are You? | 169439 | [169439-who-are-you.json](./169439-who-are-you.json) |
@@ -5510,6 +5513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein: Triple Pack | 152339 | [152339-wolfenstein-triple-pack.json](./152339-wolfenstein-triple-pack.json) |
 | Wolfenstein: Youngblood - Digital Limited Edition | 121640 | [121640-wolfenstein-youngblood-digital-limited-edition.json](./121640-wolfenstein-youngblood-digital-limited-edition.json) |
 | WolfFang Skull Fang: Saturn Tribute Boosted | 320440 | [320440-wolffang-skull-fang-saturn-tribute-boosted.json](./320440-wolffang-skull-fang-saturn-tribute-boosted.json) |
+| Wolfgate | 117396 | [117396-wolfgate.json](./117396-wolfgate.json) |
 | Wolfgun | 180777 | [180777-wolfgun.json](./180777-wolfgun.json) |
 | Wolfhound | 305000 | [305000-wolfhound.json](./305000-wolfhound.json) |
 | Wolfhound: The Last of the Grey Dogs | 250522 | [250522-wolfhound-the-last-of-the-grey-dogs.json](./250522-wolfhound-the-last-of-the-grey-dogs.json) |
@@ -6373,6 +6377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Buh | 216821 | [216821-world-of-buh.json](./216821-world-of-buh.json) |
 | World of Busking | 197130 | [197130-world-of-busking.json](./197130-world-of-busking.json) |
 | World of Claudecraft | 408050 | [408050-world-of-claudecraft.json](./408050-world-of-claudecraft.json) |
+| World of Conquerors | 117400 | [117400-world-of-conquerors.json](./117400-world-of-conquerors.json) |
 | World of Conquerors: Origins | 126602 | [126602-world-of-conquerors-origins.json](./126602-world-of-conquerors-origins.json) |
 | World of Contraptions | 138027 | [138027-world-of-contraptions.json](./138027-world-of-contraptions.json) |
 | World of Crypts | 298387 | [298387-world-of-crypts.json](./298387-world-of-crypts.json) |
@@ -7234,6 +7239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuhu Island Explorer | 313184 | [313184-wuhu-island-explorer.json](./313184-wuhu-island-explorer.json) |
 | WuJiDaoRen | 216816 | [216816-wujidaoren.json](./216816-wujidaoren.json) |
 | Wújìn Dàlù | 368358 | [368358-wujin-dalu.json](./368358-wujin-dalu.json) |
+| Wújìn Shēnyuān | 117368 | [117368-wujin-shenyuan.json](./117368-wujin-shenyuan.json) |
 | Wujin Zhi Jian Mingyuin | 83840 | [83840-wujin-zhi-jian-mingyuin.json](./83840-wujin-zhi-jian-mingyuin.json) |
 | Wukong 2088 | 373892 | [373892-wukong-2088.json](./373892-wukong-2088.json) |
 | Wukong Sun: Black Legend | 328464 | [328464-wukong-sun-black-legend.json](./328464-wukong-sun-black-legend.json) |
