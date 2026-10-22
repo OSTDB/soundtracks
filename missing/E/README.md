@@ -741,8 +741,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Past: Royal House of Stone | 64639 | [64639-echoes-of-the-past-royal-house-of-stone.json](./64639-echoes-of-the-past-royal-house-of-stone.json) |
 | Echoes of the Past: The Citadels of Time | 64637 | [64637-echoes-of-the-past-the-citadels-of-time.json](./64637-echoes-of-the-past-the-citadels-of-time.json) |
 | Echoes of the Past: The Citadels of Time - Collector's Edition | 114346 | [114346-echoes-of-the-past-the-citadels-of-time-collectors-edition.json](./114346-echoes-of-the-past-the-citadels-of-time-collectors-edition.json) |
+| Echoes of the Past: The Kingdom of Despair | 139283 | [139283-echoes-of-the-past-the-kingdom-of-despair.json](./139283-echoes-of-the-past-the-kingdom-of-despair.json) |
 | Echoes of the Past: The Revenge of the Witch | 64640 | [64640-echoes-of-the-past-the-revenge-of-the-witch.json](./64640-echoes-of-the-past-the-revenge-of-the-witch.json) |
 | Echoes of the Past: The Revenge of the Witch - Collector's Edition | 32781 | [32781-echoes-of-the-past-the-revenge-of-the-witch-collectors-edition.json](./32781-echoes-of-the-past-the-revenge-of-the-witch-collectors-edition.json) |
+| Echoes of the Past: Wolf Healer | 139289 | [139289-echoes-of-the-past-wolf-healer.json](./139289-echoes-of-the-past-wolf-healer.json) |
 | Echoes of the Plum Grove: Deluxe Edition | 401668 | [401668-echoes-of-the-plum-grove-deluxe-edition.json](./401668-echoes-of-the-plum-grove-deluxe-edition.json) |
 | Echoes of the Scourge | 398979 | [398979-echoes-of-the-scourge.json](./398979-echoes-of-the-scourge.json) |
 | Echoes of the Stars | 201586 | [201586-echoes-of-the-stars.json](./201586-echoes-of-the-stars.json) |
@@ -1481,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Séquito de Leonor de Aquitania | 321842 | [321842-el-sequito-de-leonor-de-aquitania.json](./321842-el-sequito-de-leonor-de-aquitania.json) |
 | El Shaddai: Ascension of the Metatron | 212311 | [212311-el-shaddai-ascension-of-the-metatron.json](./212311-el-shaddai-ascension-of-the-metatron.json) |
 | El Shaddai: Ascension of the Metatron | 6987 | [6987-el-shaddai-ascension-of-the-metatron.json](./6987-el-shaddai-ascension-of-the-metatron.json) |
+| El Silla | 139288 | [139288-el-silla.json](./139288-el-silla.json) |
 | El Silla: Arcade Edition | 114182 | [114182-el-silla-arcade-edition.json](./114182-el-silla-arcade-edition.json) |
 | El Sorrado Speedway | 307402 | [307402-el-sorrado-speedway.json](./307402-el-sorrado-speedway.json) |
 | El Stompo | 333925 | [333925-el-stompo.json](./333925-el-stompo.json) |
@@ -2566,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty Mind: Blank Fate | 307578 | [307578-empty-mind-blank-fate.json](./307578-empty-mind-blank-fate.json) |
 | Empty Shell 2 | 345148 | [345148-empty-shell-2.json](./345148-empty-shell-2.json) |
 | Empty Shell: The Loop | 302365 | [302365-empty-shell-the-loop.json](./302365-empty-shell-the-loop.json) |
+| Empty Soul | 139287 | [139287-empty-soul.json](./139287-empty-soul.json) |
 | Empty Soul: S&S Edition | 32914 | [32914-empty-soul-s-and-s-edition.json](./32914-empty-soul-s-and-s-edition.json) |
 | Empty the Ocean With a Bucket | 392927 | [392927-empty-the-ocean-with-a-bucket.json](./392927-empty-the-ocean-with-a-bucket.json) |
 | Empty Town | 102293 | [102293-empty-town.json](./102293-empty-town.json) |
@@ -3117,6 +3121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma of Sépia | 331861 | [331861-enigma-of-sepia.json](./331861-enigma-of-sepia.json) |
 | Enigma Prison | 32096 | [32096-enigma-prison.json](./32096-enigma-prison.json) |
 | Enigma Quest | 266995 | [266995-enigma-quest.json](./266995-enigma-quest.json) |
+| Enigma Sphere | 139286 | [139286-enigma-sphere.json](./139286-enigma-sphere.json) |
 | Enigma Squad: Animal Chaos | 298978 | [298978-enigma-squad-animal-chaos.json](./298978-enigma-squad-animal-chaos.json) |
 | Enigma: A Codebreaking Game | 186587 | [186587-enigma-a-codebreaking-game.json](./186587-enigma-a-codebreaking-game.json) |
 | Enigma: Rising Tide | 24099 | [24099-enigma-rising-tide.json](./24099-enigma-rising-tide.json) |
@@ -3509,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EpicMafia | 57075 | [57075-epicmafia.json](./57075-epicmafia.json) |
 | EpicRecovery | 202721 | [202721-epicrecovery.json](./202721-epicrecovery.json) |
 | Epicross | 357752 | [357752-epicross.json](./357752-epicross.json) |
+| Epics of Distant Realm | 139285 | [139285-epics-of-distant-realm.json](./139285-epics-of-distant-realm.json) |
 | Epics of Distant Realm 2: Holy Return | 189950 | [189950-epics-of-distant-realm-2-holy-return.json](./189950-epics-of-distant-realm-2-holy-return.json) |
 | Epics of Distant Realm: Remastered Edition | 114266 | [114266-epics-of-distant-realm-remastered-edition.json](./114266-epics-of-distant-realm-remastered-edition.json) |
 | EpicShop | 176676 | [176676-epicshop.json](./176676-epicshop.json) |
