@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Panda's Airport | 105968 | [105968-baby-pandas-airport.json](./105968-baby-pandas-airport.json) |
 | Baby Panda's Birthday Party | 233381 | [233381-baby-pandas-birthday-party.json](./233381-baby-pandas-birthday-party.json) |
 | Baby Panda's Forest Feast: Party Fun | 105846 | [105846-baby-pandas-forest-feast-party-fun.json](./105846-baby-pandas-forest-feast-party-fun.json) |
+| Baby Panda's Holidays | 107546 | [107546-baby-pandas-holidays.json](./107546-baby-pandas-holidays.json) |
 | Baby Panda's Vacation | 106599 | [106599-baby-pandas-vacation.json](./106599-baby-pandas-vacation.json) |
 | Baby Princess Phone | 101656 | [101656-baby-princess-phone.json](./101656-baby-princess-phone.json) |
 | Baby Puzzle: First Learning Shapes for Toddlers | 147985 | [147985-baby-puzzle-first-learning-shapes-for-toddlers.json](./147985-baby-puzzle-first-learning-shapes-for-toddlers.json) |
@@ -13550,6 +13551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumper Ball Bash | 276229 | [276229-bumper-ball-bash.json](./276229-bumper-ball-bash.json) |
 | Bumper Ball Io | 220811 | [220811-bumper-ball-io.json](./220811-bumper-ball-io.json) |
 | Bumper Bash | 40630 | [40630-bumper-bash.json](./40630-bumper-bash.json) |
+| Bumper Battle | 107575 | [107575-bumper-battle.json](./107575-bumper-battle.json) |
 | Bumper Boat Kids Tilt | 197705 | [197705-bumper-boat-kids-tilt.json](./197705-bumper-boat-kids-tilt.json) |
 | Bumper Boss | 134975 | [134975-bumper-boss.json](./134975-bumper-boss.json) |
 | Bumper Bout | 408105 | [408105-bumper-bout.json](./408105-bumper-bout.json) |
