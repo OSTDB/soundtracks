@@ -9960,6 +9960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Jump HD | 90809 | [90809-doodle-jump-hd.json](./90809-doodle-jump-hd.json) |
 | Doodle Jump HD: Insanely Good! | 104106 | [104106-doodle-jump-hd-insanely-good.json](./104106-doodle-jump-hd-insanely-good.json) |
 | Doodle Jump Journey | 85571 | [85571-doodle-jump-journey.json](./85571-doodle-jump-journey.json) |
+| Doodle Jump Race | 134317 | [134317-doodle-jump-race.json](./134317-doodle-jump-race.json) |
 | Doodle Kingdom | 27243 | [27243-doodle-kingdom.json](./27243-doodle-kingdom.json) |
 | Doodle Kingdom: Medieval | 338335 | [338335-doodle-kingdom-medieval.json](./338335-doodle-kingdom-medieval.json) |
 | Doodle Knight | 348194 | [348194-doodle-knight.json](./348194-doodle-knight.json) |
