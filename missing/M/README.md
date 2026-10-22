@@ -9249,6 +9249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Blox | 44203 | [44203-mind-blox.json](./44203-mind-blox.json) |
 | Mind Body & Soul: Big Word Puzzle Book | 92626 | [92626-mind-body-and-soul-big-word-puzzle-book.json](./92626-mind-body-and-soul-big-word-puzzle-book.json) |
 | Mind Boggler | 245439 | [245439-mind-boggler.json](./245439-mind-boggler.json) |
+| Mind Cards | 145999 | [145999-mind-cards.json](./145999-mind-cards.json) |
 | Mind Castle II | 339702 | [339702-mind-castle-ii.json](./339702-mind-castle-ii.json) |
 | Mind Construct | 256439 | [256439-mind-construct.json](./256439-mind-construct.json) |
 | Mind Control | 25965 | [25965-mind-control.json](./25965-mind-control.json) |
@@ -9453,6 +9454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Classic | 325724 | [325724-minecraft-classic.json](./325724-minecraft-classic.json) |
 | Minecraft Create: Above and Beyond | 326827 | [326827-minecraft-create-above-and-beyond.json](./326827-minecraft-create-above-and-beyond.json) |
 | Minecraft Dungeons: Echoing Void | 164849 | [164849-minecraft-dungeons-echoing-void.json](./164849-minecraft-dungeons-echoing-void.json) |
+| Minecraft Dungeons: Flames of the Nether | 146161 | [146161-minecraft-dungeons-flames-of-the-nether.json](./146161-minecraft-dungeons-flames-of-the-nether.json) |
 | Minecraft Dungeons: Hero Edition | 132145 | [132145-minecraft-dungeons-hero-edition.json](./132145-minecraft-dungeons-hero-edition.json) |
 | Minecraft Dungeons: Howling Peaks | 142160 | [142160-minecraft-dungeons-howling-peaks.json](./142160-minecraft-dungeons-howling-peaks.json) |
 | Minecraft Dungeons: Jungle Awakens | 135565 | [135565-minecraft-dungeons-jungle-awakens.json](./135565-minecraft-dungeons-jungle-awakens.json) |
