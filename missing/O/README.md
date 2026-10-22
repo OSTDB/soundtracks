@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld: Munch's Oddysee HD | 51329 | [51329-oddworld-munchs-oddysee-hd.json](./51329-oddworld-munchs-oddysee-hd.json) |
 | Oddworld: New 'n' Tasty | 5552 | [5552-oddworld-new-n-tasty.json](./5552-oddworld-new-n-tasty.json) |
 | Oddworld: New 'n' Tasty - Deluxe Edition | 132146 | [132146-oddworld-new-n-tasty-deluxe-edition.json](./132146-oddworld-new-n-tasty-deluxe-edition.json) |
+| Oddworld: Soulstorm - Collector's Oddition | 146008 | [146008-oddworld-soulstorm-collectors-oddition.json](./146008-oddworld-soulstorm-collectors-oddition.json) |
 | Oddworld: Soulstorm - Day 1 Oddition | 146118 | [146118-oddworld-soulstorm-day-1-oddition.json](./146118-oddworld-soulstorm-day-1-oddition.json) |
 | Oddworld: Soulstorm Oddtimized Edition | 222891 | [222891-oddworld-soulstorm-oddtimized-edition.json](./222891-oddworld-soulstorm-oddtimized-edition.json) |
 | Oddworld: Squeek's Oddysee | 65861 | [65861-oddworld-squeeks-oddysee.json](./65861-oddworld-squeeks-oddysee.json) |
@@ -2228,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oni Ama: Watashi ni Amaete, Onii-chan - Limited Edition | 166985 | [166985-oni-ama-watashi-ni-amaete-onii-chan-limited-edition.json](./166985-oni-ama-watashi-ni-amaete-onii-chan-limited-edition.json) |
 | Oni Asobi | 151529 | [151529-oni-asobi.json](./151529-oni-asobi.json) |
 | Oni Fight | 335428 | [335428-oni-fight.json](./335428-oni-fight.json) |
+| Oni Hunter | 145984 | [145984-oni-hunter.json](./145984-oni-hunter.json) |
 | Oni Hunters | 265506 | [265506-oni-hunters.json](./265506-oni-hunters.json) |
 | Oni II: Innin Densetsu | 63371 | [63371-oni-ii-innin-densetsu.json](./63371-oni-ii-innin-densetsu.json) |
 | Oni III: Kuro no Hakaishin | 63372 | [63372-oni-iii-kuro-no-hakaishin.json](./63372-oni-iii-kuro-no-hakaishin.json) |
