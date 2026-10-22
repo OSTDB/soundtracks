@@ -704,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandelion Void | 343376 | [343376-dandelion-void.json](./343376-dandelion-void.json) |
 | DanDeLion: Starchild Journey | 343049 | [343049-dandelion-starchild-journey.json](./343049-dandelion-starchild-journey.json) |
 | Dandelion: Wishes Brought to You | 17800 | [17800-dandelion-wishes-brought-to-you.json](./17800-dandelion-wishes-brought-to-you.json) |
+| Dandelions | 141716 | [141716-dandelions.json](./141716-dandelions.json) |
 | Dandelions and Me | 343040 | [343040-dandelions-and-me.json](./343040-dandelions-and-me.json) |
 | Dandelions in the Sky | 135756 | [135756-dandelions-in-the-sky.json](./135756-dandelions-in-the-sky.json) |
 | Dandy | 13568 | [13568-dandy.json](./13568-dandy.json) |
@@ -6469,6 +6470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamonds | 119547 | [119547-diamonds.json](./119547-diamonds.json) |
 | Diamonds | 348583 | [348583-diamonds.json](./348583-diamonds.json) |
 | Diamonds on the forest | 227831 | [227831-diamonds-on-the-forest.json](./227831-diamonds-on-the-forest.json) |
+| Diana Hamilton's Dreams | 141718 | [141718-diana-hamiltons-dreams.json](./141718-diana-hamiltons-dreams.json) |
 | Diǎnchū Gè Sānguó | 413033 | [413033-dianchu-ge-sanguo.json](./413033-dianchu-ge-sanguo.json) |
 | Diànwán Bǔyú | 369189 | [369189-dianwan-buyu.json](./369189-dianwan-buyu.json) |
 | Diapause | 374597 | [374597-diapause.json](./374597-diapause.json) |
@@ -14460,6 +14462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust Bunnies | 185554 | [185554-dust-bunnies.json](./185554-dust-bunnies.json) |
 | Dust Bunny | 342764 | [342764-dust-bunny.json](./342764-dust-bunny.json) |
 | Dust Bunny Simulator | 412484 | [412484-dust-bunny-simulator.json](./412484-dust-bunny-simulator.json) |
+| Dust City | 141720 | [141720-dust-city.json](./141720-dust-city.json) |
 | Dust Courier | 285984 | [285984-dust-courier.json](./285984-dust-courier.json) |
 | Dust Dasher | 135280 | [135280-dust-dasher.json](./135280-dust-dasher.json) |
 | Dust Devil | 256798 | [256798-dust-devil.json](./256798-dust-devil.json) |
