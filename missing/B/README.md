@@ -12050,6 +12050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brigandine | 143118 | [143118-brigandine.json](./143118-brigandine.json) |
 | Brigandine: Grand Edition | 3128 | [3128-brigandine-grand-edition.json](./3128-brigandine-grand-edition.json) |
 | Brigandine: The Legend of Runersia | 121960 | [121960-brigandine-the-legend-of-runersia.json](./121960-brigandine-the-legend-of-runersia.json) |
+| Brigandine: The Legend of Runersia - Collector's Edition | 146144 | [146144-brigandine-the-legend-of-runersia-collectors-edition.json](./146144-brigandine-the-legend-of-runersia-collectors-edition.json) |
 | Brigandine: The Legend of Runersia - Limited Edition | 136950 | [136950-brigandine-the-legend-of-runersia-limited-edition.json](./136950-brigandine-the-legend-of-runersia-limited-edition.json) |
 | Brigands | 363687 | [363687-brigands.json](./363687-brigands.json) |
 | Brigands and Barbarians | 223637 | [223637-brigands-and-barbarians.json](./223637-brigands-and-barbarians.json) |
