@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
 | Samantha Oups! Le Jeu | 222739 | [222739-samantha-oups-le-jeu.json](./222739-samantha-oups-le-jeu.json) |
 | Samantha Swift and the Fountains of Fate | 95915 | [95915-samantha-swift-and-the-fountains-of-fate.json](./95915-samantha-swift-and-the-fountains-of-fate.json) |
+| Samantha Swift and the Fountains of Fate: Collector's Edition | 100026 | [100026-samantha-swift-and-the-fountains-of-fate-collectors-edition.json](./100026-samantha-swift-and-the-fountains-of-fate-collectors-edition.json) |
 | Samantha Swift and the Golden Touch | 10570 | [10570-samantha-swift-and-the-golden-touch.json](./10570-samantha-swift-and-the-golden-touch.json) |
 | Samantha Swift and the Mystery From Atlantis | 62460 | [62460-samantha-swift-and-the-mystery-from-atlantis.json](./62460-samantha-swift-and-the-mystery-from-atlantis.json) |
 | Samantha Wins | 128561 | [128561-samantha-wins.json](./128561-samantha-wins.json) |
@@ -3988,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Rally Revo | 209018 | [209018-sega-rally-revo.json](./209018-sega-rally-revo.json) |
 | Sega Saturn de Hakken!! Tamagotchi Park | 108761 | [108761-sega-saturn-de-hakken-tamagotchi-park.json](./108761-sega-saturn-de-hakken-tamagotchi-park.json) |
 | Sega Ski Super G | 39796 | [39796-sega-ski-super-g.json](./39796-sega-ski-super-g.json) |
+| Sega Smash Pack | 100035 | [100035-sega-smash-pack.json](./100035-sega-smash-pack.json) |
 | Sega Smash Pack | 136875 | [136875-sega-smash-pack.json](./136875-sega-smash-pack.json) |
 | Sega Smash Pack 2 | 74302 | [74302-sega-smash-pack-2.json](./74302-sega-smash-pack-2.json) |
 | Sega Smash Pack: Twin Pack | 136874 | [136874-sega-smash-pack-twin-pack.json](./136874-sega-smash-pack-twin-pack.json) |
@@ -13928,6 +13930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog Legacy Bundle | 316736 | [316736-sonic-the-hedgehog-legacy-bundle.json](./316736-sonic-the-hedgehog-legacy-bundle.json) |
 | Sonic the Hedgehog Legacy Bundle | 339849 | [339849-sonic-the-hedgehog-legacy-bundle.json](./339849-sonic-the-hedgehog-legacy-bundle.json) |
 | Sonic the Hedgehog Level Creator | 197598 | [197598-sonic-the-hedgehog-level-creator.json](./197598-sonic-the-hedgehog-level-creator.json) |
+| Sonic the Hedgehog Master Collection | 99953 | [99953-sonic-the-hedgehog-master-collection.json](./99953-sonic-the-hedgehog-master-collection.json) |
 | Sonic the Hedgehog Megamix | 43320 | [43320-sonic-the-hedgehog-megamix.json](./43320-sonic-the-hedgehog-megamix.json) |
 | Sonic the Hedgehog Moon | 227803 | [227803-sonic-the-hedgehog-moon.json](./227803-sonic-the-hedgehog-moon.json) |
 | Sonic the Hedgehog Pangoture | 317351 | [317351-sonic-the-hedgehog-pangoture.json](./317351-sonic-the-hedgehog-pangoture.json) |
@@ -19579,6 +19582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starguy IV | 184252 | [184252-starguy-iv.json](./184252-starguy-iv.json) |
 | Starhack | 291013 | [291013-starhack.json](./291013-starhack.json) |
 | StarHawk | 79624 | [79624-starhawk.json](./79624-starhawk.json) |
+| Starhawk: Ultimate Edition | 99947 | [99947-starhawk-ultimate-edition.json](./99947-starhawk-ultimate-edition.json) |
 | Starheim | 270093 | [270093-starheim.json](./270093-starheim.json) |
 | StarHeroes | 221262 | [221262-starheroes.json](./221262-starheroes.json) |
 | StarHorse Pocket | 108764 | [108764-starhorse-pocket.json](./108764-starhorse-pocket.json) |
@@ -22139,6 +22143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Slender-Man | 267952 | [267952-streets-of-slender-man.json](./267952-streets-of-slender-man.json) |
 | Streetsad | 348285 | [348285-streetsad.json](./348285-streetsad.json) |
 | StreetSync | 332983 | [332983-streetsync.json](./332983-streetsync.json) |
+| Streichholz wegnehmen | 100042 | [100042-streichholz-wegnehmen.json](./100042-streichholz-wegnehmen.json) |
 | Strength & Honour 2 | 54404 | [54404-strength-and-honour-2.json](./54404-strength-and-honour-2.json) |
 | Strength & Skill: Guiness Book of Records | 283734 | [283734-strength-and-skill-guiness-book-of-records.json](./283734-strength-and-skill-guiness-book-of-records.json) |
 | Strength & Virtue: Lord of Midchester | 225194 | [225194-strength-and-virtue-lord-of-midchester.json](./225194-strength-and-virtue-lord-of-midchester.json) |
