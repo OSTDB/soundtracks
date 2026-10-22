@@ -6183,6 +6183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixasso 2 | 165703 | [165703-pixasso-2.json](./165703-pixasso-2.json) |
 | Pixasso 3 | 166624 | [166624-pixasso-3.json](./166624-pixasso-3.json) |
 | Pixboy | 135650 | [135650-pixboy.json](./135650-pixboy.json) |
+| Pixel Action Heroes | 106350 | [106350-pixel-action-heroes.json](./106350-pixel-action-heroes.json) |
 | Pixel Adventure | 152995 | [152995-pixel-adventure.json](./152995-pixel-adventure.json) |
 | Pixel Adventure: Exploration | 96005 | [96005-pixel-adventure-exploration.json](./96005-pixel-adventure-exploration.json) |
 | Pixel Anarchy Online | 137974 | [137974-pixel-anarchy-online.json](./137974-pixel-anarchy-online.json) |
@@ -7020,6 +7021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PKXD Runner | 414839 | [414839-pkxd-runner.json](./414839-pkxd-runner.json) |
 | Pl¢tfarmer | 307036 | [307036-pl-tfarmer.json](./307036-pl-tfarmer.json) |
 | PL4no-B | 340583 | [340583-pl4no-b.json](./340583-pl4no-b.json) |
+| Pla_toon | 106322 | [106322-pla-toon.json](./106322-pla-toon.json) |
 | Pla-toon 2 | 420543 | [420543-pla-toon-2.json](./420543-pla-toon-2.json) |
 | Placards | 84815 | [84815-placards.json](./84815-placards.json) |
 | Place & Learn 19×19 Mental Math | 409550 | [409550-place-and-learn-19-19-mental-math.json](./409550-place-and-learn-19-19-mental-math.json) |
@@ -10753,6 +10755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowersVR | 29540 | [29540-powersvr.json](./29540-powersvr.json) |
 | Powertris | 147136 | [147136-powertris.json](./147136-powertris.json) |
 | Powerup | 327194 | [327194-powerup.json](./327194-powerup.json) |
+| PowerUp Elevation | 106318 | [106318-powerup-elevation.json](./106318-powerup-elevation.json) |
 | PowerUp Heroes | 510 | [510-powerup-heroes.json](./510-powerup-heroes.json) |
 | Powerup Humans | 290488 | [290488-powerup-humans.json](./290488-powerup-humans.json) |
 | PowerWash Adventure | 268977 | [268977-powerwash-adventure.json](./268977-powerwash-adventure.json) |
@@ -13136,6 +13139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psi Break | 421200 | [421200-psi-break.json](./421200-psi-break.json) |
 | Psi Chess | 58251 | [58251-psi-chess.json](./58251-psi-chess.json) |
 | Psi Knuckle | 124579 | [124579-psi-knuckle.json](./124579-psi-knuckle.json) |
+| PSI Magic | 106321 | [106321-psi-magic.json](./106321-psi-magic.json) |
 | PSI Masquerade | 204064 | [204064-psi-masquerade.json](./204064-psi-masquerade.json) |
 | Psi Masquerade Deadly Wonderland | 366132 | [366132-psi-masquerade-deadly-wonderland.json](./366132-psi-masquerade-deadly-wonderland.json) |
 | Psi Project | 81171 | [81171-psi-project.json](./81171-psi-project.json) |
@@ -14179,6 +14183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Adventures: Serve Dishes | 329429 | [329429-puzzle-adventures-serve-dishes.json](./329429-puzzle-adventures-serve-dishes.json) |
 | Puzzle Agent | 15995 | [15995-puzzle-agent.json](./15995-puzzle-agent.json) |
 | Puzzle Agent 2 | 6778 | [6778-puzzle-agent-2.json](./6778-puzzle-agent-2.json) |
+| Puzzle Agent 2 HD | 106345 | [106345-puzzle-agent-2-hd.json](./106345-puzzle-agent-2-hd.json) |
 | Puzzle Aquarium | 169121 | [169121-puzzle-aquarium.json](./169121-puzzle-aquarium.json) |
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
 | Puzzle Arena Toshinden | 44824 | [44824-puzzle-arena-toshinden.json](./44824-puzzle-arena-toshinden.json) |
