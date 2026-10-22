@@ -5965,6 +5965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleeting Summer's End | 371121 | [371121-fleeting-summers-end.json](./371121-fleeting-summers-end.json) |
 | FleetMaster | 234060 | [234060-fleetmaster.json](./234060-fleetmaster.json) |
 | Fleetoad Mac | 184928 | [184928-fleetoad-mac.json](./184928-fleetoad-mac.json) |
+| Fleets of Heroes | 113384 | [113384-fleets-of-heroes.json](./113384-fleets-of-heroes.json) |
 | Flekkia | 415300 | [415300-flekkia.json](./415300-flekkia.json) |
 | Flem | 35960 | [35960-flem.json](./35960-flem.json) |
 | Flempire | 224248 | [224248-flempire.json](./224248-flempire.json) |
@@ -6392,6 +6393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floors | 309374 | [309374-floors.json](./309374-floors.json) |
 | Floors | 348746 | [348746-floors.json](./348746-floors.json) |
 | FLOP | 342168 | [342168-flop.json](./342168-flop.json) |
+| Flop Rocket | 113365 | [113365-flop-rocket.json](./113365-flop-rocket.json) |
 | Flop to the Top | 181712 | [181712-flop-to-the-top.json](./181712-flop-to-the-top.json) |
 | Flopfish | 380645 | [380645-flopfish.json](./380645-flopfish.json) |
 | Flopparena | 244631 | [244631-flopparena.json](./244631-flopparena.json) |
