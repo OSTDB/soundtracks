@@ -7115,6 +7115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dikembe Mutombo's 4 1/2 Weeks to Save the World | 79618 | [79618-dikembe-mutombos-4-1-2-weeks-to-save-the-world.json](./79618-dikembe-mutombos-4-1-2-weeks-to-save-the-world.json) |
 | Dikes & Polders | 183292 | [183292-dikes-and-polders.json](./183292-dikes-and-polders.json) |
 | Dilarara!! | 82876 | [82876-dilarara.json](./82876-dilarara.json) |
+| Dilbert's Desktop Games | 131183 | [131183-dilberts-desktop-games.json](./131183-dilberts-desktop-games.json) |
 | Dildo Catcher | 253981 | [253981-dildo-catcher.json](./253981-dildo-catcher.json) |
 | Dilemma | 390026 | [390026-dilemma.json](./390026-dilemma.json) |
 | Dilemma: The Game | 353363 | [353363-dilemma-the-game.json](./353363-dilemma-the-game.json) |
@@ -7656,6 +7657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Band | 229138 | [229138-disaster-band.json](./229138-disaster-band.json) |
 | Disaster Crisis | 166749 | [166749-disaster-crisis.json](./166749-disaster-crisis.json) |
 | Disaster Dash | 238399 | [238399-disaster-dash.json](./238399-disaster-dash.json) |
+| Disaster Dragon x Girls from Different Worlds | 131214 | [131214-disaster-dragon-x-girls-from-different-worlds.json](./131214-disaster-dragon-x-girls-from-different-worlds.json) |
 | Disaster Drive | 157904 | [157904-disaster-drive.json](./157904-disaster-drive.json) |
 | Disaster Island | 197091 | [197091-disaster-island.json](./197091-disaster-island.json) |
 | Disaster Party! | 332862 | [332862-disaster-party.json](./332862-disaster-party.json) |
