@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbox | 168647 | [168647-warbox.json](./168647-warbox.json) |
 | Warbox | 232010 | [232010-warbox.json](./232010-warbox.json) |
 | Warbox Sandbox | 204926 | [204926-warbox-sandbox.json](./204926-warbox-sandbox.json) |
+| Warbrush | 125661 | [125661-warbrush.json](./125661-warbrush.json) |
 | Warcana | 265477 | [265477-warcana.json](./265477-warcana.json) |
 | Warcana: Cat DLC | 357371 | [357371-warcana-cat-dlc.json](./357371-warcana-cat-dlc.json) |
 | Warcana: Dog DLC | 357370 | [357370-warcana-dog-dlc.json](./357370-warcana-dog-dlc.json) |
@@ -5697,6 +5698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woo Wop Da Bam | 160173 | [160173-woo-wop-da-bam.json](./160173-woo-wop-da-bam.json) |
 | Woobies | 294205 | [294205-woobies.json](./294205-woobies.json) |
 | Woochi the Wayfarer | 360752 | [360752-woochi-the-wayfarer.json](./360752-woochi-the-wayfarer.json) |
+| Wood 'n Stones | 125675 | [125675-wood-n-stones.json](./125675-wood-n-stones.json) |
 | Wood & Flesh Chapter 2 | 372696 | [372696-wood-and-flesh-chapter-2.json](./372696-wood-and-flesh-chapter-2.json) |
 | Wood & Weather | 212817 | [212817-wood-and-weather.json](./212817-wood-and-weather.json) |
 | Wood and Water and Rock | 136422 | [136422-wood-and-water-and-rock.json](./136422-wood-and-water-and-rock.json) |
