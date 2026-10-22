@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack Per Duck | 157092 | [157092-pack-per-duck.json](./157092-pack-per-duck.json) |
 | Pack Playlink That's You! + Knowledge is Power + Singstar Celebration + Hidden Agenda | 145334 | [145334-pack-playlink-thats-you-knowledge-is-power-singstar-celebration-hidden-agenda.json](./145334-pack-playlink-thats-you-knowledge-is-power-singstar-celebration-hidden-agenda.json) |
 | Pack Powersports | 112892 | [112892-pack-powersports.json](./112892-pack-powersports.json) |
+| Pack'n Boy | 138652 | [138652-packn-boy.json](./138652-packn-boy.json) |
 | Package chaos | 411698 | [411698-package-chaos.json](./411698-package-chaos.json) |
 | Package Handler VR | 112173 | [112173-package-handler-vr.json](./112173-package-handler-vr.json) |
 | Package Inc | 174530 | [174530-package-inc.json](./174530-package-inc.json) |
@@ -897,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemic Isolation | 151076 | [151076-pandemic-isolation.json](./151076-pandemic-isolation.json) |
 | Pandemic of the Forgotten Virus | 185593 | [185593-pandemic-of-the-forgotten-virus.json](./185593-pandemic-of-the-forgotten-virus.json) |
 | Pandemic Pandemonium | 167191 | [167191-pandemic-pandemonium.json](./167191-pandemic-pandemonium.json) |
+| Pandemic Pop | 138446 | [138446-pandemic-pop.json](./138446-pandemic-pop.json) |
 | Pandemic Shooter | 186702 | [186702-pandemic-shooter.json](./186702-pandemic-shooter.json) |
 | Pandemic Train | 149918 | [149918-pandemic-train.json](./149918-pandemic-train.json) |
 | Pandemic Violence | 149276 | [149276-pandemic-violence.json](./149276-pandemic-violence.json) |
@@ -4233,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phase 10 | 83456 | [83456-phase-10.json](./83456-phase-10.json) |
 | Phase 10 Dice | 83455 | [83455-phase-10-dice.json](./83455-phase-10-dice.json) |
 | Phase 10 Online | 144843 | [144843-phase-10-online.json](./144843-phase-10-online.json) |
+| Phase 10: World Tour | 138638 | [138638-phase-10-world-tour.json](./138638-phase-10-world-tour.json) |
 | Phase Cross | 347787 | [347787-phase-cross.json](./347787-phase-cross.json) |
 | Phase D | 42762 | [42762-phase-d.json](./42762-phase-d.json) |
 | Phase Edge | 53458 | [53458-phase-edge.json](./53458-phase-edge.json) |
@@ -5168,6 +5171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillow Simulator | 155956 | [155956-pillow-simulator.json](./155956-pillow-simulator.json) |
 | Pillowfight Girls | 350196 | [350196-pillowfight-girls.json](./350196-pillowfight-girls.json) |
 | Pillowheads: It's Party Time | 137644 | [137644-pillowheads-its-party-time.json](./137644-pillowheads-its-party-time.json) |
+| PillPop | 138645 | [138645-pillpop.json](./138645-pillpop.json) |
 | Pills4Skills | 33903 | [33903-pills4skills.json](./33903-pills4skills.json) |
 | Pilot 6174: Orbital Survival | 386445 | [386445-pilot-6174-orbital-survival.json](./386445-pilot-6174-orbital-survival.json) |
 | Pilot Attack | 281534 | [281534-pilot-attack.json](./281534-pilot-attack.json) |
