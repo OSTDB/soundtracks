@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Starborn | 401042 | [401042-fallen-starborn.json](./401042-fallen-starborn.json) |
 | Fallen Survivors | 244921 | [244921-fallen-survivors.json](./244921-fallen-survivors.json) |
 | Fallen Symphony | 258903 | [258903-fallen-symphony.json](./258903-fallen-symphony.json) |
+| Fallen Tear: The Ascension | 142304 | [142304-fallen-tear-the-ascension.json](./142304-fallen-tear-the-ascension.json) |
 | Fallen Threats | 110170 | [110170-fallen-threats.json](./110170-fallen-threats.json) |
 | Fallen World | 148938 | [148938-fallen-world.json](./148938-fallen-world.json) |
 | Fallen, the last light | 164267 | [164267-fallen-the-last-light.json](./164267-fallen-the-last-light.json) |
@@ -1053,6 +1054,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76 Raiders & Settlers Content Bundle | 136361 | [136361-fallout-76-raiders-and-settlers-content-bundle.json](./136361-fallout-76-raiders-and-settlers-content-bundle.json) |
 | Fallout 76: Atlantic City | 252834 | [252834-fallout-76-atlantic-city.json](./252834-fallout-76-atlantic-city.json) |
 | Fallout 76: Atlantic City - Boardwalk Paradise: Deluxe Edition | 279250 | [279250-fallout-76-atlantic-city-boardwalk-paradise-deluxe-edition.json](./279250-fallout-76-atlantic-city-boardwalk-paradise-deluxe-edition.json) |
+| Fallout 76: Brotherhood of Steel | 142165 | [142165-fallout-76-brotherhood-of-steel.json](./142165-fallout-76-brotherhood-of-steel.json) |
+| Fallout 76: Brotherhood Recruitment Bundle | 142167 | [142167-fallout-76-brotherhood-recruitment-bundle.json](./142167-fallout-76-brotherhood-recruitment-bundle.json) |
 | Fallout 76: Camp Pets | 317825 | [317825-fallout-76-camp-pets.json](./317825-fallout-76-camp-pets.json) |
 | Fallout 76: Enclave Armory Bundle | 334291 | [334291-fallout-76-enclave-armory-bundle.json](./334291-fallout-76-enclave-armory-bundle.json) |
 | Fallout 76: Ghoul Within | 341476 | [341476-fallout-76-ghoul-within.json](./341476-fallout-76-ghoul-within.json) |
@@ -1072,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Skyline Valley | 305150 | [305150-fallout-76-skyline-valley.json](./305150-fallout-76-skyline-valley.json) |
 | Fallout 76: Skyline Valley - Deluxe Edition | 305493 | [305493-fallout-76-skyline-valley-deluxe-edition.json](./305493-fallout-76-skyline-valley-deluxe-edition.json) |
 | Fallout 76: Skyline Valley - Lost Treasures Bundle | 305492 | [305492-fallout-76-skyline-valley-lost-treasures-bundle.json](./305492-fallout-76-skyline-valley-lost-treasures-bundle.json) |
+| Fallout 76: Steel Dawn | 142164 | [142164-fallout-76-steel-dawn.json](./142164-fallout-76-steel-dawn.json) |
 | Fallout 76: Steel Dawn - Deluxe Edition | 141647 | [141647-fallout-76-steel-dawn-deluxe-edition.json](./141647-fallout-76-steel-dawn-deluxe-edition.json) |
 | Fallout 76: Steel Reign | 152310 | [152310-fallout-76-steel-reign.json](./152310-fallout-76-steel-reign.json) |
 | Fallout 76: The Pitt | 217785 | [217785-fallout-76-the-pitt.json](./217785-fallout-76-the-pitt.json) |
@@ -1768,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 3 + 4 Double Pack | 136783 | [136783-far-cry-3-4-double-pack.json](./136783-far-cry-3-4-double-pack.json) |
 | Far Cry 3: Blood Dragon - Classic Edition | 188063 | [188063-far-cry-3-blood-dragon-classic-edition.json](./188063-far-cry-3-blood-dragon-classic-edition.json) |
 | Far Cry 3: High Tides | 284318 | [284318-far-cry-3-high-tides.json](./284318-far-cry-3-high-tides.json) |
+| Far Cry 3: Insane Edition | 142163 | [142163-far-cry-3-insane-edition.json](./142163-far-cry-3-insane-edition.json) |
 | Far Cry 3: Monkey Business | 229538 | [229538-far-cry-3-monkey-business.json](./229538-far-cry-3-monkey-business.json) |
 | Far Cry 3: The Lost Expeditions Edition | 142159 | [142159-far-cry-3-the-lost-expeditions-edition.json](./142159-far-cry-3-the-lost-expeditions-edition.json) |
 | Far Cry 3: Wish You Were Here Edition | 51544 | [51544-far-cry-3-wish-you-were-here-edition.json](./51544-far-cry-3-wish-you-were-here-edition.json) |
@@ -6423,6 +6428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowball | 248797 | [248797-flowball.json](./248797-flowball.json) |
 | Flowcubes | 164972 | [164972-flowcubes.json](./164972-flowcubes.json) |
 | Flowence | 309558 | [309558-flowence.json](./309558-flowence.json) |
+| Flower | 142294 | [142294-flower.json](./142294-flower.json) |
 | Flower and Animal 3D Encyclopedia | 77006 | [77006-flower-and-animal-3d-encyclopedia.json](./77006-flower-and-animal-3d-encyclopedia.json) |
 | Flower Bears | 307732 | [307732-flower-bears.json](./307732-flower-bears.json) |
 | Flower Blooming Competition | 341835 | [341835-flower-blooming-competition.json](./341835-flower-blooming-competition.json) |
@@ -10608,6 +10614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FurryMUCK | 262192 | [262192-furrymuck.json](./262192-furrymuck.json) |
 | Furs of Fury | 149049 | [149049-furs-of-fury.json](./149049-furs-of-fury.json) |
 | Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque | 166499 | [166499-fursan-al-aqsa-the-knights-of-the-al-aqsa-mosque.json](./166499-fursan-al-aqsa-the-knights-of-the-al-aqsa-mosque.json) |
+| Fürst Marigor und die Tobis | 142302 | [142302-furst-marigor-und-die-tobis.json](./142302-furst-marigor-und-die-tobis.json) |
 | FurstDate: A Furry Dating Simulator | 368127 | [368127-furstdate-a-furry-dating-simulator.json](./368127-furstdate-a-furry-dating-simulator.json) |
 | Further | 291743 | [291743-further.json](./291743-further.json) |
 | Further and Rarer | 406917 | [406917-further-and-rarer.json](./406917-further-and-rarer.json) |
