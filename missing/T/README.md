@@ -10809,6 +10809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The MisAdventures of Xenos | 241422 | [241422-the-misadventures-of-xenos.json](./241422-the-misadventures-of-xenos.json) |
 | The MisAdventures of Xenos: Legacy Edition | 292642 | [292642-the-misadventures-of-xenos-legacy-edition.json](./292642-the-misadventures-of-xenos-legacy-edition.json) |
 | The Miser's House | 25116 | [25116-the-misers-house.json](./25116-the-misers-house.json) |
+| The Miserable Crimson Hooded Girl | 125041 | [125041-the-miserable-crimson-hooded-girl.json](./125041-the-miserable-crimson-hooded-girl.json) |
 | The Misfits Burger Joint | 255341 | [255341-the-misfits-burger-joint.json](./255341-the-misfits-burger-joint.json) |
 | The Misfortunes of a Nekomimi Catgirl Sorceress | 82914 | [82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json](./82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json) |
 | The Misshitsu kara no Dasshutsu 2 | 125774 | [125774-the-misshitsu-kara-no-dasshutsu-2.json](./125774-the-misshitsu-kara-no-dasshutsu-2.json) |
