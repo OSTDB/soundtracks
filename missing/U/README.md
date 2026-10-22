@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Kept Man Life | 340347 | [340347-ultimate-kept-man-life.json](./340347-ultimate-kept-man-life.json) |
 | Ultimate Knight Windom XP | 268438 | [268438-ultimate-knight-windom-xp.json](./268438-ultimate-knight-windom-xp.json) |
 | Ultimate Kungfu Street | 223885 | [223885-ultimate-kungfu-street.json](./223885-ultimate-kungfu-street.json) |
+| Ultimate Legends | 113387 | [113387-ultimate-legends.json](./113387-ultimate-legends.json) |
 | Ultimate Lemon Basket | 411522 | [411522-ultimate-lemon-basket.json](./411522-ultimate-lemon-basket.json) |
 | Ultimate Logic Puzzle Collection | 115163 | [115163-ultimate-logic-puzzle-collection.json](./115163-ultimate-logic-puzzle-collection.json) |
 | Ultimate Low Poly Pet | 151277 | [151277-ultimate-low-poly-pet.json](./151277-ultimate-low-poly-pet.json) |
