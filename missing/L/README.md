@@ -5402,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Pic: Love to Solve by Numbers | 212684 | [212684-logic-pic-love-to-solve-by-numbers.json](./212684-logic-pic-love-to-solve-by-numbers.json) |
 | Logic Pic: Nonogram Adventure | 212681 | [212681-logic-pic-nonogram-adventure.json](./212681-logic-pic-nonogram-adventure.json) |
 | Logic Pro | 78526 | [78526-logic-pro.json](./78526-logic-pro.json) |
+| Logic Pro 2 | 131151 | [131151-logic-pro-2.json](./131151-logic-pro-2.json) |
 | Logic Puzzle Collection: Sudoku, Permudoku, Nonodoku | 147949 | [147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json](./147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json) |
 | Logic Quest 3D | 79759 | [79759-logic-quest-3d.json](./79759-logic-quest-3d.json) |
 | Logic Town: Santa's Grotto | 279131 | [279131-logic-town-santas-grotto.json](./279131-logic-town-santas-grotto.json) |
