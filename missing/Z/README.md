@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zackman | 385842 | [385842-zackman.json](./385842-zackman.json) |
 | Zad Maldan My Bloody Sacrifice | 219679 | [219679-zad-maldan-my-bloody-sacrifice.json](./219679-zad-maldan-my-bloody-sacrifice.json) |
 | Zadel Princess | 191827 | [191827-zadel-princess.json](./191827-zadel-princess.json) |
+| Zadette | 142654 | [142654-zadette.json](./142654-zadette.json) |
 | Zafe's Adventures | 316423 | [316423-zafes-adventures.json](./316423-zafes-adventures.json) |
 | Zafehouse Diaries 2 | 37414 | [37414-zafehouse-diaries-2.json](./37414-zafehouse-diaries-2.json) |
 | Zag | 301967 | [301967-zag.json](./301967-zag.json) |
