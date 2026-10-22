@@ -1273,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ram! | 94218 | [94218-ram.json](./94218-ram.json) |
 | Rama | 13782 | [13782-rama.json](./13782-rama.json) |
 | Rama's Quest | 289013 | [289013-ramas-quest.json](./289013-ramas-quest.json) |
+| Ramageddon | 146757 | [146757-ramageddon.json](./146757-ramageddon.json) |
 | Ramas' Call: Twisted Timing | 261734 | [261734-ramas-call-twisted-timing.json](./261734-ramas-call-twisted-timing.json) |
 | Ramble | 102587 | [102587-ramble.json](./102587-ramble.json) |
 | Ramble Planet | 152374 | [152374-ramble-planet.json](./152374-ramble-planet.json) |
@@ -1591,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raspberry | 314249 | [314249-raspberry.json](./314249-raspberry.json) |
 | Raspberry Coast | 157040 | [157040-raspberry-coast.json](./157040-raspberry-coast.json) |
 | Raspberry Cube | 117515 | [117515-raspberry-cube.json](./117515-raspberry-cube.json) |
+| Raspberry Mash | 146746 | [146746-raspberry-mash.json](./146746-raspberry-mash.json) |
 | Rasputin | 26351 | [26351-rasputin.json](./26351-rasputin.json) |
 | Rasta Rainbow | 88099 | [88099-rasta-rainbow.json](./88099-rasta-rainbow.json) |
 | Raster | 270175 | [270175-raster.json](./270175-raster.json) |
@@ -4131,6 +4133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reroute | 291487 | [291487-reroute.json](./291487-reroute.json) |
 | Res Arcana | 37869 | [37869-res-arcana.json](./37869-res-arcana.json) |
 | Res Arcana Diana Rei: Uranai no Meikyu | 58683 | [58683-res-arcana-diana-rei-uranai-no-meikyu.json](./58683-res-arcana-diana-rei-uranai-no-meikyu.json) |
+| Res Furtiva | 146598 | [146598-res-furtiva.json](./146598-res-furtiva.json) |
 | ReSail | 182938 | [182938-resail.json](./182938-resail.json) |
 | Resbs | 201565 | [201565-resbs.json](./201565-resbs.json) |
 | Rescale | 108392 | [108392-rescale.json](./108392-rescale.json) |
