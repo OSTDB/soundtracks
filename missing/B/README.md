@@ -1715,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bāo Qīngtiān | 84440 | [84440-bao-qingtian.json](./84440-bao-qingtian.json) |
 | Baobabs Mausoleum Ep. 2 1313 Barnabas Dead End Drive | 81164 | [81164-baobabs-mausoleum-ep-2-1313-barnabas-dead-end-drive.json](./81164-baobabs-mausoleum-ep-2-1313-barnabas-dead-end-drive.json) |
 | Baobabs Mausoleum: Grindhouse Edition | 142820 | [142820-baobabs-mausoleum-grindhouse-edition.json](./142820-baobabs-mausoleum-grindhouse-edition.json) |
+| Bàodǎ Méngshǔ | 155940 | [155940-baoda-mengshu.json](./155940-baoda-mengshu.json) |
 | Baoxiao Chuji | 306642 | [306642-baoxiao-chuji.json](./306642-baoxiao-chuji.json) |
 | Baoxiao Duobiqiu | 97353 | [97353-baoxiao-duobiqiu.json](./97353-baoxiao-duobiqiu.json) |
 | Bàoxiào Sānguó | 92605 | [92605-baoxiao-sanguo.json](./92605-baoxiao-sanguo.json) |
@@ -8087,6 +8088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Magic Puzzle | 290466 | [290466-block-magic-puzzle.json](./290466-block-magic-puzzle.json) |
 | Block Man Adventures | 295557 | [295557-block-man-adventures.json](./295557-block-man-adventures.json) |
 | Block Master 3D Puzzle | 357976 | [357976-block-master-3d-puzzle.json](./357976-block-master-3d-puzzle.json) |
+| Block Me. | 155946 | [155946-block-me.json](./155946-block-me.json) |
 | Block Meister | 206445 | [206445-block-meister.json](./206445-block-meister.json) |
 | Block Mesa 64 | 193328 | [193328-block-mesa-64.json](./193328-block-mesa-64.json) |
 | Block Mind | 277494 | [277494-block-mind.json](./277494-block-mind.json) |
@@ -8737,6 +8739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Roar 4 | 24104 | [24104-bloody-roar-4.json](./24104-bloody-roar-4.json) |
 | Bloody Roar Extreme | 225826 | [225826-bloody-roar-extreme.json](./225826-bloody-roar-extreme.json) |
 | Bloody Rune | 320433 | [320433-bloody-rune.json](./320433-bloody-rune.json) |
+| Bloody Service | 155948 | [155948-bloody-service.json](./155948-bloody-service.json) |
 | Bloody Shrine | 284019 | [284019-bloody-shrine.json](./284019-bloody-shrine.json) |
 | Bloody Sky | 312153 | [312153-bloody-sky.json](./312153-bloody-sky.json) |
 | Bloody Slipgates | 271180 | [271180-bloody-slipgates.json](./271180-bloody-slipgates.json) |
@@ -11726,6 +11729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of the Gods | 223310 | [223310-breath-of-the-gods.json](./223310-breath-of-the-gods.json) |
 | Breath of the NES | 402394 | [402394-breath-of-the-nes.json](./402394-breath-of-the-nes.json) |
 | Breath of the Pasture | 368821 | [368821-breath-of-the-pasture.json](./368821-breath-of-the-pasture.json) |
+| Breath of the Wasteland | 155936 | [155936-breath-of-the-wasteland.json](./155936-breath-of-the-wasteland.json) |
 | Breath of the Waters: The Angler | 410937 | [410937-breath-of-the-waters-the-angler.json](./410937-breath-of-the-waters-the-angler.json) |
 | Breath: Toiki wa Akaneiro | 269675 | [269675-breath-toiki-wa-akaneiro.json](./269675-breath-toiki-wa-akaneiro.json) |
 | Breathbound | 372447 | [372447-breathbound.json](./372447-breathbound.json) |
@@ -12380,6 +12384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brush Roller | 48658 | [48658-brush-roller.json](./48658-brush-roller.json) |
 | BrushHammer Miniature Painter | 406170 | [406170-brushhammer-miniature-painter.json](./406170-brushhammer-miniature-painter.json) |
 | Brushland | 424034 | [424034-brushland.json](./424034-brushland.json) |
+| Brushlings Pale Moon | 155968 | [155968-brushlings-pale-moon.json](./155968-brushlings-pale-moon.json) |
 | Brushwood Buddies | 33692 | [33692-brushwood-buddies.json](./33692-brushwood-buddies.json) |
 | Brut@l | 14759 | [14759-brut-l.json](./14759-brut-l.json) |
 | Brutal 2urvive Bundle | 164786 | [164786-brutal-2urvive-bundle.json](./164786-brutal-2urvive-bundle.json) |
