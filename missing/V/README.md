@@ -3086,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR shooting cute balloons | 164249 | [164249-vr-shooting-cute-balloons.json](./164249-vr-shooting-cute-balloons.json) |
 | VR Skater | 146829 | [146829-vr-skater.json](./146829-vr-skater.json) |
 | VR Skater: SL Pro Series Tour | 296527 | [296527-vr-skater-sl-pro-series-tour.json](./296527-vr-skater-sl-pro-series-tour.json) |
+| VR Skirmish on Solar System Planets: Shooting Battle | 154898 | [154898-vr-skirmish-on-solar-system-planets-shooting-battle.json](./154898-vr-skirmish-on-solar-system-planets-shooting-battle.json) |
 | VR Sky Walk | 189114 | [189114-vr-sky-walk.json](./189114-vr-sky-walk.json) |
 | VR Slots 3D | 368240 | [368240-vr-slots-3d.json](./368240-vr-slots-3d.json) |
 | VR Smash Park | 111716 | [111716-vr-smash-park.json](./111716-vr-smash-park.json) |
