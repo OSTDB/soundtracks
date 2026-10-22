@@ -4487,6 +4487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Big Horn | 226409 | [226409-little-big-horn.json](./226409-little-big-horn.json) |
 | Little Big Monsters | 149945 | [149945-little-big-monsters.json](./149945-little-big-monsters.json) |
 | Little Big Planet 3: Dark Souls 3 Costume pack | 321183 | [321183-little-big-planet-3-dark-souls-3-costume-pack.json](./321183-little-big-planet-3-dark-souls-3-costume-pack.json) |
+| Little Big Rabbits | 129451 | [129451-little-big-rabbits.json](./129451-little-big-rabbits.json) |
 | Little Big Robots | 231931 | [231931-little-big-robots.json](./231931-little-big-robots.json) |
 | Little Big Snake | 108928 | [108928-little-big-snake.json](./108928-little-big-snake.json) |
 | Little Big Workshop | 124131 | [124131-little-big-workshop.json](./124131-little-big-workshop.json) |
@@ -5426,6 +5427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logik | 204947 | [204947-logik.json](./204947-logik.json) |
 | LogiKing | 231051 | [231051-logiking.json](./231051-logiking.json) |
 | LogiKing: Level2 | 294048 | [294048-logiking-level2.json](./294048-logiking-level2.json) |
+| LoginToShootingRangeInServer00 VR | 129416 | [129416-logintoshootingrangeinserver00-vr.json](./129416-logintoshootingrangeinserver00-vr.json) |
 | LogIQ Boost | 373650 | [373650-logiq-boost.json](./373650-logiq-boost.json) |
 | Logisch! - Die Denk-Boxx Vol. 1 | 81108 | [81108-logisch-die-denk-boxx-vol-1.json](./81108-logisch-die-denk-boxx-vol-1.json) |
 | Logistical 2: Belgium | 109415 | [109415-logistical-2-belgium.json](./109415-logistical-2-belgium.json) |
