@@ -1873,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immercenary | 4296 | [4296-immercenary.json](./4296-immercenary.json) |
 | Immerrock | 344169 | [344169-immerrock.json](./344169-immerrock.json) |
 | Immerse Creator | 34163 | [34163-immerse-creator.json](./34163-immerse-creator.json) |
+| Immerse Land | 146753 | [146753-immerse-land.json](./146753-immerse-land.json) |
 | Immersion | 191247 | [191247-immersion.json](./191247-immersion.json) |
 | Immersion Chess | 28875 | [28875-immersion-chess.json](./28875-immersion-chess.json) |
 | Immersion Pack: Europa Universalis IV - Origins | 246898 | [246898-immersion-pack-europa-universalis-iv-origins.json](./246898-immersion-pack-europa-universalis-iv-origins.json) |
@@ -2798,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infectonator 2 | 95939 | [95939-infectonator-2.json](./95939-infectonator-2.json) |
 | Infectonator 3: Apocalypse | 76039 | [76039-infectonator-3-apocalypse.json](./76039-infectonator-3-apocalypse.json) |
 | Infector | 184464 | [184464-infector.json](./184464-infector.json) |
+| Infectra | 146752 | [146752-infectra.json](./146752-infectra.json) |
 | Infees | 152904 | [152904-infees.json](./152904-infees.json) |
 | Inferiae | 399001 | [399001-inferiae.json](./399001-inferiae.json) |
 | Inferis: Dead Below | 359923 | [359923-inferis-dead-below.json](./359923-inferis-dead-below.json) |
