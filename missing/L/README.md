@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lalaloopsy: Sew Magical! Sew Cute! | 113888 | [113888-lalaloopsy-sew-magical-sew-cute.json](./113888-lalaloopsy-sew-magical-sew-cute.json) |
 | Lalli | 311161 | [311161-lalli.json](./311161-lalli.json) |
 | Lam Lam | 223317 | [223317-lam-lam.json](./223317-lam-lam.json) |
+| Lama Azavtani | 151446 | [151446-lama-azavtani.json](./151446-lama-azavtani.json) |
 | Lama by Reiner Knizia | 223602 | [223602-lama-by-reiner-knizia.json](./223602-lama-by-reiner-knizia.json) |
 | Lama Drama FPS | 122370 | [122370-lama-drama-fps.json](./122370-lama-drama-fps.json) |
 | Lamafox - Hide and Seek! | 200499 | [200499-lamafox-hide-and-seek.json](./200499-lamafox-hide-and-seek.json) |
@@ -3833,6 +3834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightvayne: Adventure on Volcanus Island | 322650 | [322650-lightvayne-adventure-on-volcanus-island.json](./322650-lightvayne-adventure-on-volcanus-island.json) |
 | LightWalk | 33096 | [33096-lightwalk.json](./33096-lightwalk.json) |
 | LightWave | 155657 | [155657-lightwave.json](./155657-lightwave.json) |
+| Lightway Lines | 151442 | [151442-lightway-lines.json](./151442-lightway-lines.json) |
 | LightWeight Ninja | 73531 | [73531-lightweight-ninja.json](./73531-lightweight-ninja.json) |
 | Lightwood | 236962 | [236962-lightwood.json](./236962-lightwood.json) |
 | Lightworkers | 203872 | [203872-lightworkers.json](./203872-lightworkers.json) |
@@ -4103,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Forge BlackSmith | 402544 | [402544-line-forge-blacksmith.json](./402544-line-forge-blacksmith.json) |
 | Line GoGo! TwinBee | 282827 | [282827-line-gogo-twinbee.json](./282827-line-gogo-twinbee.json) |
 | Line Hopper | 349875 | [349875-line-hopper.json](./349875-line-hopper.json) |
+| Line Leader | 151509 | [151509-line-leader.json](./151509-line-leader.json) |
 | Line Link | 261653 | [261653-line-link.json](./261653-line-link.json) |
 | Line Loops: Logic Puzzles | 115506 | [115506-line-loops-logic-puzzles.json](./115506-line-loops-logic-puzzles.json) |
 | Line Monster: Escape Dark | 252931 | [252931-line-monster-escape-dark.json](./252931-line-monster-escape-dark.json) |
@@ -5732,6 +5735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Hero | 141533 | [141533-loop-hero.json](./141533-loop-hero.json) |
 | Loop Hero: Deluxe Edition | 248294 | [248294-loop-hero-deluxe-edition.json](./248294-loop-hero-deluxe-edition.json) |
 | Loop Kingdom | 253005 | [253005-loop-kingdom.json](./253005-loop-kingdom.json) |
+| Loop Knight | 151524 | [151524-loop-knight.json](./151524-loop-knight.json) |
 | Loop Knight | 224017 | [224017-loop-knight.json](./224017-loop-knight.json) |
 | Loop Land | 116424 | [116424-loop-land.json](./116424-loop-land.json) |
 | Loop Legend | 247032 | [247032-loop-legend.json](./247032-loop-legend.json) |
