@@ -4979,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bell Echoes | 304655 | [304655-the-bell-echoes.json](./304655-the-bell-echoes.json) |
 | The Bells' Arietta | 313334 | [313334-the-bells-arietta.json](./313334-the-bells-arietta.json) |
 | The Bend | 172719 | [172719-the-bend.json](./172719-the-bend.json) |
+| The Bender of Destiny | 128829 | [128829-the-bender-of-destiny.json](./128829-the-bender-of-destiny.json) |
 | The Bends | 178538 | [178538-the-bends.json](./178538-the-bends.json) |
 | The Bendy Strawmen Inc. Team Bonding Beach Volley Bonanza | 183911 | [183911-the-bendy-strawmen-inc-team-bonding-beach-volley-bonanza.json](./183911-the-bendy-strawmen-inc-team-bonding-beach-volley-bonanza.json) |
 | The Benjamins | 169382 | [169382-the-benjamins.json](./169382-the-benjamins.json) |
@@ -5616,6 +5617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chemist | 74603 | [74603-the-chemist.json](./74603-the-chemist.json) |
 | The Cherry Orchard | 145302 | [145302-the-cherry-orchard.json](./145302-the-cherry-orchard.json) |
 | The Chess | 351729 | [351729-the-chess.json](./351729-the-chess.json) |
+| The Chess Lv.100 | 128860 | [128860-the-chess-lv-100.json](./128860-the-chess-lv-100.json) |
 | The Chess Player | 380106 | [380106-the-chess-player.json](./380106-the-chess-player.json) |
 | The Chess Variants Club | 133095 | [133095-the-chess-variants-club.json](./133095-the-chess-variants-club.json) |
 | The Chessmaster | 366555 | [366555-the-chessmaster.json](./366555-the-chessmaster.json) |
@@ -11305,6 +11307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oni Taiji: Mezase! Nidaime Momotarou | 257855 | [257855-the-oni-taiji-mezase-nidaime-momotarou.json](./257855-the-oni-taiji-mezase-nidaime-momotarou.json) |
 | The Onion Knights: Definitive Edition | 29300 | [29300-the-onion-knights-definitive-edition.json](./29300-the-onion-knights-definitive-edition.json) |
 | The Only Droid | 403632 | [403632-the-only-droid.json](./403632-the-only-droid.json) |
+| The Only One | 128872 | [128872-the-only-one.json](./128872-the-only-one.json) |
 | The Only One Girl 1stQ | 184049 | [184049-the-only-one-girl-1stq.json](./184049-the-only-one-girl-1stq.json) |
 | The Only Survivor: Open world | 231887 | [231887-the-only-survivor-open-world.json](./231887-the-only-survivor-open-world.json) |
 | The Only Wise | 157977 | [157977-the-only-wise.json](./157977-the-only-wise.json) |
@@ -15734,6 +15737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas and the Magic Railroad Print Studio | 225521 | [225521-thomas-and-the-magic-railroad-print-studio.json](./225521-thomas-and-the-magic-railroad-print-studio.json) |
 | Thomas M. Disch's Amnesia | 50491 | [50491-thomas-m-dischs-amnesia.json](./50491-thomas-m-dischs-amnesia.json) |
 | Thomas Scott | 143927 | [143927-thomas-scott.json](./143927-thomas-scott.json) |
+| Thomas the Tank Engine & Friends | 128845 | [128845-thomas-the-tank-engine-and-friends.json](./128845-thomas-the-tank-engine-and-friends.json) |
 | Thomas the Tank Engine & Friends | 284218 | [284218-thomas-the-tank-engine-and-friends.json](./284218-thomas-the-tank-engine-and-friends.json) |
 | Thomas the Tank Engine & Friends | 289757 | [289757-thomas-the-tank-engine-and-friends.json](./289757-thomas-the-tank-engine-and-friends.json) |
 | Thomas The Tank Engine & Friends | 261192 | [261192-thomas-the-tank-engine-and-friends.json](./261192-thomas-the-tank-engine-and-friends.json) |
@@ -24784,6 +24788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truckzilla: Monster Truck Mega Ramp Mania | 269051 | [269051-truckzilla-monster-truck-mega-ramp-mania.json](./269051-truckzilla-monster-truck-mega-ramp-mania.json) |
 | Truco | 193408 | [193408-truco.json](./193408-truco.json) |
 | Truco | 212888 | [212888-truco.json](./212888-truco.json) |
+| Truco '96 | 128865 | [128865-truco-96.json](./128865-truco-96.json) |
 | Truco Argentino | 410311 | [410311-truco-argentino.json](./410311-truco-argentino.json) |
 | Truco Bar | 405049 | [405049-truco-bar.json](./405049-truco-bar.json) |
 | Truco Blyts | 351735 | [351735-truco-blyts.json](./351735-truco-blyts.json) |
