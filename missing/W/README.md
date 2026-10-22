@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfront Defenders: Westerplatte | 54723 | [54723-warfront-defenders-westerplatte.json](./54723-warfront-defenders-westerplatte.json) |
 | Warfront Nations | 361299 | [361299-warfront-nations.json](./361299-warfront-nations.json) |
 | Warfront Tactics: Battlefield Chronicles Battle Simulator | 304271 | [304271-warfront-tactics-battlefield-chronicles-battle-simulator.json](./304271-warfront-tactics-battlefield-chronicles-battle-simulator.json) |
+| Warfronts: Battle For Toria! | 153776 | [153776-warfronts-battle-for-toria.json](./153776-warfronts-battle-for-toria.json) |
 | Wargame Construction Set | 37158 | [37158-wargame-construction-set.json](./37158-wargame-construction-set.json) |
 | Wargame Construction Set Pack | 278721 | [278721-wargame-construction-set-pack.json](./278721-wargame-construction-set-pack.json) |
 | Wargame: AirLand Battle - Magna Carta | 170747 | [170747-wargame-airland-battle-magna-carta.json](./170747-wargame-airland-battle-magna-carta.json) |
@@ -3187,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Vikings Attack! | 9123 | [9123-when-vikings-attack.json](./9123-when-vikings-attack.json) |
 | When Wardens Fall | 99023 | [99023-when-wardens-fall.json](./99023-when-wardens-fall.json) |
 | When We Arrive | 390795 | [390795-when-we-arrive.json](./390795-when-we-arrive.json) |
+| When We First Met | 153774 | [153774-when-we-first-met.json](./153774-when-we-first-met.json) |
 | When We Lost | 215650 | [215650-when-we-lost.json](./215650-when-we-lost.json) |
 | When Will I Get Home? | 408982 | [408982-when-will-i-get-home.json](./408982-when-will-i-get-home.json) |
 | When Yanderes Cry | 124657 | [124657-when-yanderes-cry.json](./124657-when-yanderes-cry.json) |
@@ -7079,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Write 'n' Fight | 160204 | [160204-write-n-fight.json](./160204-write-n-fight.json) |
 | Write Emails At Work | 394102 | [394102-write-emails-at-work.json](./394102-write-emails-at-work.json) |
 | Write Warz | 297755 | [297755-write-warz.json](./297755-write-warz.json) |
+| Write'n'Slash | 153769 | [153769-writenslash.json](./153769-writenslash.json) |
 | WriteNor | 381389 | [381389-writenor.json](./381389-writenor.json) |
 | Writer Rumble | 92514 | [92514-writer-rumble.json](./92514-writer-rumble.json) |
 | Writer Tycoon | 346580 | [346580-writer-tycoon.json](./346580-writer-tycoon.json) |
