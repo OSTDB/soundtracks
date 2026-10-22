@@ -5124,6 +5124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonu | 292378 | [292378-nonu.json](./292378-nonu.json) |
 | Noob Squad | 32242 | [32242-noob-squad.json](./32242-noob-squad.json) |
 | Noob: Les Sans-Factions - Limited Edition | 242937 | [242937-noob-les-sans-factions-limited-edition.json](./242937-noob-les-sans-factions-limited-edition.json) |
+| Noob: The Factionless | 130564 | [130564-noob-the-factionless.json](./130564-noob-the-factionless.json) |
 | Noob's Room | 383574 | [383574-noobs-room.json](./383574-noobs-room.json) |
 | Noobow | 62598 | [62598-noobow.json](./62598-noobow.json) |
 | Noobs Are Coming | 332387 | [332387-noobs-are-coming.json](./332387-noobs-are-coming.json) |
