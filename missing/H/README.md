@@ -6103,6 +6103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikeback | 176492 | [176492-hikeback.json](./176492-hikeback.json) |
 | Hikensha | 229694 | [229694-hikensha.json](./229694-hikensha.json) |
 | Hiker: Heropack Creed | 257805 | [257805-hiker-heropack-creed.json](./257805-hiker-heropack-creed.json) |
+| Hikeshi: Fireman | 148801 | [148801-hikeshi-fireman.json](./148801-hikeshi-fireman.json) |
 | Hikibyou 2 | 29605 | [29605-hikibyou-2.json](./29605-hikibyou-2.json) |
 | Hikibyou2 | 273923 | [273923-hikibyou2.json](./273923-hikibyou2.json) |
 | HikiDama | 335358 | [335358-hikidama.json](./335358-hikidama.json) |
