@@ -2034,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode World Senyou Card: Sukezaemon | 329742 | [329742-barcode-world-senyou-card-sukezaemon.json](./329742-barcode-world-senyou-card-sukezaemon.json) |
 | Barcode World Senyou Card: Vinyl no Katana | 329747 | [329747-barcode-world-senyou-card-vinyl-no-katana.json](./329747-barcode-world-senyou-card-vinyl-no-katana.json) |
 | Barcode World Senyou Card: Yumetaro & Ohagi (Gimmick) | 329741 | [329741-barcode-world-senyou-card-yumetaro-and-ohagi-gimmick.json](./329741-barcode-world-senyou-card-yumetaro-and-ohagi-gimmick.json) |
+| Bard Harder! | 144164 | [144164-bard-harder.json](./144164-bard-harder.json) |
 | Bard to the Future | 36094 | [36094-bard-to-the-future.json](./36094-bard-to-the-future.json) |
 | Bard: Keep the Story Alive | 178974 | [178974-bard-keep-the-story-alive.json](./178974-bard-keep-the-story-alive.json) |
 | Bard's Gold: Complete Edition | 214520 | [214520-bards-gold-complete-edition.json](./214520-bards-gold-complete-edition.json) |
