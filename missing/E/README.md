@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Dead: Under a Uranium Sky | 150597 | [150597-edge-of-dead-under-a-uranium-sky.json](./150597-edge-of-dead-under-a-uranium-sky.json) |
 | Edge of Destruction | 390741 | [390741-edge-of-destruction.json](./390741-edge-of-destruction.json) |
 | Edge Of Dread | 388723 | [388723-edge-of-dread.json](./388723-edge-of-dread.json) |
+| Edge of Dreams | 137862 | [137862-edge-of-dreams.json](./137862-edge-of-dreams.json) |
 | Edge of Elsewhere | 168661 | [168661-edge-of-elsewhere.json](./168661-edge-of-elsewhere.json) |
 | Edge of Endless | 302091 | [302091-edge-of-endless.json](./302091-edge-of-endless.json) |
 | Edge of Extinction | 349323 | [349323-edge-of-extinction.json](./349323-edge-of-extinction.json) |
@@ -2922,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Summer: Book 2 | 313748 | [313748-endless-summer-book-2.json](./313748-endless-summer-book-2.json) |
 | Endless Summer: Book 3 | 313749 | [313749-endless-summer-book-3.json](./313749-endless-summer-book-3.json) |
 | Endless Surf | 187827 | [187827-endless-surf.json](./187827-endless-surf.json) |
+| Endless Survival | 137856 | [137856-endless-survival.json](./137856-endless-survival.json) |
 | Endless Swarm | 70626 | [70626-endless-swarm.json](./70626-endless-swarm.json) |
 | Endless Tactics | 292379 | [292379-endless-tactics.json](./292379-endless-tactics.json) |
 | Endless Thief: a Furry Stealth Adventure | 201567 | [201567-endless-thief-a-furry-stealth-adventure.json](./201567-endless-thief-a-furry-stealth-adventure.json) |
