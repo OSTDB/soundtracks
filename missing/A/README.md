@@ -603,7 +603,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mask's Tale | 306997 | [306997-a-masks-tale.json](./306997-a-masks-tale.json) |
 | A Mass of Dead | 16924 | [16924-a-mass-of-dead.json](./16924-a-mass-of-dead.json) |
 | A Match Made In Hell | 402863 | [402863-a-match-made-in-hell.json](./402863-a-match-made-in-hell.json) |
+| A Matter of Caos: Episode 1 | 102001 | [102001-a-matter-of-caos-episode-1.json](./102001-a-matter-of-caos-episode-1.json) |
 | A Matter of Caos: Episode 2 | 101990 | [101990-a-matter-of-caos-episode-2.json](./101990-a-matter-of-caos-episode-2.json) |
+| A Matter of Caos: Episode 3 | 101922 | [101922-a-matter-of-caos-episode-3.json](./101922-a-matter-of-caos-episode-3.json) |
+| A Matter of Caos: Episode 4 | 101913 | [101913-a-matter-of-caos-episode-4.json](./101913-a-matter-of-caos-episode-4.json) |
 | A Matter of Murder | 26887 | [26887-a-matter-of-murder.json](./26887-a-matter-of-murder.json) |
 | A Matter of Principle | 226218 | [226218-a-matter-of-principle.json](./226218-a-matter-of-principle.json) |
 | A Matter of Time | 153414 | [153414-a-matter-of-time.json](./153414-a-matter-of-time.json) |
@@ -936,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Strange City | 148280 | [148280-a-strange-city.json](./148280-a-strange-city.json) |
 | A Strange Hotel | 153773 | [153773-a-strange-hotel.json](./153773-a-strange-hotel.json) |
 | A Street Cat's Tale 2: Out side is Dangerous | 250774 | [250774-a-street-cats-tale-2-out-side-is-dangerous.json](./250774-a-street-cats-tale-2-out-side-is-dangerous.json) |
+| A Stroll in Space | 102026 | [102026-a-stroll-in-space.json](./102026-a-stroll-in-space.json) |
 | A Study in Blue | 386249 | [386249-a-study-in-blue.json](./386249-a-study-in-blue.json) |
 | A Study in Steampunk: Choice by Gaslight | 34030 | [34030-a-study-in-steampunk-choice-by-gaslight.json](./34030-a-study-in-steampunk-choice-by-gaslight.json) |
 | A Stupid Game About Pouring Drinks for the P.T.A. | 387502 | [387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json](./387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json) |
@@ -13437,6 +13441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto X | 246311 | [246311-auto-x.json](./246311-auto-x.json) |
 | Auto-Crisis | 330022 | [330022-auto-crisis.json](./330022-auto-crisis.json) |
 | Auto-Miner | 183795 | [183795-auto-miner.json](./183795-auto-miner.json) |
+| Auto-Smash! | 102012 | [102012-auto-smash.json](./102012-auto-smash.json) |
 | Auto-Staccato | 81087 | [81087-auto-staccato.json](./81087-auto-staccato.json) |
 | Auto-Upturn | 48692 | [48692-auto-upturn.json](./48692-auto-upturn.json) |
 | Autobahn Chaos | 179138 | [179138-autobahn-chaos.json](./179138-autobahn-chaos.json) |
