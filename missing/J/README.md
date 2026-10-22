@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jar Head Cauldron | 333633 | [333633-jar-head-cauldron.json](./333633-jar-head-cauldron.json) |
 | Jardin | 186163 | [186163-jardin.json](./186163-jardin.json) |
 | Jardinains 2! | 91259 | [91259-jardinains-2.json](./91259-jardinains-2.json) |
+| Jardinains! | 145340 | [145340-jardinains.json](./145340-jardinains.json) |
 | Jargon | 390629 | [390629-jargon.json](./390629-jargon.json) |
 | Jarheads | 55510 | [55510-jarheads.json](./55510-jarheads.json) |
 | Jarinko Chie | 346029 | [346029-jarinko-chie.json](./346029-jarinko-chie.json) |
@@ -1363,6 +1364,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Pets | 283274 | [283274-jigsaw-pets.json](./283274-jigsaw-pets.json) |
 | Jigsaw Pieces 3: Fantasy | 163009 | [163009-jigsaw-pieces-3-fantasy.json](./163009-jigsaw-pieces-3-fantasy.json) |
 | Jigsaw Pieces: Romance | 162999 | [162999-jigsaw-pieces-romance.json](./162999-jigsaw-pieces-romance.json) |
+| Jigsaw Pieces: Sweet Times | 145364 | [145364-jigsaw-pieces-sweet-times.json](./145364-jigsaw-pieces-sweet-times.json) |
+| Jigsaw Pieces: Valentine's Day | 145365 | [145365-jigsaw-pieces-valentines-day.json](./145365-jigsaw-pieces-valentines-day.json) |
 | Jigsaw Pink | 248440 | [248440-jigsaw-pink.json](./248440-jigsaw-pink.json) |
 | JigSaw Preschool Puzzles | 97145 | [97145-jigsaw-preschool-puzzles.json](./97145-jigsaw-preschool-puzzles.json) |
 | Jigsaw Puzzle | 294556 | [294556-jigsaw-puzzle.json](./294556-jigsaw-puzzle.json) |
