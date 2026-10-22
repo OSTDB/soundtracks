@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La makinita | 182879 | [182879-la-makinita.json](./182879-la-makinita.json) |
 | La Malédiction | 275086 | [275086-la-malediction.json](./275086-la-malediction.json) |
 | La Maledizione dell'Uccello Serpente | 191225 | [191225-la-maledizione-delluccello-serpente.json](./191225-la-maledizione-delluccello-serpente.json) |
+| La Maleta | 153766 | [153766-la-maleta.json](./153766-la-maleta.json) |
 | La Mansion Hoover | 323328 | [323328-la-mansion-hoover.json](./323328-la-mansion-hoover.json) |
 | La Mémoire | 126928 | [126928-la-memoire.json](./126928-la-memoire.json) |
 | La Mina | 252994 | [252994-la-mina.json](./252994-la-mina.json) |
@@ -2447,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Juniors Create & Cruise | 105878 | [105878-lego-juniors-create-and-cruise.json](./105878-lego-juniors-create-and-cruise.json) |
 | LEGO Jurassic World | 9918 | [9918-lego-jurassic-world.json](./9918-lego-jurassic-world.json) |
 | LEGO Lord of the Rings: Elrond Edition | 89924 | [89924-lego-lord-of-the-rings-elrond-edition.json](./89924-lego-lord-of-the-rings-elrond-edition.json) |
+| LEGO Mars Mission: CrystAlien Conflict | 153692 | [153692-lego-mars-mission-crystalien-conflict.json](./153692-lego-mars-mission-crystalien-conflict.json) |
 | LEGO Marvel Collection | 115019 | [115019-lego-marvel-collection.json](./115019-lego-marvel-collection.json) |
 | LEGO Marvel Super Heroes 2 | 28815 | [28815-lego-marvel-super-heroes-2.json](./28815-lego-marvel-super-heroes-2.json) |
 | LEGO Marvel Super Heroes 2: Agents of Atlas Character Pack | 168785 | [168785-lego-marvel-super-heroes-2-agents-of-atlas-character-pack.json](./168785-lego-marvel-super-heroes-2-agents-of-atlas-character-pack.json) |
@@ -3112,6 +3114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letters From Nowhere | 54165 | [54165-letters-from-nowhere.json](./54165-letters-from-nowhere.json) |
 | Letters From Nowhere 2 | 54164 | [54164-letters-from-nowhere-2.json](./54164-letters-from-nowhere-2.json) |
 | Letters from the War | 340916 | [340916-letters-from-the-war.json](./340916-letters-from-the-war.json) |
+| Letters Long Lost | 153762 | [153762-letters-long-lost.json](./153762-letters-long-lost.json) |
 | Letters of Art | 384324 | [384324-letters-of-art.json](./384324-letters-of-art.json) |
 | Letters of Bernard Thorne | 337466 | [337466-letters-of-bernard-thorne.json](./337466-letters-of-bernard-thorne.json) |
 | Letters of Longing | 346619 | [346619-letters-of-longing.json](./346619-letters-of-longing.json) |
