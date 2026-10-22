@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T.R.A.G.: Tactical Rescue Assault Group - Mission of Mercy | 76599 | [76599-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./76599-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
 | T.W. Burgess Presents: Pylons | 169877 | [169877-t-w-burgess-presents-pylons.json](./169877-t-w-burgess-presents-pylons.json) |
 | T.W.I.R.L. | 399150 | [399150-t-w-i-r-l.json](./399150-t-w-i-r-l.json) |
+| T'Was a Time of Dread | 122639 | [122639-twas-a-time-of-dread.json](./122639-twas-a-time-of-dread.json) |
 | T^2.5 | 169731 | [169731-t-2-5.json](./169731-t-2-5.json) |
 | T10X Car Simulator | 256718 | [256718-t10x-car-simulator.json](./256718-t10x-car-simulator.json) |
 | T1wre3: Noname | 329161 | [329161-t1wre3-noname.json](./329161-t1wre3-noname.json) |
@@ -3579,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrapets | 140467 | [140467-terrapets.json](./140467-terrapets.json) |
 | Terrapins | 185141 | [185141-terrapins.json](./185141-terrapins.json) |
 | TerrApocalipse | 370857 | [370857-terrapocalipse.json](./370857-terrapocalipse.json) |
+| TerraRealms: The Discovery - Episode I | 122732 | [122732-terrarealms-the-discovery-episode-i.json](./122732-terrarealms-the-discovery-episode-i.json) |
 | Terraria 2 | 3021 | [3021-terraria-2.json](./3021-terraria-2.json) |
 | Terraria: Bigger and Boulder | 386978 | [386978-terraria-bigger-and-boulder.json](./386978-terraria-bigger-and-boulder.json) |
 | Terraria: Calamity Mod | 141229 | [141229-terraria-calamity-mod.json](./141229-terraria-calamity-mod.json) |
@@ -6680,6 +6682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Duel | 270577 | [270577-the-duel.json](./270577-the-duel.json) |
 | The Duel: Reloaded | 124668 | [124668-the-duel-reloaded.json](./124668-the-duel-reloaded.json) |
 | The Duel: Test Drive II | 2201 | [2201-the-duel-test-drive-ii.json](./2201-the-duel-test-drive-ii.json) |
+| The Dukes of Hazzard | 122629 | [122629-the-dukes-of-hazzard.json](./122629-the-dukes-of-hazzard.json) |
 | The Dukes of Hazzard | 24137 | [24137-the-dukes-of-hazzard.json](./24137-the-dukes-of-hazzard.json) |
 | The Dukes of Hazzard: Racing for Home | 144950 | [144950-the-dukes-of-hazzard-racing-for-home.json](./144950-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Racing for Home | 49889 | [49889-the-dukes-of-hazzard-racing-for-home.json](./49889-the-dukes-of-hazzard-racing-for-home.json) |
@@ -24680,6 +24683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble Travel TT | 114843 | [114843-trouble-travel-tt.json](./114843-trouble-travel-tt.json) |
 | Trouble Witches Episode 1 Daughters of Amalgam | 381300 | [381300-trouble-witches-episode-1-daughters-of-amalgam.json](./381300-trouble-witches-episode-1-daughters-of-amalgam.json) |
 | Trouble Witches Final!: Cotton & Silk DLC | 357025 | [357025-trouble-witches-final-cotton-and-silk-dlc.json](./357025-trouble-witches-final-cotton-and-silk-dlc.json) |
+| Trouble With Trolls | 122638 | [122638-trouble-with-trolls.json](./122638-trouble-with-trolls.json) |
 | Trouble Zone | 92403 | [92403-trouble-zone.json](./92403-trouble-zone.json) |
 | Troubled Passage | 211599 | [211599-troubled-passage.json](./211599-troubled-passage.json) |
 | Troubled Waters | 187221 | [187221-troubled-waters.json](./187221-troubled-waters.json) |
