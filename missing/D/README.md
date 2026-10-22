@@ -1432,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Shiny | 115754 | [115754-dark-shiny.json](./115754-dark-shiny.json) |
 | Dark Shrine | 230916 | [230916-dark-shrine.json](./230916-dark-shrine.json) |
 | Dark Side | 12053 | [12053-dark-side.json](./12053-dark-side.json) |
+| Dark Side | 132478 | [132478-dark-side.json](./132478-dark-side.json) |
 | Dark Side of Fate | 155083 | [155083-dark-side-of-fate.json](./155083-dark-side-of-fate.json) |
 | Dark Side of the Moon: A Sci-Fi Adventure | 68744 | [68744-dark-side-of-the-moon-a-sci-fi-adventure.json](./68744-dark-side-of-the-moon-a-sci-fi-adventure.json) |
 | Dark Side of War | 150599 | [150599-dark-side-of-war.json](./150599-dark-side-of-war.json) |
@@ -10691,6 +10692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoudingMan | 264015 | [264015-doudingman.json](./264015-doudingman.json) |
 | DoudingMan: Expansion Packs | 288899 | [288899-doudingman-expansion-packs.json](./288899-doudingman-expansion-packs.json) |
 | Dòudìzhǔ VR | 89423 | [89423-doudizhu-vr.json](./89423-doudizhu-vr.json) |
+| Doudy | 132467 | [132467-doudy.json](./132467-doudy.json) |
 | Doug | 198731 | [198731-doug.json](./198731-doug.json) |
 | Doug From Accounting | 179888 | [179888-doug-from-accounting.json](./179888-doug-from-accounting.json) |
 | Doug Hates His Job | 135606 | [135606-doug-hates-his-job.json](./135606-doug-hates-his-job.json) |
