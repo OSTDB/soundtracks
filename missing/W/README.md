@@ -2684,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to... Chichester 2: Part II - No Extra Regrets For the Future | 170400 | [170400-welcome-to-chichester-2-part-ii-no-extra-regrets-for-the-future.json](./170400-welcome-to-chichester-2-part-ii-no-extra-regrets-for-the-future.json) |
 | Welcome To... Chichester 2: Part III - NightFall | 130712 | [130712-welcome-to-chichester-2-part-iii-nightfall.json](./130712-welcome-to-chichester-2-part-iii-nightfall.json) |
 | Welcome To... Chichester 3: Original Episode | 169960 | [169960-welcome-to-chichester-3-original-episode.json](./169960-welcome-to-chichester-3-original-episode.json) |
+| Welcome To... Chichester OVN : The Beach | 118033 | [118033-welcome-to-chichester-ovn-the-beach.json](./118033-welcome-to-chichester-ovn-the-beach.json) |
 | Welcome To... Chichester OVN 2 : Master Tormenter Grendel Jinx !? | 123961 | [123961-welcome-to-chichester-ovn-2-master-tormenter-grendel-jinx.json](./123961-welcome-to-chichester-ovn-2-master-tormenter-grendel-jinx.json) |
 | Welcome To... Chichester OVN: Omnibus Edition | 248334 | [248334-welcome-to-chichester-ovn-omnibus-edition.json](./248334-welcome-to-chichester-ovn-omnibus-edition.json) |
 | Welcome To... Chichester: The Spy of America and the Long Vacation | 180082 | [180082-welcome-to-chichester-the-spy-of-america-and-the-long-vacation.json](./180082-welcome-to-chichester-the-spy-of-america-and-the-long-vacation.json) |
@@ -3157,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelie City | 338378 | [338378-wheelie-city.json](./338378-wheelie-city.json) |
 | Wheelie King 3D | 104656 | [104656-wheelie-king-3d.json](./104656-wheelie-king-3d.json) |
 | Wheelie King 7 | 338377 | [338377-wheelie-king-7.json](./338377-wheelie-king-7.json) |
+| Wheelie King VR | 118035 | [118035-wheelie-king-vr.json](./118035-wheelie-king-vr.json) |
 | Wheelie Life | 249720 | [249720-wheelie-life.json](./249720-wheelie-life.json) |
 | Wheelie Life Simulator | 396226 | [396226-wheelie-life-simulator.json](./396226-wheelie-life-simulator.json) |
 | Wheelie Rider 3D | 106658 | [106658-wheelie-rider-3d.json](./106658-wheelie-rider-3d.json) |
@@ -5082,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches' Legacy: Lair of the Witch Queen - Collector's Edition | 110374 | [110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json](./110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json) |
 | Witches' Legacy: Lair of the Witch Queen & Witches' Legacy: Hunter and the Hunted | 201072 | [201072-witches-legacy-lair-of-the-witch-queen-and-witches-legacy-hunter-and-the-hunted.json](./201072-witches-legacy-lair-of-the-witch-queen-and-witches-legacy-hunter-and-the-hunted.json) |
 | Witches' Legacy: Slumbering Darkness - Collector's Edition | 29618 | [29618-witches-legacy-slumbering-darkness-collectors-edition.json](./29618-witches-legacy-slumbering-darkness-collectors-edition.json) |
+| Witches' Legacy: The Charleston Curse - Collector's Edition | 118036 | [118036-witches-legacy-the-charleston-curse-collectors-edition.json](./118036-witches-legacy-the-charleston-curse-collectors-edition.json) |
 | Witches' Legacy: The City That Isn't There | 415976 | [415976-witches-legacy-the-city-that-isnt-there.json](./415976-witches-legacy-the-city-that-isnt-there.json) |
 | Witches' Legacy: The Dark Throne - Collector's Edition | 55781 | [55781-witches-legacy-the-dark-throne-collectors-edition.json](./55781-witches-legacy-the-dark-throne-collectors-edition.json) |
 | Witches' Legacy: The Dark Throne HD | 89120 | [89120-witches-legacy-the-dark-throne-hd.json](./89120-witches-legacy-the-dark-throne-hd.json) |
