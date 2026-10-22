@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maestro Mario | 328592 | [328592-maestro-mario.json](./328592-maestro-mario.json) |
 | Maestro VR | 174017 | [174017-maestro-vr.json](./174017-maestro-vr.json) |
 | Maestro: Attack on Titan | 414808 | [414808-maestro-attack-on-titan.json](./414808-maestro-attack-on-titan.json) |
+| Maestro: Dark Talent - Collector's Edition | 114065 | [114065-maestro-dark-talent-collectors-edition.json](./114065-maestro-dark-talent-collectors-edition.json) |
 | Maestro: Duel of the Fates | 344161 | [344161-maestro-duel-of-the-fates.json](./344161-maestro-duel-of-the-fates.json) |
 | Maestro: Music from the Void - Collector's Edition | 104804 | [104804-maestro-music-from-the-void-collectors-edition.json](./104804-maestro-music-from-the-void-collectors-edition.json) |
 | Maestro: Music of Death - Collector's Edition | 37012 | [37012-maestro-music-of-death-collectors-edition.json](./37012-maestro-music-of-death-collectors-edition.json) |
