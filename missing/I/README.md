@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ID4 Mission Disk 2: Alien Science Officer | 78005 | [78005-id4-mission-disk-2-alien-science-officer.json](./78005-id4-mission-disk-2-alien-science-officer.json) |
 | iDate Reborn | 384190 | [384190-idate-reborn.json](./384190-idate-reborn.json) |
 | iDate: ReVibe | 393418 | [393418-idate-revibe.json](./393418-idate-revibe.json) |
+| Idaten Jump DS: Moero! Flame Kaiser | 124504 | [124504-idaten-jump-ds-moero-flame-kaiser.json](./124504-idaten-jump-ds-moero-flame-kaiser.json) |
 | Ide do szkoly | 318487 | [318487-ide-do-szkoly.json](./318487-ide-do-szkoly.json) |
 | Ide Yosuke no Mahjong Kazoku 2 | 319695 | [319695-ide-yosuke-no-mahjong-kazoku-2.json](./319695-ide-yosuke-no-mahjong-kazoku-2.json) |
 | Ide Yosuke no Mahjong Kyoushitsu GB | 65243 | [65243-ide-yosuke-no-mahjong-kyoushitsu-gb.json](./65243-ide-yosuke-no-mahjong-kyoushitsu-gb.json) |
@@ -4339,6 +4340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Investment Hero | 130579 | [130579-investment-hero.json](./130579-investment-hero.json) |
 | Investment Run | 319166 | [319166-investment-run.json](./319166-investment-run.json) |
 | Investour | 367050 | [367050-investour.json](./367050-investour.json) |
+| Invictus | 124489 | [124489-invictus.json](./124489-invictus.json) |
 | Invictus: In the Shadow of Olympus | 24126 | [24126-invictus-in-the-shadow-of-olympus.json](./24126-invictus-in-the-shadow-of-olympus.json) |
 | Invincible Cleopatra: Caesar's Dreams | 164946 | [164946-invincible-cleopatra-caesars-dreams.json](./164946-invincible-cleopatra-caesars-dreams.json) |
 | Invincible Fighter | 193965 | [193965-invincible-fighter.json](./193965-invincible-fighter.json) |
