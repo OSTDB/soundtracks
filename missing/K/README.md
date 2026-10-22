@@ -4232,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korokoro | 338756 | [338756-korokoro.json](./338756-korokoro.json) |
 | Korokoro Post Nin | 92677 | [92677-korokoro-post-nin.json](./92677-korokoro-post-nin.json) |
 | Korolevskaya Noch | 327667 | [327667-korolevskaya-noch.json](./327667-korolevskaya-noch.json) |
+| Korona:Nemesis | 121281 | [121281-korona-nemesis.json](./121281-korona-nemesis.json) |
 | KoroNeko | 262856 | [262856-koroneko.json](./262856-koroneko.json) |
 | Koropokkur in Love: A Little Fairy's Tale | 107769 | [107769-koropokkur-in-love-a-little-fairys-tale.json](./107769-koropokkur-in-love-a-little-fairys-tale.json) |
 | Kororinpa: Marble Mania | 50610 | [50610-kororinpa-marble-mania.json](./50610-kororinpa-marble-mania.json) |
