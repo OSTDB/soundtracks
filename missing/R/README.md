@@ -8117,6 +8117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll the TP | 328677 | [328677-roll-the-tp.json](./328677-roll-the-tp.json) |
 | Roll the World | 137347 | [137347-roll-the-world.json](./137347-roll-the-world.json) |
 | Roll to Ruin | 418256 | [418256-roll-to-ruin.json](./418256-roll-to-ruin.json) |
+| Roll to the Top | 108194 | [108194-roll-to-the-top.json](./108194-roll-to-the-top.json) |
 | Roll Turtle | 208577 | [208577-roll-turtle.json](./208577-roll-turtle.json) |
 | Roll-o-Rama | 185883 | [185883-roll-o-rama.json](./185883-roll-o-rama.json) |
 | Roll, Die, Go Home | 182725 | [182725-roll-die-go-home.json](./182725-roll-die-go-home.json) |
@@ -8151,6 +8152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Coaster Mania 2 | 54327 | [54327-roller-coaster-mania-2.json](./54327-roller-coaster-mania-2.json) |
 | Roller Coaster Mania 3 | 54328 | [54328-roller-coaster-mania-3.json](./54328-roller-coaster-mania-3.json) |
 | Roller Coaster Rampage | 16359 | [16359-roller-coaster-rampage.json](./16359-roller-coaster-rampage.json) |
+| Roller Coaster: Amazing Island Visit | 108210 | [108210-roller-coaster-amazing-island-visit.json](./108210-roller-coaster-amazing-island-visit.json) |
 | Roller Crash | 114722 | [114722-roller-crash.json](./114722-roller-crash.json) |
 | Roller Drama | 143895 | [143895-roller-drama.json](./143895-roller-drama.json) |
 | Roller Jammer | 40420 | [40420-roller-jammer.json](./40420-roller-jammer.json) |
@@ -9681,6 +9683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run!!! | 87729 | [87729-run.json](./87729-run.json) |
 | Run!ZombieFoods! | 51425 | [51425-run-zombiefoods.json](./51425-run-zombiefoods.json) |
 | Run'N'Get | 109884 | [109884-runnget.json](./109884-runnget.json) |
+| Run&Brake - Animal Escape | 108195 | [108195-run-and-brake-animal-escape.json](./108195-run-and-brake-animal-escape.json) |
 | Run4YourLight | 203761 | [203761-run4yourlight.json](./203761-run4yourlight.json) |
 | Runa | 129162 | [129162-runa.json](./129162-runa.json) |
 | Runa | 295171 | [295171-runa.json](./295171-runa.json) |
