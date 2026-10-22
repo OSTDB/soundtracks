@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qasir al-Wasat: International Edition | 36327 | [36327-qasir-al-wasat-international-edition.json](./36327-qasir-al-wasat-international-edition.json) |
 | QatQi | 265844 | [265844-qatqi.json](./265844-qatqi.json) |
 | Qavo | 135031 | [135031-qavo.json](./135031-qavo.json) |
+| Qb | 100040 | [100040-qb.json](./100040-qb.json) |
 | Qb | 54827 | [54827-qb.json](./54827-qb.json) |
 | QB - a cube's tale | 96911 | [96911-qb-a-cubes-tale.json](./96911-qb-a-cubes-tale.json) |
 | QB Debugger Hero | 384786 | [384786-qb-debugger-hero.json](./384786-qb-debugger-hero.json) |
