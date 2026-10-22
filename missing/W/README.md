@@ -1773,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasted Glory | 276479 | [276479-wasted-glory.json](./276479-wasted-glory.json) |
 | Wasted Pizza | 68594 | [68594-wasted-pizza.json](./68594-wasted-pizza.json) |
 | WastedRoad Reapers | 336673 | [336673-wastedroad-reapers.json](./336673-wastedroad-reapers.json) |
+| Wastehaven | 152719 | [152719-wastehaven.json](./152719-wastehaven.json) |
 | Wastelan Wars | 242513 | [242513-wastelan-wars.json](./242513-wastelan-wars.json) |
 | Wasteland 2: Director's Cut | 20046 | [20046-wasteland-2-directors-cut.json](./20046-wasteland-2-directors-cut.json) |
 | Wasteland 2: Director's Cut - Digital Deluxe Edition | 53134 | [53134-wasteland-2-directors-cut-digital-deluxe-edition.json](./53134-wasteland-2-directors-cut-digital-deluxe-edition.json) |
@@ -6212,6 +6213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Empire IV | 73753 | [73753-world-empire-iv.json](./73753-world-empire-iv.json) |
 | World End | 40746 | [40746-world-end.json](./40746-world-end.json) |
 | World End Coed | 159763 | [159763-world-end-coed.json](./159763-world-end-coed.json) |
+| World End Diner | 152715 | [152715-world-end-diner.json](./152715-world-end-diner.json) |
 | World End Economica | 23438 | [23438-world-end-economica.json](./23438-world-end-economica.json) |
 | World End Economica: Episode.03 | 31319 | [31319-world-end-economica-episode-03.json](./31319-world-end-economica-episode-03.json) |
 | World End Girlfriend | 207204 | [207204-world-end-girlfriend.json](./207204-world-end-girlfriend.json) |
@@ -7126,6 +7128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wteruna | 151461 | [151461-wteruna.json](./151461-wteruna.json) |
 | WTF | 99778 | [99778-wtf.json](./99778-wtf.json) |
 | WTF Do You Know? | 197137 | [197137-wtf-do-you-know.json](./197137-wtf-do-you-know.json) |
+| WTF Is Wrong With You? | 152634 | [152634-wtf-is-wrong-with-you.json](./152634-wtf-is-wrong-with-you.json) |
 | WTF: Waifu Tactical Force | 244256 | [244256-wtf-waifu-tactical-force.json](./244256-wtf-waifu-tactical-force.json) |
 | WTF: Work Time Fun | 42853 | [42853-wtf-work-time-fun.json](./42853-wtf-work-time-fun.json) |
 | WTP Story 1 | 201696 | [201696-wtp-story-1.json](./201696-wtp-story-1.json) |
