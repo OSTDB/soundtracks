@@ -3273,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giga Pets: Oreo | 218049 | [218049-giga-pets-oreo.json](./218049-giga-pets-oreo.json) |
 | Giga Pudding: The Game | 328941 | [328941-giga-pudding-the-game.json](./328941-giga-pudding-the-game.json) |
 | Giga Wing 2 | 9163 | [9163-giga-wing-2.json](./9163-giga-wing-2.json) |
+| Giga Wrecker Alt.: Collector's Edition | 136895 | [136895-giga-wrecker-alt-collectors-edition.json](./136895-giga-wrecker-alt-collectors-edition.json) |
 | GigaBash: Final Ascension DLC | 404835 | [404835-gigabash-final-ascension-dlc.json](./404835-gigabash-final-ascension-dlc.json) |
 | GigaBash: GAMERA -Rebirth- DLC | 404834 | [404834-gigabash-gamera-rebirth-dlc.json](./404834-gigabash-gamera-rebirth-dlc.json) |
 | GigaBash: Godzilla - Nemesis DLC | 301437 | [301437-gigabash-godzilla-nemesis-dlc.json](./301437-gigabash-godzilla-nemesis-dlc.json) |
@@ -8358,6 +8359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Supreme Battle | 174903 | [174903-gundam-supreme-battle.json](./174903-gundam-supreme-battle.json) |
 | Gundam Tactics: Mobility Fleet 0079 | 289744 | [289744-gundam-tactics-mobility-fleet-0079.json](./289744-gundam-tactics-mobility-fleet-0079.json) |
 | Gundam Versus | 28287 | [28287-gundam-versus.json](./28287-gundam-versus.json) |
+| Gundam Versus: Premium G Sound Edition | 136696 | [136696-gundam-versus-premium-g-sound-edition.json](./136696-gundam-versus-premium-g-sound-edition.json) |
 | Gundam VR: Daiba Assault | 52001 | [52001-gundam-vr-daiba-assault.json](./52001-gundam-vr-daiba-assault.json) |
 | Gundam Wing: Wing Assault | 315085 | [315085-gundam-wing-wing-assault.json](./315085-gundam-wing-wing-assault.json) |
 | Gundam: Battle Assault | 45006 | [45006-gundam-battle-assault.json](./45006-gundam-battle-assault.json) |
