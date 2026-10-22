@@ -2519,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooter Space | 223919 | [223919-scooter-space.json](./223919-scooter-space.json) |
 | Scooter War3z | 72160 | [72160-scooter-war3z.json](./72160-scooter-war3z.json) |
 | Scooter's Magic Castle | 72173 | [72173-scooters-magic-castle.json](./72173-scooters-magic-castle.json) |
+| Scooty Shooty | 151429 | [151429-scooty-shooty.json](./151429-scooty-shooty.json) |
 | SCOP | 251085 | [251085-scop.json](./251085-scop.json) |
 | Scopa | 100012 | [100012-scopa.json](./100012-scopa.json) |
 | Scopaesthesia | 256720 | [256720-scopaesthesia.json](./256720-scopaesthesia.json) |
@@ -5033,6 +5034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGS Spain at War | 197187 | [197187-sgs-spain-at-war.json](./197187-sgs-spain-at-war.json) |
 | SGS Taipings | 230923 | [230923-sgs-taipings.json](./230923-sgs-taipings.json) |
 | SGS We The People | 388972 | [388972-sgs-we-the-people.json](./388972-sgs-we-the-people.json) |
+| SgyuinBaldo | 151436 | [151436-sgyuinbaldo.json](./151436-sgyuinbaldo.json) |
 | Sh*thead | 292748 | [292748-sh-thead.json](./292748-sh-thead.json) |
 | Sha Beast Dressage | 371269 | [371269-sha-beast-dressage.json](./371269-sha-beast-dressage.json) |
 | Shaark! | 175152 | [175152-shaark.json](./175152-shaark.json) |
@@ -11848,6 +11850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Steam Trail | 372132 | [372132-snow-steam-trail.json](./372132-snow-steam-trail.json) |
 | Snow Storm | 318774 | [318774-snow-storm.json](./318774-snow-storm.json) |
 | Snow Strike | 15372 | [15372-snow-strike.json](./15372-snow-strike.json) |
+| Snow Survival | 151518 | [151518-snow-survival.json](./151518-snow-survival.json) |
 | Snow Town - Ice Village World | 108477 | [108477-snow-town-ice-village-world.json](./108477-snow-town-ice-village-world.json) |
 | Snow Trial | 88125 | [88125-snow-trial.json](./88125-snow-trial.json) |
 | Snow Vale | 220599 | [220599-snow-vale.json](./220599-snow-vale.json) |
@@ -15696,6 +15699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceship Trouble | 166705 | [166705-spaceship-trouble.json](./166705-spaceship-trouble.json) |
 | Spaceshipment | 328302 | [328302-spaceshipment.json](./328302-spaceshipment.json) |
 | Spaceships | 189907 | [189907-spaceships.json](./189907-spaceships.json) |
+| SpaceShips | 151448 | [151448-spaceships.json](./151448-spaceships.json) |
 | SpaceShooter | 180654 | [180654-spaceshooter.json](./180654-spaceshooter.json) |
 | SpaceShooter | 413900 | [413900-spaceshooter.json](./413900-spaceshooter.json) |
 | Spaceslingers | 150489 | [150489-spaceslingers.json](./150489-spaceslingers.json) |
@@ -20407,6 +20411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellarons Superstars: Detectives of the Scarlet Horizons | 300838 | [300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json](./300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json) |
 | StellarPlans | 295334 | [295334-stellarplans.json](./295334-stellarplans.json) |
 | Stellarune | 272221 | [272221-stellarune.json](./272221-stellarune.json) |
+| StellaSpella | 151447 | [151447-stellaspella.json](./151447-stellaspella.json) |
 | Stellifier | 317018 | [317018-stellifier.json](./317018-stellifier.json) |
 | Stellights | 102102 | [102102-stellights.json](./102102-stellights.json) |
 | Stellinavra | 230155 | [230155-stellinavra.json](./230155-stellinavra.json) |
