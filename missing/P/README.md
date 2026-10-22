@@ -12051,6 +12051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Adam: AI Attack | 268322 | [268322-project-adam-ai-attack.json](./268322-project-adam-ai-attack.json) |
 | Project Adder | 266433 | [266433-project-adder.json](./266433-project-adder.json) |
 | Project Adventure Game: The Cycle of the Cave | 124578 | [124578-project-adventure-game-the-cycle-of-the-cave.json](./124578-project-adventure-game-the-cycle-of-the-cave.json) |
+| Project Adventurer | 137523 | [137523-project-adventurer.json](./137523-project-adventurer.json) |
 | Project Aeroes | 330342 | [330342-project-aeroes.json](./330342-project-aeroes.json) |
 | Project Aftershock | 94753 | [94753-project-aftershock.json](./94753-project-aftershock.json) |
 | Project Agora | 140326 | [140326-project-agora.json](./140326-project-agora.json) |
