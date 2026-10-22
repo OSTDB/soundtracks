@@ -1623,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paramnesia | 212123 | [212123-paramnesia.json](./212123-paramnesia.json) |
 | Paramnesia: Escape Together | 244489 | [244489-paramnesia-escape-together.json](./244489-paramnesia-escape-together.json) |
 | Paramon Clash | 105819 | [105819-paramon-clash.json](./105819-paramon-clash.json) |
+| ParaMonsters and the Haunted Escape Room | 153791 | [153791-paramonsters-and-the-haunted-escape-room.json](./153791-paramonsters-and-the-haunted-escape-room.json) |
 | Paramorfosi | 274369 | [274369-paramorfosi.json](./274369-paramorfosi.json) |
 | Paramount Hero | 212843 | [212843-paramount-hero.json](./212843-paramount-hero.json) |
 | Paranatural | 310763 | [310763-paranatural.json](./310763-paranatural.json) |
@@ -4264,6 +4265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Philosopher's Stone | 329047 | [329047-philosophers-stone.json](./329047-philosophers-stone.json) |
 | Philosophic Love | 105126 | [105126-philosophic-love.json](./105126-philosophic-love.json) |
 | Philosophical Jigsaw: The Zen Koans | 202647 | [202647-philosophical-jigsaw-the-zen-koans.json](./202647-philosophical-jigsaw-the-zen-koans.json) |
+| Philosophy Fantasy | 153765 | [153765-philosophy-fantasy.json](./153765-philosophy-fantasy.json) |
 | Philotes Trials | 244717 | [244717-philotes-trials.json](./244717-philotes-trials.json) |
 | Phineas & Ferb: Best Game Ever! | 220259 | [220259-phineas-and-ferb-best-game-ever.json](./220259-phineas-and-ferb-best-game-ever.json) |
 | Phineas & Ferb: Day of Doofensmirtz | 42667 | [42667-phineas-and-ferb-day-of-doofensmirtz.json](./42667-phineas-and-ferb-day-of-doofensmirtz.json) |
