@@ -4012,6 +4012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lillyann | 186186 | [186186-lillyann.json](./186186-lillyann.json) |
 | Lillybug | 227724 | [227724-lillybug.json](./227724-lillybug.json) |
 | Lillysia | 235695 | [235695-lillysia.json](./235695-lillysia.json) |
+| Lilo & Stitch Pinball | 107595 | [107595-lilo-and-stitch-pinball.json](./107595-lilo-and-stitch-pinball.json) |
 | Lilulu | 149412 | [149412-lilulu.json](./149412-lilulu.json) |
 | Lily | 112746 | [112746-lily.json](./112746-lily.json) |
 | Lily | 332883 | [332883-lily.json](./332883-lily.json) |
@@ -4165,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Dance Virtual | 139703 | [139703-line-dance-virtual.json](./139703-line-dance-virtual.json) |
 | Line Dots | 149205 | [149205-line-dots.json](./149205-line-dots.json) |
 | Line Drop: Spirit Catcher | 63134 | [63134-line-drop-spirit-catcher.json](./63134-line-drop-spirit-catcher.json) |
+| Line Flow - One Line Puzzle ! | 107570 | [107570-line-flow-one-line-puzzle.json](./107570-line-flow-one-line-puzzle.json) |
 | Line Fluffy Diver | 381908 | [381908-line-fluffy-diver.json](./381908-line-fluffy-diver.json) |
 | Line Forge BlackSmith | 402544 | [402544-line-forge-blacksmith.json](./402544-line-forge-blacksmith.json) |
 | Line GoGo! TwinBee | 282827 | [282827-line-gogo-twinbee.json](./282827-line-gogo-twinbee.json) |
@@ -4186,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Play | 202587 | [202587-line-play.json](./202587-line-play.json) |
 | Line Points: Challenge your coordination | 232055 | [232055-line-points-challenge-your-coordination.json](./232055-line-points-challenge-your-coordination.json) |
 | Line Puzzle de Inazuma Eleven | 61499 | [61499-line-puzzle-de-inazuma-eleven.json](./61499-line-puzzle-de-inazuma-eleven.json) |
+| Line Puzzle: String Art | 107579 | [107579-line-puzzle-string-art.json](./107579-line-puzzle-string-art.json) |
 | Line Rangers | 130565 | [130565-line-rangers.json](./130565-line-rangers.json) |
 | Line Rider | 28810 | [28810-line-rider.json](./28810-line-rider.json) |
 | Line Rider JavaScript | 58115 | [58115-line-rider-javascript.json](./58115-line-rider-javascript.json) |
