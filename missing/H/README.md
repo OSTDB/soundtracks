@@ -2734,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heave Ho 2 | 393563 | [393563-heave-ho-2.json](./393563-heave-ho-2.json) |
 | Heave-Ho: Uphill | 402349 | [402349-heave-ho-uphill.json](./402349-heave-ho-uphill.json) |
 | Heaven | 78071 | [78071-heaven.json](./78071-heaven.json) |
+| Heaven & Earth | 145329 | [145329-heaven-and-earth.json](./145329-heaven-and-earth.json) |
 | Heaven & Hell | 113031 | [113031-heaven-and-hell.json](./113031-heaven-and-hell.json) |
 | Heaven & Hell | 50406 | [50406-heaven-and-hell.json](./50406-heaven-and-hell.json) |
 | Heaven & Hell 2 | 114375 | [114375-heaven-and-hell-2.json](./114375-heaven-and-hell-2.json) |
@@ -2806,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Fire: Black Arms 3D | 85628 | [85628-heavy-fire-black-arms-3d.json](./85628-heavy-fire-black-arms-3d.json) |
 | Heavy Fire: Special Operations | 408862 | [408862-heavy-fire-special-operations.json](./408862-heavy-fire-special-operations.json) |
 | Heavy Fire: Special Operations 3D | 23589 | [23589-heavy-fire-special-operations-3d.json](./23589-heavy-fire-special-operations-3d.json) |
+| Heavy Fire: The Chosen Few | 145344 | [145344-heavy-fire-the-chosen-few.json](./145344-heavy-fire-the-chosen-few.json) |
 | Heavy Front | 380710 | [380710-heavy-front.json](./380710-heavy-front.json) |
 | Heavy Gear | 51364 | [51364-heavy-gear.json](./51364-heavy-gear.json) |
 | Heavy Gear Assault | 26704 | [26704-heavy-gear-assault.json](./26704-heavy-gear-assault.json) |
