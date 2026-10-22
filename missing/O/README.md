@@ -1405,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omnicube | 99598 | [99598-omnicube.json](./99598-omnicube.json) |
 | OmniFootman | 118386 | [118386-omnifootman.json](./118386-omnifootman.json) |
 | Omnigon | 245909 | [245909-omnigon.json](./245909-omnigon.json) |
+| OmniGrav | 155937 | [155937-omnigrav.json](./155937-omnigrav.json) |
 | Omniheroes | 255790 | [255790-omniheroes.json](./255790-omniheroes.json) |
 | Omnimancer | 307830 | [307830-omnimancer.json](./307830-omnimancer.json) |
 | Omnimus | 122166 | [122166-omnimus.json](./122166-omnimus.json) |
