@@ -2894,6 +2894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juno Nemesis Remix | 73279 | [73279-juno-nemesis-remix.json](./73279-juno-nemesis-remix.json) |
 | Juno: New Origins | 102982 | [102982-juno-new-origins.json](./102982-juno-new-origins.json) |
 | Juno's Darkest Hour | 31645 | [31645-junos-darkest-hour.json](./31645-junos-darkest-hour.json) |
+| Juno's Journey | 150919 | [150919-junos-journey.json](./150919-junos-journey.json) |
 | Junon.io | 176309 | [176309-junon-io.json](./176309-junon-io.json) |
 | Junsei Yasaotoko | 242072 | [242072-junsei-yasaotoko.json](./242072-junsei-yasaotoko.json) |
 | Junsei Yasaotoko Sweet & Bitter | 242073 | [242073-junsei-yasaotoko-sweet-and-bitter.json](./242073-junsei-yasaotoko-sweet-and-bitter.json) |
@@ -3191,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Move Fall Dungeon Endless Abyss | 360661 | [360661-just-move-fall-dungeon-endless-abyss.json](./360661-just-move-fall-dungeon-endless-abyss.json) |
 | Just Move On! | 329005 | [329005-just-move-on.json](./329005-just-move-on.json) |
 | Just Move: Clean City Messy Battle | 366961 | [366961-just-move-clean-city-messy-battle.json](./366961-just-move-clean-city-messy-battle.json) |
+| Just Old | 150927 | [150927-just-old.json](./150927-just-old.json) |
 | Just One | 231354 | [231354-just-one.json](./231354-just-one.json) |
 | Just One Chance | 181701 | [181701-just-one-chance.json](./181701-just-one-chance.json) |
 | Just One Color | 87951 | [87951-just-one-color.json](./87951-just-one-color.json) |
