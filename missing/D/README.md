@@ -10355,6 +10355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DotSec | 329579 | [329579-dotsec.json](./329579-dotsec.json) |
 | Dotso | 93165 | [93165-dotso.json](./93165-dotso.json) |
 | Dotster 2 | 102234 | [102234-dotster-2.json](./102234-dotster-2.json) |
+| DotStrike | 155947 | [155947-dotstrike.json](./155947-dotstrike.json) |
 | Dotsubo-chan | 166146 | [166146-dotsubo-chan.json](./166146-dotsubo-chan.json) |
 | Dottania | 197232 | [197232-dottania.json](./197232-dottania.json) |
 | Dottie Dreads Nought | 313475 | [313475-dottie-dreads-nought.json](./313475-dottie-dreads-nought.json) |
@@ -13876,6 +13877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Elements | 17419 | [17419-dungeon-of-elements.json](./17419-dungeon-of-elements.json) |
 | Dungeon of Erotic Master Plus | 307265 | [307265-dungeon-of-erotic-master-plus.json](./307265-dungeon-of-erotic-master-plus.json) |
 | Dungeon of Erotic Master Reboot | 374614 | [374614-dungeon-of-erotic-master-reboot.json](./374614-dungeon-of-erotic-master-reboot.json) |
+| Dungeon of Eyden | 155943 | [155943-dungeon-of-eyden.json](./155943-dungeon-of-eyden.json) |
 | Dungeon of Final Glory | 219765 | [219765-dungeon-of-final-glory.json](./219765-dungeon-of-final-glory.json) |
 | Dungeon of Gods | 199915 | [199915-dungeon-of-gods.json](./199915-dungeon-of-gods.json) |
 | Dungeon of Grandmasters | 322802 | [322802-dungeon-of-grandmasters.json](./322802-dungeon-of-grandmasters.json) |
