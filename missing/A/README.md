@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Killer's Sorrow | 110926 | [110926-a-killers-sorrow.json](./110926-a-killers-sorrow.json) |
 | A King's Tale: Final Fantasy XV | 19600 | [19600-a-kings-tale-final-fantasy-xv.json](./19600-a-kings-tale-final-fantasy-xv.json) |
 | A Kingdom for Keflings | 15860 | [15860-a-kingdom-for-keflings.json](./15860-a-kingdom-for-keflings.json) |
+| A Kingdom of Flesh and Stone | 120610 | [120610-a-kingdom-of-flesh-and-stone.json](./120610-a-kingdom-of-flesh-and-stone.json) |
 | A Kingdom to Conquer | 279500 | [279500-a-kingdom-to-conquer.json](./279500-a-kingdom-to-conquer.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
 | A Kiss for the Petals - Remembering How We Met | 34585 | [34585-a-kiss-for-the-petals-remembering-how-we-met.json](./34585-a-kiss-for-the-petals-remembering-how-we-met.json) |
@@ -1243,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.R.C. | 58867 | [58867-a-r-c.json](./58867-a-r-c.json) |
 | A.R.E.S. Extinction Agenda EX | 36270 | [36270-a-r-e-s-extinction-agenda-ex.json](./36270-a-r-e-s-extinction-agenda-ex.json) |
 | A.R.E.S.: Extinction Agenda | 6282 | [6282-a-r-e-s-extinction-agenda.json](./6282-a-r-e-s-extinction-agenda.json) |
+| A.R.E.S.: Extinction Agenda - Berzerker Suit | 120631 | [120631-a-r-e-s-extinction-agenda-berzerker-suit.json](./120631-a-r-e-s-extinction-agenda-berzerker-suit.json) |
 | A.R.S.E.N.A.L. Taste of Power | 204341 | [204341-a-r-s-e-n-a-l-taste-of-power.json](./204341-a-r-s-e-n-a-l-taste-of-power.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
 | A.S.P.: Air Strike Patrol | 42662 | [42662-a-s-p-air-strike-patrol.json](./42662-a-s-p-air-strike-patrol.json) |
@@ -5210,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Shooter 2: New Era | 203883 | [203883-alien-shooter-2-new-era.json](./203883-alien-shooter-2-new-era.json) |
 | Alien Shooter 2: Reloaded | 11088 | [11088-alien-shooter-2-reloaded.json](./11088-alien-shooter-2-reloaded.json) |
 | Alien Shooter 3D | 152770 | [152770-alien-shooter-3d.json](./152770-alien-shooter-3d.json) |
+| Alien Shooter in Space Cradle: Virtual Reality | 120576 | [120576-alien-shooter-in-space-cradle-virtual-reality.json](./120576-alien-shooter-in-space-cradle-virtual-reality.json) |
 | Alien Shooter TD | 26812 | [26812-alien-shooter-td.json](./26812-alien-shooter-td.json) |
 | Alien Shooter: Fight for Life | 11089 | [11089-alien-shooter-fight-for-life.json](./11089-alien-shooter-fight-for-life.json) |
 | Alien Shooter: Revisited | 16016 | [16016-alien-shooter-revisited.json](./16016-alien-shooter-revisited.json) |
@@ -8733,6 +8736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aperture | 287217 | [287217-aperture.json](./287217-aperture.json) |
 | Aperture Dating Simulator | 349719 | [349719-aperture-dating-simulator.json](./349719-aperture-dating-simulator.json) |
 | Aperture Desk Job | 191897 | [191897-aperture-desk-job.json](./191897-aperture-desk-job.json) |
+| Aperture Hand Lab | 120607 | [120607-aperture-hand-lab.json](./120607-aperture-hand-lab.json) |
 | Aperture Ireland | 284363 | [284363-aperture-ireland.json](./284363-aperture-ireland.json) |
 | Aperture Narbacular | 341038 | [341038-aperture-narbacular.json](./341038-aperture-narbacular.json) |
 | Aperture: Salt Mines | 284366 | [284366-aperture-salt-mines.json](./284366-aperture-salt-mines.json) |
@@ -9007,6 +9011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appleseed: Prometheus no Shintaku | 38370 | [38370-appleseed-prometheus-no-shintaku.json](./38370-appleseed-prometheus-no-shintaku.json) |
 | AppleSnake | 51989 | [51989-applesnake.json](./51989-applesnake.json) |
 | AppleSnake: Christmas story | 88181 | [88181-applesnake-christmas-story.json](./88181-applesnake-christmas-story.json) |
+| Applewood | 120599 | [120599-applewood.json](./120599-applewood.json) |
 | Appli Archives: G-mode BurgerTime | 56422 | [56422-appli-archives-g-mode-burgertime.json](./56422-appli-archives-g-mode-burgertime.json) |
 | Appli Archives: IDAC Escape Game Pack 1 | 56410 | [56410-appli-archives-idac-escape-game-pack-1.json](./56410-appli-archives-idac-escape-game-pack-1.json) |
 | Appli Archives: Jaleco Argus & Field Combat | 56414 | [56414-appli-archives-jaleco-argus-and-field-combat.json](./56414-appli-archives-jaleco-argus-and-field-combat.json) |
@@ -10467,6 +10472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aris Arcanum | 324531 | [324531-aris-arcanum.json](./324531-aris-arcanum.json) |
 | Arise | 362992 | [362992-arise.json](./362992-arise.json) |
 | Arise: A Simple Story - Definitive Edition | 199171 | [199171-arise-a-simple-story-definitive-edition.json](./199171-arise-a-simple-story-definitive-edition.json) |
+| Arisen | 120603 | [120603-arisen.json](./120603-arisen.json) |
 | Arisen Force: Life Devotee of Wukong | 322972 | [322972-arisen-force-life-devotee-of-wukong.json](./322972-arisen-force-life-devotee-of-wukong.json) |
 | Arisen Force: LifeDevotee | 366210 | [366210-arisen-force-lifedevotee.json](./366210-arisen-force-lifedevotee.json) |
 | Arisen Force: Vonimir | 244893 | [244893-arisen-force-vonimir.json](./244893-arisen-force-vonimir.json) |
