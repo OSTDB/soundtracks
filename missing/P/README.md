@@ -9284,6 +9284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polter Guest | 148313 | [148313-polter-guest.json](./148313-polter-guest.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
 | PolterDates | 411511 | [411511-polterdates.json](./411511-polterdates.json) |
+| Poltergeist Crusader | 146750 | [146750-poltergeist-crusader.json](./146750-poltergeist-crusader.json) |
 | Poltergeist Prodigy | 332203 | [332203-poltergeist-prodigy.json](./332203-poltergeist-prodigy.json) |
 | Poltergeist Watcher | 298661 | [298661-poltergeist-watcher.json](./298661-poltergeist-watcher.json) |
 | Poltergeist: A Pixelated Horror | 17855 | [17855-poltergeist-a-pixelated-horror.json](./17855-poltergeist-a-pixelated-horror.json) |
