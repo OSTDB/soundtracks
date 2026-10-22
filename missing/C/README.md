@@ -684,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Sea: Journey Edition | 185978 | [185978-call-of-the-sea-journey-edition.json](./185978-call-of-the-sea-journey-edition.json) |
 | Call of the Sea: Norah's Diary Edition | 170032 | [170032-call-of-the-sea-norahs-diary-edition.json](./170032-call-of-the-sea-norahs-diary-edition.json) |
 | Call of the Underworld | 333653 | [333653-call-of-the-underworld.json](./333653-call-of-the-underworld.json) |
+| Call of the Void | 118610 | [118610-call-of-the-void.json](./118610-call-of-the-void.json) |
 | Call of the Wild: The Angler - Deluxe Edition | 264133 | [264133-call-of-the-wild-the-angler-deluxe-edition.json](./264133-call-of-the-wild-the-angler-deluxe-edition.json) |
 | Call of the Wild: The Angler - Reserve Pass | 276300 | [276300-call-of-the-wild-the-angler-reserve-pass.json](./276300-call-of-the-wild-the-angler-reserve-pass.json) |
 | Call of the Wild: The Angler - Ultimate Fishing Bundle | 301333 | [301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json](./301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json) |
@@ -3804,6 +3805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveworks | 383522 | [383522-caveworks.json](./383522-caveworks.json) |
 | CavEX | 293331 | [293331-cavex.json](./293331-cavex.json) |
 | Caviar | 284805 | [284805-caviar.json](./284805-caviar.json) |
+| Cavity Busters | 118652 | [118652-cavity-busters.json](./118652-cavity-busters.json) |
 | Cavorite | 333523 | [333523-cavorite.json](./333523-cavorite.json) |
 | Cavrncrate | 318513 | [318513-cavrncrate.json](./318513-cavrncrate.json) |
 | Cavy Chronicles | 281984 | [281984-cavy-chronicles.json](./281984-cavy-chronicles.json) |
@@ -6399,6 +6401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromosome Evil: Map Editor | 232462 | [232462-chromosome-evil-map-editor.json](./232462-chromosome-evil-map-editor.json) |
 | Chromosome Evil: New Weapon & Weapons Customization | 230808 | [230808-chromosome-evil-new-weapon-and-weapons-customization.json](./230808-chromosome-evil-new-weapon-and-weapons-customization.json) |
 | Chrona & Sirona | 413716 | [413716-chrona-and-sirona.json](./413716-chrona-and-sirona.json) |
+| Chronac | 118618 | [118618-chronac.json](./118618-chronac.json) |
 | Chronal Chain | 370203 | [370203-chronal-chain.json](./370203-chronal-chain.json) |
 | Chronal Stasis | 311223 | [311223-chronal-stasis.json](./311223-chronal-stasis.json) |
 | Chronautical | 253598 | [253598-chronautical.json](./253598-chronautical.json) |
@@ -7815,6 +7818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clic the ABC 123 Laptop | 333121 | [333121-clic-the-abc-123-laptop.json](./333121-clic-the-abc-123-laptop.json) |
 | Cliché Adventure | 159712 | [159712-cliche-adventure.json](./159712-cliche-adventure.json) |
 | Cliché Quest | 397603 | [397603-cliche-quest.json](./397603-cliche-quest.json) |
+| Click & Click | 118633 | [118633-click-and-click.json](./118633-click-and-click.json) |
 | Click and Collect | 199349 | [199349-click-and-collect.json](./199349-click-and-collect.json) |
 | Click and Conquer | 342682 | [342682-click-and-conquer.json](./342682-click-and-conquer.json) |
 | Click and Relax | 153420 | [153420-click-and-relax.json](./153420-click-and-relax.json) |
