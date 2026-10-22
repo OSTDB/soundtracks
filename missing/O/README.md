@@ -2246,6 +2246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onigiri Run | 351781 | [351781-onigiri-run.json](./351781-onigiri-run.json) |
 | Onigiri Shop Simulator | 361911 | [361911-onigiri-shop-simulator.json](./361911-onigiri-shop-simulator.json) |
 | Onigo Hunter | 133618 | [133618-onigo-hunter.json](./133618-onigo-hunter.json) |
+| Onigokko! | 153767 | [153767-onigokko.json](./153767-onigokko.json) |
 | Onii Kiss: Onii-chan, Where's My Kiss? | 401171 | [401171-onii-kiss-onii-chan-wheres-my-kiss.json](./401171-onii-kiss-onii-chan-wheres-my-kiss.json) |
 | Onii-Chan | 89968 | [89968-onii-chan.json](./89968-onii-chan.json) |
 | Onii-chan Asobo | 111087 | [111087-onii-chan-asobo.json](./111087-onii-chan-asobo.json) |
