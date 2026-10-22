@@ -1552,6 +1552,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Mirage Mystique | 392423 | [392423-le-mirage-mystique.json](./392423-le-mirage-mystique.json) |
 | Le Miroir d'Ozivior | 413609 | [413609-le-miroir-dozivior.json](./413609-le-miroir-dozivior.json) |
 | Le monde d'orathos | 296221 | [296221-le-monde-dorathos.json](./296221-le-monde-dorathos.json) |
+| Le Monde de Nadia | 149280 | [149280-le-monde-de-nadia.json](./149280-le-monde-de-nadia.json) |
+| Le Monde de Titeuf | 149279 | [149279-le-monde-de-titeuf.json](./149279-le-monde-de-titeuf.json) |
 | Le Morte D'Arthur | 338944 | [338944-le-morte-darthur.json](./338944-le-morte-darthur.json) |
 | Le Mystère de Kikekankoi | 93005 | [93005-le-mystere-de-kikekankoi.json](./93005-le-mystere-de-kikekankoi.json) |
 | Le Mystère de la fleur de verre | 413039 | [413039-le-mystere-de-la-fleur-de-verre.json](./413039-le-mystere-de-la-fleur-de-verre.json) |
@@ -3631,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Fighter | 165018 | [165018-light-fighter.json](./165018-light-fighter.json) |
 | Light Fingers | 69487 | [69487-light-fingers.json](./69487-light-fingers.json) |
 | Light Followers: Blinded by the Dark | 349886 | [349886-light-followers-blinded-by-the-dark.json](./349886-light-followers-blinded-by-the-dark.json) |
+| Light For Plants | 149273 | [149273-light-for-plants.json](./149273-light-for-plants.json) |
 | Light from Above | 288649 | [288649-light-from-above.json](./288649-light-from-above.json) |
 | Light Gravity Cube | 343768 | [343768-light-gravity-cube.json](./343768-light-gravity-cube.json) |
 | Light Gravity Cube | 37042 | [37042-light-gravity-cube.json](./37042-light-gravity-cube.json) |
@@ -7071,6 +7074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lu Bu Maker | 104902 | [104902-lu-bu-maker.json](./104902-lu-bu-maker.json) |
 | Lu Dajishen II | 128321 | [128321-lu-dajishen-ii.json](./128321-lu-dajishen-ii.json) |
 | Lu Dreams | 376606 | [376606-lu-dreams.json](./376606-lu-dreams.json) |
+| Lu Tu | 149300 | [149300-lu-tu.json](./149300-lu-tu.json) |
 | Lu Yan Gui Hang: Swallow Homing | 114210 | [114210-lu-yan-gui-hang-swallow-homing.json](./114210-lu-yan-gui-hang-swallow-homing.json) |
 | Lu Zhou: Oasis | 130066 | [130066-lu-zhou-oasis.json](./130066-lu-zhou-oasis.json) |
 | Lu:Cid | 229649 | [229649-lu-cid.json](./229649-lu-cid.json) |
@@ -7791,6 +7795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lux umbra | 56595 | [56595-lux-umbra.json](./56595-lux-umbra.json) |
 | Lux, City of Secrets | 156926 | [156926-lux-city-of-secrets.json](./156926-lux-city-of-secrets.json) |
 | Lux: Dream.Girl | 280928 | [280928-lux-dream-girl.json](./280928-lux-dream-girl.json) |
+| Lux: The Journey | 149305 | [149305-lux-the-journey.json](./149305-lux-the-journey.json) |
 | Luxaren Allure | 124653 | [124653-luxaren-allure.json](./124653-luxaren-allure.json) |
 | Luxavia | 392356 | [392356-luxavia.json](./392356-luxavia.json) |
 | Luxcustos | 322605 | [322605-luxcustos.json](./322605-luxcustos.json) |
@@ -7826,6 +7831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LV99: Final Fortress | 140592 | [140592-lv99-final-fortress.json](./140592-lv99-final-fortress.json) |
 | LVL99: AxeRage | 125917 | [125917-lvl99-axerage.json](./125917-lvl99-axerage.json) |
 | LVN Fake News | 105740 | [105740-lvn-fake-news.json](./105740-lvn-fake-news.json) |
+| LX Patterns | 149461 | [149461-lx-patterns.json](./149461-lx-patterns.json) |
 | LXD: Red Honey | 305877 | [305877-lxd-red-honey.json](./305877-lxd-red-honey.json) |
 | Lya | 118901 | [118901-lya.json](./118901-lya.json) |
 | Lyantei | 114993 | [114993-lyantei.json](./114993-lyantei.json) |
