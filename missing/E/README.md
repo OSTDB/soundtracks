@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthling of Gaia | 294367 | [294367-earthling-of-gaia.json](./294367-earthling-of-gaia.json) |
 | Earthling Priorities | 229154 | [229154-earthling-priorities.json](./229154-earthling-priorities.json) |
 | Earthling's Undertaking | 371631 | [371631-earthlings-undertaking.json](./371631-earthlings-undertaking.json) |
+| Earthlings Must Die | 123857 | [123857-earthlings-must-die.json](./123857-earthlings-must-die.json) |
 | Earthlock 2 | 136090 | [136090-earthlock-2.json](./136090-earthlock-2.json) |
 | Earthlock: Festival of Magic | 7202 | [7202-earthlock-festival-of-magic.json](./7202-earthlock-festival-of-magic.json) |
 | EarthNight | 27742 | [27742-earthnight.json](./27742-earthnight.json) |
@@ -3796,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erraldoi 2000 | 183989 | [183989-erraldoi-2000.json](./183989-erraldoi-2000.json) |
 | Errand | 57092 | [57092-errand.json](./57092-errand.json) |
 | Errand Boy | 127883 | [127883-errand-boy.json](./127883-errand-boy.json) |
+| Errant Heart | 123817 | [123817-errant-heart.json](./123817-errant-heart.json) |
 | Errant Kingdom | 122842 | [122842-errant-kingdom.json](./122842-errant-kingdom.json) |
 | Errant: Hunter's Soul | 200748 | [200748-errant-hunters-soul.json](./200748-errant-hunters-soul.json) |
 | Errante | 185559 | [185559-errante.json](./185559-errante.json) |
@@ -5814,6 +5816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exile II: Crystal Souls | 7781 | [7781-exile-ii-crystal-souls.json](./7781-exile-ii-crystal-souls.json) |
 | Exile III: Ruined World | 19578 | [19578-exile-iii-ruined-world.json](./19578-exile-iii-ruined-world.json) |
 | Exile Online | 27669 | [27669-exile-online.json](./27669-exile-online.json) |
+| Exile Squadron | 123849 | [123849-exile-squadron.json](./123849-exile-squadron.json) |
 | Exile to Death | 32869 | [32869-exile-to-death.json](./32869-exile-to-death.json) |
 | Exile: Avengers Fire | 220283 | [220283-exile-avengers-fire.json](./220283-exile-avengers-fire.json) |
 | Exile: Escape from the Pit | 7765 | [7765-exile-escape-from-the-pit.json](./7765-exile-escape-from-the-pit.json) |
@@ -6362,6 +6365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of Nollyn | 276193 | [276193-eye-of-nollyn.json](./276193-eye-of-nollyn.json) |
 | Eye of Odin | 43122 | [43122-eye-of-odin.json](./43122-eye-of-odin.json) |
 | Eye of Ouroboros | 158130 | [158130-eye-of-ouroboros.json](./158130-eye-of-ouroboros.json) |
+| Eye of Plunder | 123876 | [123876-eye-of-plunder.json](./123876-eye-of-plunder.json) |
 | Eye of Ra | 133992 | [133992-eye-of-ra.json](./133992-eye-of-ra.json) |
 | Eye of Saccharine | 249187 | [249187-eye-of-saccharine.json](./249187-eye-of-saccharine.json) |
 | Eye of Syn | 388126 | [388126-eye-of-syn.json](./388126-eye-of-syn.json) |
