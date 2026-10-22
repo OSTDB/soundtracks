@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Generations 1: Wings of Destiny | 66122 | [66122-capcom-generations-1-wings-of-destiny.json](./66122-capcom-generations-1-wings-of-destiny.json) |
 | Capcom Generations 2: Chronicles of Arthur | 66123 | [66123-capcom-generations-2-chronicles-of-arthur.json](./66123-capcom-generations-2-chronicles-of-arthur.json) |
 | Capcom Generations 3: The First Generation | 66121 | [66121-capcom-generations-3-the-first-generation.json](./66121-capcom-generations-3-the-first-generation.json) |
+| Capcom Generations 5: Street Fighter Collection 2 | 126269 | [126269-capcom-generations-5-street-fighter-collection-2.json](./126269-capcom-generations-5-street-fighter-collection-2.json) |
 | Capcom Mystery Adventure Double Pack | 299313 | [299313-capcom-mystery-adventure-double-pack.json](./299313-capcom-mystery-adventure-double-pack.json) |
 | Capcom Puzzle World | 44503 | [44503-capcom-puzzle-world.json](./44503-capcom-puzzle-world.json) |
 | Capcom Sports Club | 38531 | [38531-capcom-sports-club.json](./38531-capcom-sports-club.json) |
@@ -1390,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Commando | 19821 | [19821-captain-commando.json](./19821-captain-commando.json) |
 | Captain Contraband | 129201 | [129201-captain-contraband.json](./129201-captain-contraband.json) |
 | Captain Contraption's Safari Park | 386975 | [386975-captain-contraptions-safari-park.json](./386975-captain-contraptions-safari-park.json) |
+| Captain Cook: Word Puzzle | 126253 | [126253-captain-cook-word-puzzle.json](./126253-captain-cook-word-puzzle.json) |
 | Captain Corgi: Planetary Problem Solver | 369090 | [369090-captain-corgi-planetary-problem-solver.json](./369090-captain-corgi-planetary-problem-solver.json) |
 | Captain DinoHater | 180848 | [180848-captain-dinohater.json](./180848-captain-dinohater.json) |
 | Captain Disaster and the Two Worlds of Riskara | 235664 | [235664-captain-disaster-and-the-two-worlds-of-riskara.json](./235664-captain-disaster-and-the-two-worlds-of-riskara.json) |
@@ -5801,6 +5803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip-chan Kick! | 45961 | [45961-chip-chan-kick.json](./45961-chip-chan-kick.json) |
 | Chip: Rescuer of Kittens | 128221 | [128221-chip-rescuer-of-kittens.json](./128221-chip-rescuer-of-kittens.json) |
 | Chip's Challenge | 12001 | [12001-chips-challenge.json](./12001-chips-challenge.json) |
+| Chip's Challenge | 126287 | [126287-chips-challenge.json](./126287-chips-challenge.json) |
 | Chip's Challenge | 282471 | [282471-chips-challenge.json](./282471-chips-challenge.json) |
 | Chip's Challenge | 282555 | [282555-chips-challenge.json](./282555-chips-challenge.json) |
 | Chip's Challenge | 282557 | [282557-chips-challenge.json](./282557-chips-challenge.json) |
