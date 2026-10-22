@@ -1653,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratchet & Clank: Into the Nexus | 2589 | [2589-ratchet-and-clank-into-the-nexus.json](./2589-ratchet-and-clank-into-the-nexus.json) |
 | Ratchet & Clank: Premature Release | 288705 | [288705-ratchet-and-clank-premature-release.json](./288705-ratchet-and-clank-premature-release.json) |
 | Ratchet & Clank: Rift Apart - Digital Deluxe Edition | 407558 | [407558-ratchet-and-clank-rift-apart-digital-deluxe-edition.json](./407558-ratchet-and-clank-rift-apart-digital-deluxe-edition.json) |
+| Ratchet & Clank: Rift Apart - Launch Edition | 145991 | [145991-ratchet-and-clank-rift-apart-launch-edition.json](./145991-ratchet-and-clank-rift-apart-launch-edition.json) |
 | Ratchet & Clank: Size Matters | 308039 | [308039-ratchet-and-clank-size-matters.json](./308039-ratchet-and-clank-size-matters.json) |
 | Ratchet & Clank: Special Limited Edition | 212322 | [212322-ratchet-and-clank-special-limited-edition.json](./212322-ratchet-and-clank-special-limited-edition.json) |
 | Ratchet: Deadlocked | 1790 | [1790-ratchet-deadlocked.json](./1790-ratchet-deadlocked.json) |
@@ -3635,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rekkr | 105118 | [105118-rekkr.json](./105118-rekkr.json) |
 | Rekkr: Sunken Land | 167786 | [167786-rekkr-sunken-land.json](./167786-rekkr-sunken-land.json) |
 | Reknum | 130401 | [130401-reknum.json](./130401-reknum.json) |
+| Reknum Cheri Dreamland | 145968 | [145968-reknum-cheri-dreamland.json](./145968-reknum-cheri-dreamland.json) |
 | Reknum DX | 182475 | [182475-reknum-dx.json](./182475-reknum-dx.json) |
 | Reknum: Fantasy of Dreams | 143443 | [143443-reknum-fantasy-of-dreams.json](./143443-reknum-fantasy-of-dreams.json) |
 | Reknum: Origins Collection | 182476 | [182476-reknum-origins-collection.json](./182476-reknum-origins-collection.json) |
@@ -6264,6 +6266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk: Global Domination - US City Map Pack | 164457 | [164457-risk-global-domination-us-city-map-pack.json](./164457-risk-global-domination-us-city-map-pack.json) |
 | Risk: Global Domination - Zombie Pack | 226946 | [226946-risk-global-domination-zombie-pack.json](./226946-risk-global-domination-zombie-pack.json) |
 | Risk: Pogo Domination | 354995 | [354995-risk-pogo-domination.json](./354995-risk-pogo-domination.json) |
+| Risk: The Game of Global Domination | 146155 | [146155-risk-the-game-of-global-domination.json](./146155-risk-the-game-of-global-domination.json) |
 | Risk: The Game of Global Domination | 62161 | [62161-risk-the-game-of-global-domination.json](./62161-risk-the-game-of-global-domination.json) |
 | Riskant! | 263454 | [263454-riskant.json](./263454-riskant.json) |
 | Risker | 259409 | [259409-risker.json](./259409-risker.json) |
