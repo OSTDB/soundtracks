@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gadgeteer | 103264 | [103264-gadgeteer.json](./103264-gadgeteer.json) |
 | Gadkiy Ya 2 | 210318 | [210318-gadkiy-ya-2.json](./210318-gadkiy-ya-2.json) |
 | Gado Fight | 132222 | [132222-gado-fight.json](./132222-gado-fight.json) |
+| Gadurin | 137496 | [137496-gadurin.json](./137496-gadurin.json) |
 | Gadvia | 223940 | [223940-gadvia.json](./223940-gadvia.json) |
 | Gaelco Arcade 1 | 149291 | [149291-gaelco-arcade-1.json](./149291-gaelco-arcade-1.json) |
 | Gaelic Football Laochra | 394897 | [394897-gaelic-football-laochra.json](./394897-gaelic-football-laochra.json) |
@@ -3643,6 +3644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator Rising 2 | 297578 | [297578-gladiator-rising-2.json](./297578-gladiator-rising-2.json) |
 | Gladiator School | 284329 | [284329-gladiator-school.json](./284329-gladiator-school.json) |
 | Gladiator Trainer | 31289 | [31289-gladiator-trainer.json](./31289-gladiator-trainer.json) |
+| Gladiator Vs. | 137521 | [137521-gladiator-vs.json](./137521-gladiator-vs.json) |
 | Gladiator X | 130795 | [130795-gladiator-x.json](./130795-gladiator-x.json) |
 | Gladiator: Blades of Fury | 115586 | [115586-gladiator-blades-of-fury.json](./115586-gladiator-blades-of-fury.json) |
 | Gladiator: Road to the Colosseum | 120836 | [120836-gladiator-road-to-the-colosseum.json](./120836-gladiator-road-to-the-colosseum.json) |
