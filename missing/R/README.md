@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain Kills | 334559 | [334559-rain-kills.json](./334559-rain-kills.json) |
 | Rain of Arrows | 145594 | [145594-rain-of-arrows.json](./145594-rain-of-arrows.json) |
 | Rain of Fire | 125721 | [125721-rain-of-fire.json](./125721-rain-of-fire.json) |
+| Rain of Flames | 134917 | [134917-rain-of-flames.json](./134917-rain-of-flames.json) |
 | Rain of Pumpkins | 75071 | [75071-rain-of-pumpkins.json](./75071-rain-of-pumpkins.json) |
 | Rain of Reflections | 58544 | [58544-rain-of-reflections.json](./58544-rain-of-reflections.json) |
 | Rain on their Parade! | 252080 | [252080-rain-on-their-parade.json](./252080-rain-on-their-parade.json) |
@@ -1157,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rake Monster Hunter | 100840 | [100840-rake-monster-hunter.json](./100840-rake-monster-hunter.json) |
 | Rake Remastered | 267007 | [267007-rake-remastered.json](./267007-rake-remastered.json) |
 | Rakeo | 301679 | [301679-rakeo.json](./301679-rakeo.json) |
+| Rakete | 134897 | [134897-rakete.json](./134897-rakete.json) |
 | Raketenwashmachine | 149439 | [149439-raketenwashmachine.json](./149439-raketenwashmachine.json) |
 | Rakka: Wake 01 - Soot | 341302 | [341302-rakka-wake-01-soot.json](./341302-rakka-wake-01-soot.json) |
 | Rakker and the Sinking Cities | 69569 | [69569-rakker-and-the-sinking-cities.json](./69569-rakker-and-the-sinking-cities.json) |
@@ -9571,6 +9573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Witch | 281327 | [281327-run-witch.json](./281327-run-witch.json) |
 | Run x Gun | 275543 | [275543-run-x-gun.json](./275543-run-x-gun.json) |
 | Run-Gunners' Revenge | 240663 | [240663-run-gunners-revenge.json](./240663-run-gunners-revenge.json) |
+| Run-N-Jump-N-Jump-N-Run | 134913 | [134913-run-n-jump-n-jump-n-run.json](./134913-run-n-jump-n-jump-n-run.json) |
 | Run, chicken, run! | 113885 | [113885-run-chicken-run.json](./113885-run-chicken-run.json) |
 | Run, Doodleguy! | 211293 | [211293-run-doodleguy.json](./211293-run-doodleguy.json) |
 | Run, Kitty! | 192771 | [192771-run-kitty.json](./192771-run-kitty.json) |
