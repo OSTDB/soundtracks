@@ -8108,6 +8108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Oracle | 345813 | [345813-pocket-oracle.json](./345813-pocket-oracle.json) |
 | Pocket Pack: Strategy Games | 84719 | [84719-pocket-pack-strategy-games.json](./84719-pocket-pack-strategy-games.json) |
 | Pocket Pack: Words & Numbers | 85346 | [85346-pocket-pack-words-and-numbers.json](./85346-pocket-pack-words-and-numbers.json) |
+| Pocket Pandas | 114730 | [114730-pocket-pandas.json](./114730-pocket-pandas.json) |
 | Pocket Pet | 230730 | [230730-pocket-pet.json](./230730-pocket-pet.json) |
 | Pocket Pioneers | 152388 | [152388-pocket-pioneers.json](./152388-pocket-pioneers.json) |
 | Pocket Pix | 260880 | [260880-pocket-pix.json](./260880-pocket-pix.json) |
@@ -8144,6 +8145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Realms | 99223 | [99223-pocket-realms.json](./99223-pocket-realms.json) |
 | Pocket Robots | 311176 | [311176-pocket-robots.json](./311176-pocket-robots.json) |
 | Pocket Rocket | 187166 | [187166-pocket-rocket.json](./187166-pocket-rocket.json) |
+| Pocket Roguelike | 114733 | [114733-pocket-roguelike.json](./114733-pocket-roguelike.json) |
 | Pocket Rogues | 111249 | [111249-pocket-rogues.json](./111249-pocket-rogues.json) |
 | Pocket Rogues: Ultimate | 101094 | [101094-pocket-rogues-ultimate.json](./101094-pocket-rogues-ultimate.json) |
 | Pocket Room Sanrio Characters | 334865 | [334865-pocket-room-sanrio-characters.json](./334865-pocket-room-sanrio-characters.json) |
@@ -12751,6 +12753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Jurit | 385581 | [385581-project-jurit.json](./385581-project-jurit.json) |
 | Project: Kate | 262436 | [262436-project-kate.json](./262436-project-kate.json) |
 | Project: Knight | 147763 | [147763-project-knight.json](./147763-project-knight.json) |
+| Project: Longtail | 114707 | [114707-project-longtail.json](./114707-project-longtail.json) |
 | Project: Mania | 333562 | [333562-project-mania.json](./333562-project-mania.json) |
 | Project: Mirror | 233562 | [233562-project-mirror.json](./233562-project-mirror.json) |
 | Project: Mist | 272348 | [272348-project-mist.json](./272348-project-mist.json) |
