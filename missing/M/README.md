@@ -4542,6 +4542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max & the Magic Marker | 248557 | [248557-max-and-the-magic-marker.json](./248557-max-and-the-magic-marker.json) |
 | Max & the Magic Marker | 5000 | [5000-max-and-the-magic-marker.json](./5000-max-and-the-magic-marker.json) |
 | Max & the Magic Marker - Remastered | 96301 | [96301-max-and-the-magic-marker-remastered.json](./96301-max-and-the-magic-marker-remastered.json) |
+| Max and Marie Go Shopping | 128858 | [128858-max-and-marie-go-shopping.json](./128858-max-and-marie-go-shopping.json) |
 | Max and Sparky | 66887 | [66887-max-and-sparky.json](./66887-max-and-sparky.json) |
 | Max and the Haunted Castle | 127150 | [127150-max-and-the-haunted-castle.json](./127150-max-and-the-haunted-castle.json) |
 | Max and the Magic Marker: Gold Edition | 52571 | [52571-max-and-the-magic-marker-gold-edition.json](./52571-max-and-the-magic-marker-gold-edition.json) |
@@ -4736,6 +4737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayéutica | 330951 | [330951-mayeutica.json](./330951-mayeutica.json) |
 | Mayflower Reflections | 191836 | [191836-mayflower-reflections.json](./191836-mayflower-reflections.json) |
 | Mayfly | 398395 | [398395-mayfly.json](./398395-mayfly.json) |
+| Mayhem | 128853 | [128853-mayhem.json](./128853-mayhem.json) |
 | Mayhem | 186051 | [186051-mayhem.json](./186051-mayhem.json) |
 | Mayhem | 217254 | [217254-mayhem.json](./217254-mayhem.json) |
 | Mayhem | 403758 | [403758-mayhem.json](./403758-mayhem.json) |
@@ -5664,6 +5666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet'N'Fuck: Street Racing | 221627 | [221627-meetnfuck-street-racing.json](./221627-meetnfuck-street-racing.json) |
 | Meet'N'Fuck: The Plumber | 221725 | [221725-meetnfuck-the-plumber.json](./221725-meetnfuck-the-plumber.json) |
 | MeetCute | 192726 | [192726-meetcute.json](./192726-meetcute.json) |
+| Meeting a Pony | 128825 | [128825-meeting-a-pony.json](./128825-meeting-a-pony.json) |
 | Meeting Her | 253909 | [253909-meeting-her.json](./253909-meeting-her.json) |
 | Meeting in the Flesh | 135008 | [135008-meeting-in-the-flesh.json](./135008-meeting-in-the-flesh.json) |
 | Meeting Myself | 275919 | [275919-meeting-myself.json](./275919-meeting-myself.json) |
