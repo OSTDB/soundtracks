@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| D is for Drift | 107565 | [107565-d-is-for-drift.json](./107565-d-is-for-drift.json) |
 | D Laser | 272186 | [272186-d-laser.json](./272186-d-laser.json) |
 | D Life | 253973 | [253973-d-life.json](./253973-d-life.json) |
 | D Missile | 304278 | [304278-d-missile.json](./304278-d-missile.json) |
@@ -1732,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksiders III: The Crucible | 115645 | [115645-darksiders-iii-the-crucible.json](./115645-darksiders-iii-the-crucible.json) |
 | Darksiders: Fury's Collection - War and Death | 28408 | [28408-darksiders-furys-collection-war-and-death.json](./28408-darksiders-furys-collection-war-and-death.json) |
 | Darksiders: Warmastered Edition | 25081 | [25081-darksiders-warmastered-edition.json](./25081-darksiders-warmastered-edition.json) |
+| Darksong Chronicles | 107604 | [107604-darksong-chronicles.json](./107604-darksong-chronicles.json) |
 | DarkSpace | 209027 | [209027-darkspace.json](./209027-darkspace.json) |
 | DarkSpace | 23448 | [23448-darkspace.json](./23448-darkspace.json) |
 | DarkSpar | 193467 | [193467-darkspar.json](./193467-darkspar.json) |
@@ -11841,6 +11843,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon: The Bruce Lee Story | 218422 | [218422-dragon-the-bruce-lee-story.json](./218422-dragon-the-bruce-lee-story.json) |
 | Dragon: The Game | 36282 | [36282-dragon-the-game.json](./36282-dragon-the-game.json) |
 | Dragon's Bane | 148541 | [148541-dragons-bane.json](./148541-dragons-bane.json) |
+| Dragon's Blade | 107603 | [107603-dragons-blade.json](./107603-dragons-blade.json) |
+| Dragon's Blade II | 107605 | [107605-dragons-blade-ii.json](./107605-dragons-blade-ii.json) |
 | Dragon's Blade: Heroes of Larkwood | 181656 | [181656-dragons-blade-heroes-of-larkwood.json](./181656-dragons-blade-heroes-of-larkwood.json) |
 | Dragon's Blade: HoL | 197723 | [197723-dragons-blade-hol.json](./197723-dragons-blade-hol.json) |
 | Dragon's Chronicles: Ankoku Daimaou to Hokuto no Tsurugi | 362167 | [362167-dragons-chronicles-ankoku-daimaou-to-hokuto-no-tsurugi.json](./362167-dragons-chronicles-ankoku-daimaou-to-hokuto-no-tsurugi.json) |
@@ -12748,6 +12752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dress to Play: Magic Bubbles! | 85099 | [85099-dress-to-play-magic-bubbles.json](./85099-dress-to-play-magic-bubbles.json) |
 | Dress Treat! | 146521 | [146521-dress-treat.json](./146521-dress-treat.json) |
 | Dress Up Bear | 96029 | [96029-dress-up-bear.json](./96029-dress-up-bear.json) |
+| Dress Up Games for Girls & Kids: Fun Beauty Salon | 107562 | [107562-dress-up-games-for-girls-and-kids-fun-beauty-salon.json](./107562-dress-up-games-for-girls-and-kids-fun-beauty-salon.json) |
 | Dress-up | 103672 | [103672-dress-up.json](./103672-dress-up.json) |
 | Dress-Up With Helene: Deluxe! | 358860 | [358860-dress-up-with-helene-deluxe.json](./358860-dress-up-with-helene-deluxe.json) |
 | Dressed to Kill Sherlock Holmes for Playdate & C64! | 265737 | [265737-dressed-to-kill-sherlock-holmes-for-playdate-and-c64.json](./265737-dressed-to-kill-sherlock-holmes-for-playdate-and-c64.json) |
