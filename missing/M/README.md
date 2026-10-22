@@ -2438,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mansion of the Dead | 337486 | [337486-mansion-of-the-dead.json](./337486-mansion-of-the-dead.json) |
 | Mansion Tour | 225561 | [225561-mansion-tour.json](./225561-mansion-tour.json) |
 | MansionDungeon | 404246 | [404246-mansiondungeon.json](./404246-mansiondungeon.json) |
+| Mansions of Madness: Altered Fates | 155415 | [155415-mansions-of-madness-altered-fates.json](./155415-mansions-of-madness-altered-fates.json) |
 | Mansions of Madness: Dark Reflections | 168929 | [168929-mansions-of-madness-dark-reflections.json](./168929-mansions-of-madness-dark-reflections.json) |
 | Mansions of Madness: What Lies Within | 168928 | [168928-mansions-of-madness-what-lies-within.json](./168928-mansions-of-madness-what-lies-within.json) |
 | Mantis Burn Racing: Battle Cars | 170307 | [170307-mantis-burn-racing-battle-cars.json](./170307-mantis-burn-racing-battle-cars.json) |
@@ -5385,6 +5386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mediatonic Combo! | 118915 | [118915-mediatonic-combo.json](./118915-mediatonic-combo.json) |
 | Mediator | 355237 | [355237-mediator.json](./355237-mediator.json) |
 | Medic Mayhem | 406680 | [406680-medic-mayhem.json](./406680-medic-mayhem.json) |
+| Medic: Pacific War | 155428 | [155428-medic-pacific-war.json](./155428-medic-pacific-war.json) |
 | Medical Record Sheet | 253003 | [253003-medical-record-sheet.json](./253003-medical-record-sheet.json) |
 | Medical verdict | 107913 | [107913-medical-verdict.json](./107913-medical-verdict.json) |
 | Medicalat | 125780 | [125780-medicalat.json](./125780-medicalat.json) |
