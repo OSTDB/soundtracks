@@ -3259,6 +3259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexit | 58226 | [58226-lexit.json](./58226-lexit.json) |
 | Lexual | 58227 | [58227-lexual.json](./58227-lexual.json) |
 | Lexulous Word Game | 88525 | [88525-lexulous-word-game.json](./88525-lexulous-word-game.json) |
+| Lexy Lightspeed: Escape From Earth | 137867 | [137867-lexy-lightspeed-escape-from-earth.json](./137867-lexy-lightspeed-escape-from-earth.json) |
 | Lexy Lightspeed: Secret Agent Showdown | 137937 | [137937-lexy-lightspeed-secret-agent-showdown.json](./137937-lexy-lightspeed-secret-agent-showdown.json) |
 | Leyendas de Lhodrye: Arakhas el Oscuro | 84301 | [84301-leyendas-de-lhodrye-arakhas-el-oscuro.json](./84301-leyendas-de-lhodrye-arakhas-el-oscuro.json) |
 | Leygref's Castle | 2883 | [2883-leygrefs-castle.json](./2883-leygrefs-castle.json) |
@@ -5273,6 +5274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LOCO Online | 361771 | [361771-loco-online.json](./361771-loco-online.json) |
 | Loco Parentis | 117810 | [117810-loco-parentis.json](./117810-loco-parentis.json) |
 | Loco Railroad | 123361 | [123361-loco-railroad.json](./123361-loco-railroad.json) |
+| Loco Road | 137851 | [137851-loco-road.json](./137851-loco-road.json) |
 | Loco-Coconuts | 246495 | [246495-loco-coconuts.json](./246495-loco-coconuts.json) |
 | Loco-Motion | 42161 | [42161-loco-motion.json](./42161-loco-motion.json) |
 | Loco-Motion | 5681 | [5681-loco-motion.json](./5681-loco-motion.json) |
@@ -7035,6 +7037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loving Life | 25494 | [25494-loving-life.json](./25494-loving-life.json) |
 | Loving You Fully | 159873 | [159873-loving-you-fully.json](./159873-loving-you-fully.json) |
 | Loving Zurine | 83222 | [83222-loving-zurine.json](./83222-loving-zurine.json) |
+| Lovingly Evil | 137879 | [137879-lovingly-evil.json](./137879-lovingly-evil.json) |
 | Lovish | 319894 | [319894-lovish.json](./319894-lovish.json) |
 | Low and Furious | 270569 | [270569-low-and-furious.json](./270569-low-and-furious.json) |
 | Low Batt | 315222 | [315222-low-batt.json](./315222-low-batt.json) |
