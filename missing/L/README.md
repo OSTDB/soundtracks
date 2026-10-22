@@ -6815,6 +6815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love in Lockdown: Eli Version | 215772 | [215772-love-in-lockdown-eli-version.json](./215772-love-in-lockdown-eli-version.json) |
 | Love in Lockdown: Ella version | 259479 | [259479-love-in-lockdown-ella-version.json](./259479-love-in-lockdown-ella-version.json) |
 | Love in Login | 229512 | [229512-love-in-login.json](./229512-love-in-login.json) |
+| Love in School | 105695 | [105695-love-in-school.json](./105695-love-in-school.json) |
 | Love in the Crimson Void | 288898 | [288898-love-in-the-crimson-void.json](./288898-love-in-the-crimson-void.json) |
 | Love in the Glen | 33083 | [33083-love-in-the-glen.json](./33083-love-in-the-glen.json) |
 | Love in the Limelight | 119589 | [119589-love-in-the-limelight.json](./119589-love-in-the-limelight.json) |
