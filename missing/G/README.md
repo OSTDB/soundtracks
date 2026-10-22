@@ -7548,6 +7548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Pounders | 36456 | [36456-ground-pounders.json](./36456-ground-pounders.json) |
 | Ground Runner: Trials | 82467 | [82467-ground-runner-trials.json](./82467-ground-runner-trials.json) |
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
+| Ground War | 127606 | [127606-ground-war.json](./127606-ground-war.json) |
 | Ground Zero | 249174 | [249174-ground-zero.json](./249174-ground-zero.json) |
 | Ground Zero | 298803 | [298803-ground-zero.json](./298803-ground-zero.json) |
 | Ground Zero: Genesis of a New World | 66552 | [66552-ground-zero-genesis-of-a-new-world.json](./66552-ground-zero-genesis-of-a-new-world.json) |
