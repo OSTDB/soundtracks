@@ -5890,6 +5890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School of Blitz | 166207 | [166207-high-school-of-blitz.json](./166207-high-school-of-blitz.json) |
 | High School of Memories | 165007 | [165007-high-school-of-memories.json](./165007-high-school-of-memories.json) |
 | High School of the Dead Day 0 | 402943 | [402943-high-school-of-the-dead-day-0.json](./402943-high-school-of-the-dead-day-0.json) |
+| High School Otome | 126832 | [126832-high-school-otome.json](./126832-high-school-otome.json) |
 | High School Secret Romance | 298920 | [298920-high-school-secret-romance.json](./298920-high-school-secret-romance.json) |
 | High School Simulator 2017 | 286757 | [286757-high-school-simulator-2017.json](./286757-high-school-simulator-2017.json) |
 | High School Story | 39189 | [39189-high-school-story.json](./39189-high-school-story.json) |
