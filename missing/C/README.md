@@ -5961,6 +5961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chompies! | 207407 | [207407-chompies.json](./207407-chompies.json) |
 | Chompsters | 141602 | [141602-chompsters.json](./141602-chompsters.json) |
 | Chompy Chomp Chomp Party | 223508 | [223508-chompy-chomp-chomp-party.json](./223508-chompy-chomp-chomp-party.json) |
+| Chompy: The Greedy Crocodile | 138626 | [138626-chompy-the-greedy-crocodile.json](./138626-chompy-the-greedy-crocodile.json) |
 | Chóngshēng Zhànshì | 158537 | [158537-chongsheng-zhanshi.json](./158537-chongsheng-zhanshi.json) |
 | Chonka | 142212 | [142212-chonka.json](./142212-chonka.json) |
 | Chonkymon | 149035 | [149035-chonkymon.json](./149035-chonkymon.json) |
@@ -11211,6 +11212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core | 131411 | [131411-core.json](./131411-core.json) |
 | Core | 13517 | [13517-core.json](./13517-core.json) |
 | Core | 400887 | [400887-core.json](./400887-core.json) |
+| Core Awaken: Jilelen and LittleSnow | 138448 | [138448-core-awaken-jilelen-and-littlesnow.json](./138448-core-awaken-jilelen-and-littlesnow.json) |
 | Core Awaken: The Yuka | 104814 | [104814-core-awaken-the-yuka.json](./104814-core-awaken-the-yuka.json) |
 | Core Awakening | 290504 | [290504-core-awakening.json](./290504-core-awakening.json) |
 | Core Blaster | 208794 | [208794-core-blaster.json](./208794-core-blaster.json) |
