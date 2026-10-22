@@ -11319,6 +11319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: XKeeperZ | 98436 | [98436-dragon-ball-z-xkeeperz.json](./98436-dragon-ball-z-xkeeperz.json) |
 | Dragon Ball Z: Z-senshi Daishugyou! | 346787 | [346787-dragon-ball-z-z-senshi-daishugyou.json](./346787-dragon-ball-z-z-senshi-daishugyou.json) |
 | Dragon Ball: Advanced Adventure | 6386 | [6386-dragon-ball-advanced-adventure.json](./6386-dragon-ball-advanced-adventure.json) |
+| Dragon Ball: Final Bout | 128863 | [128863-dragon-ball-final-bout.json](./128863-dragon-ball-final-bout.json) |
 | Dragon Ball: Kachinuke! Tenkaichi Budokai | 199448 | [199448-dragon-ball-kachinuke-tenkaichi-budokai.json](./199448-dragon-ball-kachinuke-tenkaichi-budokai.json) |
 | Dragon Ball: Origins 2 | 20412 | [20412-dragon-ball-origins-2.json](./20412-dragon-ball-origins-2.json) |
 | Dragon Ball: Pilaf no Gyakushuu | 346785 | [346785-dragon-ball-pilaf-no-gyakushuu.json](./346785-dragon-ball-pilaf-no-gyakushuu.json) |
@@ -12228,6 +12229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Fallen: Vila do Chaves | 188082 | [188082-dream-fallen-vila-do-chaves.json](./188082-dream-fallen-vila-do-chaves.json) |
 | Dream Fight Will | 216735 | [216735-dream-fight-will.json](./216735-dream-fight-will.json) |
 | Dream Fire | 241951 | [241951-dream-fire.json](./241951-dream-fire.json) |
+| Dream Fishing | 128823 | [128823-dream-fishing.json](./128823-dream-fishing.json) |
 | Dream Flash | 118251 | [118251-dream-flash.json](./118251-dream-flash.json) |
 | Dream Football Club | 220843 | [220843-dream-football-club.json](./220843-dream-football-club.json) |
 | Dream Frontier | 301902 | [301902-dream-frontier.json](./301902-dream-frontier.json) |
@@ -12792,6 +12794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill Dozer: Shifting 101 | 307352 | [307352-drill-dozer-shifting-101.json](./307352-drill-dozer-shifting-101.json) |
 | Drill Hero Legend | 291899 | [291899-drill-hero-legend.json](./291899-drill-hero-legend.json) |
 | Drill Keeper | 253370 | [253370-drill-keeper.json](./253370-drill-keeper.json) |
+| Drill Killer | 128822 | [128822-drill-killer.json](./128822-drill-killer.json) |
 | Drill Man Rumble | 126501 | [126501-drill-man-rumble.json](./126501-drill-man-rumble.json) |
 | Drill Panic | 399431 | [399431-drill-panic.json](./399431-drill-panic.json) |
 | Drill Rift | 355128 | [355128-drill-rift.json](./355128-drill-rift.json) |
@@ -14488,6 +14491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Durka Simulator | 236402 | [236402-durka-simulator.json](./236402-durka-simulator.json) |
 | DURT | 285855 | [285855-durt.json](./285855-durt.json) |
 | Duru: About Mole Rats and Depression | 138724 | [138724-duru-about-mole-rats-and-depression.json](./138724-duru-about-mole-rats-and-depression.json) |
+| Dǔshén zhī Mènghuàn Poker | 128864 | [128864-dushen-zhi-menghuan-poker.json](./128864-dushen-zhi-menghuan-poker.json) |
 | Dūshì Kǒngbù Gùshì | 116312 | [116312-dushi-kongbu-gushi.json](./116312-dushi-kongbu-gushi.json) |
 | Dúshlán | 141077 | [141077-dushlan.json](./141077-dushlan.json) |
 | Dusk '82 | 152265 | [152265-dusk-82.json](./152265-dusk-82.json) |
