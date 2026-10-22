@@ -19232,6 +19232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Nampa Street | 66132 | [66132-tokyo-nampa-street.json](./66132-tokyo-nampa-street.json) |
 | Tokyo Necro | 60484 | [60484-tokyo-necro.json](./60484-tokyo-necro.json) |
 | Tokyo Ogre Gate | 84488 | [84488-tokyo-ogre-gate.json](./84488-tokyo-ogre-gate.json) |
+| Tokyo Onmyouji: Tengenjibashi Rei no Baai - V Edition | 144684 | [144684-tokyo-onmyouji-tengenjibashi-rei-no-baai-v-edition.json](./144684-tokyo-onmyouji-tengenjibashi-rei-no-baai-v-edition.json) |
 | Tokyo Pachi-Slot Adventure | 48877 | [48877-tokyo-pachi-slot-adventure.json](./48877-tokyo-pachi-slot-adventure.json) |
 | Tokyo Pinball | 250264 | [250264-tokyo-pinball.json](./250264-tokyo-pinball.json) |
 | Tokyo Ramen Drifter | 414096 | [414096-tokyo-ramen-drifter.json](./414096-tokyo-ramen-drifter.json) |
@@ -24987,6 +24988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukino Paradise | 44105 | [44105-tsukino-paradise.json](./44105-tsukino-paradise.json) |
 | Tsukisas Arena | 149225 | [149225-tsukisas-arena.json](./149225-tsukisas-arena.json) |
 | Tsukodome | 280469 | [280469-tsukodome.json](./280469-tsukodome.json) |
+| Tsukue de Dodgeball | 144666 | [144666-tsukue-de-dodgeball.json](./144666-tsukue-de-dodgeball.json) |
 | Tsukumo Reiko's Summer Holidays | 394163 | [394163-tsukumo-reikos-summer-holidays.json](./394163-tsukumo-reikos-summer-holidays.json) |
 | Tsukumobake | 183452 | [183452-tsukumobake.json](./183452-tsukumobake.json) |
 | Tsukumogamis! | 272870 | [272870-tsukumogamis.json](./272870-tsukumogamis.json) |
