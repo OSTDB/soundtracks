@@ -2727,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payroll | 30710 | [30710-payroll.json](./30710-payroll.json) |
 | Payroll | 385391 | [385391-payroll.json](./385391-payroll.json) |
 | Paze Knight Ellen and the Dungeon Town Sodom | 244482 | [244482-paze-knight-ellen-and-the-dungeon-town-sodom.json](./244482-paze-knight-ellen-and-the-dungeon-town-sodom.json) |
+| Pazing By | 152695 | [152695-pazing-by.json](./152695-pazing-by.json) |
 | Pazinko! | 369707 | [369707-pazinko.json](./369707-pazinko.json) |
 | Pazleum | 366706 | [366706-pazleum.json](./366706-pazleum.json) |
 | PazuDora Gold | 120866 | [120866-pazudora-gold.json](./120866-pazudora-gold.json) |
@@ -12731,6 +12732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PropHunter | 165107 | [165107-prophunter.json](./165107-prophunter.json) |
 | Propis | 194290 | [194290-propis.json](./194290-propis.json) |
 | Proportionator | 316765 | [316765-proportionator.json](./316765-proportionator.json) |
+| Propulsion | 152701 | [152701-propulsion.json](./152701-propulsion.json) |
 | Prose & Codes | 191577 | [191577-prose-and-codes.json](./191577-prose-and-codes.json) |
 | ProSoccer 2190 | 138723 | [138723-prosoccer-2190.json](./138723-prosoccer-2190.json) |
 | Prospect | 253511 | [253511-prospect.json](./253511-prospect.json) |
@@ -13239,6 +13241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
 | Pug's Quest | 82954 | [82954-pugs-quest.json](./82954-pugs-quest.json) |
 | Pugg | 211911 | [211911-pugg.json](./211911-pugg.json) |
+| Pugmire: Treasure of the Sea Dogs | 152714 | [152714-pugmire-treasure-of-the-sea-dogs.json](./152714-pugmire-treasure-of-the-sea-dogs.json) |
 | Pugnite | 385992 | [385992-pugnite.json](./385992-pugnite.json) |
 | Pugovki | 177051 | [177051-pugovki.json](./177051-pugovki.json) |
 | Pui Pui Molcar Let's! Molcar Party! | 175849 | [175849-pui-pui-molcar-lets-molcar-party.json](./175849-pui-pui-molcar-lets-molcar-party.json) |
