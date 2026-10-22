@@ -3929,6 +3929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
 | Celestia: Chain of Fate | 300474 | [300474-celestia-chain-of-fate.json](./300474-celestia-chain-of-fate.json) |
 | Celestiais & Dragões | 240741 | [240741-celestiais-and-dragoes.json](./240741-celestiais-and-dragoes.json) |
+| Celestial | 122031 | [122031-celestial.json](./122031-celestial.json) |
 | Celestial Ascend | 387108 | [387108-celestial-ascend.json](./387108-celestial-ascend.json) |
 | Celestial Breach | 30795 | [30795-celestial-breach.json](./30795-celestial-breach.json) |
 | Celestial Clockwork | 374241 | [374241-celestial-clockwork.json](./374241-celestial-clockwork.json) |
@@ -11371,6 +11372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coropata | 80582 | [80582-coropata.json](./80582-coropata.json) |
 | CoRoT | 345841 | [345841-corot.json](./345841-corot.json) |
 | Corpo/Ghost | 291785 | [291785-corpo-ghost.json](./291785-corpo-ghost.json) |
+| Corpoct | 121991 | [121991-corpoct.json](./121991-corpoct.json) |
 | CorpoNation: The Sorting Process | 219744 | [219744-corponation-the-sorting-process.json](./219744-corponation-the-sorting-process.json) |
 | Corporate 0 | 411123 | [411123-corporate-0.json](./411123-corporate-0.json) |
 | Corporate Chaos | 338886 | [338886-corporate-chaos.json](./338886-corporate-chaos.json) |
@@ -14074,6 +14076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crudelis | 33952 | [33952-crudelis.json](./33952-crudelis.json) |
 | Cruel | 282123 | [282123-cruel.json](./282123-cruel.json) |
 | Cruel Arena | 34967 | [34967-cruel-arena.json](./34967-cruel-arena.json) |
+| Cruel Bands Career | 121990 | [121990-cruel-bands-career.json](./121990-cruel-bands-career.json) |
 | Cruel Collections: The Any Wish Hotel | 417719 | [417719-cruel-collections-the-any-wish-hotel.json](./417719-cruel-collections-the-any-wish-hotel.json) |
 | Cruel Jewels | 261327 | [261327-cruel-jewels.json](./261327-cruel-jewels.json) |
 | Cruel Reality: A Horrible Dream | 249868 | [249868-cruel-reality-a-horrible-dream.json](./249868-cruel-reality-a-horrible-dream.json) |
