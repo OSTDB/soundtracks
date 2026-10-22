@@ -3608,6 +3608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellver | 129692 | [129692-hellver.json](./129692-hellver.json) |
 | Hellvivors | 217317 | [217317-hellvivors.json](./217317-hellvivors.json) |
 | Hellwalker: Gremory | 389667 | [389667-hellwalker-gremory.json](./389667-hellwalker-gremory.json) |
+| Hellway | 112693 | [112693-hellway.json](./112693-hellway.json) |
 | Hellway to Hell | 213841 | [213841-hellway-to-hell.json](./213841-hellway-to-hell.json) |
 | Hellwomb | 150138 | [150138-hellwomb.json](./150138-hellwomb.json) |
 | Hellworld! | 173183 | [173183-hellworld.json](./173183-hellworld.json) |
@@ -6503,9 +6504,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman | 218314 | [218314-hitman.json](./218314-hitman.json) |
 | Hitman 2 Christmas Game | 336886 | [336886-hitman-2-christmas-game.json](./336886-hitman-2-christmas-game.json) |
 | HITMAN 2: Collector's Edition | 136111 | [136111-hitman-2-collectors-edition.json](./136111-hitman-2-collectors-edition.json) |
+| Hitman 2: Gold Edition | 112643 | [112643-hitman-2-gold-edition.json](./112643-hitman-2-gold-edition.json) |
 | Hitman 2: Haven Island | 122645 | [122645-hitman-2-haven-island.json](./122645-hitman-2-haven-island.json) |
 | Hitman 2: Miami Pack | 118173 | [118173-hitman-2-miami-pack.json](./118173-hitman-2-miami-pack.json) |
 | Hitman 2: New York | 122644 | [122644-hitman-2-new-york.json](./122644-hitman-2-new-york.json) |
+| Hitman 2: Silver Edition | 112644 | [112644-hitman-2-silver-edition.json](./112644-hitman-2-silver-edition.json) |
 | Hitman 3 | 134595 | [134595-hitman-3.json](./134595-hitman-3.json) |
 | Hitman 3 Access Pass: Hitman 1 GOTY Edition | 233574 | [233574-hitman-3-access-pass-hitman-1-goty-edition.json](./233574-hitman-3-access-pass-hitman-1-goty-edition.json) |
 | Hitman 3 Access Pass: Hitman 2 Expansion Pass | 307377 | [307377-hitman-3-access-pass-hitman-2-expansion-pass.json](./307377-hitman-3-access-pass-hitman-2-expansion-pass.json) |
@@ -9448,6 +9451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter's Requiem | 303563 | [303563-hunters-requiem.json](./303563-hunters-requiem.json) |
 | Hunter's Seal | 365681 | [365681-hunters-seal.json](./365681-hunters-seal.json) |
 | Hunter's Soul | 122435 | [122435-hunters-soul.json](./122435-hunters-soul.json) |
+| Hunter's Trial | 112690 | [112690-hunters-trial.json](./112690-hunters-trial.json) |
 | Hunter's Trial: The fight never ends | 315226 | [315226-hunters-trial-the-fight-never-ends.json](./315226-hunters-trial-the-fight-never-ends.json) |
 | Hunter's Trophy | 53219 | [53219-hunters-trophy.json](./53219-hunters-trophy.json) |
 | Hunter's Trophy 2: Europa | 64376 | [64376-hunters-trophy-2-europa.json](./64376-hunters-trophy-2-europa.json) |
