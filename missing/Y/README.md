@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yulgang Mobile | 174698 | [174698-yulgang-mobile.json](./174698-yulgang-mobile.json) |
 | Yulgang Rush | 208067 | [208067-yulgang-rush.json](./208067-yulgang-rush.json) |
 | Yulhyul Kangho | 145569 | [145569-yulhyul-kangho.json](./145569-yulhyul-kangho.json) |
+| Yuligans: Christmas is Coming! | 151455 | [151455-yuligans-christmas-is-coming.json](./151455-yuligans-christmas-is-coming.json) |
 | Yùlóng zài Tiān: Pínghéng Guózhàn Bǎn | 118295 | [118295-yulong-zai-tian-pingheng-guozhan-ban.json](./118295-yulong-zai-tian-pingheng-guozhan-ban.json) |
 | Yum Collector | 192287 | [192287-yum-collector.json](./192287-yum-collector.json) |
 | Yum Yum Cookstar | 218884 | [218884-yum-yum-cookstar.json](./218884-yum-yum-cookstar.json) |
