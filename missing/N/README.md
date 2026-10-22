@@ -1954,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Krieger Yamato | 82357 | [82357-neon-krieger-yamato.json](./82357-neon-krieger-yamato.json) |
 | Neon Ladder | 311803 | [311803-neon-ladder.json](./311803-neon-ladder.json) |
 | Neon Life | 279859 | [279859-neon-life.json](./279859-neon-life.json) |
+| Neon Light | 155410 | [155410-neon-light.json](./155410-neon-light.json) |
 | Neon Little Soul | 258562 | [258562-neon-little-soul.json](./258562-neon-little-soul.json) |
 | Neon Magic: Witch Shop | 245939 | [245939-neon-magic-witch-shop.json](./245939-neon-magic-witch-shop.json) |
 | Neon Man | 234611 | [234611-neon-man.json](./234611-neon-man.json) |
