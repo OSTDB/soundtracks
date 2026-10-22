@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Battle Fishers: Yoky Shiimono wa Tsure | 281424 | [281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json](./281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json) |
 | Gakuen Club | 31975 | [31975-gakuen-club.json](./31975-gakuen-club.json) |
 | Gakuen Handsome | 230342 | [230342-gakuen-handsome.json](./230342-gakuen-handsome.json) |
+| Gakuen Hetalia DS | 130581 | [130581-gakuen-hetalia-ds.json](./130581-gakuen-hetalia-ds.json) |
 | Gakuen Hetalia Portable | 59419 | [59419-gakuen-hetalia-portable.json](./59419-gakuen-hetalia-portable.json) |
 | Gakuen Hyoryuu Senki | 191872 | [191872-gakuen-hyoryuu-senki.json](./191872-gakuen-hyoryuu-senki.json) |
 | Gakuen Hyouryuu Senki Dai 2 Wa | 191873 | [191873-gakuen-hyouryuu-senki-dai-2-wa.json](./191873-gakuen-hyouryuu-senki-dai-2-wa.json) |
@@ -5879,6 +5880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Duel: Shinki Dungeon no Hihou | 50056 | [50056-gran-duel-shinki-dungeon-no-hihou.json](./50056-gran-duel-shinki-dungeon-no-hihou.json) |
 | Gran Empire | 149443 | [149443-gran-empire.json](./149443-gran-empire.json) |
 | Gran Empire: Amane | 204254 | [204254-gran-empire-amane.json](./204254-gran-empire-amane.json) |
+| Gran Saga | 130576 | [130576-gran-saga.json](./130576-gran-saga.json) |
 | Gran Saga Idle: Knights x Knights | 319994 | [319994-gran-saga-idle-knights-x-knights.json](./319994-gran-saga-idle-knights-x-knights.json) |
 | Gran Text Auto | 60046 | [60046-gran-text-auto.json](./60046-gran-text-auto.json) |
 | Gran Tower: Wild Knights with Crazy Witches | 116460 | [116460-gran-tower-wild-knights-with-crazy-witches.json](./116460-gran-tower-wild-knights-with-crazy-witches.json) |
@@ -8055,6 +8057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guinea Pig | 285427 | [285427-guinea-pig.json](./285427-guinea-pig.json) |
 | Guinea Pig Bridge! | 246928 | [246928-guinea-pig-bridge.json](./246928-guinea-pig-bridge.json) |
 | Guinea Pig Gunner | 411580 | [411580-guinea-pig-gunner.json](./411580-guinea-pig-gunner.json) |
+| Guinea Pig Parkour | 130578 | [130578-guinea-pig-parkour.json](./130578-guinea-pig-parkour.json) |
 | Guinea Pig Runaway Together | 390055 | [390055-guinea-pig-runaway-together.json](./390055-guinea-pig-runaway-together.json) |
 | Guinea Pig Temple | 395889 | [395889-guinea-pig-temple.json](./395889-guinea-pig-temple.json) |
 | Guinevere | 313874 | [313874-guinevere.json](./313874-guinevere.json) |
