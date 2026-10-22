@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4846,6 +4847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below the Oak | 323584 | [323584-below-the-oak.json](./323584-below-the-oak.json) |
 | Below the Ocean | 173312 | [173312-below-the-ocean.json](./173312-below-the-ocean.json) |
 | Below the Root | 13813 | [13813-below-the-root.json](./13813-below-the-root.json) |
+| Below the Stone | 123877 | [123877-below-the-stone.json](./123877-below-the-stone.json) |
 | Below the Surface: Assassin's Prison | 372073 | [372073-below-the-surface-assassins-prison.json](./372073-below-the-surface-assassins-prison.json) |
 | Below the Surface: Uncovering the Truth in the Sewers | 372074 | [372074-below-the-surface-uncovering-the-truth-in-the-sewers.json](./372074-below-the-surface-uncovering-the-truth-in-the-sewers.json) |
 | Below Zero: Prologue | 317326 | [317326-below-zero-prologue.json](./317326-below-zero-prologue.json) |
@@ -5363,6 +5365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bewilder House | 229534 | [229534-bewilder-house.json](./229534-bewilder-house.json) |
 | Bewildered | 192640 | [192640-bewildered.json](./192640-bewildered.json) |
 | Bewilderword | 204284 | [204284-bewilderword.json](./204284-bewilderword.json) |
+| Bewitched | 123828 | [123828-bewitched.json](./123828-bewitched.json) |
 | Bewitched | 296602 | [296602-bewitched.json](./296602-bewitched.json) |
 | Bewitched Hearts | 179703 | [179703-bewitched-hearts.json](./179703-bewitched-hearts.json) |
 | Bewitching Boba | 388701 | [388701-bewitching-boba.json](./388701-bewitching-boba.json) |
