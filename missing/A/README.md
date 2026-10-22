@@ -9645,6 +9645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Pinball | 86706 | [86706-arcade-pinball.json](./86706-arcade-pinball.json) |
 | Arcade Portable | 202779 | [202779-arcade-portable.json](./202779-arcade-portable.json) |
 | Arcade Racer Evolution | 237380 | [237380-arcade-racer-evolution.json](./237380-arcade-racer-evolution.json) |
+| Arcade Redemption | 154879 | [154879-arcade-redemption.json](./154879-arcade-redemption.json) |
 | Arcade Reflex | 337965 | [337965-arcade-reflex.json](./337965-arcade-reflex.json) |
 | Arcade Room Simulator | 319788 | [319788-arcade-room-simulator.json](./319788-arcade-room-simulator.json) |
 | Arcade Shoot-em-up Bundle | 325883 | [325883-arcade-shoot-em-up-bundle.json](./325883-arcade-shoot-em-up-bundle.json) |
