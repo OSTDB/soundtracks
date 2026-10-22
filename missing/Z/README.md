@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zadel Princess | 191827 | [191827-zadel-princess.json](./191827-zadel-princess.json) |
 | Zadette | 142654 | [142654-zadette.json](./142654-zadette.json) |
 | Zafe's Adventures | 316423 | [316423-zafes-adventures.json](./316423-zafes-adventures.json) |
+| Zafehouse | 125022 | [125022-zafehouse.json](./125022-zafehouse.json) |
 | Zafehouse Diaries 2 | 37414 | [37414-zafehouse-diaries-2.json](./37414-zafehouse-diaries-2.json) |
 | Zag | 301967 | [301967-zag.json](./301967-zag.json) |
 | Zaga-33 | 22334 | [22334-zaga-33.json](./22334-zaga-33.json) |
