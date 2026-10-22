@@ -7824,6 +7824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animators Hell | 159134 | [159134-animators-hell.json](./159134-animators-hell.json) |
 | Animatronic Memories | 338945 | [338945-animatronic-memories.json](./338945-animatronic-memories.json) |
 | Animdle | 337097 | [337097-animdle.json](./337097-animdle.json) |
+| Anime & Manga Color by Number: Sandbox Pixel Art | 102551 | [102551-anime-and-manga-color-by-number-sandbox-pixel-art.json](./102551-anime-and-manga-color-by-number-sandbox-pixel-art.json) |
 | Anime and Your Life | 111778 | [111778-anime-and-your-life.json](./111778-anime-and-your-life.json) |
 | Anime Armpits | 202646 | [202646-anime-armpits.json](./202646-anime-armpits.json) |
 | Anime Artist | 280177 | [280177-anime-artist.json](./280177-anime-artist.json) |
