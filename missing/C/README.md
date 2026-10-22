@@ -6806,6 +6806,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circlemount | 341634 | [341634-circlemount.json](./341634-circlemount.json) |
 | CircleRun I | 262588 | [262588-circlerun-i.json](./262588-circlerun-i.json) |
 | Circles | 33061 | [33061-circles.json](./33061-circles.json) |
+| Circles 2 by Powgi | 140420 | [140420-circles-2-by-powgi.json](./140420-circles-2-by-powgi.json) |
+| Circles by Powgi | 140413 | [140413-circles-by-powgi.json](./140413-circles-by-powgi.json) |
 | Circles of Hell | 96621 | [96621-circles-of-hell.json](./96621-circles-of-hell.json) |
 | Circling | 304338 | [304338-circling.json](./304338-circling.json) |
 | Circlt | 57750 | [57750-circlt.json](./57750-circlt.json) |
@@ -9657,6 +9659,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat rush | 108403 | [108403-combat-rush.json](./108403-combat-rush.json) |
 | Combat School | 13509 | [13509-combat-school.json](./13509-combat-school.json) |
 | Combat Search Rescue | 375339 | [375339-combat-search-rescue.json](./375339-combat-search-rescue.json) |
+| Combat Shock | 140431 | [140431-combat-shock.json](./140431-combat-shock.json) |
+| Combat Shock 2 | 140432 | [140432-combat-shock-2.json](./140432-combat-shock-2.json) |
 | Combat Space Journey | 192294 | [192294-combat-space-journey.json](./192294-combat-space-journey.json) |
 | Combat Spec Ops | 256887 | [256887-combat-spec-ops.json](./256887-combat-spec-ops.json) |
 | Combat Survivors | 402266 | [402266-combat-survivors.json](./402266-combat-survivors.json) |
@@ -13799,6 +13803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossover Clover | 365798 | [365798-crossover-clover.json](./365798-crossover-clover.json) |
 | Crossover Collab | 379890 | [379890-crossover-collab.json](./379890-crossover-collab.json) |
 | CrossOver: Roll For Initiative | 202861 | [202861-crossover-roll-for-initiative.json](./202861-crossover-roll-for-initiative.json) |
+| Crossovers 2 by Powgi | 140417 | [140417-crossovers-2-by-powgi.json](./140417-crossovers-2-by-powgi.json) |
 | Crossovers by Powgi | 117488 | [117488-crossovers-by-powgi.json](./117488-crossovers-by-powgi.json) |
 | Crossovertale | 330368 | [330368-crossovertale.json](./330368-crossovertale.json) |
 | CrossPix Magic Express | 87096 | [87096-crosspix-magic-express.json](./87096-crosspix-magic-express.json) |
