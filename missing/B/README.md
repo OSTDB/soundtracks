@@ -1169,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Physics Draw Puzzles 2 | 187356 | [187356-ball-physics-draw-puzzles-2.json](./187356-ball-physics-draw-puzzles-2.json) |
 | Ball Pit King 3D | 276257 | [276257-ball-pit-king-3d.json](./276257-ball-pit-king-3d.json) |
 | Ball Points | 304693 | [304693-ball-points.json](./304693-ball-points.json) |
+| Ball Posse | 142090 | [142090-ball-posse.json](./142090-ball-posse.json) |
 | Ball Raider | 14281 | [14281-ball-raider.json](./14281-ball-raider.json) |
 | Ball Raider II | 14282 | [14282-ball-raider-ii.json](./14282-ball-raider-ii.json) |
 | Ball Ranger | 174032 | [174032-ball-ranger.json](./174032-ball-ranger.json) |
@@ -8350,6 +8351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blokker | 156585 | [156585-blokker.json](./156585-blokker.json) |
 | Blokker: Orange | 163909 | [163909-blokker-orange.json](./163909-blokker-orange.json) |
 | Blokoto | 346585 | [346585-blokoto.json](./346585-blokoto.json) |
+| Bloks | 142080 | [142080-bloks.json](./142080-bloks.json) |
 | Blokshot Halloween | 223611 | [223611-blokshot-halloween.json](./223611-blokshot-halloween.json) |
 | Bloksie (For Now) | 386469 | [386469-bloksie-for-now.json](./386469-bloksie-for-now.json) |
 | Bloktris | 267558 | [267558-bloktris.json](./267558-bloktris.json) |
@@ -8417,6 +8419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bowl 2: The Necromantic | 52651 | [52651-blood-bowl-2-the-necromantic.json](./52651-blood-bowl-2-the-necromantic.json) |
 | Blood Bowl 2: Undead | 52650 | [52650-blood-bowl-2-undead.json](./52650-blood-bowl-2-undead.json) |
 | Blood Bowl 2: Wood Elves | 52648 | [52648-blood-bowl-2-wood-elves.json](./52648-blood-bowl-2-wood-elves.json) |
+| Blood Bowl 3: Brutal Edition | 142166 | [142166-blood-bowl-3-brutal-edition.json](./142166-blood-bowl-3-brutal-edition.json) |
 | Blood Bowl III: Season 1 | 250909 | [250909-blood-bowl-iii-season-1.json](./250909-blood-bowl-iii-season-1.json) |
 | Blood Bowl III: Season 2 | 302463 | [302463-blood-bowl-iii-season-2.json](./302463-blood-bowl-iii-season-2.json) |
 | Blood Bowl III: Season 3 | 302464 | [302464-blood-bowl-iii-season-3.json](./302464-blood-bowl-iii-season-3.json) |
@@ -13703,6 +13706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burn the Midnight Oil | 395846 | [395846-burn-the-midnight-oil.json](./395846-burn-the-midnight-oil.json) |
 | Burn the Rope HD | 107658 | [107658-burn-the-rope-hd.json](./107658-burn-the-rope-hd.json) |
 | Burn the Trash! | 122840 | [122840-burn-the-trash.json](./122840-burn-the-trash.json) |
+| Burn the Witch | 142162 | [142162-burn-the-witch.json](./142162-burn-the-witch.json) |
 | Burn the Witch | 212903 | [212903-burn-the-witch.json](./212903-burn-the-witch.json) |
 | Burn The Witch: Toll of the Bell Bearer | 358957 | [358957-burn-the-witch-toll-of-the-bell-bearer.json](./358957-burn-the-witch-toll-of-the-bell-bearer.json) |
 | Burn Them | 255137 | [255137-burn-them.json](./255137-burn-them.json) |
