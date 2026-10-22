@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halves | 235720 | [235720-halves.json](./235720-halves.json) |
 | Halzae: Heroes of Divinity | 112500 | [112500-halzae-heroes-of-divinity.json](./112500-halzae-heroes-of-divinity.json) |
 | Ham Tank! | 420576 | [420576-ham-tank.json](./420576-ham-tank.json) |
+| Ham-Master | 125081 | [125081-ham-master.json](./125081-ham-master.json) |
 | Ham's Kitchen | 323822 | [323822-hams-kitchen.json](./323822-hams-kitchen.json) |
 | Hamatora: Look at Smoking World | 60542 | [60542-hamatora-look-at-smoking-world.json](./60542-hamatora-look-at-smoking-world.json) |
 | Hamb: Rotari | 402916 | [402916-hamb-rotari.json](./402916-hamb-rotari.json) |
@@ -4684,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Arca | 29575 | [29575-heroes-of-arca.json](./29575-heroes-of-arca.json) |
 | Heroes of Arcana | 211759 | [211759-heroes-of-arcana.json](./211759-heroes-of-arcana.json) |
 | Heroes of Artadis | 378340 | [378340-heroes-of-artadis.json](./378340-heroes-of-artadis.json) |
+| Heroes of Avranche | 125045 | [125045-heroes-of-avranche.json](./125045-heroes-of-avranche.json) |
 | Heroes of Blast | 174718 | [174718-heroes-of-blast.json](./174718-heroes-of-blast.json) |
 | Heroes of Book & Paper | 199506 | [199506-heroes-of-book-and-paper.json](./199506-heroes-of-book-and-paper.json) |
 | Heroes of Britannia | 188464 | [188464-heroes-of-britannia.json](./188464-heroes-of-britannia.json) |
@@ -4846,6 +4848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroic Expedition | 146030 | [146030-heroic-expedition.json](./146030-heroic-expedition.json) |
 | Heroic Hop: A New Adventure Begins | 371985 | [371985-heroic-hop-a-new-adventure-begins.json](./371985-heroic-hop-a-new-adventure-begins.json) |
 | Heroic Kingdom: Origins | 293642 | [293642-heroic-kingdom-origins.json](./293642-heroic-kingdom-origins.json) |
+| Heroic Mercenaries | 125050 | [125050-heroic-mercenaries.json](./125050-heroic-mercenaries.json) |
 | Heroic Musical Chairs | 397371 | [397371-heroic-musical-chairs.json](./397371-heroic-musical-chairs.json) |
 | Heroic Pirates | 190042 | [190042-heroic-pirates.json](./190042-heroic-pirates.json) |
 | Heroic Quest | 63747 | [63747-heroic-quest.json](./63747-heroic-quest.json) |
@@ -5189,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hey Duggee: We Love Animals | 96184 | [96184-hey-duggee-we-love-animals.json](./96184-hey-duggee-we-love-animals.json) |
 | Hey Ma I'm a Dragon Now | 279586 | [279586-hey-ma-im-a-dragon-now.json](./279586-hey-ma-im-a-dragon-now.json) |
 | Hey Stranger! I Dare You to Love Me! | 212201 | [212201-hey-stranger-i-dare-you-to-love-me.json](./212201-hey-stranger-i-dare-you-to-love-me.json) |
+| Hey Turtle | 125035 | [125035-hey-turtle.json](./125035-hey-turtle.json) |
 | Hey You, Pikachu! | 2642 | [2642-hey-you-pikachu.json](./2642-hey-you-pikachu.json) |
 | Hey You, Pikachu! Demake | 413223 | [413223-hey-you-pikachu-demake.json](./413223-hey-you-pikachu-demake.json) |
 | Hey, Don't Look at Me | 416644 | [416644-hey-dont-look-at-me.json](./416644-hey-dont-look-at-me.json) |
@@ -5254,6 +5258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hibernia | 185084 | [185084-hibernia.json](./185084-hibernia.json) |
 | HiberWorld | 130683 | [130683-hiberworld.json](./130683-hiberworld.json) |
 | Hibikake Iro no Kiseki | 76701 | [76701-hibikake-iro-no-kiseki.json](./76701-hibikake-iro-no-kiseki.json) |
+| Hibiscus Red | 125082 | [125082-hibiscus-red.json](./125082-hibiscus-red.json) |
 | Hibiscus Red: Part 2 | 171933 | [171933-hibiscus-red-part-2.json](./171933-hibiscus-red-part-2.json) |
 | Hiboka | 203671 | [203671-hiboka.json](./203671-hiboka.json) |
 | Hibow | 158210 | [158210-hibow.json](./158210-hibow.json) |
@@ -9913,6 +9918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypertrain | 96430 | [96430-hypertrain.json](./96430-hypertrain.json) |
 | Hypertron | 210058 | [210058-hypertron.json](./210058-hypertron.json) |
 | Hyperun | 49512 | [49512-hyperun.json](./49512-hyperun.json) |
+| Hyperventila: The Game | 125059 | [125059-hyperventila-the-game.json](./125059-hyperventila-the-game.json) |
 | Hyperwave | 207843 | [207843-hyperwave.json](./207843-hyperwave.json) |
 | Hyperwheel Overdrive | 131574 | [131574-hyperwheel-overdrive.json](./131574-hyperwheel-overdrive.json) |
 | Hyperwired | 325366 | [325366-hyperwired.json](./325366-hyperwired.json) |
