@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zakuro | 250246 | [250246-zakuro.json](./250246-zakuro.json) |
 | Zakuro no Aji | 37748 | [37748-zakuro-no-aji.json](./37748-zakuro-no-aji.json) |
 | Zakuzaku Actors | 201615 | [201615-zakuzaku-actors.json](./201615-zakuzaku-actors.json) |
+| Zalaga | 123285 | [123285-zalaga.json](./123285-zalaga.json) |
 | Zalera Spark | 310935 | [310935-zalera-spark.json](./310935-zalera-spark.json) |
 | Zaleste | 329972 | [329972-zaleste.json](./329972-zaleste.json) |
 | Zalozhnik | 367007 | [367007-zalozhnik.json](./367007-zalozhnik.json) |
