@@ -807,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pan Beats | 311624 | [311624-pan-beats.json](./311624-pan-beats.json) |
 | Pan Galactic Railway | 101447 | [101447-pan-galactic-railway.json](./101447-pan-galactic-railway.json) |
 | Pan Panda | 110527 | [110527-pan-panda.json](./110527-pan-panda.json) |
+| Pan-Arcade Airlines | 150990 | [150990-pan-arcade-airlines.json](./150990-pan-arcade-airlines.json) |
 | Pan-Dimensional Conga Combat | 86253 | [86253-pan-dimensional-conga-combat.json](./86253-pan-dimensional-conga-combat.json) |
 | Pan-Pan | 23352 | [23352-pan-pan.json](./23352-pan-pan.json) |
 | Pan·Gaia | 244220 | [244220-pan-gaia.json](./244220-pan-gaia.json) |
@@ -5433,6 +5434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: Williams Pinball - Season 1 Bundle | 354048 | [354048-pinball-fx3-williams-pinball-season-1-bundle.json](./354048-pinball-fx3-williams-pinball-season-1-bundle.json) |
 | Pinball FX3: Williams Pinball - Volume 2 | 164000 | [164000-pinball-fx3-williams-pinball-volume-2.json](./164000-pinball-fx3-williams-pinball-volume-2.json) |
 | Pinball FX3: Williams Pinball - Volume 5 | 164004 | [164004-pinball-fx3-williams-pinball-volume-5.json](./164004-pinball-fx3-williams-pinball-volume-5.json) |
+| Pinball FX3: Zen Classics | 151055 | [151055-pinball-fx3-zen-classics.json](./151055-pinball-fx3-zen-classics.json) |
 | Pinball Gardener | 185001 | [185001-pinball-gardener.json](./185001-pinball-gardener.json) |
 | Pinball Girlfriend | 207187 | [207187-pinball-girlfriend.json](./207187-pinball-girlfriend.json) |
 | Pinball Graffiti | 176691 | [176691-pinball-graffiti.json](./176691-pinball-graffiti.json) |
@@ -5614,6 +5616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Haze 2 | 98006 | [98006-pink-haze-2.json](./98006-pink-haze-2.json) |
 | Pink Heaven | 34289 | [34289-pink-heaven.json](./34289-pink-heaven.json) |
 | Pink Hour | 34288 | [34288-pink-hour.json](./34288-pink-hour.json) |
+| Pink Island | 150929 | [150929-pink-island.json](./150929-pink-island.json) |
 | Pink Light | 412897 | [412897-pink-light.json](./412897-pink-light.json) |
 | Pink Marmalade | 184627 | [184627-pink-marmalade.json](./184627-pink-marmalade.json) |
 | Pink Panther | 219014 | [219014-pink-panther.json](./219014-pink-panther.json) |
@@ -12383,6 +12386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Ragtag | 75120 | [75120-project-ragtag.json](./75120-project-ragtag.json) |
 | Project Rap Rabbit | 28699 | [28699-project-rap-rabbit.json](./28699-project-rap-rabbit.json) |
 | Project Ravensdale | 63335 | [63335-project-ravensdale.json](./63335-project-ravensdale.json) |
+| Project Rayssus | 151057 | [151057-project-rayssus.json](./151057-project-rayssus.json) |
 | Project Raze: Fall of Terra | 379859 | [379859-project-raze-fall-of-terra.json](./379859-project-raze-fall-of-terra.json) |
 | Project Re-Rainbow | 321785 | [321785-project-re-rainbow.json](./321785-project-re-rainbow.json) |
 | Project Reality | 294572 | [294572-project-reality.json](./294572-project-reality.json) |
