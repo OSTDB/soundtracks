@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire II: Interstellar Sharks | 24893 | [24893-empire-ii-interstellar-sharks.json](./24893-empire-ii-interstellar-sharks.json) |
 | Empire III: Armageddon | 24894 | [24894-empire-iii-armageddon.json](./24894-empire-iii-armageddon.json) |
 | Empire in Decay | 352199 | [352199-empire-in-decay.json](./352199-empire-in-decay.json) |
+| Empire Invasion | 147135 | [147135-empire-invasion.json](./147135-empire-invasion.json) |
 | Empire of Angels | 56126 | [56126-empire-of-angels.json](./56126-empire-of-angels.json) |
 | Empire of Angels II | 56124 | [56124-empire-of-angels-ii.json](./56124-empire-of-angels-ii.json) |
 | Empire of Angels IV | 78589 | [78589-empire-of-angels-iv.json](./78589-empire-of-angels-iv.json) |
