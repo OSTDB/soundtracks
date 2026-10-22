@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaporwave Battler | 350522 | [350522-vaporwave-battler.json](./350522-vaporwave-battler.json) |
 | Vaporwave Drift | 119453 | [119453-vaporwave-drift.json](./119453-vaporwave-drift.json) |
 | Vaporwave Pinball | 253826 | [253826-vaporwave-pinball.json](./253826-vaporwave-pinball.json) |
+| Vaporwave Road VR | 151053 | [151053-vaporwave-road-vr.json](./151053-vaporwave-road-vr.json) |
 | Vaporwave Simulator | 81747 | [81747-vaporwave-simulator.json](./81747-vaporwave-simulator.json) |
 | Vaporwave Vision Quest: Kmart Sepulcher | 144064 | [144064-vaporwave-vision-quest-kmart-sepulcher.json](./144064-vaporwave-vision-quest-kmart-sepulcher.json) |
 | Vaporwave World | 130202 | [130202-vaporwave-world.json](./130202-vaporwave-world.json) |
