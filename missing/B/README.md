@@ -4518,6 +4518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeefArena | 345262 | [345262-beefarena.json](./345262-beefarena.json) |
 | BeeFender | 89267 | [89267-beefender.json](./89267-beefender.json) |
 | BeeFense | 29096 | [29096-beefense.json](./29096-beefense.json) |
+| BeeFense BeeMastered | 148400 | [148400-beefense-beemastered.json](./148400-beefense-beemastered.json) |
 | BeeFriend | 320045 | [320045-beefriend.json](./320045-beefriend.json) |
 | Beeftown Beatdown | 238769 | [238769-beeftown-beatdown.json](./238769-beeftown-beatdown.json) |
 | Beefy Brad the Muscle Man | 265735 | [265735-beefy-brad-the-muscle-man.json](./265735-beefy-brad-the-muscle-man.json) |
@@ -6661,6 +6662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Legend | 137365 | [137365-bit-legend.json](./137365-bit-legend.json) |
 | Bit Lost | 363963 | [363963-bit-lost.json](./363963-bit-lost.json) |
 | Bit Maze | 406319 | [406319-bit-maze.json](./406319-bit-maze.json) |
+| Bit Orchard | 148250 | [148250-bit-orchard.json](./148250-bit-orchard.json) |
 | Bit Orchard: Animal Valley | 199892 | [199892-bit-orchard-animal-valley.json](./199892-bit-orchard-animal-valley.json) |
 | Bit Orchard: Animal Valley - Amazing Edition | 256762 | [256762-bit-orchard-animal-valley-amazing-edition.json](./256762-bit-orchard-animal-valley-amazing-edition.json) |
 | Bit Orchard: Animal Valley - Complete Edition | 232997 | [232997-bit-orchard-animal-valley-complete-edition.json](./232997-bit-orchard-animal-valley-complete-edition.json) |
@@ -9503,6 +9505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku mo Sekai wo Sukuitai: Battle Tournament | 344322 | [344322-boku-mo-sekai-wo-sukuitai-battle-tournament.json](./344322-boku-mo-sekai-wo-sukuitai-battle-tournament.json) |
 | Boku ni Todoita Kimi no Koe | 98049 | [98049-boku-ni-todoita-kimi-no-koe.json](./98049-boku-ni-todoita-kimi-no-koe.json) |
 | Boku no Choro-Q | 59440 | [59440-boku-no-choro-q.json](./59440-boku-no-choro-q.json) |
+| Boku no Enikki | 148242 | [148242-boku-no-enikki.json](./148242-boku-no-enikki.json) |
 | Boku no Knife de Kimi wo Tasuketai | 299585 | [299585-boku-no-knife-de-kimi-wo-tasuketai.json](./299585-boku-no-knife-de-kimi-wo-tasuketai.json) |
 | Boku no Komayama wo Mamotte | 308901 | [308901-boku-no-komayama-wo-mamotte.json](./308901-boku-no-komayama-wo-mamotte.json) |
 | Boku no Mirai ha, Koi to Kakin to.: Charge to the Future | 194539 | [194539-boku-no-mirai-ha-koi-to-kakin-to-charge-to-the-future.json](./194539-boku-no-mirai-ha-koi-to-kakin-to-charge-to-the-future.json) |
