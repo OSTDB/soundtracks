@@ -2928,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Leet | 265727 | [265727-battle-leet.json](./265727-battle-leet.json) |
 | Battle Legends | 144805 | [144805-battle-legends.json](./144805-battle-legends.json) |
 | Battle Legends Arena | 196573 | [196573-battle-legends-arena.json](./196573-battle-legends-arena.json) |
+| Battle Life Online | 154868 | [154868-battle-life-online.json](./154868-battle-life-online.json) |
 | Battle Line the Rise of War | 358285 | [358285-battle-line-the-rise-of-war.json](./358285-battle-line-the-rise-of-war.json) |
 | Battle Mage | 236729 | [236729-battle-mage.json](./236729-battle-mage.json) |
 | Battle Mage : Card Caster | 127166 | [127166-battle-mage-card-caster.json](./127166-battle-mage-card-caster.json) |
@@ -4554,6 +4555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer! | 83796 | [83796-beer.json](./83796-beer.json) |
 | Beercrush | 378590 | [378590-beercrush.json](./378590-beercrush.json) |
 | Beerjeweled | 138036 | [138036-beerjeweled.json](./138036-beerjeweled.json) |
+| BeerLeague Superstar | 154916 | [154916-beerleague-superstar.json](./154916-beerleague-superstar.json) |
 | Beerman | 31904 | [31904-beerman.json](./31904-beerman.json) |
 | Beers and Boomerangs | 172469 | [172469-beers-and-boomerangs.json](./172469-beers-and-boomerangs.json) |
 | Beerserker: The Stolen Brew | 420553 | [420553-beerserker-the-stolen-brew.json](./420553-beerserker-the-stolen-brew.json) |
@@ -10121,6 +10123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomshine2x | 194301 | [194301-boomshine2x.json](./194301-boomshine2x.json) |
 | BoomSweeper VR | 232970 | [232970-boomsweeper-vr.json](./232970-boomsweeper-vr.json) |
 | BoomTris | 120963 | [120963-boomtris.json](./120963-boomtris.json) |
+| BoomXR | 154891 | [154891-boomxr.json](./154891-boomxr.json) |
 | Boomy the Cat | 58784 | [58784-boomy-the-cat.json](./58784-boomy-the-cat.json) |
 | BoomYa! | 303214 | [303214-boomya.json](./303214-boomya.json) |
 | Boon Blast | 86779 | [86779-boon-blast.json](./86779-boon-blast.json) |
@@ -11053,6 +11056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Box on Physics Truck | 102109 | [102109-brain-box-on-physics-truck.json](./102109-brain-box-on-physics-truck.json) |
 | Brain Box Quiz: Trivia Fun | 232471 | [232471-brain-box-quiz-trivia-fun.json](./232471-brain-box-quiz-trivia-fun.json) |
 | Brain Break | 141100 | [141100-brain-break.json](./141100-brain-break.json) |
+| Brain Breaker | 154870 | [154870-brain-breaker.json](./154870-brain-breaker.json) |
 | Brain Cell | 237206 | [237206-brain-cell.json](./237206-brain-cell.json) |
 | Brain Challenge | 7281 | [7281-brain-challenge.json](./7281-brain-challenge.json) |
 | Brain Challenge 2: Think Again! | 67609 | [67609-brain-challenge-2-think-again.json](./67609-brain-challenge-2-think-again.json) |
@@ -11076,6 +11080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Hole Girls | 242488 | [242488-brain-hole-girls.json](./242488-brain-hole-girls.json) |
 | Brain Hotel: Remodeled | 274951 | [274951-brain-hotel-remodeled.json](./274951-brain-hotel-remodeled.json) |
 | Brain in a Vat Lies | 123471 | [123471-brain-in-a-vat-lies.json](./123471-brain-in-a-vat-lies.json) |
+| Brain in Retro Space | 154869 | [154869-brain-in-retro-space.json](./154869-brain-in-retro-space.json) |
 | Brain It On! | 97332 | [97332-brain-it-on.json](./97332-brain-it-on.json) |
 | Brain Marmelade | 135751 | [135751-brain-marmelade.json](./135751-brain-marmelade.json) |
 | Brain Memory 2: Cards Pack 1 | 300949 | [300949-brain-memory-2-cards-pack-1.json](./300949-brain-memory-2-cards-pack-1.json) |
