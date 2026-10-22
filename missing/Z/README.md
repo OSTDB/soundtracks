@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zayed the Leader | 100140 | [100140-zayed-the-leader.json](./100140-zayed-the-leader.json) |
 | Zayzoo: An Earth Adventure | 66645 | [66645-zayzoo-an-earth-adventure.json](./66645-zayzoo-an-earth-adventure.json) |
 | Zayzoo: My Alien Classmate | 66643 | [66643-zayzoo-my-alien-classmate.json](./66643-zayzoo-my-alien-classmate.json) |
+| Zaz | 122710 | [122710-zaz.json](./122710-zaz.json) |
 | Zball | 167369 | [167369-zball.json](./167369-zball.json) |
 | Zball II | 149519 | [149519-zball-ii.json](./149519-zball-ii.json) |
 | Zball IV | 153316 | [153316-zball-iv.json](./153316-zball-iv.json) |
