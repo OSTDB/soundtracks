@@ -2493,7 +2493,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Dracula: Dark Carnival | 274476 | [274476-incredible-dracula-dark-carnival.json](./274476-incredible-dracula-dark-carnival.json) |
 | Incredible Dracula: Legacy of the Valkyries | 152687 | [152687-incredible-dracula-legacy-of-the-valkyries.json](./152687-incredible-dracula-legacy-of-the-valkyries.json) |
 | Incredible Dracula: License to Relax - Collector's Edition | 341025 | [341025-incredible-dracula-license-to-relax-collectors-edition.json](./341025-incredible-dracula-license-to-relax-collectors-edition.json) |
+| Incredible Dracula: The Ice Kingdom | 125687 | [125687-incredible-dracula-the-ice-kingdom.json](./125687-incredible-dracula-the-ice-kingdom.json) |
 | Incredible Dracula: The Last Call Collector's Edition | 53227 | [53227-incredible-dracula-the-last-call-collectors-edition.json](./53227-incredible-dracula-the-last-call-collectors-edition.json) |
+| Incredible Dracula: Vargosi Returns | 125708 | [125708-incredible-dracula-vargosi-returns.json](./125708-incredible-dracula-vargosi-returns.json) |
 | Incredible Ink | 343924 | [343924-incredible-ink.json](./343924-incredible-ink.json) |
 | Incredible Monster Prison Escape Police Jail Break | 104582 | [104582-incredible-monster-prison-escape-police-jail-break.json](./104582-incredible-monster-prison-escape-police-jail-break.json) |
 | Incredible Puzzle | 224037 | [224037-incredible-puzzle.json](./224037-incredible-puzzle.json) |
@@ -4327,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Investigate | 229017 | [229017-investigate.json](./229017-investigate.json) |
 | Investigate | 384334 | [384334-investigate.json](./384334-investigate.json) |
 | Investigating Alien Cats | 368591 | [368591-investigating-alien-cats.json](./368591-investigating-alien-cats.json) |
+| Investigation Forces: Operation Zero | 125695 | [125695-investigation-forces-operation-zero.json](./125695-investigation-forces-operation-zero.json) |
 | Investigation Stories: Gunsound | 369552 | [369552-investigation-stories-gunsound.json](./369552-investigation-stories-gunsound.json) |
 | Investigation Stories: Windsound | 216395 | [216395-investigation-stories-windsound.json](./216395-investigation-stories-windsound.json) |
 | Investigator | 32526 | [32526-investigator.json](./32526-investigator.json) |
