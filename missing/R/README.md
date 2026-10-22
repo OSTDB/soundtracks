@@ -2913,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Christmas | 383580 | [383580-red-christmas.json](./383580-red-christmas.json) |
 | Red Clash | 251368 | [251368-red-clash.json](./251368-red-clash.json) |
 | Red Colony | 139466 | [139466-red-colony.json](./139466-red-colony.json) |
+| Red Colony 2 | 153796 | [153796-red-colony-2.json](./153796-red-colony-2.json) |
 | Red Colony 3 | 192073 | [192073-red-colony-3.json](./192073-red-colony-3.json) |
 | Red Comrades 2: For the Great Justice - Reloaded | 33509 | [33509-red-comrades-2-for-the-great-justice-reloaded.json](./33509-red-comrades-2-for-the-great-justice-reloaded.json) |
 | Red Comrades 3: Return of Alaska - Reloaded | 30871 | [30871-red-comrades-3-return-of-alaska-reloaded.json](./30871-red-comrades-3-return-of-alaska-reloaded.json) |
@@ -9766,6 +9767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruriiro Days: Heavenly Blue | 221242 | [221242-ruriiro-days-heavenly-blue.json](./221242-ruriiro-days-heavenly-blue.json) |
 | Rurizakura | 157566 | [157566-rurizakura.json](./157566-rurizakura.json) |
 | Rurouni Kenshin: Meiji Kenkaku Roman-tan - Ishin Gekitou-hen | 44771 | [44771-rurouni-kenshin-meiji-kenkaku-roman-tan-ishin-gekitou-hen.json](./44771-rurouni-kenshin-meiji-kenkaku-roman-tan-ishin-gekitou-hen.json) |
+| Rurouni Kenshin: Meiji Kenkaku Roman-tan - Kengeki Kenran | 153693 | [153693-rurouni-kenshin-meiji-kenkaku-roman-tan-kengeki-kenran.json](./153693-rurouni-kenshin-meiji-kenkaku-roman-tan-kengeki-kenran.json) |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Enjou, Kyoto Rinne! | 73695 | [73695-rurouni-kenshin-meiji-kenkaku-romantan-enjou-kyoto-rinne.json](./73695-rurouni-kenshin-meiji-kenkaku-romantan-enjou-kyoto-rinne.json) |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kansen | 44492 | [44492-rurouni-kenshin-meiji-kenkaku-romantan-kansen.json](./44492-rurouni-kenshin-meiji-kenkaku-romantan-kansen.json) |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Saisen | 42838 | [42838-rurouni-kenshin-meiji-kenkaku-romantan-saisen.json](./42838-rurouni-kenshin-meiji-kenkaku-romantan-saisen.json) |
