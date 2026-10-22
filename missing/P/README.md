@@ -2080,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Mashup | 137613 | [137613-party-mashup.json](./137613-party-mashup.json) |
 | Party Minigames 2 3 4 players | 232309 | [232309-party-minigames-2-3-4-players.json](./232309-party-minigames-2-3-4-players.json) |
 | Party Mix | 40660 | [40660-party-mix.json](./40660-party-mix.json) |
+| Party of Heroes | 101997 | [101997-party-of-heroes.json](./101997-party-of-heroes.json) |
 | Party Panic | 31936 | [31936-party-panic.json](./31936-party-panic.json) |
 | Party Paradise | 186749 | [186749-party-paradise.json](./186749-party-paradise.json) |
 | Party Park | 226155 | [226155-party-park.json](./226155-party-park.json) |
@@ -7249,6 +7250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Simulation | 63207 | [63207-planet-simulation.json](./63207-planet-simulation.json) |
 | Planet Smashers | 12336 | [12336-planet-smashers.json](./12336-planet-smashers.json) |
 | Planet Soccer | 57688 | [57688-planet-soccer.json](./57688-planet-soccer.json) |
+| Planet Splitters | 102019 | [102019-planet-splitters.json](./102019-planet-splitters.json) |
 | Planet Squirrel | 106743 | [106743-planet-squirrel.json](./106743-planet-squirrel.json) |
 | Planet Stronghold | 8982 | [8982-planet-stronghold.json](./8982-planet-stronghold.json) |
 | Planet Stronghold 2 | 103609 | [103609-planet-stronghold-2.json](./103609-planet-stronghold-2.json) |
@@ -14311,6 +14313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Freak | 196795 | [196795-puzzle-freak.json](./196795-puzzle-freak.json) |
 | Puzzle Frenzy | 187276 | [187276-puzzle-frenzy.json](./187276-puzzle-frenzy.json) |
 | Puzzle Fruit Merge: Match Game | 376229 | [376229-puzzle-fruit-merge-match-game.json](./376229-puzzle-fruit-merge-match-game.json) |
+| Puzzle Fuzz: Idle Stories | 102009 | [102009-puzzle-fuzz-idle-stories.json](./102009-puzzle-fuzz-idle-stories.json) |
 | Puzzle Fuzzle | 312651 | [312651-puzzle-fuzzle.json](./312651-puzzle-fuzzle.json) |
 | Puzzle Galaxies | 32936 | [32936-puzzle-galaxies.json](./32936-puzzle-galaxies.json) |
 | Puzzle Galaxy: Beautiful Paintings - 47 new puzzles | 378863 | [378863-puzzle-galaxy-beautiful-paintings-47-new-puzzles.json](./378863-puzzle-galaxy-beautiful-paintings-47-new-puzzles.json) |
