@@ -15944,6 +15944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark | 302800 | [302800-spark.json](./302800-spark.json) |
 | Spark & Kling | 290293 | [290293-spark-and-kling.json](./290293-spark-and-kling.json) |
 | Spark & Sparkle | 125696 | [125696-spark-and-sparkle.json](./125696-spark-and-sparkle.json) |
+| Spark and The Digital Daydream | 117372 | [117372-spark-and-the-digital-daydream.json](./117372-spark-and-the-digital-daydream.json) |
 | Spark Era | 229112 | [229112-spark-era.json](./229112-spark-era.json) |
 | Spark Era: Echo to Universe | 227171 | [227171-spark-era-echo-to-universe.json](./227171-spark-era-echo-to-universe.json) |
 | Spark Five | 111683 | [111683-spark-five.json](./111683-spark-five.json) |
@@ -20758,6 +20759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Out! | 386696 | [386696-stick-out.json](./386696-stick-out.json) |
 | Stick Ranger | 57898 | [57898-stick-ranger.json](./57898-stick-ranger.json) |
 | Stick Robot Puzzle | 303665 | [303665-stick-robot-puzzle.json](./303665-stick-robot-puzzle.json) |
+| Stick Royale | 117373 | [117373-stick-royale.json](./117373-stick-royale.json) |
 | Stick RPG | 97975 | [97975-stick-rpg.json](./97975-stick-rpg.json) |
 | Stick Run | 57176 | [57176-stick-run.json](./57176-stick-run.json) |
 | Stick Runner: Operation Europe | 105763 | [105763-stick-runner-operation-europe.json](./105763-stick-runner-operation-europe.json) |
