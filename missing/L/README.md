@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladybugs and Storm | 236736 | [236736-ladybugs-and-storm.json](./236736-ladybugs-and-storm.json) |
 | Ladykiller in a Bind | 25572 | [25572-ladykiller-in-a-bind.json](./25572-ladykiller-in-a-bind.json) |
 | Ladylike | 152769 | [152769-ladylike.json](./152769-ladylike.json) |
+| Laedomanes | 142094 | [142094-laedomanes.json](./142094-laedomanes.json) |
 | Laetus. | 198297 | [198297-laetus.json](./198297-laetus.json) |
 | Laf Pak | 279740 | [279740-laf-pak.json](./279740-laf-pak.json) |
 | Laf the game | 226204 | [226204-laf-the-game.json](./226204-laf-the-game.json) |
@@ -987,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Escort: Kokuchou Special Night | 220567 | [220567-last-escort-kokuchou-special-night.json](./220567-last-escort-kokuchou-special-night.json) |
 | Last Escort: Shin'ya no Kokuchou Monogatari | 220566 | [220566-last-escort-shinya-no-kokuchou-monogatari.json](./220566-last-escort-shinya-no-kokuchou-monogatari.json) |
 | Last Evil | 135638 | [135638-last-evil.json](./135638-last-evil.json) |
+| Last Expedition | 142310 | [142310-last-expedition.json](./142310-last-expedition.json) |
 | Last Fantasy | 234482 | [234482-last-fantasy.json](./234482-last-fantasy.json) |
 | Last Fantasy Hentai | 149388 | [149388-last-fantasy-hentai.json](./149388-last-fantasy-hentai.json) |
 | Last Fishing: Monster Clash | 220208 | [220208-last-fishing-monster-clash.json](./220208-last-fishing-monster-clash.json) |
