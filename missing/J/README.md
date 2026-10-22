@@ -2835,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junior Classic Books and Fairytales | 85716 | [85716-junior-classic-books-and-fairytales.json](./85716-junior-classic-books-and-fairytales.json) |
 | Junior Classic Games | 338790 | [338790-junior-classic-games.json](./338790-junior-classic-games.json) |
 | Junior Classic Games 3D | 122193 | [122193-junior-classic-games-3d.json](./122193-junior-classic-games-3d.json) |
+| Junior Education 2 | 151997 | [151997-junior-education-2.json](./151997-junior-education-2.json) |
 | Junior Fitness Trainer | 268182 | [268182-junior-fitness-trainer.json](./268182-junior-fitness-trainer.json) |
 | Junior League: Sports - Soccer | 187245 | [187245-junior-league-sports-soccer.json](./187245-junior-league-sports-soccer.json) |
 | Junior MithulBlox | 318495 | [318495-junior-mithulblox.json](./318495-junior-mithulblox.json) |
