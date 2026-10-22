@@ -4193,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Basara 2 | 5150 | [5150-sengoku-basara-2.json](./5150-sengoku-basara-2.json) |
 | Sengoku Basara 2 Heroes | 72578 | [72578-sengoku-basara-2-heroes.json](./72578-sengoku-basara-2-heroes.json) |
 | Sengoku Basara 2: Heroes - Double Pack | 268378 | [268378-sengoku-basara-2-heroes-double-pack.json](./268378-sengoku-basara-2-heroes-double-pack.json) |
+| Sengoku Basara 4: Sumeragi - Anniversary Edition | 136704 | [136704-sengoku-basara-4-sumeragi-anniversary-edition.json](./136704-sengoku-basara-4-sumeragi-anniversary-edition.json) |
 | Sengoku Basara X | 68950 | [68950-sengoku-basara-x.json](./68950-sengoku-basara-x.json) |
 | Sengoku Basara: Battle Heroes | 72563 | [72563-sengoku-basara-battle-heroes.json](./72563-sengoku-basara-battle-heroes.json) |
 | Sengoku Basara: Samurai Heroes | 7455 | [7455-sengoku-basara-samurai-heroes.json](./7455-sengoku-basara-samurai-heroes.json) |
@@ -4283,6 +4284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura Reflexions: Yumi Reflexions Course & 9-Outfit Set | 374267 | [374267-senran-kagura-reflexions-yumi-reflexions-course-and-9-outfit-set.json](./374267-senran-kagura-reflexions-yumi-reflexions-course-and-9-outfit-set.json) |
 | Senran Kagura: Estival Versus | 11006 | [11006-senran-kagura-estival-versus.json](./11006-senran-kagura-estival-versus.json) |
 | Senran Kagura: Estival Versus - Endless Summer Edition | 42677 | [42677-senran-kagura-estival-versus-endless-summer-edition.json](./42677-senran-kagura-estival-versus-endless-summer-edition.json) |
+| Senran Kagura: Estival Versus - Sakura Edition | 136688 | [136688-senran-kagura-estival-versus-sakura-edition.json](./136688-senran-kagura-estival-versus-sakura-edition.json) |
 | Senran Kagura: Estival Versus - Splash Pack | 226793 | [226793-senran-kagura-estival-versus-splash-pack.json](./226793-senran-kagura-estival-versus-splash-pack.json) |
 | Senran Kagura: New Link | 54520 | [54520-senran-kagura-new-link.json](./54520-senran-kagura-new-link.json) |
 | Senran Kagura: Peach and Reflexions Limited Double Pack | 136928 | [136928-senran-kagura-peach-and-reflexions-limited-double-pack.json](./136928-senran-kagura-peach-and-reflexions-limited-double-pack.json) |
@@ -6453,6 +6455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei Vertex | 142491 | [142491-shin-megami-tensei-vertex.json](./142491-shin-megami-tensei-vertex.json) |
 | Shin Megami Tensei: 20XX | 137298 | [137298-shin-megami-tensei-20xx.json](./137298-shin-megami-tensei-20xx.json) |
 | Shin Megami Tensei: 20XX Devil's Colosseum | 137685 | [137685-shin-megami-tensei-20xx-devils-colosseum.json](./137685-shin-megami-tensei-20xx-devils-colosseum.json) |
+| Shin Megami Tensei: Deep Strange Journey - 25th Anniversary Special Box | 136903 | [136903-shin-megami-tensei-deep-strange-journey-25th-anniversary-special-box.json](./136903-shin-megami-tensei-deep-strange-journey-25th-anniversary-special-box.json) |
 | Shin Megami Tensei: Devil Children - Black/Red Book | 77958 | [77958-shin-megami-tensei-devil-children-black-red-book.json](./77958-shin-megami-tensei-devil-children-black-red-book.json) |
 | Shin Megami Tensei: Devil Children - Koori no Sho | 92475 | [92475-shin-megami-tensei-devil-children-koori-no-sho.json](./92475-shin-megami-tensei-devil-children-koori-no-sho.json) |
 | Shin Megami Tensei: Devil Children - Messiah Riser | 49774 | [49774-shin-megami-tensei-devil-children-messiah-riser.json](./49774-shin-megami-tensei-devil-children-messiah-riser.json) |
@@ -22310,6 +22313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Stories | 149689 | [149689-stupid-stories.json](./149689-stupid-stories.json) |
 | Stupid Survivor | 114740 | [114740-stupid-survivor.json](./114740-stupid-survivor.json) |
 | Stupid Teammates | 288428 | [288428-stupid-teammates.json](./288428-stupid-teammates.json) |
+| Stupid Zombies | 136710 | [136710-stupid-zombies.json](./136710-stupid-zombies.json) |
 | Stupid Zombies 2 | 207250 | [207250-stupid-zombies-2.json](./207250-stupid-zombies-2.json) |
 | Stupid Zombies 3 | 207251 | [207251-stupid-zombies-3.json](./207251-stupid-zombies-3.json) |
 | Stupid Zombies Xterminator | 209935 | [209935-stupid-zombies-xterminator.json](./209935-stupid-zombies-xterminator.json) |
@@ -23073,6 +23077,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumiii | 219585 | [219585-sumiii.json](./219585-sumiii.json) |
 | SumiKen: Ink Blade Samurai | 208951 | [208951-sumiken-ink-blade-samurai.json](./208951-sumiken-ink-blade-samurai.json) |
 | Sumikko Gurashi: Gakkou Seikatsu Hajimerun Desu | 118269 | [118269-sumikko-gurashi-gakkou-seikatsu-hajimerun-desu.json](./118269-sumikko-gurashi-gakkou-seikatsu-hajimerun-desu.json) |
+| Sumikko Gurashi: Koko ga Ochitsukun Desu | 136902 | [136902-sumikko-gurashi-koko-ga-ochitsukun-desu.json](./136902-sumikko-gurashi-koko-ga-ochitsukun-desu.json) |
+| Sumikko Gurashi: Koko, Doko Nandesu? | 136908 | [136908-sumikko-gurashi-koko-doko-nandesu.json](./136908-sumikko-gurashi-koko-doko-nandesu.json) |
 | Sumikko Gurashi: Omise Hajimerun Desu | 59889 | [59889-sumikko-gurashi-omise-hajimerun-desu.json](./59889-sumikko-gurashi-omise-hajimerun-desu.json) |
 | Sumikko Gurashi: Sumikko Park he Youkoso | 55138 | [55138-sumikko-gurashi-sumikko-park-he-youkoso.json](./55138-sumikko-gurashi-sumikko-park-he-youkoso.json) |
 | Sumikkogurashi Farm | 208066 | [208066-sumikkogurashi-farm.json](./208066-sumikkogurashi-farm.json) |
@@ -25324,6 +25330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Wars OG: The Moon Dwellers | 80139 | [80139-super-robot-wars-og-the-moon-dwellers.json](./80139-super-robot-wars-og-the-moon-dwellers.json) |
 | Super Robot Wars OG: The Moon Dwellers - Collector's Edition | 166276 | [166276-super-robot-wars-og-the-moon-dwellers-collectors-edition.json](./166276-super-robot-wars-og-the-moon-dwellers-collectors-edition.json) |
 | Super Robot Wars OG: The Moon Dwellers - Limited Edition | 166306 | [166306-super-robot-wars-og-the-moon-dwellers-limited-edition.json](./166306-super-robot-wars-og-the-moon-dwellers-limited-edition.json) |
+| Super Robot Wars T: Premium Anime Song & Sound Edition | 136690 | [136690-super-robot-wars-t-premium-anime-song-and-sound-edition.json](./136690-super-robot-wars-t-premium-anime-song-and-sound-edition.json) |
 | Super Robot Wars V | 117578 | [117578-super-robot-wars-v.json](./117578-super-robot-wars-v.json) |
 | Super Robot Wars X | 87796 | [87796-super-robot-wars-x.json](./87796-super-robot-wars-x.json) |
 | Super Robot Wars X: Premium Anime Song & Sound Edition | 136755 | [136755-super-robot-wars-x-premium-anime-song-and-sound-edition.json](./136755-super-robot-wars-x-premium-anime-song-and-sound-edition.json) |
