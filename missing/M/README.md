@@ -7368,6 +7368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merlin Adventurer Store | 26490 | [26490-merlin-adventurer-store.json](./26490-merlin-adventurer-store.json) |
 | Merlin Challenge | 94338 | [94338-merlin-challenge.json](./94338-merlin-challenge.json) |
 | Merlin Racing | 51184 | [51184-merlin-racing.json](./51184-merlin-racing.json) |
+| Merlin Soccer | 105662 | [105662-merlin-soccer.json](./105662-merlin-soccer.json) |
 | Merlin Survivors | 374165 | [374165-merlin-survivors.json](./374165-merlin-survivors.json) |
 | Merlin: The Game | 304206 | [304206-merlin-the-game.json](./304206-merlin-the-game.json) |
 | Merlin's Apprentice | 45913 | [45913-merlins-apprentice.json](./45913-merlins-apprentice.json) |
@@ -15873,6 +15874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First Grade Fantasy Adventure | 266304 | [266304-my-first-grade-fantasy-adventure.json](./266304-my-first-grade-fantasy-adventure.json) |
 | My First Gran Turismo | 324502 | [324502-my-first-gran-turismo.json](./324502-my-first-gran-turismo.json) |
 | My First Horse: Adventures on Seahorse Island | 238478 | [238478-my-first-horse-adventures-on-seahorse-island.json](./238478-my-first-horse-adventures-on-seahorse-island.json) |
+| My First Music Workshop | 105693 | [105693-my-first-music-workshop.json](./105693-my-first-music-workshop.json) |
 | My First Quantum Translocator | 320248 | [320248-my-first-quantum-translocator.json](./320248-my-first-quantum-translocator.json) |
 | My First Songs | 84715 | [84715-my-first-songs.json](./84715-my-first-songs.json) |
 | My First Tangrams for iPad | 95569 | [95569-my-first-tangrams-for-ipad.json](./95569-my-first-tangrams-for-ipad.json) |
@@ -16798,6 +16800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious: Dark Journey | 157976 | [157976-mysterious-dark-journey.json](./157976-mysterious-dark-journey.json) |
 | Mystery | 167267 | [167267-mystery.json](./167267-mystery.json) |
 | Mystery Adventure The Maid Did It | 402378 | [402378-mystery-adventure-the-maid-did-it.json](./402378-mystery-adventure-the-maid-did-it.json) |
+| Mystery Adventure: Secret Key | 105706 | [105706-mystery-adventure-secret-key.json](./105706-mystery-adventure-secret-key.json) |
 | Mystery at Grand Fir Village | 274347 | [274347-mystery-at-grand-fir-village.json](./274347-mystery-at-grand-fir-village.json) |
 | Mystery at Morgoth | 173008 | [173008-mystery-at-morgoth.json](./173008-mystery-at-morgoth.json) |
 | Mystery at Rainy Night Manor: The Missing Invitation | 409657 | [409657-mystery-at-rainy-night-manor-the-missing-invitation.json](./409657-mystery-at-rainy-night-manor-the-missing-invitation.json) |
@@ -17192,6 +17195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mytheon: Egypt Pack | 170794 | [170794-mytheon-egypt-pack.json](./170794-mytheon-egypt-pack.json) |
 | Mythfall | 304752 | [304752-mythfall.json](./304752-mythfall.json) |
 | MythForce | 197712 | [197712-mythforce.json](./197712-mythforce.json) |
+| Mythgard | 105679 | [105679-mythgard.json](./105679-mythgard.json) |
 | MythGotchi | 419974 | [419974-mythgotchi.json](./419974-mythgotchi.json) |
 | Mythia | 299866 | [299866-mythia.json](./299866-mythia.json) |
 | Mythic Battle | 419969 | [419969-mythic-battle.json](./419969-mythic-battle.json) |
