@@ -1682,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harriet: From Slave to Hero | 195440 | [195440-harriet-from-slave-to-hero.json](./195440-harriet-from-slave-to-hero.json) |
 | Harrow | 265698 | [265698-harrow.json](./265698-harrow.json) |
 | Harrowed Halls: Lakeview Lane | 139198 | [139198-harrowed-halls-lakeview-lane.json](./139198-harrowed-halls-lakeview-lane.json) |
+| Harrowed Halls: Lakeview Lane - Collector's Edition | 126282 | [126282-harrowed-halls-lakeview-lane-collectors-edition.json](./126282-harrowed-halls-lakeview-lane-collectors-edition.json) |
 | Harrowed World: Portents In Red | 264020 | [264020-harrowed-world-portents-in-red.json](./264020-harrowed-world-portents-in-red.json) |
 | Harrowed World: What's Past Is Portents | 297924 | [297924-harrowed-world-whats-past-is-portents.json](./297924-harrowed-world-whats-past-is-portents.json) |
 | Harrowing Gate: Ghost Dimension | 199104 | [199104-harrowing-gate-ghost-dimension.json](./199104-harrowing-gate-ghost-dimension.json) |
@@ -6404,6 +6405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | History Racers 2 | 127691 | [127691-history-racers-2.json](./127691-history-racers-2.json) |
 | History Table: Lore & Quiz | 173254 | [173254-history-table-lore-and-quiz.json](./173254-history-table-lore-and-quiz.json) |
 | History Trivia: Ancient-Modern | 87236 | [87236-history-trivia-ancient-modern.json](./87236-history-trivia-ancient-modern.json) |
+| History Warriors | 126238 | [126238-history-warriors.json](./126238-history-warriors.json) |
 | History: Great Empires - Rome | 20694 | [20694-history-great-empires-rome.json](./20694-history-great-empires-rome.json) |
 | History: Ice Road Truckers | 66890 | [66890-history-ice-road-truckers.json](./66890-history-ice-road-truckers.json) |
 | History's Ice Road Truckers | 105530 | [105530-historys-ice-road-truckers.json](./105530-historys-ice-road-truckers.json) |
@@ -9782,6 +9784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperBrawl Tournament | 29495 | [29495-hyperbrawl-tournament.json](./29495-hyperbrawl-tournament.json) |
 | HyperBrawl Tournament: Ultimate Edition | 188012 | [188012-hyperbrawl-tournament-ultimate-edition.json](./188012-hyperbrawl-tournament-ultimate-edition.json) |
 | Hyperburner | 94780 | [94780-hyperburner.json](./94780-hyperburner.json) |
+| Hypercade | 126273 | [126273-hypercade.json](./126273-hypercade.json) |
 | Hypercar Evolution 2025 | 385977 | [385977-hypercar-evolution-2025.json](./385977-hypercar-evolution-2025.json) |
 | Hypercharge: Unboxed | 39758 | [39758-hypercharge-unboxed.json](./39758-hypercharge-unboxed.json) |
 | Hypercharge: Unboxed - Complete Edition | 227408 | [227408-hypercharge-unboxed-complete-edition.json](./227408-hypercharge-unboxed-complete-edition.json) |
