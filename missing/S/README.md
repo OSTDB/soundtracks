@@ -14938,6 +14938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bomber | 39418 | [39418-space-bomber.json](./39418-space-bomber.json) |
 | Space Bounce | 178984 | [178984-space-bounce.json](./178984-space-bounce.json) |
 | Space Box Battle Arena | 164968 | [164968-space-box-battle-arena.json](./164968-space-box-battle-arena.json) |
+| Space Break | 106331 | [106331-space-break.json](./106331-space-break.json) |
 | Space Break | 142853 | [142853-space-break.json](./142853-space-break.json) |
 | Space Break 2 | 187710 | [187710-space-break-2.json](./187710-space-break-2.json) |
 | Space Break 2 Head to Head | 214059 | [214059-space-break-2-head-to-head.json](./214059-space-break-2-head-to-head.json) |
@@ -25910,6 +25911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Storm | 42144 | [42144-super-storm.json](./42144-super-storm.json) |
 | Super Strawberry Clock | 361284 | [361284-super-strawberry-clock.json](./361284-super-strawberry-clock.json) |
 | Super Strawberry Man | 108354 | [108354-super-strawberry-man.json](./108354-super-strawberry-man.json) |
+| Super Streaker Plus | 106336 | [106336-super-streaker-plus.json](./106336-super-streaker-plus.json) |
 | Super Stream-Bara | 338948 | [338948-super-stream-bara.json](./338948-super-stream-bara.json) |
 | Super Street Basketball 2 | 64097 | [64097-super-street-basketball-2.json](./64097-super-street-basketball-2.json) |
 | Super Street Fighter II | 322188 | [322188-super-street-fighter-ii.json](./322188-super-street-fighter-ii.json) |
@@ -27492,6 +27494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swim | 359195 | [359195-swim.json](./359195-swim.json) |
 | Swim Meet | 242453 | [242453-swim-meet.json](./242453-swim-meet.json) |
 | Swim Out | 47995 | [47995-swim-out.json](./47995-swim-out.json) |
+| Swim Penguin | 106298 | [106298-swim-penguin.json](./106298-swim-penguin.json) |
 | Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
 | Swim4Swim | 410280 | [410280-swim4swim.json](./410280-swim4swim.json) |
 | Swimcraft | 410911 | [410911-swimcraft.json](./410911-swimcraft.json) |
