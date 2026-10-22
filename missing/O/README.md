@@ -4406,6 +4406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlook: Local multiplayer game up to 16 players | 78112 | [78112-overlook-local-multiplayer-game-up-to-16-players.json](./78112-overlook-local-multiplayer-game-up-to-16-players.json) |
 | Overloop | 75025 | [75025-overloop.json](./75025-overloop.json) |
 | Overlooting | 334898 | [334898-overlooting.json](./334898-overlooting.json) |
+| Overlord | 119392 | [119392-overlord.json](./119392-overlord.json) |
 | Overlord | 121368 | [121368-overlord.json](./121368-overlord.json) |
 | Overlord | 154250 | [154250-overlord.json](./154250-overlord.json) |
 | Overlord | 341528 | [341528-overlord.json](./341528-overlord.json) |
