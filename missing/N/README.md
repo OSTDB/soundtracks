@@ -4378,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitrokill | 390817 | [390817-nitrokill.json](./390817-nitrokill.json) |
 | Nitrome Must Die | 141775 | [141775-nitrome-must-die.json](./141775-nitrome-must-die.json) |
 | Nitronauts | 333144 | [333144-nitronauts.json](./333144-nitronauts.json) |
+| Nitroneers | 120021 | [120021-nitroneers.json](./120021-nitroneers.json) |
 | Nitroplus Blasterz: Heroines Infinite Duel - Limited Edition | 167134 | [167134-nitroplus-blasterz-heroines-infinite-duel-limited-edition.json](./167134-nitroplus-blasterz-heroines-infinite-duel-limited-edition.json) |
 | Nitrous Fury | 385085 | [385085-nitrous-fury.json](./385085-nitrous-fury.json) |
 | NitroVerse | 414108 | [414108-nitroverse.json](./414108-nitroverse.json) |
@@ -5674,6 +5675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noxium | 280119 | [280119-noxium.json](./280119-noxium.json) |
 | Noyah: Corrupted Memories | 164962 | [164962-noyah-corrupted-memories.json](./164962-noyah-corrupted-memories.json) |
 | Noyd | 270608 | [270608-noyd.json](./270608-noyd.json) |
+| Noyo-! | 120038 | [120038-noyo.json](./120038-noyo.json) |
 | Nozoku | 238984 | [238984-nozoku.json](./238984-nozoku.json) |
 | Nozoku Rush | 223600 | [223600-nozoku-rush.json](./223600-nozoku-rush.json) |
 | Nozomi-chan no Spiritual Card | 405493 | [405493-nozomi-chan-no-spiritual-card.json](./405493-nozomi-chan-no-spiritual-card.json) |
