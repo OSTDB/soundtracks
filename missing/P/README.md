@@ -1897,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Jam: Snow Rush | 313231 | [313231-parking-jam-snow-rush.json](./313231-parking-jam-snow-rush.json) |
 | Parking Jam: Tasty Edition | 324374 | [324374-parking-jam-tasty-edition.json](./324374-parking-jam-tasty-edition.json) |
 | Parking Lot Maze | 146815 | [146815-parking-lot-maze.json](./146815-parking-lot-maze.json) |
+| Parking Lot Royale | 116717 | [116717-parking-lot-royale.json](./116717-parking-lot-royale.json) |
 | Parking Lot Simulator | 383746 | [383746-parking-lot-simulator.json](./383746-parking-lot-simulator.json) |
 | Parking Madness | 147736 | [147736-parking-madness.json](./147736-parking-madness.json) |
 | Parking Mania | 62763 | [62763-parking-mania.json](./62763-parking-mania.json) |
@@ -6404,6 +6405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles | 243639 | [243639-pixel-puzzles.json](./243639-pixel-puzzles.json) |
 | Pixel Puzzles 2: Christmas | 112743 | [112743-pixel-puzzles-2-christmas.json](./112743-pixel-puzzles-2-christmas.json) |
 | Pixel Puzzles 2: Halloween | 125736 | [125736-pixel-puzzles-2-halloween.json](./125736-pixel-puzzles-2-halloween.json) |
+| Pixel Puzzles 2: Paintings | 116762 | [116762-pixel-puzzles-2-paintings.json](./116762-pixel-puzzles-2-paintings.json) |
 | Pixel Puzzles 2: Radical Roach | 32126 | [32126-pixel-puzzles-2-radical-roach.json](./32126-pixel-puzzles-2-radical-roach.json) |
 | Pixel Puzzles 3: Ukiyo-e Jigsaws | 312692 | [312692-pixel-puzzles-3-ukiyo-e-jigsaws.json](./312692-pixel-puzzles-3-ukiyo-e-jigsaws.json) |
 | Pixel Puzzles 4k: Japan | 163411 | [163411-pixel-puzzles-4k-japan.json](./163411-pixel-puzzles-4k-japan.json) |
@@ -7078,6 +7080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planecraft | 279494 | [279494-planecraft.json](./279494-planecraft.json) |
 | Planes | 262093 | [262093-planes.json](./262093-planes.json) |
 | Planes and Trains and Automobiles | 209381 | [209381-planes-and-trains-and-automobiles.json](./209381-planes-and-trains-and-automobiles.json) |
+| Planes Attack | 116759 | [116759-planes-attack.json](./116759-planes-attack.json) |
 | Planes Combat | 278150 | [278150-planes-combat.json](./278150-planes-combat.json) |
 | Planes Journey | 150256 | [150256-planes-journey.json](./150256-planes-journey.json) |
 | Planes: Fire & Rescue | 249103 | [249103-planes-fire-and-rescue.json](./249103-planes-fire-and-rescue.json) |
@@ -12598,6 +12601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project SkyBlade (Working title) | 131475 | [131475-project-skyblade-working-title.json](./131475-project-skyblade-working-title.json) |
 | Project Skylab | 106509 | [106509-project-skylab.json](./106509-project-skylab.json) |
 | Project Skylab 2 | 110106 | [110106-project-skylab-2.json](./110106-project-skylab-2.json) |
+| Project Skylab 3: A New Frontier | 116765 | [116765-project-skylab-3-a-new-frontier.json](./116765-project-skylab-3-a-new-frontier.json) |
 | Project Slippi | 319004 | [319004-project-slippi.json](./319004-project-slippi.json) |
 | Project Smile | 363673 | [363673-project-smile.json](./363673-project-smile.json) |
 | Project Snaqe | 189378 | [189378-project-snaqe.json](./189378-project-snaqe.json) |
