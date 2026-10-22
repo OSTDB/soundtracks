@@ -2921,6 +2921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Pixels II: Straight to Video | 18362 | [18362-dead-pixels-ii-straight-to-video.json](./18362-dead-pixels-ii-straight-to-video.json) |
 | Dead Profit | 192274 | [192274-dead-profit.json](./192274-dead-profit.json) |
 | Dead Pulse | 393989 | [393989-dead-pulse.json](./393989-dead-pulse.json) |
+| Dead Quest | 117401 | [117401-dead-quest.json](./117401-dead-quest.json) |
 | Dead Raid | 140516 | [140516-dead-raid.json](./140516-dead-raid.json) |
 | Dead Raid | 249686 | [249686-dead-raid.json](./249686-dead-raid.json) |
 | Dead Rails | 335356 | [335356-dead-rails.json](./335356-dead-rails.json) |
@@ -3673,6 +3674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathchron | 242040 | [242040-deathchron.json](./242040-deathchron.json) |
 | DeathCrank | 34726 | [34726-deathcrank.json](./34726-deathcrank.json) |
 | Deathdays End | 111478 | [111478-deathdays-end.json](./111478-deathdays-end.json) |
+| Deatherem | 117384 | [117384-deatherem.json](./117384-deatherem.json) |
 | Deathgarden: Bloodharvest | 119923 | [119923-deathgarden-bloodharvest.json](./119923-deathgarden-bloodharvest.json) |
 | Deathgasm | 352381 | [352381-deathgasm.json](./352381-deathgasm.json) |
 | DeathGearX | 312728 | [312728-deathgearx.json](./312728-deathgearx.json) |
@@ -4103,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Panic | 402271 | [402271-deep-panic.json](./402271-deep-panic.json) |
 | Deep Pixel Melancholy | 347185 | [347185-deep-pixel-melancholy.json](./347185-deep-pixel-melancholy.json) |
 | Deep Race: Battle | 121557 | [121557-deep-race-battle.json](./121557-deep-race-battle.json) |
+| Deep Race: Space | 117360 | [117360-deep-race-space.json](./117360-deep-race-space.json) |
 | Deep Raider | 71758 | [71758-deep-raider.json](./71758-deep-raider.json) |
 | Deep Realms | 92442 | [92442-deep-realms.json](./92442-deep-realms.json) |
 | Deep Research | 271493 | [271493-deep-research.json](./271493-deep-research.json) |
@@ -6474,6 +6477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabolus Ex | 142298 | [142298-diabolus-ex.json](./142298-diabolus-ex.json) |
 | Diabotical | 22384 | [22384-diabotical.json](./22384-diabotical.json) |
 | Diabotical Rogue | 304285 | [304285-diabotical-rogue.json](./304285-diabotical-rogue.json) |
+| Diacrisis | 117389 | [117389-diacrisis.json](./117389-diacrisis.json) |
 | Diadem of Manstraut | 407349 | [407349-diadem-of-manstraut.json](./407349-diadem-of-manstraut.json) |
 | Diadra Empty | 17133 | [17133-diadra-empty.json](./17133-diadra-empty.json) |
 | Diadrum | 92123 | [92123-diadrum.json](./92123-diadrum.json) |
@@ -7461,6 +7465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Air Hockey | 397897 | [397897-dinosaur-air-hockey.json](./397897-dinosaur-air-hockey.json) |
 | Dinosaur Assassin: I-Evolution | 264013 | [264013-dinosaur-assassin-i-evolution.json](./264013-dinosaur-assassin-i-evolution.json) |
 | Dinosaur Battlegrounds | 57127 | [57127-dinosaur-battlegrounds.json](./57127-dinosaur-battlegrounds.json) |
+| Dinosaur Bone Digging | 117353 | [117353-dinosaur-bone-digging.json](./117353-dinosaur-bone-digging.json) |
 | Dinosaur Bones Digging Simulator 2026 | 386366 | [386366-dinosaur-bones-digging-simulator-2026.json](./386366-dinosaur-bones-digging-simulator-2026.json) |
 | Dinosaur Cousin Squad | 338286 | [338286-dinosaur-cousin-squad.json](./338286-dinosaur-cousin-squad.json) |
 | Dinosaur Dig | 181552 | [181552-dinosaur-dig.json](./181552-dinosaur-dig.json) |
