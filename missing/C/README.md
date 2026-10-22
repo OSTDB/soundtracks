@@ -7515,6 +7515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Checkers | 147860 | [147860-classic-checkers.json](./147860-classic-checkers.json) |
 | Classic Collection | 52848 | [52848-classic-collection.json](./52848-classic-collection.json) |
 | Classic Collection: Adventure/Fantasy | 79531 | [79531-classic-collection-adventure-fantasy.json](./79531-classic-collection-adventure-fantasy.json) |
+| Classic Collection: Lucasfilm | 137504 | [137504-classic-collection-lucasfilm.json](./137504-classic-collection-lucasfilm.json) |
 | Classic Compendium 2 | 79364 | [79364-classic-compendium-2.json](./79364-classic-compendium-2.json) |
 | Classic Concentration | 48098 | [48098-classic-concentration.json](./48098-classic-concentration.json) |
 | Classic Cribbage | 169982 | [169982-classic-cribbage.json](./169982-classic-cribbage.json) |
@@ -14414,6 +14415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Lines | 234189 | [234189-crystal-lines.json](./234189-crystal-lines.json) |
 | Crystal Maidens: Unleashed | 375950 | [375950-crystal-maidens-unleashed.json](./375950-crystal-maidens-unleashed.json) |
 | Crystal Math | 257428 | [257428-crystal-math.json](./257428-crystal-math.json) |
+| Crystal Mines II: Buried Treasure Expansion Pack | 137507 | [137507-crystal-mines-ii-buried-treasure-expansion-pack.json](./137507-crystal-mines-ii-buried-treasure-expansion-pack.json) |
 | Crystal Monsters | 79538 | [79538-crystal-monsters.json](./79538-crystal-monsters.json) |
 | Crystal of Atlantis | 247981 | [247981-crystal-of-atlantis.json](./247981-crystal-of-atlantis.json) |
 | Crystal Ortha | 140966 | [140966-crystal-ortha.json](./140966-crystal-ortha.json) |
@@ -14924,6 +14926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culdcept | 138069 | [138069-culdcept.json](./138069-culdcept.json) |
 | Culdcept | 22100 | [22100-culdcept.json](./22100-culdcept.json) |
 | Culdcept Expansion | 361753 | [361753-culdcept-expansion.json](./361753-culdcept-expansion.json) |
+| Culdcept II | 137524 | [137524-culdcept-ii.json](./137524-culdcept-ii.json) |
 | Culdcept Revolt | 27258 | [27258-culdcept-revolt.json](./27258-culdcept-revolt.json) |
 | Culina: Hands in the Kitchen | 35567 | [35567-culina-hands-in-the-kitchen.json](./35567-culina-hands-in-the-kitchen.json) |
 | Culinarium | 322168 | [322168-culinarium.json](./322168-culinarium.json) |
