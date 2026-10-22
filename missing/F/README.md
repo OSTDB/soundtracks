@@ -9920,6 +9920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Wand | 345413 | [345413-fruit-wand.json](./345413-fruit-wand.json) |
 | Fruit Warrior AR | 241047 | [241047-fruit-warrior-ar.json](./241047-fruit-warrior-ar.json) |
 | Fruit Wars | 344398 | [344398-fruit-wars.json](./344398-fruit-wars.json) |
+| Fruit Zumba | 153217 | [153217-fruit-zumba.json](./153217-fruit-zumba.json) |
 | Fruit-Fusion | 282807 | [282807-fruit-fusion.json](./282807-fruit-fusion.json) |
 | Fruit: Chain Effect | 336870 | [336870-fruit-chain-effect.json](./336870-fruit-chain-effect.json) |
 | Fruitalistic! | 258638 | [258638-fruitalistic.json](./258638-fruitalistic.json) |
