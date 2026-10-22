@@ -13629,6 +13629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel of Sword | 188290 | [188290-duel-of-sword.json](./188290-duel-of-sword.json) |
 | Duel of Sword | 196548 | [196548-duel-of-sword.json](./196548-duel-of-sword.json) |
 | Duel Princess | 186912 | [186912-duel-princess.json](./186912-duel-princess.json) |
+| Duel Puzzle Wars | 114688 | [114688-duel-puzzle-wars.json](./114688-duel-puzzle-wars.json) |
 | Duel School Infinite | 210524 | [210524-duel-school-infinite.json](./210524-duel-school-infinite.json) |
 | Duel Survival | 67913 | [67913-duel-survival.json](./67913-duel-survival.json) |
 | Duel Toys 2 | 222860 | [222860-duel-toys-2.json](./222860-duel-toys-2.json) |
