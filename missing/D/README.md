@@ -4077,6 +4077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Fry Maker | 227520 | [227520-deep-fry-maker.json](./227520-deep-fry-maker.json) |
 | Deep GachiGasm | 75271 | [75271-deep-gachigasm.json](./75271-deep-gachigasm.json) |
 | Deep Golf | 250658 | [250658-deep-golf.json](./250658-deep-golf.json) |
+| Deep Hole | 115373 | [115373-deep-hole.json](./115373-deep-hole.json) |
 | Deep Horizon | 41969 | [41969-deep-horizon.json](./41969-deep-horizon.json) |
 | Deep Horrors of Fishing | 323724 | [323724-deep-horrors-of-fishing.json](./323724-deep-horrors-of-fishing.json) |
 | Deep II: The Center of the Earth | 69793 | [69793-deep-ii-the-center-of-the-earth.json](./69793-deep-ii-the-center-of-the-earth.json) |
@@ -4540,6 +4541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dehumanized | 104054 | [104054-dehumanized.json](./104054-dehumanized.json) |
 | Dehydration | 374723 | [374723-dehydration.json](./374723-dehydration.json) |
 | Dei Agminum | 356252 | [356252-dei-agminum.json](./356252-dei-agminum.json) |
+| Deicide | 115368 | [115368-deicide.json](./115368-deicide.json) |
 | Deicide | 191481 | [191481-deicide.json](./191481-deicide.json) |
 | Deicide 3: Distorted Existence | 194293 | [194293-deicide-3-distorted-existence.json](./194293-deicide-3-distorted-existence.json) |
 | Deicider | 197533 | [197533-deicider.json](./197533-deicider.json) |
@@ -4747,6 +4749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Park | 274329 | [274329-delta-park.json](./274329-delta-park.json) |
 | Delta Particles | 196729 | [196729-delta-particles.json](./196729-delta-particles.json) |
 | Delta Riddle | 96039 | [96039-delta-riddle.json](./96039-delta-riddle.json) |
+| Delta Squad | 115352 | [115352-delta-squad.json](./115352-delta-squad.json) |
 | Delta Squadron | 23947 | [23947-delta-squadron.json](./23947-delta-squadron.json) |
 | Delta Squared | 369240 | [369240-delta-squared.json](./369240-delta-squared.json) |
 | Delta Strike: First Assault | 99547 | [99547-delta-strike-first-assault.json](./99547-delta-strike-first-assault.json) |
@@ -11924,6 +11927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonskulle | 26393 | [26393-dragonskulle.json](./26393-dragonskulle.json) |
 | DragonSky | 303178 | [303178-dragonsky.json](./303178-dragonsky.json) |
 | DragonSky | 68251 | [68251-dragonsky.json](./68251-dragonsky.json) |
+| DragonSnake VR | 115361 | [115361-dragonsnake-vr.json](./115361-dragonsnake-vr.json) |
 | DragonSpear EX | 200164 | [200164-dragonspear-ex.json](./200164-dragonspear-ex.json) |
 | Dragonsphere | 2487 | [2487-dragonsphere.json](./2487-dragonsphere.json) |
 | Dragonspire | 221139 | [221139-dragonspire.json](./221139-dragonspire.json) |
@@ -13492,6 +13496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Hunt VR | 27517 | [27517-duck-hunt-vr.json](./27517-duck-hunt-vr.json) |
 | Duck Hunter Pro 3D | 101553 | [101553-duck-hunter-pro-3d.json](./101553-duck-hunter-pro-3d.json) |
 | Duck Hunting | 28885 | [28885-duck-hunting.json](./28885-duck-hunting.json) |
+| Duck Hunting Challenge | 115333 | [115333-duck-hunting-challenge.json](./115333-duck-hunting-challenge.json) |
 | Duck Life | 210659 | [210659-duck-life.json](./210659-duck-life.json) |
 | Duck Life | 58367 | [58367-duck-life.json](./58367-duck-life.json) |
 | Duck Life 2: World Champion | 212722 | [212722-duck-life-2-world-champion.json](./212722-duck-life-2-world-champion.json) |
