@@ -880,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed, Edd n Eddy: Jawbreakers! | 2816 | [2816-ed-edd-n-eddy-jawbreakers.json](./2816-ed-edd-n-eddy-jawbreakers.json) |
 | Ed, Edd n Eddy: Lunchroom Rumble | 203096 | [203096-ed-edd-n-eddy-lunchroom-rumble.json](./203096-ed-edd-n-eddy-lunchroom-rumble.json) |
 | Ed, Edd n Eddy: Scam of the Century | 2817 | [2817-ed-edd-n-eddy-scam-of-the-century.json](./2817-ed-edd-n-eddy-scam-of-the-century.json) |
+| Ed, Edd n Eddy: Spin Stadium | 142288 | [142288-ed-edd-n-eddy-spin-stadium.json](./142288-ed-edd-n-eddy-spin-stadium.json) |
 | Ed, Edd n Eddy: The Mis-Edventures | 248473 | [248473-ed-edd-n-eddy-the-mis-edventures.json](./248473-ed-edd-n-eddy-the-mis-edventures.json) |
 | Ed, Edd n Eddy: The Mis-Edventures | 2722 | [2722-ed-edd-n-eddy-the-mis-edventures.json](./2722-ed-edd-n-eddy-the-mis-edventures.json) |
 | Ed, Edd n Eddy's Candy Machine Deluxe | 196798 | [196798-ed-edd-n-eddys-candy-machine-deluxe.json](./196798-ed-edd-n-eddys-candy-machine-deluxe.json) |
@@ -4231,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Bunker | 30086 | [30086-escape-the-bunker.json](./30086-escape-the-bunker.json) |
 | Escape the Challenge | 120973 | [120973-escape-the-challenge.json](./120973-escape-the-challenge.json) |
 | Escape the City | 170910 | [170910-escape-the-city.json](./170910-escape-the-city.json) |
+| Escape the Clinic | 142295 | [142295-escape-the-clinic.json](./142295-escape-the-clinic.json) |
 | Escape the Dark Tower | 260233 | [260233-escape-the-dark-tower.json](./260233-escape-the-dark-tower.json) |
 | Escape the Darkness | 193672 | [193672-escape-the-darkness.json](./193672-escape-the-darkness.json) |
 | Escape the Darkness | 95166 | [95166-escape-the-darkness.json](./95166-escape-the-darkness.json) |
