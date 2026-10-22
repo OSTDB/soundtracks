@@ -5957,6 +5957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway | 367840 | [367840-highway.json](./367840-highway.json) |
 | Highway 11 | 377230 | [377230-highway-11.json](./377230-highway-11.json) |
 | Highway 2000 | 46097 | [46097-highway-2000.json](./46097-highway-2000.json) |
+| Highway Acceleroid Booster | 135502 | [135502-highway-acceleroid-booster.json](./135502-highway-acceleroid-booster.json) |
 | Highway Bikers: Moto Racing Simulator | 342405 | [342405-highway-bikers-moto-racing-simulator.json](./342405-highway-bikers-moto-racing-simulator.json) |
 | Highway Blossoms: Next Exit | 139123 | [139123-highway-blossoms-next-exit.json](./139123-highway-blossoms-next-exit.json) |
 | Highway Bus Rush | 352316 | [352316-highway-bus-rush.json](./352316-highway-bus-rush.json) |
@@ -9172,6 +9173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Animals | 196675 | [196675-hungry-animals.json](./196675-hungry-animals.json) |
 | Hungry Birds | 187889 | [187889-hungry-birds.json](./187889-hungry-birds.json) |
 | Hungry Black Hole | 28106 | [28106-hungry-black-hole.json](./28106-hungry-black-hole.json) |
+| Hungry Boy | 135725 | [135725-hungry-boy.json](./135725-hungry-boy.json) |
 | Hungry Brain Challenge! | 336418 | [336418-hungry-brain-challenge.json](./336418-hungry-brain-challenge.json) |
 | Hungry Bunny | 156229 | [156229-hungry-bunny.json](./156229-hungry-bunny.json) |
 | Hungry Burger | 222354 | [222354-hungry-burger.json](./222354-hungry-burger.json) |
