@@ -2653,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 911 Emergency Manager | 377412 | [377412-911-emergency-manager.json](./377412-911-emergency-manager.json) |
 | 911 Fire Rescue | 71612 | [71612-911-fire-rescue.json](./71612-911-fire-rescue.json) |
 | 911 Operator | 20927 | [20927-911-operator.json](./20927-911-operator.json) |
+| 911 Operator + Special Resources | 99474 | [99474-911-operator-special-resources.json](./99474-911-operator-special-resources.json) |
 | 911 Operator Bundle | 237907 | [237907-911-operator-bundle.json](./237907-911-operator-bundle.json) |
 | 911 Operator: Deluxe Edition | 132984 | [132984-911-operator-deluxe-edition.json](./132984-911-operator-deluxe-edition.json) |
 | 911 Operator: Special Resources | 149546 | [149546-911-operator-special-resources.json](./149546-911-operator-special-resources.json) |
