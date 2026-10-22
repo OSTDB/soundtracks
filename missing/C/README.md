@@ -5564,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of Morn | 245667 | [245667-children-of-morn.json](./245667-children-of-morn.json) |
 | Children of Morta: Ancient Spirits | 175855 | [175855-children-of-morta-ancient-spirits.json](./175855-children-of-morta-ancient-spirits.json) |
 | Children of Morta: Complete Edition | 175878 | [175878-children-of-morta-complete-edition.json](./175878-children-of-morta-complete-edition.json) |
+| Children of Morta: Paws and Claws | 154328 | [154328-children-of-morta-paws-and-claws.json](./154328-children-of-morta-paws-and-claws.json) |
 | Children of Orc | 30920 | [30920-children-of-orc.json](./30920-children-of-orc.json) |
 | Children of Saturn | 312134 | [312134-children-of-saturn.json](./312134-children-of-saturn.json) |
 | Children of Silentown | 121016 | [121016-children-of-silentown.json](./121016-children-of-silentown.json) |
@@ -6564,6 +6565,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chungo's Gauntlet | 256900 | [256900-chungos-gauntlet.json](./256900-chungos-gauntlet.json) |
 | Chungus Rampage in Big Forest | 143068 | [143068-chungus-rampage-in-big-forest.json](./143068-chungus-rampage-in-big-forest.json) |
 | Chunithm | 56388 | [56388-chunithm.json](./56388-chunithm.json) |
+| Chunithm Air | 154228 | [154228-chunithm-air.json](./154228-chunithm-air.json) |
+| Chunithm Air Plus | 154229 | [154229-chunithm-air-plus.json](./154229-chunithm-air-plus.json) |
 | Chunithm Luminous | 281381 | [281381-chunithm-luminous.json](./281381-chunithm-luminous.json) |
 | Chunithm Luminous Plus | 309593 | [309593-chunithm-luminous-plus.json](./309593-chunithm-luminous-plus.json) |
 | Chunithm New Plus | 231771 | [231771-chunithm-new-plus.json](./231771-chunithm-new-plus.json) |
