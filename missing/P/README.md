@@ -2771,10 +2771,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Engine Best Collection: Tengai Makyou Collection | 62136 | [62136-pc-engine-best-collection-tengai-makyou-collection.json](./62136-pc-engine-best-collection-tengai-makyou-collection.json) |
 | PC Engine Game Box | 261908 | [261908-pc-engine-game-box.json](./261908-pc-engine-game-box.json) |
 | PC Fit | 60383 | [60383-pc-fit.json](./60383-pc-fit.json) |
+| PC Fútbol | 144013 | [144013-pc-futbol.json](./144013-pc-futbol.json) |
 | PC Fútbol 2000 | 78034 | [78034-pc-futbol-2000.json](./78034-pc-futbol-2000.json) |
 | PC Fútbol 2001 | 94569 | [94569-pc-futbol-2001.json](./94569-pc-futbol-2001.json) |
 | PC Fútbol 2005 | 100057 | [100057-pc-futbol-2005.json](./100057-pc-futbol-2005.json) |
 | PC Fútbol 2006 | 94567 | [94567-pc-futbol-2006.json](./94567-pc-futbol-2006.json) |
+| PC Fútbol 3.0 | 144015 | [144015-pc-futbol-3-0.json](./144015-pc-futbol-3-0.json) |
 | PC Fútbol 4.0 | 85758 | [85758-pc-futbol-4-0.json](./85758-pc-futbol-4-0.json) |
 | PC Fútbol 5.0 | 85751 | [85751-pc-futbol-5-0.json](./85751-pc-futbol-5-0.json) |
 | PC Fútbol 6.0 | 70107 | [70107-pc-futbol-6-0.json](./70107-pc-futbol-6-0.json) |
@@ -7340,6 +7342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies 2: Reflourished | 221859 | [221859-plants-vs-zombies-2-reflourished.json](./221859-plants-vs-zombies-2-reflourished.json) |
 | Plants vs. Zombies 2: Requiem | 272889 | [272889-plants-vs-zombies-2-requiem.json](./272889-plants-vs-zombies-2-requiem.json) |
 | Plants vs. Zombies 3: Welcome to Zomburbia | 120900 | [120900-plants-vs-zombies-3-welcome-to-zomburbia.json](./120900-plants-vs-zombies-3-welcome-to-zomburbia.json) |
+| Plants vs. Zombies 3D | 143989 | [143989-plants-vs-zombies-3d.json](./143989-plants-vs-zombies-3d.json) |
 | Plants vs. Zombies Adventures | 77968 | [77968-plants-vs-zombies-adventures.json](./77968-plants-vs-zombies-adventures.json) |
 | Plants vs. Zombies Delturbia | 343926 | [343926-plants-vs-zombies-delturbia.json](./343926-plants-vs-zombies-delturbia.json) |
 | Plants vs. Zombies DS | 274397 | [274397-plants-vs-zombies-ds.json](./274397-plants-vs-zombies-ds.json) |
@@ -10443,6 +10446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power of Love | 35287 | [35287-power-of-love.json](./35287-power-of-love.json) |
 | Power of Seasons | 406717 | [406717-power-of-seasons.json](./406717-power-of-seasons.json) |
 | Power of Slide | 149041 | [149041-power-of-slide.json](./149041-power-of-slide.json) |
+| Power of Ten | 144169 | [144169-power-of-ten.json](./144169-power-of-ten.json) |
 | Power of the Ancients | 149501 | [149501-power-of-the-ancients.json](./149501-power-of-the-ancients.json) |
 | Power of the Horde | 361807 | [361807-power-of-the-horde.json](./361807-power-of-the-horde.json) |
 | Power of The Void | 74364 | [74364-power-of-the-void.json](./74364-power-of-the-void.json) |
@@ -12864,6 +12868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocol Zero | 57929 | [57929-protocol-zero.json](./57929-protocol-zero.json) |
 | Protocol: Chapter 1 - Limbo | 415150 | [415150-protocol-chapter-1-limbo.json](./415150-protocol-chapter-1-limbo.json) |
 | Protocol: Children of War | 215325 | [215325-protocol-children-of-war.json](./215325-protocol-children-of-war.json) |
+| Protocol: Hyperspace Dive‪r‬ | 144008 | [144008-protocol-hyperspace-dive-r.json](./144008-protocol-hyperspace-dive-r.json) |
 | Protocol: Requiem | 399412 | [399412-protocol-requiem.json](./399412-protocol-requiem.json) |
 | Protocol: Zero-Day | 397998 | [397998-protocol-zero-day.json](./397998-protocol-zero-day.json) |
 | Protocol:Null | 301982 | [301982-protocol-null.json](./301982-protocol-null.json) |
@@ -13622,6 +13627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pups Treats | 359412 | [359412-pups-treats.json](./359412-pups-treats.json) |
 | Puputan Legend VR | 192633 | [192633-puputan-legend-vr.json](./192633-puputan-legend-vr.json) |
 | Purah's Lab | 279688 | [279688-purahs-lab.json](./279688-purahs-lab.json) |
+| Puramai Wars V | 143992 | [143992-puramai-wars-v.json](./143992-puramai-wars-v.json) |
 | Purarger Collector!! | 384805 | [384805-purarger-collector.json](./384805-purarger-collector.json) |
 | Purdy-Durdy | 275468 | [275468-purdy-durdy.json](./275468-purdy-durdy.json) |
 | Purdy's Night Flight | 335109 | [335109-purdys-night-flight.json](./335109-purdys-night-flight.json) |
