@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taikou Risshiden IV | 59364 | [59364-taikou-risshiden-iv.json](./59364-taikou-risshiden-iv.json) |
 | Taikou Risshiden V | 172698 | [172698-taikou-risshiden-v.json](./172698-taikou-risshiden-v.json) |
 | Taikou Risshiden V DX | 191519 | [191519-taikou-risshiden-v-dx.json](./191519-taikou-risshiden-v-dx.json) |
+| TaikoVR | 116748 | [116748-taikovr.json](./116748-taikovr.json) |
 | Taikunda | 401731 | [401731-taikunda.json](./401731-taikunda.json) |
 | Taikyoku Igo: Goliath | 37797 | [37797-taikyoku-igo-goliath.json](./37797-taikyoku-igo-goliath.json) |
 | Taikyoku Igo: Idaten | 37796 | [37796-taikyoku-igo-idaten.json](./37796-taikyoku-igo-idaten.json) |
@@ -5549,6 +5550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Castle of Time | 197215 | [197215-the-castle-of-time.json](./197215-the-castle-of-time.json) |
 | The Castles of Burgundy | 115539 | [115539-the-castles-of-burgundy.json](./115539-the-castles-of-burgundy.json) |
 | The Cat | 289315 | [289315-the-cat.json](./289315-the-cat.json) |
+| The Cat and the Box | 116747 | [116747-the-cat-and-the-box.json](./116747-the-cat-and-the-box.json) |
 | The Cat and the Coup | 16241 | [16241-the-cat-and-the-coup.json](./16241-the-cat-and-the-coup.json) |
 | The Cat and the Coup (4K Remaster) | 107750 | [107750-the-cat-and-the-coup-4k-remaster.json](./107750-the-cat-and-the-coup-4k-remaster.json) |
 | The Cat Games | 27977 | [27977-the-cat-games.json](./27977-the-cat-games.json) |
@@ -6857,6 +6859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Electric Yoyo | 221402 | [221402-the-electric-yoyo.json](./221402-the-electric-yoyo.json) |
 | The Electrifying Incident: A Monster Mini-Expedition | 332922 | [332922-the-electrifying-incident-a-monster-mini-expedition.json](./332922-the-electrifying-incident-a-monster-mini-expedition.json) |
 | The Elektra Complex | 280901 | [280901-the-elektra-complex.json](./280901-the-elektra-complex.json) |
+| The Elemental Heart | 116725 | [116725-the-elemental-heart.json](./116725-the-elemental-heart.json) |
 | The Elementalist Typing | 347183 | [347183-the-elementalist-typing.json](./347183-the-elementalist-typing.json) |
 | The Elementalists | 313741 | [313741-the-elementalists.json](./313741-the-elementalists.json) |
 | The Elementalists 2 | 313742 | [313742-the-elementalists-2.json](./313742-the-elementalists-2.json) |
@@ -7790,6 +7793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost Archives: Haunting of Shady Valley | 87065 | [87065-the-ghost-archives-haunting-of-shady-valley.json](./87065-the-ghost-archives-haunting-of-shady-valley.json) |
 | The Ghost Cage | 173273 | [173273-the-ghost-cage.json](./173273-the-ghost-cage.json) |
 | The Ghost in My Apartment | 396353 | [396353-the-ghost-in-my-apartment.json](./396353-the-ghost-in-my-apartment.json) |
+| The Ghost of Joe Papp: 101 Ways to Kill Writer's Block | 116735 | [116735-the-ghost-of-joe-papp-101-ways-to-kill-writers-block.json](./116735-the-ghost-of-joe-papp-101-ways-to-kill-writers-block.json) |
 | The Ghost of Nichishima | 319700 | [319700-the-ghost-of-nichishima.json](./319700-the-ghost-of-nichishima.json) |
 | The Ghost of Paris | 187974 | [187974-the-ghost-of-paris.json](./187974-the-ghost-of-paris.json) |
 | The Ghost Of Solaris | 396588 | [396588-the-ghost-of-solaris.json](./396588-the-ghost-of-solaris.json) |
@@ -13288,6 +13292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Soul Box: Don Quixotes of Tomorrow | 250804 | [250804-the-soul-box-don-quixotes-of-tomorrow.json](./250804-the-soul-box-don-quixotes-of-tomorrow.json) |
 | The Soul Collector: Idle Game | 183887 | [183887-the-soul-collector-idle-game.json](./183887-the-soul-collector-idle-game.json) |
 | The Soul Driver | 341297 | [341297-the-soul-driver.json](./341297-the-soul-driver.json) |
+| The Soul Hunter | 116744 | [116744-the-soul-hunter.json](./116744-the-soul-hunter.json) |
 | The Soul Labyrinth | 250883 | [250883-the-soul-labyrinth.json](./250883-the-soul-labyrinth.json) |
 | The Soul of Cosmos | 348769 | [348769-the-soul-of-cosmos.json](./348769-the-soul-of-cosmos.json) |
 | The Soul of Dracula | 242797 | [242797-the-soul-of-dracula.json](./242797-the-soul-of-dracula.json) |
@@ -24049,6 +24054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial of the Demon Hunter | 81136 | [81136-trial-of-the-demon-hunter.json](./81136-trial-of-the-demon-hunter.json) |
 | Trial of the Gods: Ariadne's Journey | 416188 | [416188-trial-of-the-gods-ariadnes-journey.json](./416188-trial-of-the-gods-ariadnes-journey.json) |
 | Trial of the Gods: Siralim CCG | 133195 | [133195-trial-of-the-gods-siralim-ccg.json](./133195-trial-of-the-gods-siralim-ccg.json) |
+| Trial of the Towers | 116763 | [116763-trial-of-the-towers.json](./116763-trial-of-the-towers.json) |
 | Trial of Two | 152452 | [152452-trial-of-two.json](./152452-trial-of-two.json) |
 | Trial Traction | 304852 | [304852-trial-traction.json](./304852-trial-traction.json) |
 | Trial Xtreme | 80437 | [80437-trial-xtreme.json](./80437-trial-xtreme.json) |
