@@ -5733,6 +5733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Longbow Anthology | 70358 | [70358-longbow-anthology.json](./70358-longbow-anthology.json) |
 | LongCat | 123539 | [123539-longcat.json](./123539-longcat.json) |
 | Longcat Journey | 290314 | [290314-longcat-journey.json](./290314-longcat-journey.json) |
+| Longest Monday: Unveiling | 100538 | [100538-longest-monday-unveiling.json](./100538-longest-monday-unveiling.json) |
 | Longest River | 267319 | [267319-longest-river.json](./267319-longest-river.json) |
 | Longevity Yin and Yang | 375865 | [375865-longevity-yin-and-yang.json](./375865-longevity-yin-and-yang.json) |
 | Longeyed Proj. | 223429 | [223429-longeyed-proj.json](./223429-longeyed-proj.json) |
