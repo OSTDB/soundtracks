@@ -2349,6 +2349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carved Brink | 356881 | [356881-carved-brink.json](./356881-carved-brink.json) |
 | Carved In Stone | 321351 | [321351-carved-in-stone.json](./321351-carved-in-stone.json) |
 | Carved Out | 251724 | [251724-carved-out.json](./251724-carved-out.json) |
+| Carving Fate to Valhalla | 132485 | [132485-carving-fate-to-valhalla.json](./132485-carving-fate-to-valhalla.json) |
 | Carvival | 271650 | [271650-carvival.json](./271650-carvival.json) |
 | CarVup | 11993 | [11993-carvup.json](./11993-carvup.json) |
 | Carwarz.io | 219269 | [219269-carwarz-io.json](./219269-carwarz-io.json) |
@@ -13072,6 +13073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creator Shelter: DLC Cuisine | 418504 | [418504-creator-shelter-dlc-cuisine.json](./418504-creator-shelter-dlc-cuisine.json) |
 | Creator's Asteroid | 191191 | [191191-creators-asteroid.json](./191191-creators-asteroid.json) |
 | Creator's Chasm | 148811 | [148811-creators-chasm.json](./148811-creators-chasm.json) |
+| CreatorAdventureLegend | 132458 | [132458-creatoradventurelegend.json](./132458-creatoradventurelegend.json) |
 | Creators | 284985 | [284985-creators.json](./284985-creators.json) |
 | Creatorverse | 64497 | [64497-creatorverse.json](./64497-creatorverse.json) |
 | Creatura | 82351 | [82351-creatura.json](./82351-creatura.json) |
@@ -13694,6 +13696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Seekers | 258987 | [258987-cross-seekers.json](./258987-cross-seekers.json) |
 | Cross Set | 34114 | [34114-cross-set.json](./34114-cross-set.json) |
 | Cross Set Infinity | 74497 | [74497-cross-set-infinity.json](./74497-cross-set-infinity.json) |
+| Cross Soul | 132453 | [132453-cross-soul.json](./132453-cross-soul.json) |
 | Cross Tantei Monogatari: Motsureta Nanatsu no Labyrinth | 122982 | [122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json](./122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json) |
 | Cross the Ages: Trading Card Game | 217807 | [217807-cross-the-ages-trading-card-game.json](./217807-cross-the-ages-trading-card-game.json) |
 | Cross The Boundaries | 334182 | [334182-cross-the-boundaries.json](./334182-cross-the-boundaries.json) |
@@ -13910,6 +13913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crow-Sourcing | 312854 | [312854-crow-sourcing.json](./312854-crow-sourcing.json) |
 | Crow's Cry | 211726 | [211726-crows-cry.json](./211726-crows-cry.json) |
 | Crow's Curated Closet: Shop Simulator | 407481 | [407481-crows-curated-closet-shop-simulator.json](./407481-crows-curated-closet-shop-simulator.json) |
+| Crowalt: Traces of the Lost Colony | 132470 | [132470-crowalt-traces-of-the-lost-colony.json](./132470-crowalt-traces-of-the-lost-colony.json) |
 | Crowbar Climber | 348928 | [348928-crowbar-climber.json](./348928-crowbar-climber.json) |
 | Crowborne | 295786 | [295786-crowborne.json](./295786-crowborne.json) |
 | Crowd | 263109 | [263109-crowd.json](./263109-crowd.json) |
@@ -14280,6 +14284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptic Encounters | 208803 | [208803-cryptic-encounters.json](./208803-cryptic-encounters.json) |
 | Cryptic Glaze Mirror | 391174 | [391174-cryptic-glaze-mirror.json](./391174-cryptic-glaze-mirror.json) |
 | Cryptic Passage for Blood | 18499 | [18499-cryptic-passage-for-blood.json](./18499-cryptic-passage-for-blood.json) |
+| Cryptic Rooms | 132468 | [132468-cryptic-rooms.json](./132468-cryptic-rooms.json) |
 | Cryptic Sea EP | 61710 | [61710-cryptic-sea-ep.json](./61710-cryptic-sea-ep.json) |
 | Cryptic Tales: Crossroads | 371461 | [371461-cryptic-tales-crossroads.json](./371461-cryptic-tales-crossroads.json) |
 | Cryptica | 307157 | [307157-cryptica.json](./307157-cryptica.json) |
@@ -15759,6 +15764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberbots: Fullmetal Madness | 43820 | [43820-cyberbots-fullmetal-madness.json](./43820-cyberbots-fullmetal-madness.json) |
 | CyberBrick | 226427 | [226427-cyberbrick.json](./226427-cyberbrick.json) |
 | Cybercar | 392452 | [392452-cybercar.json](./392452-cybercar.json) |
+| Cyberception | 132482 | [132482-cyberception.json](./132482-cyberception.json) |
 | Cyberchase: Castleblanca Quest | 73197 | [73197-cyberchase-castleblanca-quest.json](./73197-cyberchase-castleblanca-quest.json) |
 | Cyberchase: Mission Motherboard | 143086 | [143086-cyberchase-mission-motherboard.json](./143086-cyberchase-mission-motherboard.json) |
 | Cyberchase: The Quest 1 - Mission Motherboard | 140627 | [140627-cyberchase-the-quest-1-mission-motherboard.json](./140627-cyberchase-the-quest-1-mission-motherboard.json) |
