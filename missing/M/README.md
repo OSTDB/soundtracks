@@ -14394,6 +14394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Hibbl: The Lost Levels | 262237 | [262237-mr-hibbl-the-lost-levels.json](./262237-mr-hibbl-the-lost-levels.json) |
 | Mr. Hoob! | 372695 | [372695-mr-hoob.json](./372695-mr-hoob.json) |
 | Mr. Hopp's Manor Escape | 196119 | [196119-mr-hopps-manor-escape.json](./196119-mr-hopps-manor-escape.json) |
+| Mr. Hopp's Playhouse | 125073 | [125073-mr-hopps-playhouse.json](./125073-mr-hopps-playhouse.json) |
 | Mr. Hopp's Playhouse 2 | 152818 | [152818-mr-hopps-playhouse-2.json](./152818-mr-hopps-playhouse-2.json) |
 | Mr. Hopp's Playhouse 3 | 239687 | [239687-mr-hopps-playhouse-3.json](./239687-mr-hopps-playhouse-3.json) |
 | Mr. Hopp's Playhouse: The Toybox | 371547 | [371547-mr-hopps-playhouse-the-toybox.json](./371547-mr-hopps-playhouse-the-toybox.json) |
@@ -15871,6 +15872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Gym Mommy Treats Me Like A Kid | 393560 | [393560-my-gym-mommy-treats-me-like-a-kid.json](./393560-my-gym-mommy-treats-me-like-a-kid.json) |
 | My Gym: Fitness Studio Manager | 233473 | [233473-my-gym-fitness-studio-manager.json](./233473-my-gym-fitness-studio-manager.json) |
 | My Happy Place | 229774 | [229774-my-happy-place.json](./229774-my-happy-place.json) |
+| My Haunted Doll | 125061 | [125061-my-haunted-doll.json](./125061-my-haunted-doll.json) |
 | My Hayami-Chan | 199040 | [199040-my-hayami-chan.json](./199040-my-hayami-chan.json) |
 | My Head On Your Body | 292316 | [292316-my-head-on-your-body.json](./292316-my-head-on-your-body.json) |
 | My Heart Grows Fonder | 117653 | [117653-my-heart-grows-fonder.json](./117653-my-heart-grows-fonder.json) |
