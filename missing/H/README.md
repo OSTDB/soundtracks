@@ -3066,6 +3066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeliSquad: Covert Operations | 204338 | [204338-helisquad-covert-operations.json](./204338-helisquad-covert-operations.json) |
 | Helium | 33731 | [33731-helium.json](./33731-helium.json) |
 | Helium Electric | 190104 | [190104-helium-electric.json](./190104-helium-electric.json) |
+| Helium Hills | 137310 | [137310-helium-hills.json](./137310-helium-hills.json) |
 | Helium Rain | 51733 | [51733-helium-rain.json](./51733-helium-rain.json) |
 | Helium Run | 296735 | [296735-helium-run.json](./296735-helium-run.json) |
 | Helium Skies | 65808 | [65808-helium-skies.json](./65808-helium-skies.json) |
@@ -6243,6 +6244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hinterhalt 2 | 110361 | [110361-hinterhalt-2.json](./110361-hinterhalt-2.json) |
 | Hinterhalt 3 | 132211 | [132211-hinterhalt-3.json](./132211-hinterhalt-3.json) |
 | Hinterkaifeck: The Farmhouse Murders | 388894 | [388894-hinterkaifeck-the-farmhouse-murders.json](./388894-hinterkaifeck-the-farmhouse-murders.json) |
+| Hinterland | 137307 | [137307-hinterland.json](./137307-hinterland.json) |
 | Hinterland: Orc Lords | 24996 | [24996-hinterland-orc-lords.json](./24996-hinterland-orc-lords.json) |
 | Hints Hunter | 85171 | [85171-hints-hunter.json](./85171-hints-hunter.json) |
 | Hiouden | 38384 | [38384-hiouden.json](./38384-hiouden.json) |
