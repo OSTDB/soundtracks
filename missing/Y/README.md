@@ -172,7 +172,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yami | 138518 | [138518-yami.json](./138518-yami.json) |
 | Yami Fuku Natsu: Teito Monogatari Futatabi | 147956 | [147956-yami-fuku-natsu-teito-monogatari-futatabi.json](./147956-yami-fuku-natsu-teito-monogatari-futatabi.json) |
 | Yami Mura | 392945 | [392945-yami-mura.json](./392945-yami-mura.json) |
+| Yami no Ketsuzoku | 112035 | [112035-yami-no-ketsuzoku.json](./112035-yami-no-ketsuzoku.json) |
+| Yami no Ketsuzoku Special | 112037 | [112037-yami-no-ketsuzoku-special.json](./112037-yami-no-ketsuzoku-special.json) |
+| Yami no Ketsuzoku: Haruka Naru Kioku | 112038 | [112038-yami-no-ketsuzoku-haruka-naru-kioku.json](./112038-yami-no-ketsuzoku-haruka-naru-kioku.json) |
 | Yami no Ketsuzoku: Kanketsu-hen | 386392 | [386392-yami-no-ketsuzoku-kanketsu-hen.json](./386392-yami-no-ketsuzoku-kanketsu-hen.json) |
+| Yami no Ketsuzoku: The Predestined Homicides #2 - Kanketsu-hen | 112036 | [112036-yami-no-ketsuzoku-the-predestined-homicides-2-kanketsu-hen.json](./112036-yami-no-ketsuzoku-the-predestined-homicides-2-kanketsu-hen.json) |
 | Yami no Koe | 275312 | [275312-yami-no-koe.json](./275312-yami-no-koe.json) |
 | Yami no Koe II | 308248 | [308248-yami-no-koe-ii.json](./308248-yami-no-koe-ii.json) |
 | Yami no Ryuuou Hadesu no Monshou | 202322 | [202322-yami-no-ryuuou-hadesu-no-monshou.json](./202322-yami-no-ryuuou-hadesu-no-monshou.json) |
