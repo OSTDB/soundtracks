@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10-Pin Bowling | 153453 | [153453-10-pin-bowling.json](./153453-10-pin-bowling.json) |
 | 10-Pin Bowling | 92273 | [92273-10-pin-bowling.json](./92273-10-pin-bowling.json) |
 | 10-Second Ghost | 314855 | [314855-10-second-ghost.json](./314855-10-second-ghost.json) |
+| 10-Shot Soccer | 114692 | [114692-10-shot-soccer.json](./114692-10-shot-soccer.json) |
 | 10-Yard Fight | 229983 | [229983-10-yard-fight.json](./229983-10-yard-fight.json) |
 | 10-Yard Fight | 2733 | [2733-10-yard-fight.json](./2733-10-yard-fight.json) |
 | 10,000 | 376883 | [376883-10-000.json](./376883-10-000.json) |
@@ -2371,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Horizons | 210898 | [210898-7-horizons.json](./210898-7-horizons.json) |
 | 7 Invaders | 293240 | [293240-7-invaders.json](./293240-7-invaders.json) |
 | 7 Keys Saga | 357761 | [357761-7-keys-saga.json](./357761-7-keys-saga.json) |
+| 7 Legends | 114693 | [114693-7-legends.json](./114693-7-legends.json) |
 | 7 Light-Years | 62017 | [62017-7-light-years.json](./62017-7-light-years.json) |
 | 7 Little Words | 115641 | [115641-7-little-words.json](./115641-7-little-words.json) |
 | 7 Lives | 119530 | [119530-7-lives.json](./119530-7-lives.json) |
