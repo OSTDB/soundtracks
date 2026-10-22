@@ -1275,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cape Fathom | 310764 | [310764-cape-fathom.json](./310764-cape-fathom.json) |
 | Cape Hideous | 320532 | [320532-cape-hideous.json](./320532-cape-hideous.json) |
 | Cape's Escape Game 2.5th Room | 148326 | [148326-capes-escape-game-2-5th-room.json](./148326-capes-escape-game-2-5th-room.json) |
+| Cape's Escape Game 2nd room | 143542 | [143542-capes-escape-game-2nd-room.json](./143542-capes-escape-game-2nd-room.json) |
 | Cape's Escape Game 3rd Room | 165615 | [165615-capes-escape-game-3rd-room.json](./165615-capes-escape-game-3rd-room.json) |
 | Cape's Escape Game 4th Room | 173142 | [173142-capes-escape-game-4th-room.json](./173142-capes-escape-game-4th-room.json) |
 | Cape's Escape Game 5th Room | 186569 | [186569-capes-escape-game-5th-room.json](./186569-capes-escape-game-5th-room.json) |
@@ -2697,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Red | 123000 | [123000-castle-red.json](./123000-castle-red.json) |
 | Castle Rencounter | 111475 | [111475-castle-rencounter.json](./111475-castle-rencounter.json) |
 | Castle Renovator | 219174 | [219174-castle-renovator.json](./219174-castle-renovator.json) |
+| Castle Rock Beach, West Australia | 143405 | [143405-castle-rock-beach-west-australia.json](./143405-castle-rock-beach-west-australia.json) |
 | Castle Rodok | 349479 | [349479-castle-rodok.json](./349479-castle-rodok.json) |
 | Castle Rush | 185145 | [185145-castle-rush.json](./185145-castle-rush.json) |
 | Castle Rush | 234046 | [234046-castle-rush.json](./234046-castle-rush.json) |
@@ -12886,6 +12888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Neighbour | 405613 | [405613-crazy-neighbour.json](./405613-crazy-neighbour.json) |
 | Crazy Nick's Picks: King Graham's Board Game Challenge | 69760 | [69760-crazy-nicks-picks-king-grahams-board-game-challenge.json](./69760-crazy-nicks-picks-king-grahams-board-game-challenge.json) |
 | Crazy Oafish Ultra Blocks: Big Sale | 30534 | [30534-crazy-oafish-ultra-blocks-big-sale.json](./30534-crazy-oafish-ultra-blocks-big-sale.json) |
+| Crazy Oce | 143544 | [143544-crazy-oce.json](./143544-crazy-oce.json) |
 | Crazy One | 242791 | [242791-crazy-one.json](./242791-crazy-one.json) |
 | Crazy Otto | 208322 | [208322-crazy-otto.json](./208322-crazy-otto.json) |
 | Crazy Penguin Catapult 2 | 67968 | [67968-crazy-penguin-catapult-2.json](./67968-crazy-penguin-catapult-2.json) |
@@ -14315,6 +14318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crysis Warhead | 336 | [336-crysis-warhead.json](./336-crysis-warhead.json) |
 | Crysis Wreckage | 51292 | [51292-crysis-wreckage.json](./51292-crysis-wreckage.json) |
 | Crysis: Back to Hell | 185893 | [185893-crysis-back-to-hell.json](./185893-crysis-back-to-hell.json) |
+| Crysis: Special Edition | 142670 | [142670-crysis-special-edition.json](./142670-crysis-special-edition.json) |
 | Crysmalia: Dawn of Darkness | 228485 | [228485-crysmalia-dawn-of-darkness.json](./228485-crysmalia-dawn-of-darkness.json) |
 | Cryspace | 240746 | [240746-cryspace.json](./240746-cryspace.json) |
 | Crystal | 145275 | [145275-crystal.json](./145275-crystal.json) |
