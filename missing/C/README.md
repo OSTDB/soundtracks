@@ -2109,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival of Souls | 309526 | [309526-carnival-of-souls.json](./309526-carnival-of-souls.json) |
 | Carnival of the Animals | 76910 | [76910-carnival-of-the-animals.json](./76910-carnival-of-the-animals.json) |
 | Carnival Roulette | 384244 | [384244-carnival-roulette.json](./384244-carnival-roulette.json) |
+| Carnival VR Orientation | 150395 | [150395-carnival-vr-orientation.json](./150395-carnival-vr-orientation.json) |
 | Carnivalé: Cenzo's Adventure | 238880 | [238880-carnivale-cenzos-adventure.json](./238880-carnivale-cenzos-adventure.json) |
 | Carnivore! | 413214 | [413214-carnivore.json](./413214-carnivore.json) |
 | Carnivores + | 208422 | [208422-carnivores.json](./208422-carnivores.json) |
@@ -5312,6 +5313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi-Robo! | 3856 | [3856-chibi-robo.json](./3856-chibi-robo.json) |
 | Chibikko Club | 289737 | [289737-chibikko-club.json](./289737-chibikko-club.json) |
 | ChibiTama | 211224 | [211224-chibitama.json](./211224-chibitama.json) |
+| Chibits | 150471 | [150471-chibits.json](./150471-chibits.json) |
 | Chiby.io | 393815 | [393815-chiby-io.json](./393815-chiby-io.json) |
 | Chic Baby | 97342 | [97342-chic-baby.json](./97342-chic-baby.json) |
 | Chica Simulator | 369663 | [369663-chica-simulator.json](./369663-chica-simulator.json) |
@@ -6105,6 +6107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chris Kamara's Street Soccer | 43747 | [43747-chris-kamaras-street-soccer.json](./43747-chris-kamaras-street-soccer.json) |
 | Chris Moneymaker's World Poker Championship | 68636 | [68636-chris-moneymakers-world-poker-championship.json](./68636-chris-moneymakers-world-poker-championship.json) |
 | Chris's Classroom | 400904 | [400904-chriss-classroom.json](./400904-chriss-classroom.json) |
+| Chriss Cross | 150400 | [150400-chriss-cross.json](./150400-chriss-cross.json) |
 | Christ's Revenge: Ascension | 255598 | [255598-christs-revenge-ascension.json](./255598-christs-revenge-ascension.json) |
 | Christa & Tonyo | 352857 | [352857-christa-and-tonyo.json](./352857-christa-and-tonyo.json) |
 | Christian Matchups | 95423 | [95423-christian-matchups.json](./95423-christian-matchups.json) |
@@ -7593,6 +7596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claw Arena | 172439 | [172439-claw-arena.json](./172439-claw-arena.json) |
 | Claw Breaker | 105290 | [105290-claw-breaker.json](./105290-claw-breaker.json) |
 | Claw Clash: Cat vs. Dog Betting | 293974 | [293974-claw-clash-cat-vs-dog-betting.json](./293974-claw-clash-cat-vs-dog-betting.json) |
+| Claw Crane Company | 150411 | [150411-claw-crane-company.json](./150411-claw-crane-company.json) |
 | Claw Dropper | 365720 | [365720-claw-dropper.json](./365720-claw-dropper.json) |
 | Claw Express | 270384 | [270384-claw-express.json](./270384-claw-express.json) |
 | Claw Machine | 307372 | [307372-claw-machine.json](./307372-claw-machine.json) |
@@ -12561,6 +12565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crate Fang | 349830 | [349830-crate-fang.json](./349830-crate-fang.json) |
 | Crate Knight | 207532 | [207532-crate-knight.json](./207532-crate-knight.json) |
 | Crate Man | 61568 | [61568-crate-man.json](./61568-crate-man.json) |
+| Crate Wars | 150402 | [150402-crate-wars.json](./150402-crate-wars.json) |
 | Crategun | 176840 | [176840-crategun.json](./176840-crategun.json) |
 | CrateMage | 310103 | [310103-cratemage.json](./310103-cratemage.json) |
 | Crater Maker | 62079 | [62079-crater-maker.json](./62079-crater-maker.json) |
@@ -13342,6 +13347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Night | 403099 | [403099-crimson-night.json](./403099-crimson-night.json) |
 | Crimson Oath | 373152 | [373152-crimson-oath.json](./373152-crimson-oath.json) |
 | Crimson Phoenix Rise | 219231 | [219231-crimson-phoenix-rise.json](./219231-crimson-phoenix-rise.json) |
+| Crimson Ranch | 150477 | [150477-crimson-ranch.json](./150477-crimson-ranch.json) |
 | Crimson Realms: Relics of the Forgotten World | 389959 | [389959-crimson-realms-relics-of-the-forgotten-world.json](./389959-crimson-realms-relics-of-the-forgotten-world.json) |
 | Crimson Rest | 368066 | [368066-crimson-rest.json](./368066-crimson-rest.json) |
 | Crimson Rite | 368906 | [368906-crimson-rite.json](./368906-crimson-rite.json) |
