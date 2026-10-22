@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obey the Voice | 386276 | [386276-obey-the-voice.json](./386276-obey-the-voice.json) |
 | Obey Your Pirate Queen! | 282655 | [282655-obey-your-pirate-queen.json](./282655-obey-your-pirate-queen.json) |
 | Obgoose | 183866 | [183866-obgoose.json](./183866-obgoose.json) |
+| Obiemnaia Istoriia | 150413 | [150413-obiemnaia-istoriia.json](./150413-obiemnaia-istoriia.json) |
 | Obilia | 295514 | [295514-obilia.json](./295514-obilia.json) |
 | OBITT: Escape From the Room | 412195 | [412195-obitt-escape-from-the-room.json](./412195-obitt-escape-from-the-room.json) |
 | Obituary | 313833 | [313833-obituary.json](./313833-obituary.json) |
