@@ -1738,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemdian | 265500 | [265500-elemdian.json](./265500-elemdian.json) |
 | Elemencraft | 194012 | [194012-elemencraft.json](./194012-elemencraft.json) |
 | Elemency Island | 379130 | [379130-elemency-island.json](./379130-elemency-island.json) |
+| Elemensional Rift | 123261 | [123261-elemensional-rift.json](./123261-elemensional-rift.json) |
 | Element Are We | 275348 | [275348-element-are-we.json](./275348-element-are-we.json) |
 | Element Battle Royale | 286793 | [286793-element-battle-royale.json](./286793-element-battle-royale.json) |
 | Element Cattos | 377361 | [377361-element-cattos.json](./377361-element-cattos.json) |
@@ -3447,6 +3448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Fun: Western Coaster | 169114 | [169114-epic-fun-western-coaster.json](./169114-epic-fun-western-coaster.json) |
 | Epic Game Maker | 105188 | [105188-epic-game-maker.json](./105188-epic-game-maker.json) |
 | Epic Game Theory | 110138 | [110138-epic-game-theory.json](./110138-epic-game-theory.json) |
+| Epic Heroes Battle Royal | 123271 | [123271-epic-heroes-battle-royal.json](./123271-epic-heroes-battle-royal.json) |
 | Epic Ice Cream | 421791 | [421791-epic-ice-cream.json](./421791-epic-ice-cream.json) |
 | Epic Idle Quest | 96187 | [96187-epic-idle-quest.json](./96187-epic-idle-quest.json) |
 | Epic Jump! | 204838 | [204838-epic-jump.json](./204838-epic-jump.json) |
@@ -5019,6 +5021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European War 5: Empire | 89709 | [89709-european-war-5-empire.json](./89709-european-war-5-empire.json) |
 | European War 6: 1914 | 208202 | [208202-european-war-6-1914.json](./208202-european-war-6-1914.json) |
 | European War 7: Medieval | 193821 | [193821-european-war-7-medieval.json](./193821-european-war-7-medieval.json) |
+| Euroscope | 123260 | [123260-euroscope.json](./123260-euroscope.json) |
 | Eurydice Exhumed | 264122 | [264122-eurydice-exhumed.json](./264122-eurydice-exhumed.json) |
 | Eutolant Saga | 342054 | [342054-eutolant-saga.json](./342054-eutolant-saga.json) |
 | EV Station Simulator | 326434 | [326434-ev-station-simulator.json](./326434-ev-station-simulator.json) |
