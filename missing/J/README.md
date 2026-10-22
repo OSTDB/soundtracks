@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Nicklaus' Greatest 18 Holes of Major Championship Golf | 18101 | [18101-jack-nicklaus-greatest-18-holes-of-major-championship-golf.json](./18101-jack-nicklaus-greatest-18-holes-of-major-championship-golf.json) |
 | Jack Nicklaus' Power Challenge Golf | 46532 | [46532-jack-nicklaus-power-challenge-golf.json](./46532-jack-nicklaus-power-challenge-golf.json) |
 | Jack Nicklaus' Unlimited Golf & Course Design | 72175 | [72175-jack-nicklaus-unlimited-golf-and-course-design.json](./72175-jack-nicklaus-unlimited-golf-and-course-design.json) |
+| Jack O Lantern | 103144 | [103144-jack-o-lantern.json](./103144-jack-o-lantern.json) |
 | Jack of All Worlds | 384273 | [384273-jack-of-all-worlds.json](./384273-jack-of-all-worlds.json) |
 | Jack of Clubs | 319394 | [319394-jack-of-clubs.json](./319394-jack-of-clubs.json) |
 | Jack of Skies | 176833 | [176833-jack-of-skies.json](./176833-jack-of-skies.json) |
@@ -1972,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Turbo's Arcade: Fighter's History | 114203 | [114203-johnny-turbos-arcade-fighters-history.json](./114203-johnny-turbos-arcade-fighters-history.json) |
 | Johnny Turbo's Arcade: Heavy Barrel | 112117 | [112117-johnny-turbos-arcade-heavy-barrel.json](./112117-johnny-turbos-arcade-heavy-barrel.json) |
 | Johnny Turbo's Arcade: Heavy Burger | 110755 | [110755-johnny-turbos-arcade-heavy-burger.json](./110755-johnny-turbos-arcade-heavy-burger.json) |
+| Johnny Turbo's Arcade: Joe and Mac Caveman Ninja | 103106 | [103106-johnny-turbos-arcade-joe-and-mac-caveman-ninja.json](./103106-johnny-turbos-arcade-joe-and-mac-caveman-ninja.json) |
 | Johnny Turbo's Arcade: Joe and Mac Returns | 146860 | [146860-johnny-turbos-arcade-joe-and-mac-returns.json](./146860-johnny-turbos-arcade-joe-and-mac-returns.json) |
 | Johnny Turbo's Arcade: Night Slashers | 111915 | [111915-johnny-turbos-arcade-night-slashers.json](./111915-johnny-turbos-arcade-night-slashers.json) |
 | Johnny Turbo's Arcade: Shoot Out | 105889 | [105889-johnny-turbos-arcade-shoot-out.json](./105889-johnny-turbos-arcade-shoot-out.json) |
