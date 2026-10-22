@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harakuju Tantei Gakuen: Steel Wood | 58054 | [58054-harakuju-tantei-gakuen-steel-wood.json](./58054-harakuju-tantei-gakuen-steel-wood.json) |
 | Harald | 72347 | [72347-harald.json](./72347-harald.json) |
 | Haram | 228947 | [228947-haram.json](./228947-haram.json) |
+| Haramatia | 116751 | [116751-haramatia.json](./116751-haramatia.json) |
 | Harambe Kong | 82032 | [82032-harambe-kong.json](./82032-harambe-kong.json) |
 | Haramimura: When a Wife Becomes a Villager | 388721 | [388721-haramimura-when-a-wife-becomes-a-villager.json](./388721-haramimura-when-a-wife-becomes-a-villager.json) |
 | Harapeko Einya | 368239 | [368239-harapeko-einya.json](./368239-harapeko-einya.json) |
@@ -2930,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heiankyo Alien | 75136 | [75136-heiankyo-alien.json](./75136-heiankyo-alien.json) |
 | Heiankyo Parameters | 247530 | [247530-heiankyo-parameters.json](./247530-heiankyo-parameters.json) |
 | Heidelberg 1693 | 135841 | [135841-heidelberg-1693.json](./135841-heidelberg-1693.json) |
+| Heidentum | 116755 | [116755-heidentum.json](./116755-heidentum.json) |
 | Heidi: The Game | 49479 | [49479-heidi-the-game.json](./49479-heidi-the-game.json) |
 | Heidi's Legacy: Mountains Calling | 347825 | [347825-heidis-legacy-mountains-calling.json](./347825-heidis-legacy-mountains-calling.json) |
 | Heileen 1: Sail Away | 17441 | [17441-heileen-1-sail-away.json](./17441-heileen-1-sail-away.json) |
@@ -6905,6 +6907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Höllische Nachbarn | 92979 | [92979-hollische-nachbarn.json](./92979-hollische-nachbarn.json) |
 | Hollow | 182886 | [182886-hollow.json](./182886-hollow.json) |
 | Hollow | 186257 | [186257-hollow.json](./186257-hollow.json) |
+| Hollow 2 | 116756 | [116756-hollow-2.json](./116756-hollow-2.json) |
 | Hollow Ascent | 370840 | [370840-hollow-ascent.json](./370840-hollow-ascent.json) |
 | Hollow Bequest | 386714 | [386714-hollow-bequest.json](./386714-hollow-bequest.json) |
 | Hollow Bliss | 90569 | [90569-hollow-bliss.json](./90569-hollow-bliss.json) |
@@ -7114,6 +7117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homam: An Inventor's Fist | 369366 | [369366-homam-an-inventors-fist.json](./369366-homam-an-inventors-fist.json) |
 | Homaysa | 224223 | [224223-homaysa.json](./224223-homaysa.json) |
 | Home | 10142 | [10142-home.json](./10142-home.json) |
+| Home | 116768 | [116768-home.json](./116768-home.json) |
 | Home | 121014 | [121014-home.json](./121014-home.json) |
 | Home | 223477 | [223477-home.json](./223477-home.json) |
 | Home | 280198 | [280198-home.json](./280198-home.json) |
@@ -8019,6 +8023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Racing Rally | 133103 | [133103-horse-racing-rally.json](./133103-horse-racing-rally.json) |
 | Horse Riding Classic | 391814 | [391814-horse-riding-classic.json](./391814-horse-riding-classic.json) |
 | Horse Riding Deluxe | 81654 | [81654-horse-riding-deluxe.json](./81654-horse-riding-deluxe.json) |
+| Horse Riding Tales | 116716 | [116716-horse-riding-tales.json](./116716-horse-riding-tales.json) |
 | Horse Riding Tales | 235160 | [235160-horse-riding-tales.json](./235160-horse-riding-tales.json) |
 | Horse Runner DX | 303569 | [303569-horse-runner-dx.json](./303569-horse-runner-dx.json) |
 | Horse Shelter 2022 | 204821 | [204821-horse-shelter-2022.json](./204821-horse-shelter-2022.json) |
