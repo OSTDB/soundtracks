@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Litri en Busca del Odrogoban Perdido | 194211 | [194211-el-litri-en-busca-del-odrogoban-perdido.json](./194211-el-litri-en-busca-del-odrogoban-perdido.json) |
 | El Llamero Solitario | 404453 | [404453-el-llamero-solitario.json](./404453-el-llamero-solitario.json) |
 | El Matador | 9828 | [9828-el-matador.json](./9828-el-matador.json) |
+| El Matador: Games Convention 2006 Edition | 137500 | [137500-el-matador-games-convention-2006-edition.json](./137500-el-matador-games-convention-2006-edition.json) |
 | El Minero | 207189 | [207189-el-minero.json](./207189-el-minero.json) |
 | El Ministerio del Tiempo VR: El tiempo en tus manos | 72345 | [72345-el-ministerio-del-tiempo-vr-el-tiempo-en-tus-manos.json](./72345-el-ministerio-del-tiempo-vr-el-tiempo-en-tus-manos.json) |
 | El Ministerio del Tiempo VR: Salva el tiempo | 74294 | [74294-el-ministerio-del-tiempo-vr-salva-el-tiempo.json](./74294-el-ministerio-del-tiempo-vr-salva-el-tiempo.json) |
