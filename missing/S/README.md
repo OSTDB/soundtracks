@@ -14401,6 +14401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulmate Factory | 230743 | [230743-soulmate-factory.json](./230743-soulmate-factory.json) |
 | Soulmaze | 290854 | [290854-soulmaze.json](./290854-soulmaze.json) |
 | SoulPactum | 342773 | [342773-soulpactum.json](./342773-soulpactum.json) |
+| Soulpath: The Final Journey | 154876 | [154876-soulpath-the-final-journey.json](./154876-soulpath-the-final-journey.json) |
 | Soulrise | 295544 | [295544-soulrise.json](./295544-soulrise.json) |
 | Souls | 261255 | [261255-souls.json](./261255-souls.json) |
 | Souls | 290622 | [290622-souls.json](./290622-souls.json) |
@@ -15671,6 +15672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacerocks | 349083 | [349083-spacerocks.json](./349083-spacerocks.json) |
 | Spaceruler | 227493 | [227493-spaceruler.json](./227493-spaceruler.json) |
 | SpacerX: Dome Survivals | 55101 | [55101-spacerx-dome-survivals.json](./55101-spacerx-dome-survivals.json) |
+| SpaceScape | 154871 | [154871-spacescape.json](./154871-spacescape.json) |
 | Spacesheep | 356047 | [356047-spacesheep.json](./356047-spacesheep.json) |
 | SpaceShift | 393610 | [393610-spaceshift.json](./393610-spaceshift.json) |
 | Spaceship Commander | 124694 | [124694-spaceship-commander.json](./124694-spaceship-commander.json) |
@@ -25092,6 +25094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rad Ball | 234505 | [234505-super-rad-ball.json](./234505-super-rad-ball.json) |
 | Super Radish Witch | 135618 | [135618-super-radish-witch.json](./135618-super-radish-witch.json) |
 | Super Raft Boat Classic | 144142 | [144142-super-raft-boat-classic.json](./144142-super-raft-boat-classic.json) |
+| Super Raft Boat VR | 154881 | [154881-super-raft-boat-vr.json](./154881-super-raft-boat-vr.json) |
 | Super Ramp Skater | 296006 | [296006-super-ramp-skater.json](./296006-super-ramp-skater.json) |
 | Super Ranger | 377710 | [377710-super-ranger.json](./377710-super-ranger.json) |
 | Super Rare Mixtape: Horror Edition | 272829 | [272829-super-rare-mixtape-horror-edition.json](./272829-super-rare-mixtape-horror-edition.json) |
@@ -25514,6 +25517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Spyroxo Adventures: Island of Dnfoo | 211685 | [211685-super-spyroxo-adventures-island-of-dnfoo.json](./211685-super-spyroxo-adventures-island-of-dnfoo.json) |
 | Super Squad | 127075 | [127075-super-squad.json](./127075-super-squad.json) |
 | Super Squad: Super Pack | 155467 | [155467-super-squad-super-pack.json](./155467-super-squad-super-pack.json) |
+| Super Squidlit | 154908 | [154908-super-squidlit.json](./154908-super-squidlit.json) |
 | Super Stacey World | 223025 | [223025-super-stacey-world.json](./223025-super-stacey-world.json) |
 | Super Stacker | 282478 | [282478-super-stacker.json](./282478-super-stacker.json) |
 | Super Stacker | 52894 | [52894-super-stacker.json](./52894-super-stacker.json) |
@@ -26842,6 +26846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweeper | 178436 | [178436-sweeper.json](./178436-sweeper.json) |
 | Sweeper Zero | 107870 | [107870-sweeper-zero.json](./107870-sweeper-zero.json) |
 | Sweepers Mine | 252914 | [252914-sweepers-mine.json](./252914-sweepers-mine.json) |
+| Sweeping the Ruins | 154886 | [154886-sweeping-the-ruins.json](./154886-sweeping-the-ruins.json) |
 | Sweeping the World | 226107 | [226107-sweeping-the-world.json](./226107-sweeping-the-world.json) |
 | Sweepminer | 377044 | [377044-sweepminer.json](./377044-sweepminer.json) |
 | Sweet | 276107 | [276107-sweet.json](./276107-sweet.json) |
