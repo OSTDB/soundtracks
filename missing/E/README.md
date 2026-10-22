@@ -1398,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Einn | 120832 | [120832-einn.json](./120832-einn.json) |
 | Eins Ring | 204319 | [204319-eins-ring.json](./204319-eins-ring.json) |
 | Einstein Riddle Island Puzzle | 388272 | [388272-einstein-riddle-island-puzzle.json](./388272-einstein-riddle-island-puzzle.json) |
+| Einstein: Brain Training | 106916 | [106916-einstein-brain-training.json](./106916-einstein-brain-training.json) |
 | Einstein's Brain Power | 209189 | [209189-einsteins-brain-power.json](./209189-einsteins-brain-power.json) |
 | Einstein's Cats | 291594 | [291594-einsteins-cats.json](./291594-einsteins-cats.json) |
 | Einstein's Riddle | 391103 | [391103-einsteins-riddle.json](./391103-einsteins-riddle.json) |
@@ -3672,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ER | 69779 | [69779-er.json](./69779-er.json) |
 | Er-Spectro | 81769 | [81769-er-spectro.json](./81769-er-spectro.json) |
 | Era | 83940 | [83940-era.json](./83940-era.json) |
+| Era of Celestials | 106899 | [106899-era-of-celestials.json](./106899-era-of-celestials.json) |
 | Era of Combat: Boxing | 189055 | [189055-era-of-combat-boxing.json](./189055-era-of-combat-boxing.json) |
 | Era of Darkness | 287735 | [287735-era-of-darkness.json](./287735-era-of-darkness.json) |
 | Era of Defense | 157509 | [157509-era-of-defense.json](./157509-era-of-defense.json) |
