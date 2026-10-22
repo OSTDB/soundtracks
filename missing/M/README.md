@@ -7797,6 +7797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Rivals: New York | 373617 | [373617-metro-rivals-new-york.json](./373617-metro-rivals-new-york.json) |
 | Metro Saga Bundle | 164753 | [164753-metro-saga-bundle.json](./164753-metro-saga-bundle.json) |
 | Metro Sim Hustle | 105601 | [105601-metro-sim-hustle.json](./105601-metro-sim-hustle.json) |
+| Metro Simulator | 154904 | [154904-metro-simulator.json](./154904-metro-simulator.json) |
 | Metro Simulator: 'Oka' Liveries Pack | 344137 | [344137-metro-simulator-oka-liveries-pack.json](./344137-metro-simulator-oka-liveries-pack.json) |
 | Metro Survival: Zombie Hunter | 174873 | [174873-metro-survival-zombie-hunter.json](./174873-metro-survival-zombie-hunter.json) |
 | Metro Trip Simulator | 404772 | [404772-metro-trip-simulator.json](./404772-metro-trip-simulator.json) |
@@ -14431,6 +14432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mrs. Estacion | 375347 | [375347-mrs-estacion.json](./375347-mrs-estacion.json) |
 | Mrs. Fantastic's Freaky Figurine Shop | 166702 | [166702-mrs-fantastics-freaky-figurine-shop.json](./166702-mrs-fantastics-freaky-figurine-shop.json) |
 | Mrs. Mopp | 354578 | [354578-mrs-mopp.json](./354578-mrs-mopp.json) |
+| Mrs.Cat In Mars | 154885 | [154885-mrs-cat-in-mars.json](./154885-mrs-cat-in-mars.json) |
 | MrToilet | 401824 | [401824-mrtoilet.json](./401824-mrtoilet.json) |
 | MrWang and Love | 235274 | [235274-mrwang-and-love.json](./235274-mrwang-and-love.json) |
 | Ms Jenkins Estate | 217300 | [217300-ms-jenkins-estate.json](./217300-ms-jenkins-estate.json) |
