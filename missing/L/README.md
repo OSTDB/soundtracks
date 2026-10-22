@@ -3425,6 +3425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Eater | 289431 | [289431-life-eater.json](./289431-life-eater.json) |
 | Life Effect | 236763 | [236763-life-effect.json](./236763-life-effect.json) |
 | Life Eternal | 225235 | [225235-life-eternal.json](./225235-life-eternal.json) |
+| Life Finds A Way | 152622 | [152622-life-finds-a-way.json](./152622-life-finds-a-way.json) |
 | Life Force | 261899 | [261899-life-force.json](./261899-life-force.json) |
 | Life Force | 261900 | [261900-life-force.json](./261900-life-force.json) |
 | Life Force SNES Port | 377226 | [377226-life-force-snes-port.json](./377226-life-force-snes-port.json) |
@@ -5635,6 +5636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LongPath | 150436 | [150436-longpath.json](./150436-longpath.json) |
 | LongStory | 74495 | [74495-longstory.json](./74495-longstory.json) |
 | LongStory 2 | 253480 | [253480-longstory-2.json](./253480-longstory-2.json) |
+| Longvinter | 152626 | [152626-longvinter.json](./152626-longvinter.json) |
 | Lonley, Lustful, Arrogant, Hateful | 172726 | [172726-lonley-lustful-arrogant-hateful.json](./172726-lonley-lustful-arrogant-hateful.json) |
 | Lonn | 135113 | [135113-lonn.json](./135113-lonn.json) |
 | LonQ! Highland in DS: Puu Puu Seijin Arawaru!! Shukketsu Dai-service! Onara no Saiten SP | 269826 | [269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json](./269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json) |
@@ -7280,6 +7282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludwig | 9239 | [9239-ludwig.json](./9239-ludwig.json) |
 | Luenna: School of the Magi | 380197 | [380197-luenna-school-of-the-magi.json](./380197-luenna-school-of-the-magi.json) |
 | Luffi: Homebound | 292998 | [292998-luffi-homebound.json](./292998-luffi-homebound.json) |
+| Luffy: Way Back Home | 152616 | [152616-luffy-way-back-home.json](./152616-luffy-way-back-home.json) |
 | Lufia II: Rise of the Sinistrals | 1178 | [1178-lufia-ii-rise-of-the-sinistrals.json](./1178-lufia-ii-rise-of-the-sinistrals.json) |
 | Lufia: Curse of the Sinistrals | 1181 | [1181-lufia-curse-of-the-sinistrals.json](./1181-lufia-curse-of-the-sinistrals.json) |
 | Lufia: The Legend Returns | 1179 | [1179-lufia-the-legend-returns.json](./1179-lufia-the-legend-returns.json) |
