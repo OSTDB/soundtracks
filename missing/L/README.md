@@ -2474,7 +2474,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Marvel Super Heroes 2: Agents of Atlas Character Pack | 168785 | [168785-lego-marvel-super-heroes-2-agents-of-atlas-character-pack.json](./168785-lego-marvel-super-heroes-2-agents-of-atlas-character-pack.json) |
 | LEGO Marvel Super Heroes 2: Champions Character Pack | 168368 | [168368-lego-marvel-super-heroes-2-champions-character-pack.json](./168368-lego-marvel-super-heroes-2-champions-character-pack.json) |
 | LEGO Marvel Super Heroes 2: Classic Guardians of the Galaxy Character Pack | 168781 | [168781-lego-marvel-super-heroes-2-classic-guardians-of-the-galaxy-character-pack.json](./168781-lego-marvel-super-heroes-2-classic-guardians-of-the-galaxy-character-pack.json) |
+| LEGO Marvel Super Heroes 2: Cloak and Dagger Character and Level Pack | 137318 | [137318-lego-marvel-super-heroes-2-cloak-and-dagger-character-and-level-pack.json](./137318-lego-marvel-super-heroes-2-cloak-and-dagger-character-and-level-pack.json) |
 | LEGO Marvel Super Heroes 2: Marvel's Ant-Man and the Wasp Level and Character Pack | 168783 | [168783-lego-marvel-super-heroes-2-marvels-ant-man-and-the-wasp-level-and-character-pack.json](./168783-lego-marvel-super-heroes-2-marvels-ant-man-and-the-wasp-level-and-character-pack.json) |
+| LEGO Marvel Super Heroes 2: Marvel's Guardians of the Galaxy - Vol. 2 Movie Level Pack | 137309 | [137309-lego-marvel-super-heroes-2-marvels-guardians-of-the-galaxy-vol-2-movie-level-pack.json](./137309-lego-marvel-super-heroes-2-marvels-guardians-of-the-galaxy-vol-2-movie-level-pack.json) |
+| LEGO Marvel Super Heroes 2: Runaways Level and Character Pack | 137311 | [137311-lego-marvel-super-heroes-2-runaways-level-and-character-pack.json](./137311-lego-marvel-super-heroes-2-runaways-level-and-character-pack.json) |
 | LEGO Marvel Super Heroes: Asgard Character Pack | 101063 | [101063-lego-marvel-super-heroes-asgard-character-pack.json](./101063-lego-marvel-super-heroes-asgard-character-pack.json) |
 | LEGO Marvel Super Heroes: Iron Patriot Minifigure - Limited Edition | 89899 | [89899-lego-marvel-super-heroes-iron-patriot-minifigure-limited-edition.json](./89899-lego-marvel-super-heroes-iron-patriot-minifigure-limited-edition.json) |
 | LEGO Marvel Super Heroes: Universe in Peril | 47966 | [47966-lego-marvel-super-heroes-universe-in-peril.json](./47966-lego-marvel-super-heroes-universe-in-peril.json) |
@@ -7880,11 +7883,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lycoris: Underworld | 413834 | [413834-lycoris-underworld.json](./413834-lycoris-underworld.json) |
 | Lydia: Sweet Dreams | 33409 | [33409-lydia-sweet-dreams.json](./33409-lydia-sweet-dreams.json) |
 | Lydia's Labyrinth | 318537 | [318537-lydias-labyrinth.json](./318537-lydias-labyrinth.json) |
+| Lyle in Cube Sector | 137520 | [137520-lyle-in-cube-sector.json](./137520-lyle-in-cube-sector.json) |
 | Lyle in Cube Sector MD | 312307 | [312307-lyle-in-cube-sector-md.json](./312307-lyle-in-cube-sector-md.json) |
 | Lylia's Deadline | 265856 | [265856-lylias-deadline.json](./265856-lylias-deadline.json) |
 | Lylia's Deadline: Clearance | 316352 | [316352-lylias-deadline-clearance.json](./316352-lylias-deadline-clearance.json) |
 | Lymbus | 276226 | [276226-lymbus.json](./276226-lymbus.json) |
 | Lymph City Blues | 211132 | [211132-lymph-city-blues.json](./211132-lymph-city-blues.json) |
+| Lyn: The Lightbringer | 137493 | [137493-lyn-the-lightbringer.json](./137493-lyn-the-lightbringer.json) |
 | Lyne | 5577 | [5577-lyne.json](./5577-lyne.json) |
 | Lynium | 158628 | [158628-lynium.json](./158628-lynium.json) |
 | Lynked: Banner of the Spark | 314256 | [314256-lynked-banner-of-the-spark.json](./314256-lynked-banner-of-the-spark.json) |
