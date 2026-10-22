@@ -5319,6 +5319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Tengoku: Tempo Up! | 280761 | [280761-rhythm-tengoku-tempo-up.json](./280761-rhythm-tengoku-tempo-up.json) |
 | Rhythm Thief & the Emperor's Treasure | 47603 | [47603-rhythm-thief-and-the-emperors-treasure.json](./47603-rhythm-thief-and-the-emperors-treasure.json) |
 | Rhythm Thief & the Paris Caper | 62279 | [62279-rhythm-thief-and-the-paris-caper.json](./62279-rhythm-thief-and-the-paris-caper.json) |
+| Rhythm Towers | 152635 | [152635-rhythm-towers.json](./152635-rhythm-towers.json) |
 | Rhythm Town: Music Visualizer | 335251 | [335251-rhythm-town-music-visualizer.json](./335251-rhythm-town-music-visualizer.json) |
 | Rhythm Typer | 382798 | [382798-rhythm-typer.json](./382798-rhythm-typer.json) |
 | Rhythm Witch: Beat Death | 319447 | [319447-rhythm-witch-beat-death.json](./319447-rhythm-witch-beat-death.json) |
@@ -5940,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riot Zone | 37611 | [37611-riot-zone.json](./37611-riot-zone.json) |
 | Riot: Civil Unrest | 19934 | [19934-riot-civil-unrest.json](./19934-riot-civil-unrest.json) |
 | Rioters 2025 | 147328 | [147328-rioters-2025.json](./147328-rioters-2025.json) |
+| Riotous | 152619 | [152619-riotous.json](./152619-riotous.json) |
 | RiotZ | 41923 | [41923-riotz.json](./41923-riotz.json) |
 | RIP | 392756 | [392756-rip.json](./392756-rip.json) |
 | RIP 2: Strike Back | 28922 | [28922-rip-2-strike-back.json](./28922-rip-2-strike-back.json) |
