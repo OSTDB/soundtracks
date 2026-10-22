@@ -2340,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neuroshima Hex | 22276 | [22276-neuroshima-hex.json](./22276-neuroshima-hex.json) |
 | Neurosis | 245760 | [245760-neurosis.json](./245760-neurosis.json) |
 | Neurosis | 385403 | [385403-neurosis.json](./385403-neurosis.json) |
+| NeuroSlicers | 108179 | [108179-neuroslicers.json](./108179-neuroslicers.json) |
 | Neuroslop | 409579 | [409579-neuroslop.json](./409579-neuroslop.json) |
 | Neurospasm | 404079 | [404079-neurospasm.json](./404079-neurospasm.json) |
 | NeuroSquad | 234042 | [234042-neurosquad.json](./234042-neurosquad.json) |
@@ -2624,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Star Soccer 2010 | 7678 | [7678-new-star-soccer-2010.json](./7678-new-star-soccer-2010.json) |
 | New Star Soccer 3 | 7680 | [7680-new-star-soccer-3.json](./7680-new-star-soccer-3.json) |
 | New Star Soccer 4 | 7679 | [7679-new-star-soccer-4.json](./7679-new-star-soccer-4.json) |
+| New Star Soccer G-Story | 108163 | [108163-new-star-soccer-g-story.json](./108163-new-star-soccer-g-story.json) |
 | New Star Soccer Manager | 109583 | [109583-new-star-soccer-manager.json](./109583-new-star-soccer-manager.json) |
 | New Stars | 393822 | [393822-new-stars.json](./393822-new-stars.json) |
 | New Story of Seasons | 117535 | [117535-new-story-of-seasons.json](./117535-new-story-of-seasons.json) |
@@ -4462,6 +4464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Exit | 374356 | [374356-no-exit.json](./374356-no-exit.json) |
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
 | No Fate! Only the Power of Will | 7123 | [7123-no-fate-only-the-power-of-will.json](./7123-no-fate-only-the-power-of-will.json) |
+| No Fault | 108192 | [108192-no-fault.json](./108192-no-fault.json) |
 | No Fear | 153161 | [153161-no-fear.json](./153161-no-fear.json) |
 | No Fear Downhill Mountain Biking | 372835 | [372835-no-fear-downhill-mountain-biking.json](./372835-no-fear-downhill-mountain-biking.json) |
 | No Fear Downhill Mountain Biking | 4654 | [4654-no-fear-downhill-mountain-biking.json](./4654-no-fear-downhill-mountain-biking.json) |
@@ -5547,6 +5550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nouen Hokkoriina | 335107 | [335107-nouen-hokkoriina.json](./335107-nouen-hokkoriina.json) |
 | Noukin Mahoutsukai ha Shingaku Shitai | 282611 | [282611-noukin-mahoutsukai-ha-shingaku-shitai.json](./282611-noukin-mahoutsukai-ha-shingaku-shitai.json) |
 | Noukk | 197757 | [197757-noukk.json](./197757-noukk.json) |
+| Noukou Aibu to Honban Satsuei: Ojisan to no Noumitsu Sex ni Ochiru Kyonyuu Idol | 108172 | [108172-noukou-aibu-to-honban-satsuei-ojisan-to-no-noumitsu-sex-ni-ochiru-kyonyuu-idol.json](./108172-noukou-aibu-to-honban-satsuei-ojisan-to-no-noumitsu-sex-ni-ochiru-kyonyuu-idol.json) |
 | Noumisou Journey | 274557 | [274557-noumisou-journey.json](./274557-noumisou-journey.json) |
 | Noun Town Language Learning | 168611 | [168611-noun-town-language-learning.json](./168611-noun-town-language-learning.json) |
 | Noun Town: Learn & Chill | 408986 | [408986-noun-town-learn-and-chill.json](./408986-noun-town-learn-and-chill.json) |
