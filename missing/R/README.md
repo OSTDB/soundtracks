@@ -3041,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Horizon | 52744 | [52744-red-horizon.json](./52744-red-horizon.json) |
 | Red Hot Ricochet | 83610 | [83610-red-hot-ricochet.json](./83610-red-hot-ricochet.json) |
 | Red Hot Robot Ultrarena | 184814 | [184814-red-hot-robot-ultrarena.json](./184814-red-hot-robot-ultrarena.json) |
+| Red Hot Vengeance | 118048 | [118048-red-hot-vengeance.json](./118048-red-hot-vengeance.json) |
 | Red Howl | 394487 | [394487-red-howl.json](./394487-red-howl.json) |
 | Red Imposter | 349926 | [349926-red-imposter.json](./349926-red-imposter.json) |
 | Red Island | 120393 | [120393-red-island.json](./120393-red-island.json) |
@@ -4607,6 +4608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retexo Mori | 155975 | [155975-retexo-mori.json](./155975-retexo-mori.json) |
 | Rethawed | 320929 | [320929-rethawed.json](./320929-rethawed.json) |
 | ReThink | 29260 | [29260-rethink.json](./29260-rethink.json) |
+| ReThink \| Evolved 3 | 118007 | [118007-rethink-evolved-3.json](./118007-rethink-evolved-3.json) |
 | ReThink \| Evolved 4 | 132592 | [132592-rethink-evolved-4.json](./132592-rethink-evolved-4.json) |
 | ReThink \| Evolved 5 | 244849 | [244849-rethink-evolved-5.json](./244849-rethink-evolved-5.json) |
 | ReThink 3 | 194858 | [194858-rethink-3.json](./194858-rethink-3.json) |
@@ -9379,6 +9381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruinas de Maimará | 326145 | [326145-ruinas-de-maimara.json](./326145-ruinas-de-maimara.json) |
 | Ruination | 114854 | [114854-ruination.json](./114854-ruination.json) |
 | Ruindrift | 371883 | [371883-ruindrift.json](./371883-ruindrift.json) |
+| Ruine | 118055 | [118055-ruine.json](./118055-ruine.json) |
 | Ruined | 287912 | [287912-ruined.json](./287912-ruined.json) |
 | Ruined King: A League of Legends Story | 127358 | [127358-ruined-king-a-league-of-legends-story.json](./127358-ruined-king-a-league-of-legends-story.json) |
 | Ruined King: A League of Legends Story - Deluxe Edition | 186888 | [186888-ruined-king-a-league-of-legends-story-deluxe-edition.json](./186888-ruined-king-a-league-of-legends-story-deluxe-edition.json) |
