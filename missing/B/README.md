@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1398,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballz Drop | 105721 | [105721-ballz-drop.json](./105721-ballz-drop.json) |
 | Ballz Drop | 105795 | [105795-ballz-drop.json](./105795-ballz-drop.json) |
 | BallZ DX | 316189 | [316189-ballz-dx.json](./316189-ballz-dx.json) |
+| Ballz Royale | 109355 | [109355-ballz-royale.json](./109355-ballz-royale.json) |
 | Ballz: Farm | 81063 | [81063-ballz-farm.json](./81063-ballz-farm.json) |
 | Ballz: The Director's Cut | 12303 | [12303-ballz-the-directors-cut.json](./12303-ballz-the-directors-cut.json) |
 | BallzOut | 147941 | [147941-ballzout.json](./147941-ballzout.json) |
@@ -4027,6 +4029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beasts Shall Rise | 118138 | [118138-beasts-shall-rise.json](./118138-beasts-shall-rise.json) |
 | Beastwatch: Meat & Mayhem | 270202 | [270202-beastwatch-meat-and-mayhem.json](./270202-beastwatch-meat-and-mayhem.json) |
 | Beasty Karts | 118132 | [118132-beasty-karts.json](./118132-beasty-karts.json) |
+| Beat | 109352 | [109352-beat.json](./109352-beat.json) |
 | Beat 'Em & Eat 'Em | 11139 | [11139-beat-em-and-eat-em.json](./11139-beat-em-and-eat-em.json) |
 | Beat 'Em & Eat 'Em/Lady in Wading | 79193 | [79193-beat-em-and-eat-em-lady-in-wading.json](./79193-beat-em-and-eat-em-lady-in-wading.json) |
 | Beat 'Em All | 265924 | [265924-beat-em-all.json](./265924-beat-em-all.json) |
@@ -4455,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bebop and Tempo | 43893 | [43893-bebop-and-tempo.json](./43893-bebop-and-tempo.json) |
 | Bebylon Battle Royale | 56757 | [56757-bebylon-battle-royale.json](./56757-bebylon-battle-royale.json) |
 | Becalm | 113863 | [113863-becalm.json](./113863-becalm.json) |
+| Became the Hunted | 109315 | [109315-became-the-hunted.json](./109315-became-the-hunted.json) |
 | Becastled | 139654 | [139654-becastled.json](./139654-becastled.json) |
 | Because I happened to know a secret of a transforming heroine... | 83177 | [83177-because-i-happened-to-know-a-secret-of-a-transforming-heroine.json](./83177-because-i-happened-to-know-a-secret-of-a-transforming-heroine.json) |
 | Because It's a Dream, It Must Be Romance: Connecting Hearts Across Realities | 399613 | [399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json](./399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json) |
@@ -6206,6 +6210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary Trigger | 30080 | [30080-binary-trigger.json](./30080-binary-trigger.json) |
 | Binary. | 206173 | [206173-binary.json](./206173-binary.json) |
 | Binary. | 211098 | [211098-binary.json](./211098-binary.json) |
+| BinaryBotsVR | 109307 | [109307-binarybotsvr.json](./109307-binarybotsvr.json) |
 | Binarycurse | 369690 | [369690-binarycurse.json](./369690-binarycurse.json) |
 | BinaryDefense | 224417 | [224417-binarydefense.json](./224417-binarydefense.json) |
 | BinaryGrab | 130724 | [130724-binarygrab.json](./130724-binarygrab.json) |
@@ -13857,6 +13862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burn:Cycle | 45942 | [45942-burn-cycle.json](./45942-burn-cycle.json) |
 | Burn! SuperTrucks | 142836 | [142836-burn-supertrucks.json](./142836-burn-supertrucks.json) |
 | Burn. Pulse. Detach. | 143115 | [143115-burn-pulse-detach.json](./143115-burn-pulse-detach.json) |
+| Burndown | 109321 | [109321-burndown.json](./109321-burndown.json) |
 | Burned Horizons | 391166 | [391166-burned-horizons.json](./391166-burned-horizons.json) |
 | Burned Land | 114883 | [114883-burned-land.json](./114883-burned-land.json) |
 | Burned One | 365157 | [365157-burned-one.json](./365157-burned-one.json) |
