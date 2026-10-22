@@ -1434,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords I + II | 154234 | [154234-warlords-i-ii.json](./154234-warlords-i-ii.json) |
 | Warlords II | 50357 | [50357-warlords-ii.json](./50357-warlords-ii.json) |
 | Warlords II Deluxe | 50356 | [50356-warlords-ii-deluxe.json](./50356-warlords-ii-deluxe.json) |
+| Warlords II: Scenario Builder | 100044 | [100044-warlords-ii-scenario-builder.json](./100044-warlords-ii-scenario-builder.json) |
 | Warlords III: Frontier | 401822 | [401822-warlords-iii-frontier.json](./401822-warlords-iii-frontier.json) |
 | Warlords of Aternum | 107181 | [107181-warlords-of-aternum.json](./107181-warlords-of-aternum.json) |
 | Warlords of the Deck | 301805 | [301805-warlords-of-the-deck.json](./301805-warlords-of-the-deck.json) |
@@ -1708,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warship Battle Commander | 356715 | [356715-warship-battle-commander.json](./356715-warship-battle-commander.json) |
 | Warship Girls | 58119 | [58119-warship-girls.json](./58119-warship-girls.json) |
 | Warship Girls R | 175724 | [175724-warship-girls-r.json](./175724-warship-girls-r.json) |
+| Warship Gunner 2 | 99954 | [99954-warship-gunner-2.json](./99954-warship-gunner-2.json) |
 | WarShip HD | 205010 | [205010-warship-hd.json](./205010-warship-hd.json) |
 | Warship Jolly Roger | 282250 | [282250-warship-jolly-roger.json](./282250-warship-jolly-roger.json) |
 | Warship Legend | 227813 | [227813-warship-legend.json](./227813-warship-legend.json) |
