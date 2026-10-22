@@ -2279,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hay Day | 7434 | [7434-hay-day.json](./7434-hay-day.json) |
 | Hay Day Pop | 165527 | [165527-hay-day-pop.json](./165527-hay-day-pop.json) |
 | Hay Ewe | 22736 | [22736-hay-ewe.json](./22736-hay-ewe.json) |
+| Hayabusa | 130596 | [130596-hayabusa.json](./130596-hayabusa.json) |
 | Hayai | 200715 | [200715-hayai.json](./200715-hayai.json) |
 | Hayaku! Island of Darkness | 249626 | [249626-hayaku-island-of-darkness.json](./249626-hayaku-island-of-darkness.json) |
 | Hayama Reiko no Date de Blackjack | 41349 | [41349-hayama-reiko-no-date-de-blackjack.json](./41349-hayama-reiko-no-date-de-blackjack.json) |
