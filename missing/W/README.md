@@ -3150,7 +3150,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -3159,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelie 2 | 239892 | [239892-wheelie-2.json](./239892-wheelie-2.json) |
 | Wheelie 4: Time Travel | 331386 | [331386-wheelie-4-time-travel.json](./331386-wheelie-4-time-travel.json) |
 | Wheelie Bad | 397427 | [397427-wheelie-bad.json](./397427-wheelie-bad.json) |
+| Wheelie Bike 2 | 114725 | [114725-wheelie-bike-2.json](./114725-wheelie-bike-2.json) |
 | Wheelie City | 338378 | [338378-wheelie-city.json](./338378-wheelie-city.json) |
 | Wheelie King 3D | 104656 | [104656-wheelie-king-3d.json](./104656-wheelie-king-3d.json) |
 | Wheelie King 7 | 338377 | [338377-wheelie-king-7.json](./338377-wheelie-king-7.json) |
@@ -4399,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willy J Peso Presents: Save the Trees | 102858 | [102858-willy-j-peso-presents-save-the-trees.json](./102858-willy-j-peso-presents-save-the-trees.json) |
 | Willy Jetman: Astromonkey's Revenge - Sweeper's Edition | 139831 | [139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json](./139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json) |
 | Willy Morgan and the Curse of Bone Town | 133429 | [133429-willy-morgan-and-the-curse-of-bone-town.json](./133429-willy-morgan-and-the-curse-of-bone-town.json) |
+| Willy the Striker | 114719 | [114719-willy-the-striker.json](./114719-willy-the-striker.json) |
 | Willy the Worm | 69897 | [69897-willy-the-worm.json](./69897-willy-the-worm.json) |
 | Willy Tournament 2004 | 329999 | [329999-willy-tournament-2004.json](./329999-willy-tournament-2004.json) |
 | Willy Wabbit & His Magical Books | 287320 | [287320-willy-wabbit-and-his-magical-books.json](./287320-willy-wabbit-and-his-magical-books.json) |
@@ -6112,6 +6113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words on Stream | 137688 | [137688-words-on-stream.json](./137688-words-on-stream.json) |
 | Words Scramble | 233055 | [233055-words-scramble.json](./233055-words-scramble.json) |
 | Words Scramble: Cities | 245329 | [245329-words-scramble-cities.json](./245329-words-scramble-cities.json) |
+| Words Unleashed | 114715 | [114715-words-unleashed.json](./114715-words-unleashed.json) |
 | Words UP | 104464 | [104464-words-up.json](./104464-words-up.json) |
 | Words with AI | 233057 | [233057-words-with-ai.json](./233057-words-with-ai.json) |
 | Words With Foes: Quest for the Lexinomicon | 182843 | [182843-words-with-foes-quest-for-the-lexinomicon.json](./182843-words-with-foes-quest-for-the-lexinomicon.json) |
