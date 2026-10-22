@@ -1692,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illiteracy | 178489 | [178489-illiteracy.json](./178489-illiteracy.json) |
 | Illmatic Envelope Swamp + Radirgy Swag | 158949 | [158949-illmatic-envelope-swamp-radirgy-swag.json](./158949-illmatic-envelope-swamp-radirgy-swag.json) |
 | Illness | 166584 | [166584-illness.json](./166584-illness.json) |
+| Illness in the East | 139642 | [139642-illness-in-the-east.json](./139642-illness-in-the-east.json) |
 | Illo Somnium Rapid Eye | 302722 | [302722-illo-somnium-rapid-eye.json](./302722-illo-somnium-rapid-eye.json) |
 | Illo: birth of the cool | 85626 | [85626-illo-birth-of-the-cool.json](./85626-illo-birth-of-the-cool.json) |
 | IlloScape: Into the Illoverse | 302730 | [302730-illoscape-into-the-illoverse.json](./302730-illoscape-into-the-illoverse.json) |
@@ -1967,6 +1968,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortals | 103462 | [103462-immortals.json](./103462-immortals.json) |
 | Immortals | 341692 | [341692-immortals.json](./341692-immortals.json) |
 | Immortals Fenyx Rising: A New God | 142848 | [142848-immortals-fenyx-rising-a-new-god.json](./142848-immortals-fenyx-rising-a-new-god.json) |
+| Immortals Fenyx Rising: Gold Edition | 139859 | [139859-immortals-fenyx-rising-gold-edition.json](./139859-immortals-fenyx-rising-gold-edition.json) |
+| Immortals Fenyx Rising: Limited Edition | 139850 | [139850-immortals-fenyx-rising-limited-edition.json](./139850-immortals-fenyx-rising-limited-edition.json) |
 | Immortals Fenyx Rising: Season Pass | 293724 | [293724-immortals-fenyx-rising-season-pass.json](./293724-immortals-fenyx-rising-season-pass.json) |
 | Immortals Fenyx Rising: The Lost Gods | 144580 | [144580-immortals-fenyx-rising-the-lost-gods.json](./144580-immortals-fenyx-rising-the-lost-gods.json) |
 | Immortals Must Die | 287880 | [287880-immortals-must-die.json](./287880-immortals-must-die.json) |
