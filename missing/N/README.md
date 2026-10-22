@@ -1238,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebula Online | 120181 | [120181-nebula-online.json](./120181-nebula-online.json) |
 | Nebula Realms | 99527 | [99527-nebula-realms.json](./99527-nebula-realms.json) |
 | Nebula Veil | 383039 | [383039-nebula-veil.json](./383039-nebula-veil.json) |
+| Nebula Within | 137871 | [137871-nebula-within.json](./137871-nebula-within.json) |
 | Nebula's Descent | 253893 | [253893-nebulas-descent.json](./253893-nebulas-descent.json) |
 | Nebulae | 409243 | [409243-nebulae.json](./409243-nebulae.json) |
 | NebulArena | 388326 | [388326-nebularena.json](./388326-nebularena.json) |
@@ -3936,6 +3937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Climb | 381229 | [381229-ninja-climb.json](./381229-ninja-climb.json) |
 | Ninja Clowns | 40993 | [40993-ninja-clowns.json](./40993-ninja-clowns.json) |
 | Ninja Code | 110362 | [110362-ninja-code.json](./110362-ninja-code.json) |
+| Ninja Commando | 138089 | [138089-ninja-commando.json](./138089-ninja-commando.json) |
 | Ninja Cop Saizou | 215137 | [215137-ninja-cop-saizou.json](./215137-ninja-cop-saizou.json) |
 | Ninja Dash | 104000 | [104000-ninja-dash.json](./104000-ninja-dash.json) |
 | Ninja Dash - Ronin Jump RPG | 104648 | [104648-ninja-dash-ronin-jump-rpg.json](./104648-ninja-dash-ronin-jump-rpg.json) |
