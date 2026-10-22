@@ -5175,6 +5175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Kingdom | 120760 | [120760-alien-kingdom.json](./120760-alien-kingdom.json) |
 | Alien Land | 260604 | [260604-alien-land.json](./260604-alien-land.json) |
 | Alien Lander | 282113 | [282113-alien-lander.json](./282113-alien-lander.json) |
+| Alien League | 115349 | [115349-alien-league.json](./115349-alien-league.json) |
 | Alien Legacy | 14419 | [14419-alien-legacy.json](./14419-alien-legacy.json) |
 | Alien Legion | 14243 | [14243-alien-legion.json](./14243-alien-legion.json) |
 | Alien Looter | 267270 | [267270-alien-looter.json](./267270-alien-looter.json) |
@@ -8420,6 +8421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antegods | 34252 | [34252-antegods.json](./34252-antegods.json) |
 | Antenna | 28342 | [28342-antenna.json](./28342-antenna.json) |
 | Antenna Dilemma | 363159 | [363159-antenna-dilemma.json](./363159-antenna-dilemma.json) |
+| Antenna Dilemma: Prologue | 115343 | [115343-antenna-dilemma-prologue.json](./115343-antenna-dilemma-prologue.json) |
 | Antepenult | 356851 | [356851-antepenult.json](./356851-antepenult.json) |
 | Antero Sudoku | 359363 | [359363-antero-sudoku.json](./359363-antero-sudoku.json) |
 | Antes todo esto era campo | 417976 | [417976-antes-todo-esto-era-campo.json](./417976-antes-todo-esto-era-campo.json) |
@@ -12407,6 +12409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroneer: Suit Bundle | 280148 | [280148-astroneer-suit-bundle.json](./280148-astroneer-suit-bundle.json) |
 | Astroneer: Xenobiology | 234026 | [234026-astroneer-xenobiology.json](./234026-astroneer-xenobiology.json) |
 | AstroNest | 19527 | [19527-astronest.json](./19527-astronest.json) |
+| Astronest VR | 115357 | [115357-astronest-vr.json](./115357-astronest-vr.json) |
 | Astronimo | 237413 | [237413-astronimo.json](./237413-astronimo.json) |
 | Astronite | 142480 | [142480-astronite.json](./142480-astronite.json) |
 | Astronium | 167542 | [167542-astronium.json](./167542-astronium.json) |
