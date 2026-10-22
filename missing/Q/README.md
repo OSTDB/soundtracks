@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Lock | 34189 | [34189-quantum-lock.json](./34189-quantum-lock.json) |
 | Quantum Loop | 394483 | [394483-quantum-loop.json](./394483-quantum-loop.json) |
 | Quantum Maki | 139114 | [139114-quantum-maki.json](./139114-quantum-maki.json) |
+| Quantum Multiverse | 122022 | [122022-quantum-multiverse.json](./122022-quantum-multiverse.json) |
 | Quantum Odyssey | 289448 | [289448-quantum-odyssey.json](./289448-quantum-odyssey.json) |
 | Quantum of Hope | 352846 | [352846-quantum-of-hope.json](./352846-quantum-of-hope.json) |
 | Quantum of Soul | 247994 | [247994-quantum-of-soul.json](./247994-quantum-of-soul.json) |
