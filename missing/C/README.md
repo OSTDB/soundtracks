@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadence | 317844 | [317844-cadence.json](./317844-cadence.json) |
 | Cadence Crisis | 301142 | [301142-cadence-crisis.json](./301142-cadence-crisis.json) |
 | Cadence Cuties | 245791 | [245791-cadence-cuties.json](./245791-cadence-cuties.json) |
+| Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Character Pack | 141706 | [141706-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-character-pack.json](./141706-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-character-pack.json) |
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Melody Pack | 235331 | [235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json](./235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json) |
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Octavo's Ode | 235330 | [235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json](./235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json) |
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Season Pass | 141742 | [141742-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-season-pass.json](./141742-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-season-pass.json) |
@@ -9266,6 +9267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorCube | 52519 | [52519-colorcube.json](./52519-colorcube.json) |
 | Colored Eyes Girls | 271652 | [271652-colored-eyes-girls.json](./271652-colored-eyes-girls.json) |
 | Colored Shapes | 158627 | [158627-colored-shapes.json](./158627-colored-shapes.json) |
+| Coloree | 141695 | [141695-coloree.json](./141695-coloree.json) |
 | Colorelli | 80125 | [80125-colorelli.json](./80125-colorelli.json) |
 | Colorfall | 404788 | [404788-colorfall.json](./404788-colorfall.json) |
 | Colorfill | 278884 | [278884-colorfill.json](./278884-colorfill.json) |
