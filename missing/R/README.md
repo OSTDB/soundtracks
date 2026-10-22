@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok: War of Gods | 323174 | [323174-ragnarok-war-of-gods.json](./323174-ragnarok-war-of-gods.json) |
 | Ragnarra: Might of Muskets | 163841 | [163841-ragnarra-might-of-muskets.json](./163841-ragnarra-might-of-muskets.json) |
 | RagnaTales MMORPG | 320479 | [320479-ragnatales-mmorpg.json](./320479-ragnatales-mmorpg.json) |
+| Ragnorium | 138637 | [138637-ragnorium.json](./138637-ragnorium.json) |
 | Ragozin on Moon | 156691 | [156691-ragozin-on-moon.json](./156691-ragozin-on-moon.json) |
 | Rags to Dishes | 142946 | [142946-rags-to-dishes.json](./142946-rags-to-dishes.json) |
 | Rags to Liches | 304175 | [304175-rags-to-liches.json](./304175-rags-to-liches.json) |
@@ -1123,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainy Day Spider Solitaire | 366447 | [366447-rainy-day-spider-solitaire.json](./366447-rainy-day-spider-solitaire.json) |
 | Rainy Day Spider Solitaire HD | 354996 | [354996-rainy-day-spider-solitaire-hd.json](./354996-rainy-day-spider-solitaire-hd.json) |
 | Rainy Morning Kitchen Fire Blues | 135778 | [135778-rainy-morning-kitchen-fire-blues.json](./135778-rainy-morning-kitchen-fire-blues.json) |
+| Rainy Neon: Baku | 138444 | [138444-rainy-neon-baku.json](./138444-rainy-neon-baku.json) |
 | Rainy Night | 128940 | [128940-rainy-night.json](./128940-rainy-night.json) |
 | Rainy Season | 119732 | [119732-rainy-season.json](./119732-rainy-season.json) |
 | Rainy single room | 205588 | [205588-rainy-single-room.json](./205588-rainy-single-room.json) |
