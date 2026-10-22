@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokai Hunters | 346461 | [346461-yokai-hunters.json](./346461-yokai-hunters.json) |
 | Yokai Inn | 152181 | [152181-yokai-inn.json](./152181-yokai-inn.json) |
 | Yokai Jiken Aratamegata no Kobanashi | 77369 | [77369-yokai-jiken-aratamegata-no-kobanashi.json](./77369-yokai-jiken-aratamegata-no-kobanashi.json) |
+| Yokai Kitchen | 137883 | [137883-yokai-kitchen.json](./137883-yokai-kitchen.json) |
 | Yokai Mask | 110229 | [110229-yokai-mask.json](./110229-yokai-mask.json) |
 | Yokai Memory | 124584 | [124584-yokai-memory.json](./124584-yokai-memory.json) |
 | Yokai Moon | 183511 | [183511-yokai-moon.json](./183511-yokai-moon.json) |
@@ -1685,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YuuYuu Jiteki no Yuukarin | 166626 | [166626-yuuyuu-jiteki-no-yuukarin.json](./166626-yuuyuu-jiteki-no-yuukarin.json) |
 | Yùxuè Zhànhún | 128327 | [128327-yuxue-zhanhun.json](./128327-yuxue-zhanhun.json) |
 | Yuying Mansion | 258825 | [258825-yuying-mansion.json](./258825-yuying-mansion.json) |
+| YuYu Hakusho | 138085 | [138085-yuyu-hakusho.json](./138085-yuyu-hakusho.json) |
 | YuYu Hakusho | 60531 | [60531-yuyu-hakusho.json](./60531-yuyu-hakusho.json) |
 | YuYu Hakusho | 80401 | [80401-yuyu-hakusho.json](./80401-yuyu-hakusho.json) |
 | YuYu Hakusho 100% Maji Battle | 131397 | [131397-yuyu-hakusho-100-maji-battle.json](./131397-yuyu-hakusho-100-maji-battle.json) |
