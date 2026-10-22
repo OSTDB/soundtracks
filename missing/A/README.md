@@ -800,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ridiculous Waste of Time | 408548 | [408548-a-ridiculous-waste-of-time.json](./408548-a-ridiculous-waste-of-time.json) |
 | A Right to Rule | 347228 | [347228-a-right-to-rule.json](./347228-a-right-to-rule.json) |
 | A Rip In Time | 50751 | [50751-a-rip-in-time.json](./50751-a-rip-in-time.json) |
+| A Rite from the Stars | 105050 | [105050-a-rite-from-the-stars.json](./105050-a-rite-from-the-stars.json) |
 | A Rite from the Stars: Remaster Edition | 298690 | [298690-a-rite-from-the-stars-remaster-edition.json](./298690-a-rite-from-the-stars-remaster-edition.json) |
 | A Roach In Space | 269058 | [269058-a-roach-in-space.json](./269058-a-roach-in-space.json) |
 | A Road That May Lead Nowhere | 77658 | [77658-a-road-that-may-lead-nowhere.json](./77658-a-road-that-may-lead-nowhere.json) |
@@ -1023,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tower | 338718 | [338718-a-tower.json](./338718-a-tower.json) |
 | A Tower Full of Cats | 234411 | [234411-a-tower-full-of-cats.json](./234411-a-tower-full-of-cats.json) |
 | A Town Called Happenstance | 211084 | [211084-a-town-called-happenstance.json](./211084-a-town-called-happenstance.json) |
+| A tractor | 105073 | [105073-a-tractor.json](./105073-a-tractor.json) |
 | A Trail of Ooze: Chapter 1 | 174094 | [174094-a-trail-of-ooze-chapter-1.json](./174094-a-trail-of-ooze-chapter-1.json) |
 | A Train Full of Money | 177769 | [177769-a-train-full-of-money.json](./177769-a-train-full-of-money.json) |
 | A Trans Man's Grindr DMs | 282106 | [282106-a-trans-mans-grindr-dms.json](./282106-a-trans-mans-grindr-dms.json) |
@@ -3539,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Sokoban | 152157 | [152157-age-of-sokoban.json](./152157-age-of-sokoban.json) |
 | Age of Solitaire : Build City | 102713 | [102713-age-of-solitaire-build-city.json](./102713-age-of-solitaire-build-city.json) |
 | Age of Solitaire: Build Civilization | 211422 | [211422-age-of-solitaire-build-civilization.json](./211422-age-of-solitaire-build-civilization.json) |
+| Age of Space | 105023 | [105023-age-of-space.json](./105023-age-of-space.json) |
 | Age of Speed | 326750 | [326750-age-of-speed.json](./326750-age-of-speed.json) |
 | Age of Speed 2 | 326751 | [326751-age-of-speed-2.json](./326751-age-of-speed-2.json) |
 | Age of Speed Underworld | 326752 | [326752-age-of-speed-underworld.json](./326752-age-of-speed-underworld.json) |
