@@ -7177,6 +7177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fancy Pants Adventures: Classic Pack | 158417 | [158417-the-fancy-pants-adventures-classic-pack.json](./158417-the-fancy-pants-adventures-classic-pack.json) |
 | The Fancy Pants Adventures: World 1 | 66010 | [66010-the-fancy-pants-adventures-world-1.json](./66010-the-fancy-pants-adventures-world-1.json) |
 | The Fancy Pants Adventures: World 1 Remaster | 144384 | [144384-the-fancy-pants-adventures-world-1-remaster.json](./144384-the-fancy-pants-adventures-world-1-remaster.json) |
+| The Fancy Pants Adventures: World 1 Remix | 140859 | [140859-the-fancy-pants-adventures-world-1-remix.json](./140859-the-fancy-pants-adventures-world-1-remix.json) |
 | The Fancy Pants Adventures: World 2 | 66009 | [66009-the-fancy-pants-adventures-world-2.json](./66009-the-fancy-pants-adventures-world-2.json) |
 | The Fancy Pants Adventures: World 4 | 210712 | [210712-the-fancy-pants-adventures-world-4.json](./210712-the-fancy-pants-adventures-world-4.json) |
 | The Fang | 156068 | [156068-the-fang.json](./156068-the-fang.json) |
@@ -20200,6 +20201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torres | 94251 | [94251-torres.json](./94251-torres.json) |
 | Torshtra Minkan Setsuwashuu yori: Kokuou no Musume | 386111 | [386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json](./386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json) |
 | Torso Tennis | 292429 | [292429-torso-tennis.json](./292429-torso-tennis.json) |
+| Torto: Cursed Divine | 140842 | [140842-torto-cursed-divine.json](./140842-torto-cursed-divine.json) |
 | Tortuga | 170232 | [170232-tortuga.json](./170232-tortuga.json) |
 | Tortuga 3 | 392731 | [392731-tortuga-3.json](./392731-tortuga-3.json) |
 | Tortuga Bay | 92987 | [92987-tortuga-bay.json](./92987-tortuga-bay.json) |
@@ -25373,6 +25375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turk-A-Lurk | 186811 | [186811-turk-a-lurk.json](./186811-turk-a-lurk.json) |
 | Turkey Fling | 261542 | [261542-turkey-fling.json](./261542-turkey-fling.json) |
 | Turkey Got Guts | 394210 | [394210-turkey-got-guts.json](./394210-turkey-got-guts.json) |
+| Turkey Hunt 3D | 141041 | [141041-turkey-hunt-3d.json](./141041-turkey-hunt-3d.json) |
 | Turkey Hunter 3D | 70317 | [70317-turkey-hunter-3d.json](./70317-turkey-hunter-3d.json) |
 | Turkey Hunter Deluxe | 57331 | [57331-turkey-hunter-deluxe.json](./57331-turkey-hunter-deluxe.json) |
 | Turkey Hunting USA | 331746 | [331746-turkey-hunting-usa.json](./331746-turkey-hunting-usa.json) |
@@ -25999,6 +26002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Skateboards Driving Simulator | 224566 | [224566-two-skateboards-driving-simulator.json](./224566-two-skateboards-driving-simulator.json) |
 | Two Slices of Love | 254986 | [254986-two-slices-of-love.json](./254986-two-slices-of-love.json) |
 | Two Smudges In Infrared | 178921 | [178921-two-smudges-in-infrared.json](./178921-two-smudges-in-infrared.json) |
+| Two Spies | 141043 | [141043-two-spies.json](./141043-two-spies.json) |
 | Two Strikes | 149693 | [149693-two-strikes.json](./149693-two-strikes.json) |
 | Two Strikes: Baki Hanma | 372085 | [372085-two-strikes-baki-hanma.json](./372085-two-strikes-baki-hanma.json) |
 | Two Tamarind Seeds | 179106 | [179106-two-tamarind-seeds.json](./179106-two-tamarind-seeds.json) |
