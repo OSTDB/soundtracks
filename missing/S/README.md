@@ -1696,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturday Night Live: The Game | 208320 | [208320-saturday-night-live-the-game.json](./208320-saturday-night-live-the-game.json) |
 | Saturday Night Racing | 372134 | [372134-saturday-night-racing.json](./372134-saturday-night-racing.json) |
 | Saturday Night Slam Masters | 4504 | [4504-saturday-night-slam-masters.json](./4504-saturday-night-slam-masters.json) |
+| Saturday of Piercing Screams | 121317 | [121317-saturday-of-piercing-screams.json](./121317-saturday-of-piercing-screams.json) |
 | Saturday School | 171557 | [171557-saturday-school.json](./171557-saturday-school.json) |
 | Saturday: Arthur's Odyssey | 165496 | [165496-saturday-arthurs-odyssey.json](./165496-saturday-arthurs-odyssey.json) |
 | Saturdays | 145328 | [145328-saturdays.json](./145328-saturdays.json) |
@@ -6820,6 +6821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipwreckers! | 7664 | [7664-shipwreckers.json](./7664-shipwreckers.json) |
 | Shipyard of Theseus | 398309 | [398309-shipyard-of-theseus.json](./398309-shipyard-of-theseus.json) |
 | Shíqǔ Bǎoshí Hòu Yìwài Juéxǐngle Fùzhì Mówáng Lìliàng de Nì Tiān Jìnéng | 396491 | [396491-shiqu-baoshi-hou-yiwai-juexingle-fuzhi-mowang-liliang-de-ni-tian-jineng.json](./396491-shiqu-baoshi-hou-yiwai-juexingle-fuzhi-mowang-liliang-de-ni-tian-jineng.json) |
+| Shìqù de Huíyì 3: Sìyècǎo zhī Mèng | 121284 | [121284-shiqu-de-huiyi-3-siyecao-zhi-meng.json](./121284-shiqu-de-huiyi-3-siyecao-zhi-meng.json) |
 | Shirachuu Tankenbu | 65020 | [65020-shirachuu-tankenbu.json](./65020-shirachuu-tankenbu.json) |
 | Shiraha Kirameku Koi Shirabe | 194531 | [194531-shiraha-kirameku-koi-shirabe.json](./194531-shiraha-kirameku-koi-shirabe.json) |
 | Shiraha Kirameku Koi Shirabe | 268335 | [268335-shiraha-kirameku-koi-shirabe.json](./268335-shiraha-kirameku-koi-shirabe.json) |
@@ -16360,6 +16362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedway | 94328 | [94328-speedway.json](./94328-speedway.json) |
 | Speedway Blast | 23868 | [23868-speedway-blast.json](./23868-speedway-blast.json) |
 | Speedway Challenge 20 | 156931 | [156931-speedway-challenge-20.json](./156931-speedway-challenge-20.json) |
+| Speedway Challenge 2019 | 121301 | [121301-speedway-challenge-2019.json](./121301-speedway-challenge-2019.json) |
 | Speedway Challenge 2022 | 203562 | [203562-speedway-challenge-2022.json](./203562-speedway-challenge-2022.json) |
 | Speedway Challenge 2024 | 292550 | [292550-speedway-challenge-2024.json](./292550-speedway-challenge-2024.json) |
 | Speedway Challenge 2025 | 346262 | [346262-speedway-challenge-2025.json](./346262-speedway-challenge-2025.json) |
@@ -26542,6 +26545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival & Horror: Hangman's Rope | 244273 | [244273-survival-and-horror-hangmans-rope.json](./244273-survival-and-horror-hangmans-rope.json) |
 | Survival & Horror: Mortanis Prisoners Prologue | 253422 | [253422-survival-and-horror-mortanis-prisoners-prologue.json](./253422-survival-and-horror-mortanis-prisoners-prologue.json) |
 | Survival & Horror: The Damned City | 244750 | [244750-survival-and-horror-the-damned-city.json](./244750-survival-and-horror-the-damned-city.json) |
+| Survival & Simulator | 121263 | [121263-survival-and-simulator.json](./121263-survival-and-simulator.json) |
 | Survival 2: Get Lucky | 65417 | [65417-survival-2-get-lucky.json](./65417-survival-2-get-lucky.json) |
 | Survival 456 But It's Impostor | 223899 | [223899-survival-456-but-its-impostor.json](./223899-survival-456-but-its-impostor.json) |
 | Survival Academy | 223379 | [223379-survival-academy.json](./223379-survival-academy.json) |
