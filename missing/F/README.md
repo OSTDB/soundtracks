@@ -1287,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family in Puzzle House | 261163 | [261163-family-in-puzzle-house.json](./261163-family-in-puzzle-house.json) |
 | Family Jockey | 268128 | [268128-family-jockey.json](./268128-family-jockey.json) |
 | Family Jockey | 63542 | [63542-family-jockey.json](./63542-family-jockey.json) |
+| Family Jockey 2: Meiba no Kettou | 137878 | [137878-family-jockey-2-meiba-no-kettou.json](./137878-family-jockey-2-meiba-no-kettou.json) |
 | Family Land: Farmer Simulator | 244331 | [244331-family-land-farmer-simulator.json](./244331-family-land-farmer-simulator.json) |
 | Family Life | 98001 | [98001-family-life.json](./98001-family-life.json) |
 | Family Mahjong | 48769 | [48769-family-mahjong.json](./48769-family-mahjong.json) |
@@ -8721,6 +8722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frank N Stein | 79118 | [79118-frank-n-stein.json](./79118-frank-n-stein.json) |
 | Frank the Fruit Fly | 218078 | [218078-frank-the-fruit-fly.json](./218078-frank-the-fruit-fly.json) |
 | Frank the Miner | 88088 | [88088-frank-the-miner.json](./88088-frank-the-miner.json) |
+| Frank Thomas Big Hurt Baseball | 138072 | [138072-frank-thomas-big-hurt-baseball.json](./138072-frank-thomas-big-hurt-baseball.json) |
 | Frank Thomas Big Hurt Baseball | 20405 | [20405-frank-thomas-big-hurt-baseball.json](./20405-frank-thomas-big-hurt-baseball.json) |
 | Frank Thomas Big Hurt Baseball | 365680 | [365680-frank-thomas-big-hurt-baseball.json](./365680-frank-thomas-big-hurt-baseball.json) |
 | Frank's Adventure | 191258 | [191258-franks-adventure.json](./191258-franks-adventure.json) |
