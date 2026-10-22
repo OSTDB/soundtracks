@@ -4949,6 +4949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MazeTD | 384330 | [384330-mazetd.json](./384330-mazetd.json) |
 | Mazewar | 381593 | [381593-mazewar.json](./381593-mazewar.json) |
 | Mazey Village | 191032 | [191032-mazey-village.json](./191032-mazey-village.json) |
+| MazezaM Challenge | 134284 | [134284-mazezam-challenge.json](./134284-mazezam-challenge.json) |
 | MazezaM: Puzzle Game | 147358 | [147358-mazezam-puzzle-game.json](./147358-mazezam-puzzle-game.json) |
 | Mazgeon | 121381 | [121381-mazgeon.json](./121381-mazgeon.json) |
 | Mazi - Remastered | 126308 | [126308-mazi-remastered.json](./126308-mazi-remastered.json) |
@@ -9248,6 +9249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Min Dyrelægepraksis | 288110 | [288110-min-dyrel-gepraksis.json](./288110-min-dyrel-gepraksis.json) |
 | Min Dyrepension | 288109 | [288109-min-dyrepension.json](./288109-min-dyrepension.json) |
 | Min Dyreskole | 288111 | [288111-min-dyreskole.json](./288111-min-dyreskole.json) |
+| Min-Mins | 134286 | [134286-min-mins.json](./134286-min-mins.json) |
 | Mina | 373622 | [373622-mina.json](./373622-mina.json) |
 | Mina & Michi | 152408 | [152408-mina-and-michi.json](./152408-mina-and-michi.json) |
 | Mina Mangkukulam | 223061 | [223061-mina-mangkukulam.json](./223061-mina-mangkukulam.json) |
@@ -11253,6 +11255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mock 2: The Speed of Stupid | 238485 | [238485-mock-2-the-speed-of-stupid.json](./238485-mock-2-the-speed-of-stupid.json) |
 | Moco Moco Friends | 19983 | [19983-moco-moco-friends.json](./19983-moco-moco-friends.json) |
 | Mod Mage Mike | 310743 | [310743-mod-mage-mike.json](./310743-mod-mage-mike.json) |
+| Mod&Play | 134297 | [134297-mod-and-play.json](./134297-mod-and-play.json) |
 | Modavuj Multiplayer Market Simulator | 392946 | [392946-modavuj-multiplayer-market-simulator.json](./392946-modavuj-multiplayer-market-simulator.json) |
 | Modavuj Platform | 369631 | [369631-modavuj-platform.json](./369631-modavuj-platform.json) |
 | Modavuj: Forest Camp | 413149 | [413149-modavuj-forest-camp.json](./413149-modavuj-forest-camp.json) |
