@@ -2555,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebaixados Elite Brasil | 282828 | [282828-rebaixados-elite-brasil.json](./282828-rebaixados-elite-brasil.json) |
 | Rebaixados Elite Brasil Clássicos | 282837 | [282837-rebaixados-elite-brasil-classicos.json](./282837-rebaixados-elite-brasil-classicos.json) |
 | Reball | 68931 | [68931-reball.json](./68931-reball.json) |
+| ReBall | 153227 | [153227-reball.json](./153227-reball.json) |
 | Rebel | 52756 | [52756-rebel.json](./52756-rebel.json) |
 | Rebel | 78086 | [78086-rebel.json](./78086-rebel.json) |
 | Rebel Charge at Chickamauga | 12742 | [12742-rebel-charge-at-chickamauga.json](./12742-rebel-charge-at-chickamauga.json) |
