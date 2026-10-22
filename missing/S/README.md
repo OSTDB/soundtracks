@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Reborn | 422512 | [422512-saints-reborn.json](./422512-saints-reborn.json) |
 | Saints Row | 198113 | [198113-saints-row.json](./198113-saints-row.json) |
 | Saints Row 2 | 198115 | [198115-saints-row-2.json](./198115-saints-row-2.json) |
+| Saints Row 2: Corporate Warfare | 135485 | [135485-saints-row-2-corporate-warfare.json](./135485-saints-row-2-corporate-warfare.json) |
 | Saints Row 2: Ultimate Edition | 99971 | [99971-saints-row-2-ultimate-edition.json](./99971-saints-row-2-ultimate-edition.json) |
 | Saints Row 2: Ultor Exposed | 22998 | [22998-saints-row-2-ultor-exposed.json](./22998-saints-row-2-ultor-exposed.json) |
 | Saints Row Boss Factory | 344978 | [344978-saints-row-boss-factory.json](./344978-saints-row-boss-factory.json) |
@@ -990,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurado | 244254 | [244254-samurado.json](./244254-samurado.json) |
 | Samurai | 140531 | [140531-samurai.json](./140531-samurai.json) |
 | Samurai Aces | 39844 | [39844-samurai-aces.json](./39844-samurai-aces.json) |
+| Samurai Aces III: Sengoku Cannon | 135721 | [135721-samurai-aces-iii-sengoku-cannon.json](./135721-samurai-aces-iii-sengoku-cannon.json) |
 | Samurai Aces III: Sengoku Cannon for Nintendo Switch | 212633 | [212633-samurai-aces-iii-sengoku-cannon-for-nintendo-switch.json](./212633-samurai-aces-iii-sengoku-cannon-for-nintendo-switch.json) |
 | Samurai Arena | 385924 | [385924-samurai-arena.json](./385924-samurai-arena.json) |
 | Samurai Bamboo | 120290 | [120290-samurai-bamboo.json](./120290-samurai-bamboo.json) |
@@ -2334,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Cafeteria Simulator | 263105 | [263105-school-cafeteria-simulator.json](./263105-school-cafeteria-simulator.json) |
 | School Crisis | 391605 | [391605-school-crisis.json](./391605-school-crisis.json) |
 | School Curse2 | 280169 | [280169-school-curse2.json](./280169-school-curse2.json) |
+| School Days | 135488 | [135488-school-days.json](./135488-school-days.json) |
 | School Days | 371896 | [371896-school-days.json](./371896-school-days.json) |
 | School Days LxH | 178079 | [178079-school-days-lxh.json](./178079-school-days-lxh.json) |
 | School Days Simulator | 303080 | [303080-school-days-simulator.json](./303080-school-days-simulator.json) |
@@ -7353,6 +7356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show do Milhão | 122331 | [122331-show-do-milhao.json](./122331-show-do-milhao.json) |
 | Show do Milhão | 93008 | [93008-show-do-milhao.json](./93008-show-do-milhao.json) |
 | Show do Milhão 2006 | 163341 | [163341-show-do-milhao-2006.json](./163341-show-do-milhao-2006.json) |
+| Show do Milhão Júnior | 135500 | [135500-show-do-milhao-junior.json](./135500-show-do-milhao-junior.json) |
 | Show do Milhão Júnior Volume 2 | 222358 | [222358-show-do-milhao-junior-volume-2.json](./222358-show-do-milhao-junior-volume-2.json) |
 | Show do Milhão Volume 2 | 122333 | [122333-show-do-milhao-volume-2.json](./122333-show-do-milhao-volume-2.json) |
 | Show do Milhão Volume 3 | 122362 | [122362-show-do-milhao-volume-3.json](./122362-show-do-milhao-volume-3.json) |
@@ -12842,6 +12846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Superstars | 96764 | [96764-solitaire-superstars.json](./96764-solitaire-superstars.json) |
 | Solitaire TED and PET | 195965 | [195965-solitaire-ted-and-pet.json](./195965-solitaire-ted-and-pet.json) |
 | Solitaire Till Dawn | 87179 | [87179-solitaire-till-dawn.json](./87179-solitaire-till-dawn.json) |
+| Solitaire TriPeaks Flowers | 135740 | [135740-solitaire-tripeaks-flowers.json](./135740-solitaire-tripeaks-flowers.json) |
 | Solitaire Twin Pack | 122310 | [122310-solitaire-twin-pack.json](./122310-solitaire-twin-pack.json) |
 | Solitaire Twist Collection | 54387 | [54387-solitaire-twist-collection.json](./54387-solitaire-twist-collection.json) |
 | Solitaire Ultimate | 89162 | [89162-solitaire-ultimate.json](./89162-solitaire-ultimate.json) |
@@ -27767,6 +27772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphone | 339425 | [339425-symphone.json](./339425-symphone.json) |
 | Symphoni | 334890 | [334890-symphoni.json](./334890-symphoni.json) |
 | Symphonia | 263008 | [263008-symphonia.json](./263008-symphonia.json) |
+| Symphonia: Student Project, 2020 | 135508 | [135508-symphonia-student-project-2020.json](./135508-symphonia-student-project-2020.json) |
 | Symphonic Rain | 262202 | [262202-symphonic-rain.json](./262202-symphonic-rain.json) |
 | Symphonica | 63584 | [63584-symphonica.json](./63584-symphonica.json) |
 | Symphonica 64 | 110266 | [110266-symphonica-64.json](./110266-symphonica-64.json) |
