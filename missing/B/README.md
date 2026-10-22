@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11472,6 +11473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravery | 391078 | [391078-bravery.json](./391078-bravery.json) |
 | Bravery and Greed | 143577 | [143577-bravery-and-greed.json](./143577-bravery-and-greed.json) |
 | Bravery Network Online | 103322 | [103322-bravery-network-online.json](./103322-bravery-network-online.json) |
+| Braverz | 127592 | [127592-braverz.json](./127592-braverz.json) |
 | Bravest Burden | 173291 | [173291-bravest-burden.json](./173291-bravest-burden.json) |
 | Bravest Chicken | 275878 | [275878-bravest-chicken.json](./275878-bravest-chicken.json) |
 | Bravest Coconut | 310837 | [310837-bravest-coconut.json](./310837-bravest-coconut.json) |
@@ -12225,6 +12227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Britannica Word Search | 52476 | [52476-britannica-word-search.json](./52476-britannica-word-search.json) |
 | Britannica World's Best Solitaire | 206683 | [206683-britannica-worlds-best-solitaire.json](./206683-britannica-worlds-best-solitaire.json) |
 | Britebot | 178651 | [178651-britebot.json](./178651-britebot.json) |
+| British Gangsters | 127625 | [127625-british-gangsters.json](./127625-british-gangsters.json) |
 | British Lads Hit Each Other With Chairs: A Bitsy Retelling | 135772 | [135772-british-lads-hit-each-other-with-chairs-a-bitsy-retelling.json](./135772-british-lads-hit-each-other-with-chairs-a-bitsy-retelling.json) |
 | British Voter Quiz | 366245 | [366245-british-voter-quiz.json](./366245-british-voter-quiz.json) |
 | Britney Spears' Theme Park | 305843 | [305843-britney-spears-theme-park.json](./305843-britney-spears-theme-park.json) |
@@ -13188,6 +13191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Builder Liquidator Bundle | 342238 | [342238-builder-liquidator-bundle.json](./342238-builder-liquidator-bundle.json) |
 | Builder Simulator | 121345 | [121345-builder-simulator.json](./121345-builder-simulator.json) |
 | Builder Simulator VR | 237080 | [237080-builder-simulator-vr.json](./237080-builder-simulator-vr.json) |
+| Builder VR | 127582 | [127582-builder-vr.json](./127582-builder-vr.json) |
 | Builder: Don't Let me Fall | 137643 | [137643-builder-dont-let-me-fall.json](./137643-builder-dont-let-me-fall.json) |
 | Builderment | 174572 | [174572-builderment.json](./174572-builderment.json) |
 | Builderment Idle | 296795 | [296795-builderment-idle.json](./296795-builderment-idle.json) |
