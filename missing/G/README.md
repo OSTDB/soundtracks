@@ -2352,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius Shooter | 196540 | [196540-genius-shooter.json](./196540-genius-shooter.json) |
 | Genius vs. Antichrist 1 | 201530 | [201530-genius-vs-antichrist-1.json](./201530-genius-vs-antichrist-1.json) |
 | Genius: Im Zentrum der Macht | 86122 | [86122-genius-im-zentrum-der-macht.json](./86122-genius-im-zentrum-der-macht.json) |
+| Genius! Nazi-Girl GoePpels-Chan Ep2 | 118018 | [118018-genius-nazi-girl-goeppels-chan-ep2.json](./118018-genius-nazi-girl-goeppels-chan-ep2.json) |
 | Genji Koi Emaki | 130010 | [130010-genji-koi-emaki.json](./130010-genji-koi-emaki.json) |
 | Genji: Days of the Blade | 7315 | [7315-genji-days-of-the-blade.json](./7315-genji-days-of-the-blade.json) |
 | Genji: Time Suspense Adventure | 66150 | [66150-genji-time-suspense-adventure.json](./66150-genji-time-suspense-adventure.json) |
