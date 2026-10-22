@@ -1640,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paramedium: 2 | 179750 | [179750-paramedium-2.json](./179750-paramedium-2.json) |
 | Paramedium: A Noise in the Attic | 82485 | [82485-paramedium-a-noise-in-the-attic.json](./82485-paramedium-a-noise-in-the-attic.json) |
 | Paramelancholia | 332654 | [332654-paramelancholia.json](./332654-paramelancholia.json) |
+| Parameters | 123277 | [123277-parameters.json](./123277-parameters.json) |
 | Parametric Engine | 240698 | [240698-parametric-engine.json](./240698-parametric-engine.json) |
 | Paramnesia | 212123 | [212123-paramnesia.json](./212123-paramnesia.json) |
 | Paramnesia: Escape Together | 244489 | [244489-paramnesia-escape-together.json](./244489-paramnesia-escape-together.json) |
@@ -1658,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoia: The Game Edition | 255574 | [255574-paranoia-the-game-edition.json](./255574-paranoia-the-game-edition.json) |
 | Paranoia: The Official Video Game | 90105 | [90105-paranoia-the-official-video-game.json](./90105-paranoia-the-official-video-game.json) |
 | Paranoiak | 208326 | [208326-paranoiak.json](./208326-paranoiak.json) |
+| ParanoiaScape | 123266 | [123266-paranoiascape.json](./123266-paranoiascape.json) |
 | Paranoid | 111861 | [111861-paranoid.json](./111861-paranoid.json) |
 | Paranoid | 172029 | [172029-paranoid.json](./172029-paranoid.json) |
 | Paranoid | 304700 | [304700-paranoid.json](./304700-paranoid.json) |
@@ -10335,6 +10337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potentia | 142098 | [142098-potentia.json](./142098-potentia.json) |
 | Potentia | 43133 | [43133-potentia.json](./43133-potentia.json) |
 | Potential Man | 411102 | [411102-potential-man.json](./411102-potential-man.json) |
+| Potestas | 123267 | [123267-potestas.json](./123267-potestas.json) |
 | Pothead | 184781 | [184781-pothead.json](./184781-pothead.json) |
 | Pothead | 392362 | [392362-pothead.json](./392362-pothead.json) |
 | Potio Mellow | 239695 | [239695-potio-mellow.json](./239695-potio-mellow.json) |
@@ -11463,6 +11466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism Ark: Prism Heart II | 72550 | [72550-prism-ark-prism-heart-ii.json](./72550-prism-ark-prism-heart-ii.json) |
 | Prism Break | 102171 | [102171-prism-break.json](./102171-prism-break.json) |
 | Prism Collider | 29643 | [29643-prism-collider.json](./29643-prism-collider.json) |
+| Prism Court | 123263 | [123263-prism-court.json](./123263-prism-court.json) |
 | Prism Cross | 354399 | [354399-prism-cross.json](./354399-prism-cross.json) |
 | Prism Crush | 372131 | [372131-prism-crush.json](./372131-prism-crush.json) |
 | Prism Heart | 283127 | [283127-prism-heart.json](./283127-prism-heart.json) |
@@ -11657,6 +11661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Eye: Greatest Unsolved Mysteries | 327257 | [327257-private-eye-greatest-unsolved-mysteries.json](./327257-private-eye-greatest-unsolved-mysteries.json) |
 | Private Eye: The Young Heir | 348374 | [348374-private-eye-the-young-heir.json](./348374-private-eye-the-young-heir.json) |
 | Private Garden | 331099 | [331099-private-garden.json](./331099-private-garden.json) |
+| Private Grimoire Magic School | 123256 | [123256-private-grimoire-magic-school.json](./123256-private-grimoire-magic-school.json) |
 | Private Infiltrator | 62676 | [62676-private-infiltrator.json](./62676-private-infiltrator.json) |
 | Private Lesson with My Lover Teacher | 255111 | [255111-private-lesson-with-my-lover-teacher.json](./255111-private-lesson-with-my-lover-teacher.json) |
 | Private Lesson with My Lover Teacher 2 | 382782 | [382782-private-lesson-with-my-lover-teacher-2.json](./382782-private-lesson-with-my-lover-teacher-2.json) |
