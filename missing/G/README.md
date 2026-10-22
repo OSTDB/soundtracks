@@ -3032,6 +3032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost'n Brothers | 166301 | [166301-ghostn-brothers.json](./166301-ghostn-brothers.json) |
 | Ghost's Timepeices | 235599 | [235599-ghosts-timepeices.json](./235599-ghosts-timepeices.json) |
 | Ghost's Way | 180182 | [180182-ghosts-way.json](./180182-ghosts-way.json) |
+| Ghostanoid | 142311 | [142311-ghostanoid.json](./142311-ghostanoid.json) |
 | Ghostbane | 286621 | [286621-ghostbane.json](./286621-ghostbane.json) |
 | GhostBlood | 71195 | [71195-ghostblood.json](./71195-ghostblood.json) |
 | Ghostboy | 224600 | [224600-ghostboy.json](./224600-ghostboy.json) |
@@ -3835,6 +3836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Aviation Dream | 126530 | [126530-global-aviation-dream.json](./126530-global-aviation-dream.json) |
 | Global Champion | 92636 | [92636-global-champion.json](./92636-global-champion.json) |
 | Global City | 181651 | [181651-global-city.json](./181651-global-city.json) |
+| Global Conflagration | 142092 | [142092-global-conflagration.json](./142092-global-conflagration.json) |
 | Global Conflict: The Trading Card Game | 264811 | [264811-global-conflict-the-trading-card-game.json](./264811-global-conflict-the-trading-card-game.json) |
 | Global Conquest | 69946 | [69946-global-conquest.json](./69946-global-conquest.json) |
 | Global Defence Force | 5581 | [5581-global-defence-force.json](./5581-global-defence-force.json) |
@@ -7905,6 +7907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars 2: Secrets of the Obscure | 255088 | [255088-guild-wars-2-secrets-of-the-obscure.json](./255088-guild-wars-2-secrets-of-the-obscure.json) |
 | Guild Wars 3 | 404694 | [404694-guild-wars-3.json](./404694-guild-wars-3.json) |
 | Guild Wars: Bonus Mission Pack | 97103 | [97103-guild-wars-bonus-mission-pack.json](./97103-guild-wars-bonus-mission-pack.json) |
+| Guild Wars: Collector's Edition | 142287 | [142287-guild-wars-collectors-edition.json](./142287-guild-wars-collectors-edition.json) |
 | Guild Wars: Factions | 739 | [739-guild-wars-factions.json](./739-guild-wars-factions.json) |
 | Guild Wars: Factions - Collector's Edition | 142206 | [142206-guild-wars-factions-collectors-edition.json](./142206-guild-wars-factions-collectors-edition.json) |
 | Guild Wars: Game of the Year Edition | 27842 | [27842-guild-wars-game-of-the-year-edition.json](./27842-guild-wars-game-of-the-year-edition.json) |
