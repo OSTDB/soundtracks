@@ -4793,6 +4793,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Blaze | 219287 | [219287-maze-blaze.json](./219287-maze-blaze.json) |
 | Maze Break | 56415 | [56415-maze-break.json](./56415-maze-break.json) |
 | Maze Breaker | 130695 | [130695-maze-breaker.json](./130695-maze-breaker.json) |
+| Maze Breaker 2 | 147727 | [147727-maze-breaker-2.json](./147727-maze-breaker-2.json) |
+| Maze Breaker 3 | 147726 | [147726-maze-breaker-3.json](./147726-maze-breaker-3.json) |
+| Maze Breaker 4 | 147725 | [147725-maze-breaker-4.json](./147725-maze-breaker-4.json) |
+| Maze Breaker V | 147729 | [147729-maze-breaker-v.json](./147729-maze-breaker-v.json) |
+| Maze Breaker VI | 147728 | [147728-maze-breaker-vi.json](./147728-maze-breaker-vi.json) |
 | Maze Burrow | 132586 | [132586-maze-burrow.json](./132586-maze-burrow.json) |
 | Maze Chase | 137901 | [137901-maze-chase.json](./137901-maze-chase.json) |
 | Maze City: A Cyberpunk Lost and Found Centre | 217241 | [217241-maze-city-a-cyberpunk-lost-and-found-centre.json](./217241-maze-city-a-cyberpunk-lost-and-found-centre.json) |
@@ -8889,6 +8894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miimi to Taata no Waiwai Oekaki Doubutsuen | 293148 | [293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json](./293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json) |
 | Miitomo | 18615 | [18615-miitomo.json](./18615-miitomo.json) |
 | Miitopia | 143620 | [143620-miitopia.json](./143620-miitopia.json) |
+| Miitopia: Casting Call | 147844 | [147844-miitopia-casting-call.json](./147844-miitopia-casting-call.json) |
 | Miiverse Clone RPG | 329602 | [329602-miiverse-clone-rpg.json](./329602-miiverse-clone-rpg.json) |
 | Mik | 262928 | [262928-mik.json](./262928-mik.json) |
 | Mik: Legacy | 286416 | [286416-mik-legacy.json](./286416-mik-legacy.json) |
@@ -11521,6 +11527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mom and Cake | 244105 | [244105-mom-and-cake.json](./244105-mom-and-cake.json) |
 | Mom Crush: Hidden Hotel Love Story | 387673 | [387673-mom-crush-hidden-hotel-love-story.json](./387673-mom-crush-hidden-hotel-love-story.json) |
 | Mom Hid My Game! | 78160 | [78160-mom-hid-my-game.json](./78160-mom-hid-my-game.json) |
+| Mom Hid My Game! 2 | 147835 | [147835-mom-hid-my-game-2.json](./147835-mom-hid-my-game-2.json) |
 | Mom Life Simulator | 380163 | [380163-mom-life-simulator.json](./380163-mom-life-simulator.json) |
 | Mom Simulator 2023 | 277841 | [277841-mom-simulator-2023.json](./277841-mom-simulator-2023.json) |
 | Mom-chan Diet Wii Figureobics by Jung Da-yeon | 5013 | [5013-mom-chan-diet-wii-figureobics-by-jung-da-yeon.json](./5013-mom-chan-diet-wii-figureobics-by-jung-da-yeon.json) |
@@ -15520,6 +15527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My College Picture with Them | 316652 | [316652-my-college-picture-with-them.json](./316652-my-college-picture-with-them.json) |
 | My Colony | 111097 | [111097-my-colony.json](./111097-my-colony.json) |
 | My Colony 2 | 200723 | [200723-my-colony-2.json](./200723-my-colony-2.json) |
+| My Coloring Book | 147836 | [147836-my-coloring-book.json](./147836-my-coloring-book.json) |
 | My Coloring Book: Animals | 68658 | [68658-my-coloring-book-animals.json](./68658-my-coloring-book-animals.json) |
 | My Coloring Book: Food and Beverage | 76785 | [76785-my-coloring-book-food-and-beverage.json](./76785-my-coloring-book-food-and-beverage.json) |
 | My Coloring Book: Professions | 82285 | [82285-my-coloring-book-professions.json](./82285-my-coloring-book-professions.json) |
