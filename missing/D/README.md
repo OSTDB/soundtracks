@@ -2249,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daybreak Slam | 363146 | [363146-daybreak-slam.json](./363146-daybreak-slam.json) |
 | Daybreaker VR | 208833 | [208833-daybreaker-vr.json](./208833-daybreaker-vr.json) |
 | Daybreakers | 259062 | [259062-daybreakers.json](./259062-daybreakers.json) |
+| Daybringer | 133058 | [133058-daybringer.json](./133058-daybringer.json) |
 | Daycare Descent | 256909 | [256909-daycare-descent.json](./256909-daycare-descent.json) |
 | Daycare Dungeon | 324947 | [324947-daycare-dungeon.json](./324947-daycare-dungeon.json) |
 | DayD: Through Time | 105300 | [105300-dayd-through-time.json](./105300-dayd-through-time.json) |
@@ -2650,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead City: Red Protocol | 421333 | [421333-dead-city-red-protocol.json](./421333-dead-city-red-protocol.json) |
 | Dead City: Sci-Fi Pack | 254051 | [254051-dead-city-sci-fi-pack.json](./254051-dead-city-sci-fi-pack.json) |
 | Dead City: Street Fighter Pack | 254382 | [254382-dead-city-street-fighter-pack.json](./254382-dead-city-street-fighter-pack.json) |
+| Dead Containment | 133061 | [133061-dead-containment.json](./133061-dead-containment.json) |
 | Dead Covid-19 in space | 150525 | [150525-dead-covid-19-in-space.json](./150525-dead-covid-19-in-space.json) |
 | Dead Crossway Zompell Survival Zombie | 298441 | [298441-dead-crossway-zompell-survival-zombie.json](./298441-dead-crossway-zompell-survival-zombie.json) |
 | Dead Cubes | 129755 | [129755-dead-cubes.json](./129755-dead-cubes.json) |
@@ -14472,7 +14474,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duru: About Mole Rats and Depression | 138724 | [138724-duru-about-mole-rats-and-depression.json](./138724-duru-about-mole-rats-and-depression.json) |
 | Dūshì Kǒngbù Gùshì | 116312 | [116312-dushi-kongbu-gushi.json](./116312-dushi-kongbu-gushi.json) |
 | Dúshlán | 141077 | [141077-dushlan.json](./141077-dushlan.json) |
-| Dusk | 25260 | [25260-dusk.json](./25260-dusk.json) |
 | Dusk '82 | 152265 | [152265-dusk-82.json](./152265-dusk-82.json) |
 | Dusk 12: Deadly Zone | 17738 | [17738-dusk-12-deadly-zone.json](./17738-dusk-12-deadly-zone.json) |
 | Dusk Child | 134498 | [134498-dusk-child.json](./134498-dusk-child.json) |
