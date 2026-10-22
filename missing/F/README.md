@@ -7780,6 +7780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift Simulator 2024 | 283729 | [283729-forklift-simulator-2024.json](./283729-forklift-simulator-2024.json) |
 | Forklift Truck Simulator | 53065 | [53065-forklift-truck-simulator.json](./53065-forklift-truck-simulator.json) |
 | Forklift: Simulator | 344425 | [344425-forklift-simulator.json](./344425-forklift-simulator.json) |
+| Forklift: The Simulation | 125684 | [125684-forklift-the-simulation.json](./125684-forklift-the-simulation.json) |
 | Forklore | 196803 | [196803-forklore.json](./196803-forklore.json) |
 | Forknite | 313201 | [313201-forknite.json](./313201-forknite.json) |
 | Forkraith | 364225 | [364225-forkraith.json](./364225-forkraith.json) |
@@ -8997,6 +8998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeCell Solitaire - Classic Deck Card Games | 88365 | [88365-freecell-solitaire-classic-deck-card-games.json](./88365-freecell-solitaire-classic-deck-card-games.json) |
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
 | FreeCell Solitaire Collection | 148324 | [148324-freecell-solitaire-collection.json](./148324-freecell-solitaire-collection.json) |
+| Freecell Solitaire Deluxe | 125682 | [125682-freecell-solitaire-deluxe.json](./125682-freecell-solitaire-deluxe.json) |
 | FreeCell X | 100993 | [100993-freecell-x.json](./100993-freecell-x.json) |
 | Freeciv | 73190 | [73190-freeciv.json](./73190-freeciv.json) |
 | FreeCraft Survival Pocket Edition | 338777 | [338777-freecraft-survival-pocket-edition.json](./338777-freecraft-survival-pocket-edition.json) |
