@@ -1368,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy Nancy: Tea Party Time! | 66370 | [66370-fancy-nancy-tea-party-time.json](./66370-fancy-nancy-tea-party-time.json) |
 | Fancy Pocket | 49579 | [49579-fancy-pocket.json](./49579-fancy-pocket.json) |
 | Fancy Skiing 2: Online | 105312 | [105312-fancy-skiing-2-online.json](./105312-fancy-skiing-2-online.json) |
+| Fancy Skiing III Pro | 150408 | [150408-fancy-skiing-iii-pro.json](./150408-fancy-skiing-iii-pro.json) |
 | Fancy Skiing VR | 31759 | [31759-fancy-skiing-vr.json](./31759-fancy-skiing-vr.json) |
 | Fancy Skulls | 17535 | [17535-fancy-skulls.json](./17535-fancy-skulls.json) |
 | Fancy Slingshot VR | 31670 | [31670-fancy-slingshot-vr.json](./31670-fancy-slingshot-vr.json) |
