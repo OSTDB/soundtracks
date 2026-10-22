@@ -2001,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Deck | 366971 | [366971-legend-of-deck.json](./366971-legend-of-deck.json) |
 | Legend of Djel | 12176 | [12176-legend-of-djel.json](./12176-legend-of-djel.json) |
 | Legend of Dragon Knight | 221894 | [221894-legend-of-dragon-knight.json](./221894-legend-of-dragon-knight.json) |
+| Legend of Dragon Labyrinth | 110721 | [110721-legend-of-dragon-labyrinth.json](./110721-legend-of-dragon-labyrinth.json) |
 | Legend of Dungeon | 7885 | [7885-legend-of-dungeon.json](./7885-legend-of-dungeon.json) |
 | Legend of Dungeon: Masters | 34394 | [34394-legend-of-dungeon-masters.json](./34394-legend-of-dungeon-masters.json) |
 | Legend of Edda | 66401 | [66401-legend-of-edda.json](./66401-legend-of-edda.json) |
