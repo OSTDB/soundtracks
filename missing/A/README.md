@@ -9298,11 +9298,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: V'Ball | 413937 | [413937-arcade-archives-2-vball.json](./413937-arcade-archives-2-vball.json) |
 | Arcade Archives 2: Wiz | 417316 | [417316-arcade-archives-2-wiz.json](./417316-arcade-archives-2-wiz.json) |
 | Arcade Archives: 10-Yard Fight | 99168 | [99168-arcade-archives-10-yard-fight.json](./99168-arcade-archives-10-yard-fight.json) |
+| Arcade Archives: 64th. Street | 144662 | [144662-arcade-archives-64th-street.json](./144662-arcade-archives-64th-street.json) |
 | Arcade Archives: A-Jax | 99563 | [99563-arcade-archives-a-jax.json](./99563-arcade-archives-a-jax.json) |
 | Arcade Archives: Adventure Canoe | 392765 | [392765-arcade-archives-adventure-canoe.json](./392765-arcade-archives-adventure-canoe.json) |
 | Arcade Archives: Aero Fighters | 280360 | [280360-arcade-archives-aero-fighters.json](./280360-arcade-archives-aero-fighters.json) |
 | Arcade Archives: Alpha Mission | 111459 | [111459-arcade-archives-alpha-mission.json](./111459-arcade-archives-alpha-mission.json) |
 | Arcade Archives: Aqua Jet | 361237 | [361237-arcade-archives-aqua-jet.json](./361237-arcade-archives-aqua-jet.json) |
+| Arcade Archives: Arabian | 144673 | [144673-arcade-archives-arabian.json](./144673-arcade-archives-arabian.json) |
 | Arcade Archives: Ark Area | 121425 | [121425-arcade-archives-ark-area.json](./121425-arcade-archives-ark-area.json) |
 | Arcade Archives: Armadillo Racing | 411152 | [411152-arcade-archives-armadillo-racing.json](./411152-arcade-archives-armadillo-racing.json) |
 | Arcade Archives: Armed F | 99546 | [99546-arcade-archives-armed-f.json](./99546-arcade-archives-armed-f.json) |
@@ -11047,6 +11049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur's 1st Grade | 70988 | [70988-arthurs-1st-grade.json](./70988-arthurs-1st-grade.json) |
 | Arthur's Absolutely Fun Day! | 49917 | [49917-arthurs-absolutely-fun-day.json](./49917-arthurs-absolutely-fun-day.json) |
 | Arthur's Birthday | 269991 | [269991-arthurs-birthday.json](./269991-arthurs-birthday.json) |
+| Arthur's Camping Adventure | 144668 | [144668-arthurs-camping-adventure.json](./144668-arthurs-camping-adventure.json) |
 | Arthur's Computer Adventure | 270029 | [270029-arthurs-computer-adventure.json](./270029-arthurs-computer-adventure.json) |
 | Arthur's Nightmare | 105527 | [105527-arthurs-nightmare.json](./105527-arthurs-nightmare.json) |
 | Arthur's Pet Chase | 70918 | [70918-arthurs-pet-chase.json](./70918-arthurs-pet-chase.json) |
@@ -13417,6 +13420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalar: Shadow War | 407395 | [407395-avalar-shadow-war.json](./407395-avalar-shadow-war.json) |
 | Avali: Final Battle | 316351 | [316351-avali-final-battle.json](./316351-avali-final-battle.json) |
 | Avalis Dungeon: Chapter 3 | 303016 | [303016-avalis-dungeon-chapter-3.json](./303016-avalis-dungeon-chapter-3.json) |
+| Avalom: Ancestral Heroes | 144671 | [144671-avalom-ancestral-heroes.json](./144671-avalom-ancestral-heroes.json) |
 | Avalon | 229775 | [229775-avalon.json](./229775-avalon.json) |
 | Avalon | 23068 | [23068-avalon.json](./23068-avalon.json) |
 | Avalon | 269110 | [269110-avalon.json](./269110-avalon.json) |
