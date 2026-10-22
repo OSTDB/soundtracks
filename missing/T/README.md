@@ -4213,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 8th Day | 106605 | [106605-the-8th-day.json](./106605-the-8th-day.json) |
 | The 8th Melee: Hyper State | 330720 | [330720-the-8th-melee-hyper-state.json](./330720-the-8th-melee-hyper-state.json) |
 | The 8th Son? A.R. | 243087 | [243087-the-8th-son-a-r.json](./243087-the-8th-son-a-r.json) |
+| The 95% Threshold | 131884 | [131884-the-95-threshold.json](./131884-the-95-threshold.json) |
 | The 9th Annual Vanilla Level Design Contest: Collaboration Hack | 187275 | [187275-the-9th-annual-vanilla-level-design-contest-collaboration-hack.json](./187275-the-9th-annual-vanilla-level-design-contest-collaboration-hack.json) |
 | The 9th Day | 32824 | [32824-the-9th-day.json](./32824-the-9th-day.json) |
 | The A-Team | 198699 | [198699-the-a-team.json](./198699-the-a-team.json) |
@@ -6090,6 +6091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Issyos | 47094 | [47094-the-curse-of-issyos.json](./47094-the-curse-of-issyos.json) |
 | The Curse of Karlanrik | 338275 | [338275-the-curse-of-karlanrik.json](./338275-the-curse-of-karlanrik.json) |
 | The Curse of Kubel + Expansion DLC | 238450 | [238450-the-curse-of-kubel-expansion-dlc.json](./238450-the-curse-of-kubel-expansion-dlc.json) |
+| The Curse of Kudan | 131892 | [131892-the-curse-of-kudan.json](./131892-the-curse-of-kudan.json) |
 | The Curse of Mantras | 150965 | [150965-the-curse-of-mantras.json](./150965-the-curse-of-mantras.json) |
 | The Curse of Mount Madre | 328280 | [328280-the-curse-of-mount-madre.json](./328280-the-curse-of-mount-madre.json) |
 | The Curse of Ra | 127340 | [127340-the-curse-of-ra.json](./127340-the-curse-of-ra.json) |
@@ -9617,6 +9619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legacy of Lunatic Omsk | 321748 | [321748-the-legacy-of-lunatic-omsk.json](./321748-the-legacy-of-lunatic-omsk.json) |
 | The Legacy of Music | 113572 | [113572-the-legacy-of-music.json](./113572-the-legacy-of-music.json) |
 | The Legacy of Robin Hood | 320470 | [320470-the-legacy-of-robin-hood.json](./320470-the-legacy-of-robin-hood.json) |
+| The legacy of W. Whitlaw VR | 131866 | [131866-the-legacy-of-w-whitlaw-vr.json](./131866-the-legacy-of-w-whitlaw-vr.json) |
 | The Legacy: Realm of Terror | 79233 | [79233-the-legacy-realm-of-terror.json](./79233-the-legacy-realm-of-terror.json) |
 | The Legacy: The Tree of Might | 112988 | [112988-the-legacy-the-tree-of-might.json](./112988-the-legacy-the-tree-of-might.json) |
 | The Legend Beyond Legends | 302441 | [302441-the-legend-beyond-legends.json](./302441-the-legend-beyond-legends.json) |
@@ -12770,6 +12773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Signal State | 157524 | [157524-the-signal-state.json](./157524-the-signal-state.json) |
 | The Signal VR | 360780 | [360780-the-signal-vr.json](./360780-the-signal-vr.json) |
 | The Signal: Stranded on Sirenis | 265499 | [265499-the-signal-stranded-on-sirenis.json](./265499-the-signal-stranded-on-sirenis.json) |
+| The Signifier | 131886 | [131886-the-signifier.json](./131886-the-signifier.json) |
 | The Signifier: Deluxe Edition | 154550 | [154550-the-signifier-deluxe-edition.json](./154550-the-signifier-deluxe-edition.json) |
 | The Signifier: Director's Cut | 143404 | [143404-the-signifier-directors-cut.json](./143404-the-signifier-directors-cut.json) |
 | The Silence | 185625 | [185625-the-silence.json](./185625-the-silence.json) |
@@ -20922,6 +20926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: The Unreachable Oneiroborder | 260319 | [260319-touhou-the-unreachable-oneiroborder.json](./260319-touhou-the-unreachable-oneiroborder.json) |
 | Touhou: Unmei no Hoshi | 181928 | [181928-touhou-unmei-no-hoshi.json](./181928-touhou-unmei-no-hoshi.json) |
 | Touhou: Wandering Souls | 304110 | [304110-touhou-wandering-souls.json](./304110-touhou-wandering-souls.json) |
+| Touhoumon Purple | 131840 | [131840-touhoumon-purple.json](./131840-touhoumon-purple.json) |
 | Touhoumon World Link | 279679 | [279679-touhoumon-world-link.json](./279679-touhoumon-world-link.json) |
 | TouhouSnowClash | 263142 | [263142-touhousnowclash.json](./263142-touhousnowclash.json) |
 | Touka Gettan: Koufuu no Ryouou | 287638 | [287638-touka-gettan-koufuu-no-ryouou.json](./287638-touka-gettan-koufuu-no-ryouou.json) |
@@ -25287,6 +25292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Divers | 41953 | [41953-tunnel-divers.json](./41953-tunnel-divers.json) |
 | Tunnel Escape | 302803 | [302803-tunnel-escape.json](./302803-tunnel-escape.json) |
 | Tunnel Hero 3D | 232328 | [232328-tunnel-hero-3d.json](./232328-tunnel-hero-3d.json) |
+| Tunnel Madness | 131878 | [131878-tunnel-madness.json](./131878-tunnel-madness.json) |
 | Tunnel of Doom | 139660 | [139660-tunnel-of-doom.json](./139660-tunnel-of-doom.json) |
 | Tunnel Racer | 176383 | [176383-tunnel-racer.json](./176383-tunnel-racer.json) |
 | Tunnel Run | 87226 | [87226-tunnel-run.json](./87226-tunnel-run.json) |
@@ -25649,6 +25655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TVG Journey | 197563 | [197563-tvg-journey.json](./197563-tvg-journey.json) |
 | TVhead | 217506 | [217506-tvhead.json](./217506-tvhead.json) |
 | TVhTk | 271945 | [271945-tvhtk.json](./271945-tvhtk.json) |
+| Tvori | 131876 | [131876-tvori.json](./131876-tvori.json) |
 | TVS Sample Box | 280248 | [280248-tvs-sample-box.json](./280248-tvs-sample-box.json) |
 | TVs: The Illusion Channel | 209480 | [209480-tvs-the-illusion-channel.json](./209480-tvs-the-illusion-channel.json) |
 | Twaddle Paddle | 114320 | [114320-twaddle-paddle.json](./114320-twaddle-paddle.json) |
@@ -26036,6 +26043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Point Hospital: Exhibition Items Pack | 223541 | [223541-two-point-hospital-exhibition-items-pack.json](./223541-two-point-hospital-exhibition-items-pack.json) |
 | Two Point Hospital: Fancy Dress Pack | 223545 | [223545-two-point-hospital-fancy-dress-pack.json](./223545-two-point-hospital-fancy-dress-pack.json) |
 | Two Point Hospital: Jumbo Edition | 142815 | [142815-two-point-hospital-jumbo-edition.json](./142815-two-point-hospital-jumbo-edition.json) |
+| Two Point Hospital: Off the Grid | 131842 | [131842-two-point-hospital-off-the-grid.json](./131842-two-point-hospital-off-the-grid.json) |
 | Two Point Hospital: Retro Items Pack | 223543 | [223543-two-point-hospital-retro-items-pack.json](./223543-two-point-hospital-retro-items-pack.json) |
 | Two Point Hospital: Speedy Recovery | 193142 | [193142-two-point-hospital-speedy-recovery.json](./193142-two-point-hospital-speedy-recovery.json) |
 | Two Point Museum | 313595 | [313595-two-point-museum.json](./313595-two-point-museum.json) |
