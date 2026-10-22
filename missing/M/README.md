@@ -5180,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech League Hunting | 87952 | [87952-mech-league-hunting.json](./87952-mech-league-hunting.json) |
 | Mech Marines: Steel March | 36112 | [36112-mech-marines-steel-march.json](./36112-mech-marines-steel-march.json) |
 | Mech Mastery | 246805 | [246805-mech-mastery.json](./246805-mech-mastery.json) |
+| Mech Mechanic Simulator | 116068 | [116068-mech-mechanic-simulator.json](./116068-mech-mechanic-simulator.json) |
 | Mech Merc Company | 121498 | [121498-mech-merc-company.json](./121498-mech-merc-company.json) |
 | Mech My Day | 392861 | [392861-mech-my-day.json](./392861-mech-my-day.json) |
 | Mech n' Parcel | 135831 | [135831-mech-n-parcel.json](./135831-mech-n-parcel.json) |
@@ -7755,6 +7756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaphor: ReFantazio - Atlus Brand 35th Anniversary Edition | 344026 | [344026-metaphor-refantazio-atlus-brand-35th-anniversary-edition.json](./344026-metaphor-refantazio-atlus-brand-35th-anniversary-edition.json) |
 | Metaphor: ReFantazio - Collector's Edition | 300481 | [300481-metaphor-refantazio-collectors-edition.json](./300481-metaphor-refantazio-collectors-edition.json) |
 | Metaphor: ReFantazio - Launch Edition | 300480 | [300480-metaphor-refantazio-launch-edition.json](./300480-metaphor-refantazio-launch-edition.json) |
+| Metaphora: The Moonycat Quest | 116019 | [116019-metaphora-the-moonycat-quest.json](./116019-metaphora-the-moonycat-quest.json) |
 | MetaphOrder | 180680 | [180680-metaphorder.json](./180680-metaphorder.json) |
 | Metaphysical Abyss | 296979 | [296979-metaphysical-abyss.json](./296979-metaphysical-abyss.json) |
 | Metapilot | 209476 | [209476-metapilot.json](./209476-metapilot.json) |
@@ -12389,6 +12391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Maker Kids | 37921 | [37921-monster-maker-kids.json](./37921-monster-maker-kids.json) |
 | Monster Maker: Yami no Ryuukishi | 63878 | [63878-monster-maker-yami-no-ryuukishi.json](./63878-monster-maker-yami-no-ryuukishi.json) |
 | Monster Manor | 115779 | [115779-monster-manor.json](./115779-monster-manor.json) |
+| Monster Mashing Deluxe | 116042 | [116042-monster-mashing-deluxe.json](./116042-monster-mashing-deluxe.json) |
 | Monster Master | 195938 | [195938-monster-master.json](./195938-monster-master.json) |
 | Monster Match | 131935 | [131935-monster-match.json](./131935-monster-match.json) |
 | Monster Match | 179504 | [179504-monster-match.json](./179504-monster-match.json) |
@@ -12981,6 +12984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonripple Lake | 392888 | [392888-moonripple-lake.json](./392888-moonripple-lake.json) |
 | Moonrise | 407543 | [407543-moonrise.json](./407543-moonrise.json) |
 | Moonrise | 9873 | [9873-moonrise.json](./9873-moonrise.json) |
+| Moonrise Fall | 116076 | [116076-moonrise-fall.json](./116076-moonrise-fall.json) |
 | Moonrot | 391818 | [391818-moonrot.json](./391818-moonrot.json) |
 | MoonRun | 148888 | [148888-moonrun.json](./148888-moonrun.json) |
 | Moons of True Magic | 263204 | [263204-moons-of-true-magic.json](./263204-moons-of-true-magic.json) |
