@@ -5698,6 +5698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Warzone | 345098 | [345098-shape-warzone.json](./345098-shape-warzone.json) |
 | Shapebreaker | 197590 | [197590-shapebreaker.json](./197590-shapebreaker.json) |
 | ShapeBreaker | 422515 | [422515-shapebreaker.json](./422515-shapebreaker.json) |
+| Shaped Touches | 154311 | [154311-shaped-touches.json](./154311-shaped-touches.json) |
 | Shapefall | 295554 | [295554-shapefall.json](./295554-shapefall.json) |
 | Shapefighter | 333401 | [333401-shapefighter.json](./333401-shapefighter.json) |
 | ShapeGrid | 189048 | [189048-shapegrid.json](./189048-shapegrid.json) |
@@ -10159,6 +10160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Terror | 292309 | [292309-sleep-terror.json](./292309-sleep-terror.json) |
 | Sleep Tight | 144258 | [144258-sleep-tight.json](./144258-sleep-tight.json) |
 | Sleep Tight | 75866 | [75866-sleep-tight.json](./75866-sleep-tight.json) |
+| Sleep Tight PC | 154310 | [154310-sleep-tight-pc.json](./154310-sleep-tight-pc.json) |
 | Sleep Walk | 331170 | [331170-sleep-walk.json](./331170-sleep-walk.json) |
 | Sleep Walker | 305471 | [305471-sleep-walker.json](./305471-sleep-walker.json) |
 | Sleep When I'm Dead | 140918 | [140918-sleep-when-im-dead.json](./140918-sleep-when-im-dead.json) |
@@ -14398,6 +14400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulless: Ray of Hope | 27754 | [27754-soulless-ray-of-hope.json](./27754-soulless-ray-of-hope.json) |
 | Soulmask | 272600 | [272600-soulmask.json](./272600-soulmask.json) |
 | Soulmask: Shifting Sands | 370724 | [370724-soulmask-shifting-sands.json](./370724-soulmask-shifting-sands.json) |
+| Soulmate | 154305 | [154305-soulmate.json](./154305-soulmate.json) |
 | Soulmate Factory | 230743 | [230743-soulmate-factory.json](./230743-soulmate-factory.json) |
 | Soulmaze | 290854 | [290854-soulmaze.json](./290854-soulmaze.json) |
 | SoulPactum | 342773 | [342773-soulpactum.json](./342773-soulpactum.json) |
@@ -15924,6 +15927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Force | 62682 | [62682-special-force.json](./62682-special-force.json) |
 | Special Force 2: Tale of the Truthful Pledge | 78634 | [78634-special-force-2-tale-of-the-truthful-pledge.json](./78634-special-force-2-tale-of-the-truthful-pledge.json) |
 | Special Force Alpha | 394786 | [394786-special-force-alpha.json](./394786-special-force-alpha.json) |
+| Special Force Double Take | 154291 | [154291-special-force-double-take.json](./154291-special-force-double-take.json) |
 | Special Force for Kakao | 215832 | [215832-special-force-for-kakao.json](./215832-special-force-for-kakao.json) |
 | Special Force M: Remastered | 223907 | [223907-special-force-m-remastered.json](./223907-special-force-m-remastered.json) |
 | Special Force VR | 50535 | [50535-special-force-vr.json](./50535-special-force-vr.json) |
@@ -16565,6 +16569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Solitaire 2022 | 217792 | [217792-spider-solitaire-2022.json](./217792-spider-solitaire-2022.json) |
 | Spider Solitaire Black | 147630 | [147630-spider-solitaire-black.json](./147630-spider-solitaire-black.json) |
 | Spider Solitaire Box | 87090 | [87090-spider-solitaire-box.json](./87090-spider-solitaire-box.json) |
+| Spider Solitaire Collection | 154330 | [154330-spider-solitaire-collection.json](./154330-spider-solitaire-collection.json) |
 | Spider Solitaire F | 109493 | [109493-spider-solitaire-f.json](./109493-spider-solitaire-f.json) |
 | Spider Solitaire Pro! | 89182 | [89182-spider-solitaire-pro.json](./89182-spider-solitaire-pro.json) |
 | Spider Solitarus | 88564 | [88564-spider-solitarus.json](./88564-spider-solitarus.json) |
@@ -16836,6 +16841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiral of War | 270785 | [270785-spiral-of-war.json](./270785-spiral-of-war.json) |
 | Spiral Roll | 273860 | [273860-spiral-roll.json](./273860-spiral-roll.json) |
 | Spiral Smash | 244871 | [244871-spiral-smash.json](./244871-spiral-smash.json) |
+| Spiral to Despair | 154309 | [154309-spiral-to-despair.json](./154309-spiral-to-despair.json) |
 | Spiral Up | 250812 | [250812-spiral-up.json](./250812-spiral-up.json) |
 | Spiral Wave | 42045 | [42045-spiral-wave.json](./42045-spiral-wave.json) |
 | Spiral!! | 399062 | [399062-spiral.json](./399062-spiral.json) |
@@ -20144,6 +20150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Rain | 142711 | [142711-steel-rain.json](./142711-steel-rain.json) |
 | Steel Rain | 34833 | [34833-steel-rain.json](./34833-steel-rain.json) |
 | Steel Rain X | 51611 | [51611-steel-rain-x.json](./51611-steel-rain-x.json) |
+| Steel Rain: Dawn of the Machines | 154303 | [154303-steel-rain-dawn-of-the-machines.json](./154303-steel-rain-dawn-of-the-machines.json) |
 | Steel Rain: Expeditions | 172093 | [172093-steel-rain-expeditions.json](./172093-steel-rain-expeditions.json) |
 | Steel Rampart | 245951 | [245951-steel-rampart.json](./245951-steel-rampart.json) |
 | Steel Ranger | 179658 | [179658-steel-ranger.json](./179658-steel-ranger.json) |
@@ -25133,6 +25140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Retro Platformer Collection | 242770 | [242770-super-retro-platformer-collection.json](./242770-super-retro-platformer-collection.json) |
 | Super Retro Retry | 273399 | [273399-super-retro-retry.json](./273399-super-retro-retry.json) |
 | Super Retro World | 157172 | [157172-super-retro-world.json](./157172-super-retro-world.json) |
+| Super Rhino Turtle | 154320 | [154320-super-rhino-turtle.json](./154320-super-rhino-turtle.json) |
 | Super Rhythm Duel | 127213 | [127213-super-rhythm-duel.json](./127213-super-rhythm-duel.json) |
 | Super Ricko's Odyssey | 333133 | [333133-super-rickos-odyssey.json](./333133-super-rickos-odyssey.json) |
 | Super Rising Ball | 350485 | [350485-super-rising-ball.json](./350485-super-rising-ball.json) |
