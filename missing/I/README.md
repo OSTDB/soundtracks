@@ -3975,6 +3975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interpret | 384333 | [384333-interpret.json](./384333-interpret.json) |
 | Interquel | 369370 | [369370-interquel.json](./369370-interquel.json) |
 | Interred | 405690 | [405690-interred.json](./405690-interred.json) |
+| Interregnum | 120031 | [120031-interregnum.json](./120031-interregnum.json) |
 | Interregnum Chronicles: Signal | 153753 | [153753-interregnum-chronicles-signal.json](./153753-interregnum-chronicles-signal.json) |
 | Interregnum: Dark Archer | 170769 | [170769-interregnum-dark-archer.json](./170769-interregnum-dark-archer.json) |
 | Interrogation 091 | 184592 | [184592-interrogation-091.json](./184592-interrogation-091.json) |
