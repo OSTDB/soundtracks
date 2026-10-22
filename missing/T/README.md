@@ -9421,6 +9421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Us: Left Behind - Remastered | 219027 | [219027-the-last-of-us-left-behind-remastered.json](./219027-the-last-of-us-left-behind-remastered.json) |
 | The Last of Us: Post-Pandemic Edition | 102083 | [102083-the-last-of-us-post-pandemic-edition.json](./102083-the-last-of-us-post-pandemic-edition.json) |
 | The Last of Us: Survival Edition | 102082 | [102082-the-last-of-us-survival-edition.json](./102082-the-last-of-us-survival-edition.json) |
+| The Last of Waifus | 138628 | [138628-the-last-of-waifus.json](./138628-the-last-of-waifus.json) |
 | The Last One | 327036 | [327036-the-last-one.json](./327036-the-last-one.json) |
 | The Last One and Then Another | 318206 | [318206-the-last-one-and-then-another.json](./318206-the-last-one-and-then-another.json) |
 | The Last One Month | 180307 | [180307-the-last-one-month.json](./180307-the-last-one-month.json) |
@@ -12142,6 +12143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Riches of Agrabah with Disney | 243818 | [243818-the-riches-of-agrabah-with-disney.json](./243818-the-riches-of-agrabah-with-disney.json) |
 | The Richmond Rut: In Search of Fenton | 252677 | [252677-the-richmond-rut-in-search-of-fenton.json](./252677-the-richmond-rut-in-search-of-fenton.json) |
 | The Riddle of Blossom Island | 182293 | [182293-the-riddle-of-blossom-island.json](./182293-the-riddle-of-blossom-island.json) |
+| The Riddle of the Maze | 138449 | [138449-the-riddle-of-the-maze.json](./138449-the-riddle-of-the-maze.json) |
 | The Riddle Room | 53782 | [53782-the-riddle-room.json](./53782-the-riddle-room.json) |
 | The Riddle Room 2 | 53781 | [53781-the-riddle-room-2.json](./53781-the-riddle-room-2.json) |
 | The Riddler | 242447 | [242447-the-riddler.json](./242447-the-riddler.json) |
@@ -14057,6 +14059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower: A Bomb's Climb | 64676 | [64676-the-tower-a-bombs-climb.json](./64676-the-tower-a-bombs-climb.json) |
 | The Tower: Last Stand | 31742 | [31742-the-tower-last-stand.json](./31742-the-tower-last-stand.json) |
 | The Tower: The Order of XII | 117694 | [117694-the-tower-the-order-of-xii.json](./117694-the-tower-the-order-of-xii.json) |
+| The Towerer | 138445 | [138445-the-towerer.json](./138445-the-towerer.json) |
 | The Towers | 406802 | [406802-the-towers.json](./406802-the-towers.json) |
 | The Town | 80392 | [80392-the-town.json](./80392-the-town.json) |
 | The Town of Downpour | 387334 | [387334-the-town-of-downpour.json](./387334-the-town-of-downpour.json) |
