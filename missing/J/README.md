@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Troops | 324864 | [324864-jelly-troops.json](./324864-jelly-troops.json) |
 | Jelly Truck | 322049 | [322049-jelly-truck.json](./322049-jelly-truck.json) |
 | Jelly Wants More | 105377 | [105377-jelly-wants-more.json](./105377-jelly-wants-more.json) |
+| Jelly Wars | 114732 | [114732-jelly-wars.json](./114732-jelly-wars.json) |
 | Jelly-Jelly | 301890 | [301890-jelly-jelly.json](./301890-jelly-jelly.json) |
 | Jelly's Adventure | 208328 | [208328-jellys-adventure.json](./208328-jellys-adventure.json) |
 | Jellyboom | 73239 | [73239-jellyboom.json](./73239-jellyboom.json) |
@@ -2615,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump! Mr. Abe | 330212 | [330212-jump-mr-abe.json](./330212-jump-mr-abe.json) |
 | Jump! The Floor Is... | 323439 | [323439-jump-the-floor-is.json](./323439-jump-the-floor-is.json) |
 | Jump'n Bounce | 78970 | [78970-jumpn-bounce.json](./78970-jumpn-bounce.json) |
+| Jump'n Paint | 114712 | [114712-jumpn-paint.json](./114712-jumpn-paint.json) |
 | Jump'n'Brawl | 221123 | [221123-jumpnbrawl.json](./221123-jumpnbrawl.json) |
 | Jump/Die/Live | 166727 | [166727-jump-die-live.json](./166727-jump-die-live.json) |
 | Jump+ Jumble Rush | 370214 | [370214-jump-jumble-rush.json](./370214-jump-jumble-rush.json) |
