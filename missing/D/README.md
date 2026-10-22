@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakota Winchester's Adventures | 90222 | [90222-dakota-winchesters-adventures.json](./90222-dakota-winchesters-adventures.json) |
 | Dakota Winchester's Adventures 2 | 310557 | [310557-dakota-winchesters-adventures-2.json](./310557-dakota-winchesters-adventures-2.json) |
 | Dakota Winchester's Adventures 3 | 310558 | [310558-dakota-winchesters-adventures-3.json](./310558-dakota-winchesters-adventures-3.json) |
+| Dakpo | 144655 | [144655-dakpo.json](./144655-dakpo.json) |
 | Dala and The Cursed Forest | 292768 | [292768-dala-and-the-cursed-forest.json](./292768-dala-and-the-cursed-forest.json) |
 | Daldzah | 277978 | [277978-daldzah.json](./277978-daldzah.json) |
 | Dale & Dawson Stationery Supplies | 296326 | [296326-dale-and-dawson-stationery-supplies.json](./296326-dale-and-dawson-stationery-supplies.json) |
@@ -5437,6 +5438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desecrated Deck | 338709 | [338709-desecrated-deck.json](./338709-desecrated-deck.json) |
 | Desecration | 157019 | [157019-desecration.json](./157019-desecration.json) |
 | Desecration | 343843 | [343843-desecration.json](./343843-desecration.json) |
+| Desecrators | 144823 | [144823-desecrators.json](./144823-desecrators.json) |
 | Desenho Livre | 290092 | [290092-desenho-livre.json](./290092-desenho-livre.json) |
 | Desert | 18605 | [18605-desert.json](./18605-desert.json) |
 | Desert Angels | 348359 | [348359-desert-angels.json](./348359-desert-angels.json) |
@@ -10298,6 +10300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon: Nobita to Buriki no Meikyuu | 349442 | [349442-doraemon-nobita-to-buriki-no-meikyuu.json](./349442-doraemon-nobita-to-buriki-no-meikyuu.json) |
 | Doraemon: Nobita to Fukkatsu no Hoshi | 91772 | [91772-doraemon-nobita-to-fukkatsu-no-hoshi.json](./91772-doraemon-nobita-to-fukkatsu-no-hoshi.json) |
 | Doraemon: Nobita to Tetsu-jin Heidan | 349424 | [349424-doraemon-nobita-to-tetsu-jin-heidan.json](./349424-doraemon-nobita-to-tetsu-jin-heidan.json) |
+| Doraemon: Nobita's Resident Evil | 144660 | [144660-doraemon-nobitas-resident-evil.json](./144660-doraemon-nobitas-resident-evil.json) |
 | Doraemon: Nobita's Resident Evil 2 | 238417 | [238417-doraemon-nobitas-resident-evil-2.json](./238417-doraemon-nobitas-resident-evil-2.json) |
 | Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai | 60545 | [60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json](./60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json) |
 | Doraijin | 129674 | [129674-doraijin.json](./129674-doraijin.json) |
