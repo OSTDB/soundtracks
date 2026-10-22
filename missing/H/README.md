@@ -7046,6 +7046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Computer Heroes Collection 1 | 260072 | [260072-home-computer-heroes-collection-1.json](./260072-home-computer-heroes-collection-1.json) |
 | Home Construction Sim | 294965 | [294965-home-construction-sim.json](./294965-home-construction-sim.json) |
 | Home Cooked Spaghetti Western | 380200 | [380200-home-cooked-spaghetti-western.json](./380200-home-cooked-spaghetti-western.json) |
+| Home Creator | 154878 | [154878-home-creator.json](./154878-home-creator.json) |
 | Home Darkness: Escape | 76710 | [76710-home-darkness-escape.json](./76710-home-darkness-escape.json) |
 | Home Deco Builder | 334096 | [334096-home-deco-builder.json](./334096-home-deco-builder.json) |
 | Home Deco Puzzles | 212996 | [212996-home-deco-puzzles.json](./212996-home-deco-puzzles.json) |
@@ -9276,6 +9277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter of the Disowned | 156088 | [156088-hunter-of-the-disowned.json](./156088-hunter-of-the-disowned.json) |
 | Hunter Patrol | 13883 | [13883-hunter-patrol.json](./13883-hunter-patrol.json) |
 | Hunter Revenge | 235648 | [235648-hunter-revenge.json](./235648-hunter-revenge.json) |
+| Hunter Shooting Camp | 154903 | [154903-hunter-shooting-camp.json](./154903-hunter-shooting-camp.json) |
 | Hunter Simulator VR: Wild Hunting | 391345 | [391345-hunter-simulator-vr-wild-hunting.json](./391345-hunter-simulator-vr-wild-hunting.json) |
 | Hunter Survive Zero | 379165 | [379165-hunter-survive-zero.json](./379165-hunter-survive-zero.json) |
 | Hunter Survivors | 204824 | [204824-hunter-survivors.json](./204824-hunter-survivors.json) |
