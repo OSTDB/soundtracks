@@ -2357,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitatio 3 | 161630 | [161630-vitatio-3.json](./161630-vitatio-3.json) |
 | Vitavania | 390673 | [390673-vitavania.json](./390673-vitavania.json) |
 | Viticulture | 200132 | [200132-viticulture.json](./200132-viticulture.json) |
+| Viticulture Essential Edition | 135729 | [135729-viticulture-essential-edition.json](./135729-viticulture-essential-edition.json) |
 | Viticulture: Essential Edition - Tuscany Expansion | 236970 | [236970-viticulture-essential-edition-tuscany-expansion.json](./236970-viticulture-essential-edition-tuscany-expansion.json) |
 | Vitrail | 293172 | [293172-vitrail.json](./293172-vitrail.json) |
 | Vitreous | 179717 | [179717-vitreous.json](./179717-vitreous.json) |
