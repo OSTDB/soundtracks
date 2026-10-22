@@ -6831,6 +6831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Cocoon | 255114 | [255114-hollow-cocoon.json](./255114-hollow-cocoon.json) |
 | Hollow Crew | 416806 | [416806-hollow-crew.json](./416806-hollow-crew.json) |
 | Hollow Cries | 125198 | [125198-hollow-cries.json](./125198-hollow-cries.json) |
+| Hollow Destiny | 151430 | [151430-hollow-destiny.json](./151430-hollow-destiny.json) |
 | Hollow Doll | 322060 | [322060-hollow-doll.json](./322060-hollow-doll.json) |
 | Hollow Earth | 291689 | [291689-hollow-earth.json](./291689-hollow-earth.json) |
 | Hollow Faces | 388186 | [388186-hollow-faces.json](./388186-hollow-faces.json) |
