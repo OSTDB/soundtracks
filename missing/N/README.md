@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Name This Game | 22838 | [22838-name-this-game.json](./22838-name-this-game.json) |
 | Nameko | 68311 | [68311-nameko.json](./68311-nameko.json) |
 | Nameless | 105550 | [105550-nameless.json](./105550-nameless.json) |
+| Nameless | 133640 | [133640-nameless.json](./133640-nameless.json) |
 | Nameless | 256829 | [256829-nameless.json](./256829-nameless.json) |
 | Nameless | 294822 | [294822-nameless.json](./294822-nameless.json) |
 | Nameless Bastard | 253894 | [253894-nameless-bastard.json](./253894-nameless-bastard.json) |
@@ -1496,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negima!? Magister Negi Magi: Dream Tactic Yumemiru Otome Princess | 276089 | [276089-negima-magister-negi-magi-dream-tactic-yumemiru-otome-princess.json](./276089-negima-magister-negi-magi-dream-tactic-yumemiru-otome-princess.json) |
 | Negima!? Magister Negi Magi: Neo-Pactio Fight!! | 72653 | [72653-negima-magister-negi-magi-neo-pactio-fight.json](./72653-negima-magister-negi-magi-neo-pactio-fight.json) |
 | Negitlet | 360894 | [360894-negitlet.json](./360894-negitlet.json) |
+| Neglected | 133079 | [133079-neglected.json](./133079-neglected.json) |
 | Neglected: Trust test | 170904 | [170904-neglected-trust-test.json](./170904-neglected-trust-test.json) |
 | Negligee | 283135 | [283135-negligee.json](./283135-negligee.json) |
 | Negligee: Love Stories | 111743 | [111743-negligee-love-stories.json](./111743-negligee-love-stories.json) |
@@ -1781,7 +1783,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Pang | 75495 | [75495-neo-pang.json](./75495-neo-pang.json) |
 | Neo Planet | 61574 | [61574-neo-planet.json](./61574-neo-planet.json) |
 | Neo Racing Genesis | 305747 | [305747-neo-racing-genesis.json](./305747-neo-racing-genesis.json) |
-| NEO Scavenger | 8756 | [8756-neo-scavenger.json](./8756-neo-scavenger.json) |
 | Neo Sonic 2 | 266707 | [266707-neo-sonic-2.json](./266707-neo-sonic-2.json) |
 | Neo Sonic 3 | 266706 | [266706-neo-sonic-3.json](./266706-neo-sonic-3.json) |
 | Neo Sonic Universe | 299876 | [299876-neo-sonic-universe.json](./299876-neo-sonic-universe.json) |
@@ -3433,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Slashers: Remake | 290795 | [290795-night-slashers-remake.json](./290795-night-slashers-remake.json) |
 | Night Slave | 45974 | [45974-night-slave.json](./45974-night-slave.json) |
 | Night Society | 414877 | [414877-night-society.json](./414877-night-society.json) |
+| Night Spasm | 133049 | [133049-night-spasm.json](./133049-night-spasm.json) |
 | Night Stalkers | 190128 | [190128-night-stalkers.json](./190128-night-stalkers.json) |
 | Night Stocker | 37329 | [37329-night-stocker.json](./37329-night-stocker.json) |
 | Night Stones | 239711 | [239711-night-stones.json](./239711-night-stones.json) |
@@ -5746,7 +5748,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Strike | 51274 | [51274-nuclear-strike.json](./51274-nuclear-strike.json) |
 | Nuclear Sub | 231298 | [231298-nuclear-sub.json](./231298-nuclear-sub.json) |
 | Nuclear Submarine inc | 208072 | [208072-nuclear-submarine-inc.json](./208072-nuclear-submarine-inc.json) |
-| Nuclear Throne | 3227 | [3227-nuclear-throne.json](./3227-nuclear-throne.json) |
 | Nuclear Throne 3D | 375427 | [375427-nuclear-throne-3d.json](./375427-nuclear-throne-3d.json) |
 | Nuclear Throne Together | 176694 | [176694-nuclear-throne-together.json](./176694-nuclear-throne-together.json) |
 | Nuclear Throne Together: Hard Mode | 176720 | [176720-nuclear-throne-together-hard-mode.json](./176720-nuclear-throne-together-hard-mode.json) |
@@ -6036,6 +6037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyanaconda | 229237 | [229237-nyanaconda.json](./229237-nyanaconda.json) |
 | Nyancle Racing | 94668 | [94668-nyancle-racing.json](./94668-nyancle-racing.json) |
 | Nyanco | 120044 | [120044-nyanco.json](./120044-nyanco.json) |
+| Nyanco Card | 133076 | [133076-nyanco-card.json](./133076-nyanco-card.json) |
 | Nyanco Channel | 130106 | [130106-nyanco-channel.json](./130106-nyanco-channel.json) |
 | Nyanco Dream | 126557 | [126557-nyanco-dream.json](./126557-nyanco-dream.json) |
 | Nyanco Mine | 164284 | [164284-nyanco-mine.json](./164284-nyanco-mine.json) |
