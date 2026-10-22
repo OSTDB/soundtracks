@@ -6442,6 +6442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Planet: Extreme Condition - Colonies Edition | 27861 | [27861-lost-planet-extreme-condition-colonies-edition.json](./27861-lost-planet-extreme-condition-colonies-edition.json) |
 | Lost Player | 185103 | [185103-lost-player.json](./185103-lost-player.json) |
 | Lost Portal CCG | 87592 | [87592-lost-portal-ccg.json](./87592-lost-portal-ccg.json) |
+| Lost Potato | 138439 | [138439-lost-potato.json](./138439-lost-potato.json) |
 | Lost Princess | 266775 | [266775-lost-princess.json](./266775-lost-princess.json) |
 | Lost Princess: City | 286229 | [286229-lost-princess-city.json](./286229-lost-princess-city.json) |
 | Lost Princess: Winterland | 271908 | [271908-lost-princess-winterland.json](./271908-lost-princess-winterland.json) |
