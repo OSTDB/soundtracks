@@ -4052,6 +4052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyphscape | 349401 | [349401-glyphscape.json](./349401-glyphscape.json) |
 | Glyphwing: World Geography | 417444 | [417444-glyphwing-world-geography.json](./417444-glyphwing-world-geography.json) |
 | GM Forge - Virtual Tabletop | 100570 | [100570-gm-forge-virtual-tabletop.json](./100570-gm-forge-virtual-tabletop.json) |
+| GMDX | 144168 | [144168-gmdx.json](./144168-gmdx.json) |
 | GMH: Good Morning Human! | 289246 | [289246-gmh-good-morning-human.json](./289246-gmh-good-morning-human.json) |
 | GMOTA | 142178 | [142178-gmota.json](./142178-gmota.json) |
 | Gnah! | 61507 | [61507-gnah.json](./61507-gnah.json) |
@@ -6355,6 +6356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GraveRun | 33286 | [33286-graverun.json](./33286-graverun.json) |
 | GraveRunners | 152637 | [152637-graverunners.json](./152637-graverunners.json) |
 | Gravewatch | 297868 | [297868-gravewatch.json](./297868-gravewatch.json) |
+| Gravewood High | 143991 | [143991-gravewood-high.json](./143991-gravewood-high.json) |
 | Gravewood High: Chapter 1 | 243226 | [243226-gravewood-high-chapter-1.json](./243226-gravewood-high-chapter-1.json) |
 | Gravewood High: Complete | 243227 | [243227-gravewood-high-complete.json](./243227-gravewood-high-complete.json) |
 | Graveyard | 169890 | [169890-graveyard.json](./169890-graveyard.json) |
@@ -8694,6 +8696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gūzhùyīzhì de Míngtiān | 221048 | [221048-guzhuyizhi-de-mingtian.json](./221048-guzhuyizhi-de-mingtian.json) |
 | Guzzler | 13865 | [13865-guzzler.json](./13865-guzzler.json) |
 | Gverse | 236913 | [236913-gverse.json](./236913-gverse.json) |
+| Gwan Moon High School: The Ghost Gate | 144011 | [144011-gwan-moon-high-school-the-ghost-gate.json](./144011-gwan-moon-high-school-the-ghost-gate.json) |
 | GWARP | 395152 | [395152-gwarp.json](./395152-gwarp.json) |
 | Gwen the Magic Nanny | 54076 | [54076-gwen-the-magic-nanny.json](./54076-gwen-the-magic-nanny.json) |
 | GwenBlade 2: Halloween | 340406 | [340406-gwenblade-2-halloween.json](./340406-gwenblade-2-halloween.json) |
