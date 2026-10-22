@@ -8213,6 +8213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Adventure | 163152 | [163152-rolling-adventure.json](./163152-rolling-adventure.json) |
 | Rolling Ball | 345116 | [345116-rolling-ball.json](./345116-rolling-ball.json) |
 | Rolling Ball on Sky | 86734 | [86734-rolling-ball-on-sky.json](./86734-rolling-ball-on-sky.json) |
+| Rolling Balls | 106898 | [106898-rolling-balls.json](./106898-rolling-balls.json) |
 | Rolling Balls | 193428 | [193428-rolling-balls.json](./193428-rolling-balls.json) |
 | Rolling Bird | 113510 | [113510-rolling-bird.json](./113510-rolling-bird.json) |
 | Rolling Car | 156215 | [156215-rolling-car.json](./156215-rolling-car.json) |
