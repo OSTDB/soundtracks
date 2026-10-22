@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Cat | 145537 | [145537-cat.json](./145537-cat.json) |
 | .Cat Nincat Dinogotchi | 231044 | [231044-cat-nincat-dinogotchi.json](./231044-cat-nincat-dinogotchi.json) |
 | .Curator | 413458 | [413458-curator.json](./413458-curator.json) |
+| .Decluster Zero: Bullet Nocturne | 142933 | [142933-decluster-zero-bullet-nocturne.json](./142933-decluster-zero-bullet-nocturne.json) |
 | .Decluster: Into the Bullet Hell | 142934 | [142934-decluster-into-the-bullet-hell.json](./142934-decluster-into-the-bullet-hell.json) |
 | .Detuned | 7724 | [7724-detuned.json](./7724-detuned.json) |
 | .Exe | 32666 | [32666-exe.json](./32666-exe.json) |
@@ -2360,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Pillars | 41974 | [41974-7-pillars.json](./41974-7-pillars.json) |
 | 7 Planets | 175396 | [175396-7-planets.json](./175396-7-planets.json) |
 | 7 Quests of the Hero | 303207 | [303207-7-quests-of-the-hero.json](./303207-7-quests-of-the-hero.json) |
+| 7 Roses: A Darkness Rises | 143398 | [143398-7-roses-a-darkness-rises.json](./143398-7-roses-a-darkness-rises.json) |
 | 7 Second Haircuts | 152274 | [152274-7-second-haircuts.json](./152274-7-second-haircuts.json) |
 | 7 Servant's Blade | 372679 | [372679-7-servants-blade.json](./372679-7-servants-blade.json) |
 | 7 Sexy Sins | 127921 | [127921-7-sexy-sins.json](./127921-7-sexy-sins.json) |
