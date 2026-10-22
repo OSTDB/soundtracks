@@ -1807,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Das Boot: German U-Boat Simulation | 14332 | [14332-das-boot-german-u-boat-simulation.json](./14332-das-boot-german-u-boat-simulation.json) |
 | Das Erbe | 86037 | [86037-das-erbe.json](./86037-das-erbe.json) |
 | Das Geheimnis der Ägyptischen Mumie | 92285 | [92285-das-geheimnis-der-agyptischen-mumie.json](./92285-das-geheimnis-der-agyptischen-mumie.json) |
+| Das Geheimnis der Happy Hippo-Insel | 130607 | [130607-das-geheimnis-der-happy-hippo-insel.json](./130607-das-geheimnis-der-happy-hippo-insel.json) |
 | Das Geisterschiff Remixed | 179421 | [179421-das-geisterschiff-remixed.json](./179421-das-geisterschiff-remixed.json) |
 | Das Kopialbuch | 405482 | [405482-das-kopialbuch.json](./405482-das-kopialbuch.json) |
 | Das Magische Labyrinth | 301499 | [301499-das-magische-labyrinth.json](./301499-das-magische-labyrinth.json) |
@@ -6858,6 +6859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Difficult Platformer Game | 148804 | [148804-difficult-platformer-game.json](./148804-difficult-platformer-game.json) |
 | Difficult times | 327826 | [327826-difficult-times.json](./327826-difficult-times.json) |
 | Difficult? Punch-Out!! | 410279 | [410279-difficult-punch-out.json](./410279-difficult-punch-out.json) |
+| Difficulty Spike | 130575 | [130575-difficulty-spike.json](./130575-difficulty-spike.json) |
 | Diffraction | 207247 | [207247-diffraction.json](./207247-diffraction.json) |
 | Diffusion | 316771 | [316771-diffusion.json](./316771-diffusion.json) |
 | Dig | 304283 | [304283-dig.json](./304283-dig.json) |
@@ -6935,6 +6937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diggers 2: Extractors | 70104 | [70104-diggers-2-extractors.json](./70104-diggers-2-extractors.json) |
 | DiggerSim | 234194 | [234194-diggersim.json](./234194-diggersim.json) |
 | DiggerSim: Excavator Simulator | 312454 | [312454-diggersim-excavator-simulator.json](./312454-diggersim-excavator-simulator.json) |
+| Diggerz | 130592 | [130592-diggerz.json](./130592-diggerz.json) |
 | Diggin It | 395797 | [395797-diggin-it.json](./395797-diggin-it.json) |
 | Digging & Farming & Parking: Simulator Bundle | 380697 | [380697-digging-and-farming-and-parking-simulator-bundle.json](./380697-digging-and-farming-and-parking-simulator-bundle.json) |
 | Digging a Hole 2025 | 335955 | [335955-digging-a-hole-2025.json](./335955-digging-a-hole-2025.json) |
@@ -13531,6 +13534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Masters 2 - Kirifuda Shoubu Ver. | 49583 | [49583-duel-masters-2-kirifuda-shoubu-ver.json](./49583-duel-masters-2-kirifuda-shoubu-ver.json) |
 | Duel Masters 2: Invincible Advance | 49584 | [49584-duel-masters-2-invincible-advance.json](./49584-duel-masters-2-invincible-advance.json) |
 | Duel Masters 3 | 412221 | [412221-duel-masters-3.json](./412221-duel-masters-3.json) |
+| Duel Masters Play's | 130561 | [130561-duel-masters-plays.json](./130561-duel-masters-plays.json) |
 | Duel Masters: Kaijudo Showdown | 24257 | [24257-duel-masters-kaijudo-showdown.json](./24257-duel-masters-kaijudo-showdown.json) |
 | Duel Masters: Sempai Legends | 49198 | [49198-duel-masters-sempai-legends.json](./49198-duel-masters-sempai-legends.json) |
 | Duel Masters: Shadow of the Code | 49402 | [49402-duel-masters-shadow-of-the-code.json](./49402-duel-masters-shadow-of-the-code.json) |
