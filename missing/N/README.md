@@ -5918,6 +5918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Gacha | 402241 | [402241-number-gacha.json](./402241-number-gacha.json) |
 | Number Game: 24 Points | 369736 | [369736-number-game-24-points.json](./369736-number-game-24-points.json) |
 | Number Guesser | 97905 | [97905-number-guesser.json](./97905-number-guesser.json) |
+| Number Hunt | 101319 | [101319-number-hunt.json](./101319-number-hunt.json) |
 | Number Islands | 139923 | [139923-number-islands.json](./139923-number-islands.json) |
 | Number Line | 318257 | [318257-number-line.json](./318257-number-line.json) |
 | Number Machine | 350604 | [350604-number-machine.json](./350604-number-machine.json) |
