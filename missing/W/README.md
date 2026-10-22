@@ -1679,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars Across the World: Normandy 1944 | 159625 | [159625-wars-across-the-world-normandy-1944.json](./159625-wars-across-the-world-normandy-1944.json) |
 | Wars Across the World: Persia 1856 | 159628 | [159628-wars-across-the-world-persia-1856.json](./159628-wars-across-the-world-persia-1856.json) |
 | Wars Across the World: Rhodesia 1972 | 159615 | [159615-wars-across-the-world-rhodesia-1972.json](./159615-wars-across-the-world-rhodesia-1972.json) |
+| Wars Across the World: Russian Battles | 101305 | [101305-wars-across-the-world-russian-battles.json](./101305-wars-across-the-world-russian-battles.json) |
 | Wars Across the World: Saratoga 1777 | 159604 | [159604-wars-across-the-world-saratoga-1777.json](./159604-wars-across-the-world-saratoga-1777.json) |
 | Wars Across the World: Sepoy 1857 | 212228 | [212228-wars-across-the-world-sepoy-1857.json](./212228-wars-across-the-world-sepoy-1857.json) |
 | Wars Across the World: Serbia 1914 | 155178 | [155178-wars-across-the-world-serbia-1914.json](./155178-wars-across-the-world-serbia-1914.json) |
