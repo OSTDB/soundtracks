@@ -7167,6 +7167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Gallery | 379124 | [379124-planet-gallery.json](./379124-planet-gallery.json) |
 | Planet Game | 310149 | [310149-planet-game.json](./310149-planet-game.json) |
 | Planet Genesis 2 | 107092 | [107092-planet-genesis-2.json](./107092-planet-genesis-2.json) |
+| Planet Gold Rush | 108789 | [108789-planet-gold-rush.json](./108789-planet-gold-rush.json) |
 | Planet Graveyard | 323416 | [323416-planet-graveyard.json](./323416-planet-graveyard.json) |
 | Planet Guardian VR | 76519 | [76519-planet-guardian-vr.json](./76519-planet-guardian-vr.json) |
 | Planet Gula | 145557 | [145557-planet-gula.json](./145557-planet-gula.json) |
@@ -7711,6 +7712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playmobil Dinos | 344974 | [344974-playmobil-dinos.json](./344974-playmobil-dinos.json) |
 | Playmobil Dragon Adventures | 209362 | [209362-playmobil-dragon-adventures.json](./209362-playmobil-dragon-adventures.json) |
 | Playmobil Happy Meal Digital Experience | 395741 | [395741-playmobil-happy-meal-digital-experience.json](./395741-playmobil-happy-meal-digital-experience.json) |
+| Playmobil Horse Farm | 108735 | [108735-playmobil-horse-farm.json](./108735-playmobil-horse-farm.json) |
 | Playmobil: Circus | 20319 | [20319-playmobil-circus.json](./20319-playmobil-circus.json) |
 | Playmobil: Knight | 20417 | [20417-playmobil-knight.json](./20417-playmobil-knight.json) |
 | Playmobil: Novelmore | 207844 | [207844-playmobil-novelmore.json](./207844-playmobil-novelmore.json) |
