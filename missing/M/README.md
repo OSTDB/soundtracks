@@ -4764,6 +4764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem in Single Valley: Confessions | 133099 | [133099-mayhem-in-single-valley-confessions.json](./133099-mayhem-in-single-valley-confessions.json) |
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
 | Mayhem Mail | 272746 | [272746-mayhem-mail.json](./272746-mayhem-mail.json) |
+| Mayhem Masters | 128247 | [128247-mayhem-masters.json](./128247-mayhem-masters.json) |
 | Mayhem Motorsports Collection | 283208 | [283208-mayhem-motorsports-collection.json](./283208-mayhem-motorsports-collection.json) |
 | Mayhem Pantera | 271807 | [271807-mayhem-pantera.json](./271807-mayhem-pantera.json) |
 | Mayhem Space Cinema | 158103 | [158103-mayhem-space-cinema.json](./158103-mayhem-space-cinema.json) |
@@ -9177,6 +9178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millionaire Tycoon | 95921 | [95921-millionaire-tycoon.json](./95921-millionaire-tycoon.json) |
 | Millionaire: The Stock Market Simulation | 401794 | [401794-millionaire-the-stock-market-simulation.json](./401794-millionaire-the-stock-market-simulation.json) |
 | Millions of Billions of Suns | 398630 | [398630-millions-of-billions-of-suns.json](./398630-millions-of-billions-of-suns.json) |
+| Millions of Minions | 128203 | [128203-millions-of-minions.json](./128203-millions-of-minions.json) |
 | Millipede | 198820 | [198820-millipede.json](./198820-millipede.json) |
 | Millipede | 239135 | [239135-millipede.json](./239135-millipede.json) |
 | Millipede | 239487 | [239487-millipede.json](./239487-millipede.json) |
@@ -11296,6 +11298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model Eight | 245750 | [245750-model-eight.json](./245750-model-eight.json) |
 | Model Employee | 274732 | [274732-model-employee.json](./274732-model-employee.json) |
 | Model Kit Shop Simulator | 397829 | [397829-model-kit-shop-simulator.json](./397829-model-kit-shop-simulator.json) |
+| Model Kit Simulator VR | 128232 | [128232-model-kit-simulator-vr.json](./128232-model-kit-simulator-vr.json) |
 | Model Melissa | 286521 | [286521-model-melissa.json](./286521-model-melissa.json) |
 | Model Oshare Audition Dream Girl | 222499 | [222499-model-oshare-audition-dream-girl.json](./222499-model-oshare-audition-dream-girl.json) |
 | Model Railway Easily 2 | 189957 | [189957-model-railway-easily-2.json](./189957-model-railway-easily-2.json) |
@@ -16533,6 +16536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyaoSoft Garake Collection | 212644 | [212644-myaosoft-garake-collection.json](./212644-myaosoft-garake-collection.json) |
 | Myara Story 1: Hurricane of the Ancient One | 227895 | [227895-myara-story-1-hurricane-of-the-ancient-one.json](./227895-myara-story-1-hurricane-of-the-ancient-one.json) |
 | MyBiz: Pomodoro Desk Tycoon | 405557 | [405557-mybiz-pomodoro-desk-tycoon.json](./405557-mybiz-pomodoro-desk-tycoon.json) |
+| MyBot | 128218 | [128218-mybot.json](./128218-mybot.json) |
 | Mycelium | 295350 | [295350-mycelium.json](./295350-mycelium.json) |
 | Mycelium Conquest | 401813 | [401813-mycelium-conquest.json](./401813-mycelium-conquest.json) |
 | Mycelium Mayhem | 364634 | [364634-mycelium-mayhem.json](./364634-mycelium-mayhem.json) |
