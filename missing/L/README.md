@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands of Rage | 211821 | [211821-lands-of-rage.json](./211821-lands-of-rage.json) |
 | Lands of Raynar | 150904 | [150904-lands-of-raynar.json](./150904-lands-of-raynar.json) |
 | Lands of Ryuu | 211586 | [211586-lands-of-ryuu.json](./211586-lands-of-ryuu.json) |
+| Lands of Sorcery | 148819 | [148819-lands-of-sorcery.json](./148819-lands-of-sorcery.json) |
 | Lands of the Lost | 102962 | [102962-lands-of-the-lost.json](./102962-lands-of-the-lost.json) |
 | Lands of Xon | 220594 | [220594-lands-of-xon.json](./220594-lands-of-xon.json) |
 | Lands of Yocta | 181212 | [181212-lands-of-yocta.json](./181212-lands-of-yocta.json) |
@@ -672,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Language Adventure | 240699 | [240699-language-adventure.json](./240699-language-adventure.json) |
 | Language Learning Simulator: Alphabet | 309722 | [309722-language-learning-simulator-alphabet.json](./309722-language-learning-simulator-alphabet.json) |
 | LanguageGuessr | 259618 | [259618-languageguessr.json](./259618-languageguessr.json) |
+| Languish | 148796 | [148796-languish.json](./148796-languish.json) |
 | Laniakea | 304714 | [304714-laniakea.json](./304714-laniakea.json) |
 | Lanista: Shadows and Dust | 294283 | [294283-lanista-shadows-and-dust.json](./294283-lanista-shadows-and-dust.json) |
 | Lanky Larry | 176283 | [176283-lanky-larry.json](./176283-lanky-larry.json) |
@@ -6082,6 +6084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Adventures of Kroz | 69575 | [69575-lost-adventures-of-kroz.json](./69575-lost-adventures-of-kroz.json) |
 | Lost Ages Hunting | 409870 | [409870-lost-ages-hunting.json](./409870-lost-ages-hunting.json) |
 | Lost Alice: Destined Lovers in Wonderland | 75422 | [75422-lost-alice-destined-lovers-in-wonderland.json](./75422-lost-alice-destined-lovers-in-wonderland.json) |
+| Lost Alone | 148812 | [148812-lost-alone.json](./148812-lost-alone.json) |
 | Lost Alone | 167223 | [167223-lost-alone.json](./167223-lost-alone.json) |
 | Lost Alone EP.1: Little Sister | 185649 | [185649-lost-alone-ep-1-little-sister.json](./185649-lost-alone-ep-1-little-sister.json) |
 | Lost Alone Ep.2: Daddy | 185912 | [185912-lost-alone-ep-2-daddy.json](./185912-lost-alone-ep-2-daddy.json) |
@@ -7164,6 +7167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky 21 | 241337 | [241337-lucky-21.json](./241337-lucky-21.json) |
 | Lucky Bastard | 261091 | [261091-lucky-bastard.json](./261091-lucky-bastard.json) |
 | Lucky Break: Dating in New York | 372684 | [372684-lucky-break-dating-in-new-york.json](./372684-lucky-break-dating-in-new-york.json) |
+| Lucky Burst | 148823 | [148823-lucky-burst.json](./148823-lucky-burst.json) |
 | Lucky Cat Bingo | 354978 | [354978-lucky-cat-bingo.json](./354978-lucky-cat-bingo.json) |
 | Lucky Charms | 406862 | [406862-lucky-charms.json](./406862-lucky-charms.json) |
 | Lucky Coins | 175264 | [175264-lucky-coins.json](./175264-lucky-coins.json) |
