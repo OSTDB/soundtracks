@@ -4218,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines Universe | 204878 | [204878-lines-universe.json](./204878-lines-universe.json) |
 | Lines X | 119522 | [119522-lines-x.json](./119522-lines-x.json) |
 | Lines X Free | 107263 | [107263-lines-x-free.json](./107263-lines-x-free.json) |
+| Lines XL | 130042 | [130042-lines-xl.json](./130042-lines-xl.json) |
 | Lines: A Gift for Mom | 391139 | [391139-lines-a-gift-for-mom.json](./391139-lines-a-gift-for-mom.json) |
 | Linesgo | 326092 | [326092-linesgo.json](./326092-linesgo.json) |
 | LineWars II | 69230 | [69230-linewars-ii.json](./69230-linewars-ii.json) |
