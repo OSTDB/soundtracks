@@ -3784,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavephobia | 285393 | [285393-cavephobia.json](./285393-cavephobia.json) |
 | Cavequest | 2876 | [2876-cavequest.json](./2876-cavequest.json) |
 | Caver | 199330 | [199330-caver.json](./199330-caver.json) |
+| Cavern | 100626 | [100626-cavern.json](./100626-cavern.json) |
 | Cavern | 272856 | [272856-cavern.json](./272856-cavern.json) |
 | Cavern Adventurers | 291983 | [291983-cavern-adventurers.json](./291983-cavern-adventurers.json) |
 | Cavern Commandos | 171458 | [171458-cavern-commandos.json](./171458-cavern-commandos.json) |
@@ -5237,6 +5238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Royale | 330918 | [330918-chess-royale.json](./330918-chess-royale.json) |
 | Chess Rush | 122963 | [122963-chess-rush.json](./122963-chess-rush.json) |
 | Chess Sphere | 112795 | [112795-chess-sphere.json](./112795-chess-sphere.json) |
+| Chess Sudoku | 100649 | [100649-chess-sudoku.json](./100649-chess-sudoku.json) |
 | Chess Sudoku | 153689 | [153689-chess-sudoku.json](./153689-chess-sudoku.json) |
 | Chess Survivors | 211384 | [211384-chess-survivors.json](./211384-chess-survivors.json) |
 | Chess Tiger | 103928 | [103928-chess-tiger.json](./103928-chess-tiger.json) |
@@ -6889,6 +6891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circles 2 by Powgi | 140420 | [140420-circles-2-by-powgi.json](./140420-circles-2-by-powgi.json) |
 | Circles by Powgi | 140413 | [140413-circles-by-powgi.json](./140413-circles-by-powgi.json) |
 | Circles of Hell | 96621 | [96621-circles-of-hell.json](./96621-circles-of-hell.json) |
+| Circles with Grandma | 100645 | [100645-circles-with-grandma.json](./100645-circles-with-grandma.json) |
 | Circles3 | 106293 | [106293-circles3.json](./106293-circles3.json) |
 | Circling | 304338 | [304338-circling.json](./304338-circling.json) |
 | Circlt | 57750 | [57750-circlt.json](./57750-circlt.json) |
@@ -9419,6 +9422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Book - Travel | 89544 | [89544-coloring-book-travel.json](./89544-coloring-book-travel.json) |
 | Coloring Book - Travel MAX | 95296 | [95296-coloring-book-travel-max.json](./95296-coloring-book-travel-max.json) |
 | Coloring Book - Yummies | 89528 | [89528-coloring-book-yummies.json](./89528-coloring-book-yummies.json) |
+| Coloring Book - ZOO MAX | 100656 | [100656-coloring-book-zoo-max.json](./100656-coloring-book-zoo-max.json) |
 | Coloring Book for Kids | 162618 | [162618-coloring-book-for-kids.json](./162618-coloring-book-for-kids.json) |
 | Coloring Book for Kids: Full Version | 162615 | [162615-coloring-book-for-kids-full-version.json](./162615-coloring-book-for-kids-full-version.json) |
 | Coloring Book for Ladybug & Cat Noir | 96011 | [96011-coloring-book-for-ladybug-and-cat-noir.json](./96011-coloring-book-for-ladybug-and-cat-noir.json) |
