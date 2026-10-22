@@ -9183,7 +9183,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milo | 275846 | [275846-milo.json](./275846-milo.json) |
 | Milo | 57606 | [57606-milo.json](./57606-milo.json) |
 | Milo and Kate | 90920 | [90920-milo-and-kate.json](./90920-milo-and-kate.json) |
-| Milo and the Magpies | 139600 | [139600-milo-and-the-magpies.json](./139600-milo-and-the-magpies.json) |
 | Milo no Senki 3 | 239696 | [239696-milo-no-senki-3.json](./239696-milo-no-senki-3.json) |
 | Milo the Fuel Run | 92866 | [92866-milo-the-fuel-run.json](./92866-milo-the-fuel-run.json) |
 | Milo's Astro Lanes | 3411 | [3411-milos-astro-lanes.json](./3411-milos-astro-lanes.json) |
@@ -13412,7 +13411,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Online 2 | 127546 | [127546-mortal-online-2.json](./127546-mortal-online-2.json) |
 | Mortal Quest | 333130 | [333130-mortal-quest.json](./333130-mortal-quest.json) |
 | Mortal Rite | 173012 | [173012-mortal-rite.json](./173012-mortal-rite.json) |
-| Mortal Shell | 132050 | [132050-mortal-shell.json](./132050-mortal-shell.json) |
 | Mortal Shell II | 347633 | [347633-mortal-shell-ii.json](./347633-mortal-shell-ii.json) |
 | Mortal Shell: Complete Edition | 229693 | [229693-mortal-shell-complete-edition.json](./229693-mortal-shell-complete-edition.json) |
 | Mortal Shell: Digital Deluxe Edition | 214474 | [214474-mortal-shell-digital-deluxe-edition.json](./214474-mortal-shell-digital-deluxe-edition.json) |
@@ -14790,7 +14788,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiverse Loot Hunter | 292586 | [292586-multiverse-loot-hunter.json](./292586-multiverse-loot-hunter.json) |
 | Multiverse Loot Hunter: Three Kingdoms | 320820 | [320820-multiverse-loot-hunter-three-kingdoms.json](./320820-multiverse-loot-hunter-three-kingdoms.json) |
 | Multiverse Racer | 185509 | [185509-multiverse-racer.json](./185509-multiverse-racer.json) |
-| MultiVersus | 182278 | [182278-multiversus.json](./182278-multiversus.json) |
 | MultiVersus: Founder's Pack - Deluxe Edition | 212309 | [212309-multiversus-founders-pack-deluxe-edition.json](./212309-multiversus-founders-pack-deluxe-edition.json) |
 | MultiVersus: Founder's Pack - Premium Edition | 212308 | [212308-multiversus-founders-pack-premium-edition.json](./212308-multiversus-founders-pack-premium-edition.json) |
 | MultiVersus: Founder's Pack - Standard Edition | 212307 | [212307-multiversus-founders-pack-standard-edition.json](./212307-multiversus-founders-pack-standard-edition.json) |
