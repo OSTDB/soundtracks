@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fans Rush | 104700 | [104700-fans-rush.json](./104700-fans-rush.json) |
 | Fant Kids Animated Puzzle | 116982 | [116982-fant-kids-animated-puzzle.json](./116982-fant-kids-animated-puzzle.json) |
 | Fant Kids Matching Game | 112864 | [112864-fant-kids-matching-game.json](./112864-fant-kids-matching-game.json) |
+| Fantamal | 132483 | [132483-fantamal.json](./132483-fantamal.json) |
 | Fantamon | 348794 | [348794-fantamon.json](./348794-fantamon.json) |
 | Fantashooting | 175088 | [175088-fantashooting.json](./175088-fantashooting.json) |
 | Fantashooting 2 | 208977 | [208977-fantashooting-2.json](./208977-fantashooting-2.json) |
@@ -1692,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Sprite Island | 157946 | [157946-fantasy-sprite-island.json](./157946-fantasy-sprite-island.json) |
 | Fantasy Squad W | 109575 | [109575-fantasy-squad-w.json](./109575-fantasy-squad-w.json) |
 | Fantasy Stars: Battle Arena | 117489 | [117489-fantasy-stars-battle-arena.json](./117489-fantasy-stars-battle-arena.json) |
+| Fantasy Story | 132491 | [132491-fantasy-story.json](./132491-fantasy-story.json) |
 | Fantasy Story: Lord of Darkness | 200117 | [200117-fantasy-story-lord-of-darkness.json](./200117-fantasy-story-lord-of-darkness.json) |
 | Fantasy Strike | 45111 | [45111-fantasy-strike.json](./45111-fantasy-strike.json) |
 | Fantasy Strike: Core Pack | 169312 | [169312-fantasy-strike-core-pack.json](./169312-fantasy-strike-core-pack.json) |
@@ -8395,6 +8397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Nights at Omori | 255560 | [255560-four-nights-at-omori.json](./255560-four-nights-at-omori.json) |
 | Four of a Kind: A Short Horror Anthology | 395831 | [395831-four-of-a-kind-a-short-horror-anthology.json](./395831-four-of-a-kind-a-short-horror-anthology.json) |
 | Four Realms | 19568 | [19568-four-realms.json](./19568-four-realms.json) |
+| Four Rendezvous | 132474 | [132474-four-rendezvous.json](./132474-four-rendezvous.json) |
 | Four Seals | 117469 | [117469-four-seals.json](./117469-four-seals.json) |
 | Four Seasons - A fan-created Avatar Game | 143730 | [143730-four-seasons-a-fan-created-avatar-game.json](./143730-four-seasons-a-fan-created-avatar-game.json) |
 | Four Seasons Around the World: Autumn in France | 341616 | [341616-four-seasons-around-the-world-autumn-in-france.json](./341616-four-seasons-around-the-world-autumn-in-france.json) |
