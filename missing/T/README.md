@@ -5614,6 +5614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cherry Orchard | 145302 | [145302-the-cherry-orchard.json](./145302-the-cherry-orchard.json) |
 | The Chess | 351729 | [351729-the-chess.json](./351729-the-chess.json) |
 | The Chess Player | 380106 | [380106-the-chess-player.json](./380106-the-chess-player.json) |
+| The Chess Variants Club | 133095 | [133095-the-chess-variants-club.json](./133095-the-chess-variants-club.json) |
 | The Chessmaster | 366555 | [366555-the-chessmaster.json](./366555-the-chessmaster.json) |
 | The Chessmaster | 366556 | [366556-the-chessmaster.json](./366556-the-chessmaster.json) |
 | The Chessmaster | 366559 | [366559-the-chessmaster.json](./366559-the-chessmaster.json) |
