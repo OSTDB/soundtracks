@@ -2037,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WattGames | 298138 | [298138-wattgames.json](./298138-wattgames.json) |
 | Wattson the Bulb | 385349 | [385349-wattson-the-bulb.json](./385349-wattson-the-bulb.json) |
 | Wauies | 81760 | [81760-wauies.json](./81760-wauies.json) |
+| Wave | 113342 | [113342-wave.json](./113342-wave.json) |
 | Wave | 152147 | [152147-wave.json](./152147-wave.json) |
 | Wave 43 | 408124 | [408124-wave-43.json](./408124-wave-43.json) |
 | Wave Arrow | 106374 | [106374-wave-arrow.json](./106374-wave-arrow.json) |
@@ -3146,13 +3147,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Innocence | 222846 | [222846-wheel-of-innocence.json](./222846-wheel-of-innocence.json) |
 | Wheel of Naughtiness | 226154 | [226154-wheel-of-naughtiness.json](./226154-wheel-of-naughtiness.json) |
 | Wheel of Time MUD | 229107 | [229107-wheel-of-time-mud.json](./229107-wheel-of-time-mud.json) |
+| Wheel of Wealth 3D | 113428 | [113428-wheel-of-wealth-3d.json](./113428-wheel-of-wealth-3d.json) |
 | Wheel Runner | 280137 | [280137-wheel-runner.json](./280137-wheel-runner.json) |
 | Wheel Saint: Hellride | 384669 | [384669-wheel-saint-hellride.json](./384669-wheel-saint-hellride.json) |
 | Wheel Smash | 149352 | [149352-wheel-smash.json](./149352-wheel-smash.json) |
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -3338,6 +3339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Is My Pet? | 417359 | [417359-where-is-my-pet.json](./417359-where-is-my-pet.json) |
 | Where is My Son? | 390143 | [390143-where-is-my-son.json](./390143-where-is-my-son.json) |
 | Where is Paradise? | 174057 | [174057-where-is-paradise.json](./174057-where-is-paradise.json) |
+| Where is Santa? | 113401 | [113401-where-is-santa.json](./113401-where-is-santa.json) |
 | Where is Starlingdive | 414527 | [414527-where-is-starlingdive.json](./414527-where-is-starlingdive.json) |
 | Where is the Beach | 114354 | [114354-where-is-the-beach.json](./114354-where-is-the-beach.json) |
 | Where is the Culprit? | 358654 | [358654-where-is-the-culprit.json](./358654-where-is-the-culprit.json) |
@@ -4815,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter, 2001: Someone tell Luigi I love him | 177485 | [177485-winter-2001-someone-tell-luigi-i-love-him.json](./177485-winter-2001-someone-tell-luigi-i-love-him.json) |
 | Winter's Fall | 177488 | [177488-winters-fall.json](./177488-winters-fall.json) |
 | Winter's Fury | 196250 | [196250-winters-fury.json](./196250-winters-fury.json) |
+| Winter's Symphonies | 113405 | [113405-winters-symphonies.json](./113405-winters-symphonies.json) |
 | Winter's Tail | 122129 | [122129-winters-tail.json](./122129-winters-tail.json) |
 | Winter's Tail: How One Little Dolphin Learned to Swim Again | 63866 | [63866-winters-tail-how-one-little-dolphin-learned-to-swim-again.json](./63866-winters-tail-how-one-little-dolphin-learned-to-swim-again.json) |
 | Winter's Trumpet | 168700 | [168700-winters-trumpet.json](./168700-winters-trumpet.json) |
