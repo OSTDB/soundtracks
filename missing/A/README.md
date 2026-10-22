@@ -1185,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Train 9 V5.0 : Japan Train Simulator Ultimate Edition | 378606 | [378606-a-train-9-v5-0-japan-train-simulator-ultimate-edition.json](./378606-a-train-9-v5-0-japan-train-simulator-ultimate-edition.json) |
 | A-Train 9 Version 2.0: Professional Edition | 10003 | [10003-a-train-9-version-2-0-professional-edition.json](./10003-a-train-9-version-2-0-professional-edition.json) |
 | A-Train 9 Version 5.0: Final | 272683 | [272683-a-train-9-version-5-0-final.json](./272683-a-train-9-version-5-0-final.json) |
+| A-Train All Aboard! Tourism | 146014 | [146014-a-train-all-aboard-tourism.json](./146014-a-train-all-aboard-tourism.json) |
 | A-Train de Ikou Hirogaru Kankou Line | 221236 | [221236-a-train-de-ikou-hirogaru-kankou-line.json](./221236-a-train-de-ikou-hirogaru-kankou-line.json) |
 | A-Train Exp. | 69497 | [69497-a-train-exp.json](./69497-a-train-exp.json) |
 | A-Train HX | 21467 | [21467-a-train-hx.json](./21467-a-train-hx.json) |
@@ -4421,6 +4422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akiba's Beat | 19465 | [19465-akibas-beat.json](./19465-akibas-beat.json) |
 | Akiba's Trip Festa! | 148244 | [148244-akibas-trip-festa.json](./148244-akibas-trip-festa.json) |
 | Akiba’s Trip: First Memory - 10th Anniversary Edition | 142373 | [142373-akiba-s-trip-first-memory-10th-anniversary-edition.json](./142373-akiba-s-trip-first-memory-10th-anniversary-edition.json) |
+| Akiba's Trip: Hellbound & Debriefed - 10th Anniversary Edition | 146159 | [146159-akibas-trip-hellbound-and-debriefed-10th-anniversary-edition.json](./146159-akibas-trip-hellbound-and-debriefed-10th-anniversary-edition.json) |
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
 | Akiba's Trip: Undead & Undressed - Kati Route | 204503 | [204503-akibas-trip-undead-and-undressed-kati-route.json](./204503-akibas-trip-undead-and-undressed-kati-route.json) |
 | Akihabara Crash! 123 Stage + 1 | 110867 | [110867-akihabara-crash-123-stage-1.json](./110867-akihabara-crash-123-stage-1.json) |
@@ -8693,6 +8695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: Emergence | 159117 | [159117-apex-legends-emergence.json](./159117-apex-legends-emergence.json) |
 | Apex Legends: Escape | 176896 | [176896-apex-legends-escape.json](./176896-apex-legends-escape.json) |
 | Apex Legends: From the Rift | 330746 | [330746-apex-legends-from-the-rift.json](./330746-apex-legends-from-the-rift.json) |
+| Apex Legends: Gibraltar Edition | 146158 | [146158-apex-legends-gibraltar-edition.json](./146158-apex-legends-gibraltar-edition.json) |
 | Apex Legends: Hunted | 210618 | [210618-apex-legends-hunted.json](./210618-apex-legends-hunted.json) |
 | Apex Legends: Legacy | 146328 | [146328-apex-legends-legacy.json](./146328-apex-legends-legacy.json) |
 | Apex Legends: Marked | 412314 | [412314-apex-legends-marked.json](./412314-apex-legends-marked.json) |
@@ -13960,6 +13963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aztec Tribe | 52434 | [52434-aztec-tribe.json](./52434-aztec-tribe.json) |
 | Aztec Tribe: New Land | 52433 | [52433-aztec-tribe-new-land.json](./52433-aztec-tribe-new-land.json) |
 | Aztec Wars | 80628 | [80628-aztec-wars.json](./80628-aztec-wars.json) |
+| Aztec: Hunt for the Sun-God | 145995 | [145995-aztec-hunt-for-the-sun-god.json](./145995-aztec-hunt-for-the-sun-god.json) |
 | Azteca | 206013 | [206013-azteca.json](./206013-azteca.json) |
 | Aztecalypse | 31620 | [31620-aztecalypse.json](./31620-aztecalypse.json) |
 | Aztech Forgotten Gods | 145783 | [145783-aztech-forgotten-gods.json](./145783-aztech-forgotten-gods.json) |
