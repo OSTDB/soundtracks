@@ -3633,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Rococo | 333345 | [333345-help-rococo.json](./333345-help-rococo.json) |
 | Help the Cats | 290657 | [290657-help-the-cats.json](./290657-help-the-cats.json) |
 | Help the Cats to Go Home ! - Use the Cats Food to Help Them ! | 197680 | [197680-help-the-cats-to-go-home-use-the-cats-food-to-help-them.json](./197680-help-the-cats-to-go-home-use-the-cats-food-to-help-them.json) |
+| Help Wanted | 122722 | [122722-help-wanted.json](./122722-help-wanted.json) |
 | Help Wanted: 50 Wacky Jobs! | 21190 | [21190-help-wanted-50-wacky-jobs.json](./21190-help-wanted-50-wacky-jobs.json) |
 | Help Will Come Tomorrow | 121989 | [121989-help-will-come-tomorrow.json](./121989-help-will-come-tomorrow.json) |
 | Help Yourself | 153993 | [153993-help-yourself.json](./153993-help-yourself.json) |
@@ -4496,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Great Wars | 252131 | [252131-hero-great-wars.json](./252131-hero-great-wars.json) |
 | Hero Hawk | 195042 | [195042-hero-hawk.json](./195042-hero-hawk.json) |
 | Hero Hellspawn: Learn Arithmetic | 384284 | [384284-hero-hellspawn-learn-arithmetic.json](./384284-hero-hellspawn-learn-arithmetic.json) |
+| Hero Hours Contract | 122642 | [122642-hero-hours-contract.json](./122642-hero-hours-contract.json) |
 | Hero Hours Contract 2: A Factory for Magical Girls | 211591 | [211591-hero-hours-contract-2-a-factory-for-magical-girls.json](./211591-hero-hours-contract-2-a-factory-for-magical-girls.json) |
 | Hero Hunters: Jurassic Shooting Sniper | 104069 | [104069-hero-hunters-jurassic-shooting-sniper.json](./104069-hero-hunters-jurassic-shooting-sniper.json) |
 | Hero in an All-forgiving Fantasy World RPG | 357423 | [357423-hero-in-an-all-forgiving-fantasy-world-rpg.json](./357423-hero-in-an-all-forgiving-fantasy-world-rpg.json) |
@@ -5812,6 +5814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hifuu Bouenkyou | 222505 | [222505-hifuu-bouenkyou.json](./222505-hifuu-bouenkyou.json) |
 | Hifuu Fragment | 161330 | [161330-hifuu-fragment.json](./161330-hifuu-fragment.json) |
 | Hifuu Nightmare Diary: Violet Detector. | 107253 | [107253-hifuu-nightmare-diary-violet-detector.json](./107253-hifuu-nightmare-diary-violet-detector.json) |
+| Higanbana | 122634 | [122634-higanbana.json](./122634-higanbana.json) |
 | Higanbana | 308896 | [308896-higanbana.json](./308896-higanbana.json) |
 | Higanbana no Saku Yoru ni: The Second Night | 64864 | [64864-higanbana-no-saku-yoru-ni-the-second-night.json](./64864-higanbana-no-saku-yoru-ni-the-second-night.json) |
 | Higanjima | 94205 | [94205-higanjima.json](./94205-higanjima.json) |
@@ -6478,7 +6481,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman | 218314 | [218314-hitman.json](./218314-hitman.json) |
 | Hitman 2 Christmas Game | 336886 | [336886-hitman-2-christmas-game.json](./336886-hitman-2-christmas-game.json) |
 | HITMAN 2: Collector's Edition | 136111 | [136111-hitman-2-collectors-edition.json](./136111-hitman-2-collectors-edition.json) |
+| Hitman 2: Haven Island | 122645 | [122645-hitman-2-haven-island.json](./122645-hitman-2-haven-island.json) |
 | Hitman 2: Miami Pack | 118173 | [118173-hitman-2-miami-pack.json](./118173-hitman-2-miami-pack.json) |
+| Hitman 2: New York | 122644 | [122644-hitman-2-new-york.json](./122644-hitman-2-new-york.json) |
 | Hitman 3 | 134595 | [134595-hitman-3.json](./134595-hitman-3.json) |
 | Hitman 3 Access Pass: Hitman 1 GOTY Edition | 233574 | [233574-hitman-3-access-pass-hitman-1-goty-edition.json](./233574-hitman-3-access-pass-hitman-1-goty-edition.json) |
 | Hitman 3 Access Pass: Hitman 2 Expansion Pass | 307377 | [307377-hitman-3-access-pass-hitman-2-expansion-pass.json](./307377-hitman-3-access-pass-hitman-2-expansion-pass.json) |
