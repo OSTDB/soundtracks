@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Chthonicle | 57103 | [57103-daily-chthonicle.json](./57103-daily-chthonicle.json) |
 | Daily Dadish | 233003 | [233003-daily-dadish.json](./233003-daily-dadish.json) |
 | Daily Driven Racer | 334474 | [334474-daily-driven-racer.json](./334474-daily-driven-racer.json) |
+| Daily Driver | 151987 | [151987-daily-driver.json](./151987-daily-driver.json) |
 | Daily Dungeon | 198690 | [198690-daily-dungeon.json](./198690-daily-dungeon.json) |
 | Daily Dungeon Club | 216714 | [216714-daily-dungeon-club.json](./216714-daily-dungeon-club.json) |
 | Daily Espada | 34690 | [34690-daily-espada.json](./34690-daily-espada.json) |
@@ -1959,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date Night Bowling | 137109 | [137109-date-night-bowling.json](./137109-date-night-bowling.json) |
 | Date Nite | 336598 | [336598-date-nite.json](./336598-date-nite.json) |
 | Date of Death: Origin | 195553 | [195553-date-of-death-origin.json](./195553-date-of-death-origin.json) |
+| Date of Life | 151988 | [151988-date-of-life.json](./151988-date-of-life.json) |
 | Date or Destiny: Kiss or Miss | 348880 | [348880-date-or-destiny-kiss-or-miss.json](./348880-date-or-destiny-kiss-or-miss.json) |
 | Date or Die | 56508 | [56508-date-or-die.json](./56508-date-or-die.json) |
 | Date or Ditch | 85073 | [85073-date-or-ditch.json](./85073-date-or-ditch.json) |
@@ -7457,6 +7459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dire Wolf Game Room | 153133 | [153133-dire-wolf-game-room.json](./153133-dire-wolf-game-room.json) |
 | Dire: Flesh and Phobia | 278916 | [278916-dire-flesh-and-phobia.json](./278916-dire-flesh-and-phobia.json) |
 | Direct | 70706 | [70706-direct.json](./70706-direct.json) |
+| Direct Drive | 151992 | [151992-direct-drive.json](./151992-direct-drive.json) |
 | Direct Hit: Missile War | 17671 | [17671-direct-hit-missile-war.json](./17671-direct-hit-missile-war.json) |
 | Direct-X | 292146 | [292146-direct-x.json](./292146-direct-x.json) |
 | Direction! Level Up! | 306359 | [306359-direction-level-up.json](./306359-direction-level-up.json) |
