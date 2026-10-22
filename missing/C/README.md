@@ -2910,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat 2048 Story | 233530 | [233530-cat-2048-story.json](./233530-cat-2048-story.json) |
 | Cat a Photo | 406937 | [406937-cat-a-photo.json](./406937-cat-a-photo.json) |
 | Cat a Sketch | 401930 | [401930-cat-a-sketch.json](./401930-cat-a-sketch.json) |
+| Cat Ace | 134881 | [134881-cat-ace.json](./134881-cat-ace.json) |
 | Cat Adoption Tales | 390739 | [390739-cat-adoption-tales.json](./390739-cat-adoption-tales.json) |
 | Cat Adventure 2 | 195799 | [195799-cat-adventure-2.json](./195799-cat-adventure-2.json) |
 | Cat and Can | 226299 | [226299-cat-and-can.json](./226299-cat-and-can.json) |
@@ -5667,6 +5668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimera | 195033 | [195033-chimera.json](./195033-chimera.json) |
 | Chimera | 312718 | [312718-chimera.json](./312718-chimera.json) |
 | Chimera | 380063 | [380063-chimera.json](./380063-chimera.json) |
+| Chimera Crusader: Defender of Dominicus | 134912 | [134912-chimera-crusader-defender-of-dominicus.json](./134912-chimera-crusader-defender-of-dominicus.json) |
 | Chimera Custom XG | 253994 | [253994-chimera-custom-xg.json](./253994-chimera-custom-xg.json) |
 | Chimera Island | 254696 | [254696-chimera-island.json](./254696-chimera-island.json) |
 | Chimera of Tactics 1 | 93593 | [93593-chimera-of-tactics-1.json](./93593-chimera-of-tactics-1.json) |
@@ -8189,6 +8191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clouds Kingdom 3 | 71501 | [71501-clouds-kingdom-3.json](./71501-clouds-kingdom-3.json) |
 | Clouds No More | 172137 | [172137-clouds-no-more.json](./172137-clouds-no-more.json) |
 | Clouds of Farfisa | 182542 | [182542-clouds-of-farfisa.json](./182542-clouds-of-farfisa.json) |
+| Clouds of Fire: Blazing Skies | 134899 | [134899-clouds-of-fire-blazing-skies.json](./134899-clouds-of-fire-blazing-skies.json) |
 | Cloudscrapers | 354887 | [354887-cloudscrapers.json](./354887-cloudscrapers.json) |
 | Cloudsea | 196871 | [196871-cloudsea.json](./196871-cloudsea.json) |
 | Cloudsea Frontier | 406268 | [406268-cloudsea-frontier.json](./406268-cloudsea-frontier.json) |
@@ -11245,6 +11248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Rescue | 113613 | [113613-core-rescue.json](./113613-core-rescue.json) |
 | Core Runners | 417486 | [417486-core-runners.json](./417486-core-runners.json) |
 | Core Smash! | 106949 | [106949-core-smash.json](./106949-core-smash.json) |
+| Core Stratagem | 134918 | [134918-core-stratagem.json](./134918-core-stratagem.json) |
 | Core War | 143413 | [143413-core-war.json](./143413-core-war.json) |
 | Core-Blast | 242605 | [242605-core-blast.json](./242605-core-blast.json) |
 | Core: Licht | 204969 | [204969-core-licht.json](./204969-core-licht.json) |
