@@ -4733,6 +4733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firebird - The Unfinished | 99215 | [99215-firebird-the-unfinished.json](./99215-firebird-the-unfinished.json) |
 | Firebird: Tale of the Stolen Light | 381017 | [381017-firebird-tale-of-the-stolen-light.json](./381017-firebird-tale-of-the-stolen-light.json) |
 | Fireblaster | 69256 | [69256-fireblaster.json](./69256-fireblaster.json) |
+| FireBlob | 119408 | [119408-fireblob.json](./119408-fireblob.json) |
 | Firebloo Girls | 262559 | [262559-firebloo-girls.json](./262559-firebloo-girls.json) |
 | Fireblue Jam | 272160 | [272160-fireblue-jam.json](./272160-fireblue-jam.json) |
 | Firebox | 177770 | [177770-firebox.json](./177770-firebox.json) |
