@@ -3195,6 +3195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seafarer | 296463 | [296463-seafarer.json](./296463-seafarer.json) |
 | Seafarer: The Ship Sim | 334351 | [334351-seafarer-the-ship-sim.json](./334351-seafarer-the-ship-sim.json) |
 | Seafarer's Gambit | 329172 | [329172-seafarers-gambit.json](./329172-seafarers-gambit.json) |
+| Seafarers | 155959 | [155959-seafarers.json](./155959-seafarers.json) |
 | SeaFeud | 256729 | [256729-seafeud.json](./256729-seafeud.json) |
 | Seafight | 59655 | [59655-seafight.json](./59655-seafight.json) |
 | Seaflower | 313194 | [313194-seaflower.json](./313194-seaflower.json) |
@@ -5915,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered: The Final Days | 248048 | [248048-shattered-the-final-days.json](./248048-shattered-the-final-days.json) |
 | Shatterhand | 48648 | [48648-shatterhand.json](./48648-shatterhand.json) |
 | Shatterhold | 406135 | [406135-shatterhold.json](./406135-shatterhold.json) |
+| Shattering Obsidian | 155961 | [155961-shattering-obsidian.json](./155961-shattering-obsidian.json) |
 | Shatterspace | 197395 | [197395-shatterspace.json](./197395-shatterspace.json) |
 | Shattle | 182189 | [182189-shattle.json](./182189-shattle.json) |
 | Shaun Palmer's Pro Snowboarder | 248602 | [248602-shaun-palmers-pro-snowboarder.json](./248602-shaun-palmers-pro-snowboarder.json) |
@@ -23186,6 +23188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Sport Fishing: Keiryuu-ou | 37889 | [37889-sun-sport-fishing-keiryuu-ou.json](./37889-sun-sport-fishing-keiryuu-ou.json) |
 | Sun Stones | 256193 | [256193-sun-stones.json](./256193-sun-stones.json) |
 | Sun Temple Shootout | 87697 | [87697-sun-temple-shootout.json](./87697-sun-temple-shootout.json) |
+| Sun Warriors | 155949 | [155949-sun-warriors.json](./155949-sun-warriors.json) |
 | Sun Wukong VS Robot | 113725 | [113725-sun-wukong-vs-robot.json](./113725-sun-wukong-vs-robot.json) |
 | Sun Wukong: Journey to the West | 184925 | [184925-sun-wukong-journey-to-the-west.json](./184925-sun-wukong-journey-to-the-west.json) |
 | Sun-Rise.exe | 264612 | [264612-sun-rise-exe.json](./264612-sun-rise-exe.json) |
