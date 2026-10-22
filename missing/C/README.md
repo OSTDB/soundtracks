@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Mystery Adventure Double Pack | 299313 | [299313-capcom-mystery-adventure-double-pack.json](./299313-capcom-mystery-adventure-double-pack.json) |
 | Capcom Puzzle World | 44503 | [44503-capcom-puzzle-world.json](./44503-capcom-puzzle-world.json) |
 | Capcom Sports Club | 38531 | [38531-capcom-sports-club.json](./38531-capcom-sports-club.json) |
+| Capcom Super League Online | 130567 | [130567-capcom-super-league-online.json](./130567-capcom-super-league-online.json) |
 | Capcom Tabi Quiz 100 | 282684 | [282684-capcom-tabi-quiz-100.json](./282684-capcom-tabi-quiz-100.json) |
 | Capcom vs. SNK 2: Mark of the Millennium 2001 | 3846 | [3846-capcom-vs-snk-2-mark-of-the-millennium-2001.json](./3846-capcom-vs-snk-2-mark-of-the-millennium-2001.json) |
 | Capcom vs. SNK: Millennium Fight 2000 | 39593 | [39593-capcom-vs-snk-millennium-fight-2000.json](./39593-capcom-vs-snk-millennium-fight-2000.json) |
@@ -3477,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats and Seek: Osaka | 275525 | [275525-cats-and-seek-osaka.json](./275525-cats-and-seek-osaka.json) |
 | Cats and Seek: Toge Land | 328415 | [328415-cats-and-seek-toge-land.json](./328415-cats-and-seek-toge-land.json) |
 | Cats and Seek: Tokyo | 315298 | [315298-cats-and-seek-tokyo.json](./315298-cats-and-seek-tokyo.json) |
+| Cats are Cute | 130604 | [130604-cats-are-cute.json](./130604-cats-are-cute.json) |
 | Cats are Cute: Pop Time! | 322124 | [322124-cats-are-cute-pop-time.json](./322124-cats-are-cute-pop-time.json) |
 | Cats Are Jerks | 232172 | [232172-cats-are-jerks.json](./232172-cats-are-jerks.json) |
 | Cats are Liquid: A Better Place | 126727 | [126727-cats-are-liquid-a-better-place.json](./126727-cats-are-liquid-a-better-place.json) |
@@ -5515,6 +5517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chico's Delivery | 406052 | [406052-chicos-delivery.json](./406052-chicos-delivery.json) |
 | Chico's Rebound | 345050 | [345050-chicos-rebound.json](./345050-chicos-rebound.json) |
 | ChicScape | 152777 | [152777-chicscape.json](./152777-chicscape.json) |
+| Chiebura | 130585 | [130585-chiebura.json](./130585-chiebura.json) |
 | Chief Almighty | 231959 | [231959-chief-almighty.json](./231959-chief-almighty.json) |
 | Chief Bubble Officer | 413163 | [413163-chief-bubble-officer.json](./413163-chief-bubble-officer.json) |
 | Chief Cenab: Şahmaran | 391347 | [391347-chief-cenab-sahmaran.json](./391347-chief-cenab-sahmaran.json) |
@@ -11885,6 +11888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countermark Saga: The Tale of Fariz | 326209 | [326209-countermark-saga-the-tale-of-fariz.json](./326209-countermark-saga-the-tale-of-fariz.json) |
 | Countermeasure | 12306 | [12306-countermeasure.json](./12306-countermeasure.json) |
 | Counterpact | 221155 | [221155-counterpact.json](./221155-counterpact.json) |
+| Counterrealstic Syndrome γ | 130588 | [130588-counterrealstic-syndrome.json](./130588-counterrealstic-syndrome.json) |
 | CounterShots 1.0 | 131309 | [131309-countershots-1-0.json](./131309-countershots-1-0.json) |
 | CounterSide | 132648 | [132648-counterside.json](./132648-counterside.json) |
 | Countersnipe | 127186 | [127186-countersnipe.json](./127186-countersnipe.json) |
@@ -12081,6 +12085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboys & Zombies VR | 226185 | [226185-cowboys-and-zombies-vr.json](./226185-cowboys-and-zombies-vr.json) |
 | Cowboys Galaxy Adventures | 193823 | [193823-cowboys-galaxy-adventures.json](./193823-cowboys-galaxy-adventures.json) |
 | Cowboys n' Stuff | 169386 | [169386-cowboys-n-stuff.json](./169386-cowboys-n-stuff.json) |
+| Cowboys vs Hipsters | 130572 | [130572-cowboys-vs-hipsters.json](./130572-cowboys-vs-hipsters.json) |
 | Cowboys vs. Monsters | 302096 | [302096-cowboys-vs-monsters.json](./302096-cowboys-vs-monsters.json) |
 | Cowboys vs. Zombies | 328545 | [328545-cowboys-vs-zombies.json](./328545-cowboys-vs-zombies.json) |
 | Cowboys vs. Zombies: Gold Edition | 413575 | [413575-cowboys-vs-zombies-gold-edition.json](./413575-cowboys-vs-zombies-gold-edition.json) |
