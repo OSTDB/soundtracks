@@ -6244,6 +6244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extinction: Alien Invasion | 116086 | [116086-extinction-alien-invasion.json](./116086-extinction-alien-invasion.json) |
 | Extinction: Deluxe Edition | 85473 | [85473-extinction-deluxe-edition.json](./85473-extinction-deluxe-edition.json) |
 | Extirpate | 291532 | [291532-extirpate.json](./291532-extirpate.json) |
+| Extopia | 108162 | [108162-extopia.json](./108162-extopia.json) |
 | Extortion | 146163 | [146163-extortion.json](./146163-extortion.json) |
 | Extra Bases | 100300 | [100300-extra-bases.json](./100300-extra-bases.json) |
 | Extra Bright | 43795 | [43795-extra-bright.json](./43795-extra-bright.json) |
