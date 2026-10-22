@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panama Canal Clash | 367547 | [367547-panama-canal-clash.json](./367547-panama-canal-clash.json) |
 | Panasonic Prime Smash! | 340350 | [340350-panasonic-prime-smash.json](./340350-panasonic-prime-smash.json) |
 | Pancake | 305467 | [305467-pancake.json](./305467-pancake.json) |
+| Pancake Bar Tycoon | 147152 | [147152-pancake-bar-tycoon.json](./147152-pancake-bar-tycoon.json) |
 | Pancake Bar Tycoon: Expansion Pack 1 | 237915 | [237915-pancake-bar-tycoon-expansion-pack-1.json](./237915-pancake-bar-tycoon-expansion-pack-1.json) |
 | Pancake Bar Tycoon: Expansion Pack 2 | 237916 | [237916-pancake-bar-tycoon-expansion-pack-2.json](./237916-pancake-bar-tycoon-expansion-pack-2.json) |
 | Pancake Bar Tycoon: Extended Edition | 207902 | [207902-pancake-bar-tycoon-extended-edition.json](./207902-pancake-bar-tycoon-extended-edition.json) |
@@ -8609,6 +8610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Garnet | 323792 | [323792-pokemon-garnet.json](./323792-pokemon-garnet.json) |
 | Pokémon Giovanni Origins | 252055 | [252055-pokemon-giovanni-origins.json](./252055-pokemon-giovanni-origins.json) |
 | Pokémon Glacial Chronicles | 360193 | [360193-pokemon-glacial-chronicles.json](./360193-pokemon-glacial-chronicles.json) |
+| Pokémon Glazed | 147055 | [147055-pokemon-glazed.json](./147055-pokemon-glazed.json) |
 | Pokémon Go: Adventures Abound | 383002 | [383002-pokemon-go-adventures-abound.json](./383002-pokemon-go-adventures-abound.json) |
 | Pokémon Go: Delightful Days | 382998 | [382998-pokemon-go-delightful-days.json](./382998-pokemon-go-delightful-days.json) |
 | Pokémon Go: Dual Destiny | 323177 | [323177-pokemon-go-dual-destiny.json](./323177-pokemon-go-dual-destiny.json) |
@@ -8983,6 +8985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Master | 167586 | [167586-poker-master.json](./167586-poker-master.json) |
 | Poker Mega Pack | 118884 | [118884-poker-mega-pack.json](./118884-poker-mega-pack.json) |
 | Poker Memory | 150441 | [150441-poker-memory.json](./150441-poker-memory.json) |
+| Poker Night | 147158 | [147158-poker-night.json](./147158-poker-night.json) |
 | Poker Night 2 | 2047 | [2047-poker-night-2.json](./2047-poker-night-2.json) |
 | Poker Night with David Sklansky | 209347 | [209347-poker-night-with-david-sklansky.json](./209347-poker-night-with-david-sklansky.json) |
 | Poker Now | 225708 | [225708-poker-now.json](./225708-poker-now.json) |
@@ -10610,6 +10613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerstation 17 | 337433 | [337433-powerstation-17.json](./337433-powerstation-17.json) |
 | Powerstation 64 | 273249 | [273249-powerstation-64.json](./273249-powerstation-64.json) |
 | PowersVR | 29540 | [29540-powersvr.json](./29540-powersvr.json) |
+| Powertris | 147136 | [147136-powertris.json](./147136-powertris.json) |
 | Powerup | 327194 | [327194-powerup.json](./327194-powerup.json) |
 | PowerUp Heroes | 510 | [510-powerup-heroes.json](./510-powerup-heroes.json) |
 | Powerup Humans | 290488 | [290488-powerup-humans.json](./290488-powerup-humans.json) |
