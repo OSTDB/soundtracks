@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Seiya RPG: Asgard Chapter | 279231 | [279231-saint-seiya-rpg-asgard-chapter.json](./279231-saint-seiya-rpg-asgard-chapter.json) |
 | Saint Seiya Shining Soldiers | 129130 | [129130-saint-seiya-shining-soldiers.json](./129130-saint-seiya-shining-soldiers.json) |
 | Saint Seiya Typing: Ryu Sei Ken | 63279 | [63279-saint-seiya-typing-ryu-sei-ken.json](./63279-saint-seiya-typing-ryu-sei-ken.json) |
+| Saint Seiya: Awakening | 122667 | [122667-saint-seiya-awakening.json](./122667-saint-seiya-awakening.json) |
 | Saint Seiya: Brave Soldiers | 25202 | [25202-saint-seiya-brave-soldiers.json](./25202-saint-seiya-brave-soldiers.json) |
 | Saint Seiya: Brave Soldiers + Aries Shion | 99553 | [99553-saint-seiya-brave-soldiers-aries-shion.json](./99553-saint-seiya-brave-soldiers-aries-shion.json) |
 | Saint Seiya: Galaxy Spirits | 139406 | [139406-saint-seiya-galaxy-spirits.json](./139406-saint-seiya-galaxy-spirits.json) |
@@ -1149,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | San Francisco Rush 2049 | 3596 | [3596-san-francisco-rush-2049.json](./3596-san-francisco-rush-2049.json) |
 | San Francisco Rush: Extreme Racing | 264854 | [264854-san-francisco-rush-extreme-racing.json](./264854-san-francisco-rush-extreme-racing.json) |
 | San Francisco Rush: Extreme Racing | 3595 | [3595-san-francisco-rush-extreme-racing.json](./3595-san-francisco-rush-extreme-racing.json) |
+| San Francisco Rush: The Rock Alcatraz Edition | 122731 | [122731-san-francisco-rush-the-rock-alcatraz-edition.json](./122731-san-francisco-rush-the-rock-alcatraz-edition.json) |
 | San Xing Dui | 257235 | [257235-san-xing-dui.json](./257235-san-xing-dui.json) |
 | San Zoolin | 202132 | [202132-san-zoolin.json](./202132-san-zoolin.json) |
 | San-nin Mahjong | 54945 | [54945-san-nin-mahjong.json](./54945-san-nin-mahjong.json) |
