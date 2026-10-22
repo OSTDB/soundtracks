@@ -13113,6 +13113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepers | 15478 | [15478-creepers.json](./15478-creepers.json) |
 | Creeping Clark | 336169 | [336169-creeping-clark.json](./336169-creeping-clark.json) |
 | Creeping Deck: Pharaoh's Curse | 225228 | [225228-creeping-deck-pharaohs-curse.json](./225228-creeping-deck-pharaohs-curse.json) |
+| Creeping It Reel | 141049 | [141049-creeping-it-reel.json](./141049-creeping-it-reel.json) |
 | Creepless | 253427 | [253427-creepless.json](./253427-creepless.json) |
 | Creepo's Tales: Chopping Mall | 310556 | [310556-creepos-tales-chopping-mall.json](./310556-creepos-tales-chopping-mall.json) |
 | Creepshow | 272838 | [272838-creepshow.json](./272838-creepshow.json) |
@@ -14226,6 +14227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt of the Serpent King: Remastered - 4K Edition | 208456 | [208456-crypt-of-the-serpent-king-remastered-4k-edition.json](./208456-crypt-of-the-serpent-king-remastered-4k-edition.json) |
 | Crypt of the Undead | 24862 | [24862-crypt-of-the-undead.json](./24862-crypt-of-the-undead.json) |
 | Crypt Raider | 263476 | [263476-crypt-raider.json](./263476-crypt-raider.json) |
+| Crypt Stalker | 140858 | [140858-crypt-stalker.json](./140858-crypt-stalker.json) |
 | Crypt Stalker: Boss Rush+ | 303873 | [303873-crypt-stalker-boss-rush.json](./303873-crypt-stalker-boss-rush.json) |
 | Crypt Stalker: Extended Edition | 308796 | [308796-crypt-stalker-extended-edition.json](./308796-crypt-stalker-extended-edition.json) |
 | Crypt Stalker: Extra Quests | 303874 | [303874-crypt-stalker-extra-quests.json](./303874-crypt-stalker-extra-quests.json) |
