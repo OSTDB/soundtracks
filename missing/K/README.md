@@ -2300,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KinForge | 377893 | [377893-kinforge.json](./377893-kinforge.json) |
 | King 'n Knight | 153944 | [153944-king-n-knight.json](./153944-king-n-knight.json) |
 | King and Assassins | 175230 | [175230-king-and-assassins.json](./175230-king-and-assassins.json) |
+| King and Assassins: The Board Game | 106907 | [106907-king-and-assassins-the-board-game.json](./106907-king-and-assassins-the-board-game.json) |
 | King and Country | 151148 | [151148-king-and-country.json](./151148-king-and-country.json) |
 | King and Kingdoms | 149687 | [149687-king-and-kingdoms.json](./149687-king-and-kingdoms.json) |
 | King Arthur | 3967 | [3967-king-arthur.json](./3967-king-arthur.json) |
