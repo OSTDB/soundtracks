@@ -3074,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nia in Mushroom World | 185511 | [185511-nia-in-mushroom-world.json](./185511-nia-in-mushroom-world.json) |
 | Nia: Jewel Hunter | 358299 | [358299-nia-jewel-hunter.json](./358299-nia-jewel-hunter.json) |
 | Niaki | 262065 | [262065-niaki.json](./262065-niaki.json) |
+| Niara: Rebellion of the King Visual Novel RPG | 118648 | [118648-niara-rebellion-of-the-king-visual-novel-rpg.json](./118648-niara-rebellion-of-the-king-visual-novel-rpg.json) |
 | Niatang | 249643 | [249643-niatang.json](./249643-niatang.json) |
 | Nib, the Pen is Mightier AS a Sword | 141011 | [141011-nib-the-pen-is-mightier-as-a-sword.json](./141011-nib-the-pen-is-mightier-as-a-sword.json) |
 | Nibansen Plus | 295470 | [295470-nibansen-plus.json](./295470-nibansen-plus.json) |
