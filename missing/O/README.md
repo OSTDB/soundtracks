@@ -2813,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ophidia | 36523 | [36523-ophidia.json](./36523-ophidia.json) |
 | Opi Popi | 398690 | [398690-opi-popi.json](./398690-opi-popi.json) |
 | Opia | 322946 | [322946-opia.json](./322946-opia.json) |
+| Opie: The Defender | 115354 | [115354-opie-the-defender.json](./115354-opie-the-defender.json) |
 | Opioid visions 88 | 319687 | [319687-opioid-visions-88.json](./319687-opioid-visions-88.json) |
 | Oplero | 330672 | [330672-oplero.json](./330672-oplero.json) |
 | Oplitak | 155982 | [155982-oplitak.json](./155982-oplitak.json) |
