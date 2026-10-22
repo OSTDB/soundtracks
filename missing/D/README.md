@@ -7208,6 +7208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension Fight | 286789 | [286789-dimension-fight.json](./286789-dimension-fight.json) |
 | Dimension M | 213969 | [213969-dimension-m.json](./213969-dimension-m.json) |
 | Dimension of Dreams | 155881 | [155881-dimension-of-dreams.json](./155881-dimension-of-dreams.json) |
+| Dimension of Gameth | 110722 | [110722-dimension-of-gameth.json](./110722-dimension-of-gameth.json) |
 | Dimension of Monster Girls | 89608 | [89608-dimension-of-monster-girls.json](./89608-dimension-of-monster-girls.json) |
 | Dimension of the Boomed | 251546 | [251546-dimension-of-the-boomed.json](./251546-dimension-of-the-boomed.json) |
 | Dimension of the Diminished | 271723 | [271723-dimension-of-the-diminished.json](./271723-dimension-of-the-diminished.json) |
@@ -7881,6 +7882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discrepant | 32815 | [32815-discrepant.json](./32815-discrepant.json) |
 | Discrete Heart | 285536 | [285536-discrete-heart.json](./285536-discrete-heart.json) |
 | Discrete Orange | 312348 | [312348-discrete-orange.json](./312348-discrete-orange.json) |
+| Discs of Steel Party | 110718 | [110718-discs-of-steel-party.json](./110718-discs-of-steel-party.json) |
 | Discs of Tron | 21817 | [21817-discs-of-tron.json](./21817-discs-of-tron.json) |
 | Discsphere | 135026 | [135026-discsphere.json](./135026-discsphere.json) |
 | Discus | 247046 | [247046-discus.json](./247046-discus.json) |
@@ -8585,6 +8587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ Puff's Volcanic Capers | 47215 | [47215-dj-puffs-volcanic-capers.json](./47215-dj-puffs-volcanic-capers.json) |
 | DJ Simulator | 303479 | [303479-dj-simulator.json](./303479-dj-simulator.json) |
 | DJ Star | 21243 | [21243-dj-star.json](./21243-dj-star.json) |
+| DJ Whip VR | 110693 | [110693-dj-whip-vr.json](./110693-dj-whip-vr.json) |
 | DJ Word Master | 105837 | [105837-dj-word-master.json](./105837-dj-word-master.json) |
 | Django | 152658 | [152658-django.json](./152658-django.json) |
 | Djikstra's Enigmatic Puzzle Cube | 278423 | [278423-djikstras-enigmatic-puzzle-cube.json](./278423-djikstras-enigmatic-puzzle-cube.json) |
@@ -9285,6 +9288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokutsu Randamu | 384656 | [384656-dokutsu-randamu.json](./384656-dokutsu-randamu.json) |
 | Dokutsujima | 222396 | [222396-dokutsujima.json](./222396-dokutsujima.json) |
 | Dokyusei: Bangin' Summer - Home Edition | 304282 | [304282-dokyusei-bangin-summer-home-edition.json](./304282-dokyusei-bangin-summer-home-edition.json) |
+| Dola | 110741 | [110741-dola.json](./110741-dola.json) |
 | Dolan Kart | 96914 | [96914-dolan-kart.json](./96914-dolan-kart.json) |
 | Dolan Reborn | 265685 | [265685-dolan-reborn.json](./265685-dolan-reborn.json) |
 | Dolce | 229972 | [229972-dolce.json](./229972-dolce.json) |
@@ -10697,6 +10701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Play | 170258 | [170258-double-play.json](./170258-double-play.json) |
 | Double Play Adventure: Time Quest / Crystal Quest | 85973 | [85973-double-play-adventure-time-quest-crystal-quest.json](./85973-double-play-adventure-time-quest-crystal-quest.json) |
 | Double Point | 40097 | [40097-double-point.json](./40097-double-point.json) |
+| Double Pug Switch | 110687 | [110687-double-pug-switch.json](./110687-double-pug-switch.json) |
 | Double Puzzled | 243794 | [243794-double-puzzled.json](./243794-double-puzzled.json) |
 | Double Reaction! Plus | 175973 | [175973-double-reaction-plus.json](./175973-double-reaction-plus.json) |
 | Double Romance | 172424 | [172424-double-romance.json](./172424-double-romance.json) |
