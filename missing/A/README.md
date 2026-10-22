@@ -3753,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AH3AD: Retrowave Runner | 191583 | [191583-ah3ad-retrowave-runner.json](./191583-ah3ad-retrowave-runner.json) |
 | Aha Hit tile 3D | 101321 | [101321-aha-hit-tile-3d.json](./101321-aha-hit-tile-3d.json) |
 | Aha Link Color: Cross | 101967 | [101967-aha-link-color-cross.json](./101967-aha-link-color-cross.json) |
+| Aha Rally Car | 104431 | [104431-aha-rally-car.json](./104431-aha-rally-car.json) |
 | Aha! | 86026 | [86026-aha.json](./86026-aha.json) |
 | Aha! Art na Machigai-sagashi | 251512 | [251512-aha-art-na-machigai-sagashi.json](./251512-aha-art-na-machigai-sagashi.json) |
 | Aha! I Found It! Hidden Object Game | 51099 | [51099-aha-i-found-it-hidden-object-game.json](./51099-aha-i-found-it-hidden-object-game.json) |
@@ -4069,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Jet Fighter Combat: Europe Fly Plane Attack | 234624 | [234624-air-jet-fighter-combat-europe-fly-plane-attack.json](./234624-air-jet-fighter-combat-europe-fly-plane-attack.json) |
 | Air Land Sea | 79610 | [79610-air-land-sea.json](./79610-air-land-sea.json) |
 | Air Legends | 77273 | [77273-air-legends.json](./77273-air-legends.json) |
+| Air Mail | 104424 | [104424-air-mail.json](./104424-air-mail.json) |
 | Air Management '96 | 45431 | [45431-air-management-96.json](./45431-air-management-96.json) |
 | Air Marty | 118136 | [118136-air-marty.json](./118136-air-marty.json) |
 | Air Master Hanemaru | 346747 | [346747-air-master-hanemaru.json](./346747-air-master-hanemaru.json) |
@@ -6814,6 +6816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amy Rose in Sonic the Hedgehog | 129176 | [129176-amy-rose-in-sonic-the-hedgehog.json](./129176-amy-rose-in-sonic-the-hedgehog.json) |
 | Amy Rose in Sonic the Hedgehog 2 | 129177 | [129177-amy-rose-in-sonic-the-hedgehog-2.json](./129177-amy-rose-in-sonic-the-hedgehog-2.json) |
 | Amy's American Page One | 261277 | [261277-amys-american-page-one.json](./261277-amys-american-page-one.json) |
+| Amy's Animal Hair Salon | 104426 | [104426-amys-animal-hair-salon.json](./104426-amys-animal-hair-salon.json) |
 | Amy's Fun-2-3 Adventure | 14255 | [14255-amys-fun-2-3-adventure.json](./14255-amys-fun-2-3-adventure.json) |
 | Amy's Greenmart | 133183 | [133183-amys-greenmart.json](./133183-amys-greenmart.json) |
 | Amygdala | 268142 | [268142-amygdala.json](./268142-amygdala.json) |
@@ -7093,6 +7096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Souls Tamag | 167676 | [167676-ancient-souls-tamag.json](./167676-ancient-souls-tamag.json) |
 | Ancient Souls: Starship Renata | 172378 | [172378-ancient-souls-starship-renata.json](./172378-ancient-souls-starship-renata.json) |
 | Ancient Spider | 190936 | [190936-ancient-spider.json](./190936-ancient-spider.json) |
+| Ancient Spirits: Columbus' Legacy | 104503 | [104503-ancient-spirits-columbus-legacy.json](./104503-ancient-spirits-columbus-legacy.json) |
 | Ancient Stars | 277014 | [277014-ancient-stars.json](./277014-ancient-stars.json) |
 | Ancient Stories: Gods of Egypt | 119684 | [119684-ancient-stories-gods-of-egypt.json](./119684-ancient-stories-gods-of-egypt.json) |
 | Ancient Swarm | 410345 | [410345-ancient-swarm.json](./410345-ancient-swarm.json) |
