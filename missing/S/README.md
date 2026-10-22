@@ -9634,6 +9634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skulldude | 181220 | [181220-skulldude.json](./181220-skulldude.json) |
 | Skullforge: The Hunt | 110272 | [110272-skullforge-the-hunt.json](./110272-skullforge-the-hunt.json) |
 | Skullgirls Encore: Beowulf | 127262 | [127262-skullgirls-encore-beowulf.json](./127262-skullgirls-encore-beowulf.json) |
+| Skullgirls Encore: Five Characters & Complete Colors Pack | 127568 | [127568-skullgirls-encore-five-characters-and-complete-colors-pack.json](./127568-skullgirls-encore-five-characters-and-complete-colors-pack.json) |
 | Skullgirls: 2nd Encore | 11179 | [11179-skullgirls-2nd-encore.json](./11179-skullgirls-2nd-encore.json) |
 | Skullgirls: 2nd Encore - Annie | 167349 | [167349-skullgirls-2nd-encore-annie.json](./167349-skullgirls-2nd-encore-annie.json) |
 | Skullgirls: 2nd Encore - Umbrella | 231240 | [231240-skullgirls-2nd-encore-umbrella.json](./231240-skullgirls-2nd-encore-umbrella.json) |
@@ -10683,6 +10684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slippery ice | 177008 | [177008-slippery-ice.json](./177008-slippery-ice.json) |
 | Slippery Richard!: He's Taller Than My Husband | 225100 | [225100-slippery-richard-hes-taller-than-my-husband.json](./225100-slippery-richard-hes-taller-than-my-husband.json) |
 | Slippery Sammy | 252982 | [252982-slippery-sammy.json](./252982-slippery-sammy.json) |
+| Slippery Sausage | 127594 | [127594-slippery-sausage.json](./127594-slippery-sausage.json) |
 | Slippery Sid | 255769 | [255769-slippery-sid.json](./255769-slippery-sid.json) |
 | Slippery Words | 208925 | [208925-slippery-words.json](./208925-slippery-words.json) |
 | Slippy Bear | 337746 | [337746-slippy-bear.json](./337746-slippy-bear.json) |
@@ -14119,6 +14121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer King | 9472 | [9472-sorcerer-king.json](./9472-sorcerer-king.json) |
 | Sorcerer King: Rivals | 24922 | [24922-sorcerer-king-rivals.json](./24922-sorcerer-king-rivals.json) |
 | Sorcerer Knights | 171872 | [171872-sorcerer-knights.json](./171872-sorcerer-knights.json) |
+| Sorcerer Lord | 127605 | [127605-sorcerer-lord.json](./127605-sorcerer-lord.json) |
 | Sorcerer Lord | 36908 | [36908-sorcerer-lord.json](./36908-sorcerer-lord.json) |
 | Sorcerer of Fortune | 175439 | [175439-sorcerer-of-fortune.json](./175439-sorcerer-of-fortune.json) |
 | Sorcerer of Revenge | 134636 | [134636-sorcerer-of-revenge.json](./134636-sorcerer-of-revenge.json) |
@@ -22081,6 +22084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike World | 407294 | [407294-strike-world.json](./407294-strike-world.json) |
 | Strike Zone Baseball | 40432 | [40432-strike-zone-baseball.json](./40432-strike-zone-baseball.json) |
 | Strike! Ten Pin Bowling | 147619 | [147619-strike-ten-pin-bowling.json](./147619-strike-ten-pin-bowling.json) |
+| Strike!OvulationDivine Fist! Rebellion to Extinction! | 127622 | [127622-strike-ovulationdivine-fist-rebellion-to-extinction.json](./127622-strike-ovulationdivine-fist-rebellion-to-extinction.json) |
 | Strike.is: The Game | 32046 | [32046-strike-is-the-game.json](./32046-strike-is-the-game.json) |
 | Strikefleet Omega | 63147 | [63147-strikefleet-omega.json](./63147-strikefleet-omega.json) |
 | Strikeforce | 361229 | [361229-strikeforce.json](./361229-strikeforce.json) |
@@ -26842,6 +26846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspicious Downpour | 152462 | [152462-suspicious-downpour.json](./152462-suspicious-downpour.json) |
 | Suspicious Person Information | 275904 | [275904-suspicious-person-information.json](./275904-suspicious-person-information.json) |
 | Suspicious Shuffle | 219557 | [219557-suspicious-shuffle.json](./219557-suspicious-shuffle.json) |
+| Suspicious Slide | 127575 | [127575-suspicious-slide.json](./127575-suspicious-slide.json) |
 | Suspicious Spaceroads | 167546 | [167546-suspicious-spaceroads.json](./167546-suspicious-spaceroads.json) |
 | Sussy Cat | 401075 | [401075-sussy-cat.json](./401075-sussy-cat.json) |
 | Sussy's Floppy Disk-venture | 204212 | [204212-sussys-floppy-disk-venture.json](./204212-sussys-floppy-disk-venture.json) |
