@@ -1183,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Raider II | 14282 | [14282-ball-raider-ii.json](./14282-ball-raider-ii.json) |
 | Ball Ranger | 174032 | [174032-ball-ranger.json](./174032-ball-ranger.json) |
 | Ball Relay | 108471 | [108471-ball-relay.json](./108471-ball-relay.json) |
+| Ball Resurrection | 100624 | [100624-ball-resurrection.json](./100624-ball-resurrection.json) |
 | Ball Revamped | 381187 | [381187-ball-revamped.json](./381187-ball-revamped.json) |
 | Ball Revamped 2: Metaphysik | 381191 | [381191-ball-revamped-2-metaphysik.json](./381191-ball-revamped-2-metaphysik.json) |
 | Ball Revamped III: Andromeda | 381213 | [381213-ball-revamped-iii-andromeda.json](./381213-ball-revamped-iii-andromeda.json) |
@@ -9727,6 +9728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Around | 332397 | [332397-bomb-around.json](./332397-bomb-around.json) |
 | Bomb Bee N | 145395 | [145395-bomb-bee-n.json](./145395-bomb-bee-n.json) |
 | Bomb Bomb Bomb | 248900 | [248900-bomb-bomb-bomb.json](./248900-bomb-bomb-bomb.json) |
+| Bomb Bomb! My Friends | 100628 | [100628-bomb-bomb-my-friends.json](./100628-bomb-bomb-my-friends.json) |
 | Bomb Bots Arena | 115134 | [115134-bomb-bots-arena.json](./115134-bomb-bots-arena.json) |
 | Bomb Bowling | 307307 | [307307-bomb-bowling.json](./307307-bomb-bowling.json) |
 | Bomb Bowling 2 | 124189 | [124189-bomb-bowling-2.json](./124189-bomb-bowling-2.json) |
