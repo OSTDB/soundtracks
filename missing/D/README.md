@@ -9340,6 +9340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dollhouse | 11668 | [11668-dollhouse.json](./11668-dollhouse.json) |
 | Dollhouse | 125217 | [125217-dollhouse.json](./125217-dollhouse.json) |
 | Dollhouse | 335237 | [335237-dollhouse.json](./335237-dollhouse.json) |
+| Dollhouse Builder Craft: Doll House Building Games | 102549 | [102549-dollhouse-builder-craft-doll-house-building-games.json](./102549-dollhouse-builder-craft-doll-house-building-games.json) |
 | Dollhouse of Dead | 366724 | [366724-dollhouse-of-dead.json](./366724-dollhouse-of-dead.json) |
 | Dollhouse: Deluxe Edition | 120800 | [120800-dollhouse-deluxe-edition.json](./120800-dollhouse-deluxe-edition.json) |
 | DollHouse: Survive or Death | 263026 | [263026-dollhouse-survive-or-death.json](./263026-dollhouse-survive-or-death.json) |
@@ -11792,6 +11793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Storm Fantasy | 193979 | [193979-dragon-storm-fantasy.json](./193979-dragon-storm-fantasy.json) |
 | Dragon Story | 38899 | [38899-dragon-story.json](./38899-dragon-story.json) |
 | Dragon Super: Saiyan Ball Z | 100847 | [100847-dragon-super-saiyan-ball-z.json](./100847-dragon-super-saiyan-ball-z.json) |
+| Dragon Super: Saiyan Warriors | 102557 | [102557-dragon-super-saiyan-warriors.json](./102557-dragon-super-saiyan-warriors.json) |
 | Dragon Survival | 373180 | [373180-dragon-survival.json](./373180-dragon-survival.json) |
 | Dragon Survivors | 238430 | [238430-dragon-survivors.json](./238430-dragon-survivors.json) |
 | Dragon Swarm | 87240 | [87240-dragon-swarm.json](./87240-dragon-swarm.json) |
