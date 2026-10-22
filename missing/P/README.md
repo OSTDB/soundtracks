@@ -2925,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peasant or Rebel? | 390071 | [390071-peasant-or-rebel.json](./390071-peasant-or-rebel.json) |
 | Peasant Royale | 277746 | [277746-peasant-royale.json](./277746-peasant-royale.json) |
 | Peasant TD | 195158 | [195158-peasant-td.json](./195158-peasant-td.json) |
+| Peasant Uprise | 129417 | [129417-peasant-uprise.json](./129417-peasant-uprise.json) |
 | Peasants | 156594 | [156594-peasants.json](./156594-peasants.json) |
 | Peasants War | 380187 | [380187-peasants-war.json](./380187-peasants-war.json) |
 | Pease | 289750 | [289750-pease.json](./289750-pease.json) |
@@ -3338,6 +3339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pepper Rush | 382890 | [382890-pepper-rush.json](./382890-pepper-rush.json) |
 | Pepper's Castle | 195398 | [195398-peppers-castle.json](./195398-peppers-castle.json) |
 | Pepper's Puzzles | 52085 | [52085-peppers-puzzles.json](./52085-peppers-puzzles.json) |
+| Peppered | 129445 | [129445-peppered.json](./129445-peppered.json) |
 | Peppered: An Existential Platformer | 170018 | [170018-peppered-an-existential-platformer.json](./170018-peppered-an-existential-platformer.json) |
 | Peppermint Falls | 290527 | [290527-peppermint-falls.json](./290527-peppermint-falls.json) |
 | Peppy | 93575 | [93575-peppy.json](./93575-peppy.json) |
@@ -5138,6 +5140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pile Up! Bakery | 66657 | [66657-pile-up-bakery.json](./66657-pile-up-bakery.json) |
 | Pile Wonder | 58617 | [58617-pile-wonder.json](./58617-pile-wonder.json) |
 | Pileus Bad Trip | 391784 | [391784-pileus-bad-trip.json](./391784-pileus-bad-trip.json) |
+| Pilfer | 129434 | [129434-pilfer.json](./129434-pilfer.json) |
 | Pilfer | 388710 | [388710-pilfer.json](./388710-pilfer.json) |
 | Pilgrim | 229788 | [229788-pilgrim.json](./229788-pilgrim.json) |
 | Pilgrim | 301813 | [301813-pilgrim.json](./301813-pilgrim.json) |
@@ -5799,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipedreamz | 396705 | [396705-pipedreamz.json](./396705-pipedreamz.json) |
 | Pipejob | 30771 | [30771-pipejob.json](./30771-pipejob.json) |
 | PipeLand Roll HD | 108860 | [108860-pipeland-roll-hd.json](./108860-pipeland-roll-hd.json) |
+| Pipeline of Emperor Yu | 129424 | [129424-pipeline-of-emperor-yu.json](./129424-pipeline-of-emperor-yu.json) |
 | Pipeline of Emperor Yu | 130785 | [130785-pipeline-of-emperor-yu.json](./130785-pipeline-of-emperor-yu.json) |
 | Pipeline RTX | 192980 | [192980-pipeline-rtx.json](./192980-pipeline-rtx.json) |
 | Pipeline Tycoon | 388304 | [388304-pipeline-tycoon.json](./388304-pipeline-tycoon.json) |
@@ -13618,6 +13622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pupil: Wandering VR | 117834 | [117834-pupil-wandering-vr.json](./117834-pupil-wandering-vr.json) |
 | Pupillary | 408296 | [408296-pupillary.json](./408296-pupillary.json) |
 | Puppe Yerde | 392753 | [392753-puppe-yerde.json](./392753-puppe-yerde.json) |
+| Pupper Park | 129428 | [129428-pupper-park.json](./129428-pupper-park.json) |
 | Puppergeist | 375515 | [375515-puppergeist.json](./375515-puppergeist.json) |
 | Puppers Delivers | 183430 | [183430-puppers-delivers.json](./183430-puppers-delivers.json) |
 | Puppertrator | 185399 | [185399-puppertrator.json](./185399-puppertrator.json) |
