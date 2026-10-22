@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XenovaderS | 133355 | [133355-xenovaders.json](./133355-xenovaders.json) |
 | Xenoverse: Per Aspera Ad Astra | 141703 | [141703-xenoverse-per-aspera-ad-astra.json](./141703-xenoverse-per-aspera-ad-astra.json) |
 | Xenowar | 70390 | [70390-xenowar.json](./70390-xenowar.json) |
+| Xenowerk Tactics | 121253 | [121253-xenowerk-tactics.json](./121253-xenowerk-tactics.json) |
 | XenoWorld: The Rondeau of Astra | 236951 | [236951-xenoworld-the-rondeau-of-astra.json](./236951-xenoworld-the-rondeau-of-astra.json) |
 | Xenrai | 122960 | [122960-xenrai.json](./122960-xenrai.json) |
 | Xentra Station | 361056 | [361056-xentra-station.json](./361056-xentra-station.json) |
