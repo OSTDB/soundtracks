@@ -3847,6 +3847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masochisia | 13189 | [13189-masochisia.json](./13189-masochisia.json) |
 | Masochistic Maiden Aria and the Cavern of Blissful Agony | 252178 | [252178-masochistic-maiden-aria-and-the-cavern-of-blissful-agony.json](./252178-masochistic-maiden-aria-and-the-cavern-of-blissful-agony.json) |
 | Mason and Strings | 183606 | [183606-mason-and-strings.json](./183606-mason-and-strings.json) |
+| Mason: Building Bricks | 141068 | [141068-mason-building-bricks.json](./141068-mason-building-bricks.json) |
 | Masonic Mysteries: Secrets Unveiled | 249087 | [249087-masonic-mysteries-secrets-unveiled.json](./249087-masonic-mysteries-secrets-unveiled.json) |
 | Masq | 93353 | [93353-masq.json](./93353-masq.json) |
 | Masquaradious | 266291 | [266291-masquaradious.json](./266291-masquaradious.json) |
@@ -6697,6 +6698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memento Mori | 271182 | [271182-memento-mori.json](./271182-memento-mori.json) |
 | Memento Mori | 28231 | [28231-memento-mori.json](./28231-memento-mori.json) |
 | Memento Mori 2 | 16529 | [16529-memento-mori-2.json](./16529-memento-mori-2.json) |
+| Memento Mori II | 141064 | [141064-memento-mori-ii.json](./141064-memento-mori-ii.json) |
 | Memento of Spring | 80923 | [80923-memento-of-spring.json](./80923-memento-of-spring.json) |
 | Memento Vivere | 161355 | [161355-memento-vivere.json](./161355-memento-vivere.json) |
 | Memento*Fragment | 410256 | [410256-memento-fragment.json](./410256-memento-fragment.json) |
@@ -13311,20 +13313,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Alien | 27889 | [27889-mortal-kombat-x-alien.json](./27889-mortal-kombat-x-alien.json) |
 | Mortal Kombat X: Apocalypse Pack | 302667 | [302667-mortal-kombat-x-apocalypse-pack.json](./302667-mortal-kombat-x-apocalypse-pack.json) |
 | Mortal Kombat X: Blue Steel Sub-Zero | 304364 | [304364-mortal-kombat-x-blue-steel-sub-zero.json](./304364-mortal-kombat-x-blue-steel-sub-zero.json) |
+| Mortal Kombat X: Bo' Rai Cho | 141054 | [141054-mortal-kombat-x-bo-rai-cho.json](./141054-mortal-kombat-x-bo-rai-cho.json) |
 | Mortal Kombat X: Brazil Pack | 304366 | [304366-mortal-kombat-x-brazil-pack.json](./304366-mortal-kombat-x-brazil-pack.json) |
 | Mortal Kombat X: Cosplay Pack | 296024 | [296024-mortal-kombat-x-cosplay-pack.json](./296024-mortal-kombat-x-cosplay-pack.json) |
 | Mortal Kombat X: Gold Scorpion | 305613 | [305613-mortal-kombat-x-gold-scorpion.json](./305613-mortal-kombat-x-gold-scorpion.json) |
+| Mortal Kombat X: Goro | 141052 | [141052-mortal-kombat-x-goro.json](./141052-mortal-kombat-x-goro.json) |
 | Mortal Kombat X: Horror Pack | 305611 | [305611-mortal-kombat-x-horror-pack.json](./305611-mortal-kombat-x-horror-pack.json) |
 | Mortal Kombat X: Klassic Fatalities 1 | 339949 | [339949-mortal-kombat-x-klassic-fatalities-1.json](./339949-mortal-kombat-x-klassic-fatalities-1.json) |
 | Mortal Kombat X: Klassic Fatalities 2 | 340022 | [340022-mortal-kombat-x-klassic-fatalities-2.json](./340022-mortal-kombat-x-klassic-fatalities-2.json) |
 | Mortal Kombat X: Kold War Scorpion | 340201 | [340201-mortal-kombat-x-kold-war-scorpion.json](./340201-mortal-kombat-x-kold-war-scorpion.json) |
 | Mortal Kombat X: Kollector's Edition | 45150 | [45150-mortal-kombat-x-kollectors-edition.json](./45150-mortal-kombat-x-kollectors-edition.json) |
+| Mortal Kombat X: Leatherface | 141053 | [141053-mortal-kombat-x-leatherface.json](./141053-mortal-kombat-x-leatherface.json) |
 | Mortal Kombat X: Predator | 164819 | [164819-mortal-kombat-x-predator.json](./164819-mortal-kombat-x-predator.json) |
 | Mortal Kombat X: Predator/Prey Pack | 303142 | [303142-mortal-kombat-x-predator-prey-pack.json](./303142-mortal-kombat-x-predator-prey-pack.json) |
 | Mortal Kombat X: Premium Edition | 53367 | [53367-mortal-kombat-x-premium-edition.json](./53367-mortal-kombat-x-premium-edition.json) |
 | Mortal Kombat X: Samurai Pack | 304314 | [304314-mortal-kombat-x-samurai-pack.json](./304314-mortal-kombat-x-samurai-pack.json) |
 | Mortal Kombat X: Special Edition | 140997 | [140997-mortal-kombat-x-special-edition.json](./140997-mortal-kombat-x-special-edition.json) |
+| Mortal Kombat X: Tanya | 141050 | [141050-mortal-kombat-x-tanya.json](./141050-mortal-kombat-x-tanya.json) |
 | Mortal Kombat X: Triborg | 27887 | [27887-mortal-kombat-x-triborg.json](./27887-mortal-kombat-x-triborg.json) |
+| Mortal Kombat X: XL Pack | 141051 | [141051-mortal-kombat-x-xl-pack.json](./141051-mortal-kombat-x-xl-pack.json) |
 | Mortal Kombat: Arcade Edition | 214950 | [214950-mortal-kombat-arcade-edition.json](./214950-mortal-kombat-arcade-edition.json) |
 | Mortal Kombat: Armageddon - Premium Edition | 23793 | [23793-mortal-kombat-armageddon-premium-edition.json](./23793-mortal-kombat-armageddon-premium-edition.json) |
 | Mortal Kombat: Compatibility Pack 1 | 388882 | [388882-mortal-kombat-compatibility-pack-1.json](./388882-mortal-kombat-compatibility-pack-1.json) |
