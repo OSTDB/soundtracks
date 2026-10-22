@@ -6566,6 +6566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiner | 241270 | [241270-shiner.json](./241270-shiner.json) |
 | Shines Over | 184589 | [184589-shines-over.json](./184589-shines-over.json) |
 | Shines Over: The Damned | 287034 | [287034-shines-over-the-damned.json](./287034-shines-over-the-damned.json) |
+| Shing! | 120045 | [120045-shing.json](./120045-shing.json) |
 | Shing!: Limited Edition | 222951 | [222951-shing-limited-edition.json](./222951-shing-limited-edition.json) |
 | Shingakkou Banchou | 330276 | [330276-shingakkou-banchou.json](./330276-shingakkou-banchou.json) |
 | Shingakkou The Gift | 330274 | [330274-shingakkou-the-gift.json](./330274-shingakkou-the-gift.json) |
@@ -15342,6 +15343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Menace | 202544 | [202544-space-menace.json](./202544-space-menace.json) |
 | Space Menace 2 | 325315 | [325315-space-menace-2.json](./325315-space-menace-2.json) |
 | Space Mercenary Defense Force | 228910 | [228910-space-mercenary-defense-force.json](./228910-space-mercenary-defense-force.json) |
+| Space Mercenary Shooter : Episode 1 | 119998 | [119998-space-mercenary-shooter-episode-1.json](./119998-space-mercenary-shooter-episode-1.json) |
 | Space Merchant | 125813 | [125813-space-merchant.json](./125813-space-merchant.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
 | Space Miner Blast | 120662 | [120662-space-miner-blast.json](./120662-space-miner-blast.json) |
@@ -18041,6 +18043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Massacre | 76526 | [76526-square-massacre.json](./76526-square-massacre.json) |
 | Square Meal | 276104 | [276104-square-meal.json](./276104-square-meal.json) |
 | Square n Fair | 29862 | [29862-square-n-fair.json](./29862-square-n-fair.json) |
+| Square Norm | 120043 | [120043-square-norm.json](./120043-square-norm.json) |
 | Square of Joy | 312733 | [312733-square-of-joy.json](./312733-square-of-joy.json) |
 | Square Off | 156557 | [156557-square-off.json](./156557-square-off.json) |
 | Square Off | 220499 | [220499-square-off.json](./220499-square-off.json) |
@@ -20922,6 +20925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stifflip & Co. | 36883 | [36883-stifflip-and-co.json](./36883-stifflip-and-co.json) |
 | Stifled | 31655 | [31655-stifled.json](./31655-stifled.json) |
 | Stig | 295541 | [295541-stig.json](./295541-stig.json) |
+| Stigfinnare | 119995 | [119995-stigfinnare.json](./119995-stigfinnare.json) |
 | Stigma: Dragonfly | 393988 | [393988-stigma-dragonfly.json](./393988-stigma-dragonfly.json) |
 | Stigma: The Salem Legacy | 373686 | [373686-stigma-the-salem-legacy.json](./373686-stigma-the-salem-legacy.json) |
 | Stigmata of Sacrilege | 244867 | [244867-stigmata-of-sacrilege.json](./244867-stigmata-of-sacrilege.json) |
