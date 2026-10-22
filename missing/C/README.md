@@ -15861,6 +15861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberMedic Simulator | 118365 | [118365-cybermedic-simulator.json](./118365-cybermedic-simulator.json) |
 | Cybermercs: The Soldiers of the 22nd Century | 70386 | [70386-cybermercs-the-soldiers-of-the-22nd-century.json](./70386-cybermercs-the-soldiers-of-the-22nd-century.json) |
 | Cybermere | 169811 | [169811-cybermere.json](./169811-cybermere.json) |
+| Cybermonk | 125657 | [125657-cybermonk.json](./125657-cybermonk.json) |
 | Cybermorph | 40803 | [40803-cybermorph.json](./40803-cybermorph.json) |
 | Cybermotion | 51492 | [51492-cybermotion.json](./51492-cybermotion.json) |
 | Cybermycha i więźniowie Drappa | 140925 | [140925-cybermycha-i-wiezniowie-drappa.json](./140925-cybermycha-i-wiezniowie-drappa.json) |
