@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampiric Tower | 69853 | [69853-vampiric-tower.json](./69853-vampiric-tower.json) |
 | Vampirii | 309434 | [309434-vampirii.json](./309434-vampirii.json) |
 | Vampirijagd 2 Nightrace | 84437 | [84437-vampirijagd-2-nightrace.json](./84437-vampirijagd-2-nightrace.json) |
+| Vampirina's Nails | 105656 | [105656-vampirinas-nails.json](./105656-vampirinas-nails.json) |
 | Vampirium: 1997 | 409402 | [409402-vampirium-1997.json](./409402-vampirium-1997.json) |
 | Vampirix | 232904 | [232904-vampirix.json](./232904-vampirix.json) |
 | Vampiromania: O Game | 163702 | [163702-vampiromania-o-game.json](./163702-vampiromania-o-game.json) |
@@ -2038,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Unlimited Project | 206432 | [206432-virtua-unlimited-project.json](./206432-virtua-unlimited-project.json) |
 | Virtua Volleyball | 195122 | [195122-virtua-volleyball.json](./195122-virtua-volleyball.json) |
 | Virtuacall S | 131239 | [131239-virtuacall-s.json](./131239-virtuacall-s.json) |
+| VirtuaCreature | 105689 | [105689-virtuacreature.json](./105689-virtuacreature.json) |
 | Virtual AI: Aki & Mika | 216860 | [216860-virtual-ai-aki-and-mika.json](./216860-virtual-ai-aki-and-mika.json) |
 | Virtual Anime Girl | 90366 | [90366-virtual-anime-girl.json](./90366-virtual-anime-girl.json) |
 | Virtual Aquarium | 407280 | [407280-virtual-aquarium.json](./407280-virtual-aquarium.json) |
@@ -2141,6 +2143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Pet Horse | 90022 | [90022-virtual-pet-horse.json](./90022-virtual-pet-horse.json) |
 | Virtual Pet Kitty Cat | 89227 | [89227-virtual-pet-kitty-cat.json](./89227-virtual-pet-kitty-cat.json) |
 | Virtual Pet Robot | 102895 | [102895-virtual-pet-robot.json](./102895-virtual-pet-robot.json) |
+| Virtual Pet Tiger | 105669 | [105669-virtual-pet-tiger.json](./105669-virtual-pet-tiger.json) |
 | Virtual Pet Unicorn | 88151 | [88151-virtual-pet-unicorn.json](./88151-virtual-pet-unicorn.json) |
 | Virtual Pool | 20739 | [20739-virtual-pool.json](./20739-virtual-pool.json) |
 | Virtual Pool 3 | 938 | [938-virtual-pool-3.json](./938-virtual-pool-3.json) |
