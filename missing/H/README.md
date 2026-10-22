@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handball | 18391 | [18391-handball.json](./18391-handball.json) |
 | Handball 16 | 34927 | [34927-handball-16.json](./34927-handball-16.json) |
 | Handball 17 | 31316 | [31316-handball-17.json](./31316-handball-17.json) |
+| Handball 21 | 138631 | [138631-handball-21.json](./138631-handball-21.json) |
 | Handball Action Total | 76617 | [76617-handball-action-total.json](./76617-handball-action-total.json) |
 | Handball Manager 07/08 | 152027 | [152027-handball-manager-07-08.json](./152027-handball-manager-07-08.json) |
 | Handball Manager 2021 | 142666 | [142666-handball-manager-2021.json](./142666-handball-manager-2021.json) |
@@ -6044,6 +6045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Matsuri: Ch.8 Minagoroshi-hen | 262694 | [262694-higurashi-no-naku-koro-ni-matsuri-ch-8-minagoroshi-hen.json](./262694-higurashi-no-naku-koro-ni-matsuri-ch-8-minagoroshi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Final Chapter - Miotsukushi-hen | 262697 | [262697-higurashi-no-naku-koro-ni-matsuri-final-chapter-miotsukushi-hen.json](./262697-higurashi-no-naku-koro-ni-matsuri-final-chapter-miotsukushi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Kakera Asobi | 262698 | [262698-higurashi-no-naku-koro-ni-matsuri-kakera-asobi.json](./262698-higurashi-no-naku-koro-ni-matsuri-kakera-asobi.json) |
+| Higurashi no Naku Koro ni Mei | 138647 | [138647-higurashi-no-naku-koro-ni-mei.json](./138647-higurashi-no-naku-koro-ni-mei.json) |
 | Higurashi no Naku Koro ni Origin | 251465 | [251465-higurashi-no-naku-koro-ni-origin.json](./251465-higurashi-no-naku-koro-ni-origin.json) |
 | Higurashi no Naku Koro ni Rei | 248201 | [248201-higurashi-no-naku-koro-ni-rei.json](./248201-higurashi-no-naku-koro-ni-rei.json) |
 | Higurashi no Naku Koro ni Sui | 60788 | [60788-higurashi-no-naku-koro-ni-sui.json](./60788-higurashi-no-naku-koro-ni-sui.json) |
