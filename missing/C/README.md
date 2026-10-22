@@ -4452,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chao Internet Pet | 331475 | [331475-chao-internet-pet.json](./331475-chao-internet-pet.json) |
 | Chao Life | 326835 | [326835-chao-life.json](./326835-chao-life.json) |
 | Chao Online | 331154 | [331154-chao-online.json](./331154-chao-online.json) |
+| Chao Resort Island | 148404 | [148404-chao-resort-island.json](./148404-chao-resort-island.json) |
 | Chao RPG | 326958 | [326958-chao-rpg.json](./326958-chao-rpg.json) |
 | Chao's Collection of Random Games | 192607 | [192607-chaos-collection-of-random-games.json](./192607-chaos-collection-of-random-games.json) |
 | Chao5: The Un-Balance Mod Returns! | 394606 | [394606-chao5-the-un-balance-mod-returns.json](./394606-chao5-the-un-balance-mod-returns.json) |
@@ -7709,6 +7710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClearIt | 95660 | [95660-clearit.json](./95660-clearit.json) |
 | ClearIt2 | 96320 | [96320-clearit2.json](./96320-clearit2.json) |
 | Clearwater | 270718 | [270718-clearwater.json](./270718-clearwater.json) |
+| Clearworld | 148252 | [148252-clearworld.json](./148252-clearworld.json) |
 | Cleavage | 92421 | [92421-cleavage.json](./92421-cleavage.json) |
 | Cleave | 346181 | [346181-cleave.json](./346181-cleave.json) |
 | Cleave Together: The Dragon King's Treasure | 287017 | [287017-cleave-together-the-dragon-kings-treasure.json](./287017-cleave-together-the-dragon-kings-treasure.json) |
@@ -10277,6 +10279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confusion Readily Achieved Perspectively Through Unrealistic Relative Dimensions | 283740 | [283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json](./283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json) |
 | Confuzion | 13511 | [13511-confuzion.json](./13511-confuzion.json) |
 | Conga Master | 24445 | [24445-conga-master.json](./24445-conga-master.json) |
+| Conga Master Go! | 148265 | [148265-conga-master-go.json](./148265-conga-master-go.json) |
 | Congestion 1024 | 196247 | [196247-congestion-1024.json](./196247-congestion-1024.json) |
 | Congestion Control | 274152 | [274152-congestion-control.json](./274152-congestion-control.json) |
 | Conglomerate 451 | 116593 | [116593-conglomerate-451.json](./116593-conglomerate-451.json) |
