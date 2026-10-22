@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zibbs: Alien Survival | 113842 | [113842-zibbs-alien-survival.json](./113842-zibbs-alien-survival.json) |
 | ZIC: Survival | 119815 | [119815-zic-survival.json](./119815-zic-survival.json) |
 | ZIC: Zombies in City | 118208 | [118208-zic-zombies-in-city.json](./118208-zic-zombies-in-city.json) |
+| Zidane: Football Generation | 144652 | [144652-zidane-football-generation.json](./144652-zidane-football-generation.json) |
 | Zidane: Football Generation 2002 | 49351 | [49351-zidane-football-generation-2002.json](./49351-zidane-football-generation-2002.json) |
 | Ziegel: An Arcade Platformer | 96206 | [96206-ziegel-an-arcade-platformer.json](./96206-ziegel-an-arcade-platformer.json) |
 | Zig | 96695 | [96695-zig.json](./96695-zig.json) |
