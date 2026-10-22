@@ -1691,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darko | 373124 | [373124-darko.json](./373124-darko.json) |
 | Darkodai | 361256 | [361256-darkodai.json](./361256-darkodai.json) |
 | DarkOrbit: Reloaded | 23808 | [23808-darkorbit-reloaded.json](./23808-darkorbit-reloaded.json) |
+| Darkour | 125076 | [125076-darkour.json](./125076-darkour.json) |
 | Darkout | 10108 | [10108-darkout.json](./10108-darkout.json) |
 | DarkPrison | 115760 | [115760-darkprison.json](./115760-darkprison.json) |
 | DarkRanger | 344877 | [344877-darkranger.json](./344877-darkranger.json) |
@@ -4083,6 +4084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Nest | 262950 | [262950-deep-nest.json](./262950-deep-nest.json) |
 | Deep Night Detective | 165440 | [165440-deep-night-detective.json](./165440-deep-night-detective.json) |
 | Deep Night Detective: Chapter One | 167263 | [167263-deep-night-detective-chapter-one.json](./167263-deep-night-detective-chapter-one.json) |
+| Deep Ocean Rush | 125083 | [125083-deep-ocean-rush.json](./125083-deep-ocean-rush.json) |
 | Deep Ones | 55258 | [55258-deep-ones.json](./55258-deep-ones.json) |
 | Deep Panic | 402271 | [402271-deep-panic.json](./402271-deep-panic.json) |
 | Deep Pixel Melancholy | 347185 | [347185-deep-pixel-melancholy.json](./347185-deep-pixel-melancholy.json) |
@@ -6226,6 +6228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Seed | 82748 | [82748-devil-seed.json](./82748-devil-seed.json) |
 | Devil Should Die | 190950 | [190950-devil-should-die.json](./190950-devil-should-die.json) |
 | Devil Slayer | 171461 | [171461-devil-slayer.json](./171461-devil-slayer.json) |
+| Devil Slayer: Raksasi | 125075 | [125075-devil-slayer-raksasi.json](./125075-devil-slayer-raksasi.json) |
 | Devil Slayer: Raksasi - Incarnation of Darkness | 242023 | [242023-devil-slayer-raksasi-incarnation-of-darkness.json](./242023-devil-slayer-raksasi-incarnation-of-darkness.json) |
 | Devil Spire | 187879 | [187879-devil-spire.json](./187879-devil-spire.json) |
 | Devil Spire Falls | 341018 | [341018-devil-spire-falls.json](./341018-devil-spire-falls.json) |
@@ -6748,6 +6751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Die Die | 346218 | [346218-die-die-die.json](./346218-die-die-die.json) |
 | Die Die Die and Try | 195116 | [195116-die-die-die-and-try.json](./195116-die-die-die-and-try.json) |
 | Die DillyBillys | 398477 | [398477-die-dillybillys.json](./398477-die-dillybillys.json) |
+| Die drei ??? - Das Geheimnis des Magiers | 125036 | [125036-die-drei-das-geheimnis-des-magiers.json](./125036-die-drei-das-geheimnis-des-magiers.json) |
 | Die drei ??? 2 - Bomben in Rocky Beach | 125284 | [125284-die-drei-2-bomben-in-rocky-beach.json](./125284-die-drei-2-bomben-in-rocky-beach.json) |
 | Die drei ??? 3 - Gespensterjagd | 142239 | [142239-die-drei-3-gespensterjagd.json](./142239-die-drei-3-gespensterjagd.json) |
 | Die drei ???: Das Gold der Inkas | 361324 | [361324-die-drei-das-gold-der-inkas.json](./361324-die-drei-das-gold-der-inkas.json) |
@@ -6844,6 +6848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dies Irae: Interview with Kaziklu Bey | 115243 | [115243-dies-irae-interview-with-kaziklu-bey.json](./115243-dies-irae-interview-with-kaziklu-bey.json) |
 | Dies Mortis | 185163 | [185163-dies-mortis.json](./185163-dies-mortis.json) |
 | Diesel and Death | 194872 | [194872-diesel-and-death.json](./194872-diesel-and-death.json) |
+| Diesel Attack | 125044 | [125044-diesel-attack.json](./125044-diesel-attack.json) |
 | Diesel Brothers: The Game | 105264 | [105264-diesel-brothers-the-game.json](./105264-diesel-brothers-the-game.json) |
 | Diesel Brothers: Truck Building Simulator Editor | 152910 | [152910-diesel-brothers-truck-building-simulator-editor.json](./152910-diesel-brothers-truck-building-simulator-editor.json) |
 | Diesel Burners | 277855 | [277855-diesel-burners.json](./277855-diesel-burners.json) |
@@ -9375,6 +9380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominions 5 | 76074 | [76074-dominions-5.json](./76074-dominions-5.json) |
 | Dominions: Priests, Prophets, and Pretenders | 70631 | [70631-dominions-priests-prophets-and-pretenders.json](./70631-dominions-priests-prophets-and-pretenders.json) |
 | Dominique Pamplemousse | 134677 | [134677-dominique-pamplemousse.json](./134677-dominique-pamplemousse.json) |
+| Dominique Pamplemousse & Dominique Pamplemousse in "Combinatorial Explosion" | 125051 | [125051-dominique-pamplemousse-and-dominique-pamplemousse-in-combinatorial-explosion.json](./125051-dominique-pamplemousse-and-dominique-pamplemousse-in-combinatorial-explosion.json) |
 | Dominium | 327053 | [327053-dominium.json](./327053-dominium.json) |
 | Dominium Mundi | 164940 | [164940-dominium-mundi.json](./164940-dominium-mundi.json) |
 | Domino | 81081 | [81081-domino.json](./81081-domino.json) |
@@ -9568,6 +9574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Jump | 372809 | [372809-dont-jump.json](./372809-dont-jump.json) |
 | Don't Kill Her | 108421 | [108421-dont-kill-her.json](./108421-dont-kill-her.json) |
 | Don't Kill the Cat | 230973 | [230973-dont-kill-the-cat.json](./230973-dont-kill-the-cat.json) |
+| Don't Kill the Cow | 125080 | [125080-dont-kill-the-cow.json](./125080-dont-kill-the-cow.json) |
 | Don't Kill the King! | 189078 | [189078-dont-kill-the-king.json](./189078-dont-kill-the-king.json) |
 | Don't Kill Them All | 303088 | [303088-dont-kill-them-all.json](./303088-dont-kill-them-all.json) |
 | Don't Knock Twice | 25646 | [25646-dont-knock-twice.json](./25646-dont-knock-twice.json) |
@@ -10752,6 +10759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Douri Hazure | 151842 | [151842-douri-hazure.json](./151842-douri-hazure.json) |
 | Dousoukai wa Koi no Hajimari | 238407 | [238407-dousoukai-wa-koi-no-hajimari.json](./238407-dousoukai-wa-koi-no-hajimari.json) |
 | Douyara Builder wo Yatteiru Oshi no V ni ha Watashi no Comment ga Hitsuyou-rashii-ken | 264119 | [264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json](./264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json) |
+| Dovadula's Burn | 125020 | [125020-dovadulas-burn.json](./125020-dovadulas-burn.json) |
 | Dove Days: Time Flies | 364262 | [364262-dove-days-time-flies.json](./364262-dove-days-time-flies.json) |
 | Dovez | 80607 | [80607-dovez.json](./80607-dovez.json) |
 | Down | 295887 | [295887-down.json](./295887-down.json) |
@@ -14223,6 +14231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon's Hell | 163699 | [163699-dungeons-hell.json](./163699-dungeons-hell.json) |
 | Dungeon's Legion | 244122 | [244122-dungeons-legion.json](./244122-dungeons-legion.json) |
 | Dungeon&Girls | 131403 | [131403-dungeon-and-girls.json](./131403-dungeon-and-girls.json) |
+| Dungeonborne | 125037 | [125037-dungeonborne.json](./125037-dungeonborne.json) |
 | Dungeonborne | 253880 | [253880-dungeonborne.json](./253880-dungeonborne.json) |
 | Dungeonborne Settlement | 366740 | [366740-dungeonborne-settlement.json](./366740-dungeonborne-settlement.json) |
 | Dungeonborne: Mithril Satchel | 382563 | [382563-dungeonborne-mithril-satchel.json](./382563-dungeonborne-mithril-satchel.json) |
