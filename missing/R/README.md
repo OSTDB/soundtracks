@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid Ascent | 413663 | [413663-rapid-ascent.json](./413663-rapid-ascent.json) |
 | Rapid Assault | 62137 | [62137-rapid-assault.json](./62137-rapid-assault.json) |
 | Rapid Deployment Force: Global Conflict | 46606 | [46606-rapid-deployment-force-global-conflict.json](./46606-rapid-deployment-force-global-conflict.json) |
+| Rapid Fall | 103137 | [103137-rapid-fall.json](./103137-rapid-fall.json) |
 | Rapid Fire | 112751 | [112751-rapid-fire.json](./112751-rapid-fire.json) |
 | Rapid Fire Brigade | 248178 | [248178-rapid-fire-brigade.json](./248178-rapid-fire-brigade.json) |
 | Rapid Hero | 39881 | [39881-rapid-hero.json](./39881-rapid-hero.json) |
@@ -5419,6 +5420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RhythmDanceVR | 128205 | [128205-rhythmdancevr.json](./128205-rhythmdancevr.json) |
 | Rhythmetallic | 154890 | [154890-rhythmetallic.json](./154890-rhythmetallic.json) |
 | Rhythmetric | 364572 | [364572-rhythmetric.json](./364572-rhythmetric.json) |
+| Rhythmic Gymnastics Dream Team: Girls Dance | 103107 | [103107-rhythmic-gymnastics-dream-team-girls-dance.json](./103107-rhythmic-gymnastics-dream-team-girls-dance.json) |
 | Rhythmic Retro Racer | 129664 | [129664-rhythmic-retro-racer.json](./129664-rhythmic-retro-racer.json) |
 | Rhythmic Star! | 43468 | [43468-rhythmic-star.json](./43468-rhythmic-star.json) |
 | Rhythmica | 74223 | [74223-rhythmica.json](./74223-rhythmica.json) |
@@ -8100,6 +8102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll & Risk | 392193 | [392193-roll-and-risk.json](./392193-roll-and-risk.json) |
 | Roll a Ball With Your Friends | 150520 | [150520-roll-a-ball-with-your-friends.json](./150520-roll-a-ball-with-your-friends.json) |
 | Roll A Blade | 291829 | [291829-roll-a-blade.json](./291829-roll-a-blade.json) |
+| Roll Back Home | 103113 | [103113-roll-back-home.json](./103113-roll-back-home.json) |
 | Roll Ball | 319963 | [319963-roll-ball.json](./319963-roll-ball.json) |
 | Roll Ball Adventures | 188668 | [188668-roll-ball-adventures.json](./188668-roll-ball-adventures.json) |
 | Roll Boss Rush | 43845 | [43845-roll-boss-rush.json](./43845-roll-boss-rush.json) |
