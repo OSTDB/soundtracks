@@ -3337,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juxtagram | 320838 | [320838-juxtagram.json](./320838-juxtagram.json) |
 | Juxtapose | 384347 | [384347-juxtapose.json](./384347-juxtapose.json) |
 | Juxtastat | 320740 | [320740-juxtastat.json](./320740-juxtastat.json) |
+| Jwing: The Next Puzzle Game | 118647 | [118647-jwing-the-next-puzzle-game.json](./118647-jwing-the-next-puzzle-game.json) |
 | JWP Joshi Pro Wrestling: Pure Wrestle Queens | 38276 | [38276-jwp-joshi-pro-wrestling-pure-wrestle-queens.json](./38276-jwp-joshi-pro-wrestling-pure-wrestle-queens.json) |
 | Jya Jya | 251086 | [251086-jya-jya.json](./251086-jya-jya.json) |
 | Jyangokushi - Haoh No Saihai | 40217 | [40217-jyangokushi-haoh-no-saihai.json](./40217-jyangokushi-haoh-no-saihai.json) |
