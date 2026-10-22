@@ -2492,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Hearts | 259439 | [259439-fatal-hearts.json](./259439-fatal-hearts.json) |
 | Fatal Heritage | 75150 | [75150-fatal-heritage.json](./75150-fatal-heritage.json) |
 | Fatal Hour: Petroleum | 108357 | [108357-fatal-hour-petroleum.json](./108357-fatal-hour-petroleum.json) |
+| Fatal Hour: Roadkill | 112671 | [112671-fatal-hour-roadkill.json](./112671-fatal-hour-roadkill.json) |
 | Fatal Inertia EX | 80458 | [80458-fatal-inertia-ex.json](./80458-fatal-inertia-ex.json) |
 | Fatal Labyrinth | 4496 | [4496-fatal-labyrinth.json](./4496-fatal-labyrinth.json) |
 | Fatal Midnight | 280731 | [280731-fatal-midnight.json](./280731-fatal-midnight.json) |
@@ -6573,6 +6574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floyd of the Jungle | 24987 | [24987-floyd-of-the-jungle.json](./24987-floyd-of-the-jungle.json) |
 | FLS | 127755 | [127755-fls.json](./127755-fls.json) |
 | Flub Fighter | 31218 | [31218-flub-fighter.json](./31218-flub-fighter.json) |
+| Flucht Scorched | 112691 | [112691-flucht-scorched.json](./112691-flucht-scorched.json) |
 | Fluctuoid | 187102 | [187102-fluctuoid.json](./187102-fluctuoid.json) |
 | Fluendora: The Realm of Scribes | 411127 | [411127-fluendora-the-realm-of-scribes.json](./411127-fluendora-the-realm-of-scribes.json) |
 | Fluff | 221749 | [221749-fluff.json](./221749-fluff.json) |
