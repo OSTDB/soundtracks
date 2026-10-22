@@ -1892,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violeta | 176940 | [176940-violeta.json](./176940-violeta.json) |
 | Violeta | 327043 | [327043-violeta.json](./327043-violeta.json) |
 | Violett | 18734 | [18734-violett.json](./18734-violett.json) |
+| Violetti Goottii | 150389 | [150389-violetti-goottii.json](./150389-violetti-goottii.json) |
 | Violin Paradise | 85474 | [85474-violin-paradise.json](./85474-violin-paradise.json) |
 | VioMice | 124539 | [124539-viomice.json](./124539-viomice.json) |
 | Viorate no Atelier: Gramnad no Renkinjutsushi 2 | 26515 | [26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json](./26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json) |
