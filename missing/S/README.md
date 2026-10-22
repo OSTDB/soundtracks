@@ -670,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura High School Love Story | 299884 | [299884-sakura-high-school-love-story.json](./299884-sakura-high-school-love-story.json) |
 | Sakura Hime 2 | 193261 | [193261-sakura-hime-2.json](./193261-sakura-hime-2.json) |
 | Sakura Hime 4 | 286539 | [286539-sakura-hime-4.json](./286539-sakura-hime-4.json) |
+| Sakura In Gameland | 147073 | [147073-sakura-in-gameland.json](./147073-sakura-in-gameland.json) |
 | Sakura Isekai Adventure 2 | 301886 | [301886-sakura-isekai-adventure-2.json](./301886-sakura-isekai-adventure-2.json) |
 | Sakura Kakumei: Hana Saku Otome-tachi | 181556 | [181556-sakura-kakumei-hana-saku-otome-tachi.json](./181556-sakura-kakumei-hana-saku-otome-tachi.json) |
 | Sakura Kanji Ketchi | 396503 | [396503-sakura-kanji-ketchi.json](./396503-sakura-kanji-ketchi.json) |
@@ -1755,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Moon | 20396 | [20396-savage-moon.json](./20396-savage-moon.json) |
 | Savage Moon: The Hera Campaign | 67209 | [67209-savage-moon-the-hera-campaign.json](./67209-savage-moon-the-hera-campaign.json) |
 | Savage Pond | 299436 | [299436-savage-pond.json](./299436-savage-pond.json) |
+| Savage Quest | 147053 | [147053-savage-quest.json](./147053-savage-quest.json) |
 | Savage Reign | 39565 | [39565-savage-reign.json](./39565-savage-reign.json) |
 | Savage Skies | 47314 | [47314-savage-skies.json](./47314-savage-skies.json) |
 | Savage Tower Defense | 158715 | [158715-savage-tower-defense.json](./158715-savage-tower-defense.json) |
@@ -10629,6 +10631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slipways | 176372 | [176372-slipways.json](./176372-slipways.json) |
 | Slit Mouthed | 192654 | [192654-slit-mouthed.json](./192654-slit-mouthed.json) |
 | Slit Your Wrists! | 234729 | [234729-slit-your-wrists.json](./234729-slit-your-wrists.json) |
+| Slither Loop | 147078 | [147078-slither-loop.json](./147078-slither-loop.json) |
 | Slither Realm | 388946 | [388946-slither-realm.json](./388946-slither-realm.json) |
 | Slither Snake IO 2018 | 101372 | [101372-slither-snake-io-2018.json](./101372-slither-snake-io-2018.json) |
 | Slither.io | 239311 | [239311-slither-io.json](./239311-slither-io.json) |
@@ -12085,6 +12088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Long Earth | 33376 | [33376-so-long-earth.json](./33376-so-long-earth.json) |
 | So Long Grandma | 87995 | [87995-so-long-grandma.json](./87995-so-long-grandma.json) |
 | So Many Cubes | 31791 | [31791-so-many-cubes.json](./31791-so-many-cubes.json) |
+| So Many Me: Extended Edition | 147149 | [147149-so-many-me-extended-edition.json](./147149-so-many-me-extended-edition.json) |
 | So Many Spiders | 182136 | [182136-so-many-spiders.json](./182136-so-many-spiders.json) |
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
 | So Much Stuff 2 | 245814 | [245814-so-much-stuff-2.json](./245814-so-much-stuff-2.json) |
@@ -14447,6 +14451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls of Darkon | 12966 | [12966-souls-of-darkon.json](./12966-souls-of-darkon.json) |
 | Souls of Shadow | 320557 | [320557-souls-of-shadow.json](./320557-souls-of-shadow.json) |
 | Souls of Tartarus | 226619 | [226619-souls-of-tartarus.json](./226619-souls-of-tartarus.json) |
+| Souls of the Wind | 147069 | [147069-souls-of-the-wind.json](./147069-souls-of-the-wind.json) |
 | Souls Quest | 326705 | [326705-souls-quest.json](./326705-souls-quest.json) |
 | Souls Runner | 417942 | [417942-souls-runner.json](./417942-souls-runner.json) |
 | Souls Survivors | 272930 | [272930-souls-survivors.json](./272930-souls-survivors.json) |
@@ -21774,6 +21779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Racers: Hot Asphalt | 316837 | [316837-street-racers-hot-asphalt.json](./316837-street-racers-hot-asphalt.json) |
 | Street Racing EVO: Car & Moto | 383519 | [383519-street-racing-evo-car-and-moto.json](./383519-street-racing-evo-car-and-moto.json) |
 | Street Racing Xtreme ( 3D Car Race Games ) | 105935 | [105935-street-racing-xtreme-3d-car-race-games.json](./105935-street-racing-xtreme-3d-car-race-games.json) |
+| Street Racing: Tokyo Rush | 147075 | [147075-street-racing-tokyo-rush.json](./147075-street-racing-tokyo-rush.json) |
 | Street Rider | 210637 | [210637-street-rider.json](./210637-street-rider.json) |
 | Street Rider | 369456 | [369456-street-rider.json](./369456-street-rider.json) |
 | Street Riders | 46017 | [46017-street-riders.json](./46017-street-riders.json) |
@@ -21990,6 +21996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strings of Fate XI: Magic Dream | 327008 | [327008-strings-of-fate-xi-magic-dream.json](./327008-strings-of-fate-xi-magic-dream.json) |
 | Strings of Light | 180601 | [180601-strings-of-light.json](./180601-strings-of-light.json) |
 | Strings Theory | 139218 | [139218-strings-theory.json](./139218-strings-theory.json) |
+| Stringtropy | 147159 | [147159-stringtropy.json](./147159-stringtropy.json) |
 | Strinova | 260136 | [260136-strinova.json](./260136-strinova.json) |
 | Strinova Mobile | 350533 | [350533-strinova-mobile.json](./350533-strinova-mobile.json) |
 | Strip 'Em | 238579 | [238579-strip-em.json](./238579-strip-em.json) |
@@ -23466,6 +23473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super 10 VR Bundle | 300275 | [300275-super-10-vr-bundle.json](./300275-super-10-vr-bundle.json) |
 | Super 190-in-1 | 137388 | [137388-super-190-in-1.json](./137388-super-190-in-1.json) |
 | Super 2048 | 99983 | [99983-super-2048.json](./99983-super-2048.json) |
+| Super 3D Table Tennis | 147072 | [147072-super-3d-table-tennis.json](./147072-super-3d-table-tennis.json) |
 | Super 8 Football | 267552 | [267552-super-8-football.json](./267552-super-8-football.json) |
 | Super ACiD Block Attack | 82459 | [82459-super-acid-block-attack.json](./82459-super-acid-block-attack.json) |
 | Super Action Baseball | 40909 | [40909-super-action-baseball.json](./40909-super-action-baseball.json) |
