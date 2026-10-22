@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkdire | 112954 | [112954-darkdire.json](./112954-darkdire.json) |
 | Darkdire: The Advanced Set - Greencastle Expansion | 224125 | [224125-darkdire-the-advanced-set-greencastle-expansion.json](./224125-darkdire-the-advanced-set-greencastle-expansion.json) |
 | DarkEdeNight | 86050 | [86050-darkedenight.json](./86050-darkedenight.json) |
+| Darken VR | 106334 | [106334-darken-vr.json](./106334-darken-vr.json) |
 | Darkend | 331684 | [331684-darkend.json](./331684-darkend.json) |
 | DarkEnd | 17217 | [17217-darkend.json](./17217-darkend.json) |
 | Darkenstein 3D | 235996 | [235996-darkenstein-3d.json](./235996-darkenstein-3d.json) |
@@ -4286,6 +4287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunter 2005 | 264 | [264-deer-hunter-2005.json](./264-deer-hunter-2005.json) |
 | Deer Hunter 2014 | 62525 | [62525-deer-hunter-2014.json](./62525-deer-hunter-2014.json) |
 | Deer Hunter 2016 | 59789 | [59789-deer-hunter-2016.json](./59789-deer-hunter-2016.json) |
+| Deer Hunter 2018 | 106291 | [106291-deer-hunter-2018.json](./106291-deer-hunter-2018.json) |
 | Deer Hunter 2018 | 87034 | [87034-deer-hunter-2018.json](./87034-deer-hunter-2018.json) |
 | Deer Hunter Classic | 86940 | [86940-deer-hunter-classic.json](./86940-deer-hunter-classic.json) |
 | Deer Hunter Companion | 64371 | [64371-deer-hunter-companion.json](./64371-deer-hunter-companion.json) |
