@@ -4583,6 +4583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: The Four Kings | 214494 | [214494-fire-emblem-the-four-kings.json](./214494-fire-emblem-the-four-kings.json) |
 | Fire Emblem: The Hag in White | 335825 | [335825-fire-emblem-the-hag-in-white.json](./335825-fire-emblem-the-hag-in-white.json) |
 | Fire Emblem: The Lonely Mirror | 273926 | [273926-fire-emblem-the-lonely-mirror.json](./273926-fire-emblem-the-lonely-mirror.json) |
+| Fire Emblem: The Road to Ruin | 144674 | [144674-fire-emblem-the-road-to-ruin.json](./144674-fire-emblem-the-road-to-ruin.json) |
 | Fire Emblem: The Sun God's Wrath | 140873 | [140873-fire-emblem-the-sun-gods-wrath.json](./140873-fire-emblem-the-sun-gods-wrath.json) |
 | Fire Emblem: Thracia 776 | 1437 | [1437-fire-emblem-thracia-776.json](./1437-fire-emblem-thracia-776.json) |
 | Fire Emblem: Three Houses - Cindered Shadows | 132224 | [132224-fire-emblem-three-houses-cindered-shadows.json](./132224-fire-emblem-three-houses-cindered-shadows.json) |
@@ -9035,6 +9036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeway Fiasco | 203837 | [203837-freeway-fiasco.json](./203837-freeway-fiasco.json) |
 | Freeway Fury | 175859 | [175859-freeway-fury.json](./175859-freeway-fury.json) |
 | Freeway Fury: Annihilation | 318188 | [318188-freeway-fury-annihilation.json](./318188-freeway-fury-annihilation.json) |
+| Freeway Mutant | 144658 | [144658-freeway-mutant.json](./144658-freeway-mutant.json) |
 | Freeways | 68281 | [68281-freeways.json](./68281-freeways.json) |
 | Freewheelin | 253023 | [253023-freewheelin.json](./253023-freewheelin.json) |
 | FreeWorld | 300503 | [300503-freeworld.json](./300503-freeworld.json) |
