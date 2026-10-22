@@ -932,6 +932,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Empire: Complete Collection | 139950 | [139950-railway-empire-complete-collection.json](./139950-railway-empire-complete-collection.json) |
 | Railway Empire: Crossing the Andes | 111186 | [111186-railway-empire-crossing-the-andes.json](./111186-railway-empire-crossing-the-andes.json) |
 | Railway Empire: DLC Bundle | 227357 | [227357-railway-empire-dlc-bundle.json](./227357-railway-empire-dlc-bundle.json) |
+| Railway Empire: Down Under | 145498 | [145498-railway-empire-down-under.json](./145498-railway-empire-down-under.json) |
+| Railway Empire: France | 145499 | [145499-railway-empire-france.json](./145499-railway-empire-france.json) |
 | Railway Empire: Great Britain & Ireland | 124808 | [124808-railway-empire-great-britain-and-ireland.json](./124808-railway-empire-great-britain-and-ireland.json) |
 | Railway Empire: Japan | 154942 | [154942-railway-empire-japan.json](./154942-railway-empire-japan.json) |
 | Railway Empire: Mexico | 145501 | [145501-railway-empire-mexico.json](./145501-railway-empire-mexico.json) |
@@ -9327,6 +9329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruinsmagus: Complete | 265713 | [265713-ruinsmagus-complete.json](./265713-ruinsmagus-complete.json) |
 | Ruinsmagus: The Warrior and the Tailor | 265762 | [265762-ruinsmagus-the-warrior-and-the-tailor.json](./265762-ruinsmagus-the-warrior-and-the-tailor.json) |
 | RuinsStory | 339075 | [339075-ruinsstory.json](./339075-ruinsstory.json) |
+| Ruinverse | 145316 | [145316-ruinverse.json](./145316-ruinverse.json) |
 | Ruka | 176899 | [176899-ruka.json](./176899-ruka.json) |
 | Ruki no Zetsubo | 151798 | [151798-ruki-no-zetsubo.json](./151798-ruki-no-zetsubo.json) |
 | Rukimin's Disappointing Adventure! | 201492 | [201492-rukimins-disappointing-adventure.json](./201492-rukimins-disappointing-adventure.json) |
@@ -9590,6 +9593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway VR | 54446 | [54446-runaway-vr.json](./54446-runaway-vr.json) |
 | Runaway: A Road Adventure | 278 | [278-runaway-a-road-adventure.json](./278-runaway-a-road-adventure.json) |
 | Runbow: Deluxe Edition | 51142 | [51142-runbow-deluxe-edition.json](./51142-runbow-deluxe-edition.json) |
+| Rundat | 145355 | [145355-rundat.json](./145355-rundat.json) |
 | Rune | 3085 | [3085-rune.json](./3085-rune.json) |
 | Rune Ark | 334448 | [334448-rune-ark.json](./334448-rune-ark.json) |
 | Rune Bender VR | 262803 | [262803-rune-bender-vr.json](./262803-rune-bender-vr.json) |
