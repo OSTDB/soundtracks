@@ -9225,6 +9225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lar | 118380 | [118380-the-lar.json](./118380-the-lar.json) |
 | The Lara Croft Collection | 253646 | [253646-the-lara-croft-collection.json](./253646-the-lara-croft-collection.json) |
 | The Larper | 402988 | [402988-the-larper.json](./402988-the-larper.json) |
+| The Las Vegas EGA Casino | 131156 | [131156-the-las-vegas-ega-casino.json](./131156-the-las-vegas-ega-casino.json) |
 | The Laser Games | 321639 | [321639-the-laser-games.json](./321639-the-laser-games.json) |
 | The Last | 31802 | [31802-the-last.json](./31802-the-last.json) |
 | The Last (Hotdog) Stand | 399185 | [399185-the-last-hotdog-stand.json](./399185-the-last-hotdog-stand.json) |
@@ -9536,6 +9537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Stop | 290001 | [290001-the-last-stop.json](./290001-the-last-stop.json) |
 | The Last Story | 4966 | [4966-the-last-story.json](./4966-the-last-story.json) |
 | The Last Strand | 318621 | [318621-the-last-strand.json](./318621-the-last-strand.json) |
+| The Last Sunshine | 131232 | [131232-the-last-sunshine.json](./131232-the-last-sunshine.json) |
 | The Last Sunshine | 34760 | [34760-the-last-sunshine.json](./34760-the-last-sunshine.json) |
 | The Last Sunshine: Rekindled | 150612 | [150612-the-last-sunshine-rekindled.json](./150612-the-last-sunshine-rekindled.json) |
 | The Last Survey | 139318 | [139318-the-last-survey.json](./139318-the-last-survey.json) |
