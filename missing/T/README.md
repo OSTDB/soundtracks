@@ -18561,6 +18561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Pasture: Ribbitribbit and Quackquack | 383625 | [383625-tiny-pasture-ribbitribbit-and-quackquack.json](./383625-tiny-pasture-ribbitribbit-and-quackquack.json) |
 | Tiny Pharaoh: Pixel Strategy | 264011 | [264011-tiny-pharaoh-pixel-strategy.json](./264011-tiny-pharaoh-pixel-strategy.json) |
 | Tiny Pirate Ship | 255044 | [255044-tiny-pirate-ship.json](./255044-tiny-pirate-ship.json) |
+| Tiny Pirates - Activity Book | 104421 | [104421-tiny-pirates-activity-book.json](./104421-tiny-pirates-activity-book.json) |
 | Tiny Pixel Farm: Go Farm Life | 248674 | [248674-tiny-pixel-farm-go-farm-life.json](./248674-tiny-pixel-farm-go-farm-life.json) |
 | Tiny Pixel Wars | 185618 | [185618-tiny-pixel-wars.json](./185618-tiny-pixel-wars.json) |
 | Tiny Pixels Vol. 1: Ninpo Blast | 308625 | [308625-tiny-pixels-vol-1-ninpo-blast.json](./308625-tiny-pixels-vol-1-ninpo-blast.json) |
