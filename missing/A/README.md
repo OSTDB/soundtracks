@@ -973,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Paper: Refolded | 213997 | [213997-a-tale-of-paper-refolded.json](./213997-a-tale-of-paper-refolded.json) |
 | A Tale of Paper: Refolded - Digital Deluxe Edition | 214055 | [214055-a-tale-of-paper-refolded-digital-deluxe-edition.json](./214055-a-tale-of-paper-refolded-digital-deluxe-edition.json) |
 | A Tale of Paper: Unfolded Melody | 300441 | [300441-a-tale-of-paper-unfolded-melody.json](./300441-a-tale-of-paper-unfolded-melody.json) |
+| A Tale of Pirates: A Dummy Mutiny | 101306 | [101306-a-tale-of-pirates-a-dummy-mutiny.json](./101306-a-tale-of-pirates-a-dummy-mutiny.json) |
 | A Tale of Sand and Bone | 303898 | [303898-a-tale-of-sand-and-bone.json](./303898-a-tale-of-sand-and-bone.json) |
 | A Tale of Silent Depths | 292631 | [292631-a-tale-of-silent-depths.json](./292631-a-tale-of-silent-depths.json) |
 | A Tale of Survival | 61100 | [61100-a-tale-of-survival.json](./61100-a-tale-of-survival.json) |
@@ -2680,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure II | 40783 | [40783-adventure-ii.json](./40783-adventure-ii.json) |
 | Adventure in a Mysterious Island | 381768 | [381768-adventure-in-a-mysterious-island.json](./381768-adventure-in-a-mysterious-island.json) |
 | Adventure In Aellion | 117691 | [117691-adventure-in-aellion.json](./117691-adventure-in-aellion.json) |
+| Adventure in Kana Village | 101314 | [101314-adventure-in-kana-village.json](./101314-adventure-in-kana-village.json) |
 | Adventure in King Caries Land | 117044 | [117044-adventure-in-king-caries-land.json](./117044-adventure-in-king-caries-land.json) |
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
 | Adventure in the Park | 230846 | [230846-adventure-in-the-park.json](./230846-adventure-in-the-park.json) |
@@ -7068,6 +7070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Huntsmen | 181031 | [181031-ancient-huntsmen.json](./181031-ancient-huntsmen.json) |
 | Ancient Islands | 192031 | [192031-ancient-islands.json](./192031-ancient-islands.json) |
 | Ancient Islands | 192835 | [192835-ancient-islands.json](./192835-ancient-islands.json) |
+| Ancient Journey | 101299 | [101299-ancient-journey.json](./101299-ancient-journey.json) |
 | Ancient Keys DX | 321448 | [321448-ancient-keys-dx.json](./321448-ancient-keys-dx.json) |
 | Ancient Kingdoms | 244176 | [244176-ancient-kingdoms.json](./244176-ancient-kingdoms.json) |
 | Ancient lands: the Tsar awakening | 112705 | [112705-ancient-lands-the-tsar-awakening.json](./112705-ancient-lands-the-tsar-awakening.json) |
@@ -8607,6 +8610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ants Times Infinity | 398648 | [398648-ants-times-infinity.json](./398648-ants-times-infinity.json) |
 | Ants Took My Eyeball | 211273 | [211273-ants-took-my-eyeball.json](./211273-ants-took-my-eyeball.json) |
 | Ants With Guns | 211436 | [211436-ants-with-guns.json](./211436-ants-with-guns.json) |
+| Ants! Mission of the Salvation | 101301 | [101301-ants-mission-of-the-salvation.json](./101301-ants-mission-of-the-salvation.json) |
 | Ants.io | 303333 | [303333-ants-io.json](./303333-ants-io.json) |
 | Antuel's Lament | 315621 | [315621-antuels-lament.json](./315621-antuels-lament.json) |
 | Antumbra | 101989 | [101989-antumbra.json](./101989-antumbra.json) |
