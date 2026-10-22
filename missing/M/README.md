@@ -13538,6 +13538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moses: Old Testament Adventure #1 | 100018 | [100018-moses-old-testament-adventure-1.json](./100018-moses-old-testament-adventure-1.json) |
 | Mosh Lift | 283798 | [283798-mosh-lift.json](./283798-mosh-lift.json) |
 | Mosh Pit Simulator | 109545 | [109545-mosh-pit-simulator.json](./109545-mosh-pit-simulator.json) |
+| Mosha Online | 126275 | [126275-mosha-online.json](./126275-mosha-online.json) |
 | Moshcave | 216709 | [216709-moshcave.json](./216709-moshcave.json) |
 | Moshi Color with Fluttercup | 381912 | [381912-moshi-color-with-fluttercup.json](./381912-moshi-color-with-fluttercup.json) |
 | Moshi Karts | 381929 | [381929-moshi-karts.json](./381929-moshi-karts.json) |
