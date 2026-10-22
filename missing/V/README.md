@@ -1389,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VHS Vermin | 379728 | [379728-vhs-vermin.json](./379728-vhs-vermin.json) |
 | VHS vs. Betamax | 177572 | [177572-vhs-vs-betamax.json](./177572-vhs-vs-betamax.json) |
 | VHS World '89 | 410912 | [410912-vhs-world-89.json](./410912-vhs-world-89.json) |
+| VHS, 1986 | 148235 | [148235-vhs-1986.json](./148235-vhs-1986.json) |
 | VHScape | 316759 | [316759-vhscape.json](./316759-vhscape.json) |
 | VHSMan | 386417 | [386417-vhsman.json](./386417-vhsman.json) |
 | VHSoverdose | 31591 | [31591-vhsoverdose.json](./31591-vhsoverdose.json) |
@@ -1426,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vicera | 321521 | [321521-vicera.json](./321521-vicera.json) |
 | Viceria | 346457 | [346457-viceria.json](./346457-viceria.json) |
 | Vicewave | 141839 | [141839-vicewave.json](./141839-vicewave.json) |
+| Vicewave 1984 | 149344 | [149344-vicewave-1984.json](./149344-vicewave-1984.json) |
 | Vicious Attack Llama Apocalypse | 44289 | [44289-vicious-attack-llama-apocalypse.json](./44289-vicious-attack-llama-apocalypse.json) |
 | Vicious Circle | 119134 | [119134-vicious-circle.json](./119134-vicious-circle.json) |
 | Vicious Circle | 340975 | [340975-vicious-circle.json](./340975-vicious-circle.json) |
@@ -2980,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Escape From Jurassic Island | 372072 | [372072-vr-escape-from-jurassic-island.json](./372072-vr-escape-from-jurassic-island.json) |
 | VR Escape the Puzzle Room | 81182 | [81182-vr-escape-the-puzzle-room.json](./81182-vr-escape-the-puzzle-room.json) |
 | VR Escape the space station | 31782 | [31782-vr-escape-the-space-station.json](./31782-vr-escape-the-space-station.json) |
+| VR Europe Tour | 148258 | [148258-vr-europe-tour.json](./148258-vr-europe-tour.json) |
 | VR Fantasy | 395540 | [395540-vr-fantasy.json](./395540-vr-fantasy.json) |
 | VR Fight Covid-19 | 147352 | [147352-vr-fight-covid-19.json](./147352-vr-fight-covid-19.json) |
 | VR Fighter Jets War | 157380 | [157380-vr-fighter-jets-war.json](./157380-vr-fighter-jets-war.json) |
@@ -3057,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Plane Crash | 156676 | [156676-vr-plane-crash.json](./156676-vr-plane-crash.json) |
 | VR Pong | 196035 | [196035-vr-pong.json](./196035-vr-pong.json) |
 | VR Porn Hentai Teachers | 368059 | [368059-vr-porn-hentai-teachers.json](./368059-vr-porn-hentai-teachers.json) |
+| VR Prison Escape | 148251 | [148251-vr-prison-escape.json](./148251-vr-prison-escape.json) |
 | VR Prison Showdown：rookie Guard Rumble | 364063 | [364063-vr-prison-showdown-rookie-guard-rumble.json](./364063-vr-prison-showdown-rookie-guard-rumble.json) |
 | VR Puppet Game | 195927 | [195927-vr-puppet-game.json](./195927-vr-puppet-game.json) |
 | VR Quest: SCP-087 | 114229 | [114229-vr-quest-scp-087.json](./114229-vr-quest-scp-087.json) |
