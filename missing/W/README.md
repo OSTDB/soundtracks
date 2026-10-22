@@ -3138,7 +3138,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -4347,6 +4346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | William and Sly | 253811 | [253811-william-and-sly.json](./253811-william-and-sly.json) |
 | William and Sly | 377899 | [377899-william-and-sly.json](./377899-william-and-sly.json) |
 | William and Sly 2 | 377900 | [377900-william-and-sly-2.json](./377900-william-and-sly-2.json) |
+| William and the Lands of Rage | 127621 | [127621-william-and-the-lands-of-rage.json](./127621-william-and-the-lands-of-rage.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
 | William Wobbler | 94625 | [94625-william-wobbler.json](./94625-william-wobbler.json) |
 | William's Love Prelude | 127849 | [127849-williams-love-prelude.json](./127849-williams-love-prelude.json) |
@@ -5744,6 +5744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodle Deluxe | 143631 | [143631-woodle-deluxe.json](./143631-woodle-deluxe.json) |
 | Woodle Tree 2: Deluxe | 120186 | [120186-woodle-tree-2-deluxe.json](./120186-woodle-tree-2-deluxe.json) |
 | Woodle Tree 2: Deluxe Plus | 194438 | [194438-woodle-tree-2-deluxe-plus.json](./194438-woodle-tree-2-deluxe-plus.json) |
+| Woodle Tree 2: Deluxe+ | 127629 | [127629-woodle-tree-2-deluxe.json](./127629-woodle-tree-2-deluxe.json) |
 | Woodle Tree 2: Worlds | 32250 | [32250-woodle-tree-2-worlds.json](./32250-woodle-tree-2-worlds.json) |
 | Woodle Tree Adventures | 15325 | [15325-woodle-tree-adventures.json](./15325-woodle-tree-adventures.json) |
 | Woodle Tree Adventures Deluxe | 122354 | [122354-woodle-tree-adventures-deluxe.json](./122354-woodle-tree-adventures-deluxe.json) |
@@ -6759,6 +6760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worldforge: Construct & Destroy | 413125 | [413125-worldforge-construct-and-destroy.json](./413125-worldforge-construct-and-destroy.json) |
 | WorldGuessr | 315679 | [315679-worldguessr.json](./315679-worldguessr.json) |
 | Worldless | 214709 | [214709-worldless.json](./214709-worldless.json) |
+| Worldless - Mercenaries | 127598 | [127598-worldless-mercenaries.json](./127598-worldless-mercenaries.json) |
 | Worldly: Country & Maps Quiz | 406058 | [406058-worldly-country-and-maps-quiz.json](./406058-worldly-country-and-maps-quiz.json) |
 | WorldNeverlan: Elnea Kingdom - Bee Apparel Set | 304808 | [304808-worldneverlan-elnea-kingdom-bee-apparel-set.json](./304808-worldneverlan-elnea-kingdom-bee-apparel-set.json) |
 | WorldNeverland: Black Modern Wedding Outfit Set | 301018 | [301018-worldneverland-black-modern-wedding-outfit-set.json](./301018-worldneverland-black-modern-wedding-outfit-set.json) |
