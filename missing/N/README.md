@@ -3506,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightfall Cafe | 350033 | [350033-nightfall-cafe.json](./350033-nightfall-cafe.json) |
 | Nightfall Conquest | 290725 | [290725-nightfall-conquest.json](./290725-nightfall-conquest.json) |
 | Nightfall Empress | 402896 | [402896-nightfall-empress.json](./402896-nightfall-empress.json) |
+| Nightfall Hacker | 127578 | [127578-nightfall-hacker.json](./127578-nightfall-hacker.json) |
 | NightFall Hollow | 235310 | [235310-nightfall-hollow.json](./235310-nightfall-hollow.json) |
 | Nightfall House | 324726 | [324726-nightfall-house.json](./324726-nightfall-house.json) |
 | Nightfall Main Game Plus VR | 53418 | [53418-nightfall-main-game-plus-vr.json](./53418-nightfall-main-game-plus-vr.json) |
@@ -5725,6 +5726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nubby's Number Factory | 324225 | [324225-nubbys-number-factory.json](./324225-nubbys-number-factory.json) |
 | NubiaPhobia | 345019 | [345019-nubiaphobia.json](./345019-nubiaphobia.json) |
 | Nubla | 26813 | [26813-nubla.json](./26813-nubla.json) |
+| Nuclear Arms Race | 127600 | [127600-nuclear-arms-race.json](./127600-nuclear-arms-race.json) |
 | Nuclear Assault | 188846 | [188846-nuclear-assault.json](./188846-nuclear-assault.json) |
 | Nuclear Blaze | 153876 | [153876-nuclear-blaze.json](./153876-nuclear-blaze.json) |
 | Nuclear Cheetah | 265958 | [265958-nuclear-cheetah.json](./265958-nuclear-cheetah.json) |
@@ -5856,6 +5858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numb3r Catch3r | 256164 | [256164-numb3r-catch3r.json](./256164-numb3r-catch3r.json) |
 | Numbako | 419190 | [419190-numbako.json](./419190-numbako.json) |
 | Numbala | 111453 | [111453-numbala.json](./111453-numbala.json) |
+| Number | 127587 | [127587-number.json](./127587-number.json) |
 | Number 1! | 405429 | [405429-number-1.json](./405429-number-1.json) |
 | Number 217721 | 244078 | [244078-number-217721.json](./244078-number-217721.json) |
 | Number 7 | 291000 | [291000-number-7.json](./291000-number-7.json) |
