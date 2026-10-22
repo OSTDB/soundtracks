@@ -1173,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hapland Trilogy | 164044 | [164044-hapland-trilogy.json](./164044-hapland-trilogy.json) |
 | HappBee | 152060 | [152060-happbee.json](./152060-happbee.json) |
 | Happening Journey | 108904 | [108904-happening-journey.json](./108904-happening-journey.json) |
+| Happenlance | 153811 | [153811-happenlance.json](./153811-happenlance.json) |
 | Happi Basudei | 197323 | [197323-happi-basudei.json](./197323-happi-basudei.json) |
 | Happily Ever After | 48024 | [48024-happily-ever-after.json](./48024-happily-ever-after.json) |
 | Happily Ever After Vol. 1 | 205932 | [205932-happily-ever-after-vol-1.json](./205932-happily-ever-after-vol-1.json) |
@@ -2022,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Arcade | 292957 | [292957-haunted-arcade.json](./292957-haunted-arcade.json) |
 | Haunted Attractions | 417357 | [417357-haunted-attractions.json](./417357-haunted-attractions.json) |
 | Haunted Bar Simulator | 407489 | [407489-haunted-bar-simulator.json](./407489-haunted-bar-simulator.json) |
+| Haunted Brothel | 153763 | [153763-haunted-brothel.json](./153763-haunted-brothel.json) |
 | Haunted by Evil | 132663 | [132663-haunted-by-evil.json](./132663-haunted-by-evil.json) |
 | Haunted Casino | 246910 | [246910-haunted-casino.json](./246910-haunted-casino.json) |
 | Haunted Casino | 68900 | [68900-haunted-casino.json](./68900-haunted-casino.json) |
@@ -5096,6 +5098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexon | 127310 | [127310-hexon.json](./127310-hexon.json) |
 | Hexonaut | 293168 | [293168-hexonaut.json](./293168-hexonaut.json) |
 | Hexonex | 169658 | [169658-hexonex.json](./169658-hexonex.json) |
+| Hexonia | 153775 | [153775-hexonia.json](./153775-hexonia.json) |
 | Hexonomy | 168618 | [168618-hexonomy.json](./168618-hexonomy.json) |
 | Hexopods | 75339 | [75339-hexopods.json](./75339-hexopods.json) |
 | Hexora | 347740 | [347740-hexora.json](./347740-hexora.json) |
