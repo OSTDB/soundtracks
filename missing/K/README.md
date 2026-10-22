@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiketsu Yanchamaru 3: Taiketsu! Zouringen | 66050 | [66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json](./66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json) |
 | Kaiketsu Zorori: Mezase! Itazura King | 307269 | [307269-kaiketsu-zorori-mezase-itazura-king.json](./307269-kaiketsu-zorori-mezase-itazura-king.json) |
 | Kaiketsu! Nekoashi Otome-chan | 147223 | [147223-kaiketsu-nekoashi-otome-chan.json](./147223-kaiketsu-nekoashi-otome-chan.json) |
+| Kaiki Gensou Yumemonogatari: Kaijuu Kitan Izayoi Jigoku | 131213 | [131213-kaiki-gensou-yumemonogatari-kaijuu-kitan-izayoi-jigoku.json](./131213-kaiki-gensou-yumemonogatari-kaijuu-kitan-izayoi-jigoku.json) |
 | Kaiki Gensou Yumemonogatari: Kaijuu Kitan Ouja-den | 110137 | [110137-kaiki-gensou-yumemonogatari-kaijuu-kitan-ouja-den.json](./110137-kaiki-gensou-yumemonogatari-kaijuu-kitan-ouja-den.json) |
 | Kaiki Sando | 282243 | [282243-kaiki-sando.json](./282243-kaiki-sando.json) |
 | Kaiki: Okujou no Yuurei to Akuma no Gishiki | 283853 | [283853-kaiki-okujou-no-yuurei-to-akuma-no-gishiki.json](./283853-kaiki-okujou-no-yuurei-to-akuma-no-gishiki.json) |
@@ -265,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaizou Choujin Schbibinman | 42052 | [42052-kaizou-choujin-schbibinman.json](./42052-kaizou-choujin-schbibinman.json) |
 | Kaizou Choujin Schbibinman 3: Ikai no Princess | 37583 | [37583-kaizou-choujin-schbibinman-3-ikai-no-princess.json](./37583-kaizou-choujin-schbibinman-3-ikai-no-princess.json) |
 | Kaizou Shoujo: Robokko to no Ichaicha Seikatsu! | 77617 | [77617-kaizou-shoujo-robokko-to-no-ichaicha-seikatsu.json](./77617-kaizou-shoujo-robokko-to-no-ichaicha-seikatsu.json) |
+| Kaja | 131229 | [131229-kaja.json](./131229-kaja.json) |
 | Kajipeet | 316769 | [316769-kajipeet.json](./316769-kajipeet.json) |
 | Kajiri Kamui Kagura | 63822 | [63822-kajiri-kamui-kagura.json](./63822-kajiri-kamui-kagura.json) |
 | Kajko i Kokosz | 93588 | [93588-kajko-i-kokosz.json](./93588-kajko-i-kokosz.json) |
@@ -1335,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ken to Mahou to Gakuen Mono. 3 | 44582 | [44582-ken-to-mahou-to-gakuen-mono-3.json](./44582-ken-to-mahou-to-gakuen-mono-3.json) |
 | Ken to Mahou to Gakuen Mono. Final: Shinnyusei wa Ohimesama! | 63896 | [63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json](./63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json) |
 | Ken to Mahou to Gakuen Quest | 222230 | [222230-ken-to-mahou-to-gakuen-quest.json](./222230-ken-to-mahou-to-gakuen-quest.json) |
+| Ken Uston BlackJack/Poker | 131153 | [131153-ken-uston-blackjack-poker.json](./131153-ken-uston-blackjack-poker.json) |
 | Ken's Labyrinth | 8743 | [8743-kens-labyrinth.json](./8743-kens-labyrinth.json) |
 | Ken's Labyrinth II | 309654 | [309654-kens-labyrinth-ii.json](./309654-kens-labyrinth-ii.json) |
 | Kena: Bridge of Spirits - Digital Deluxe | 169183 | [169183-kena-bridge-of-spirits-digital-deluxe.json](./169183-kena-bridge-of-spirits-digital-deluxe.json) |
