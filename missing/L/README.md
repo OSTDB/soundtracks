@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Touhou 2 | 63005 | [63005-labyrinth-of-touhou-2.json](./63005-labyrinth-of-touhou-2.json) |
 | Labyrinth of Touhou Tri: The Dreaming Girls & The Mysterious Orbs | 319083 | [319083-labyrinth-of-touhou-tri-the-dreaming-girls-and-the-mysterious-orbs.json](./319083-labyrinth-of-touhou-tri-the-dreaming-girls-and-the-mysterious-orbs.json) |
 | Labyrinth of Touhou: Gensoukyo and the Heaven Piercing Tree | 166080 | [166080-labyrinth-of-touhou-gensoukyo-and-the-heaven-piercing-tree.json](./166080-labyrinth-of-touhou-gensoukyo-and-the-heaven-piercing-tree.json) |
+| Labyrinth of Wild Abyss | 134883 | [134883-labyrinth-of-wild-abyss.json](./134883-labyrinth-of-wild-abyss.json) |
 | Labyrinth of Wild Abyss: LayeRedux | 327673 | [327673-labyrinth-of-wild-abyss-layeredux.json](./327673-labyrinth-of-wild-abyss-layeredux.json) |
 | Labyrinth of Zangetsu: Adventure Academia - The Fractured Continent Collab: Additional Characters Pack | 246643 | [246643-labyrinth-of-zangetsu-adventure-academia-the-fractured-continent-collab-additional-characters-pack.json](./246643-labyrinth-of-zangetsu-adventure-academia-the-fractured-continent-collab-additional-characters-pack.json) |
 | Labyrinth of Zangetsu: Akiba's Beat Collaboration - Additional Characters Pack | 246642 | [246642-labyrinth-of-zangetsu-akibas-beat-collaboration-additional-characters-pack.json](./246642-labyrinth-of-zangetsu-akibas-beat-collaboration-additional-characters-pack.json) |
