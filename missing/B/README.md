@@ -4007,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Bop: Pop Star Clicker | 243742 | [243742-beat-bop-pop-star-clicker.json](./243742-beat-bop-pop-star-clicker.json) |
 | Beat Boxers | 110997 | [110997-beat-boxers.json](./110997-beat-boxers.json) |
 | Beat Boxing | 120129 | [120129-beat-boxing.json](./120129-beat-boxing.json) |
+| Beat Boy | 148803 | [148803-beat-boy.json](./148803-beat-boy.json) |
 | Beat Bricks | 243605 | [243605-beat-bricks.json](./243605-beat-bricks.json) |
 | Beat Bros | 52633 | [52633-beat-bros.json](./52633-beat-bros.json) |
 | Beat Bulwark | 351179 | [351179-beat-bulwark.json](./351179-beat-bulwark.json) |
@@ -8227,6 +8228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockhead | 380026 | [380026-blockhead.json](./380026-blockhead.json) |
 | Blockhead 2D | 208274 | [208274-blockhead-2d.json](./208274-blockhead-2d.json) |
 | Blockhead II | 14324 | [14324-blockhead-ii.json](./14324-blockhead-ii.json) |
+| Blockicker | 148808 | [148808-blockicker.json](./148808-blockicker.json) |
 | Blockies VR | 193204 | [193204-blockies-vr.json](./193204-blockies-vr.json) |
 | Blockits | 292950 | [292950-blockits.json](./292950-blockits.json) |
 | Blockiverse | 125799 | [125799-blockiverse.json](./125799-blockiverse.json) |
@@ -13129,6 +13131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buildings Have Feelings Too! | 107268 | [107268-buildings-have-feelings-too.json](./107268-buildings-have-feelings-too.json) |
 | Buildmark | 148942 | [148942-buildmark.json](./148942-buildmark.json) |
 | BuildNow GG | 333186 | [333186-buildnow-gg.json](./333186-buildnow-gg.json) |
+| Buildodge | 148830 | [148830-buildodge.json](./148830-buildodge.json) |
 | Buildozer Simulator | 321489 | [321489-buildozer-simulator.json](./321489-buildozer-simulator.json) |
 | Buildville | 102745 | [102745-buildville.json](./102745-buildville.json) |
 | Buildy Stacky 2 | 252017 | [252017-buildy-stacky-2.json](./252017-buildy-stacky-2.json) |
