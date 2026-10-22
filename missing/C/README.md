@@ -1985,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Bridge | 233767 | [233767-cargo-bridge.json](./233767-cargo-bridge.json) |
 | Cargo Bridge 2 | 197233 | [197233-cargo-bridge-2.json](./197233-cargo-bridge-2.json) |
 | Cargo Company | 148504 | [148504-cargo-company.json](./148504-cargo-company.json) |
+| Cargo Crew Driver | 147691 | [147691-cargo-crew-driver.json](./147691-cargo-crew-driver.json) |
 | Cargo Cult | 111539 | [111539-cargo-cult.json](./111539-cargo-cult.json) |
 | Cargo Cult: Shoot'n'Loot VR | 30258 | [30258-cargo-cult-shootnloot-vr.json](./30258-cargo-cult-shootnloot-vr.json) |
 | Cargo Duty | 284809 | [284809-cargo-duty.json](./284809-cargo-duty.json) |
@@ -5906,6 +5907,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choices | 181725 | [181725-choices.json](./181725-choices.json) |
 | Choices & Chances | 373801 | [373801-choices-and-chances.json](./373801-choices-and-chances.json) |
 | Choices Matter: Mega City | 319457 | [319457-choices-matter-mega-city.json](./319457-choices-matter-mega-city.json) |
+| Choices That Matter: And the Sun Went Out | 147698 | [147698-choices-that-matter-and-the-sun-went-out.json](./147698-choices-that-matter-and-the-sun-went-out.json) |
+| Choices That Matter: And Their Heroes Were Lost | 147696 | [147696-choices-that-matter-and-their-heroes-were-lost.json](./147696-choices-that-matter-and-their-heroes-were-lost.json) |
 | Choices, the Game | 83531 | [83531-choices-the-game.json](./83531-choices-the-game.json) |
 | Choirsaintess | 367060 | [367060-choirsaintess.json](./367060-choirsaintess.json) |
 | Choju Yokai Giga | 151684 | [151684-choju-yokai-giga.json](./151684-choju-yokai-giga.json) |
