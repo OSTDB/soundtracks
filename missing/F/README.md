@@ -4835,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firon | 114979 | [114979-firon.json](./114979-firon.json) |
 | First | 377569 | [377569-first.json](./377569-first.json) |
 | First & Sight Words | 106470 | [106470-first-and-sight-words.json](./106470-first-and-sight-words.json) |
+| First Adventure | 140849 | [140849-first-adventure.json](./140849-first-adventure.json) |
 | First Age | 393751 | [393751-first-age.json](./393751-first-age.json) |
 | First Anchor | 69559 | [69559-first-anchor.json](./69559-first-anchor.json) |
 | First Bite | 181574 | [181574-first-bite.json](./181574-first-bite.json) |
