@@ -3332,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seashells | 197922 | [197922-seashells.json](./197922-seashells.json) |
 | Seashine | 143091 | [143091-seashine.json](./143091-seashine.json) |
 | Seasick | 219617 | [219617-seasick.json](./219617-seasick.json) |
+| Seaside Cafe Story | 139649 | [139649-seaside-cafe-story.json](./139649-seaside-cafe-story.json) |
 | Seaside Drive | 318723 | [318723-seaside-drive.json](./318723-seaside-drive.json) |
 | Seaside Driving | 195539 | [195539-seaside-driving.json](./195539-seaside-driving.json) |
 | Seaside Fireflies | 336612 | [336612-seaside-fireflies.json](./336612-seaside-fireflies.json) |
@@ -4116,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self Shot | 117806 | [117806-self-shot.json](./117806-self-shot.json) |
 | Self-Defense Training Camp | 8545 | [8545-self-defense-training-camp.json](./8545-self-defense-training-camp.json) |
 | Self-indulgence | 273784 | [273784-self-indulgence.json](./273784-self-indulgence.json) |
+| Self-Isolation | 139644 | [139644-self-isolation.json](./139644-self-isolation.json) |
 | Self-knowledge VR | 114373 | [114373-self-knowledge-vr.json](./114373-self-knowledge-vr.json) |
 | Self-Portrait, Vomit on Concrete | 309962 | [309962-self-portrait-vomit-on-concrete.json](./309962-self-portrait-vomit-on-concrete.json) |
 | Self-Reliance | 114920 | [114920-self-reliance.json](./114920-self-reliance.json) |
@@ -9828,6 +9830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skybreak! | 300435 | [300435-skybreak.json](./300435-skybreak.json) |
 | Skybreakers | 270619 | [270619-skybreakers.json](./270619-skybreakers.json) |
 | Skybride | 134634 | [134634-skybride.json](./134634-skybride.json) |
+| Skycadia | 139643 | [139643-skycadia.json](./139643-skycadia.json) |
 | Skycards | 322122 | [322122-skycards.json](./322122-skycards.json) |
 | Skycat | 132751 | [132751-skycat.json](./132751-skycat.json) |
 | SkyChase | 12769 | [12769-skychase.json](./12769-skychase.json) |
@@ -18737,6 +18740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Scenery Disk: San Francisco Area | 98960 | [98960-star-scenery-disk-san-francisco-area.json](./98960-star-scenery-disk-san-francisco-area.json) |
 | Star Scout | 70399 | [70399-star-scout.json](./70399-star-scout.json) |
 | Star Scum | 292533 | [292533-star-scum.json](./292533-star-scum.json) |
+| Star Seeker in: the Secret of the Sorcerous Standoff | 139667 | [139667-star-seeker-in-the-secret-of-the-sorcerous-standoff.json](./139667-star-seeker-in-the-secret-of-the-sorcerous-standoff.json) |
 | Star Sentinel Tactics | 67329 | [67329-star-sentinel-tactics.json](./67329-star-sentinel-tactics.json) |
 | Star Sentry | 292129 | [292129-star-sentry.json](./292129-star-sentry.json) |
 | Star Sentry | 322825 | [322825-star-sentry.json](./322825-star-sentry.json) |
@@ -22884,6 +22888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SugarKiss! | 191629 | [191629-sugarkiss.json](./191629-sugarkiss.json) |
 | Sugarlawn | 209610 | [209610-sugarlawn.json](./209610-sugarlawn.json) |
 | SugarStellar | 225532 | [225532-sugarstellar.json](./225532-sugarstellar.json) |
+| SugarWinds | 139659 | [139659-sugarwinds.json](./139659-sugarwinds.json) |
 | Sugary Delight | 234619 | [234619-sugary-delight.json](./234619-sugary-delight.json) |
 | Sugary Shifter | 314055 | [314055-sugary-shifter.json](./314055-sugary-shifter.json) |
 | Sugary Spire: Exhibition Night | 349966 | [349966-sugary-spire-exhibition-night.json](./349966-sugary-spire-exhibition-night.json) |
