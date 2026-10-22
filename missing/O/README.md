@@ -1439,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omoikane | 293556 | [293556-omoikane.json](./293556-omoikane.json) |
 | Omoikkiri Tanteidan Haado-gumi: Matenrou no Chousenjou | 41336 | [41336-omoikkiri-tanteidan-haado-gumi-matenrou-no-chousenjou.json](./41336-omoikkiri-tanteidan-haado-gumi-matenrou-no-chousenjou.json) |
 | Omoiyari wo Hagukumu Katarikake Ehon: Miffy to Asobou Utaou | 327627 | [327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json](./327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json) |
+| Omon Girl: Bottle Royal | 130606 | [130606-omon-girl-bottle-royal.json](./130606-omon-girl-bottle-royal.json) |
 | OMON Simulator | 122859 | [122859-omon-simulator.json](./122859-omon-simulator.json) |
 | OmOneko | 335651 | [335651-omoneko.json](./335651-omoneko.json) |
 | Omori | 26673 | [26673-omori.json](./26673-omori.json) |
@@ -1648,7 +1649,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Forest | 137530 | [137530-once-upon-a-forest.json](./137530-once-upon-a-forest.json) |
 | Once Upon a Galaxy | 305262 | [305262-once-upon-a-galaxy.json](./305262-once-upon-a-galaxy.json) |
 | Once Upon a Jester | 159553 | [159553-once-upon-a-jester.json](./159553-once-upon-a-jester.json) |
-| Once Upon a Katamari | 358526 | [358526-once-upon-a-katamari.json](./358526-once-upon-a-katamari.json) |
 | Once Upon a Katamari: Katamari Damacy Series Dance Dance Remixes | 377265 | [377265-once-upon-a-katamari-katamari-damacy-series-dance-dance-remixes.json](./377265-once-upon-a-katamari-katamari-damacy-series-dance-dance-remixes.json) |
 | Once Upon a Katamari: Katamari Damacy Series Neo Remixes | 377266 | [377266-once-upon-a-katamari-katamari-damacy-series-neo-remixes.json](./377266-once-upon-a-katamari-katamari-damacy-series-neo-remixes.json) |
 | Once Upon A Katamari: King of All Sounds Edition | 358665 | [358665-once-upon-a-katamari-king-of-all-sounds-edition.json](./358665-once-upon-a-katamari-king-of-all-sounds-edition.json) |
