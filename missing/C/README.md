@@ -5152,6 +5152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Royale | 330918 | [330918-chess-royale.json](./330918-chess-royale.json) |
 | Chess Rush | 122963 | [122963-chess-rush.json](./122963-chess-rush.json) |
 | Chess Sphere | 112795 | [112795-chess-sphere.json](./112795-chess-sphere.json) |
+| Chess Sudoku | 153689 | [153689-chess-sudoku.json](./153689-chess-sudoku.json) |
 | Chess Survivors | 211384 | [211384-chess-survivors.json](./211384-chess-survivors.json) |
 | Chess Tiger | 103928 | [103928-chess-tiger.json](./103928-chess-tiger.json) |
 | Chess Titans | 26679 | [26679-chess-titans.json](./26679-chess-titans.json) |
@@ -6570,6 +6571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunithm Luminous | 281381 | [281381-chunithm-luminous.json](./281381-chunithm-luminous.json) |
 | Chunithm Luminous Plus | 309593 | [309593-chunithm-luminous-plus.json](./309593-chunithm-luminous-plus.json) |
 | Chunithm New Plus | 231771 | [231771-chunithm-new-plus.json](./231771-chunithm-new-plus.json) |
+| Chunithm Plus | 153805 | [153805-chunithm-plus.json](./153805-chunithm-plus.json) |
 | Chunithm Star | 154231 | [154231-chunithm-star.json](./154231-chunithm-star.json) |
 | Chunithm Star Plus | 154232 | [154232-chunithm-star-plus.json](./154232-chunithm-star-plus.json) |
 | Chunithm Sun | 231772 | [231772-chunithm-sun.json](./231772-chunithm-sun.json) |
@@ -8041,6 +8043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closed Circuit | 254175 | [254175-closed-circuit.json](./254175-closed-circuit.json) |
 | Closed Circuit Television | 378371 | [378371-closed-circuit-television.json](./378371-closed-circuit-television.json) |
 | Closed Faith | 317366 | [317366-closed-faith.json](./317366-closed-faith.json) |
+| Closed Hands | 153794 | [153794-closed-hands.json](./153794-closed-hands.json) |
 | Closed Island | 214439 | [214439-closed-island.json](./214439-closed-island.json) |
 | Closed Nightmare | 82371 | [82371-closed-nightmare.json](./82371-closed-nightmare.json) |
 | Closed World | 312202 | [312202-closed-world.json](./312202-closed-world.json) |
@@ -10439,6 +10442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consentual Love In A Dungeon | 210471 | [210471-consentual-love-in-a-dungeon.json](./210471-consentual-love-in-a-dungeon.json) |
 | Considerable Grandfather | 293643 | [293643-considerable-grandfather.json](./293643-considerable-grandfather.json) |
 | Considerable Grandfather: It Followed Me Home | 408784 | [408784-considerable-grandfather-it-followed-me-home.json](./408784-considerable-grandfather-it-followed-me-home.json) |
+| Consolation: Board Meeting | 153810 | [153810-consolation-board-meeting.json](./153810-consolation-board-meeting.json) |
 | Consolation: Board Meeting - Anthology Edition | 193217 | [193217-consolation-board-meeting-anthology-edition.json](./193217-consolation-board-meeting-anthology-edition.json) |
 | Console Archives: Bubble Bobble | 415224 | [415224-console-archives-bubble-bobble.json](./415224-console-archives-bubble-bobble.json) |
 | Console Archives: Crazy Climber | 418714 | [418714-console-archives-crazy-climber.json](./418714-console-archives-crazy-climber.json) |
@@ -11442,6 +11446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Cop | 94911 | [94911-cosmic-cop.json](./94911-cosmic-cop.json) |
 | Cosmic Corridor | 40626 | [40626-cosmic-corridor.json](./40626-cosmic-corridor.json) |
 | Cosmic Cosmonaut | 336641 | [336641-cosmic-cosmonaut.json](./336641-cosmic-cosmonaut.json) |
+| Cosmic Courier: Trapped in Limbo | 153772 | [153772-cosmic-courier-trapped-in-limbo.json](./153772-cosmic-courier-trapped-in-limbo.json) |
 | Cosmic Cowabunnies | 265866 | [265866-cosmic-cowabunnies.json](./265866-cosmic-cowabunnies.json) |
 | Cosmic Cowboy | 413070 | [413070-cosmic-cowboy.json](./413070-cosmic-cowboy.json) |
 | Cosmic Creeps | 18547 | [18547-cosmic-creeps.json](./18547-cosmic-creeps.json) |
