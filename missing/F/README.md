@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fae Populi | 188939 | [188939-fae-populi.json](./188939-fae-populi.json) |
 | Faefever | 137341 | [137341-faefever.json](./137341-faefever.json) |
 | Faehnor Online | 386499 | [386499-faehnor-online.json](./386499-faehnor-online.json) |
+| Faeland | 96549 | [96549-faeland.json](./96549-faeland.json) |
 | Faeria: Chronicles of Gagana | 117519 | [117519-faeria-chronicles-of-gagana.json](./117519-faeria-chronicles-of-gagana.json) |
 | Faeria: Elements | 227419 | [227419-faeria-elements.json](./227419-faeria-elements.json) |
 | Faeria: Fall of Everlife | 163526 | [163526-faeria-fall-of-everlife.json](./163526-faeria-fall-of-everlife.json) |
@@ -1612,6 +1613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Kommander: Fascination of Evil | 347193 | [347193-fantasy-kommander-fascination-of-evil.json](./347193-fantasy-kommander-fascination-of-evil.json) |
 | Fantasy Land | 40333 | [40333-fantasy-land.json](./40333-fantasy-land.json) |
 | Fantasy Lands | 286790 | [286790-fantasy-lands.json](./286790-fantasy-lands.json) |
+| Fantasy Legend: War of Contract | 96551 | [96551-fantasy-legend-war-of-contract.json](./96551-fantasy-legend-war-of-contract.json) |
 | Fantasy Life | 214147 | [214147-fantasy-life.json](./214147-fantasy-life.json) |
 | Fantasy Life | 6770 | [6770-fantasy-life.json](./6770-fantasy-life.json) |
 | Fantasy Life i: The Celestial Express | 417334 | [417334-fantasy-life-i-the-celestial-express.json](./417334-fantasy-life-i-the-celestial-express.json) |
@@ -2105,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer Pug Dash | 129019 | [129019-farmer-pug-dash.json](./129019-farmer-pug-dash.json) |
 | Farmer Sim 2020 | 147694 | [147694-farmer-sim-2020.json](./147694-farmer-sim-2020.json) |
 | Farmer Simulator | 253956 | [253956-farmer-simulator.json](./253956-farmer-simulator.json) |
+| Farmer Simulator 17 : New Harvest | 96557 | [96557-farmer-simulator-17-new-harvest.json](./96557-farmer-simulator-17-new-harvest.json) |
 | Farmer Survivors | 270516 | [270516-farmer-survivors.json](./270516-farmer-survivors.json) |
 | Farmer Time: A Magical Farming Adventure | 164939 | [164939-farmer-time-a-magical-farming-adventure.json](./164939-farmer-time-a-magical-farming-adventure.json) |
 | Farmer's Delight | 232679 | [232679-farmers-delight.json](./232679-farmers-delight.json) |
@@ -4443,6 +4446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finesse | 248599 | [248599-finesse.json](./248599-finesse.json) |
 | Finest Hour | 40331 | [40331-finest-hour.json](./40331-finest-hour.json) |
 | Finger Balance | 175215 | [175215-finger-balance.json](./175215-finger-balance.json) |
+| Finger Ballz | 96584 | [96584-finger-ballz.json](./96584-finger-ballz.json) |
 | Finger Breaker | 169821 | [169821-finger-breaker.json](./169821-finger-breaker.json) |
 | Finger Champion | 245326 | [245326-finger-champion.json](./245326-finger-champion.json) |
 | Finger Connection | 66619 | [66619-finger-connection.json](./66619-finger-connection.json) |
@@ -8214,6 +8218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FortressCraft Evolved!: Frozen Factory | 167319 | [167319-fortresscraft-evolved-frozen-factory.json](./167319-fortresscraft-evolved-frozen-factory.json) |
 | FortressCraft: Chapter 1 | 168834 | [168834-fortresscraft-chapter-1.json](./168834-fortresscraft-chapter-1.json) |
 | FortressOne | 144345 | [144345-fortressone.json](./144345-fortressone.json) |
+| Fortroyale Battleground | 96582 | [96582-fortroyale-battleground.json](./96582-fortroyale-battleground.json) |
 | Forts: High Seas | 195771 | [195771-forts-high-seas.json](./195771-forts-high-seas.json) |
 | Fortuito: Lost History | 156667 | [156667-fortuito-lost-history.json](./156667-fortuito-lost-history.json) |
 | Fortuna | 218172 | [218172-fortuna.json](./218172-fortuna.json) |
@@ -10580,6 +10585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FunnyJoy: Brain on Line | 95999 | [95999-funnyjoy-brain-on-line.json](./95999-funnyjoy-brain-on-line.json) |
 | Funocracy | 340725 | [340725-funocracy.json](./340725-funocracy.json) |
 | Funorbit | 415857 | [415857-funorbit.json](./415857-funorbit.json) |
+| FunPack 3D | 96543 | [96543-funpack-3d.json](./96543-funpack-3d.json) |
 | FunPack: Mums | 177052 | [177052-funpack-mums.json](./177052-funpack-mums.json) |
 | FunPark Beach Blast | 294391 | [294391-funpark-beach-blast.json](./294391-funpark-beach-blast.json) |
 | FunPlay 20-in-1 | 202264 | [202264-funplay-20-in-1.json](./202264-funplay-20-in-1.json) |
