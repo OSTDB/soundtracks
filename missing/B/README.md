@@ -746,7 +746,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5796,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Adventure: Trip to Europe 9 | 417380 | [417380-big-adventure-trip-to-europe-9.json](./417380-big-adventure-trip-to-europe-9.json) |
 | Big Adventure: Trip to Europe 9 - Collector's Edition | 338235 | [338235-big-adventure-trip-to-europe-9-collectors-edition.json](./338235-big-adventure-trip-to-europe-9-collectors-edition.json) |
 | Big Air Freestyle | 3808 | [3808-big-air-freestyle.json](./3808-big-air-freestyle.json) |
+| Big Air Wakeboarding | 64242 | [64242-big-air-wakeboarding.json](./64242-big-air-wakeboarding.json) |
 | Big Ambitions | 152779 | [152779-big-ambitions.json](./152779-big-ambitions.json) |
 | Big Babies: Argument | 324835 | [324835-big-babies-argument.json](./324835-big-babies-argument.json) |
 | Big Babies: Instructions | 324834 | [324834-big-babies-instructions.json](./324834-big-babies-instructions.json) |
@@ -7805,6 +7805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue: Chrono Phantasma | 5643 | [5643-blazblue-chrono-phantasma.json](./5643-blazblue-chrono-phantasma.json) |
 | BlazBlue: Chrono Phantasma Extend | 11612 | [11612-blazblue-chrono-phantasma-extend.json](./11612-blazblue-chrono-phantasma-extend.json) |
 | BlazBlue: Chrono Phantasma Extend - Additional Character Color 1 | 388880 | [388880-blazblue-chrono-phantasma-extend-additional-character-color-1.json](./388880-blazblue-chrono-phantasma-extend-additional-character-color-1.json) |
+| BlazBlue: Clone Phantasma | 64233 | [64233-blazblue-clone-phantasma.json](./64233-blazblue-clone-phantasma.json) |
 | BlazBlue: Continuum Shift | 6750 | [6750-blazblue-continuum-shift.json](./6750-blazblue-continuum-shift.json) |
 | BlazBlue: Continuum Shift II | 11611 | [11611-blazblue-continuum-shift-ii.json](./11611-blazblue-continuum-shift-ii.json) |
 | BlazBlue: Continuum Shift II - Manga Edition | 89902 | [89902-blazblue-continuum-shift-ii-manga-edition.json](./89902-blazblue-continuum-shift-ii-manga-edition.json) |
@@ -11812,6 +11813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brayan Odleys Numbers | 74377 | [74377-brayan-odleys-numbers.json](./74377-brayan-odleys-numbers.json) |
 | Brayz | 407998 | [407998-brayz.json](./407998-brayz.json) |
 | Brazen | 399776 | [399776-brazen.json](./399776-brazen.json) |
+| Brazen | 64256 | [64256-brazen.json](./64256-brazen.json) |
 | Brazen Blaze | 265663 | [265663-brazen-blaze.json](./265663-brazen-blaze.json) |
 | Brazen Fruit | 233913 | [233913-brazen-fruit.json](./233913-brazen-fruit.json) |
 | Brazen Thief | 230882 | [230882-brazen-thief.json](./230882-brazen-thief.json) |
@@ -12586,6 +12588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Puppet | 124607 | [124607-broken-puppet.json](./124607-broken-puppet.json) |
 | Broken Race | 372099 | [372099-broken-race.json](./372099-broken-race.json) |
 | Broken Reality 2000 | 226272 | [226272-broken-reality-2000.json](./226272-broken-reality-2000.json) |
+| Broken Realm | 64082 | [64082-broken-realm.json](./64082-broken-realm.json) |
 | Broken Relic | 342896 | [342896-broken-relic.json](./342896-broken-relic.json) |
 | Broken Roads | 122866 | [122866-broken-roads.json](./122866-broken-roads.json) |
 | Broken Robot | 152840 | [152840-broken-robot.json](./152840-broken-robot.json) |
@@ -13655,6 +13658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullfight Ring no Hasha | 59428 | [59428-bullfight-ring-no-hasha.json](./59428-bullfight-ring-no-hasha.json) |
 | Bullfighter Neon | 193238 | [193238-bullfighter-neon.json](./193238-bullfighter-neon.json) |
 | Bullfrogs | 164314 | [164314-bullfrogs.json](./164314-bullfrogs.json) |
+| Bullion Blitz | 64257 | [64257-bullion-blitz.json](./64257-bullion-blitz.json) |
 | Bullring | 281373 | [281373-bullring.json](./281373-bullring.json) |
 | Bulls and Bears | 92154 | [92154-bulls-and-bears.json](./92154-bulls-and-bears.json) |
 | Bulls and Cows | 210592 | [210592-bulls-and-cows.json](./210592-bulls-and-cows.json) |
