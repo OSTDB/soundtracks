@@ -2945,6 +2945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Kill Hitler: The Game | 253914 | [253914-lets-kill-hitler-the-game.json](./253914-lets-kill-hitler-the-game.json) |
 | Let's Kill Iggy! | 330843 | [330843-lets-kill-iggy.json](./330843-lets-kill-iggy.json) |
 | Let's Kill This Guy With Hammers!!! | 291357 | [291357-lets-kill-this-guy-with-hammers.json](./291357-lets-kill-this-guy-with-hammers.json) |
+| Let's Kill Zombies VR | 86642 | [86642-lets-kill-zombies-vr.json](./86642-lets-kill-zombies-vr.json) |
 | Let's Learn Janggi | 147876 | [147876-lets-learn-janggi.json](./147876-lets-learn-janggi.json) |
 | Let's Learn Japanese! Complete Collection | 306696 | [306696-lets-learn-japanese-complete-collection.json](./306696-lets-learn-japanese-complete-collection.json) |
 | Let's Learn Japanese! Kanji Sudoku | 306440 | [306440-lets-learn-japanese-kanji-sudoku.json](./306440-lets-learn-japanese-kanji-sudoku.json) |
