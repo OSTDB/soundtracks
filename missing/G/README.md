@@ -8722,6 +8722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunRun | 266604 | [266604-gunrun.json](./266604-gunrun.json) |
 | Guns 'n Goblins | 399259 | [399259-guns-n-goblins.json](./399259-guns-n-goblins.json) |
 | Guns 'n Guts | 110973 | [110973-guns-n-guts.json](./110973-guns-n-guts.json) |
+| Guns & Ammo: Point of Impact Reloaded | 60843 | [60843-guns-and-ammo-point-of-impact-reloaded.json](./60843-guns-and-ammo-point-of-impact-reloaded.json) |
 | Guns & Bots | 304906 | [304906-guns-and-bots.json](./304906-guns-and-bots.json) |
 | Guns & Dragons | 403118 | [403118-guns-and-dragons.json](./403118-guns-and-dragons.json) |
 | Guns & Notes | 81876 | [81876-guns-and-notes.json](./81876-guns-and-notes.json) |
