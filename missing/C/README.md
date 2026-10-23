@@ -5237,6 +5237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Online | 88433 | [88433-chess-online.json](./88433-chess-online.json) |
 | Chess Online + | 88339 | [88339-chess-online.json](./88339-chess-online.json) |
 | Chess Opening Repertoire Builder | 297724 | [297724-chess-opening-repertoire-builder.json](./297724-chess-opening-repertoire-builder.json) |
+| Chess Openings Pro | 89020 | [89020-chess-openings-pro.json](./89020-chess-openings-pro.json) |
 | Chess or Die! | 105725 | [105725-chess-or-die.json](./105725-chess-or-die.json) |
 | Chess Peace | 401021 | [401021-chess-peace.json](./401021-chess-peace.json) |
 | Chess Pills | 203931 | [203931-chess-pills.json](./203931-chess-pills.json) |
@@ -10146,6 +10147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Community College Hero: Knowledge is Power | 99058 | [99058-community-college-hero-knowledge-is-power.json](./99058-community-college-hero-knowledge-is-power.json) |
 | Community College Hero: Trial by Fire | 34205 | [34205-community-college-hero-trial-by-fire.json](./34205-community-college-hero-trial-by-fire.json) |
 | Community Garden | 68589 | [68589-community-garden.json](./68589-community-garden.json) |
+| Community Helpers Play & Learn | 88999 | [88999-community-helpers-play-and-learn.json](./88999-community-helpers-play-and-learn.json) |
 | Community Inc | 40546 | [40546-community-inc.json](./40546-community-inc.json) |
 | CommunityUs | 117570 | [117570-communityus.json](./117570-communityus.json) |
 | Commutator | 393758 | [393758-commutator.json](./393758-commutator.json) |
@@ -14078,6 +14080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Maker | 208800 | [208800-crossword-maker.json](./208800-crossword-maker.json) |
 | Crossword Master | 381272 | [381272-crossword-master.json](./381272-crossword-master.json) |
 | Crossword Puzzle | 286096 | [286096-crossword-puzzle.json](./286096-crossword-puzzle.json) |
+| Crossword Puzzle - Redstone | 88992 | [88992-crossword-puzzle-redstone.json](./88992-crossword-puzzle-redstone.json) |
 | Crossword Safari: Word Hunt | 108630 | [108630-crossword-safari-word-hunt.json](./108630-crossword-safari-word-hunt.json) |
 | Crossworders' Dictionary and Gazetteer 4 | 88651 | [88651-crossworders-dictionary-and-gazetteer-4.json](./88651-crossworders-dictionary-and-gazetteer-4.json) |
 | Crosswords | 89675 | [89675-crosswords.json](./89675-crosswords.json) |
