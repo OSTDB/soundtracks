@@ -5168,6 +5168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Engine | 207897 | [207897-alien-engine.json](./207897-alien-engine.json) |
 | Alien Epidemic | 351744 | [351744-alien-epidemic.json](./351744-alien-epidemic.json) |
 | Alien Escape RPG: Idle Spider | 221336 | [221336-alien-escape-rpg-idle-spider.json](./221336-alien-escape-rpg-idle-spider.json) |
+| Alien Evaders | 94052 | [94052-alien-evaders.json](./94052-alien-evaders.json) |
 | Alien Express | 416573 | [416573-alien-express.json](./416573-alien-express.json) |
 | Alien Extraction | 195691 | [195691-alien-extraction.json](./195691-alien-extraction.json) |
 | Alien Field | 113179 | [113179-alien-field.json](./113179-alien-field.json) |
@@ -6925,6 +6926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Ode to Todd the Toad: Frogcare! | 185628 | [185628-an-ode-to-todd-the-toad-frogcare.json](./185628-an-ode-to-todd-the-toad-frogcare.json) |
 | An Odyssey: Echoes of War | 127696 | [127696-an-odyssey-echoes-of-war.json](./127696-an-odyssey-echoes-of-war.json) |
 | An Opportunity | 215527 | [215527-an-opportunity.json](./215527-an-opportunity.json) |
+| an Orc's Tale: Kriegsruf | 94050 | [94050-an-orcs-tale-kriegsruf.json](./94050-an-orcs-tale-kriegsruf.json) |
 | An Ordinary Sonic ROM Hack | 129178 | [129178-an-ordinary-sonic-rom-hack.json](./129178-an-ordinary-sonic-rom-hack.json) |
 | An Otaku like me has 2 Fiancees?! | 208271 | [208271-an-otaku-like-me-has-2-fiancees.json](./208271-an-otaku-like-me-has-2-fiancees.json) |
 | An Outcry | 182180 | [182180-an-outcry.json](./182180-an-outcry.json) |
@@ -7789,6 +7791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Zodiac | 298880 | [298880-animal-zodiac.json](./298880-animal-zodiac.json) |
 | Animal Zone | 211078 | [211078-animal-zone.json](./211078-animal-zone.json) |
 | Animal Zoo: The Forgotten Land | 314879 | [314879-animal-zoo-the-forgotten-land.json](./314879-animal-zoo-the-forgotten-land.json) |
+| AnimalAlbum | 94037 | [94037-animalalbum.json](./94037-animalalbum.json) |
 | AnimalDon! | 345984 | [345984-animaldon.json](./345984-animaldon.json) |
 | AnimalFruitTart | 369230 | [369230-animalfruittart.json](./369230-animalfruittart.json) |
 | Animalia | 216337 | [216337-animalia.json](./216337-animalia.json) |
@@ -13105,6 +13108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack from Mars | 217825 | [217825-attack-from-mars.json](./217825-attack-from-mars.json) |
 | Attack From Mars | 91434 | [91434-attack-from-mars.json](./91434-attack-from-mars.json) |
 | Attack from Planet Smiley | 157968 | [157968-attack-from-planet-smiley.json](./157968-attack-from-planet-smiley.json) |
+| Attack from the Dead | 94056 | [94056-attack-from-the-dead.json](./94056-attack-from-the-dead.json) |
 | Attack Heroes | 28305 | [28305-attack-heroes.json](./28305-attack-heroes.json) |
 | Attack of the Alien Robot Monsters | 114745 | [114745-attack-of-the-alien-robot-monsters.json](./114745-attack-of-the-alien-robot-monsters.json) |
 | Attack of the alien thingies from lava! | 129617 | [129617-attack-of-the-alien-thingies-from-lava.json](./129617-attack-of-the-alien-thingies-from-lava.json) |
@@ -13865,6 +13869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid | 177406 | [177406-avoid.json](./177406-avoid.json) |
 | Avoid | 271101 | [271101-avoid.json](./271101-avoid.json) |
 | Avoid Ahoge | 179606 | [179606-avoid-ahoge.json](./179606-avoid-ahoge.json) |
+| Avoid Droid | 94075 | [94075-avoid-droid.json](./94075-avoid-droid.json) |
 | Avoid Falls! | 293477 | [293477-avoid-falls.json](./293477-avoid-falls.json) |
 | Avoid It! | 241420 | [241420-avoid-it.json](./241420-avoid-it.json) |
 | Avoid Korean Memes | 245207 | [245207-avoid-korean-memes.json](./245207-avoid-korean-memes.json) |
