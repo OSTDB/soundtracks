@@ -4966,6 +4966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyokkou no Marriage: Episode Lia | 317100 | [317100-kyokkou-no-marriage-episode-lia.json](./317100-kyokkou-no-marriage-episode-lia.json) |
 | Kyokugen Dasshutsu Minigame: Renda Shibou Desu | 298861 | [298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json](./298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json) |
 | Kyonshies 2 | 36900 | [36900-kyonshies-2.json](./36900-kyonshies-2.json) |
+| Kyonyuu Fantasy 3 if | 77824 | [77824-kyonyuu-fantasy-3-if.json](./77824-kyonyuu-fantasy-3-if.json) |
 | Kyonyuu Hitozuma Shimai wa Nakadashi Niku Benki: Oi no Wakai Kyokon ni Soku Ochi Mesu Yorokobi de Netori Haramase Onedari | 59029 | [59029-kyonyuu-hitozuma-shimai-wa-nakadashi-niku-benki-oi-no-wakai-kyokon-ni-soku-ochi-mesu-yorokobi-de-netori-haramase-onedari.json](./59029-kyonyuu-hitozuma-shimai-wa-nakadashi-niku-benki-oi-no-wakai-kyokon-ni-soku-ochi-mesu-yorokobi-de-netori-haramase-onedari.json) |
 | Kyora | 325587 | [325587-kyora.json](./325587-kyora.json) |
 | Kyoro-chan Land | 206598 | [206598-kyoro-chan-land.json](./206598-kyoro-chan-land.json) |
