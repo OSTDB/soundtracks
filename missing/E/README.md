@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecliptic | 337151 | [337151-ecliptic.json](./337151-ecliptic.json) |
 | Ecliptica | 398001 | [398001-ecliptica.json](./398001-ecliptica.json) |
 | Eclosion | 266695 | [266695-eclosion.json](./266695-eclosion.json) |
+| Eclosion | 67106 | [67106-eclosion.json](./67106-eclosion.json) |
 | Eco | 34939 | [34939-eco.json](./34939-eco.json) |
 | Eco Balance | 400704 | [400704-eco-balance.json](./400704-eco-balance.json) |
 | Eco Breaker | 213896 | [213896-eco-breaker.json](./213896-eco-breaker.json) |
@@ -1698,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electro Freddy | 13631 | [13631-electro-freddy.json](./13631-electro-freddy.json) |
 | Electro Game Collection | 301366 | [301366-electro-game-collection.json](./301366-electro-game-collection.json) |
 | Electro Man | 70109 | [70109-electro-man.json](./70109-electro-man.json) |
+| Electro Racer | 67056 | [67056-electro-racer.json](./67056-electro-racer.json) |
 | Electro Rush | 39201 | [39201-electro-rush.json](./39201-electro-rush.json) |
 | Electro-Dynamic Mayhem | 324679 | [324679-electro-dynamic-mayhem.json](./324679-electro-dynamic-mayhem.json) |
 | Electrobasis | 290618 | [290618-electrobasis.json](./290618-electrobasis.json) |
