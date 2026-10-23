@@ -1395,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain America: Shield of Justice | 65852 | [65852-captain-america-shield-of-justice.json](./65852-captain-america-shield-of-justice.json) |
 | Captain America: Super Soldier | 248740 | [248740-captain-america-super-soldier.json](./248740-captain-america-super-soldier.json) |
 | Captain America: Super Soldier | 4745 | [4745-captain-america-super-soldier.json](./4745-captain-america-super-soldier.json) |
+| Captain Backwater | 54870 | [54870-captain-backwater.json](./54870-captain-backwater.json) |
 | Captain Barrel | 320453 | [320453-captain-barrel.json](./320453-captain-barrel.json) |
 | Captain Beeble | 294722 | [294722-captain-beeble.json](./294722-captain-beeble.json) |
 | Captain Bible in Dome of Darkness | 64089 | [64089-captain-bible-in-dome-of-darkness.json](./64089-captain-bible-in-dome-of-darkness.json) |
@@ -7450,6 +7451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citypurger | 323411 | [323411-citypurger.json](./323411-citypurger.json) |
 | Cityquiz.io | 305324 | [305324-cityquiz-io.json](./305324-cityquiz-io.json) |
 | CityRunner | 155409 | [155409-cityrunner.json](./155409-cityrunner.json) |
+| CityScape Jigsaw Puzzles: Animated | 54868 | [54868-cityscape-jigsaw-puzzles-animated.json](./54868-cityscape-jigsaw-puzzles-animated.json) |
 | Cityscape Sprint | 208676 | [208676-cityscape-sprint.json](./208676-cityscape-sprint.json) |
 | Cityscapes | 386554 | [386554-cityscapes.json](./386554-cityscapes.json) |
 | Cityscapes: Sim Builder | 248581 | [248581-cityscapes-sim-builder.json](./248581-cityscapes-sim-builder.json) |
@@ -8591,6 +8593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutter 2: He Said She Said | 317294 | [317294-clutter-2-he-said-she-said.json](./317294-clutter-2-he-said-she-said.json) |
 | Clutter Craze | 82188 | [82188-clutter-craze.json](./82188-clutter-craze.json) |
 | Clutter III : Who Is The Void? | 318199 | [318199-clutter-iii-who-is-the-void.json](./318199-clutter-iii-who-is-the-void.json) |
+| Clutter Infinity: Joe's Ultimate Quest | 54809 | [54809-clutter-infinity-joes-ultimate-quest.json](./54809-clutter-infinity-joes-ultimate-quest.json) |
 | Clutter IX: Clutter IXtreme | 163798 | [163798-clutter-ix-clutter-ixtreme.json](./163798-clutter-ix-clutter-ixtreme.json) |
 | Clutter Puzzle Magazine Vol. 15 No. 1: Collector's Edition | 281999 | [281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json](./281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json) |
 | Clutter Puzzle Magazine: Vol. 16 No. 2 - Collector's Edition | 298695 | [298695-clutter-puzzle-magazine-vol-16-no-2-collectors-edition.json](./298695-clutter-puzzle-magazine-vol-16-no-2-collectors-edition.json) |
@@ -15995,6 +15998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Combat | 236335 | [236335-cyber-combat.json](./236335-cyber-combat.json) |
 | Cyber Commander: Zombie Revenge | 302212 | [302212-cyber-commander-zombie-revenge.json](./302212-cyber-commander-zombie-revenge.json) |
 | Cyber Commando | 63704 | [63704-cyber-commando.json](./63704-cyber-commando.json) |
+| Cyber Complex | 54813 | [54813-cyber-complex.json](./54813-cyber-complex.json) |
 | Cyber Courier 2088 | 233666 | [233666-cyber-courier-2088.json](./233666-cyber-courier-2088.json) |
 | Cyber Cult City | 154083 | [154083-cyber-cult-city.json](./154083-cyber-cult-city.json) |
 | Cyber Cycle | 130047 | [130047-cyber-cycle.json](./130047-cyber-cycle.json) |
