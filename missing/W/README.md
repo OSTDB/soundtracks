@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Rights | 33953 | [33953-war-of-rights.json](./33953-war-of-rights.json) |
 | War of Roses | 177506 | [177506-war-of-roses.json](./177506-war-of-roses.json) |
 | War of Ships | 225895 | [225895-war-of-ships.json](./225895-war-of-ships.json) |
+| War of Sonria | 64154 | [64154-war-of-sonria.json](./64154-war-of-sonria.json) |
 | War of Tanks: Blitzkrieg | 288435 | [288435-war-of-tanks-blitzkrieg.json](./288435-war-of-tanks-blitzkrieg.json) |
 | War of the AI | 256239 | [256239-war-of-the-ai.json](./256239-war-of-the-ai.json) |
 | War of the Ancients | 110222 | [110222-war-of-the-ancients.json](./110222-war-of-the-ancients.json) |
@@ -3195,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -4314,6 +4316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildfire | 372768 | [372768-wildfire.json](./372768-wildfire.json) |
 | Wildfire | 94915 | [94915-wildfire.json](./94915-wildfire.json) |
 | Wildfire Swap | 145350 | [145350-wildfire-swap.json](./145350-wildfire-swap.json) |
+| Wildfire Worlds | 64255 | [64255-wildfire-worlds.json](./64255-wildfire-worlds.json) |
 | Wildfire: Ticket to Rock | 161719 | [161719-wildfire-ticket-to-rock.json](./161719-wildfire-ticket-to-rock.json) |
 | Wildflower: From the Embers | 178095 | [178095-wildflower-from-the-embers.json](./178095-wildflower-from-the-embers.json) |
 | WildFront | 274474 | [274474-wildfront.json](./274474-wildfront.json) |
