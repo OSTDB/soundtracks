@@ -13541,6 +13541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Pen Sports | 92382 | [92382-dual-pen-sports.json](./92382-dual-pen-sports.json) |
 | Dual Pong | 134944 | [134944-dual-pong.json](./134944-dual-pong.json) |
 | Dual Protocol: The Case of Eva & Miles | 407324 | [407324-dual-protocol-the-case-of-eva-and-miles.json](./407324-dual-protocol-the-case-of-eva-and-miles.json) |
+| Dual Snake | 81004 | [81004-dual-snake.json](./81004-dual-snake.json) |
 | Dual Souls: The Last Bearer - Complete Edition | 196049 | [196049-dual-souls-the-last-bearer-complete-edition.json](./196049-dual-souls-the-last-bearer-complete-edition.json) |
 | Dual Spin | 241346 | [241346-dual-spin.json](./241346-dual-spin.json) |
 | Dual Tennis | 246959 | [246959-dual-tennis.json](./246959-dual-tennis.json) |
