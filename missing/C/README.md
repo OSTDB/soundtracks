@@ -7128,6 +7128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Bus | 64846 | [64846-city-bus.json](./64846-city-bus.json) |
 | City Bus Driver Simulator | 279864 | [279864-city-bus-driver-simulator.json](./279864-city-bus-driver-simulator.json) |
 | City Bus Driver Simulator 2 | 311632 | [311632-city-bus-driver-simulator-2.json](./311632-city-bus-driver-simulator-2.json) |
+| City Bus Driving Sim | 98857 | [98857-city-bus-driving-sim.json](./98857-city-bus-driving-sim.json) |
 | City Bus Driving Simulator | 147606 | [147606-city-bus-driving-simulator.json](./147606-city-bus-driving-simulator.json) |
 | City Bus Manager | 214150 | [214150-city-bus-manager.json](./214150-city-bus-manager.json) |
 | City Bus Simulator | 308999 | [308999-city-bus-simulator.json](./308999-city-bus-simulator.json) |
@@ -14870,6 +14871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Stack Ultimate | 289765 | [289765-cube-stack-ultimate.json](./289765-cube-stack-ultimate.json) |
 | Cube Survivor | 274328 | [274328-cube-survivor.json](./274328-cube-survivor.json) |
 | Cube Tactics | 85558 | [85558-cube-tactics.json](./85558-cube-tactics.json) |
+| Cube Universe | 98759 | [98759-cube-universe.json](./98759-cube-universe.json) |
 | Cube War | 284984 | [284984-cube-war.json](./284984-cube-war.json) |
 | Cube Way | 75902 | [75902-cube-way.json](./75902-cube-way.json) |
 | Cube Way 2 | 83155 | [83155-cube-way-2.json](./83155-cube-way-2.json) |
@@ -14934,6 +14936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubes Problem | 347102 | [347102-cubes-problem.json](./347102-cubes-problem.json) |
 | Cubes: Procedural Wonders | 240339 | [240339-cubes-procedural-wonders.json](./240339-cubes-procedural-wonders.json) |
 | CubeSat Builder: Build a NASA Spacecraft! | 309025 | [309025-cubesat-builder-build-a-nasa-spacecraft.json](./309025-cubesat-builder-build-a-nasa-spacecraft.json) |
+| Cubesc | 98760 | [98760-cubesc.json](./98760-cubesc.json) |
 | Cubeshift | 54542 | [54542-cubeshift.json](./54542-cubeshift.json) |
 | CubeShooter | 203967 | [203967-cubeshooter.json](./203967-cubeshooter.json) |
 | CubeShot | 218635 | [218635-cubeshot.json](./218635-cubeshot.json) |
