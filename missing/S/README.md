@@ -976,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sammy Lightfoot | 23885 | [23885-sammy-lightfoot.json](./23885-sammy-lightfoot.json) |
 | Sammy Sosa High Heat Baseball 2001 | 855 | [855-sammy-sosa-high-heat-baseball-2001.json](./855-sammy-sosa-high-heat-baseball-2001.json) |
 | Sammy Sosa High Heat Baseball 2001: Championship Edition | 206669 | [206669-sammy-sosa-high-heat-baseball-2001-championship-edition.json](./206669-sammy-sosa-high-heat-baseball-2001-championship-edition.json) |
+| Sammy Sosa Softball Slam | 45051 | [45051-sammy-sosa-softball-slam.json](./45051-sammy-sosa-softball-slam.json) |
 | Sammy Suricate | 61427 | [61427-sammy-suricate.json](./61427-sammy-suricate.json) |
 | Sammy The Sharky | 411081 | [411081-sammy-the-sharky.json](./411081-sammy-the-sharky.json) |
 | Sammy the Sperm | 326146 | [326146-sammy-the-sperm.json](./326146-sammy-the-sperm.json) |
@@ -1098,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown: Deluxe Pack | 237974 | [237974-samurai-shodown-deluxe-pack.json](./237974-samurai-shodown-deluxe-pack.json) |
 | Samurai Shodown: Nakoruru Retro 3D Costume | 350223 | [350223-samurai-shodown-nakoruru-retro-3d-costume.json](./350223-samurai-shodown-nakoruru-retro-3d-costume.json) |
 | Samurai Shodown: Oborozuki Densetsu | 112917 | [112917-samurai-shodown-oborozuki-densetsu.json](./112917-samurai-shodown-oborozuki-densetsu.json) |
+| Samurai Shodown: Warriors Rage | 45053 | [45053-samurai-shodown-warriors-rage.json](./45053-samurai-shodown-warriors-rage.json) |
 | Samurai Shoguns Heart: Romance Among the Cherry Blossoms | 378783 | [378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json](./378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json) |
 | Samurai Siege | 38868 | [38868-samurai-siege.json](./38868-samurai-siege.json) |
 | Samurai Slash | 254326 | [254326-samurai-slash.json](./254326-samurai-slash.json) |
@@ -2805,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble Sprint | 191503 | [191503-scrabble-sprint.json](./191503-scrabble-sprint.json) |
 | Scrabble Tetris | 385944 | [385944-scrabble-tetris.json](./385944-scrabble-tetris.json) |
 | Scrabble: Champion Edition | 209016 | [209016-scrabble-champion-edition.json](./209016-scrabble-champion-edition.json) |
+| Scrabble: Crossword Game | 45054 | [45054-scrabble-crossword-game.json](./45054-scrabble-crossword-game.json) |
 | Scrabble: Deluxe Edition | 145290 | [145290-scrabble-deluxe-edition.json](./145290-scrabble-deluxe-edition.json) |
 | Scrabbleman | 302782 | [302782-scrabbleman.json](./302782-scrabbleman.json) |
 | Scrabdackle | 141167 | [141167-scrabdackle.json](./141167-scrabdackle.json) |
@@ -3290,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Wolves | 73517 | [73517-sea-wolves.json](./73517-sea-wolves.json) |
 | Sea World | 246503 | [246503-sea-world.json](./246503-sea-world.json) |
 | Sea-Doo Hydrocross | 264853 | [264853-sea-doo-hydrocross.json](./264853-sea-doo-hydrocross.json) |
+| Sea-Doo HydroCross | 45055 | [45055-sea-doo-hydrocross.json](./45055-sea-doo-hydrocross.json) |
 | Sea-Man | 287550 | [287550-sea-man.json](./287550-sea-man.json) |
 | Seabed Frog | 211956 | [211956-seabed-frog.json](./211956-seabed-frog.json) |
 | Seabed Settlers | 310101 | [310101-seabed-settlers.json](./310101-seabed-settlers.json) |
@@ -12130,6 +12134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sno Pokeler | 237532 | [237532-sno-pokeler.json](./237532-sno-pokeler.json) |
 | Snø: Ultimate Freeriding | 317533 | [317533-sn-ultimate-freeriding.json](./317533-sn-ultimate-freeriding.json) |
 | Snoball in Hell | 293314 | [293314-snoball-in-hell.json](./293314-snoball-in-hell.json) |
+| SnoCross Championship Racing | 45035 | [45035-snocross-championship-racing.json](./45035-snocross-championship-racing.json) |
 | Snogbert | 347805 | [347805-snogbert.json](./347805-snogbert.json) |
 | Snoggle | 172458 | [172458-snoggle.json](./172458-snoggle.json) |
 | Snoik! | 230729 | [230729-snoik.json](./230729-snoik.json) |
@@ -14500,6 +14505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer's Dream | 41917 | [41917-sorcerers-dream.json](./41917-sorcerers-dream.json) |
 | Sorcerer's Fortitude | 379178 | [379178-sorcerers-fortitude.json](./379178-sorcerers-fortitude.json) |
 | Sorcerer's Kingdom | 46197 | [46197-sorcerers-kingdom.json](./46197-sorcerers-kingdom.json) |
+| Sorcerer's Maze | 45061 | [45061-sorcerers-maze.json](./45061-sorcerers-maze.json) |
 | Sorcerer's Mid-month Exam | 247613 | [247613-sorcerers-mid-month-exam.json](./247613-sorcerers-mid-month-exam.json) |
 | Sorcerer's Path | 87969 | [87969-sorcerers-path.json](./87969-sorcerers-path.json) |
 | Sorcerer's Refuge | 409518 | [409518-sorcerers-refuge.json](./409518-sorcerers-refuge.json) |
@@ -22477,6 +22483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Scooters | 279217 | [279217-street-scooters.json](./279217-street-scooters.json) |
 | Street Shuffle | 134659 | [134659-street-shuffle.json](./134659-street-shuffle.json) |
 | Street Shuffle | 212160 | [212160-street-shuffle.json](./212160-street-shuffle.json) |
+| Street Sk8er 2 | 45033 | [45033-street-sk8er-2.json](./45033-street-sk8er-2.json) |
 | Street Skater City | 180484 | [180484-street-skater-city.json](./180484-street-skater-city.json) |
 | Street Smart | 41084 | [41084-street-smart.json](./41084-street-smart.json) |
 | Street Soccer Online | 345087 | [345087-street-soccer-online.json](./345087-street-soccer-online.json) |
