@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.E.T. | 192812 | [192812-g-e-t.json](./192812-g-e-t.json) |
 | G.G Series Collection + | 66965 | [66965-g-g-series-collection.json](./66965-g-g-series-collection.json) |
 | G.G Series: Air Pinball Hockey | 60083 | [60083-g-g-series-air-pinball-hockey.json](./60083-g-g-series-air-pinball-hockey.json) |
+| G.G Series: All Breaker | 85160 | [85160-g-g-series-all-breaker.json](./85160-g-g-series-all-breaker.json) |
 | G.G Series: D-Tank | 84546 | [84546-g-g-series-d-tank.json](./84546-g-g-series-d-tank.json) |
 | G.G Series: Great Whip Adventure | 84567 | [84567-g-g-series-great-whip-adventure.json](./84567-g-g-series-great-whip-adventure.json) |
 | G.G Series: Hero Puzzle | 84569 | [84569-g-g-series-hero-puzzle.json](./84569-g-g-series-hero-puzzle.json) |
@@ -191,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gabriel’s Worlds: The Sokoban Adventure | 378192 | [378192-gabriel-s-worlds-the-sokoban-adventure.json](./378192-gabriel-s-worlds-the-sokoban-adventure.json) |
 | Gabrielle | 221967 | [221967-gabrielle.json](./221967-gabrielle.json) |
 | Gabrielle's Ghostly Groove 3D | 23520 | [23520-gabrielles-ghostly-groove-3d.json](./23520-gabrielles-ghostly-groove-3d.json) |
+| Gabrielle's Ghostly Groove Mini | 85159 | [85159-gabrielles-ghostly-groove-mini.json](./85159-gabrielles-ghostly-groove-mini.json) |
 | Gabrielle's Ghostly Groove: Monster Mix | 23666 | [23666-gabrielles-ghostly-groove-monster-mix.json](./23666-gabrielles-ghostly-groove-monster-mix.json) |
 | Gabyouden | 375381 | [375381-gabyouden.json](./375381-gabyouden.json) |
 | Gacha Addict Simulator | 326198 | [326198-gacha-addict-simulator.json](./326198-gacha-addict-simulator.json) |
