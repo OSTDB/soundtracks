@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Maiden | 207856 | [207856-tactics-maiden.json](./207856-tactics-maiden.json) |
 | Tactics Maiden Remastered | 106557 | [106557-tactics-maiden-remastered.json](./106557-tactics-maiden-remastered.json) |
 | Tactics Ogre: Let Us Cling Together | 5550 | [5550-tactics-ogre-let-us-cling-together.json](./5550-tactics-ogre-let-us-cling-together.json) |
+| Tactics Ogre: Ogre Battle Series | 45031 | [45031-tactics-ogre-ogre-battle-series.json](./45031-tactics-ogre-ogre-battle-series.json) |
 | Tactics Ogre: The Knight of Lodis | 6635 | [6635-tactics-ogre-the-knight-of-lodis.json](./6635-tactics-ogre-the-knight-of-lodis.json) |
 | Tactics Returners | 345508 | [345508-tactics-returners.json](./345508-tactics-returners.json) |
 | Tactics Rogue | 109709 | [109709-tactics-rogue.json](./109709-tactics-rogue.json) |
@@ -1311,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talksport Interactive Quiz | 320902 | [320902-talksport-interactive-quiz.json](./320902-talksport-interactive-quiz.json) |
 | TalkTics: Double Served | 303793 | [303793-talktics-double-served.json](./303793-talktics-double-served.json) |
 | Tall Bagel | 141626 | [141626-tall-bagel.json](./141626-tall-bagel.json) |
+| Tall Infinity | 45062 | [45062-tall-infinity.json](./45062-tall-infinity.json) |
 | Tall Man Run | 208953 | [208953-tall-man-run.json](./208953-tall-man-run.json) |
 | Tall Poppy | 172550 | [172550-tall-poppy.json](./172550-tall-poppy.json) |
 | Tall Ships: Age of Sail | 256537 | [256537-tall-ships-age-of-sail.json](./256537-tall-ships-age-of-sail.json) |
@@ -2634,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo World Cup '92 | 46102 | [46102-tecmo-world-cup-92.json](./46102-tecmo-world-cup-92.json) |
 | Tecmo World Cup '93 | 46101 | [46101-tecmo-world-cup-93.json](./46101-tecmo-world-cup-93.json) |
 | Tecmo World Cup Soccer | 48225 | [48225-tecmo-world-cup-soccer.json](./48225-tecmo-world-cup-soccer.json) |
+| Tecmo World Golf | 45064 | [45064-tecmo-world-golf.json](./45064-tecmo-world-golf.json) |
 | Tecmo World Wrestling | 48083 | [48083-tecmo-world-wrestling.json](./48083-tecmo-world-wrestling.json) |
 | Tecmo's Deception: Invitation to Darkness | 20801 | [20801-tecmos-deception-invitation-to-darkness.json](./20801-tecmos-deception-invitation-to-darkness.json) |
 | TecnoballZ | 50412 | [50412-tecnoballz.json](./50412-tecnoballz.json) |
@@ -3173,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchi Muyo! Toko Muyo | 66384 | [66384-tenchi-muyo-toko-muyo.json](./66384-tenchi-muyo-toko-muyo.json) |
 | Tenchi wo Kurau | 287154 | [287154-tenchi-wo-kurau.json](./287154-tenchi-wo-kurau.json) |
 | Tenchi wo Kurau | 298800 | [298800-tenchi-wo-kurau.json](./298800-tenchi-wo-kurau.json) |
+| Tenchi wo Kurau II: Sekiheki no Tatakai | 45019 | [45019-tenchi-wo-kurau-ii-sekiheki-no-tatakai.json](./45019-tenchi-wo-kurau-ii-sekiheki-no-tatakai.json) |
 | Tenchi wo Kurau: Sangokushi Gunyuuden | 37790 | [37790-tenchi-wo-kurau-sangokushi-gunyuuden.json](./37790-tenchi-wo-kurau-sangokushi-gunyuuden.json) |
 | Tencho no Igo | 65565 | [65565-tencho-no-igo.json](./65565-tencho-no-igo.json) |
 | Tenchou's Deadline Dash! | 385442 | [385442-tenchous-deadline-dash.json](./385442-tenchous-deadline-dash.json) |
@@ -3271,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Antics | 54426 | [54426-tennis-antics.json](./54426-tennis-antics.json) |
 | Tennis Arcade VR | 81001 | [81001-tennis-arcade-vr.json](./81001-tennis-arcade-vr.json) |
 | Tennis Arena | 227955 | [227955-tennis-arena.json](./227955-tennis-arena.json) |
+| Tennis Arena | 45065 | [45065-tennis-arena.json](./45065-tennis-arena.json) |
 | Tennis Bits | 58305 | [58305-tennis-bits.json](./58305-tennis-bits.json) |
 | Tennis Challenge | 230845 | [230845-tennis-challenge.json](./230845-tennis-challenge.json) |
 | Tennis Challenge | 239563 | [239563-tennis-challenge.json](./239563-tennis-challenge.json) |
@@ -3854,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive V-Rally | 45844 | [45844-test-drive-v-rally.json](./45844-test-drive-v-rally.json) |
 | Test Drive: Eve of Destruction | 6197 | [6197-test-drive-eve-of-destruction.json](./6197-test-drive-eve-of-destruction.json) |
 | Test Drive: Ferrari Racing Legends | 7217 | [7217-test-drive-ferrari-racing-legends.json](./7217-test-drive-ferrari-racing-legends.json) |
+| Test Drive: Le Mans | 45066 | [45066-test-drive-le-mans.json](./45066-test-drive-le-mans.json) |
 | Test Drive: Off-Road 2 | 45086 | [45086-test-drive-off-road-2.json](./45086-test-drive-off-road-2.json) |
 | Test Drive: Off-Road 3 | 49905 | [49905-test-drive-off-road-3.json](./49905-test-drive-off-road-3.json) |
 | Test Drive: Offroad | 206222 | [206222-test-drive-offroad.json](./206222-test-drive-offroad.json) |
@@ -9442,10 +9448,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land Before Time | 69555 | [69555-the-land-before-time.json](./69555-the-land-before-time.json) |
 | The Land Before Time Animated MovieBook | 329643 | [329643-the-land-before-time-animated-moviebook.json](./329643-the-land-before-time-animated-moviebook.json) |
 | The Land Before Time: Activity Center | 229378 | [229378-the-land-before-time-activity-center.json](./229378-the-land-before-time-activity-center.json) |
+| The Land Before Time: Big Water Adventure | 45068 | [45068-the-land-before-time-big-water-adventure.json](./45068-the-land-before-time-big-water-adventure.json) |
+| The Land Before Time: Great Valley Racing Adventure | 45069 | [45069-the-land-before-time-great-valley-racing-adventure.json](./45069-the-land-before-time-great-valley-racing-adventure.json) |
 | The Land Before Time: Into the Mysterious Beyond | 49332 | [49332-the-land-before-time-into-the-mysterious-beyond.json](./49332-the-land-before-time-into-the-mysterious-beyond.json) |
 | The Land Before Time: Math Adventure | 329646 | [329646-the-land-before-time-math-adventure.json](./329646-the-land-before-time-math-adventure.json) |
 | The Land Before Time: Prehistoric Adventures | 329652 | [329652-the-land-before-time-prehistoric-adventures.json](./329652-the-land-before-time-prehistoric-adventures.json) |
 | The Land Before Time: Preschool Adventure | 329647 | [329647-the-land-before-time-preschool-adventure.json](./329647-the-land-before-time-preschool-adventure.json) |
+| The Land Before Time: Return to the Great Valley | 45070 | [45070-the-land-before-time-return-to-the-great-valley.json](./45070-the-land-before-time-return-to-the-great-valley.json) |
 | The Land Before Time: Toddler Time | 329648 | [329648-the-land-before-time-toddler-time.json](./329648-the-land-before-time-toddler-time.json) |
 | The Land Beneath Us | 221115 | [221115-the-land-beneath-us.json](./221115-the-land-beneath-us.json) |
 | The Land Beyond the Forest | 416757 | [416757-the-land-beyond-the-forest.json](./416757-the-land-beyond-the-forest.json) |
@@ -11321,6 +11330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
