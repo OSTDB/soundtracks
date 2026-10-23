@@ -834,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galia Senki: Yuuhen Annales | 157979 | [157979-galia-senki-yuuhen-annales.json](./157979-galia-senki-yuuhen-annales.json) |
 | Galidor Quest | 214944 | [214944-galidor-quest.json](./214944-galidor-quest.json) |
 | Galidor: Defenders of the Outer Dimension | 316808 | [316808-galidor-defenders-of-the-outer-dimension.json](./316808-galidor-defenders-of-the-outer-dimension.json) |
+| Galidor: Defenders of the Outer Dimension | 49172 | [49172-galidor-defenders-of-the-outer-dimension.json](./49172-galidor-defenders-of-the-outer-dimension.json) |
 | Galileo | 125676 | [125676-galileo.json](./125676-galileo.json) |
 | Galileo Mystery: The Crown of Midas | 268118 | [268118-galileo-mystery-the-crown-of-midas.json](./268118-galileo-mystery-the-crown-of-midas.json) |
 | Galimulator | 89971 | [89971-galimulator.json](./89971-galimulator.json) |
@@ -1230,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamer's Jackpot 30 PAC | 73649 | [73649-gamers-jackpot-30-pac.json](./73649-gamers-jackpot-30-pac.json) |
 | Gamera 2000 | 44865 | [44865-gamera-2000.json](./44865-gamera-2000.json) |
 | Gamera Dream Battle | 227743 | [227743-gamera-dream-battle.json](./227743-gamera-dream-battle.json) |
+| Gamera: Daikaijuu Kuuchuu Kessen | 49142 | [49142-gamera-daikaijuu-kuuchuu-kessen.json](./49142-gamera-daikaijuu-kuuchuu-kessen.json) |
 | Gamera: Gyaos Gekimetsu Sakusen | 44403 | [44403-gamera-gyaos-gekimetsu-sakusen.json](./44403-gamera-gyaos-gekimetsu-sakusen.json) |
 | Gamera: The Time Adventure | 66081 | [66081-gamera-the-time-adventure.json](./66081-gamera-the-time-adventure.json) |
 | Gamerbots: Third-Robot Shooting | 144036 | [144036-gamerbots-third-robot-shooting.json](./144036-gamerbots-third-robot-shooting.json) |
@@ -2055,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekitotsu Yonku Battle | 48484 | [48484-gekitotsu-yonku-battle.json](./48484-gekitotsu-yonku-battle.json) |
 | Gekitotsu! Saikyou Pro Yakyuu Dream Battle | 220303 | [220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json](./220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json) |
 | Gekitou Burning Pro Wrestling | 42593 | [42593-gekitou-burning-pro-wrestling.json](./42593-gekitou-burning-pro-wrestling.json) |
+| Gekitou Power Modeller | 49126 | [49126-gekitou-power-modeller.json](./49126-gekitou-power-modeller.json) |
 | Gekitou Pro Yakyuu | 3929 | [3929-gekitou-pro-yakyuu.json](./3929-gekitou-pro-yakyuu.json) |
 | Gekitou Senshi Nagerunder | 59202 | [59202-gekitou-senshi-nagerunder.json](./59202-gekitou-senshi-nagerunder.json) |
 | Gekitou! Crush Gear Turbo | 222184 | [222184-gekitou-crush-gear-turbo.json](./222184-gekitou-crush-gear-turbo.json) |
@@ -8212,6 +8215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Petit 2 | 9148 | [9148-guilty-gear-petit-2.json](./9148-guilty-gear-petit-2.json) |
 | Guilty Gear Strive: In the Name of Peace | 372007 | [372007-guilty-gear-strive-in-the-name-of-peace.json](./372007-guilty-gear-strive-in-the-name-of-peace.json) |
 | Guilty Gear X | 9141 | [9141-guilty-gear-x.json](./9141-guilty-gear-x.json) |
+| Guilty Gear X: Advance Edition | 49168 | [49168-guilty-gear-x-advance-edition.json](./49168-guilty-gear-x-advance-edition.json) |
 | Guilty Gear X: Ver 1.5 | 134303 | [134303-guilty-gear-x-ver-1-5.json](./134303-guilty-gear-x-ver-1-5.json) |
 | Guilty Gear X2 | 9142 | [9142-guilty-gear-x2.json](./9142-guilty-gear-x2.json) |
 | Guilty Gear X2 #Reload | 9143 | [9143-guilty-gear-x2-reload.json](./9143-guilty-gear-x2-reload.json) |
