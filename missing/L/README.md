@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L00P | 255671 | [255671-l00p.json](./255671-l00p.json) |
 | L2 Love x Loop | 219132 | [219132-l2-love-x-loop.json](./219132-l2-love-x-loop.json) |
 | l3bhm | 361280 | [361280-l3bhm.json](./361280-l3bhm.json) |
+| L5RC | 71324 | [71324-l5rc.json](./71324-l5rc.json) |
 | L8R | 229724 | [229724-l8r.json](./229724-l8r.json) |
 | La Abadía del Crimen | 12375 | [12375-la-abadia-del-crimen.json](./12375-la-abadia-del-crimen.json) |
 | La Artesana de Rostros | 388786 | [388786-la-artesana-de-rostros.json](./388786-la-artesana-de-rostros.json) |
