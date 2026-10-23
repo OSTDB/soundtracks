@@ -2750,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebuild | 100493 | [100493-rebuild.json](./100493-rebuild.json) |
 | Rebuild / Resist | 185523 | [185523-rebuild-resist.json](./185523-rebuild-resist.json) |
 | Rebuild 2 | 342030 | [342030-rebuild-2.json](./342030-rebuild-2.json) |
+| Rebuild of Evangelion: Sound Impact | 65902 | [65902-rebuild-of-evangelion-sound-impact.json](./65902-rebuild-of-evangelion-sound-impact.json) |
 | Rebuild the Wall | 289309 | [289309-rebuild-the-wall.json](./289309-rebuild-the-wall.json) |
 | Rebuild: Gangs of Deadsville | 65024 | [65024-rebuild-gangs-of-deadsville.json](./65024-rebuild-gangs-of-deadsville.json) |
 | Rebuild: Original Rebuild 2 | 286425 | [286425-rebuild-original-rebuild-2.json](./286425-rebuild-original-rebuild-2.json) |
@@ -2986,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Bull MotoCross 2D | 198136 | [198136-red-bull-motocross-2d.json](./198136-red-bull-motocross-2d.json) |
 | Red Bull Pac-Man | 219441 | [219441-red-bull-pac-man.json](./219441-red-bull-pac-man.json) |
 | Red Bull X-Fighters | 20629 | [20629-red-bull-x-fighters.json](./20629-red-bull-x-fighters.json) |
+| Red Bull X-Fighters World Tour | 65909 | [65909-red-bull-x-fighters-world-tour.json](./65909-red-bull-x-fighters-world-tour.json) |
 | Red Bull: Soapbox Racers | 336920 | [336920-red-bull-soapbox-racers.json](./336920-red-bull-soapbox-racers.json) |
 | Red Button | 172988 | [172988-red-button.json](./172988-red-button.json) |
 | Red Cap Squad: Zombie Source | 339924 | [339924-red-cap-squad-zombie-source.json](./339924-red-cap-squad-zombie-source.json) |
