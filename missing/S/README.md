@@ -15472,6 +15472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Jammers | 27651 | [27651-space-jammers.json](./27651-space-jammers.json) |
 | Space Jelly | 297479 | [297479-space-jelly.json](./297479-space-jelly.json) |
 | Space Jet: War Galaxy Machines | 88633 | [88633-space-jet-war-galaxy-machines.json](./88633-space-jet-war-galaxy-machines.json) |
+| Space Job | 70219 | [70219-space-job.json](./70219-space-job.json) |
 | Space Jones VR | 31816 | [31816-space-jones-vr.json](./31816-space-jones-vr.json) |
 | Space Journey | 343777 | [343777-space-journey.json](./343777-space-journey.json) |
 | Space Jump Cat | 111586 | [111586-space-jump-cat.json](./111586-space-jump-cat.json) |
@@ -15677,6 +15678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Reign | 173047 | [173047-space-reign.json](./173047-space-reign.json) |
 | Space Renegades: The Series | 73859 | [73859-space-renegades-the-series.json](./73859-space-renegades-the-series.json) |
 | Space Rescue | 204328 | [204328-space-rescue.json](./204328-space-rescue.json) |
+| Space Rescue | 70231 | [70231-space-rescue.json](./70231-space-rescue.json) |
 | Space Rescue: Code Pink | 169417 | [169417-space-rescue-code-pink.json](./169417-space-rescue-code-pink.json) |
 | Space Restaurant | 337722 | [337722-space-restaurant.json](./337722-space-restaurant.json) |
 | Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
@@ -19215,6 +19217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: En Territoire Alien | 110351 | [110351-star-trek-en-territoire-alien.json](./110351-star-trek-en-territoire-alien.json) |
 | Star Trek: Encounters | 20594 | [20594-star-trek-encounters.json](./20594-star-trek-encounters.json) |
 | Star Trek: First Contact | 71059 | [71059-star-trek-first-contact.json](./71059-star-trek-first-contact.json) |
+| Star Trek: Generations | 70216 | [70216-star-trek-generations.json](./70216-star-trek-generations.json) |
 | Star Trek: Generations - Beyond the Nexus | 365692 | [365692-star-trek-generations-beyond-the-nexus.json](./365692-star-trek-generations-beyond-the-nexus.json) |
 | Star Trek: Generations - Beyond the Nexus | 46335 | [46335-star-trek-generations-beyond-the-nexus.json](./46335-star-trek-generations-beyond-the-nexus.json) |
 | Star Trek: Hidden Evil | 50392 | [50392-star-trek-hidden-evil.json](./50392-star-trek-hidden-evil.json) |
@@ -19487,6 +19490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: X-Wing Tour of Duty - Imperial Pursuit | 173 | [173-star-wars-x-wing-tour-of-duty-imperial-pursuit.json](./173-star-wars-x-wing-tour-of-duty-imperial-pursuit.json) |
 | Star Wars: X-Wing vs TIE Fighter - Balance of Power Campaigns | 400431 | [400431-star-wars-x-wing-vs-tie-fighter-balance-of-power-campaigns.json](./400431-star-wars-x-wing-vs-tie-fighter-balance-of-power-campaigns.json) |
 | Star Wars: X-Wing vs. TIE Fighter | 170 | [170-star-wars-x-wing-vs-tie-fighter.json](./170-star-wars-x-wing-vs-tie-fighter.json) |
+| Star Wars: Yoda's Challenge Activity Center | 70221 | [70221-star-wars-yodas-challenge-activity-center.json](./70221-star-wars-yodas-challenge-activity-center.json) |
 | Star Waspir | 318724 | [318724-star-waspir.json](./318724-star-waspir.json) |
 | Star Wing | 385716 | [385716-star-wing.json](./385716-star-wing.json) |
 | Star Wish Traveler | 166837 | [166837-star-wish-traveler.json](./166837-star-wish-traveler.json) |
@@ -20138,6 +20142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Troopers: Terran Command - Urban Onslaught | 298054 | [298054-starship-troopers-terran-command-urban-onslaught.json](./298054-starship-troopers-terran-command-urban-onslaught.json) |
 | Starship Tunnel | 156904 | [156904-starship-tunnel.json](./156904-starship-tunnel.json) |
 | Starship Turd Nugget: Too Cool For Stool | 169646 | [169646-starship-turd-nugget-too-cool-for-stool.json](./169646-starship-turd-nugget-too-cool-for-stool.json) |
+| Starship Tycoon | 70212 | [70212-starship-tycoon.json](./70212-starship-tycoon.json) |
 | Starship Warbeasts | 355356 | [355356-starship-warbeasts.json](./355356-starship-warbeasts.json) |
 | Starship Wars | 186555 | [186555-starship-wars.json](./186555-starship-wars.json) |
 | StarShip Wars | 389422 | [389422-starship-wars.json](./389422-starship-wars.json) |
@@ -24816,6 +24821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kreml Kart Super Rally | 71705 | [71705-super-kreml-kart-super-rally.json](./71705-super-kreml-kart-super-rally.json) |
 | Super Kyoutei 2 | 38194 | [38194-super-kyoutei-2.json](./38194-super-kyoutei-2.json) |
 | Super Kyuukyoku Harikiri Stadium 2 | 37815 | [37815-super-kyuukyoku-harikiri-stadium-2.json](./37815-super-kyuukyoku-harikiri-stadium-2.json) |
+| Super Lander | 70230 | [70230-super-lander.json](./70230-super-lander.json) |
 | Super Laser Fury | 240697 | [240697-super-laser-fury.json](./240697-super-laser-fury.json) |
 | Super Laser: The Alien Fighter | 66190 | [66190-super-laser-the-alien-fighter.json](./66190-super-laser-the-alien-fighter.json) |
 | Super Laura Up | 276163 | [276163-super-laura-up.json](./276163-super-laura-up.json) |
