@@ -12435,6 +12435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Bubblez | 103491 | [103491-dream-bubblez.json](./103491-dream-bubblez.json) |
 | Dream Builder: Amusement Park | 294200 | [294200-dream-builder-amusement-park.json](./294200-dream-builder-amusement-park.json) |
 | Dream Busters | 192825 | [192825-dream-busters.json](./192825-dream-busters.json) |
+| Dream C Club Gogo | 62523 | [62523-dream-c-club-gogo.json](./62523-dream-c-club-gogo.json) |
 | Dream C Club: Host Girls on Stage | 62711 | [62711-dream-c-club-host-girls-on-stage.json](./62711-dream-c-club-host-girls-on-stage.json) |
 | Dream Cafe | 271074 | [271074-dream-cafe.json](./271074-dream-cafe.json) |
 | Dream Cage | 329222 | [329222-dream-cage.json](./329222-dream-cage.json) |
@@ -14461,6 +14462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Square | 197739 | [197739-dungeon-square.json](./197739-dungeon-square.json) |
 | Dungeon Squire | 357188 | [357188-dungeon-squire.json](./357188-dungeon-squire.json) |
 | Dungeon Stalkers | 255912 | [255912-dungeon-stalkers.json](./255912-dungeon-stalkers.json) |
+| Dungeon Story | 62489 | [62489-dungeon-story.json](./62489-dungeon-story.json) |
 | Dungeon Striker | 63256 | [63256-dungeon-striker.json](./63256-dungeon-striker.json) |
 | Dungeon Sucker | 373333 | [373333-dungeon-sucker.json](./373333-dungeon-sucker.json) |
 | Dungeon Superballs | 56132 | [56132-dungeon-superballs.json](./56132-dungeon-superballs.json) |
