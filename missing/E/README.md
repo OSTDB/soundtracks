@@ -3224,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmatica 2: Expert | 255663 | [255663-enigmatica-2-expert.json](./255663-enigmatica-2-expert.json) |
 | Enigmatis 2: The Mists of Ravenwood | 17138 | [17138-enigmatis-2-the-mists-of-ravenwood.json](./17138-enigmatis-2-the-mists-of-ravenwood.json) |
 | Enigmatis 3: The Shadow of Karkhala | 32291 | [32291-enigmatis-3-the-shadow-of-karkhala.json](./32291-enigmatis-3-the-shadow-of-karkhala.json) |
+| Enigmatis Collection | 52986 | [52986-enigmatis-collection.json](./52986-enigmatis-collection.json) |
 | Enigmatis: The Ghosts of Maple Creek | 17137 | [17137-enigmatis-the-ghosts-of-maple-creek.json](./17137-enigmatis-the-ghosts-of-maple-creek.json) |
 | Enigmes & Objets Cachés : Le destin de Marie-Antoinette | 46459 | [46459-enigmes-and-objets-caches-le-destin-de-marie-antoinette.json](./46459-enigmes-and-objets-caches-le-destin-de-marie-antoinette.json) |
 | Enigmi.net | 327205 | [327205-enigmi-net.json](./327205-enigmi-net.json) |
@@ -3327,6 +3328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter the Drunkgeon | 149971 | [149971-enter-the-drunkgeon.json](./149971-enter-the-drunkgeon.json) |
 | Enter the Flesh Again | 105110 | [105110-enter-the-flesh-again.json](./105110-enter-the-flesh-again.json) |
 | Enter the Gungeon: A Farewell to Arms | 118942 | [118942-enter-the-gungeon-a-farewell-to-arms.json](./118942-enter-the-gungeon-a-farewell-to-arms.json) |
+| Enter the Gungeon: Collector's Edition | 52985 | [52985-enter-the-gungeon-collectors-edition.json](./52985-enter-the-gungeon-collectors-edition.json) |
 | Enter the Gungeon: Deluxe Edition | 136309 | [136309-enter-the-gungeon-deluxe-edition.json](./136309-enter-the-gungeon-deluxe-edition.json) |
 | Enter the Gungeon: House of the Gundead | 119317 | [119317-enter-the-gungeon-house-of-the-gundead.json](./119317-enter-the-gungeon-house-of-the-gundead.json) |
 | Enter The Lost Chamber | 294005 | [294005-enter-the-lost-chamber.json](./294005-enter-the-lost-chamber.json) |
@@ -4775,6 +4777,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Hope | 124198 | [124198-eternal-hope.json](./124198-eternal-hope.json) |
 | Eternal Hour: Golden Hour | 76364 | [76364-eternal-hour-golden-hour.json](./76364-eternal-hour-golden-hour.json) |
 | Eternal Hunger | 397939 | [397939-eternal-hunger.json](./397939-eternal-hunger.json) |
+| Eternal Journey: New Atlantis | 52983 | [52983-eternal-journey-new-atlantis.json](./52983-eternal-journey-new-atlantis.json) |
+| Eternal Journey: New Atlantis Collector's Edition | 52982 | [52982-eternal-journey-new-atlantis-collectors-edition.json](./52982-eternal-journey-new-atlantis-collectors-edition.json) |
 | Eternal King | 269012 | [269012-eternal-king.json](./269012-eternal-king.json) |
 | Eternal Knight | 338281 | [338281-eternal-knight.json](./338281-eternal-knight.json) |
 | Eternal Labyrinth | 338271 | [338271-eternal-labyrinth.json](./338271-eternal-labyrinth.json) |
@@ -5008,6 +5012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Club Manager 2005-2006 | 80316 | [80316-euro-club-manager-2005-2006.json](./80316-euro-club-manager-2005-2006.json) |
 | Euro Fishing: Bergsee | 170761 | [170761-euro-fishing-bergsee.json](./170761-euro-fishing-bergsee.json) |
 | Euro Fishing: Collector's Edition | 173108 | [173108-euro-fishing-collectors-edition.json](./173108-euro-fishing-collectors-edition.json) |
+| Euro Fishing: Foundry Dock | 52980 | [52980-euro-fishing-foundry-dock.json](./52980-euro-fishing-foundry-dock.json) |
 | Euro Fishing: Hunters Lake | 170760 | [170760-euro-fishing-hunters-lake.json](./170760-euro-fishing-hunters-lake.json) |
 | Euro Fishing: Le Lac d'or | 170763 | [170763-euro-fishing-le-lac-dor.json](./170763-euro-fishing-le-lac-dor.json) |
 | Euro Fishing: Lilies | 170762 | [170762-euro-fishing-lilies.json](./170762-euro-fishing-lilies.json) |
@@ -5025,9 +5030,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Sim Driver Simulator 24: Garbage | 322424 | [322424-euro-truck-sim-driver-simulator-24-garbage.json](./322424-euro-truck-sim-driver-simulator-24-garbage.json) |
 | Euro Truck Simulator 2: Beyond the Baltic Sea | 125011 | [125011-euro-truck-simulator-2-beyond-the-baltic-sea.json](./125011-euro-truck-simulator-2-beyond-the-baltic-sea.json) |
 | Euro Truck Simulator 2: DAF XD | 277585 | [277585-euro-truck-simulator-2-daf-xd.json](./277585-euro-truck-simulator-2-daf-xd.json) |
+| Euro Truck Simulator 2: Essentials | 52976 | [52976-euro-truck-simulator-2-essentials.json](./52976-euro-truck-simulator-2-essentials.json) |
 | Euro Truck Simulator 2: Farm Machinery | 356654 | [356654-euro-truck-simulator-2-farm-machinery.json](./356654-euro-truck-simulator-2-farm-machinery.json) |
 | Euro Truck Simulator 2: Forest Machinery | 378923 | [378923-euro-truck-simulator-2-forest-machinery.json](./378923-euro-truck-simulator-2-forest-machinery.json) |
 | Euro Truck Simulator 2: Going East | 26252 | [26252-euro-truck-simulator-2-going-east.json](./26252-euro-truck-simulator-2-going-east.json) |
+| Euro Truck Simulator 2: Gold Edition | 52975 | [52975-euro-truck-simulator-2-gold-edition.json](./52975-euro-truck-simulator-2-gold-edition.json) |
 | Euro Truck Simulator 2: Greece | 274881 | [274881-euro-truck-simulator-2-greece.json](./274881-euro-truck-simulator-2-greece.json) |
 | Euro Truck Simulator 2: Heart of Russia | 165013 | [165013-euro-truck-simulator-2-heart-of-russia.json](./165013-euro-truck-simulator-2-heart-of-russia.json) |
 | Euro Truck Simulator 2: Heavy Cargo | 136172 | [136172-euro-truck-simulator-2-heavy-cargo.json](./136172-euro-truck-simulator-2-heavy-cargo.json) |
@@ -5036,12 +5043,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: Italia | 76432 | [76432-euro-truck-simulator-2-italia.json](./76432-euro-truck-simulator-2-italia.json) |
 | Euro Truck Simulator 2: JCB Equipment Pack | 302495 | [302495-euro-truck-simulator-2-jcb-equipment-pack.json](./302495-euro-truck-simulator-2-jcb-equipment-pack.json) |
 | Euro Truck Simulator 2: KRONE Agriculture Equipment | 358728 | [358728-euro-truck-simulator-2-krone-agriculture-equipment.json](./358728-euro-truck-simulator-2-krone-agriculture-equipment.json) |
+| Euro Truck Simulator 2: Legendary Edition | 52973 | [52973-euro-truck-simulator-2-legendary-edition.json](./52973-euro-truck-simulator-2-legendary-edition.json) |
 | Euro Truck Simulator 2: Modern Lines Paint Jobs Pack | 266243 | [266243-euro-truck-simulator-2-modern-lines-paint-jobs-pack.json](./266243-euro-truck-simulator-2-modern-lines-paint-jobs-pack.json) |
+| Euro Truck Simulator 2: Platinum Edition | 52977 | [52977-euro-truck-simulator-2-platinum-edition.json](./52977-euro-truck-simulator-2-platinum-edition.json) |
 | Euro Truck Simulator 2: Renault Trucks E-Tech T | 311995 | [311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json](./311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json) |
 | Euro Truck Simulator 2: Road to the Black Sea | 118305 | [118305-euro-truck-simulator-2-road-to-the-black-sea.json](./118305-euro-truck-simulator-2-road-to-the-black-sea.json) |
 | Euro Truck Simulator 2: Soul of Anatolia | 398433 | [398433-euro-truck-simulator-2-soul-of-anatolia.json](./398433-euro-truck-simulator-2-soul-of-anatolia.json) |
 | Euro Truck Simulator 2: Special Transport | 125025 | [125025-euro-truck-simulator-2-special-transport.json](./125025-euro-truck-simulator-2-special-transport.json) |
 | Euro Truck Simulator 2: Street Art Paint Jobs Pack | 225577 | [225577-euro-truck-simulator-2-street-art-paint-jobs-pack.json](./225577-euro-truck-simulator-2-street-art-paint-jobs-pack.json) |
+| Euro Truck Simulator 2: Titanium Edition | 52972 | [52972-euro-truck-simulator-2-titanium-edition.json](./52972-euro-truck-simulator-2-titanium-edition.json) |
 | Euro Truck Simulator 2: Vive La France | 26254 | [26254-euro-truck-simulator-2-vive-la-france.json](./26254-euro-truck-simulator-2-vive-la-france.json) |
 | Euro Truck Simulator 2: West Balkans | 204244 | [204244-euro-truck-simulator-2-west-balkans.json](./204244-euro-truck-simulator-2-west-balkans.json) |
 | Euro Truck Simulator 2: Wielton Trailer Pack | 256992 | [256992-euro-truck-simulator-2-wielton-trailer-pack.json](./256992-euro-truck-simulator-2-wielton-trailer-pack.json) |
@@ -5064,36 +5074,52 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis II | 682 | [682-europa-universalis-ii.json](./682-europa-universalis-ii.json) |
 | Europa Universalis III | 683 | [683-europa-universalis-iii.json](./683-europa-universalis-iii.json) |
 | Europa Universalis III Chronicles | 25525 | [25525-europa-universalis-iii-chronicles.json](./25525-europa-universalis-iii-chronicles.json) |
+| Europa Universalis III: Collector's Edition | 52971 | [52971-europa-universalis-iii-collectors-edition.json](./52971-europa-universalis-iii-collectors-edition.json) |
 | Europa Universalis III: Heir to the Throne | 743 | [743-europa-universalis-iii-heir-to-the-throne.json](./743-europa-universalis-iii-heir-to-the-throne.json) |
 | Europa Universalis III: In Nomine | 684 | [684-europa-universalis-iii-in-nomine.json](./684-europa-universalis-iii-in-nomine.json) |
 | Europa Universalis IV: Call-to-Arms Pack | 227864 | [227864-europa-universalis-iv-call-to-arms-pack.json](./227864-europa-universalis-iv-call-to-arms-pack.json) |
 | Europa Universalis IV: Catholic Majors Unit Pack | 227865 | [227865-europa-universalis-iv-catholic-majors-unit-pack.json](./227865-europa-universalis-iv-catholic-majors-unit-pack.json) |
 | Europa Universalis IV: Common Sense | 19298 | [19298-europa-universalis-iv-common-sense.json](./19298-europa-universalis-iv-common-sense.json) |
+| Europa Universalis IV: Common Sense Collection | 53007 | [53007-europa-universalis-iv-common-sense-collection.json](./53007-europa-universalis-iv-common-sense-collection.json) |
 | Europa Universalis IV: Common Sense Content Pack | 227350 | [227350-europa-universalis-iv-common-sense-content-pack.json](./227350-europa-universalis-iv-common-sense-content-pack.json) |
+| Europa Universalis IV: Conquest Collection | 52970 | [52970-europa-universalis-iv-conquest-collection.json](./52970-europa-universalis-iv-conquest-collection.json) |
 | Europa Universalis IV: Conquest of Paradise | 19299 | [19299-europa-universalis-iv-conquest-of-paradise.json](./19299-europa-universalis-iv-conquest-of-paradise.json) |
+| Europa Universalis IV: Conquest of Paradise Collection | 53006 | [53006-europa-universalis-iv-conquest-of-paradise-collection.json](./53006-europa-universalis-iv-conquest-of-paradise-collection.json) |
 | Europa Universalis IV: Cradle of Civilization | 76191 | [76191-europa-universalis-iv-cradle-of-civilization.json](./76191-europa-universalis-iv-cradle-of-civilization.json) |
 | Europa Universalis IV: Cradle of Civilization Content Pack | 227349 | [227349-europa-universalis-iv-cradle-of-civilization-content-pack.json](./227349-europa-universalis-iv-cradle-of-civilization-content-pack.json) |
 | Europa Universalis IV: Dharma | 149956 | [149956-europa-universalis-iv-dharma.json](./149956-europa-universalis-iv-dharma.json) |
 | Europa Universalis IV: Dharma Content Pack | 227342 | [227342-europa-universalis-iv-dharma-content-pack.json](./227342-europa-universalis-iv-dharma-content-pack.json) |
+| Europa Universalis IV: Digital Extreme Edition | 53009 | [53009-europa-universalis-iv-digital-extreme-edition.json](./53009-europa-universalis-iv-digital-extreme-edition.json) |
 | Europa Universalis IV: Domination | 240892 | [240892-europa-universalis-iv-domination.json](./240892-europa-universalis-iv-domination.json) |
 | Europa Universalis IV: El Dorado Content Pack | 227343 | [227343-europa-universalis-iv-el-dorado-content-pack.json](./227343-europa-universalis-iv-el-dorado-content-pack.json) |
 | Europa Universalis IV: Emperor | 133911 | [133911-europa-universalis-iv-emperor.json](./133911-europa-universalis-iv-emperor.json) |
 | Europa Universalis IV: Emperor Content Pack | 227344 | [227344-europa-universalis-iv-emperor-content-pack.json](./227344-europa-universalis-iv-emperor-content-pack.json) |
+| Europa Universalis IV: Extreme Edition | 53008 | [53008-europa-universalis-iv-extreme-edition.json](./53008-europa-universalis-iv-extreme-edition.json) |
 | Europa Universalis IV: Golden Century - Immersion Pack | 169310 | [169310-europa-universalis-iv-golden-century-immersion-pack.json](./169310-europa-universalis-iv-golden-century-immersion-pack.json) |
 | Europa Universalis IV: History Lessons Bundle | 254292 | [254292-europa-universalis-iv-history-lessons-bundle.json](./254292-europa-universalis-iv-history-lessons-bundle.json) |
 | Europa Universalis IV: Leviathan | 149954 | [149954-europa-universalis-iv-leviathan.json](./149954-europa-universalis-iv-leviathan.json) |
 | Europa Universalis IV: Lions of the North | 215925 | [215925-europa-universalis-iv-lions-of-the-north.json](./215925-europa-universalis-iv-lions-of-the-north.json) |
 | Europa Universalis IV: Mandate of Heaven | 27520 | [27520-europa-universalis-iv-mandate-of-heaven.json](./27520-europa-universalis-iv-mandate-of-heaven.json) |
 | Europa Universalis IV: Mandate of Heaven Content Pack | 227345 | [227345-europa-universalis-iv-mandate-of-heaven-content-pack.json](./227345-europa-universalis-iv-mandate-of-heaven-content-pack.json) |
+| Europa Universalis IV: Mare Nostrum | 53005 | [53005-europa-universalis-iv-mare-nostrum.json](./53005-europa-universalis-iv-mare-nostrum.json) |
+| Europa Universalis IV: Mare Nostrum Collection | 53004 | [53004-europa-universalis-iv-mare-nostrum-collection.json](./53004-europa-universalis-iv-mare-nostrum-collection.json) |
 | Europa Universalis IV: Mare Nostrum Content Pack | 227346 | [227346-europa-universalis-iv-mare-nostrum-content-pack.json](./227346-europa-universalis-iv-mare-nostrum-content-pack.json) |
 | Europa Universalis IV: National Monuments II | 169976 | [169976-europa-universalis-iv-national-monuments-ii.json](./169976-europa-universalis-iv-national-monuments-ii.json) |
 | Europa Universalis IV: Res Publica | 19294 | [19294-europa-universalis-iv-res-publica.json](./19294-europa-universalis-iv-res-publica.json) |
+| Europa Universalis IV: Rights of Man | 53002 | [53002-europa-universalis-iv-rights-of-man.json](./53002-europa-universalis-iv-rights-of-man.json) |
+| Europa Universalis IV: Rights of Man Collection | 53000 | [53000-europa-universalis-iv-rights-of-man-collection.json](./53000-europa-universalis-iv-rights-of-man-collection.json) |
 | Europa Universalis IV: Rights of Man Content Pack | 227347 | [227347-europa-universalis-iv-rights-of-man-content-pack.json](./227347-europa-universalis-iv-rights-of-man-content-pack.json) |
 | Europa Universalis IV: Rule Britannia - Immersion Pack | 169303 | [169303-europa-universalis-iv-rule-britannia-immersion-pack.json](./169303-europa-universalis-iv-rule-britannia-immersion-pack.json) |
 | Europa Universalis IV: Songs of Regency | 227861 | [227861-europa-universalis-iv-songs-of-regency.json](./227861-europa-universalis-iv-songs-of-regency.json) |
+| Europa Universalis IV: The Art of War Collection | 52999 | [52999-europa-universalis-iv-the-art-of-war-collection.json](./52999-europa-universalis-iv-the-art-of-war-collection.json) |
+| Europa Universalis IV: The Cossacks | 52969 | [52969-europa-universalis-iv-the-cossacks.json](./52969-europa-universalis-iv-the-cossacks.json) |
+| Europa Universalis IV: The Cossacks Collection | 52998 | [52998-europa-universalis-iv-the-cossacks-collection.json](./52998-europa-universalis-iv-the-cossacks-collection.json) |
 | Europa Universalis IV: The Cossacks Content Pack | 227348 | [227348-europa-universalis-iv-the-cossacks-content-pack.json](./227348-europa-universalis-iv-the-cossacks-content-pack.json) |
+| Europa Universalis IV: The El Dorado Collection | 52997 | [52997-europa-universalis-iv-the-el-dorado-collection.json](./52997-europa-universalis-iv-the-el-dorado-collection.json) |
+| Europa Universalis IV: Third Rome | 52996 | [52996-europa-universalis-iv-third-rome.json](./52996-europa-universalis-iv-third-rome.json) |
 | Europa Universalis IV: Ultimate Sprite Pack | 284902 | [284902-europa-universalis-iv-ultimate-sprite-pack.json](./284902-europa-universalis-iv-ultimate-sprite-pack.json) |
 | Europa Universalis IV: Utopia Holy Roman Empire Music Pack | 285108 | [285108-europa-universalis-iv-utopia-holy-roman-empire-music-pack.json](./285108-europa-universalis-iv-utopia-holy-roman-empire-music-pack.json) |
+| Europa Universalis IV: Wealth of Nations Collection | 52995 | [52995-europa-universalis-iv-wealth-of-nations-collection.json](./52995-europa-universalis-iv-wealth-of-nations-collection.json) |
 | Europa Universalis IV: Winds of Change | 298306 | [298306-europa-universalis-iv-winds-of-change.json](./298306-europa-universalis-iv-winds-of-change.json) |
 | Europa Universalis V: Fate of the Phoenix | 408150 | [408150-europa-universalis-v-fate-of-the-phoenix.json](./408150-europa-universalis-v-fate-of-the-phoenix.json) |
 | Europa Universalis: Crown of the North | 24092 | [24092-europa-universalis-crown-of-the-north.json](./24092-europa-universalis-crown-of-the-north.json) |
