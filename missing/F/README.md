@@ -1974,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farland Story FX | 45953 | [45953-farland-story-fx.json](./45953-farland-story-fx.json) |
 | Farland Story: Daichi no Kizuna | 70455 | [70455-farland-story-daichi-no-kizuna.json](./70455-farland-story-daichi-no-kizuna.json) |
 | Farland Story: Shirogane no Tsubasa | 79121 | [79121-farland-story-shirogane-no-tsubasa.json](./79121-farland-story-shirogane-no-tsubasa.json) |
+| Farland Story: Tenshi no Namida | 69694 | [69694-farland-story-tenshi-no-namida.json](./69694-farland-story-tenshi-no-namida.json) |
 | Farlanders | 144018 | [144018-farlanders.json](./144018-farlanders.json) |
 | Farlands | 236859 | [236859-farlands.json](./236859-farlands.json) |
 | Farlands Journey | 301337 | [301337-farlands-journey.json](./301337-farlands-journey.json) |
@@ -6125,6 +6126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flicky Marble | 103374 | [103374-flicky-marble.json](./103374-flicky-marble.json) |
 | Flict | 393479 | [393479-flict.json](./393479-flict.json) |
 | Flicts | 293241 | [293241-flicts.json](./293241-flicts.json) |
+| Flies Attack on Earth | 69700 | [69700-flies-attack-on-earth.json](./69700-flies-attack-on-earth.json) |
 | Flies in a Jar | 229036 | [229036-flies-in-a-jar.json](./229036-flies-in-a-jar.json) |
 | Flies. | 412280 | [412280-flies.json](./412280-flies.json) |
 | Fliese | 234044 | [234044-fliese.json](./234044-fliese.json) |
@@ -8597,6 +8599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fowl Magic | 121543 | [121543-fowl-magic.json](./121543-fowl-magic.json) |
 | Fowl Scourge | 201238 | [201238-fowl-scourge.json](./201238-fowl-scourge.json) |
 | Fowl Swarm | 295837 | [295837-fowl-swarm.json](./295837-fowl-swarm.json) |
+| Fowl Words 2: Trouble at the Chicken Ranch! | 69690 | [69690-fowl-words-2-trouble-at-the-chicken-ranch.json](./69690-fowl-words-2-trouble-at-the-chicken-ranch.json) |
 | Fowl Words: Farm Fresh Goodness | 73990 | [73990-fowl-words-farm-fresh-goodness.json](./73990-fowl-words-farm-fresh-goodness.json) |
 | Fowling | 305453 | [305453-fowling.json](./305453-fowling.json) |
 | Fowling | 47257 | [47257-fowling.json](./47257-fowling.json) |
