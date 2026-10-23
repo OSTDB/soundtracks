@@ -1239,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Exile | 338590 | [338590-undead-exile.json](./338590-undead-exile.json) |
 | Undead Exterminator | 369916 | [369916-undead-exterminator.json](./369916-undead-exterminator.json) |
 | Undead Factory: Zombie Pandemic | 88114 | [88114-undead-factory-zombie-pandemic.json](./88114-undead-factory-zombie-pandemic.json) |
+| Undead Hero | 56849 | [56849-undead-hero.json](./56849-undead-hero.json) |
 | Undead Horde | 88250 | [88250-undead-horde.json](./88250-undead-horde.json) |
 | Undead Horde 2: Necropolis | 217181 | [217181-undead-horde-2-necropolis.json](./217181-undead-horde-2-necropolis.json) |
 | Undead Inc. | 252855 | [252855-undead-inc.json](./252855-undead-inc.json) |
@@ -2360,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until None Remain: Battle Royale VR | 74556 | [74556-until-none-remain-battle-royale-vr.json](./74556-until-none-remain-battle-royale-vr.json) |
 | Until September | 120047 | [120047-until-september.json](./120047-until-september.json) |
 | Until the End | 201051 | [201051-until-the-end.json](./201051-until-the-end.json) |
+| Until the Last | 59144 | [59144-until-the-last.json](./59144-until-the-last.json) |
 | Until the Last Philomel | 399077 | [399077-until-the-last-philomel.json](./399077-until-the-last-philomel.json) |
 | Until the Last Plane 1942 | 278347 | [278347-until-the-last-plane-1942.json](./278347-until-the-last-plane-1942.json) |
 | Until the Night | 202734 | [202734-until-the-night.json](./202734-until-the-night.json) |
