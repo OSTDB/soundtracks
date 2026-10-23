@@ -1107,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Battles: Battles of Normandy | 241428 | [241428-panzer-battles-battles-of-normandy.json](./241428-panzer-battles-battles-of-normandy.json) |
 | Panzer Campaign VII: Kursk '43 | 109182 | [109182-panzer-campaign-vii-kursk-43.json](./109182-panzer-campaign-vii-kursk-43.json) |
 | Panzer Campaigns Budapest '45 | 206791 | [206791-panzer-campaigns-budapest-45.json](./206791-panzer-campaigns-budapest-45.json) |
+| Panzer Campaigns VI: Korsun '44 | 71370 | [71370-panzer-campaigns-vi-korsun-44.json](./71370-panzer-campaigns-vi-korsun-44.json) |
 | Panzer Campaigns: Bulge '44 Gold | 124728 | [124728-panzer-campaigns-bulge-44-gold.json](./124728-panzer-campaigns-bulge-44-gold.json) |
 | Panzer Campaigns: El Alamein '42 Gold | 124733 | [124733-panzer-campaigns-el-alamein-42-gold.json](./124733-panzer-campaigns-el-alamein-42-gold.json) |
 | Panzer Campaigns: France '40 Gold | 124717 | [124717-panzer-campaigns-france-40-gold.json](./124717-panzer-campaigns-france-40-gold.json) |
@@ -7238,6 +7239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Defender | 386331 | [386331-planet-defender.json](./386331-planet-defender.json) |
 | Planet Delta | 80552 | [80552-planet-delta.json](./80552-planet-delta.json) |
 | Planet destroyer | 123867 | [123867-planet-destroyer.json](./123867-planet-destroyer.json) |
+| Planet Dexter's Grossology | 71322 | [71322-planet-dexters-grossology.json](./71322-planet-dexters-grossology.json) |
 | Planet Diver | 34069 | [34069-planet-diver.json](./34069-planet-diver.json) |
 | Planet Dysphoria | 181744 | [181744-planet-dysphoria.json](./181744-planet-dysphoria.json) |
 | Planet Ennea | 229653 | [229653-planet-ennea.json](./229653-planet-ennea.json) |
@@ -11312,6 +11314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Man Simulator | 149560 | [149560-primal-man-simulator.json](./149560-primal-man-simulator.json) |
 | Primal Omen | 216950 | [216950-primal-omen.json](./216950-primal-omen.json) |
 | Primal Planet | 243924 | [243924-primal-planet.json](./243924-primal-planet.json) |
+| Primal Prey | 71345 | [71345-primal-prey.json](./71345-primal-prey.json) |
 | Primal Pursuit | 105018 | [105018-primal-pursuit.json](./105018-primal-pursuit.json) |
 | Primal Rage | 199013 | [199013-primal-rage.json](./199013-primal-rage.json) |
 | Primal Rage | 217721 | [217721-primal-rage.json](./217721-primal-rage.json) |
