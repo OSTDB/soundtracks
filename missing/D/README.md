@@ -1682,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkHouse | 371887 | [371887-darkhouse.json](./371887-darkhouse.json) |
 | Darkilson | 149480 | [149480-darkilson.json](./149480-darkilson.json) |
 | Darkion | 212813 | [212813-darkion.json](./212813-darkion.json) |
+| Darkiss: Chapter 1 - The Awakening | 59720 | [59720-darkiss-chapter-1-the-awakening.json](./59720-darkiss-chapter-1-the-awakening.json) |
 | Darkiss! Wrath of the Vampire Chapter 2: Journey to Hell | 57509 | [57509-darkiss-wrath-of-the-vampire-chapter-2-journey-to-hell.json](./57509-darkiss-wrath-of-the-vampire-chapter-2-journey-to-hell.json) |
 | Darkland | 134439 | [134439-darkland.json](./134439-darkland.json) |
 | Darklands | 278369 | [278369-darklands.json](./278369-darklands.json) |
@@ -9525,6 +9526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domaine | 85756 | [85756-domaine.json](./85756-domaine.json) |
 | Domains of Dusk | 217290 | [217290-domains-of-dusk.json](./217290-domains-of-dusk.json) |
 | Dome | 112041 | [112041-dome.json](./112041-dome.json) |
+| Dome City | 59715 | [59715-dome-city.json](./59715-dome-city.json) |
 | Dome Discover | 151523 | [151523-dome-discover.json](./151523-dome-discover.json) |
 | Dome Keeper: Deluxe Edition | 402958 | [402958-dome-keeper-deluxe-edition.json](./402958-dome-keeper-deluxe-edition.json) |
 | Dome Keeper: The Lost Keepers | 400396 | [400396-dome-keeper-the-lost-keepers.json](./400396-dome-keeper-the-lost-keepers.json) |
