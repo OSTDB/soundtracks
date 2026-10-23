@@ -983,6 +983,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakushou Yoshimoto ShinkiGeki | 37579 | [37579-bakushou-yoshimoto-shinkigeki.json](./37579-bakushou-yoshimoto-shinkigeki.json) |
 | Bakushou!! All Yoshimoto Quiz Ou Ketteisen DX | 45422 | [45422-bakushou-all-yoshimoto-quiz-ou-ketteisen-dx.json](./45422-bakushou-all-yoshimoto-quiz-ou-ketteisen-dx.json) |
 | Bakushou!! All Yoshimoto Quiz-Ou Ketteisen | 245247 | [245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json](./245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json) |
+| Bakusou Dekotora Densetsu 2: Otoko Jinsei Yume Ichiro | 60416 | [60416-bakusou-dekotora-densetsu-2-otoko-jinsei-yume-ichiro.json](./60416-bakusou-dekotora-densetsu-2-otoko-jinsei-yume-ichiro.json) |
+| Bakusou Dekotora Densetsu Black | 60413 | [60413-bakusou-dekotora-densetsu-black.json](./60413-bakusou-dekotora-densetsu-black.json) |
+| Bakusou Dekotora Densetsu: Otoko Hanamichi Yume Roman | 60415 | [60415-bakusou-dekotora-densetsu-otoko-hanamichi-yume-roman.json](./60415-bakusou-dekotora-densetsu-otoko-hanamichi-yume-roman.json) |
+| Bakusou Dekotora Densetsu: Otoko Ippiki Yume Kaidoi | 60417 | [60417-bakusou-dekotora-densetsu-otoko-ippiki-yume-kaidoi.json](./60417-bakusou-dekotora-densetsu-otoko-ippiki-yume-kaidoi.json) |
 | Bakusou Kyoudai Let's & Go!!: Eternal Wings | 44765 | [44765-bakusou-kyoudai-lets-and-go-eternal-wings.json](./44765-bakusou-kyoudai-lets-and-go-eternal-wings.json) |
 | Bakusuro Bank | 98040 | [98040-bakusuro-bank.json](./98040-bakusuro-bank.json) |
 | Bakutan | 344318 | [344318-bakutan.json](./344318-bakutan.json) |
@@ -4030,6 +4034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Lord: The New Land | 297500 | [297500-beast-lord-the-new-land.json](./297500-beast-lord-the-new-land.json) |
 | Beast Market | 416107 | [416107-beast-market.json](./416107-beast-market.json) |
 | Beast Mask | 392750 | [392750-beast-mask.json](./392750-beast-mask.json) |
+| Beast Master and Prince: Flower & Snow | 60331 | [60331-beast-master-and-prince-flower-and-snow.json](./60331-beast-master-and-prince-flower-and-snow.json) |
 | Beast Master and Prince: Snow Bride | 136452 | [136452-beast-master-and-prince-snow-bride.json](./136452-beast-master-and-prince-snow-bride.json) |
 | Beast Mode | 332652 | [332652-beast-mode.json](./332652-beast-mode.json) |
 | Beast Mode: Night of the Werewolf | 43541 | [43541-beast-mode-night-of-the-werewolf.json](./43541-beast-mode-night-of-the-werewolf.json) |
@@ -5684,6 +5689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bher | 359361 | [359361-bher.json](./359361-bher.json) |
 | Bhop Craze | 201503 | [201503-bhop-craze.json](./201503-bhop-craze.json) |
 | Bhop PRO | 144294 | [144294-bhop-pro.json](./144294-bhop-pro.json) |
+| BHU | 60309 | [60309-bhu.json](./60309-bhu.json) |
 | BHunter | 78521 | [78521-bhunter.json](./78521-bhunter.json) |
 | Bi-Color | 176381 | [176381-bi-color.json](./176381-bi-color.json) |
 | Bi! Bi! | 40742 | [40742-bi-bi.json](./40742-bi-bi.json) |
