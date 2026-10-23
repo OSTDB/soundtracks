@@ -1995,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece 2: Pirate King | 59466 | [59466-one-piece-2-pirate-king.json](./59466-one-piece-2-pirate-king.json) |
 | One Piece Clicker | 212282 | [212282-one-piece-clicker.json](./212282-one-piece-clicker.json) |
 | One Piece King Battle | 175763 | [175763-one-piece-king-battle.json](./175763-one-piece-king-battle.json) |
+| One Piece Kings | 62044 | [62044-one-piece-kings.json](./62044-one-piece-kings.json) |
 | One Piece Mansion | 37288 | [37288-one-piece-mansion.json](./37288-one-piece-mansion.json) |
 | One Piece Odyssey | 194837 | [194837-one-piece-odyssey.json](./194837-one-piece-odyssey.json) |
 | One Piece Odyssey: Adventure Expansion Pack | 263946 | [263946-one-piece-odyssey-adventure-expansion-pack.json](./263946-one-piece-odyssey-adventure-expansion-pack.json) |
@@ -2614,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Hearts on Fire | 313724 | [313724-open-hearts-on-fire.json](./313724-open-hearts-on-fire.json) |
 | Open Hexagon | 133332 | [133332-open-hexagon.json](./133332-open-hexagon.json) |
 | Open Hunting XL | 265313 | [265313-open-hunting-xl.json](./265313-open-hunting-xl.json) |
+| Open Kart | 61979 | [61979-open-kart.json](./61979-open-kart.json) |
 | Open Me! | 64291 | [64291-open-me.json](./64291-open-me.json) |
 | Open Mortal | 113539 | [113539-open-mortal.json](./113539-open-mortal.json) |
 | Open Nectar | 416628 | [416628-open-nectar.json](./416628-open-nectar.json) |
