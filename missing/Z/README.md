@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodi Bingo | 88165 | [88165-zodi-bingo.json](./88165-zodi-bingo.json) |
 | Zodiac | 146103 | [146103-zodiac.json](./146103-zodiac.json) |
 | Zodiac | 337752 | [337752-zodiac.json](./337752-zodiac.json) |
+| Zodiac | 77787 | [77787-zodiac.json](./77787-zodiac.json) |
 | Zodiac Axis | 66437 | [66437-zodiac-axis.json](./66437-zodiac-axis.json) |
 | Zodiac Battles | 106765 | [106765-zodiac-battles.json](./106765-zodiac-battles.json) |
 | Zodiac Cats | 233942 | [233942-zodiac-cats.json](./233942-zodiac-cats.json) |
