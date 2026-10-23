@@ -5640,6 +5640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cave of Atman | 179066 | [179066-the-cave-of-atman.json](./179066-the-cave-of-atman.json) |
 | The Cave of Magic | 413648 | [413648-the-cave-of-magic.json](./413648-the-cave-of-magic.json) |
 | The Cave of Time | 70040 | [70040-the-cave-of-time.json](./70040-the-cave-of-time.json) |
+| The Cave VR | 74179 | [74179-the-cave-vr.json](./74179-the-cave-vr.json) |
 | The Cavern | 29684 | [29684-the-cavern.json](./29684-the-cavern.json) |
 | The Caverns | 229736 | [229736-the-caverns.json](./229736-the-caverns.json) |
 | The Caverns of Hammerfest | 55979 | [55979-the-caverns-of-hammerfest.json](./55979-the-caverns-of-hammerfest.json) |
@@ -7542,6 +7543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flea Evolution | 188103 | [188103-the-flea-evolution.json](./188103-the-flea-evolution.json) |
 | The Flea Evolution: Bugaboo | 189151 | [189151-the-flea-evolution-bugaboo.json](./189151-the-flea-evolution-bugaboo.json) |
 | The Fleets of Sol | 34949 | [34949-the-fleets-of-sol.json](./34949-the-fleets-of-sol.json) |
+| The Flesh God | 74187 | [74187-the-flesh-god.json](./74187-the-flesh-god.json) |
 | The Flick of the Dead | 125152 | [125152-the-flick-of-the-dead.json](./125152-the-flick-of-the-dead.json) |
 | The Flight of Dowran | 75038 | [75038-the-flight-of-dowran.json](./75038-the-flight-of-dowran.json) |
 | The Flintstones | 198740 | [198740-the-flintstones.json](./198740-the-flintstones.json) |
@@ -14490,6 +14492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Sports Quiz | 241454 | [241454-the-ultimate-sports-quiz.json](./241454-the-ultimate-sports-quiz.json) |
 | The Ultimate Torment and Torture | 196028 | [196028-the-ultimate-torment-and-torture.json](./196028-the-ultimate-torment-and-torture.json) |
 | The Ultimate Trivia CD | 72056 | [72056-the-ultimate-trivia-cd.json](./72056-the-ultimate-trivia-cd.json) |
+| The Ultimate Trivia Challenge | 74205 | [74205-the-ultimate-trivia-challenge.json](./74205-the-ultimate-trivia-challenge.json) |
 | The Ultimate Trivia Quiz | 98893 | [98893-the-ultimate-trivia-quiz.json](./98893-the-ultimate-trivia-quiz.json) |
 | The Ultimatest Battle | 55692 | [55692-the-ultimatest-battle.json](./55692-the-ultimatest-battle.json) |
 | The Ultimatum: Choices | 326795 | [326795-the-ultimatum-choices.json](./326795-the-ultimatum-choices.json) |
