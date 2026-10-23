@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Smash! Basketball | 261355 | [261355-zombie-smash-basketball.json](./261355-zombie-smash-basketball.json) |
 | Zombie Smasher | 233041 | [233041-zombie-smasher.json](./233041-zombie-smasher.json) |
 | Zombie Smashers X2: Punx and Skins | 70923 | [70923-zombie-smashers-x2-punx-and-skins.json](./70923-zombie-smashers-x2-punx-and-skins.json) |
+| Zombie Smashers X3: Ninjastarmageddon! | 73114 | [73114-zombie-smashers-x3-ninjastarmageddon.json](./73114-zombie-smashers-x3-ninjastarmageddon.json) |
 | Zombie Sniper : Evil Hunter | 96396 | [96396-zombie-sniper-evil-hunter.json](./96396-zombie-sniper-evil-hunter.json) |
 | Zombie Sniper 2 | 103525 | [103525-zombie-sniper-2.json](./103525-zombie-sniper-2.json) |
 | Zombie Sniper HD | 80214 | [80214-zombie-sniper-hd.json](./80214-zombie-sniper-hd.json) |
