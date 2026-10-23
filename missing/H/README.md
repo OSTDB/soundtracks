@@ -6222,7 +6222,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hihou Densetsu Chris no Bouken | 55896 | [55896-hihou-densetsu-chris-no-bouken.json](./55896-hihou-densetsu-chris-no-bouken.json) |
 | Hihou-den: Taiyou wo Motomeru Mono-tachi | 249465 | [249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json](./249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json) |
 | Hiiro | 32922 | [32922-hiiro.json](./32922-hiiro.json) |
+| Hiiro no Kakera DS | 71905 | [71905-hiiro-no-kakera-ds.json](./71905-hiiro-no-kakera-ds.json) |
 | Hiiro no Kakera Tamayori-hime Kitan: Omoi Iro no Kioku for Nintendo Switch | 293147 | [293147-hiiro-no-kakera-tamayori-hime-kitan-omoi-iro-no-kioku-for-nintendo-switch.json](./293147-hiiro-no-kakera-tamayori-hime-kitan-omoi-iro-no-kioku-for-nintendo-switch.json) |
+| Hiiro no Kakera: Ano Sora no Shita de | 71904 | [71904-hiiro-no-kakera-ano-sora-no-shita-de.json](./71904-hiiro-no-kakera-ano-sora-no-shita-de.json) |
 | Hiiro no Kakera: Omoi Iro no Kioku | 136478 | [136478-hiiro-no-kakera-omoi-iro-no-kioku.json](./136478-hiiro-no-kakera-omoi-iro-no-kioku.json) |
 | Hiiro no Kakera: Shin Tamayori-hime Denshou | 217763 | [217763-hiiro-no-kakera-shin-tamayori-hime-denshou.json](./217763-hiiro-no-kakera-shin-tamayori-hime-denshou.json) |
 | Hiiro no Kakera: Shin Tamayori-hime Denshou - Piece of Future | 217767 | [217767-hiiro-no-kakera-shin-tamayori-hime-denshou-piece-of-future.json](./217767-hiiro-no-kakera-shin-tamayori-hime-denshou-piece-of-future.json) |
