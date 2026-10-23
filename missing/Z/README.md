@@ -1211,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Crisis | 86515 | [86515-zombie-crisis.json](./86515-zombie-crisis.json) |
 | Zombie Crisis 3D | 91113 | [91113-zombie-crisis-3d.json](./91113-zombie-crisis-3d.json) |
 | Zombie Crisis: Survival | 104234 | [104234-zombie-crisis-survival.json](./104234-zombie-crisis-survival.json) |
+| Zombie Crossing | 65367 | [65367-zombie-crossing.json](./65367-zombie-crossing.json) |
 | Zombie Crow 3D | 24800 | [24800-zombie-crow-3d.json](./24800-zombie-crow-3d.json) |
 | Zombie Crush Driver | 192283 | [192283-zombie-crush-driver.json](./192283-zombie-crush-driver.json) |
 | Zombie Crush VR | 190423 | [190423-zombie-crush-vr.json](./190423-zombie-crush-vr.json) |
@@ -1285,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Gorge: Survival Defense | 385064 | [385064-zombie-gorge-survival-defense.json](./385064-zombie-gorge-survival-defense.json) |
 | Zombie Graveyard Simulator | 333007 | [333007-zombie-graveyard-simulator.json](./333007-zombie-graveyard-simulator.json) |
 | Zombie Groove | 148861 | [148861-zombie-groove.json](./148861-zombie-groove.json) |
+| Zombie Gunship | 65326 | [65326-zombie-gunship.json](./65326-zombie-gunship.json) |
 | Zombie Gunship Revenant AR | 87281 | [87281-zombie-gunship-revenant-ar.json](./87281-zombie-gunship-revenant-ar.json) |
 | Zombie Gunship Survival | 70865 | [70865-zombie-gunship-survival.json](./70865-zombie-gunship-survival.json) |
 | Zombie Hamsters | 400376 | [400376-zombie-hamsters.json](./400376-zombie-hamsters.json) |
@@ -1323,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Inglor | 388115 | [388115-zombie-inglor.json](./388115-zombie-inglor.json) |
 | Zombie Invasion | 179883 | [179883-zombie-invasion.json](./179883-zombie-invasion.json) |
 | Zombie Invasion | 337751 | [337751-zombie-invasion.json](./337751-zombie-invasion.json) |
+| Zombie Invasion | 65368 | [65368-zombie-invasion.json](./65368-zombie-invasion.json) |
 | Zombie Invasion: FPS Defense | 269097 | [269097-zombie-invasion-fps-defense.json](./269097-zombie-invasion-fps-defense.json) |
 | Zombie Island | 127084 | [127084-zombie-island.json](./127084-zombie-island.json) |
 | Zombie Island | 372065 | [372065-zombie-island.json](./372065-zombie-island.json) |
