@@ -1706,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Rainfall | 405953 | [405953-darkness-rainfall.json](./405953-darkness-rainfall.json) |
 | Darkness Reborn | 223427 | [223427-darkness-reborn.json](./223427-darkness-reborn.json) |
 | Darkness Reborn | 28820 | [28820-darkness-reborn.json](./28820-darkness-reborn.json) |
+| Darkness Restricted | 84018 | [84018-darkness-restricted.json](./84018-darkness-restricted.json) |
 | Darkness Revenge | 215536 | [215536-darkness-revenge.json](./215536-darkness-revenge.json) |
 | Darkness Rises | 103411 | [103411-darkness-rises.json](./103411-darkness-rises.json) |
 | Darkness Ritual: Impasse | 289793 | [289793-darkness-ritual-impasse.json](./289793-darkness-ritual-impasse.json) |
@@ -5742,6 +5743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolated District | 253356 | [253356-desolated-district.json](./253356-desolated-district.json) |
 | Desolation | 238648 | [238648-desolation.json](./238648-desolation.json) |
 | Desolation | 284364 | [284364-desolation.json](./284364-desolation.json) |
+| Desolation | 84070 | [84070-desolation.json](./84070-desolation.json) |
 | Desolation Escape | 315672 | [315672-desolation-escape.json](./315672-desolation-escape.json) |
 | Desolation Seed | 183301 | [183301-desolation-seed.json](./183301-desolation-seed.json) |
 | Desolation Tycoon | 169361 | [169361-desolation-tycoon.json](./169361-desolation-tycoon.json) |
@@ -6972,6 +6974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig & Spike Volleyball | 94194 | [94194-dig-and-spike-volleyball.json](./94194-dig-and-spike-volleyball.json) |
 | Dig 4 Destruction | 31981 | [31981-dig-4-destruction.json](./31981-dig-4-destruction.json) |
 | Dig a Road | 310048 | [310048-dig-a-road.json](./310048-dig-a-road.json) |
+| Dig and Shoot | 84026 | [84026-dig-and-shoot.json](./84026-dig-and-shoot.json) |
 | Dig Baby Dig Company | 376450 | [376450-dig-baby-dig-company.json](./376450-dig-baby-dig-company.json) |
 | Dig Bombers | 135759 | [135759-dig-bombers.json](./135759-dig-bombers.json) |
 | Dig Deep: Chunky Pets | 246881 | [246881-dig-deep-chunky-pets.json](./246881-dig-deep-chunky-pets.json) |
@@ -14564,6 +14567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons and Myths | 226816 | [226816-dungeons-and-myths.json](./226816-dungeons-and-myths.json) |
 | Dungeons and Raids | 236516 | [236516-dungeons-and-raids.json](./236516-dungeons-and-raids.json) |
 | Dungeons and Tiles | 224060 | [224060-dungeons-and-tiles.json](./224060-dungeons-and-tiles.json) |
+| Dungeons Forever | 84034 | [84034-dungeons-forever.json](./84034-dungeons-forever.json) |
 | Dungeons of Aether | 195068 | [195068-dungeons-of-aether.json](./195068-dungeons-of-aether.json) |
 | Dungeons of Aledorn | 60494 | [60494-dungeons-of-aledorn.json](./60494-dungeons-of-aledorn.json) |
 | Dungeons of Alethrion | 294384 | [294384-dungeons-of-alethrion.json](./294384-dungeons-of-alethrion.json) |
