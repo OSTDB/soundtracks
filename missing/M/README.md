@@ -1670,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahoujin Guru-guru 2 | 44439 | [44439-mahoujin-guru-guru-2.json](./44439-mahoujin-guru-guru-2.json) |
 | Mahouka Koukou no Rettousei: Lost Zero | 60965 | [60965-mahouka-koukou-no-rettousei-lost-zero.json](./60965-mahouka-koukou-no-rettousei-lost-zero.json) |
 | Mahouka Koukou no Rettousei: Out of Order | 61996 | [61996-mahouka-koukou-no-rettousei-out-of-order.json](./61996-mahouka-koukou-no-rettousei-out-of-order.json) |
+| Mahouka Koukou no Rettousei: School Magicus Battle | 60828 | [60828-mahouka-koukou-no-rettousei-school-magicus-battle.json](./60828-mahouka-koukou-no-rettousei-school-magicus-battle.json) |
 | MahouSho* | 391711 | [391711-mahousho.json](./391711-mahousho.json) |
 | Mahoutsukai ni Naru Houhou | 97338 | [97338-mahoutsukai-ni-naru-houhou.json](./97338-mahoutsukai-ni-naru-houhou.json) |
 | Mahoutsukai no Yoru | 65487 | [65487-mahoutsukai-no-yoru.json](./65487-mahoutsukai-no-yoru.json) |
@@ -3913,6 +3914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mashiro Witch: Midnight Marchen | 287007 | [287007-mashiro-witch-midnight-marchen.json](./287007-mashiro-witch-midnight-marchen.json) |
 | Mashiroiro Symphony HD: Love is Pure White | 292527 | [292527-mashiroiro-symphony-hd-love-is-pure-white.json](./292527-mashiroiro-symphony-hd-love-is-pure-white.json) |
 | Mashiroiro Symphony HD: Sana Edition | 292529 | [292529-mashiroiro-symphony-hd-sana-edition.json](./292529-mashiroiro-symphony-hd-sana-edition.json) |
+| Mashiroiro Symphony: Mutsu-no-hana | 60827 | [60827-mashiroiro-symphony-mutsu-no-hana.json](./60827-mashiroiro-symphony-mutsu-no-hana.json) |
 | Mashiroiro Symphony: Mutsu-no-hana - Limited Edition | 413747 | [413747-mashiroiro-symphony-mutsu-no-hana-limited-edition.json](./413747-mashiroiro-symphony-mutsu-no-hana-limited-edition.json) |
 | Mashou Denki: La Valeur | 137528 | [137528-mashou-denki-la-valeur.json](./137528-mashou-denki-la-valeur.json) |
 | Mashou Hime Tiruana Haramase Saimin: Ningen o Shiitageru Mazoku no Hime ga Anji Hitotsu de Niku Gangu ni Naru | 59027 | [59027-mashou-hime-tiruana-haramase-saimin-ningen-o-shiitageru-mazoku-no-hime-ga-anji-hitotsu-de-niku-gangu-ni-naru.json](./59027-mashou-hime-tiruana-haramase-saimin-ningen-o-shiitageru-mazoku-no-hime-ga-anji-hitotsu-de-niku-gangu-ni-naru.json) |
@@ -5831,6 +5833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega 99Vidas | 274000 | [274000-mega-99vidas.json](./274000-mega-99vidas.json) |
 | Mega Babies | 209532 | [209532-mega-babies.json](./209532-mega-babies.json) |
 | Mega Blaster | 311664 | [311664-mega-blaster.json](./311664-mega-blaster.json) |
+| Mega Bloks: First Builders | 60838 | [60838-mega-bloks-first-builders.json](./60838-mega-bloks-first-builders.json) |
 | Mega Bowling Dash | 136431 | [136431-mega-bowling-dash.json](./136431-mega-bowling-dash.json) |
 | Mega Brain Boost | 94017 | [94017-mega-brain-boost.json](./94017-mega-brain-boost.json) |
 | Mega Brain Switch | 230699 | [230699-mega-brain-switch.json](./230699-mega-brain-switch.json) |
@@ -10660,6 +10663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror House Cornflake | 150109 | [150109-mirror-house-cornflake.json](./150109-mirror-house-cornflake.json) |
 | Mirror Image | 322352 | [322352-mirror-image.json](./322352-mirror-image.json) |
 | Mirror Insideout | 331882 | [331882-mirror-insideout.json](./331882-mirror-insideout.json) |
+| Mirror Isles | 60858 | [60858-mirror-isles.json](./60858-mirror-isles.json) |
 | Mirror Land | 197631 | [197631-mirror-land.json](./197631-mirror-land.json) |
 | Mirror Land | 91986 | [91986-mirror-land.json](./91986-mirror-land.json) |
 | Mirror Layers | 98557 | [98557-mirror-layers.json](./98557-mirror-layers.json) |
@@ -12133,6 +12137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Mole Panic | 40386 | [40386-monkey-mole-panic.json](./40386-monkey-mole-panic.json) |
 | Monkey Ninja | 106146 | [106146-monkey-ninja.json](./106146-monkey-ninja.json) |
 | Monkey Party | 272693 | [272693-monkey-party.json](./272693-monkey-party.json) |
+| Monkey Poo | 60834 | [60834-monkey-poo.json](./60834-monkey-poo.json) |
 | Monkey Poo Flinger | 302638 | [302638-monkey-poo-flinger.json](./302638-monkey-poo-flinger.json) |
 | Monkey Preschool Lunchbox | 175161 | [175161-monkey-preschool-lunchbox.json](./175161-monkey-preschool-lunchbox.json) |
 | Monkey Puncher | 50026 | [50026-monkey-puncher.json](./50026-monkey-puncher.json) |
