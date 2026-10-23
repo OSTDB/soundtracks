@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Ski Rush | 147714 | [147714-jet-ski-rush.json](./147714-jet-ski-rush.json) |
 | Jet Skiing | 246506 | [246506-jet-skiing.json](./246506-jet-skiing.json) |
 | Jet Trains | 174200 | [174200-jet-trains.json](./174200-jet-trains.json) |
+| Jet X2O | 77121 | [77121-jet-x2o.json](./77121-jet-x2o.json) |
 | Jet-Boot Jack | 79119 | [79119-jet-boot-jack.json](./79119-jet-boot-jack.json) |
 | Jet-Getters | 61715 | [61715-jet-getters.json](./61715-jet-getters.json) |
 | Jet-Paco: Hyper Special Space Agent! | 312227 | [312227-jet-paco-hyper-special-space-agent.json](./312227-jet-paco-hyper-special-space-agent.json) |
@@ -2763,6 +2764,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart 1st Grade | 94349 | [94349-jumpstart-1st-grade.json](./94349-jumpstart-1st-grade.json) |
 | JumpStart 1st Grade Reading | 286668 | [286668-jumpstart-1st-grade-reading.json](./286668-jumpstart-1st-grade-reading.json) |
 | JumpStart 3D Virtual World: Trouble in Town | 200191 | [200191-jumpstart-3d-virtual-world-trouble-in-town.json](./200191-jumpstart-3d-virtual-world-trouble-in-town.json) |
+| JumpStart Advanced Preschool | 77094 | [77094-jumpstart-advanced-preschool.json](./77094-jumpstart-advanced-preschool.json) |
+| JumpStart Advanced Preschool: StoryLand | 77093 | [77093-jumpstart-advanced-preschool-storyland.json](./77093-jumpstart-advanced-preschool-storyland.json) |
 | JumpStart Adventures 4th Grade: Haunted Island | 129146 | [129146-jumpstart-adventures-4th-grade-haunted-island.json](./129146-jumpstart-adventures-4th-grade-haunted-island.json) |
 | JumpStart Artist | 294512 | [294512-jumpstart-artist.json](./294512-jumpstart-artist.json) |
 | JumpStart Baby | 144858 | [144858-jumpstart-baby.json](./144858-jumpstart-baby.json) |
