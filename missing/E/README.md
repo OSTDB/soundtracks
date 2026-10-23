@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eco Mahjong | 177049 | [177049-eco-mahjong.json](./177049-eco-mahjong.json) |
 | Eco Of The Wild Online | 287192 | [287192-eco-of-the-wild-online.json](./287192-eco-of-the-wild-online.json) |
 | Eco Park | 188891 | [188891-eco-park.json](./188891-eco-park.json) |
+| Eco Phantoms | 71924 | [71924-eco-phantoms.json](./71924-eco-phantoms.json) |
 | Eco Ronin | 323440 | [323440-eco-ronin.json](./323440-eco-ronin.json) |
 | Eco Shooter: Plant 530 | 20506 | [20506-eco-shooter-plant-530.json](./20506-eco-shooter-plant-530.json) |
 | Eco Warrior Simulator | 151281 | [151281-eco-warrior-simulator.json](./151281-eco-warrior-simulator.json) |
@@ -2330,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Rush | 385417 | [385417-emerald-rush.json](./385417-emerald-rush.json) |
 | Emerald Rush | 97157 | [97157-emerald-rush.json](./97157-emerald-rush.json) |
 | Emerald Shores | 111470 | [111470-emerald-shores.json](./111470-emerald-shores.json) |
+| Emerald Tale | 71930 | [71930-emerald-tale.json](./71930-emerald-tale.json) |
 | Emerald Ties | 324698 | [324698-emerald-ties.json](./324698-emerald-ties.json) |
 | Emerald Woods | 275656 | [275656-emerald-woods.json](./275656-emerald-woods.json) |
 | Emeraldia | 83423 | [83423-emeraldia.json](./83423-emeraldia.json) |
@@ -5528,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
 | Evil Clowns | 125267 | [125267-evil-clowns.json](./125267-evil-clowns.json) |
 | Evil Cogs | 93740 | [93740-evil-cogs.json](./93740-evil-cogs.json) |
+| Evil Core: The Fallen Cities | 71916 | [71916-evil-core-the-fallen-cities.json](./71916-evil-core-the-fallen-cities.json) |
 | Evil Crown | 45328 | [45328-evil-crown.json](./45328-evil-crown.json) |
 | Evil Cucumber | 169374 | [169374-evil-cucumber.json](./169374-evil-cucumber.json) |
 | Evil Dark | 311225 | [311225-evil-dark.json](./311225-evil-dark.json) |
