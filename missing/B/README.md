@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -953,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakuchou Retsuden Shou: Hyper Fishing | 228491 | [228491-bakuchou-retsuden-shou-hyper-fishing.json](./228491-bakuchou-retsuden-shou-hyper-fishing.json) |
 | Bakudan Baku-tan | 319096 | [319096-bakudan-baku-tan.json](./319096-bakudan-baku-tan.json) |
 | Bakudan Hero | 216638 | [216638-bakudan-hero.json](./216638-bakudan-hero.json) |
+| Bakuden Unbalance Zone | 46381 | [46381-bakuden-unbalance-zone.json](./46381-bakuden-unbalance-zone.json) |
 | Bakugan Battle Brawlers | 328395 | [328395-bakugan-battle-brawlers.json](./328395-bakugan-battle-brawlers.json) |
 | Bakugan Battle Brawlers: Arcade Battlers | 122989 | [122989-bakugan-battle-brawlers-arcade-battlers.json](./122989-bakugan-battle-brawlers-arcade-battlers.json) |
 | Bakugan Dimensions | 128896 | [128896-bakugan-dimensions.json](./128896-bakugan-dimensions.json) |
@@ -2916,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Echoes | 283984 | [283984-battle-echoes.json](./283984-battle-echoes.json) |
 | Battle Engine Aquila | 344462 | [344462-battle-engine-aquila.json](./344462-battle-engine-aquila.json) |
 | Battle Factory Showdown | 306805 | [306805-battle-factory-showdown.json](./306805-battle-factory-showdown.json) |
+| Battle Fantasy | 46393 | [46393-battle-fantasy.json](./46393-battle-fantasy.json) |
 | Battle Fighter | 55861 | [55861-battle-fighter.json](./55861-battle-fighter.json) |
 | Battle Fish | 335411 | [335411-battle-fish.json](./335411-battle-fish.json) |
 | Battle Fishing Masters | 190198 | [190198-battle-fishing-masters.json](./190198-battle-fishing-masters.json) |
@@ -7180,6 +7183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hole | 245160 | [245160-black-hole.json](./245160-black-hole.json) |
 | Black Hole | 46790 | [46790-black-hole.json](./46790-black-hole.json) |
 | Black Hole | 85507 | [85507-black-hole.json](./85507-black-hole.json) |
+| Black Hole Assault | 46405 | [46405-black-hole-assault.json](./46405-black-hole-assault.json) |
 | Black Hole Escape | 293515 | [293515-black-hole-escape.json](./293515-black-hole-escape.json) |
 | Black Hole Fishing | 346166 | [346166-black-hole-fishing.json](./346166-black-hole-fishing.json) |
 | Black Hole Gun | 413182 | [413182-black-hole-gun.json](./413182-black-hole-gun.json) |
@@ -8960,6 +8964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodshell: Conviction | 240684 | [240684-bloodshell-conviction.json](./240684-bloodshell-conviction.json) |
 | Bloodshore | 177056 | [177056-bloodshore.json](./177056-bloodshore.json) |
 | Bloodshot | 398969 | [398969-bloodshot.json](./398969-bloodshot.json) |
+| Bloodshot | 46399 | [46399-bloodshot.json](./46399-bloodshot.json) |
 | Bloodshots | 277436 | [277436-bloodshots.json](./277436-bloodshots.json) |
 | Bloodsong | 280103 | [280103-bloodsong.json](./280103-bloodsong.json) |
 | Bloodspeed | 257299 | [257299-bloodspeed.json](./257299-bloodspeed.json) |
@@ -14170,6 +14175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Empires | 356165 | [356165-burning-empires.json](./356165-burning-empires.json) |
 | Burning Faith | 190476 | [190476-burning-faith.json](./190476-burning-faith.json) |
 | Burning Fight | 39557 | [39557-burning-fight.json](./39557-burning-fight.json) |
+| Burning Fists: Force Striker | 46403 | [46403-burning-fists-force-striker.json](./46403-burning-fists-force-striker.json) |
 | Burning Force | 39492 | [39492-burning-force.json](./39492-burning-force.json) |
 | Burning Horns | 192271 | [192271-burning-horns.json](./192271-burning-horns.json) |
 | Burning Knight | 117702 | [117702-burning-knight.json](./117702-burning-knight.json) |
