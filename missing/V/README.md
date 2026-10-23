@@ -2151,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Mother Home Chef Family Simulator | 103903 | [103903-virtual-mother-home-chef-family-simulator.json](./103903-virtual-mother-home-chef-family-simulator.json) |
 | Virtual Mother Twins Baby | 296743 | [296743-virtual-mother-twins-baby.json](./296743-virtual-mother-twins-baby.json) |
 | Virtual Murder 1: Who Killed Sam Rupert? | 73604 | [73604-virtual-murder-1-who-killed-sam-rupert.json](./73604-virtual-murder-1-who-killed-sam-rupert.json) |
+| Virtual Murder 2: The Magic Death | 71929 | [71929-virtual-murder-2-the-magic-death.json](./71929-virtual-murder-2-the-magic-death.json) |
 | Virtual Ninja VR | 88064 | [88064-virtual-ninja-vr.json](./88064-virtual-ninja-vr.json) |
 | Virtual Perspective | 391756 | [391756-virtual-perspective.json](./391756-virtual-perspective.json) |
 | Virtual Pet | 315292 | [315292-virtual-pet.json](./315292-virtual-pet.json) |
@@ -2750,6 +2751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volcanic Planet | 297242 | [297242-volcanic-planet.json](./297242-volcanic-planet.json) |
 | Volcano | 13768 | [13768-volcano.json](./13768-volcano.json) |
 | Volcano Eruption | 103635 | [103635-volcano-eruption.json](./103635-volcano-eruption.json) |
+| Volcano Hunter | 71940 | [71940-volcano-hunter.json](./71940-volcano-hunter.json) |
 | Volcano Jumper | 351767 | [351767-volcano-jumper.json](./351767-volcano-jumper.json) |
 | Volcano Princess | 164994 | [164994-volcano-princess.json](./164994-volcano-princess.json) |
 | Volcano Snek | 185604 | [185604-volcano-snek.json](./185604-volcano-snek.json) |
