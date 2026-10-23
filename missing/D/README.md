@@ -9429,6 +9429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doko he Iku no, Ano Hi | 408770 | [408770-doko-he-iku-no-ano-hi.json](./408770-doko-he-iku-no-ano-hi.json) |
 | Doko ni Iru? Hijouguchi no Pict-san | 251514 | [251514-doko-ni-iru-hijouguchi-no-pict-san.json](./251514-doko-ni-iru-hijouguchi-no-pict-san.json) |
 | Doko no Donata no Kanjou Root | 415854 | [415854-doko-no-donata-no-kanjou-root.json](./415854-doko-no-donata-no-kanjou-root.json) |
+| Doko Roko | 59105 | [59105-doko-roko.json](./59105-doko-roko.json) |
 | Dokoban | 290327 | [290327-dokoban.json](./290327-dokoban.json) |
 | Dokodemo Chinchin | 59127 | [59127-dokodemo-chinchin.json](./59127-dokodemo-chinchin.json) |
 | Dokodemo Crash-kun | 210242 | [210242-dokodemo-crash-kun.json](./210242-dokodemo-crash-kun.json) |
@@ -12709,6 +12710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamBreaker | 344996 | [344996-dreambreaker.json](./344996-dreambreaker.json) |
 | Dreamcage Escape | 30488 | [30488-dreamcage-escape.json](./30488-dreamcage-escape.json) |
 | Dreamcards | 347803 | [347803-dreamcards.json](./347803-dreamcards.json) |
+| Dreamcatcher | 58555 | [58555-dreamcatcher.json](./58555-dreamcatcher.json) |
 | DreamCatcher | 312588 | [312588-dreamcatcher.json](./312588-dreamcatcher.json) |
 | Dreamcatcher 2003 | 365237 | [365237-dreamcatcher-2003.json](./365237-dreamcatcher-2003.json) |
 | DreamCatcher: Reflections - Volume 1 | 154972 | [154972-dreamcatcher-reflections-volume-1.json](./154972-dreamcatcher-reflections-volume-1.json) |
