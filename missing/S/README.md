@@ -4003,6 +4003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages: Shinobi | 110805 | [110805-sega-ages-shinobi.json](./110805-sega-ages-shinobi.json) |
 | Sega Ages: Sonic the Hedgehog | 96393 | [96393-sega-ages-sonic-the-hedgehog.json](./96393-sega-ages-sonic-the-hedgehog.json) |
 | Sega Ages: Sonic the Hedgehog 2 | 110061 | [110061-sega-ages-sonic-the-hedgehog-2.json](./110061-sega-ages-sonic-the-hedgehog-2.json) |
+| Sega Archives from U.S.A. vol. 1 | 56842 | [56842-sega-archives-from-u-s-a-vol-1.json](./56842-sega-archives-from-u-s-a-vol-1.json) |
 | Sega Astro City Mini V | 245664 | [245664-sega-astro-city-mini-v.json](./245664-sega-astro-city-mini-v.json) |
 | Sega Bass Fishing 2 | 45837 | [45837-sega-bass-fishing-2.json](./45837-sega-bass-fishing-2.json) |
 | Sega Bass Fishing Challenge | 39433 | [39433-sega-bass-fishing-challenge.json](./39433-sega-bass-fishing-challenge.json) |
@@ -4036,6 +4037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Mega Drive Portable Video Game Player: Streets of Rage Special Edition | 202782 | [202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json](./202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json) |
 | Sega Net Mahjong MJ | 130811 | [130811-sega-net-mahjong-mj.json](./130811-sega-net-mahjong-mj.json) |
 | Sega Network Taisen Mahjong MJ4 | 165395 | [165395-sega-network-taisen-mahjong-mj4.json](./165395-sega-network-taisen-mahjong-mj4.json) |
+| Sega Puzzle Pack | 56839 | [56839-sega-puzzle-pack.json](./56839-sega-puzzle-pack.json) |
 | Sega Race TV | 19523 | [19523-sega-race-tv.json](./19523-sega-race-tv.json) |
 | Sega Racing Classic | 67347 | [67347-sega-racing-classic.json](./67347-sega-racing-classic.json) |
 | Sega Rally 2 | 1572 | [1572-sega-rally-2.json](./1572-sega-rally-2.json) |
@@ -4057,6 +4059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Soccer Slam | 248470 | [248470-sega-soccer-slam.json](./248470-sega-soccer-slam.json) |
 | Sega Soccer Slam | 4102 | [4102-sega-soccer-slam.json](./4102-sega-soccer-slam.json) |
 | Sega Splash! Golf | 136872 | [136872-sega-splash-golf.json](./136872-sega-splash-golf.json) |
+| Sega Sports 1 | 56844 | [56844-sega-sports-1.json](./56844-sega-sports-1.json) |
 | Sega Strike Fighter | 112506 | [112506-sega-strike-fighter.json](./112506-sega-strike-fighter.json) |
 | Sega Superstars Tennis | 255326 | [255326-sega-superstars-tennis.json](./255326-sega-superstars-tennis.json) |
 | Sega Superstars Tennis and Xbox Live Arcade Compilation Disc | 227984 | [227984-sega-superstars-tennis-and-xbox-live-arcade-compilation-disc.json](./227984-sega-superstars-tennis-and-xbox-live-arcade-compilation-disc.json) |
@@ -13613,6 +13616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Aspect | 333685 | [333685-sonic-aspect.json](./333685-sonic-aspect.json) |
 | Sonic Astral Generations | 370199 | [370199-sonic-astral-generations.json](./370199-sonic-astral-generations.json) |
 | Sonic at the Olympic Games | 56926 | [56926-sonic-at-the-olympic-games.json](./56926-sonic-at-the-olympic-games.json) |
+| Sonic at the Olympic Winter Games | 56927 | [56927-sonic-at-the-olympic-winter-games.json](./56927-sonic-at-the-olympic-winter-games.json) |
 | Sonic Attitude | 331740 | [331740-sonic-attitude.json](./331740-sonic-attitude.json) |
 | Sonic Aural | 326150 | [326150-sonic-aural.json](./326150-sonic-aural.json) |
 | Sonic Avalanche | 331152 | [331152-sonic-avalanche.json](./331152-sonic-avalanche.json) |
@@ -15959,6 +15963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Valkyries | 309729 | [309729-space-valkyries.json](./309729-space-valkyries.json) |
 | Space Variance Authority | 337641 | [337641-space-variance-authority.json](./337641-space-variance-authority.json) |
 | Space Varments | 194302 | [194302-space-varments.json](./194302-space-varments.json) |
+| Space Vegetables | 56938 | [56938-space-vegetables.json](./56938-space-vegetables.json) |
 | Space Venus starring Morning Musume. | 338317 | [338317-space-venus-starring-morning-musume.json](./338317-space-venus-starring-morning-musume.json) |
 | Space Viking Raiders | 74469 | [74469-space-viking-raiders.json](./74469-space-viking-raiders.json) |
 | Space Viking Raiders VR | 123485 | [123485-space-viking-raiders-vr.json](./123485-space-viking-raiders-vr.json) |
