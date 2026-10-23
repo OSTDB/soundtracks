@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048Puzzle | 357973 | [357973-2048puzzle.json](./357973-2048puzzle.json) |
 | 2048x2048 | 358070 | [358070-2048x2048.json](./358070-2048x2048.json) |
 | 206 | 186710 | [186710-206.json](./186710-206.json) |
+| 2060 Cyber Racer | 91709 | [91709-2060-cyber-racer.json](./91709-2060-cyber-racer.json) |
 | 2064: Read Only Memories Integral | 84927 | [84927-2064-read-only-memories-integral.json](./84927-2064-read-only-memories-integral.json) |
 | 2069 AD | 98267 | [98267-2069-ad.json](./98267-2069-ad.json) |
 | 2080 Apocalypse | 197565 | [197565-2080-apocalypse.json](./197565-2080-apocalypse.json) |
@@ -1612,6 +1613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-Legged Race B | 354403 | [354403-3-legged-race-b.json](./354403-3-legged-race-b.json) |
 | 3-Letter Competitive Crossword | 416745 | [416745-3-letter-competitive-crossword.json](./416745-3-letter-competitive-crossword.json) |
 | 3-nen B-Gumi Kinpachi-sensei: Densetsu no Kyoudan ni Tate! | 65022 | [65022-3-nen-b-gumi-kinpachi-sensei-densetsu-no-kyoudan-ni-tate.json](./65022-3-nen-b-gumi-kinpachi-sensei-densetsu-no-kyoudan-ni-tate.json) |
+| 3-Pun Yosou Umaban Club | 91814 | [91814-3-pun-yosou-umaban-club.json](./91814-3-pun-yosou-umaban-club.json) |
 | 3, 2, 1, Survive! | 102387 | [102387-3-2-1-survive.json](./102387-3-2-1-survive.json) |
 | 3, 2, 1...SuperCrash! | 42786 | [42786-3-2-1-supercrash.json](./42786-3-2-1-supercrash.json) |
 | 3,2,1...SuperCrash! + Dr. MiniGames | 409393 | [409393-3-2-1-supercrash-dr-minigames.json](./409393-3-2-1-supercrash-dr-minigames.json) |
