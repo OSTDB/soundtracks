@@ -5539,6 +5539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Hanwell | 265409 | [265409-beyond-hanwell.json](./265409-beyond-hanwell.json) |
 | Beyond Horizon: The Astral Expedition | 311112 | [311112-beyond-horizon-the-astral-expedition.json](./311112-beyond-horizon-the-astral-expedition.json) |
 | Beyond Horror: Episode One - A Father's Journey | 170925 | [170925-beyond-horror-episode-one-a-fathers-journey.json](./170925-beyond-horror-episode-one-a-fathers-journey.json) |
+| Beyond Humanity | 58559 | [58559-beyond-humanity.json](./58559-beyond-humanity.json) |
 | Beyond Kung-Fu | 263650 | [263650-beyond-kung-fu.json](./263650-beyond-kung-fu.json) |
 | Beyond Lost Planets | 386300 | [386300-beyond-lost-planets.json](./386300-beyond-lost-planets.json) |
 | Beyond Magic | 32941 | [32941-beyond-magic.json](./32941-beyond-magic.json) |
@@ -9933,6 +9934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombardiro Crocodilo: Italian Brainrot Simulator | 344481 | [344481-bombardiro-crocodilo-italian-brainrot-simulator.json](./344481-bombardiro-crocodilo-italian-brainrot-simulator.json) |
 | Bombarika | 101962 | [101962-bombarika.json](./101962-bombarika.json) |
 | Bombarium | 179129 | [179129-bombarium.json](./179129-bombarium.json) |
+| Bombasm | 58562 | [58562-bombasm.json](./58562-bombasm.json) |
 | Bombastar | 379008 | [379008-bombastar.json](./379008-bombastar.json) |
 | Bombastic | 178493 | [178493-bombastic.json](./178493-bombastic.json) |
 | Bombastic | 308253 | [308253-bombastic.json](./308253-bombastic.json) |
@@ -13584,6 +13586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Bill Simulator | 202109 | [202109-bullet-bill-simulator.json](./202109-bullet-bill-simulator.json) |
 | Bullet Blaze | 243373 | [243373-bullet-blaze.json](./243373-bullet-blaze.json) |
 | Bullet Box | 410199 | [410199-bullet-box.json](./410199-bullet-box.json) |
+| Bullet Boy | 58561 | [58561-bullet-boy.json](./58561-bullet-boy.json) |
 | Bullet Break | 346017 | [346017-bullet-break.json](./346017-bullet-break.json) |
 | Bullet Butlers | 58052 | [58052-bullet-butlers.json](./58052-bullet-butlers.json) |
 | Bullet Butlers: Juudan no Kanata | 259483 | [259483-bullet-butlers-juudan-no-kanata.json](./259483-bullet-butlers-juudan-no-kanata.json) |
@@ -14301,6 +14304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bushfires: Animal Rescue | 163925 | [163925-bushfires-animal-rescue.json](./163925-bushfires-animal-rescue.json) |
 | Bushgame: The Anti-Bush Video Game | 71928 | [71928-bushgame-the-anti-bush-video-game.json](./71928-bushgame-the-anti-bush-video-game.json) |
 | Bushiden | 116223 | [116223-bushiden.json](./116223-bushiden.json) |
+| Bushido Bear | 58541 | [58541-bushido-bear.json](./58541-bushido-bear.json) |
 | Bushido Panda | 57469 | [57469-bushido-panda.json](./57469-bushido-panda.json) |
 | Bushido Saga: Nightmare of the Samurai | 260375 | [260375-bushido-saga-nightmare-of-the-samurai.json](./260375-bushido-saga-nightmare-of-the-samurai.json) |
 | Bushido: The Way of the Warrior | 41008 | [41008-bushido-the-way-of-the-warrior.json](./41008-bushido-the-way-of-the-warrior.json) |
