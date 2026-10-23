@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand Sails: Pirate Legends | 262817 | [262817-sand-sails-pirate-legends.json](./262817-sand-sails-pirate-legends.json) |
 | Sand Scorpion | 40184 | [40184-sand-scorpion.json](./40184-sand-scorpion.json) |
 | Sand Seeker | 390504 | [390504-sand-seeker.json](./390504-sand-seeker.json) |
+| Sand Slides | 89780 | [89780-sand-slides.json](./89780-sand-slides.json) |
 | Sand Storm | 81422 | [81422-sand-storm.json](./81422-sand-storm.json) |
 | Sand Story | 174122 | [174122-sand-story.json](./174122-sand-story.json) |
 | Sand to Surf | 149235 | [149235-sand-to-surf.json](./149235-sand-to-surf.json) |
@@ -5157,6 +5158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shades of Sakura | 161616 | [161616-shades-of-sakura.json](./161616-shades-of-sakura.json) |
 | Shades: Combat Militia | 223918 | [223918-shades-combat-militia.json](./223918-shades-combat-militia.json) |
 | Shades: Shadow Fight Roguelike | 300698 | [300698-shades-shadow-fight-roguelike.json](./300698-shades-shadow-fight-roguelike.json) |
+| Shades! | 89626 | [89626-shades.json](./89626-shades.json) |
 | Shadey's Quest | 337154 | [337154-shadeys-quest.json](./337154-shadeys-quest.json) |
 | ShadO | 10820 | [10820-shado.json](./10820-shado.json) |
 | Shado Fighter | 23560 | [23560-shado-fighter.json](./23560-shado-fighter.json) |
@@ -6833,6 +6835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Simulator: Maritime Search and Rescue | 27185 | [27185-ship-simulator-maritime-search-and-rescue.json](./27185-ship-simulator-maritime-search-and-rescue.json) |
 | Ship Smash | 264216 | [264216-ship-smash.json](./264216-ship-smash.json) |
 | Ship Surveyor Through the Ages: VR | 170324 | [170324-ship-surveyor-through-the-ages-vr.json](./170324-ship-surveyor-through-the-ages-vr.json) |
+| Ship Tycoon | 89757 | [89757-ship-tycoon.json](./89757-ship-tycoon.json) |
 | Ship v Maze | 376281 | [376281-ship-v-maze.json](./376281-ship-v-maze.json) |
 | Ship Wreck | 268334 | [268334-ship-wreck.json](./268334-ship-wreck.json) |
 | Ship's Cat | 292392 | [292392-ships-cat.json](./292392-ships-cat.json) |
@@ -8752,6 +8755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simpli Casa | 381707 | [381707-simpli-casa.json](./381707-simpli-casa.json) |
 | Simply Chess | 17604 | [17604-simply-chess.json](./17604-simply-chess.json) |
 | Simply Cubic | 253586 | [253586-simply-cubic.json](./253586-simply-cubic.json) |
+| Simply Find It | 89756 | [89756-simply-find-it.json](./89756-simply-find-it.json) |
 | Simply Gomoku Online | 261318 | [261318-simply-gomoku-online.json](./261318-simply-gomoku-online.json) |
 | Simply HangMan | 68525 | [68525-simply-hangman.json](./68525-simply-hangman.json) |
 | Simply Mahjong | 85370 | [85370-simply-mahjong.json](./85370-simply-mahjong.json) |
@@ -11561,6 +11565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Deluxe 2 | 256655 | [256655-snake-deluxe-2.json](./256655-snake-deluxe-2.json) |
 | Snake Den | 84876 | [84876-snake-den.json](./84876-snake-den.json) |
 | Snake Dice | 364679 | [364679-snake-dice.json](./364679-snake-dice.json) |
+| Snake Dimension | 89716 | [89716-snake-dimension.json](./89716-snake-dimension.json) |
 | Snake Echos | 417645 | [417645-snake-echos.json](./417645-snake-echos.json) |
 | Snake Effect | 280634 | [280634-snake-effect.json](./280634-snake-effect.json) |
 | Snake Escape | 45245 | [45245-snake-escape.json](./45245-snake-escape.json) |
@@ -12919,6 +12924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Bliss Collection | 117176 | [117176-solitaire-bliss-collection.json](./117176-solitaire-bliss-collection.json) |
 | Solitaire Blitz | 65263 | [65263-solitaire-blitz.json](./65263-solitaire-blitz.json) |
 | Solitaire Card Deck Game '23 | 231896 | [231896-solitaire-card-deck-game-23.json](./231896-solitaire-card-deck-game-23.json) |
+| Solitaire Card Game Classic | 89621 | [89621-solitaire-card-game-classic.json](./89621-solitaire-card-game-classic.json) |
 | Solitaire Card Games | 147883 | [147883-solitaire-card-games.json](./147883-solitaire-card-games.json) |
 | Solitaire Central | 384790 | [384790-solitaire-central.json](./384790-solitaire-central.json) |
 | Solitaire City | 76589 | [76589-solitaire-city.json](./76589-solitaire-city.json) |
@@ -14558,6 +14564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Seed | 182074 | [182074-soul-seed.json](./182074-soul-seed.json) |
 | Soul Seeker | 41502 | [41502-soul-seeker.json](./41502-soul-seeker.json) |
 | Soul Shard | 207340 | [207340-soul-shard.json](./207340-soul-shard.json) |
+| Soul Shards | 89747 | [89747-soul-shards.json](./89747-soul-shards.json) |
 | Soul Shuffler | 326786 | [326786-soul-shuffler.json](./326786-soul-shuffler.json) |
 | Soul Slasher | 353781 | [353781-soul-slasher.json](./353781-soul-slasher.json) |
 | Soul Slayers | 145650 | [145650-soul-slayers.json](./145650-soul-slayers.json) |
@@ -23083,6 +23090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Pro | 348394 | [348394-sudoku-pro.json](./348394-sudoku-pro.json) |
 | Sudoku Pro+ | 267454 | [267454-sudoku-pro.json](./267454-sudoku-pro.json) |
 | Sudoku Puzzle | 258466 | [258466-sudoku-puzzle.json](./258466-sudoku-puzzle.json) |
+| Sudoku Puzzle | 89786 | [89786-sudoku-puzzle.json](./89786-sudoku-puzzle.json) |
 | Sudoku Puzzle Blast | 208354 | [208354-sudoku-puzzle-blast.json](./208354-sudoku-puzzle-blast.json) |
 | Sudoku Quest | 33669 | [33669-sudoku-quest.json](./33669-sudoku-quest.json) |
 | Sudoku Quiz | 230706 | [230706-sudoku-quiz.json](./230706-sudoku-quiz.json) |
@@ -23096,6 +23104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Scapes | 105969 | [105969-sudoku-scapes.json](./105969-sudoku-scapes.json) |
 | Sudoku Sensei | 67180 | [67180-sudoku-sensei.json](./67180-sudoku-sensei.json) |
 | Sudoku Slam | 142153 | [142153-sudoku-slam.json](./142153-sudoku-slam.json) |
+| Sudoku Solver | 89791 | [89791-sudoku-solver.json](./89791-sudoku-solver.json) |
 | Sudoku Starry Sky | 154574 | [154574-sudoku-starry-sky.json](./154574-sudoku-starry-sky.json) |
 | Sudoku Student | 84912 | [84912-sudoku-student.json](./84912-sudoku-student.json) |
 | Sudoku Sweeper | 197720 | [197720-sudoku-sweeper.json](./197720-sudoku-sweeper.json) |
@@ -25481,6 +25490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Perspective | 65841 | [65841-super-perspective.json](./65841-super-perspective.json) |
 | Super Pet Hero | 245758 | [245758-super-pet-hero.json](./245758-super-pet-hero.json) |
 | Super Phantom Cat | 90979 | [90979-super-phantom-cat.json](./90979-super-phantom-cat.json) |
+| Super Phantom Cat 2 | 89718 | [89718-super-phantom-cat-2.json](./89718-super-phantom-cat-2.json) |
 | Super Pickleball Adventure | 329409 | [329409-super-pickleball-adventure.json](./329409-super-pickleball-adventure.json) |
 | Super Picture Cross | 272913 | [272913-super-picture-cross.json](./272913-super-picture-cross.json) |
 | Super Pig | 120989 | [120989-super-pig.json](./120989-super-pig.json) |
@@ -26679,6 +26689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: Reel Life - Collector's Edition | 29619 | [29619-surface-reel-life-collectors-edition.json](./29619-surface-reel-life-collectors-edition.json) |
 | Surface: Return to Another World | 91346 | [91346-surface-return-to-another-world.json](./91346-surface-return-to-another-world.json) |
 | Surface: Return to Another World - Collector's Edition | 105166 | [105166-surface-return-to-another-world-collectors-edition.json](./105166-surface-return-to-another-world-collectors-edition.json) |
+| Surface: Strings of Fate | 89625 | [89625-surface-strings-of-fate.json](./89625-surface-strings-of-fate.json) |
 | Surface: The Noise She Couldn't Make | 139919 | [139919-surface-the-noise-she-couldnt-make.json](./139919-surface-the-noise-she-couldnt-make.json) |
 | Surface: The Pantheon | 139748 | [139748-surface-the-pantheon.json](./139748-surface-the-pantheon.json) |
 | Surface: The Pantheon - Collector's Edition | 32734 | [32734-surface-the-pantheon-collectors-edition.json](./32734-surface-the-pantheon-collectors-edition.json) |
