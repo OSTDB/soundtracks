@@ -2315,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect Star Wars | 8560 | [8560-kinect-star-wars.json](./8560-kinect-star-wars.json) |
 | Kinect Triple Bundle: Beats & Booms & Squids | 82453 | [82453-kinect-triple-bundle-beats-and-booms-and-squids.json](./82453-kinect-triple-bundle-beats-and-booms-and-squids.json) |
 | Kinectimals | 2755 | [2755-kinectimals.json](./2755-kinectimals.json) |
+| Kinectimals Mobile | 78499 | [78499-kinectimals-mobile.json](./78499-kinectimals-mobile.json) |
 | Kinectimals: Now with Bears! | 47416 | [47416-kinectimals-now-with-bears.json](./47416-kinectimals-now-with-bears.json) |
 | Kinese | 90529 | [90529-kinese.json](./90529-kinese.json) |
 | Kinesis | 141783 | [141783-kinesis.json](./141783-kinesis.json) |
