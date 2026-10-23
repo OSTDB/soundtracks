@@ -11276,6 +11276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -19954,6 +19955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TomaDo! | 391137 | [391137-tomado.json](./391137-tomado.json) |
 | Tomahawk | 26474 | [26474-tomahawk.json](./26474-tomahawk.json) |
 | Tomahawk Missile | 277897 | [277897-tomahawk-missile.json](./277897-tomahawk-missile.json) |
+| Tomak: Save the Earth - Love Story | 59697 | [59697-tomak-save-the-earth-love-story.json](./59697-tomak-save-the-earth-love-story.json) |
 | Tomarc the Barbarian | 23840 | [23840-tomarc-the-barbarian.json](./23840-tomarc-the-barbarian.json) |
 | Tómate un Descanso | 327435 | [327435-tomate-un-descanso.json](./327435-tomate-un-descanso.json) |
 | Tomato Adventure | 49844 | [49844-tomato-adventure.json](./49844-tomato-adventure.json) |
@@ -22321,6 +22323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Plus Japan: Drive Western Japan Trains! - Rapid Service Edition | 412568 | [412568-train-plus-japan-drive-western-japan-trains-rapid-service-edition.json](./412568-train-plus-japan-drive-western-japan-trains-rapid-service-edition.json) |
 | Train Plus: Kowa Dentetsu Regular Colors Train | 355228 | [355228-train-plus-kowa-dentetsu-regular-colors-train.json](./355228-train-plus-kowa-dentetsu-regular-colors-train.json) |
 | Train Ride Simulator | 149709 | [149709-train-ride-simulator.json](./149709-train-ride-simulator.json) |
+| Train Robbers | 59643 | [59643-train-robbers.json](./59643-train-robbers.json) |
 | Train Runner VR | 75632 | [75632-train-runner-vr.json](./75632-train-runner-vr.json) |
 | Train Rush | 220049 | [220049-train-rush.json](./220049-train-rush.json) |
 | Train Sim World | 105877 | [105877-train-sim-world.json](./105877-train-sim-world.json) |
