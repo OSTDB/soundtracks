@@ -5343,6 +5343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rgby | 199473 | [199473-rgby.json](./199473-rgby.json) |
 | RGT Cycling | 138571 | [138571-rgt-cycling.json](./138571-rgt-cycling.json) |
 | RGX Showdown | 109588 | [109588-rgx-showdown.json](./109588-rgx-showdown.json) |
+| Rhapsody Devoted to the Coffin Sleeping Under the Moon | 82649 | [82649-rhapsody-devoted-to-the-coffin-sleeping-under-the-moon.json](./82649-rhapsody-devoted-to-the-coffin-sleeping-under-the-moon.json) |
 | Rhapsody II: Ballad of the Little Princess | 238937 | [238937-rhapsody-ii-ballad-of-the-little-princess.json](./238937-rhapsody-ii-ballad-of-the-little-princess.json) |
 | Rhapsody III: Memories of Marl Kingdom | 238548 | [238548-rhapsody-iii-memories-of-marl-kingdom.json](./238548-rhapsody-iii-memories-of-marl-kingdom.json) |
 | Rhapsody in Scarlet | 416111 | [416111-rhapsody-in-scarlet.json](./416111-rhapsody-in-scarlet.json) |
