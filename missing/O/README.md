@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Official AFL: The Interactive DVD Trivia Game - St Kilda Super Quiz | 275588 | [275588-official-afl-the-interactive-dvd-trivia-game-st-kilda-super-quiz.json](./275588-official-afl-the-interactive-dvd-trivia-game-st-kilda-super-quiz.json) |
 | Official AFL: The Interactive DVD Trivia Game - Sydney Swans Super Quiz | 275586 | [275586-official-afl-the-interactive-dvd-trivia-game-sydney-swans-super-quiz.json](./275586-official-afl-the-interactive-dvd-trivia-game-sydney-swans-super-quiz.json) |
 | Official AFL: The Interactive DVD Trivia Game - West Coast Eagles Super Quiz | 275587 | [275587-official-afl-the-interactive-dvd-trivia-game-west-coast-eagles-super-quiz.json](./275587-official-afl-the-interactive-dvd-trivia-game-west-coast-eagles-super-quiz.json) |
+| Official Formula One Racing | 77790 | [77790-official-formula-one-racing.json](./77790-official-formula-one-racing.json) |
 | Official Spacefarer Card Game | 279863 | [279863-official-spacefarer-card-game.json](./279863-official-spacefarer-card-game.json) |
 | Offline | 216977 | [216977-offline.json](./216977-offline.json) |
 | Offline | 390174 | [390174-offline.json](./390174-offline.json) |
