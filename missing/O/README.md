@@ -376,10 +376,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocero 3D | 341497 | [341497-ocero-3d.json](./341497-ocero-3d.json) |
 | Ocha no Ma Battle | 299030 | [299030-ocha-no-ma-battle.json](./299030-ocha-no-ma-battle.json) |
 | Ochakai he no Shoutaijou | 246092 | [246092-ochakai-he-no-shoutaijou.json](./246092-ochakai-he-no-shoutaijou.json) |
+| Ochaken Kururin: Honwaka Puzzle de Ho~ttoshiyou? | 49744 | [49744-ochaken-kururin-honwaka-puzzle-de-ho-ttoshiyou.json](./49744-ochaken-kururin-honwaka-puzzle-de-ho-ttoshiyou.json) |
+| Ochaken no Bouken-jima: Honwaka Yume no Island | 49743 | [49743-ochaken-no-bouken-jima-honwaka-yume-no-island.json](./49743-ochaken-no-bouken-jima-honwaka-yume-no-island.json) |
+| Ochaken no Heya | 49742 | [49742-ochaken-no-heya.json](./49742-ochaken-no-heya.json) |
 | Ochaken no Heya DS | 123367 | [123367-ochaken-no-heya-ds.json](./123367-ochaken-no-heya-ds.json) |
 | Ochaken no Heya DS 2 | 123368 | [123368-ochaken-no-heya-ds-2.json](./123368-ochaken-no-heya-ds-2.json) |
 | Ochaken no Heya DS 3 | 123369 | [123369-ochaken-no-heya-ds-3.json](./123369-ochaken-no-heya-ds-3.json) |
 | Ochaken no Heya DS 4 | 123370 | [123370-ochaken-no-heya-ds-4.json](./123370-ochaken-no-heya-ds-4.json) |
+| Ochaken no Yume Bouken | 49741 | [49741-ochaken-no-yume-bouken.json](./49741-ochaken-no-yume-bouken.json) |
 | Ochakumi | 78020 | [78020-ochakumi.json](./78020-ochakumi.json) |
 | Ochakumi + | 71433 | [71433-ochakumi.json](./71433-ochakumi.json) |
 | Ochige Designer Tsukutte Pon! | 128361 | [128361-ochige-designer-tsukutte-pon.json](./128361-ochige-designer-tsukutte-pon.json) |
@@ -979,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oha Suta Dance Dance Revolution GB | 246126 | [246126-oha-suta-dance-dance-revolution-gb.json](./246126-oha-suta-dance-dance-revolution-gb.json) |
 | Oha Suta: Yama-chan & Raymond | 228627 | [228627-oha-suta-yama-chan-and-raymond.json](./228627-oha-suta-yama-chan-and-raymond.json) |
 | Ohanabatake no Flore | 332418 | [332418-ohanabatake-no-flore.json](./332418-ohanabatake-no-flore.json) |
+| Ohanaya-san Monogatari GBA | 49740 | [49740-ohanaya-san-monogatari-gba.json](./49740-ohanaya-san-monogatari-gba.json) |
 | Oharion | 413071 | [413071-oharion.json](./413071-oharion.json) |
 | Ohenro-San | 4051 | [4051-ohenro-san.json](./4051-ohenro-san.json) |
 | Ohimesama: Jiku wo Koeru | 97694 | [97694-ohimesama-jiku-wo-koeru.json](./97694-ohimesama-jiku-wo-koeru.json) |
@@ -1048,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oita, Beppu Mystery Annai: Yuganda Tourou | 212306 | [212306-oita-beppu-mystery-annai-yuganda-tourou.json](./212306-oita-beppu-mystery-annai-yuganda-tourou.json) |
 | Ojamajo Adventure: Naisho No Mahou | 319698 | [319698-ojamajo-adventure-naisho-no-mahou.json](./319698-ojamajo-adventure-naisho-no-mahou.json) |
 | Ojanko Yakata | 252061 | [252061-ojanko-yakata.json](./252061-ojanko-yakata.json) |
+| Ojarumaru: Gekkou Machi Sanpo de Ojaru | 49739 | [49739-ojarumaru-gekkou-machi-sanpo-de-ojaru.json](./49739-ojarumaru-gekkou-machi-sanpo-de-ojaru.json) |
 | Oji-Mama | 285113 | [285113-oji-mama.json](./285113-oji-mama.json) |
 | Oji-san Tomete Iede Gal to no Win Win Sex Life | 59125 | [59125-oji-san-tomete-iede-gal-to-no-win-win-sex-life.json](./59125-oji-san-tomete-iede-gal-to-no-win-win-sex-life.json) |
 | Ojingeo Project | 393658 | [393658-ojingeo-project.json](./393658-ojingeo-project.json) |
@@ -1115,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oku-sama wa Moto Yariman -Besluted- | 82982 | [82982-oku-sama-wa-moto-yariman-besluted.json](./82982-oku-sama-wa-moto-yariman-besluted.json) |
 | Okubi | 214564 | [214564-okubi.json](./214564-okubi.json) |
 | Okugafuchi Shopping Arcade | 413104 | [413104-okugafuchi-shopping-arcade.json](./413104-okugafuchi-shopping-arcade.json) |
+| Okuman Chouja Game: Nottori Daisakusen! | 49738 | [49738-okuman-chouja-game-nottori-daisakusen.json](./49738-okuman-chouja-game-nottori-daisakusen.json) |
 | Okuman Chouja II | 242520 | [242520-okuman-chouja-ii.json](./242520-okuman-chouja-ii.json) |
 | OkunoKa | 87961 | [87961-okunoka.json](./87961-okunoka.json) |
 | Okunoka Madness | 136462 | [136462-okunoka-madness.json](./136462-okunoka-madness.json) |
@@ -2028,10 +2035,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Dai Kaizoku Colosseum | 58468 | [58468-one-piece-dai-kaizoku-colosseum.json](./58468-one-piece-dai-kaizoku-colosseum.json) |
 | One Piece: Dai Kaizoku Colosseum | 75835 | [75835-one-piece-dai-kaizoku-colosseum.json](./75835-one-piece-dai-kaizoku-colosseum.json) |
 | One Piece: Dance Battle | 62120 | [62120-one-piece-dance-battle.json](./62120-one-piece-dance-battle.json) |
+| One Piece: Dragon Dream! | 49737 | [49737-one-piece-dragon-dream.json](./49737-one-piece-dragon-dream.json) |
 | One Piece: Dream Pointer | 294778 | [294778-one-piece-dream-pointer.json](./294778-one-piece-dream-pointer.json) |
 | One Piece: Fighting Path | 153095 | [153095-one-piece-fighting-path.json](./153095-one-piece-fighting-path.json) |
 | One Piece: Gear Spirit | 47819 | [47819-one-piece-gear-spirit.json](./47819-one-piece-gear-spirit.json) |
 | One Piece: Gigant Battle! | 47818 | [47818-one-piece-gigant-battle.json](./47818-one-piece-gigant-battle.json) |
+| One Piece: Going Baseball - Kaizoku Yakyuu | 49736 | [49736-one-piece-going-baseball-kaizoku-yakyuu.json](./49736-one-piece-going-baseball-kaizoku-yakyuu.json) |
 | One Piece: Grand Adventure | 4053 | [4053-one-piece-grand-adventure.json](./4053-one-piece-grand-adventure.json) |
 | One Piece: Grand Battle! 2 | 75743 | [75743-one-piece-grand-battle-2.json](./75743-one-piece-grand-battle-2.json) |
 | One Piece: Grand Battle! 3 | 75752 | [75752-one-piece-grand-battle-3.json](./75752-one-piece-grand-battle-3.json) |
@@ -2482,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onmyoji: Beyond Time | 298981 | [298981-onmyoji-beyond-time.json](./298981-onmyoji-beyond-time.json) |
 | Onmyou Taisenki: Byakko Enbu | 78491 | [78491-onmyou-taisenki-byakko-enbu.json](./78491-onmyou-taisenki-byakko-enbu.json) |
 | Onmyou Taisenki: Hasha no In | 78492 | [78492-onmyou-taisenki-hasha-no-in.json](./78492-onmyou-taisenki-hasha-no-in.json) |
+| Onmyou Taisenki: Zeroshiki | 49735 | [49735-onmyou-taisenki-zeroshiki.json](./49735-onmyou-taisenki-zeroshiki.json) |
 | Onmyoudou Origins | 277944 | [277944-onmyoudou-origins.json](./277944-onmyoudou-origins.json) |
 | Onmyoudou: Arcade Edition | 170223 | [170223-onmyoudou-arcade-edition.json](./170223-onmyoudou-arcade-edition.json) |
 | Onmyouji Emaki | 335701 | [335701-onmyouji-emaki.json](./335701-onmyouji-emaki.json) |
@@ -3507,6 +3517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osekkai na Imouto | 97719 | [97719-osekkai-na-imouto.json](./97719-osekkai-na-imouto.json) |
 | Oses | 63732 | [63732-oses.json](./63732-oses.json) |
 | OSgrid | 64483 | [64483-osgrid.json](./64483-osgrid.json) |
+| Oshaberi Inko Club | 49734 | [49734-oshaberi-inko-club.json](./49734-oshaberi-inko-club.json) |
 | Oshaberi King! Komyuryoku Shindan Game | 396441 | [396441-oshaberi-king-komyuryoku-shindan-game.json](./396441-oshaberi-king-komyuryoku-shindan-game.json) |
 | Oshare Beena: o-Mise de Kisekae Make Haircut | 300424 | [300424-oshare-beena-o-mise-de-kisekae-make-haircut.json](./300424-oshare-beena-o-mise-de-kisekae-make-haircut.json) |
 | Oshare de Kawaii Koinu to Asobo!: Machi-hen | 141148 | [141148-oshare-de-kawaii-koinu-to-asobo-machi-hen.json](./141148-oshare-de-kawaii-koinu-to-asobo-machi-hen.json) |
