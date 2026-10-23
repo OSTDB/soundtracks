@@ -781,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palladise Island: Legendary Space | 228089 | [228089-palladise-island-legendary-space.json](./228089-palladise-island-legendary-space.json) |
 | Palladium | 250813 | [250813-palladium.json](./250813-palladium.json) |
 | Palladium: Adventure in Greece | 132798 | [132798-palladium-adventure-in-greece.json](./132798-palladium-adventure-in-greece.json) |
+| Pallanda | 60335 | [60335-pallanda.json](./60335-pallanda.json) |
 | Pallas of Vines | 129762 | [129762-pallas-of-vines.json](./129762-pallas-of-vines.json) |
 | Pallet | 250971 | [250971-pallet.json](./250971-pallet.json) |
 | Pallet Panic | 273786 | [273786-pallet-panic.json](./273786-pallet-panic.json) |
@@ -11510,6 +11511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: Warrior Within HD | 99586 | [99586-prince-of-persia-warrior-within-hd.json](./99586-prince-of-persia-warrior-within-hd.json) |
 | Prince of Prussia | 336715 | [336715-prince-of-prussia.json](./336715-prince-of-prussia.json) |
 | Prince of Qin | 51402 | [51402-prince-of-qin.json](./51402-prince-of-qin.json) |
+| Prince of Stride | 60332 | [60332-prince-of-stride.json](./60332-prince-of-stride.json) |
 | Prince of the Resort | 254950 | [254950-prince-of-the-resort.json](./254950-prince-of-the-resort.json) |
 | Prince or Villain | 254898 | [254898-prince-or-villain.json](./254898-prince-or-villain.json) |
 | Prince Rystiya's Starfleet | 341557 | [341557-prince-rystiyas-starfleet.json](./341557-prince-rystiyas-starfleet.json) |
@@ -13319,6 +13321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pryzm Chapter One: The Dark Unicorn | 24078 | [24078-pryzm-chapter-one-the-dark-unicorn.json](./24078-pryzm-chapter-one-the-dark-unicorn.json) |
 | PS! Flash | 178483 | [178483-ps-flash.json](./178483-ps-flash.json) |
 | PS!Outertale | 313279 | [313279-ps-outertale.json](./313279-ps-outertale.json) |
+| PSA World Tour Squash 2015 | 60327 | [60327-psa-world-tour-squash-2015.json](./60327-psa-world-tour-squash-2015.json) |
 | Psalm 2 | 402547 | [402547-psalm-2.json](./402547-psalm-2.json) |
 | Psalm VR | 343853 | [343853-psalm-vr.json](./343853-psalm-vr.json) |
 | Psebay | 43063 | [43063-psebay.json](./43063-psebay.json) |
