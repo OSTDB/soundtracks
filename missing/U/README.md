@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UEFA Dream Soccer | 45803 | [45803-uefa-dream-soccer.json](./45803-uefa-dream-soccer.json) |
 | UEFA Euro 2000 | 44831 | [44831-uefa-euro-2000.json](./44831-uefa-euro-2000.json) |
 | UEFA Euro 2024 | 317534 | [317534-uefa-euro-2024.json](./317534-uefa-euro-2024.json) |
+| UEFA Striker | 46370 | [46370-uefa-striker.json](./46370-uefa-striker.json) |
 | Ueki no Housoku: Jingi Sakuretsu! Nouryokusha Battle | 188652 | [188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json](./188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json) |
 | Ueki no Housoku: Taosu ze Robert Juudan!! | 228934 | [228934-ueki-no-housoku-taosu-ze-robert-juudan.json](./228934-ueki-no-housoku-taosu-ze-robert-juudan.json) |
 | UemeU | 63133 | [63133-uemeu.json](./63133-uemeu.json) |
@@ -861,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultratank | 120679 | [120679-ultratank.json](./120679-ultratank.json) |
 | Ultratap | 390219 | [390219-ultratap.json](./390219-ultratap.json) |
 | Ultratron | 14327 | [14327-ultratron.json](./14327-ultratron.json) |
+| Ultraverse Prime | 46407 | [46407-ultraverse-prime.json](./46407-ultraverse-prime.json) |
 | Ultraviolet | 287149 | [287149-ultraviolet.json](./287149-ultraviolet.json) |
 | Ultrawings | 27323 | [27323-ultrawings.json](./27323-ultrawings.json) |
 | Ultrawings 2 | 173019 | [173019-ultrawings-2.json](./173019-ultrawings-2.json) |
@@ -2781,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ururun Quest: Koiyuuki | 203392 | [203392-ururun-quest-koiyuuki.json](./203392-ururun-quest-koiyuuki.json) |
 | Urusei Yatsura | 94113 | [94113-urusei-yatsura.json](./94113-urusei-yatsura.json) |
 | Urusei Yatsura CG Puzzle | 138521 | [138521-urusei-yatsura-cg-puzzle.json](./138521-urusei-yatsura-cg-puzzle.json) |
+| Urusei Yatsura: Dear My Friends | 46401 | [46401-urusei-yatsura-dear-my-friends.json](./46401-urusei-yatsura-dear-my-friends.json) |
 | Urusei Yatsura: Endless Summer | 72697 | [72697-urusei-yatsura-endless-summer.json](./72697-urusei-yatsura-endless-summer.json) |
 | Urusei Yatsura: Koi no Survival Party | 66194 | [66194-urusei-yatsura-koi-no-survival-party.json](./66194-urusei-yatsura-koi-no-survival-party.json) |
 | Urusei Yatsura: Lum no Wedding Bell | 48555 | [48555-urusei-yatsura-lum-no-wedding-bell.json](./48555-urusei-yatsura-lum-no-wedding-bell.json) |
