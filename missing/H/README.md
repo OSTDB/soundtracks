@@ -9794,6 +9794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydro Storm 2 | 180487 | [180487-hydro-storm-2.json](./180487-hydro-storm-2.json) |
 | Hydro Thunder | 217932 | [217932-hydro-thunder.json](./217932-hydro-thunder.json) |
 | Hydro Thunder | 3370 | [3370-hydro-thunder.json](./3370-hydro-thunder.json) |
+| Hydro Thunder Go | 65923 | [65923-hydro-thunder-go.json](./65923-hydro-thunder-go.json) |
 | Hydroactive | 76372 | [76372-hydroactive.json](./76372-hydroactive.json) |
 | Hydrofoil Generation | 190237 | [190237-hydrofoil-generation.json](./190237-hydrofoil-generation.json) |
 | Hydrofusion Substation | 270677 | [270677-hydrofusion-substation.json](./270677-hydrofusion-substation.json) |
