@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution | 135549 | [135549-dance-dance-revolution.json](./135549-dance-dance-revolution.json) |
 | Dance Dance Revolution | 140274 | [140274-dance-dance-revolution.json](./140274-dance-dance-revolution.json) |
 | Dance Dance Revolution | 250255 | [250255-dance-dance-revolution.json](./250255-dance-dance-revolution.json) |
+| Dance Dance Revolution | 94097 | [94097-dance-dance-revolution.json](./94097-dance-dance-revolution.json) |
 | Dance Dance Revolution 2nd Mix: Dreamcast Edition | 268647 | [268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json](./268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json) |
 | Dance Dance Revolution 2ndMix | 77640 | [77640-dance-dance-revolution-2ndmix.json](./77640-dance-dance-revolution-2ndmix.json) |
 | Dance Dance Revolution 2ndReMix: Append Club Version Vol. 1 | 132807 | [132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json](./132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json) |
@@ -6794,6 +6795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diddy Kong Racing Adventure | 131896 | [131896-diddy-kong-racing-adventure.json](./131896-diddy-kong-racing-adventure.json) |
 | Diddy Kong Racing DS: Timber's Balloon Pop | 231630 | [231630-diddy-kong-racing-ds-timbers-balloon-pop.json](./231630-diddy-kong-racing-ds-timbers-balloon-pop.json) |
 | Diddy Kong Racing: Recompiled | 413189 | [413189-diddy-kong-racing-recompiled.json](./413189-diddy-kong-racing-recompiled.json) |
+| Didgery | 94109 | [94109-didgery.json](./94109-didgery.json) |
 | Didi & Ditto: Kindergarten | 73832 | [73832-didi-and-ditto-kindergarten.json](./73832-didi-and-ditto-kindergarten.json) |
 | Didj Racing: Tiki Tropics | 94158 | [94158-didj-racing-tiki-tropics.json](./94158-didj-racing-tiki-tropics.json) |
 | Didnapper | 295249 | [295249-didnapper.json](./295249-didnapper.json) |
