@@ -5130,6 +5130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Issho ni Asobo Koupen-chan | 133715 | [133715-issho-ni-asobo-koupen-chan.json](./133715-issho-ni-asobo-koupen-chan.json) |
 | Issho ni Asobo Koupen-chan | 144685 | [144685-issho-ni-asobo-koupen-chan.json](./144685-issho-ni-asobo-koupen-chan.json) |
 | Issho ni Henshin Fresh Pretty Cure | 327591 | [327591-issho-ni-henshin-fresh-pretty-cure.json](./327591-issho-ni-henshin-fresh-pretty-cure.json) |
+| Issho ni Ikimashou Ikimashou Ikimashou | 75637 | [75637-issho-ni-ikimashou-ikimashou-ikimashou.json](./75637-issho-ni-ikimashou-ikimashou-ikimashou.json) |
 | Issunboushi no Donnamondai | 146261 | [146261-issunboushi-no-donnamondai.json](./146261-issunboushi-no-donnamondai.json) |
 | Istanbul | 274194 | [274194-istanbul.json](./274194-istanbul.json) |
 | Istanbul, Texas | 159071 | [159071-istanbul-texas.json](./159071-istanbul-texas.json) |
