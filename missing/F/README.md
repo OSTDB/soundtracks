@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Familia | 125470 | [125470-familia.json](./125470-familia.json) |
 | Familiar | 196570 | [196570-familiar.json](./196570-familiar.json) |
 | Familiar Friends: What's Your Familiar? | 340056 | [340056-familiar-friends-whats-your-familiar.json](./340056-familiar-friends-whats-your-familiar.json) |
+| Familiar Spirit of the Demon Lord | 82609 | [82609-familiar-spirit-of-the-demon-lord.json](./82609-familiar-spirit-of-the-demon-lord.json) |
 | Familiar Stranger | 319932 | [319932-familiar-stranger.json](./319932-familiar-stranger.json) |
 | Familiar Travels: Volume Two | 137321 | [137321-familiar-travels-volume-two.json](./137321-familiar-travels-volume-two.json) |
 | Familiar: Battle of the Labyrinth | 367630 | [367630-familiar-battle-of-the-labyrinth.json](./367630-familiar-battle-of-the-labyrinth.json) |
@@ -9273,6 +9274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frequency: Chernobyl - First Signal | 148853 | [148853-frequency-chernobyl-first-signal.json](./148853-frequency-chernobyl-first-signal.json) |
 | Frequent Flyer | 30585 | [30585-frequent-flyer.json](./30585-frequent-flyer.json) |
 | Frequent Flyer: A Long Distance Love Story | 88089 | [88089-frequent-flyer-a-long-distance-love-story.json](./88089-frequent-flyer-a-long-distance-love-story.json) |
+| Frequenting Brothel | 82603 | [82603-frequenting-brothel.json](./82603-frequenting-brothel.json) |
 | Frequon Invaders | 73186 | [73186-frequon-invaders.json](./73186-frequon-invaders.json) |
 | Fresh Body | 30666 | [30666-fresh-body.json](./30666-fresh-body.json) |
 | Fresh Catch! | 346712 | [346712-fresh-catch.json](./346712-fresh-catch.json) |
