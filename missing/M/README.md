@@ -1063,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Triangles | 105737 | [105737-magic-triangles.json](./105737-magic-triangles.json) |
 | Magic Trolls | 245456 | [245456-magic-trolls.json](./245456-magic-trolls.json) |
 | Magic Twins | 132244 | [132244-magic-twins.json](./132244-magic-twins.json) |
+| Magic Twist: Music Tiles Game | 95804 | [95804-magic-twist-music-tiles-game.json](./95804-magic-twist-music-tiles-game.json) |
 | Magic Unfolding | 385356 | [385356-magic-unfolding.json](./385356-magic-unfolding.json) |
 | Magic Valley Hike | 342427 | [342427-magic-valley-hike.json](./342427-magic-valley-hike.json) |
 | Magic Venue | 303647 | [303647-magic-venue.json](./303647-magic-venue.json) |
@@ -1406,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnus Failure | 154243 | [154243-magnus-failure.json](./154243-magnus-failure.json) |
 | Magnus Imago | 188683 | [188683-magnus-imago.json](./188683-magnus-imago.json) |
 | Magnus Kingdom of Chess | 103897 | [103897-magnus-kingdom-of-chess.json](./103897-magnus-kingdom-of-chess.json) |
+| Magnus Trainer - Learn & Train Chess | 95800 | [95800-magnus-trainer-learn-and-train-chess.json](./95800-magnus-trainer-learn-and-train-chess.json) |
 | Magnus Trilogy | 297726 | [297726-magnus-trilogy.json](./297726-magnus-trilogy.json) |
 | Magnussoft's Colossus Chess | 91540 | [91540-magnussofts-colossus-chess.json](./91540-magnussofts-colossus-chess.json) |
 | Mago | 120365 | [120365-mago.json](./120365-mago.json) |
@@ -7423,6 +7425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Secrets11- Mermaids Spa Salon Makeover | 99370 | [99370-mermaid-secrets11-mermaids-spa-salon-makeover.json](./99370-mermaid-secrets11-mermaids-spa-salon-makeover.json) |
 | Mermaid Secrets12 - Heartbreak Love Story | 100838 | [100838-mermaid-secrets12-heartbreak-love-story.json](./100838-mermaid-secrets12-heartbreak-love-story.json) |
 | Mermaid Secrets14 - Prison Escape | 104465 | [104465-mermaid-secrets14-prison-escape.json](./104465-mermaid-secrets14-prison-escape.json) |
+| Mermaid Secrets9- Hidden Crimes in High School | 95890 | [95890-mermaid-secrets9-hidden-crimes-in-high-school.json](./95890-mermaid-secrets9-hidden-crimes-in-high-school.json) |
 | Mermaid Spa & Makeover | 90733 | [90733-mermaid-spa-and-makeover.json](./90733-mermaid-spa-and-makeover.json) |
 | Mermaid Splash! | 146522 | [146522-mermaid-splash.json](./146522-mermaid-splash.json) |
 | Mermaid Stories: Book 1 - The Lost Gift | 339377 | [339377-mermaid-stories-book-1-the-lost-gift.json](./339377-mermaid-stories-book-1-the-lost-gift.json) |
@@ -8760,6 +8763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Mysteries 2: Salem Witch Trials | 10573 | [10573-midnight-mysteries-2-salem-witch-trials.json](./10573-midnight-mysteries-2-salem-witch-trials.json) |
 | Midnight Mysteries 3: Devil on the Mississippi | 10547 | [10547-midnight-mysteries-3-devil-on-the-mississippi.json](./10547-midnight-mysteries-3-devil-on-the-mississippi.json) |
 | Midnight Mysteries 4: Haunted Houdini | 10548 | [10548-midnight-mysteries-4-haunted-houdini.json](./10548-midnight-mysteries-4-haunted-houdini.json) |
+| Midnight Mysteries 4: Haunted Houdini - Collector's Edition | 95902 | [95902-midnight-mysteries-4-haunted-houdini-collectors-edition.json](./95902-midnight-mysteries-4-haunted-houdini-collectors-edition.json) |
 | Midnight Mysteries: Devil on the Mississippi - Collector's Edition | 89860 | [89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json](./89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json) |
 | Midnight Mysteries: Ghostwriting | 59874 | [59874-midnight-mysteries-ghostwriting.json](./59874-midnight-mysteries-ghostwriting.json) |
 | Midnight Mysteries: Salem Witch Trials - Collector's Edition | 94888 | [94888-midnight-mysteries-salem-witch-trials-collectors-edition.json](./94888-midnight-mysteries-salem-witch-trials-collectors-edition.json) |
@@ -10691,6 +10695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missi | 333971 | [333971-missi.json](./333971-missi.json) |
 | Missile Attack | 245437 | [245437-missile-attack.json](./245437-missile-attack.json) |
 | Missile Attack | 71157 | [71157-missile-attack.json](./71157-missile-attack.json) |
+| Missile Barrage | 95907 | [95907-missile-barrage.json](./95907-missile-barrage.json) |
 | Missile Base | 13740 | [13740-missile-base.json](./13740-missile-base.json) |
 | Missile Cards | 28157 | [28157-missile-cards.json](./28157-missile-cards.json) |
 | Missile City AeroLeague | 249807 | [249807-missile-city-aeroleague.json](./249807-missile-city-aeroleague.json) |
@@ -14867,6 +14872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mulite Sword Man | 126849 | [126849-mulite-sword-man.json](./126849-mulite-sword-man.json) |
 | Mullet Hell | 233596 | [233596-mullet-hell.json](./233596-mullet-hell.json) |
 | Mullet Madjack: Deluxe Edition | 318218 | [318218-mullet-madjack-deluxe-edition.json](./318218-mullet-madjack-deluxe-edition.json) |
+| Multi Cheetah Speed hero Vs Wild Animals | 95795 | [95795-multi-cheetah-speed-hero-vs-wild-animals.json](./95795-multi-cheetah-speed-hero-vs-wild-animals.json) |
 | Multi Deck Hero | 346617 | [346617-multi-deck-hero.json](./346617-multi-deck-hero.json) |
 | Multi Do Sort | 331368 | [331368-multi-do-sort.json](./331368-multi-do-sort.json) |
 | Multi Floor Garage Driver | 100691 | [100691-multi-floor-garage-driver.json](./100691-multi-floor-garage-driver.json) |
@@ -15670,6 +15676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Beautiful Vacation | 361599 | [361599-my-beautiful-vacation.json](./361599-my-beautiful-vacation.json) |
 | My Bed, Your Grave | 327659 | [327659-my-bed-your-grave.json](./327659-my-bed-your-grave.json) |
 | My Beloved Faction | 176205 | [176205-my-beloved-faction.json](./176205-my-beloved-faction.json) |
+| My Best Friend Anna | 95790 | [95790-my-best-friend-anna.json](./95790-my-best-friend-anna.json) |
 | My Best Friend Kouta | 245887 | [245887-my-best-friend-kouta.json](./245887-my-best-friend-kouta.json) |
 | My Best Friends: Cats & Dogs | 17043 | [17043-my-best-friends-cats-and-dogs.json](./17043-my-best-friends-cats-and-dogs.json) |
 | My Best Friends: St. Andrew Jogakuin Hen | 130629 | [130629-my-best-friends-st-andrew-jogakuin-hen.json](./130629-my-best-friends-st-andrew-jogakuin-hen.json) |
@@ -15685,6 +15692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bloody Weekend | 219637 | [219637-my-bloody-weekend.json](./219637-my-bloody-weekend.json) |
 | My Body Coach | 67354 | [67354-my-body-coach.json](./67354-my-body-coach.json) |
 | My Bones Remastered | 121192 | [121192-my-bones-remastered.json](./121192-my-bones-remastered.json) |
+| My Boris Neighbor | 95809 | [95809-my-boris-neighbor.json](./95809-my-boris-neighbor.json) |
 | My Boss Is Scaring Me | 341346 | [341346-my-boss-is-scaring-me.json](./341346-my-boss-is-scaring-me.json) |
 | My boss is weird | 164219 | [164219-my-boss-is-weird.json](./164219-my-boss-is-weird.json) |
 | My Bowling 3D | 89041 | [89041-my-bowling-3d.json](./89041-my-bowling-3d.json) |
@@ -16379,6 +16387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pets | 84716 | [84716-my-pets.json](./84716-my-pets.json) |
 | My Pets: Maze | 195183 | [195183-my-pets-maze.json](./195183-my-pets-maze.json) |
 | My Pirate Husbandos | 320766 | [320766-my-pirate-husbandos.json](./320766-my-pirate-husbandos.json) |
+| My Pizza Shop - Pizza Maker Game | 95904 | [95904-my-pizza-shop-pizza-maker-game.json](./95904-my-pizza-shop-pizza-maker-game.json) |
 | My Pizza Story | 248101 | [248101-my-pizza-story.json](./248101-my-pizza-story.json) |
 | My Place | 178379 | [178379-my-place.json](./178379-my-place.json) |
 | My Place Diary | 405652 | [405652-my-place-diary.json](./405652-my-place-diary.json) |
@@ -16395,6 +16404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pretend Fairytale Land - Kids Royal Family Game | 97219 | [97219-my-pretend-fairytale-land-kids-royal-family-game.json](./97219-my-pretend-fairytale-land-kids-royal-family-game.json) |
 | My Pretend Family | 299223 | [299223-my-pretend-family.json](./299223-my-pretend-family.json) |
 | My Pretend Halloween Town | 299222 | [299222-my-pretend-halloween-town.json](./299222-my-pretend-halloween-town.json) |
+| My Pretend Mall | 95802 | [95802-my-pretend-mall.json](./95802-my-pretend-mall.json) |
 | My Pretend New York City - Big Apple Friends | 102667 | [102667-my-pretend-new-york-city-big-apple-friends.json](./102667-my-pretend-new-york-city-big-apple-friends.json) |
 | My Pretend Summer Waterpark | 299213 | [299213-my-pretend-summer-waterpark.json](./299213-my-pretend-summer-waterpark.json) |
 | My Princess Girlfriend | 228416 | [228416-my-princess-girlfriend.json](./228416-my-princess-girlfriend.json) |
