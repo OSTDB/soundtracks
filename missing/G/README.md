@@ -1368,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangster Life: Criminal Untold , Cars, Theft, Police | 241889 | [241889-gangster-life-criminal-untold-cars-theft-police.json](./241889-gangster-life-criminal-untold-cars-theft-police.json) |
 | Gangster Simulator | 150576 | [150576-gangster-simulator.json](./150576-gangster-simulator.json) |
 | Gangster Town | 45650 | [45650-gangster-town.json](./45650-gangster-town.json) |
+| Gangster Vegas: City Crime | 68456 | [68456-gangster-vegas-city-crime.json](./68456-gangster-vegas-city-crime.json) |
 | Gangster War | 149195 | [149195-gangster-war.json](./149195-gangster-war.json) |
 | Gangsters | 69233 | [69233-gangsters.json](./69233-gangsters.json) |
 | Gangsters 1920 | 125078 | [125078-gangsters-1920.json](./125078-gangsters-1920.json) |
@@ -4915,6 +4916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goin' Down with the Captain | 57578 | [57578-goin-down-with-the-captain.json](./57578-goin-down-with-the-captain.json) |
 | Goin' Downtown | 70580 | [70580-goin-downtown.json](./70580-goin-downtown.json) |
 | Goindol | 64461 | [64461-goindol.json](./64461-goindol.json) |
+| Going Astray | 68494 | [68494-going-astray.json](./68494-going-astray.json) |
 | Going Balls | 378161 | [378161-going-balls.json](./378161-going-balls.json) |
 | Going Dark | 179518 | [179518-going-dark.json](./179518-going-dark.json) |
 | Going Dark | 338262 | [338262-going-dark.json](./338262-going-dark.json) |
@@ -5362,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gondola's Adventure | 141707 | [141707-gondolas-adventure.json](./141707-gondolas-adventure.json) |
 | Gondomania | 40066 | [40066-gondomania.json](./40066-gondomania.json) |
 | Gone | 199927 | [199927-gone.json](./199927-gone.json) |
+| Gone Astray | 68496 | [68496-gone-astray.json](./68496-gone-astray.json) |
 | Gone Camping! | 286223 | [286223-gone-camping.json](./286223-gone-camping.json) |
 | Gone Digging | 388416 | [388416-gone-digging.json](./388416-gone-digging.json) |
 | Gone Exploring | 412409 | [412409-gone-exploring.json](./412409-gone-exploring.json) |
