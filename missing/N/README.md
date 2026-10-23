@@ -2648,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Star Soccer 4 | 7679 | [7679-new-star-soccer-4.json](./7679-new-star-soccer-4.json) |
 | New Star Soccer G-Story | 108163 | [108163-new-star-soccer-g-story.json](./108163-new-star-soccer-g-story.json) |
 | New Star Soccer Manager | 109583 | [109583-new-star-soccer-manager.json](./109583-new-star-soccer-manager.json) |
+| New Star Tennis | 77108 | [77108-new-star-tennis.json](./77108-new-star-tennis.json) |
 | New Stars | 393822 | [393822-new-stars.json](./393822-new-stars.json) |
 | New Story of Seasons | 117535 | [117535-new-story-of-seasons.json](./117535-new-story-of-seasons.json) |
 | New Supaplex | 94895 | [94895-new-supaplex.json](./94895-new-supaplex.json) |
@@ -2824,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newton's Promise | 388246 | [388246-newtons-promise.json](./388246-newtons-promise.json) |
 | Newtonian Horror | 184486 | [184486-newtonian-horror.json](./184486-newtonian-horror.json) |
 | Newtonian Inversion | 145260 | [145260-newtonian-inversion.json](./145260-newtonian-inversion.json) |
+| Newtonica2 | 77116 | [77116-newtonica2.json](./77116-newtonica2.json) |
 | Newtraction | 194374 | [194374-newtraction.json](./194374-newtraction.json) |
 | NewU Fitness First Personal Trainer | 67689 | [67689-newu-fitness-first-personal-trainer.json](./67689-newu-fitness-first-personal-trainer.json) |
 | Nex Machina | 26202 | [26202-nex-machina.json](./26202-nex-machina.json) |
