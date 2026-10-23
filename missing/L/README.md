@@ -1253,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LastStanding | 413750 | [413750-laststanding.json](./413750-laststanding.json) |
 | Lasy Podpoduszańskie | 146655 | [146655-lasy-podpoduszanskie.json](./146655-lasy-podpoduszanskie.json) |
 | Latale | 94907 | [94907-latale.json](./94907-latale.json) |
+| LaTale W | 83366 | [83366-latale-w.json](./83366-latale-w.json) |
 | Lataman | 188495 | [188495-lataman.json](./188495-lataman.json) |
 | Latangerine Last Journey | 116277 | [116277-latangerine-last-journey.json](./116277-latangerine-last-journey.json) |
 | Latarnik | 352360 | [352360-latarnik.json](./352360-latarnik.json) |
