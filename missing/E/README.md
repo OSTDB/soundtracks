@@ -2355,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Fire Helicopter Simulator 3D | 108451 | [108451-emergency-fire-helicopter-simulator-3d.json](./108451-emergency-fire-helicopter-simulator-3d.json) |
 | Emergency Fire Response | 22633 | [22633-emergency-fire-response.json](./22633-emergency-fire-response.json) |
 | Emergency HD | 254388 | [254388-emergency-hd.json](./254388-emergency-hd.json) |
+| Emergency HQ | 97760 | [97760-emergency-hq.json](./97760-emergency-hq.json) |
 | Emergency in Space | 310744 | [310744-emergency-in-space.json](./310744-emergency-in-space.json) |
 | Emergency Lüdenscheid | 346128 | [346128-emergency-ludenscheid.json](./346128-emergency-ludenscheid.json) |
 | Emergency Monster Team | 172441 | [172441-emergency-monster-team.json](./172441-emergency-monster-team.json) |
@@ -5375,6 +5376,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverWing | 56924 | [56924-everwing.json](./56924-everwing.json) |
 | EverWorld | 163774 | [163774-everworld.json](./163774-everworld.json) |
 | Every 5x5 Nonogram | 346905 | [346905-every-5x5-nonogram.json](./346905-every-5x5-nonogram.json) |
+| Every Child Can Succeed 1 | 97750 | [97750-every-child-can-succeed-1.json](./97750-every-child-can-succeed-1.json) |
+| Every Child Can Succeed 2 | 97751 | [97751-every-child-can-succeed-2.json](./97751-every-child-can-succeed-2.json) |
+| Every Child Can Succeed 3 | 97752 | [97752-every-child-can-succeed-3.json](./97752-every-child-can-succeed-3.json) |
+| Every Child Can Succeed 4 | 97753 | [97753-every-child-can-succeed-4.json](./97753-every-child-can-succeed-4.json) |
+| Every Child Can Succeed 5 | 97754 | [97754-every-child-can-succeed-5.json](./97754-every-child-can-succeed-5.json) |
+| Every Child Can Succeed 6 | 97755 | [97755-every-child-can-succeed-6.json](./97755-every-child-can-succeed-6.json) |
+| Every Child Can Succeed 7 | 97756 | [97756-every-child-can-succeed-7.json](./97756-every-child-can-succeed-7.json) |
 | Every Child of Hameln | 413056 | [413056-every-child-of-hameln.json](./413056-every-child-of-hameln.json) |
 | Every Day Is Halloween | 280759 | [280759-every-day-is-halloween.json](./280759-every-day-is-halloween.json) |
 | Every day is more incredible than the previous | 169257 | [169257-every-day-is-more-incredible-than-the-previous.json](./169257-every-day-is-more-incredible-than-the-previous.json) |
