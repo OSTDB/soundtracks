@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora's Box | 252016 | [252016-pandoras-box.json](./252016-pandoras-box.json) |
 | Pandora's Box | 330803 | [330803-pandoras-box.json](./330803-pandoras-box.json) |
 | Pandora's Box | 76200 | [76200-pandoras-box.json](./76200-pandoras-box.json) |
+| Pandora's Box | 79080 | [79080-pandoras-box.json](./79080-pandoras-box.json) |
 | Pandora's Box 2 | 330804 | [330804-pandoras-box-2.json](./330804-pandoras-box-2.json) |
 | Pandora's Doom: Apocalypse Hotline | 333602 | [333602-pandoras-doom-apocalypse-hotline.json](./333602-pandoras-doom-apocalypse-hotline.json) |
 | Pandora's Sack | 406685 | [406685-pandoras-sack.json](./406685-pandoras-sack.json) |
@@ -4507,6 +4508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phone Story | 62455 | [62455-phone-story.json](./62455-phone-story.json) |
 | Phonequest | 134694 | [134694-phonequest.json](./134694-phonequest.json) |
 | Phonetic | 193647 | [193647-phonetic.json](./193647-phonetic.json) |
+| Phonics de Minitsuku | 79088 | [79088-phonics-de-minitsuku.json](./79088-phonics-de-minitsuku.json) |
 | Phonics Fun with Biff, Chip & Kipper Vol. 1 | 61657 | [61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json](./61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json) |
 | Phonics-Diagraphsgame | 96535 | [96535-phonics-diagraphsgame.json](./96535-phonics-diagraphsgame.json) |
 | Phonics-Letter Sound flashcards | 102646 | [102646-phonics-letter-sound-flashcards.json](./102646-phonics-letter-sound-flashcards.json) |
@@ -4835,6 +4837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross DS | 10617 | [10617-picross-ds.json](./10617-picross-ds.json) |
 | Picross e2 | 65211 | [65211-picross-e2.json](./65211-picross-e2.json) |
 | Picross e3 | 62913 | [62913-picross-e3.json](./62913-picross-e3.json) |
+| Picross e5 | 79114 | [79114-picross-e5.json](./79114-picross-e5.json) |
 | Picross e6 | 47666 | [47666-picross-e6.json](./47666-picross-e6.json) |
 | Picross e7 | 80731 | [80731-picross-e7.json](./80731-picross-e7.json) |
 | Picross e8 | 79798 | [79798-picross-e8.json](./79798-picross-e8.json) |
@@ -10607,6 +10610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Drill Massacre | 320349 | [320349-power-drill-massacre.json](./320349-power-drill-massacre.json) |
 | Power Drive | 12720 | [12720-power-drive.json](./12720-power-drive.json) |
 | Power Drive 2000 | 60239 | [60239-power-drive-2000.json](./60239-power-drive-2000.json) |
+| Power Drive Rally | 79089 | [79089-power-drive-rally.json](./79089-power-drive-rally.json) |
 | Power Driver | 226178 | [226178-power-driver.json](./226178-power-driver.json) |
 | Power Drome | 5985 | [5985-power-drome.json](./5985-power-drome.json) |
 | Power Eleven | 42043 | [42043-power-eleven.json](./42043-power-eleven.json) |
@@ -11961,6 +11965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Pinball: Timeshock! | 12905 | [12905-pro-pinball-timeshock.json](./12905-pro-pinball-timeshock.json) |
 | Pro Pool | 49952 | [49952-pro-pool.json](./49952-pro-pool.json) |
 | Pro Power Boat | 279693 | [279693-pro-power-boat.json](./279693-pro-power-boat.json) |
+| Pro Powerboat Simulator | 79097 | [79097-pro-powerboat-simulator.json](./79097-pro-powerboat-simulator.json) |
 | Pro Quarterback | 45778 | [45778-pro-quarterback.json](./45778-pro-quarterback.json) |
 | Pro Racer | 172529 | [172529-pro-racer.json](./172529-pro-racer.json) |
 | Pro Rally | 92812 | [92812-pro-rally.json](./92812-pro-rally.json) |
@@ -12169,6 +12174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profitania | 85755 | [85755-profitania.json](./85755-profitania.json) |
 | Profiteer | 311858 | [311858-profiteer.json](./311858-profiteer.json) |
 | PROFITS 2167: Planetary Resource Optimization & Freight Infrastructure Technician Simulator | 397201 | [397201-profits-2167-planetary-resource-optimization-and-freight-infrastructure-technician-simulator.json](./397201-profits-2167-planetary-resource-optimization-and-freight-infrastructure-technician-simulator.json) |
+| ProFlight | 79060 | [79060-proflight.json](./79060-proflight.json) |
 | Profound | 277594 | [277594-profound.json](./277594-profound.json) |
 | Profound Red | 198100 | [198100-profound-red.json](./198100-profound-red.json) |
 | Profundum | 112769 | [112769-profundum.json](./112769-profundum.json) |
