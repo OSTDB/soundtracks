@@ -1384,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gao Gao! 1st: Radical Sequence | 230229 | [230229-gao-gao-1st-radical-sequence.json](./230229-gao-gao-1st-radical-sequence.json) |
 | Gaop | 233657 | [233657-gaop.json](./233657-gaop.json) |
 | Gap Year | 380825 | [380825-gap-year.json](./380825-gap-year.json) |
+| Gaping Little Red Riding Hood's Lewd Walking Around | 82600 | [82600-gaping-little-red-riding-hoods-lewd-walking-around.json](./82600-gaping-little-red-riding-hoods-lewd-walking-around.json) |
 | Gaplus Phalanx | 243830 | [243830-gaplus-phalanx.json](./243830-gaplus-phalanx.json) |
 | GapMan | 267223 | [267223-gapman.json](./267223-gapman.json) |
 | Gapper | 57674 | [57674-gapper.json](./57674-gapper.json) |
@@ -2050,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gelli Fields | 292394 | [292394-gelli-fields.json](./292394-gelli-fields.json) |
 | Gelluloid Domination | 330758 | [330758-gelluloid-domination.json](./330758-gelluloid-domination.json) |
 | Gelluloid Domination: SpaceLab Simulator | 265437 | [265437-gelluloid-domination-spacelab-simulator.json](./265437-gelluloid-domination-spacelab-simulator.json) |
+| Gelly Break | 82592 | [82592-gelly-break.json](./82592-gelly-break.json) |
 | Gelly Break Deluxe | 164317 | [164317-gelly-break-deluxe.json](./164317-gelly-break-deluxe.json) |
 | Gelocity 1 vs 1 | 416791 | [416791-gelocity-1-vs-1.json](./416791-gelocity-1-vs-1.json) |
 | Gelocity Time Trial | 416792 | [416792-gelocity-time-trial.json](./416792-gelocity-time-trial.json) |
