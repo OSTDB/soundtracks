@@ -2226,6 +2226,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Adventure | 341831 | [341831-action-adventure.json](./341831-action-adventure.json) |
 | Action Adventure Bundle | 125128 | [125128-action-adventure-bundle.json](./125128-action-adventure-bundle.json) |
 | Action Alien : Prelude | 81907 | [81907-action-alien-prelude.json](./81907-action-alien-prelude.json) |
+| Action Arcade Wrestling | 62516 | [62516-action-arcade-wrestling.json](./62516-action-arcade-wrestling.json) |
+| Action Arcade Wrestling 2 | 62515 | [62515-action-arcade-wrestling-2.json](./62515-action-arcade-wrestling-2.json) |
 | Action Ball | 71933 | [71933-action-ball.json](./71933-action-ball.json) |
 | Action Ball Deluxe | 177040 | [177040-action-ball-deluxe.json](./177040-action-ball-deluxe.json) |
 | Action Bass | 43937 | [43937-action-bass.json](./43937-action-bass.json) |
@@ -2243,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Draw Jumper | 339861 | [339861-action-draw-jumper.json](./339861-action-draw-jumper.json) |
 | Action Entities | 343608 | [343608-action-entities.json](./343608-action-entities.json) |
 | Action Fighter | 11885 | [11885-action-fighter.json](./11885-action-fighter.json) |
+| Action Fist | 62541 | [62541-action-fist.json](./62541-action-fist.json) |
 | Action Force II: International Heroes | 73255 | [73255-action-force-ii-international-heroes.json](./73255-action-force-ii-international-heroes.json) |
 | Action Force: International Heroes | 59503 | [59503-action-force-international-heroes.json](./59503-action-force-international-heroes.json) |
 | Action Fubuki | 288744 | [288744-action-fubuki.json](./288744-action-fubuki.json) |
@@ -2888,7 +2891,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -12623,6 +12625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroGenesis: Boss Rush | 121041 | [121041-astrogenesis-boss-rush.json](./121041-astrogenesis-boss-rush.json) |
 | Astrogeo | 393544 | [393544-astrogeo.json](./393544-astrogeo.json) |
 | Astrogon | 139920 | [139920-astrogon.json](./139920-astrogon.json) |
+| AstroHawk | 62503 | [62503-astrohawk.json](./62503-astrohawk.json) |
 | Astrohazard Solutions Ltd. | 75772 | [75772-astrohazard-solutions-ltd.json](./75772-astrohazard-solutions-ltd.json) |
 | Astroidle | 336115 | [336115-astroidle.json](./336115-astroidle.json) |
 | Astrojunk | 415320 | [415320-astrojunk.json](./415320-astrojunk.json) |
@@ -13399,6 +13402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Thunder Ridge Riders | 49369 | [49369-atv-thunder-ridge-riders.json](./49369-atv-thunder-ridge-riders.json) |
 | ATV Track | 250499 | [250499-atv-track.json](./250499-atv-track.json) |
 | ATV: Thunder Ridge Riders / Monster Trucks Mayhem | 93415 | [93415-atv-thunder-ridge-riders-monster-trucks-mayhem.json](./93415-atv-thunder-ridge-riders-monster-trucks-mayhem.json) |
+| AtWar | 62520 | [62520-atwar.json](./62520-atwar.json) |
 | ATYI | 335512 | [335512-atyi.json](./335512-atyi.json) |
 | Atypian | 369046 | [369046-atypian.json](./369046-atypian.json) |
 | Au | 360915 | [360915-au.json](./360915-au.json) |
