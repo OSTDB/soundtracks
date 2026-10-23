@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld Unfinished Business 4: Taking Care of Business | 252294 | [252294-underworld-unfinished-business-4-taking-care-of-business.json](./252294-underworld-unfinished-business-4-taking-care-of-business.json) |
 | Underworld: Allied Expedition | 358515 | [358515-underworld-allied-expedition.json](./358515-underworld-allied-expedition.json) |
 | Underworld: Bloodline | 205988 | [205988-underworld-bloodline.json](./205988-underworld-bloodline.json) |
+| Underworlds | 67816 | [67816-underworlds.json](./67816-underworlds.json) |
 | Underwurlde | 14588 | [14588-underwurlde.json](./14588-underwurlde.json) |
 | Underzone | 132460 | [132460-underzone.json](./132460-underzone.json) |
 | Undesirable Elements | 272129 | [272129-undesirable-elements.json](./272129-undesirable-elements.json) |
