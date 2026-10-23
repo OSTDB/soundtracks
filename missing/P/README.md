@@ -9568,6 +9568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polter Guest | 148313 | [148313-polter-guest.json](./148313-polter-guest.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
 | PolterDates | 411511 | [411511-polterdates.json](./411511-polterdates.json) |
+| Poltergeist | 44346 | [44346-poltergeist.json](./44346-poltergeist.json) |
 | Poltergeist Crusader | 146750 | [146750-poltergeist-crusader.json](./146750-poltergeist-crusader.json) |
 | Poltergeist Prodigy | 332203 | [332203-poltergeist-prodigy.json](./332203-poltergeist-prodigy.json) |
 | Poltergeist Watcher | 298661 | [298661-poltergeist-watcher.json](./298661-poltergeist-watcher.json) |
@@ -10113,6 +10114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopCap Bundle | 82436 | [82436-popcap-bundle.json](./82436-popcap-bundle.json) |
 | PopCap Hits! Vol 2 | 80781 | [80781-popcap-hits-vol-2.json](./80781-popcap-hits-vol-2.json) |
 | Popcorn | 357459 | [357459-popcorn.json](./357459-popcorn.json) |
+| Popcorn | 44345 | [44345-popcorn.json](./44345-popcorn.json) |
 | Popcorn Dragon | 65600 | [65600-popcorn-dragon.json](./65600-popcorn-dragon.json) |
 | Popcorn Fever | 308348 | [308348-popcorn-fever.json](./308348-popcorn-fever.json) |
 | Popcorn Popstars | 359519 | [359519-popcorn-popstars.json](./359519-popcorn-popstars.json) |
@@ -12746,6 +12748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Nasu | 270954 | [270954-project-nasu.json](./270954-project-nasu.json) |
 | Project Nautilus | 199399 | [199399-project-nautilus.json](./199399-project-nautilus.json) |
 | Project Nebula | 282074 | [282074-project-nebula.json](./282074-project-nebula.json) |
+| Project Nebula | 44344 | [44344-project-nebula.json](./44344-project-nebula.json) |
 | Project Neon | 330134 | [330134-project-neon.json](./330134-project-neon.json) |
 | Project Neos | 406177 | [406177-project-neos.json](./406177-project-neos.json) |
 | Project Neptune | 55097 | [55097-project-neptune.json](./55097-project-neptune.json) |
