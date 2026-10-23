@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Force | 45651 | [45651-galaxy-force.json](./45651-galaxy-force.json) |
 | Galaxy Force II | 6799 | [6799-galaxy-force-ii.json](./6799-galaxy-force-ii.json) |
 | Galaxy Fräulein Yuna 2: Eien no Princess | 64689 | [64689-galaxy-fraulein-yuna-2-eien-no-princess.json](./64689-galaxy-fraulein-yuna-2-eien-no-princess.json) |
+| Galaxy Fräulein Yuna 3: Lightning Angel | 64144 | [64144-galaxy-fraulein-yuna-3-lightning-angel.json](./64144-galaxy-fraulein-yuna-3-lightning-angel.json) |
 | Galaxy Fräulein Yuna FX: Kanashimi no Siren | 281927 | [281927-galaxy-fraulein-yuna-fx-kanashimi-no-siren.json](./281927-galaxy-fraulein-yuna-fx-kanashimi-no-siren.json) |
 | Galaxy Fräulein Yuna Remix | 216420 | [216420-galaxy-fraulein-yuna-remix.json](./216420-galaxy-fraulein-yuna-remix.json) |
 | Galaxy Fräulein Yuna: Final Edition | 280845 | [280845-galaxy-fraulein-yuna-final-edition.json](./280845-galaxy-fraulein-yuna-final-edition.json) |
@@ -3789,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Empire | 19180 | [19180-glass-empire.json](./19180-glass-empire.json) |
 | Glass Fort: Smash It | 88313 | [88313-glass-fort-smash-it.json](./88313-glass-fort-smash-it.json) |
 | Glass Heart | 234199 | [234199-glass-heart.json](./234199-glass-heart.json) |
+| Glass Heart Princess | 64163 | [64163-glass-heart-princess.json](./64163-glass-heart-princess.json) |
 | Glass Heart: Retold | 323237 | [323237-glass-heart-retold.json](./323237-glass-heart-retold.json) |
 | Glass Hearts | 221191 | [221191-glass-hearts.json](./221191-glass-hearts.json) |
 | Glass Hime | 414106 | [414106-glass-hime.json](./414106-glass-hime.json) |
@@ -6725,6 +6727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Golf | 180459 | [180459-gravity-golf.json](./180459-gravity-golf.json) |
 | Gravity Golfing | 255054 | [255054-gravity-golfing.json](./255054-gravity-golfing.json) |
 | Gravity Guy | 361723 | [361723-gravity-guy.json](./361723-gravity-guy.json) |
+| Gravity Guy 2 | 64142 | [64142-gravity-guy-2.json](./64142-gravity-guy-2.json) |
 | Gravity Hook | 182716 | [182716-gravity-hook.json](./182716-gravity-hook.json) |
 | Gravity Hook HD | 76177 | [76177-gravity-hook-hd.json](./76177-gravity-hook-hd.json) |
 | Gravity Hop: Space Adventure | 111392 | [111392-gravity-hop-space-adventure.json](./111392-gravity-hop-space-adventure.json) |
@@ -6840,6 +6843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Artists Steal | 118751 | [118751-great-artists-steal.json](./118751-great-artists-steal.json) |
 | Great Basketball | 46672 | [46672-great-basketball.json](./46672-great-basketball.json) |
 | Great Battle Full Blast | 65516 | [65516-great-battle-full-blast.json](./65516-great-battle-full-blast.json) |
+| Great Battle!! Tezuka All Stars | 64266 | [64266-great-battle-tezuka-all-stars.json](./64266-great-battle-tezuka-all-stars.json) |
 | Great Battles Collector's Edition | 51830 | [51830-great-battles-collectors-edition.json](./51830-great-battles-collectors-edition.json) |
 | Great Battles of Carolus XII | 147067 | [147067-great-battles-of-carolus-xii.json](./147067-great-battles-of-carolus-xii.json) |
 | Great Battles of the American Civil War | 125773 | [125773-great-battles-of-the-american-civil-war.json](./125773-great-battles-of-the-american-civil-war.json) |
