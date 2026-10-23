@@ -1698,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jimmy Connors' Tennis | 153759 | [153759-jimmy-connors-tennis.json](./153759-jimmy-connors-tennis.json) |
 | Jimmy Houston's Bass Tournament U.S.A. | 42509 | [42509-jimmy-houstons-bass-tournament-u-s-a.json](./42509-jimmy-houstons-bass-tournament-u-s-a.json) |
 | Jimmy Houston's Bass Tournament U.S.A. 97 | 209993 | [209993-jimmy-houstons-bass-tournament-u-s-a-97.json](./209993-jimmy-houstons-bass-tournament-u-s-a-97.json) |
+| Jimmy Johnson's VR Football '98 | 45076 | [45076-jimmy-johnsons-vr-football-98.json](./45076-jimmy-johnsons-vr-football-98.json) |
 | Jimmy Jumps | 390649 | [390649-jimmy-jumps.json](./390649-jimmy-jumps.json) |
 | Jimmy Kamikaze | 108436 | [108436-jimmy-kamikaze.json](./108436-jimmy-kamikaze.json) |
 | Jimmy Neutron: Boy Genius | 2966 | [2966-jimmy-neutron-boy-genius.json](./2966-jimmy-neutron-boy-genius.json) |
