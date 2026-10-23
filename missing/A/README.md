@@ -1250,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.I. Invasion: Road of Rodan | 164435 | [164435-a-i-invasion-road-of-rodan.json](./164435-a-i-invasion-road-of-rodan.json) |
 | A.I. Puzzler | 206100 | [206100-a-i-puzzler.json](./206100-a-i-puzzler.json) |
 | A.I. Space Corps | 34206 | [34206-a-i-space-corps.json](./34206-a-i-space-corps.json) |
+| A.I. Wars: The Insect Mind | 69707 | [69707-a-i-wars-the-insect-mind.json](./69707-a-i-wars-the-insect-mind.json) |
 | A.I.D.: Artificial Intelligence Defence | 195910 | [195910-a-i-d-artificial-intelligence-defence.json](./195910-a-i-d-artificial-intelligence-defence.json) |
 | A.I.Liens | 270859 | [270859-a-i-liens.json](./270859-a-i-liens.json) |
 | A.I.M. Racing | 9955 | [9955-a-i-m-racing.json](./9955-a-i-m-racing.json) |
@@ -7432,6 +7433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angela's Valentine | 350589 | [350589-angelas-valentine.json](./350589-angelas-valentine.json) |
 | Angelblood | 294555 | [294555-angelblood.json](./294555-angelblood.json) |
 | Angeldust | 32892 | [32892-angeldust.json](./32892-angeldust.json) |
+| Angelfish | 69713 | [69713-angelfish.json](./69713-angelfish.json) |
 | AngelGaze | 311184 | [311184-angelgaze.json](./311184-angelgaze.json) |
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
 | Angelic Agency: Soul Salvation Unit | 334862 | [334862-angelic-agency-soul-salvation-unit.json](./334862-angelic-agency-soul-salvation-unit.json) |
@@ -11491,6 +11493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arx: End of Sun | 386114 | [386114-arx-end-of-sun.json](./386114-arx-end-of-sun.json) |
 | Arxon | 93062 | [93062-arxon.json](./93062-arxon.json) |
 | Ary and the Secret of Seasons | 54645 | [54645-ary-and-the-secret-of-seasons.json](./54645-ary-and-the-secret-of-seasons.json) |
+| Arya Vaiv | 69710 | [69710-arya-vaiv.json](./69710-arya-vaiv.json) |
 | ARZombi | 103569 | [103569-arzombi.json](./103569-arzombi.json) |
 | As A Vampire | 382553 | [382553-as-a-vampire.json](./382553-as-a-vampire.json) |
 | As Above AtumRa So Below | 235772 | [235772-as-above-atumra-so-below.json](./235772-as-above-atumra-so-below.json) |
