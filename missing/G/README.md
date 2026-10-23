@@ -2497,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geo | 31785 | [31785-geo.json](./31785-geo.json) |
 | Geo Brain Boost! 50 U.S. States Silhouette Quiz | 399640 | [399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json](./399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json) |
 | Geo Challenge | 342252 | [342252-geo-challenge.json](./342252-geo-challenge.json) |
+| Geo Composer | 89788 | [89788-geo-composer.json](./89788-geo-composer.json) |
 | Geo Fighter | 140270 | [140270-geo-fighter.json](./140270-geo-fighter.json) |
 | Geo Gods | 257471 | [257471-geo-gods.json](./257471-geo-gods.json) |
 | Geo IQ World Master | 381915 | [381915-geo-iq-world-master.json](./381915-geo-iq-world-master.json) |
@@ -5069,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Ticket Simulator | 312439 | [312439-golden-ticket-simulator.json](./312439-golden-ticket-simulator.json) |
 | Golden Trails 2 | 88205 | [88205-golden-trails-2.json](./88205-golden-trails-2.json) |
 | Golden Trails 3 | 100016 | [100016-golden-trails-3.json](./100016-golden-trails-3.json) |
+| Golden Trails 3: The Guardian's Creed | 89731 | [89731-golden-trails-3-the-guardians-creed.json](./89731-golden-trails-3-the-guardians-creed.json) |
 | Golden Trails: The New Western Rush | 54056 | [54056-golden-trails-the-new-western-rush.json](./54056-golden-trails-the-new-western-rush.json) |
 | Golden Treasure: The Great Green | 117849 | [117849-golden-treasure-the-great-green.json](./117849-golden-treasure-the-great-green.json) |
 | Golden Underfoot | 189890 | [189890-golden-underfoot.json](./189890-golden-underfoot.json) |
@@ -5099,6 +5101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldilock One: Boss Arena | 138247 | [138247-goldilock-one-boss-arena.json](./138247-goldilock-one-boss-arena.json) |
 | Goldilock One: The Mists of Jakaira | 253940 | [253940-goldilock-one-the-mists-of-jakaira.json](./253940-goldilock-one-the-mists-of-jakaira.json) |
 | Goldio | 316185 | [316185-goldio.json](./316185-goldio.json) |
+| GoldMan HD | 89794 | [89794-goldman-hd.json](./89794-goldman-hd.json) |
 | Goldo: Lost Goblin | 370128 | [370128-goldo-lost-goblin.json](./370128-goldo-lost-goblin.json) |
 | Goldrot | 352250 | [352250-goldrot.json](./352250-goldrot.json) |
 | Goldrush | 314035 | [314035-goldrush.json](./314035-goldrush.json) |
