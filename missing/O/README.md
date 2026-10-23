@@ -3291,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oriental Dreams | 54263 | [54263-oriental-dreams.json](./54263-oriental-dreams.json) |
 | Oriental Empires | 35526 | [35526-oriental-empires.json](./35526-oriental-empires.json) |
 | Oriental Empires: Three Kingdoms | 154558 | [154558-oriental-empires-three-kingdoms.json](./154558-oriental-empires-three-kingdoms.json) |
+| Oriental Games | 74906 | [74906-oriental-games.json](./74906-oriental-games.json) |
 | Oriental Immortal | 236765 | [236765-oriental-immortal.json](./236765-oriental-immortal.json) |
 | Oriental Legend | 39575 | [39575-oriental-legend.json](./39575-oriental-legend.json) |
 | Oriental Legend 2 | 82753 | [82753-oriental-legend-2.json](./82753-oriental-legend-2.json) |
