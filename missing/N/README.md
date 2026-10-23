@@ -1178,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Basketball 10 | 7110 | [7110-ncaa-basketball-10.json](./7110-ncaa-basketball-10.json) |
 | NCAA Championship Basketball | 69580 | [69580-ncaa-championship-basketball.json](./69580-ncaa-championship-basketball.json) |
 | NCAA College Basketball 2K3 | 4038 | [4038-ncaa-college-basketball-2k3.json](./4038-ncaa-college-basketball-2k3.json) |
+| NCAA College Football 2K2 | 46380 | [46380-ncaa-college-football-2k2.json](./46380-ncaa-college-football-2k2.json) |
 | NCAA College Football 2K3 | 4039 | [4039-ncaa-college-football-2k3.json](./4039-ncaa-college-football-2k3.json) |
 | NCAA College Hoops 2K8 | 43552 | [43552-ncaa-college-hoops-2k8.json](./43552-ncaa-college-hoops-2k8.json) |
 | NCAA Final Four 2002 | 68262 | [68262-ncaa-final-four-2002.json](./68262-ncaa-final-four-2002.json) |
@@ -2987,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Football | 64743 | [64743-nfl-football.json](./64743-nfl-football.json) |
 | NFL Football | 78935 | [78935-nfl-football.json](./78935-nfl-football.json) |
 | NFL Football | 78936 | [78936-nfl-football.json](./78936-nfl-football.json) |
+| NFL Football Trivia Challenge | 46414 | [46414-nfl-football-trivia-challenge.json](./46414-nfl-football-trivia-challenge.json) |
 | NFL Football: San Diego Chargers/Los Angeles Raiders | 62687 | [62687-nfl-football-san-diego-chargers-los-angeles-raiders.json](./62687-nfl-football-san-diego-chargers-los-angeles-raiders.json) |
 | NFL GameDay | 20254 | [20254-nfl-gameday.json](./20254-nfl-gameday.json) |
 | NFL GameDay '97 | 20716 | [20716-nfl-gameday-97.json](./20716-nfl-gameday-97.json) |
@@ -3023,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Street 2: Unleashed | 243016 | [243016-nfl-street-2-unleashed.json](./243016-nfl-street-2-unleashed.json) |
 | NFL Street 3 | 8266 | [8266-nfl-street-3.json](./8266-nfl-street-3.json) |
 | NFL Xtreme 2 | 43899 | [43899-nfl-xtreme-2.json](./43899-nfl-xtreme-2.json) |
+| NFL's Greatest: San Francisco vs. Dallas 1978-1993 | 46413 | [46413-nfls-greatest-san-francisco-vs-dallas-1978-1993.json](./46413-nfls-greatest-san-francisco-vs-dallas-1978-1993.json) |
 | NFT Museum | 231446 | [231446-nft-museum.json](./231446-nft-museum.json) |
 | Nghtmn | 28640 | [28640-nghtmn.json](./28640-nghtmn.json) |
 | Ngolf | 283259 | [283259-ngolf.json](./283259-ngolf.json) |
