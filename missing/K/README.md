@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karma: The Dark World - Deluxe Edition | 403590 | [403590-karma-the-dark-world-deluxe-edition.json](./403590-karma-the-dark-world-deluxe-edition.json) |
 | Karma: The Dark World - Limited Edition | 351141 | [351141-karma-the-dark-world-limited-edition.json](./351141-karma-the-dark-world-limited-edition.json) |
 | Karmaflow: The Rock Opera Videogame | 8439 | [8439-karmaflow-the-rock-opera-videogame.json](./8439-karmaflow-the-rock-opera-videogame.json) |
+| KarmaStar | 67811 | [67811-karmastar.json](./67811-karmastar.json) |
 | Karmasutra | 51474 | [51474-karmasutra.json](./51474-karmasutra.json) |
 | Karnage Chronicles | 28272 | [28272-karnage-chronicles.json](./28272-karnage-chronicles.json) |
 | Karnn Age | 67969 | [67969-karnn-age.json](./67969-karnn-age.json) |
@@ -1861,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidz Bop Dance Party! | 208325 | [208325-kidz-bop-dance-party.json](./208325-kidz-bop-dance-party.json) |
 | Kidz Sports Basketball | 4954 | [4954-kidz-sports-basketball.json](./4954-kidz-sports-basketball.json) |
 | Kidz Sports International Football | 4957 | [4957-kidz-sports-international-football.json](./4957-kidz-sports-international-football.json) |
+| Kidz Sports: Baseball | 67838 | [67838-kidz-sports-baseball.json](./67838-kidz-sports-baseball.json) |
 | Kidz Sports: Ice Hockey | 51069 | [51069-kidz-sports-ice-hockey.json](./51069-kidz-sports-ice-hockey.json) |
 | Kiekko.tk | 133753 | [133753-kiekko-tk.json](./133753-kiekko-tk.json) |
 | Kiem Ma 3D | 224032 | [224032-kiem-ma-3d.json](./224032-kiem-ma-3d.json) |
@@ -4566,6 +4568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kritzel Krieg | 414873 | [414873-kritzel-krieg.json](./414873-kritzel-krieg.json) |
 | Krizl | 106297 | [106297-krizl.json](./106297-krizl.json) |
 | Krolewna Sniezka | 318484 | [318484-krolewna-sniezka.json](./318484-krolewna-sniezka.json) |
+| Kroll | 67787 | [67787-kroll.json](./67787-kroll.json) |
 | Kromaia | 8815 | [8815-kromaia.json](./8815-kromaia.json) |
 | Kromaia Ω | 14296 | [14296-kromaia.json](./14296-kromaia.json) |
 | Kromaia: Annvrsary X | 306795 | [306795-kromaia-annvrsary-x.json](./306795-kromaia-annvrsary-x.json) |
