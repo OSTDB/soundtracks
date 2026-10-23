@@ -1621,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Wars | 18946 | [18946-tank-wars.json](./18946-tank-wars.json) |
 | Tank Wars | 352345 | [352345-tank-wars.json](./352345-tank-wars.json) |
 | Tank Wars | 85827 | [85827-tank-wars.json](./85827-tank-wars.json) |
+| Tank Wars: Anniversary Edition | 75588 | [75588-tank-wars-anniversary-edition.json](./75588-tank-wars-anniversary-edition.json) |
 | Tank Warz! | 61609 | [61609-tank-warz.json](./61609-tank-warz.json) |
 | Tank Zero | 372050 | [372050-tank-zero.json](./372050-tank-zero.json) |
 | Tank Zombie Smasher | 156209 | [156209-tank-zombie-smasher.json](./156209-tank-zombie-smasher.json) |
@@ -7684,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fractured Shimmer | 328688 | [328688-the-fractured-shimmer.json](./328688-the-fractured-shimmer.json) |
 | The Fragment | 120369 | [120369-the-fragment.json](./120369-the-fragment.json) |
 | The Frame on the Wall | 171844 | [171844-the-frame-on-the-wall.json](./171844-the-frame-on-the-wall.json) |
+| The Francy Droo & Friends Collection | 75621 | [75621-the-francy-droo-and-friends-collection.json](./75621-the-francy-droo-and-friends-collection.json) |
 | The Frankenstein Wars | 36955 | [36955-the-frankenstein-wars.json](./36955-the-frankenstein-wars.json) |
 | The Freddy Files | 277284 | [277284-the-freddy-files.json](./277284-the-freddy-files.json) |
 | The Free Shepherd | 381202 | [381202-the-free-shepherd.json](./381202-the-free-shepherd.json) |
@@ -11172,6 +11174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of Whiterock Castle | 67229 | [67229-the-mystery-of-whiterock-castle.json](./67229-the-mystery-of-whiterock-castle.json) |
 | The Mystery of William Moore | 208674 | [208674-the-mystery-of-william-moore.json](./208674-the-mystery-of-william-moore.json) |
 | The Mystery of Woolley Mountain | 52011 | [52011-the-mystery-of-woolley-mountain.json](./52011-the-mystery-of-woolley-mountain.json) |
+| The Mystery Room | 75599 | [75599-the-mystery-room.json](./75599-the-mystery-room.json) |
 | The Mystery Team | 42775 | [42775-the-mystery-team.json](./42775-the-mystery-team.json) |
 | The Mystery Workshop | 104457 | [104457-the-mystery-workshop.json](./104457-the-mystery-workshop.json) |
 | The Mystic | 161564 | [161564-the-mystic.json](./161564-the-mystic.json) |
@@ -16366,6 +16369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderhawk | 12913 | [12913-thunderhawk.json](./12913-thunderhawk.json) |
 | Thunderhawk AH-73M | 12929 | [12929-thunderhawk-ah-73m.json](./12929-thunderhawk-ah-73m.json) |
 | Thunderhawk: Danger Close | 387365 | [387365-thunderhawk-danger-close.json](./387365-thunderhawk-danger-close.json) |
+| Thundering Skies | 75600 | [75600-thundering-skies.json](./75600-thundering-skies.json) |
 | Thunderman: Adventures in Another Realm | 357668 | [357668-thunderman-adventures-in-another-realm.json](./357668-thunderman-adventures-in-another-realm.json) |
 | Thunderpeak | 256854 | [256854-thunderpeak.json](./256854-thunderpeak.json) |
 | Thunderscape | 51804 | [51804-thunderscape.json](./51804-thunderscape.json) |
@@ -16511,6 +16515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TickWords | 379702 | [379702-tickwords.json](./379702-tickwords.json) |
 | Ticky's Tower of Time | 328030 | [328030-tickys-tower-of-time.json](./328030-tickys-tower-of-time.json) |
 | Ticky's Wake Up Call | 323600 | [323600-tickys-wake-up-call.json](./323600-tickys-wake-up-call.json) |
+| Tico | 75647 | [75647-tico.json](./75647-tico.json) |
 | TicTacToe 3D | 87605 | [87605-tictactoe-3d.json](./87605-tictactoe-3d.json) |
 | Tictactoe Sets | 365868 | [365868-tictactoe-sets.json](./365868-tictactoe-sets.json) |
 | TicTacToeTwo | 400562 | [400562-tictactoetwo.json](./400562-tictactoetwo.json) |
@@ -22175,6 +22180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Plus Japan: Drive Western Japan Trains! - Rapid Service Edition | 412568 | [412568-train-plus-japan-drive-western-japan-trains-rapid-service-edition.json](./412568-train-plus-japan-drive-western-japan-trains-rapid-service-edition.json) |
 | Train Plus: Kowa Dentetsu Regular Colors Train | 355228 | [355228-train-plus-kowa-dentetsu-regular-colors-train.json](./355228-train-plus-kowa-dentetsu-regular-colors-train.json) |
 | Train Ride Simulator | 149709 | [149709-train-ride-simulator.json](./149709-train-ride-simulator.json) |
+| Train Runner VR | 75632 | [75632-train-runner-vr.json](./75632-train-runner-vr.json) |
 | Train Rush | 220049 | [220049-train-rush.json](./220049-train-rush.json) |
 | Train Sim World | 105877 | [105877-train-sim-world.json](./105877-train-sim-world.json) |
 | Train Sim World 2 | 136868 | [136868-train-sim-world-2.json](./136868-train-sim-world-2.json) |
@@ -24229,6 +24235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tres | 319800 | [319800-tres.json](./319800-tres.json) |
 | Tres Acordes | 230757 | [230757-tres-acordes.json](./230757-tres-acordes.json) |
 | Tres Undos | 208269 | [208269-tres-undos.json](./208269-tres-undos.json) |
+| TrES-2b | 75618 | [75618-tres-2b.json](./75618-tres-2b.json) |
 | Tres-Bashers | 166809 | [166809-tres-bashers.json](./166809-tres-bashers.json) |
 | Tresmir Sight | 298169 | [298169-tresmir-sight.json](./298169-tresmir-sight.json) |
 | Trespass: Episode 1 | 31879 | [31879-trespass-episode-1.json](./31879-trespass-episode-1.json) |
