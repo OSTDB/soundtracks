@@ -1523,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranma 1/2: Battle Renaissance | 44822 | [44822-ranma-1-2-battle-renaissance.json](./44822-ranma-1-2-battle-renaissance.json) |
 | Ranma 1/2: Hard Battle | 44462 | [44462-ranma-1-2-hard-battle.json](./44462-ranma-1-2-hard-battle.json) |
 | Ranma 1/2: Hiryuu Densetsu | 75856 | [75856-ranma-1-2-hiryuu-densetsu.json](./75856-ranma-1-2-hiryuu-densetsu.json) |
+| Ranma 1/2: Kakugeki Mondou!! | 49128 | [49128-ranma-1-2-kakugeki-mondou.json](./49128-ranma-1-2-kakugeki-mondou.json) |
 | Ranma 1/2: Kakuren Bodesu Match | 75852 | [75852-ranma-1-2-kakuren-bodesu-match.json](./75852-ranma-1-2-kakuren-bodesu-match.json) |
 | Ranma 1/2: Ougi Jaanken | 42410 | [42410-ranma-1-2-ougi-jaanken.json](./42410-ranma-1-2-ougi-jaanken.json) |
 | Ranma 1/2: Toraware no Hanayome | 72691 | [72691-ranma-1-2-toraware-no-hanayome.json](./72691-ranma-1-2-toraware-no-hanayome.json) |
@@ -1530,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranma ½: Chougi Ranbu-hen | 42739 | [42739-ranma-1-2-chougi-ranbu-hen.json](./42739-ranma-1-2-chougi-ranbu-hen.json) |
 | Ranma ½: Chounai Gekitou-hen | 75857 | [75857-ranma-1-2-chounai-gekitou-hen.json](./75857-ranma-1-2-chounai-gekitou-hen.json) |
 | Ranma ½: Datou, Ganso Musabetsu Kakutou-ryuu! | 75858 | [75858-ranma-1-2-datou-ganso-musabetsu-kakutou-ryuu.json](./75858-ranma-1-2-datou-ganso-musabetsu-kakutou-ryuu.json) |
+| Ranma ½: Netsuretsu Kakutou-hen | 49129 | [49129-ranma-1-2-netsuretsu-kakutou-hen.json](./49129-ranma-1-2-netsuretsu-kakutou-hen.json) |
 | Ranocta | 292239 | [292239-ranocta.json](./292239-ranocta.json) |
 | Ranphon | 258623 | [258623-ranphon.json](./258623-ranphon.json) |
 | Ransack Raccoon | 165766 | [165766-ransack-raccoon.json](./165766-ransack-raccoon.json) |
