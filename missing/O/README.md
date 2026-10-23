@@ -960,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh, You Touch My Balls | 377910 | [377910-oh-you-touch-my-balls.json](./377910-oh-you-touch-my-balls.json) |
 | Oh! Edo Towns | 65526 | [65526-oh-edo-towns.json](./65526-oh-edo-towns.json) |
 | Oh! Fuse Box | 243528 | [243528-oh-fuse-box.json](./243528-oh-fuse-box.json) |
+| Oh! Jaemi | 59284 | [59284-oh-jaemi.json](./59284-oh-jaemi.json) |
 | Oh! Mochi! | 148815 | [148815-oh-mochi.json](./148815-oh-mochi.json) |
 | OH! My Office | 223992 | [223992-oh-my-office.json](./223992-oh-my-office.json) |
 | Oh! My Sister's Slit Is... | 97839 | [97839-oh-my-sisters-slit-is.json](./97839-oh-my-sisters-slit-is.json) |
@@ -1043,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ojamajo Adventure: Naisho No Mahou | 319698 | [319698-ojamajo-adventure-naisho-no-mahou.json](./319698-ojamajo-adventure-naisho-no-mahou.json) |
 | Ojanko Yakata | 252061 | [252061-ojanko-yakata.json](./252061-ojanko-yakata.json) |
 | Oji-Mama | 285113 | [285113-oji-mama.json](./285113-oji-mama.json) |
+| Oji-san Tomete Iede Gal to no Win Win Sex Life | 59125 | [59125-oji-san-tomete-iede-gal-to-no-win-win-sex-life.json](./59125-oji-san-tomete-iede-gal-to-no-win-win-sex-life.json) |
 | Ojingeo Project | 393658 | [393658-ojingeo-project.json](./393658-ojingeo-project.json) |
 | Ojo Por Ojo | 301893 | [301893-ojo-por-ojo.json](./301893-ojo-por-ojo.json) |
 | Ojou-sama Express | 270746 | [270746-ojou-sama-express.json](./270746-ojou-sama-express.json) |
