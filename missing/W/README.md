@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War7 | 31137 | [31137-war7.json](./31137-war7.json) |
 | Warag | 348741 | [348741-warag.json](./348741-warag.json) |
 | Warage | 155500 | [155500-warage.json](./155500-warage.json) |
+| Warage Card Game | 62501 | [62501-warage-card-game.json](./62501-warage-card-game.json) |
 | Warage: Necromancer Campaign | 155501 | [155501-warage-necromancer-campaign.json](./155501-warage-necromancer-campaign.json) |
 | Waratte Iitomo! Tamorinpic | 37768 | [37768-waratte-iitomo-tamorinpic.json](./37768-waratte-iitomo-tamorinpic.json) |
 | Warau Ars Notoria | 196531 | [196531-warau-ars-notoria.json](./196531-warau-ars-notoria.json) |
@@ -3497,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WhereTaken USA | 246241 | [246241-wheretaken-usa.json](./246241-wheretaken-usa.json) |
 | Wherever You Get Your Podcasts | 397652 | [397652-wherever-you-get-your-podcasts.json](./397652-wherever-you-get-your-podcasts.json) |
 | Wherever You Hike | 307369 | [307369-wherever-you-hike.json](./307369-wherever-you-hike.json) |
+| Which | 63171 | [63171-which.json](./63171-which.json) |
 | Which Came First? | 180663 | [180663-which-came-first.json](./180663-which-came-first.json) |
 | Which Comes First? | 60628 | [60628-which-comes-first.json](./60628-which-comes-first.json) |
 | Which Country Is Larger? | 294819 | [294819-which-country-is-larger.json](./294819-which-country-is-larger.json) |
