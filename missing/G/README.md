@@ -2205,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gendai Daisenryaku 2020: Yureru Sekai Chitsujo! Taikoku no Yabou to Sekai Taisen | 136748 | [136748-gendai-daisenryaku-2020-yureru-sekai-chitsujo-taikoku-no-yabou-to-sekai-taisen.json](./136748-gendai-daisenryaku-2020-yureru-sekai-chitsujo-taikoku-no-yabou-to-sekai-taisen.json) |
 | Gendai Daisenryaku: Isshoku Sokuhatsu Gunji Balance Houkai | 269495 | [269495-gendai-daisenryaku-isshoku-sokuhatsu-gunji-balance-houkai.json](./269495-gendai-daisenryaku-isshoku-sokuhatsu-gunji-balance-houkai.json) |
 | Gendai Daisenryaku: Ultimate War | 231510 | [231510-gendai-daisenryaku-ultimate-war.json](./231510-gendai-daisenryaku-ultimate-war.json) |
+| Gender Bender | 55614 | [55614-gender-bender.json](./55614-gender-bender.json) |
 | Gender Dysphoria | 177502 | [177502-gender-dysphoria.json](./177502-gender-dysphoria.json) |
 | Gender Euphoria VN | 183906 | [183906-gender-euphoria-vn.json](./183906-gender-euphoria-vn.json) |
 | Gender Lab Escape Simulator 2030 | 178469 | [178469-gender-lab-escape-simulator-2030.json](./178469-gender-lab-escape-simulator-2030.json) |
