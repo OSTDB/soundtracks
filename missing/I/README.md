@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Pasta | 252567 | [252567-i-love-pasta.json](./252567-i-love-pasta.json) |
 | I Love Puppies! | 210080 | [210080-i-love-puppies.json](./210080-i-love-puppies.json) |
 | I Love Puppies! | 70274 | [70274-i-love-puppies.json](./70274-i-love-puppies.json) |
+| I Love Softball | 48464 | [48464-i-love-softball.json](./48464-i-love-softball.json) |
 | I Love Spelling! | 339135 | [339135-i-love-spelling.json](./339135-i-love-spelling.json) |
 | I Love Traffic | 230511 | [230511-i-love-traffic.json](./230511-i-love-traffic.json) |
 | I Love You Freddy | 277010 | [277010-i-love-you-freddy.json](./277010-i-love-you-freddy.json) |
@@ -1642,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikenie | 31798 | [31798-ikenie.json](./31798-ikenie.json) |
 | Ikibago | 85185 | [85185-ikibago.json](./85185-ikibago.json) |
 | Ikimono High: The Visual Novel | 180510 | [180510-ikimono-high-the-visual-novel.json](./180510-ikimono-high-the-visual-novel.json) |
+| Ikinari Musician | 48462 | [48462-ikinari-musician.json](./48462-ikinari-musician.json) |
 | Ikisugi!? Before After | 241191 | [241191-ikisugi-before-after.json](./241191-ikisugi-before-after.json) |
 | Ikkaku Senkin | 206542 | [206542-ikkaku-senkin.json](./206542-ikkaku-senkin.json) |
 | Ikkarus and the Prince of Sin | 211804 | [211804-ikkarus-and-the-prince-of-sin.json](./211804-ikkarus-and-the-prince-of-sin.json) |
@@ -2741,6 +2743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indoors: The Alston Manor | 269005 | [269005-indoors-the-alston-manor.json](./269005-indoors-the-alston-manor.json) |
 | Indoors: Trespasser | 418544 | [418544-indoors-trespasser.json](./418544-indoors-trespasser.json) |
 | Indoras: The Whispering Shard | 333134 | [333134-indoras-the-whispering-shard.json](./333134-indoras-the-whispering-shard.json) |
+| Indra no Hikari | 48461 | [48461-indra-no-hikari.json](./48461-indra-no-hikari.json) |
 | Induction | 18194 | [18194-induction.json](./18194-induction.json) |
 | Inductor | 211282 | [211282-inductor.json](./211282-inductor.json) |
 | Indulge | 414312 | [414312-indulge.json](./414312-indulge.json) |
