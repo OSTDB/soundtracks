@@ -202,6 +202,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Team Simulation: Project F | 128359 | [128359-f1-team-simulation-project-f.json](./128359-f1-team-simulation-project-f.json) |
 | F1 Tornado | 300877 | [300877-f1-tornado.json](./300877-f1-tornado.json) |
 | F1 Tornado | 65208 | [65208-f1-tornado.json](./65208-f1-tornado.json) |
+| F1 World Grand Prix 2000 | 45080 | [45080-f1-world-grand-prix-2000.json](./45080-f1-world-grand-prix-2000.json) |
+| F1 World Grand Prix: 1999 Season | 45079 | [45079-f1-world-grand-prix-1999-season.json](./45079-f1-world-grand-prix-1999-season.json) |
 | F1-2004 Racing | 138694 | [138694-f1-2004-racing.json](./138694-f1-2004-racing.json) |
 | F1: World Championship Edition | 12083 | [12083-f1-world-championship-edition.json](./12083-f1-world-championship-edition.json) |
 | F117A Stealth FIghter 2.0 | 59717 | [59717-f117a-stealth-fighter-2-0.json](./59717-f117a-stealth-fighter-2-0.json) |
@@ -4772,6 +4774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pit: Throw Things Into the Fire | 389688 | [389688-fire-pit-throw-things-into-the-fire.json](./389688-fire-pit-throw-things-into-the-fire.json) |
 | Fire Power | 110821 | [110821-fire-power.json](./110821-fire-power.json) |
 | Fire Pro Joshi: All Star Dream Slam | 42614 | [42614-fire-pro-joshi-all-star-dream-slam.json](./42614-fire-pro-joshi-all-star-dream-slam.json) |
+| Fire Pro Wrestling G | 45074 | [45074-fire-pro-wrestling-g.json](./45074-fire-pro-wrestling-g.json) |
 | Fire Pro Wrestling Gaiden | 45534 | [45534-fire-pro-wrestling-gaiden.json](./45534-fire-pro-wrestling-gaiden.json) |
 | Fire Pro Wrestling Returns | 28767 | [28767-fire-pro-wrestling-returns.json](./28767-fire-pro-wrestling-returns.json) |
 | Fire Pro Wrestling S: 6 Men Scramble | 46092 | [46092-fire-pro-wrestling-s-6-men-scramble.json](./46092-fire-pro-wrestling-s-6-men-scramble.json) |
