@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampyr: Talisman of Invocation | 69916 | [69916-vampyr-talisman-of-invocation.json](./69916-vampyr-talisman-of-invocation.json) |
 | Vampyre Cross | 71576 | [71576-vampyre-cross.json](./71576-vampyre-cross.json) |
 | Vampyre Crusade | 317002 | [317002-vampyre-crusade.json](./317002-vampyre-crusade.json) |
+| Vamwolf Cross | 60333 | [60333-vamwolf-cross.json](./60333-vamwolf-cross.json) |
 | Van | 234476 | [234476-van.json](./234476-van.json) |
 | Van Buren | 79217 | [79217-van-buren.json](./79217-van-buren.json) |
 | Van Gogh's Masterpiece Jigsaw Puzzles | 286240 | [286240-van-goghs-masterpiece-jigsaw-puzzles.json](./286240-van-goghs-masterpiece-jigsaw-puzzles.json) |
