@@ -3001,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | endlessCorona | 160241 | [160241-endlesscorona.json](./160241-endlesscorona.json) |
 | EndlessHell | 117046 | [117046-endlesshell.json](./117046-endlesshell.json) |
 | Endlessly | 245312 | [245312-endlessly.json](./245312-endlessly.json) |
+| Endlessness | 81878 | [81878-endlessness.json](./81878-endlessness.json) |
 | EndlessRunner | 269100 | [269100-endlessrunner.json](./269100-endlessrunner.json) |
 | EndlessShinyBlues | 139707 | [139707-endlessshinyblues.json](./139707-endlessshinyblues.json) |
 | Endlight | 157905 | [157905-endlight.json](./157905-endlight.json) |
@@ -3867,6 +3868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Error_Boy.exe | 276255 | [276255-error-boy-exe.json](./276255-error-boy-exe.json) |
 | Error: Ai.lien | 376274 | [376274-error-ai-lien.json](./376274-error-ai-lien.json) |
 | Error: Girlfriend Not Found | 406289 | [406289-error-girlfriend-not-found.json](./406289-error-girlfriend-not-found.json) |
+| Error: Human Not Found | 81851 | [81851-error-human-not-found.json](./81851-error-human-not-found.json) |
 | Error: Slasher Alert | 176251 | [176251-error-slasher-alert.json](./176251-error-slasher-alert.json) |
 | Error143 | 207032 | [207032-error143.json](./207032-error143.json) |
 | Error422 | 280743 | [280743-error422.json](./280743-error422.json) |
