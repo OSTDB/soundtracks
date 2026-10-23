@@ -9831,6 +9831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Craft | 205661 | [205661-pony-craft.json](./205661-pony-craft.json) |
 | Pony Doctor | 101973 | [101973-pony-doctor.json](./101973-pony-doctor.json) |
 | Pony Friends | 47974 | [47974-pony-friends.json](./47974-pony-friends.json) |
+| Pony Friends 2 | 51022 | [51022-pony-friends-2.json](./51022-pony-friends-2.json) |
 | Pony Friends: Mini Breeds Edition | 68937 | [68937-pony-friends-mini-breeds-edition.json](./68937-pony-friends-mini-breeds-edition.json) |
 | Pony Island | 15734 | [15734-pony-island.json](./15734-pony-island.json) |
 | Pony island - cute paradise village | 87078 | [87078-pony-island-cute-paradise-village.json](./87078-pony-island-cute-paradise-village.json) |
@@ -10056,6 +10057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Emojis | 107039 | [107039-popn-emojis.json](./107039-popn-emojis.json) |
 | Pop'n music | 186652 | [186652-popn-music.json](./186652-popn-music.json) |
 | Pop'n Music | 281400 | [281400-popn-music.json](./281400-popn-music.json) |
+| Pop'n Music | 51020 | [51020-popn-music.json](./51020-popn-music.json) |
 | Pop'n Music 2 | 78975 | [78975-popn-music-2.json](./78975-popn-music-2.json) |
 | Pop'n music 3 | 78977 | [78977-popn-music-3.json](./78977-popn-music-3.json) |
 | Pop'n Music 3 Append Disc | 280791 | [280791-popn-music-3-append-disc.json](./280791-popn-music-3-append-disc.json) |
@@ -11579,6 +11581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess in the Mirror | 238902 | [238902-princess-in-the-mirror.json](./238902-princess-in-the-mirror.json) |
 | Princess in the Tower Block | 183284 | [183284-princess-in-the-tower-block.json](./183284-princess-in-the-tower-block.json) |
 | Princess Isabella | 36318 | [36318-princess-isabella.json](./36318-princess-isabella.json) |
+| Princess Isabella: A Witch's Curse | 51002 | [51002-princess-isabella-a-witchs-curse.json](./51002-princess-isabella-a-witchs-curse.json) |
 | Princess Isabella: Return of the Curse | 17220 | [17220-princess-isabella-return-of-the-curse.json](./17220-princess-isabella-return-of-the-curse.json) |
 | Princess Jigsaw Bundle | 319310 | [319310-princess-jigsaw-bundle.json](./319310-princess-jigsaw-bundle.json) |
 | Princess Kaguya | 34914 | [34914-princess-kaguya.json](./34914-princess-kaguya.json) |
