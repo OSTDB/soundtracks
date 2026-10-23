@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nestor the Nesting Bird | 259548 | [259548-nestor-the-nesting-bird.json](./259548-nestor-the-nesting-bird.json) |
 | Net 24h: Vietnamese Internet Cafe Simulator | 391652 | [391652-net-24h-vietnamese-internet-cafe-simulator.json](./391652-net-24h-vietnamese-internet-cafe-simulator.json) |
 | Net Catcher: Netch | 218065 | [218065-net-catcher-netch.json](./218065-net-catcher-netch.json) |
+| Net Cribbage | 94606 | [94606-net-cribbage.json](./94606-net-cribbage.json) |
 | Net de Bomberman | 77673 | [77673-net-de-bomberman.json](./77673-net-de-bomberman.json) |
 | Net de Get: Minigame @100 | 107186 | [107186-net-de-get-minigame-100.json](./107186-net-de-get-minigame-100.json) |
 | Net Defender | 266476 | [266476-net-defender.json](./266476-net-defender.json) |
@@ -2230,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Net Raiders | 327451 | [327451-net-raiders.json](./327451-net-raiders.json) |
 | Net Select: Keiba Victory Furlong | 107586 | [107586-net-select-keiba-victory-furlong.json](./107586-net-select-keiba-victory-furlong.json) |
 | Net Select: Salaryman Kintarou | 107585 | [107585-net-select-salaryman-kintarou.json](./107585-net-select-salaryman-kintarou.json) |
+| Net Spite and Malice | 94527 | [94527-net-spite-and-malice.json](./94527-net-spite-and-malice.json) |
 | Net Versus Shogi | 78078 | [78078-net-versus-shogi.json](./78078-net-versus-shogi.json) |
 | Net Worthless | 410971 | [410971-net-worthless.json](./410971-net-worthless.json) |
 | Net-tac-toe | 276723 | [276723-net-tac-toe.json](./276723-net-tac-toe.json) |
@@ -4907,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocthra | 414091 | [414091-nocthra.json](./414091-nocthra.json) |
 | Noctilucent: Before Dawn | 350394 | [350394-noctilucent-before-dawn.json](./350394-noctilucent-before-dawn.json) |
 | Noctiria | 409759 | [409759-noctiria.json](./409759-noctiria.json) |
+| Noctis | 94528 | [94528-noctis.json](./94528-noctis.json) |
 | Noctropolis | 12327 | [12327-noctropolis.json](./12327-noctropolis.json) |
 | Noctropolis | 243766 | [243766-noctropolis.json](./243766-noctropolis.json) |
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
