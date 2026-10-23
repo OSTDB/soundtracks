@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olaguna Chronicles | 128372 | [128372-olaguna-chronicles.json](./128372-olaguna-chronicles.json) |
 | Olav & the Lute | 131996 | [131996-olav-and-the-lute.json](./131996-olav-and-the-lute.json) |
 | Olber's Paradox | 392816 | [392816-olbers-paradox.json](./392816-olbers-paradox.json) |
+| Old Adventure | 76374 | [76374-old-adventure.json](./76374-old-adventure.json) |
 | Old Car Crusher Crane & Dump Truck Driver | 99721 | [99721-old-car-crusher-crane-and-dump-truck-driver.json](./99721-old-car-crusher-crane-and-dump-truck-driver.json) |
 | Old Coin Pusher Friends | 172958 | [172958-old-coin-pusher-friends.json](./172958-old-coin-pusher-friends.json) |
 | Old Coin Pusher Friends 2 | 249058 | [249058-old-coin-pusher-friends-2.json](./249058-old-coin-pusher-friends-2.json) |
