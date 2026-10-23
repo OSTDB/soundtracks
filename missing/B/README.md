@@ -744,7 +744,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4938,6 +4937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below Zero | 74914 | [74914-below-zero.json](./74914-below-zero.json) |
 | Below Zero: Prologue | 317326 | [317326-below-zero-prologue.json](./317326-below-zero-prologue.json) |
 | Below, Rusted Gods | 304148 | [304148-below-rusted-gods.json](./304148-below-rusted-gods.json) |
+| Belpaese: Homecoming | 68491 | [68491-belpaese-homecoming.json](./68491-belpaese-homecoming.json) |
 | Belt Action Collection | 136308 | [136308-belt-action-collection.json](./136308-belt-action-collection.json) |
 | Belt Colony | 214951 | [214951-belt-colony.json](./214951-belt-colony.json) |
 | Beltlife: Prospector | 391084 | [391084-beltlife-prospector.json](./391084-beltlife-prospector.json) |
@@ -13401,6 +13401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build and Play | 91232 | [91232-build-and-play.json](./91232-build-and-play.json) |
 | Build and Play 3D: Rockets, Helicopters, Submarines and More | 109214 | [109214-build-and-play-3d-rockets-helicopters-submarines-and-more.json](./109214-build-and-play-3d-rockets-helicopters-submarines-and-more.json) |
 | Build and Play: Planes | 108912 | [108912-build-and-play-planes.json](./108912-build-and-play-planes.json) |
+| Build and Shoot | 68438 | [68438-build-and-shoot.json](./68438-build-and-shoot.json) |
 | Build Bridges | 87992 | [87992-build-bridges.json](./87992-build-bridges.json) |
 | Build buildings | 105316 | [105316-build-buildings.json](./105316-build-buildings.json) |
 | Build Cars with Edward and Arthur | 197186 | [197186-build-cars-with-edward-and-arthur.json](./197186-build-cars-with-edward-and-arthur.json) |
@@ -13963,6 +13964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Patrol | 189928 | [189928-burger-patrol.json](./189928-burger-patrol.json) |
 | Burger Please! | 245208 | [245208-burger-please.json](./245208-burger-please.json) |
 | Burger Race | 327840 | [327840-burger-race.json](./327840-burger-race.json) |
+| Burger Restaurant Express | 68477 | [68477-burger-restaurant-express.json](./68477-burger-restaurant-express.json) |
 | Burger Restaurant Simulator | 261339 | [261339-burger-restaurant-simulator.json](./261339-burger-restaurant-simulator.json) |
 | Burger Rush | 71525 | [71525-burger-rush.json](./71525-burger-rush.json) |
 | Burger Shift: Team Rush | 391583 | [391583-burger-shift-team-rush.json](./391583-burger-shift-team-rush.json) |
