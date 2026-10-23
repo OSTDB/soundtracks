@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL Football | 80472 | [80472-madden-nfl-football.json](./80472-madden-nfl-football.json) |
 | Madden NFL Mobile | 39182 | [39182-madden-nfl-mobile.json](./39182-madden-nfl-mobile.json) |
 | Madden Season 2 | 90917 | [90917-madden-season-2.json](./90917-madden-season-2.json) |
+| Maddening Overload | 60326 | [60326-maddening-overload.json](./60326-maddening-overload.json) |
 | Maddmadd | 381607 | [381607-maddmadd.json](./381607-maddmadd.json) |
 | Made For | 343241 | [343241-made-for.json](./343241-made-for.json) |
 | Made in Abyss: Binary Star Falling into Darkness | 146711 | [146711-made-in-abyss-binary-star-falling-into-darkness.json](./146711-made-in-abyss-binary-star-falling-into-darkness.json) |
@@ -2719,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Mirage | 408534 | [408534-marble-mirage.json](./408534-marble-mirage.json) |
 | Marble Mixer for iPad | 96265 | [96265-marble-mixer-for-ipad.json](./96265-marble-mixer-for-ipad.json) |
 | Marble Monster | 253025 | [253025-marble-monster.json](./253025-marble-monster.json) |
+| Marble Monster | 60341 | [60341-marble-monster.json](./60341-marble-monster.json) |
 | Marble Mountain | 19028 | [19028-marble-mountain.json](./19028-marble-mountain.json) |
 | Marble Muse Arcade | 147242 | [147242-marble-muse-arcade.json](./147242-marble-muse-arcade.json) |
 | Marble Odyssey | 113699 | [113699-marble-odyssey.json](./113699-marble-odyssey.json) |
@@ -2778,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | March of the Eagles: French Unit Pack | 119428 | [119428-march-of-the-eagles-french-unit-pack.json](./119428-march-of-the-eagles-french-unit-pack.json) |
 | March of the Living | 18901 | [18901-march-of-the-living.json](./18901-march-of-the-living.json) |
 | March of the Penguins | 20648 | [20648-march-of-the-penguins.json](./20648-march-of-the-penguins.json) |
+| March of War Face Off | 60321 | [60321-march-of-war-face-off.json](./60321-march-of-war-face-off.json) |
 | March of War: StormSiege | 170494 | [170494-march-of-war-stormsiege.json](./170494-march-of-war-stormsiege.json) |
 | March to a Million | 56730 | [56730-march-to-a-million.json](./56730-march-to-a-million.json) |
 | March to the Heart | 349313 | [349313-march-to-the-heart.json](./349313-march-to-the-heart.json) |
@@ -4059,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Detective Archives: Rain Code Plus ^ Danganronpa 1, 2, V3 Bundle | 331534 | [331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json](./331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json) |
 | Master Fighter IV | 48574 | [48574-master-fighter-iv.json](./48574-master-fighter-iv.json) |
 | Master Fighter VI' | 223027 | [223027-master-fighter-vi.json](./223027-master-fighter-vi.json) |
+| Master Games 1 | 60330 | [60330-master-games-1.json](./60330-master-games-1.json) |
 | Master Golf | 247008 | [247008-master-golf.json](./247008-master-golf.json) |
 | Master Head | 138451 | [138451-master-head.json](./138451-master-head.json) |
 | Master Labyrinth | 45915 | [45915-master-labyrinth.json](./45915-master-labyrinth.json) |
@@ -5868,6 +5872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Force | 22433 | [22433-mega-force.json](./22433-mega-force.json) |
 | Mega Force | 6139 | [6139-mega-force.json](./6139-mega-force.json) |
 | Mega Game Room 2 | 209531 | [209531-mega-game-room-2.json](./209531-mega-game-room-2.json) |
+| Mega Games 3 | 60328 | [60328-mega-games-3.json](./60328-mega-games-3.json) |
 | Mega Giga Cookie Destroyer TD | 304856 | [304856-mega-giga-cookie-destroyer-td.json](./304856-mega-giga-cookie-destroyer-td.json) |
 | Mega Hasan | 128343 | [128343-mega-hasan.json](./128343-mega-hasan.json) |
 | Mega Kaiju Boom Ball | 390022 | [390022-mega-kaiju-boom-ball.json](./390022-mega-kaiju-boom-ball.json) |
@@ -13879,6 +13884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mossy Pixels | 270183 | [270183-mossy-pixels.json](./270183-mossy-pixels.json) |
 | Most Authentic Trench Warfare Simulator | 241511 | [241511-most-authentic-trench-warfare-simulator.json](./241511-most-authentic-trench-warfare-simulator.json) |
 | Most Correct Football Simulator | 118338 | [118338-most-correct-football-simulator.json](./118338-most-correct-football-simulator.json) |
+| MOST MLG GAME EVER | 60337 | [60337-most-mlg-game-ever.json](./60337-most-mlg-game-ever.json) |
 | Most Popular Solitaire | 98908 | [98908-most-popular-solitaire.json](./98908-most-popular-solitaire.json) |
 | Most Scuffed Golf | 409632 | [409632-most-scuffed-golf.json](./409632-most-scuffed-golf.json) |
 | Most Wanted | 313777 | [313777-most-wanted.json](./313777-most-wanted.json) |
