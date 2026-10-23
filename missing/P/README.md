@@ -3144,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penalty Kick '91 | 180475 | [180475-penalty-kick-91.json](./180475-penalty-kick-91.json) |
 | Penalty Shoot-Out Soccer: 2010 World Champion | 174233 | [174233-penalty-shoot-out-soccer-2010-world-champion.json](./174233-penalty-shoot-out-soccer-2010-world-champion.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
+| Penalty Soccer | 73663 | [73663-penalty-soccer.json](./73663-penalty-soccer.json) |
 | Penalty Soccer 2012 | 259560 | [259560-penalty-soccer-2012.json](./259560-penalty-soccer-2012.json) |
 | Penance | 135017 | [135017-penance.json](./135017-penance.json) |
 | Penance | 367401 | [367401-penance.json](./367401-penance.json) |
@@ -3885,6 +3886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Beardsley's International Football | 15339 | [15339-peter-beardsleys-international-football.json](./15339-peter-beardsleys-international-football.json) |
 | Peter Flat's Inflatable Adventures | 356997 | [356997-peter-flats-inflatable-adventures.json](./356997-peter-flats-inflatable-adventures.json) |
 | Peter Frankl: Puzzle no Tou | 254499 | [254499-peter-frankl-puzzle-no-tou.json](./254499-peter-frankl-puzzle-no-tou.json) |
+| Peter Gabriel: Eve | 73631 | [73631-peter-gabriel-eve.json](./73631-peter-gabriel-eve.json) |
 | Peter Griffin Bike | 343930 | [343930-peter-griffin-bike.json](./343930-peter-griffin-bike.json) |
 | Peter Jackson's King Kong: The Official Game of the Movie | 248541 | [248541-peter-jacksons-king-kong-the-official-game-of-the-movie.json](./248541-peter-jacksons-king-kong-the-official-game-of-the-movie.json) |
 | Peter Jackson's King Kong: The Official Game of the Movie | 248542 | [248542-peter-jacksons-king-kong-the-official-game-of-the-movie.json](./248542-peter-jacksons-king-kong-the-official-game-of-the-movie.json) |
@@ -4302,6 +4304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharaoh Miracle Legend | 107097 | [107097-pharaoh-miracle-legend.json](./107097-pharaoh-miracle-legend.json) |
 | Pharaoh Rebirth+ | 20102 | [20102-pharaoh-rebirth.json](./20102-pharaoh-rebirth.json) |
 | Pharaoh Revenger | 221898 | [221898-pharaoh-revenger.json](./221898-pharaoh-revenger.json) |
+| Pharaoh's Ascent | 73633 | [73633-pharaohs-ascent.json](./73633-pharaohs-ascent.json) |
 | Pharaoh's Curse | 40659 | [40659-pharaohs-curse.json](./40659-pharaohs-curse.json) |
 | Pharaoh's Purse | 314514 | [314514-pharaohs-purse.json](./314514-pharaohs-purse.json) |
 | Pharaoh's Revenge | 55206 | [55206-pharaohs-revenge.json](./55206-pharaohs-revenge.json) |
@@ -10122,6 +10125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopSlinger Vol. 1 & 2: Loveless Series Bundle | 328492 | [328492-popslinger-vol-1-and-2-loveless-series-bundle.json](./328492-popslinger-vol-1-and-2-loveless-series-bundle.json) |
 | PopSlinger vol. 2: Loveless | 319397 | [319397-popslinger-vol-2-loveless.json](./319397-popslinger-vol-2-loveless.json) |
 | PopStar 3 | 87082 | [87082-popstar-3.json](./87082-popstar-3.json) |
+| Popstar Maker | 73671 | [73671-popstar-maker.json](./73671-popstar-maker.json) |
 | Popstars | 268384 | [268384-popstars.json](./268384-popstars.json) |
 | Popstars | 92843 | [92843-popstars.json](./92843-popstars.json) |
 | Popstars: Deine Chance | 259723 | [259723-popstars-deine-chance.json](./259723-popstars-deine-chance.json) |
@@ -10818,6 +10822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerless | 81928 | [81928-powerless.json](./81928-powerless.json) |
 | Powerline.io | 191257 | [191257-powerline-io.json](./191257-powerline-io.json) |
 | Powerlust | 187787 | [187787-powerlust.json](./187787-powerlust.json) |
+| PowerMonger: World War 1 Edition | 73611 | [73611-powermonger-world-war-1-edition.json](./73611-powermonger-world-war-1-edition.json) |
 | Powernaut 2 | 172451 | [172451-powernaut-2.json](./172451-powernaut-2.json) |
 | Powernaut Decay | 280156 | [280156-powernaut-decay.json](./280156-powernaut-decay.json) |
 | Powerplay | 311141 | [311141-powerplay.json](./311141-powerplay.json) |
@@ -11045,6 +11050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Manager 02/03 | 172369 | [172369-premier-manager-02-03.json](./172369-premier-manager-02-03.json) |
 | Premier Manager 04/05 | 171941 | [171941-premier-manager-04-05.json](./171941-premier-manager-04-05.json) |
 | Premier Manager 08 | 174003 | [174003-premier-manager-08.json](./174003-premier-manager-08.json) |
+| Premier Manager 2 | 73617 | [73617-premier-manager-2.json](./73617-premier-manager-2.json) |
 | Premier Manager 2002-03 | 95428 | [95428-premier-manager-2002-03.json](./95428-premier-manager-2002-03.json) |
 | Premier Manager 2004-2005 | 248630 | [248630-premier-manager-2004-2005.json](./248630-premier-manager-2004-2005.json) |
 | Premier Manager 2004-2005 | 49355 | [49355-premier-manager-2004-2005.json](./49355-premier-manager-2004-2005.json) |
