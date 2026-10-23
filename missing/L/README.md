@@ -1805,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learning Ladder: Years 1 & 2 | 326983 | [326983-learning-ladder-years-1-and-2.json](./326983-learning-ladder-years-1-and-2.json) |
 | Learning Land | 231859 | [231859-learning-land.json](./231859-learning-land.json) |
 | Learning Life: Mysteeri 24/7 | 193434 | [193434-learning-life-mysteeri-24-7.json](./193434-learning-life-mysteeri-24-7.json) |
+| Learning Numbers - Games for Kids 2+ | 90450 | [90450-learning-numbers-games-for-kids-2.json](./90450-learning-numbers-games-for-kids-2.json) |
 | Learning the Ropes | 364673 | [364673-learning-the-ropes.json](./364673-learning-the-ropes.json) |
 | Learning to Spell | 209892 | [209892-learning-to-spell.json](./209892-learning-to-spell.json) |
 | Learning with FuzzyWomp | 72030 | [72030-learning-with-fuzzywomp.json](./72030-learning-with-fuzzywomp.json) |
