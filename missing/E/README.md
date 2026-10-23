@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EGA-Roids | 130850 | [130850-ega-roids.json](./130850-ega-roids.json) |
 | Egaint | 79760 | [79760-egaint.json](./79760-egaint.json) |
 | Egao no Renkinjutsu | 238099 | [238099-egao-no-renkinjutsu.json](./238099-egao-no-renkinjutsu.json) |
+| Egawa Suguru no Super League CD | 46385 | [46385-egawa-suguru-no-super-league-cd.json](./46385-egawa-suguru-no-super-league-cd.json) |
 | Egbert | 85903 | [85903-egbert.json](./85903-egbert.json) |
 | Eger | 200974 | [200974-eger.json](./200974-eger.json) |
 | Egg | 108799 | [108799-egg.json](./108799-egg.json) |
@@ -4632,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN NBA 2Night | 78678 | [78678-espn-nba-2night.json](./78678-espn-nba-2night.json) |
 | ESPN NBA Basketball | 8833 | [8833-espn-nba-basketball.json](./8833-espn-nba-basketball.json) |
 | ESPN NBA Basketball 2004 | 94616 | [94616-espn-nba-basketball-2004.json](./94616-espn-nba-basketball-2004.json) |
+| ESPN NBA HangTime '95 | 46406 | [46406-espn-nba-hangtime-95.json](./46406-espn-nba-hangtime-95.json) |
 | ESPN NFL 2K4 | 43471 | [43471-espn-nfl-2k4.json](./43471-espn-nfl-2k4.json) |
 | ESPN NFL 2K5 | 7881 | [7881-espn-nfl-2k5.json](./7881-espn-nfl-2k5.json) |
 | ESPN NFL Football | 8847 | [8847-espn-nfl-football.json](./8847-espn-nfl-football.json) |
@@ -5987,6 +5989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exhausted Man | 119319 | [119319-exhausted-man.json](./119319-exhausted-man.json) |
 | Exhibit of Sorrows | 321126 | [321126-exhibit-of-sorrows.json](./321126-exhibit-of-sorrows.json) |
 | Exhibition | 60014 | [60014-exhibition.json](./60014-exhibition.json) |
+| Exhibition of Speed | 46365 | [46365-exhibition-of-speed.json](./46365-exhibition-of-speed.json) |
 | Exhibitors | 235882 | [235882-exhibitors.json](./235882-exhibitors.json) |
 | Exidium Corp | 21327 | [21327-exidium-corp.json](./21327-exidium-corp.json) |
 | Exigent | 257000 | [257000-exigent.json](./257000-exigent.json) |
