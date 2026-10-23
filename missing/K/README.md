@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider Kabuto | 91886 | [91886-kamen-rider-kabuto.json](./91886-kamen-rider-kabuto.json) |
 | Kamen Rider Kuuga | 43863 | [43863-kamen-rider-kuuga.json](./43863-kamen-rider-kuuga.json) |
 | Kamen Rider Ryuki | 44858 | [44858-kamen-rider-ryuki.json](./44858-kamen-rider-ryuki.json) |
+| Kamen Rider SD: Hashire! Mighty Riders | 49125 | [49125-kamen-rider-sd-hashire-mighty-riders.json](./49125-kamen-rider-sd-hashire-mighty-riders.json) |
 | Kamen Rider SD: Shutsugeki!! Rider Machine | 38166 | [38166-kamen-rider-sd-shutsugeki-rider-machine.json](./38166-kamen-rider-sd-shutsugeki-rider-machine.json) |
 | Kamen Rider V3 | 43862 | [43862-kamen-rider-v3.json](./43862-kamen-rider-v3.json) |
 | Kamen Rider: Battride War | 63358 | [63358-kamen-rider-battride-war.json](./63358-kamen-rider-battride-war.json) |
@@ -2226,7 +2227,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -2904,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingyo Chuuihou! Wapiko no Waku-waku Stamp Rally | 194938 | [194938-kingyo-chuuihou-wapiko-no-waku-waku-stamp-rally.json](./194938-kingyo-chuuihou-wapiko-no-waku-waku-stamp-rally.json) |
 | Kingyo Chuuihou!: Gyopi-chan Mikke | 385785 | [385785-kingyo-chuuihou-gyopi-chan-mikke.json](./385785-kingyo-chuuihou-gyopi-chan-mikke.json) |
 | Kingyo no Kodou | 285875 | [285875-kingyo-no-kodou.json](./285875-kingyo-no-kodou.json) |
+| Kininkou Maroku Oni | 49143 | [49143-kininkou-maroku-oni.json](./49143-kininkou-maroku-oni.json) |
 | Kiniro Mosaic Memories | 202390 | [202390-kiniro-mosaic-memories.json](./202390-kiniro-mosaic-memories.json) |
 | Kiniro no Corda 2 | 57703 | [57703-kiniro-no-corda-2.json](./57703-kiniro-no-corda-2.json) |
 | Kiniro no Corda 2 f | 221321 | [221321-kiniro-no-corda-2-f.json](./221321-kiniro-no-corda-2-f.json) |
