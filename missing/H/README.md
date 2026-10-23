@@ -1932,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Has traicionado la Luna | 391656 | [391656-has-traicionado-la-luna.json](./391656-has-traicionado-la-luna.json) |
 | Has Your Dream of Dating a Cute Bunny Girl Finally Come True?! | 237442 | [237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json](./237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json) |
 | Hasamu | 40176 | [40176-hasamu.json](./40176-hasamu.json) |
+| Hasbro Compilation | 47803 | [47803-hasbro-compilation.json](./47803-hasbro-compilation.json) |
 | Hasbro Family Fun Pack - Conquest Edition | 118454 | [118454-hasbro-family-fun-pack-conquest-edition.json](./118454-hasbro-family-fun-pack-conquest-edition.json) |
 | Hasbro Family Fun Pack Super Edition | 99528 | [99528-hasbro-family-fun-pack-super-edition.json](./99528-hasbro-family-fun-pack-super-edition.json) |
 | Hasbro Family Game Night 2 | 50606 | [50606-hasbro-family-game-night-2.json](./50606-hasbro-family-game-night-2.json) |
@@ -5737,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: Coastal Hill Mystery | 115182 | [115182-hidden-objects-coastal-hill-mystery.json](./115182-hidden-objects-coastal-hill-mystery.json) |
 | Hidden Objects: London - My Paradise: My Kitchen | 90802 | [90802-hidden-objects-london-my-paradise-my-kitchen.json](./90802-hidden-objects-london-my-paradise-my-kitchen.json) |
 | Hidden Objects: Messy Kitchen | 233218 | [233218-hidden-objects-messy-kitchen.json](./233218-hidden-objects-messy-kitchen.json) |
+| Hidden Objects: Mystery Stories | 47787 | [47787-hidden-objects-mystery-stories.json](./47787-hidden-objects-mystery-stories.json) |
 | Hidden Objects: Mystery Tree House - Dog Adventure: Find the Evidence Story | 101970 | [101970-hidden-objects-mystery-tree-house-dog-adventure-find-the-evidence-story.json](./101970-hidden-objects-mystery-tree-house-dog-adventure-find-the-evidence-story.json) |
 | Hidden Objects: New York Rain Storm - The Pharaohs Treasure Hunt: Spa Massage Meditation Center - California | 88348 | [88348-hidden-objects-new-york-rain-storm-the-pharaohs-treasure-hunt-spa-massage-meditation-center-california.json](./88348-hidden-objects-new-york-rain-storm-the-pharaohs-treasure-hunt-spa-massage-meditation-center-california.json) |
 | Hidden Objects: Romantic Love - Castle: Scary Mystery Ghost - The Secret Forest | 88266 | [88266-hidden-objects-romantic-love-castle-scary-mystery-ghost-the-secret-forest.json](./88266-hidden-objects-romantic-love-castle-scary-mystery-ghost-the-secret-forest.json) |
