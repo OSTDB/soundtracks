@@ -7008,6 +7008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foes of Legacy: Survivors | 374940 | [374940-foes-of-legacy-survivors.json](./374940-foes-of-legacy-survivors.json) |
 | Foes.io | 75135 | [75135-foes-io.json](./75135-foes-io.json) |
 | FOF: Fear Of Failure | 372496 | [372496-fof-fear-of-failure.json](./372496-fof-fear-of-failure.json) |
+| FOFT: Federation of Free Traders | 68492 | [68492-foft-federation-of-free-traders.json](./68492-foft-federation-of-free-traders.json) |
 | Fog | 201837 | [201837-fog.json](./201837-fog.json) |
 | Fog | 204841 | [204841-fog.json](./204841-fog.json) |
 | FOG ...Seek the hidden truth | 126323 | [126323-fog-seek-the-hidden-truth.json](./126323-fog-seek-the-hidden-truth.json) |
@@ -7721,6 +7722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Fox | 106487 | [106487-forever-fox.json](./106487-forever-fox.json) |
 | Forever Growing Garden | 62158 | [62158-forever-growing-garden.json](./62158-forever-growing-garden.json) |
 | Forever Home | 74608 | [74608-forever-home.json](./74608-forever-home.json) |
+| Forever in my footsteps 2 | 68455 | [68455-forever-in-my-footsteps-2.json](./68455-forever-in-my-footsteps-2.json) |
 | Forever In The Backrooms | 246831 | [246831-forever-in-the-backrooms.json](./246831-forever-in-the-backrooms.json) |
 | Forever Indy | 256924 | [256924-forever-indy.json](./256924-forever-indy.json) |
 | Forever Kingdom | 10907 | [10907-forever-kingdom.json](./10907-forever-kingdom.json) |
@@ -10225,6 +10227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frustration Nation | 335504 | [335504-frustration-nation.json](./335504-frustration-nation.json) |
 | Fruta Luta | 176323 | [176323-fruta-luta.json](./176323-fruta-luta.json) |
 | Frutakia | 299776 | [299776-frutakia.json](./299776-frutakia.json) |
+| Frutakia 2 | 68439 | [68439-frutakia-2.json](./68439-frutakia-2.json) |
 | Frutiger Aero | 354488 | [354488-frutiger-aero.json](./354488-frutiger-aero.json) |
 | Frutiger Home | 368055 | [368055-frutiger-home.json](./368055-frutiger-home.json) |
 | Frutiger Space | 366227 | [366227-frutiger-space.json](./366227-frutiger-space.json) |
