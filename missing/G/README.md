@@ -1286,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gandalf the Sorcerer | 141463 | [141463-gandalf-the-sorcerer.json](./141463-gandalf-the-sorcerer.json) |
 | Gander National Park | 148681 | [148681-gander-national-park.json](./148681-gander-national-park.json) |
 | Gandhi III | 323801 | [323801-gandhi-iii.json](./323801-gandhi-iii.json) |
+| Gang Beasts Rick And Morty 2 | 95892 | [95892-gang-beasts-rick-and-morty-2.json](./95892-gang-beasts-rick-and-morty-2.json) |
 | Gang Blast | 283265 | [283265-gang-blast.json](./283265-gang-blast.json) |
 | Gang Human Wrestling | 193816 | [193816-gang-human-wrestling.json](./193816-gang-human-wrestling.json) |
 | Gang Man | 279066 | [279066-gang-man.json](./279066-gang-man.json) |
@@ -6222,6 +6223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Values: Monaco | 52224 | [52224-grand-values-monaco.json](./52224-grand-values-monaco.json) |
 | Grand Vegas Casino | 401559 | [401559-grand-vegas-casino.json](./401559-grand-vegas-casino.json) |
 | Grand Vegas Mafia Crime: Fight to Survive | 98781 | [98781-grand-vegas-mafia-crime-fight-to-survive.json](./98781-grand-vegas-mafia-crime-fight-to-survive.json) |
+| Grand Vertical Ramp Car Racing: Mega Ramp Stunts | 95793 | [95793-grand-vertical-ramp-car-racing-mega-ramp-stunts.json](./95793-grand-vertical-ramp-car-racing-mega-ramp-stunts.json) |
 | Grand Voyage | 413141 | [413141-grand-voyage.json](./413141-grand-voyage.json) |
 | Grand War 2 | 247204 | [247204-grand-war-2.json](./247204-grand-war-2.json) |
 | Grand War: Rome | 244335 | [244335-grand-war-rome.json](./244335-grand-war-rome.json) |
