@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon | 15656 | [15656-backgammon.json](./15656-backgammon.json) |
 | Backgammon | 214045 | [214045-backgammon.json](./214045-backgammon.json) |
 | Backgammon | 339276 | [339276-backgammon.json](./339276-backgammon.json) |
+| Backgammon | 77148 | [77148-backgammon.json](./77148-backgammon.json) |
 | Backgammon | 78530 | [78530-backgammon.json](./78530-backgammon.json) |
 | Backgammon 2000 | 97485 | [97485-backgammon-2000.json](./97485-backgammon-2000.json) |
 | Backgammon 3D | 146896 | [146896-backgammon-3d.json](./146896-backgammon-3d.json) |
@@ -3507,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship | 282239 | [282239-battleship.json](./282239-battleship.json) |
 | Battleship | 285030 | [285030-battleship.json](./285030-battleship.json) |
 | Battleship | 317631 | [317631-battleship.json](./317631-battleship.json) |
+| Battleship | 77147 | [77147-battleship.json](./77147-battleship.json) |
 | Battleship | 95434 | [95434-battleship.json](./95434-battleship.json) |
 | Battleship Apollo | 143669 | [143669-battleship-apollo.json](./143669-battleship-apollo.json) |
 | Battleship Athena | 310496 | [310496-battleship-athena.json](./310496-battleship-athena.json) |
@@ -4268,6 +4270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the House | 71041 | [71041-beat-the-house.json](./71041-beat-the-house.json) |
 | Beat the House 2 | 71503 | [71503-beat-the-house-2.json](./71503-beat-the-house-2.json) |
 | Beat the Humans | 239793 | [239793-beat-the-humans.json](./239793-beat-the-humans.json) |
+| Beat the Intro | 77119 | [77119-beat-the-intro.json](./77119-beat-the-intro.json) |
 | Beat the Little Zombie | 187705 | [187705-beat-the-little-zombie.json](./187705-beat-the-little-zombie.json) |
 | Beat the Machine: Rebooted | 135767 | [135767-beat-the-machine-rebooted.json](./135767-beat-the-machine-rebooted.json) |
 | Beat the Machine: Rebooted - Invasion | 249023 | [249023-beat-the-machine-rebooted-invasion.json](./249023-beat-the-machine-rebooted-invasion.json) |
@@ -6196,6 +6199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billion Bounces | 382334 | [382334-billion-bounces.json](./382334-billion-bounces.json) |
 | Billion Egg Farm | 407445 | [407445-billion-egg-farm.json](./407445-billion-egg-farm.json) |
 | Billion Road | 109474 | [109474-billion-road.json](./109474-billion-road.json) |
+| Billionaire | 77137 | [77137-billionaire.json](./77137-billionaire.json) |
 | Billionaire | 95202 | [95202-billionaire.json](./95202-billionaire.json) |
 | Billionaire Banshee | 141026 | [141026-billionaire-banshee.json](./141026-billionaire-banshee.json) |
 | Billionaire Dad Luxury Life Real Family Games | 102851 | [102851-billionaire-dad-luxury-life-real-family-games.json](./102851-billionaire-dad-luxury-life-real-family-games.json) |
