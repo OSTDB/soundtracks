@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tag.Io | 129726 | [129726-tag-io.json](./129726-tag-io.json) |
 | Tagalon | 362471 | [362471-tagalon.json](./362471-tagalon.json) |
 | TAGAP 4 | 321139 | [321139-tagap-4.json](./321139-tagap-4.json) |
+| TAGAP: The Apocalyptic Game About Penguins | 79671 | [79671-tagap-the-apocalyptic-game-about-penguins.json](./79671-tagap-the-apocalyptic-game-about-penguins.json) |
 | Tagger Mascot | 244862 | [244862-tagger-mascot.json](./244862-tagger-mascot.json) |
 | Taghairm | 59685 | [59685-taghairm.json](./59685-taghairm.json) |
 | TagHunter | 192779 | [192779-taghunter.json](./192779-taghunter.json) |
@@ -5280,6 +5281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Body VR: Journey Inside a Cell | 33268 | [33268-the-body-vr-journey-inside-a-cell.json](./33268-the-body-vr-journey-inside-a-cell.json) |
 | The Bodycam Shooter | 332498 | [332498-the-bodycam-shooter.json](./332498-the-bodycam-shooter.json) |
 | The Bog's Heart | 176963 | [176963-the-bogs-heart.json](./176963-the-bogs-heart.json) |
+| The Boggit | 79713 | [79713-the-boggit.json](./79713-the-boggit.json) |
 | The Boggy Region | 260940 | [260940-the-boggy-region.json](./260940-the-boggy-region.json) |
 | The Bogtavern | 236259 | [236259-the-bogtavern.json](./236259-the-bogtavern.json) |
 | The Bogus Guru | 93133 | [93133-the-bogus-guru.json](./93133-the-bogus-guru.json) |
@@ -14019,6 +14021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tomb | 85905 | [85905-the-tomb.json](./85905-the-tomb.json) |
 | The Tomb of Corruption | 289954 | [289954-the-tomb-of-corruption.json](./289954-the-tomb-of-corruption.json) |
 | The Tomb Raider Trilogy | 7470 | [7470-the-tomb-raider-trilogy.json](./7470-the-tomb-raider-trilogy.json) |
+| The Tomb: Pinball | 79664 | [79664-the-tomb-pinball.json](./79664-the-tomb-pinball.json) |
 | The Tombs of Ultra 5 | 189373 | [189373-the-tombs-of-ultra-5.json](./189373-the-tombs-of-ultra-5.json) |
 | The Tomorrow Children | 7604 | [7604-the-tomorrow-children.json](./7604-the-tomorrow-children.json) |
 | The Tomorrow Children: Phoenix Edition | 205261 | [205261-the-tomorrow-children-phoenix-edition.json](./205261-the-tomorrow-children-phoenix-edition.json) |
@@ -20316,6 +20319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Sailor | 175143 | [175143-top-sailor.json](./175143-top-sailor.json) |
 | Top Secret | 171498 | [171498-top-secret.json](./171498-top-secret.json) |
 | Top Secret | 75967 | [75967-top-secret.json](./75967-top-secret.json) |
+| Top Secret | 79666 | [79666-top-secret.json](./79666-top-secret.json) |
 | Top Shot II | 92323 | [92323-top-shot-ii.json](./92323-top-shot-ii.json) |
 | Top Skater | 18047 | [18047-top-skater.json](./18047-top-skater.json) |
 | Top Solitaire | 87111 | [87111-top-solitaire.json](./87111-top-solitaire.json) |
