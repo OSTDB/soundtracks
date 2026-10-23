@@ -2150,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Pet Dinosaur: Velociraptor | 106774 | [106774-virtual-pet-dinosaur-velociraptor.json](./106774-virtual-pet-dinosaur-velociraptor.json) |
 | Virtual Pet Dog | 101434 | [101434-virtual-pet-dog.json](./101434-virtual-pet-dog.json) |
 | Virtual Pet Dragon | 89687 | [89687-virtual-pet-dragon.json](./89687-virtual-pet-dragon.json) |
+| Virtual Pet Elephant | 90428 | [90428-virtual-pet-elephant.json](./90428-virtual-pet-elephant.json) |
 | Virtual Pet Great White Shark | 106574 | [106574-virtual-pet-great-white-shark.json](./106574-virtual-pet-great-white-shark.json) |
 | Virtual Pet Horse | 90022 | [90022-virtual-pet-horse.json](./90022-virtual-pet-horse.json) |
 | Virtual Pet Kitty Cat | 89227 | [89227-virtual-pet-kitty-cat.json](./89227-virtual-pet-kitty-cat.json) |
