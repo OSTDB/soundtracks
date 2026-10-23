@@ -10281,6 +10281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minions Battle | 116742 | [116742-minions-battle.json](./116742-minions-battle.json) |
 | Minions of Elden | 176423 | [176423-minions-of-elden.json](./176423-minions-of-elden.json) |
 | Minions of Elden Online | 170924 | [170924-minions-of-elden-online.json](./170924-minions-of-elden-online.json) |
+| Minions of Mirth | 92326 | [92326-minions-of-mirth.json](./92326-minions-of-mirth.json) |
 | Minions Paradise | 11073 | [11073-minions-paradise.json](./11073-minions-paradise.json) |
 | Minions, Monsters, and Madness | 30194 | [30194-minions-monsters-and-madness.json](./30194-minions-monsters-and-madness.json) |
 | Minions. Five nights at Despicable Hospital 3D | 99418 | [99418-minions-five-nights-at-despicable-hospital-3d.json](./99418-minions-five-nights-at-despicable-hospital-3d.json) |
@@ -10323,6 +10324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna de Asobou: Koinu de Kururin | 408865 | [408865-minna-de-asobou-koinu-de-kururin.json](./408865-minna-de-asobou-koinu-de-kururin.json) |
 | Minna De Daifugo | 222446 | [222446-minna-de-daifugo.json](./222446-minna-de-daifugo.json) |
 | Minna de Hayaoshi Quiz | 238971 | [238971-minna-de-hayaoshi-quiz.json](./238971-minna-de-hayaoshi-quiz.json) |
+| Minna de Jibun no Setsumeisho: B-Kata, A-Kata, AB-Kata, O-Kata | 92353 | [92353-minna-de-jibun-no-setsumeisho-b-kata-a-kata-ab-kata-o-kata.json](./92353-minna-de-jibun-no-setsumeisho-b-kata-a-kata-ab-kata-o-kata.json) |
 | Minna de Karuta Online | 152041 | [152041-minna-de-karuta-online.json](./152041-minna-de-karuta-online.json) |
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
 | Minna de Noujiru! Warumono Nage-houdai! Ningen Medal Game | 358495 | [358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json](./358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json) |
@@ -11995,6 +11997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Math | 253303 | [253303-monkey-math.json](./253303-monkey-math.json) |
 | Monkey Milk | 211124 | [211124-monkey-milk.json](./211124-monkey-milk.json) |
 | Monkey Mischief | 51065 | [51065-monkey-mischief.json](./51065-monkey-mischief.json) |
+| Monkey Mischief! Party Time | 92362 | [92362-monkey-mischief-party-time.json](./92362-monkey-mischief-party-time.json) |
 | Monkey Mole Panic | 40386 | [40386-monkey-mole-panic.json](./40386-monkey-mole-panic.json) |
 | Monkey Ninja | 106146 | [106146-monkey-ninja.json](./106146-monkey-ninja.json) |
 | Monkey Party | 272693 | [272693-monkey-party.json](./272693-monkey-party.json) |
@@ -15972,6 +15975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Fox Sister | 107738 | [107738-my-fox-sister.json](./107738-my-fox-sister.json) |
 | My Foxy Girlfriend | 205818 | [205818-my-foxy-girlfriend.json](./205818-my-foxy-girlfriend.json) |
 | My Free Farm | 286409 | [286409-my-free-farm.json](./286409-my-free-farm.json) |
+| My French Coach Level 2: Intermediate | 92357 | [92357-my-french-coach-level-2-intermediate.json](./92357-my-french-coach-level-2-intermediate.json) |
 | My Friend Aki | 274353 | [274353-my-friend-aki.json](./274353-my-friend-aki.json) |
 | My Friend Barrington | 398323 | [398323-my-friend-barrington.json](./398323-my-friend-barrington.json) |
 | My Friend Koo | 206771 | [206771-my-friend-koo.json](./206771-my-friend-koo.json) |
@@ -16496,6 +16500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Spa Resort | 296077 | [296077-my-spa-resort.json](./296077-my-spa-resort.json) |
 | My Space Bar | 293530 | [293530-my-space-bar.json](./293530-my-space-bar.json) |
 | My Spanish Coach | 72912 | [72912-my-spanish-coach.json](./72912-my-spanish-coach.json) |
+| My Spanish Coach Level 2: Intermediate | 92356 | [92356-my-spanish-coach-level-2-intermediate.json](./92356-my-spanish-coach-level-2-intermediate.json) |
 | My Spelling Words | 93073 | [93073-my-spelling-words.json](./93073-my-spelling-words.json) |
 | My Splitting Image | 355231 | [355231-my-splitting-image.json](./355231-my-splitting-image.json) |
 | My Starry Princess | 298996 | [298996-my-starry-princess.json](./298996-my-starry-princess.json) |
