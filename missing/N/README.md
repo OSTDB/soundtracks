@@ -4376,6 +4376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niplheim's Hunter: Branded Azel | 82732 | [82732-niplheims-hunter-branded-azel.json](./82732-niplheims-hunter-branded-azel.json) |
 | Niplob Adventure | 225726 | [225726-niplob-adventure.json](./225726-niplob-adventure.json) |
 | Nippets | 326613 | [326613-nippets.json](./326613-nippets.json) |
+| Nippon | 68454 | [68454-nippon.json](./68454-nippon.json) |
 | Nippon Daihyou Team: Eikou no Eleven | 65031 | [65031-nippon-daihyou-team-eikou-no-eleven.json](./65031-nippon-daihyou-team-eikou-no-eleven.json) |
 | Nippon Dojo | 351593 | [351593-nippon-dojo.json](./351593-nippon-dojo.json) |
 | Nippon Ichi no Meikantoku | 48803 | [48803-nippon-ichi-no-meikantoku.json](./48803-nippon-ichi-no-meikantoku.json) |
@@ -5947,6 +5948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nullis | 391314 | [391314-nullis.json](./391314-nullis.json) |
 | Nullmaze | 158415 | [158415-nullmaze.json](./158415-nullmaze.json) |
 | Nullpoint Crisis | 362744 | [362744-nullpoint-crisis.json](./362744-nullpoint-crisis.json) |
+| Nullpointer | 68446 | [68446-nullpointer.json](./68446-nullpointer.json) |
 | Nullptr | 158234 | [158234-nullptr.json](./158234-nullptr.json) |
 | Nüllptr | 181675 | [181675-nullptr.json](./181675-nullptr.json) |
 | Nullschwert | 258419 | [258419-nullschwert.json](./258419-nullschwert.json) |
