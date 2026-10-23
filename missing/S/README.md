@@ -2810,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scramble of the Far East | 364555 | [364555-scramble-of-the-far-east.json](./364555-scramble-of-the-far-east.json) |
 | Scramble Spirits | 12847 | [12847-scramble-spirits.json](./12847-scramble-spirits.json) |
 | Scramble Up! | 324316 | [324316-scramble-up.json](./324316-scramble-up.json) |
+| Scramble With Friends | 65345 | [65345-scramble-with-friends.json](./65345-scramble-with-friends.json) |
 | Scramble: Battle of Britain | 147188 | [147188-scramble-battle-of-britain.json](./147188-scramble-battle-of-britain.json) |
 | Scrambled | 58163 | [58163-scrambled.json](./58163-scrambled.json) |
 | Scrambled | 79680 | [79680-scrambled.json](./79680-scrambled.json) |
@@ -6686,6 +6687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Arena | 174789 | [174789-shining-arena.json](./174789-shining-arena.json) |
 | Shining Ark | 64460 | [64460-shining-ark.json](./64460-shining-ark.json) |
 | Shining Beyond | 138608 | [138608-shining-beyond.json](./138608-shining-beyond.json) |
+| Shining Blade | 65348 | [65348-shining-blade.json](./65348-shining-blade.json) |
 | Shining Core | 214947 | [214947-shining-core.json](./214947-shining-core.json) |
 | Shining Flower: HikaruHana | 172040 | [172040-shining-flower-hikaruhana.json](./172040-shining-flower-hikaruhana.json) |
 | Shining Force | 3041 | [3041-shining-force.json](./3041-shining-force.json) |
@@ -9617,6 +9619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski-Doo X-Team Racing | 80137 | [80137-ski-doo-x-team-racing.json](./80137-ski-doo-x-team-racing.json) |
 | Ski-Doo: Snow X Racing | 21419 | [21419-ski-doo-snow-x-racing.json](./21419-ski-doo-snow-x-racing.json) |
 | Ski-E-O! Ski Resort Tycoon | 414510 | [414510-ski-e-o-ski-resort-tycoon.json](./414510-ski-e-o-ski-resort-tycoon.json) |
+| Ski-On-Neon | 65340 | [65340-ski-on-neon.json](./65340-ski-on-neon.json) |
 | Ski-World Simulator | 36395 | [36395-ski-world-simulator.json](./36395-ski-world-simulator.json) |
 | Ski-World Simulator 2012 | 54364 | [54364-ski-world-simulator-2012.json](./54364-ski-world-simulator-2012.json) |
 | Skibi's Castle TD 2 | 348357 | [348357-skibis-castle-td-2.json](./348357-skibis-castle-td-2.json) |
@@ -10974,6 +10977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotter Mania P: Mach Go Go Go III | 98874 | [98874-slotter-mania-p-mach-go-go-go-iii.json](./98874-slotter-mania-p-mach-go-go-go-iii.json) |
 | Slotter Mania P: SanSan HanaHana & SanSan Oasis | 98875 | [98875-slotter-mania-p-sansan-hanahana-and-sansan-oasis.json](./98875-slotter-mania-p-sansan-hanahana-and-sansan-oasis.json) |
 | Slotter Mania P: Tetsuya Shinjuku vs Ueno | 62738 | [62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json](./62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json) |
+| Slotter Mania V: Black Lagoon | 65318 | [65318-slotter-mania-v-black-lagoon.json](./65318-slotter-mania-v-black-lagoon.json) |
 | Slotter Mania V: Zettai Shougeki II | 63764 | [63764-slotter-mania-v-zettai-shougeki-ii.json](./63764-slotter-mania-v-zettai-shougeki-ii.json) |
 | Slotter Mania: Core Tokonatsu no Netsusa! Oasis | 98871 | [98871-slotter-mania-core-tokonatsu-no-netsusa-oasis.json](./98871-slotter-mania-core-tokonatsu-no-netsusa-oasis.json) |
 | Slotter Mania: Gekinetsu Okisuro! Siosai Special | 98876 | [98876-slotter-mania-gekinetsu-okisuro-siosai-special.json](./98876-slotter-mania-gekinetsu-okisuro-siosai-special.json) |
@@ -15242,6 +15246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dodger 2019: Arcade Wars | 249730 | [249730-space-dodger-2019-arcade-wars.json](./249730-space-dodger-2019-arcade-wars.json) |
 | Space Dog Run | 201093 | [201093-space-dog-run.json](./201093-space-dog-run.json) |
 | Space Dogo | 264628 | [264628-space-dogo.json](./264628-space-dogo.json) |
+| Space Dogs Squadron | 65337 | [65337-space-dogs-squadron.json](./65337-space-dogs-squadron.json) |
 | Space Doubt | 26420 | [26420-space-doubt.json](./26420-space-doubt.json) |
 | Space Dragons | 188618 | [188618-space-dragons.json](./188618-space-dragons.json) |
 | Space Dream | 41962 | [41962-space-dream.json](./41962-space-dream.json) |
@@ -16502,6 +16507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Dating for Ghosts | 75799 | [75799-speed-dating-for-ghosts.json](./75799-speed-dating-for-ghosts.json) |
 | Speed Demons 2 | 330564 | [330564-speed-demons-2.json](./330564-speed-demons-2.json) |
 | Speed Devils | 23609 | [23609-speed-devils.json](./23609-speed-devils.json) |
+| Speed Dreams | 65339 | [65339-speed-dreams.json](./65339-speed-dreams.json) |
 | Speed Drifters | 193998 | [193998-speed-drifters.json](./193998-speed-drifters.json) |
 | Speed DX | 261254 | [261254-speed-dx.json](./261254-speed-dx.json) |
 | Speed Elixir | 19447 | [19447-speed-elixir.json](./19447-speed-elixir.json) |
@@ -23205,6 +23211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Battle | 327665 | [327665-sudoku-battle.json](./327665-sudoku-battle.json) |
 | Sudoku but it's on the MD | 263429 | [263429-sudoku-but-its-on-the-md.json](./263429-sudoku-but-its-on-the-md.json) |
 | Sudoku by Nikoli | 85409 | [85409-sudoku-by-nikoli.json](./85409-sudoku-by-nikoli.json) |
+| Sudoku by Nikoli V | 65336 | [65336-sudoku-by-nikoli-v.json](./65336-sudoku-by-nikoli-v.json) |
 | Sudoku Candy Witch | 246969 | [246969-sudoku-candy-witch.json](./246969-sudoku-candy-witch.json) |
 | Sudoku Casual Puzzle | 219280 | [219280-sudoku-casual-puzzle.json](./219280-sudoku-casual-puzzle.json) |
 | Sudoku Cats | 405615 | [405615-sudoku-cats.json](./405615-sudoku-cats.json) |
