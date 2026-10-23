@@ -8221,6 +8221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshizora e Kakaru Hashi AA | 144889 | [144889-hoshizora-e-kakaru-hashi-aa.json](./144889-hoshizora-e-kakaru-hashi-aa.json) |
 | Hoshizora Navi | 92412 | [92412-hoshizora-navi.json](./92412-hoshizora-navi.json) |
 | Hoshizora no Comic Garden | 70660 | [70660-hoshizora-no-comic-garden.json](./70660-hoshizora-no-comic-garden.json) |
+| Hoshizora no Memoria -Eternal Heart- | 61404 | [61404-hoshizora-no-memoria-eternal-heart.json](./61404-hoshizora-no-memoria-eternal-heart.json) |
 | Hoshizora no Memoria: Wish Upon a Shooting Star HD | 312361 | [312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json](./312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json) |
 | Hoshizora Tensei Another Sky | 259709 | [259709-hoshizora-tensei-another-sky.json](./259709-hoshizora-tensei-another-sky.json) |
 | Hoshizora Testudou to Shiro no Tabi | 147405 | [147405-hoshizora-testudou-to-shiro-no-tabi.json](./147405-hoshizora-testudou-to-shiro-no-tabi.json) |
