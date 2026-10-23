@@ -4064,6 +4064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from police | 114294 | [114294-escape-from-police.json](./114294-escape-from-police.json) |
 | Escape From Prison Multiplayer | 337823 | [337823-escape-from-prison-multiplayer.json](./337823-escape-from-prison-multiplayer.json) |
 | Escape from Puzzlegate | 34373 | [34373-escape-from-puzzlegate.json](./34373-escape-from-puzzlegate.json) |
+| Escape from pyramid | 95272 | [95272-escape-from-pyramid.json](./95272-escape-from-pyramid.json) |
 | Escape from Rhetundo Island | 336061 | [336061-escape-from-rhetundo-island.json](./336061-escape-from-rhetundo-island.json) |
 | Escape from Rio de Janeiro | 104456 | [104456-escape-from-rio-de-janeiro.json](./104456-escape-from-rio-de-janeiro.json) |
 | Escape From Roswell | 225901 | [225901-escape-from-roswell.json](./225901-escape-from-roswell.json) |
