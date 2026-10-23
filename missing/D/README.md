@@ -7587,6 +7587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Park | 56458 | [56458-dinosaur-park.json](./56458-dinosaur-park.json) |
 | Dinosaur Park Building Simulator 3D | 99136 | [99136-dinosaur-park-building-simulator-3d.json](./99136-dinosaur-park-building-simulator-3d.json) |
 | Dinosaur Planet: Recompiled | 343047 | [343047-dinosaur-planet-recompiled.json](./343047-dinosaur-planet-recompiled.json) |
+| Dinosaur Predators | 73584 | [73584-dinosaur-predators.json](./73584-dinosaur-predators.json) |
 | Dinosaur Puzzle | 222269 | [222269-dinosaur-puzzle.json](./222269-dinosaur-puzzle.json) |
 | Dinosaur Race | 193278 | [193278-dinosaur-race.json](./193278-dinosaur-race.json) |
 | Dinosaur Rampage - Trex | 87716 | [87716-dinosaur-rampage-trex.json](./87716-dinosaur-rampage-trex.json) |
@@ -9231,6 +9232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogz | 131393 | [131393-dogz.json](./131393-dogz.json) |
 | Dogz 3: Your Virtual Petz | 151540 | [151540-dogz-3-your-virtual-petz.json](./151540-dogz-3-your-virtual-petz.json) |
 | Dogz 4 | 151539 | [151539-dogz-4.json](./151539-dogz-4.json) |
+| Dogz 5 | 73681 | [73681-dogz-5.json](./73681-dogz-5.json) |
 | Dogz: Fashion | 49403 | [49403-dogz-fashion.json](./49403-dogz-fashion.json) |
 | DoHots | 417407 | [417407-dohots.json](./417407-dohots.json) |
 | Dohyo Dreams: Rise to Yokozuna | 381604 | [381604-dohyo-dreams-rise-to-yokozuna.json](./381604-dohyo-dreams-rise-to-yokozuna.json) |
@@ -14639,6 +14641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of the Amber Griffin | 211587 | [211587-dungeons-of-the-amber-griffin.json](./211587-dungeons-of-the-amber-griffin.json) |
 | Dungeons of the dead | 96639 | [96639-dungeons-of-the-dead.json](./96639-dungeons-of-the-dead.json) |
 | Dungeons of the Fallen | 105025 | [105025-dungeons-of-the-fallen.json](./105025-dungeons-of-the-fallen.json) |
+| Dungeons of the Unforgiven | 73616 | [73616-dungeons-of-the-unforgiven.json](./73616-dungeons-of-the-unforgiven.json) |
 | Dungeons of Voidria | 153941 | [153941-dungeons-of-voidria.json](./153941-dungeons-of-voidria.json) |
 | Dungeons, Dungeons and more... Dice? | 361724 | [361724-dungeons-dungeons-and-more-dice.json](./361724-dungeons-dungeons-and-more-dice.json) |
 | Dungeons: Collector's Edition | 138088 | [138088-dungeons-collectors-edition.json](./138088-dungeons-collectors-edition.json) |
