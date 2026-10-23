@@ -1817,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukanaru Toki no Naka de 4 | 70656 | [70656-harukanaru-toki-no-naka-de-4.json](./70656-harukanaru-toki-no-naka-de-4.json) |
 | Harukanaru Toki no Naka de 5 | 60503 | [60503-harukanaru-toki-no-naka-de-5.json](./60503-harukanaru-toki-no-naka-de-5.json) |
 | Harukanaru Toki no Naka de 5: Kazahanaki | 146664 | [146664-harukanaru-toki-no-naka-de-5-kazahanaki.json](./146664-harukanaru-toki-no-naka-de-5-kazahanaki.json) |
+| Harukanaru Toki no Naka de 6 | 60958 | [60958-harukanaru-toki-no-naka-de-6.json](./60958-harukanaru-toki-no-naka-de-6.json) |
 | Harukanaru Toki no Naka de 7 | 121519 | [121519-harukanaru-toki-no-naka-de-7.json](./121519-harukanaru-toki-no-naka-de-7.json) |
 | Harukanaru Toki no Naka De 7: Ransei no Sadame wo Koeru Box | 136842 | [136842-harukanaru-toki-no-naka-de-7-ransei-no-sadame-wo-koeru-box.json](./136842-harukanaru-toki-no-naka-de-7-ransei-no-sadame-wo-koeru-box.json) |
 | Harukanaru Toki no Naka de 7: Treasure Box Edition | 136775 | [136775-harukanaru-toki-no-naka-de-7-treasure-box-edition.json](./136775-harukanaru-toki-no-naka-de-7-treasure-box-edition.json) |
@@ -2692,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartland | 249049 | [249049-heartland.json](./249049-heartland.json) |
 | Heartland Deluxe | 73756 | [73756-heartland-deluxe.json](./73756-heartland-deluxe.json) |
 | Heartland Frontier | 176182 | [176182-heartland-frontier.json](./176182-heartland-frontier.json) |
+| Heartland Ranch | 60844 | [60844-heartland-ranch.json](./60844-heartland-ranch.json) |
 | Heartless | 183969 | [183969-heartless.json](./183969-heartless.json) |
 | Heartless | 219824 | [219824-heartless.json](./219824-heartless.json) |
 | Heartless | 339834 | [339834-heartless.json](./339834-heartless.json) |
@@ -4551,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero and Daughter | 58887 | [58887-hero-and-daughter.json](./58887-hero-and-daughter.json) |
 | Hero and Daughter+ | 36388 | [36388-hero-and-daughter.json](./36388-hero-and-daughter.json) |
 | Hero Bank | 61446 | [61446-hero-bank.json](./61446-hero-bank.json) |
+| Hero Bank 2 | 60825 | [60825-hero-bank-2.json](./60825-hero-bank-2.json) |
 | Hero Barrier | 29747 | [29747-hero-barrier.json](./29747-hero-barrier.json) |
 | Hero Battle | 33001 | [33001-hero-battle.json](./33001-hero-battle.json) |
 | Hero Beetle War: Tower Attack | 257252 | [257252-hero-beetle-war-tower-attack.json](./257252-hero-beetle-war-tower-attack.json) |
@@ -5537,6 +5540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Mysteries: Return to Titanic | 206730 | [206730-hidden-mysteries-return-to-titanic.json](./206730-hidden-mysteries-return-to-titanic.json) |
 | Hidden Mysteries: Royal Family Secrets | 121261 | [121261-hidden-mysteries-royal-family-secrets.json](./121261-hidden-mysteries-royal-family-secrets.json) |
 | Hidden Mysteries: Salem Secrets | 66193 | [66193-hidden-mysteries-salem-secrets.json](./66193-hidden-mysteries-salem-secrets.json) |
+| Hidden Mysteries: Vampire Secrets | 60831 | [60831-hidden-mysteries-vampire-secrets.json](./60831-hidden-mysteries-vampire-secrets.json) |
 | Hidden Mystery: Triple pack | 130658 | [130658-hidden-mystery-triple-pack.json](./130658-hidden-mystery-triple-pack.json) |
 | Hidden Nature | 372017 | [372017-hidden-nature.json](./372017-hidden-nature.json) |
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
@@ -5987,6 +5991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Daze: Afterschool Stories | 264349 | [264349-high-school-daze-afterschool-stories.json](./264349-high-school-daze-afterschool-stories.json) |
 | High School Daze: Junior Year | 264348 | [264348-high-school-daze-junior-year.json](./264348-high-school-daze-junior-year.json) |
 | High School Detective: Romance Visual Novel | 300780 | [300780-high-school-detective-romance-visual-novel.json](./300780-high-school-detective-romance-visual-novel.json) |
+| High School Dreams: Best Friends Forever | 60942 | [60942-high-school-dreams-best-friends-forever.json](./60942-high-school-dreams-best-friends-forever.json) |
 | High School Escape 2 | 96702 | [96702-high-school-escape-2.json](./96702-high-school-escape-2.json) |
 | High School Fighters | 231430 | [231430-high-school-fighters.json](./231430-high-school-fighters.json) |
 | High School Games Offline 2023 | 296759 | [296759-high-school-games-offline-2023.json](./296759-high-school-games-offline-2023.json) |
@@ -8959,6 +8964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Ride Elevators Like a Human | 414761 | [414761-how-to-ride-elevators-like-a-human.json](./414761-how-to-ride-elevators-like-a-human.json) |
 | How to Say Goodbye | 126445 | [126445-how-to-say-goodbye.json](./126445-how-to-say-goodbye.json) |
 | How to Sing to Open Your Heart: Remastered | 188424 | [188424-how-to-sing-to-open-your-heart-remastered.json](./188424-how-to-sing-to-open-your-heart-remastered.json) |
+| How to Snooker | 60950 | [60950-how-to-snooker.json](./60950-how-to-snooker.json) |
 | How to Sovle Rubiks Cube in 30 seconds | 103669 | [103669-how-to-sovle-rubiks-cube-in-30-seconds.json](./103669-how-to-sovle-rubiks-cube-in-30-seconds.json) |
 | How to Spend Holidays | 82989 | [82989-how-to-spend-holidays.json](./82989-how-to-spend-holidays.json) |
 | How to Survive 2: Dead Dynamite | 169929 | [169929-how-to-survive-2-dead-dynamite.json](./169929-how-to-survive-2-dead-dynamite.json) |
@@ -9748,6 +9754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyakka Ryoran Master Samurai Chronicles | 408853 | [408853-hyakka-ryoran-master-samurai-chronicles.json](./408853-hyakka-ryoran-master-samurai-chronicles.json) |
 | Hyakka Ryouran Elixir | 60776 | [60776-hyakka-ryouran-elixir.json](./60776-hyakka-ryouran-elixir.json) |
 | Hyakka Ryouran Elixir: Record of Torenia Revival | 248788 | [248788-hyakka-ryouran-elixir-record-of-torenia-revival.json](./248788-hyakka-ryouran-elixir-record-of-torenia-revival.json) |
+| Hyakka Yakou | 60953 | [60953-hyakka-yakou.json](./60953-hyakka-yakou.json) |
 | Hyakkano: 100 Girlfriends | 408167 | [408167-hyakkano-100-girlfriends.json](./408167-hyakkano-100-girlfriends.json) |
 | Hyakki Fantasia Mini Game Selection Vol.1 | 396119 | [396119-hyakki-fantasia-mini-game-selection-vol-1.json](./396119-hyakki-fantasia-mini-game-selection-vol-1.json) |
 | Hyakki Ryouran no Yakata x Kawarazaki-ke no Ichizoku | 77868 | [77868-hyakki-ryouran-no-yakata-x-kawarazaki-ke-no-ichizoku.json](./77868-hyakki-ryouran-no-yakata-x-kawarazaki-ke-no-ichizoku.json) |
