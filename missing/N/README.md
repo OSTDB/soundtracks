@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Näkemiin: Hongkong | 85757 | [85757-nakemiin-hongkong.json](./85757-nakemiin-hongkong.json) |
 | Naki no Ryuu: Mahjong Hishou-den | 37912 | [37912-naki-no-ryuu-mahjong-hishou-den.json](./37912-naki-no-ryuu-mahjong-hishou-den.json) |
 | Nakiti Generations | 31762 | [31762-nakiti-generations.json](./31762-nakiti-generations.json) |
+| Naklua VR | 75598 | [75598-naklua-vr.json](./75598-naklua-vr.json) |
 | Nakobeat | 325313 | [325313-nakobeat.json](./325313-nakobeat.json) |
 | Nakornsampan | 181046 | [181046-nakornsampan.json](./181046-nakornsampan.json) |
 | Nakoruru: Anohito kara no Okurimono | 57624 | [57624-nakoruru-anohito-kara-no-okurimono.json](./57624-nakoruru-anohito-kara-no-okurimono.json) |
@@ -2172,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerds & Ammo | 391585 | [391585-nerds-and-ammo.json](./391585-nerds-and-ammo.json) |
 | Nerds Rope: Follow the Leader Game | 373535 | [373535-nerds-rope-follow-the-leader-game.json](./373535-nerds-rope-follow-the-leader-game.json) |
 | Nerdtastic Norman & The Soul Fragments | 295400 | [295400-nerdtastic-norman-and-the-soul-fragments.json](./295400-nerdtastic-norman-and-the-soul-fragments.json) |
+| Nerepis | 75577 | [75577-nerepis.json](./75577-nerepis.json) |
 | NERF Arcade | 125781 | [125781-nerf-arcade.json](./125781-nerf-arcade.json) |
 | Nerf Arena Blast | 68701 | [68701-nerf-arena-blast.json](./68701-nerf-arena-blast.json) |
 | Nerf Jr. Foam Balster: Attack of The Kleptons | 210037 | [210037-nerf-jr-foam-balster-attack-of-the-kleptons.json](./210037-nerf-jr-foam-balster-attack-of-the-kleptons.json) |
@@ -2716,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New World Horizon | 114955 | [114955-new-world-horizon.json](./114955-new-world-horizon.json) |
 | New World Order | 19215 | [19215-new-world-order.json](./19215-new-world-order.json) |
 | New World: Rise of the Angry Earth | 266781 | [266781-new-world-rise-of-the-angry-earth.json](./266781-new-world-rise-of-the-angry-earth.json) |
+| New World: The Tupis | 75603 | [75603-new-world-the-tupis.json](./75603-new-world-the-tupis.json) |
 | New XCommander | 337758 | [337758-new-xcommander.json](./337758-new-xcommander.json) |
 | New Yankee 6: In Pharaoh's Court | 117096 | [117096-new-yankee-6-in-pharaohs-court.json](./117096-new-yankee-6-in-pharaohs-court.json) |
 | New Yankee 7: Deer Hunters | 117426 | [117426-new-yankee-7-deer-hunters.json](./117426-new-yankee-7-deer-hunters.json) |
