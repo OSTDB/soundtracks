@@ -1216,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand Castle | 192617 | [192617-sand-castle.json](./192617-sand-castle.json) |
 | Sand Castles | 161387 | [161387-sand-castles.json](./161387-sand-castles.json) |
 | Sand In a Box | 306434 | [306434-sand-in-a-box.json](./306434-sand-in-a-box.json) |
+| Sand is the Soul | 75610 | [75610-sand-is-the-soul.json](./75610-sand-is-the-soul.json) |
 | Sand Land: Collector Edition | 283584 | [283584-sand-land-collector-edition.json](./283584-sand-land-collector-edition.json) |
 | Sand Land: Custom Vehicle Colors - 3 Types | 311735 | [311735-sand-land-custom-vehicle-colors-3-types.json](./311735-sand-land-custom-vehicle-colors-3-types.json) |
 | Sand Legends | 335078 | [335078-sand-legends.json](./335078-sand-legends.json) |
@@ -10984,6 +10985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slumberer's Universe | 226622 | [226622-slumberers-universe.json](./226622-slumberers-universe.json) |
 | Slumberfish! | 243954 | [243954-slumberfish.json](./243954-slumberfish.json) |
 | Slumberfish!: Catching Z's | 288677 | [288677-slumberfish-catching-zs.json](./288677-slumberfish-catching-zs.json) |
+| Slumlord Simulator | 75629 | [75629-slumlord-simulator.json](./75629-slumlord-simulator.json) |
 | Slumpunk | 382505 | [382505-slumpunk.json](./382505-slumpunk.json) |
 | Slums of Tetsoidea | 186820 | [186820-slums-of-tetsoidea.json](./186820-slums-of-tetsoidea.json) |
 | Slurpee x Tetris Handheld Game | 365005 | [365005-slurpee-x-tetris-handheld-game.json](./365005-slurpee-x-tetris-handheld-game.json) |
@@ -12521,6 +12523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sock It | 196236 | [196236-sock-it.json](./196236-sock-it.json) |
 | Sock Monster | 143012 | [143012-sock-monster.json](./143012-sock-monster.json) |
 | Sock Puppet Superstar | 400678 | [400678-sock-puppet-superstar.json](./400678-sock-puppet-superstar.json) |
+| Sockman | 75634 | [75634-sockman.json](./75634-sockman.json) |
 | Sockpuppet Noir | 191655 | [191655-sockpuppet-noir.json](./191655-sockpuppet-noir.json) |
 | Socks | 181679 | [181679-socks.json](./181679-socks.json) |
 | Socks & Pants | 357300 | [357300-socks-and-pants.json](./357300-socks-and-pants.json) |
