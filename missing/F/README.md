@@ -1355,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Tennis | 221210 | [221210-family-tennis.json](./221210-family-tennis.json) |
 | Family Tennis | 239162 | [239162-family-tennis.json](./239162-family-tennis.json) |
 | Family Tennis | 80651 | [80651-family-tennis.json](./80651-family-tennis.json) |
+| Family Tennis 3D | 63701 | [63701-family-tennis-3d.json](./63701-family-tennis-3d.json) |
 | Family Tennis Advance | 49581 | [49581-family-tennis-advance.json](./49581-family-tennis-advance.json) |
 | Family Tetris | 251359 | [251359-family-tetris.json](./251359-family-tetris.json) |
 | Family Town | 219265 | [219265-family-town.json](./219265-family-town.json) |
@@ -3362,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field Day | 40332 | [40332-field-day.json](./40332-field-day.json) |
 | Field Day | 408217 | [408217-field-day.json](./408217-field-day.json) |
 | Field Goal | 172656 | [172656-field-goal.json](./172656-field-goal.json) |
+| Field Goal Contest | 64250 | [64250-field-goal-contest.json](./64250-field-goal-contest.json) |
 | Field Hospital: Dr. Taylor's Story | 135728 | [135728-field-hospital-dr-taylors-story.json](./135728-field-hospital-dr-taylors-story.json) |
 | Field of Enemies | 374058 | [374058-field-of-enemies.json](./374058-field-of-enemies.json) |
 | Field of Fate | 184622 | [184622-field-of-fate.json](./184622-field-of-fate.json) |
@@ -3477,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Mobile | 56345 | [56345-fifa-mobile.json](./56345-fifa-mobile.json) |
 | FIFA Mobile World | 174726 | [174726-fifa-mobile-world.json](./174726-fifa-mobile-world.json) |
 | FIFA Online | 66910 | [66910-fifa-online.json](./66910-fifa-online.json) |
+| FIFA Online 2 | 64285 | [64285-fifa-online-2.json](./64285-fifa-online-2.json) |
 | FIFA Rivals | 335513 | [335513-fifa-rivals.json](./335513-fifa-rivals.json) |
 | FIFA Soccer | 21722 | [21722-fifa-soccer.json](./21722-fifa-soccer.json) |
 | FIFA Soccer 06 | 229741 | [229741-fifa-soccer-06.json](./229741-fifa-soccer-06.json) |
@@ -6880,6 +6883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Girls | 149869 | [149869-flying-girls.json](./149869-flying-girls.json) |
 | Flying Guys | 361741 | [361741-flying-guys.json](./361741-flying-guys.json) |
 | Flying Hamster HD | 52220 | [52220-flying-hamster-hd.json](./52220-flying-hamster-hd.json) |
+| Flying Hero | 64265 | [64265-flying-hero.json](./64265-flying-hero.json) |
 | Flying Hero VR | 164504 | [164504-flying-hero-vr.json](./164504-flying-hero-vr.json) |
 | Flying Hero X | 146684 | [146684-flying-hero-x.json](./146684-flying-hero-x.json) |
 | Flying Heroes | 24119 | [24119-flying-heroes.json](./24119-flying-heroes.json) |
@@ -10639,6 +10643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Physics | 85162 | [85162-funky-physics.json](./85162-funky-physics.json) |
 | Funky Punch | 64687 | [64687-funky-punch.json](./64687-funky-punch.json) |
 | Funky Punch XL | 70627 | [70627-funky-punch-xl.json](./70627-funky-punch-xl.json) |
+| Funky Smugglers | 64278 | [64278-funky-smugglers.json](./64278-funky-smugglers.json) |
 | Funkyheart | 369894 | [369894-funkyheart.json](./369894-funkyheart.json) |
 | FunkyMouse's ISO | 340271 | [340271-funkymouses-iso.json](./340271-funkymouses-iso.json) |
 | Funnels and Buckets | 46644 | [46644-funnels-and-buckets.json](./46644-funnels-and-buckets.json) |
