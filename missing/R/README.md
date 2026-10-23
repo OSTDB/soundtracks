@@ -4873,6 +4873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retroid | 181176 | [181176-retroid.json](./181176-retroid.json) |
 | Retroid | 268414 | [268414-retroid.json](./268414-retroid.json) |
 | Retroid: Cartridge Protocol | 361006 | [361006-retroid-cartridge-protocol.json](./361006-retroid-cartridge-protocol.json) |
+| Retroids | 56850 | [56850-retroids.json](./56850-retroids.json) |
 | Retrojam 3 | 384214 | [384214-retrojam-3.json](./384214-retrojam-3.json) |
 | Retrojam 4 | 384216 | [384216-retrojam-4.json](./384216-retrojam-4.json) |
 | Retrojam I | 314285 | [314285-retrojam-i.json](./314285-retrojam-i.json) |
@@ -6081,6 +6082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rings of Hell | 160217 | [160217-rings-of-hell.json](./160217-rings-of-hell.json) |
 | Rings of Medusa | 14507 | [14507-rings-of-medusa.json](./14507-rings-of-medusa.json) |
 | Rings of Medusa II: The Return of Medusa | 67062 | [67062-rings-of-medusa-ii-the-return-of-medusa.json](./67062-rings-of-medusa-ii-the-return-of-medusa.json) |
+| Rings of Night | 56851 | [56851-rings-of-night.json](./56851-rings-of-night.json) |
 | Rings of Saturn | 108324 | [108324-rings-of-saturn.json](./108324-rings-of-saturn.json) |
 | Rings of Saturn | 24843 | [24843-rings-of-saturn.json](./24843-rings-of-saturn.json) |
 | Rings of Saturn: Deep Weeb | 231361 | [231361-rings-of-saturn-deep-weeb.json](./231361-rings-of-saturn-deep-weeb.json) |
@@ -8198,6 +8200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolaball | 94693 | [94693-rolaball.json](./94693-rolaball.json) |
 | Rolan's Curse | 49023 | [49023-rolans-curse.json](./49023-rolans-curse.json) |
 | Rolan's Curse 2 | 49022 | [49022-rolans-curse-2.json](./49022-rolans-curse-2.json) |
+| Rolan's Quest | 56854 | [56854-rolans-quest.json](./56854-rolans-quest.json) |
 | Roland Ahoy! | 39147 | [39147-roland-ahoy.json](./39147-roland-ahoy.json) |
 | Roland Garros French Open 2000 | 94379 | [94379-roland-garros-french-open-2000.json](./94379-roland-garros-french-open-2000.json) |
 | Roland garros tennis 2000 | 19155 | [19155-roland-garros-tennis-2000.json](./19155-roland-garros-tennis-2000.json) |
