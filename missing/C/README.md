@@ -7319,6 +7319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Titans | 124661 | [124661-city-of-titans.json](./124661-city-of-titans.json) |
 | City of Villains | 20457 | [20457-city-of-villains.json](./20457-city-of-villains.json) |
 | City of Voices | 327414 | [327414-city-of-voices.json](./327414-city-of-voices.json) |
+| City of Wonder | 65952 | [65952-city-of-wonder.json](./65952-city-of-wonder.json) |
 | City Panic! | 269756 | [269756-city-panic.json](./269756-city-panic.json) |
 | City Parking Driver: Draw The Path Simulator | 271839 | [271839-city-parking-driver-draw-the-path-simulator.json](./271839-city-parking-driver-draw-the-path-simulator.json) |
 | City Party | 384867 | [384867-city-party.json](./384867-city-party.json) |
@@ -13244,6 +13245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Steam Bros 2 | 35640 | [35640-crazy-steam-bros-2.json](./35640-crazy-steam-bros-2.json) |
 | Crazy Stone Deep Learning | 208915 | [208915-crazy-stone-deep-learning.json](./208915-crazy-stone-deep-learning.json) |
 | Crazy Street Traffic Race | 105520 | [105520-crazy-street-traffic-race.json](./105520-crazy-street-traffic-race.json) |
+| Crazy Streets - Thrill Drive 4 | 65912 | [65912-crazy-streets-thrill-drive-4.json](./65912-crazy-streets-thrill-drive-4.json) |
 | Crazy Stunt Driver: Extreme Racing Simulator | 300859 | [300859-crazy-stunt-driver-extreme-racing-simulator.json](./300859-crazy-stunt-driver-extreme-racing-simulator.json) |
 | Crazy Sue goes on | 37276 | [37276-crazy-sue-goes-on.json](./37276-crazy-sue-goes-on.json) |
 | Crazy Super Bunnies | 234692 | [234692-crazy-super-bunnies.json](./234692-crazy-super-bunnies.json) |
