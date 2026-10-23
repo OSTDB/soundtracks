@@ -5258,6 +5258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locator: The Search for Abigail Lidari | 257990 | [257990-locator-the-search-for-abigail-lidari.json](./257990-locator-the-search-for-abigail-lidari.json) |
 | Loch Mess | 157400 | [157400-loch-mess.json](./157400-loch-mess.json) |
 | Loch Ness | 182506 | [182506-loch-ness.json](./182506-loch-ness.json) |
+| Lochjaw | 92807 | [92807-lochjaw.json](./92807-lochjaw.json) |
 | LochNess | 242379 | [242379-lochness.json](./242379-lochness.json) |
 | Locis | 138553 | [138553-locis.json](./138553-locis.json) |
 | Lock | 68655 | [68655-lock.json](./68655-lock.json) |
@@ -8007,6 +8008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lynked: Banner of the Spark | 314256 | [314256-lynked-banner-of-the-spark.json](./314256-lynked-banner-of-the-spark.json) |
 | Lynn: The Girl Drawn on Puzzles | 130233 | [130233-lynn-the-girl-drawn-on-puzzles.json](./130233-lynn-the-girl-drawn-on-puzzles.json) |
 | Lynne | 105107 | [105107-lynne.json](./105107-lynne.json) |
+| Lynx Othello | 92902 | [92902-lynx-othello.json](./92902-lynx-othello.json) |
 | LyokoVR | 169337 | [169337-lyokovr.json](./169337-lyokovr.json) |
 | Lyonesse | 190493 | [190493-lyonesse.json](./190493-lyonesse.json) |
 | Lyra | 323986 | [323986-lyra.json](./323986-lyra.json) |
