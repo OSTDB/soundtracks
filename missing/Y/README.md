@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoake no Mariko | 65455 | [65455-yoake-no-mariko.json](./65455-yoake-no-mariko.json) |
 | Yoake no Mariko 2nd Act | 55858 | [55858-yoake-no-mariko-2nd-act.json](./55858-yoake-no-mariko-2nd-act.json) |
 | YoBro | 37730 | [37730-yobro.json](./37730-yobro.json) |
+| Yochi | 92331 | [92331-yochi.json](./92331-yochi.json) |
 | Yoda | 327966 | [327966-yoda.json](./327966-yoda.json) |
 | Yoda's Escape | 243820 | [243820-yodas-escape.json](./243820-yodas-escape.json) |
 | Yodel-Oh! | 253298 | [253298-yodel-oh.json](./253298-yodel-oh.json) |
