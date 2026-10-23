@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Pirates | 237639 | [237639-war-pirates.json](./237639-war-pirates.json) |
 | War Plan Orange: Dreadnoughts in the Pacific 1922 - 1930 | 215078 | [215078-war-plan-orange-dreadnoughts-in-the-pacific-1922-1930.json](./215078-war-plan-orange-dreadnoughts-in-the-pacific-1922-1930.json) |
 | War Plan Pacific | 59497 | [59497-war-plan-pacific.json](./59497-war-plan-pacific.json) |
+| War Planet Online | 75605 | [75605-war-planet-online.json](./75605-war-planet-online.json) |
 | War Platform | 112752 | [112752-war-platform.json](./112752-war-platform.json) |
 | War Platform: US Aircraft Carrier | 170857 | [170857-war-platform-us-aircraft-carrier.json](./170857-war-platform-us-aircraft-carrier.json) |
 | War Platform: VR Air Force Golden - Enhanced Edition | 170858 | [170858-war-platform-vr-air-force-golden-enhanced-edition.json](./170858-war-platform-vr-air-force-golden-enhanced-edition.json) |
