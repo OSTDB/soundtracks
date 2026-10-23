@@ -1670,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZOMG! | 25020 | [25020-zomg.json](./25020-zomg.json) |
 | zOMG!es | 388114 | [388114-zomg-es.json](./388114-zomg-es.json) |
 | ZomGoBo | 303886 | [303886-zomgobo.json](./303886-zomgobo.json) |
+| ZomNomNom | 56952 | [56952-zomnomnom.json](./56952-zomnomnom.json) |
 | Zomon: The Path of Heroes | 19208 | [19208-zomon-the-path-of-heroes.json](./19208-zomon-the-path-of-heroes.json) |
 | Zompell | 357439 | [357439-zompell.json](./357439-zompell.json) |
 | Zompiercer | 132247 | [132247-zompiercer.json](./132247-zompiercer.json) |
