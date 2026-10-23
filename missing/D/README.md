@@ -9847,6 +9847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donald & Margarida | 281883 | [281883-donald-and-margarida.json](./281883-donald-and-margarida.json) |
 | Donald Dowell and the Ghost of Barker Manor | 168386 | [168386-donald-dowell-and-the-ghost-of-barker-manor.json](./168386-donald-dowell-and-the-ghost-of-barker-manor.json) |
 | Donald Duck | 215079 | [215079-donald-duck.json](./215079-donald-duck.json) |
+| Donald Duck no Mahou no Boushi | 79059 | [79059-donald-duck-no-mahou-no-boushi.json](./79059-donald-duck-no-mahou-no-boushi.json) |
 | Donald Duck's Playground | 12052 | [12052-donald-ducks-playground.json](./12052-donald-ducks-playground.json) |
 | Donald Duck's Speedboat | 40638 | [40638-donald-ducks-speedboat.json](./40638-donald-ducks-speedboat.json) |
 | Donald Fuck | 251389 | [251389-donald-fuck.json](./251389-donald-fuck.json) |
@@ -10496,6 +10497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorabase: Dramatic Stadium | 91771 | [91771-dorabase-dramatic-stadium.json](./91771-dorabase-dramatic-stadium.json) |
 | Dorachan | 178099 | [178099-dorachan.json](./178099-dorachan.json) |
 | Doradora Panic | 151679 | [151679-doradora-panic.json](./151679-doradora-panic.json) |
+| Doraemon | 79111 | [79111-doraemon.json](./79111-doraemon.json) |
 | Doraemon 2: Nobita to Hikari no Shinden | 3473 | [3473-doraemon-2-nobita-to-hikari-no-shinden.json](./3473-doraemon-2-nobita-to-hikari-no-shinden.json) |
 | Doraemon 2: SOS! Otogi no Kuni | 78579 | [78579-doraemon-2-sos-otogi-no-kuni.json](./78579-doraemon-2-sos-otogi-no-kuni.json) |
 | Doraemon 3: Nobita no Machi SOS! | 3474 | [3474-doraemon-3-nobita-no-machi-sos.json](./3474-doraemon-3-nobita-no-machi-sos.json) |
