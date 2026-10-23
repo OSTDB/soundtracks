@@ -4067,6 +4067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gear | 322583 | [322583-ninja-gear.json](./322583-ninja-gear.json) |
 | Ninja Girl | 158543 | [158543-ninja-girl.json](./158543-ninja-girl.json) |
 | Ninja Girl and the Mysterious Army of Urban Legend Monsters! ~Hunt of the Headless Horseman~ | 119562 | [119562-ninja-girl-and-the-mysterious-army-of-urban-legend-monsters-hunt-of-the-headless-horseman.json](./119562-ninja-girl-and-the-mysterious-army-of-urban-legend-monsters-hunt-of-the-headless-horseman.json) |
+| Ninja Girl Ayame | 82630 | [82630-ninja-girl-ayame.json](./82630-ninja-girl-ayame.json) |
 | Ninja Girls: Kunoichi Puzzle | 315840 | [315840-ninja-girls-kunoichi-puzzle.json](./315840-ninja-girls-kunoichi-puzzle.json) |
 | Ninja Glove | 338937 | [338937-ninja-glove.json](./338937-ninja-glove.json) |
 | Ninja Golf | 11121 | [11121-ninja-golf.json](./11121-ninja-golf.json) |
@@ -4779,6 +4780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noah's Ark | 48192 | [48192-noahs-ark.json](./48192-noahs-ark.json) |
 | Noah's Ark Animal Adventures | 213377 | [213377-noahs-ark-animal-adventures.json](./213377-noahs-ark-animal-adventures.json) |
 | Noah's Ark: Animal Adventure | 326586 | [326586-noahs-ark-animal-adventure.json](./326586-noahs-ark-animal-adventure.json) |
+| Noah's Bottle | 82604 | [82604-noahs-bottle.json](./82604-noahs-bottle.json) |
 | Noah's Cradle | 85313 | [85313-noahs-cradle.json](./85313-noahs-cradle.json) |
 | Noah's Descent into Madness | 267096 | [267096-noahs-descent-into-madness.json](./267096-noahs-descent-into-madness.json) |
 | Noah's Dilemma | 291750 | [291750-noahs-dilemma.json](./291750-noahs-dilemma.json) |
@@ -5782,6 +5784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NTR homestay | 132191 | [132191-ntr-homestay.json](./132191-ntr-homestay.json) |
 | NTR Hunter: Hisako’s Secret | 386949 | [386949-ntr-hunter-hisako-s-secret.json](./386949-ntr-hunter-hisako-s-secret.json) |
 | NTR Life | 392884 | [392884-ntr-life.json](./392884-ntr-life.json) |
+| NTR!? NTRed!? Trendy Slut's One Million Yen Repaying Project! | 82647 | [82647-ntr-ntred-trendy-sluts-one-million-yen-repaying-project.json](./82647-ntr-ntred-trendy-sluts-one-million-yen-repaying-project.json) |
 | NTR'd By Clumsiness | 236205 | [236205-ntrd-by-clumsiness.json](./236205-ntrd-by-clumsiness.json) |
 | NTRed Class Rep Yukino: H Days of Class Rep Who Can't Say No | 83173 | [83173-ntred-class-rep-yukino-h-days-of-class-rep-who-cant-say-no.json](./83173-ntred-class-rep-yukino-h-days-of-class-rep-who-cant-say-no.json) |
 | NTRstory | 245933 | [245933-ntrstory.json](./245933-ntrstory.json) |
