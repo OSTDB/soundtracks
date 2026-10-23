@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gacha Life 2 | 307274 | [307274-gacha-life-2.json](./307274-gacha-life-2.json) |
 | Gacha Memories | 102680 | [102680-gacha-memories.json](./102680-gacha-memories.json) |
 | Gacha Pets | 296531 | [296531-gacha-pets.json](./296531-gacha-pets.json) |
+| Gacha Studio | 98854 | [98854-gacha-studio.json](./98854-gacha-studio.json) |
 | Gacha World | 281450 | [281450-gacha-world.json](./281450-gacha-world.json) |
 | Gacha&Gacha | 413465 | [413465-gacha-and-gacha.json](./413465-gacha-and-gacha.json) |
 | Gachaga Champ | 257308 | [257308-gachaga-champ.json](./257308-gachaga-champ.json) |
