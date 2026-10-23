@@ -7420,6 +7420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludicrium | 312924 | [312924-ludicrium.json](./312924-ludicrium.json) |
 | Ludicrous Leap | 289243 | [289243-ludicrous-leap.json](./289243-ludicrous-leap.json) |
 | Ludicrous Speed | 102162 | [102162-ludicrous-speed.json](./102162-ludicrous-speed.json) |
+| Ludo | 88853 | [88853-ludo.json](./88853-ludo.json) |
 | Ludo Anceint | 142938 | [142938-ludo-anceint.json](./142938-ludo-anceint.json) |
 | Ludo Blitz | 58751 | [58751-ludo-blitz.json](./58751-ludo-blitz.json) |
 | Ludo King | 169778 | [169778-ludo-king.json](./169778-ludo-king.json) |
