@@ -5919,6 +5919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cho Chabudai Gaeshi! 2 | 313483 | [313483-cho-chabudai-gaeshi-2.json](./313483-cho-chabudai-gaeshi-2.json) |
 | Cho Dengeki Stryker | 36236 | [36236-cho-dengeki-stryker.json](./36236-cho-dengeki-stryker.json) |
 | Cho Noi | 382527 | [382527-cho-noi.json](./382527-cho-noi.json) |
+| Cho Ren Sha 68K | 98277 | [98277-cho-ren-sha-68k.json](./98277-cho-ren-sha-68k.json) |
 | Cho Tousouchuu Atsumare Saikyou no Tousousya Tachi | 55844 | [55844-cho-tousouchuu-atsumare-saikyou-no-tousousya-tachi.json](./55844-cho-tousouchuu-atsumare-saikyou-no-tousousya-tachi.json) |
 | Cho-Nazo-Oh | 146276 | [146276-cho-nazo-oh.json](./146276-cho-nazo-oh.json) |
 | Cho-ricchi! Tamagotchi no Puchi Puchi Omisecchi de Violin Lesson | 222310 | [222310-cho-ricchi-tamagotchi-no-puchi-puchi-omisecchi-de-violin-lesson.json](./222310-cho-ricchi-tamagotchi-no-puchi-puchi-omisecchi-de-violin-lesson.json) |
@@ -10007,6 +10008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command: Modern Operations Live - The King of the Border | 167868 | [167868-command-modern-operations-live-the-king-of-the-border.json](./167868-command-modern-operations-live-the-king-of-the-border.json) |
 | Command: Showcase - Operation Desert Falcon | 266793 | [266793-command-showcase-operation-desert-falcon.json](./266793-command-showcase-operation-desert-falcon.json) |
 | Command? Dungeon World: Twine Version | 184423 | [184423-command-dungeon-world-twine-version.json](./184423-command-dungeon-world-twine-version.json) |
+| Commandeer Armament | 98309 | [98309-commandeer-armament.json](./98309-commandeer-armament.json) |
 | Commander - World 1 | 130829 | [130829-commander-world-1.json](./130829-commander-world-1.json) |
 | Commander Babes | 127930 | [127930-commander-babes.json](./127930-commander-babes.json) |
 | Commander Blood | 50473 | [50473-commander-blood.json](./50473-commander-blood.json) |
@@ -11822,6 +11824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmonaut | 228342 | [228342-cosmonaut.json](./228342-cosmonaut.json) |
 | Cosmonaut | 81103 | [81103-cosmonaut.json](./81103-cosmonaut.json) |
 | Cosmonauta | 129486 | [129486-cosmonauta.json](./129486-cosmonauta.json) |
+| Cosmonet | 98299 | [98299-cosmonet.json](./98299-cosmonet.json) |
 | Cosmonious High | 194955 | [194955-cosmonious-high.json](./194955-cosmonious-high.json) |
 | Cosmonuts | 86200 | [86200-cosmonuts.json](./86200-cosmonuts.json) |
 | CosmoNutz | 194173 | [194173-cosmonutz.json](./194173-cosmonutz.json) |
@@ -12109,6 +12112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courting Death | 318791 | [318791-courting-death.json](./318791-courting-death.json) |
 | Courtroom Chaos: Starring Arnold Schwarzenegger | 410347 | [410347-courtroom-chaos-starring-arnold-schwarzenegger.json](./410347-courtroom-chaos-starring-arnold-schwarzenegger.json) |
 | Courtroom Chaos: Starring Snoop Dogg | 371262 | [371262-courtroom-chaos-starring-snoop-dogg.json](./371262-courtroom-chaos-starring-snoop-dogg.json) |
+| Courtyard Broomball | 98311 | [98311-courtyard-broomball.json](./98311-courtyard-broomball.json) |
 | Cousbians: Are They Cousins or Lesbians? | 182908 | [182908-cousbians-are-they-cousins-or-lesbians.json](./182908-cousbians-are-they-cousins-or-lesbians.json) |
 | Cov Shooter | 230244 | [230244-cov-shooter.json](./230244-cov-shooter.json) |
 | Covechrome | 341645 | [341645-covechrome.json](./341645-covechrome.json) |
@@ -13755,6 +13759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cronos: Lazarus | 404917 | [404917-cronos-lazarus.json](./404917-cronos-lazarus.json) |
 | Cronos: The New Dawn - Deluxe Edition | 365002 | [365002-cronos-the-new-dawn-deluxe-edition.json](./365002-cronos-the-new-dawn-deluxe-edition.json) |
 | Cronostase Electric Collection | 225899 | [225899-cronostase-electric-collection.json](./225899-cronostase-electric-collection.json) |
+| Cronous | 98286 | [98286-cronous.json](./98286-cronous.json) |
 | Cronous Online | 213028 | [213028-cronous-online.json](./213028-cronous-online.json) |
 | Cronus Monument | 293235 | [293235-cronus-monument.json](./293235-cronus-monument.json) |
 | Cronus' Tomb: First Quest | 419368 | [419368-cronus-tomb-first-quest.json](./419368-cronus-tomb-first-quest.json) |
