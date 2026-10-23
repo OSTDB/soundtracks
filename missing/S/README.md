@@ -7120,6 +7120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Giant Robots and Wallrun | 293688 | [293688-shoot-giant-robots-and-wallrun.json](./293688-shoot-giant-robots-and-wallrun.json) |
 | Shoot Girl | 113022 | [113022-shoot-girl.json](./113022-shoot-girl.json) |
 | Shoot Hit | 107103 | [107103-shoot-hit.json](./107103-shoot-hit.json) |
+| Shoot Loop VR | 72498 | [72498-shoot-loop-vr.json](./72498-shoot-loop-vr.json) |
 | Shoot Mania VR: Fun Zombies | 32213 | [32213-shoot-mania-vr-fun-zombies.json](./32213-shoot-mania-vr-fun-zombies.json) |
 | Shoot Many Robots: Arena Kings | 64915 | [64915-shoot-many-robots-arena-kings.json](./64915-shoot-many-robots-arena-kings.json) |
 | Shoot n Scroll 3D | 261518 | [261518-shoot-n-scroll-3d.json](./261518-shoot-n-scroll-3d.json) |
@@ -11942,6 +11943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Ghost Warrior Contracts: World Flags Skin Pack | 370319 | [370319-sniper-ghost-warrior-contracts-world-flags-skin-pack.json](./370319-sniper-ghost-warrior-contracts-world-flags-skin-pack.json) |
 | Sniper Ghost Warrior Unlimited Edition | 148158 | [148158-sniper-ghost-warrior-unlimited-edition.json](./148158-sniper-ghost-warrior-unlimited-edition.json) |
 | Sniper Honor: 3D Shooting Game | 223914 | [223914-sniper-honor-3d-shooting-game.json](./223914-sniper-honor-3d-shooting-game.json) |
+| Sniper Hunter Adventure 3D | 72506 | [72506-sniper-hunter-adventure-3d.json](./72506-sniper-hunter-adventure-3d.json) |
 | Sniper Hunter Shooter | 264581 | [264581-sniper-hunter-shooter.json](./264581-sniper-hunter-shooter.json) |
 | Sniper Killer | 249933 | [249933-sniper-killer.json](./249933-sniper-killer.json) |
 | Sniper Master: City Hunter | 227482 | [227482-sniper-master-city-hunter.json](./227482-sniper-master-city-hunter.json) |
@@ -15887,6 +15889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Wave | 181912 | [181912-space-wave.json](./181912-space-wave.json) |
 | Space Wave Race | 149216 | [149216-space-wave-race.json](./149216-space-wave-race.json) |
 | Space Waves | 189170 | [189170-space-waves.json](./189170-space-waves.json) |
+| Space Way | 72490 | [72490-space-way.json](./72490-space-way.json) |
 | Space Way: Echo of the Galaxy | 365867 | [365867-space-way-echo-of-the-galaxy.json](./365867-space-way-echo-of-the-galaxy.json) |
 | Space Whip | 61903 | [61903-space-whip.json](./61903-space-whip.json) |
 | Space Wing Cadet | 244315 | [244315-space-wing-cadet.json](./244315-space-wing-cadet.json) |
@@ -16050,6 +16053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceship Survivors | 244732 | [244732-spaceship-survivors.json](./244732-spaceship-survivors.json) |
 | Spaceship Tactics | 338269 | [338269-spaceship-tactics.json](./338269-spaceship-tactics.json) |
 | Spaceship Trouble | 166705 | [166705-spaceship-trouble.json](./166705-spaceship-trouble.json) |
+| Spaceship Warlock | 72522 | [72522-spaceship-warlock.json](./72522-spaceship-warlock.json) |
 | Spaceshipment | 328302 | [328302-spaceshipment.json](./328302-spaceshipment.json) |
 | Spaceships | 189907 | [189907-spaceships.json](./189907-spaceships.json) |
 | SpaceShips | 151448 | [151448-spaceships.json](./151448-spaceships.json) |
@@ -21001,6 +21005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Figure Combat: Sniper Rifle | 351652 | [351652-stick-figure-combat-sniper-rifle.json](./351652-stick-figure-combat-sniper-rifle.json) |
 | Stick Figure Combat: Top Hat | 351657 | [351657-stick-figure-combat-top-hat.json](./351657-stick-figure-combat-top-hat.json) |
 | Stick Frame | 331272 | [331272-stick-frame.json](./331272-stick-frame.json) |
+| Stick Game | 72518 | [72518-stick-game.json](./72518-stick-game.json) |
 | Stick Go story | 201704 | [201704-stick-go-story.json](./201704-stick-go-story.json) |
 | Stick Hero | 87175 | [87175-stick-hero.json](./87175-stick-hero.json) |
 | Stick Hunter: Exciting Ice Hockey | 48618 | [48618-stick-hunter-exciting-ice-hockey.json](./48618-stick-hunter-exciting-ice-hockey.json) |
