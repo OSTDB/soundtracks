@@ -12822,6 +12822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monty on the Run | 376192 | [376192-monty-on-the-run.json](./376192-monty-on-the-run.json) |
 | Monty Python & the Quest for the Holy Grail | 8552 | [8552-monty-python-and-the-quest-for-the-holy-grail.json](./8552-monty-python-and-the-quest-for-the-holy-grail.json) |
 | Monty Python's Invasion from the Planet Skyron | 45924 | [45924-monty-pythons-invasion-from-the-planet-skyron.json](./45924-monty-pythons-invasion-from-the-planet-skyron.json) |
+| Monty Python's Looney Bin | 94509 | [94509-monty-pythons-looney-bin.json](./94509-monty-pythons-looney-bin.json) |
 | Monty Python's Makeout Mansion | 383012 | [383012-monty-pythons-makeout-mansion.json](./383012-monty-pythons-makeout-mansion.json) |
 | Monty the Komodo Dragon | 324505 | [324505-monty-the-komodo-dragon.json](./324505-monty-the-komodo-dragon.json) |
 | Monty's Backyard Adventure | 104229 | [104229-montys-backyard-adventure.json](./104229-montys-backyard-adventure.json) |
