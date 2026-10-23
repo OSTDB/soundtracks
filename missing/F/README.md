@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics 24: Deserted Island | 86401 | [86401-fantasy-mosaics-24-deserted-island.json](./86401-fantasy-mosaics-24-deserted-island.json) |
 | Fantasy Mosaics 25: Wedding Ceremony | 86402 | [86402-fantasy-mosaics-25-wedding-ceremony.json](./86402-fantasy-mosaics-25-wedding-ceremony.json) |
 | Fantasy Mosaics 26: Fairytale Garden | 86406 | [86406-fantasy-mosaics-26-fairytale-garden.json](./86406-fantasy-mosaics-26-fairytale-garden.json) |
+| Fantasy Mosaics 27: Secret Colors | 90404 | [90404-fantasy-mosaics-27-secret-colors.json](./90404-fantasy-mosaics-27-secret-colors.json) |
 | Fantasy Mosaics 28: Treasure Map | 100772 | [100772-fantasy-mosaics-28-treasure-map.json](./100772-fantasy-mosaics-28-treasure-map.json) |
 | Fantasy Mosaics 29: Alien Planet | 103898 | [103898-fantasy-mosaics-29-alien-planet.json](./103898-fantasy-mosaics-29-alien-planet.json) |
 | Fantasy Mosaics 3: Distant Worlds | 100735 | [100735-fantasy-mosaics-3-distant-worlds.json](./100735-fantasy-mosaics-3-distant-worlds.json) |
@@ -1942,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fari Stjornu | 419203 | [419203-fari-stjornu.json](./419203-fari-stjornu.json) |
 | Faria: A World of Mystery and Danger! | 48060 | [48060-faria-a-world-of-mystery-and-danger.json](./48060-faria-a-world-of-mystery-and-danger.json) |
 | Faria: Ghosts of the Stream | 32149 | [32149-faria-ghosts-of-the-stream.json](./32149-faria-ghosts-of-the-stream.json) |
+| Faria: Spiritbird | 90433 | [90433-faria-spiritbird.json](./90433-faria-spiritbird.json) |
 | Faria: Starfall | 59249 | [59249-faria-starfall.json](./59249-faria-starfall.json) |
 | Fariwalk: The Prelude | 74997 | [74997-fariwalk-the-prelude.json](./74997-fariwalk-the-prelude.json) |
 | Farjius no Jakoutei: Neo Metal Fantasy | 69862 | [69862-farjius-no-jakoutei-neo-metal-fantasy.json](./69862-farjius-no-jakoutei-neo-metal-fantasy.json) |
@@ -3204,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fetch | 30730 | [30730-fetch.json](./30730-fetch.json) |
 | Fetch | 381016 | [381016-fetch.json](./381016-fetch.json) |
 | Fetch & Match | 395168 | [395168-fetch-and-match.json](./395168-fetch-and-match.json) |
+| Fetch It Again | 90457 | [90457-fetch-it-again.json](./90457-fetch-it-again.json) |
 | Fetch Quest | 140552 | [140552-fetch-quest.json](./140552-fetch-quest.json) |
 | Fetch Quest | 179617 | [179617-fetch-quest.json](./179617-fetch-quest.json) |
 | Fetch Quest Remastered | 361063 | [361063-fetch-quest-remastered.json](./361063-fetch-quest-remastered.json) |
