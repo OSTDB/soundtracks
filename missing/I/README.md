@@ -3260,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inhabitants of The Fir Forest | 176230 | [176230-inhabitants-of-the-fir-forest.json](./176230-inhabitants-of-the-fir-forest.json) |
 | Inhabited Island: Prisoner of Power | 352354 | [352354-inhabited-island-prisoner-of-power.json](./352354-inhabited-island-prisoner-of-power.json) |
 | Inherent Evil - The Haunted Hotel | 114408 | [114408-inherent-evil-the-haunted-hotel.json](./114408-inherent-evil-the-haunted-hotel.json) |
+| Inherent Evil: The Haunted Hotel | 71951 | [71951-inherent-evil-the-haunted-hotel.json](./71951-inherent-evil-the-haunted-hotel.json) |
 | Inherit the Earth | 143532 | [143532-inherit-the-earth.json](./143532-inherit-the-earth.json) |
 | Inherit the Earth: Quest for the Orb | 16726 | [16726-inherit-the-earth-quest-for-the-orb.json](./16726-inherit-the-earth-quest-for-the-orb.json) |
 | Inheritance | 323997 | [323997-inheritance.json](./323997-inheritance.json) |
