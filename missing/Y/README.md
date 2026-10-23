@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yahoo Pool | 86051 | [86051-yahoo-pool.json](./86051-yahoo-pool.json) |
 | Yahrit! | 105291 | [105291-yahrit.json](./105291-yahrit.json) |
 | Yahtzee | 40745 | [40745-yahtzee.json](./40745-yahtzee.json) |
+| Yahtzee Adventures | 62048 | [62048-yahtzee-adventures.json](./62048-yahtzee-adventures.json) |
 | Yahtzee Electronic | 293736 | [293736-yahtzee-electronic.json](./293736-yahtzee-electronic.json) |
 | Yahtzee Girl | 272877 | [272877-yahtzee-girl.json](./272877-yahtzee-girl.json) |
 | Yahtzee Party | 205809 | [205809-yahtzee-party.json](./205809-yahtzee-party.json) |
