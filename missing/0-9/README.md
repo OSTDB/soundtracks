@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | '96 Flag Rally | 249090 | [249090-96-flag-rally.json](./249090-96-flag-rally.json) |
 | '98 Year Koushien | 58510 | [58510-98-year-koushien.json](./58510-98-year-koushien.json) |
 | 'Allo 'Allo! Cartoon Fun! | 14249 | [14249-allo-allo-cartoon-fun.json](./14249-allo-allo-cartoon-fun.json) |
+| 'Dillos | 79665 | [79665-dillos.json](./79665-dillos.json) |
 | 'Er*Bert | 98236 | [98236-er-bert.json](./98236-er-bert.json) |
 | 'In You We Trust, Not Algorithms': Newbie Matsumoto's Manual Elevator Operation with Sticky Notes | 410891 | [410891-in-you-we-trust-not-algorithms-newbie-matsumotos-manual-elevator-operation-with-sticky-notes.json](./410891-in-you-we-trust-not-algorithms-newbie-matsumotos-manual-elevator-operation-with-sticky-notes.json) |
 | 'Mid the Sagebrush and the Cactus | 364626 | [364626-mid-the-sagebrush-and-the-cactus.json](./364626-mid-the-sagebrush-and-the-cactus.json) |
@@ -1150,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Games in 1: Disney Princess + Disney's The Lion King | 86045 | [86045-2-games-in-1-disney-princess-disneys-the-lion-king.json](./86045-2-games-in-1-disney-princess-disneys-the-lion-king.json) |
 | 2 Games In 1: Disney's Brother Bear + Disney Princess | 79840 | [79840-2-games-in-1-disneys-brother-bear-disney-princess.json](./79840-2-games-in-1-disneys-brother-bear-disney-princess.json) |
 | 2 Games in 1: Finding Nemo + The Incredibles | 327394 | [327394-2-games-in-1-finding-nemo-the-incredibles.json](./327394-2-games-in-1-finding-nemo-the-incredibles.json) |
+| 2 Games In 1: Monster Trucks & Quad Desert Fury | 79720 | [79720-2-games-in-1-monster-trucks-and-quad-desert-fury.json](./79720-2-games-in-1-monster-trucks-and-quad-desert-fury.json) |
 | 2 Games in 1: My Riding Stables 3D - Jumping for the Team + My Riding Stables 3D | 145525 | [145525-2-games-in-1-my-riding-stables-3d-jumping-for-the-team-my-riding-stables-3d.json](./145525-2-games-in-1-my-riding-stables-3d-jumping-for-the-team-my-riding-stables-3d.json) |
 | 2 Games in 1: Sonic Advance + ChuChu Rocket! | 86053 | [86053-2-games-in-1-sonic-advance-chuchu-rocket.json](./86053-2-games-in-1-sonic-advance-chuchu-rocket.json) |
 | 2 Games in 1: Sonic Pinball Party + Sonic Battle | 79839 | [79839-2-games-in-1-sonic-pinball-party-sonic-battle.json](./79839-2-games-in-1-sonic-pinball-party-sonic-battle.json) |
