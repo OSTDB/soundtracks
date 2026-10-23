@@ -4382,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champ Invaders | 94248 | [94248-champ-invaders.json](./94248-champ-invaders.json) |
 | Champ Kong | 94576 | [94576-champ-kong.json](./94576-champ-kong.json) |
 | Champ Man 15 | 60223 | [60223-champ-man-15.json](./60223-champ-man-15.json) |
+| Champ Ms. Pac-em | 92896 | [92896-champ-ms-pac-em.json](./92896-champ-ms-pac-em.json) |
 | Champ's Nightmare | 238076 | [238076-champs-nightmare.json](./238076-champs-nightmare.json) |
 | Champion Base Ball Part-2 | 125958 | [125958-champion-base-ball-part-2.json](./125958-champion-base-ball-part-2.json) |
 | Champion Baseball | 388244 | [388244-champion-baseball.json](./388244-champion-baseball.json) |
@@ -5009,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheesequest | 213022 | [213022-cheesequest.json](./213022-cheesequest.json) |
 | Cheesey Sponge | 207909 | [207909-cheesey-sponge.json](./207909-cheesey-sponge.json) |
 | Cheestrings Quiz | 313120 | [313120-cheestrings-quiz.json](./313120-cheestrings-quiz.json) |
+| Cheesy | 92889 | [92889-cheesy.json](./92889-cheesy.json) |
 | Cheesy Chaser | 378899 | [378899-cheesy-chaser.json](./378899-cheesy-chaser.json) |
 | Cheesy Invaders | 14478 | [14478-cheesy-invaders.json](./14478-cheesy-invaders.json) |
 | Cheesy Munch | 260200 | [260200-cheesy-munch.json](./260200-cheesy-munch.json) |
@@ -7191,6 +7193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Island 2: Building Sim | 103544 | [103544-city-island-2-building-sim.json](./103544-city-island-2-building-sim.json) |
 | City Island 4 | 88498 | [88498-city-island-4.json](./88498-city-island-4.json) |
 | City Island: Paradise Sim | 181653 | [181653-city-island-paradise-sim.json](./181653-city-island-paradise-sim.json) |
+| City Killer | 92884 | [92884-city-killer.json](./92884-city-killer.json) |
 | City League Softball | 209400 | [209400-city-league-softball.json](./209400-city-league-softball.json) |
 | City Legends: The Curse of the Crimson Shadow - Collector's Edition | 174039 | [174039-city-legends-the-curse-of-the-crimson-shadow-collectors-edition.json](./174039-city-legends-the-curse-of-the-crimson-shadow-collectors-edition.json) |
 | City Legends: The Ghost of Misty Hill - Collector's Edition | 251844 | [251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json](./251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json) |
@@ -7778,6 +7781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clayverse | 274903 | [274903-clayverse.json](./274903-clayverse.json) |
 | Clea | 112617 | [112617-clea.json](./112617-clea.json) |
 | Clean and Bridge | 233425 | [233425-clean-and-bridge.json](./233425-clean-and-bridge.json) |
+| Clean Asia! | 92811 | [92811-clean-asia.json](./92811-clean-asia.json) |
 | Clean Attack! | 135025 | [135025-clean-attack.json](./135025-clean-attack.json) |
 | Clean City Project | 292521 | [292521-clean-city-project.json](./292521-clean-city-project.json) |
 | Clean Cut | 275315 | [275315-clean-cut.json](./275315-clean-cut.json) |
