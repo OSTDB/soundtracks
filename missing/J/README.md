@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jibi Land: Princess Castle | 299211 | [299211-jibi-land-princess-castle.json](./299211-jibi-land-princess-castle.json) |
 | Jibi Land: Princess Town | 299212 | [299212-jibi-land-princess-town.json](./299212-jibi-land-princess-town.json) |
 | Jice | 183978 | [183978-jice.json](./183978-jice.json) |
+| Jida Chronicle Chaos frontier | 76407 | [76407-jida-chronicle-chaos-frontier.json](./76407-jida-chronicle-chaos-frontier.json) |
 | Jidousha Shakai | 28419 | [28419-jidousha-shakai.json](./28419-jidousha-shakai.json) |
 | Jieitai World | 254449 | [254449-jieitai-world.json](./254449-jieitai-world.json) |
 | Jiēxiànyuán de Shǐmìng | 161164 | [161164-jiexianyuan-de-shiming.json](./161164-jiexianyuan-de-shiming.json) |
