@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Forever | 38785 | [38785-tactics-forever.json](./38785-tactics-forever.json) |
 | Tactics Formula | 141163 | [141163-tactics-formula.json](./141163-tactics-formula.json) |
 | Tactics Greed | 258369 | [258369-tactics-greed.json](./258369-tactics-greed.json) |
+| Tactics Layer: Ritina Guard Senki | 69115 | [69115-tactics-layer-ritina-guard-senki.json](./69115-tactics-layer-ritina-guard-senki.json) |
 | Tactics Maiden | 207856 | [207856-tactics-maiden.json](./207856-tactics-maiden.json) |
 | Tactics Maiden Remastered | 106557 | [106557-tactics-maiden-remastered.json](./106557-tactics-maiden-remastered.json) |
 | Tactics Ogre: Let Us Cling Together | 5550 | [5550-tactics-ogre-let-us-cling-together.json](./5550-tactics-ogre-let-us-cling-together.json) |
@@ -1066,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Phantasia | 196660 | [196660-tales-of-phantasia.json](./196660-tales-of-phantasia.json) |
 | Tales of Phantasia: Cross Edition | 351694 | [351694-tales-of-phantasia-cross-edition.json](./351694-tales-of-phantasia-cross-edition.json) |
 | Tales of Phantasia: Full Voice Edition | 152164 | [152164-tales-of-phantasia-full-voice-edition.json](./152164-tales-of-phantasia-full-voice-edition.json) |
+| Tales of Phantasia: Narikiri Dungeon | 69114 | [69114-tales-of-phantasia-narikiri-dungeon.json](./69114-tales-of-phantasia-narikiri-dungeon.json) |
 | Tales of Phantasia: Narikiri Dungeon X | 42864 | [42864-tales-of-phantasia-narikiri-dungeon-x.json](./42864-tales-of-phantasia-narikiri-dungeon-x.json) |
 | Tales of Pirates | 72702 | [72702-tales-of-pirates.json](./72702-tales-of-pirates.json) |
 | Tales Of Polygonia | 231326 | [231326-tales-of-polygonia.json](./231326-tales-of-polygonia.json) |
@@ -4087,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Text me when you get home | 179890 | [179890-text-me-when-you-get-home.json](./179890-text-me-when-you-get-home.json) |
 | Text RPG | 169740 | [169740-text-rpg.json](./169740-text-rpg.json) |
 | Text Tiles | 46564 | [46564-text-tiles.json](./46564-text-tiles.json) |
+| Text Twist Pro | 69109 | [69109-text-twist-pro.json](./69109-text-twist-pro.json) |
 | Text Wall | 339272 | [339272-text-wall.json](./339272-text-wall.json) |
 | Text Your Life | 339270 | [339270-text-your-life.json](./339270-text-your-life.json) |
 | Text Zedventure | 91533 | [91533-text-zedventure.json](./91533-text-zedventure.json) |
@@ -4227,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thaw | 318294 | [318294-thaw.json](./318294-thaw.json) |
 | Thawed Waters | 260254 | [260254-thawed-waters.json](./260254-thawed-waters.json) |
 | Thaxted Havershill and the Golden Wombat | 57486 | [57486-thaxted-havershill-and-the-golden-wombat.json](./57486-thaxted-havershill-and-the-golden-wombat.json) |
+| Thayer's Quest | 69071 | [69071-thayers-quest.json](./69071-thayers-quest.json) |
 | THC | 120106 | [120106-thc.json](./120106-thc.json) |
 | THC: Alien Abduction | 163339 | [163339-thc-alien-abduction.json](./163339-thc-alien-abduction.json) |
 | The "A" Game | 106513 | [106513-the-a-game.json](./106513-the-a-game.json) |
@@ -16006,6 +16010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas & Friends: Up, Up and Away! Diesel's Special Delivery | 242029 | [242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json](./242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json) |
 | Thomas & Friends: Wonders of Sodor - Deluxe Edition | 394325 | [394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json](./394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json) |
 | Thomas & Friends: Wonders of Sodor - James Addon | 394318 | [394318-thomas-and-friends-wonders-of-sodor-james-addon.json](./394318-thomas-and-friends-wonders-of-sodor-james-addon.json) |
+| Thomas and Friends: Calling All Engines | 69068 | [69068-thomas-and-friends-calling-all-engines.json](./69068-thomas-and-friends-calling-all-engines.json) |
 | Thomas and Friends: Engines Working Together | 73004 | [73004-thomas-and-friends-engines-working-together.json](./73004-thomas-and-friends-engines-working-together.json) |
 | Thomas and the Magic Railroad Print Studio | 225521 | [225521-thomas-and-the-magic-railroad-print-studio.json](./225521-thomas-and-the-magic-railroad-print-studio.json) |
 | Thomas M. Disch's Amnesia | 50491 | [50491-thomas-m-dischs-amnesia.json](./50491-thomas-m-dischs-amnesia.json) |
