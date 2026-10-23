@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.R.E.T.C.H. | 100566 | [100566-s-t-r-e-t-c-h.json](./100566-s-t-r-e-t-c-h.json) |
 | S.T.U.N. Runner | 12368 | [12368-s-t-u-n-runner.json](./12368-s-t-u-n-runner.json) |
 | S.U.A.V.E - Sport-Utility Assault Vehicle Extreme! | 60908 | [60908-s-u-a-v-e-sport-utility-assault-vehicle-extreme.json](./60908-s-u-a-v-e-sport-utility-assault-vehicle-extreme.json) |
+| S.U.B. | 69692 | [69692-s-u-b.json](./69692-s-u-b.json) |
 | S.U.D.O.K.U. | 264459 | [264459-s-u-d-o-k-u.json](./264459-s-u-d-o-k-u.json) |
 | S.U.M. Slay Uncool Monsters | 142306 | [142306-s-u-m-slay-uncool-monsters.json](./142306-s-u-m-slay-uncool-monsters.json) |
 | S.U.M. Slay Uncool Monsters: Archer | 168247 | [168247-s-u-m-slay-uncool-monsters-archer.json](./168247-s-u-m-slay-uncool-monsters-archer.json) |
@@ -933,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sambird | 413475 | [413475-sambird.json](./413475-sambird.json) |
 | Same | 64423 | [64423-same.json](./64423-same.json) |
 | Same Game for Windows | 80229 | [80229-same-game-for-windows.json](./80229-same-game-for-windows.json) |
+| Same or Different | 69718 | [69718-same-or-different.json](./69718-same-or-different.json) |
 | Same Room Same Day | 316610 | [316610-same-room-same-day.json](./316610-same-room-same-day.json) |
 | Same-X | 64429 | [64429-same-x.json](./64429-same-x.json) |
 | Samedi Manor | 260672 | [260672-samedi-manor.json](./260672-samedi-manor.json) |
@@ -2472,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sci-Fantasy Defence | 152641 | [152641-sci-fantasy-defence.json](./152641-sci-fantasy-defence.json) |
 | Sci-Fi | 60353 | [60353-sci-fi.json](./60353-sci-fi.json) |
 | Sci-Fi Channel Trivia Game | 98802 | [98802-sci-fi-channel-trivia-game.json](./98802-sci-fi-channel-trivia-game.json) |
+| Sci-Fi Pinball | 69691 | [69691-sci-fi-pinball.json](./69691-sci-fi-pinball.json) |
 | Sci-Fi Racer Simulator | 283245 | [283245-sci-fi-racer-simulator.json](./283245-sci-fi-racer-simulator.json) |
 | SCI-Hard | 368255 | [368255-sci-hard.json](./368255-sci-hard.json) |
 | Scicry | 390206 | [390206-scicry.json](./390206-scicry.json) |
@@ -8527,6 +8530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity: Limited Edition | 50870 | [50870-simcity-limited-edition.json](./50870-simcity-limited-edition.json) |
 | SimCity: Terrain Editor | 69584 | [69584-simcity-terrain-editor.json](./69584-simcity-terrain-editor.json) |
 | SimClassics: 3 in 1 Pack | 86030 | [86030-simclassics-3-in-1-pack.json](./86030-simclassics-3-in-1-pack.json) |
+| SimClassics: Maxis Collections 2 | 69711 | [69711-simclassics-maxis-collections-2.json](./69711-simclassics-maxis-collections-2.json) |
 | SimCoaster | 19422 | [19422-simcoaster.json](./19422-simcoaster.json) |
 | SimCopter | 1496 | [1496-simcopter.json](./1496-simcopter.json) |
 | SimDrive | 60881 | [60881-simdrive.json](./60881-simdrive.json) |
@@ -10566,6 +10570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide 'Em Up | 197548 | [197548-slide-em-up.json](./197548-slide-em-up.json) |
 | Slide & Magic | 390729 | [390729-slide-and-magic.json](./390729-slide-and-magic.json) |
 | Slide 2 Solve Puzzle | 175341 | [175341-slide-2-solve-puzzle.json](./175341-slide-2-solve-puzzle.json) |
+| Slide Adventure: Magkid | 69702 | [69702-slide-adventure-magkid.json](./69702-slide-adventure-magkid.json) |
 | Slide And Perform | 340958 | [340958-slide-and-perform.json](./340958-slide-and-perform.json) |
 | Slide Circus HD | 235154 | [235154-slide-circus-hd.json](./235154-slide-circus-hd.json) |
 | Slide Defenders | 334079 | [334079-slide-defenders.json](./334079-slide-defenders.json) |
@@ -16344,6 +16349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Operations | 131865 | [131865-special-operations.json](./131865-special-operations.json) |
 | Special Ops | 223908 | [223908-special-ops.json](./223908-special-ops.json) |
 | Special Ops | 271266 | [271266-special-ops.json](./271266-special-ops.json) |
+| Special Permit for Cabela's Big Game Hunter | 69687 | [69687-special-permit-for-cabelas-big-game-hunter.json](./69687-special-permit-for-cabelas-big-game-hunter.json) |
 | Special Sampler | 55925 | [55925-special-sampler.json](./55925-special-sampler.json) |
 | Special Strike | 345975 | [345975-special-strike.json](./345975-special-strike.json) |
 | Special Tactics | 33750 | [33750-special-tactics.json](./33750-special-tactics.json) |
@@ -26135,6 +26141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super SpongeBob Kart | 42203 | [42203-super-spongebob-kart.json](./42203-super-spongebob-kart.json) |
 | Super Spooky 64 | 300255 | [300255-super-spooky-64.json](./300255-super-spooky-64.json) |
 | Super Spooky Subgame Spectacular | 262836 | [262836-super-spooky-subgame-spectacular.json](./262836-super-spooky-subgame-spectacular.json) |
+| Super Sport Challenge | 69715 | [69715-super-sport-challenge.json](./69715-super-sport-challenge.json) |
 | Super Sportmatchen | 97963 | [97963-super-sportmatchen.json](./97963-super-sportmatchen.json) |
 | Super Sports Isle | 410197 | [410197-super-sports-isle.json](./410197-super-sports-isle.json) |
 | Super Sports Surgery | 40843 | [40843-super-sports-surgery.json](./40843-super-sports-surgery.json) |
@@ -26237,6 +26244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tacky Astro Ranger: S.T.A.R. | 404434 | [404434-super-tacky-astro-ranger-s-t-a-r.json](./404434-super-tacky-astro-ranger-s-t-a-r.json) |
 | Super Taco Crew | 173845 | [173845-super-taco-crew.json](./173845-super-taco-crew.json) |
 | Super Tact | 60225 | [60225-super-tact.json](./60225-super-tact.json) |
+| Super TaeKwonDo Master | 69686 | [69686-super-taekwondo-master.json](./69686-super-taekwondo-master.json) |
 | Super Takoyaki Battle | 416068 | [416068-super-takoyaki-battle.json](./416068-super-takoyaki-battle.json) |
 | Super Talking Time Bros. | 350226 | [350226-super-talking-time-bros.json](./350226-super-talking-time-bros.json) |
 | Super Tank | 279692 | [279692-super-tank.json](./279692-super-tank.json) |
