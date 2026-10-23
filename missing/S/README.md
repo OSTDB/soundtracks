@@ -8508,6 +8508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon | 324847 | [324847-simon.json](./324847-simon.json) |
 | Simon | 346999 | [346999-simon.json](./346999-simon.json) |
 | Simon and Friends | 401687 | [401687-simon-and-friends.json](./401687-simon-and-friends.json) |
+| Simon Clone | 92329 | [92329-simon-clone.json](./92329-simon-clone.json) |
 | Simon HD | 66592 | [66592-simon-hd.json](./66592-simon-hd.json) |
 | Simon Says | 288364 | [288364-simon-says.json](./288364-simon-says.json) |
 | Simon Says! | 42167 | [42167-simon-says.json](./42167-simon-says.json) |
@@ -18284,6 +18285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squeezils | 206708 | [206708-squeezils.json](./206708-squeezils.json) |
 | Squeezone | 31709 | [31709-squeezone.json](./31709-squeezone.json) |
 | Squewe Run | 312884 | [312884-squewe-run.json](./312884-squewe-run.json) |
+| Squibs Arcade | 92354 | [92354-squibs-arcade.json](./92354-squibs-arcade.json) |
 | Squid and Let Die | 57342 | [57342-squid-and-let-die.json](./57342-squid-and-let-die.json) |
 | Squid Commando | 270562 | [270562-squid-commando.json](./270562-squid-commando.json) |
 | Squid Fighter | 226613 | [226613-squid-fighter.json](./226613-squid-fighter.json) |
@@ -22075,6 +22077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Football | 21476 | [21476-street-football.json](./21476-street-football.json) |
 | Street Football 2 | 268209 | [268209-street-football-2.json](./268209-street-football-2.json) |
 | Street Gang Football | 331343 | [331343-street-gang-football.json](./331343-street-gang-football.json) |
+| Street Gears | 92348 | [92348-street-gears.json](./92348-street-gears.json) |
 | Street Girls | 296991 | [296991-street-girls.json](./296991-street-girls.json) |
 | Street Gods | 360774 | [360774-street-gods.json](./360774-street-gods.json) |
 | Street Heat | 40434 | [40434-street-heat.json](./40434-street-heat.json) |
@@ -22316,6 +22319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striker Pro | 237509 | [237509-striker-pro.json](./237509-striker-pro.json) |
 | Striker Pro 2000 | 22676 | [22676-striker-pro-2000.json](./22676-striker-pro-2000.json) |
 | Striker Soccer Euro 2012 | 51168 | [51168-striker-soccer-euro-2012.json](./51168-striker-soccer-euro-2012.json) |
+| Striker Xtreme | 92328 | [92328-striker-xtreme.json](./92328-striker-xtreme.json) |
 | Striker Zone | 252266 | [252266-striker-zone.json](./252266-striker-zone.json) |
 | Striker: World Cup Special | 38827 | [38827-striker-world-cup-special.json](./38827-striker-world-cup-special.json) |
 | Striker! | 336650 | [336650-striker.json](./336650-striker.json) |
@@ -23112,6 +23116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku: The Mind Game | 264455 | [264455-sudoku-the-mind-game.json](./264455-sudoku-the-mind-game.json) |
 | Sudoku: Tied Up & Bound | 275648 | [275648-sudoku-tied-up-and-bound.json](./275648-sudoku-tied-up-and-bound.json) |
 | Sudoku: Unlimited Expansion | 405622 | [405622-sudoku-unlimited-expansion.json](./405622-sudoku-unlimited-expansion.json) |
+| Sudoku: We All Play | 92341 | [92341-sudoku-we-all-play.json](./92341-sudoku-we-all-play.json) |
 | Sudoku! For Watch | 368475 | [368475-sudoku-for-watch.json](./368475-sudoku-for-watch.json) |
 | Sudoku. | 90993 | [90993-sudoku.json](./90993-sudoku.json) |
 | Sudoku+ | 87862 | [87862-sudoku.json](./87862-sudoku.json) |
