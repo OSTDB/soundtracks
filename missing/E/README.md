@@ -3708,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equality | 339761 | [339761-equality.json](./339761-equality.json) |
 | Equalizer | 55498 | [55498-equalizer.json](./55498-equalizer.json) |
 | Equan the Watchful Guardian | 251997 | [251997-equan-the-watchful-guardian.json](./251997-equan-the-watchful-guardian.json) |
+| Equations | 44352 | [44352-equations.json](./44352-equations.json) |
 | Equestria | 128563 | [128563-equestria.json](./128563-equestria.json) |
 | EquestriaBound: Return of the Nightmare | 205642 | [205642-equestriabound-return-of-the-nightmare.json](./205642-equestriabound-return-of-the-nightmare.json) |
 | Equestrian Showcase | 45081 | [45081-equestrian-showcase.json](./45081-equestrian-showcase.json) |
