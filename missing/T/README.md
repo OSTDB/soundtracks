@@ -1812,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Táolí Dìqiú | 158203 | [158203-taoli-diqiu.json](./158203-taoli-diqiu.json) |
 | Taolu | 209944 | [209944-taolu.json](./209944-taolu.json) |
 | Taora: Survival | 235197 | [235197-taora-survival.json](./235197-taora-survival.json) |
+| TAOTH: The Adventures of the Herkulez | 76349 | [76349-taoth-the-adventures-of-the-herkulez.json](./76349-taoth-the-adventures-of-the-herkulez.json) |
 | Taoyuan Adventure | 160174 | [160174-taoyuan-adventure.json](./160174-taoyuan-adventure.json) |
 | Tap 'n' Pop 3: Balloon Adventures | 88225 | [88225-tap-n-pop-3-balloon-adventures.json](./88225-tap-n-pop-3-balloon-adventures.json) |
 | Tap 4 Sex | 339416 | [339416-tap-4-sex.json](./339416-tap-4-sex.json) |
@@ -13596,6 +13597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Strange Men Anthology | 345349 | [345349-the-strange-men-anthology.json](./345349-the-strange-men-anthology.json) |
 | The Strange Story of Brian Fisher: Chapter 1 | 126829 | [126829-the-strange-story-of-brian-fisher-chapter-1.json](./126829-the-strange-story-of-brian-fisher-chapter-1.json) |
 | The Strange Story of Brian Fisher: Chapter 2 | 168841 | [168841-the-strange-story-of-brian-fisher-chapter-2.json](./168841-the-strange-story-of-brian-fisher-chapter-2.json) |
+| the Strange Thing | 76401 | [76401-the-strange-thing.json](./76401-the-strange-thing.json) |
 | The Stranger | 57143 | [57143-the-stranger.json](./57143-the-stranger.json) |
 | The Stranger From the Bus Stop | 332396 | [332396-the-stranger-from-the-bus-stop.json](./332396-the-stranger-from-the-bus-stop.json) |
 | The Stranger VR | 138537 | [138537-the-stranger-vr.json](./138537-the-stranger-vr.json) |
@@ -14607,6 +14609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Valley | 292068 | [292068-the-valley.json](./292068-the-valley.json) |
 | The Valley | 94585 | [94585-the-valley.json](./94585-the-valley.json) |
 | The Valley Beyond | 373132 | [373132-the-valley-beyond.json](./373132-the-valley-beyond.json) |
+| The Valley In My Mind | 76353 | [76353-the-valley-in-my-mind.json](./76353-the-valley-in-my-mind.json) |
 | The Vamp | 254552 | [254552-the-vamp.json](./254552-the-vamp.json) |
 | The Vampire | 292250 | [292250-the-vampire.json](./292250-the-vampire.json) |
 | The Vampire Lord of Valea Noapte | 179519 | [179519-the-vampire-lord-of-valea-noapte.json](./179519-the-vampire-lord-of-valea-noapte.json) |
@@ -20201,6 +20204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toofan AlAqsa | 289938 | [289938-toofan-alaqsa.json](./289938-toofan-alaqsa.json) |
 | Tooi Tooi, Yakusoku: Tune of Memories | 299991 | [299991-tooi-tooi-yakusoku-tune-of-memories.json](./299991-tooi-tooi-yakusoku-tune-of-memories.json) |
 | Took: The Immortal Hero | 329365 | [329365-took-the-immortal-hero.json](./329365-took-the-immortal-hero.json) |
+| Tooki | 76409 | [76409-tooki.json](./76409-tooki.json) |
 | Tool Land | 391747 | [391747-tool-land.json](./391747-tool-land.json) |
 | Toolbox Tycoon | 362826 | [362826-toolbox-tycoon.json](./362826-toolbox-tycoon.json) |
 | ToolBoy | 116869 | [116869-toolboy.json](./116869-toolboy.json) |
