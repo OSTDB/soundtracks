@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M3 - Molesting the Match-3 Market | 94232 | [94232-m3-molesting-the-match-3-market.json](./94232-m3-molesting-the-match-3-market.json) |
 | M3 Sono Kuroki Hagane: Mission Memento Mori | 61663 | [61663-m3-sono-kuroki-hagane-mission-memento-mori.json](./61663-m3-sono-kuroki-hagane-mission-memento-mori.json) |
 | M3nticid3: Control Group | 393018 | [393018-m3nticid3-control-group.json](./393018-m3nticid3-control-group.json) |
+| M6 | 78443 | [78443-m6.json](./78443-m6.json) |
 | M87 | 200511 | [200511-m87.json](./200511-m87.json) |
 | Ma Pension d'Animaux: Bébés Câlins | 144681 | [144681-ma-pension-danimaux-bebes-calins.json](./144681-ma-pension-danimaux-bebes-calins.json) |
 | Ma première visite à la tour du sens | 345578 | [345578-ma-premiere-visite-a-la-tour-du-sens.json](./345578-ma-premiere-visite-a-la-tour-du-sens.json) |
@@ -5068,6 +5069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazovian Adventure | 128961 | [128961-mazovian-adventure.json](./128961-mazovian-adventure.json) |
 | Mazy | 385576 | [385576-mazy.json](./385576-mazy.json) |
 | MazyMazes | 250267 | [250267-mazymazes.json](./250267-mazymazes.json) |
+| Mazzembly 1997 | 78512 | [78512-mazzembly-1997.json](./78512-mazzembly-1997.json) |
 | Mazzle Christmas | 329040 | [329040-mazzle-christmas.json](./329040-mazzle-christmas.json) |
 | Mbembe Radio | 300988 | [300988-mbembe-radio.json](./300988-mbembe-radio.json) |
 | MBOS | 315509 | [315509-mbos.json](./315509-mbos.json) |
@@ -5092,6 +5094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McDroid | 16689 | [16689-mcdroid.json](./16689-mcdroid.json) |
 | McFarlane's Evil Prophecy | 43633 | [43633-mcfarlanes-evil-prophecy.json](./43633-mcfarlanes-evil-prophecy.json) |
 | McGroovz Dance Craze | 209535 | [209535-mcgroovz-dance-craze.json](./209535-mcgroovz-dance-craze.json) |
+| McKenzie & Co. | 78442 | [78442-mckenzie-and-co.json](./78442-mckenzie-and-co.json) |
 | McOsu | 29160 | [29160-mcosu.json](./29160-mcosu.json) |
 | McPixel | 7553 | [7553-mcpixel.json](./7553-mcpixel.json) |
 | McPixel 3 | 191576 | [191576-mcpixel-3.json](./191576-mcpixel-3.json) |
@@ -7438,6 +7441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meril Kururinchi | 275458 | [275458-meril-kururinchi.json](./275458-meril-kururinchi.json) |
 | Meritaton | 365306 | [365306-meritaton.json](./365306-meritaton.json) |
 | Meritocracy of the Oni & Blade | 105216 | [105216-meritocracy-of-the-oni-and-blade.json](./105216-meritocracy-of-the-oni-and-blade.json) |
+| Meritous | 78479 | [78479-meritous.json](./78479-meritous.json) |
 | Meriwether: An American Epic | 61526 | [61526-meriwether-an-american-epic.json](./61526-meriwether-an-american-epic.json) |
 | Merk Mayhem | 291696 | [291696-merk-mayhem.json](./291696-merk-mayhem.json) |
 | Merkava: The Sacred Armour of Meirav | 355966 | [355966-merkava-the-sacred-armour-of-meirav.json](./355966-merkava-the-sacred-armour-of-meirav.json) |
@@ -12082,6 +12086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey vs. Dino | 167605 | [167605-monkey-vs-dino.json](./167605-monkey-vs-dino.json) |
 | Monkey Wars! | 323749 | [323749-monkey-wars.json](./323749-monkey-wars.json) |
 | Monkey Wave | 383963 | [383963-monkey-wave.json](./383963-monkey-wave.json) |
+| Monkey Wrench | 78456 | [78456-monkey-wrench.json](./78456-monkey-wrench.json) |
 | Monkey-catching Game | 281476 | [281476-monkey-catching-game.json](./281476-monkey-catching-game.json) |
 | Monkey's Life | 280112 | [280112-monkeys-life.json](./280112-monkeys-life.json) |
 | MonkeyKing Chaos: VR | 286007 | [286007-monkeyking-chaos-vr.json](./286007-monkeyking-chaos-vr.json) |
@@ -16130,6 +16135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Academia: All's Justice - The Worldwide Star Card | 414450 | [414450-my-hero-academia-alls-justice-the-worldwide-star-card.json](./414450-my-hero-academia-alls-justice-the-worldwide-star-card.json) |
 | My Hero Academia: All's Justice - Ultimate Edition | 414451 | [414451-my-hero-academia-alls-justice-ultimate-edition.json](./414451-my-hero-academia-alls-justice-ultimate-edition.json) |
 | My Hero Academia: Battle for All | 76852 | [76852-my-hero-academia-battle-for-all.json](./76852-my-hero-academia-battle-for-all.json) |
+| My Hero Academia: Clash! Heroes Battle | 78489 | [78489-my-hero-academia-clash-heroes-battle.json](./78489-my-hero-academia-clash-heroes-battle.json) |
 | My Hero Academia: Final Battle Challenge | 329341 | [329341-my-hero-academia-final-battle-challenge.json](./329341-my-hero-academia-final-battle-challenge.json) |
 | My Hero Academia: Heart of Heroes | 174672 | [174672-my-hero-academia-heart-of-heroes.json](./174672-my-hero-academia-heart-of-heroes.json) |
 | My Hero Academia: Smash Tap | 74300 | [74300-my-hero-academia-smash-tap.json](./74300-my-hero-academia-smash-tap.json) |
@@ -17044,6 +17050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Island: Enigmatic Painting | 373684 | [373684-mystery-island-enigmatic-painting.json](./373684-mystery-island-enigmatic-painting.json) |
 | Mystery Island: Hidden Object Games | 121568 | [121568-mystery-island-hidden-object-games.json](./121568-mystery-island-hidden-object-games.json) |
 | Mystery Island: Missing Amy | 367614 | [367614-mystery-island-missing-amy.json](./367614-mystery-island-missing-amy.json) |
+| Mystery Legends: Beauty and the Beast | 78445 | [78445-mystery-legends-beauty-and-the-beast.json](./78445-mystery-legends-beauty-and-the-beast.json) |
 | Mystery Legends: Phantom of the Opera | 62836 | [62836-mystery-legends-phantom-of-the-opera.json](./62836-mystery-legends-phantom-of-the-opera.json) |
 | Mystery Legends: Phantom of the Opera - Collector’s Edition | 239602 | [239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json](./239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json) |
 | Mystery Lighthouse | 97215 | [97215-mystery-lighthouse.json](./97215-mystery-lighthouse.json) |
