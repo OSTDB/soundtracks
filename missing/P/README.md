@@ -2993,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pebble End | 187772 | [187772-pebble-end.json](./187772-pebble-end.json) |
 | Pebble Knights | 347758 | [347758-pebble-knights.json](./347758-pebble-knights.json) |
 | Pebble of Time | 165145 | [165145-pebble-of-time.json](./165145-pebble-of-time.json) |
+| Pebble Universe | 65356 | [65356-pebble-universe.json](./65356-pebble-universe.json) |
 | Pebble Witch | 151022 | [151022-pebble-witch.json](./151022-pebble-witch.json) |
 | Pebble's Bakery | 180714 | [180714-pebbles-bakery.json](./180714-pebbles-bakery.json) |
 | Pebbles | 419869 | [419869-pebbles.json](./419869-pebbles.json) |
@@ -6103,6 +6104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of First Star | 115668 | [115668-pirates-of-first-star.json](./115668-pirates-of-first-star.json) |
 | Pirates of Gravitae | 182296 | [182296-pirates-of-gravitae.json](./182296-pirates-of-gravitae.json) |
 | Pirates of Heaven | 237240 | [237240-pirates-of-heaven.json](./237240-pirates-of-heaven.json) |
+| Pirates of New Horizons | 65361 | [65361-pirates-of-new-horizons.json](./65361-pirates-of-new-horizons.json) |
 | Pirates of New Horizons: Planet Buster | 54287 | [54287-pirates-of-new-horizons-planet-buster.json](./54287-pirates-of-new-horizons-planet-buster.json) |
 | Pirates of Perfidy | 420549 | [420549-pirates-of-perfidy.json](./420549-pirates-of-perfidy.json) |
 | Pirates of Rectangular | 258644 | [258644-pirates-of-rectangular.json](./258644-pirates-of-rectangular.json) |
@@ -7547,6 +7549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies: Match | 287877 | [287877-plants-vs-zombies-match.json](./287877-plants-vs-zombies-match.json) |
 | Plants vs. Zombies: Original Edition | 310568 | [310568-plants-vs-zombies-original-edition.json](./310568-plants-vs-zombies-original-edition.json) |
 | Plants vs. Zombies: Replanted | 358529 | [358529-plants-vs-zombies-replanted.json](./358529-plants-vs-zombies-replanted.json) |
+| Plants War | 65331 | [65331-plants-war.json](./65331-plants-war.json) |
 | Plantsportation | 249930 | [249930-plantsportation.json](./249930-plantsportation.json) |
 | Plantstead | 176933 | [176933-plantstead.json](./176933-plantstead.json) |
 | Planum | 96890 | [96890-planum.json](./96890-planum.json) |
