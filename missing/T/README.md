@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Chess | 304706 | [304706-tank-chess.json](./304706-tank-chess.json) |
 | Tank Combat | 54425 | [54425-tank-combat.json](./54425-tank-combat.json) |
 | Tank Command | 12342 | [12342-tank-command.json](./12342-tank-command.json) |
+| Tank Commander | 79073 | [79073-tank-commander.json](./79073-tank-commander.json) |
 | Tank Commander: Battlefield | 384164 | [384164-tank-commander-battlefield.json](./384164-tank-commander-battlefield.json) |
 | Tank Commando 3D | 184947 | [184947-tank-commando-3d.json](./184947-tank-commando-3d.json) |
 | Tank Defender | 187895 | [187895-tank-defender.json](./187895-tank-defender.json) |
@@ -7659,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Found Magic | 386426 | [386426-the-found-magic.json](./386426-the-found-magic.json) |
 | The Founders of Daytona Beach Also Founded Dayton, Ohio | 360606 | [360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json](./360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json) |
 | The Fountain War | 110264 | [110264-the-fountain-war.json](./110264-the-fountain-war.json) |
+| The Four Crystals of Trazere | 79087 | [79087-the-four-crystals-of-trazere.json](./79087-the-four-crystals-of-trazere.json) |
 | The Four Elements: Zombies | 197049 | [197049-the-four-elements-zombies.json](./197049-the-four-elements-zombies.json) |
 | The Four Kings Casino and Slots | 16797 | [16797-the-four-kings-casino-and-slots.json](./16797-the-four-kings-casino-and-slots.json) |
 | The Four Old Gods | 136442 | [136442-the-four-old-gods.json](./136442-the-four-old-gods.json) |
@@ -9198,6 +9200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters: Heat of Battle | 191476 | [191476-the-king-of-fighters-heat-of-battle.json](./191476-the-king-of-fighters-heat-of-battle.json) |
 | The King of Fighters: Kyo | 43841 | [43841-the-king-of-fighters-kyo.json](./43841-the-king-of-fighters-kyo.json) |
 | The King of Fighters: Maximum Impact - Maniax | 47322 | [47322-the-king-of-fighters-maximum-impact-maniax.json](./47322-the-king-of-fighters-maximum-impact-maniax.json) |
+| The King of Fighters: Sky Stage | 79083 | [79083-the-king-of-fighters-sky-stage.json](./79083-the-king-of-fighters-sky-stage.json) |
 | The King of Fighters: World | 26802 | [26802-the-king-of-fighters-world.json](./26802-the-king-of-fighters-world.json) |
 | The King of Figthers 99 | 43912 | [43912-the-king-of-figthers-99.json](./43912-the-king-of-figthers-99.json) |
 | The King of Go | 417352 | [417352-the-king-of-go.json](./417352-the-king-of-go.json) |
@@ -11861,6 +11864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Potion Shop | 225741 | [225741-the-potion-shop.json](./225741-the-potion-shop.json) |
 | The Poulet sans Tête | 350365 | [350365-the-poulet-sans-tete.json](./350365-the-poulet-sans-tete.json) |
 | The Pow-er | 330690 | [330690-the-pow-er.json](./330690-the-pow-er.json) |
+| The Powder Toy | 79055 | [79055-the-powder-toy.json](./79055-the-powder-toy.json) |
 | The Power | 137071 | [137071-the-power.json](./137071-the-power.json) |
 | The Power Latch Kid | 152493 | [152493-the-power-latch-kid.json](./152493-the-power-latch-kid.json) |
 | The Power of Blood | 184775 | [184775-the-power-of-blood.json](./184775-the-power-of-blood.json) |
@@ -16560,6 +16564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tierbabys Puzzle: Echter Puzzlespass für Unterwegs | 252658 | [252658-tierbabys-puzzle-echter-puzzlespass-fur-unterwegs.json](./252658-tierbabys-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | Tierra | 170906 | [170906-tierra.json](./170906-tierra.json) |
 | Tierra: Adventure Mystery | 174306 | [174306-tierra-adventure-mystery.json](./174306-tierra-adventure-mystery.json) |
+| Tierras del Sur | 79074 | [79074-tierras-del-sur.json](./79074-tierras-del-sur.json) |
 | Tierras Perdidas | 147176 | [147176-tierras-perdidas.json](./147176-tierras-perdidas.json) |
 | Tierras Runicas | 323021 | [323021-tierras-runicas.json](./323021-tierras-runicas.json) |
 | Tiestru | 36255 | [36255-tiestru.json](./36255-tiestru.json) |
