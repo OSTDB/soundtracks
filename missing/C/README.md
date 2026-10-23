@@ -10401,6 +10401,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Gin Rummy | 59779 | [59779-computer-gin-rummy.json](./59779-computer-gin-rummy.json) |
 | Computer Man | 415496 | [415496-computer-man.json](./415496-computer-man.json) |
 | Computer Manufacturer | 348901 | [348901-computer-manufacturer.json](./348901-computer-manufacturer.json) |
+| Computer Math Games II | 44358 | [44358-computer-math-games-ii.json](./44358-computer-math-games-ii.json) |
+| Computer Math Games VI | 44357 | [44357-computer-math-games-vi.json](./44357-computer-math-games-vi.json) |
 | Computer Mechanic Simulator 2019 | 114101 | [114101-computer-mechanic-simulator-2019.json](./114101-computer-mechanic-simulator-2019.json) |
 | Computer Nouryoku Kaiseki: Ultra Baken | 38148 | [38148-computer-nouryoku-kaiseki-ultra-baken.json](./38148-computer-nouryoku-kaiseki-ultra-baken.json) |
 | Computer Othello | 242573 | [242573-computer-othello.json](./242573-computer-othello.json) |
