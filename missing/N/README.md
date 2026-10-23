@@ -2561,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevsky Titbit | 250597 | [250597-nevsky-titbit.json](./250597-nevsky-titbit.json) |
 | Nevultra | 253885 | [253885-nevultra.json](./253885-nevultra.json) |
 | New 3D Golf Simulation: Eight Lakes G.C. | 97292 | [97292-new-3d-golf-simulation-eight-lakes-g-c.json](./97292-new-3d-golf-simulation-eight-lakes-g-c.json) |
+| New 3D Golf Simulation: Harukanaru Augusta | 45746 | [45746-new-3d-golf-simulation-harukanaru-augusta.json](./45746-new-3d-golf-simulation-harukanaru-augusta.json) |
 | New 3D Golf Simulation: T&E Selection | 97291 | [97291-new-3d-golf-simulation-t-and-e-selection.json](./97291-new-3d-golf-simulation-t-and-e-selection.json) |
 | New Adam & Eve | 47544 | [47544-new-adam-and-eve.json](./47544-new-adam-and-eve.json) |
 | New Adult Reality | 113457 | [113457-new-adult-reality.json](./113457-new-adult-reality.json) |
@@ -4555,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No End | 350397 | [350397-no-end.json](./350397-no-end.json) |
 | No End in Sight | 140223 | [140223-no-end-in-sight.json](./140223-no-end-in-sight.json) |
 | No Entry | 378605 | [378605-no-entry.json](./378605-no-entry.json) |
+| No Escape | 45769 | [45769-no-escape.json](./45769-no-escape.json) |
 | No Escape from Madness | 332456 | [332456-no-escape-from-madness.json](./332456-no-escape-from-madness.json) |
 | No Escape Saga | 146540 | [146540-no-escape-saga.json](./146540-no-escape-saga.json) |
 | No Exit | 374356 | [374356-no-exit.json](./374356-no-exit.json) |
@@ -5370,6 +5372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norman's Night In | 115518 | [115518-normans-night-in.json](./115518-normans-night-in.json) |
 | Norman's Sky | 179001 | [179001-normans-sky.json](./179001-normans-sky.json) |
 | Normenhill: Chapter 1 - "Your New Look" | 340806 | [340806-normenhill-chapter-1-your-new-look.json](./340806-normenhill-chapter-1-your-new-look.json) |
+| Normy's Beach Babe-O-Rama | 45768 | [45768-normys-beach-babe-o-rama.json](./45768-normys-beach-babe-o-rama.json) |
 | Norn9 Lofn for Nintendo Switch | 136896 | [136896-norn9-lofn-for-nintendo-switch.json](./136896-norn9-lofn-for-nintendo-switch.json) |
 | Norn9: Last Era - Limited Edition | 249735 | [249735-norn9-last-era-limited-edition.json](./249735-norn9-last-era-limited-edition.json) |
 | Norn9: Var Commons | 21589 | [21589-norn9-var-commons.json](./21589-norn9-var-commons.json) |
