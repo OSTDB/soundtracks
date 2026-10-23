@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CandyVenture: Rebaked | 280308 | [280308-candyventure-rebaked.json](./280308-candyventure-rebaked.json) |
 | Candyz | 206703 | [206703-candyz.json](./206703-candyz.json) |
 | CandyZoo 2 Electric Boogaloo | 133976 | [133976-candyzoo-2-electric-boogaloo.json](./133976-candyzoo-2-electric-boogaloo.json) |
+| Canek: Quest for Corn | 88018 | [88018-canek-quest-for-corn.json](./88018-canek-quest-for-corn.json) |
 | Canfield | 83476 | [83476-canfield.json](./83476-canfield.json) |
 | Canfield Solitaire Collection | 211769 | [211769-canfield-solitaire-collection.json](./211769-canfield-solitaire-collection.json) |
 | Cang Loong City | 127572 | [127572-cang-loong-city.json](./127572-cang-loong-city.json) |
@@ -2512,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Mogul | 73759 | [73759-casino-mogul.json](./73759-casino-mogul.json) |
 | Casino Noir | 29607 | [29607-casino-noir.json](./29607-casino-noir.json) |
 | Casino of Time | 409857 | [409857-casino-of-time.json](./409857-casino-of-time.json) |
+| Casino Poker | 86596 | [86596-casino-poker.json](./86596-casino-poker.json) |
 | Casino Pokies-CPC | 360590 | [360590-casino-pokies-cpc.json](./360590-casino-pokies-cpc.json) |
 | Casino Resort | 255059 | [255059-casino-resort.json](./255059-casino-resort.json) |
 | Casino Resort Tower | 192713 | [192713-casino-resort-tower.json](./192713-casino-resort-tower.json) |
@@ -4017,6 +4019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestwald Adventure | 284812 | [284812-celestwald-adventure.json](./284812-celestwald-adventure.json) |
 | Celetania | 92415 | [92415-celetania.json](./92415-celetania.json) |
 | Cell | 287357 | [287357-cell.json](./287357-cell.json) |
+| Cell | 86632 | [86632-cell.json](./86632-cell.json) |
 | CELL 0: Cyber Entertainment Leisure Lounge | 326756 | [326756-cell-0-cyber-entertainment-leisure-lounge.json](./326756-cell-0-cyber-entertainment-leisure-lounge.json) |
 | Cell Bound | 254495 | [254495-cell-bound.json](./254495-cell-bound.json) |
 | Cell Command | 323507 | [323507-cell-command.json](./323507-cell-command.json) |
@@ -7558,6 +7561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Fingers | 237958 | [237958-clash-of-fingers.json](./237958-clash-of-fingers.json) |
 | Clash of Irons: Blitzkrieg | 157483 | [157483-clash-of-irons-blitzkrieg.json](./157483-clash-of-irons-blitzkrieg.json) |
 | Clash of Legends | 108178 | [108178-clash-of-legends.json](./108178-clash-of-legends.json) |
+| Clash of Magic VR | 86626 | [86626-clash-of-magic-vr.json](./86626-clash-of-magic-vr.json) |
 | Clash of Magic: Spectator Mode | 99027 | [99027-clash-of-magic-spectator-mode.json](./99027-clash-of-magic-spectator-mode.json) |
 | Clash of Panzer | 220159 | [220159-clash-of-panzer.json](./220159-clash-of-panzer.json) |
 | Clash of Puppets | 17892 | [17892-clash-of-puppets.json](./17892-clash-of-puppets.json) |
@@ -11644,6 +11648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosa Nostra | 182863 | [182863-cosa-nostra.json](./182863-cosa-nostra.json) |
 | Cosa Nostra | 39108 | [39108-cosa-nostra.json](./39108-cosa-nostra.json) |
 | Cosdarica's Journey at the End of the World | 411506 | [411506-cosdaricas-journey-at-the-end-of-the-world.json](./411506-cosdaricas-journey-at-the-end-of-the-world.json) |
+| Cosh | 86589 | [86589-cosh.json](./86589-cosh.json) |
 | Cosm | 32693 | [32693-cosm.json](./32693-cosm.json) |
 | Cosmantic Cluster | 258492 | [258492-cosmantic-cluster.json](./258492-cosmantic-cluster.json) |
 | Cosmetic Paradise | 47871 | [47871-cosmetic-paradise.json](./47871-cosmetic-paradise.json) |
@@ -11980,6 +11985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Council of Mages: The Party Game | 267255 | [267255-council-of-mages-the-party-game.json](./267255-council-of-mages-the-party-game.json) |
 | Counseling | 401050 | [401050-counseling.json](./401050-counseling.json) |
 | Count 427 | 287624 | [287624-count-427.json](./287624-count-427.json) |
+| Count Dookie Fart | 87940 | [87940-count-dookie-fart.json](./87940-count-dookie-fart.json) |
 | Count Downula | 109040 | [109040-count-downula.json](./109040-count-downula.json) |
 | Count Duckula 2: Featuring Tremendous Terence | 15919 | [15919-count-duckula-2-featuring-tremendous-terence.json](./15919-count-duckula-2-featuring-tremendous-terence.json) |
 | Count Duckula: No Sax Please - We're Egyptian | 13523 | [13523-count-duckula-no-sax-please-were-egyptian.json](./13523-count-duckula-no-sax-please-were-egyptian.json) |
@@ -13886,6 +13892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Pix | 362197 | [362197-cross-pix.json](./362197-cross-pix.json) |
 | Cross Pix 2 | 363970 | [363970-cross-pix-2.json](./363970-cross-pix-2.json) |
 | Cross Pix 3 | 365545 | [365545-cross-pix-3.json](./365545-cross-pix-3.json) |
+| Cross Pixels | 87934 | [87934-cross-pixels.json](./87934-cross-pixels.json) |
 | Cross Princess | 149499 | [149499-cross-princess.json](./149499-cross-princess.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
 | Cross Review World | 178951 | [178951-cross-review-world.json](./178951-cross-review-world.json) |
