@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Games in 1 Double Pack: Power Rangers Ninja Storm + Power Rangers Time Force | 86044 | [86044-2-games-in-1-double-pack-power-rangers-ninja-storm-power-rangers-time-force.json](./86044-2-games-in-1-double-pack-power-rangers-ninja-storm-power-rangers-time-force.json) |
 | 2 Games in 1 Double Pack: Scooby-Doo and the Cyber Chase + Scooby-Doo! Mystery Mayhem | 84265 | [84265-2-games-in-1-double-pack-scooby-doo-and-the-cyber-chase-scooby-doo-mystery-mayhem.json](./84265-2-games-in-1-double-pack-scooby-doo-and-the-cyber-chase-scooby-doo-mystery-mayhem.json) |
 | 2 Games in 1 I Finding Nemo + Finding Nemo: The Continuing Adventures | 130301 | [130301-2-games-in-1-i-finding-nemo-finding-nemo-the-continuing-adventures.json](./130301-2-games-in-1-i-finding-nemo-finding-nemo-the-continuing-adventures.json) |
+| 2 Games In 1: Cartoon Network Block Party & Cartoon Network Speedway | 77825 | [77825-2-games-in-1-cartoon-network-block-party-and-cartoon-network-speedway.json](./77825-2-games-in-1-cartoon-network-block-party-and-cartoon-network-speedway.json) |
 | 2 Games in 1: Columns Crown + ChuChu Rocket! | 86052 | [86052-2-games-in-1-columns-crown-chuchu-rocket.json](./86052-2-games-in-1-columns-crown-chuchu-rocket.json) |
 | 2 Games in 1: Disney Princess + Disney's The Lion King | 86045 | [86045-2-games-in-1-disney-princess-disneys-the-lion-king.json](./86045-2-games-in-1-disney-princess-disneys-the-lion-king.json) |
 | 2 Games In 1: Disney's Brother Bear + Disney Princess | 79840 | [79840-2-games-in-1-disneys-brother-bear-disney-princess.json](./79840-2-games-in-1-disneys-brother-bear-disney-princess.json) |
@@ -1917,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Twist & Match | 65551 | [65551-3d-twist-and-match.json](./65551-3d-twist-and-match.json) |
 | 3D Ultra Lionel Traintown | 10735 | [10735-3d-ultra-lionel-traintown.json](./10735-3d-ultra-lionel-traintown.json) |
 | 3D Ultra Lionel Traintown Deluxe | 205954 | [205954-3d-ultra-lionel-traintown-deluxe.json](./205954-3d-ultra-lionel-traintown-deluxe.json) |
+| 3D Ultra Mini Golf | 77788 | [77788-3d-ultra-mini-golf.json](./77788-3d-ultra-mini-golf.json) |
 | 3D Ultra Minigolf Adventures | 9899 | [9899-3d-ultra-minigolf-adventures.json](./9899-3d-ultra-minigolf-adventures.json) |
 | 3D Ultra Minigolf Adventures 2 | 52039 | [52039-3d-ultra-minigolf-adventures-2.json](./52039-3d-ultra-minigolf-adventures-2.json) |
 | 3D Ultra Minigolf Adventures: Carnival | 73260 | [73260-3d-ultra-minigolf-adventures-carnival.json](./73260-3d-ultra-minigolf-adventures-carnival.json) |
