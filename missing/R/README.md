@@ -1376,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage of the Dead | 105355 | [105355-rampage-of-the-dead.json](./105355-rampage-of-the-dead.json) |
 | Rampage Ragdoll | 81937 | [81937-rampage-ragdoll.json](./81937-rampage-ragdoll.json) |
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
+| Rampage Through Time | 45091 | [45091-rampage-through-time.json](./45091-rampage-through-time.json) |
 | Rampage World Tour | 249132 | [249132-rampage-world-tour.json](./249132-rampage-world-tour.json) |
 | Rampage World Tour | 3056 | [3056-rampage-world-tour.json](./3056-rampage-world-tour.json) |
 | Rampage: AR Unleashed | 97528 | [97528-rampage-ar-unleashed.json](./97528-rampage-ar-unleashed.json) |
@@ -1868,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray Scramble | 97670 | [97670-ray-scramble.json](./97670-ray-scramble.json) |
 | Ray Shootiner | 98044 | [98044-ray-shootiner.json](./98044-ray-shootiner.json) |
 | Ray the Flying Squirrel in Sonic the Hedgehog | 198536 | [198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json](./198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json) |
+| Ray Tracers | 45090 | [45090-ray-tracers.json](./45090-ray-tracers.json) |
 | Ray-Gun | 64969 | [64969-ray-gun.json](./64969-ray-gun.json) |
 | Ray-Hound | 78702 | [78702-ray-hound.json](./78702-ray-hound.json) |
 | Ray-Thunder | 64909 | [64909-ray-thunder.json](./64909-ray-thunder.json) |
@@ -1884,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raycast Racer | 185508 | [185508-raycast-racer.json](./185508-raycast-racer.json) |
 | RayCity | 116391 | [116391-raycity.json](./116391-raycity.json) |
 | RayCity | 388167 | [388167-raycity.json](./388167-raycity.json) |
+| RayCrisis: Series Termination | 45036 | [45036-raycrisis-series-termination.json](./45036-raycrisis-series-termination.json) |
 | Rayer Shoot | 266673 | [266673-rayer-shoot.json](./266673-rayer-shoot.json) |
 | Rayflector | 243609 | [243609-rayflector.json](./243609-rayflector.json) |
 | RayForce | 22349 | [22349-rayforce.json](./22349-rayforce.json) |
@@ -3447,10 +3450,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Deal Poker Challenge | 66727 | [66727-reel-deal-poker-challenge.json](./66727-reel-deal-poker-challenge.json) |
 | Reel Deal Slots Adventure | 131294 | [131294-reel-deal-slots-adventure.json](./131294-reel-deal-slots-adventure.json) |
 | Reel Deal Vegas Casino Experience | 77612 | [77612-reel-deal-vegas-casino-experience.json](./77612-reel-deal-vegas-casino-experience.json) |
+| Reel Fishing | 45088 | [45088-reel-fishing.json](./45088-reel-fishing.json) |
 | Reel Fishing 3D Paradise | 84832 | [84832-reel-fishing-3d-paradise.json](./84832-reel-fishing-3d-paradise.json) |
 | Reel Fishing 3D Paradise Mini | 84831 | [84831-reel-fishing-3d-paradise-mini.json](./84831-reel-fishing-3d-paradise-mini.json) |
 | Reel Fishing Challenge | 67964 | [67964-reel-fishing-challenge.json](./67964-reel-fishing-challenge.json) |
 | Reel Fishing Challenge II | 85573 | [85573-reel-fishing-challenge-ii.json](./85573-reel-fishing-challenge-ii.json) |
+| Reel Fishing II | 45087 | [45087-reel-fishing-ii.json](./45087-reel-fishing-ii.json) |
 | Reel Fishing: Angler's Dream | 5121 | [5121-reel-fishing-anglers-dream.json](./5121-reel-fishing-anglers-dream.json) |
 | Reel Fishing: Days of Summer | 322079 | [322079-reel-fishing-days-of-summer.json](./322079-reel-fishing-days-of-summer.json) |
 | Reel Fishing: Ocean Challenge | 85574 | [85574-reel-fishing-ocean-challenge.json](./85574-reel-fishing-ocean-challenge.json) |
@@ -4774,6 +4779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro First Friday Collection #4 | 186296 | [186296-retro-first-friday-collection-4.json](./186296-retro-first-friday-collection-4.json) |
 | Retro Fit - Zordak's Revenge | 105756 | [105756-retro-fit-zordaks-revenge.json](./105756-retro-fit-zordaks-revenge.json) |
 | Retro Football Boss | 31751 | [31751-retro-football-boss.json](./31751-retro-football-boss.json) |
+| Retro Force | 45017 | [45017-retro-force.json](./45017-retro-force.json) |
 | Retro Gadgets | 219688 | [219688-retro-gadgets.json](./219688-retro-gadgets.json) |
 | Retro Game Crunch | 36349 | [36349-retro-game-crunch.json](./36349-retro-game-crunch.json) |
 | Retro Game Pack | 147902 | [147902-retro-game-pack.json](./147902-retro-game-pack.json) |
