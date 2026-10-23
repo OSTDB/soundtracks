@@ -1571,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capyvarias | 390806 | [390806-capyvarias.json](./390806-capyvarias.json) |
 | Car | 243586 | [243586-car.json](./243586-car.json) |
 | Car and Driver | 72042 | [72042-car-and-driver.json](./72042-car-and-driver.json) |
+| Car Builder | 97187 | [97187-car-builder.json](./97187-car-builder.json) |
 | Car Car Crash Hands on Edition | 32623 | [32623-car-car-crash-hands-on-edition.json](./32623-car-car-crash-hands-on-edition.json) |
 | Car Carrier Simulator | 326460 | [326460-car-carrier-simulator.json](./326460-car-carrier-simulator.json) |
 | Car Challenge | 410240 | [410240-car-challenge.json](./410240-car-challenge.json) |
@@ -4369,6 +4370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chameleon: To Dye For! | 72713 | [72713-chameleon-to-dye-for.json](./72713-chameleon-to-dye-for.json) |
 | Chameneon | 185921 | [185921-chameneon.json](./185921-chameneon.json) |
 | Champ Against Chumps | 108839 | [108839-champ-against-chumps.json](./108839-champ-against-chumps.json) |
+| Champ Against Chumps Upgrade Edition | 97176 | [97176-champ-against-chumps-upgrade-edition.json](./97176-champ-against-chumps-upgrade-edition.json) |
 | Champ Asterocks | 94689 | [94689-champ-asterocks.json](./94689-champ-asterocks.json) |
 | Champ at Dawn | 231349 | [231349-champ-at-dawn.json](./231349-champ-at-dawn.json) |
 | Champ Invaders | 94248 | [94248-champ-invaders.json](./94248-champ-invaders.json) |
