@@ -9461,6 +9461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SketchFighter 4000 Alpha | 146190 | [146190-sketchfighter-4000-alpha.json](./146190-sketchfighter-4000-alpha.json) |
 | Sketchful.io | 122975 | [122975-sketchful-io.json](./122975-sketchful-io.json) |
 | Sketchman | 345274 | [345274-sketchman.json](./345274-sketchman.json) |
+| SketchParty TV | 98862 | [98862-sketchparty-tv.json](./98862-sketchparty-tv.json) |
 | Sketchy | 54461 | [54461-sketchy.json](./54461-sketchy.json) |
 | Sketchy 2 | 54460 | [54460-sketchy-2.json](./54460-sketchy-2.json) |
 | Sketchy Arcade | 359619 | [359619-sketchy-arcade.json](./359619-sketchy-arcade.json) |
@@ -9556,6 +9557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skidrush | 309544 | [309544-skidrush.json](./309544-skidrush.json) |
 | SkidStorm | 54977 | [54977-skidstorm.json](./54977-skidstorm.json) |
 | Skidz | 15369 | [15369-skidz.json](./15369-skidz.json) |
+| Skidz | 98828 | [98828-skidz.json](./98828-skidz.json) |
 | Skies Above | 272931 | [272931-skies-above.json](./272931-skies-above.json) |
 | Skies Above the Great War | 244876 | [244876-skies-above-the-great-war.json](./244876-skies-above-the-great-war.json) |
 | Skies of Arcadia | 19007 | [19007-skies-of-arcadia.json](./19007-skies-of-arcadia.json) |
@@ -12961,6 +12963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Perfect Match | 87126 | [87126-solitaire-perfect-match.json](./87126-solitaire-perfect-match.json) |
 | Solitaire Plus! | 88613 | [88613-solitaire-plus.json](./88613-solitaire-plus.json) |
 | Solitaire Poker | 19493 | [19493-solitaire-poker.json](./19493-solitaire-poker.json) |
+| Solitaire Pro: 160 Card Games | 98864 | [98864-solitaire-pro-160-card-games.json](./98864-solitaire-pro-160-card-games.json) |
 | Solitaire Q | 108205 | [108205-solitaire-q.json](./108205-solitaire-q.json) |
 | Solitaire Quest: Garden Story | 260395 | [260395-solitaire-quest-garden-story.json](./260395-solitaire-quest-garden-story.json) |
 | Solitaire Quest: Love Blossoms | 340354 | [340354-solitaire-quest-love-blossoms.json](./340354-solitaire-quest-love-blossoms.json) |
@@ -22419,6 +22422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Structura | 150504 | [150504-structura.json](./150504-structura.json) |
 | Structus | 192324 | [192324-structus.json](./192324-structus.json) |
 | Struggle F.O | 276603 | [276603-struggle-f-o.json](./276603-struggle-f-o.json) |
+| Struggle For Survival VR | 98757 | [98757-struggle-for-survival-vr.json](./98757-struggle-for-survival-vr.json) |
 | Struggle For Talyria | 148920 | [148920-struggle-for-talyria.json](./148920-struggle-for-talyria.json) |
 | Struggle for the Iliac Bay | 356168 | [356168-struggle-for-the-iliac-bay.json](./356168-struggle-for-the-iliac-bay.json) |
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
