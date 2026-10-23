@@ -1040,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1900 | 253249 | [253249-1900.json](./253249-1900.json) |
 | 1912 Titanic Mystery | 120395 | [120395-1912-titanic-mystery.json](./120395-1912-titanic-mystery.json) |
 | 1912 Titanic w/ Neptunia | 205802 | [205802-1912-titanic-w-neptunia.json](./205802-1912-titanic-w-neptunia.json) |
+| 1914 Shells of Fury | 52359 | [52359-1914-shells-of-fury.json](./52359-1914-shells-of-fury.json) |
 | 1914: Prelude to Chaos | 28642 | [28642-1914-prelude-to-chaos.json](./28642-1914-prelude-to-chaos.json) |
 | 1916: Der Unbekannte Krieg | 92397 | [92397-1916-der-unbekannte-krieg.json](./92397-1916-der-unbekannte-krieg.json) |
 | 1917: The Alien Invasion | 19749 | [19749-1917-the-alien-invasion.json](./19749-1917-the-alien-invasion.json) |
@@ -1150,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Fast 2 Furious | 301502 | [301502-2-fast-2-furious.json](./301502-2-fast-2-furious.json) |
 | 2 Fast 4 Gnomz | 8618 | [8618-2-fast-4-gnomz.json](./8618-2-fast-4-gnomz.json) |
 | 2 Fast 4 You | 25700 | [25700-2-fast-4-you.json](./25700-2-fast-4-you.json) |
+| 2 Fast Driver | 52358 | [52358-2-fast-driver.json](./52358-2-fast-driver.json) |
 | 2 For 2 | 88545 | [88545-2-for-2.json](./88545-2-for-2.json) |
 | 2 Foxes and the Puzzling Forest | 185095 | [185095-2-foxes-and-the-puzzling-forest.json](./185095-2-foxes-and-the-puzzling-forest.json) |
 | 2 Game Pack I Haunted Hotel: Eclipse & Haunted Hotel: Ancient Bane | 201816 | [201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json](./201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json) |
@@ -1229,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2-Finger Heroes | 66692 | [66692-2-finger-heroes.json](./66692-2-finger-heroes.json) |
 | 2-Headed Boy | 358073 | [358073-2-headed-boy.json](./358073-2-headed-boy.json) |
 | 2-Hour Community Build Project | 308479 | [308479-2-hour-community-build-project.json](./308479-2-hour-community-build-project.json) |
+| 2-in-1 Checkers and Reversi | 52356 | [52356-2-in-1-checkers-and-reversi.json](./52356-2-in-1-checkers-and-reversi.json) |
 | 2-in-1 Fun Pack I Dreamworks Madagascar: Operation Penguin + Shrek 2 | 86054 | [86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json](./86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json) |
 | 2-in-1 Geminim/Siamond | 338795 | [338795-2-in-1-geminim-siamond.json](./338795-2-in-1-geminim-siamond.json) |
 | 2-in-1 Kart Racing Bundle | 331455 | [331455-2-in-1-kart-racing-bundle.json](./331455-2-in-1-kart-racing-bundle.json) |
@@ -1565,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Days of Tactical Farming | 185000 | [185000-3-days-of-tactical-farming.json](./185000-3-days-of-tactical-farming.json) |
 | 3 Days to Live | 379898 | [379898-3-days-to-live.json](./379898-3-days-to-live.json) |
 | 3 Days: Ghosts of War | 197583 | [197583-3-days-ghosts-of-war.json](./197583-3-days-ghosts-of-war.json) |
+| 3 Days: Zoo Mystery | 52355 | [52355-3-days-zoo-mystery.json](./52355-3-days-zoo-mystery.json) |
 | 3 Deep Space | 83269 | [83269-3-deep-space.json](./83269-3-deep-space.json) |
 | 3 Foot Ninja | 241472 | [241472-3-foot-ninja.json](./241472-3-foot-ninja.json) |
 | 3 Games in 1: Tak and the Power of Juju / SpongeBob SquarePants: SuperSponge / Rugrats: I Gotta Go Party | 82098 | [82098-3-games-in-1-tak-and-the-power-of-juju-spongebob-squarepants-supersponge-rugrats-i-gotta-go-party.json](./82098-3-games-in-1-tak-and-the-power-of-juju-spongebob-squarepants-supersponge-rugrats-i-gotta-go-party.json) |
@@ -2246,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Pack Limited Edition | 98919 | [98919-5-pack-limited-edition.json](./98919-5-pack-limited-edition.json) |
 | 5 Plus One: Pack 4 | 131287 | [131287-5-plus-one-pack-4.json](./131287-5-plus-one-pack-4.json) |
 | 5 Points Mall | 276764 | [276764-5-points-mall.json](./276764-5-points-mall.json) |
+| 5 Realms of Cards | 52353 | [52353-5-realms-of-cards.json](./52353-5-realms-of-cards.json) |
 | 5 Red Mickeys | 362723 | [362723-5-red-mickeys.json](./362723-5-red-mickeys.json) |
 | 5 Spots Party | 51102 | [51102-5-spots-party.json](./51102-5-spots-party.json) |
 | 5 Star Fishy | 245937 | [245937-5-star-fishy.json](./245937-5-star-fishy.json) |
@@ -2435,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Days to End with You | 189888 | [189888-7-days-to-end-with-you.json](./189888-7-days-to-end-with-you.json) |
 | 7 Days to Save the World | 189016 | [189016-7-days-to-save-the-world.json](./189016-7-days-to-save-the-world.json) |
 | 7 Dice Destroyers | 366119 | [366119-7-dice-destroyers.json](./366119-7-dice-destroyers.json) |
+| 7 Gates: The Path to Zamolxes | 52351 | [52351-7-gates-the-path-to-zamolxes.json](./52351-7-gates-the-path-to-zamolxes.json) |
 | 7 Girls War | 160238 | [160238-7-girls-war.json](./160238-7-girls-war.json) |
 | 7 Grand Dad | 146068 | [146068-7-grand-dad.json](./146068-7-grand-dad.json) |
 | 7 Grand Steps: What Ancients Begat | 16537 | [16537-7-grand-steps-what-ancients-begat.json](./16537-7-grand-steps-what-ancients-begat.json) |
@@ -2742,6 +2748,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Problems | 353316 | [353316-99-problems.json](./353316-99-problems.json) |
 | 99 Spirits | 9937 | [9937-99-spirits.json](./9937-99-spirits.json) |
 | 99 Spirits: Cage of Night | 11438 | [11438-99-spirits-cage-of-night.json](./11438-99-spirits-cage-of-night.json) |
+| 99 Spirits: Complete Collection | 52349 | [52349-99-spirits-complete-collection.json](./52349-99-spirits-complete-collection.json) |
+| 99 Spirits: Special Edition | 52348 | [52348-99-spirits-special-edition.json](./52348-99-spirits-special-edition.json) |
 | 99 Spirits: Weeping Demon's Bell | 11439 | [11439-99-spirits-weeping-demons-bell.json](./11439-99-spirits-weeping-demons-bell.json) |
 | 99 Waves | 283870 | [283870-99-waves.json](./283870-99-waves.json) |
 | 99 Ways to Die | 313838 | [313838-99-ways-to-die.json](./313838-99-ways-to-die.json) |
