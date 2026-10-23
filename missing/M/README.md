@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madou Monogatari | 57675 | [57675-madou-monogatari.json](./57675-madou-monogatari.json) |
 | Madou Monogatari 1-2-3 | 94394 | [94394-madou-monogatari-1-2-3.json](./94394-madou-monogatari-1-2-3.json) |
 | Madou Monogatari A: Doki-doki Vacation | 45269 | [45269-madou-monogatari-a-doki-doki-vacation.json](./45269-madou-monogatari-a-doki-doki-vacation.json) |
+| Madou Monogatari I | 73644 | [73644-madou-monogatari-i.json](./73644-madou-monogatari-i.json) |
 | Madou Monogatari I: 3tsu no Madoukyuu | 45268 | [45268-madou-monogatari-i-3tsu-no-madoukyuu.json](./45268-madou-monogatari-i-3tsu-no-madoukyuu.json) |
 | Madou Monogatari I: Honoo no Sotsuenji | 141807 | [141807-madou-monogatari-i-honoo-no-sotsuenji.json](./141807-madou-monogatari-i-honoo-no-sotsuenji.json) |
 | Madou Monogatari II: Arle 16-Sai | 45267 | [45267-madou-monogatari-ii-arle-16-sai.json](./45267-madou-monogatari-ii-arle-16-sai.json) |
@@ -4484,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Puzzles Brain Teasers 2018 | 104124 | [104124-math-puzzles-brain-teasers-2018.json](./104124-math-puzzles-brain-teasers-2018.json) |
 | Math Puzzles PRO | 105958 | [105958-math-puzzles-pro.json](./105958-math-puzzles-pro.json) |
 | Math Quest VR : The Search for the Crown of Calculation | 339302 | [339302-math-quest-vr-the-search-for-the-crown-of-calculation.json](./339302-math-quest-vr-the-search-for-the-crown-of-calculation.json) |
+| Math Rabbit: Deluxe! | 73669 | [73669-math-rabbit-deluxe.json](./73669-math-rabbit-deluxe.json) |
 | Math Rescue | 35548 | [35548-math-rescue.json](./35548-math-rescue.json) |
 | Math Rescue Plus | 343385 | [343385-math-rescue-plus.json](./343385-math-rescue-plus.json) |
 | Math Rescue: Rounding and Estimation game | 97139 | [97139-math-rescue-rounding-and-estimation-game.json](./97139-math-rescue-rounding-and-estimation-game.json) |
@@ -4716,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Apocalypse: The Video Game | 304291 | [304291-maximum-apocalypse-the-video-game.json](./304291-maximum-apocalypse-the-video-game.json) |
 | Maximum Archery the Game | 31711 | [31711-maximum-archery-the-game.json](./31711-maximum-archery-the-game.json) |
 | Maximum Car | 246255 | [246255-maximum-car.json](./246255-maximum-car.json) |
+| Maximum Chase | 73607 | [73607-maximum-chase.json](./73607-maximum-chase.json) |
 | Maximum Chaser: 1001 Squad | 325509 | [325509-maximum-chaser-1001-squad.json](./325509-maximum-chaser-1001-squad.json) |
 | Maximum Entertainment Horror Bundle | 313209 | [313209-maximum-entertainment-horror-bundle.json](./313209-maximum-entertainment-horror-bundle.json) |
 | Maximum Entertainment Puzzle Platformer Bundle | 313208 | [313208-maximum-entertainment-puzzle-platformer-bundle.json](./313208-maximum-entertainment-puzzle-platformer-bundle.json) |
@@ -4733,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Momentum | 127167 | [127167-maximum-momentum.json](./127167-maximum-momentum.json) |
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
+| Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
 | Maximum Racing: Super Truck Racer | 50603 | [50603-maximum-racing-super-truck-racer.json](./50603-maximum-racing-super-truck-racer.json) |
 | Maximum Rescue | 93027 | [93027-maximum-rescue.json](./93027-maximum-rescue.json) |
 | Maximum Roadkill | 92319 | [92319-maximum-roadkill.json](./92319-maximum-roadkill.json) |
@@ -15196,6 +15200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Mystery 2: Criminal Case | 130649 | [130649-murder-mystery-2-criminal-case.json](./130649-murder-mystery-2-criminal-case.json) |
 | Murder Mystery 3: A Life of Crime | 130650 | [130650-murder-mystery-3-a-life-of-crime.json](./130650-murder-mystery-3-a-life-of-crime.json) |
 | Murder Mystery Adventure | 27302 | [27302-murder-mystery-adventure.json](./27302-murder-mystery-adventure.json) |
+| Murder Mystery Case 3: Who Killed Brett Penance - The Environmental Surfer | 73640 | [73640-murder-mystery-case-3-who-killed-brett-penance-the-environmental-surfer.json](./73640-murder-mystery-case-3-who-killed-brett-penance-the-environmental-surfer.json) |
 | Murder Mystery Castle | 399746 | [399746-murder-mystery-castle.json](./399746-murder-mystery-castle.json) |
 | Murder Mystery J: Jinrou Judgment - Maru Icon | 325460 | [325460-murder-mystery-j-jinrou-judgment-maru-icon.json](./325460-murder-mystery-j-jinrou-judgment-maru-icon.json) |
 | Murder Mystery J: Jinrou Judgment - SP1 Icon | 325457 | [325457-murder-mystery-j-jinrou-judgment-sp1-icon.json](./325457-murder-mystery-j-jinrou-judgment-sp1-icon.json) |
