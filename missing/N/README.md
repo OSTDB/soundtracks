@@ -5918,8 +5918,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nude Crisis | 211603 | [211603-nude-crisis.json](./211603-nude-crisis.json) |
 | Nudel Tag | 270113 | [270113-nudel-tag.json](./270113-nudel-tag.json) |
 | NudGirls | 298413 | [298413-nudgirls.json](./298413-nudgirls.json) |
+| Nudist Beach Survival Simulator | 59150 | [59150-nudist-beach-survival-simulator.json](./59150-nudist-beach-survival-simulator.json) |
 | Nudist Beach Survival Simulator 2 | 171465 | [171465-nudist-beach-survival-simulator-2.json](./171465-nudist-beach-survival-simulator-2.json) |
 | Nudo | 210560 | [210560-nudo.json](./210560-nudo.json) |
+| Nuga-Cel! | 59163 | [59163-nuga-cel.json](./59163-nuga-cel.json) |
 | Nugatory | 399690 | [399690-nugatory.json](./399690-nugatory.json) |
 | Nugget & Penny: Adventure Machine | 121604 | [121604-nugget-and-penny-adventure-machine.json](./121604-nugget-and-penny-adventure-machine.json) |
 | Nugget Royale | 123253 | [123253-nugget-royale.json](./123253-nugget-royale.json) |
