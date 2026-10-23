@@ -1169,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Zombie Tail | 290919 | [290919-a-zombie-tail.json](./290919-a-zombie-tail.json) |
 | A Zone | 125102 | [125102-a-zone.json](./125102-a-zone.json) |
 | A-01's Voyage.Logs | 399288 | [399288-a-01s-voyage-logs.json](./399288-a-01s-voyage-logs.json) |
+| A-10 Cuba! | 94518 | [94518-a-10-cuba.json](./94518-a-10-cuba.json) |
 | A-10 Tank Killer | 14200 | [14200-a-10-tank-killer.json](./14200-a-10-tank-killer.json) |
 | A-10 Tank Killer + Extra Missions | 100046 | [100046-a-10-tank-killer-extra-missions.json](./100046-a-10-tank-killer-extra-missions.json) |
 | A-10 Tank Killer Version 1.5 | 15570 | [15570-a-10-tank-killer-version-1-5.json](./15570-a-10-tank-killer-version-1-5.json) |
@@ -2090,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achtung! Cthulhu Tactics | 106562 | [106562-achtung-cthulhu-tactics.json](./106562-achtung-cthulhu-tactics.json) |
 | Acia | 94639 | [94639-acia.json](./94639-acia.json) |
 | Acid | 222775 | [222775-acid.json](./222775-acid.json) |
+| Acid Attack | 94523 | [94523-acid-attack.json](./94523-acid-attack.json) |
 | Acid Ball | 213058 | [213058-acid-ball.json](./213058-acid-ball.json) |
 | Acid Drop | 11111 | [11111-acid-drop.json](./11111-acid-drop.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
@@ -8461,6 +8463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant: Protect The Queen | 323219 | [323219-ant-protect-the-queen.json](./323219-ant-protect-the-queen.json) |
 | Antadin DX | 171996 | [171996-antadin-dx.json](./171996-antadin-dx.json) |
 | Antagonist | 27869 | [27869-antagonist.json](./27869-antagonist.json) |
+| Antagony | 94603 | [94603-antagony.json](./94603-antagony.json) |
 | Antarah | 326691 | [326691-antarah.json](./326691-antarah.json) |
 | Antarctic Adventure | 239172 | [239172-antarctic-adventure.json](./239172-antarctic-adventure.json) |
 | Antarctic Adventure | 385990 | [385990-antarctic-adventure.json](./385990-antarctic-adventure.json) |
@@ -8898,6 +8901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apico 3.0: What Lies Beeneath | 317994 | [317994-apico-3-0-what-lies-beeneath.json](./317994-apico-3-0-what-lies-beeneath.json) |
 | Apico 4.0: Hive of Industry | 330561 | [330561-apico-4-0-hive-of-industry.json](./330561-apico-4-0-hive-of-industry.json) |
 | Apidya | 11906 | [11906-apidya.json](./11906-apidya.json) |
+| Apidya II | 94586 | [94586-apidya-ii.json](./94586-apidya-ii.json) |
 | Apidya' Special | 409792 | [409792-apidya-special.json](./409792-apidya-special.json) |
 | APlaceDominatedByFire | 390019 | [390019-aplacedominatedbyfire.json](./390019-aplacedominatedbyfire.json) |
 | APlaceDominatedByHoles | 260418 | [260418-aplacedominatedbyholes.json](./260418-aplacedominatedbyholes.json) |
@@ -10181,6 +10185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archipelago: A Survival Game | 88455 | [88455-archipelago-a-survival-game.json](./88455-archipelago-a-survival-game.json) |
 | Archipelago: Island Survival | 297787 | [297787-archipelago-island-survival.json](./297787-archipelago-island-survival.json) |
 | Archipelago: Navigable VR Comic | 29822 | [29822-archipelago-navigable-vr-comic.json](./29822-archipelago-navigable-vr-comic.json) |
+| Archipelagos 2000 | 94602 | [94602-archipelagos-2000.json](./94602-archipelagos-2000.json) |
 | Archipeo | 407384 | [407384-archipeo.json](./407384-archipeo.json) |
 | Architect | 182900 | [182900-architect.json](./182900-architect.json) |
 | Architect | 326623 | [326623-architect.json](./326623-architect.json) |
@@ -13398,6 +13403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurum | 373636 | [373636-aurum.json](./373636-aurum.json) |
 | Aurum Kings | 100148 | [100148-aurum-kings.json](./100148-aurum-kings.json) |
 | Aurum Online | 158968 | [158968-aurum-online.json](./158968-aurum-online.json) |
+| Auryn Quest | 94591 | [94591-auryn-quest.json](./94591-auryn-quest.json) |
 | Ausbruch | 271943 | [271943-ausbruch.json](./271943-ausbruch.json) |
 | Aussie Clowns At War | 190194 | [190194-aussie-clowns-at-war.json](./190194-aussie-clowns-at-war.json) |
 | Aussie Joker Poker | 14276 | [14276-aussie-joker-poker.json](./14276-aussie-joker-poker.json) |
@@ -13759,6 +13765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatars Saga | 243704 | [243704-avatars-saga.json](./243704-avatars-saga.json) |
 | Avathar: The Legend of Green Dragon | 62066 | [62066-avathar-the-legend-of-green-dragon.json](./62066-avathar-the-legend-of-green-dragon.json) |
 | Avava | 207287 | [207287-avava.json](./207287-avava.json) |
+| AVCStec Challenge | 94587 | [94587-avcstec-challenge.json](./94587-avcstec-challenge.json) |
 | Ave Classic | 355185 | [355185-ave-classic.json](./355185-ave-classic.json) |
 | Ave Trail | 359209 | [359209-ave-trail.json](./359209-ave-trail.json) |
 | Avelia | 292318 | [292318-avelia.json](./292318-avelia.json) |
