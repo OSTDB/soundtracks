@@ -3008,7 +3008,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heisting | 294241 | [294241-heisting.json](./294241-heisting.json) |
 | Heisting: Arsenal | 294847 | [294847-heisting-arsenal.json](./294847-heisting-arsenal.json) |
 | Heisting: Fully Armed Edition | 358667 | [358667-heisting-fully-armed-edition.json](./358667-heisting-fully-armed-edition.json) |
+| Heiwa Pachinko Graffiti Vol. 2 | 97662 | [97662-heiwa-pachinko-graffiti-vol-2.json](./97662-heiwa-pachinko-graffiti-vol-2.json) |
+| Heiwa Pachinko Soushingeki | 97660 | [97660-heiwa-pachinko-soushingeki.json](./97660-heiwa-pachinko-soushingeki.json) |
 | Heiwa Pachinko World 64 | 3510 | [3510-heiwa-pachinko-world-64.json](./3510-heiwa-pachinko-world-64.json) |
+| Heiwa Parlor! Pro: Lupin Sansei Special | 97661 | [97661-heiwa-parlor-pro-lupin-sansei-special.json](./97661-heiwa-parlor-pro-lupin-sansei-special.json) |
 | Héjīn Zǐdàn | 414116 | [414116-hejin-zidan.json](./414116-hejin-zidan.json) |
 | Heka | 190098 | [190098-heka.json](./190098-heka.json) |
 | Hekaba | 363011 | [363011-hekaba.json](./363011-hekaba.json) |
@@ -6624,6 +6627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitou Dungeon | 283842 | [283842-hitou-dungeon.json](./283842-hitou-dungeon.json) |
 | Hitozuma Dorei Keikaku | 108925 | [108925-hitozuma-dorei-keikaku.json](./108925-hitozuma-dorei-keikaku.json) |
 | Hitozuma Dorei Kyoushi | 98029 | [98029-hitozuma-dorei-kyoushi.json](./98029-hitozuma-dorei-kyoushi.json) |
+| Hitozuma Onnakyoshi: Married Female Teacher Sexual Libido Class | 97765 | [97765-hitozuma-onnakyoshi-married-female-teacher-sexual-libido-class.json](./97765-hitozuma-onnakyoshi-married-female-teacher-sexual-libido-class.json) |
 | Hitozuma Sentai Aisaiger | 65519 | [65519-hitozuma-sentai-aisaiger.json](./65519-hitozuma-sentai-aisaiger.json) |
 | Hitozuma Unyu Saimin NTR Ben | 59264 | [59264-hitozuma-unyu-saimin-ntr-ben.json](./59264-hitozuma-unyu-saimin-ntr-ben.json) |
 | Hitozuma Unyu Saimin NTR Ben ~Namatame Miki no Yokubou~ | 59263 | [59263-hitozuma-unyu-saimin-ntr-ben-namatame-miki-no-yokubou.json](./59263-hitozuma-unyu-saimin-ntr-ben-namatame-miki-no-yokubou.json) |
