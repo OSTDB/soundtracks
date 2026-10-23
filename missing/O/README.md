@@ -935,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Ship Arena | 107756 | [107756-oh-ship-arena.json](./107756-oh-ship-arena.json) |
 | Oh Ship! | 399593 | [399593-oh-ship.json](./399593-oh-ship.json) |
 | Oh Shit Boulder | 211691 | [211691-oh-shit-boulder.json](./211691-oh-shit-boulder.json) |
+| Oh Shit! | 70242 | [70242-oh-shit.json](./70242-oh-shit.json) |
 | Oh Snake! | 182780 | [182780-oh-snake.json](./182780-oh-snake.json) |
 | Oh Snap | 92086 | [92086-oh-snap.json](./92086-oh-snap.json) |
 | Oh Snow! | 408051 | [408051-oh-snow.json](./408051-oh-snow.json) |
