@@ -2368,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Town: City Farm Building | 106343 | [106343-cartoon-town-city-farm-building.json](./106343-cartoon-town-city-farm-building.json) |
 | Cartoon Universe | 247576 | [247576-cartoon-universe.json](./247576-cartoon-universe.json) |
 | Cartoon Wars | 230784 | [230784-cartoon-wars.json](./230784-cartoon-wars.json) |
+| Cartoon Wars 2: Heroes | 91781 | [91781-cartoon-wars-2-heroes.json](./91781-cartoon-wars-2-heroes.json) |
 | Cartoon Wars Blade | 369757 | [369757-cartoon-wars-blade.json](./369757-cartoon-wars-blade.json) |
 | Cartooners | 94685 | [94685-cartooners.json](./94685-cartooners.json) |
 | Cartoony Cars 2 | 110773 | [110773-cartoony-cars-2.json](./110773-cartoony-cars-2.json) |
@@ -2661,6 +2662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Explorer | 79838 | [79838-castle-explorer.json](./79838-castle-explorer.json) |
 | Castle Explorer: Heroes and rings | 167906 | [167906-castle-explorer-heroes-and-rings.json](./167906-castle-explorer-heroes-and-rings.json) |
 | Castle Explorer: The Dark Below | 174172 | [174172-castle-explorer-the-dark-below.json](./174172-castle-explorer-the-dark-below.json) |
+| Castle Fall: Age of the Magogs | 91807 | [91807-castle-fall-age-of-the-magogs.json](./91807-castle-fall-age-of-the-magogs.json) |
 | Castle Fantasia: Erencia Senki - Plus Stories | 408777 | [408777-castle-fantasia-erencia-senki-plus-stories.json](./408777-castle-fantasia-erencia-senki-plus-stories.json) |
 | Castle Flipper | 111425 | [111425-castle-flipper.json](./111425-castle-flipper.json) |
 | Castle Formers | 154026 | [154026-castle-formers.json](./154026-castle-formers.json) |
@@ -4983,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheeky Princess | 189074 | [189074-cheeky-princess.json](./189074-cheeky-princess.json) |
 | Cheep Cheep Challenge | 268181 | [268181-cheep-cheep-challenge.json](./268181-cheep-cheep-challenge.json) |
 | Cheer and Track | 123517 | [123517-cheer-and-track.json](./123517-cheer-and-track.json) |
+| Cheer We Go! | 91722 | [91722-cheer-we-go.json](./91722-cheer-we-go.json) |
 | Cheerios Play Time | 57593 | [57593-cheerios-play-time.json](./57593-cheerios-play-time.json) |
 | Cheerleader Champion Dance Off | 86808 | [86808-cheerleader-champion-dance-off.json](./86808-cheerleader-champion-dance-off.json) |
 | Cheerleader's Choice: New York Spirit | 338274 | [338274-cheerleaders-choice-new-york-spirit.json](./338274-cheerleaders-choice-new-york-spirit.json) |
@@ -9186,6 +9189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colloc | 120424 | [120424-colloc.json](./120424-colloc.json) |
 | Colmen's Quest | 175955 | [175955-colmens-quest.json](./175955-colmens-quest.json) |
 | Colo Grid Zation | 110543 | [110543-colo-grid-zation.json](./110543-colo-grid-zation.json) |
+| Coloball 2002 | 91681 | [91681-coloball-2002.json](./91681-coloball-2002.json) |
 | CoLoBot | 80574 | [80574-colobot.json](./80574-colobot.json) |
 | Colobus | 389628 | [389628-colobus.json](./389628-colobus.json) |
 | Coloco | 388960 | [388960-coloco.json](./388960-coloco.json) |
@@ -9248,6 +9252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Ball | 279063 | [279063-color-ball.json](./279063-color-ball.json) |
 | Color Ball 2018 | 100890 | [100890-color-ball-2018.json](./100890-color-ball-2018.json) |
 | Color Balls of Goo | 108618 | [108618-color-balls-of-goo.json](./108618-color-balls-of-goo.json) |
+| Color Bar Generator | 91820 | [91820-color-bar-generator.json](./91820-color-bar-generator.json) |
 | Color Baseball | 42151 | [42151-color-baseball.json](./42151-color-baseball.json) |
 | Color Bikes Road Rush | 103663 | [103663-color-bikes-road-rush.json](./103663-color-bikes-road-rush.json) |
 | Color Blind: The Game | 231397 | [231397-color-blind-the-game.json](./231397-color-blind-the-game.json) |
