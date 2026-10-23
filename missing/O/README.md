@@ -2505,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooga Ooga! | 199919 | [199919-ooga-ooga.json](./199919-ooga-ooga.json) |
 | Oogies Chicken Quest | 399170 | [399170-oogies-chicken-quest.json](./399170-oogies-chicken-quest.json) |
 | Oogy: Can You Help | 190086 | [190086-oogy-can-you-help.json](./190086-oogy-can-you-help.json) |
+| Ooh, Aah, & You: Fetch-a-Fruit | 98316 | [98316-ooh-aah-and-you-fetch-a-fruit.json](./98316-ooh-aah-and-you-fetch-a-fruit.json) |
 | Ookami Game | 151847 | [151847-ookami-game.json](./151847-ookami-game.json) |
 | Ookami Kakushi | 197613 | [197613-ookami-kakushi.json](./197613-ookami-kakushi.json) |
 | Ookami Okami | 343046 | [343046-ookami-okami.json](./343046-ookami-okami.json) |
@@ -3733,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oukyuu no Hihou: Tenshon | 241893 | [241893-oukyuu-no-hihou-tenshon.json](./241893-oukyuu-no-hihou-tenshon.json) |
 | Ouma ga Toki: Kakuriyo no Enishi | 131909 | [131909-ouma-ga-toki-kakuriyo-no-enishi.json](./131909-ouma-ga-toki-kakuriyo-no-enishi.json) |
 | Oumagatoki: Kaidan Romance | 219135 | [219135-oumagatoki-kaidan-romance.json](./219135-oumagatoki-kaidan-romance.json) |
+| Oumori Charisou DX | 98303 | [98303-oumori-charisou-dx.json](./98303-oumori-charisou-dx.json) |
 | OuO | 174781 | [174781-ouo.json](./174781-ouo.json) |
 | Our Adventure Time | 178549 | [178549-our-adventure-time.json](./178549-our-adventure-time.json) |
 | Our America | 149337 | [149337-our-america.json](./149337-our-america.json) |
