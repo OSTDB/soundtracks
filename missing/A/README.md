@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACB Studios | 311745 | [311745-acb-studios.json](./311745-acb-studios.json) |
 | ACB Total 2010/2011 | 98312 | [98312-acb-total-2010-2011.json](./98312-acb-total-2010-2011.json) |
 | Accel | 114902 | [114902-accel.json](./114902-accel.json) |
+| Accel Knights 2: Full Throttle | 59276 | [59276-accel-knights-2-full-throttle.json](./59276-accel-knights-2-full-throttle.json) |
 | Accel World vs. Sword Art Online: Deluxe Edition | 65842 | [65842-accel-world-vs-sword-art-online-deluxe-edition.json](./65842-accel-world-vs-sword-art-online-deluxe-edition.json) |
 | Accel World vs. Sword Art Online: Millennium Twilight | 36796 | [36796-accel-world-vs-sword-art-online-millennium-twilight.json](./36796-accel-world-vs-sword-art-online-millennium-twilight.json) |
 | Accel World vs. Sword Art Online: Millennium Twilight - Dengeki Limited Edition | 343202 | [343202-accel-world-vs-sword-art-online-millennium-twilight-dengeki-limited-edition.json](./343202-accel-world-vs-sword-art-online-millennium-twilight-dengeki-limited-edition.json) |
@@ -2314,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Activision Collection 1 | 379134 | [379134-activision-collection-1.json](./379134-activision-collection-1.json) |
 | Activision Collection 2 | 420008 | [420008-activision-collection-2.json](./420008-activision-collection-2.json) |
 | Activision Game Vault: Volume 1 | 137499 | [137499-activision-game-vault-volume-1.json](./137499-activision-game-vault-volume-1.json) |
+| Activision Game Vault: Volume 3 | 59285 | [59285-activision-game-vault-volume-3.json](./59285-activision-game-vault-volume-3.json) |
 | Activision Prototype #1 | 344692 | [344692-activision-prototype-1.json](./344692-activision-prototype-1.json) |
 | Activision's Atari 2600 Action Pack | 79146 | [79146-activisions-atari-2600-action-pack.json](./79146-activisions-atari-2600-action-pack.json) |
 | Activision's Atari 2600 Action Pack 2 | 100084 | [100084-activisions-atari-2600-action-pack-2.json](./100084-activisions-atari-2600-action-pack-2.json) |
@@ -11311,6 +11313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Glide II | 306530 | [306530-art-of-glide-ii.json](./306530-art-of-glide-ii.json) |
 | Art of Golf | 259045 | [259045-art-of-golf.json](./259045-art-of-golf.json) |
 | Art of Guile | 26721 | [26721-art-of-guile.json](./26721-art-of-guile.json) |
+| Art of Ink | 59124 | [59124-art-of-ink.json](./59124-art-of-ink.json) |
 | Art of Murder: Cards of Destiny | 14361 | [14361-art-of-murder-cards-of-destiny.json](./14361-art-of-murder-cards-of-destiny.json) |
 | Art of Murder: FBI Confidential | 9986 | [9986-art-of-murder-fbi-confidential.json](./9986-art-of-murder-fbi-confidential.json) |
 | Art of Not Getting Found | 180670 | [180670-art-of-not-getting-found.json](./180670-art-of-not-getting-found.json) |
@@ -12192,6 +12195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astebros | 250797 | [250797-astebros.json](./250797-astebros.json) |
 | Asteidus | 119350 | [119350-asteidus.json](./119350-asteidus.json) |
 | Asteion Nights | 87559 | [87559-asteion-nights.json](./87559-asteion-nights.json) |
+| Astelight Shissouki | 59172 | [59172-astelight-shissouki.json](./59172-astelight-shissouki.json) |
 | Astellia | 113957 | [113957-astellia.json](./113957-astellia.json) |
 | Aster Force | 195114 | [195114-aster-force.json](./195114-aster-force.json) |
 | Aster Initiative | 274035 | [274035-aster-initiative.json](./274035-aster-initiative.json) |
