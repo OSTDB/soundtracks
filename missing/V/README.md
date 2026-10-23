@@ -2168,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Pet Tiger | 105669 | [105669-virtual-pet-tiger.json](./105669-virtual-pet-tiger.json) |
 | Virtual Pet Unicorn | 88151 | [88151-virtual-pet-unicorn.json](./88151-virtual-pet-unicorn.json) |
 | Virtual Pool | 20739 | [20739-virtual-pool.json](./20739-virtual-pool.json) |
+| Virtual Pool 2 | 71362 | [71362-virtual-pool-2.json](./71362-virtual-pool-2.json) |
 | Virtual Pool 3 | 938 | [938-virtual-pool-3.json](./938-virtual-pool-3.json) |
 | Virtual Pool 4 | 36070 | [36070-virtual-pool-4.json](./36070-virtual-pool-4.json) |
 | Virtual Pool 4 Online | 91991 | [91991-virtual-pool-4-online.json](./91991-virtual-pool-4-online.json) |
