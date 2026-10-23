@@ -4817,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods Wars: Infinity Epic | 267462 | [267462-gods-wars-infinity-epic.json](./267462-gods-wars-infinity-epic.json) |
 | Gods Will Be Watching: Special Edition | 51832 | [51832-gods-will-be-watching-special-edition.json](./51832-gods-will-be-watching-special-edition.json) |
 | Gods, Death & Reapers | 328104 | [328104-gods-death-and-reapers.json](./328104-gods-death-and-reapers.json) |
+| Gods: Lands of Infinity | 69674 | [69674-gods-lands-of-infinity.json](./69674-gods-lands-of-infinity.json) |
 | Gods: Lands of Infinity - Special Edition | 54054 | [54054-gods-lands-of-infinity-special-edition.json](./54054-gods-lands-of-infinity-special-edition.json) |
 | Gods' Margarita | 197368 | [197368-gods-margarita.json](./197368-gods-margarita.json) |
 | GodsArena Online | 368541 | [368541-godsarena-online.json](./368541-godsarena-online.json) |
