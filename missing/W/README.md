@@ -2445,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Koihime Musou | 64169 | [64169-web-koihime-musou.json](./64169-web-koihime-musou.json) |
 | Web Mystery: Yochimu wo Miru Neko | 59815 | [59815-web-mystery-yochimu-wo-miru-neko.json](./59815-web-mystery-yochimu-wo-miru-neko.json) |
 | Web no Naka no Kanojo: Password ni Himerareta Nazo | 237434 | [237434-web-no-naka-no-kanojo-password-ni-himerareta-nazo.json](./237434-web-no-naka-no-kanojo-password-ni-himerareta-nazo.json) |
+| Web of Deceit: Deadly Sands HD | 96547 | [96547-web-of-deceit-deadly-sands-hd.json](./96547-web-of-deceit-deadly-sands-hd.json) |
 | Web or Dead | 236272 | [236272-web-or-dead.json](./236272-web-or-dead.json) |
 | Web Phantom Brave | 366029 | [366029-web-phantom-brave.json](./366029-web-phantom-brave.json) |
 | Web Power Dolls | 228983 | [228983-web-power-dolls.json](./228983-web-power-dolls.json) |
@@ -4153,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Romance: Mofu-mofu Edition | 75657 | [75657-wild-romance-mofu-mofu-edition.json](./75657-wild-romance-mofu-mofu-edition.json) |
 | Wild Rumble | 226118 | [226118-wild-rumble.json](./226118-wild-rumble.json) |
 | Wild Runs | 147241 | [147241-wild-runs.json](./147241-wild-runs.json) |
+| Wild Safari Run | 96579 | [96579-wild-safari-run.json](./96579-wild-safari-run.json) |
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
 | Wild Season | 47125 | [47125-wild-season.json](./47125-wild-season.json) |
 | Wild Seasons | 273383 | [273383-wild-seasons.json](./273383-wild-seasons.json) |
@@ -5811,6 +5813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woods of Disturbance | 221040 | [221040-woods-of-disturbance.json](./221040-woods-of-disturbance.json) |
 | Woods of War | 329153 | [329153-woods-of-war.json](./329153-woods-of-war.json) |
 | Woodspell | 92959 | [92959-woodspell.json](./92959-woodspell.json) |
+| Woodstock 1969 | 96474 | [96474-woodstock-1969.json](./96474-woodstock-1969.json) |
 | Woodswalker | 384195 | [384195-woodswalker.json](./384195-woodswalker.json) |
 | Woodsy | 101602 | [101602-woodsy.json](./101602-woodsy.json) |
 | Woodturning 3D | 287664 | [287664-woodturning-3d.json](./287664-woodturning-3d.json) |
