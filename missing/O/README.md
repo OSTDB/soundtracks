@@ -1701,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Spirit | 354000 | [354000-once-upon-a-spirit.json](./354000-once-upon-a-spirit.json) |
 | Once Upon a Swagman | 423248 | [423248-once-upon-a-swagman.json](./423248-once-upon-a-swagman.json) |
 | Once upon a Thai: Learn Thai | 214755 | [214755-once-upon-a-thai-learn-thai.json](./214755-once-upon-a-thai-learn-thai.json) |
+| Once upon a time | 68488 | [68488-once-upon-a-time.json](./68488-once-upon-a-time.json) |
 | Once Upon a Time | 376670 | [376670-once-upon-a-time.json](./376670-once-upon-a-time.json) |
 | Once Upon A Time | 51189 | [51189-once-upon-a-time.json](./51189-once-upon-a-time.json) |
 | Once Upon a Time in Morocco | 208586 | [208586-once-upon-a-time-in-morocco.json](./208586-once-upon-a-time-in-morocco.json) |
@@ -3965,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Park Baseball 14 | 24278 | [24278-out-of-the-park-baseball-14.json](./24278-out-of-the-park-baseball-14.json) |
 | Out of the Park Baseball 18 | 26927 | [26927-out-of-the-park-baseball-18.json](./26927-out-of-the-park-baseball-18.json) |
 | Out of the Park Baseball 20 | 115688 | [115688-out-of-the-park-baseball-20.json](./115688-out-of-the-park-baseball-20.json) |
+| Out of the Park Baseball 2005 | 67796 | [67796-out-of-the-park-baseball-2005.json](./67796-out-of-the-park-baseball-2005.json) |
 | Out of the Park Baseball 2007 | 346169 | [346169-out-of-the-park-baseball-2007.json](./346169-out-of-the-park-baseball-2007.json) |
 | Out of the Park Baseball 21 | 130326 | [130326-out-of-the-park-baseball-21.json](./130326-out-of-the-park-baseball-21.json) |
 | Out of the Park Baseball 22 | 142888 | [142888-out-of-the-park-baseball-22.json](./142888-out-of-the-park-baseball-22.json) |
