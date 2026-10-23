@@ -2520,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wednesday Basketball | 172979 | [172979-wednesday-basketball.json](./172979-wednesday-basketball.json) |
 | Wednesday Night | 358638 | [358638-wednesday-night.json](./358638-wednesday-night.json) |
 | Wednesdays | 333946 | [333946-wednesdays.json](./333946-wednesdays.json) |
+| Wee Curl | 60846 | [60846-wee-curl.json](./60846-wee-curl.json) |
 | Wee Tanks! | 142708 | [142708-wee-tanks.json](./142708-wee-tanks.json) |
 | Wee Trains | 120293 | [120293-wee-trains.json](./120293-wee-trains.json) |
 | Wee-Woo | 130640 | [130640-wee-woo.json](./130640-wee-woo.json) |
@@ -5411,6 +5412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry Level C | 267783 | [267783-wizardry-level-c.json](./267783-wizardry-level-c.json) |
 | Wizardry Perfect Pack | 136846 | [136846-wizardry-perfect-pack.json](./136846-wizardry-perfect-pack.json) |
 | Wizardry Squared | 149567 | [149567-wizardry-squared.json](./149567-wizardry-squared.json) |
+| Wizardry Summoner | 60870 | [60870-wizardry-summoner.json](./60870-wizardry-summoner.json) |
 | Wizardry Twin Pack | 125955 | [125955-wizardry-twin-pack.json](./125955-wizardry-twin-pack.json) |
 | Wizardry V: Heart of the Maelstrom | 10495 | [10495-wizardry-v-heart-of-the-maelstrom.json](./10495-wizardry-v-heart-of-the-maelstrom.json) |
 | Wizardry Variants: Daphne | 150013 | [150013-wizardry-variants-daphne.json](./150013-wizardry-variants-daphne.json) |
