@@ -5437,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everwind | 342138 | [342138-everwind.json](./342138-everwind.json) |
 | EverWing | 56924 | [56924-everwing.json](./56924-everwing.json) |
 | EverWorld | 163774 | [163774-everworld.json](./163774-everworld.json) |
+| Everworld Island | 62039 | [62039-everworld-island.json](./62039-everworld-island.json) |
 | Every 5x5 Nonogram | 346905 | [346905-every-5x5-nonogram.json](./346905-every-5x5-nonogram.json) |
 | Every Child Can Succeed 1 | 97750 | [97750-every-child-can-succeed-1.json](./97750-every-child-can-succeed-1.json) |
 | Every Child Can Succeed 2 | 97751 | [97751-every-child-can-succeed-2.json](./97751-every-child-can-succeed-2.json) |
@@ -5454,6 +5455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Extend Extra Extreme | 21835 | [21835-every-extend-extra-extreme.json](./21835-every-extend-extra-extreme.json) |
 | Every Extend Extra: Pico-8 Edition | 284307 | [284307-every-extend-extra-pico-8-edition.json](./284307-every-extend-extra-pico-8-edition.json) |
 | Every Farm | 227950 | [227950-every-farm.json](./227950-every-farm.json) |
+| Every Good Bird Deserves Flappyness | 61967 | [61967-every-good-bird-deserves-flappyness.json](./61967-every-good-bird-deserves-flappyness.json) |
 | Every Grocery Store Has One Product That Binds Everything in a Unified Energy | 241222 | [241222-every-grocery-store-has-one-product-that-binds-everything-in-a-unified-energy.json](./241222-every-grocery-store-has-one-product-that-binds-everything-in-a-unified-energy.json) |
 | Every Hue of You | 302954 | [302954-every-hue-of-you.json](./302954-every-hue-of-you.json) |
 | Every Morning My Alarm Clock Kills Me | 387001 | [387001-every-morning-my-alarm-clock-kills-me.json](./387001-every-morning-my-alarm-clock-kills-me.json) |
@@ -6072,6 +6074,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus Core | 347750 | [347750-exodus-core.json](./347750-exodus-core.json) |
 | Exodus Flight | 297070 | [297070-exodus-flight.json](./297070-exodus-flight.json) |
 | Exodus Guilty | 80384 | [80384-exodus-guilty.json](./80384-exodus-guilty.json) |
+| Exodus Guilty Vol. 1 Present | 61957 | [61957-exodus-guilty-vol-1-present.json](./61957-exodus-guilty-vol-1-present.json) |
+| Exodus Guilty Vol. 2 Past | 61955 | [61955-exodus-guilty-vol-2-past.json](./61955-exodus-guilty-vol-2-past.json) |
+| Exodus Guilty Vol. 3 Future | 61954 | [61954-exodus-guilty-vol-3-future.json](./61954-exodus-guilty-vol-3-future.json) |
 | Exodus Idle | 211761 | [211761-exodus-idle.json](./211761-exodus-idle.json) |
 | Exodus of Souls | 217161 | [217161-exodus-of-souls.json](./217161-exodus-of-souls.json) |
 | Exodus Vigil | 207353 | [207353-exodus-vigil.json](./207353-exodus-vigil.json) |
