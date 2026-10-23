@@ -3046,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Chair Games | 29227 | [29227-vr-chair-games.json](./29227-vr-chair-games.json) |
 | VR Cops | 253019 | [253019-vr-cops.json](./253019-vr-cops.json) |
 | VR Cops: Pack 1 | 253020 | [253020-vr-cops-pack-1.json](./253020-vr-cops-pack-1.json) |
+| VR Crane Master | 51728 | [51728-vr-crane-master.json](./51728-vr-crane-master.json) |
 | VR Crazy Racing | 169263 | [169263-vr-crazy-racing.json](./169263-vr-crazy-racing.json) |
 | VR Cricket | 114187 | [114187-vr-cricket.json](./114187-vr-cricket.json) |
 | VR Cute Tanks: Girls and Dinosaurs | 148474 | [148474-vr-cute-tanks-girls-and-dinosaurs.json](./148474-vr-cute-tanks-girls-and-dinosaurs.json) |
