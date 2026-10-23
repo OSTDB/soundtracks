@@ -5382,6 +5382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chest Mate | 195240 | [195240-chest-mate.json](./195240-chest-mate.json) |
 | Chest Quest | 175189 | [175189-chest-quest.json](./175189-chest-quest.json) |
 | Chester | 193414 | [193414-chester.json](./193414-chester.json) |
+| Chester | 64830 | [64830-chester.json](./64830-chester.json) |
 | Chester Cheetah: Too Cool to Fool | 46255 | [46255-chester-cheetah-too-cool-to-fool.json](./46255-chester-cheetah-too-cool-to-fool.json) |
 | Chester Cheetah: Wild Wild Quest | 46283 | [46283-chester-cheetah-wild-wild-quest.json](./46283-chester-cheetah-wild-wild-quest.json) |
 | Chester Field: Ankoku Shin he no Chousen | 48538 | [48538-chester-field-ankoku-shin-he-no-chousen.json](./48538-chester-field-ankoku-shin-he-no-chousen.json) |
@@ -8236,6 +8237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clonk Endeavour | 57644 | [57644-clonk-endeavour.json](./57644-clonk-endeavour.json) |
 | Clonk Planet | 70474 | [70474-clonk-planet.json](./70474-clonk-planet.json) |
 | Clonk Rage | 26429 | [26429-clonk-rage.json](./26429-clonk-rage.json) |
+| Clop | 64819 | [64819-clop.json](./64819-clop.json) |
 | Clorox: Sparkling Sudoku | 263433 | [263433-clorox-sparkling-sudoku.json](./263433-clorox-sparkling-sudoku.json) |
 | Close Call Extreme | 81003 | [81003-close-call-extreme.json](./81003-close-call-extreme.json) |
 | Close Castles | 61157 | [61157-close-castles.json](./61157-close-castles.json) |
@@ -8254,6 +8256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Contact | 149923 | [149923-close-contact.json](./149923-close-contact.json) |
 | Close Encounter VR | 388407 | [388407-close-encounter-vr.json](./388407-close-encounter-vr.json) |
 | Close Encounters | 323288 | [323288-close-encounters.json](./323288-close-encounters.json) |
+| Close Encounters of the Worst Kind | 64815 | [64815-close-encounters-of-the-worst-kind.json](./64815-close-encounters-of-the-worst-kind.json) |
 | Close for the Night | 359989 | [359989-close-for-the-night.json](./359989-close-for-the-night.json) |
 | Close For The Night Horror | 362187 | [362187-close-for-the-night-horror.json](./362187-close-for-the-night-horror.json) |
 | Close Me | 51579 | [51579-close-me.json](./51579-close-me.json) |
@@ -9861,6 +9864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission: Black Sea - Battle Pack 1 | 227161 | [227161-combat-mission-black-sea-battle-pack-1.json](./227161-combat-mission-black-sea-battle-pack-1.json) |
 | Combat Mission: Final Blitzkrieg | 58684 | [58684-combat-mission-final-blitzkrieg.json](./58684-combat-mission-final-blitzkrieg.json) |
 | Combat Mission: Final Blitzkrieg - Downfall | 288220 | [288220-combat-mission-final-blitzkrieg-downfall.json](./288220-combat-mission-final-blitzkrieg-downfall.json) |
+| Combat Mission: Fortress Italy | 64825 | [64825-combat-mission-fortress-italy.json](./64825-combat-mission-fortress-italy.json) |
 | Combat Mission: Red Thunder | 77293 | [77293-combat-mission-red-thunder.json](./77293-combat-mission-red-thunder.json) |
 | Combat Mission: Red Thunder - Battle Pack 1 | 252240 | [252240-combat-mission-red-thunder-battle-pack-1.json](./252240-combat-mission-red-thunder-battle-pack-1.json) |
 | Combat Mission: Shock Force | 21234 | [21234-combat-mission-shock-force.json](./21234-combat-mission-shock-force.json) |
@@ -11093,6 +11097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conversations With My Anxiety | 134993 | [134993-conversations-with-my-anxiety.json](./134993-conversations-with-my-anxiety.json) |
 | Converse Hardcore Hoops | 208790 | [208790-converse-hardcore-hoops.json](./208790-converse-hardcore-hoops.json) |
 | Convertible Wop | 104442 | [104442-convertible-wop.json](./104442-convertible-wop.json) |
+| Convextrix | 64789 | [64789-convextrix.json](./64789-convextrix.json) |
 | Conveyor Belt Sushi Simulator | 334129 | [334129-conveyor-belt-sushi-simulator.json](./334129-conveyor-belt-sushi-simulator.json) |
 | Conveyor Con-fusion | 302166 | [302166-conveyor-con-fusion.json](./302166-conveyor-con-fusion.json) |
 | Conveyor VR | 112970 | [112970-conveyor-vr.json](./112970-conveyor-vr.json) |
@@ -14798,6 +14803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystalyn | 406900 | [406900-crystalyn.json](./406900-crystalyn.json) |
 | Crystant | 392154 | [392154-crystant.json](./392154-crystant.json) |
 | Crystaura Purge Plan | 339345 | [339345-crystaura-purge-plan.json](./339345-crystaura-purge-plan.json) |
+| Crystball | 64807 | [64807-crystball.json](./64807-crystball.json) |
 | Cryste: the Faith of Fire Vol.1 | 28870 | [28870-cryste-the-faith-of-fire-vol-1.json](./28870-cryste-the-faith-of-fire-vol-1.json) |
 | Crystle Castles | 80391 | [80391-crystle-castles.json](./80391-crystle-castles.json) |
 | Cryzen.io | 282507 | [282507-cryzen-io.json](./282507-cryzen-io.json) |
