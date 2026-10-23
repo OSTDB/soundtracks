@@ -4281,6 +4281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Basara 2 | 5150 | [5150-sengoku-basara-2.json](./5150-sengoku-basara-2.json) |
 | Sengoku Basara 2 Heroes | 72578 | [72578-sengoku-basara-2-heroes.json](./72578-sengoku-basara-2-heroes.json) |
 | Sengoku Basara 2: Heroes - Double Pack | 268378 | [268378-sengoku-basara-2-heroes-double-pack.json](./268378-sengoku-basara-2-heroes-double-pack.json) |
+| Sengoku Basara 4 | 63628 | [63628-sengoku-basara-4.json](./63628-sengoku-basara-4.json) |
 | Sengoku Basara 4: Sumeragi - Anniversary Edition | 136704 | [136704-sengoku-basara-4-sumeragi-anniversary-edition.json](./136704-sengoku-basara-4-sumeragi-anniversary-edition.json) |
 | Sengoku Basara Chronicle Heroes | 65896 | [65896-sengoku-basara-chronicle-heroes.json](./65896-sengoku-basara-chronicle-heroes.json) |
 | Sengoku Basara X | 68950 | [68950-sengoku-basara-x.json](./68950-sengoku-basara-x.json) |
@@ -7639,6 +7640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrinking Planet | 182932 | [182932-shrinking-planet.json](./182932-shrinking-planet.json) |
 | Shrinking Professor | 262094 | [262094-shrinking-professor.json](./262094-shrinking-professor.json) |
 | Shrommzzz | 247752 | [247752-shrommzzz.json](./247752-shrommzzz.json) |
+| Shroom | 63716 | [63716-shroom.json](./63716-shroom.json) |
 | Shroom & Blade | 419982 | [419982-shroom-and-blade.json](./419982-shroom-and-blade.json) |
 | Shroom & Doom | 256911 | [256911-shroom-and-doom.json](./256911-shroom-and-doom.json) |
 | Shroom and Gloom | 344797 | [344797-shroom-and-gloom.json](./344797-shroom-and-gloom.json) |
@@ -8763,8 +8765,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple DS Series Vol. 11: Mou Ichido Kayoeru - The Otona no Shougakkou | 203405 | [203405-simple-ds-series-vol-11-mou-ichido-kayoeru-the-otona-no-shougakkou.json](./203405-simple-ds-series-vol-11-mou-ichido-kayoeru-the-otona-no-shougakkou.json) |
 | Simple DS Series Vol. 14: The Jidousha Kyoushuujo DS | 203406 | [203406-simple-ds-series-vol-14-the-jidousha-kyoushuujo-ds.json](./203406-simple-ds-series-vol-14-the-jidousha-kyoushuujo-ds.json) |
 | Simple DS Series Vol. 20: The Senkan | 203407 | [203407-simple-ds-series-vol-20-the-senkan.json](./203407-simple-ds-series-vol-20-the-senkan.json) |
+| Simple DS Series Vol. 25: The Koushounin | 63626 | [63626-simple-ds-series-vol-25-the-koushounin.json](./63626-simple-ds-series-vol-25-the-koushounin.json) |
 | Simple DS Series Vol. 26: The Quiz 30,000-Mon | 203408 | [203408-simple-ds-series-vol-26-the-quiz-30-000-mon.json](./203408-simple-ds-series-vol-26-the-quiz-30-000-mon.json) |
 | Simple DS Series Vol. 28: The Illust Puzzle & Suuji Puzzle 2 | 203410 | [203410-simple-ds-series-vol-28-the-illust-puzzle-and-suuji-puzzle-2.json](./203410-simple-ds-series-vol-28-the-illust-puzzle-and-suuji-puzzle-2.json) |
+| Simple DS Series Vol. 34: The Haisha-San | 63624 | [63624-simple-ds-series-vol-34-the-haisha-san.json](./63624-simple-ds-series-vol-34-the-haisha-san.json) |
 | Simple DS Series vol. 39: The Shouboutai | 266677 | [266677-simple-ds-series-vol-39-the-shouboutai.json](./266677-simple-ds-series-vol-39-the-shouboutai.json) |
 | Simple DS Series Vol. 9: Atama ga Yoku Naru - The Me no Training | 203403 | [203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json](./203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json) |
 | Simple Fear | 157046 | [157046-simple-fear.json](./157046-simple-fear.json) |
@@ -17079,6 +17083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man and the X-Men in Arcade's Revenge | 365699 | [365699-spider-man-and-the-x-men-in-arcades-revenge.json](./365699-spider-man-and-the-x-men-in-arcades-revenge.json) |
 | Spider-Man and the X-Men in Arcade's Revenge | 365700 | [365700-spider-man-and-the-x-men-in-arcades-revenge.json](./365700-spider-man-and-the-x-men-in-arcades-revenge.json) |
 | Spider-Man and Venom: Maximum Carnage | 18125 | [18125-spider-man-and-venom-maximum-carnage.json](./18125-spider-man-and-venom-maximum-carnage.json) |
+| Spider-Man Cartoon Maker | 63702 | [63702-spider-man-cartoon-maker.json](./63702-spider-man-cartoon-maker.json) |
 | Spider-Man vs. Doc Ock | 23542 | [23542-spider-man-vs-doc-ock.json](./23542-spider-man-vs-doc-ock.json) |
 | Spider-Man: 006 - Arsenal Mod: Web Fluid | 363273 | [363273-spider-man-006-arsenal-mod-web-fluid.json](./363273-spider-man-006-arsenal-mod-web-fluid.json) |
 | Spider-Man: 007 - Black Suit Mod: Spider Bite | 363275 | [363275-spider-man-007-black-suit-mod-spider-bite.json](./363275-spider-man-007-black-suit-mod-spider-bite.json) |
@@ -24073,6 +24078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Adventurer | 61021 | [61021-super-adventurer.json](./61021-super-adventurer.json) |
 | Super Agent | 272486 | [272486-super-agent.json](./272486-super-agent.json) |
 | Super Agent: Drunk Kent | 114928 | [114928-super-agent-drunk-kent.json](./114928-super-agent-drunk-kent.json) |
+| Super Air Combat | 63700 | [63700-super-air-combat.json](./63700-super-air-combat.json) |
 | Super Air Zonk | 37609 | [37609-super-air-zonk.json](./37609-super-air-zonk.json) |
 | Super Airwolf | 45548 | [45548-super-airwolf.json](./45548-super-airwolf.json) |
 | Super Alabama Beach Mouse | 377600 | [377600-super-alabama-beach-mouse.json](./377600-super-alabama-beach-mouse.json) |
@@ -27576,6 +27582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweater? Ok!: The Dilogy | 127370 | [127370-sweater-ok-the-dilogy.json](./127370-sweater-ok-the-dilogy.json) |
 | SweatShop | 32204 | [32204-sweatshop.json](./32204-sweatshop.json) |
 | Sweatshop HD | 15448 | [15448-sweatshop-hd.json](./15448-sweatshop-hd.json) |
+| Sweaty Palms | 63739 | [63739-sweaty-palms.json](./63739-sweaty-palms.json) |
 | Swedish Classics GP | 139868 | [139868-swedish-classics-gp.json](./139868-swedish-classics-gp.json) |
 | Swedish Touring Car Championship 2 | 71774 | [71774-swedish-touring-car-championship-2.json](./71774-swedish-touring-car-championship-2.json) |
 | Sweeky Land | 145608 | [145608-sweeky-land.json](./145608-sweeky-land.json) |
