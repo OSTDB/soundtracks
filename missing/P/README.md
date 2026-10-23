@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Legend | 214723 | [214723-panda-legend.json](./214723-panda-legend.json) |
 | Panda Lu Baby Bear Care 2 | 227472 | [227472-panda-lu-baby-bear-care-2.json](./227472-panda-lu-baby-bear-care-2.json) |
 | Panda Lu Baby Bear City | 102672 | [102672-panda-lu-baby-bear-city.json](./102672-panda-lu-baby-bear-city.json) |
+| Panda Lu Fun Park | 88994 | [88994-panda-lu-fun-park.json](./88994-panda-lu-fun-park.json) |
 | Panda Magix: Golden Trains Edition - Slots | 276621 | [276621-panda-magix-golden-trains-edition-slots.json](./276621-panda-magix-golden-trains-edition-slots.json) |
 | Panda Man | 115600 | [115600-panda-man.json](./115600-panda-man.json) |
 | Panda Pai Gow Poker | 209403 | [209403-panda-pai-gow-poker.json](./209403-panda-pai-gow-poker.json) |
@@ -8239,6 +8240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Tarneeb | 317051 | [317051-pocket-tarneeb.json](./317051-pocket-tarneeb.json) |
 | Pocket Thief | 337501 | [337501-pocket-thief.json](./337501-pocket-thief.json) |
 | Pocket Troops | 102236 | [102236-pocket-troops.json](./102236-pocket-troops.json) |
+| Pocket Universe - 3D Sandbox | 88962 | [88962-pocket-universe-3d-sandbox.json](./88962-pocket-universe-3d-sandbox.json) |
 | Pocket Usatama Easter 2019 Edition | 230130 | [230130-pocket-usatama-easter-2019-edition.json](./230130-pocket-usatama-easter-2019-edition.json) |
 | Pocket Volleyball | 180494 | [180494-pocket-volleyball.json](./180494-pocket-volleyball.json) |
 | Pocket Warriors | 152162 | [152162-pocket-warriors.json](./152162-pocket-warriors.json) |
