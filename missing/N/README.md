@@ -5765,6 +5765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nowhere Girl | 110627 | [110627-nowhere-girl.json](./110627-nowhere-girl.json) |
 | Nowhere House | 208183 | [208183-nowhere-house.json](./208183-nowhere-house.json) |
 | Nowhere Near | 305929 | [305929-nowhere-near.json](./305929-nowhere-near.json) |
+| Nowhere Near Single | 59698 | [59698-nowhere-near-single.json](./59698-nowhere-near-single.json) |
 | Nowhere New | 135768 | [135768-nowhere-new.json](./135768-nowhere-new.json) |
 | Nowhere Patrol | 111390 | [111390-nowhere-patrol.json](./111390-nowhere-patrol.json) |
 | Nowhere Road | 384861 | [384861-nowhere-road.json](./384861-nowhere-road.json) |
