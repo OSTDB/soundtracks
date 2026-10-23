@@ -1887,6 +1887,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major Blink: Berks 2 | 60525 | [60525-major-blink-berks-2.json](./60525-major-blink-berks-2.json) |
 | Major Bullet | 292630 | [292630-major-bullet.json](./292630-major-bullet.json) |
 | Major Bummer Dude: Lassi Quest RON | 71010 | [71010-major-bummer-dude-lassi-quest-ron.json](./71010-major-bummer-dude-lassi-quest-ron.json) |
+| Major Dream: Major Wii: Perfect Closer | 61412 | [61412-major-dream-major-wii-perfect-closer.json](./61412-major-dream-major-wii-perfect-closer.json) |
+| Major Dream: Major Wii! Nagero Gyroball!! | 61411 | [61411-major-dream-major-wii-nagero-gyroball.json](./61411-major-dream-major-wii-nagero-gyroball.json) |
+| Major DS: Dream Baseball | 61413 | [61413-major-ds-dream-baseball.json](./61413-major-ds-dream-baseball.json) |
 | Major Havoc | 39384 | [39384-major-havoc.json](./39384-major-havoc.json) |
 | Major Hoof | 386556 | [386556-major-hoof.json](./386556-major-hoof.json) |
 | Major League | 199645 | [199645-major-league.json](./199645-major-league.json) |
@@ -2850,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariachi Undead | 157413 | [157413-mariachi-undead.json](./157413-mariachi-undead.json) |
 | Mariam Game | 235484 | [235484-mariam-game.json](./235484-mariam-game.json) |
 | Maribato! | 234649 | [234649-maribato.json](./234649-maribato.json) |
+| Marica: Shinjitsu no Sekai | 61389 | [61389-marica-shinjitsu-no-sekai.json](./61389-marica-shinjitsu-no-sekai.json) |
 | Maridows 64 | 250047 | [250047-maridows-64.json](./250047-maridows-64.json) |
 | Marie & Elie no Atelier: Salburg no Renkinjutsushi 1-2 | 130822 | [130822-marie-and-elie-no-atelier-salburg-no-renkinjutsushi-1-2.json](./130822-marie-and-elie-no-atelier-salburg-no-renkinjutsushi-1-2.json) |
 | Marie & Gully no Let's Science | 65319 | [65319-marie-and-gully-no-lets-science.json](./65319-marie-and-gully-no-lets-science.json) |
@@ -5116,6 +5120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McDonald's de Asobo! | 63044 | [63044-mcdonalds-de-asobo.json](./63044-mcdonalds-de-asobo.json) |
 | McDonald's Fairies: Lily | 254793 | [254793-mcdonalds-fairies-lily.json](./254793-mcdonalds-fairies-lily.json) |
 | McDonald's Fairies: Rose | 254794 | [254794-mcdonalds-fairies-rose.json](./254794-mcdonalds-fairies-rose.json) |
+| McDonald's Monogatari: Honobono Tenchou Ikusei Game | 61383 | [61383-mcdonalds-monogatari-honobono-tenchou-ikusei-game.json](./61383-mcdonalds-monogatari-honobono-tenchou-ikusei-game.json) |
 | McDonald's Original: Happy Disc | 242061 | [242061-mcdonalds-original-happy-disc.json](./242061-mcdonalds-original-happy-disc.json) |
 | McDonald's Treasure Land Adventure | 36923 | [36923-mcdonalds-treasure-land-adventure.json](./36923-mcdonalds-treasure-land-adventure.json) |
 | McDonald's Work Challenge | 218936 | [218936-mcdonalds-work-challenge.json](./218936-mcdonalds-work-challenge.json) |
@@ -10067,6 +10072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Fazenda | 262215 | [262215-mini-fazenda.json](./262215-mini-fazenda.json) |
 | Mini Fighter | 359192 | [359192-mini-fighter.json](./359192-mini-fighter.json) |
 | Mini Fighters: Quest & Battle | 378404 | [378404-mini-fighters-quest-and-battle.json](./378404-mini-fighters-quest-and-battle.json) |
+| Mini Fish | 61482 | [61482-mini-fish.json](./61482-mini-fish.json) |
 | Mini Football | 322563 | [322563-mini-football.json](./322563-mini-football.json) |
 | Mini Football Cup | 334101 | [334101-mini-football-cup.json](./334101-mini-football-cup.json) |
 | Mini Gal4Xy | 117456 | [117456-mini-gal4xy.json](./117456-mini-gal4xy.json) |
@@ -10152,6 +10158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Moves: Among Stars | 160064 | [160064-mini-moves-among-stars.json](./160064-mini-moves-among-stars.json) |
 | Mini Murder Mysteries | 405019 | [405019-mini-murder-mysteries.json](./405019-mini-murder-mysteries.json) |
 | Mini Ninjas Adventures | 20234 | [20234-mini-ninjas-adventures.json](./20234-mini-ninjas-adventures.json) |
+| Mini Nuts | 61481 | [61481-mini-nuts.json](./61481-mini-nuts.json) |
 | Mini Party | 83857 | [83857-mini-party.json](./83857-mini-party.json) |
 | Mini Pipes | 195147 | [195147-mini-pipes.json](./195147-mini-pipes.json) |
 | Mini Pocket Racers | 238394 | [238394-mini-pocket-racers.json](./238394-mini-pocket-racers.json) |
@@ -16092,6 +16099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Final Cursed Days | 336483 | [336483-my-final-cursed-days.json](./336483-my-final-cursed-days.json) |
 | My Final Cursed Days - Cursed Transformation Version | 336621 | [336621-my-final-cursed-days-cursed-transformation-version.json](./336621-my-final-cursed-days-cursed-transformation-version.json) |
 | My Fire Station by Chocolapps | 108187 | [108187-my-fire-station-by-chocolapps.json](./108187-my-fire-station-by-chocolapps.json) |
+| My First Amazing World Explorer | 61483 | [61483-my-first-amazing-world-explorer.json](./61483-my-first-amazing-world-explorer.json) |
 | My First Craft Survival | 259988 | [259988-my-first-craft-survival.json](./259988-my-first-craft-survival.json) |
 | My First Date RPG | 169431 | [169431-my-first-date-rpg.json](./169431-my-first-date-rpg.json) |
 | My First Date RPG 2 | 196813 | [196813-my-first-date-rpg-2.json](./196813-my-first-date-rpg-2.json) |
@@ -17315,6 +17323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Explorer | 316642 | [316642-mystic-explorer.json](./316642-mystic-explorer.json) |
 | Mystic Fishing: A Fantasy Fishing RPG | 356077 | [356077-mystic-fishing-a-fantasy-fishing-rpg.json](./356077-mystic-fishing-a-fantasy-fishing-rpg.json) |
 | Mystic Forest | 226424 | [226424-mystic-forest.json](./226424-mystic-forest.json) |
+| Mystic Formula | 61414 | [61414-mystic-formula.json](./61414-mystic-formula.json) |
 | Mystic Gals | 304826 | [304826-mystic-gals.json](./304826-mystic-gals.json) |
 | Mystic Guardian | 129611 | [129611-mystic-guardian.json](./129611-mystic-guardian.json) |
 | Mystic Guardians Slide | 295368 | [295368-mystic-guardians-slide.json](./295368-mystic-guardians-slide.json) |
