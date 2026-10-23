@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raga | 216942 | [216942-raga.json](./216942-raga.json) |
 | RaGaBa | 27780 | [27780-ragaba.json](./27780-ragaba.json) |
 | RagBlo Set2 | 97824 | [97824-ragblo-set2.json](./97824-ragblo-set2.json) |
+| RagBlo Set3 | 97728 | [97728-ragblo-set3.json](./97728-ragblo-set3.json) |
 | RagBrawl | 244163 | [244163-ragbrawl.json](./244163-ragbrawl.json) |
 | Ragdoll Arena: Kick the body | 374893 | [374893-ragdoll-arena-kick-the-body.json](./374893-ragdoll-arena-kick-the-body.json) |
 | Ragdoll Backflips | 104575 | [104575-ragdoll-backflips.json](./104575-ragdoll-backflips.json) |
@@ -1829,6 +1830,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray Breaker | 98047 | [98047-ray-breaker.json](./98047-ray-breaker.json) |
 | Ray Eager | 126593 | [126593-ray-eager.json](./126593-ray-eager.json) |
 | Ray Five | 97787 | [97787-ray-five.json](./97787-ray-five.json) |
+| Ray Forming | 97762 | [97762-ray-forming.json](./97762-ray-forming.json) |
+| Ray Forming Acrobat Blue | 97729 | [97729-ray-forming-acrobat-blue.json](./97729-ray-forming-acrobat-blue.json) |
 | Ray Gigant | 11743 | [11743-ray-gigant.json](./11743-ray-gigant.json) |
 | Ray Mohawk 2: Ray Wreaks Havoc! | 259660 | [259660-ray-mohawk-2-ray-wreaks-havoc.json](./259660-ray-mohawk-2-ray-wreaks-havoc.json) |
 | Ray Mohawk's Manic Monday | 259659 | [259659-ray-mohawks-manic-monday.json](./259659-ray-mohawks-manic-monday.json) |
