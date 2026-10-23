@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radac: Tailor-Made | 48821 | [48821-radac-tailor-made.json](./48821-radac-tailor-made.json) |
 | Radar | 282669 | [282669-radar.json](./282669-radar.json) |
 | Radar Chaos | 25551 | [25551-radar-chaos.json](./25551-radar-chaos.json) |
+| Radar Defense | 81053 | [81053-radar-defense.json](./81053-radar-defense.json) |
 | Radar Line | 414160 | [414160-radar-line.json](./414160-radar-line.json) |
 | Radar Mission | 11688 | [11688-radar-mission.json](./11688-radar-mission.json) |
 | Radar N Rockets | 256209 | [256209-radar-n-rockets.json](./256209-radar-n-rockets.json) |
@@ -1563,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid Squirrel | 32632 | [32632-rapid-squirrel.json](./32632-rapid-squirrel.json) |
 | Rapid Stream | 246363 | [246363-rapid-stream.json](./246363-rapid-stream.json) |
 | Rapid Stream 2 | 358846 | [358846-rapid-stream-2.json](./358846-rapid-stream-2.json) |
+| Rapid Tap | 81025 | [81025-rapid-tap.json](./81025-rapid-tap.json) |
 | Rapid the Hedgehog | 330517 | [330517-rapid-the-hedgehog.json](./330517-rapid-the-hedgehog.json) |
 | Rapid Unplanned Disassembly | 176369 | [176369-rapid-unplanned-disassembly.json](./176369-rapid-unplanned-disassembly.json) |
 | Rapid-Shot | 22096 | [22096-rapid-shot.json](./22096-rapid-shot.json) |
