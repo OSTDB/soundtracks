@@ -4388,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beats of Fury | 127181 | [127181-beats-of-fury.json](./127181-beats-of-fury.json) |
 | Beats of Rage | 46623 | [46623-beats-of-rage.json](./46623-beats-of-rage.json) |
 | Beats Runner | 123990 | [123990-beats-runner.json](./123990-beats-runner.json) |
+| Beats Trellis | 74160 | [74160-beats-trellis.json](./74160-beats-trellis.json) |
 | Beats Warrior: Nian | 118266 | [118266-beats-warrior-nian.json](./118266-beats-warrior-nian.json) |
 | Beats&Boss | 338202 | [338202-beats-and-boss.json](./338202-beats-and-boss.json) |
 | BeatShooter | 309736 | [309736-beatshooter.json](./309736-beatshooter.json) |
@@ -6837,6 +6838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Rat: Singularity | 134485 | [134485-bit-rat-singularity.json](./134485-bit-rat-singularity.json) |
 | Bit Reverse | 256665 | [256665-bit-reverse.json](./256665-bit-reverse.json) |
 | Bit Shifter | 34699 | [34699-bit-shifter.json](./34699-bit-shifter.json) |
+| Bit Storm VR: First Loop | 74192 | [74192-bit-storm-vr-first-loop.json](./74192-bit-storm-vr-first-loop.json) |
 | Bit Sword | 190032 | [190032-bit-sword.json](./190032-bit-sword.json) |
 | Bit the Apple, So What? | 249069 | [249069-bit-the-apple-so-what.json](./249069-bit-the-apple-so-what.json) |
 | Bit-Buster | 184936 | [184936-bit-buster.json](./184936-bit-buster.json) |
@@ -9250,6 +9252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Sky Arena | 208105 | [208105-blue-sky-arena.json](./208105-blue-sky-arena.json) |
 | Blue sky fighter | 129076 | [129076-blue-sky-fighter.json](./129076-blue-sky-fighter.json) |
 | Blue Sky: Acceptable Casualties | 73706 | [73706-blue-sky-acceptable-casualties.json](./73706-blue-sky-acceptable-casualties.json) |
+| Blue Snake Adventures | 74182 | [74182-blue-snake-adventures.json](./74182-blue-snake-adventures.json) |
 | Blue Snake Adventures: Master Level | 171332 | [171332-blue-snake-adventures-master-level.json](./171332-blue-snake-adventures-master-level.json) |
 | Blue Solar: Chaos War | 32057 | [32057-blue-solar-chaos-war.json](./32057-blue-solar-chaos-war.json) |
 | Blue Sphere Madness | 332598 | [332598-blue-sphere-madness.json](./332598-blue-sphere-madness.json) |
@@ -13622,6 +13625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulls Vs Blazers and the NBA Playoffs | 42638 | [42638-bulls-vs-blazers-and-the-nba-playoffs.json](./42638-bulls-vs-blazers-and-the-nba-playoffs.json) |
 | Bullseye | 152485 | [152485-bullseye.json](./152485-bullseye.json) |
 | Bullseye | 213298 | [213298-bullseye.json](./213298-bullseye.json) |
+| Bullseye | 74169 | [74169-bullseye.json](./74169-bullseye.json) |
 | Bullseye! | 323852 | [323852-bullseye.json](./323852-bullseye.json) |
 | Bullship! | 375297 | [375297-bullship.json](./375297-bullship.json) |
 | BullTales | 393568 | [393568-bulltales.json](./393568-bulltales.json) |
