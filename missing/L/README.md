@@ -4566,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Alchemy | 38911 | [38911-little-alchemy.json](./38911-little-alchemy.json) |
 | Little Alchemy 2 | 68111 | [68111-little-alchemy-2.json](./68111-little-alchemy-2.json) |
 | Little Amazon | 356196 | [356196-little-amazon.json](./356196-little-amazon.json) |
+| Little Anchor | 69082 | [69082-little-anchor.json](./69082-little-anchor.json) |
 | Little Animals: The Wild Race | 328505 | [328505-little-animals-the-wild-race.json](./328505-little-animals-the-wild-race.json) |
 | Little Aquarium | 373863 | [373863-little-aquarium.json](./373863-little-aquarium.json) |
 | Little Army | 249045 | [249045-little-army.json](./249045-little-army.json) |
