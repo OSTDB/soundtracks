@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LazerBlazer: Type C - Confront | 271257 | [271257-lazerblazer-type-c-confront.json](./271257-lazerblazer-type-c-confront.json) |
 | LazerGrrl | 112202 | [112202-lazergrrl.json](./112202-lazergrrl.json) |
 | Lazersilk | 172465 | [172465-lazersilk.json](./172465-lazersilk.json) |
+| LazerType VR | 57440 | [57440-lazertype-vr.json](./57440-lazertype-vr.json) |
 | Lazerz | 294282 | [294282-lazerz.json](./294282-lazerz.json) |
 | LazinAround | 246122 | [246122-lazinaround.json](./246122-lazinaround.json) |
 | Lazr: A Clothformer | 126653 | [126653-lazr-a-clothformer.json](./126653-lazr-a-clothformer.json) |
@@ -4729,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Idle Monsters | 119376 | [119376-little-idle-monsters.json](./119376-little-idle-monsters.json) |
 | Little Inferno: Ho Ho Holiday | 224412 | [224412-little-inferno-ho-ho-holiday.json](./224412-little-inferno-ho-ho-holiday.json) |
 | Little Inner Monsters | 193666 | [193666-little-inner-monsters.json](./193666-little-inner-monsters.json) |
+| Little Invasion Tales | 57441 | [57441-little-invasion-tales.json](./57441-little-invasion-tales.json) |
 | Little Island | 189072 | [189072-little-island.json](./189072-little-island.json) |
 | Little Island Adventure | 202134 | [202134-little-island-adventure.json](./202134-little-island-adventure.json) |
 | Little Islanders | 211251 | [211251-little-islanders.json](./211251-little-islanders.json) |
@@ -7731,6 +7733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumnis | 223309 | [223309-lumnis.json](./223309-lumnis.json) |
 | Lumo | 19850 | [19850-lumo.json](./19850-lumo.json) |
 | Lumo 2 | 338546 | [338546-lumo-2.json](./338546-lumo-2.json) |
+| Lumo Deliveries | 57538 | [57538-lumo-deliveries.json](./57538-lumo-deliveries.json) |
 | Lumo Idle Park | 400291 | [400291-lumo-idle-park.json](./400291-lumo-idle-park.json) |
 | Lumo: Deluxe Edition | 51839 | [51839-lumo-deluxe-edition.json](./51839-lumo-deluxe-edition.json) |
 | Lumo's Cat | 14303 | [14303-lumos-cat.json](./14303-lumos-cat.json) |
