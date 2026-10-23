@@ -5879,6 +5879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Driving Test Simulator | 189929 | [189929-chinese-driving-test-simulator.json](./189929-chinese-driving-test-simulator.json) |
 | Chinese Empire | 155923 | [155923-chinese-empire.json](./155923-chinese-empire.json) |
 | Chinese Expeditionary Force: Assault Team | 233783 | [233783-chinese-expeditionary-force-assault-team.json](./233783-chinese-expeditionary-force-assault-team.json) |
+| Chinese Fighter III | 45736 | [45736-chinese-fighter-iii.json](./45736-chinese-fighter-iii.json) |
 | Chinese Game Company Simulator | 148798 | [148798-chinese-game-company-simulator.json](./148798-chinese-game-company-simulator.json) |
 | Chinese Hero | 19716 | [19716-chinese-hero.json](./19716-chinese-hero.json) |
 | Chinese inn | 76683 | [76683-chinese-inn.json](./76683-chinese-inn.json) |
@@ -6246,6 +6247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Jinsei Enjoi! Tamagotchi Plus | 229952 | [229952-chou-jinsei-enjoi-tamagotchi-plus.json](./229952-chou-jinsei-enjoi-tamagotchi-plus.json) |
 | Chou Jiryoku Senshi Microman Generation 2000 | 166590 | [166590-chou-jiryoku-senshi-microman-generation-2000.json](./166590-chou-jiryoku-senshi-microman-generation-2000.json) |
 | Chou Kagaku Dasshutsu: Gear Detective | 59207 | [59207-chou-kagaku-dasshutsu-gear-detective.json](./59207-chou-kagaku-dasshutsu-gear-detective.json) |
+| Chou Kyuukai Miracle Nine | 45733 | [45733-chou-kyuukai-miracle-nine.json](./45733-chou-kyuukai-miracle-nine.json) |
 | Chou Manin: Joshi Seido Shanai Choukyou | 97389 | [97389-chou-manin-joshi-seido-shanai-choukyou.json](./97389-chou-manin-joshi-seido-shanai-choukyou.json) |
 | Chou Mashin Eiyuuden Wataru: Another Step | 37726 | [37726-chou-mashin-eiyuuden-wataru-another-step.json](./37726-chou-mashin-eiyuuden-wataru-another-step.json) |
 | Chou Mashin Eiyuuden Wataru: Mazekko Monster | 66064 | [66064-chou-mashin-eiyuuden-wataru-mazekko-monster.json](./66064-chou-mashin-eiyuuden-wataru-mazekko-monster.json) |
@@ -15963,6 +15965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutie Monsters Battle Arena | 90399 | [90399-cutie-monsters-battle-arena.json](./90399-cutie-monsters-battle-arena.json) |
 | Cutie Smile: Kimi to Issho ni | 398994 | [398994-cutie-smile-kimi-to-issho-ni.json](./398994-cutie-smile-kimi-to-issho-ni.json) |
 | Cutie Squad: Crime War | 404263 | [404263-cutie-squad-crime-war.json](./404263-cutie-squad-crime-war.json) |
+| Cutie Suzuki no Ringside Angel | 45732 | [45732-cutie-suzuki-no-ringside-angel.json](./45732-cutie-suzuki-no-ringside-angel.json) |
 | Cutie Tutti Frutti | 207534 | [207534-cutie-tutti-frutti.json](./207534-cutie-tutti-frutti.json) |
 | Cuties | 259066 | [259066-cuties.json](./259066-cuties.json) |
 | Cuties Hacked: Dakota Photo Pack | 325851 | [325851-cuties-hacked-dakota-photo-pack.json](./325851-cuties-hacked-dakota-photo-pack.json) |
