@@ -3911,6 +3911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aida's Bizarre Halloween | 216348 | [216348-aidas-bizarre-halloween.json](./216348-aidas-bizarre-halloween.json) |
 | Aidan in Danger | 296281 | [296281-aidan-in-danger.json](./296281-aidan-in-danger.json) |
 | Aidas Strange Christmas | 165507 | [165507-aidas-strange-christmas.json](./165507-aidas-strange-christmas.json) |
+| Aiden | 84025 | [84025-aiden.json](./84025-aiden.json) |
 | AIDS Awareness | 260803 | [260803-aids-awareness.json](./260803-aids-awareness.json) |
 | AIDS Watashi o Aishite... Jin'ai Seijin | 230204 | [230204-aids-watashi-o-aishite-jinai-seijin.json](./230204-aids-watashi-o-aishite-jinai-seijin.json) |
 | Aidsmoji: The Forbidden Fruit | 86307 | [86307-aidsmoji-the-forbidden-fruit.json](./86307-aidsmoji-the-forbidden-fruit.json) |
@@ -9131,6 +9132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appleseed: Prometheus no Shintaku | 38370 | [38370-appleseed-prometheus-no-shintaku.json](./38370-appleseed-prometheus-no-shintaku.json) |
 | AppleSnake | 51989 | [51989-applesnake.json](./51989-applesnake.json) |
 | AppleSnake: Christmas story | 88181 | [88181-applesnake-christmas-story.json](./88181-applesnake-christmas-story.json) |
+| AppleSnake: Halloween Adventures | 84056 | [84056-applesnake-halloween-adventures.json](./84056-applesnake-halloween-adventures.json) |
 | Applewood | 120599 | [120599-applewood.json](./120599-applewood.json) |
 | Appli Archives: G-mode BurgerTime | 56422 | [56422-appli-archives-g-mode-burgertime.json](./56422-appli-archives-g-mode-burgertime.json) |
 | Appli Archives: IDAC Escape Game Pack 1 | 56410 | [56410-appli-archives-idac-escape-game-pack-1.json](./56410-appli-archives-idac-escape-game-pack-1.json) |
@@ -11517,6 +11519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascent of Kings | 85506 | [85506-ascent-of-kings.json](./85506-ascent-of-kings.json) |
 | Ascent of the Last Colossus | 393010 | [393010-ascent-of-the-last-colossus.json](./393010-ascent-of-the-last-colossus.json) |
 | Ascent Quest | 264138 | [264138-ascent-quest.json](./264138-ascent-quest.json) |
+| Ascent Spirit | 84073 | [84073-ascent-spirit.json](./84073-ascent-spirit.json) |
 | Ascent: Rivals | 288339 | [288339-ascent-rivals.json](./288339-ascent-rivals.json) |
 | Ascention Suvivor | 364960 | [364960-ascention-suvivor.json](./364960-ascention-suvivor.json) |
 | Ascentroid | 137916 | [137916-ascentroid.json](./137916-ascentroid.json) |
