@@ -4034,6 +4034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloop | 390745 | [390745-gloop.json](./390745-gloop.json) |
 | Gloop Deluxe | 92302 | [92302-gloop-deluxe.json](./92302-gloop-deluxe.json) |
 | Gloopalaxy | 393983 | [393983-gloopalaxy.json](./393983-gloopalaxy.json) |
+| Glorace: Phantastic Carnival | 67813 | [67813-glorace-phantastic-carnival.json](./67813-glorace-phantastic-carnival.json) |
 | Glorch's Great Escape: Walking is for Chumps | 30691 | [30691-glorchs-great-escape-walking-is-for-chumps.json](./30691-glorchs-great-escape-walking-is-for-chumps.json) |
 | Glorg | 286653 | [286653-glorg.json](./286653-glorg.json) |
 | Glorgorian Weather Initiative | 393509 | [393509-glorgorian-weather-initiative.json](./393509-glorgorian-weather-initiative.json) |
