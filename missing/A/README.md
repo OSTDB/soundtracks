@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bots Color Adventure | 284790 | [284790-a-bots-color-adventure.json](./284790-a-bots-color-adventure.json) |
 | A Box Full of Joy | 356680 | [356680-a-box-full-of-joy.json](./356680-a-box-full-of-joy.json) |
 | A Boy And His Barrel | 295931 | [295931-a-boy-and-his-barrel.json](./295931-a-boy-and-his-barrel.json) |
+| A Boy and His Beard | 86651 | [86651-a-boy-and-his-beard.json](./86651-a-boy-and-his-beard.json) |
 | A Boy and His Blob: Retro Collection | 203773 | [203773-a-boy-and-his-blob-retro-collection.json](./203773-a-boy-and-his-blob-retro-collection.json) |
 | A Boy and His Blob: Trouble on Blobolonia | 2109 | [2109-a-boy-and-his-blob-trouble-on-blobolonia.json](./2109-a-boy-and-his-blob-trouble-on-blobolonia.json) |
 | A Boy's Journey | 158681 | [158681-a-boys-journey.json](./158681-a-boys-journey.json) |
@@ -930,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Story About My Uncle | 7211 | [7211-a-story-about-my-uncle.json](./7211-a-story-about-my-uncle.json) |
 | A Story In Space | 158612 | [158612-a-story-in-space.json](./158612-a-story-in-space.json) |
 | A Story of a Band | 103227 | [103227-a-story-of-a-band.json](./103227-a-story-of-a-band.json) |
+| A Story of Distress | 86606 | [86606-a-story-of-distress.json](./86606-a-story-of-distress.json) |
 | A Story of Paradise Lost | 276040 | [276040-a-story-of-paradise-lost.json](./276040-a-story-of-paradise-lost.json) |
 | A Story of Questions | 348271 | [348271-a-story-of-questions.json](./348271-a-story-of-questions.json) |
 | A Story of the End: Revere | 57152 | [57152-a-story-of-the-end-revere.json](./57152-a-story-of-the-end-revere.json) |
@@ -7036,6 +7038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anbar | 387545 | [387545-anbar.json](./387545-anbar.json) |
 | Anceder | 105204 | [105204-anceder.json](./105204-anceder.json) |
 | Ancestor's Legacy: Conqueror's Edition | 202221 | [202221-ancestors-legacy-conquerors-edition.json](./202221-ancestors-legacy-conquerors-edition.json) |
+| Ancestors Legacy Multiplayer Open Beta | 86625 | [86625-ancestors-legacy-multiplayer-open-beta.json](./86625-ancestors-legacy-multiplayer-open-beta.json) |
 | Ancestors Legacy: Day One Edition | 139851 | [139851-ancestors-legacy-day-one-edition.json](./139851-ancestors-legacy-day-one-edition.json) |
 | Ancestors Legacy: Saladin's Conquest | 122203 | [122203-ancestors-legacy-saladins-conquest.json](./122203-ancestors-legacy-saladins-conquest.json) |
 | Ancestors Legacy: Special Edition | 124820 | [124820-ancestors-legacy-special-edition.json](./124820-ancestors-legacy-special-edition.json) |
@@ -8197,6 +8200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno Mitsumasa Pepperon-mura no Shiki | 245246 | [245246-anno-mitsumasa-pepperon-mura-no-shiki.json](./245246-anno-mitsumasa-pepperon-mura-no-shiki.json) |
 | Anno Online | 8111 | [8111-anno-online.json](./8111-anno-online.json) |
 | Anno: Build An Empire | 344911 | [344911-anno-build-an-empire.json](./344911-anno-build-an-empire.json) |
+| Annotation of Love | 86608 | [86608-annotation-of-love.json](./86608-annotation-of-love.json) |
 | Annoy Squidward | 324931 | [324931-annoy-squidward.json](./324931-annoy-squidward.json) |
 | Annoy This Guy | 290684 | [290684-annoy-this-guy.json](./290684-annoy-this-guy.json) |
 | Annoying Ball Game | 171598 | [171598-annoying-ball-game.json](./171598-annoying-ball-game.json) |
@@ -12004,6 +12008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assembloids | 41018 | [41018-assembloids.json](./41018-assembloids.json) |
 | Assembloids 2600 | 321557 | [321557-assembloids-2600.json](./321557-assembloids-2600.json) |
 | Assembly | 192749 | [192749-assembly.json](./192749-assembly.json) |
+| Assembly League | 86624 | [86624-assembly-league.json](./86624-assembly-league.json) |
 | Assembly Line | 261450 | [261450-assembly-line.json](./261450-assembly-line.json) |
 | Assembly Line | 65756 | [65756-assembly-line.json](./65756-assembly-line.json) |
 | Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
