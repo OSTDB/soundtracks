@@ -4780,6 +4780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickup One | 202753 | [202753-pickup-one.json](./202753-pickup-one.json) |
 | Pickup Point Simulator | 304613 | [304613-pickup-point-simulator.json](./304613-pickup-point-simulator.json) |
 | Pickup Trash Simulator Remastered | 312426 | [312426-pickup-trash-simulator-remastered.json](./312426-pickup-trash-simulator-remastered.json) |
+| Picky Pop | 73123 | [73123-picky-pop.json](./73123-picky-pop.json) |
 | Picma: Picture Enigmas | 102044 | [102044-picma-picture-enigmas.json](./102044-picma-picture-enigmas.json) |
 | Picme | 245739 | [245739-picme.json](./245739-picme.json) |
 | Picnic | 22817 | [22817-picnic.json](./22817-picnic.json) |
