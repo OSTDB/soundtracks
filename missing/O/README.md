@@ -3231,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore no Imouto Maker EX: Imouto to Koi Shiyo? Portable | 197947 | [197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json](./197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json) |
 | Ore no Kanojo ga Gachi Hentai Sugiru | 97480 | [97480-ore-no-kanojo-ga-gachi-hentai-sugiru.json](./97480-ore-no-kanojo-ga-gachi-hentai-sugiru.json) |
 | Ore no Ryouri | 44880 | [44880-ore-no-ryouri.json](./44880-ore-no-ryouri.json) |
+| Ore no Shikabane wo Koete Yuke | 65905 | [65905-ore-no-shikabane-wo-koete-yuke.json](./65905-ore-no-shikabane-wo-koete-yuke.json) |
 | Ore no Shita de Agake | 205643 | [205643-ore-no-shita-de-agake.json](./205643-ore-no-shita-de-agake.json) |
 | Ore no Yacht: Ganbare Nippon Challenge | 378439 | [378439-ore-no-yacht-ganbare-nippon-challenge.json](./378439-ore-no-yacht-ganbare-nippon-challenge.json) |
 | Ore no Yome VR | 304892 | [304892-ore-no-yome-vr.json](./304892-ore-no-yome-vr.json) |
@@ -3756,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouchi Mainichi Tamagotchi | 77629 | [77629-ouchi-mainichi-tamagotchi.json](./77629-ouchi-mainichi-tamagotchi.json) |
 | Ouchi Otofuda | 206371 | [206371-ouchi-otofuda.json](./206371-ouchi-otofuda.json) |
 | Oudbiao's World | 258477 | [258477-oudbiaos-world.json](./258477-oudbiaos-world.json) |
+| Ougon Musou Kyoku X | 65893 | [65893-ougon-musou-kyoku-x.json](./65893-ougon-musou-kyoku-x.json) |
 | Ougon no Haka | 67363 | [67363-ougon-no-haka.json](./67363-ougon-no-haka.json) |
 | Ougon no Kizuna | 72603 | [72603-ougon-no-kizuna.json](./72603-ougon-no-kizuna.json) |
 | Ouija | 155997 | [155997-ouija.json](./155997-ouija.json) |
@@ -4329,6 +4331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oven Dodgers | 281395 | [281395-oven-dodgers.json](./281395-oven-dodgers.json) |
 | OvenBreak | 284436 | [284436-ovenbreak.json](./284436-ovenbreak.json) |
 | OvenBreak 2 | 198314 | [198314-ovenbreak-2.json](./198314-ovenbreak-2.json) |
+| OvenBreak Infinity | 65944 | [65944-ovenbreak-infinity.json](./65944-ovenbreak-infinity.json) |
 | OvenBreak: 3baked | 383689 | [383689-ovenbreak-3baked.json](./383689-ovenbreak-3baked.json) |
 | Ovens of Hell | 108377 | [108377-ovens-of-hell.json](./108377-ovens-of-hell.json) |
 | Over & Out! | 422131 | [422131-over-and-out.json](./422131-over-and-out.json) |
