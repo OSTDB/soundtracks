@@ -3692,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent: osoboye zadaniye | 132158 | [132158-agent-osoboye-zadaniye.json](./132158-agent-osoboye-zadaniye.json) |
 | Agents 4 Hire | 379514 | [379514-agents-4-hire.json](./379514-agents-4-hire.json) |
 | Agents 404 | 408224 | [408224-agents-404.json](./408224-agents-404.json) |
+| Agents of Aggro City Online | 83372 | [83372-agents-of-aggro-city-online.json](./83372-agents-of-aggro-city-online.json) |
 | Agents of Groove | 325644 | [325644-agents-of-groove.json](./325644-agents-of-groove.json) |
 | Agents of Mayhem: Johnny Gat | 118271 | [118271-agents-of-mayhem-johnny-gat.json](./118271-agents-of-mayhem-johnny-gat.json) |
 | Agents of Mayhem: Lazarus | 118270 | [118270-agents-of-mayhem-lazarus.json](./118270-agents-of-mayhem-lazarus.json) |
@@ -6976,6 +6977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anagrams | 169360 | [169360-anagrams.json](./169360-anagrams.json) |
 | Anagrams | 354962 | [354962-anagrams.json](./354962-anagrams.json) |
 | Anagraphs: An Anagram Game With a Twist | 153087 | [153087-anagraphs-an-anagram-game-with-a-twist.json](./153087-anagraphs-an-anagram-game-with-a-twist.json) |
+| Anaheim Girl's Love Story | 83387 | [83387-anaheim-girls-love-story.json](./83387-anaheim-girls-love-story.json) |
 | Anahita | 81133 | [81133-anahita.json](./81133-anahita.json) |
 | Anahita: The Good Girl | 83151 | [83151-anahita-the-good-girl.json](./83151-anahita-the-good-girl.json) |
 | Analemma | 68767 | [68767-analemma.json](./68767-analemma.json) |
@@ -8343,6 +8345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Day in Hell | 341663 | [341663-another-day-in-hell.json](./341663-another-day-in-hell.json) |
 | Another Day in Paradise | 386956 | [386956-another-day-in-paradise.json](./386956-another-day-in-paradise.json) |
 | Another Day of Chikan! Vol7 Cool Beauty Schoolgirl in a Band | 82931 | [82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json](./82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json) |
+| Another Day of Chikan! Vol8 Side-tail Glasses JK | 83334 | [83334-another-day-of-chikan-vol8-side-tail-glasses-jk.json](./83334-another-day-of-chikan-vol8-side-tail-glasses-jk.json) |
 | Another Day Off | 356617 | [356617-another-day-off.json](./356617-another-day-off.json) |
 | Another Day to Die | 373752 | [373752-another-day-to-die.json](./373752-another-day-to-die.json) |
 | Another Day with You | 309519 | [309519-another-day-with-you.json](./309519-another-day-with-you.json) |
@@ -12428,6 +12431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Empires | 124660 | [124660-astro-empires.json](./124660-astro-empires.json) |
 | Astro Engineers | 249798 | [249798-astro-engineers.json](./249798-astro-engineers.json) |
 | Astro Fang: Super Machine | 48608 | [48608-astro-fang-super-machine.json](./48608-astro-fang-super-machine.json) |
+| Astro Fantasia | 83352 | [83352-astro-fantasia.json](./83352-astro-fantasia.json) |
 | Astro Felix | 372281 | [372281-astro-felix.json](./372281-astro-felix.json) |
 | Astro Fighter | 23049 | [23049-astro-fighter.json](./23049-astro-fighter.json) |
 | Astro Fighters | 334190 | [334190-astro-fighters.json](./334190-astro-fighters.json) |
