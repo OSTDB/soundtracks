@@ -3326,6 +3326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Dreams | 207374 | [207374-night-dreams.json](./207374-night-dreams.json) |
 | Night Drive | 323531 | [323531-night-drive.json](./323531-night-drive.json) |
 | Night Drive | 332205 | [332205-night-drive.json](./332205-night-drive.json) |
+| Night Drive VR | 88024 | [88024-night-drive-vr.json](./88024-night-drive-vr.json) |
 | Night Driver | 260733 | [260733-night-driver.json](./260733-night-driver.json) |
 | Night Driver | 311116 | [311116-night-driver.json](./311116-night-driver.json) |
 | Night Driver | 328687 | [328687-night-driver.json](./328687-night-driver.json) |
@@ -4085,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja JaJaMaru-kun: Sakura-hime to Karyu no Himitsu | 62207 | [62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json](./62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json) |
 | Ninja JaJaMaru: The Great Yokai Battle + Hell - Deluxe Edition | 225783 | [225783-ninja-jajamaru-the-great-yokai-battle-hell-deluxe-edition.json](./225783-ninja-jajamaru-the-great-yokai-battle-hell-deluxe-edition.json) |
 | Ninja JaJaMaru: The Lost RPGs | 234622 | [234622-ninja-jajamaru-the-lost-rpgs.json](./234622-ninja-jajamaru-the-lost-rpgs.json) |
+| Ninja Jump | 88042 | [88042-ninja-jump.json](./88042-ninja-jump.json) |
 | Ninja Junk Punch | 65760 | [65760-ninja-junk-punch.json](./65760-ninja-junk-punch.json) |
 | Ninja Kamui: Shinobi Origins | 298587 | [298587-ninja-kamui-shinobi-origins.json](./298587-ninja-kamui-shinobi-origins.json) |
 | Ninja Kato 1 | 273452 | [273452-ninja-kato-1.json](./273452-ninja-kato-1.json) |
@@ -5631,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova the Squirrel | 108807 | [108807-nova-the-squirrel.json](./108807-nova-the-squirrel.json) |
 | Nova Urbana | 222859 | [222859-nova-urbana.json](./222859-nova-urbana.json) |
 | Nova Usagi no Game de Ryuugaku!? DS | 72929 | [72929-nova-usagi-no-game-de-ryuugaku-ds.json](./72929-nova-usagi-no-game-de-ryuugaku-ds.json) |
+| Nova Wing | 86634 | [86634-nova-wing.json](./86634-nova-wing.json) |
 | Nova Wing II | 95609 | [95609-nova-wing-ii.json](./95609-nova-wing-ii.json) |
 | Nova X9 | 258413 | [258413-nova-x9.json](./258413-nova-x9.json) |
 | Nova-111 | 12561 | [12561-nova-111.json](./12561-nova-111.json) |
