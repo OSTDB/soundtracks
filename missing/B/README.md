@@ -5146,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bergen Bridge Advanced Defense | 89739 | [89739-bergen-bridge-advanced-defense.json](./89739-bergen-bridge-advanced-defense.json) |
 | Bergen Bridge Advanced Play | 101506 | [101506-bergen-bridge-advanced-play.json](./101506-bergen-bridge-advanced-play.json) |
 | Bergen Bridge Beginner 1 | 86721 | [86721-bergen-bridge-beginner-1.json](./86721-bergen-bridge-beginner-1.json) |
+| Bergen Bridge Beginner 2 | 88850 | [88850-bergen-bridge-beginner-2.json](./88850-bergen-bridge-beginner-2.json) |
 | Bergen Bridge Expert | 90842 | [90842-bergen-bridge-expert.json](./90842-bergen-bridge-expert.json) |
 | Bergen Bridge Intermediate 1 | 95562 | [95562-bergen-bridge-intermediate-1.json](./95562-bergen-bridge-intermediate-1.json) |
 | Bergentruck 201X | 359045 | [359045-bergentruck-201x.json](./359045-bergentruck-201x.json) |
@@ -5961,6 +5962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Sea Fishing | 342263 | [342263-big-sea-fishing.json](./342263-big-sea-fishing.json) |
 | Big Sea: The Better One Will Win | 69215 | [69215-big-sea-the-better-one-will-win.json](./69215-big-sea-the-better-one-will-win.json) |
 | Big Shot Basketball | 116160 | [116160-big-shot-basketball.json](./116160-big-shot-basketball.json) |
+| Big Shot Boxing | 88993 | [88993-big-shot-boxing.json](./88993-big-shot-boxing.json) |
 | Big Shot Swish | 120804 | [120804-big-shot-swish.json](./120804-big-shot-swish.json) |
 | Big Sister's Ass | 97834 | [97834-big-sisters-ass.json](./97834-big-sisters-ass.json) |
 | Big Sky | 52461 | [52461-big-sky.json](./52461-big-sky.json) |
@@ -10243,6 +10245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookers: Underground Chapter | 104085 | [104085-bookers-underground-chapter.json](./104085-bookers-underground-chapter.json) |
 | Bookey Manor | 333915 | [333915-bookey-manor.json](./333915-bookey-manor.json) |
 | Booking Revolution | 76991 | [76991-booking-revolution.json](./76991-booking-revolution.json) |
+| Booking Revolution HD | 89018 | [89018-booking-revolution-hd.json](./89018-booking-revolution-hd.json) |
 | Bookmark Hero | 404936 | [404936-bookmark-hero.json](./404936-bookmark-hero.json) |
 | Books | 55327 | [55327-books.json](./55327-books.json) |
 | Books for Bad Neighbors | 416042 | [416042-books-for-bad-neighbors.json](./416042-books-for-bad-neighbors.json) |
@@ -12011,6 +12014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breathedge: Cosmic Cluck | 286571 | [286571-breathedge-cosmic-cluck.json](./286571-breathedge-cosmic-cluck.json) |
 | BreathePeace.World | 111722 | [111722-breathepeace-world.json](./111722-breathepeace-world.json) |
 | Breathless | 14346 | [14346-breathless.json](./14346-breathless.json) |
+| Breathless Bliss | 88916 | [88916-breathless-bliss.json](./88916-breathless-bliss.json) |
 | Breathless: Will you Understand Me? | 292459 | [292459-breathless-will-you-understand-me.json](./292459-breathless-will-you-understand-me.json) |
 | Breathspace | 226271 | [226271-breathspace.json](./226271-breathspace.json) |
 | Breaworlds | 125830 | [125830-breaworlds.json](./125830-breaworlds.json) |
@@ -13895,6 +13899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Rush | 71525 | [71525-burger-rush.json](./71525-burger-rush.json) |
 | Burger Shift: Team Rush | 391583 | [391583-burger-shift-team-rush.json](./391583-burger-shift-team-rush.json) |
 | Burger Shop 3 | 265102 | [265102-burger-shop-3.json](./265102-burger-shop-3.json) |
+| Burger Shop HD | 88997 | [88997-burger-shop-hd.json](./88997-burger-shop-hd.json) |
 | Burger Shop Simulator 2024 | 326584 | [326584-burger-shop-simulator-2024.json](./326584-burger-shop-simulator-2024.json) |
 | Burger Shot | 362186 | [362186-burger-shot.json](./362186-burger-shot.json) |
 | Burger Story Beach Edition | 97150 | [97150-burger-story-beach-edition.json](./97150-burger-story-beach-edition.json) |
