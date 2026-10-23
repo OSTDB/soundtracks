@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadrun | 40713 | [40713-quadrun.json](./40713-quadrun.json) |
 | Quadruzzle | 270944 | [270944-quadruzzle.json](./270944-quadruzzle.json) |
 | QuadSmash | 64201 | [64201-quadsmash.json](./64201-quadsmash.json) |
+| Quadtris: Draw Puzzle | 57446 | [57446-quadtris-draw-puzzle.json](./57446-quadtris-draw-puzzle.json) |
 | Quadulo | 371266 | [371266-quadulo.json](./371266-quadulo.json) |
 | Quagmire | 66395 | [66395-quagmire.json](./66395-quagmire.json) |
 | Quail Crossing | 333158 | [333158-quail-crossing.json](./333158-quail-crossing.json) |
