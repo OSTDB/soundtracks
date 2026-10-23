@@ -478,6 +478,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xemo: Robot Sim | 30939 | [30939-xemo-robot-sim.json](./30939-xemo-robot-sim.json) |
 | Xen the Alien | 113567 | [113567-xen-the-alien.json](./113567-xen-the-alien.json) |
 | Xena: The Warrior Princess | 205821 | [205821-xena-the-warrior-princess.json](./205821-xena-the-warrior-princess.json) |
+| Xena: Warrior Princess | 80369 | [80369-xena-warrior-princess.json](./80369-xena-warrior-princess.json) |
+| Xena: Warrior Princess | 80370 | [80370-xena-warrior-princess.json](./80370-xena-warrior-princess.json) |
 | Xena: Warrior Princess - Death in Chains | 205822 | [205822-xena-warrior-princess-death-in-chains.json](./205822-xena-warrior-princess-death-in-chains.json) |
 | Xena: Warrior Princess - Girls Just Wanna Have Fun | 205823 | [205823-xena-warrior-princess-girls-just-wanna-have-fun.json](./205823-xena-warrior-princess-girls-just-wanna-have-fun.json) |
 | Xena: Warrior Princess - The Talisman of Fate | 3647 | [3647-xena-warrior-princess-the-talisman-of-fate.json](./3647-xena-warrior-princess-the-talisman-of-fate.json) |
