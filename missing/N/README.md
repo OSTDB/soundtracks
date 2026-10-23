@@ -5997,6 +5997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numerology of Artifacts | 263143 | [263143-numerology-of-artifacts.json](./263143-numerology-of-artifacts.json) |
 | Numerous Ninjas | 409658 | [409658-numerous-ninjas.json](./409658-numerous-ninjas.json) |
 | Numgeon | 113059 | [113059-numgeon.json](./113059-numgeon.json) |
+| Numgrid | 92905 | [92905-numgrid.json](./92905-numgrid.json) |
 | Numiares: A Dark Tale | 420566 | [420566-numiares-a-dark-tale.json](./420566-numiares-a-dark-tale.json) |
 | Numina | 141250 | [141250-numina.json](./141250-numina.json) |
 | Numina: Part 2 | 241510 | [241510-numina-part-2.json](./241510-numina-part-2.json) |
