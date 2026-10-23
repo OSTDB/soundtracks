@@ -2056,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re-Exit | 336728 | [336728-re-exit.json](./336728-re-exit.json) |
 | Re-Fracture: The Prophet’s Awakening | 348410 | [348410-re-fracture-the-prophet-s-awakening.json](./348410-re-fracture-the-prophet-s-awakening.json) |
 | Re-Loaded | 72263 | [72263-re-loaded.json](./72263-re-loaded.json) |
+| Re-Move Blocks | 57454 | [57454-re-move-blocks.json](./57454-re-move-blocks.json) |
 | Re-Nullum | 149466 | [149466-re-nullum.json](./149466-re-nullum.json) |
 | Re-O-Ri | 111493 | [111493-re-o-ri.json](./111493-re-o-ri.json) |
 | Re-Pair | 139249 | [139249-re-pair.json](./139249-re-pair.json) |
