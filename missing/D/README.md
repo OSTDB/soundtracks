@@ -8532,6 +8532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divid[E]: D[E]Ad Letters | 396196 | [396196-divid-e-d-e-ad-letters.json](./396196-divid-e-d-e-ad-letters.json) |
 | Divide | 178473 | [178473-divide.json](./178473-divide.json) |
 | Divide | 18364 | [18364-divide.json](./18364-divide.json) |
+| Divide & Conquer | 75609 | [75609-divide-and-conquer.json](./75609-divide-and-conquer.json) |
 | Divide and Conquer | 356229 | [356229-divide-and-conquer.json](./356229-divide-and-conquer.json) |
 | Divide By Sheep | 15924 | [15924-divide-by-sheep.json](./15924-divide-by-sheep.json) |
 | Divide By Sheep 2 | 333981 | [333981-divide-by-sheep-2.json](./333981-divide-by-sheep-2.json) |
@@ -9007,6 +9008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgeball Dino Duel | 112281 | [112281-dodgeball-dino-duel.json](./112281-dodgeball-dino-duel.json) |
 | Dodgeball Dojo | 309062 | [309062-dodgeball-dojo.json](./309062-dodgeball-dojo.json) |
 | Dodgeball Duel | 208063 | [208063-dodgeball-duel.json](./208063-dodgeball-duel.json) |
+| Dodgeball rising | 75593 | [75593-dodgeball-rising.json](./75593-dodgeball-rising.json) |
 | Dodgeball Simulator VR | 113605 | [113605-dodgeball-simulator-vr.json](./113605-dodgeball-simulator-vr.json) |
 | DodgeBall VR | 172373 | [172373-dodgeball-vr.json](./172373-dodgeball-vr.json) |
 | DodgeBall: Unleashed | 130071 | [130071-dodgeball-unleashed.json](./130071-dodgeball-unleashed.json) |
