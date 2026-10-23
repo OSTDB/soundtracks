@@ -4517,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense of the Sodomites | 336679 | [336679-defense-of-the-sodomites.json](./336679-defense-of-the-sodomites.json) |
 | Defense Technica | 10178 | [10178-defense-technica.json](./10178-defense-technica.json) |
 | Defense Tower Simulator | 152775 | [152775-defense-tower-simulator.json](./152775-defense-tower-simulator.json) |
+| Defense Warfare | 76387 | [76387-defense-warfare.json](./76387-defense-warfare.json) |
 | Defense Witches | 199787 | [199787-defense-witches.json](./199787-defense-witches.json) |
 | Defense X | 366130 | [366130-defense-x.json](./366130-defense-x.json) |
 | Defense Zone | 17611 | [17611-defense-zone.json](./17611-defense-zone.json) |
@@ -5499,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deriver | 401714 | [401714-deriver.json](./401714-deriver.json) |
 | Dermapis | 359056 | [359056-dermapis.json](./359056-dermapis.json) |
 | Dermimi's! | 327898 | [327898-dermimis.json](./327898-dermimis.json) |
+| Derora | 76366 | [76366-derora.json](./76366-derora.json) |
 | Derp Souls | 219241 | [219241-derp-souls.json](./219241-derp-souls.json) |
 | Derpy Conga | 122086 | [122086-derpy-conga.json](./122086-derpy-conga.json) |
 | Derpy Dinos | 74433 | [74433-derpy-dinos.json](./74433-derpy-dinos.json) |
@@ -5579,6 +5581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Bus | 356780 | [356780-desert-bus.json](./356780-desert-bus.json) |
 | Desert Bus | 86206 | [86206-desert-bus.json](./86206-desert-bus.json) |
 | Desert Bus Frontiers | 293222 | [293222-desert-bus-frontiers.json](./293222-desert-bus-frontiers.json) |
+| Desert Bus VR | 76421 | [76421-desert-bus-vr.json](./76421-desert-bus-vr.json) |
 | Desert Child | 91970 | [91970-desert-child.json](./91970-desert-child.json) |
 | Desert Comets | 184923 | [184923-desert-comets.json](./184923-desert-comets.json) |
 | Desert Craft Exploration | 95888 | [95888-desert-craft-exploration.json](./95888-desert-craft-exploration.json) |
@@ -11671,6 +11674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Hop | 272396 | [272396-dragon-hop.json](./272396-dragon-hop.json) |
 | Dragon Hunt | 69236 | [69236-dragon-hunt.json](./69236-dragon-hunt.json) |
 | Dragon Hunt Adventure | 204201 | [204201-dragon-hunt-adventure.json](./204201-dragon-hunt-adventure.json) |
+| Dragon Hunter | 76398 | [76398-dragon-hunter.json](./76398-dragon-hunter.json) |
 | Dragon Hunter : Sniper Choice | 90664 | [90664-dragon-hunter-sniper-choice.json](./90664-dragon-hunter-sniper-choice.json) |
 | Dragon Hunters | 269734 | [269734-dragon-hunters.json](./269734-dragon-hunters.json) |
 | Dragon Inn | 226818 | [226818-dragon-inn.json](./226818-dragon-inn.json) |
