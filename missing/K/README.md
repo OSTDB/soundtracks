@@ -3898,6 +3898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kochu's Dream | 148423 | [148423-kochus-dream.json](./148423-kochus-dream.json) |
 | Koco | 275845 | [275845-koco.json](./275845-koco.json) |
 | Kodama | 262067 | [262067-kodama.json](./262067-kodama.json) |
+| Kodama | 62050 | [62050-kodama.json](./62050-kodama.json) |
 | Kodawari Saihai Simulation: Ocha no Ma Pro Yakyuu DS | 122959 | [122959-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds.json](./122959-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds.json) |
 | Kodawari Saihai Simulation: Ocha no Ma Pro Yakyuu DS 2010 Nendo-ban | 124528 | [124528-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds-2010-nendo-ban.json](./124528-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds-2010-nendo-ban.json) |
 | Kode Zero | 362252 | [362252-kode-zero.json](./362252-kode-zero.json) |
