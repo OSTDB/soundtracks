@@ -2887,7 +2887,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -6356,6 +6355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze | 29235 | [29235-amaze.json](./29235-amaze.json) |
 | Amaze 2 | 36472 | [36472-amaze-2.json](./36472-amaze-2.json) |
 | Amaze 3D | 43172 | [43172-amaze-3d.json](./43172-amaze-3d.json) |
+| aMaze Achievements: darkness | 63724 | [63724-amaze-achievements-darkness.json](./63724-amaze-achievements-darkness.json) |
 | Amaze Adventure | 192590 | [192590-amaze-adventure.json](./192590-amaze-adventure.json) |
 | Amaze Christmas | 112829 | [112829-amaze-christmas.json](./112829-amaze-christmas.json) |
 | Amaze Classic | 98686 | [98686-amaze-classic.json](./98686-amaze-classic.json) |
@@ -6647,6 +6647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Hero Unrated | 254415 | [254415-american-hero-unrated.json](./254415-american-hero-unrated.json) |
 | American Heroes BF 92 Extra Version | 267574 | [267574-american-heroes-bf-92-extra-version.json](./267574-american-heroes-bf-92-extra-version.json) |
 | American Idol | 248734 | [248734-american-idol.json](./248734-american-idol.json) |
+| American Idol: The Search For A Superstar | 63636 | [63636-american-idol-the-search-for-a-superstar.json](./63636-american-idol-the-search-for-a-superstar.json) |
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
 | American Marksman | 239912 | [239912-american-marksman.json](./239912-american-marksman.json) |
 | American McGee presents: Bad Day L.A. | 20567 | [20567-american-mcgee-presents-bad-day-l-a.json](./20567-american-mcgee-presents-bad-day-l-a.json) |
@@ -6734,6 +6735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Americania | 398831 | [398831-americania.json](./398831-americania.json) |
 | Americas Greatest Games | 206113 | [206113-americas-greatest-games.json](./206113-americas-greatest-games.json) |
 | Americas Tower Simulator | 224756 | [224756-americas-tower-simulator.json](./224756-americas-tower-simulator.json) |
+| AmeriDarts | 63634 | [63634-ameridarts.json](./63634-ameridarts.json) |
 | Ameroth RPG | 411071 | [411071-ameroth-rpg.json](./411071-ameroth-rpg.json) |
 | Amerta | 303332 | [303332-amerta.json](./303332-amerta.json) |
 | Amerzone: The Explorer's Legacy | 11091 | [11091-amerzone-the-explorers-legacy.json](./11091-amerzone-the-explorers-legacy.json) |
@@ -14329,6 +14331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AZ Rockets | 98891 | [98891-az-rockets.json](./98891-az-rockets.json) |
 | Azada | 6747 | [6747-azada.json](./6747-azada.json) |
 | Azada: Ancient Magic | 64735 | [64735-azada-ancient-magic.json](./64735-azada-ancient-magic.json) |
+| Azada: Elementa | 63633 | [63633-azada-elementa.json](./63633-azada-elementa.json) |
 | Azada: in Libro | 63778 | [63778-azada-in-libro.json](./63778-azada-in-libro.json) |
 | Azada: In Libro Collector's Edition | 74465 | [74465-azada-in-libro-collectors-edition.json](./74465-azada-in-libro-collectors-edition.json) |
 | Azagthoth | 313860 | [313860-azagthoth.json](./313860-azagthoth.json) |
