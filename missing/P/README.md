@@ -3477,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Balance | 186259 | [186259-perfect-balance.json](./186259-perfect-balance.json) |
 | Perfect Balance Collection | 193640 | [193640-perfect-balance-collection.json](./193640-perfect-balance-collection.json) |
 | Perfect Ball | 225542 | [225542-perfect-ball.json](./225542-perfect-ball.json) |
+| Perfect Beach | 56940 | [56940-perfect-beach.json](./56940-perfect-beach.json) |
 | Perfect Bird Pitch | 270650 | [270650-perfect-bird-pitch.json](./270650-perfect-bird-pitch.json) |
 | Perfect Blue | 24149 | [24149-perfect-blue.json](./24149-perfect-blue.json) |
 | Perfect Bowling | 48306 | [48306-perfect-bowling.json](./48306-perfect-bowling.json) |
@@ -10773,6 +10774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers Time Force | 248623 | [248623-power-rangers-time-force.json](./248623-power-rangers-time-force.json) |
 | Power Rangers Time Force | 3293 | [3293-power-rangers-time-force.json](./3293-power-rangers-time-force.json) |
 | Power Rangers Time Force and Power Rangers Ninja Storm | 136206 | [136206-power-rangers-time-force-and-power-rangers-ninja-storm.json](./136206-power-rangers-time-force-and-power-rangers-ninja-storm.json) |
+| Power Rangers vs Teenage Mutant Ninja Turtles: Ultimate Hero Clash 2 | 56846 | [56846-power-rangers-vs-teenage-mutant-ninja-turtles-ultimate-hero-clash-2.json](./56846-power-rangers-vs-teenage-mutant-ninja-turtles-ultimate-hero-clash-2.json) |
 | Power Rangers Zeo: Battle Racers | 3295 | [3295-power-rangers-zeo-battle-racers.json](./3295-power-rangers-zeo-battle-racers.json) |
 | Power Rangers: Battle for the Grid | 114032 | [114032-power-rangers-battle-for-the-grid.json](./114032-power-rangers-battle-for-the-grid.json) |
 | Power Rangers: Battle for the Grid - Adam Park | 326725 | [326725-power-rangers-battle-for-the-grid-adam-park.json](./326725-power-rangers-battle-for-the-grid-adam-park.json) |
@@ -12090,6 +12092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Family Stadium | 218385 | [218385-pro-yakyuu-family-stadium.json](./218385-pro-yakyuu-family-stadium.json) |
 | Pro Yakyuu Family Stadium '88: Nendo-ban | 48304 | [48304-pro-yakyuu-family-stadium-88-nendo-ban.json](./48304-pro-yakyuu-family-stadium-88-nendo-ban.json) |
 | Pro Yakyuu Famista 2020 | 136923 | [136923-pro-yakyuu-famista-2020.json](./136923-pro-yakyuu-famista-2020.json) |
+| Pro Yakyuu Famista Climax | 56953 | [56953-pro-yakyuu-famista-climax.json](./56953-pro-yakyuu-famista-climax.json) |
 | Pro Yakyuu Famista Evolution | 136969 | [136969-pro-yakyuu-famista-evolution.json](./136969-pro-yakyuu-famista-evolution.json) |
 | Pro Yakyuu Famista Returns | 60057 | [60057-pro-yakyuu-famista-returns.json](./60057-pro-yakyuu-famista-returns.json) |
 | Pro Yakyuu Fanstars League | 395234 | [395234-pro-yakyuu-fanstars-league.json](./395234-pro-yakyuu-fanstars-league.json) |
