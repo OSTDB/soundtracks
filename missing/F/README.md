@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F/A-18 Interceptor | 12081 | [12081-f-a-18-interceptor.json](./12081-f-a-18-interceptor.json) |
 | F/A-18 Korea | 688 | [688-f-a-18-korea.json](./688-f-a-18-korea.json) |
 | F/A-18 Operation Iraqi Freedom | 64303 | [64303-f-a-18-operation-iraqi-freedom.json](./64303-f-a-18-operation-iraqi-freedom.json) |
+| F/A-18E Super Hornet | 52992 | [52992-f-a-18e-super-hornet.json](./52992-f-a-18e-super-hornet.json) |
 | F/A-18E Super Hornet: The Albanian Campaign | 84201 | [84201-f-a-18e-super-hornet-the-albanian-campaign.json](./84201-f-a-18e-super-hornet-the-albanian-campaign.json) |
 | F1 05 | 8303 | [8303-f1-05.json](./8303-f1-05.json) |
 | F1 06 | 7308 | [7308-f1-06.json](./7308-f1-06.json) |
@@ -222,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faaast Penguin | 314424 | [314424-faaast-penguin.json](./314424-faaast-penguin.json) |
 | Fab 5 Soccer | 124633 | [124633-fab-5-soccer.json](./124633-fab-5-soccer.json) |
 | Fab Fashion | 142716 | [142716-fab-fashion.json](./142716-fab-fashion.json) |
+| Fabble's Adventure | 52988 | [52988-fabbles-adventure.json](./52988-fabbles-adventure.json) |
 | Fabby Golf | 239324 | [239324-fabby-golf.json](./239324-fabby-golf.json) |
 | Fable Anniversary | 7658 | [7658-fable-anniversary.json](./7658-fable-anniversary.json) |
 | Fable Anniversary: Heroes and Villains Content Pack | 226844 | [226844-fable-anniversary-heroes-and-villains-content-pack.json](./226844-fable-anniversary-heroes-and-villains-content-pack.json) |
@@ -554,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Godmother's Pumpkin Surprise | 246527 | [246527-fairy-godmothers-pumpkin-surprise.json](./246527-fairy-godmothers-pumpkin-surprise.json) |
 | Fairy Hotel: Enchanted Kingdom | 417523 | [417523-fairy-hotel-enchanted-kingdom.json](./417523-fairy-hotel-enchanted-kingdom.json) |
 | Fairy Hunter | 249026 | [249026-fairy-hunter.json](./249026-fairy-hunter.json) |
+| Fairy Jewels 2 | 52987 | [52987-fairy-jewels-2.json](./52987-fairy-jewels-2.json) |
 | Fairy Kingdom: Castle of Magic | 235284 | [235284-fairy-kingdom-castle-of-magic.json](./235284-fairy-kingdom-castle-of-magic.json) |
 | Fairy Kitty no Kaiun Jiten: Yousei no Kuni no Uranai Shugyou | 65521 | [65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json](./65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json) |
 | Fairy Knights | 105943 | [105943-fairy-knights.json](./105943-fairy-knights.json) |
@@ -614,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tower | 218159 | [218159-fairy-tower.json](./218159-fairy-tower.json) |
 | Fairy Tower Defense | 107812 | [107812-fairy-tower-defense.json](./107812-fairy-tower-defense.json) |
 | Fairy Trails: Battle for Ever After | 265565 | [265565-fairy-trails-battle-for-ever-after.json](./265565-fairy-trails-battle-for-ever-after.json) |
+| Fairy Treasure | 53028 | [53028-fairy-treasure.json](./53028-fairy-treasure.json) |
 | Fairy Treasure - Brick Breaker | 108859 | [108859-fairy-treasure-brick-breaker.json](./108859-fairy-treasure-brick-breaker.json) |
 | Fairy Village | 233625 | [233625-fairy-village.json](./233625-fairy-village.json) |
 | Fairy Whale | 345991 | [345991-fairy-whale.json](./345991-fairy-whale.json) |
@@ -965,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Lords: Condemnation | 80150 | [80150-fallen-lords-condemnation.json](./80150-fallen-lords-condemnation.json) |
 | Fallen Mage | 30727 | [30727-fallen-mage.json](./30727-fallen-mage.json) |
 | Fallen Mage (Restocked) | 82329 | [82329-fallen-mage-restocked.json](./82329-fallen-mage-restocked.json) |
+| Fallen Oaks | 53027 | [53027-fallen-oaks.json](./53027-fallen-oaks.json) |
 | Fallen of the Round | 174243 | [174243-fallen-of-the-round.json](./174243-fallen-of-the-round.json) |
 | Fallen Overlord | 272922 | [272922-fallen-overlord.json](./272922-fallen-overlord.json) |
 | Fallen Priestess: My Sister's Demonic Bloodline | 385846 | [385846-fallen-priestess-my-sisters-demonic-bloodline.json](./385846-fallen-priestess-my-sisters-demonic-bloodline.json) |
@@ -1112,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Tricentennial Edition | 103308 | [103308-fallout-76-tricentennial-edition.json](./103308-fallout-76-tricentennial-edition.json) |
 | Fallout 76: Wastelanders | 132141 | [132141-fallout-76-wastelanders.json](./132141-fallout-76-wastelanders.json) |
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
+| Fallout Classic Collection | 53024 | [53024-fallout-classic-collection.json](./53024-fallout-classic-collection.json) |
 | Fallout Equestria: Remains | 177387 | [177387-fallout-equestria-remains.json](./177387-fallout-equestria-remains.json) |
 | Fallout Equestria: Silent Village | 369899 | [369899-fallout-equestria-silent-village.json](./369899-fallout-equestria-silent-village.json) |
 | Fallout Online | 77192 | [77192-fallout-online.json](./77192-fallout-online.json) |
@@ -1601,6 +1607,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Girls | 310732 | [310732-fantasy-girls.json](./310732-fantasy-girls.json) |
 | Fantasy Gladiators | 148932 | [148932-fantasy-gladiators.json](./148932-fantasy-gladiators.json) |
 | Fantasy Grounds | 30234 | [30234-fantasy-grounds.json](./30234-fantasy-grounds.json) |
+| Fantasy Grounds: Call of Cthulhu - The House of R'lyeh | 53021 | [53021-fantasy-grounds-call-of-cthulhu-the-house-of-rlyeh.json](./53021-fantasy-grounds-call-of-cthulhu-the-house-of-rlyeh.json) |
+| Fantasy Grounds: Savage Worlds Setting - Weird Wars II | 53020 | [53020-fantasy-grounds-savage-worlds-setting-weird-wars-ii.json](./53020-fantasy-grounds-savage-worlds-setting-weird-wars-ii.json) |
 | Fantasy Gunner | 164297 | [164297-fantasy-gunner.json](./164297-fantasy-gunner.json) |
 | Fantasy Hearts | 345068 | [345068-fantasy-hearts.json](./345068-fantasy-hearts.json) |
 | Fantasy Hentai Quest | 210856 | [210856-fantasy-hentai-quest.json](./210856-fantasy-hentai-quest.json) |
@@ -1842,8 +1850,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 4: Valley of The Yetis | 23383 | [23383-far-cry-4-valley-of-the-yetis.json](./23383-far-cry-4-valley-of-the-yetis.json) |
 | Far Cry 5 + Far Cry: New Dawn Double Pack | 146032 | [146032-far-cry-5-far-cry-new-dawn-double-pack.json](./146032-far-cry-5-far-cry-new-dawn-double-pack.json) |
 | Far Cry 5 Season Pass | 95960 | [95960-far-cry-5-season-pass.json](./95960-far-cry-5-season-pass.json) |
+| Far Cry 5: Deluxe Edition | 53012 | [53012-far-cry-5-deluxe-edition.json](./53012-far-cry-5-deluxe-edition.json) |
 | Far Cry 5: Digital Deluxe Edition | 118709 | [118709-far-cry-5-digital-deluxe-edition.json](./118709-far-cry-5-digital-deluxe-edition.json) |
 | Far Cry 5: Digital Gold Edition | 118710 | [118710-far-cry-5-digital-gold-edition.json](./118710-far-cry-5-digital-gold-edition.json) |
+| Far Cry 5: Gold Edition | 53011 | [53011-far-cry-5-gold-edition.json](./53011-far-cry-5-gold-edition.json) |
 | Far Cry 5: Resistance Edition | 83887 | [83887-far-cry-5-resistance-edition.json](./83887-far-cry-5-resistance-edition.json) |
 | Far Cry 5: The Father Edition | 83886 | [83886-far-cry-5-the-father-edition.json](./83886-far-cry-5-the-father-edition.json) |
 | Far Cry 6: Collapse | 182123 | [182123-far-cry-6-collapse.json](./182123-far-cry-6-collapse.json) |
@@ -1870,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry: Gold Pack | 219001 | [219001-far-cry-gold-pack.json](./219001-far-cry-gold-pack.json) |
 | Far Cry: New Dawn - Deluxe Edition | 113195 | [113195-far-cry-new-dawn-deluxe-edition.json](./113195-far-cry-new-dawn-deluxe-edition.json) |
 | Far Cry: New Dawn - Superbloom Edition | 139908 | [139908-far-cry-new-dawn-superbloom-edition.json](./139908-far-cry-new-dawn-superbloom-edition.json) |
+| Far Cry: Primal - Special Edition | 53017 | [53017-far-cry-primal-special-edition.json](./53017-far-cry-primal-special-edition.json) |
 | Far Cry: Primal - Wenja Pack | 117513 | [117513-far-cry-primal-wenja-pack.json](./117513-far-cry-primal-wenja-pack.json) |
 | Far Cry: Silver Pack | 223558 | [223558-far-cry-silver-pack.json](./223558-far-cry-silver-pack.json) |
 | Far Cry: Wild Expedition | 100668 | [100668-far-cry-wild-expedition.json](./100668-far-cry-wild-expedition.json) |
@@ -2025,6 +2036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy 2: Pizza Party HD | 88536 | [88536-farm-frenzy-2-pizza-party-hd.json](./88536-farm-frenzy-2-pizza-party-hd.json) |
 | Farm Frenzy 3 | 16093 | [16093-farm-frenzy-3.json](./16093-farm-frenzy-3.json) |
 | Farm Frenzy 3 HD | 88808 | [88808-farm-frenzy-3-hd.json](./88808-farm-frenzy-3-hd.json) |
+| Farm Frenzy 3: Ice Domain | 53010 | [53010-farm-frenzy-3-ice-domain.json](./53010-farm-frenzy-3-ice-domain.json) |
 | Farm Frenzy 3: Russian Village | 53034 | [53034-farm-frenzy-3-russian-village.json](./53034-farm-frenzy-3-russian-village.json) |
 | Farm Frenzy 4 | 17317 | [17317-farm-frenzy-4.json](./17317-farm-frenzy-4.json) |
 | Farm Frenzy Collection | 34762 | [34762-farm-frenzy-collection.json](./34762-farm-frenzy-collection.json) |
