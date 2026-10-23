@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vibe Clicker | 352311 | [352311-vibe-clicker.json](./352311-vibe-clicker.json) |
 | Vibes | 94126 | [94126-vibes.json](./94126-vibes.json) |
 | Vibin'Vendetta | 302671 | [302671-vibinvendetta.json](./302671-vibinvendetta.json) |
+| Vibrant | 74188 | [74188-vibrant.json](./74188-vibrant.json) |
 | Vibrant Color Simple Answers | 397136 | [397136-vibrant-color-simple-answers.json](./397136-vibrant-color-simple-answers.json) |
 | Vibrant Dash | 368368 | [368368-vibrant-dash.json](./368368-vibrant-dash.json) |
 | Vibrant Frame | 304246 | [304246-vibrant-frame.json](./304246-vibrant-frame.json) |
@@ -3186,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Traffic Safety with Polly | 338564 | [338564-vr-traffic-safety-with-polly.json](./338564-vr-traffic-safety-with-polly.json) |
 | VR travel as a little tiny small dwarf | 252226 | [252226-vr-travel-as-a-little-tiny-small-dwarf.json](./252226-vr-travel-as-a-little-tiny-small-dwarf.json) |
 | VR Treasure Raider | 153383 | [153383-vr-treasure-raider.json](./153383-vr-treasure-raider.json) |
+| VR Triber | 74153 | [74153-vr-triber.json](./74153-vr-triber.json) |
 | VR Tribes | 216489 | [216489-vr-tribes.json](./216489-vr-tribes.json) |
 | VR Tribes: The VR Edition | 256006 | [256006-vr-tribes-the-vr-edition.json](./256006-vr-tribes-the-vr-edition.json) |
 | VR Trivia Battle | 81043 | [81043-vr-trivia-battle.json](./81043-vr-trivia-battle.json) |
