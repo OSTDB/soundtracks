@@ -5054,6 +5054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben the Binder | 378303 | [378303-ben-the-binder.json](./378303-ben-the-binder.json) |
 | Ben There, Dan That! | 9541 | [9541-ben-there-dan-that.json](./9541-ben-there-dan-that.json) |
 | Ben Was Assimilated | 184292 | [184292-ben-was-assimilated.json](./184292-ben-was-assimilated.json) |
+| Ben's Game | 73127 | [73127-bens-game.json](./73127-bens-game.json) |
 | Ben's World | 367581 | [367581-bens-world.json](./367581-bens-world.json) |
 | Ben's Zombie Apocalypse | 411826 | [411826-bens-zombie-apocalypse.json](./411826-bens-zombie-apocalypse.json) |
 | Běncǎo Shàn Shí Lù | 373696 | [373696-bencao-shan-shi-lu.json](./373696-bencao-shan-shi-lu.json) |
