@@ -4855,6 +4855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefighters: The Simulation | 32042 | [32042-firefighters-the-simulation.json](./32042-firefighters-the-simulation.json) |
 | Firefighters: The Simulation - Platinum Edition | 146129 | [146129-firefighters-the-simulation-platinum-edition.json](./146129-firefighters-the-simulation-platinum-edition.json) |
 | Firefighting Rescue Simulator | 359988 | [359988-firefighting-rescue-simulator.json](./359988-firefighting-rescue-simulator.json) |
+| Firefighting Simulator | 55630 | [55630-firefighting-simulator.json](./55630-firefighting-simulator.json) |
 | Firefighting Simulator: Ignite | 335254 | [335254-firefighting-simulator-ignite.json](./335254-firefighting-simulator-ignite.json) |
 | Firefighting Simulator: The Squad | 228376 | [228376-firefighting-simulator-the-squad.json](./228376-firefighting-simulator-the-squad.json) |
 | Firefleet | 293743 | [293743-firefleet.json](./293743-firefleet.json) |
@@ -9367,6 +9368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fresh Tracks VR | 380569 | [380569-fresh-tracks-vr.json](./380569-fresh-tracks-vr.json) |
 | FreshBallFall | 298361 | [298361-freshballfall.json](./298361-freshballfall.json) |
 | FreshCharge Ruru | 250269 | [250269-freshcharge-ruru.json](./250269-freshcharge-ruru.json) |
+| Freshly fried shrimps seemed hot additionally named noth | 55644 | [55644-freshly-fried-shrimps-seemed-hot-additionally-named-noth.json](./55644-freshly-fried-shrimps-seemed-hot-additionally-named-noth.json) |
 | Freshly Frosted | 117697 | [117697-freshly-frosted.json](./117697-freshly-frosted.json) |
 | Freshman Magic: Spellbooks and Tangled Sheets | 201010 | [201010-freshman-magic-spellbooks-and-tangled-sheets.json](./201010-freshman-magic-spellbooks-and-tangled-sheets.json) |
 | Freshman Year | 35405 | [35405-freshman-year.json](./35405-freshman-year.json) |
@@ -9688,6 +9690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Up! | 400664 | [400664-frog-up.json](./400664-frog-up.json) |
 | Frog vs Mural Girl 2: The Back Layer | 409762 | [409762-frog-vs-mural-girl-2-the-back-layer.json](./409762-frog-vs-mural-girl-2-the-back-layer.json) |
 | Frog Wizard Gem Quest | 228993 | [228993-frog-wizard-gem-quest.json](./228993-frog-wizard-gem-quest.json) |
+| Frog X Bird | 55642 | [55642-frog-x-bird.json](./55642-frog-x-bird.json) |
 | Frog's Adventure | 259738 | [259738-frogs-adventure.json](./259738-frogs-adventure.json) |
 | Frog's Princess | 171822 | [171822-frogs-princess.json](./171822-frogs-princess.json) |
 | Frogatto | 92280 | [92280-frogatto.json](./92280-frogatto.json) |
