@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landnav | 197380 | [197380-landnav.json](./197380-landnav.json) |
 | Lando: Me? A Hero? | 321422 | [321422-lando-me-a-hero.json](./321422-lando-me-a-hero.json) |
 | Landomayzer | 370122 | [370122-landomayzer.json](./370122-landomayzer.json) |
+| Landon | 55648 | [55648-landon.json](./55648-landon.json) |
 | Landonia | 340894 | [340894-landonia.json](./340894-landonia.json) |
 | Landoria | 296637 | [296637-landoria.json](./296637-landoria.json) |
 | Landorus Therian Dating Simulator | 330104 | [330104-landorus-therian-dating-simulator.json](./330104-landorus-therian-dating-simulator.json) |
@@ -1349,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Launch Ball | 369744 | [369744-launch-ball.json](./369744-launch-ball.json) |
 | Launch Break | 135788 | [135788-launch-break.json](./135788-launch-break.json) |
 | Launch Dude | 339285 | [339285-launch-dude.json](./339285-launch-dude.json) |
+| Launch Party | 55619 | [55619-launch-party.json](./55619-launch-party.json) |
 | Launch The Baby | 246413 | [246413-launch-the-baby.json](./246413-launch-the-baby.json) |
 | Launch Window | 412486 | [412486-launch-window.json](./412486-launch-window.json) |
 | Launcher | 358923 | [358923-launcher.json](./358923-launcher.json) |
@@ -6702,6 +6704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Wiki: Kozlovka | 374721 | [374721-lost-wiki-kozlovka.json](./374721-lost-wiki-kozlovka.json) |
 | Lost Wing | 75371 | [75371-lost-wing.json](./75371-lost-wing.json) |
 | Lost Wish: In the Desperate World | 195482 | [195482-lost-wish-in-the-desperate-world.json](./195482-lost-wish-in-the-desperate-world.json) |
+| Lost with Dinosaurs | 55633 | [55633-lost-with-dinosaurs.json](./55633-lost-with-dinosaurs.json) |
 | Lost Within | 23959 | [23959-lost-within.json](./23959-lost-within.json) |
 | Lost World | 226183 | [226183-lost-world.json](./226183-lost-world.json) |
 | Lost World Sudoku | 245673 | [245673-lost-world-sudoku.json](./245673-lost-world-sudoku.json) |
