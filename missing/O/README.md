@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Wuppertal | 155167 | [155167-omsi-2-wuppertal.json](./155167-omsi-2-wuppertal.json) |
 | OMSI 2: Wuppertal Buslinie 639 | 155144 | [155144-omsi-2-wuppertal-buslinie-639.json](./155144-omsi-2-wuppertal-buslinie-639.json) |
 | OMSI 2: Yorkshire Counties | 155108 | [155108-omsi-2-yorkshire-counties.json](./155108-omsi-2-yorkshire-counties.json) |
+| OMSI: The Bus Simulator | 47037 | [47037-omsi-the-bus-simulator.json](./47037-omsi-the-bus-simulator.json) |
 | Omusubi | 304818 | [304818-omusubi.json](./304818-omusubi.json) |
 | Omvorm | 109494 | [109494-omvorm.json](./109494-omvorm.json) |
 | Omvros | 404187 | [404187-omvros.json](./404187-omvros.json) |
