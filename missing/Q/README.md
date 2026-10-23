@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake Champions | 19530 | [19530-quake-champions.json](./19530-quake-champions.json) |
 | Quake Champions: Classic | 366933 | [366933-quake-champions-classic.json](./366933-quake-champions-classic.json) |
 | Quake Champions: Doom Edition | 145419 | [145419-quake-champions-doom-edition.json](./145419-quake-champions-doom-edition.json) |
+| Quake Collection | 54270 | [54270-quake-collection.json](./54270-quake-collection.json) |
 | Quake Combat+ | 357435 | [357435-quake-combat.json](./357435-quake-combat.json) |
 | Quake Condensed | 271776 | [271776-quake-condensed.json](./271776-quake-condensed.json) |
 | Quake II | 261085 | [261085-quake-ii.json](./261085-quake-ii.json) |
@@ -630,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Coast Casino | 385889 | [385889-queens-coast-casino.json](./385889-queens-coast-casino.json) |
 | Queen's Conquest | 157390 | [157390-queens-conquest.json](./157390-queens-conquest.json) |
 | Queen's Crown | 80571 | [80571-queens-crown.json](./80571-queens-crown.json) |
+| Queen's Garden | 54269 | [54269-queens-garden.json](./54269-queens-garden.json) |
 | Queen's Garden 2 | 101504 | [101504-queens-garden-2.json](./101504-queens-garden-2.json) |
 | Queen's Garden 4: Sakura Season | 100960 | [100960-queens-garden-4-sakura-season.json](./100960-queens-garden-4-sakura-season.json) |
 | Queen's Garden: A Relaxing Match3 Game with Flowers and Gardening | 100992 | [100992-queens-garden-a-relaxing-match3-game-with-flowers-and-gardening.json](./100992-queens-garden-a-relaxing-match3-game-with-flowers-and-gardening.json) |
