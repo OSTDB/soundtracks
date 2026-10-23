@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1B Spells | 248318 | [248318-1b-spells.json](./248318-1b-spells.json) |
 | 1Bit Castle | 124702 | [124702-1bit-castle.json](./124702-1bit-castle.json) |
 | 1Boss1Battle1Button | 421219 | [421219-1boss1battle1button.json](./421219-1boss1battle1button.json) |
+| 1Check | 94519 | [94519-1check.json](./94519-1check.json) |
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
 | 1Dreamboy | 266154 | [266154-1dreamboy.json](./266154-1dreamboy.json) |
 | 1Heart | 16316 | [16316-1heart.json](./16316-1heart.json) |
