@@ -3987,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokubyaku no Avesta: Refusal-Aushedar | 326088 | [326088-kokubyaku-no-avesta-refusal-aushedar.json](./326088-kokubyaku-no-avesta-refusal-aushedar.json) |
 | Kokuga | 22164 | [22164-kokuga.json](./22164-kokuga.json) |
 | Kokuhaku Confessional | 418268 | [418268-kokuhaku-confessional.json](./418268-kokuhaku-confessional.json) |
+| Kokuin Waltz | 97741 | [97741-kokuin-waltz.json](./97741-kokuin-waltz.json) |
 | Kokurase: Episode 2 | 167800 | [167800-kokurase-episode-2.json](./167800-kokurase-episode-2.json) |
 | Kokurase: Episode 3 | 167799 | [167799-kokurase-episode-3.json](./167799-kokurase-episode-3.json) |
 | Kokuriko | 296922 | [296922-kokuriko.json](./296922-kokuriko.json) |
