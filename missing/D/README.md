@@ -6596,6 +6596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Diaries Saga | 105511 | [105511-diamond-diaries-saga.json](./105511-diamond-diaries-saga.json) |
 | Diamond Diaries Saga | 105793 | [105793-diamond-diaries-saga.json](./105793-diamond-diaries-saga.json) |
 | Diamond Digger Saga | 391081 | [391081-diamond-digger-saga.json](./391081-diamond-digger-saga.json) |
+| Diamond Drop | 70782 | [70782-diamond-drop.json](./70782-diamond-drop.json) |
 | Diamond Gems | 246265 | [246265-diamond-gems.json](./246265-diamond-gems.json) |
 | Diamond Girl: An Earnest Education in Love | 147996 | [147996-diamond-girl-an-earnest-education-in-love.json](./147996-diamond-girl-an-earnest-education-in-love.json) |
 | Diamond Giza | 157193 | [157193-diamond-giza.json](./157193-diamond-giza.json) |
@@ -11720,6 +11721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Knight | 31918 | [31918-dragon-knight.json](./31918-dragon-knight.json) |
 | Dragon Knight | 39628 | [39628-dragon-knight.json](./39628-dragon-knight.json) |
 | Dragon Knight | 416720 | [416720-dragon-knight.json](./416720-dragon-knight.json) |
+| Dragon Knight & Graffiti | 70822 | [70822-dragon-knight-and-graffiti.json](./70822-dragon-knight-and-graffiti.json) |
 | Dragon Knight 4 | 45959 | [45959-dragon-knight-4.json](./45959-dragon-knight-4.json) |
 | Dragon Knight 4 | 80844 | [80844-dragon-knight-4.json](./80844-dragon-knight-4.json) |
 | Dragon Knight II | 41779 | [41779-dragon-knight-ii.json](./41779-dragon-knight-ii.json) |
