@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Deity's Bastion | 268761 | [268761-dark-deitys-bastion.json](./268761-dark-deitys-bastion.json) |
 | Dark Delve | 65469 | [65469-dark-delve.json](./65469-dark-delve.json) |
 | Dark Descent | 387042 | [387042-dark-descent.json](./387042-dark-descent.json) |
+| Dark Descent: The Blue Rose | 51727 | [51727-dark-descent-the-blue-rose.json](./51727-dark-descent-the-blue-rose.json) |
 | Dark Designs I: Grelminar's Staff | 72104 | [72104-dark-designs-i-grelminars-staff.json](./72104-dark-designs-i-grelminars-staff.json) |
 | Dark Designs II: Closing the Gate | 73329 | [73329-dark-designs-ii-closing-the-gate.json](./73329-dark-designs-ii-closing-the-gate.json) |
 | Dark Designs III: Retribution! | 356865 | [356865-dark-designs-iii-retribution.json](./356865-dark-designs-iii-retribution.json) |
@@ -4975,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Democracy | 5520 | [5520-democracy.json](./5520-democracy.json) |
 | Democracy 3: Clones and Drones | 8766 | [8766-democracy-3-clones-and-drones.json](./8766-democracy-3-clones-and-drones.json) |
 | Democracy 3: Electioneering | 51754 | [51754-democracy-3-electioneering.json](./51754-democracy-3-electioneering.json) |
+| Democracy 3: Extremism | 51753 | [51753-democracy-3-extremism.json](./51753-democracy-3-extremism.json) |
 | Democracy 3: Social Engineering | 11399 | [11399-democracy-3-social-engineering.json](./11399-democracy-3-social-engineering.json) |
 | Democracy 4 | 109483 | [109483-democracy-4.json](./109483-democracy-4.json) |
 | Democracy 4: Country Pack | 262796 | [262796-democracy-4-country-pack.json](./262796-democracy-4-country-pack.json) |
@@ -5746,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Dinosaurs | 153216 | [153216-desktop-dinosaurs.json](./153216-desktop-dinosaurs.json) |
 | Desktop Dodgeball 2 | 317224 | [317224-desktop-dodgeball-2.json](./317224-desktop-dodgeball-2.json) |
 | Desktop Driller | 410454 | [410454-desktop-driller.json](./410454-desktop-driller.json) |
+| Desktop Dungeons: Enhanced Edition | 51752 | [51752-desktop-dungeons-enhanced-edition.json](./51752-desktop-dungeons-enhanced-edition.json) |
 | Desktop Dungeons: Rewind | 213510 | [213510-desktop-dungeons-rewind.json](./213510-desktop-dungeons-rewind.json) |
 | Desktop Dynasties | 111519 | [111519-desktop-dynasties.json](./111519-desktop-dynasties.json) |
 | Desktop Explorer | 275251 | [275251-desktop-explorer.json](./275251-desktop-explorer.json) |
@@ -8680,6 +8683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity II: The Dragon Knight Saga | 13178 | [13178-divinity-ii-the-dragon-knight-saga.json](./13178-divinity-ii-the-dragon-knight-saga.json) |
 | Divinity Vassals | 389709 | [389709-divinity-vassals.json](./389709-divinity-vassals.json) |
 | Divinity: Dragon Commander | 2905 | [2905-divinity-dragon-commander.json](./2905-divinity-dragon-commander.json) |
+| Divinity: Dragon Commander - Imperial Edition | 51751 | [51751-divinity-dragon-commander-imperial-edition.json](./51751-divinity-dragon-commander-imperial-edition.json) |
 | Divinity: Original Sin - Enhanced Edition | 14177 | [14177-divinity-original-sin-enhanced-edition.json](./14177-divinity-original-sin-enhanced-edition.json) |
 | Divinity: Original Sin - The Source Saga | 133908 | [133908-divinity-original-sin-the-source-saga.json](./133908-divinity-original-sin-the-source-saga.json) |
 | Divinity: Original Sin 2 - Divine Ascension | 144597 | [144597-divinity-original-sin-2-divine-ascension.json](./144597-divinity-original-sin-2-divine-ascension.json) |
@@ -9191,6 +9195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Sled Saga | 17163 | [17163-dog-sled-saga.json](./17163-dog-sled-saga.json) |
 | Dog Spotting Challenge! | 336420 | [336420-dog-spotting-challenge.json](./336420-dog-spotting-challenge.json) |
 | Dog Star Adventure | 25588 | [25588-dog-star-adventure.json](./25588-dog-star-adventure.json) |
+| Dog Theatre | 51714 | [51714-dog-theatre.json](./51714-dog-theatre.json) |
 | Dog Trainer | 132797 | [132797-dog-trainer.json](./132797-dog-trainer.json) |
 | Dog Veterinary: Training Hospital Near Me | 328551 | [328551-dog-veterinary-training-hospital-near-me.json](./328551-dog-veterinary-training-hospital-near-me.json) |
 | Dog vs Cat Othello | 313537 | [313537-dog-vs-cat-othello.json](./313537-dog-vs-cat-othello.json) |
@@ -11084,6 +11089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downfall Hearts | 258487 | [258487-downfall-hearts.json](./258487-downfall-hearts.json) |
 | Downfall MMORPG | 351043 | [351043-downfall-mmorpg.json](./351043-downfall-mmorpg.json) |
 | Downfall to the Turnabout | 303757 | [303757-downfall-to-the-turnabout.json](./303757-downfall-to-the-turnabout.json) |
+| Downfall: Redux | 51750 | [51750-downfall-redux.json](./51750-downfall-redux.json) |
 | Downhell | 274127 | [274127-downhell.json](./274127-downhell.json) |
 | Downhill Challenge | 73798 | [73798-downhill-challenge.json](./73798-downhill-challenge.json) |
 | Downhill Deceits | 95253 | [95253-downhill-deceits.json](./95253-downhill-deceits.json) |
@@ -12760,6 +12766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamfall Chapters: Book One - Reborn | 223849 | [223849-dreamfall-chapters-book-one-reborn.json](./223849-dreamfall-chapters-book-one-reborn.json) |
 | Dreamfall Chapters: Book Three - Realms | 223852 | [223852-dreamfall-chapters-book-three-realms.json](./223852-dreamfall-chapters-book-three-realms.json) |
 | Dreamfall Chapters: Book Two - Rebels | 223850 | [223850-dreamfall-chapters-book-two-rebels.json](./223850-dreamfall-chapters-book-two-rebels.json) |
+| Dreamfall Chapters: The Final Cut | 51749 | [51749-dreamfall-chapters-the-final-cut.json](./51749-dreamfall-chapters-the-final-cut.json) |
 | Dreamfall: The Longest Journey | 1961 | [1961-dreamfall-the-longest-journey.json](./1961-dreamfall-the-longest-journey.json) |
 | Dreamfall: The Longest Journey - Game of the Year Edition | 131932 | [131932-dreamfall-the-longest-journey-game-of-the-year-edition.json](./131932-dreamfall-the-longest-journey-game-of-the-year-edition.json) |
 | Dreamfall: The Longest Journey - Limited Edition | 131933 | [131933-dreamfall-the-longest-journey-limited-edition.json](./131933-dreamfall-the-longest-journey-limited-edition.json) |
@@ -13436,6 +13443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DropShock | 137959 | [137959-dropshock.json](./137959-dropshock.json) |
 | Dropsol | 251755 | [251755-dropsol.json](./251755-dropsol.json) |
 | Dropsy | 11488 | [11488-dropsy.json](./11488-dropsy.json) |
+| Dropsy: Warm Damp Hug | 51748 | [51748-dropsy-warm-damp-hug.json](./51748-dropsy-warm-damp-hug.json) |
 | Droptch | 164920 | [164920-droptch.json](./164920-droptch.json) |
 | Droptic | 250265 | [250265-droptic.json](./250265-droptic.json) |
 | DropZap | 174182 | [174182-dropzap.json](./174182-dropzap.json) |
@@ -14679,8 +14687,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons: Dark Alliance | 127348 | [127348-dungeons-and-dragons-dark-alliance.json](./127348-dungeons-and-dragons-dark-alliance.json) |
 | Dungeons & Dragons: Dark Alliance - Day One Edition | 242924 | [242924-dungeons-and-dragons-dark-alliance-day-one-edition.json](./242924-dungeons-and-dragons-dark-alliance-day-one-edition.json) |
 | Dungeons & Dragons: Dark Alliance - Deluxe Edition | 148269 | [148269-dungeons-and-dragons-dark-alliance-deluxe-edition.json](./148269-dungeons-and-dragons-dark-alliance-deluxe-edition.json) |
+| Dungeons & Dragons: Dark Sun Series | 51747 | [51747-dungeons-and-dragons-dark-sun-series.json](./51747-dungeons-and-dragons-dark-sun-series.json) |
 | Dungeons & Dragons: Dragonshard | 674 | [674-dungeons-and-dragons-dragonshard.json](./674-dungeons-and-dragons-dragonshard.json) |
 | Dungeons & Dragons: Eye of the Beholder | 49197 | [49197-dungeons-and-dragons-eye-of-the-beholder.json](./49197-dungeons-and-dragons-eye-of-the-beholder.json) |
+| Dungeons & Dragons: Krynn Series | 51746 | [51746-dungeons-and-dragons-krynn-series.json](./51746-dungeons-and-dragons-krynn-series.json) |
+| Dungeons & Dragons: Ravenloft Series | 51745 | [51745-dungeons-and-dragons-ravenloft-series.json](./51745-dungeons-and-dragons-ravenloft-series.json) |
 | Dungeons & Dragons: Shadow over Mystara | 10253 | [10253-dungeons-and-dragons-shadow-over-mystara.json](./10253-dungeons-and-dragons-shadow-over-mystara.json) |
 | Dungeons & Drivers | 332842 | [332842-dungeons-and-drivers.json](./332842-dungeons-and-drivers.json) |
 | Dungeons & Dummies | 408190 | [408190-dungeons-and-dummies.json](./408190-dungeons-and-dummies.json) |
@@ -14695,6 +14706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Warbands | 390685 | [390685-dungeons-and-warbands.json](./390685-dungeons-and-warbands.json) |
 | Dungeons & Zombies | 125215 | [125215-dungeons-and-zombies.json](./125215-dungeons-and-zombies.json) |
 | Dungeons 2 | 9767 | [9767-dungeons-2.json](./9767-dungeons-2.json) |
+| Dungeons 2: A Chance of Dragons | 51744 | [51744-dungeons-2-a-chance-of-dragons.json](./51744-dungeons-2-a-chance-of-dragons.json) |
 | Dungeons 2: A Clash of Pumpkins | 138050 | [138050-dungeons-2-a-clash-of-pumpkins.json](./138050-dungeons-2-a-clash-of-pumpkins.json) |
 | Dungeons 2: A Game of Winter | 51770 | [51770-dungeons-2-a-game-of-winter.json](./51770-dungeons-2-a-game-of-winter.json) |
 | Dungeons 2: A Song of Sand and Fire | 51769 | [51769-dungeons-2-a-song-of-sand-and-fire.json](./51769-dungeons-2-a-song-of-sand-and-fire.json) |
