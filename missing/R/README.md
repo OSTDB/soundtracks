@@ -7427,6 +7427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Carz Racing | 260195 | [260195-rocket-carz-racing.json](./260195-rocket-carz-racing.json) |
 | Rocket Cave Adventure | 160227 | [160227-rocket-cave-adventure.json](./160227-rocket-cave-adventure.json) |
 | Rocket Chameleon | 58750 | [58750-rocket-chameleon.json](./58750-rocket-chameleon.json) |
+| Rocket Chase | 79109 | [79109-rocket-chase.json](./79109-rocket-chase.json) |
 | Rocket Chicken | 254975 | [254975-rocket-chicken.json](./254975-rocket-chicken.json) |
 | Rocket Chimp | 252553 | [252553-rocket-chimp.json](./252553-rocket-chimp.json) |
 | Rocket Coaster | 82928 | [82928-rocket-coaster.json](./82928-rocket-coaster.json) |
