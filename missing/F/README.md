@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faldon | 395860 | [395860-faldon.json](./395860-faldon.json) |
 | Falinere Fantasy | 215887 | [215887-falinere-fantasy.json](./215887-falinere-fantasy.json) |
 | Falklands | 59313 | [59313-falklands.json](./59313-falklands.json) |
+| Falklands 82 - "The Empire Strikes Back" | 93436 | [93436-falklands-82-the-empire-strikes-back.json](./93436-falklands-82-the-empire-strikes-back.json) |
 | Fall | 292370 | [292370-fall.json](./292370-fall.json) |
 | Fall | 317392 | [317392-fall.json](./317392-fall.json) |
 | Fall | 34073 | [34073-fall.json](./34073-fall.json) |
@@ -6017,6 +6018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flesh Blossom | 398000 | [398000-flesh-blossom.json](./398000-flesh-blossom.json) |
 | Flesh Eating Geriatric Internet Predator | 144308 | [144308-flesh-eating-geriatric-internet-predator.json](./144308-flesh-eating-geriatric-internet-predator.json) |
 | Flesh Everest | 207356 | [207356-flesh-everest.json](./207356-flesh-everest.json) |
+| Flesh Feast | 93408 | [93408-flesh-feast.json](./93408-flesh-feast.json) |
 | Flesh Made Fear | 331184 | [331184-flesh-made-fear.json](./331184-flesh-made-fear.json) |
 | Flesh Made Fear: Summer in Rotwood | 375804 | [375804-flesh-made-fear-summer-in-rotwood.json](./375804-flesh-made-fear-summer-in-rotwood.json) |
 | Flesh of the Killer | 159219 | [159219-flesh-of-the-killer.json](./159219-flesh-of-the-killer.json) |
