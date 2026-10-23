@@ -2853,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Store Simulator | 346167 | [346167-pc-store-simulator.json](./346167-pc-store-simulator.json) |
 | PC Versus | 391571 | [391571-pc-versus.json](./391571-pc-versus.json) |
 | PC_001 | 170535 | [170535-pc-001.json](./170535-pc-001.json) |
+| PC-Darts | 81067 | [81067-pc-darts.json](./81067-pc-darts.json) |
 | PC-Man | 25148 | [25148-pc-man.json](./25148-pc-man.json) |
 | PC-Sherlock: A Game of Logic & Deduction | 98920 | [98920-pc-sherlock-a-game-of-logic-and-deduction.json](./98920-pc-sherlock-a-game-of-logic-and-deduction.json) |
 | PCB | 372104 | [372104-pcb.json](./372104-pcb.json) |
@@ -12273,6 +12274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Alien | 217743 | [217743-project-alien.json](./217743-project-alien.json) |
 | Project Alpha | 324347 | [324347-project-alpha.json](./324347-project-alpha.json) |
 | Project Alpha 002 | 30943 | [30943-project-alpha-002.json](./30943-project-alpha-002.json) |
+| Project Amalthea: Battlegrounds | 81069 | [81069-project-amalthea-battlegrounds.json](./81069-project-amalthea-battlegrounds.json) |
 | Project Amaranth | 103925 | [103925-project-amaranth.json](./103925-project-amaranth.json) |
 | Project Angels | 203310 | [203310-project-angels.json](./203310-project-angels.json) |
 | Project Anomaly | 193952 | [193952-project-anomaly.json](./193952-project-anomaly.json) |
@@ -12563,6 +12565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Looking Glass | 396343 | [396343-project-looking-glass.json](./396343-project-looking-glass.json) |
 | Project Loro | 262690 | [262690-project-loro.json](./262690-project-loro.json) |
 | Project Lounge | 31895 | [31895-project-lounge.json](./31895-project-lounge.json) |
+| Project Lucie | 81052 | [81052-project-lucie.json](./81052-project-lucie.json) |
 | Project Luminext | 372653 | [372653-project-luminext.json](./372653-project-luminext.json) |
 | Project Lumoria | 136481 | [136481-project-lumoria.json](./136481-project-lumoria.json) |
 | Project Luna | 220659 | [220659-project-luna.json](./220659-project-luna.json) |
