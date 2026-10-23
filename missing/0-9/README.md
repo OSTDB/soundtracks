@@ -1805,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Hentai Puzzle | 163558 | [163558-3d-hentai-puzzle.json](./163558-3d-hentai-puzzle.json) |
 | 3D Hentai Puzzle 2 | 163534 | [163534-3d-hentai-puzzle-2.json](./163534-3d-hentai-puzzle-2.json) |
 | 3D Hopper | 327387 | [327387-3d-hopper.json](./327387-3d-hopper.json) |
+| 3D Hunting: Trophy Whitetail | 70239 | [70239-3d-hunting-trophy-whitetail.json](./70239-3d-hunting-trophy-whitetail.json) |
 | 3D Icon Quiz | 232060 | [232060-3d-icon-quiz.json](./232060-3d-icon-quiz.json) |
 | 3D Illusion Maze Path Puzzle | 100621 | [100621-3d-illusion-maze-path-puzzle.json](./100621-3d-illusion-maze-path-puzzle.json) |
 | 3D Joys | 205073 | [205073-3d-joys.json](./205073-3d-joys.json) |
