@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakota Winchester's Adventures 2 | 310557 | [310557-dakota-winchesters-adventures-2.json](./310557-dakota-winchesters-adventures-2.json) |
 | Dakota Winchester's Adventures 3 | 310558 | [310558-dakota-winchesters-adventures-3.json](./310558-dakota-winchesters-adventures-3.json) |
 | Dakpo | 144655 | [144655-dakpo.json](./144655-dakpo.json) |
+| Dal'X | 94601 | [94601-dalx.json](./94601-dalx.json) |
 | Dala and The Cursed Forest | 292768 | [292768-dala-and-the-cursed-forest.json](./292768-dala-and-the-cursed-forest.json) |
 | Daldzah | 277978 | [277978-daldzah.json](./277978-daldzah.json) |
 | Dale & Dawson Stationery Supplies | 296326 | [296326-dale-and-dawson-stationery-supplies.json](./296326-dale-and-dawson-stationery-supplies.json) |
@@ -1851,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Das Teufelswad | 301970 | [301970-das-teufelswad.json](./301970-das-teufelswad.json) |
 | Das Tier | 141155 | [141155-das-tier.json](./141155-das-tier.json) |
 | Das Überleben: Dem Großen Sprung | 172488 | [172488-das-uberleben-dem-gro-en-sprung.json](./172488-das-uberleben-dem-gro-en-sprung.json) |
+| Das Verrückte Licht | 94517 | [94517-das-verruckte-licht.json](./94517-das-verruckte-licht.json) |
 | Dasaku | 137041 | [137041-dasaku.json](./137041-dasaku.json) |
 | Dash | 341457 | [341457-dash.json](./341457-dash.json) |
 | Dash & Roll | 285981 | [285981-dash-and-roll.json](./285981-dash-and-roll.json) |
@@ -4848,6 +4850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deluxe Free Cell Solitaire | 86899 | [86899-deluxe-free-cell-solitaire.json](./86899-deluxe-free-cell-solitaire.json) |
 | Deluxe Galaga | 39026 | [39026-deluxe-galaga.json](./39026-deluxe-galaga.json) |
 | Deluxe Scrabble for Windows | 78722 | [78722-deluxe-scrabble-for-windows.json](./78722-deluxe-scrabble-for-windows.json) |
+| Deluxe Ski Jump | 94597 | [94597-deluxe-ski-jump.json](./94597-deluxe-ski-jump.json) |
 | Deluxe Ski Jump 2 | 11676 | [11676-deluxe-ski-jump-2.json](./11676-deluxe-ski-jump-2.json) |
 | Deluxe Ski Jump 3 | 56910 | [56910-deluxe-ski-jump-3.json](./56910-deluxe-ski-jump-3.json) |
 | Deluxe Ski Jump 4 | 7500 | [7500-deluxe-ski-jump-4.json](./7500-deluxe-ski-jump-4.json) |
@@ -8804,6 +8807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doashime | 274538 | [274538-doashime.json](./274538-doashime.json) |
 | Doba Dash | 182942 | [182942-doba-dash.json](./182942-doba-dash.json) |
 | DoBad Inc | 369896 | [369896-dobad-inc.json](./369896-dobad-inc.json) |
+| Dobbel | 94605 | [94605-dobbel.json](./94605-dobbel.json) |
 | Dobbel Dungeon | 290612 | [290612-dobbel-dungeon.json](./290612-dobbel-dungeon.json) |
 | Dobby x Escape: Spooky Adventure | 233933 | [233933-dobby-x-escape-spooky-adventure.json](./233933-dobby-x-escape-spooky-adventure.json) |
 | DobbyxEscape: Halloween Adventure | 225212 | [225212-dobbyxescape-halloween-adventure.json](./225212-dobbyxescape-halloween-adventure.json) |
@@ -10391,6 +10395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dopamine Hit | 342894 | [342894-dopamine-hit.json](./342894-dopamine-hit.json) |
 | Dopaminer | 388170 | [388170-dopaminer.json](./388170-dopaminer.json) |
 | Dopamix | 222327 | [222327-dopamix.json](./222327-dopamix.json) |
+| Dope Wars | 94588 | [94588-dope-wars.json](./94588-dope-wars.json) |
 | Dope Wars Mean Streets | 294287 | [294287-dope-wars-mean-streets.json](./294287-dope-wars-mean-streets.json) |
 | DopeMine Arena | 194556 | [194556-dopemine-arena.json](./194556-dopemine-arena.json) |
 | DopePie Survivors 3D | 390265 | [390265-dopepie-survivors-3d.json](./390265-dopepie-survivors-3d.json) |
@@ -13298,6 +13303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Druid | 13613 | [13613-druid.json](./13613-druid.json) |
 | Druid | 305921 | [305921-druid.json](./305921-druid.json) |
 | Druid and His Circle of Animals | 176157 | [176157-druid-and-his-circle-of-animals.json](./176157-druid-and-his-circle-of-animals.json) |
+| Druid Soccer | 94598 | [94598-druid-soccer.json](./94598-druid-soccer.json) |
 | Druid: Daemons of the Mind | 2506 | [2506-druid-daemons-of-the-mind.json](./2506-druid-daemons-of-the-mind.json) |
 | Druid: Test of faith | 192770 | [192770-druid-test-of-faith.json](./192770-druid-test-of-faith.json) |
 | Druid: Yamie no Tsuisekisha | 268642 | [268642-druid-yamie-no-tsuisekisha.json](./268642-druid-yamie-no-tsuisekisha.json) |
@@ -14766,6 +14772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dutch's Chickens | 234541 | [234541-dutchs-chickens.json](./234541-dutchs-chickens.json) |
 | Duterra | 213018 | [213018-duterra.json](./213018-duterra.json) |
 | Dutiful Bulldozer | 106518 | [106518-dutiful-bulldozer.json](./106518-dutiful-bulldozer.json) |
+| Duty and Beyond | 94589 | [94589-duty-and-beyond.json](./94589-duty-and-beyond.json) |
 | Duty Calls | 80555 | [80555-duty-calls.json](./80555-duty-calls.json) |
 | Duty First | 317095 | [317095-duty-first.json](./317095-duty-first.json) |
 | Duty Free Shop Simulator | 373099 | [373099-duty-free-shop-simulator.json](./373099-duty-free-shop-simulator.json) |
