@@ -2569,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Bounty: Legions - Champion of the Realm Pack | 169934 | [169934-kings-bounty-legions-champion-of-the-realm-pack.json](./169934-kings-bounty-legions-champion-of-the-realm-pack.json) |
 | King's Bounty: Legions - Lord of Chaos Pack | 169932 | [169932-kings-bounty-legions-lord-of-chaos-pack.json](./169932-kings-bounty-legions-lord-of-chaos-pack.json) |
 | King's Bounty: Legions - True Tactician Ultimate Pack | 169931 | [169931-kings-bounty-legions-true-tactician-ultimate-pack.json](./169931-kings-bounty-legions-true-tactician-ultimate-pack.json) |
+| King's Bounty: The Conqueror's Quest | 45777 | [45777-kings-bounty-the-conquerors-quest.json](./45777-kings-bounty-the-conquerors-quest.json) |
 | King's Bounty: The Legend | 5039 | [5039-kings-bounty-the-legend.json](./5039-kings-bounty-the-legend.json) |
 | King's Bounty: Ultimate Edition | 53258 | [53258-kings-bounty-ultimate-edition.json](./53258-kings-bounty-ultimate-edition.json) |
 | King's Bounty: Warriors of the North - Complete Edition | 51846 | [51846-kings-bounty-warriors-of-the-north-complete-edition.json](./51846-kings-bounty-warriors-of-the-north-complete-edition.json) |
@@ -3139,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss of War | 166461 | [166461-kiss-of-war.json](./166461-kiss-of-war.json) |
 | Kiss Pinball | 43917 | [43917-kiss-pinball.json](./43917-kiss-pinball.json) |
 | Kiss Rock City: Be A Rockstar | 265419 | [265419-kiss-rock-city-be-a-rockstar.json](./265419-kiss-rock-city-be-a-rockstar.json) |
+| Kiss Shot | 45744 | [45744-kiss-shot.json](./45744-kiss-shot.json) |
 | Kiss the Demiurge | 215593 | [215593-kiss-the-demiurge.json](./215593-kiss-the-demiurge.json) |
 | Kiss the Dragon | 303320 | [303320-kiss-the-dragon.json](./303320-kiss-the-dragon.json) |
 | Kiss the Ghoul | 178478 | [178478-kiss-the-ghoul.json](./178478-kiss-the-ghoul.json) |
@@ -5084,6 +5086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyun! | 184268 | [184268-kyun.json](./184268-kyun.json) |
 | Kyurinaga's Revenge | 25308 | [25308-kyurinagas-revenge.json](./25308-kyurinagas-revenge.json) |
 | Kyushu Jade | 128314 | [128314-kyushu-jade.json](./128314-kyushu-jade.json) |
+| Kyuukai Douchuuki | 45724 | [45724-kyuukai-douchuuki.json](./45724-kyuukai-douchuuki.json) |
 | Kyuuketsu Hime Yui: Senyashou | 393601 | [393601-kyuuketsu-hime-yui-senyashou.json](./393601-kyuuketsu-hime-yui-senyashou.json) |
 | Kyuuketsu Kitan Moonties | 413932 | [413932-kyuuketsu-kitan-moonties.json](./413932-kyuuketsu-kitan-moonties.json) |
 | Kyuukyoku Harikiri Koushien | 315336 | [315336-kyuukyoku-harikiri-koushien.json](./315336-kyuukyoku-harikiri-koushien.json) |
