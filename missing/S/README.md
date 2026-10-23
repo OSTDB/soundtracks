@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sagashimono ha, Natsu desuka. | 263237 | [263237-sagashimono-ha-natsu-desuka.json](./263237-sagashimono-ha-natsu-desuka.json) |
 | Sage 3D | 105259 | [105259-sage-3d.json](./105259-sage-3d.json) |
 | SAGE 5: Event the Game | 321469 | [321469-sage-5-event-the-game.json](./321469-sage-5-event-the-game.json) |
+| Sage Elegy | 98297 | [98297-sage-elegy.json](./98297-sage-elegy.json) |
 | Sage Mountain | 118331 | [118331-sage-mountain.json](./118331-sage-mountain.json) |
 | Sage Solitaire | 59059 | [59059-sage-solitaire.json](./59059-sage-solitaire.json) |
 | Sages Of Kaboom | 255989 | [255989-sages-of-kaboom.json](./255989-sages-of-kaboom.json) |
@@ -21154,6 +21155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stock Stack | 312205 | [312205-stock-stack.json](./312205-stock-stack.json) |
 | Stock the Shelves | 357369 | [357369-stock-the-shelves.json](./357369-stock-the-shelves.json) |
 | Stock: Retail investors | 295542 | [295542-stock-retail-investors.json](./295542-stock-retail-investors.json) |
+| Stockboy | 98318 | [98318-stockboy.json](./98318-stockboy.json) |
 | Stockfish Chess | 87155 | [87155-stockfish-chess.json](./87155-stockfish-chess.json) |
 | Stocks | 364990 | [364990-stocks.json](./364990-stocks.json) |
 | StockSim | 332623 | [332623-stocksim.json](./332623-stocksim.json) |
@@ -24236,6 +24238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Droid Adventure | 233622 | [233622-super-droid-adventure.json](./233622-super-droid-adventure.json) |
 | Super Drop Jam | 71198 | [71198-super-drop-jam.json](./71198-super-drop-jam.json) |
 | Super Drunken Guy | 251690 | [251690-super-drunken-guy.json](./251690-super-drunken-guy.json) |
+| Super Duck | 98302 | [98302-super-duck.json](./98302-super-duck.json) |
 | Super Duck! | 222363 | [222363-super-duck.json](./222363-super-duck.json) |
 | Super Dude-Shooter: The Omni-Revenge | 140994 | [140994-super-dude-shooter-the-omni-revenge.json](./140994-super-dude-shooter-the-omni-revenge.json) |
 | Super Duelling Minivans | 71794 | [71794-super-duelling-minivans.json](./71794-super-duelling-minivans.json) |
@@ -26320,6 +26323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500 Series: Lode Runner 2 | 382928 | [382928-superlite-1500-series-lode-runner-2.json](./382928-superlite-1500-series-lode-runner-2.json) |
 | SuperLite 1500 Series: Qix 2000 | 97320 | [97320-superlite-1500-series-qix-2000.json](./97320-superlite-1500-series-qix-2000.json) |
 | SuperLite 1500 Series: Shinsei Toire no Kakosan | 382913 | [382913-superlite-1500-series-shinsei-toire-no-kakosan.json](./382913-superlite-1500-series-shinsei-toire-no-kakosan.json) |
+| SuperLite 1500 Series: Space Chaser 2000 | 98293 | [98293-superlite-1500-series-space-chaser-2000.json](./98293-superlite-1500-series-space-chaser-2000.json) |
 | SuperLite 1500 Series: The Curling | 98244 | [98244-superlite-1500-series-the-curling.json](./98244-superlite-1500-series-the-curling.json) |
 | SuperLite 1500 series: The Tetris | 98801 | [98801-superlite-1500-series-the-tetris.json](./98801-superlite-1500-series-the-tetris.json) |
 | SuperLite 1500: Crazy Balloon 2000 | 97323 | [97323-superlite-1500-crazy-balloon-2000.json](./97323-superlite-1500-crazy-balloon-2000.json) |
