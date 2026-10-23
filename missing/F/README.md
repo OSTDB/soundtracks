@@ -3123,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fenimore Fillmore: The Westerner | 27496 | [27496-fenimore-fillmore-the-westerner.json](./27496-fenimore-fillmore-the-westerner.json) |
 | Fenimore Fillmore's Revenge | 27491 | [27491-fenimore-fillmores-revenge.json](./27491-fenimore-fillmores-revenge.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
+| Fenix Box | 81925 | [81925-fenix-box.json](./81925-fenix-box.json) |
 | Fenix Rage | 17295 | [17295-fenix-rage.json](./17295-fenix-rage.json) |
 | Fenrir's fury | 252245 | [252245-fenrirs-fury.json](./252245-fenrirs-fury.json) |
 | Fenrir's Prelude | 143510 | [143510-fenrirs-prelude.json](./143510-fenrirs-prelude.json) |
@@ -5148,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisherman's Peril | 143492 | [143492-fishermans-peril.json](./143492-fishermans-peril.json) |
 | Fisherman'sWorld | 288049 | [288049-fishermansworld.json](./288049-fishermansworld.json) |
 | Fishermen's Haven | 152013 | [152013-fishermens-haven.json](./152013-fishermens-haven.json) |
+| Fisherones | 81898 | [81898-fisherones.json](./81898-fisherones.json) |
 | Fishery Tycoon | 212475 | [212475-fishery-tycoon.json](./212475-fishery-tycoon.json) |
 | Fishes and Barrels | 244797 | [244797-fishes-and-barrels.json](./244797-fishes-and-barrels.json) |
 | Fishgun | 255238 | [255238-fishgun.json](./255238-fishgun.json) |
