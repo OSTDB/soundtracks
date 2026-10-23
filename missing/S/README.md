@@ -8220,6 +8220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hunter 5: Battle of the Atlantic | 995 | [995-silent-hunter-5-battle-of-the-atlantic.json](./995-silent-hunter-5-battle-of-the-atlantic.json) |
 | Silent Hunter III | 870 | [870-silent-hunter-iii.json](./870-silent-hunter-iii.json) |
 | Silent Hunter Online | 3449 | [3449-silent-hunter-online.json](./3449-silent-hunter-online.json) |
+| Silent Hunter Patrol Disk | 85938 | [85938-silent-hunter-patrol-disk.json](./85938-silent-hunter-patrol-disk.json) |
 | Silent Hunter Patrol Disk #2 | 77311 | [77311-silent-hunter-patrol-disk-2.json](./77311-silent-hunter-patrol-disk-2.json) |
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
 | Silent Iron | 94866 | [94866-silent-iron.json](./94866-silent-iron.json) |
@@ -11031,6 +11032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smack it! Punch Champion | 376763 | [376763-smack-it-punch-champion.json](./376763-smack-it-punch-champion.json) |
 | Smack Monkey | 332989 | [332989-smack-monkey.json](./332989-smack-monkey.json) |
 | Smack Some Smackers | 77400 | [77400-smack-some-smackers.json](./77400-smack-some-smackers.json) |
+| Smack Some Smackers 2 | 85906 | [85906-smack-some-smackers-2.json](./85906-smack-some-smackers-2.json) |
 | Smack Studio | 169880 | [169880-smack-studio.json](./169880-smack-studio.json) |
 | Smack Talk | 377698 | [377698-smack-talk.json](./377698-smack-talk.json) |
 | Smack Wacker | 68668 | [68668-smack-wacker.json](./68668-smack-wacker.json) |
@@ -16206,6 +16208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spear of Destiny: Mission 3 - Ultimate Challenge | 50429 | [50429-spear-of-destiny-mission-3-ultimate-challenge.json](./50429-spear-of-destiny-mission-3-ultimate-challenge.json) |
 | Spear of Destiny: The Final Journey | 177043 | [177043-spear-of-destiny-the-final-journey.json](./177043-spear-of-destiny-the-final-journey.json) |
 | Spear of Destiny: The Kaiseki - Director's Cut | 228098 | [228098-spear-of-destiny-the-kaiseki-directors-cut.json](./228098-spear-of-destiny-the-kaiseki-directors-cut.json) |
+| Spear Resurrection | 85926 | [85926-spear-resurrection.json](./85926-spear-resurrection.json) |
 | Spear Song | 253846 | [253846-spear-song.json](./253846-spear-song.json) |
 | Spear Throwing Challange | 135619 | [135619-spear-throwing-challange.json](./135619-spear-throwing-challange.json) |
 | Spearain | 320301 | [320301-spearain.json](./320301-spearain.json) |
@@ -27674,6 +27677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swindler | 51170 | [51170-swindler.json](./51170-swindler.json) |
 | Swindler 1.11 | 177790 | [177790-swindler-1-11.json](./177790-swindler-1-11.json) |
 | Swine's Revenge | 360011 | [360011-swines-revenge.json](./360011-swines-revenge.json) |
+| Swing | 85912 | [85912-swing.json](./85912-swing.json) |
 | Swing & Miss | 159193 | [159193-swing-and-miss.json](./159193-swing-and-miss.json) |
 | Swing 2 Heli | 262356 | [262356-swing-2-heli.json](./262356-swing-2-heli.json) |
 | Swing Boy | 346573 | [346573-swing-boy.json](./346573-swing-boy.json) |
