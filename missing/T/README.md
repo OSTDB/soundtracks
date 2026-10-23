@@ -6809,6 +6809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Duck Fell | 140941 | [140941-the-duck-fell.json](./140941-the-duck-fell.json) |
 | The Duck Pond | 310220 | [310220-the-duck-pond.json](./310220-the-duck-pond.json) |
 | The Duck Song Game | 205616 | [205616-the-duck-song-game.json](./205616-the-duck-song-game.json) |
+| The Duckforce Rises | 59280 | [59280-the-duckforce-rises.json](./59280-the-duckforce-rises.json) |
 | The Ducksuckers | 195245 | [195245-the-ducksuckers.json](./195245-the-ducksuckers.json) |
 | The Duduk Master | 232433 | [232433-the-duduk-master.json](./232433-the-duduk-master.json) |
 | The Duel | 270577 | [270577-the-duel.json](./270577-the-duel.json) |
@@ -7546,6 +7547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Backrooms | 211663 | [211663-the-first-backrooms.json](./211663-the-first-backrooms.json) |
 | The First Berserker: Khazan - Deluxe Edition | 338028 | [338028-the-first-berserker-khazan-deluxe-edition.json](./338028-the-first-berserker-khazan-deluxe-edition.json) |
 | The First Berserker: Khazan - Deluxe Edition Upgrade | 338029 | [338029-the-first-berserker-khazan-deluxe-edition-upgrade.json](./338029-the-first-berserker-khazan-deluxe-edition-upgrade.json) |
+| The First Blitzkrieg | 59182 | [59182-the-first-blitzkrieg.json](./59182-the-first-blitzkrieg.json) |
 | The First Confrontation | 149484 | [149484-the-first-confrontation.json](./149484-the-first-confrontation.json) |
 | The First Cub | 416691 | [416691-the-first-cub.json](./416691-the-first-cub.json) |
 | The First Day | 343611 | [343611-the-first-day.json](./343611-the-first-day.json) |
@@ -12648,6 +12650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sailor’s Guide to Game Design | 263140 | [263140-the-sailor-s-guide-to-game-design.json](./263140-the-sailor-s-guide-to-game-design.json) |
 | The Saint Wife’s Newlywed Trials | 376560 | [376560-the-saint-wife-s-newlywed-trials.json](./376560-the-saint-wife-s-newlywed-trials.json) |
 | The Saint's Tomb | 132052 | [132052-the-saints-tomb.json](./132052-the-saints-tomb.json) |
+| The Saiyuki Saruden | 59277 | [59277-the-saiyuki-saruden.json](./59277-the-saiyuki-saruden.json) |
 | The Salatroisk Incident | 216168 | [216168-the-salatroisk-incident.json](./216168-the-salatroisk-incident.json) |
 | The Salatroitsk Incident | 180807 | [180807-the-salatroitsk-incident.json](./180807-the-salatroitsk-incident.json) |
 | The Salesman | 376198 | [376198-the-salesman.json](./376198-the-salesman.json) |
@@ -21476,6 +21479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toward The Ice | 335505 | [335505-toward-the-ice.json](./335505-toward-the-ice.json) |
 | Towards a perilous journey | 102333 | [102333-towards-a-perilous-journey.json](./102333-towards-a-perilous-journey.json) |
 | Towards the Pantheon | 25316 | [25316-towards-the-pantheon.json](./25316-towards-the-pantheon.json) |
+| Towards the Pantheon: Escaping Eternity | 59145 | [59145-towards-the-pantheon-escaping-eternity.json](./59145-towards-the-pantheon-escaping-eternity.json) |
 | Towards the Sky | 144749 | [144749-towards-the-sky.json](./144749-towards-the-sky.json) |
 | Towards the Stars | 150689 | [150689-towards-the-stars.json](./150689-towards-the-stars.json) |
 | Towayami | 134273 | [134273-towayami.json](./134273-towayami.json) |
@@ -24535,6 +24539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TriBalls | 400452 | [400452-triballs.json](./400452-triballs.json) |
 | Tribals.io | 228783 | [228783-tribals-io.json](./228783-tribals-io.json) |
 | Tribble Troubles | 133160 | [133160-tribble-troubles.json](./133160-tribble-troubles.json) |
+| Tribe Cool Crew: The G@me | 59154 | [59154-tribe-cool-crew-the-g-me.json](./59154-tribe-cool-crew-the-g-me.json) |
 | Tribe Explorer | 213413 | [213413-tribe-explorer.json](./213413-tribe-explorer.json) |
 | Tribe Nine | 130317 | [130317-tribe-nine.json](./130317-tribe-nine.json) |
 | Tribe of Pok | 31979 | [31979-tribe-of-pok.json](./31979-tribe-of-pok.json) |
@@ -24917,6 +24922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Golf Trivia | 93772 | [93772-trivia-vault-golf-trivia.json](./93772-trivia-vault-golf-trivia.json) |
 | Trivia Vault: Health Trivia Deluxe | 81880 | [81880-trivia-vault-health-trivia-deluxe.json](./81880-trivia-vault-health-trivia-deluxe.json) |
 | Trivia Vault: Literature Trivia | 101626 | [101626-trivia-vault-literature-trivia.json](./101626-trivia-vault-literature-trivia.json) |
+| Trivia Vault: Mini Mixed Trivia 3 | 59131 | [59131-trivia-vault-mini-mixed-trivia-3.json](./59131-trivia-vault-mini-mixed-trivia-3.json) |
 | Trivia Vault: Mixed Trivia | 52779 | [52779-trivia-vault-mixed-trivia.json](./52779-trivia-vault-mixed-trivia.json) |
 | Trivia Vault: Movie Trivia | 99663 | [99663-trivia-vault-movie-trivia.json](./99663-trivia-vault-movie-trivia.json) |
 | Trivia Vault: Music Trivia | 104219 | [104219-trivia-vault-music-trivia.json](./104219-trivia-vault-music-trivia.json) |
@@ -24996,6 +25002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trollface Quest: Video Games | 259447 | [259447-trollface-quest-video-games.json](./259447-trollface-quest-video-games.json) |
 | Trollface Quest: Video Memes & TV Shows | 259446 | [259446-trollface-quest-video-memes-and-tv-shows.json](./259446-trollface-quest-video-memes-and-tv-shows.json) |
 | Trollhunters: Defenders of Arcadia | 133921 | [133921-trollhunters-defenders-of-arcadia.json](./133921-trollhunters-defenders-of-arcadia.json) |
+| Trollie Wallie | 59288 | [59288-trollie-wallie.json](./59288-trollie-wallie.json) |
 | Trollin el Corredor | 288350 | [288350-trollin-el-corredor.json](./288350-trollin-el-corredor.json) |
 | Trolling Bowling | 331320 | [331320-trolling-bowling.json](./331320-trolling-bowling.json) |
 | TrollLab | 268015 | [268015-trolllab.json](./268015-trolllab.json) |
@@ -25609,6 +25616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukuyomi: Marebito no Uta | 77941 | [77941-tsukuyomi-marebito-no-uta.json](./77941-tsukuyomi-marebito-no-uta.json) |
 | Tsukuyomi: The Divine Hunter | 342812 | [342812-tsukuyomi-the-divine-hunter.json](./342812-tsukuyomi-the-divine-hunter.json) |
 | Tsuma ga Kirei ni Natta Wake | 82977 | [82977-tsuma-ga-kirei-ni-natta-wake.json](./82977-tsuma-ga-kirei-ni-natta-wake.json) |
+| Tsumamigui | 59173 | [59173-tsumamigui.json](./59173-tsumamigui.json) |
 | Tsumamigui 2 | 59219 | [59219-tsumamigui-2.json](./59219-tsumamigui-2.json) |
 | Tsumannai | 221037 | [221037-tsumannai.json](./221037-tsumannai.json) |
 | Tsumego Pro | 402323 | [402323-tsumego-pro.json](./402323-tsumego-pro.json) |
