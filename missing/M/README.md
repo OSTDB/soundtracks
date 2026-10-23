@@ -8392,6 +8392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroLeague Baseball | 50383 | [50383-microleague-baseball.json](./50383-microleague-baseball.json) |
 | Microleague Baseball 4 | 51372 | [51372-microleague-baseball-4.json](./51372-microleague-baseball-4.json) |
 | MicroLeague Football 2 | 94265 | [94265-microleague-football-2.json](./94265-microleague-football-2.json) |
+| MicroLeague Wrestling | 80307 | [80307-microleague-wrestling.json](./80307-microleague-wrestling.json) |
 | MicroLink Shut the Box | 74063 | [74063-microlink-shut-the-box.json](./74063-microlink-shut-the-box.json) |
 | MicroMachines | 94846 | [94846-micromachines.json](./94846-micromachines.json) |
 | MicroMacro: Downtown Detective | 387475 | [387475-micromacro-downtown-detective.json](./387475-micromacro-downtown-detective.json) |
