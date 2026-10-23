@@ -3720,6 +3720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Fantasy: The Talisman of Death | 20571 | [20571-fighting-fantasy-the-talisman-of-death.json](./20571-fighting-fantasy-the-talisman-of-death.json) |
 | Fighting Fiends | 180488 | [180488-fighting-fiends.json](./180488-fighting-fiends.json) |
 | Fighting For Food | 72357 | [72357-fighting-for-food.json](./72357-fighting-for-food.json) |
+| Fighting For One Piece | 65911 | [65911-fighting-for-one-piece.json](./65911-fighting-for-one-piece.json) |
 | Fighting for Singleship: I am Chased by a Bunch of Women But I Just Want to Play Video Games | 274558 | [274558-fighting-for-singleship-i-am-chased-by-a-bunch-of-women-but-i-just-want-to-play-video-games.json](./274558-fighting-for-singleship-i-am-chased-by-a-bunch-of-women-but-i-just-want-to-play-video-games.json) |
 | Fighting Force 2 | 11615 | [11615-fighting-force-2.json](./11615-fighting-force-2.json) |
 | Fighting Force Collection | 306653 | [306653-fighting-force-collection.json](./306653-fighting-force-collection.json) |
