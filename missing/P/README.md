@@ -10732,6 +10732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Inc | 265747 | [265747-power-inc.json](./265747-power-inc.json) |
 | Power Inherited | 386495 | [386495-power-inherited.json](./386495-power-inherited.json) |
 | Power Instinct | 4476 | [4476-power-instinct.json](./4476-power-instinct.json) |
+| Power Instinct | 45729 | [45729-power-instinct.json](./45729-power-instinct.json) |
 | Power Instinct Legends | 39548 | [39548-power-instinct-legends.json](./39548-power-instinct-legends.json) |
 | Power Instinct Matrimelee | 39543 | [39543-power-instinct-matrimelee.json](./39543-power-instinct-matrimelee.json) |
 | Power League '93 | 37662 | [37662-power-league-93.json](./37662-power-league-93.json) |
@@ -11436,6 +11437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime Slime | 183275 | [183275-prime-slime.json](./183275-prime-slime.json) |
 | Prime T!me: Der Fernsehmanager | 98938 | [98938-prime-t-me-der-fernsehmanager.json](./98938-prime-t-me-der-fernsehmanager.json) |
 | Prime Time | 54714 | [54714-prime-time.json](./54714-prime-time.json) |
+| Prime Time NFL Starring Deion Sanders | 45770 | [45770-prime-time-nfl-starring-deion-sanders.json](./45770-prime-time-nfl-starring-deion-sanders.json) |
 | Prime World | 15037 | [15037-prime-world.json](./15037-prime-world.json) |
 | Prime World: Alchemy | 63306 | [63306-prime-world-alchemy.json](./63306-prime-world-alchemy.json) |
 | Prime World: Classic | 368006 | [368006-prime-world-classic.json](./368006-prime-world-classic.json) |
@@ -14988,6 +14990,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Clicker | 370418 | [370418-pyramid-clicker.json](./370418-pyramid-clicker.json) |
 | Pyramid Exit | 378422 | [378422-pyramid-exit.json](./378422-pyramid-exit.json) |
 | Pyramid Game | 310185 | [310185-pyramid-game.json](./310185-pyramid-game.json) |
+| Pyramid Magic | 45751 | [45751-pyramid-magic.json](./45751-pyramid-magic.json) |
+| Pyramid Magic III | 45750 | [45750-pyramid-magic-iii.json](./45750-pyramid-magic-iii.json) |
 | Pyramid of Doom | 18521 | [18521-pyramid-of-doom.json](./18521-pyramid-of-doom.json) |
 | Pyramid of Ra | 338816 | [338816-pyramid-of-ra.json](./338816-pyramid-of-ra.json) |
 | Pyramid Patrol | 94715 | [94715-pyramid-patrol.json](./94715-pyramid-patrol.json) |
