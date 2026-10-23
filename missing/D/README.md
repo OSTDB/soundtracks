@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D. Jump | 91952 | [91952-d-jump.json](./91952-d-jump.json) |
 | D. the Atom Shifter | 110312 | [110312-d-the-atom-shifter.json](./110312-d-the-atom-shifter.json) |
 | D.A.: Pursuit of Justice | 100282 | [100282-d-a-pursuit-of-justice.json](./100282-d-a-pursuit-of-justice.json) |
+| D.A.: Pursuit of Justice - The Sunset Boulevard Deuce | 71358 | [71358-d-a-pursuit-of-justice-the-sunset-boulevard-deuce.json](./71358-d-a-pursuit-of-justice-the-sunset-boulevard-deuce.json) |
 | D.A.M. Champion | 280160 | [280160-d-a-m-champion.json](./280160-d-a-m-champion.json) |
 | D.A.R: Deadly Alien Rogues | 327030 | [327030-d-a-r-deadly-alien-rogues.json](./327030-d-a-r-deadly-alien-rogues.json) |
 | D.Beta | 280162 | [280162-d-beta.json](./280162-d-beta.json) |
@@ -1105,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark City: Vienna - Collector's Edition | 123913 | [123913-dark-city-vienna-collectors-edition.json](./123913-dark-city-vienna-collectors-edition.json) |
 | Dark Cloud | 1214 | [1214-dark-cloud.json](./1214-dark-cloud.json) |
 | Dark Coffee | 418604 | [418604-dark-coffee.json](./418604-dark-coffee.json) |
+| Dark Colony: The Council Wars | 71369 | [71369-dark-colony-the-council-wars.json](./71369-dark-colony-the-council-wars.json) |
 | Dark Color | 289543 | [289543-dark-color.json](./289543-dark-color.json) |
 | Dark Colors | 190235 | [190235-dark-colors.json](./190235-dark-colors.json) |
 | Dark Communion | 314283 | [314283-dark-communion.json](./314283-dark-communion.json) |
@@ -1451,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Scythe | 313965 | [313965-dark-scythe.json](./313965-dark-scythe.json) |
 | Dark Secrets | 53912 | [53912-dark-secrets.json](./53912-dark-secrets.json) |
 | Dark Secrets Mystery Files | 399627 | [399627-dark-secrets-mystery-files.json](./399627-dark-secrets-mystery-files.json) |
+| Dark Secrets of Africa | 71341 | [71341-dark-secrets-of-africa.json](./71341-dark-secrets-of-africa.json) |
 | Dark Sector | 6959 | [6959-dark-sector.json](./6959-dark-sector.json) |
 | Dark Seed | 247395 | [247395-dark-seed.json](./247395-dark-seed.json) |
 | Dark Seed | 9260 | [9260-dark-seed.json](./9260-dark-seed.json) |
@@ -4656,6 +4659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delares | 154383 | [154383-delares.json](./154383-delares.json) |
 | Delaware St. John: Volume 1 - The Curse of Midnight Manor / Volume 2: The Town with No Name | 93050 | [93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json](./93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json) |
 | Delaware St. John: Volume 2 - The Town with No Name | 71043 | [71043-delaware-st-john-volume-2-the-town-with-no-name.json](./71043-delaware-st-john-volume-2-the-town-with-no-name.json) |
+| Delaware St. John: Volume 3 - The Seacliff Tragedy | 71352 | [71352-delaware-st-john-volume-3-the-seacliff-tragedy.json](./71352-delaware-st-john-volume-3-the-seacliff-tragedy.json) |
 | Delaweare | 255883 | [255883-delaweare.json](./255883-delaweare.json) |
 | Delay | 90643 | [90643-delay.json](./90643-delay.json) |
 | Delay Reducer | 50447 | [50447-delay-reducer.json](./50447-delay-reducer.json) |
@@ -9703,6 +9707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Freak Part 1 | 334875 | [334875-dont-freak-part-1.json](./334875-dont-freak-part-1.json) |
 | Don't Fret | 289433 | [289433-dont-fret.json](./289433-dont-fret.json) |
 | Don't Get a Virus | 181874 | [181874-dont-get-a-virus.json](./181874-dont-get-a-virus.json) |
+| Don't Get Angry! 2 | 71325 | [71325-dont-get-angry-2.json](./71325-dont-get-angry-2.json) |
 | Don't Get Angry! 3 | 25493 | [25493-dont-get-angry-3.json](./25493-dont-get-angry-3.json) |
 | Don't Get Caught | 348027 | [348027-dont-get-caught.json](./348027-dont-get-caught.json) |
 | Don't Get Caught | 353153 | [353153-dont-get-caught.json](./353153-dont-get-caught.json) |
