@@ -1703,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harpy's Curse | 332393 | [332393-harpys-curse.json](./332393-harpys-curse.json) |
 | Harrier 2001 | 209862 | [209862-harrier-2001.json](./209862-harrier-2001.json) |
 | Harrier 7 | 94412 | [94412-harrier-7.json](./94412-harrier-7.json) |
+| Harrier Attack II | 79098 | [79098-harrier-attack-ii.json](./79098-harrier-attack-ii.json) |
 | Harrier Attack! | 13004 | [13004-harrier-attack.json](./13004-harrier-attack.json) |
 | Harrier Strike Mission | 44080 | [44080-harrier-strike-mission.json](./44080-harrier-strike-mission.json) |
 | Harriet: From Slave to Hero | 195440 | [195440-harriet-from-slave-to-hero.json](./195440-harriet-from-slave-to-hero.json) |
