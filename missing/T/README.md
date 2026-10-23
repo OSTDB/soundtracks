@@ -9495,6 +9495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Mullu | 353612 | [353612-the-last-mullu.json](./353612-the-last-mullu.json) |
 | The Last Night | 18285 | [18285-the-last-night.json](./18285-the-last-night.json) |
 | The Last Night | 302799 | [302799-the-last-night.json](./302799-the-last-night.json) |
+| The Last Night : The first invation | 98313 | [98313-the-last-night-the-first-invation.json](./98313-the-last-night-the-first-invation.json) |
 | The Last Ninja | 308996 | [308996-the-last-ninja.json](./308996-the-last-ninja.json) |
 | The Last Ninja | 8400 | [8400-the-last-ninja.json](./8400-the-last-ninja.json) |
 | The Last Ninja Collection + Bonus Games | 362742 | [362742-the-last-ninja-collection-bonus-games.json](./362742-the-last-ninja-collection-bonus-games.json) |
@@ -10640,6 +10641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maker Way | 392267 | [392267-the-maker-way.json](./392267-the-maker-way.json) |
 | The Making of a Prophet | 214524 | [214524-the-making-of-a-prophet.json](./214524-the-making-of-a-prophet.json) |
 | The Making of Karateka | 256293 | [256293-the-making-of-karateka.json](./256293-the-making-of-karateka.json) |
+| The Making of Nightruth | 98289 | [98289-the-making-of-nightruth.json](./98289-the-making-of-nightruth.json) |
 | The Makings of a Lady: Purity Yours to Defile | 147891 | [147891-the-makings-of-a-lady-purity-yours-to-defile.json](./147891-the-makings-of-a-lady-purity-yours-to-defile.json) |
 | The Mall Explodes! | 412999 | [412999-the-mall-explodes.json](./412999-the-mall-explodes.json) |
 | The Mammoth: A Cave Painting | 75768 | [75768-the-mammoth-a-cave-painting.json](./75768-the-mammoth-a-cave-painting.json) |
@@ -18358,6 +18360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timothy | 64992 | [64992-timothy.json](./64992-timothy.json) |
 | Timothy and the Mysterious Forest | 122144 | [122144-timothy-and-the-mysterious-forest.json](./122144-timothy-and-the-mysterious-forest.json) |
 | Timothy and the Tower of Mu | 169876 | [169876-timothy-and-the-tower-of-mu.json](./169876-timothy-and-the-tower-of-mu.json) |
+| Timothy and Titus | 98304 | [98304-timothy-and-titus.json](./98304-timothy-and-titus.json) |
 | Timothy Leary's Mind Mirror | 26454 | [26454-timothy-learys-mind-mirror.json](./26454-timothy-learys-mind-mirror.json) |
 | Timothy: Shinpi no Mori | 189132 | [189132-timothy-shinpi-no-mori.json](./189132-timothy-shinpi-no-mori.json) |
 | Timruk | 191816 | [191816-timruk.json](./191816-timruk.json) |
@@ -19365,6 +19368,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Factory Complete Box: Tokimeki Memorial Girl's Side | 221602 | [221602-tokimeki-factory-complete-box-tokimeki-memorial-girls-side.json](./221602-tokimeki-factory-complete-box-tokimeki-memorial-girls-side.json) |
 | Tokimeki Factory Vol.1 | 221600 | [221600-tokimeki-factory-vol-1.json](./221600-tokimeki-factory-vol-1.json) |
 | Tokimeki Factory Vol.2 | 221601 | [221601-tokimeki-factory-vol-2.json](./221601-tokimeki-factory-vol-2.json) |
+| Tokimeki Mahjong Graffiti: Toshishita no Tenshi Tachi | 98282 | [98282-tokimeki-mahjong-graffiti-toshishita-no-tenshi-tachi.json](./98282-tokimeki-mahjong-graffiti-toshishita-no-tenshi-tachi.json) |
+| Tokimeki Mahjong Paradise Special: Koi no Tenpai Beat | 98283 | [98283-tokimeki-mahjong-paradise-special-koi-no-tenpai-beat.json](./98283-tokimeki-mahjong-paradise-special-koi-no-tenpai-beat.json) |
+| Tokimeki Mahjong Paradise: Koi no Tenpai Beat | 98281 | [98281-tokimeki-mahjong-paradise-koi-no-tenpai-beat.json](./98281-tokimeki-mahjong-paradise-koi-no-tenpai-beat.json) |
 | Tokimeki Memorial | 72984 | [72984-tokimeki-memorial.json](./72984-tokimeki-memorial.json) |
 | Tokimeki Memorial 2 Substories: Dancing Summer Vacation | 108746 | [108746-tokimeki-memorial-2-substories-dancing-summer-vacation.json](./108746-tokimeki-memorial-2-substories-dancing-summer-vacation.json) |
 | Tokimeki Memorial 2 Substories: Leaping School Festival | 108742 | [108742-tokimeki-memorial-2-substories-leaping-school-festival.json](./108742-tokimeki-memorial-2-substories-leaping-school-festival.json) |
@@ -26408,6 +26414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type to Continue | 177971 | [177971-type-to-continue.json](./177971-type-to-continue.json) |
 | Type to Learn 3 | 186073 | [186073-type-to-learn-3.json](./186073-type-to-learn-3.json) |
 | Type To Report | 308045 | [308045-type-to-report.json](./308045-type-to-report.json) |
+| Type-Rope | 98219 | [98219-type-rope.json](./98219-type-rope.json) |
 | Type: Jump | 242076 | [242076-type-jump.json](./242076-type-jump.json) |
 | Type: Turbo | 391740 | [391740-type-turbo.json](./391740-type-turbo.json) |
 | Type: Unstable Vampire | 180822 | [180822-type-unstable-vampire.json](./180822-type-unstable-vampire.json) |
