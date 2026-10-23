@@ -3024,6 +3024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scudhead | 275206 | [275206-scudhead.json](./275206-scudhead.json) |
 | Scuffed Rocket League | 180496 | [180496-scuffed-rocket-league.json](./180496-scuffed-rocket-league.json) |
 | Scuffle Buddies | 59861 | [59861-scuffle-buddies.json](./59861-scuffle-buddies.json) |
+| Scuffle Scoundrels | 55734 | [55734-scuffle-scoundrels.json](./55734-scuffle-scoundrels.json) |
 | Scufflers | 189860 | [189860-scufflers.json](./189860-scufflers.json) |
 | Sculplings | 349407 | [349407-sculplings.json](./349407-sculplings.json) |
 | Sculpt | 263763 | [263763-sculpt.json](./263763-sculpt.json) |
@@ -20361,6 +20362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starwulf: Seeker of Secret Space | 254969 | [254969-starwulf-seeker-of-secret-space.json](./254969-starwulf-seeker-of-secret-space.json) |
 | Starxia | 297353 | [297353-starxia.json](./297353-starxia.json) |
 | Stary | 113644 | [113644-stary.json](./113644-stary.json) |
+| Starzine | 55763 | [55763-starzine.json](./55763-starzine.json) |
 | Starzzle | 382218 | [382218-starzzle.json](./382218-starzzle.json) |
 | Stash: A Card Looter | 367473 | [367473-stash-a-card-looter.json](./367473-stash-a-card-looter.json) |
 | Stasis | 223055 | [223055-stasis.json](./223055-stasis.json) |
