@@ -749,7 +749,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4282,6 +4281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Stickman: Beyond - Story Mode | 357029 | [357029-beat-stickman-beyond-story-mode.json](./357029-beat-stickman-beyond-story-mode.json) |
 | Beat Stickman: Infinity Clones | 112072 | [112072-beat-stickman-infinity-clones.json](./112072-beat-stickman-infinity-clones.json) |
 | Beat Stickman: Infinity Clones - Definitive Edition | 120107 | [120107-beat-stickman-infinity-clones-definitive-edition.json](./120107-beat-stickman-infinity-clones-definitive-edition.json) |
+| Beat Stomper | 57462 | [57462-beat-stomper.json](./57462-beat-stomper.json) |
 | Beat Survival | 264541 | [264541-beat-survival.json](./264541-beat-survival.json) |
 | Beat the Art Breaker | 96564 | [96564-beat-the-art-breaker.json](./96564-beat-the-art-breaker.json) |
 | Beat the Beat! | 262376 | [262376-beat-the-beat.json](./262376-beat-the-beat.json) |
@@ -12784,6 +12784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brume | 405487 | [405487-brume.json](./405487-brume.json) |
 | Brunch Club | 122867 | [122867-brunch-club.json](./122867-brunch-club.json) |
 | Brunch Rush | 211031 | [211031-brunch-rush.json](./211031-brunch-rush.json) |
+| Brunelleschi: Age of Architects | 57535 | [57535-brunelleschi-age-of-architects.json](./57535-brunelleschi-age-of-architects.json) |
 | Bruneva | 329052 | [329052-bruneva.json](./329052-bruneva.json) |
 | Brunhilda and the Dark Crystal | 52490 | [52490-brunhilda-and-the-dark-crystal.json](./52490-brunhilda-and-the-dark-crystal.json) |
 | Brunilda | 182334 | [182334-brunilda.json](./182334-brunilda.json) |
