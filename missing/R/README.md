@@ -6910,6 +6910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
 | Robo Dolphin Escape | 385419 | [385419-robo-dolphin-escape.json](./385419-robo-dolphin-escape.json) |
 | Robo Dome | 320243 | [320243-robo-dome.json](./320243-robo-dome.json) |
+| Robo Encryption | 87943 | [87943-robo-encryption.json](./87943-robo-encryption.json) |
 | Robo Gauntlet | 156720 | [156720-robo-gauntlet.json](./156720-robo-gauntlet.json) |
 | Robo Go | 165715 | [165715-robo-go.json](./165715-robo-go.json) |
 | Robo Hop | 399787 | [399787-robo-hop.json](./399787-robo-hop.json) |
@@ -6924,6 +6925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Pit | 20249 | [20249-robo-pit.json](./20249-robo-pit.json) |
 | Robo pocket: 3d fighter with rollback | 195925 | [195925-robo-pocket-3d-fighter-with-rollback.json](./195925-robo-pocket-3d-fighter-with-rollback.json) |
 | Robo Pose | 296354 | [296354-robo-pose.json](./296354-robo-pose.json) |
+| Robo Puzzle Smash | 88023 | [88023-robo-puzzle-smash.json](./88023-robo-puzzle-smash.json) |
 | Robo Quest | 171545 | [171545-robo-quest.json](./171545-robo-quest.json) |
 | Robo Rampage | 371014 | [371014-robo-rampage.json](./371014-robo-rampage.json) |
 | Robo Rangers | 388744 | [388744-robo-rangers.json](./388744-robo-rangers.json) |
@@ -9655,6 +9657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Gor I | 392183 | [392183-run-gor-i.json](./392183-run-gor-i.json) |
 | Run Gun Die Ultimate | 118083 | [118083-run-gun-die-ultimate.json](./118083-run-gun-die-ultimate.json) |
 | Run Gun Robots | 184935 | [184935-run-gun-robots.json](./184935-run-gun-robots.json) |
+| Run Gun Sports | 86649 | [86649-run-gun-sports.json](./86649-run-gun-sports.json) |
 | Run Higher | 309717 | [309717-run-higher.json](./309717-run-higher.json) |
 | Run Hunter Run | 96086 | [96086-run-hunter-run.json](./96086-run-hunter-run.json) |
 | Run It Back | 364672 | [364672-run-it-back.json](./364672-run-it-back.json) |
