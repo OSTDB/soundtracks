@@ -1289,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Goemon: Kira-kira Douchuu - Boku ga Dancer ni Natta Wake | 77854 | [77854-ganbare-goemon-kira-kira-douchuu-boku-ga-dancer-ni-natta-wake.json](./77854-ganbare-goemon-kira-kira-douchuu-boku-ga-dancer-ni-natta-wake.json) |
 | Ganbare Goemon: Kuru Nara Koi! - Ayashi Geikka no Kuroi Kage | 68750 | [68750-ganbare-goemon-kuru-nara-koi-ayashi-geikka-no-kuroi-kage.json](./68750-ganbare-goemon-kuru-nara-koi-ayashi-geikka-no-kuroi-kage.json) |
 | Ganbare Goemon: Mononoke Douchuu Tobidase Nabe-Bugyou! | 129173 | [129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json](./129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json) |
+| Ganbare Goemon: Sarawareta Ebisumaru! | 62493 | [62493-ganbare-goemon-sarawareta-ebisumaru.json](./62493-ganbare-goemon-sarawareta-ebisumaru.json) |
 | Ganbare Goemon: Seikuushi Dynamites Arawaru!! | 50053 | [50053-ganbare-goemon-seikuushi-dynamites-arawaru.json](./50053-ganbare-goemon-seikuushi-dynamites-arawaru.json) |
 | Ganbare Goemon: Tengu-tou no Gyakushuu! | 129172 | [129172-ganbare-goemon-tengu-tou-no-gyakushuu.json](./129172-ganbare-goemon-tengu-tou-no-gyakushuu.json) |
 | Ganbare Goemon: Toukai Douchuu Ooedo Tengurigaeshi no Maki | 73299 | [73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json](./73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json) |
@@ -6491,6 +6492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravBlocks | 34436 | [34436-gravblocks.json](./34436-gravblocks.json) |
 | GravBlocks+ | 147964 | [147964-gravblocks.json](./147964-gravblocks.json) |
 | GravBot | 393513 | [393513-gravbot.json](./393513-gravbot.json) |
+| Grave | 62500 | [62500-grave.json](./62500-grave.json) |
 | Grave | 7411 | [7411-grave.json](./7411-grave.json) |
 | Grave Danger | 26585 | [26585-grave-danger.json](./26585-grave-danger.json) |
 | Grave Danger: Ultimate Edition | 84531 | [84531-grave-danger-ultimate-edition.json](./84531-grave-danger-ultimate-edition.json) |
@@ -7830,6 +7832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grumblemoor | 347171 | [347171-grumblemoor.json](./347171-grumblemoor.json) |
 | Grump's Dream Course | 37890 | [37890-grumps-dream-course.json](./37890-grumps-dream-course.json) |
 | Grumpa | 379125 | [379125-grumpa.json](./379125-grumpa.json) |
+| Grumpy Cat: Unimpressed | 62498 | [62498-grumpy-cat-unimpressed.json](./62498-grumpy-cat-unimpressed.json) |
 | Grumpy Cat's Worst Game Ever | 98930 | [98930-grumpy-cats-worst-game-ever.json](./98930-grumpy-cats-worst-game-ever.json) |
 | Grumpy Gaffer | 357374 | [357374-grumpy-gaffer.json](./357374-grumpy-gaffer.json) |
 | Grumpy Gumphrey Supersleuth | 72262 | [72262-grumpy-gumphrey-supersleuth.json](./72262-grumpy-gumphrey-supersleuth.json) |
