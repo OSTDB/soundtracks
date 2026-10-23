@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Max | 3034 | [3034-mad-max.json](./3034-mad-max.json) |
 | Mad Max: Ripper Special Edition | 89930 | [89930-mad-max-ripper-special-edition.json](./89930-mad-max-ripper-special-edition.json) |
 | Mad Maze | 72969 | [72969-mad-maze.json](./72969-mad-maze.json) |
+| Mad Men Football | 85272 | [85272-mad-men-football.json](./85272-mad-men-football.json) |
 | Mad Merchant | 408875 | [408875-mad-merchant.json](./408875-mad-merchant.json) |
 | Mad Miner | 231846 | [231846-mad-miner.json](./231846-mad-miner.json) |
 | Mad Miner 2 | 318982 | [318982-mad-miner-2.json](./318982-mad-miner-2.json) |
@@ -1142,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Date: Doki-doki Kokuhaku Daisakusen | 360723 | [360723-magical-date-doki-doki-kokuhaku-daisakusen.json](./360723-magical-date-doki-doki-kokuhaku-daisakusen.json) |
 | Magical Days: The Brats' Parade | 358326 | [358326-magical-days-the-brats-parade.json](./358326-magical-days-the-brats-parade.json) |
 | Magical Delicacy | 238948 | [238948-magical-delicacy.json](./238948-magical-delicacy.json) |
+| Magical Diary: Secrets Sharing | 85271 | [85271-magical-diary-secrets-sharing.json](./85271-magical-diary-secrets-sharing.json) |
 | Magical Dice Kids | 130337 | [130337-magical-dice-kids.json](./130337-magical-dice-kids.json) |
 | Magical Dinosaur Tour | 42014 | [42014-magical-dinosaur-tour.json](./42014-magical-dinosaur-tour.json) |
 | Magical DoReMi: Puzzle Carnival | 325725 | [325725-magical-doremi-puzzle-carnival.json](./325725-magical-doremi-puzzle-carnival.json) |
@@ -1380,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic By Nature | 17322 | [17322-magnetic-by-nature.json](./17322-magnetic-by-nature.json) |
 | Magnetic Crane | 70952 | [70952-magnetic-crane.json](./70952-magnetic-crane.json) |
 | Magnetic Daydream | 120756 | [120756-magnetic-daydream.json](./120756-magnetic-daydream.json) |
+| Magnetic Joe | 85270 | [85270-magnetic-joe.json](./85270-magnetic-joe.json) |
 | Magnetic Merge: Number Master | 256150 | [256150-magnetic-merge-number-master.json](./256150-magnetic-merge-number-master.json) |
 | Magnetic Monopole Mayhem | 181137 | [181137-magnetic-monopole-mayhem.json](./181137-magnetic-monopole-mayhem.json) |
 | Magnetic Projectiles | 211668 | [211668-magnetic-projectiles.json](./211668-magnetic-projectiles.json) |
@@ -1455,6 +1458,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong 16 TW | 334339 | [334339-mahjong-16-tw.json](./334339-mahjong-16-tw.json) |
 | Mahjong 2 Classroom | 246266 | [246266-mahjong-2-classroom.json](./246266-mahjong-2-classroom.json) |
 | Mahjong 300 | 401018 | [401018-mahjong-300.json](./401018-mahjong-300.json) |
+| Mahjong 3D: Essentials | 85269 | [85269-mahjong-3d-essentials.json](./85269-mahjong-3d-essentials.json) |
+| Mahjong 3D: Warriors of the Emperor | 85268 | [85268-mahjong-3d-warriors-of-the-emperor.json](./85268-mahjong-3d-warriors-of-the-emperor.json) |
 | Mahjong Adventure | 147322 | [147322-mahjong-adventure.json](./147322-mahjong-adventure.json) |
 | Mahjong Aztecs Mysteries | 234187 | [234187-mahjong-aztecs-mysteries.json](./234187-mahjong-aztecs-mysteries.json) |
 | Mahjong Bengal Tiger Adventure: Summer Majong Quest Deluxe | 235282 | [235282-mahjong-bengal-tiger-adventure-summer-majong-quest-deluxe.json](./235282-mahjong-bengal-tiger-adventure-summer-majong-quest-deluxe.json) |
@@ -1532,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Minimal | 213249 | [213249-mahjong-minimal.json](./213249-mahjong-minimal.json) |
 | Mahjong Mojo 3D | 87070 | [87070-mahjong-mojo-3d.json](./87070-mahjong-mojo-3d.json) |
 | Mahjong Musou: Former Army | 302817 | [302817-mahjong-musou-former-army.json](./302817-mahjong-musou-former-army.json) |
+| Mahjong Mysteries: Ancient Athena | 85267 | [85267-mahjong-mysteries-ancient-athena.json](./85267-mahjong-mysteries-ancient-athena.json) |
 | Mahjong Nagomi | 152004 | [152004-mahjong-nagomi.json](./152004-mahjong-nagomi.json) |
 | Mahjong on the Beach | 305195 | [305195-mahjong-on-the-beach.json](./305195-mahjong-on-the-beach.json) |
 | Mahjong Ou Densetsu | 91932 | [91932-mahjong-ou-densetsu.json](./91932-mahjong-ou-densetsu.json) |
@@ -1546,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Quest Collection | 27850 | [27850-mahjong-quest-collection.json](./27850-mahjong-quest-collection.json) |
 | Mahjong Quest II | 286436 | [286436-mahjong-quest-ii.json](./286436-mahjong-quest-ii.json) |
 | Mahjong Quest III: Balance of Life | 286437 | [286437-mahjong-quest-iii-balance-of-life.json](./286437-mahjong-quest-iii-balance-of-life.json) |
+| Mahjong Quest: Expeditions | 85274 | [85274-mahjong-quest-expeditions.json](./85274-mahjong-quest-expeditions.json) |
 | Mahjong Realms | 336012 | [336012-mahjong-realms.json](./336012-mahjong-realms.json) |
 | Mahjong Riddles: Egypt | 318870 | [318870-mahjong-riddles-egypt.json](./318870-mahjong-riddles-egypt.json) |
 | Mahjong Riichi Multiplayer | 373845 | [373845-mahjong-riichi-multiplayer.json](./373845-mahjong-riichi-multiplayer.json) |
@@ -2880,6 +2887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Sonic at The Olympic Winter Games Pyeongchang 2018 | 313303 | [313303-mario-and-sonic-at-the-olympic-winter-games-pyeongchang-2018.json](./313303-mario-and-sonic-at-the-olympic-winter-games-pyeongchang-2018.json) |
 | Mario & Sonic at the Rio 2016 Olympic Games | 11258 | [11258-mario-and-sonic-at-the-rio-2016-olympic-games.json](./11258-mario-and-sonic-at-the-rio-2016-olympic-games.json) |
 | Mario & Sonic at the Rio 2016 Olympic Games | 132111 | [132111-mario-and-sonic-at-the-rio-2016-olympic-games.json](./132111-mario-and-sonic-at-the-rio-2016-olympic-games.json) |
+| Mario & Sonic at the Rio 2016 Olympic Games: Arcade Edition | 85273 | [85273-mario-and-sonic-at-the-rio-2016-olympic-games-arcade-edition.json](./85273-mario-and-sonic-at-the-rio-2016-olympic-games-arcade-edition.json) |
 | Mario & Sonic at the Sochi 2014 Olympic Winter Games | 3990 | [3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json](./3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json) |
 | Mario & Sonic: The Ultimate Team | 323037 | [323037-mario-and-sonic-the-ultimate-team.json](./323037-mario-and-sonic-the-ultimate-team.json) |
 | Mario + Rabbids Kingdom Battle: Donkey Kong Adventure | 103317 | [103317-mario-rabbids-kingdom-battle-donkey-kong-adventure.json](./103317-mario-rabbids-kingdom-battle-donkey-kong-adventure.json) |
@@ -4041,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Gomoku | 102264 | [102264-master-of-gomoku.json](./102264-master-of-gomoku.json) |
 | Master of Illusion | 20770 | [20770-master-of-illusion.json](./20770-master-of-illusion.json) |
 | Master of Illusion Express: Matchmaker | 84484 | [84484-master-of-illusion-express-matchmaker.json](./84484-master-of-illusion-express-matchmaker.json) |
+| Master of Illusion Express: Mind Probe | 85276 | [85276-master-of-illusion-express-mind-probe.json](./85276-master-of-illusion-express-mind-probe.json) |
 | Master of Illusion Express: Psychic Camera | 84483 | [84483-master-of-illusion-express-psychic-camera.json](./84483-master-of-illusion-express-psychic-camera.json) |
 | Master of Illusion Express: Shuffle Games | 72941 | [72941-master-of-illusion-express-shuffle-games.json](./72941-master-of-illusion-express-shuffle-games.json) |
 | Master of Ives | 284879 | [284879-master-of-ives.json](./284879-master-of-ives.json) |
@@ -4219,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masuku | 406740 | [406740-masuku.json](./406740-masuku.json) |
 | Masuzoe Youichi: Asa made Famicom | 48784 | [48784-masuzoe-youichi-asa-made-famicom.json](./48784-masuzoe-youichi-asa-made-famicom.json) |
 | Masyanya Under The Yellow Press | 335429 | [335429-masyanya-under-the-yellow-press.json](./335429-masyanya-under-the-yellow-press.json) |
+| Masyu by Nikoli | 85275 | [85275-masyu-by-nikoli.json](./85275-masyu-by-nikoli.json) |
 | Mat Hoffman's Pro BMX | 249166 | [249166-mat-hoffmans-pro-bmx.json](./249166-mat-hoffmans-pro-bmx.json) |
 | Mat Hoffman's Pro BMX | 249167 | [249167-mat-hoffmans-pro-bmx.json](./249167-mat-hoffmans-pro-bmx.json) |
 | Mat Hoffman's Pro BMX | 3994 | [3994-mat-hoffmans-pro-bmx.json](./3994-mat-hoffmans-pro-bmx.json) |
