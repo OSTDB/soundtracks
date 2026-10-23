@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju-A-GoGo: Grey Goop | 159650 | [159650-kaiju-a-gogo-grey-goop.json](./159650-kaiju-a-gogo-grey-goop.json) |
 | Kaijuland | 63788 | [63788-kaijuland.json](./63788-kaijuland.json) |
 | Kaijuland Battles | 64141 | [64141-kaijuland-battles.json](./64141-kaijuland-battles.json) |
+| Kaijuu Busters Powered | 59158 | [59158-kaijuu-busters-powered.json](./59158-kaijuu-busters-powered.json) |
 | Kaijuu Kitan Oboro: Jyuuya Kuuko Mangekyou | 114546 | [114546-kaijuu-kitan-oboro-jyuuya-kuuko-mangekyou.json](./114546-kaijuu-kitan-oboro-jyuuya-kuuko-mangekyou.json) |
 | Kaijuu Senki | 166658 | [166658-kaijuu-senki.json](./166658-kaijuu-senki.json) |
 | Kaikan | 264553 | [264553-kaikan.json](./264553-kaikan.json) |
@@ -3289,6 +3290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Hates Water | 105900 | [105900-kitty-hates-water.json](./105900-kitty-hates-water.json) |
 | Kitty Haven | 385350 | [385350-kitty-haven.json](./385350-kitty-haven.json) |
 | Kitty Hawk | 81208 | [81208-kitty-hawk.json](./81208-kitty-hawk.json) |
+| Kitty in the Box | 58547 | [58547-kitty-in-the-box.json](./58547-kitty-in-the-box.json) |
 | Kitty in the Box 2 | 231929 | [231929-kitty-in-the-box-2.json](./231929-kitty-in-the-box-2.json) |
 | Kitty in the Crowd | 243970 | [243970-kitty-in-the-crowd.json](./243970-kitty-in-the-crowd.json) |
 | Kitty Keep | 304958 | [304958-kitty-keep.json](./304958-kitty-keep.json) |
@@ -4442,6 +4444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koushien 3 | 37952 | [37952-koushien-3.json](./37952-koushien-3.json) |
 | Koushien V | 58512 | [58512-koushien-v.json](./58512-koushien-v.json) |
 | Koushien: Konpeki no Sora | 58509 | [58509-koushien-konpeki-no-sora.json](./58509-koushien-konpeki-no-sora.json) |
+| Koushinchou Shoujo: XL na Kanojo ha H na Nayami de Ippai! | 59152 | [59152-koushinchou-shoujo-xl-na-kanojo-ha-h-na-nayami-de-ippai.json](./59152-koushinchou-shoujo-xl-na-kanojo-ha-h-na-nayami-de-ippai.json) |
 | Koushounin DS | 67351 | [67351-koushounin-ds.json](./67351-koushounin-ds.json) |
 | Kousoku Kaitenzushi | 138702 | [138702-kousoku-kaitenzushi.json](./138702-kousoku-kaitenzushi.json) |
 | Kousoku Shikou Shogi-ou | 37950 | [37950-kousoku-shikou-shogi-ou.json](./37950-kousoku-shikou-shogi-ou.json) |
