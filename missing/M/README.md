@@ -5220,6 +5220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mean City | 47154 | [47154-mean-city.json](./47154-mean-city.json) |
 | Mean Girls | 150035 | [150035-mean-girls.json](./150035-mean-girls.json) |
 | Mean Machines | 246257 | [246257-mean-machines.json](./246257-mean-machines.json) |
+| Mean Machines | 51691 | [51691-mean-machines.json](./51691-mean-machines.json) |
 | Mean Routine | 111540 | [111540-mean-routine.json](./111540-mean-routine.json) |
 | Mean-While | 149329 | [149329-mean-while.json](./149329-mean-while.json) |
 | Meander | 108986 | [108986-meander.json](./108986-meander.json) |
@@ -9593,6 +9594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Rite | 157073 | [157073-mind-rite.json](./157073-mind-rite.json) |
 | Mind Scanners | 139566 | [139566-mind-scanners.json](./139566-mind-scanners.json) |
 | Mind Shadows | 151180 | [151180-mind-shadows.json](./151180-mind-shadows.json) |
+| Mind Shift | 51740 | [51740-mind-shift.json](./51740-mind-shift.json) |
 | Mind Space | 171469 | [171469-mind-space.json](./171469-mind-space.json) |
 | Mind Spheres | 32797 | [32797-mind-spheres.json](./32797-mind-spheres.json) |
 | Mind Storm | 308338 | [308338-mind-storm.json](./308338-mind-storm.json) |
@@ -10670,6 +10672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirax | 39592 | [39592-mirax.json](./39592-mirax.json) |
 | Mirax Force | 55208 | [55208-mirax-force.json](./55208-mirax-force.json) |
 | Mircea | 320739 | [320739-mircea.json](./320739-mircea.json) |
+| Mircron Wars XR | 51726 | [51726-mircron-wars-xr.json](./51726-mircron-wars-xr.json) |
 | Mire | 199393 | [199393-mire.json](./199393-mire.json) |
 | Mire | 339823 | [339823-mire.json](./339823-mire.json) |
 | Mirealle | 352390 | [352390-mirealle.json](./352390-mirealle.json) |
