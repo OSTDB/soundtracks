@@ -973,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sammy Suricate | 61427 | [61427-sammy-suricate.json](./61427-sammy-suricate.json) |
 | Sammy The Sharky | 411081 | [411081-sammy-the-sharky.json](./411081-sammy-the-sharky.json) |
 | Sammy the Sperm | 326146 | [326146-sammy-the-sperm.json](./326146-sammy-the-sperm.json) |
+| Sammy's Science House | 67105 | [67105-sammys-science-house.json](./67105-sammys-science-house.json) |
 | Samochodowy Wojownik | 150529 | [150529-samochodowy-wojownik.json](./150529-samochodowy-wojownik.json) |
 | Samoliotik | 33317 | [33317-samoliotik.json](./33317-samoliotik.json) |
 | SamoQ - Quiz Hyoryu Kyoushitsu | 98063 | [98063-samoq-quiz-hyoryu-kyoushitsu.json](./98063-samoq-quiz-hyoryu-kyoushitsu.json) |
@@ -22430,6 +22431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force Heroes | 277203 | [277203-strike-force-heroes.json](./277203-strike-force-heroes.json) |
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
 | Strike Force Kitty | 126486 | [126486-strike-force-kitty.json](./126486-strike-force-kitty.json) |
+| Strike Force Red Cell | 67093 | [67093-strike-force-red-cell.json](./67093-strike-force-red-cell.json) |
 | Strike Force: Dragon VIP | 97208 | [97208-strike-force-dragon-vip.json](./97208-strike-force-dragon-vip.json) |
 | Strike It! | 40910 | [40910-strike-it.json](./40910-strike-it.json) |
 | Strike Master Bowling | 295666 | [295666-strike-master-bowling.json](./295666-strike-master-bowling.json) |
@@ -26201,6 +26203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stardust Ultra VR | 24982 | [24982-super-stardust-ultra-vr.json](./24982-super-stardust-ultra-vr.json) |
 | Super Starfish | 105423 | [105423-super-starfish.json](./105423-super-starfish.json) |
 | Super Stay Out of the House | 251478 | [251478-super-stay-out-of-the-house.json](./251478-super-stay-out-of-the-house.json) |
+| Super Stealball | 67083 | [67083-super-stealball.json](./67083-super-stealball.json) |
 | Super SteamPuff | 22382 | [22382-super-steampuff.json](./22382-super-steampuff.json) |
 | Super Steampunk Pinball 2D | 81933 | [81933-super-steampunk-pinball-2d.json](./81933-super-steampunk-pinball-2d.json) |
 | Super Stereotypical: The Rise of Indiemania | 200879 | [200879-super-stereotypical-the-rise-of-indiemania.json](./200879-super-stereotypical-the-rise-of-indiemania.json) |
@@ -26827,6 +26830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf 'n Safari | 93574 | [93574-surf-n-safari.json](./93574-surf-n-safari.json) |
 | Surf & Turf Bundle | 308581 | [308581-surf-and-turf-bundle.json](./308581-surf-and-turf-bundle.json) |
 | Surf Adventure | 246496 | [246496-surf-adventure.json](./246496-surf-adventure.json) |
+| Surf City | 67098 | [67098-surf-city.json](./67098-surf-city.json) |
 | Surf Club | 141656 | [141656-surf-club.json](./141656-surf-club.json) |
 | Surf Dance | 333243 | [333243-surf-dance.json](./333243-surf-dance.json) |
 | Surf Game | 296007 | [296007-surf-game.json](./296007-surf-game.json) |
