@@ -2455,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Cow: Anniversary Edition | 90837 | [90837-cash-cow-anniversary-edition.json](./90837-cash-cow-anniversary-edition.json) |
 | Cash Crisis: Programmers Search for Money | 108813 | [108813-cash-crisis-programmers-search-for-money.json](./108813-cash-crisis-programmers-search-for-money.json) |
 | Cash Dash | 384544 | [384544-cash-dash.json](./384544-cash-dash.json) |
+| Cash Dash Smash | 96589 | [96589-cash-dash-smash.json](./96589-cash-dash-smash.json) |
 | Cash Guardian: Collector Operation "Capital Defense" | 328096 | [328096-cash-guardian-collector-operation-capital-defense.json](./328096-cash-guardian-collector-operation-capital-defense.json) |
 | Cash Guns Chaos DLX | 85865 | [85865-cash-guns-chaos-dlx.json](./85865-cash-guns-chaos-dlx.json) |
 | Cash Horse - Match 3 Puzzle Adventure | 141793 | [141793-cash-horse-match-3-puzzle-adventure.json](./141793-cash-horse-match-3-puzzle-adventure.json) |
@@ -7389,6 +7390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil Engineering Simulator | 62428 | [62428-civil-engineering-simulator.json](./62428-civil-engineering-simulator.json) |
 | Civil Purgatory | 364840 | [364840-civil-purgatory.json](./364840-civil-purgatory.json) |
 | Civil War | 95459 | [95459-civil-war.json](./95459-civil-war.json) |
+| Civil War Battles: Shiloh | 96560 | [96560-civil-war-battles-shiloh.json](./96560-civil-war-battles-shiloh.json) |
 | Civil War II | 17527 | [17527-civil-war-ii.json](./17527-civil-war-ii.json) |
 | Civil War II: The Bloody Road South | 172111 | [172111-civil-war-ii-the-bloody-road-south.json](./172111-civil-war-ii-the-bloody-road-south.json) |
 | Civil War Strategy | 271790 | [271790-civil-war-strategy.json](./271790-civil-war-strategy.json) |
@@ -9317,6 +9319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color of My Sound: Volume 1 | 309534 | [309534-color-of-my-sound-volume-1.json](./309534-color-of-my-sound-volume-1.json) |
 | Color Oil | 74710 | [74710-color-oil.json](./74710-color-oil.json) |
 | Color Party | 105186 | [105186-color-party.json](./105186-color-party.json) |
+| Color Path | 96466 | [96466-color-path.json](./96466-color-path.json) |
 | Color Patterns | 369688 | [369688-color-patterns.json](./369688-color-patterns.json) |
 | Color Phase | 157922 | [157922-color-phase.json](./157922-color-phase.json) |
 | Color Picker | 60903 | [60903-color-picker.json](./60903-color-picker.json) |
@@ -11126,6 +11129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Fist | 417414 | [417414-cooking-fist.json](./417414-cooking-fist.json) |
 | Cooking for CrabTopia! | 300501 | [300501-cooking-for-crabtopia.json](./300501-cooking-for-crabtopia.json) |
 | Cooking For Ma! | 404941 | [404941-cooking-for-ma.json](./404941-cooking-for-ma.json) |
+| Cooking Game - Valentines Day Menu | 96577 | [96577-cooking-game-valentines-day-menu.json](./96577-cooking-game-valentines-day-menu.json) |
 | Cooking Joy - Fun Cooking Game | 103872 | [103872-cooking-joy-fun-cooking-game.json](./103872-cooking-joy-fun-cooking-game.json) |
 | Cooking Live | 226690 | [226690-cooking-live.json](./226690-cooking-live.json) |
 | Cooking Mama 4: Kitchen Magic | 11359 | [11359-cooking-mama-4-kitchen-magic.json](./11359-cooking-mama-4-kitchen-magic.json) |
@@ -15520,6 +15524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curve Digital Triple Features - Adventure Pack | 99805 | [99805-curve-digital-triple-features-adventure-pack.json](./99805-curve-digital-triple-features-adventure-pack.json) |
 | Curve Fever | 63259 | [63259-curve-fever.json](./63259-curve-fever.json) |
 | Curve Racer | 147616 | [147616-curve-racer.json](./147616-curve-racer.json) |
+| Curveball | 96590 | [96590-curveball.json](./96590-curveball.json) |
 | Curved Space | 137680 | [137680-curved-space.json](./137680-curved-space.json) |
 | CurveFever | 112097 | [112097-curvefever.json](./112097-curvefever.json) |
 | Curvelicious | 321223 | [321223-curvelicious.json](./321223-curvelicious.json) |
