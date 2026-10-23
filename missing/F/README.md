@@ -8034,6 +8034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Solis: Terra Edition | 262225 | [262225-fort-solis-terra-edition.json](./262225-fort-solis-terra-edition.json) |
 | Fort Valen | 238501 | [238501-fort-valen.json](./238501-fort-valen.json) |
 | Fort Zombie | 27498 | [27498-fort-zombie.json](./27498-fort-zombie.json) |
+| Fort:Night Last Battleground Royale Survival | 95886 | [95886-fort-night-last-battleground-royale-survival.json](./95886-fort-night-last-battleground-royale-survival.json) |
 | Forte Craft Explore Island | 101383 | [101383-forte-craft-explore-island.json](./101383-forte-craft-explore-island.json) |
 | Forte Craft: Pixel Builder | 100805 | [100805-forte-craft-pixel-builder.json](./100805-forte-craft-pixel-builder.json) |
 | Forthold | 390215 | [390215-forthold.json](./390215-forthold.json) |
