@@ -5364,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: Seeds of Destruction | 69284 | [69284-everquest-seeds-of-destruction.json](./69284-everquest-seeds-of-destruction.json) |
 | EverQuest: The Broken Mirror | 13184 | [13184-everquest-the-broken-mirror.json](./13184-everquest-the-broken-mirror.json) |
 | EverQuest: The Darkened Sea | 61170 | [61170-everquest-the-darkened-sea.json](./61170-everquest-the-darkened-sea.json) |
+| EverQuest: The Legacy of Ykesha | 79688 | [79688-everquest-the-legacy-of-ykesha.json](./79688-everquest-the-legacy-of-ykesha.json) |
 | EverQuest: The Planes of Power | 79300 | [79300-everquest-the-planes-of-power.json](./79300-everquest-the-planes-of-power.json) |
 | EverQuest: The Ruins of Kunark | 686 | [686-everquest-the-ruins-of-kunark.json](./686-everquest-the-ruins-of-kunark.json) |
 | EverQuest: The Serpent's Spine | 72908 | [72908-everquest-the-serpents-spine.json](./72908-everquest-the-serpents-spine.json) |
