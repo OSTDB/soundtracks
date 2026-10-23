@@ -5030,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Goal '98 | 278872 | [278872-golden-goal-98.json](./278872-golden-goal-98.json) |
 | Golden Goal: Soccer Squad | 297251 | [297251-golden-goal-soccer-squad.json](./297251-golden-goal-soccer-squad.json) |
 | Golden Goblet | 185505 | [185505-golden-goblet.json](./185505-golden-goblet.json) |
+| Golden Hornet | 83348 | [83348-golden-hornet.json](./83348-golden-hornet.json) |
 | Golden Hour | 401159 | [401159-golden-hour.json](./401159-golden-hour.json) |
 | Golden Idol Investigations: The Lemurian Phoenix | 342844 | [342844-golden-idol-investigations-the-lemurian-phoenix.json](./342844-golden-idol-investigations-the-lemurian-phoenix.json) |
 | Golden Idol Investigations: The Sins of New Wells | 333390 | [333390-golden-idol-investigations-the-sins-of-new-wells.json](./333390-golden-idol-investigations-the-sins-of-new-wells.json) |
@@ -6173,6 +6174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix Rally II | 46750 | [46750-grand-prix-rally-ii.json](./46750-grand-prix-rally-ii.json) |
 | Grand Prix Rock 'N Racing | 19892 | [19892-grand-prix-rock-n-racing.json](./19892-grand-prix-rock-n-racing.json) |
 | Grand Prix Simulator | 13861 | [13861-grand-prix-simulator.json](./13861-grand-prix-simulator.json) |
+| Grand Prix Tennis | 83378 | [83378-grand-prix-tennis.json](./83378-grand-prix-tennis.json) |
 | Grand Pskov Story | 74930 | [74930-grand-pskov-story.json](./74930-grand-pskov-story.json) |
 | Grand Rush VR: Highway Car Traffic Racing Simulator | 318268 | [318268-grand-rush-vr-highway-car-traffic-racing-simulator.json](./318268-grand-rush-vr-highway-car-traffic-racing-simulator.json) |
 | Grand Rush: Highway Car Traffic Racing Simulator | 312843 | [312843-grand-rush-highway-car-traffic-racing-simulator.json](./312843-grand-rush-highway-car-traffic-racing-simulator.json) |
