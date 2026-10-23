@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Chomp! | 62605 | [62605-pac-chomp.json](./62605-pac-chomp.json) |
 | Pac-Gal | 25141 | [25141-pac-gal.json](./25141-pac-gal.json) |
 | Pac-Guy | 64678 | [64678-pac-guy.json](./64678-pac-guy.json) |
+| Pac-Guy: Atomic Edition | 63078 | [63078-pac-guy-atomic-edition.json](./63078-pac-guy-atomic-edition.json) |
 | Pac-Guy: Resurrection | 63107 | [63107-pac-guy-resurrection.json](./63107-pac-guy-resurrection.json) |
 | Pac-in-Time | 282488 | [282488-pac-in-time.json](./282488-pac-in-time.json) |
 | Pac-In-Time | 242404 | [242404-pac-in-time.json](./242404-pac-in-time.json) |
@@ -2880,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pe-2: Dive Bomber | 17672 | [17672-pe-2-dive-bomber.json](./17672-pe-2-dive-bomber.json) |
 | Pea Pod Power | 264668 | [264668-pea-pod-power.json](./264668-pea-pod-power.json) |
 | Pea Shootin' Pete | 70481 | [70481-pea-shootin-pete.json](./70481-pea-shootin-pete.json) |
+| Pea-Guy: Vengeance... or bust | 63081 | [63081-pea-guy-vengeance-or-bust.json](./63081-pea-guy-vengeance-or-bust.json) |
 | Peace Breaker | 270144 | [270144-peace-breaker.json](./270144-peace-breaker.json) |
 | Peace Duke | 93774 | [93774-peace-duke.json](./93774-peace-duke.json) |
 | Peace for Ukraine | 211684 | [211684-peace-for-ukraine.json](./211684-peace-for-ukraine.json) |
@@ -8224,6 +8226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Mirror: GoldenerTraum | 211637 | [211637-pocket-mirror-goldenertraum.json](./211637-pocket-mirror-goldenertraum.json) |
 | Pocket Mobsters | 63146 | [63146-pocket-mobsters.json](./63146-pocket-mobsters.json) |
 | Pocket Monster | 196530 | [196530-pocket-monster.json](./196530-pocket-monster.json) |
+| Pocket Monsters Advanced Generation: Minna de Pico Pokémon Waiwai Battle! | 63048 | [63048-pocket-monsters-advanced-generation-minna-de-pico-pokemon-waiwai-battle.json](./63048-pocket-monsters-advanced-generation-minna-de-pico-pokemon-waiwai-battle.json) |
 | Pocket Monsters Diamond & Pearl: Pokémon wo Sagase! Meiro de Daibouken! | 125325 | [125325-pocket-monsters-diamond-and-pearl-pokemon-wo-sagase-meiro-de-daibouken.json](./125325-pocket-monsters-diamond-and-pearl-pokemon-wo-sagase-meiro-de-daibouken.json) |
 | Pocket Monsters RPG | 130335 | [130335-pocket-monsters-rpg.json](./130335-pocket-monsters-rpg.json) |
 | Pocket Monsters: Suuji wo Tsukamaeyou! | 63849 | [63849-pocket-monsters-suuji-wo-tsukamaeyou.json](./63849-pocket-monsters-suuji-wo-tsukamaeyou.json) |
