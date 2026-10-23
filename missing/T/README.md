@@ -1461,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanglewood | 104602 | [104602-tanglewood.json](./104602-tanglewood.json) |
 | Tango | 321121 | [321121-tango.json](./321121-tango.json) |
 | Tango 5 Reloaded: Grid Action Heroes | 105223 | [105223-tango-5-reloaded-grid-action-heroes.json](./105223-tango-5-reloaded-grid-action-heroes.json) |
+| Tango 5: The Last Dance | 80338 | [80338-tango-5-the-last-dance.json](./80338-tango-5-the-last-dance.json) |
 | Tango Fiesta | 9459 | [9459-tango-fiesta.json](./9459-tango-fiesta.json) |
 | Tango Race: Nou Training Kotoba Game | 208851 | [208851-tango-race-nou-training-kotoba-game.json](./208851-tango-race-nou-training-kotoba-game.json) |
 | Tango Survival: Omoshiroi Kotoba Game | 208852 | [208852-tango-survival-omoshiroi-kotoba-game.json](./208852-tango-survival-omoshiroi-kotoba-game.json) |
@@ -1985,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TaptapTaptapTaptapTap | 66764 | [66764-taptaptaptaptaptaptap.json](./66764-taptaptaptaptaptaptap.json) |
 | Taptiles | 79856 | [79856-taptiles.json](./79856-taptiles.json) |
 | Taptron 1999 | 372992 | [372992-taptron-1999.json](./372992-taptron-1999.json) |
+| Tapventures | 80359 | [80359-tapventures.json](./80359-tapventures.json) |
 | Tapybara | 311250 | [311250-tapybara.json](./311250-tapybara.json) |
 | Taqoban | 190987 | [190987-taqoban.json](./190987-taqoban.json) |
 | Taquero Simulator | 301806 | [301806-taquero-simulator.json](./301806-taquero-simulator.json) |
@@ -3285,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Smash: Racketville | 382230 | [382230-tennis-smash-racketville.json](./382230-tennis-smash-racketville.json) |
 | Tennis Stars: Ultimate Clash | 235130 | [235130-tennis-stars-ultimate-clash.json](./235130-tennis-stars-ultimate-clash.json) |
 | Tennis Story | 109368 | [109368-tennis-story.json](./109368-tennis-story.json) |
+| Tennis Titans | 80353 | [80353-tennis-titans.json](./80353-tennis-titans.json) |
 | Tennis Tournament Hyper-Casual | 277729 | [277729-tennis-tournament-hyper-casual.json](./277729-tennis-tournament-hyper-casual.json) |
 | Tennis Tourney | 172783 | [172783-tennis-tourney.json](./172783-tennis-tourney.json) |
 | Tennis Tower | 179981 | [179981-tennis-tower.json](./179981-tennis-tower.json) |
@@ -3535,6 +3538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Firma 2 | 366335 | [366335-terra-firma-2.json](./366335-terra-firma-2.json) |
 | Terra Flame | 197265 | [197265-terra-flame.json](./197265-terra-flame.json) |
 | Terra Foliata | 296631 | [296631-terra-foliata.json](./296631-terra-foliata.json) |
+| Terra Formars: Akaki Hoshi no Gekito | 80339 | [80339-terra-formars-akaki-hoshi-no-gekito.json](./80339-terra-formars-akaki-hoshi-no-gekito.json) |
 | Terra Incognita | 129119 | [129119-terra-incognita.json](./129119-terra-incognita.json) |
 | Terra Incognito - Antarctica 1911 | 112666 | [112666-terra-incognito-antarctica-1911.json](./112666-terra-incognito-antarctica-1911.json) |
 | Terra Lander II: Rockslide Rescue | 130136 | [130136-terra-lander-ii-rockslide-rescue.json](./130136-terra-lander-ii-rockslide-rescue.json) |
@@ -15071,6 +15075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher: Crimson Trail | 187249 | [187249-the-witcher-crimson-trail.json](./187249-the-witcher-crimson-trail.json) |
 | The Witcher: Monster Slayer | 137125 | [137125-the-witcher-monster-slayer.json](./137125-the-witcher-monster-slayer.json) |
 | The Witcher: Project Sirius | 220276 | [220276-the-witcher-project-sirius.json](./220276-the-witcher-project-sirius.json) |
+| The Witcher: Rise of the White Wolf | 80342 | [80342-the-witcher-rise-of-the-white-wolf.json](./80342-the-witcher-rise-of-the-white-wolf.json) |
 | The Witcher: Side Effects | 224493 | [224493-the-witcher-side-effects.json](./224493-the-witcher-side-effects.json) |
 | The Witcher: The Price of Neutrality | 224492 | [224492-the-witcher-the-price-of-neutrality.json](./224492-the-witcher-the-price-of-neutrality.json) |
 | The Witcher: Versus | 198179 | [198179-the-witcher-versus.json](./198179-the-witcher-versus.json) |
@@ -24732,6 +24737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: TV Trivia | 100150 | [100150-trivia-vault-tv-trivia.json](./100150-trivia-vault-tv-trivia.json) |
 | Trivia Vault: Video Game Trivia Deluxe | 74339 | [74339-trivia-vault-video-game-trivia-deluxe.json](./74339-trivia-vault-video-game-trivia-deluxe.json) |
 | Trivia War | 338607 | [338607-trivia-war.json](./338607-trivia-war.json) |
+| Trivia Whiz | 80313 | [80313-trivia-whiz.json](./80313-trivia-whiz.json) |
 | Trivial Pursuit | 12970 | [12970-trivial-pursuit.json](./12970-trivial-pursuit.json) |
 | Trivial Pursuit | 78560 | [78560-trivial-pursuit.json](./78560-trivial-pursuit.json) |
 | Trivial Pursuit 2: A New Beginning | 69824 | [69824-trivial-pursuit-2-a-new-beginning.json](./69824-trivial-pursuit-2-a-new-beginning.json) |
@@ -25993,6 +25999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Sports Basketball | 8672 | [8672-tv-sports-basketball.json](./8672-tv-sports-basketball.json) |
 | TV Sports Football | 8671 | [8671-tv-sports-football.json](./8671-tv-sports-football.json) |
 | TV Sports Hockey | 8675 | [8675-tv-sports-hockey.json](./8675-tv-sports-hockey.json) |
+| TV Station Manager | 80320 | [80320-tv-station-manager.json](./80320-tv-station-manager.json) |
 | TV Studio Story | 282014 | [282014-tv-studio-story.json](./282014-tv-studio-story.json) |
 | TV Thief | 190748 | [190748-tv-thief.json](./190748-tv-thief.json) |
 | TV Tycoon | 206630 | [206630-tv-tycoon.json](./206630-tv-tycoon.json) |
@@ -26232,6 +26239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twintris | 396767 | [396767-twintris.json](./396767-twintris.json) |
 | Twinworld Survivor | 304386 | [304386-twinworld-survivor.json](./304386-twinworld-survivor.json) |
 | TwinWorld: Land of Vision | 72099 | [72099-twinworld-land-of-vision.json](./72099-twinworld-land-of-vision.json) |
+| Twinxoid | 80354 | [80354-twinxoid.json](./80354-twinxoid.json) |
 | Twirl | 333984 | [333984-twirl.json](./333984-twirl.json) |
 | Twirl and Hurl | 397109 | [397109-twirl-and-hurl.json](./397109-twirl-and-hurl.json) |
 | Twirly Treats | 405721 | [405721-twirly-treats.json](./405721-twirly-treats.json) |
