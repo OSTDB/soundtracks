@@ -2633,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Scuffed Bhop Simulation 2026: Goty Edition | 192170 | [192170-new-scuffed-bhop-simulation-2026-goty-edition.json](./192170-new-scuffed-bhop-simulation-2026-goty-edition.json) |
 | New Sinbad 7 | 40380 | [40380-new-sinbad-7.json](./40380-new-sinbad-7.json) |
 | New Slippery Samurai | 169715 | [169715-new-slippery-samurai.json](./169715-new-slippery-samurai.json) |
+| New Solitaire | 88871 | [88871-new-solitaire.json](./88871-new-solitaire.json) |
 | New Solitaire Card Game | 96973 | [96973-new-solitaire-card-game.json](./96973-new-solitaire-card-game.json) |
 | New Star Cricket | 234614 | [234614-new-star-cricket.json](./234614-new-star-cricket.json) |
 | New Star Soccer | 7682 | [7682-new-star-soccer.json](./7682-new-star-soccer.json) |
@@ -2761,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Simulator Air Racing and The Statue of Liberty | 197650 | [197650-new-york-simulator-air-racing-and-the-statue-of-liberty.json](./197650-new-york-simulator-air-racing-and-the-statue-of-liberty.json) |
 | New York Taxi Simulator | 33444 | [33444-new-york-taxi-simulator.json](./33444-new-york-taxi-simulator.json) |
 | New York Taxi: The Simulation | 54249 | [54249-new-york-taxi-the-simulation.json](./54249-new-york-taxi-the-simulation.json) |
+| New York Times Crossword | 88991 | [88991-new-york-times-crossword.json](./88991-new-york-times-crossword.json) |
 | New York Times Crosswords | 210105 | [210105-new-york-times-crosswords.json](./210105-new-york-times-crosswords.json) |
 | New York Times Crosswords | 44069 | [44069-new-york-times-crosswords.json](./44069-new-york-times-crosswords.json) |
 | New York Warriors | 39033 | [39033-new-york-warriors.json](./39033-new-york-warriors.json) |
@@ -5519,6 +5521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Note 2 | 200409 | [200409-note-2.json](./200409-note-2.json) |
 | Note Fighter | 110252 | [110252-note-fighter.json](./110252-note-fighter.json) |
 | Note of Janus | 211158 | [211158-note-of-janus.json](./211158-note-of-janus.json) |
+| Note Rush: Learn to Read Music | 88948 | [88948-note-rush-learn-to-read-music.json](./88948-note-rush-learn-to-read-music.json) |
 | Note to Self | 70376 | [70376-note-to-self.json](./70376-note-to-self.json) |
 | Note: A Composer and a Note | 115800 | [115800-note-a-composer-and-a-note.json](./115800-note-a-composer-and-a-note.json) |
 | NoteBlaster | 260766 | [260766-noteblaster.json](./260766-noteblaster.json) |
@@ -5937,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Color | 104396 | [104396-number-color.json](./104396-number-color.json) |
 | Number Crush | 366321 | [366321-number-crush.json](./366321-number-crush.json) |
 | Number Days Sim Date | 197614 | [197614-number-days-sim-date.json](./197614-number-days-sim-date.json) |
+| Number Drawing - Coloring Book | 88990 | [88990-number-drawing-coloring-book.json](./88990-number-drawing-coloring-book.json) |
 | Number Dungeon | 388364 | [388364-number-dungeon.json](./388364-number-dungeon.json) |
 | Number Fields | 325904 | [325904-number-fields.json](./325904-number-fields.json) |
 | Number Gacha | 402241 | [402241-number-gacha.json](./402241-number-gacha.json) |
@@ -5987,6 +5991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numbers Game 2: Number Match | 232299 | [232299-numbers-game-2-number-match.json](./232299-numbers-game-2-number-match.json) |
 | Numbers Go Up | 401069 | [401069-numbers-go-up.json](./401069-numbers-go-up.json) |
 | Numbers Paradise | 44399 | [44399-numbers-paradise.json](./44399-numbers-paradise.json) |
+| Numbers with Dally Dino - Preschool Kids Learn Counting with A Fun Dinosaur Friend | 88852 | [88852-numbers-with-dally-dino-preschool-kids-learn-counting-with-a-fun-dinosaur-friend.json](./88852-numbers-with-dally-dino-preschool-kids-learn-counting-with-a-fun-dinosaur-friend.json) |
 | Numbers.io | 310070 | [310070-numbers-io.json](./310070-numbers-io.json) |
 | Numbershark 5 | 286602 | [286602-numbershark-5.json](./286602-numbershark-5.json) |
 | Numbertron | 202714 | [202714-numbertron.json](./202714-numbertron.json) |
