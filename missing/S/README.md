@@ -24307,6 +24307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Big Mega Trucks: Arena | 407910 | [407910-super-big-mega-trucks-arena.json](./407910-super-big-mega-trucks-arena.json) |
 | Super Bike | 42157 | [42157-super-bike.json](./42157-super-bike.json) |
 | Super Bike TransAm | 71804 | [71804-super-bike-transam.json](./71804-super-bike-transam.json) |
+| Super Bikkuriman: Densetsu no Sekiban | 49138 | [49138-super-bikkuriman-densetsu-no-sekiban.json](./49138-super-bikkuriman-densetsu-no-sekiban.json) |
 | Super Bio-Man | 265603 | [265603-super-bio-man.json](./265603-super-bio-man.json) |
 | Super Bird | 267966 | [267966-super-bird.json](./267966-super-bird.json) |
 | Super Birdo 64 | 300686 | [300686-super-birdo-64.json](./300686-super-birdo-64.json) |
@@ -25981,6 +25982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Pinball | 71606 | [71606-super-robot-pinball.json](./71606-super-robot-pinball.json) |
 | Super Robot Shooting | 74768 | [74768-super-robot-shooting.json](./74768-super-robot-shooting.json) |
 | Super Robot Taisen | 240916 | [240916-super-robot-taisen.json](./240916-super-robot-taisen.json) |
+| Super Robot Taisen | 49137 | [49137-super-robot-taisen.json](./49137-super-robot-taisen.json) |
 | Super Robot Taisen A Portable | 79841 | [79841-super-robot-taisen-a-portable.json](./79841-super-robot-taisen-a-portable.json) |
 | Super Robot Taisen Alpha for Dreamcast | 241829 | [241829-super-robot-taisen-alpha-for-dreamcast.json](./241829-super-robot-taisen-alpha-for-dreamcast.json) |
 | Super Robot Taisen Alpha Gaiden | 44850 | [44850-super-robot-taisen-alpha-gaiden.json](./44850-super-robot-taisen-alpha-gaiden.json) |
