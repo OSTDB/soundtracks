@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caliber .50 | 39491 | [39491-caliber-50.json](./39491-caliber-50.json) |
 | Calibration Sequence | 423278 | [423278-calibration-sequence.json](./423278-calibration-sequence.json) |
 | Calibre 10 Racing | 30249 | [30249-calibre-10-racing.json](./30249-calibre-10-racing.json) |
+| Calibre 10 Racing Series | 61981 | [61981-calibre-10-racing-series.json](./61981-calibre-10-racing-series.json) |
 | Calibria: Crystal Guardians | 130027 | [130027-calibria-crystal-guardians.json](./130027-calibria-crystal-guardians.json) |
 | Calice | 188316 | [188316-calice.json](./188316-calice.json) |
 | Calice | 357737 | [357737-calice.json](./357737-calice.json) |
@@ -14588,6 +14589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptic College | 152084 | [152084-cryptic-college.json](./152084-cryptic-college.json) |
 | Cryptic Crawlz | 321478 | [321478-cryptic-crawlz.json](./321478-cryptic-crawlz.json) |
 | Cryptic Encounters | 208803 | [208803-cryptic-encounters.json](./208803-cryptic-encounters.json) |
+| Cryptic Escape | 62042 | [62042-cryptic-escape.json](./62042-cryptic-escape.json) |
 | Cryptic Glaze Mirror | 391174 | [391174-cryptic-glaze-mirror.json](./391174-cryptic-glaze-mirror.json) |
 | Cryptic Passage for Blood | 18499 | [18499-cryptic-passage-for-blood.json](./18499-cryptic-passage-for-blood.json) |
 | Cryptic Rooms | 132468 | [132468-cryptic-rooms.json](./132468-cryptic-rooms.json) |
@@ -14799,6 +14801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystalline Cauldron | 69670 | [69670-crystalline-cauldron.json](./69670-crystalline-cauldron.json) |
 | Crystallium | 373872 | [373872-crystallium.json](./373872-crystallium.json) |
 | Crystallo | 117037 | [117037-crystallo.json](./117037-crystallo.json) |
+| Crystaloid | 61968 | [61968-crystaloid.json](./61968-crystaloid.json) |
 | Crystalon | 183554 | [183554-crystalon.json](./183554-crystalon.json) |
 | Crystalreach Islands | 190912 | [190912-crystalreach-islands.json](./190912-crystalreach-islands.json) |
 | Crystalrect | 238928 | [238928-crystalrect.json](./238928-crystalrect.json) |
