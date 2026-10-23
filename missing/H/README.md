@@ -2620,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Summer | 158569 | [158569-heart-of-summer.json](./158569-heart-of-summer.json) |
 | Heart Of The Abyss | 337055 | [337055-heart-of-the-abyss.json](./337055-heart-of-the-abyss.json) |
 | Heart of the Alien | 343417 | [343417-heart-of-the-alien.json](./343417-heart-of-the-alien.json) |
+| Heart of the Alien: Out of this World Parts I and II | 46420 | [46420-heart-of-the-alien-out-of-this-world-parts-i-and-ii.json](./46420-heart-of-the-alien-out-of-this-world-parts-i-and-ii.json) |
 | Heart of the Dragon | 74048 | [74048-heart-of-the-dragon.json](./74048-heart-of-the-dragon.json) |
 | Heart of the Emberstone: Coliseum | 81767 | [81767-heart-of-the-emberstone-coliseum.json](./81767-heart-of-the-emberstone-coliseum.json) |
 | Heart of the Hedgehog | 330288 | [330288-heart-of-the-hedgehog.json](./330288-heart-of-the-hedgehog.json) |
