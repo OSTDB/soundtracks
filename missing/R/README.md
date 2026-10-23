@@ -2403,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealFlight Evolution: Triple Tree Float Flight Line | 311082 | [311082-realflight-evolution-triple-tree-float-flight-line.json](./311082-realflight-evolution-triple-tree-float-flight-line.json) |
 | RealFlight Trainer Edition | 162755 | [162755-realflight-trainer-edition.json](./162755-realflight-trainer-edition.json) |
 | Realistic Battle Tank | 216153 | [216153-realistic-battle-tank.json](./216153-realistic-battle-tank.json) |
+| Realistic Illusion | 97193 | [97193-realistic-illusion.json](./97193-realistic-illusion.json) |
 | Realistic Summer Sports | 175253 | [175253-realistic-summer-sports.json](./175253-realistic-summer-sports.json) |
 | Realistic Tower Destruction | 131558 | [131558-realistic-tower-destruction.json](./131558-realistic-tower-destruction.json) |
 | Realities | 33276 | [33276-realities.json](./33276-realities.json) |
