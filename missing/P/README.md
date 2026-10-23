@@ -1843,6 +1843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parfait Fan Box | 332428 | [332428-parfait-fan-box.json](./332428-parfait-fan-box.json) |
 | Parfait Remake | 167107 | [167107-parfait-remake.json](./167107-parfait-remake.json) |
 | Parfait Remake: Complete Limited Edition | 159813 | [159813-parfait-remake-complete-limited-edition.json](./159813-parfait-remake-complete-limited-edition.json) |
+| Parfait Station | 67795 | [67795-parfait-station.json](./67795-parfait-station.json) |
 | Parfait: Chocolat Second Brew | 79168 | [79168-parfait-chocolat-second-brew.json](./79168-parfait-chocolat-second-brew.json) |
 | Parfum Nostalgique | 259057 | [259057-parfum-nostalgique.json](./259057-parfum-nostalgique.json) |
 | Pari Delicto | 384531 | [384531-pari-delicto.json](./384531-pari-delicto.json) |
@@ -12873,6 +12874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Watcher | 260218 | [260218-project-watcher.json](./260218-project-watcher.json) |
 | Project Waves | 114434 | [114434-project-waves.json](./114434-project-waves.json) |
 | Project Werewolf | 306099 | [306099-project-werewolf.json](./306099-project-werewolf.json) |
+| Project Wiki | 67794 | [67794-project-wiki.json](./67794-project-wiki.json) |
 | Project Windless | 389432 | [389432-project-windless.json](./389432-project-windless.json) |
 | Project Wingman: Frontline 59 | 270216 | [270216-project-wingman-frontline-59.json](./270216-project-wingman-frontline-59.json) |
 | Project Winter Mobile | 199947 | [199947-project-winter-mobile.json](./199947-project-winter-mobile.json) |
