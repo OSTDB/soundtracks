@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Sultans | 106526 | [106526-game-of-sultans.json](./106526-game-of-sultans.json) |
 | Game of The Forgotten Gods. Wake Up | 96864 | [96864-game-of-the-forgotten-gods-wake-up.json](./96864-game-of-the-forgotten-gods-wake-up.json) |
 | Game of the Year | 127720 | [127720-game-of-the-year.json](./127720-game-of-the-year.json) |
+| Game of the Year 420 Edition | 50319 | [50319-game-of-the-year-420-edition.json](./50319-game-of-the-year-420-edition.json) |
 | Game Of Thrall'an | 321365 | [321365-game-of-thrallan.json](./321365-game-of-thrallan.json) |
 | Game of Throne | 179199 | [179199-game-of-throne.json](./179199-game-of-throne.json) |
 | Game of Thrones | 5489 | [5489-game-of-thrones.json](./5489-game-of-thrones.json) |
@@ -1852,6 +1853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntlet: The Deeper Dungeons | 37164 | [37164-gauntlet-the-deeper-dungeons.json](./37164-gauntlet-the-deeper-dungeons.json) |
 | Gauntlet: The Third Encounter | 7295 | [7295-gauntlet-the-third-encounter.json](./7295-gauntlet-the-third-encounter.json) |
 | Gauntletak | 372782 | [372782-gauntletak.json](./372782-gauntletak.json) |
+| Gaurodan | 50350 | [50350-gaurodan.json](./50350-gaurodan.json) |
 | Gav-Gav Odyssey | 187758 | [187758-gav-gav-odyssey.json](./187758-gav-gav-odyssey.json) |
 | Gavin Tyler's Game Collection | 337662 | [337662-gavin-tylers-game-collection.json](./337662-gavin-tylers-game-collection.json) |
 | Gavin's Quest | 53085 | [53085-gavins-quest.json](./53085-gavins-quest.json) |
