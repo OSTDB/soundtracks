@@ -4981,6 +4981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Returning the favor of the dog | 169358 | [169358-returning-the-favor-of-the-dog.json](./169358-returning-the-favor-of-the-dog.json) |
 | Returning to Mia | 226726 | [226726-returning-to-mia.json](./226726-returning-to-mia.json) |
 | Returns Outlet Simulator | 361272 | [361272-returns-outlet-simulator.json](./361272-returns-outlet-simulator.json) |
+| ReturnState | 75607 | [75607-returnstate.json](./75607-returnstate.json) |
 | ReTux | 22181 | [22181-retux.json](./22181-retux.json) |
 | Retwined | 178945 | [178945-retwined.json](./178945-retwined.json) |
 | Reunion | 12471 | [12471-reunion.json](./12471-reunion.json) |
@@ -8594,6 +8595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftops & Alleys: The Parkour Game | 279900 | [279900-rooftops-and-alleys-the-parkour-game.json](./279900-rooftops-and-alleys-the-parkour-game.json) |
 | Roogoo Attack! | 21242 | [21242-roogoo-attack.json](./21242-roogoo-attack.json) |
 | Roogoo Twisted Towers! | 21248 | [21248-roogoo-twisted-towers.json](./21248-roogoo-twisted-towers.json) |
+| Roojack | 75627 | [75627-roojack.json](./75627-roojack.json) |
 | Rook | 129441 | [129441-rook.json](./129441-rook.json) |
 | Rook | 359282 | [359282-rook.json](./359282-rook.json) |
 | Rookfall | 174617 | [174617-rookfall.json](./174617-rookfall.json) |
