@@ -1848,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vinculum | 417644 | [417644-vinculum.json](./417644-vinculum.json) |
 | Vind | 115721 | [115721-vind.json](./115721-vind.json) |
 | Vindefiant | 296366 | [296366-vindefiant.json](./296366-vindefiant.json) |
+| Vindex | 72471 | [72471-vindex.json](./72471-vindex.json) |
 | Vindicator | 46739 | [46739-vindicator.json](./46739-vindicator.json) |
 | Vindicator: Uprising | 35353 | [35353-vindicator-uprising.json](./35353-vindicator-uprising.json) |
 | Vindicators | 12871 | [12871-vindicators.json](./12871-vindicators.json) |
@@ -3080,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Hentai Room | 366540 | [366540-vr-hentai-room.json](./366540-vr-hentai-room.json) |
 | VR Hero Sentry | 110715 | [110715-vr-hero-sentry.json](./110715-vr-hero-sentry.json) |
 | VR Hiroshima 1945 | 160140 | [160140-vr-hiroshima-1945.json](./160140-vr-hiroshima-1945.json) |
+| VR Hockey League | 72515 | [72515-vr-hockey-league.json](./72515-vr-hockey-league.json) |
 | VR Home | 27352 | [27352-vr-home.json](./27352-vr-home.json) |
 | VR Horror Survival Zombie Battle | 169261 | [169261-vr-horror-survival-zombie-battle.json](./169261-vr-horror-survival-zombie-battle.json) |
 | VR Houses: Glass Apartment | 282028 | [282028-vr-houses-glass-apartment.json](./282028-vr-houses-glass-apartment.json) |
@@ -3352,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vulcan 3055 | 110331 | [110331-vulcan-3055.json](./110331-vulcan-3055.json) |
 | Vulcan Sacrifice | 53880 | [53880-vulcan-sacrifice.json](./53880-vulcan-sacrifice.json) |
 | Vulcan Tower Defence | 234759 | [234759-vulcan-tower-defence.json](./234759-vulcan-tower-defence.json) |
+| Vulcan: The Tunisian Campaign | 72473 | [72473-vulcan-the-tunisian-campaign.json](./72473-vulcan-the-tunisian-campaign.json) |
 | Vulcanus | 91843 | [91843-vulcanus.json](./91843-vulcanus.json) |
 | Vulcard | 351715 | [351715-vulcard.json](./351715-vulcard.json) |
 | Vulgord's Tower | 151292 | [151292-vulgords-tower.json](./151292-vulgords-tower.json) |
