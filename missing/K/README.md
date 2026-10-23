@@ -1756,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidgames | 131351 | [131351-kidgames.json](./131351-kidgames.json) |
 | Kidname: Iceboy | 323333 | [323333-kidname-iceboy.json](./323333-kidname-iceboy.json) |
 | Kidnapped | 26517 | [26517-kidnapped.json](./26517-kidnapped.json) |
+| Kidnapped | 79064 | [79064-kidnapped.json](./79064-kidnapped.json) |
 | Kidnapped Girl | 144969 | [144969-kidnapped-girl.json](./144969-kidnapped-girl.json) |
 | Kidnapped in Vostok | 235596 | [235596-kidnapped-in-vostok.json](./235596-kidnapped-in-vostok.json) |
 | Kidnapped! A Royal Birthday | 150398 | [150398-kidnapped-a-royal-birthday.json](./150398-kidnapped-a-royal-birthday.json) |
