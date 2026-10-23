@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain America: Super Soldier | 4745 | [4745-captain-america-super-soldier.json](./4745-captain-america-super-soldier.json) |
 | Captain Barrel | 320453 | [320453-captain-barrel.json](./320453-captain-barrel.json) |
 | Captain Beeble | 294722 | [294722-captain-beeble.json](./294722-captain-beeble.json) |
+| Captain Bible in Dome of Darkness | 64089 | [64089-captain-bible-in-dome-of-darkness.json](./64089-captain-bible-in-dome-of-darkness.json) |
 | Captain Blacksword | 235729 | [235729-captain-blacksword.json](./235729-captain-blacksword.json) |
 | Captain Blood | 11989 | [11989-captain-blood.json](./11989-captain-blood.json) |
 | Captain Blood | 73030 | [73030-captain-blood.json](./73030-captain-blood.json) |
@@ -7430,6 +7431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citystate II | 142168 | [142168-citystate-ii.json](./142168-citystate-ii.json) |
 | Citytopia | 114791 | [114791-citytopia.json](./114791-citytopia.json) |
 | CityVille | 80153 | [80153-cityville.json](./80153-cityville.json) |
+| CityVille 2 | 64246 | [64246-cityville-2.json](./64246-cityville-2.json) |
 | Citywars Savage | 112740 | [112740-citywars-savage.json](./112740-citywars-savage.json) |
 | Citywars Tower Defense | 191574 | [191574-citywars-tower-defense.json](./191574-citywars-tower-defense.json) |
 | CityZen | 392256 | [392256-cityzen.json](./392256-cityzen.json) |
@@ -8622,6 +8624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coat of Many Feathers | 318780 | [318780-coat-of-many-feathers.json](./318780-coat-of-many-feathers.json) |
 | Coated | 35628 | [35628-coated.json](./35628-coated.json) |
 | Cobalt | 2999 | [2999-cobalt.json](./2999-cobalt.json) |
+| Cobalt Runner | 64283 | [64283-cobalt-runner.json](./64283-cobalt-runner.json) |
 | Cobb Can Move | 401154 | [401154-cobb-can-move.json](./401154-cobb-can-move.json) |
 | Cobble and Trouble | 182986 | [182986-cobble-and-trouble.json](./182986-cobble-and-trouble.json) |
 | Cobi Darts | 106468 | [106468-cobi-darts.json](./106468-cobi-darts.json) |
@@ -14833,6 +14836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSI: Slots | 79913 | [79913-csi-slots.json](./79913-csi-slots.json) |
 | CSI: Squeak Sneak | 410219 | [410219-csi-squeak-sneak.json](./410219-csi-squeak-sneak.json) |
 | CSOL | 258488 | [258488-csol.json](./258488-csol.json) |
+| CSPromod | 64147 | [64147-cspromod.json](./64147-cspromod.json) |
 | CSR Classics | 58238 | [58238-csr-classics.json](./58238-csr-classics.json) |
 | CSR Racing | 63899 | [63899-csr-racing.json](./63899-csr-racing.json) |
 | CSR Racing 2 | 55169 | [55169-csr-racing-2.json](./55169-csr-racing-2.json) |
