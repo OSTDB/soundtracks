@@ -19237,6 +19237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Legends - Spock Edition | 385209 | [385209-star-trek-legends-spock-edition.json](./385209-star-trek-legends-spock-edition.json) |
 | Star Trek: New Worlds | 19425 | [19425-star-trek-new-worlds.json](./19425-star-trek-new-worlds.json) |
 | Star Trek: Resurgence | 185255 | [185255-star-trek-resurgence.json](./185255-star-trek-resurgence.json) |
+| Star Trek: Secret of Vulcan Fury | 69125 | [69125-star-trek-secret-of-vulcan-fury.json](./69125-star-trek-secret-of-vulcan-fury.json) |
 | Star Trek: Shadow Frontier | 405015 | [405015-star-trek-shadow-frontier.json](./405015-star-trek-shadow-frontier.json) |
 | Star Trek: Shattered Universe | 4168 | [4168-star-trek-shattered-universe.json](./4168-star-trek-shattered-universe.json) |
 | Star Trek: Starfleet Academy | 23946 | [23946-star-trek-starfleet-academy.json](./23946-star-trek-starfleet-academy.json) |
@@ -27327,9 +27328,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzukuri Dungeon: Karin in the Mountain | 153812 | [153812-suzukuri-dungeon-karin-in-the-mountain.json](./153812-suzukuri-dungeon-karin-in-the-mountain.json) |
 | Suzume: Match 3 Puzzle | 255336 | [255336-suzume-match-3-puzzle.json](./255336-suzume-match-3-puzzle.json) |
 | Suzumiya Hachiruhi no Inyoku | 126321 | [126321-suzumiya-hachiruhi-no-inyoku.json](./126321-suzumiya-hachiruhi-no-inyoku.json) |
+| Suzumiya Haruhi no Chokuretsu | 69074 | [69074-suzumiya-haruhi-no-chokuretsu.json](./69074-suzumiya-haruhi-no-chokuretsu.json) |
 | Suzumiya Haruhi No Datsui | 97512 | [97512-suzumiya-haruhi-no-datsui.json](./97512-suzumiya-haruhi-no-datsui.json) |
 | Suzumiya Haruhi no Gekidou | 69295 | [69295-suzumiya-haruhi-no-gekidou.json](./69295-suzumiya-haruhi-no-gekidou.json) |
 | Suzumiya Haruhi no Gyakuten 2 | 275504 | [275504-suzumiya-haruhi-no-gyakuten-2.json](./275504-suzumiya-haruhi-no-gyakuten-2.json) |
+| Suzumiya Haruhi no Heiretsu | 69110 | [69110-suzumiya-haruhi-no-heiretsu.json](./69110-suzumiya-haruhi-no-heiretsu.json) |
 | Suzumiya Haruhi no Houi | 97503 | [97503-suzumiya-haruhi-no-houi.json](./97503-suzumiya-haruhi-no-houi.json) |
 | Suzumiya Haruhi no Tomadoi | 72709 | [72709-suzumiya-haruhi-no-tomadoi.json](./72709-suzumiya-haruhi-no-tomadoi.json) |
 | Suzumiya Haruhi-chan no Mahjong | 61444 | [61444-suzumiya-haruhi-chan-no-mahjong.json](./61444-suzumiya-haruhi-chan-no-mahjong.json) |
