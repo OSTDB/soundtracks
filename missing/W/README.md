@@ -3535,6 +3535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whirlight: No Time To Trip | 287707 | [287707-whirlight-no-time-to-trip.json](./287707-whirlight-no-time-to-trip.json) |
 | Whirligig | 12931 | [12931-whirligig.json](./12931-whirligig.json) |
 | Whirlo | 46588 | [46588-whirlo.json](./46588-whirlo.json) |
+| Whirlpool | 76382 | [76382-whirlpool.json](./76382-whirlpool.json) |
 | Whirlpool Derby: Grand Crash Auto | 90365 | [90365-whirlpool-derby-grand-crash-auto.json](./90365-whirlpool-derby-grand-crash-auto.json) |
 | Whirlwind Magician | 269186 | [269186-whirlwind-magician.json](./269186-whirlwind-magician.json) |
 | Whirlwind of Vietnam | 72714 | [72714-whirlwind-of-vietnam.json](./72714-whirlwind-of-vietnam.json) |
