@@ -7461,6 +7461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merv Griffin's Crosswords | 50945 | [50945-merv-griffins-crosswords.json](./50945-merv-griffins-crosswords.json) |
 | Merv Liberation | 112495 | [112495-merv-liberation.json](./112495-merv-liberation.json) |
 | Mervils: A VR Adventure | 27385 | [27385-mervils-a-vr-adventure.json](./27385-mervils-a-vr-adventure.json) |
+| Mervin and the Wicked Station | 95246 | [95246-mervin-and-the-wicked-station.json](./95246-mervin-and-the-wicked-station.json) |
 | Meryll wants a Cookie | 183273 | [183273-meryll-wants-a-cookie.json](./183273-meryll-wants-a-cookie.json) |
 | Mes Comptines | 85283 | [85283-mes-comptines.json](./85283-mes-comptines.json) |
 | Mesa | 233214 | [233214-mesa.json](./233214-mesa.json) |
