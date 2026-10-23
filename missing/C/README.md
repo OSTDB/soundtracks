@@ -6673,6 +6673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronoshot | 138736 | [138736-chronoshot.json](./138736-chronoshot.json) |
 | Chronostacia | 59155 | [59155-chronostacia.json](./59155-chronostacia.json) |
 | Chronostation | 130239 | [130239-chronostation.json](./130239-chronostation.json) |
+| Chronostorm: Siberian Strike | 57992 | [57992-chronostorm-siberian-strike.json](./57992-chronostorm-siberian-strike.json) |
 | Chronostrike | 332409 | [332409-chronostrike.json](./332409-chronostrike.json) |
 | ChronoTecture: The Eprologue | 167350 | [167350-chronotecture-the-eprologue.json](./167350-chronotecture-the-eprologue.json) |
 | Chronotron | 212779 | [212779-chronotron.json](./212779-chronotron.json) |
@@ -14695,6 +14696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crysmalia: Dawn of Darkness | 228485 | [228485-crysmalia-dawn-of-darkness.json](./228485-crysmalia-dawn-of-darkness.json) |
 | Cryspace | 240746 | [240746-cryspace.json](./240746-cryspace.json) |
 | Crystal | 145275 | [145275-crystal.json](./145275-crystal.json) |
+| Crystal Adventure | 58080 | [58080-crystal-adventure.json](./58080-crystal-adventure.json) |
 | Crystal Anomaly | 194379 | [194379-crystal-anomaly.json](./194379-crystal-anomaly.json) |
 | Crystal Ball | 93442 | [93442-crystal-ball.json](./93442-crystal-ball.json) |
 | Crystal Blast VR | 243581 | [243581-crystal-blast-vr.json](./243581-crystal-blast-vr.json) |
@@ -15237,6 +15239,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubot: The Complexity of Simplicity | 9812 | [9812-cubot-the-complexity-of-simplicity.json](./9812-cubot-the-complexity-of-simplicity.json) |
 | Cubox: Awakening of Gods | 168156 | [168156-cubox-awakening-of-gods.json](./168156-cubox-awakening-of-gods.json) |
 | Cuboy | 251692 | [251692-cuboy.json](./251692-cuboy.json) |
+| Cuboy Back to the Cubeture: Era 2 | 57993 | [57993-cuboy-back-to-the-cubeture-era-2.json](./57993-cuboy-back-to-the-cubeture-era-2.json) |
+| Cuboy: Back to the Cubeture | 57994 | [57994-cuboy-back-to-the-cubeture.json](./57994-cuboy-back-to-the-cubeture.json) |
 | Cuboyd | 290708 | [290708-cuboyd.json](./290708-cuboyd.json) |
 | Cubrick | 28792 | [28792-cubrick.json](./28792-cubrick.json) |
 | Cubriko | 104555 | [104555-cubriko.json](./104555-cubriko.json) |
