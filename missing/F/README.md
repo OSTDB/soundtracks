@@ -6213,6 +6213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Sims Air Cavalry Pilots | 175336 | [175336-flight-sims-air-cavalry-pilots.json](./175336-flight-sims-air-cavalry-pilots.json) |
 | Flight Simulation | 23062 | [23062-flight-simulation.json](./23062-flight-simulation.json) |
 | Flight Simulator | 69838 | [69838-flight-simulator.json](./69838-flight-simulator.json) |
+| Flight Simulator 2.0 | 50293 | [50293-flight-simulator-2-0.json](./50293-flight-simulator-2-0.json) |
 | Flight Simulator 2016 FlyWings - Collectors Edition | 90803 | [90803-flight-simulator-2016-flywings-collectors-edition.json](./90803-flight-simulator-2016-flywings-collectors-edition.json) |
 | Flight Simulator 2025 | 371411 | [371411-flight-simulator-2025.json](./371411-flight-simulator-2025.json) |
 | Flight Simulator 2025 VR | 335088 | [335088-flight-simulator-2025-vr.json](./335088-flight-simulator-2025-vr.json) |
@@ -9106,6 +9107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddi Fish: ABC's Under the Sea | 3749 | [3749-freddi-fish-abcs-under-the-sea.json](./3749-freddi-fish-abcs-under-the-sea.json) |
 | Freddi Fish: Het Verhaal van de Verdwenen Zeewierzaadjes | 301504 | [301504-freddi-fish-het-verhaal-van-de-verdwenen-zeewierzaadjes.json](./301504-freddi-fish-het-verhaal-van-de-verdwenen-zeewierzaadjes.json) |
 | Freddi Fish: Kelp Seed Mystery | 51029 | [51029-freddi-fish-kelp-seed-mystery.json](./51029-freddi-fish-kelp-seed-mystery.json) |
+| Freddi Fish's One Stop Fun Shop | 50296 | [50296-freddi-fishs-one-stop-fun-shop.json](./50296-freddi-fishs-one-stop-fun-shop.json) |
 | Freddy | 280774 | [280774-freddy.json](./280774-freddy.json) |
 | Freddy Farmer | 324186 | [324186-freddy-farmer.json](./324186-freddy-farmer.json) |
 | Freddy Fazbear's Pizza Massacre | 272297 | [272297-freddy-fazbears-pizza-massacre.json](./272297-freddy-fazbears-pizza-massacre.json) |
