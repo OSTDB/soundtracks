@@ -8660,6 +8660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FR Legends | 126025 | [126025-fr-legends.json](./126025-fr-legends.json) |
 | FR Master: Formula Racing Simulator | 261356 | [261356-fr-master-formula-racing-simulator.json](./261356-fr-master-formula-racing-simulator.json) |
 | FR34KS | 412538 | [412538-fr34ks.json](./412538-fr34ks.json) |
+| Frac | 92910 | [92910-frac.json](./92910-frac.json) |
 | Fracas | 25691 | [25691-fracas.json](./25691-fracas.json) |
 | Fracas | 321414 | [321414-fracas.json](./321414-fracas.json) |
 | Fracctal Monsters | 239544 | [239544-fracctal-monsters.json](./239544-fracctal-monsters.json) |
