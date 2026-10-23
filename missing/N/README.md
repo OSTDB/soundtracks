@@ -1527,6 +1527,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negima! Magister Negi Magi: 1 Jikan-me - Okochama-sensei ha Mahoutsukai! | 59347 | [59347-negima-magister-negi-magi-1-jikan-me-okochama-sensei-ha-mahoutsukai.json](./59347-negima-magister-negi-magi-1-jikan-me-okochama-sensei-ha-mahoutsukai.json) |
 | Negima! Magister Negi Magi: 2 Jikan-me - Tatakau Otome-tachi! Mahora Daiundoukai SP | 59346 | [59346-negima-magister-negi-magi-2-jikan-me-tatakau-otome-tachi-mahora-daiundoukai-sp.json](./59346-negima-magister-negi-magi-2-jikan-me-tatakau-otome-tachi-mahora-daiundoukai-sp.json) |
 | Negima! Magister Negi Magi: Kagai Jugyou - Otome no Doki-doki Beachside | 276087 | [276087-negima-magister-negi-magi-kagai-jugyou-otome-no-doki-doki-beachside.json](./276087-negima-magister-negi-magi-kagai-jugyou-otome-no-doki-doki-beachside.json) |
+| Negima! Magister Negi Magi: Private Lesson - Dame Desu Toshokan | 49705 | [49705-negima-magister-negi-magi-private-lesson-dame-desu-toshokan.json](./49705-negima-magister-negi-magi-private-lesson-dame-desu-toshokan.json) |
+| Negima! Magister Negi Magi: Private Lesson 2 - Ojama Shimasu Parasite de Chu | 49704 | [49704-negima-magister-negi-magi-private-lesson-2-ojama-shimasu-parasite-de-chu.json](./49704-negima-magister-negi-magi-private-lesson-2-ojama-shimasu-parasite-de-chu.json) |
 | Negima!? Chou Mahora Taisen Chuu: Check-iin Zenin Shuugou! Yappari Onsen Kichaimashitaa | 276088 | [276088-negima-chou-mahora-taisen-chuu-check-iin-zenin-shuugou-yappari-onsen-kichaimashitaa.json](./276088-negima-chou-mahora-taisen-chuu-check-iin-zenin-shuugou-yappari-onsen-kichaimashitaa.json) |
 | Negima!? Magister Negi Magi: Chou Mahora Taisen Cut-iin, Keiyaku Shikkou Dechai-masuu | 79524 | [79524-negima-magister-negi-magi-chou-mahora-taisen-cut-iin-keiyaku-shikkou-dechai-masuu.json](./79524-negima-magister-negi-magi-chou-mahora-taisen-cut-iin-keiyaku-shikkou-dechai-masuu.json) |
 | Negima!? Magister Negi Magi: Dream Tactic Yumemiru Otome Princess | 276089 | [276089-negima-magister-negi-magi-dream-tactic-yumemiru-otome-princess.json](./276089-negima-magister-negi-magi-dream-tactic-yumemiru-otome-princess.json) |
@@ -6201,6 +6203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyan Cat: The Space Journey | 344905 | [344905-nyan-cat-the-space-journey.json](./344905-nyan-cat-the-space-journey.json) |
 | Nyan Cat! | 64260 | [64260-nyan-cat.json](./64260-nyan-cat.json) |
 | Nyan Nikki | 229663 | [229663-nyan-nikki.json](./229663-nyan-nikki.json) |
+| Nyan Nyan Nyanko no Nyan Collection | 49745 | [49745-nyan-nyan-nyanko-no-nyan-collection.json](./49745-nyan-nyan-nyanko-no-nyan-collection.json) |
 | Nyan Nyan Parasol | 306578 | [306578-nyan-nyan-parasol.json](./306578-nyan-nyan-parasol.json) |
 | Nyan Nyan Tower | 268446 | [268446-nyan-nyan-tower.json](./268446-nyan-nyan-tower.json) |
 | Nyan to Suteki na Natsuiro Days | 108872 | [108872-nyan-to-suteki-na-natsuiro-days.json](./108872-nyan-to-suteki-na-natsuiro-days.json) |
