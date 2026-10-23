@@ -1864,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iMahjong - Mahjong Pairs | 90041 | [90041-imahjong-mahjong-pairs.json](./90041-imahjong-mahjong-pairs.json) |
 | iMahjong - Mahjong Pairs (Full) | 90062 | [90062-imahjong-mahjong-pairs-full.json](./90062-imahjong-mahjong-pairs-full.json) |
 | iMake IcePops | 101554 | [101554-imake-icepops.json](./101554-imake-icepops.json) |
+| iMake Lollipops-Candy Making Kitchen Games | 98861 | [98861-imake-lollipops-candy-making-kitchen-games.json](./98861-imake-lollipops-candy-making-kitchen-games.json) |
 | Imakuni? no Ball | 59038 | [59038-imakuni-no-ball.json](./59038-imakuni-no-ball.json) |
 | Imasugu Tsukaeru Mamechishiki Quiz Zatsugaku Ou DS | 133799 | [133799-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou-ds.json](./133799-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou-ds.json) |
 | Imaze.exe | 112443 | [112443-imaze-exe.json](./112443-imaze-exe.json) |
@@ -4451,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iona's Toybox | 361041 | [361041-ionas-toybox.json](./361041-ionas-toybox.json) |
 | IonAxxia | 61882 | [61882-ionaxxia.json](./61882-ionaxxia.json) |
 | IonBall 2: Ionstorm | 10443 | [10443-ionball-2-ionstorm.json](./10443-ionball-2-ionstorm.json) |
+| Ionball 3 | 98844 | [98844-ionball-3.json](./98844-ionball-3.json) |
 | IonballEX | 92515 | [92515-ionballex.json](./92515-ionballex.json) |
 | Ionic Wars | 58138 | [58138-ionic-wars.json](./58138-ionic-wars.json) |
 | Ionization | 316776 | [316776-ionization.json](./316776-ionization.json) |
