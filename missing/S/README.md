@@ -6128,6 +6128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shawarma King | 330345 | [330345-shawarma-king.json](./330345-shawarma-king.json) |
 | Shawarma Wars | 385562 | [385562-shawarma-wars.json](./385562-shawarma-wars.json) |
 | Shawl | 56527 | [56527-shawl.json](./56527-shawl.json) |
+| Shawn Johnson Gymnastics | 50979 | [50979-shawn-johnson-gymnastics.json](./50979-shawn-johnson-gymnastics.json) |
 | ShawnCena121 | 286417 | [286417-shawncena121.json](./286417-shawncena121.json) |
 | Shawy Adventures | 115535 | [115535-shawy-adventures.json](./115535-shawy-adventures.json) |
 | Shaylushay Treasure Expedition | 275715 | [275715-shaylushay-treasure-expedition.json](./275715-shaylushay-treasure-expedition.json) |
@@ -21582,6 +21583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonehenge VR | 33137 | [33137-stonehenge-vr.json](./33137-stonehenge-vr.json) |
 | Stonehold | 354950 | [354950-stonehold.json](./354950-stonehold.json) |
 | Stonekeep | 253 | [253-stonekeep.json](./253-stonekeep.json) |
+| Stonekeep: Bones of the Ancestors | 50994 | [50994-stonekeep-bones-of-the-ancestors.json](./50994-stonekeep-bones-of-the-ancestors.json) |
 | StoneLoops! of Jurassica | 67810 | [67810-stoneloops-of-jurassica.json](./67810-stoneloops-of-jurassica.json) |
 | Stonemachia | 300028 | [300028-stonemachia.json](./300028-stonemachia.json) |
 | Stoneman's Adventure | 256725 | [256725-stonemans-adventure.json](./256725-stonemans-adventure.json) |
