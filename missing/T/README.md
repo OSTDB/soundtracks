@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TacWars | 94881 | [94881-tacwars.json](./94881-tacwars.json) |
 | Tad the Lost Explorer and the Emerald Tablet | 204124 | [204124-tad-the-lost-explorer-and-the-emerald-tablet.json](./204124-tad-the-lost-explorer-and-the-emerald-tablet.json) |
 | Tad the Lost Explorer and the Emerald Tablet: Craziest and Madness Edition | 250359 | [250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json](./250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json) |
+| TAD: That Alien Dude | 94060 | [94060-tad-that-alien-dude.json](./94060-tad-that-alien-dude.json) |
 | Tadahito: Story of Ellis | 152049 | [152049-tadahito-story-of-ellis.json](./152049-tadahito-story-of-ellis.json) |
 | Tadaima Yuusha Boshuuchuu Okawari | 37799 | [37799-tadaima-yuusha-boshuuchuu-okawari.json](./37799-tadaima-yuusha-boshuuchuu-okawari.json) |
 | Taddle Quest | 224608 | [224608-taddle-quest.json](./224608-taddle-quest.json) |
@@ -13578,6 +13579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sudoku Challenge! | 257311 | [257311-the-sudoku-challenge.json](./257311-the-sudoku-challenge.json) |
 | The Sueño | 86088 | [86088-the-sueno.json](./86088-the-sueno.json) |
 | The Suffering: Ties That Bind | 6181 | [6181-the-suffering-ties-that-bind.json](./6181-the-suffering-ties-that-bind.json) |
+| The Sugar Killerz | 94058 | [94058-the-sugar-killerz.json](./94058-the-sugar-killerz.json) |
 | The Suicide Forest | 133428 | [133428-the-suicide-forest.json](./133428-the-suicide-forest.json) |
 | The Suicide Game | 179075 | [179075-the-suicide-game.json](./179075-the-suicide-game.json) |
 | The Suitcase | 196559 | [196559-the-suitcase.json](./196559-the-suitcase.json) |
@@ -14742,6 +14744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wall | 176849 | [176849-the-wall.json](./176849-the-wall.json) |
 | The Wall | 200750 | [200750-the-wall.json](./200750-the-wall.json) |
 | The Wall | 333454 | [333454-the-wall.json](./333454-the-wall.json) |
+| The Wall | 94086 | [94086-the-wall.json](./94086-the-wall.json) |
 | The Wall Mustn't Fall | 215793 | [215793-the-wall-mustnt-fall.json](./215793-the-wall-mustnt-fall.json) |
 | The Walls | 289952 | [289952-the-walls.json](./289952-the-walls.json) |
 | The Walls of Bratock | 14423 | [14423-the-walls-of-bratock.json](./14423-the-walls-of-bratock.json) |
@@ -24156,6 +24159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tri-Element | 65573 | [65573-tri-element.json](./65573-tri-element.json) |
 | Tri-Ger | 377580 | [377580-tri-ger.json](./377580-tri-ger.json) |
 | Tri-Heli 2 | 246310 | [246310-tri-heli-2.json](./246310-tri-heli-2.json) |
+| Tri-Peaks | 94107 | [94107-tri-peaks.json](./94107-tri-peaks.json) |
 | Tri-Peaks 2: Quest for the Ruby Ring | 206076 | [206076-tri-peaks-2-quest-for-the-ruby-ring.json](./206076-tri-peaks-2-quest-for-the-ruby-ring.json) |
 | Tri-Peaks Solitaire HD | 355005 | [355005-tri-peaks-solitaire-hd.json](./355005-tri-peaks-solitaire-hd.json) |
 | Tri-Strip | 85456 | [85456-tri-strip.json](./85456-tri-strip.json) |
