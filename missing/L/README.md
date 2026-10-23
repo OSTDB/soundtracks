@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Walpurgis | 255051 | [255051-last-walpurgis.json](./255051-last-walpurgis.json) |
 | Last War | 285070 | [285070-last-war.json](./285070-last-war.json) |
 | Last War 2044 | 89406 | [89406-last-war-2044.json](./89406-last-war-2044.json) |
+| Last War: Apocalypse Strikes | 74891 | [74891-last-war-apocalypse-strikes.json](./74891-last-war-apocalypse-strikes.json) |
 | Last warrior | 120584 | [120584-last-warrior.json](./120584-last-warrior.json) |
 | Last Warrior | 266713 | [266713-last-warrior.json](./266713-last-warrior.json) |
 | Last Watchtower | 376669 | [376669-last-watchtower.json](./376669-last-watchtower.json) |
@@ -6117,6 +6118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Blood: Vampire RPG | 323156 | [323156-lords-of-blood-vampire-rpg.json](./323156-lords-of-blood-vampire-rpg.json) |
 | Lords of Cards | 154265 | [154265-lords-of-cards.json](./154265-lords-of-cards.json) |
 | Lords of Conquest | 26391 | [26391-lords-of-conquest.json](./26391-lords-of-conquest.json) |
+| Lords of Delusia | 74867 | [74867-lords-of-delusia.json](./74867-lords-of-delusia.json) |
 | Lords of Doom | 69811 | [69811-lords-of-doom.json](./69811-lords-of-doom.json) |
 | Lords of Doom: Part One - The Black God | 170290 | [170290-lords-of-doom-part-one-the-black-god.json](./170290-lords-of-doom-part-one-the-black-god.json) |
 | Lords of EverQuest | 19633 | [19633-lords-of-everquest.json](./19633-lords-of-everquest.json) |
