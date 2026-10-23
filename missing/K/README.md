@@ -3372,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KleptoCats 2: Idle Furry Pets | 243099 | [243099-kleptocats-2-idle-furry-pets.json](./243099-kleptocats-2-idle-furry-pets.json) |
 | KleptoCats Cartoon Network | 243707 | [243707-kleptocats-cartoon-network.json](./243707-kleptocats-cartoon-network.json) |
 | KleptoCorns | 192105 | [192105-kleptocorns.json](./192105-kleptocorns.json) |
+| Kleptocrat | 70819 | [70819-kleptocrat.json](./70819-kleptocrat.json) |
 | KleptoDogs | 105792 | [105792-kleptodogs.json](./105792-kleptodogs.json) |
 | Kleptomaniacs | 348807 | [348807-kleptomaniacs.json](./348807-kleptomaniacs.json) |
 | Kleptonaut | 184261 | [184261-kleptonaut.json](./184261-kleptonaut.json) |
