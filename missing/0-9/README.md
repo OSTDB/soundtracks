@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cute Dogs: Find & Paint | 316961 | [316961-101-cute-dogs-find-and-paint.json](./316961-101-cute-dogs-find-and-paint.json) |
 | 101 Cute Playland Dogs: Find & Paint | 320328 | [320328-101-cute-playland-dogs-find-and-paint.json](./320328-101-cute-playland-dogs-find-and-paint.json) |
 | 101 Dalmatians | 200492 | [200492-101-dalmatians.json](./200492-101-dalmatians.json) |
+| 101 Dalmatians: Escape from DeVil Manor | 47015 | [47015-101-dalmatians-escape-from-devil-manor.json](./47015-101-dalmatians-escape-from-devil-manor.json) |
 | 101 Dogs Hidden in Amsterdam | 369993 | [369993-101-dogs-hidden-in-amsterdam.json](./369993-101-dogs-hidden-in-amsterdam.json) |
 | 101 Dogs Hidden in Australia | 382346 | [382346-101-dogs-hidden-in-australia.json](./382346-101-dogs-hidden-in-australia.json) |
 | 101 Dogs Hidden in Bangkok | 407530 | [407530-101-dogs-hidden-in-bangkok.json](./407530-101-dogs-hidden-in-bangkok.json) |
@@ -1808,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Fantasy Zone II W | 86818 | [86818-3d-fantasy-zone-ii-w.json](./86818-3d-fantasy-zone-ii-w.json) |
 | 3D Fast & Furious | 410226 | [410226-3d-fast-and-furious.json](./410226-3d-fast-and-furious.json) |
 | 3D Football | 243754 | [243754-3d-football.json](./243754-3d-football.json) |
+| 3D Frog Frenzy | 47046 | [47046-3d-frog-frenzy.json](./47046-3d-frog-frenzy.json) |
 | 3D Game Collection | 84663 | [84663-3d-game-collection.json](./84663-3d-game-collection.json) |
 | 3D Game Pack | 266189 | [266189-3d-game-pack.json](./266189-3d-game-pack.json) |
 | 3D Gear | 234587 | [234587-3d-gear.json](./234587-3d-gear.json) |
