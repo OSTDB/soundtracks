@@ -10618,6 +10618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mira's Mirage Mirror | 361691 | [361691-miras-mirage-mirror.json](./361691-miras-mirage-mirror.json) |
 | Mira's Tale | 129088 | [129088-miras-tale.json](./129088-miras-tale.json) |
 | Mira's Workshop | 169724 | [169724-miras-workshop.json](./169724-miras-workshop.json) |
+| Miracle Adventure Esparks | 49130 | [49130-miracle-adventure-esparks.json](./49130-miracle-adventure-esparks.json) |
 | Miracle Brave | 405560 | [405560-miracle-brave.json](./405560-miracle-brave.json) |
 | Miracle Casino Paradise | 37926 | [37926-miracle-casino-paradise.json](./37926-miracle-casino-paradise.json) |
 | Miracle Chou Party Plus: Sanae to Tenshi no Gensou Labyrinth | 206955 | [206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json](./206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json) |
