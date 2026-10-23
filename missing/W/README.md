@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Card Game_uvr | 365279 | [365279-war-card-game-uvr.json](./365279-war-card-game-uvr.json) |
 | War Cars Construction Set | 136917 | [136917-war-cars-construction-set.json](./136917-war-cars-construction-set.json) |
 | War Chariots: Royal Legion | 43503 | [43503-war-chariots-royal-legion.json](./43503-war-chariots-royal-legion.json) |
+| War Chess | 93410 | [93410-war-chess.json](./93410-war-chess.json) |
 | War Church | 271805 | [271805-war-church.json](./271805-war-church.json) |
 | War crime | 82815 | [82815-war-crime.json](./82815-war-crime.json) |
 | War Diary | 2620 | [2620-war-diary.json](./2620-war-diary.json) |
