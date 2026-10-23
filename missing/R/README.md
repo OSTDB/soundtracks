@@ -5079,6 +5079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of Roger Rouge | 33516 | [33516-revenge-of-roger-rouge.json](./33516-revenge-of-roger-rouge.json) |
 | Revenge of the 'Gator: Gold | 257393 | [257393-revenge-of-the-gator-gold.json](./257393-revenge-of-the-gator-gold.json) |
 | Revenge of the Apes | 40772 | [40772-revenge-of-the-apes.json](./40772-revenge-of-the-apes.json) |
+| Revenge of the Balloon-Headed Mexican | 66514 | [66514-revenge-of-the-balloon-headed-mexican.json](./66514-revenge-of-the-balloon-headed-mexican.json) |
 | Revenge of the Beefsteak Tomatoes | 22760 | [22760-revenge-of-the-beefsteak-tomatoes.json](./22760-revenge-of-the-beefsteak-tomatoes.json) |
 | Revenge of the Boxer: Moscow Criminality | 176695 | [176695-revenge-of-the-boxer-moscow-criminality.json](./176695-revenge-of-the-boxer-moscow-criminality.json) |
 | Revenge of the C5 | 294402 | [294402-revenge-of-the-c5.json](./294402-revenge-of-the-c5.json) |
@@ -5457,6 +5458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Rewind | 177995 | [177995-rhythm-rewind.json](./177995-rhythm-rewind.json) |
 | Rhythm Road | 180540 | [180540-rhythm-road.json](./180540-rhythm-road.json) |
 | Rhythm Slice | 417971 | [417971-rhythm-slice.json](./417971-rhythm-slice.json) |
+| Rhythm Spirit | 66486 | [66486-rhythm-spirit.json](./66486-rhythm-spirit.json) |
 | Rhythm Stars Climbing | 157196 | [157196-rhythm-stars-climbing.json](./157196-rhythm-stars-climbing.json) |
 | Rhythm Station | 277853 | [277853-rhythm-station.json](./277853-rhythm-station.json) |
 | Rhythm Stones | 223308 | [223308-rhythm-stones.json](./223308-rhythm-stones.json) |
@@ -6911,6 +6913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin Hood: Sherwood Defenders | 330262 | [330262-robin-hood-sherwood-defenders.json](./330262-robin-hood-sherwood-defenders.json) |
 | Robin Hood: Spring of Life | 192616 | [192616-robin-hood-spring-of-life.json](./192616-robin-hood-spring-of-life.json) |
 | Robin Hood: The Legend of Sherwood | 851 | [851-robin-hood-the-legend-of-sherwood.json](./851-robin-hood-the-legend-of-sherwood.json) |
+| Robin Hood: The Return of Richard | 66507 | [66507-robin-hood-the-return-of-richard.json](./66507-robin-hood-the-return-of-richard.json) |
 | Robin Hood: The Siege | 141092 | [141092-robin-hood-the-siege.json](./141092-robin-hood-the-siege.json) |
 | Robin Hood: Winds of Freedom | 161628 | [161628-robin-hood-winds-of-freedom.json](./161628-robin-hood-winds-of-freedom.json) |
 | Robin Hood's Quest | 43558 | [43558-robin-hoods-quest.json](./43558-robin-hoods-quest.json) |
