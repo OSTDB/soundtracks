@@ -1185,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Physics Draw Puzzles | 166677 | [166677-ball-physics-draw-puzzles.json](./166677-ball-physics-draw-puzzles.json) |
 | Ball Physics Draw Puzzles 2 | 187356 | [187356-ball-physics-draw-puzzles-2.json](./187356-ball-physics-draw-puzzles-2.json) |
 | Ball Pit King 3D | 276257 | [276257-ball-pit-king-3d.json](./276257-ball-pit-king-3d.json) |
+| Ball Platformer | 88053 | [88053-ball-platformer.json](./88053-ball-platformer.json) |
 | Ball Points | 304693 | [304693-ball-points.json](./304693-ball-points.json) |
 | Ball Posse | 142090 | [142090-ball-posse.json](./142090-ball-posse.json) |
 | Ball Raider | 14281 | [14281-ball-raider.json](./14281-ball-raider.json) |
@@ -11174,6 +11175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing | 55103 | [55103-boxing.json](./55103-boxing.json) |
 | Boxing | 5663 | [5663-boxing.json](./5663-boxing.json) |
 | Boxing | 78619 | [78619-boxing.json](./78619-boxing.json) |
+| Boxing Apocalypse | 88022 | [88022-boxing-apocalypse.json](./88022-boxing-apocalypse.json) |
 | Boxing Babes: Sexy Fight Hentai Anime Girls | 165016 | [165016-boxing-babes-sexy-fight-hentai-anime-girls.json](./165016-boxing-babes-sexy-fight-hentai-anime-girls.json) |
 | Boxing Bugs | 39412 | [39412-boxing-bugs.json](./39412-boxing-bugs.json) |
 | Boxing Champions | 43425 | [43425-boxing-champions.json](./43425-boxing-champions.json) |
@@ -12847,6 +12849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Zelda Restoration Map 2 | 322561 | [322561-bs-zelda-restoration-map-2.json](./322561-bs-zelda-restoration-map-2.json) |
 | BS-X: Sore ha Namae wo Nusumareta Machi no Monogatari | 38156 | [38156-bs-x-sore-ha-namae-wo-nusumareta-machi-no-monogatari.json](./38156-bs-x-sore-ha-namae-wo-nusumareta-machi-no-monogatari.json) |
 | BS2 | 329932 | [329932-bs2.json](./329932-bs2.json) |
+| BSL Winter Game Challenge | 88048 | [88048-bsl-winter-game-challenge.json](./88048-bsl-winter-game-challenge.json) |
 | BSL Winter Games Challenge | 88283 | [88283-bsl-winter-games-challenge.json](./88283-bsl-winter-games-challenge.json) |
 | BSMP | 394877 | [394877-bsmp.json](./394877-bsmp.json) |
 | BSurfing | 163733 | [163733-bsurfing.json](./163733-bsurfing.json) |
