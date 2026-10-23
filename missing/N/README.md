@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: Secrets Can Kill Remastered | 10582 | [10582-nancy-drew-secrets-can-kill-remastered.json](./10582-nancy-drew-secrets-can-kill-remastered.json) |
 | Nancy Drew: Shadow at the Water's Edge | 10583 | [10583-nancy-drew-shadow-at-the-waters-edge.json](./10583-nancy-drew-shadow-at-the-waters-edge.json) |
 | Nancy Drew: Stay Tuned for Danger | 7622 | [7622-nancy-drew-stay-tuned-for-danger.json](./7622-nancy-drew-stay-tuned-for-danger.json) |
+| Nancy Drew: The Deadly Secret of Olde World Park | 47808 | [47808-nancy-drew-the-deadly-secret-of-olde-world-park.json](./47808-nancy-drew-the-deadly-secret-of-olde-world-park.json) |
 | Nancy Drew: The Final Scene | 7624 | [7624-nancy-drew-the-final-scene.json](./7624-nancy-drew-the-final-scene.json) |
 | Nancy Drew: The Ghost of Thornton Hall | 16451 | [16451-nancy-drew-the-ghost-of-thornton-hall.json](./16451-nancy-drew-the-ghost-of-thornton-hall.json) |
 | Nancy Drew: The Haunted Carousel | 10586 | [10586-nancy-drew-the-haunted-carousel.json](./10586-nancy-drew-the-haunted-carousel.json) |
@@ -2968,10 +2969,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Blitz 2000 | 249126 | [249126-nfl-blitz-2000.json](./249126-nfl-blitz-2000.json) |
 | NFL Blitz 2000 | 4366 | [4366-nfl-blitz-2000.json](./4366-nfl-blitz-2000.json) |
 | NFL Blitz 2000: Gold Edition | 39598 | [39598-nfl-blitz-2000-gold-edition.json](./39598-nfl-blitz-2000-gold-edition.json) |
+| NFL Blitz 2001 | 47752 | [47752-nfl-blitz-2001.json](./47752-nfl-blitz-2001.json) |
 | NFL Blitz 2003 | 248464 | [248464-nfl-blitz-2003.json](./248464-nfl-blitz-2003.json) |
 | NFL Blitz 2003 | 47365 | [47365-nfl-blitz-2003.json](./47365-nfl-blitz-2003.json) |
 | NFL Blitz 99 | 39599 | [39599-nfl-blitz-99.json](./39599-nfl-blitz-99.json) |
 | NFL Blitz Pro | 47337 | [47337-nfl-blitz-pro.json](./47337-nfl-blitz-pro.json) |
+| NFL Blitz: Special Edition | 47757 | [47757-nfl-blitz-special-edition.json](./47757-nfl-blitz-special-edition.json) |
 | NFL Clash | 176689 | [176689-nfl-clash.json](./176689-nfl-clash.json) |
 | NFL Coaches Club Football | 82801 | [82801-nfl-coaches-club-football.json](./82801-nfl-coaches-club-football.json) |
 | NFL Fever 2000 | 68305 | [68305-nfl-fever-2000.json](./68305-nfl-fever-2000.json) |
@@ -3011,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Quarterback Club 96 | 348201 | [348201-nfl-quarterback-club-96.json](./348201-nfl-quarterback-club-96.json) |
 | NFL Quarterback Club 96 | 348206 | [348206-nfl-quarterback-club-96.json](./348206-nfl-quarterback-club-96.json) |
 | NFL Quarterback Club 97 | 20258 | [20258-nfl-quarterback-club-97.json](./20258-nfl-quarterback-club-97.json) |
+| NFL Quarterback Club 99 | 47756 | [47756-nfl-quarterback-club-99.json](./47756-nfl-quarterback-club-99.json) |
 | NFL Retro Bowl '26 | 362065 | [362065-nfl-retro-bowl-26.json](./362065-nfl-retro-bowl-26.json) |
 | NFL Rivals | 249177 | [249177-nfl-rivals.json](./249177-nfl-rivals.json) |
 | NFL Rush Zone | 230392 | [230392-nfl-rush-zone.json](./230392-nfl-rush-zone.json) |
@@ -5906,6 +5910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Reaction | 184502 | [184502-nuclear-reaction.json](./184502-nuclear-reaction.json) |
 | Nuclear Rush | 202404 | [202404-nuclear-rush.json](./202404-nuclear-rush.json) |
 | Nuclear Strike | 51274 | [51274-nuclear-strike.json](./51274-nuclear-strike.json) |
+| Nuclear Strike 64 | 47755 | [47755-nuclear-strike-64.json](./47755-nuclear-strike-64.json) |
 | Nuclear Sub | 231298 | [231298-nuclear-sub.json](./231298-nuclear-sub.json) |
 | Nuclear Submarine inc | 208072 | [208072-nuclear-submarine-inc.json](./208072-nuclear-submarine-inc.json) |
 | Nuclear Throne 3D | 375427 | [375427-nuclear-throne-3d.json](./375427-nuclear-throne-3d.json) |
