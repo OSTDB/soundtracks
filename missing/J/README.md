@@ -2106,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jonny Moseley: Mad Trix | 49336 | [49336-jonny-moseley-mad-trix.json](./49336-jonny-moseley-mad-trix.json) |
 | Jonny Quest in Doctor Zim's Underworld | 67275 | [67275-jonny-quest-in-doctor-zims-underworld.json](./67275-jonny-quest-in-doctor-zims-underworld.json) |
 | Jonny Quest: Curse of the Mayan Warriors | 73546 | [73546-jonny-quest-curse-of-the-mayan-warriors.json](./73546-jonny-quest-curse-of-the-mayan-warriors.json) |
+| Jonny RPG | 79682 | [79682-jonny-rpg.json](./79682-jonny-rpg.json) |
 | Jönssonligan: Går på djupet | 320950 | [320950-jonssonligan-gar-pa-djupet.json](./320950-jonssonligan-gar-pa-djupet.json) |
 | Jönssonligan: Jakten på Mjölner | 320949 | [320949-jonssonligan-jakten-pa-mjolner.json](./320949-jonssonligan-jakten-pa-mjolner.json) |
 | JonTron: Bird vs. Camel | 12201 | [12201-jontron-bird-vs-camel.json](./12201-jontron-bird-vs-camel.json) |
