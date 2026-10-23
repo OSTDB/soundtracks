@@ -2231,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn Patrol | 13235 | [13235-dawn-patrol.json](./13235-dawn-patrol.json) |
 | Dawn Patrol | 13236 | [13236-dawn-patrol.json](./13236-dawn-patrol.json) |
 | Dawn Patrol | 181548 | [181548-dawn-patrol.json](./181548-dawn-patrol.json) |
+| Dawn Pioneer | 57536 | [57536-dawn-pioneer.json](./57536-dawn-pioneer.json) |
 | DAWN: Darkness Awaits Withstand the Night | 333664 | [333664-dawn-darkness-awaits-withstand-the-night.json](./333664-dawn-darkness-awaits-withstand-the-night.json) |
 | Dawn: Instagram Model | 336059 | [336059-dawn-instagram-model.json](./336059-dawn-instagram-model.json) |
 | Dawn's Light 2 | 31176 | [31176-dawns-light-2.json](./31176-dawns-light-2.json) |
@@ -9688,6 +9689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Be Afraid 2 | 287825 | [287825-dont-be-afraid-2.json](./287825-dont-be-afraid-2.json) |
 | Don't Be Greedy | 233522 | [233522-dont-be-greedy.json](./233522-dont-be-greedy.json) |
 | Don't Be Nervous Talking to Girls | 91628 | [91628-dont-be-nervous-talking-to-girls.json](./91628-dont-be-nervous-talking-to-girls.json) |
+| Don't Be Squared | 57458 | [57458-dont-be-squared.json](./57458-dont-be-squared.json) |
 | Don't Beg for Help | 245774 | [245774-dont-beg-for-help.json](./245774-dont-beg-for-help.json) |
 | Don't Blame You | 229809 | [229809-dont-blame-you.json](./229809-dont-blame-you.json) |
 | Don't Bleed | 76949 | [76949-dont-bleed.json](./76949-dont-bleed.json) |
@@ -10772,6 +10774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dots of War | 241051 | [241051-dots-of-war.json](./241051-dots-of-war.json) |
 | Dots on Dash | 89800 | [89800-dots-on-dash.json](./89800-dots-on-dash.json) |
 | Dots Pop : Sexy Hentai Girls | 113012 | [113012-dots-pop-sexy-hentai-girls.json](./113012-dots-pop-sexy-hentai-girls.json) |
+| Dots Tails | 57451 | [57451-dots-tails.json](./57451-dots-tails.json) |
 | Dots: Revamped! | 120099 | [120099-dots-revamped.json](./120099-dots-revamped.json) |
 | Dots! | 171484 | [171484-dots.json](./171484-dots.json) |
 | DotSec | 329579 | [329579-dotsec.json](./329579-dotsec.json) |
