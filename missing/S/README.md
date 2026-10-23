@@ -9591,6 +9591,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SketchParty TV | 98862 | [98862-sketchparty-tv.json](./98862-sketchparty-tv.json) |
 | Sketchy | 54461 | [54461-sketchy.json](./54461-sketchy.json) |
 | Sketchy 2 | 54460 | [54460-sketchy-2.json](./54460-sketchy-2.json) |
+| Sketchy 3 | 54880 | [54880-sketchy-3.json](./54880-sketchy-3.json) |
+| Sketchy 4 | 54881 | [54881-sketchy-4.json](./54881-sketchy-4.json) |
 | Sketchy Arcade | 359619 | [359619-sketchy-arcade.json](./359619-sketchy-arcade.json) |
 | Sketchy Bounce | 65758 | [65758-sketchy-bounce.json](./65758-sketchy-bounce.json) |
 | Sketchy Fables | 152846 | [152846-sketchy-fables.json](./152846-sketchy-fables.json) |
@@ -10159,6 +10161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylanders: Swap Force | 5159 | [5159-skylanders-swap-force.json](./5159-skylanders-swap-force.json) |
 | Skylanders: Trap Team | 256683 | [256683-skylanders-trap-team.json](./256683-skylanders-trap-team.json) |
 | Skylanders: Universe | 304274 | [304274-skylanders-universe.json](./304274-skylanders-universe.json) |
+| Skylands | 54832 | [54832-skylands.json](./54832-skylands.json) |
 | Skylar & Plux: Adventure on Clover Island | 28066 | [28066-skylar-and-plux-adventure-on-clover-island.json](./28066-skylar-and-plux-adventure-on-clover-island.json) |
 | Skylark | 217350 | [217350-skylark.json](./217350-skylark.json) |
 | Skylark 64 | 306066 | [306066-skylark-64.json](./306066-skylark-64.json) |
@@ -10897,6 +10900,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot Trip | 245935 | [245935-slingshot-trip.json](./245935-slingshot-trip.json) |
 | Slingshot: The Bump Challenge | 108470 | [108470-slingshot-the-bump-challenge.json](./108470-slingshot-the-bump-challenge.json) |
 | Slingshottr | 297358 | [297358-slingshottr.json](./297358-slingshottr.json) |
+| SlingSkull Zombies | 54882 | [54882-slingskull-zombies.json](./54882-slingskull-zombies.json) |
+| SlingSkull Zombies 2 | 54883 | [54883-slingskull-zombies-2.json](./54883-slingskull-zombies-2.json) |
 | SlingSkull Zombies: The Dawn | 55665 | [55665-slingskull-zombies-the-dawn.json](./55665-slingskull-zombies-the-dawn.json) |
 | Slingstar | 80640 | [80640-slingstar.json](./80640-slingstar.json) |
 | Slingy Snow | 175168 | [175168-slingy-snow.json](./175168-slingy-snow.json) |
@@ -23026,6 +23031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine Bubble | 319299 | [319299-submarine-bubble.json](./319299-submarine-bubble.json) |
 | Submarine Car Diving Simulator | 95593 | [95593-submarine-car-diving-simulator.json](./95593-submarine-car-diving-simulator.json) |
 | Submarine Commander | 130269 | [130269-submarine-commander.json](./130269-submarine-commander.json) |
+| Submarine Commander | 54796 | [54796-submarine-commander.json](./54796-submarine-commander.json) |
 | Submarine Dash | 56762 | [56762-submarine-dash.json](./56762-submarine-dash.json) |
 | Submarine Fury | 73802 | [73802-submarine-fury.json](./73802-submarine-fury.json) |
 | Submarine Samurai | 183556 | [183556-submarine-samurai.json](./183556-submarine-samurai.json) |
@@ -24667,6 +24673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super G-Man | 73110 | [73110-super-g-man.json](./73110-super-g-man.json) |
 | Super Gahaku | 417571 | [417571-super-gahaku.json](./417571-super-gahaku.json) |
 | Super Galaxy Ball | 219579 | [219579-super-galaxy-ball.json](./219579-super-galaxy-ball.json) |
+| Super Galaxy Boy | 54867 | [54867-super-galaxy-boy.json](./54867-super-galaxy-boy.json) |
 | Super Galaxy Ranger Luna | 327983 | [327983-super-galaxy-ranger-luna.json](./327983-super-galaxy-ranger-luna.json) |
 | Super Galaxy Squadron EX | 17991 | [17991-super-galaxy-squadron-ex.json](./17991-super-galaxy-squadron-ex.json) |
 | Super Galdelic Hour | 43439 | [43439-super-galdelic-hour.json](./43439-super-galdelic-hour.json) |
