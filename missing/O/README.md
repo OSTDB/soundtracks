@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopus | 231723 | [231723-octopus.json](./231723-octopus.json) |
 | Octopus | 287659 | [287659-octopus.json](./287659-octopus.json) |
 | Octopus 21 | 322390 | [322390-octopus-21.json](./322390-octopus-21.json) |
+| Octopus Bar | 63728 | [63728-octopus-bar.json](./63728-octopus-bar.json) |
 | Octopus Evolution | 206733 | [206733-octopus-evolution.json](./206733-octopus-evolution.json) |
 | Octopus Invasion | 395160 | [395160-octopus-invasion.json](./395160-octopus-invasion.json) |
 | Octopus Island | 265513 | [265513-octopus-island.json](./265513-octopus-island.json) |
@@ -2699,6 +2700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operasyon: Pars | 391294 | [391294-operasyon-pars.json](./391294-operasyon-pars.json) |
 | Operate Now: Hospital | 87022 | [87022-operate-now-hospital.json](./87022-operate-now-hospital.json) |
 | Operation | 94216 | [94216-operation.json](./94216-operation.json) |
+| Operation 7 | 64267 | [64267-operation-7.json](./64267-operation-7.json) |
 | Operation Abyss: New Tokyo Legacy | 20021 | [20021-operation-abyss-new-tokyo-legacy.json](./20021-operation-abyss-new-tokyo-legacy.json) |
 | Operation Abyss: New Tokyo Legacy - Launch Edition | 89917 | [89917-operation-abyss-new-tokyo-legacy-launch-edition.json](./89917-operation-abyss-new-tokyo-legacy-launch-edition.json) |
 | Operation Abyss: New Tokyo Legacy - Limited Edition | 89916 | [89916-operation-abyss-new-tokyo-legacy-limited-edition.json](./89916-operation-abyss-new-tokyo-legacy-limited-edition.json) |
@@ -3477,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oscuro Blossom's Glow | 342264 | [342264-oscuro-blossoms-glow.json](./342264-oscuro-blossoms-glow.json) |
 | OSD vs RON | 70377 | [70377-osd-vs-ron.json](./70377-osd-vs-ron.json) |
 | Osekkai na Imouto | 97719 | [97719-osekkai-na-imouto.json](./97719-osekkai-na-imouto.json) |
+| Oses | 63732 | [63732-oses.json](./63732-oses.json) |
 | OSgrid | 64483 | [64483-osgrid.json](./64483-osgrid.json) |
 | Oshaberi King! Komyuryoku Shindan Game | 396441 | [396441-oshaberi-king-komyuryoku-shindan-game.json](./396441-oshaberi-king-komyuryoku-shindan-game.json) |
 | Oshare Beena: o-Mise de Kisekae Make Haircut | 300424 | [300424-oshare-beena-o-mise-de-kisekae-make-haircut.json](./300424-oshare-beena-o-mise-de-kisekae-make-haircut.json) |
