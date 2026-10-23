@@ -3721,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5: Steelbook Edition | 167115 | [167115-persona-5-steelbook-edition.json](./167115-persona-5-steelbook-edition.json) |
 | Persona 5: Swimsuit Set | 409213 | [409213-persona-5-swimsuit-set.json](./409213-persona-5-swimsuit-set.json) |
 | Persona 5: Take Your Heart - Premium Edition | 41866 | [41866-persona-5-take-your-heart-premium-edition.json](./41866-persona-5-take-your-heart-premium-edition.json) |
+| Persona 5: Ultimate Edition | 74879 | [74879-persona-5-ultimate-edition.json](./74879-persona-5-ultimate-edition.json) |
 | Persona 6 | 405088 | [405088-persona-6.json](./405088-persona-6.json) |
 | Persona Ain Soph | 71159 | [71159-persona-ain-soph.json](./71159-persona-ain-soph.json) |
 | Persona Collection | 271123 | [271123-persona-collection.json](./271123-persona-collection.json) |
@@ -12443,6 +12444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Dreamscape | 367272 | [367272-project-dreamscape.json](./367272-project-dreamscape.json) |
 | Project Drift Japan Challenge | 308507 | [308507-project-drift-japan-challenge.json](./308507-project-drift-japan-challenge.json) |
 | Project Druid | 34797 | [34797-project-druid.json](./34797-project-druid.json) |
+| Project Druid | 74853 | [74853-project-druid.json](./74853-project-druid.json) |
 | Project DT | 143098 | [143098-project-dt.json](./143098-project-dt.json) |
 | Project Dukkha | 343942 | [343942-project-dukkha.json](./343942-project-dukkha.json) |
 | Project Dunk | 122328 | [122328-project-dunk.json](./122328-project-dunk.json) |
