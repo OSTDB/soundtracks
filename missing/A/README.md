@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night Before the Deadline | 145625 | [145625-a-night-before-the-deadline.json](./145625-a-night-before-the-deadline.json) |
 | A Night Duty | 322452 | [322452-a-night-duty.json](./322452-a-night-duty.json) |
 | A Night In Berlin | 138472 | [138472-a-night-in-berlin.json](./138472-a-night-in-berlin.json) |
+| A Night in Crazytown | 58084 | [58084-a-night-in-crazytown.json](./58084-a-night-in-crazytown.json) |
 | A Night In Kyosaka | 154086 | [154086-a-night-in-kyosaka.json](./154086-a-night-in-kyosaka.json) |
 | A Night in Omar's Burger | 249928 | [249928-a-night-in-omars-burger.json](./249928-a-night-in-omars-burger.json) |
 | A Night in Prison | 258896 | [258896-a-night-in-prison.json](./258896-a-night-in-prison.json) |
@@ -695,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night On The Farm | 266431 | [266431-a-night-on-the-farm.json](./266431-a-night-on-the-farm.json) |
 | A Night Out | 183927 | [183927-a-night-out.json](./183927-a-night-out.json) |
 | A Night Out. | 334702 | [334702-a-night-out.json](./334702-a-night-out.json) |
+| A Night That Wouldn't End | 58082 | [58082-a-night-that-wouldnt-end.json](./58082-a-night-that-wouldnt-end.json) |
 | A Night Train to the Forest Zone | 138054 | [138054-a-night-train-to-the-forest-zone.json](./138054-a-night-train-to-the-forest-zone.json) |
 | A Night Walk | 176236 | [176236-a-night-walk.json](./176236-a-night-walk.json) |
 | A Night Was Had on the Town | 178944 | [178944-a-night-was-had-on-the-town.json](./178944-a-night-was-had-on-the-town.json) |
@@ -797,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Quiet Air | 229561 | [229561-a-quiet-air.json](./229561-a-quiet-air.json) |
 | A Quiet Mind | 100669 | [100669-a-quiet-mind.json](./100669-a-quiet-mind.json) |
 | A Quiet Place: The Road Ahead | 294453 | [294453-a-quiet-place-the-road-ahead.json](./294453-a-quiet-place-the-road-ahead.json) |
+| A Rabbit Fable | 58087 | [58087-a-rabbit-fable.json](./58087-a-rabbit-fable.json) |
 | A Ragdoll Rage Game | 364048 | [364048-a-ragdoll-rage-game.json](./364048-a-ragdoll-rage-game.json) |
 | A Rally of Trust | 337698 | [337698-a-rally-of-trust.json](./337698-a-rally-of-trust.json) |
 | A Random Maze | 150481 | [150481-a-random-maze.json](./150481-a-random-maze.json) |
@@ -900,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Slower Speed of Light | 18122 | [18122-a-slower-speed-of-light.json](./18122-a-slower-speed-of-light.json) |
 | A Slug's Dream | 238589 | [238589-a-slugs-dream.json](./238589-a-slugs-dream.json) |
 | A Small Encounter | 350624 | [350624-a-small-encounter.json](./350624-a-small-encounter.json) |
+| A Small Favor | 58012 | [58012-a-small-favor.json](./58012-a-small-favor.json) |
 | A Small Journey | 228998 | [228998-a-small-journey.json](./228998-a-small-journey.json) |
 | A Small Talk at the Back of Beyond | 123478 | [123478-a-small-talk-at-the-back-of-beyond.json](./123478-a-small-talk-at-the-back-of-beyond.json) |
 | A Smattering of Songs | 315627 | [315627-a-smattering-of-songs.json](./315627-a-smattering-of-songs.json) |
@@ -980,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Caos: Overture | 32116 | [32116-a-tale-of-caos-overture.json](./32116-a-tale-of-caos-overture.json) |
 | A Tale of Caos: Overture - Act II | 170821 | [170821-a-tale-of-caos-overture-act-ii.json](./170821-a-tale-of-caos-overture-act-ii.json) |
 | A Tale of Caos: Overture - Act III | 170820 | [170820-a-tale-of-caos-overture-act-iii.json](./170820-a-tale-of-caos-overture-act-iii.json) |
+| A Tale of Caos: Prelude | 58086 | [58086-a-tale-of-caos-prelude.json](./58086-a-tale-of-caos-prelude.json) |
 | A Tale of Dirty Whiskers | 353795 | [353795-a-tale-of-dirty-whiskers.json](./353795-a-tale-of-dirty-whiskers.json) |
 | A Tale of Misery | 348913 | [348913-a-tale-of-misery.json](./348913-a-tale-of-misery.json) |
 | A Tale of Paper | 102803 | [102803-a-tale-of-paper.json](./102803-a-tale-of-paper.json) |
@@ -1041,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Total War Saga: Troy - Rhesus & Memnon | 196061 | [196061-a-total-war-saga-troy-rhesus-and-memnon.json](./196061-a-total-war-saga-troy-rhesus-and-memnon.json) |
 | A Totally Realistic Stealth Game | 310264 | [310264-a-totally-realistic-stealth-game.json](./310264-a-totally-realistic-stealth-game.json) |
 | A Touch of Magic | 273966 | [273966-a-touch-of-magic.json](./273966-a-touch-of-magic.json) |
+| A Tough Sell | 58083 | [58083-a-tough-sell.json](./58083-a-tough-sell.json) |
 | A Tower | 338718 | [338718-a-tower.json](./338718-a-tower.json) |
 | A Tower Full of Cats | 234411 | [234411-a-tower-full-of-cats.json](./234411-a-tower-full-of-cats.json) |
 | A Town Called Happenstance | 211084 | [211084-a-town-called-happenstance.json](./211084-a-town-called-happenstance.json) |
@@ -1193,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Kei Otaku | 113587 | [113587-a-kei-otaku.json](./113587-a-kei-otaku.json) |
 | A-mazing Ants | 52561 | [52561-a-mazing-ants.json](./52561-a-mazing-ants.json) |
 | A-Men | 8623 | [8623-a-men.json](./8623-a-men.json) |
+| A-Mused | 58085 | [58085-a-mused.json](./58085-a-mused.json) |
 | A-Rabbit | 337053 | [337053-a-rabbit.json](./337053-a-rabbit.json) |
 | A-Rank Thunder Tanjouhen | 5355 | [5355-a-rank-thunder-tanjouhen.json](./5355-a-rank-thunder-tanjouhen.json) |
 | A-Red Walking Robot | 276712 | [276712-a-red-walking-robot.json](./276712-a-red-walking-robot.json) |
@@ -1366,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aatral Origins | 346238 | [346238-aatral-origins.json](./346238-aatral-origins.json) |
 | Aatrox's Journey to be Reverted | 177322 | [177322-aatroxs-journey-to-be-reverted.json](./177322-aatroxs-journey-to-be-reverted.json) |
 | Aavegotchi: Gotchiverse | 195528 | [195528-aavegotchi-gotchiverse.json](./195528-aavegotchi-gotchiverse.json) |
+| Aazor: The Life of a Demon - Part I: The Beginning | 58081 | [58081-aazor-the-life-of-a-demon-part-i-the-beginning.json](./58081-aazor-the-life-of-a-demon-part-i-the-beginning.json) |
 | Ab Aeterno | 193291 | [193291-ab-aeterno.json](./193291-ab-aeterno.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
 | Abacus Finch | 143967 | [143967-abacus-finch.json](./143967-abacus-finch.json) |
@@ -2896,7 +2904,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3976,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikagi 3 | 220346 | [220346-aikagi-3.json](./220346-aikagi-3.json) |
 | Aikagi After Days | 127935 | [127935-aikagi-after-days.json](./127935-aikagi-after-days.json) |
 | Aikagi with After Days | 127937 | [127937-aikagi-with-after-days.json](./127937-aikagi-with-after-days.json) |
+| Aikagi: Hidamari to Kanojo no Heyagi | 58098 | [58098-aikagi-hidamari-to-kanojo-no-heyagi.json](./58098-aikagi-hidamari-to-kanojo-no-heyagi.json) |
 | Aikagi: Kimi to Issho ni Pack | 127938 | [127938-aikagi-kimi-to-issho-ni-pack.json](./127938-aikagi-kimi-to-issho-ni-pack.json) |
 | Aikano: Yukizora no Triangle - Premium Limited Edition | 166992 | [166992-aikano-yukizora-no-triangle-premium-limited-edition.json](./166992-aikano-yukizora-no-triangle-premium-limited-edition.json) |
 | Aikatsu On Parade! | 320311 | [320311-aikatsu-on-parade.json](./320311-aikatsu-on-parade.json) |
@@ -6751,6 +6759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AmeriDarts | 63634 | [63634-ameridarts.json](./63634-ameridarts.json) |
 | Ameroth RPG | 411071 | [411071-ameroth-rpg.json](./411071-ameroth-rpg.json) |
 | Amerta | 303332 | [303332-amerta.json](./303332-amerta.json) |
+| Amertis | 58021 | [58021-amertis.json](./58021-amertis.json) |
 | Amerzone: The Explorer's Legacy | 11091 | [11091-amerzone-the-explorers-legacy.json](./11091-amerzone-the-explorers-legacy.json) |
 | Amerzone: The Explorer's Legacy - Limited Edition | 292145 | [292145-amerzone-the-explorers-legacy-limited-edition.json](./292145-amerzone-the-explorers-legacy-limited-edition.json) |
 | Ameshidama | 361918 | [361918-ameshidama.json](./361918-ameshidama.json) |
@@ -7111,6 +7120,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anastasia | 208394 | [208394-anastasia.json](./208394-anastasia.json) |
 | Anastasia to 7-nin no Himegami: Inmon no Rakuin | 108978 | [108978-anastasia-to-7-nin-no-himegami-inmon-no-rakuin.json](./108978-anastasia-to-7-nin-no-himegami-inmon-no-rakuin.json) |
 | Anastasia: Adventures with Pooka and Bartok | 69561 | [69561-anastasia-adventures-with-pooka-and-bartok.json](./69561-anastasia-adventures-with-pooka-and-bartok.json) |
+| Anastronaut II: The Dark Side | 58019 | [58019-anastronaut-ii-the-dark-side.json](./58019-anastronaut-ii-the-dark-side.json) |
+| Anastronaut: The Moon Hopper | 58020 | [58020-anastronaut-the-moon-hopper.json](./58020-anastronaut-the-moon-hopper.json) |
 | Anata dake no Private Lesson: DS de Hajimeru Tipness no Yoga | 269550 | [269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json](./269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json) |
 | Anata no Shiranai Kangofu: Seiteki Byoutou 24 Ji | 77922 | [77922-anata-no-shiranai-kangofu-seiteki-byoutou-24-ji.json](./77922-anata-no-shiranai-kangofu-seiteki-byoutou-24-ji.json) |
 | Anata o Yurusanai | 59396 | [59396-anata-o-yurusanai.json](./59396-anata-o-yurusanai.json) |
@@ -7150,6 +7161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Adventure | 406222 | [406222-ancient-adventure.json](./406222-ancient-adventure.json) |
 | Ancient Adventures | 205841 | [205841-ancient-adventures.json](./205841-ancient-adventures.json) |
 | Ancient Aliens | 136707 | [136707-ancient-aliens.json](./136707-ancient-aliens.json) |
+| Ancient Aliens: Chapter 1 - The Roots of Sound | 58017 | [58017-ancient-aliens-chapter-1-the-roots-of-sound.json](./58017-ancient-aliens-chapter-1-the-roots-of-sound.json) |
 | Ancient Aliens: The Game | 211402 | [211402-ancient-aliens-the-game.json](./211402-ancient-aliens-the-game.json) |
 | Ancient Allies Tower Defense | 233452 | [233452-ancient-allies-tower-defense.json](./233452-ancient-allies-tower-defense.json) |
 | Ancient Anathema | 114098 | [114098-ancient-anathema.json](./114098-ancient-anathema.json) |
@@ -7237,6 +7249,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Savo | 303161 | [303161-ancient-savo.json](./303161-ancient-savo.json) |
 | Ancient Scroll | 303162 | [303162-ancient-scroll.json](./303162-ancient-scroll.json) |
 | Ancient Secret | 359748 | [359748-ancient-secret.json](./359748-ancient-secret.json) |
+| Ancient Secrets: Mystery of the Vanishing Bride | 58018 | [58018-ancient-secrets-mystery-of-the-vanishing-bride.json](./58018-ancient-secrets-mystery-of-the-vanishing-bride.json) |
+| Ancient Secrets: Quest for the Golden Key | 58016 | [58016-ancient-secrets-quest-for-the-golden-key.json](./58016-ancient-secrets-quest-for-the-golden-key.json) |
 | Ancient Secrets: Voyage in Time | 202057 | [202057-ancient-secrets-voyage-in-time.json](./202057-ancient-secrets-voyage-in-time.json) |
 | Ancient Shadows: Awakening | 351121 | [351121-ancient-shadows-awakening.json](./351121-ancient-shadows-awakening.json) |
 | Ancient Siberia | 68471 | [68471-ancient-siberia.json](./68471-ancient-siberia.json) |
@@ -8123,6 +8137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animentals | 387361 | [387361-animentals.json](./387361-animentals.json) |
 | Animesports: Party Basketball! | 348431 | [348431-animesports-party-basketball.json](./348431-animesports-party-basketball.json) |
 | Animetic Story Game 1: Cardcaptor Sakura | 132867 | [132867-animetic-story-game-1-cardcaptor-sakura.json](./132867-animetic-story-game-1-cardcaptor-sakura.json) |
+| Animism: The Book of the Emissaries | 58015 | [58015-animism-the-book-of-the-emissaries.json](./58015-animism-the-book-of-the-emissaries.json) |
 | Animo Stars Arena | 243064 | [243064-animo-stars-arena.json](./243064-animo-stars-arena.json) |
 | Animorphs: Know the Secret | 68723 | [68723-animorphs-know-the-secret.json](./68723-animorphs-know-the-secret.json) |
 | Animorphs: Shattered Reality | 43927 | [43927-animorphs-shattered-reality.json](./43927-animorphs-shattered-reality.json) |
@@ -8481,6 +8496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Sight | 186835 | [186835-another-sight.json](./186835-another-sight.json) |
 | Another Sight | 90146 | [90146-another-sight.json](./90146-another-sight.json) |
 | Another Sight: Hodge's Journey | 111691 | [111691-another-sight-hodges-journey.json](./111691-another-sight-hodges-journey.json) |
+| Another Small Favor... | 58011 | [58011-another-small-favor.json](./58011-another-small-favor.json) |
 | Another Sonic 2 Remake | 299015 | [299015-another-sonic-2-remake.json](./299015-another-sonic-2-remake.json) |
 | Another Space Opera: Episode 1 - The Wake of The Giant | 216469 | [216469-another-space-opera-episode-1-the-wake-of-the-giant.json](./216469-another-space-opera-episode-1-the-wake-of-the-giant.json) |
 | Another Summer | 420474 | [420474-another-summer.json](./420474-another-summer.json) |
@@ -8629,6 +8645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthology of Fear | 120686 | [120686-anthology-of-fear.json](./120686-anthology-of-fear.json) |
 | Anthology of the Killer | 268731 | [268731-anthology-of-the-killer.json](./268731-anthology-of-the-killer.json) |
 | Antholojam 1: Golden Era of Sci-Fi | 141781 | [141781-antholojam-1-golden-era-of-sci-fi.json](./141781-antholojam-1-golden-era-of-sci-fi.json) |
+| Anthony's Essay | 58009 | [58009-anthonys-essay.json](./58009-anthonys-essay.json) |
 | Anthro Heat | 236405 | [236405-anthro-heat.json](./236405-anthro-heat.json) |
 | Anthropocene Epoch | 186806 | [186806-anthropocene-epoch.json](./186806-anthropocene-epoch.json) |
 | Anthropoda Power Fantasy | 330034 | [330034-anthropoda-power-fantasy.json](./330034-anthropoda-power-fantasy.json) |
@@ -8643,6 +8660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti Terrorist Shooting Game | 400654 | [400654-anti-terrorist-shooting-game.json](./400654-anti-terrorist-shooting-game.json) |
 | Anti V Reboot | 357805 | [357805-anti-v-reboot.json](./357805-anti-v-reboot.json) |
 | Anti-Ballistic-Missile | 145245 | [145245-anti-ballistic-missile.json](./145245-anti-ballistic-missile.json) |
+| Anti-Cast | 58010 | [58010-anti-cast.json](./58010-anti-cast.json) |
 | Anti-Demon Stormedge Sakuya | 82621 | [82621-anti-demon-stormedge-sakuya.json](./82621-anti-demon-stormedge-sakuya.json) |
 | Anti-Goodness Dept. | 176787 | [176787-anti-goodness-dept.json](./176787-anti-goodness-dept.json) |
 | Anti-Grav | 114325 | [114325-anti-grav.json](./114325-anti-grav.json) |
@@ -9341,6 +9359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquanaut | 83910 | [83910-aquanaut.json](./83910-aquanaut.json) |
 | Aquanaut's Holiday | 20589 | [20589-aquanauts-holiday.json](./20589-aquanauts-holiday.json) |
 | Aquanaut's Holiday: Hidden Memories | 7271 | [7271-aquanauts-holiday-hidden-memories.json](./7271-aquanauts-holiday-hidden-memories.json) |
+| Aquanaute | 58014 | [58014-aquanaute.json](./58014-aquanaute.json) |
 | AquaNautic: Underwater Submarine Simulator | 185339 | [185339-aquanautic-underwater-submarine-simulator.json](./185339-aquanautic-underwater-submarine-simulator.json) |
 | Aquanima | 357313 | [357313-aquanima.json](./357313-aquanima.json) |
 | AquaNimble | 32167 | [32167-aquanimble.json](./32167-aquanimble.json) |
@@ -9477,6 +9496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arachnowopunk | 153787 | [153787-arachnowopunk.json](./153787-arachnowopunk.json) |
 | Aracnidium | 193462 | [193462-aracnidium.json](./193462-aracnidium.json) |
 | Aracore Astromining Ventures | 337661 | [337661-aracore-astromining-ventures.json](./337661-aracore-astromining-ventures.json) |
+| Aractaur | 58008 | [58008-aractaur.json](./58008-aractaur.json) |
 | Aradena: Battlegrounds | 266121 | [266121-aradena-battlegrounds.json](./266121-aradena-battlegrounds.json) |
 | Arae: Requiem of a Lonely Spirit | 133784 | [133784-arae-requiem-of-a-lonely-spirit.json](./133784-arae-requiem-of-a-lonely-spirit.json) |
 | Arafinn Kontor | 203850 | [203850-arafinn-kontor.json](./203850-arafinn-kontor.json) |
@@ -10427,6 +10447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardein.Fall | 139682 | [139682-ardein-fall.json](./139682-ardein-fall.json) |
 | Ardem | 260389 | [260389-ardem.json](./260389-ardem.json) |
 | Arden: The World of William Shakespeare | 210828 | [210828-arden-the-world-of-william-shakespeare.json](./210828-arden-the-world-of-william-shakespeare.json) |
+| Arden's Vale | 58007 | [58007-ardens-vale.json](./58007-ardens-vale.json) |
 | Arden's Wake | 158637 | [158637-ardens-wake.json](./158637-ardens-wake.json) |
 | Ardena | 369769 | [369769-ardena.json](./369769-ardena.json) |
 | Ardency: Heart of the Rebellion | 297788 | [297788-ardency-heart-of-the-rebellion.json](./297788-ardency-heart-of-the-rebellion.json) |
@@ -12757,6 +12778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asva the Monkey HD | 175558 | [175558-asva-the-monkey-hd.json](./175558-asva-the-monkey-hd.json) |
 | Asvara | 375517 | [375517-asvara.json](./375517-asvara.json) |
 | Aswang Detective: The Case of New York | 236326 | [236326-aswang-detective-the-case-of-new-york.json](./236326-aswang-detective-the-case-of-new-york.json) |
+| Aswin's Dream | 58004 | [58004-aswins-dream.json](./58004-aswins-dream.json) |
 | Asy przestworzy | 204728 | [204728-asy-przestworzy.json](./204728-asy-przestworzy.json) |
 | Asylamba : Influence | 99154 | [99154-asylamba-influence.json](./99154-asylamba-influence.json) |
 | Asylum | 13807 | [13807-asylum.json](./13807-asylum.json) |
@@ -13549,6 +13571,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora | 171522 | [171522-aurora.json](./171522-aurora.json) |
 | Aurora | 387688 | [387688-aurora.json](./387688-aurora.json) |
 | Aurora | 392730 | [392730-aurora.json](./392730-aurora.json) |
+| Aurora | 58002 | [58002-aurora.json](./58002-aurora.json) |
+| Aurora 2 | 58001 | [58001-aurora-2.json](./58001-aurora-2.json) |
 | Aurora 4x | 60045 | [60045-aurora-4x.json](./60045-aurora-4x.json) |
 | Aurora Adventure: A Space Academy Tale | 260295 | [260295-aurora-adventure-a-space-academy-tale.json](./260295-aurora-adventure-a-space-academy-tale.json) |
 | Aurora Chronicles | 217228 | [217228-aurora-chronicles.json](./217228-aurora-chronicles.json) |
@@ -14122,10 +14146,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakening the Charge | 349819 | [349819-awakening-the-charge.json](./349819-awakening-the-charge.json) |
 | Awakening the Light | 158553 | [158553-awakening-the-light.json](./158553-awakening-the-light.json) |
 | Awakening: The Dreamless Castle | 66087 | [66087-awakening-the-dreamless-castle.json](./66087-awakening-the-dreamless-castle.json) |
+| Awakening: The Golden Age | 58000 | [58000-awakening-the-golden-age.json](./58000-awakening-the-golden-age.json) |
 | Awakening: The Golden Age - Collector's Edition | 29615 | [29615-awakening-the-golden-age-collectors-edition.json](./29615-awakening-the-golden-age-collectors-edition.json) |
+| Awakening: The Redleaf Forest | 57998 | [57998-awakening-the-redleaf-forest.json](./57998-awakening-the-redleaf-forest.json) |
 | Awakening: The Redleaf Forest & Awakening: The Golden Age | 201814 | [201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json](./201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json) |
 | Awakening: The Skyward Castle | 63287 | [63287-awakening-the-skyward-castle.json](./63287-awakening-the-skyward-castle.json) |
 | Awakening: The Skyward Castle - Collector's Edition | 89942 | [89942-awakening-the-skyward-castle-collectors-edition.json](./89942-awakening-the-skyward-castle-collectors-edition.json) |
+| Awakening: The Sunhook Spire | 57999 | [57999-awakening-the-sunhook-spire.json](./57999-awakening-the-sunhook-spire.json) |
 | Awakening: The Sunhook Spire - Collector's Edition | 32777 | [32777-awakening-the-sunhook-spire-collectors-edition.json](./32777-awakening-the-sunhook-spire-collectors-edition.json) |
 | Awaking Beauty | 351791 | [351791-awaking-beauty.json](./351791-awaking-beauty.json) |
 | Awankening. | 397083 | [397083-awankening.json](./397083-awankening.json) |
