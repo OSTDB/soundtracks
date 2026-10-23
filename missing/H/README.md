@@ -4979,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herotome | 364377 | [364377-herotome.json](./364377-herotome.json) |
 | HeroVersus | 239750 | [239750-heroversus.json](./239750-heroversus.json) |
 | HeroVersus: The Legend of Ki Masters | 113622 | [113622-heroversus-the-legend-of-ki-masters.json](./113622-heroversus-the-legend-of-ki-masters.json) |
+| HeroWarz | 62524 | [62524-herowarz.json](./62524-herowarz.json) |
 | HeroxTrio | 183027 | [183027-heroxtrio.json](./183027-heroxtrio.json) |
 | Herpit | 385749 | [385749-herpit.json](./385749-herpit.json) |
 | HerrAnwalt: Lawyers Legacy | 224233 | [224233-herranwalt-lawyers-legacy.json](./224233-herranwalt-lawyers-legacy.json) |
