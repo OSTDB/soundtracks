@@ -2560,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo!: Pirate Ghost of the Barbary Coast | 137540 | [137540-scooby-doo-pirate-ghost-of-the-barbary-coast.json](./137540-scooby-doo-pirate-ghost-of-the-barbary-coast.json) |
 | Scooby-Doo!: Zombie Hunter | 403002 | [403002-scooby-doo-zombie-hunter.json](./403002-scooby-doo-zombie-hunter.json) |
 | ScooMart | 265765 | [265765-scoomart.json](./265765-scoomart.json) |
+| Scoop Da Poop | 70812 | [70812-scoop-da-poop.json](./70812-scoop-da-poop.json) |
 | Scoop it! Goldfish | 308500 | [308500-scoop-it-goldfish.json](./308500-scoop-it-goldfish.json) |
 | Scoop Kick! | 190175 | [190175-scoop-kick.json](./190175-scoop-kick.json) |
 | Scoop: Excavator | 200024 | [200024-scoop-excavator.json](./200024-scoop-excavator.json) |
@@ -6233,6 +6234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelter 2: Special Edition | 51911 | [51911-shelter-2-special-edition.json](./51911-shelter-2-special-edition.json) |
 | Shelter 3 | 116905 | [116905-shelter-3.json](./116905-shelter-3.json) |
 | Shelter from the Storm | 340377 | [340377-shelter-from-the-storm.json](./340377-shelter-from-the-storm.json) |
+| Shelter Generations | 70806 | [70806-shelter-generations.json](./70806-shelter-generations.json) |
 | Shelter in Place | 126537 | [126537-shelter-in-place.json](./126537-shelter-in-place.json) |
 | Shelter Manager | 133219 | [133219-shelter-manager.json](./133219-shelter-manager.json) |
 | Shelter of Exiles | 276821 | [276821-shelter-of-exiles.json](./276821-shelter-of-exiles.json) |
@@ -7494,6 +7496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showa Candy Shop 2 | 90380 | [90380-showa-candy-shop-2.json](./90380-showa-candy-shop-2.json) |
 | Showbiz Tycoon | 189069 | [189069-showbiz-tycoon.json](./189069-showbiz-tycoon.json) |
 | Showcar Simulator: German Lowriders | 59341 | [59341-showcar-simulator-german-lowriders.json](./59341-showcar-simulator-german-lowriders.json) |
+| Showdown | 70804 | [70804-showdown.json](./70804-showdown.json) |
 | Showdown 64 | 256674 | [256674-showdown-64.json](./256674-showdown-64.json) |
 | Showdown Adventure | 31750 | [31750-showdown-adventure.json](./31750-showdown-adventure.json) |
 | Showdown at Willow Creek | 83599 | [83599-showdown-at-willow-creek.json](./83599-showdown-at-willow-creek.json) |
@@ -8430,6 +8433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Falls: Galaxy Bound Curse | 307178 | [307178-silver-falls-galaxy-bound-curse.json](./307178-silver-falls-galaxy-bound-curse.json) |
 | Silver Falls: Ghoul Busters | 208583 | [208583-silver-falls-ghoul-busters.json](./208583-silver-falls-ghoul-busters.json) |
 | Silver Falls: Guardians And Metal Exterminators S | 283722 | [283722-silver-falls-guardians-and-metal-exterminators-s.json](./283722-silver-falls-guardians-and-metal-exterminators-s.json) |
+| Silver Flash: Pinball 1 | 70809 | [70809-silver-flash-pinball-1.json](./70809-silver-flash-pinball-1.json) |
 | Silver Gene: The Mutia Chronicle 1 | 308414 | [308414-silver-gene-the-mutia-chronicle-1.json](./308414-silver-gene-the-mutia-chronicle-1.json) |
 | Silver Ghost | 62581 | [62581-silver-ghost.json](./62581-silver-ghost.json) |
 | Silver Island | 29066 | [29066-silver-island.json](./29066-silver-island.json) |
@@ -9786,6 +9790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skullz | 178551 | [178551-skullz.json](./178551-skullz.json) |
 | Skumring | 90228 | [90228-skumring.json](./90228-skumring.json) |
 | Skunny Kart | 46731 | [46731-skunny-kart.json](./46731-skunny-kart.json) |
+| Skunny: In the Wild West | 70791 | [70791-skunny-in-the-wild-west.json](./70791-skunny-in-the-wild-west.json) |
 | Skunny: Lost in Space | 68705 | [68705-skunny-lost-in-space.json](./68705-skunny-lost-in-space.json) |
 | Skunny: Save Our Pizzas! | 73839 | [73839-skunny-save-our-pizzas.json](./73839-skunny-save-our-pizzas.json) |
 | Skunny: Special Edition | 46732 | [46732-skunny-special-edition.json](./46732-skunny-special-edition.json) |
@@ -14352,6 +14357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerian Additional Scenario Vol. 2: Sengoku Sorcerian | 137432 | [137432-sorcerian-additional-scenario-vol-2-sengoku-sorcerian.json](./137432-sorcerian-additional-scenario-vol-2-sengoku-sorcerian.json) |
 | Sorcerian Additional Scenario Vol. 3: Pyramid Sorcerian | 137360 | [137360-sorcerian-additional-scenario-vol-3-pyramid-sorcerian.json](./137360-sorcerian-additional-scenario-vol-3-pyramid-sorcerian.json) |
 | Sorcerian Online | 230853 | [230853-sorcerian-online.json](./230853-sorcerian-online.json) |
+| Sorcerian Original | 70777 | [70777-sorcerian-original.json](./70777-sorcerian-original.json) |
 | Sorcerian Utility Vol. 1 | 137880 | [137880-sorcerian-utility-vol-1.json](./137880-sorcerian-utility-vol-1.json) |
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
 | Sorcero | 308035 | [308035-sorcero.json](./308035-sorcero.json) |
@@ -20688,6 +20694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steezelpunk | 391722 | [391722-steezelpunk.json](./391722-steezelpunk.json) |
 | Stefanos Sizzilin Pizza Pie | 103481 | [103481-stefanos-sizzilin-pizza-pie.json](./103481-stefanos-sizzilin-pizza-pie.json) |
 | Stefanos Sizzlin Pizza Pie | 180042 | [180042-stefanos-sizzlin-pizza-pie.json](./180042-stefanos-sizzlin-pizza-pie.json) |
+| Steg the Slug | 70790 | [70790-steg-the-slug.json](./70790-steg-the-slug.json) |
 | Stegosaurs | 185028 | [185028-stegosaurs.json](./185028-stegosaurs.json) |
 | Steigar | 315598 | [315598-steigar.json](./315598-steigar.json) |
 | Steigenberger Hotelmanager | 94947 | [94947-steigenberger-hotelmanager.json](./94947-steigenberger-hotelmanager.json) |
@@ -21702,6 +21709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Brigade: The Thrice Damned 3 - Great Pyramid of Bes | 141059 | [141059-strange-brigade-the-thrice-damned-3-great-pyramid-of-bes.json](./141059-strange-brigade-the-thrice-damned-3-great-pyramid-of-bes.json) |
 | Strange Case: The Alchemist | 188293 | [188293-strange-case-the-alchemist.json](./188293-strange-case-the-alchemist.json) |
 | Strange Day | 365881 | [365881-strange-day.json](./365881-strange-day.json) |
+| Strange Days | 70810 | [70810-strange-days.json](./70810-strange-days.json) |
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
 | Strange Horizons | 384499 | [384499-strange-horizons.json](./384499-strange-horizons.json) |
 | Strange Horticulture | 186597 | [186597-strange-horticulture.json](./186597-strange-horticulture.json) |
