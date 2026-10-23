@@ -3931,6 +3931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Transport | 329388 | [329388-global-transport.json](./329388-global-transport.json) |
 | Global War | 79605 | [79605-global-war.json](./79605-global-war.json) |
 | Globalization | 370419 | [370419-globalization.json](./370419-globalization.json) |
+| GloBall | 91703 | [91703-globall.json](./91703-globall.json) |
 | GlobalMap Astro | 103944 | [103944-globalmap-astro.json](./103944-globalmap-astro.json) |
 | Globat Pixels | 115676 | [115676-globat-pixels.json](./115676-globat-pixels.json) |
 | Globber | 418528 | [418528-globber.json](./418528-globber.json) |
@@ -6224,6 +6225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Rome | 193441 | [193441-grand-theft-rome.json](./193441-grand-theft-rome.json) |
 | Grand Theft Timeline | 410456 | [410456-grand-theft-timeline.json](./410456-grand-theft-timeline.json) |
 | Grand Tits Adventure | 366233 | [366233-grand-tits-adventure.json](./366233-grand-tits-adventure.json) |
+| Grand Tour Racing '99 | 91686 | [91686-grand-tour-racing-99.json](./91686-grand-tour-racing-99.json) |
 | Grand Tour Racing: GT-R 400 | 60888 | [60888-grand-tour-racing-gt-r-400.json](./60888-grand-tour-racing-gt-r-400.json) |
 | Grand Touring | 93440 | [93440-grand-touring.json](./93440-grand-touring.json) |
 | Grand Trucker Aniki: Shigoto to Kenka to Koimoyou | 133781 | [133781-grand-trucker-aniki-shigoto-to-kenka-to-koimoyou.json](./133781-grand-trucker-aniki-shigoto-to-kenka-to-koimoyou.json) |
@@ -7627,6 +7629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Runner: Trials | 82467 | [82467-ground-runner-trials.json](./82467-ground-runner-trials.json) |
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
 | Ground War | 127606 | [127606-ground-war.json](./127606-ground-war.json) |
+| Ground Wave | 91687 | [91687-ground-wave.json](./91687-ground-wave.json) |
 | Ground Zero | 249174 | [249174-ground-zero.json](./249174-ground-zero.json) |
 | Ground Zero | 298803 | [298803-ground-zero.json](./298803-ground-zero.json) |
 | Ground Zero: Genesis of a New World | 66552 | [66552-ground-zero-genesis-of-a-new-world.json](./66552-ground-zero-genesis-of-a-new-world.json) |
@@ -8500,6 +8503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunfighter | 347675 | [347675-gunfighter.json](./347675-gunfighter.json) |
 | Gunfighter | 95448 | [95448-gunfighter.json](./95448-gunfighter.json) |
 | Gunfighter II: Revenge of Jesse James | 43531 | [43531-gunfighter-ii-revenge-of-jesse-james.json](./43531-gunfighter-ii-revenge-of-jesse-james.json) |
+| Gunfighter/Moonship Battle | 91818 | [91818-gunfighter-moonship-battle.json](./91818-gunfighter-moonship-battle.json) |
 | Gunfighters | 177263 | [177263-gunfighters.json](./177263-gunfighters.json) |
 | Gunfire Reborn | 134483 | [134483-gunfire-reborn.json](./134483-gunfire-reborn.json) |
 | Gunfire Reborn: Artisan and Magician | 270764 | [270764-gunfire-reborn-artisan-and-magician.json](./270764-gunfire-reborn-artisan-and-magician.json) |
