@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.N.A.: Dark Native Apostle | 56134 | [56134-d-n-a-dark-native-apostle.json](./56134-d-n-a-dark-native-apostle.json) |
 | D.N.Age | 32179 | [32179-d-n-age.json](./32179-d-n-age.json) |
 | D.O.A.S.: Department of Applied Science | 184601 | [184601-d-o-a-s-department-of-applied-science.json](./184601-d-o-a-s-department-of-applied-science.json) |
+| D.O.G: Fight For Your Life | 70203 | [70203-d-o-g-fight-for-your-life.json](./70203-d-o-g-fight-for-your-life.json) |
 | D.O.R.F. Real-Time Strategic Conflict | 247998 | [247998-d-o-r-f-real-time-strategic-conflict.json](./247998-d-o-r-f-real-time-strategic-conflict.json) |
 | D.O.T. Defence | 334069 | [334069-d-o-t-defence.json](./334069-d-o-t-defence.json) |
 | D.O.W.N | 229383 | [229383-d-o-w-n.json](./229383-d-o-w-n.json) |
@@ -5888,6 +5889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: The Witch Queen - Season of the Seraph | 228435 | [228435-destiny-2-the-witch-queen-season-of-the-seraph.json](./228435-destiny-2-the-witch-queen-season-of-the-seraph.json) |
 | Destiny 2: The Witch Queen Deluxe + Bungie 30th Anniversary Bundle | 166036 | [166036-destiny-2-the-witch-queen-deluxe-bungie-30th-anniversary-bundle.json](./166036-destiny-2-the-witch-queen-deluxe-bungie-30th-anniversary-bundle.json) |
 | Destiny 2: Warmind | 97258 | [97258-destiny-2-warmind.json](./97258-destiny-2-warmind.json) |
+| Destiny Architect | 70225 | [70225-destiny-architect.json](./70225-destiny-architect.json) |
 | Destiny Blade | 331758 | [331758-destiny-blade.json](./331758-destiny-blade.json) |
 | Destiny Chaser | 114413 | [114413-destiny-chaser.json](./114413-destiny-chaser.json) |
 | Destiny Chronicles | 36871 | [36871-destiny-chronicles.json](./36871-destiny-chronicles.json) |
@@ -6809,6 +6811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dick Tracy | 316843 | [316843-dick-tracy.json](./316843-dick-tracy.json) |
 | Dick Tracy | 316845 | [316845-dick-tracy.json](./316845-dick-tracy.json) |
 | Dick Tracy | 83907 | [83907-dick-tracy.json](./83907-dick-tracy.json) |
+| Dick Tracy: The Crime-Solving Adventure | 70204 | [70204-dick-tracy-the-crime-solving-adventure.json](./70204-dick-tracy-the-crime-solving-adventure.json) |
 | Dick Wilde 2 | 114006 | [114006-dick-wilde-2.json](./114006-dick-wilde-2.json) |
 | Dickdown Duel | 197407 | [197407-dickdown-duel.json](./197407-dickdown-duel.json) |
 | Dickie A Cumming: The Prequel | 196033 | [196033-dickie-a-cumming-the-prequel.json](./196033-dickie-a-cumming-the-prequel.json) |
@@ -6865,6 +6868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Die Die | 346218 | [346218-die-die-die.json](./346218-die-die-die.json) |
 | Die Die Die and Try | 195116 | [195116-die-die-die-and-try.json](./195116-die-die-die-and-try.json) |
 | Die DillyBillys | 398477 | [398477-die-dillybillys.json](./398477-die-dillybillys.json) |
+| Die Drachen von Laas | 70209 | [70209-die-drachen-von-laas.json](./70209-die-drachen-von-laas.json) |
 | Die drei ??? - Das Geheimnis des Magiers | 125036 | [125036-die-drei-das-geheimnis-des-magiers.json](./125036-die-drei-das-geheimnis-des-magiers.json) |
 | Die drei ??? 2 - Bomben in Rocky Beach | 125284 | [125284-die-drei-2-bomben-in-rocky-beach.json](./125284-die-drei-2-bomben-in-rocky-beach.json) |
 | Die drei ??? 3 - Gespensterjagd | 142239 | [142239-die-drei-3-gespensterjagd.json](./142239-die-drei-3-gespensterjagd.json) |
@@ -8139,6 +8143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Infinity: 2.0 | 47764 | [47764-disney-infinity-2-0.json](./47764-disney-infinity-2-0.json) |
 | Disney Junior Ready for Preschool: Forces in Motion | 267543 | [267543-disney-junior-ready-for-preschool-forces-in-motion.json](./267543-disney-junior-ready-for-preschool-forces-in-motion.json) |
 | Disney Learning: 2nd Grade | 59941 | [59941-disney-learning-2nd-grade.json](./59941-disney-learning-2nd-grade.json) |
+| Disney Learning: Math Quest with Aladdin | 70247 | [70247-disney-learning-math-quest-with-aladdin.json](./70247-disney-learning-math-quest-with-aladdin.json) |
 | Disney Learning: Phonics Quest | 59939 | [59939-disney-learning-phonics-quest.json](./59939-disney-learning-phonics-quest.json) |
 | Disney Learning: Toddler | 50478 | [50478-disney-learning-toddler.json](./50478-disney-learning-toddler.json) |
 | Disney Magic Kingdoms | 86813 | [86813-disney-magic-kingdoms.json](./86813-disney-magic-kingdoms.json) |
@@ -8310,6 +8315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Tarzan Activity Center | 57923 | [57923-disneys-tarzan-activity-center.json](./57923-disneys-tarzan-activity-center.json) |
 | Disney's Tarzan: Return to the Jungle | 49339 | [49339-disneys-tarzan-return-to-the-jungle.json](./49339-disneys-tarzan-return-to-the-jungle.json) |
 | Disney's Tarzan: Untamed | 10625 | [10625-disneys-tarzan-untamed.json](./10625-disneys-tarzan-untamed.json) |
+| Disney's The Emperor's New Groove | 70222 | [70222-disneys-the-emperors-new-groove.json](./70222-disneys-the-emperors-new-groove.json) |
 | Disney's The Emperor's New Groove | 74425 | [74425-disneys-the-emperors-new-groove.json](./74425-disneys-the-emperors-new-groove.json) |
 | Disney's The Emperor's New Groove | 74426 | [74426-disneys-the-emperors-new-groove.json](./74426-disneys-the-emperors-new-groove.json) |
 | Disney's The Haunted Mansion | 49405 | [49405-disneys-the-haunted-mansion.json](./49405-disneys-the-haunted-mansion.json) |
@@ -12045,6 +12051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonfang - Drahn's Mystery Dungeon | 129006 | [129006-dragonfang-drahns-mystery-dungeon.json](./129006-dragonfang-drahns-mystery-dungeon.json) |
 | Dragonfield | 219758 | [219758-dragonfield.json](./219758-dragonfield.json) |
 | Dragonfire | 5671 | [5671-dragonfire.json](./5671-dragonfire.json) |
+| Dragonfire: The Well of Souls | 70200 | [70200-dragonfire-the-well-of-souls.json](./70200-dragonfire-the-well-of-souls.json) |
 | DragonFishing | 70392 | [70392-dragonfishing.json](./70392-dragonfishing.json) |
 | Dragonfist | 92448 | [92448-dragonfist.json](./92448-dragonfist.json) |
 | Dragonfist Limitless | 256455 | [256455-dragonfist-limitless.json](./256455-dragonfist-limitless.json) |
