@@ -2393,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WeakWood Throne | 82469 | [82469-weakwood-throne.json](./82469-weakwood-throne.json) |
 | Weaphones Firearms Sim Mini | 343967 | [343967-weaphones-firearms-sim-mini.json](./343967-weaphones-firearms-sim-mini.json) |
 | Weaphones WW2: Firearms Simulator | 91227 | [91227-weaphones-ww2-firearms-simulator.json](./91227-weaphones-ww2-firearms-simulator.json) |
+| Weaphones: Firearms Simulator | 88039 | [88039-weaphones-firearms-simulator.json](./88039-weaphones-firearms-simulator.json) |
 | Weaphones: Firearms Simulator 2 | 93815 | [93815-weaphones-firearms-simulator-2.json](./93815-weaphones-firearms-simulator-2.json) |
 | Weapon Ball Fight | 383930 | [383930-weapon-ball-fight.json](./383930-weapon-ball-fight.json) |
 | Weapon Devourer | 282248 | [282248-weapon-devourer.json](./282248-weapon-devourer.json) |
@@ -3943,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why That Girl Stopped Drawing | 83257 | [83257-why-that-girl-stopped-drawing.json](./83257-why-that-girl-stopped-drawing.json) |
 | Why the Long Gun? | 364607 | [364607-why-the-long-gun.json](./364607-why-the-long-gun.json) |
 | Why the Wrong Face? | 273872 | [273872-why-the-wrong-face.json](./273872-why-the-wrong-face.json) |
+| Why War? | 86600 | [86600-why-war.json](./86600-why-war.json) |
 | Why You Do This to Me? | 178261 | [178261-why-you-do-this-to-me.json](./178261-why-you-do-this-to-me.json) |
 | Why? | 335243 | [335243-why.json](./335243-why.json) |
 | Why's It Getting Darker?! | 374922 | [374922-whys-it-getting-darker.json](./374922-whys-it-getting-darker.json) |
