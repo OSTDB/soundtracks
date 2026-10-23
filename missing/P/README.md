@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemic Bunny | 149371 | [149371-pandemic-bunny.json](./149371-pandemic-bunny.json) |
 | Pandemic Express: Zombie Escape | 110294 | [110294-pandemic-express-zombie-escape.json](./110294-pandemic-express-zombie-escape.json) |
 | Pandemic Heart | 165010 | [165010-pandemic-heart.json](./165010-pandemic-heart.json) |
+| Pandemic II | 66527 | [66527-pandemic-ii.json](./66527-pandemic-ii.json) |
 | Pandemic Isolation | 151076 | [151076-pandemic-isolation.json](./151076-pandemic-isolation.json) |
 | Pandemic of the Forgotten Virus | 185593 | [185593-pandemic-of-the-forgotten-virus.json](./185593-pandemic-of-the-forgotten-virus.json) |
 | Pandemic Pandemonium | 167191 | [167191-pandemic-pandemonium.json](./167191-pandemic-pandemonium.json) |
@@ -2958,6 +2959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pear Quest | 129562 | [129562-pear-quest.json](./129562-pear-quest.json) |
 | Pearl Fishery: Quest for the Mega Pearl | 296372 | [296372-pearl-fishery-quest-for-the-mega-pearl.json](./296372-pearl-fishery-quest-for-the-mega-pearl.json) |
 | Pearl Harbor Attack! Attack! | 71730 | [71730-pearl-harbor-attack-attack.json](./71730-pearl-harbor-attack-attack.json) |
+| Pearl Harbor Trilogy: 1941 - Red Sun Rising | 66506 | [66506-pearl-harbor-trilogy-1941-red-sun-rising.json](./66506-pearl-harbor-trilogy-1941-red-sun-rising.json) |
 | Pearl Harbor: Defend the Fleet | 69574 | [69574-pearl-harbor-defend-the-fleet.json](./69574-pearl-harbor-defend-the-fleet.json) |
 | Pearl Harbor: Fire on the Water | 54256 | [54256-pearl-harbor-fire-on-the-water.json](./54256-pearl-harbor-fire-on-the-water.json) |
 | Pearl Harbor: Strike at Dawn | 138007 | [138007-pearl-harbor-strike-at-dawn.json](./138007-pearl-harbor-strike-at-dawn.json) |
@@ -5636,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Science | 216248 | [216248-pinball-science.json](./216248-pinball-science.json) |
 | Pinball Shuffle | 88315 | [88315-pinball-shuffle.json](./88315-pinball-shuffle.json) |
 | Pinball Sniper | 344963 | [344963-pinball-sniper.json](./344963-pinball-sniper.json) |
+| Pinball Soccer '98 | 66494 | [66494-pinball-soccer-98.json](./66494-pinball-soccer-98.json) |
 | Pinball Spectacular | 61308 | [61308-pinball-spectacular.json](./61308-pinball-spectacular.json) |
 | Pinball Spire x 9 Years of Shadows | 396120 | [396120-pinball-spire-x-9-years-of-shadows.json](./396120-pinball-spire-x-9-years-of-shadows.json) |
 | Pinball Strike Arcade Rampage | 377720 | [377720-pinball-strike-arcade-rampage.json](./377720-pinball-strike-arcade-rampage.json) |
