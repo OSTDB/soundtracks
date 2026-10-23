@@ -1906,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Montana Football | 5396 | [5396-joe-montana-football.json](./5396-joe-montana-football.json) |
 | Joe Montana Football | 80420 | [80420-joe-montana-football.json](./80420-joe-montana-football.json) |
 | Joe Montana II: Sports Talk Football | 19491 | [19491-joe-montana-ii-sports-talk-football.json](./19491-joe-montana-ii-sports-talk-football.json) |
+| Joe Montana's NFL Football | 46419 | [46419-joe-montanas-nfl-football.json](./46419-joe-montanas-nfl-football.json) |
 | Joe vs. The Joneses | 175170 | [175170-joe-vs-the-joneses.json](./175170-joe-vs-the-joneses.json) |
 | Joe vs. The Wall | 264308 | [264308-joe-vs-the-wall.json](./264308-joe-vs-the-wall.json) |
 | Joe Wander and the Enigmatic Adventures | 222929 | [222929-joe-wander-and-the-enigmatic-adventures.json](./222929-joe-wander-and-the-enigmatic-adventures.json) |
