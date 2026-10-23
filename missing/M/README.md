@@ -1918,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make a Killing | 118827 | [118827-make-a-killing.json](./118827-make-a-killing.json) |
 | Make a Path for the Chicken | 165624 | [165624-make-a-path-for-the-chicken.json](./165624-make-a-path-for-the-chicken.json) |
 | Make a Scene: Dinosaurs | 96044 | [96044-make-a-scene-dinosaurs.json](./96044-make-a-scene-dinosaurs.json) |
+| Make A Scene: Easter | 96552 | [96552-make-a-scene-easter.json](./96552-make-a-scene-easter.json) |
 | Make A Scene: Farmyard | 232585 | [232585-make-a-scene-farmyard.json](./232585-make-a-scene-farmyard.json) |
 | Make A Scene: Polar Adventure | 103934 | [103934-make-a-scene-polar-adventure.json](./103934-make-a-scene-polar-adventure.json) |
 | Make a Scene: Transport | 103120 | [103120-make-a-scene-transport.json](./103120-make-a-scene-transport.json) |
@@ -11991,6 +11992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Snowfight | 320300 | [320300-monkey-snowfight.json](./320300-monkey-snowfight.json) |
 | Monkey Splash!! | 274466 | [274466-monkey-splash.json](./274466-monkey-splash.json) |
 | Monkey Split | 142450 | [142450-monkey-split.json](./142450-monkey-split.json) |
+| Monkey Swag | 96580 | [96580-monkey-swag.json](./96580-monkey-swag.json) |
 | Monkey Tales: The Abbey of Aviath | 18459 | [18459-monkey-tales-the-abbey-of-aviath.json](./18459-monkey-tales-the-abbey-of-aviath.json) |
 | Monkey Tales: The Castle of Draconion | 18460 | [18460-monkey-tales-the-castle-of-draconion.json](./18460-monkey-tales-the-castle-of-draconion.json) |
 | Monkey Tales: The Museum of Anything | 18458 | [18458-monkey-tales-the-museum-of-anything.json](./18458-monkey-tales-the-museum-of-anything.json) |
