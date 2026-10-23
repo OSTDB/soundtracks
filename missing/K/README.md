@@ -3409,6 +3409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klax | 286421 | [286421-klax.json](./286421-klax.json) |
 | Klaymen Gun-Hockey | 43749 | [43749-klaymen-gun-hockey.json](./43749-klaymen-gun-hockey.json) |
 | Klein v.0.1 | 333605 | [333605-klein-v-0-1.json](./333605-klein-v-0-1.json) |
+| Klendathu | 44349 | [44349-klendathu.json](./44349-klendathu.json) |
 | Kleopatra | 213968 | [213968-kleopatra.json](./213968-kleopatra.json) |
 | Klepto | 297476 | [297476-klepto.json](./297476-klepto.json) |
 | Klepto Planet Attack | 176473 | [176473-klepto-planet-attack.json](./176473-klepto-planet-attack.json) |
