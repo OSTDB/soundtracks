@@ -1575,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Gars Qui A Fait Doom | 299442 | [299442-le-gars-qui-a-fait-doom.json](./299442-le-gars-qui-a-fait-doom.json) |
 | Le Havre: The Inland Port | 24027 | [24027-le-havre-the-inland-port.json](./24027-le-havre-the-inland-port.json) |
 | Le Loup et le Chien | 346063 | [346063-le-loup-et-le-chien.json](./346063-le-loup-et-le-chien.json) |
+| Le Maître des Âmes | 94596 | [94596-le-maitre-des-ames.json](./94596-le-maitre-des-ames.json) |
 | Le Manoir | 385441 | [385441-le-manoir.json](./385441-le-manoir.json) |
 | Le Manoir de L'Étrange | 25752 | [25752-le-manoir-de-letrange.json](./25752-le-manoir-de-letrange.json) |
 | Le Mans | 65279 | [65279-le-mans.json](./65279-le-mans.json) |
@@ -7508,6 +7509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lukia | 197031 | [197031-lukia.json](./197031-lukia.json) |
 | LUL inc. | 186238 | [186238-lul-inc.json](./186238-lul-inc.json) |
 | Lula 3D | 3712 | [3712-lula-3d.json](./3712-lula-3d.json) |
+| Lula Flipper | 94525 | [94525-lula-flipper.json](./94525-lula-flipper.json) |
 | Lula Virtual Babe | 94697 | [94697-lula-virtual-babe.json](./94697-lula-virtual-babe.json) |
 | Lula: The Sexy Empire | 11679 | [11679-lula-the-sexy-empire.json](./11679-lula-the-sexy-empire.json) |
 | Lulanda | 363006 | [363006-lulanda.json](./363006-lulanda.json) |
