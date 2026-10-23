@@ -1671,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkland | 134439 | [134439-darkland.json](./134439-darkland.json) |
 | Darklands | 278369 | [278369-darklands.json](./278369-darklands.json) |
 | Darklands: Awakening | 164520 | [164520-darklands-awakening.json](./164520-darklands-awakening.json) |
+| DarkLast | 86618 | [86618-darklast.json](./86618-darklast.json) |
 | Darklight Conflict | 2399 | [2399-darklight-conflict.json](./2399-darklight-conflict.json) |
 | Darklight: Origin | 157100 | [157100-darklight-origin.json](./157100-darklight-origin.json) |
 | Darklin Wars | 129769 | [129769-darklin-wars.json](./129769-darklin-wars.json) |
@@ -11059,6 +11060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Fad | 198732 | [198732-dr-fad.json](./198732-dr-fad.json) |
 | Dr. Fetus' Mean Meat Machine | 242082 | [242082-dr-fetus-mean-meat-machine.json](./242082-dr-fetus-mean-meat-machine.json) |
 | Dr. Finklestein's Marvelous Room | 275560 | [275560-dr-finklesteins-marvelous-room.json](./275560-dr-finklesteins-marvelous-room.json) |
+| Dr. Frank's Build a Boyfriend | 86627 | [86627-dr-franks-build-a-boyfriend.json](./86627-dr-franks-build-a-boyfriend.json) |
 | Dr. Frank's Build-A-Boyfriend | 177900 | [177900-dr-franks-build-a-boyfriend.json](./177900-dr-franks-build-a-boyfriend.json) |
 | Dr. Franken | 369599 | [369599-dr-franken.json](./369599-dr-franken.json) |
 | Dr. Franken | 48949 | [48949-dr-franken.json](./48949-dr-franken.json) |
