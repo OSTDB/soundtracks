@@ -7090,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboMaze II: The Lobby | 70282 | [70282-robomaze-ii-the-lobby.json](./70282-robomaze-ii-the-lobby.json) |
 | RoboMaze III: The Dome | 78029 | [78029-robomaze-iii-the-dome.json](./78029-robomaze-iii-the-dome.json) |
 | RoboMaze: The Basement | 59927 | [59927-robomaze-the-basement.json](./59927-robomaze-the-basement.json) |
+| RoboMinion | 62052 | [62052-robominion.json](./62052-robominion.json) |
 | Robonauts | 64205 | [64205-robonauts.json](./64205-robonauts.json) |
 | RoboPhobik | 138534 | [138534-robophobik.json](./138534-robophobik.json) |
 | Roboplant | 186641 | [186641-roboplant.json](./186641-roboplant.json) |
