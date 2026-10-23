@@ -14484,6 +14484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt Sweeper | 381973 | [381973-crypt-sweeper.json](./381973-crypt-sweeper.json) |
 | Crypt Underworld | 109072 | [109072-crypt-underworld.json](./109072-crypt-underworld.json) |
 | Crypt-Oink Racing Friends | 130823 | [130823-crypt-oink-racing-friends.json](./130823-crypt-oink-racing-friends.json) |
+| Crypt: The Black Tower | 84059 | [84059-crypt-the-black-tower.json](./84059-crypt-the-black-tower.json) |
 | Cryptage | 333114 | [333114-cryptage.json](./333114-cryptage.json) |
 | CryptantCrab | 110043 | [110043-cryptantcrab.json](./110043-cryptantcrab.json) |
 | CryptaSync Cyber: Urban Depths | 271111 | [271111-cryptasync-cyber-urban-depths.json](./271111-cryptasync-cyber-urban-depths.json) |
@@ -14995,6 +14996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeRun 2 | 242444 | [242444-cuberun-2.json](./242444-cuberun-2.json) |
 | Cuberuns | 210631 | [210631-cuberuns.json](./210631-cuberuns.json) |
 | Cubes | 247072 | [247072-cubes.json](./247072-cubes.json) |
+| Cubes | 84030 | [84030-cubes.json](./84030-cubes.json) |
 | Cubes and More Cubes | 180221 | [180221-cubes-and-more-cubes.json](./180221-cubes-and-more-cubes.json) |
 | Cubes Control | 256167 | [256167-cubes-control.json](./256167-cubes-control.json) |
 | Cubes Crush Legend | 174819 | [174819-cubes-crush-legend.json](./174819-cubes-crush-legend.json) |
