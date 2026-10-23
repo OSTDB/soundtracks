@@ -1312,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Games Bundle: My Magic Florist + Pet Shop Snacks + Bubble Cats Rescue | 199830 | [199830-family-games-bundle-my-magic-florist-pet-shop-snacks-bubble-cats-rescue.json](./199830-family-games-bundle-my-magic-florist-pet-shop-snacks-bubble-cats-rescue.json) |
 | Family Games Compendium | 79241 | [79241-family-games-compendium.json](./79241-family-games-compendium.json) |
 | Family Games II: Junk Food Jive | 45929 | [45929-family-games-ii-junk-food-jive.json](./45929-family-games-ii-junk-food-jive.json) |
+| Family Gameshow | 51028 | [51028-family-gameshow.json](./51028-family-gameshow.json) |
 | Family Go-Kart Racing | 50695 | [50695-family-go-kart-racing.json](./50695-family-go-kart-racing.json) |
 | Family Guy Bowling | 286624 | [286624-family-guy-bowling.json](./286624-family-guy-bowling.json) |
 | Family Guy Invaders | 335726 | [335726-family-guy-invaders.json](./335726-family-guy-invaders.json) |
@@ -1343,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Park | 113217 | [113217-family-park.json](./113217-family-park.json) |
 | Family Park Tycoon | 123310 | [123310-family-park-tycoon.json](./123310-family-park-tycoon.json) |
 | Family Party: 30 Great Games Obstacle Arcade | 5312 | [5312-family-party-30-great-games-obstacle-arcade.json](./5312-family-party-30-great-games-obstacle-arcade.json) |
+| Family Party: 30 Great Games Outdoor Fun | 50999 | [50999-family-party-30-great-games-outdoor-fun.json](./50999-family-party-30-great-games-outdoor-fun.json) |
 | Family Party: 30 Great Games Winter Fun | 23360 | [23360-family-party-30-great-games-winter-fun.json](./23360-family-party-30-great-games-winter-fun.json) |
 | Family Pet Dog Games | 296744 | [296744-family-pet-dog-games.json](./296744-family-pet-dog-games.json) |
 | Family Pirate Party | 50700 | [50700-family-pirate-party.json](./50700-family-pirate-party.json) |
@@ -1532,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy and Girls | 367166 | [367166-fantasy-and-girls.json](./367166-fantasy-and-girls.json) |
 | Fantasy Aquarium | 319878 | [319878-fantasy-aquarium.json](./319878-fantasy-aquarium.json) |
 | Fantasy Aquarium by DS | 69090 | [69090-fantasy-aquarium-by-ds.json](./69090-fantasy-aquarium-by-ds.json) |
+| Fantasy Aquarium World | 51030 | [51030-fantasy-aquarium-world.json](./51030-fantasy-aquarium-world.json) |
 | Fantasy Baseball | 246277 | [246277-fantasy-baseball.json](./246277-fantasy-baseball.json) |
 | Fantasy Battles | 109762 | [109762-fantasy-battles.json](./109762-fantasy-battles.json) |
 | Fantasy Battles | 343604 | [343604-fantasy-battles.json](./343604-fantasy-battles.json) |
@@ -9102,6 +9105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddi Fish Collection | 300717 | [300717-freddi-fish-collection.json](./300717-freddi-fish-collection.json) |
 | Freddi Fish: ABC's Under the Sea | 3749 | [3749-freddi-fish-abcs-under-the-sea.json](./3749-freddi-fish-abcs-under-the-sea.json) |
 | Freddi Fish: Het Verhaal van de Verdwenen Zeewierzaadjes | 301504 | [301504-freddi-fish-het-verhaal-van-de-verdwenen-zeewierzaadjes.json](./301504-freddi-fish-het-verhaal-van-de-verdwenen-zeewierzaadjes.json) |
+| Freddi Fish: Kelp Seed Mystery | 51029 | [51029-freddi-fish-kelp-seed-mystery.json](./51029-freddi-fish-kelp-seed-mystery.json) |
 | Freddy | 280774 | [280774-freddy.json](./280774-freddy.json) |
 | Freddy Farmer | 324186 | [324186-freddy-farmer.json](./324186-freddy-farmer.json) |
 | Freddy Fazbear's Pizza Massacre | 272297 | [272297-freddy-fazbears-pizza-massacre.json](./272297-freddy-fazbears-pizza-massacre.json) |
