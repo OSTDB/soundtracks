@@ -1470,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Slog | 60636 | [60636-captain-slog.json](./60636-captain-slog.json) |
 | Captain Speedfin | 391071 | [391071-captain-speedfin.json](./391071-captain-speedfin.json) |
 | Captain StarOne | 114939 | [114939-captain-starone.json](./114939-captain-starone.json) |
+| Captain Strike | 60851 | [60851-captain-strike.json](./60851-captain-strike.json) |
 | Captain Stu | 285938 | [285938-captain-stu.json](./285938-captain-stu.json) |
 | Captain Superhero Flying Robot Rescue | 101981 | [101981-captain-superhero-flying-robot-rescue.json](./101981-captain-superhero-flying-robot-rescue.json) |
 | Captain Temporium | 174579 | [174579-captain-temporium.json](./174579-captain-temporium.json) |
@@ -2653,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Cats | 54991 | [54991-castle-cats.json](./54991-castle-cats.json) |
 | Castle Champion | 154390 | [154390-castle-champion.json](./154390-castle-champion.json) |
 | Castle Chaos | 139156 | [139156-castle-chaos.json](./139156-castle-chaos.json) |
+| Castle Chase | 60935 | [60935-castle-chase.json](./60935-castle-chase.json) |
 | Castle Clash | 38890 | [38890-castle-clash.json](./38890-castle-clash.json) |
 | Castle Clicker | 67920 | [67920-castle-clicker.json](./67920-castle-clicker.json) |
 | Castle Combat | 342194 | [342194-castle-combat.json](./342194-castle-combat.json) |
@@ -7148,6 +7150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines II - Ultimate Edition | 273942 | [273942-cities-skylines-ii-ultimate-edition.json](./273942-cities-skylines-ii-ultimate-edition.json) |
 | Cities: Skylines Remastered - Campus | 301332 | [301332-cities-skylines-remastered-campus.json](./301332-cities-skylines-remastered-campus.json) |
 | CitiesCorp Concept - Build Everything on Your Own | 33484 | [33484-citiescorp-concept-build-everything-on-your-own.json](./33484-citiescorp-concept-build-everything-on-your-own.json) |
+| Citizen Burger Disorder | 60868 | [60868-citizen-burger-disorder.json](./60868-citizen-burger-disorder.json) |
 | Citizen Conflict | 248301 | [248301-citizen-conflict.json](./248301-citizen-conflict.json) |
 | Citizen Kane 64 | 332210 | [332210-citizen-kane-64.json](./332210-citizen-kane-64.json) |
 | Citizen Life | 389560 | [389560-citizen-life.json](./389560-citizen-life.json) |
@@ -15848,6 +15851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Ice! | 277958 | [277958-cute-ice.json](./277958-cute-ice.json) |
 | Cute Kaizo World | 208401 | [208401-cute-kaizo-world.json](./208401-cute-kaizo-world.json) |
 | Cute Knight | 72589 | [72589-cute-knight.json](./72589-cute-knight.json) |
+| Cute Knight Kingdom | 60944 | [60944-cute-knight-kingdom.json](./60944-cute-knight-kingdom.json) |
 | Cute Mold | 374161 | [374161-cute-mold.json](./374161-cute-mold.json) |
 | Cute Nurses | 367011 | [367011-cute-nurses.json](./367011-cute-nurses.json) |
 | Cute Patoots | 404909 | [404909-cute-patoots.json](./404909-cute-patoots.json) |
@@ -15946,6 +15950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Chaser | 383187 | [383187-cyber-chaser.json](./383187-cyber-chaser.json) |
 | Cyber Chess | 208844 | [208844-cyber-chess.json](./208844-cyber-chess.json) |
 | Cyber Chicken: Extreme Edition | 52847 | [52847-cyber-chicken-extreme-edition.json](./52847-cyber-chicken-extreme-edition.json) |
+| Cyber Circuit | 60840 | [60840-cyber-circuit.json](./60840-cyber-circuit.json) |
 | Cyber Citizen Shockman 3: The Princess From Another World | 300374 | [300374-cyber-citizen-shockman-3-the-princess-from-another-world.json](./300374-cyber-citizen-shockman-3-the-princess-from-another-world.json) |
 | Cyber Citizen Shockman Zero | 306049 | [306049-cyber-citizen-shockman-zero.json](./306049-cyber-citizen-shockman-zero.json) |
 | Cyber City | 117077 | [117077-cyber-city.json](./117077-cyber-city.json) |
