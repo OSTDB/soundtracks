@@ -2862,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 8: Season 2 Character & Stage Pass | 347701 | [347701-tekken-8-season-2-character-and-stage-pass.json](./347701-tekken-8-season-2-character-and-stage-pass.json) |
 | Tekken 8: Ultimate Pack | 293397 | [293397-tekken-8-ultimate-pack.json](./293397-tekken-8-ultimate-pack.json) |
 | Tekken Advance | 1240 | [1240-tekken-advance.json](./1240-tekken-advance.json) |
+| Tekken Arena | 62497 | [62497-tekken-arena.json](./62497-tekken-arena.json) |
 | Tekken Bowl | 63782 | [63782-tekken-bowl.json](./63782-tekken-bowl.json) |
 | Tekken Card Challenge | 1248 | [1248-tekken-card-challenge.json](./1248-tekken-card-challenge.json) |
 | Tekken Card Tournament | 25073 | [25073-tekken-card-tournament.json](./25073-tekken-card-tournament.json) |
@@ -5043,6 +5044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle Orks | 339986 | [339986-the-battle-orks.json](./339986-the-battle-orks.json) |
 | The Battle Road | 39617 | [39617-the-battle-road.json](./39617-the-battle-road.json) |
 | The Battles for Abunka | 210900 | [210900-the-battles-for-abunka.json](./210900-the-battles-for-abunka.json) |
+| The Battles of King Arthur | 62534 | [62534-the-battles-of-king-arthur.json](./62534-the-battles-of-king-arthur.json) |
 | The Battles of Napoleon | 54436 | [54436-the-battles-of-napoleon.json](./54436-the-battles-of-napoleon.json) |
 | The Battles of Spwak | 118625 | [118625-the-battles-of-spwak.json](./118625-the-battles-of-spwak.json) |
 | The Battles of Spwak 2 | 125705 | [125705-the-battles-of-spwak-2.json](./125705-the-battles-of-spwak-2.json) |
@@ -11264,7 +11266,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -13593,6 +13594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spy I Married | 327991 | [327991-the-spy-i-married.json](./327991-the-spy-i-married.json) |
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
 | The Square Key | 165942 | [165942-the-square-key.json](./165942-the-square-key.json) |
+| The Squared Circle | 62505 | [62505-the-squared-circle.json](./62505-the-squared-circle.json) |
 | The Squash P | 227921 | [227921-the-squash-p.json](./227921-the-squash-p.json) |
 | The Squeal of the Pig | 249190 | [249190-the-squeal-of-the-pig.json](./249190-the-squeal-of-the-pig.json) |
 | The Squid Plays | 376269 | [376269-the-squid-plays.json](./376269-the-squid-plays.json) |
@@ -25553,6 +25555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuki Adventure | 182457 | [182457-tsuki-adventure.json](./182457-tsuki-adventure.json) |
 | Tsuki ha Higashi ni Hi ha Nishi ni: Operation Sanctuary | 165566 | [165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json](./165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json) |
 | Tsuki no Hikari | 322241 | [322241-tsuki-no-hikari.json](./322241-tsuki-no-hikari.json) |
+| Tsuki no Hikari: Shizumeru Kane no Satsujin | 62539 | [62539-tsuki-no-hikari-shizumeru-kane-no-satsujin.json](./62539-tsuki-no-hikari-shizumeru-kane-no-satsujin.json) |
 | Tsuki no Kanata de Aimashou | 150037 | [150037-tsuki-no-kanata-de-aimashou.json](./150037-tsuki-no-kanata-de-aimashou.json) |
 | Tsuki no Kanata de Aimashou: Sweet Summer Rainbow | 150038 | [150038-tsuki-no-kanata-de-aimashou-sweet-summer-rainbow.json](./150038-tsuki-no-kanata-de-aimashou-sweet-summer-rainbow.json) |
 | Tsuki no Namida | 277953 | [277953-tsuki-no-namida.json](./277953-tsuki-no-namida.json) |
@@ -25614,6 +25617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsunoda Thunder Love!! Evolution!! | 59743 | [59743-tsunoda-thunder-love-evolution.json](./59743-tsunoda-thunder-love-evolution.json) |
 | Tsuppari Concert | 385724 | [385724-tsuppari-concert.json](./385724-tsuppari-concert.json) |
 | Tsuppari Oozumou | 79226 | [79226-tsuppari-oozumou.json](./79226-tsuppari-oozumou.json) |
+| Tsuppari Oozumou: Heisei-han | 62527 | [62527-tsuppari-oozumou-heisei-han.json](./62527-tsuppari-oozumou-heisei-han.json) |
 | Tsuppari Oozumou: Risshin Shusse-hen | 37780 | [37780-tsuppari-oozumou-risshin-shusse-hen.json](./37780-tsuppari-oozumou-risshin-shusse-hen.json) |
 | Tsurezure Nikki | 163362 | [163362-tsurezure-nikki.json](./163362-tsurezure-nikki.json) |
 | Tsuri Baka Nisshi | 386526 | [386526-tsuri-baka-nisshi.json](./386526-tsuri-baka-nisshi.json) |
