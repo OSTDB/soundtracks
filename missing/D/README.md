@@ -1178,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Dimensions: Somber Song | 139788 | [139788-dark-dimensions-somber-song.json](./139788-dark-dimensions-somber-song.json) |
 | Dark Dimensions: Somber Song - Collector's Edition | 96884 | [96884-dark-dimensions-somber-song-collectors-edition.json](./96884-dark-dimensions-somber-song-collectors-edition.json) |
 | Dark Dimensions: Wax Beauty | 139789 | [139789-dark-dimensions-wax-beauty.json](./139789-dark-dimensions-wax-beauty.json) |
+| Dark Dimensions: Wax Beauty - Collector's Edition | 54865 | [54865-dark-dimensions-wax-beauty-collectors-edition.json](./54865-dark-dimensions-wax-beauty-collectors-edition.json) |
 | Dark Disciples | 233470 | [233470-dark-disciples.json](./233470-dark-disciples.json) |
 | Dark Disciples II | 168324 | [168324-dark-disciples-ii.json](./168324-dark-disciples-ii.json) |
 | Dark Disharmony | 133662 | [133662-dark-disharmony.json](./133662-dark-disharmony.json) |
@@ -9205,6 +9206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog's Quest | 103454 | [103454-dogs-quest.json](./103454-dogs-quest.json) |
 | Dog's Walts | 408060 | [408060-dogs-walts.json](./408060-dogs-walts.json) |
 | Dogchild | 59062 | [59062-dogchild.json](./59062-dogchild.json) |
+| Dogcoin | 54854 | [54854-dogcoin.json](./54854-dogcoin.json) |
 | DogDay | 92948 | [92948-dogday.json](./92948-dogday.json) |
 | Doge and the Lost Kitten | 103409 | [103409-doge-and-the-lost-kitten.json](./103409-doge-and-the-lost-kitten.json) |
 | Doge Dash | 185916 | [185916-doge-dash.json](./185916-doge-dash.json) |
@@ -9693,6 +9695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Ask Succubus | 173822 | [173822-dont-ask-succubus.json](./173822-dont-ask-succubus.json) |
 | Don't Be Afraid | 80904 | [80904-dont-be-afraid.json](./80904-dont-be-afraid.json) |
 | Don't Be Afraid 2 | 287825 | [287825-dont-be-afraid-2.json](./287825-dont-be-afraid-2.json) |
+| Don't be crushed | 54846 | [54846-dont-be-crushed.json](./54846-dont-be-crushed.json) |
 | Don't Be Greedy | 233522 | [233522-dont-be-greedy.json](./233522-dont-be-greedy.json) |
 | Don't Be Nervous Talking to Girls | 91628 | [91628-dont-be-nervous-talking-to-girls.json](./91628-dont-be-nervous-talking-to-girls.json) |
 | Don't Be Squared | 57458 | [57458-dont-be-squared.json](./57458-dont-be-squared.json) |
