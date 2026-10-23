@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Wizarding Dungeon | 169653 | [169653-wacky-wizarding-dungeon.json](./169653-wacky-wizarding-dungeon.json) |
 | Wacky Wonderland Wollop: A 3D Platformer for the Ages Game of the Year All Time: The Game | 259149 | [259149-wacky-wonderland-wollop-a-3d-platformer-for-the-ages-game-of-the-year-all-time-the-game.json](./259149-wacky-wonderland-wollop-a-3d-platformer-for-the-ages-game-of-the-year-all-time-the-game.json) |
 | Wacky World of Sports | 5260 | [5260-wacky-world-of-sports.json](./5260-wacky-world-of-sports.json) |
+| Wacky Worlds Creativity Studio | 47056 | [47056-wacky-worlds-creativity-studio.json](./47056-wacky-worlds-creativity-studio.json) |
 | Wacky Zoo GP | 66926 | [66926-wacky-zoo-gp.json](./66926-wacky-zoo-gp.json) |
 | Waco Resurrection | 308429 | [308429-waco-resurrection.json](./308429-waco-resurrection.json) |
 | Wadality | 189887 | [189887-wadality.json](./189887-wadality.json) |
@@ -4033,6 +4034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wide Island | 179463 | [179463-wide-island.json](./179463-wide-island.json) |
 | Wide Ocean Big Jacket | 127591 | [127591-wide-ocean-big-jacket.json](./127591-wide-ocean-big-jacket.json) |
 | Wide Open | 173284 | [173284-wide-open.json](./173284-wide-open.json) |
+| Widelands | 47043 | [47043-widelands.json](./47043-widelands.json) |
 | Widen | 305965 | [305965-widen.json](./305965-widen.json) |
 | Widget | 95355 | [95355-widget.json](./95355-widget.json) |
 | Widget Inc. | 319207 | [319207-widget-inc.json](./319207-widget-inc.json) |
@@ -4500,6 +4502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wily & Right no RockBoard: That's Paradise | 1729 | [1729-wily-and-right-no-rockboard-thats-paradise.json](./1729-wily-and-right-no-rockboard-thats-paradise.json) |
 | Wima Magicamia: Cute Girls Magic Battle 3DTPS | 360887 | [360887-wima-magicamia-cute-girls-magic-battle-3dtps.json](./360887-wima-magicamia-cute-girls-magic-battle-3dtps.json) |
 | Wimbledon '88 | 121720 | [121720-wimbledon-88.json](./121720-wimbledon-88.json) |
+| Wimbledon Championship Tennis | 47053 | [47053-wimbledon-championship-tennis.json](./47053-wimbledon-championship-tennis.json) |
 | Wimbledon II | 46105 | [46105-wimbledon-ii.json](./46105-wimbledon-ii.json) |
 | Wimmelbild-Box Mystery | 65543 | [65543-wimmelbild-box-mystery.json](./65543-wimmelbild-box-mystery.json) |
 | Wimp: Who Stole My Pants? | 36175 | [36175-wimp-who-stole-my-pants.json](./36175-wimp-who-stole-my-pants.json) |
