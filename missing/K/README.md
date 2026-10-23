@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaijin Zona | 59340 | [59340-kaijin-zona.json](./59340-kaijin-zona.json) |
 | Kaiju Attack | 194182 | [194182-kaiju-attack.json](./194182-kaiju-attack.json) |
 | Kaiju Big Battel: Fighto Fantasy | 29075 | [29075-kaiju-big-battel-fighto-fantasy.json](./29075-kaiju-big-battel-fighto-fantasy.json) |
+| Kaiju Busters | 85225 | [85225-kaiju-busters.json](./85225-kaiju-busters.json) |
 | Kaiju Catastrophe | 217331 | [217331-kaiju-catastrophe.json](./217331-kaiju-catastrophe.json) |
 | Kaiju Cleaner Simulator | 368798 | [368798-kaiju-cleaner-simulator.json](./368798-kaiju-cleaner-simulator.json) |
 | Kaiju Cleanup | 370709 | [370709-kaiju-cleanup.json](./370709-kaiju-cleanup.json) |
@@ -313,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakuro | 120959 | [120959-kakuro.json](./120959-kakuro.json) |
 | Kakuro | 264552 | [264552-kakuro.json](./264552-kakuro.json) |
 | Kakuro Blend | 150442 | [150442-kakuro-blend.json](./150442-kakuro-blend.json) |
+| Kakuro by Nikoli | 85224 | [85224-kakuro-by-nikoli.json](./85224-kakuro-by-nikoli.json) |
 | Kakuro Magic | 147730 | [147730-kakuro-magic.json](./147730-kakuro-magic.json) |
 | Kakusankibou | 80899 | [80899-kakusankibou.json](./80899-kakusankibou.json) |
 | Kakutou Haou Densetsu Algunos | 37586 | [37586-kakutou-haou-densetsu-algunos.json](./37586-kakutou-haou-densetsu-algunos.json) |
@@ -804,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karoshi: Suicide Salaryman | 266379 | [266379-karoshi-suicide-salaryman.json](./266379-karoshi-suicide-salaryman.json) |
 | Karous | 381992 | [381992-karous.json](./381992-karous.json) |
 | Karous | 45818 | [45818-karous.json](./45818-karous.json) |
+| Karous -The Beast of Re:Eden- | 85223 | [85223-karous-the-beast-of-re-eden.json](./85223-karous-the-beast-of-re-eden.json) |
 | Karpar | 214750 | [214750-karpar.json](./214750-karpar.json) |
 | Karpatia: Order of the Comet | 257983 | [257983-karpatia-order-of-the-comet.json](./257983-karpatia-order-of-the-comet.json) |
 | Karpe Diem | 316132 | [316132-karpe-diem.json](./316132-karpe-diem.json) |
@@ -1337,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemono Naki Yoru no Ori nite | 370555 | [370555-kemono-naki-yoru-no-ori-nite.json](./370555-kemono-naki-yoru-no-ori-nite.json) |
 | Kemono Patrol | 334850 | [334850-kemono-patrol.json](./334850-kemono-patrol.json) |
 | Kemonomichi-White Moment- | 100111 | [100111-kemonomichi-white-moment.json](./100111-kemonomichi-white-moment.json) |
+| Kemonomix+ | 85222 | [85222-kemonomix.json](./85222-kemonomix.json) |
 | Kemonopoly | 181107 | [181107-kemonopoly.json](./181107-kemonopoly.json) |
 | Kemopop! | 309863 | [309863-kemopop.json](./309863-kemopop.json) |
 | Kemotaku | 325527 | [325527-kemotaku.json](./325527-kemotaku.json) |
@@ -1372,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kengo: Master of Bushido | 1420 | [1420-kengo-master-of-bushido.json](./1420-kengo-master-of-bushido.json) |
 | Kengohazard 2 | 118418 | [118418-kengohazard-2.json](./118418-kengohazard-2.json) |
 | Kenja no Ishi | 373029 | [373029-kenja-no-ishi.json](./373029-kenja-no-ishi.json) |
+| Kenji: Rise of a Hero | 85229 | [85229-kenji-rise-of-a-hero.json](./85229-kenji-rise-of-a-hero.json) |
 | Kenju | 39440 | [39440-kenju.json](./39440-kenju.json) |
 | Kenka Bancho | 91387 | [91387-kenka-bancho.json](./91387-kenka-bancho.json) |
 | Kenka Bancho 4: Ichinen Sensou | 81473 | [81473-kenka-bancho-4-ichinen-sensou.json](./81473-kenka-bancho-4-ichinen-sensou.json) |
@@ -2761,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom: Two Crowns - Royal Edition | 154953 | [154953-kingdom-two-crowns-royal-edition.json](./154953-kingdom-two-crowns-royal-edition.json) |
 | Kingdom's Deck | 280095 | [280095-kingdoms-deck.json](./280095-kingdoms-deck.json) |
 | Kingdom's Gambit | 264038 | [264038-kingdoms-gambit.json](./264038-kingdoms-gambit.json) |
+| Kingdom's Item Shop | 85228 | [85228-kingdoms-item-shop.json](./85228-kingdoms-item-shop.json) |
 | Kingdom's Life | 189177 | [189177-kingdoms-life.json](./189177-kingdoms-life.json) |
 | Kingdom's Return: Time-Eating Fruit and the Ancient Monster - "Azure Striker Gunvolt" Crossover Character Skin | 395690 | [395690-kingdoms-return-time-eating-fruit-and-the-ancient-monster-azure-striker-gunvolt-crossover-character-skin.json](./395690-kingdoms-return-time-eating-fruit-and-the-ancient-monster-azure-striker-gunvolt-crossover-character-skin.json) |
 | KingdomDefense | 172102 | [172102-kingdomdefense.json](./172102-kingdomdefense.json) |
@@ -4878,6 +4884,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kusodeka Bayashi | 321647 | [321647-kusodeka-bayashi.json](./321647-kusodeka-bayashi.json) |
 | Kusoge | 184984 | [184984-kusoge.json](./184984-kusoge.json) |
 | Kusok | 261533 | [261533-kusok.json](./261533-kusok.json) |
+| Kutar Apple | 85231 | [85231-kutar-apple.json](./85231-kutar-apple.json) |
+| Kutar Burger Factory | 85233 | [85233-kutar-burger-factory.json](./85233-kutar-burger-factory.json) |
+| Kutar Concert Staff | 85232 | [85232-kutar-concert-staff.json](./85232-kutar-concert-staff.json) |
+| Kutar Jump Rope | 85241 | [85241-kutar-jump-rope.json](./85241-kutar-jump-rope.json) |
+| Kutar Magic Ball | 85240 | [85240-kutar-magic-ball.json](./85240-kutar-magic-ball.json) |
+| Kutar Quiz | 85239 | [85239-kutar-quiz.json](./85239-kutar-quiz.json) |
+| Kutar Ski Lift | 85238 | [85238-kutar-ski-lift.json](./85238-kutar-ski-lift.json) |
+| Kutar Tube Rider | 85237 | [85237-kutar-tube-rider.json](./85237-kutar-tube-rider.json) |
 | Kutar's Athletic World | 340040 | [340040-kutars-athletic-world.json](./340040-kutars-athletic-world.json) |
 | Kutha Stroom Rush | 337511 | [337511-kutha-stroom-rush.json](./337511-kutha-stroom-rush.json) |
 | Kutsushita Nyanko: Kutsushita o Haita Neko to Kurashi Hajime Mashita | 130723 | [130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json](./130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json) |
@@ -4951,6 +4965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoto | 128630 | [128630-kyoto.json](./128630-kyoto.json) |
 | Kyoto Anomaly | 342108 | [342108-kyoto-anomaly.json](./342108-kyoto-anomaly.json) |
 | Kyoto Maiko Monogatari | 333558 | [333558-kyoto-maiko-monogatari.json](./333558-kyoto-maiko-monogatari.json) |
+| Kyotokei | 85236 | [85236-kyotokei.json](./85236-kyotokei.json) |
 | Kyou Kara Maou!: Hajimari no Tabi | 200991 | [200991-kyou-kara-maou-hajimari-no-tabi.json](./200991-kyou-kara-maou-hajimari-no-tabi.json) |
 | Kyou kara Tsukaeru Hisshou Business Shinrigaku | 261376 | [261376-kyou-kara-tsukaeru-hisshou-business-shinrigaku.json](./261376-kyou-kara-tsukaeru-hisshou-business-shinrigaku.json) |
 | Kyou no Sekai: Crazy World | 166039 | [166039-kyou-no-sekai-crazy-world.json](./166039-kyou-no-sekai-crazy-world.json) |
