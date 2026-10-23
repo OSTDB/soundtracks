@@ -5983,6 +5983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Otome | 126832 | [126832-high-school-otome.json](./126832-high-school-otome.json) |
 | High School Secret Romance | 298920 | [298920-high-school-secret-romance.json](./298920-high-school-secret-romance.json) |
 | High School Simulator 2017 | 286757 | [286757-high-school-simulator-2017.json](./286757-high-school-simulator-2017.json) |
+| High School Simulator 2018 | 80997 | [80997-high-school-simulator-2018.json](./80997-high-school-simulator-2018.json) |
 | High School Story | 39189 | [39189-high-school-story.json](./39189-high-school-story.json) |
 | High School Survival | 281945 | [281945-high-school-survival.json](./281945-high-school-survival.json) |
 | High School Vampire Girlfriend | 206003 | [206003-high-school-vampire-girlfriend.json](./206003-high-school-vampire-girlfriend.json) |
@@ -9554,6 +9555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunters For Your Brain | 118804 | [118804-hunters-for-your-brain.json](./118804-hunters-for-your-brain.json) |
 | Hunters Gate | 110327 | [110327-hunters-gate.json](./110327-hunters-gate.json) |
 | Hunters League | 108758 | [108758-hunters-league.json](./108758-hunters-league.json) |
+| Hunters Life | 81059 | [81059-hunters-life.json](./81059-hunters-life.json) |
 | Hunters Music World | 389059 | [389059-hunters-music-world.json](./389059-hunters-music-world.json) |
 | Hunters of Idlearth | 348371 | [348371-hunters-of-idlearth.json](./348371-hunters-of-idlearth.json) |
 | Hunters of Ralk | 291016 | [291016-hunters-of-ralk.json](./291016-hunters-of-ralk.json) |
@@ -9879,6 +9881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Skate | 57755 | [57755-hyper-skate.json](./57755-hyper-skate.json) |
 | Hyper Skater | 303552 | [303552-hyper-skater.json](./303552-hyper-skater.json) |
 | Hyper Ski | 385739 | [385739-hyper-ski.json](./385739-hyper-ski.json) |
+| Hyper Slasher | 81021 | [81021-hyper-slasher.json](./81021-hyper-slasher.json) |
 | Hyper Space | 59807 | [59807-hyper-space.json](./59807-hyper-space.json) |
 | Hyper Sports | 6115 | [6115-hyper-sports.json](./6115-hyper-sports.json) |
 | Hyper Sports R | 103343 | [103343-hyper-sports-r.json](./103343-hyper-sports-r.json) |
