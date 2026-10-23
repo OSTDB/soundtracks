@@ -4285,6 +4285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Mecha Ball | 253102 | [253102-go-mecha-ball.json](./253102-go-mecha-ball.json) |
 | Go Minimal | 186704 | [186704-go-minimal.json](./186704-go-minimal.json) |
 | Go Mission: Space Travel | 21632 | [21632-go-mission-space-travel.json](./21632-go-mission-space-travel.json) |
+| Go Morse Go! Arcade Edition | 86590 | [86590-go-morse-go-arcade-edition.json](./86590-go-morse-go-arcade-edition.json) |
 | Go Net | 128862 | [128862-go-net.json](./128862-go-net.json) |
 | Go Next! | 415995 | [415995-go-next.json](./415995-go-next.json) |
 | Go Noodle | 275687 | [275687-go-noodle.json](./275687-go-noodle.json) |
