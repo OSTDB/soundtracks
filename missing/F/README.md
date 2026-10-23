@@ -8475,6 +8475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Found it! | 283289 | [283289-found-it.json](./283289-found-it.json) |
 | Found'It | 183994 | [183994-foundit.json](./183994-foundit.json) |
 | Foundation Gold | 69802 | [69802-foundation-gold.json](./69802-foundation-gold.json) |
+| Foundation of Nightmares | 81061 | [81061-foundation-of-nightmares.json](./81061-foundation-of-nightmares.json) |
 | Foundation: Galactic Frontier | 292870 | [292870-foundation-galactic-frontier.json](./292870-foundation-galactic-frontier.json) |
 | Founder of the Final Cult | 309175 | [309175-founder-of-the-final-cult.json](./309175-founder-of-the-final-cult.json) |
 | Founders' Fortune | 120455 | [120455-founders-fortune.json](./120455-founders-fortune.json) |
