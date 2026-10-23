@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint School | 139374 | [139374-paint-school.json](./139374-paint-school.json) |
 | Paint School II | 46571 | [46571-paint-school-ii.json](./46571-paint-school-ii.json) |
 | Paint Shape Girl | 87131 | [87131-paint-shape-girl.json](./87131-paint-shape-girl.json) |
+| Paint Skills | 84076 | [84076-paint-skills.json](./84076-paint-skills.json) |
 | Paint Splash | 85326 | [85326-paint-splash.json](./85326-paint-splash.json) |
 | Paint the Snow: Idle | 365230 | [365230-paint-the-snow-idle.json](./365230-paint-the-snow-idle.json) |
 | Paint to Pixel | 192959 | [192959-paint-to-pixel.json](./192959-paint-to-pixel.json) |
@@ -7540,6 +7541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plastic Memories | 130603 | [130603-plastic-memories.json](./130603-plastic-memories.json) |
 | Plastic Model | 229684 | [229684-plastic-model.json](./229684-plastic-model.json) |
 | Plastic Playground | 33116 | [33116-plastic-playground.json](./33116-plastic-playground.json) |
+| Plastic Rebellion | 84052 | [84052-plastic-rebellion.json](./84052-plastic-rebellion.json) |
 | Plastic Soldiers | 111701 | [111701-plastic-soldiers.json](./111701-plastic-soldiers.json) |
 | Plastic Tactics Online | 276620 | [276620-plastic-tactics-online.json](./276620-plastic-tactics-online.json) |
 | Plastic Trick | 321592 | [321592-plastic-trick.json](./321592-plastic-trick.json) |
@@ -11336,6 +11338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primitive Life Simulator | 336400 | [336400-primitive-life-simulator.json](./336400-primitive-life-simulator.json) |
 | Primitive Race | 97228 | [97228-primitive-race.json](./97228-primitive-race.json) |
 | Primitive Road | 30659 | [30659-primitive-road.json](./30659-primitive-road.json) |
+| Primitive Shooter | 84075 | [84075-primitive-shooter.json](./84075-primitive-shooter.json) |
 | Primitive Survival | 105361 | [105361-primitive-survival.json](./105361-primitive-survival.json) |
 | Primitive Survival | 343602 | [343602-primitive-survival.json](./343602-primitive-survival.json) |
 | Primitive Wars | 27591 | [27591-primitive-wars.json](./27591-primitive-wars.json) |
@@ -12751,6 +12754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project T | 301327 | [301327-project-t.json](./301327-project-t.json) |
 | Project T.A.G | 388334 | [388334-project-t-a-g.json](./388334-project-t-a-g.json) |
 | Project Tachyon | 297793 | [297793-project-tachyon.json](./297793-project-tachyon.json) |
+| Project Tank | 84065 | [84065-project-tank.json](./84065-project-tank.json) |
 | Project Tarvotan | 34809 | [34809-project-tarvotan.json](./34809-project-tarvotan.json) |
 | Project Temporality | 10725 | [10725-project-temporality.json](./10725-project-temporality.json) |
 | Project Terminus VR | 149838 | [149838-project-terminus-vr.json](./149838-project-terminus-vr.json) |
@@ -12953,6 +12957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projeto Real: Rabbit the Pet | 286981 | [286981-projeto-real-rabbit-the-pet.json](./286981-projeto-real-rabbit-the-pet.json) |
 | Prokshov | 143728 | [143728-prokshov.json](./143728-prokshov.json) |
 | Prolegomena to a Hyperdimensional Interface That Will Be Able to Manifest From Three-Minute Interchanges | 324744 | [324744-prolegomena-to-a-hyperdimensional-interface-that-will-be-able-to-manifest-from-three-minute-interchanges.json](./324744-prolegomena-to-a-hyperdimensional-interface-that-will-be-able-to-manifest-from-three-minute-interchanges.json) |
+| Proletarian Budget Survival | 84035 | [84035-proletarian-budget-survival.json](./84035-proletarian-budget-survival.json) |
 | Prologue | 127345 | [127345-prologue.json](./127345-prologue.json) |
 | Prologue For A Vacant Kingdom | 116206 | [116206-prologue-for-a-vacant-kingdom.json](./116206-prologue-for-a-vacant-kingdom.json) |
 | Prologue: Go Wayback! | 324576 | [324576-prologue-go-wayback.json](./324576-prologue-go-wayback.json) |
@@ -14382,6 +14387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Escapes: Paws & Claws | 351097 | [351097-puzzle-escapes-paws-and-claws.json](./351097-puzzle-escapes-paws-and-claws.json) |
 | Puzzle Expedition | 35614 | [35614-puzzle-expedition.json](./35614-puzzle-expedition.json) |
 | Puzzle Fever | 166631 | [166631-puzzle-fever.json](./166631-puzzle-fever.json) |
+| Puzzle for Kids | 84066 | [84066-puzzle-for-kids.json](./84066-puzzle-for-kids.json) |
 | Puzzle For Peppa Pig | 100825 | [100825-puzzle-for-peppa-pig.json](./100825-puzzle-for-peppa-pig.json) |
 | Puzzle Forge Dungeon | 130197 | [130197-puzzle-forge-dungeon.json](./130197-puzzle-forge-dungeon.json) |
 | Puzzle Freak | 196795 | [196795-puzzle-freak.json](./196795-puzzle-freak.json) |
