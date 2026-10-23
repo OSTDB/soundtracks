@@ -1841,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majesty 2: Battles of Ardania | 19198 | [19198-majesty-2-battles-of-ardania.json](./19198-majesty-2-battles-of-ardania.json) |
 | Majesty 2: Kingmaker | 19199 | [19199-majesty-2-kingmaker.json](./19199-majesty-2-kingmaker.json) |
 | Majesty 2: Monster Kingdom | 19197 | [19197-majesty-2-monster-kingdom.json](./19197-majesty-2-monster-kingdom.json) |
+| Majesty 2: Pocket Kingdom | 66529 | [66529-majesty-2-pocket-kingdom.json](./66529-majesty-2-pocket-kingdom.json) |
 | Majesty 2: The Fantasy Kingdom Sim | 2043 | [2043-majesty-2-the-fantasy-kingdom-sim.json](./2043-majesty-2-the-fantasy-kingdom-sim.json) |
 | Majesty: Northern Kingdom | 224015 | [224015-majesty-northern-kingdom.json](./224015-majesty-northern-kingdom.json) |
 | Majesty: The Fantasy Kingdom Sim | 781 | [781-majesty-the-fantasy-kingdom-sim.json](./781-majesty-the-fantasy-kingdom-sim.json) |
@@ -4639,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mawang: Dark Lord Defense | 350396 | [350396-mawang-dark-lord-defense.json](./350396-mawang-dark-lord-defense.json) |
 | Mawangseonge Daara! Yongbyeongdan Seutori | 219976 | [219976-mawangseonge-daara-yongbyeongdan-seutori.json](./219976-mawangseonge-daara-yongbyeongdan-seutori.json) |
 | Mawaranu Hoshi no Stellarium | 358343 | [358343-mawaranu-hoshi-no-stellarium.json](./358343-mawaranu-hoshi-no-stellarium.json) |
+| Mawashite Tsunageru Touch Panic | 66498 | [66498-mawashite-tsunageru-touch-panic.json](./66498-mawashite-tsunageru-touch-panic.json) |
 | Mawaskes | 45999 | [45999-mawaskes.json](./45999-mawaskes.json) |
 | Mawkey The Last Macaw | 358950 | [358950-mawkey-the-last-macaw.json](./358950-mawkey-the-last-macaw.json) |
 | Mawthorne | 201504 | [201504-mawthorne.json](./201504-mawthorne.json) |
@@ -7993,6 +7995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Awakening VR | 284720 | [284720-metro-awakening-vr.json](./284720-metro-awakening-vr.json) |
 | Metro Blossom | 203519 | [203519-metro-blossom.json](./203519-metro-blossom.json) |
 | Metro City: Night Shift | 416890 | [416890-metro-city-night-shift.json](./416890-metro-city-night-shift.json) |
+| Metro Conflict | 66518 | [66518-metro-conflict.json](./66518-metro-conflict.json) |
 | Metro Conflict: The Origin | 75070 | [75070-metro-conflict-the-origin.json](./75070-metro-conflict-the-origin.json) |
 | Metro Connect | 234463 | [234463-metro-connect.json](./234463-metro-connect.json) |
 | Metro Exodus: Aurora Limited Edition | 109587 | [109587-metro-exodus-aurora-limited-edition.json](./109587-metro-exodus-aurora-limited-edition.json) |
@@ -12440,6 +12443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter 3 Ultimate | 2271 | [2271-monster-hunter-3-ultimate.json](./2271-monster-hunter-3-ultimate.json) |
 | Monster Hunter 4 Ultimate | 6440 | [6440-monster-hunter-4-ultimate.json](./6440-monster-hunter-4-ultimate.json) |
 | Monster Hunter Diary: Poka Poka Airu Village G | 65178 | [65178-monster-hunter-diary-poka-poka-airu-village-g.json](./65178-monster-hunter-diary-poka-poka-airu-village-g.json) |
+| Monster Hunter Diary: Poka-poka Airu Village | 66526 | [66526-monster-hunter-diary-poka-poka-airu-village.json](./66526-monster-hunter-diary-poka-poka-airu-village.json) |
 | Monster Hunter Dual Pack | 78626 | [78626-monster-hunter-dual-pack.json](./78626-monster-hunter-dual-pack.json) |
 | Monster Hunter Explore | 58601 | [58601-monster-hunter-explore.json](./58601-monster-hunter-explore.json) |
 | Monster Hunter Freedom | 2269 | [2269-monster-hunter-freedom.json](./2269-monster-hunter-freedom.json) |
@@ -14798,6 +14802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr.President! | 24972 | [24972-mr-president.json](./24972-mr-president.json) |
 | Mr.Robbo | 311868 | [311868-mr-robbo.json](./311868-mr-robbo.json) |
 | Mr.Slime in Dungeon | 327974 | [327974-mr-slime-in-dungeon.json](./327974-mr-slime-in-dungeon.json) |
+| Mr.Space!! | 66493 | [66493-mr-space.json](./66493-mr-space.json) |
 | Mr.T Survival | 249295 | [249295-mr-t-survival.json](./249295-mr-t-survival.json) |
 | Mr.Treemp | 190040 | [190040-mr-treemp.json](./190040-mr-treemp.json) |
 | mr.Vegan | 103639 | [103639-mr-vegan.json](./103639-mr-vegan.json) |
