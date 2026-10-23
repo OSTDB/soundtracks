@@ -7372,6 +7372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Stars 2 | 89722 | [89722-lucky-stars-2.json](./89722-lucky-stars-2.json) |
 | Lucky Stars Video Slots | 175990 | [175990-lucky-stars-video-slots.json](./175990-lucky-stars-video-slots.json) |
 | Lucky Stars: Special Edition | 107711 | [107711-lucky-stars-special-edition.json](./107711-lucky-stars-special-edition.json) |
+| Lucky Sudoku | 95899 | [95899-lucky-sudoku.json](./95899-lucky-sudoku.json) |
 | Lucky Time | 287532 | [287532-lucky-time.json](./287532-lucky-time.json) |
 | Lucky Tlhalerwa: Super Incursion | 190059 | [190059-lucky-tlhalerwa-super-incursion.json](./190059-lucky-tlhalerwa-super-incursion.json) |
 | Lucky Tlhalerwa's Cybernetic Titan | 173204 | [173204-lucky-tlhalerwas-cybernetic-titan.json](./173204-lucky-tlhalerwas-cybernetic-titan.json) |
