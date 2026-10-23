@@ -5204,6 +5204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evanesce Theory | 399738 | [399738-evanesce-theory.json](./399738-evanesce-theory.json) |
 | Evangeline | 26284 | [26284-evangeline.json](./26284-evangeline.json) |
 | Evangeline's Defense | 203556 | [203556-evangelines-defense.json](./203556-evangelines-defense.json) |
+| Evangelion VR: The Throne of Souls | 49119 | [49119-evangelion-vr-the-throne-of-souls.json](./49119-evangelion-vr-the-throne-of-souls.json) |
 | Evangelion: Breaking Dawn | 382795 | [382795-evangelion-breaking-dawn.json](./382795-evangelion-breaking-dawn.json) |
 | Evangelion: Jo | 67657 | [67657-evangelion-jo.json](./67657-evangelion-jo.json) |
 | Evard the Hermit: Through Fears | 221152 | [221152-evard-the-hermit-through-fears.json](./221152-evard-the-hermit-through-fears.json) |
