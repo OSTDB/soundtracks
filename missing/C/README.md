@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Monster Bass | 43219 | [43219-cabelas-monster-bass.json](./43219-cabelas-monster-bass.json) |
 | Cabela's Outdoor Adventures | 3844 | [3844-cabelas-outdoor-adventures.json](./3844-cabelas-outdoor-adventures.json) |
 | Cabela's Outdoor Adventures | 91390 | [91390-cabelas-outdoor-adventures.json](./91390-cabelas-outdoor-adventures.json) |
+| Cabela's Sportman's Challenge | 93435 | [93435-cabelas-sportmans-challenge.json](./93435-cabelas-sportmans-challenge.json) |
 | Cabela's Survival: Shadows of Katmai | 6651 | [6651-cabelas-survival-shadows-of-katmai.json](./6651-cabelas-survival-shadows-of-katmai.json) |
 | Cabela's Trophy Bucks | 4739 | [4739-cabelas-trophy-bucks.json](./4739-cabelas-trophy-bucks.json) |
 | Cabela's Ultimate Deer Hunt | 72036 | [72036-cabelas-ultimate-deer-hunt.json](./72036-cabelas-ultimate-deer-hunt.json) |
@@ -5212,6 +5213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Master | 247054 | [247054-chess-master.json](./247054-chess-master.json) |
 | Chess Master | 346114 | [346114-chess-master.json](./346114-chess-master.json) |
 | Chess Match | 231202 | [231202-chess-match.json](./231202-chess-match.json) |
+| Chess Mates | 93402 | [93402-chess-mates.json](./93402-chess-mates.json) |
 | Chess Mega Bundle | 152872 | [152872-chess-mega-bundle.json](./152872-chess-mega-bundle.json) |
 | Chess Mess | 353772 | [353772-chess-mess.json](./353772-chess-mess.json) |
 | Chess Minimal | 147955 | [147955-chess-minimal.json](./147955-chess-minimal.json) |
@@ -14539,6 +14541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryspace | 240746 | [240746-cryspace.json](./240746-cryspace.json) |
 | Crystal | 145275 | [145275-crystal.json](./145275-crystal.json) |
 | Crystal Anomaly | 194379 | [194379-crystal-anomaly.json](./194379-crystal-anomaly.json) |
+| Crystal Ball | 93442 | [93442-crystal-ball.json](./93442-crystal-ball.json) |
 | Crystal Blast VR | 243581 | [243581-crystal-blast-vr.json](./243581-crystal-blast-vr.json) |
 | Crystal Breaker | 284978 | [284978-crystal-breaker.json](./284978-crystal-breaker.json) |
 | Crystal Breaker Inc. | 419156 | [419156-crystal-breaker-inc.json](./419156-crystal-breaker-inc.json) |
@@ -15200,6 +15203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cultures: 8th Wonder of the World | 200207 | [200207-cultures-8th-wonder-of-the-world.json](./200207-cultures-8th-wonder-of-the-world.json) |
 | Cultures: Die Abenteuerbox | 85764 | [85764-cultures-die-abenteuerbox.json](./85764-cultures-die-abenteuerbox.json) |
 | Cultures: Die Rache des Regengottes | 93039 | [93039-cultures-die-rache-des-regengottes.json](./93039-cultures-die-rache-des-regengottes.json) |
+| Cultures: Die Saga | 93426 | [93426-cultures-die-saga.json](./93426-cultures-die-saga.json) |
 | Cultures: Northland | 11381 | [11381-cultures-northland.json](./11381-cultures-northland.json) |
 | Cultures: Northland + 8th Wonder of the World | 154437 | [154437-cultures-northland-8th-wonder-of-the-world.json](./154437-cultures-northland-8th-wonder-of-the-world.json) |
 | Cultus | 156690 | [156690-cultus.json](./156690-cultus.json) |
