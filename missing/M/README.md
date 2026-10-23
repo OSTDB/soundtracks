@@ -2483,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manludo | 301820 | [301820-manludo.json](./301820-manludo.json) |
 | Manludo 2 | 303643 | [303643-manludo-2.json](./303643-manludo-2.json) |
 | Manly Men Fighting | 58796 | [58796-manly-men-fighting.json](./58796-manly-men-fighting.json) |
+| Manna Munchers | 73107 | [73107-manna-munchers.json](./73107-manna-munchers.json) |
 | MannaRites | 140566 | [140566-mannarites.json](./140566-mannarites.json) |
 | MannaRites Gold | 265328 | [265328-mannarites-gold.json](./265328-mannarites-gold.json) |
 | MannaWars | 166045 | [166045-mannawars.json](./166045-mannawars.json) |
@@ -8318,6 +8319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | miCoach by adidas | 78638 | [78638-micoach-by-adidas.json](./78638-micoach-by-adidas.json) |
 | Micom Slayer | 98238 | [98238-micom-slayer.json](./98238-micom-slayer.json) |
 | Micro Abyss | 166768 | [166768-micro-abyss.json](./166768-micro-abyss.json) |
+| Micro Adventure No. 2 Jungle Quest | 73117 | [73117-micro-adventure-no-2-jungle-quest.json](./73117-micro-adventure-no-2-jungle-quest.json) |
 | Micro Annihilation | 143519 | [143519-micro-annihilation.json](./143519-micro-annihilation.json) |
 | Micro Arcade Tetris | 234082 | [234082-micro-arcade-tetris.json](./234082-micro-arcade-tetris.json) |
 | Micro Battles 2 | 235137 | [235137-micro-battles-2.json](./235137-micro-battles-2.json) |
@@ -8665,6 +8667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Minesweeper | 127494 | [127494-microsoft-minesweeper.json](./127494-microsoft-minesweeper.json) |
 | Microsoft Oceans | 146588 | [146588-microsoft-oceans.json](./146588-microsoft-oceans.json) |
 | Microsoft Pinball Arcade | 249159 | [249159-microsoft-pinball-arcade.json](./249159-microsoft-pinball-arcade.json) |
+| Microsoft Puzzle Collection Entertainment Pack | 73142 | [73142-microsoft-puzzle-collection-entertainment-pack.json](./73142-microsoft-puzzle-collection-entertainment-pack.json) |
 | Microsoft Rebound | 209515 | [209515-microsoft-rebound.json](./209515-microsoft-rebound.json) |
 | Microsoft Return of Arcade | 22620 | [22620-microsoft-return-of-arcade.json](./22620-microsoft-return-of-arcade.json) |
 | Microsoft Revenge of Arcade | 84228 | [84228-microsoft-revenge-of-arcade.json](./84228-microsoft-revenge-of-arcade.json) |
@@ -9079,6 +9082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Switch Force! Hyper Drive Edition | 2176 | [2176-mighty-switch-force-hyper-drive-edition.json](./2176-mighty-switch-force-hyper-drive-edition.json) |
 | Mighty Tank | 221890 | [221890-mighty-tank.json](./221890-mighty-tank.json) |
 | Mighty the Armadillo | 330152 | [330152-mighty-the-armadillo.json](./330152-mighty-the-armadillo.json) |
+| Mighty Tyranitar | 73139 | [73139-mighty-tyranitar.json](./73139-mighty-tyranitar.json) |
 | Mighty Warriors | 40388 | [40388-mighty-warriors.json](./40388-mighty-warriors.json) |
 | Mighty Warriors: Rise of the East | 58116 | [58116-mighty-warriors-rise-of-the-east.json](./58116-mighty-warriors-rise-of-the-east.json) |
 | MightyBowOfGreenHills | 96761 | [96761-mightybowofgreenhills.json](./96761-mightybowofgreenhills.json) |
@@ -10463,6 +10467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minsho | 294805 | [294805-minsho.json](./294805-minsho.json) |
 | Minsk '44 Gold | 384921 | [384921-minsk-44-gold.json](./384921-minsk-44-gold.json) |
 | Minskies | 115631 | [115631-minskies.json](./115631-minskies.json) |
+| Minskies: The Abduction | 73102 | [73102-minskies-the-abduction.json](./73102-minskies-the-abduction.json) |
 | MinSweeper | 84137 | [84137-minsweeper.json](./84137-minsweeper.json) |
 | Mint Christmas | 273781 | [273781-mint-christmas.json](./273781-mint-christmas.json) |
 | Mint Dodgers | 320165 | [320165-mint-dodgers.json](./320165-mint-dodgers.json) |
@@ -14802,6 +14807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Holmes: The Case of the Dancing Men - Collector's Edition | 253896 | [253896-ms-holmes-the-case-of-the-dancing-men-collectors-edition.json](./253896-ms-holmes-the-case-of-the-dancing-men-collectors-edition.json) |
 | Ms. Holmes: The Milverton Plot - Collector's Edition | 337244 | [337244-ms-holmes-the-milverton-plot-collectors-edition.json](./337244-ms-holmes-the-milverton-plot-collectors-edition.json) |
 | Ms. Holmes: The Monster of the Baskervilles - Collector's Edition | 119688 | [119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json](./119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json) |
+| Ms. Infinity's Math Mansion - Kindergarten | 73098 | [73098-ms-infinitys-math-mansion-kindergarten.json](./73098-ms-infinitys-math-mansion-kindergarten.json) |
 | Ms. Match | 313866 | [313866-ms-match.json](./313866-ms-match.json) |
 | Ms. Pac Man | 218321 | [218321-ms-pac-man.json](./218321-ms-pac-man.json) |
 | Ms. Pac Person | 209155 | [209155-ms-pac-person.json](./209155-ms-pac-person.json) |
