@@ -1287,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A&E Crime Scene: AR | 95872 | [95872-a-and-e-crime-scene-ar.json](./95872-a-and-e-crime-scene-ar.json) |
 | A=B | 182188 | [182188-a-b.json](./182188-a-b.json) |
 | A100 | 200380 | [200380-a100.json](./200380-a100.json) |
+| A2 Racer II | 80309 | [80309-a2-racer-ii.json](./80309-a2-racer-ii.json) |
 | A2 Racer III: Europa Tour | 44841 | [44841-a2-racer-iii-europa-tour.json](./44841-a2-racer-iii-europa-tour.json) |
 | A2Be: A Science Fiction Narrative | 87810 | [87810-a2be-a-science-fiction-narrative.json](./87810-a2be-a-science-fiction-narrative.json) |
 | A2C: Ayry Seems to be Playtesting a 2D Runner Shooter from Cci | 307165 | [307165-a2c-ayry-seems-to-be-playtesting-a-2d-runner-shooter-from-cci.json](./307165-a2c-ayry-seems-to-be-playtesting-a-2d-runner-shooter-from-cci.json) |
@@ -2192,11 +2193,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACT | 169818 | [169818-act.json](./169818-act.json) |
 | Act Casual | 301595 | [301595-act-casual.json](./301595-act-casual.json) |
 | Act it Out XL!: A Game of Charades | 81156 | [81156-act-it-out-xl-a-game-of-charades.json](./81156-act-it-out-xl-a-game-of-charades.json) |
+| Act It Out! A Game of Charades | 80333 | [80333-act-it-out-a-game-of-charades.json](./80333-act-it-out-a-game-of-charades.json) |
 | Act Normal! | 301690 | [301690-act-normal.json](./301690-act-normal.json) |
 | Act of Aggression | 8920 | [8920-act-of-aggression.json](./8920-act-of-aggression.json) |
 | Act of Aggression: Reboot Edition | 52552 | [52552-act-of-aggression-reboot-edition.json](./52552-act-of-aggression-reboot-edition.json) |
 | Act-Fancer: Cybernetick Hyper Weapon | 12270 | [12270-act-fancer-cybernetick-hyper-weapon.json](./12270-act-fancer-cybernetick-hyper-weapon.json) |
 | Actala: The Hero's Shadow | 219700 | [219700-actala-the-heros-shadow.json](./219700-actala-the-heros-shadow.json) |
+| Acter World | 80364 | [80364-acter-world.json](./80364-acter-world.json) |
 | Acting Out | 401278 | [401278-acting-out.json](./401278-acting-out.json) |
 | Action 52 | 238205 | [238205-action-52.json](./238205-action-52.json) |
 | Action 52 | 5340 | [5340-action-52.json](./5340-action-52.json) |
@@ -2779,6 +2782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Reborn | 240155 | [240155-adventure-reborn.json](./240155-adventure-reborn.json) |
 | Adventure Roll | 186101 | [186101-adventure-roll.json](./186101-adventure-roll.json) |
 | Adventure Rush | 192674 | [192674-adventure-rush.json](./192674-adventure-rush.json) |
+| Adventure Series | 80367 | [80367-adventure-series.json](./80367-adventure-series.json) |
 | Adventure Sketchers: Draw, Play, Create | 230338 | [230338-adventure-sketchers-draw-play-create.json](./230338-adventure-sketchers-draw-play-create.json) |
 | Adventure Slime | 122073 | [122073-adventure-slime.json](./122073-adventure-slime.json) |
 | Adventure Smasher | 181168 | [181168-adventure-smasher.json](./181168-adventure-smasher.json) |
@@ -2856,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in Math | 62154 | [62154-adventures-in-math.json](./62154-adventures-in-math.json) |
 | Adventures in Odyssey 3D CD-ROM | 206093 | [206093-adventures-in-odyssey-3d-cd-rom.json](./206093-adventures-in-odyssey-3d-cd-rom.json) |
 | Adventures in Odyssey and the Great Escape | 66067 | [66067-adventures-in-odyssey-and-the-great-escape.json](./66067-adventures-in-odyssey-and-the-great-escape.json) |
+| Adventures in Odyssey and the Treasure of the Incas | 80366 | [80366-adventures-in-odyssey-and-the-treasure-of-the-incas.json](./80366-adventures-in-odyssey-and-the-treasure-of-the-incas.json) |
 | Adventures in Odyssey! Answer That! | 66070 | [66070-adventures-in-odyssey-answer-that.json](./66070-adventures-in-odyssey-answer-that.json) |
 | Adventures in Odyssey! The Sword of the Spirit | 66066 | [66066-adventures-in-odyssey-the-sword-of-the-spirit.json](./66066-adventures-in-odyssey-the-sword-of-the-spirit.json) |
 | Adventures in the Dimension of Insidual Cruelitude. | 218996 | [218996-adventures-in-the-dimension-of-insidual-cruelitude.json](./218996-adventures-in-the-dimension-of-insidual-cruelitude.json) |
@@ -12498,6 +12503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro-g | 133366 | [133366-astro-g.json](./133366-astro-g.json) |
 | Astro: The Beginning | 118431 | [118431-astro-the-beginning.json](./118431-astro-the-beginning.json) |
 | Astro4x | 118009 | [118009-astro4x.json](./118009-astro4x.json) |
+| AstroAvenger | 80352 | [80352-astroavenger.json](./80352-astroavenger.json) |
 | Astroball | 109211 | [109211-astroball.json](./109211-astroball.json) |
 | Astroball | 338170 | [338170-astroball.json](./338170-astroball.json) |
 | Astrobarian | 366849 | [366849-astrobarian.json](./366849-astrobarian.json) |
