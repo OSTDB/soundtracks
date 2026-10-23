@@ -10839,6 +10839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingo Deluxe Bundle | 208921 | [208921-slingo-deluxe-bundle.json](./208921-slingo-deluxe-bundle.json) |
 | Slingo Quest Hawaii | 73807 | [73807-slingo-quest-hawaii.json](./73807-slingo-quest-hawaii.json) |
 | Slingoween | 338940 | [338940-slingoween.json](./338940-slingoween.json) |
+| Slingray | 62494 | [62494-slingray.json](./62494-slingray.json) |
 | Slingshell, by Muno! | 245729 | [245729-slingshell-by-muno.json](./245729-slingshell-by-muno.json) |
 | Slingshot | 60577 | [60577-slingshot.json](./60577-slingshot.json) |
 | Slingshot Assist | 26842 | [26842-slingshot-assist.json](./26842-slingshot-assist.json) |
@@ -19400,6 +19401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Rebels: Recon Missions | 23976 | [23976-star-wars-rebels-recon-missions.json](./23976-star-wars-rebels-recon-missions.json) |
 | Star Wars Trilogy: Apprentice of the Force | 6609 | [6609-star-wars-trilogy-apprentice-of-the-force.json](./6609-star-wars-trilogy-apprentice-of-the-force.json) |
 | Star Wars: 1313 | 1386 | [1386-star-wars-1313.json](./1386-star-wars-1313.json) |
+| Star Wars: Attack Squadrons | 62510 | [62510-star-wars-attack-squadrons.json](./62510-star-wars-attack-squadrons.json) |
 | Star Wars: Battle of the Sith Lords | 75088 | [75088-star-wars-battle-of-the-sith-lords.json](./75088-star-wars-battle-of-the-sith-lords.json) |
 | Star Wars: Battle Pod | 75086 | [75086-star-wars-battle-pod.json](./75086-star-wars-battle-pod.json) |
 | Star Wars: Battlefront - Deluxe Edition | 129535 | [129535-star-wars-battlefront-deluxe-edition.json](./129535-star-wars-battlefront-deluxe-edition.json) |
@@ -22078,6 +22080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streaq | 175603 | [175603-streaq.json](./175603-streaq.json) |
 | Streatham Hill Stories | 346467 | [346467-streatham-hill-stories.json](./346467-streatham-hill-stories.json) |
 | Strect | 413725 | [413725-strect.json](./413725-strect.json) |
+| Streemerz | 62522 | [62522-streemerz.json](./62522-streemerz.json) |
 | Street & Girls | 382285 | [382285-street-and-girls.json](./382285-street-and-girls.json) |
 | Street 42 | 371133 | [371133-street-42.json](./371133-street-42.json) |
 | Street Air Hockey | 175185 | [175185-street-air-hockey.json](./175185-street-air-hockey.json) |
