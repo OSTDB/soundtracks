@@ -2827,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get-'em-All Bundle | 136351 | [136351-get-em-all-bundle.json](./136351-get-em-all-bundle.json) |
 | GET! Boku no Mushi Tsukamaete | 49603 | [49603-get-boku-no-mushi-tsukamaete.json](./49603-get-boku-no-mushi-tsukamaete.json) |
 | Get! Monster | 240110 | [240110-get-monster.json](./240110-get-monster.json) |
+| Get!! Colonies | 67082 | [67082-get-colonies.json](./67082-get-colonies.json) |
 | Getamped 2 | 57925 | [57925-getamped-2.json](./57925-getamped-2.json) |
 | GetAmped Mobile | 114178 | [114178-getamped-mobile.json](./114178-getamped-mobile.json) |
 | Getaway Entertainment 6 Pack | 201851 | [201851-getaway-entertainment-6-pack.json](./201851-getaway-entertainment-6-pack.json) |
@@ -8237,6 +8238,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guise of the Wolf | 7669 | [7669-guise-of-the-wolf.json](./7669-guise-of-the-wolf.json) |
 | Guitar Band Battle | 175729 | [175729-guitar-band-battle.json](./175729-guitar-band-battle.json) |
 | Guitar Band: Rock Battle | 299999 | [299999-guitar-band-rock-battle.json](./299999-guitar-band-rock-battle.json) |
+| Guitar Freaks & DrumMania: Masterpiece Gold | 67103 | [67103-guitar-freaks-and-drummania-masterpiece-gold.json](./67103-guitar-freaks-and-drummania-masterpiece-gold.json) |
+| Guitar Freaks & DrumMania: Masterpiece Silver | 67099 | [67099-guitar-freaks-and-drummania-masterpiece-silver.json](./67099-guitar-freaks-and-drummania-masterpiece-silver.json) |
+| Guitar Freaks V2 & DrumMania V2 | 67100 | [67100-guitar-freaks-v2-and-drummania-v2.json](./67100-guitar-freaks-v2-and-drummania-v2.json) |
 | Guitar Freaks V3 & DrumMania V3 | 78349 | [78349-guitar-freaks-v3-and-drummania-v3.json](./78349-guitar-freaks-v3-and-drummania-v3.json) |
 | Guitar Fretter | 134902 | [134902-guitar-fretter.json](./134902-guitar-fretter.json) |
 | Guitar Girl | 138548 | [138548-guitar-girl.json](./138548-guitar-girl.json) |
@@ -8818,6 +8822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunStar's Gambit | 340405 | [340405-gunstars-gambit.json](./340405-gunstars-gambit.json) |
 | Gunstars | 209467 | [209467-gunstars.json](./209467-gunstars.json) |
 | Gunstoppable | 347106 | [347106-gunstoppable.json](./347106-gunstoppable.json) |
+| Gunstorm | 67061 | [67061-gunstorm.json](./67061-gunstorm.json) |
 | Gunstringer: Dead Man Running | 63918 | [63918-gunstringer-dead-man-running.json](./63918-gunstringer-dead-man-running.json) |
 | GunSuit Guardians | 241291 | [241291-gunsuit-guardians.json](./241291-gunsuit-guardians.json) |
 | Gunswitch | 306373 | [306373-gunswitch.json](./306373-gunswitch.json) |
