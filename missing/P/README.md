@@ -4925,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture the Difference! 2 | 362207 | [362207-picture-the-difference-2.json](./362207-picture-the-difference-2.json) |
 | Picture the Link | 26828 | [26828-picture-the-link.json](./26828-picture-the-link.json) |
 | Picture Toys | 392894 | [392894-picture-toys.json](./392894-picture-toys.json) |
+| PictureBook Games: The Royal Bluff | 77127 | [77127-picturebook-games-the-royal-bluff.json](./77127-picturebook-games-the-royal-bluff.json) |
 | Pictureka! Museum Mayhem | 59969 | [59969-pictureka-museum-mayhem.json](./59969-pictureka-museum-mayhem.json) |
 | Pictures at an Exhibition | 409408 | [409408-pictures-at-an-exhibition.json](./409408-pictures-at-an-exhibition.json) |
 | Pictures Mania Deluxe | 88748 | [88748-pictures-mania-deluxe.json](./88748-pictures-mania-deluxe.json) |
@@ -8204,6 +8205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Pack: Words & Numbers | 85346 | [85346-pocket-pack-words-and-numbers.json](./85346-pocket-pack-words-and-numbers.json) |
 | Pocket Pandas | 114730 | [114730-pocket-pandas.json](./114730-pocket-pandas.json) |
 | Pocket Pet | 230730 | [230730-pocket-pet.json](./230730-pocket-pet.json) |
+| Pocket Ping Pong 2005 | 77092 | [77092-pocket-ping-pong-2005.json](./77092-pocket-ping-pong-2005.json) |
 | Pocket Pioneers | 152388 | [152388-pocket-pioneers.json](./152388-pocket-pioneers.json) |
 | Pocket Pix | 260880 | [260880-pocket-pix.json](./260880-pocket-pix.json) |
 | Pocket Planes | 65017 | [65017-pocket-planes.json](./65017-pocket-planes.json) |
@@ -11533,6 +11535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Paradise | 284777 | [284777-princess-paradise.json](./284777-princess-paradise.json) |
 | Princess Parent | 271598 | [271598-princess-parent.json](./271598-princess-parent.json) |
 | Princess Party | 394498 | [394498-princess-party.json](./394498-princess-party.json) |
+| Princess Party Camellia | 77129 | [77129-princess-party-camellia.json](./77129-princess-party-camellia.json) |
 | Princess Peach Sex Hack | 294709 | [294709-princess-peach-sex-hack.json](./294709-princess-peach-sex-hack.json) |
 | Princess Piano | 174230 | [174230-princess-piano.json](./174230-princess-piano.json) |
 | Princess Poffin and the Spider Invasion | 252078 | [252078-princess-poffin-and-the-spider-invasion.json](./252078-princess-poffin-and-the-spider-invasion.json) |
@@ -13443,6 +13446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PTRL Stockcar Edition | 212136 | [212136-ptrl-stockcar-edition.json](./212136-ptrl-stockcar-edition.json) |
 | PTS: Coach | 383395 | [383395-pts-coach.json](./383395-pts-coach.json) |
 | Pual Blarp Ghoul Cop | 327945 | [327945-pual-blarp-ghoul-cop.json](./327945-pual-blarp-ghoul-cop.json) |
+| Pub Darts | 77101 | [77101-pub-darts.json](./77101-pub-darts.json) |
 | Pub Encounter | 33397 | [33397-pub-encounter.json](./33397-pub-encounter.json) |
 | Pub Fascination | 226735 | [226735-pub-fascination.json](./226735-pub-fascination.json) |
 | Pub Games | 223092 | [223092-pub-games.json](./223092-pub-games.json) |
@@ -14577,6 +14581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Series Vol. 9: Sudoku 2 Deluxe | 83411 | [83411-puzzle-series-vol-9-sudoku-2-deluxe.json](./83411-puzzle-series-vol-9-sudoku-2-deluxe.json) |
 | Puzzle Series: Jigsaw Puzzle - Koneko Mekuri-hen | 344572 | [344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json](./344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json) |
 | Puzzle Seventeen | 346910 | [346910-puzzle-seventeen.json](./346910-puzzle-seventeen.json) |
+| Puzzle Shuffle | 77115 | [77115-puzzle-shuffle.json](./77115-puzzle-shuffle.json) |
 | Puzzle Sigma | 176420 | [176420-puzzle-sigma.json](./176420-puzzle-sigma.json) |
 | Puzzle Snake | 206382 | [206382-puzzle-snake.json](./206382-puzzle-snake.json) |
 | Puzzle Spy International | 329773 | [329773-puzzle-spy-international.json](./329773-puzzle-spy-international.json) |
