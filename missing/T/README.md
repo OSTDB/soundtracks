@@ -23702,6 +23702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tranquility | 55825 | [55825-tranquility.json](./55825-tranquility.json) |
 | Tranquility Base Mining Colony: The Moon - Explorer Version | 106324 | [106324-tranquility-base-mining-colony-the-moon-explorer-version.json](./106324-tranquility-base-mining-colony-the-moon-explorer-version.json) |
 | Tranquility I | 131336 | [131336-tranquility-i.json](./131336-tranquility-i.json) |
+| Tranquilizer Gun | 61396 | [61396-tranquilizer-gun.json](./61396-tranquilizer-gun.json) |
 | Tranquillizer Gun | 6128 | [6128-tranquillizer-gun.json](./6128-tranquillizer-gun.json) |
 | Trans Coming Out Simulator 2018 | 176927 | [176927-trans-coming-out-simulator-2018.json](./176927-trans-coming-out-simulator-2018.json) |
 | Trans Goetia | 239529 | [239529-trans-goetia.json](./239529-trans-goetia.json) |
@@ -25711,6 +25712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuda:Kuda | 244225 | [244225-tuda-kuda.json](./244225-tuda-kuda.json) |
 | Tuff E Nuff | 46006 | [46006-tuff-e-nuff.json](./46006-tuff-e-nuff.json) |
 | Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
+| Tuffy the Corgi and the Tower of Bones | 61402 | [61402-tuffy-the-corgi-and-the-tower-of-bones.json](./61402-tuffy-the-corgi-and-the-tower-of-bones.json) |
 | Tug of War A | 354371 | [354371-tug-of-war-a.json](./354371-tug-of-war-a.json) |
 | Tug of War B | 354375 | [354375-tug-of-war-b.json](./354375-tug-of-war-b.json) |
 | Tug of Words | 198947 | [198947-tug-of-words.json](./198947-tug-of-words.json) |
@@ -25884,6 +25886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Driving Racing 3D | 191630 | [191630-turbo-driving-racing-3d.json](./191630-turbo-driving-racing-3d.json) |
 | Turbo DX | 313106 | [313106-turbo-dx.json](./313106-turbo-dx.json) |
 | Turbo Esprit | 26430 | [26430-turbo-esprit.json](./26430-turbo-esprit.json) |
+| Turbo Fast | 61379 | [61379-turbo-fast.json](./61379-turbo-fast.json) |
 | Turbo Fat | 236872 | [236872-turbo-fat.json](./236872-turbo-fat.json) |
 | Turbo Fiesta | 206069 | [206069-turbo-fiesta.json](./206069-turbo-fiesta.json) |
 | Turbo Finger Swipe | 9237 | [9237-turbo-finger-swipe.json](./9237-turbo-finger-swipe.json) |
