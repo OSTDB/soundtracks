@@ -1588,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iJezzball | 88218 | [88218-ijezzball.json](./88218-ijezzball.json) |
 | Iji | 9778 | [9778-iji.json](./9778-iji.json) |
 | Ijigen Kara no Dasshutsu: Escape from Twilight Zone | 97326 | [97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json](./97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json) |
+| Ijitte! Otouto | 97764 | [97764-ijitte-otouto.json](./97764-ijitte-otouto.json) |
 | Ika Blade | 268913 | [268913-ika-blade.json](./268913-ika-blade.json) |
 | Ika's Odyssey | 340510 | [340510-ikas-odyssey.json](./340510-ikas-odyssey.json) |
 | IkachanDS | 339243 | [339243-ikachands.json](./339243-ikachands.json) |
@@ -2028,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imouto Paradise! 2 | 407358 | [407358-imouto-paradise-2.json](./407358-imouto-paradise-2.json) |
 | Imouto Paradise! 3 | 404219 | [404219-imouto-paradise-3.json](./404219-imouto-paradise-3.json) |
 | Imouto Scramble | 299502 | [299502-imouto-scramble.json](./299502-imouto-scramble.json) |
+| Imouto Yugi | 97731 | [97731-imouto-yugi.json](./97731-imouto-yugi.json) |
 | Imp Adventure | 385415 | [385415-imp-adventure.json](./385415-imp-adventure.json) |
 | Imp and Cubes | 246462 | [246462-imp-and-cubes.json](./246462-imp-and-cubes.json) |
 | Imp Dreams | 320189 | [320189-imp-dreams.json](./320189-imp-dreams.json) |
@@ -3230,6 +3232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inglorious Aztecs | 151039 | [151039-inglorious-aztecs.json](./151039-inglorious-aztecs.json) |
 | Inglorious Pirate | 128212 | [128212-inglorious-pirate.json](./128212-inglorious-pirate.json) |
 | Inglorious Waifu VS Nazi Zombies | 156163 | [156163-inglorious-waifu-vs-nazi-zombies.json](./156163-inglorious-waifu-vs-nazi-zombies.json) |
+| Ingoku no Reihi | 97747 | [97747-ingoku-no-reihi.json](./97747-ingoku-no-reihi.json) |
 | Ingot Rush | 174220 | [174220-ingot-rush.json](./174220-ingot-rush.json) |
 | Ingredienta | 169809 | [169809-ingredienta.json](./169809-ingredienta.json) |
 | Ingredients for the Chaos | 195409 | [195409-ingredients-for-the-chaos.json](./195409-ingredients-for-the-chaos.json) |
