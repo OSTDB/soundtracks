@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13! | 87045 | [87045-13.json](./87045-13.json) |
 | 13's | 190047 | [190047-13s.json](./190047-13s.json) |
 | 1306 Chapter 1: Reactors & Robots | 343403 | [343403-1306-chapter-1-reactors-and-robots.json](./343403-1306-chapter-1-reactors-and-robots.json) |
+| 1337 Ship Deathmatch | 67074 | [67074-1337-ship-deathmatch.json](./67074-1337-ship-deathmatch.json) |
 | 1337D00m | 109489 | [109489-1337d00m.json](./109489-1337d00m.json) |
 | 1365 | 134937 | [134937-1365.json](./134937-1365.json) |
 | 1378km | 139389 | [139389-1378km.json](./139389-1378km.json) |
@@ -941,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15 Minutes Dungeon | 255026 | [255026-15-minutes-dungeon.json](./255026-15-minutes-dungeon.json) |
 | 15 Move Hole Puzzle | 94162 | [94162-15-move-hole-puzzle.json](./94162-15-move-hole-puzzle.json) |
 | 15 Puzzle | 268864 | [268864-15-puzzle.json](./268864-15-puzzle.json) |
+| 15 Puzzle | 67073 | [67073-15-puzzle.json](./67073-15-puzzle.json) |
 | 15 Weeks Before Summer! | 358063 | [358063-15-weeks-before-summer.json](./358063-15-weeks-before-summer.json) |
 | 15 Years a Doomer | 262260 | [262260-15-years-a-doomer.json](./262260-15-years-a-doomer.json) |
 | 15 ﾠ | 240102 | [240102-15.json](./240102-15.json) |
