@@ -512,6 +512,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairlight: A Prelude | 40962 | [40962-fairlight-a-prelude.json](./40962-fairlight-a-prelude.json) |
 | Fairly Certain Doom | 95164 | [95164-fairly-certain-doom.json](./95164-fairly-certain-doom.json) |
 | Fairly Life | 90928 | [90928-fairly-life.json](./90928-fairly-life.json) |
+| Fairly Nude | 75575 | [75575-fairly-nude.json](./75575-fairly-nude.json) |
+| Fairly Nude | 75576 | [75576-fairly-nude.json](./75576-fairly-nude.json) |
 | Fairune | 386353 | [386353-fairune.json](./386353-fairune.json) |
 | Fairune 2 | 57297 | [57297-fairune-2.json](./57297-fairune-2.json) |
 | Fairune: Fragment Isles | 276195 | [276195-fairune-fragment-isles.json](./276195-fairune-fragment-isles.json) |
