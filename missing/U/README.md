@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercards | 57109 | [57109-undercards.json](./57109-undercards.json) |
 | Undercat | 158579 | [158579-undercat.json](./158579-undercat.json) |
 | Underchoice | 386844 | [386844-underchoice.json](./386844-underchoice.json) |
+| Undercity | 54884 | [54884-undercity.json](./54884-undercity.json) |
 | Undercity of Sin | 380547 | [380547-undercity-of-sin.json](./380547-undercity-of-sin.json) |
 | Undercook | 324972 | [324972-undercook.json](./324972-undercook.json) |
 | Undercore: The Tale of Hardcore | 50503 | [50503-undercore-the-tale-of-hardcore.json](./50503-undercore-the-tale-of-hardcore.json) |
