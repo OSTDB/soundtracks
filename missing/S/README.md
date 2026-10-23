@@ -4442,6 +4442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentris | 17445 | [17445-sentris.json](./17445-sentris.json) |
 | Sentry | 172054 | [172054-sentry.json](./172054-sentry.json) |
 | Sentry | 218164 | [218164-sentry.json](./218164-sentry.json) |
+| Sentry | 93428 | [93428-sentry.json](./93428-sentry.json) |
 | Sentry City | 197082 | [197082-sentry-city.json](./197082-sentry-city.json) |
 | Sentry Knight 2 | 102032 | [102032-sentry-knight-2.json](./102032-sentry-knight-2.json) |
 | Sentry Knight Tactics | 24824 | [24824-sentry-knight-tactics.json](./24824-sentry-knight-tactics.json) |
@@ -14869,6 +14870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sovereign's End | 403548 | [403548-sovereigns-end.json](./403548-sovereigns-end.json) |
 | Sovereign's Enigma | 327057 | [327057-sovereigns-enigma.json](./327057-sovereigns-enigma.json) |
 | Sovereign's Will | 129035 | [129035-sovereigns-will.json](./129035-sovereigns-will.json) |
+| Soviet | 93441 | [93441-soviet.json](./93441-soviet.json) |
 | Soviet Bear Uni Adventure | 125094 | [125094-soviet-bear-uni-adventure.json](./125094-soviet-bear-uni-adventure.json) |
 | Soviet Challenge: Javelin 1980 | 174329 | [174329-soviet-challenge-javelin-1980.json](./174329-soviet-challenge-javelin-1980.json) |
 | Soviet Lunapark VR | 97018 | [97018-soviet-lunapark-vr.json](./97018-soviet-lunapark-vr.json) |
@@ -16632,6 +16634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellchanted 2D Hidden Object Puzzle Adveture Tile-Matching | 321548 | [321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json](./321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json) |
 | Spellcheck | 298392 | [298392-spellcheck.json](./298392-spellcheck.json) |
 | Spellcrafter | 17690 | [17690-spellcrafter.json](./17690-spellcrafter.json) |
+| Spellcross: The Last Battle | 93405 | [93405-spellcross-the-last-battle.json](./93405-spellcross-the-last-battle.json) |
 | Spelldash | 197149 | [197149-spelldash.json](./197149-spelldash.json) |
 | Spellfall | 60072 | [60072-spellfall.json](./60072-spellfall.json) |
 | Spellfall: Last Mage Standing | 390025 | [390025-spellfall-last-mage-standing.json](./390025-spellfall-last-mage-standing.json) |
@@ -22535,6 +22538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Destroyer | 204086 | [204086-stunt-destroyer.json](./204086-stunt-destroyer.json) |
 | Stunt Dog Adventure | 320288 | [320288-stunt-dog-adventure.json](./320288-stunt-dog-adventure.json) |
 | Stunt Drifters | 124604 | [124604-stunt-drifters.json](./124604-stunt-drifters.json) |
+| Stunt Driver | 93425 | [93425-stunt-driver.json](./93425-stunt-driver.json) |
 | Stunt Driver Collection | 328478 | [328478-stunt-driver-collection.json](./328478-stunt-driver-collection.json) |
 | Stunt Extreme Legends | 232281 | [232281-stunt-extreme-legends.json](./232281-stunt-extreme-legends.json) |
 | Stunt Flyer | 332311 | [332311-stunt-flyer.json](./332311-stunt-flyer.json) |
