@@ -2697,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Cobra | 85598 | [85598-operation-cobra.json](./85598-operation-cobra.json) |
 | Operation Covid-19 | 149027 | [149027-operation-covid-19.json](./149027-operation-covid-19.json) |
 | Operation Crimson | 412272 | [412272-operation-crimson.json](./412272-operation-crimson.json) |
+| Operation CrossCounter | 94043 | [94043-operation-crosscounter.json](./94043-operation-crosscounter.json) |
 | Operation CrossCounter | 94755 | [94755-operation-crosscounter.json](./94755-operation-crosscounter.json) |
 | Operation Crusader | 51278 | [51278-operation-crusader.json](./51278-operation-crusader.json) |
 | Operation Dartness | 378187 | [378187-operation-dartness.json](./378187-operation-dartness.json) |
@@ -4384,6 +4385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overdrive Escape | 249296 | [249296-overdrive-escape.json](./249296-overdrive-escape.json) |
 | Overdrive II: Shadow Battle | 323169 | [323169-overdrive-ii-shadow-battle.json](./323169-overdrive-ii-shadow-battle.json) |
 | OverDrive infinite | 177260 | [177260-overdrive-infinite.json](./177260-overdrive-infinite.json) |
+| Overdriven | 94063 | [94063-overdriven.json](./94063-overdriven.json) |
 | Overdriven Evolution | 207574 | [207574-overdriven-evolution.json](./207574-overdriven-evolution.json) |
 | Overdriven Reloaded | 32259 | [32259-overdriven-reloaded.json](./32259-overdriven-reloaded.json) |
 | Overdungeon | 111507 | [111507-overdungeon.json](./111507-overdungeon.json) |
