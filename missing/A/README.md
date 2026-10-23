@@ -1080,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Valentine's Day Quizzle | 232506 | [232506-a-valentines-day-quizzle.json](./232506-a-valentines-day-quizzle.json) |
 | A Valiant Story | 108484 | [108484-a-valiant-story.json](./108484-a-valiant-story.json) |
 | A Valley Without Wind | 1625 | [1625-a-valley-without-wind.json](./1625-a-valley-without-wind.json) |
+| A Vampire Tale | 50283 | [50283-a-vampire-tale.json](./50283-a-vampire-tale.json) |
 | A Vampyre Story: Year One | 3137 | [3137-a-vampyre-story-year-one.json](./3137-a-vampyre-story-year-one.json) |
 | A Verdant Hue | 32234 | [32234-a-verdant-hue.json](./32234-a-verdant-hue.json) |
 | A Very Bad Christmas Eve | 148846 | [148846-a-very-bad-christmas-eve.json](./148846-a-very-bad-christmas-eve.json) |
@@ -5371,6 +5372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Nah'Topsy | 289888 | [289888-alien-nahtopsy.json](./289888-alien-nahtopsy.json) |
 | Alien Nations | 11259 | [11259-alien-nations.json](./11259-alien-nations.json) |
 | Alien Nations Mission Pack | 73810 | [73810-alien-nations-mission-pack.json](./73810-alien-nations-mission-pack.json) |
+| Alien Odyssey | 50325 | [50325-alien-odyssey.json](./50325-alien-odyssey.json) |
 | Alien Olympics | 73317 | [73317-alien-olympics.json](./73317-alien-olympics.json) |
 | Alien on the Radar | 235609 | [235609-alien-on-the-radar.json](./235609-alien-on-the-radar.json) |
 | Alien on the Run | 61537 | [61537-alien-on-the-run.json](./61537-alien-on-the-run.json) |
