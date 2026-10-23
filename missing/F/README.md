@@ -5214,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing for Numbers | 374417 | [374417-fishing-for-numbers.json](./374417-fishing-for-numbers.json) |
 | Fishing Freaks: Bass Rise Plus | 123044 | [123044-fishing-freaks-bass-rise-plus.json](./123044-fishing-freaks-bass-rise-plus.json) |
 | Fishing Game | 213550 | [213550-fishing-game.json](./213550-fishing-game.json) |
+| Fishing Girl | 67078 | [67078-fishing-girl.json](./67078-fishing-girl.json) |
 | Fishing Grind | 319285 | [319285-fishing-grind.json](./319285-fishing-grind.json) |
 | Fishing Hero | 110240 | [110240-fishing-hero.json](./110240-fishing-hero.json) |
 | Fishing Inc | 390614 | [390614-fishing-inc.json](./390614-fishing-inc.json) |
@@ -6349,6 +6350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flips: Enid Blyton - The Adventure Series | 66666 | [66666-flips-enid-blyton-the-adventure-series.json](./66666-flips-enid-blyton-the-adventure-series.json) |
 | Flips: More Bloody Horowitz | 66577 | [66577-flips-more-bloody-horowitz.json](./66577-flips-more-bloody-horowitz.json) |
 | Flips: Mr. Gum | 66664 | [66664-flips-mr-gum.json](./66664-flips-mr-gum.json) |
+| Flips: Percy Jackson | 67107 | [67107-flips-percy-jackson.json](./67107-flips-percy-jackson.json) |
 | Flips: Terror in Cubicle Four | 66966 | [66966-flips-terror-in-cubicle-four.json](./66966-flips-terror-in-cubicle-four.json) |
 | Flips: The Bubonic Builders | 66911 | [66911-flips-the-bubonic-builders.json](./66911-flips-the-bubonic-builders.json) |
 | Flips: The Enchanted Wood | 66604 | [66604-flips-the-enchanted-wood.json](./66604-flips-the-enchanted-wood.json) |
