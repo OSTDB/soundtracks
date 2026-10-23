@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immersive Engineering | 232715 | [232715-immersive-engineering.json](./232715-immersive-engineering.json) |
 | Immersive Horror Room: Hospital Escape Terror | 52003 | [52003-immersive-horror-room-hospital-escape-terror.json](./52003-immersive-horror-room-hospital-escape-terror.json) |
 | Immersive Jurassic World Roller Coaster VR | 250491 | [250491-immersive-jurassic-world-roller-coaster-vr.json](./250491-immersive-jurassic-world-roller-coaster-vr.json) |
+| Immersive Poetry | 55639 | [55639-immersive-poetry.json](./55639-immersive-poetry.json) |
 | Immersys | 171824 | [171824-immersys.json](./171824-immersys.json) |
 | Immies & Aggies | 40685 | [40685-immies-and-aggies.json](./40685-immies-and-aggies.json) |
 | Imminent | 384346 | [384346-imminent.json](./384346-imminent.json) |
