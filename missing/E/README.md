@@ -3794,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erkattäññe | 313861 | [313861-erkattanne.json](./313861-erkattanne.json) |
 | Erl | 362859 | [362859-erl.json](./362859-erl.json) |
 | Erlking | 292383 | [292383-erlking.json](./292383-erlking.json) |
+| Ermo | 74912 | [74912-ermo.json](./74912-ermo.json) |
 | ERN | 320875 | [320875-ern.json](./320875-ern.json) |
 | Ernest Colt: Western Shooter | 25052 | [25052-ernest-colt-western-shooter.json](./25052-ernest-colt-western-shooter.json) |
 | Ernesto, A Quick Dungeon Crawler | 61151 | [61151-ernesto-a-quick-dungeon-crawler.json](./61151-ernesto-a-quick-dungeon-crawler.json) |
@@ -5388,6 +5389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everspace | 14172 | [14172-everspace.json](./14172-everspace.json) |
 | Everspace 2: Stellar Edition | 246298 | [246298-everspace-2-stellar-edition.json](./246298-everspace-2-stellar-edition.json) |
 | Everspace 2: Titans | 315185 | [315185-everspace-2-titans.json](./315185-everspace-2-titans.json) |
+| Everspace: Encounters | 74892 | [74892-everspace-encounters.json](./74892-everspace-encounters.json) |
 | Everspace: Stellar Edition | 102126 | [102126-everspace-stellar-edition.json](./102126-everspace-stellar-edition.json) |
 | Everstill Valley | 394899 | [394899-everstill-valley.json](./394899-everstill-valley.json) |
 | Everstorm | 283100 | [283100-everstorm.json](./283100-everstorm.json) |
