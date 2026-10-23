@@ -1768,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Element Cattos | 377361 | [377361-element-cattos.json](./377361-element-cattos.json) |
 | Element Ensemble: Wind of Moon | 125438 | [125438-element-ensemble-wind-of-moon.json](./125438-element-ensemble-wind-of-moon.json) |
 | Element Fighters | 277776 | [277776-element-fighters.json](./277776-element-fighters.json) |
+| Element Hime | 72465 | [72465-element-hime.json](./72465-element-hime.json) |
 | Element Hunters | 67640 | [67640-element-hunters.json](./67640-element-hunters.json) |
 | Element Industry | 84033 | [84033-element-industry.json](./84033-element-industry.json) |
 | Element Release: Water Territory | 292526 | [292526-element-release-water-territory.json](./292526-element-release-water-territory.json) |
@@ -2023,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Force | 223659 | [223659-elite-force.json](./223659-elite-force.json) |
 | Elite Forces | 224703 | [224703-elite-forces.json](./224703-elite-forces.json) |
 | Elite Forces: Navy SEALs | 84183 | [84183-elite-forces-navy-seals.json](./84183-elite-forces-navy-seals.json) |
+| Elite Forces: Navy SEALs - Weapons of Mass Destruction | 72523 | [72523-elite-forces-navy-seals-weapons-of-mass-destruction.json](./72523-elite-forces-navy-seals-weapons-of-mass-destruction.json) |
 | Elite Forces: Unit 77 | 21291 | [21291-elite-forces-unit-77.json](./21291-elite-forces-unit-77.json) |
 | Elite Forces: WWII - Desert Rats | 23470 | [23470-elite-forces-wwii-desert-rats.json](./23470-elite-forces-wwii-desert-rats.json) |
 | Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
@@ -2947,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless RPG | 119705 | [119705-endless-rpg.json](./119705-endless-rpg.json) |
 | Endless Ruin Chapter I: Toward the Endless Ruin | 200542 | [200542-endless-ruin-chapter-i-toward-the-endless-ruin.json](./200542-endless-ruin-chapter-i-toward-the-endless-ruin.json) |
 | Endless Ruin Chapter II: Hall of Spores | 228946 | [228946-endless-ruin-chapter-ii-hall-of-spores.json](./228946-endless-ruin-chapter-ii-hall-of-spores.json) |
+| Endless Run: Woopy's Travel | 72466 | [72466-endless-run-woopys-travel.json](./72466-endless-run-woopys-travel.json) |
 | Endless Rush | 261857 | [261857-endless-rush.json](./261857-endless-rush.json) |
 | Endless Salvation | 333168 | [333168-endless-salvation.json](./333168-endless-salvation.json) |
 | Endless Samurai | 235740 | [235740-endless-samurai.json](./235740-endless-samurai.json) |
@@ -6268,6 +6271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Express Raider | 13654 | [13654-express-raider.json](./13654-express-raider.json) |
 | Express Simulator | 152463 | [152463-express-simulator.json](./152463-express-simulator.json) |
 | Expresso Run | 209183 | [209183-expresso-run.json](./209183-expresso-run.json) |
+| Expunge! | 72469 | [72469-expunge.json](./72469-expunge.json) |
 | Exquisite Amethyst | 261170 | [261170-exquisite-amethyst.json](./261170-exquisite-amethyst.json) |
 | Exquisite Corpse | 273568 | [273568-exquisite-corpse.json](./273568-exquisite-corpse.json) |
 | Exquisite Fishing | 235874 | [235874-exquisite-fishing.json](./235874-exquisite-fishing.json) |
