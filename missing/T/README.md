@@ -3795,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive II: Car Disk - The Muscle Cars | 74870 | [74870-test-drive-ii-car-disk-the-muscle-cars.json](./74870-test-drive-ii-car-disk-the-muscle-cars.json) |
 | Test Drive II: Car Disk - The Supercars | 74869 | [74869-test-drive-ii-car-disk-the-supercars.json](./74869-test-drive-ii-car-disk-the-supercars.json) |
 | Test Drive II: Scenery Disk - California Challenge | 74868 | [74868-test-drive-ii-scenery-disk-california-challenge.json](./74868-test-drive-ii-scenery-disk-california-challenge.json) |
+| Test Drive II: Scenery Disk - European Challenge | 72527 | [72527-test-drive-ii-scenery-disk-european-challenge.json](./72527-test-drive-ii-scenery-disk-european-challenge.json) |
 | Test Drive II: The Collection | 140039 | [140039-test-drive-ii-the-collection.json](./140039-test-drive-ii-the-collection.json) |
 | Test Drive Off-Road Wide Open | 6198 | [6198-test-drive-off-road-wide-open.json](./6198-test-drive-off-road-wide-open.json) |
 | Test Drive Unlimited | 7215 | [7215-test-drive-unlimited.json](./7215-test-drive-unlimited.json) |
@@ -4865,6 +4866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backyardigans | 159264 | [159264-the-backyardigans.json](./159264-the-backyardigans.json) |
 | The Backyardigans | 47879 | [47879-the-backyardigans.json](./47879-the-backyardigans.json) |
 | The Backyardigans: Big Backyard Adventure | 326585 | [326585-the-backyardigans-big-backyard-adventure.json](./326585-the-backyardigans-big-backyard-adventure.json) |
+| The Backyardigans: Mission to Mars | 72530 | [72530-the-backyardigans-mission-to-mars.json](./72530-the-backyardigans-mission-to-mars.json) |
 | The Backyardigans: Viking Voyage | 72998 | [72998-the-backyardigans-viking-voyage.json](./72998-the-backyardigans-viking-voyage.json) |
 | The Baconing | 2251 | [2251-the-baconing.json](./2251-the-baconing.json) |
 | The Bad Boy's Cars | 310504 | [310504-the-bad-boys-cars.json](./310504-the-bad-boys-cars.json) |
@@ -5689,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chantry | 118698 | [118698-the-chantry.json](./118698-the-chantry.json) |
 | The Chaotic Workshop | 105154 | [105154-the-chaotic-workshop.json](./105154-the-chaotic-workshop.json) |
 | The Chaput's Baby | 217992 | [217992-the-chaputs-baby.json](./217992-the-chaputs-baby.json) |
+| The Charge of the Light Brigade | 72467 | [72467-the-charge-of-the-light-brigade.json](./72467-the-charge-of-the-light-brigade.json) |
 | The Chariot | 139270 | [139270-the-chariot.json](./139270-the-chariot.json) |
 | The Charity Shop | 333942 | [333942-the-charity-shop.json](./333942-the-charity-shop.json) |
 | The Charm of Love | 157158 | [157158-the-charm-of-love.json](./157158-the-charm-of-love.json) |
@@ -9557,6 +9560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Mission | 41798 | [41798-the-last-mission.json](./41798-the-last-mission.json) |
 | The Last Mission | 55078 | [55078-the-last-mission.json](./55078-the-last-mission.json) |
 | The Last Moments of a Doomed Spaceship | 178925 | [178925-the-last-moments-of-a-doomed-spaceship.json](./178925-the-last-moments-of-a-doomed-spaceship.json) |
+| The Last Monster Master | 72507 | [72507-the-last-monster-master.json](./72507-the-last-monster-master.json) |
 | The Last Monsters | 132735 | [132735-the-last-monsters.json](./132735-the-last-monsters.json) |
 | The Last Mothership | 390765 | [390765-the-last-mothership.json](./390765-the-last-mothership.json) |
 | The Last Mullu | 353612 | [353612-the-last-mullu.json](./353612-the-last-mullu.json) |
@@ -11810,6 +11814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pirate Mermaid | 178528 | [178528-the-pirate-mermaid.json](./178528-the-pirate-mermaid.json) |
 | The Pirate Queen | 127725 | [127725-the-pirate-queen.json](./127725-the-pirate-queen.json) |
 | The Pirate: Caribbean Hunt | 31726 | [31726-the-pirate-caribbean-hunt.json](./31726-the-pirate-caribbean-hunt.json) |
+| The Pirate: Plague of the Dead | 72503 | [72503-the-pirate-plague-of-the-dead.json](./72503-the-pirate-plague-of-the-dead.json) |
 | The Pirate: Republic of Nassau | 396461 | [396461-the-pirate-republic-of-nassau.json](./396461-the-pirate-republic-of-nassau.json) |
 | The Pirate's Fate | 76587 | [76587-the-pirates-fate.json](./76587-the-pirates-fate.json) |
 | The Pirate's Fate: Prisoner of Destiny | 169331 | [169331-the-pirates-fate-prisoner-of-destiny.json](./169331-the-pirates-fate-prisoner-of-destiny.json) |
@@ -11960,6 +11965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Princess Cliche | 281310 | [281310-the-princess-cliche.json](./281310-the-princess-cliche.json) |
 | The Princess Guide | 78111 | [78111-the-princess-guide.json](./78111-the-princess-guide.json) |
 | The Princess in the Mirror | 298885 | [298885-the-princess-in-the-mirror.json](./298885-the-princess-in-the-mirror.json) |
+| The Princess is in Another Castle | 72504 | [72504-the-princess-is-in-another-castle.json](./72504-the-princess-is-in-another-castle.json) |
 | The Princess of the Tower wants a Hero | 200632 | [200632-the-princess-of-the-tower-wants-a-hero.json](./200632-the-princess-of-the-tower-wants-a-hero.json) |
 | The Princess Swap | 313869 | [313869-the-princess-swap.json](./313869-the-princess-swap.json) |
 | The Princess, the Stray Cat, and Matters of the Heart: Premium Limited Edition | 167020 | [167020-the-princess-the-stray-cat-and-matters-of-the-heart-premium-limited-edition.json](./167020-the-princess-the-stray-cat-and-matters-of-the-heart-premium-limited-edition.json) |
@@ -14970,6 +14976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Weird One | 179364 | [179364-the-weird-one.json](./179364-the-weird-one.json) |
 | The Welkin World: Rebels | 121278 | [121278-the-welkin-world-rebels.json](./121278-the-welkin-world-rebels.json) |
 | The Well | 169799 | [169799-the-well.json](./169799-the-well.json) |
+| The Well | 72520 | [72520-the-well.json](./72520-the-well.json) |
 | The Well of Heaven-Reaching | 310713 | [310713-the-well-of-heaven-reaching.json](./310713-the-well-of-heaven-reaching.json) |
 | The Well of Life Cannot Move | 298630 | [298630-the-well-of-life-cannot-move.json](./298630-the-well-of-life-cannot-move.json) |
 | The Well: Episode 1 | 333621 | [333621-the-well-episode-1.json](./333621-the-well-episode-1.json) |
@@ -24930,6 +24937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trophy Fishing 2 | 43181 | [43181-trophy-fishing-2.json](./43181-trophy-fishing-2.json) |
 | Trophy Hunt | 275129 | [275129-trophy-hunt.json](./275129-trophy-hunt.json) |
 | Trophy Hunt: Evolution | 97161 | [97161-trophy-hunt-evolution.json](./97161-trophy-hunt-evolution.json) |
+| Trophy Hunter 2003 | 72532 | [72532-trophy-hunter-2003.json](./72532-trophy-hunter-2003.json) |
 | Trophy Knight | 219527 | [219527-trophy-knight.json](./219527-trophy-knight.json) |
 | Trophy Trout | 43150 | [43150-trophy-trout.json](./43150-trophy-trout.json) |
 | Trophy Truck Racing Tour | 369650 | [369650-trophy-truck-racing-tour.json](./369650-trophy-truck-racing-tour.json) |
