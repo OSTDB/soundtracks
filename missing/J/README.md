@@ -2509,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Julia's Quest | 100273 | [100273-julias-quest.json](./100273-julias-quest.json) |
 | Julian & Friends | 328143 | [328143-julian-and-friends.json](./328143-julian-and-friends.json) |
 | Juliäntli | 106408 | [106408-juliantli.json](./106408-juliantli.json) |
+| Juliette's Fashion Empire | 54162 | [54162-juliettes-fashion-empire.json](./54162-juliettes-fashion-empire.json) |
 | July | 200946 | [200946-july.json](./200946-july.json) |
 | July | 62243 | [62243-july.json](./62243-july.json) |
 | July 4th, 1976 | 348976 | [348976-july-4th-1976.json](./348976-july-4th-1976.json) |
@@ -2869,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Bomb Fever | 232916 | [232916-jungle-bomb-fever.json](./232916-jungle-bomb-fever.json) |
 | Jungle Book | 131532 | [131532-jungle-book.json](./131532-jungle-book.json) |
 | Jungle Boy | 362455 | [362455-jungle-boy.json](./362455-jungle-boy.json) |
+| Jungle Boy | 54161 | [54161-jungle-boy.json](./54161-jungle-boy.json) |
 | Jungle Care Taker | 101667 | [101667-jungle-care-taker.json](./101667-jungle-care-taker.json) |
 | Jungle Catz | 291786 | [291786-jungle-catz.json](./291786-jungle-catz.json) |
 | Jungle Crash Land | 66151 | [66151-jungle-crash-land.json](./66151-jungle-crash-land.json) |
@@ -2900,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Pixel: Alive Exploration | 103665 | [103665-jungle-pixel-alive-exploration.json](./103665-jungle-pixel-alive-exploration.json) |
 | Jungle Quest | 230283 | [230283-jungle-quest.json](./230283-jungle-quest.json) |
 | Jungle Quest | 236688 | [236688-jungle-quest.json](./236688-jungle-quest.json) |
+| Jungle Quest | 54160 | [54160-jungle-quest.json](./54160-jungle-quest.json) |
 | Jungle Ranger | 283855 | [283855-jungle-ranger.json](./283855-jungle-ranger.json) |
 | Jungle Rot | 351677 | [351677-jungle-rot.json](./351677-jungle-rot.json) |
 | Jungle Rumble | 158097 | [158097-jungle-rumble.json](./158097-jungle-rumble.json) |
