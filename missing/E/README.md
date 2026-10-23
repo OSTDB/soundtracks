@@ -3756,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erepublik | 63258 | [63258-erepublik.json](./63258-erepublik.json) |
 | Eret Link | 229385 | [229385-eret-link.json](./229385-eret-link.json) |
 | Erevos | 93226 | [93226-erevos.json](./93226-erevos.json) |
+| Ergastulum | 75580 | [75580-ergastulum.json](./75580-ergastulum.json) |
 | Ergenekon | 378430 | [378430-ergenekon.json](./378430-ergenekon.json) |
 | Ergo | 152799 | [152799-ergo.json](./152799-ergo.json) |
 | Ergo Sum | 354816 | [354816-ergo-sum.json](./354816-ergo-sum.json) |
@@ -3952,6 +3953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Blocks | 295269 | [295269-escape-blocks.json](./295269-escape-blocks.json) |
 | Escape Blythe Castle | 250412 | [250412-escape-blythe-castle.json](./250412-escape-blythe-castle.json) |
 | Escape By Spoon | 396421 | [396421-escape-by-spoon.json](./396421-escape-by-spoon.json) |
+| Escape Camp Waddalooh | 75641 | [75641-escape-camp-waddalooh.json](./75641-escape-camp-waddalooh.json) |
 | Escape Capyland | 312620 | [312620-escape-capyland.json](./312620-escape-capyland.json) |
 | Escape Chase Monster | 219254 | [219254-escape-chase-monster.json](./219254-escape-chase-monster.json) |
 | Escape Chronicles | 241384 | [241384-escape-chronicles.json](./241384-escape-chronicles.json) |
@@ -4488,6 +4490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esdraz: The Throne of Darkness | 238585 | [238585-esdraz-the-throne-of-darkness.json](./238585-esdraz-the-throne-of-darkness.json) |
 | Eseal: Reject, Reclaim, Redeem | 372639 | [372639-eseal-reject-reclaim-redeem.json](./372639-eseal-reject-reclaim-redeem.json) |
 | Eseala | 267472 | [267472-eseala.json](./267472-eseala.json) |
+| Eseapner | 75614 | [75614-eseapner.json](./75614-eseapner.json) |
 | Eselmir and the Five Magical Gifts | 52067 | [52067-eselmir-and-the-five-magical-gifts.json](./52067-eselmir-and-the-five-magical-gifts.json) |
 | Esferibot | 272343 | [272343-esferibot.json](./272343-esferibot.json) |
 | Eshe's Wish Adventure | 199486 | [199486-eshes-wish-adventure.json](./199486-eshes-wish-adventure.json) |
@@ -4732,6 +4735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Hell | 367741 | [367741-eternal-hell.json](./367741-eternal-hell.json) |
 | Eternal Home Floristry | 123587 | [123587-eternal-home-floristry.json](./123587-eternal-home-floristry.json) |
 | Eternal Hope | 124198 | [124198-eternal-hope.json](./124198-eternal-hope.json) |
+| Eternal Hour: Golden Hour | 76364 | [76364-eternal-hour-golden-hour.json](./76364-eternal-hour-golden-hour.json) |
 | Eternal Hunger | 397939 | [397939-eternal-hunger.json](./397939-eternal-hunger.json) |
 | Eternal King | 269012 | [269012-eternal-king.json](./269012-eternal-king.json) |
 | Eternal Knight | 338281 | [338281-eternal-knight.json](./338281-eternal-knight.json) |
@@ -5768,6 +5772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex-Zodiac | 133089 | [133089-ex-zodiac.json](./133089-ex-zodiac.json) |
 | Ex/l | 376446 | [376446-ex-l.json](./376446-ex-l.json) |
 | Ex0 Escape | 211208 | [211208-ex0-escape.json](./211208-ex0-escape.json) |
+| EX0: Dark Moon | 76355 | [76355-ex0-dark-moon.json](./76355-ex0-dark-moon.json) |
 | Exa Innova | 47533 | [47533-exa-innova.json](./47533-exa-innova.json) |
 | EXA: The Infinite Instrument | 163812 | [163812-exa-the-infinite-instrument.json](./163812-exa-the-infinite-instrument.json) |
 | Exact | 277420 | [277420-exact.json](./277420-exact.json) |
