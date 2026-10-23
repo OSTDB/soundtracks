@@ -3296,6 +3296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Amazing Adventure Revitalized | 131860 | [131860-marios-amazing-adventure-revitalized.json](./131860-marios-amazing-adventure-revitalized.json) |
 | Mario's Balls | 343829 | [343829-marios-balls.json](./343829-marios-balls.json) |
 | Mario's Bombs Away | 131938 | [131938-marios-bombs-away.json](./131938-marios-bombs-away.json) |
+| Mario's Brewery | 64820 | [64820-marios-brewery.json](./64820-marios-brewery.json) |
 | Mario's Carnival Quest | 307903 | [307903-marios-carnival-quest.json](./307903-marios-carnival-quest.json) |
 | Mario's Cement Factory | 231746 | [231746-marios-cement-factory.json](./231746-marios-cement-factory.json) |
 | Mario's Cement Factory | 67940 | [67940-marios-cement-factory.json](./67940-marios-cement-factory.json) |
@@ -6955,12 +6956,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories Off | 288774 | [288774-memories-off.json](./288774-memories-off.json) |
 | Memories Off | 382966 | [382966-memories-off.json](./382966-memories-off.json) |
 | Memories Off | 68243 | [68243-memories-off.json](./68243-memories-off.json) |
+| Memories Off #5 Encore | 64798 | [64798-memories-off-5-encore.json](./64798-memories-off-5-encore.json) |
 | Memories Off #5: Togireta Film | 288770 | [288770-memories-off-5-togireta-film.json](./288770-memories-off-5-togireta-film.json) |
+| Memories Off #5: Togireta Film | 64801 | [64801-memories-off-5-togireta-film.json](./64801-memories-off-5-togireta-film.json) |
 | Memories Off 2nd | 288775 | [288775-memories-off-2nd.json](./288775-memories-off-2nd.json) |
 | Memories Off 6 Complete | 80463 | [80463-memories-off-6-complete.json](./80463-memories-off-6-complete.json) |
 | Memories Off 6: Next Relation | 80464 | [80464-memories-off-6-next-relation.json](./80464-memories-off-6-next-relation.json) |
 | Memories Off 6: T-wave | 288772 | [288772-memories-off-6-t-wave.json](./288772-memories-off-6-t-wave.json) |
 | Memories Off 6: T-wave | 7068 | [7068-memories-off-6-t-wave.json](./7068-memories-off-6-t-wave.json) |
+| Memories Off After Rain | 64805 | [64805-memories-off-after-rain.json](./64805-memories-off-after-rain.json) |
 | Memories off Historia: Limited Edition | 140442 | [140442-memories-off-historia-limited-edition.json](./140442-memories-off-historia-limited-edition.json) |
 | Memories Off Pure | 43974 | [43974-memories-off-pure.json](./43974-memories-off-pure.json) |
 | Memories Off Remake | 399438 | [399438-memories-off-remake.json](./399438-memories-off-remake.json) |
@@ -6971,6 +6975,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories Off: Historia - Volume 2 | 140387 | [140387-memories-off-historia-volume-2.json](./140387-memories-off-historia-volume-2.json) |
 | Memories Off: Innocent Fille | 71590 | [71590-memories-off-innocent-fille.json](./71590-memories-off-innocent-fille.json) |
 | Memories Off: Sorekara | 288771 | [288771-memories-off-sorekara.json](./288771-memories-off-sorekara.json) |
+| Memories Off: Sorekara | 64806 | [64806-memories-off-sorekara.json](./64806-memories-off-sorekara.json) |
+| Memories Off: Sorekara Again | 64802 | [64802-memories-off-sorekara-again.json](./64802-memories-off-sorekara-again.json) |
 | Memories Off: Yubikiri no Kioku | 288769 | [288769-memories-off-yubikiri-no-kioku.json](./288769-memories-off-yubikiri-no-kioku.json) |
 | Memories Off: Yubikiri no Kioku | 7067 | [7067-memories-off-yubikiri-no-kioku.json](./7067-memories-off-yubikiri-no-kioku.json) |
 | Memories Off: Yubikiri no Kioku - Futari no Fuuryuuan | 413656 | [413656-memories-off-yubikiri-no-kioku-futari-no-fuuryuuan.json](./413656-memories-off-yubikiri-no-kioku-futari-no-fuuryuuan.json) |
@@ -13316,6 +13322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mora: Mining for Freedom | 373747 | [373747-mora-mining-for-freedom.json](./373747-mora-mining-for-freedom.json) |
 | Moraff's Entrap | 69815 | [69815-moraffs-entrap.json](./69815-moraffs-entrap.json) |
 | Moraff's Escapade | 135666 | [135666-moraffs-escapade.json](./135666-moraffs-escapade.json) |
+| Moraff's MahJongg 2011 | 64776 | [64776-moraffs-mahjongg-2011.json](./64776-moraffs-mahjongg-2011.json) |
 | Moraff's MahJongg XIV International | 97969 | [97969-moraffs-mahjongg-xiv-international.json](./97969-moraffs-mahjongg-xiv-international.json) |
 | Moraff's Maximum Mahjongg | 209203 | [209203-moraffs-maximum-mahjongg.json](./209203-moraffs-maximum-mahjongg.json) |
 | Moraff's Maximum Mahjongg 2 | 24077 | [24077-moraffs-maximum-mahjongg-2.json](./24077-moraffs-maximum-mahjongg-2.json) |
