@@ -3873,6 +3873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Schoolgirls Murder Mystery | 312674 | [312674-ai-schoolgirls-murder-mystery.json](./312674-ai-schoolgirls-murder-mystery.json) |
 | Ai Sensei no Oshiete: Watashi no Hoshi | 48668 | [48668-ai-sensei-no-oshiete-watashi-no-hoshi.json](./48668-ai-sensei-no-oshiete-watashi-no-hoshi.json) |
 | Ai Senshi Nicol | 41237 | [41237-ai-senshi-nicol.json](./41237-ai-senshi-nicol.json) |
+| Ai Shimai: Docchi ni Suruno!! | 78470 | [78470-ai-shimai-docchi-ni-suruno.json](./78470-ai-shimai-docchi-ni-suruno.json) |
 | AI Shogi 2 | 45445 | [45445-ai-shogi-2.json](./45445-ai-shogi-2.json) |
 | AI Shoujo | 127944 | [127944-ai-shoujo.json](./127944-ai-shoujo.json) |
 | AI Slop Simulator | 398536 | [398536-ai-slop-simulator.json](./398536-ai-slop-simulator.json) |
@@ -4537,6 +4538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akiba Lost | 369701 | [369701-akiba-lost.json](./369701-akiba-lost.json) |
 | Akiba Lost: Digital Deluxe Edition | 418328 | [418328-akiba-lost-digital-deluxe-edition.json](./418328-akiba-lost-digital-deluxe-edition.json) |
 | Akiba's Beat | 19465 | [19465-akibas-beat.json](./19465-akibas-beat.json) |
+| Akiba's Trip 2+A | 78472 | [78472-akibas-trip-2-a.json](./78472-akibas-trip-2-a.json) |
 | Akiba's Trip Festa! | 148244 | [148244-akibas-trip-festa.json](./148244-akibas-trip-festa.json) |
 | Akiba’s Trip: First Memory - 10th Anniversary Edition | 142373 | [142373-akiba-s-trip-first-memory-10th-anniversary-edition.json](./142373-akiba-s-trip-first-memory-10th-anniversary-edition.json) |
 | Akiba's Trip: Hellbound & Debriefed - 10th Anniversary Edition | 146159 | [146159-akibas-trip-hellbound-and-debriefed-10th-anniversary-edition.json](./146159-akibas-trip-hellbound-and-debriefed-10th-anniversary-edition.json) |
@@ -4577,6 +4579,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akko ni Omakase! Brain Shock | 269544 | [269544-akko-ni-omakase-brain-shock.json](./269544-akko-ni-omakase-brain-shock.json) |
 | Aknadach | 391056 | [391056-aknadach.json](./391056-aknadach.json) |
 | Akogare 2 | 328074 | [328074-akogare-2.json](./328074-akogare-2.json) |
+| Akogare Girls Collection: Lovely Youchien Nikki | 78474 | [78474-akogare-girls-collection-lovely-youchien-nikki.json](./78474-akogare-girls-collection-lovely-youchien-nikki.json) |
+| Akogare Girls Collection: Mister Donut DS | 78475 | [78475-akogare-girls-collection-mister-donut-ds.json](./78475-akogare-girls-collection-mister-donut-ds.json) |
+| Akogare Girls Collection: Ohanaya-San Monogatari | 78476 | [78476-akogare-girls-collection-ohanaya-san-monogatari.json](./78476-akogare-girls-collection-ohanaya-san-monogatari.json) |
+| Akogare Girls Collection: Pika Pika Nurse Monogatari | 78477 | [78477-akogare-girls-collection-pika-pika-nurse-monogatari.json](./78477-akogare-girls-collection-pika-pika-nurse-monogatari.json) |
+| Akogare Girls Collection: Suteki ni Nurse Days | 78473 | [78473-akogare-girls-collection-suteki-ni-nurse-days.json](./78473-akogare-girls-collection-suteki-ni-nurse-days.json) |
 | Akogare Mario World | 284225 | [284225-akogare-mario-world.json](./284225-akogare-mario-world.json) |
 | Akogare no Onna Joushi ga Shin'ya no Office de Onatteru Tokoro o Mite kara Hajimaru Himitsu no Kankei. | 230237 | [230237-akogare-no-onna-joushi-ga-shinya-no-office-de-onatteru-tokoro-o-mite-kara-hajimaru-himitsu-no-kankei.json](./230237-akogare-no-onna-joushi-ga-shinya-no-office-de-onatteru-tokoro-o-mite-kara-hajimaru-himitsu-no-kankei.json) |
 | Akolyta | 116211 | [116211-akolyta.json](./116211-akolyta.json) |
@@ -4986,6 +4993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ali Baba and 40 Thieves | 39468 | [39468-ali-baba-and-40-thieves.json](./39468-ali-baba-and-40-thieves.json) |
 | Ali the Android | 179404 | [179404-ali-the-android.json](./179404-ali-the-android.json) |
 | Ali-Baba | 84339 | [84339-ali-baba.json](./84339-ali-baba.json) |
+| Alia's Carnival! | 78478 | [78478-alias-carnival.json](./78478-alias-carnival.json) |
 | Alia's Carnival! Flowering Sky | 71581 | [71581-alias-carnival-flowering-sky.json](./71581-alias-carnival-flowering-sky.json) |
 | Alia's Carnival! Sacrament | 14857 | [14857-alias-carnival-sacrament.json](./14857-alias-carnival-sacrament.json) |
 | Alia's Carnival! Sacrament Plus | 113194 | [113194-alias-carnival-sacrament-plus.json](./113194-alias-carnival-sacrament-plus.json) |
@@ -11619,6 +11627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen Arrows | 211413 | [211413-ashen-arrows.json](./211413-ashen-arrows.json) |
 | Ashen Daughter | 349929 | [349929-ashen-daughter.json](./349929-ashen-daughter.json) |
 | Ashen Destiny | 364992 | [364992-ashen-destiny.json](./364992-ashen-destiny.json) |
+| Ashen Falls | 78490 | [78490-ashen-falls.json](./78490-ashen-falls.json) |
 | Ashen Knights: Foreshadow | 211412 | [211412-ashen-knights-foreshadow.json](./211412-ashen-knights-foreshadow.json) |
 | Ashen Knights: One Passage | 211181 | [211181-ashen-knights-one-passage.json](./211181-ashen-knights-one-passage.json) |
 | Ashen of Thrones | 413886 | [413886-ashen-of-thrones.json](./413886-ashen-of-thrones.json) |
