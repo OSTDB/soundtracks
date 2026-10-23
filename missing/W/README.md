@@ -4746,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 7 Maximum 2007 | 7484 | [7484-winning-post-7-maximum-2007.json](./7484-winning-post-7-maximum-2007.json) |
 | Winning Post 7 Maximum 2008 | 5283 | [5283-winning-post-7-maximum-2008.json](./5283-winning-post-7-maximum-2008.json) |
 | Winning Post 8 2015 | 60780 | [60780-winning-post-8-2015.json](./60780-winning-post-8-2015.json) |
+| Winning Post 8 2018 | 77782 | [77782-winning-post-8-2018.json](./77782-winning-post-8-2018.json) |
 | Winning Post 9 2020 | 136784 | [136784-winning-post-9-2020.json](./136784-winning-post-9-2020.json) |
 | Winning Post 9: 2021 | 141651 | [141651-winning-post-9-2021.json](./141651-winning-post-9-2021.json) |
 | Winning Post 9: 2022 | 201030 | [201030-winning-post-9-2022.json](./201030-winning-post-9-2022.json) |
