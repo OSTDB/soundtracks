@@ -9688,6 +9688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skippy: The Curse Of The Temple Of Ock | 132042 | [132042-skippy-the-curse-of-the-temple-of-ock.json](./132042-skippy-the-curse-of-the-temple-of-ock.json) |
 | Skippy's Diner | 254654 | [254654-skippys-diner.json](./254654-skippys-diner.json) |
 | Skippy's Grand Escape | 334335 | [334335-skippys-grand-escape.json](./334335-skippys-grand-escape.json) |
+| Skippy's Revenge | 71357 | [71357-skippys-revenge.json](./71357-skippys-revenge.json) |
 | Skirmish | 13756 | [13756-skirmish.json](./13756-skirmish.json) |
 | Skirmish | 257946 | [257946-skirmish.json](./257946-skirmish.json) |
 | Skirmish | 327165 | [327165-skirmish.json](./327165-skirmish.json) |
@@ -15043,6 +15044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Base | 302753 | [302753-space-base.json](./302753-space-base.json) |
 | Space Base | 415230 | [415230-space-base.json](./415230-space-base.json) |
 | Space Bash | 379727 | [379727-space-bash.json](./379727-space-bash.json) |
+| Space Bastards: Sudden Justice | 71343 | [71343-space-bastards-sudden-justice.json](./71343-space-bastards-sudden-justice.json) |
 | Space Battalion Alpha | 186194 | [186194-space-battalion-alpha.json](./186194-space-battalion-alpha.json) |
 | Space Battle | 160158 | [160158-space-battle.json](./160158-space-battle.json) |
 | Space Battle | 18740 | [18740-space-battle.json](./18740-space-battle.json) |
