@@ -1455,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kerbal Space Program: Enhanced Edition - History and Parts Pack | 164578 | [164578-kerbal-space-program-enhanced-edition-history-and-parts-pack.json](./164578-kerbal-space-program-enhanced-edition-history-and-parts-pack.json) |
 | Kerbal Space Program: Enhanced Edition Complete | 139970 | [139970-kerbal-space-program-enhanced-edition-complete.json](./139970-kerbal-space-program-enhanced-edition-complete.json) |
 | Kerf: Sawmill Tycoon | 413677 | [413677-kerf-sawmill-tycoon.json](./413677-kerf-sawmill-tycoon.json) |
+| Kerflux | 57438 | [57438-kerflux.json](./57438-kerflux.json) |
 | Kerfuffight | 121553 | [121553-kerfuffight.json](./121553-kerfuffight.json) |
 | Keri-hime Sweets | 212454 | [212454-keri-hime-sweets.json](./212454-keri-hime-sweets.json) |
 | Keribato | 250277 | [250277-keribato.json](./250277-keribato.json) |
