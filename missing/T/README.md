@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiyo No Miyako | 221422 | [221422-taiyo-no-miyako.json](./221422-taiyo-no-miyako.json) |
 | Taiyou no Otsuge | 209949 | [209949-taiyou-no-otsuge.json](./209949-taiyou-no-otsuge.json) |
 | Taiyou no Tenshi Marlowe: Ohanabatake ha Dai-Panic! | 331117 | [331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json](./331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json) |
+| Taiyou no Yuusha Fighbird GB | 49136 | [49136-taiyou-no-yuusha-fighbird-gb.json](./49136-taiyou-no-yuusha-fighbird-gb.json) |
 | Taj Mod | 397640 | [397640-taj-mod.json](./397640-taj-mod.json) |
 | Tajemnica statuetki | 26482 | [26482-tajemnica-statuetki.json](./26482-tajemnica-statuetki.json) |
 | Tak 2: The Staff of Dreams | 243146 | [243146-tak-2-the-staff-of-dreams.json](./243146-tak-2-the-staff-of-dreams.json) |
@@ -2817,6 +2818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekichuu Keiba Juku | 37791 | [37791-tekichuu-keiba-juku.json](./37791-tekichuu-keiba-juku.json) |
 | TekiKare: Boyfriend or Foe? | 284610 | [284610-tekikare-boyfriend-or-foe.json](./284610-tekikare-boyfriend-or-foe.json) |
 | Tekkai Jousai no Haika | 398975 | [398975-tekkai-jousai-no-haika.json](./398975-tekkai-jousai-no-haika.json) |
+| Tekkaman Blade | 49135 | [49135-tekkaman-blade.json](./49135-tekkaman-blade.json) |
 | Tekken 2 | 248207 | [248207-tekken-2.json](./248207-tekken-2.json) |
 | Tekken 2 / Soul Blade | 382530 | [382530-tekken-2-soul-blade.json](./382530-tekken-2-soul-blade.json) |
 | Tekken 3 | 369999 | [369999-tekken-3.json](./369999-tekken-3.json) |
@@ -3854,6 +3856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Subject Complete | 172475 | [172475-test-subject-complete.json](./172475-test-subject-complete.json) |
 | Test Subject Green | 172474 | [172474-test-subject-green.json](./172474-test-subject-green.json) |
 | Test Test Test | 281340 | [281340-test-test-test.json](./281340-test-test-test.json) |
+| Test the limits of your courage! Hanechari | 49117 | [49117-test-the-limits-of-your-courage-hanechari.json](./49117-test-the-limits-of-your-courage-hanechari.json) |
 | Test Tube Titans | 129933 | [129933-test-tube-titans.json](./129933-test-tube-titans.json) |
 | Test Tube Titans: Taster Trial | 157062 | [157062-test-tube-titans-taster-trial.json](./157062-test-tube-titans-taster-trial.json) |
 | Test your Atari Acumen | 331163 | [331163-test-your-atari-acumen.json](./331163-test-your-atari-acumen.json) |
@@ -19735,6 +19738,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Detectives: Case 01 | 192167 | [192167-tokyo-detectives-case-01.json](./192167-tokyo-detectives-case-01.json) |
 | Tokyo Detectives: Case 02 | 192168 | [192168-tokyo-detectives-case-02.json](./192168-tokyo-detectives-case-02.json) |
 | Tokyo Detectives: Case 03 | 197561 | [197561-tokyo-detectives-case-03.json](./197561-tokyo-detectives-case-03.json) |
+| Tokyo Disneyland: Fantasy Tour | 49123 | [49123-tokyo-disneyland-fantasy-tour.json](./49123-tokyo-disneyland-fantasy-tour.json) |
+| Tokyo Disneyland: Mickey no Cinderella-jou Mystery Tour | 49124 | [49124-tokyo-disneyland-mickey-no-cinderella-jou-mystery-tour.json](./49124-tokyo-disneyland-mickey-no-cinderella-jou-mystery-tour.json) |
 | Tokyo Drive | 336579 | [336579-tokyo-drive.json](./336579-tokyo-drive.json) |
 | Tokyo Dungeon | 108824 | [108824-tokyo-dungeon.json](./108824-tokyo-dungeon.json) |
 | Tokyo Friend Park II Ketteiban: Minna de Chousen! Taikan Attraction | 139255 | [139255-tokyo-friend-park-ii-ketteiban-minna-de-chousen-taikan-attraction.json](./139255-tokyo-friend-park-ii-ketteiban-minna-de-chousen-taikan-attraction.json) |
