@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badminton World | 323050 | [323050-badminton-world.json](./323050-badminton-world.json) |
 | Badnik Hunt 2 | 330115 | [330115-badnik-hunt-2.json](./330115-badnik-hunt-2.json) |
 | Badpak | 271952 | [271952-badpak.json](./271952-badpak.json) |
+| BadRobots VR | 59142 | [59142-badrobots-vr.json](./59142-badrobots-vr.json) |
 | BadSmith | 223365 | [223365-badsmith.json](./223365-badsmith.json) |
 | Baduk Challenge | 365880 | [365880-baduk-challenge.json](./365880-baduk-challenge.json) |
 | Badventure | 267257 | [267257-badventure.json](./267257-badventure.json) |
@@ -3207,6 +3208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Spirits: Character Play Sheet Set 1 | 325494 | [325494-battle-spirits-character-play-sheet-set-1.json](./325494-battle-spirits-character-play-sheet-set-1.json) |
 | Battle Spirits: Character Sleep Set 1 | 325493 | [325493-battle-spirits-character-sleep-set-1.json](./325493-battle-spirits-character-sleep-set-1.json) |
 | Battle Spirits: Connected Battlers | 146910 | [146910-battle-spirits-connected-battlers.json](./146910-battle-spirits-connected-battlers.json) |
+| Battle Spirits: Hero's Soul | 59156 | [59156-battle-spirits-heros-soul.json](./59156-battle-spirits-heros-soul.json) |
 | Battle Spirits: Kiseki no Hasha | 56516 | [56516-battle-spirits-kiseki-no-hasha.json](./56516-battle-spirits-kiseki-no-hasha.json) |
 | Battle Splash | 55826 | [55826-battle-splash.json](./55826-battle-splash.json) |
 | Battle Squares | 322008 | [322008-battle-squares.json](./322008-battle-squares.json) |
@@ -6093,6 +6095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bighead Runner | 102379 | [102379-bighead-runner.json](./102379-bighead-runner.json) |
 | Bighorn Ramone | 422134 | [422134-bighorn-ramone.json](./422134-bighorn-ramone.json) |
 | Biglands: A Game Made By Kids | 17710 | [17710-biglands-a-game-made-by-kids.json](./17710-biglands-a-game-made-by-kids.json) |
+| Bigley's Revenge | 59283 | [59283-bigleys-revenge.json](./59283-bigleys-revenge.json) |
 | BigMcGee | 309202 | [309202-bigmcgee.json](./309202-bigmcgee.json) |
 | Bigroom Escape | 151727 | [151727-bigroom-escape.json](./151727-bigroom-escape.json) |
 | Bigtop Barney | 91796 | [91796-bigtop-barney.json](./91796-bigtop-barney.json) |
