@@ -10233,6 +10233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FTL: Multiverse | 203369 | [203369-ftl-multiverse.json](./203369-ftl-multiverse.json) |
 | Fu Sha 3: Night Clinic | 405552 | [405552-fu-sha-3-night-clinic.json](./405552-fu-sha-3-night-clinic.json) |
 | Fu-Fu-Chan: Way Up! | 408933 | [408933-fu-fu-chan-way-up.json](./408933-fu-fu-chan-way-up.json) |
+| Fu-un Bakumatsu-den | 71947 | [71947-fu-un-bakumatsu-den.json](./71947-fu-un-bakumatsu-den.json) |
 | Fu'un Super Combo | 84318 | [84318-fuun-super-combo.json](./84318-fuun-super-combo.json) |
 | Fubar | 144062 | [144062-fubar.json](./144062-fubar.json) |
 | FUBG: Fight Unknown Battleground | 302804 | [302804-fubg-fight-unknown-battleground.json](./302804-fubg-fight-unknown-battleground.json) |
