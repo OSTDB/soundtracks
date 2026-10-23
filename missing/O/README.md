@@ -2852,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ophelia's Chapter | 272327 | [272327-ophelias-chapter.json](./272327-ophelias-chapter.json) |
 | Ophelia´s Paradise | 400313 | [400313-ophelia-s-paradise.json](./400313-ophelia-s-paradise.json) |
 | Ophidia | 36523 | [36523-ophidia.json](./36523-ophidia.json) |
+| Ophidian Wars: Opac's Journey | 66491 | [66491-ophidian-wars-opacs-journey.json](./66491-ophidian-wars-opacs-journey.json) |
 | Opi Popi | 398690 | [398690-opi-popi.json](./398690-opi-popi.json) |
 | Opia | 322946 | [322946-opia.json](./322946-opia.json) |
 | Opie: The Defender | 115354 | [115354-opie-the-defender.json](./115354-opie-the-defender.json) |
@@ -3965,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Park Baseball 13 | 64368 | [64368-out-of-the-park-baseball-13.json](./64368-out-of-the-park-baseball-13.json) |
 | Out of the Park Baseball 14 | 24278 | [24278-out-of-the-park-baseball-14.json](./24278-out-of-the-park-baseball-14.json) |
 | Out of the Park Baseball 18 | 26927 | [26927-out-of-the-park-baseball-18.json](./26927-out-of-the-park-baseball-18.json) |
+| Out of the Park Baseball 2 | 66489 | [66489-out-of-the-park-baseball-2.json](./66489-out-of-the-park-baseball-2.json) |
 | Out of the Park Baseball 20 | 115688 | [115688-out-of-the-park-baseball-20.json](./115688-out-of-the-park-baseball-20.json) |
 | Out of the Park Baseball 2005 | 67796 | [67796-out-of-the-park-baseball-2005.json](./67796-out-of-the-park-baseball-2005.json) |
 | Out of the Park Baseball 2007 | 346169 | [346169-out-of-the-park-baseball-2007.json](./346169-out-of-the-park-baseball-2007.json) |
@@ -3974,6 +3976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Park Baseball 26 | 329661 | [329661-out-of-the-park-baseball-26.json](./329661-out-of-the-park-baseball-26.json) |
 | Out of the Park Baseball 3 | 73596 | [73596-out-of-the-park-baseball-3.json](./73596-out-of-the-park-baseball-3.json) |
 | Out of the Park Baseball 4 | 23458 | [23458-out-of-the-park-baseball-4.json](./23458-out-of-the-park-baseball-4.json) |
+| Out of the Park Baseball 5 | 66490 | [66490-out-of-the-park-baseball-5.json](./66490-out-of-the-park-baseball-5.json) |
 | Out of the Park Baseball 9 | 21340 | [21340-out-of-the-park-baseball-9.json](./21340-out-of-the-park-baseball-9.json) |
 | Out of the Shelter | 156701 | [156701-out-of-the-shelter.json](./156701-out-of-the-shelter.json) |
 | Out of the Sun | 64916 | [64916-out-of-the-sun.json](./64916-out-of-the-sun.json) |
