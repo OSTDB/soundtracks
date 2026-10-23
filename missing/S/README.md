@@ -10370,6 +10370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slasher | 251048 | [251048-slasher.json](./251048-slasher.json) |
 | Slasher | 352843 | [352843-slasher.json](./352843-slasher.json) |
 | Slasher Lock | 184593 | [184593-slasher-lock.json](./184593-slasher-lock.json) |
+| Slasher VR | 51723 | [51723-slasher-vr.json](./51723-slasher-vr.json) |
 | Slasher: Origins | 319761 | [319761-slasher-origins.json](./319761-slasher-origins.json) |
 | Slasher's Keep | 76256 | [76256-slashers-keep.json](./76256-slashers-keep.json) |
 | SlasherRPG | 224515 | [224515-slasherrpg.json](./224515-slasherrpg.json) |
@@ -10913,6 +10914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot Battle | 241418 | [241418-slingshot-battle.json](./241418-slingshot-battle.json) |
 | Slingshot Blitz: Rewarded Play | 232036 | [232036-slingshot-blitz-rewarded-play.json](./232036-slingshot-blitz-rewarded-play.json) |
 | Slingshot Braves | 23647 | [23647-slingshot-braves.json](./23647-slingshot-braves.json) |
+| Slingshot Cowboy VR | 51738 | [51738-slingshot-cowboy-vr.json](./51738-slingshot-cowboy-vr.json) |
 | Slingshot Effect | 193716 | [193716-slingshot-effect.json](./193716-slingshot-effect.json) |
 | Slingshot Explorer: The Twelve Towers | 110142 | [110142-slingshot-explorer-the-twelve-towers.json](./110142-slingshot-explorer-the-twelve-towers.json) |
 | Slingshot Fun Collection | 386213 | [386213-slingshot-fun-collection.json](./386213-slingshot-fun-collection.json) |
@@ -19700,6 +19702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starback: Planetdestroyer Redux | 101724 | [101724-starback-planetdestroyer-redux.json](./101724-starback-planetdestroyer-redux.json) |
 | Starball | 85988 | [85988-starball.json](./85988-starball.json) |
 | StarBall | 159592 | [159592-starball.json](./159592-starball.json) |
+| StarBallMadNess | 51721 | [51721-starballmadness.json](./51721-starballmadness.json) |
 | Starbase Gunship | 192772 | [192772-starbase-gunship.json](./192772-starbase-gunship.json) |
 | Starbase Hyperion | 282149 | [282149-starbase-hyperion.json](./282149-starbase-hyperion.json) |
 | Starbase Orion | 63039 | [63039-starbase-orion.json](./63039-starbase-orion.json) |
