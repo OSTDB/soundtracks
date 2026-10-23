@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.F.O. -Lost Future Omega- | 30207 | [30207-l-f-o-lost-future-omega.json](./30207-l-f-o-lost-future-omega.json) |
 | L.I.F.E. Simulator | 329983 | [329983-l-i-f-e-simulator.json](./329983-l-i-f-e-simulator.json) |
 | L.O.C.K. | 144364 | [144364-l-o-c-k.json](./144364-l-o-c-k.json) |
+| L.O.L. Surprise Ball Pop | 89778 | [89778-l-o-l-surprise-ball-pop.json](./89778-l-o-l-surprise-ball-pop.json) |
 | L.O.L. Surprise! B.B.s Born to Travel | 203810 | [203810-l-o-l-surprise-b-b-s-born-to-travel.json](./203810-l-o-l-surprise-b-b-s-born-to-travel.json) |
 | L.O.L. Surprise! Movie Night | 163146 | [163146-l-o-l-surprise-movie-night.json](./163146-l-o-l-surprise-movie-night.json) |
 | L.O.L. Surprise! Roller Dreams Racing | 271399 | [271399-l-o-l-surprise-roller-dreams-racing.json](./271399-l-o-l-surprise-roller-dreams-racing.json) |
@@ -1702,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Maidens: Standard Edition | 343745 | [343745-league-of-maidens-standard-edition.json](./343745-league-of-maidens-standard-edition.json) |
 | League of Mermaids | 34920 | [34920-league-of-mermaids.json](./34920-league-of-mermaids.json) |
 | League of Pantheons | 208173 | [208173-league-of-pantheons.json](./208173-league-of-pantheons.json) |
+| League of Pirates | 89715 | [89715-league-of-pirates.json](./89715-league-of-pirates.json) |
 | League of Piss | 383041 | [383041-league-of-piss.json](./383041-league-of-piss.json) |
 | League of Pixels | 127602 | [127602-league-of-pixels.json](./127602-league-of-pixels.json) |
 | League of Speedrunners | 277265 | [277265-league-of-speedrunners.json](./277265-league-of-speedrunners.json) |
@@ -1886,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left for Dead | 233399 | [233399-left-for-dead.json](./233399-left-for-dead.json) |
 | Left Fore Dead: Zombie Battle Golf | 406646 | [406646-left-fore-dead-zombie-battle-golf.json](./406646-left-fore-dead-zombie-battle-golf.json) |
 | Left in the Dark: No One on Board | 17144 | [17144-left-in-the-dark-no-one-on-board.json](./17144-left-in-the-dark-no-one-on-board.json) |
+| Left in the Dark: No One on Board (Full) | 89745 | [89745-left-in-the-dark-no-one-on-board-full.json](./89745-left-in-the-dark-no-one-on-board-full.json) |
 | Left on Read | 137527 | [137527-left-on-read.json](./137527-left-on-read.json) |
 | Left On Read | 341281 | [341281-left-on-read.json](./341281-left-on-read.json) |
 | Left Right | 287584 | [287584-left-right.json](./287584-left-right.json) |
@@ -3746,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Path | 292978 | [292978-light-path.json](./292978-light-path.json) |
 | Light Pollution | 262293 | [262293-light-pollution.json](./262293-light-pollution.json) |
 | Light Quest | 231991 | [231991-light-quest.json](./231991-light-quest.json) |
+| Light Quest | 89793 | [89793-light-quest.json](./89793-light-quest.json) |
 | Light Rangers: Mending the Maniac Madness | 209406 | [209406-light-rangers-mending-the-maniac-madness.json](./209406-light-rangers-mending-the-maniac-madness.json) |
 | Light Repair Team #4 | 33498 | [33498-light-repair-team-4.json](./33498-light-repair-team-4.json) |
 | Light Rider | 108427 | [108427-light-rider.json](./108427-light-rider.json) |
@@ -5461,6 +5465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Circuit: Marble Puzzle | 210854 | [210854-logic-circuit-marble-puzzle.json](./210854-logic-circuit-marble-puzzle.json) |
 | Logic Cubes | 381792 | [381792-logic-cubes.json](./381792-logic-cubes.json) |
 | Logic Dial | 230696 | [230696-logic-dial.json](./230696-logic-dial.json) |
+| Logic Dots 2 | 89753 | [89753-logic-dots-2.json](./89753-logic-dots-2.json) |
 | Logic Escape | 258407 | [258407-logic-escape.json](./258407-logic-escape.json) |
 | Logic Games Bundle | 242075 | [242075-logic-games-bundle.json](./242075-logic-games-bundle.json) |
 | Logic Island | 256290 | [256290-logic-island.json](./256290-logic-island.json) |
@@ -5561,6 +5566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LOL Dolls - lol surprise game | 98829 | [98829-lol-dolls-lol-surprise-game.json](./98829-lol-dolls-lol-surprise-game.json) |
 | LoL Kart | 88819 | [88819-lol-kart.json](./88819-lol-kart.json) |
 | LoL Sketch | 181186 | [181186-lol-sketch.json](./181186-lol-sketch.json) |
+| LOL Surprise Confetti POP | 89779 | [89779-lol-surprise-confetti-pop.json](./89779-lol-surprise-confetti-pop.json) |
 | LOL: Hasse toh Phasse x Pac-Man | 219450 | [219450-lol-hasse-toh-phasse-x-pac-man.json](./219450-lol-hasse-toh-phasse-x-pac-man.json) |
 | Lola & Virginia | 123350 | [123350-lola-and-virginia.json](./123350-lola-and-virginia.json) |
 | Lola and the Giant | 110325 | [110325-lola-and-the-giant.json](./110325-lola-and-the-giant.json) |
