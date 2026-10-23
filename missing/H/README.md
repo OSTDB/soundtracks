@@ -3475,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Emoji: Drawing to Solve Puzzles | 229798 | [229798-hello-emoji-drawing-to-solve-puzzles.json](./229798-hello-emoji-drawing-to-solve-puzzles.json) |
 | Hello Engineer | 153521 | [153521-hello-engineer.json](./153521-hello-engineer.json) |
 | Hello Fangaming Collection | 320231 | [320231-hello-fangaming-collection.json](./320231-hello-fangaming-collection.json) |
+| Hello Flowerz | 66519 | [66519-hello-flowerz.json](./66519-hello-flowerz.json) |
 | Hello From Darkness | 150992 | [150992-hello-from-darkness.json](./150992-hello-from-darkness.json) |
 | Hello Games Neighbor | 101101 | [101101-hello-games-neighbor.json](./101101-hello-games-neighbor.json) |
 | Hello Girl | 257343 | [257343-hello-girl.json](./257343-hello-girl.json) |
@@ -3717,6 +3718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helping Hand | 104858 | [104858-helping-hand.json](./104858-helping-hand.json) |
 | Helping Hand | 365739 | [365739-helping-hand.json](./365739-helping-hand.json) |
 | Helpless Zombies | 96938 | [96938-helpless-zombies.json](./96938-helpless-zombies.json) |
+| Helsing's Fire | 66492 | [66492-helsings-fire.json](./66492-helsings-fire.json) |
 | Helsingfors | 79559 | [79559-helsingfors.json](./79559-helsingfors.json) |
 | Helter Skelter | 69490 | [69490-helter-skelter.json](./69490-helter-skelter.json) |
 | Heltons Haunted Hotel | 148371 | [148371-heltons-haunted-hotel.json](./148371-heltons-haunted-hotel.json) |
@@ -9663,6 +9665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hup Hup The Cupcake | 303558 | [303558-hup-hup-the-cupcake.json](./303558-hup-hup-the-cupcake.json) |
 | Hupsi | 177436 | [177436-hupsi.json](./177436-hupsi.json) |
 | Huracan Drift Simulator | 95875 | [95875-huracan-drift-simulator.json](./95875-huracan-drift-simulator.json) |
+| Hurdle Turtle | 66528 | [66528-hurdle-turtle.json](./66528-hurdle-turtle.json) |
 | Hurdle Turtle 2 | 58264 | [58264-hurdle-turtle-2.json](./58264-hurdle-turtle-2.json) |
 | Hurdle Turtle Forever | 58262 | [58262-hurdle-turtle-forever.json](./58262-hurdle-turtle-forever.json) |
 | Hurdles | 192295 | [192295-hurdles.json](./192295-hurdles.json) |
@@ -9787,6 +9790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydraulic Slam | 337773 | [337773-hydraulic-slam.json](./337773-hydraulic-slam.json) |
 | Hydro | 344997 | [344997-hydro.json](./344997-hydro.json) |
 | Hydro Chicks | 407987 | [407987-hydro-chicks.json](./407987-hydro-chicks.json) |
+| Hydro Electric Worker | 66521 | [66521-hydro-electric-worker.json](./66521-hydro-electric-worker.json) |
 | Hydro Storm 2 | 180487 | [180487-hydro-storm-2.json](./180487-hydro-storm-2.json) |
 | Hydro Thunder | 217932 | [217932-hydro-thunder.json](./217932-hydro-thunder.json) |
 | Hydro Thunder | 3370 | [3370-hydro-thunder.json](./3370-hydro-thunder.json) |
