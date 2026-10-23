@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taarradhin | 57179 | [57179-taarradhin.json](./57179-taarradhin.json) |
 | Tab + Notch | 401091 | [401091-tab-notch.json](./401091-tab-notch.json) |
 | Tab-Bot | 202005 | [202005-tab-bot.json](./202005-tab-bot.json) |
+| Tabaluga | 85895 | [85895-tabaluga.json](./85895-tabaluga.json) |
 | Tabboz Simulator | 191239 | [191239-tabboz-simulator.json](./191239-tabboz-simulator.json) |
 | Tabbris Yor | 156936 | [156936-tabbris-yor.json](./156936-tabbris-yor.json) |
 | Tabby Cat's Great Catventure | 177423 | [177423-tabby-cats-great-catventure.json](./177423-tabby-cats-great-catventure.json) |
@@ -7962,6 +7963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golf Club 2 | 28247 | [28247-the-golf-club-2.json](./28247-the-golf-club-2.json) |
 | The Golf Club 2019 featuring PGA Tour | 91128 | [91128-the-golf-club-2019-featuring-pga-tour.json](./91128-the-golf-club-2019-featuring-pga-tour.json) |
 | The Golf Club VR | 27545 | [27545-the-golf-club-vr.json](./27545-the-golf-club-vr.json) |
+| The Golf Pro | 85914 | [85914-the-golf-pro.json](./85914-the-golf-pro.json) |
 | The Golf: Bishoujo Classic | 41309 | [41309-the-golf-bishoujo-classic.json](./41309-the-golf-bishoujo-classic.json) |
 | The Good Chicken | 220673 | [220673-the-good-chicken.json](./220673-the-good-chicken.json) |
 | The Good Colony | 311614 | [311614-the-good-colony.json](./311614-the-good-colony.json) |
@@ -9070,6 +9072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Key to Home | 75948 | [75948-the-key-to-home.json](./75948-the-key-to-home.json) |
 | The Keyboard | 264029 | [264029-the-keyboard.json](./264029-the-keyboard.json) |
 | The Kharzov Effect | 322134 | [322134-the-kharzov-effect.json](./322134-the-kharzov-effect.json) |
+| The Kids Puzzle | 85922 | [85922-the-kids-puzzle.json](./85922-the-kids-puzzle.json) |
 | The Kids We Were | 148238 | [148238-the-kids-we-were.json](./148238-the-kids-we-were.json) |
 | The Kill Zone | 235827 | [235827-the-kill-zone.json](./235827-the-kill-zone.json) |
 | The Killbox: Arena Combat | 74293 | [74293-the-killbox-arena-combat.json](./74293-the-killbox-arena-combat.json) |
@@ -13998,6 +14001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Toho Datsui Hanafuda | 95157 | [95157-the-toho-datsui-hanafuda.json](./95157-the-toho-datsui-hanafuda.json) |
 | The Tolerance Group | 408940 | [408940-the-tolerance-group.json](./408940-the-tolerance-group.json) |
 | The Tomatoes are OK | 184993 | [184993-the-tomatoes-are-ok.json](./184993-the-tomatoes-are-ok.json) |
+| The Tomb | 85905 | [85905-the-tomb.json](./85905-the-tomb.json) |
 | The Tomb of Corruption | 289954 | [289954-the-tomb-of-corruption.json](./289954-the-tomb-of-corruption.json) |
 | The Tomb Raider Trilogy | 7470 | [7470-the-tomb-raider-trilogy.json](./7470-the-tomb-raider-trilogy.json) |
 | The Tombs of Ultra 5 | 189373 | [189373-the-tombs-of-ultra-5.json](./189373-the-tombs-of-ultra-5.json) |
@@ -20767,6 +20771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TotalNerds | 208254 | [208254-totalnerds.json](./208254-totalnerds.json) |
 | Totem | 32070 | [32070-totem.json](./32070-totem.json) |
 | Totem | 396483 | [396483-totem.json](./396483-totem.json) |
+| Totem | 85888 | [85888-totem.json](./85888-totem.json) |
 | Tôtem | 133974 | [133974-totem.json](./133974-totem.json) |
 | Totem 2 | 204851 | [204851-totem-2.json](./204851-totem-2.json) |
 | Totem City | 124017 | [124017-totem-city.json](./124017-totem-city.json) |
@@ -25554,6 +25559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumble Tundra | 259279 | [259279-tumble-tundra.json](./259279-tumble-tundra.json) |
 | Tumble VR | 18400 | [18400-tumble-vr.json](./18400-tumble-vr.json) |
 | Tumble Wrestling | 262349 | [262349-tumble-wrestling.json](./262349-tumble-wrestling.json) |
+| Tumblebugs | 85908 | [85908-tumblebugs.json](./85908-tumblebugs.json) |
 | Tumblebugs 2 | 53858 | [53858-tumblebugs-2.json](./53858-tumblebugs-2.json) |
 | Tumbledown Drive | 190043 | [190043-tumbledown-drive.json](./190043-tumbledown-drive.json) |
 | TumblePop | 25694 | [25694-tumblepop.json](./25694-tumblepop.json) |
