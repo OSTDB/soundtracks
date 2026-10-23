@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madman's Dice | 374801 | [374801-madmans-dice.json](./374801-madmans-dice.json) |
 | Madness | 309846 | [309846-madness.json](./309846-madness.json) |
 | Madness & the Minotaur | 24851 | [24851-madness-and-the-minotaur.json](./24851-madness-and-the-minotaur.json) |
+| Madness Accelerant | 65891 | [65891-madness-accelerant.json](./65891-madness-accelerant.json) |
 | Madness Ambulation | 320913 | [320913-madness-ambulation.json](./320913-madness-ambulation.json) |
 | Madness Arena | 322755 | [322755-madness-arena.json](./322755-madness-arena.json) |
 | Madness Below | 326619 | [326619-madness-below.json](./326619-madness-below.json) |
@@ -3406,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Moe | 383171 | [383171-market-moe.json](./383171-market-moe.json) |
 | Market Mogul | 59899 | [59899-market-mogul.json](./59899-market-mogul.json) |
 | Market Simulator | 342024 | [342024-market-simulator.json](./342024-market-simulator.json) |
+| Market Street | 65955 | [65955-market-street.json](./65955-market-street.json) |
 | Market Trouble | 182541 | [182541-market-trouble.json](./182541-market-trouble.json) |
 | Market Warfare | 252284 | [252284-market-warfare.json](./252284-market-warfare.json) |
 | Marketplace | 311236 | [311236-marketplace.json](./311236-marketplace.json) |
@@ -11473,6 +11475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobsteria | 359354 | [359354-mobsteria.json](./359354-mobsteria.json) |
 | Mobsteria: Rise | 420548 | [420548-mobsteria-rise.json](./420548-mobsteria-rise.json) |
 | Mobsters | 78608 | [78608-mobsters.json](./78608-mobsters.json) |
+| Mobsters 2: Vendetta | 65949 | [65949-mobsters-2-vendetta.json](./65949-mobsters-2-vendetta.json) |
 | Mobu | 404826 | [404826-mobu.json](./404826-mobu.json) |
 | MoBu 2 - Race with Friends | 104627 | [104627-mobu-2-race-with-friends.json](./104627-mobu-2-race-with-friends.json) |
 | Mobula | 311790 | [311790-mobula.json](./311790-mobula.json) |
@@ -17180,6 +17183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Phantoms: Ghostly Secrets - Collector's Edition | 413147 | [413147-mystery-phantoms-ghostly-secrets-collectors-edition.json](./413147-mystery-phantoms-ghostly-secrets-collectors-edition.json) |
 | Mystery PI: The Vegas Heist | 28976 | [28976-mystery-pi-the-vegas-heist.json](./28976-mystery-pi-the-vegas-heist.json) |
 | Mystery Quest | 48195 | [48195-mystery-quest.json](./48195-mystery-quest.json) |
+| Mystery Quest: Curse of the Ancient Spirits | 65918 | [65918-mystery-quest-curse-of-the-ancient-spirits.json](./65918-mystery-quest-curse-of-the-ancient-spirits.json) |
 | Mystery Saiyan | 86986 | [86986-mystery-saiyan.json](./86986-mystery-saiyan.json) |
 | Mystery Science Theater 3000 Presents: Detective | 310680 | [310680-mystery-science-theater-3000-presents-detective.json](./310680-mystery-science-theater-3000-presents-detective.json) |
 | Mystery Series: A Vampire Tale | 54244 | [54244-mystery-series-a-vampire-tale.json](./54244-mystery-series-a-vampire-tale.json) |
