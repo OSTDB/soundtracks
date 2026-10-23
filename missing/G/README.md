@@ -3727,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glaive: Brick Breaker | 95216 | [95216-glaive-brick-breaker.json](./95216-glaive-brick-breaker.json) |
 | GlaiveBound | 290719 | [290719-glaivebound.json](./290719-glaivebound.json) |
 | Glam Descent | 260003 | [260003-glam-descent.json](./260003-glam-descent.json) |
+| Glam Doll House: Fashion Girls Craft & Exploration | 88025 | [88025-glam-doll-house-fashion-girls-craft-and-exploration.json](./88025-glam-doll-house-fashion-girls-craft-and-exploration.json) |
 | Glam the Rocker | 413712 | [413712-glam-the-rocker.json](./413712-glam-the-rocker.json) |
 | Glam's Incredible Run: Escape from Dukha | 146682 | [146682-glams-incredible-run-escape-from-dukha.json](./146682-glams-incredible-run-escape-from-dukha.json) |
 | Glamor & Girls | 382490 | [382490-glamor-and-girls.json](./382490-glamor-and-girls.json) |
@@ -4055,6 +4056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow Hockey | 103694 | [103694-glow-hockey.json](./103694-glow-hockey.json) |
 | Glow Hockey 2 | 228068 | [228068-glow-hockey-2.json](./228068-glow-hockey-2.json) |
 | Glow Hockey 2 HD | 91984 | [91984-glow-hockey-2-hd.json](./91984-glow-hockey-2-hd.json) |
+| Glow Hockey 2L | 88062 | [88062-glow-hockey-2l.json](./88062-glow-hockey-2l.json) |
 | Glow Hockey HD - 2 Player Neon Light Air Hockey | 103546 | [103546-glow-hockey-hd-2-player-neon-light-air-hockey.json](./103546-glow-hockey-hd-2-player-neon-light-air-hockey.json) |
 | Glow Journey | 339310 | [339310-glow-journey.json](./339310-glow-journey.json) |
 | Glow of Honeydew | 395182 | [395182-glow-of-honeydew.json](./395182-glow-of-honeydew.json) |
