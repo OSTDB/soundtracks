@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Slide Puzzle World mystic squares 15 game | 100290 | [100290-kids-slide-puzzle-world-mystic-squares-15-game.json](./100290-kids-slide-puzzle-world-mystic-squares-15-game.json) |
 | Kids Station: Asobou! Hanasou! Guru-guru Town Hanamaru-kun | 148374 | [148374-kids-station-asobou-hanasou-guru-guru-town-hanamaru-kun.json](./148374-kids-station-asobou-hanasou-guru-guru-town-hanamaru-kun.json) |
 | Kids Station: Barbapapa | 148377 | [148377-kids-station-barbapapa.json](./148377-kids-station-barbapapa.json) |
+| Kids Station: Crayon Shin-Chan Ora to Omoide Tsukuru Zo! | 56243 | [56243-kids-station-crayon-shin-chan-ora-to-omoide-tsukuru-zo.json](./56243-kids-station-crayon-shin-chan-ora-to-omoide-tsukuru-zo.json) |
 | Kids Station: Digimon Park | 58808 | [58808-kids-station-digimon-park.json](./58808-kids-station-digimon-park.json) |
 | Kids Station: Doraemon - Himitsu no Yojigen Pocket | 91774 | [91774-kids-station-doraemon-himitsu-no-yojigen-pocket.json](./91774-kids-station-doraemon-himitsu-no-yojigen-pocket.json) |
 | Kids Station: Hello Kitty no Oshaberi ABC | 198926 | [198926-kids-station-hello-kitty-no-oshaberi-abc.json](./198926-kids-station-hello-kitty-no-oshaberi-abc.json) |
@@ -1865,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Station: Motto! Oja Majo Do-Re-Mi - Mahodou Smile Party | 58774 | [58774-kids-station-motto-oja-majo-do-re-mi-mahodou-smile-party.json](./58774-kids-station-motto-oja-majo-do-re-mi-mahodou-smile-party.json) |
 | Kids Station: Oja Majo Doremi Dokkan! Maho-dou Eigo Festival | 389454 | [389454-kids-station-oja-majo-doremi-dokkan-maho-dou-eigo-festival.json](./389454-kids-station-oja-majo-doremi-dokkan-maho-dou-eigo-festival.json) |
 | Kids Station: Soreike! Anpanman | 302606 | [302606-kids-station-soreike-anpanman.json](./302606-kids-station-soreike-anpanman.json) |
+| Kids Station: Ultraman Cosmos | 56241 | [56241-kids-station-ultraman-cosmos.json](./56241-kids-station-ultraman-cosmos.json) |
 | Kids Tetris | 202059 | [202059-kids-tetris.json](./202059-kids-tetris.json) |
 | Kids Train Sim | 100614 | [100614-kids-train-sim.json](./100614-kids-train-sim.json) |
 | Kids Trucks: Alphabet Letter Identification Games | 89768 | [89768-kids-trucks-alphabet-letter-identification-games.json](./89768-kids-trucks-alphabet-letter-identification-games.json) |
@@ -2223,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -3604,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's Rush | 23923 | [23923-knights-rush.json](./23923-knights-rush.json) |
 | Knight's Saga Evil Goblins | 286989 | [286989-knights-saga-evil-goblins.json](./286989-knights-saga-evil-goblins.json) |
 | Knight's Tail: Tactics | 344150 | [344150-knights-tail-tactics.json](./344150-knights-tail-tactics.json) |
+| Knight's Tour: Logic Puzzles | 56331 | [56331-knights-tour-logic-puzzles.json](./56331-knights-tour-logic-puzzles.json) |
 | Knight's Try | 188435 | [188435-knights-try.json](./188435-knights-try.json) |
 | Knight´s Quest | 379182 | [379182-knight-s-quest.json](./379182-knight-s-quest.json) |
 | Knightblade | 194900 | [194900-knightblade.json](./194900-knightblade.json) |
