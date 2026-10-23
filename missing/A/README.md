@@ -4119,6 +4119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Battles: Sky Defender | 61478 | [61478-air-battles-sky-defender.json](./61478-air-battles-sky-defender.json) |
 | Air Blitz | 379521 | [379521-air-blitz.json](./379521-air-blitz.json) |
 | Air Blocks | 206101 | [206101-air-blocks.json](./206101-air-blocks.json) |
+| Air Boarder 64 | 47763 | [47763-air-boarder-64.json](./47763-air-boarder-64.json) |
 | Air Bob | 266637 | [266637-air-bob.json](./266637-air-bob.json) |
 | Air Bounce: The Jump 'n' Run Challenge | 142697 | [142697-air-bounce-the-jump-n-run-challenge.json](./142697-air-bounce-the-jump-n-run-challenge.json) |
 | Air Brawl | 35081 | [35081-air-brawl.json](./35081-air-brawl.json) |
@@ -6709,6 +6710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Girl: Julie Finds a Way | 18241 | [18241-american-girl-julie-finds-a-way.json](./18241-american-girl-julie-finds-a-way.json) |
 | American Girl: Julie Saves the Eagles | 18242 | [18242-american-girl-julie-saves-the-eagles.json](./18242-american-girl-julie-saves-the-eagles.json) |
 | American Girl: Kit - A Treehouse of My Own | 18247 | [18247-american-girl-kit-a-treehouse-of-my-own.json](./18247-american-girl-kit-a-treehouse-of-my-own.json) |
+| American Girl: Kit Mystery Challenge! | 47786 | [47786-american-girl-kit-mystery-challenge.json](./47786-american-girl-kit-mystery-challenge.json) |
 | American Girl: Kit's Mystery Challenge | 18246 | [18246-american-girl-kits-mystery-challenge.json](./18246-american-girl-kits-mystery-challenge.json) |
 | American Girl: Mia Goes For Great | 18245 | [18245-american-girl-mia-goes-for-great.json](./18245-american-girl-mia-goes-for-great.json) |
 | American Gladiators | 273030 | [273030-american-gladiators.json](./273030-american-gladiators.json) |
@@ -9451,6 +9453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium | 21400 | [21400-aquarium.json](./21400-aquarium.json) |
 | Aquarium Anomaly | 414410 | [414410-aquarium-anomaly.json](./414410-aquarium-anomaly.json) |
 | Aquarium at August 32nd VR | 337961 | [337961-aquarium-at-august-32nd-vr.json](./337961-aquarium-at-august-32nd-vr.json) |
+| Aquarium by DS | 47776 | [47776-aquarium-by-ds.json](./47776-aquarium-by-ds.json) |
 | Aquarium Designer | 159879 | [159879-aquarium-designer.json](./159879-aquarium-designer.json) |
 | Aquarium Designer: Amazonia | 253600 | [253600-aquarium-designer-amazonia.json](./253600-aquarium-designer-amazonia.json) |
 | Aquarium Designer: Japan | 238551 | [238551-aquarium-designer-japan.json](./238551-aquarium-designer-japan.json) |
