@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nampa Forest | 104626 | [104626-nampa-forest.json](./104626-nampa-forest.json) |
 | Namtir Raiders | 319589 | [319589-namtir-raiders.json](./319589-namtir-raiders.json) |
 | Nana | 201771 | [201771-nana.json](./201771-nana.json) |
+| Nana | 61424 | [61424-nana.json](./61424-nana.json) |
 | Nana Tan | 267395 | [267395-nana-tan.json](./267395-nana-tan.json) |
 | Nana-chan no Star Tanjou | 66131 | [66131-nana-chan-no-star-tanjou.json](./66131-nana-chan-no-star-tanjou.json) |
 | Nana: Live Staff Daiboshuu! Shoshinsha Kangei | 65421 | [65421-nana-live-staff-daiboshuu-shoshinsha-kangei.json](./65421-nana-live-staff-daiboshuu-shoshinsha-kangei.json) |
@@ -2139,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoTrap | 184112 | [184112-neotrap.json](./184112-neotrap.json) |
 | Neotrie VR | 112706 | [112706-neotrie-vr.json](./112706-neotrie-vr.json) |
 | Neoverse | 113750 | [113750-neoverse.json](./113750-neoverse.json) |
+| NEP League DS | 61403 | [61403-nep-league-ds.json](./61403-nep-league-ds.json) |
 | Nepenthe | 100600 | [100600-nepenthe.json](./100600-nepenthe.json) |
 | Nephelem: A Path of Vice and Virtue | 342653 | [342653-nephelem-a-path-of-vice-and-virtue.json](./342653-nephelem-a-path-of-vice-and-virtue.json) |
 | Nephi's Quest | 71937 | [71937-nephis-quest.json](./71937-nephis-quest.json) |
