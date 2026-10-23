@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac & Pal | 18381 | [18381-pac-and-pal.json](./18381-pac-and-pal.json) |
 | Pac 16 | 313499 | [313499-pac-16.json](./313499-pac-16.json) |
 | Pac Adventures 3D | 105307 | [105307-pac-adventures-3d.json](./105307-pac-adventures-3d.json) |
+| Pac Droids | 94590 | [94590-pac-droids.json](./94590-pac-droids.json) |
 | Pac Girl | 25146 | [25146-pac-girl.json](./25146-pac-girl.json) |
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
 | Pac Mr | 100293 | [100293-pac-mr.json](./100293-pac-mr.json) |
@@ -4055,6 +4056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour Golf III | 45781 | [45781-pga-tour-golf-iii.json](./45781-pga-tour-golf-iii.json) |
 | PGA Tour Golf Shootout | 137414 | [137414-pga-tour-golf-shootout.json](./137414-pga-tour-golf-shootout.json) |
 | PGA Tour Golf: The Monterey Courses | 206170 | [206170-pga-tour-golf-the-monterey-courses.json](./206170-pga-tour-golf-the-monterey-courses.json) |
+| PGA Tour Pro | 94514 | [94514-pga-tour-pro.json](./94514-pga-tour-pro.json) |
 | PGA Tour Pro: Classic Courses Volume 1 | 209980 | [209980-pga-tour-pro-classic-courses-volume-1.json](./209980-pga-tour-pro-classic-courses-volume-1.json) |
 | Ph0b0s | 207521 | [207521-ph0b0s.json](./207521-ph0b0s.json) |
 | Phá Kén: Khúc Điêu Linh | 318783 | [318783-pha-ken-khuc-ieu-linh.json](./318783-pha-ken-khuc-ieu-linh.json) |
@@ -5881,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipo's on the Run | 178376 | [178376-pipos-on-the-run.json](./178376-pipos-on-the-run.json) |
 | Pipoclub | 203254 | [203254-pipoclub.json](./203254-pipoclub.json) |
 | Piposh | 120136 | [120136-piposh.json](./120136-piposh.json) |
+| Piposh 2 | 94520 | [94520-piposh-2.json](./94520-piposh-2.json) |
 | Piposh 3D: The Revolution | 66750 | [66750-piposh-3d-the-revolution.json](./66750-piposh-3d-the-revolution.json) |
 | Piposh in: A Dream Come True | 66751 | [66751-piposh-in-a-dream-come-true.json](./66751-piposh-in-a-dream-come-true.json) |
 | Pipp vs Flupp | 368257 | [368257-pipp-vs-flupp.json](./368257-pipp-vs-flupp.json) |
@@ -6854,6 +6857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelTown | 183283 | [183283-pixeltown.json](./183283-pixeltown.json) |
 | Pixeltroid | 321673 | [321673-pixeltroid.json](./321673-pixeltroid.json) |
 | Pixelus | 209383 | [209383-pixelus.json](./209383-pixelus.json) |
+| Pixelus Deluxe | 94582 | [94582-pixelus-deluxe.json](./94582-pixelus-deluxe.json) |
 | Pixelvader | 335923 | [335923-pixelvader.json](./335923-pixelvader.json) |
 | Pixelz - Color by Number Pixel Art Coloring Book | 104616 | [104616-pixelz-color-by-number-pixel-art-coloring-book.json](./104616-pixelz-color-by-number-pixel-art-coloring-book.json) |
 | Pixeria | 210682 | [210682-pixeria.json](./210682-pixeria.json) |
@@ -8311,6 +8315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo Quest | 391093 | [391093-pogo-quest.json](./391093-pogo-quest.json) |
 | Pogo Rage: The Awakening | 220649 | [220649-pogo-rage-the-awakening.json](./220649-pogo-rage-the-awakening.json) |
 | Pogo Stick Champion | 305567 | [305567-pogo-stick-champion.json](./305567-pogo-stick-champion.json) |
+| Pogo Sticker | 94584 | [94584-pogo-sticker.json](./94584-pogo-sticker.json) |
 | Pogo Sudoku | 354990 | [354990-pogo-sudoku.json](./354990-pogo-sudoku.json) |
 | Pogo Swing! | 388176 | [388176-pogo-swing.json](./388176-pogo-swing.json) |
 | Pogo Up! | 365289 | [365289-pogo-up.json](./365289-pogo-up.json) |
@@ -10611,6 +10616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power of the Horde | 361807 | [361807-power-of-the-horde.json](./361807-power-of-the-horde.json) |
 | Power of The Void | 74364 | [74364-power-of-the-void.json](./74364-power-of-the-void.json) |
 | Power Off | 406913 | [406913-power-off.json](./406913-power-off.json) |
+| Power Off! | 94608 | [94608-power-off.json](./94608-power-off.json) |
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
 | Power Overwhelming | 30739 | [30739-power-overwhelming.json](./30739-power-overwhelming.json) |
 | Power Pals | 165728 | [165728-power-pals.json](./165728-power-pals.json) |
@@ -11799,6 +11805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling 2008 | 44490 | [44490-pro-cycling-2008.json](./44490-pro-cycling-2008.json) |
 | Pro Cycling 2009 | 68004 | [68004-pro-cycling-2009.json](./68004-pro-cycling-2009.json) |
 | Pro Cycling 2010 | 61470 | [61470-pro-cycling-2010.json](./61470-pro-cycling-2010.json) |
+| Pro Cycling Manager 2006 | 94512 | [94512-pro-cycling-manager-2006.json](./94512-pro-cycling-manager-2006.json) |
 | Pro Cycling Manager 2008 | 21940 | [21940-pro-cycling-manager-2008.json](./21940-pro-cycling-manager-2008.json) |
 | Pro Cycling Manager 2010 | 67311 | [67311-pro-cycling-manager-2010.json](./67311-pro-cycling-manager-2010.json) |
 | Pro Cycling Manager 2011 | 10720 | [10720-pro-cycling-manager-2011.json](./10720-pro-cycling-manager-2011.json) |
