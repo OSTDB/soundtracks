@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.A.C.E.S. | 57163 | [57163-f-a-c-e-s.json](./57163-f-a-c-e-s.json) |
 | F.A.G.E.N. | 413041 | [413041-f-a-g-e-n.json](./413041-f-a-g-e-n.json) |
 | F.A.R.M.S.: Chill Factory | 389684 | [389684-f-a-r-m-s-chill-factory.json](./389684-f-a-r-m-s-chill-factory.json) |
+| F.A.S.T. | 79079 | [79079-f-a-s-t.json](./79079-f-a-s-t.json) |
 | F.B.I.C | 342816 | [342816-f-b-i-c.json](./342816-f-b-i-c.json) |
 | F.E.A.R. | 202149 | [202149-f-e-a-r.json](./202149-f-e-a-r.json) |
 | F.E.A.R. 3 | 514 | [514-f-e-a-r-3.json](./514-f-e-a-r-3.json) |
@@ -6145,6 +6146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Sim 18 | 106904 | [106904-flight-sim-18.json](./106904-flight-sim-18.json) |
 | Flight Sim 2018 | 106900 | [106900-flight-sim-2018.json](./106900-flight-sim-2018.json) |
 | Flight Sim 2019 | 147704 | [147704-flight-sim-2019.json](./147704-flight-sim-2019.json) |
+| Flight Sim Toolkit | 79065 | [79065-flight-sim-toolkit.json](./79065-flight-sim-toolkit.json) |
 | Flight Sim World | 28453 | [28453-flight-sim-world.json](./28453-flight-sim-world.json) |
 | Flight Sims Air Cavalry Pilots | 175336 | [175336-flight-sims-air-cavalry-pilots.json](./175336-flight-sims-air-cavalry-pilots.json) |
 | Flight Simulation | 23062 | [23062-flight-simulation.json](./23062-flight-simulation.json) |
@@ -6246,6 +6248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip-Flip Jigsaw Girls | 410383 | [410383-flip-flip-jigsaw-girls.json](./410383-flip-flip-jigsaw-girls.json) |
 | Flip-Flop Fury | 402521 | [402521-flip-flop-fury.json](./402521-flip-flop-fury.json) |
 | Flip-It | 159167 | [159167-flip-it.json](./159167-flip-it.json) |
+| Flip-it & Magnose | 79067 | [79067-flip-it-and-magnose.json](./79067-flip-it-and-magnose.json) |
 | Flip: Surfing Colors | 95098 | [95098-flip-surfing-colors.json](./95098-flip-surfing-colors.json) |
 | Flip! The Cartoon Strategy Game | 57086 | [57086-flip-the-cartoon-strategy-game.json](./57086-flip-the-cartoon-strategy-game.json) |
 | Flip's Escape | 64646 | [64646-flips-escape.json](./64646-flips-escape.json) |
@@ -7373,6 +7376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footy Ball Tournament 2018 | 104050 | [104050-footy-ball-tournament-2018.json](./104050-footy-ball-tournament-2018.json) |
 | Footy Ball: Pass Pass Soccer | 246271 | [246271-footy-ball-pass-pass-soccer.json](./246271-footy-ball-pass-pass-soccer.json) |
 | Footy Bash | 271909 | [271909-footy-bash.json](./271909-footy-bash.json) |
+| Footy Fanatic | 79107 | [79107-footy-fanatic.json](./79107-footy-fanatic.json) |
 | FootyKitDle | 304250 | [304250-footykitdle.json](./304250-footykitdle.json) |
 | Foqus | 46609 | [46609-foqus.json](./46609-foqus.json) |
 | For a Better Country | 121373 | [121373-for-a-better-country.json](./121373-for-a-better-country.json) |
