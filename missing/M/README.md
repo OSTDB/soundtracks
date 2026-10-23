@@ -6879,6 +6879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memebonk | 406062 | [406062-memebonk.json](./406062-memebonk.json) |
 | Memento | 33176 | [33176-memento.json](./33176-memento.json) |
 | Memento | 33653 | [33653-memento.json](./33653-memento.json) |
+| Memento Bay | 57456 | [57456-memento-bay.json](./57456-memento-bay.json) |
 | Memento Dawn | 262956 | [262956-memento-dawn.json](./262956-memento-dawn.json) |
 | Memento in Marrow | 330849 | [330849-memento-in-marrow.json](./330849-memento-in-marrow.json) |
 | Memento Infernum | 148685 | [148685-memento-infernum.json](./148685-memento-infernum.json) |
@@ -7478,6 +7479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Your Room: Extended Edition | 231259 | [231259-merge-your-room-extended-edition.json](./231259-merge-your-room-extended-edition.json) |
 | Merge Your Room: Toys Pack | 231229 | [231229-merge-your-room-toys-pack.json](./231229-merge-your-room-toys-pack.json) |
 | Merge Zoo | 224105 | [224105-merge-zoo.json](./224105-merge-zoo.json) |
+| Merged | 57528 | [57528-merged.json](./57528-merged.json) |
 | Merged Gravity Redux | 241790 | [241790-merged-gravity-redux.json](./241790-merged-gravity-redux.json) |
 | Merger 3D | 31338 | [31338-merger-3d.json](./31338-merger-3d.json) |
 | Mergery | 358354 | [358354-mergery.json](./358354-mergery.json) |
@@ -15050,6 +15052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mujintou Monogatari 4 | 63662 | [63662-mujintou-monogatari-4.json](./63662-mujintou-monogatari-4.json) |
 | Mujintou Monogatari Memorial Version | 58461 | [58461-mujintou-monogatari-memorial-version.json](./58461-mujintou-monogatari-memorial-version.json) |
 | Mujintou Monogatari R: Futari no Love Love Ai Land | 62545 | [62545-mujintou-monogatari-r-futari-no-love-love-ai-land.json](./62545-mujintou-monogatari-r-futari-no-love-love-ai-land.json) |
+| Mujo | 57447 | [57447-mujo.json](./57447-mujo.json) |
 | Mujun's Casefile: The Mystery Mansion | 394431 | [394431-mujuns-casefile-the-mystery-mansion.json](./394431-mujuns-casefile-the-mystery-mansion.json) |
 | Mukaeute Uchuu Gundan Galack | 66130 | [66130-mukaeute-uchuu-gundan-galack.json](./66130-mukaeute-uchuu-gundan-galack.json) |
 | Mukbang 3D | 240883 | [240883-mukbang-3d.json](./240883-mukbang-3d.json) |
