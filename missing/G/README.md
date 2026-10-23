@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaia Aura | 327266 | [327266-gaia-aura.json](./327266-gaia-aura.json) |
 | Gaia Crusaders | 39550 | [39550-gaia-crusaders.json](./39550-gaia-crusaders.json) |
 | Gaia Eternal | 56175 | [56175-gaia-eternal.json](./56175-gaia-eternal.json) |
+| Gaia Master | 59153 | [59153-gaia-master.json](./59153-gaia-master.json) |
 | Gaia Master Duel Card Attacks | 79384 | [79384-gaia-master-duel-card-attacks.json](./79384-gaia-master-duel-card-attacks.json) |
 | Gaia Online | 125884 | [125884-gaia-online.json](./125884-gaia-online.json) |
 | Gaia Project | 150247 | [150247-gaia-project.json](./150247-gaia-project.json) |
@@ -2450,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genopanic | 204193 | [204193-genopanic.json](./204193-genopanic.json) |
 | Genpei Kassen | 183870 | [183870-genpei-kassen.json](./183870-genpei-kassen.json) |
 | Genre Hopper | 182532 | [182532-genre-hopper.json](./182532-genre-hopper.json) |
+| Genroh | 59157 | [59157-genroh.json](./59157-genroh.json) |
 | Genry's parables: Scientist Story | 164419 | [164419-genrys-parables-scientist-story.json](./164419-genrys-parables-scientist-story.json) |
 | Gensei Fukyo Den | 263673 | [263673-gensei-fukyo-den.json](./263673-gensei-fukyo-den.json) |
 | Gensei Haiyuuki | 263682 | [263682-gensei-haiyuuki.json](./263682-gensei-haiyuuki.json) |
@@ -2765,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Home Safe | 229327 | [229327-get-home-safe.json](./229327-get-home-safe.json) |
 | Get in the Car, Loser! | 107601 | [107601-get-in-the-car-loser.json](./107601-get-in-the-car-loser.json) |
 | Get in the Car, Loser!: The Fate of Another World | 226411 | [226411-get-in-the-car-loser-the-fate-of-another-world.json](./226411-get-in-the-car-loser-the-fate-of-another-world.json) |
+| Get in the Hole | 59188 | [59188-get-in-the-hole.json](./59188-get-in-the-hole.json) |
 | Get in Timelessness | 358241 | [358241-get-in-timelessness.json](./358241-get-in-timelessness.json) |
 | Get into Backrooms | 213209 | [213209-get-into-backrooms.json](./213209-get-into-backrooms.json) |
 | Get it Hard | 215935 | [215935-get-it-hard.json](./215935-get-it-hard.json) |
@@ -2860,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geten no Hana: Yume Akari | 62093 | [62093-geten-no-hana-yume-akari.json](./62093-geten-no-hana-yume-akari.json) |
 | Gethaut | 148806 | [148806-gethaut.json](./148806-gethaut.json) |
 | GetHigh.exe | 393798 | [393798-gethigh-exe.json](./393798-gethigh-exe.json) |
+| GetMeBro! | 59282 | [59282-getmebro.json](./59282-getmebro.json) |
 | GetRektBambi | 59656 | [59656-getrektbambi.json](./59656-getrektbambi.json) |
 | Getsu Fuuma Den | 15829 | [15829-getsu-fuuma-den.json](./15829-getsu-fuuma-den.json) |
 | Getsuei Gakuen -kou- | 34263 | [34263-getsuei-gakuen-kou.json](./34263-getsuei-gakuen-kou.json) |
@@ -6248,6 +6252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Slam Tennis | 4894 | [4894-grand-slam-tennis.json](./4894-grand-slam-tennis.json) |
 | Grand Slam Tennis 2 | 7002 | [7002-grand-slam-tennis-2.json](./7002-grand-slam-tennis-2.json) |
 | Grand Soul Saga | 292629 | [292629-grand-soul-saga.json](./292629-grand-soul-saga.json) |
+| Grand Sphere | 59177 | [59177-grand-sphere.json](./59177-grand-sphere.json) |
 | Grand Story | 182554 | [182554-grand-story.json](./182554-grand-story.json) |
 | Grand Strategy | 110940 | [110940-grand-strategy.json](./110940-grand-strategy.json) |
 | Grand Street Vegas Mafia Crime: Fight to Survive | 102669 | [102669-grand-street-vegas-mafia-crime-fight-to-survive.json](./102669-grand-street-vegas-mafia-crime-fight-to-survive.json) |
