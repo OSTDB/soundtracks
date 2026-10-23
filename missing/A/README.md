@@ -10533,6 +10533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARia's Legacy | 102795 | [102795-arias-legacy.json](./102795-arias-legacy.json) |
 | Aria's Small Adventure! | 249345 | [249345-arias-small-adventure.json](./249345-arias-small-adventure.json) |
 | Aria's Story | 101405 | [101405-arias-story.json](./101405-arias-story.json) |
+| Aria's Wing | 97188 | [97188-arias-wing.json](./97188-arias-wing.json) |
 | Ariadna's Bane | 119663 | [119663-ariadnas-bane.json](./119663-ariadnas-bane.json) |
 | Ariadne's Tale | 402895 | [402895-ariadnes-tale.json](./402895-ariadnes-tale.json) |
 | Ariana and the Elder Codex | 329725 | [329725-ariana-and-the-elder-codex.json](./329725-ariana-and-the-elder-codex.json) |
