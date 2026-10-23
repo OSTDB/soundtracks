@@ -4328,6 +4328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Mini Classics: Zelda | 206370 | [206370-nintendo-mini-classics-zelda.json](./206370-nintendo-mini-classics-zelda.json) |
 | Nintendo MP3 Player | 300369 | [300369-nintendo-mp3-player.json](./300369-nintendo-mp3-player.json) |
 | Nintendo Nightmare Deluxe | 313341 | [313341-nintendo-nightmare-deluxe.json](./313341-nintendo-nightmare-deluxe.json) |
+| Nintendo Pennant Chase Baseball | 67797 | [67797-nintendo-pennant-chase-baseball.json](./67797-nintendo-pennant-chase-baseball.json) |
 | Nintendo Pocket Football Club | 47645 | [47645-nintendo-pocket-football-club.json](./47645-nintendo-pocket-football-club.json) |
 | Nintendo Presents: Crossword Collection | 23255 | [23255-nintendo-presents-crossword-collection.json](./23255-nintendo-presents-crossword-collection.json) |
 | Nintendo Puzzle Collection | 4049 | [4049-nintendo-puzzle-collection.json](./4049-nintendo-puzzle-collection.json) |
@@ -5790,6 +5791,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Npower Test Series | 263467 | [263467-npower-test-series.json](./263467-npower-test-series.json) |
 | NPOZ The Game | 260746 | [260746-npoz-the-game.json](./260746-npoz-the-game.json) |
 | NRA Gun Club | 20575 | [20575-nra-gun-club.json](./20575-nra-gun-club.json) |
+| NRA High Power Competition | 67835 | [67835-nra-high-power-competition.json](./67835-nra-high-power-competition.json) |
+| NRA Varmint Hunter | 67834 | [67834-nra-varmint-hunter.json](./67834-nra-varmint-hunter.json) |
 | Nrg | 174348 | [174348-nrg.json](./174348-nrg.json) |
 | NRL Mascot Mania | 124026 | [124026-nrl-mascot-mania.json](./124026-nrl-mascot-mania.json) |
 | NS Kakuro | 91105 | [91105-ns-kakuro.json](./91105-ns-kakuro.json) |
