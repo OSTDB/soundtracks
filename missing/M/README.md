@@ -8963,6 +8963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Witch | 244228 | [244228-midnight-witch.json](./244228-midnight-witch.json) |
 | Midnight Witch Starlight | 261090 | [261090-midnight-witch-starlight.json](./261090-midnight-witch-starlight.json) |
 | Midnight: Submersion | 181111 | [181111-midnight-submersion.json](./181111-midnight-submersion.json) |
+| Midnight. Swordfight. | 59699 | [59699-midnight-swordfight.json](./59699-midnight-swordfight.json) |
 | Midnight's Bell | 319647 | [319647-midnights-bell.json](./319647-midnights-bell.json) |
 | Midnight's Blessing | 35245 | [35245-midnights-blessing.json](./35245-midnights-blessing.json) |
 | Midnight's Blessing 2 | 33040 | [33040-midnights-blessing-2.json](./33040-midnights-blessing-2.json) |
@@ -10812,6 +10813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Kawaii | 215606 | [215606-miss-kawaii.json](./215606-miss-kawaii.json) |
 | Miss Kawaii 2 | 222941 | [222941-miss-kawaii-2.json](./222941-miss-kawaii-2.json) |
 | Miss Lisette's Assassin Maid | 118255 | [118255-miss-lisettes-assassin-maid.json](./118255-miss-lisettes-assassin-maid.json) |
+| Miss Macross | 59722 | [59722-miss-macross.json](./59722-miss-macross.json) |
 | Miss Management | 141760 | [141760-miss-management.json](./141760-miss-management.json) |
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
 | Miss Moonlight | 305354 | [305354-miss-moonlight.json](./305354-miss-moonlight.json) |
@@ -14956,6 +14958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MU: Archangel | 214378 | [214378-mu-archangel.json](./214378-mu-archangel.json) |
 | Mu: Dark Epoch | 323723 | [323723-mu-dark-epoch.json](./323723-mu-dark-epoch.json) |
 | Muay Thai | 349887 | [349887-muay-thai.json](./349887-muay-thai.json) |
+| Much Love, BJP | 59696 | [59696-much-love-bjp.json](./59696-much-love-bjp.json) |
 | Mucha Lucha! Mascaritas of the Lost Code | 64836 | [64836-mucha-lucha-mascaritas-of-the-lost-code.json](./64836-mucha-lucha-mascaritas-of-the-lost-code.json) |
 | Muchacho Bean | 293638 | [293638-muchacho-bean.json](./293638-muchacho-bean.json) |
 | Mucho Party | 116442 | [116442-mucho-party.json](./116442-mucho-party.json) |
