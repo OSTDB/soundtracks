@@ -1999,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Cars | 36386 | [36386-rc-cars.json](./36386-rc-cars.json) |
 | RC Club: AR Racing Simulator | 256130 | [256130-rc-club-ar-racing-simulator.json](./256130-rc-club-ar-racing-simulator.json) |
 | RC Daredevil | 70311 | [70311-rc-daredevil.json](./70311-rc-daredevil.json) |
+| RC de GO! | 77793 | [77793-rc-de-go.json](./77793-rc-de-go.json) |
 | RC Death Race: Multiplayer | 392941 | [392941-rc-death-race-multiplayer.json](./392941-rc-death-race-multiplayer.json) |
 | RC Flight Simulator 2020 VR | 162748 | [162748-rc-flight-simulator-2020-vr.json](./162748-rc-flight-simulator-2020-vr.json) |
 | RC Fun City | 80975 | [80975-rc-fun-city.json](./80975-rc-fun-city.json) |
@@ -8911,6 +8912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotor | 13255 | [13255-rotor.json](./13255-rotor.json) |
 | Rotor | 144254 | [144254-rotor.json](./144254-rotor.json) |
 | Rotor Rescue Choplifter | 413851 | [413851-rotor-rescue-choplifter.json](./413851-rotor-rescue-choplifter.json) |
+| Rotor Rush | 77805 | [77805-rotor-rush.json](./77805-rotor-rush.json) |
 | Rotorize | 92084 | [92084-rotorize.json](./92084-rotorize.json) |
 | RotorScape | 311495 | [311495-rotorscape.json](./311495-rotorscape.json) |
 | Rotorsim: Helicopter Simulator | 348878 | [348878-rotorsim-helicopter-simulator.json](./348878-rotorsim-helicopter-simulator.json) |
