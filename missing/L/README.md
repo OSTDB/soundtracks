@@ -3447,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberty City | 196522 | [196522-liberty-city.json](./196522-liberty-city.json) |
 | Liberty City Preservation Project | 334671 | [334671-liberty-city-preservation-project.json](./334671-liberty-city-preservation-project.json) |
 | Liberty Fighters | 155685 | [155685-liberty-fighters.json](./155685-liberty-fighters.json) |
+| Liberty or Death | 45776 | [45776-liberty-or-death.json](./45776-liberty-or-death.json) |
 | Liberty Step | 222000 | [222000-liberty-step.json](./222000-liberty-step.json) |
 | Liberty Wings | 65038 | [65038-liberty-wings.json](./65038-liberty-wings.json) |
 | Liberty's Kids | 186062 | [186062-libertys-kids.json](./186062-libertys-kids.json) |
