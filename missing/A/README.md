@@ -1984,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat X: Recompiled | 413916 | [413916-ace-combat-x-recompiled.json](./413916-ace-combat-x-recompiled.json) |
 | Ace Combat: Assault Horizon - Enhanced Edition | 20850 | [20850-ace-combat-assault-horizon-enhanced-edition.json](./20850-ace-combat-assault-horizon-enhanced-edition.json) |
 | Ace Combat: Northern Wings | 175783 | [175783-ace-combat-northern-wings.json](./175783-ace-combat-northern-wings.json) |
+| Ace Driver: Victory Lap | 65921 | [65921-ace-driver-victory-lap.json](./65921-ace-driver-victory-lap.json) |
 | Ace Duswell: Where's the Ace? | 58067 | [58067-ace-duswell-wheres-the-ace.json](./58067-ace-duswell-wheres-the-ace.json) |
 | Ace Fishing: Crew | 257790 | [257790-ace-fishing-crew.json](./257790-ace-fishing-crew.json) |
 | Ace Force | 121736 | [121736-ace-force.json](./121736-ace-force.json) |
@@ -4696,6 +4697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ALaLa: Wake Mi Up! | 36424 | [36424-alala-wake-mi-up.json](./36424-alala-wake-mi-up.json) |
 | Alaloth: Champions of the Four Kingdoms | 27406 | [27406-alaloth-champions-of-the-four-kingdoms.json](./27406-alaloth-champions-of-the-four-kingdoms.json) |
 | Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
+| Alan Probe: Amateur Surgeon - Christmas Edition | 65917 | [65917-alan-probe-amateur-surgeon-christmas-edition.json](./65917-alan-probe-amateur-surgeon-christmas-edition.json) |
 | Alan Saves Christmas | 316476 | [316476-alan-saves-christmas.json](./316476-alan-saves-christmas.json) |
 | Alan Sharp | 134486 | [134486-alan-sharp.json](./134486-alan-sharp.json) |
 | Alan Wake 3 | 345449 | [345449-alan-wake-3.json](./345449-alan-wake-3.json) |
