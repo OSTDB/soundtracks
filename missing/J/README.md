@@ -2611,6 +2611,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump To Win! | 303223 | [303223-jump-to-win.json](./303223-jump-to-win.json) |
 | Jump Tracks | 257315 | [257315-jump-tracks.json](./257315-jump-tracks.json) |
 | Jump Trials | 85218 | [85218-jump-trials.json](./85218-jump-trials.json) |
+| Jump Trials Extreme | 85219 | [85219-jump-trials-extreme.json](./85219-jump-trials-extreme.json) |
+| Jump Trials Supreme | 85220 | [85220-jump-trials-supreme.json](./85220-jump-trials-supreme.json) |
 | Jump Truck | 328238 | [328238-jump-truck.json](./328238-jump-truck.json) |
 | Jump Unlock Escape | 370411 | [370411-jump-unlock-escape.json](./370411-jump-unlock-escape.json) |
 | Jump Up | 110550 | [110550-jump-up.json](./110550-jump-up.json) |
@@ -3238,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just in Slime | 193665 | [193665-just-in-slime.json](./193665-just-in-slime.json) |
 | Just In Time Incorporated | 42925 | [42925-just-in-time-incorporated.json](./42925-just-in-time-incorporated.json) |
 | Just in Time Translations | 67654 | [67654-just-in-time-translations.json](./67654-just-in-time-translations.json) |
+| Just JAM | 85226 | [85226-just-jam.json](./85226-just-jam.json) |
 | Just Jammin' | 307719 | [307719-just-jammin.json](./307719-just-jammin.json) |
 | Just Jigsaws | 249677 | [249677-just-jigsaws.json](./249677-just-jigsaws.json) |
 | Just Jump | 81016 | [81016-just-jump.json](./81016-just-jump.json) |
