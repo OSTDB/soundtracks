@@ -2496,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adspectabilis | 332797 | [332797-adspectabilis.json](./332797-adspectabilis.json) |
 | ADsteroids | 108984 | [108984-adsteroids.json](./108984-adsteroids.json) |
 | Aduk: Curse of the Spirits | 379478 | [379478-aduk-curse-of-the-spirits.json](./379478-aduk-curse-of-the-spirits.json) |
+| Adult Charades! Guess Words on Your Heads While Tilting Up or Down | 98863 | [98863-adult-charades-guess-words-on-your-heads-while-tilting-up-or-down.json](./98863-adult-charades-guess-words-on-your-heads-while-tilting-up-or-down.json) |
 | Adult Film Cameraman | 85954 | [85954-adult-film-cameraman.json](./85954-adult-film-cameraman.json) |
 | Adult for Sex Motel | 288894 | [288894-adult-for-sex-motel.json](./288894-adult-for-sex-motel.json) |
 | Adult Math | 113412 | [113412-adult-math.json](./113412-adult-math.json) |
@@ -7106,6 +7107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Ruins 1: The Crypt of the King | 23567 | [23567-ancient-ruins-1-the-crypt-of-the-king.json](./23567-ancient-ruins-1-the-crypt-of-the-king.json) |
 | Ancient Rus | 30355 | [30355-ancient-rus.json](./30355-ancient-rus.json) |
 | Ancient Rus vs. Lizards | 277013 | [277013-ancient-rus-vs-lizards.json](./277013-ancient-rus-vs-lizards.json) |
+| Ancient Rush 2 | 98762 | [98762-ancient-rush-2.json](./98762-ancient-rush-2.json) |
 | Ancient Russian Life Simulator | 278177 | [278177-ancient-russian-life-simulator.json](./278177-ancient-russian-life-simulator.json) |
 | Ancient Sacrifice | 236297 | [236297-ancient-sacrifice.json](./236297-ancient-sacrifice.json) |
 | Ancient Saga: Vikings Journey - End of the story | 246860 | [246860-ancient-saga-vikings-journey-end-of-the-story.json](./246860-ancient-saga-vikings-journey-end-of-the-story.json) |
@@ -9960,6 +9962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Eyes | 156982 | [156982-arcane-eyes.json](./156982-arcane-eyes.json) |
 | Arcane Fate | 224099 | [224099-arcane-fate.json](./224099-arcane-fate.json) |
 | Arcane Fighters | 272790 | [272790-arcane-fighters.json](./272790-arcane-fighters.json) |
+| Arcane Intern (Unpaid) | 98841 | [98841-arcane-intern-unpaid.json](./98841-arcane-intern-unpaid.json) |
 | Arcane Investigations | 341092 | [341092-arcane-investigations.json](./341092-arcane-investigations.json) |
 | Arcane Legacy | 109354 | [109354-arcane-legacy.json](./109354-arcane-legacy.json) |
 | Arcane Legends | 60078 | [60078-arcane-legends.json](./60078-arcane-legends.json) |
