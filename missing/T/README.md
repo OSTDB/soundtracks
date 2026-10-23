@@ -10537,6 +10537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Town: The Dust | 65872 | [65872-the-lost-town-the-dust.json](./65872-the-lost-town-the-dust.json) |
 | The Lost Town: The Jungle | 55005 | [55005-the-lost-town-the-jungle.json](./55005-the-lost-town-the-jungle.json) |
 | The Lost Treasure of RON | 71244 | [71244-the-lost-treasure-of-ron.json](./71244-the-lost-treasure-of-ron.json) |
+| The Lost Treasures of Alexandria | 85260 | [85260-the-lost-treasures-of-alexandria.json](./85260-the-lost-treasures-of-alexandria.json) |
 | The Lost Treasures of Infocom | 47077 | [47077-the-lost-treasures-of-infocom.json](./47077-the-lost-treasures-of-infocom.json) |
 | The Lost Tribe | 171846 | [171846-the-lost-tribe.json](./171846-the-lost-tribe.json) |
 | The Lost Uncle | 236334 | [236334-the-lost-uncle.json](./236334-the-lost-uncle.json) |
