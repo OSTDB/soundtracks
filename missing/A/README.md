@@ -1659,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abu Batata | 411555 | [411555-abu-batata.json](./411555-abu-batata.json) |
 | Abunai Josei Shinrigaku Nyuumon | 269683 | [269683-abunai-josei-shinrigaku-nyuumon.json](./269683-abunai-josei-shinrigaku-nyuumon.json) |
 | Abunai Koi no Sousashitsu | 197859 | [197859-abunai-koi-no-sousashitsu.json](./197859-abunai-koi-no-sousashitsu.json) |
+| Abunai Koi no Sousashitsu: Eternal Happiness | 60422 | [60422-abunai-koi-no-sousashitsu-eternal-happiness.json](./60422-abunai-koi-no-sousashitsu-eternal-happiness.json) |
 | Abunai Tengu Densetsu | 299786 | [299786-abunai-tengu-densetsu.json](./299786-abunai-tengu-densetsu.json) |
 | Abunka | 216777 | [216777-abunka.json](./216777-abunka.json) |
 | Abuse | 383503 | [383503-abuse.json](./383503-abuse.json) |
@@ -10898,6 +10899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armada 2525 | 50401 | [50401-armada-2525.json](./50401-armada-2525.json) |
 | Armada 2526: Gold Edition | 30223 | [30223-armada-2526-gold-edition.json](./30223-armada-2526-gold-edition.json) |
 | Armada Fighters | 415284 | [415284-armada-fighters.json](./415284-armada-fighters.json) |
+| Armada Online | 60410 | [60410-armada-online.json](./60410-armada-online.json) |
 | Armada Pet Wars | 373140 | [373140-armada-pet-wars.json](./373140-armada-pet-wars.json) |
 | Armada Skies | 82474 | [82474-armada-skies.json](./82474-armada-skies.json) |
 | Armada: Modern Tanks | 69355 | [69355-armada-modern-tanks.json](./69355-armada-modern-tanks.json) |
