@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambler: Queen's Cup | 360589 | [360589-gambler-queens-cup.json](./360589-gambler-queens-cup.json) |
 | Gambler’s Loop | 348862 | [348862-gambler-s-loop.json](./348862-gambler-s-loop.json) |
 | Gamblers Table | 342853 | [342853-gamblers-table.json](./342853-gamblers-table.json) |
+| Gambling Apocalypse Kaiji | 61395 | [61395-gambling-apocalypse-kaiji.json](./61395-gambling-apocalypse-kaiji.json) |
 | Gambling Forever | 347789 | [347789-gambling-forever.json](./347789-gambling-forever.json) |
 | Gambol | 328063 | [328063-gambol.json](./328063-gambol.json) |
 | Gambol 2 | 328061 | [328061-gambol-2.json](./328061-gambol-2.json) |
@@ -1628,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garnet Cradle: Sugary Sparkle | 221892 | [221892-garnet-cradle-sugary-sparkle.json](./221892-garnet-cradle-sugary-sparkle.json) |
 | Garnouille Must Live! | 267010 | [267010-garnouille-must-live.json](./267010-garnouille-must-live.json) |
 | Garou Densetsu Battle Archive 2 | 73876 | [73876-garou-densetsu-battle-archive-2.json](./73876-garou-densetsu-battle-archive-2.json) |
+| Garou Densetsu Premium | 61487 | [61487-garou-densetsu-premium.json](./61487-garou-densetsu-premium.json) |
 | Garou Densetsu vs. Fighter's History Dynamite | 64792 | [64792-garou-densetsu-vs-fighters-history-dynamite.json](./64792-garou-densetsu-vs-fighters-history-dynamite.json) |
 | Garou Sliding Simulator | 377715 | [377715-garou-sliding-simulator.json](./377715-garou-sliding-simulator.json) |
 | Garou: Mark of the Wolves | 10605 | [10605-garou-mark-of-the-wolves.json](./10605-garou-mark-of-the-wolves.json) |
@@ -4409,6 +4411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Fish Go! | 125717 | [125717-go-fish-go.json](./125717-go-fish-go.json) |
 | Go! George Go! | 300394 | [300394-go-george-go.json](./300394-go-george-go.json) |
 | Go! Go! Advance Drive: Muttsu no Machine ni Chousen Da! | 327588 | [327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json](./327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json) |
+| Go! Go! Birdie Chance | 61416 | [61416-go-go-birdie-chance.json](./61416-go-go-birdie-chance.json) |
 | Go! Go! Digger | 227816 | [227816-go-go-digger.json](./227816-go-go-digger.json) |
 | Go! Go! Gooble!! | 135136 | [135136-go-go-gooble.json](./135136-go-go-gooble.json) |
 | Go! Go! Hitchhike | 92296 | [92296-go-go-hitchhike.json](./92296-go-go-hitchhike.json) |
