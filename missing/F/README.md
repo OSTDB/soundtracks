@@ -698,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon 2023 | 283055 | [283055-falcon-2023.json](./283055-falcon-2023.json) |
 | Falcon 3.0 | 137028 | [137028-falcon-3-0.json](./137028-falcon-3-0.json) |
 | Falcon 3.0: Hornet - Naval Strike Fighter | 78024 | [78024-falcon-3-0-hornet-naval-strike-fighter.json](./78024-falcon-3-0-hornet-naval-strike-fighter.json) |
+| Falcon 3.0: MiG-29 | 85897 | [85897-falcon-3-0-mig-29.json](./85897-falcon-3-0-mig-29.json) |
 | Falcon 4.0 | 33853 | [33853-falcon-4-0.json](./33853-falcon-4-0.json) |
 | Falcon 4.0: Allied Force | 695 | [695-falcon-4-0-allied-force.json](./695-falcon-4-0-allied-force.json) |
 | Falcon Age | 107212 | [107212-falcon-age.json](./107212-falcon-age.json) |
