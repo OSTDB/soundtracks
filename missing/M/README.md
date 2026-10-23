@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Planets | 23500 | [23500-mad-planets.json](./23500-mad-planets.json) |
 | Mad Quad | 80906 | [80906-mad-quad.json](./80906-mad-quad.json) |
 | Mad Rabbit | 120097 | [120097-mad-rabbit.json](./120097-mad-rabbit.json) |
+| Mad Racing Super Speed | 90424 | [90424-mad-racing-super-speed.json](./90424-mad-racing-super-speed.json) |
 | Mad Rat | 279741 | [279741-mad-rat.json](./279741-mad-rat.json) |
 | Mad Rat Dead | 135301 | [135301-mad-rat-dead.json](./135301-mad-rat-dead.json) |
 | Mad Restaurant People | 107398 | [107398-mad-restaurant-people.json](./107398-mad-restaurant-people.json) |
@@ -1695,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid-san Slayer: The Soul Of Elegant Skill | 210584 | [210584-maid-san-slayer-the-soul-of-elegant-skill.json](./210584-maid-san-slayer-the-soul-of-elegant-skill.json) |
 | Maid-san wo Migi ni Mi | 111051 | [111051-maid-san-wo-migi-ni-mi.json](./111051-maid-san-wo-migi-ni-mi.json) |
 | Maiden | 142743 | [142743-maiden.json](./142743-maiden.json) |
+| Maiden City: The Last Collateral Damage | 90408 | [90408-maiden-city-the-last-collateral-damage.json](./90408-maiden-city-the-last-collateral-damage.json) |
 | Maiden Cops | 209681 | [209681-maiden-cops.json](./209681-maiden-cops.json) |
 | Maiden Maze | 147376 | [147376-maiden-maze.json](./147376-maiden-maze.json) |
 | Maiden Voyage | 299770 | [299770-maiden-voyage.json](./299770-maiden-voyage.json) |
@@ -2292,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
 | Manatsu no Zangai | 285385 | [285385-manatsu-no-zangai.json](./285385-manatsu-no-zangai.json) |
 | Manaulyn | 296971 | [296971-manaulyn.json](./296971-manaulyn.json) |
+| Manaya | 90411 | [90411-manaya.json](./90411-manaya.json) |
 | Manbomber | 283749 | [283749-manbomber.json](./283749-manbomber.json) |
 | Mancala | 89473 | [89473-mancala.json](./89473-mancala.json) |
 | Mancala Pro | 87863 | [87863-mancala-pro.json](./87863-mancala-pro.json) |
@@ -10698,6 +10701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Peach | 264593 | [264593-miss-peach.json](./264593-miss-peach.json) |
 | Miss Peach World | 133780 | [133780-miss-peach-world.json](./133780-miss-peach-world.json) |
 | Miss Perfect Miss Ending | 320753 | [320753-miss-perfect-miss-ending.json](./320753-miss-perfect-miss-ending.json) |
+| Miss Popularity | 90458 | [90458-miss-popularity.json](./90458-miss-popularity.json) |
 | Miss Princess Miss Pri | 204400 | [204400-miss-princess-miss-pri.json](./204400-miss-princess-miss-pri.json) |
 | Miss Rosen's Wowtastic! Marching Band | 316732 | [316732-miss-rosens-wowtastic-marching-band.json](./316732-miss-rosens-wowtastic-marching-band.json) |
 | Miss Sasami is Losing Her Mind! | 409190 | [409190-miss-sasami-is-losing-her-mind.json](./409190-miss-sasami-is-losing-her-mind.json) |
@@ -13256,6 +13260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More and More | 113057 | [113057-more-and-more.json](./113057-more-and-more.json) |
 | More Bloons | 261910 | [261910-more-bloons.json](./261910-more-bloons.json) |
 | More Brain Exercise | 66419 | [66419-more-brain-exercise.json](./66419-more-brain-exercise.json) |
+| More Buffet! | 90414 | [90414-more-buffet.json](./90414-more-buffet.json) |
 | More Cookies! | 105534 | [105534-more-cookies.json](./105534-more-cookies.json) |
 | More Dark | 124195 | [124195-more-dark.json](./124195-more-dark.json) |
 | More Dark Fables from Aesop | 254455 | [254455-more-dark-fables-from-aesop.json](./254455-more-dark-fables-from-aesop.json) |
