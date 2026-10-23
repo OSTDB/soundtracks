@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nabi | 320551 | [320551-nabi.json](./320551-nabi.json) |
 | Nabogorf | 284229 | [284229-nabogorf.json](./284229-nabogorf.json) |
 | Nabokos | 185140 | [185140-nabokos.json](./185140-nabokos.json) |
+| Nacah | 71348 | [71348-nacah.json](./71348-nacah.json) |
 | Nachkriegsratten Punk-Rock Puzzle | 203300 | [203300-nachkriegsratten-punk-rock-puzzle.json](./203300-nachkriegsratten-punk-rock-puzzle.json) |
 | Nacho Trave vs. Joako Tronico | 323357 | [323357-nacho-trave-vs-joako-tronico.json](./323357-nacho-trave-vs-joako-tronico.json) |
 | NachoCado | 246084 | [246084-nachocado.json](./246084-nachocado.json) |
@@ -2270,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetGunner | 139844 | [139844-netgunner.json](./139844-netgunner.json) |
 | NetHack | 207850 | [207850-nethack.json](./207850-nethack.json) |
 | NetHack | 2895 | [2895-nethack.json](./2895-nethack.json) |
+| Nethack: Falcon's Eye | 71342 | [71342-nethack-falcons-eye.json](./71342-nethack-falcons-eye.json) |
 | Nether Abyss | 424049 | [424049-nether-abyss.json](./424049-nether-abyss.json) |
 | Nether Dungeons | 323221 | [323221-nether-dungeons.json](./323221-nether-dungeons.json) |
 | Nether Gallery | 116111 | [116111-nether-gallery.json](./116111-nether-gallery.json) |
