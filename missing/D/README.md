@@ -2014,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DataFall | 393464 | [393464-datafall.json](./393464-datafall.json) |
 | Dataflow | 112353 | [112353-dataflow.json](./112353-dataflow.json) |
 | Datahit | 185560 | [185560-datahit.json](./185560-datahit.json) |
+| DataJack | 64783 | [64783-datajack.json](./64783-datajack.json) |
 | DataJack 2020 | 244318 | [244318-datajack-2020.json](./244318-datajack-2020.json) |
 | Datamine | 85074 | [85074-datamine.json](./85074-datamine.json) |
 | Dataminer | 183876 | [183876-dataminer.json](./183876-dataminer.json) |
@@ -7348,6 +7349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimhaven: The Lost Source | 253578 | [253578-dimhaven-the-lost-source.json](./253578-dimhaven-the-lost-source.json) |
 | Diminishing Light: Wheeled Carnage | 294029 | [294029-diminishing-light-wheeled-carnage.json](./294029-diminishing-light-wheeled-carnage.json) |
 | Diminutive | 100309 | [100309-diminutive.json](./100309-diminutive.json) |
+| Dimiria: The Agrarian Falls | 64786 | [64786-dimiria-the-agrarian-falls.json](./64786-dimiria-the-agrarian-falls.json) |
 | Dimlight Cafe | 183443 | [183443-dimlight-cafe.json](./183443-dimlight-cafe.json) |
 | Dimlight Dungeon | 276835 | [276835-dimlight-dungeon.json](./276835-dimlight-dungeon.json) |
 | Dimo's Quest | 45892 | [45892-dimos-quest.json](./45892-dimos-quest.json) |
@@ -10679,6 +10681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Dash Defense | 400361 | [400361-dot-dash-defense.json](./400361-dot-dash-defense.json) |
 | Dot Dash Dot | 167619 | [167619-dot-dash-dot.json](./167619-dot-dash-dot.json) |
 | Dot Eater New Pick Dan | 222180 | [222180-dot-eater-new-pick-dan.json](./222180-dot-eater-new-pick-dan.json) |
+| Dot Gobbler | 64817 | [64817-dot-gobbler.json](./64817-dot-gobbler.json) |
 | Dot Hop | 295803 | [295803-dot-hop.json](./295803-dot-hop.json) |
 | Dot Hopper | 52208 | [52208-dot-hopper.json](./52208-dot-hopper.json) |
 | Dot Horror Story: Double Pack | 222262 | [222262-dot-horror-story-double-pack.json](./222262-dot-horror-story-double-pack.json) |
