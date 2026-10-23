@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pakoombo | 201792 | [201792-pakoombo.json](./201792-pakoombo.json) |
 | Pakpok | 181214 | [181214-pakpok.json](./181214-pakpok.json) |
 | Paku Paku | 282047 | [282047-paku-paku.json](./282047-paku-paku.json) |
+| Paku Paku | 50327 | [50327-paku-paku.json](./50327-paku-paku.json) |
 | Pakucchauzo! | 160188 | [160188-pakucchauzo.json](./160188-pakucchauzo.json) |
 | Pal Go | 343831 | [343831-pal-go.json](./343831-pal-go.json) |
 | Pal Pachinko | 390593 | [390593-pal-pachinko.json](./390593-pal-pachinko.json) |
@@ -3778,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PersoNO 0 | 252909 | [252909-persono-0.json](./252909-persono-0.json) |
 | Perspective | 148362 | [148362-perspective.json](./148362-perspective.json) |
 | Perspective | 80820 | [80820-perspective.json](./80820-perspective.json) |
+| Perspective Classic | 50318 | [50318-perspective-classic.json](./50318-perspective-classic.json) |
 | Perspectives: Aleppo-Helsinki | 75160 | [75160-perspectives-aleppo-helsinki.json](./75160-perspectives-aleppo-helsinki.json) |
 | Perspectives: Paradise | 115007 | [115007-perspectives-paradise.json](./115007-perspectives-paradise.json) |
 | Perspecto | 101276 | [101276-perspecto.json](./101276-perspecto.json) |
@@ -10693,6 +10695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Dolls 5X | 228980 | [228980-power-dolls-5x.json](./228980-power-dolls-5x.json) |
 | Power Dolls 6 | 228981 | [228981-power-dolls-6.json](./228981-power-dolls-6.json) |
 | Power Dolls FX | 79614 | [79614-power-dolls-fx.json](./79614-power-dolls-fx.json) |
+| Power Dolls: Detachment of Limited Line Service | 50326 | [50326-power-dolls-detachment-of-limited-line-service.json](./50326-power-dolls-detachment-of-limited-line-service.json) |
 | Power Down | 52203 | [52203-power-down.json](./52203-power-down.json) |
 | Power Drill Massacre | 320349 | [320349-power-drill-massacre.json](./320349-power-drill-massacre.json) |
 | Power Drive | 12720 | [12720-power-drive.json](./12720-power-drive.json) |
