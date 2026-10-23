@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Cream Pachinly | 291365 | [291365-ice-cream-pachinly.json](./291365-ice-cream-pachinly.json) |
 | Ice Cream Rush | 232348 | [232348-ice-cream-rush.json](./232348-ice-cream-rush.json) |
 | Ice Cream Simulator | 345665 | [345665-ice-cream-simulator.json](./345665-ice-cream-simulator.json) |
+| Ice Cream Stall | 63711 | [63711-ice-cream-stall.json](./63711-ice-cream-stall.json) |
 | Ice Cream Trip | 207829 | [207829-ice-cream-trip.json](./207829-ice-cream-trip.json) |
 | Ice Cream Truck | 155511 | [155511-ice-cream-truck.json](./155511-ice-cream-truck.json) |
 | Ice Cream Truck! | 90789 | [90789-ice-cream-truck.json](./90789-ice-cream-truck.json) |
@@ -3961,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Rugby Challenge | 73281 | [73281-international-rugby-challenge.json](./73281-international-rugby-challenge.json) |
 | International Sensible Soccer | 40808 | [40808-international-sensible-soccer.json](./40808-international-sensible-soccer.json) |
 | International Snooker 2009 | 91698 | [91698-international-snooker-2009.json](./91698-international-snooker-2009.json) |
+| International Snooker 2012 | 63695 | [63695-international-snooker-2012.json](./63695-international-snooker-2012.json) |
 | International Snooker 2014 | 175588 | [175588-international-snooker-2014.json](./175588-international-snooker-2014.json) |
 | International Snooker: Challenges | 175857 | [175857-international-snooker-challenges.json](./175857-international-snooker-challenges.json) |
 | International Soccer | 201305 | [201305-international-soccer.json](./201305-international-soccer.json) |
