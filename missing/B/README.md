@@ -1318,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon De Fight'99 | 173077 | [173077-balloon-de-fight99.json](./173077-balloon-de-fight99.json) |
 | Balloon Diaspora | 60453 | [60453-balloon-diaspora.json](./60453-balloon-diaspora.json) |
 | Balloon Duel | 194845 | [194845-balloon-duel.json](./194845-balloon-duel.json) |
+| Balloon Express | 73613 | [73613-balloon-express.json](./73613-balloon-express.json) |
 | Balloon Fast Run | 330185 | [330185-balloon-fast-run.json](./330185-balloon-fast-run.json) |
 | Balloon Fiesta 3D | 114935 | [114935-balloon-fiesta-3d.json](./114935-balloon-fiesta-3d.json) |
 | Balloon Fight | 195030 | [195030-balloon-fight.json](./195030-balloon-fight.json) |
@@ -2352,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Mania | 56963 | [56963-baseball-mania.json](./56963-baseball-mania.json) |
 | Baseball Mogul | 605 | [605-baseball-mogul.json](./605-baseball-mogul.json) |
 | Baseball Mogul 2000 | 72675 | [72675-baseball-mogul-2000.json](./72675-baseball-mogul-2000.json) |
+| Baseball Mogul 2002 | 73591 | [73591-baseball-mogul-2002.json](./73591-baseball-mogul-2002.json) |
 | Baseball Mogul 2003 | 94396 | [94396-baseball-mogul-2003.json](./94396-baseball-mogul-2003.json) |
 | Baseball Mogul 2004 | 72677 | [72677-baseball-mogul-2004.json](./72677-baseball-mogul-2004.json) |
 | Baseball Mogul 2005 | 72676 | [72676-baseball-mogul-2005.json](./72676-baseball-mogul-2005.json) |
@@ -14380,6 +14382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly Couple | 334800 | [334800-butterfly-couple.json](./334800-butterfly-couple.json) |
 | Butterfly Dream | 322974 | [322974-butterfly-dream.json](./322974-butterfly-dream.json) |
 | Butterfly Effect | 243651 | [243651-butterfly-effect.json](./243651-butterfly-effect.json) |
+| Butterfly Escape | 73587 | [73587-butterfly-escape.json](./73587-butterfly-escape.json) |
 | Butterfly Garden | 69285 | [69285-butterfly-garden.json](./69285-butterfly-garden.json) |
 | Butterfly Killer | 128305 | [128305-butterfly-killer.json](./128305-butterfly-killer.json) |
 | Butterfly Sky | 233519 | [233519-butterfly-sky.json](./233519-butterfly-sky.json) |
