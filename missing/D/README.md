@@ -1513,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Steel | 223604 | [223604-dark-steel.json](./223604-dark-steel.json) |
 | Dark Steel Legends | 372819 | [372819-dark-steel-legends.json](./372819-dark-steel-legends.json) |
 | Dark Stories | 311685 | [311685-dark-stories.json](./311685-dark-stories.json) |
+| Dark Storm | 61490 | [61490-dark-storm.json](./61490-dark-storm.json) |
 | Dark Storm VR Missions | 34649 | [34649-dark-storm-vr-missions.json](./34649-dark-storm-vr-missions.json) |
 | Dark Stream | 406849 | [406849-dark-stream.json](./406849-dark-stream.json) |
 | Dark Strokes: Sins of the Fathers | 52839 | [52839-dark-strokes-sins-of-the-fathers.json](./52839-dark-strokes-sins-of-the-fathers.json) |
@@ -2367,6 +2368,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of Despair | 217246 | [217246-days-of-despair.json](./217246-days-of-despair.json) |
 | Days of Discord | 59654 | [59654-days-of-discord.json](./59654-days-of-discord.json) |
 | Days of Doom | 251728 | [251728-days-of-doom.json](./251728-days-of-doom.json) |
+| Days of Memories | 61486 | [61486-days-of-memories.json](./61486-days-of-memories.json) |
+| Days of Memories 2 | 61484 | [61484-days-of-memories-2.json](./61484-days-of-memories-2.json) |
 | Days of Memories 3 | 69175 | [69175-days-of-memories-3.json](./69175-days-of-memories-3.json) |
 | Days of Memories: Boku to Kanojo to Koto no Koi | 221318 | [221318-days-of-memories-boku-to-kanojo-to-koto-no-koi.json](./221318-days-of-memories-boku-to-kanojo-to-koto-no-koi.json) |
 | Days of Memories: Kaze Mau Miyako de Tsukamaete! | 221319 | [221319-days-of-memories-kaze-mau-miyako-de-tsukamaete.json](./221319-days-of-memories-kaze-mau-miyako-de-tsukamaete.json) |
@@ -4697,6 +4700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delic | 301094 | [301094-delic.json](./301094-delic.json) |
 | DeliCat | 256533 | [256533-delicat.json](./256533-delicat.json) |
 | Delicatte | 151575 | [151575-delicatte.json](./151575-delicatte.json) |
+| Delicious 2 Deluxe | 61382 | [61382-delicious-2-deluxe.json](./61382-delicious-2-deluxe.json) |
 | Delicious Burger | 274027 | [274027-delicious-burger.json](./274027-delicious-burger.json) |
 | Delicious Donut | 290516 | [290516-delicious-donut.json](./290516-delicious-donut.json) |
 | Delicious Dungeon | 211241 | [211241-delicious-dungeon.json](./211241-delicious-dungeon.json) |
@@ -6080,9 +6084,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Club: Missing in the Fog - Collector's Edition | 342099 | [342099-detective-club-missing-in-the-fog-collectors-edition.json](./342099-detective-club-missing-in-the-fog-collectors-edition.json) |
 | Detective Conan Skateboard Run: Kaitou Kid to Shinpi no Hihou | 115712 | [115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json](./115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json) |
 | Detective Conan: Aoki Houseki no Rinbukyoku - Rondo | 79556 | [79556-detective-conan-aoki-houseki-no-rinbukyoku-rondo.json](./79556-detective-conan-aoki-houseki-no-rinbukyoku-rondo.json) |
+| Detective Conan: Giwaku no Gouka Ressha | 61423 | [61423-detective-conan-giwaku-no-gouka-ressha.json](./61423-detective-conan-giwaku-no-gouka-ressha.json) |
 | Detective Conan: Kieta Hakase to Machigai Sagashi no Tou | 79555 | [79555-detective-conan-kieta-hakase-to-machigai-sagashi-no-tou.json](./79555-detective-conan-kieta-hakase-to-machigai-sagashi-no-tou.json) |
 | Detective Conan: Kiganshima Hihou Densetsu | 209495 | [209495-detective-conan-kiganshima-hihou-densetsu.json](./209495-detective-conan-kiganshima-hihou-densetsu.json) |
 | Detective Conan: Kigantou Hihou Densetsu | 50561 | [50561-detective-conan-kigantou-hihou-densetsu.json](./50561-detective-conan-kigantou-hihou-densetsu.json) |
+| Detective Conan: Marionette Symphony | 61418 | [61418-detective-conan-marionette-symphony.json](./61418-detective-conan-marionette-symphony.json) |
+| Detective Conan: Phantom Rhapsody | 61419 | [61419-detective-conan-phantom-rhapsody.json](./61419-detective-conan-phantom-rhapsody.json) |
 | Detective Conan: Trick Trick Vol. 1 | 84172 | [84172-detective-conan-trick-trick-vol-1.json](./84172-detective-conan-trick-trick-vol-1.json) |
 | Detective Conan: Tsuioku no Gensou | 21428 | [21428-detective-conan-tsuioku-no-gensou.json](./21428-detective-conan-tsuioku-no-gensou.json) |
 | Detective Conan: Yuugure no Ouju | 37362 | [37362-detective-conan-yuugure-no-ouju.json](./37362-detective-conan-yuugure-no-ouju.json) |
@@ -9355,6 +9362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Pink Eyes | 257283 | [257283-doki-doki-pink-eyes.json](./257283-doki-doki-pink-eyes.json) |
 | Doki Doki Pokémon Club! | 360183 | [360183-doki-doki-pokemon-club.json](./360183-doki-doki-pokemon-club.json) |
 | Doki Doki Poyatchio!! | 420499 | [420499-doki-doki-poyatchio.json](./420499-doki-doki-poyatchio.json) |
+| Doki Doki Pretty League | 61409 | [61409-doki-doki-pretty-league.json](./61409-doki-doki-pretty-league.json) |
 | Doki Doki Ragnarok | 143512 | [143512-doki-doki-ragnarok.json](./143512-doki-doki-ragnarok.json) |
 | Doki Doki Salvation | 165147 | [165147-doki-doki-salvation.json](./165147-doki-doki-salvation.json) |
 | Doki Doki Salvation Remake! | 342072 | [342072-doki-doki-salvation-remake.json](./342072-doki-doki-salvation-remake.json) |
@@ -11607,6 +11615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: The Breakers - Season 3 | 252643 | [252643-dragon-ball-the-breakers-season-3.json](./252643-dragon-ball-the-breakers-season-3.json) |
 | Dragon Ball: The Breakers - Season 6 | 307756 | [307756-dragon-ball-the-breakers-season-6.json](./307756-dragon-ball-the-breakers-season-6.json) |
 | Dragon Ball: The Breakers - Special Edition | 210457 | [210457-dragon-ball-the-breakers-special-edition.json](./210457-dragon-ball-the-breakers-special-edition.json) |
+| Dragon Ball: Ultimate Swipe | 61491 | [61491-dragon-ball-ultimate-swipe.json](./61491-dragon-ball-ultimate-swipe.json) |
 | Dragon Ball: Xenoverse | 7408 | [7408-dragon-ball-xenoverse.json](./7408-dragon-ball-xenoverse.json) |
 | Dragon Ball: Xenoverse - Day One Edition | 363936 | [363936-dragon-ball-xenoverse-day-one-edition.json](./363936-dragon-ball-xenoverse-day-one-edition.json) |
 | Dragon Ball: Xenoverse - GT Pack 1 | 213584 | [213584-dragon-ball-xenoverse-gt-pack-1.json](./213584-dragon-ball-xenoverse-gt-pack-1.json) |
@@ -12889,6 +12898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamWorks Movie Night | 228916 | [228916-dreamworks-movie-night.json](./228916-dreamworks-movie-night.json) |
 | DreamWorks Super Star Kartz | 3672 | [3672-dreamworks-super-star-kartz.json](./3672-dreamworks-super-star-kartz.json) |
 | DreamWorks Super Star Kartz | 47435 | [47435-dreamworks-super-star-kartz.json](./47435-dreamworks-super-star-kartz.json) |
+| DreamWorks Tap-Dragon-Drop | 61381 | [61381-dreamworks-tap-dragon-drop.json](./61381-dreamworks-tap-dragon-drop.json) |
 | DreamWorks Trolls Remix Rescue Deluxe Edition | 274420 | [274420-dreamworks-trolls-remix-rescue-deluxe-edition.json](./274420-dreamworks-trolls-remix-rescue-deluxe-edition.json) |
 | Dreamworks Voltron VR Chronicles | 55172 | [55172-dreamworks-voltron-vr-chronicles.json](./55172-dreamworks-voltron-vr-chronicles.json) |
 | Dreamworks' Shark Tale | 243200 | [243200-dreamworks-shark-tale.json](./243200-dreamworks-shark-tale.json) |
