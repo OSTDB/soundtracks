@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeshi and Hiroshi | 130698 | [130698-takeshi-and-hiroshi.json](./130698-takeshi-and-hiroshi.json) |
 | Takeshi no Sengoku Fuuunko | 48887 | [48887-takeshi-no-sengoku-fuuunko.json](./48887-takeshi-no-sengoku-fuuunko.json) |
 | Takeyariman | 222300 | [222300-takeyariman.json](./222300-takeyariman.json) |
+| Takin' it to the Hoop | 44338 | [44338-takin-it-to-the-hoop.json](./44338-takin-it-to-the-hoop.json) |
 | Taking Care of Business | 69740 | [69740-taking-care-of-business.json](./69740-taking-care-of-business.json) |
 | Taking Over Her Heart | 327901 | [327901-taking-over-her-heart.json](./327901-taking-over-her-heart.json) |
 | Taking Root | 263045 | [263045-taking-root.json](./263045-taking-root.json) |
@@ -3793,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terry Poorflyer | 195002 | [195002-terry-poorflyer.json](./195002-terry-poorflyer.json) |
 | Terry Tales | 388274 | [388274-terry-tales.json](./388274-terry-tales.json) |
 | Terry The Turtle's Big Adventure | 315502 | [315502-terry-the-turtles-big-adventure.json](./315502-terry-the-turtles-big-adventure.json) |
+| Terry Turtle's Adventure | 44368 | [44368-terry-turtles-adventure.json](./44368-terry-turtles-adventure.json) |
 | Terry's Big Adventure | 71732 | [71732-terrys-big-adventure.json](./71732-terrys-big-adventure.json) |
 | Terry's Other Games | 327820 | [327820-terrys-other-games.json](./327820-terrys-other-games.json) |
 | Terry's Treasure Trouble! | 265934 | [265934-terrys-treasure-trouble.json](./265934-terrys-treasure-trouble.json) |
@@ -4845,6 +4847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Atlas: Renaissance Voyager | 324956 | [324956-the-atlas-renaissance-voyager.json](./324956-the-atlas-renaissance-voyager.json) |
 | The Atlas: Renaissance Voyager | 38315 | [38315-the-atlas-renaissance-voyager.json](./38315-the-atlas-renaissance-voyager.json) |
 | The Atomy | 33124 | [33124-the-atomy.json](./33124-the-atomy.json) |
+| The Attack | 44375 | [44375-the-attack.json](./44375-the-attack.json) |
 | The Attack on Egg Harbor | 344357 | [344357-the-attack-on-egg-harbor.json](./344357-the-attack-on-egg-harbor.json) |
 | The Attendant | 181289 | [181289-the-attendant.json](./181289-the-attendant.json) |
 | The Attic | 288271 | [288271-the-attic.json](./288271-the-attic.json) |
@@ -20188,6 +20191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tombs & Trials | 360701 | [360701-tombs-and-trials.json](./360701-tombs-and-trials.json) |
 | Tombs of Reschette | 59678 | [59678-tombs-of-reschette.json](./59678-tombs-of-reschette.json) |
 | TombStar | 138867 | [138867-tombstar.json](./138867-tombstar.json) |
+| Tombstone City | 44377 | [44377-tombstone-city.json](./44377-tombstone-city.json) |
 | Tombstone City: 21st Century | 73720 | [73720-tombstone-city-21st-century.json](./73720-tombstone-city-21st-century.json) |
 | Tombstone Tactics | 421821 | [421821-tombstone-tactics.json](./421821-tombstone-tactics.json) |
 | Tombstone Tally | 319361 | [319361-tombstone-tally.json](./319361-tombstone-tally.json) |
@@ -25975,6 +25979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnels & Trolls: Crusaders of Khazan | 73874 | [73874-tunnels-and-trolls-crusaders-of-khazan.json](./73874-tunnels-and-trolls-crusaders-of-khazan.json) |
 | Tunnels of Armageddon | 71808 | [71808-tunnels-of-armageddon.json](./71808-tunnels-of-armageddon.json) |
 | Tunnels of Despair | 76581 | [76581-tunnels-of-despair.json](./76581-tunnels-of-despair.json) |
+| Tunnels of Doom | 44378 | [44378-tunnels-of-doom.json](./44378-tunnels-of-doom.json) |
 | Tunnels of Fahad | 74765 | [74765-tunnels-of-fahad.json](./74765-tunnels-of-fahad.json) |
 | Tunnels of Terror | 291338 | [291338-tunnels-of-terror.json](./291338-tunnels-of-terror.json) |
 | Tunnels of Terror! | 260986 | [260986-tunnels-of-terror.json](./260986-tunnels-of-terror.json) |
