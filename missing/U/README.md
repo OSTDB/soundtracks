@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Trial | 304358 | [304358-ultimate-trial.json](./304358-ultimate-trial.json) |
 | Ultimate Truck Simulator | 220172 | [220172-ultimate-truck-simulator.json](./220172-ultimate-truck-simulator.json) |
 | Ultimate Truco | 132768 | [132768-ultimate-truco.json](./132768-ultimate-truco.json) |
+| Ultimate Tycoon | 73145 | [73145-ultimate-tycoon.json](./73145-ultimate-tycoon.json) |
 | Ultimate Under Water | 155658 | [155658-ultimate-under-water.json](./155658-ultimate-under-water.json) |
 | Ultimate Vitality of Imagination | 210685 | [210685-ultimate-vitality-of-imagination.json](./210685-ultimate-vitality-of-imagination.json) |
 | Ultimate VR Collection | 108863 | [108863-ultimate-vr-collection.json](./108863-ultimate-vr-collection.json) |
