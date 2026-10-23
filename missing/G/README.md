@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galf | 131401 | [131401-galf.json](./131401-galf.json) |
 | Galf Streem | 386936 | [386936-galf-streem.json](./386936-galf-streem.json) |
 | Galga | 227882 | [227882-galga.json](./227882-galga.json) |
+| Galgagon | 92371 | [92371-galgagon.json](./92371-galgagon.json) |
 | Galge Masque:Rade | 416881 | [416881-galge-masque-rade.json](./416881-galge-masque-rade.json) |
 | Galia Senki: Yuuhen Annales | 157979 | [157979-galia-senki-yuuhen-annales.json](./157979-galia-senki-yuuhen-annales.json) |
 | Galidor Quest | 214944 | [214944-galidor-quest.json](./214944-galidor-quest.json) |
@@ -2150,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemwielders | 325245 | [325245-gemwielders.json](./325245-gemwielders.json) |
 | GemWords | 53084 | [53084-gemwords.json](./53084-gemwords.json) |
 | Gemz | 299501 | [299501-gemz.json](./299501-gemz.json) |
+| Gemz | 92346 | [92346-gemz.json](./92346-gemz.json) |
 | Gen 2.1. No Escape | 239608 | [239608-gen-2-1-no-escape.json](./239608-gen-2-1-no-escape.json) |
 | Gen Atlas | 325593 | [325593-gen-atlas.json](./325593-gen-atlas.json) |
 | Gen-Abyss | 351557 | [351557-gen-abyss.json](./351557-gen-abyss.json) |
