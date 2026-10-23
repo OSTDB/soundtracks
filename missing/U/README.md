@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate MahJongg 5 | 206055 | [206055-ultimate-mahjongg-5.json](./206055-ultimate-mahjongg-5.json) |
 | Ultimate Marvel vs. Capcom 3: Community Edition | 406534 | [406534-ultimate-marvel-vs-capcom-3-community-edition.json](./406534-ultimate-marvel-vs-capcom-3-community-edition.json) |
 | Ultimate Match 3D | 282256 | [282256-ultimate-match-3d.json](./282256-ultimate-match-3d.json) |
+| Ultimate Mind Games | 97181 | [97181-ultimate-mind-games.json](./97181-ultimate-mind-games.json) |
 | Ultimate MMA | 133385 | [133385-ultimate-mma.json](./133385-ultimate-mma.json) |
 | Ultimate Monster Trucks | 53941 | [53941-ultimate-monster-trucks.json](./53941-ultimate-monster-trucks.json) |
 | Ultimate Mortal Kombat 3 | 1621 | [1621-ultimate-mortal-kombat-3.json](./1621-ultimate-mortal-kombat-3.json) |
