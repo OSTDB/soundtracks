@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Ball | 128449 | [128449-mad-ball.json](./128449-mad-ball.json) |
 | Mad Ball v2.0 | 258841 | [258841-mad-ball-v2-0.json](./258841-mad-ball-v2-0.json) |
 | Mad BalloonRider | 243172 | [243172-mad-balloonrider.json](./243172-mad-balloonrider.json) |
+| Mad Blocker | 94032 | [94032-mad-blocker.json](./94032-mad-blocker.json) |
 | Mad Blocker Arcade | 65744 | [65744-mad-blocker-arcade.json](./65744-mad-blocker-arcade.json) |
 | Mad Blocker HD | 52558 | [52558-mad-blocker-hd.json](./52558-mad-blocker-hd.json) |
 | Mad Bulldozer | 143931 | [143931-mad-bulldozer.json](./143931-mad-bulldozer.json) |
@@ -1801,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majestic Majolical | 227709 | [227709-majestic-majolical.json](./227709-majestic-majolical.json) |
 | Majestic Majolical vol. 1 | 240523 | [240523-majestic-majolical-vol-1.json](./240523-majestic-majolical-vol-1.json) |
 | Majestic Trials | 59792 | [59792-majestic-trials.json](./59792-majestic-trials.json) |
+| Majestic-12 | 94035 | [94035-majestic-12.json](./94035-majestic-12.json) |
 | Majestic: Special Edition | 137479 | [137479-majestic-special-edition.json](./137479-majestic-special-edition.json) |
 | Majestic: The Card Game | 109071 | [109071-majestic-the-card-game.json](./109071-majestic-the-card-game.json) |
 | Majestria: Incremental Survival | 406891 | [406891-majestria-incremental-survival.json](./406891-majestria-incremental-survival.json) |
@@ -7269,6 +7271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercuria: Mizu no Miyako ni Koi no Hanataba wo | 411400 | [411400-mercuria-mizu-no-miyako-ni-koi-no-hanataba-wo.json](./411400-mercuria-mizu-no-miyako-ni-koi-no-hanataba-wo.json) |
 | Mercurial Dreams | 323300 | [323300-mercurial-dreams.json](./323300-mercurial-dreams.json) |
 | Mercurius Blue: ReCollection | 388000 | [388000-mercurius-blue-recollection.json](./388000-mercurius-blue-recollection.json) |
+| Mercurius Pretty | 94103 | [94103-mercurius-pretty.json](./94103-mercurius-pretty.json) |
 | Mercury | 248333 | [248333-mercury.json](./248333-mercury.json) |
 | Mercury Abbey | 172701 | [172701-mercury-abbey.json](./172701-mercury-abbey.json) |
 | Mercury Drops | 416758 | [416758-mercury-drops.json](./416758-mercury-drops.json) |
