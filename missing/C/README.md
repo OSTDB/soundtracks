@@ -6453,6 +6453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatic Odyssey | 338522 | [338522-chromatic-odyssey.json](./338522-chromatic-odyssey.json) |
 | Chromatic Souls | 200734 | [200734-chromatic-souls.json](./200734-chromatic-souls.json) |
 | Chromatic: Color Puzzles | 134425 | [134425-chromatic-color-puzzles.json](./134425-chromatic-color-puzzles.json) |
+| Chromatism | 80304 | [80304-chromatism.json](./80304-chromatism.json) |
 | Chromatrix | 295769 | [295769-chromatrix.json](./295769-chromatrix.json) |
 | Chromatron | 77636 | [77636-chromatron.json](./77636-chromatron.json) |
 | ChromaZone | 316704 | [316704-chromazone.json](./316704-chromazone.json) |
@@ -7720,6 +7721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classical Contraption | 249364 | [249364-classical-contraption.json](./249364-classical-contraption.json) |
 | Classical Jukebox | 175933 | [175933-classical-jukebox.json](./175933-classical-jukebox.json) |
 | Classical Music Minesweeper | 223511 | [223511-classical-music-minesweeper.json](./223511-classical-music-minesweeper.json) |
+| Classicard | 80329 | [80329-classicard.json](./80329-classicard.json) |
 | ClassiCube | 117562 | [117562-classicube.json](./117562-classicube.json) |
 | Classified of 2015 | 293336 | [293336-classified-of-2015.json](./293336-classified-of-2015.json) |
 | Classified Stories: Color Out of Space | 190951 | [190951-classified-stories-color-out-of-space.json](./190951-classified-stories-color-out-of-space.json) |
@@ -10424,6 +10426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condor | 305434 | [305434-condor.json](./305434-condor.json) |
 | Condor | 305435 | [305435-condor.json](./305435-condor.json) |
 | Condor | 47268 | [47268-condor.json](./47268-condor.json) |
+| Condor 2: The Complete Soaring Simulator | 80350 | [80350-condor-2-the-complete-soaring-simulator.json](./80350-condor-2-the-complete-soaring-simulator.json) |
 | Condor 3 | 327922 | [327922-condor-3.json](./327922-condor-3.json) |
 | Condor Attack | 117413 | [117413-condor-attack.json](./117413-condor-attack.json) |
 | Condors vs. Ocelots | 164932 | [164932-condors-vs-ocelots.json](./164932-condors-vs-ocelots.json) |
