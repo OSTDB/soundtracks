@@ -2629,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Super Bowl NCAA 2017 | 48894 | [48894-tecmo-super-bowl-ncaa-2017.json](./48894-tecmo-super-bowl-ncaa-2017.json) |
 | Tecmo Super Hockey | 46597 | [46597-tecmo-super-hockey.json](./46597-tecmo-super-hockey.json) |
 | Tecmo Super NBA Basketball | 46596 | [46596-tecmo-super-nba-basketball.json](./46596-tecmo-super-nba-basketball.json) |
+| Tecmo World Cup | 45766 | [45766-tecmo-world-cup.json](./45766-tecmo-world-cup.json) |
 | Tecmo World Cup '90 | 39858 | [39858-tecmo-world-cup-90.json](./39858-tecmo-world-cup-90.json) |
 | Tecmo World Cup '92 | 46102 | [46102-tecmo-world-cup-92.json](./46102-tecmo-world-cup-92.json) |
 | Tecmo World Cup '93 | 46101 | [46101-tecmo-world-cup-93.json](./46101-tecmo-world-cup-93.json) |
@@ -20501,6 +20502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Down Zombies | 214027 | [214027-top-down-zombies.json](./214027-top-down-zombies.json) |
 | Top Duck | 280930 | [280930-top-duck.json](./280930-top-duck.json) |
 | Top Fighter 2000 | 45590 | [45590-top-fighter-2000.json](./45590-top-fighter-2000.json) |
+| Top Fighter 2000 MK VIII | 45752 | [45752-top-fighter-2000-mk-viii.json](./45752-top-fighter-2000-mk-viii.json) |
 | Top Flight Turtle | 234171 | [234171-top-flight-turtle.json](./234171-top-flight-turtle.json) |
 | Top Gear | 27461 | [27461-top-gear.json](./27461-top-gear.json) |
 | Top Gear GT Championship | 49342 | [49342-top-gear-gt-championship.json](./49342-top-gear-gt-championship.json) |
