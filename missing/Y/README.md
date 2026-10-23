@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet Another Pixel Dungeon | 129772 | [129772-yet-another-pixel-dungeon.json](./129772-yet-another-pixel-dungeon.json) |
 | Yet Another PS2 Half-Life Port | 401274 | [401274-yet-another-ps2-half-life-port.json](./401274-yet-another-ps2-half-life-port.json) |
 | Yet Another Research Dog | 83589 | [83589-yet-another-research-dog.json](./83589-yet-another-research-dog.json) |
+| Yet Another RPG | 58022 | [58022-yet-another-rpg.json](./58022-yet-another-rpg.json) |
 | Yet Another Snake Game | 111195 | [111195-yet-another-snake-game.json](./111195-yet-another-snake-game.json) |
 | Yet Another Solitaire Game | 316981 | [316981-yet-another-solitaire-game.json](./316981-yet-another-solitaire-game.json) |
 | Yet Another Sonic the Hedgehog Minigame | 326830 | [326830-yet-another-sonic-the-hedgehog-minigame.json](./326830-yet-another-sonic-the-hedgehog-minigame.json) |
