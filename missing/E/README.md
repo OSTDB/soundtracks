@@ -5397,6 +5397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest Worlds | 63060 | [63060-everquest-worlds.json](./63060-everquest-worlds.json) |
 | EverQuest: Call of the Forsaken | 63069 | [63069-everquest-call-of-the-forsaken.json](./63069-everquest-call-of-the-forsaken.json) |
 | EverQuest: Depths of Darkhollow | 74025 | [74025-everquest-depths-of-darkhollow.json](./74025-everquest-depths-of-darkhollow.json) |
+| EverQuest: Empires of Kunark | 57453 | [57453-everquest-empires-of-kunark.json](./57453-everquest-empires-of-kunark.json) |
 | EverQuest: Evolution | 23746 | [23746-everquest-evolution.json](./23746-everquest-evolution.json) |
 | EverQuest: Gold Edition | 209221 | [209221-everquest-gold-edition.json](./209221-everquest-gold-edition.json) |
 | EverQuest: Lost Dungeons of Norrath | 24093 | [24093-everquest-lost-dungeons-of-norrath.json](./24093-everquest-lost-dungeons-of-norrath.json) |
