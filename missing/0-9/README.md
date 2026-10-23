@@ -2002,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3T Games Compilation 3 | 60614 | [60614-3t-games-compilation-3.json](./60614-3t-games-compilation-3.json) |
 | 3T Games Compilation 4 | 60613 | [60613-3t-games-compilation-4.json](./60613-3t-games-compilation-4.json) |
 | 3x3 | 312887 | [312887-3x3.json](./312887-3x3.json) |
+| 3x3 Eyes Seima Densetsu | 46397 | [46397-3x3-eyes-seima-densetsu.json](./46397-3x3-eyes-seima-densetsu.json) |
 | 3x3 Eyes: Kyuusei Koushu S | 45450 | [45450-3x3-eyes-kyuusei-koushu-s.json](./45450-3x3-eyes-kyuusei-koushu-s.json) |
 | 3x3 Eyes: Sanjiyan Henjou | 74015 | [74015-3x3-eyes-sanjiyan-henjou.json](./74015-3x3-eyes-sanjiyan-henjou.json) |
 | 3x3 Eyes: Seima Kourin-den | 15886 | [15886-3x3-eyes-seima-kourin-den.json](./15886-3x3-eyes-seima-kourin-den.json) |
