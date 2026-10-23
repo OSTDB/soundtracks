@@ -1569,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield's Gem | 63861 | [63861-garfields-gem.json](./63861-garfields-gem.json) |
 | Garfield's Nightmare | 67853 | [67853-garfields-nightmare.json](./67853-garfields-nightmare.json) |
 | Garfield's Scary Scavenger Hunt | 124418 | [124418-garfields-scary-scavenger-hunt.json](./124418-garfields-scary-scavenger-hunt.json) |
+| Garfield's Scary Scavenger Hunt 2 | 98305 | [98305-garfields-scary-scavenger-hunt-2.json](./98305-garfields-scary-scavenger-hunt-2.json) |
 | Garfield's Wild Ride | 25163 | [25163-garfields-wild-ride.json](./25163-garfields-wild-ride.json) |
 | Garfield+ | 319439 | [319439-garfield.json](./319439-garfield.json) |
 | Gargadusa's Tower | 392361 | [392361-gargadusas-tower.json](./392361-gargadusas-tower.json) |
@@ -4555,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Came to the Cave | 70298 | [70298-god-came-to-the-cave.json](./70298-god-came-to-the-cave.json) |
 | God Cop Bad Cop | 157518 | [157518-god-cop-bad-cop.json](./157518-god-cop-bad-cop.json) |
 | God Crafter | 309456 | [309456-god-crafter.json](./309456-god-crafter.json) |
+| God Damn Cardgame | 98287 | [98287-god-damn-cardgame.json](./98287-god-damn-cardgame.json) |
 | God Damn the Garden | 185915 | [185915-god-damn-the-garden.json](./185915-god-damn-the-garden.json) |
 | God Devils | 287520 | [287520-god-devils.json](./287520-god-devils.json) |
 | God Eater | 11844 | [11844-god-eater.json](./11844-god-eater.json) |
@@ -5323,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gonner2: Lose Your Head Bundle | 154963 | [154963-gonner2-lose-your-head-bundle.json](./154963-gonner2-lose-your-head-bundle.json) |
 | Gonner2: The Full Ikk Edition | 154552 | [154552-gonner2-the-full-ikk-edition.json](./154552-gonner2-the-full-ikk-edition.json) |
 | Gonshit infarct | 253510 | [253510-gonshit-infarct.json](./253510-gonshit-infarct.json) |
+| Gonta no Okiraku Daibouken | 98292 | [98292-gonta-no-okiraku-daibouken.json](./98292-gonta-no-okiraku-daibouken.json) |
 | GonzoVR | 109865 | [109865-gonzovr.json](./109865-gonzovr.json) |
 | Gonzzalezz | 39154 | [39154-gonzzalezz.json](./39154-gonzzalezz.json) |
 | Goo Fighter | 283725 | [283725-goo-fighter.json](./283725-goo-fighter.json) |
@@ -5826,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gozen Yoji no mani-mani | 285423 | [285423-gozen-yoji-no-mani-mani.json](./285423-gozen-yoji-no-mani-mani.json) |
 | Gozonji: Yaji Kita Chin Douchuu | 48480 | [48480-gozonji-yaji-kita-chin-douchuu.json](./48480-gozonji-yaji-kita-chin-douchuu.json) |
 | GP 500 | 93475 | [93475-gp-500.json](./93475-gp-500.json) |
+| GP Bikes | 98301 | [98301-gp-bikes.json](./98301-gp-bikes.json) |
 | GP Challenge | 137890 | [137890-gp-challenge.json](./137890-gp-challenge.json) |
 | GP Club Life Motorsports Team | 315650 | [315650-gp-club-life-motorsports-team.json](./315650-gp-club-life-motorsports-team.json) |
 | GP Fight | 92311 | [92311-gp-fight.json](./92311-gp-fight.json) |
