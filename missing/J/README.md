@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Excite Stage '96 | 42657 | [42657-j-league-excite-stage-96.json](./42657-j-league-excite-stage-96.json) |
 | J.League Excite Stage GB | 65244 | [65244-j-league-excite-stage-gb.json](./65244-j-league-excite-stage-gb.json) |
 | J.League Excite Stage Tactics | 79553 | [79553-j-league-excite-stage-tactics.json](./79553-j-league-excite-stage-tactics.json) |
+| J.League Fighting Soccer: The King of Ace Strikers | 48460 | [48460-j-league-fighting-soccer-the-king-of-ace-strikers.json](./48460-j-league-fighting-soccer-the-king-of-ace-strikers.json) |
 | J.League GG Pro-Striker '94 | 126010 | [126010-j-league-gg-pro-striker-94.json](./126010-j-league-gg-pro-striker-94.json) |
 | J.League Greatest Eleven Soccer | 37684 | [37684-j-league-greatest-eleven-soccer.json](./37684-j-league-greatest-eleven-soccer.json) |
 | J.League Jikkyou Honoo no Striker | 220856 | [220856-j-league-jikkyou-honoo-no-striker.json](./220856-j-league-jikkyou-honoo-no-striker.json) |
@@ -79,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Virtual Stadium | 268500 | [268500-j-league-virtual-stadium.json](./268500-j-league-virtual-stadium.json) |
 | J.League Virtual Stadium '95 | 37200 | [37200-j-league-virtual-stadium-95.json](./37200-j-league-virtual-stadium-95.json) |
 | J.League Winning Eleven 10 + Europe League 06-07 | 136813 | [136813-j-league-winning-eleven-10-europe-league-06-07.json](./136813-j-league-winning-eleven-10-europe-league-06-07.json) |
+| J.League Winning Goal | 48459 | [48459-j-league-winning-goal.json](./48459-j-league-winning-goal.json) |
 | J.R.R. Tolkien's Lord of the Rings: Volume 1 | 81467 | [81467-j-r-r-tolkiens-lord-of-the-rings-volume-1.json](./81467-j-r-r-tolkiens-lord-of-the-rings-volume-1.json) |
 | J.R.R. Tolkien's Riders of Rohan | 78742 | [78742-j-r-r-tolkiens-riders-of-rohan.json](./78742-j-r-r-tolkiens-riders-of-rohan.json) |
 | J.R.R. Tolkien's The Lord of the Rings, Vol II: The Two Towers | 50417 | [50417-j-r-r-tolkiens-the-lord-of-the-rings-vol-ii-the-two-towers.json](./50417-j-r-r-tolkiens-the-lord-of-the-rings-vol-ii-the-two-towers.json) |
@@ -305,7 +307,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jailbreak!: Source | 165134 | [165134-jailbreak-source.json](./165134-jailbreak-source.json) |
 | JailBreaker | 274775 | [274775-jailbreaker.json](./274775-jailbreaker.json) |
 | JailBreaker | 98478 | [98478-jailbreaker.json](./98478-jailbreaker.json) |
+| JaJaMaru Gekimaden: Maboroshi no Kinmajou | 48458 | [48458-jajamaru-gekimaden-maboroshi-no-kinmajou.json](./48458-jajamaru-gekimaden-maboroshi-no-kinmajou.json) |
 | JaJaMaru Jr: Denshouki Jaleco Memorial | 122912 | [122912-jajamaru-jr-denshouki-jaleco-memorial.json](./122912-jajamaru-jr-denshouki-jaleco-memorial.json) |
+| JaJaMaru Ninpouchou | 48456 | [48456-jajamaru-ninpouchou.json](./48456-jajamaru-ninpouchou.json) |
+| JaJaMaru no Daibouken | 48457 | [48457-jajamaru-no-daibouken.json](./48457-jajamaru-no-daibouken.json) |
 | Jajazinho e as Delicias de Cristais | 148668 | [148668-jajazinho-e-as-delicias-de-cristais.json](./148668-jajazinho-e-as-delicias-de-cristais.json) |
 | Jak & Daxter: The Lost Levels | 319202 | [319202-jak-and-daxter-the-lost-levels.json](./319202-jak-and-daxter-the-lost-levels.json) |
 | Jak 3 | 1530 | [1530-jak-3.json](./1530-jak-3.json) |
@@ -629,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jargon | 390629 | [390629-jargon.json](./390629-jargon.json) |
 | Jarheads | 55510 | [55510-jarheads.json](./55510-jarheads.json) |
 | Jarinko Chie | 346029 | [346029-jarinko-chie.json](./346029-jarinko-chie.json) |
+| Jarinko Chie: Bakudan Musume no Shiawase Sagashi | 48453 | [48453-jarinko-chie-bakudan-musume-no-shiawase-sagashi.json](./48453-jarinko-chie-bakudan-musume-no-shiawase-sagashi.json) |
 | Jarnasmal | 405569 | [405569-jarnasmal.json](./405569-jarnasmal.json) |
 | Jaro Adventures | 305927 | [305927-jaro-adventures.json](./305927-jaro-adventures.json) |
 | Jaro TCG | 339874 | [339874-jaro-tcg.json](./339874-jaro-tcg.json) |
@@ -962,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jesus Sacred Heart | 392792 | [392792-jesus-sacred-heart.json](./392792-jesus-sacred-heart.json) |
 | Jesus Saves | 408017 | [408017-jesus-saves.json](./408017-jesus-saves.json) |
 | Jesus Simulator | 387742 | [387742-jesus-simulator.json](./387742-jesus-simulator.json) |
+| JESUS: Kyoufu no Bio Monster | 48452 | [48452-jesus-kyoufu-no-bio-monster.json](./48452-jesus-kyoufu-no-bio-monster.json) |
 | Jet & Sky | 215588 | [215588-jet-and-sky.json](./215588-jet-and-sky.json) |
 | Jet Ace | 308020 | [308020-jet-ace.json](./308020-jet-ace.json) |
 | Jet Ace | 377241 | [377241-jet-ace.json](./377241-jet-ace.json) |
@@ -1820,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jixo: The Season of Joy - Collector's Edition | 337282 | [337282-jixo-the-season-of-joy-collectors-edition.json](./337282-jixo-the-season-of-joy-collectors-edition.json) |
 | Jixxaw: Party Time | 158398 | [158398-jixxaw-party-time.json](./158398-jixxaw-party-time.json) |
 | Jìyì de Zhǔrén | 373718 | [373718-jiyi-de-zhuren.json](./373718-jiyi-de-zhuren.json) |
+| JJ | 48451 | [48451-jj.json](./48451-jj.json) |
 | Jjat | 122897 | [122897-jjat.json](./122897-jjat.json) |
 | JJJ | 266790 | [266790-jjj.json](./266790-jjj.json) |
 | JK Assassins | 178648 | [178648-jk-assassins.json](./178648-jk-assassins.json) |
@@ -2723,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpin' Jack | 69489 | [69489-jumpin-jack.json](./69489-jumpin-jack.json) |
 | Jumpin' Junk | 110258 | [110258-jumpin-junk.json](./110258-jumpin-junk.json) |
 | Jumpin' Jupiter: Prelude | 135629 | [135629-jumpin-jupiter-prelude.json](./135629-jumpin-jupiter-prelude.json) |
+| Jumpin' Kid: Jack to Mame no Ki Monogatari | 48450 | [48450-jumpin-kid-jack-to-mame-no-ki-monogatari.json](./48450-jumpin-kid-jack-to-mame-no-ki-monogatari.json) |
 | Jumping Ball | 27608 | [27608-jumping-ball.json](./27608-jumping-ball.json) |
 | Jumping Boy | 322415 | [322415-jumping-boy.json](./322415-jumping-boy.json) |
 | Jumping Boy | 336422 | [336422-jumping-boy.json](./336422-jumping-boy.json) |
@@ -3420,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juusanshi Engi: Engetsu Sangokuden 1 & 2 | 136758 | [136758-juusanshi-engi-engetsu-sangokuden-1-and-2.json](./136758-juusanshi-engi-engetsu-sangokuden-1-and-2.json) |
 | Juuyoku no Jousai | 134624 | [134624-juuyoku-no-jousai.json](./134624-juuyoku-no-jousai.json) |
 | Juuzaengi: Engetsu Sangoku Den 1 & 2 | 135859 | [135859-juuzaengi-engetsu-sangoku-den-1-and-2.json](./135859-juuzaengi-engetsu-sangoku-den-1-and-2.json) |
+| Juvei Quest | 48449 | [48449-juvei-quest.json](./48449-juvei-quest.json) |
 | Juvenate | 366104 | [366104-juvenate.json](./366104-juvenate.json) |
 | Juvenile God | 123562 | [123562-juvenile-god.json](./123562-juvenile-god.json) |
 | Juvenile Power Fantasy | 413459 | [413459-juvenile-power-fantasy.json](./413459-juvenile-power-fantasy.json) |
