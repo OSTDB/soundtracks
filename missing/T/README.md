@@ -7781,6 +7781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Future Radio and the Artificial Pigeons | 220663 | [220663-the-future-radio-and-the-artificial-pigeons.json](./220663-the-future-radio-and-the-artificial-pigeons.json) |
 | The Futurist | 181355 | [181355-the-futurist.json](./181355-the-futurist.json) |
 | The Gal Mahjong | 124074 | [124074-the-gal-mahjong.json](./124074-the-gal-mahjong.json) |
+| The Galactic Aquarium | 67832 | [67832-the-galactic-aquarium.json](./67832-the-galactic-aquarium.json) |
 | The Galactic Junkers | 204410 | [204410-the-galactic-junkers.json](./204410-the-galactic-junkers.json) |
 | The Galactic Plague | 13000 | [13000-the-galactic-plague.json](./13000-the-galactic-plague.json) |
 | The Gallagher Case | 213843 | [213843-the-gallagher-case.json](./213843-the-gallagher-case.json) |
@@ -11149,6 +11150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mummy Returns | 49961 | [49961-the-mummy-returns.json](./49961-the-mummy-returns.json) |
 | The Mummy: Dark Universe Stories | 36858 | [36858-the-mummy-dark-universe-stories.json](./36858-the-mummy-dark-universe-stories.json) |
 | The Mummy: Prodigium Strike | 36857 | [36857-the-mummy-prodigium-strike.json](./36857-the-mummy-prodigium-strike.json) |
+| The Muncher | 67800 | [67800-the-muncher.json](./67800-the-muncher.json) |
 | The Munsters | 37103 | [37103-the-munsters.json](./37103-the-munsters.json) |
 | The Muppet CD-ROM: Muppets Inside | 66343 | [66343-the-muppet-cd-rom-muppets-inside.json](./66343-the-muppet-cd-rom-muppets-inside.json) |
 | The Muppets: On with the Show! | 49321 | [49321-the-muppets-on-with-the-show.json](./49321-the-muppets-on-with-the-show.json) |
@@ -11237,7 +11239,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -16115,6 +16116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threat Actor | 245745 | [245745-threat-actor.json](./245745-threat-actor.json) |
 | Three Alpha One Nine | 312133 | [312133-three-alpha-one-nine.json](./312133-three-alpha-one-nine.json) |
 | Three Bosses | 174323 | [174323-three-bosses.json](./174323-three-bosses.json) |
+| Three Cards to Midnight | 67830 | [67830-three-cards-to-midnight.json](./67830-three-cards-to-midnight.json) |
 | Three Color Ball | 181091 | [181091-three-color-ball.json](./181091-three-color-ball.json) |
 | Three Color Cannon | 360001 | [360001-three-color-cannon.json](./360001-three-color-cannon.json) |
 | Three Days of the Rabbit | 183831 | [183831-three-days-of-the-rabbit.json](./183831-three-days-of-the-rabbit.json) |
@@ -18934,6 +18936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan (working title) | 131476 | [131476-titan-working-title.json](./131476-titan-working-title.json) |
 | Titan 2 | 262259 | [262259-titan-2.json](./262259-titan-2.json) |
 | Titan A.E. | 198944 | [198944-titan-a-e.json](./198944-titan-a-e.json) |
+| Titan A.E. | 67820 | [67820-titan-a-e.json](./67820-titan-a-e.json) |
 | Titan Attack: Wall Defense FPS | 175716 | [175716-titan-attack-wall-defense-fps.json](./175716-titan-attack-wall-defense-fps.json) |
 | Titan Attacks! | 11460 | [11460-titan-attacks.json](./11460-titan-attacks.json) |
 | Titan Empires | 323314 | [323314-titan-empires.json](./323314-titan-empires.json) |
@@ -22051,6 +22054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tractor Racing ( 3D Heavy Monster Truck Race Game on Dirt Track ) | 102577 | [102577-tractor-racing-3d-heavy-monster-truck-race-game-on-dirt-track.json](./102577-tractor-racing-3d-heavy-monster-truck-race-game-on-dirt-track.json) |
 | Tractor Racing Simulation | 142748 | [142748-tractor-racing-simulation.json](./142748-tractor-racing-simulation.json) |
 | Tractorball | 55233 | [55233-tractorball.json](./55233-tractorball.json) |
+| Trade & Battle: Card Hero | 67836 | [67836-trade-and-battle-card-hero.json](./67836-trade-and-battle-card-hero.json) |
 | Trade And Fight | 306366 | [306366-trade-and-fight.json](./306366-trade-and-fight.json) |
 | Trade and Magic | 224718 | [224718-trade-and-magic.json](./224718-trade-and-magic.json) |
 | Trade Around | 183823 | [183823-trade-around.json](./183823-trade-around.json) |
@@ -26227,6 +26231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Wars | 211227 | [211227-twilight-wars.json](./211227-twilight-wars.json) |
 | Twilight Wars | 338602 | [338602-twilight-wars.json](./338602-twilight-wars.json) |
 | Twilight Wars: Declassified | 166205 | [166205-twilight-wars-declassified.json](./166205-twilight-wars-declassified.json) |
+| Twilight: The Video Game | 67831 | [67831-twilight-the-video-game.json](./67831-twilight-the-video-game.json) |
 | Twilight's Flavors & Delight | 381787 | [381787-twilights-flavors-and-delight.json](./381787-twilights-flavors-and-delight.json) |
 | Twilight's Folclore | 374180 | [374180-twilights-folclore.json](./374180-twilights-folclore.json) |
 | Twilight's Ransom | 12805 | [12805-twilights-ransom.json](./12805-twilights-ransom.json) |
