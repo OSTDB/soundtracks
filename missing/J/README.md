@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's Combat Simulations: Israeli Air Force | 72071 | [72071-janes-combat-simulations-israeli-air-force.json](./72071-janes-combat-simulations-israeli-air-force.json) |
 | Jane's Combat Simulations: Longbow Gold | 73363 | [73363-janes-combat-simulations-longbow-gold.json](./73363-janes-combat-simulations-longbow-gold.json) |
 | Jane's Combat Simulations: Naval Warfare Collection | 73637 | [73637-janes-combat-simulations-naval-warfare-collection.json](./73637-janes-combat-simulations-naval-warfare-collection.json) |
+| Jane's Combat Simulations: U.S. Navy Fighters '97 | 50346 | [50346-janes-combat-simulations-u-s-navy-fighters-97.json](./50346-janes-combat-simulations-u-s-navy-fighters-97.json) |
 | Jane's F/A-18 | 687 | [687-janes-f-a-18.json](./687-janes-f-a-18.json) |
 | Jane's Hotel | 180079 | [180079-janes-hotel.json](./180079-janes-hotel.json) |
 | Jane's Hotel | 20549 | [20549-janes-hotel.json](./20549-janes-hotel.json) |
@@ -1645,6 +1646,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikuu Yuuden: Debias | 48610 | [48610-jikuu-yuuden-debias.json](./48610-jikuu-yuuden-debias.json) |
 | Jill O' Lantern | 320971 | [320971-jill-o-lantern.json](./320971-jill-o-lantern.json) |
 | Jill O' Lantern: Final Cut | 319360 | [319360-jill-o-lantern-final-cut.json](./319360-jill-o-lantern-final-cut.json) |
+| Jill of the Jungle: Jill Goes Underground | 50338 | [50338-jill-of-the-jungle-jill-goes-underground.json](./50338-jill-of-the-jungle-jill-goes-underground.json) |
+| Jill of the Jungle: Jill Saves the Prince | 50337 | [50337-jill-of-the-jungle-jill-saves-the-prince.json](./50337-jill-of-the-jungle-jill-saves-the-prince.json) |
 | Jill Saves the Prince | 9645 | [9645-jill-saves-the-prince.json](./9645-jill-saves-the-prince.json) |
 | Jillian Michael's Fitness Ultamatum 2009 | 50989 | [50989-jillian-michaels-fitness-ultamatum-2009.json](./50989-jillian-michaels-fitness-ultamatum-2009.json) |
 | Jillian Michaels Fitness Ultimatum 2011 | 65429 | [65429-jillian-michaels-fitness-ultimatum-2011.json](./65429-jillian-michaels-fitness-ultimatum-2011.json) |
