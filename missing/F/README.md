@@ -8701,6 +8701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Balance | 352290 | [352290-fractured-balance.json](./352290-fractured-balance.json) |
 | Fractured Blooms | 347648 | [347648-fractured-blooms.json](./347648-fractured-blooms.json) |
 | Fractured Dreams | 229646 | [229646-fractured-dreams.json](./229646-fractured-dreams.json) |
+| Fractured Fairy Tales: The Frog Prince | 91798 | [91798-fractured-fairy-tales-the-frog-prince.json](./91798-fractured-fairy-tales-the-frog-prince.json) |
 | Fractured Fury | 244216 | [244216-fractured-fury.json](./244216-fractured-fury.json) |
 | Fractured Lands | 102871 | [102871-fractured-lands.json](./102871-fractured-lands.json) |
 | Fractured Library | 366699 | [366699-fractured-library.json](./366699-fractured-library.json) |
@@ -10436,6 +10437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun with Boobs for Cyberpunk Sex | 288883 | [288883-fun-with-boobs-for-cyberpunk-sex.json](./288883-fun-with-boobs-for-cyberpunk-sex.json) |
 | Fun with Boobs for Sex Motel | 288889 | [288889-fun-with-boobs-for-sex-motel.json](./288889-fun-with-boobs-for-sex-motel.json) |
 | Fun with Cubes | 233122 | [233122-fun-with-cubes.json](./233122-fun-with-cubes.json) |
+| Fun with Numbers | 91817 | [91817-fun-with-numbers.json](./91817-fun-with-numbers.json) |
 | Fun with Penis for Sex Motel | 288888 | [288888-fun-with-penis-for-sex-motel.json](./288888-fun-with-penis-for-sex-motel.json) |
 | Fun with Ragdolls: The Game | 123468 | [123468-fun-with-ragdolls-the-game.json](./123468-fun-with-ragdolls-the-game.json) |
 | Fun With the Fitzgeralds | 262946 | [262946-fun-with-the-fitzgeralds.json](./262946-fun-with-the-fitzgeralds.json) |
@@ -10634,6 +10636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furballs | 180467 | [180467-furballs.json](./180467-furballs.json) |
 | FurBalls Racing | 207299 | [207299-furballs-racing.json](./207299-furballs-racing.json) |
 | Furby Island | 233987 | [233987-furby-island.json](./233987-furby-island.json) |
+| Furby: Big Fun in Furbyland | 91811 | [91811-furby-big-fun-in-furbyland.json](./91811-furby-big-fun-in-furbyland.json) |
 | Furcadia | 18343 | [18343-furcadia.json](./18343-furcadia.json) |
 | Furcadia: The Second Dreaming | 300875 | [300875-furcadia-the-second-dreaming.json](./300875-furcadia-the-second-dreaming.json) |
 | Furcon Frenzy | 267212 | [267212-furcon-frenzy.json](./267212-furcon-frenzy.json) |
@@ -11054,6 +11057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzzical Fighter | 48489 | [48489-fuzzical-fighter.json](./48489-fuzzical-fighter.json) |
 | Fuzzy | 176402 | [176402-fuzzy.json](./176402-fuzzy.json) |
 | Fuzzy | 331489 | [331489-fuzzy.json](./331489-fuzzy.json) |
+| Fuzzy & Floppy | 91695 | [91695-fuzzy-and-floppy.json](./91695-fuzzy-and-floppy.json) |
 | Fuzzy Critters | 104644 | [104644-fuzzy-critters.json](./104644-fuzzy-critters.json) |
 | Fuzzy Flip | 234492 | [234492-fuzzy-flip.json](./234492-fuzzy-flip.json) |
 | Fuzzy McFluffenstein | 337205 | [337205-fuzzy-mcfluffenstein.json](./337205-fuzzy-mcfluffenstein.json) |
