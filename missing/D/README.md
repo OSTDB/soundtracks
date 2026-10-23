@@ -5815,6 +5815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperate Escape | 282830 | [282830-desperate-escape.json](./282830-desperate-escape.json) |
 | Desperate Escape | 340273 | [340273-desperate-escape.json](./340273-desperate-escape.json) |
 | Desperate game | 82050 | [82050-desperate-game.json](./82050-desperate-game.json) |
+| Desperate Gods | 63167 | [63167-desperate-gods.json](./63167-desperate-gods.json) |
 | Desperate Housewives: The Game | 18516 | [18516-desperate-housewives-the-game.json](./18516-desperate-housewives-the-game.json) |
 | Desperate Place | 335290 | [335290-desperate-place.json](./335290-desperate-place.json) |
 | Desperate Skeleton | 238470 | [238470-desperate-skeleton.json](./238470-desperate-skeleton.json) |
@@ -6198,6 +6199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dethrone | 273810 | [273810-dethrone.json](./273810-dethrone.json) |
 | Dethroned | 240813 | [240813-dethroned.json](./240813-dethroned.json) |
 | Dethroned! | 62012 | [62012-dethroned.json](./62012-dethroned.json) |
+| Detonate | 63056 | [63056-detonate.json](./63056-detonate.json) |
 | Detonation | 119563 | [119563-detonation.json](./119563-detonation.json) |
 | Detonation Racing | 165105 | [165105-detonation-racing.json](./165105-detonation-racing.json) |
 | Detonator | 263477 | [263477-detonator.json](./263477-detonator.json) |
@@ -9294,6 +9296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokapon DX: Wataru Sekai ha Oni Darake | 3888 | [3888-dokapon-dx-wataru-sekai-ha-oni-darake.json](./3888-dokapon-dx-wataru-sekai-ha-oni-darake.json) |
 | Dokapon Journey | 21121 | [21121-dokapon-journey.json](./21121-dokapon-journey.json) |
 | Dokapon Kingdom: Connect | 234349 | [234349-dokapon-kingdom-connect.json](./234349-dokapon-kingdom-connect.json) |
+| Dokapon the World | 63153 | [63153-dokapon-the-world.json](./63153-dokapon-the-world.json) |
 | Dokapon UP! Mugen no Roulette | 139184 | [139184-dokapon-up-mugen-no-roulette.json](./139184-dokapon-up-mugen-no-roulette.json) |
 | Dokapon UP! Mugen no Roulette: Premium Limited Edition | 167014 | [167014-dokapon-up-mugen-no-roulette-premium-limited-edition.json](./167014-dokapon-up-mugen-no-roulette-premium-limited-edition.json) |
 | Dokapon! Ikari no Tetsuken | 81411 | [81411-dokapon-ikari-no-tetsuken.json](./81411-dokapon-ikari-no-tetsuken.json) |
