@@ -1692,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Showroom: Luxury Sports Auto Racing Simulator | 106124 | [106124-car-showroom-luxury-sports-auto-racing-simulator.json](./106124-car-showroom-luxury-sports-auto-racing-simulator.json) |
 | Car Simulator 2 | 208203 | [208203-car-simulator-2.json](./208203-car-simulator-2.json) |
 | Car Simulator 2015 | 83216 | [83216-car-simulator-2015.json](./83216-car-simulator-2015.json) |
+| Car Simulator 2018 | 95814 | [95814-car-simulator-2018.json](./95814-car-simulator-2018.json) |
 | Car Simulator Bundle | 357026 | [357026-car-simulator-bundle.json](./357026-car-simulator-bundle.json) |
 | Car Simulator OG | 68532 | [68532-car-simulator-og.json](./68532-car-simulator-og.json) |
 | Car Simulator: Car Games 3D | 266260 | [266260-car-simulator-car-games-3d.json](./266260-car-simulator-car-games-3d.json) |
@@ -11996,6 +11997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Spell Reforged | 122853 | [122853-counter-spell-reforged.json](./122853-counter-spell-reforged.json) |
 | Counter Terror | 387112 | [387112-counter-terror.json](./387112-counter-terror.json) |
 | Counter Terrorism - Minesweeper | 127025 | [127025-counter-terrorism-minesweeper.json](./127025-counter-terrorism-minesweeper.json) |
+| Counter Terrorist Shooting Critical Shoot Attack | 95798 | [95798-counter-terrorist-shooting-critical-shoot-attack.json](./95798-counter-terrorist-shooting-critical-shoot-attack.json) |
 | Counter-Fall | 127746 | [127746-counter-fall.json](./127746-counter-fall.json) |
 | Counter-Strike 1 Anthology | 277809 | [277809-counter-strike-1-anthology.json](./277809-counter-strike-1-anthology.json) |
 | Counter-Strike NEO: White Memories | 143558 | [143558-counter-strike-neo-white-memories.json](./143558-counter-strike-neo-white-memories.json) |
@@ -13304,6 +13306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy & Cute Pixel Plushy Craft | 336900 | [336900-creepy-and-cute-pixel-plushy-craft.json](./336900-creepy-and-cute-pixel-plushy-craft.json) |
 | Creepy Ball Pixel | 208193 | [208193-creepy-ball-pixel.json](./208193-creepy-ball-pixel.json) |
 | Creepy Balls | 186577 | [186577-creepy-balls.json](./186577-creepy-balls.json) |
+| Creepy Bendy Mystery | 95799 | [95799-creepy-bendy-mystery.json](./95799-creepy-bendy-mystery.json) |
 | Creepy Bird | 61516 | [61516-creepy-bird.json](./61516-creepy-bird.json) |
 | Creepy Brawlers | 77955 | [77955-creepy-brawlers.json](./77955-creepy-brawlers.json) |
 | Creepy Camping | 367515 | [367515-creepy-camping.json](./367515-creepy-camping.json) |
