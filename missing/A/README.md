@@ -11085,6 +11085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army of Darkness Defense | 65853 | [65853-army-of-darkness-defense.json](./65853-army-of-darkness-defense.json) |
 | Army of Darkness Doom 2 Total Conversion | 381149 | [381149-army-of-darkness-doom-2-total-conversion.json](./381149-army-of-darkness-doom-2-total-conversion.json) |
 | Army of Frogs HD | 254670 | [254670-army-of-frogs-hd.json](./254670-army-of-frogs-hd.json) |
+| Army of Mice | 66483 | [66483-army-of-mice.json](./66483-army-of-mice.json) |
 | Army of Ninjas | 240195 | [240195-army-of-ninjas.json](./240195-army-of-ninjas.json) |
 | Army of Numbers | 151298 | [151298-army-of-numbers.json](./151298-army-of-numbers.json) |
 | Army of One | 199494 | [199494-army-of-one.json](./199494-army-of-one.json) |
