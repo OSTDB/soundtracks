@@ -1580,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Secrets | 88621 | [88621-mahjong-secrets.json](./88621-mahjong-secrets.json) |
 | Mahjong Sengoku Monogatari | 37743 | [37743-mahjong-sengoku-monogatari.json](./37743-mahjong-sengoku-monogatari.json) |
 | Mahjong Senjutsu: Ando Mitsuru Pro no Akuukan Sappou | 383088 | [383088-mahjong-senjutsu-ando-mitsuru-pro-no-akuukan-sappou.json](./383088-mahjong-senjutsu-ando-mitsuru-pro-no-akuukan-sappou.json) |
+| Mahjong Shanghai | 64254 | [64254-mahjong-shanghai.json](./64254-mahjong-shanghai.json) |
 | Mahjong Shikaku | 138675 | [138675-mahjong-shikaku.json](./138675-mahjong-shikaku.json) |
 | Mahjong Shikaku Retsuden: Mahjong Wars | 37676 | [37676-mahjong-shikaku-retsuden-mahjong-wars.json](./37676-mahjong-shikaku-retsuden-mahjong-wars.json) |
 | Mahjong Solitaire | 230697 | [230697-mahjong-solitaire.json](./230697-mahjong-solitaire.json) |
@@ -12326,6 +12327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Brothel | 336491 | [336491-monster-brothel.json](./336491-monster-brothel.json) |
 | Monster Brother | 287536 | [287536-monster-brother.json](./287536-monster-brother.json) |
 | Monster Builder | 110216 | [110216-monster-builder.json](./110216-monster-builder.json) |
+| Monster Burner | 64156 | [64156-monster-burner.json](./64156-monster-burner.json) |
 | Monster Busters: Hexa Blast | 242793 | [242793-monster-busters-hexa-blast.json](./242793-monster-busters-hexa-blast.json) |
 | Monster Camp 2: Character Pack - Zoe | 343761 | [343761-monster-camp-2-character-pack-zoe.json](./343761-monster-camp-2-character-pack-zoe.json) |
 | Monster Camp Character Pack: Colorful Campers | 378384 | [378384-monster-camp-character-pack-colorful-campers.json](./378384-monster-camp-character-pack-colorful-campers.json) |
@@ -13367,6 +13369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mordon's Quest | 13018 | [13018-mordons-quest.json](./13018-mordons-quest.json) |
 | Mordor | 229109 | [229109-mordor.json](./229109-mordor.json) |
 | Mordred | 97172 | [97172-mordred.json](./97172-mordred.json) |
+| More Adventures of Big Mac: The Mad Maintenance Man | 64143 | [64143-more-adventures-of-big-mac-the-mad-maintenance-man.json](./64143-more-adventures-of-big-mac-the-mad-maintenance-man.json) |
 | More and More | 113057 | [113057-more-and-more.json](./113057-more-and-more.json) |
 | More Bloons | 261910 | [261910-more-bloons.json](./261910-more-bloons.json) |
 | More Brain Exercise | 66419 | [66419-more-brain-exercise.json](./66419-more-brain-exercise.json) |
@@ -14047,6 +14050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross | 159094 | [159094-motocross.json](./159094-motocross.json) |
 | Motocross | 72336 | [72336-motocross.json](./72336-motocross.json) |
 | Motocross Challenge | 49508 | [49508-motocross-challenge.json](./49508-motocross-challenge.json) |
+| Motocross Champion | 64272 | [64272-motocross-champion.json](./64272-motocross-champion.json) |
 | Motocross Championship | 19779 | [19779-motocross-championship.json](./19779-motocross-championship.json) |
 | Motocross Evolution 2025 | 384822 | [384822-motocross-evolution-2025.json](./384822-motocross-evolution-2025.json) |
 | Motocross Extreme Racing 3D | 411457 | [411457-motocross-extreme-racing-3d.json](./411457-motocross-extreme-racing-3d.json) |
@@ -15301,6 +15305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
 | Murder on the Stella | 225221 | [225221-murder-on-the-stella.json](./225221-murder-on-the-stella.json) |
 | Murder on the Suburbia 2 | 116446 | [116446-murder-on-the-suburbia-2.json](./116446-murder-on-the-suburbia-2.json) |
+| Murder on the Titanic | 64145 | [64145-murder-on-the-titanic.json](./64145-murder-on-the-titanic.json) |
 | Murder on the Zinderneuf | 23929 | [23929-murder-on-the-zinderneuf.json](./23929-murder-on-the-zinderneuf.json) |
 | Murder Party: Horror Hunt | 274967 | [274967-murder-party-horror-hunt.json](./274967-murder-party-horror-hunt.json) |
 | Murder Reservation | 129205 | [129205-murder-reservation.json](./129205-murder-reservation.json) |
@@ -15619,6 +15624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Meltdown | 211148 | [211148-mutant-meltdown.json](./211148-mutant-meltdown.json) |
 | Mutant Monster Invasion | 292240 | [292240-mutant-monster-invasion.json](./292240-mutant-monster-invasion.json) |
 | Mutant Monty | 66711 | [66711-mutant-monty.json](./66711-mutant-monty.json) |
+| Mutant Mudds 2 | 64083 | [64083-mutant-mudds-2.json](./64083-mutant-mudds-2.json) |
 | Mutant Mudds Collection | 72897 | [72897-mutant-mudds-collection.json](./72897-mutant-mudds-collection.json) |
 | Mutant Mudds Collection + Xeodrifter | 248705 | [248705-mutant-mudds-collection-xeodrifter.json](./248705-mutant-mudds-collection-xeodrifter.json) |
 | Mutant Mudds Super Challenge | 20100 | [20100-mutant-mudds-super-challenge.json](./20100-mutant-mudds-super-challenge.json) |
