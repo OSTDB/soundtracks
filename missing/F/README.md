@@ -4794,6 +4794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Woman: Matoi Gumi | 45958 | [45958-fire-woman-matoi-gumi.json](./45958-fire-woman-matoi-gumi.json) |
 | Fire-Brigade: The Battle for Kiev - 1943 | 13060 | [13060-fire-brigade-the-battle-for-kiev-1943.json](./13060-fire-brigade-the-battle-for-kiev-1943.json) |
 | Fire: The First Dreamer | 333552 | [333552-fire-the-first-dreamer.json](./333552-fire-the-first-dreamer.json) |
+| Fire: Ungh's Quest | 58565 | [58565-fire-unghs-quest.json](./58565-fire-unghs-quest.json) |
 | Fire! | 223091 | [223091-fire.json](./223091-fire.json) |
 | FireAirPlan | 195926 | [195926-fireairplan.json](./195926-fireairplan.json) |
 | Firearm | 206762 | [206762-firearm.json](./206762-firearm.json) |
