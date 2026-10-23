@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana no Chiruramu | 166579 | [166579-hana-no-chiruramu.json](./166579-hana-no-chiruramu.json) |
 | Hana no Ibara: Yuurei Kitan | 181657 | [181657-hana-no-ibara-yuurei-kitan.json](./181657-hana-no-ibara-yuurei-kitan.json) |
 | Hana no No ni Saku Utakata no | 60412 | [60412-hana-no-no-ni-saku-utakata-no.json](./60412-hana-no-no-ni-saku-utakata-no.json) |
+| Hana no Star Kaidou | 48476 | [48476-hana-no-star-kaidou.json](./48476-hana-no-star-kaidou.json) |
 | Hana Oboro: Sengoku-den Ranki | 136480 | [136480-hana-oboro-sengoku-den-ranki.json](./136480-hana-oboro-sengoku-den-ranki.json) |
 | Hana Saki Work Spring! | 111649 | [111649-hana-saki-work-spring.json](./111649-hana-saki-work-spring.json) |
 | Hana Saku DS Gardening Life | 229262 | [229262-hana-saku-ds-gardening-life.json](./229262-hana-saku-ds-gardening-life.json) |
@@ -3031,6 +3032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heisei Pistol Show | 176864 | [176864-heisei-pistol-show.json](./176864-heisei-pistol-show.json) |
 | Heisei Shin Onigashima | 170336 | [170336-heisei-shin-onigashima.json](./170336-heisei-shin-onigashima.json) |
 | Heisei Tensai Bakabon | 249763 | [249763-heisei-tensai-bakabon.json](./249763-heisei-tensai-bakabon.json) |
+| Heisei Tensai Bakabon | 48467 | [48467-heisei-tensai-bakabon.json](./48467-heisei-tensai-bakabon.json) |
 | Heisei Tensai Bakabon Minna de Family Resturant ni Iku no da! | 249764 | [249764-heisei-tensai-bakabon-minna-de-family-resturant-ni-iku-no-da.json](./249764-heisei-tensai-bakabon-minna-de-family-resturant-ni-iku-no-da.json) |
 | Heisei Tensai Bakabon: Susume! Bakabons | 70877 | [70877-heisei-tensai-bakabon-susume-bakabons.json](./70877-heisei-tensai-bakabon-susume-bakabons.json) |
 | Heisen Bay | 156908 | [156908-heisen-bay.json](./156908-heisen-bay.json) |
@@ -4441,6 +4443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heracles Chariot Racing | 21113 | [21113-heracles-chariot-racing.json](./21113-heracles-chariot-racing.json) |
 | Heracles no Eikou II: Titan no Metsubou | 48619 | [48619-heracles-no-eikou-ii-titan-no-metsubou.json](./48619-heracles-no-eikou-ii-titan-no-metsubou.json) |
 | Heracles no Eikou III: Kamigami no Chinmoku | 38257 | [38257-heracles-no-eikou-iii-kamigami-no-chinmoku.json](./38257-heracles-no-eikou-iii-kamigami-no-chinmoku.json) |
+| Heracles no Eikou: Toujin Makyou-den | 48475 | [48475-heracles-no-eikou-toujin-makyou-den.json](./48475-heracles-no-eikou-toujin-makyou-den.json) |
 | Heracles no Eikou: Ugokidashita Kamigami | 129545 | [129545-heracles-no-eikou-ugokidashita-kamigami.json](./129545-heracles-no-eikou-ugokidashita-kamigami.json) |
 | Heradonia | 186494 | [186494-heradonia.json](./186494-heradonia.json) |
 | Heraean Games | 301083 | [301083-heraean-games.json](./301083-heraean-games.json) |
@@ -5334,6 +5337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi Hi Puffy AmiYumi: World Tour | 185937 | [185937-hi-hi-puffy-amiyumi-world-tour.json](./185937-hi-hi-puffy-amiyumi-world-tour.json) |
 | Hi no Homo | 133312 | [133312-hi-no-homo.json](./133312-hi-no-homo.json) |
 | Hi no Ouji: Yamato Takeru | 44438 | [44438-hi-no-ouji-yamato-takeru.json](./44438-hi-no-ouji-yamato-takeru.json) |
+| Hi no Tori Houou-hen: Gaou no Bouken | 48474 | [48474-hi-no-tori-houou-hen-gaou-no-bouken.json](./48474-hi-no-tori-houou-hen-gaou-no-bouken.json) |
 | Hi On Rhythm | 267459 | [267459-hi-on-rhythm.json](./267459-hi-on-rhythm.json) |
 | Hi Pai Paradise | 309599 | [309599-hi-pai-paradise.json](./309599-hi-pai-paradise.json) |
 | Hi Rise | 39153 | [39153-hi-rise.json](./39153-hi-rise.json) |
@@ -5938,6 +5942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higanbana | 308896 | [308896-higanbana.json](./308896-higanbana.json) |
 | Higanbana no Saku Yoru ni: The Second Night | 64864 | [64864-higanbana-no-saku-yoru-ni-the-second-night.json](./64864-higanbana-no-saku-yoru-ni-the-second-night.json) |
 | Higanjima | 94205 | [94205-higanjima.json](./94205-higanjima.json) |
+| Higemaru Makaijima: Nanatsu no Shima Daibouken | 48473 | [48473-higemaru-makaijima-nanatsu-no-shima-daibouken.json](./48473-higemaru-makaijima-nanatsu-no-shima-daibouken.json) |
 | Higgledy Piggledy | 78916 | [78916-higgledy-piggledy.json](./78916-higgledy-piggledy.json) |
 | Higgs Boson: Puzzle Collection | 344492 | [344492-higgs-boson-puzzle-collection.json](./344492-higgs-boson-puzzle-collection.json) |
 | Higgs Boson: Timed Puzzle | 173238 | [173238-higgs-boson-timed-puzzle.json](./173238-higgs-boson-timed-puzzle.json) |
@@ -6453,6 +6458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiragana Katakana Ninja | 372185 | [372185-hiragana-katakana-ninja.json](./372185-hiragana-katakana-ninja.json) |
 | Hiragana Word Challenge | 418325 | [418325-hiragana-word-challenge.json](./418325-hiragana-word-challenge.json) |
 | Hirai Nya | 333507 | [333507-hirai-nya.json](./333507-hirai-nya.json) |
+| Hirake! Ponkikki | 48472 | [48472-hirake-ponkikki.json](./48472-hirake-ponkikki.json) |
 | Hirameki Puzzle Tetogram | 222178 | [222178-hirameki-puzzle-tetogram.json](./222178-hirameki-puzzle-tetogram.json) |
 | Hirata Shougo Interactive Ehon: Aesop Monogatari Vol. 1 | 245530 | [245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json](./245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json) |
 | Hirdrih Technologic | 404974 | [404974-hirdrih-technologic.json](./404974-hirdrih-technologic.json) |
@@ -6910,6 +6916,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokuto no Ken | 100267 | [100267-hokuto-no-ken.json](./100267-hokuto-no-ken.json) |
 | Hokuto no Ken | 46115 | [46115-hokuto-no-ken.json](./46115-hokuto-no-ken.json) |
 | Hokuto no Ken | 74157 | [74157-hokuto-no-ken.json](./74157-hokuto-no-ken.json) |
+| Hokuto no Ken 3: Shinseiki Souzou Seiken Retsuden | 48471 | [48471-hokuto-no-ken-3-shinseiki-souzou-seiken-retsuden.json](./48471-hokuto-no-ken-3-shinseiki-souzou-seiken-retsuden.json) |
+| Hokuto no Ken 4: Shichisei Hakenden - Hokuto Shinken no Kanata he | 48470 | [48470-hokuto-no-ken-4-shichisei-hakenden-hokuto-shinken-no-kanata-he.json](./48470-hokuto-no-ken-4-shichisei-hakenden-hokuto-shinken-no-kanata-he.json) |
 | Hokuto no Ken 5: Tenma Ryuusei-den Ai Zesshou | 42552 | [42552-hokuto-no-ken-5-tenma-ryuusei-den-ai-zesshou.json](./42552-hokuto-no-ken-5-tenma-ryuusei-den-ai-zesshou.json) |
 | Hokuto no Ken 6: Gekitou Denshouken - Haou he no Michi | 38264 | [38264-hokuto-no-ken-6-gekitou-denshouken-haou-he-no-michi.json](./38264-hokuto-no-ken-6-gekitou-denshouken-haou-he-no-michi.json) |
 | Hokuto no Ken 7: Seiken Retsuden Denshousha he no Michi | 38337 | [38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json](./38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json) |
@@ -7343,6 +7351,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Run High | 109008 | [109008-home-run-high.json](./109008-home-run-high.json) |
 | Home Run King | 242809 | [242809-home-run-king.json](./242809-home-run-king.json) |
 | Home Run King | 3947 | [3947-home-run-king.json](./3947-home-run-king.json) |
+| Home Run Nighter '90: The Pennant League | 48468 | [48468-home-run-nighter-90-the-pennant-league.json](./48468-home-run-nighter-90-the-pennant-league.json) |
+| Home Run Nighter: Pennant League!! | 48469 | [48469-home-run-nighter-pennant-league.json](./48469-home-run-nighter-pennant-league.json) |
 | Home Run Stars | 20236 | [20236-home-run-stars.json](./20236-home-run-stars.json) |
 | Home Runtaro | 257009 | [257009-home-runtaro.json](./257009-home-runtaro.json) |
 | Home Safe and Silent | 160122 | [160122-home-safe-and-silent.json](./160122-home-safe-and-silent.json) |
@@ -8642,6 +8652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotshots | 390116 | [390116-hotshots.json](./390116-hotshots.json) |
 | Hotshots Fire Rescue | 239903 | [239903-hotshots-fire-rescue.json](./239903-hotshots-fire-rescue.json) |
 | Hotspot Football | 58190 | [58190-hotspot-football.json](./58190-hotspot-football.json) |
+| Hottaaman no Chisoko Tanken | 48466 | [48466-hottaaman-no-chisoko-tanken.json](./48466-hottaaman-no-chisoko-tanken.json) |
 | Hottarake no Shima: Kanata to Niji-iro no Kagami | 123035 | [123035-hottarake-no-shima-kanata-to-niji-iro-no-kagami.json](./123035-hottarake-no-shima-kanata-to-niji-iro-no-kagami.json) |
 | HotWire VR | 249937 | [249937-hotwire-vr.json](./249937-hotwire-vr.json) |
 | Houchi City | 249180 | [249180-houchi-city.json](./249180-houchi-city.json) |
