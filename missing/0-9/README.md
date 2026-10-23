@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 123 Animal Second Grade Math for Kids | 58477 | [58477-123-animal-second-grade-math-for-kids.json](./58477-123-animal-second-grade-math-for-kids.json) |
 | 123 Kids Fun Connect the Dots Games for Smart Kids | 232183 | [232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json](./232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json) |
 | 123 Kids Fun Puzzle Gold | 89543 | [89543-123-kids-fun-puzzle-gold.json](./89543-123-kids-fun-puzzle-gold.json) |
+| 123 Kids Fun Puzzle Green | 89721 | [89721-123-kids-fun-puzzle-green.json](./89721-123-kids-fun-puzzle-green.json) |
 | 123 Kids Fun Puzzle Red | 89166 | [89166-123-kids-fun-puzzle-red.json](./89166-123-kids-fun-puzzle-red.json) |
 | 123 Mazes | 358058 | [358058-123-mazes.json](./358058-123-mazes.json) |
 | 123 Picture Match | 110220 | [110220-123-picture-match.json](./110220-123-picture-match.json) |
@@ -1631,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 Days of Tower | 290955 | [290955-30-days-of-tower.json](./290955-30-days-of-tower.json) |
 | 30 Days to be the Best | 211389 | [211389-30-days-to-be-the-best.json](./211389-30-days-to-be-the-best.json) |
 | 30 days to Defence | 126267 | [126267-30-days-to-defence.json](./126267-30-days-to-defence.json) |
+| 30 Days to Survive | 89775 | [89775-30-days-to-survive.json](./89775-30-days-to-survive.json) |
 | 30 Floors of Madness | 308952 | [308952-30-floors-of-madness.json](./308952-30-floors-of-madness.json) |
 | 30 in 1 Family Games Mega Collection | 391259 | [391259-30-in-1-family-games-mega-collection.json](./391259-30-in-1-family-games-mega-collection.json) |
 | 30 Minutes to Die | 214691 | [214691-30-minutes-to-die.json](./214691-30-minutes-to-die.json) |
@@ -1999,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 in 1: Meine Tierarztpraxis + Meine Tierpension + Mein Gestuet + Mein Pferd | 269535 | [269535-4-in-1-meine-tierarztpraxis-meine-tierpension-mein-gestuet-mein-pferd.json](./269535-4-in-1-meine-tierarztpraxis-meine-tierpension-mein-gestuet-mein-pferd.json) |
 | 4 in 1: Nintendo | 293735 | [293735-4-in-1-nintendo.json](./293735-4-in-1-nintendo.json) |
 | 4 In a Blow | 242460 | [242460-4-in-a-blow.json](./242460-4-in-a-blow.json) |
+| 4 in a Line | 89723 | [89723-4-in-a-line.json](./89723-4-in-a-line.json) |
 | 4 in a Row | 294841 | [294841-4-in-a-row.json](./294841-4-in-a-row.json) |
 | 4 In a Row:Deluxe | 256161 | [256161-4-in-a-row-deluxe.json](./256161-4-in-a-row-deluxe.json) |
 | 4 in One: Cave Wonders/Earth Defender/Jaguar Bomber/Soccer Champion | 138731 | [138731-4-in-one-cave-wonders-earth-defender-jaguar-bomber-soccer-champion.json](./138731-4-in-one-cave-wonders-earth-defender-jaguar-bomber-soccer-champion.json) |
