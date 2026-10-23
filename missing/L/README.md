@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lana: Queen of Ancient Egypt | 348827 | [348827-lana-queen-of-ancient-egypt.json](./348827-lana-queen-of-ancient-egypt.json) |
 | Lanadgel | 112664 | [112664-lanadgel.json](./112664-lanadgel.json) |
 | Lancaster | 292836 | [292836-lancaster.json](./292836-lancaster.json) |
+| Lancaster | 71943 | [71943-lancaster.json](./71943-lancaster.json) |
 | Lancelot | 12169 | [12169-lancelot.json](./12169-lancelot.json) |
 | Lancelot's Hangover : The Quest for the Holy Booze | 107775 | [107775-lancelots-hangover-the-quest-for-the-holy-booze.json](./107775-lancelots-hangover-the-quest-for-the-holy-booze.json) |
 | Lancen Adventure | 321814 | [321814-lancen-adventure.json](./321814-lancen-adventure.json) |
@@ -2974,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Make a Soccer Team! | 91708 | [91708-lets-make-a-soccer-team.json](./91708-lets-make-a-soccer-team.json) |
 | Let's Meat Adam 2 | 180134 | [180134-lets-meat-adam-2.json](./180134-lets-meat-adam-2.json) |
 | Let's Meet Tomorrow | 342091 | [342091-lets-meet-tomorrow.json](./342091-lets-meet-tomorrow.json) |
+| Let's Meow Meow | 71949 | [71949-lets-meow-meow.json](./71949-lets-meow-meow.json) |
 | Let's Minesweeper | 220183 | [220183-lets-minesweeper.json](./220183-lets-minesweeper.json) |
 | Let's not stay friends | 76484 | [76484-lets-not-stay-friends.json](./76484-lets-not-stay-friends.json) |
 | Let's Pachinko: Nante Gindama | 134465 | [134465-lets-pachinko-nante-gindama.json](./134465-lets-pachinko-nante-gindama.json) |
@@ -4389,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links LS: 1998 Edition | 771 | [771-links-ls-1998-edition.json](./771-links-ls-1998-edition.json) |
 | Links Puzzle | 283377 | [283377-links-puzzle.json](./283377-links-puzzle.json) |
 | Links: Championship Course - Banff Springs | 69756 | [69756-links-championship-course-banff-springs.json](./69756-links-championship-course-banff-springs.json) |
+| Links: Championship Course - Barton Creek | 71952 | [71952-links-championship-course-barton-creek.json](./71952-links-championship-course-barton-creek.json) |
 | Links: Championship Course - Bountiful Golf Course | 77910 | [77910-links-championship-course-bountiful-golf-course.json](./77910-links-championship-course-bountiful-golf-course.json) |
 | Links: Championship Course - Castlepines | 93225 | [93225-links-championship-course-castlepines.json](./93225-links-championship-course-castlepines.json) |
 | Links: Championship Course - Firestone Country Club | 73485 | [73485-links-championship-course-firestone-country-club.json](./73485-links-championship-course-firestone-country-club.json) |
