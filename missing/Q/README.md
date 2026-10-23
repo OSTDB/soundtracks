@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quattro Combat | 72124 | [72124-quattro-combat.json](./72124-quattro-combat.json) |
 | Quattro Firepower | 92942 | [92942-quattro-firepower.json](./92942-quattro-firepower.json) |
 | Quattro Megastars | 94322 | [94322-quattro-megastars.json](./94322-quattro-megastars.json) |
+| Quattro Power | 92870 | [92870-quattro-power.json](./92870-quattro-power.json) |
 | Quattro Racers | 94645 | [94645-quattro-racers.json](./94645-quattro-racers.json) |
 | Quattro Skills | 71815 | [71815-quattro-skills.json](./71815-quattro-skills.json) |
 | Quattro Sports | 48216 | [48216-quattro-sports.json](./48216-quattro-sports.json) |
