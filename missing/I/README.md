@@ -1788,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iLudo | 90359 | [90359-iludo.json](./90359-iludo.json) |
 | Ilulissat Water Taxi | 110259 | [110259-ilulissat-water-taxi.json](./110259-ilulissat-water-taxi.json) |
 | Iluminatus Bizarre Ascent | 372778 | [372778-iluminatus-bizarre-ascent.json](./372778-iluminatus-bizarre-ascent.json) |
+| Ilya Muromets | 60936 | [60936-ilya-muromets.json](./60936-ilya-muromets.json) |
 | Ilyad | 366984 | [366984-ilyad.json](./366984-ilyad.json) |
 | Ilysia | 123575 | [123575-ilysia.json](./123575-ilysia.json) |
 | Im Bann Der Dunklen Jagd | 324674 | [324674-im-bann-der-dunklen-jagd.json](./324674-im-bann-der-dunklen-jagd.json) |
@@ -2674,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie.io Adventure Bundle | 339063 | [339063-indie-io-adventure-bundle.json](./339063-indie-io-adventure-bundle.json) |
 | Indie.io Chill Bundle | 339064 | [339064-indie-io-chill-bundle.json](./339064-indie-io-chill-bundle.json) |
 | Indiemon Card Adventure | 62720 | [62720-indiemon-card-adventure.json](./62720-indiemon-card-adventure.json) |
+| Indiemon VS Zombies | 60313 | [60313-indiemon-vs-zombies.json](./60313-indiemon-vs-zombies.json) |
 | Indiemon: Earth Nation - Villain Version | 62721 | [62721-indiemon-earth-nation-villain-version.json](./62721-indiemon-earth-nation-villain-version.json) |
 | Indiepocalypse #3 | 248808 | [248808-indiepocalypse-3.json](./248808-indiepocalypse-3.json) |
 | Indiepocalypse #42 | 256179 | [256179-indiepocalypse-42.json](./256179-indiepocalypse-42.json) |
