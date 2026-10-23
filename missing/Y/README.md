@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yetisports Deluxe | 44774 | [44774-yetisports-deluxe.json](./44774-yetisports-deluxe.json) |
 | Yetisports: World Tour | 279227 | [279227-yetisports-world-tour.json](./279227-yetisports-world-tour.json) |
 | Yewdow | 289586 | [289586-yewdow.json](./289586-yewdow.json) |
+| Yèxuě Bīngjiāo | 87944 | [87944-yexue-bingjiao.json](./87944-yexue-bingjiao.json) |
 | Yez: The Dark Amulet | 295499 | [295499-yez-the-dark-amulet.json](./295499-yez-the-dark-amulet.json) |
 | Ygeia | 201477 | [201477-ygeia.json](./201477-ygeia.json) |
 | Yggdra Kingdom | 395590 | [395590-yggdra-kingdom.json](./395590-yggdra-kingdom.json) |
@@ -646,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokai Moon | 183511 | [183511-yokai-moon.json](./183511-yokai-moon.json) |
 | Yokai Onsen | 348815 | [348815-yokai-onsen.json](./348815-yokai-onsen.json) |
 | Yokai Rescue | 309868 | [309868-yokai-rescue.json](./309868-yokai-rescue.json) |
+| Yokai Senki | 82587 | [82587-yokai-senki.json](./82587-yokai-senki.json) |
 | Yokai Taiji | 152998 | [152998-yokai-taiji.json](./152998-yokai-taiji.json) |
 | Yokai Tamer | 193936 | [193936-yokai-tamer.json](./193936-yokai-tamer.json) |
 | Yokai Watch Go | 231875 | [231875-yokai-watch-go.json](./231875-yokai-watch-go.json) |
@@ -1132,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Future Self | 115498 | [115498-your-future-self.json](./115498-your-future-self.json) |
 | Your Girl | 118997 | [118997-your-girl.json](./118997-your-girl.json) |
 | Your God Is False | 336903 | [336903-your-god-is-false.json](./336903-your-god-is-false.json) |
+| Your Highness, we should defend! 2 | 82626 | [82626-your-highness-we-should-defend-2.json](./82626-your-highness-we-should-defend-2.json) |
 | Your Holy & Virtuous Heretic | 269990 | [269990-your-holy-and-virtuous-heretic.json](./269990-your-holy-and-virtuous-heretic.json) |
 | Your House | 274758 | [274758-your-house.json](./274758-your-house.json) |
 | Your Human is Sick | 149008 | [149008-your-human-is-sick.json](./149008-your-human-is-sick.json) |
@@ -1240,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoyo's Puzzle Park | 44718 | [44718-yoyos-puzzle-park.json](./44718-yoyos-puzzle-park.json) |
 | YoyoMonkeyAdventure | 149036 | [149036-yoyomonkeyadventure.json](./149036-yoyomonkeyadventure.json) |
 | Yoyozo | 272481 | [272481-yoyozo.json](./272481-yoyozo.json) |
+| Yozakura Wizard VR | 88015 | [88015-yozakura-wizard-vr.json](./88015-yozakura-wizard-vr.json) |
 | Yozemi no Center Shoujun Series: Eigo-hen | 321355 | [321355-yozemi-no-center-shoujun-series-eigo-hen.json](./321355-yozemi-no-center-shoujun-series-eigo-hen.json) |
 | Yozora Rhapsody | 30044 | [30044-yozora-rhapsody.json](./30044-yozora-rhapsody.json) |
 | Yqriel | 229565 | [229565-yqriel.json](./229565-yqriel.json) |
