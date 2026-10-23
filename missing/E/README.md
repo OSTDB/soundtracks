@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth 2140 | 200884 | [200884-earth-2140.json](./200884-earth-2140.json) |
 | Earth 2140 Trilogy | 51765 | [51765-earth-2140-trilogy.json](./51765-earth-2140-trilogy.json) |
 | Earth 2140: Mission Pack 1 | 79919 | [79919-earth-2140-mission-pack-1.json](./79919-earth-2140-mission-pack-1.json) |
+| Earth 2140: Mission Pack 2 - Final Conflict | 73593 | [73593-earth-2140-mission-pack-2-final-conflict.json](./73593-earth-2140-mission-pack-2-final-conflict.json) |
 | Earth 2150 | 8932 | [8932-earth-2150.json](./8932-earth-2150.json) |
 | Earth 2150 Trilogy | 30238 | [30238-earth-2150-trilogy.json](./30238-earth-2150-trilogy.json) |
 | Earth 2160 | 8935 | [8935-earth-2160.json](./8935-earth-2160.json) |
