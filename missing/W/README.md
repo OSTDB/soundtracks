@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wages of War: The Business of Battle | 70982 | [70982-wages-of-war-the-business-of-battle.json](./70982-wages-of-war-the-business-of-battle.json) |
 | Wageslave | 397239 | [397239-wageslave.json](./397239-wageslave.json) |
 | WaggaSim | 312563 | [312563-waggasim.json](./312563-waggasim.json) |
+| Waggle Words | 58560 | [58560-waggle-words.json](./58560-waggle-words.json) |
 | Wagie Run | 404965 | [404965-wagie-run.json](./404965-wagie-run.json) |
 | Wagon Gloom | 288474 | [288474-wagon-gloom.json](./288474-wagon-gloom.json) |
 | Wagotabi | 283132 | [283132-wagotabi.json](./283132-wagotabi.json) |
