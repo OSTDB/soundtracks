@@ -5143,6 +5143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berks 3: They're Angry! | 60520 | [60520-berks-3-theyre-angry.json](./60520-berks-3-theyre-angry.json) |
 | Berlin 1936 | 119699 | [119699-berlin-1936.json](./119699-berlin-1936.json) |
 | Berlin 1948 | 15701 | [15701-berlin-1948.json](./15701-berlin-1948.json) |
+| Berlin Connection | 93397 | [93397-berlin-connection.json](./93397-berlin-connection.json) |
 | Berlin Wall | 421192 | [421192-berlin-wall.json](./421192-berlin-wall.json) |
 | Berlitz* French Translator | 94168 | [94168-berlitz-french-translator.json](./94168-berlitz-french-translator.json) |
 | Bermuda | 380011 | [380011-bermuda.json](./380011-bermuda.json) |
@@ -8020,6 +8021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blinx 2: Masters of Time and Space | 5752 | [5752-blinx-2-masters-of-time-and-space.json](./5752-blinx-2-masters-of-time-and-space.json) |
 | Blip | 92920 | [92920-blip.json](./92920-blip.json) |
 | Blip & Blop: Balls of Steel | 50127 | [50127-blip-and-blop-balls-of-steel.json](./50127-blip-and-blop-balls-of-steel.json) |
+| BLiP Football | 93418 | [93418-blip-football.json](./93418-blip-football.json) |
 | Blip's Supermassive Adventure | 322707 | [322707-blips-supermassive-adventure.json](./322707-blips-supermassive-adventure.json) |
 | Blippo+ | 325283 | [325283-blippo.json](./325283-blippo.json) |
 | Blippo+ | 348336 | [348336-blippo.json](./348336-blippo.json) |
@@ -8085,6 +8087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blizzard | 92141 | [92141-blizzard.json](./92141-blizzard.json) |
 | Blizzard Blowout 64 | 177563 | [177563-blizzard-blowout-64.json](./177563-blizzard-blowout-64.json) |
 | Blizzard of Faith & Revenge | 142928 | [142928-blizzard-of-faith-and-revenge.json](./142928-blizzard-of-faith-and-revenge.json) |
+| Blizzard Pass | 93400 | [93400-blizzard-pass.json](./93400-blizzard-pass.json) |
 | Blizzard World | 175276 | [175276-blizzard-world.json](./175276-blizzard-world.json) |
 | Bloat | 138620 | [138620-bloat.json](./138620-bloat.json) |
 | Blob | 14319 | [14319-blob.json](./14319-blob.json) |
@@ -10764,6 +10767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Gun | 291375 | [291375-bounce-gun.json](./291375-bounce-gun.json) |
 | Bounce House | 262487 | [262487-bounce-house.json](./262487-bounce-house.json) |
 | Bounce It | 363033 | [363033-bounce-it.json](./363033-bounce-it.json) |
+| Bounce It | 93430 | [93430-bounce-it.json](./93430-bounce-it.json) |
 | Bounce Journey | 242977 | [242977-bounce-journey.json](./242977-bounce-journey.json) |
 | Bounce Knight | 127694 | [127694-bounce-knight.json](./127694-bounce-knight.json) |
 | Bounce Lounge | 233232 | [233232-bounce-lounge.json](./233232-bounce-lounge.json) |
@@ -12940,6 +12944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Pop Math Challenge Gr. 1-2 Premium | 87255 | [87255-bubble-pop-math-challenge-gr-1-2-premium.json](./87255-bubble-pop-math-challenge-gr-1-2-premium.json) |
 | Bubble Pop! | 181592 | [181592-bubble-pop.json](./181592-bubble-pop.json) |
 | Bubble Popper | 175098 | [175098-bubble-popper.json](./175098-bubble-popper.json) |
+| Bubble Puzzle 97 | 93424 | [93424-bubble-puzzle-97.json](./93424-bubble-puzzle-97.json) |
 | Bubble Rage | 340228 | [340228-bubble-rage.json](./340228-bubble-rage.json) |
 | Bubble Raider | 110204 | [110204-bubble-raider.json](./110204-bubble-raider.json) |
 | Bubble Riders | 300999 | [300999-bubble-riders.json](./300999-bubble-riders.json) |
@@ -14370,6 +14375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz! Junior: Dino Den | 43507 | [43507-buzz-junior-dino-den.json](./43507-buzz-junior-dino-den.json) |
 | Buzz! Junior: Monster Rumble | 43506 | [43506-buzz-junior-monster-rumble.json](./43506-buzz-junior-monster-rumble.json) |
 | Buzz! Junior: Robo Jam | 44710 | [44710-buzz-junior-robo-jam.json](./44710-buzz-junior-robo-jam.json) |
+| Buzz! The Schools Quiz | 93404 | [93404-buzz-the-schools-quiz.json](./93404-buzz-the-schools-quiz.json) |
 | Buzz! The Sports Quiz | 43520 | [43520-buzz-the-sports-quiz.json](./43520-buzz-the-sports-quiz.json) |
 | Buzz! The Ultimate Music Quiz | 44586 | [44586-buzz-the-ultimate-music-quiz.json](./44586-buzz-the-ultimate-music-quiz.json) |
 | Buzz!: Brain of the World | 7282 | [7282-buzz-brain-of-the-world.json](./7282-buzz-brain-of-the-world.json) |
