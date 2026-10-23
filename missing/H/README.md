@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.E.D.Z. - Head Extreme Destruction Zone | 50140 | [50140-h-e-d-z-head-extreme-destruction-zone.json](./50140-h-e-d-z-head-extreme-destruction-zone.json) |
 | H.E.L.M.E.T. Force: Rise of the Machines | 109552 | [109552-h-e-l-m-e-t-force-rise-of-the-machines.json](./109552-h-e-l-m-e-t-force-rise-of-the-machines.json) |
 | H.E.N.T.A.L.K.E.R. | 311098 | [311098-h-e-n-t-a-l-k-e-r.json](./311098-h-e-n-t-a-l-k-e-r.json) |
+| H.E.R.O: Human Extraction and Rescue Operation | 67808 | [67808-h-e-r-o-human-extraction-and-rescue-operation.json](./67808-h-e-r-o-human-extraction-and-rescue-operation.json) |
 | H.E.R.O. | 6112 | [6112-h-e-r-o.json](./6112-h-e-r-o.json) |
 | H.I.S.T.O.R.Y T.O.R.C.H.K.A 2 | 82322 | [82322-h-i-s-t-o-r-y-t-o-r-c-h-k-a-2.json](./82322-h-i-s-t-o-r-y-t-o-r-c-h-k-a-2.json) |
 | H.I.v.C.A.: Human Intelligence vs Computer Algorithm | 311102 | [311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json](./311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json) |
@@ -1880,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Light of Hope - Special Edition: Doc's & Melanie's Special Episodes | 171296 | [171296-harvest-moon-light-of-hope-special-edition-docs-and-melanies-special-episodes.json](./171296-harvest-moon-light-of-hope-special-edition-docs-and-melanies-special-episodes.json) |
 | Harvest Moon: Light of Hope - Special Edition: New Marriageable Characters Pack | 171415 | [171415-harvest-moon-light-of-hope-special-edition-new-marriageable-characters-pack.json](./171415-harvest-moon-light-of-hope-special-edition-new-marriageable-characters-pack.json) |
 | Harvest Moon: Magical Melody | 3386 | [3386-harvest-moon-magical-melody.json](./3386-harvest-moon-magical-melody.json) |
+| Harvest Moon: My Little Shop | 67793 | [67793-harvest-moon-my-little-shop.json](./67793-harvest-moon-my-little-shop.json) |
 | Harvest Moon: One World - Collector's Edition | 200691 | [200691-harvest-moon-one-world-collectors-edition.json](./200691-harvest-moon-one-world-collectors-edition.json) |
 | Harvest Moon: One World - Far East Adventure Pack | 174165 | [174165-harvest-moon-one-world-far-east-adventure-pack.json](./174165-harvest-moon-one-world-far-east-adventure-pack.json) |
 | Harvest Moon: One World - Precious Pets Pack | 174151 | [174151-harvest-moon-one-world-precious-pets-pack.json](./174151-harvest-moon-one-world-precious-pets-pack.json) |
@@ -6146,6 +6148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Iki | 136769 | [136769-higurashi-no-naku-koro-ni-iki.json](./136769-higurashi-no-naku-koro-ni-iki.json) |
 | Higurashi no Naku Koro ni Jan | 229816 | [229816-higurashi-no-naku-koro-ni-jan.json](./229816-higurashi-no-naku-koro-ni-jan.json) |
 | Higurashi no Naku Koro ni Jan: Gouka Genteiban na no desu yo Box | 352787 | [352787-higurashi-no-naku-koro-ni-jan-gouka-genteiban-na-no-desu-yo-box.json](./352787-higurashi-no-naku-koro-ni-jan-gouka-genteiban-na-no-desu-yo-box.json) |
+| Higurashi no Naku Koro ni Jong | 67829 | [67829-higurashi-no-naku-koro-ni-jong.json](./67829-higurashi-no-naku-koro-ni-jong.json) |
 | Higurashi no Naku Koro ni Kizuna Volume I: Tatari | 69157 | [69157-higurashi-no-naku-koro-ni-kizuna-volume-i-tatari.json](./69157-higurashi-no-naku-koro-ni-kizuna-volume-i-tatari.json) |
 | Higurashi no Naku Koro ni Kizuna Volume II: Sou | 111749 | [111749-higurashi-no-naku-koro-ni-kizuna-volume-ii-sou.json](./111749-higurashi-no-naku-koro-ni-kizuna-volume-ii-sou.json) |
 | Higurashi no Naku Koro ni Kizuna Volume III: Rasen | 69165 | [69165-higurashi-no-naku-koro-ni-kizuna-volume-iii-rasen.json](./69165-higurashi-no-naku-koro-ni-kizuna-volume-iii-rasen.json) |
@@ -7953,6 +7956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horn and Shields | 319959 | [319959-horn-and-shields.json](./319959-horn-and-shields.json) |
 | Horn of Balance | 296912 | [296912-horn-of-balance.json](./296912-horn-of-balance.json) |
 | Horn Sounds | 262887 | [262887-horn-sounds.json](./262887-horn-sounds.json) |
+| Horn Swaggle Islands | 67828 | [67828-horn-swaggle-islands.json](./67828-horn-swaggle-islands.json) |
 | Horn-Nie | 291037 | [291037-horn-nie.json](./291037-horn-nie.json) |
 | Horned Monster | 188339 | [188339-horned-monster.json](./188339-horned-monster.json) |
 | Hornet the Vanguard | 303572 | [303572-hornet-the-vanguard.json](./303572-hornet-the-vanguard.json) |
@@ -9327,6 +9331,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunchback: The Adventure | 26390 | [26390-hunchback-the-adventure.json](./26390-hunchback-the-adventure.json) |
 | Huncho | 176759 | [176759-huncho.json](./176759-huncho.json) |
 | Hunchy | 93401 | [93401-hunchy.json](./93401-hunchy.json) |
+| Hunchy 1066 | 67781 | [67781-hunchy-1066.json](./67781-hunchy-1066.json) |
+| Hunchy 2010 | 67780 | [67780-hunchy-2010.json](./67780-hunchy-2010.json) |
 | Hunckie Egg | 134422 | [134422-hunckie-egg.json](./134422-hunckie-egg.json) |
 | Hundra | 92962 | [92962-hundra.json](./92962-hundra.json) |
 | Hundred | 267068 | [267068-hundred.json](./267068-hundred.json) |
