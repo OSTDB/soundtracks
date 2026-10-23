@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 2,512" src="https://img.shields.io/badge/soundtracks-2%2C512-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 2,030" src="https://img.shields.io/badge/games-2%2C030-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 249,930" src="https://img.shields.io/badge/missing-249%2C930-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 251,180" src="https://img.shields.io/badge/missing-251%2C180-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -30,20 +30,20 @@
 
 <table>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/the-witcher-3-wild-hunt-game-of-the-year-edition"><img src="https://ostdb.net/media/uploads/b8dfa823a28e2dc903ab3e985f50187b8fba5ebe90836187e1acc86b747b8d1a.jpg" width="120" height="120" alt="" /></a><br /><sub><b>The Witcher 3: Wild Hunt - Game of the Year Edition</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/resident-evil-revelations"><img src="https://i.scdn.co/image/ab67616d0000b2737049207c16c470433b773920" width="120" height="120" alt="" /></a><br /><sub><b>Resident Evil: Revelations</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/cars-2"><img src="https://i.scdn.co/image/ab67616d0000b273cce6b71df05dd3603c275fdf" width="120" height="120" alt="" /></a><br /><sub><b>Cars 2</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/ad-agency-tycoon"><img src="https://i.scdn.co/image/ab67616d0000b273d30671e3736d71ca4cd5f438" width="120" height="120" alt="" /></a><br /><sub><b>Ad Agency Tycoon</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/aethus"><img src="https://i.scdn.co/image/ab67616d0000b2737e6890ba5d457fa411478bee" width="120" height="120" alt="" /></a><br /><sub><b>Aethus</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/lost-ark"><img src="https://i.scdn.co/image/ab67616d0000b273a2484198c7fce96ab6cb3745" width="120" height="120" alt="" /></a><br /><sub><b>Lost Ark</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/vigil-the-longest-night"><img src="https://i.scdn.co/image/ab67616d0000b2734f3c6e18c15fdf53733c153d" width="120" height="120" alt="" /></a><br /><sub><b>Vigil: The Longest Night</b></sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/vigil-the-longest-night"><img src="https://i.scdn.co/image/ab67616d0000b2734f3c6e18c15fdf53733c153d" width="120" height="120" alt="" /></a><br /><sub><b>Vigil: The Longest Night</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/agame"><img src="https://i.scdn.co/image/ab67616d0000b273817c3ed8bb09fb8058bf8204" width="120" height="120" alt="" /></a><br /><sub><b>Agame</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/squirrel-with-a-gun"><img src="https://i.scdn.co/image/ab67616d0000b27341ae5dbd9b9d2ccaedddfdf1" width="120" height="120" alt="" /></a><br /><sub><b>Squirrel with a Gun</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/star-wars-hunters"><img src="https://i.scdn.co/image/ab67616d0000b2734ac85b9e679e6e0a1eb013fd" width="120" height="120" alt="" /></a><br /><sub><b>Star Wars: Hunters</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/dredge-the-pale-reach"><img src="https://i.scdn.co/image/ab67616d0000b2739d5ef757e223e8f684d7031d" width="120" height="120" alt="" /></a><br /><sub><b>Dredge: The Pale Reach</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/across-the-obelisk"><img src="https://i.scdn.co/image/ab67616d0000b273d62d0b3863600380315f80eb" width="120" height="120" alt="" /></a><br /><sub><b>Across the Obelisk</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/roots-of-pacha"><img src="https://i.scdn.co/image/ab67616d0000b273bc8d075c48dcb1547d64825b" width="120" height="120" alt="" /></a><br /><sub><b>Roots of Pacha</b></sub></td>
 </tr>
 </table>
 
@@ -53,23 +53,23 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 
 | # | Game | Search | Contribute |
 |---:|---|---|---|
-| 1 | **The Witcher 3: Wild Hunt - Game of the Year Edition** | [🔎 Find on Spotify](https://open.spotify.com/search/The%20Witcher%203%3A%20Wild%20Hunt%20-%20Game%20of%20the%20Year%20Edition%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/22439-the-witcher-3-wild-hunt-game-of-the-year-edition.json) |
-| 2 | **Ori and the Blind Forest: Definitive Edition** | [🔎 Find on Spotify](https://open.spotify.com/search/Ori%20and%20the%20Blind%20Forest%3A%20Definitive%20Edition%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/O/19456-ori-and-the-blind-forest-definitive-edition.json) |
-| 3 | **Palworld** | [🔎 Find on Spotify](https://open.spotify.com/search/Palworld%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/P/151665-palworld.json) |
-| 4 | **Deep Rock Galactic** | [🔎 Find on Spotify](https://open.spotify.com/search/Deep%20Rock%20Galactic%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/27134-deep-rock-galactic.json) |
-| 5 | **Don't Starve Together** | [🔎 Find on Spotify](https://open.spotify.com/search/Don't%20Starve%20Together%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/17832-dont-starve-together.json) |
-| 6 | **BioShock Remastered** | [🔎 Find on Spotify](https://open.spotify.com/search/BioShock%20Remastered%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/B/34293-bioshock-remastered.json) |
-| 7 | **Torchlight** | [🔎 Find on Spotify](https://open.spotify.com/search/Torchlight%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/2480-torchlight.json) |
-| 8 | **Call of Duty: Modern Warfare Remastered** | [🔎 Find on Spotify](https://open.spotify.com/search/Call%20of%20Duty%3A%20Modern%20Warfare%20Remastered%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/24920-call-of-duty-modern-warfare-remastered.json) |
-| 9 | **Heroes of Might and Magic V** | [🔎 Find on Spotify](https://open.spotify.com/search/Heroes%20of%20Might%20and%20Magic%20V%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/H/370-heroes-of-might-and-magic-v.json) |
-| 10 | **Sid Meier's Civilization** | [🔎 Find on Spotify](https://open.spotify.com/search/Sid%20Meier's%20Civilization%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/902-sid-meiers-civilization.json) |
-| 11 | **Need for Speed** | [🔎 Find on Spotify](https://open.spotify.com/search/Need%20for%20Speed%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/N/10965-need-for-speed.json) |
-| 12 | **Europa Universalis IV** | [🔎 Find on Spotify](https://open.spotify.com/search/Europa%20Universalis%20IV%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/E/1904-europa-universalis-iv.json) |
-| 13 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
-| 14 | **Divinity: Original Sin** | [🔎 Find on Spotify](https://open.spotify.com/search/Divinity%3A%20Original%20Sin%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/5082-divinity-original-sin.json) |
-| 15 | **LEGO Star Wars: The Video Game** | [🔎 Find on Spotify](https://open.spotify.com/search/LEGO%20Star%20Wars%3A%20The%20Video%20Game%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/L/2681-lego-star-wars-the-video-game.json) |
+| 1 | **Ori and the Blind Forest: Definitive Edition** | [🔎 Find on Spotify](https://open.spotify.com/search/Ori%20and%20the%20Blind%20Forest%3A%20Definitive%20Edition%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/O/19456-ori-and-the-blind-forest-definitive-edition.json) |
+| 2 | **Palworld** | [🔎 Find on Spotify](https://open.spotify.com/search/Palworld%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/P/151665-palworld.json) |
+| 3 | **Deep Rock Galactic** | [🔎 Find on Spotify](https://open.spotify.com/search/Deep%20Rock%20Galactic%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/27134-deep-rock-galactic.json) |
+| 4 | **Don't Starve Together** | [🔎 Find on Spotify](https://open.spotify.com/search/Don't%20Starve%20Together%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/17832-dont-starve-together.json) |
+| 5 | **BioShock Remastered** | [🔎 Find on Spotify](https://open.spotify.com/search/BioShock%20Remastered%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/B/34293-bioshock-remastered.json) |
+| 6 | **Torchlight** | [🔎 Find on Spotify](https://open.spotify.com/search/Torchlight%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/2480-torchlight.json) |
+| 7 | **Call of Duty: Modern Warfare Remastered** | [🔎 Find on Spotify](https://open.spotify.com/search/Call%20of%20Duty%3A%20Modern%20Warfare%20Remastered%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/24920-call-of-duty-modern-warfare-remastered.json) |
+| 8 | **Heroes of Might and Magic V** | [🔎 Find on Spotify](https://open.spotify.com/search/Heroes%20of%20Might%20and%20Magic%20V%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/H/370-heroes-of-might-and-magic-v.json) |
+| 9 | **Sid Meier's Civilization** | [🔎 Find on Spotify](https://open.spotify.com/search/Sid%20Meier's%20Civilization%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/902-sid-meiers-civilization.json) |
+| 10 | **Need for Speed** | [🔎 Find on Spotify](https://open.spotify.com/search/Need%20for%20Speed%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/N/10965-need-for-speed.json) |
+| 11 | **Europa Universalis IV** | [🔎 Find on Spotify](https://open.spotify.com/search/Europa%20Universalis%20IV%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/E/1904-europa-universalis-iv.json) |
+| 12 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
+| 13 | **Divinity: Original Sin** | [🔎 Find on Spotify](https://open.spotify.com/search/Divinity%3A%20Original%20Sin%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/5082-divinity-original-sin.json) |
+| 14 | **LEGO Star Wars: The Video Game** | [🔎 Find on Spotify](https://open.spotify.com/search/LEGO%20Star%20Wars%3A%20The%20Video%20Game%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/L/2681-lego-star-wars-the-video-game.json) |
+| 15 | **Tomb Raider: Anniversary** | [🔎 Find on Spotify](https://open.spotify.com/search/Tomb%20Raider%3A%20Anniversary%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/1162-tomb-raider-anniversary.json) |
 
-More in **[missing/](missing/README.md)** (249,930 games).
+More in **[missing/](missing/README.md)** (251,180 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -114,4 +114,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,512 soundtracks &middot; last updated 2026-10-23T07:08:47.676Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,512 soundtracks &middot; last updated 2026-10-23T12:41:49.535Z</sub>
