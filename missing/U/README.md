@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unity of Command II: Stalingrad | 196058 | [196058-unity-of-command-ii-stalingrad.json](./196058-unity-of-command-ii-stalingrad.json) |
 | Unity of Command: Black Turn | 171631 | [171631-unity-of-command-black-turn.json](./171631-unity-of-command-black-turn.json) |
 | Unity of Command: Red Turn | 171341 | [171341-unity-of-command-red-turn.json](./171341-unity-of-command-red-turn.json) |
+| Unity of Four Elements | 84019 | [84019-unity-of-four-elements.json](./84019-unity-of-four-elements.json) |
 | Unity to Survive | 368507 | [368507-unity-to-survive.json](./368507-unity-to-survive.json) |
 | Unity-Chan Live Stage! -Candy Rock Star- | 127655 | [127655-unity-chan-live-stage-candy-rock-star.json](./127655-unity-chan-live-stage-candy-rock-star.json) |
 | Unity-chan no Knife Nage Master | 206047 | [206047-unity-chan-no-knife-nage-master.json](./206047-unity-chan-no-knife-nage-master.json) |
