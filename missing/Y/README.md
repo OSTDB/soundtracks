@@ -1729,8 +1729,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YuYu Hakusho 100% Maji Battle | 131397 | [131397-yuyu-hakusho-100-maji-battle.json](./131397-yuyu-hakusho-100-maji-battle.json) |
 | YuYu Hakusho 2: Kakutou no Sho | 42530 | [42530-yuyu-hakusho-2-kakutou-no-sho.json](./42530-yuyu-hakusho-2-kakutou-no-sho.json) |
 | YuYu Hakusho Dai-Ni-Dan: Ankoku Bujutsu Kai-hen | 80312 | [80312-yuyu-hakusho-dai-ni-dan-ankoku-bujutsu-kai-hen.json](./80312-yuyu-hakusho-dai-ni-dan-ankoku-bujutsu-kai-hen.json) |
+| YuYu Hakusho Dai-San-Dan: Makai no Tobira | 79723 | [79723-yuyu-hakusho-dai-san-dan-makai-no-tobira.json](./79723-yuyu-hakusho-dai-san-dan-makai-no-tobira.json) |
 | YuYu Hakusho Dai-yon-dan: Makai Touitsu-hen | 60559 | [60559-yuyu-hakusho-dai-yon-dan-makai-touitsu-hen.json](./60559-yuyu-hakusho-dai-yon-dan-makai-touitsu-hen.json) |
 | YuYu Hakusho Final: Makai Saikyou Retsuden | 79844 | [79844-yuyu-hakusho-final-makai-saikyou-retsuden.json](./79844-yuyu-hakusho-final-makai-saikyou-retsuden.json) |
+| YuYu Hakusho Forever | 79724 | [79724-yuyu-hakusho-forever.json](./79724-yuyu-hakusho-forever.json) |
 | YuYu Hakusho Gaiden | 45606 | [45606-yuyu-hakusho-gaiden.json](./45606-yuyu-hakusho-gaiden.json) |
 | YuYu Hakusho II: Gekitou! Nanakyou no Tatakai | 46552 | [46552-yuyu-hakusho-ii-gekitou-nanakyou-no-tatakai.json](./46552-yuyu-hakusho-ii-gekitou-nanakyou-no-tatakai.json) |
 | YuYu Hakusho Yamishoubu!! Ankoku Bujutsu Kai | 37629 | [37629-yuyu-hakusho-yamishoubu-ankoku-bujutsu-kai.json](./37629-yuyu-hakusho-yamishoubu-ankoku-bujutsu-kai.json) |
