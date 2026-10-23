@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanoplanet Survivors | 236145 | [236145-nanoplanet-survivors.json](./236145-nanoplanet-survivors.json) |
 | Nanos | 90597 | [90597-nanos.json](./90597-nanos.json) |
 | Nanos World | 152927 | [152927-nanos-world.json](./152927-nanos-world.json) |
+| Nanosaur | 70818 | [70818-nanosaur.json](./70818-nanosaur.json) |
 | Nanosaur Extreme! | 57658 | [57658-nanosaur-extreme.json](./57658-nanosaur-extreme.json) |
 | Nanosaur II: Hatchling | 63257 | [63257-nanosaur-ii-hatchling.json](./63257-nanosaur-ii-hatchling.json) |
 | Nanoscape | 55774 | [55774-nanoscape.json](./55774-nanoscape.json) |
