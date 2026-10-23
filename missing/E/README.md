@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edegard: Puqq | 244833 | [244833-edegard-puqq.json](./244833-edegard-puqq.json) |
 | EdelSuche | 265233 | [265233-edelsuche.json](./265233-edelsuche.json) |
 | Edelweiss | 184303 | [184303-edelweiss.json](./184303-edelweiss.json) |
+| Edelweiss | 67817 | [67817-edelweiss.json](./67817-edelweiss.json) |
 | Edelweiss Eidenjima Complete Pack | 126326 | [126326-edelweiss-eidenjima-complete-pack.json](./126326-edelweiss-eidenjima-complete-pack.json) |
 | Edelweiss Knights | 386867 | [386867-edelweiss-knights.json](./386867-edelweiss-knights.json) |
 | Edemn | 240634 | [240634-edemn.json](./240634-edemn.json) |
