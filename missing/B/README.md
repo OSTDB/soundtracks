@@ -5705,9 +5705,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bias Quartet | 376672 | [376672-bias-quartet.json](./376672-bias-quartet.json) |
 | Biathlon 2002 | 92911 | [92911-biathlon-2002.json](./92911-biathlon-2002.json) |
 | Biathlon 2003 | 56877 | [56877-biathlon-2003.json](./56877-biathlon-2003.json) |
+| Biathlon 2004 | 56863 | [56863-biathlon-2004.json](./56863-biathlon-2004.json) |
+| Biathlon 2005 | 56862 | [56862-biathlon-2005.json](./56862-biathlon-2005.json) |
+| Biathlon 2006: Go for Gold | 56864 | [56864-biathlon-2006-go-for-gold.json](./56864-biathlon-2006-go-for-gold.json) |
 | Biathlon 2008 | 70651 | [70651-biathlon-2008.json](./70651-biathlon-2008.json) |
 | Biathlon Battle VR | 114088 | [114088-biathlon-battle-vr.json](./114088-biathlon-battle-vr.json) |
 | Biathlon Challenge | 346938 | [346938-biathlon-challenge.json](./346938-biathlon-challenge.json) |
+| Biathlon Champion 2007 | 56860 | [56860-biathlon-champion-2007.json](./56860-biathlon-champion-2007.json) |
 | Bibbidiba Fan Game | 338234 | [338234-bibbidiba-fan-game.json](./338234-bibbidiba-fan-game.json) |
 | Bibdu | 395855 | [395855-bibdu.json](./395855-bibdu.json) |
 | Bibi & Tina at the Horse Farm | 122789 | [122789-bibi-and-tina-at-the-horse-farm.json](./122789-bibi-and-tina-at-the-horse-farm.json) |
@@ -9861,6 +9865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Ace | 362431 | [362431-bomb-ace.json](./362431-bomb-ace.json) |
 | Bomb Around | 332397 | [332397-bomb-around.json](./332397-bomb-around.json) |
 | Bomb Bee N | 145395 | [145395-bomb-bee-n.json](./145395-bomb-bee-n.json) |
+| Bomb Blaster | 56840 | [56840-bomb-blaster.json](./56840-bomb-blaster.json) |
 | Bomb Bomb Bomb | 248900 | [248900-bomb-bomb-bomb.json](./248900-bomb-bomb-bomb.json) |
 | Bomb Bomb! My Friends | 100628 | [100628-bomb-bomb-my-friends.json](./100628-bomb-bomb-my-friends.json) |
 | Bomb Bots Arena | 115134 | [115134-bomb-bots-arena.json](./115134-bomb-bots-arena.json) |
@@ -13050,6 +13055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Cloud: Spinning Bubbles | 86774 | [86774-bubble-cloud-spinning-bubbles.json](./86774-bubble-cloud-spinning-bubbles.json) |
 | Bubble Crack | 71048 | [71048-bubble-crack.json](./71048-bubble-crack.json) |
 | Bubble Crackle | 87321 | [87321-bubble-crackle.json](./87321-bubble-crackle.json) |
+| Bubble Cube | 56945 | [56945-bubble-cube.json](./56945-bubble-cube.json) |
 | Bubble de House de OOO: Ofuro Maker no Showroom ga Sharehouse de... | 396487 | [396487-bubble-de-house-de-ooo-ofuro-maker-no-showroom-ga-sharehouse-de.json](./396487-bubble-de-house-de-ooo-ofuro-maker-no-showroom-ga-sharehouse-de.json) |
 | Bubble Diving | 183341 | [183341-bubble-diving.json](./183341-bubble-diving.json) |
 | Bubble Dizzy | 11981 | [11981-bubble-dizzy.json](./11981-bubble-dizzy.json) |
