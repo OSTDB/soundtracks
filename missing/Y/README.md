@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yasha: Legends of the Demon Blade | 235083 | [235083-yasha-legends-of-the-demon-blade.json](./235083-yasha-legends-of-the-demon-blade.json) |
 | Yasha: Legends of the Demon Blade - Deluxe Edition | 351139 | [351139-yasha-legends-of-the-demon-blade-deluxe-edition.json](./351139-yasha-legends-of-the-demon-blade-deluxe-edition.json) |
 | Yashi - Sand Driver | 411675 | [411675-yashi-sand-driver.json](./411675-yashi-sand-driver.json) |
+| Yashik | 76367 | [76367-yashik.json](./76367-yashik.json) |
 | Yaso: Curse of Soirée | 182892 | [182892-yaso-curse-of-soiree.json](./182892-yaso-curse-of-soiree.json) |
 | Yasogaya Murder Cases | 238597 | [238597-yasogaya-murder-cases.json](./238597-yasogaya-murder-cases.json) |
 | Yasuda Fire & Marine: Safety Rally | 48863 | [48863-yasuda-fire-and-marine-safety-rally.json](./48863-yasuda-fire-and-marine-safety-rally.json) |
@@ -1055,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youda Survivor 2 | 9302 | [9302-youda-survivor-2.json](./9302-youda-survivor-2.json) |
 | Youda Sushi Chef | 9301 | [9301-youda-sushi-chef.json](./9301-youda-sushi-chef.json) |
 | Youda Sushi Chef 2 | 9300 | [9300-youda-sushi-chef-2.json](./9300-youda-sushi-chef-2.json) |
+| Youdanji | 76393 | [76393-youdanji.json](./76393-youdanji.json) |
 | YouFight | 74921 | [74921-youfight.json](./74921-youfight.json) |
 | Yougekitai: Jashin Koumaroku | 240216 | [240216-yougekitai-jashin-koumaroku.json](./240216-yougekitai-jashin-koumaroku.json) |
 | Yougen | 216807 | [216807-yougen.json](./216807-yougen.json) |
