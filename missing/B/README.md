@@ -8458,6 +8458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocklords | 262888 | [262888-blocklords.json](./262888-blocklords.json) |
 | Blockman 1988 | 225722 | [225722-blockman-1988.json](./225722-blockman-1988.json) |
 | Blockman 1989 | 186646 | [186646-blockman-1989.json](./186646-blockman-1989.json) |
+| Blockman Gets Hungry | 61964 | [61964-blockman-gets-hungry.json](./61964-blockman-gets-hungry.json) |
 | Blockman Go | 138641 | [138641-blockman-go.json](./138641-blockman-go.json) |
 | Blockman Returns | 56427 | [56427-blockman-returns.json](./56427-blockman-returns.json) |
 | BlockMill | 249266 | [249266-blockmill.json](./249266-blockmill.json) |
@@ -11866,6 +11867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bread Fish Clicker | 306637 | [306637-bread-fish-clicker.json](./306637-bread-fish-clicker.json) |
 | Bread Kittens | 159352 | [159352-bread-kittens.json](./159352-bread-kittens.json) |
 | Bread or Dead | 249934 | [249934-bread-or-dead.json](./249934-bread-or-dead.json) |
+| Bread Puppies | 62046 | [62046-bread-puppies.json](./62046-bread-puppies.json) |
 | BreadAttack | 276689 | [276689-breadattack.json](./276689-breadattack.json) |
 | Breadbear's Bizarre Breadventure | 374411 | [374411-breadbears-bizarre-breadventure.json](./374411-breadbears-bizarre-breadventure.json) |
 | Breadborn | 304424 | [304424-breadborn.json](./304424-breadborn.json) |
@@ -12173,6 +12175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Blaster | 281968 | [281968-brick-blaster.json](./281968-brick-blaster.json) |
 | Brick Blaster | 47087 | [47087-brick-blaster.json](./47087-brick-blaster.json) |
 | Brick Block | 304041 | [304041-brick-block.json](./304041-brick-block.json) |
+| Brick Break Blitz | 61966 | [61966-brick-break-blitz.json](./61966-brick-break-blitz.json) |
 | Brick Breaker | 13436 | [13436-brick-breaker.json](./13436-brick-breaker.json) |
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
 | Brick Breaker | 264223 | [264223-brick-breaker.json](./264223-brick-breaker.json) |
