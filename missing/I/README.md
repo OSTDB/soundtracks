@@ -3739,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instinct: Survival | 118000 | [118000-instinct-survival.json](./118000-instinct-survival.json) |
 | Instinction | 143565 | [143565-instinction.json](./143565-instinction.json) |
 | Instruction | 285857 | [285857-instruction.json](./285857-instruction.json) |
+| InstrumentChamp | 95906 | [95906-instrumentchamp.json](./95906-instrumentchamp.json) |
 | Instruments of Chaos Starring Young Indiana Jones | 73006 | [73006-instruments-of-chaos-starring-young-indiana-jones.json](./73006-instruments-of-chaos-starring-young-indiana-jones.json) |
 | Instruments of Destruction | 149952 | [149952-instruments-of-destruction.json](./149952-instruments-of-destruction.json) |
 | Instruments of Peace | 358938 | [358938-instruments-of-peace.json](./358938-instruments-of-peace.json) |
