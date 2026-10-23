@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladybug dress up | 101588 | [101588-ladybug-dress-up.json](./101588-ladybug-dress-up.json) |
 | Ladybug Quest | 113753 | [113753-ladybug-quest.json](./113753-ladybug-quest.json) |
 | Ladybugs and Storm | 236736 | [236736-ladybugs-and-storm.json](./236736-ladybugs-and-storm.json) |
+| Ladybugs Lines | 54170 | [54170-ladybugs-lines.json](./54170-ladybugs-lines.json) |
 | Ladykiller in a Bind | 25572 | [25572-ladykiller-in-a-bind.json](./25572-ladykiller-in-a-bind.json) |
 | Ladylike | 152769 | [152769-ladylike.json](./152769-ladylike.json) |
 | Laedomanes | 142094 | [142094-laedomanes.json](./142094-laedomanes.json) |
@@ -835,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Cat Craft | 244803 | [244803-laser-cat-craft.json](./244803-laser-cat-craft.json) |
 | Laser Circle | 312180 | [312180-laser-circle.json](./312180-laser-circle.json) |
 | Laser Defense Extreme | 291333 | [291333-laser-defense-extreme.json](./291333-laser-defense-extreme.json) |
+| Laser Dolphin | 54169 | [54169-laser-dolphin.json](./54169-laser-dolphin.json) |
 | Laser Dreams | 58267 | [58267-laser-dreams.json](./58267-laser-dreams.json) |
 | Laser Drift: OverDrive | 28567 | [28567-laser-drift-overdrive.json](./28567-laser-drift-overdrive.json) |
 | Laser Droplets | 159870 | [159870-laser-droplets.json](./159870-laser-droplets.json) |
@@ -5444,6 +5446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locomotive | 78737 | [78737-locomotive.json](./78737-locomotive.json) |
 | Locomotive 115 | 322993 | [322993-locomotive-115.json](./322993-locomotive-115.json) |
 | Locomotive 2 | 66556 | [66556-locomotive-2.json](./66556-locomotive-2.json) |
+| Locomotive 4: Deluxe Edition | 54178 | [54178-locomotive-4-deluxe-edition.json](./54178-locomotive-4-deluxe-edition.json) |
 | LocoMotives | 116719 | [116719-locomotives.json](./116719-locomotives.json) |
 | LocoPets | 311861 | [311861-locopets.json](./311861-locopets.json) |
 | LocoRoco 2 | 1461 | [1461-locoroco-2.json](./1461-locoroco-2.json) |
@@ -7477,6 +7480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Stars 2 | 89722 | [89722-lucky-stars-2.json](./89722-lucky-stars-2.json) |
 | Lucky Stars Video Slots | 175990 | [175990-lucky-stars-video-slots.json](./175990-lucky-stars-video-slots.json) |
 | Lucky Stars: Special Edition | 107711 | [107711-lucky-stars-special-edition.json](./107711-lucky-stars-special-edition.json) |
+| Lucky Streak Poker | 54176 | [54176-lucky-streak-poker.json](./54176-lucky-streak-poker.json) |
 | Lucky Sudoku | 95899 | [95899-lucky-sudoku.json](./95899-lucky-sudoku.json) |
 | Lucky Time | 287532 | [287532-lucky-time.json](./287532-lucky-time.json) |
 | Lucky Tlhalerwa: Super Incursion | 190059 | [190059-lucky-tlhalerwa-super-incursion.json](./190059-lucky-tlhalerwa-super-incursion.json) |
@@ -7513,6 +7517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludo Blitz | 58751 | [58751-ludo-blitz.json](./58751-ludo-blitz.json) |
 | Ludo King | 169778 | [169778-ludo-king.json](./169778-ludo-king.json) |
 | Ludo Live!: Heroes and Strategy | 242661 | [242661-ludo-live-heroes-and-strategy.json](./242661-ludo-live-heroes-and-strategy.json) |
+| Ludo Master | 54175 | [54175-ludo-master.json](./54175-ludo-master.json) |
 | Ludo Okpo | 237508 | [237508-ludo-okpo.json](./237508-ludo-okpo.json) |
 | Ludo Online | 89583 | [89583-ludo-online.json](./89583-ludo-online.json) |
 | Ludo Park | 257342 | [257342-ludo-park.json](./257342-ludo-park.json) |
