@@ -8918,6 +8918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Quartz | 139894 | [139894-pokemon-quartz.json](./139894-pokemon-quartz.json) |
 | Pokémon Quest | 102874 | [102874-pokemon-quest.json](./102874-pokemon-quest.json) |
 | Pokémon R.O.W.E. | 305876 | [305876-pokemon-r-o-w-e.json](./305876-pokemon-r-o-w-e.json) |
+| Pokémon Race Mini | 91823 | [91823-pokemon-race-mini.json](./91823-pokemon-race-mini.json) |
 | Pokémon Ranger Star | 387058 | [387058-pokemon-ranger-star.json](./387058-pokemon-ranger-star.json) |
 | Pokémon Ranger: Guardian Signs | 4565 | [4565-pokemon-ranger-guardian-signs.json](./4565-pokemon-ranger-guardian-signs.json) |
 | Pokémon Ranger: Shadows of Almia | 14699 | [14699-pokemon-ranger-shadows-of-almia.json](./14699-pokemon-ranger-shadows-of-almia.json) |
@@ -10747,6 +10748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerball | 45779 | [45779-powerball.json](./45779-powerball.json) |
 | Powerball: Monster's Quest | 329697 | [329697-powerball-monsters-quest.json](./329697-powerball-monsters-quest.json) |
 | PowerBeatsVR | 113557 | [113557-powerbeatsvr.json](./113557-powerbeatsvr.json) |
+| Powerbike | 91712 | [91712-powerbike.json](./91712-powerbike.json) |
 | Powerboat Challenge | 97985 | [97985-powerboat-challenge.json](./97985-powerboat-challenge.json) |
 | PowerBoat Mega Ramp Racing | 105829 | [105829-powerboat-mega-ramp-racing.json](./105829-powerboat-mega-ramp-racing.json) |
 | Powerboat Racing | 129509 | [129509-powerboat-racing.json](./129509-powerboat-racing.json) |
@@ -11808,6 +11810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Bowling | 385781 | [385781-pro-bowling.json](./385781-pro-bowling.json) |
 | Pro Boxing Simulator | 12723 | [12723-pro-boxing-simulator.json](./12723-pro-boxing-simulator.json) |
 | Pro Bus Driver 2 | 293482 | [293482-pro-bus-driver-2.json](./293482-pro-bus-driver-2.json) |
+| Pro Cast Sports Fishing | 91678 | [91678-pro-cast-sports-fishing.json](./91678-pro-cast-sports-fishing.json) |
 | Pro Crack | 247026 | [247026-pro-crack.json](./247026-pro-crack.json) |
 | Pro Cycling 2008 | 44490 | [44490-pro-cycling-2008.json](./44490-pro-cycling-2008.json) |
 | Pro Cycling 2009 | 68004 | [68004-pro-cycling-2009.json](./68004-pro-cycling-2009.json) |
@@ -13782,6 +13785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppertrator | 185399 | [185399-puppertrator.json](./185399-puppertrator.json) |
 | Puppet Fever | 72321 | [72321-puppet-fever.json](./72321-puppet-fever.json) |
 | Puppet Kings | 82853 | [82853-puppet-kings.json](./82853-puppet-kings.json) |
+| Puppet Knight | 91819 | [91819-puppet-knight.json](./91819-puppet-knight.json) |
 | Puppet Master RPG | 94786 | [94786-puppet-master-rpg.json](./94786-puppet-master-rpg.json) |
 | Puppet Master: Full Moon Toys - Totem & Mephisto Skins | 267794 | [267794-puppet-master-full-moon-toys-totem-and-mephisto-skins.json](./267794-puppet-master-full-moon-toys-totem-and-mephisto-skins.json) |
 | Puppet Master: The Game | 224610 | [224610-puppet-master-the-game.json](./224610-puppet-master-the-game.json) |
