@@ -1772,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusions | 40893 | [40893-illusions.json](./40893-illusions.json) |
 | Illusions 360 | 67971 | [67971-illusions-360.json](./67971-illusions-360.json) |
 | Illusory Dreamlight 1: Deprimerie | 186174 | [186174-illusory-dreamlight-1-deprimerie.json](./186174-illusory-dreamlight-1-deprimerie.json) |
+| Illust Logic DS + Colorful Logic | 61976 | [61976-illust-logic-ds-colorful-logic.json](./61976-illust-logic-ds-colorful-logic.json) |
 | Illustack | 401041 | [401041-illustack.json](./401041-illustack.json) |
 | Illuvium | 198140 | [198140-illuvium.json](./198140-illuvium.json) |
 | Illvelo Swamp Happy Together | 383529 | [383529-illvelo-swamp-happy-together.json](./383529-illvelo-swamp-happy-together.json) |
