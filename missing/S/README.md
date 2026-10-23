@@ -2792,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scramble Up! | 324316 | [324316-scramble-up.json](./324316-scramble-up.json) |
 | Scramble: Battle of Britain | 147188 | [147188-scramble-battle-of-britain.json](./147188-scramble-battle-of-britain.json) |
 | Scrambled | 58163 | [58163-scrambled.json](./58163-scrambled.json) |
+| Scrambled | 79680 | [79680-scrambled.json](./79680-scrambled.json) |
 | Scrambled Egg | 40198 | [40198-scrambled-egg.json](./40198-scrambled-egg.json) |
 | Scrambled: Syd City | 178896 | [178896-scrambled-syd-city.json](./178896-scrambled-syd-city.json) |
 | Scramblies | 58181 | [58181-scramblies.json](./58181-scramblies.json) |
@@ -3302,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seals of the Bygone | 120572 | [120572-seals-of-the-bygone.json](./120572-seals-of-the-bygone.json) |
 | Seaman | 9130 | [9130-seaman.json](./9130-seaman.json) |
 | Seaman 2 | 11446 | [11446-seaman-2.json](./11446-seaman-2.json) |
+| Seaman Count | 79662 | [79662-seaman-count.json](./79662-seaman-count.json) |
 | Seamongrel | 342269 | [342269-seamongrel.json](./342269-seamongrel.json) |
 | Seance | 156198 | [156198-seance.json](./156198-seance.json) |
 | Seance | 358955 | [358955-seance.json](./358955-seance.json) |
@@ -5180,6 +5182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Archer Special | 214452 | [214452-shadow-archer-special.json](./214452-shadow-archer-special.json) |
 | Shadow Archery | 96276 | [96276-shadow-archery.json](./96276-shadow-archery.json) |
 | Shadow Arena | 125357 | [125357-shadow-arena.json](./125357-shadow-arena.json) |
+| Shadow Assault: Tenchu | 79709 | [79709-shadow-assault-tenchu.json](./79709-shadow-assault-tenchu.json) |
 | Shadow Asylum | 180610 | [180610-shadow-asylum.json](./180610-shadow-asylum.json) |
 | Shadow at school | 359854 | [359854-shadow-at-school.json](./359854-shadow-at-school.json) |
 | Shadow Bashing | 339862 | [339862-shadow-bashing.json](./339862-shadow-bashing.json) |
@@ -6653,6 +6656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Force EXA | 19254 | [19254-shining-force-exa.json](./19254-shining-force-exa.json) |
 | Shining Force Feather | 47720 | [47720-shining-force-feather.json](./47720-shining-force-feather.json) |
 | Shining Force III | 28396 | [28396-shining-force-iii.json](./28396-shining-force-iii.json) |
+| Shining Force III Scenario 3 | 79706 | [79706-shining-force-iii-scenario-3.json](./79706-shining-force-iii-scenario-3.json) |
 | Shining Force III: 2nd Scenario | 46062 | [46062-shining-force-iii-2nd-scenario.json](./46062-shining-force-iii-2nd-scenario.json) |
 | Shining Force III: 3rd Scenario | 46061 | [46061-shining-force-iii-3rd-scenario.json](./46061-shining-force-iii-3rd-scenario.json) |
 | Shining Force: Hero of Light and Darkness | 188348 | [188348-shining-force-hero-of-light-and-darkness.json](./188348-shining-force-hero-of-light-and-darkness.json) |
@@ -12164,6 +12168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowbrawll | 235461 | [235461-snowbrawll.json](./235461-snowbrawll.json) |
 | Snowcat Simulator | 9479 | [9479-snowcat-simulator.json](./9479-snowcat-simulator.json) |
 | Snowcat Simulator 2011 | 9480 | [9480-snowcat-simulator-2011.json](./9480-snowcat-simulator-2011.json) |
+| Snowcraft | 79725 | [79725-snowcraft.json](./79725-snowcraft.json) |
 | Snowcrash | 135876 | [135876-snowcrash.json](./135876-snowcrash.json) |
 | SnowCross | 50067 | [50067-snowcross.json](./50067-snowcross.json) |
 | Snowday | 31629 | [31629-snowday.json](./31629-snowday.json) |
@@ -16041,6 +16046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacewar | 181938 | [181938-spacewar.json](./181938-spacewar.json) |
 | SpacewAR Uprising | 101415 | [101415-spacewar-uprising.json](./101415-spacewar-uprising.json) |
 | Spaceward Ho! | 47296 | [47296-spaceward-ho.json](./47296-spaceward-ho.json) |
+| Spaceward Ho! IV | 79700 | [79700-spaceward-ho-iv.json](./79700-spaceward-ho-iv.json) |
 | Spacewars: Interstellar Empire | 57758 | [57758-spacewars-interstellar-empire.json](./57758-spacewars-interstellar-empire.json) |
 | Spacewind The Zeppelin | 292587 | [292587-spacewind-the-zeppelin.json](./292587-spacewind-the-zeppelin.json) |
 | Spacewing War | 200942 | [200942-spacewing-war.json](./200942-spacewing-war.json) |
@@ -16349,6 +16355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectre | 159226 | [159226-spectre.json](./159226-spectre.json) |
 | Spectre | 17674 | [17674-spectre.json](./17674-spectre.json) |
 | Spectre | 59846 | [59846-spectre.json](./59846-spectre.json) |
+| Spectre | 79676 | [79676-spectre.json](./79676-spectre.json) |
 | Spectre Divide | 311967 | [311967-spectre-divide.json](./311967-spectre-divide.json) |
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
 | Spectre Vigil | 342785 | [342785-spectre-vigil.json](./342785-spectre-vigil.json) |
@@ -22050,6 +22057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter IV: Collector's Edition | 44570 | [44570-street-fighter-iv-collectors-edition.json](./44570-street-fighter-iv-collectors-edition.json) |
 | Street Fighter ONE | 215075 | [215075-street-fighter-one.json](./215075-street-fighter-one.json) |
 | Street Fighter Online: Mouse Generation | 55061 | [55061-street-fighter-online-mouse-generation.json](./55061-street-fighter-online-mouse-generation.json) |
+| Street Fighter Series | 79696 | [79696-street-fighter-series.json](./79696-street-fighter-series.json) |
 | Street Fighter V - Chun-Li Costumes Bundle | 118687 | [118687-street-fighter-v-chun-li-costumes-bundle.json](./118687-street-fighter-v-chun-li-costumes-bundle.json) |
 | Street Fighter V - Ryu Costumes Bundle | 118689 | [118689-street-fighter-v-ryu-costumes-bundle.json](./118689-street-fighter-v-ryu-costumes-bundle.json) |
 | Street Fighter V: 2016 Halloween Costume Bundle | 343899 | [343899-street-fighter-v-2016-halloween-costume-bundle.json](./343899-street-fighter-v-2016-halloween-costume-bundle.json) |
