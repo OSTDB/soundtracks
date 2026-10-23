@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UG | 370848 | [370848-ug.json](./370848-ug.json) |
 | Ug! Caveman Game | 198528 | [198528-ug-caveman-game.json](./198528-ug-caveman-game.json) |
 | Ugandan Knuckles Pet | 96300 | [96300-ugandan-knuckles-pet.json](./96300-ugandan-knuckles-pet.json) |
+| Ugandan Knuckles Simulator. Meme Salvation 3D | 96575 | [96575-ugandan-knuckles-simulator-meme-salvation-3d.json](./96575-ugandan-knuckles-simulator-meme-salvation-3d.json) |
 | Ugandan Knuckles VR | 223883 | [223883-ugandan-knuckles-vr.json](./223883-ugandan-knuckles-vr.json) |
 | Ugetsu Kitan | 57362 | [57362-ugetsu-kitan.json](./57362-ugetsu-kitan.json) |
 | Uggies Garden | 128472 | [128472-uggies-garden.json](./128472-uggies-garden.json) |
