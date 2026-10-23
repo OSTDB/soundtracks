@@ -5078,6 +5078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Oldies 1: Guardian and Invaders | 45928 | [45928-golden-oldies-1-guardian-and-invaders.json](./45928-golden-oldies-1-guardian-and-invaders.json) |
 | Golden Oldies 2: Blockbuster and Bughunt | 45927 | [45927-golden-oldies-2-blockbuster-and-bughunt.json](./45927-golden-oldies-2-blockbuster-and-bughunt.json) |
 | Golden Oldies Jukebox CD-I : An Interactive Music Video Experience | 46548 | [46548-golden-oldies-jukebox-cd-i-an-interactive-music-video-experience.json](./46548-golden-oldies-jukebox-cd-i-an-interactive-music-video-experience.json) |
+| Golden Oldies Volume 1: Computer Software Classics | 73112 | [73112-golden-oldies-volume-1-computer-software-classics.json](./73112-golden-oldies-volume-1-computer-software-classics.json) |
 | Golden Racing | 335958 | [335958-golden-racing.json](./335958-golden-racing.json) |
 | Golden Rails: Harvest of Riddles | 278519 | [278519-golden-rails-harvest-of-riddles.json](./278519-golden-rails-harvest-of-riddles.json) |
 | Golden Rails: Road to Klondike | 191833 | [191833-golden-rails-road-to-klondike.json](./191833-golden-rails-road-to-klondike.json) |
