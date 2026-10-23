@@ -4236,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Stacky | 291589 | [291589-air-stacky.json](./291589-air-stacky.json) |
 | Air Star | 239759 | [239759-air-star.json](./239759-air-star.json) |
 | Air Strike HD | 88501 | [88501-air-strike-hd.json](./88501-air-strike-hd.json) |
+| Air Strike USA | 47029 | [47029-air-strike-usa.json](./47029-air-strike-usa.json) |
 | AIR Summer Solstice | 308416 | [308416-air-summer-solstice.json](./308416-air-summer-solstice.json) |
 | Air Supply | 14156 | [14156-air-supply.json](./14156-air-supply.json) |
 | Air Supply Infinite | 175583 | [175583-air-supply-infinite.json](./175583-air-supply-infinite.json) |
@@ -4822,6 +4823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alcantor | 14162 | [14162-alcantor.json](./14162-alcantor.json) |
 | Alcatraz | 223928 | [223928-alcatraz.json](./223928-alcatraz.json) |
 | Alcatraz | 288748 | [288748-alcatraz.json](./288748-alcatraz.json) |
+| Alcatraz | 47048 | [47048-alcatraz.json](./47048-alcatraz.json) |
 | Alcatraz: Prison Escape | 27452 | [27452-alcatraz-prison-escape.json](./27452-alcatraz-prison-escape.json) |
 | Alcatraz: VR Escape Room | 29938 | [29938-alcatraz-vr-escape-room.json](./29938-alcatraz-vr-escape-room.json) |
 | Alcazar | 86184 | [86184-alcazar.json](./86184-alcazar.json) |
@@ -10438,6 +10440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archon | 375399 | [375399-archon.json](./375399-archon.json) |
 | Archon | 5539 | [5539-archon.json](./5539-archon.json) |
 | Archon Classic | 16208 | [16208-archon-classic.json](./16208-archon-classic.json) |
+| Archon Ultra | 47028 | [47028-archon-ultra.json](./47028-archon-ultra.json) |
 | Archon-9: Alien Defense | 150249 | [150249-archon-9-alien-defense.json](./150249-archon-9-alien-defense.json) |
 | Archon: Initiator | 339920 | [339920-archon-initiator.json](./339920-archon-initiator.json) |
 | Archons of Doom | 155865 | [155865-archons-of-doom.json](./155865-archons-of-doom.json) |
@@ -12211,6 +12214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Suits Valken | 375386 | [375386-assault-suits-valken.json](./375386-assault-suits-valken.json) |
 | Assault Suits Valken 2 | 44750 | [44750-assault-suits-valken-2.json](./44750-assault-suits-valken-2.json) |
 | Assault Suits Valken Declassified | 240410 | [240410-assault-suits-valken-declassified.json](./240410-assault-suits-valken-declassified.json) |
+| Assault Trooper | 47021 | [47021-assault-trooper.json](./47021-assault-trooper.json) |
 | Assault Wing | 274517 | [274517-assault-wing.json](./274517-assault-wing.json) |
 | AssaultCube | 9530 | [9530-assaultcube.json](./9530-assaultcube.json) |
 | AssaultCube Reloaded | 130611 | [130611-assaultcube-reloaded.json](./130611-assaultcube-reloaded.json) |
