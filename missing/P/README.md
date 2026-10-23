@@ -3292,6 +3292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penitence | 201684 | [201684-penitence.json](./201684-penitence.json) |
 | Penkura | 110860 | [110860-penkura.json](./110860-penkura.json) |
 | Penky | 267937 | [267937-penky.json](./267937-penky.json) |
+| Penn & Teller's Smoke and Mirrors | 46412 | [46412-penn-and-tellers-smoke-and-mirrors.json](./46412-penn-and-tellers-smoke-and-mirrors.json) |
 | Penn Guiny | 316369 | [316369-penn-guiny.json](./316369-penn-guiny.json) |
 | Penni's Adventure | 258505 | [258505-pennis-adventure.json](./258505-pennis-adventure.json) |
 | Pennies 12 | 393636 | [393636-pennies-12.json](./393636-pennies-12.json) |
@@ -12078,6 +12079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Pinball Ultra | 36376 | [36376-pro-pinball-ultra.json](./36376-pro-pinball-ultra.json) |
 | Pro Pinball: Fantastic Journey | 43877 | [43877-pro-pinball-fantastic-journey.json](./43877-pro-pinball-fantastic-journey.json) |
 | Pro Pinball: Timeshock! | 12905 | [12905-pro-pinball-timeshock.json](./12905-pro-pinball-timeshock.json) |
+| Pro Pinball: Trilogy | 46372 | [46372-pro-pinball-trilogy.json](./46372-pro-pinball-trilogy.json) |
 | Pro Pool | 49952 | [49952-pro-pool.json](./49952-pro-pool.json) |
 | Pro Power Boat | 279693 | [279693-pro-power-boat.json](./279693-pro-power-boat.json) |
 | Pro Powerboat Simulator | 79097 | [79097-pro-powerboat-simulator.json](./79097-pro-powerboat-simulator.json) |
@@ -12137,6 +12139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Spirits 3 | 91726 | [91726-pro-yakyuu-spirits-3.json](./91726-pro-yakyuu-spirits-3.json) |
 | Pro Yakyuu Spirits A | 59344 | [59344-pro-yakyuu-spirits-a.json](./59344-pro-yakyuu-spirits-a.json) |
 | Pro Yakyuu Star | 37872 | [37872-pro-yakyuu-star.json](./37872-pro-yakyuu-star.json) |
+| Pro Yakyuu Super League CD | 46386 | [46386-pro-yakyuu-super-league-cd.json](./46386-pro-yakyuu-super-league-cd.json) |
 | Pro Yakyuu Team de Asobou Net! | 125932 | [125932-pro-yakyuu-team-de-asobou-net.json](./125932-pro-yakyuu-team-de-asobou-net.json) |
 | Pro Yakyuu Team de Asobou! | 136708 | [136708-pro-yakyuu-team-de-asobou.json](./136708-pro-yakyuu-team-de-asobou.json) |
 | Pro Yakyuu Team wo Tsukurou! | 69269 | [69269-pro-yakyuu-team-wo-tsukurou.json](./69269-pro-yakyuu-team-wo-tsukurou.json) |
