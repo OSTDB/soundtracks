@@ -2149,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reach for the Skies | 12740 | [12740-reach-for-the-skies.json](./12740-reach-for-the-skies.json) |
 | Reach for the Sky | 133671 | [133671-reach-for-the-sky.json](./133671-reach-for-the-sky.json) |
 | Reach for the Stars | 324585 | [324585-reach-for-the-stars.json](./324585-reach-for-the-stars.json) |
+| Reach Me | 76362 | [76362-reach-me.json](./76362-reach-me.json) |
 | Reach of the River | 419927 | [419927-reach-of-the-river.json](./419927-reach-of-the-river.json) |
 | Reach the Beat | 297900 | [297900-reach-the-beat.json](./297900-reach-the-beat.json) |
 | Reach the light | 260871 | [260871-reach-the-light.json](./260871-reach-the-light.json) |
@@ -3303,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption: Liar | 65221 | [65221-redemption-liar.json](./65221-redemption-liar.json) |
 | Redemption: Wrath of Sin | 265568 | [265568-redemption-wrath-of-sin.json](./265568-redemption-wrath-of-sin.json) |
 | Redemption? | 265110 | [265110-redemption.json](./265110-redemption.json) |
+| Redemption's Guild | 76417 | [76417-redemptions-guild.json](./76417-redemptions-guild.json) |
 | Redemptoris: Isekai | 186079 | [186079-redemptoris-isekai.json](./186079-redemptoris-isekai.json) |
 | RedEx | 163956 | [163956-redex.json](./163956-redex.json) |
 | Redfall: Steelbook Launch Edition | 350534 | [350534-redfall-steelbook-launch-edition.json](./350534-redfall-steelbook-launch-edition.json) |
@@ -3528,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refoil | 115351 | [115351-refoil.json](./115351-refoil.json) |
 | Reforged TD | 150586 | [150586-reforged-td.json](./150586-reforged-td.json) |
 | Reforj | 317076 | [317076-reforj.json](./317076-reforj.json) |
+| Reformers | 76405 | [76405-reformers.json](./76405-reformers.json) |
 | Reformers Intl Ver | 102250 | [102250-reformers-intl-ver.json](./102250-reformers-intl-ver.json) |
 | Reformpunk | 367604 | [367604-reformpunk.json](./367604-reformpunk.json) |
 | Refract | 43162 | [43162-refract.json](./43162-refract.json) |
@@ -7416,6 +7419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Arena: Season 1 | 139049 | [139049-rocket-arena-season-1.json](./139049-rocket-arena-season-1.json) |
 | Rocket Arena: Season 2 | 144043 | [144043-rocket-arena-season-2.json](./144043-rocket-arena-season-2.json) |
 | Rocket Arena: Season 3 | 144044 | [144044-rocket-arena-season-3.json](./144044-rocket-arena-season-3.json) |
+| Rocket Armor | 76363 | [76363-rocket-armor.json](./76363-rocket-armor.json) |
 | Rocket Bits | 196311 | [196311-rocket-bits.json](./196311-rocket-bits.json) |
 | Rocket Boots Mania | 112218 | [112218-rocket-boots-mania.json](./112218-rocket-boots-mania.json) |
 | Rocket Bots | 155941 | [155941-rocket-bots.json](./155941-rocket-bots.json) |
