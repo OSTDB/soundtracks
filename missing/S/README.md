@@ -4055,6 +4055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Touring Car Championship | 39795 | [39795-sega-touring-car-championship.json](./39795-sega-touring-car-championship.json) |
 | Sega Vintage Collection: Alex Kidd & Co. | 79259 | [79259-sega-vintage-collection-alex-kidd-and-co.json](./79259-sega-vintage-collection-alex-kidd-and-co.json) |
 | Sega Vintage Collection: ToeJam & Earl | 85812 | [85812-sega-vintage-collection-toejam-and-earl.json](./85812-sega-vintage-collection-toejam-and-earl.json) |
+| Sega VR-1 | 61963 | [61963-sega-vr-1.json](./61963-sega-vr-1.json) |
 | Sega vs. Capcom: The Next Level | 314615 | [314615-sega-vs-capcom-the-next-level.json](./314615-sega-vs-capcom-the-next-level.json) |
 | Sega Water Ski | 39470 | [39470-sega-water-ski.json](./39470-sega-water-ski.json) |
 | Sega World Drivers Championship | 293742 | [293742-sega-world-drivers-championship.json](./293742-sega-world-drivers-championship.json) |
@@ -5169,6 +5170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGS Spain at War | 197187 | [197187-sgs-spain-at-war.json](./197187-sgs-spain-at-war.json) |
 | SGS Taipings | 230923 | [230923-sgs-taipings.json](./230923-sgs-taipings.json) |
 | SGS We The People | 388972 | [388972-sgs-we-the-people.json](./388972-sgs-we-the-people.json) |
+| Sgt. Rock: On the Frontline | 62056 | [62056-sgt-rock-on-the-frontline.json](./62056-sgt-rock-on-the-frontline.json) |
 | SgyuinBaldo | 151436 | [151436-sgyuinbaldo.json](./151436-sgyuinbaldo.json) |
 | Sh*thead | 292748 | [292748-sh-thead.json](./292748-sh-thead.json) |
 | Sha Beast Dressage | 371269 | [371269-sha-beast-dressage.json](./371269-sha-beast-dressage.json) |
@@ -8982,6 +8984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singles: Flirt up your life | 18935 | [18935-singles-flirt-up-your-life.json](./18935-singles-flirt-up-your-life.json) |
 | Singles' Generation | 150479 | [150479-singles-generation.json](./150479-singles-generation.json) |
 | Singmetosleep | 392762 | [392762-singmetosleep.json](./392762-singmetosleep.json) |
+| SingOn | 61962 | [61962-singon.json](./61962-singon.json) |
 | SingSpace | 128458 | [128458-singspace.json](./128458-singspace.json) |
 | SingStar | 15180 | [15180-singstar.json](./15180-singstar.json) |
 | Singstar Aprés-Ski Party | 136394 | [136394-singstar-apres-ski-party.json](./136394-singstar-apres-ski-party.json) |
@@ -10309,6 +10312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slasher's Keep | 76256 | [76256-slashers-keep.json](./76256-slashers-keep.json) |
 | SlasherRPG | 224515 | [224515-slasherrpg.json](./224515-slasherrpg.json) |
 | Slashers: Great Circus | 220701 | [220701-slashers-great-circus.json](./220701-slashers-great-circus.json) |
+| Slashers: The Power Battle | 61970 | [61970-slashers-the-power-battle.json](./61970-slashers-the-power-battle.json) |
 | Slashes | 276086 | [276086-slashes.json](./276086-slashes.json) |
 | Slashing Knight | 403053 | [403053-slashing-knight.json](./403053-slashing-knight.json) |
 | Slashing Night | 340365 | [340365-slashing-night.json](./340365-slashing-night.json) |
@@ -28424,6 +28428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synaxarion Christian Stories: Holy Martyr Neophytos | 313228 | [313228-synaxarion-christian-stories-holy-martyr-neophytos.json](./313228-synaxarion-christian-stories-holy-martyr-neophytos.json) |
 | Synaxarion: Great Martyr Theodore the Tyro | 306536 | [306536-synaxarion-great-martyr-theodore-the-tyro.json](./306536-synaxarion-great-martyr-theodore-the-tyro.json) |
 | Sync | 296802 | [296802-sync.json](./296802-sync.json) |
+| Sync | 61978 | [61978-sync.json](./61978-sync.json) |
 | Sync Together | 390109 | [390109-sync-together.json](./390109-sync-together.json) |
 | Sync Your Mind | 287748 | [287748-sync-your-mind.json](./287748-sync-your-mind.json) |
 | Sync: Party Hard | 146845 | [146845-sync-party-hard.json](./146845-sync-party-hard.json) |
