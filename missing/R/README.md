@@ -6637,6 +6637,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rô + Fire Race + Scrap Bolts + Milk Seller + Home Sweet Home + Rafa's World | 306552 | [306552-ro-fire-race-scrap-bolts-milk-seller-home-sweet-home-rafas-world.json](./306552-ro-fire-race-scrap-bolts-milk-seller-home-sweet-home-rafas-world.json) |
 | Ro Sham Bo Rush | 252142 | [252142-ro-sham-bo-rush.json](./252142-ro-sham-bo-rush.json) |
 | Ro-Bounce | 201543 | [201543-ro-bounce.json](./201543-ro-bounce.json) |
+| Ro-Kyu-Bu! Himitsu no Otoshimono | 61406 | [61406-ro-kyu-bu-himitsu-no-otoshimono.json](./61406-ro-kyu-bu-himitsu-no-otoshimono.json) |
+| Ro-Kyuu-Bu! | 61408 | [61408-ro-kyuu-bu.json](./61408-ro-kyuu-bu.json) |
 | RO: Idle Poring | 74770 | [74770-ro-idle-poring.json](./74770-ro-idle-poring.json) |
 | Roach Hotel | 286121 | [286121-roach-hotel.json](./286121-roach-hotel.json) |
 | Roach Invasion | 246802 | [246802-roach-invasion.json](./246802-roach-invasion.json) |
