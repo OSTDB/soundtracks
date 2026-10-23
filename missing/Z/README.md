@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zippy Zombi | 73813 | [73813-zippy-zombi.json](./73813-zippy-zombi.json) |
 | Ziq | 105068 | [105068-ziq.json](./105068-ziq.json) |
 | Ziria | 106091 | [106091-ziria.json](./106091-ziria.json) |
+| Ziriax | 80305 | [80305-ziriax.json](./80305-ziriax.json) |
 | Zirkus-Simulator 2013 | 52781 | [52781-zirkus-simulator-2013.json](./52781-zirkus-simulator-2013.json) |
 | Zissi's Island | 31644 | [31644-zissis-island.json](./31644-zissis-island.json) |
 | Zitifono | 362715 | [362715-zitifono.json](./362715-zitifono.json) |
@@ -1794,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoological Era | 110546 | [110546-zoological-era.json](./110546-zoological-era.json) |
 | Zoolovelogy | 236504 | [236504-zoolovelogy.json](./236504-zoolovelogy.json) |
 | Zoom | 356025 | [356025-zoom.json](./356025-zoom.json) |
+| Zoom | 80351 | [80351-zoom.json](./80351-zoom.json) |
 | Zoom 909 | 6144 | [6144-zoom-909.json](./6144-zoom-909.json) |
 | Zoom: Paparazzi in Action | 344453 | [344453-zoom-paparazzi-in-action.json](./344453-zoom-paparazzi-in-action.json) |
 | Zoom! | 28001 | [28001-zoom.json](./28001-zoom.json) |
