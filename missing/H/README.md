@@ -2458,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Panic | 39683 | [39683-head-panic.json](./39683-head-panic.json) |
 | Head Reattachment Trauma | 271249 | [271249-head-reattachment-trauma.json](./271249-head-reattachment-trauma.json) |
 | Head Shot | 32472 | [32472-head-shot.json](./32472-head-shot.json) |
+| Head Shot 2 | 67077 | [67077-head-shot-2.json](./67077-head-shot-2.json) |
 | Head Shot God | 79523 | [79523-head-shot-god.json](./79523-head-shot-god.json) |
 | Head Soccer | 260094 | [260094-head-soccer.json](./260094-head-soccer.json) |
 | Head Soccer | 87430 | [87430-head-soccer.json](./87430-head-soccer.json) |
@@ -7998,6 +7999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrible Area | 277710 | [277710-horrible-area.json](./277710-horrible-area.json) |
 | Horrible Histories: Ruthless Romans | 21286 | [21286-horrible-histories-ruthless-romans.json](./21286-horrible-histories-ruthless-romans.json) |
 | Horribunnies | 130178 | [130178-horribunnies.json](./130178-horribunnies.json) |
+| Horrid Henry | 67089 | [67089-horrid-henry.json](./67089-horrid-henry.json) |
 | Horrid Henry's Horrid Adventure | 269630 | [269630-horrid-henrys-horrid-adventure.json](./269630-horrid-henrys-horrid-adventure.json) |
 | Horrid Henry's Krazy Karts | 187451 | [187451-horrid-henrys-krazy-karts.json](./187451-horrid-henrys-krazy-karts.json) |
 | Horripilant | 342102 | [342102-horripilant.json](./342102-horripilant.json) |
@@ -10125,6 +10127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnagogia: Broken Dreams | 398266 | [398266-hypnagogia-broken-dreams.json](./398266-hypnagogia-broken-dreams.json) |
 | Hypnagonia | 199264 | [199264-hypnagonia.json](./199264-hypnagonia.json) |
 | Hypno Tetris | 269469 | [269469-hypno-tetris.json](./269469-hypno-tetris.json) |
+| Hypno Vol. 1 | 67063 | [67063-hypno-vol-1.json](./67063-hypno-vol-1.json) |
 | Hypno-Mart | 246815 | [246815-hypno-mart.json](./246815-hypno-mart.json) |
 | Hypno's Lullaby | 140537 | [140537-hypnos-lullaby.json](./140537-hypnos-lullaby.json) |
 | HypnoCuck: The Arrogant Rich Bitch Till She Falls | 82761 | [82761-hypnocuck-the-arrogant-rich-bitch-till-she-falls.json](./82761-hypnocuck-the-arrogant-rich-bitch-till-she-falls.json) |
