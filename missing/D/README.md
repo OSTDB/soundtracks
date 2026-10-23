@@ -3921,6 +3921,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decide Your Fate | 405694 | [405694-decide-your-fate.json](./405694-decide-your-fate.json) |
 | Decidit | 317328 | [317328-decidit.json](./317328-decidit.json) |
 | Decimal | 192659 | [192659-decimal.json](./192659-decimal.json) |
+| Decimals | 44355 | [44355-decimals.json](./44355-decimals.json) |
+| Decimals 2 | 44356 | [44356-decimals-2.json](./44356-decimals-2.json) |
 | Decimated | 206358 | [206358-decimated.json](./206358-decimated.json) |
 | Decimation X | 66374 | [66374-decimation-x.json](./66374-decimation-x.json) |
 | Decipher the Deck | 309473 | [309473-decipher-the-deck.json](./309473-decipher-the-deck.json) |
@@ -5009,6 +5011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Derby 4 | 200752 | [200752-demolition-derby-4.json](./200752-demolition-derby-4.json) |
 | Demolition Derby Multiplayer | 269087 | [269087-demolition-derby-multiplayer.json](./269087-demolition-derby-multiplayer.json) |
 | Demolition Derby Reloaded | 303219 | [303219-demolition-derby-reloaded.json](./303219-demolition-derby-reloaded.json) |
+| Demolition Division | 44354 | [44354-demolition-division.json](./44354-demolition-division.json) |
 | Demolition Dodge | 233114 | [233114-demolition-dodge.json](./233114-demolition-dodge.json) |
 | Demolition Engineer | 99660 | [99660-demolition-engineer.json](./99660-demolition-engineer.json) |
 | Demolition Expert: The Simulation | 141617 | [141617-demolition-expert-the-simulation.json](./141617-demolition-expert-the-simulation.json) |
@@ -5259,6 +5262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DemonStar: Original Missions | 272391 | [272391-demonstar-original-missions.json](./272391-demonstar-original-missions.json) |
 | DemonSteele | 134443 | [134443-demonsteele.json](./134443-demonsteele.json) |
 | DemonsTier | 61647 | [61647-demonstier.json](./61647-demonstier.json) |
+| Demonstration | 44353 | [44353-demonstration.json](./44353-demonstration.json) |
 | Demonworld | 99691 | [99691-demonworld.json](./99691-demonworld.json) |
 | Demonworld: Dark Armies | 73841 | [73841-demonworld-dark-armies.json](./73841-demonworld-dark-armies.json) |
 | Demonworld: Hell Boss Fight | 416839 | [416839-demonworld-hell-boss-fight.json](./416839-demonworld-hell-boss-fight.json) |
@@ -13276,6 +13280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DriveWave | 374953 | [374953-drivewave.json](./374953-drivewave.json) |
 | Driving Academy 2018 Simulator | 86972 | [86972-driving-academy-2018-simulator.json](./86972-driving-academy-2018-simulator.json) |
 | Driving Alone at Night | 181797 | [181797-driving-alone-at-night.json](./181797-driving-alone-at-night.json) |
+| Driving Demon | 44370 | [44370-driving-demon.json](./44370-driving-demon.json) |
 | Driving Essentials | 37071 | [37071-driving-essentials.json](./37071-driving-essentials.json) |
 | Driving Force | 340214 | [340214-driving-force.json](./340214-driving-force.json) |
 | Driving Home | 230245 | [230245-driving-home.json](./230245-driving-home.json) |
