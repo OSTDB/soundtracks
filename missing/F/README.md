@@ -4835,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FireFall | 3013 | [3013-firefall.json](./3013-firefall.json) |
 | Firefight | 121746 | [121746-firefight.json](./121746-firefight.json) |
 | Firefight | 21411 | [21411-firefight.json](./21411-firefight.json) |
+| Firefight Reloaded | 59293 | [59293-firefight-reloaded.json](./59293-firefight-reloaded.json) |
 | Firefight! | 128251 | [128251-firefight.json](./128251-firefight.json) |
 | Firefighter | 154875 | [154875-firefighter.json](./154875-firefighter.json) |
 | Firefighter Command: Raging Inferno | 22631 | [22631-firefighter-command-raging-inferno.json](./22631-firefighter-command-raging-inferno.json) |
@@ -8918,6 +8919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fran Bow Chapter 1 | 90962 | [90962-fran-bow-chapter-1.json](./90962-fran-bow-chapter-1.json) |
 | Fran Bow Chapter 4 | 91996 | [91996-fran-bow-chapter-4.json](./91996-fran-bow-chapter-4.json) |
 | Fran Bow Chapter 5 | 375346 | [375346-fran-bow-chapter-5.json](./375346-fran-bow-chapter-5.json) |
+| France '14 | 59184 | [59184-france-14.json](./59184-france-14.json) |
 | Franchise Hockey Manager 10 | 273894 | [273894-franchise-hockey-manager-10.json](./273894-franchise-hockey-manager-10.json) |
 | Franchise Hockey Manager 12 | 371750 | [371750-franchise-hockey-manager-12.json](./371750-franchise-hockey-manager-12.json) |
 | Franchise Hockey Manager 2013 | 63352 | [63352-franchise-hockey-manager-2013.json](./63352-franchise-hockey-manager-2013.json) |
