@@ -1935,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zulin Time | 116718 | [116718-zulin-time.json](./116718-zulin-time.json) |
 | Zulkania | 338323 | [338323-zulkania.json](./338323-zulkania.json) |
 | Zulu | 365287 | [365287-zulu.json](./365287-zulu.json) |
+| Zulu Hour | 59723 | [59723-zulu-hour.json](./59723-zulu-hour.json) |
 | Zulup | 129021 | [129021-zulup.json](./129021-zulup.json) |
 | Zuma | 247056 | [247056-zuma.json](./247056-zuma.json) |
 | Zuma Blitz | 66004 | [66004-zuma-blitz.json](./66004-zuma-blitz.json) |
