@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac & Pal | 18381 | [18381-pac-and-pal.json](./18381-pac-and-pal.json) |
 | Pac 16 | 313499 | [313499-pac-16.json](./313499-pac-16.json) |
 | Pac Adventures 3D | 105307 | [105307-pac-adventures-3d.json](./105307-pac-adventures-3d.json) |
+| Pac Brothers | 47025 | [47025-pac-brothers.json](./47025-pac-brothers.json) |
 | Pac Droids | 94590 | [94590-pac-droids.json](./94590-pac-droids.json) |
 | Pac Girl | 25146 | [25146-pac-girl.json](./25146-pac-girl.json) |
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
@@ -10249,6 +10250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porkerpillar | 89209 | [89209-porkerpillar.json](./89209-porkerpillar.json) |
 | Porklike: Wurst Comes to Worst Gameboy | 311700 | [311700-porklike-wurst-comes-to-worst-gameboy.json](./311700-porklike-wurst-comes-to-worst-gameboy.json) |
 | Porkotyler's Captain Dodger | 241434 | [241434-porkotylers-captain-dodger.json](./241434-porkotylers-captain-dodger.json) |
+| Porkpolis | 47058 | [47058-porkpolis.json](./47058-porkpolis.json) |
 | Porkshire Hero | 331485 | [331485-porkshire-hero.json](./331485-porkshire-hero.json) |
 | Porky Pig's Haunted Holiday | 42472 | [42472-porky-pigs-haunted-holiday.json](./42472-porky-pigs-haunted-holiday.json) |
 | Porky's | 22761 | [22761-porkys.json](./22761-porkys.json) |
@@ -10277,6 +10279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port of Mars | 256811 | [256811-port-of-mars.json](./256811-port-of-mars.json) |
 | Port Royale 2 | 8391 | [8391-port-royale-2.json](./8391-port-royale-2.json) |
 | Port Royale 3: Dawn of Pirates | 10713 | [10713-port-royale-3-dawn-of-pirates.json](./10713-port-royale-3-dawn-of-pirates.json) |
+| Port Royale 3: Gold Edition | 47030 | [47030-port-royale-3-gold-edition.json](./47030-port-royale-3-gold-edition.json) |
 | Port Royale 3: Harbour Master | 53467 | [53467-port-royale-3-harbour-master.json](./53467-port-royale-3-harbour-master.json) |
 | Port Royale 3: Pirates & Merchants | 7134 | [7134-port-royale-3-pirates-and-merchants.json](./7134-port-royale-3-pirates-and-merchants.json) |
 | Port Royale 4: Buccaneers | 154504 | [154504-port-royale-4-buccaneers.json](./154504-port-royale-4-buccaneers.json) |
