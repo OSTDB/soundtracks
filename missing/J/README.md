@@ -1771,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissou Land | 262843 | [262843-jissou-land.json](./262843-jissou-land.json) |
 | Jitaku Keibiin no Oshigoto | 358485 | [358485-jitaku-keibiin-no-oshigoto.json](./358485-jitaku-keibiin-no-oshigoto.json) |
 | Jitaku Keibin | 316645 | [316645-jitaku-keibin.json](./316645-jitaku-keibin.json) |
+| Jith-Win-Yarn | 74164 | [74164-jith-win-yarn.json](./74164-jith-win-yarn.json) |
 | Jitsu Squad | 145440 | [145440-jitsu-squad.json](./145440-jitsu-squad.json) |
 | Jitsuryoku!! Pro Yakyuu | 40211 | [40211-jitsuryoku-pro-yakyuu.json](./40211-jitsuryoku-pro-yakyuu.json) |
 | Jitsuwa Kaidan: Shinmimi Bokuro - Ichi no Shou | 59370 | [59370-jitsuwa-kaidan-shinmimi-bokuro-ichi-no-shou.json](./59370-jitsuwa-kaidan-shinmimi-bokuro-ichi-no-shou.json) |
