@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Winter Extended Edition | 222190 | [222190-urban-flow-winter-extended-edition.json](./222190-urban-flow-winter-extended-edition.json) |
 | Urban Flow: X-Mas Edition | 275893 | [275893-urban-flow-x-mas-edition.json](./275893-urban-flow-x-mas-edition.json) |
 | Urban Forest | 285887 | [285887-urban-forest.json](./285887-urban-forest.json) |
+| Urban Freestyle Soccer | 91677 | [91677-urban-freestyle-soccer.json](./91677-urban-freestyle-soccer.json) |
 | Urban Golf: Hot Dog Edition | 385446 | [385446-urban-golf-hot-dog-edition.json](./385446-urban-golf-hot-dog-edition.json) |
 | Urban Hunter | 358895 | [358895-urban-hunter.json](./358895-urban-hunter.json) |
 | Urban Intel: Special Ops | 270565 | [270565-urban-intel-special-ops.json](./270565-urban-intel-special-ops.json) |
@@ -2738,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uro2 | 125121 | [125121-uro2.json](./125121-uro2.json) |
 | Urok | 319766 | [319766-urok.json](./319766-urok.json) |
 | Urok | 380735 | [380735-urok.json](./380735-urok.json) |
+| Uropa 2: The Ulterior Colony | 91822 | [91822-uropa-2-the-ulterior-colony.json](./91822-uropa-2-the-ulterior-colony.json) |
 | Uros: A Trip Through Shadows | 154800 | [154800-uros-a-trip-through-shadows.json](./154800-uros-a-trip-through-shadows.json) |
 | Urotsukidouji | 123014 | [123014-urotsukidouji.json](./123014-urotsukidouji.json) |
 | Urplace | 177212 | [177212-urplace.json](./177212-urplace.json) |
@@ -2897,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utsurobi no Serentia | 301608 | [301608-utsurobi-no-serentia.json](./301608-utsurobi-no-serentia.json) |
 | Utsurun Desu: Kawauso Hawaii he Iku!!! | 48553 | [48553-utsurun-desu-kawauso-hawaii-he-iku.json](./48553-utsurun-desu-kawauso-hawaii-he-iku.json) |
 | Utsusemi no Meguri | 69323 | [69323-utsusemi-no-meguri.json](./69323-utsusemi-no-meguri.json) |
+| Utsushite Jikkan! Diet Memo | 91682 | [91682-utsushite-jikkan-diet-memo.json](./91682-utsushite-jikkan-diet-memo.json) |
 | Utter a Name | 326216 | [326216-utter-a-name.json](./326216-utter-a-name.json) |
 | Utter Inverse | 213415 | [213415-utter-inverse.json](./213415-utter-inverse.json) |
 | Utter Takedown | 244607 | [244607-utter-takedown.json](./244607-utter-takedown.json) |
