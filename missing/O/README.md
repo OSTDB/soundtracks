@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Games Tokyo 2020: The Official Video Game | 116797 | [116797-olympic-games-tokyo-2020-the-official-video-game.json](./116797-olympic-games-tokyo-2020-the-official-video-game.json) |
 | Olympic Games: Atlanta 1996 | 4264 | [4264-olympic-games-atlanta-1996.json](./4264-olympic-games-atlanta-1996.json) |
 | Olympic Gold: Barcelona '92 | 46266 | [46266-olympic-gold-barcelona-92.json](./46266-olympic-gold-barcelona-92.json) |
+| Olympic Hockey 98 | 47754 | [47754-olympic-hockey-98.json](./47754-olympic-hockey-98.json) |
 | Olympic Snow Girl | 415438 | [415438-olympic-snow-girl.json](./415438-olympic-snow-girl.json) |
 | Olympic Soccer | 4292 | [4292-olympic-soccer.json](./4292-olympic-soccer.json) |
 | Olympic Spectacular | 73103 | [73103-olympic-spectacular.json](./73103-olympic-spectacular.json) |
