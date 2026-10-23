@@ -3941,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Capyland | 312620 | [312620-escape-capyland.json](./312620-escape-capyland.json) |
 | Escape Chase Monster | 219254 | [219254-escape-chase-monster.json](./219254-escape-chase-monster.json) |
 | Escape Chronicles | 241384 | [241384-escape-chronicles.json](./241384-escape-chronicles.json) |
+| Escape Code - Coding Adventure | 97190 | [97190-escape-code-coding-adventure.json](./97190-escape-code-coding-adventure.json) |
 | Escape Condition | 219255 | [219255-escape-condition.json](./219255-escape-condition.json) |
 | Escape Covid Camp | 233568 | [233568-escape-covid-camp.json](./233568-escape-covid-camp.json) |
 | Escape Darkness | 290550 | [290550-escape-darkness.json](./290550-escape-darkness.json) |
