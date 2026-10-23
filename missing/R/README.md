@@ -1312,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramblings | 204678 | [204678-ramblings.json](./204678-ramblings.json) |
 | Rambo | 218330 | [218330-rambo.json](./218330-rambo.json) |
 | Rambo | 48210 | [48210-rambo.json](./48210-rambo.json) |
+| Rambo | 74174 | [74174-rambo.json](./74174-rambo.json) |
 | Rambo | 94890 | [94890-rambo.json](./94890-rambo.json) |
 | Rambo III | 136726 | [136726-rambo-iii.json](./136726-rambo-iii.json) |
 | Rambo III | 18145 | [18145-rambo-iii.json](./18145-rambo-iii.json) |
@@ -3830,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reliefs The Time of the Lemures | 95210 | [95210-reliefs-the-time-of-the-lemures.json](./95210-reliefs-the-time-of-the-lemures.json) |
 | Relieve | 277757 | [277757-relieve.json](./277757-relieve.json) |
 | Religious Idle | 101695 | [101695-religious-idle.json](./101695-religious-idle.json) |
+| Relik | 74151 | [74151-relik.json](./74151-relik.json) |
 | ReLinked 0.26091975 | 345020 | [345020-relinked-0-26091975.json](./345020-relinked-0-26091975.json) |
 | Reliquary | 213627 | [213627-reliquary.json](./213627-reliquary.json) |
 | Reliquia Park | 316259 | [316259-reliquia-park.json](./316259-reliquia-park.json) |
