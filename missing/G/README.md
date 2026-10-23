@@ -2309,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis Noir: The Cosmic Collection | 169188 | [169188-genesis-noir-the-cosmic-collection.json](./169188-genesis-noir-the-cosmic-collection.json) |
 | Genesis of a Small God | 241285 | [241285-genesis-of-a-small-god.json](./241285-genesis-of-a-small-god.json) |
 | Genesis of Descent | 256858 | [256858-genesis-of-descent.json](./256858-genesis-of-descent.json) |
+| Genesis of Destiny | 57539 | [57539-genesis-of-destiny.json](./57539-genesis-of-destiny.json) |
 | Genesis of Drones | 35422 | [35422-genesis-of-drones.json](./35422-genesis-of-drones.json) |
 | Genesis Online | 34281 | [34281-genesis-online.json](./34281-genesis-online.json) |
 | Genesis Relic: Idle Sandbox Simulator | 374396 | [374396-genesis-relic-idle-sandbox-simulator.json](./374396-genesis-relic-idle-sandbox-simulator.json) |
@@ -3279,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghrian | 26526 | [26526-ghrian.json](./26526-ghrian.json) |
 | Ghunter | 322112 | [322112-ghunter.json](./322112-ghunter.json) |
 | Ghurka | 295672 | [295672-ghurka.json](./295672-ghurka.json) |
+| GHXYK2 Classics Vol. 1 | 57525 | [57525-ghxyk2-classics-vol-1.json](./57525-ghxyk2-classics-vol-1.json) |
 | GI King!: Sanbiki no Yosouya | 277804 | [277804-gi-king-sanbiki-no-yosouya.json](./277804-gi-king-sanbiki-no-yosouya.json) |
 | GI Racing 2.0 | 32095 | [32095-gi-racing-2-0.json](./32095-gi-racing-2-0.json) |
 | Giagachan | 218132 | [218132-giagachan.json](./218132-giagachan.json) |
@@ -4378,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go to Heck | 214154 | [214154-go-to-heck.json](./214154-go-to-heck.json) |
 | Go to Hell | 211432 | [211432-go-to-hell.json](./211432-go-to-hell.json) |
 | Go to Hell | 218538 | [218538-go-to-hell.json](./218538-go-to-hell.json) |
+| Go to Hell | 57540 | [57540-go-to-hell.json](./57540-go-to-hell.json) |
 | Go to It | 110944 | [110944-go-to-it.json](./110944-go-to-it.json) |
 | Go to Sleep | 351426 | [351426-go-to-sleep.json](./351426-go-to-sleep.json) |
 | Go To Sleep | 268651 | [268651-go-to-sleep.json](./268651-go-to-sleep.json) |
