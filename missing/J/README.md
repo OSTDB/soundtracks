@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jesus Christ RPG | 18450 | [18450-jesus-christ-rpg.json](./18450-jesus-christ-rpg.json) |
 | Jesus Christ RPG Trilogy | 33371 | [33371-jesus-christ-rpg-trilogy.json](./33371-jesus-christ-rpg-trilogy.json) |
 | Jesus Christ Simulator | 303590 | [303590-jesus-christ-simulator.json](./303590-jesus-christ-simulator.json) |
+| Jesus in Space | 66525 | [66525-jesus-in-space.json](./66525-jesus-in-space.json) |
 | Jesus of Nazareth | 69739 | [69739-jesus-of-nazareth.json](./69739-jesus-of-nazareth.json) |
 | Jesus Sacred Heart | 392792 | [392792-jesus-sacred-heart.json](./392792-jesus-sacred-heart.json) |
 | Jesus Saves | 408017 | [408017-jesus-saves.json](./408017-jesus-saves.json) |
