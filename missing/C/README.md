@@ -5737,6 +5737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of the Nile: Enhanced Edition | 27834 | [27834-children-of-the-nile-enhanced-edition.json](./27834-children-of-the-nile-enhanced-edition.json) |
 | Children of the Spring | 363155 | [363155-children-of-the-spring.json](./363155-children-of-the-spring.json) |
 | Children of the World | 256901 | [256901-children-of-the-world.json](./256901-children-of-the-world.json) |
+| Children of Zodiarcs: Collector's Edition | 51702 | [51702-children-of-zodiarcs-collectors-edition.json](./51702-children-of-zodiarcs-collectors-edition.json) |
 | Children's Garden | 323505 | [323505-childrens-garden.json](./323505-childrens-garden.json) |
 | Children's Jigsaw Puzzles | 162213 | [162213-childrens-jigsaw-puzzles.json](./162213-childrens-jigsaw-puzzles.json) |
 | Children's Jigsaw Puzzles: A Warm Story | 162221 | [162221-childrens-jigsaw-puzzles-a-warm-story.json](./162221-childrens-jigsaw-puzzles-a-warm-story.json) |
@@ -7091,6 +7092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities in Motion 2: Players Choice Vehicle Pack | 151425 | [151425-cities-in-motion-2-players-choice-vehicle-pack.json](./151425-cities-in-motion-2-players-choice-vehicle-pack.json) |
 | Cities in Motion 2: Trekking Trolleys | 52727 | [52727-cities-in-motion-2-trekking-trolleys.json](./52727-cities-in-motion-2-trekking-trolleys.json) |
 | Cities in Motion 2: Wending Waterbuses | 52725 | [52725-cities-in-motion-2-wending-waterbuses.json](./52725-cities-in-motion-2-wending-waterbuses.json) |
+| Cities in Motion Collection | 51701 | [51701-cities-in-motion-collection.json](./51701-cities-in-motion-collection.json) |
 | Cities in Motion Complete Collection | 52731 | [52731-cities-in-motion-complete-collection.json](./52731-cities-in-motion-complete-collection.json) |
 | Cities In Motion: Design Dreams | 404074 | [404074-cities-in-motion-design-dreams.json](./404074-cities-in-motion-design-dreams.json) |
 | Cities in Motion: Design Marvels | 52723 | [52723-cities-in-motion-design-marvels.json](./52723-cities-in-motion-design-marvels.json) |
@@ -8981,6 +8983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cognition: An Erica Reed Thriller - Episode 2: The Wise Monkey | 114985 | [114985-cognition-an-erica-reed-thriller-episode-2-the-wise-monkey.json](./114985-cognition-an-erica-reed-thriller-episode-2-the-wise-monkey.json) |
 | Cognition: An Erica Reed Thriller - Episode 3: The Oracle | 114986 | [114986-cognition-an-erica-reed-thriller-episode-3-the-oracle.json](./114986-cognition-an-erica-reed-thriller-episode-3-the-oracle.json) |
 | Cognition: An Erica Reed Thriller - Episode 4: The Cain Killer | 114987 | [114987-cognition-an-erica-reed-thriller-episode-4-the-cain-killer.json](./114987-cognition-an-erica-reed-thriller-episode-4-the-cain-killer.json) |
+| Cognition: Game of the Year Edition | 51700 | [51700-cognition-game-of-the-year-edition.json](./51700-cognition-game-of-the-year-edition.json) |
 | Cognitive Dissonance: A SiIvaGunner Christmas Comeback Crisis Side Story | 326956 | [326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json](./326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json) |
 | Cognizance | 126325 | [126325-cognizance.json](./126325-cognizance.json) |
 | Cognizant Protocol | 51557 | [51557-cognizant-protocol.json](./51557-cognizant-protocol.json) |
@@ -12028,6 +12031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosplay Relaxation | 275137 | [275137-cosplay-relaxation.json](./275137-cosplay-relaxation.json) |
 | Cosplay Relaxation | 276323 | [276323-cosplay-relaxation.json](./276323-cosplay-relaxation.json) |
 | Cosplaying in Costalia: The Tororo Sisters! | 411787 | [411787-cosplaying-in-costalia-the-tororo-sisters.json](./411787-cosplaying-in-costalia-the-tororo-sisters.json) |
+| Cossacks 3: Days of Brilliance | 51742 | [51742-cossacks-3-days-of-brilliance.json](./51742-cossacks-3-days-of-brilliance.json) |
 | Cossacks 3: Guardians of the Highlands | 51763 | [51763-cossacks-3-guardians-of-the-highlands.json](./51763-cossacks-3-guardians-of-the-highlands.json) |
 | Cossacks 3: Path to Grandeur | 51762 | [51762-cossacks-3-path-to-grandeur.json](./51762-cossacks-3-path-to-grandeur.json) |
 | Cossacks 3: Rise to Glory | 51761 | [51761-cossacks-3-rise-to-glory.json](./51761-cossacks-3-rise-to-glory.json) |
