@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardens of a New World | 394450 | [394450-gardens-of-a-new-world.json](./394450-gardens-of-a-new-world.json) |
 | Gardens Of Celestial Globes | 278311 | [278311-gardens-of-celestial-globes.json](./278311-gardens-of-celestial-globes.json) |
 | Gardens of the Void | 280924 | [280924-gardens-of-the-void.json](./280924-gardens-of-the-void.json) |
+| Gardens of Time | 65951 | [65951-gardens-of-time.json](./65951-gardens-of-time.json) |
 | Gardens of Vextro | 229091 | [229091-gardens-of-vextro.json](./229091-gardens-of-vextro.json) |
 | Gardenscapes | 320939 | [320939-gardenscapes.json](./320939-gardenscapes.json) |
 | Gardenscapes: Mansion Makeover | 294685 | [294685-gardenscapes-mansion-makeover.json](./294685-gardenscapes-mansion-makeover.json) |
@@ -2241,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generals.io | 56290 | [56290-generals-io.json](./56290-generals-io.json) |
 | Generalskie kotly | 404781 | [404781-generalskie-kotly.json](./404781-generalskie-kotly.json) |
 | Generation Exile | 305182 | [305182-generation-exile.json](./305182-generation-exile.json) |
+| Generation Girl Gotta Groove | 65916 | [65916-generation-girl-gotta-groove.json](./65916-generation-girl-gotta-groove.json) |
 | Generation Nova | 169802 | [169802-generation-nova.json](./169802-generation-nova.json) |
 | Generation of Chaos Exceed | 3930 | [3930-generation-of-chaos-exceed.json](./3930-generation-of-chaos-exceed.json) |
 | Generation of Chaos: Pandora's Reflection | 21018 | [21018-generation-of-chaos-pandoras-reflection.json](./21018-generation-of-chaos-pandoras-reflection.json) |
@@ -6209,6 +6211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix Rally II | 46750 | [46750-grand-prix-rally-ii.json](./46750-grand-prix-rally-ii.json) |
 | Grand Prix Rock 'N Racing | 19892 | [19892-grand-prix-rock-n-racing.json](./19892-grand-prix-rock-n-racing.json) |
 | Grand Prix Simulator | 13861 | [13861-grand-prix-simulator.json](./13861-grand-prix-simulator.json) |
+| Grand Prix Story | 65908 | [65908-grand-prix-story.json](./65908-grand-prix-story.json) |
 | Grand Prix Tennis | 83378 | [83378-grand-prix-tennis.json](./83378-grand-prix-tennis.json) |
 | Grand Prix Unlimited | 73597 | [73597-grand-prix-unlimited.json](./73597-grand-prix-unlimited.json) |
 | Grand Pskov Story | 74930 | [74930-grand-pskov-story.json](./74930-grand-pskov-story.json) |
@@ -8561,6 +8564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Spirits | 226760 | [226760-gundam-spirits.json](./226760-gundam-spirits.json) |
 | Gundam Supreme Battle | 174903 | [174903-gundam-supreme-battle.json](./174903-gundam-supreme-battle.json) |
 | Gundam Tactics: Mobility Fleet 0079 | 289744 | [289744-gundam-tactics-mobility-fleet-0079.json](./289744-gundam-tactics-mobility-fleet-0079.json) |
+| Gundam Tri Age | 65903 | [65903-gundam-tri-age.json](./65903-gundam-tri-age.json) |
 | Gundam Versus | 28287 | [28287-gundam-versus.json](./28287-gundam-versus.json) |
 | Gundam Versus: Premium G Sound Edition | 136696 | [136696-gundam-versus-premium-g-sound-edition.json](./136696-gundam-versus-premium-g-sound-edition.json) |
 | Gundam Virtual Modeler Light | 108785 | [108785-gundam-virtual-modeler-light.json](./108785-gundam-virtual-modeler-light.json) |
