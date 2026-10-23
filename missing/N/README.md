@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narrow Woods Hotel | 321834 | [321834-narrow-woods-hotel.json](./321834-narrow-woods-hotel.json) |
 | Narrow.One | 148376 | [148376-narrow-one.json](./148376-narrow-one.json) |
 | Narrowboat Simulator | 142793 | [142793-narrowboat-simulator.json](./142793-narrowboat-simulator.json) |
+| Narsillion: Leithian Another Story | 63079 | [63079-narsillion-leithian-another-story.json](./63079-narsillion-leithian-another-story.json) |
 | Naru-Morph! | 291354 | [291354-naru-morph.json](./291354-naru-morph.json) |
 | Naruhodo! The World | 37910 | [37910-naruhodo-the-world.json](./37910-naruhodo-the-world.json) |
 | Naruto Arena Next Generation | 188074 | [188074-naruto-arena-next-generation.json](./188074-naruto-arena-next-generation.json) |
@@ -1499,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neffy: Moonlight Labyrinth X | 369061 | [369061-neffy-moonlight-labyrinth-x.json](./369061-neffy-moonlight-labyrinth-x.json) |
 | Nefiriya and the Sands of Eternity | 331470 | [331470-nefiriya-and-the-sands-of-eternity.json](./331470-nefiriya-and-the-sands-of-eternity.json) |
 | Nefiriya x Super Astro Cat Bundle | 331471 | [331471-nefiriya-x-super-astro-cat-bundle.json](./331471-nefiriya-x-super-astro-cat-bundle.json) |
+| Neftelia | 63175 | [63175-neftelia.json](./63175-neftelia.json) |
 | NEG: The Threefold Cord | 217255 | [217255-neg-the-threefold-cord.json](./217255-neg-the-threefold-cord.json) |
 | Negaeba Kitto... | 202938 | [202938-negaeba-kitto.json](./202938-negaeba-kitto.json) |
 | Negaia | 57069 | [57069-negaia.json](./57069-negaia.json) |
@@ -1990,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Haze | 152042 | [152042-neon-haze.json](./152042-neon-haze.json) |
 | Neon Hearts City | 331383 | [331383-neon-hearts-city.json](./331383-neon-hearts-city.json) |
 | Neon Heights | 278144 | [278144-neon-heights.json](./278144-neon-heights.json) |
+| Neon Hockey | 63176 | [63176-neon-hockey.json](./63176-neon-hockey.json) |
 | Neon Idle | 367299 | [367299-neon-idle.json](./367299-neon-idle.json) |
 | Neon Impact | 233464 | [233464-neon-impact.json](./233464-neon-impact.json) |
 | Neon Inferno | 322701 | [322701-neon-inferno.json](./322701-neon-inferno.json) |
@@ -3167,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nichibutsu Collection 2 | 37905 | [37905-nichibutsu-collection-2.json](./37905-nichibutsu-collection-2.json) |
 | Nichibutsu Mahjong Collection | 251087 | [251087-nichibutsu-mahjong-collection.json](./251087-nichibutsu-mahjong-collection.json) |
 | Nichibutsu Mahjong III: Mahjong G Men | 48804 | [48804-nichibutsu-mahjong-iii-mahjong-g-men.json](./48804-nichibutsu-mahjong-iii-mahjong-g-men.json) |
+| Nichijou: Uchuujin | 63077 | [63077-nichijou-uchuujin.json](./63077-nichijou-uchuujin.json) |
 | Nick | 29921 | [29921-nick.json](./29921-nick.json) |
 | Nick Bounty: A Case of the Crabs | 219150 | [219150-nick-bounty-a-case-of-the-crabs.json](./219150-nick-bounty-a-case-of-the-crabs.json) |
 | Nick Bounty: The Dame with the Blue Chewed Shoe. | 111203 | [111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json](./111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json) |
