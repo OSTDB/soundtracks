@@ -5194,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Challenger | 227821 | [227821-chess-challenger.json](./227821-chess-challenger.json) |
 | Chess Club | 193694 | [193694-chess-club.json](./193694-chess-club.json) |
 | Chess Corp | 216701 | [216701-chess-corp.json](./216701-chess-corp.json) |
+| Chess Cubed | 90436 | [90436-chess-cubed.json](./90436-chess-cubed.json) |
 | Chess Defense Saga | 234200 | [234200-chess-defense-saga.json](./234200-chess-defense-saga.json) |
 | Chess Deluxe | 86703 | [86703-chess-deluxe.json](./86703-chess-deluxe.json) |
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
@@ -5789,6 +5790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | China Miner | 13828 | [13828-china-miner.json](./13828-china-miner.json) |
 | China Miner | 415926 | [415926-china-miner.json](./415926-china-miner.json) |
 | China Syndrome | 18554 | [18554-china-syndrome.json](./18554-china-syndrome.json) |
+| China VS Roman | 90410 | [90410-china-vs-roman.json](./90410-china-vs-roman.json) |
 | China Warrior | 42127 | [42127-china-warrior.json](./42127-china-warrior.json) |
 | China: Mao's legacy | 116880 | [116880-china-maos-legacy.json](./116880-china-maos-legacy.json) |
 | China: Mao's legacy - Bombard the Headquarters | 227715 | [227715-china-maos-legacy-bombard-the-headquarters.json](./227715-china-maos-legacy-bombard-the-headquarters.json) |
@@ -7216,6 +7218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Massacre | 220003 | [220003-city-massacre.json](./220003-city-massacre.json) |
 | City Masterplan | 398007 | [398007-city-masterplan.json](./398007-city-masterplan.json) |
 | City Metro Simulator | 219737 | [219737-city-metro-simulator.json](./219737-city-metro-simulator.json) |
+| City Monsters | 90405 | [90405-city-monsters.json](./90405-city-monsters.json) |
 | City Mysteries - Fun Seek and Find Hidden Object Puzzles | 88583 | [88583-city-mysteries-fun-seek-and-find-hidden-object-puzzles.json](./88583-city-mysteries-fun-seek-and-find-hidden-object-puzzles.json) |
 | City Night Carnage | 190417 | [190417-city-night-carnage.json](./190417-city-night-carnage.json) |
 | City Night Rider | 101505 | [101505-city-night-rider.json](./101505-city-night-rider.json) |
@@ -7418,6 +7421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil War: 1865 | 28795 | [28795-civil-war-1865.json](./28795-civil-war-1865.json) |
 | Civil War: Battle of Petersburg | 29657 | [29657-civil-war-battle-of-petersburg.json](./29657-civil-war-battle-of-petersburg.json) |
 | Civil War: Bull Run 1861 | 51549 | [51549-civil-war-bull-run-1861.json](./51549-civil-war-bull-run-1861.json) |
+| Civil War: Drive on Washington | 90427 | [90427-civil-war-drive-on-washington.json](./90427-civil-war-drive-on-washington.json) |
 | Civil War: Gettysburg | 55501 | [55501-civil-war-gettysburg.json](./55501-civil-war-gettysburg.json) |
 | Civil War: Pea Ridge | 175155 | [175155-civil-war-pea-ridge.json](./175155-civil-war-pea-ridge.json) |
 | Civil War: Stonewall | 175148 | [175148-civil-war-stonewall.json](./175148-civil-war-stonewall.json) |
@@ -7774,6 +7778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clay Shoot | 277502 | [277502-clay-shoot.json](./277502-clay-shoot.json) |
 | Clay Shoot | 328679 | [328679-clay-shoot.json](./328679-clay-shoot.json) |
 | Clay Shooter | 192981 | [192981-clay-shooter.json](./192981-clay-shooter.json) |
+| Clay Skeet Shooting | 90423 | [90423-clay-skeet-shooting.json](./90423-clay-skeet-shooting.json) |
 | Clay Soldiers | 237520 | [237520-clay-soldiers.json](./237520-clay-soldiers.json) |
 | Clay-Scape | 301905 | [301905-clay-scape.json](./301905-clay-scape.json) |
 | Claybook | 28730 | [28730-claybook.json](./28730-claybook.json) |
@@ -7956,6 +7961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click: Commute Control | 199036 | [199036-click-commute-control.json](./199036-click-commute-control.json) |
 | Click: Control Your Game | 199037 | [199037-click-control-your-game.json](./199037-click-control-your-game.json) |
 | Click! | 94731 | [94731-click.json](./94731-click.json) |
+| Click! Safari | 90447 | [90447-click-safari.json](./90447-click-safari.json) |
 | Clickable Coffee Shop | 120127 | [120127-clickable-coffee-shop.json](./120127-clickable-coffee-shop.json) |
 | Clickart | 255146 | [255146-clickart.json](./255146-clickart.json) |
 | Clickbait Tycoon | 412779 | [412779-clickbait-tycoon.json](./412779-clickbait-tycoon.json) |
@@ -10336,6 +10342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concentration | 207016 | [207016-concentration.json](./207016-concentration.json) |
 | Concentration | 217829 | [217829-concentration.json](./217829-concentration.json) |
 | Concentration | 319797 | [319797-concentration.json](./319797-concentration.json) |
+| Concentration Game (Pexeso, Pairs) for Kids | 90448 | [90448-concentration-game-pexeso-pairs-for-kids.json](./90448-concentration-game-pexeso-pairs-for-kids.json) |
 | Concentration Required | 338882 | [338882-concentration-required.json](./338882-concentration-required.json) |
 | Concept 20 | 127224 | [127224-concept-20.json](./127224-concept-20.json) |
 | Concept Destruction | 123561 | [123561-concept-destruction.json](./123561-concept-destruction.json) |
@@ -11664,6 +11671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Cat | 175072 | [175072-cosmic-cat.json](./175072-cosmic-cat.json) |
 | Cosmic Cat | 361677 | [361677-cosmic-cat.json](./361677-cosmic-cat.json) |
 | Cosmic Causeway: Trailblazer II | 40936 | [40936-cosmic-causeway-trailblazer-ii.json](./40936-cosmic-causeway-trailblazer-ii.json) |
+| Cosmic Cavern 3671 | 90460 | [90460-cosmic-cavern-3671.json](./90460-cosmic-cavern-3671.json) |
 | Cosmic Challenge Racing | 196336 | [196336-cosmic-challenge-racing.json](./196336-cosmic-challenge-racing.json) |
 | Cosmic Chicken | 103657 | [103657-cosmic-chicken.json](./103657-cosmic-chicken.json) |
 | Cosmic Clean-Up | 64314 | [64314-cosmic-clean-up.json](./64314-cosmic-clean-up.json) |
