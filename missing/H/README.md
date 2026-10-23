@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H Girl 2 | 244271 | [244271-h-girl-2.json](./244271-h-girl-2.json) |
 | H Girl 4 | 301810 | [301810-h-girl-4.json](./301810-h-girl-4.json) |
 | H Index | 340474 | [340474-h-index.json](./340474-h-index.json) |
+| h Puzzle | 90445 | [90445-h-puzzle.json](./90445-h-puzzle.json) |
 | h Simply Go | 91338 | [91338-h-simply-go.json](./91338-h-simply-go.json) |
 | h Solitaire | 88445 | [88445-h-solitaire.json](./88445-h-solitaire.json) |
 | H to Maid to Mujintou | 416728 | [416728-h-to-maid-to-mujintou.json](./416728-h-to-maid-to-mujintou.json) |
@@ -1023,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handball Manager 07/08 | 152027 | [152027-handball-manager-07-08.json](./152027-handball-manager-07-08.json) |
 | Handball Manager 2021 | 142666 | [142666-handball-manager-2021.json](./142666-handball-manager-2021.json) |
 | Handball Manager 2022 | 193497 | [193497-handball-manager-2022.json](./193497-handball-manager-2022.json) |
+| Handball Manager: Team | 90454 | [90454-handball-manager-team.json](./90454-handball-manager-team.json) |
 | Handball Pelota | 193773 | [193773-handball-pelota.json](./193773-handball-pelota.json) |
 | Handdogg | 185154 | [185154-handdogg.json](./185154-handdogg.json) |
 | Handgun Football | 391243 | [391243-handgun-football.json](./391243-handgun-football.json) |
@@ -5445,6 +5447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Garden Paradise | 106349 | [106349-hidden-garden-paradise.json](./106349-hidden-garden-paradise.json) |
 | Hidden Garden Wonderland | 103860 | [103860-hidden-garden-wonderland.json](./103860-hidden-garden-wonderland.json) |
 | Hidden Garden Word Jumble | 89685 | [89685-hidden-garden-word-jumble.json](./89685-hidden-garden-word-jumble.json) |
+| Hidden Garden Word Mystery | 90446 | [90446-hidden-garden-word-mystery.json](./90446-hidden-garden-word-mystery.json) |
 | Hidden Garden Word Pop | 96721 | [96721-hidden-garden-word-pop.json](./96721-hidden-garden-word-pop.json) |
 | Hidden Garden Word Scramble | 233748 | [233748-hidden-garden-word-scramble.json](./233748-hidden-garden-word-scramble.json) |
 | Hidden Gardens | 108262 | [108262-hidden-gardens.json](./108262-hidden-gardens.json) |
@@ -5477,6 +5480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Legacy: Dark Heirloom | 416709 | [416709-hidden-legacy-dark-heirloom.json](./416709-hidden-legacy-dark-heirloom.json) |
 | Hidden Legacy: Dark Heirloom - Collector's Edition | 360637 | [360637-hidden-legacy-dark-heirloom-collectors-edition.json](./360637-hidden-legacy-dark-heirloom-collectors-edition.json) |
 | Hidden Legends | 370817 | [370817-hidden-legends.json](./370817-hidden-legends.json) |
+| Hidden Life | 90406 | [90406-hidden-life.json](./90406-hidden-life.json) |
 | Hidden Liner | 91252 | [91252-hidden-liner.json](./91252-hidden-liner.json) |
 | Hidden Magic Town | 190008 | [190008-hidden-magic-town.json](./190008-hidden-magic-town.json) |
 | Hidden Map | 187369 | [187369-hidden-map.json](./187369-hidden-map.json) |
@@ -7060,6 +7064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood Squares | 198761 | [198761-hollywood-squares.json](./198761-hollywood-squares.json) |
 | Hollywood Squares | 48056 | [48056-hollywood-squares.json](./48056-hollywood-squares.json) |
 | Hollywood Squares | 52194 | [52194-hollywood-squares.json](./52194-hollywood-squares.json) |
+| Hollywood Story | 90415 | [90415-hollywood-story.json](./90415-hollywood-story.json) |
 | Hollywood Studios Tycoon Game | 175061 | [175061-hollywood-studios-tycoon-game.json](./175061-hollywood-studios-tycoon-game.json) |
 | Hollywood Tycoon | 67958 | [67958-hollywood-tycoon.json](./67958-hollywood-tycoon.json) |
 | Hollywood Tycoon | 78747 | [78747-hollywood-tycoon.json](./78747-hollywood-tycoon.json) |
