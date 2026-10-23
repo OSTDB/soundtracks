@@ -2383,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Town: City Farm Building | 106343 | [106343-cartoon-town-city-farm-building.json](./106343-cartoon-town-city-farm-building.json) |
 | Cartoon Universe | 247576 | [247576-cartoon-universe.json](./247576-cartoon-universe.json) |
 | Cartoon Wars | 230784 | [230784-cartoon-wars.json](./230784-cartoon-wars.json) |
+| Cartoon Wars - Gunner | 66509 | [66509-cartoon-wars-gunner.json](./66509-cartoon-wars-gunner.json) |
 | Cartoon Wars 2: Heroes | 91781 | [91781-cartoon-wars-2-heroes.json](./91781-cartoon-wars-2-heroes.json) |
 | Cartoon Wars Blade | 369757 | [369757-cartoon-wars-blade.json](./369757-cartoon-wars-blade.json) |
 | Cartooners | 94685 | [94685-cartooners.json](./94685-cartooners.json) |
@@ -4445,6 +4446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Strike: Crypto Arena | 253733 | [253733-champion-strike-crypto-arena.json](./253733-champion-strike-crypto-arena.json) |
 | Champion Strike: Hero Clash | 221645 | [221645-champion-strike-hero-clash.json](./221645-champion-strike-hero-clash.json) |
 | Champion Tennis | 6093 | [6093-champion-tennis.json](./6093-champion-tennis.json) |
+| Champion Wrestler: Jikkyou Raibu | 66482 | [66482-champion-wrestler-jikkyou-raibu.json](./66482-champion-wrestler-jikkyou-raibu.json) |
 | Champions | 120685 | [120685-champions.json](./120685-champions.json) |
 | Champions | 278368 | [278368-champions.json](./278368-champions.json) |
 | Champions and Challengers | 174739 | [174739-champions-and-challengers.json](./174739-champions-and-challengers.json) |
