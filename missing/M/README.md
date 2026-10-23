@@ -3366,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariposa | 395588 | [395588-mariposa.json](./395588-mariposa.json) |
 | Mariposa and the Galaxy Man | 191904 | [191904-mariposa-and-the-galaxy-man.json](./191904-mariposa-and-the-galaxy-man.json) |
 | Marippy | 310649 | [310649-marippy.json](./310649-marippy.json) |
+| Marisa and Alice's Trap Tower Remake | 63064 | [63064-marisa-and-alices-trap-tower-remake.json](./63064-marisa-and-alices-trap-tower-remake.json) |
 | Marisa Matrix | 227906 | [227906-marisa-matrix.json](./227906-marisa-matrix.json) |
 | Marisa no Kagi | 216288 | [216288-marisa-no-kagi.json](./216288-marisa-no-kagi.json) |
 | Marisa to 6tsu no Kinoko: New Super Marisa Land | 94145 | [94145-marisa-to-6tsu-no-kinoko-new-super-marisa-land.json](./94145-marisa-to-6tsu-no-kinoko-new-super-marisa-land.json) |
@@ -4030,6 +4031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Arena: Ultimate Pass | 297146 | [297146-master-arena-ultimate-pass.json](./297146-master-arena-ultimate-pass.json) |
 | Master Axe: The Genesis of MysterX | 234466 | [234466-master-axe-the-genesis-of-mysterx.json](./234466-master-axe-the-genesis-of-mysterx.json) |
 | Master Bass | 267344 | [267344-master-bass.json](./267344-master-bass.json) |
+| Master Bill | 63092 | [63092-master-bill.json](./63092-master-bill.json) |
 | Master Bladesmith | 127219 | [127219-master-bladesmith.json](./127219-master-bladesmith.json) |
 | Master Blaster | 292779 | [292779-master-blaster.json](./292779-master-blaster.json) |
 | Master Blaster VR | 149851 | [149851-master-blaster-vr.json](./149851-master-blaster-vr.json) |
@@ -5110,6 +5112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McBelle Manor | 321492 | [321492-mcbelle-manor.json](./321492-mcbelle-manor.json) |
 | McCourty Twins: INT Challenge | 100648 | [100648-mccourty-twins-int-challenge.json](./100648-mccourty-twins-int-challenge.json) |
 | McDonald's Chicken McNugget Tetris | 251023 | [251023-mcdonalds-chicken-mcnugget-tetris.json](./251023-mcdonalds-chicken-mcnugget-tetris.json) |
+| McDonald's de Asobo! | 63044 | [63044-mcdonalds-de-asobo.json](./63044-mcdonalds-de-asobo.json) |
 | McDonald's Fairies: Lily | 254793 | [254793-mcdonalds-fairies-lily.json](./254793-mcdonalds-fairies-lily.json) |
 | McDonald's Fairies: Rose | 254794 | [254794-mcdonalds-fairies-rose.json](./254794-mcdonalds-fairies-rose.json) |
 | McDonald's Original: Happy Disc | 242061 | [242061-mcdonalds-original-happy-disc.json](./242061-mcdonalds-original-happy-disc.json) |
@@ -7753,6 +7756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Max 2 | 37929 | [37929-metal-max-2.json](./37929-metal-max-2.json) |
 | Metal Max 2: Reloaded | 65858 | [65858-metal-max-2-reloaded.json](./65858-metal-max-2-reloaded.json) |
 | Metal Max 3 | 66922 | [66922-metal-max-3.json](./66922-metal-max-3.json) |
+| Metal Max 4: Moonlight Diva | 63165 | [63165-metal-max-4-moonlight-diva.json](./63165-metal-max-4-moonlight-diva.json) |
 | Metal Max Balls | 249310 | [249310-metal-max-balls.json](./249310-metal-max-balls.json) |
 | Metal Max Returns | 38373 | [38373-metal-max-returns.json](./38373-metal-max-returns.json) |
 | Metal Max Xeno | 74874 | [74874-metal-max-xeno.json](./74874-metal-max-xeno.json) |
@@ -8318,6 +8322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey Mouse: Mickey's Magical Adventure | 219096 | [219096-mickey-mouse-mickeys-magical-adventure.json](./219096-mickey-mouse-mickeys-magical-adventure.json) |
 | Mickey Mouse: Orange Express | 218352 | [218352-mickey-mouse-orange-express.json](./218352-mickey-mouse-orange-express.json) |
 | Mickey Mouse: The Computer Game | 12921 | [12921-mickey-mouse-the-computer-game.json](./12921-mickey-mouse-the-computer-game.json) |
+| Mickey no Boku ha Meitantei | 63051 | [63051-mickey-no-boku-ha-meitantei.json](./63051-mickey-no-boku-ha-meitantei.json) |
 | Mickey no Tokyo Disneyland Daibouken | 42543 | [42543-mickey-no-tokyo-disneyland-daibouken.json](./42543-mickey-no-tokyo-disneyland-daibouken.json) |
 | Mickey to Donald Magical Adventure 3 | 42489 | [42489-mickey-to-donald-magical-adventure-3.json](./42489-mickey-to-donald-magical-adventure-3.json) |
 | Mickey to Ooki na Furudokei | 299463 | [299463-mickey-to-ooki-na-furudokei.json](./299463-mickey-to-ooki-na-furudokei.json) |
@@ -14845,6 +14850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms Vampire Love to Date With Me | 372548 | [372548-ms-vampire-love-to-date-with-me.json](./372548-ms-vampire-love-to-date-with-me.json) |
 | MS_Dos | 407147 | [407147-ms-dos.json](./407147-ms-dos.json) |
 | MS: Space Express | 192285 | [192285-ms-space-express.json](./192285-ms-space-express.json) |
+| Ms. Germinator | 63059 | [63059-ms-germinator.json](./63059-ms-germinator.json) |
 | Ms. Holmes: Five Orange Pips | 187943 | [187943-ms-holmes-five-orange-pips.json](./187943-ms-holmes-five-orange-pips.json) |
 | Ms. Holmes: Five Orange Pips - Collector's Edition | 170212 | [170212-ms-holmes-five-orange-pips-collectors-edition.json](./170212-ms-holmes-five-orange-pips-collectors-edition.json) |
 | Ms. Holmes: Letter M - Collector's Edition | 362847 | [362847-ms-holmes-letter-m-collectors-edition.json](./362847-ms-holmes-letter-m-collectors-edition.json) |
