@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| R Academy | 84011 | [84011-r-academy.json](./84011-r-academy.json) |
 | R Body Adventure | 272388 | [272388-r-body-adventure.json](./272388-r-body-adventure.json) |
 | R for Revenge | 400364 | [400364-r-for-revenge.json](./400364-r-for-revenge.json) |
 | R is for Rachel | 197134 | [197134-r-is-for-rachel.json](./197134-r-is-for-rachel.json) |
@@ -3606,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regxkcd | 182864 | [182864-regxkcd.json](./182864-regxkcd.json) |
 | Rehab Friday: With Henry Huxley | 366625 | [366625-rehab-friday-with-henry-huxley.json](./366625-rehab-friday-with-henry-huxley.json) |
 | Rehabbers | 127596 | [127596-rehabbers.json](./127596-rehabbers.json) |
+| ReHack | 84031 | [84031-rehack.json](./84031-rehack.json) |
 | RehAIbilitation | 257561 | [257561-rehaibilitation.json](./257561-rehaibilitation.json) |
 | Rehaunted | 410924 | [410924-rehaunted.json](./410924-rehaunted.json) |
 | Reheat: The Rescue | 307419 | [307419-reheat-the-rescue.json](./307419-reheat-the-rescue.json) |
@@ -5554,6 +5556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rick Shaw's Radical Rickshaw | 180685 | [180685-rick-shaws-radical-rickshaw.json](./180685-rick-shaws-radical-rickshaw.json) |
 | Rick's Konbini | 387647 | [387647-ricks-konbini.json](./387647-ricks-konbini.json) |
 | Rickdle | 396406 | [396406-rickdle.json](./396406-rickdle.json) |
+| Ricko's Island | 84044 | [84044-rickos-island.json](./84044-rickos-island.json) |
 | Ricky Did Nothing Wrong | 155965 | [155965-ricky-did-nothing-wrong.json](./155965-ricky-did-nothing-wrong.json) |
 | Ricky Raccoon | 34666 | [34666-ricky-raccoon.json](./34666-ricky-raccoon.json) |
 | Ricky Recharge | 121593 | [121593-ricky-recharge.json](./121593-ricky-recharge.json) |
@@ -6417,6 +6420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite of Passage: Heart of the Storm | 104117 | [104117-rite-of-passage-heart-of-the-storm.json](./104117-rite-of-passage-heart-of-the-storm.json) |
 | Rite of Passage: Heart of the Storm - Collector's Edition | 194636 | [194636-rite-of-passage-heart-of-the-storm-collectors-edition.json](./194636-rite-of-passage-heart-of-the-storm-collectors-edition.json) |
 | Rite of Passage: Hide and Seek | 98377 | [98377-rite-of-passage-hide-and-seek.json](./98377-rite-of-passage-hide-and-seek.json) |
+| Rite of Passage: Hide and Seek - Collector's Edition | 84028 | [84028-rite-of-passage-hide-and-seek-collectors-edition.json](./84028-rite-of-passage-hide-and-seek-collectors-edition.json) |
 | Rite of Passage: Hide and Seek HD | 104215 | [104215-rite-of-passage-hide-and-seek-hd.json](./104215-rite-of-passage-hide-and-seek-hd.json) |
 | Rite of Passage: The Lost Tides HD | 100231 | [100231-rite-of-passage-the-lost-tides-hd.json](./100231-rite-of-passage-the-lost-tides-hd.json) |
 | Rite of Passage: The Perfect Show - Collector's Edition | 30628 | [30628-rite-of-passage-the-perfect-show-collectors-edition.json](./30628-rite-of-passage-the-perfect-show-collectors-edition.json) |
@@ -8949,6 +8953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette Simulator 2025 | 310503 | [310503-roulette-simulator-2025.json](./310503-roulette-simulator-2025.json) |
 | Roulette Simulator 2026 | 370421 | [370421-roulette-simulator-2026.json](./370421-roulette-simulator-2026.json) |
 | Roulette VIP | 256252 | [256252-roulette-vip.json](./256252-roulette-vip.json) |
+| Roun | 84037 | [84037-roun.json](./84037-roun.json) |
 | Round 99 | 140300 | [140300-round-99.json](./140300-round-99.json) |
 | Round About | 25858 | [25858-round-about.json](./25858-round-about.json) |
 | Round Invaders Red | 213231 | [213231-round-invaders-red.json](./213231-round-invaders-red.json) |
@@ -10309,6 +10314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryouki Enbu | 66650 | [66650-ryouki-enbu.json](./66650-ryouki-enbu.json) |
 | Ryouko Inoue Chatting Room | 93206 | [93206-ryouko-inoue-chatting-room.json](./93206-ryouko-inoue-chatting-room.json) |
 | Ryse: Legendary Edition | 82422 | [82422-ryse-legendary-edition.json](./82422-ryse-legendary-edition.json) |
+| Rysen | 84055 | [84055-rysen.json](./84055-rysen.json) |
 | Rysen Dawn | 174899 | [174899-rysen-dawn.json](./174899-rysen-dawn.json) |
 | Rystel | 151723 | [151723-rystel.json](./151723-rystel.json) |
 | Ryte: The Eye of Atlantis | 141400 | [141400-ryte-the-eye-of-atlantis.json](./141400-ryte-the-eye-of-atlantis.json) |
