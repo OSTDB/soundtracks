@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon | 15656 | [15656-backgammon.json](./15656-backgammon.json) |
 | Backgammon | 214045 | [214045-backgammon.json](./214045-backgammon.json) |
 | Backgammon | 339276 | [339276-backgammon.json](./339276-backgammon.json) |
+| Backgammon | 54874 | [54874-backgammon.json](./54874-backgammon.json) |
 | Backgammon | 77148 | [77148-backgammon.json](./77148-backgammon.json) |
 | Backgammon | 78530 | [78530-backgammon.json](./78530-backgammon.json) |
 | Backgammon 2000 | 97485 | [97485-backgammon-2000.json](./97485-backgammon-2000.json) |
@@ -750,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2447,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basic Kanji Meaning Quiz | 409668 | [409668-basic-kanji-meaning-quiz.json](./409668-basic-kanji-meaning-quiz.json) |
 | Basic Nyuumon | 47549 | [47549-basic-nyuumon.json](./47549-basic-nyuumon.json) |
 | Basic Platformer | 305908 | [305908-basic-platformer.json](./305908-basic-platformer.json) |
+| Basic Programming | 54794 | [54794-basic-programming.json](./54794-basic-programming.json) |
 | Basic Warfare | 127728 | [127728-basic-warfare.json](./127728-basic-warfare.json) |
 | Basics in Airport: Education & Learning | 107127 | [107127-basics-in-airport-education-and-learning.json](./107127-basics-in-airport-education-and-learning.json) |
 | Basics In Intermediate Filmmaking | 258898 | [258898-basics-in-intermediate-filmmaking.json](./258898-basics-in-intermediate-filmmaking.json) |
@@ -10484,6 +10487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boost Beginner | 273035 | [273035-boost-beginner.json](./273035-boost-beginner.json) |
 | Boost Panic | 315361 | [315361-boost-panic.json](./315361-boost-panic.json) |
 | Boost Race | 105893 | [105893-boost-race.json](./105893-boost-race.json) |
+| BoostBots VR | 54841 | [54841-boostbots-vr.json](./54841-boostbots-vr.json) |
 | Boosted | 264053 | [264053-boosted.json](./264053-boosted.json) |
 | Boosted Survivors | 314666 | [314666-boosted-survivors.json](./314666-boosted-survivors.json) |
 | Booster Pack Heroes | 400386 | [400386-booster-pack-heroes.json](./400386-booster-pack-heroes.json) |
@@ -11437,6 +11441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Escape | 267488 | [267488-brain-escape.json](./267488-brain-escape.json) |
 | Brain Exercises With Dr. Kawashima | 20278 | [20278-brain-exercises-with-dr-kawashima.json](./20278-brain-exercises-with-dr-kawashima.json) |
 | Brain Games | 167193 | [167193-brain-games.json](./167193-brain-games.json) |
+| Brain Games | 54843 | [54843-brain-games.json](./54843-brain-games.json) |
 | Brain Games Mahjongg | 25011 | [25011-brain-games-mahjongg.json](./25011-brain-games-mahjongg.json) |
 | Brain Games: Brain Puzzles 2 | 206481 | [206481-brain-games-brain-puzzles-2.json](./206481-brain-games-brain-puzzles-2.json) |
 | Brain Games: Numbers Blast | 60384 | [60384-brain-games-numbers-blast.json](./60384-brain-games-numbers-blast.json) |
