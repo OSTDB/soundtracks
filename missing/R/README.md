@@ -3808,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic Heroes | 219812 | [219812-relic-heroes.json](./219812-relic-heroes.json) |
 | Relic Hunt | 340706 | [340706-relic-hunt.json](./340706-relic-hunt.json) |
 | Relic Hunt | 361602 | [361602-relic-hunt.json](./361602-relic-hunt.json) |
+| Relic Hunters Legend | 72497 | [72497-relic-hunters-legend.json](./72497-relic-hunters-legend.json) |
 | Relic Hunters Zero | 12301 | [12301-relic-hunters-zero.json](./12301-relic-hunters-zero.json) |
 | Relic Hunters Zero: Remix | 129846 | [129846-relic-hunters-zero-remix.json](./129846-relic-hunters-zero-remix.json) |
 | Relic Odyssey: Ruins Of Xantao | 259176 | [259176-relic-odyssey-ruins-of-xantao.json](./259176-relic-odyssey-ruins-of-xantao.json) |
