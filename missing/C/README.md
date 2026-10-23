@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadwallon: City of Thieves | 87615 | [87615-cadwallon-city-of-thieves.json](./87615-cadwallon-city-of-thieves.json) |
 | Caedes | 164607 | [164607-caedes.json](./164607-caedes.json) |
 | Caelum in Lacu | 405969 | [405969-caelum-in-lacu.json](./405969-caelum-in-lacu.json) |
+| Caelum: Into the Sky | 91202 | [91202-caelum-into-the-sky.json](./91202-caelum-into-the-sky.json) |
 | Caelum's Crux | 389619 | [389619-caelums-crux.json](./389619-caelums-crux.json) |
 | Caesar | 7416 | [7416-caesar.json](./7416-caesar.json) |
 | Caesar Empire War | 150263 | [150263-caesar-empire-war.json](./150263-caesar-empire-war.json) |
@@ -4325,6 +4326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge | 11150 | [11150-challenge.json](./11150-challenge.json) |
 | Challenge | 245163 | [245163-challenge.json](./245163-challenge.json) |
 | Challenge 100 | 359419 | [359419-challenge-100.json](./359419-challenge-100.json) |
+| Challenge Cube VR | 91198 | [91198-challenge-cube-vr.json](./91198-challenge-cube-vr.json) |
 | Challenge Dream Cat | 179997 | [179997-challenge-dream-cat.json](./179997-challenge-dream-cat.json) |
 | Challenge from Kiyoshi | 141772 | [141772-challenge-from-kiyoshi.json](./141772-challenge-from-kiyoshi.json) |
 | Challenge Love | 296608 | [296608-challenge-love.json](./296608-challenge-love.json) |
@@ -9148,6 +9150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Gay Sex: Episode 7 | 371061 | [371061-college-gay-sex-episode-7.json](./371061-college-gay-sex-episode-7.json) |
 | College Gay Sex: Episode 8 | 371063 | [371063-college-gay-sex-episode-8.json](./371063-college-gay-sex-episode-8.json) |
 | College Hoops 2K6 | 5782 | [5782-college-hoops-2k6.json](./5782-college-hoops-2k6.json) |
+| College Investigation | 91196 | [91196-college-investigation.json](./91196-college-investigation.json) |
 | College Kings 2: Episode 1 | 196041 | [196041-college-kings-2-episode-1.json](./196041-college-kings-2-episode-1.json) |
 | College Kings 2: Episode 2 "The Pool Party" Reworked | 354495 | [354495-college-kings-2-episode-2-the-pool-party-reworked.json](./354495-college-kings-2-episode-2-the-pool-party-reworked.json) |
 | College Kings 2: Episode 3 "Back To Basics" | 354498 | [354498-college-kings-2-episode-3-back-to-basics.json](./354498-college-kings-2-episode-3-back-to-basics.json) |
@@ -14915,6 +14918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube World | 195215 | [195215-cube-world.json](./195215-cube-world.json) |
 | Cube World Omega | 376012 | [376012-cube-world-omega.json](./376012-cube-world-omega.json) |
 | Cube Worlds Survival | 151478 | [151478-cube-worlds-survival.json](./151478-cube-worlds-survival.json) |
+| Cube XL | 91222 | [91222-cube-xl.json](./91222-cube-xl.json) |
 | Cube Zoid | 176466 | [176466-cube-zoid.json](./176466-cube-zoid.json) |
 | Cube-e 2 | 165415 | [165415-cube-e-2.json](./165415-cube-e-2.json) |
 | Cube-Field+ | 392369 | [392369-cube-field.json](./392369-cube-field.json) |
