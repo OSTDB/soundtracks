@@ -4648,6 +4648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max and Sparky | 66887 | [66887-max-and-sparky.json](./66887-max-and-sparky.json) |
 | Max and the Haunted Castle | 127150 | [127150-max-and-the-haunted-castle.json](./127150-max-and-the-haunted-castle.json) |
 | Max and the Magic Marker: Gold Edition | 52571 | [52571-max-and-the-magic-marker-gold-edition.json](./52571-max-and-the-magic-marker-gold-edition.json) |
+| Max and the Magician | 69704 | [69704-max-and-the-magician.json](./69704-max-and-the-magician.json) |
 | Max and the Pirates | 209540 | [209540-max-and-the-pirates.json](./209540-max-and-the-pirates.json) |
 | Max and the Secret Formula | 209538 | [209538-max-and-the-secret-formula.json](./209538-max-and-the-secret-formula.json) |
 | Max Awesome | 253255 | [253255-max-awesome.json](./253255-max-awesome.json) |
@@ -9469,6 +9470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Body & Soul: Big Word Puzzle Book | 92626 | [92626-mind-body-and-soul-big-word-puzzle-book.json](./92626-mind-body-and-soul-big-word-puzzle-book.json) |
 | Mind Boggler | 245439 | [245439-mind-boggler.json](./245439-mind-boggler.json) |
 | Mind Cards | 145999 | [145999-mind-cards.json](./145999-mind-cards.json) |
+| Mind Castle I | 69688 | [69688-mind-castle-i.json](./69688-mind-castle-i.json) |
 | Mind Castle II | 339702 | [339702-mind-castle-ii.json](./339702-mind-castle-ii.json) |
 | Mind Construct | 256439 | [256439-mind-construct.json](./256439-mind-construct.json) |
 | Mind Control | 25965 | [25965-mind-control.json](./25965-mind-control.json) |
@@ -13723,6 +13725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortificare | 201003 | [201003-mortificare.json](./201003-mortificare.json) |
 | Mortificatio | 29663 | [29663-mortificatio.json](./29663-mortificatio.json) |
 | Mortified | 249780 | [249780-mortified.json](./249780-mortified.json) |
+| Mortimer and the Enchanted Castle | 69697 | [69697-mortimer-and-the-enchanted-castle.json](./69697-mortimer-and-the-enchanted-castle.json) |
 | Mortimer and the Riddles of the Medallion | 194 | [194-mortimer-and-the-riddles-of-the-medallion.json](./194-mortimer-and-the-riddles-of-the-medallion.json) |
 | Mortimer: First Launch | 341337 | [341337-mortimer-first-launch.json](./341337-mortimer-first-launch.json) |
 | Mortis Chronicles: Tale of Cowardice | 190012 | [190012-mortis-chronicles-tale-of-cowardice.json](./190012-mortis-chronicles-tale-of-cowardice.json) |
