@@ -1967,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Genesis Evangelion | 3555 | [3555-neon-genesis-evangelion.json](./3555-neon-genesis-evangelion.json) |
 | Neon Genesis Evangelion 2 | 75876 | [75876-neon-genesis-evangelion-2.json](./75876-neon-genesis-evangelion-2.json) |
 | Neon Genesis Evangelion 2: Another Cases | 75877 | [75877-neon-genesis-evangelion-2-another-cases.json](./75877-neon-genesis-evangelion-2-another-cases.json) |
+| Neon Genesis Evangelion: 1st Impression | 69709 | [69709-neon-genesis-evangelion-1st-impression.json](./69709-neon-genesis-evangelion-1st-impression.json) |
 | Neon Genesis Evangelion: 2nd Impression | 75875 | [75875-neon-genesis-evangelion-2nd-impression.json](./75875-neon-genesis-evangelion-2nd-impression.json) |
 | Neon Genesis Evangelion: Digital Card Library | 75880 | [75880-neon-genesis-evangelion-digital-card-library.json](./75880-neon-genesis-evangelion-digital-card-library.json) |
 | Neon Genesis Evangelion: Eva to Yukai na Nakamatachi | 75881 | [75881-neon-genesis-evangelion-eva-to-yukai-na-nakamatachi.json](./75881-neon-genesis-evangelion-eva-to-yukai-na-nakamatachi.json) |
@@ -2447,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeverDead | 3215 | [3215-neverdead.json](./3215-neverdead.json) |
 | NeverDeath | 166701 | [166701-neverdeath.json](./166701-neverdeath.json) |
 | Neverend | 407894 | [407894-neverend.json](./407894-neverend.json) |
+| Neverend | 69696 | [69696-neverend.json](./69696-neverend.json) |
 | NeverEnd | 29873 | [29873-neverend.json](./29873-neverend.json) |
 | Neverending Check-in: The Hotel Stories | 253566 | [253566-neverending-check-in-the-hotel-stories.json](./253566-neverending-check-in-the-hotel-stories.json) |
 | NeverEnding Legacy | 96247 | [96247-neverending-legacy.json](./96247-neverending-legacy.json) |
