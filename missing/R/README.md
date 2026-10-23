@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally del Casentino: The Game | 133194 | [133194-rally-del-casentino-the-game.json](./133194-rally-del-casentino-the-game.json) |
 | Rally Drift Cars | 123558 | [123558-rally-drift-cars.json](./123558-rally-drift-cars.json) |
 | Rally Drifters Racing Cars 3D: Ultimate Fast Car Gang Challange | 232164 | [232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json](./232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json) |
+| Rally Driver | 73620 | [73620-rally-driver.json](./73620-rally-driver.json) |
 | Rally Evolution 2025 | 384823 | [384823-rally-evolution-2025.json](./384823-rally-evolution-2025.json) |
 | Rally Fury: Extreme Racing | 174848 | [174848-rally-fury-extreme-racing.json](./174848-rally-fury-extreme-racing.json) |
 | Rally Fusion: Race of Champions | 5998 | [5998-rally-fusion-race-of-champions.json](./5998-rally-fusion-race-of-champions.json) |
@@ -2497,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of the Paladin: Deception's Plague | 171541 | [171541-realm-of-the-paladin-deceptions-plague.json](./171541-realm-of-the-paladin-deceptions-plague.json) |
 | Realm of the Titans | 91797 | [91797-realm-of-the-titans.json](./91797-realm-of-the-titans.json) |
 | Realm of the Undead | 273799 | [273799-realm-of-the-undead.json](./273799-realm-of-the-undead.json) |
+| Realm of the Undead | 73594 | [73594-realm-of-the-undead.json](./73594-realm-of-the-undead.json) |
 | Realm of Thrones | 356159 | [356159-realm-of-thrones.json](./356159-realm-of-thrones.json) |
 | Realm of Valor | 56503 | [56503-realm-of-valor.json](./56503-realm-of-valor.json) |
 | Realm of Virtuals | 116823 | [116823-realm-of-virtuals.json](./116823-realm-of-virtuals.json) |
@@ -6005,6 +6007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Craft | 291843 | [291843-ring-craft.json](./291843-ring-craft.json) |
 | Ring Cycle | 2499 | [2499-ring-cycle.json](./2499-ring-cycle.json) |
 | Ring Fit Adventure: Rhythm Game | 320954 | [320954-ring-fit-adventure-rhythm-game.json](./320954-ring-fit-adventure-rhythm-game.json) |
+| Ring II: Twilight of the Gods | 73656 | [73656-ring-ii-twilight-of-the-gods.json](./73656-ring-ii-twilight-of-the-gods.json) |
 | Ring Jongg | 209020 | [209020-ring-jongg.json](./209020-ring-jongg.json) |
 | Ring King | 218329 | [218329-ring-king.json](./218329-ring-king.json) |
 | Ring King | 37335 | [37335-ring-king.json](./37335-ring-king.json) |
@@ -8346,6 +8349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollingSky | 129747 | [129747-rollingsky.json](./129747-rollingsky.json) |
 | RollingSky2 | 126505 | [126505-rollingsky2.json](./126505-rollingsky2.json) |
 | RollMe | 169883 | [169883-rollme.json](./169883-rollme.json) |
+| Rollo and the Brush Brothers | 73622 | [73622-rollo-and-the-brush-brothers.json](./73622-rollo-and-the-brush-brothers.json) |
 | Rollo Boi | 370260 | [370260-rollo-boi.json](./370260-rollo-boi.json) |
 | Rollo Pollo | 348352 | [348352-rollo-pollo.json](./348352-rollo-pollo.json) |
 | RollocoBall | 26598 | [26598-rollocoball.json](./26598-rollocoball.json) |
@@ -8988,6 +8992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Round Rooms | 120055 | [120055-round-rooms.json](./120055-round-rooms.json) |
 | Round Spike | 348954 | [348954-round-spike.json](./348954-round-spike.json) |
 | Round Table | 202719 | [202719-round-table.json](./202719-round-table.json) |
+| Round the Bend! | 73670 | [73670-round-the-bend.json](./73670-round-the-bend.json) |
 | Round The U-Bend | 271306 | [271306-round-the-u-bend.json](./271306-round-the-u-bend.json) |
 | Round Trip | 244280 | [244280-round-trip.json](./244280-round-trip.json) |
 | Round Up 5: Super Delta Force | 407524 | [407524-round-up-5-super-delta-force.json](./407524-round-up-5-super-delta-force.json) |
