@@ -4498,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Cuts | 315830 | [315830-finger-cuts.json](./315830-finger-cuts.json) |
 | Finger Dancing | 246331 | [246331-finger-dancing.json](./246331-finger-dancing.json) |
 | Finger Dash | 253264 | [253264-finger-dash.json](./253264-finger-dash.json) |
+| Finger Derpy | 60418 | [60418-finger-derpy.json](./60418-finger-derpy.json) |
 | Finger Driver | 87049 | [87049-finger-driver.json](./87049-finger-driver.json) |
 | Finger Fitness | 187217 | [187217-finger-fitness.json](./187217-finger-fitness.json) |
 | Finger Flashing | 69870 | [69870-finger-flashing.json](./69870-finger-flashing.json) |
@@ -5977,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flatland: Prologue | 132035 | [132035-flatland-prologue.json](./132035-flatland-prologue.json) |
 | Flatlands | 349949 | [349949-flatlands.json](./349949-flatlands.json) |
 | Flatline | 168652 | [168652-flatline.json](./168652-flatline.json) |
+| Flatliners | 60342 | [60342-flatliners.json](./60342-flatliners.json) |
 | FlatOut | 2667 | [2667-flatout.json](./2667-flatout.json) |
 | FlatOut | 309220 | [309220-flatout.json](./309220-flatout.json) |
 | FlatOut | 313773 | [313773-flatout.json](./313773-flatout.json) |
