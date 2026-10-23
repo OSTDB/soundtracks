@@ -2374,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency in Space | 310744 | [310744-emergency-in-space.json](./310744-emergency-in-space.json) |
 | Emergency Lüdenscheid | 346128 | [346128-emergency-ludenscheid.json](./346128-emergency-ludenscheid.json) |
 | Emergency Monster Team | 172441 | [172441-emergency-monster-team.json](./172441-emergency-monster-team.json) |
+| Emergency Rescue: Firefighters | 69689 | [69689-emergency-rescue-firefighters.json](./69689-emergency-rescue-firefighters.json) |
 | Emergency Riot Response | 402562 | [402562-emergency-riot-response.json](./402562-emergency-riot-response.json) |
 | Emergency Robot Simulator | 102183 | [102183-emergency-robot-simulator.json](./102183-emergency-robot-simulator.json) |
 | Emergency Room | 73861 | [73861-emergency-room.json](./73861-emergency-room.json) |
@@ -4735,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Evolution | 197358 | [197358-eternal-evolution.json](./197358-eternal-evolution.json) |
 | Eternal Exile: Beneath the Darkness | 345842 | [345842-eternal-exile-beneath-the-darkness.json](./345842-eternal-exile-beneath-the-darkness.json) |
 | Eternal Exodus | 113556 | [113556-eternal-exodus.json](./113556-eternal-exodus.json) |
+| Eternal Eyes | 69684 | [69684-eternal-eyes.json](./69684-eternal-eyes.json) |
 | Eternal Fate | 15424 | [15424-eternal-fate.json](./15424-eternal-fate.json) |
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
 | Eternal Fidelity | 231843 | [231843-eternal-fidelity.json](./231843-eternal-fidelity.json) |
@@ -5895,6 +5897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Executive Assault 2 | 110573 | [110573-executive-assault-2.json](./110573-executive-assault-2.json) |
 | Executive Command | 207842 | [207842-executive-command.json](./207842-executive-command.json) |
 | Executive Hockey | 82396 | [82396-executive-hockey.json](./82396-executive-hockey.json) |
+| Executive Suite | 69666 | [69666-executive-suite.json](./69666-executive-suite.json) |
 | Executor | 220019 | [220019-executor.json](./220019-executor.json) |
 | Executrix's Folly | 180116 | [180116-executrixs-folly.json](./180116-executrixs-folly.json) |
 | Exed Exes | 6671 | [6671-exed-exes.json](./6671-exed-exes.json) |
