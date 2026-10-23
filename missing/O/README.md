@@ -1436,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omni Kitty | 391070 | [391070-omni-kitty.json](./391070-omni-kitty.json) |
 | Omni Link | 31270 | [31270-omni-link.json](./31270-omni-link.json) |
 | Omni Magic! | 221736 | [221736-omni-magic.json](./221736-omni-magic.json) |
+| Omni-Play Horse Racing | 73642 | [73642-omni-play-horse-racing.json](./73642-omni-play-horse-racing.json) |
 | Omnia | 160099 | [160099-omnia.json](./160099-omnia.json) |
 | Omnibion War | 102092 | [102092-omnibion-war.json](./102092-omnibion-war.json) |
 | Omnibus | 19871 | [19871-omnibus.json](./19871-omnibus.json) |
@@ -3962,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Park Baseball 22 | 142888 | [142888-out-of-the-park-baseball-22.json](./142888-out-of-the-park-baseball-22.json) |
 | Out of the Park Baseball 25 | 287086 | [287086-out-of-the-park-baseball-25.json](./287086-out-of-the-park-baseball-25.json) |
 | Out of the Park Baseball 26 | 329661 | [329661-out-of-the-park-baseball-26.json](./329661-out-of-the-park-baseball-26.json) |
+| Out of the Park Baseball 3 | 73596 | [73596-out-of-the-park-baseball-3.json](./73596-out-of-the-park-baseball-3.json) |
 | Out of the Park Baseball 4 | 23458 | [23458-out-of-the-park-baseball-4.json](./23458-out-of-the-park-baseball-4.json) |
 | Out of the Park Baseball 9 | 21340 | [21340-out-of-the-park-baseball-9.json](./21340-out-of-the-park-baseball-9.json) |
 | Out of the Shelter | 156701 | [156701-out-of-the-shelter.json](./156701-out-of-the-shelter.json) |
