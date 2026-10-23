@@ -1111,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack One | 362465 | [362465-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-one.json](./362465-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-one.json) |
 | Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack Three | 362467 | [362467-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-three.json](./362467-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-three.json) |
 | Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack Two | 362466 | [362466-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-two.json](./362466-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-two.json) |
+| Magic: The Gathering - Spells of the Ancients | 79082 | [79082-magic-the-gathering-spells-of-the-ancients.json](./79082-magic-the-gathering-spells-of-the-ancients.json) |
 | Magic: The Gathering Online | 79081 | [79081-magic-the-gathering-online.json](./79081-magic-the-gathering-online.json) |
 | Magica Arena | 216088 | [216088-magica-arena.json](./216088-magica-arena.json) |
 | Magica Memoria | 289019 | [289019-magica-memoria.json](./289019-magica-memoria.json) |
