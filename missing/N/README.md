@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcissu Side 2nd | 78208 | [78208-narcissu-side-2nd.json](./78208-narcissu-side-2nd.json) |
 | Narcissu: A Little Iris | 127324 | [127324-narcissu-a-little-iris.json](./127324-narcissu-a-little-iris.json) |
 | Narcissu: Himeko's Epilogue | 122263 | [122263-narcissu-himekos-epilogue.json](./122263-narcissu-himekos-epilogue.json) |
+| Narcissu: Moshimo Ashita ga Aru Nara | 65349 | [65349-narcissu-moshimo-ashita-ga-aru-nara.json](./65349-narcissu-moshimo-ashita-ga-aru-nara.json) |
 | Narcissus | 335682 | [335682-narcissus.json](./335682-narcissus.json) |
 | Narcissus | 60355 | [60355-narcissus.json](./60355-narcissus.json) |
 | Narco Check | 389518 | [389518-narco-check.json](./389518-narco-check.json) |
