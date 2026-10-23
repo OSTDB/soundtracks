@@ -1328,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Mist | 224945 | [224945-dark-mist.json](./224945-dark-mist.json) |
 | Dark Mist - The Wizard Vanishes | 141213 | [141213-dark-mist-the-wizard-vanishes.json](./141213-dark-mist-the-wizard-vanishes.json) |
 | Dark Mist- The Wizard Vanishes | 73684 | [73684-dark-mist-the-wizard-vanishes.json](./73684-dark-mist-the-wizard-vanishes.json) |
+| Dark Moon | 69681 | [69681-dark-moon.json](./69681-dark-moon.json) |
 | Dark Moon Deities | 339366 | [339366-dark-moon-deities.json](./339366-dark-moon-deities.json) |
 | Dark Moon Motel | 219650 | [219650-dark-moon-motel.json](./219650-dark-moon-motel.json) |
 | Dark Mountain II | 268626 | [268626-dark-mountain-ii.json](./268626-dark-mountain-ii.json) |
@@ -11182,6 +11183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Robotnik's Mean Bean Tetris | 264896 | [264896-dr-robotniks-mean-bean-tetris.json](./264896-dr-robotniks-mean-bean-tetris.json) |
 | Dr. Robotnik's Ring Racers | 238878 | [238878-dr-robotniks-ring-racers.json](./238878-dr-robotniks-ring-racers.json) |
 | Dr. Rudy | 94262 | [94262-dr-rudy.json](./94262-dr-rudy.json) |
+| Dr. Ruth's Computer Game of Good Sex | 69669 | [69669-dr-ruths-computer-game-of-good-sex.json](./69669-dr-ruths-computer-game-of-good-sex.json) |
 | Dr. Schplot's Nanobots | 95548 | [95548-dr-schplots-nanobots.json](./95548-dr-schplots-nanobots.json) |
 | Dr. Science quest | 193632 | [193632-dr-science-quest.json](./193632-dr-science-quest.json) |
 | Dr. Seuss Band | 89762 | [89762-dr-seuss-band.json](./89762-dr-seuss-band.json) |
@@ -12306,6 +12308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | drawwars.io | 389104 | [389104-drawwars-io.json](./389104-drawwars-io.json) |
 | Drawy | 145283 | [145283-drawy.json](./145283-drawy.json) |
 | Drayt Empire | 32032 | [32032-drayt-empire.json](./32032-drayt-empire.json) |
+| Drazen Petrovic Basket | 69676 | [69676-drazen-petrovic-basket.json](./69676-drazen-petrovic-basket.json) |
 | DRazor | 156084 | [156084-drazor.json](./156084-drazor.json) |
 | Dread | 130910 | [130910-dread.json](./130910-dread.json) |
 | Dread Chess | 338338 | [338338-dread-chess.json](./338338-dread-chess.json) |
@@ -12850,6 +12853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamworks' Universe of Legends | 82114 | [82114-dreamworks-universe-of-legends.json](./82114-dreamworks-universe-of-legends.json) |
 | Dreamworld | 174103 | [174103-dreamworld.json](./174103-dreamworld.json) |
 | DreamWorld | 145026 | [145026-dreamworld.json](./145026-dreamworld.json) |
+| Dreamworld's Open: Mini Golf | 69712 | [69712-dreamworlds-open-mini-golf.json](./69712-dreamworlds-open-mini-golf.json) |
 | Dreamwrought | 387022 | [387022-dreamwrought.json](./387022-dreamwrought.json) |
 | Dreamy Beauties: Heart-Pounding Illustration Puzzle | 416066 | [416066-dreamy-beauties-heart-pounding-illustration-puzzle.json](./416066-dreamy-beauties-heart-pounding-illustration-puzzle.json) |
 | Dreamy Days in West Tokyo | 238424 | [238424-dreamy-days-in-west-tokyo.json](./238424-dreamy-days-in-west-tokyo.json) |
