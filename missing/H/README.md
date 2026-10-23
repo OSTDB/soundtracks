@@ -5026,6 +5026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Gambit | 70704 | [70704-hex-gambit.json](./70704-hex-gambit.json) |
 | Hex Gambit: Respawned | 133136 | [133136-hex-gambit-respawned.json](./133136-hex-gambit-respawned.json) |
 | HEX Hacking Simulator | 156205 | [156205-hex-hacking-simulator.json](./156205-hex-hacking-simulator.json) |
+| Hex Heroes | 61974 | [61974-hex-heroes.json](./61974-hex-heroes.json) |
 | Hex Jump | 264208 | [264208-hex-jump.json](./264208-hex-jump.json) |
 | Hex Mahjong 3D | 200133 | [200133-hex-mahjong-3d.json](./200133-hex-mahjong-3d.json) |
 | Hex Mechs | 103555 | [103555-hex-mechs.json](./103555-hex-mechs.json) |
@@ -6829,6 +6830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey League Simulator | 15503 | [15503-hockey-league-simulator.json](./15503-hockey-league-simulator.json) |
 | Hockey League Simulator II | 15504 | [15504-hockey-league-simulator-ii.json](./15504-hockey-league-simulator-ii.json) |
 | Hockey Legacy Manager 25 | 340475 | [340475-hockey-legacy-manager-25.json](./340475-hockey-legacy-manager-25.json) |
+| Hockey Nations 2010 | 62038 | [62038-hockey-nations-2010.json](./62038-hockey-nations-2010.json) |
 | Hockey Player VR | 117837 | [117837-hockey-player-vr.json](./117837-hockey-player-vr.json) |
 | Hockey Pong | 93444 | [93444-hockey-pong.json](./93444-hockey-pong.json) |
 | Hockey Rage 2005 | 70576 | [70576-hockey-rage-2005.json](./70576-hockey-rage-2005.json) |
