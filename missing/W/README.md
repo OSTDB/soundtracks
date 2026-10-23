@@ -619,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted 18 | 153744 | [153744-wanted-18.json](./153744-wanted-18.json) |
 | Wanted 3D: Dead or Alive | 335858 | [335858-wanted-3d-dead-or-alive.json](./335858-wanted-3d-dead-or-alive.json) |
 | Wanted Corp. | 19211 | [19211-wanted-corp.json](./19211-wanted-corp.json) |
+| Wanted Dead or Alive | 72524 | [72524-wanted-dead-or-alive.json](./72524-wanted-dead-or-alive.json) |
 | Wanted Raccoon | 144087 | [144087-wanted-raccoon.json](./144087-wanted-raccoon.json) |
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
 | Wanted Shadows: Unchained | 373076 | [373076-wanted-shadows-unchained.json](./373076-wanted-shadows-unchained.json) |
@@ -3292,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Angels Cry: Tears of the Fallen - Collectors Edition | 34175 | [34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json](./34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json) |
 | Where Angels Meet | 135114 | [135114-where-angels-meet.json](./135114-where-angels-meet.json) |
 | Where are Leo and Mia? Pirate Island | 420655 | [420655-where-are-leo-and-mia-pirate-island.json](./420655-where-are-leo-and-mia-pirate-island.json) |
+| Where Are My Friends? | 72517 | [72517-where-are-my-friends.json](./72517-where-are-my-friends.json) |
 | Where are My Mittens | 195005 | [195005-where-are-my-mittens.json](./195005-where-are-my-mittens.json) |
 | Where Are My Pipes? | 89476 | [89476-where-are-my-pipes.json](./89476-where-are-my-pipes.json) |
 | Where are my potatoes 2: Land Of Mystery | 276815 | [276815-where-are-my-potatoes-2-land-of-mystery.json](./276815-where-are-my-potatoes-2-land-of-mystery.json) |
@@ -3802,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Dies First? | 318856 | [318856-who-dies-first.json](./318856-who-dies-first.json) |
 | Who Dies Last? | 214169 | [214169-who-dies-last.json](./214169-who-dies-last.json) |
 | Who Do You Want to Date? Professional Girls Collection | 288902 | [288902-who-do-you-want-to-date-professional-girls-collection.json](./288902-who-do-you-want-to-date-professional-girls-collection.json) |
+| Who Framed Roger Rabbit | 72470 | [72470-who-framed-roger-rabbit.json](./72470-who-framed-roger-rabbit.json) |
 | Who Framed Roger Rabbit | 75692 | [75692-who-framed-roger-rabbit.json](./75692-who-framed-roger-rabbit.json) |
 | Who Has the Biggest Brain? | 182214 | [182214-who-has-the-biggest-brain.json](./182214-who-has-the-biggest-brain.json) |
 | Who I Am | 386415 | [386415-who-i-am.json](./386415-who-i-am.json) |
@@ -7112,6 +7115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wraith | 125994 | [125994-wraith.json](./125994-wraith.json) |
 | Wraith | 288450 | [288450-wraith.json](./288450-wraith.json) |
 | Wraith | 383758 | [383758-wraith.json](./383758-wraith.json) |
+| Wraith | 72505 | [72505-wraith.json](./72505-wraith.json) |
 | Wraith Ops | 165574 | [165574-wraith-ops.json](./165574-wraith-ops.json) |
 | Wraith VR | 187515 | [187515-wraith-vr.json](./187515-wraith-vr.json) |
 | Wraith: The Oblivion - Afterlife | 135110 | [135110-wraith-the-oblivion-afterlife.json](./135110-wraith-the-oblivion-afterlife.json) |
