@@ -13713,6 +13713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Australian Maze | 273356 | [273356-australian-maze.json](./273356-australian-maze.json) |
 | Australian Open VR | 329418 | [329418-australian-open-vr.json](./329418-australian-open-vr.json) |
 | Australian Road Trains | 119596 | [119596-australian-road-trains.json](./119596-australian-road-trains.json) |
+| Australian Rugby League | 45756 | [45756-australian-rugby-league.json](./45756-australian-rugby-league.json) |
 | Australian Trip | 76377 | [76377-australian-trip.json](./76377-australian-trip.json) |
 | Australiove | 181795 | [181795-australiove.json](./181795-australiove.json) |
 | Australo Piticus Mechanicus | 14277 | [14277-australo-piticus-mechanicus.json](./14277-australo-piticus-mechanicus.json) |
@@ -14305,6 +14306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awolnation: Megalithic Mayhem | 174228 | [174228-awolnation-megalithic-mayhem.json](./174228-awolnation-megalithic-mayhem.json) |
 | Aworded Crack | 108602 | [108602-aworded-crack.json](./108602-aworded-crack.json) |
 | Aworg | 214959 | [214959-aworg.json](./214959-aworg.json) |
+| Aworg: Hero in the Sky | 45741 | [45741-aworg-hero-in-the-sky.json](./45741-aworg-hero-in-the-sky.json) |
 | AWP Mode | 216111 | [216111-awp-mode.json](./216111-awp-mode.json) |
 | Awrak | 348589 | [348589-awrak.json](./348589-awrak.json) |
 | AWS Argentina Wingshooting Simulator | 75032 | [75032-aws-argentina-wingshooting-simulator.json](./75032-aws-argentina-wingshooting-simulator.json) |
