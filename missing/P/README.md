@@ -1207,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Airplane Flying Game | 414452 | [414452-paper-airplane-flying-game.json](./414452-paper-airplane-flying-game.json) |
 | Paper Angel | 247522 | [247522-paper-angel.json](./247522-paper-angel.json) |
 | Paper Animal Adventure | 204515 | [204515-paper-animal-adventure.json](./204515-paper-animal-adventure.json) |
+| Paper Anne | 89763 | [89763-paper-anne.json](./89763-paper-anne.json) |
 | Paper Attack | 227738 | [227738-paper-attack.json](./227738-paper-attack.json) |
 | Paper Beast | 117293 | [117293-paper-beast.json](./117293-paper-beast.json) |
 | Paper Beast: Enhanced Edition | 268370 | [268370-paper-beast-enhanced-edition.json](./268370-paper-beast-enhanced-edition.json) |
@@ -1330,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Toss | 259632 | [259632-paper-toss.json](./259632-paper-toss.json) |
 | Paper Toss | 67692 | [67692-paper-toss.json](./67692-paper-toss.json) |
 | Paper Toss 2.0 | 60991 | [60991-paper-toss-2-0.json](./60991-paper-toss-2-0.json) |
+| Paper Toss Boss | 89623 | [89623-paper-toss-boss.json](./89623-paper-toss-boss.json) |
 | Paper Toss VR | 29186 | [29186-paper-toss-vr.json](./29186-paper-toss-vr.json) |
 | Paper Toss: World Tour | 64299 | [64299-paper-toss-world-tour.json](./64299-paper-toss-world-tour.json) |
 | Paper Trail | 142561 | [142561-paper-trail.json](./142561-paper-trail.json) |
@@ -4610,6 +4612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano at 5 am | 247431 | [247431-piano-at-5-am.json](./247431-piano-at-5-am.json) |
 | Piano at 5 am Encore | 366722 | [366722-piano-at-5-am-encore.json](./366722-piano-at-5-am-encore.json) |
 | Piano Bar | 108368 | [108368-piano-bar.json](./108368-piano-bar.json) |
+| Piano Cat | 89638 | [89638-piano-cat.json](./89638-piano-cat.json) |
 | Piano Game X | 101521 | [101521-piano-game-x.json](./101521-piano-game-x.json) |
 | Piano Game: Classic Music Song | 223987 | [223987-piano-game-classic-music-song.json](./223987-piano-game-classic-music-song.json) |
 | Piano Journey | 175091 | [175091-piano-journey.json](./175091-piano-journey.json) |
