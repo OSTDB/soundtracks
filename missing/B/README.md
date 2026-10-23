@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Panda's Vacation | 106599 | [106599-baby-pandas-vacation.json](./106599-baby-pandas-vacation.json) |
 | Baby Princess Phone | 101656 | [101656-baby-princess-phone.json](./101656-baby-princess-phone.json) |
 | Baby Puzzle: First Learning Shapes for Toddlers | 147985 | [147985-baby-puzzle-first-learning-shapes-for-toddlers.json](./147985-baby-puzzle-first-learning-shapes-for-toddlers.json) |
+| Baby Rattle with Child Lock | 96562 | [96562-baby-rattle-with-child-lock.json](./96562-baby-rattle-with-child-lock.json) |
 | Baby Redemption | 115554 | [115554-baby-redemption.json](./115554-baby-redemption.json) |
 | Baby Shaker | 256812 | [256812-baby-shaker.json](./256812-baby-shaker.json) |
 | Baby Shapes for Kids | 225893 | [225893-baby-shapes-for-kids.json](./225893-baby-shapes-for-kids.json) |
@@ -266,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babysitting Fun | 310540 | [310540-babysitting-fun.json](./310540-babysitting-fun.json) |
 | Babysitting Mania | 47979 | [47979-babysitting-mania.json](./47979-babysitting-mania.json) |
 | Babysitting Party | 92669 | [92669-babysitting-party.json](./92669-babysitting-party.json) |
+| BabyUp: Butterflies | 96576 | [96576-babyup-butterflies.json](./96576-babyup-butterflies.json) |
 | BabyUp: Dinos | 102638 | [102638-babyup-dinos.json](./102638-babyup-dinos.json) |
 | Babyz | 205899 | [205899-babyz.json](./205899-babyz.json) |
 | Babyz: Your Virtual Bundle of Joy | 70343 | [70343-babyz-your-virtual-bundle-of-joy.json](./70343-babyz-your-virtual-bundle-of-joy.json) |
@@ -1034,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bald Bull's Punch-Out!! | 356061 | [356061-bald-bulls-punch-out.json](./356061-bald-bulls-punch-out.json) |
 | Bald Luigi's Crustmust Deluxe | 187084 | [187084-bald-luigis-crustmust-deluxe.json](./187084-bald-luigis-crustmust-deluxe.json) |
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
+| Balda | 96544 | [96544-balda.json](./96544-balda.json) |
 | Baldi's Basic's Advanced 0.0.1 | 179933 | [179933-baldis-basics-advanced-0-0-1.json](./179933-baldis-basics-advanced-0-0-1.json) |
 | Baldi's Basics 1 Year Birthday Bash! | 176497 | [176497-baldis-basics-1-year-birthday-bash.json](./176497-baldis-basics-1-year-birthday-bash.json) |
 | Baldi's Basics Classic Remastered | 200473 | [200473-baldis-basics-classic-remastered.json](./200473-baldis-basics-classic-remastered.json) |
@@ -4227,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Stickman: Infinity Clones | 112072 | [112072-beat-stickman-infinity-clones.json](./112072-beat-stickman-infinity-clones.json) |
 | Beat Stickman: Infinity Clones - Definitive Edition | 120107 | [120107-beat-stickman-infinity-clones-definitive-edition.json](./120107-beat-stickman-infinity-clones-definitive-edition.json) |
 | Beat Survival | 264541 | [264541-beat-survival.json](./264541-beat-survival.json) |
+| Beat the Art Breaker | 96564 | [96564-beat-the-art-breaker.json](./96564-beat-the-art-breaker.json) |
 | Beat the Beat! | 262376 | [262376-beat-the-beat.json](./262376-beat-the-beat.json) |
 | Beat the Beats | 281956 | [281956-beat-the-beats.json](./281956-beat-the-beats.json) |
 | Beat the Bird | 247076 | [247076-beat-the-bird.json](./247076-beat-the-bird.json) |
@@ -8282,6 +8286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Smash | 171489 | [171489-block-smash.json](./171489-block-smash.json) |
 | Block Smash | 58834 | [58834-block-smash.json](./58834-block-smash.json) |
 | Block Smasher: 3D Arcade Action Reaction Brick Breaker Game | 90667 | [90667-block-smasher-3d-arcade-action-reaction-brick-breaker-game.json](./90667-block-smasher-3d-arcade-action-reaction-brick-breaker-game.json) |
+| Block Smashers | 96473 | [96473-block-smashers.json](./96473-block-smashers.json) |
 | Block Sprawl | 406673 | [406673-block-sprawl.json](./406673-block-sprawl.json) |
 | Block Steady | 218887 | [218887-block-steady.json](./218887-block-steady.json) |
 | Block Story | 9175 | [9175-block-story.json](./9175-block-story.json) |
@@ -10962,6 +10967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling 2000 | 391790 | [391790-bowling-2000.json](./391790-bowling-2000.json) |
 | Bowling 3D | 42776 | [42776-bowling-3d.json](./42776-bowling-3d.json) |
 | Bowling 3D Extreme | 89226 | [89226-bowling-3d-extreme.json](./89226-bowling-3d-extreme.json) |
+| Bowling 3D Extreme Plus | 96573 | [96573-bowling-3d-extreme-plus.json](./96573-bowling-3d-extreme-plus.json) |
 | Bowling Alley | 230840 | [230840-bowling-alley.json](./230840-bowling-alley.json) |
 | Bowling at the Lake | 30190 | [30190-bowling-at-the-lake.json](./30190-bowling-at-the-lake.json) |
 | Bowling Ballers | 204864 | [204864-bowling-ballers.json](./204864-bowling-ballers.json) |
