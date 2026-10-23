@@ -4254,6 +4254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masterpieced | 231543 | [231543-masterpieced.json](./231543-masterpieced.json) |
 | MasterQ | 207536 | [207536-masterq.json](./207536-masterq.json) |
 | MasterQuest Fantasy | 378977 | [378977-masterquest-fantasy.json](./378977-masterquest-fantasy.json) |
+| Masters '98: Harukanaru Augusta | 47744 | [47744-masters-98-harukanaru-augusta.json](./47744-masters-98-harukanaru-augusta.json) |
 | Masters & Heroes | 225586 | [225586-masters-and-heroes.json](./225586-masters-and-heroes.json) |
 | Masters of Albion | 314272 | [314272-masters-of-albion.json](./314272-masters-of-albion.json) |
 | Masters of Cards | 322585 | [322585-masters-of-cards.json](./322585-masters-of-cards.json) |
@@ -5396,6 +5397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanic Infantry | 61986 | [61986-mechanic-infantry.json](./61986-mechanic-infantry.json) |
 | Mechanic Legends | 314472 | [314472-mechanic-legends.json](./314472-mechanic-legends.json) |
 | Mechanic Master | 23822 | [23822-mechanic-master.json](./23822-mechanic-master.json) |
+| Mechanic Master 2 | 47802 | [47802-mechanic-master-2.json](./47802-mechanic-master-2.json) |
 | Mechanic Mechanica | 210838 | [210838-mechanic-mechanica.json](./210838-mechanic-mechanica.json) |
 | Mechanic Miner | 77754 | [77754-mechanic-miner.json](./77754-mechanic-miner.json) |
 | Mechanic Story | 245738 | [245738-mechanic-story.json](./245738-mechanic-story.json) |
@@ -10224,6 +10226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | mini PVP | 118088 | [118088-mini-pvp.json](./118088-mini-pvp.json) |
 | Mini Quests | 207852 | [207852-mini-quests.json](./207852-mini-quests.json) |
 | Mini Racer Car Shop Simulator | 326386 | [326386-mini-racer-car-shop-simulator.json](./326386-mini-racer-car-shop-simulator.json) |
+| Mini Racers | 47738 | [47738-mini-racers.json](./47738-mini-racers.json) |
 | Mini Racing Adventures | 233917 | [233917-mini-racing-adventures.json](./233917-mini-racing-adventures.json) |
 | Mini Racing Mania: Multiplayer | 36922 | [36922-mini-racing-mania-multiplayer.json](./36922-mini-racing-mania-multiplayer.json) |
 | Mini Racing World | 152461 | [152461-mini-racing-world.json](./152461-mini-racing-world.json) |
@@ -15347,6 +15350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Hornets | 164967 | [164967-murder-hornets.json](./164967-murder-hornets.json) |
 | Murder in a Wheel | 62153 | [62153-murder-in-a-wheel.json](./62153-murder-in-a-wheel.json) |
 | Murder in the Maze | 308418 | [308418-murder-in-the-maze.json](./308418-murder-in-the-maze.json) |
+| Murder In Venice | 47792 | [47792-murder-in-venice.json](./47792-murder-in-venice.json) |
 | Murder Inc | 333442 | [333442-murder-inc.json](./333442-murder-inc.json) |
 | Murder Is Game Over | 197110 | [197110-murder-is-game-over.json](./197110-murder-is-game-over.json) |
 | Murder Is Game Over: Deal Killer | 255750 | [255750-murder-is-game-over-deal-killer.json](./255750-murder-is-game-over-deal-killer.json) |
@@ -16727,6 +16731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sail and My Sea | 133465 | [133465-my-sail-and-my-sea.json](./133465-my-sail-and-my-sea.json) |
 | My SameGame | 64433 | [64433-my-samegame.json](./64433-my-samegame.json) |
 | My Secret Bistro: Cooking Game | 246661 | [246661-my-secret-bistro-cooking-game.json](./246661-my-secret-bistro-cooking-game.json) |
+| My Secret Diary | 47799 | [47799-my-secret-diary.json](./47799-my-secret-diary.json) |
 | My Secret Ocean Boyfriend | 298979 | [298979-my-secret-ocean-boyfriend.json](./298979-my-secret-ocean-boyfriend.json) |
 | My Secret Pets! | 33396 | [33396-my-secret-pets.json](./33396-my-secret-pets.json) |
 | My Secret Spy Lovers | 228433 | [228433-my-secret-spy-lovers.json](./228433-my-secret-spy-lovers.json) |
