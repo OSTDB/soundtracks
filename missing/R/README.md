@@ -3676,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reindeer Games | 388168 | [388168-reindeer-games.json](./388168-reindeer-games.json) |
 | Reindeer Racing | 340708 | [340708-reindeer-racing.json](./340708-reindeer-racing.json) |
 | Reindeer Rescue | 68708 | [68708-reindeer-rescue.json](./68708-reindeer-rescue.json) |
+| Reindeer Rescue | 80355 | [80355-reindeer-rescue.json](./80355-reindeer-rescue.json) |
 | Reindeer Story | 211798 | [211798-reindeer-story.json](./211798-reindeer-story.json) |
 | Reine des Fleurs | 86190 | [86190-reine-des-fleurs.json](./86190-reine-des-fleurs.json) |
 | Reiner Knizia's Kingdoms | 224994 | [224994-reiner-knizias-kingdoms.json](./224994-reiner-knizias-kingdoms.json) |
@@ -6333,6 +6334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Sun | 850 | [850-rising-sun.json](./850-rising-sun.json) |
 | Rising Sun Mahjong | 257079 | [257079-rising-sun-mahjong.json](./257079-rising-sun-mahjong.json) |
 | Rising Sun VR | 193125 | [193125-rising-sun-vr.json](./193125-rising-sun-vr.json) |
+| Rising Sun: Imperial Strike | 80296 | [80296-rising-sun-imperial-strike.json](./80296-rising-sun-imperial-strike.json) |
 | Rising Sun: Iron Aces | 212218 | [212218-rising-sun-iron-aces.json](./212218-rising-sun-iron-aces.json) |
 | Rising Super Chef 2 | 99399 | [99399-rising-super-chef-2.json](./99399-rising-super-chef-2.json) |
 | Rising Sushi | 174287 | [174287-rising-sushi.json](./174287-rising-sushi.json) |
