@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V.O.D.K.A. Open World Survival Shooter | 144021 | [144021-v-o-d-k-a-open-world-survival-shooter.json](./144021-v-o-d-k-a-open-world-survival-shooter.json) |
 | V.O.I.D.: Vexation of Infinite Dungeons | 245886 | [245886-v-o-i-d-vexation-of-infinite-dungeons.json](./245886-v-o-i-d-vexation-of-infinite-dungeons.json) |
 | V.O.S.S. Turbo | 215918 | [215918-v-o-s-s-turbo.json](./215918-v-o-s-s-turbo.json) |
+| V.R. Virtua Racing | 70773 | [70773-v-r-virtua-racing.json](./70773-v-r-virtua-racing.json) |
 | V.R.G. | 181127 | [181127-v-r-g.json](./181127-v-r-g.json) |
 | V.T. | 103838 | [103838-v-t.json](./103838-v-t.json) |
 | V’s Rage | 374895 | [374895-v-s-rage.json](./374895-v-s-rage.json) |
@@ -899,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Casino Slots Mania | 232362 | [232362-vegas-casino-slots-mania.json](./232362-vegas-casino-slots-mania.json) |
 | Vegas Connection: Casino Kara Ai wo Komete | 48872 | [48872-vegas-connection-casino-kara-ai-wo-komete.json](./48872-vegas-connection-casino-kara-ai-wo-komete.json) |
 | Vegas Dream | 3661 | [3661-vegas-dream.json](./3661-vegas-dream.json) |
+| Vegas Fever Winner Takes All | 70792 | [70792-vegas-fever-winner-takes-all.json](./70792-vegas-fever-winner-takes-all.json) |
 | Vegas Fever: High Roller Edition | 206203 | [206203-vegas-fever-high-roller-edition.json](./206203-vegas-fever-high-roller-edition.json) |
 | Vegas Games | 282708 | [282708-vegas-games.json](./282708-vegas-games.json) |
 | Vegas Games 2000 | 46639 | [46639-vegas-games-2000.json](./46639-vegas-games-2000.json) |
@@ -1662,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigil in the Mist | 409755 | [409755-vigil-in-the-mist.json](./409755-vigil-in-the-mist.json) |
 | Vigil of Glory - Part I | 130255 | [130255-vigil-of-glory-part-i.json](./130255-vigil-of-glory-part-i.json) |
 | Vigilance | 93480 | [93480-vigilance.json](./93480-vigilance.json) |
+| Vigilance on Talos V | 70820 | [70820-vigilance-on-talos-v.json](./70820-vigilance-on-talos-v.json) |
 | Vigilancer 2099 | 228480 | [228480-vigilancer-2099.json](./228480-vigilancer-2099.json) |
 | Vigilant Inquest | 309659 | [309659-vigilant-inquest.json](./309659-vigilant-inquest.json) |
 | Vigilante | 10444 | [10444-vigilante.json](./10444-vigilante.json) |
