@@ -3204,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -5414,6 +5415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry Empire III: Ancestry of the Emperor | 63830 | [63830-wizardry-empire-iii-ancestry-of-the-emperor.json](./63830-wizardry-empire-iii-ancestry-of-the-emperor.json) |
 | Wizardry Empire: Fukkatsu no Tsue | 50049 | [50049-wizardry-empire-fukkatsu-no-tsue.json](./50049-wizardry-empire-fukkatsu-no-tsue.json) |
 | Wizardry Empire: Princess of the Ancient | 63826 | [63826-wizardry-empire-princess-of-the-ancient.json](./63826-wizardry-empire-princess-of-the-ancient.json) |
+| Wizardry Gaiden III: Scripture of the Dark | 49144 | [49144-wizardry-gaiden-iii-scripture-of-the-dark.json](./49144-wizardry-gaiden-iii-scripture-of-the-dark.json) |
 | Wizardry I & II | 123080 | [123080-wizardry-i-and-ii.json](./123080-wizardry-i-and-ii.json) |
 | Wizardry I-II-III: The Story of Llylgamyn | 42528 | [42528-wizardry-i-ii-iii-the-story-of-llylgamyn.json](./42528-wizardry-i-ii-iii-the-story-of-llylgamyn.json) |
 | Wizardry II: Llylgamyn no Isan | 50047 | [50047-wizardry-ii-llylgamyn-no-isan.json](./50047-wizardry-ii-llylgamyn-no-isan.json) |
