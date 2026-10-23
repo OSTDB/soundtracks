@@ -5555,6 +5555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Bus Frontiers | 293222 | [293222-desert-bus-frontiers.json](./293222-desert-bus-frontiers.json) |
 | Desert Child | 91970 | [91970-desert-child.json](./91970-desert-child.json) |
 | Desert Comets | 184923 | [184923-desert-comets.json](./184923-desert-comets.json) |
+| Desert Craft Exploration | 95888 | [95888-desert-craft-exploration.json](./95888-desert-craft-exploration.json) |
 | Desert Demolition Starring Road Runner and Wile E. Coyote | 4518 | [4518-desert-demolition-starring-road-runner-and-wile-e-coyote.json](./4518-desert-demolition-starring-road-runner-and-wile-e-coyote.json) |
 | Desert Dive | 317425 | [317425-desert-dive.json](./317425-desert-dive.json) |
 | Desert Domination | 122922 | [122922-desert-domination.json](./122922-desert-domination.json) |
@@ -11066,6 +11067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. P | 278398 | [278398-dr-p.json](./278398-dr-p.json) |
 | Dr. Panda & Toto's Treehouse | 61050 | [61050-dr-panda-and-totos-treehouse.json](./61050-dr-panda-and-totos-treehouse.json) |
 | Dr. Panda Restaurant 2 | 344927 | [344927-dr-panda-restaurant-2.json](./344927-dr-panda-restaurant-2.json) |
+| Dr. Panda Restaurant 3 | 95819 | [95819-dr-panda-restaurant-3.json](./95819-dr-panda-restaurant-3.json) |
 | Dr. Panda's Restaurant | 87345 | [87345-dr-pandas-restaurant.json](./87345-dr-pandas-restaurant.json) |
 | Dr. Panic | 202125 | [202125-dr-panic.json](./202125-dr-panic.json) |
 | Dr. Paolo no Totteoki Video | 307968 | [307968-dr-paolo-no-totteoki-video.json](./307968-dr-paolo-no-totteoki-video.json) |
@@ -12099,6 +12101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw & Color Maze: Paint Labyrinth Puzzle | 276959 | [276959-draw-and-color-maze-paint-labyrinth-puzzle.json](./276959-draw-and-color-maze-paint-labyrinth-puzzle.json) |
 | Draw & Guess | 150463 | [150463-draw-and-guess.json](./150463-draw-and-guess.json) |
 | Draw & Guess Multiplayer | 348948 | [348948-draw-and-guess-multiplayer.json](./348948-draw-and-guess-multiplayer.json) |
+| Draw 1 Line - a puzzle game | 95903 | [95903-draw-1-line-a-puzzle-game.json](./95903-draw-1-line-a-puzzle-game.json) |
 | Draw 2 Save: Stickman Puzzle | 208980 | [208980-draw-2-save-stickman-puzzle.json](./208980-draw-2-save-stickman-puzzle.json) |
 | Draw a Perfect Circle | 328844 | [328844-draw-a-perfect-circle.json](./328844-draw-a-perfect-circle.json) |
 | Draw a Stickman: Epic | 5032 | [5032-draw-a-stickman-epic.json](./5032-draw-a-stickman-epic.json) |
