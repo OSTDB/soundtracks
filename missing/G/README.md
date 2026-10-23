@@ -1218,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamer Pack | 131182 | [131182-gamer-pack.json](./131182-gamer-pack.json) |
 | Gamer Quest | 319951 | [319951-gamer-quest.json](./319951-gamer-quest.json) |
 | Gamer Shop Simulator | 129309 | [129309-gamer-shop-simulator.json](./129309-gamer-shop-simulator.json) |
+| Gamer's Jackpot 30 PAC | 73649 | [73649-gamers-jackpot-30-pac.json](./73649-gamers-jackpot-30-pac.json) |
 | Gamera 2000 | 44865 | [44865-gamera-2000.json](./44865-gamera-2000.json) |
 | Gamera Dream Battle | 227743 | [227743-gamera-dream-battle.json](./227743-gamera-dream-battle.json) |
 | Gamera: Gyaos Gekimetsu Sakusen | 44403 | [44403-gamera-gyaos-gekimetsu-sakusen.json](./44403-gamera-gyaos-gekimetsu-sakusen.json) |
@@ -2720,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Acc_E55 | 186586 | [186586-get-acc-e55.json](./186586-get-acc-e55.json) |
 | Get Achievements for Achievements | 188527 | [188527-get-achievements-for-achievements.json](./188527-get-achievements-for-achievements.json) |
 | Get Away From The Cube | 335678 | [335678-get-away-from-the-cube.json](./335678-get-away-from-the-cube.json) |
+| Get Backers Dakkanoku: Ubawareta Mugenjou | 73632 | [73632-get-backers-dakkanoku-ubawareta-mugenjou.json](./73632-get-backers-dakkanoku-ubawareta-mugenjou.json) |
 | Get Backers Dakkanoku: Ura Shinjuku Saikyou Battle | 77125 | [77125-get-backers-dakkanoku-ura-shinjuku-saikyou-battle.json](./77125-get-backers-dakkanoku-ura-shinjuku-saikyou-battle.json) |
 | Get Bass: Sega Bass Fishing | 39462 | [39462-get-bass-sega-bass-fishing.json](./39462-get-bass-sega-bass-fishing.json) |
 | Get Baz Home | 318521 | [318521-get-baz-home.json](./318521-get-baz-home.json) |
@@ -4784,6 +4786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods & Heroes | 13858 | [13858-gods-and-heroes.json](./13858-gods-and-heroes.json) |
 | Gods & Heroes: Rome Rising | 10368 | [10368-gods-and-heroes-rome-rising.json](./10368-gods-and-heroes-rome-rising.json) |
 | Gods Against Machines | 240703 | [240703-gods-against-machines.json](./240703-gods-against-machines.json) |
+| Gods and Generals | 73662 | [73662-gods-and-generals.json](./73662-gods-and-generals.json) |
 | Gods and Idols | 33950 | [33950-gods-and-idols.json](./33950-gods-and-idols.json) |
 | Gods and Mages | 387746 | [387746-gods-and-mages.json](./387746-gods-and-mages.json) |
 | Gods and Nemesis: of Ghosts from Dragons | 31884 | [31884-gods-and-nemesis-of-ghosts-from-dragons.json](./31884-gods-and-nemesis-of-ghosts-from-dragons.json) |
@@ -4867,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goeland: Seagull Adventure | 292994 | [292994-goeland-seagull-adventure.json](./292994-goeland-seagull-adventure.json) |
 | Goemon: Mononoke Sugoroku | 3507 | [3507-goemon-mononoke-sugoroku.json](./3507-goemon-mononoke-sugoroku.json) |
 | Goemon: New Age Shutsudou! | 49598 | [49598-goemon-new-age-shutsudou.json](./49598-goemon-new-age-shutsudou.json) |
+| Goemon: Shin Sedai Shuumei | 73580 | [73580-goemon-shin-sedai-shuumei.json](./73580-goemon-shin-sedai-shuumei.json) |
 | Goemon's Great Adventure | 3508 | [3508-goemons-great-adventure.json](./3508-goemons-great-adventure.json) |
 | Goethe's Last Laugh | 376569 | [376569-goethes-last-laugh.json](./376569-goethes-last-laugh.json) |
 | Goetia 1 | 257293 | [257293-goetia-1.json](./257293-goetia-1.json) |
@@ -5023,6 +5027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Axed: A Cancelled Prototype | 140044 | [140044-golden-axed-a-cancelled-prototype.json](./140044-golden-axed-a-cancelled-prototype.json) |
 | Golden Ball | 311206 | [311206-golden-ball.json](./311206-golden-ball.json) |
 | Golden Balls | 78081 | [78081-golden-balls.json](./78081-golden-balls.json) |
+| Golden Basket | 73598 | [73598-golden-basket.json](./73598-golden-basket.json) |
 | Golden Chambers | 253999 | [253999-golden-chambers.json](./253999-golden-chambers.json) |
 | Golden Dungeons | 88193 | [88193-golden-dungeons.json](./88193-golden-dungeons.json) |
 | Golden Egg | 219800 | [219800-golden-egg.json](./219800-golden-egg.json) |
@@ -6191,6 +6196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix Rock 'N Racing | 19892 | [19892-grand-prix-rock-n-racing.json](./19892-grand-prix-rock-n-racing.json) |
 | Grand Prix Simulator | 13861 | [13861-grand-prix-simulator.json](./13861-grand-prix-simulator.json) |
 | Grand Prix Tennis | 83378 | [83378-grand-prix-tennis.json](./83378-grand-prix-tennis.json) |
+| Grand Prix Unlimited | 73597 | [73597-grand-prix-unlimited.json](./73597-grand-prix-unlimited.json) |
 | Grand Pskov Story | 74930 | [74930-grand-pskov-story.json](./74930-grand-pskov-story.json) |
 | Grand Rush VR: Highway Car Traffic Racing Simulator | 318268 | [318268-grand-rush-vr-highway-car-traffic-racing-simulator.json](./318268-grand-rush-vr-highway-car-traffic-racing-simulator.json) |
 | Grand Rush: Highway Car Traffic Racing Simulator | 312843 | [312843-grand-rush-highway-car-traffic-racing-simulator.json](./312843-grand-rush-highway-car-traffic-racing-simulator.json) |
