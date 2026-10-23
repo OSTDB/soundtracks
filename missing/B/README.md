@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backseat Champions | 389098 | [389098-backseat-champions.json](./389098-backseat-champions.json) |
 | Backseat Drivers | 342047 | [342047-backseat-drivers.json](./342047-backseat-drivers.json) |
 | BackSlap | 349318 | [349318-backslap.json](./349318-backslap.json) |
+| BackSlash | 55621 | [55621-backslash.json](./55621-backslash.json) |
 | Backspace | 343467 | [343467-backspace.json](./343467-backspace.json) |
 | Backspace Backspace Backspace | 309500 | [309500-backspace-backspace-backspace.json](./309500-backspace-backspace-backspace.json) |
 | Backspace Bouken | 119820 | [119820-backspace-bouken.json](./119820-backspace-bouken.json) |
@@ -6231,6 +6232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billiard Rampage | 389682 | [389682-billiard-rampage.json](./389682-billiard-rampage.json) |
 | Billiard: VR | 30197 | [30197-billiard-vr.json](./30197-billiard-vr.json) |
 | Billiards | 362425 | [362425-billiards.json](./362425-billiards.json) |
+| Billiards | 55636 | [55636-billiards.json](./55636-billiards.json) |
 | Billiards Champ 3D | 146731 | [146731-billiards-champ-3d.json](./146731-billiards-champ-3d.json) |
 | Billiards Dungeon | 149079 | [149079-billiards-dungeon.json](./149079-billiards-dungeon.json) |
 | Billiards II Simulator | 14305 | [14305-billiards-ii-simulator.json](./14305-billiards-ii-simulator.json) |
@@ -7710,6 +7712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasphemous: Digital Deluxe Edition | 227410 | [227410-blasphemous-digital-deluxe-edition.json](./227410-blasphemous-digital-deluxe-edition.json) |
 | Blasphemous: Strife & Ruin | 229861 | [229861-blasphemous-strife-and-ruin.json](./229861-blasphemous-strife-and-ruin.json) |
 | Blasphemous: Wounds of Eventide | 165391 | [165391-blasphemous-wounds-of-eventide.json](./165391-blasphemous-wounds-of-eventide.json) |
+| Blast | 55758 | [55758-blast.json](./55758-blast.json) |
 | Blast 'Em Bunnies | 21321 | [21321-blast-em-bunnies.json](./21321-blast-em-bunnies.json) |
 | Blast 3D The Arrival: Chapter 0 | 303366 | [303366-blast-3d-the-arrival-chapter-0.json](./303366-blast-3d-the-arrival-chapter-0.json) |
 | Blast Ball | 22328 | [22328-blast-ball.json](./22328-blast-ball.json) |
