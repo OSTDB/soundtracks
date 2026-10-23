@@ -3344,6 +3344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadwood Drive | 385302 | [385302-deadwood-drive.json](./385302-deadwood-drive.json) |
 | Deadwood: The Forgotten Curse | 22738 | [22738-deadwood-the-forgotten-curse.json](./22738-deadwood-the-forgotten-curse.json) |
 | Deadword | 238301 | [238301-deadword.json](./238301-deadword.json) |
+| DeadZ | 62051 | [62051-deadz.json](./62051-deadz.json) |
 | Deadzone Blackout | 297920 | [297920-deadzone-blackout.json](./297920-deadzone-blackout.json) |
 | Deadzone Haunt | 332390 | [332390-deadzone-haunt.json](./332390-deadzone-haunt.json) |
 | Deadzone Rogue 2 | 403822 | [403822-deadzone-rogue-2.json](./403822-deadzone-rogue-2.json) |
@@ -9159,6 +9160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Puzzle | 239773 | [239773-dog-puzzle.json](./239773-dog-puzzle.json) |
 | Dog Run - Pet Dog Simulator | 107062 | [107062-dog-run-pet-dog-simulator.json](./107062-dog-run-pet-dog-simulator.json) |
 | Dog School: Lovely Puppy | 222179 | [222179-dog-school-lovely-puppy.json](./222179-dog-school-lovely-puppy.json) |
+| Dog Show Friends | 62043 | [62043-dog-show-friends.json](./62043-dog-show-friends.json) |
 | Dog Sim Online: Build A Family | 88031 | [88031-dog-sim-online-build-a-family.json](./88031-dog-sim-online-build-a-family.json) |
 | Dog Simulator: Dog Life Games | 296771 | [296771-dog-simulator-dog-life-games.json](./296771-dog-simulator-dog-life-games.json) |
 | Dog Sled Saga | 17163 | [17163-dog-sled-saga.json](./17163-dog-sled-saga.json) |
@@ -11056,6 +11058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downhill Republic | 193822 | [193822-downhill-republic.json](./193822-downhill-republic.json) |
 | Downhill Slalom | 66952 | [66952-downhill-slalom.json](./66952-downhill-slalom.json) |
 | Downhill Snow | 143643 | [143643-downhill-snow.json](./143643-downhill-snow.json) |
+| Downhill Xtreme | 62040 | [62040-downhill-xtreme.json](./62040-downhill-xtreme.json) |
 | DownhillMadness | 235800 | [235800-downhillmadness.json](./235800-downhillmadness.json) |
 | Downland | 93146 | [93146-downland.json](./93146-downland.json) |
 | Download RAM Idle | 400222 | [400222-download-ram-idle.json](./400222-download-ram-idle.json) |
@@ -11089,6 +11092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Ride | 308445 | [308445-downtown-ride.json](./308445-downtown-ride.json) |
 | Downtown River City Baseball Story: Play Ball, Kunio! | 38277 | [38277-downtown-river-city-baseball-story-play-ball-kunio.json](./38277-downtown-river-city-baseball-story-play-ball-kunio.json) |
 | Downtown Run | 242783 | [242783-downtown-run.json](./242783-downtown-run.json) |
+| Downtown Smash Dodgeball! | 61959 | [61959-downtown-smash-dodgeball.json](./61959-downtown-smash-dodgeball.json) |
 | Downtown Special Kunio-kun's Historical Period Drama! | 48631 | [48631-downtown-special-kunio-kuns-historical-period-drama.json](./48631-downtown-special-kunio-kuns-historical-period-drama.json) |
 | Downtown Special: Kunio-kun no Jidaigeki Da yo Zenin Shuugou! | 191663 | [191663-downtown-special-kunio-kun-no-jidaigeki-da-yo-zenin-shuugou.json](./191663-downtown-special-kunio-kun-no-jidaigeki-da-yo-zenin-shuugou.json) |
 | Downtown Texas Hold'em Poker | 67150 | [67150-downtown-texas-holdem-poker.json](./67150-downtown-texas-holdem-poker.json) |
@@ -12069,6 +12073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Wandering Tavern | 153985 | [153985-dragons-wandering-tavern.json](./153985-dragons-wandering-tavern.json) |
 | Dragon's Wrath | 114136 | [114136-dragons-wrath.json](./114136-dragons-wrath.json) |
 | Dragona: Fireborne | 289010 | [289010-dragona-fireborne.json](./289010-dragona-fireborne.json) |
+| DragonBall Heroes: Ultimate Mission 2 | 61952 | [61952-dragonball-heroes-ultimate-mission-2.json](./61952-dragonball-heroes-ultimate-mission-2.json) |
 | DragonBlast VR | 31671 | [31671-dragonblast-vr.json](./31671-dragonblast-vr.json) |
 | Dragonbolt Vanguard | 55893 | [55893-dragonbolt-vanguard.json](./55893-dragonbolt-vanguard.json) |
 | Dragonbone Dynasty | 23356 | [23356-dragonbone-dynasty.json](./23356-dragonbone-dynasty.json) |
