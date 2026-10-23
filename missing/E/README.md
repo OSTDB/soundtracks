@@ -2431,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emily Enough: Imprisoned | 71474 | [71474-emily-enough-imprisoned.json](./71474-emily-enough-imprisoned.json) |
 | Emily is Away | 14762 | [14762-emily-is-away.json](./14762-emily-is-away.json) |
 | Emily is Away <3 | 116053 | [116053-emily-is-away-3.json](./116053-emily-is-away-3.json) |
+| Emily the Strange: Strangerous | 47765 | [47765-emily-the-strange-strangerous.json](./47765-emily-the-strange-strangerous.json) |
 | Emily vs. the Unstable Creatures | 180853 | [180853-emily-vs-the-unstable-creatures.json](./180853-emily-vs-the-unstable-creatures.json) |
 | Emily Wants to Play | 16302 | [16302-emily-wants-to-play.json](./16302-emily-wants-to-play.json) |
 | Emily Wants to Play Too | 75074 | [75074-emily-wants-to-play-too.json](./75074-emily-wants-to-play-too.json) |
@@ -3190,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | English of the Dead | 73014 | [73014-english-of-the-dead.json](./73014-english-of-the-dead.json) |
 | English Sensei: Teaching in Japan | 329441 | [329441-english-sensei-teaching-in-japan.json](./329441-english-sensei-teaching-in-japan.json) |
 | English Tracing Book | 290463 | [290463-english-tracing-book.json](./290463-english-tracing-book.json) |
+| English Training: Have Fun Improving Your Skills | 47806 | [47806-english-training-have-fun-improving-your-skills.json](./47806-english-training-have-fun-improving-your-skills.json) |
 | English with Rayman | 193344 | [193344-english-with-rayman.json](./193344-english-with-rayman.json) |
 | Engolasters January 2021 | 142111 | [142111-engolasters-january-2021.json](./142111-engolasters-january-2021.json) |
 | Engram | 114122 | [114122-engram.json](./114122-engram.json) |
