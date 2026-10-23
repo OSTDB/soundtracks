@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Soccer | 237502 | [237502-ultimate-soccer.json](./237502-ultimate-soccer.json) |
 | Ultimate Soccer | 331952 | [331952-ultimate-soccer.json](./331952-ultimate-soccer.json) |
 | Ultimate Soccer Manager | 71574 | [71574-ultimate-soccer-manager.json](./71574-ultimate-soccer-manager.json) |
+| Ultimate Soccer Manager '98 | 47011 | [47011-ultimate-soccer-manager-98.json](./47011-ultimate-soccer-manager-98.json) |
 | Ultimate Soccer Manager 2 | 56597 | [56597-ultimate-soccer-manager-2.json](./56597-ultimate-soccer-manager-2.json) |
 | Ultimate Solid | 31100 | [31100-ultimate-solid.json](./31100-ultimate-solid.json) |
 | Ultimate Solid: Origins | 197729 | [197729-ultimate-solid-origins.json](./197729-ultimate-solid-origins.json) |
@@ -2122,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unnatural: Season Two | 247760 | [247760-unnatural-season-two.json](./247760-unnatural-season-two.json) |
 | UnNecessary | 316983 | [316983-unnecessary.json](./316983-unnecessary.json) |
 | Unnecessary Roughness | 79516 | [79516-unnecessary-roughness.json](./79516-unnecessary-roughness.json) |
+| Unnecessary Roughness 95 | 47057 | [47057-unnecessary-roughness-95.json](./47057-unnecessary-roughness-95.json) |
 | UnNethack | 351140 | [351140-unnethack.json](./351140-unnethack.json) |
 | Unno | 235227 | [235227-unno.json](./235227-unno.json) |
 | UnnyWorld | 33438 | [33438-unnyworld.json](./33438-unnyworld.json) |
