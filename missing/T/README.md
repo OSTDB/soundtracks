@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Manager | 182375 | [182375-tactical-manager.json](./182375-tactical-manager.json) |
 | Tactical Manager | 86220 | [86220-tactical-manager.json](./86220-tactical-manager.json) |
 | Tactical Manager 2 | 182351 | [182351-tactical-manager-2.json](./182351-tactical-manager-2.json) |
+| Tactical Manager 2 | 70211 | [70211-tactical-manager-2.json](./70211-tactical-manager-2.json) |
 | Tactical Manager 3 | 182377 | [182377-tactical-manager-3.json](./182377-tactical-manager-3.json) |
 | Tactical Manager Italia | 182376 | [182376-tactical-manager-italia.json](./182376-tactical-manager-italia.json) |
 | Tactical Mind | 82788 | [82788-tactical-mind.json](./82788-tactical-mind.json) |
@@ -3939,6 +3940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris 2 | 254512 | [254512-tetris-2.json](./254512-tetris-2.json) |
 | Tetris 2 + BomBliss | 78699 | [78699-tetris-2-bombliss.json](./78699-tetris-2-bombliss.json) |
 | Tetris 4000 | 92874 | [92874-tetris-4000.json](./92874-tetris-4000.json) |
+| Tetris 4D | 70207 | [70207-tetris-4d.json](./70207-tetris-4d.json) |
 | Tetris 64 | 3346 | [3346-tetris-64.json](./3346-tetris-64.json) |
 | Tetris 99 | 115282 | [115282-tetris-99.json](./115282-tetris-99.json) |
 | Tetris 99: Big Block DLC | 133960 | [133960-tetris-99-big-block-dlc.json](./133960-tetris-99-big-block-dlc.json) |
@@ -4446,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of MassMouth | 294520 | [294520-the-adventures-of-massmouth.json](./294520-the-adventures-of-massmouth.json) |
 | The Adventures of Maximus | 149272 | [149272-the-adventures-of-maximus.json](./149272-the-adventures-of-maximus.json) |
 | The Adventures of Melvin Freebush | 73522 | [73522-the-adventures-of-melvin-freebush.json](./73522-the-adventures-of-melvin-freebush.json) |
+| The Adventures of MicroMan | 70241 | [70241-the-adventures-of-microman.json](./70241-the-adventures-of-microman.json) |
 | The Adventures of Mr. Bobley | 35084 | [35084-the-adventures-of-mr-bobley.json](./35084-the-adventures-of-mr-bobley.json) |
 | The Adventures of Mr. Hat | 191822 | [191822-the-adventures-of-mr-hat.json](./191822-the-adventures-of-mr-hat.json) |
 | The Adventures of Mr. Poop | 147419 | [147419-the-adventures-of-mr-poop.json](./147419-the-adventures-of-mr-poop.json) |
@@ -7116,6 +7119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eternal Shooter | 88638 | [88638-the-eternal-shooter.json](./88638-the-eternal-shooter.json) |
 | The Eternal Woods | 414427 | [414427-the-eternal-woods.json](./414427-the-eternal-woods.json) |
 | The Evelyn Game | 370315 | [370315-the-evelyn-game.json](./370315-the-evelyn-game.json) |
+| The Even More Incredible Machine | 70233 | [70233-the-even-more-incredible-machine.json](./70233-the-even-more-incredible-machine.json) |
 | The Event | 253479 | [253479-the-event.json](./253479-the-event.json) |
 | The Eventide | 411687 | [411687-the-eventide.json](./411687-the-eventide.json) |
 | The Ever-Beginning Tale | 171981 | [171981-the-ever-beginning-tale.json](./171981-the-ever-beginning-tale.json) |
@@ -23877,6 +23881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Horror Collection 2 | 219536 | [219536-trash-horror-collection-2.json](./219536-trash-horror-collection-2.json) |
 | Trash Horror Collection 3 | 242674 | [242674-trash-horror-collection-3.json](./242674-trash-horror-collection-3.json) |
 | Trash Horror Collection 5 | 334530 | [334530-trash-horror-collection-5.json](./334530-trash-horror-collection-5.json) |
+| Trash in Space | 70224 | [70224-trash-in-space.json](./70224-trash-in-space.json) |
 | Trash Invasion: Waste Recycle | 183905 | [183905-trash-invasion-waste-recycle.json](./183905-trash-invasion-waste-recycle.json) |
 | Trash is Fun | 153997 | [153997-trash-is-fun.json](./153997-trash-is-fun.json) |
 | Trash It | 46492 | [46492-trash-it.json](./46492-trash-it.json) |
@@ -24727,6 +24732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Track | 416584 | [416584-triple-track.json](./416584-triple-track.json) |
 | Triple Triad | 386989 | [386989-triple-triad.json](./386989-triple-triad.json) |
 | Triple Triad: Tournament of the Elements | 209374 | [209374-triple-triad-tournament-of-the-elements.json](./209374-triple-triad-tournament-of-the-elements.json) |
+| Triple Tris Challenge | 70243 | [70243-triple-tris-challenge.json](./70243-triple-tris-challenge.json) |
 | Triple Trouble: Midnight Club | 409504 | [409504-triple-trouble-midnight-club.json](./409504-triple-trouble-midnight-club.json) |
 | Triple Trouble: Private Lesson | 409503 | [409503-triple-trouble-private-lesson.json](./409503-triple-trouble-private-lesson.json) |
 | Triple X Tycoon | 31892 | [31892-triple-x-tycoon.json](./31892-triple-x-tycoon.json) |
