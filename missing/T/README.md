@@ -12297,6 +12297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revenant Prince | 129761 | [129761-the-revenant-prince.json](./129761-the-revenant-prince.json) |
 | The Revenant Protocol | 171865 | [171865-the-revenant-protocol.json](./171865-the-revenant-protocol.json) |
 | The Revenants: Corridor of Souls | 66421 | [66421-the-revenants-corridor-of-souls.json](./66421-the-revenants-corridor-of-souls.json) |
+| The Revenge of Johnny Bonasera: Episode 2 | 84068 | [84068-the-revenge-of-johnny-bonasera-episode-2.json](./84068-the-revenge-of-johnny-bonasera-episode-2.json) |
 | The Revenge of Johnny Bonasera: Episode 3 | 114086 | [114086-the-revenge-of-johnny-bonasera-episode-3.json](./114086-the-revenge-of-johnny-bonasera-episode-3.json) |
 | The Revenge of Mr.Samuel | 199381 | [199381-the-revenge-of-mr-samuel.json](./199381-the-revenge-of-mr-samuel.json) |
 | The Revenge of Shinobi | 10222 | [10222-the-revenge-of-shinobi.json](./10222-the-revenge-of-shinobi.json) |
@@ -15485,6 +15486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Is No Next Stop | 391879 | [391879-there-is-no-next-stop.json](./391879-there-is-no-next-stop.json) |
 | There is No Pause Button! | 69374 | [69374-there-is-no-pause-button.json](./69374-there-is-no-pause-button.json) |
 | There is No Plan B | 298390 | [298390-there-is-no-plan-b.json](./298390-there-is-no-plan-b.json) |
+| There Is No Tomorrow | 84041 | [84041-there-is-no-tomorrow.json](./84041-there-is-no-tomorrow.json) |
 | There Is No Turning Back! | 111004 | [111004-there-is-no-turning-back.json](./111004-there-is-no-turning-back.json) |
 | There Is Nothing Here | 179174 | [179174-there-is-nothing-here.json](./179174-there-is-nothing-here.json) |
 | There is nothing here. | 176789 | [176789-there-is-nothing-here.json](./176789-there-is-nothing-here.json) |
@@ -26058,6 +26060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight of Humanity | 181157 | [181157-twilight-of-humanity.json](./181157-twilight-of-humanity.json) |
 | Twilight of the Gods | 223436 | [223436-twilight-of-the-gods.json](./223436-twilight-of-the-gods.json) |
 | Twilight of the Gods | 370855 | [370855-twilight-of-the-gods.json](./370855-twilight-of-the-gods.json) |
+| Twilight on Yulestead | 84062 | [84062-twilight-on-yulestead.json](./84062-twilight-on-yulestead.json) |
 | Twilight Oracle | 244873 | [244873-twilight-oracle.json](./244873-twilight-oracle.json) |
 | Twilight Path | 109615 | [109615-twilight-path.json](./109615-twilight-path.json) |
 | Twilight Phenomena: Strange Menagerie - Collector's Edition | 81080 | [81080-twilight-phenomena-strange-menagerie-collectors-edition.json](./81080-twilight-phenomena-strange-menagerie-collectors-edition.json) |
