@@ -3535,6 +3535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Racing Adventures | 279606 | [279606-hello-kitty-racing-adventures.json](./279606-hello-kitty-racing-adventures.json) |
 | Hello Kitty Skyland | 382441 | [382441-hello-kitty-skyland.json](./382441-hello-kitty-skyland.json) |
 | Hello Kitty to Dear Daniel no Dream Adventure | 57558 | [57558-hello-kitty-to-dear-daniel-no-dream-adventure.json](./57558-hello-kitty-to-dear-daniel-no-dream-adventure.json) |
+| Hello Kitty to Issho: Block Crash 1 2 3 | 63041 | [63041-hello-kitty-to-issho-block-crash-1-2-3.json](./63041-hello-kitty-to-issho-block-crash-1-2-3.json) |
 | Hello Kitty to Sekai Ryokou! Ironna Kuni he Odekake Shimashou! | 222307 | [222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json](./222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json) |
 | Hello Kitty World | 246935 | [246935-hello-kitty-world.json](./246935-hello-kitty-world.json) |
 | Hello Kitty World | 48626 | [48626-hello-kitty-world.json](./48626-hello-kitty-world.json) |
