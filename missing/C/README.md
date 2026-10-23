@@ -5521,6 +5521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Hill | 324310 | [324310-chicken-hill.json](./324310-chicken-hill.json) |
 | Chicken Holmes: The Mystery of Bartolomeu | 163827 | [163827-chicken-holmes-the-mystery-of-bartolomeu.json](./163827-chicken-holmes-the-mystery-of-bartolomeu.json) |
 | Chicken Hunter | 83235 | [83235-chicken-hunter.json](./83235-chicken-hunter.json) |
+| Chicken Hunter: Jewel of Darkness | 69088 | [69088-chicken-hunter-jewel-of-darkness.json](./69088-chicken-hunter-jewel-of-darkness.json) |
 | Chicken in the Darkness | 110341 | [110341-chicken-in-the-darkness.json](./110341-chicken-in-the-darkness.json) |
 | Chicken in the Henhouse | 199362 | [199362-chicken-in-the-henhouse.json](./199362-chicken-in-the-henhouse.json) |
 | Chicken Invaders | 11713 | [11713-chicken-invaders.json](./11713-chicken-invaders.json) |
@@ -11200,6 +11201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Chaos | 246492 | [246492-cooking-chaos.json](./246492-cooking-chaos.json) |
 | Cooking City: Summer Party | 187892 | [187892-cooking-city-summer-party.json](./187892-cooking-city-summer-party.json) |
 | Cooking Clash | 388150 | [388150-cooking-clash.json](./388150-cooking-clash.json) |
+| Cooking Coach | 69128 | [69128-cooking-coach.json](./69128-cooking-coach.json) |
 | Cooking Companions | 132788 | [132788-cooking-companions.json](./132788-cooking-companions.json) |
 | Cooking Companions: Appetizer Edition | 139141 | [139141-cooking-companions-appetizer-edition.json](./139141-cooking-companions-appetizer-edition.json) |
 | Cooking Craze | 88770 | [88770-cooking-craze.json](./88770-cooking-craze.json) |
@@ -13013,7 +13015,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken Carnival | 135816 | [135816-crazy-chicken-carnival.json](./135816-crazy-chicken-carnival.json) |
 | Crazy Chicken Carnival | 268116 | [268116-crazy-chicken-carnival.json](./268116-crazy-chicken-carnival.json) |
 | Crazy Chicken Jump'n Run: Atlantis Quest | 282571 | [282571-crazy-chicken-jumpn-run-atlantis-quest.json](./282571-crazy-chicken-jumpn-run-atlantis-quest.json) |
+| Crazy Chicken Kart 2 | 69099 | [69099-crazy-chicken-kart-2.json](./69099-crazy-chicken-kart-2.json) |
 | Crazy Chicken Kart Extra | 92853 | [92853-crazy-chicken-kart-extra.json](./92853-crazy-chicken-kart-extra.json) |
+| Crazy Chicken Kart Thunder | 69122 | [69122-crazy-chicken-kart-thunder.json](./69122-crazy-chicken-kart-thunder.json) |
 | Crazy Chicken Mah-Jongg | 144590 | [144590-crazy-chicken-mah-jongg.json](./144590-crazy-chicken-mah-jongg.json) |
 | Crazy Chicken Pinball Vol. 1 | 96540 | [96540-crazy-chicken-pinball-vol-1.json](./96540-crazy-chicken-pinball-vol-1.json) |
 | Crazy Chicken Pirates 3D | 282481 | [282481-crazy-chicken-pirates-3d.json](./282481-crazy-chicken-pirates-3d.json) |
@@ -13021,9 +13025,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken Strikes Back | 83239 | [83239-crazy-chicken-strikes-back.json](./83239-crazy-chicken-strikes-back.json) |
 | Crazy Chicken X | 78882 | [78882-crazy-chicken-x.json](./78882-crazy-chicken-x.json) |
 | Crazy Chicken Xtreme | 198390 | [198390-crazy-chicken-xtreme.json](./198390-crazy-chicken-xtreme.json) |
+| Crazy Chicken: Approaching | 69078 | [69078-crazy-chicken-approaching.json](./69078-crazy-chicken-approaching.json) |
 | Crazy Chicken: Approaching | 69708 | [69708-crazy-chicken-approaching.json](./69708-crazy-chicken-approaching.json) |
+| Crazy Chicken: Atlantis | 69089 | [69089-crazy-chicken-atlantis.json](./69089-crazy-chicken-atlantis.json) |
 | Crazy Chicken: Director's Cut | 83234 | [83234-crazy-chicken-directors-cut.json](./83234-crazy-chicken-directors-cut.json) |
 | Crazy Chicken: Heart of Tibet | 73582 | [73582-crazy-chicken-heart-of-tibet.json](./73582-crazy-chicken-heart-of-tibet.json) |
+| Crazy Chicken: Jewel of Darkness | 69076 | [69076-crazy-chicken-jewel-of-darkness.json](./69076-crazy-chicken-jewel-of-darkness.json) |
 | Crazy Chicken: Pirates | 23673 | [23673-crazy-chicken-pirates.json](./23673-crazy-chicken-pirates.json) |
 | Crazy Chicken: Pirates | 282572 | [282572-crazy-chicken-pirates.json](./282572-crazy-chicken-pirates.json) |
 | Crazy Chicken: Remake | 282453 | [282453-crazy-chicken-remake.json](./282453-crazy-chicken-remake.json) |
