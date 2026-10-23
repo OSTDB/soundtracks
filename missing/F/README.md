@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon BMS | 77298 | [77298-falcon-bms.json](./77298-falcon-bms.json) |
 | Falcon City | 133088 | [133088-falcon-city.json](./133088-falcon-city.json) |
 | Falcon Operation: Counterstrike | 73738 | [73738-falcon-operation-counterstrike.json](./73738-falcon-operation-counterstrike.json) |
+| Falcon Operation: Firefight | 70781 | [70781-falcon-operation-firefight.json](./70781-falcon-operation-firefight.json) |
 | Falcon Patrol II | 40945 | [40945-falcon-patrol-ii.json](./40945-falcon-patrol-ii.json) |
 | Falcon Simulator | 86859 | [86859-falcon-simulator.json](./86859-falcon-simulator.json) |
 | Falcon Squad | 227953 | [227953-falcon-squad.json](./227953-falcon-squad.json) |
@@ -7333,6 +7334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager Quiz | 318991 | [318991-football-manager-quiz.json](./318991-football-manager-quiz.json) |
 | Football Manager: World Cup Edition | 41003 | [41003-football-manager-world-cup-edition.json](./41003-football-manager-world-cup-edition.json) |
 | Football Master 2: FT9's Coming | 223938 | [223938-football-master-2-ft9s-coming.json](./223938-football-master-2-ft9s-coming.json) |
+| Football Masters 99 | 70789 | [70789-football-masters-99.json](./70789-football-masters-99.json) |
 | Football Mini Stars | 347322 | [347322-football-mini-stars.json](./347322-football-mini-stars.json) |
 | Football Mogul | 94600 | [94600-football-mogul.json](./94600-football-mogul.json) |
 | Football Mogul 15 | 31694 | [31694-football-mogul-15.json](./31694-football-mogul-15.json) |
