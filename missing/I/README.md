@@ -2059,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impawlse | 303575 | [303575-impawlse.json](./303575-impawlse.json) |
 | Impeached 2 | 253921 | [253921-impeached-2.json](./253921-impeached-2.json) |
 | Impeached! | 179611 | [179611-impeached.json](./179611-impeached.json) |
+| Imperator | 67799 | [67799-imperator.json](./67799-imperator.json) |
 | Imperator with nothing to do | 285357 | [285357-imperator-with-nothing-to-do.json](./285357-imperator-with-nothing-to-do.json) |
 | Imperator: Invictus | 356069 | [356069-imperator-invictus.json](./356069-imperator-invictus.json) |
 | Imperator: Rome | 102060 | [102060-imperator-rome.json](./102060-imperator-rome.json) |
