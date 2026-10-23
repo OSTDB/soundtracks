@@ -7377,6 +7377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuxia World | 317043 | [317043-wuxia-world.json](./317043-wuxia-world.json) |
 | Wuxia: Founding Schools | 292165 | [292165-wuxia-founding-schools.json](./292165-wuxia-founding-schools.json) |
 | Wuxian | 236406 | [236406-wuxian.json](./236406-wuxian.json) |
+| Wuxing Master(CCG) | 81064 | [81064-wuxing-master-ccg.json](./81064-wuxing-master-ccg.json) |
 | WW Fantasy | 98773 | [98773-ww-fantasy.json](./98773-ww-fantasy.json) |
 | WW Furnishing | 353815 | [353815-ww-furnishing.json](./353815-ww-furnishing.json) |
 | WW1 Game Series Bundle | 218465 | [218465-ww1-game-series-bundle.json](./218465-ww1-game-series-bundle.json) |
