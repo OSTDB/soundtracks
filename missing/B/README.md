@@ -746,7 +746,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3577,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestations: Midway | 4223 | [4223-battlestations-midway.json](./4223-battlestations-midway.json) |
 | Battlestations: Pacific | 4222 | [4222-battlestations-pacific.json](./4222-battlestations-pacific.json) |
 | BattleStick | 34635 | [34635-battlestick.json](./34635-battlestick.json) |
+| Battlestone | 63084 | [63084-battlestone.json](./63084-battlestone.json) |
 | BattleStones | 90851 | [90851-battlestones.json](./90851-battlestones.json) |
 | Battlestrike: Shadow of Stalingrad | 27464 | [27464-battlestrike-shadow-of-stalingrad.json](./27464-battlestrike-shadow-of-stalingrad.json) |
 | Battlestrike: Western and Eastern Front | 205909 | [205909-battlestrike-western-and-eastern-front.json](./205909-battlestrike-western-and-eastern-front.json) |
@@ -7415,6 +7415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout | 162428 | [162428-blackout.json](./162428-blackout.json) |
 | Blackout | 221817 | [221817-blackout.json](./221817-blackout.json) |
 | Blackout | 284008 | [284008-blackout.json](./284008-blackout.json) |
+| BlackOut | 63061 | [63061-blackout.json](./63061-blackout.json) |
 | Blackout Hospital | 238533 | [238533-blackout-hospital.json](./238533-blackout-hospital.json) |
 | Blackout Memphis | 253414 | [253414-blackout-memphis.json](./253414-blackout-memphis.json) |
 | Blackout Route | 419157 | [419157-blackout-route.json](./419157-blackout-route.json) |
@@ -12065,6 +12066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of Death VII | 16259 | [16259-breath-of-death-vii.json](./16259-breath-of-death-vii.json) |
 | Breath of Death VII: The Beginning - Reanimated | 324914 | [324914-breath-of-death-vii-the-beginning-reanimated.json](./324914-breath-of-death-vii-the-beginning-reanimated.json) |
 | Breath of Dragon II | 203551 | [203551-breath-of-dragon-ii.json](./203551-breath-of-dragon-ii.json) |
+| Breath of Fire 6 | 63065 | [63065-breath-of-fire-6.json](./63065-breath-of-fire-6.json) |
 | Breath of Fire III | 18055 | [18055-breath-of-fire-iii.json](./18055-breath-of-fire-iii.json) |
 | Breath of Fire III | 207256 | [207256-breath-of-fire-iii.json](./207256-breath-of-fire-iii.json) |
 | Breath of Fire IV | 1280 | [1280-breath-of-fire-iv.json](./1280-breath-of-fire-iv.json) |
