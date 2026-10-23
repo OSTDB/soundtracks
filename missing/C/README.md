@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capybro | 263945 | [263945-capybro.json](./263945-capybro.json) |
 | Capyvarias | 390806 | [390806-capyvarias.json](./390806-capyvarias.json) |
 | Car | 243586 | [243586-car.json](./243586-car.json) |
+| Car & Driver Presents: Grand Tour Racing '98 | 45025 | [45025-car-and-driver-presents-grand-tour-racing-98.json](./45025-car-and-driver-presents-grand-tour-racing-98.json) |
 | Car and Driver | 72042 | [72042-car-and-driver.json](./72042-car-and-driver.json) |
 | Car Builder | 97187 | [97187-car-builder.json](./97187-car-builder.json) |
 | Car Car Crash Hands on Edition | 32623 | [32623-car-car-crash-hands-on-edition.json](./32623-car-car-crash-hands-on-edition.json) |
@@ -12379,6 +12380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowbots and Aliens | 31595 | [31595-cowbots-and-aliens.json](./31595-cowbots-and-aliens.json) |
 | Cowboy | 346053 | [346053-cowboy.json](./346053-cowboy.json) |
 | Cowboy 3030 | 266220 | [266220-cowboy-3030.json](./266220-cowboy-3030.json) |
+| Cowboy Bebop | 45027 | [45027-cowboy-bebop.json](./45027-cowboy-bebop.json) |
 | Cowboy Busy: Mowdown | 409743 | [409743-cowboy-busy-mowdown.json](./409743-cowboy-busy-mowdown.json) |
 | Cowboy Carl | 306456 | [306456-cowboy-carl.json](./306456-cowboy-carl.json) |
 | Cowboy Casino | 38831 | [38831-cowboy-casino.json](./38831-cowboy-casino.json) |
@@ -13648,6 +13650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Code | 96022 | [96022-crime-code.json](./96022-crime-code.json) |
 | Crime Corporation | 174829 | [174829-crime-corporation.json](./174829-crime-corporation.json) |
 | Crime Cracker | 223348 | [223348-crime-cracker.json](./223348-crime-cracker.json) |
+| Crime Crackers | 45042 | [45042-crime-crackers.json](./45042-crime-crackers.json) |
 | Crime Crackers 2 | 65344 | [65344-crime-crackers-2.json](./65344-crime-crackers-2.json) |
 | Crime District | 165699 | [165699-crime-district.json](./165699-crime-district.json) |
 | Crime Fighter | 50353 | [50353-crime-fighter.json](./50353-crime-fighter.json) |
@@ -15354,6 +15357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culdcept | 138069 | [138069-culdcept.json](./138069-culdcept.json) |
 | Culdcept | 22100 | [22100-culdcept.json](./22100-culdcept.json) |
 | Culdcept Expansion | 361753 | [361753-culdcept-expansion.json](./361753-culdcept-expansion.json) |
+| Culdcept Expansion Plus | 45039 | [45039-culdcept-expansion-plus.json](./45039-culdcept-expansion-plus.json) |
 | Culdcept II | 137524 | [137524-culdcept-ii.json](./137524-culdcept-ii.json) |
 | Culdcept Revolt | 27258 | [27258-culdcept-revolt.json](./27258-culdcept-revolt.json) |
 | Culina: Hands in the Kitchen | 35567 | [35567-culina-hands-in-the-kitchen.json](./35567-culina-hands-in-the-kitchen.json) |
