@@ -1520,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Amusement Park II | 385971 | [385971-fantasy-amusement-park-ii.json](./385971-fantasy-amusement-park-ii.json) |
 | Fantasy and Girls | 367166 | [367166-fantasy-and-girls.json](./367166-fantasy-and-girls.json) |
 | Fantasy Aquarium | 319878 | [319878-fantasy-aquarium.json](./319878-fantasy-aquarium.json) |
+| Fantasy Aquarium by DS | 69090 | [69090-fantasy-aquarium-by-ds.json](./69090-fantasy-aquarium-by-ds.json) |
 | Fantasy Baseball | 246277 | [246277-fantasy-baseball.json](./246277-fantasy-baseball.json) |
 | Fantasy Battles | 109762 | [109762-fantasy-battles.json](./109762-fantasy-battles.json) |
 | Fantasy Battles | 343604 | [343604-fantasy-battles.json](./343604-fantasy-battles.json) |
@@ -2294,6 +2295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion AR | 116406 | [116406-fashion-ar.json](./116406-fashion-ar.json) |
 | Fashion Boutique | 142717 | [142717-fashion-boutique.json](./142717-fashion-boutique.json) |
 | Fashion Designer | 128988 | [128988-fashion-designer.json](./128988-fashion-designer.json) |
+| Fashion Designer: High Fashion | 69106 | [69106-fashion-designer-high-fashion.json](./69106-fashion-designer-high-fashion.json) |
 | Fashion Diva Dress Up - Fashionista World | 103904 | [103904-fashion-diva-dress-up-fashionista-world.json](./103904-fashion-diva-dress-up-fashionista-world.json) |
 | Fashion Dream | 188115 | [188115-fashion-dream.json](./188115-fashion-dream.json) |
 | Fashion Dreamer | 236659 | [236659-fashion-dreamer.json](./236659-fashion-dreamer.json) |
@@ -11099,6 +11101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuuun Shaolin Kyo: Ankoku no Maou | 74011 | [74011-fuuun-shaolin-kyo-ankoku-no-maou.json](./74011-fuuun-shaolin-kyo-ankoku-no-maou.json) |
 | Fuuun Shourin Ken | 375325 | [375325-fuuun-shourin-ken.json](./375325-fuuun-shourin-ken.json) |
 | Fuuun Takeshi-jou | 300010 | [300010-fuuun-takeshi-jou.json](./300010-fuuun-takeshi-jou.json) |
+| Fuuun! Daisoujou | 69087 | [69087-fuuun-daisoujou.json](./69087-fuuun-daisoujou.json) |
 | Fuwa! Fuwa! Omurice Simulator Roguelite | 415083 | [415083-fuwa-fuwa-omurice-simulator-roguelite.json](./415083-fuwa-fuwa-omurice-simulator-roguelite.json) |
 | Fúyáozhíshàng | 412943 | [412943-fuyaozhishang.json](./412943-fuyaozhishang.json) |
 | Fuyu Kiss | 159292 | [159292-fuyu-kiss.json](./159292-fuyu-kiss.json) |
