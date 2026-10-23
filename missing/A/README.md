@@ -1629,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abstract World | 201247 | [201247-abstract-world.json](./201247-abstract-world.json) |
 | Abstractanoid | 68851 | [68851-abstractanoid.json](./68851-abstractanoid.json) |
 | Abstraction | 154572 | [154572-abstraction.json](./154572-abstraction.json) |
+| Abstractism | 81877 | [81877-abstractism.json](./81877-abstractism.json) |
 | Abstracto | 283874 | [283874-abstracto.json](./283874-abstracto.json) |
 | Abstrrkt Explorers | 143607 | [143607-abstrrkt-explorers.json](./143607-abstrrkt-explorers.json) |
 | Absum | 366999 | [366999-absum.json](./366999-absum.json) |
@@ -3262,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Inc. | 323935 | [323935-after-inc.json](./323935-after-inc.json) |
 | After Juice: Animal Disco Mafia | 346636 | [346636-after-juice-animal-disco-mafia.json](./346636-after-juice-animal-disco-mafia.json) |
 | After L!fe: The Sacred Kaleidoscope | 233023 | [233023-after-l-fe-the-sacred-kaleidoscope.json](./233023-after-l-fe-the-sacred-kaleidoscope.json) |
+| After Life VR | 81897 | [81897-after-life-vr.json](./81897-after-life-vr.json) |
 | After Life: Story of a Father | 30704 | [30704-after-life-story-of-a-father.json](./30704-after-life-story-of-a-father.json) |
 | After Lights Out | 346733 | [346733-after-lights-out.json](./346733-after-lights-out.json) |
 | After Mankind: TD | 367545 | [367545-after-mankind-td.json](./367545-after-mankind-td.json) |
@@ -6790,6 +6792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Stars | 211405 | [211405-among-stars.json](./211405-among-stars.json) |
 | Among Stars and Robots | 142798 | [142798-among-stars-and-robots.json](./142798-among-stars-and-robots.json) |
 | Among the Clouds | 397421 | [397421-among-the-clouds.json](./397421-among-the-clouds.json) |
+| Among the Dead | 81923 | [81923-among-the-dead.json](./81923-among-the-dead.json) |
 | Among The Dead | 303157 | [303157-among-the-dead.json](./303157-among-the-dead.json) |
 | Among the Dead Ones | 174671 | [174671-among-the-dead-ones.json](./174671-among-the-dead-ones.json) |
 | Among the Heavens | 34313 | [34313-among-the-heavens.json](./34313-among-the-heavens.json) |
