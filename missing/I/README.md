@@ -4909,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Golf | 255740 | [255740-island-golf.json](./255740-island-golf.json) |
 | Island Herders | 169719 | [169719-island-herders.json](./169719-island-herders.json) |
 | Island Hopper | 265141 | [265141-island-hopper.json](./265141-island-hopper.json) |
+| Island Hopper | 93421 | [93421-island-hopper.json](./93421-island-hopper.json) |
 | Island Invasion | 112675 | [112675-island-invasion.json](./112675-island-invasion.json) |
 | Island King | 261415 | [261415-island-king.json](./261415-island-king.json) |
 | Island Life | 92439 | [92439-island-life.json](./92439-island-life.json) |
