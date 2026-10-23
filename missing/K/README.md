@@ -1385,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenji: Rise of a Hero | 85229 | [85229-kenji-rise-of-a-hero.json](./85229-kenji-rise-of-a-hero.json) |
 | Kenju | 39440 | [39440-kenju.json](./39440-kenju.json) |
 | Kenka Bancho | 91387 | [91387-kenka-bancho.json](./91387-kenka-bancho.json) |
+| Kenka Bancho 2: Full Throttle | 66512 | [66512-kenka-bancho-2-full-throttle.json](./66512-kenka-bancho-2-full-throttle.json) |
 | Kenka Bancho 4: Ichinen Sensou | 81473 | [81473-kenka-bancho-4-ichinen-sensou.json](./81473-kenka-bancho-4-ichinen-sensou.json) |
 | Kenka Bancho Bros.: Tokyo Battle Royale | 64878 | [64878-kenka-bancho-bros-tokyo-battle-royale.json](./64878-kenka-bancho-bros-tokyo-battle-royale.json) |
 | Kenka Bancho: Zenkoku Seiha | 61498 | [61498-kenka-bancho-zenkoku-seiha.json](./61498-kenka-bancho-zenkoku-seiha.json) |
