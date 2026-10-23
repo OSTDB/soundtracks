@@ -3675,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazingle | 396751 | [396751-bazingle.json](./396751-bazingle.json) |
 | Bazoik | 178938 | [178938-bazoik.json](./178938-bazoik.json) |
 | Bazoo | 56293 | [56293-bazoo.json](./56293-bazoo.json) |
+| Bazooka | 64773 | [64773-bazooka.json](./64773-bazooka.json) |
 | Bazooka Bill | 13811 | [13811-bazooka-bill.json](./13811-bazooka-bill.json) |
 | Bazooka Blitzkrieg | 42627 | [42627-bazooka-blitzkrieg.json](./42627-bazooka-blitzkrieg.json) |
 | Bazooka Bois | 232831 | [232831-bazooka-bois.json](./232831-bazooka-bois.json) |
