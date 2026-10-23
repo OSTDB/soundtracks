@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla Knights 2 | 20071 | [20071-valhalla-knights-2.json](./20071-valhalla-knights-2.json) |
 | Valhalla Knights 2: Battle Stance | 142322 | [142322-valhalla-knights-2-battle-stance.json](./142322-valhalla-knights-2-battle-stance.json) |
 | Valhalla Knights 3 | 20072 | [20072-valhalla-knights-3.json](./20072-valhalla-knights-3.json) |
+| Valhalla Knights 3 Gold | 53026 | [53026-valhalla-knights-3-gold.json](./53026-valhalla-knights-3-gold.json) |
 | Valhalla Mountain | 328465 | [328465-valhalla-mountain.json](./328465-valhalla-mountain.json) |
 | Valhalla Path | 382543 | [382543-valhalla-path.json](./382543-valhalla-path.json) |
 | Valhalla Wars | 249370 | [249370-valhalla-wars.json](./249370-valhalla-wars.json) |
@@ -627,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vancouver 2010 | 2709 | [2709-vancouver-2010.json](./2709-vancouver-2010.json) |
 | Vandaan | 249076 | [249076-vandaan.json](./249076-vandaan.json) |
 | Vandal Hearts II | 6543 | [6543-vandal-hearts-ii.json](./6543-vandal-hearts-ii.json) |
+| Vandal Hearts: Flames of Judgment | 53025 | [53025-vandal-hearts-flames-of-judgment.json](./53025-vandal-hearts-flames-of-judgment.json) |
 | Vandalhalla | 153934 | [153934-vandalhalla.json](./153934-vandalhalla.json) |
 | Vandell: Knight of the Tortured Souls | 69753 | [69753-vandell-knight-of-the-tortured-souls.json](./69753-vandell-knight-of-the-tortured-souls.json) |
 | Vandozer | 137469 | [137469-vandozer.json](./137469-vandozer.json) |
@@ -3110,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Hybrid War 2117 | 75199 | [75199-vr-hybrid-war-2117.json](./75199-vr-hybrid-war-2117.json) |
 | VR Interior Designer Pro | 28921 | [28921-vr-interior-designer-pro.json](./28921-vr-interior-designer-pro.json) |
 | VR Invaders | 30365 | [30365-vr-invaders.json](./30365-vr-invaders.json) |
+| VR Invaders: Complete Edition | 53018 | [53018-vr-invaders-complete-edition.json](./53018-vr-invaders-complete-edition.json) |
 | VR Jetpack Game | 123389 | [123389-vr-jetpack-game.json](./123389-vr-jetpack-game.json) |
 | VR Journey | 31345 | [31345-vr-journey.json](./31345-vr-journey.json) |
 | VR Jurassic island roller coaster | 208645 | [208645-vr-jurassic-island-roller-coaster.json](./208645-vr-jurassic-island-roller-coaster.json) |
@@ -3203,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR T72 Battle in Afghanistan | 236920 | [236920-vr-t72-battle-in-afghanistan.json](./236920-vr-t72-battle-in-afghanistan.json) |
 | VR Table Sports | 50548 | [50548-vr-table-sports.json](./50548-vr-table-sports.json) |
 | VR Tennis | 247042 | [247042-vr-tennis.json](./247042-vr-tennis.json) |
+| VR Tennis Online | 53016 | [53016-vr-tennis-online.json](./53016-vr-tennis-online.json) |
 | VR The Diner Duo | 25118 | [25118-vr-the-diner-duo.json](./25118-vr-the-diner-duo.json) |
 | VR Thrills | 257804 | [257804-vr-thrills.json](./257804-vr-thrills.json) |
 | VR Time Machine Travelling in History: Visit ancient Egypt, Babylon and Greece in B.C. 400 | 150648 | [150648-vr-time-machine-travelling-in-history-visit-ancient-egypt-babylon-and-greece-in-b-c-400.json](./150648-vr-time-machine-travelling-in-history-visit-ancient-egypt-babylon-and-greece-in-b-c-400.json) |
@@ -3353,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Vulcan Venture | 214592 | [214592-vs-vulcan-venture.json](./214592-vs-vulcan-venture.json) |
 | VSR: Void Space Racing | 105590 | [105590-vsr-void-space-racing.json](./105590-vsr-void-space-racing.json) |
 | VT Harmony | 248110 | [248110-vt-harmony.json](./248110-vt-harmony.json) |
+| VT Tennis | 53015 | [53015-vt-tennis.json](./53015-vt-tennis.json) |
 | VTB Basketball League | 116911 | [116911-vtb-basketball-league.json](./116911-vtb-basketball-league.json) |
 | Vterm ATC Simulator | 326306 | [326306-vterm-atc-simulator.json](./326306-vterm-atc-simulator.json) |
 | VThree | 30130 | [30130-vthree.json](./30130-vthree.json) |
