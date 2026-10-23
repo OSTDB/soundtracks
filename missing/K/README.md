@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | K Station | 19603 | [19603-k-station.json](./19603-k-station.json) |
+| K-1 Premium 2004 Dynamite!! | 67047 | [67047-k-1-premium-2004-dynamite.json](./67047-k-1-premium-2004-dynamite.json) |
 | K-1 Premium Dynamite!! | 44646 | [44646-k-1-premium-dynamite.json](./44646-k-1-premium-dynamite.json) |
 | K-1 World Grand Prix | 23710 | [23710-k-1-world-grand-prix.json](./23710-k-1-world-grand-prix.json) |
 | K-1 World Grand Prix 2001 | 23469 | [23469-k-1-world-grand-prix-2001.json](./23469-k-1-world-grand-prix-2001.json) |
