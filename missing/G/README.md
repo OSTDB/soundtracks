@@ -6806,6 +6806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Well | 142317 | [142317-gravity-well.json](./142317-gravity-well.json) |
 | Gravity Well | 169655 | [169655-gravity-well.json](./169655-gravity-well.json) |
 | Gravity Well | 91588 | [91588-gravity-well.json](./91588-gravity-well.json) |
+| Gravity Wolf | 58563 | [58563-gravity-wolf.json](./58563-gravity-wolf.json) |
 | Gravity Zero Racing | 123319 | [123319-gravity-zero-racing.json](./123319-gravity-zero-racing.json) |
 | Gravity: Sylux's Crusade | 338822 | [338822-gravity-syluxs-crusade.json](./338822-gravity-syluxs-crusade.json) |
 | Gravity's Apple | 330920 | [330920-gravitys-apple.json](./330920-gravitys-apple.json) |
@@ -7089,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greenhouse | 332315 | [332315-greenhouse.json](./332315-greenhouse.json) |
 | Greenhouse: Schism | 377269 | [377269-greenhouse-schism.json](./377269-greenhouse-schism.json) |
 | Greenhouse: Tidy Up! | 416831 | [416831-greenhouse-tidy-up.json](./416831-greenhouse-tidy-up.json) |
+| Greenie - The Eccentric Egyptologist | 58515 | [58515-greenie-the-eccentric-egyptologist.json](./58515-greenie-the-eccentric-egyptologist.json) |
 | Greenie's Little Adventure | 58500 | [58500-greenies-little-adventure.json](./58500-greenies-little-adventure.json) |
 | Greenies | 92897 | [92897-greenies.json](./92897-greenies.json) |
 | Greenland | 291877 | [291877-greenland.json](./291877-greenland.json) |
@@ -8599,6 +8601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Supreme Battle | 174903 | [174903-gundam-supreme-battle.json](./174903-gundam-supreme-battle.json) |
 | Gundam Tactics: Mobility Fleet 0079 | 289744 | [289744-gundam-tactics-mobility-fleet-0079.json](./289744-gundam-tactics-mobility-fleet-0079.json) |
 | Gundam Tri Age | 65903 | [65903-gundam-tri-age.json](./65903-gundam-tri-age.json) |
+| Gundam Try Age SP | 58539 | [58539-gundam-try-age-sp.json](./58539-gundam-try-age-sp.json) |
 | Gundam Versus | 28287 | [28287-gundam-versus.json](./28287-gundam-versus.json) |
 | Gundam Versus: Premium G Sound Edition | 136696 | [136696-gundam-versus-premium-g-sound-edition.json](./136696-gundam-versus-premium-g-sound-edition.json) |
 | Gundam Virtual Modeler Light | 108785 | [108785-gundam-virtual-modeler-light.json](./108785-gundam-virtual-modeler-light.json) |
