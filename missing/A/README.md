@@ -9243,6 +9243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Land: Parrot | 303337 | [303337-aquarium-land-parrot.json](./303337-aquarium-land-parrot.json) |
 | Aquarium Land: Platinum Edition | 385193 | [385193-aquarium-land-platinum-edition.json](./385193-aquarium-land-platinum-edition.json) |
 | Aquarium Land: Puppy | 303338 | [303338-aquarium-land-puppy.json](./303338-aquarium-land-puppy.json) |
+| Aquarium Pairs | 96578 | [96578-aquarium-pairs.json](./96578-aquarium-pairs.json) |
 | Aquarium Shop | 146919 | [146919-aquarium-shop.json](./146919-aquarium-shop.json) |
 | Aquarium Travels | 152642 | [152642-aquarium-travels.json](./152642-aquarium-travels.json) |
 | Aquarium. | 91325 | [91325-aquarium.json](./91325-aquarium.json) |
