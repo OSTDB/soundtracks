@@ -11309,7 +11309,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -16465,6 +16464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder and Line-ing | 389707 | [389707-thunder-and-line-ing.json](./389707-thunder-and-line-ing.json) |
 | Thunder Blade | 12862 | [12862-thunder-blade.json](./12862-thunder-blade.json) |
 | Thunder Blast Man | 50057 | [50057-thunder-blast-man.json](./50057-thunder-blast-man.json) |
+| Thunder Blaster Man | 48463 | [48463-thunder-blaster-man.json](./48463-thunder-blaster-man.json) |
 | Thunder Boy | 55186 | [55186-thunder-boy.json](./55186-thunder-boy.json) |
 | Thunder Chase | 83503 | [83503-thunder-chase.json](./83503-thunder-chase.json) |
 | Thunder Cross | 46772 | [46772-thunder-cross.json](./46772-thunder-cross.json) |
@@ -19182,6 +19182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TLO: Casmita | 253817 | [253817-tlo-casmita.json](./253817-tlo-casmita.json) |
 | Tlon: A Misty Story | 67871 | [67871-tlon-a-misty-story.json](./67871-tlon-a-misty-story.json) |
 | Tm Driver | 219760 | [219760-tm-driver.json](./219760-tm-driver.json) |
+| TM Network: Live in Power Bowl | 48435 | [48435-tm-network-live-in-power-bowl.json](./48435-tm-network-live-in-power-bowl.json) |
 | TMNT | 146283 | [146283-tmnt.json](./146283-tmnt.json) |
 | TMNT | 248512 | [248512-tmnt.json](./248512-tmnt.json) |
 | TMNT | 248513 | [248513-tmnt.json](./248513-tmnt.json) |
