@@ -13716,9 +13716,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Arena | 195022 | [195022-avatar-arena.json](./195022-avatar-arena.json) |
 | Avatar Avenue | 77573 | [77573-avatar-avenue.json](./77573-avatar-avenue.json) |
 | Avatar Boogie | 92429 | [92429-avatar-boogie.json](./92429-avatar-boogie.json) |
+| Avatar Calendar | 92377 | [92377-avatar-calendar.json](./92377-avatar-calendar.json) |
+| Avatar Cannon | 92376 | [92376-avatar-cannon.json](./92376-avatar-cannon.json) |
 | Avatar Dairansen | 303216 | [303216-avatar-dairansen.json](./303216-avatar-dairansen.json) |
 | Avatar Deathmatch | 77582 | [77582-avatar-deathmatch.json](./77582-avatar-deathmatch.json) |
 | Avatar Deathmatch City | 77596 | [77596-avatar-deathmatch-city.json](./77596-avatar-deathmatch-city.json) |
+| Avatar Deluxe Blackjack | 92378 | [92378-avatar-deluxe-blackjack.json](./92378-avatar-deluxe-blackjack.json) |
 | Avatar Drop | 91630 | [91630-avatar-drop.json](./91630-avatar-drop.json) |
 | Avatar Farm Online | 59731 | [59731-avatar-farm-online.json](./59731-avatar-farm-online.json) |
 | Avatar Farm! | 94737 | [94737-avatar-farm.json](./94737-avatar-farm.json) |
