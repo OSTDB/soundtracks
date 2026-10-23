@@ -4782,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Annihilated Empires | 14824 | [14824-heroes-of-annihilated-empires.json](./14824-heroes-of-annihilated-empires.json) |
 | Heroes of Arca | 29575 | [29575-heroes-of-arca.json](./29575-heroes-of-arca.json) |
 | Heroes of Arcana | 211759 | [211759-heroes-of-arcana.json](./211759-heroes-of-arcana.json) |
+| Heroes of Ark | 56853 | [56853-heroes-of-ark.json](./56853-heroes-of-ark.json) |
 | Heroes of Artadis | 378340 | [378340-heroes-of-artadis.json](./378340-heroes-of-artadis.json) |
 | Heroes of Avranche | 125045 | [125045-heroes-of-avranche.json](./125045-heroes-of-avranche.json) |
 | Heroes of Blast | 174718 | [174718-heroes-of-blast.json](./174718-heroes-of-blast.json) |
