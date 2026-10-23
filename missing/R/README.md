@@ -841,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaidersSphere4th | 35981 | [35981-raiderssphere4th.json](./35981-raiderssphere4th.json) |
 | RaiderZ | 20883 | [20883-raiderz.json](./20883-raiderz.json) |
 | Raidfield 2 | 160242 | [160242-raidfield-2.json](./160242-raidfield-2.json) |
+| Raiding Company | 94038 | [94038-raiding-company.json](./94038-raiding-company.json) |
 | Raiding Zone | 236242 | [236242-raiding-zone.json](./236242-raiding-zone.json) |
 | RaidLand | 132728 | [132728-raidland.json](./132728-raidland.json) |
 | Raidlands | 125826 | [125826-raidlands.json](./125826-raidlands.json) |
@@ -982,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain Debt | 396557 | [396557-rain-debt.json](./396557-rain-debt.json) |
 | Rain Drops | 69194 | [69194-rain-drops.json](./69194-rain-drops.json) |
 | Rain Games Steampunk Bundle | 154964 | [154964-rain-games-steampunk-bundle.json](./154964-rain-games-steampunk-bundle.json) |
+| Rain in Rio | 94076 | [94076-rain-in-rio.json](./94076-rain-in-rio.json) |
 | Rain in the Abyss | 194611 | [194611-rain-in-the-abyss.json](./194611-rain-in-the-abyss.json) |
 | Rain Invasion | 129024 | [129024-rain-invasion.json](./129024-rain-invasion.json) |
 | Rain Kills | 334559 | [334559-rain-kills.json](./334559-rain-kills.json) |
@@ -1703,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rats Under My Skin | 177786 | [177786-rats-under-my-skin.json](./177786-rats-under-my-skin.json) |
 | Rats, Bats, and Bones | 113164 | [113164-rats-bats-and-bones.json](./113164-rats-bats-and-bones.json) |
 | Rats! | 49087 | [49087-rats.json](./49087-rats.json) |
+| Rats! | 94105 | [94105-rats.json](./94105-rats.json) |
 | RatScum | 364248 | [364248-ratscum.json](./364248-ratscum.json) |
 | Rätsel & Denkspiele | 91604 | [91604-ratsel-and-denkspiele.json](./91604-ratsel-and-denkspiele.json) |
 | Rätsel & Denkspiele Extra | 91602 | [91602-ratsel-and-denkspiele-extra.json](./91602-ratsel-and-denkspiele-extra.json) |
@@ -3100,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Nivis | 211264 | [211264-red-nivis.json](./211264-red-nivis.json) |
 | Red Nose Guy Gauntlet Inc.: The Burnout | 371328 | [371328-red-nose-guy-gauntlet-inc-the-burnout.json](./371328-red-nose-guy-gauntlet-inc-the-burnout.json) |
 | Red Nose Guy Suika | 280326 | [280326-red-nose-guy-suika.json](./280326-red-nose-guy-suika.json) |
+| Red November | 94031 | [94031-red-november.json](./94031-red-november.json) |
 | Red Oddities | 239155 | [239155-red-oddities.json](./239155-red-oddities.json) |
 | Red Ops: The First Infection | 253860 | [253860-red-ops-the-first-infection.json](./253860-red-ops-the-first-infection.json) |
 | Red or Blue | 333620 | [333620-red-or-blue.json](./333620-red-or-blue.json) |
@@ -3900,6 +3904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnant: From the Ashes - Swamps of Corsus | 132138 | [132138-remnant-from-the-ashes-swamps-of-corsus.json](./132138-remnant-from-the-ashes-swamps-of-corsus.json) |
 | Remnants | 134335 | [134335-remnants.json](./134335-remnants.json) |
 | Remnants | 168318 | [168318-remnants.json](./168318-remnants.json) |
+| Remnants of a Beautiful Day | 94055 | [94055-remnants-of-a-beautiful-day.json](./94055-remnants-of-a-beautiful-day.json) |
 | Remnants of a Scare | 387611 | [387611-remnants-of-a-scare.json](./387611-remnants-of-a-scare.json) |
 | Remnants of Flesh | 322608 | [322608-remnants-of-flesh.json](./322608-remnants-of-flesh.json) |
 | Remnants of Isolation | 28032 | [28032-remnants-of-isolation.json](./28032-remnants-of-isolation.json) |
@@ -6033,6 +6038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rinth Island | 22333 | [22333-rinth-island.json](./22333-rinth-island.json) |
 | Rinthylab Labyrinth | 306047 | [306047-rinthylab-labyrinth.json](./306047-rinthylab-labyrinth.json) |
 | Rio | 209217 | [209217-rio.json](./209217-rio.json) |
+| Rio | 94083 | [94083-rio.json](./94083-rio.json) |
 | Rio Blackjack | 77271 | [77271-rio-blackjack.json](./77271-rio-blackjack.json) |
 | Rio Rex | 102223 | [102223-rio-rex.json](./102223-rio-rex.json) |
 | Rio Rise | 397904 | [397904-rio-rise.json](./397904-rio-rise.json) |
@@ -8618,6 +8624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomie Romance | 82094 | [82094-roomie-romance.json](./82094-roomie-romance.json) |
 | Roomka | 292231 | [292231-roomka.json](./292231-roomka.json) |
 | Roomli | 203363 | [203363-roomli.json](./203363-roomli.json) |
+| Roommania #203 | 94027 | [94027-roommania-203.json](./94027-roommania-203.json) |
 | Roommate: Asami - Oku-sama wa Joshikousei | 330582 | [330582-roommate-asami-oku-sama-wa-joshikousei.json](./330582-roommate-asami-oku-sama-wa-joshikousei.json) |
 | Roommates | 297205 | [297205-roommates.json](./297205-roommates.json) |
 | Roommates with Benefits | 313802 | [313802-roommates-with-benefits.json](./313802-roommates-with-benefits.json) |
