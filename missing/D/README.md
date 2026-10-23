@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daikaiju | 179539 | [179539-daikaiju.json](./179539-daikaiju.json) |
 | Daikaiju Daikessen: Versus | 173188 | [173188-daikaiju-daikessen-versus.json](./173188-daikaiju-daikessen-versus.json) |
 | Daikaiju no Gyakushu | 65393 | [65393-daikaiju-no-gyakushu.json](./65393-daikaiju-no-gyakushu.json) |
+| Daikaijuu Battle: Ultra Coliseum | 72480 | [72480-daikaijuu-battle-ultra-coliseum.json](./72480-daikaijuu-battle-ultra-coliseum.json) |
 | Daikaijuu Deburas | 48313 | [48313-daikaijuu-deburas.json](./48313-daikaijuu-deburas.json) |
 | Daikaijuu Monogatari | 38261 | [38261-daikaijuu-monogatari.json](./38261-daikaijuu-monogatari.json) |
 | Daikaijuu Monogatari II | 44414 | [44414-daikaijuu-monogatari-ii.json](./44414-daikaijuu-monogatari-ii.json) |
@@ -1416,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Return | 364016 | [364016-dark-return.json](./364016-dark-return.json) |
 | Dark Ride Escape | 310577 | [310577-dark-ride-escape.json](./310577-dark-ride-escape.json) |
 | Dark Rift | 3468 | [3468-dark-rift.json](./3468-dark-rift.json) |
+| Dark Rising | 72482 | [72482-dark-rising.json](./72482-dark-rising.json) |
 | Dark Roast Cafe | 300508 | [300508-dark-roast-cafe.json](./300508-dark-roast-cafe.json) |
 | Dark Roll | 112861 | [112861-dark-roll.json](./112861-dark-roll.json) |
 | Dark Roll: Free Kick Challenge | 157943 | [157943-dark-roll-free-kick-challenge.json](./157943-dark-roll-free-kick-challenge.json) |
@@ -6439,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devour | 139708 | [139708-devour.json](./139708-devour.json) |
 | Devour | 181916 | [181916-devour.json](./181916-devour.json) |
 | Devour the Elixir | 390151 | [390151-devour-the-elixir.json](./390151-devour-the-elixir.json) |
+| Devour Them All | 72510 | [72510-devour-them-all.json](./72510-devour-them-all.json) |
 | Devoured Time | 35583 | [35583-devoured-time.json](./35583-devoured-time.json) |
 | Devtheism | 134512 | [134512-devtheism.json](./134512-devtheism.json) |
 | DevTycoon | 329780 | [329780-devtycoon.json](./329780-devtycoon.json) |
@@ -6601,6 +6604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond love | 111496 | [111496-diamond-love.json](./111496-diamond-love.json) |
 | Diamond Mind Baseball 8.0 | 94249 | [94249-diamond-mind-baseball-8-0.json](./94249-diamond-mind-baseball-8-0.json) |
 | Diamond Mind Baseball 9 | 23802 | [23802-diamond-mind-baseball-9.json](./23802-diamond-mind-baseball-9.json) |
+| Diamond Mine | 72531 | [72531-diamond-mine.json](./72531-diamond-mine.json) |
 | Diamond Mirage | 151587 | [151587-diamond-mirage.json](./151587-diamond-mirage.json) |
 | Diamond no Kuni no Alice: Wonderful Mirror World | 213845 | [213845-diamond-no-kuni-no-alice-wonderful-mirror-world.json](./213845-diamond-no-kuni-no-alice-wonderful-mirror-world.json) |
 | Diamond no Kuni no Alice: Wonderful Wonder World | 64165 | [64165-diamond-no-kuni-no-alice-wonderful-wonder-world.json](./64165-diamond-no-kuni-no-alice-wonderful-wonder-world.json) |
