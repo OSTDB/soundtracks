@@ -3027,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiro | 138741 | [138741-kiro.json](./138741-kiro.json) |
 | Kiro Ramy Story: The Junior | 123582 | [123582-kiro-ramy-story-the-junior.json](./123582-kiro-ramy-story-the-junior.json) |
 | Kiru Kiru Kiru | 257913 | [257913-kiru-kiru-kiru.json](./257913-kiru-kiru-kiru.json) |
+| Kirubiru | 93420 | [93420-kirubiru.json](./93420-kirubiru.json) |
 | Kisaragi Gold Star: Nonstop Go Go!! | 272535 | [272535-kisaragi-gold-star-nonstop-go-go.json](./272535-kisaragi-gold-star-nonstop-go-go.json) |
 | Kisaragi no Hougyoku | 32132 | [32132-kisaragi-no-hougyoku.json](./32132-kisaragi-no-hougyoku.json) |
 | Kisaragi's Dangerously Erotic Certification Exam! Resistance Is Futile | 82752 | [82752-kisaragis-dangerously-erotic-certification-exam-resistance-is-futile.json](./82752-kisaragis-dangerously-erotic-certification-exam-resistance-is-futile.json) |
@@ -3801,6 +3802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knyaz' Vladimir | 306566 | [306566-knyaz-vladimir.json](./306566-knyaz-vladimir.json) |
 | Knytt | 95356 | [95356-knytt.json](./95356-knytt.json) |
 | Knytt Classic | 412975 | [412975-knytt-classic.json](./412975-knytt-classic.json) |
+| Knytt Experiment | 93429 | [93429-knytt-experiment.json](./93429-knytt-experiment.json) |
 | Knytt Stories | 51317 | [51317-knytt-stories.json](./51317-knytt-stories.json) |
 | KO Chaos | 285456 | [285456-ko-chaos.json](./285456-ko-chaos.json) |
 | Ko Ima ni Ari | 357166 | [357166-ko-ima-ni-ari.json](./357166-ko-ima-ni-ari.json) |
