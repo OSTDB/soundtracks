@@ -1155,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Second | 215338 | [215338-last-second.json](./215338-last-second.json) |
 | Last Second Save | 382898 | [382898-last-second-save.json](./382898-last-second-save.json) |
 | Last Seen Online | 281011 | [281011-last-seen-online.json](./281011-last-seen-online.json) |
+| Last Seen Online | 98847 | [98847-last-seen-online.json](./98847-last-seen-online.json) |
 | Last Shape Standing | 164910 | [164910-last-shape-standing.json](./164910-last-shape-standing.json) |
 | Last Shark Standing | 123903 | [123903-last-shark-standing.json](./123903-last-shark-standing.json) |
 | Last Shelter: Survival | 89754 | [89754-last-shelter-survival.json](./89754-last-shelter-survival.json) |
@@ -2883,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Create! Pottery VR | 113887 | [113887-lets-create-pottery-vr.json](./113887-lets-create-pottery-vr.json) |
 | Let's Dance | 245698 | [245698-lets-dance.json](./245698-lets-dance.json) |
 | Let's Dance | 78337 | [78337-lets-dance.json](./78337-lets-dance.json) |
+| Let's Do the Writing | 98849 | [98849-lets-do-the-writing.json](./98849-lets-do-the-writing.json) |
 | Let's Draw | 29849 | [29849-lets-draw.json](./29849-lets-draw.json) |
 | Let's Draw A Picture Together! | 68548 | [68548-lets-draw-a-picture-together.json](./68548-lets-draw-a-picture-together.json) |
 | Let's Eat! Seaside Cafe | 33465 | [33465-lets-eat-seaside-cafe.json](./33465-lets-eat-seaside-cafe.json) |
@@ -4252,6 +4254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines 3D | 140567 | [140567-lines-3d.json](./140567-lines-3d.json) |
 | Lines 98 | 367530 | [367530-lines-98.json](./367530-lines-98.json) |
 | Lines 98 Classic | 388792 | [388792-lines-98-classic.json](./388792-lines-98-classic.json) |
+| Lines and Hexa | 98865 | [98865-lines-and-hexa.json](./98865-lines-and-hexa.json) |
 | Lines Frenzy | 221994 | [221994-lines-frenzy.json](./221994-lines-frenzy.json) |
 | Lines Infinite | 124024 | [124024-lines-infinite.json](./124024-lines-infinite.json) |
 | Lines Lines | 232500 | [232500-lines-lines.json](./232500-lines-lines.json) |
@@ -5542,6 +5545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loki's Minions Capture the Flag | 306187 | [306187-lokis-minions-capture-the-flag.json](./306187-lokis-minions-capture-the-flag.json) |
 | Loki's Revenge | 312154 | [312154-lokis-revenge.json](./312154-lokis-revenge.json) |
 | Lokko | 374427 | [374427-lokko.json](./374427-lokko.json) |
+| LOL Dolls - lol surprise game | 98829 | [98829-lol-dolls-lol-surprise-game.json](./98829-lol-dolls-lol-surprise-game.json) |
 | LoL Kart | 88819 | [88819-lol-kart.json](./88819-lol-kart.json) |
 | LoL Sketch | 181186 | [181186-lol-sketch.json](./181186-lol-sketch.json) |
 | LOL: Hasse toh Phasse x Pac-Man | 219450 | [219450-lol-hasse-toh-phasse-x-pac-man.json](./219450-lol-hasse-toh-phasse-x-pac-man.json) |
