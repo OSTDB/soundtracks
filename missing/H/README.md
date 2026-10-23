@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand Almighty | 393759 | [393759-hand-almighty.json](./393759-hand-almighty.json) |
 | Hand Cannon Virtuoso | 132256 | [132256-hand-cannon-virtuoso.json](./132256-hand-cannon-virtuoso.json) |
 | Hand Cooking Simulator: Multi-Chef | 326403 | [326403-hand-cooking-simulator-multi-chef.json](./326403-hand-cooking-simulator-multi-chef.json) |
+| Hand Craft Prime | 97211 | [97211-hand-craft-prime.json](./97211-hand-craft-prime.json) |
 | Hand Doctor For Kids | 106926 | [106926-hand-doctor-for-kids.json](./106926-hand-doctor-for-kids.json) |
 | Hand Held Boggle | 239337 | [239337-hand-held-boggle.json](./239337-hand-held-boggle.json) |
 | Hand Maid Mahjong 2 | 97823 | [97823-hand-maid-mahjong-2.json](./97823-hand-maid-mahjong-2.json) |
@@ -7308,6 +7309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homefront: The Revolution - The Voice Of Freedom | 53205 | [53205-homefront-the-revolution-the-voice-of-freedom.json](./53205-homefront-the-revolution-the-voice-of-freedom.json) |
 | Homefront: The Rock Map Pack | 224224 | [224224-homefront-the-rock-map-pack.json](./224224-homefront-the-rock-map-pack.json) |
 | Homefront: Ultimate Edition | 99960 | [99960-homefront-ultimate-edition.json](./99960-homefront-ultimate-edition.json) |
+| HomeGrove | 97202 | [97202-homegrove.json](./97202-homegrove.json) |
 | Homegrown | 322451 | [322451-homegrown.json](./322451-homegrown.json) |
 | Homeguard | 423249 | [423249-homeguard.json](./423249-homeguard.json) |
 | Homehead | 346023 | [346023-homehead.json](./346023-homehead.json) |
