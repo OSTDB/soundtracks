@@ -2901,6 +2901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teku | 274499 | [274499-teku.json](./274499-teku.json) |
 | Teku-Teku Teku-Teku | 111440 | [111440-teku-teku-teku-teku.json](./111440-teku-teku-teku-teku.json) |
 | Tekuteku Pikmin | 232901 | [232901-tekuteku-pikmin.json](./232901-tekuteku-pikmin.json) |
+| Tel-Tel Stadium | 47059 | [47059-tel-tel-stadium.json](./47059-tel-tel-stadium.json) |
 | TelAIphone | 310508 | [310508-telaiphone.json](./310508-telaiphone.json) |
 | Télé 7 Jeux: Mots Fléchés | 268415 | [268415-tele-7-jeux-mots-fleches.json](./268415-tele-7-jeux-mots-fleches.json) |
 | Tele-Doodle | 220125 | [220125-tele-doodle.json](./220125-tele-doodle.json) |
@@ -3528,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator 2: Judgment Game | 280650 | [280650-terminator-2-judgment-game.json](./280650-terminator-2-judgment-game.json) |
 | Terminator 3: Rise of the Machines | 204902 | [204902-terminator-3-rise-of-the-machines.json](./204902-terminator-3-rise-of-the-machines.json) |
 | Terminator 3: Rise of the Machines | 6196 | [6196-terminator-3-rise-of-the-machines.json](./6196-terminator-3-rise-of-the-machines.json) |
+| Terminator 3: War of the Machines | 47069 | [47069-terminator-3-war-of-the-machines.json](./47069-terminator-3-war-of-the-machines.json) |
 | Terminator Salvation | 142768 | [142768-terminator-salvation.json](./142768-terminator-salvation.json) |
 | Terminator: Dark Fate | 287867 | [287867-terminator-dark-fate.json](./287867-terminator-dark-fate.json) |
 | Terminator: Dark Fate - Defiance: Evolution | 380994 | [380994-terminator-dark-fate-defiance-evolution.json](./380994-terminator-dark-fate-defiance-evolution.json) |
@@ -3757,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror-Daktil 4D | 147211 | [147211-terror-daktil-4d.json](./147211-terror-daktil-4d.json) |
 | Terrorarium | 115014 | [115014-terrorarium.json](./115014-terrorarium.json) |
 | Terrorbytes | 319843 | [319843-terrorbytes.json](./319843-terrorbytes.json) |
+| Terrordrome: Rise of the Boogeymen | 47036 | [47036-terrordrome-rise-of-the-boogeymen.json](./47036-terrordrome-rise-of-the-boogeymen.json) |
 | Terrorfest | 313882 | [313882-terrorfest.json](./313882-terrorfest.json) |
 | Terrorhedron | 17378 | [17378-terrorhedron.json](./17378-terrorhedron.json) |
 | Terrorist Apartment | 107844 | [107844-terrorist-apartment.json](./107844-terrorist-apartment.json) |
@@ -3764,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorist Killer | 143755 | [143755-terrorist-killer.json](./143755-terrorist-killer.json) |
 | Terrorist Takedown 2: US Navy Seals | 46443 | [46443-terrorist-takedown-2-us-navy-seals.json](./46443-terrorist-takedown-2-us-navy-seals.json) |
 | Terrorist Takedown 3 | 27616 | [27616-terrorist-takedown-3.json](./27616-terrorist-takedown-3.json) |
+| Terrorist Takedown: Covert Operations | 47049 | [47049-terrorist-takedown-covert-operations.json](./47049-terrorist-takedown-covert-operations.json) |
 | Terrorist Takedown: Payback | 54430 | [54430-terrorist-takedown-payback.json](./54430-terrorist-takedown-payback.json) |
 | Terrorist Takedown: War in Colombia | 70122 | [70122-terrorist-takedown-war-in-colombia.json](./70122-terrorist-takedown-war-in-colombia.json) |
 | TerrorMario! | 323754 | [323754-terrormario.json](./323754-terrormario.json) |
@@ -5326,6 +5330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bloody Cross | 342648 | [342648-the-bloody-cross.json](./342648-the-bloody-cross.json) |
 | The Bloom Between | 364370 | [364370-the-bloom-between.json](./364370-the-bloom-between.json) |
 | The Blue & the Gray | 11969 | [11969-the-blue-and-the-gray.json](./11969-the-blue-and-the-gray.json) |
+| The Blue and the Grey | 47013 | [47013-the-blue-and-the-grey.json](./47013-the-blue-and-the-grey.json) |
 | The Blue Bedroom | 180847 | [180847-the-blue-bedroom.json](./180847-the-blue-bedroom.json) |
 | The Blue Box | 99686 | [99686-the-blue-box.json](./99686-the-blue-box.json) |
 | The Blue Chamber | 247540 | [247540-the-blue-chamber.json](./247540-the-blue-chamber.json) |
@@ -6204,6 +6209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crypts of Plumbous | 74026 | [74026-the-crypts-of-plumbous.json](./74026-the-crypts-of-plumbous.json) |
 | The Crystal Archer Girl | 295342 | [295342-the-crystal-archer-girl.json](./295342-the-crystal-archer-girl.json) |
 | The Crystal Golem | 152273 | [152273-the-crystal-golem.json](./152273-the-crystal-golem.json) |
+| The Crystal Key | 47063 | [47063-the-crystal-key.json](./47063-the-crystal-key.json) |
 | The Crystal Maze | 13247 | [13247-the-crystal-maze.json](./13247-the-crystal-maze.json) |
 | The Crystal Nebula | 31963 | [31963-the-crystal-nebula.json](./31963-the-crystal-nebula.json) |
 | The Crystal of Kings | 39487 | [39487-the-crystal-of-kings.json](./39487-the-crystal-of-kings.json) |
@@ -14994,6 +15000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The War of Genesis III Part.2 | 131404 | [131404-the-war-of-genesis-iii-part-2.json](./131404-the-war-of-genesis-iii-part-2.json) |
 | The War of Genesis IV: Spiral Genesis | 58763 | [58763-the-war-of-genesis-iv-spiral-genesis.json](./58763-the-war-of-genesis-iv-spiral-genesis.json) |
 | The War of Genesis Side Story 2: Tempest | 108756 | [108756-the-war-of-genesis-side-story-2-tempest.json](./108756-the-war-of-genesis-side-story-2-tempest.json) |
+| The War of Genesis Side Story I: Rhapsody of Zephyr | 47016 | [47016-the-war-of-genesis-side-story-i-rhapsody-of-zephyr.json](./47016-the-war-of-genesis-side-story-i-rhapsody-of-zephyr.json) |
 | The War of Genesis: Battle of Antaria | 110293 | [110293-the-war-of-genesis-battle-of-antaria.json](./110293-the-war-of-genesis-battle-of-antaria.json) |
 | The War of Genesis: Remnants of Gray | 137626 | [137626-the-war-of-genesis-remnants-of-gray.json](./137626-the-war-of-genesis-remnants-of-gray.json) |
 | The War of the Willows | 59675 | [59675-the-war-of-the-willows.json](./59675-the-war-of-the-willows.json) |
@@ -24336,6 +24343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Rush Cave Climb | 382520 | [382520-treasure-rush-cave-climb.json](./382520-treasure-rush-cave-climb.json) |
 | Treasure Rush: Phantom Infiltration | 386293 | [386293-treasure-rush-phantom-infiltration.json](./386293-treasure-rush-phantom-infiltration.json) |
 | Treasure Seas Incorporated | 271390 | [271390-treasure-seas-incorporated.json](./271390-treasure-seas-incorporated.json) |
+| Treasure Seekers 3: Follow the Ghosts | 47031 | [47031-treasure-seekers-3-follow-the-ghosts.json](./47031-treasure-seekers-3-follow-the-ghosts.json) |
 | Treasure Seekers: The Time Has Come | 226208 | [226208-treasure-seekers-the-time-has-come.json](./226208-treasure-seekers-the-time-has-come.json) |
 | Treasure Seekers: Visions of Gold | 64728 | [64728-treasure-seekers-visions-of-gold.json](./64728-treasure-seekers-visions-of-gold.json) |
 | Treasure Seekers: Visions of Gold HD | 24285 | [24285-treasure-seekers-visions-of-gold-hd.json](./24285-treasure-seekers-visions-of-gold-hd.json) |
