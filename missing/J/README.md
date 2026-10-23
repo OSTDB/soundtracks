@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy! | 3396 | [3396-jeopardy.json](./3396-jeopardy.json) |
 | Jeopardy! | 64476 | [64476-jeopardy.json](./64476-jeopardy.json) |
 | Jeopardy! | 78592 | [78592-jeopardy.json](./78592-jeopardy.json) |
+| Jeopardy! | 94102 | [94102-jeopardy.json](./94102-jeopardy.json) |
 | Jeopardy! 2nd Edition | 43911 | [43911-jeopardy-2nd-edition.json](./43911-jeopardy-2nd-edition.json) |
 | Jeopardy! Cartridge #1 | 198772 | [198772-jeopardy-cartridge-1.json](./198772-jeopardy-cartridge-1.json) |
 | Jeopardy! Cartridge #2 | 198773 | [198773-jeopardy-cartridge-2.json](./198773-jeopardy-cartridge-2.json) |
