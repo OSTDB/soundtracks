@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Astronaut | 171564 | [171564-jetpack-astronaut.json](./171564-jetpack-astronaut.json) |
 | Jetpack Basketball | 242443 | [242443-jetpack-basketball.json](./242443-jetpack-basketball.json) |
 | Jetpack Birdie | 240754 | [240754-jetpack-birdie.json](./240754-jetpack-birdie.json) |
+| Jetpack Brontosaurus | 97095 | [97095-jetpack-brontosaurus.json](./97095-jetpack-brontosaurus.json) |
 | Jetpack Cat | 72694 | [72694-jetpack-cat.json](./72694-jetpack-cat.json) |
 | Jetpack Christmas Special | 19238 | [19238-jetpack-christmas-special.json](./19238-jetpack-christmas-special.json) |
 | Jetpack Clankers | 406180 | [406180-jetpack-clankers.json](./406180-jetpack-clankers.json) |
