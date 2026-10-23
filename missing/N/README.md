@@ -777,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsuyume Nagisa | 396029 | [396029-natsuyume-nagisa.json](./396029-natsuyume-nagisa.json) |
 | Natsuyume Yawa | 408093 | [408093-natsuyume-yawa.json](./408093-natsuyume-yawa.json) |
 | Natsuzora no Monologue: Another Memory | 287895 | [287895-natsuzora-no-monologue-another-memory.json](./287895-natsuzora-no-monologue-another-memory.json) |
+| Natsuzora no Perseus | 60873 | [60873-natsuzora-no-perseus.json](./60873-natsuzora-no-perseus.json) |
 | Natti | 236911 | [236911-natti.json](./236911-natti.json) |
 | Natto-Cat | 68776 | [68776-natto-cat.json](./68776-natto-cat.json) |
 | Natuk | 79675 | [79675-natuk.json](./79675-natuk.json) |
@@ -1215,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCORE | 330133 | [330133-ncore.json](./330133-ncore.json) |
 | NCradle | 83522 | [83522-ncradle.json](./83522-ncradle.json) |
 | NDE Rescue | 31857 | [31857-nde-rescue.json](./31857-nde-rescue.json) |
+| NDR Racing | 60862 | [60862-ndr-racing.json](./60862-ndr-racing.json) |
 | Ne no Kami: The Two Princess Knights of Kyoto | 32848 | [32848-ne-no-kami-the-two-princess-knights-of-kyoto.json](./32848-ne-no-kami-the-two-princess-knights-of-kyoto.json) |
 | NE_01 | 109025 | [109025-ne-01.json](./109025-ne-01.json) |
 | Nea Edem | 193418 | [193418-nea-edem.json](./193418-nea-edem.json) |
