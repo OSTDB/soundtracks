@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Blue Room | 185616 | [185616-your-blue-room.json](./185616-your-blue-room.json) |
 | Your Boss is Calling... | 214391 | [214391-your-boss-is-calling.json](./214391-your-boss-is-calling.json) |
 | Your Boyfriend | 165460 | [165460-your-boyfriend.json](./165460-your-boyfriend.json) |
+| Your Bum is Talking | 70814 | [70814-your-bum-is-talking.json](./70814-your-bum-is-talking.json) |
 | Your Call | 259993 | [259993-your-call.json](./259993-your-call.json) |
 | Your Call Football | 100654 | [100654-your-call-football.json](./100654-your-call-football.json) |
 | Your Canvas | 387638 | [387638-your-canvas.json](./387638-your-canvas.json) |
