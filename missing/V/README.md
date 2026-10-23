@@ -2082,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Double Yakuman | 355119 | [355119-virtual-double-yakuman.json](./355119-virtual-double-yakuman.json) |
 | Virtual Dream | 312578 | [312578-virtual-dream.json](./312578-virtual-dream.json) |
 | Virtual Driving School | 404840 | [404840-virtual-driving-school.json](./404840-virtual-driving-school.json) |
+| Virtual Droid | 95810 | [95810-virtual-droid.json](./95810-virtual-droid.json) |
 | Virtual Duck Hunt | 382521 | [382521-virtual-duck-hunt.json](./382521-virtual-duck-hunt.json) |
 | Virtual Earth Online | 106642 | [106642-virtual-earth-online.json](./106642-virtual-earth-online.json) |
 | Virtual Escape - The Play Room | 131875 | [131875-virtual-escape-the-play-room.json](./131875-virtual-escape-the-play-room.json) |
