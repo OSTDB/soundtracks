@@ -890,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Wind | 929 | [929-war-wind.json](./929-war-wind.json) |
 | War Wind II: Human Onslaught | 51780 | [51780-war-wind-ii-human-onslaught.json](./51780-war-wind-ii-human-onslaught.json) |
 | War Yards | 139480 | [139480-war-yards.json](./139480-war-yards.json) |
+| War Z | 94041 | [94041-war-z.json](./94041-war-z.json) |
 | War Zone Soldier: Battle Royale Shooter | 273303 | [273303-war-zone-soldier-battle-royale-shooter.json](./273303-war-zone-soldier-battle-royale-shooter.json) |
 | War-Torn | 344913 | [344913-war-torn.json](./344913-war-torn.json) |
 | War, the Game | 17838 | [17838-war-the-game.json](./17838-war-the-game.json) |
@@ -2213,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayward Shadows | 213416 | [213416-wayward-shadows.json](./213416-wayward-shadows.json) |
 | Wayward Souls: Curse of Shadow | 19270 | [19270-wayward-souls-curse-of-shadow.json](./19270-wayward-souls-curse-of-shadow.json) |
 | Wayward Terran Frontier: Zero Falls | 34680 | [34680-wayward-terran-frontier-zero-falls.json](./34680-wayward-terran-frontier-zero-falls.json) |
+| Wayward Tide | 94066 | [94066-wayward-tide.json](./94066-wayward-tide.json) |
 | WaywaY | 76925 | [76925-wayway.json](./76925-wayway.json) |
 | Waznk Zahb | 320275 | [320275-waznk-zahb.json](./320275-waznk-zahb.json) |
 | WBTR: Welcome Back to Reality | 130376 | [130376-wbtr-welcome-back-to-reality.json](./130376-wbtr-welcome-back-to-reality.json) |
@@ -6662,6 +6664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series Baseball | 247009 | [247009-world-series-baseball.json](./247009-world-series-baseball.json) |
 | World Series Baseball | 46546 | [46546-world-series-baseball.json](./46546-world-series-baseball.json) |
 | World Series Baseball | 81662 | [81662-world-series-baseball.json](./81662-world-series-baseball.json) |
+| World Series Baseball | 94110 | [94110-world-series-baseball.json](./94110-world-series-baseball.json) |
 | World Series Baseball '95 | 368629 | [368629-world-series-baseball-95.json](./368629-world-series-baseball-95.json) |
 | World Series Baseball 2K1 | 45849 | [45849-world-series-baseball-2k1.json](./45849-world-series-baseball-2k1.json) |
 | World Series Baseball 2K2 | 6240 | [6240-world-series-baseball-2k2.json](./6240-world-series-baseball-2k2.json) |
