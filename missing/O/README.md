@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopi: Snow Globe | 240112 | [240112-octopi-snow-globe.json](./240112-octopi-snow-globe.json) |
 | Octopie | 204723 | [204723-octopie.json](./204723-octopie.json) |
 | Octopinbs | 394319 | [394319-octopinbs.json](./394319-octopinbs.json) |
+| Octoplex | 83376 | [83376-octoplex.json](./83376-octoplex.json) |
 | Octopo | 306050 | [306050-octopo.json](./306050-octopo.json) |
 | Octopus | 231722 | [231722-octopus.json](./231722-octopus.json) |
 | Octopus | 231723 | [231723-octopus.json](./231723-octopus.json) |
@@ -1571,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Christmas He Will Return Home | 281462 | [281462-on-christmas-he-will-return-home.json](./281462-on-christmas-he-will-return-home.json) |
 | On Closer Inspection | 164942 | [164942-on-closer-inspection.json](./164942-on-closer-inspection.json) |
 | On Constant Delay | 400296 | [400296-on-constant-delay.json](./400296-on-constant-delay.json) |
+| On Cue | 83375 | [83375-on-cue.json](./83375-on-cue.json) |
 | On Dark Terms | 221134 | [221134-on-dark-terms.json](./221134-on-dark-terms.json) |
 | On Duty | 130378 | [130378-on-duty.json](./130378-on-duty.json) |
 | On Earth as in Hell: Woytons Plague | 218739 | [218739-on-earth-as-in-hell-woytons-plague.json](./218739-on-earth-as-in-hell-woytons-plague.json) |
