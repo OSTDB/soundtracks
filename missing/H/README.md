@@ -6127,6 +6127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Trouble 2 | 322599 | [322599-highway-trouble-2.json](./322599-highway-trouble-2.json) |
 | Highway Wars | 88041 | [88041-highway-wars.json](./88041-highway-wars.json) |
 | Highway Zombie Survival: Car Apocalypse | 306544 | [306544-highway-zombie-survival-car-apocalypse.json](./306544-highway-zombie-survival-car-apocalypse.json) |
+| Higurashi Daybreak | 69127 | [69127-higurashi-daybreak.json](./69127-higurashi-daybreak.json) |
 | Higurashi Daybreak Portable | 38477 | [38477-higurashi-daybreak-portable.json](./38477-higurashi-daybreak-portable.json) |
 | Higurashi Daybreak Portable: Mega Edition | 38478 | [38478-higurashi-daybreak-portable-mega-edition.json](./38478-higurashi-daybreak-portable-mega-edition.json) |
 | Higurashi no Naku Koro ni Hou | 251461 | [251461-higurashi-no-naku-koro-ni-hou.json](./251461-higurashi-no-naku-koro-ni-hou.json) |
