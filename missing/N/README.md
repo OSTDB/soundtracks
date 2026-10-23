@@ -1405,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need For Race: Street King | 328511 | [328511-need-for-race-street-king.json](./328511-need-for-race-street-king.json) |
 | Need For Scream | 345550 | [345550-need-for-scream.json](./345550-need-for-scream.json) |
 | Need for Seat | 364277 | [364277-need-for-seat.json](./364277-need-for-seat.json) |
+| Need For Seed | 76394 | [76394-need-for-seed.json](./76394-need-for-seed.json) |
 | Need For Seed: Undergrowth | 185512 | [185512-need-for-seed-undergrowth.json](./185512-need-for-seed-undergrowth.json) |
 | Need for sharp | 163880 | [163880-need-for-sharp.json](./163880-need-for-sharp.json) |
 | Need for Speed Deluxe Bundle | 331479 | [331479-need-for-speed-deluxe-bundle.json](./331479-need-for-speed-deluxe-bundle.json) |
