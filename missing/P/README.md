@@ -3331,6 +3331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pense Bem: Informática | 305886 | [305886-pense-bem-informatica.json](./305886-pense-bem-informatica.json) |
 | Pent's Wacky, Zany Road Trip to Adulthood | 412953 | [412953-pents-wacky-zany-road-trip-to-adulthood.json](./412953-pents-wacky-zany-road-trip-to-adulthood.json) |
 | Pent's Zacky, Zany Road Trip to Adulthood | 326611 | [326611-pents-zacky-zany-road-trip-to-adulthood.json](./326611-pents-zacky-zany-road-trip-to-adulthood.json) |
+| Penta Dragon | 49139 | [49139-penta-dragon.json](./49139-penta-dragon.json) |
 | Penta Terra | 297180 | [297180-penta-terra.json](./297180-penta-terra.json) |
 | Pentaball | 286766 | [286766-pentaball.json](./286766-pentaball.json) |
 | PentaBlox | 188581 | [188581-pentablox.json](./188581-pentablox.json) |
