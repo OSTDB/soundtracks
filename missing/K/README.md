@@ -3600,6 +3600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightmare Lands | 120702 | [120702-knightmare-lands.json](./120702-knightmare-lands.json) |
 | Knightmare Tales | 292746 | [292746-knightmare-tales.json](./292746-knightmare-tales.json) |
 | Knightmare Treasure | 179385 | [179385-knightmare-treasure.json](./179385-knightmare-treasure.json) |
+| KnightOut | 76402 | [76402-knightout.json](./76402-knightout.json) |
 | Knightphone | 118267 | [118267-knightphone.json](./118267-knightphone.json) |
 | KnightQuest | 95427 | [95427-knightquest.json](./95427-knightquest.json) |
 | KnightRoyale | 143948 | [143948-knightroyale.json](./143948-knightroyale.json) |
