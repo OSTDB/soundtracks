@@ -11880,6 +11880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momotaro Dentetsu 11: Black Bonbii Shutsugen! no Maki | 4014 | [4014-momotaro-dentetsu-11-black-bonbii-shutsugen-no-maki.json](./4014-momotaro-dentetsu-11-black-bonbii-shutsugen-no-maki.json) |
 | Momotaro Dentetsu 12: Nishi Nihon-hen mo Arimasse! | 4015 | [4015-momotaro-dentetsu-12-nishi-nihon-hen-mo-arimasse.json](./4015-momotaro-dentetsu-12-nishi-nihon-hen-mo-arimasse.json) |
 | Momotaro Dentetsu 15: Godai Bonbii Toujou! no Maki | 64406 | [64406-momotaro-dentetsu-15-godai-bonbii-toujou-no-maki.json](./64406-momotaro-dentetsu-15-godai-bonbii-toujou-no-maki.json) |
+| Momotaro Dentetsu 16 Gold | 67826 | [67826-momotaro-dentetsu-16-gold.json](./67826-momotaro-dentetsu-16-gold.json) |
 | Momotaro Dentetsu 16: Hokkaido Daiidou no Maki! | 64405 | [64405-momotaro-dentetsu-16-hokkaido-daiidou-no-maki.json](./64405-momotaro-dentetsu-16-hokkaido-daiidou-no-maki.json) |
 | Momotaro Dentetsu 2010: Sengoku Ishin no Hero Daishuugou! no Maki | 79273 | [79273-momotaro-dentetsu-2010-sengoku-ishin-no-hero-daishuugou-no-maki.json](./79273-momotaro-dentetsu-2010-sengoku-ishin-no-hero-daishuugou-no-maki.json) |
 | Momotaro Dentetsu 2017: Tachiagare Nippon!! | 79234 | [79234-momotaro-dentetsu-2017-tachiagare-nippon.json](./79234-momotaro-dentetsu-2017-tachiagare-nippon.json) |
