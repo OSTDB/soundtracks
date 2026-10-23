@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh My Hero | 174653 | [174653-oh-my-hero.json](./174653-oh-my-hero.json) |
 | Oh My Lord | 312291 | [312291-oh-my-lord.json](./312291-oh-my-lord.json) |
 | Oh My Pool! | 144970 | [144970-oh-my-pool.json](./144970-oh-my-pool.json) |
+| Oh My Prince | 54268 | [54268-oh-my-prince.json](./54268-oh-my-prince.json) |
 | Oh My Wrench | 322187 | [322187-oh-my-wrench.json](./322187-oh-my-wrench.json) |
 | Oh My Yokai! | 208282 | [208282-oh-my-yokai.json](./208282-oh-my-yokai.json) |
 | Oh No | 135705 | [135705-oh-no.json](./135705-oh-no.json) |
@@ -1687,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once upon a Dungeon | 81885 | [81885-once-upon-a-dungeon.json](./81885-once-upon-a-dungeon.json) |
 | Once upon a Dungeon II | 226727 | [226727-once-upon-a-dungeon-ii.json](./226727-once-upon-a-dungeon-ii.json) |
 | Once Upon a Dungeon: Infinity | 327951 | [327951-once-upon-a-dungeon-infinity.json](./327951-once-upon-a-dungeon-infinity.json) |
+| Once upon a Farm | 54267 | [54267-once-upon-a-farm.json](./54267-once-upon-a-farm.json) |
 | Once Upon a Fight | 292980 | [292980-once-upon-a-fight.json](./292980-once-upon-a-fight.json) |
 | Once Upon a Forest | 137530 | [137530-once-upon-a-forest.json](./137530-once-upon-a-forest.json) |
 | Once Upon a Galaxy | 305262 | [305262-once-upon-a-galaxy.json](./305262-once-upon-a-galaxy.json) |
@@ -2814,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Wolf Returns: First Mission | 218213 | [218213-operation-wolf-returns-first-mission.json](./218213-operation-wolf-returns-first-mission.json) |
 | Operation Wolf Returns: First Mission - Rescue Edition | 270583 | [270583-operation-wolf-returns-first-mission-rescue-edition.json](./270583-operation-wolf-returns-first-mission-rescue-edition.json) |
 | Operation Wolfenstein | 179472 | [179472-operation-wolfenstein.json](./179472-operation-wolfenstein.json) |
+| Operation Wolfsburg | 54266 | [54266-operation-wolfsburg.json](./54266-operation-wolfsburg.json) |
 | Operation Z.E.R.O.: OutNumbuh'd! | 234540 | [234540-operation-z-e-r-o-outnumbuhd.json](./234540-operation-z-e-r-o-outnumbuhd.json) |
 | Operation Zero | 333014 | [333014-operation-zero.json](./333014-operation-zero.json) |
 | Operation Zeta | 138457 | [138457-operation-zeta.json](./138457-operation-zeta.json) |
