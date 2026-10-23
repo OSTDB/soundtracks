@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saiyuki Reload: Gunlock | 68247 | [68247-saiyuki-reload-gunlock.json](./68247-saiyuki-reload-gunlock.json) |
 | Saiyuuki World 2: Tenjoukai no Majin | 19669 | [19669-saiyuuki-world-2-tenjoukai-no-majin.json](./19669-saiyuuki-world-2-tenjoukai-no-majin.json) |
 | Sak'd | 115786 | [115786-sakd.json](./115786-sakd.json) |
+| Sakai Burai Kaiji: Death or Survival | 61394 | [61394-sakai-burai-kaiji-death-or-survival.json](./61394-sakai-burai-kaiji-death-or-survival.json) |
 | Sakamoto Dangerous Barrage | 331884 | [331884-sakamoto-dangerous-barrage.json](./331884-sakamoto-dangerous-barrage.json) |
 | Sakamoto Days Dangerous Puzzle | 341289 | [341289-sakamoto-days-dangerous-puzzle.json](./341289-sakamoto-days-dangerous-puzzle.json) |
 | Sakata Goro Kudan no Renju Kyoushitsu | 97859 | [97859-sakata-goro-kudan-no-renju-kyoushitsu.json](./97859-sakata-goro-kudan-no-renju-kyoushitsu.json) |
@@ -6907,6 +6908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipmatch | 256232 | [256232-shipmatch.json](./256232-shipmatch.json) |
 | ShipOS 1994 | 312191 | [312191-shipos-1994.json](./312191-shipos-1994.json) |
 | Shipping Out! | 185383 | [185383-shipping-out.json](./185383-shipping-out.json) |
+| Shippuu! Iron Leaguer | 61391 | [61391-shippuu-iron-leaguer.json](./61391-shippuu-iron-leaguer.json) |
 | ShipRect | 212797 | [212797-shiprect.json](./212797-shiprect.json) |
 | Ships | 125738 | [125738-ships.json](./125738-ships.json) |
 | Ships | 187826 | [187826-ships.json](./187826-ships.json) |
@@ -21955,6 +21957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Nauts | 143386 | [143386-strawberry-nauts.json](./143386-strawberry-nauts.json) |
 | Strawberry Nauts: Complete Limited Edition | 172586 | [172586-strawberry-nauts-complete-limited-edition.json](./172586-strawberry-nauts-complete-limited-edition.json) |
 | Strawberry Note 3 | 343324 | [343324-strawberry-note-3.json](./343324-strawberry-note-3.json) |
+| Strawberry Panic! Girls' School in Fullbloom | 61405 | [61405-strawberry-panic-girls-school-in-fullbloom.json](./61405-strawberry-panic-girls-school-in-fullbloom.json) |
 | Strawberry Park | 312732 | [312732-strawberry-park.json](./312732-strawberry-park.json) |
 | Strawberry Punch | 130664 | [130664-strawberry-punch.json](./130664-strawberry-punch.json) |
 | Strawberry Quest | 382370 | [382370-strawberry-quest.json](./382370-strawberry-quest.json) |
