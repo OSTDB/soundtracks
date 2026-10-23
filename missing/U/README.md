@@ -2552,6 +2552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uppercute | 336613 | [336613-uppercute.json](./336613-uppercute.json) |
 | Upperz | 102794 | [102794-upperz.json](./102794-upperz.json) |
 | Uppies! | 364588 | [364588-uppies.json](./364588-uppies.json) |
+| Upptäck Rymden med Mulle Meck | 97734 | [97734-upptack-rymden-med-mulle-meck.json](./97734-upptack-rymden-med-mulle-meck.json) |
 | Uppy Cup | 233918 | [233918-uppy-cup.json](./233918-uppy-cup.json) |
 | Uprising | 257422 | [257422-uprising.json](./257422-uprising.json) |
 | Uprising Complete | 53878 | [53878-uprising-complete.json](./53878-uprising-complete.json) |
