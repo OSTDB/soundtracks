@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Reaper | 394903 | [394903-harvest-reaper.json](./394903-harvest-reaper.json) |
 | Harvest Season: Sudoku Puzzle | 241992 | [241992-harvest-season-sudoku-puzzle.json](./241992-harvest-season-sudoku-puzzle.json) |
 | Harvest Seasons | 81864 | [81864-harvest-seasons.json](./81864-harvest-seasons.json) |
+| Harvest Simulator VR | 75579 | [75579-harvest-simulator-vr.json](./75579-harvest-simulator-vr.json) |
 | Harvest Skies: Crop Dusting Simulator | 395693 | [395693-harvest-skies-crop-dusting-simulator.json](./395693-harvest-skies-crop-dusting-simulator.json) |
 | Harvest Them | 239295 | [239295-harvest-them.json](./239295-harvest-them.json) |
 | Harvest Time | 69539 | [69539-harvest-time.json](./69539-harvest-time.json) |
@@ -9515,6 +9516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Killer | 94008 | [94008-hunter-killer.json](./94008-hunter-killer.json) |
 | Hunter Legend: Rise of Clans | 174660 | [174660-hunter-legend-rise-of-clans.json](./174660-hunter-legend-rise-of-clans.json) |
 | Hunter Legends | 304567 | [304567-hunter-legends.json](./304567-hunter-legends.json) |
+| Hunter of antiques | 75640 | [75640-hunter-of-antiques.json](./75640-hunter-of-antiques.json) |
 | Hunter of the Disowned | 156088 | [156088-hunter-of-the-disowned.json](./156088-hunter-of-the-disowned.json) |
 | Hunter Patrol | 13883 | [13883-hunter-patrol.json](./13883-hunter-patrol.json) |
 | Hunter Revenge | 235648 | [235648-hunter-revenge.json](./235648-hunter-revenge.json) |
