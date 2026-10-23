@@ -1865,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acceleration of Suguri X-Edition | 44596 | [44596-acceleration-of-suguri-x-edition.json](./44596-acceleration-of-suguri-x-edition.json) |
 | Acceleration of Suguri: X-Edition HD | 30251 | [30251-acceleration-of-suguri-x-edition-hd.json](./30251-acceleration-of-suguri-x-edition-hd.json) |
 | Acceleration of Suguri: Y-Edition | 265071 | [265071-acceleration-of-suguri-y-edition.json](./265071-acceleration-of-suguri-y-edition.json) |
+| Accelerator | 77142 | [77142-accelerator.json](./77142-accelerator.json) |
 | Accelerator Operator | 373345 | [373345-accelerator-operator.json](./373345-accelerator-operator.json) |
 | Acceptable Losses | 379459 | [379459-acceptable-losses.json](./379459-acceptable-losses.json) |
 | Acceptance | 210902 | [210902-acceptance.json](./210902-acceptance.json) |
@@ -4960,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfabet Śmierci | 14238 | [14238-alfabet-smierci.json](./14238-alfabet-smierci.json) |
 | Alfabit Gonki za Poteryannymi Bukvami (Byez Peklamy) | 104570 | [104570-alfabit-gonki-za-poteryannymi-bukvami-byez-peklamy.json](./104570-alfabit-gonki-za-poteryannymi-bukvami-byez-peklamy.json) |
 | Alfal's Grove | 132651 | [132651-alfals-grove.json](./132651-alfals-grove.json) |
+| Alfapet | 77143 | [77143-alfapet.json](./77143-alfapet.json) |
 | Alfasnake | 111394 | [111394-alfasnake.json](./111394-alfasnake.json) |
 | Alfelus | 125669 | [125669-alfelus.json](./125669-alfelus.json) |
 | Alfons World | 345053 | [345053-alfons-world.json](./345053-alfons-world.json) |
@@ -5500,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alive | 287661 | [287661-alive.json](./287661-alive.json) |
 | Alive | 345645 | [345645-alive.json](./345645-alive.json) |
 | Alive 2 Survive | 120113 | [120113-alive-2-survive.json](./120113-alive-2-survive.json) |
+| Alive 4-Ever | 77111 | [77111-alive-4-ever.json](./77111-alive-4-ever.json) |
 | Alive 4-ever Returns | 94758 | [94758-alive-4-ever-returns.json](./94758-alive-4-ever-returns.json) |
 | Alive Alphabet: Letter Tracing | 106938 | [106938-alive-alphabet-letter-tracing.json](./106938-alive-alphabet-letter-tracing.json) |
 | Alive Sharks | 70285 | [70285-alive-sharks.json](./70285-alive-sharks.json) |
@@ -9858,6 +9861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Classic No. 4: Defender / Joust | 117923 | [117923-arcade-classic-no-4-defender-joust.json](./117923-arcade-classic-no-4-defender-joust.json) |
 | Arcade Classics | 245988 | [245988-arcade-classics.json](./245988-arcade-classics.json) |
 | Arcade Classics | 282489 | [282489-arcade-classics.json](./282489-arcade-classics.json) |
+| Arcade Classics | 77144 | [77144-arcade-classics.json](./77144-arcade-classics.json) |
 | Arcade Classics: Seawolf II and Gun Fight | 130282 | [130282-arcade-classics-seawolf-ii-and-gun-fight.json](./130282-arcade-classics-seawolf-ii-and-gun-fight.json) |
 | Arcade Classics: Super Breakout / Battlezone | 79702 | [79702-arcade-classics-super-breakout-battlezone.json](./79702-arcade-classics-super-breakout-battlezone.json) |
 | Arcade Combat | 337964 | [337964-arcade-combat.json](./337964-arcade-combat.json) |
@@ -10746,6 +10750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArkCraft: The Rebirth of the World | 312981 | [312981-arkcraft-the-rebirth-of-the-world.json](./312981-arkcraft-the-rebirth-of-the-world.json) |
 | Arkedo Series: 01 Jump! | 79768 | [79768-arkedo-series-01-jump.json](./79768-arkedo-series-01-jump.json) |
 | Arkedo Series: 02 Swap! | 80166 | [80166-arkedo-series-02-swap.json](./80166-arkedo-series-02-swap.json) |
+| Arkedo Series: 03 Pixel! | 77112 | [77112-arkedo-series-03-pixel.json](./77112-arkedo-series-03-pixel.json) |
 | Arkell | 199453 | [199453-arkell.json](./199453-arkell.json) |
 | Arkem | 244684 | [244684-arkem.json](./244684-arkem.json) |
 | Arken | 177337 | [177337-arken.json](./177337-arken.json) |
@@ -14164,6 +14169,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axiomatik | 391225 | [391225-axiomatik.json](./391225-axiomatik.json) |
 | Axion | 34999 | [34999-axion.json](./34999-axion.json) |
 | Axios Football | 338173 | [338173-axios-football.json](./338173-axios-football.json) |
+| Axis & Allies | 77145 | [77145-axis-and-allies.json](./77145-axis-and-allies.json) |
+| Axis & Allies | 77146 | [77146-axis-and-allies.json](./77146-axis-and-allies.json) |
 | Axis & Allies 1942 Online | 116174 | [116174-axis-and-allies-1942-online.json](./116174-axis-and-allies-1942-online.json) |
 | Axis and Allies | 24171 | [24171-axis-and-allies.json](./24171-axis-and-allies.json) |
 | Axis Assassin | 13808 | [13808-axis-assassin.json](./13808-axis-assassin.json) |
