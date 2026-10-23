@@ -1652,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Off 2002 | 71996 | [71996-kick-off-2002.json](./71996-kick-off-2002.json) |
 | Kick Off 96 | 94330 | [94330-kick-off-96.json](./94330-kick-off-96.json) |
 | Kick Off 97 | 94954 | [94954-kick-off-97.json](./94954-kick-off-97.json) |
+| Kick Off: Extra Time | 74883 | [74883-kick-off-extra-time.json](./74883-kick-off-extra-time.json) |
 | Kick Rider | 39512 | [39512-kick-rider.json](./39512-kick-rider.json) |
 | Kick Start | 40340 | [40340-kick-start.json](./40340-kick-start.json) |
 | Kick the Boss's Ass | 301977 | [301977-kick-the-bosss-ass.json](./301977-kick-the-bosss-ass.json) |
@@ -2436,6 +2437,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Kung Fu | 285918 | [285918-king-of-kung-fu.json](./285918-king-of-kung-fu.json) |
 | King of Land Grabbers 3D | 212510 | [212510-king-of-land-grabbers-3d.json](./212510-king-of-land-grabbers-3d.json) |
 | King of Light | 237463 | [237463-king-of-light.json](./237463-king-of-light.json) |
+| King of Math | 74855 | [74855-king-of-math.json](./74855-king-of-math.json) |
+| King of Math Junior | 74854 | [74854-king-of-math-junior.json](./74854-king-of-math-junior.json) |
 | King of Mazes | 87946 | [87946-king-of-mazes.json](./87946-king-of-mazes.json) |
 | King of Meat | 314255 | [314255-king-of-meat.json](./314255-king-of-meat.json) |
 | King of Mobius | 228597 | [228597-king-of-mobius.json](./228597-king-of-mobius.json) |
@@ -3089,6 +3092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss Monster 2 | 366915 | [366915-kiss-monster-2.json](./366915-kiss-monster-2.json) |
 | Kiss My Camera | 227262 | [227262-kiss-my-camera.json](./227262-kiss-my-camera.json) |
 | Kiss of Death | 313875 | [313875-kiss-of-death.json](./313875-kiss-of-death.json) |
+| Kiss of Murder: Another Story of Manhattan Requiem | 74889 | [74889-kiss-of-murder-another-story-of-manhattan-requiem.json](./74889-kiss-of-murder-another-story-of-manhattan-requiem.json) |
 | Kiss of Revenge | 238413 | [238413-kiss-of-revenge.json](./238413-kiss-of-revenge.json) |
 | Kiss of War | 166461 | [166461-kiss-of-war.json](./166461-kiss-of-war.json) |
 | Kiss Pinball | 43917 | [43917-kiss-pinball.json](./43917-kiss-pinball.json) |
@@ -3433,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knick Knack Stack | 400351 | [400351-knick-knack-stack.json](./400351-knick-knack-stack.json) |
 | Knife Aim Hit: Throwing Games | 235297 | [235297-knife-aim-hit-throwing-games.json](./235297-knife-aim-hit-throwing-games.json) |
 | Knife Battle - Hit the target | 95794 | [95794-knife-battle-hit-the-target.json](./95794-knife-battle-hit-the-target.json) |
+| Knife Battles | 74911 | [74911-knife-battles.json](./74911-knife-battles.json) |
 | Knife Club VR | 68607 | [68607-knife-club-vr.json](./68607-knife-club-vr.json) |
 | Knife Dash | 87055 | [87055-knife-dash.json](./87055-knife-dash.json) |
 | Knife Dash: Hit to Crush Pizza | 101671 | [101671-knife-dash-hit-to-crush-pizza.json](./101671-knife-dash-hit-to-crush-pizza.json) |
@@ -4729,6 +4734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Panda | 4964 | [4964-kung-fu-panda.json](./4964-kung-fu-panda.json) |
 | Kung Fu Panda 2 | 200906 | [200906-kung-fu-panda-2.json](./200906-kung-fu-panda-2.json) |
 | Kung Fu Panda 2 | 230549 | [230549-kung-fu-panda-2.json](./230549-kung-fu-panda-2.json) |
+| Kung Fu Panda Holiday | 74856 | [74856-kung-fu-panda-holiday.json](./74856-kung-fu-panda-holiday.json) |
 | Kung Fu Panda World | 357266 | [357266-kung-fu-panda-world.json](./357266-kung-fu-panda-world.json) |
 | Kung Fu Panda: Legendary Warriors | 259266 | [259266-kung-fu-panda-legendary-warriors.json](./259266-kung-fu-panda-legendary-warriors.json) |
 | Kung Fu Panda: Path of the Panda | 70689 | [70689-kung-fu-panda-path-of-the-panda.json](./70689-kung-fu-panda-path-of-the-panda.json) |
