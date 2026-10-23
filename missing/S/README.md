@@ -6594,6 +6594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Seizonritsu 0%! Chikatetsu Kara no Dasshutsu | 238886 | [238886-shin-seizonritsu-0-chikatetsu-kara-no-dasshutsu.json](./238886-shin-seizonritsu-0-chikatetsu-kara-no-dasshutsu.json) |
 | Shin Super Robot Taisen | 43908 | [43908-shin-super-robot-taisen.json](./43908-shin-super-robot-taisen.json) |
 | Shin Tennis no Ouji-sama: Let's Go!! Daily Life from RisingBeat | 222249 | [222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json](./222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json) |
+| Shin Tennis no Ouji-sama: RisingBeat | 77812 | [77812-shin-tennis-no-ouji-sama-risingbeat.json](./77812-shin-tennis-no-ouji-sama-risingbeat.json) |
 | Shin Togenkyo | 38252 | [38252-shin-togenkyo.json](./38252-shin-togenkyo.json) |
 | Shin XALX no Monshou 98 | 92124 | [92124-shin-xalx-no-monshou-98.json](./92124-shin-xalx-no-monshou-98.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
@@ -20866,6 +20867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stephen King's F13 | 92828 | [92828-stephen-kings-f13.json](./92828-stephen-kings-f13.json) |
 | Stephen Sharer’s Rocket Slide | 244109 | [244109-stephen-sharer-s-rocket-slide.json](./244109-stephen-sharer-s-rocket-slide.json) |
 | StepMania | 51311 | [51311-stepmania.json](./51311-stepmania.json) |
+| StepManiaX | 77796 | [77796-stepmaniax.json](./77796-stepmaniax.json) |
 | Stepped Reckoner | 137304 | [137304-stepped-reckoner.json](./137304-stepped-reckoner.json) |
 | Steppenwolf: The X-Creatures Project | 284584 | [284584-steppenwolf-the-x-creatures-project.json](./284584-steppenwolf-the-x-creatures-project.json) |
 | Stepping Selection | 66741 | [66741-stepping-selection.json](./66741-stepping-selection.json) |
@@ -22967,6 +22969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubers! Dark Covenant | 320229 | [320229-succubers-dark-covenant.json](./320229-succubers-dark-covenant.json) |
 | Succubi Domini | 401043 | [401043-succubi-domini.json](./401043-succubi-domini.json) |
 | SuccuBoss | 367057 | [367057-succuboss.json](./367057-succuboss.json) |
+| Succubus | 77820 | [77820-succubus.json](./77820-succubus.json) |
 | Succubus 2069 | 278897 | [278897-succubus-2069.json](./278897-succubus-2069.json) |
 | Succubus Challenge | 339651 | [339651-succubus-challenge.json](./339651-succubus-challenge.json) |
 | Succubus Connect! | 147388 | [147388-succubus-connect.json](./147388-succubus-connect.json) |
@@ -24973,6 +24976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. | 206934 | [206934-super-mario-bros.json](./206934-super-mario-bros.json) |
 | Super Mario Bros. | 222095 | [222095-super-mario-bros.json](./222095-super-mario-bros.json) |
 | Super Mario Bros. / Duck Hunt / World Class Track Meet | 77227 | [77227-super-mario-bros-duck-hunt-world-class-track-meet.json](./77227-super-mario-bros-duck-hunt-world-class-track-meet.json) |
+| Super Mario Bros. / Tetris / Nintendo World Cup | 77785 | [77785-super-mario-bros-tetris-nintendo-world-cup.json](./77785-super-mario-bros-tetris-nintendo-world-cup.json) |
 | Super Mario Bros. & Friends: When I Grow Up | 131951 | [131951-super-mario-bros-and-friends-when-i-grow-up.json](./131951-super-mario-bros-and-friends-when-i-grow-up.json) |
 | Super Mario Bros. & The Midas Machine | 135098 | [135098-super-mario-bros-and-the-midas-machine.json](./135098-super-mario-bros-and-the-midas-machine.json) |
 | Super Mario Bros. + | 307664 | [307664-super-mario-bros.json](./307664-super-mario-bros.json) |
