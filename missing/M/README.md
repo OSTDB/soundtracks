@@ -1493,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Escape: Ancient Japan | 202093 | [202093-mahjong-escape-ancient-japan.json](./202093-mahjong-escape-ancient-japan.json) |
 | Mahjong Fantasy | 104413 | [104413-mahjong-fantasy.json](./104413-mahjong-fantasy.json) |
 | Mahjong Fest: Winterland | 113163 | [113163-mahjong-fest-winterland.json](./113163-mahjong-fest-winterland.json) |
+| Mahjong Fight Club | 79689 | [79689-mahjong-fight-club.json](./79689-mahjong-fight-club.json) |
 | Mahjong Fight Club SP | 212649 | [212649-mahjong-fight-club-sp.json](./212649-mahjong-fight-club-sp.json) |
 | Mahjong Fight Club Wii: Wi-Fi Taiou | 125914 | [125914-mahjong-fight-club-wii-wi-fi-taiou.json](./125914-mahjong-fight-club-wii-wi-fi-taiou.json) |
 | Mahjong Fight Club: Shinsei Zenkoku Taisen-ban | 79829 | [79829-mahjong-fight-club-shinsei-zenkoku-taisen-ban.json](./79829-mahjong-fight-club-shinsei-zenkoku-taisen-ban.json) |
@@ -7163,6 +7164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental Hospital V | 200030 | [200030-mental-hospital-v.json](./200030-mental-hospital-v.json) |
 | Mental Math Tutor | 187186 | [187186-mental-math-tutor.json](./187186-mental-math-tutor.json) |
 | Mental Medicine | 405680 | [405680-mental-medicine.json](./405680-mental-medicine.json) |
+| Mental Repairs Inc | 79686 | [79686-mental-repairs-inc.json](./79686-mental-repairs-inc.json) |
 | Mental Salvo | 311659 | [311659-mental-salvo.json](./311659-mental-salvo.json) |
 | Mental: The Dark Night | 236828 | [236828-mental-the-dark-night.json](./236828-mental-the-dark-night.json) |
 | Mentally, I am | 139273 | [139273-mentally-i-am.json](./139273-mentally-i-am.json) |
@@ -16267,6 +16269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Animal Boy | 279673 | [279673-my-little-animal-boy.json](./279673-my-little-animal-boy.json) |
 | My Little Army | 117615 | [117615-my-little-army.json](./117615-my-little-army.json) |
 | My Little Bakery | 89228 | [89228-my-little-bakery.json](./89228-my-little-bakery.json) |
+| My Little Blacksmith | 79684 | [79684-my-little-blacksmith.json](./79684-my-little-blacksmith.json) |
 | My Little Blood Cult: Let's Summon Demons | 264791 | [264791-my-little-blood-cult-lets-summon-demons.json](./264791-my-little-blood-cult-lets-summon-demons.json) |
 | My Little Bomb | 81920 | [81920-my-little-bomb.json](./81920-my-little-bomb.json) |
 | My Little Cafe Nightmare | 348334 | [348334-my-little-cafe-nightmare.json](./348334-my-little-cafe-nightmare.json) |
