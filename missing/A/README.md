@@ -2821,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Racing 2 | 356278 | [356278-adventure-racing-2.json](./356278-adventure-racing-2.json) |
 | Adventure Realm | 357782 | [357782-adventure-realm.json](./357782-adventure-realm.json) |
 | Adventure Reborn | 240155 | [240155-adventure-reborn.json](./240155-adventure-reborn.json) |
+| Adventure Road | 55719 | [55719-adventure-road.json](./55719-adventure-road.json) |
 | Adventure Roll | 186101 | [186101-adventure-roll.json](./186101-adventure-roll.json) |
 | Adventure Rush | 192674 | [192674-adventure-rush.json](./192674-adventure-rush.json) |
 | Adventure Series | 80367 | [80367-adventure-series.json](./80367-adventure-series.json) |
@@ -2908,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -14345,6 +14347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aya Go | 91740 | [91740-aya-go.json](./91740-aya-go.json) |
 | Aya Shameimaru's Case File | 231785 | [231785-aya-shameimarus-case-file.json](./231785-aya-shameimarus-case-file.json) |
 | Aya: The Tale of Tails | 244161 | [244161-aya-the-tale-of-tails.json](./244161-aya-the-tale-of-tails.json) |
+| Aya's Journey | 55747 | [55747-ayas-journey.json](./55747-ayas-journey.json) |
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
 | Ayakashi Gohan | 70885 | [70885-ayakashi-gohan.json](./70885-ayakashi-gohan.json) |
 | Ayakashi Gohan: Okawari! | 200008 | [200008-ayakashi-gohan-okawari.json](./200008-ayakashi-gohan-okawari.json) |
