@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uchuu Senkan Yamato: Nijuu Ginga no Houkai | 395825 | [395825-uchuu-senkan-yamato-nijuu-ginga-no-houkai.json](./395825-uchuu-senkan-yamato-nijuu-ginga-no-houkai.json) |
 | Uchuusen Cosmo Carrier | 48559 | [48559-uchuusen-cosmo-carrier.json](./48559-uchuusen-cosmo-carrier.json) |
 | Ucieczka | 398338 | [398338-ucieczka.json](./398338-ucieczka.json) |
+| UCM: Ultimate Combat Mission | 83381 | [83381-ucm-ultimate-combat-mission.json](./83381-ucm-ultimate-combat-mission.json) |
 | Ucopia | 338600 | [338600-ucopia.json](./338600-ucopia.json) |
 | UCraft | 85462 | [85462-ucraft.json](./85462-ucraft.json) |
 | Ucube Avcıları | 268222 | [268222-ucube-avc-lar.json](./268222-ucube-avc-lar.json) |
