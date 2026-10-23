@@ -3013,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit.Industries | 194457 | [194457-orbit-industries.json](./194457-orbit-industries.json) |
 | Orbita | 404659 | [404659-orbita.json](./404659-orbita.json) |
 | Orbital | 208895 | [208895-orbital.json](./208895-orbital.json) |
+| Orbital | 80363 | [80363-orbital.json](./80363-orbital.json) |
 | Orbital 1 | 96089 | [96089-orbital-1.json](./96089-orbital-1.json) |
 | Orbital Abyss: Cipher Division | 384854 | [384854-orbital-abyss-cipher-division.json](./384854-orbital-abyss-cipher-division.json) |
 | Orbital Approach | 207566 | [207566-orbital-approach.json](./207566-orbital-approach.json) |
@@ -3313,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origin Space | 52281 | [52281-origin-space.json](./52281-origin-space.json) |
 | Original Frisbee Disc Sports: Ultimate & Golf | 21449 | [21449-original-frisbee-disc-sports-ultimate-and-golf.json](./21449-original-frisbee-disc-sports-ultimate-and-golf.json) |
 | Original Journey | 40968 | [40968-original-journey.json](./40968-original-journey.json) |
+| Original Story from Fairy Tail: Gekitotsu! Kardia Daiseidou | 80340 | [80340-original-story-from-fairy-tail-gekitotsu-kardia-daiseidou.json](./80340-original-story-from-fairy-tail-gekitotsu-kardia-daiseidou.json) |
 | Original Switch Color 2 | 90379 | [90379-original-switch-color-2.json](./90379-original-switch-color-2.json) |
 | Originals: Interactive Story Series | 342107 | [342107-originals-interactive-story-series.json](./342107-originals-interactive-story-series.json) |
 | Origins | 235685 | [235685-origins.json](./235685-origins.json) |
