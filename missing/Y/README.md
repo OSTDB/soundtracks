@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Have No Time | 244854 | [244854-you-have-no-time.json](./244854-you-have-no-time.json) |
 | You Have One Shot | 390120 | [390120-you-have-one-shot.json](./390120-you-have-one-shot.json) |
 | You Have to Burn the Rope | 218417 | [218417-you-have-to-burn-the-rope.json](./218417-you-have-to-burn-the-rope.json) |
+| You Have to Burn the Rope | 64078 | [64078-you-have-to-burn-the-rope.json](./64078-you-have-to-burn-the-rope.json) |
 | You Have To Climb Out | 308350 | [308350-you-have-to-climb-out.json](./308350-you-have-to-climb-out.json) |
 | You Have to Go to Work | 176421 | [176421-you-have-to-go-to-work.json](./176421-you-have-to-go-to-work.json) |
 | You Have to Win the Game | 7556 | [7556-you-have-to-win-the-game.json](./7556-you-have-to-win-the-game.json) |
