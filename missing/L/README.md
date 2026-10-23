@@ -3729,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Hunters: Battalion of Darkness | 126515 | [126515-light-hunters-battalion-of-darkness.json](./126515-light-hunters-battalion-of-darkness.json) |
 | Light In Blood | 277003 | [277003-light-in-blood.json](./277003-light-in-blood.json) |
 | Light in the Dark | 21684 | [21684-light-in-the-dark.json](./21684-light-in-the-dark.json) |
+| Light in the Dark | 81041 | [81041-light-in-the-dark.json](./81041-light-in-the-dark.json) |
 | Light in the Woods | 343849 | [343849-light-in-the-woods.json](./343849-light-in-the-woods.json) |
 | Light Infantry | 161157 | [161157-light-infantry.json](./161157-light-infantry.json) |
 | Light Instinct | 357818 | [357818-light-instinct.json](./357818-light-instinct.json) |
@@ -5545,6 +5546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical: Switzerland | 74487 | [74487-logistical-switzerland.json](./74487-logistical-switzerland.json) |
 | Logistical: The Lot | 53280 | [53280-logistical-the-lot.json](./53280-logistical-the-lot.json) |
 | Logistical: United Kingdom | 53281 | [53281-logistical-united-kingdom.json](./53281-logistical-united-kingdom.json) |
+| Logistical: USA - New York | 81073 | [81073-logistical-usa-new-york.json](./81073-logistical-usa-new-york.json) |
 | Logistical: USA - Oregon | 59231 | [59231-logistical-usa-oregon.json](./59231-logistical-usa-oregon.json) |
 | Logistical: USA - Wisconsin | 74488 | [74488-logistical-usa-wisconsin.json](./74488-logistical-usa-wisconsin.json) |
 | Logistics Central | 271720 | [271720-logistics-central.json](./271720-logistics-central.json) |
