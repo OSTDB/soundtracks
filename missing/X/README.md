@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xon | 247946 | [247946-xon.json](./247946-xon.json) |
 | XON Episode One | 306777 | [306777-xon-episode-one.json](./306777-xon-episode-one.json) |
 | XON Episode Three | 100689 | [100689-xon-episode-three.json](./100689-xon-episode-three.json) |
+| XON Episode Two | 98833 | [98833-xon-episode-two.json](./98833-xon-episode-two.json) |
 | Xong VR | 115341 | [115341-xong-vr.json](./115341-xong-vr.json) |
 | Xonix | 261315 | [261315-xonix.json](./261315-xonix.json) |
 | Xonix | 304330 | [304330-xonix.json](./304330-xonix.json) |
