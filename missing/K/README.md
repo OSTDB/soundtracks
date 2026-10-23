@@ -1095,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazakh ' Jack | 144941 | [144941-kazakh-jack.json](./144941-kazakh-jack.json) |
 | Kaze Kiri: Ninja Action | 37612 | [37612-kaze-kiri-ninja-action.json](./37612-kaze-kiri-ninja-action.json) |
 | Kaze no Keishousha | 408763 | [408763-kaze-no-keishousha.json](./408763-kaze-no-keishousha.json) |
+| Kaze no Notam | 71359 | [71359-kaze-no-notam.json](./71359-kaze-no-notam.json) |
 | Kaze no Oka Kouen nite | 139117 | [139117-kaze-no-oka-kouen-nite.json](./139117-kaze-no-oka-kouen-nite.json) |
 | Kaze no Satsui: It's a Long Way Round | 221031 | [221031-kaze-no-satsui-its-a-long-way-round.json](./221031-kaze-no-satsui-its-a-long-way-round.json) |
 | Kaze no Tansakusha 2: Shadow Kingdom | 270633 | [270633-kaze-no-tansakusha-2-shadow-kingdom.json](./270633-kaze-no-tansakusha-2-shadow-kingdom.json) |
@@ -5039,5 +5040,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyuukyoku Tiger Heli: Toaplan Arcade Garage | 158967 | [158967-kyuukyoku-tiger-heli-toaplan-arcade-garage.json](./158967-kyuukyoku-tiger-heli-toaplan-arcade-garage.json) |
 | Kyuukyoku Tiger II Plus | 66146 | [66146-kyuukyoku-tiger-ii-plus.json](./66146-kyuukyoku-tiger-ii-plus.json) |
 | Kyuusei Senjutsu Niyoru Heisei Kaiun Koyomi | 268510 | [268510-kyuusei-senjutsu-niyoru-heisei-kaiun-koyomi.json](./268510-kyuusei-senjutsu-niyoru-heisei-kaiun-koyomi.json) |
+| Kyuutenkai: Fantasic Pinball | 71332 | [71332-kyuutenkai-fantasic-pinball.json](./71332-kyuutenkai-fantasic-pinball.json) |
 | Kyvir: Rebirth | 144996 | [144996-kyvir-rebirth.json](./144996-kyvir-rebirth.json) |
 | Kyvos | 370693 | [370693-kyvos.json](./370693-kyvos.json) |
