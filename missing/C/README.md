@@ -1536,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capture Corps: Archipelago | 217867 | [217867-capture-corps-archipelago.json](./217867-capture-corps-archipelago.json) |
 | Capture Creatures | 195252 | [195252-capture-creatures.json](./195252-capture-creatures.json) |
 | Capture the Flag | 23901 | [23901-capture-the-flag.json](./23901-capture-the-flag.json) |
+| Capture the Flag | 73612 | [73612-capture-the-flag.json](./73612-capture-the-flag.json) |
 | Capture the Flag 1 | 173192 | [173192-capture-the-flag-1.json](./173192-capture-the-flag-1.json) |
 | Capture the Intelligence | 306725 | [306725-capture-the-intelligence.json](./306725-capture-the-intelligence.json) |
 | Capture the Pixel | 176188 | [176188-capture-the-pixel.json](./176188-capture-the-pixel.json) |
@@ -4398,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champ Against Chumps Upgrade Edition | 97176 | [97176-champ-against-chumps-upgrade-edition.json](./97176-champ-against-chumps-upgrade-edition.json) |
 | Champ Asterocks | 94689 | [94689-champ-asterocks.json](./94689-champ-asterocks.json) |
 | Champ at Dawn | 231349 | [231349-champ-at-dawn.json](./231349-champ-at-dawn.json) |
+| Champ Galaxia | 73578 | [73578-champ-galaxia.json](./73578-champ-galaxia.json) |
 | Champ Invaders | 94248 | [94248-champ-invaders.json](./94248-champ-invaders.json) |
 | Champ Kong | 94576 | [94576-champ-kong.json](./94576-champ-kong.json) |
 | Champ Man 15 | 60223 | [60223-champ-man-15.json](./60223-champ-man-15.json) |
@@ -12825,6 +12827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash-San | 238482 | [238482-crash-san.json](./238482-crash-san.json) |
 | Crash: Mind Over Mutant | 1191 | [1191-crash-mind-over-mutant.json](./1191-crash-mind-over-mutant.json) |
 | Crash: Mind Over Mutant | 210229 | [210229-crash-mind-over-mutant.json](./210229-crash-mind-over-mutant.json) |
+| Crash! Powertape October 1991 | 73614 | [73614-crash-powertape-october-1991.json](./73614-crash-powertape-october-1991.json) |
 | Crash'em Derby | 139207 | [139207-crashem-derby.json](./139207-crashem-derby.json) |
 | Crashawk | 336162 | [336162-crashawk.json](./336162-crashawk.json) |
 | Crashbots | 109627 | [109627-crashbots.json](./109627-crashbots.json) |
@@ -13004,6 +13007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken X | 78882 | [78882-crazy-chicken-x.json](./78882-crazy-chicken-x.json) |
 | Crazy Chicken Xtreme | 198390 | [198390-crazy-chicken-xtreme.json](./198390-crazy-chicken-xtreme.json) |
 | Crazy Chicken: Director's Cut | 83234 | [83234-crazy-chicken-directors-cut.json](./83234-crazy-chicken-directors-cut.json) |
+| Crazy Chicken: Heart of Tibet | 73582 | [73582-crazy-chicken-heart-of-tibet.json](./73582-crazy-chicken-heart-of-tibet.json) |
 | Crazy Chicken: Pirates | 23673 | [23673-crazy-chicken-pirates.json](./23673-crazy-chicken-pirates.json) |
 | Crazy Chicken: Pirates | 282572 | [282572-crazy-chicken-pirates.json](./282572-crazy-chicken-pirates.json) |
 | Crazy Chicken: Remake | 282453 | [282453-crazy-chicken-remake.json](./282453-crazy-chicken-remake.json) |
@@ -16109,6 +16113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybernated | 313681 | [313681-cybernated.json](./313681-cybernated.json) |
 | CyberNet Duel | 258525 | [258525-cybernet-duel.json](./258525-cybernet-duel.json) |
 | Cybernetic Fault | 161369 | [161369-cybernetic-fault.json](./161369-cybernetic-fault.json) |
+| Cybernetic Hi-School | 73628 | [73628-cybernetic-hi-school.json](./73628-cybernetic-hi-school.json) |
 | Cybernetic Hi-School Part 2: Highway Buster | 70080 | [70080-cybernetic-hi-school-part-2-highway-buster.json](./70080-cybernetic-hi-school-part-2-highway-buster.json) |
 | Cybernetic Seduction: Season 1 | 384890 | [384890-cybernetic-seduction-season-1.json](./384890-cybernetic-seduction-season-1.json) |
 | Cybernetica: fallen city | 164253 | [164253-cybernetica-fallen-city.json](./164253-cybernetica-fallen-city.json) |
@@ -16226,6 +16231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberWhiskey: Guy's Room | 174637 | [174637-cyberwhiskey-guys-room.json](./174637-cyberwhiskey-guys-room.json) |
 | Cyberwinter | 158194 | [158194-cyberwinter.json](./158194-cyberwinter.json) |
 | Cyberworld Online | 221376 | [221376-cyberworld-online.json](./221376-cyberworld-online.json) |
+| Cyberworm | 73606 | [73606-cyberworm.json](./73606-cyberworm.json) |
 | Cyborg 009 | 45871 | [45871-cyborg-009.json](./45871-cyborg-009.json) |
 | Cyborg 009 | 84111 | [84111-cyborg-009.json](./84111-cyborg-009.json) |
 | Cyborg City | 339359 | [339359-cyborg-city.json](./339359-cyborg-city.json) |
