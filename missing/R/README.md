@@ -5042,6 +5042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the Fallen | 123600 | [123600-revenge-of-the-fallen.json](./123600-revenge-of-the-fallen.json) |
 | Revenge of the Firstborn | 378336 | [378336-revenge-of-the-firstborn.json](./378336-revenge-of-the-firstborn.json) |
 | Revenge of the Gamer | 372685 | [372685-revenge-of-the-gamer.json](./372685-revenge-of-the-gamer.json) |
+| Revenge of the Headless | 95154 | [95154-revenge-of-the-headless.json](./95154-revenge-of-the-headless.json) |
 | Revenge of the Kid | 101709 | [101709-revenge-of-the-kid.json](./101709-revenge-of-the-kid.json) |
 | Revenge of the Killer Octopus | 197100 | [197100-revenge-of-the-killer-octopus.json](./197100-revenge-of-the-killer-octopus.json) |
 | Revenge of the King | 271409 | [271409-revenge-of-the-king.json](./271409-revenge-of-the-king.json) |
@@ -6216,6 +6217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Robots | 368887 | [368887-rise-of-the-robots.json](./368887-rise-of-the-robots.json) |
 | Rise of the Robots X | 191127 | [191127-rise-of-the-robots-x.json](./191127-rise-of-the-robots-x.json) |
 | Rise of the Ronin: Digital Deluxe Edition | 284585 | [284585-rise-of-the-ronin-digital-deluxe-edition.json](./284585-rise-of-the-ronin-digital-deluxe-edition.json) |
+| Rise of the Savage | 95274 | [95274-rise-of-the-savage.json](./95274-rise-of-the-savage.json) |
 | Rise of the Spellbaker | 415293 | [415293-rise-of-the-spellbaker.json](./415293-rise-of-the-spellbaker.json) |
 | Rise of the Successor | 384168 | [384168-rise-of-the-successor.json](./384168-rise-of-the-successor.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Bumper Bros | 146287 | [146287-rise-of-the-teenage-mutant-ninja-turtles-bumper-bros.json](./146287-rise-of-the-teenage-mutant-ninja-turtles-bumper-bros.json) |
@@ -7197,6 +7199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots 2 Unknown World | 105369 | [105369-robots-2-unknown-world.json](./105369-robots-2-unknown-world.json) |
 | Robots and Planets | 347361 | [347361-robots-and-planets.json](./347361-robots-and-planets.json) |
 | Robots at Midnight | 276180 | [276180-robots-at-midnight.json](./276180-robots-at-midnight.json) |
+| Robots Attack on Vapeland | 95282 | [95282-robots-attack-on-vapeland.json](./95282-robots-attack-on-vapeland.json) |
 | Robots Coop | 174736 | [174736-robots-coop.json](./174736-robots-coop.json) |
 | Robots Go Home! | 116452 | [116452-robots-go-home.json](./116452-robots-go-home.json) |
 | Robots in the Wild | 32086 | [32086-robots-in-the-wild.json](./32086-robots-in-the-wild.json) |
@@ -9927,6 +9930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Rogue | 139371 | [139371-running-rogue.json](./139371-running-rogue.json) |
 | Running Shadow | 17985 | [17985-running-shadow.json](./17985-running-shadow.json) |
 | Running Sheep | 25480 | [25480-running-sheep.json](./25480-running-sheep.json) |
+| Running Sheep: Tiny Worlds | 95252 | [95252-running-sheep-tiny-worlds.json](./95252-running-sheep-tiny-worlds.json) |
 | Running Strike | 247174 | [247174-running-strike.json](./247174-running-strike.json) |
 | Running Tadpoles | 113013 | [113013-running-tadpoles.json](./113013-running-tadpoles.json) |
 | Running Through Russia 2 | 104074 | [104074-running-through-russia-2.json](./104074-running-through-russia-2.json) |
@@ -10115,6 +10119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Village Simulator 2 | 387745 | [387745-russian-village-simulator-2.json](./387745-russian-village-simulator-2.json) |
 | Russian VR Coasters | 32005 | [32005-russian-vr-coasters.json](./32005-russian-vr-coasters.json) |
 | Russian Warship | 267444 | [267444-russian-warship.json](./267444-russian-warship.json) |
+| Russian World | 95284 | [95284-russian-world.json](./95284-russian-world.json) |
 | Russian World Cub Battlegrounds | 334807 | [334807-russian-world-cub-battlegrounds.json](./334807-russian-world-cub-battlegrounds.json) |
 | RussianPunk 2007 | 157070 | [157070-russianpunk-2007.json](./157070-russianpunk-2007.json) |
 | Russki Duck | 282102 | [282102-russki-duck.json](./282102-russki-duck.json) |
