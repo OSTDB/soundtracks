@@ -10305,6 +10305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ministry of Sound: Club Manager | 57933 | [57933-ministry-of-sound-club-manager.json](./57933-ministry-of-sound-club-manager.json) |
 | Ministry of Stoic | 373310 | [373310-ministry-of-stoic.json](./373310-ministry-of-stoic.json) |
 | Ministry of Truth: False Memory | 346204 | [346204-ministry-of-truth-false-memory.json](./346204-ministry-of-truth-false-memory.json) |
+| Minisweeper | 91195 | [91195-minisweeper.json](./91195-minisweeper.json) |
 | MiniTale | 341288 | [341288-minitale.json](./341288-minitale.json) |
 | MiniTank: Desert Strike | 336973 | [336973-minitank-desert-strike.json](./336973-minitank-desert-strike.json) |
 | Minitechno | 278529 | [278529-minitechno.json](./278529-minitechno.json) |
@@ -14961,6 +14962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiple Territory War | 419202 | [419202-multiple-territory-war.json](./419202-multiple-territory-war.json) |
 | MultipleGamePack | 135544 | [135544-multiplegamepack.json](./135544-multiplegamepack.json) |
 | Multiplication Dragons | 103545 | [103545-multiplication-dragons.json](./103545-multiplication-dragons.json) |
+| Multiplication Flash Cards Games Fun Math Problems | 91228 | [91228-multiplication-flash-cards-games-fun-math-problems.json](./91228-multiplication-flash-cards-games-fun-math-problems.json) |
 | Multiplication Mayhem | 277280 | [277280-multiplication-mayhem.json](./277280-multiplication-mayhem.json) |
 | Multiplications Asteroids: Math in Space Learning Series | 89518 | [89518-multiplications-asteroids-math-in-space-learning-series.json](./89518-multiplications-asteroids-math-in-space-learning-series.json) |
 | Multiply Factory | 212116 | [212116-multiply-factory.json](./212116-multiply-factory.json) |
@@ -15436,6 +15438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musou Tourou | 59328 | [59328-musou-tourou.json](./59328-musou-tourou.json) |
 | Musou Yuugi | 167126 | [167126-musou-yuugi.json](./167126-musou-yuugi.json) |
 | MuSquare | 61315 | [61315-musquare.json](./61315-musquare.json) |
+| Mussila | 91224 | [91224-mussila.json](./91224-mussila.json) |
 | Mussoumano 3D Run | 223530 | [223530-mussoumano-3d-run.json](./223530-mussoumano-3d-run.json) |
 | Mussoumano: Ataque dos Haters | 96190 | [96190-mussoumano-ataque-dos-haters.json](./96190-mussoumano-ataque-dos-haters.json) |
 | Mussoumano: Saving Latifas | 223529 | [223529-mussoumano-saving-latifas.json](./223529-mussoumano-saving-latifas.json) |
@@ -16037,6 +16040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Girlfriend's Special Place | 240481 | [240481-my-girlfriends-special-place.json](./240481-my-girlfriends-special-place.json) |
 | My Gnome Wife Left Me | 278459 | [278459-my-gnome-wife-left-me.json](./278459-my-gnome-wife-left-me.json) |
 | My Goddess of Love | 114406 | [114406-my-goddess-of-love.json](./114406-my-goddess-of-love.json) |
+| My Golf 3D | 91166 | [91166-my-golf-3d.json](./91166-my-golf-3d.json) |
 | My Golf Game featuring Ernie Els | 206772 | [206772-my-golf-game-featuring-ernie-els.json](./206772-my-golf-game-featuring-ernie-els.json) |
 | My Goth Girl | 400504 | [400504-my-goth-girl.json](./400504-my-goth-girl.json) |
 | My Grandparents' Christmas Mystery | 236378 | [236378-my-grandparents-christmas-mystery.json](./236378-my-grandparents-christmas-mystery.json) |
