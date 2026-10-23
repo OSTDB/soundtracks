@@ -2624,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urawaza Mahjong: Korette Tenwatte Yatsukai | 363966 | [363966-urawaza-mahjong-korette-tenwatte-yatsukai.json](./363966-urawaza-mahjong-korette-tenwatte-yatsukai.json) |
 | URB: Last Pixels Battle | 100845 | [100845-urb-last-pixels-battle.json](./100845-urb-last-pixels-battle.json) |
 | Urban | 312570 | [312570-urban.json](./312570-urban.json) |
+| Urban | 89643 | [89643-urban.json](./89643-urban.json) |
 | Urban Ascend | 390262 | [390262-urban-ascend.json](./390262-urban-ascend.json) |
 | Urban Assault | 50131 | [50131-urban-assault.json](./50131-urban-assault.json) |
 | Urban Assault: Metropolis Dawn | 237844 | [237844-urban-assault-metropolis-dawn.json](./237844-urban-assault-metropolis-dawn.json) |
