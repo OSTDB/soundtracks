@@ -3710,6 +3710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equan the Watchful Guardian | 251997 | [251997-equan-the-watchful-guardian.json](./251997-equan-the-watchful-guardian.json) |
 | Equestria | 128563 | [128563-equestria.json](./128563-equestria.json) |
 | EquestriaBound: Return of the Nightmare | 205642 | [205642-equestriabound-return-of-the-nightmare.json](./205642-equestriabound-return-of-the-nightmare.json) |
+| Equestrian Showcase | 45081 | [45081-equestrian-showcase.json](./45081-equestrian-showcase.json) |
 | Equestrian Simulator: Saddle Royale | 137576 | [137576-equestrian-simulator-saddle-royale.json](./137576-equestrian-simulator-saddle-royale.json) |
 | Equestrian the Game | 210575 | [210575-equestrian-the-game.json](./210575-equestrian-the-game.json) |
 | Equestrian Training | 155464 | [155464-equestrian-training.json](./155464-equestrian-training.json) |
