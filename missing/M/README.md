@@ -1834,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majestic Hero Pin | 205026 | [205026-majestic-hero-pin.json](./205026-majestic-hero-pin.json) |
 | Majestic Majolical | 227709 | [227709-majestic-majolical.json](./227709-majestic-majolical.json) |
 | Majestic Majolical vol. 1 | 240523 | [240523-majestic-majolical-vol-1.json](./240523-majestic-majolical-vol-1.json) |
+| Majestic Prince Shooting Hero | 62058 | [62058-majestic-prince-shooting-hero.json](./62058-majestic-prince-shooting-hero.json) |
 | Majestic Trials | 59792 | [59792-majestic-trials.json](./59792-majestic-trials.json) |
 | Majestic-12 | 94035 | [94035-majestic-12.json](./94035-majestic-12.json) |
 | Majestic: Special Edition | 137479 | [137479-majestic-special-edition.json](./137479-majestic-special-edition.json) |
@@ -5545,6 +5546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot DS Kuwagata | 229104 | [229104-medarot-ds-kuwagata.json](./229104-medarot-ds-kuwagata.json) |
 | Medarot DS: Kabuto Version | 67687 | [67687-medarot-ds-kabuto-version.json](./67687-medarot-ds-kabuto-version.json) |
 | Medarot DS: Kuwagata Version | 204249 | [204249-medarot-ds-kuwagata-version.json](./204249-medarot-ds-kuwagata-version.json) |
+| Medarot Dual: Kabuto Version | 61977 | [61977-medarot-dual-kabuto-version.json](./61977-medarot-dual-kabuto-version.json) |
 | Medarot G: Kabuto Version | 188653 | [188653-medarot-g-kabuto-version.json](./188653-medarot-g-kabuto-version.json) |
 | Medarot G: Kuwagata Version | 79757 | [79757-medarot-g-kuwagata-version.json](./79757-medarot-g-kuwagata-version.json) |
 | Medarot Girls Mission | 56992 | [56992-medarot-girls-mission.json](./56992-medarot-girls-mission.json) |
