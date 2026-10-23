@@ -9137,6 +9137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huge Insect | 64901 | [64901-huge-insect.json](./64901-huge-insect.json) |
 | Huge Jaws | 219665 | [219665-huge-jaws.json](./219665-huge-jaws.json) |
 | Huggernaut | 111903 | [111903-huggernaut.json](./111903-huggernaut.json) |
+| Huggly Saves the Turtles: Thinking Adventures | 70226 | [70226-huggly-saves-the-turtles-thinking-adventures.json](./70226-huggly-saves-the-turtles-thinking-adventures.json) |
 | Huggy & Friends | 372483 | [372483-huggy-and-friends.json](./372483-huggy-and-friends.json) |
 | Huggy Skate | 333705 | [333705-huggy-skate.json](./333705-huggy-skate.json) |
 | Huggy: Love and Rescue | 276861 | [276861-huggy-love-and-rescue.json](./276861-huggy-love-and-rescue.json) |
