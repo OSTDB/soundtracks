@@ -1376,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Outbreak: Survival in Ancient Egyptian | 262326 | [262326-zombie-outbreak-survival-in-ancient-egyptian.json](./262326-zombie-outbreak-survival-in-ancient-egyptian.json) |
 | Zombie Outbreak: Undead Survival | 354949 | [354949-zombie-outbreak-undead-survival.json](./354949-zombie-outbreak-undead-survival.json) |
 | Zombie Pandemia 2D | 324755 | [324755-zombie-pandemia-2d.json](./324755-zombie-pandemia-2d.json) |
+| Zombie Panic in Wonderland | 50980 | [50980-zombie-panic-in-wonderland.json](./50980-zombie-panic-in-wonderland.json) |
 | Zombie Panic in Wonderland Plus | 22320 | [22320-zombie-panic-in-wonderland-plus.json](./22320-zombie-panic-in-wonderland-plus.json) |
 | Zombie Panic in Zombieland Plus | 120219 | [120219-zombie-panic-in-zombieland-plus.json](./120219-zombie-panic-in-zombieland-plus.json) |
 | Zombie Panic! | 67706 | [67706-zombie-panic.json](./67706-zombie-panic.json) |
