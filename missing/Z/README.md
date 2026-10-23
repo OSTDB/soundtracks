@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaleste | 329972 | [329972-zaleste.json](./329972-zaleste.json) |
 | Zalozhnik | 367007 | [367007-zalozhnik.json](./367007-zalozhnik.json) |
 | Zamakan | 253483 | [253483-zamakan.json](./253483-zamakan.json) |
+| Zamba y San Martín | 83338 | [83338-zamba-y-san-martin.json](./83338-zamba-y-san-martin.json) |
 | Zamboni Challenge | 93814 | [93814-zamboni-challenge.json](./93814-zamboni-challenge.json) |
 | ZampanioSimulator | 260135 | [260135-zampaniosimulator.json](./260135-zampaniosimulator.json) |
 | Zamzara | 74429 | [74429-zamzara.json](./74429-zamzara.json) |
@@ -711,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Hour Reforged | 421840 | [421840-zero-hour-reforged.json](./421840-zero-hour-reforged.json) |
 | Zero Idle | 143604 | [143604-zero-idle.json](./143604-zero-idle.json) |
 | Zero Jikan he... | 329793 | [329793-zero-jikan-he.json](./329793-zero-jikan-he.json) |
+| Zero Killed | 83346 | [83346-zero-killed.json](./83346-zero-killed.json) |
 | Zero King | 293912 | [293912-zero-king.json](./293912-zero-king.json) |
 | Zero Lilium Bloom | 245871 | [245871-zero-lilium-bloom.json](./245871-zero-lilium-bloom.json) |
 | Zero Losses | 204544 | [204544-zero-losses.json](./204544-zero-losses.json) |
@@ -1901,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ztarlings | 104423 | [104423-ztarlings.json](./104423-ztarlings.json) |
 | ZTetris | 225752 | [225752-ztetris.json](./225752-ztetris.json) |
 | Ztime Story | 227162 | [227162-ztime-story.json](./227162-ztime-story.json) |
+| Zub | 83382 | [83382-zub.json](./83382-zub.json) |
 | Zubash | 262891 | [262891-zubash.json](./262891-zubash.json) |
 | Zubo | 21472 | [21472-zubo.json](./21472-zubo.json) |
 | Zueirama | 110641 | [110641-zueirama.json](./110641-zueirama.json) |
