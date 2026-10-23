@@ -1348,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Office Politics | 34166 | [34166-zombie-office-politics.json](./34166-zombie-office-politics.json) |
 | Zombie Outbreak 1942 | 344485 | [344485-zombie-outbreak-1942.json](./344485-zombie-outbreak-1942.json) |
 | Zombie Outbreak 1943 | 362390 | [362390-zombie-outbreak-1943.json](./362390-zombie-outbreak-1943.json) |
+| Zombie Outbreak Simulator Pro | 96563 | [96563-zombie-outbreak-simulator-pro.json](./96563-zombie-outbreak-simulator-pro.json) |
 | Zombie Outbreak: Survival in Ancient Egyptian | 262326 | [262326-zombie-outbreak-survival-in-ancient-egyptian.json](./262326-zombie-outbreak-survival-in-ancient-egyptian.json) |
 | Zombie Outbreak: Undead Survival | 354949 | [354949-zombie-outbreak-undead-survival.json](./354949-zombie-outbreak-undead-survival.json) |
 | Zombie Pandemia 2D | 324755 | [324755-zombie-pandemia-2d.json](./324755-zombie-pandemia-2d.json) |
