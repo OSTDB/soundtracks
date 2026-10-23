@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pan'orama | 211935 | [211935-panorama.json](./211935-panorama.json) |
 | Pan's Permia | 346203 | [346203-pans-permia.json](./346203-pans-permia.json) |
 | Pana der Hejhog | 270217 | [270217-pana-der-hejhog.json](./270217-pana-der-hejhog.json) |
+| Panacea: Last Will | 81910 | [81910-panacea-last-will.json](./81910-panacea-last-will.json) |
 | Panacea: Rebirth | 219097 | [219097-panacea-rebirth.json](./219097-panacea-rebirth.json) |
 | Panacle: Back to Wild | 190177 | [190177-panacle-back-to-wild.json](./190177-panacle-back-to-wild.json) |
 | Panama Canal | 156143 | [156143-panama-canal.json](./156143-panama-canal.json) |
@@ -10795,6 +10796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerHits: BattleTech | 69864 | [69864-powerhits-battletech.json](./69864-powerhits-battletech.json) |
 | Powerjackers: Superhero Battle Royale | 204941 | [204941-powerjackers-superhero-battle-royale.json](./204941-powerjackers-superhero-battle-royale.json) |
 | Powerless | 111560 | [111560-powerless.json](./111560-powerless.json) |
+| Powerless | 81928 | [81928-powerless.json](./81928-powerless.json) |
 | Powerline.io | 191257 | [191257-powerline-io.json](./191257-powerline-io.json) |
 | Powerlust | 187787 | [187787-powerlust.json](./187787-powerlust.json) |
 | Powernaut 2 | 172451 | [172451-powernaut-2.json](./172451-powernaut-2.json) |
@@ -11659,6 +11661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Ball: Full Blown - Solo Reflection! | 167215 | [167215-prison-ball-full-blown-solo-reflection.json](./167215-prison-ball-full-blown-solo-reflection.json) |
 | Prison Ball: Full Blown - Toxik Karess | 167222 | [167222-prison-ball-full-blown-toxik-karess.json](./167222-prison-ball-full-blown-toxik-karess.json) |
 | Prison Ball: Full Blown - Vast Shadows | 167217 | [167217-prison-ball-full-blown-vast-shadows.json](./167217-prison-ball-full-blown-vast-shadows.json) |
+| Prison Bomber | 81895 | [81895-prison-bomber.json](./81895-prison-bomber.json) |
 | Prison Boss VR | 55474 | [55474-prison-boss-vr.json](./55474-prison-boss-vr.json) |
 | Prison Boss: Prohibition - Plucked Pack | 362488 | [362488-prison-boss-prohibition-plucked-pack.json](./362488-prison-boss-prohibition-plucked-pack.json) |
 | Prison Boss: Prohibition - Stitchin' Rich | 369385 | [369385-prison-boss-prohibition-stitchin-rich.json](./369385-prison-boss-prohibition-stitchin-rich.json) |
