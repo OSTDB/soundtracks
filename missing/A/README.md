@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Flutter of Silicon Wings | 185380 | [185380-a-flutter-of-silicon-wings.json](./185380-a-flutter-of-silicon-wings.json) |
 | A Fly in the Array | 387613 | [387613-a-fly-in-the-array.json](./387613-a-fly-in-the-array.json) |
 | A Fool's Art Gallery | 268144 | [268144-a-fools-art-gallery.json](./268144-a-fools-art-gallery.json) |
+| A Force More Powerful: The Game of Nonviolent Strategy | 71920 | [71920-a-force-more-powerful-the-game-of-nonviolent-strategy.json](./71920-a-force-more-powerful-the-game-of-nonviolent-strategy.json) |
 | A Foreign Land of Us | 410436 | [410436-a-foreign-land-of-us.json](./410436-a-foreign-land-of-us.json) |
 | A Foreign World | 223343 | [223343-a-foreign-world.json](./223343-a-foreign-world.json) |
 | A Forest | 387527 | [387527-a-forest.json](./387527-a-forest.json) |
@@ -1181,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-2481 | 263580 | [263580-a-2481.json](./263580-a-2481.json) |
 | A-2481 Remastered: Death Vault | 394808 | [394808-a-2481-remastered-death-vault.json](./394808-a-2481-remastered-death-vault.json) |
 | A-7 | 98271 | [98271-a-7.json](./98271-a-7.json) |
+| A-GA: Gekidou no Wakusei | 71939 | [71939-a-ga-gekidou-no-wakusei.json](./71939-a-ga-gekidou-no-wakusei.json) |
 | A-Gents | 33071 | [33071-a-gents.json](./33071-a-gents.json) |
 | A-Girl: New Character B | 283882 | [283882-a-girl-new-character-b.json](./283882-a-girl-new-character-b.json) |
 | A-Kei Otaku | 113587 | [113587-a-kei-otaku.json](./113587-a-kei-otaku.json) |
@@ -2213,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Adventure | 341831 | [341831-action-adventure.json](./341831-action-adventure.json) |
 | Action Adventure Bundle | 125128 | [125128-action-adventure-bundle.json](./125128-action-adventure-bundle.json) |
 | Action Alien : Prelude | 81907 | [81907-action-alien-prelude.json](./81907-action-alien-prelude.json) |
+| Action Ball | 71933 | [71933-action-ball.json](./71933-action-ball.json) |
 | Action Ball Deluxe | 177040 | [177040-action-ball-deluxe.json](./177040-action-ball-deluxe.json) |
 | Action Bass | 43937 | [43937-action-bass.json](./43937-action-bass.json) |
 | Action Biker | 13671 | [13671-action-biker.json](./13671-action-biker.json) |
@@ -4609,6 +4612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akui | 184584 | [184584-akui.json](./184584-akui.json) |
 | Akui: The Insane Cultists | 261666 | [261666-akui-the-insane-cultists.json](./261666-akui-the-insane-cultists.json) |
 | Akuji the Heartless | 4145 | [4145-akuji-the-heartless.json](./4145-akuji-the-heartless.json) |
+| Akujo Densetsu | 71902 | [71902-akujo-densetsu.json](./71902-akujo-densetsu.json) |
 | Akuma | 201835 | [201835-akuma.json](./201835-akuma.json) |
 | Akuma no Shinpan | 307961 | [307961-akuma-no-shinpan.json](./307961-akuma-no-shinpan.json) |
 | Akuma Ouji to Ayatsuri Ningyou | 242068 | [242068-akuma-ouji-to-ayatsuri-ningyou.json](./242068-akuma-ouji-to-ayatsuri-ningyou.json) |
@@ -6554,6 +6558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America Rising 2: Legacy of the Enclave | 299131 | [299131-america-rising-2-legacy-of-the-enclave.json](./299131-america-rising-2-legacy-of-the-enclave.json) |
 | America Wild Hunting | 147764 | [147764-america-wild-hunting.json](./147764-america-wild-hunting.json) |
 | America: Expansion Pack | 166693 | [166693-america-expansion-pack.json](./166693-america-expansion-pack.json) |
+| America: No Peace Beyond the Line | 71926 | [71926-america-no-peace-beyond-the-line.json](./71926-america-no-peace-beyond-the-line.json) |
 | America's Army | 597 | [597-americas-army.json](./597-americas-army.json) |
 | America's Army 2 | 15820 | [15820-americas-army-2.json](./15820-americas-army-2.json) |
 | America's Army 3 | 15798 | [15798-americas-army-3.json](./15798-americas-army-3.json) |
