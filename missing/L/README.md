@@ -3549,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Strange: True Colors - Alex Outfit Pack | 312108 | [312108-life-is-strange-true-colors-alex-outfit-pack.json](./312108-life-is-strange-true-colors-alex-outfit-pack.json) |
 | Life is Strange: Wavelengths | 144873 | [144873-life-is-strange-wavelengths.json](./144873-life-is-strange-wavelengths.json) |
 | Life Jigsaw Puzzles | 106913 | [106913-life-jigsaw-puzzles.json](./106913-life-jigsaw-puzzles.json) |
+| Life Lessons | 97189 | [97189-life-lessons.json](./97189-life-lessons.json) |
 | Life Makeover | 212426 | [212426-life-makeover.json](./212426-life-makeover.json) |
 | Life Museum | 265338 | [265338-life-museum.json](./265338-life-museum.json) |
 | Life Not Supported | 210704 | [210704-life-not-supported.json](./210704-life-not-supported.json) |
