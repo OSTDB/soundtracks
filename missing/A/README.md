@@ -5960,6 +5960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha King | 118820 | [118820-alpha-king.json](./118820-alpha-king.json) |
 | Alpha League | 283905 | [283905-alpha-league.json](./283905-alpha-league.json) |
 | Alpha League HD | 337819 | [337819-alpha-league-hd.json](./337819-alpha-league-hd.json) |
+| Alpha Locus VR | 75633 | [75633-alpha-locus-vr.json](./75633-alpha-locus-vr.json) |
 | Alpha Lyrae Discovery | 120958 | [120958-alpha-lyrae-discovery.json](./120958-alpha-lyrae-discovery.json) |
 | Alpha Man | 100221 | [100221-alpha-man.json](./100221-alpha-man.json) |
 | Alpha Mission | 273028 | [273028-alpha-mission.json](./273028-alpha-mission.json) |
