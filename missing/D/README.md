@@ -8398,6 +8398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's The Little Mermaid | 19900 | [19900-disneys-the-little-mermaid.json](./19900-disneys-the-little-mermaid.json) |
 | Disney's The Little Mermaid | 217836 | [217836-disneys-the-little-mermaid.json](./217836-disneys-the-little-mermaid.json) |
 | Disney's The Little Mermaid | 71987 | [71987-disneys-the-little-mermaid.json](./71987-disneys-the-little-mermaid.json) |
+| Disney's The Little Mermaid II | 45043 | [45043-disneys-the-little-mermaid-ii.json](./45043-disneys-the-little-mermaid-ii.json) |
 | Disney's The Little Mermaid II: Pinball Frenzy | 49919 | [49919-disneys-the-little-mermaid-ii-pinball-frenzy.json](./49919-disneys-the-little-mermaid-ii-pinball-frenzy.json) |
 | Disney's The Little Mermaid II: Return to the Sea | 314908 | [314908-disneys-the-little-mermaid-ii-return-to-the-sea.json](./314908-disneys-the-little-mermaid-ii-return-to-the-sea.json) |
 | Disney's The Little Mermaid: Ariel's Majestic Journey | 258692 | [258692-disneys-the-little-mermaid-ariels-majestic-journey.json](./258692-disneys-the-little-mermaid-ariels-majestic-journey.json) |
