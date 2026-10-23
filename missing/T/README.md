@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Flip Simulator | 306415 | [306415-table-flip-simulator.json](./306415-table-flip-simulator.json) |
 | Table Football | 131398 | [131398-table-football.json](./131398-table-football.json) |
 | Table Football | 85421 | [85421-table-football.json](./85421-table-football.json) |
+| Table Football | 88895 | [88895-table-football.json](./88895-table-football.json) |
 | Table Football Pro | 28873 | [28873-table-football-pro.json](./28873-table-football-pro.json) |
 | Table Game Daishuugo!! | 56439 | [56439-table-game-daishuugo.json](./56439-table-game-daishuugo.json) |
 | Table Game Daishuugou!! Shogi Mahjong Hanafuda | 37800 | [37800-table-game-daishuugou-shogi-mahjong-hanafuda.json](./37800-table-game-daishuugou-shogi-mahjong-hanafuda.json) |
@@ -2117,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasty Ninja: Vegetable Invasion | 181769 | [181769-tasty-ninja-vegetable-invasion.json](./181769-tasty-ninja-vegetable-invasion.json) |
 | Tasty Planet | 73305 | [73305-tasty-planet.json](./73305-tasty-planet.json) |
 | Tasty Planet Forever | 110538 | [110538-tasty-planet-forever.json](./110538-tasty-planet-forever.json) |
+| Tasty Planet HD | 88976 | [88976-tasty-planet-hd.json](./88976-tasty-planet-hd.json) |
 | Tasty Planet: Back for Seconds | 33469 | [33469-tasty-planet-back-for-seconds.json](./33469-tasty-planet-back-for-seconds.json) |
 | Tasty Planet: Final Bite | 384906 | [384906-tasty-planet-final-bite.json](./384906-tasty-planet-final-bite.json) |
 | Tasty Ramen | 176503 | [176503-tasty-ramen.json](./176503-tasty-ramen.json) |
@@ -7357,6 +7359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fidelity Chessmaster 2100 | 15875 | [15875-the-fidelity-chessmaster-2100.json](./15875-the-fidelity-chessmaster-2100.json) |
 | The Fidgetts | 49000 | [49000-the-fidgetts.json](./49000-the-fidgetts.json) |
 | The Field Trip Murders | 231460 | [231460-the-field-trip-murders.json](./231460-the-field-trip-murders.json) |
+| The Fielder's Choice | 89005 | [89005-the-fielders-choice.json](./89005-the-fielders-choice.json) |
 | The Fielder's Choice | 89409 | [89409-the-fielders-choice.json](./89409-the-fielders-choice.json) |
 | The Fiend's Tavern | 104077 | [104077-the-fiends-tavern.json](./104077-the-fiends-tavern.json) |
 | The Fierce Livid | 271764 | [271764-the-fierce-livid.json](./271764-the-fierce-livid.json) |
@@ -23687,6 +23690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Welcome to Beryl Part 1 | 343741 | [343741-trap-welcome-to-beryl-part-1.json](./343741-trap-welcome-to-beryl-part-1.json) |
 | Trap Yuri Garden | 289923 | [289923-trap-yuri-garden.json](./289923-trap-yuri-garden.json) |
 | Trap Yuri Tempest | 412443 | [412443-trap-yuri-tempest.json](./412443-trap-yuri-tempest.json) |
+| TrapAdventure 2 | 88857 | [88857-trapadventure-2.json](./88857-trapadventure-2.json) |
 | Trapaze | 376282 | [376282-trapaze.json](./376282-trapaze.json) |
 | TrapBot | 188925 | [188925-trapbot.json](./188925-trapbot.json) |
 | Trapdoors | 204203 | [204203-trapdoors.json](./204203-trapdoors.json) |
@@ -25107,6 +25111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Hentai Puzzle | 163568 | [163568-true-hentai-puzzle.json](./163568-true-hentai-puzzle.json) |
 | True Hentai Puzzle: 666 | 163569 | [163569-true-hentai-puzzle-666.json](./163569-true-hentai-puzzle-666.json) |
 | True Horror | 103674 | [103674-true-horror.json](./103674-true-horror.json) |
+| True Legacy | 88946 | [88946-true-legacy.json](./88946-true-legacy.json) |
 | True Lies | 282484 | [282484-true-lies.json](./282484-true-lies.json) |
 | True Love | 320026 | [320026-true-love.json](./320026-true-love.json) |
 | True Love | 76455 | [76455-true-love.json](./76455-true-love.json) |
@@ -26197,6 +26202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twirl | 333984 | [333984-twirl.json](./333984-twirl.json) |
 | Twirl and Hurl | 397109 | [397109-twirl-and-hurl.json](./397109-twirl-and-hurl.json) |
 | Twirly Treats | 405721 | [405721-twirly-treats.json](./405721-twirly-treats.json) |
+| Twist | 88884 | [88884-twist.json](./88884-twist.json) |
 | Twist & Switch Bundle | 147767 | [147767-twist-and-switch-bundle.json](./147767-twist-and-switch-bundle.json) |
 | Twist & Turn | 255960 | [255960-twist-and-turn.json](./255960-twist-and-turn.json) |
 | Twist 02: Baruklinting | 214627 | [214627-twist-02-baruklinting.json](./214627-twist-02-baruklinting.json) |
