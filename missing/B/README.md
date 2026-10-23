@@ -2787,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Babes: Lightning | 309649 | [309649-battle-babes-lightning.json](./309649-battle-babes-lightning.json) |
 | Battle Babes: Lust, Space & Shadow | 340554 | [340554-battle-babes-lust-space-and-shadow.json](./340554-battle-babes-lust-space-and-shadow.json) |
 | Battle Bakraid | 38541 | [38541-battle-bakraid.json](./38541-battle-bakraid.json) |
+| Battle Ball | 91710 | [91710-battle-ball.json](./91710-battle-ball.json) |
 | Battle Balls | 166160 | [166160-battle-balls.json](./166160-battle-balls.json) |
 | Battle Balls | 80793 | [80793-battle-balls.json](./80793-battle-balls.json) |
 | Battle Bandits | 130100 | [130100-battle-bandits.json](./130100-battle-bandits.json) |
@@ -2898,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for Iwo Jima | 130070 | [130070-battle-for-iwo-jima.json](./130070-battle-for-iwo-jima.json) |
 | Battle For Landriel | 107788 | [107788-battle-for-landriel.json](./107788-battle-for-landriel.json) |
 | Battle For Life | 63801 | [63801-battle-for-life.json](./63801-battle-for-life.json) |
+| Battle for Mars | 91783 | [91783-battle-for-mars.json](./91783-battle-for-mars.json) |
 | Battle for Orion 2 | 30279 | [30279-battle-for-orion-2.json](./30279-battle-for-orion-2.json) |
 | Battle For Presidency | 64653 | [64653-battle-for-presidency.json](./64653-battle-for-presidency.json) |
 | Battle for Rakir | 343296 | [343296-battle-for-rakir.json](./343296-battle-for-rakir.json) |
@@ -2951,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Heroine Crisis | 189972 | [189972-battle-heroine-crisis.json](./189972-battle-heroine-crisis.json) |
 | Battle High 2 | 19093 | [19093-battle-high-2.json](./19093-battle-high-2.json) |
 | Battle High School | 91922 | [91922-battle-high-school.json](./91922-battle-high-school.json) |
+| Battle High: San Bruno | 91792 | [91792-battle-high-san-bruno.json](./91792-battle-high-san-bruno.json) |
 | Battle Hunters Zero | 194167 | [194167-battle-hunters-zero.json](./194167-battle-hunters-zero.json) |
 | Battle In Space | 212470 | [212470-battle-in-space.json](./212470-battle-in-space.json) |
 | Battle in the City | 161623 | [161623-battle-in-the-city.json](./161623-battle-in-the-city.json) |
@@ -6032,6 +6035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biglands: A Game Made By Kids | 17710 | [17710-biglands-a-game-made-by-kids.json](./17710-biglands-a-game-made-by-kids.json) |
 | BigMcGee | 309202 | [309202-bigmcgee.json](./309202-bigmcgee.json) |
 | Bigroom Escape | 151727 | [151727-bigroom-escape.json](./151727-bigroom-escape.json) |
+| Bigtop Barney | 91796 | [91796-bigtop-barney.json](./91796-bigtop-barney.json) |
 | Bigwig Flint | 132674 | [132674-bigwig-flint.json](./132674-bigwig-flint.json) |
 | Bigwigs: 2 Minute Brawl | 100312 | [100312-bigwigs-2-minute-brawl.json](./100312-bigwigs-2-minute-brawl.json) |
 | Biida-Bash | 372471 | [372471-biida-bash.json](./372471-biida-bash.json) |
@@ -6099,6 +6103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikkuriman 2000: Charging Card GB | 228492 | [228492-bikkuriman-2000-charging-card-gb.json](./228492-bikkuriman-2000-charging-card-gb.json) |
 | Bikkuriman 2000: Viva! Pocket Festival! | 43971 | [43971-bikkuriman-2000-viva-pocket-festival.json](./43971-bikkuriman-2000-viva-pocket-festival.json) |
 | Bikkuriman Daijikai | 64287 | [64287-bikkuriman-daijikai.json](./64287-bikkuriman-daijikai.json) |
+| Bikkuriman Kanjuku Haou Sanmi Douran Sensouki | 91782 | [91782-bikkuriman-kanjuku-haou-sanmi-douran-sensouki.json](./91782-bikkuriman-kanjuku-haou-sanmi-douran-sensouki.json) |
 | Bikkuriman Wonder Collection | 303819 | [303819-bikkuriman-wonder-collection.json](./303819-bikkuriman-wonder-collection.json) |
 | Bikkuriman World: Gekitou Sei Senshi | 48544 | [48544-bikkuriman-world-gekitou-sei-senshi.json](./48544-bikkuriman-world-gekitou-sei-senshi.json) |
 | Bikmin 269 DX: Director's Cut | 321833 | [321833-bikmin-269-dx-directors-cut.json](./321833-bikmin-269-dx-directors-cut.json) |
