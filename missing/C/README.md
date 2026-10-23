@@ -1742,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caravan: The Trade Road | 390563 | [390563-caravan-the-trade-road.json](./390563-caravan-the-trade-road.json) |
 | Caravana 2000 | 400367 | [400367-caravana-2000.json](./400367-caravana-2000.json) |
 | Caravaneer 2 | 102034 | [102034-caravaneer-2.json](./102034-caravaneer-2.json) |
+| Caravel: Deadly Rooms of Death | 69705 | [69705-caravel-deadly-rooms-of-death.json](./69705-caravel-deadly-rooms-of-death.json) |
 | Carbage | 130766 | [130766-carbage.json](./130766-carbage.json) |
 | Carbon Battle Royale | 143717 | [143717-carbon-battle-royale.json](./143717-carbon-battle-royale.json) |
 | Carbón Heart | 294949 | [294949-carbon-heart.json](./294949-carbon-heart.json) |
@@ -3819,6 +3820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavern Craze VR | 123318 | [123318-cavern-craze-vr.json](./123318-cavern-craze-vr.json) |
 | Cavern Creatures | 25602 | [25602-cavern-creatures.json](./25602-cavern-creatures.json) |
 | Cavern Crusader | 73303 | [73303-cavern-crusader.json](./73303-cavern-crusader.json) |
+| Cavern Fighter | 69706 | [69706-cavern-fighter.json](./69706-cavern-fighter.json) |
 | Cavern of Dreams | 219095 | [219095-cavern-of-dreams.json](./219095-cavern-of-dreams.json) |
 | Cavern of Mourning | 397254 | [397254-cavern-of-mourning.json](./397254-cavern-of-mourning.json) |
 | Cavern Sweeper | 328334 | [328334-cavern-sweeper.json](./328334-cavern-sweeper.json) |
@@ -7666,6 +7668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Compendium | 71344 | [71344-classic-compendium.json](./71344-classic-compendium.json) |
 | Classic Compendium 2 | 79364 | [79364-classic-compendium-2.json](./79364-classic-compendium-2.json) |
 | Classic Concentration | 48098 | [48098-classic-concentration.json](./48098-classic-concentration.json) |
+| Classic Concentration: 2nd Edition | 69717 | [69717-classic-concentration-2nd-edition.json](./69717-classic-concentration-2nd-edition.json) |
 | Classic Cribbage | 169982 | [169982-classic-cribbage.json](./169982-classic-cribbage.json) |
 | Classic DOOM 3 | 195496 | [195496-classic-doom-3.json](./195496-classic-doom-3.json) |
 | Classic Dungeon Sengoku | 137013 | [137013-classic-dungeon-sengoku.json](./137013-classic-dungeon-sengoku.json) |
@@ -13018,6 +13021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken Strikes Back | 83239 | [83239-crazy-chicken-strikes-back.json](./83239-crazy-chicken-strikes-back.json) |
 | Crazy Chicken X | 78882 | [78882-crazy-chicken-x.json](./78882-crazy-chicken-x.json) |
 | Crazy Chicken Xtreme | 198390 | [198390-crazy-chicken-xtreme.json](./198390-crazy-chicken-xtreme.json) |
+| Crazy Chicken: Approaching | 69708 | [69708-crazy-chicken-approaching.json](./69708-crazy-chicken-approaching.json) |
 | Crazy Chicken: Director's Cut | 83234 | [83234-crazy-chicken-directors-cut.json](./83234-crazy-chicken-directors-cut.json) |
 | Crazy Chicken: Heart of Tibet | 73582 | [73582-crazy-chicken-heart-of-tibet.json](./73582-crazy-chicken-heart-of-tibet.json) |
 | Crazy Chicken: Pirates | 23673 | [23673-crazy-chicken-pirates.json](./23673-crazy-chicken-pirates.json) |
@@ -14755,6 +14759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystalline | 221235 | [221235-crystalline.json](./221235-crystalline.json) |
 | Crystalline | 28944 | [28944-crystalline.json](./28944-crystalline.json) |
 | Crystalline Bliss | 292979 | [292979-crystalline-bliss.json](./292979-crystalline-bliss.json) |
+| Crystalline Cauldron | 69670 | [69670-crystalline-cauldron.json](./69670-crystalline-cauldron.json) |
 | Crystallium | 373872 | [373872-crystallium.json](./373872-crystallium.json) |
 | Crystallo | 117037 | [117037-crystallo.json](./117037-crystallo.json) |
 | Crystalon | 183554 | [183554-crystalon.json](./183554-crystalon.json) |
@@ -15822,6 +15827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuthbert and the Golden Chalice | 123067 | [123067-cuthbert-and-the-golden-chalice.json](./123067-cuthbert-and-the-golden-chalice.json) |
 | Cuthbert Enters the Tombs of Doom | 123061 | [123061-cuthbert-enters-the-tombs-of-doom.json](./123061-cuthbert-enters-the-tombs-of-doom.json) |
 | Cuthbert Goes Digging | 73989 | [73989-cuthbert-goes-digging.json](./73989-cuthbert-goes-digging.json) |
+| Cuthbert Goes Walkabout | 69673 | [69673-cuthbert-goes-walkabout.json](./69673-cuthbert-goes-walkabout.json) |
 | Cuthbert in the Cooler | 73472 | [73472-cuthbert-in-the-cooler.json](./73472-cuthbert-in-the-cooler.json) |
 | Cuthbert in the Jungle | 114769 | [114769-cuthbert-in-the-jungle.json](./114769-cuthbert-in-the-jungle.json) |
 | Cuthbert in the Mines | 74022 | [74022-cuthbert-in-the-mines.json](./74022-cuthbert-in-the-mines.json) |
