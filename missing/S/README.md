@@ -8289,6 +8289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Cause | 287238 | [287238-silent-cause.json](./287238-silent-cause.json) |
 | Silent Code | 301622 | [301622-silent-code.json](./301622-silent-code.json) |
 | Silent Crossing | 25868 | [25868-silent-crossing.json](./25868-silent-crossing.json) |
+| Silent Debuggers | 44343 | [44343-silent-debuggers.json](./44343-silent-debuggers.json) |
 | Silent Depth 2: Pacific | 272932 | [272932-silent-depth-2-pacific.json](./272932-silent-depth-2-pacific.json) |
 | Silent Depth Submarine Simulator | 179471 | [179471-silent-depth-submarine-simulator.json](./179471-silent-depth-submarine-simulator.json) |
 | Silent Descent | 75182 | [75182-silent-descent.json](./75182-silent-descent.json) |
@@ -9131,6 +9132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Squidward | 237869 | [237869-sinister-squidward.json](./237869-sinister-squidward.json) |
 | Sinister Turmoil: Sewers | 242010 | [242010-sinister-turmoil-sewers.json](./242010-sinister-turmoil-sewers.json) |
 | Sinister Zombies | 95604 | [95604-sinister-zombies.json](./95604-sinister-zombies.json) |
+| Sinistron | 44342 | [44342-sinistron.json](./44342-sinistron.json) |
 | Sinistrous | 153423 | [153423-sinistrous.json](./153423-sinistrous.json) |
 | Sinja UnityStory | 334344 | [334344-sinja-unitystory.json](./334344-sinja-unitystory.json) |
 | Sinjid | 57015 | [57015-sinjid.json](./57015-sinjid.json) |
@@ -10471,6 +10473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Horde | 398900 | [398900-slay-the-horde.json](./398900-slay-the-horde.json) |
 | Slay the King | 374164 | [374164-slay-the-king.json](./374164-slay-the-king.json) |
 | Slay the Minotaur | 271380 | [271380-slay-the-minotaur.json](./271380-slay-the-minotaur.json) |
+| Slay the Nereis | 44335 | [44335-slay-the-nereis.json](./44335-slay-the-nereis.json) |
 | Slay the Princess | 210395 | [210395-slay-the-princess.json](./210395-slay-the-princess.json) |
 | Slay the Space | 187231 | [187231-slay-the-space.json](./187231-slay-the-space.json) |
 | Slay the Spire II | 296831 | [296831-slay-the-spire-ii.json](./296831-slay-the-spire-ii.json) |
@@ -13395,6 +13398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Someone's Inside Me | 374390 | [374390-someones-inside-me.json](./374390-someones-inside-me.json) |
 | Someone's Outside | 303174 | [303174-someones-outside.json](./303174-someones-outside.json) |
 | Someplace Else | 136387 | [136387-someplace-else.json](./136387-someplace-else.json) |
+| Somer Assault | 44341 | [44341-somer-assault.json](./44341-somer-assault.json) |
 | Something a Little Super | 352844 | [352844-something-a-little-super.json](./352844-something-a-little-super.json) |
 | Something Ate My Alien | 116749 | [116749-something-ate-my-alien.json](./116749-something-ate-my-alien.json) |
 | Something Bad is on the Moon | 309207 | [309207-something-bad-is-on-the-moon.json](./309207-something-bad-is-on-the-moon.json) |
@@ -14121,6 +14125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Speedfighters 2 | 332609 | [332609-sonic-speedfighters-2.json](./332609-sonic-speedfighters-2.json) |
 | Sonic Speedfreshed | 351190 | [351190-sonic-speedfreshed.json](./351190-sonic-speedfreshed.json) |
 | Sonic SpeedStars | 417667 | [417667-sonic-speedstars.json](./417667-sonic-speedstars.json) |
+| Sonic Spike | 44340 | [44340-sonic-spike.json](./44340-sonic-spike.json) |
 | Sonic Spinball: Life Savers | 274722 | [274722-sonic-spinball-life-savers.json](./274722-sonic-spinball-life-savers.json) |
 | Sonic Stage Collection | 335626 | [335626-sonic-stage-collection.json](./335626-sonic-stage-collection.json) |
 | Sonic Stars | 331865 | [331865-sonic-stars.json](./331865-sonic-stars.json) |
@@ -23106,6 +23111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine Adventure | 133233 | [133233-submarine-adventure.json](./133233-submarine-adventure.json) |
 | Submarine Attack | 46120 | [46120-submarine-attack.json](./46120-submarine-attack.json) |
 | Submarine Attack! | 118118 | [118118-submarine-attack.json](./118118-submarine-attack.json) |
+| Submarine Battle | 44351 | [44351-submarine-battle.json](./44351-submarine-battle.json) |
 | Submarine Bubble | 319299 | [319299-submarine-bubble.json](./319299-submarine-bubble.json) |
 | Submarine Car Diving Simulator | 95593 | [95593-submarine-car-diving-simulator.json](./95593-submarine-car-diving-simulator.json) |
 | Submarine Commander | 130269 | [130269-submarine-commander.json](./130269-submarine-commander.json) |
@@ -24588,6 +24594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dead Rising 3 Arcade Remix | 21879 | [21879-super-dead-rising-3-arcade-remix.json](./21879-super-dead-rising-3-arcade-remix.json) |
 | Super Death Arena | 30126 | [30126-super-death-arena.json](./30126-super-death-arena.json) |
 | Super Demo World: The Legend Continues | 198224 | [198224-super-demo-world-the-legend-continues.json](./198224-super-demo-world-the-legend-continues.json) |
+| Super Demon Attack | 44376 | [44376-super-demon-attack.json](./44376-super-demon-attack.json) |
 | Super Demon Boy | 120677 | [120677-super-demon-boy.json](./120677-super-demon-boy.json) |
 | Super Depressed Bro... | 223087 | [223087-super-depressed-bro.json](./223087-super-depressed-bro.json) |
 | Super Depth | 239567 | [239567-super-depth.json](./239567-super-depth.json) |
@@ -26402,6 +26409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Panda | 80950 | [80950-super-star-panda.json](./80950-super-star-panda.json) |
 | Super Star Path | 19981 | [19981-super-star-path.json](./19981-super-star-path.json) |
 | Super Star Shooter Classic | 328307 | [328307-super-star-shooter-classic.json](./328307-super-star-shooter-classic.json) |
+| Super Star Soldier | 44339 | [44339-super-star-soldier.json](./44339-super-star-soldier.json) |
 | Super Star Trek | 325825 | [325825-super-star-trek.json](./325825-super-star-trek.json) |
 | Super Star Wars | 20031 | [20031-super-star-wars.json](./20031-super-star-wars.json) |
 | Super Star Wars Holiday Special | 327937 | [327937-super-star-wars-holiday-special.json](./327937-super-star-wars-holiday-special.json) |
@@ -26619,6 +26627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Xevious: Gamp no Nazo | 184275 | [184275-super-xevious-gamp-no-nazo.json](./184275-super-xevious-gamp-no-nazo.json) |
 | Super XYX | 140036 | [140036-super-xyx.json](./140036-super-xyx.json) |
 | Super Yakyuken | 97738 | [97738-super-yakyuken.json](./97738-super-yakyuken.json) |
+| Super Yakyuu-dou | 44380 | [44380-super-yakyuu-dou.json](./44380-super-yakyuu-dou.json) |
 | Super Yakyuu-dou | 76993 | [76993-super-yakyuu-dou.json](./76993-super-yakyuu-dou.json) |
 | Super Yakyuudou '93 - 94 Nendo Data Kaiteiban | 66198 | [66198-super-yakyuudou-93-94-nendo-data-kaiteiban.json](./66198-super-yakyuudou-93-94-nendo-data-kaiteiban.json) |
 | Super Yakyuudou 2 | 66208 | [66208-super-yakyuudou-2.json](./66208-super-yakyuudou-2.json) |
@@ -26711,6 +26720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superflight | 75184 | [75184-superflight.json](./75184-superflight.json) |
 | Superfluous Returnz | 173055 | [173055-superfluous-returnz.json](./173055-superfluous-returnz.json) |
 | Superfly | 171966 | [171966-superfly.json](./171966-superfly.json) |
+| Superfly | 44367 | [44367-superfly.json](./44367-superfly.json) |
 | Superfly Santa Claus | 62212 | [62212-superfly-santa-claus.json](./62212-superfly-santa-claus.json) |
 | Superfrog HD | 8873 | [8873-superfrog-hd.json](./8873-superfrog-hd.json) |
 | Supergun | 241200 | [241200-supergun.json](./241200-supergun.json) |
