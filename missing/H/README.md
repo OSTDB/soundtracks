@@ -5045,6 +5045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Two | 102218 | [102218-hex-two.json](./102218-hex-two.json) |
 | Hex-a-Hop | 261303 | [261303-hex-a-hop.json](./261303-hex-a-hop.json) |
 | Hex-Mix | 253246 | [253246-hex-mix.json](./253246-hex-mix.json) |
+| Hex: Origins | 63738 | [63738-hex-origins.json](./63738-hex-origins.json) |
 | HEX: Shards of Fate | 9570 | [9570-hex-shards-of-fate.json](./9570-hex-shards-of-fate.json) |
 | Hexa | 114390 | [114390-hexa.json](./114390-hexa.json) |
 | Hexa | 46868 | [46868-hexa.json](./46868-hexa.json) |
@@ -6035,6 +6036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Up | 309440 | [309440-high-up.json](./309440-high-up.json) |
 | High Velocity Arena | 251988 | [251988-high-velocity-arena.json](./251988-high-velocity-arena.json) |
 | High Velocity: Mountain Racing Challenge | 45519 | [45519-high-velocity-mountain-racing-challenge.json](./45519-high-velocity-mountain-racing-challenge.json) |
+| High Voltage | 63627 | [63627-high-voltage.json](./63627-high-voltage.json) |
 | High Voltage Hot Rod Show | 72558 | [72558-high-voltage-hot-rod-show.json](./72558-high-voltage-hot-rod-show.json) |
 | High Way Race | 40060 | [40060-high-way-race.json](./40060-high-way-race.json) |
 | High Way Star | 41804 | [41804-high-way-star.json](./41804-high-way-star.json) |
@@ -6136,6 +6138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Wars | 88041 | [88041-highway-wars.json](./88041-highway-wars.json) |
 | Highway Zombie Survival: Car Apocalypse | 306544 | [306544-highway-zombie-survival-car-apocalypse.json](./306544-highway-zombie-survival-car-apocalypse.json) |
 | Higurashi Daybreak | 69127 | [69127-higurashi-daybreak.json](./69127-higurashi-daybreak.json) |
+| Higurashi Daybreak Kai | 64828 | [64828-higurashi-daybreak-kai.json](./64828-higurashi-daybreak-kai.json) |
 | Higurashi Daybreak Portable | 38477 | [38477-higurashi-daybreak-portable.json](./38477-higurashi-daybreak-portable.json) |
 | Higurashi Daybreak Portable: Mega Edition | 38478 | [38478-higurashi-daybreak-portable-mega-edition.json](./38478-higurashi-daybreak-portable-mega-edition.json) |
 | Higurashi no Naku Koro ni Hou | 251461 | [251461-higurashi-no-naku-koro-ni-hou.json](./251461-higurashi-no-naku-koro-ni-hou.json) |
@@ -9746,6 +9749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyakki Yako Survivor | 331332 | [331332-hyakki-yako-survivor.json](./331332-hyakki-yako-survivor.json) |
 | Hyakki Yako: OH&S | 259289 | [259289-hyakki-yako-oh-and-s.json](./259289-hyakki-yako-oh-and-s.json) |
 | Hyakki Yakou: Kaidan Romance | 219136 | [219136-hyakki-yakou-kaidan-romance.json](./219136-hyakki-yakou-kaidan-romance.json) |
+| Hyakkiyakou | 64264 | [64264-hyakkiyakou.json](./64264-hyakkiyakou.json) |
 | Hyakko: Yorozuya Jikenbo! | 61452 | [61452-hyakko-yorozuya-jikenbo.json](./61452-hyakko-yorozuya-jikenbo.json) |
 | Hyaku Monogatari: Kaidan Romance | 59422 | [59422-hyaku-monogatari-kaidan-romance.json](./59422-hyaku-monogatari-kaidan-romance.json) |
 | Hyakumasu Dora-san Nobita no Time Battle | 56994 | [56994-hyakumasu-dora-san-nobita-no-time-battle.json](./56994-hyakumasu-dora-san-nobita-no-time-battle.json) |
