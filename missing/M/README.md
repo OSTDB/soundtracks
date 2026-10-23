@@ -1507,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Hishou-den: Shin Naki no Ryuu | 37937 | [37937-mahjong-hishou-den-shin-naki-no-ryuu.json](./37937-mahjong-hishou-den-shin-naki-no-ryuu.json) |
 | Mahjong Hot Gimmick Integral | 137932 | [137932-mahjong-hot-gimmick-integral.json](./137932-mahjong-hot-gimmick-integral.json) |
 | Mahjong Hourouki Classic | 136735 | [136735-mahjong-hourouki-classic.json](./136735-mahjong-hourouki-classic.json) |
+| Mahjong In Poculis | 89782 | [89782-mahjong-in-poculis.json](./89782-mahjong-in-poculis.json) |
 | Mahjong Infinity | 117043 | [117043-mahjong-infinity.json](./117043-mahjong-infinity.json) |
 | Mahjong Jo-ou | 228609 | [228609-mahjong-jo-ou.json](./228609-mahjong-jo-ou.json) |
 | Mahjong Journey: Quest for Tikal | 175921 | [175921-mahjong-journey-quest-for-tikal.json](./175921-mahjong-journey-quest-for-tikal.json) |
@@ -11205,6 +11206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMI | 212154 | [212154-mmi.json](./212154-mmi.json) |
 | MMM | 343815 | [343815-mmm.json](./343815-mmm.json) |
 | Mmm Fingers | 117752 | [117752-mmm-fingers.json](./117752-mmm-fingers.json) |
+| Mmm Fingers 2 | 89777 | [89777-mmm-fingers-2.json](./89777-mmm-fingers-2.json) |
 | MMM: Murder Most Misfortunate | 28425 | [28425-mmm-murder-most-misfortunate.json](./28425-mmm-murder-most-misfortunate.json) |
 | Mmmmm Donuts Arhhh...... | 286754 | [286754-mmmmm-donuts-arhhh.json](./286754-mmmmm-donuts-arhhh.json) |
 | Mmmmmm | 207138 | [207138-mmmmmm.json](./207138-mmmmmm.json) |
@@ -12683,6 +12685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Trucking | 332870 | [332870-monster-trucking.json](./332870-monster-trucking.json) |
 | Monster Trucks | 92416 | [92416-monster-trucks.json](./92416-monster-trucks.json) |
 | Monster Trucks DS | 47864 | [47864-monster-trucks-ds.json](./47864-monster-trucks-ds.json) |
+| Monster Trucks Kids Racing Game | 89764 | [89764-monster-trucks-kids-racing-game.json](./89764-monster-trucks-kids-racing-game.json) |
 | Monster Trucks Mayhem | 49248 | [49248-monster-trucks-mayhem.json](./49248-monster-trucks-mayhem.json) |
 | Monster Trucks Mayhem | 50718 | [50718-monster-trucks-mayhem.json](./50718-monster-trucks-mayhem.json) |
 | Monster Trux Arenas: Special Edition | 268375 | [268375-monster-trux-arenas-special-edition.json](./268375-monster-trux-arenas-special-edition.json) |
@@ -17125,6 +17128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Train to Hellswich - Collector's Edition | 169278 | [169278-mystery-trackers-train-to-hellswich-collectors-edition.json](./169278-mystery-trackers-train-to-hellswich-collectors-edition.json) |
 | Mystery Trackers: Winterpoint Tragedy | 57723 | [57723-mystery-trackers-winterpoint-tragedy.json](./57723-mystery-trackers-winterpoint-tragedy.json) |
 | Mystery USA! - Fun Seek and Find Hidden Object Puzzles | 101391 | [101391-mystery-usa-fun-seek-and-find-hidden-object-puzzles.json](./101391-mystery-usa-fun-seek-and-find-hidden-object-puzzles.json) |
+| Mystery Village: Shards of the past | 89636 | [89636-mystery-village-shards-of-the-past.json](./89636-mystery-village-shards-of-the-past.json) |
 | Mystery Voyage | 229777 | [229777-mystery-voyage.json](./229777-mystery-voyage.json) |
 | Mystery World Dizzy | 48890 | [48890-mystery-world-dizzy.json](./48890-mystery-world-dizzy.json) |
 | Mystery: London | 146926 | [146926-mystery-london.json](./146926-mystery-london.json) |
@@ -17165,6 +17169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Guardians Slide | 295368 | [295368-mystic-guardians-slide.json](./295368-mystic-guardians-slide.json) |
 | Mystic Gunner | 175351 | [175351-mystic-gunner.json](./175351-mystic-gunner.json) |
 | Mystic Hammer | 127687 | [127687-mystic-hammer.json](./127687-mystic-hammer.json) |
+| Mystic India Pop-Classic pop game | 89627 | [89627-mystic-india-pop-classic-pop-game.json](./89627-mystic-india-pop-classic-pop-game.json) |
 | Mystic Inn | 84272 | [84272-mystic-inn.json](./84272-mystic-inn.json) |
 | Mystic Isles | 154391 | [154391-mystic-isles.json](./154391-mystic-isles.json) |
 | Mystic Journey: Tri Peaks Solitaire | 28763 | [28763-mystic-journey-tri-peaks-solitaire.json](./28763-mystic-journey-tri-peaks-solitaire.json) |
