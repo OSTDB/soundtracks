@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valley of Stars | 338576 | [338576-valley-of-stars.json](./338576-valley-of-stars.json) |
 | Valley of the Crescent Mountain | 56160 | [56160-valley-of-the-crescent-mountain.json](./56160-valley-of-the-crescent-mountain.json) |
 | Valley of the Dead: MalnaZidos | 193287 | [193287-valley-of-the-dead-malnazidos.json](./193287-valley-of-the-dead-malnazidos.json) |
+| Valley of the foxes | 86633 | [86633-valley-of-the-foxes.json](./86633-valley-of-the-foxes.json) |
 | Valley of the Moon | 184485 | [184485-valley-of-the-moon.json](./184485-valley-of-the-moon.json) |
 | Valley of The Savage Run | 250765 | [250765-valley-of-the-savage-run.json](./250765-valley-of-the-savage-run.json) |
 | Valley of Tribes | 338575 | [338575-valley-of-tribes.json](./338575-valley-of-tribes.json) |
