@@ -5030,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nogalious | 105438 | [105438-nogalious.json](./105438-nogalious.json) |
 | Nogard | 94729 | [94729-nogard.json](./94729-nogard.json) |
 | Nogginknockers | 66381 | [66381-nogginknockers.json](./66381-nogginknockers.json) |
+| Nogginknockers 2 | 78507 | [78507-nogginknockers-2.json](./78507-nogginknockers-2.json) |
 | Nogibator | 76934 | [76934-nogibator.json](./76934-nogibator.json) |
 | Nogibator: Way of Legs | 83193 | [83193-nogibator-way-of-legs.json](./83193-nogibator-way-of-legs.json) |
 | Nogizaka Haruka no Himitsu: Doujinshi Hajimemashita | 269442 | [269442-nogizaka-haruka-no-himitsu-doujinshi-hajimemashita.json](./269442-nogizaka-haruka-no-himitsu-doujinshi-hajimemashita.json) |
