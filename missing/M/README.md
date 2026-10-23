@@ -1450,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong | 86409 | [86409-mahjong.json](./86409-mahjong.json) |
 | Mahjong | 90692 | [90692-mahjong.json](./90692-mahjong.json) |
 | MahJong | 74936 | [74936-mahjong.json](./74936-mahjong.json) |
+| Mahjong 13 Tiles | 89017 | [89017-mahjong-13-tiles.json](./89017-mahjong-13-tiles.json) |
 | Mahjong 16 TW | 334339 | [334339-mahjong-16-tw.json](./334339-mahjong-16-tw.json) |
 | Mahjong 2 Classroom | 246266 | [246266-mahjong-2-classroom.json](./246266-mahjong-2-classroom.json) |
 | Mahjong 300 | 401018 | [401018-mahjong-300.json](./401018-mahjong-300.json) |
@@ -1914,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makaimura Online | 63297 | [63297-makaimura-online.json](./63297-makaimura-online.json) |
 | Makato: Your Fantasy Shop | 240629 | [240629-makato-your-fantasy-shop.json](./240629-makato-your-fantasy-shop.json) |
 | Makber | 165419 | [165419-makber.json](./165419-makber.json) |
+| Make 10 | 89006 | [89006-make-10.json](./89006-make-10.json) |
 | Make a Cake | 266136 | [266136-make-a-cake.json](./266136-make-a-cake.json) |
 | Make a Doll | 178842 | [178842-make-a-doll.json](./178842-make-a-doll.json) |
 | Make a Friend | 201828 | [201828-make-a-friend.json](./201828-make-a-friend.json) |
