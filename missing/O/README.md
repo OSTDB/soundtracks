@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Gold: Barcelona '92 | 46266 | [46266-olympic-gold-barcelona-92.json](./46266-olympic-gold-barcelona-92.json) |
 | Olympic Snow Girl | 415438 | [415438-olympic-snow-girl.json](./415438-olympic-snow-girl.json) |
 | Olympic Soccer | 4292 | [4292-olympic-soccer.json](./4292-olympic-soccer.json) |
+| Olympic Spectacular | 73103 | [73103-olympic-spectacular.json](./73103-olympic-spectacular.json) |
 | Olympic Summer Games | 4493 | [4493-olympic-summer-games.json](./4493-olympic-summer-games.json) |
 | Olympic Trials | 71184 | [71184-olympic-trials.json](./71184-olympic-trials.json) |
 | Olympics VR | 75942 | [75942-olympics-vr.json](./75942-olympics-vr.json) |
@@ -1436,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omni Kitty | 391070 | [391070-omni-kitty.json](./391070-omni-kitty.json) |
 | Omni Link | 31270 | [31270-omni-link.json](./31270-omni-link.json) |
 | Omni Magic! | 221736 | [221736-omni-magic.json](./221736-omni-magic.json) |
+| Omni-Play Basketball | 73125 | [73125-omni-play-basketball.json](./73125-omni-play-basketball.json) |
 | Omni-Play Horse Racing | 73642 | [73642-omni-play-horse-racing.json](./73642-omni-play-horse-racing.json) |
 | Omnia | 160099 | [160099-omnia.json](./160099-omnia.json) |
 | Omnibion War | 102092 | [102092-omnibion-war.json](./102092-omnibion-war.json) |
