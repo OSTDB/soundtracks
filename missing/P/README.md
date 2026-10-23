@@ -12329,6 +12329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Aura: Super Engineer Colonist | 168205 | [168205-project-aura-super-engineer-colonist.json](./168205-project-aura-super-engineer-colonist.json) |
 | Project Aurora | 208106 | [208106-project-aurora.json](./208106-project-aurora.json) |
 | Project Awakening | 22790 | [22790-project-awakening.json](./22790-project-awakening.json) |
+| Project Azriel | 74193 | [74193-project-azriel.json](./74193-project-azriel.json) |
 | Project B | 240081 | [240081-project-b.json](./240081-project-b.json) |
 | Project B-Fer | 257651 | [257651-project-b-fer.json](./257651-project-b-fer.json) |
 | Project Babel | 113381 | [113381-project-babel.json](./113381-project-babel.json) |
@@ -13547,6 +13548,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pueblo | 236905 | [236905-pueblo.json](./236905-pueblo.json) |
 | Pueblo | 333767 | [333767-pueblo.json](./333767-pueblo.json) |
 | Puella Magi Madoka Magica Side Story: Magia Record | 70876 | [70876-puella-magi-madoka-magica-side-story-magia-record.json](./70876-puella-magi-madoka-magica-side-story-magia-record.json) |
+| Puella Magi Madoka Magica TPS Featuring Homura Akemi | 74148 | [74148-puella-magi-madoka-magica-tps-featuring-homura-akemi.json](./74148-puella-magi-madoka-magica-tps-featuring-homura-akemi.json) |
+| Puella Magi Madoka Magica TPS Featuring Mami Tomoe | 74147 | [74147-puella-magi-madoka-magica-tps-featuring-mami-tomoe.json](./74147-puella-magi-madoka-magica-tps-featuring-mami-tomoe.json) |
+| Puella Magi Madoka Magica TPS featuring Sayaka Miki and Kyoko Sakura | 74146 | [74146-puella-magi-madoka-magica-tps-featuring-sayaka-miki-and-kyoko-sakura.json](./74146-puella-magi-madoka-magica-tps-featuring-sayaka-miki-and-kyoko-sakura.json) |
 | Puella Magi Madoka Magica: The Movie - Magicard Battle | 61439 | [61439-puella-magi-madoka-magica-the-movie-magicard-battle.json](./61439-puella-magi-madoka-magica-the-movie-magicard-battle.json) |
 | Puerto Rico HD | 90795 | [90795-puerto-rico-hd.json](./90795-puerto-rico-hd.json) |
 | Puerto Rico No Está Apaga'o | 96316 | [96316-puerto-rico-no-esta-apagao.json](./96316-puerto-rico-no-esta-apagao.json) |
