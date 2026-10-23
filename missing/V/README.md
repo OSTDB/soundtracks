@@ -987,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vektor Tank 3D+ | 85468 | [85468-vektor-tank-3d.json](./85468-vektor-tank-3d.json) |
 | Vektor Z | 186672 | [186672-vektor-z.json](./186672-vektor-z.json) |
 | Vektron Revenge | 33100 | [33100-vektron-revenge.json](./33100-vektron-revenge.json) |
+| Vektropolis | 64782 | [64782-vektropolis.json](./64782-vektropolis.json) |
 | VekWars | 135009 | [135009-vekwars.json](./135009-vekwars.json) |
 | Vela | 176740 | [176740-vela.json](./176740-vela.json) |
 | Velada StreamHub | 418280 | [418280-velada-streamhub.json](./418280-velada-streamhub.json) |
@@ -1250,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versus | 285907 | [285907-versus.json](./285907-versus.json) |
 | Versus | 94053 | [94053-versus.json](./94053-versus.json) |
 | Versus Go | 325905 | [325905-versus-go.json](./325905-versus-go.json) |
+| Versus Hero: Kakutou-ou he no Michi | 64799 | [64799-versus-hero-kakutou-ou-he-no-michi.json](./64799-versus-hero-kakutou-ou-he-no-michi.json) |
 | Versus in the Dark | 325021 | [325021-versus-in-the-dark.json](./325021-versus-in-the-dark.json) |
 | Versus Net Soccer | 361490 | [361490-versus-net-soccer.json](./361490-versus-net-soccer.json) |
 | Versus One | 387056 | [387056-versus-one.json](./387056-versus-one.json) |
