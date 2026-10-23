@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O-Bot The Robot: Re-Botted | 418740 | [418740-o-bot-the-robot-re-botted.json](./418740-o-bot-the-robot-re-botted.json) |
 | O-Box: Ball Shooter | 47170 | [47170-o-box-ball-shooter.json](./47170-o-box-ball-shooter.json) |
 | O-chan no Oekaki Logic | 186657 | [186657-o-chan-no-oekaki-logic.json](./186657-o-chan-no-oekaki-logic.json) |
+| O-chan no Oekaki Logic 2 | 58530 | [58530-o-chan-no-oekaki-logic-2.json](./58530-o-chan-no-oekaki-logic-2.json) |
 | O-o-o | 232404 | [232404-o-o-o.json](./232404-o-o-o.json) |
 | O-Sim 22 | 222281 | [222281-o-sim-22.json](./222281-o-sim-22.json) |
 | O-Void | 257470 | [257470-o-void.json](./257470-o-void.json) |
@@ -3888,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our world has not decayed | 121302 | [121302-our-world-has-not-decayed.json](./121302-our-world-has-not-decayed.json) |
 | Our Worlds | 130877 | [130877-our-worlds.json](./130877-our-worlds.json) |
 | Ouran High School Host Club | 81475 | [81475-ouran-high-school-host-club.json](./81475-ouran-high-school-host-club.json) |
+| Ouranos! | 58567 | [58567-ouranos.json](./58567-ouranos.json) |
 | Oure | 75237 | [75237-oure.json](./75237-oure.json) |
 | Ourea | 132681 | [132681-ourea.json](./132681-ourea.json) |
 | Ouritsu Anapoko Gakuen | 112888 | [112888-ouritsu-anapoko-gakuen.json](./112888-ouritsu-anapoko-gakuen.json) |
