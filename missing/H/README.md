@@ -1482,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Minus Classic Redux | 163924 | [163924-hard-minus-classic-redux.json](./163924-hard-minus-classic-redux.json) |
 | Hard Minus Forever Standalone DLC | 249182 | [249182-hard-minus-forever-standalone-dlc.json](./249182-hard-minus-forever-standalone-dlc.json) |
 | Hard Night VR | 153370 | [153370-hard-night-vr.json](./153370-hard-night-vr.json) |
+| Hard Nova | 73600 | [73600-hard-nova.json](./73600-hard-nova.json) |
 | Hard Nut to Crack | 314148 | [314148-hard-nut-to-crack.json](./314148-hard-nut-to-crack.json) |
 | Hard Office | 130628 | [130628-hard-office.json](./130628-hard-office.json) |
 | Hard Platformers Bundle | 331529 | [331529-hard-platformers-bundle.json](./331529-hard-platformers-bundle.json) |
@@ -8467,6 +8468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Ultimate Racing | 44482 | [44482-hot-wheels-ultimate-racing.json](./44482-hot-wheels-ultimate-racing.json) |
 | Hot Wheels: Unlimited | 335815 | [335815-hot-wheels-unlimited.json](./335815-hot-wheels-unlimited.json) |
 | Hot Wheels: World's Best Driver | 10418 | [10418-hot-wheels-worlds-best-driver.json](./10418-hot-wheels-worlds-best-driver.json) |
+| Hot Wired | 73660 | [73660-hot-wired.json](./73660-hot-wired.json) |
 | Hot Worlds | 259036 | [259036-hot-worlds.json](./259036-hot-worlds.json) |
 | Hot Zone | 118123 | [118123-hot-zone.json](./118123-hot-zone.json) |
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
