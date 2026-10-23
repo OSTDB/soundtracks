@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctuary VR | 30182 | [30182-sanctuary-vr.json](./30182-sanctuary-vr.json) |
 | Sanctuary: Shattered Sun | 235668 | [235668-sanctuary-shattered-sun.json](./235668-sanctuary-shattered-sun.json) |
 | Sanctum | 236690 | [236690-sanctum.json](./236690-sanctum.json) |
+| Sanctum | 77136 | [77136-sanctum.json](./77136-sanctum.json) |
 | Sanctum 2: Road to Elysion | 10806 | [10806-sanctum-2-road-to-elysion.json](./10806-sanctum-2-road-to-elysion.json) |
 | Sanctum 2: Ruins of Brightholme | 10807 | [10807-sanctum-2-ruins-of-brightholme.json](./10807-sanctum-2-ruins-of-brightholme.json) |
 | Sanctum 2: The Last Stand | 10808 | [10808-sanctum-2-the-last-stand.json](./10808-sanctum-2-the-last-stand.json) |
@@ -6593,6 +6594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Sedai Robot Senki - Brave Saga 2 | 137397 | [137397-shin-sedai-robot-senki-brave-saga-2.json](./137397-shin-sedai-robot-senki-brave-saga-2.json) |
 | Shin Seizonritsu 0%! Chikatetsu Kara no Dasshutsu | 238886 | [238886-shin-seizonritsu-0-chikatetsu-kara-no-dasshutsu.json](./238886-shin-seizonritsu-0-chikatetsu-kara-no-dasshutsu.json) |
 | Shin Super Robot Taisen | 43908 | [43908-shin-super-robot-taisen.json](./43908-shin-super-robot-taisen.json) |
+| Shin Taketori Monogatari | 77132 | [77132-shin-taketori-monogatari.json](./77132-shin-taketori-monogatari.json) |
 | Shin Tennis no Ouji-sama: Let's Go!! Daily Life from RisingBeat | 222249 | [222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json](./222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json) |
 | Shin Tennis no Ouji-sama: RisingBeat | 77812 | [77812-shin-tennis-no-ouji-sama-risingbeat.json](./77812-shin-tennis-no-ouji-sama-risingbeat.json) |
 | Shin Togenkyo | 38252 | [38252-shin-togenkyo.json](./38252-shin-togenkyo.json) |
@@ -9461,6 +9463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeletons vs Nadia | 203756 | [203756-skeletons-vs-nadia.json](./203756-skeletons-vs-nadia.json) |
 | Skeletris | 134701 | [134701-skeletris.json](./134701-skeletris.json) |
 | Skelets | 140620 | [140620-skelets.json](./140620-skelets.json) |
+| Skeletter med kasketter | 77138 | [77138-skeletter-med-kasketter.json](./77138-skeletter-med-kasketter.json) |
 | Skelewton's First Law | 120232 | [120232-skelewtons-first-law.json](./120232-skelewtons-first-law.json) |
 | Skeljump | 257377 | [257377-skeljump.json](./257377-skeljump.json) |
 | Skellboy | 113101 | [113101-skellboy.json](./113101-skellboy.json) |
@@ -21745,6 +21748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratapath TD | 390662 | [390662-stratapath-td.json](./390662-stratapath-td.json) |
 | StratDots RTS | 381138 | [381138-stratdots-rts.json](./381138-stratdots-rts.json) |
 | Strategems | 353271 | [353271-strategems.json](./353271-strategems.json) |
+| Strategery | 77095 | [77095-strategery.json](./77095-strategery.json) |
 | Strategery 2012 | 64333 | [64333-strategery-2012.json](./64333-strategery-2012.json) |
 | Strategic Bastion | 358231 | [358231-strategic-bastion.json](./358231-strategic-bastion.json) |
 | Strategic Command Classic: Global Conflict | 86635 | [86635-strategic-command-classic-global-conflict.json](./86635-strategic-command-classic-global-conflict.json) |
@@ -27853,6 +27857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword & Dragon | 58234 | [58234-sword-and-dragon.json](./58234-sword-and-dragon.json) |
 | Sword & Fairy Inn 2 | 207698 | [207698-sword-and-fairy-inn-2.json](./207698-sword-and-fairy-inn-2.json) |
 | Sword & Glory | 334870 | [334870-sword-and-glory.json](./334870-sword-and-glory.json) |
+| Sword & Poker | 77110 | [77110-sword-and-poker.json](./77110-sword-and-poker.json) |
 | Sword & Poker 2 | 98812 | [98812-sword-and-poker-2.json](./98812-sword-and-poker-2.json) |
 | Sword & Seek | 309847 | [309847-sword-and-seek.json](./309847-sword-and-seek.json) |
 | Sword & Siege Crusades: Book II | 402956 | [402956-sword-and-siege-crusades-book-ii.json](./402956-sword-and-siege-crusades-book-ii.json) |
