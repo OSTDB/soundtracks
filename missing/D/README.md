@@ -2562,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De Ontdekker en het mysterie van de Diamanten Scarabee | 268124 | [268124-de-ontdekker-en-het-mysterie-van-de-diamanten-scarabee.json](./268124-de-ontdekker-en-het-mysterie-van-de-diamanten-scarabee.json) |
 | De Profundis | 114257 | [114257-de-profundis.json](./114257-de-profundis.json) |
 | De Tres al Cuarto | 227910 | [227910-de-tres-al-cuarto.json](./227910-de-tres-al-cuarto.json) |
+| De Zaak Van Sam | 77151 | [77151-de-zaak-van-sam.json](./77151-de-zaak-van-sam.json) |
 | Dé_Intricate | 310534 | [310534-de-intricate.json](./310534-de-intricate.json) |
 | De-Block | 48515 | [48515-de-block.json](./48515-de-block.json) |
 | De-capite | 184445 | [184445-de-capite.json](./184445-de-capite.json) |
@@ -8828,6 +8829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do You Like Horny Bunnies? Complete Collection | 201172 | [201172-do-you-like-horny-bunnies-complete-collection.json](./201172-do-you-like-horny-bunnies-complete-collection.json) |
 | Do You Like Italian Food? | 407383 | [407383-do-you-like-italian-food.json](./407383-do-you-like-italian-food.json) |
 | Do You Really Know? | 390777 | [390777-do-you-really-know.json](./390777-do-you-really-know.json) |
+| Do you remember the '60s? | 77153 | [77153-do-you-remember-the-60s.json](./77153-do-you-remember-the-60s.json) |
 | Do You Remember? | 303484 | [303484-do-you-remember.json](./303484-do-you-remember.json) |
 | Do You See Sparky? | 242484 | [242484-do-you-see-sparky.json](./242484-do-you-see-sparky.json) |
 | Do You See the Waving Cape | 150391 | [150391-do-you-see-the-waving-cape.json](./150391-do-you-see-the-waving-cape.json) |
@@ -9519,6 +9521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominique Pamplemousse & Dominique Pamplemousse in "Combinatorial Explosion" | 125051 | [125051-dominique-pamplemousse-and-dominique-pamplemousse-in-combinatorial-explosion.json](./125051-dominique-pamplemousse-and-dominique-pamplemousse-in-combinatorial-explosion.json) |
 | Dominium | 327053 | [327053-dominium.json](./327053-dominium.json) |
 | Dominium Mundi | 164940 | [164940-dominium-mundi.json](./164940-dominium-mundi.json) |
+| Domino | 77152 | [77152-domino.json](./77152-domino.json) |
 | Domino | 81081 | [81081-domino.json](./81081-domino.json) |
 | Domino | 88838 | [88838-domino.json](./88838-domino.json) |
 | Domino Clicker | 295802 | [295802-domino-clicker.json](./295802-domino-clicker.json) |
