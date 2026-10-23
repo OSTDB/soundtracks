@@ -7358,6 +7358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino | 272361 | [272361-dino.json](./272361-dino.json) |
 | Dino & Chill | 339938 | [339938-dino-and-chill.json](./339938-dino-and-chill.json) |
 | Dino Adventure Legend | 288130 | [288130-dino-adventure-legend.json](./288130-dino-adventure-legend.json) |
+| Dino and Aliens | 93434 | [93434-dino-and-aliens.json](./93434-dino-and-aliens.json) |
 | Dino Attack | 343258 | [343258-dino-attack.json](./343258-dino-attack.json) |
 | Dino Battle: Jungle Adventure | 235166 | [235166-dino-battle-jungle-adventure.json](./235166-dino-battle-jungle-adventure.json) |
 | Dino Bibo | 221899 | [221899-dino-bibo.json](./221899-dino-bibo.json) |
@@ -13298,6 +13299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Wars: A Game Based on the New York Drug Market | 72172 | [72172-drug-wars-a-game-based-on-the-new-york-drug-market.json](./72172-drug-wars-a-game-based-on-the-new-york-drug-market.json) |
 | Drug Watch | 130838 | [130838-drug-watch.json](./130838-drug-watch.json) |
 | Druggiemon: Lost Edition | 359852 | [359852-druggiemon-lost-edition.json](./359852-druggiemon-lost-edition.json) |
+| Druglord | 93423 | [93423-druglord.json](./93423-druglord.json) |
 | Drugs & Gambling | 362400 | [362400-drugs-and-gambling.json](./362400-drugs-and-gambling.json) |
 | Drugs and Crime Idle | 153426 | [153426-drugs-and-crime-idle.json](./153426-drugs-and-crime-idle.json) |
 | Drugs to Bee | 103447 | [103447-drugs-to-bee.json](./103447-drugs-to-bee.json) |
