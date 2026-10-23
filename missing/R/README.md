@@ -2883,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recruit One | 157707 | [157707-recruit-one.json](./157707-recruit-one.json) |
 | Recruits | 16626 | [16626-recruits.json](./16626-recruits.json) |
 | Recruta Zero | 274148 | [274148-recruta-zero.json](./274148-recruta-zero.json) |
+| Rectangle Battle | 65365 | [65365-rectangle-battle.json](./65365-rectangle-battle.json) |
 | Rectangle Guy | 215905 | [215905-rectangle-guy.json](./215905-rectangle-guy.json) |
 | Rectanglez | 187837 | [187837-rectanglez.json](./187837-rectanglez.json) |
 | Rectangulong | 305842 | [305842-rectangulong.json](./305842-rectangulong.json) |
@@ -3214,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red the Cook | 390770 | [390770-red-the-cook.json](./390770-red-the-cook.json) |
 | Red Thunder | 69751 | [69751-red-thunder.json](./69751-red-thunder.json) |
 | Red Tide | 391177 | [391177-red-tide.json](./391177-red-tide.json) |
+| Red Tie Miner: Zombie | 65372 | [65372-red-tie-miner-zombie.json](./65372-red-tie-miner-zombie.json) |
 | Red Tie Runner | 265720 | [265720-red-tie-runner.json](./265720-red-tie-runner.json) |
 | Red Titans | 259638 | [259638-red-titans.json](./259638-red-titans.json) |
 | Red Tower | 207704 | [207704-red-tower.json](./207704-red-tower.json) |
