@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacking The Moon to Find My Goddess | 337493 | [337493-hacking-the-moon-to-find-my-goddess.json](./337493-hacking-the-moon-to-find-my-goddess.json) |
 | Hacking with Benefits | 379646 | [379646-hacking-with-benefits.json](./379646-hacking-with-benefits.json) |
 | HackLab | 185142 | [185142-hacklab.json](./185142-hacklab.json) |
+| Hackme Game 2 | 78488 | [78488-hackme-game-2.json](./78488-hackme-game-2.json) |
 | Hacknet: Complete Edition | 51826 | [51826-hacknet-complete-edition.json](./51826-hacknet-complete-edition.json) |
 | Hacknet: Ultimate Edition | 51825 | [51825-hacknet-ultimate-edition.json](./51825-hacknet-ultimate-edition.json) |
 | HackOS | 145923 | [145923-hackos.json](./145923-hackos.json) |
@@ -502,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Weapon Edition | 221907 | [221907-half-life-weapon-edition.json](./221907-half-life-weapon-edition.json) |
 | Half-Life: Xen-Warrior | 221808 | [221808-half-life-xen-warrior.json](./221808-half-life-xen-warrior.json) |
 | Half-Life: Zombie Edition | 196734 | [196734-half-life-zombie-edition.json](./196734-half-life-zombie-edition.json) |
+| Half-Minute Hero: Super Mega Neo Climax | 78458 | [78458-half-minute-hero-super-mega-neo-climax.json](./78458-half-minute-hero-super-mega-neo-climax.json) |
 | Half-Nuked | 196730 | [196730-half-nuked.json](./196730-half-nuked.json) |
 | Half-Payne | 196014 | [196014-half-payne.json](./196014-half-payne.json) |
 | Half-Rats: A Fever Dream | 319644 | [319644-half-rats-a-fever-dream.json](./319644-half-rats-a-fever-dream.json) |
