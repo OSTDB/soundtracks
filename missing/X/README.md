@@ -708,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xixit | 94532 | [94532-xixit.json](./94532-xixit.json) |
 | Xjump | 291602 | [291602-xjump.json](./291602-xjump.json) |
 | xkcd: Hoverboard | 59459 | [59459-xkcd-hoverboard.json](./59459-xkcd-hoverboard.json) |
+| XL1: Clipping Point | 86621 | [86621-xl1-clipping-point.json](./86621-xl1-clipping-point.json) |
 | Xlands | 403750 | [403750-xlands.json](./403750-xlands.json) |
 | XLM's Dr. Harrison | 361277 | [361277-xlms-dr-harrison.json](./361277-xlms-dr-harrison.json) |
 | XLR | 33394 | [33394-xlr.json](./33394-xlr.json) |
@@ -773,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xplode Man | 313495 | [313495-xplode-man.json](./313495-xplode-man.json) |
 | Xploit.Zero | 380561 | [380561-xploit-zero.json](./380561-xploit-zero.json) |
 | Xploquest | 76926 | [76926-xploquest.json](./76926-xploquest.json) |
+| Xploquest 2 | 86593 | [86593-xploquest-2.json](./86593-xploquest-2.json) |
 | XPlorasi3D | 218312 | [218312-xplorasi3d.json](./218312-xplorasi3d.json) |
 | Xplorasi3d 2.0 | 220729 | [220729-xplorasi3d-2-0.json](./220729-xplorasi3d-2-0.json) |
 | Xplore Health | 60391 | [60391-xplore-health.json](./60391-xplore-health.json) |
