@@ -1146,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Corps 2: Axis Operations - Spanish Civil War | 155049 | [155049-panzer-corps-2-axis-operations-spanish-civil-war.json](./155049-panzer-corps-2-axis-operations-spanish-civil-war.json) |
 | Panzer Corps 2: Elite - Ghost Division | 370129 | [370129-panzer-corps-2-elite-ghost-division.json](./370129-panzer-corps-2-elite-ghost-division.json) |
 | Panzer Corps 2: War Stories - Fall of Poland | 312303 | [312303-panzer-corps-2-war-stories-fall-of-poland.json](./312303-panzer-corps-2-war-stories-fall-of-poland.json) |
+| Panzer Corps: Afrika Korps | 64281 | [64281-panzer-corps-afrika-korps.json](./64281-panzer-corps-afrika-korps.json) |
 | Panzer Corps: Allied Corps | 124793 | [124793-panzer-corps-allied-corps.json](./124793-panzer-corps-allied-corps.json) |
 | Panzer Corps: Soviet Corps | 124838 | [124838-panzer-corps-soviet-corps.json](./124838-panzer-corps-soviet-corps.json) |
 | Panzer Corps: US Corps | 124806 | [124806-panzer-corps-us-corps.json](./124806-panzer-corps-us-corps.json) |
@@ -3152,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penalty Challenge | 311227 | [311227-penalty-challenge.json](./311227-penalty-challenge.json) |
 | Penalty Kick | 287540 | [287540-penalty-kick.json](./287540-penalty-kick.json) |
 | Penalty Kick '91 | 180475 | [180475-penalty-kick-91.json](./180475-penalty-kick-91.json) |
+| Penalty Saver | 64248 | [64248-penalty-saver.json](./64248-penalty-saver.json) |
 | Penalty Shoot-Out Soccer: 2010 World Champion | 174233 | [174233-penalty-shoot-out-soccer-2010-world-champion.json](./174233-penalty-shoot-out-soccer-2010-world-champion.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
 | Penalty Soccer | 73663 | [73663-penalty-soccer.json](./73663-penalty-soccer.json) |
@@ -4374,6 +4376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phenomena | 407239 | [407239-phenomena.json](./407239-phenomena.json) |
 | Phenomena Embattled | 274335 | [274335-phenomena-embattled.json](./274335-phenomena-embattled.json) |
 | Phenomenal Car Park Simulator | 124220 | [124220-phenomenal-car-park-simulator.json](./124220-phenomenal-car-park-simulator.json) |
+| Phenomeno: Mitsurugi Yoishi wa Kowagaranai | 64150 | [64150-phenomeno-mitsurugi-yoishi-wa-kowagaranai.json](./64150-phenomeno-mitsurugi-yoishi-wa-kowagaranai.json) |
 | Phenomenon: City of Cyan | 61531 | [61531-phenomenon-city-of-cyan.json](./61531-phenomenon-city-of-cyan.json) |
 | Phenomenon: Outcome | 61533 | [61533-phenomenon-outcome.json](./61533-phenomenon-outcome.json) |
 | Phenomenon32 | 170228 | [170228-phenomenon32.json](./170228-phenomenon32.json) |
@@ -8471,6 +8474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokecolo | 269069 | [269069-pokecolo.json](./269069-pokecolo.json) |
 | Poked | 76965 | [76965-poked.json](./76965-poked.json) |
 | Pokédex 3D Pro | 21700 | [21700-pokedex-3d-pro.json](./21700-pokedex-3d-pro.json) |
+| Pokédex for iOS | 64282 | [64282-pokedex-for-ios.json](./64282-pokedex-for-ios.json) |
 | Pokedex-Accurate Dual-Type Pokemon Personality Test | 376193 | [376193-pokedex-accurate-dual-type-pokemon-personality-test.json](./376193-pokedex-accurate-dual-type-pokemon-personality-test.json) |
 | Pokéfeet | 403430 | [403430-pokefeet.json](./403430-pokefeet.json) |
 | PokeFields | 414341 | [414341-pokefields.json](./414341-pokefields.json) |
@@ -9330,6 +9334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Rollout | 96256 | [96256-polar-rollout.json](./96256-polar-rollout.json) |
 | Polar Tubing | 209342 | [209342-polar-tubing.json](./209342-polar-tubing.json) |
 | Polar Tubing | 209343 | [209343-polar-tubing.json](./209343-polar-tubing.json) |
+| Polara | 64232 | [64232-polara.json](./64232-polara.json) |
 | PolarChaseVR | 344697 | [344697-polarchasevr.json](./344697-polarchasevr.json) |
 | PolarDread | 298276 | [298276-polardread.json](./298276-polardread.json) |
 | Polaretti | 242396 | [242396-polaretti.json](./242396-polaretti.json) |
@@ -11874,6 +11879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Privateers | 58288 | [58288-privateers.json](./58288-privateers.json) |
 | Prixel | 111205 | [111205-prixel.json](./111205-prixel.json) |
 | Prize Denied | 339962 | [339962-prize-denied.json](./339962-prize-denied.json) |
+| Prize Driver | 64249 | [64249-prize-driver.json](./64249-prize-driver.json) |
 | Prize Fighter | 5424 | [5424-prize-fighter.json](./5424-prize-fighter.json) |
 | Prize Fighter: Heavyweight Edition | 375599 | [375599-prize-fighter-heavyweight-edition.json](./375599-prize-fighter-heavyweight-edition.json) |
 | Prize Fighter: Remastered | 203790 | [203790-prize-fighter-remastered.json](./203790-prize-fighter-remastered.json) |
@@ -14306,6 +14312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Fever Touch | 251501 | [251501-puyo-puyo-fever-touch.json](./251501-puyo-puyo-fever-touch.json) |
 | Puyo Puyo Fever Touch Lite | 251505 | [251505-puyo-puyo-fever-touch-lite.json](./251505-puyo-puyo-fever-touch-lite.json) |
 | Puyo Puyo Fever: Minna de Nazo Puyo | 251090 | [251090-puyo-puyo-fever-minna-de-nazo-puyo.json](./251090-puyo-puyo-fever-minna-de-nazo-puyo.json) |
+| Puyo Puyo Gaiden: Puyo Wars | 64088 | [64088-puyo-puyo-gaiden-puyo-wars.json](./64088-puyo-puyo-gaiden-puyo-wars.json) |
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
 | Puyo Puyo Solitare | 251503 | [251503-puyo-puyo-solitare.json](./251503-puyo-puyo-solitare.json) |
 | Puyo Puyo Sun | 250340 | [250340-puyo-puyo-sun.json](./250340-puyo-puyo-sun.json) |
@@ -14335,6 +14342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzel Nite | 140397 | [140397-puzzel-nite.json](./140397-puzzel-nite.json) |
 | Puzzelate | 78745 | [78745-puzzelate.json](./78745-puzzelate.json) |
 | Puzzgun | 98684 | [98684-puzzgun.json](./98684-puzzgun.json) |
+| Puzziball | 64243 | [64243-puzziball.json](./64243-puzziball.json) |
 | Puzzillion | 260552 | [260552-puzzillion.json](./260552-puzzillion.json) |
 | Puzzl9 | 178650 | [178650-puzzl9.json](./178650-puzzl9.json) |
 | Puzzle | 119462 | [119462-puzzle.json](./119462-puzzle.json) |
