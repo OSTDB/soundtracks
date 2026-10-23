@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tag! You're Dead | 358987 | [358987-tag-youre-dead.json](./358987-tag-youre-dead.json) |
 | Tag.Io | 129726 | [129726-tag-io.json](./129726-tag-io.json) |
 | Tagalon | 362471 | [362471-tagalon.json](./362471-tagalon.json) |
+| TAGAP 2: The Apocalyptic Game About Penguins | 63087 | [63087-tagap-2-the-apocalyptic-game-about-penguins.json](./63087-tagap-2-the-apocalyptic-game-about-penguins.json) |
 | TAGAP 4 | 321139 | [321139-tagap-4.json](./321139-tagap-4.json) |
 | TAGAP: The Apocalyptic Game About Penguins | 79671 | [79671-tagap-the-apocalyptic-game-about-penguins.json](./79671-tagap-the-apocalyptic-game-about-penguins.json) |
 | Tagger Mascot | 244862 | [244862-tagger-mascot.json](./244862-tagger-mascot.json) |
@@ -3125,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temtem: Pioneers | 397815 | [397815-temtem-pioneers.json](./397815-temtem-pioneers.json) |
 | Ten | 202770 | [202770-ten.json](./202770-ten.json) |
 | Ten Bells | 312127 | [312127-ten-bells.json](./312127-ten-bells.json) |
+| Ten by Eight | 63072 | [63072-ten-by-eight.json](./63072-ten-by-eight.json) |
 | Ten Dates | 217256 | [217256-ten-dates.json](./217256-ten-dates.json) |
 | Ten Days | 120145 | [120145-ten-days.json](./120145-ten-days.json) |
 | Ten Days to War | 122161 | [122161-ten-days-to-war.json](./122161-ten-days-to-war.json) |
@@ -3781,6 +3783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesla Roadster Going to Mars | 334785 | [334785-tesla-roadster-going-to-mars.json](./334785-tesla-roadster-going-to-mars.json) |
 | Tesla VR | 368353 | [368353-tesla-vr.json](./368353-tesla-vr.json) |
 | Tesla vs Lovecraft | 28592 | [28592-tesla-vs-lovecraft.json](./28592-tesla-vs-lovecraft.json) |
+| Tesla Wars | 63177 | [63177-tesla-wars.json](./63177-tesla-wars.json) |
 | Tesla: The Weather Man | 54431 | [54431-tesla-the-weather-man.json](./54431-tesla-the-weather-man.json) |
 | Tesla's Best Friend | 30861 | [30861-teslas-best-friend.json](./30861-teslas-best-friend.json) |
 | Tesla's Electric Mist | 70897 | [70897-teslas-electric-mist.json](./70897-teslas-electric-mist.json) |
@@ -4299,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 7th Guest Remake | 394668 | [394668-the-7th-guest-remake.json](./394668-the-7th-guest-remake.json) |
 | The 7th Guest VR | 251565 | [251565-the-7th-guest-vr.json](./251565-the-7th-guest-vr.json) |
 | The 7th Guest: 25th Anniversary Edition | 116545 | [116545-the-7th-guest-25th-anniversary-edition.json](./116545-the-7th-guest-25th-anniversary-edition.json) |
+| The 7th Guest: Infection | 63058 | [63058-the-7th-guest-infection.json](./63058-the-7th-guest-infection.json) |
 | The 7th Melee: Sonic's Heroes | 330719 | [330719-the-7th-melee-sonics-heroes.json](./330719-the-7th-melee-sonics-heroes.json) |
 | The 7th Shift | 415873 | [415873-the-7th-shift.json](./415873-the-7th-shift.json) |
 | The 7th Sign Project | 201675 | [201675-the-7th-sign-project.json](./201675-the-7th-sign-project.json) |
@@ -4435,6 +4439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Gilligan's Island | 8742 | [8742-the-adventures-of-gilligans-island.json](./8742-the-adventures-of-gilligans-island.json) |
 | The Adventures of Golly | 116858 | [116858-the-adventures-of-golly.json](./116858-the-adventures-of-golly.json) |
 | The Adventures of Graham | 398329 | [398329-the-adventures-of-graham.json](./398329-the-adventures-of-graham.json) |
+| The Adventures of Gumby & Friends: Super Sneaky Disguise Kit | 63088 | [63088-the-adventures-of-gumby-and-friends-super-sneaky-disguise-kit.json](./63088-the-adventures-of-gumby-and-friends-super-sneaky-disguise-kit.json) |
 | The Adventures of Harry: The evidence Under the Underwear | 345123 | [345123-the-adventures-of-harry-the-evidence-under-the-underwear.json](./345123-the-adventures-of-harry-the-evidence-under-the-underwear.json) |
 | The Adventures of Heart Love Dude | 56148 | [56148-the-adventures-of-heart-love-dude.json](./56148-the-adventures-of-heart-love-dude.json) |
 | The Adventures of Herbie & Katt LeChatt | 161618 | [161618-the-adventures-of-herbie-and-katt-lechatt.json](./161618-the-adventures-of-herbie-and-katt-lechatt.json) |
@@ -8096,6 +8101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grass | 163955 | [163955-the-grass.json](./163955-the-grass.json) |
 | The Grass of Genesis | 305419 | [305419-the-grass-of-genesis.json](./305419-the-grass-of-genesis.json) |
 | The Grass Reaper | 363897 | [363897-the-grass-reaper.json](./363897-the-grass-reaper.json) |
+| The Grave | 63085 | [63085-the-grave.json](./63085-the-grave.json) |
 | The Grave Digger | 35847 | [35847-the-grave-digger.json](./35847-the-grave-digger.json) |
 | The Grave robber | 189121 | [189121-the-grave-robber.json](./189121-the-grave-robber.json) |
 | The Gravedigger | 311267 | [311267-the-gravedigger.json](./311267-the-gravedigger.json) |
@@ -11258,6 +11264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -12777,6 +12784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Little Hodcome | 232554 | [232554-the-secret-of-little-hodcome.json](./232554-the-secret-of-little-hodcome.json) |
 | The Secret of Maike Island | 318396 | [318396-the-secret-of-maike-island.json](./318396-the-secret-of-maike-island.json) |
 | The Secret of Manes | 364049 | [364049-the-secret-of-manes.json](./364049-the-secret-of-manes.json) |
+| The Secret of Margrave Manor | 63090 | [63090-the-secret-of-margrave-manor.json](./63090-the-secret-of-margrave-manor.json) |
 | The Secret of Middle City | 31133 | [31133-the-secret-of-middle-city.json](./31133-the-secret-of-middle-city.json) |
 | The Secret of Monkey Island: Recoded | 191638 | [191638-the-secret-of-monkey-island-recoded.json](./191638-the-secret-of-monkey-island-recoded.json) |
 | The Secret of Monkey Island: Special Edition | 65 | [65-the-secret-of-monkey-island-special-edition.json](./65-the-secret-of-monkey-island-special-edition.json) |
@@ -20969,6 +20977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tottenham Hotspur Club Football 2005 | 267897 | [267897-tottenham-hotspur-club-football-2005.json](./267897-tottenham-hotspur-club-football-2005.json) |
 | Totto's Magic Soup | 353293 | [353293-tottos-magic-soup.json](./353293-tottos-magic-soup.json) |
 | Tottoko Hamtaro Card-e | 220854 | [220854-tottoko-hamtaro-card-e.json](./220854-tottoko-hamtaro-card-e.json) |
+| Tottoko Hamtaro: Haru Natsu Aki Fuyu Tottoko Nakayoshi! Ham-chans! | 63046 | [63046-tottoko-hamtaro-haru-natsu-aki-fuyu-tottoko-nakayoshi-ham-chans.json](./63046-tottoko-hamtaro-haru-natsu-aki-fuyu-tottoko-nakayoshi-ham-chans.json) |
 | Tottoko Hamtaro: Nazo-Nazo Q: Kumo no Ue no? Jou | 63220 | [63220-tottoko-hamtaro-nazo-nazo-q-kumo-no-ue-no-jou.json](./63220-tottoko-hamtaro-nazo-nazo-q-kumo-no-ue-no-jou.json) |
 | Tottoko Hamtaro: Tomodachi Daisakusen Dechu | 63222 | [63222-tottoko-hamtaro-tomodachi-daisakusen-dechu.json](./63222-tottoko-hamtaro-tomodachi-daisakusen-dechu.json) |
 | Totum | 268943 | [268943-totum.json](./268943-totum.json) |
@@ -25041,6 +25050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Farm HD | 175740 | [175740-tropical-farm-hd.json](./175740-tropical-farm-hd.json) |
 | Tropical Fish Shop 2 | 33298 | [33298-tropical-fish-shop-2.json](./33298-tropical-fish-shop-2.json) |
 | Tropical Hearts | 226444 | [226444-tropical-hearts.json](./226444-tropical-hearts.json) |
+| Tropical Heat Jet Ski Racing | 63155 | [63155-tropical-heat-jet-ski-racing.json](./63155-tropical-heat-jet-ski-racing.json) |
 | Tropical Princess - Makeup and Dressup Salon Game | 86855 | [86855-tropical-princess-makeup-and-dressup-salon-game.json](./86855-tropical-princess-makeup-and-dressup-salon-game.json) |
 | Tropical Resort Story | 208026 | [208026-tropical-resort-story.json](./208026-tropical-resort-story.json) |
 | Tropical Stormfront | 9442 | [9442-tropical-stormfront.json](./9442-tropical-stormfront.json) |
@@ -25857,6 +25867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Bullets | 311822 | [311822-turbo-bullets.json](./311822-turbo-bullets.json) |
 | Turbo Cat Fight | 223401 | [223401-turbo-cat-fight.json](./223401-turbo-cat-fight.json) |
 | Turbo Champ | 274365 | [274365-turbo-champ.json](./274365-turbo-champ.json) |
+| Turbo Chess | 63074 | [63074-turbo-chess.json](./63074-turbo-chess.json) |
 | Turbo Cup | 72328 | [72328-turbo-cup.json](./72328-turbo-cup.json) |
 | Turbo Dash | 329066 | [329066-turbo-dash.json](./329066-turbo-dash.json) |
 | Turbo Dash Kart 2023 Racing | 266065 | [266065-turbo-dash-kart-2023-racing.json](./266065-turbo-dash-kart-2023-racing.json) |
