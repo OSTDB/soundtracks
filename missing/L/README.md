@@ -6698,6 +6698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost World Sudoku | 245673 | [245673-lost-world-sudoku.json](./245673-lost-world-sudoku.json) |
 | Lost World Survivor | 348588 | [348588-lost-world-survivor.json](./348588-lost-world-survivor.json) |
 | Lost Worlds Prophecy | 95666 | [95666-lost-worlds-prophecy.json](./95666-lost-worlds-prophecy.json) |
+| Lost Yeti | 60312 | [60312-lost-yeti.json](./60312-lost-yeti.json) |
 | Lost Zion | 395555 | [395555-lost-zion.json](./395555-lost-zion.json) |
 | Lost: Find | 196118 | [196118-lost-find.json](./196118-lost-find.json) |
 | Lost:Smile Memories | 120778 | [120778-lost-smile-memories.json](./120778-lost-smile-memories.json) |
