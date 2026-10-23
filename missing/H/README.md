@@ -3644,6 +3644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellycoaster | 177453 | [177453-hellycoaster.json](./177453-hellycoaster.json) |
 | Helm Realm | 126497 | [126497-helm-realm.json](./126497-helm-realm.json) |
 | Helmet | 231727 | [231727-helmet.json](./231727-helmet.json) |
+| Helmet | 91702 | [91702-helmet.json](./91702-helmet.json) |
 | Helmet Head | 391662 | [391662-helmet-head.json](./391662-helmet-head.json) |
 | Helmet Heroes | 31383 | [31383-helmet-heroes.json](./31383-helmet-heroes.json) |
 | HelmetFire | 351265 | [351265-helmetfire.json](./351265-helmetfire.json) |
@@ -8913,6 +8914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Would You Survive? | 305381 | [305381-how-would-you-survive.json](./305381-how-would-you-survive.json) |
 | How Your Package Gets Delivered | 363437 | [363437-how-your-package-gets-delivered.json](./363437-how-your-package-gets-delivered.json) |
 | How!? | 258192 | [258192-how.json](./258192-how.json) |
+| Howard Dean for Iowa | 91812 | [91812-howard-dean-for-iowa.json](./91812-howard-dean-for-iowa.json) |
 | Howard the Duck: Adventure on Volcano Island | 28853 | [28853-howard-the-duck-adventure-on-volcano-island.json](./28853-howard-the-duck-adventure-on-volcano-island.json) |
 | Howdy, Jacob! | 148512 | [148512-howdy-jacob.json](./148512-howdy-jacob.json) |
 | Howdy! The Western Game | 100584 | [100584-howdy-the-western-game.json](./100584-howdy-the-western-game.json) |
