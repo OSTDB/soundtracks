@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Vault | 364389 | [364389-galactic-vault.json](./364389-galactic-vault.json) |
 | Galactic Veins | 346159 | [346159-galactic-veins.json](./346159-galactic-veins.json) |
 | Galactic Vibes | 336890 | [336890-galactic-vibes.json](./336890-galactic-vibes.json) |
+| Galactic War | 95294 | [95294-galactic-war.json](./95294-galactic-war.json) |
 | Galactic War One | 294034 | [294034-galactic-war-one.json](./294034-galactic-war-one.json) |
 | Galactic Warfare Collection | 414456 | [414456-galactic-warfare-collection.json](./414456-galactic-warfare-collection.json) |
 | Galactic Warp | 178637 | [178637-galactic-warp.json](./178637-galactic-warp.json) |
@@ -5135,6 +5136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Boy! | 103122 | [103122-golf-boy.json](./103122-golf-boy.json) |
 | Golf by the Way | 265350 | [265350-golf-by-the-way.json](./265350-golf-by-the-way.json) |
 | Golf Card Game | 104485 | [104485-golf-card-game.json](./104485-golf-card-game.json) |
+| Golf Cart Drive | 95245 | [95245-golf-cart-drive.json](./95245-golf-cart-drive.json) |
 | Golf Cart Race | 105919 | [105919-golf-cart-race.json](./105919-golf-cart-race.json) |
 | Golf Clash | 56902 | [56902-golf-clash.json](./56902-golf-clash.json) |
 | Golf Club Architect | 190909 | [190909-golf-club-architect.json](./190909-golf-club-architect.json) |
