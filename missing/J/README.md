@@ -1163,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match: Snowscapes | 337274 | [337274-jewel-match-snowscapes.json](./337274-jewel-match-snowscapes.json) |
 | Jewel Match: Solitaire Seasons - Collector's Edition | 309503 | [309503-jewel-match-solitaire-seasons-collectors-edition.json](./309503-jewel-match-solitaire-seasons-collectors-edition.json) |
 | Jewel Match: Twilight 3 - Collector's Edition | 159026 | [159026-jewel-match-twilight-3-collectors-edition.json](./159026-jewel-match-twilight-3-collectors-edition.json) |
+| Jewel Matrix | 77763 | [77763-jewel-matrix.json](./77763-jewel-matrix.json) |
 | Jewel Monsters | 213811 | [213811-jewel-monsters.json](./213811-jewel-monsters.json) |
 | Jewel of Arabia: Dreamers | 139124 | [139124-jewel-of-arabia-dreamers.json](./139124-jewel-of-arabia-dreamers.json) |
 | Jewel of Clementia | 248668 | [248668-jewel-of-clementia.json](./248668-jewel-of-clementia.json) |
@@ -1683,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jìng Shìjiè | 188441 | [188441-jing-shijie.json](./188441-jing-shijie.json) |
 | Jinga Online | 125064 | [125064-jinga-online.json](./125064-jinga-online.json) |
 | Jingai Makyou | 70612 | [70612-jingai-makyou.json](./70612-jingai-makyou.json) |
+| Jingi Storm: The Arcade | 77813 | [77813-jingi-storm-the-arcade.json](./77813-jingi-storm-the-arcade.json) |
 | Jìngjiè 2: Qiánkūn Yī Zhì | 373687 | [373687-jingjie-2-qiankun-yi-zhi.json](./373687-jingjie-2-qiankun-yi-zhi.json) |
 | Jingle | 81694 | [81694-jingle.json](./81694-jingle.json) |
 | Jingle Cats | 63293 | [63293-jingle-cats.json](./63293-jingle-cats.json) |
