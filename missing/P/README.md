@@ -1492,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parachute | 231725 | [231725-parachute.json](./231725-parachute.json) |
 | Parachute | 40678 | [40678-parachute.json](./40678-parachute.json) |
 | Parachute 22 | 205098 | [205098-parachute-22.json](./205098-parachute-22.json) |
+| Parachute Frog | 95900 | [95900-parachute-frog.json](./95900-parachute-frog.json) |
 | Parachute Ninja | 232671 | [232671-parachute-ninja.json](./232671-parachute-ninja.json) |
 | Paracom | 384535 | [384535-paracom.json](./384535-paracom.json) |
 | Paracreat | 199304 | [199304-paracreat.json](./199304-paracreat.json) |
@@ -9364,6 +9365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Stories | 28225 | [28225-police-stories.json](./28225-police-stories.json) |
 | Police Stories: The Academy | 211037 | [211037-police-stories-the-academy.json](./211037-police-stories-the-academy.json) |
 | Police Stories: Zombie Case | 195756 | [195756-police-stories-zombie-case.json](./195756-police-stories-zombie-case.json) |
+| Police Story | 95788 | [95788-police-story.json](./95788-police-story.json) |
 | Police Tactical Training | 57657 | [57657-police-tactical-training.json](./57657-police-tactical-training.json) |
 | Police Train Prison Transport | 88420 | [88420-police-train-prison-transport.json](./88420-police-train-prison-transport.json) |
 | Police Trainer | 39838 | [39838-police-trainer.json](./39838-police-trainer.json) |
@@ -11138,6 +11140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty In Pink | 72990 | [72990-pretty-in-pink.json](./72990-pretty-in-pink.json) |
 | Pretty Kingdom | 360116 | [360116-pretty-kingdom.json](./360116-pretty-kingdom.json) |
 | Pretty Kitty Fuzzy | 216949 | [216949-pretty-kitty-fuzzy.json](./216949-pretty-kitty-fuzzy.json) |
+| Pretty Liars: Secret Forbidden Love Story Games | 95815 | [95815-pretty-liars-secret-forbidden-love-story-games.json](./95815-pretty-liars-secret-forbidden-love-story-games.json) |
 | Pretty Neko | 159243 | [159243-pretty-neko.json](./159243-pretty-neko.json) |
 | Pretty Ninja Himekage | 220327 | [220327-pretty-ninja-himekage.json](./220327-pretty-ninja-himekage.json) |
 | Pretty Overseer | 232964 | [232964-pretty-overseer.json](./232964-pretty-overseer.json) |
@@ -14424,6 +14427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Monarch: Nile River | 109334 | [109334-puzzle-monarch-nile-river.json](./109334-puzzle-monarch-nile-river.json) |
 | Puzzle Monarch: Vampires | 106446 | [106446-puzzle-monarch-vampires.json](./106446-puzzle-monarch-vampires.json) |
 | Puzzle Monkeys | 85583 | [85583-puzzle-monkeys.json](./85583-puzzle-monkeys.json) |
+| Puzzle My Mind | 95821 | [95821-puzzle-my-mind.json](./95821-puzzle-my-mind.json) |
 | Puzzle Myth | 93374 | [93374-puzzle-myth.json](./93374-puzzle-myth.json) |
 | Puzzle Nebula | 32165 | [32165-puzzle-nebula.json](./32165-puzzle-nebula.json) |
 | Puzzle Nintama Rantarou | 37871 | [37871-puzzle-nintama-rantarou.json](./37871-puzzle-nintama-rantarou.json) |
