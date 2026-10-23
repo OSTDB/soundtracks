@@ -746,7 +746,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6043,7 +6042,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Watermelon | 149358 | [149358-big-watermelon.json](./149358-big-watermelon.json) |
 | Big Watermelon Galaxy | 420677 | [420677-big-watermelon-galaxy.json](./420677-big-watermelon-galaxy.json) |
 | Big Watermelon Match | 283295 | [283295-big-watermelon-match.json](./283295-big-watermelon-match.json) |
+| Big Win Football 2015 | 59629 | [59629-big-win-football-2015.json](./59629-big-win-football-2015.json) |
 | Big Win Football 2019 | 108590 | [108590-big-win-football-2019.json](./108590-big-win-football-2019.json) |
+| Big Win Hockey | 59627 | [59627-big-win-hockey.json](./59627-big-win-hockey.json) |
+| Big Win Soccer | 59624 | [59624-big-win-soccer.json](./59624-big-win-soccer.json) |
 | Big Yeetus | 260096 | [260096-big-yeetus.json](./260096-big-yeetus.json) |
 | Big-Battle Tanks | 388220 | [388220-big-battle-tanks.json](./388220-big-battle-tanks.json) |
 | Big-Time Butter Baron | 313178 | [313178-big-time-butter-baron.json](./313178-big-time-butter-baron.json) |
@@ -11421,6 +11423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Games Mahjongg | 25011 | [25011-brain-games-mahjongg.json](./25011-brain-games-mahjongg.json) |
 | Brain Games: Brain Puzzles 2 | 206481 | [206481-brain-games-brain-puzzles-2.json](./206481-brain-games-brain-puzzles-2.json) |
 | Brain Games: Numbers Blast | 60384 | [60384-brain-games-numbers-blast.json](./60384-brain-games-numbers-blast.json) |
+| Brain Guzzlers from Beyond! | 59711 | [59711-brain-guzzlers-from-beyond.json](./59711-brain-guzzlers-from-beyond.json) |
 | Brain Hack Squad | 350026 | [350026-brain-hack-squad.json](./350026-brain-hack-squad.json) |
 | Brain Hole Girls | 242488 | [242488-brain-hole-girls.json](./242488-brain-hole-girls.json) |
 | Brain Hotel: Remodeled | 274951 | [274951-brain-hotel-remodeled.json](./274951-brain-hotel-remodeled.json) |
