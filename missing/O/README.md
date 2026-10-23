@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occult Crime Police | 178899 | [178899-occult-crime-police.json](./178899-occult-crime-police.json) |
 | Occult PreRaise | 74980 | [74980-occult-preraise.json](./74980-occult-preraise.json) |
 | Occult Raise | 43110 | [43110-occult-raise.json](./43110-occult-raise.json) |
+| Occult ReRaise | 54860 | [54860-occult-reraise.json](./54860-occult-reraise.json) |
 | Occult: Satanic interrogation | 174574 | [174574-occult-satanic-interrogation.json](./174574-occult-satanic-interrogation.json) |
 | Occult: Scarlet Elegy | 404973 | [404973-occult-scarlet-elegy.json](./404973-occult-scarlet-elegy.json) |
 | OcculThieves | 272374 | [272374-occulthieves.json](./272374-occulthieves.json) |
@@ -2865,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ophelia's Chapter | 272327 | [272327-ophelias-chapter.json](./272327-ophelias-chapter.json) |
 | Ophelia´s Paradise | 400313 | [400313-ophelia-s-paradise.json](./400313-ophelia-s-paradise.json) |
 | Ophidia | 36523 | [36523-ophidia.json](./36523-ophidia.json) |
+| Ophidian | 54856 | [54856-ophidian.json](./54856-ophidian.json) |
 | Ophidian Wars: Opac's Journey | 66491 | [66491-ophidian-wars-opacs-journey.json](./66491-ophidian-wars-opacs-journey.json) |
 | Opi Popi | 398690 | [398690-opi-popi.json](./398690-opi-popi.json) |
 | Opia | 322946 | [322946-opia.json](./322946-opia.json) |
@@ -3174,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order from Caos 2 | 194897 | [194897-order-from-caos-2.json](./194897-order-from-caos-2.json) |
 | Order Land | 222494 | [222494-order-land.json](./222494-order-land.json) |
 | Order matters | 26486 | [26486-order-matters.json](./26486-order-matters.json) |
+| Order of Ataxia: Initial Effects | 54800 | [54800-order-of-ataxia-initial-effects.json](./54800-order-of-ataxia-initial-effects.json) |
 | Order of Battle: Allies Defiant | 154565 | [154565-order-of-battle-allies-defiant.json](./154565-order-of-battle-allies-defiant.json) |
 | Order of Battle: Allies Victorious | 220614 | [220614-order-of-battle-allies-victorious.json](./220614-order-of-battle-allies-victorious.json) |
 | Order of Battle: Blitzkrieg | 118966 | [118966-order-of-battle-blitzkrieg.json](./118966-order-of-battle-blitzkrieg.json) |
@@ -3609,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Othello | 25159 | [25159-othello.json](./25159-othello.json) |
 | Othello | 341376 | [341376-othello.json](./341376-othello.json) |
 | Othello | 408869 | [408869-othello.json](./408869-othello.json) |
+| Othello | 54795 | [54795-othello.json](./54795-othello.json) |
 | Othello | 54937 | [54937-othello.json](./54937-othello.json) |
 | Othello | 79732 | [79732-othello.json](./79732-othello.json) |
 | Othello 2018 | 104147 | [104147-othello-2018.json](./104147-othello-2018.json) |
