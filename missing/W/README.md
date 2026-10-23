@@ -4638,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winglet | 299172 | [299172-winglet.json](./299172-winglet.json) |
 | WingMan | 216484 | [216484-wingman.json](./216484-wingman.json) |
 | Wingman 2: Kitakura no Fukkatsu | 84335 | [84335-wingman-2-kitakura-no-fukkatsu.json](./84335-wingman-2-kitakura-no-fukkatsu.json) |
+| Wingman Special: Saraba Yume Senshi | 80303 | [80303-wingman-special-saraba-yume-senshi.json](./80303-wingman-special-saraba-yume-senshi.json) |
 | Wingmen | 349940 | [349940-wingmen.json](./349940-wingmen.json) |
 | WingMen | 81908 | [81908-wingmen.json](./81908-wingmen.json) |
 | Wingmine | 388339 | [388339-wingmine.json](./388339-wingmine.json) |
