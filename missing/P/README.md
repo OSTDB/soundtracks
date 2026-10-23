@@ -2630,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PAWG Runner: A NSFW Platformer | 322634 | [322634-pawg-runner-a-nsfw-platformer.json](./322634-pawg-runner-a-nsfw-platformer.json) |
 | Pawker | 359528 | [359528-pawker.json](./359528-pawker.json) |
 | PawlleyBall | 390566 | [390566-pawlleyball.json](./390566-pawlleyball.json) |
+| Pawly Pets: My Vet Practice | 47807 | [47807-pawly-pets-my-vet-practice.json](./47807-pawly-pets-my-vet-practice.json) |
 | PawMart Tiny Market | 406833 | [406833-pawmart-tiny-market.json](./406833-pawmart-tiny-market.json) |
 | Pawn of the Dead | 107909 | [107909-pawn-of-the-dead.json](./107909-pawn-of-the-dead.json) |
 | Pawn Planet: First Sales | 306351 | [306351-pawn-planet-first-sales.json](./306351-pawn-planet-first-sales.json) |
@@ -4423,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phineas & Ferb: Best Game Ever! | 220259 | [220259-phineas-and-ferb-best-game-ever.json](./220259-phineas-and-ferb-best-game-ever.json) |
 | Phineas & Ferb: Day of Doofensmirtz | 42667 | [42667-phineas-and-ferb-day-of-doofensmirtz.json](./42667-phineas-and-ferb-day-of-doofensmirtz.json) |
 | Phineas and Ferb | 230397 | [230397-phineas-and-ferb.json](./230397-phineas-and-ferb.json) |
+| Phineas and Ferb | 47788 | [47788-phineas-and-ferb.json](./47788-phineas-and-ferb.json) |
 | Phineas and Ferb Arcade | 361713 | [361713-phineas-and-ferb-arcade.json](./361713-phineas-and-ferb-arcade.json) |
 | Phineas and Ferb: Across the Second Dimension | 291548 | [291548-phineas-and-ferb-across-the-second-dimension.json](./291548-phineas-and-ferb-across-the-second-dimension.json) |
 | Phineas and Ferb: Across the Second Dimension | 52668 | [52668-phineas-and-ferb-across-the-second-dimension.json](./52668-phineas-and-ferb-across-the-second-dimension.json) |
@@ -7689,6 +7691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platinum Pinball | 131266 | [131266-platinum-pinball.json](./131266-platinum-pinball.json) |
 | Platinum Solitaire 3 | 239473 | [239473-platinum-solitaire-3.json](./239473-platinum-solitaire-3.json) |
 | Platinum Sudoku | 263322 | [263322-platinum-sudoku.json](./263322-platinum-sudoku.json) |
+| Platinum Sudoku | 47779 | [47779-platinum-sudoku.json](./47779-platinum-sudoku.json) |
 | Platinum Train: Nihon Juudan Tetsudou no Tabi | 98840 | [98840-platinum-train-nihon-juudan-tetsudou-no-tabi.json](./98840-platinum-train-nihon-juudan-tetsudou-no-tabi.json) |
 | Platinum White | 307137 | [307137-platinum-white.json](./307137-platinum-white.json) |
 | Plato | 86967 | [86967-plato.json](./86967-plato.json) |
@@ -8258,6 +8261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Monsters Advanced Generation: Minna de Pico Pokémon Waiwai Battle! | 63048 | [63048-pocket-monsters-advanced-generation-minna-de-pico-pokemon-waiwai-battle.json](./63048-pocket-monsters-advanced-generation-minna-de-pico-pokemon-waiwai-battle.json) |
 | Pocket Monsters Diamond & Pearl: Pokémon wo Sagase! Meiro de Daibouken! | 125325 | [125325-pocket-monsters-diamond-and-pearl-pokemon-wo-sagase-meiro-de-daibouken.json](./125325-pocket-monsters-diamond-and-pearl-pokemon-wo-sagase-meiro-de-daibouken.json) |
 | Pocket Monsters RPG | 130335 | [130335-pocket-monsters-rpg.json](./130335-pocket-monsters-rpg.json) |
+| Pocket Monsters Stadium | 47734 | [47734-pocket-monsters-stadium.json](./47734-pocket-monsters-stadium.json) |
 | Pocket Monsters: Suuji wo Tsukamaeyou! | 63849 | [63849-pocket-monsters-suuji-wo-tsukamaeyou.json](./63849-pocket-monsters-suuji-wo-tsukamaeyou.json) |
 | Pocket Mortys | 16306 | [16306-pocket-mortys.json](./16306-pocket-mortys.json) |
 | Pocket Music | 98797 | [98797-pocket-music.json](./98797-pocket-music.json) |
@@ -14809,6 +14813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzler | 104252 | [104252-puzzler.json](./104252-puzzler.json) |
 | Puzzler Brain Games | 84788 | [84788-puzzler-brain-games.json](./84788-puzzler-brain-games.json) |
 | Puzzler Clover | 69300 | [69300-puzzler-clover.json](./69300-puzzler-clover.json) |
+| Puzzler Collection | 47726 | [47726-puzzler-collection.json](./47726-puzzler-collection.json) |
 | Puzzler King | 97261 | [97261-puzzler-king.json](./97261-puzzler-king.json) |
 | Puzzler Mind Gym 3D | 21571 | [21571-puzzler-mind-gym-3d.json](./21571-puzzler-mind-gym-3d.json) |
 | Puzzler World | 308990 | [308990-puzzler-world.json](./308990-puzzler-world.json) |
