@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Mini: Zombies 2 | 233407 | [233407-call-of-mini-zombies-2.json](./233407-call-of-mini-zombies-2.json) |
 | Call of Myth | 153969 | [153969-call-of-myth.json](./153969-call-of-myth.json) |
 | Call of Nature: Jigsaw Puzzle | 103531 | [103531-call-of-nature-jigsaw-puzzle.json](./103531-call-of-nature-jigsaw-puzzle.json) |
+| Call of Nightmare | 72499 | [72499-call-of-nightmare.json](./72499-call-of-nightmare.json) |
 | Call of Otechestvo Donbass | 117636 | [117636-call-of-otechestvo-donbass.json](./117636-call-of-otechestvo-donbass.json) |
 | Call of Outlaws | 256734 | [256734-call-of-outlaws.json](./256734-call-of-outlaws.json) |
 | Call of Pixel: Close Quarters | 112948 | [112948-call-of-pixel-close-quarters.json](./112948-call-of-pixel-close-quarters.json) |
@@ -1417,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Edward Continues | 341544 | [341544-captain-edward-continues.json](./341544-captain-edward-continues.json) |
 | Captain Explosion | 179152 | [179152-captain-explosion.json](./179152-captain-explosion.json) |
 | Captain Firat | 360737 | [360737-captain-firat.json](./360737-captain-firat.json) |
+| Captain Firebeard and the Bay of Crows | 72496 | [72496-captain-firebeard-and-the-bay-of-crows.json](./72496-captain-firebeard-and-the-bay-of-crows.json) |
 | Captain Fizz Meets the Blaster-Trons | 14376 | [14376-captain-fizz-meets-the-blaster-trons.json](./14376-captain-fizz-meets-the-blaster-trons.json) |
 | Captain Fly and Sexy Students | 384874 | [384874-captain-fly-and-sexy-students.json](./384874-captain-fly-and-sexy-students.json) |
 | Captain Flying Robot | 90666 | [90666-captain-flying-robot.json](./90666-captain-flying-robot.json) |
@@ -2032,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo | 312566 | [312566-cargo.json](./312566-cargo.json) |
 | Cargo 19 | 325632 | [325632-cargo-19.json](./325632-cargo-19.json) |
 | Cargo Breach | 372575 | [372575-cargo-breach.json](./372575-cargo-breach.json) |
+| Cargo Breach | 72511 | [72511-cargo-breach.json](./72511-cargo-breach.json) |
 | Cargo Bridge | 233767 | [233767-cargo-bridge.json](./233767-cargo-bridge.json) |
 | Cargo Bridge 2 | 197233 | [197233-cargo-bridge-2.json](./197233-cargo-bridge-2.json) |
 | Cargo Company | 148504 | [148504-cargo-company.json](./148504-cargo-company.json) |
@@ -13759,6 +13762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Ops | 28896 | [28896-critical-ops.json](./28896-critical-ops.json) |
 | Critical Ops: Dead Zone | 372739 | [372739-critical-ops-dead-zone.json](./372739-critical-ops-dead-zone.json) |
 | Critical Ops: Reloaded | 233491 | [233491-critical-ops-reloaded.json](./233491-critical-ops-reloaded.json) |
+| Critical Path | 72521 | [72521-critical-path.json](./72521-critical-path.json) |
 | Critical Point | 337490 | [337490-critical-point.json](./337490-critical-point.json) |
 | Critical Shift | 344467 | [344467-critical-shift.json](./344467-critical-shift.json) |
 | Critical Slash | 197798 | [197798-critical-slash.json](./197798-critical-slash.json) |
@@ -15545,6 +15549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed House Match 3 Puzzle | 246855 | [246855-cursed-house-match-3-puzzle.json](./246855-cursed-house-match-3-puzzle.json) |
 | Cursed Island | 176289 | [176289-cursed-island.json](./176289-cursed-island.json) |
 | Cursed Island | 189342 | [189342-cursed-island.json](./189342-cursed-island.json) |
+| Cursed Isles | 72514 | [72514-cursed-isles.json](./72514-cursed-isles.json) |
 | Cursed Land | 297237 | [297237-cursed-land.json](./297237-cursed-land.json) |
 | Cursed Lands | 80935 | [80935-cursed-lands.json](./80935-cursed-lands.json) |
 | Cursed Legacy | 370707 | [370707-cursed-legacy.json](./370707-cursed-legacy.json) |
