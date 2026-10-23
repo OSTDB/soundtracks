@@ -5489,6 +5489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Likes Please: Historic Weapons Pack | 290789 | [290789-five-likes-please-historic-weapons-pack.json](./290789-five-likes-please-historic-weapons-pack.json) |
 | Five Likes Please: Neon Pack | 290788 | [290788-five-likes-please-neon-pack.json](./290788-five-likes-please-neon-pack.json) |
 | Five little monkeys jumping on the bed for toddler | 102636 | [102636-five-little-monkeys-jumping-on-the-bed-for-toddler.json](./102636-five-little-monkeys-jumping-on-the-bed-for-toddler.json) |
+| Five Magical Amulets | 72525 | [72525-five-magical-amulets.json](./72525-five-magical-amulets.json) |
 | Five Mysterious Murders | 374759 | [374759-five-mysterious-murders.json](./374759-five-mysterious-murders.json) |
 | Five Nations | 146675 | [146675-five-nations.json](./146675-five-nations.json) |
 | Five Nations: Renegades | 259059 | [259059-five-nations-renegades.json](./259059-five-nations-renegades.json) |
