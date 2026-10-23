@@ -4117,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glover | 193728 | [193728-glover.json](./193728-glover.json) |
 | Glover | 193729 | [193729-glover.json](./193729-glover.json) |
 | Glover | 3348 | [3348-glover.json](./3348-glover.json) |
+| Glover 2 | 47749 | [47749-glover-2.json](./47749-glover-2.json) |
 | Glover: Collector's Edition | 207051 | [207051-glover-collectors-edition.json](./207051-glover-collectors-edition.json) |
 | Glow | 180567 | [180567-glow.json](./180567-glow.json) |
 | Glow | 32346 | [32346-glow.json](./32346-glow.json) |
