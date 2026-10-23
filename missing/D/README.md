@@ -6140,6 +6140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detectivez | 113683 | [113683-detectivez.json](./113683-detectivez.json) |
 | Detector | 68349 | [68349-detector.json](./68349-detector.json) |
 | Detector Island: A Metal Detecting Game | 106005 | [106005-detector-island-a-metal-detecting-game.json](./106005-detector-island-a-metal-detecting-game.json) |
+| Detektiv Brown - Ein eiskalter Mord | 85942 | [85942-detektiv-brown-ein-eiskalter-mord.json](./85942-detektiv-brown-ein-eiskalter-mord.json) |
 | Detention | 26776 | [26776-detention.json](./26776-detention.json) |
 | Detention | 320745 | [320745-detention.json](./320745-detention.json) |
 | Detention Club: School's Out | 167813 | [167813-detention-club-schools-out.json](./167813-detention-club-schools-out.json) |
@@ -8816,6 +8817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do You See Sparky? | 242484 | [242484-do-you-see-sparky.json](./242484-do-you-see-sparky.json) |
 | Do You See the Waving Cape | 150391 | [150391-do-you-see-the-waving-cape.json](./150391-do-you-see-the-waving-cape.json) |
 | Do You Want More!? | 203938 | [203938-do-you-want-more.json](./203938-do-you-want-more.json) |
+| Do-Do | 85924 | [85924-do-do.json](./85924-do-do.json) |
 | Do-Konjou Shougakusei: Bon Bita - Hadaka no Choujou Ketsusen!! Bita vs. Dokuro Dei! | 269574 | [269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json](./269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json) |
 | Do-M Imouto O-nedari Kojin Lesson: Watashi no Sex Katei-kyoushi Oniichan | 108917 | [108917-do-m-imouto-o-nedari-kojin-lesson-watashi-no-sex-katei-kyoushi-oniichan.json](./108917-do-m-imouto-o-nedari-kojin-lesson-watashi-no-sex-katei-kyoushi-oniichan.json) |
 | Do! Run Run | 12729 | [12729-do-run-run.json](./12729-do-run-run.json) |
@@ -10449,6 +10451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora Moji: Nobita no Kanji Daisakusen | 142285 | [142285-dora-moji-nobita-no-kanji-daisakusen.json](./142285-dora-moji-nobita-no-kanji-daisakusen.json) |
 | Dora Star Explorer | 406776 | [406776-dora-star-explorer.json](./406776-dora-star-explorer.json) |
 | Dora the Explorer | 221672 | [221672-dora-the-explorer.json](./221672-dora-the-explorer.json) |
+| Dora the Explorer | 85887 | [85887-dora-the-explorer.json](./85887-dora-the-explorer.json) |
 | Dora the Explorer: 3D Driving Adventure | 251365 | [251365-dora-the-explorer-3d-driving-adventure.json](./251365-dora-the-explorer-3d-driving-adventure.json) |
 | Dora the Explorer: 3D Pyramid Adventure | 391654 | [391654-dora-the-explorer-3d-pyramid-adventure.json](./391654-dora-the-explorer-3d-pyramid-adventure.json) |
 | Dora the Explorer: Adventures 3-Pack | 100113 | [100113-dora-the-explorer-adventures-3-pack.json](./100113-dora-the-explorer-adventures-3-pack.json) |
@@ -10496,6 +10499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon no Eawase Montage | 349436 | [349436-doraemon-no-eawase-montage.json](./349436-doraemon-no-eawase-montage.json) |
 | Doraemon no Eawase Montage | 376530 | [376530-doraemon-no-eawase-montage.json](./376530-doraemon-no-eawase-montage.json) |
 | Doraemon no Game Boy de Asobou yo Deluxe 10 | 91778 | [91778-doraemon-no-game-boy-de-asobou-yo-deluxe-10.json](./91778-doraemon-no-game-boy-de-asobou-yo-deluxe-10.json) |
+| Doraemon no Quiz Boy 2 | 85933 | [85933-doraemon-no-quiz-boy-2.json](./85933-doraemon-no-quiz-boy-2.json) |
 | Doraemon no Study Boy: Kuku Game | 65537 | [65537-doraemon-no-study-boy-kuku-game.json](./65537-doraemon-no-study-boy-kuku-game.json) |
 | Doraemon Pocket Drill Moji Quiz | 310524 | [310524-doraemon-pocket-drill-moji-quiz.json](./310524-doraemon-pocket-drill-moji-quiz.json) |
 | Doraemon Step-Up PC | 314372 | [314372-doraemon-step-up-pc.json](./314372-doraemon-step-up-pc.json) |
