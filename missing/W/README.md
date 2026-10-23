@@ -3193,7 +3193,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -3806,6 +3805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Are You? | 169439 | [169439-who-are-you.json](./169439-who-are-you.json) |
 | Who Dares Wins | 360149 | [360149-who-dares-wins.json](./360149-who-dares-wins.json) |
 | Who Dares Wins II | 26283 | [26283-who-dares-wins-ii.json](./26283-who-dares-wins-ii.json) |
+| Who Did I Date Last Night? | 67784 | [67784-who-did-i-date-last-night.json](./67784-who-did-i-date-last-night.json) |
 | Who Did It? | 258326 | [258326-who-did-it.json](./258326-who-did-it.json) |
 | Who Dies First? | 318856 | [318856-who-dies-first.json](./318856-who-dies-first.json) |
 | Who Dies Last? | 214169 | [214169-who-dies-last.json](./214169-who-dies-last.json) |
