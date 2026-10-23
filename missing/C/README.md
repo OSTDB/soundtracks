@@ -3897,6 +3897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CD 2: Trap Master | 244668 | [244668-cd-2-trap-master.json](./244668-cd-2-trap-master.json) |
 | CD Battle: Hikari no Yuushi-tachi | 267948 | [267948-cd-battle-hikari-no-yuushi-tachi.json](./267948-cd-battle-hikari-no-yuushi-tachi.json) |
 | CD Exchange Volume 1 | 131873 | [131873-cd-exchange-volume-1.json](./131873-cd-exchange-volume-1.json) |
+| CD Shoot | 77149 | [77149-cd-shoot.json](./77149-cd-shoot.json) |
 | CD-i Donkey Kong Game | 231479 | [231479-cd-i-donkey-kong-game.json](./231479-cd-i-donkey-kong-game.json) |
 | CD-i Golgo 13 | 218002 | [218002-cd-i-golgo-13.json](./218002-cd-i-golgo-13.json) |
 | CD-Man | 215186 | [215186-cd-man.json](./215186-cd-man.json) |
@@ -8445,6 +8446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cludbugz Twisted Magic | 180059 | [180059-cludbugz-twisted-magic.json](./180059-cludbugz-twisted-magic.json) |
 | Cludbugz's Twisted Magic | 51969 | [51969-cludbugzs-twisted-magic.json](./51969-cludbugzs-twisted-magic.json) |
 | Clue | 206977 | [206977-clue.json](./206977-clue.json) |
+| Clue | 77150 | [77150-clue.json](./77150-clue.json) |
 | Clue / Mouse Trap / Perfection / Aggravation | 90926 | [90926-clue-mouse-trap-perfection-aggravation.json](./90926-clue-mouse-trap-perfection-aggravation.json) |
 | Clue Classic | 47075 | [47075-clue-classic.json](./47075-clue-classic.json) |
 | Clue Kaguya-sama: Love is War | 262363 | [262363-clue-kaguya-sama-love-is-war.json](./262363-clue-kaguya-sama-love-is-war.json) |
@@ -8665,6 +8667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocoto Kart Online | 248487 | [248487-cocoto-kart-online.json](./248487-cocoto-kart-online.json) |
 | Cocoto Kart Racer | 248485 | [248485-cocoto-kart-racer.json](./248485-cocoto-kart-racer.json) |
 | Cocoto Kart Racer | 248486 | [248486-cocoto-kart-racer.json](./248486-cocoto-kart-racer.json) |
+| Cocoto Kit For Kids | 77122 | [77122-cocoto-kit-for-kids.json](./77122-cocoto-kit-for-kids.json) |
 | Cocoto Magic Circus 2 | 61861 | [61861-cocoto-magic-circus-2.json](./61861-cocoto-magic-circus-2.json) |
 | Cocoto Platform Jumper | 248499 | [248499-cocoto-platform-jumper.json](./248499-cocoto-platform-jumper.json) |
 | Cocoto Tennis Master | 80476 | [80476-cocoto-tennis-master.json](./80476-cocoto-tennis-master.json) |
