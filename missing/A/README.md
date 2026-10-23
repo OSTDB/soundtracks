@@ -3142,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aethelgard: Galactic Guardian | 404804 | [404804-aethelgard-galactic-guardian.json](./404804-aethelgard-galactic-guardian.json) |
 | Aether | 254916 | [254916-aether.json](./254916-aether.json) |
 | Aether | 280472 | [280472-aether.json](./280472-aether.json) |
+| Aether | 65351 | [65351-aether.json](./65351-aether.json) |
 | Aether & Iron | 335238 | [335238-aether-and-iron.json](./335238-aether-and-iron.json) |
 | Aether Collector | 316456 | [316456-aether-collector.json](./316456-aether-collector.json) |
 | Aether Crown | 405616 | [405616-aether-crown.json](./405616-aether-crown.json) |
