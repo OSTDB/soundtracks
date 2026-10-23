@@ -4206,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Puzzle: String Art | 107579 | [107579-line-puzzle-string-art.json](./107579-line-puzzle-string-art.json) |
 | Line Rangers | 130565 | [130565-line-rangers.json](./130565-line-rangers.json) |
 | Line Rider | 28810 | [28810-line-rider.json](./28810-line-rider.json) |
+| Line Rider iRide | 92355 | [92355-line-rider-iride.json](./92355-line-rider-iride.json) |
 | Line Rider JavaScript | 58115 | [58115-line-rider-javascript.json](./58115-line-rider-javascript.json) |
 | Line Rider: Freestyle | 54163 | [54163-line-rider-freestyle.json](./54163-line-rider-freestyle.json) |
 | Line Runner 2 | 90401 | [90401-line-runner-2.json](./90401-line-runner-2.json) |
