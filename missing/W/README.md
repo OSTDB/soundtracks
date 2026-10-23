@@ -5949,6 +5949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Maker | 122627 | [122627-word-maker.json](./122627-word-maker.json) |
 | Word Maker | 377140 | [377140-word-maker.json](./377140-word-maker.json) |
 | Word Maze 2 by Powgi | 140418 | [140418-word-maze-2-by-powgi.json](./140418-word-maze-2-by-powgi.json) |
+| Word Maze by Powgi | 97167 | [97167-word-maze-by-powgi.json](./97167-word-maze-by-powgi.json) |
 | Word Mesh | 120072 | [120072-word-mesh.json](./120072-word-mesh.json) |
 | Word Mess | 91982 | [91982-word-mess.json](./91982-word-mess.json) |
 | Word Monaco | 205881 | [205881-word-monaco.json](./205881-word-monaco.json) |
@@ -6011,6 +6012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Searcher 3 | 84962 | [84962-word-searcher-3.json](./84962-word-searcher-3.json) |
 | Word Searcher 4 | 84939 | [84939-word-searcher-4.json](./84939-word-searcher-4.json) |
 | Word Seek English Unlimited | 103874 | [103874-word-seek-english-unlimited.json](./103874-word-seek-english-unlimited.json) |
+| Word Shaker HD | 97195 | [97195-word-shaker-hd.json](./97195-word-shaker-hd.json) |
 | Word Shop - Brain Puzzle Games | 101487 | [101487-word-shop-brain-puzzle-games.json](./101487-word-shop-brain-puzzle-games.json) |
 | Word Shot | 119424 | [119424-word-shot.json](./119424-word-shot.json) |
 | Word Shuffle | 108263 | [108263-word-shuffle.json](./108263-word-shuffle.json) |
@@ -6045,6 +6047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Twist! | 241197 | [241197-word-twist.json](./241197-word-twist.json) |
 | Word U | 104600 | [104600-word-u.json](./104600-word-u.json) |
 | Word Vs Picture | 232478 | [232478-word-vs-picture.json](./232478-word-vs-picture.json) |
+| Word Waddle | 97196 | [97196-word-waddle.json](./97196-word-waddle.json) |
 | Word Waffle - Word Swipe Game | 107048 | [107048-word-waffle-word-swipe-game.json](./107048-word-waffle-word-swipe-game.json) |
 | Word War Vi | 242591 | [242591-word-war-vi.json](./242591-word-war-vi.json) |
 | Word Warp | 377139 | [377139-word-warp.json](./377139-word-warp.json) |
