@@ -2188,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaction Rally | 64251 | [64251-reaction-rally.json](./64251-reaction-rally.json) |
 | Reaction: Block Buster | 61132 | [61132-reaction-block-buster.json](./61132-reaction-block-buster.json) |
 | Reactivated | 117378 | [117378-reactivated.json](./117378-reactivated.json) |
+| Reactoid | 44336 | [44336-reactoid.json](./44336-reactoid.json) |
 | Reactor | 18545 | [18545-reactor.json](./18545-reactor.json) |
 | Reactor 09 | 123596 | [123596-reactor-09.json](./123596-reactor-09.json) |
 | Reactor Critical | 406651 | [406651-reactor-critical.json](./406651-reactor-critical.json) |
@@ -2219,8 +2220,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reading Blaster 2000 | 10676 | [10676-reading-blaster-2000.json](./10676-reading-blaster-2000.json) |
 | Reading Blaster: Ages 9-12 | 191530 | [191530-reading-blaster-ages-9-12.json](./191530-reading-blaster-ages-9-12.json) |
 | Reading Blaster: Invasion of the Word Snatchers | 10674 | [10674-reading-blaster-invasion-of-the-word-snatchers.json](./10674-reading-blaster-invasion-of-the-word-snatchers.json) |
+| Reading Fun | 44360 | [44360-reading-fun.json](./44360-reading-fun.json) |
 | Reading Raven | 104090 | [104090-reading-raven.json](./104090-reading-raven.json) |
 | Reading Recipes: Grandma Ollie's Morphabet Soup | 209738 | [209738-reading-recipes-grandma-ollies-morphabet-soup.json](./209738-reading-recipes-grandma-ollies-morphabet-soup.json) |
+| Reading Roundup | 44361 | [44361-reading-roundup.json](./44361-reading-roundup.json) |
 | Reading Simulator | 81809 | [81809-reading-simulator.json](./81809-reading-simulator.json) |
 | Reading World VR | 296082 | [296082-reading-world-vr.json](./296082-reading-world-vr.json) |
 | Ready 2 Rumble Boxing | 217944 | [217944-ready-2-rumble-boxing.json](./217944-ready-2-rumble-boxing.json) |
@@ -9000,6 +9003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotolla | 21021 | [21021-rotolla.json](./21021-rotolla.json) |
 | Rotor | 13255 | [13255-rotor.json](./13255-rotor.json) |
 | Rotor | 144254 | [144254-rotor.json](./144254-rotor.json) |
+| Rotor Raiders | 44362 | [44362-rotor-raiders.json](./44362-rotor-raiders.json) |
 | Rotor Rescue Choplifter | 413851 | [413851-rotor-rescue-choplifter.json](./413851-rotor-rescue-choplifter.json) |
 | Rotor Rush | 77805 | [77805-rotor-rush.json](./77805-rotor-rush.json) |
 | Rotorize | 92084 | [92084-rotorize.json](./92084-rotorize.json) |
