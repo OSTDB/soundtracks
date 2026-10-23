@@ -2403,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitamin X Evolution | 124110 | [124110-vitamin-x-evolution.json](./124110-vitamin-x-evolution.json) |
 | Vitamin Z | 132092 | [132092-vitamin-z.json](./132092-vitamin-z.json) |
 | Vitamin Z | 60250 | [60250-vitamin-z.json](./60250-vitamin-z.json) |
+| Vitamin Z Graduation | 64159 | [64159-vitamin-z-graduation.json](./64159-vitamin-z-graduation.json) |
 | Vitas Castle of Horror | 186018 | [186018-vitas-castle-of-horror.json](./186018-vitas-castle-of-horror.json) |
 | Vitatio | 44088 | [44088-vitatio.json](./44088-vitatio.json) |
 | Vitatio 2 | 29603 | [29603-vitatio-2.json](./29603-vitatio-2.json) |
