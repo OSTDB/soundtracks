@@ -5941,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gramik Paint Roller | 254129 | [254129-gramik-paint-roller.json](./254129-gramik-paint-roller.json) |
 | Grammar Fun 2nd Grade | 89081 | [89081-grammar-fun-2nd-grade.json](./89081-grammar-fun-2nd-grade.json) |
 | Grammar Monsters | 56981 | [56981-grammar-monsters.json](./56981-grammar-monsters.json) |
+| Grammar Nazi | 93417 | [93417-grammar-nazi.json](./93417-grammar-nazi.json) |
 | Grampage: Life at 67 | 415315 | [415315-grampage-life-at-67.json](./415315-grampage-life-at-67.json) |
 | Gran Carismo | 277008 | [277008-gran-carismo.json](./277008-gran-carismo.json) |
 | Gran Duel: Shinki Dungeon no Hihou | 50056 | [50056-gran-duel-shinki-dungeon-no-hihou.json](./50056-gran-duel-shinki-dungeon-no-hihou.json) |
@@ -6221,6 +6222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Timeline | 410456 | [410456-grand-theft-timeline.json](./410456-grand-theft-timeline.json) |
 | Grand Tits Adventure | 366233 | [366233-grand-tits-adventure.json](./366233-grand-tits-adventure.json) |
 | Grand Tour Racing: GT-R 400 | 60888 | [60888-grand-tour-racing-gt-r-400.json](./60888-grand-tour-racing-gt-r-400.json) |
+| Grand Touring | 93440 | [93440-grand-touring.json](./93440-grand-touring.json) |
 | Grand Trucker Aniki: Shigoto to Kenka to Koimoyou | 133781 | [133781-grand-trucker-aniki-shigoto-to-kenka-to-koimoyou.json](./133781-grand-trucker-aniki-shigoto-to-kenka-to-koimoyou.json) |
 | Grand Truckismo | 61012 | [61012-grand-truckismo.json](./61012-grand-truckismo.json) |
 | Grand Unified Game | 212692 | [212692-grand-unified-game.json](./212692-grand-unified-game.json) |
