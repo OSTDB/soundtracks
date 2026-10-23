@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painterboy | 47198 | [47198-painterboy.json](./47198-painterboy.json) |
 | Painters Guild | 20345 | [20345-painters-guild.json](./20345-painters-guild.json) |
 | Paintey | 33467 | [33467-paintey.json](./33467-paintey.json) |
+| Painting Christmas with Tito | 97160 | [97160-painting-christmas-with-tito.json](./97160-painting-christmas-with-tito.json) |
 | Painting Mel-chan | 237505 | [237505-painting-mel-chan.json](./237505-painting-mel-chan.json) |
 | Painting Pixels | 393970 | [393970-painting-pixels.json](./393970-painting-pixels.json) |
 | Painting VR | 159090 | [159090-painting-vr.json](./159090-painting-vr.json) |
@@ -3969,6 +3970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz Countryside | 9743 | [9743-petz-countryside.json](./9743-petz-countryside.json) |
 | Petz Crazy Monkeyz | 51111 | [51111-petz-crazy-monkeyz.json](./51111-petz-crazy-monkeyz.json) |
 | Petz Dogz Family | 42888 | [42888-petz-dogz-family.json](./42888-petz-dogz-family.json) |
+| Petz Dogz Pack | 97184 | [97184-petz-dogz-pack.json](./97184-petz-dogz-pack.json) |
 | Petz Dogz Talent Show | 44067 | [44067-petz-dogz-talent-show.json](./44067-petz-dogz-talent-show.json) |
 | Petz Dolphinz Encounter | 67345 | [67345-petz-dolphinz-encounter.json](./67345-petz-dolphinz-encounter.json) |
 | Petz Fantasy 3D | 85338 | [85338-petz-fantasy-3d.json](./85338-petz-fantasy-3d.json) |
@@ -9299,6 +9301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Car Chase | 334826 | [334826-police-car-chase.json](./334826-police-car-chase.json) |
 | Police Car Drift Simulator | 223986 | [223986-police-car-drift-simulator.json](./223986-police-car-drift-simulator.json) |
 | Police Car Driver: City Parking Simulator | 283237 | [283237-police-car-driver-city-parking-simulator.json](./283237-police-car-driver-city-parking-simulator.json) |
+| Police Car Driving - Police Chase | 97165 | [97165-police-car-driving-police-chase.json](./97165-police-car-driving-police-chase.json) |
 | Police Car Escape Simulator | 257802 | [257802-police-car-escape-simulator.json](./257802-police-car-escape-simulator.json) |
 | Police Car Parking 3D | 306235 | [306235-police-car-parking-3d.json](./306235-police-car-parking-3d.json) |
 | Police Car Simulator | 236170 | [236170-police-car-simulator.json](./236170-police-car-simulator.json) |
@@ -9651,6 +9654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong | 306040 | [306040-pong.json](./306040-pong.json) |
 | Pong | 411527 | [411527-pong.json](./411527-pong.json) |
 | Pong - Old School | 86705 | [86705-pong-old-school.json](./86705-pong-old-school.json) |
+| Pong & Teddy | 97212 | [97212-pong-and-teddy.json](./97212-pong-and-teddy.json) |
 | Pong Champion VR | 31944 | [31944-pong-champion-vr.json](./31944-pong-champion-vr.json) |
 | Pong de las Tortugas Ninja | 195513 | [195513-pong-de-las-tortugas-ninja.json](./195513-pong-de-las-tortugas-ninja.json) |
 | Pong Doubles | 18154 | [18154-pong-doubles.json](./18154-pong-doubles.json) |
