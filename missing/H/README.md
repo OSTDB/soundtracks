@@ -6767,6 +6767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey League Simulator II | 15504 | [15504-hockey-league-simulator-ii.json](./15504-hockey-league-simulator-ii.json) |
 | Hockey Legacy Manager 25 | 340475 | [340475-hockey-legacy-manager-25.json](./340475-hockey-legacy-manager-25.json) |
 | Hockey Player VR | 117837 | [117837-hockey-player-vr.json](./117837-hockey-player-vr.json) |
+| Hockey Pong | 93444 | [93444-hockey-pong.json](./93444-hockey-pong.json) |
 | Hockey Rage 2005 | 70576 | [70576-hockey-rage-2005.json](./70576-hockey-rage-2005.json) |
 | Hockey Shooter VR | 190882 | [190882-hockey-shooter-vr.json](./190882-hockey-shooter-vr.json) |
 | Hockey Solitaire | 102578 | [102578-hockey-solitaire.json](./102578-hockey-solitaire.json) |
@@ -9265,6 +9266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunchback at the Olympics | 70105 | [70105-hunchback-at-the-olympics.json](./70105-hunchback-at-the-olympics.json) |
 | Hunchback: The Adventure | 26390 | [26390-hunchback-the-adventure.json](./26390-hunchback-the-adventure.json) |
 | Huncho | 176759 | [176759-huncho.json](./176759-huncho.json) |
+| Hunchy | 93401 | [93401-hunchy.json](./93401-hunchy.json) |
 | Hunckie Egg | 134422 | [134422-hunckie-egg.json](./134422-hunckie-egg.json) |
 | Hundra | 92962 | [92962-hundra.json](./92962-hundra.json) |
 | Hundred | 267068 | [267068-hundred.json](./267068-hundred.json) |
