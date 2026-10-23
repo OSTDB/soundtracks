@@ -568,6 +568,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wangan Dorifto | 199917 | [199917-wangan-dorifto.json](./199917-wangan-dorifto.json) |
 | Wangan Midnight | 268764 | [268764-wangan-midnight.json](./268764-wangan-midnight.json) |
 | Wangan Midnight | 7478 | [7478-wangan-midnight.json](./7478-wangan-midnight.json) |
+| Wangan Midnight Maximum Tune | 91720 | [91720-wangan-midnight-maximum-tune.json](./91720-wangan-midnight-maximum-tune.json) |
+| Wangan Midnight Maximum Tune 2 | 91719 | [91719-wangan-midnight-maximum-tune-2.json](./91719-wangan-midnight-maximum-tune-2.json) |
 | Wangan Midnight Maximum Tune 3 | 68044 | [68044-wangan-midnight-maximum-tune-3.json](./68044-wangan-midnight-maximum-tune-3.json) |
 | Wangan Midnight Maximum Tune 3DX | 315268 | [315268-wangan-midnight-maximum-tune-3dx.json](./315268-wangan-midnight-maximum-tune-3dx.json) |
 | Wangan Midnight Maximum Tune 3DX+ | 315269 | [315269-wangan-midnight-maximum-tune-3dx.json](./315269-wangan-midnight-maximum-tune-3dx.json) |
@@ -6311,7 +6313,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Class Solitaire HD | 355012 | [355012-world-class-solitaire-hd.json](./355012-world-class-solitaire-hd.json) |
 | World Class Track Meet | 2242 | [2242-world-class-track-meet.json](./2242-world-class-track-meet.json) |
 | World Clock | 90901 | [90901-world-clock.json](./90901-world-clock.json) |
+| World Club Champion Football European Clubs 2004-2005 | 91716 | [91716-world-club-champion-football-european-clubs-2004-2005.json](./91716-world-club-champion-football-european-clubs-2004-2005.json) |
+| World Club Champion Football European Clubs 2005-2006 | 91715 | [91715-world-club-champion-football-european-clubs-2005-2006.json](./91715-world-club-champion-football-european-clubs-2005-2006.json) |
+| World Club Champion Football Serie A 2001-2002 | 91718 | [91718-world-club-champion-football-serie-a-2001-2002.json](./91718-world-club-champion-football-serie-a-2001-2002.json) |
+| World Club Champion Football Serie A 2002-2003 | 91717 | [91717-world-club-champion-football-serie-a-2002-2003.json](./91717-world-club-champion-football-serie-a-2002-2003.json) |
 | World Club Champion Football: Intercontinental Clubs 2011-2012 | 314987 | [314987-world-club-champion-football-intercontinental-clubs-2011-2012.json](./314987-world-club-champion-football-intercontinental-clubs-2011-2012.json) |
+| World Club Championship Football Intercontinental Clubs | 91714 | [91714-world-club-championship-football-intercontinental-clubs.json](./91714-world-club-championship-football-intercontinental-clubs.json) |
 | World Combat | 380513 | [380513-world-combat.json](./380513-world-combat.json) |
 | World Conqueror 1945 | 96617 | [96617-world-conqueror-1945.json](./96617-world-conqueror-1945.json) |
 | World Conqueror 2 | 88751 | [88751-world-conqueror-2.json](./88751-world-conqueror-2.json) |
