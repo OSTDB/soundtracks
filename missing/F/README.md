@@ -3122,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fengse Huanxiang 5: Chi Yue Zhanzheng | 68690 | [68690-fengse-huanxiang-5-chi-yue-zhanzheng.json](./68690-fengse-huanxiang-5-chi-yue-zhanzheng.json) |
 | Fengse Huanxiang 6 | 230221 | [230221-fengse-huanxiang-6.json](./230221-fengse-huanxiang-6.json) |
 | Fēngsè Huànxiǎng III: Zuì Yǔ Fá de Zhènhúngē | 350519 | [350519-fengse-huanxiang-iii-zui-yu-fa-de-zhenhunge.json](./350519-fengse-huanxiang-iii-zui-yu-fa-de-zhenhunge.json) |
+| Fēngshén Bǎng | 70218 | [70218-fengshen-bang.json](./70218-fengshen-bang.json) |
 | Fēngshén Cè | 128325 | [128325-fengshen-ce.json](./128325-fengshen-ce.json) |
 | Fēngshén Ràng Wǒ Lái | 375428 | [375428-fengshen-rang-wo-lai.json](./375428-fengshen-rang-wo-lai.json) |
 | Fēngshén Yīngjié Zhuán | 93061 | [93061-fengshen-yingjie-zhuan.json](./93061-fengshen-yingjie-zhuan.json) |
