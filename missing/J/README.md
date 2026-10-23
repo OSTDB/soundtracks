@@ -2800,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Toddlers | 129111 | [129111-jumpstart-toddlers.json](./129111-jumpstart-toddlers.json) |
 | JumpStart Typing | 73592 | [73592-jumpstart-typing.json](./73592-jumpstart-typing.json) |
 | JumpStart Wildlife Safari Field Trip | 67348 | [67348-jumpstart-wildlife-safari-field-trip.json](./67348-jumpstart-wildlife-safari-field-trip.json) |
+| JumpStart: Animal Adventures | 71917 | [71917-jumpstart-animal-adventures.json](./71917-jumpstart-animal-adventures.json) |
 | JumpStart: Dino Adventure Field Trip | 49923 | [49923-jumpstart-dino-adventure-field-trip.json](./49923-jumpstart-dino-adventure-field-trip.json) |
 | Jumpster | 94219 | [94219-jumpster.json](./94219-jumpster.json) |
 | Jumpsters | 54995 | [54995-jumpsters.json](./54995-jumpsters.json) |
