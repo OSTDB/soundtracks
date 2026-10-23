@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Box Série Corridas | 130839 | [130839-game-box-serie-corridas.json](./130839-game-box-serie-corridas.json) |
 | Game Box Série Esportes | 93173 | [93173-game-box-serie-esportes.json](./93173-game-box-serie-esportes.json) |
 | Game Box Série Esportes Radicais | 96505 | [96505-game-box-serie-esportes-radicais.json](./96505-game-box-serie-esportes-radicais.json) |
+| Game Box Série Lutas | 94609 | [94609-game-box-serie-lutas.json](./94609-game-box-serie-lutas.json) |
 | Game Boy Camera | 84643 | [84643-game-boy-camera.json](./84643-game-boy-camera.json) |
 | Game Boy Camera Memory | 328594 | [328594-game-boy-camera-memory.json](./328594-game-boy-camera-memory.json) |
 | Game Boy Camera: Gold Zelda Edition | 228549 | [228549-game-boy-camera-gold-zelda-edition.json](./228549-game-boy-camera-gold-zelda-edition.json) |
@@ -4829,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goetia: The Infinite Tower | 222511 | [222511-goetia-the-infinite-tower.json](./222511-goetia-the-infinite-tower.json) |
 | GoetiaX | 145665 | [145665-goetiax.json](./145665-goetiax.json) |
 | Goetita: Turn-based City | 215582 | [215582-goetita-turn-based-city.json](./215582-goetita-turn-based-city.json) |
+| Goferpop | 94522 | [94522-goferpop.json](./94522-goferpop.json) |
 | GoFetch | 106449 | [106449-gofetch.json](./106449-gofetch.json) |
 | GoFish: Avoid the Dams | 252571 | [252571-gofish-avoid-the-dams.json](./252571-gofish-avoid-the-dams.json) |
 | GoFishing 3D | 119508 | [119508-gofishing-3d.json](./119508-gofishing-3d.json) |
