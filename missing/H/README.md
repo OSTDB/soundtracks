@@ -2770,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat Reborn | 140590 | [140590-heat-reborn.json](./140590-heat-reborn.json) |
 | Heat wave | 180850 | [180850-heat-wave.json](./180850-heat-wave.json) |
 | Heat Wave | 336543 | [336543-heat-wave.json](./336543-heat-wave.json) |
+| Heat Wave: Offshore Superboat Racing | 74887 | [74887-heat-wave-offshore-superboat-racing.json](./74887-heat-wave-offshore-superboat-racing.json) |
 | Heatchain | 278404 | [278404-heatchain.json](./278404-heatchain.json) |
 | Heated | 211220 | [211220-heated.json](./211220-heated.json) |
 | Heated Battles Shooter | 143005 | [143005-heated-battles-shooter.json](./143005-heated-battles-shooter.json) |
@@ -6384,6 +6385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hippo Eating Banana | 220835 | [220835-hippo-eating-banana.json](./220835-hippo-eating-banana.json) |
 | Hippo Engineering Patrol | 108211 | [108211-hippo-engineering-patrol.json](./108211-hippo-engineering-patrol.json) |
 | Hippo Hop | 415168 | [415168-hippo-hop.json](./415168-hippo-hop.json) |
+| Hippo Rush | 74893 | [74893-hippo-rush.json](./74893-hippo-rush.json) |
 | Hippo Teeth | 41422 | [41422-hippo-teeth.json](./41422-hippo-teeth.json) |
 | Hippo Teeth | 47259 | [47259-hippo-teeth.json](./47259-hippo-teeth.json) |
 | Hippo: Little Red Riding Hood | 233007 | [233007-hippo-little-red-riding-hood.json](./233007-hippo-little-red-riding-hood.json) |
@@ -6614,6 +6616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3: The Splitter Pack | 357257 | [357257-hitman-3-the-splitter-pack.json](./357257-hitman-3-the-splitter-pack.json) |
 | Hitman 3: Trinity Pack | 224225 | [224225-hitman-3-trinity-pack.json](./224225-hitman-3-trinity-pack.json) |
 | Hitman Absolution: Elite Edition | 53210 | [53210-hitman-absolution-elite-edition.json](./53210-hitman-absolution-elite-edition.json) |
+| Hitman Collection | 74880 | [74880-hitman-collection.json](./74880-hitman-collection.json) |
 | Hitman Go | 6073 | [6073-hitman-go.json](./6073-hitman-go.json) |
 | Hitman Go: Definitive Edition | 21580 | [21580-hitman-go-definitive-edition.json](./21580-hitman-go-definitive-edition.json) |
 | Hitman Go: VR Edition | 23487 | [23487-hitman-go-vr-edition.json](./23487-hitman-go-vr-edition.json) |
@@ -10024,6 +10027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperFleet | 168683 | [168683-hyperfleet.json](./168683-hyperfleet.json) |
 | Hyperflex Ultra | 355562 | [355562-hyperflex-ultra.json](./355562-hyperflex-ultra.json) |
 | HyperFlight | 340497 | [340497-hyperflight.json](./340497-hyperflight.json) |
+| Hyperforce | 74862 | [74862-hyperforce.json](./74862-hyperforce.json) |
 | Hyperforma | 96727 | [96727-hyperforma.json](./96727-hyperforma.json) |
 | Hyperforma: Lost Archives - Fragment I | 262316 | [262316-hyperforma-lost-archives-fragment-i.json](./262316-hyperforma-lost-archives-fragment-i.json) |
 | Hyperforma: Lost Archives - Fragment II | 262317 | [262317-hyperforma-lost-archives-fragment-ii.json](./262317-hyperforma-lost-archives-fragment-ii.json) |
