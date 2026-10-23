@@ -4774,6 +4774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeHero: Be Your Legend | 122889 | [122889-behero-be-your-legend.json](./122889-behero-be-your-legend.json) |
 | Behind Border Zone | 372215 | [372215-behind-border-zone.json](./372215-behind-border-zone.json) |
 | Behind Closed Doors | 385578 | [385578-behind-closed-doors.json](./385578-behind-closed-doors.json) |
+| Behind Closed Doors | 70801 | [70801-behind-closed-doors.json](./70801-behind-closed-doors.json) |
 | Behind Closed Doors (Revenge of the Ants) | 58847 | [58847-behind-closed-doors-revenge-of-the-ants.json](./58847-behind-closed-doors-revenge-of-the-ants.json) |
 | Behind Closed Doors (The Sequel) | 58852 | [58852-behind-closed-doors-the-sequel.json](./58852-behind-closed-doors-the-sequel.json) |
 | Behind Closed Doors 4: Balrog's Day Out | 58846 | [58846-behind-closed-doors-4-balrogs-day-out.json](./58846-behind-closed-doors-4-balrogs-day-out.json) |
@@ -9873,6 +9874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb the Monsters! | 35638 | [35638-bomb-the-monsters.json](./35638-bomb-the-monsters.json) |
 | Bomb the Town | 319968 | [319968-bomb-the-town.json](./319968-bomb-the-town.json) |
 | Bomb Them All | 188032 | [188032-bomb-them-all.json](./188032-bomb-them-all.json) |
+| Bomb Threat | 70802 | [70802-bomb-threat.json](./70802-bomb-threat.json) |
 | Bomb Threat | 77323 | [77323-bomb-threat.json](./77323-bomb-threat.json) |
 | Bomb Threat | 77324 | [77324-bomb-threat.json](./77324-bomb-threat.json) |
 | Bomb Time | 287494 | [287494-bomb-time.json](./287494-bomb-time.json) |
@@ -11648,6 +11650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Rounds | 390759 | [390759-brave-rounds.json](./390759-brave-rounds.json) |
 | Brave Shot 2 | 286666 | [286666-brave-shot-2.json](./286666-brave-shot-2.json) |
 | Brave Soldier: Invasion of Cyborgs | 227856 | [227856-brave-soldier-invasion-of-cyborgs.json](./227856-brave-soldier-invasion-of-cyborgs.json) |
+| Brave Soul | 70800 | [70800-brave-soul.json](./70800-brave-soul.json) |
 | Brave Splat | 374755 | [374755-brave-splat.json](./374755-brave-splat.json) |
 | Brave Story: New Traveler | 14607 | [14607-brave-story-new-traveler.json](./14607-brave-story-new-traveler.json) |
 | Brave Survivor | 200570 | [200570-brave-survivor.json](./200570-brave-survivor.json) |
