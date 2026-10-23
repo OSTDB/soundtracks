@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazi Bunker | 105252 | [105252-nazi-bunker.json](./105252-nazi-bunker.json) |
 | Nazi Elimination | 81988 | [81988-nazi-elimination.json](./81988-nazi-elimination.json) |
 | Nazi Labs | 367144 | [367144-nazi-labs.json](./367144-nazi-labs.json) |
+| NaziShoot | 72508 | [72508-nazishoot.json](./72508-nazishoot.json) |
 | NaziShootout | 88054 | [88054-nazishootout.json](./88054-nazishootout.json) |
 | Nazo no Chinbotsusen | 385713 | [385713-nazo-no-chinbotsusen.json](./385713-nazo-no-chinbotsusen.json) |
 | Nazo No Masquerade | 37669 | [37669-nazo-no-masquerade.json](./37669-nazo-no-masquerade.json) |
@@ -5135,6 +5136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Non-Stop Space Probe | 237389 | [237389-non-stop-space-probe.json](./237389-non-stop-space-probe.json) |
 | Non-Virtual Reality Games | 371033 | [371033-non-virtual-reality-games.json](./371033-non-virtual-reality-games.json) |
 | Non: The First Warp | 154315 | [154315-non-the-first-warp.json](./154315-non-the-first-warp.json) |
+| Nona | 72485 | [72485-nona.json](./72485-nona.json) |
 | Nona's Game | 211925 | [211925-nonas-game.json](./211925-nonas-game.json) |
 | Nonamed | 84264 | [84264-nonamed.json](./84264-nonamed.json) |
 | None | 229652 | [229652-none.json](./229652-none.json) |
