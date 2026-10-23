@@ -1526,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazy Caverns Attack!! | 57078 | [57078-lazy-caverns-attack.json](./57078-lazy-caverns-attack.json) |
 | Lazy Chess | 142734 | [142734-lazy-chess.json](./142734-lazy-chess.json) |
 | Lazy Climbers | 400464 | [400464-lazy-climbers.json](./400464-lazy-climbers.json) |
+| Lazy Devil's game life | 95257 | [95257-lazy-devils-game-life.json](./95257-lazy-devils-game-life.json) |
 | Lazy Dog | 336322 | [336322-lazy-dog.json](./336322-lazy-dog.json) |
 | Lazy Galaxy | 75016 | [75016-lazy-galaxy.json](./75016-lazy-galaxy.json) |
 | Lazy Galaxy Bundle | 335624 | [335624-lazy-galaxy-bundle.json](./335624-lazy-galaxy-bundle.json) |
