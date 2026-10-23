@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Combat Department | 164059 | [164059-tactical-combat-department.json](./164059-tactical-combat-department.json) |
 | Tactical Craft Online | 34125 | [34125-tactical-craft-online.json](./34125-tactical-craft-online.json) |
 | Tactical Dual Pack: Necromunda - Underhive Wars & Space Hulk: Tactics | 223872 | [223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json](./223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json) |
+| Tactical Fighter | 56947 | [56947-tactical-fighter.json](./56947-tactical-fighter.json) |
 | Tactical Manager | 182375 | [182375-tactical-manager.json](./182375-tactical-manager.json) |
 | Tactical Manager | 86220 | [86220-tactical-manager.json](./86220-tactical-manager.json) |
 | Tactical Manager 2 | 182351 | [182351-tactical-manager-2.json](./182351-tactical-manager-2.json) |
@@ -2214,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Deep Cauldron | 401024 | [401024-tavern-deep-cauldron.json](./401024-tavern-deep-cauldron.json) |
 | Tavern Girl | 290949 | [290949-tavern-girl.json](./290949-tavern-girl.json) |
 | Tavern Girl: Expansion Pack | 297738 | [297738-tavern-girl-expansion-pack.json](./297738-tavern-girl-expansion-pack.json) |
+| Tavern Guardians | 56955 | [56955-tavern-guardians.json](./56955-tavern-guardians.json) |
 | Tavern Guardians: Banquet | 106393 | [106393-tavern-guardians-banquet.json](./106393-tavern-guardians-banquet.json) |
 | Tavern Keeper | 25929 | [25929-tavern-keeper.json](./25929-tavern-keeper.json) |
 | Tavern Legends | 326667 | [326667-tavern-legends.json](./326667-tavern-legends.json) |
@@ -15776,6 +15778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Love Them | 235813 | [235813-they-love-them.json](./235813-they-love-them.json) |
 | They Remain | 302061 | [302061-they-remain.json](./302061-they-remain.json) |
 | They See Us | 342780 | [342780-they-see-us.json](./342780-they-see-us.json) |
+| They Sold a Million | 56933 | [56933-they-sold-a-million.json](./56933-they-sold-a-million.json) |
 | They Sold a Million 3 | 70061 | [70061-they-sold-a-million-3.json](./70061-they-sold-a-million-3.json) |
 | They Sold a Million II | 73335 | [73335-they-sold-a-million-ii.json](./73335-they-sold-a-million-ii.json) |
 | They Speak From The Abyss: Zenith | 252033 | [252033-they-speak-from-the-abyss-zenith.json](./252033-they-speak-from-the-abyss-zenith.json) |
@@ -16261,6 +16264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threeboard | 401929 | [401929-threeboard.json](./401929-threeboard.json) |
 | Threefold Recital | 327486 | [327486-threefold-recital.json](./327486-threefold-recital.json) |
 | Threejs | 206575 | [206575-threejs.json](./206575-threejs.json) |
+| Threesquare | 56943 | [56943-threesquare.json](./56943-threesquare.json) |
 | ThreeStep | 120962 | [120962-threestep.json](./120962-threestep.json) |
 | Threewave | 306178 | [306178-threewave.json](./306178-threewave.json) |
 | Threewave Capture | 306175 | [306175-threewave-capture.json](./306175-threewave-capture.json) |
