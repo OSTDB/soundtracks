@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | (heart) Sudoku | 86731 | [86731-heart-sudoku.json](./86731-heart-sudoku.json) |
 | (I see) Nothing | 275478 | [275478-i-see-nothing.json](./275478-i-see-nothing.json) |
 | (Neg)Entropic Wandering | 309451 | [309451-neg-entropic-wandering.json](./309451-neg-entropic-wandering.json) |
+| (Not) Just another Space Shooter | 71931 | [71931-not-just-another-space-shooter.json](./71931-not-just-another-space-shooter.json) |
 | (O_O) | 209770 | [209770-o-o.json](./209770-o-o.json) |
 | (T)Raumschiff Surprise - Periode 1 | 131283 | [131283-t-raumschiff-surprise-periode-1.json](./131283-t-raumschiff-surprise-periode-1.json) |
 | [HammerA] HammerTime ! | 134969 | [134969-hammera-hammertime.json](./134969-hammera-hammertime.json) |
