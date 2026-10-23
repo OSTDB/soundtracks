@@ -5489,6 +5489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Bride | 313856 | [313856-wolf-bride.json](./313856-wolf-bride.json) |
 | Wolf Chapel Revisit | 268917 | [268917-wolf-chapel-revisit.json](./268917-wolf-chapel-revisit.json) |
 | Wolf Commando | 414138 | [414138-wolf-commando.json](./414138-wolf-commando.json) |
+| Wolf Evolution: Merge and Create Mutant Wild Dogs | 95891 | [95891-wolf-evolution-merge-and-create-mutant-wild-dogs.json](./95891-wolf-evolution-merge-and-create-mutant-wild-dogs.json) |
 | Wolf Gang | 76507 | [76507-wolf-gang.json](./76507-wolf-gang.json) |
 | Wolf Girl With You | 140307 | [140307-wolf-girl-with-you.json](./140307-wolf-girl-with-you.json) |
 | Wolf Hero: Animals vs. Robots | 312541 | [312541-wolf-hero-animals-vs-robots.json](./312541-wolf-hero-animals-vs-robots.json) |
