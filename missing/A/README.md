@@ -2915,7 +2915,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -7880,6 +7879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Kart Racer | 154790 | [154790-animal-kart-racer.json](./154790-animal-kart-racer.json) |
 | Animal Kingdom 2 | 271660 | [271660-animal-kingdom-2.json](./271660-animal-kingdom-2.json) |
 | Animal Kingdom 3 | 337279 | [337279-animal-kingdom-3.json](./337279-animal-kingdom-3.json) |
+| Animal Kingdom: Wildlife Expedition | 51010 | [51010-animal-kingdom-wildlife-expedition.json](./51010-animal-kingdom-wildlife-expedition.json) |
 | Animal Kostume | 249878 | [249878-animal-kostume.json](./249878-animal-kostume.json) |
 | Animal Land Satsujin Jiken | 131910 | [131910-animal-land-satsujin-jiken.json](./131910-animal-land-satsujin-jiken.json) |
 | Animal Learning Puzzle for Toddlers and Kids | 147939 | [147939-animal-learning-puzzle-for-toddlers-and-kids.json](./147939-animal-learning-puzzle-for-toddlers-and-kids.json) |
@@ -11214,6 +11214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Racer | 52426 | [52426-army-racer.json](./52426-army-racer.json) |
 | Army Rage | 63889 | [63889-army-rage.json](./63889-army-rage.json) |
 | Army Ranger: Mogadishu | 52425 | [52425-army-ranger-mogadishu.json](./52425-army-ranger-mogadishu.json) |
+| Army Rescue | 51011 | [51011-army-rescue.json](./51011-army-rescue.json) |
 | Army to Army | 189019 | [189019-army-to-army.json](./189019-army-to-army.json) |
 | Army Troop 2: Modern Guns | 297841 | [297841-army-troop-2-modern-guns.json](./297841-army-troop-2-modern-guns.json) |
 | Army Truck 3D: Military Drive | 87114 | [87114-army-truck-3d-military-drive.json](./87114-army-truck-3d-military-drive.json) |
@@ -13501,6 +13502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Stunt Racing: Extreme Offroad Simulator | 322658 | [322658-atv-stunt-racing-extreme-offroad-simulator.json](./322658-atv-stunt-racing-extreme-offroad-simulator.json) |
 | ATV Thunder Ridge Riders | 49369 | [49369-atv-thunder-ridge-riders.json](./49369-atv-thunder-ridge-riders.json) |
 | ATV Track | 250499 | [250499-atv-track.json](./250499-atv-track.json) |
+| ATV: Quad Kings | 51012 | [51012-atv-quad-kings.json](./51012-atv-quad-kings.json) |
 | ATV: Thunder Ridge Riders / Monster Trucks Mayhem | 93415 | [93415-atv-thunder-ridge-riders-monster-trucks-mayhem.json](./93415-atv-thunder-ridge-riders-monster-trucks-mayhem.json) |
 | AtWar | 62520 | [62520-atwar.json](./62520-atwar.json) |
 | ATYI | 335512 | [335512-atyi.json](./335512-atyi.json) |
