@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ralf | 111598 | [111598-ralf.json](./111598-ralf.json) |
 | Ralf's Adventure: Aztec Mystery | 140910 | [140910-ralfs-adventure-aztec-mystery.json](./140910-ralfs-adventure-aztec-mystery.json) |
 | RalliSport Challenge | 841 | [841-rallisport-challenge.json](./841-rallisport-challenge.json) |
+| Rallo Gump | 73148 | [73148-rallo-gump.json](./73148-rallo-gump.json) |
 | Rally | 197381 | [197381-rally.json](./197381-rally.json) |
 | Rally Ar | 266843 | [266843-rally-ar.json](./266843-rally-ar.json) |
 | Rally Arcade Classics | 319408 | [319408-rally-arcade-classics.json](./319408-rally-arcade-classics.json) |
@@ -1742,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rauol | 277725 | [277725-rauol.json](./277725-rauol.json) |
 | Räv Kafé | 395158 | [395158-rav-kafe.json](./395158-rav-kafe.json) |
 | Ravage | 306435 | [306435-ravage.json](./306435-ravage.json) |
+| Ravage D.C.X | 73133 | [73133-ravage-d-c-x.json](./73133-ravage-d-c-x.json) |
 | Ravage Fist | 417716 | [417716-ravage-fist.json](./417716-ravage-fist.json) |
 | Ravage Road | 228458 | [228458-ravage-road.json](./228458-ravage-road.json) |
 | Ravaged | 3268 | [3268-ravaged.json](./3268-ravaged.json) |
@@ -8235,6 +8237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Coaster Mania 2 | 54327 | [54327-roller-coaster-mania-2.json](./54327-roller-coaster-mania-2.json) |
 | Roller Coaster Mania 3 | 54328 | [54328-roller-coaster-mania-3.json](./54328-roller-coaster-mania-3.json) |
 | Roller Coaster Rampage | 16359 | [16359-roller-coaster-rampage.json](./16359-roller-coaster-rampage.json) |
+| Roller Coaster Rumbler | 73129 | [73129-roller-coaster-rumbler.json](./73129-roller-coaster-rumbler.json) |
 | Roller Coaster: Amazing Island Visit | 108210 | [108210-roller-coaster-amazing-island-visit.json](./108210-roller-coaster-amazing-island-visit.json) |
 | Roller Crash | 114722 | [114722-roller-crash.json](./114722-roller-crash.json) |
 | Roller Drama | 143895 | [143895-roller-drama.json](./143895-roller-drama.json) |
