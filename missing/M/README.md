@@ -6633,6 +6633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaton Musashi W: Wired - Victory Pose: Kabuki | 302530 | [302530-megaton-musashi-w-wired-victory-pose-kabuki.json](./302530-megaton-musashi-w-wired-victory-pose-kabuki.json) |
 | Megaton Musashi W: Wired - Victory Pose: Karate | 302539 | [302539-megaton-musashi-w-wired-victory-pose-karate.json](./302539-megaton-musashi-w-wired-victory-pose-karate.json) |
 | Megaton Musashi W: Wired - Victory Pose: Robot Dance | 302540 | [302540-megaton-musashi-w-wired-victory-pose-robot-dance.json](./302540-megaton-musashi-w-wired-victory-pose-robot-dance.json) |
+| Megaton Musashi: Cross | 58097 | [58097-megaton-musashi-cross.json](./58097-megaton-musashi-cross.json) |
 | Megaton Punch | 134458 | [134458-megaton-punch.json](./134458-megaton-punch.json) |
 | Megaton Rainfall | 54580 | [54580-megaton-rainfall.json](./54580-megaton-rainfall.json) |
 | Megaton: Total Destruction | 69413 | [69413-megaton-total-destruction.json](./69413-megaton-total-destruction.json) |
