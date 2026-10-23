@@ -1892,8 +1892,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Dunk | 102161 | [102161-tap-tap-dunk.json](./102161-tap-tap-dunk.json) |
 | Tap Tap Evil Mastermind | 290286 | [290286-tap-tap-evil-mastermind.json](./290286-tap-tap-evil-mastermind.json) |
 | Tap Tap Fish: Abyssrium Pole | 223003 | [223003-tap-tap-fish-abyssrium-pole.json](./223003-tap-tap-fish-abyssrium-pole.json) |
+| Tap Tap Glee | 64779 | [64779-tap-tap-glee.json](./64779-tap-tap-glee.json) |
 | Tap Tap Goose | 413077 | [413077-tap-tap-goose.json](./413077-tap-tap-goose.json) |
 | Tap Tap Loot | 386351 | [386351-tap-tap-loot.json](./386351-tap-tap-loot.json) |
+| Tap Tap Muppets | 64781 | [64781-tap-tap-muppets.json](./64781-tap-tap-muppets.json) |
 | Tap Tap Radiation | 66156 | [66156-tap-tap-radiation.json](./66156-tap-tap-radiation.json) |
 | Tap Tap Reloaded | 280223 | [280223-tap-tap-reloaded.json](./280223-tap-tap-reloaded.json) |
 | Tap Tap Revenge | 68955 | [68955-tap-tap-revenge.json](./68955-tap-tap-revenge.json) |
@@ -2711,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Battle of the City | 146105 | [146105-teenage-mutant-ninja-turtles-battle-of-the-city.json](./146105-teenage-mutant-ninja-turtles-battle-of-the-city.json) |
 | Teenage Mutant Ninja Turtles: Brothers Unite | 61238 | [61238-teenage-mutant-ninja-turtles-brothers-unite.json](./61238-teenage-mutant-ninja-turtles-brothers-unite.json) |
 | Teenage Mutant Ninja Turtles: Danger of the Ooze | 19092 | [19092-teenage-mutant-ninja-turtles-danger-of-the-ooze.json](./19092-teenage-mutant-ninja-turtles-danger-of-the-ooze.json) |
+| Teenage Mutant Ninja Turtles: Dark Horizons | 64790 | [64790-teenage-mutant-ninja-turtles-dark-horizons.json](./64790-teenage-mutant-ninja-turtles-dark-horizons.json) |
 | Teenage Mutant Ninja Turtles: Dimension X Assault | 198938 | [198938-teenage-mutant-ninja-turtles-dimension-x-assault.json](./198938-teenage-mutant-ninja-turtles-dimension-x-assault.json) |
 | Teenage Mutant Ninja Turtles: Empire City | 345542 | [345542-teenage-mutant-ninja-turtles-empire-city.json](./345542-teenage-mutant-ninja-turtles-empire-city.json) |
 | Teenage Mutant Ninja Turtles: Fall of the Foot Clan | 48928 | [48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json](./48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json) |
@@ -2868,6 +2871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken X Street Fighter | 1239 | [1239-tekken-x-street-fighter.json](./1239-tekken-x-street-fighter.json) |
 | Tekken: Dark Resurrection | 389439 | [389439-tekken-dark-resurrection.json](./389439-tekken-dark-resurrection.json) |
 | Tekkout2: Balls Of Rust | 355879 | [355879-tekkout2-balls-of-rust.json](./355879-tekkout2-balls-of-rust.json) |
+| Tekkyu Fight! The Great Battle Gaiden | 64785 | [64785-tekkyu-fight-the-great-battle-gaiden.json](./64785-tekkyu-fight-the-great-battle-gaiden.json) |
 | Tekkyuuman | 73245 | [73245-tekkyuuman.json](./73245-tekkyuuman.json) |
 | Tekla | 218586 | [218586-tekla.json](./218586-tekla.json) |
 | Tekling 2 | 114221 | [114221-tekling-2.json](./114221-tekling-2.json) |
@@ -13506,6 +13510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Space Between | 378418 | [378418-the-space-between.json](./378418-the-space-between.json) |
 | The Space Between Stars | 364379 | [364379-the-space-between-stars.json](./364379-the-space-between-stars.json) |
 | The Space Opera "Dragon Eyes" | 125954 | [125954-the-space-opera-dragon-eyes.json](./125954-the-space-opera-dragon-eyes.json) |
+| The Space Sheriff Spirits | 64780 | [64780-the-space-sheriff-spirits.json](./64780-the-space-sheriff-spirits.json) |
 | The Space Sim | 179057 | [179057-the-space-sim.json](./179057-the-space-sim.json) |
 | The Spanish Privateer | 190374 | [190374-the-spanish-privateer.json](./190374-the-spanish-privateer.json) |
 | The Spark of One | 135064 | [135064-the-spark-of-one.json](./135064-the-spark-of-one.json) |
@@ -14929,6 +14934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The War of the Worlds: Siberia | 323955 | [323955-the-war-of-the-worlds-siberia.json](./323955-the-war-of-the-worlds-siberia.json) |
 | The War Zone Crisis | 339122 | [339122-the-war-zone-crisis.json](./339122-the-war-zone-crisis.json) |
 | The War: Black Stone | 221388 | [221388-the-war-black-stone.json](./221388-the-war-black-stone.json) |
+| The Warbler's Nest | 64800 | [64800-the-warblers-nest.json](./64800-the-warblers-nest.json) |
 | The Ward | 70348 | [70348-the-ward.json](./70348-the-ward.json) |
 | The Warden | 34149 | [34149-the-warden.json](./34149-the-warden.json) |
 | The Warden's Paradise | 289951 | [289951-the-wardens-paradise.json](./289951-the-wardens-paradise.json) |
@@ -21753,6 +21759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers of Minimalism | 123986 | [123986-towers-of-minimalism.json](./123986-towers-of-minimalism.json) |
 | Towers of Scale | 381624 | [381624-towers-of-scale.json](./381624-towers-of-scale.json) |
 | Towers of Thana | 238595 | [238595-towers-of-thana.json](./238595-towers-of-thana.json) |
+| Towers of the Apocalypse | 64827 | [64827-towers-of-the-apocalypse.json](./64827-towers-of-the-apocalypse.json) |
 | Towers of Twilight | 53835 | [53835-towers-of-twilight.json](./53835-towers-of-twilight.json) |
 | Towers Saga | 391719 | [391719-towers-saga.json](./391719-towers-saga.json) |
 | Towers That Don't Like Each Other | 51997 | [51997-towers-that-dont-like-each-other.json](./51997-towers-that-dont-like-each-other.json) |
@@ -24472,6 +24479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triangulum | 120768 | [120768-triangulum.json](./120768-triangulum.json) |
 | Trianthology: Sanmenkyou no Kuni no Alice | 108771 | [108771-trianthology-sanmenkyou-no-kuni-no-alice.json](./108771-trianthology-sanmenkyou-no-kuni-no-alice.json) |
 | Triarchy | 377667 | [377667-triarchy.json](./377667-triarchy.json) |
+| Triazzle Island | 64788 | [64788-triazzle-island.json](./64788-triazzle-island.json) |
 | TRIB3 | 300800 | [300800-trib3.json](./300800-trib3.json) |
 | Tribal | 193166 | [193166-tribal.json](./193166-tribal.json) |
 | Tribal Mania | 377799 | [377799-tribal-mania.json](./377799-tribal-mania.json) |
