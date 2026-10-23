@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's Advance Strike Fighters | 25531 | [25531-janes-advance-strike-fighters.json](./25531-janes-advance-strike-fighters.json) |
 | Jane's Combat Simulations: Advanced Tactical Fighters | 78026 | [78026-janes-combat-simulations-advanced-tactical-fighters.json](./78026-janes-combat-simulations-advanced-tactical-fighters.json) |
 | Jane's Combat Simulations: Advanced Tactical Fighters - Nato Fighters | 71211 | [71211-janes-combat-simulations-advanced-tactical-fighters-nato-fighters.json](./71211-janes-combat-simulations-advanced-tactical-fighters-nato-fighters.json) |
+| Jane's Combat Simulations: AH-64D Longbow | 73095 | [73095-janes-combat-simulations-ah-64d-longbow.json](./73095-janes-combat-simulations-ah-64d-longbow.json) |
 | Jane's Combat Simulations: Attack Pack | 78022 | [78022-janes-combat-simulations-attack-pack.json](./78022-janes-combat-simulations-attack-pack.json) |
 | Jane's Combat Simulations: Attack Squadron | 100091 | [100091-janes-combat-simulations-attack-squadron.json](./100091-janes-combat-simulations-attack-squadron.json) |
 | Jane's Combat Simulations: F-15 | 73498 | [73498-janes-combat-simulations-f-15.json](./73498-janes-combat-simulations-f-15.json) |
