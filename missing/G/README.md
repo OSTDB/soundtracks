@@ -5868,6 +5868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothwane Towers | 323376 | [323376-gothwane-towers.json](./323376-gothwane-towers.json) |
 | GOTO Bridge 18 | 99502 | [99502-goto-bridge-18.json](./99502-goto-bridge-18.json) |
 | Gotogra | 387357 | [387357-gotogra.json](./387357-gotogra.json) |
+| Gotomomi | 59707 | [59707-gotomomi.json](./59707-gotomomi.json) |
 | Gotouchi Kentei DS | 124018 | [124018-gotouchi-kentei-ds.json](./124018-gotouchi-kentei-ds.json) |
 | Gotouchi Tetsudou for Nintendo Switch | 136963 | [136963-gotouchi-tetsudou-for-nintendo-switch.json](./136963-gotouchi-tetsudou-for-nintendo-switch.json) |
 | Gotouchi Tetsudou: Gotouchi Chara to Nihon Zenkoku no Tabi | 71016 | [71016-gotouchi-tetsudou-gotouchi-chara-to-nihon-zenkoku-no-tabi.json](./71016-gotouchi-tetsudou-gotouchi-chara-to-nihon-zenkoku-no-tabi.json) |
@@ -5937,6 +5938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GPU Inferno | 369910 | [369910-gpu-inferno.json](./369910-gpu-inferno.json) |
 | Gra & Vity | 173002 | [173002-gra-and-vity.json](./173002-gra-and-vity.json) |
 | Graahl: Of Feather and Grit | 109549 | [109549-graahl-of-feather-and-grit.json](./109549-graahl-of-feather-and-grit.json) |
+| Graal Online | 59634 | [59634-graal-online.json](./59634-graal-online.json) |
 | GraalOnline Classic+ | 38871 | [38871-graalonline-classic.json](./38871-graalonline-classic.json) |
 | GraalOnline Era | 55842 | [55842-graalonline-era.json](./55842-graalonline-era.json) |
 | GraalOnline: Delteria | 82153 | [82153-graalonline-delteria.json](./82153-graalonline-delteria.json) |
@@ -7793,6 +7795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Wild | 349646 | [349646-grow-wild.json](./349646-grow-wild.json) |
 | Grow Your Guarden | 263794 | [263794-grow-your-guarden.json](./263794-grow-your-guarden.json) |
 | Grow: Song of the Evertree | 151673 | [151673-grow-song-of-the-evertree.json](./151673-grow-song-of-the-evertree.json) |
+| Growbotics | 59706 | [59706-growbotics.json](./59706-growbotics.json) |
 | Growbots: Battle Academy | 161386 | [161386-growbots-battle-academy.json](./161386-growbots-battle-academy.json) |
 | GrowBud | 373134 | [373134-growbud.json](./373134-growbud.json) |
 | Growers | 264058 | [264058-growers.json](./264058-growers.json) |
