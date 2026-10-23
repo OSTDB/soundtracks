@@ -1129,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Command: Kharkov | 72745 | [72745-panzer-command-kharkov.json](./72745-panzer-command-kharkov.json) |
 | Panzer Command: Operation Winter Storm | 72744 | [72744-panzer-command-operation-winter-storm.json](./72744-panzer-command-operation-winter-storm.json) |
 | Panzer Command: Ostfront | 59323 | [59323-panzer-command-ostfront.json](./59323-panzer-command-ostfront.json) |
+| Panzer Commander | 71938 | [71938-panzer-commander.json](./71938-panzer-commander.json) |
 | Panzer Corps | 22637 | [22637-panzer-corps.json](./22637-panzer-corps.json) |
 | Panzer Corps 2 | 27716 | [27716-panzer-corps-2.json](./27716-panzer-corps-2.json) |
 | Panzer Corps 2: Axis Operations - 1939 | 155048 | [155048-panzer-corps-2-axis-operations-1939.json](./155048-panzer-corps-2-axis-operations-1939.json) |
@@ -5793,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinky Monkey Town | 49769 | [49769-pinky-monkey-town.json](./49769-pinky-monkey-town.json) |
 | Pinky Promise Manifesto | 176440 | [176440-pinky-promise-manifesto.json](./176440-pinky-promise-manifesto.json) |
 | Pinky Spots Leg Massage | 64467 | [64467-pinky-spots-leg-massage.json](./64467-pinky-spots-leg-massage.json) |
+| Pinky Street: Kira-kira Rainbow Pack | 71897 | [71897-pinky-street-kira-kira-rainbow-pack.json](./71897-pinky-street-kira-kira-rainbow-pack.json) |
 | Pinky The Phoenix | 252929 | [252929-pinky-the-phoenix.json](./252929-pinky-the-phoenix.json) |
 | Pinky Xmas | 340207 | [340207-pinky-xmas.json](./340207-pinky-xmas.json) |
 | Pinly: A Plinko Roguelike | 421839 | [421839-pinly-a-plinko-roguelike.json](./421839-pinly-a-plinko-roguelike.json) |
@@ -12527,6 +12529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Guard | 84805 | [84805-project-guard.json](./84805-project-guard.json) |
 | Project Gunship | 202549 | [202549-project-gunship.json](./202549-project-gunship.json) |
 | Project H | 158393 | [158393-project-h.json](./158393-project-h.json) |
+| Project H.A.M.M.E.R. | 71891 | [71891-project-h-a-m-m-e-r.json](./71891-project-h-a-m-m-e-r.json) |
 | Project H.A.Z.A.R.D | 216218 | [216218-project-h-a-z-a-r-d.json](./216218-project-h-a-z-a-r-d.json) |
 | Project Hacker | 72954 | [72954-project-hacker.json](./72954-project-hacker.json) |
 | Project Hacker: Kakusei | 139127 | [139127-project-hacker-kakusei.json](./139127-project-hacker-kakusei.json) |
