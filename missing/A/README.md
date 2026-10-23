@@ -7907,6 +7907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animaniacs | 228405 | [228405-animaniacs.json](./228405-animaniacs.json) |
 | Animaniacs | 228407 | [228407-animaniacs.json](./228407-animaniacs.json) |
 | Animaniacs Game Pack | 78028 | [78028-animaniacs-game-pack.json](./78028-animaniacs-game-pack.json) |
+| Animaniacs Splat Ball | 70771 | [70771-animaniacs-splat-ball.json](./70771-animaniacs-splat-ball.json) |
 | Animaniacs: A Gigantic Adventure | 69227 | [69227-animaniacs-a-gigantic-adventure.json](./69227-animaniacs-a-gigantic-adventure.json) |
 | Animaniacs: Hollywood Hypnotics | 200362 | [200362-animaniacs-hollywood-hypnotics.json](./200362-animaniacs-hollywood-hypnotics.json) |
 | Animaniacs: Lights, Camera, Action! | 248756 | [248756-animaniacs-lights-camera-action.json](./248756-animaniacs-lights-camera-action.json) |
