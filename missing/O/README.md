@@ -3467,6 +3467,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osananajimi no Onee-chan wa Senzoku Maid!: Natsuyasumi Dousei Seikatsu | 280643 | [280643-osananajimi-no-onee-chan-wa-senzoku-maid-natsuyasumi-dousei-seikatsu.json](./280643-osananajimi-no-onee-chan-wa-senzoku-maid-natsuyasumi-dousei-seikatsu.json) |
 | Osananajimi Ojou-sama to H de Himitsu na Dousei Seikatsu | 396903 | [396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json](./396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json) |
 | Osawari Hockey Enko-chan | 235769 | [235769-osawari-hockey-enko-chan.json](./235769-osawari-hockey-enko-chan.json) |
+| Osawari Tantei Ozawa Rina: Nameko Rhythm | 56934 | [56934-osawari-tantei-ozawa-rina-nameko-rhythm.json](./56934-osawari-tantei-ozawa-rina-nameko-rhythm.json) |
+| Osawari Tantei: Nameko Daihanshoku | 56935 | [56935-osawari-tantei-nameko-daihanshoku.json](./56935-osawari-tantei-nameko-daihanshoku.json) |
 | Oscar | 12456 | [12456-oscar.json](./12456-oscar.json) |
 | Oscar & Gems: Puzzle Quest | 163553 | [163553-oscar-and-gems-puzzle-quest.json](./163553-oscar-and-gems-puzzle-quest.json) |
 | Oscar der Ballonfahrer taucht unter | 86031 | [86031-oscar-der-ballonfahrer-taucht-unter.json](./86031-oscar-der-ballonfahrer-taucht-unter.json) |
