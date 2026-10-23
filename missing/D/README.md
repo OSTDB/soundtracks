@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisenryaku: Master Combat | 166548 | [166548-daisenryaku-master-combat.json](./166548-daisenryaku-master-combat.json) |
 | Daisenryaku: Players's Spirit | 166549 | [166549-daisenryaku-playerss-spirit.json](./166549-daisenryaku-playerss-spirit.json) |
 | Daisia | 74739 | [74739-daisia.json](./74739-daisia.json) |
+| Daisu-Kiss | 65886 | [65886-daisu-kiss.json](./65886-daisu-kiss.json) |
 | Daisy Chain | 104137 | [104137-daisy-chain.json](./104137-daisy-chain.json) |
 | Daisy Chain | 298311 | [298311-daisy-chain.json](./298311-daisy-chain.json) |
 | Daisy Flies to the Moon | 160237 | [160237-daisy-flies-to-the-moon.json](./160237-daisy-flies-to-the-moon.json) |
@@ -974,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daredevil Dave: Motorcycle Stuntman! | 278323 | [278323-daredevil-dave-motorcycle-stuntman.json](./278323-daredevil-dave-motorcycle-stuntman.json) |
 | Daredevil Dynamite | 108504 | [108504-daredevil-dynamite.json](./108504-daredevil-dynamite.json) |
 | Daredevil Rider | 255746 | [255746-daredevil-rider.json](./255746-daredevil-rider.json) |
+| Daredevil: The Man Without Fear | 65943 | [65943-daredevil-the-man-without-fear.json](./65943-daredevil-the-man-without-fear.json) |
 | Daredevil's Descent & Cryogenic Crypt | 271759 | [271759-daredevils-descent-and-cryogenic-crypt.json](./271759-daredevils-descent-and-cryogenic-crypt.json) |
 | Daregon | 57468 | [57468-daregon.json](./57468-daregon.json) |
 | Darfall | 217030 | [217030-darfall.json](./217030-darfall.json) |
@@ -13103,6 +13105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive 'n' Park | 132025 | [132025-drive-n-park.json](./132025-drive-n-park.json) |
 | Drive 21 | 157501 | [157501-drive-21.json](./157501-drive-21.json) |
 | Drive 4 Survival | 139390 | [139390-drive-4-survival.json](./139390-drive-4-survival.json) |
+| Drive a Steam Train | 65894 | [65894-drive-a-steam-train.json](./65894-drive-a-steam-train.json) |
 | Drive Ahead! | 88869 | [88869-drive-ahead.json](./88869-drive-ahead.json) |
 | Drive Ahead! Carcade | 321142 | [321142-drive-ahead-carcade.json](./321142-drive-ahead-carcade.json) |
 | Drive and Jump | 175243 | [175243-drive-and-jump.json](./175243-drive-and-jump.json) |
