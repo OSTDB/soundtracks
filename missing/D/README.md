@@ -3497,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Dream | 155361 | [155361-death-dream.json](./155361-death-dream.json) |
 | Death Drive | 197775 | [197775-death-drive.json](./197775-death-drive.json) |
 | Death Drive | 376056 | [376056-death-drive.json](./376056-death-drive.json) |
+| Death Drive | 66481 | [66481-death-drive.json](./66481-death-drive.json) |
 | Death Drives a Bus | 138531 | [138531-death-drives-a-bus.json](./138531-death-drives-a-bus.json) |
 | Death Drome | 73755 | [73755-death-drome.json](./73755-death-drome.json) |
 | Death Duel | 46224 | [46224-death-duel.json](./46224-death-duel.json) |
@@ -3860,6 +3861,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decay of Opulence | 318128 | [318128-decay-of-opulence.json](./318128-decay-of-opulence.json) |
 | Decay of Worlds | 373832 | [373832-decay-of-worlds.json](./373832-decay-of-worlds.json) |
 | Decay Z : Space Survival | 107152 | [107152-decay-z-space-survival.json](./107152-decay-z-space-survival.json) |
+| Decay: Part 1 | 66480 | [66480-decay-part-1.json](./66480-decay-part-1.json) |
+| Decay: Part 2 | 66479 | [66479-decay-part-2.json](./66479-decay-part-2.json) |
 | Decay: The Mare - Episode 1 | 79950 | [79950-decay-the-mare-episode-1.json](./79950-decay-the-mare-episode-1.json) |
 | Decay: The Mare - Episode 2 | 79949 | [79949-decay-the-mare-episode-2.json](./79949-decay-the-mare-episode-2.json) |
 | Decayed | 280301 | [280301-decayed.json](./280301-decayed.json) |
@@ -13842,6 +13845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Survival | 67913 | [67913-duel-survival.json](./67913-duel-survival.json) |
 | Duel Toys 2 | 222860 | [222860-duel-toys-2.json](./222860-duel-toys-2.json) |
 | Duel VR | 29083 | [29083-duel-vr.json](./29083-duel-vr.json) |
+| Duel: The Art of Combat | 66520 | [66520-duel-the-art-of-combat.json](./66520-duel-the-art-of-combat.json) |
 | Duel: The Game Show | 410066 | [410066-duel-the-game-show.json](./410066-duel-the-game-show.json) |
 | Duel! | 137429 | [137429-duel.json](./137429-duel.json) |
 | Duelant | 311456 | [311456-duelant.json](./311456-duelant.json) |
@@ -14740,6 +14744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunland: Survivors Story | 247953 | [247953-dunland-survivors-story.json](./247953-dunland-survivors-story.json) |
 | Dunlight: Random Defense | 248157 | [248157-dunlight-random-defense.json](./248157-dunlight-random-defense.json) |
 | Dünnes Eis: Das Spiel zum Song | 301131 | [301131-dunnes-eis-das-spiel-zum-song.json](./301131-dunnes-eis-das-spiel-zum-song.json) |
+| Dunnet | 66484 | [66484-dunnet.json](./66484-dunnet.json) |
 | Dunnigan's Trail | 154009 | [154009-dunnigans-trail.json](./154009-dunnigans-trail.json) |
 | Dunrog | 124203 | [124203-dunrog.json](./124203-dunrog.json) |
 | Dunthera | 357837 | [357837-dunthera.json](./357837-dunthera.json) |
