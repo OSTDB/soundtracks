@@ -5059,6 +5059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pig Skater Simulator | 164990 | [164990-pig-skater-simulator.json](./164990-pig-skater-simulator.json) |
 | Pig vs Box | 368287 | [368287-pig-vs-box.json](./368287-pig-vs-box.json) |
 | Pig vs. Box | 366219 | [366219-pig-vs-box.json](./366219-pig-vs-box.json) |
+| PigBang: Slice and Dice | 56259 | [56259-pigbang-slice-and-dice.json](./56259-pigbang-slice-and-dice.json) |
 | Pigbert | 361766 | [361766-pigbert.json](./361766-pigbert.json) |
 | Pigbook | 278936 | [278936-pigbook.json](./278936-pigbook.json) |
 | Pigebomb | 307228 | [307228-pigebomb.json](./307228-pigebomb.json) |
@@ -5852,6 +5853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinto | 326968 | [326968-pinto.json](./326968-pinto.json) |
 | Pintorino | 386399 | [386399-pintorino.json](./386399-pintorino.json) |
 | Pintura | 290081 | [290081-pintura.json](./290081-pintura.json) |
+| Pinturillo 2 | 56265 | [56265-pinturillo-2.json](./56265-pinturillo-2.json) |
 | Pinup | 403142 | [403142-pinup.json](./403142-pinup.json) |
 | PinWar | 93632 | [93632-pinwar.json](./93632-pinwar.json) |
 | Pinyon Shift | 421204 | [421204-pinyon-shift.json](./421204-pinyon-shift.json) |
@@ -6811,6 +6813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Soccer | 35814 | [35814-pixel-soccer.json](./35814-pixel-soccer.json) |
 | Pixel Stars | 97224 | [97224-pixel-stars.json](./97224-pixel-stars.json) |
 | Pixel Stars Digital Dreamhouse | 245424 | [245424-pixel-stars-digital-dreamhouse.json](./245424-pixel-stars-digital-dreamhouse.json) |
+| Pixel Starships | 56258 | [56258-pixel-starships.json](./56258-pixel-starships.json) |
 | Pixel Storm | 182547 | [182547-pixel-storm.json](./182547-pixel-storm.json) |
 | Pixel Survival Game 2 | 241636 | [241636-pixel-survival-game-2.json](./241636-pixel-survival-game-2.json) |
 | Pixel Survival Game 3 | 256437 | [256437-pixel-survival-game-3.json](./256437-pixel-survival-game-3.json) |
@@ -7270,6 +7273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Crashmania 9,000,000 | 68540 | [68540-planet-crashmania-9-000-000.json](./68540-planet-crashmania-9-000-000.json) |
 | Planet Crossword | 220841 | [220841-planet-crossword.json](./220841-planet-crossword.json) |
 | Planet Crusher | 367718 | [367718-planet-crusher.json](./367718-planet-crusher.json) |
+| Planet Deathmatch | 56352 | [56352-planet-deathmatch.json](./56352-planet-deathmatch.json) |
 | Planet Defender | 386331 | [386331-planet-defender.json](./386331-planet-defender.json) |
 | Planet Delta | 80552 | [80552-planet-delta.json](./80552-planet-delta.json) |
 | Planet destroyer | 123867 | [123867-planet-destroyer.json](./123867-planet-destroyer.json) |
@@ -10418,6 +10422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Apocalypse | 130355 | [130355-post-apocalypse.json](./130355-post-apocalypse.json) |
 | Post Apocalyptic Mayhem | 16229 | [16229-post-apocalyptic-mayhem.json](./16229-post-apocalyptic-mayhem.json) |
 | Post Apocalyptic Petra | 185377 | [185377-post-apocalyptic-petra.json](./185377-post-apocalyptic-petra.json) |
+| Post Brutal | 56263 | [56263-post-brutal.json](./56263-post-brutal.json) |
 | Post Cards | 142994 | [142994-post-cards.json](./142994-post-cards.json) |
 | Post fur Ritter Rost | 187121 | [187121-post-fur-ritter-rost.json](./187121-post-fur-ritter-rost.json) |
 | Post Ghost | 307717 | [307717-post-ghost.json](./307717-post-ghost.json) |
