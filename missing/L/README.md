@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La La Land 2 | 215006 | [215006-la-la-land-2.json](./215006-la-la-land-2.json) |
 | La La Land 3 | 215008 | [215008-la-la-land-3.json](./215008-la-la-land-3.json) |
 | La La Land 4 | 215009 | [215009-la-la-land-4.json](./215009-la-la-land-4.json) |
+| La La Land 5 | 73635 | [73635-la-la-land-5.json](./73635-la-la-land-5.json) |
 | La Leyenda de la Biblioteca | 323224 | [323224-la-leyenda-de-la-biblioteca.json](./323224-la-leyenda-de-la-biblioteca.json) |
 | La Leyenda del Chupacabra | 75094 | [75094-la-leyenda-del-chupacabra.json](./75094-la-leyenda-del-chupacabra.json) |
 | La Libertad Arrasa: Milei | 323725 | [323725-la-libertad-arrasa-milei.json](./323725-la-libertad-arrasa-milei.json) |
@@ -594,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land-a Panda | 174620 | [174620-land-a-panda.json](./174620-land-a-panda.json) |
 | Land-io | 254444 | [254444-land-io.json](./254444-land-io.json) |
 | Land, Sea and Air 2! | 70362 | [70362-land-sea-and-air-2.json](./70362-land-sea-and-air-2.json) |
+| Land, Sea and Air! | 73665 | [73665-land-sea-and-air.json](./73665-land-sea-and-air.json) |
 | Land's End | 12883 | [12883-lands-end.json](./12883-lands-end.json) |
 | Land94 | 300266 | [300266-land94.json](./300266-land94.json) |
 | Landborne | 250036 | [250036-landborne.json](./250036-landborne.json) |
@@ -767,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Larry the Unlucky: Part 2 | 164602 | [164602-larry-the-unlucky-part-2.json](./164602-larry-the-unlucky-part-2.json) |
 | Larry the Unlucky: Part 3 | 188847 | [188847-larry-the-unlucky-part-3.json](./188847-larry-the-unlucky-part-3.json) |
 | Larry Vales II: Dead Girls are Easy | 76463 | [76463-larry-vales-ii-dead-girls-are-easy.json](./76463-larry-vales-ii-dead-girls-are-easy.json) |
+| Larry Vales: Traffic Division | 73137 | [73137-larry-vales-traffic-division.json](./73137-larry-vales-traffic-division.json) |
 | Larry: Wet Dreams Dry Twice | 200194 | [200194-larry-wet-dreams-dry-twice.json](./200194-larry-wet-dreams-dry-twice.json) |
 | Larry's Lab | 373527 | [373527-larrys-lab.json](./373527-larrys-lab.json) |
 | Larry's New Wheelchair | 238524 | [238524-larrys-new-wheelchair.json](./238524-larrys-new-wheelchair.json) |
@@ -1397,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavrock: Last Fortress | 244655 | [244655-lavrock-last-fortress.json](./244655-lavrock-last-fortress.json) |
 | Lavrynthos | 236907 | [236907-lavrynthos.json](./236907-lavrynthos.json) |
 | Law & Order II: Double or Nothing | 70027 | [70027-law-and-order-ii-double-or-nothing.json](./70027-law-and-order-ii-double-or-nothing.json) |
+| Law & Order: Dead on the Money | 73105 | [73105-law-and-order-dead-on-the-money.json](./73105-law-and-order-dead-on-the-money.json) |
 | Law & Order: Legacies | 18874 | [18874-law-and-order-legacies.json](./18874-law-and-order-legacies.json) |
 | Law & Order: Mushroom Kingdom Unit - Pilot Episode: Tragic Fox "Tails" | 345625 | [345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json](./345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json) |
 | Law and Order: Los Angeles | 79795 | [79795-law-and-order-los-angeles.json](./79795-law-and-order-los-angeles.json) |
@@ -3723,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Fingers | 69487 | [69487-light-fingers.json](./69487-light-fingers.json) |
 | Light Followers: Blinded by the Dark | 349886 | [349886-light-followers-blinded-by-the-dark.json](./349886-light-followers-blinded-by-the-dark.json) |
 | Light For Plants | 149273 | [149273-light-for-plants.json](./149273-light-for-plants.json) |
+| Light Force | 73140 | [73140-light-force.json](./73140-light-force.json) |
 | Light from Above | 288649 | [288649-light-from-above.json](./288649-light-from-above.json) |
 | Light Gravity Cube | 343768 | [343768-light-gravity-cube.json](./343768-light-gravity-cube.json) |
 | Light Gravity Cube | 37042 | [37042-light-gravity-cube.json](./37042-light-gravity-cube.json) |
@@ -4394,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links: Championship Course - Troon North | 73319 | [73319-links-championship-course-troon-north.json](./73319-links-championship-course-troon-north.json) |
 | Links: Championship Course: Innisbrook - Copperhead | 73481 | [73481-links-championship-course-innisbrook-copperhead.json](./73481-links-championship-course-innisbrook-copperhead.json) |
 | Links: Championship Edition | 77903 | [77903-links-championship-edition.json](./77903-links-championship-edition.json) |
+| Links: Fantasy Course - Devils Island | 73115 | [73115-links-fantasy-course-devils-island.json](./73115-links-fantasy-course-devils-island.json) |
 | LinkShift | 357168 | [357168-linkshift.json](./357168-linkshift.json) |
 | Linkz | 92995 | [92995-linkz.json](./92995-linkz.json) |
 | Linley Henzell's Dungeon Crawl | 84198 | [84198-linley-henzells-dungeon-crawl.json](./84198-linley-henzells-dungeon-crawl.json) |
@@ -5091,6 +5097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Books: D.W. the Picky Eater | 122276 | [122276-living-books-d-w-the-picky-eater.json](./122276-living-books-d-w-the-picky-eater.json) |
 | Living Books: Dr. Seuss's ABC | 134447 | [134447-living-books-dr-seusss-abc.json](./134447-living-books-dr-seusss-abc.json) |
 | Living Books: Harry and the Haunted House | 70079 | [70079-living-books-harry-and-the-haunted-house.json](./70079-living-books-harry-and-the-haunted-house.json) |
+| Living Books: Just Grandma and Me | 73667 | [73667-living-books-just-grandma-and-me.json](./73667-living-books-just-grandma-and-me.json) |
 | Living Books: Little Monster at School | 45917 | [45917-living-books-little-monster-at-school.json](./45917-living-books-little-monster-at-school.json) |
 | Living Books: Sheila Rae, the Brave | 71796 | [71796-living-books-sheila-rae-the-brave.json](./71796-living-books-sheila-rae-the-brave.json) |
 | Living Books: Stellaluna | 229068 | [229068-living-books-stellaluna.json](./229068-living-books-stellaluna.json) |
