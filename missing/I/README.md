@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am on Fire | 188421 | [188421-i-am-on-fire.json](./188421-i-am-on-fire.json) |
 | I Am Overburdened | 74212 | [74212-i-am-overburdened.json](./74212-i-am-overburdened.json) |
 | I Am Part-time Worker!! | 303549 | [303549-i-am-part-time-worker.json](./303549-i-am-part-time-worker.json) |
+| I am Playr | 63173 | [63173-i-am-playr.json](./63173-i-am-playr.json) |
 | I am queer, am I legit ? | 179940 | [179940-i-am-queer-am-i-legit.json](./179940-i-am-queer-am-i-legit.json) |
 | I am Rabbit | 256727 | [256727-i-am-rabbit.json](./256727-i-am-rabbit.json) |
 | I Am Reptile | 345086 | [345086-i-am-reptile.json](./345086-i-am-reptile.json) |
@@ -3990,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Volleyball 2009 | 24758 | [24758-international-volleyball-2009.json](./24758-international-volleyball-2009.json) |
 | International Wrestling Simulator 2018 | 112188 | [112188-international-wrestling-simulator-2018.json](./112188-international-wrestling-simulator-2018.json) |
 | Internet Addicted Youth 2005 | 259080 | [259080-internet-addicted-youth-2005.json](./259080-internet-addicted-youth-2005.json) |
+| Internet Backgammon | 63073 | [63073-internet-backgammon.json](./63073-internet-backgammon.json) |
 | Internet Cafe & Supermarket Simulator 2024 | 297831 | [297831-internet-cafe-and-supermarket-simulator-2024.json](./297831-internet-cafe-and-supermarket-simulator-2024.json) |
 | Internet Cafe 98 | 412441 | [412441-internet-cafe-98.json](./412441-internet-cafe-98.json) |
 | Internet Cafe Creator | 262243 | [262243-internet-cafe-creator.json](./262243-internet-cafe-creator.json) |
@@ -3998,6 +4000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Cafe Mini Games 10 in 1 | 267852 | [267852-internet-cafe-mini-games-10-in-1.json](./267852-internet-cafe-mini-games-10-in-1.json) |
 | Internet Cafe Simulator 2025 | 324999 | [324999-internet-cafe-simulator-2025.json](./324999-internet-cafe-simulator-2025.json) |
 | Internet Cafe Tycoon | 410715 | [410715-internet-cafe-tycoon.json](./410715-internet-cafe-tycoon.json) |
+| Internet Checkers | 63071 | [63071-internet-checkers.json](./63071-internet-checkers.json) |
 | Internet City | 231753 | [231753-internet-city.json](./231753-internet-city.json) |
 | Internet Club & Cafe Simulator | 342410 | [342410-internet-club-and-cafe-simulator.json](./342410-internet-club-and-cafe-simulator.json) |
 | Internet Entrepreneurship Simulator | 348781 | [348781-internet-entrepreneurship-simulator.json](./348781-internet-entrepreneurship-simulator.json) |
@@ -4006,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Reversi | 230732 | [230732-internet-reversi.json](./230732-internet-reversi.json) |
 | Internet Scrabble Club | 157528 | [157528-internet-scrabble-club.json](./157528-internet-scrabble-club.json) |
 | Internet Simulator | 98241 | [98241-internet-simulator.json](./98241-internet-simulator.json) |
+| Internet Spades | 63068 | [63068-internet-spades.json](./63068-internet-spades.json) |
 | Internet Survivor Survivors | 413626 | [413626-internet-survivor-survivors.json](./413626-internet-survivor-survivors.json) |
 | Internet Tycoon | 284246 | [284246-internet-tycoon.json](./284246-internet-tycoon.json) |
 | Internet: legko i prosto! | 316480 | [316480-internet-legko-i-prosto.json](./316480-internet-legko-i-prosto.json) |
