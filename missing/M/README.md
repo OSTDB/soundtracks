@@ -8249,6 +8249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michael Jackson's Moonwalker | 262508 | [262508-michael-jacksons-moonwalker.json](./262508-michael-jacksons-moonwalker.json) |
 | Michael Jordan in Flight | 198814 | [198814-michael-jordan-in-flight.json](./198814-michael-jordan-in-flight.json) |
 | Michael Jordan in Flight | 69585 | [69585-michael-jordan-in-flight.json](./69585-michael-jordan-in-flight.json) |
+| Michael Ninn's Latex: The Game | 70788 | [70788-michael-ninns-latex-the-game.json](./70788-michael-ninns-latex-the-game.json) |
 | Michael Owen's WLS 2000 | 3407 | [3407-michael-owens-wls-2000.json](./3407-michael-owens-wls-2000.json) |
 | Michael Schacht's Web of Power Card Game: The Duel | 175293 | [175293-michael-schachts-web-of-power-card-game-the-duel.json](./175293-michael-schachts-web-of-power-card-game-the-duel.json) |
 | Michael Schumacher Racing World Kart 2002 | 8853 | [8853-michael-schumacher-racing-world-kart-2002.json](./8853-michael-schumacher-racing-world-kart-2002.json) |
@@ -13127,6 +13128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight In Garland | 152459 | [152459-moonlight-in-garland.json](./152459-moonlight-in-garland.json) |
 | Moonlight Knight | 252665 | [252665-moonlight-knight.json](./252665-moonlight-knight.json) |
 | Moonlight Lovers | 186764 | [186764-moonlight-lovers.json](./186764-moonlight-lovers.json) |
+| Moonlight Madness | 70772 | [70772-moonlight-madness.json](./70772-moonlight-madness.json) |
 | Moonlight Mansion | 132525 | [132525-moonlight-mansion.json](./132525-moonlight-mansion.json) |
 | Moonlight Mayhem | 257993 | [257993-moonlight-mayhem.json](./257993-moonlight-mayhem.json) |
 | Moonlight maze | 121734 | [121734-moonlight-maze.json](./121734-moonlight-maze.json) |
