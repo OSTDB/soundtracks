@@ -2390,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weakness Hero Torauman DC | 77564 | [77564-weakness-hero-torauman-dc.json](./77564-weakness-hero-torauman-dc.json) |
 | WeakWood Throne | 82469 | [82469-weakwood-throne.json](./82469-weakwood-throne.json) |
 | Weaphones Firearms Sim Mini | 343967 | [343967-weaphones-firearms-sim-mini.json](./343967-weaphones-firearms-sim-mini.json) |
+| Weaphones WW2: Firearms Simulator | 91227 | [91227-weaphones-ww2-firearms-simulator.json](./91227-weaphones-ww2-firearms-simulator.json) |
 | Weaphones: Firearms Simulator 2 | 93815 | [93815-weaphones-firearms-simulator-2.json](./93815-weaphones-firearms-simulator-2.json) |
 | Weapon Ball Fight | 383930 | [383930-weapon-ball-fight.json](./383930-weapon-ball-fight.json) |
 | Weapon Devourer | 282248 | [282248-weapon-devourer.json](./282248-weapon-devourer.json) |
@@ -3824,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Must Die | 33112 | [33112-who-must-die.json](./33112-who-must-die.json) |
 | Who owns the kangaroo? | 71215 | [71215-who-owns-the-kangaroo.json](./71215-who-owns-the-kangaroo.json) |
 | Who said Meow | 53125 | [53125-who-said-meow.json](./53125-who-said-meow.json) |
+| Who Said This in Conference | 91176 | [91176-who-said-this-in-conference.json](./91176-who-said-this-in-conference.json) |
 | Who Shot James R. Burnside? | 302493 | [302493-who-shot-james-r-burnside.json](./302493-who-shot-james-r-burnside.json) |
 | Who Shot Johnny Rock? | 4281 | [4281-who-shot-johnny-rock.json](./4281-who-shot-johnny-rock.json) |
 | Who Shuffled My Shapes? | 200413 | [200413-who-shuffled-my-shapes.json](./200413-who-shuffled-my-shapes.json) |
