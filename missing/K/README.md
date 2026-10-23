@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kappa's Asylum | 304565 | [304565-kappas-asylum.json](./304565-kappas-asylum.json) |
 | Kapsul Infinite | 31576 | [31576-kapsul-infinite.json](./31576-kapsul-infinite.json) |
 | Kapsyljakt med Anki & Pytte | 225648 | [225648-kapsyljakt-med-anki-and-pytte.json](./225648-kapsyljakt-med-anki-and-pytte.json) |
+| Käpt'n Blaubär: Bannig auf Zack | 98216 | [98216-kaptn-blaubar-bannig-auf-zack.json](./98216-kaptn-blaubar-bannig-auf-zack.json) |
 | Käpt'n Blaubär: Die Verrückte Schatzsuche | 86070 | [86070-kaptn-blaubar-die-verruckte-schatzsuche.json](./86070-kaptn-blaubar-die-verruckte-schatzsuche.json) |
 | Kaptajn Kaper | 112044 | [112044-kaptajn-kaper.json](./112044-kaptajn-kaper.json) |
 | Kaputte Kranz Chap1 | 370992 | [370992-kaputte-kranz-chap1.json](./370992-kaputte-kranz-chap1.json) |
@@ -2208,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimono Cats | 249774 | [249774-kimono-cats.json](./249774-kimono-cats.json) |
 | Kimono Girls | 286449 | [286449-kimono-girls.json](./286449-kimono-girls.json) |
 | Kin | 84169 | [84169-kin.json](./84169-kin.json) |
+| Kin | 98306 | [98306-kin.json](./98306-kin.json) |
 | Kin and Conquest | 400228 | [400228-kin-and-conquest.json](./400228-kin-and-conquest.json) |
 | Kin:D | 202143 | [202143-kin-d.json](./202143-kin-d.json) |
 | Kin:d Barabin's Expedition | 372698 | [372698-kin-d-barabins-expedition.json](./372698-kin-d-barabins-expedition.json) |
