@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valthazar's Sanctum | 266306 | [266306-valthazars-sanctum.json](./266306-valthazars-sanctum.json) |
 | Valthirian Arc: Hero School Story 2 | 163873 | [163873-valthirian-arc-hero-school-story-2.json](./163873-valthirian-arc-hero-school-story-2.json) |
 | Valtica | 413509 | [413509-valtica.json](./413509-valtica.json) |
+| Value 1500: O-chan no Oekaki Logic 3 | 58531 | [58531-value-1500-o-chan-no-oekaki-logic-3.json](./58531-value-1500-o-chan-no-oekaki-logic-3.json) |
 | ValueHunt | 281338 | [281338-valuehunt.json](./281338-valuehunt.json) |
 | Valve Complete Pack | 55025 | [55025-valve-complete-pack.json](./55025-valve-complete-pack.json) |
 | Valve Limit R | 198311 | [198311-valve-limit-r.json](./198311-valve-limit-r.json) |
@@ -1553,6 +1554,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Editor Tycoon | 157468 | [157468-video-editor-tycoon.json](./157468-video-editor-tycoon.json) |
 | Video Editor's Toolkit | 256117 | [256117-video-editors-toolkit.json](./256117-video-editors-toolkit.json) |
 | Video Ezy: In the Movies - Interactive DVD Trivia Game | 231832 | [231832-video-ezy-in-the-movies-interactive-dvd-trivia-game.json](./231832-video-ezy-in-the-movies-interactive-dvd-trivia-game.json) |
+| Video Game Anthology vol. 1: Terra Cresta & Moon Cresta | 58554 | [58554-video-game-anthology-vol-1-terra-cresta-and-moon-cresta.json](./58554-video-game-anthology-vol-1-terra-cresta-and-moon-cresta.json) |
+| Video Game Anthology vol. 8: Shusse Ozumo/Exciting Hour | 58552 | [58552-video-game-anthology-vol-8-shusse-ozumo-exciting-hour.json](./58552-video-game-anthology-vol-8-shusse-ozumo-exciting-hour.json) |
 | Video Game Bandle | 360891 | [360891-video-game-bandle.json](./360891-video-game-bandle.json) |
 | Video Game Feminization Hypnosis | 146905 | [146905-video-game-feminization-hypnosis.json](./146905-video-game-feminization-hypnosis.json) |
 | Video Game Grid | 333195 | [333195-video-game-grid.json](./333195-video-game-grid.json) |
