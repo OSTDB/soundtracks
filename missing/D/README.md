@@ -4519,6 +4519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of Time | 17722 | [17722-defenders-of-time.json](./17722-defenders-of-time.json) |
 | Defenders: Survival and Tower Defense | 135661 | [135661-defenders-survival-and-tower-defense.json](./135661-defenders-survival-and-tower-defense.json) |
 | DefenderWorks | 61131 | [61131-defenderworks.json](./61131-defenderworks.json) |
+| Defendin' De Penguin | 51034 | [51034-defendin-de-penguin.json](./51034-defendin-de-penguin.json) |
 | Defending Earth | 235172 | [235172-defending-earth.json](./235172-defending-earth.json) |
 | Defending Frontiers | 127203 | [127203-defending-frontiers.json](./127203-defending-frontiers.json) |
 | Defending Territory | 119549 | [119549-defending-territory.json](./119549-defending-territory.json) |
@@ -11125,6 +11126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Jam | 207784 | [207784-downtown-jam.json](./207784-downtown-jam.json) |
 | Downtown Journey | 308454 | [308454-downtown-journey.json](./308454-downtown-journey.json) |
 | Downtown Mafia: Gang Wars | 105348 | [105348-downtown-mafia-gang-wars.json](./105348-downtown-mafia-gang-wars.json) |
+| Downtown Nekketsu Dodgeball | 50993 | [50993-downtown-nekketsu-dodgeball.json](./50993-downtown-nekketsu-dodgeball.json) |
 | Downtown Nekketsu Jidaigeki | 60562 | [60562-downtown-nekketsu-jidaigeki.json](./60562-downtown-nekketsu-jidaigeki.json) |
 | Downtown Nekketsu Koushinkyoku: Dokodemo Daiundoukai | 49109 | [49109-downtown-nekketsu-koushinkyoku-dokodemo-daiundoukai.json](./49109-downtown-nekketsu-koushinkyoku-dokodemo-daiundoukai.json) |
 | Downtown Nekketsu Monogatari | 145363 | [145363-downtown-nekketsu-monogatari.json](./145363-downtown-nekketsu-monogatari.json) |
@@ -12663,6 +12665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Records | 229745 | [229745-dream-records.json](./229745-dream-records.json) |
 | Dream Riders | 406861 | [406861-dream-riders.json](./406861-dream-riders.json) |
 | Dream RPG | 229599 | [229599-dream-rpg.json](./229599-dream-rpg.json) |
+| Dream Salon | 51033 | [51033-dream-salon.json](./51033-dream-salon.json) |
 | Dream Savior | 385359 | [385359-dream-savior.json](./385359-dream-savior.json) |
 | Dream Seed | 257069 | [257069-dream-seed.json](./257069-dream-seed.json) |
 | Dream Sequences | 202247 | [202247-dream-sequences.json](./202247-dream-sequences.json) |
