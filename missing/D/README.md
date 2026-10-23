@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dam Panic | 346038 | [346038-dam-panic.json](./346038-dam-panic.json) |
 | Dam Rush XD | 397392 | [397392-dam-rush-xd.json](./397392-dam-rush-xd.json) |
 | Dama Gallery | 154977 | [154977-dama-gallery.json](./154977-dama-gallery.json) |
+| Dama King | 95251 | [95251-dama-king.json](./95251-dama-king.json) |
 | Damaaz the Barbarian Warlock | 278713 | [278713-damaaz-the-barbarian-warlock.json](./278713-damaaz-the-barbarian-warlock.json) |
 | Damage Chess | 420501 | [420501-damage-chess.json](./420501-damage-chess.json) |
 | Damage Control | 33302 | [33302-damage-control.json](./33302-damage-control.json) |
@@ -837,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Fists | 219673 | [219673-dangerous-fists.json](./219673-dangerous-fists.json) |
 | Dangerous Games: Illusionist | 140212 | [140212-dangerous-games-illusionist.json](./140212-dangerous-games-illusionist.json) |
 | Dangerous Games: Illusionist - Collector's Edition | 81078 | [81078-dangerous-games-illusionist-collectors-edition.json](./81078-dangerous-games-illusionist-collectors-edition.json) |
+| Dangerous Games: Illusionist HD - A Magical Hidden Object Mystery | 95248 | [95248-dangerous-games-illusionist-hd-a-magical-hidden-object-mystery.json](./95248-dangerous-games-illusionist-hd-a-magical-hidden-object-mystery.json) |
 | Dangerous Games: Prisoners of Destiny | 139751 | [139751-dangerous-games-prisoners-of-destiny.json](./139751-dangerous-games-prisoners-of-destiny.json) |
 | Dangerous Golf | 18985 | [18985-dangerous-golf.json](./18985-dangerous-golf.json) |
 | Dangerous Ground | 111219 | [111219-dangerous-ground.json](./111219-dangerous-ground.json) |
@@ -1410,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Roll: Free Kick Challenge | 157943 | [157943-dark-roll-free-kick-challenge.json](./157943-dark-roll-free-kick-challenge.json) |
 | Dark Romance: Ashville | 139798 | [139798-dark-romance-ashville.json](./139798-dark-romance-ashville.json) |
 | Dark Romance: Curse of Bluebeard - Collector's Edition | 146516 | [146516-dark-romance-curse-of-bluebeard-collectors-edition.json](./146516-dark-romance-curse-of-bluebeard-collectors-edition.json) |
+| Dark Romance: Heart of the Beast - Collector's Edition | 95242 | [95242-dark-romance-heart-of-the-beast-collectors-edition.json](./95242-dark-romance-heart-of-the-beast-collectors-edition.json) |
 | Dark Romance: Heart of the Beast HD | 88814 | [88814-dark-romance-heart-of-the-beast-hd.json](./88814-dark-romance-heart-of-the-beast-hd.json) |
 | Dark Romance: Hunchback of Notre-Dame - Collector's Edition | 116108 | [116108-dark-romance-hunchback-of-notre-dame-collectors-edition.json](./116108-dark-romance-hunchback-of-notre-dame-collectors-edition.json) |
 | Dark Romance: Kingdom of Death HD | 88810 | [88810-dark-romance-kingdom-of-death-hd.json](./88810-dark-romance-kingdom-of-death-hd.json) |
@@ -10918,6 +10921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downfall to the Turnabout | 303757 | [303757-downfall-to-the-turnabout.json](./303757-downfall-to-the-turnabout.json) |
 | Downhell | 274127 | [274127-downhell.json](./274127-downhell.json) |
 | Downhill Challenge | 73798 | [73798-downhill-challenge.json](./73798-downhill-challenge.json) |
+| Downhill Deceits | 95253 | [95253-downhill-deceits.json](./95253-downhill-deceits.json) |
 | Downhill Domination | 6340 | [6340-downhill-domination.json](./6340-downhill-domination.json) |
 | Downhill Driver: Extreme Racing Simulator | 283285 | [283285-downhill-driver-extreme-racing-simulator.json](./283285-downhill-driver-extreme-racing-simulator.json) |
 | Downhill Girl | 274918 | [274918-downhill-girl.json](./274918-downhill-girl.json) |
