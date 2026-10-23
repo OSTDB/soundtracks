@@ -6705,6 +6705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Panda | 114263 | [114263-gravity-panda.json](./114263-gravity-panda.json) |
 | Gravity Pilot! | 194366 | [194366-gravity-pilot.json](./194366-gravity-pilot.json) |
 | Gravity Pull | 202172 | [202172-gravity-pull.json](./202172-gravity-pull.json) |
+| Gravity puzzles | 81844 | [81844-gravity-puzzles.json](./81844-gravity-puzzles.json) |
 | Gravity Racers | 379054 | [379054-gravity-racers.json](./379054-gravity-racers.json) |
 | Gravity Range | 175333 | [175333-gravity-range.json](./175333-gravity-range.json) |
 | Gravity Rider Zero | 147134 | [147134-gravity-rider-zero.json](./147134-gravity-rider-zero.json) |
@@ -8191,6 +8192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guinea Pig Parkour | 130578 | [130578-guinea-pig-parkour.json](./130578-guinea-pig-parkour.json) |
 | Guinea Pig Runaway Together | 390055 | [390055-guinea-pig-runaway-together.json](./390055-guinea-pig-runaway-together.json) |
 | Guinea Pig Temple | 395889 | [395889-guinea-pig-temple.json](./395889-guinea-pig-temple.json) |
+| Guinea-Pig | 81879 | [81879-guinea-pig.json](./81879-guinea-pig.json) |
 | Guinevere | 313874 | [313874-guinevere.json](./313874-guinevere.json) |
 | Guinness World Records 2010: Gamer's Edition | 21746 | [21746-guinness-world-records-2010-gamers-edition.json](./21746-guinness-world-records-2010-gamers-edition.json) |
 | Guise of the Wolf | 7669 | [7669-guise-of-the-wolf.json](./7669-guise-of-the-wolf.json) |
@@ -8314,6 +8316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gummy World | 101056 | [101056-gummy-world.json](./101056-gummy-world.json) |
 | GummyShooter | 146663 | [146663-gummyshooter.json](./146663-gummyshooter.json) |
 | Gumnaam | 215353 | [215353-gumnaam.json](./215353-gumnaam.json) |
+| Gump | 81873 | [81873-gump.json](./81873-gump.json) |
 | Gump Jump | 209647 | [209647-gump-jump.json](./209647-gump-jump.json) |
 | Gump Runner | 29183 | [29183-gump-runner.json](./29183-gump-runner.json) |
 | GumPop! | 380196 | [380196-gumpop.json](./380196-gumpop.json) |
