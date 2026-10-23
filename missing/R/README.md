@@ -4256,6 +4256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Res Arcana | 37869 | [37869-res-arcana.json](./37869-res-arcana.json) |
 | Res Arcana Diana Rei: Uranai no Meikyu | 58683 | [58683-res-arcana-diana-rei-uranai-no-meikyu.json](./58683-res-arcana-diana-rei-uranai-no-meikyu.json) |
 | Res Furtiva | 146598 | [146598-res-furtiva.json](./146598-res-furtiva.json) |
+| Res Judicata: Vale of Myth | 51717 | [51717-res-judicata-vale-of-myth.json](./51717-res-judicata-vale-of-myth.json) |
 | ReSail | 182938 | [182938-resail.json](./182938-resail.json) |
 | Resbs | 201565 | [201565-resbs.json](./201565-resbs.json) |
 | Rescale | 108392 | [108392-rescale.json](./108392-rescale.json) |
