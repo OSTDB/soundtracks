@@ -6124,6 +6124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Caribbean: Armada of the Damned | 68228 | [68228-pirates-of-the-caribbean-armada-of-the-damned.json](./68228-pirates-of-the-caribbean-armada-of-the-damned.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 194266 | [194266-pirates-of-the-caribbean-dead-mans-chest.json](./194266-pirates-of-the-caribbean-dead-mans-chest.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 20542 | [20542-pirates-of-the-caribbean-dead-mans-chest.json](./20542-pirates-of-the-caribbean-dead-mans-chest.json) |
+| Pirates of the Caribbean: Isles Of War | 62529 | [62529-pirates-of-the-caribbean-isles-of-war.json](./62529-pirates-of-the-caribbean-isles-of-war.json) |
 | Pirates of the Caribbean: New Horizons | 310699 | [310699-pirates-of-the-caribbean-new-horizons.json](./310699-pirates-of-the-caribbean-new-horizons.json) |
 | Pirates of the Caribbean: The Curse of the Black Pearl | 19218 | [19218-pirates-of-the-caribbean-the-curse-of-the-black-pearl.json](./19218-pirates-of-the-caribbean-the-curse-of-the-black-pearl.json) |
 | Pirates of the Caribbean: Tides of War | 97500 | [97500-pirates-of-the-caribbean-tides-of-war.json](./97500-pirates-of-the-caribbean-tides-of-war.json) |
