@@ -7573,6 +7573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketbirds: Revolution! | 242929 | [242929-rocketbirds-revolution.json](./242929-rocketbirds-revolution.json) |
 | Rocketboarder | 118793 | [118793-rocketboarder.json](./118793-rocketboarder.json) |
 | Rocketboat - Pilot | 89776 | [89776-rocketboat-pilot.json](./89776-rocketboat-pilot.json) |
+| RocketBowl | 70227 | [70227-rocketbowl.json](./70227-rocketbowl.json) |
 | RocketBoy 2 | 400455 | [400455-rocketboy-2.json](./400455-rocketboy-2.json) |
 | RocketBoy 3 | 400456 | [400456-rocketboy-3.json](./400456-rocketboy-3.json) |
 | RocketBoy! | 400454 | [400454-rocketboy.json](./400454-rocketboy.json) |
