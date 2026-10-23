@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baker Street Breakouts: A Sherlockian Escape Adventure | 231870 | [231870-baker-street-breakouts-a-sherlockian-escape-adventure.json](./231870-baker-street-breakouts-a-sherlockian-escape-adventure.json) |
 | Baker's Dozen | 260859 | [260859-bakers-dozen.json](./260859-bakers-dozen.json) |
 | Bakeru | 254466 | [254466-bakeru.json](./254466-bakeru.json) |
+| Bakery | 75628 | [75628-bakery.json](./75628-bakery.json) |
 | Bakery Biz Tycoon | 119306 | [119306-bakery-biz-tycoon.json](./119306-bakery-biz-tycoon.json) |
 | Bakery Cafe Simulator | 339217 | [339217-bakery-cafe-simulator.json](./339217-bakery-cafe-simulator.json) |
 | Bakery Magnate: Beginning | 292692 | [292692-bakery-magnate-beginning.json](./292692-bakery-magnate-beginning.json) |
@@ -1701,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bankruptcy | 292283 | [292283-bankruptcy.json](./292283-bankruptcy.json) |
 | Bankshot | 344560 | [344560-bankshot.json](./344560-bankshot.json) |
 | Bankshot Billiards 2 | 20523 | [20523-bankshot-billiards-2.json](./20523-bankshot-billiards-2.json) |
+| Bankster | 76370 | [76370-bankster.json](./76370-bankster.json) |
 | Bankwave: Neon Networth | 258954 | [258954-bankwave-neon-networth.json](./258954-bankwave-neon-networth.json) |
 | Banmeng Yexing: A Journey on Limbus | 260864 | [260864-banmeng-yexing-a-journey-on-limbus.json](./260864-banmeng-yexing-a-journey-on-limbus.json) |
 | Banned From Equestria (Daily) | 148383 | [148383-banned-from-equestria-daily.json](./148383-banned-from-equestria-daily.json) |
@@ -2232,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrier | 346049 | [346049-barrier.json](./346049-barrier.json) |
 | Barrier | 38546 | [38546-barrier.json](./38546-barrier.json) |
 | Barrier X | 32964 | [32964-barrier-x.json](./32964-barrier-x.json) |
+| Barrimean Jungle | 75644 | [75644-barrimean-jungle.json](./75644-barrimean-jungle.json) |
 | Barro | 95668 | [95668-barro.json](./95668-barro.json) |
 | Barro 2020 | 123866 | [123866-barro-2020.json](./123866-barro-2020.json) |
 | Barro 22 | 181008 | [181008-barro-22.json](./181008-barro-22.json) |
@@ -12405,6 +12408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brink Complete Pack | 25050 | [25050-brink-complete-pack.json](./25050-brink-complete-pack.json) |
 | Brink of Broken | 381353 | [381353-brink-of-broken.json](./381353-brink-of-broken.json) |
 | Brink of Consciousness: The Lonely Hearts Murders | 17918 | [17918-brink-of-consciousness-the-lonely-hearts-murders.json](./17918-brink-of-consciousness-the-lonely-hearts-murders.json) |
+| Brink of Extinction | 75648 | [75648-brink-of-extinction.json](./75648-brink-of-extinction.json) |
 | Brink of War | 310250 | [310250-brink-of-war.json](./310250-brink-of-war.json) |
 | Brink Traveler | 168681 | [168681-brink-traveler.json](./168681-brink-traveler.json) |
 | Brink: Agent of Change | 97093 | [97093-brink-agent-of-change.json](./97093-brink-agent-of-change.json) |
