@@ -4037,6 +4037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega GT | 28838 | [28838-sega-gt.json](./28838-sega-gt.json) |
 | Sega GT 2002 / Jet Set Radio Future | 144128 | [144128-sega-gt-2002-jet-set-radio-future.json](./144128-sega-gt-2002-jet-set-radio-future.json) |
 | Sega GT Online | 6040 | [6040-sega-gt-online.json](./6040-sega-gt-online.json) |
+| Sega GT: European Edition | 46366 | [46366-sega-gt-european-edition.json](./46366-sega-gt-european-edition.json) |
 | Sega Legends | 108842 | [108842-sega-legends.json](./108842-sega-legends.json) |
 | Sega Marine Fishing | 45838 | [45838-sega-marine-fishing.json](./45838-sega-marine-fishing.json) |
 | Sega Master System Brawl | 266667 | [266667-sega-master-system-brawl.json](./266667-sega-master-system-brawl.json) |
@@ -4061,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Smash Pack | 100035 | [100035-sega-smash-pack.json](./100035-sega-smash-pack.json) |
 | Sega Smash Pack | 136875 | [136875-sega-smash-pack.json](./136875-sega-smash-pack.json) |
 | Sega Smash Pack 2 | 74302 | [74302-sega-smash-pack-2.json](./74302-sega-smash-pack-2.json) |
+| Sega Smash Pack Volume 1 | 46373 | [46373-sega-smash-pack-volume-1.json](./46373-sega-smash-pack-volume-1.json) |
 | Sega Smash Pack: Twin Pack | 136874 | [136874-sega-smash-pack-twin-pack.json](./136874-sega-smash-pack-twin-pack.json) |
 | Sega Soccer | 263353 | [263353-sega-soccer.json](./263353-sega-soccer.json) |
 | Sega Soccer Slam | 248470 | [248470-sega-soccer-slam.json](./248470-sega-soccer-slam.json) |
@@ -4071,6 +4073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Strike Fighter | 112506 | [112506-sega-strike-fighter.json](./112506-sega-strike-fighter.json) |
 | Sega Superstars Tennis | 255326 | [255326-sega-superstars-tennis.json](./255326-sega-superstars-tennis.json) |
 | Sega Superstars Tennis and Xbox Live Arcade Compilation Disc | 227984 | [227984-sega-superstars-tennis-and-xbox-live-arcade-compilation-disc.json](./227984-sega-superstars-tennis-and-xbox-live-arcade-compilation-disc.json) |
+| Sega Swirl | 46374 | [46374-sega-swirl.json](./46374-sega-swirl.json) |
 | Sega Tetris | 131318 | [131318-sega-tetris.json](./131318-sega-tetris.json) |
 | Sega Top Five | 78759 | [78759-sega-top-five.json](./78759-sega-top-five.json) |
 | Sega Top Ten | 78756 | [78756-sega-top-ten.json](./78756-sega-top-ten.json) |
@@ -4139,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seinfeld: The Telltale Series | 144119 | [144119-seinfeld-the-telltale-series.json](./144119-seinfeld-the-telltale-series.json) |
 | Seirei no Mori no Bouken | 358503 | [358503-seirei-no-mori-no-bouken.json](./358503-seirei-no-mori-no-bouken.json) |
 | Seirei Senshi Spriggan | 37617 | [37617-seirei-senshi-spriggan.json](./37617-seirei-senshi-spriggan.json) |
+| Seirei Shinseiki Fhey Area | 46391 | [46391-seirei-shinseiki-fhey-area.json](./46391-seirei-shinseiki-fhey-area.json) |
 | Seireiki Rayblade | 166591 | [166591-seireiki-rayblade.json](./166591-seireiki-rayblade.json) |
 | Seireiki Rayblade | 311290 | [311290-seireiki-rayblade.json](./311290-seireiki-rayblade.json) |
 | Seiryuu Densetsu Monbit | 66141 | [66141-seiryuu-densetsu-monbit.json](./66141-seiryuu-densetsu-monbit.json) |
@@ -16638,6 +16642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Dating for Ghosts | 75799 | [75799-speed-dating-for-ghosts.json](./75799-speed-dating-for-ghosts.json) |
 | Speed Demons 2 | 330564 | [330564-speed-demons-2.json](./330564-speed-demons-2.json) |
 | Speed Devils | 23609 | [23609-speed-devils.json](./23609-speed-devils.json) |
+| Speed Devils: Online Racing | 46371 | [46371-speed-devils-online-racing.json](./46371-speed-devils-online-racing.json) |
 | Speed Dreams | 65339 | [65339-speed-dreams.json](./65339-speed-dreams.json) |
 | Speed Drifters | 193998 | [193998-speed-drifters.json](./193998-speed-drifters.json) |
 | Speed DX | 261254 | [261254-speed-dx.json](./261254-speed-dx.json) |
