@@ -3255,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PenguinLinks v2 | 253268 | [253268-penguinlinks-v2.json](./253268-penguinlinks-v2.json) |
 | PenguInn | 223951 | [223951-penguinn.json](./223951-penguinn.json) |
 | Penguino | 365853 | [365853-penguino.json](./365853-penguino.json) |
+| Penguins & Friends: Hey! That's My Fish! | 69132 | [69132-penguins-and-friends-hey-thats-my-fish.json](./69132-penguins-and-friends-hey-thats-my-fish.json) |
 | Penguins Arena: Sedna's World | 15779 | [15779-penguins-arena-sednas-world.json](./15779-penguins-arena-sednas-world.json) |
 | Penguins of Madagascar | 50738 | [50738-penguins-of-madagascar.json](./50738-penguins-of-madagascar.json) |
 | Penguins of the North | 121545 | [121545-penguins-of-the-north.json](./121545-penguins-of-the-north.json) |
@@ -3296,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Racers Party: Turbo-Q Speedway | 51110 | [51110-penny-racers-party-turbo-q-speedway.json](./51110-penny-racers-party-turbo-q-speedway.json) |
 | Penny RPG: Shadows of the Lost - A Blood City Tale | 149611 | [149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json](./149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json) |
 | Penny's Path | 161608 | [161608-pennys-path.json](./161608-pennys-path.json) |
+| Pennzoil Build-N-Race: Speed Demons | 69092 | [69092-pennzoil-build-n-race-speed-demons.json](./69092-pennzoil-build-n-race-speed-demons.json) |
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
 | Penroses | 181880 | [181880-penroses.json](./181880-penroses.json) |
 | Pensate | 117025 | [117025-pensate.json](./117025-pensate.json) |
@@ -7728,6 +7730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play-Doh Creations | 270611 | [270611-play-doh-creations.json](./270611-play-doh-creations.json) |
 | Play-Doh World | 355853 | [355853-play-doh-world.json](./355853-play-doh-world.json) |
 | Play-Yan | 49765 | [49765-play-yan.json](./49765-play-yan.json) |
+| Play! The Ultimate Casual Game Collection | 69097 | [69097-play-the-ultimate-casual-game-collection.json](./69097-play-the-ultimate-casual-game-collection.json) |
 | Play'te Spinna | 290991 | [290991-playte-spinna.json](./290991-playte-spinna.json) |
 | Playable Alpha | 304603 | [304603-playable-alpha.json](./304603-playable-alpha.json) |
 | Playable Mockup | 245387 | [245387-playable-mockup.json](./245387-playable-mockup.json) |
@@ -12441,6 +12444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Crucible | 154865 | [154865-project-crucible.json](./154865-project-crucible.json) |
 | Project Crypt | 201131 | [201131-project-crypt.json](./201131-project-crypt.json) |
 | Project Cube | 305920 | [305920-project-cube.json](./305920-project-cube.json) |
+| Project Cube | 69119 | [69119-project-cube.json](./69119-project-cube.json) |
 | Project Cybertronic | 120676 | [120676-project-cybertronic.json](./120676-project-cybertronic.json) |
 | Project D | 255117 | [255117-project-d.json](./255117-project-d.json) |
 | Project D | 305783 | [305783-project-d.json](./305783-project-d.json) |
