@@ -7644,6 +7644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honoo no Toukyuuji: Dodge Danpei | 267660 | [267660-honoo-no-toukyuuji-dodge-danpei.json](./267660-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 272812 | [272812-honoo-no-toukyuuji-dodge-danpei.json](./272812-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 42053 | [42053-honoo-no-toukyuuji-dodge-danpei.json](./42053-honoo-no-toukyuuji-dodge-danpei.json) |
+| Honoo no Toukyuuji: Dodge Danpei 2 | 58524 | [58524-honoo-no-toukyuuji-dodge-danpei-2.json](./58524-honoo-no-toukyuuji-dodge-danpei-2.json) |
 | Honor and Duty: Arcade Edition | 99530 | [99530-honor-and-duty-arcade-edition.json](./99530-honor-and-duty-arcade-edition.json) |
 | Honor Battle | 303565 | [303565-honor-battle.json](./303565-honor-battle.json) |
 | Honor Cry: Aftermath | 102946 | [102946-honor-cry-aftermath.json](./102946-honor-cry-aftermath.json) |
