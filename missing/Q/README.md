@@ -971,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Racer | 297331 | [297331-quiz-racer.json](./297331-quiz-racer.json) |
 | Quiz Realm | 198360 | [198360-quiz-realm.json](./198360-quiz-realm.json) |
 | Quiz RPG: The World of Mystic Wiz | 56307 | [56307-quiz-rpg-the-world-of-mystic-wiz.json](./56307-quiz-rpg-the-world-of-mystic-wiz.json) |
+| Quiz Scramble Special | 46387 | [46387-quiz-scramble-special.json](./46387-quiz-scramble-special.json) |
 | Quiz Seikai ha Ichinengo presents Atsushi no Meitantei | 344788 | [344788-quiz-seikai-ha-ichinengo-presents-atsushi-no-meitantei.json](./344788-quiz-seikai-ha-ichinengo-presents-atsushi-no-meitantei.json) |
 | Quiz Sekai ha Show by Shoubai!! | 64927 | [64927-quiz-sekai-ha-show-by-shoubai.json](./64927-quiz-sekai-ha-show-by-shoubai.json) |
 | Quiz Shooting Fushigi no Corona Oukoku | 212439 | [212439-quiz-shooting-fushigi-no-corona-oukoku.json](./212439-quiz-shooting-fushigi-no-corona-oukoku.json) |
