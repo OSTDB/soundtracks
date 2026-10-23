@@ -2091,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Race | 48915 | [48915-wave-race.json](./48915-wave-race.json) |
 | Wave Race 64 | 308048 | [308048-wave-race-64.json](./308048-wave-race-64.json) |
 | Wave Race 64 | 3629 | [3629-wave-race-64.json](./3629-wave-race-64.json) |
+| Wave Race 64: Shindou Pak Taiou Version | 47740 | [47740-wave-race-64-shindou-pak-taiou-version.json](./47740-wave-race-64-shindou-pak-taiou-version.json) |
 | Wave Rally | 43304 | [43304-wave-rally.json](./43304-wave-rally.json) |
 | Wave Rave | 341912 | [341912-wave-rave.json](./341912-wave-rave.json) |
 | Wave Rider | 161399 | [161399-wave-rider.json](./161399-wave-rider.json) |
@@ -4390,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WildStandZ | 357405 | [357405-wildstandz.json](./357405-wildstandz.json) |
 | WildTrax & Hypercar Bundle | 410842 | [410842-wildtrax-and-hypercar-bundle.json](./410842-wildtrax-and-hypercar-bundle.json) |
 | WildTrax Racing | 147761 | [147761-wildtrax-racing.json](./147761-wildtrax-racing.json) |
+| WildWaters | 47735 | [47735-wildwaters.json](./47735-wildwaters.json) |
 | Wildwood | 171855 | [171855-wildwood.json](./171855-wildwood.json) |
 | Wildwood | 279754 | [279754-wildwood.json](./279754-wildwood.json) |
 | Wildwood Down | 264519 | [264519-wildwood-down.json](./264519-wildwood-down.json) |
@@ -5715,6 +5717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Planet | 40245 | [40245-wonder-planet.json](./40245-wonder-planet.json) |
 | Wonder Planets | 196524 | [196524-wonder-planets.json](./196524-wonder-planets.json) |
 | Wonder Pot | 200355 | [200355-wonder-pot.json](./200355-wonder-pot.json) |
+| Wonder Project J2: Corlo no Mori no Josette | 47748 | [47748-wonder-project-j2-corlo-no-mori-no-josette.json](./47748-wonder-project-j2-corlo-no-mori-no-josette.json) |
 | Wonder Protocol | 413467 | [413467-wonder-protocol.json](./413467-wonder-protocol.json) |
 | Wonder Stick | 40162 | [40162-wonder-stick.json](./40162-wonder-stick.json) |
 | Wonder Tactics | 59030 | [59030-wonder-tactics.json](./59030-wonder-tactics.json) |
