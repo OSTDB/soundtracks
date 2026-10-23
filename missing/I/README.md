@@ -1634,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikkaku Senkin | 206542 | [206542-ikkaku-senkin.json](./206542-ikkaku-senkin.json) |
 | Ikkarus and the Prince of Sin | 211804 | [211804-ikkarus-and-the-prince-of-sin.json](./211804-ikkarus-and-the-prince-of-sin.json) |
 | Ikki | 12915 | [12915-ikki.json](./12915-ikki.json) |
+| Ikki Online | 92367 | [92367-ikki-online.json](./92367-ikki-online.json) |
 | Ikki Tousen: Eloquent Fist | 38475 | [38475-ikki-tousen-eloquent-fist.json](./38475-ikki-tousen-eloquent-fist.json) |
 | Ikki Tousen: Xross Impact | 38470 | [38470-ikki-tousen-xross-impact.json](./38470-ikki-tousen-xross-impact.json) |
 | Ikki Unite | 216708 | [216708-ikki-unite.json](./216708-ikki-unite.json) |
@@ -2362,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Pause Between the Ringing. | 177831 | [177831-in-the-pause-between-the-ringing.json](./177831-in-the-pause-between-the-ringing.json) |
 | In the Pines | 341875 | [341875-in-the-pines.json](./341875-in-the-pines.json) |
 | In the pines, in the pines, where the sun never shines | 177514 | [177514-in-the-pines-in-the-pines-where-the-sun-never-shines.json](./177514-in-the-pines-in-the-pines-where-the-sun-never-shines.json) |
+| In the Pit | 92363 | [92363-in-the-pit.json](./92363-in-the-pit.json) |
 | In the Raven Shadow – Ve stínu havrana | 44247 | [44247-in-the-raven-shadow-ve-stinu-havrana.json](./44247-in-the-raven-shadow-ve-stinu-havrana.json) |
 | In the Rim | 103398 | [103398-in-the-rim.json](./103398-in-the-rim.json) |
 | In The Ruined Courtyard | 260420 | [260420-in-the-ruined-courtyard.json](./260420-in-the-ruined-courtyard.json) |
@@ -4509,6 +4511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irbot | 233212 | [233212-irbot.json](./233212-irbot.json) |
 | Irehon | 188413 | [188413-irehon.json](./188413-irehon.json) |
 | Irem Arcade 1 | 214546 | [214546-irem-arcade-1.json](./214546-irem-arcade-1.json) |
+| Irem Arcade Classics | 92368 | [92368-irem-arcade-classics.json](./92368-irem-arcade-classics.json) |
 | Irem Collection: Volume 2 | 321846 | [321846-irem-collection-volume-2.json](./321846-irem-collection-volume-2.json) |
 | Irem Collection: Volume 3 | 342246 | [342246-irem-collection-volume-3.json](./342246-irem-collection-volume-3.json) |
 | Irena: Genesis Metal Fury | 142750 | [142750-irena-genesis-metal-fury.json](./142750-irena-genesis-metal-fury.json) |
