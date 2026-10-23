@@ -9944,6 +9944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Light Drifter: Special Edition | 107295 | [107295-hyper-light-drifter-special-edition.json](./107295-hyper-light-drifter-special-edition.json) |
 | Hyper Light Knight | 140222 | [140222-hyper-light-knight.json](./140222-hyper-light-knight.json) |
 | Hyper Lode Runner | 48980 | [48980-hyper-lode-runner.json](./48980-hyper-lode-runner.json) |
+| Hyper Marbles | 45728 | [45728-hyper-marbles.json](./45728-hyper-marbles.json) |
 | Hyper Mari World 6 | 200711 | [200711-hyper-mari-world-6.json](./200711-hyper-mari-world-6.json) |
 | Hyper Mega 256-in-1 | 332211 | [332211-hyper-mega-256-in-1.json](./332211-hyper-mega-256-in-1.json) |
 | Hyper Metroid Super | 349938 | [349938-hyper-metroid-super.json](./349938-hyper-metroid-super.json) |
