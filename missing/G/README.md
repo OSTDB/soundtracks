@@ -5044,6 +5044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Key | 111490 | [111490-golden-key.json](./111490-golden-key.json) |
 | Golden Kingdom VR | 333963 | [333963-golden-kingdom-vr.json](./333963-golden-kingdom-vr.json) |
 | Golden Knight | 331661 | [331661-golden-knight.json](./331661-golden-knight.json) |
+| Golden Knight Garo | 79099 | [79099-golden-knight-garo.json](./79099-golden-knight-garo.json) |
 | Golden Krone Hotel | 32193 | [32193-golden-krone-hotel.json](./32193-golden-krone-hotel.json) |
 | Golden Lap | 294353 | [294353-golden-lap.json](./294353-golden-lap.json) |
 | Golden Leaf Jigsaw Puzzles | 266470 | [266470-golden-leaf-jigsaw-puzzles.json](./266470-golden-leaf-jigsaw-puzzles.json) |
@@ -5951,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graduate Battle | 358511 | [358511-graduate-battle.json](./358511-graduate-battle.json) |
 | Graduated | 117617 | [117617-graduated.json](./117617-graduated.json) |
 | Graduation Life Simulator | 326302 | [326302-graduation-life-simulator.json](./326302-graduation-life-simulator.json) |
+| Graeme Souness Soccer Manager | 79084 | [79084-graeme-souness-soccer-manager.json](./79084-graeme-souness-soccer-manager.json) |
 | Graffism | 354384 | [354384-graffism.json](./354384-graffism.json) |
 | Graffiti Bombing | 126973 | [126973-graffiti-bombing.json](./126973-graffiti-bombing.json) |
 | Graffiti Cozy | 189061 | [189061-graffiti-cozy.json](./189061-graffiti-cozy.json) |
@@ -6369,6 +6371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapple | 12878 | [12878-grapple.json](./12878-grapple.json) |
 | Grapple Bear | 114538 | [114538-grapple-bear.json](./114538-grapple-bear.json) |
 | Grapple Boy | 62425 | [62425-grapple-boy.json](./62425-grapple-boy.json) |
+| Grapple Buggy | 79093 | [79093-grapple-buggy.json](./79093-grapple-buggy.json) |
 | Grapple Car | 346704 | [346704-grapple-car.json](./346704-grapple-car.json) |
 | Grapple Cars | 253300 | [253300-grapple-cars.json](./253300-grapple-cars.json) |
 | Grapple Dog | 144028 | [144028-grapple-dog.json](./144028-grapple-dog.json) |
