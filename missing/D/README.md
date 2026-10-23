@@ -3010,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Reckoning: The Brassfield Manor - Collector's Edition | 22077 | [22077-dead-reckoning-the-brassfield-manor-collectors-edition.json](./22077-dead-reckoning-the-brassfield-manor-collectors-edition.json) |
 | Dead Reckoning: The Crescent Case | 100050 | [100050-dead-reckoning-the-crescent-case.json](./100050-dead-reckoning-the-crescent-case.json) |
 | Dead Reckoning: The Crescent Case - Collector's Edition | 89944 | [89944-dead-reckoning-the-crescent-case-collectors-edition.json](./89944-dead-reckoning-the-crescent-case-collectors-edition.json) |
+| Dead Reefs | 50284 | [50284-dead-reefs.json](./50284-dead-reefs.json) |
 | Dead Reset | 346233 | [346233-dead-reset.json](./346233-dead-reset.json) |
 | Dead Rising | 4797 | [4797-dead-rising.json](./4797-dead-rising.json) |
 | Dead Rising 2 | 496 | [496-dead-rising-2.json](./496-dead-rising-2.json) |
@@ -8346,6 +8347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Magic Artist | 46432 | [46432-disneys-magic-artist.json](./46432-disneys-magic-artist.json) |
 | Disney's Magic Artist 3D | 46434 | [46434-disneys-magic-artist-3d.json](./46434-disneys-magic-artist-3d.json) |
 | Disney's Magic Artist Cartoon Maker | 46433 | [46433-disneys-magic-artist-cartoon-maker.json](./46433-disneys-magic-artist-cartoon-maker.json) |
+| Disney's Magic Artist Deluxe | 50307 | [50307-disneys-magic-artist-deluxe.json](./50307-disneys-magic-artist-deluxe.json) |
 | Disney's Magic Artist Studio | 51281 | [51281-disneys-magic-artist-studio.json](./51281-disneys-magic-artist-studio.json) |
 | Disney's Magical Quest 2 Starring Mickey & Minnie | 188634 | [188634-disneys-magical-quest-2-starring-mickey-and-minnie.json](./188634-disneys-magical-quest-2-starring-mickey-and-minnie.json) |
 | Disney's Mahjongg | 142431 | [142431-disneys-mahjongg.json](./142431-disneys-mahjongg.json) |
@@ -14841,6 +14843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duō Bǎo Xiūxiān | 188524 | [188524-duo-bao-xiuxian.json](./188524-duo-bao-xiuxian.json) |
 | Duo Defenders | 172157 | [172157-duo-defenders.json](./172157-duo-defenders.json) |
 | Duo Games | 351227 | [351227-duo-games.json](./351227-duo-games.json) |
+| Duo Princess | 50334 | [50334-duo-princess.json](./50334-duo-princess.json) |
 | Duo Quest | 335274 | [335274-duo-quest.json](./335274-duo-quest.json) |
 | Duo Runner 3D | 262464 | [262464-duo-runner-3d.json](./262464-duo-runner-3d.json) |
 | DuoDuo | 234057 | [234057-duoduo.json](./234057-duoduo.json) |
