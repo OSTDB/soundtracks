@@ -842,6 +842,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eco Phantoms | 71924 | [71924-eco-phantoms.json](./71924-eco-phantoms.json) |
 | Eco Ronin | 323440 | [323440-eco-ronin.json](./323440-eco-ronin.json) |
 | Eco Shooter: Plant 530 | 20506 | [20506-eco-shooter-plant-530.json](./20506-eco-shooter-plant-530.json) |
+| Eco Tycoon: Project Green | 69081 | [69081-eco-tycoon-project-green.json](./69081-eco-tycoon-project-green.json) |
+| Eco Tycoon: Project Green | 69096 | [69096-eco-tycoon-project-green.json](./69096-eco-tycoon-project-green.json) |
 | Eco Warrior Simulator | 151281 | [151281-eco-warrior-simulator.json](./151281-eco-warrior-simulator.json) |
 | Eco-Creatures: Save the Forest | 21280 | [21280-eco-creatures-save-the-forest.json](./21280-eco-creatures-save-the-forest.json) |
 | Eco-Rescue: Project Rainforest | 202165 | [202165-eco-rescue-project-rainforest.json](./202165-eco-rescue-project-rainforest.json) |
@@ -1916,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator Action 3D | 286679 | [286679-elevator-action-3d.json](./286679-elevator-action-3d.json) |
 | Elevator Action 500 | 394313 | [394313-elevator-action-500.json](./394313-elevator-action-500.json) |
 | Elevator Action EX | 50017 | [50017-elevator-action-ex.json](./50017-elevator-action-ex.json) |
+| Elevator Action: Death Parade | 69123 | [69123-elevator-action-death-parade.json](./69123-elevator-action-death-parade.json) |
 | Elevator Action: Old & New | 49284 | [49284-elevator-action-old-and-new.json](./49284-elevator-action-old-and-new.json) |
 | Elevator Action: Returns - S-Tribute | 226807 | [226807-elevator-action-returns-s-tribute.json](./226807-elevator-action-returns-s-tribute.json) |
 | Elevator Down | 313553 | [313553-elevator-down.json](./313553-elevator-down.json) |
