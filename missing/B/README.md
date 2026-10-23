@@ -6075,6 +6075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigwig Flint | 132674 | [132674-bigwig-flint.json](./132674-bigwig-flint.json) |
 | Bigwigs: 2 Minute Brawl | 100312 | [100312-bigwigs-2-minute-brawl.json](./100312-bigwigs-2-minute-brawl.json) |
 | Biida-Bash | 372471 | [372471-biida-bash.json](./372471-biida-bash.json) |
+| Biing! 2: Sonne, Strand und Heisse Nächte | 71330 | [71330-biing-2-sonne-strand-und-heisse-nachte.json](./71330-biing-2-sonne-strand-und-heisse-nachte.json) |
 | Biing!: Sex, Intrigue and Scalpels | 50348 | [50348-biing-sex-intrigue-and-scalpels.json](./50348-biing-sex-intrigue-and-scalpels.json) |
 | Bike Arena | 236266 | [236266-bike-arena.json](./236266-bike-arena.json) |
 | Bike Banditz | 216262 | [216262-bike-banditz.json](./216262-bike-banditz.json) |
@@ -7442,6 +7443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith's Master | 184895 | [184895-blacksmiths-master.json](./184895-blacksmiths-master.json) |
 | BlackSpace | 93497 | [93497-blackspace.json](./93497-blackspace.json) |
 | Blackspot: The Card Game | 397872 | [397872-blackspot-the-card-game.json](./397872-blackspot-the-card-game.json) |
+| Blackstar, Agent of Justice | 71334 | [71334-blackstar-agent-of-justice.json](./71334-blackstar-agent-of-justice.json) |
 | BlackStar: Theater Starless | 215169 | [215169-blackstar-theater-starless.json](./215169-blackstar-theater-starless.json) |
 | Blackstead | 217828 | [217828-blackstead.json](./217828-blackstead.json) |
 | BlackSteel | 105301 | [105301-blacksteel.json](./105301-blacksteel.json) |
@@ -9569,6 +9571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobobo-bo Bo-bobo: Atsumare! Taikan Bo-bobo | 79699 | [79699-bobobo-bo-bo-bobo-atsumare-taikan-bo-bobo.json](./79699-bobobo-bo-bo-bobo-atsumare-taikan-bo-bobo.json) |
 | Bobobo-bo Bo-bobo: Dasshutsu!! Hajike Royale | 3827 | [3827-bobobo-bo-bo-bobo-dasshutsu-hajike-royale.json](./3827-bobobo-bo-bo-bobo-dasshutsu-hajike-royale.json) |
 | Bobobo-bo Bo-bobo: Dassutsu! Hajike Royale | 50588 | [50588-bobobo-bo-bo-bobo-dassutsu-hajike-royale.json](./50588-bobobo-bo-bo-bobo-dassutsu-hajike-royale.json) |
+| Bobobo-bo Bo-bobo: Hajike Matsuri! | 71361 | [71361-bobobo-bo-bo-bobo-hajike-matsuri.json](./71361-bobobo-bo-bo-bobo-hajike-matsuri.json) |
 | BoBoiBoy: Adudu Attacks! | 61998 | [61998-boboiboy-adudu-attacks.json](./61998-boboiboy-adudu-attacks.json) |
 | BoboInvasion | 287777 | [287777-boboinvasion.json](./287777-boboinvasion.json) |
 | Bobok | 181068 | [181068-bobok.json](./181068-bobok.json) |
@@ -12231,6 +12234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks n Balls | 89246 | [89246-bricks-n-balls.json](./89246-bricks-n-balls.json) |
 | Bricks of Atlantis | 70108 | [70108-bricks-of-atlantis.json](./70108-bricks-of-atlantis.json) |
 | Bricks of Camelot | 72267 | [72267-bricks-of-camelot.json](./72267-bricks-of-camelot.json) |
+| Bricks of Egypt 2: Tears of the Pharaohs | 71353 | [71353-bricks-of-egypt-2-tears-of-the-pharaohs.json](./71353-bricks-of-egypt-2-tears-of-the-pharaohs.json) |
 | Bricks of Rome | 254699 | [254699-bricks-of-rome.json](./254699-bricks-of-rome.json) |
 | Bricks4ever | 79569 | [79569-bricks4ever.json](./79569-bricks4ever.json) |
 | Bricksbumpbump | 325830 | [325830-bricksbumpbump.json](./325830-bricksbumpbump.json) |
