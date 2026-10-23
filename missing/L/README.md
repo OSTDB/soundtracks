@@ -4065,6 +4065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily of the Valley | 401729 | [401729-lily-of-the-valley.json](./401729-lily-of-the-valley.json) |
 | Lily Story | 338543 | [338543-lily-story.json](./338543-lily-story.json) |
 | Lily: Shiroki Yuri no Otome-tachi | 403156 | [403156-lily-shiroki-yuri-no-otome-tachi.json](./403156-lily-shiroki-yuri-no-otome-tachi.json) |
+| Lily: Shiroki Yuri no Otome-tachi Lisblanc | 81862 | [81862-lily-shiroki-yuri-no-otome-tachi-lisblanc.json](./81862-lily-shiroki-yuri-no-otome-tachi-lisblanc.json) |
 | Lily: Shiroki Yuri no Otome-tachi S | 222504 | [222504-lily-shiroki-yuri-no-otome-tachi-s.json](./222504-lily-shiroki-yuri-no-otome-tachi-s.json) |
 | Lily's Dream: Adventures of Dinosaurs | 369375 | [369375-lilys-dream-adventures-of-dinosaurs.json](./369375-lilys-dream-adventures-of-dinosaurs.json) |
 | Lily's Epic Quest | 31956 | [31956-lilys-epic-quest.json](./31956-lilys-epic-quest.json) |
@@ -5455,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Log Away: Christmas DLC | 395708 | [395708-log-away-christmas-dlc.json](./395708-log-away-christmas-dlc.json) |
 | Log Away: Easter DLC | 395717 | [395717-log-away-easter-dlc.json](./395717-log-away-easter-dlc.json) |
 | Log Away: Halloween DLC | 422470 | [422470-log-away-halloween-dlc.json](./422470-log-away-halloween-dlc.json) |
+| Log Challenge | 81913 | [81913-log-challenge.json](./81913-log-challenge.json) |
 | Log Drive Runner | 32946 | [32946-log-drive-runner.json](./32946-log-drive-runner.json) |
 | Log Jammers | 83583 | [83583-log-jammers.json](./83583-log-jammers.json) |
 | Log Riders | 387547 | [387547-log-riders.json](./387547-log-riders.json) |
