@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5939,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Drunk Satanic Massacre | 75067 | [75067-big-drunk-satanic-massacre.json](./75067-big-drunk-satanic-massacre.json) |
 | Big Ear Detective | 291897 | [291897-big-ear-detective.json](./291897-big-ear-detective.json) |
 | Big Entrepreneur | 227373 | [227373-big-entrepreneur.json](./227373-big-entrepreneur.json) |
+| Big Family Games | 51000 | [51000-big-family-games.json](./51000-big-family-games.json) |
 | Big Farm | 77777 | [77777-big-farm.json](./77777-big-farm.json) |
 | Big Farm Home & Garden | 142735 | [142735-big-farm-home-and-garden.json](./142735-big-farm-home-and-garden.json) |
 | Big Farm Story | 138727 | [138727-big-farm-story.json](./138727-big-farm-story.json) |
@@ -7789,6 +7791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Master Zero III | 145058 | [145058-blaster-master-zero-iii.json](./145058-blaster-master-zero-iii.json) |
 | Blaster Master Zero Trilogy: MetaFight Chronicle - Limited Edition | 166977 | [166977-blaster-master-zero-trilogy-metafight-chronicle-limited-edition.json](./166977-blaster-master-zero-trilogy-metafight-chronicle-limited-edition.json) |
 | Blaster Master: Enemy Below | 49840 | [49840-blaster-master-enemy-below.json](./49840-blaster-master-enemy-below.json) |
+| Blaster Master: Overdrive | 50995 | [50995-blaster-master-overdrive.json](./50995-blaster-master-overdrive.json) |
 | Blaster Master: Pimp your Ride | 216301 | [216301-blaster-master-pimp-your-ride.json](./216301-blaster-master-pimp-your-ride.json) |
 | Blaster Multiplayer | 284010 | [284010-blaster-multiplayer.json](./284010-blaster-multiplayer.json) |
 | Blaster Shooter GunGuy! | 34672 | [34672-blaster-shooter-gunguy.json](./34672-blaster-shooter-gunguy.json) |
@@ -10497,6 +10500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booster Racers | 303105 | [303105-booster-racers.json](./303105-booster-racers.json) |
 | Boot : Game Dev Sim | 129034 | [129034-boot-game-dev-sim.json](./129034-boot-game-dev-sim.json) |
 | Boot & Shoot | 202066 | [202066-boot-and-shoot.json](./202066-boot-and-shoot.json) |
+| Boot Camp Academy | 51005 | [51005-boot-camp-academy.json](./51005-boot-camp-academy.json) |
 | Boot Camp Endless Runner | 223497 | [223497-boot-camp-endless-runner.json](./223497-boot-camp-endless-runner.json) |
 | Boot Camp Tycoon: Built for Victory | 206464 | [206464-boot-camp-tycoon-built-for-victory.json](./206464-boot-camp-tycoon-built-for-victory.json) |
 | Boot Hill Blaster | 74740 | [74740-boot-hill-blaster.json](./74740-boot-hill-blaster.json) |
@@ -11635,6 +11639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz 4 Real | 213888 | [213888-bratz-4-real.json](./213888-bratz-4-real.json) |
 | Bratz 4 Real | 47872 | [47872-bratz-4-real.json](./47872-bratz-4-real.json) |
 | Bratz Fashion Pixiez: The Secret Necklace | 213374 | [213374-bratz-fashion-pixiez-the-secret-necklace.json](./213374-bratz-fashion-pixiez-the-secret-necklace.json) |
+| Bratz Kids: Slumber Party | 51006 | [51006-bratz-kids-slumber-party.json](./51006-bratz-kids-slumber-party.json) |
 | Bratz Ponyz | 67803 | [67803-bratz-ponyz.json](./67803-bratz-ponyz.json) |
 | Bratz Ponyz 2 | 94733 | [94733-bratz-ponyz-2.json](./94733-bratz-ponyz-2.json) |
 | Bratz Rhythm & Style | 347308 | [347308-bratz-rhythm-and-style.json](./347308-bratz-rhythm-and-style.json) |
@@ -13224,6 +13229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buck Borris in Action | 152842 | [152842-buck-borris-in-action.json](./152842-buck-borris-in-action.json) |
 | Buck Bradley: Comic Adventure | 133213 | [133213-buck-bradley-comic-adventure.json](./133213-buck-bradley-comic-adventure.json) |
 | Buck Bumble | 3368 | [3368-buck-bumble.json](./3368-buck-bumble.json) |
+| Buck Fever | 51007 | [51007-buck-fever.json](./51007-buck-fever.json) |
 | Buck Rogers: Matrix Cubed | 14499 | [14499-buck-rogers-matrix-cubed.json](./14499-buck-rogers-matrix-cubed.json) |
 | Buck Rogers: Planet of Zoom | 11142 | [11142-buck-rogers-planet-of-zoom.json](./11142-buck-rogers-planet-of-zoom.json) |
 | Buck Rogers: Planet of Zoom | 277214 | [277214-buck-rogers-planet-of-zoom.json](./277214-buck-rogers-planet-of-zoom.json) |
@@ -13500,6 +13506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build Your Palace | 134398 | [134398-build-your-palace.json](./134398-build-your-palace.json) |
 | Build Your Simspolis | 98780 | [98780-build-your-simspolis.json](./98780-build-your-simspolis.json) |
 | Build-A-Bear Workshop | 47811 | [47811-build-a-bear-workshop.json](./47811-build-a-bear-workshop.json) |
+| Build-A-Bear Workshop: A Friend Fur All Seasons | 51008 | [51008-build-a-bear-workshop-a-friend-fur-all-seasons.json](./51008-build-a-bear-workshop-a-friend-fur-all-seasons.json) |
 | Build-A-Bear Workshop: Bear Valley | 104593 | [104593-build-a-bear-workshop-bear-valley.json](./104593-build-a-bear-workshop-bear-valley.json) |
 | Build-a-Bear Workshop: Welcome to Hugsville | 47913 | [47913-build-a-bear-workshop-welcome-to-hugsville.json](./47913-build-a-bear-workshop-welcome-to-hugsville.json) |
 | Build-A-Bearville | 214613 | [214613-build-a-bearville.json](./214613-build-a-bearville.json) |
@@ -14004,6 +14011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger | 302367 | [302367-burger.json](./302367-burger.json) |
 | Burger Bistro Story | 152069 | [152069-burger-bistro-story.json](./152069-burger-bistro-story.json) |
 | Burger Bois | 347908 | [347908-burger-bois.json](./347908-burger-bois.json) |
+| Burger Bot | 51014 | [51014-burger-bot.json](./51014-burger-bot.json) |
 | Burger Bots Inc. | 365101 | [365101-burger-bots-inc.json](./365101-burger-bots-inc.json) |
 | Burger Bounce | 347494 | [347494-burger-bounce.json](./347494-burger-bounce.json) |
 | Burger Boy | 66986 | [66986-burger-boy.json](./66986-burger-boy.json) |
