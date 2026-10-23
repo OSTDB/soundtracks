@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsuha & Fuyumi: When Summer And Winter Meet | 383060 | [383060-natsuha-and-fuyumi-when-summer-and-winter-meet.json](./383060-natsuha-and-fuyumi-when-summer-and-winter-meet.json) |
 | Natsuiro Communication | 77943 | [77943-natsuiro-communication.json](./77943-natsuiro-communication.json) |
 | Natsuiro High School: Seishun Hakusho | 52602 | [52602-natsuiro-high-school-seishun-hakusho.json](./52602-natsuiro-high-school-seishun-hakusho.json) |
+| Natsuiro Kokoro Log | 79691 | [79691-natsuiro-kokoro-log.json](./79691-natsuiro-kokoro-log.json) |
 | Natsuiro Komachi: Ichiji Senka | 327962 | [327962-natsuiro-komachi-ichiji-senka.json](./327962-natsuiro-komachi-ichiji-senka.json) |
 | Natsuiro Ramune | 97316 | [97316-natsuiro-ramune.json](./97316-natsuiro-ramune.json) |
 | Natsuiro Recipe | 60240 | [60240-natsuiro-recipe.json](./60240-natsuiro-recipe.json) |
@@ -768,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsuzora no Monologue: Another Memory | 287895 | [287895-natsuzora-no-monologue-another-memory.json](./287895-natsuzora-no-monologue-another-memory.json) |
 | Natti | 236911 | [236911-natti.json](./236911-natti.json) |
 | Natto-Cat | 68776 | [68776-natto-cat.json](./68776-natto-cat.json) |
+| Natuk | 79675 | [79675-natuk.json](./79675-natuk.json) |
 | Natural | 189065 | [189065-natural.json](./189065-natural.json) |
 | Natural 2: Duo | 49750 | [49750-natural-2-duo.json](./49750-natural-2-duo.json) |
 | Natural Born Soldier | 82123 | [82123-natural-born-soldier.json](./82123-natural-born-soldier.json) |
@@ -2513,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter: Undermountain | 115474 | [115474-neverwinter-undermountain.json](./115474-neverwinter-undermountain.json) |
 | Neverwood | 401788 | [401788-neverwood.json](./401788-neverwood.json) |
 | Neves | 21523 | [21523-neves.json](./21523-neves.json) |
+| Neves Plus | 79730 | [79730-neves-plus.json](./79730-neves-plus.json) |
 | NevoMove | 401917 | [401917-nevomove.json](./401917-nevomove.json) |
 | Nevrosa: Escape | 68172 | [68172-nevrosa-escape.json](./68172-nevrosa-escape.json) |
 | Nevrosa: Prelude | 27446 | [27446-nevrosa-prelude.json](./27446-nevrosa-prelude.json) |
@@ -2954,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Instant Replay | 46574 | [46574-nfl-instant-replay.json](./46574-nfl-instant-replay.json) |
 | NFL Kicker 13 | 62170 | [62170-nfl-kicker-13.json](./62170-nfl-kicker-13.json) |
 | NFL Kicker 15 | 58179 | [58179-nfl-kicker-15.json](./58179-nfl-kicker-15.json) |
+| NFL Kicker! | 79679 | [79679-nfl-kicker.json](./79679-nfl-kicker.json) |
 | NFL Pro Era | 198225 | [198225-nfl-pro-era.json](./198225-nfl-pro-era.json) |
 | NFL Pro Era II | 266797 | [266797-nfl-pro-era-ii.json](./266797-nfl-pro-era-ii.json) |
 | NFL Pro League Football | 80204 | [80204-nfl-pro-league-football.json](./80204-nfl-pro-league-football.json) |
