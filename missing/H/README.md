@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanagane Kanade Gram: Chapter 4 - Ayase Kanade: Saishuushou | 396462 | [396462-hanagane-kanade-gram-chapter-4-ayase-kanade-saishuushou.json](./396462-hanagane-kanade-gram-chapter-4-ayase-kanade-saishuushou.json) |
 | Hanage Nuki! Nuki! - Nose Hair Master | 342652 | [342652-hanage-nuki-nuki-nose-hair-master.json](./342652-hanage-nuki-nuki-nose-hair-master.json) |
 | Hanagumi Taisen Columns | 69307 | [69307-hanagumi-taisen-columns.json](./69307-hanagumi-taisen-columns.json) |
+| Hanahira | 59286 | [59286-hanahira.json](./59286-hanahira.json) |
 | Hanakisou | 234529 | [234529-hanakisou.json](./234529-hanakisou.json) |
 | Hanako | 143388 | [143388-hanako.json](./143388-hanako.json) |
 | Hanako in the Abandoned School | 207766 | [207766-hanako-in-the-abandoned-school.json](./207766-hanako-in-the-abandoned-school.json) |
@@ -1999,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsujou Saimin Appli: Shikyuu ni Todoku Chakushin'on | 108868 | [108868-hatsujou-saimin-appli-shikyuu-ni-todoku-chakushinon.json](./108868-hatsujou-saimin-appli-shikyuu-ni-todoku-chakushinon.json) |
 | Hatsujou Sprinkle | 107270 | [107270-hatsujou-sprinkle.json](./107270-hatsujou-sprinkle.json) |
 | Hatsujousei | 108856 | [108856-hatsujousei.json](./108856-hatsujousei.json) |
+| HatsuKare Renai Debut Sengen! | 59151 | [59151-hatsukare-renai-debut-sengen.json](./59151-hatsukare-renai-debut-sengen.json) |
 | Hatsukoi Master Up | 329945 | [329945-hatsukoi-master-up.json](./329945-hatsukoi-master-up.json) |
 | Hatsukoi Monogatari | 330102 | [330102-hatsukoi-monogatari.json](./330102-hatsukoi-monogatari.json) |
 | Hatsukoi Monogatari | 330209 | [330209-hatsukoi-monogatari.json](./330209-hatsukoi-monogatari.json) |
@@ -6743,6 +6745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive Stampers | 366959 | [366959-hive-stampers.json](./366959-hive-stampers.json) |
 | Hive Sweeper | 118912 | [118912-hive-sweeper.json](./118912-hive-sweeper.json) |
 | Hive Time | 124254 | [124254-hive-time.json](./124254-hive-time.json) |
+| Hive: Altenum Wars | 59128 | [59128-hive-altenum-wars.json](./59128-hive-altenum-wars.json) |
 | HiveCorp | 239722 | [239722-hivecorp.json](./239722-hivecorp.json) |
 | Hivecraft | 345644 | [345644-hivecraft.json](./345644-hivecraft.json) |
 | HiveFall | 109518 | [109518-hivefall.json](./109518-hivefall.json) |
@@ -9060,6 +9063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Puzzle & Board Games 2009 | 210052 | [210052-hoyle-puzzle-and-board-games-2009.json](./210052-hoyle-puzzle-and-board-games-2009.json) |
 | Hoyle Puzzle & Board Games 2011 | 210075 | [210075-hoyle-puzzle-and-board-games-2011.json](./210075-hoyle-puzzle-and-board-games-2011.json) |
 | Hoyle Puzzle and Board Games 2010 | 51209 | [51209-hoyle-puzzle-and-board-games-2010.json](./51209-hoyle-puzzle-and-board-games-2010.json) |
+| Hoyle Puzzle Games | 59181 | [59181-hoyle-puzzle-games.json](./59181-hoyle-puzzle-games.json) |
 | Hoyle Solitaire | 73883 | [73883-hoyle-solitaire.json](./73883-hoyle-solitaire.json) |
 | Hoyle Solitaire & Mahjong Tiles | 77877 | [77877-hoyle-solitaire-and-mahjong-tiles.json](./77877-hoyle-solitaire-and-mahjong-tiles.json) |
 | Hoyle South Beach Solitaire | 210051 | [210051-hoyle-south-beach-solitaire.json](./210051-hoyle-south-beach-solitaire.json) |
