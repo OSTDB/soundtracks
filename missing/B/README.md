@@ -4924,6 +4924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below the Stone | 123877 | [123877-below-the-stone.json](./123877-below-the-stone.json) |
 | Below the Surface: Assassin's Prison | 372073 | [372073-below-the-surface-assassins-prison.json](./372073-below-the-surface-assassins-prison.json) |
 | Below the Surface: Uncovering the Truth in the Sewers | 372074 | [372074-below-the-surface-uncovering-the-truth-in-the-sewers.json](./372074-below-the-surface-uncovering-the-truth-in-the-sewers.json) |
+| Below Zero | 74914 | [74914-below-zero.json](./74914-below-zero.json) |
 | Below Zero: Prologue | 317326 | [317326-below-zero-prologue.json](./317326-below-zero-prologue.json) |
 | Below, Rusted Gods | 304148 | [304148-below-rusted-gods.json](./304148-below-rusted-gods.json) |
 | Belt Action Collection | 136308 | [136308-belt-action-collection.json](./136308-belt-action-collection.json) |
@@ -8825,6 +8826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodLight | 319696 | [319696-bloodlight.json](./319696-bloodlight.json) |
 | Bloodline | 255865 | [255865-bloodline.json](./255865-bloodline.json) |
 | Bloodline | 338252 | [338252-bloodline.json](./338252-bloodline.json) |
+| Bloodline | 74894 | [74894-bloodline.json](./74894-bloodline.json) |
 | Bloodline Champions | 2352 | [2352-bloodline-champions.json](./2352-bloodline-champions.json) |
 | Bloodline Champions: Huntress Pack | 27657 | [27657-bloodline-champions-huntress-pack.json](./27657-bloodline-champions-huntress-pack.json) |
 | Bloodline Champions: Warchief Pack | 27655 | [27655-bloodline-champions-warchief-pack.json](./27655-bloodline-champions-warchief-pack.json) |
