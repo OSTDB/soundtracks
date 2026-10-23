@@ -2051,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Penny Coffins | 396126 | [396126-4-penny-coffins.json](./396126-4-penny-coffins.json) |
 | 4 Pics 1 Word | 63105 | [63105-4-pics-1-word.json](./63105-4-pics-1-word.json) |
 | 4 Pics Heroes and Villains | 107184 | [107184-4-pics-heroes-and-villains.json](./107184-4-pics-heroes-and-villains.json) |
+| 4 Player Reactor | 56948 | [56948-4-player-reactor.json](./56948-4-player-reactor.json) |
 | 4 Queen | 84337 | [84337-4-queen.json](./84337-4-queen.json) |
 | 4 Rush Together | 316434 | [316434-4-rush-together.json](./316434-4-rush-together.json) |
 | 4 Seasons of Doom | 262309 | [262309-4-seasons-of-doom.json](./262309-4-seasons-of-doom.json) |
