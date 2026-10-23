@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Boy Wars | 1687 | [1687-game-boy-wars.json](./1687-game-boy-wars.json) |
 | Game Boy Wars 2 | 1689 | [1689-game-boy-wars-2.json](./1689-game-boy-wars-2.json) |
 | Game Boy Wars 3 | 1690 | [1690-game-boy-wars-3.json](./1690-game-boy-wars-3.json) |
+| Game Boy Wars Advance 1+2 | 61958 | [61958-game-boy-wars-advance-1-2.json](./61958-game-boy-wars-advance-1-2.json) |
 | Game Boy Wars Turbo | 1688 | [1688-game-boy-wars-turbo.json](./1688-game-boy-wars-turbo.json) |
 | Game Builder | 119578 | [119578-game-builder.json](./119578-game-builder.json) |
 | Game Builder | 349992 | [349992-game-builder.json](./349992-game-builder.json) |
@@ -3221,6 +3222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts in the Toybox: Chapter 1 | 99479 | [99479-ghosts-in-the-toybox-chapter-1.json](./99479-ghosts-in-the-toybox-chapter-1.json) |
 | Ghosts of Aliens | 255617 | [255617-ghosts-of-aliens.json](./255617-ghosts-of-aliens.json) |
 | Ghosts of Miami | 51422 | [51422-ghosts-of-miami.json](./51422-ghosts-of-miami.json) |
+| Ghosts of Mistwood | 61960 | [61960-ghosts-of-mistwood.json](./61960-ghosts-of-mistwood.json) |
 | Ghosts of Tabor | 204034 | [204034-ghosts-of-tabor.json](./204034-ghosts-of-tabor.json) |
 | Ghosts of Tabor: Florida Man DLC | 393139 | [393139-ghosts-of-tabor-florida-man-dlc.json](./393139-ghosts-of-tabor-florida-man-dlc.json) |
 | Ghosts of Tabor: Legacy | 412321 | [412321-ghosts-of-tabor-legacy.json](./412321-ghosts-of-tabor-legacy.json) |
