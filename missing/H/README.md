@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Rats: A Fever Dream | 319644 | [319644-half-rats-a-fever-dream.json](./319644-half-rats-a-fever-dream.json) |
 | Half-Rats: Parasomnia | 127919 | [127919-half-rats-parasomnia.json](./127919-half-rats-parasomnia.json) |
 | Half-Rats: Redridge | 319651 | [319651-half-rats-redridge.json](./319651-half-rats-redridge.json) |
+| Halfbrick Blast Off | 92332 | [92332-halfbrick-blast-off.json](./92332-halfbrick-blast-off.json) |
 | Halfbrick Rocket Racing | 67959 | [67959-halfbrick-rocket-racing.json](./67959-halfbrick-rocket-racing.json) |
 | Halfmoon | 364583 | [364583-halfmoon.json](./364583-halfmoon.json) |
 | HalfMoon Adventures | 333164 | [333164-halfmoon-adventures.json](./333164-halfmoon-adventures.json) |
@@ -9628,6 +9629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Husk | 18966 | [18966-husk.json](./18966-husk.json) |
 | Husk Protocol | 399266 | [399266-husk-protocol.json](./399266-husk-protocol.json) |
 | Husker | 342584 | [342584-husker.json](./342584-husker.json) |
+| Husky Express | 92361 | [92361-husky-express.json](./92361-husky-express.json) |
 | Husky's Adventures | 152733 | [152733-huskys-adventures.json](./152733-huskys-adventures.json) |
 | Hustle | 40054 | [40054-hustle.json](./40054-hustle.json) |
 | Hustle Battle: Card Gamers | 393003 | [393003-hustle-battle-card-gamers.json](./393003-hustle-battle-card-gamers.json) |
