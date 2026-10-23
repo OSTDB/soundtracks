@@ -1922,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Attendant | 151186 | [151186-parking-attendant.json](./151186-parking-attendant.json) |
 | Parking Attendant Simulator | 326379 | [326379-parking-attendant-simulator.json](./326379-parking-attendant-simulator.json) |
 | Parking Car | 156694 | [156694-parking-car.json](./156694-parking-car.json) |
+| Parking Cop Simulator | 55740 | [55740-parking-cop-simulator.json](./55740-parking-cop-simulator.json) |
 | Parking Dash | 66608 | [66608-parking-dash.json](./66608-parking-dash.json) |
 | Parking Driver | 290921 | [290921-parking-driver.json](./290921-parking-driver.json) |
 | Parking Escape | 86947 | [86947-parking-escape.json](./86947-parking-escape.json) |
@@ -3084,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pegasis Odyssey | 373350 | [373350-pegasis-odyssey.json](./373350-pegasis-odyssey.json) |
 | Pegasus | 15336 | [15336-pegasus.json](./15336-pegasus.json) |
 | Pegasus Bridge | 36907 | [36907-pegasus-bridge.json](./36907-pegasus-bridge.json) |
+| Pegasus Door | 55647 | [55647-pegasus-door.json](./55647-pegasus-door.json) |
 | Pegasus Golden Five | 61480 | [61480-pegasus-golden-five.json](./61480-pegasus-golden-five.json) |
 | Pegasus II | 254970 | [254970-pegasus-ii.json](./254970-pegasus-ii.json) |
 | Pegasus-5: Gone Astray | 104797 | [104797-pegasus-5-gone-astray.json](./104797-pegasus-5-gone-astray.json) |
@@ -4623,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phylomortis: Avant-Garde | 356636 | [356636-phylomortis-avant-garde.json](./356636-phylomortis-avant-garde.json) |
 | Phyrexia | 208055 | [208055-phyrexia.json](./208055-phyrexia.json) |
 | Phyrok | 60941 | [60941-phyrok.json](./60941-phyrok.json) |
+| Physica-E | 55737 | [55737-physica-e.json](./55737-physica-e.json) |
 | Physical Contact: 2048 | 70884 | [70884-physical-contact-2048.json](./70884-physical-contact-2048.json) |
 | Physical Contact: Picture Place | 74348 | [74348-physical-contact-picture-place.json](./74348-physical-contact-picture-place.json) |
 | Physical Contact: Speed | 51409 | [51409-physical-contact-speed.json](./51409-physical-contact-speed.json) |
@@ -6524,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzle | 88484 | [88484-pixel-puzzle.json](./88484-pixel-puzzle.json) |
 | Pixel Puzzle Collection | 110865 | [110865-pixel-puzzle-collection.json](./110865-pixel-puzzle-collection.json) |
 | Pixel Puzzle Makeout League | 121603 | [121603-pixel-puzzle-makeout-league.json](./121603-pixel-puzzle-makeout-league.json) |
+| Pixel Puzzle Picross | 55732 | [55732-pixel-puzzle-picross.json](./55732-pixel-puzzle-picross.json) |
 | Pixel Puzzler | 69693 | [69693-pixel-puzzler.json](./69693-pixel-puzzler.json) |
 | Pixel Puzzles | 243639 | [243639-pixel-puzzles.json](./243639-pixel-puzzles.json) |
 | Pixel Puzzles 2: Christmas | 112743 | [112743-pixel-puzzles-2-christmas.json](./112743-pixel-puzzles-2-christmas.json) |
@@ -7234,6 +7238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Assault | 89936 | [89936-planet-assault.json](./89936-planet-assault.json) |
 | Planet B24 | 154374 | [154374-planet-b24.json](./154374-planet-b24.json) |
 | Planet Ballet | 179051 | [179051-planet-ballet.json](./179051-planet-ballet.json) |
+| Planet Bash | 55722 | [55722-planet-bash.json](./55722-planet-bash.json) |
 | Planet Basket 2009 2010 | 268383 | [268383-planet-basket-2009-2010.json](./268383-planet-basket-2009-2010.json) |
 | Planet Blood | 156591 | [156591-planet-blood.json](./156591-planet-blood.json) |
 | Planet Bom Bom | 345486 | [345486-planet-bom-bom.json](./345486-planet-bom-bom.json) |
@@ -8327,6 +8332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Thief | 337501 | [337501-pocket-thief.json](./337501-pocket-thief.json) |
 | Pocket Troops | 102236 | [102236-pocket-troops.json](./102236-pocket-troops.json) |
 | Pocket Universe - 3D Sandbox | 88962 | [88962-pocket-universe-3d-sandbox.json](./88962-pocket-universe-3d-sandbox.json) |
+| Pocket Universe : Create Your Community | 55624 | [55624-pocket-universe-create-your-community.json](./55624-pocket-universe-create-your-community.json) |
 | Pocket Usatama Easter 2019 Edition | 230130 | [230130-pocket-usatama-easter-2019-edition.json](./230130-pocket-usatama-easter-2019-edition.json) |
 | Pocket Volleyball | 180494 | [180494-pocket-volleyball.json](./180494-pocket-volleyball.json) |
 | Pocket Warriors | 152162 | [152162-pocket-warriors.json](./152162-pocket-warriors.json) |
@@ -13749,6 +13755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulseman | 45760 | [45760-pulseman.json](./45760-pulseman.json) |
 | Pulseman Amabilis | 215241 | [215241-pulseman-amabilis.json](./215241-pulseman-amabilis.json) |
 | Pulsen | 35985 | [35985-pulsen.json](./35985-pulsen.json) |
+| Pulses - Crystal Journeys | 55617 | [55617-pulses-crystal-journeys.json](./55617-pulses-crystal-journeys.json) |
 | PulseWave | 406948 | [406948-pulsewave.json](./406948-pulsewave.json) |
 | Pulsoids | 13024 | [13024-pulsoids.json](./13024-pulsoids.json) |
 | Pulsonic Baseball II | 245419 | [245419-pulsonic-baseball-ii.json](./245419-pulsonic-baseball-ii.json) |
