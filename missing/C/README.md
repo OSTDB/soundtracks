@@ -4495,6 +4495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Bowling | 131262 | [131262-championship-bowling.json](./131262-championship-bowling.json) |
 | Championship Bowling | 317525 | [317525-championship-bowling.json](./317525-championship-bowling.json) |
 | Championship Chess | 56776 | [56776-championship-chess.json](./56776-championship-chess.json) |
+| Championship Foosball | 51017 | [51017-championship-foosball.json](./51017-championship-foosball.json) |
 | Championship Hockey | 19772 | [19772-championship-hockey.json](./19772-championship-hockey.json) |
 | Championship Lode Runner | 6091 | [6091-championship-lode-runner.json](./6091-championship-lode-runner.json) |
 | Championship Mah Jongg | 62504 | [62504-championship-mah-jongg.json](./62504-championship-mah-jongg.json) |
@@ -5853,6 +5854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinatown Detective Agency | 125715 | [125715-chinatown-detective-agency.json](./125715-chinatown-detective-agency.json) |
 | Chinatris | 213367 | [213367-chinatris.json](./213367-chinatris.json) |
 | Chinbu's Adventure: Ice World | 171940 | [171940-chinbus-adventure-ice-world.json](./171940-chinbus-adventure-ice-world.json) |
+| Chindouchou!! Pole no Daibouken | 50992 | [50992-chindouchou-pole-no-daibouken.json](./50992-chindouchou-pole-no-daibouken.json) |
 | Chinese Ancient Poetry Matching Game | 274576 | [274576-chinese-ancient-poetry-matching-game.json](./274576-chinese-ancient-poetry-matching-game.json) |
 | Chinese Brush Simulator | 129077 | [129077-chinese-brush-simulator.json](./129077-chinese-brush-simulator.json) |
 | Chinese Characters | 223507 | [223507-chinese-characters.json](./223507-chinese-characters.json) |
@@ -8731,6 +8733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocoron | 48644 | [48644-cocoron.json](./48644-cocoron.json) |
 | Cocosic: On Pirates' Trail | 417696 | [417696-cocosic-on-pirates-trail.json](./417696-cocosic-on-pirates-trail.json) |
 | Cocoto Alien Brick Breaker | 63857 | [63857-cocoto-alien-brick-breaker.json](./63857-cocoto-alien-brick-breaker.json) |
+| Cocoto Festival | 50982 | [50982-cocoto-festival.json](./50982-cocoto-festival.json) |
 | Cocoto Fishing Master | 19677 | [19677-cocoto-fishing-master.json](./19677-cocoto-fishing-master.json) |
 | Cocoto Kart Online | 248487 | [248487-cocoto-kart-online.json](./248487-cocoto-kart-online.json) |
 | Cocoto Kart Racer | 248485 | [248485-cocoto-kart-racer.json](./248485-cocoto-kart-racer.json) |
@@ -8738,6 +8741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocoto Kit For Kids | 77122 | [77122-cocoto-kit-for-kids.json](./77122-cocoto-kit-for-kids.json) |
 | Cocoto Magic Circus 2 | 61861 | [61861-cocoto-magic-circus-2.json](./61861-cocoto-magic-circus-2.json) |
 | Cocoto Platform Jumper | 248499 | [248499-cocoto-platform-jumper.json](./248499-cocoto-platform-jumper.json) |
+| Cocoto Surprise | 50983 | [50983-cocoto-surprise.json](./50983-cocoto-surprise.json) |
 | Cocoto Tennis Master | 80476 | [80476-cocoto-tennis-master.json](./80476-cocoto-tennis-master.json) |
 | Coda | 252211 | [252211-coda.json](./252211-coda.json) |
 | Coda | 338681 | [338681-coda.json](./338681-coda.json) |
@@ -9118,6 +9122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Space | 54826 | [54826-cold-space.json](./54826-cold-space.json) |
 | Cold Steel | 314630 | [314630-cold-steel.json](./314630-cold-steel.json) |
 | Cold Steel | 373518 | [373518-cold-steel.json](./373518-cold-steel.json) |
+| Cold Stone Creamery: Scoop It Up | 51013 | [51013-cold-stone-creamery-scoop-it-up.json](./51013-cold-stone-creamery-scoop-it-up.json) |
 | Cold Storage | 329214 | [329214-cold-storage.json](./329214-cold-storage.json) |
 | Cold Storage | 70857 | [70857-cold-storage.json](./70857-cold-storage.json) |
 | Cold Sweat | 323508 | [323508-cold-sweat.json](./323508-cold-sweat.json) |
