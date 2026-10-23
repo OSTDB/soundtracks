@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ohimesama: Jiku wo Koeru | 97694 | [97694-ohimesama-jiku-wo-koeru.json](./97694-ohimesama-jiku-wo-koeru.json) |
 | OHM 1 | 273570 | [273570-ohm-1.json](./273570-ohm-1.json) |
 | OHM 2 | 273571 | [273571-ohm-2.json](./273571-ohm-2.json) |
+| Ohmygod Are You Alright? | 59724 | [59724-ohmygod-are-you-alright.json](./59724-ohmygod-are-you-alright.json) |
 | OhMyRace! | 274900 | [274900-ohmyrace.json](./274900-ohmyrace.json) |
 | OhMyWitch! | 266876 | [266876-ohmywitch.json](./266876-ohmywitch.json) |
 | Ohno Odyssey | 23519 | [23519-ohno-odyssey.json](./23519-ohno-odyssey.json) |
@@ -1643,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On-looker | 129203 | [129203-on-looker.json](./129203-on-looker.json) |
 | On-Together | 347835 | [347835-on-together.json](./347835-on-together.json) |
 | On/off | 217798 | [217798-on-off.json](./217798-on-off.json) |
+| Onaar | 59695 | [59695-onaar.json](./59695-onaar.json) |
 | Onager! | 59235 | [59235-onager.json](./59235-onager.json) |
 | OnAir Airline Manager | 327816 | [327816-onair-airline-manager.json](./327816-onair-airline-manager.json) |
 | Onaji | 174335 | [174335-onaji.json](./174335-onaji.json) |
