@@ -10577,6 +10577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide With You | 401834 | [401834-slide-with-you.json](./401834-slide-with-you.json) |
 | Slide: Animal Race | 174020 | [174020-slide-animal-race.json](./174020-slide-animal-race.json) |
 | Slide! Throw! Snow Party | 379977 | [379977-slide-throw-snow-party.json](./379977-slide-throw-snow-party.json) |
+| Slide!! | 74194 | [74194-slide.json](./74194-slide.json) |
 | SlideGrid | 409195 | [409195-slidegrid.json](./409195-slidegrid.json) |
 | Slidemagi | 244600 | [244600-slidemagi.json](./244600-slidemagi.json) |
 | SlideNGlide | 336015 | [336015-slidenglide.json](./336015-slidenglide.json) |
@@ -12943,6 +12944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire | 246627 | [246627-solitaire.json](./246627-solitaire.json) |
 | Solitaire | 312270 | [312270-solitaire.json](./312270-solitaire.json) |
 | Solitaire | 313972 | [313972-solitaire.json](./313972-solitaire.json) |
+| Solitaire | 74206 | [74206-solitaire.json](./74206-solitaire.json) |
 | Solitaire | 80744 | [80744-solitaire.json](./80744-solitaire.json) |
 | Solitaire | 86374 | [86374-solitaire.json](./86374-solitaire.json) |
 | Solitaire - Classic Game | 91123 | [91123-solitaire-classic-game.json](./91123-solitaire-classic-game.json) |
@@ -21365,6 +21367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoneman's Adventure | 256725 | [256725-stonemans-adventure.json](./256725-stonemans-adventure.json) |
 | Stones Keeper: King Aurelius | 212863 | [212863-stones-keeper-king-aurelius.json](./212863-stones-keeper-king-aurelius.json) |
 | Stones of Harlath | 152747 | [152747-stones-of-harlath.json](./152747-stones-of-harlath.json) |
+| Stones of Rome | 74149 | [74149-stones-of-rome.json](./74149-stones-of-rome.json) |
 | Stones of Solace | 120284 | [120284-stones-of-solace.json](./120284-stones-of-solace.json) |
 | Stones of Sorrow | 35170 | [35170-stones-of-sorrow.json](./35170-stones-of-sorrow.json) |
 | Stones of the Revenant | 131987 | [131987-stones-of-the-revenant.json](./131987-stones-of-the-revenant.json) |
@@ -24370,6 +24373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dragon Ball Heroes: World Mission | 111054 | [111054-super-dragon-ball-heroes-world-mission.json](./111054-super-dragon-ball-heroes-world-mission.json) |
 | Super Dragon Ball Heroes: World Mission - Hero Edition | 116237 | [116237-super-dragon-ball-heroes-world-mission-hero-edition.json](./116237-super-dragon-ball-heroes-world-mission-hero-edition.json) |
 | Super Dragon Punch Force 3 | 295358 | [295358-super-dragon-punch-force-3.json](./295358-super-dragon-punch-force-3.json) |
+| Super Dragon Slayer | 74175 | [74175-super-dragon-slayer.json](./74175-super-dragon-slayer.json) |
 | Super Dragonfly Chronicles | 147613 | [147613-super-dragonfly-chronicles.json](./147613-super-dragonfly-chronicles.json) |
 | Super Drake Tracker 2000 EX | 63558 | [63558-super-drake-tracker-2000-ex.json](./63558-super-drake-tracker-2000-ex.json) |
 | Super Dram World | 132857 | [132857-super-dram-world.json](./132857-super-dram-world.json) |
