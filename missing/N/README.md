@@ -2103,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neoneon Tribe | 399299 | [399299-neoneon-tribe.json](./399299-neoneon-tribe.json) |
 | Neonexus Wars | 297158 | [297158-neonexus-wars.json](./297158-neonexus-wars.json) |
 | NeonFlight | 130170 | [130170-neonflight.json](./130170-neonflight.json) |
+| NeonGalaxy Wars | 54877 | [54877-neongalaxy-wars.json](./54877-neongalaxy-wars.json) |
 | NeonHat | 187517 | [187517-neonhat.json](./187517-neonhat.json) |
 | Neonimo | 187797 | [187797-neonimo.json](./187797-neonimo.json) |
 | NeonLore | 197916 | [197916-neonlore.json](./197916-neonlore.json) |
