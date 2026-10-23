@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Quartz | 378423 | [378423-quantum-quartz.json](./378423-quantum-quartz.json) |
 | Quantum Redshift | 5996 | [5996-quantum-redshift.json](./5996-quantum-redshift.json) |
 | Quantum Replica | 32642 | [32642-quantum-replica.json](./32642-quantum-replica.json) |
+| Quantum Robot | 68445 | [68445-quantum-robot.json](./68445-quantum-robot.json) |
 | Quantum Ruins | 182077 | [182077-quantum-ruins.json](./182077-quantum-ruins.json) |
 | Quantum Runners | 151006 | [151006-quantum-runners.json](./151006-quantum-runners.json) |
 | Quantum Rush Champions | 17726 | [17726-quantum-rush-champions.json](./17726-quantum-rush-champions.json) |
@@ -738,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest of Legend | 334202 | [334202-quest-of-legend.json](./334202-quest-of-legend.json) |
 | Quest of Lost Memories | 299002 | [299002-quest-of-lost-memories.json](./299002-quest-of-lost-memories.json) |
 | Quest of Persia: Lotfali Khan Zand | 191672 | [191672-quest-of-persia-lotfali-khan-zand.json](./191672-quest-of-persia-lotfali-khan-zand.json) |
+| Quest of Persia: Nader's Blade | 68410 | [68410-quest-of-persia-naders-blade.json](./68410-quest-of-persia-naders-blade.json) |
 | Quest of Persia: The End of Innocence | 191671 | [191671-quest-of-persia-the-end-of-innocence.json](./191671-quest-of-persia-the-end-of-innocence.json) |
 | Quest of the Dragon Soul | 295926 | [295926-quest-of-the-dragon-soul.json](./295926-quest-of-the-dragon-soul.json) |
 | Quest of the Hero | 348988 | [348988-quest-of-the-hero.json](./348988-quest-of-the-hero.json) |
