@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackie | 231416 | [231416-jackie.json](./231416-jackie.json) |
 | Jackie Chan Adventures | 8154 | [8154-jackie-chan-adventures.json](./8154-jackie-chan-adventures.json) |
 | Jackie Chan in Fists of Fire | 39606 | [39606-jackie-chan-in-fists-of-fire.json](./39606-jackie-chan-in-fists-of-fire.json) |
+| Jackie Chan J-Mat Fitness | 91815 | [91815-jackie-chan-j-mat-fitness.json](./91815-jackie-chan-j-mat-fitness.json) |
 | Jackie Chan: The Kung-Fu Master | 39607 | [39607-jackie-chan-the-kung-fu-master.json](./39607-jackie-chan-the-kung-fu-master.json) |
 | Jackie Chan's Action Kung Fu | 12522 | [12522-jackie-chans-action-kung-fu.json](./12522-jackie-chans-action-kung-fu.json) |
 | Jackie’s Forest: Outsourced | 396716 | [396716-jackie-s-forest-outsourced.json](./396716-jackie-s-forest-outsourced.json) |
@@ -2084,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jonah Lomu Rugby Challenge: Quick Match | 175156 | [175156-jonah-lomu-rugby-challenge-quick-match.json](./175156-jonah-lomu-rugby-challenge-quick-match.json) |
 | Jonah: A VeggieTales Game | 80600 | [80600-jonah-a-veggietales-game.json](./80600-jonah-a-veggietales-game.json) |
 | Jonald '06 or How a Tiny Horse Living in New York City Raised 250 US Dollars So They Could Buy a Nintedo Woo On Launch Day | 357856 | [357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json](./357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json) |
+| Jonas | 91721 | [91721-jonas.json](./91721-jonas.json) |
 | Jonas Sky Scraper | 134926 | [134926-jonas-sky-scraper.json](./134926-jonas-sky-scraper.json) |
 | Jonas Willy Online | 149013 | [149013-jonas-willy-online.json](./149013-jonas-willy-online.json) |
 | Jonathan Kane: The Protector | 67261 | [67261-jonathan-kane-the-protector.json](./67261-jonathan-kane-the-protector.json) |
@@ -2765,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Preschool | 315521 | [315521-jumpstart-preschool.json](./315521-jumpstart-preschool.json) |
 | JumpStart Reading for Second Graders | 144929 | [144929-jumpstart-reading-for-second-graders.json](./144929-jumpstart-reading-for-second-graders.json) |
 | JumpStart Spanish | 378540 | [378540-jumpstart-spanish.json](./378540-jumpstart-spanish.json) |
+| Jumpstart Spy Masters: Max Strikes Back | 91800 | [91800-jumpstart-spy-masters-max-strikes-back.json](./91800-jumpstart-spy-masters-max-strikes-back.json) |
 | Jumpstart Spy Masters: Unmask the Prankster | 185887 | [185887-jumpstart-spy-masters-unmask-the-prankster.json](./185887-jumpstart-spy-masters-unmask-the-prankster.json) |
 | JumpStart Toddlers | 129111 | [129111-jumpstart-toddlers.json](./129111-jumpstart-toddlers.json) |
 | JumpStart Wildlife Safari Field Trip | 67348 | [67348-jumpstart-wildlife-safari-field-trip.json](./67348-jumpstart-wildlife-safari-field-trip.json) |
