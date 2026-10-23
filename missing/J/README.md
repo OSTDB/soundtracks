@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jamal Jones: One Man Jury! | 263000 | [263000-jamal-jones-one-man-jury.json](./263000-jamal-jones-one-man-jury.json) |
 | Jamango! | 312618 | [312618-jamango.json](./312618-jamango.json) |
 | Jambo | 81980 | [81980-jambo.json](./81980-jambo.json) |
+| Jambo! Safari Animal Rescue | 51001 | [51001-jambo-safari-animal-rescue.json](./51001-jambo-safari-animal-rescue.json) |
 | Jamboy: A Jelly-cious Hero | 260596 | [260596-jamboy-a-jelly-cious-hero.json](./260596-jamboy-a-jelly-cious-hero.json) |
 | Jambredrek: Two Guns | 386992 | [386992-jambredrek-two-guns.json](./386992-jambredrek-two-guns.json) |
 | Jamco Matefest 3013 | 128614 | [128614-jamco-matefest-3013.json](./128614-jamco-matefest-3013.json) |
@@ -1645,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jill O' Lantern | 320971 | [320971-jill-o-lantern.json](./320971-jill-o-lantern.json) |
 | Jill O' Lantern: Final Cut | 319360 | [319360-jill-o-lantern-final-cut.json](./319360-jill-o-lantern-final-cut.json) |
 | Jill Saves the Prince | 9645 | [9645-jill-saves-the-prince.json](./9645-jill-saves-the-prince.json) |
+| Jillian Michael's Fitness Ultamatum 2009 | 50989 | [50989-jillian-michaels-fitness-ultamatum-2009.json](./50989-jillian-michaels-fitness-ultamatum-2009.json) |
 | Jillian Michaels Fitness Ultimatum 2011 | 65429 | [65429-jillian-michaels-fitness-ultimatum-2011.json](./65429-jillian-michaels-fitness-ultimatum-2011.json) |
 | Jillian Michaels' Fitness Adventure | 20222 | [20222-jillian-michaels-fitness-adventure.json](./20222-jillian-michaels-fitness-adventure.json) |
 | Jillian Michaels' Fitness Ultimatum 2010 | 79817 | [79817-jillian-michaels-fitness-ultimatum-2010.json](./79817-jillian-michaels-fitness-ultimatum-2010.json) |
@@ -2938,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junior Classic Games 3D | 122193 | [122193-junior-classic-games-3d.json](./122193-junior-classic-games-3d.json) |
 | Junior Education 2 | 151997 | [151997-junior-education-2.json](./151997-junior-education-2.json) |
 | Junior Fitness Trainer | 268182 | [268182-junior-fitness-trainer.json](./268182-junior-fitness-trainer.json) |
+| Junior League Sports | 50984 | [50984-junior-league-sports.json](./50984-junior-league-sports.json) |
 | Junior League: Sports - Soccer | 187245 | [187245-junior-league-sports-soccer.json](./187245-junior-league-sports-soccer.json) |
 | Junior MithulBlox | 318495 | [318495-junior-mithulblox.json](./318495-junior-mithulblox.json) |
 | Junior Mystery Quest | 78609 | [78609-junior-mystery-quest.json](./78609-junior-mystery-quest.json) |
