@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laserstorm | 336689 | [336689-laserstorm.json](./336689-laserstorm.json) |
 | Lasertag | 397898 | [397898-lasertag.json](./397898-lasertag.json) |
 | Laservasion | 121454 | [121454-laservasion.json](./121454-laservasion.json) |
+| Laserwars | 70799 | [70799-laserwars.json](./70799-laserwars.json) |
 | Laserworks | 184316 | [184316-laserworks.json](./184316-laserworks.json) |
 | LaserZone | 133356 | [133356-laserzone.json](./133356-laserzone.json) |
 | Lass ich Sliden | 295084 | [295084-lass-ich-sliden.json](./295084-lass-ich-sliden.json) |
@@ -1077,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Kiss Before Summer | 218631 | [218631-last-kiss-before-summer.json](./218631-last-kiss-before-summer.json) |
 | Last Knight | 177847 | [177847-last-knight.json](./177847-last-knight.json) |
 | Last Knight | 53266 | [53266-last-knight.json](./53266-last-knight.json) |
+| Last Knight in Camelot | 70768 | [70768-last-knight-in-camelot.json](./70768-last-knight-in-camelot.json) |
 | Last Labyrinth | 109245 | [109245-last-labyrinth.json](./109245-last-labyrinth.json) |
 | Last Labyrinth: Collector's Edition | 139973 | [139973-last-labyrinth-collectors-edition.json](./139973-last-labyrinth-collectors-edition.json) |
 | Last Labyrinth: Lucidity Lost | 249725 | [249725-last-labyrinth-lucidity-lost.json](./249725-last-labyrinth-lucidity-lost.json) |
@@ -2934,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go Bassfishing! | 282681 | [282681-lets-go-bassfishing.json](./282681-lets-go-bassfishing.json) |
 | Let's Go By Train! | 21398 | [21398-lets-go-by-train.json](./21398-lets-go-by-train.json) |
 | Let's Go Camping | 220143 | [220143-lets-go-camping.json](./220143-lets-go-camping.json) |
+| Let's Go Crazy with Lemmings | 70786 | [70786-lets-go-crazy-with-lemmings.json](./70786-lets-go-crazy-with-lemmings.json) |
 | Let's Go Fishing!! | 400416 | [400416-lets-go-fishing.json](./400416-lets-go-fishing.json) |
 | Let's Go Home! | 296451 | [296451-lets-go-home.json](./296451-lets-go-home.json) |
 | Let's Go Jungle!: Lost on the Island of Spice | 69304 | [69304-lets-go-jungle-lost-on-the-island-of-spice.json](./69304-lets-go-jungle-lost-on-the-island-of-spice.json) |
@@ -4589,6 +4592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Bit Lost | 124554 | [124554-little-bit-lost.json](./124554-little-bit-lost.json) |
 | Little Bit War | 147259 | [147259-little-bit-war.json](./147259-little-bit-war.json) |
 | Little Blackmask | 287531 | [287531-little-blackmask.json](./287531-little-blackmask.json) |
+| Little Blue Men | 70787 | [70787-little-blue-men.json](./70787-little-blue-men.json) |
 | Little Bo Reap | 244308 | [244308-little-bo-reap.json](./244308-little-bo-reap.json) |
 | Little Boat River Rush | 232333 | [232333-little-boat-river-rush.json](./232333-little-boat-river-rush.json) |
 | Little Boats of Farewell | 193730 | [193730-little-boats-of-farewell.json](./193730-little-boats-of-farewell.json) |
@@ -7450,6 +7454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucy Gorbalm Is Missing | 393163 | [393163-lucy-gorbalm-is-missing.json](./393163-lucy-gorbalm-is-missing.json) |
 | Lucy Got Problems | 105099 | [105099-lucy-got-problems.json](./105099-lucy-got-problems.json) |
 | Lucy Half Lucid | 408169 | [408169-lucy-half-lucid.json](./408169-lucy-half-lucid.json) |
+| Lucy Q Deluxe | 70798 | [70798-lucy-q-deluxe.json](./70798-lucy-q-deluxe.json) |
 | Lucy's Adventure | 334349 | [334349-lucys-adventure.json](./334349-lucys-adventure.json) |
 | Lucy's Expedition | 209399 | [209399-lucys-expedition.json](./209399-lucys-expedition.json) |
 | Lucy's Heaven | 226176 | [226176-lucys-heaven.json](./226176-lucys-heaven.json) |
