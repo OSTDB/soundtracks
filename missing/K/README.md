@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kacipbara | 393159 | [393159-kacipbara.json](./393159-kacipbara.json) |
 | Kadath | 114553 | [114553-kadath.json](./114553-kadath.json) |
 | Kadath | 386925 | [386925-kadath.json](./386925-kadath.json) |
+| Kaden Garth | 72474 | [72474-kaden-garth.json](./72474-kaden-garth.json) |
 | Kader Mühürleri | 86127 | [86127-kader-muhurleri.json](./86127-kader-muhurleri.json) |
 | Kadin the Soul Eater | 303601 | [303601-kadin-the-soul-eater.json](./303601-kadin-the-soul-eater.json) |
 | Kado Hunter | 303600 | [303600-kado-hunter.json](./303600-kado-hunter.json) |
@@ -2223,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KimiSuta: Kimi to Study | 287899 | [287899-kimisuta-kimi-to-study.json](./287899-kimisuta-kimi-to-study.json) |
 | Kimmie Jong on Nukes the World | 110989 | [110989-kimmie-jong-on-nukes-the-world.json](./110989-kimmie-jong-on-nukes-the-world.json) |
 | Kimmy | 29331 | [29331-kimmy.json](./29331-kimmy.json) |
+| Kimo Kawa E! | 72479 | [72479-kimo-kawa-e.json](./72479-kimo-kawa-e.json) |
 | Kimochii Classroom | 360209 | [360209-kimochii-classroom.json](./360209-kimochii-classroom.json) |
 | KimodameshiGolf | 266976 | [266976-kimodameshigolf.json](./266976-kimodameshigolf.json) |
 | Kimokawaiii | 304184 | [304184-kimokawaiii.json](./304184-kimokawaiii.json) |
