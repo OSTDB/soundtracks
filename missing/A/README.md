@@ -2233,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Act Normal! | 301690 | [301690-act-normal.json](./301690-act-normal.json) |
 | Act of Aggression | 8920 | [8920-act-of-aggression.json](./8920-act-of-aggression.json) |
 | Act of Aggression: Reboot Edition | 52552 | [52552-act-of-aggression-reboot-edition.json](./52552-act-of-aggression-reboot-edition.json) |
+| Act of War: Gold Edition | 51697 | [51697-act-of-war-gold-edition.json](./51697-act-of-war-gold-edition.json) |
 | Act Out | 67837 | [67837-act-out.json](./67837-act-out.json) |
 | Act-Fancer: Cybernetick Hyper Weapon | 12270 | [12270-act-fancer-cybernetick-hyper-weapon.json](./12270-act-fancer-cybernetick-hyper-weapon.json) |
 | Actala: The Hero's Shadow | 219700 | [219700-actala-the-heros-shadow.json](./219700-actala-the-heros-shadow.json) |
@@ -3682,6 +3683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders 4: Secrets of the Archmages | 371021 | [371021-age-of-wonders-4-secrets-of-the-archmages.json](./371021-age-of-wonders-4-secrets-of-the-archmages.json) |
 | Age of Wonders 4: Thrones of Blood | 371023 | [371023-age-of-wonders-4-thrones-of-blood.json](./371023-age-of-wonders-4-thrones-of-blood.json) |
 | Age of Wonders III | 5652 | [5652-age-of-wonders-iii.json](./5652-age-of-wonders-iii.json) |
+| Age of Wonders III: Deluxe Edition | 51696 | [51696-age-of-wonders-iii-deluxe-edition.json](./51696-age-of-wonders-iii-deluxe-edition.json) |
 | Age of Wonders III: Golden Realms | 8863 | [8863-age-of-wonders-iii-golden-realms.json](./8863-age-of-wonders-iii-golden-realms.json) |
 | Age of Wonders: Planetfall - Day One Edition | 136153 | [136153-age-of-wonders-planetfall-day-one-edition.json](./136153-age-of-wonders-planetfall-day-one-edition.json) |
 | Age of Wonders: Planetfall - Deluxe Edition | 118845 | [118845-age-of-wonders-planetfall-deluxe-edition.json](./118845-age-of-wonders-planetfall-deluxe-edition.json) |
@@ -3956,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI War 2: The Neinzul Abyss | 174138 | [174138-ai-war-2-the-neinzul-abyss.json](./174138-ai-war-2-the-neinzul-abyss.json) |
 | AI War 2: Titan Edition | 159700 | [159700-ai-war-2-titan-edition.json](./159700-ai-war-2-titan-edition.json) |
 | AI War 2: Zenith Onslaught | 154490 | [154490-ai-war-2-zenith-onslaught.json](./154490-ai-war-2-zenith-onslaught.json) |
+| AI War Collection | 51695 | [51695-ai-war-collection.json](./51695-ai-war-collection.json) |
 | AI War: Ancient Shadows | 8888 | [8888-ai-war-ancient-shadows.json](./8888-ai-war-ancient-shadows.json) |
 | AI War: Children of Neinzul | 8886 | [8886-ai-war-children-of-neinzul.json](./8886-ai-war-children-of-neinzul.json) |
 | AI War: Destroyer of Worlds | 8890 | [8890-ai-war-destroyer-of-worlds.json](./8890-ai-war-destroyer-of-worlds.json) |
@@ -6620,6 +6623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amelie's Cafe: Holiday Spirit | 52396 | [52396-amelies-cafe-holiday-spirit.json](./52396-amelies-cafe-holiday-spirit.json) |
 | Amelie's Café: Summer Time | 52398 | [52398-amelies-cafe-summer-time.json](./52398-amelies-cafe-summer-time.json) |
 | Amelies Cafe Halloween | 52395 | [52395-amelies-cafe-halloween.json](./52395-amelies-cafe-halloween.json) |
+| Ameline and the Ultimate Burger | 51719 | [51719-ameline-and-the-ultimate-burger.json](./51719-ameline-and-the-ultimate-burger.json) |
 | Amelite | 195462 | [195462-amelite.json](./195462-amelite.json) |
 | Amelorn | 379127 | [379127-amelorn.json](./379127-amelorn.json) |
 | Amen Jesus Flap | 61442 | [61442-amen-jesus-flap.json](./61442-amen-jesus-flap.json) |
@@ -8750,6 +8754,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antigraviator: Viper Trails | 170426 | [170426-antigraviator-viper-trails.json](./170426-antigraviator-viper-trails.json) |
 | Antigravity Racing | 239292 | [239292-antigravity-racing.json](./239292-antigravity-racing.json) |
 | Antihero | 26856 | [26856-antihero.json](./26856-antihero.json) |
+| Antihero Book Club | 51694 | [51694-antihero-book-club.json](./51694-antihero-book-club.json) |
+| Antihero: Deluxe Edition | 51712 | [51712-antihero-deluxe-edition.json](./51712-antihero-deluxe-edition.json) |
 | Antihorror | 32249 | [32249-antihorror.json](./32249-antihorror.json) |
 | Antihue | 297461 | [297461-antihue.json](./297461-antihue.json) |
 | AntiKiller | 52415 | [52415-antikiller.json](./52415-antikiller.json) |
@@ -11055,6 +11061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armies of Riddle Classic | 91175 | [91175-armies-of-riddle-classic.json](./91175-armies-of-riddle-classic.json) |
 | Armies of Riddle E.X. (Extreme) | 126440 | [126440-armies-of-riddle-e-x-extreme.json](./126440-armies-of-riddle-e-x-extreme.json) |
 | Armikrog | 11093 | [11093-armikrog.json](./11093-armikrog.json) |
+| Armikrog: Deluxe Edition | 51711 | [51711-armikrog-deluxe-edition.json](./51711-armikrog-deluxe-edition.json) |
 | Armis | 186039 | [186039-armis.json](./186039-armis.json) |
 | Armless Samurai | 296454 | [296454-armless-samurai.json](./296454-armless-samurai.json) |
 | Armobiles | 122976 | [122976-armobiles.json](./122976-armobiles.json) |
@@ -13912,6 +13919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avabel Lupinus | 208213 | [208213-avabel-lupinus.json](./208213-avabel-lupinus.json) |
 | Avabel Online | 38918 | [38918-avabel-online.json](./38918-avabel-online.json) |
 | Avadon 2: The Corruption | 10036 | [10036-avadon-2-the-corruption.json](./10036-avadon-2-the-corruption.json) |
+| Avadon 3: Hint Book & Extras | 51710 | [51710-avadon-3-hint-book-and-extras.json](./51710-avadon-3-hint-book-and-extras.json) |
 | Avadon 3: The Warborn | 23241 | [23241-avadon-3-the-warborn.json](./23241-avadon-3-the-warborn.json) |
 | Avadon 3: The Warborn - Deluxe Edition | 52621 | [52621-avadon-3-the-warborn-deluxe-edition.json](./52621-avadon-3-the-warborn-deluxe-edition.json) |
 | Avakin Life | 86966 | [86966-avakin-life.json](./86966-avakin-life.json) |
@@ -14072,6 +14080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avernum 2: Crystal Souls | 8802 | [8802-avernum-2-crystal-souls.json](./8802-avernum-2-crystal-souls.json) |
 | Avernum 3 | 57680 | [57680-avernum-3.json](./57680-avernum-3.json) |
 | Avernum 5 | 16338 | [16338-avernum-5.json](./16338-avernum-5.json) |
+| Avernum: The Complete Saga | 51709 | [51709-avernum-the-complete-saga.json](./51709-avernum-the-complete-saga.json) |
 | Avernus | 109377 | [109377-avernus.json](./109377-avernus.json) |
 | Averon Rising | 126874 | [126874-averon-rising.json](./126874-averon-rising.json) |
 | Aversion | 273360 | [273360-aversion.json](./273360-aversion.json) |
