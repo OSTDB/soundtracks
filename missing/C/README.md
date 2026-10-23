@@ -2263,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot: The First Seed | 248918 | [248918-carrot-the-first-seed.json](./248918-carrot-the-first-seed.json) |
 | Carrots and Cream | 22414 | [22414-carrots-and-cream.json](./22414-carrots-and-cream.json) |
 | Carrotting Brain | 34418 | [34418-carrotting-brain.json](./34418-carrotting-brain.json) |
+| Carrum | 68413 | [68413-carrum.json](./68413-carrum.json) |
 | Carrumble | 122252 | [122252-carrumble.json](./122252-carrumble.json) |
 | Carry Onward | 249787 | [249787-carry-onward.json](./249787-carry-onward.json) |
 | Carry the Count | 414477 | [414477-carry-the-count.json](./414477-carry-the-count.json) |
@@ -3791,6 +3792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman | 284224 | [284224-caveman.json](./284224-caveman.json) |
 | Caveman | 335472 | [335472-caveman.json](./335472-caveman.json) |
 | Caveman | 47281 | [47281-caveman.json](./47281-caveman.json) |
+| Caveman Alive | 68499 | [68499-caveman-alive.json](./68499-caveman-alive.json) |
 | Caveman Capers | 13702 | [13702-caveman-capers.json](./13702-caveman-capers.json) |
 | Caveman Caravan | 369667 | [369667-caveman-caravan.json](./369667-caveman-caravan.json) |
 | Caveman Chuck | 109325 | [109325-caveman-chuck.json](./109325-caveman-chuck.json) |
@@ -8064,6 +8066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clifford the Big Red Dog: Thinking Adventures | 70775 | [70775-clifford-the-big-red-dog-thinking-adventures.json](./70775-clifford-the-big-red-dog-thinking-adventures.json) |
 | Clifford: Ready-to-Read | 230359 | [230359-clifford-ready-to-read.json](./230359-clifford-ready-to-read.json) |
 | Cliffs of War: Fortress Defenders | 34606 | [34606-cliffs-of-war-fortress-defenders.json](./34606-cliffs-of-war-fortress-defenders.json) |
+| Cliffstone Manor | 68472 | [68472-cliffstone-manor.json](./68472-cliffstone-manor.json) |
 | Clifftop Games Bundle I Kathy Rain: Director's Cut + Whispers of a Machine | 226788 | [226788-clifftop-games-bundle-i-kathy-rain-directors-cut-whispers-of-a-machine.json](./226788-clifftop-games-bundle-i-kathy-rain-directors-cut-whispers-of-a-machine.json) |
 | Clik Flip | 194964 | [194964-clik-flip.json](./194964-clik-flip.json) |
 | Clim Snail | 379017 | [379017-clim-snail.json](./379017-clim-snail.json) |
@@ -9076,6 +9079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Verdict 2 | 263989 | [263989-cold-verdict-2.json](./263989-cold-verdict-2.json) |
 | Cold Verdict 3 | 371862 | [371862-cold-verdict-3.json](./371862-cold-verdict-3.json) |
 | Cold VR | 296392 | [296392-cold-vr.json](./296392-cold-vr.json) |
+| Cold War | 68436 | [68436-cold-war.json](./68436-cold-war.json) |
 | Cold War Commander | 67982 | [67982-cold-war-commander.json](./67982-cold-war-commander.json) |
 | Cold War Conflicts: Days in the Field 1950-1973 | 23785 | [23785-cold-war-conflicts-days-in-the-field-1950-1973.json](./23785-cold-war-conflicts-days-in-the-field-1950-1973.json) |
 | Cold War Era | 356265 | [356265-cold-war-era.json](./356265-cold-war-era.json) |
@@ -12942,6 +12946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Shin-chan: Arashi wo Yobu Cinema-Land - Kachinko Gachinko Daikatsugeki! | 136939 | [136939-crayon-shin-chan-arashi-wo-yobu-cinema-land-kachinko-gachinko-daikatsugeki.json](./136939-crayon-shin-chan-arashi-wo-yobu-cinema-land-kachinko-gachinko-daikatsugeki.json) |
 | Crayon Shin-chan: Arashi wo Yobu Enji | 65377 | [65377-crayon-shin-chan-arashi-wo-yobu-enji.json](./65377-crayon-shin-chan-arashi-wo-yobu-enji.json) |
 | Crayon Shin-chan: Arashi wo Yobu Nendororoon Daihenshin! | 20476 | [20476-crayon-shin-chan-arashi-wo-yobu-nendororoon-daihenshin.json](./20476-crayon-shin-chan-arashi-wo-yobu-nendororoon-daihenshin.json) |
+| Crayon Shin-Chan: Gekiatsu! Oden World Daikonran!! | 68452 | [68452-crayon-shin-chan-gekiatsu-oden-world-daikonran.json](./68452-crayon-shin-chan-gekiatsu-oden-world-daikonran.json) |
 | Crayon Shin-chan: Guu Choki Panic | 346024 | [346024-crayon-shin-chan-guu-choki-panic.json](./346024-crayon-shin-chan-guu-choki-panic.json) |
 | Crayon Shin-chan: Nagagutsu Dobon!! | 38203 | [38203-crayon-shin-chan-nagagutsu-dobon.json](./38203-crayon-shin-chan-nagagutsu-dobon.json) |
 | Crayon Shin-chan: Obaka Dainin Den - Susume! Kasukabe Ninja Tai! | 269680 | [269680-crayon-shin-chan-obaka-dainin-den-susume-kasukabe-ninja-tai.json](./269680-crayon-shin-chan-obaka-dainin-den-susume-kasukabe-ninja-tai.json) |
