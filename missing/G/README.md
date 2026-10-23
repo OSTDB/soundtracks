@@ -6667,6 +6667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviteam Tactics: Operation Star - Shield of the Prophet | 25043 | [25043-graviteam-tactics-operation-star-shield-of-the-prophet.json](./25043-graviteam-tactics-operation-star-shield-of-the-prophet.json) |
 | Graviteam Tactics: Operation Star - Shilovo 1942 | 54062 | [54062-graviteam-tactics-operation-star-shilovo-1942.json](./54062-graviteam-tactics-operation-star-shilovo-1942.json) |
 | Graviteam Tactics: Operation Star - Sokolovo 1943 | 155494 | [155494-graviteam-tactics-operation-star-sokolovo-1943.json](./155494-graviteam-tactics-operation-star-sokolovo-1943.json) |
+| Graviteam Tactics: Operation Star - Sokolovo 1943 | 52365 | [52365-graviteam-tactics-operation-star-sokolovo-1943.json](./52365-graviteam-tactics-operation-star-sokolovo-1943.json) |
 | Graviteam Tactics: Operation Star - Volokonovka 1942 | 155496 | [155496-graviteam-tactics-operation-star-volokonovka-1942.json](./155496-graviteam-tactics-operation-star-volokonovka-1942.json) |
 | Graviteam Tactics: Operation Star - Zhalanashkol 1969 | 54061 | [54061-graviteam-tactics-operation-star-zhalanashkol-1969.json](./54061-graviteam-tactics-operation-star-zhalanashkol-1969.json) |
 | Graviteam Tactics: The Far Escape | 304450 | [304450-graviteam-tactics-the-far-escape.json](./304450-graviteam-tactics-the-far-escape.json) |
