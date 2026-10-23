@@ -1646,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou City | 268524 | [268524-mahou-city.json](./268524-mahou-city.json) |
 | Mahou Kishi Rayearth 2nd: The Missing Colors | 105046 | [105046-mahou-kishi-rayearth-2nd-the-missing-colors.json](./105046-mahou-kishi-rayearth-2nd-the-missing-colors.json) |
 | Mahou Mating | 128014 | [128014-mahou-mating.json](./128014-mahou-mating.json) |
+| Mahou no Palette | 77765 | [77765-mahou-no-palette.json](./77765-mahou-no-palette.json) |
 | Mahou no Princess Minky Momo: Remember Dream | 61432 | [61432-mahou-no-princess-minky-momo-remember-dream.json](./61432-mahou-no-princess-minky-momo-remember-dream.json) |
 | Mahou no Shippo na | 69587 | [69587-mahou-no-shippo-na.json](./69587-mahou-no-shippo-na.json) |
 | Mahou no Tenshi Creamy Mami: Futatsu no Sekai no Monogatari | 131375 | [131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json](./131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json) |
@@ -2052,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Making History: The World Wars | 54214 | [54214-making-history-the-world-wars.json](./54214-making-history-the-world-wars.json) |
 | Making it Home | 123463 | [123463-making-it-home.json](./123463-making-it-home.json) |
 | Making Lovely | 387501 | [387501-making-lovely.json](./387501-making-lovely.json) |
+| Making Lovers | 77823 | [77823-making-lovers.json](./77823-making-lovers.json) |
 | Making Lovers After Stories | 212132 | [212132-making-lovers-after-stories.json](./212132-making-lovers-after-stories.json) |
 | Making Lovers: First Blush | 397802 | [397802-making-lovers-first-blush.json](./397802-making-lovers-first-blush.json) |
 | Making Lovers: Geki Icha After Story Vol.01 | 108975 | [108975-making-lovers-geki-icha-after-story-vol-01.json](./108975-making-lovers-geki-icha-after-story-vol-01.json) |
@@ -3198,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party Legacy 1 Vol. 17 | 283645 | [283645-mario-party-legacy-1-vol-17.json](./283645-mario-party-legacy-1-vol-17.json) |
 | Mario Party Legacy 1 Vol. 19 | 283650 | [283650-mario-party-legacy-1-vol-19.json](./283650-mario-party-legacy-1-vol-19.json) |
 | Mario Party Legacy 1 Vol. 2 | 283422 | [283422-mario-party-legacy-1-vol-2.json](./283422-mario-party-legacy-1-vol-2.json) |
+| Mario Party-e | 77789 | [77789-mario-party-e.json](./77789-mario-party-e.json) |
 | Mario Party-e: Duel Challenge - Balloon Burst! | 351413 | [351413-mario-party-e-duel-challenge-balloon-burst.json](./351413-mario-party-e-duel-challenge-balloon-burst.json) |
 | Mario Party-e: Duel Challenge - Bolt from Boo | 351417 | [351417-mario-party-e-duel-challenge-bolt-from-boo.json](./351417-mario-party-e-duel-challenge-bolt-from-boo.json) |
 | Mario Party-e: Duel Challenge - Time Bomb Ticks! | 351419 | [351419-mario-party-e-duel-challenge-time-bomb-ticks.json](./351419-mario-party-e-duel-challenge-time-bomb-ticks.json) |
@@ -3209,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party-e: Free Challenge - Mario's Mallet | 351407 | [351407-mario-party-e-free-challenge-marios-mallet.json](./351407-mario-party-e-free-challenge-marios-mallet.json) |
 | Mario Party-e: Wonder Challenge - Lakitu's Luck | 351408 | [351408-mario-party-e-wonder-challenge-lakitus-luck.json](./351408-mario-party-e-wonder-challenge-lakitus-luck.json) |
 | Mario Party-e: Wonder Challenge - Spinister Bowser | 351409 | [351409-mario-party-e-wonder-challenge-spinister-bowser.json](./351409-mario-party-e-wonder-challenge-spinister-bowser.json) |
+| Mario Party: Fushigi no Koro-koro Catcher | 77829 | [77829-mario-party-fushigi-no-koro-koro-catcher.json](./77829-mario-party-fushigi-no-koro-koro-catcher.json) |
 | Mario Party: Fushigi no Koro-koro Catcher 2 | 132044 | [132044-mario-party-fushigi-no-koro-koro-catcher-2.json](./132044-mario-party-fushigi-no-koro-koro-catcher-2.json) |
 | Mario Party: Love Land | 294763 | [294763-mario-party-love-land.json](./294763-mario-party-love-land.json) |
 | Mario Party: Star Rush | 19599 | [19599-mario-party-star-rush.json](./19599-mario-party-star-rush.json) |
@@ -4892,6 +4896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze | 392949 | [392949-maze.json](./392949-maze.json) |
 | Maze | 399913 | [399913-maze.json](./399913-maze.json) |
 | Maze | 7430 | [7430-maze.json](./7430-maze.json) |
+| Maze | 77803 | [77803-maze.json](./77803-maze.json) |
 | Maze 100 | 232580 | [232580-maze-100.json](./232580-maze-100.json) |
 | Maze 2010 | 230851 | [230851-maze-2010.json](./230851-maze-2010.json) |
 | Maze 3D | 113478 | [113478-maze-3d.json](./113478-maze-3d.json) |
@@ -11093,6 +11098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiXem Delux | 70289 | [70289-mixem-delux.json](./70289-mixem-delux.json) |
 | MixiM | 202360 | [202360-mixim.json](./202360-mixim.json) |
 | Mixing Suns | 183389 | [183389-mixing-suns.json](./183389-mixing-suns.json) |
+| MixMaster | 77806 | [77806-mixmaster.json](./77806-mixmaster.json) |
 | MixMaster Online | 77363 | [77363-mixmaster-online.json](./77363-mixmaster-online.json) |
 | Mixmob: Racer 1 | 250916 | [250916-mixmob-racer-1.json](./250916-mixmob-racer-1.json) |
 | Mixology | 402922 | [402922-mixology.json](./402922-mixology.json) |
