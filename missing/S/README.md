@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai of Hyuga Book 6 | 402539 | [402539-samurai-of-hyuga-book-6.json](./402539-samurai-of-hyuga-book-6.json) |
 | Samurai Pig : The Way of the Rooster | 216925 | [216925-samurai-pig-the-way-of-the-rooster.json](./216925-samurai-pig-the-way-of-the-rooster.json) |
 | Samurai Pizza Cats: Blast from the Past! | 332394 | [332394-samurai-pizza-cats-blast-from-the-past.json](./332394-samurai-pizza-cats-blast-from-the-past.json) |
+| Samurai Plat | 56249 | [56249-samurai-plat.json](./56249-samurai-plat.json) |
 | Samurai Poodle | 60768 | [60768-samurai-poodle.json](./60768-samurai-poodle.json) |
 | Samurai Pussy | 216926 | [216926-samurai-pussy.json](./216926-samurai-pussy.json) |
 | Samurai Reflexion | 187980 | [187980-samurai-reflexion.json](./187980-samurai-reflexion.json) |
@@ -8444,6 +8445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Royale: Devil Amongst Us | 242233 | [242233-silly-royale-devil-amongst-us.json](./242233-silly-royale-devil-amongst-us.json) |
 | Silly Sausage Buffet | 411842 | [411842-silly-sausage-buffet.json](./411842-silly-sausage-buffet.json) |
 | Silly Sausage in Meat Land | 74297 | [74297-silly-sausage-in-meat-land.json](./74297-silly-sausage-in-meat-land.json) |
+| Silly Sausage: Doggy Dessert | 56257 | [56257-silly-sausage-doggy-dessert.json](./56257-silly-sausage-doggy-dessert.json) |
 | Silly Scribbles | 285965 | [285965-silly-scribbles.json](./285965-silly-scribbles.json) |
 | Silly Skateboarding | 180698 | [180698-silly-skateboarding.json](./180698-silly-skateboarding.json) |
 | Silly Suspects | 309735 | [309735-silly-suspects.json](./309735-silly-suspects.json) |
@@ -9992,6 +9994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Plankers | 28195 | [28195-sky-plankers.json](./28195-sky-plankers.json) |
 | Sky Prison | 368278 | [368278-sky-prison.json](./368278-sky-prison.json) |
 | Sky Puzzle | 220703 | [220703-sky-puzzle.json](./220703-sky-puzzle.json) |
+| Sky Racer | 56349 | [56349-sky-racer.json](./56349-sky-racer.json) |
 | Sky Racerz | 96297 | [96297-sky-racerz.json](./96297-sky-racerz.json) |
 | Sky Races | 186909 | [186909-sky-races.json](./186909-sky-races.json) |
 | Sky Racket | 115006 | [115006-sky-racket.json](./115006-sky-racket.json) |
@@ -12887,6 +12890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Rogue | 133421 | [133421-solar-rogue.json](./133421-solar-rogue.json) |
 | Solar Sails | 171937 | [171937-solar-sails.json](./171937-solar-sails.json) |
 | Solar Savage | 347891 | [347891-solar-savage.json](./347891-solar-savage.json) |
+| Solar Siege | 56260 | [56260-solar-siege.json](./56260-solar-siege.json) |
 | Solar Smash | 175674 | [175674-solar-smash.json](./175674-solar-smash.json) |
 | Solar Striker | 48940 | [48940-solar-striker.json](./48940-solar-striker.json) |
 | Solar Struggle | 17984 | [17984-solar-struggle.json](./17984-solar-struggle.json) |
@@ -12979,6 +12983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier vs Aliens | 54389 | [54389-soldier-vs-aliens.json](./54389-soldier-vs-aliens.json) |
 | Soldiers at War | 69791 | [69791-soldiers-at-war.json](./69791-soldiers-at-war.json) |
 | Soldiers DesireWing | 378437 | [378437-soldiers-desirewing.json](./378437-soldiers-desirewing.json) |
+| Soldiers Inc: Mobile Warfare | 56261 | [56261-soldiers-inc-mobile-warfare.json](./56261-soldiers-inc-mobile-warfare.json) |
 | Soldiers Lost Forever (1914-1918) | 105256 | [105256-soldiers-lost-forever-1914-1918.json](./105256-soldiers-lost-forever-1914-1918.json) |
 | Soldiers Never Die | 260707 | [260707-soldiers-never-die.json](./260707-soldiers-never-die.json) |
 | Soldiers of Fortune | 4527 | [4527-soldiers-of-fortune.json](./4527-soldiers-of-fortune.json) |
@@ -13637,6 +13642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Black Ace | 331957 | [331957-sonic-black-ace.json](./331957-sonic-black-ace.json) |
 | Sonic Blast | 202267 | [202267-sonic-blast.json](./202267-sonic-blast.json) |
 | Sonic Blast Man | 39804 | [39804-sonic-blast-man.json](./39804-sonic-blast-man.json) |
+| Sonic Blast Man: Real Puncher | 56327 | [56327-sonic-blast-man-real-puncher.json](./56327-sonic-blast-man-real-puncher.json) |
 | Sonic Blaster 2 | 331656 | [331656-sonic-blaster-2.json](./331656-sonic-blaster-2.json) |
 | Sonic Blasters | 334140 | [334140-sonic-blasters.json](./334140-sonic-blasters.json) |
 | Sonic Blaze | 330512 | [330512-sonic-blaze.json](./330512-sonic-blaze.json) |
@@ -24936,6 +24942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kart Mini Car Race | 283227 | [283227-super-kart-mini-car-race.json](./283227-super-kart-mini-car-race.json) |
 | Super Kart Racer | 267954 | [267954-super-kart-racer.json](./267954-super-kart-racer.json) |
 | Super Karts | 50614 | [50614-super-karts.json](./50614-super-karts.json) |
+| Super Kawaii Turtle Fighter | 56354 | [56354-super-kawaii-turtle-fighter.json](./56354-super-kawaii-turtle-fighter.json) |
 | Super Kayak Maker | 138495 | [138495-super-kayak-maker.json](./138495-super-kayak-maker.json) |
 | Super Keepy Ups | 111852 | [111852-super-keepy-ups.json](./111852-super-keepy-ups.json) |
 | Super Kenney | 209683 | [209683-super-kenney.json](./209683-super-kenney.json) |
@@ -25794,6 +25801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
 | Super Platformer | 182745 | [182745-super-platformer.json](./182745-super-platformer.json) |
 | Super Play Action Football | 42454 | [42454-super-play-action-football.json](./42454-super-play-action-football.json) |
+| Super Plexis | 56346 | [56346-super-plexis.json](./56346-super-plexis.json) |
 | Super Plumber | 104802 | [104802-super-plumber.json](./104802-super-plumber.json) |
 | Super Plumber | 70322 | [70322-super-plumber.json](./70322-super-plumber.json) |
 | Super Plusha | 91821 | [91821-super-plusha.json](./91821-super-plusha.json) |
