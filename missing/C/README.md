@@ -1704,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Soccer 2018 | 104409 | [104409-car-soccer-2018.json](./104409-car-soccer-2018.json) |
 | Car Soccer World Cup | 120825 | [120825-car-soccer-world-cup.json](./120825-car-soccer-world-cup.json) |
 | Car Street | 349815 | [349815-car-street.json](./349815-car-street.json) |
+| Car Thief Simulator 2017 | 74209 | [74209-car-thief-simulator-2017.json](./74209-car-thief-simulator-2017.json) |
 | Car Trader Simulator | 81162 | [81162-car-trader-simulator.json](./81162-car-trader-simulator.json) |
 | Car Trader Simulator: Welcome to the Business | 171384 | [171384-car-trader-simulator-welcome-to-the-business.json](./171384-car-trader-simulator-welcome-to-the-business.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
@@ -14983,6 +14984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Worlds Survival | 151478 | [151478-cube-worlds-survival.json](./151478-cube-worlds-survival.json) |
 | Cube XL | 91222 | [91222-cube-xl.json](./91222-cube-xl.json) |
 | Cube Zoid | 176466 | [176466-cube-zoid.json](./176466-cube-zoid.json) |
+| Cube-C: VR Game Collection | 74204 | [74204-cube-c-vr-game-collection.json](./74204-cube-c-vr-game-collection.json) |
 | Cube-e 2 | 165415 | [165415-cube-e-2.json](./165415-cube-e-2.json) |
 | Cube-Field+ | 392369 | [392369-cube-field.json](./392369-cube-field.json) |
 | Cube: Gardens of Zen | 69210 | [69210-cube-gardens-of-zen.json](./69210-cube-gardens-of-zen.json) |
