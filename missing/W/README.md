@@ -3203,7 +3203,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -4249,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Saloon | 279481 | [279481-wild-west-saloon.json](./279481-wild-west-saloon.json) |
 | Wild West Seymour | 18575 | [18575-wild-west-seymour.json](./18575-wild-west-seymour.json) |
 | Wild West Shooter | 371137 | [371137-wild-west-shooter.json](./371137-wild-west-shooter.json) |
+| Wild West Shootout | 50986 | [50986-wild-west-shootout.json](./50986-wild-west-shootout.json) |
 | Wild West Showdown | 217739 | [217739-wild-west-showdown.json](./217739-wild-west-showdown.json) |
 | Wild West Steam Loco | 132737 | [132737-wild-west-steam-loco.json](./132737-wild-west-steam-loco.json) |
 | Wild West Story: The Beginnings | 215032 | [215032-wild-west-story-the-beginnings.json](./215032-wild-west-story-the-beginnings.json) |
@@ -4800,6 +4800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter | 194559 | [194559-winter.json](./194559-winter.json) |
 | Winter | 226686 | [226686-winter.json](./226686-winter.json) |
 | Winter and People | 195534 | [195534-winter-and-people.json](./195534-winter-and-people.json) |
+| Winter Blast: 9 Snow & Ice Games | 51027 | [51027-winter-blast-9-snow-and-ice-games.json](./51027-winter-blast-9-snow-and-ice-games.json) |
 | Winter Cats | 283039 | [283039-winter-cats.json](./283039-winter-cats.json) |
 | Winter Challenge | 131520 | [131520-winter-challenge.json](./131520-winter-challenge.json) |
 | Winter Challenge 2008 | 53123 | [53123-winter-challenge-2008.json](./53123-winter-challenge-2008.json) |
@@ -4858,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Sports 2010: The Great Tournament | 21089 | [21089-winter-sports-2010-the-great-tournament.json](./21089-winter-sports-2010-the-great-tournament.json) |
 | Winter Sports 2011: Go for Gold | 27645 | [27645-winter-sports-2011-go-for-gold.json](./27645-winter-sports-2011-go-for-gold.json) |
 | Winter Sports 2012: Feel the Spirit | 52136 | [52136-winter-sports-2012-feel-the-spirit.json](./52136-winter-sports-2012-feel-the-spirit.json) |
+| Winter Sports 3: The Great Tournament | 51026 | [51026-winter-sports-3-the-great-tournament.json](./51026-winter-sports-3-the-great-tournament.json) |
 | Winter Sports Games | 125029 | [125029-winter-sports-games.json](./125029-winter-sports-games.json) |
 | Winter Sports Games: 4K Edition | 192326 | [192326-winter-sports-games-4k-edition.json](./192326-winter-sports-games-4k-edition.json) |
 | Winter Sports: The Ultimate Challenge | 5284 | [5284-winter-sports-the-ultimate-challenge.json](./5284-winter-sports-the-ultimate-challenge.json) |
@@ -6177,6 +6179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordix: Word Puzzle | 193778 | [193778-wordix-word-puzzle.json](./193778-wordix-word-puzzle.json) |
 | WordJong | 205886 | [205886-wordjong.json](./205886-wordjong.json) |
 | WordJong Arcade | 65492 | [65492-wordjong-arcade.json](./65492-wordjong-arcade.json) |
+| WordJong Party | 51025 | [51025-wordjong-party.json](./51025-wordjong-party.json) |
 | WordKiller: Revolution | 180122 | [180122-wordkiller-revolution.json](./180122-wordkiller-revolution.json) |
 | Wordkour | 307730 | [307730-wordkour.json](./307730-wordkour.json) |
 | Wordland | 150404 | [150404-wordland.json](./150404-wordland.json) |
