@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DachStudio Puzzle Box: Robots by datGestruepp | 323266 | [323266-dachstudio-puzzle-box-robots-by-datgestruepp.json](./323266-dachstudio-puzzle-box-robots-by-datgestruepp.json) |
 | DACHstudio Puzzle Box: Sanguinik's hidden object tour in Görlitz/Zgorzelec | 357982 | [357982-dachstudio-puzzle-box-sanguiniks-hidden-object-tour-in-gorlitz-zgorzelec.json](./357982-dachstudio-puzzle-box-sanguiniks-hidden-object-tour-in-gorlitz-zgorzelec.json) |
 | DachStudio Puzzle Box:: Illumarie's Fantastic Characters | 296683 | [296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json](./296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json) |
+| Dactyl | 78440 | [78440-dactyl.json](./78440-dactyl.json) |
 | Dactyl Nightmare | 65008 | [65008-dactyl-nightmare.json](./65008-dactyl-nightmare.json) |
 | Dactylographe | 183533 | [183533-dactylographe.json](./183533-dactylographe.json) |
 | Dactylus | 268397 | [268397-dactylus.json](./268397-dactylus.json) |
@@ -6884,6 +6885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die in the Dungeon: Classic | 325653 | [325653-die-in-the-dungeon-classic.json](./325653-die-in-the-dungeon-classic.json) |
 | Die in the Dungeon: Origins | 266078 | [266078-die-in-the-dungeon-origins.json](./266078-die-in-the-dungeon-origins.json) |
 | Die Känguru-Verschwörung | 229578 | [229578-die-kanguru-verschworung.json](./229578-die-kanguru-verschworung.json) |
+| Die Kathedrale | 78508 | [78508-die-kathedrale.json](./78508-die-kathedrale.json) |
 | Die kleine Lokomotive und ihre Freunde | 81401 | [81401-die-kleine-lokomotive-und-ihre-freunde.json](./81401-die-kleine-lokomotive-und-ihre-freunde.json) |
 | Die Legende der Wikinger | 91397 | [91397-die-legende-der-wikinger.json](./91397-die-legende-der-wikinger.json) |
 | Die Legende von Saya - Befehl aus der Dunkelheit | 128454 | [128454-die-legende-von-saya-befehl-aus-der-dunkelheit.json](./128454-die-legende-von-saya-befehl-aus-der-dunkelheit.json) |
@@ -13632,6 +13634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Game | 328300 | [328300-duck-game.json](./328300-duck-game.json) |
 | Duck Guardian One | 135883 | [135883-duck-guardian-one.json](./135883-duck-guardian-one.json) |
 | Duck Hunt | 2741 | [2741-duck-hunt.json](./2741-duck-hunt.json) |
+| Duck Hunt | 78487 | [78487-duck-hunt.json](./78487-duck-hunt.json) |
 | Duck Hunt 2 | 127992 | [127992-duck-hunt-2.json](./127992-duck-hunt-2.json) |
 | Duck Hunt Pro | 326693 | [326693-duck-hunt-pro.json](./326693-duck-hunt-pro.json) |
 | Duck Hunt Remake | 254462 | [254462-duck-hunt-remake.json](./254462-duck-hunt-remake.json) |
