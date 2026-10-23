@@ -5888,6 +5888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Drunk Satanic Massacre | 75067 | [75067-big-drunk-satanic-massacre.json](./75067-big-drunk-satanic-massacre.json) |
 | Big Ear Detective | 291897 | [291897-big-ear-detective.json](./291897-big-ear-detective.json) |
 | Big Entrepreneur | 227373 | [227373-big-entrepreneur.json](./227373-big-entrepreneur.json) |
+| Big Farm | 77777 | [77777-big-farm.json](./77777-big-farm.json) |
 | Big Farm Home & Garden | 142735 | [142735-big-farm-home-and-garden.json](./142735-big-farm-home-and-garden.json) |
 | Big Farm Story | 138727 | [138727-big-farm-story.json](./138727-big-farm-story.json) |
 | Big Farm Story: Asian Package | 225069 | [225069-big-farm-story-asian-package.json](./225069-big-farm-story-asian-package.json) |
@@ -8220,6 +8221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Buster | 270766 | [270766-block-buster.json](./270766-block-buster.json) |
 | Block Buster | 299608 | [299608-block-buster.json](./299608-block-buster.json) |
 | Block Buster | 38585 | [38585-block-buster.json](./38585-block-buster.json) |
+| Block Buster | 77792 | [77792-block-buster.json](./77792-block-buster.json) |
 | Block Buster Billy | 207175 | [207175-block-buster-billy.json](./207175-block-buster-billy.json) |
 | Block Busters: Local Party | 172171 | [172171-block-busters-local-party.json](./172171-block-busters-local-party.json) |
 | Block by Block: Sliding Blocks | 232494 | [232494-block-by-block-sliding-blocks.json](./232494-block-by-block-sliding-blocks.json) |
@@ -8504,6 +8506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | bLogic Blox | 110767 | [110767-blogic-blox.json](./110767-blogic-blox.json) |
 | Blogick | 232324 | [232324-blogick.json](./232324-blogick.json) |
 | Blok Copy | 63783 | [63783-blok-copy.json](./63783-blok-copy.json) |
+| Blok Drop Chaos | 77800 | [77800-blok-drop-chaos.json](./77800-blok-drop-chaos.json) |
 | Blok Shot VR | 309608 | [309608-blok-shot-vr.json](./309608-blok-shot-vr.json) |
 | Blokdodge | 68327 | [68327-blokdodge.json](./68327-blokdodge.json) |
 | Blokdoku | 315827 | [315827-blokdoku.json](./315827-blokdoku.json) |
@@ -11332,6 +11335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Box Quiz: Trivia Fun | 232471 | [232471-brain-box-quiz-trivia-fun.json](./232471-brain-box-quiz-trivia-fun.json) |
 | Brain Break | 141100 | [141100-brain-break.json](./141100-brain-break.json) |
 | Brain Breaker | 154870 | [154870-brain-breaker.json](./154870-brain-breaker.json) |
+| Brain Buster: Puzzle Pak | 77799 | [77799-brain-buster-puzzle-pak.json](./77799-brain-buster-puzzle-pak.json) |
 | Brain Cell | 237206 | [237206-brain-cell.json](./237206-brain-cell.json) |
 | Brain Challenge | 7281 | [7281-brain-challenge.json](./7281-brain-challenge.json) |
 | Brain Challenge 2: Think Again! | 67609 | [67609-brain-challenge-2-think-again.json](./67609-brain-challenge-2-think-again.json) |
@@ -13757,6 +13761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker: Nightmare Begins | 116925 | [116925-bunker-nightmare-begins.json](./116925-bunker-nightmare-begins.json) |
 | Bunker16 | 223684 | [223684-bunker16.json](./223684-bunker16.json) |
 | Bunkered with Femboy | 388175 | [388175-bunkered-with-femboy.json](./388175-bunkered-with-femboy.json) |
+| BunkerSim | 77794 | [77794-bunkersim.json](./77794-bunkersim.json) |
 | Bunky | 97759 | [97759-bunky.json](./97759-bunky.json) |
 | Bunmei Kaika: Aoiza Ibunroku | 221966 | [221966-bunmei-kaika-aoiza-ibunroku.json](./221966-bunmei-kaika-aoiza-ibunroku.json) |
 | Bunmei Kaika: Aoiza Ibunroku Saien | 59391 | [59391-bunmei-kaika-aoiza-ibunroku-saien.json](./59391-bunmei-kaika-aoiza-ibunroku-saien.json) |
