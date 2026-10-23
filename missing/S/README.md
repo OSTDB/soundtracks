@@ -2444,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolmates: The Mystery of the Magical Bracelet | 165005 | [165005-schoolmates-the-mystery-of-the-magical-bracelet.json](./165005-schoolmates-the-mystery-of-the-magical-bracelet.json) |
 | Schoolnight, 3am | 299870 | [299870-schoolnight-3am.json](./299870-schoolnight-3am.json) |
 | SchoolX | 197854 | [197854-schoolx.json](./197854-schoolx.json) |
+| Schoolyard Slaughter | 73666 | [73666-schoolyard-slaughter.json](./73666-schoolyard-slaughter.json) |
 | Schoolyard Sports | 206655 | [206655-schoolyard-sports.json](./206655-schoolyard-sports.json) |
 | Schreckenstein | 91582 | [91582-schreckenstein.json](./91582-schreckenstein.json) |
 | Schrödinger no Neko: Die Katze von Schrödinger | 230513 | [230513-schrodinger-no-neko-die-katze-von-schrodinger.json](./230513-schrodinger-no-neko-die-katze-von-schrodinger.json) |
@@ -3410,6 +3411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season of Mystery: The Cherry Blossom Murders | 9326 | [9326-season-of-mystery-the-cherry-blossom-murders.json](./9326-season-of-mystery-the-cherry-blossom-murders.json) |
 | Season of the Sakura | 72277 | [72277-season-of-the-sakura.json](./72277-season-of-the-sakura.json) |
 | Season Ticket Baseball | 206642 | [206642-season-ticket-baseball.json](./206642-season-ticket-baseball.json) |
+| Season Ticket Basketball 2003 | 73623 | [73623-season-ticket-basketball-2003.json](./73623-season-ticket-basketball-2003.json) |
 | Season Ticket Football 2003 | 79522 | [79522-season-ticket-football-2003.json](./79522-season-ticket-football-2003.json) |
 | Season Up | 95603 | [95603-season-up.json](./95603-season-up.json) |
 | Season's Beatings | 76350 | [76350-seasons-beatings.json](./76350-seasons-beatings.json) |
@@ -10143,6 +10145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skywire | 116128 | [116128-skywire.json](./116128-skywire.json) |
 | Skywire 2 | 280333 | [280333-skywire-2.json](./280333-skywire-2.json) |
 | Skywire VIP | 276425 | [276425-skywire-vip.json](./276425-skywire-vip.json) |
+| Skyworker | 73586 | [73586-skyworker.json](./73586-skyworker.json) |
 | Skyworld: Kingdom Brawl - Fresh Meat | 296040 | [296040-skyworld-kingdom-brawl-fresh-meat.json](./296040-skyworld-kingdom-brawl-fresh-meat.json) |
 | Skywriter | 108073 | [108073-skywriter.json](./108073-skywriter.json) |
 | Skyx | 317531 | [317531-skyx.json](./317531-skyx.json) |
@@ -12021,6 +12024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoopy Tennis | 49878 | [49878-snoopy-tennis.json](./49878-snoopy-tennis.json) |
 | Snoopy vs. The Red Baron | 2756 | [2756-snoopy-vs-the-red-baron.json](./2756-snoopy-vs-the-red-baron.json) |
 | Snoopy: The Cool Computer Game | 66345 | [66345-snoopy-the-cool-computer-game.json](./66345-snoopy-the-cool-computer-game.json) |
+| Snoopy's Campfire Stories | 73624 | [73624-snoopys-campfire-stories.json](./73624-snoopys-campfire-stories.json) |
 | Snoopy's Game Club | 94642 | [94642-snoopys-game-club.json](./94642-snoopys-game-club.json) |
 | Snoopy's Magic Show | 49019 | [49019-snoopys-magic-show.json](./49019-snoopys-magic-show.json) |
 | Snoopy's Magic Show DX | 279583 | [279583-snoopys-magic-show-dx.json](./279583-snoopys-magic-show-dx.json) |
@@ -12803,6 +12807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar War | 403034 | [403034-solar-war.json](./403034-solar-war.json) |
 | Solar Warden | 101603 | [101603-solar-warden.json](./101603-solar-warden.json) |
 | Solar Winds: Galaxy | 73986 | [73986-solar-winds-galaxy.json](./73986-solar-winds-galaxy.json) |
+| Solar Winds: The Escape | 73585 | [73585-solar-winds-the-escape.json](./73585-solar-winds-the-escape.json) |
 | Solar: Survival Space Battle Simulator | 312421 | [312421-solar-survival-space-battle-simulator.json](./312421-solar-survival-space-battle-simulator.json) |
 | SolarBlack | 268653 | [268653-solarblack.json](./268653-solarblack.json) |
 | Solares | 291990 | [291990-solares.json](./291990-solares.json) |
@@ -16589,6 +16594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedy Gonzales | 8077 | [8077-speedy-gonzales.json](./8077-speedy-gonzales.json) |
 | Speedy Gonzales: Aztec Adventure | 49970 | [49970-speedy-gonzales-aztec-adventure.json](./49970-speedy-gonzales-aztec-adventure.json) |
 | Speedy Guys | 268956 | [268956-speedy-guys.json](./268956-speedy-guys.json) |
+| Speedy Lander | 73603 | [73603-speedy-lander.json](./73603-speedy-lander.json) |
 | Speedy Rush | 174908 | [174908-speedy-rush.json](./174908-speedy-rush.json) |
 | Speedy Spears | 216730 | [216730-speedy-spears.json](./216730-speedy-spears.json) |
 | Speedy Speedy Cat Slowly | 321424 | [321424-speedy-speedy-cat-slowly.json](./321424-speedy-speedy-cat-slowly.json) |
@@ -17123,6 +17129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin | 94108 | [94108-spin.json](./94108-spin.json) |
 | Spin & Match Puzzle Learn at Once 3 Languages | 312080 | [312080-spin-and-match-puzzle-learn-at-once-3-languages.json](./312080-spin-and-match-puzzle-learn-at-once-3-languages.json) |
 | Spin & Play: Carnival Madness | 73337 | [73337-spin-and-play-carnival-madness.json](./73337-spin-and-play-carnival-madness.json) |
+| Spin & Win | 73636 | [73636-spin-and-win.json](./73636-spin-and-win.json) |
 | Spin 2 Win | 410420 | [410420-spin-2-win.json](./410420-spin-2-win.json) |
 | Spin a Stick | 257795 | [257795-spin-a-stick.json](./257795-spin-a-stick.json) |
 | Spin Ball | 23576 | [23576-spin-ball.json](./23576-spin-ball.json) |
@@ -18406,6 +18413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirm | 298947 | [298947-squirm.json](./298947-squirm.json) |
 | Squirm | 37309 | [37309-squirm.json](./37309-squirm.json) |
 | Squirm 16 | 313498 | [313498-squirm-16.json](./313498-squirm-16.json) |
+| Squirmer the Game | 73589 | [73589-squirmer-the-game.json](./73589-squirmer-the-game.json) |
 | Squirmunity: Ballad of the prankmonger | 222182 | [222182-squirmunity-ballad-of-the-prankmonger.json](./222182-squirmunity-ballad-of-the-prankmonger.json) |
 | Squirrel & Bär: Learn English | 122085 | [122085-squirrel-and-bar-learn-english.json](./122085-squirrel-and-bar-learn-english.json) |
 | Squirrel and Nuts | 239645 | [239645-squirrel-and-nuts.json](./239645-squirrel-and-nuts.json) |
@@ -20527,6 +20535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Battalion | 6163 | [6163-steel-battalion.json](./6163-steel-battalion.json) |
 | Steel Battalion: Heavy Armor | 8547 | [8547-steel-battalion-heavy-armor.json](./8547-steel-battalion-heavy-armor.json) |
 | Steel Battalion: Line of Contact | 6174 | [6174-steel-battalion-line-of-contact.json](./6174-steel-battalion-line-of-contact.json) |
+| Steel Beasts: Pro - Personal Edition | 73588 | [73588-steel-beasts-pro-personal-edition.json](./73588-steel-beasts-pro-personal-edition.json) |
 | Steel Bounty | 381966 | [381966-steel-bounty.json](./381966-steel-bounty.json) |
 | Steel Century Groove: Midnight | 334462 | [334462-steel-century-groove-midnight.json](./334462-steel-century-groove-midnight.json) |
 | Steel Champions | 47444 | [47444-steel-champions.json](./47444-steel-champions.json) |
@@ -24497,6 +24506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ghouls'n Ghosts Restoration | 247446 | [247446-super-ghoulsn-ghosts-restoration.json](./247446-super-ghoulsn-ghosts-restoration.json) |
 | Super Gigadroid | 185316 | [185316-super-gigadroid.json](./185316-super-gigadroid.json) |
 | Super Girl | 187301 | [187301-super-girl.json](./187301-super-girl.json) |
+| Super Glinx! | 73676 | [73676-super-glinx.json](./73676-super-glinx.json) |
 | Super Glitch Dash | 146221 | [146221-super-glitch-dash.json](./146221-super-glitch-dash.json) |
 | Super Glove Ball | 48234 | [48234-super-glove-ball.json](./48234-super-glove-ball.json) |
 | Super Glovekid | 317352 | [317352-super-glovekid.json](./317352-super-glovekid.json) |
@@ -25545,6 +25555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nova's Symphony | 177774 | [177774-super-novas-symphony.json](./177774-super-novas-symphony.json) |
 | Super Novel Collector (Speedrun Edition) | 126883 | [126883-super-novel-collector-speedrun-edition.json](./126883-super-novel-collector-speedrun-edition.json) |
 | Super Nudge 2000 | 72698 | [72698-super-nudge-2000.json](./72698-super-nudge-2000.json) |
+| Super Obliteration | 73648 | [73648-super-obliteration.json](./73648-super-obliteration.json) |
 | Super Ocho Bros. | 276027 | [276027-super-ocho-bros.json](./276027-super-ocho-bros.json) |
 | Super Off Road | 245295 | [245295-super-off-road.json](./245295-super-off-road.json) |
 | Super Off Road | 365683 | [365683-super-off-road.json](./365683-super-off-road.json) |
@@ -26649,6 +26660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstar LDH | 399056 | [399056-superstar-ldh.json](./399056-superstar-ldh.json) |
 | SuperStar Pledis | 124619 | [124619-superstar-pledis.json](./124619-superstar-pledis.json) |
 | Superstar Shootout | 231631 | [231631-superstar-shootout.json](./231631-superstar-shootout.json) |
+| SuperStar Soccer | 73602 | [73602-superstar-soccer.json](./73602-superstar-soccer.json) |
 | Superstar Streetz | 186318 | [186318-superstar-streetz.json](./186318-superstar-streetz.json) |
 | SuperStar Woollim | 137874 | [137874-superstar-woollim.json](./137874-superstar-woollim.json) |
 | Superstar YG | 178345 | [178345-superstar-yg.json](./178345-superstar-yg.json) |
@@ -26662,6 +26674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supertag | 182705 | [182705-supertag.json](./182705-supertag.json) |
 | Supertan Marioner 3D Infinity World Adventures | 198180 | [198180-supertan-marioner-3d-infinity-world-adventures.json](./198180-supertan-marioner-3d-infinity-world-adventures.json) |
 | SuperTanks | 149939 | [149939-supertanks.json](./149939-supertanks.json) |
+| SuperTed | 73643 | [73643-superted.json](./73643-superted.json) |
 | SuperTotalCarnage! | 230356 | [230356-supertotalcarnage.json](./230356-supertotalcarnage.json) |
 | SuperTripLand | 239504 | [239504-supertripland.json](./239504-supertripland.json) |
 | SuperTrucks Offroad Racing | 237384 | [237384-supertrucks-offroad-racing.json](./237384-supertrucks-offroad-racing.json) |
@@ -27767,6 +27780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing Into Zero-G | 296667 | [296667-swing-into-zero-g.json](./296667-swing-into-zero-g.json) |
 | Swing Lord | 141142 | [141142-swing-lord.json](./141142-swing-lord.json) |
 | Swing of the Valkyries | 391597 | [391597-swing-of-the-valkyries.json](./391597-swing-of-the-valkyries.json) |
+| Swing Plus: Total Mindcontrol | 73659 | [73659-swing-plus-total-mindcontrol.json](./73659-swing-plus-total-mindcontrol.json) |
 | Swing Racers | 240859 | [240859-swing-racers.json](./240859-swing-racers.json) |
 | Swing Robot | 255172 | [255172-swing-robot.json](./255172-swing-robot.json) |
 | Swing Saga | 187465 | [187465-swing-saga.json](./187465-swing-saga.json) |
