@@ -5775,6 +5775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exadimension Neptunia | 280926 | [280926-exadimension-neptunia.json](./280926-exadimension-neptunia.json) |
 | Exadimension Neptunia 2: A Chao Returns | 280927 | [280927-exadimension-neptunia-2-a-chao-returns.json](./280927-exadimension-neptunia-2-a-chao-returns.json) |
 | Exaella | 100369 | [100369-exaella.json](./100369-exaella.json) |
+| Exalegiuse | 77797 | [77797-exalegiuse.json](./77797-exalegiuse.json) |
 | Exalted Seracthon | 235856 | [235856-exalted-seracthon.json](./235856-exalted-seracthon.json) |
 | ExAltered | 289412 | [289412-exaltered.json](./289412-exaltered.json) |
 | Exam | 364994 | [364994-exam.json](./364994-exam.json) |
@@ -6268,6 +6269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exstetra | 6769 | [6769-exstetra.json](./6769-exstetra.json) |
 | Exsynchronos | 148297 | [148297-exsynchronos.json](./148297-exsynchronos.json) |
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
+| Exteel | 77809 | [77809-exteel.json](./77809-exteel.json) |
 | Extended Stay | 158401 | [158401-extended-stay.json](./158401-extended-stay.json) |
 | Extensor | 85951 | [85951-extensor.json](./85951-extensor.json) |
 | Exteria | 31056 | [31056-exteria.json](./31056-exteria.json) |
