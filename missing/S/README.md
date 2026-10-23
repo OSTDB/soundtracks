@@ -2639,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scotland Yard: Hunting Mister X | 312078 | [312078-scotland-yard-hunting-mister-x.json](./312078-scotland-yard-hunting-mister-x.json) |
 | Scotland Yard: Hunting Mr. X | 22269 | [22269-scotland-yard-hunting-mr-x.json](./22269-scotland-yard-hunting-mr-x.json) |
 | Scott Adams Scoops | 70319 | [70319-scott-adams-scoops.json](./70319-scott-adams-scoops.json) |
+| Scott Adams' Graphic Adventure #1: Adventureland | 73138 | [73138-scott-adams-graphic-adventure-1-adventureland.json](./73138-scott-adams-graphic-adventure-1-adventureland.json) |
 | Scott Adams' Graphic Adventure #3: Secret Mission | 70292 | [70292-scott-adams-graphic-adventure-3-secret-mission.json](./70292-scott-adams-graphic-adventure-3-secret-mission.json) |
 | Scott Adams' Graphic Adventure #4: Voodoo Castle | 73747 | [73747-scott-adams-graphic-adventure-4-voodoo-castle.json](./73747-scott-adams-graphic-adventure-4-voodoo-castle.json) |
 | Scott Adams' Graphic Adventure #5: The Count | 71580 | [71580-scott-adams-graphic-adventure-5-the-count.json](./71580-scott-adams-graphic-adventure-5-the-count.json) |
@@ -3014,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sculpture of Chance | 244749 | [244749-sculpture-of-chance.json](./244749-sculpture-of-chance.json) |
 | Sculpturn | 264141 | [264141-sculpturn.json](./264141-sculpturn.json) |
 | Scum | 31712 | [31712-scum.json](./31712-scum.json) |
+| Scum Haters | 73101 | [73101-scum-haters.json](./73101-scum-haters.json) |
 | Scum: Vehicle Skins Pack | 288905 | [288905-scum-vehicle-skins-pack.json](./288905-scum-vehicle-skins-pack.json) |
 | Scumball | 45361 | [45361-scumball.json](./45361-scumball.json) |
 | Scuos | 116167 | [116167-scuos.json](./116167-scuos.json) |
@@ -3697,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Heart | 399771 | [399771-secrets-of-the-heart.json](./399771-secrets-of-the-heart.json) |
 | Secrets of the Heartbeat | 302353 | [302353-secrets-of-the-heartbeat.json](./302353-secrets-of-the-heartbeat.json) |
 | Secrets of the Lost Tomb | 165626 | [165626-secrets-of-the-lost-tomb.json](./165626-secrets-of-the-lost-tomb.json) |
+| Secrets of the Luxor | 73141 | [73141-secrets-of-the-luxor.json](./73141-secrets-of-the-luxor.json) |
 | Secrets of the Mansion | 184442 | [184442-secrets-of-the-mansion.json](./184442-secrets-of-the-mansion.json) |
 | Secrets of the Middle Ages | 165660 | [165660-secrets-of-the-middle-ages.json](./165660-secrets-of-the-middle-ages.json) |
 | Secrets of the Past: Dion | 110895 | [110895-secrets-of-the-past-dion.json](./110895-secrets-of-the-past-dion.json) |
@@ -3950,6 +3953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Vol. 30: Galaxy Force II - Special Extended Edition | 64897 | [64897-sega-ages-2500-vol-30-galaxy-force-ii-special-extended-edition.json](./64897-sega-ages-2500-vol-30-galaxy-force-ii-special-extended-edition.json) |
 | Sega Ages 2500 Vol. 32: Phantasy Star Complete Collection | 69267 | [69267-sega-ages-2500-vol-32-phantasy-star-complete-collection.json](./69267-sega-ages-2500-vol-32-phantasy-star-complete-collection.json) |
 | Sega Ages 2500 Vol. 4: Space Harrier | 96512 | [96512-sega-ages-2500-vol-4-space-harrier.json](./96512-sega-ages-2500-vol-4-space-harrier.json) |
+| Sega Ages 2500 Vol. 5: Golden Axe | 73128 | [73128-sega-ages-2500-vol-5-golden-axe.json](./73128-sega-ages-2500-vol-5-golden-axe.json) |
 | Sega Ages 2500 Vol. 7: Columns | 99692 | [99692-sega-ages-2500-vol-7-columns.json](./99692-sega-ages-2500-vol-7-columns.json) |
 | Sega Ages 2500 Vol. 8: Virtua Racing FlatOut | 96528 | [96528-sega-ages-2500-vol-8-virtua-racing-flatout.json](./96528-sega-ages-2500-vol-8-virtua-racing-flatout.json) |
 | Sega Ages 2500 Vol. 9: Gain Ground | 77881 | [77881-sega-ages-2500-vol-9-gain-ground.json](./77881-sega-ages-2500-vol-9-gain-ground.json) |
@@ -14286,6 +14290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophonce | 211278 | [211278-sophonce.json](./211278-sophonce.json) |
 | Sophont | 99431 | [99431-sophont.json](./99431-sophont.json) |
 | Sopwith VR | 113601 | [113601-sopwith-vr.json](./113601-sopwith-vr.json) |
+| Sopwith: The Author's Edition | 73126 | [73126-sopwith-the-authors-edition.json](./73126-sopwith-the-authors-edition.json) |
 | Sor.Op: Dark Shades | 355883 | [355883-sor-op-dark-shades.json](./355883-sor-op-dark-shades.json) |
 | Sora | 18569 | [18569-sora.json](./18569-sora.json) |
 | Sora no Ao to Shiro to | 368646 | [368646-sora-no-ao-to-shiro-to.json](./368646-sora-no-ao-to-shiro-to.json) |
@@ -24489,6 +24494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fun Soccer | 182167 | [182167-super-fun-soccer.json](./182167-super-fun-soccer.json) |
 | Super Funky Ball! | 152044 | [152044-super-funky-ball.json](./152044-super-funky-ball.json) |
 | Super Furi Puzzles | 334833 | [334833-super-furi-puzzles.json](./334833-super-furi-puzzles.json) |
+| Super G-Man | 73110 | [73110-super-g-man.json](./73110-super-g-man.json) |
 | Super Gahaku | 417571 | [417571-super-gahaku.json](./417571-super-gahaku.json) |
 | Super Galaxy Ball | 219579 | [219579-super-galaxy-ball.json](./219579-super-galaxy-ball.json) |
 | Super Galaxy Ranger Luna | 327983 | [327983-super-galaxy-ranger-luna.json](./327983-super-galaxy-ranger-luna.json) |
@@ -27311,6 +27317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sven kommt! | 76471 | [76471-sven-kommt.json](./76471-sven-kommt.json) |
 | Sven Osterpaket | 85982 | [85982-sven-osterpaket.json](./85982-sven-osterpaket.json) |
 | Sven Rescues a Princess | 415195 | [415195-sven-rescues-a-princess.json](./415195-sven-rescues-a-princess.json) |
+| Sven XXX | 73100 | [73100-sven-xxx.json](./73100-sven-xxx.json) |
 | Sven Zwø | 84126 | [84126-sven-zw.json](./84126-sven-zw.json) |
 | Sven-Göran Eriksson's World Manager | 136991 | [136991-sven-goran-erikssons-world-manager.json](./136991-sven-goran-erikssons-world-manager.json) |
 | Sven: Completely Screwed | 247619 | [247619-sven-completely-screwed.json](./247619-sven-completely-screwed.json) |
