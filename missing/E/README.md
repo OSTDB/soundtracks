@@ -982,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EDF Secret Base | 270698 | [270698-edf-secret-base.json](./270698-edf-secret-base.json) |
 | Edgar A. Poe: The Oval Portrait | 205109 | [205109-edgar-a-poe-the-oval-portrait.json](./205109-edgar-a-poe-the-oval-portrait.json) |
 | Edgar Torronteras Extreme Biker | 24112 | [24112-edgar-torronteras-extreme-biker.json](./24112-edgar-torronteras-extreme-biker.json) |
+| Edgar Torronteras' Moto-X 2000 | 63629 | [63629-edgar-torronteras-moto-x-2000.json](./63629-edgar-torronteras-moto-x-2000.json) |
 | Edgar: Bokbok in Boulzac | 114591 | [114591-edgar-bokbok-in-boulzac.json](./114591-edgar-bokbok-in-boulzac.json) |
 | Edgar's Room | 189939 | [189939-edgars-room.json](./189939-edgars-room.json) |
 | Edge Case | 208266 | [208266-edge-case.json](./208266-edge-case.json) |
@@ -5111,6 +5112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Games | 100112 | [100112-european-games.json](./100112-european-games.json) |
 | European Mystery: Flowers of Death - Collector's Edition | 89408 | [89408-european-mystery-flowers-of-death-collectors-edition.json](./89408-european-mystery-flowers-of-death-collectors-edition.json) |
 | European Mystery: Flowers of Death HD | 93827 | [93827-european-mystery-flowers-of-death-hd.json](./93827-european-mystery-flowers-of-death-hd.json) |
+| European Mystery: Scent of Desire | 63630 | [63630-european-mystery-scent-of-desire.json](./63630-european-mystery-scent-of-desire.json) |
 | European Mystery: Scent of Desire - Collector's Edition | 29749 | [29749-european-mystery-scent-of-desire-collectors-edition.json](./29749-european-mystery-scent-of-desire-collectors-edition.json) |
 | European Mystery: The Face of Envy | 68947 | [68947-european-mystery-the-face-of-envy.json](./68947-european-mystery-the-face-of-envy.json) |
 | European Quest | 294216 | [294216-european-quest.json](./294216-european-quest.json) |
