@@ -4247,6 +4247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inuyasha: Revive Story | 234489 | [234489-inuyasha-revive-story.json](./234489-inuyasha-revive-story.json) |
 | Inuyasha: Secret of the Divine Jewel | 20653 | [20653-inuyasha-secret-of-the-divine-jewel.json](./20653-inuyasha-secret-of-the-divine-jewel.json) |
 | Inv | 100134 | [100134-inv.json](./100134-inv.json) |
+| Inv+ | 94593 | [94593-inv.json](./94593-inv.json) |
 | Inva-taxi | 9076 | [9076-inva-taxi.json](./9076-inva-taxi.json) |
 | Invade | 302216 | [302216-invade.json](./302216-invade.json) |
 | Invadead | 209486 | [209486-invadead.json](./209486-invadead.json) |
@@ -5284,6 +5285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itadaki Street: Dragon Quest & Final Fantasy 30th Anniversary | 54550 | [54550-itadaki-street-dragon-quest-and-final-fantasy-30th-anniversary.json](./54550-itadaki-street-dragon-quest-and-final-fantasy-30th-anniversary.json) |
 | Itadaki Street: Gorgeous King | 60478 | [60478-itadaki-street-gorgeous-king.json](./60478-itadaki-street-gorgeous-king.json) |
 | Itako Works | 182898 | [182898-itako-works.json](./182898-itako-works.json) |
+| Italia 1990 | 94594 | [94594-italia-1990.json](./94594-italia-1990.json) |
 | Italian Journey | 216142 | [216142-italian-journey.json](./216142-italian-journey.json) |
 | Italian Journey: Nitro | 216144 | [216144-italian-journey-nitro.json](./216144-italian-journey-nitro.json) |
 | Italian Night 1999 | 386393 | [386393-italian-night-1999.json](./386393-italian-night-1999.json) |
