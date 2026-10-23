@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babylon Tower | 309172 | [309172-babylon-tower.json](./309172-babylon-tower.json) |
 | Babylon X | 307136 | [307136-babylon-x.json](./307136-babylon-x.json) |
 | Babylonia | 120695 | [120695-babylonia.json](./120695-babylonia.json) |
+| Babylonian Twins | 65924 | [65924-babylonian-twins.json](./65924-babylonian-twins.json) |
 | Babyquick: Adventure of the Moon Dragon | 188855 | [188855-babyquick-adventure-of-the-moon-dragon.json](./188855-babyquick-adventure-of-the-moon-dragon.json) |
 | BabyRace | 255122 | [255122-babyrace.json](./255122-babyrace.json) |
 | Babysitter Simulator | 203902 | [203902-babysitter-simulator.json](./203902-babysitter-simulator.json) |
@@ -7156,6 +7157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Jack | 391650 | [391650-black-jack.json](./391650-black-jack.json) |
 | Black Jack Story | 99029 | [99029-black-jack-story.json](./99029-black-jack-story.json) |
 | Black Jack World Tour | 143541 | [143541-black-jack-world-tour.json](./143541-black-jack-world-tour.json) |
+| Black Jack: Hi no Tori Hen | 65937 | [65937-black-jack-hi-no-tori-hen.json](./65937-black-jack-hi-no-tori-hen.json) |
 | Black Jackal | 265480 | [265480-black-jackal.json](./265480-black-jackal.json) |
 | Black Jacket | 372112 | [372112-black-jacket.json](./372112-black-jacket.json) |
 | Black Jewel | 76509 | [76509-black-jewel.json](./76509-black-jewel.json) |
