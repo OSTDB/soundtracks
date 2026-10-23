@@ -9853,6 +9853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeseekers | 381699 | [381699-runeseekers.json](./381699-runeseekers.json) |
 | Runeseekers 2 | 381721 | [381721-runeseekers-2.json](./381721-runeseekers-2.json) |
 | Runeshard | 56272 | [56272-runeshard.json](./56272-runeshard.json) |
+| Runestone | 92894 | [92894-runestone.json](./92894-runestone.json) |
 | Runestone Heroes | 56879 | [56879-runestone-heroes.json](./56879-runestone-heroes.json) |
 | RuneStone Keeper & YourToy & Distrust Bundle | 301565 | [301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json](./301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json) |
 | Runet Legend | 310799 | [310799-runet-legend.json](./310799-runet-legend.json) |
