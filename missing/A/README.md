@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Fading Melody | 68650 | [68650-a-fading-melody.json](./68650-a-fading-melody.json) |
 | A Fairy Tale | 84729 | [84729-a-fairy-tale.json](./84729-a-fairy-tale.json) |
 | A Fairy Tale of Lotus | 142977 | [142977-a-fairy-tale-of-lotus.json](./142977-a-fairy-tale-of-lotus.json) |
+| A False Saint, An Honest Rogue | 56937 | [56937-a-false-saint-an-honest-rogue.json](./56937-a-false-saint-an-honest-rogue.json) |
 | A Familiar Fairytale: Dyslexic Text Based Adventure | 124174 | [124174-a-familiar-fairytale-dyslexic-text-based-adventure.json](./124174-a-familiar-fairytale-dyslexic-text-based-adventure.json) |
 | A Familiar World | 367615 | [367615-a-familiar-world.json](./367615-a-familiar-world.json) |
 | A Farewell To AI | 355858 | [355858-a-farewell-to-ai.json](./355858-a-farewell-to-ai.json) |
@@ -2164,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aconcagua | 94123 | [94123-aconcagua.json](./94123-aconcagua.json) |
 | Aconite | 261712 | [261712-aconite.json](./261712-aconite.json) |
 | Aconitum | 379468 | [379468-aconitum.json](./379468-aconitum.json) |
+| Acorn Assault: Classic | 56954 | [56954-acorn-assault-classic.json](./56954-acorn-assault-classic.json) |
 | Acorn Assault: Rodent Revolution | 21991 | [21991-acorn-assault-rodent-revolution.json](./21991-acorn-assault-rodent-revolution.json) |
 | Acorn Avengers | 407281 | [407281-acorn-avengers.json](./407281-acorn-avengers.json) |
 | Acorn City: Tropical! | 152675 | [152675-acorn-city-tropical.json](./152675-acorn-city-tropical.json) |
@@ -11086,6 +11088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armory Simulator | 400663 | [400663-armory-simulator.json](./400663-armory-simulator.json) |
 | Armour-Geddon II: Codename Hellfire | 14267 | [14267-armour-geddon-ii-codename-hellfire.json](./14267-armour-geddon-ii-codename-hellfire.json) |
 | Armourdillo | 13805 | [13805-armourdillo.json](./13805-armourdillo.json) |
+| Armoured Commander | 56936 | [56936-armoured-commander.json](./56936-armoured-commander.json) |
 | Armoured Engines | 27486 | [27486-armoured-engines.json](./27486-armoured-engines.json) |
 | Armoured Onslaught | 129223 | [129223-armoured-onslaught.json](./129223-armoured-onslaught.json) |
 | Arms | 26759 | [26759-arms.json](./26759-arms.json) |
