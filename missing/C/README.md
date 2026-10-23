@@ -1920,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.8 | 375178 | [375178-cardfight-vanguard-dear-days-2-card-unlock-vol-8.json](./375178-cardfight-vanguard-dear-days-2-card-unlock-vol-8.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Complete Playset 05 "D-BT⑤" | 365212 | [365212-cardfight-vanguard-dear-days-2-complete-playset-05-d-bt5.json](./365212-cardfight-vanguard-dear-days-2-complete-playset-05-d-bt5.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Digital Deluxe Edition | 330196 | [330196-cardfight-vanguard-dear-days-2-digital-deluxe-edition.json](./330196-cardfight-vanguard-dear-days-2-digital-deluxe-edition.json) |
+| Cardfight!! Vanguard: Lock on Victory!! | 56852 | [56852-cardfight-vanguard-lock-on-victory.json](./56852-cardfight-vanguard-lock-on-victory.json) |
 | Cardfight!! Vanguard: Ride to Victory!! | 81457 | [81457-cardfight-vanguard-ride-to-victory.json](./81457-cardfight-vanguard-ride-to-victory.json) |
 | Cardfight!!: Additional Card Set Vol.6 [D-BT09] - Dragontree Invasion | 267666 | [267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json](./267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json) |
 | Cardfight!!: Rare Card Set 14 [D-BT09] - Dragontree Invasion | 267441 | [267441-cardfight-rare-card-set-14-d-bt09-dragontree-invasion.json](./267441-cardfight-rare-card-set-14-d-bt09-dragontree-invasion.json) |
@@ -10630,6 +10631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect the Stars | 409616 | [409616-connect-the-stars.json](./409616-connect-the-stars.json) |
 | Connect the World | 300700 | [300700-connect-the-world.json](./300700-connect-the-world.json) |
 | Connect Word | 352256 | [352256-connect-word.json](./352256-connect-word.json) |
+| Connect'Em | 56949 | [56949-connectem.json](./56949-connectem.json) |
 | Connect/Words | 87696 | [87696-connect-words.json](./87696-connect-words.json) |
 | Connect01 | 105657 | [105657-connect01.json](./105657-connect01.json) |
 | Connected Hearts | 54525 | [54525-connected-hearts.json](./54525-connected-hearts.json) |
@@ -15873,6 +15875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Knight | 72589 | [72589-cute-knight.json](./72589-cute-knight.json) |
 | Cute Knight Kingdom | 60944 | [60944-cute-knight-kingdom.json](./60944-cute-knight-kingdom.json) |
 | Cute Mold | 374161 | [374161-cute-mold.json](./374161-cute-mold.json) |
+| Cute Munchies | 56857 | [56857-cute-munchies.json](./56857-cute-munchies.json) |
 | Cute Nurses | 367011 | [367011-cute-nurses.json](./367011-cute-nurses.json) |
 | Cute Patoots | 404909 | [404909-cute-patoots.json](./404909-cute-patoots.json) |
 | Cute Pet Doctor Care | 228113 | [228113-cute-pet-doctor-care.json](./228113-cute-pet-doctor-care.json) |
