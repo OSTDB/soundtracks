@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabby Cat's Great Catventure | 177423 | [177423-tabby-cats-great-catventure.json](./177423-tabby-cats-great-catventure.json) |
 | Tabé-O-Ja | 150071 | [150071-tabe-o-ja.json](./150071-tabe-o-ja.json) |
 | Tabi no Yubisashi Kaiwachou DS: DS Series 1 - Thai | 383646 | [383646-tabi-no-yubisashi-kaiwachou-ds-ds-series-1-thai.json](./383646-tabi-no-yubisashi-kaiwachou-ds-ds-series-1-thai.json) |
+| Tabikaeru | 88060 | [88060-tabikaeru.json](./88060-tabikaeru.json) |
 | Table Ball | 212844 | [212844-table-ball.json](./212844-table-ball.json) |
 | Table Ball: Amazing Extras Skin Pack | 293399 | [293399-table-ball-amazing-extras-skin-pack.json](./293399-table-ball-amazing-extras-skin-pack.json) |
 | Table Ball: Emotions Skin Pack | 293398 | [293398-table-ball-emotions-skin-pack.json](./293398-table-ball-emotions-skin-pack.json) |
@@ -4486,6 +4487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Agency of Anomalies: Mystic Hospital | 58045 | [58045-the-agency-of-anomalies-mystic-hospital.json](./58045-the-agency-of-anomalies-mystic-hospital.json) |
 | The Agency of Anomalies: The Last Performance | 58046 | [58046-the-agency-of-anomalies-the-last-performance.json](./58046-the-agency-of-anomalies-the-last-performance.json) |
 | The Agency: Chapter 1 | 32353 | [32353-the-agency-chapter-1.json](./32353-the-agency-chapter-1.json) |
+| The Agency: Chapter 2 | 87939 | [87939-the-agency-chapter-2.json](./87939-the-agency-chapter-2.json) |
 | The Agent | 91767 | [91767-the-agent.json](./91767-the-agent.json) |
 | The Agent Saga: Rover Rescue | 54434 | [54434-the-agent-saga-rover-rescue.json](./54434-the-agent-saga-rover-rescue.json) |
 | The Ai Games | 286767 | [286767-the-ai-games.json](./286767-the-ai-games.json) |
@@ -21816,6 +21818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tozerath in Ruins | 261968 | [261968-tozerath-in-ruins.json](./261968-tozerath-in-ruins.json) |
 | Toziuha Night: Dracula's Revenge | 192635 | [192635-toziuha-night-draculas-revenge.json](./192635-toziuha-night-draculas-revenge.json) |
 | Toziuha Night: Order of the Alchemists | 177207 | [177207-toziuha-night-order-of-the-alchemists.json](./177207-toziuha-night-order-of-the-alchemists.json) |
+| Tozzle - Toddler's favorite puzzle | 88034 | [88034-tozzle-toddlers-favorite-puzzle.json](./88034-tozzle-toddlers-favorite-puzzle.json) |
 | TP Bullet | 289930 | [289930-tp-bullet.json](./289930-tp-bullet.json) |
 | TP: Dungeon Raiders | 274393 | [274393-tp-dungeon-raiders.json](./274393-tp-dungeon-raiders.json) |
 | TPK | 372077 | [372077-tpk.json](./372077-tpk.json) |
@@ -24681,6 +24684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Town: Quiz Duel | 232064 | [232064-trivia-town-quiz-duel.json](./232064-trivia-town-quiz-duel.json) |
 | Trivia Tricks | 140534 | [140534-trivia-tricks.json](./140534-trivia-tricks.json) |
 | Trivia Trove | 55991 | [55991-trivia-trove.json](./55991-trivia-trove.json) |
+| Trivia Vault Baseball Trivia | 88070 | [88070-trivia-vault-baseball-trivia.json](./88070-trivia-vault-baseball-trivia.json) |
 | Trivia Vault Basketball Trivia | 88085 | [88085-trivia-vault-basketball-trivia.json](./88085-trivia-vault-basketball-trivia.json) |
 | Trivia Vault Olympics Trivia | 88201 | [88201-trivia-vault-olympics-trivia.json](./88201-trivia-vault-olympics-trivia.json) |
 | Trivia Vault: 1980's Trivia | 54342 | [54342-trivia-vault-1980s-trivia.json](./54342-trivia-vault-1980s-trivia.json) |
