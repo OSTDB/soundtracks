@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-23T20:33:08.237Z",
-  "total_missing": 252684,
+  "generated_at": "2026-10-23T20:47:52.804Z",
+  "total_missing": 252734,
   "games": [
     {
       "igdb_id": 191680,
@@ -5177,6 +5177,11 @@
       "file": "missing/0-9/205802-1912-titanic-w-neptunia.json"
     },
     {
+      "igdb_id": 52359,
+      "game_name": "1914 Shells of Fury",
+      "file": "missing/0-9/52359-1914-shells-of-fury.json"
+    },
+    {
       "igdb_id": 28642,
       "game_name": "1914: Prelude to Chaos",
       "file": "missing/0-9/28642-1914-prelude-to-chaos.json"
@@ -5727,6 +5732,11 @@
       "file": "missing/0-9/25700-2-fast-4-you.json"
     },
     {
+      "igdb_id": 52358,
+      "game_name": "2 Fast Driver",
+      "file": "missing/0-9/52358-2-fast-driver.json"
+    },
+    {
       "igdb_id": 88545,
       "game_name": "2 For 2",
       "file": "missing/0-9/88545-2-for-2.json"
@@ -6120,6 +6130,11 @@
       "igdb_id": 308479,
       "game_name": "2-Hour Community Build Project",
       "file": "missing/0-9/308479-2-hour-community-build-project.json"
+    },
+    {
+      "igdb_id": 52356,
+      "game_name": "2-in-1 Checkers and Reversi",
+      "file": "missing/0-9/52356-2-in-1-checkers-and-reversi.json"
     },
     {
       "igdb_id": 86054,
@@ -7800,6 +7815,11 @@
       "igdb_id": 197583,
       "game_name": "3 Days: Ghosts of War",
       "file": "missing/0-9/197583-3-days-ghosts-of-war.json"
+    },
+    {
+      "igdb_id": 52355,
+      "game_name": "3 Days: Zoo Mystery",
+      "file": "missing/0-9/52355-3-days-zoo-mystery.json"
     },
     {
       "igdb_id": 83269,
@@ -11207,6 +11227,11 @@
       "file": "missing/0-9/276764-5-points-mall.json"
     },
     {
+      "igdb_id": 52353,
+      "game_name": "5 Realms of Cards",
+      "file": "missing/0-9/52353-5-realms-of-cards.json"
+    },
+    {
       "igdb_id": 362723,
       "game_name": "5 Red Mickeys",
       "file": "missing/0-9/362723-5-red-mickeys.json"
@@ -12150,6 +12175,11 @@
       "igdb_id": 366119,
       "game_name": "7 Dice Destroyers",
       "file": "missing/0-9/366119-7-dice-destroyers.json"
+    },
+    {
+      "igdb_id": 52351,
+      "game_name": "7 Gates: The Path to Zamolxes",
+      "file": "missing/0-9/52351-7-gates-the-path-to-zamolxes.json"
     },
     {
       "igdb_id": 160238,
@@ -13685,6 +13715,16 @@
       "igdb_id": 11438,
       "game_name": "99 Spirits: Cage of Night",
       "file": "missing/0-9/11438-99-spirits-cage-of-night.json"
+    },
+    {
+      "igdb_id": 52349,
+      "game_name": "99 Spirits: Complete Collection",
+      "file": "missing/0-9/52349-99-spirits-complete-collection.json"
+    },
+    {
+      "igdb_id": 52348,
+      "game_name": "99 Spirits: Special Edition",
+      "file": "missing/0-9/52348-99-spirits-special-edition.json"
     },
     {
       "igdb_id": 11439,
@@ -16800,6 +16840,11 @@
       "igdb_id": 381603,
       "game_name": "A Magical Tale: Revoke DX",
       "file": "missing/A/381603-a-magical-tale-revoke-dx.json"
+    },
+    {
+      "igdb_id": 52368,
+      "game_name": "A Magnetic Adventure",
+      "file": "missing/A/52368-a-magnetic-adventure.json"
     },
     {
       "igdb_id": 302680,
@@ -20210,6 +20255,11 @@
       "igdb_id": 91816,
       "game_name": "A.R.C. Squadron",
       "file": "missing/A/91816-a-r-c-squadron.json"
+    },
+    {
+      "igdb_id": 52366,
+      "game_name": "A.R.C.S",
+      "file": "missing/A/52366-a-r-c-s.json"
     },
     {
       "igdb_id": 36270,
@@ -25027,6 +25077,11 @@
       "file": "missing/A/71933-action-ball.json"
     },
     {
+      "igdb_id": 52364,
+      "game_name": "Action Ball 2",
+      "file": "missing/A/52364-action-ball-2.json"
+    },
+    {
       "igdb_id": 177040,
       "game_name": "Action Ball Deluxe",
       "file": "missing/A/177040-action-ball-deluxe.json"
@@ -27220,6 +27275,11 @@
       "igdb_id": 41189,
       "game_name": "Adventure 3: Mission Impossible",
       "file": "missing/A/41189-adventure-3-mission-impossible.json"
+    },
+    {
+      "igdb_id": 52363,
+      "game_name": "Adventure 4: Wizards Academy",
+      "file": "missing/A/52363-adventure-4-wizards-academy.json"
     },
     {
       "igdb_id": 231213,
@@ -30112,6 +30172,11 @@
       "file": "missing/A/148489-afraid-of-the-night.json"
     },
     {
+      "igdb_id": 52362,
+      "game_name": "Africa Corps Desert Storm 1941-1943",
+      "file": "missing/A/52362-africa-corps-desert-storm-1941-1943.json"
+    },
+    {
       "igdb_id": 219680,
       "game_name": "Africa Empire 2027",
       "file": "missing/A/219680-africa-empire-2027.json"
@@ -31372,6 +31437,11 @@
       "file": "missing/A/276208-age-of-advent.json"
     },
     {
+      "igdb_id": 52361,
+      "game_name": "Age of Adventure: Playing the Hero",
+      "file": "missing/A/52361-age-of-adventure-playing-the-hero.json"
+    },
+    {
       "igdb_id": 96931,
       "game_name": "Age of AI: North America",
       "file": "missing/A/96931-age-of-ai-north-america.json"
@@ -31752,6 +31822,11 @@
       "file": "missing/A/22103-age-of-enigma-the-secret-of-the-sixth-ghost.json"
     },
     {
+      "igdb_id": 52360,
+      "game_name": "Age of Enigma: The Sixth Ghost",
+      "file": "missing/A/52360-age-of-enigma-the-sixth-ghost.json"
+    },
+    {
       "igdb_id": 316458,
       "game_name": "Age of Enlightenment",
       "file": "missing/A/316458-age-of-enlightenment.json"
@@ -31887,6 +31962,11 @@
       "file": "missing/A/213429-age-of-irata.json"
     },
     {
+      "igdb_id": 52377,
+      "game_name": "Age of Japan",
+      "file": "missing/A/52377-age-of-japan.json"
+    },
+    {
       "igdb_id": 169803,
       "game_name": "Age of Jura",
       "file": "missing/A/169803-age-of-jura.json"
@@ -31910,6 +31990,11 @@
       "igdb_id": 33894,
       "game_name": "Age of Magic CCG",
       "file": "missing/A/33894-age-of-magic-ccg.json"
+    },
+    {
+      "igdb_id": 52376,
+      "game_name": "Age of Mahjong",
+      "file": "missing/A/52376-age-of-mahjong.json"
     },
     {
       "igdb_id": 392819,
@@ -32927,6 +33012,11 @@
       "file": "missing/A/28720-agricultural-simulator-2011-extended-edition.json"
     },
     {
+      "igdb_id": 52374,
+      "game_name": "Agricultural Simulator 2011: Gold Edition",
+      "file": "missing/A/52374-agricultural-simulator-2011-gold-edition.json"
+    },
+    {
       "igdb_id": 52573,
       "game_name": "Agricultural Simulator 2012",
       "file": "missing/A/52573-agricultural-simulator-2012.json"
@@ -32945,6 +33035,16 @@
       "igdb_id": 25047,
       "game_name": "Agricultural Simulator 2013: Collector's Edition",
       "file": "missing/A/25047-agricultural-simulator-2013-collectors-edition.json"
+    },
+    {
+      "igdb_id": 52373,
+      "game_name": "Agricultural Simulator 2013: Gold Edition",
+      "file": "missing/A/52373-agricultural-simulator-2013-gold-edition.json"
+    },
+    {
+      "igdb_id": 52372,
+      "game_name": "Agricultural Simulator Anthology",
+      "file": "missing/A/52372-agricultural-simulator-anthology.json"
     },
     {
       "igdb_id": 9954,
@@ -34762,6 +34862,11 @@
       "file": "missing/A/258449-air-offense-command.json"
     },
     {
+      "igdb_id": 52371,
+      "game_name": "Air Offensive: The Art of Flying",
+      "file": "missing/A/52371-air-offensive-the-art-of-flying.json"
+    },
+    {
       "igdb_id": 40768,
       "game_name": "Air patrol",
       "file": "missing/A/40768-air-patrol.json"
@@ -34840,6 +34945,11 @@
       "igdb_id": 89949,
       "game_name": "Air Raid Over Britain",
       "file": "missing/A/89949-air-raid-over-britain.json"
+    },
+    {
+      "igdb_id": 52370,
+      "game_name": "Air Raid: This Is Not a Drill!",
+      "file": "missing/A/52370-air-raid-this-is-not-a-drill.json"
     },
     {
       "igdb_id": 11114,
@@ -35727,6 +35837,21 @@
       "file": "missing/A/290465-airport-link-connect-near-me.json"
     },
     {
+      "igdb_id": 52369,
+      "game_name": "Airport Madness 1",
+      "file": "missing/A/52369-airport-madness-1.json"
+    },
+    {
+      "igdb_id": 52388,
+      "game_name": "Airport Madness 2",
+      "file": "missing/A/52388-airport-madness-2.json"
+    },
+    {
+      "igdb_id": 52387,
+      "game_name": "Airport Madness 3",
+      "file": "missing/A/52387-airport-madness-3.json"
+    },
+    {
       "igdb_id": 33481,
       "game_name": "Airport Madness 3D",
       "file": "missing/A/33481-airport-madness-3d.json"
@@ -35802,6 +35927,11 @@
       "file": "missing/A/204979-airport-service-simulator.json"
     },
     {
+      "igdb_id": 52386,
+      "game_name": "Airport Simulator",
+      "file": "missing/A/52386-airport-simulator.json"
+    },
+    {
       "igdb_id": 100124,
       "game_name": "Airport Simulator 2013",
       "file": "missing/A/100124-airport-simulator-2013.json"
@@ -35820,6 +35950,11 @@
       "igdb_id": 187310,
       "game_name": "Airport Simulator: Day & Night",
       "file": "missing/A/187310-airport-simulator-day-and-night.json"
+    },
+    {
+      "igdb_id": 52385,
+      "game_name": "Airport Tower Simulator 2012",
+      "file": "missing/A/52385-airport-tower-simulator-2012.json"
     },
     {
       "igdb_id": 78900,
@@ -37337,6 +37472,11 @@
       "file": "missing/A/387136-alabama-meets-will-vi.json"
     },
     {
+      "igdb_id": 52384,
+      "game_name": "Alabama Smith in Escape from Pompeii",
+      "file": "missing/A/52384-alabama-smith-in-escape-from-pompeii.json"
+    },
+    {
       "igdb_id": 176893,
       "game_name": "Alabama Smith: Escape from Pompeii",
       "file": "missing/A/176893-alabama-smith-escape-from-pompeii.json"
@@ -38602,6 +38742,11 @@
       "file": "missing/A/30374-alex-hunter-lord-of-the-mind.json"
     },
     {
+      "igdb_id": 52383,
+      "game_name": "Alex Hunter: Lord of the Mind - Platinum Edition",
+      "file": "missing/A/52383-alex-hunter-lord-of-the-mind-platinum-edition.json"
+    },
+    {
       "igdb_id": 105936,
       "game_name": "Alex Hunter: Lord of the Mind HD",
       "file": "missing/A/105936-alex-hunter-lord-of-the-mind-hd.json"
@@ -38735,6 +38880,11 @@
       "igdb_id": 9359,
       "game_name": "Alexander",
       "file": "missing/A/9359-alexander.json"
+    },
+    {
+      "igdb_id": 52382,
+      "game_name": "Alexander the Great",
+      "file": "missing/A/52382-alexander-the-great.json"
     },
     {
       "igdb_id": 58039,
@@ -38880,6 +39030,11 @@
       "igdb_id": 60793,
       "game_name": "Alfa-Arkiv",
       "file": "missing/A/60793-alfa-arkiv.json"
+    },
+    {
+      "igdb_id": 52381,
+      "game_name": "Alfa: Antiterror",
+      "file": "missing/A/52381-alfa-antiterror.json"
     },
     {
       "igdb_id": 318485,
@@ -39252,6 +39407,11 @@
       "file": "missing/A/406645-alice-and-the-devils-prison.json"
     },
     {
+      "igdb_id": 52380,
+      "game_name": "Alice and the Magic Gardens",
+      "file": "missing/A/52380-alice-and-the-magic-gardens.json"
+    },
+    {
       "igdb_id": 371312,
       "game_name": "Alice and the Magical Islands",
       "file": "missing/A/371312-alice-and-the-magical-islands.json"
@@ -39405,6 +39565,11 @@
       "igdb_id": 62811,
       "game_name": "Alice In Wonderland: A New Champion",
       "file": "missing/A/62811-alice-in-wonderland-a-new-champion.json"
+    },
+    {
+      "igdb_id": 52379,
+      "game_name": "Alice in Wonderland: Extended Edition",
+      "file": "missing/A/52379-alice-in-wonderland-extended-edition.json"
     },
     {
       "igdb_id": 207804,
@@ -41515,6 +41680,11 @@
       "igdb_id": 55667,
       "game_name": "Alimardan's Mischief",
       "file": "missing/A/55667-alimardans-mischief.json"
+    },
+    {
+      "igdb_id": 52378,
+      "game_name": "Alimardan's Mischiefs",
+      "file": "missing/A/52378-alimardans-mischiefs.json"
     },
     {
       "igdb_id": 127978,
@@ -46772,6 +46942,26 @@
       "file": "missing/A/296263-amelie-and-the-lost-spirit.json"
     },
     {
+      "igdb_id": 52397,
+      "game_name": "Amelie's Cafe",
+      "file": "missing/A/52397-amelies-cafe.json"
+    },
+    {
+      "igdb_id": 52396,
+      "game_name": "Amelie's Cafe: Holiday Spirit",
+      "file": "missing/A/52396-amelies-cafe-holiday-spirit.json"
+    },
+    {
+      "igdb_id": 52398,
+      "game_name": "Amelie's Café: Summer Time",
+      "file": "missing/A/52398-amelies-cafe-summer-time.json"
+    },
+    {
+      "igdb_id": 52395,
+      "game_name": "Amelies Cafe Halloween",
+      "file": "missing/A/52395-amelies-cafe-halloween.json"
+    },
+    {
       "igdb_id": 195462,
       "game_name": "Amelite",
       "file": "missing/A/195462-amelite.json"
@@ -47227,6 +47417,11 @@
       "file": "missing/A/277012-american-isekai-legends-of-nipponia.json"
     },
     {
+      "igdb_id": 52394,
+      "game_name": "American Lowriders",
+      "file": "missing/A/52394-american-lowriders.json"
+    },
+    {
       "igdb_id": 239912,
       "game_name": "American Marksman",
       "file": "missing/A/239912-american-marksman.json"
@@ -47275,6 +47470,11 @@
       "igdb_id": 111018,
       "game_name": "American Patriots: The Swamp Fox",
       "file": "missing/A/111018-american-patriots-the-swamp-fox.json"
+    },
+    {
+      "igdb_id": 52393,
+      "game_name": "American Pickers",
+      "file": "missing/A/52393-american-pickers.json"
     },
     {
       "igdb_id": 65204,
@@ -48587,6 +48787,11 @@
       "file": "missing/A/199383-amshay.json"
     },
     {
+      "igdb_id": 52391,
+      "game_name": "Amsterdam Street Racer",
+      "file": "missing/A/52391-amsterdam-street-racer.json"
+    },
+    {
       "igdb_id": 73746,
       "game_name": "Amsterdam Taxi Madness",
       "file": "missing/A/73746-amsterdam-taxi-madness.json"
@@ -48645,6 +48850,11 @@
       "igdb_id": 271722,
       "game_name": "Amusement Inferno",
       "file": "missing/A/271722-amusement-inferno.json"
+    },
+    {
+      "igdb_id": 52390,
+      "game_name": "Amusement Park",
+      "file": "missing/A/52390-amusement-park.json"
     },
     {
       "igdb_id": 203385,
@@ -50065,6 +50275,11 @@
       "igdb_id": 193330,
       "game_name": "Ancient Roman: Power of Dark Side",
       "file": "missing/A/193330-ancient-roman-power-of-dark-side.json"
+    },
+    {
+      "igdb_id": 52389,
+      "game_name": "Ancient Rome",
+      "file": "missing/A/52389-ancient-rome.json"
     },
     {
       "igdb_id": 25504,
@@ -53067,6 +53282,11 @@
       "file": "missing/A/269554-animal-life-north-america.json"
     },
     {
+      "igdb_id": 52404,
+      "game_name": "Animal Links",
+      "file": "missing/A/52404-animal-links.json"
+    },
+    {
       "igdb_id": 214434,
       "game_name": "Animal Magnetism: Pochi no Daisuki",
       "file": "missing/A/214434-animal-magnetism-pochi-no-daisuki.json"
@@ -53630,6 +53850,11 @@
       "igdb_id": 108229,
       "game_name": "Animals of Australia",
       "file": "missing/A/108229-animals-of-australia.json"
+    },
+    {
+      "igdb_id": 52403,
+      "game_name": "Animals of the World",
+      "file": "missing/A/52403-animals-of-the-world.json"
     },
     {
       "igdb_id": 256867,
@@ -55097,6 +55322,11 @@
       "file": "missing/A/135738-anno-1404-history-edition.json"
     },
     {
+      "igdb_id": 52402,
+      "game_name": "Anno 1404: Royal Edition",
+      "file": "missing/A/52402-anno-1404-royal-edition.json"
+    },
+    {
       "igdb_id": 136092,
       "game_name": "Anno 1503: History Edition",
       "file": "missing/A/136092-anno-1503-history-edition.json"
@@ -55342,6 +55572,11 @@
       "file": "missing/A/180261-anno-2070-bonus-edition.json"
     },
     {
+      "igdb_id": 52401,
+      "game_name": "Anno 2070: Complete Edition",
+      "file": "missing/A/52401-anno-2070-complete-edition.json"
+    },
+    {
       "igdb_id": 8228,
       "game_name": "Anno 2070: Deep Ocean",
       "file": "missing/A/8228-anno-2070-deep-ocean.json"
@@ -55395,6 +55630,11 @@
       "igdb_id": 24871,
       "game_name": "Anno 2205: Tundra",
       "file": "missing/A/24871-anno-2205-tundra.json"
+    },
+    {
+      "igdb_id": 52400,
+      "game_name": "Anno 2205: Ultimate Edition",
+      "file": "missing/A/52400-anno-2205-ultimate-edition.json"
     },
     {
       "igdb_id": 24870,
@@ -71180,6 +71420,11 @@
       "igdb_id": 180103,
       "game_name": "Artifacto",
       "file": "missing/A/180103-artifacto.json"
+    },
+    {
+      "igdb_id": 52352,
+      "game_name": "Artifacts",
+      "file": "missing/A/52352-artifacts.json"
     },
     {
       "igdb_id": 223385,
@@ -441240,6 +441485,11 @@
       "igdb_id": 155494,
       "game_name": "Graviteam Tactics: Operation Star - Sokolovo 1943",
       "file": "missing/G/155494-graviteam-tactics-operation-star-sokolovo-1943.json"
+    },
+    {
+      "igdb_id": 52365,
+      "game_name": "Graviteam Tactics: Operation Star - Sokolovo 1943",
+      "file": "missing/G/52365-graviteam-tactics-operation-star-sokolovo-1943.json"
     },
     {
       "igdb_id": 155496,
