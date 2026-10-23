@@ -5913,6 +5913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaq-Fu | 265004 | [265004-shaq-fu.json](./265004-shaq-fu.json) |
 | Shaq-Fu | 265005 | [265005-shaq-fu.json](./265005-shaq-fu.json) |
 | Shaq-Fu | 8536 | [8536-shaq-fu.json](./8536-shaq-fu.json) |
+| ShaqDown 2 | 60324 | [60324-shaqdown-2.json](./60324-shaqdown-2.json) |
 | Shaqing | 298281 | [298281-shaqing.json](./298281-shaqing.json) |
 | ShaQu | 358233 | [358233-shaqu.json](./358233-shaqu.json) |
 | Shararam | 329986 | [329986-shararam.json](./329986-shararam.json) |
@@ -6130,6 +6131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Wants Me Dead: Extended Edition | 239493 | [239493-she-wants-me-dead-extended-edition.json](./239493-she-wants-me-dead-extended-edition.json) |
 | She Wants to Suck My Blood? | 254324 | [254324-she-wants-to-suck-my-blood.json](./254324-she-wants-to-suck-my-blood.json) |
 | She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
+| She Who Fights Monsters | 60343 | [60343-she-who-fights-monsters.json](./60343-she-who-fights-monsters.json) |
 | She Who Fights Monsters: Choice Edition | 186168 | [186168-she-who-fights-monsters-choice-edition.json](./186168-she-who-fights-monsters-choice-edition.json) |
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
 | SHE: Seraphim Helix Experiment | 404877 | [404877-she-seraphim-helix-experiment.json](./404877-she-seraphim-helix-experiment.json) |
@@ -6520,6 +6522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shimokita Rose & Tears | 303298 | [303298-shimokita-rose-and-tears.json](./303298-shimokita-rose-and-tears.json) |
 | Shimono Masaki no Fishing to Bassing | 38253 | [38253-shimono-masaki-no-fishing-to-bassing.json](./38253-shimono-masaki-no-fishing-to-bassing.json) |
 | Shimura Ken no Bakatono-sama: Bakushou Tenka Touitsu Game | 49779 | [49779-shimura-ken-no-bakatono-sama-bakushou-tenka-touitsu-game.json](./49779-shimura-ken-no-bakatono-sama-bakushou-tenka-touitsu-game.json) |
+| Shin Bakusou Dekotora Densetsu | 60414 | [60414-shin-bakusou-dekotora-densetsu.json](./60414-shin-bakusou-dekotora-densetsu.json) |
 | Shin Egokoro Kyoushitsu | 141122 | [141122-shin-egokoro-kyoushitsu.json](./141122-shin-egokoro-kyoushitsu.json) |
 | Shin Era Tensei | 365818 | [365818-shin-era-tensei.json](./365818-shin-era-tensei.json) |
 | Shin Fangame Tensei | 386549 | [386549-shin-fangame-tensei.json](./386549-shin-fangame-tensei.json) |
@@ -7995,6 +7998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Pocket: Special Edition | 209011 | [209011-side-pocket-special-edition.json](./209011-side-pocket-special-edition.json) |
 | Side Swap | 216263 | [216263-side-swap.json](./216263-side-swap.json) |
 | Side Swap 2D: Endless Fun | 232294 | [232294-side-swap-2d-endless-fun.json](./232294-side-swap-2d-endless-fun.json) |
+| Side Swipe | 60339 | [60339-side-swipe.json](./60339-side-swipe.json) |
 | Side Swipers | 280783 | [280783-side-swipers.json](./280783-side-swipers.json) |
 | Side to Side | 128569 | [128569-side-to-side.json](./128569-side-to-side.json) |
 | Side Trak | 39517 | [39517-side-trak.json](./39517-side-trak.json) |
@@ -14628,6 +14632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Hero Adventure | 291306 | [291306-soul-hero-adventure.json](./291306-soul-hero-adventure.json) |
 | Soul Historica | 118181 | [118181-soul-historica.json](./118181-soul-historica.json) |
 | Soul Hunter | 383680 | [383680-soul-hunter.json](./383680-soul-hunter.json) |
+| Soul Hunters | 60345 | [60345-soul-hunters.json](./60345-soul-hunters.json) |
 | Soul Huntress | 406657 | [406657-soul-huntress.json](./406657-soul-huntress.json) |
 | Soul Injector Commando | 322603 | [322603-soul-injector-commando.json](./322603-soul-injector-commando.json) |
 | Soul Interface | 302382 | [302382-soul-interface.json](./302382-soul-interface.json) |
@@ -19725,6 +19730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust | 12774 | [12774-stardust.json](./12774-stardust.json) |
 | Stardust | 318797 | [318797-stardust.json](./318797-stardust.json) |
 | Stardust | 372069 | [372069-stardust.json](./372069-stardust.json) |
+| Stardust Amazoness | 60318 | [60318-stardust-amazoness.json](./60318-stardust-amazoness.json) |
 | Stardust Arena | 202582 | [202582-stardust-arena.json](./202582-stardust-arena.json) |
 | Stardust Defenders | 251970 | [251970-stardust-defenders.json](./251970-stardust-defenders.json) |
 | Stardust Demon | 291687 | [291687-stardust-demon.json](./291687-stardust-demon.json) |
@@ -20203,6 +20209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Dice | 373195 | [373195-starship-dice.json](./373195-starship-dice.json) |
 | Starship Eleven | 358805 | [358805-starship-eleven.json](./358805-starship-eleven.json) |
 | Starship Eleven Deluxe | 360605 | [360605-starship-eleven-deluxe.json](./360605-starship-eleven-deluxe.json) |
+| Starship Empire | 60404 | [60404-starship-empire.json](./60404-starship-empire.json) |
 | Starship Enterprise | 312276 | [312276-starship-enterprise.json](./312276-starship-enterprise.json) |
 | Starship Enterprise | 71224 | [71224-starship-enterprise.json](./71224-starship-enterprise.json) |
 | Starship Escape | 57113 | [57113-starship-escape.json](./57113-starship-escape.json) |
