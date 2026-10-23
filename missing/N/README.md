@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N1NE: The Splintered Mind Part 1 | 154424 | [154424-n1ne-the-splintered-mind-part-1.json](./154424-n1ne-the-splintered-mind-part-1.json) |
 | N1RV Ann-A: Cyberpunk Bartender Action | 109582 | [109582-n1rv-ann-a-cyberpunk-bartender-action.json](./109582-n1rv-ann-a-cyberpunk-bartender-action.json) |
 | N2O | 226133 | [226133-n2o.json](./226133-n2o.json) |
+| N2O: Nitrous Oxide | 45094 | [45094-n2o-nitrous-oxide.json](./45094-n2o-nitrous-oxide.json) |
 | N3: Ninety-Nine Nights | 7094 | [7094-n3-ninety-nine-nights.json](./7094-n3-ninety-nine-nights.json) |
 | N3Rally | 310204 | [310204-n3rally.json](./310204-n3rally.json) |
 | N64 SP Map Jam | 300421 | [300421-n64-sp-map-jam.json](./300421-n64-sp-map-jam.json) |
