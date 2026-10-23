@@ -2368,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of Memories: Sekai de Ichiban Atsui Fuyu | 221320 | [221320-days-of-memories-sekai-de-ichiban-atsui-fuyu.json](./221320-days-of-memories-sekai-de-ichiban-atsui-fuyu.json) |
 | Days Of My Life | 270190 | [270190-days-of-my-life.json](./270190-days-of-my-life.json) |
 | Days of Oblivion | 69805 | [69805-days-of-oblivion.json](./69805-days-of-oblivion.json) |
+| Days of Oblivion 2: Frozen Eternity | 67087 | [67087-days-of-oblivion-2-frozen-eternity.json](./67087-days-of-oblivion-2-frozen-eternity.json) |
 | Days of Purgatory | 76706 | [76706-days-of-purgatory.json](./76706-days-of-purgatory.json) |
 | Days of Reckoning: Last Battle | 402898 | [402898-days-of-reckoning-last-battle.json](./402898-days-of-reckoning-last-battle.json) |
 | Days of Saturn | 326062 | [326062-days-of-saturn.json](./326062-days-of-saturn.json) |
@@ -2966,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Pedal | 244202 | [244202-dead-pedal.json](./244202-dead-pedal.json) |
 | Dead People Driving HD | 232344 | [232344-dead-people-driving-hd.json](./232344-dead-people-driving-hd.json) |
 | Dead Petals Bliss | 258547 | [258547-dead-petals-bliss.json](./258547-dead-petals-bliss.json) |
+| Dead Phoenix | 67051 | [67051-dead-phoenix.json](./67051-dead-phoenix.json) |
 | Dead Pixels | 346658 | [346658-dead-pixels.json](./346658-dead-pixels.json) |
 | Dead Pixels | 5448 | [5448-dead-pixels.json](./5448-dead-pixels.json) |
 | Dead Pixels II: Straight to Video | 18362 | [18362-dead-pixels-ii-straight-to-video.json](./18362-dead-pixels-ii-straight-to-video.json) |
@@ -3168,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadliest Pigeon | 367556 | [367556-deadliest-pigeon.json](./367556-deadliest-pigeon.json) |
 | Deadliest Warrior: Ancient Combat | 20823 | [20823-deadliest-warrior-ancient-combat.json](./20823-deadliest-warrior-ancient-combat.json) |
 | Deadliest Warrior: Battlegrounds | 294543 | [294543-deadliest-warrior-battlegrounds.json](./294543-deadliest-warrior-battlegrounds.json) |
+| Deadliest Warrior: The Game | 67092 | [67092-deadliest-warrior-the-game.json](./67092-deadliest-warrior-the-game.json) |
 | Deadlight: Director's Cut | 19454 | [19454-deadlight-directors-cut.json](./19454-deadlight-directors-cut.json) |
 | Deadlike | 345618 | [345618-deadlike.json](./345618-deadlike.json) |
 | Deadline | 154318 | [154318-deadline.json](./154318-deadline.json) |
