@@ -7338,6 +7338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Bottom | 304339 | [304339-rock-bottom.json](./304339-rock-bottom.json) |
 | Rock Bottom | 385364 | [385364-rock-bottom.json](./385364-rock-bottom.json) |
 | Rock Challenge | 358735 | [358735-rock-challenge.json](./358735-rock-challenge.json) |
+| Rock Challenge | 71338 | [71338-rock-challenge.json](./71338-rock-challenge.json) |
 | Rock City Empire | 333987 | [333987-rock-city-empire.json](./333987-rock-city-empire.json) |
 | Rock Clicker | 373841 | [373841-rock-clicker.json](./373841-rock-clicker.json) |
 | Rock Climber | 40421 | [40421-rock-climber.json](./40421-rock-climber.json) |
