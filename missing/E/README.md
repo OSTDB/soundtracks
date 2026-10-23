@@ -3237,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enjoy Amoy & Sisters | 404874 | [404874-enjoy-amoy-and-sisters.json](./404874-enjoy-amoy-and-sisters.json) |
 | Enjoy Summer Maximum | 418860 | [418860-enjoy-summer-maximum.json](./418860-enjoy-summer-maximum.json) |
 | Enjoy the Diner | 250232 | [250232-enjoy-the-diner.json](./250232-enjoy-the-diner.json) |
+| Enjoy Your Massage! | 51015 | [51015-enjoy-your-massage.json](./51015-enjoy-your-massage.json) |
 | Enjoy: Futari no Ecchi na Joi to Eroero Kenshuu Taiken | 413846 | [413846-enjoy-futari-no-ecchi-na-joi-to-eroero-kenshuu-taiken.json](./413846-enjoy-futari-no-ecchi-na-joi-to-eroero-kenshuu-taiken.json) |
 | EnJoyTyping | 291145 | [291145-enjoytyping.json](./291145-enjoytyping.json) |
 | EnjoyUp's 3 in 1 | 390511 | [390511-enjoyups-3-in-1.json](./390511-enjoyups-3-in-1.json) |
@@ -5211,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evasive | 273917 | [273917-evasive.json](./273917-evasive.json) |
 | Evasive Action | 74088 | [74088-evasive-action.json](./74088-evasive-action.json) |
 | Evasive Maneuvers | 166845 | [166845-evasive-maneuvers.json](./166845-evasive-maneuvers.json) |
+| Evasive Space | 51018 | [51018-evasive-space.json](./51018-evasive-space.json) |
 | Evaverse | 158522 | [158522-evaverse.json](./158522-evaverse.json) |
 | Evdeki Lanet | 160164 | [160164-evdeki-lanet.json](./160164-evdeki-lanet.json) |
 | EVE Aether Wars - Tech Demo | 126344 | [126344-eve-aether-wars-tech-demo.json](./126344-eve-aether-wars-tech-demo.json) |
