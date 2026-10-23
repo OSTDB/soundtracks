@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaede Doori: Brand New Days Innocent | 413053 | [413053-kaede-doori-brand-new-days-innocent.json](./413053-kaede-doori-brand-new-days-innocent.json) |
 | Kaen no Seito | 308878 | [308878-kaen-no-seito.json](./308878-kaen-no-seito.json) |
 | Kaen Seibo: The Virgin on Megiddo | 70269 | [70269-kaen-seibo-the-virgin-on-megiddo.json](./70269-kaen-seibo-the-virgin-on-megiddo.json) |
+| Kaena | 85925 | [85925-kaena.json](./85925-kaena.json) |
 | Kaepernick Football | 234007 | [234007-kaepernick-football.json](./234007-kaepernick-football.json) |
 | Kaerazu no Mori | 98523 | [98523-kaerazu-no-mori.json](./98523-kaerazu-no-mori.json) |
 | Kaerimichi | 308892 | [308892-kaerimichi.json](./308892-kaerimichi.json) |
@@ -1722,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Pilot | 375866 | [375866-kid-pilot.json](./375866-kid-pilot.json) |
 | Kid Speedy | 135867 | [135867-kid-speedy.json](./135867-kid-speedy.json) |
 | Kid Tripp | 36758 | [36758-kid-tripp.json](./36758-kid-tripp.json) |
+| Kid Venture | 85917 | [85917-kid-venture.json](./85917-kid-venture.json) |
 | Kid-Venture 2: Twas the Night Before Christmas | 55830 | [55830-kid-venture-2-twas-the-night-before-christmas.json](./55830-kid-venture-2-twas-the-night-before-christmas.json) |
 | Kid-Venture 3: Old McDonald's Farm | 55827 | [55827-kid-venture-3-old-mcdonalds-farm.json](./55827-kid-venture-3-old-mcdonalds-farm.json) |
 | Kid's Activity Center | 87688 | [87688-kids-activity-center.json](./87688-kids-activity-center.json) |
