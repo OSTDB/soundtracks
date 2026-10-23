@@ -3749,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persuasion RPG | 409223 | [409223-persuasion-rpg.json](./409223-persuasion-rpg.json) |
 | Pertinence | 33181 | [33181-pertinence.json](./33181-pertinence.json) |
 | Perudo | 124556 | [124556-perudo.json](./124556-perudo.json) |
+| Perv Sluts Next Door: That Girls' Kinks You Haven't Yet Seen | 82606 | [82606-perv-sluts-next-door-that-girls-kinks-you-havent-yet-seen.json](./82606-perv-sluts-next-door-that-girls-kinks-you-havent-yet-seen.json) |
 | Pervader | 54910 | [54910-pervader.json](./54910-pervader.json) |
 | Perverts | 385257 | [385257-perverts.json](./385257-perverts.json) |
 | Perverts Society | 110357 | [110357-perverts-society.json](./110357-perverts-society.json) |
@@ -11245,6 +11246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priest With a Gun | 336583 | [336583-priest-with-a-gun.json](./336583-priest-with-a-gun.json) |
 | Priest: An Exorcist Simulator | 109559 | [109559-priest-an-exorcist-simulator.json](./109559-priest-an-exorcist-simulator.json) |
 | Priest's Artifice: Raguna Series 2 | 98437 | [98437-priests-artifice-raguna-series-2.json](./98437-priests-artifice-raguna-series-2.json) |
+| Priestess In Training Sahnia : her fairest limbs devoured by the filthy forest | 82634 | [82634-priestess-in-training-sahnia-her-fairest-limbs-devoured-by-the-filthy-forest.json](./82634-priestess-in-training-sahnia-her-fairest-limbs-devoured-by-the-filthy-forest.json) |
 | Priklyucheniya Mishek Gammi | 210311 | [210311-priklyucheniya-mishek-gammi.json](./210311-priklyucheniya-mishek-gammi.json) |
 | Prim Rogue | 93803 | [93803-prim-rogue.json](./93803-prim-rogue.json) |
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
@@ -11463,6 +11465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Edge: Dragonstone | 26525 | [26525-princess-edge-dragonstone.json](./26525-princess-edge-dragonstone.json) |
 | Princess Erch | 165741 | [165741-princess-erch.json](./165741-princess-erch.json) |
 | Princess escape | 174119 | [174119-princess-escape.json](./174119-princess-escape.json) |
+| Princess Escape | 82645 | [82645-princess-escape.json](./82645-princess-escape.json) |
 | Princess Evangile W Happiness | 140525 | [140525-princess-evangile-w-happiness.json](./140525-princess-evangile-w-happiness.json) |
 | Princess Evangile W Happiness | 43360 | [43360-princess-evangile-w-happiness.json](./43360-princess-evangile-w-happiness.json) |
 | Princess Fantasy Catventure | 410887 | [410887-princess-fantasy-catventure.json](./410887-princess-fantasy-catventure.json) |
@@ -14492,6 +14495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle of Insects | 295993 | [295993-puzzle-of-insects.json](./295993-puzzle-of-insects.json) |
 | Puzzle of Jellies | 9731 | [9731-puzzle-of-jellies.json](./9731-puzzle-of-jellies.json) |
 | Puzzle of Love: Building My Heart | 336399 | [336399-puzzle-of-love-building-my-heart.json](./336399-puzzle-of-love-building-my-heart.json) |
+| Puzzle of Rose | 82585 | [82585-puzzle-of-rose.json](./82585-puzzle-of-rose.json) |
 | Puzzle of Santa Girl VR | 81932 | [81932-puzzle-of-santa-girl-vr.json](./81932-puzzle-of-santa-girl-vr.json) |
 | Puzzle of Words | 37301 | [37301-puzzle-of-words.json](./37301-puzzle-of-words.json) |
 | Puzzle One | 46465 | [46465-puzzle-one.json](./46465-puzzle-one.json) |
@@ -14768,6 +14772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzznic | 307912 | [307912-puzznic.json](./307912-puzznic.json) |
 | PuzzPower | 85984 | [85984-puzzpower.json](./85984-puzzpower.json) |
 | Puzzrama | 152918 | [152918-puzzrama.json](./152918-puzzrama.json) |
+| PuzzSinker. | 82579 | [82579-puzzsinker.json](./82579-puzzsinker.json) |
 | Puzzsoft’s Cooleidoscope | 316050 | [316050-puzzsoft-s-cooleidoscope.json](./316050-puzzsoft-s-cooleidoscope.json) |
 | Puzzwords | 91908 | [91908-puzzwords.json](./91908-puzzwords.json) |
 | Puzzzle | 142218 | [142218-puzzzle.json](./142218-puzzzle.json) |
