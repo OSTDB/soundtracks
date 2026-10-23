@@ -4142,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Monsters II | 111902 | [111902-master-of-monsters-ii.json](./111902-master-of-monsters-ii.json) |
 | Master of Monsters III | 111905 | [111905-master-of-monsters-iii.json](./111905-master-of-monsters-iii.json) |
 | Master of Monsters SSB | 351172 | [351172-master-of-monsters-ssb.json](./351172-master-of-monsters-ssb.json) |
+| Master of Monsters: Disciples of Gaia | 45022 | [45022-master-of-monsters-disciples-of-gaia.json](./45022-master-of-monsters-disciples-of-gaia.json) |
 | Master of Monsters: Mado-ou no Shiren | 387092 | [387092-master-of-monsters-mado-ou-no-shiren.json](./387092-master-of-monsters-mado-ou-no-shiren.json) |
 | Master of Music | 279058 | [279058-master-of-music.json](./279058-master-of-music.json) |
 | Master of Mutations | 109716 | [109716-master-of-mutations.json](./109716-master-of-mutations.json) |
@@ -15028,6 +15029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mtn Chaos | 257963 | [257963-mtn-chaos.json](./257963-mtn-chaos.json) |
 | MTP Target | 71566 | [71566-mtp-target.json](./71566-mtp-target.json) |
 | MTV Jersey Shore | 281023 | [281023-mtv-jersey-shore.json](./281023-mtv-jersey-shore.json) |
+| MTV Music Generator | 45098 | [45098-mtv-music-generator.json](./45098-mtv-music-generator.json) |
 | MTV Remote Control | 18019 | [18019-mtv-remote-control.json](./18019-mtv-remote-control.json) |
 | MTV Sports Skateboarding | 45810 | [45810-mtv-sports-skateboarding.json](./45810-mtv-sports-skateboarding.json) |
 | MTV Sports: Pure Ride | 306635 | [306635-mtv-sports-pure-ride.json](./306635-mtv-sports-pure-ride.json) |
