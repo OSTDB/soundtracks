@@ -1667,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Cave | 35789 | [35789-abyss-cave.json](./35789-abyss-cave.json) |
 | Abyss Chaser | 332446 | [332446-abyss-chaser.json](./332446-abyss-chaser.json) |
 | Abyss Crawlers Plus | 88465 | [88465-abyss-crawlers-plus.json](./88465-abyss-crawlers-plus.json) |
+| Abyss Crew | 87938 | [87938-abyss-crew.json](./87938-abyss-crew.json) |
 | Abyss Deck: Deckbuilding Roguelike | 373159 | [373159-abyss-deck-deckbuilding-roguelike.json](./373159-abyss-deck-deckbuilding-roguelike.json) |
 | Abyss Delvers | 194378 | [194378-abyss-delvers.json](./194378-abyss-delvers.json) |
 | Abyss Eschaton Survivors | 348852 | [348852-abyss-eschaton-survivors.json](./348852-abyss-eschaton-survivors.json) |
@@ -2303,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actually: There's nothing | 141161 | [141161-actually-theres-nothing.json](./141161-actually-theres-nothing.json) |
 | Actuator: Overt Abnormality | 379474 | [379474-actuator-overt-abnormality.json](./379474-actuator-overt-abnormality.json) |
 | Aculeata | 280675 | [280675-aculeata.json](./280675-aculeata.json) |
+| Acute Art VR Museum | 87945 | [87945-acute-art-vr-museum.json](./87945-acute-art-vr-museum.json) |
 | ACUVAC: A Suck And Blow Adventure | 318561 | [318561-acuvac-a-suck-and-blow-adventure.json](./318561-acuvac-a-suck-and-blow-adventure.json) |
 | Ad Agency Simulator | 291326 | [291326-ad-agency-simulator.json](./291326-ad-agency-simulator.json) |
 | Ad Astra | 45371 | [45371-ad-astra.json](./45371-ad-astra.json) |
@@ -6004,6 +6006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpine Racer 2 | 38525 | [38525-alpine-racer-2.json](./38525-alpine-racer-2.json) |
 | Alpine Racer 3 | 68269 | [68269-alpine-racer-3.json](./68269-alpine-racer-3.json) |
 | Alpine Ski | 46759 | [46759-alpine-ski.json](./46759-alpine-ski.json) |
+| Alpine Ski III | 88027 | [88027-alpine-ski-iii.json](./88027-alpine-ski-iii.json) |
 | Alpine Ski Racing 2007 | 68266 | [68266-alpine-ski-racing-2007.json](./68266-alpine-ski-racing-2007.json) |
 | Alpine Ski VR | 30596 | [30596-alpine-ski-vr.json](./30596-alpine-ski-vr.json) |
 | Alpine Skiing | 41532 | [41532-alpine-skiing.json](./41532-alpine-skiing.json) |
@@ -7567,6 +7570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Universe VR | 297066 | [297066-angry-universe-vr.json](./297066-angry-universe-vr.json) |
 | Angry Video Game Nerd 8-bit | 329179 | [329179-angry-video-game-nerd-8-bit.json](./329179-angry-video-game-nerd-8-bit.json) |
 | Angry Video Game Nerd Adventures | 7960 | [7960-angry-video-game-nerd-adventures.json](./7960-angry-video-game-nerd-adventures.json) |
+| Angry VS Android | 88075 | [88075-angry-vs-android.json](./88075-angry-vs-android.json) |
 | Angry World War 2 | 234070 | [234070-angry-world-war-2.json](./234070-angry-world-war-2.json) |
 | Angry Zombies | 88844 | [88844-angry-zombies.json](./88844-angry-zombies.json) |
 | Angrymals | 178364 | [178364-angrymals.json](./178364-angrymals.json) |
