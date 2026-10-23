@@ -1302,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Goemon: Seikuushi Dynamites Arawaru!! | 50053 | [50053-ganbare-goemon-seikuushi-dynamites-arawaru.json](./50053-ganbare-goemon-seikuushi-dynamites-arawaru.json) |
 | Ganbare Goemon: Tengu-tou no Gyakushuu! | 129172 | [129172-ganbare-goemon-tengu-tou-no-gyakushuu.json](./129172-ganbare-goemon-tengu-tou-no-gyakushuu.json) |
 | Ganbare Goemon: Toukai Douchuu Ooedo Tengurigaeshi no Maki | 73299 | [73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json](./73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json) |
+| Ganbare Golf Boys | 44330 | [44330-ganbare-golf-boys.json](./44330-ganbare-golf-boys.json) |
 | Ganbare Jajamaru Saisho ha Goo | 234221 | [234221-ganbare-jajamaru-saisho-ha-goo.json](./234221-ganbare-jajamaru-saisho-ha-goo.json) |
 | Ganbare Marine Kun | 40141 | [40141-ganbare-marine-kun.json](./40141-ganbare-marine-kun.json) |
 | Ganbare Morikawa Kun 2nd PET ON TV | 213887 | [213887-ganbare-morikawa-kun-2nd-pet-on-tv.json](./213887-ganbare-morikawa-kun-2nd-pet-on-tv.json) |
@@ -5391,6 +5392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomi x Chou Trash x Talk | 350959 | [350959-gomi-x-chou-trash-x-talk.json](./350959-gomi-x-chou-trash-x-talk.json) |
 | Gomiboru | 333017 | [333017-gomiboru.json](./333017-gomiboru.json) |
 | Gomo | 7552 | [7552-gomo.json](./7552-gomo.json) |
+| Gomoku and Renju | 44350 | [44350-gomoku-and-renju.json](./44350-gomoku-and-renju.json) |
 | Gomoku HD | 106453 | [106453-gomoku-hd.json](./106453-gomoku-hd.json) |
 | Gomoku Let's Go | 173252 | [173252-gomoku-lets-go.json](./173252-gomoku-lets-go.json) |
 | Gomoku Notation | 102703 | [102703-gomoku-notation.json](./102703-gomoku-notation.json) |
