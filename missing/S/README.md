@@ -2048,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SBK Team Manager | 200317 | [200317-sbk-team-manager.json](./200317-sbk-team-manager.json) |
 | SBK-07 Superbike World Championship | 21421 | [21421-sbk-07-superbike-world-championship.json](./21421-sbk-07-superbike-world-championship.json) |
 | SBK-08: Superbike World Championship | 264881 | [264881-sbk-08-superbike-world-championship.json](./264881-sbk-08-superbike-world-championship.json) |
+| SBK: Snowboard Kids | 47725 | [47725-sbk-snowboard-kids.json](./47725-sbk-snowboard-kids.json) |
 | SBK16 Official Mobile Game | 175667 | [175667-sbk16-official-mobile-game.json](./175667-sbk16-official-mobile-game.json) |
 | Sblobber 64 | 145456 | [145456-sblobber-64.json](./145456-sblobber-64.json) |
 | SBX 5K | 132214 | [132214-sbx-5k.json](./132214-sbx-5k.json) |
@@ -3126,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam: SD Sengokuden Kunitori Monogatari | 65385 | [65385-sd-gundam-sd-sengokuden-kunitori-monogatari.json](./65385-sd-gundam-sd-sengokuden-kunitori-monogatari.json) |
 | SD Hero Soukessen: Taose! Aku no Gundan | 79278 | [79278-sd-hero-soukessen-taose-aku-no-gundan.json](./79278-sd-hero-soukessen-taose-aku-no-gundan.json) |
 | SD Hiryuu no Ken | 38322 | [38322-sd-hiryuu-no-ken.json](./38322-sd-hiryuu-no-ken.json) |
+| SD Hiryuu no Ken Densetsu | 47733 | [47733-sd-hiryuu-no-ken-densetsu.json](./47733-sd-hiryuu-no-ken-densetsu.json) |
 | SD Hiryuu no Ken Gaiden | 64968 | [64968-sd-hiryuu-no-ken-gaiden.json](./64968-sd-hiryuu-no-ken-gaiden.json) |
 | SD Hiryuu no Ken Gaiden 2 | 78523 | [78523-sd-hiryuu-no-ken-gaiden-2.json](./78523-sd-hiryuu-no-ken-gaiden-2.json) |
 | SD Hiryuu no Ken Gaiden EX | 186595 | [186595-sd-hiryuu-no-ken-gaiden-ex.json](./186595-sd-hiryuu-no-ken-gaiden-ex.json) |
@@ -6350,6 +6352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shepherd Planet | 280124 | [280124-shepherd-planet.json](./280124-shepherd-planet.json) |
 | Shepherd Slaughter | 25540 | [25540-shepherd-slaughter.json](./25540-shepherd-slaughter.json) |
 | Shepherd's Crossing | 43270 | [43270-shepherds-crossing.json](./43270-shepherds-crossing.json) |
+| Shepherd's Crossing 2 | 47797 | [47797-shepherds-crossing-2.json](./47797-shepherds-crossing-2.json) |
 | Shepherd's Eye | 288230 | [288230-shepherds-eye.json](./288230-shepherds-eye.json) |
 | Shepherd’s Plan | 314068 | [314068-shepherd-s-plan.json](./314068-shepherd-s-plan.json) |
 | Shepherds | 320589 | [320589-shepherds.json](./320589-shepherds.json) |
@@ -6656,6 +6659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Nippon Pro Wrestling: Toukon Retsuden 2 | 43876 | [43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json](./43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json) |
 | Shin Nippon Pro Wrestling: Toukon Retsuden 4 | 45801 | [45801-shin-nippon-pro-wrestling-toukon-retsuden-4.json](./45801-shin-nippon-pro-wrestling-toukon-retsuden-4.json) |
 | Shin Nippon Pro Wrestling: Toukon Road - Brave Spirits | 3556 | [3556-shin-nippon-pro-wrestling-toukon-road-brave-spirits.json](./3556-shin-nippon-pro-wrestling-toukon-road-brave-spirits.json) |
+| Shin Nippon Pro Wrestling: Toukon Road 2 - The Next Generation | 47750 | [47750-shin-nippon-pro-wrestling-toukon-road-2-the-next-generation.json](./47750-shin-nippon-pro-wrestling-toukon-road-2-the-next-generation.json) |
 | Shin Nobunaga no Yabou | 208939 | [208939-shin-nobunaga-no-yabou.json](./208939-shin-nobunaga-no-yabou.json) |
 | Shin Pokémon: Blue Version | 275103 | [275103-shin-pokemon-blue-version.json](./275103-shin-pokemon-blue-version.json) |
 | Shin Pokemon: Green Version | 275105 | [275105-shin-pokemon-green-version.json](./275105-shin-pokemon-green-version.json) |
@@ -27430,6 +27434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Susan Taxpayer | 265722 | [265722-susan-taxpayer.json](./265722-susan-taxpayer.json) |
 | Susano O Densetsu | 37688 | [37688-susano-o-densetsu.json](./37688-susano-o-densetsu.json) |
 | Susanoo | 409005 | [409005-susanoo.json](./409005-susanoo.json) |
+| Sushi Academy | 47780 | [47780-sushi-academy.json](./47780-sushi-academy.json) |
 | Sushi Alone | 151808 | [151808-sushi-alone.json](./151808-sushi-alone.json) |
 | Sushi Bar | 298874 | [298874-sushi-bar.json](./298874-sushi-bar.json) |
 | Sushi Bar Express | 54416 | [54416-sushi-bar-express.json](./54416-sushi-bar-express.json) |
