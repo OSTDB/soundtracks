@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Baseball 2006 | 132054 | [132054-backyard-baseball-2006.json](./132054-backyard-baseball-2006.json) |
 | Backyard Basketball | 69242 | [69242-backyard-basketball.json](./69242-backyard-basketball.json) |
 | Backyard Basketball ‘01 | 377818 | [377818-backyard-basketball-01.json](./377818-backyard-basketball-01.json) |
+| Backyard Basketball 2001 | 50297 | [50297-backyard-basketball-2001.json](./50297-backyard-basketball-2001.json) |
 | Backyard Battles | 62812 | [62812-backyard-battles.json](./62812-backyard-battles.json) |
 | Backyard Bounce | 20720 | [20720-backyard-bounce.json](./20720-backyard-bounce.json) |
 | Backyard Boxing | 329668 | [329668-backyard-boxing.json](./329668-backyard-boxing.json) |
@@ -609,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Skateboarding | 49312 | [49312-backyard-skateboarding.json](./49312-backyard-skateboarding.json) |
 | Backyard Skateboarding | 72939 | [72939-backyard-skateboarding.json](./72939-backyard-skateboarding.json) |
 | Backyard Soccer | 44993 | [44993-backyard-soccer.json](./44993-backyard-soccer.json) |
+| Backyard Soccer | 50300 | [50300-backyard-soccer.json](./50300-backyard-soccer.json) |
 | Backyard Soccer 2004 | 72711 | [72711-backyard-soccer-2004.json](./72711-backyard-soccer-2004.json) |
 | Backyard Sports Football: Rookie Rush | 47408 | [47408-backyard-sports-football-rookie-rush.json](./47408-backyard-sports-football-rookie-rush.json) |
 | Backyard Sports: Baseball 2007 | 49243 | [49243-backyard-sports-baseball-2007.json](./49243-backyard-sports-baseball-2007.json) |
@@ -4548,6 +4550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Because We're Here: Mohnblume und Blauerose | 105298 | [105298-because-were-here-mohnblume-und-blauerose.json](./105298-because-were-here-mohnblume-und-blauerose.json) |
 | Becca | 265104 | [265104-becca.json](./265104-becca.json) |
 | Becher's Dream | 72292 | [72292-bechers-dream.json](./72292-bechers-dream.json) |
+| Becherov | 50316 | [50316-becherov.json](./50316-becherov.json) |
 | Beck: The Game | 61425 | [61425-beck-the-game.json](./61425-beck-the-game.json) |
 | Beckett | 89504 | [89504-beckett.json](./89504-beckett.json) |
 | Beckoned | 159847 | [159847-beckoned.json](./159847-beckoned.json) |
@@ -6535,6 +6538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionic Heart | 9782 | [9782-bionic-heart.json](./9782-bionic-heart.json) |
 | Bionic Heart 2 | 17721 | [17721-bionic-heart-2.json](./17721-bionic-heart-2.json) |
 | Bionic Hunter VR | 127190 | [127190-bionic-hunter-vr.json](./127190-bionic-hunter-vr.json) |
+| Bionic Marine Command Online | 50289 | [50289-bionic-marine-command-online.json](./50289-bionic-marine-command-online.json) |
 | Bionic Rebirth | 283997 | [283997-bionic-rebirth.json](./283997-bionic-rebirth.json) |
 | Bionic Shield: Battle for Space Nebula Omega | 189123 | [189123-bionic-shield-battle-for-space-nebula-omega.json](./189123-bionic-shield-battle-for-space-nebula-omega.json) |
 | Bionic Slammer | 236324 | [236324-bionic-slammer.json](./236324-bionic-slammer.json) |
@@ -7493,6 +7497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith Weapon Merchant | 213987 | [213987-blacksmith-weapon-merchant.json](./213987-blacksmith-weapon-merchant.json) |
 | Blacksmith: Dark Times | 105012 | [105012-blacksmith-dark-times.json](./105012-blacksmith-dark-times.json) |
 | Blacksmith's Master | 184895 | [184895-blacksmiths-master.json](./184895-blacksmiths-master.json) |
+| BlackSoul | 50314 | [50314-blacksoul.json](./50314-blacksoul.json) |
 | BlackSpace | 93497 | [93497-blackspace.json](./93497-blackspace.json) |
 | Blackspot: The Card Game | 397872 | [397872-blackspot-the-card-game.json](./397872-blackspot-the-card-game.json) |
 | Blackstar, Agent of Justice | 71334 | [71334-blackstar-agent-of-justice.json](./71334-blackstar-agent-of-justice.json) |
@@ -9358,6 +9363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue's Clues: Meet Blue's Baby Brother | 206460 | [206460-blues-clues-meet-blues-baby-brother.json](./206460-blues-clues-meet-blues-baby-brother.json) |
 | Blue's Clues: Preschool | 23776 | [23776-blues-clues-preschool.json](./23776-blues-clues-preschool.json) |
 | Blue's Journey | 39653 | [39653-blues-journey.json](./39653-blues-journey.json) |
+| Blue's Reading Time Activities | 50294 | [50294-blues-reading-time-activities.json](./50294-blues-reading-time-activities.json) |
 | Blue's Room: Blue Talks! | 74005 | [74005-blues-room-blue-talks.json](./74005-blues-room-blue-talks.json) |
 | Blue's Room: Coloring With Blue | 220077 | [220077-blues-room-coloring-with-blue.json](./220077-blues-room-coloring-with-blue.json) |
 | Blue* | 130819 | [130819-blue.json](./130819-blue.json) |
@@ -13394,6 +13400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugby | 283133 | [283133-bugby.json](./283133-bugby.json) |
 | Bugdas | 113721 | [113721-bugdas.json](./113721-bugdas.json) |
 | Bugdasu | 347301 | [347301-bugdasu.json](./347301-bugdasu.json) |
+| Bugdom | 50343 | [50343-bugdom.json](./50343-bugdom.json) |
 | Bugged | 195115 | [195115-bugged.json](./195115-bugged.json) |
 | Bugged Out | 266619 | [266619-bugged-out.json](./266619-bugged-out.json) |
 | Bugged Out | 391880 | [391880-bugged-out.json](./391880-bugged-out.json) |
