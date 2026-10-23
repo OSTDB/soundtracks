@@ -4687,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Damnation | 66350 | [66350-eternal-damnation.json](./66350-eternal-damnation.json) |
 | Eternal Dark Winter | 370859 | [370859-eternal-dark-winter.json](./370859-eternal-dark-winter.json) |
 | Eternal Decay Souls | 387493 | [387493-eternal-decay-souls.json](./387493-eternal-decay-souls.json) |
+| Eternal Destinies | 88056 | [88056-eternal-destinies.json](./88056-eternal-destinies.json) |
 | Eternal Destiny | 251215 | [251215-eternal-destiny.json](./251215-eternal-destiny.json) |
 | Eternal Diary | 212860 | [212860-eternal-diary.json](./212860-eternal-diary.json) |
 | Eternal Doom | 140521 | [140521-eternal-doom.json](./140521-eternal-doom.json) |
