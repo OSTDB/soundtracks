@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Miner | 231846 | [231846-mad-miner.json](./231846-mad-miner.json) |
 | Mad Miner 2 | 318982 | [318982-mad-miner-2.json](./318982-mad-miner-2.json) |
 | Mad Mix 2: El Castillo de los Fantasmas | 73468 | [73468-mad-mix-2-el-castillo-de-los-fantasmas.json](./73468-mad-mix-2-el-castillo-de-los-fantasmas.json) |
+| Mad Mix Game: The Pepsi Challenge | 69095 | [69095-mad-mix-game-the-pepsi-challenge.json](./69095-mad-mix-game-the-pepsi-challenge.json) |
 | Mad Moles | 58753 | [58753-mad-moles.json](./58753-mad-moles.json) |
 | Mad Mosh | 158091 | [158091-mad-mosh.json](./158091-mad-mosh.json) |
 | Mad Murder's Mystery Pie Shop | 196891 | [196891-mad-murders-mystery-pie-shop.json](./196891-mad-murders-mystery-pie-shop.json) |
@@ -4071,6 +4072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Epic | 62116 | [62116-master-of-epic.json](./62116-master-of-epic.json) |
 | Master of Gomoku | 102264 | [102264-master-of-gomoku.json](./102264-master-of-gomoku.json) |
 | Master of Illusion | 20770 | [20770-master-of-illusion.json](./20770-master-of-illusion.json) |
+| Master of Illusion Express: Deep Psyche | 69086 | [69086-master-of-illusion-express-deep-psyche.json](./69086-master-of-illusion-express-deep-psyche.json) |
 | Master of Illusion Express: Matchmaker | 84484 | [84484-master-of-illusion-express-matchmaker.json](./84484-master-of-illusion-express-matchmaker.json) |
 | Master of Illusion Express: Mind Probe | 85276 | [85276-master-of-illusion-express-mind-probe.json](./85276-master-of-illusion-express-mind-probe.json) |
 | Master of Illusion Express: Psychic Camera | 84483 | [84483-master-of-illusion-express-psychic-camera.json](./84483-master-of-illusion-express-psychic-camera.json) |
@@ -10411,6 +10413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
 | Minna de Noujiru! Warumono Nage-houdai! Ningen Medal Game | 358495 | [358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json](./358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json) |
 | Minna de Shitendo DS: Hanshichi Yuumon & Ango & Ago Juurou & Hatamoto Taikutsu Otoko | 269589 | [269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json](./269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json) |
+| Minna de Taisen Puzzle: Shanghai Wii | 69131 | [69131-minna-de-taisen-puzzle-shanghai-wii.json](./69131-minna-de-taisen-puzzle-shanghai-wii.json) |
 | Minna de Tobikome! Penguin Diving: Hooper Looper | 408866 | [408866-minna-de-tobikome-penguin-diving-hooper-looper.json](./408866-minna-de-tobikome-penguin-diving-hooper-looper.json) |
 | Minna de Uchuu Tour: ChariSou DX2 | 222318 | [222318-minna-de-uchuu-tour-charisou-dx2.json](./222318-minna-de-uchuu-tour-charisou-dx2.json) |
 | Minna no Doubutsuen | 69270 | [69270-minna-no-doubutsuen.json](./69270-minna-no-doubutsuen.json) |
