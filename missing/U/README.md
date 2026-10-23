@@ -2127,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uno | 81358 | [81358-uno.json](./81358-uno.json) |
 | Uno / Skip-Bo / Uno Freefall | 91430 | [91430-uno-skip-bo-uno-freefall.json](./91430-uno-skip-bo-uno-freefall.json) |
 | Uno 2 Go | 229062 | [229062-uno-2-go.json](./229062-uno-2-go.json) |
+| Uno 2: Small World | 61392 | [61392-uno-2-small-world.json](./61392-uno-2-small-world.json) |
 | Uno 52 | 47706 | [47706-uno-52.json](./47706-uno-52.json) |
 | Uno DX | 91956 | [91956-uno-dx.json](./91956-uno-dx.json) |
 | Uno Free Fall | 300352 | [300352-uno-free-fall.json](./300352-uno-free-fall.json) |
@@ -2137,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uno: Assassin's Creed Valhalla Theme Cards | 196679 | [196679-uno-assassins-creed-valhalla-theme-cards.json](./196679-uno-assassins-creed-valhalla-theme-cards.json) |
 | UNO: Legacy Edition | 315848 | [315848-uno-legacy-edition.json](./315848-uno-legacy-edition.json) |
 | Uno: Party! Mania | 323831 | [323831-uno-party-mania.json](./323831-uno-party-mania.json) |
+| Uno: Small World | 61393 | [61393-uno-small-world.json](./61393-uno-small-world.json) |
 | Uno: Winter Theme DLC | 153165 | [153165-uno-winter-theme-dlc.json](./153165-uno-winter-theme-dlc.json) |
 | UNO! Mobile | 142109 | [142109-uno-mobile.json](./142109-uno-mobile.json) |
 | Uno/Skip-Bo | 78905 | [78905-uno-skip-bo.json](./78905-uno-skip-bo.json) |
