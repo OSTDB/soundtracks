@@ -3256,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Cup II | 73690 | [73690-tennis-cup-ii.json](./73690-tennis-cup-ii.json) |
 | Tennis Dog: Ultimate Good Boy | 179982 | [179982-tennis-dog-ultimate-good-boy.json](./179982-tennis-dog-ultimate-good-boy.json) |
 | Tennis Elbow | 197896 | [197896-tennis-elbow.json](./197896-tennis-elbow.json) |
+| Tennis Elbow 2009 | 66515 | [66515-tennis-elbow-2009.json](./66515-tennis-elbow-2009.json) |
 | Tennis Elbow 2013 | 35830 | [35830-tennis-elbow-2013.json](./35830-tennis-elbow-2013.json) |
 | Tennis Elbow Manager | 31291 | [31291-tennis-elbow-manager.json](./31291-tennis-elbow-manager.json) |
 | Tennis Elbow Manager 2 | 99576 | [99576-tennis-elbow-manager-2.json](./99576-tennis-elbow-manager-2.json) |
@@ -7223,6 +7224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eyes of Dr Kautzmann | 219256 | [219256-the-eyes-of-dr-kautzmann.json](./219256-the-eyes-of-dr-kautzmann.json) |
 | The Eyes of Mars | 236217 | [236217-the-eyes-of-mars.json](./236217-the-eyes-of-mars.json) |
 | The F.A. Premier League Football Manager 2000 | 70974 | [70974-the-f-a-premier-league-football-manager-2000.json](./70974-the-f-a-premier-league-football-manager-2000.json) |
+| The F.A. Premier League Football Manager 2001 | 66505 | [66505-the-f-a-premier-league-football-manager-2001.json](./66505-the-f-a-premier-league-football-manager-2001.json) |
 | The F.A. Premier League Stars | 43790 | [43790-the-f-a-premier-league-stars.json](./43790-the-f-a-premier-league-stars.json) |
 | The Fable of a Rabbit | 156980 | [156980-the-fable-of-a-rabbit.json](./156980-the-fable-of-a-rabbit.json) |
 | The Fable of Fairy Glen | 355030 | [355030-the-fable-of-fairy-glen.json](./355030-the-fable-of-fairy-glen.json) |
@@ -11227,6 +11229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery Team | 42775 | [42775-the-mystery-team.json](./42775-the-mystery-team.json) |
 | The Mystery Workshop | 104457 | [104457-the-mystery-workshop.json](./104457-the-mystery-workshop.json) |
 | The Mystic | 161564 | [161564-the-mystic.json](./161564-the-mystic.json) |
+| The Mystic Dragoons | 66499 | [66499-the-mystic-dragoons.json](./66499-the-mystic-dragoons.json) |
 | The Mystic Fortune | 329063 | [329063-the-mystic-fortune.json](./329063-the-mystic-fortune.json) |
 | The Mystic Well | 232518 | [232518-the-mystic-well.json](./232518-the-mystic-well.json) |
 | The Mystical Traveler | 342735 | [342735-the-mystical-traveler.json](./342735-the-mystical-traveler.json) |
@@ -13857,6 +13860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Treasonous Tom | 207752 | [207752-the-tale-of-treasonous-tom.json](./207752-the-tale-of-treasonous-tom.json) |
 | The Tale of Two Nekos | 310201 | [310201-the-tale-of-two-nekos.json](./310201-the-tale-of-two-nekos.json) |
 | The Tales of Bayun | 200111 | [200111-the-tales-of-bayun.json](./200111-the-tales-of-bayun.json) |
+| The Tales of Bearsworth Manor: Chaotic Conflicts | 66513 | [66513-the-tales-of-bearsworth-manor-chaotic-conflicts.json](./66513-the-tales-of-bearsworth-manor-chaotic-conflicts.json) |
 | The Tales of Bearsworth Manor: Puzzling Pages | 85446 | [85446-the-tales-of-bearsworth-manor-puzzling-pages.json](./85446-the-tales-of-bearsworth-manor-puzzling-pages.json) |
 | The Tales of Bingwood: Chapter I - To Save a Princess | 113472 | [113472-the-tales-of-bingwood-chapter-i-to-save-a-princess.json](./113472-the-tales-of-bingwood-chapter-i-to-save-a-princess.json) |
 | The Tales of Epicton Kingdom | 120648 | [120648-the-tales-of-epicton-kingdom.json](./120648-the-tales-of-epicton-kingdom.json) |
@@ -20399,6 +20403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun: Combat Zones | 146784 | [146784-top-gun-combat-zones.json](./146784-top-gun-combat-zones.json) |
 | Top Gun: Combat Zones | 9236 | [9236-top-gun-combat-zones.json](./9236-top-gun-combat-zones.json) |
 | Top Gun: Fire At Will | 20129 | [20129-top-gun-fire-at-will.json](./20129-top-gun-fire-at-will.json) |
+| Top Gun: Firestorm | 66496 | [66496-top-gun-firestorm.json](./66496-top-gun-firestorm.json) |
 | Top Gun: Firestorm Advance | 49209 | [49209-top-gun-firestorm-advance.json](./49209-top-gun-firestorm-advance.json) |
 | Top Gun: Hard Lock | 22915 | [22915-top-gun-hard-lock.json](./22915-top-gun-hard-lock.json) |
 | Top Gun: Hornet's Nest | 22912 | [22912-top-gun-hornets-nest.json](./22912-top-gun-hornets-nest.json) |
