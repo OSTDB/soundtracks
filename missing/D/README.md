@@ -7493,6 +7493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Dearest | 408009 | [408009-dino-dearest.json](./408009-dino-dearest.json) |
 | Dino Delivery | 121581 | [121581-dino-delivery.json](./121581-dino-delivery.json) |
 | Dino Dini's Kick Off Revival | 19591 | [19591-dino-dinis-kick-off-revival.json](./19591-dino-dinis-kick-off-revival.json) |
+| Dino Dini's Soccer | 45747 | [45747-dino-dinis-soccer.json](./45747-dino-dinis-soccer.json) |
 | Dino Dino | 287770 | [287770-dino-dino.json](./287770-dino-dino.json) |
 | Dino Domination | 212428 | [212428-dino-domination.json](./212428-dino-domination.json) |
 | Dino Domino | 360022 | [360022-dino-domino.json](./360022-dino-domino.json) |
@@ -10677,6 +10678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon: Nobita's Resident Evil | 144660 | [144660-doraemon-nobitas-resident-evil.json](./144660-doraemon-nobitas-resident-evil.json) |
 | Doraemon: Nobita's Resident Evil 2 | 238417 | [238417-doraemon-nobitas-resident-evil-2.json](./238417-doraemon-nobitas-resident-evil-2.json) |
 | Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai | 60545 | [60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json](./60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json) |
+| Doraemon: Yume Dorobou to 7-nin no Gozans | 45730 | [45730-doraemon-yume-dorobou-to-7-nin-no-gozans.json](./45730-doraemon-yume-dorobou-to-7-nin-no-gozans.json) |
 | Doraijin | 129674 | [129674-doraijin.json](./129674-doraijin.json) |
 | DoraKone | 116849 | [116849-dorakone.json](./116849-dorakone.json) |
 | DoraMoji: Nobita no Kanji Daisakusen | 222467 | [222467-doramoji-nobita-no-kanji-daisakusen.json](./222467-doramoji-nobita-no-kanji-daisakusen.json) |
@@ -12032,6 +12034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Tales: Learn & Fly With Dragons | 72127 | [72127-dragon-tales-learn-and-fly-with-dragons.json](./72127-dragon-tales-learn-and-fly-with-dragons.json) |
 | Dragon Tavern | 62715 | [62715-dragon-tavern.json](./62715-dragon-tavern.json) |
 | Dragon Tax Return Simulator 2015 | 182973 | [182973-dragon-tax-return-simulator-2015.json](./182973-dragon-tax-return-simulator-2015.json) |
+| Dragon Throne: Battle of Red Cliffs | 45739 | [45739-dragon-throne-battle-of-red-cliffs.json](./45739-dragon-throne-battle-of-red-cliffs.json) |
 | Dragon Title | 295804 | [295804-dragon-title.json](./295804-dragon-title.json) |
 | Dragon Tower | 267292 | [267292-dragon-tower.json](./267292-dragon-tower.json) |
 | Dragon Trail: Hunter World | 212501 | [212501-dragon-trail-hunter-world.json](./212501-dragon-trail-hunter-world.json) |
