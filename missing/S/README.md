@@ -5098,6 +5098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seybul Tech | 264634 | [264634-seybul-tech.json](./264634-seybul-tech.json) |
 | Seymour - Take One! | 142435 | [142435-seymour-take-one.json](./142435-seymour-take-one.json) |
 | Seymour Goes to Hollywood | 18572 | [18572-seymour-goes-to-hollywood.json](./18572-seymour-goes-to-hollywood.json) |
+| SF: Onee-san Teacher | 83371 | [83371-sf-onee-san-teacher.json](./83371-sf-onee-san-teacher.json) |
 | Sf3ra | 362193 | [362193-sf3ra.json](./362193-sf3ra.json) |
 | Sfare: Relax your mind | 184130 | [184130-sfare-relax-your-mind.json](./184130-sfare-relax-your-mind.json) |
 | SFCave | 87233 | [87233-sfcave.json](./87233-sfcave.json) |
@@ -9760,6 +9761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skunny's Desert Raid | 71045 | [71045-skunnys-desert-raid.json](./71045-skunnys-desert-raid.json) |
 | Skwampt | 229752 | [229752-skwampt.json](./229752-skwampt.json) |
 | Skwish | 212294 | [212294-skwish.json](./212294-skwish.json) |
+| Sky & Heart Last Survival | 83342 | [83342-sky-and-heart-last-survival.json](./83342-sky-and-heart-last-survival.json) |
 | Sky 2120 | 408216 | [408216-sky-2120.json](./408216-sky-2120.json) |
 | Sky Aces | 343990 | [343990-sky-aces.json](./343990-sky-aces.json) |
 | Sky Aces | 54365 | [54365-sky-aces.json](./54365-sky-aces.json) |
@@ -11520,6 +11522,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Storm | 185330 | [185330-snail-storm.json](./185330-snail-storm.json) |
 | Snail Story: Love Edition | 193500 | [193500-snail-story-love-edition.json](./193500-snail-story-love-edition.json) |
 | Snail Trainer | 282541 | [282541-snail-trainer.json](./282541-snail-trainer.json) |
+| Snail Trek: Chapter 1 - Intershellar | 83336 | [83336-snail-trek-chapter-1-intershellar.json](./83336-snail-trek-chapter-1-intershellar.json) |
+| Snail Trek: Chapter 2 - A Snail of Two Worlds | 83337 | [83337-snail-trek-chapter-2-a-snail-of-two-worlds.json](./83337-snail-trek-chapter-2-a-snail-of-two-worlds.json) |
 | Snail Trek: Chapter 3 - Lettuce Be | 81675 | [81675-snail-trek-chapter-3-lettuce-be.json](./81675-snail-trek-chapter-3-lettuce-be.json) |
 | Snail Trek: Chapter 4 - The Final Fondue | 89664 | [89664-snail-trek-chapter-4-the-final-fondue.json](./89664-snail-trek-chapter-4-the-final-fondue.json) |
 | Snail wisdom simulator 2017 | 183922 | [183922-snail-wisdom-simulator-2017.json](./183922-snail-wisdom-simulator-2017.json) |
@@ -17747,6 +17751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport Freaks | 45906 | [45906-sport-freaks.json](./45906-sport-freaks.json) |
 | Sport Games | 45603 | [45603-sport-games.json](./45603-sport-games.json) |
 | Sport Girls | 157187 | [157187-sport-girls.json](./157187-sport-girls.json) |
+| Sport of Kings | 83384 | [83384-sport-of-kings.json](./83384-sport-of-kings.json) |
 | Sport Shooter | 157411 | [157411-sport-shooter.json](./157411-sport-shooter.json) |
 | Sport Shooter: The Eight Galleries | 360914 | [360914-sport-shooter-the-eight-galleries.json](./360914-sport-shooter-the-eight-galleries.json) |
 | Sport Sport | 92893 | [92893-sport-sport.json](./92893-sport-sport.json) |
@@ -22277,6 +22282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strife of Cosmos | 194345 | [194345-strife-of-cosmos.json](./194345-strife-of-cosmos.json) |
 | Strife: Veteran Edition | 147967 | [147967-strife-veteran-edition.json](./147967-strife-veteran-edition.json) |
 | Strifeshadow | 93456 | [93456-strifeshadow.json](./93456-strifeshadow.json) |
+| Strike | 83383 | [83383-strike.json](./83383-strike.json) |
 | Strike & Resist | 346635 | [346635-strike-and-resist.json](./346635-strike-and-resist.json) |
 | Strike at Night | 349835 | [349835-strike-at-night.json](./349835-strike-at-night.json) |
 | Strike Back | 279097 | [279097-strike-back.json](./279097-strike-back.json) |
