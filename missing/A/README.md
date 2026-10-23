@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Frail Qubit | 192722 | [192722-a-frail-qubit.json](./192722-a-frail-qubit.json) |
 | A Frantic Santa Situation | 239623 | [239623-a-frantic-santa-situation.json](./239623-a-frantic-santa-situation.json) |
 | A Friday Night Real Music Funkin Game | 325105 | [325105-a-friday-night-real-music-funkin-game.json](./325105-a-friday-night-real-music-funkin-game.json) |
+| A Frog Game | 67066 | [67066-a-frog-game.json](./67066-a-frog-game.json) |
 | A Frog in a Well | 337798 | [337798-a-frog-in-a-well.json](./337798-a-frog-in-a-well.json) |
 | A Frog's Job | 211397 | [211397-a-frogs-job.json](./211397-a-frogs-job.json) |
 | A Frog's Job 2: Froggina | 400419 | [400419-a-frogs-job-2-froggina.json](./400419-a-frogs-job-2-froggina.json) |
@@ -1366,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abacus Finch | 143967 | [143967-abacus-finch.json](./143967-abacus-finch.json) |
 | Abaddon | 305287 | [305287-abaddon.json](./305287-abaddon.json) |
 | Abaddon | 376840 | [376840-abaddon.json](./376840-abaddon.json) |
+| Abaddon | 67097 | [67097-abaddon.json](./67097-abaddon.json) |
 | Abaddon's Veil | 255600 | [255600-abaddons-veil.json](./255600-abaddons-veil.json) |
 | Abadox: The Deadly Inner War | 7903 | [7903-abadox-the-deadly-inner-war.json](./7903-abadox-the-deadly-inner-war.json) |
 | AbalaBurn | 43819 | [43819-abalaburn.json](./43819-abalaburn.json) |
@@ -4217,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air-Sea Battle | 11859 | [11859-air-sea-battle.json](./11859-air-sea-battle.json) |
 | Air&Hook | 372643 | [372643-air-and-hook.json](./372643-air-and-hook.json) |
 | Aira VR | 113673 | [113673-aira-vr.json](./113673-aira-vr.json) |
+| AiRace | 67079 | [67079-airace.json](./67079-airace.json) |
 | AiRace Speed | 8629 | [8629-airace-speed.json](./8629-airace-speed.json) |
 | AiRace: Tunnel | 67055 | [67055-airace-tunnel.json](./67055-airace-tunnel.json) |
 | Airaki! | 61557 | [61557-airaki.json](./61557-airaki.json) |
@@ -8507,6 +8510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anpanman to Touch de Waku-waku Training | 71032 | [71032-anpanman-to-touch-de-waku-waku-training.json](./71032-anpanman-to-touch-de-waku-waku-training.json) |
 | Anpanman Touch de Enjoy! AIUEO Kyoushitsu for Nintendo Switch | 381265 | [381265-anpanman-touch-de-enjoy-aiueo-kyoushitsu-for-nintendo-switch.json](./381265-anpanman-touch-de-enjoy-aiueo-kyoushitsu-for-nintendo-switch.json) |
 | Anpfiff: Der RTL Fussball-Manager | 81449 | [81449-anpfiff-der-rtl-fussball-manager.json](./81449-anpfiff-der-rtl-fussball-manager.json) |
+| Anrufen Online | 67058 | [67058-anrufen-online.json](./67058-anrufen-online.json) |
 | Ansatsu Kyoshitsu: Assassin Ikusei Keikaku!! | 59326 | [59326-ansatsu-kyoshitsu-assassin-ikusei-keikaku.json](./59326-ansatsu-kyoshitsu-assassin-ikusei-keikaku.json) |
 | Anseion | 245810 | [245810-anseion.json](./245810-anseion.json) |
 | AnShi | 132740 | [132740-anshi.json](./132740-anshi.json) |
