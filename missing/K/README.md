@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabuki-Z | 146076 | [146076-kabuki-z.json](./146076-kabuki-z.json) |
 | Kabuki: Quantum Fighter | 27623 | [27623-kabuki-quantum-fighter.json](./27623-kabuki-quantum-fighter.json) |
 | Kabukicho Story | 142806 | [142806-kabukicho-story.json](./142806-kabukicho-story.json) |
+| Kabus 22 | 63091 | [63091-kabus-22.json](./63091-kabus-22.json) |
 | Kabushiki Baibai Trainer Kabutore | 72977 | [72977-kabushiki-baibai-trainer-kabutore.json](./72977-kabushiki-baibai-trainer-kabutore.json) |
 | Kabuto | 239776 | [239776-kabuto.json](./239776-kabuto.json) |
 | Kabuto Kuwagata | 242093 | [242093-kabuto-kuwagata.json](./242093-kabuto-kuwagata.json) |
@@ -2082,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Motive | 148330 | [148330-killer-motive.json](./148330-killer-motive.json) |
 | Killer of Kings | 397941 | [397941-killer-of-kings.json](./397941-killer-of-kings.json) |
 | Killer Pool | 175279 | [175279-killer-pool.json](./175279-killer-pool.json) |
+| Killer Queen | 63050 | [63050-killer-queen.json](./63050-killer-queen.json) |
 | Killer Satellites | 18570 | [18570-killer-satellites.json](./18570-killer-satellites.json) |
 | Killer Score | 83160 | [83160-killer-score.json](./83160-killer-score.json) |
 | Killer Shark | 18203 | [18203-killer-shark.json](./18203-killer-shark.json) |
@@ -2207,7 +2209,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -4876,7 +4877,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuroinu 2 Redux | 262080 | [262080-kuroinu-2-redux.json](./262080-kuroinu-2-redux.json) |
 | Kuroinu Redux | 244746 | [244746-kuroinu-redux.json](./244746-kuroinu-redux.json) |
 | Kuroki run! | 184927 | [184927-kuroki-run.json](./184927-kuroki-run.json) |
+| Kuroko no Basket: Kiseki no Game | 63055 | [63055-kuroko-no-basket-kiseki-no-game.json](./63055-kuroko-no-basket-kiseki-no-game.json) |
 | Kuroko no Basket: Mirai he no Kizuna | 60492 | [60492-kuroko-no-basket-mirai-he-no-kizuna.json](./60492-kuroko-no-basket-mirai-he-no-kizuna.json) |
+| Kuroko no Basket: Shouri he no Kiseki | 63054 | [63054-kuroko-no-basket-shouri-he-no-kiseki.json](./63054-kuroko-no-basket-shouri-he-no-kiseki.json) |
 | Kuromaku | 391323 | [391323-kuromaku.json](./391323-kuromaku.json) |
 | Kurone's Feelings: Apprentice Witch of Starfall Village | 371126 | [371126-kurones-feelings-apprentice-witch-of-starfall-village.json](./371126-kurones-feelings-apprentice-witch-of-starfall-village.json) |
 | Kuroneko-sou Souzoku Satsujin Jiken | 222910 | [222910-kuroneko-sou-souzoku-satsujin-jiken.json](./222910-kuroneko-sou-souzoku-satsujin-jiken.json) |
