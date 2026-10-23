@@ -6063,6 +6063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringlorn Saga Gaiden | 240753 | [240753-ringlorn-saga-gaiden.json](./240753-ringlorn-saga-gaiden.json) |
 | Ringo Sour | 98032 | [98032-ringo-sour.json](./98032-ringo-sour.json) |
 | Ringo's Roundup | 292278 | [292278-ringos-roundup.json](./292278-ringos-roundup.json) |
+| Ringognir 2 | 63737 | [63737-ringognir-2.json](./63737-ringognir-2.json) |
 | Ringognir 3 | 68336 | [68336-ringognir-3.json](./68336-ringognir-3.json) |
 | RingoWord | 241335 | [241335-ringoword.json](./241335-ringoword.json) |
 | RingRacer | 193252 | [193252-ringracer.json](./193252-ringracer.json) |
