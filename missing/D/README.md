@@ -5024,6 +5024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Plant | 270710 | [270710-demolition-plant.json](./270710-demolition-plant.json) |
 | Demolition Race | 192974 | [192974-demolition-race.json](./192974-demolition-race.json) |
 | Demolition Racer | 43940 | [43940-demolition-racer.json](./43940-demolition-racer.json) |
+| Demolition Racer: No Exit | 46376 | [46376-demolition-racer-no-exit.json](./46376-demolition-racer-no-exit.json) |
 | Demolition Robots K.K. | 111545 | [111545-demolition-robots-k-k.json](./111545-demolition-robots-k-k.json) |
 | Demomen Ltd. | 236163 | [236163-demomen-ltd.json](./236163-demomen-ltd.json) |
 | Demon Alive | 323526 | [323526-demon-alive.json](./323526-demon-alive.json) |
