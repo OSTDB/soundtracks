@@ -7057,6 +7057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Delivery Simulator | 316420 | [316420-food-delivery-simulator.json](./316420-food-delivery-simulator.json) |
 | Food Devils | 301330 | [301330-food-devils.json](./301330-food-devils.json) |
 | Food Diary | 201625 | [201625-food-diary.json](./201625-food-diary.json) |
+| Food Dream Factory | 98752 | [98752-food-dream-factory.json](./98752-food-dream-factory.json) |
 | Food Drive | 109721 | [109721-food-drive.json](./109721-food-drive.json) |
 | Food Dude | 242385 | [242385-food-dude.json](./242385-food-dude.json) |
 | Food Empire | 216743 | [216743-food-empire.json](./216743-food-empire.json) |
@@ -9103,6 +9104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Isn't Free | 130119 | [130119-freedom-isnt-free.json](./130119-freedom-isnt-free.json) |
 | Freedom Locomotion VR | 29651 | [29651-freedom-locomotion-vr.json](./29651-freedom-locomotion-vr.json) |
 | Freedom Maker | 327825 | [327825-freedom-maker.json](./327825-freedom-maker.json) |
+| Freedom March: Rebel Leader | 98758 | [98758-freedom-march-rebel-leader.json](./98758-freedom-march-rebel-leader.json) |
 | Freedom Physics | 169354 | [169354-freedom-physics.json](./169354-freedom-physics.json) |
 | Freedom Planet | 7116 | [7116-freedom-planet.json](./7116-freedom-planet.json) |
 | Freedom Planet 1+2 Bundle | 295696 | [295696-freedom-planet-1-2-bundle.json](./295696-freedom-planet-1-2-bundle.json) |
