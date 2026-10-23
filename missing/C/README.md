@@ -5035,6 +5035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheese Killer | 159743 | [159743-cheese-killer.json](./159743-cheese-killer.json) |
 | Cheese Maze | 97691 | [97691-cheese-maze.json](./97691-cheese-maze.json) |
 | Cheese Moon | 293551 | [293551-cheese-moon.json](./293551-cheese-moon.json) |
+| Cheese Please | 65332 | [65332-cheese-please.json](./65332-cheese-please.json) |
 | Cheese Quest 3D: The Brother Lady Saga | 234896 | [234896-cheese-quest-3d-the-brother-lady-saga.json](./234896-cheese-quest-3d-the-brother-lady-saga.json) |
 | Cheese Rolling | 362406 | [362406-cheese-rolling.json](./362406-cheese-rolling.json) |
 | Cheese Runner | 209474 | [209474-cheese-runner.json](./209474-cheese-runner.json) |
@@ -6696,6 +6697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck Bonesteel & the Alien Apocalypse | 392143 | [392143-chuck-bonesteel-and-the-alien-apocalypse.json](./392143-chuck-bonesteel-and-the-alien-apocalypse.json) |
 | Chuck E. Cheese: Skate Universe | 202819 | [202819-chuck-e-cheese-skate-universe.json](./202819-chuck-e-cheese-skate-universe.json) |
 | Chuck E. Cheese's Alien Defense Force | 55890 | [55890-chuck-e-cheeses-alien-defense-force.json](./55890-chuck-e-cheeses-alien-defense-force.json) |
+| Chuck E. Cheese's Arcade Room | 65324 | [65324-chuck-e-cheeses-arcade-room.json](./65324-chuck-e-cheeses-arcade-room.json) |
 | Chuck E. Cheese's Gameroom | 55902 | [55902-chuck-e-cheeses-gameroom.json](./55902-chuck-e-cheeses-gameroom.json) |
 | Chuck E. Cheese's Playhouse | 55904 | [55904-chuck-e-cheeses-playhouse.json](./55904-chuck-e-cheeses-playhouse.json) |
 | Chuck E. Cheese's Racing World | 103522 | [103522-chuck-e-cheeses-racing-world.json](./103522-chuck-e-cheeses-racing-world.json) |
@@ -11857,6 +11859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Strike | 230740 | [230740-cosmic-strike.json](./230740-cosmic-strike.json) |
 | Cosmic Strike: The Last Sub Sector | 205667 | [205667-cosmic-strike-the-last-sub-sector.json](./205667-cosmic-strike-the-last-sub-sector.json) |
 | Cosmic Sugar VR | 30428 | [30428-cosmic-sugar-vr.json](./30428-cosmic-sugar-vr.json) |
+| Cosmic Supremacy | 65355 | [65355-cosmic-supremacy.json](./65355-cosmic-supremacy.json) |
 | Cosmic Survivor | 261980 | [261980-cosmic-survivor.json](./261980-cosmic-survivor.json) |
 | Cosmic Swarm | 18535 | [18535-cosmic-swarm.json](./18535-cosmic-swarm.json) |
 | Cosmic Swarm | 380090 | [380090-cosmic-swarm.json](./380090-cosmic-swarm.json) |
@@ -13565,6 +13568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Code | 96022 | [96022-crime-code.json](./96022-crime-code.json) |
 | Crime Corporation | 174829 | [174829-crime-corporation.json](./174829-crime-corporation.json) |
 | Crime Cracker | 223348 | [223348-crime-cracker.json](./223348-crime-cracker.json) |
+| Crime Crackers 2 | 65344 | [65344-crime-crackers-2.json](./65344-crime-crackers-2.json) |
 | Crime District | 165699 | [165699-crime-district.json](./165699-crime-district.json) |
 | Crime Fighter 3 Pack | 131286 | [131286-crime-fighter-3-pack.json](./131286-crime-fighter-3-pack.json) |
 | Crime Fighters | 75525 | [75525-crime-fighters.json](./75525-crime-fighters.json) |
