@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janken Disk Shiro | 41368 | [41368-janken-disk-shiro.json](./41368-janken-disk-shiro.json) |
 | Janken Horn | 326175 | [326175-janken-horn.json](./326175-janken-horn.json) |
 | Janken Man | 231494 | [231494-janken-man.json](./231494-janken-man.json) |
+| Janken Party Paradise | 59192 | [59192-janken-party-paradise.json](./59192-janken-party-paradise.json) |
 | Janken Samurai | 235252 | [235252-janken-samurai.json](./235252-janken-samurai.json) |
 | Janken Shogi | 216223 | [216223-janken-shogi.json](./216223-janken-shogi.json) |
 | JankenSoko | 401923 | [401923-jankensoko.json](./401923-jankensoko.json) |
