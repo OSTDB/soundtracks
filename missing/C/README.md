@@ -14571,6 +14571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt Stalker: Ultimate Edition | 306522 | [306522-crypt-stalker-ultimate-edition.json](./306522-crypt-stalker-ultimate-edition.json) |
 | Crypt Sweeper | 381973 | [381973-crypt-sweeper.json](./381973-crypt-sweeper.json) |
 | Crypt Underworld | 109072 | [109072-crypt-underworld.json](./109072-crypt-underworld.json) |
+| Crypt Worlds | 63063 | [63063-crypt-worlds.json](./63063-crypt-worlds.json) |
 | Crypt-Oink Racing Friends | 130823 | [130823-crypt-oink-racing-friends.json](./130823-crypt-oink-racing-friends.json) |
 | Crypt: The Black Tower | 84059 | [84059-crypt-the-black-tower.json](./84059-crypt-the-black-tower.json) |
 | Cryptage | 333114 | [333114-cryptage.json](./333114-cryptage.json) |
@@ -15676,6 +15677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curve Digital Triple Features - Action Pack | 99806 | [99806-curve-digital-triple-features-action-pack.json](./99806-curve-digital-triple-features-action-pack.json) |
 | Curve Digital Triple Features - Adventure Pack | 99805 | [99805-curve-digital-triple-features-adventure-pack.json](./99805-curve-digital-triple-features-adventure-pack.json) |
 | Curve Fever | 63259 | [63259-curve-fever.json](./63259-curve-fever.json) |
+| Curve Fever 2 | 63080 | [63080-curve-fever-2.json](./63080-curve-fever-2.json) |
 | Curve Racer | 147616 | [147616-curve-racer.json](./147616-curve-racer.json) |
 | Curveball | 96590 | [96590-curveball.json](./96590-curveball.json) |
 | Curved Space | 137680 | [137680-curved-space.json](./137680-curved-space.json) |
