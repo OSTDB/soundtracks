@@ -2801,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Them To Safety | 374053 | [374053-get-them-to-safety.json](./374053-get-them-to-safety.json) |
 | Get Tilted! :) | 304819 | [304819-get-tilted.json](./304819-get-tilted.json) |
 | Get to a Gun | 110511 | [110511-get-to-a-gun.json](./110511-get-to-a-gun.json) |
+| Get to Amkonius | 74185 | [74185-get-to-amkonius.json](./74185-get-to-amkonius.json) |
 | Get to tha Choppa!!1 | 97450 | [97450-get-to-tha-choppa-1.json](./97450-get-to-tha-choppa-1.json) |
 | Get to the Chopper 3D | 416160 | [416160-get-to-the-chopper-3d.json](./416160-get-to-the-chopper-3d.json) |
 | Get to the Gate | 235692 | [235692-get-to-the-gate.json](./235692-get-to-the-gate.json) |
@@ -4616,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Eater: Off Shot - Twin Pack Vol. 5 | 148159 | [148159-god-eater-off-shot-twin-pack-vol-5.json](./148159-god-eater-off-shot-twin-pack-vol-5.json) |
 | God Eater: Off Shot - Twin Pack Vol. 6 | 216268 | [216268-god-eater-off-shot-twin-pack-vol-6.json](./216268-god-eater-off-shot-twin-pack-vol-6.json) |
 | God Eater: Off Shot - Twin Pack Vol. 7 | 216269 | [216269-god-eater-off-shot-twin-pack-vol-7.json](./216269-god-eater-off-shot-twin-pack-vol-7.json) |
+| God Eater: Resonant Ops | 74176 | [74176-god-eater-resonant-ops.json](./74176-god-eater-resonant-ops.json) |
 | GoD Factory: Wingmen | 12514 | [12514-god-factory-wingmen.json](./12514-god-factory-wingmen.json) |
 | God Fishing | 358872 | [358872-god-fishing.json](./358872-god-fishing.json) |
 | God For A Day | 277267 | [277267-god-for-a-day.json](./277267-god-for-a-day.json) |
@@ -5170,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf | 358832 | [358832-golf.json](./358832-golf.json) |
 | Golf | 372204 | [372204-golf.json](./372204-golf.json) |
 | Golf | 86354 | [86354-golf.json](./86354-golf.json) |
+| Golf 2D | 74208 | [74208-golf-2d.json](./74208-golf-2d.json) |
 | Golf 5 eClub | 194227 | [194227-golf-5-eclub.json](./194227-golf-5-eclub.json) |
 | Golf 5 Max | 394096 | [394096-golf-5-max.json](./394096-golf-5-max.json) |
 | Golf a Guy! | 199332 | [199332-golf-a-guy.json](./199332-golf-a-guy.json) |
