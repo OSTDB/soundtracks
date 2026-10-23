@@ -4308,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | beatmania Club MIX | 92673 | [92673-beatmania-club-mix.json](./92673-beatmania-club-mix.json) |
 | beatmania complete MIX | 94744 | [94744-beatmania-complete-mix.json](./94744-beatmania-complete-mix.json) |
 | beatmania complete MIX 2 | 92674 | [92674-beatmania-complete-mix-2.json](./92674-beatmania-complete-mix-2.json) |
+| Beatmania Core Remix | 97183 | [97183-beatmania-core-remix.json](./97183-beatmania-core-remix.json) |
 | beatmania DA!! | 134407 | [134407-beatmania-da.json](./134407-beatmania-da.json) |
 | Beatmania featuring Dreams Come True | 308989 | [308989-beatmania-featuring-dreams-come-true.json](./308989-beatmania-featuring-dreams-come-true.json) |
 | Beatmania for WonderSwan | 135089 | [135089-beatmania-for-wonderswan.json](./135089-beatmania-for-wonderswan.json) |
@@ -5217,6 +5218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Friends: Dogs & Cats | 49276 | [49276-best-friends-dogs-and-cats.json](./49276-best-friends-dogs-and-cats.json) |
 | Best Friends: My Horse | 49229 | [49229-best-friends-my-horse.json](./49229-best-friends-my-horse.json) |
 | Best Friends: My Horse 3D | 84983 | [84983-best-friends-my-horse-3d.json](./84983-best-friends-my-horse-3d.json) |
+| Best Game EU | 97194 | [97194-best-game-eu.json](./97194-best-game-eu.json) |
 | Best Garden | 135238 | [135238-best-garden.json](./135238-best-garden.json) |
 | Best Gopher Ever | 392746 | [392746-best-gopher-ever.json](./392746-best-gopher-ever.json) |
 | Best Guess Live | 381909 | [381909-best-guess-live.json](./381909-best-guess-live.json) |
@@ -5668,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bible Touchdown | 92614 | [92614-bible-touchdown.json](./92614-bible-touchdown.json) |
 | Bible Trivia | 278164 | [278164-bible-trivia.json](./278164-bible-trivia.json) |
 | Bible Trivia | 77011 | [77011-bible-trivia.json](./77011-bible-trivia.json) |
+| Bible Trivia Extreme | 97197 | [97197-bible-trivia-extreme.json](./97197-bible-trivia-extreme.json) |
 | Bible Trivia Jumble | 100687 | [100687-bible-trivia-jumble.json](./100687-bible-trivia-jumble.json) |
 | Bible Verse Challenge | 317848 | [317848-bible-verse-challenge.json](./317848-bible-verse-challenge.json) |
 | Bible Word Puzzle | 103547 | [103547-bible-word-puzzle.json](./103547-bible-word-puzzle.json) |
@@ -11788,6 +11791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Sky | 168717 | [168717-break-sky.json](./168717-break-sky.json) |
 | Break Space: Out of Bounds | 158694 | [158694-break-space-out-of-bounds.json](./158694-break-space-out-of-bounds.json) |
 | Break Street | 25783 | [25783-break-street.json](./25783-break-street.json) |
+| Break Stuff With Coins | 97204 | [97204-break-stuff-with-coins.json](./97204-break-stuff-with-coins.json) |
 | Break Tactics | 85516 | [85516-break-tactics.json](./85516-break-tactics.json) |
 | Break the Balloons: Ghost Town | 252151 | [252151-break-the-balloons-ghost-town.json](./252151-break-the-balloons-ghost-town.json) |
 | Break the Block | 384279 | [384279-break-the-block.json](./384279-break-the-block.json) |
@@ -11812,6 +11816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Time! | 29813 | [29813-break-time.json](./29813-break-time.json) |
 | Break Ultimate | 241614 | [241614-break-ultimate.json](./241614-break-ultimate.json) |
 | Break Up | 245545 | [245545-break-up.json](./245545-break-up.json) |
+| Break Wall 8bit | 97170 | [97170-break-wall-8bit.json](./97170-break-wall-8bit.json) |
 | Break Wolf | 320239 | [320239-break-wolf.json](./320239-break-wolf.json) |
 | Break-It | 339689 | [339689-break-it.json](./339689-break-it.json) |
 | Break.Up | 326288 | [326288-break-up.json](./326288-break-up.json) |
@@ -12106,6 +12111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brickdown | 184741 | [184741-brickdown.json](./184741-brickdown.json) |
 | Brickerang | 413591 | [413591-brickerang.json](./413591-brickerang.json) |
 | BrickFall: Fun Game of Bricks | 97213 | [97213-brickfall-fun-game-of-bricks.json](./97213-brickfall-fun-game-of-bricks.json) |
+| Brickfest | 97192 | [97192-brickfest.json](./97192-brickfest.json) |
 | BrickForce | 18991 | [18991-brickforce.json](./18991-brickforce.json) |
 | Brickhaven | 273380 | [273380-brickhaven.json](./273380-brickhaven.json) |
 | Brickle | 336321 | [336321-brickle.json](./336321-brickle.json) |
@@ -12323,6 +12329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brink of Consciousness: The Lonely Hearts Murders | 17918 | [17918-brink-of-consciousness-the-lonely-hearts-murders.json](./17918-brink-of-consciousness-the-lonely-hearts-murders.json) |
 | Brink of War | 310250 | [310250-brink-of-war.json](./310250-brink-of-war.json) |
 | Brink Traveler | 168681 | [168681-brink-traveler.json](./168681-brink-traveler.json) |
+| Brink: Agent of Change | 97093 | [97093-brink-agent-of-change.json](./97093-brink-agent-of-change.json) |
 | Brink: Agents of Change | 164366 | [164366-brink-agents-of-change.json](./164366-brink-agents-of-change.json) |
 | Brinkmanship | 133666 | [133666-brinkmanship.json](./133666-brinkmanship.json) |
 | Brinquemática: Aventura Pirata | 290099 | [290099-brinquematica-aventura-pirata.json](./290099-brinquematica-aventura-pirata.json) |
