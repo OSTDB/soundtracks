@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Most Wanted 5-1-0 | 121504 | [121504-need-for-speed-most-wanted-5-1-0.json](./121504-need-for-speed-most-wanted-5-1-0.json) |
 | Need for Speed: Nitro | 103 | [103-need-for-speed-nitro.json](./103-need-for-speed-nitro.json) |
 | Need for Speed: Nitro | 248127 | [248127-need-for-speed-nitro.json](./248127-need-for-speed-nitro.json) |
+| Need for Speed: Nitro-X | 84701 | [84701-need-for-speed-nitro-x.json](./84701-need-for-speed-nitro-x.json) |
 | Need for Speed: Porsche Unleashed | 248143 | [248143-need-for-speed-porsche-unleashed.json](./248143-need-for-speed-porsche-unleashed.json) |
 | Need for Speed: Porsche Unleashed | 94 | [94-need-for-speed-porsche-unleashed.json](./94-need-for-speed-porsche-unleashed.json) |
 | Need for Speed: ProStreet | 210431 | [210431-need-for-speed-prostreet.json](./210431-need-for-speed-prostreet.json) |
@@ -2810,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newton Going Home | 187388 | [187388-newton-going-home.json](./187388-newton-going-home.json) |
 | Newton Museum - Kyouryuu Nendaiki Zenpen | 63961 | [63961-newton-museum-kyouryuu-nendaiki-zenpen.json](./63961-newton-museum-kyouryuu-nendaiki-zenpen.json) |
 | Newton Museum: Kyouryuu Nendaiki Kouhen | 63960 | [63960-newton-museum-kyouryuu-nendaiki-kouhen.json](./63960-newton-museum-kyouryuu-nendaiki-kouhen.json) |
+| Newton vs. The Horde | 84698 | [84698-newton-vs-the-horde.json](./84698-newton-vs-the-horde.json) |
 | Newton's Axiom | 178975 | [178975-newtons-axiom.json](./178975-newtons-axiom.json) |
 | Newton's Cradle Puzzle Game | 147713 | [147713-newtons-cradle-puzzle-game.json](./147713-newtons-cradle-puzzle-game.json) |
 | Newton's Fourth Law | 328859 | [328859-newtons-fourth-law.json](./328859-newtons-fourth-law.json) |
