@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Encyclopedia: Illusions | 99383 | [99383-magic-encyclopedia-illusions.json](./99383-magic-encyclopedia-illusions.json) |
 | Magic Escape | 273468 | [273468-magic-escape.json](./273468-magic-escape.json) |
 | Magic Factory | 115047 | [115047-magic-factory.json](./115047-magic-factory.json) |
+| Magic Fairies Flower Kingdom | 54174 | [54174-magic-fairies-flower-kingdom.json](./54174-magic-fairies-flower-kingdom.json) |
 | Magic Fairy Tales: Barbie as Rapunzel | 19401 | [19401-magic-fairy-tales-barbie-as-rapunzel.json](./19401-magic-fairy-tales-barbie-as-rapunzel.json) |
 | Magic Fantasy | 232894 | [232894-magic-fantasy.json](./232894-magic-fantasy.json) |
 | Magic Farm | 298707 | [298707-magic-farm.json](./298707-magic-farm.json) |
@@ -970,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Math | 299266 | [299266-magic-math.json](./299266-magic-math.json) |
 | Magic Maycabs | 85913 | [85913-magic-maycabs.json](./85913-magic-maycabs.json) |
 | Magic Maze | 337598 | [337598-magic-maze.json](./337598-magic-maze.json) |
+| Magic Maze | 54173 | [54173-magic-maze.json](./54173-magic-maze.json) |
 | Magic Memory Match Free | 232049 | [232049-magic-memory-match-free.json](./232049-magic-memory-match-free.json) |
 | Magic Mermaid | 89201 | [89201-magic-mermaid.json](./89201-magic-mermaid.json) |
 | Magic Micro Mission | 73532 | [73532-magic-micro-mission.json](./73532-magic-micro-mission.json) |
@@ -1039,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Shot | 18235 | [18235-magic-shot.json](./18235-magic-shot.json) |
 | Magic Siege | 75783 | [75783-magic-siege.json](./75783-magic-siege.json) |
 | Magic Snake II | 71517 | [71517-magic-snake-ii.json](./71517-magic-snake-ii.json) |
+| Magic Solitaire | 54172 | [54172-magic-solitaire.json](./54172-magic-solitaire.json) |
 | Magic Star | 306659 | [306659-magic-star.json](./306659-magic-star.json) |
 | Magic Stone Knights | 251441 | [251441-magic-stone-knights.json](./251441-magic-stone-knights.json) |
 | Magic Storm | 310808 | [310808-magic-storm.json](./310808-magic-storm.json) |
@@ -4363,6 +4366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match: Isekai Journey | 417613 | [417613-match-isekai-journey.json](./417613-match-isekai-journey.json) |
 | Match! The 12 CZ Wars | 372064 | [372064-match-the-12-cz-wars.json](./372064-match-the-12-cz-wars.json) |
 | Matcha | 211159 | [211159-matcha.json](./211159-matcha.json) |
+| Matchball Tennis | 54207 | [54207-matchball-tennis.json](./54207-matchball-tennis.json) |
 | Matchblocks | 74741 | [74741-matchblocks.json](./74741-matchblocks.json) |
 | Matchbox Caterpillar Construction Zone 2: Gold Mining | 208789 | [208789-matchbox-caterpillar-construction-zone-2-gold-mining.json](./208789-matchbox-caterpillar-construction-zone-2-gold-mining.json) |
 | Matchbox Missions: Air, Land and Sea Rescue / Emergency Response | 137696 | [137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json](./137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json) |
@@ -7966,6 +7970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor | 245159 | [245159-meteor.json](./245159-meteor.json) |
 | Meteor 60 Seconds! | 86750 | [86750-meteor-60-seconds.json](./86750-meteor-60-seconds.json) |
 | Meteor Arena | 317087 | [317087-meteor-arena.json](./317087-meteor-arena.json) |
+| Meteor Blade | 54206 | [54206-meteor-blade.json](./54206-meteor-blade.json) |
 | Meteor Blaster | 97913 | [97913-meteor-blaster.json](./97913-meteor-blaster.json) |
 | Meteor Blasters | 199093 | [199093-meteor-blasters.json](./199093-meteor-blasters.json) |
 | Meteor Clash | 133325 | [133325-meteor-clash.json](./133325-meteor-clash.json) |
@@ -8282,8 +8287,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miaow.Emma | 296977 | [296977-miaow-emma.json](./296977-miaow-emma.json) |
 | Miasma | 253908 | [253908-miasma.json](./253908-miasma.json) |
 | Miasma | 257289 | [257289-miasma.json](./257289-miasma.json) |
+| Miasma 2 | 54205 | [54205-miasma-2.json](./54205-miasma-2.json) |
 | Miasma Caves | 95179 | [95179-miasma-caves.json](./95179-miasma-caves.json) |
 | Miasma Chronicles | 201795 | [201795-miasma-chronicles.json](./201795-miasma-chronicles.json) |
+| Miasma: Citizens of Free Thought | 54204 | [54204-miasma-citizens-of-free-thought.json](./54204-miasma-citizens-of-free-thought.json) |
 | Miasmata | 11062 | [11062-miasmata.json](./11062-miasmata.json) |
 | Miautemágica | 393559 | [393559-miautemagica.json](./393559-miautemagica.json) |
 | Miazma or the Devil's Stone | 99012 | [99012-miazma-or-the-devils-stone.json](./99012-miazma-or-the-devils-stone.json) |
@@ -8921,6 +8928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Pulse | 106157 | [106157-midnight-pulse.json](./106157-midnight-pulse.json) |
 | Midnight Puppeteer | 108881 | [108881-midnight-puppeteer.json](./108881-midnight-puppeteer.json) |
 | Midnight Racer | 290523 | [290523-midnight-racer.json](./290523-midnight-racer.json) |
+| Midnight Racing | 54203 | [54203-midnight-racing.json](./54203-midnight-racing.json) |
 | Midnight Raider | 272472 | [272472-midnight-raider.json](./272472-midnight-raider.json) |
 | Midnight Raiders | 19743 | [19743-midnight-raiders.json](./19743-midnight-raiders.json) |
 | Midnight Ramen | 273456 | [273456-midnight-ramen.json](./273456-midnight-ramen.json) |
