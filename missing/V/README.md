@@ -1812,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villager's Biography | 102929 | [102929-villagers-biography.json](./102929-villagers-biography.json) |
 | VillageRhapsody | 225808 | [225808-villagerhapsody.json](./225808-villagerhapsody.json) |
 | Villagers and Heroes | 16843 | [16843-villagers-and-heroes.json](./16843-villagers-and-heroes.json) |
+| Villages | 81014 | [81014-villages.json](./81014-villages.json) |
 | Villages on Wheels | 420496 | [420496-villages-on-wheels.json](./420496-villages-on-wheels.json) |
 | Villaging | 249906 | [249906-villaging.json](./249906-villaging.json) |
 | Villain Academy | 379694 | [379694-villain-academy.json](./379694-villain-academy.json) |
@@ -3032,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Dodgeball Trainer | 191895 | [191895-vr-dodgeball-trainer.json](./191895-vr-dodgeball-trainer.json) |
 | VR Drum Studio | 54534 | [54534-vr-drum-studio.json](./54534-vr-drum-studio.json) |
 | VR Dungeon | 30599 | [30599-vr-dungeon.json](./30599-vr-dungeon.json) |
+| VR Dunhuang | 81002 | [81002-vr-dunhuang.json](./81002-vr-dunhuang.json) |
 | VR Enigma | 105130 | [105130-vr-enigma.json](./105130-vr-enigma.json) |
 | VR Escape From Jurassic Island | 372072 | [372072-vr-escape-from-jurassic-island.json](./372072-vr-escape-from-jurassic-island.json) |
 | VR Escape the Puzzle Room | 81182 | [81182-vr-escape-the-puzzle-room.json](./81182-vr-escape-the-puzzle-room.json) |
@@ -3186,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Treasure Raider | 153383 | [153383-vr-treasure-raider.json](./153383-vr-treasure-raider.json) |
 | VR Tribes | 216489 | [216489-vr-tribes.json](./216489-vr-tribes.json) |
 | VR Tribes: The VR Edition | 256006 | [256006-vr-tribes-the-vr-edition.json](./256006-vr-tribes-the-vr-edition.json) |
+| VR Trivia Battle | 81043 | [81043-vr-trivia-battle.json](./81043-vr-trivia-battle.json) |
 | VR Troopers | 199017 | [199017-vr-troopers.json](./199017-vr-troopers.json) |
 | VR Troopers: When Worlds Collide | 198952 | [198952-vr-troopers-when-worlds-collide.json](./198952-vr-troopers-when-worlds-collide.json) |
 | VR UAV Attack | 162847 | [162847-vr-uav-attack.json](./162847-vr-uav-attack.json) |
