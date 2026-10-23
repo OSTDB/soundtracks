@@ -3706,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiators Battle | 321642 | [321642-gladiators-battle.json](./321642-gladiators-battle.json) |
 | Gladiators Manager | 155861 | [155861-gladiators-manager.json](./155861-gladiators-manager.json) |
 | Gladiators of Roma Revixit | 374369 | [374369-gladiators-of-roma-revixit.json](./374369-gladiators-of-roma-revixit.json) |
+| Gladiators of the Arena | 90403 | [90403-gladiators-of-the-arena.json](./90403-gladiators-of-the-arena.json) |
 | Gladiators Simulator: The Champions of Liberty | 342399 | [342399-gladiators-simulator-the-champions-of-liberty.json](./342399-gladiators-simulator-the-champions-of-liberty.json) |
 | Gladiators Tale | 248001 | [248001-gladiators-tale.json](./248001-gladiators-tale.json) |
 | Gladiators: Ludus Manager | 116213 | [116213-gladiators-ludus-manager.json](./116213-gladiators-ludus-manager.json) |
@@ -5788,6 +5789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotouchi Tetsudou: Gotouchi Chara to Nihon Zenkoku no Tabi | 71016 | [71016-gotouchi-tetsudou-gotouchi-chara-to-nihon-zenkoku-no-tabi.json](./71016-gotouchi-tetsudou-gotouchi-chara-to-nihon-zenkoku-no-tabi.json) |
 | Gotta Bounce | 272463 | [272463-gotta-bounce.json](./272463-gotta-bounce.json) |
 | Gotta Date Them All | 149720 | [149720-gotta-date-them-all.json](./149720-gotta-date-them-all.json) |
+| Gotta Get Going: Steam Smugglers Prologue | 90402 | [90402-gotta-get-going-steam-smugglers-prologue.json](./90402-gotta-get-going-steam-smugglers-prologue.json) |
 | Gotta Get Home | 231299 | [231299-gotta-get-home.json](./231299-gotta-get-home.json) |
 | Gotta Go | 51488 | [51488-gotta-go.json](./51488-gotta-go.json) |
 | Gotta Protectors: Amazon's Running Diet | 195502 | [195502-gotta-protectors-amazons-running-diet.json](./195502-gotta-protectors-amazons-running-diet.json) |
