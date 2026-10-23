@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New Reckoning | 61707 | [61707-a-new-reckoning.json](./61707-a-new-reckoning.json) |
 | A New World | 268882 | [268882-a-new-world.json](./268882-a-new-world.json) |
 | A New World Of Turnabouts | 303770 | [303770-a-new-world-of-turnabouts.json](./303770-a-new-world-of-turnabouts.json) |
+| A New World: Kingdoms | 68474 | [68474-a-new-world-kingdoms.json](./68474-a-new-world-kingdoms.json) |
 | A Night at Manster Mansion | 178826 | [178826-a-night-at-manster-mansion.json](./178826-a-night-at-manster-mansion.json) |
 | A Night at Moka Efti: A Babylon Berlin Story | 409210 | [409210-a-night-at-moka-efti-a-babylon-berlin-story.json](./409210-a-night-at-moka-efti-a-babylon-berlin-story.json) |
 | A Night at Sea | 228996 | [228996-a-night-at-sea.json](./228996-a-night-at-sea.json) |
@@ -1768,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Baseball Stars Professional | 102345 | [102345-aca-neo-geo-baseball-stars-professional.json](./102345-aca-neo-geo-baseball-stars-professional.json) |
 | ACA Neo Geo: Big Tournament Golf | 147093 | [147093-aca-neo-geo-big-tournament-golf.json](./147093-aca-neo-geo-big-tournament-golf.json) |
 | ACA Neo Geo: Blazing Star | 90518 | [90518-aca-neo-geo-blazing-star.json](./90518-aca-neo-geo-blazing-star.json) |
+| ACA Neo Geo: Blue's Journey | 68483 | [68483-aca-neo-geo-blues-journey.json](./68483-aca-neo-geo-blues-journey.json) |
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
 | ACA Neo Geo: Crossed Swords | 118707 | [118707-aca-neo-geo-crossed-swords.json](./118707-aca-neo-geo-crossed-swords.json) |
 | ACA Neo Geo: Cyber-Lip | 112912 | [112912-aca-neo-geo-cyber-lip.json](./112912-aca-neo-geo-cyber-lip.json) |
@@ -1781,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Kizuna Encounter | 113906 | [113906-aca-neo-geo-kizuna-encounter.json](./113906-aca-neo-geo-kizuna-encounter.json) |
 | ACA Neo Geo: Last Resort | 99748 | [99748-aca-neo-geo-last-resort.json](./99748-aca-neo-geo-last-resort.json) |
 | ACA Neo Geo: Magical Drop II | 99509 | [99509-aca-neo-geo-magical-drop-ii.json](./99509-aca-neo-geo-magical-drop-ii.json) |
+| ACA Neo Geo: Magician Lord | 68481 | [68481-aca-neo-geo-magician-lord.json](./68481-aca-neo-geo-magician-lord.json) |
 | ACA Neo Geo: Metal Slug 2 | 99504 | [99504-aca-neo-geo-metal-slug-2.json](./99504-aca-neo-geo-metal-slug-2.json) |
 | ACA Neo Geo: Metal Slug X | 99481 | [99481-aca-neo-geo-metal-slug-x.json](./99481-aca-neo-geo-metal-slug-x.json) |
 | ACA Neo Geo: Mutation Nation | 99477 | [99477-aca-neo-geo-mutation-nation.json](./99477-aca-neo-geo-mutation-nation.json) |
@@ -1791,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Power Spikes II | 82392 | [82392-aca-neo-geo-power-spikes-ii.json](./82392-aca-neo-geo-power-spikes-ii.json) |
 | ACA Neo Geo: Pulstar | 99511 | [99511-aca-neo-geo-pulstar.json](./99511-aca-neo-geo-pulstar.json) |
 | ACA Neo Geo: Puzzle Bobble | 113438 | [113438-aca-neo-geo-puzzle-bobble.json](./113438-aca-neo-geo-puzzle-bobble.json) |
+| ACA Neo Geo: Puzzled | 68482 | [68482-aca-neo-geo-puzzled.json](./68482-aca-neo-geo-puzzled.json) |
 | ACA Neo Geo: Ragnagard | 113552 | [113552-aca-neo-geo-ragnagard.json](./113552-aca-neo-geo-ragnagard.json) |
 | ACA Neo Geo: Real Bout Fatal Fury | 90199 | [90199-aca-neo-geo-real-bout-fatal-fury.json](./90199-aca-neo-geo-real-bout-fatal-fury.json) |
 | ACA Neo Geo: Riding Hero | 103942 | [103942-aca-neo-geo-riding-hero.json](./103942-aca-neo-geo-riding-hero.json) |
@@ -2206,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Act Normal! | 301690 | [301690-act-normal.json](./301690-act-normal.json) |
 | Act of Aggression | 8920 | [8920-act-of-aggression.json](./8920-act-of-aggression.json) |
 | Act of Aggression: Reboot Edition | 52552 | [52552-act-of-aggression-reboot-edition.json](./52552-act-of-aggression-reboot-edition.json) |
+| Act Out | 67837 | [67837-act-out.json](./67837-act-out.json) |
 | Act-Fancer: Cybernetick Hyper Weapon | 12270 | [12270-act-fancer-cybernetick-hyper-weapon.json](./12270-act-fancer-cybernetick-hyper-weapon.json) |
 | Actala: The Hero's Shadow | 219700 | [219700-actala-the-heros-shadow.json](./219700-actala-the-heros-shadow.json) |
 | Acter World | 80364 | [80364-acter-world.json](./80364-acter-world.json) |
@@ -4679,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aladdin Magic Carpet Racing | 296030 | [296030-aladdin-magic-carpet-racing.json](./296030-aladdin-magic-carpet-racing.json) |
 | Aladdin of the Forsaken Lands | 268143 | [268143-aladdin-of-the-forsaken-lands.json](./268143-aladdin-of-the-forsaken-lands.json) |
 | Aladdin Pinball | 127641 | [127641-aladdin-pinball.json](./127641-aladdin-pinball.json) |
+| Aladdin: Fate of Agrabah | 67821 | [67821-aladdin-fate-of-agrabah.json](./67821-aladdin-fate-of-agrabah.json) |
 | Aladdin: Hidden Objects Game | 132580 | [132580-aladdin-hidden-objects-game.json](./132580-aladdin-hidden-objects-game.json) |
 | Aladdin's Magic Lamp | 14235 | [14235-aladdins-magic-lamp.json](./14235-aladdins-magic-lamp.json) |
 | Aladin & the Enchanted Lamp | 96636 | [96636-aladin-and-the-enchanted-lamp.json](./96636-aladin-and-the-enchanted-lamp.json) |
@@ -9309,6 +9315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquanima | 357313 | [357313-aquanima.json](./357313-aquanima.json) |
 | AquaNimble | 32167 | [32167-aquanimble.json](./32167-aquanimble.json) |
 | Aquanoid | 46629 | [46629-aquanoid.json](./46629-aquanoid.json) |
+| Aquanoid 2 | 67807 | [67807-aquanoid-2.json](./67807-aquanoid-2.json) |
 | Aquanoid 3: 3D | 66554 | [66554-aquanoid-3-3d.json](./66554-aquanoid-3-3d.json) |
 | Aquanore | 376451 | [376451-aquanore.json](./376451-aquanore.json) |
 | AquaNox | 1997 | [1997-aquanox.json](./1997-aquanox.json) |
