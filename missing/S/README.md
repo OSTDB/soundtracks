@@ -15183,6 +15183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Explorers: Reload | 105250 | [105250-space-explorers-reload.json](./105250-space-explorers-reload.json) |
 | Space Extra | 384161 | [384161-space-extra.json](./384161-space-extra.json) |
 | Space Extractor: Galactic Alien Insect Control Invasion | 284492 | [284492-space-extractor-galactic-alien-insect-control-invasion.json](./284492-space-extractor-galactic-alien-insect-control-invasion.json) |
+| Space Falcon Reloaded | 90346 | [90346-space-falcon-reloaded.json](./90346-space-falcon-reloaded.json) |
 | Space Fantasy Zone | 42007 | [42007-space-fantasy-zone.json](./42007-space-fantasy-zone.json) |
 | Space Fantasy: Anonymous Hero | 226620 | [226620-space-fantasy-anonymous-hero.json](./226620-space-fantasy-anonymous-hero.json) |
 | Space Farm | 107384 | [107384-space-farm.json](./107384-space-farm.json) |
@@ -18508,6 +18509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staffer Case: A Supernatural Mystery Adventure | 215713 | [215713-staffer-case-a-supernatural-mystery-adventure.json](./215713-staffer-case-a-supernatural-mystery-adventure.json) |
 | Staffer Reborn | 297002 | [297002-staffer-reborn.json](./297002-staffer-reborn.json) |
 | Stagdraft | 221105 | [221105-stagdraft.json](./221105-stagdraft.json) |
+| Stage 3: Azaria | 90434 | [90434-stage-3-azaria.json](./90434-stage-3-azaria.json) |
 | Stage Break Idle | 369549 | [369549-stage-break-idle.json](./369549-stage-break-idle.json) |
 | Stage of Light | 116169 | [116169-stage-of-light.json](./116169-stage-of-light.json) |
 | Stage Presence | 34744 | [34744-stage-presence.json](./34744-stage-presence.json) |
@@ -26642,6 +26644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surabaya Inferno | 150676 | [150676-surabaya-inferno.json](./150676-surabaya-inferno.json) |
 | Surangama | 372742 | [372742-surangama.json](./372742-surangama.json) |
 | Surbird | 292555 | [292555-surbird.json](./292555-surbird.json) |
+| Sure Footing | 90431 | [90431-sure-footing.json](./90431-sure-footing.json) |
 | Sure Instinct | 251713 | [251713-sure-instinct.json](./251713-sure-instinct.json) |
 | Sure Shot | 355543 | [355543-sure-shot.json](./355543-sure-shot.json) |
 | Surf 'm Up! | 77331 | [77331-surf-m-up.json](./77331-surf-m-up.json) |
