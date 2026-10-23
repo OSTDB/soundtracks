@@ -2587,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uppy Cup | 233918 | [233918-uppy-cup.json](./233918-uppy-cup.json) |
 | Uprising | 257422 | [257422-uprising.json](./257422-uprising.json) |
 | Uprising Complete | 53878 | [53878-uprising-complete.json](./53878-uprising-complete.json) |
+| Uprising-X | 45030 | [45030-uprising-x.json](./45030-uprising-x.json) |
 | Uprising: Humanum | 248903 | [248903-uprising-humanum.json](./248903-uprising-humanum.json) |
 | Uprising: Join or Die | 32768 | [32768-uprising-join-or-die.json](./32768-uprising-join-or-die.json) |
 | Uprising44: The Silent Shadows | 92480 | [92480-uprising44-the-silent-shadows.json](./92480-uprising44-the-silent-shadows.json) |
