@@ -9436,6 +9436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Parasitic | 412901 | [412901-mind-parasitic.json](./412901-mind-parasitic.json) |
 | Mind Prober | 71750 | [71750-mind-prober.json](./71750-mind-prober.json) |
 | Mind Puzzle 2023 | 265200 | [265200-mind-puzzle-2023.json](./265200-mind-puzzle-2023.json) |
+| Mind Quiz | 92809 | [92809-mind-quiz.json](./92809-mind-quiz.json) |
 | Mind Quiz: Your Brain Coach | 123356 | [123356-mind-quiz-your-brain-coach.json](./123356-mind-quiz-your-brain-coach.json) |
 | Mind Reader | 107130 | [107130-mind-reader.json](./107130-mind-reader.json) |
 | Mind Reader | 229699 | [229699-mind-reader.json](./229699-mind-reader.json) |
@@ -11474,6 +11475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Warships: Sea Battle Online | 174797 | [174797-modern-warships-sea-battle-online.json](./174797-modern-warships-sea-battle-online.json) |
 | Modern Zombie | 24943 | [24943-modern-zombie.json](./24943-modern-zombie.json) |
 | ModernArcheryVR | 100832 | [100832-modernarcheryvr.json](./100832-modernarcheryvr.json) |
+| Modernism | 92806 | [92806-modernism.json](./92806-modernism.json) |
 | Modest Hero | 132459 | [132459-modest-hero.json](./132459-modest-hero.json) |
 | Modest Kind | 68613 | [68613-modest-kind.json](./68613-modest-kind.json) |
 | Modi i Nanna: Sprytne Smyki | 176138 | [176138-modi-i-nanna-sprytne-smyki.json](./176138-modi-i-nanna-sprytne-smyki.json) |
@@ -12117,6 +12119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly City | 275217 | [275217-monopoly-city.json](./275217-monopoly-city.json) |
 | Monopoly Collection | 50615 | [50615-monopoly-collection.json](./50615-monopoly-collection.json) |
 | Monopoly Deal | 69346 | [69346-monopoly-deal.json](./69346-monopoly-deal.json) |
+| Monopoly Deluxe | 92869 | [92869-monopoly-deluxe.json](./92869-monopoly-deluxe.json) |
 | Monopoly Family Fun Pack | 77010 | [77010-monopoly-family-fun-pack.json](./77010-monopoly-family-fun-pack.json) |
 | Monopoly Here & Now | 51259 | [51259-monopoly-here-and-now.json](./51259-monopoly-here-and-now.json) |
 | Monopoly Hotels | 64471 | [64471-monopoly-hotels.json](./64471-monopoly-hotels.json) |
@@ -12802,6 +12805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MontanaBlack Kylo's Rescue | 174274 | [174274-montanablack-kylos-rescue.json](./174274-montanablack-kylos-rescue.json) |
 | MontaSayer | 29604 | [29604-montasayer.json](./29604-montasayer.json) |
 | Monte Carlo | 40385 | [40385-monte-carlo.json](./40385-monte-carlo.json) |
+| Monte Carlo Baccarat | 92907 | [92907-monte-carlo-baccarat.json](./92907-monte-carlo-baccarat.json) |
 | MonteCube Dodge | 117362 | [117362-montecube-dodge.json](./117362-montecube-dodge.json) |
 | Monterey Jack | 347217 | [347217-monterey-jack.json](./347217-monterey-jack.json) |
 | Montessori Music | 80465 | [80465-montessori-music.json](./80465-montessori-music.json) |
