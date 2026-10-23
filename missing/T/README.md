@@ -20550,6 +20550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topac Battle | 296262 | [296262-topac-battle.json](./296262-topac-battle.json) |
 | Topac Battle: Supporter Pack | 310035 | [310035-topac-battle-supporter-pack.json](./310035-topac-battle-supporter-pack.json) |
 | Topang | 143947 | [143947-topang.json](./143947-topang.json) |
+| Topatoi: Spinning Through the Worlds | 52981 | [52981-topatoi-spinning-through-the-worlds.json](./52981-topatoi-spinning-through-the-worlds.json) |
 | Topgolf with Pro Putt | 143067 | [143067-topgolf-with-pro-putt.json](./143067-topgolf-with-pro-putt.json) |
 | Tophet | 336508 | [336508-tophet.json](./336508-tophet.json) |
 | Topia World Builder | 87876 | [87876-topia-world-builder.json](./87876-topia-world-builder.json) |
@@ -24295,6 +24296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure of Ocean | 399435 | [399435-treasure-of-ocean.json](./399435-treasure-of-ocean.json) |
 | Treasure of the Caribbean Sea | 416184 | [416184-treasure-of-the-caribbean-sea.json](./416184-treasure-of-the-caribbean-sea.json) |
 | Treasure Of The Giantess | 271275 | [271275-treasure-of-the-giantess.json](./271275-treasure-of-the-giantess.json) |
+| Treasure Park | 53003 | [53003-treasure-park.json](./53003-treasure-park.json) |
 | Treasure Protector | 309479 | [309479-treasure-protector.json](./309479-treasure-protector.json) |
 | Treasure Punks | 184439 | [184439-treasure-punks.json](./184439-treasure-punks.json) |
 | Treasure Quest | 100213 | [100213-treasure-quest.json](./100213-treasure-quest.json) |
@@ -24514,6 +24516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials Frontier | 7212 | [7212-trials-frontier.json](./7212-trials-frontier.json) |
 | Trials Fusion: After the Incident | 165426 | [165426-trials-fusion-after-the-incident.json](./165426-trials-fusion-after-the-incident.json) |
 | Trials Fusion: Awesome Level Max | 19951 | [19951-trials-fusion-awesome-level-max.json](./19951-trials-fusion-awesome-level-max.json) |
+| Trials Fusion: Empire of the Sky | 53001 | [53001-trials-fusion-empire-of-the-sky.json](./53001-trials-fusion-empire-of-the-sky.json) |
 | Trials Fusion: Fault One Zero | 165422 | [165422-trials-fusion-fault-one-zero.json](./165422-trials-fusion-fault-one-zero.json) |
 | Trials Fusion: Fire in the Deep | 165421 | [165421-trials-fusion-fire-in-the-deep.json](./165421-trials-fusion-fire-in-the-deep.json) |
 | Trials Fusion: The Awesome Max Edition | 11160 | [11160-trials-fusion-the-awesome-max-edition.json](./11160-trials-fusion-the-awesome-max-edition.json) |
