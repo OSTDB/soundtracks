@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quetzal | 299302 | [299302-quetzal.json](./299302-quetzal.json) |
 | Quetzal | 373891 | [373891-quetzal.json](./373891-quetzal.json) |
 | Quetzal's Call | 196651 | [196651-quetzals-call.json](./196651-quetzals-call.json) |
+| Quetzalcoatl | 97758 | [97758-quetzalcoatl.json](./97758-quetzalcoatl.json) |
 | Quetzi | 300816 | [300816-quetzi.json](./300816-quetzi.json) |
 | Queue | 180255 | [180255-queue.json](./180255-queue.json) |
 | Queue Simulator | 276715 | [276715-queue-simulator.json](./276715-queue-simulator.json) |
