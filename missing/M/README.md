@@ -11701,6 +11701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mokete | 266472 | [266472-mokete.json](./266472-mokete.json) |
 | Mokhtar: Uprising Season | 319446 | [319446-mokhtar-uprising-season.json](./319446-mokhtar-uprising-season.json) |
 | Moki | 149880 | [149880-moki.json](./149880-moki.json) |
+| Moki Moki | 77120 | [77120-moki-moki.json](./77120-moki-moki.json) |
 | Moki: The Escape | 238725 | [238725-moki-the-escape.json](./238725-moki-the-escape.json) |
 | MokMok | 54492 | [54492-mokmok.json](./54492-mokmok.json) |
 | Moko's Advice | 127079 | [127079-mokos-advice.json](./127079-mokos-advice.json) |
@@ -17059,6 +17060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Legends: Beauty and the Beast | 78445 | [78445-mystery-legends-beauty-and-the-beast.json](./78445-mystery-legends-beauty-and-the-beast.json) |
 | Mystery Legends: Phantom of the Opera | 62836 | [62836-mystery-legends-phantom-of-the-opera.json](./62836-mystery-legends-phantom-of-the-opera.json) |
 | Mystery Legends: Phantom of the Opera - Collector’s Edition | 239602 | [239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json](./239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json) |
+| Mystery Legends: Sleepy Hollow | 77123 | [77123-mystery-legends-sleepy-hollow.json](./77123-mystery-legends-sleepy-hollow.json) |
 | Mystery Lighthouse | 97215 | [97215-mystery-lighthouse.json](./97215-mystery-lighthouse.json) |
 | Mystery Loss | 57029 | [57029-mystery-loss.json](./57029-mystery-loss.json) |
 | Mystery Lover 2: Forgotten Truth | 275490 | [275490-mystery-lover-2-forgotten-truth.json](./275490-mystery-lover-2-forgotten-truth.json) |
