@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saber Survivors | 328452 | [328452-saber-survivors.json](./328452-saber-survivors.json) |
 | SaberSaw VR | 32145 | [32145-sabersaw-vr.json](./32145-sabersaw-vr.json) |
 | Sable Maze: Forbidden Garden | 139726 | [139726-sable-maze-forbidden-garden.json](./139726-sable-maze-forbidden-garden.json) |
+| Sable Maze: Forbidden Garden - Collector's Edition | 95244 | [95244-sable-maze-forbidden-garden-collectors-edition.json](./95244-sable-maze-forbidden-garden-collectors-edition.json) |
 | Sable Maze: Forbidden Garden & Sable Maze: Twelve Fears | 201822 | [201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json](./201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json) |
 | Sable Maze: Norwich Caves | 22111 | [22111-sable-maze-norwich-caves.json](./22111-sable-maze-norwich-caves.json) |
 | Sable Maze: Norwich Caves - Collector's Edition | 74353 | [74353-sable-maze-norwich-caves-collectors-edition.json](./74353-sable-maze-norwich-caves-collectors-edition.json) |
@@ -15335,6 +15336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders | 310668 | [310668-space-invaders.json](./310668-space-invaders.json) |
 | Space Invaders | 3601 | [3601-space-invaders.json](./3601-space-invaders.json) |
 | Space Invaders | 84891 | [84891-space-invaders.json](./84891-space-invaders.json) |
+| Space Invaders | 95292 | [95292-space-invaders.json](./95292-space-invaders.json) |
 | Space Invaders '91 | 46262 | [46262-space-invaders-91.json](./46262-space-invaders-91.json) |
 | Space Invaders Anniversary | 69888 | [69888-space-invaders-anniversary.json](./69888-space-invaders-anniversary.json) |
 | Space Invaders by Copper France | 275223 | [275223-space-invaders-by-copper-france.json](./275223-space-invaders-by-copper-france.json) |
@@ -16008,6 +16010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spade no Kuni no Alice: Wonderful White World | 148840 | [148840-spade-no-kuni-no-alice-wonderful-white-world.json](./148840-spade-no-kuni-no-alice-wonderful-white-world.json) |
 | Spades | 372227 | [372227-spades.json](./372227-spades.json) |
 | Spades | 88610 | [88610-spades.json](./88610-spades.json) |
+| Spades classic card game | 95285 | [95285-spades-classic-card-game.json](./95285-spades-classic-card-game.json) |
 | Spades HD | 355000 | [355000-spades-hd.json](./355000-spades-hd.json) |
 | Spades Pro | 86691 | [86691-spades-pro.json](./86691-spades-pro.json) |
 | Spades+ | 279708 | [279708-spades.json](./279708-spades.json) |
@@ -28199,6 +28202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synopsis Quest | 66166 | [66166-synopsis-quest.json](./66166-synopsis-quest.json) |
 | Synopsle | 265056 | [265056-synopsle.json](./265056-synopsle.json) |
 | Synso: Squid Harder! | 284779 | [284779-synso-squid-harder.json](./284779-synso-squid-harder.json) |
+| Synstasis | 95271 | [95271-synstasis.json](./95271-synstasis.json) |
 | SyntaxBomb | 183012 | [183012-syntaxbomb.json](./183012-syntaxbomb.json) |
 | Syntaxia | 326573 | [326573-syntaxia.json](./326573-syntaxia.json) |
 | Synth Ark | 317234 | [317234-synth-ark.json](./317234-synth-ark.json) |
