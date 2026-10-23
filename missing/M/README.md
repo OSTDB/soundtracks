@@ -3916,6 +3916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mason and Strings | 183606 | [183606-mason-and-strings.json](./183606-mason-and-strings.json) |
 | Mason: Building Bricks | 141068 | [141068-mason-building-bricks.json](./141068-mason-building-bricks.json) |
 | Masonic Mysteries: Secrets Unveiled | 249087 | [249087-masonic-mysteries-secrets-unveiled.json](./249087-masonic-mysteries-secrets-unveiled.json) |
+| Masplado | 86595 | [86595-masplado.json](./86595-masplado.json) |
 | Masq | 93353 | [93353-masq.json](./93353-masq.json) |
 | Masquaradious | 266291 | [266291-masquaradious.json](./266291-masquaradious.json) |
 | Masque | 37298 | [37298-masque.json](./37298-masque.json) |
@@ -4589,6 +4590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mavericks 3: Zero's Revenge | 350789 | [350789-mavericks-3-zeros-revenge.json](./350789-mavericks-3-zeros-revenge.json) |
 | Maverta | 181039 | [181039-maverta.json](./181039-maverta.json) |
 | Maverta Island | 186844 | [186844-maverta-island.json](./186844-maverta-island.json) |
+| Mavi's Journey | 86586 | [86586-mavis-journey.json](./86586-mavis-journey.json) |
 | Mavis Beacon Teaches Typing Version 15 | 225834 | [225834-mavis-beacon-teaches-typing-version-15.json](./225834-mavis-beacon-teaches-typing-version-15.json) |
 | Mavis Beacon Teaches Typing Version 8 | 209541 | [209541-mavis-beacon-teaches-typing-version-8.json](./209541-mavis-beacon-teaches-typing-version-8.json) |
 | Mavis Beacon Teaches Typing! | 71429 | [71429-mavis-beacon-teaches-typing.json](./71429-mavis-beacon-teaches-typing.json) |
@@ -9441,6 +9443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Over Matter | 209508 | [209508-mind-over-matter.json](./209508-mind-over-matter.json) |
 | Mind Over Melee Radio | 169768 | [169768-mind-over-melee-radio.json](./169768-mind-over-melee-radio.json) |
 | Mind Over Monarchy | 347339 | [347339-mind-over-monarchy.json](./347339-mind-over-monarchy.json) |
+| Mind Over Mushroom | 86605 | [86605-mind-over-mushroom.json](./86605-mind-over-mushroom.json) |
 | Mind OVR Matter | 32838 | [32838-mind-ovr-matter.json](./32838-mind-ovr-matter.json) |
 | Mind Palace | 177267 | [177267-mind-palace.json](./177267-mind-palace.json) |
 | Mind Palace | 277775 | [277775-mind-palace.json](./277775-mind-palace.json) |
@@ -13625,6 +13628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortanis Prisoners | 244846 | [244846-mortanis-prisoners.json](./244846-mortanis-prisoners.json) |
 | Mortanum | 403658 | [403658-mortanum.json](./403658-mortanum.json) |
 | Mortar | 184402 | [184402-mortar.json](./184402-mortar.json) |
+| Mortar and Pestle | 86640 | [86640-mortar-and-pestle.json](./86640-mortar-and-pestle.json) |
 | Mortar Howl | 105091 | [105091-mortar-howl.json](./105091-mortar-howl.json) |
 | Mortar Master | 318249 | [318249-mortar-master.json](./318249-mortar-master.json) |
 | Mortarmen | 259019 | [259019-mortarmen.json](./259019-mortarmen.json) |
@@ -13923,6 +13927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Ultimate Edition | 283138 | [283138-moto-rush-gt-ultimate-edition.json](./283138-moto-rush-gt-ultimate-edition.json) |
 | Moto Rush GT: Ultra Edition | 332512 | [332512-moto-rush-gt-ultra-edition.json](./332512-moto-rush-gt-ultra-edition.json) |
 | Moto Trophy VR | 226147 | [226147-moto-trophy-vr.json](./226147-moto-trophy-vr.json) |
+| Moto VR | 86629 | [86629-moto-vr.json](./86629-moto-vr.json) |
 | Moto Wheelie | 257469 | [257469-moto-wheelie.json](./257469-moto-wheelie.json) |
 | Moto X | 279698 | [279698-moto-x.json](./279698-moto-x.json) |
 | Moto X Challenge | 238393 | [238393-moto-x-challenge.json](./238393-moto-x-challenge.json) |
@@ -16233,6 +16238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Coffee Shop | 371548 | [371548-my-little-coffee-shop.json](./371548-my-little-coffee-shop.json) |
 | My Little Dog Adventure | 146772 | [146772-my-little-dog-adventure.json](./146772-my-little-dog-adventure.json) |
 | My Little Farm | 391620 | [391620-my-little-farm.json](./391620-my-little-farm.json) |
+| My Little Farmies | 86641 | [86641-my-little-farmies.json](./86641-my-little-farmies.json) |
 | My Little Fast Food Booth | 147457 | [147457-my-little-fast-food-booth.json](./147457-my-little-fast-food-booth.json) |
 | My Little Forest | 212848 | [212848-my-little-forest.json](./212848-my-little-forest.json) |
 | My Little Foundation: Containment is Magic | 352348 | [352348-my-little-foundation-containment-is-magic.json](./352348-my-little-foundation-containment-is-magic.json) |
