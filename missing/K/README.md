@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju-A-GoGo | 36155 | [36155-kaiju-a-gogo.json](./36155-kaiju-a-gogo.json) |
 | Kaiju-A-GoGo: Grey Goop | 159650 | [159650-kaiju-a-gogo-grey-goop.json](./159650-kaiju-a-gogo-grey-goop.json) |
 | Kaijuland | 63788 | [63788-kaijuland.json](./63788-kaijuland.json) |
+| Kaijuland Battles | 64141 | [64141-kaijuland-battles.json](./64141-kaijuland-battles.json) |
 | Kaijuu Kitan Oboro: Jyuuya Kuuko Mangekyou | 114546 | [114546-kaijuu-kitan-oboro-jyuuya-kuuko-mangekyou.json](./114546-kaijuu-kitan-oboro-jyuuya-kuuko-mangekyou.json) |
 | Kaijuu Senki | 166658 | [166658-kaijuu-senki.json](./166658-kaijuu-senki.json) |
 | Kaikan | 264553 | [264553-kaikan.json](./264553-kaikan.json) |
@@ -427,6 +428,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider: Battride War II | 62184 | [62184-kamen-rider-battride-war-ii.json](./62184-kamen-rider-battride-war-ii.json) |
 | Kamen Rider: Break Joker | 61501 | [61501-kamen-rider-break-joker.json](./61501-kamen-rider-break-joker.json) |
 | Kamen Rider: Climax Fighters - Premium R Sound Edition | 136724 | [136724-kamen-rider-climax-fighters-premium-r-sound-edition.json](./136724-kamen-rider-climax-fighters-premium-r-sound-edition.json) |
+| Kamen Rider: Climax Heroes Fourze | 64239 | [64239-kamen-rider-climax-heroes-fourze.json](./64239-kamen-rider-climax-heroes-fourze.json) |
+| Kamen Rider: Climax Heroes OOO | 64240 | [64240-kamen-rider-climax-heroes-ooo.json](./64240-kamen-rider-climax-heroes-ooo.json) |
 | Kamen Rider: Climax Heroes W | 50731 | [50731-kamen-rider-climax-heroes-w.json](./50731-kamen-rider-climax-heroes-w.json) |
 | Kamen Rider: Climax Scramble | 106307 | [106307-kamen-rider-climax-scramble.json](./106307-kamen-rider-climax-scramble.json) |
 | Kamen Rider: Dragon Knight | 50730 | [50730-kamen-rider-dragon-knight.json](./50730-kamen-rider-dragon-knight.json) |
@@ -2202,7 +2205,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
