@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Universe | 43793 | [43793-baby-universe.json](./43793-baby-universe.json) |
 | Baby Wild Katzen | 269655 | [269655-baby-wild-katzen.json](./269655-baby-wild-katzen.json) |
 | Baby's Day Out | 264089 | [264089-babys-day-out.json](./264089-babys-day-out.json) |
+| Baby's Day Out | 45740 | [45740-babys-day-out.json](./45740-babys-day-out.json) |
 | Baby's First Crudelo Sphere | 280741 | [280741-babys-first-crudelo-sphere.json](./280741-babys-first-crudelo-sphere.json) |
 | Baby's First House Fire | 176444 | [176444-babys-first-house-fire.json](./176444-babys-first-house-fire.json) |
 | Baby's Musical Hands | 86864 | [86864-babys-musical-hands.json](./86864-babys-musical-hands.json) |
@@ -1182,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Hunter | 201801 | [201801-ball-hunter.json](./201801-ball-hunter.json) |
 | Ball In The Box | 309949 | [309949-ball-in-the-box.json](./309949-ball-in-the-box.json) |
 | Ball is Life | 281954 | [281954-ball-is-life.json](./281954-ball-is-life.json) |
+| Ball Jacks | 45759 | [45759-ball-jacks.json](./45759-ball-jacks.json) |
 | Ball Jump | 100740 | [100740-ball-jump.json](./100740-ball-jump.json) |
 | Ball Jumper | 272854 | [272854-ball-jumper.json](./272854-ball-jumper.json) |
 | Ball Kicker | 109640 | [109640-ball-kicker.json](./109640-ball-kicker.json) |
@@ -4072,6 +4074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Wrestler | 46239 | [46239-beast-wrestler.json](./46239-beast-wrestler.json) |
 | Beast: Bio Exo Arena Suit Team | 287551 | [287551-beast-bio-exo-arena-suit-team.json](./287551-beast-bio-exo-arena-suit-team.json) |
 | Beast's Fury | 61004 | [61004-beasts-fury.json](./61004-beasts-fury.json) |
+| Beastball | 45738 | [45738-beastball.json](./45738-beastball.json) |
 | Beastbound | 323425 | [323425-beastbound.json](./323425-beastbound.json) |
 | Beastfall | 381252 | [381252-beastfall.json](./381252-beastfall.json) |
 | Beastiarium | 30927 | [30927-beastiarium.json](./30927-beastiarium.json) |
@@ -4791,6 +4794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Befriendus | 179700 | [179700-befriendus.json](./179700-befriendus.json) |
 | Befuddle | 232875 | [232875-befuddle.json](./232875-befuddle.json) |
 | Bega's Battle | 23938 | [23938-begas-battle.json](./23938-begas-battle.json) |
+| Beggar Prince | 45765 | [45765-beggar-prince.json](./45765-beggar-prince.json) |
 | Beggar Simulator: Istanbul | 413815 | [413815-beggar-simulator-istanbul.json](./413815-beggar-simulator-istanbul.json) |
 | Beggar to Emperor | 353367 | [353367-beggar-to-emperor.json](./353367-beggar-to-emperor.json) |
 | Beggar's Life | 391612 | [391612-beggars-life.json](./391612-beggars-life.json) |
@@ -5679,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Your Fear | 195596 | [195596-beyond-your-fear.json](./195596-beyond-your-fear.json) |
 | Beyond Your Wall | 369593 | [369593-beyond-your-wall.json](./369593-beyond-your-wall.json) |
 | Beyond Zero Line | 386299 | [386299-beyond-zero-line.json](./386299-beyond-zero-line.json) |
+| Beyond Zero Tolerance | 45762 | [45762-beyond-zero-tolerance.json](./45762-beyond-zero-tolerance.json) |
 | Beyond-Human | 56598 | [56598-beyond-human.json](./56598-beyond-human.json) |
 | Beyond: Fire & Ice | 386301 | [386301-beyond-fire-and-ice.json](./386301-beyond-fire-and-ice.json) |
 | Beyond: Light Advent | 140286 | [140286-beyond-light-advent.json](./140286-beyond-light-advent.json) |
@@ -9686,6 +9691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body Blows Galactic | 11975 | [11975-body-blows-galactic.json](./11975-body-blows-galactic.json) |
 | Body Cam Shooter | 328555 | [328555-body-cam-shooter.json](./328555-body-cam-shooter.json) |
 | Body Count | 273366 | [273366-body-count.json](./273366-body-count.json) |
+| Body Count | 45761 | [45761-body-count.json](./45761-body-count.json) |
 | Body Discovery | 117598 | [117598-body-discovery.json](./117598-body-discovery.json) |
 | Body Elements | 150551 | [150551-body-elements.json](./150551-body-elements.json) |
 | Body Glove Bluewater Hunter | 65189 | [65189-body-glove-bluewater-hunter.json](./65189-body-glove-bluewater-hunter.json) |
@@ -10105,6 +10111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomboban | 386355 | [386355-bomboban.json](./386355-bomboban.json) |
 | Bomboras Forever | 58173 | [58173-bomboras-forever.json](./58173-bomboras-forever.json) |
 | Bombox | 293339 | [293339-bombox.json](./293339-bombox.json) |
+| Bomboy | 45737 | [45737-bomboy.json](./45737-bomboy.json) |
 | BombParty | 186047 | [186047-bombparty.json](./186047-bombparty.json) |
 | Bombproof Bob | 241612 | [241612-bombproof-bob.json](./241612-bombproof-bob.json) |
 | Bombrigade: Battlegrounds | 129526 | [129526-bombrigade-battlegrounds.json](./129526-bombrigade-battlegrounds.json) |
