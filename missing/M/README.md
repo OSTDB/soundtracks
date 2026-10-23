@@ -1245,7 +1245,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Stock Princess | 157066 | [157066-magical-stock-princess.json](./157066-magical-stock-princess.json) |
 | Magical Strings | 157719 | [157719-magical-strings.json](./157719-magical-strings.json) |
 | Magical Taluluto-kun | 180301 | [180301-magical-taluluto-kun.json](./180301-magical-taluluto-kun.json) |
+| Magical Taluluto-kun 2: Magical Adventure | 48432 | [48432-magical-taluluto-kun-2-magical-adventure.json](./48432-magical-taluluto-kun-2-magical-adventure.json) |
 | Magical Taluluto-kun 2: Raiba Zone Panic!! | 125846 | [125846-magical-taluluto-kun-2-raiba-zone-panic.json](./125846-magical-taluluto-kun-2-raiba-zone-panic.json) |
+| Magical Taluluto-kun: Fantastic World!! | 48433 | [48433-magical-taluluto-kun-fantastic-world.json](./48433-magical-taluluto-kun-fantastic-world.json) |
 | Magical Taluluto-kun: Magic Adventure | 42419 | [42419-magical-taluluto-kun-magic-adventure.json](./42419-magical-taluluto-kun-magic-adventure.json) |
 | Magical Tetris Challenge | 205583 | [205583-magical-tetris-challenge.json](./205583-magical-tetris-challenge.json) |
 | Magical Tetris Challenge | 3398 | [3398-magical-tetris-challenge.json](./3398-magical-tetris-challenge.json) |
@@ -1430,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnitude: Lambda | 356505 | [356505-magnitude-lambda.json](./356505-magnitude-lambda.json) |
 | Magnitude: Sigma | 366213 | [366213-magnitude-sigma.json](./366213-magnitude-sigma.json) |
 | Magnolia | 141031 | [141031-magnolia.json](./141031-magnolia.json) |
+| Magnum Kiki Ippatsu: Empire City 1931 | 48431 | [48431-magnum-kiki-ippatsu-empire-city-1931.json](./48431-magnum-kiki-ippatsu-empire-city-1931.json) |
 | Magnum Opus | 417296 | [417296-magnum-opus.json](./417296-magnum-opus.json) |
 | Magnum Quest | 166527 | [166527-magnum-quest.json](./166527-magnum-quest.json) |
 | Magnus Failure | 154243 | [154243-magnus-failure.json](./154243-magnus-failure.json) |
@@ -3653,6 +3656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maruchi Akindo | 396190 | [396190-maruchi-akindo.json](./396190-maruchi-akindo.json) |
 | Marudachi | 302189 | [302189-marudachi.json](./302189-marudachi.json) |
 | Maruja Mallo | 226732 | [226732-maruja-mallo.json](./226732-maruja-mallo.json) |
+| Marusa no Onna | 48430 | [48430-marusa-no-onna.json](./48430-marusa-no-onna.json) |
 | Maruta Escape | 293166 | [293166-maruta-escape.json](./293166-maruta-escape.json) |
 | Marvel 1943: Rise of Hydra | 216315 | [216315-marvel-1943-rise-of-hydra.json](./216315-marvel-1943-rise-of-hydra.json) |
 | Marvel 2099: One Nation Under Doom | 144263 | [144263-marvel-2099-one-nation-under-doom.json](./144263-marvel-2099-one-nation-under-doom.json) |
@@ -7802,6 +7806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal March | 228088 | [228088-metal-march.json](./228088-metal-march.json) |
 | Metal Marines | 42497 | [42497-metal-marines.json](./42497-metal-marines.json) |
 | Metal Mars | 151506 | [151506-metal-mars.json](./151506-metal-mars.json) |
+| Metal Max | 48428 | [48428-metal-max.json](./48428-metal-max.json) |
 | Metal Max 2 | 37929 | [37929-metal-max-2.json](./37929-metal-max-2.json) |
 | Metal Max 2: Reloaded | 65858 | [65858-metal-max-2-reloaded.json](./65858-metal-max-2-reloaded.json) |
 | Metal Max 3 | 66922 | [66922-metal-max-3.json](./66922-metal-max-3.json) |
@@ -9682,6 +9687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MindScape: Verenna | 274760 | [274760-mindscape-verenna.json](./274760-mindscape-verenna.json) |
 | Mindscapes VR | 347298 | [347298-mindscapes-vr.json](./347298-mindscapes-vr.json) |
 | Mindscorn | 374753 | [374753-mindscorn.json](./374753-mindscorn.json) |
+| Mindseeker | 48427 | [48427-mindseeker.json](./48427-mindseeker.json) |
 | Mindset | 68616 | [68616-mindset.json](./68616-mindset.json) |
 | Mindseye Blacklisted | 400290 | [400290-mindseye-blacklisted.json](./400290-mindseye-blacklisted.json) |
 | Mindshadow | 12185 | [12185-mindshadow.json](./12185-mindshadow.json) |
@@ -10676,6 +10682,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirai Ninja | 38548 | [38548-mirai-ninja.json](./38548-mirai-ninja.json) |
 | Mirai Ninja: Keigumo Kinin Gaiden | 70997 | [70997-mirai-ninja-keigumo-kinin-gaiden.json](./70997-mirai-ninja-keigumo-kinin-gaiden.json) |
 | Mirai no Uta to, Tsunagaru Hitomi | 228352 | [228352-mirai-no-uta-to-tsunagaru-hitomi.json](./228352-mirai-no-uta-to-tsunagaru-hitomi.json) |
+| Mirai Senshi: Lios | 48426 | [48426-mirai-senshi-lios.json](./48426-mirai-senshi-lios.json) |
+| Mirai Shinwa Jarvas | 48425 | [48425-mirai-shinwa-jarvas.json](./48425-mirai-shinwa-jarvas.json) |
 | Mirai Shounen Conan | 42021 | [42021-mirai-shounen-conan.json](./42021-mirai-shounen-conan.json) |
 | Mirai Shounen Conan Digital Library | 268513 | [268513-mirai-shounen-conan-digital-library.json](./268513-mirai-shounen-conan-digital-library.json) |
 | Mirai: Future | 161708 | [161708-mirai-future.json](./161708-mirai-future.json) |
@@ -11416,6 +11424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moai III: Trade Mission - Collector's Edition | 53382 | [53382-moai-iii-trade-mission-collectors-edition.json](./53382-moai-iii-trade-mission-collectors-edition.json) |
 | Moai IV: Terra Incognita | 53381 | [53381-moai-iv-terra-incognita.json](./53381-moai-iv-terra-incognita.json) |
 | Moai no Hihou | 41789 | [41789-moai-no-hihou.json](./41789-moai-no-hihou.json) |
+| Moai-kun | 48424 | [48424-moai-kun.json](./48424-moai-kun.json) |
 | Moaisland | 298140 | [298140-moaisland.json](./298140-moaisland.json) |
 | Moana: Island Life | 97982 | [97982-moana-island-life.json](./97982-moana-island-life.json) |
 | Moana: Rhythm Run | 97981 | [97981-moana-rhythm-run.json](./97981-moana-rhythm-run.json) |
