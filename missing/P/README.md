@@ -2326,8 +2326,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile: Crucible | 257831 | [257831-path-of-exile-crucible.json](./257831-path-of-exile-crucible.json) |
 | Path of Exile: Echoes of the Atlas | 142400 | [142400-path-of-exile-echoes-of-the-atlas.json](./142400-path-of-exile-echoes-of-the-atlas.json) |
 | Path of Exile: Forbidden Sanctum | 228596 | [228596-path-of-exile-forbidden-sanctum.json](./228596-path-of-exile-forbidden-sanctum.json) |
+| Path of Exile: Forsaken Masters | 75573 | [75573-path-of-exile-forsaken-masters.json](./75573-path-of-exile-forsaken-masters.json) |
 | Path of Exile: King of the Faridun Supporter Pack | 332030 | [332030-path-of-exile-king-of-the-faridun-supporter-pack.json](./332030-path-of-exile-king-of-the-faridun-supporter-pack.json) |
 | Path of Exile: Mirage | 393960 | [393960-path-of-exile-mirage.json](./393960-path-of-exile-mirage.json) |
+| Path of Exile: Sacrifice of the Vaal | 75574 | [75574-path-of-exile-sacrifice-of-the-vaal.json](./75574-path-of-exile-sacrifice-of-the-vaal.json) |
 | Path of Exile: Secrets of the Atlas | 350378 | [350378-path-of-exile-secrets-of-the-atlas.json](./350378-path-of-exile-secrets-of-the-atlas.json) |
 | Path of Exile: Settlers of Kalguur | 310958 | [310958-path-of-exile-settlers-of-kalguur.json](./310958-path-of-exile-settlers-of-kalguur.json) |
 | Path of Exile: Synthesis | 115463 | [115463-path-of-exile-synthesis.json](./115463-path-of-exile-synthesis.json) |
@@ -5307,6 +5309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pimbolas | 338806 | [338806-pimbolas.json](./338806-pimbolas.json) |
 | Pimby's Workaround | 364654 | [364654-pimbys-workaround.json](./364654-pimbys-workaround.json) |
 | Pimeval Man | 354593 | [354593-pimeval-man.json](./354593-pimeval-man.json) |
+| Pimiko Plus | 75625 | [75625-pimiko-plus.json](./75625-pimiko-plus.json) |
 | PiMon | 321640 | [321640-pimon.json](./321640-pimon.json) |
 | Pimp Hand Strong! | 234712 | [234712-pimp-hand-strong.json](./234712-pimp-hand-strong.json) |
 | Pimp My Cruise | 212957 | [212957-pimp-my-cruise.json](./212957-pimp-my-cruise.json) |
