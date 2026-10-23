@@ -4697,6 +4697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuma no Puutarou: Takara Sagashi da Ohiri Game Battle! | 228600 | [228600-kuma-no-puutarou-takara-sagashi-da-ohiri-game-battle.json](./228600-kuma-no-puutarou-takara-sagashi-da-ohiri-game-battle.json) |
 | Kuma Story | 170046 | [170046-kuma-story.json](./170046-kuma-story.json) |
 | Kuma Sushi Bar | 200745 | [200745-kuma-sushi-bar.json](./200745-kuma-sushi-bar.json) |
+| Kuma Uta | 70220 | [70220-kuma-uta.json](./70220-kuma-uta.json) |
 | Kuma\War | 23563 | [23563-kuma-war.json](./23563-kuma-war.json) |
 | Kumacure | 118609 | [118609-kumacure.json](./118609-kumacure.json) |
 | Kumamaru Adventure | 297638 | [297638-kumamaru-adventure.json](./297638-kumamaru-adventure.json) |
