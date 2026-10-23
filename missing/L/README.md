@@ -5872,6 +5872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loony | 197934 | [197934-loony.json](./197934-loony.json) |
 | Loony Balloon | 41543 | [41543-loony-balloon.json](./41543-loony-balloon.json) |
 | Loony Labyrinth | 122307 | [122307-loony-labyrinth.json](./122307-loony-labyrinth.json) |
+| Loonyland: Halloween Hill | 74154 | [74154-loonyland-halloween-hill.json](./74154-loonyland-halloween-hill.json) |
 | Loonz | 256222 | [256222-loonz.json](./256222-loonz.json) |
 | Loop | 157568 | [157568-loop.json](./157568-loop.json) |
 | Loop | 207803 | [207803-loop.json](./207803-loop.json) |
