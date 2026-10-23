@@ -2027,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Making Lovers: HD Deluxe Edition | 260219 | [260219-making-lovers-hd-deluxe-edition.json](./260219-making-lovers-hd-deluxe-edition.json) |
 | Making Lovers: Limited Edition | 166174 | [166174-making-lovers-limited-edition.json](./166174-making-lovers-limited-edition.json) |
 | Making of Conquerors | 184915 | [184915-making-of-conquerors.json](./184915-making-of-conquerors.json) |
+| Making of Nightruth II: Voice Selection | 98290 | [98290-making-of-nightruth-ii-voice-selection.json](./98290-making-of-nightruth-ii-voice-selection.json) |
 | Making the Game | 256118 | [256118-making-the-game.json](./256118-making-the-game.json) |
 | Making The Leap | 285150 | [285150-making-the-leap.json](./285150-making-the-leap.json) |
 | Makiomino | 196040 | [196040-makiomino.json](./196040-makiomino.json) |
@@ -2556,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MapleStory DS | 79942 | [79942-maplestory-ds.json](./79942-maplestory-ds.json) |
 | MapleStory iTCG | 320863 | [320863-maplestory-itcg.json](./320863-maplestory-itcg.json) |
 | MapleStory Live | 38880 | [38880-maplestory-live.json](./38880-maplestory-live.json) |
+| MapleStory M | 98295 | [98295-maplestory-m.json](./98295-maplestory-m.json) |
 | MapleStory Mayple Island | 299749 | [299749-maplestory-mayple-island.json](./299749-maplestory-mayple-island.json) |
 | MapleStory N | 343326 | [343326-maplestory-n.json](./343326-maplestory-n.json) |
 | Maplestory Odyssey | 226758 | [226758-maplestory-odyssey.json](./226758-maplestory-odyssey.json) |
@@ -9476,6 +9478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindfate | 319064 | [319064-mindfate.json](./319064-mindfate.json) |
 | Mindflux: Dead Man Walking | 319701 | [319701-mindflux-dead-man-walking.json](./319701-mindflux-dead-man-walking.json) |
 | Mindform | 292367 | [292367-mindform.json](./292367-mindform.json) |
+| Mindframe Arena | 98276 | [98276-mindframe-arena.json](./98276-mindframe-arena.json) |
 | Mindframe: The Secret Design - Collector's Edition | 132778 | [132778-mindframe-the-secret-design-collectors-edition.json](./132778-mindframe-the-secret-design-collectors-edition.json) |
 | Mindfunk in 13 Days | 397938 | [397938-mindfunk-in-13-days.json](./397938-mindfunk-in-13-days.json) |
 | MindGym | 172145 | [172145-mindgym.json](./172145-mindgym.json) |
