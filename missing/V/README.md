@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla: Before the War | 12809 | [12809-valhalla-before-the-war.json](./12809-valhalla-before-the-war.json) |
 | Valheim: Mistlands | 227760 | [227760-valheim-mistlands.json](./227760-valheim-mistlands.json) |
 | Valheim: The Bog Witch | 319145 | [319145-valheim-the-bog-witch.json](./319145-valheim-the-bog-witch.json) |
+| Valhyre | 68416 | [68416-valhyre.json](./68416-valhyre.json) |
 | Valhyre FPS | 131470 | [131470-valhyre-fps.json](./131470-valhyre-fps.json) |
 | Valhyre: The Aftermath | 67293 | [67293-valhyre-the-aftermath.json](./67293-valhyre-the-aftermath.json) |
 | Vali Victorian | 150618 | [150618-vali-victorian.json](./150618-vali-victorian.json) |
@@ -1794,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Mayhem | 179550 | [179550-village-mayhem.json](./179550-village-mayhem.json) |
 | Village Meow | 327172 | [327172-village-meow.json](./327172-village-meow.json) |
 | Village Merchant | 377167 | [377167-village-merchant.json](./377167-village-merchant.json) |
+| Village Monsters | 68469 | [68469-village-monsters.json](./68469-village-monsters.json) |
 | Village of Adventurers 2 | 74290 | [74290-village-of-adventurers-2.json](./74290-village-of-adventurers-2.json) |
 | Village of Origins | 210548 | [210548-village-of-origins.json](./210548-village-of-origins.json) |
 | Village of the Ages | 369042 | [369042-village-of-the-ages.json](./369042-village-of-the-ages.json) |
@@ -2299,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virush | 36969 | [36969-virush.json](./36969-virush.json) |
 | ViruStream | 331878 | [331878-virustream.json](./331878-virustream.json) |
 | Virusum | 210860 | [210860-virusum.json](./210860-virusum.json) |
+| VirusWar | 68414 | [68414-viruswar.json](./68414-viruswar.json) |
 | ViruZ | 156996 | [156996-viruz.json](./156996-viruz.json) |
 | Viruzzerk | 245296 | [245296-viruzzerk.json](./245296-viruzzerk.json) |
 | Virvius | 244888 | [244888-virvius.json](./244888-virvius.json) |
@@ -3003,6 +3006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VPetlings | 395580 | [395580-vpetlings.json](./395580-vpetlings.json) |
 | VPN Simulator | 371306 | [371306-vpn-simulator.json](./371306-vpn-simulator.json) |
 | VR - Talk to her | 104475 | [104475-vr-talk-to-her.json](./104475-vr-talk-to-her.json) |
+| VR Adventure (Virtual Reality for mobile devices) | 68485 | [68485-vr-adventure-virtual-reality-for-mobile-devices.json](./68485-vr-adventure-virtual-reality-for-mobile-devices.json) |
 | VR Agent | 288069 | [288069-vr-agent.json](./288069-vr-agent.json) |
 | VR Aim Trainer | 371590 | [371590-vr-aim-trainer.json](./371590-vr-aim-trainer.json) |
 | VR AirHockey | 195221 | [195221-vr-airhockey.json](./195221-vr-airhockey.json) |
