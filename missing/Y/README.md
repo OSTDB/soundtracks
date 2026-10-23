@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-Jin-Bo: The Bodyguards | 72679 | [72679-yo-jin-bo-the-bodyguards.json](./72679-yo-jin-bo-the-bodyguards.json) |
 | Yo-Jin-Bo: Unmei no Freude | 200010 | [200010-yo-jin-bo-unmei-no-freude.json](./200010-yo-jin-bo-unmei-no-freude.json) |
 | Yo-Kai Dictionary | 57026 | [57026-yo-kai-dictionary.json](./57026-yo-kai-dictionary.json) |
+| Yo-kai Sangokushi | 60405 | [60405-yo-kai-sangokushi.json](./60405-yo-kai-sangokushi.json) |
 | Yo-kai Sangokushi: Kunitori Wars | 77356 | [77356-yo-kai-sangokushi-kunitori-wars.json](./77356-yo-kai-sangokushi-kunitori-wars.json) |
 | Yo-Kai Watch 1 for Nintendo Switch | 136357 | [136357-yo-kai-watch-1-for-nintendo-switch.json](./136357-yo-kai-watch-1-for-nintendo-switch.json) |
 | Yo-kai Watch 1 Smartphone | 308252 | [308252-yo-kai-watch-1-smartphone.json](./308252-yo-kai-watch-1-smartphone.json) |
@@ -612,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yogurt! | 158540 | [158540-yogurt.json](./158540-yogurt.json) |
 | Yogurt's Big Adventure | 227753 | [227753-yogurts-big-adventure.json](./227753-yogurts-big-adventure.json) |
 | Yogurting | 166014 | [166014-yogurting.json](./166014-yogurting.json) |
+| Yogurting Pop! | 60340 | [60340-yogurting-pop.json](./60340-yogurting-pop.json) |
 | Yogventures 2: Electric Boogaloo | 184455 | [184455-yogventures-2-electric-boogaloo.json](./184455-yogventures-2-electric-boogaloo.json) |
 | Yogventures! | 65246 | [65246-yogventures.json](./65246-yogventures.json) |
 | Yohane the Parhelion: Additional Character Pack vol.1 "Dia & Hanamaru & Kanan" | 301020 | [301020-yohane-the-parhelion-additional-character-pack-vol-1-dia-and-hanamaru-and-kanan.json](./301020-yohane-the-parhelion-additional-character-pack-vol-1-dia-and-hanamaru-and-kanan.json) |
@@ -676,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokoi-san Warp | 183022 | [183022-yokoi-san-warp.json](./183022-yokoi-san-warp.json) |
 | Yokojiku de Manabu Sekai no Rekishi: Yoko-Gaku DS | 268901 | [268901-yokojiku-de-manabu-sekai-no-rekishi-yoko-gaku-ds.json](./268901-yokojiku-de-manabu-sekai-no-rekishi-yoko-gaku-ds.json) |
 | Yokoyama Mitsuteru Sangokushi Bangi: Sugoroku Eiyuuki | 37757 | [37757-yokoyama-mitsuteru-sangokushi-bangi-sugoroku-eiyuuki.json](./37757-yokoyama-mitsuteru-sangokushi-bangi-sugoroku-eiyuuki.json) |
+| Yokoyama Mitsuteru Sangokushi II | 60947 | [60947-yokoyama-mitsuteru-sangokushi-ii.json](./60947-yokoyama-mitsuteru-sangokushi-ii.json) |
 | Yokoyama Mitsuteru: Sangokushi | 37759 | [37759-yokoyama-mitsuteru-sangokushi.json](./37759-yokoyama-mitsuteru-sangokushi.json) |
 | Yokozuna Monogatari | 37756 | [37756-yokozuna-monogatari.json](./37756-yokozuna-monogatari.json) |
 | Yoku aru Dasshutsu Game | 319889 | [319889-yoku-aru-dasshutsu-game.json](./319889-yoku-aru-dasshutsu-game.json) |
