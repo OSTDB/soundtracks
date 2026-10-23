@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden Camp | 419334 | [419334-eden-camp.json](./419334-eden-camp.json) |
 | Eden Daho | 386516 | [386516-eden-daho.json](./386516-eden-daho.json) |
 | Eden Eternal | 46995 | [46995-eden-eternal.json](./46995-eden-eternal.json) |
+| Eden Falling | 74177 | [74177-eden-falling.json](./74177-eden-falling.json) |
 | Eden Gamma | 235793 | [235793-eden-gamma.json](./235793-eden-gamma.json) |
 | Eden Genesis | 280561 | [280561-eden-genesis.json](./280561-eden-genesis.json) |
 | Eden Island | 202548 | [202548-eden-island.json](./202548-eden-island.json) |
@@ -988,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Dreams | 137862 | [137862-edge-of-dreams.json](./137862-edge-of-dreams.json) |
 | Edge of Elsewhere | 168661 | [168661-edge-of-elsewhere.json](./168661-edge-of-elsewhere.json) |
 | Edge of Endless | 302091 | [302091-edge-of-endless.json](./302091-edge-of-endless.json) |
+| Edge Of Existence | 74189 | [74189-edge-of-existence.json](./74189-edge-of-existence.json) |
 | Edge of Extinction | 349323 | [349323-edge-of-extinction.json](./349323-edge-of-extinction.json) |
 | Edge of Galaxy | 115681 | [115681-edge-of-galaxy.json](./115681-edge-of-galaxy.json) |
 | Edge of Galaxy | 344574 | [344574-edge-of-galaxy.json](./344574-edge-of-galaxy.json) |
@@ -3269,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enspell | 275145 | [275145-enspell.json](./275145-enspell.json) |
 | Ent | 183892 | [183892-ent.json](./183892-ent.json) |
 | Entaku no Seito | 13201 | [13201-entaku-no-seito.json](./13201-entaku-no-seito.json) |
+| Entaku no Seito 2 | 74156 | [74156-entaku-no-seito-2.json](./74156-entaku-no-seito-2.json) |
 | Entaku no Seito: The Eternal Legend | 13216 | [13216-entaku-no-seito-the-eternal-legend.json](./13216-entaku-no-seito-the-eternal-legend.json) |
 | Entangled | 105321 | [105321-entangled.json](./105321-entangled.json) |
 | Entangled | 212158 | [212158-entangled.json](./212158-entangled.json) |
