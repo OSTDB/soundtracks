@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Cook | 200118 | [200118-happy-cook.json](./200118-happy-cook.json) |
 | Happy Cookies | 365261 | [365261-happy-cookies.json](./365261-happy-cookies.json) |
 | Happy Critters | 33419 | [33419-happy-critters.json](./33419-happy-critters.json) |
+| Happy Dance Collection | 51024 | [51024-happy-dance-collection.json](./51024-happy-dance-collection.json) |
 | Happy Dash | 267341 | [267341-happy-dash.json](./267341-happy-dash.json) |
 | Happy Day | 158165 | [158165-happy-day.json](./158165-happy-day.json) |
 | Happy Day | 388974 | [388974-happy-day.json](./388974-happy-day.json) |
