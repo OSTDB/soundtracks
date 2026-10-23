@@ -5989,6 +5989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Tits | 393375 | [393375-big-tits.json](./393375-big-tits.json) |
 | Big Titty Teacher: Hentai School Life | 97667 | [97667-big-titty-teacher-hentai-school-life.json](./97667-big-titty-teacher-hentai-school-life.json) |
 | Big Top | 304302 | [304302-big-top.json](./304302-big-top.json) |
+| Big Top | 85927 | [85927-big-top.json](./85927-big-top.json) |
 | Big Top Best Kids Games Bundle | 303877 | [303877-big-top-best-kids-games-bundle.json](./303877-big-top-best-kids-games-bundle.json) |
 | Big Top Solitaire | 386134 | [386134-big-top-solitaire.json](./386134-big-top-solitaire.json) |
 | Big Trouble in Little Garden | 183280 | [183280-big-trouble-in-little-garden.json](./183280-big-trouble-in-little-garden.json) |
@@ -12232,6 +12233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Constructor: Ultimate Edition | 129195 | [129195-bridge-constructor-ultimate-edition.json](./129195-bridge-constructor-ultimate-edition.json) |
 | Bridge Crawler | 156521 | [156521-bridge-crawler.json](./156521-bridge-crawler.json) |
 | Bridge Creator 2015 | 35857 | [35857-bridge-creator-2015.json](./35857-bridge-creator-2015.json) |
+| Bridge Deluxe 2 With Omar Sharif | 85921 | [85921-bridge-deluxe-2-with-omar-sharif.json](./85921-bridge-deluxe-2-with-omar-sharif.json) |
 | Bridge Encounter | 337726 | [337726-bridge-encounter.json](./337726-bridge-encounter.json) |
 | Bridge for Windows | 83475 | [83475-bridge-for-windows.json](./83475-bridge-for-windows.json) |
 | Bridge hand Composer | 87317 | [87317-bridge-hand-composer.json](./87317-bridge-hand-composer.json) |
