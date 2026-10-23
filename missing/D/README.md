@@ -6101,6 +6101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Club: Gallery of Shadows - Collector's Edition | 362848 | [362848-detective-club-gallery-of-shadows-collectors-edition.json](./362848-detective-club-gallery-of-shadows-collectors-edition.json) |
 | Detective Club: Missing in the Fog - Collector's Edition | 342099 | [342099-detective-club-missing-in-the-fog-collectors-edition.json](./342099-detective-club-missing-in-the-fog-collectors-edition.json) |
 | Detective Conan Skateboard Run: Kaitou Kid to Shinpi no Hihou | 115712 | [115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json](./115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json) |
+| Detective Conan: Akatsuki no Monument | 49695 | [49695-detective-conan-akatsuki-no-monument.json](./49695-detective-conan-akatsuki-no-monument.json) |
 | Detective Conan: Aoki Houseki no Rinbukyoku - Rondo | 79556 | [79556-detective-conan-aoki-houseki-no-rinbukyoku-rondo.json](./79556-detective-conan-aoki-houseki-no-rinbukyoku-rondo.json) |
 | Detective Conan: Giwaku no Gouka Ressha | 61423 | [61423-detective-conan-giwaku-no-gouka-ressha.json](./61423-detective-conan-giwaku-no-gouka-ressha.json) |
 | Detective Conan: Kieta Hakase to Machigai Sagashi no Tou | 79555 | [79555-detective-conan-kieta-hakase-to-machigai-sagashi-no-tou.json](./79555-detective-conan-kieta-hakase-to-machigai-sagashi-no-tou.json) |
