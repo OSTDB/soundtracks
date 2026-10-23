@@ -1369,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! 5D's Stardust Accelerator World Championship Tournament 2009 | 21129 | [21129-yu-gi-oh-5ds-stardust-accelerator-world-championship-tournament-2009.json](./21129-yu-gi-oh-5ds-stardust-accelerator-world-championship-tournament-2009.json) |
 | Yu-Gi-Oh! 5D's Tag Force 4 | 42790 | [42790-yu-gi-oh-5ds-tag-force-4.json](./42790-yu-gi-oh-5ds-tag-force-4.json) |
 | Yu-Gi-Oh! 5D's Tag Force 5 | 42854 | [42854-yu-gi-oh-5ds-tag-force-5.json](./42854-yu-gi-oh-5ds-tag-force-5.json) |
+| Yu-Gi-Oh! 5D's Wheelie Breakers | 50997 | [50997-yu-gi-oh-5ds-wheelie-breakers.json](./50997-yu-gi-oh-5ds-wheelie-breakers.json) |
 | Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia | 47841 | [47841-yu-gi-oh-5ds-world-championship-2010-reverse-of-arcadia.json](./47841-yu-gi-oh-5ds-world-championship-2010-reverse-of-arcadia.json) |
 | Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus | 47801 | [47801-yu-gi-oh-5ds-world-championship-2011-over-the-nexus.json](./47801-yu-gi-oh-5ds-world-championship-2011-over-the-nexus.json) |
 | Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 | 68039 | [68039-yu-gi-oh-7-trials-to-glory-world-championship-tournament-2005.json](./68039-yu-gi-oh-7-trials-to-glory-world-championship-tournament-2005.json) |
