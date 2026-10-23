@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-23T20:18:06.882Z",
-  "total_missing": 252634,
+  "generated_at": "2026-10-23T20:33:08.237Z",
+  "total_missing": 252684,
   "games": [
     {
       "igdb_id": 191680,
@@ -334677,6 +334677,11 @@
       "file": "missing/E/32291-enigmatis-3-the-shadow-of-karkhala.json"
     },
     {
+      "igdb_id": 52986,
+      "game_name": "Enigmatis Collection",
+      "file": "missing/E/52986-enigmatis-collection.json"
+    },
+    {
       "igdb_id": 17137,
       "game_name": "Enigmatis: The Ghosts of Maple Creek",
       "file": "missing/E/17137-enigmatis-the-ghosts-of-maple-creek.json"
@@ -335190,6 +335195,11 @@
       "igdb_id": 118942,
       "game_name": "Enter the Gungeon: A Farewell to Arms",
       "file": "missing/E/118942-enter-the-gungeon-a-farewell-to-arms.json"
+    },
+    {
+      "igdb_id": 52985,
+      "game_name": "Enter the Gungeon: Collector's Edition",
+      "file": "missing/E/52985-enter-the-gungeon-collectors-edition.json"
     },
     {
       "igdb_id": 136309,
@@ -342437,6 +342447,16 @@
       "file": "missing/E/397939-eternal-hunger.json"
     },
     {
+      "igdb_id": 52983,
+      "game_name": "Eternal Journey: New Atlantis",
+      "file": "missing/E/52983-eternal-journey-new-atlantis.json"
+    },
+    {
+      "igdb_id": 52982,
+      "game_name": "Eternal Journey: New Atlantis Collector's Edition",
+      "file": "missing/E/52982-eternal-journey-new-atlantis-collectors-edition.json"
+    },
+    {
       "igdb_id": 269012,
       "game_name": "Eternal King",
       "file": "missing/E/269012-eternal-king.json"
@@ -343602,6 +343622,11 @@
       "file": "missing/E/173108-euro-fishing-collectors-edition.json"
     },
     {
+      "igdb_id": 52980,
+      "game_name": "Euro Fishing: Foundry Dock",
+      "file": "missing/E/52980-euro-fishing-foundry-dock.json"
+    },
+    {
       "igdb_id": 170760,
       "game_name": "Euro Fishing: Hunters Lake",
       "file": "missing/E/170760-euro-fishing-hunters-lake.json"
@@ -343687,6 +343712,11 @@
       "file": "missing/E/277585-euro-truck-simulator-2-daf-xd.json"
     },
     {
+      "igdb_id": 52976,
+      "game_name": "Euro Truck Simulator 2: Essentials",
+      "file": "missing/E/52976-euro-truck-simulator-2-essentials.json"
+    },
+    {
       "igdb_id": 356654,
       "game_name": "Euro Truck Simulator 2: Farm Machinery",
       "file": "missing/E/356654-euro-truck-simulator-2-farm-machinery.json"
@@ -343700,6 +343730,11 @@
       "igdb_id": 26252,
       "game_name": "Euro Truck Simulator 2: Going East",
       "file": "missing/E/26252-euro-truck-simulator-2-going-east.json"
+    },
+    {
+      "igdb_id": 52975,
+      "game_name": "Euro Truck Simulator 2: Gold Edition",
+      "file": "missing/E/52975-euro-truck-simulator-2-gold-edition.json"
     },
     {
       "igdb_id": 274881,
@@ -343742,9 +343777,19 @@
       "file": "missing/E/358728-euro-truck-simulator-2-krone-agriculture-equipment.json"
     },
     {
+      "igdb_id": 52973,
+      "game_name": "Euro Truck Simulator 2: Legendary Edition",
+      "file": "missing/E/52973-euro-truck-simulator-2-legendary-edition.json"
+    },
+    {
       "igdb_id": 266243,
       "game_name": "Euro Truck Simulator 2: Modern Lines Paint Jobs Pack",
       "file": "missing/E/266243-euro-truck-simulator-2-modern-lines-paint-jobs-pack.json"
+    },
+    {
+      "igdb_id": 52977,
+      "game_name": "Euro Truck Simulator 2: Platinum Edition",
+      "file": "missing/E/52977-euro-truck-simulator-2-platinum-edition.json"
     },
     {
       "igdb_id": 311995,
@@ -343770,6 +343815,11 @@
       "igdb_id": 225577,
       "game_name": "Euro Truck Simulator 2: Street Art Paint Jobs Pack",
       "file": "missing/E/225577-euro-truck-simulator-2-street-art-paint-jobs-pack.json"
+    },
+    {
+      "igdb_id": 52972,
+      "game_name": "Euro Truck Simulator 2: Titanium Edition",
+      "file": "missing/E/52972-euro-truck-simulator-2-titanium-edition.json"
     },
     {
       "igdb_id": 26254,
@@ -343882,6 +343932,11 @@
       "file": "missing/E/25525-europa-universalis-iii-chronicles.json"
     },
     {
+      "igdb_id": 52971,
+      "game_name": "Europa Universalis III: Collector's Edition",
+      "file": "missing/E/52971-europa-universalis-iii-collectors-edition.json"
+    },
+    {
       "igdb_id": 743,
       "game_name": "Europa Universalis III: Heir to the Throne",
       "file": "missing/E/743-europa-universalis-iii-heir-to-the-throne.json"
@@ -343907,14 +343962,29 @@
       "file": "missing/E/19298-europa-universalis-iv-common-sense.json"
     },
     {
+      "igdb_id": 53007,
+      "game_name": "Europa Universalis IV: Common Sense Collection",
+      "file": "missing/E/53007-europa-universalis-iv-common-sense-collection.json"
+    },
+    {
       "igdb_id": 227350,
       "game_name": "Europa Universalis IV: Common Sense Content Pack",
       "file": "missing/E/227350-europa-universalis-iv-common-sense-content-pack.json"
     },
     {
+      "igdb_id": 52970,
+      "game_name": "Europa Universalis IV: Conquest Collection",
+      "file": "missing/E/52970-europa-universalis-iv-conquest-collection.json"
+    },
+    {
       "igdb_id": 19299,
       "game_name": "Europa Universalis IV: Conquest of Paradise",
       "file": "missing/E/19299-europa-universalis-iv-conquest-of-paradise.json"
+    },
+    {
+      "igdb_id": 53006,
+      "game_name": "Europa Universalis IV: Conquest of Paradise Collection",
+      "file": "missing/E/53006-europa-universalis-iv-conquest-of-paradise-collection.json"
     },
     {
       "igdb_id": 76191,
@@ -343937,6 +344007,11 @@
       "file": "missing/E/227342-europa-universalis-iv-dharma-content-pack.json"
     },
     {
+      "igdb_id": 53009,
+      "game_name": "Europa Universalis IV: Digital Extreme Edition",
+      "file": "missing/E/53009-europa-universalis-iv-digital-extreme-edition.json"
+    },
+    {
       "igdb_id": 240892,
       "game_name": "Europa Universalis IV: Domination",
       "file": "missing/E/240892-europa-universalis-iv-domination.json"
@@ -343955,6 +344030,11 @@
       "igdb_id": 227344,
       "game_name": "Europa Universalis IV: Emperor Content Pack",
       "file": "missing/E/227344-europa-universalis-iv-emperor-content-pack.json"
+    },
+    {
+      "igdb_id": 53008,
+      "game_name": "Europa Universalis IV: Extreme Edition",
+      "file": "missing/E/53008-europa-universalis-iv-extreme-edition.json"
     },
     {
       "igdb_id": 169310,
@@ -343987,6 +344067,16 @@
       "file": "missing/E/227345-europa-universalis-iv-mandate-of-heaven-content-pack.json"
     },
     {
+      "igdb_id": 53005,
+      "game_name": "Europa Universalis IV: Mare Nostrum",
+      "file": "missing/E/53005-europa-universalis-iv-mare-nostrum.json"
+    },
+    {
+      "igdb_id": 53004,
+      "game_name": "Europa Universalis IV: Mare Nostrum Collection",
+      "file": "missing/E/53004-europa-universalis-iv-mare-nostrum-collection.json"
+    },
+    {
       "igdb_id": 227346,
       "game_name": "Europa Universalis IV: Mare Nostrum Content Pack",
       "file": "missing/E/227346-europa-universalis-iv-mare-nostrum-content-pack.json"
@@ -344000,6 +344090,16 @@
       "igdb_id": 19294,
       "game_name": "Europa Universalis IV: Res Publica",
       "file": "missing/E/19294-europa-universalis-iv-res-publica.json"
+    },
+    {
+      "igdb_id": 53002,
+      "game_name": "Europa Universalis IV: Rights of Man",
+      "file": "missing/E/53002-europa-universalis-iv-rights-of-man.json"
+    },
+    {
+      "igdb_id": 53000,
+      "game_name": "Europa Universalis IV: Rights of Man Collection",
+      "file": "missing/E/53000-europa-universalis-iv-rights-of-man-collection.json"
     },
     {
       "igdb_id": 227347,
@@ -344017,9 +344117,34 @@
       "file": "missing/E/227861-europa-universalis-iv-songs-of-regency.json"
     },
     {
+      "igdb_id": 52999,
+      "game_name": "Europa Universalis IV: The Art of War Collection",
+      "file": "missing/E/52999-europa-universalis-iv-the-art-of-war-collection.json"
+    },
+    {
+      "igdb_id": 52969,
+      "game_name": "Europa Universalis IV: The Cossacks",
+      "file": "missing/E/52969-europa-universalis-iv-the-cossacks.json"
+    },
+    {
+      "igdb_id": 52998,
+      "game_name": "Europa Universalis IV: The Cossacks Collection",
+      "file": "missing/E/52998-europa-universalis-iv-the-cossacks-collection.json"
+    },
+    {
       "igdb_id": 227348,
       "game_name": "Europa Universalis IV: The Cossacks Content Pack",
       "file": "missing/E/227348-europa-universalis-iv-the-cossacks-content-pack.json"
+    },
+    {
+      "igdb_id": 52997,
+      "game_name": "Europa Universalis IV: The El Dorado Collection",
+      "file": "missing/E/52997-europa-universalis-iv-the-el-dorado-collection.json"
+    },
+    {
+      "igdb_id": 52996,
+      "game_name": "Europa Universalis IV: Third Rome",
+      "file": "missing/E/52996-europa-universalis-iv-third-rome.json"
     },
     {
       "igdb_id": 284902,
@@ -344030,6 +344155,11 @@
       "igdb_id": 285108,
       "game_name": "Europa Universalis IV: Utopia Holy Roman Empire Music Pack",
       "file": "missing/E/285108-europa-universalis-iv-utopia-holy-roman-empire-music-pack.json"
+    },
+    {
+      "igdb_id": 52995,
+      "game_name": "Europa Universalis IV: Wealth of Nations Collection",
+      "file": "missing/E/52995-europa-universalis-iv-wealth-of-nations-collection.json"
     },
     {
       "igdb_id": 298306,
@@ -352452,6 +352582,11 @@
       "file": "missing/F/64303-f-a-18-operation-iraqi-freedom.json"
     },
     {
+      "igdb_id": 52992,
+      "game_name": "F/A-18E Super Hornet",
+      "file": "missing/F/52992-f-a-18e-super-hornet.json"
+    },
+    {
       "igdb_id": 84201,
       "game_name": "F/A-18E Super Hornet: The Albanian Campaign",
       "file": "missing/F/84201-f-a-18e-super-hornet-the-albanian-campaign.json"
@@ -352860,6 +352995,11 @@
       "igdb_id": 142716,
       "game_name": "Fab Fashion",
       "file": "missing/F/142716-fab-fashion.json"
+    },
+    {
+      "igdb_id": 52988,
+      "game_name": "Fabble's Adventure",
+      "file": "missing/F/52988-fabbles-adventure.json"
     },
     {
       "igdb_id": 239324,
@@ -354522,6 +354662,11 @@
       "file": "missing/F/249026-fairy-hunter.json"
     },
     {
+      "igdb_id": 52987,
+      "game_name": "Fairy Jewels 2",
+      "file": "missing/F/52987-fairy-jewels-2.json"
+    },
+    {
       "igdb_id": 235284,
       "game_name": "Fairy Kingdom: Castle of Magic",
       "file": "missing/F/235284-fairy-kingdom-castle-of-magic.json"
@@ -354820,6 +354965,11 @@
       "igdb_id": 265565,
       "game_name": "Fairy Trails: Battle for Ever After",
       "file": "missing/F/265565-fairy-trails-battle-for-ever-after.json"
+    },
+    {
+      "igdb_id": 53028,
+      "game_name": "Fairy Treasure",
+      "file": "missing/F/53028-fairy-treasure.json"
     },
     {
       "igdb_id": 108859,
@@ -356577,6 +356727,11 @@
       "file": "missing/F/82329-fallen-mage-restocked.json"
     },
     {
+      "igdb_id": 53027,
+      "game_name": "Fallen Oaks",
+      "file": "missing/F/53027-fallen-oaks.json"
+    },
+    {
       "igdb_id": 174243,
       "game_name": "Fallen of the Round",
       "file": "missing/F/174243-fallen-of-the-round.json"
@@ -357310,6 +357465,11 @@
       "igdb_id": 115713,
       "game_name": "Fallout 76: Wild Appalachia",
       "file": "missing/F/115713-fallout-76-wild-appalachia.json"
+    },
+    {
+      "igdb_id": 53024,
+      "game_name": "Fallout Classic Collection",
+      "file": "missing/F/53024-fallout-classic-collection.json"
     },
     {
       "igdb_id": 177387,
@@ -359757,6 +359917,16 @@
       "file": "missing/F/30234-fantasy-grounds.json"
     },
     {
+      "igdb_id": 53021,
+      "game_name": "Fantasy Grounds: Call of Cthulhu - The House of R'lyeh",
+      "file": "missing/F/53021-fantasy-grounds-call-of-cthulhu-the-house-of-rlyeh.json"
+    },
+    {
+      "igdb_id": 53020,
+      "game_name": "Fantasy Grounds: Savage Worlds Setting - Weird Wars II",
+      "file": "missing/F/53020-fantasy-grounds-savage-worlds-setting-weird-wars-ii.json"
+    },
+    {
       "igdb_id": 164297,
       "game_name": "Fantasy Gunner",
       "file": "missing/F/164297-fantasy-gunner.json"
@@ -360962,6 +361132,11 @@
       "file": "missing/F/95960-far-cry-5-season-pass.json"
     },
     {
+      "igdb_id": 53012,
+      "game_name": "Far Cry 5: Deluxe Edition",
+      "file": "missing/F/53012-far-cry-5-deluxe-edition.json"
+    },
+    {
       "igdb_id": 118709,
       "game_name": "Far Cry 5: Digital Deluxe Edition",
       "file": "missing/F/118709-far-cry-5-digital-deluxe-edition.json"
@@ -360970,6 +361145,11 @@
       "igdb_id": 118710,
       "game_name": "Far Cry 5: Digital Gold Edition",
       "file": "missing/F/118710-far-cry-5-digital-gold-edition.json"
+    },
+    {
+      "igdb_id": 53011,
+      "game_name": "Far Cry 5: Gold Edition",
+      "file": "missing/F/53011-far-cry-5-gold-edition.json"
     },
     {
       "igdb_id": 83887,
@@ -361100,6 +361280,11 @@
       "igdb_id": 139908,
       "game_name": "Far Cry: New Dawn - Superbloom Edition",
       "file": "missing/F/139908-far-cry-new-dawn-superbloom-edition.json"
+    },
+    {
+      "igdb_id": 53017,
+      "game_name": "Far Cry: Primal - Special Edition",
+      "file": "missing/F/53017-far-cry-primal-special-edition.json"
     },
     {
       "igdb_id": 117513,
@@ -361875,6 +362060,11 @@
       "igdb_id": 88808,
       "game_name": "Farm Frenzy 3 HD",
       "file": "missing/F/88808-farm-frenzy-3-hd.json"
+    },
+    {
+      "igdb_id": 53010,
+      "game_name": "Farm Frenzy 3: Ice Domain",
+      "file": "missing/F/53010-farm-frenzy-3-ice-domain.json"
     },
     {
       "igdb_id": 53034,
@@ -1137882,6 +1138072,11 @@
       "file": "missing/T/143947-topang.json"
     },
     {
+      "igdb_id": 52981,
+      "game_name": "Topatoi: Spinning Through the Worlds",
+      "file": "missing/T/52981-topatoi-spinning-through-the-worlds.json"
+    },
+    {
       "igdb_id": 143067,
       "game_name": "Topgolf with Pro Putt",
       "file": "missing/T/143067-topgolf-with-pro-putt.json"
@@ -1156607,6 +1156802,11 @@
       "file": "missing/T/271275-treasure-of-the-giantess.json"
     },
     {
+      "igdb_id": 53003,
+      "game_name": "Treasure Park",
+      "file": "missing/T/53003-treasure-park.json"
+    },
+    {
       "igdb_id": 309479,
       "game_name": "Treasure Protector",
       "file": "missing/T/309479-treasure-protector.json"
@@ -1157700,6 +1157900,11 @@
       "igdb_id": 19951,
       "game_name": "Trials Fusion: Awesome Level Max",
       "file": "missing/T/19951-trials-fusion-awesome-level-max.json"
+    },
+    {
+      "igdb_id": 53001,
+      "game_name": "Trials Fusion: Empire of the Sky",
+      "file": "missing/T/53001-trials-fusion-empire-of-the-sky.json"
     },
     {
       "igdb_id": 165422,
@@ -1176307,6 +1176512,11 @@
       "file": "missing/U/383347-under-siege.json"
     },
     {
+      "igdb_id": 52990,
+      "game_name": "Under Siege",
+      "file": "missing/U/52990-under-siege.json"
+    },
+    {
       "igdb_id": 95467,
       "game_name": "Under Siege",
       "file": "missing/U/95467-under-siege.json"
@@ -1182472,6 +1182682,11 @@
       "file": "missing/U/336613-uppercute.json"
     },
     {
+      "igdb_id": 53029,
+      "game_name": "Uppers",
+      "file": "missing/U/53029-uppers.json"
+    },
+    {
       "igdb_id": 102794,
       "game_name": "Upperz",
       "file": "missing/U/102794-upperz.json"
@@ -1185852,6 +1186067,11 @@
       "file": "missing/V/20072-valhalla-knights-3.json"
     },
     {
+      "igdb_id": 53026,
+      "game_name": "Valhalla Knights 3 Gold",
+      "file": "missing/V/53026-valhalla-knights-3-gold.json"
+    },
+    {
       "igdb_id": 328465,
       "game_name": "Valhalla Mountain",
       "file": "missing/V/328465-valhalla-mountain.json"
@@ -1187625,6 +1187845,11 @@
       "igdb_id": 6543,
       "game_name": "Vandal Hearts II",
       "file": "missing/V/6543-vandal-hearts-ii.json"
+    },
+    {
+      "igdb_id": 53025,
+      "game_name": "Vandal Hearts: Flames of Judgment",
+      "file": "missing/V/53025-vandal-hearts-flames-of-judgment.json"
     },
     {
       "igdb_id": 153934,
@@ -1200042,6 +1200267,11 @@
       "file": "missing/V/30365-vr-invaders.json"
     },
     {
+      "igdb_id": 53018,
+      "game_name": "VR Invaders: Complete Edition",
+      "file": "missing/V/53018-vr-invaders-complete-edition.json"
+    },
+    {
       "igdb_id": 123389,
       "game_name": "VR Jetpack Game",
       "file": "missing/V/123389-vr-jetpack-game.json"
@@ -1200505,6 +1200735,11 @@
       "igdb_id": 247042,
       "game_name": "VR Tennis",
       "file": "missing/V/247042-vr-tennis.json"
+    },
+    {
+      "igdb_id": 53016,
+      "game_name": "VR Tennis Online",
+      "file": "missing/V/53016-vr-tennis-online.json"
     },
     {
       "igdb_id": 25118,
@@ -1201255,6 +1201490,11 @@
       "igdb_id": 248110,
       "game_name": "VT Harmony",
       "file": "missing/V/248110-vt-harmony.json"
+    },
+    {
+      "igdb_id": 53015,
+      "game_name": "VT Tennis",
+      "file": "missing/V/53015-vt-tennis.json"
     },
     {
       "igdb_id": 116911,
@@ -1202680,6 +1202920,11 @@
       "igdb_id": 22473,
       "game_name": "Wakeari!",
       "file": "missing/W/22473-wakeari.json"
+    },
+    {
+      "igdb_id": 53013,
+      "game_name": "Wakeboarding HD",
+      "file": "missing/W/53013-wakeboarding-hd.json"
     },
     {
       "igdb_id": 248685,
@@ -1236870,6 +1237115,11 @@
       "igdb_id": 24938,
       "game_name": "Worms: Reinforcements",
       "file": "missing/W/24938-worms-reinforcements.json"
+    },
+    {
+      "igdb_id": 53032,
+      "game_name": "Worms: Revolution Extreme",
+      "file": "missing/W/53032-worms-revolution-extreme.json"
     },
     {
       "igdb_id": 88828,
