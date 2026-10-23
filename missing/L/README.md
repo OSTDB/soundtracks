@@ -5626,6 +5626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | London 2012: Official Mobile Game | 137015 | [137015-london-2012-official-mobile-game.json](./137015-london-2012-official-mobile-game.json) |
 | London 2012: The Official Video Game | 7055 | [7055-london-2012-the-official-video-game.json](./7055-london-2012-the-official-video-game.json) |
 | London Cab Challenge | 43470 | [43470-london-cab-challenge.json](./43470-london-cab-challenge.json) |
+| London Control | 78486 | [78486-london-control.json](./78486-london-control.json) |
 | London Craft: Crafting & Building Exploration Game | 102661 | [102661-london-craft-crafting-and-building-exploration-game.json](./102661-london-craft-crafting-and-building-exploration-game.json) |
 | London Crazy Taxi | 235217 | [235217-london-crazy-taxi.json](./235217-london-crazy-taxi.json) |
 | London Detective Mysteria | 104261 | [104261-london-detective-mysteria.json](./104261-london-detective-mysteria.json) |
