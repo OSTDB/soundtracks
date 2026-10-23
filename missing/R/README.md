@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Cross Challenge | 93365 | [93365-rally-cross-challenge.json](./93365-rally-cross-challenge.json) |
 | Rally Day | 216147 | [216147-rally-day.json](./216147-rally-day.json) |
 | Rally de Africa | 138176 | [138176-rally-de-africa.json](./138176-rally-de-africa.json) |
+| Rally de Europe | 79695 | [79695-rally-de-europe.json](./79695-rally-de-europe.json) |
 | Rally del Casentino: The Game | 133194 | [133194-rally-del-casentino-the-game.json](./133194-rally-del-casentino-the-game.json) |
 | Rally Drift Cars | 123558 | [123558-rally-drift-cars.json](./123558-rally-drift-cars.json) |
 | Rally Drifters Racing Cars 3D: Ultimate Fast Car Gang Challange | 232164 | [232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json](./232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json) |
@@ -6991,6 +6992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop 2 | 144145 | [144145-robocop-2.json](./144145-robocop-2.json) |
 | RoboCop 2 | 219017 | [219017-robocop-2.json](./219017-robocop-2.json) |
 | RoboCop 2 | 6853 | [6853-robocop-2.json](./6853-robocop-2.json) |
+| RoboCop 2D | 79729 | [79729-robocop-2d.json](./79729-robocop-2d.json) |
 | RoboCop 2D 2: RoboCop vs. Terminator | 203234 | [203234-robocop-2d-2-robocop-vs-terminator.json](./203234-robocop-2d-2-robocop-vs-terminator.json) |
 | Robocop 2D 3 | 287868 | [287868-robocop-2d-3.json](./287868-robocop-2d-3.json) |
 | RoboCop 3 | 12749 | [12749-robocop-3.json](./12749-robocop-3.json) |
