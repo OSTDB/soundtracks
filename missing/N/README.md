@@ -5275,6 +5275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noora and the Time Studio | 137517 | [137517-noora-and-the-time-studio.json](./137517-noora-and-the-time-studio.json) |
 | Noosphere | 123845 | [123845-noosphere.json](./123845-noosphere.json) |
 | Noox | 343992 | [343992-noox.json](./343992-noox.json) |
+| Noozh: Deep in Nightmares | 58551 | [58551-noozh-deep-in-nightmares.json](./58551-noozh-deep-in-nightmares.json) |
 | Nope | 184468 | [184468-nope.json](./184468-nope.json) |
 | Nope Nope Nope Nope Nurses | 261755 | [261755-nope-nope-nope-nope-nurses.json](./261755-nope-nope-nope-nope-nurses.json) |
 | Nope Nope Nurses | 215754 | [215754-nope-nope-nurses.json](./215754-nope-nope-nurses.json) |
