@@ -5963,6 +5963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Trak 10 | 7429 | [7429-gran-trak-10.json](./7429-gran-trak-10.json) |
 | Gran Trak 20 | 174658 | [174658-gran-trak-20.json](./174658-gran-trak-20.json) |
 | Gran Turismo | 20426 | [20426-gran-turismo.json](./20426-gran-turismo.json) |
+| Gran Turismo / Motor Toon Grand Prix 2 Double Pack | 88893 | [88893-gran-turismo-motor-toon-grand-prix-2-double-pack.json](./88893-gran-turismo-motor-toon-grand-prix-2-double-pack.json) |
 | Gran Turismo 2 | 1597 | [1597-gran-turismo-2.json](./1597-gran-turismo-2.json) |
 | Gran Turismo 2000 | 298017 | [298017-gran-turismo-2000.json](./298017-gran-turismo-2000.json) |
 | Gran Turismo 4 | 1601 | [1601-gran-turismo-4.json](./1601-gran-turismo-4.json) |
@@ -7969,6 +7970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess My Word | 314418 | [314418-guess-my-word.json](./314418-guess-my-word.json) |
 | Guess Picture | 165151 | [165151-guess-picture.json](./165151-guess-picture.json) |
 | Guess Pony Cartoon | 202387 | [202387-guess-pony-cartoon.json](./202387-guess-pony-cartoon.json) |
+| Guess the Animal | 89019 | [89019-guess-the-animal.json](./89019-guess-the-animal.json) |
 | Guess the Celebrity | 232069 | [232069-guess-the-celebrity.json](./232069-guess-the-celebrity.json) |
 | Guess the Character! | 99977 | [99977-guess-the-character.json](./99977-guess-the-character.json) |
 | Guess the Door | 301513 | [301513-guess-the-door.json](./301513-guess-the-door.json) |
