@@ -2859,12 +2859,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ut: Kissy Cutie | 179615 | [179615-ut-kissy-cutie.json](./179615-ut-kissy-cutie.json) |
 | Uta Kumi 575 | 42670 | [42670-uta-kumi-575.json](./42670-uta-kumi-575.json) |
 | Uta Macross Sma-Pho De-Culture | 78969 | [78969-uta-macross-sma-pho-de-culture.json](./78969-uta-macross-sma-pho-de-culture.json) |
+| Uta no Prince-sama: All Star | 56321 | [56321-uta-no-prince-sama-all-star.json](./56321-uta-no-prince-sama-all-star.json) |
+| Uta no Prince-sama: All Star After Secret | 56323 | [56323-uta-no-prince-sama-all-star-after-secret.json](./56323-uta-no-prince-sama-all-star-after-secret.json) |
 | Uta no Prince-sama: All Star After Secret for Nintendo Switch | 222998 | [222998-uta-no-prince-sama-all-star-after-secret-for-nintendo-switch.json](./222998-uta-no-prince-sama-all-star-after-secret-for-nintendo-switch.json) |
 | Uta no Prince-sama: Amazing Aria | 56298 | [56298-uta-no-prince-sama-amazing-aria.json](./56298-uta-no-prince-sama-amazing-aria.json) |
 | Uta no Prince-sama: Amazing Aria & Sweet Serenade Love | 136840 | [136840-uta-no-prince-sama-amazing-aria-and-sweet-serenade-love.json](./136840-uta-no-prince-sama-amazing-aria-and-sweet-serenade-love.json) |
+| Uta no Prince-sama: Debut | 56322 | [56322-uta-no-prince-sama-debut.json](./56322-uta-no-prince-sama-debut.json) |
 | Uta no Prince-sama: Debut for Nintendo Switch | 136962 | [136962-uta-no-prince-sama-debut-for-nintendo-switch.json](./136962-uta-no-prince-sama-debut-for-nintendo-switch.json) |
 | Uta no Prince-sama: Dolce Vita | 222999 | [222999-uta-no-prince-sama-dolce-vita.json](./222999-uta-no-prince-sama-dolce-vita.json) |
 | Uta no Prince-sama: Live Emotion | 305368 | [305368-uta-no-prince-sama-live-emotion.json](./305368-uta-no-prince-sama-live-emotion.json) |
+| Uta no Prince-sama: Music | 56324 | [56324-uta-no-prince-sama-music.json](./56324-uta-no-prince-sama-music.json) |
 | Uta no Prince-sama: Music 2 | 56320 | [56320-uta-no-prince-sama-music-2.json](./56320-uta-no-prince-sama-music-2.json) |
 | Uta no Prince-sama: Music 3 | 56318 | [56318-uta-no-prince-sama-music-3.json](./56318-uta-no-prince-sama-music-3.json) |
 | Uta no Prince-sama: Repeat | 56300 | [56300-uta-no-prince-sama-repeat.json](./56300-uta-no-prince-sama-repeat.json) |
