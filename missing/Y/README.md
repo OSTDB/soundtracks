@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yukkuri Tanoshimu Otona no Jigsaw Puzzle DS: Sekai no Meiga 2 - Inshou-ha, Kouki Inshou-ha no Kyoshou | 124161 | [124161-yukkuri-tanoshimu-otona-no-jigsaw-puzzle-ds-sekai-no-meiga-2-inshou-ha-kouki-inshou-ha-no-kyoshou.json](./124161-yukkuri-tanoshimu-otona-no-jigsaw-puzzle-ds-sekai-no-meiga-2-inshou-ha-kouki-inshou-ha-no-kyoshou.json) |
 | Yukkuri Tap Coin Idle Game for Touhou | 297645 | [297645-yukkuri-tap-coin-idle-game-for-touhou.json](./297645-yukkuri-tap-coin-idle-game-for-touhou.json) |
 | Yuko and the Akuma Menace | 153942 | [153942-yuko-and-the-akuma-menace.json](./153942-yuko-and-the-akuma-menace.json) |
+| Yuko: tragic love story | 95273 | [95273-yuko-tragic-love-story.json](./95273-yuko-tragic-love-story.json) |
 | Yukomon | 337755 | [337755-yukomon.json](./337755-yukomon.json) |
 | Yukti | 174360 | [174360-yukti.json](./174360-yukti.json) |
 | Yukyo Station | 216809 | [216809-yukyo-station.json](./216809-yukyo-station.json) |
