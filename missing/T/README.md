@@ -2786,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teisatsu | 196248 | [196248-teisatsu.json](./196248-teisatsu.json) |
 | Teisoukannen Zero: Yariman Kazoku to Hame Kurui Natsuyasumi | 82956 | [82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json](./82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json) |
 | Teitai Shoujo | 124454 | [124454-teitai-shoujo.json](./124454-teitai-shoujo.json) |
+| Tek-Kids Flash-Ops: Mission - Aqua Zone | 73106 | [73106-tek-kids-flash-ops-mission-aqua-zone.json](./73106-tek-kids-flash-ops-mission-aqua-zone.json) |
 | Tek-Kids Flash-Ops: Mission - Data Island | 70023 | [70023-tek-kids-flash-ops-mission-data-island.json](./70023-tek-kids-flash-ops-mission-data-island.json) |
 | Tek-Kids Flash-Ops: Mission - Polar Challenge | 71427 | [71427-tek-kids-flash-ops-mission-polar-challenge.json](./71427-tek-kids-flash-ops-mission-polar-challenge.json) |
 | Tek-Kids Flash-Ops: Mission - Sky Fortress | 69940 | [69940-tek-kids-flash-ops-mission-sky-fortress.json](./69940-tek-kids-flash-ops-mission-sky-fortress.json) |
@@ -12336,6 +12337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Return Home | 32131 | [32131-the-return-home.json](./32131-the-return-home.json) |
 | The Return of Bantara | 334748 | [334748-the-return-of-bantara.json](./334748-the-return-of-bantara.json) |
 | The Return of Medusa | 14508 | [14508-the-return-of-medusa.json](./14508-the-return-of-medusa.json) |
+| The Return of Sammy Marlo | 73144 | [73144-the-return-of-sammy-marlo.json](./73144-the-return-of-sammy-marlo.json) |
 | The Return of the Heroes | 259561 | [259561-the-return-of-the-heroes.json](./259561-the-return-of-the-heroes.json) |
 | The Return of the Incredible Machine: Contraptions | 51401 | [51401-the-return-of-the-incredible-machine-contraptions.json](./51401-the-return-of-the-incredible-machine-contraptions.json) |
 | The Return of the King | 287767 | [287767-the-return-of-the-king.json](./287767-the-return-of-the-king.json) |
@@ -13792,6 +13794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tail of the Serpent | 178681 | [178681-the-tail-of-the-serpent.json](./178681-the-tail-of-the-serpent.json) |
 | The Take | 90852 | [90852-the-take.json](./90852-the-take.json) |
 | The Takechan Man | 385818 | [385818-the-takechan-man.json](./385818-the-takechan-man.json) |
+| The Taking of Beverly Hills | 73104 | [73104-the-taking-of-beverly-hills.json](./73104-the-taking-of-beverly-hills.json) |
 | The Tale of (Your Name) | 282030 | [282030-the-tale-of-your-name.json](./282030-the-tale-of-your-name.json) |
 | The Tale of a Man named Tom | 57147 | [57147-the-tale-of-a-man-named-tom.json](./57147-the-tale-of-a-man-named-tom.json) |
 | The Tale of Alltynex Deluxe Edition | 368370 | [368370-the-tale-of-alltynex-deluxe-edition.json](./368370-the-tale-of-alltynex-deluxe-edition.json) |
@@ -14397,6 +14400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trials 2 | 310760 | [310760-the-trials-2.json](./310760-the-trials-2.json) |
 | The Trials of Beadie | 204106 | [204106-the-trials-of-beadie.json](./204106-the-trials-of-beadie.json) |
 | The Trials of Goodbye | 312876 | [312876-the-trials-of-goodbye.json](./312876-the-trials-of-goodbye.json) |
+| The Trials of Odysseus Kent | 73097 | [73097-the-trials-of-odysseus-kent.json](./73097-the-trials-of-odysseus-kent.json) |
 | The Trials of Olympus | 112701 | [112701-the-trials-of-olympus.json](./112701-the-trials-of-olympus.json) |
 | The Trials of Olympus 2: Wrath of the Gods | 114357 | [114357-the-trials-of-olympus-2-wrath-of-the-gods.json](./114357-the-trials-of-olympus-2-wrath-of-the-gods.json) |
 | The Trials of Olympus III: King of the World | 115794 | [115794-the-trials-of-olympus-iii-king-of-the-world.json](./115794-the-trials-of-olympus-iii-king-of-the-world.json) |
@@ -14898,6 +14902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warrior of Wisdom | 173784 | [173784-the-warrior-of-wisdom.json](./173784-the-warrior-of-wisdom.json) |
 | The Warrior War | 105101 | [105101-the-warrior-war.json](./105101-the-warrior-war.json) |
 | The Warrior's Path | 201526 | [201526-the-warriors-path.json](./201526-the-warriors-path.json) |
+| The Warrior's Tale | 73132 | [73132-the-warriors-tale.json](./73132-the-warriors-tale.json) |
 | The Warriors: Street Brawl | 21218 | [21218-the-warriors-street-brawl.json](./21218-the-warriors-street-brawl.json) |
 | The Wars II Evolution | 255725 | [255725-the-wars-ii-evolution.json](./255725-the-wars-ii-evolution.json) |
 | The Wassie Games | 215730 | [215730-the-wassie-games.json](./215730-the-wassie-games.json) |
@@ -20963,6 +20968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tougenkyou | 151807 | [151807-tougenkyou.json](./151807-tougenkyou.json) |
 | Tough Love Arena | 142114 | [142114-tough-love-arena.json](./142114-tough-love-arena.json) |
 | Tough Story: Big Hell | 54457 | [54457-tough-story-big-hell.json](./54457-tough-story-big-hell.json) |
+| Tough Trucks: Modified Monsters | 73111 | [73111-tough-trucks-modified-monsters.json](./73111-tough-trucks-modified-monsters.json) |
 | Tough Turf | 40259 | [40259-tough-turf.json](./40259-tough-turf.json) |
 | Tough: Dark Fight | 138107 | [138107-tough-dark-fight.json](./138107-tough-dark-fight.json) |
 | ToughCoded Live IV | 56296 | [56296-toughcoded-live-iv.json](./56296-toughcoded-live-iv.json) |
