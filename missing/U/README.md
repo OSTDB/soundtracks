@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima Online: Mondain's Legacy | 78562 | [78562-ultima-online-mondains-legacy.json](./78562-ultima-online-mondains-legacy.json) |
 | Ultima Online: Renaissance | 78564 | [78564-ultima-online-renaissance.json](./78564-ultima-online-renaissance.json) |
 | Ultima Online: Stygian Abyss | 68226 | [68226-ultima-online-stygian-abyss.json](./68226-ultima-online-stygian-abyss.json) |
+| Ultima Online: Third Dawn | 71942 | [71942-ultima-online-third-dawn.json](./71942-ultima-online-third-dawn.json) |
 | Ultima Ratio Regum | 142341 | [142341-ultima-ratio-regum.json](./142341-ultima-ratio-regum.json) |
 | Ultima TD | 236261 | [236261-ultima-td.json](./236261-ultima-td.json) |
 | Ultima Underworld II: Labyrinth of Worlds | 2530 | [2530-ultima-underworld-ii-labyrinth-of-worlds.json](./2530-ultima-underworld-ii-labyrinth-of-worlds.json) |
@@ -1412,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercover | 403189 | [403189-undercover.json](./403189-undercover.json) |
 | Undercover AD2025 Kei | 86084 | [86084-undercover-ad2025-kei.json](./86084-undercover-ad2025-kei.json) |
 | Undercover brother | 164089 | [164089-undercover-brother.json](./164089-undercover-brother.json) |
+| Undercover Cops Gaiden: Hakaishin Garumaa | 71941 | [71941-undercover-cops-gaiden-hakaishin-garumaa.json](./71941-undercover-cops-gaiden-hakaishin-garumaa.json) |
 | Undercover Cops: Collector's Edition | 195986 | [195986-undercover-cops-collectors-edition.json](./195986-undercover-cops-collectors-edition.json) |
 | Undercover Girlfriend | 206005 | [206005-undercover-girlfriend.json](./206005-undercover-girlfriend.json) |
 | Undercover: Blood Bonds | 225303 | [225303-undercover-blood-bonds.json](./225303-undercover-blood-bonds.json) |
