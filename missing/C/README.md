@@ -3457,6 +3457,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catherine: Full Body - Dynamite Full Body Box | 136282 | [136282-catherine-full-body-dynamite-full-body-box.json](./136282-catherine-full-body-dynamite-full-body-box.json) |
 | Catherine: Full Body - Heart's Desire Premium Edition | 72067 | [72067-catherine-full-body-hearts-desire-premium-edition.json](./72067-catherine-full-body-hearts-desire-premium-edition.json) |
 | Catherine: Full Body - Launch Edition | 136327 | [136327-catherine-full-body-launch-edition.json](./136327-catherine-full-body-launch-edition.json) |
+| Catherine: Japanese Edition | 74899 | [74899-catherine-japanese-edition.json](./74899-catherine-japanese-edition.json) |
+| Catherine: Love is Over Edition | 74897 | [74897-catherine-love-is-over-edition.json](./74897-catherine-love-is-over-edition.json) |
+| Catherine: Stray Sheep Deluxe Edition | 74898 | [74898-catherine-stray-sheep-deluxe-edition.json](./74898-catherine-stray-sheep-deluxe-edition.json) |
 | Catherna's Destiny | 323415 | [323415-cathernas-destiny.json](./323415-cathernas-destiny.json) |
 | Cathode Quest 64 | 393412 | [393412-cathode-quest-64.json](./393412-cathode-quest-64.json) |
 | Cathode Ray Sunshine | 290340 | [290340-cathode-ray-sunshine.json](./290340-cathode-ray-sunshine.json) |
