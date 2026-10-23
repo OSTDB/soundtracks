@@ -5196,6 +5196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Zero | 44729 | [44729-eve-zero.json](./44729-eve-zero.json) |
 | Eve: Echoes | 111187 | [111187-eve-echoes.json](./111187-eve-echoes.json) |
 | Eve: Galaxy Conquest | 317843 | [317843-eve-galaxy-conquest.json](./317843-eve-galaxy-conquest.json) |
+| EVE: New Generation | 70779 | [70779-eve-new-generation.json](./70779-eve-new-generation.json) |
 | Eve: Rebirth Terror | 112911 | [112911-eve-rebirth-terror.json](./112911-eve-rebirth-terror.json) |
 | Eve: The Fatal Attraction | 44730 | [44730-eve-the-fatal-attraction.json](./44730-eve-the-fatal-attraction.json) |
 | EVE: Valkyrie - Warzone | 68444 | [68444-eve-valkyrie-warzone.json](./68444-eve-valkyrie-warzone.json) |
