@@ -5882,6 +5882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 9: Superhero Mode | 144699 | [144699-mega-man-9-superhero-mode.json](./144699-mega-man-9-superhero-mode.json) |
 | Mega Man Again | 332628 | [332628-mega-man-again.json](./332628-mega-man-again.json) |
 | Mega Man Anniversary Collection | 1728 | [1728-mega-man-anniversary-collection.json](./1728-mega-man-anniversary-collection.json) |
+| Mega Man Arena | 74877 | [74877-mega-man-arena.json](./74877-mega-man-arena.json) |
 | Mega Man Arkanoid | 245035 | [245035-mega-man-arkanoid.json](./245035-mega-man-arkanoid.json) |
 | Mega Man Battle & Chase | 1731 | [1731-mega-man-battle-and-chase.json](./1731-mega-man-battle-and-chase.json) |
 | Mega Man Battle & Fighters | 212341 | [212341-mega-man-battle-and-fighters.json](./212341-mega-man-battle-and-fighters.json) |
