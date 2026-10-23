@@ -5474,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ria Action Adventure | 197737 | [197737-ria-action-adventure.json](./197737-ria-action-adventure.json) |
 | Ria's Hook | 95213 | [95213-rias-hook.json](./95213-rias-hook.json) |
 | Riaaf the Spider | 44114 | [44114-riaaf-the-spider.json](./44114-riaaf-the-spider.json) |
+| Riajuu Plus ver. Komatsuzaki Kaname | 83386 | [83386-riajuu-plus-ver-komatsuzaki-kaname.json](./83386-riajuu-plus-ver-komatsuzaki-kaname.json) |
 | Riana Rouge | 3713 | [3713-riana-rouge.json](./3713-riana-rouge.json) |
 | Riba | 176710 | [176710-riba.json](./176710-riba.json) |
 | Ribbeat | 382771 | [382771-ribbeat.json](./382771-ribbeat.json) |
@@ -7573,6 +7574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockfest | 88614 | [88614-rockfest.json](./88614-rockfest.json) |
 | Rockfish | 260074 | [260074-rockfish.json](./260074-rockfish.json) |
 | Rockford: The Arcade Game | 44082 | [44082-rockford-the-arcade-game.json](./44082-rockford-the-arcade-game.json) |
+| Rockford: The Arcade Game + Back to Reality | 83388 | [83388-rockford-the-arcade-game-back-to-reality.json](./83388-rockford-the-arcade-game-back-to-reality.json) |
 | Rockford: The Arcade Game + Crystal Raider | 98225 | [98225-rockford-the-arcade-game-crystal-raider.json](./98225-rockford-the-arcade-game-crystal-raider.json) |
 | Rockford: The Arcade Game + Rockman | 98224 | [98224-rockford-the-arcade-game-rockman.json](./98224-rockford-the-arcade-game-rockman.json) |
 | RockFree | 165487 | [165487-rockfree.json](./165487-rockfree.json) |
@@ -8935,6 +8937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rough Justice: '84 | 133154 | [133154-rough-justice-84.json](./133154-rough-justice-84.json) |
 | Rough Kuts: 3D | 200572 | [200572-rough-kuts-3d.json](./200572-rough-kuts-3d.json) |
 | Rough Ranger | 78369 | [78369-rough-ranger.json](./78369-rough-ranger.json) |
+| Rough Sketch | 83373 | [83373-rough-sketch.json](./83373-rough-sketch.json) |
 | Rough Waters Decentralised Tarots | 176810 | [176810-rough-waters-decentralised-tarots.json](./176810-rough-waters-decentralised-tarots.json) |
 | Rough Waves | 309619 | [309619-rough-waves.json](./309619-rough-waves.json) |
 | Rougien | 292097 | [292097-rougien.json](./292097-rougien.json) |
@@ -10282,6 +10285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RX Racing 2022 Pro | 386412 | [386412-rx-racing-2022-pro.json](./386412-rx-racing-2022-pro.json) |
 | RX10-40 | 324312 | [324312-rx10-40.json](./324312-rx10-40.json) |
 | RXC | 192185 | [192185-rxc.json](./192185-rxc.json) |
+| Rxcovery | 83358 | [83358-rxcovery.json](./83358-rxcovery.json) |
 | RXN: Raijin | 77386 | [77386-rxn-raijin.json](./77386-rxn-raijin.json) |
 | Ryan Black | 30123 | [30123-ryan-black.json](./30123-ryan-black.json) |
 | Ryan Marks Revenge Mission | 136821 | [136821-ryan-marks-revenge-mission.json](./136821-ryan-marks-revenge-mission.json) |
