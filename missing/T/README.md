@@ -6450,6 +6450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day of the Jellyfish | 368154 | [368154-the-day-of-the-jellyfish.json](./368154-the-day-of-the-jellyfish.json) |
 | The Day That Changed My Life | 224642 | [224642-the-day-that-changed-my-life.json](./224642-the-day-that-changed-my-life.json) |
 | The Day That Wasn't | 390086 | [390086-the-day-that-wasnt.json](./390086-the-day-that-wasnt.json) |
+| The Day the Laughter Stopped | 62057 | [62057-the-day-the-laughter-stopped.json](./62057-the-day-the-laughter-stopped.json) |
 | The Day the World Broke | 7721 | [7721-the-day-the-world-broke.json](./7721-the-day-the-world-broke.json) |
 | The Day the World Changed | 97713 | [97713-the-day-the-world-changed.json](./97713-the-day-the-world-changed.json) |
 | The Day They Came | 169832 | [169832-the-day-they-came.json](./169832-the-day-they-came.json) |
@@ -7247,6 +7248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eyes of Mars | 236217 | [236217-the-eyes-of-mars.json](./236217-the-eyes-of-mars.json) |
 | The F.A. Premier League Football Manager 2000 | 70974 | [70974-the-f-a-premier-league-football-manager-2000.json](./70974-the-f-a-premier-league-football-manager-2000.json) |
 | The F.A. Premier League Football Manager 2001 | 66505 | [66505-the-f-a-premier-league-football-manager-2001.json](./66505-the-f-a-premier-league-football-manager-2001.json) |
+| The F.A. Premier League Manager 2002 | 62041 | [62041-the-f-a-premier-league-manager-2002.json](./62041-the-f-a-premier-league-manager-2002.json) |
 | The F.A. Premier League Stars | 43790 | [43790-the-f-a-premier-league-stars.json](./43790-the-f-a-premier-league-stars.json) |
 | The Fable of a Rabbit | 156980 | [156980-the-fable-of-a-rabbit.json](./156980-the-fable-of-a-rabbit.json) |
 | The Fable of Fairy Glen | 355030 | [355030-the-fable-of-fairy-glen.json](./355030-the-fable-of-fairy-glen.json) |
@@ -9462,6 +9464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Case of John Morley | 366598 | [366598-the-last-case-of-john-morley.json](./366598-the-last-case-of-john-morley.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
 | The Last Cell | 181020 | [181020-the-last-cell.json](./181020-the-last-cell.json) |
+| The Last Chapter of Man | 62055 | [62055-the-last-chapter-of-man.json](./62055-the-last-chapter-of-man.json) |
 | The Last Child | 289998 | [289998-the-last-child.json](./289998-the-last-child.json) |
 | The Last Chronomancer | 146352 | [146352-the-last-chronomancer.json](./146352-the-last-chronomancer.json) |
 | The Last City | 202724 | [202724-the-last-city.json](./202724-the-last-city.json) |
@@ -16359,6 +16362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throw Me in the River | 149600 | [149600-throw-me-in-the-river.json](./149600-throw-me-in-the-river.json) |
 | Throw Me To My Planet | 257443 | [257443-throw-me-to-my-planet.json](./257443-throw-me-to-my-planet.json) |
 | Throw the Ball in the Hole | 123489 | [123489-throw-the-ball-in-the-hole.json](./123489-throw-the-ball-in-the-hole.json) |
+| Throw Trucks With Your Mind! | 62053 | [62053-throw-trucks-with-your-mind.json](./62053-throw-trucks-with-your-mind.json) |
 | Throw Wizard | 224636 | [224636-throw-wizard.json](./224636-throw-wizard.json) |
 | Throw Your Phone: Into the Ocean | 288615 | [288615-throw-your-phone-into-the-ocean.json](./288615-throw-your-phone-into-the-ocean.json) |
 | ThrowDown | 351778 | [351778-throwdown.json](./351778-throwdown.json) |
@@ -23984,6 +23988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trashed | 143592 | [143592-trashed.json](./143592-trashed.json) |
 | Trashman | 23054 | [23054-trashman.json](./23054-trashman.json) |
 | Trashman | 28565 | [28565-trashman.json](./28565-trashman.json) |
+| Trashmania After Dark | 61961 | [61961-trashmania-after-dark.json](./61961-trashmania-after-dark.json) |
 | Trashmania Trilogy | 61060 | [61060-trashmania-trilogy.json](./61060-trashmania-trilogy.json) |
 | Trashmorfers | 241986 | [241986-trashmorfers.json](./241986-trashmorfers.json) |
 | Trashpunk | 132687 | [132687-trashpunk.json](./132687-trashpunk.json) |
