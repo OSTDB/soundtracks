@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4571,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedlam | 13391 | [13391-bedlam.json](./13391-bedlam.json) |
 | Bedlam | 2390 | [2390-bedlam.json](./2390-bedlam.json) |
 | Bedlam | 55098 | [55098-bedlam.json](./55098-bedlam.json) |
+| Bedlam 2: Absolute Bedlam | 62508 | [62508-bedlam-2-absolute-bedlam.json](./62508-bedlam-2-absolute-bedlam.json) |
 | Bedlamball | 51985 | [51985-bedlamball.json](./51985-bedlamball.json) |
 | BeDo | 245783 | [245783-bedo.json](./245783-bedo.json) |
 | Bedouin Ride | 395809 | [395809-bedouin-ride.json](./395809-bedouin-ride.json) |
@@ -5858,6 +5860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Buck Hunter Arcade: Elk Adventure Pack | 226810 | [226810-big-buck-hunter-arcade-elk-adventure-pack.json](./226810-big-buck-hunter-arcade-elk-adventure-pack.json) |
 | Big Buck Hunter II: Sportsman's Paradise | 263654 | [263654-big-buck-hunter-ii-sportsmans-paradise.json](./263654-big-buck-hunter-ii-sportsmans-paradise.json) |
 | Big Buck Hunter Pro | 220075 | [220075-big-buck-hunter-pro.json](./220075-big-buck-hunter-pro.json) |
+| Big Buck Hunter Pro | 62603 | [62603-big-buck-hunter-pro.json](./62603-big-buck-hunter-pro.json) |
 | Big Buck Hunter Pro Adventure | 328254 | [328254-big-buck-hunter-pro-adventure.json](./328254-big-buck-hunter-pro-adventure.json) |
 | Big Buck Hunter: Call of the Wild | 263653 | [263653-big-buck-hunter-call-of-the-wild.json](./263653-big-buck-hunter-call-of-the-wild.json) |
 | Big Buck Hunter: Shooter's Challenge | 263651 | [263651-big-buck-hunter-shooters-challenge.json](./263651-big-buck-hunter-shooters-challenge.json) |
@@ -6805,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bist du zu schwach oder Stark | 156568 | [156568-bist-du-zu-schwach-oder-stark.json](./156568-bist-du-zu-schwach-oder-stark.json) |
 | Bist Squad | 372740 | [372740-bist-squad.json](./372740-bist-squad.json) |
 | Bistro Blitz | 278709 | [278709-bistro-blitz.json](./278709-bistro-blitz.json) |
+| Bistro Boulevard | 62485 | [62485-bistro-boulevard.json](./62485-bistro-boulevard.json) |
 | Bistro Days | 139481 | [139481-bistro-days.json](./139481-bistro-days.json) |
 | Bistro Recipe | 66674 | [66674-bistro-recipe.json](./66674-bistro-recipe.json) |
 | Bisyntho | 284003 | [284003-bisyntho.json](./284003-bisyntho.json) |
@@ -10983,6 +10987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boundless | 369560 | [369560-boundless.json](./369560-boundless.json) |
 | Boundless Paths | 267023 | [267023-boundless-paths.json](./267023-boundless-paths.json) |
 | Boundless Skies | 278969 | [278969-boundless-skies.json](./278969-boundless-skies.json) |
+| Boundra | 62499 | [62499-boundra.json](./62499-boundra.json) |
 | BoundWorlds | 295501 | [295501-boundworlds.json](./295501-boundworlds.json) |
 | Bounters | 199119 | [199119-bounters.json](./199119-bounters.json) |
 | Bountiful Hunters | 382315 | [382315-bountiful-hunters.json](./382315-bountiful-hunters.json) |
