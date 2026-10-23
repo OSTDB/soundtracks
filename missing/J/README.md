@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane Skriff | 138611 | [138611-jane-skriff.json](./138611-jane-skriff.json) |
 | Jane the Office Slut | 217988 | [217988-jane-the-office-slut.json](./217988-jane-the-office-slut.json) |
 | Jane Westlake Adventures - The Mystery Train | 127757 | [127757-jane-westlake-adventures-the-mystery-train.json](./127757-jane-westlake-adventures-the-mystery-train.json) |
+| Jane Wilde | 56956 | [56956-jane-wilde.json](./56956-jane-wilde.json) |
 | Jane: Anyone can be Scared | 185964 | [185964-jane-anyone-can-be-scared.json](./185964-jane-anyone-can-be-scared.json) |
 | Jane's Advance Strike Fighters | 25531 | [25531-janes-advance-strike-fighters.json](./25531-janes-advance-strike-fighters.json) |
 | Jane's Combat Simulations: Advanced Tactical Fighters | 78026 | [78026-janes-combat-simulations-advanced-tactical-fighters.json](./78026-janes-combat-simulations-advanced-tactical-fighters.json) |
