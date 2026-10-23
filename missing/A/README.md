@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Snowman's Chance | 244154 | [244154-a-snowmans-chance.json](./244154-a-snowmans-chance.json) |
 | A Sold House | 133785 | [133785-a-sold-house.json](./133785-a-sold-house.json) |
 | A Soldier's Struggle | 385712 | [385712-a-soldiers-struggle.json](./385712-a-soldiers-struggle.json) |
+| A Song for Viggo | 61398 | [61398-a-song-for-viggo.json](./61398-a-song-for-viggo.json) |
 | A song in the void | 76325 | [76325-a-song-in-the-void.json](./76325-a-song-in-the-void.json) |
 | A Song of Sunlight | 265534 | [265534-a-song-of-sunlight.json](./265534-a-song-of-sunlight.json) |
 | A Sound of Thunder | 49271 | [49271-a-sound-of-thunder.json](./49271-a-sound-of-thunder.json) |
