@@ -4790,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isagi's Bartending Diary | 405634 | [405634-isagis-bartending-diary.json](./405634-isagis-bartending-diary.json) |
 | Isaiah 24:4-6 | 228973 | [228973-isaiah-24-4-6.json](./228973-isaiah-24-4-6.json) |
 | Isane Insects: The Inception | 53255 | [53255-isane-insects-the-inception.json](./53255-isane-insects-the-inception.json) |
+| iSays - Simon Says Classic Color Switch Memory Game | 89733 | [89733-isays-simon-says-classic-color-switch-memory-game.json](./89733-isays-simon-says-classic-color-switch-memory-game.json) |
 | Iscoot | 392153 | [392153-iscoot.json](./392153-iscoot.json) |
 | iScopaX | 100737 | [100737-iscopax.json](./100737-iscopax.json) |
 | ISDDS: Drone VR Simulator | 163919 | [163919-isdds-drone-vr-simulator.json](./163919-isdds-drone-vr-simulator.json) |
