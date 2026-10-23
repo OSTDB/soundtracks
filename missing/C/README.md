@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Café Guile | 364495 | [364495-cafe-guile.json](./364495-cafe-guile.json) |
 | Cafe Haven | 406157 | [406157-cafe-haven.json](./406157-cafe-haven.json) |
 | Cafe in the Clouds | 175923 | [175923-cafe-in-the-clouds.json](./175923-cafe-in-the-clouds.json) |
+| Cafe Junkie | 59174 | [59174-cafe-junkie.json](./59174-cafe-junkie.json) |
 | Cafe ma Cherie: Otome of Ikemen Cafe | 254947 | [254947-cafe-ma-cherie-otome-of-ikemen-cafe.json](./254947-cafe-ma-cherie-otome-of-ikemen-cafe.json) |
 | Café Machina | 414295 | [414295-cafe-machina.json](./414295-cafe-machina.json) |
 | Cafe Mahjongg | 52720 | [52720-cafe-mahjongg.json](./52720-cafe-mahjongg.json) |
@@ -6379,6 +6380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Shooter | 213309 | [213309-christmas-shooter.json](./213309-christmas-shooter.json) |
 | Christmas Shooting | 178355 | [178355-christmas-shooting.json](./178355-christmas-shooting.json) |
 | Christmas Shopper Simulator | 137466 | [137466-christmas-shopper-simulator.json](./137466-christmas-shopper-simulator.json) |
+| Christmas Shopper Simulator 2: Black Friday | 59287 | [59287-christmas-shopper-simulator-2-black-friday.json](./59287-christmas-shopper-simulator-2-black-friday.json) |
 | Christmas Slots: Casino Game | 369341 | [369341-christmas-slots-casino-game.json](./369341-christmas-slots-casino-game.json) |
 | Christmas Smash | 400469 | [400469-christmas-smash.json](./400469-christmas-smash.json) |
 | Christmas Solitaire | 175578 | [175578-christmas-solitaire.json](./175578-christmas-solitaire.json) |
@@ -6667,6 +6669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronos: Trap in Time | 418530 | [418530-chronos-trap-in-time.json](./418530-chronos-trap-in-time.json) |
 | Chronoscript: The Endless End | 369997 | [369997-chronoscript-the-endless-end.json](./369997-chronoscript-the-endless-end.json) |
 | Chronoshot | 138736 | [138736-chronoshot.json](./138736-chronoshot.json) |
+| Chronostacia | 59155 | [59155-chronostacia.json](./59155-chronostacia.json) |
 | Chronostation | 130239 | [130239-chronostation.json](./130239-chronostation.json) |
 | Chronostrike | 332409 | [332409-chronostrike.json](./332409-chronostrike.json) |
 | ChronoTecture: The Eprologue | 167350 | [167350-chronotecture-the-eprologue.json](./167350-chronotecture-the-eprologue.json) |
@@ -12722,6 +12725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CRAP | 223517 | [223517-crap.json](./223517-crap.json) |
 | Crap Attack | 55770 | [55770-crap-attack.json](./55770-crap-attack.json) |
 | Crap Game, Don’t Play | 365075 | [365075-crap-game-don-t-play.json](./365075-crap-game-don-t-play.json) |
+| Crap! No One Loves Me | 59126 | [59126-crap-no-one-loves-me.json](./59126-crap-no-one-loves-me.json) |
 | Crapette | 332253 | [332253-crapette.json](./332253-crapette.json) |
 | Crapman | 70424 | [70424-crapman.json](./70424-crapman.json) |
 | Crappy Climber | 135746 | [135746-crappy-climber.json](./135746-crappy-climber.json) |
