@@ -12015,6 +12015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countdown to Eclipse | 411413 | [411413-countdown-to-eclipse.json](./411413-countdown-to-eclipse.json) |
 | Countdown to Extinction | 313858 | [313858-countdown-to-extinction.json](./313858-countdown-to-extinction.json) |
 | Countdown to Meltdown | 12947 | [12947-countdown-to-meltdown.json](./12947-countdown-to-meltdown.json) |
+| Countdown to Shutdown | 83377 | [83377-countdown-to-shutdown.json](./83377-countdown-to-shutdown.json) |
 | Countdown: The Game | 393141 | [393141-countdown-the-game.json](./393141-countdown-the-game.json) |
 | Counter Action | 2612 | [2612-counter-action.json](./2612-counter-action.json) |
 | Counter Agents | 26372 | [26372-counter-agents.json](./26372-counter-agents.json) |
