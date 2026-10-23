@@ -2276,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netherworld: Beyond Time I Stand | 172507 | [172507-netherworld-beyond-time-i-stand.json](./172507-netherworld-beyond-time-i-stand.json) |
 | netKar Pro | 63099 | [63099-netkar-pro.json](./63099-netkar-pro.json) |
 | NetMaze: A Funnyman Game | 242782 | [242782-netmaze-a-funnyman-game.json](./242782-netmaze-a-funnyman-game.json) |
+| NetMech | 93422 | [93422-netmech.json](./93422-netmech.json) |
 | Netoo | 391063 | [391063-netoo.json](./391063-netoo.json) |
 | Netorare Osananajimi: Haruka to Chika | 82970 | [82970-netorare-osananajimi-haruka-to-chika.json](./82970-netorare-osananajimi-haruka-to-chika.json) |
 | NetPanzer | 122805 | [122805-netpanzer.json](./122805-netpanzer.json) |
