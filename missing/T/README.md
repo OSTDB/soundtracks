@@ -2113,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
 | Tasogare no Sinsemilla | 60444 | [60444-tasogare-no-sinsemilla.json](./60444-tasogare-no-sinsemilla.json) |
 | Tasogare Sakaba: Uwabami Breakers | 123588 | [123588-tasogare-sakaba-uwabami-breakers.json](./123588-tasogare-sakaba-uwabami-breakers.json) |
+| Tasogaredoki: Kaidan Romance | 64160 | [64160-tasogaredoki-kaidan-romance.json](./64160-tasogaredoki-kaidan-romance.json) |
 | Tasokare Hotel | 202675 | [202675-tasokare-hotel.json](./202675-tasokare-hotel.json) |
 | Tasokare Hotel Re:newal | 260090 | [260090-tasokare-hotel-re-newal.json](./260090-tasokare-hotel-re-newal.json) |
 | Tasokare Hotel: Tsubomi | 408273 | [408273-tasokare-hotel-tsubomi.json](./408273-tasokare-hotel-tsubomi.json) |
@@ -2715,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Danger of the Ooze | 19092 | [19092-teenage-mutant-ninja-turtles-danger-of-the-ooze.json](./19092-teenage-mutant-ninja-turtles-danger-of-the-ooze.json) |
 | Teenage Mutant Ninja Turtles: Dark Horizons | 64790 | [64790-teenage-mutant-ninja-turtles-dark-horizons.json](./64790-teenage-mutant-ninja-turtles-dark-horizons.json) |
 | Teenage Mutant Ninja Turtles: Dimension X Assault | 198938 | [198938-teenage-mutant-ninja-turtles-dimension-x-assault.json](./198938-teenage-mutant-ninja-turtles-dimension-x-assault.json) |
+| Teenage Mutant Ninja Turtles: Double Damage | 64244 | [64244-teenage-mutant-ninja-turtles-double-damage.json](./64244-teenage-mutant-ninja-turtles-double-damage.json) |
 | Teenage Mutant Ninja Turtles: Empire City | 345542 | [345542-teenage-mutant-ninja-turtles-empire-city.json](./345542-teenage-mutant-ninja-turtles-empire-city.json) |
 | Teenage Mutant Ninja Turtles: Fall of the Foot Clan | 48928 | [48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json](./48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json) |
 | Teenage Mutant Ninja Turtles: Four for Four | 218931 | [218931-teenage-mutant-ninja-turtles-four-for-four.json](./218931-teenage-mutant-ninja-turtles-four-for-four.json) |
@@ -3570,6 +3572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Nova Pinball | 289034 | [289034-terra-nova-pinball.json](./289034-terra-nova-pinball.json) |
 | Terra Nova: Strike Force Centauri | 70 | [70-terra-nova-strike-force-centauri.json](./70-terra-nova-strike-force-centauri.json) |
 | Terra Omega | 238975 | [238975-terra-omega.json](./238975-terra-omega.json) |
+| Terra Phantastica | 64084 | [64084-terra-phantastica.json](./64084-terra-phantastica.json) |
 | Terra Pit | 347470 | [347470-terra-pit.json](./347470-terra-pit.json) |
 | Terra Probe | 83347 | [83347-terra-probe.json](./83347-terra-probe.json) |
 | Terra Pulse | 142433 | [142433-terra-pulse.json](./142433-terra-pulse.json) |
@@ -11249,6 +11252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -15338,6 +15342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The X-Com Files | 276795 | [276795-the-x-com-files.json](./276795-the-x-com-files.json) |
 | The X-Files Game | 103203 | [103203-the-x-files-game.json](./103203-the-x-files-game.json) |
 | The X-Files: Deep State | 76429 | [76429-the-x-files-deep-state.json](./76429-the-x-files-deep-state.json) |
+| The X-Files: Unrestricted Access | 64238 | [64238-the-x-files-unrestricted-access.json](./64238-the-x-files-unrestricted-access.json) |
 | The X-Fools: The Spoof Is Out There | 66971 | [66971-the-x-fools-the-spoof-is-out-there.json](./66971-the-x-fools-the-spoof-is-out-there.json) |
 | The Xeno Project | 221659 | [221659-the-xeno-project.json](./221659-the-xeno-project.json) |
 | The Xeno Project II | 222193 | [222193-the-xeno-project-ii.json](./222193-the-xeno-project-ii.json) |
@@ -18478,6 +18483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Times & Galaxy | 248316 | [248316-times-and-galaxy.json](./248316-times-and-galaxy.json) |
 | Times Dungeon | 224593 | [224593-times-dungeon.json](./224593-times-dungeon.json) |
 | Times Infinity | 149237 | [149237-times-infinity.json](./149237-times-infinity.json) |
+| Times of Conflict | 64277 | [64277-times-of-conflict.json](./64277-times-of-conflict.json) |
 | Times of Lore | 12486 | [12486-times-of-lore.json](./12486-times-of-lore.json) |
 | Times of Survival | 311152 | [311152-times-of-survival.json](./311152-times-of-survival.json) |
 | Times Of War | 253428 | [253428-times-of-war.json](./253428-times-of-war.json) |
@@ -20437,6 +20443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top PUA | 247424 | [247424-top-pua.json](./247424-top-pua.json) |
 | Top Punch | 97203 | [97203-top-punch.json](./97203-top-punch.json) |
 | Top Race | 236832 | [236832-top-race.json](./236832-top-race.json) |
+| Top Rider | 64284 | [64284-top-rider.json](./64284-top-rider.json) |
 | Top Roller | 93399 | [93399-top-roller.json](./93399-top-roller.json) |
 | Top Run | 129126 | [129126-top-run.json](./129126-top-run.json) |
 | Top Runner | 172532 | [172532-top-runner.json](./172532-top-runner.json) |
@@ -20636,6 +20643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toro to Kyuujitsu | 178328 | [178328-toro-to-kyuujitsu.json](./178328-toro-to-kyuujitsu.json) |
 | Toro to Typing | 246071 | [246071-toro-to-typing.json](./246071-toro-to-typing.json) |
 | Toro! Let's Party! | 65566 | [65566-toro-lets-party.json](./65566-toro-lets-party.json) |
+| Toro's Friend Network | 64252 | [64252-toros-friend-network.json](./64252-toros-friend-network.json) |
 | Toro's Story App: Heart Pounding Nya | 246074 | [246074-toros-story-app-heart-pounding-nya.json](./246074-toros-story-app-heart-pounding-nya.json) |
 | Toroa: Skycall | 204521 | [204521-toroa-skycall.json](./204521-toroa-skycall.json) |
 | ToroFun | 251977 | [251977-torofun.json](./251977-torofun.json) |
@@ -25314,6 +25322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True or False: Owl Rescue | 172364 | [172364-true-or-false-owl-rescue.json](./172364-true-or-false-owl-rescue.json) |
 | True or False: The World | 407276 | [407276-true-or-false-the-world.json](./407276-true-or-false-the-world.json) |
 | True Pinball | 9131 | [9131-true-pinball.json](./9131-true-pinball.json) |
+| True Remembrance: Kioku no Kakera | 64241 | [64241-true-remembrance-kioku-no-kakera.json](./64241-true-remembrance-kioku-no-kakera.json) |
 | True Reporter | 110292 | [110292-true-reporter.json](./110292-true-reporter.json) |
 | True Speed | 223880 | [223880-true-speed.json](./223880-true-speed.json) |
 | True Swing Golf | 20493 | [20493-true-swing-golf.json](./20493-true-swing-golf.json) |
@@ -26045,6 +26054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turpedo | 188420 | [188420-turpedo.json](./188420-turpedo.json) |
 | Turpin | 42138 | [42138-turpin.json](./42138-turpin.json) |
 | Turquoise | 389596 | [389596-turquoise.json](./389596-turquoise.json) |
+| Turquoise Mars | 64081 | [64081-turquoise-mars.json](./64081-turquoise-mars.json) |
 | Turret | 130200 | [130200-turret.json](./130200-turret.json) |
 | Turret Architect | 30513 | [30513-turret-architect.json](./30513-turret-architect.json) |
 | Turret Defense | 243821 | [243821-turret-defense.json](./243821-turret-defense.json) |
