@@ -939,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icey: Ucey's Awakening | 171943 | [171943-icey-uceys-awakening.json](./171943-icey-uceys-awakening.json) |
 | Icharko | 277255 | [277255-icharko.json](./277255-icharko.json) |
 | Ichido ha Yonde Okitai: Nihon Bungaku 100-sen | 269639 | [269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json](./269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json) |
+| Ichigeki Sacchu!! HoiHoi-san | 67054 | [67054-ichigeki-sacchu-hoihoi-san.json](./67054-ichigeki-sacchu-hoihoi-san.json) |
 | Ichigeki: Hagane No Hito | 174632 | [174632-ichigeki-hagane-no-hito.json](./174632-ichigeki-hagane-no-hito.json) |
 | Ichigo 100%: Strawberry Diary | 77404 | [77404-ichigo-100-strawberry-diary.json](./77404-ichigo-100-strawberry-diary.json) |
 | Ichigo Mashimaro | 72557 | [72557-ichigo-mashimaro.json](./72557-ichigo-mashimaro.json) |
@@ -1875,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iMake Lollipops-Candy Making Kitchen Games | 98861 | [98861-imake-lollipops-candy-making-kitchen-games.json](./98861-imake-lollipops-candy-making-kitchen-games.json) |
 | Imakuni? no Ball | 59038 | [59038-imakuni-no-ball.json](./59038-imakuni-no-ball.json) |
 | Imasugu Tsukaeru Mamechishiki Quiz Zatsugaku Ou DS | 133799 | [133799-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou-ds.json](./133799-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou-ds.json) |
+| Imasugu Tsukaeru Mamechishiki: Quiz Zatsugaku-Ou | 67060 | [67060-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou.json](./67060-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou.json) |
 | Imaze.exe | 112443 | [112443-imaze-exe.json](./112443-imaze-exe.json) |
 | Imaze.exe 2 | 113052 | [113052-imaze-exe-2.json](./113052-imaze-exe-2.json) |
 | Imbalance | 197260 | [197260-imbalance.json](./197260-imbalance.json) |
