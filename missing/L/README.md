@@ -7505,6 +7505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luffi: Homebound | 292998 | [292998-luffi-homebound.json](./292998-luffi-homebound.json) |
 | Luffy: Way Back Home | 152616 | [152616-luffy-way-back-home.json](./152616-luffy-way-back-home.json) |
 | Lufia II: Rise of the Sinistrals | 1178 | [1178-lufia-ii-rise-of-the-sinistrals.json](./1178-lufia-ii-rise-of-the-sinistrals.json) |
+| Lufia: Beginning of a Legend | 67818 | [67818-lufia-beginning-of-a-legend.json](./67818-lufia-beginning-of-a-legend.json) |
 | Lufia: Curse of the Sinistrals | 1181 | [1181-lufia-curse-of-the-sinistrals.json](./1181-lufia-curse-of-the-sinistrals.json) |
 | Lufia: The Legend Returns | 1179 | [1179-lufia-the-legend-returns.json](./1179-lufia-the-legend-returns.json) |
 | Lufia: The Ruins of Lore | 1180 | [1180-lufia-the-ruins-of-lore.json](./1180-lufia-the-ruins-of-lore.json) |
