@@ -4083,6 +4083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replay: A Puzzle Game | 157200 | [157200-replay-a-puzzle-game.json](./157200-replay-a-puzzle-game.json) |
 | Replaying: The Game | 191568 | [191568-replaying-the-game.json](./191568-replaying-the-game.json) |
 | Replica | 20125 | [20125-replica.json](./20125-replica.json) |
+| Replica : A Little Temporary Safety | 98846 | [98846-replica-a-little-temporary-safety.json](./98846-replica-a-little-temporary-safety.json) |
 | Replica Club Route D | 404249 | [404249-replica-club-route-d.json](./404249-replica-club-route-d.json) |
 | Replica Island | 61625 | [61625-replica-island.json](./61625-replica-island.json) |
 | Replica: Atomic Punk | 61045 | [61045-replica-atomic-punk.json](./61045-replica-atomic-punk.json) |
