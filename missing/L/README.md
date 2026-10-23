@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Pac | 185165 | [185165-lady-pac.json](./185165-lady-pac.json) |
 | Lady Popular: Fashion Arena | 351050 | [351050-lady-popular-fashion-arena.json](./351050-lady-popular-fashion-arena.json) |
 | Lady Rose Wardrobe | 398639 | [398639-lady-rose-wardrobe.json](./398639-lady-rose-wardrobe.json) |
+| Lady Safari | 69665 | [69665-lady-safari.json](./69665-lady-safari.json) |
 | Lady Stalker: Kako kara no Chousen | 71788 | [71788-lady-stalker-kako-kara-no-chousen.json](./71788-lady-stalker-kako-kara-no-chousen.json) |
 | Lady Sword: Ryakudatsusareta 10-nin no Otome | 42050 | [42050-lady-sword-ryakudatsusareta-10-nin-no-otome.json](./42050-lady-sword-ryakudatsusareta-10-nin-no-otome.json) |
 | Lady Thalia and the Masterpiece of Moldavia | 290396 | [290396-lady-thalia-and-the-masterpiece-of-moldavia.json](./290396-lady-thalia-and-the-masterpiece-of-moldavia.json) |
@@ -674,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lanesplit | 345072 | [345072-lanesplit.json](./345072-lanesplit.json) |
 | Lanesplitterz | 340895 | [340895-lanesplitterz.json](./340895-lanesplitterz.json) |
 | Laney, This Won’t Make You Happier | 400973 | [400973-laney-this-won-t-make-you-happier.json](./400973-laney-this-won-t-make-you-happier.json) |
+| Lanfeust de Troy | 69667 | [69667-lanfeust-de-troy.json](./69667-lanfeust-de-troy.json) |
 | Lang Ops: Blank Canvas | 403126 | [403126-lang-ops-blank-canvas.json](./403126-lang-ops-blank-canvas.json) |
 | Lang Ops: Corrupted Files | 403125 | [403125-lang-ops-corrupted-files.json](./403125-lang-ops-corrupted-files.json) |
 | Lang Ops: Greek | 289237 | [289237-lang-ops-greek.json](./289237-lang-ops-greek.json) |
@@ -1404,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavrock: Last Fortress | 244655 | [244655-lavrock-last-fortress.json](./244655-lavrock-last-fortress.json) |
 | Lavrynthos | 236907 | [236907-lavrynthos.json](./236907-lavrynthos.json) |
 | Law & Order II: Double or Nothing | 70027 | [70027-law-and-order-ii-double-or-nothing.json](./70027-law-and-order-ii-double-or-nothing.json) |
+| Law & Order: Criminal Intent | 69695 | [69695-law-and-order-criminal-intent.json](./69695-law-and-order-criminal-intent.json) |
 | Law & Order: Dead on the Money | 73105 | [73105-law-and-order-dead-on-the-money.json](./73105-law-and-order-dead-on-the-money.json) |
 | Law & Order: Legacies | 18874 | [18874-law-and-order-legacies.json](./18874-law-and-order-legacies.json) |
 | Law & Order: Mushroom Kingdom Unit - Pilot Episode: Tragic Fox "Tails" | 345625 | [345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json](./345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json) |
