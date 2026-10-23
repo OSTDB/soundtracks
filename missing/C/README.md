@@ -2941,6 +2941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: The Holy Relics | 127263 | [127263-castlevania-the-holy-relics.json](./127263-castlevania-the-holy-relics.json) |
 | Castlevania: The Last Tear | 222346 | [222346-castlevania-the-last-tear.json](./222346-castlevania-the-last-tear.json) |
 | Castlevania: The Seal Of The Curse X | 317630 | [317630-castlevania-the-seal-of-the-curse-x.json](./317630-castlevania-the-seal-of-the-curse-x.json) |
+| CastleVille | 50351 | [50351-castleville.json](./50351-castleville.json) |
 | CastleVille Legends | 38906 | [38906-castleville-legends.json](./38906-castleville-legends.json) |
 | Castlewatch | 248006 | [248006-castlewatch.json](./248006-castlewatch.json) |
 | Castleyard | 312757 | [312757-castleyard.json](./312757-castleyard.json) |
@@ -4630,6 +4631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos CompleXX | 261125 | [261125-chaos-complexx.json](./261125-chaos-complexx.json) |
 | Chaos Control | 176140 | [176140-chaos-control.json](./176140-chaos-control.json) |
 | Chaos Control | 325843 | [325843-chaos-control.json](./325843-chaos-control.json) |
+| Chaos Control | 50320 | [50320-chaos-control.json](./50320-chaos-control.json) |
 | Chaos Crafters | 265399 | [265399-chaos-crafters.json](./265399-chaos-crafters.json) |
 | Chaos Crown | 217190 | [217190-chaos-crown.json](./217190-chaos-crown.json) |
 | Chaos Dream: Retribution | 119450 | [119450-chaos-dream-retribution.json](./119450-chaos-dream-retribution.json) |
@@ -8382,6 +8384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CloudBound | 31374 | [31374-cloudbound.json](./31374-cloudbound.json) |
 | Cloudbreaker | 355555 | [355555-cloudbreaker.json](./355555-cloudbreaker.json) |
 | Cloudbuilt: Defiance | 171497 | [171497-cloudbuilt-defiance.json](./171497-cloudbuilt-defiance.json) |
+| Cloudbuilt: Through the Fog | 50328 | [50328-cloudbuilt-through-the-fog.json](./50328-cloudbuilt-through-the-fog.json) |
 | Cloudburst | 250844 | [250844-cloudburst.json](./250844-cloudburst.json) |
 | CloudCity VR | 50518 | [50518-cloudcity-vr.json](./50518-cloudcity-vr.json) |
 | Cloudface | 62601 | [62601-cloudface.json](./62601-cloudface.json) |
@@ -8697,6 +8700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocked and Loaded | 278671 | [278671-cocked-and-loaded.json](./278671-cocked-and-loaded.json) |
 | Cockeyed Helicopters | 156581 | [156581-cockeyed-helicopters.json](./156581-cockeyed-helicopters.json) |
 | Cockhead | 130937 | [130937-cockhead.json](./130937-cockhead.json) |
+| Cockpit Manager '14 | 50330 | [50330-cockpit-manager-14.json](./50330-cockpit-manager-14.json) |
 | Cockroach Clicker | 371337 | [371337-cockroach-clicker.json](./371337-cockroach-clicker.json) |
 | cockroach Planet Survival | 115528 | [115528-cockroach-planet-survival.json](./115528-cockroach-planet-survival.json) |
 | Cockroach Simulator | 31329 | [31329-cockroach-simulator.json](./31329-cockroach-simulator.json) |
@@ -11025,6 +11029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra 4 | 9545 | [9545-contra-4.json](./9545-contra-4.json) |
 | Contra Advance: The Alien Wars EX | 49158 | [49158-contra-advance-the-alien-wars-ex.json](./49158-contra-advance-the-alien-wars-ex.json) |
 | Contra Demake | 284299 | [284299-contra-demake.json](./284299-contra-demake.json) |
+| Contra Evolution | 50333 | [50333-contra-evolution.json](./50333-contra-evolution.json) |
 | Contra Force | 24978 | [24978-contra-force.json](./24978-contra-force.json) |
 | Contra Online | 306610 | [306610-contra-online.json](./306610-contra-online.json) |
 | Contra Returns | 174697 | [174697-contra-returns.json](./174697-contra-returns.json) |
@@ -11723,6 +11728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corruption: Political Simulator Strategy | 271476 | [271476-corruption-political-simulator-strategy.json](./271476-corruption-political-simulator-strategy.json) |
 | Corsair | 80501 | [80501-corsair.json](./80501-corsair.json) |
 | Corsair Cove | 398638 | [398638-corsair-cove.json](./398638-corsair-cove.json) |
+| Corsairs Gold | 50354 | [50354-corsairs-gold.json](./50354-corsairs-gold.json) |
 | Corsairs: Battle of the Caribbean | 252037 | [252037-corsairs-battle-of-the-caribbean.json](./252037-corsairs-battle-of-the-caribbean.json) |
 | Corsairs: Conquest at Sea | 10107 | [10107-corsairs-conquest-at-sea.json](./10107-corsairs-conquest-at-sea.json) |
 | Corsairs: The New Conquerors | 11048 | [11048-corsairs-the-new-conquerors.json](./11048-corsairs-the-new-conquerors.json) |
@@ -13625,6 +13631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Cracker | 223348 | [223348-crime-cracker.json](./223348-crime-cracker.json) |
 | Crime Crackers 2 | 65344 | [65344-crime-crackers-2.json](./65344-crime-crackers-2.json) |
 | Crime District | 165699 | [165699-crime-district.json](./165699-crime-district.json) |
+| Crime Fighter | 50353 | [50353-crime-fighter.json](./50353-crime-fighter.json) |
 | Crime Fighter 3 Pack | 131286 | [131286-crime-fighter-3-pack.json](./131286-crime-fighter-3-pack.json) |
 | Crime Fighters | 75525 | [75525-crime-fighters.json](./75525-crime-fighters.json) |
 | Crime Files Bundle | 254059 | [254059-crime-files-bundle.json](./254059-crime-files-bundle.json) |
@@ -15307,6 +15314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuddly Forest Friends | 222944 | [222944-cuddly-forest-friends.json](./222944-cuddly-forest-friends.json) |
 | Cue Academy | 61545 | [61545-cue-academy.json](./61545-cue-academy.json) |
 | Cue Brick | 39638 | [39638-cue-brick.json](./39638-cue-brick.json) |
+| Cue Club | 50317 | [50317-cue-club.json](./50317-cue-club.json) |
 | Cue Club 2 - Pool & Snooker | 52849 | [52849-cue-club-2-pool-and-snooker.json](./52849-cue-club-2-pool-and-snooker.json) |
 | Cue Room | 388903 | [388903-cue-room.json](./388903-cue-room.json) |
 | Cue to Fall in Love with You | 404871 | [404871-cue-to-fall-in-love-with-you.json](./404871-cue-to-fall-in-love-with-you.json) |
