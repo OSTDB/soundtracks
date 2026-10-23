@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War War War: Smiles vs. Ghosts | 108364 | [108364-war-war-war-smiles-vs-ghosts.json](./108364-war-war-war-smiles-vs-ghosts.json) |
 | War Wind | 929 | [929-war-wind.json](./929-war-wind.json) |
 | War Wind II: Human Onslaught | 51780 | [51780-war-wind-ii-human-onslaught.json](./51780-war-wind-ii-human-onslaught.json) |
+| War Wings | 90418 | [90418-war-wings.json](./90418-war-wings.json) |
 | War Yards | 139480 | [139480-war-yards.json](./139480-war-yards.json) |
 | War Z | 94041 | [94041-war-z.json](./94041-war-z.json) |
 | War Zone Soldier: Battle Royale Shooter | 273303 | [273303-war-zone-soldier-battle-royale-shooter.json](./273303-war-zone-soldier-battle-royale-shooter.json) |
@@ -931,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbirds Red Baron 2012 | 53142 | [53142-warbirds-red-baron-2012.json](./53142-warbirds-red-baron-2012.json) |
 | Warbit | 33433 | [33433-warbit.json](./33433-warbit.json) |
 | Warbit Union | 184385 | [184385-warbit-union.json](./184385-warbit-union.json) |
+| Warbits | 90444 | [90444-warbits.json](./90444-warbits.json) |
 | Warbits+ | 245923 | [245923-warbits.json](./245923-warbits.json) |
 | Warbl | 280457 | [280457-warbl.json](./280457-warbl.json) |
 | Warblade | 128358 | [128358-warblade.json](./128358-warblade.json) |
@@ -5941,6 +5943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Game: Episode 0 | 174067 | [174067-word-game-episode-0.json](./174067-word-game-episode-0.json) |
 | Word Games - Order letters and create words | 96070 | [96070-word-games-order-letters-and-create-words.json](./96070-word-games-order-letters-and-create-words.json) |
 | Word Games with the Mr. Men | 97796 | [97796-word-games-with-the-mr-men.json](./97796-word-games-with-the-mr-men.json) |
+| Word Gems | 90420 | [90420-word-gems.json](./90420-word-gems.json) |
 | Word Genius by curious.com | 104507 | [104507-word-genius-by-curious-com.json](./104507-word-genius-by-curious-com.json) |
 | Word Guru - Puzzle Word Game | 89233 | [89233-word-guru-puzzle-word-game.json](./89233-word-guru-puzzle-word-game.json) |
 | Word Harmony | 52130 | [52130-word-harmony.json](./52130-word-harmony.json) |
