@@ -1456,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuki: Space Ranger | 159032 | [159032-yuki-space-ranger.json](./159032-yuki-space-ranger.json) |
 | Yuki's Symphony | 362751 | [362751-yukis-symphony.json](./362751-yukis-symphony.json) |
 | Yuki's Tale | 114834 | [114834-yukis-tale.json](./114834-yukis-tale.json) |
+| Yuki's Vacation | 73119 | [73119-yukis-vacation.json](./73119-yukis-vacation.json) |
 | Yukibana: Kira | 329903 | [329903-yukibana-kira.json](./329903-yukibana-kira.json) |
 | Yukigatari | 268662 | [268662-yukigatari.json](./268662-yukigatari.json) |
 | Yukigatari | 268663 | [268663-yukigatari.json](./268663-yukigatari.json) |
