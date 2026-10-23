@@ -7429,6 +7429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack 21: Blackjackist | 367740 | [367740-blackjack-21-blackjackist.json](./367740-blackjack-21-blackjackist.json) |
 | Blackjack Academy | 12352 | [12352-blackjack-academy.json](./12352-blackjack-academy.json) |
 | Blackjack Alchemist | 397250 | [397250-blackjack-alchemist.json](./397250-blackjack-alchemist.json) |
+| Blackjack and Poker | 44374 | [44374-blackjack-and-poker.json](./44374-blackjack-and-poker.json) |
 | Blackjack and Pomodoro Mystery | 319015 | [319015-blackjack-and-pomodoro-mystery.json](./319015-blackjack-and-pomodoro-mystery.json) |
 | BlackJack and Waifus | 193646 | [193646-blackjack-and-waifus.json](./193646-blackjack-and-waifus.json) |
 | Blackjack at Carrot | 219208 | [219208-blackjack-at-carrot.json](./219208-blackjack-at-carrot.json) |
@@ -9993,6 +9994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber | 249775 | [249775-bomber.json](./249775-bomber.json) |
 | Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
 | Bomber | 401914 | [401914-bomber.json](./401914-bomber.json) |
+| Bomber | 44359 | [44359-bomber.json](./44359-bomber.json) |
 | Bomber 3 | 223361 | [223361-bomber-3.json](./223361-bomber-3.json) |
 | Bomber 95 | 106506 | [106506-bomber-95.json](./106506-bomber-95.json) |
 | Bomber Barn | 113497 | [113497-bomber-barn.json](./113497-bomber-barn.json) |
