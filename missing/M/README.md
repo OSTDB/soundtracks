@@ -2850,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maribato! | 234649 | [234649-maribato.json](./234649-maribato.json) |
 | Maridows 64 | 250047 | [250047-maridows-64.json](./250047-maridows-64.json) |
 | Marie & Elie no Atelier: Salburg no Renkinjutsushi 1-2 | 130822 | [130822-marie-and-elie-no-atelier-salburg-no-renkinjutsushi-1-2.json](./130822-marie-and-elie-no-atelier-salburg-no-renkinjutsushi-1-2.json) |
+| Marie & Gully no Let's Science | 65319 | [65319-marie-and-gully-no-lets-science.json](./65319-marie-and-gully-no-lets-science.json) |
 | Marie Baby-Sitter | 74034 | [74034-marie-baby-sitter.json](./74034-marie-baby-sitter.json) |
 | Marie's Patisserie: Sweet Dreams - Collector's Edition | 362840 | [362840-maries-patisserie-sweet-dreams-collectors-edition.json](./362840-maries-patisserie-sweet-dreams-collectors-edition.json) |
 | Marie's Room | 81173 | [81173-maries-room.json](./81173-maries-room.json) |
@@ -10423,6 +10424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
 | Minna de Noujiru! Warumono Nage-houdai! Ningen Medal Game | 358495 | [358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json](./358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json) |
 | Minna de Shitendo DS: Hanshichi Yuumon & Ango & Ago Juurou & Hatamoto Taikutsu Otoko | 269589 | [269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json](./269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json) |
+| Minna de Taikan Dokusho DS: Cho-Kowai! Gakkou no Kaidan | 65316 | [65316-minna-de-taikan-dokusho-ds-cho-kowai-gakkou-no-kaidan.json](./65316-minna-de-taikan-dokusho-ds-cho-kowai-gakkou-no-kaidan.json) |
 | Minna de Taisen Puzzle: Shanghai Wii | 69131 | [69131-minna-de-taisen-puzzle-shanghai-wii.json](./69131-minna-de-taisen-puzzle-shanghai-wii.json) |
 | Minna de Tobikome! Penguin Diving: Hooper Looper | 408866 | [408866-minna-de-tobikome-penguin-diving-hooper-looper.json](./408866-minna-de-tobikome-penguin-diving-hooper-looper.json) |
 | Minna de Uchuu Tour: ChariSou DX2 | 222318 | [222318-minna-de-uchuu-tour-charisou-dx2.json](./222318-minna-de-uchuu-tour-charisou-dx2.json) |
@@ -11004,6 +11006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistaken | 335647 | [335647-mistaken.json](./335647-mistaken.json) |
 | Mistaker | 129713 | [129713-mistaker.json](./129713-mistaker.json) |
 | Mistakes Were Made | 179036 | [179036-mistakes-were-made.json](./179036-mistakes-were-made.json) |
+| Mistborn: Birthright | 65334 | [65334-mistborn-birthright.json](./65334-mistborn-birthright.json) |
 | Mistbound | 370667 | [370667-mistbound.json](./370667-mistbound.json) |
 | MistDominion WorldGenerator | 176167 | [176167-mistdominion-worldgenerator.json](./176167-mistdominion-worldgenerator.json) |
 | Mister 9 | 289771 | [289771-mister-9.json](./289771-mister-9.json) |
