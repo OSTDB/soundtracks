@@ -1307,6 +1307,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keke in the Caves of Peril | 230262 | [230262-keke-in-the-caves-of-peril.json](./230262-keke-in-the-caves-of-peril.json) |
 | Keke Love Challenge | 105722 | [105722-keke-love-challenge.json](./105722-keke-love-challenge.json) |
 | Kekistan: This is War | 74928 | [74928-kekistan-this-is-war.json](./74928-kekistan-this-is-war.json) |
+| Kekkaishi: Karasumori Ayakashi Kidan | 61387 | [61387-kekkaishi-karasumori-ayakashi-kidan.json](./61387-kekkaishi-karasumori-ayakashi-kidan.json) |
+| Kekkaishi: Kokubourou no Kage | 61390 | [61390-kekkaishi-kokubourou-no-kage.json](./61390-kekkaishi-kokubourou-no-kage.json) |
+| Kekkaishi: Kokubourou Shuurai | 61388 | [61388-kekkaishi-kokubourou-shuurai.json](./61388-kekkaishi-kokubourou-shuurai.json) |
 | Kekkon Marriage | 204397 | [204397-kekkon-marriage.json](./204397-kekkon-marriage.json) |
 | Kekkon Shugi Kokka | 334728 | [334728-kekkon-shugi-kokka.json](./334728-kekkon-shugi-kokka.json) |
 | Kekkon Zenya | 216419 | [216419-kekkon-zenya.json](./216419-kekkon-zenya.json) |
@@ -1468,6 +1471,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kero Kero Keroppi: Uki Uki Party Land | 270162 | [270162-kero-kero-keroppi-uki-uki-party-land.json](./270162-kero-kero-keroppi-uki-uki-party-land.json) |
 | Kero Kero King | 54969 | [54969-kero-kero-king.json](./54969-kero-kero-king.json) |
 | Kero Quest 64 | 326620 | [326620-kero-quest-64.json](./326620-kero-quest-64.json) |
+| Keroro Gunsou: MeroMero Battle Royale | 61422 | [61422-keroro-gunsou-meromero-battle-royale.json](./61422-keroro-gunsou-meromero-battle-royale.json) |
+| Keroro Gunsou: MeroMero Battle Royale Z | 61420 | [61420-keroro-gunsou-meromero-battle-royale-z.json](./61420-keroro-gunsou-meromero-battle-royale-z.json) |
+| Keroro Gunsou: Taiketsu! Gekisou Keronprix Daisakusen de arimasu! | 61421 | [61421-keroro-gunsou-taiketsu-gekisou-keronprix-daisakusen-de-arimasu.json](./61421-keroro-gunsou-taiketsu-gekisou-keronprix-daisakusen-de-arimasu.json) |
 | Keroro RPG: Kishi to Busha to Densetsu no Kaizoku | 67306 | [67306-keroro-rpg-kishi-to-busha-to-densetsu-no-kaizoku.json](./67306-keroro-rpg-kishi-to-busha-to-densetsu-no-kaizoku.json) |
 | Kerosuke no Kancho Kunren | 240055 | [240055-kerosuke-no-kancho-kunren.json](./240055-kerosuke-no-kancho-kunren.json) |
 | Kerplunk! / Toss Across / Tip It | 137995 | [137995-kerplunk-toss-across-tip-it.json](./137995-kerplunk-toss-across-tip-it.json) |
@@ -1928,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kileak: The DNA Imperative | 20255 | [20255-kileak-the-dna-imperative.json](./20255-kileak-the-dna-imperative.json) |
 | Kilgazar | 62105 | [62105-kilgazar.json](./62105-kilgazar.json) |
 | Kilira's Descent | 401526 | [401526-kiliras-descent.json](./401526-kiliras-descent.json) |
+| Kilka Card Gods | 61386 | [61386-kilka-card-gods.json](./61386-kilka-card-gods.json) |
 | Kill | 262596 | [262596-kill.json](./262596-kill.json) |
 | Kill | 31631 | [31631-kill.json](./31631-kill.json) |
 | Kill | 36446 | [36446-kill.json](./36446-kill.json) |
