@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yappie! Knockout | 256115 | [256115-yappie-knockout.json](./256115-yappie-knockout.json) |
 | Yappy Bird | 412508 | [412508-yappy-bird.json](./412508-yappy-bird.json) |
 | Yapyap | 363307 | [363307-yapyap.json](./363307-yapyap.json) |
+| Yarasete! Teacher Sotsugyou | 59191 | [59191-yarasete-teacher-sotsugyou.json](./59191-yarasete-teacher-sotsugyou.json) |
 | Yard of the Dead | 268765 | [268765-yard-of-the-dead.json](./268765-yard-of-the-dead.json) |
 | Yard Resistance | 322162 | [322162-yard-resistance.json](./322162-yard-resistance.json) |
 | Yard Sale Hidden Treasures: Sunnyville | 66733 | [66733-yard-sale-hidden-treasures-sunnyville.json](./66733-yard-sale-hidden-treasures-sunnyville.json) |
