@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Rooms | 320563 | [320563-back-to-the-rooms.json](./320563-back-to-the-rooms.json) |
 | Back to the Village | 395244 | [395244-back-to-the-village.json](./395244-back-to-the-village.json) |
 | Back to the War | 355225 | [355225-back-to-the-war.json](./355225-back-to-the-war.json) |
+| Back Track | 49165 | [49165-back-track.json](./49165-back-track.json) |
 | Back Wars | 105726 | [105726-back-wars.json](./105726-back-wars.json) |
 | Back: Fade | 342501 | [342501-back-fade.json](./342501-back-fade.json) |
 | Back*space | 402235 | [402235-back-space.json](./402235-back-space.json) |
@@ -753,7 +754,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2905,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Dodge Ball 3 | 56519 | [56519-battle-dodge-ball-3.json](./56519-battle-dodge-ball-3.json) |
 | Battle Dodgeball | 38350 | [38350-battle-dodgeball.json](./38350-battle-dodgeball.json) |
 | Battle Dodgeball 3 | 269423 | [269423-battle-dodgeball-3.json](./269423-battle-dodgeball-3.json) |
+| Battle Dodgeball: Toukyuu Daigekitotsu! | 49148 | [49148-battle-dodgeball-toukyuu-daigekitotsu.json](./49148-battle-dodgeball-toukyuu-daigekitotsu.json) |
 | Battle Dome | 143586 | [143586-battle-dome.json](./143586-battle-dome.json) |
 | Battle Dome Redux | 126917 | [126917-battle-dome-redux.json](./126917-battle-dome-redux.json) |
 | Battle Drive | 369444 | [369444-battle-drive.json](./369444-battle-drive.json) |
@@ -13056,6 +13057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble Nostalgie | 251020 | [251020-bubble-bobble-nostalgie.json](./251020-bubble-bobble-nostalgie.json) |
 | Bubble Bobble Part 2 | 7801 | [7801-bubble-bobble-part-2.json](./7801-bubble-bobble-part-2.json) |
 | Bubble Bobble The Revival | 335465 | [335465-bubble-bobble-the-revival.json](./335465-bubble-bobble-the-revival.json) |
+| Bubble Bobble: Old & New | 49162 | [49162-bubble-bobble-old-and-new.json](./49162-bubble-bobble-old-and-new.json) |
 | Bubble Bobble: Return of Great Dragon | 321668 | [321668-bubble-bobble-return-of-great-dragon.json](./321668-bubble-bobble-return-of-great-dragon.json) |
 | Bubble Bobble: Sugar Dungeons | 351212 | [351212-bubble-bobble-sugar-dungeons.json](./351212-bubble-bobble-sugar-dungeons.json) |
 | Bubble Bobble: Sugar Dungeons - Deluxe Edition | 376241 | [376241-bubble-bobble-sugar-dungeons-deluxe-edition.json](./376241-bubble-bobble-sugar-dungeons-deluxe-edition.json) |
