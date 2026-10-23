@@ -7163,6 +7163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Explorers | 177416 | [177416-the-explorers.json](./177416-the-explorers.json) |
 | The Explors: Pyramid Explorers | 122917 | [122917-the-explors-pyramid-explorers.json](./122917-the-explors-pyramid-explorers.json) |
 | The Expression Amrilato | 119580 | [119580-the-expression-amrilato.json](./119580-the-expression-amrilato.json) |
+| The Exterminator | 78504 | [78504-the-exterminator.json](./78504-the-exterminator.json) |
 | The Extinguishers | 169667 | [169667-the-extinguishers.json](./169667-the-extinguishers.json) |
 | The Extraterrestrials Museum of Earth Exploration | 225188 | [225188-the-extraterrestrials-museum-of-earth-exploration.json](./225188-the-extraterrestrials-museum-of-earth-exploration.json) |
 | The Extravagant Bill | 185322 | [185322-the-extravagant-bill.json](./185322-the-extravagant-bill.json) |
@@ -8322,6 +8323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heirloom | 292604 | [292604-the-heirloom.json](./292604-the-heirloom.json) |
 | The Heist | 120316 | [120316-the-heist.json](./120316-the-heist.json) |
 | The Heist | 24018 | [24018-the-heist.json](./24018-the-heist.json) |
+| The Heist | 78503 | [78503-the-heist.json](./78503-the-heist.json) |
 | The Heist in LS | 328220 | [328220-the-heist-in-ls.json](./328220-the-heist-in-ls.json) |
 | The Heist mobile | 83914 | [83914-the-heist-mobile.json](./83914-the-heist-mobile.json) |
 | The Heist of the Argonaut Limited | 305347 | [305347-the-heist-of-the-argonaut-limited.json](./305347-the-heist-of-the-argonaut-limited.json) |
@@ -9931,8 +9933,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Steel Empire | 270587 | [270587-the-legend-of-steel-empire.json](./270587-the-legend-of-steel-empire.json) |
 | The Legend of Studentenfutter | 185534 | [185534-the-legend-of-studentenfutter.json](./185534-the-legend-of-studentenfutter.json) |
 | The Legend of Sword and Fairy | 18928 | [18928-the-legend-of-sword-and-fairy.json](./18928-the-legend-of-sword-and-fairy.json) |
+| The Legend of Sword and Fairy 2 | 78448 | [78448-the-legend-of-sword-and-fairy-2.json](./78448-the-legend-of-sword-and-fairy-2.json) |
+| The Legend of Sword and Fairy 3 Prequel | 78466 | [78466-the-legend-of-sword-and-fairy-3-prequel.json](./78466-the-legend-of-sword-and-fairy-3-prequel.json) |
+| The Legend of Sword and Fairy 4 | 78465 | [78465-the-legend-of-sword-and-fairy-4.json](./78465-the-legend-of-sword-and-fairy-4.json) |
 | The Legend of Sword and Fairy 4: Remake | 383008 | [383008-the-legend-of-sword-and-fairy-4-remake.json](./383008-the-legend-of-sword-and-fairy-4-remake.json) |
 | The Legend of Sword and Fairy 5 | 57033 | [57033-the-legend-of-sword-and-fairy-5.json](./57033-the-legend-of-sword-and-fairy-5.json) |
+| The Legend of Sword and Fairy 5 Prequel | 78467 | [78467-the-legend-of-sword-and-fairy-5-prequel.json](./78467-the-legend-of-sword-and-fairy-5-prequel.json) |
 | The Legend of Sword and Fairy 6 | 57034 | [57034-the-legend-of-sword-and-fairy-6.json](./57034-the-legend-of-sword-and-fairy-6.json) |
 | The Legend of Sword and Fairy 6: Limited Edition | 167085 | [167085-the-legend-of-sword-and-fairy-6-limited-edition.json](./167085-the-legend-of-sword-and-fairy-6-limited-edition.json) |
 | The Legend of Sword and Fairy 7: Dreamlike World | 235192 | [235192-the-legend-of-sword-and-fairy-7-dreamlike-world.json](./235192-the-legend-of-sword-and-fairy-7-dreamlike-world.json) |
@@ -10417,6 +10423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: The Battle for Middle-earth | 3154 | [3154-the-lord-of-the-rings-the-battle-for-middle-earth.json](./3154-the-lord-of-the-rings-the-battle-for-middle-earth.json) |
 | The Lord of the Rings: The Battle for Middle-earth Anthology | 260701 | [260701-the-lord-of-the-rings-the-battle-for-middle-earth-anthology.json](./260701-the-lord-of-the-rings-the-battle-for-middle-earth-anthology.json) |
 | The Lord of the Rings: The Fellowship of the Ring | 201347 | [201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json](./201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json) |
+| The Lord of the Rings: The Fellowship of the Ring | 78501 | [78501-the-lord-of-the-rings-the-fellowship-of-the-ring.json](./78501-the-lord-of-the-rings-the-fellowship-of-the-ring.json) |
 | The Lord of the Rings: The Return of the King | 135708 | [135708-the-lord-of-the-rings-the-return-of-the-king.json](./135708-the-lord-of-the-rings-the-return-of-the-king.json) |
 | The Lord of the Rings: The Third Age | 127953 | [127953-the-lord-of-the-rings-the-third-age.json](./127953-the-lord-of-the-rings-the-third-age.json) |
 | The Lord of the Rings: The Two Towers | 248460 | [248460-the-lord-of-the-rings-the-two-towers.json](./248460-the-lord-of-the-rings-the-two-towers.json) |
