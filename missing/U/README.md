@@ -2555,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uphill Stunt Driver: Extreme Racing Simulator | 306535 | [306535-uphill-stunt-driver-extreme-racing-simulator.json](./306535-uphill-stunt-driver-extreme-racing-simulator.json) |
 | Upin & Ipin Universe | 347867 | [347867-upin-and-ipin-universe.json](./347867-upin-and-ipin-universe.json) |
 | Upin Dash | 174232 | [174232-upin-dash.json](./174232-upin-dash.json) |
+| Uplands Motel | 55750 | [55750-uplands-motel.json](./55750-uplands-motel.json) |
 | Uplife | 236775 | [236775-uplife.json](./236775-uplife.json) |
 | Uplifting | 159549 | [159549-uplifting.json](./159549-uplifting.json) |
 | Uplink | 8587 | [8587-uplink.json](./8587-uplink.json) |
