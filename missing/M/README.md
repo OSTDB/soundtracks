@@ -9177,6 +9177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikmak World | 401056 | [401056-mikmak-world.json](./401056-mikmak-world.json) |
 | Miko Funk | 370428 | [370428-miko-funk.json](./370428-miko-funk.json) |
 | Miko Gakkou Monogatari: Kaede Episode | 36177 | [36177-miko-gakkou-monogatari-kaede-episode.json](./36177-miko-gakkou-monogatari-kaede-episode.json) |
+| Miko Gakkou Monogatari: Sanae Episode | 62526 | [62526-miko-gakkou-monogatari-sanae-episode.json](./62526-miko-gakkou-monogatari-sanae-episode.json) |
 | Miko Gakkou: Second Year | 36169 | [36169-miko-gakkou-second-year.json](./36169-miko-gakkou-second-year.json) |
 | Miko Kanna Noukin Taimaki | 82738 | [82738-miko-kanna-noukin-taimaki.json](./82738-miko-kanna-noukin-taimaki.json) |
 | Miko Miko Nurse | 321402 | [321402-miko-miko-nurse.json](./321402-miko-miko-nurse.json) |
@@ -12601,6 +12602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Lover 2: Ambrosilas | 319897 | [319897-monster-lover-2-ambrosilas.json](./319897-monster-lover-2-ambrosilas.json) |
 | Monster Loves You Too! | 214153 | [214153-monster-loves-you-too.json](./214153-monster-loves-you-too.json) |
 | Monster Luv Radio | 302217 | [302217-monster-luv-radio.json](./302217-monster-luv-radio.json) |
+| Monster Madness Online | 62533 | [62533-monster-madness-online.json](./62533-monster-madness-online.json) |
 | Monster Maker | 220645 | [220645-monster-maker.json](./220645-monster-maker.json) |
 | Monster Maker | 418581 | [418581-monster-maker.json](./418581-monster-maker.json) |
 | Monster Maker III: Hikari no Majutsushi | 37922 | [37922-monster-maker-iii-hikari-no-majutsushi.json](./37922-monster-maker-iii-hikari-no-majutsushi.json) |
@@ -13165,6 +13167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Frog Inn | 320346 | [320346-moonlight-frog-inn.json](./320346-moonlight-frog-inn.json) |
 | Moonlight In Garland | 152459 | [152459-moonlight-in-garland.json](./152459-moonlight-in-garland.json) |
 | Moonlight Knight | 252665 | [252665-moonlight-knight.json](./252665-moonlight-knight.json) |
+| Moonlight Lady | 62537 | [62537-moonlight-lady.json](./62537-moonlight-lady.json) |
 | Moonlight Lovers | 186764 | [186764-moonlight-lovers.json](./186764-moonlight-lovers.json) |
 | Moonlight Madness | 70772 | [70772-moonlight-madness.json](./70772-moonlight-madness.json) |
 | Moonlight Mansion | 132525 | [132525-moonlight-mansion.json](./132525-moonlight-mansion.json) |
