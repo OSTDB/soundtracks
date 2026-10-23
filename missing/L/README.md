@@ -7684,6 +7684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunaela | 200430 | [200430-lunaela.json](./200430-lunaela.json) |
 | Lunaform | 44131 | [44131-lunaform.json](./44131-lunaform.json) |
 | LunaM: SG | 174602 | [174602-lunam-sg.json](./174602-lunam-sg.json) |
+| Lunamaria Sero Dastiny | 97761 | [97761-lunamaria-sero-dastiny.json](./97761-lunamaria-sero-dastiny.json) |
 | Lunapark VR | 90823 | [90823-lunapark-vr.json](./90823-lunapark-vr.json) |
 | LunaQuest | 190473 | [190473-lunaquest.json](./190473-lunaquest.json) |
 | Lunar // Drill | 320041 | [320041-lunar-drill.json](./320041-lunar-drill.json) |
