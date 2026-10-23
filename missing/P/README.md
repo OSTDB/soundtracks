@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Aruze Oukoku 6 | 56728 | [56728-pachi-slot-aruze-oukoku-6.json](./56728-pachi-slot-aruze-oukoku-6.json) |
 | Pachi-Slot Aruze Oukoku 7 | 56735 | [56735-pachi-slot-aruze-oukoku-7.json](./56735-pachi-slot-aruze-oukoku-7.json) |
 | Pachi-Slot Aruze Oukoku Pocket: Dekahel | 56737 | [56737-pachi-slot-aruze-oukoku-pocket-dekahel.json](./56737-pachi-slot-aruze-oukoku-pocket-dekahel.json) |
+| Pachi-Slot Biohazard 5 | 61488 | [61488-pachi-slot-biohazard-5.json](./61488-pachi-slot-biohazard-5.json) |
 | Pachi-Slot Gambler | 42238 | [42238-pachi-slot-gambler.json](./42238-pachi-slot-gambler.json) |
 | Pachi-Slot Higurashi no Naku Koro ni Matsuri | 263021 | [263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json](./263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json) |
 | Pachi-Slot Kanzen Kouryaku Uni-Colle'97 | 176134 | [176134-pachi-slot-kanzen-kouryaku-uni-colle97.json](./176134-pachi-slot-kanzen-kouryaku-uni-colle97.json) |
@@ -2870,6 +2871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Versus | 391571 | [391571-pc-versus.json](./391571-pc-versus.json) |
 | PC_001 | 170535 | [170535-pc-001.json](./170535-pc-001.json) |
 | PC-Darts | 81067 | [81067-pc-darts.json](./81067-pc-darts.json) |
+| PC-Jigsaw | 61385 | [61385-pc-jigsaw.json](./61385-pc-jigsaw.json) |
 | PC-Man | 25148 | [25148-pc-man.json](./25148-pc-man.json) |
 | PC-Sherlock: A Game of Logic & Deduction | 98920 | [98920-pc-sherlock-a-game-of-logic-and-deduction.json](./98920-pc-sherlock-a-game-of-logic-and-deduction.json) |
 | PCB | 372104 | [372104-pcb.json](./372104-pcb.json) |
@@ -3080,6 +3082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pegasis Odyssey | 373350 | [373350-pegasis-odyssey.json](./373350-pegasis-odyssey.json) |
 | Pegasus | 15336 | [15336-pegasus.json](./15336-pegasus.json) |
 | Pegasus Bridge | 36907 | [36907-pegasus-bridge.json](./36907-pegasus-bridge.json) |
+| Pegasus Golden Five | 61480 | [61480-pegasus-golden-five.json](./61480-pegasus-golden-five.json) |
 | Pegasus II | 254970 | [254970-pegasus-ii.json](./254970-pegasus-ii.json) |
 | Pegasus-5: Gone Astray | 104797 | [104797-pegasus-5-gone-astray.json](./104797-pegasus-5-gone-astray.json) |
 | Pegaxy | 188410 | [188410-pegaxy.json](./188410-pegaxy.json) |
@@ -10928,6 +10931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poyo Poyo Sonic | 317350 | [317350-poyo-poyo-sonic.json](./317350-poyo-poyo-sonic.json) |
 | Poyon no Dungeon Room | 282510 | [282510-poyon-no-dungeon-room.json](./282510-poyon-no-dungeon-room.json) |
 | Poyon no Dungeon Room 2 | 282511 | [282511-poyon-no-dungeon-room-2.json](./282511-poyon-no-dungeon-room-2.json) |
+| Poyopoyo Kansatsu Nikki | 61410 | [61410-poyopoyo-kansatsu-nikki.json](./61410-poyopoyo-kansatsu-nikki.json) |
 | Pozionista | 310148 | [310148-pozionista.json](./310148-pozionista.json) |
 | Pozzo Jello Crusade | 31807 | [31807-pozzo-jello-crusade.json](./31807-pozzo-jello-crusade.json) |
 | PP | 260296 | [260296-pp.json](./260296-pp.json) |
