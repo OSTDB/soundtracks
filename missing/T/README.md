@@ -3610,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraGenesis - Space Settlers | 102730 | [102730-terragenesis-space-settlers.json](./102730-terragenesis-space-settlers.json) |
 | TerraGenesis: Landfall | 213339 | [213339-terragenesis-landfall.json](./213339-terragenesis-landfall.json) |
 | Terragon: Symbol Of Magic | 164941 | [164941-terragon-symbol-of-magic.json](./164941-terragon-symbol-of-magic.json) |
+| Terrahawks | 73639 | [73639-terrahawks.json](./73639-terrahawks.json) |
 | Terrahawks: The Battlehawk | 385725 | [385725-terrahawks-the-battlehawk.json](./385725-terrahawks-the-battlehawk.json) |
 | Terrain Defender | 402381 | [402381-terrain-defender.json](./402381-terrain-defender.json) |
 | Terrain of Magical Expertise | 72762 | [72762-terrain-of-magical-expertise.json](./72762-terrain-of-magical-expertise.json) |
@@ -3715,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Signal | 299434 | [299434-terror-signal.json](./299434-terror-signal.json) |
 | Terror Spikys | 268227 | [268227-terror-spikys.json](./268227-terror-spikys.json) |
 | Terror Squid | 122182 | [122182-terror-squid.json](./122182-terror-squid.json) |
+| Terror Strike | 73615 | [73615-terror-strike.json](./73615-terror-strike.json) |
 | Terror Time | 220792 | [220792-terror-time.json](./220792-terror-time.json) |
 | Terror Type: A.L.C.H.E.M.Y. | 338318 | [338318-terror-type-a-l-c-h-e-m-y.json](./338318-terror-type-a-l-c-h-e-m-y.json) |
 | Terror World | 101265 | [101265-terror-world.json](./101265-terror-world.json) |
@@ -4010,6 +4012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrocombat | 260598 | [260598-tetrocombat.json](./260598-tetrocombat.json) |
 | Tetrogue | 413659 | [413659-tetrogue.json](./413659-tetrogue.json) |
 | Tetrogue Dragons | 164266 | [164266-tetrogue-dragons.json](./164266-tetrogue-dragons.json) |
+| Tetroid 2012 | 73655 | [73655-tetroid-2012.json](./73655-tetroid-2012.json) |
 | Tetrominer | 324725 | [324725-tetrominer.json](./324725-tetrominer.json) |
 | Tetromino Attack | 117808 | [117808-tetromino-attack.json](./117808-tetromino-attack.json) |
 | Tetromino Chill | 186197 | [186197-tetromino-chill.json](./186197-tetromino-chill.json) |
@@ -4416,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies | 248496 | [248496-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json](./248496-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json) |
 | The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies | 3779 | [3779-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json](./3779-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json) |
 | The Adventures of Jimmy Neutron Boy Genius: Jet Fusion | 242423 | [242423-the-adventures-of-jimmy-neutron-boy-genius-jet-fusion.json](./242423-the-adventures-of-jimmy-neutron-boy-genius-jet-fusion.json) |
+| The Adventures of Jonny Quest | 73650 | [73650-the-adventures-of-jonny-quest.json](./73650-the-adventures-of-jonny-quest.json) |
 | The Adventures of JP and Cosmo: A Friend Indeed... | 58050 | [58050-the-adventures-of-jp-and-cosmo-a-friend-indeed.json](./58050-the-adventures-of-jp-and-cosmo-a-friend-indeed.json) |
 | The Adventures of King Dengotti | 206208 | [206208-the-adventures-of-king-dengotti.json](./206208-the-adventures-of-king-dengotti.json) |
 | The Adventures of Kroma | 392993 | [392993-the-adventures-of-kroma.json](./392993-the-adventures-of-kroma.json) |
@@ -4440,6 +4444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Mr. Bobley | 35084 | [35084-the-adventures-of-mr-bobley.json](./35084-the-adventures-of-mr-bobley.json) |
 | The Adventures of Mr. Hat | 191822 | [191822-the-adventures-of-mr-hat.json](./191822-the-adventures-of-mr-hat.json) |
 | The Adventures of Mr. Poop | 147419 | [147419-the-adventures-of-mr-poop.json](./147419-the-adventures-of-mr-poop.json) |
+| The Adventures of Mr. Tickle | 73581 | [73581-the-adventures-of-mr-tickle.json](./73581-the-adventures-of-mr-tickle.json) |
 | The Adventures of Mr. Willickers the Rotting Mule | 238547 | [238547-the-adventures-of-mr-willickers-the-rotting-mule.json](./238547-the-adventures-of-mr-willickers-the-rotting-mule.json) |
 | The Adventures of Nerdstan | 250348 | [250348-the-adventures-of-nerdstan.json](./250348-the-adventures-of-nerdstan.json) |
 | The Adventures of Nick & Willikins | 87182 | [87182-the-adventures-of-nick-and-willikins.json](./87182-the-adventures-of-nick-and-willikins.json) |
@@ -4534,6 +4539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alien Device | 357098 | [357098-the-alien-device.json](./357098-the-alien-device.json) |
 | The Alien Island: 3D-Version | 174636 | [174636-the-alien-island-3d-version.json](./174636-the-alien-island-3d-version.json) |
 | The Alien Trials | 149578 | [149578-the-alien-trials.json](./149578-the-alien-trials.json) |
+| The All New Family Feud | 73657 | [73657-the-all-new-family-feud.json](./73657-the-all-new-family-feud.json) |
 | The Alliance Alive | 25068 | [25068-the-alliance-alive.json](./25068-the-alliance-alive.json) |
 | The Alliance Alive HD Remastered | 115989 | [115989-the-alliance-alive-hd-remastered.json](./115989-the-alliance-alive-hd-remastered.json) |
 | The Alliance Alive HD Remastered: Awakening Edition | 323568 | [323568-the-alliance-alive-hd-remastered-awakening-edition.json](./323568-the-alliance-alive-hd-remastered-awakening-edition.json) |
@@ -5167,6 +5173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bird's Realm 3 | 201805 | [201805-the-birds-realm-3.json](./201805-the-birds-realm-3.json) |
 | The Birdcage | 105800 | [105800-the-birdcage.json](./105800-the-birdcage.json) |
 | The Birdcage 2 | 117499 | [117499-the-birdcage-2.json](./117499-the-birdcage-2.json) |
+| The Birds and the Bees II: Antics | 73610 | [73610-the-birds-and-the-bees-ii-antics.json](./73610-the-birds-and-the-bees-ii-antics.json) |
 | The Birdsong Tree | 404435 | [404435-the-birdsong-tree.json](./404435-the-birdsong-tree.json) |
 | The Birdwatcher | 198101 | [198101-the-birdwatcher.json](./198101-the-birdwatcher.json) |
 | The Birth of an Artificial Intelligence | 165778 | [165778-the-birth-of-an-artificial-intelligence.json](./165778-the-birth-of-an-artificial-intelligence.json) |
@@ -6638,6 +6645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doll's Window | 216672 | [216672-the-dolls-window.json](./216672-the-dolls-window.json) |
 | The Dollar Game | 108216 | [108216-the-dollar-game.json](./108216-the-dollar-game.json) |
 | The Dollmaker | 272919 | [272919-the-dollmaker.json](./272919-the-dollmaker.json) |
+| The Dolphin's Pearl | 73630 | [73630-the-dolphins-pearl.json](./73630-the-dolphins-pearl.json) |
 | The Don't Do List | 398264 | [398264-the-dont-do-list.json](./398264-the-dont-do-list.json) |
 | The Donald Trump Simulator | 144237 | [144237-the-donald-trump-simulator.json](./144237-the-donald-trump-simulator.json) |
 | The Donnerwald Experiment | 100339 | [100339-the-donnerwald-experiment.json](./100339-the-donnerwald-experiment.json) |
@@ -7087,6 +7095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Essence of Speed 2020 | 96925 | [96925-the-essence-of-speed-2020.json](./96925-the-essence-of-speed-2020.json) |
 | The Essence Reaper Ritual | 51412 | [51412-the-essence-reaper-ritual.json](./51412-the-essence-reaper-ritual.json) |
 | The Essential Selection: Sport | 73538 | [73538-the-essential-selection-sport.json](./73538-the-essential-selection-sport.json) |
+| The Eternal Adventure | 73679 | [73679-the-eternal-adventure.json](./73679-the-eternal-adventure.json) |
 | The Eternal Castle: Remastered | 112074 | [112074-the-eternal-castle-remastered.json](./112074-the-eternal-castle-remastered.json) |
 | The Eternal Cylinder | 121715 | [121715-the-eternal-cylinder.json](./121715-the-eternal-cylinder.json) |
 | The Eternal Fool | 217496 | [217496-the-eternal-fool.json](./217496-the-eternal-fool.json) |
@@ -7799,6 +7808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game That Takes Place on a Cruise Ship | 408818 | [408818-the-game-that-takes-place-on-a-cruise-ship.json](./408818-the-game-that-takes-place-on-a-cruise-ship.json) |
 | The Game That Was Stolen From Me at Indiecade2019 | 396233 | [396233-the-game-that-was-stolen-from-me-at-indiecade2019.json](./396233-the-game-that-was-stolen-from-me-at-indiecade2019.json) |
 | The Game We All Have to Play | 129011 | [129011-the-game-we-all-have-to-play.json](./129011-the-game-we-all-have-to-play.json) |
+| The Game With No Name | 73673 | [73673-the-game-with-no-name.json](./73673-the-game-with-no-name.json) |
 | The Game: The Game | 393488 | [393488-the-game-the-game.json](./393488-the-game-the-game.json) |
 | The Games '92: España | 96508 | [96508-the-games-92-espana.json](./96508-the-games-92-espana.json) |
 | The Games People Play: Gin, Cribbage, Checkers, and Backgammon | 69927 | [69927-the-games-people-play-gin-cribbage-checkers-and-backgammon.json](./69927-the-games-people-play-gin-cribbage-checkers-and-backgammon.json) |
@@ -8197,6 +8207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guardian and the Dreamer | 318801 | [318801-the-guardian-and-the-dreamer.json](./318801-the-guardian-and-the-dreamer.json) |
 | The Guardian Legend | 48058 | [48058-the-guardian-legend.json](./48058-the-guardian-legend.json) |
 | The Guardian Legend: Secret Edition | 269778 | [269778-the-guardian-legend-secret-edition.json](./269778-the-guardian-legend-secret-edition.json) |
+| The Guardian of Darkness | 73638 | [73638-the-guardian-of-darkness.json](./73638-the-guardian-of-darkness.json) |
 | The Guardian of the Evil | 82674 | [82674-the-guardian-of-the-evil.json](./82674-the-guardian-of-the-evil.json) |
 | The Guardian Shift | 313446 | [313446-the-guardian-shift.json](./313446-the-guardian-shift.json) |
 | The Guardians of the Secret Garden | 349305 | [349305-the-guardians-of-the-secret-garden.json](./349305-the-guardians-of-the-secret-garden.json) |
@@ -11475,6 +11486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Open Sky | 181135 | [181135-the-open-sky.json](./181135-the-open-sky.json) |
 | The Open World Survival Craft Hunters | 235819 | [235819-the-open-world-survival-craft-hunters.json](./235819-the-open-world-survival-craft-hunters.json) |
 | The Operation Death Wing | 143654 | [143654-the-operation-death-wing.json](./143654-the-operation-death-wing.json) |
+| The Operational Art of War II: Elite Edition | 73677 | [73677-the-operational-art-of-war-ii-elite-edition.json](./73677-the-operational-art-of-war-ii-elite-edition.json) |
 | The Operational Art of War II: Flashpoint Kosovo | 70073 | [70073-the-operational-art-of-war-ii-flashpoint-kosovo.json](./70073-the-operational-art-of-war-ii-flashpoint-kosovo.json) |
 | The Options Menu | 405551 | [405551-the-options-menu.json](./405551-the-options-menu.json) |
 | The Oracle Land | 197911 | [197911-the-oracle-land.json](./197911-the-oracle-land.json) |
@@ -18066,6 +18078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tim 7: The Memories From Nowhere | 321366 | [321366-tim-7-the-memories-from-nowhere.json](./321366-tim-7-the-memories-from-nowhere.json) |
 | Tim and Tom: A Bulloon that Fell from the Sky | 175362 | [175362-tim-and-tom-a-bulloon-that-fell-from-the-sky.json](./175362-tim-and-tom-a-bulloon-that-fell-from-the-sky.json) |
 | Tim Burton's The Nightmare Before Christmas | 198942 | [198942-tim-burtons-the-nightmare-before-christmas.json](./198942-tim-burtons-the-nightmare-before-christmas.json) |
+| Tim Burton's The Nightmare Before Christmas: The Pumpkin King | 73651 | [73651-tim-burtons-the-nightmare-before-christmas-the-pumpkin-king.json](./73651-tim-burtons-the-nightmare-before-christmas-the-pumpkin-king.json) |
 | Tim Love's Cricket | 63184 | [63184-tim-loves-cricket.json](./63184-tim-loves-cricket.json) |
 | Tim Stockdale's Riding Star | 339889 | [339889-tim-stockdales-riding-star.json](./339889-tim-stockdales-riding-star.json) |
 | Tim the Timber | 241198 | [241198-tim-the-timber.json](./241198-tim-the-timber.json) |
@@ -25568,6 +25581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuber Run | 114713 | [114713-tuber-run.json](./114713-tuber-run.json) |
 | Tuber`s Run | 115017 | [115017-tuber-s-run.json](./115017-tuber-s-run.json) |
 | Tubetastic World Splashfest | 117491 | [117491-tubetastic-world-splashfest.json](./117491-tubetastic-world-splashfest.json) |
+| TubeTwist: Quantum-Flux Edition | 73675 | [73675-tubetwist-quantum-flux-edition.json](./73675-tubetwist-quantum-flux-edition.json) |
 | Tubeway | 23945 | [23945-tubeway.json](./23945-tubeway.json) |
 | TublerVR | 43132 | [43132-tublervr.json](./43132-tublervr.json) |
 | Tuboflex | 128564 | [128564-tuboflex.json](./128564-tuboflex.json) |
@@ -26436,6 +26450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Moon: Space Rabbit | 270141 | [270141-two-moon-space-rabbit.json](./270141-two-moon-space-rabbit.json) |
 | Two Move Chess | 215680 | [215680-two-move-chess.json](./215680-two-move-chess.json) |
 | Two Neons One Brain | 262359 | [262359-two-neons-one-brain.json](./262359-two-neons-one-brain.json) |
+| Two of a Kind | 73625 | [73625-two-of-a-kind.json](./73625-two-of-a-kind.json) |
 | Two of Swords | 248805 | [248805-two-of-swords.json](./248805-two-of-swords.json) |
 | Two of Us | 286777 | [286777-two-of-us.json](./286777-two-of-us.json) |
 | Two or More! | 256754 | [256754-two-or-more.json](./256754-two-or-more.json) |
