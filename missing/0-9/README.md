@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Kitty Pets | 100264 | [100264-101-kitty-pets.json](./100264-101-kitty-pets.json) |
 | 101 Okey Plus | 368033 | [368033-101-okey-plus.json](./368033-101-okey-plus.json) |
 | 101 Pony Pets | 91863 | [91863-101-pony-pets.json](./91863-101-pony-pets.json) |
+| 101 Pony Pets 3D | 84671 | [84671-101-pony-pets-3d.json](./84671-101-pony-pets-3d.json) |
 | 101 Puppy Pets | 91862 | [91862-101-puppy-pets.json](./91862-101-puppy-pets.json) |
 | 101 Ways to Die | 16745 | [16745-101-ways-to-die.json](./16745-101-ways-to-die.json) |
 | 101-in-1 Explosive Megamix | 23025 | [23025-101-in-1-explosive-megamix.json](./23025-101-in-1-explosive-megamix.json) |
@@ -948,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1500 DS Spirits Vol. 5: Hanafuda | 79546 | [79546-1500-ds-spirits-vol-5-hanafuda.json](./79546-1500-ds-spirits-vol-5-hanafuda.json) |
 | 1500DS Spirits Vol. 6: Trump | 79186 | [79186-1500ds-spirits-vol-6-trump.json](./79186-1500ds-spirits-vol-6-trump.json) |
 | 1500DS Spirits Vol. 7: Chess | 79959 | [79959-1500ds-spirits-vol-7-chess.json](./79959-1500ds-spirits-vol-7-chess.json) |
+| 153 Hand Video Poker | 84670 | [84670-153-hand-video-poker.json](./84670-153-hand-video-poker.json) |
 | 155th Anniversary of the Pony Express | 288131 | [288131-155th-anniversary-of-the-pony-express.json](./288131-155th-anniversary-of-the-pony-express.json) |
 | 15th Prison | 316431 | [316431-15th-prison.json](./316431-15th-prison.json) |
 | 15x15 | 109473 | [109473-15x15.json](./109473-15x15.json) |
@@ -962,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16 Greens | 181704 | [181704-16-greens.json](./181704-16-greens.json) |
 | 16 Personalities Simulator | 397789 | [397789-16-personalities-simulator.json](./397789-16-personalities-simulator.json) |
 | 16 Planes:Return | 112980 | [112980-16-planes-return.json](./112980-16-planes-return.json) |
+| 16 Shot! Shooting Watch | 84687 | [84687-16-shot-shooting-watch.json](./84687-16-shot-shooting-watch.json) |
 | 16 Shot! Shooting Watch | 85823 | [85823-16-shot-shooting-watch.json](./85823-16-shot-shooting-watch.json) |
 | 16 Tiles Mahjong | 46523 | [46523-16-tiles-mahjong.json](./46523-16-tiles-mahjong.json) |
 | 16-Bit Xmas 2011 | 134472 | [134472-16-bit-xmas-2011.json](./134472-16-bit-xmas-2011.json) |
@@ -1016,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18Korea | 192177 | [192177-18korea.json](./192177-18korea.json) |
 | 18th Airborne | 299485 | [299485-18th-airborne.json](./299485-18th-airborne.json) |
 | 18th Floor | 333761 | [333761-18th-floor.json](./333761-18th-floor.json) |
+| 18th Gate | 84688 | [84688-18th-gate.json](./84688-18th-gate.json) |
 | 18th Hole | 38855 | [38855-18th-hole.json](./38855-18th-hole.json) |
 | 19 Part One: Boot Camp | 41010 | [41010-19-part-one-boot-camp.json](./41010-19-part-one-boot-camp.json) |
 | 19: Neunzehn | 41342 | [41342-19-neunzehn.json](./41342-19-neunzehn.json) |
@@ -1596,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Man | 83270 | [83270-3-d-man.json](./83270-3-d-man.json) |
 | 3-D Maze | 15576 | [15576-3-d-maze.json](./15576-3-d-maze.json) |
 | 3-D Tank Zone | 15579 | [15579-3-d-tank-zone.json](./15579-3-d-tank-zone.json) |
+| 3-D Tetris | 84680 | [84680-3-d-tetris.json](./84680-3-d-tetris.json) |
 | 3-D Tic-Tac-Toe | 80892 | [80892-3-d-tic-tac-toe.json](./80892-3-d-tic-tac-toe.json) |
 | 3-D Ultra NASCAR Pinball | 50469 | [50469-3-d-ultra-nascar-pinball.json](./50469-3-d-ultra-nascar-pinball.json) |
 | 3-D Ultra Pinball: Creep Night | 50471 | [50471-3-d-ultra-pinball-creep-night.json](./50471-3-d-ultra-pinball-creep-night.json) |
@@ -1775,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Fantasy Zone II W | 86818 | [86818-3d-fantasy-zone-ii-w.json](./86818-3d-fantasy-zone-ii-w.json) |
 | 3D Fast & Furious | 410226 | [410226-3d-fast-and-furious.json](./410226-3d-fast-and-furious.json) |
 | 3D Football | 243754 | [243754-3d-football.json](./243754-3d-football.json) |
+| 3D Game Collection | 84663 | [84663-3d-game-collection.json](./84663-3d-game-collection.json) |
 | 3D Game Pack | 266189 | [266189-3d-game-pack.json](./266189-3d-game-pack.json) |
 | 3D Gear | 234587 | [234587-3d-gear.json](./234587-3d-gear.json) |
 | 3D Genesis | 268558 | [268558-3d-genesis.json](./268558-3d-genesis.json) |
@@ -1824,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Pool All Stars | 92596 | [92596-3d-pool-all-stars.json](./92596-3d-pool-all-stars.json) |
 | 3D Pool Game | 88273 | [88273-3d-pool-game.json](./88273-3d-pool-game.json) |
 | 3D Pool: Billiards & Snooker | 205948 | [205948-3d-pool-billiards-and-snooker.json](./205948-3d-pool-billiards-and-snooker.json) |
+| 3D Power Drift | 84659 | [84659-3d-power-drift.json](./84659-3d-power-drift.json) |
 | 3D PrintMaster Simulator | 273297 | [273297-3d-printmaster-simulator.json](./273297-3d-printmaster-simulator.json) |
 | 3D Puyo Puyo 2: Tsuu | 87195 | [87195-3d-puyo-puyo-2-tsuu.json](./87195-3d-puyo-puyo-2-tsuu.json) |
 | 3D Puzzle Dark Fantasy | 357751 | [357751-3d-puzzle-dark-fantasy.json](./357751-3d-puzzle-dark-fantasy.json) |
@@ -2025,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Spiele 1 Diskette | 130283 | [130283-4-spiele-1-diskette.json](./130283-4-spiele-1-diskette.json) |
 | 4 Stones | 117177 | [117177-4-stones.json](./117177-4-stones.json) |
 | 4 The Elements | 212898 | [212898-4-the-elements.json](./212898-4-the-elements.json) |
+| 4 Travellers: Play French | 84676 | [84676-4-travellers-play-french.json](./84676-4-travellers-play-french.json) |
 | 4 Travellers: Play Spanish | 76175 | [76175-4-travellers-play-spanish.json](./76175-4-travellers-play-spanish.json) |
 | 4 Wheel Drive | 245297 | [245297-4-wheel-drive.json](./245297-4-wheel-drive.json) |
 | 4 Wheel Madness | 326748 | [326748-4-wheel-madness.json](./326748-4-wheel-madness.json) |
@@ -2059,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 40 Winks | 249340 | [249340-40-winks.json](./249340-40-winks.json) |
 | 40 Winks | 5568 | [5568-40-winks.json](./5568-40-winks.json) |
 | 40 x Escape | 222924 | [222924-40-x-escape.json](./222924-40-x-escape.json) |
+| 40-in-1 Explosive Megamix | 84675 | [84675-40-in-1-explosive-megamix.json](./84675-40-in-1-explosive-megamix.json) |
 | 400 Minutes of /vr/ | 274120 | [274120-400-minutes-of-vr.json](./274120-400-minutes-of-vr.json) |
 | 400 Years | 12383 | [12383-400-years.json](./12383-400-years.json) |
 | 4004-022 | 117566 | [117566-4004-022.json](./117566-4004-022.json) |
@@ -2258,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5001 Games the Ultimate Games Pack | 147280 | [147280-5001-games-the-ultimate-games-pack.json](./147280-5001-games-the-ultimate-games-pack.json) |
 | 502's Arcade | 179444 | [179444-502s-arcade.json](./179444-502s-arcade.json) |
 | 505 Game Collection | 266324 | [266324-505-game-collection.json](./266324-505-game-collection.json) |
+| 505 Tangram | 84673 | [84673-505-tangram.json](./84673-505-tangram.json) |
 | 5050 | 260709 | [260709-5050.json](./260709-5050.json) |
 | 50CK3T | 283869 | [283869-50ck3t.json](./283869-50ck3t.json) |
 | 50K Racewalker | 135864 | [135864-50k-racewalker.json](./135864-50k-racewalker.json) |
@@ -2305,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6 x 1 = Unlimited | 222452 | [222452-6-x-1-unlimited.json](./222452-6-x-1-unlimited.json) |
 | 6-7 | 386391 | [386391-6-7.json](./386391-6-7.json) |
 | 6-gatsu no Kimi to Boku | 412403 | [412403-6-gatsu-no-kimi-to-boku.json](./412403-6-gatsu-no-kimi-to-boku.json) |
+| 6-Hand Video Poker | 84672 | [84672-6-hand-video-poker.json](./84672-6-hand-video-poker.json) |
 | 6-in-1 Board Game Club | 223607 | [223607-6-in-1-board-game-club.json](./223607-6-in-1-board-game-club.json) |
 | 6-in-1 Fami Collection: NES Collection Nr 2 | 37642 | [37642-6-in-1-fami-collection-nes-collection-nr-2.json](./37642-6-in-1-fami-collection-nes-collection-nr-2.json) |
 | 6-in-1 IQ Scale Bundle: Cube Match | 170740 | [170740-6-in-1-iq-scale-bundle-cube-match.json](./170740-6-in-1-iq-scale-bundle-cube-match.json) |
@@ -2377,6 +2388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 | 34297 | [34297-7.json](./34297-7.json) |
 | 7 Ate 9 | 316435 | [316435-7-ate-9.json](./316435-7-ate-9.json) |
 | 7 Blades | 27622 | [27622-7-blades.json](./27622-7-blades.json) |
+| 7 Card Games | 84685 | [84685-7-card-games.json](./84685-7-card-games.json) |
 | 7 Days | 314017 | [314017-7-days.json](./314017-7-days.json) |
 | 7 Days a Skeptic | 73478 | [73478-7-days-a-skeptic.json](./73478-7-days-a-skeptic.json) |
 | 7 Days Blood Moons | 292376 | [292376-7-days-blood-moons.json](./292376-7-days-blood-moons.json) |
@@ -2521,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Armies | 18907 | [18907-8-bit-armies.json](./18907-8-bit-armies.json) |
 | 8-Bit Armies: Arena | 27333 | [27333-8-bit-armies-arena.json](./27333-8-bit-armies-arena.json) |
 | 8-Bit Attack | 135766 | [135766-8-bit-attack.json](./135766-8-bit-attack.json) |
+| 8-Bit Boy | 84684 | [84684-8-bit-boy.json](./84684-8-bit-boy.json) |
 | 8-Bit Buccaneer | 176808 | [176808-8-bit-buccaneer.json](./176808-8-bit-buccaneer.json) |
 | 8-Bit Complete Collection | 52540 | [52540-8-bit-complete-collection.json](./52540-8-bit-complete-collection.json) |
 | 8-Bit Farm | 56729 | [56729-8-bit-farm.json](./56729-8-bit-farm.json) |
@@ -2579,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8bit Doves | 262348 | [262348-8bit-doves.json](./262348-8bit-doves.json) |
 | 8Bit Fiesta: Game Pack 1 | 167670 | [167670-8bit-fiesta-game-pack-1.json](./167670-8bit-fiesta-game-pack-1.json) |
 | 8Bit Fiesta: Game Pack 2 | 167671 | [167671-8bit-fiesta-game-pack-2.json](./167671-8bit-fiesta-game-pack-2.json) |
+| 8Bit Hero | 84683 | [84683-8bit-hero.json](./84683-8bit-hero.json) |
 | 8bit Invasion | 68875 | [68875-8bit-invasion.json](./68875-8bit-invasion.json) |
 | 8bit Killer | 65522 | [65522-8bit-killer.json](./65522-8bit-killer.json) |
 | 8Bit Music Power | 150566 | [150566-8bit-music-power.json](./150566-8bit-music-power.json) |
@@ -2663,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 90 Second Portraits | 51220 | [51220-90-second-portraits.json](./51220-90-second-portraits.json) |
 | 90 Seconds | 259237 | [259237-90-seconds.json](./259237-90-seconds.json) |
 | 90'' Soccer | 212342 | [212342-90-soccer.json](./212342-90-soccer.json) |
+| 90's Pool | 84682 | [84682-90s-pool.json](./84682-90s-pool.json) |
 | 9000 Years Ago | 283074 | [283074-9000-years-ago.json](./283074-9000-years-ago.json) |
 | 90s Extreme Skiing | 328091 | [328091-90s-extreme-skiing.json](./328091-90s-extreme-skiing.json) |
 | 911 Dispatcher: Unknown Caller | 415465 | [415465-911-dispatcher-unknown-caller.json](./415465-911-dispatcher-unknown-caller.json) |
@@ -2708,6 +2723,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9999 in 1 | 279737 | [279737-9999-in-1.json](./279737-9999-in-1.json) |
 | 999999 | 263385 | [263385-999999.json](./263385-999999.json) |
 | 999Seconds!Survivors | 400259 | [400259-999seconds-survivors.json](./400259-999seconds-survivors.json) |
+| 99Bullets | 84689 | [84689-99bullets.json](./84689-99bullets.json) |
+| 99Seconds | 84691 | [84691-99seconds.json](./84691-99seconds.json) |
 | 99Seconds | 84726 | [84726-99seconds.json](./84726-99seconds.json) |
 | 99Vidas | 26678 | [26678-99vidas.json](./26678-99vidas.json) |
 | 99Vidas: Definitive Edition | 112088 | [112088-99vidas-definitive-edition.json](./112088-99vidas-definitive-edition.json) |
