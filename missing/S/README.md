@@ -6745,6 +6745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinrei Jusatsushi Taroumaru | 45456 | [45456-shinrei-jusatsushi-taroumaru.json](./45456-shinrei-jusatsushi-taroumaru.json) |
 | Shinrei Ryokan | 283068 | [283068-shinrei-ryokan.json](./283068-shinrei-ryokan.json) |
 | Shinreigari: Ghost Hound DS | 123408 | [123408-shinreigari-ghost-hound-ds.json](./123408-shinreigari-ghost-hound-ds.json) |
+| Shinrin-yoku | 81922 | [81922-shinrin-yoku.json](./81922-shinrin-yoku.json) |
 | Shinrin-yoku: Forest Meditation and Relaxation | 343764 | [343764-shinrin-yoku-forest-meditation-and-relaxation.json](./343764-shinrin-yoku-forest-meditation-and-relaxation.json) |
 | Shinsei Project: Collapse | 364658 | [364658-shinsei-project-collapse.json](./364658-shinsei-project-collapse.json) |
 | Shinseiden Megaseed: Fukkatsu-hen | 261299 | [261299-shinseiden-megaseed-fukkatsu-hen.json](./261299-shinseiden-megaseed-fukkatsu-hen.json) |
@@ -18537,6 +18538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stagdraft | 221105 | [221105-stagdraft.json](./221105-stagdraft.json) |
 | Stage 3: Azaria | 90434 | [90434-stage-3-azaria.json](./90434-stage-3-azaria.json) |
 | Stage Break Idle | 369549 | [369549-stage-break-idle.json](./369549-stage-break-idle.json) |
+| Stage Fright | 81853 | [81853-stage-fright.json](./81853-stage-fright.json) |
 | Stage of Light | 116169 | [116169-stage-of-light.json](./116169-stage-of-light.json) |
 | Stage Presence | 34744 | [34744-stage-presence.json](./34744-stage-presence.json) |
 | Staged: Open House | 397249 | [397249-staged-open-house.json](./397249-staged-open-house.json) |
@@ -21054,10 +21056,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Puzzle | 348297 | [348297-stickman-puzzle.json](./348297-stickman-puzzle.json) |
 | Stickman PVP Warriors PRO online | 95858 | [95858-stickman-pvp-warriors-pro-online.json](./95858-stickman-pvp-warriors-pro-online.json) |
 | Stickman PvP Wars Online | 102239 | [102239-stickman-pvp-wars-online.json](./102239-stickman-pvp-wars-online.json) |
+| Stickman Race Draw | 81852 | [81852-stickman-race-draw.json](./81852-stickman-race-draw.json) |
 | Stickman Ragdoll | 256736 | [256736-stickman-ragdoll.json](./256736-stickman-ragdoll.json) |
 | Stickman Red boy and Blue girl | 231892 | [231892-stickman-red-boy-and-blue-girl.json](./231892-stickman-red-boy-and-blue-girl.json) |
 | Stickman Revenge: Demon Slayer | 323201 | [323201-stickman-revenge-demon-slayer.json](./323201-stickman-revenge-demon-slayer.json) |
 | Stickman Rope Dismount | 102243 | [102243-stickman-rope-dismount.json](./102243-stickman-rope-dismount.json) |
+| Stickman Safe and Destroy | 81850 | [81850-stickman-safe-and-destroy.json](./81850-stickman-safe-and-destroy.json) |
 | Stickman Skate Battle | 116251 | [116251-stickman-skate-battle.json](./116251-stickman-skate-battle.json) |
 | Stickman Skater | 174341 | [174341-stickman-skater.json](./174341-stickman-skater.json) |
 | Stickman Soccer | 82315 | [82315-stickman-soccer.json](./82315-stickman-soccer.json) |
@@ -21590,6 +21594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded | 337676 | [337676-stranded.json](./337676-stranded.json) |
 | Stranded | 376811 | [376811-stranded.json](./376811-stranded.json) |
 | Stranded 2 | 170896 | [170896-stranded-2.json](./170896-stranded-2.json) |
+| Stranded Alone | 81874 | [81874-stranded-alone.json](./81874-stranded-alone.json) |
 | Stranded at Sea | 365737 | [365737-stranded-at-sea.json](./365737-stranded-at-sea.json) |
 | Stranded B | 162257 | [162257-stranded-b.json](./162257-stranded-b.json) |
 | Stranded Engineers | 273398 | [273398-stranded-engineers.json](./273398-stranded-engineers.json) |
