@@ -3898,6 +3898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikoli no Sudoku 3D: 8-tsu no Puzzle de 1000-mon | 222458 | [222458-nikoli-no-sudoku-3d-8-tsu-no-puzzle-de-1000-mon.json](./222458-nikoli-no-sudoku-3d-8-tsu-no-puzzle-de-1000-mon.json) |
 | Nikoli no Sudoku Lite Dai-San-Shuu | 269519 | [269519-nikoli-no-sudoku-lite-dai-san-shuu.json](./269519-nikoli-no-sudoku-lite-dai-san-shuu.json) |
 | Nikoli Sudoku | 97443 | [97443-nikoli-sudoku.json](./97443-nikoli-sudoku.json) |
+| Nikujin | 66500 | [66500-nikujin.json](./66500-nikujin.json) |
 | Nil Action Metronome | 197034 | [197034-nil-action-metronome.json](./197034-nil-action-metronome.json) |
 | Nil Admirari no Tenbin: Irodori Nadeshiko | 136831 | [136831-nil-admirari-no-tenbin-irodori-nadeshiko.json](./136831-nil-admirari-no-tenbin-irodori-nadeshiko.json) |
 | Nil Admirari no Tenbin: Kuroyuri Enyoutan | 131906 | [131906-nil-admirari-no-tenbin-kuroyuri-enyoutan.json](./131906-nil-admirari-no-tenbin-kuroyuri-enyoutan.json) |
