@@ -2106,11 +2106,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Gas Station | 123976 | [123976-haunted-gas-station.json](./123976-haunted-gas-station.json) |
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
 | Haunted Graveyard | 399428 | [399428-haunted-graveyard.json](./399428-haunted-graveyard.json) |
+| Haunted Halls: Fears from Childhood | 50306 | [50306-haunted-halls-fears-from-childhood.json](./50306-haunted-halls-fears-from-childhood.json) |
 | Haunted Halls: Fears from Childhood - Collector's Edition | 86437 | [86437-haunted-halls-fears-from-childhood-collectors-edition.json](./86437-haunted-halls-fears-from-childhood-collectors-edition.json) |
 | Haunted Halls: Green Hills Sanitarium | 84146 | [84146-haunted-halls-green-hills-sanitarium.json](./84146-haunted-halls-green-hills-sanitarium.json) |
 | Haunted Halls: Green Hills Sanitarium - Collector's Edition | 37011 | [37011-haunted-halls-green-hills-sanitarium-collectors-edition.json](./37011-haunted-halls-green-hills-sanitarium-collectors-edition.json) |
 | Haunted Halls: Nightmare Dwellers | 214355 | [214355-haunted-halls-nightmare-dwellers.json](./214355-haunted-halls-nightmare-dwellers.json) |
 | Haunted Halls: Nightmare Dwellers - Collector's Edition | 214356 | [214356-haunted-halls-nightmare-dwellers-collectors-edition.json](./214356-haunted-halls-nightmare-dwellers-collectors-edition.json) |
+| Haunted Halls: Revenge of Doctor Blackmore | 50305 | [50305-haunted-halls-revenge-of-doctor-blackmore.json](./50305-haunted-halls-revenge-of-doctor-blackmore.json) |
 | Haunted Halls: Revenge of Doctor Blackmore - Collector's Edition | 105163 | [105163-haunted-halls-revenge-of-doctor-blackmore-collectors-edition.json](./105163-haunted-halls-revenge-of-doctor-blackmore-collectors-edition.json) |
 | Haunted Heart | 299533 | [299533-haunted-heart.json](./299533-haunted-heart.json) |
 | Haunted Hearts Hotel | 340418 | [340418-haunted-hearts-hotel.json](./340418-haunted-hearts-hotel.json) |
@@ -8735,6 +8737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of 1000 Doors: Evil Inside - Collector's Edition | 273946 | [273946-house-of-1000-doors-evil-inside-collectors-edition.json](./273946-house-of-1000-doors-evil-inside-collectors-edition.json) |
 | House of 1000 Doors: Family Secrets | 36371 | [36371-house-of-1000-doors-family-secrets.json](./36371-house-of-1000-doors-family-secrets.json) |
 | House of 1000 Doors: Family Secrets | 79322 | [79322-house-of-1000-doors-family-secrets.json](./79322-house-of-1000-doors-family-secrets.json) |
+| House of 1000 Doors: Palm of Zoroaster | 50312 | [50312-house-of-1000-doors-palm-of-zoroaster.json](./50312-house-of-1000-doors-palm-of-zoroaster.json) |
 | House of 1000 Doors: Serpent Flame | 119031 | [119031-house-of-1000-doors-serpent-flame.json](./119031-house-of-1000-doors-serpent-flame.json) |
 | House of 1000 Doors: The Palm of Zoroaster | 125688 | [125688-house-of-1000-doors-the-palm-of-zoroaster.json](./125688-house-of-1000-doors-the-palm-of-zoroaster.json) |
 | House Of 1000 Fowl | 399249 | [399249-house-of-1000-fowl.json](./399249-house-of-1000-fowl.json) |
