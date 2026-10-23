@@ -3871,6 +3871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caves of Qud: Pets of Harvest Dawn | 389407 | [389407-caves-of-qud-pets-of-harvest-dawn.json](./389407-caves-of-qud-pets-of-harvest-dawn.json) |
 | Caves of Rigel | 352343 | [352343-caves-of-rigel.json](./352343-caves-of-rigel.json) |
 | Caves, Canyons & Crevices | 271774 | [271774-caves-canyons-and-crevices.json](./271774-caves-canyons-and-crevices.json) |
+| Caves! | 55753 | [55753-caves.json](./55753-caves.json) |
 | Cavescape | 317012 | [317012-cavescape.json](./317012-cavescape.json) |
 | Caveshifter | 216759 | [216759-caveshifter.json](./216759-caveshifter.json) |
 | Cavesleeper | 371372 | [371372-cavesleeper.json](./371372-cavesleeper.json) |
@@ -4473,6 +4474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of Dawn | 74035 | [74035-champions-of-dawn.json](./74035-champions-of-dawn.json) |
 | Champions of Midgard | 111632 | [111632-champions-of-midgard.json](./111632-champions-of-midgard.json) |
 | Champions of Norrath: Realms of EverQuest | 9813 | [9813-champions-of-norrath-realms-of-everquest.json](./9813-champions-of-norrath-realms-of-everquest.json) |
+| Champions of Odin | 55629 | [55629-champions-of-odin.json](./55629-champions-of-odin.json) |
 | Champions of Quortz | 249215 | [249215-champions-of-quortz.json](./249215-champions-of-quortz.json) |
 | Champions of Regnum | 16426 | [16426-champions-of-regnum.json](./16426-champions-of-regnum.json) |
 | Champions of Shond: Echoes of Faith | 333699 | [333699-champions-of-shond-echoes-of-faith.json](./333699-champions-of-shond-echoes-of-faith.json) |
@@ -6442,6 +6444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas: Dark Side | 286006 | [286006-christmas-dark-side.json](./286006-christmas-dark-side.json) |
 | Christmasdius | 63887 | [63887-christmasdius.json](./63887-christmasdius.json) |
 | Christmasjong | 243578 | [243578-christmasjong.json](./243578-christmasjong.json) |
+| Christmastry | 55620 | [55620-christmastry.json](./55620-christmastry.json) |
 | Christmasville: The Missing Santa Adventures | 89195 | [89195-christmasville-the-missing-santa-adventures.json](./89195-christmasville-the-missing-santa-adventures.json) |
 | Christminster | 60021 | [60021-christminster.json](./60021-christminster.json) |
 | Chrith: Ai no Tabidachi | 137980 | [137980-chrith-ai-no-tabidachi.json](./137980-chrith-ai-no-tabidachi.json) |
