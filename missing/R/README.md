@@ -2219,6 +2219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaktron | 121706 | [121706-reaktron.json](./121706-reaktron.json) |
 | Real Adventures: Pet Vet | 123384 | [123384-real-adventures-pet-vet.json](./123384-real-adventures-pet-vet.json) |
 | Real Adventures: Wild Horses | 123383 | [123383-real-adventures-wild-horses.json](./123383-real-adventures-wild-horses.json) |
+| Real Air Hockey | 96556 | [96556-real-air-hockey.json](./96556-real-air-hockey.json) |
 | Real Al's Humanity Academy | 115009 | [115009-real-als-humanity-academy.json](./115009-real-als-humanity-academy.json) |
 | Real Anime Situation! 2 | 286987 | [286987-real-anime-situation-2.json](./286987-real-anime-situation-2.json) |
 | Real Anime Situation! DT | 314992 | [314992-real-anime-situation-dt.json](./314992-real-anime-situation-dt.json) |
@@ -4725,6 +4726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Grid | 348745 | [348745-retro-grid.json](./348745-retro-grid.json) |
 | Retro Gunner | 393021 | [393021-retro-gunner.json](./393021-retro-gunner.json) |
 | Retro Hacker | 90858 | [90858-retro-hacker.json](./90858-retro-hacker.json) |
+| Retro Highway | 96593 | [96593-retro-highway.json](./96593-retro-highway.json) |
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
 | Retro II | 199082 | [199082-retro-ii.json](./199082-retro-ii.json) |
 | Retro Jam 1 | 271217 | [271217-retro-jam-1.json](./271217-retro-jam-1.json) |
@@ -9272,6 +9274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rube Goldberg Workshop | 250452 | [250452-rube-goldberg-workshop.json](./250452-rube-goldberg-workshop.json) |
 | Rube Works | 36337 | [36337-rube-works.json](./36337-rube-works.json) |
 | Rube-like Gold-berger | 364606 | [364606-rube-like-gold-berger.json](./364606-rube-like-gold-berger.json) |
+| Rube's Lab | 96571 | [96571-rubes-lab.json](./96571-rubes-lab.json) |
 | Rubek | 25069 | [25069-rubek.json](./25069-rubek.json) |
 | Rubelike | 176377 | [176377-rubelike.json](./176377-rubelike.json) |
 | Rubi: The Wayward Mira | 55180 | [55180-rubi-the-wayward-mira.json](./55180-rubi-the-wayward-mira.json) |
