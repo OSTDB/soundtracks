@@ -1620,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garou Densetsu Battle Archive 2 | 73876 | [73876-garou-densetsu-battle-archive-2.json](./73876-garou-densetsu-battle-archive-2.json) |
 | Garou Sliding Simulator | 377715 | [377715-garou-sliding-simulator.json](./377715-garou-sliding-simulator.json) |
 | Garou: Mark of the Wolves | 10605 | [10605-garou-mark-of-the-wolves.json](./10605-garou-mark-of-the-wolves.json) |
+| Garouden Breakblow | 78509 | [78509-garouden-breakblow.json](./78509-garouden-breakblow.json) |
 | Garrett the Slug | 70613 | [70613-garrett-the-slug.json](./70613-garrett-the-slug.json) |
 | Garrison | 13856 | [13856-garrison.json](./13856-garrison.json) |
 | Garrison | 170784 | [170784-garrison.json](./170784-garrison.json) |
