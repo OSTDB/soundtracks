@@ -6190,6 +6190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordless | 421390 | [421390-wordless.json](./421390-wordless.json) |
 | Wordless Forest | 413778 | [413778-wordless-forest.json](./413778-wordless-forest.json) |
 | Wordlike | 326808 | [326808-wordlike.json](./326808-wordlike.json) |
+| Wordlings | 57529 | [57529-wordlings.json](./57529-wordlings.json) |
 | Wordly | 323327 | [323327-wordly.json](./323327-wordly.json) |
 | Wordmaster | 92670 | [92670-wordmaster.json](./92670-wordmaster.json) |
 | WordMaster | 207524 | [207524-wordmaster.json](./207524-wordmaster.json) |
