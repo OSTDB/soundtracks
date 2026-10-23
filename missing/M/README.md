@@ -6947,6 +6947,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorial Pillage | 183462 | [183462-memorial-pillage.json](./183462-memorial-pillage.json) |
 | Memorial Playground | 229650 | [229650-memorial-playground.json](./229650-memorial-playground.json) |
 | Memorial Series: Sunsoft vol. 1 | 79347 | [79347-memorial-series-sunsoft-vol-1.json](./79347-memorial-series-sunsoft-vol-1.json) |
+| Memorial Series: Sunsoft vol. 2 | 58528 | [58528-memorial-series-sunsoft-vol-2.json](./58528-memorial-series-sunsoft-vol-2.json) |
+| Memorial Series: Sunsoft vol. 3 | 58529 | [58529-memorial-series-sunsoft-vol-3.json](./58529-memorial-series-sunsoft-vol-3.json) |
+| Memorial Series: Sunsoft vol. 4 | 58527 | [58527-memorial-series-sunsoft-vol-4.json](./58527-memorial-series-sunsoft-vol-4.json) |
+| Memorial Series: Sunsoft vol. 5 | 58525 | [58525-memorial-series-sunsoft-vol-5.json](./58525-memorial-series-sunsoft-vol-5.json) |
+| Memorial Series: Sunsoft vol. 6 | 58526 | [58526-memorial-series-sunsoft-vol-6.json](./58526-memorial-series-sunsoft-vol-6.json) |
 | Memoriapolis | 264932 | [264932-memoriapolis.json](./264932-memoriapolis.json) |
 | Memoriedit | 373521 | [373521-memoriedit.json](./373521-memoriedit.json) |
 | Memories | 123314 | [123314-memories.json](./123314-memories.json) |
@@ -7658,6 +7663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Angel II | 37632 | [37632-metal-angel-ii.json](./37632-metal-angel-ii.json) |
 | Metal Ape Demo | 247888 | [247888-metal-ape-demo.json](./247888-metal-ape-demo.json) |
 | Metal Arms: Glitch in the System | 4004 | [4004-metal-arms-glitch-in-the-system.json](./4004-metal-arms-glitch-in-the-system.json) |
+| Metal Army | 59109 | [59109-metal-army.json](./59109-metal-army.json) |
 | Metal Army War Revenge | 221714 | [221714-metal-army-war-revenge.json](./221714-metal-army-war-revenge.json) |
 | Metal Assault | 37375 | [37375-metal-assault.json](./37375-metal-assault.json) |
 | Metal Assault | 9040 | [9040-metal-assault.json](./9040-metal-assault.json) |
@@ -11435,6 +11441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam Side Story II: Aoi wo Uketsugu Mono | 66077 | [66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json](./66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json) |
 | Mobile Suit Gundam Side Story III: Sabakareshi Mono | 66076 | [66076-mobile-suit-gundam-side-story-iii-sabakareshi-mono.json](./66076-mobile-suit-gundam-side-story-iii-sabakareshi-mono.json) |
 | Mobile Suit Gundam Side Story: The Blue Destiny | 66078 | [66078-mobile-suit-gundam-side-story-the-blue-destiny.json](./66078-mobile-suit-gundam-side-story-the-blue-destiny.json) |
+| Mobile Suit Gundam U.C. Card Builder | 58543 | [58543-mobile-suit-gundam-u-c-card-builder.json](./58543-mobile-suit-gundam-u-c-card-builder.json) |
 | Mobile Suit Gundam Unicorn | 7377 | [7377-mobile-suit-gundam-unicorn.json](./7377-mobile-suit-gundam-unicorn.json) |
 | Mobile Suit Gundam Version 2.0 | 159155 | [159155-mobile-suit-gundam-version-2-0.json](./159155-mobile-suit-gundam-version-2-0.json) |
 | Mobile Suit Gundam Vol. 1 - Side 7 | 66600 | [66600-mobile-suit-gundam-vol-1-side-7.json](./66600-mobile-suit-gundam-vol-1-side-7.json) |
@@ -11474,6 +11481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Last Shooting | 69763 | [69763-mobile-suit-gundam-last-shooting.json](./69763-mobile-suit-gundam-last-shooting.json) |
 | Mobile Suit Gundam: Lost War Chronicles | 66609 | [66609-mobile-suit-gundam-lost-war-chronicles.json](./66609-mobile-suit-gundam-lost-war-chronicles.json) |
 | Mobile Suit Gundam: Lost War Chronicles - The Best Version | 75695 | [75695-mobile-suit-gundam-lost-war-chronicles-the-best-version.json](./75695-mobile-suit-gundam-lost-war-chronicles-the-best-version.json) |
+| Mobile Suit Gundam: Mokuba no Kiseki | 58540 | [58540-mobile-suit-gundam-mokuba-no-kiseki.json](./58540-mobile-suit-gundam-mokuba-no-kiseki.json) |
 | Mobile Suit Gundam: MS Sensen 0079 | 5012 | [5012-mobile-suit-gundam-ms-sensen-0079.json](./5012-mobile-suit-gundam-ms-sensen-0079.json) |
 | Mobile Suit Gundam: One Year War | 66612 | [66612-mobile-suit-gundam-one-year-war.json](./66612-mobile-suit-gundam-one-year-war.json) |
 | Mobile Suit Gundam: Operation - Troy | 7074 | [7074-mobile-suit-gundam-operation-troy.json](./7074-mobile-suit-gundam-operation-troy.json) |
