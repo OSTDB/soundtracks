@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Teratoaster | 184343 | [184343-1-teratoaster.json](./184343-1-teratoaster.json) |
 | 1 Thousand Deaths | 411656 | [411656-1-thousand-deaths.json](./411656-1-thousand-deaths.json) |
 | 1 to 1 Humanoid Edible Toys | 301033 | [301033-1-to-1-humanoid-edible-toys.json](./301033-1-to-1-humanoid-edible-toys.json) |
+| 1 Ton | 79078 | [79078-1-ton.json](./79078-1-ton.json) |
 | 1 Trait Escape | 237063 | [237063-1-trait-escape.json](./237063-1-trait-escape.json) |
 | 1 Vs 1 | 28641 | [28641-1-vs-1.json](./28641-1-vs-1.json) |
 | 1 vs. 100 | 138101 | [138101-1-vs-100.json](./138101-1-vs-100.json) |
@@ -860,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1213: Episode 1 | 69821 | [69821-1213-episode-1.json](./69821-1213-episode-1.json) |
 | 1213: Episode 2 | 79143 | [79143-1213-episode-2.json](./79143-1213-episode-2.json) |
 | 1213: Special Edition | 144628 | [144628-1213-special-edition.json](./144628-1213-special-edition.json) |
+| 123 Animal Math Games For Kids | 79085 | [79085-123-animal-math-games-for-kids.json](./79085-123-animal-math-games-for-kids.json) |
 | 123 Animal Preschool Games for Kids | 58575 | [58575-123-animal-preschool-games-for-kids.json](./58575-123-animal-preschool-games-for-kids.json) |
 | 123 Animal Second Grade Math for Kids | 58477 | [58477-123-animal-second-grade-math-for-kids.json](./58477-123-animal-second-grade-math-for-kids.json) |
 | 123 Kids Fun Connect the Dots Games for Smart Kids | 232183 | [232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json](./232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json) |
