@@ -3485,6 +3485,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshare Princess 3 | 49772 | [49772-oshare-princess-3.json](./49772-oshare-princess-3.json) |
 | Oshare Princess 5 | 49771 | [49771-oshare-princess-5.json](./49771-oshare-princess-5.json) |
 | Oshare Princess DS: Oshare ni Koi Shite 2 | 123371 | [123371-oshare-princess-ds-oshare-ni-koi-shite-2.json](./123371-oshare-princess-ds-oshare-ni-koi-shite-2.json) |
+| Oshare Princess DS: Oshare ni Koishite! | 71907 | [71907-oshare-princess-ds-oshare-ni-koishite.json](./71907-oshare-princess-ds-oshare-ni-koishite.json) |
+| Oshare Princess DS: Oshare ni Koishite! 2 | 71906 | [71906-oshare-princess-ds-oshare-ni-koishite-2.json](./71906-oshare-princess-ds-oshare-ni-koishite-2.json) |
 | Oshare Princess DS: Oshare ni Koishite! 2 Plus | 214430 | [214430-oshare-princess-ds-oshare-ni-koishite-2-plus.json](./214430-oshare-princess-ds-oshare-ni-koishite-2-plus.json) |
 | Osher Bli Gvulot | 144152 | [144152-osher-bli-gvulot.json](./144152-osher-bli-gvulot.json) |
 | Oshi Dorei no Tane | 97783 | [97783-oshi-dorei-no-tane.json](./97783-oshi-dorei-no-tane.json) |
@@ -3884,6 +3886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ourworld | 254416 | [254416-ourworld.json](./254416-ourworld.json) |
 | Oust | 197105 | [197105-oust.json](./197105-oust.json) |
 | Out and About | 161379 | [161379-out-and-about.json](./161379-out-and-about.json) |
+| Out Board | 71935 | [71935-out-board.json](./71935-out-board.json) |
 | Out Fishing | 344699 | [344699-out-fishing.json](./344699-out-fishing.json) |
 | Out for Blood | 276380 | [276380-out-for-blood.json](./276380-out-for-blood.json) |
 | Out for Blood | 50539 | [50539-out-for-blood.json](./50539-out-for-blood.json) |
@@ -4557,6 +4560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overtrick | 379623 | [379623-overtrick.json](./379623-overtrick.json) |
 | OverTrip | 307818 | [307818-overtrip.json](./307818-overtrip.json) |
 | Overturn | 68584 | [68584-overturn.json](./68584-overturn.json) |
+| Overturn: Mecha Wars | 71945 | [71945-overturn-mecha-wars.json](./71945-overturn-mecha-wars.json) |
 | Overtype | 391015 | [391015-overtype.json](./391015-overtype.json) |
 | Overview | 81946 | [81946-overview.json](./81946-overview.json) |
 | Overview: Rain Echoes | 325063 | [325063-overview-rain-echoes.json](./325063-overview-rain-echoes.json) |
