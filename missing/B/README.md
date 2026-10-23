@@ -755,7 +755,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7807,6 +7806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Master Zero II | 116416 | [116416-blaster-master-zero-ii.json](./116416-blaster-master-zero-ii.json) |
 | Blaster Master Zero III | 145058 | [145058-blaster-master-zero-iii.json](./145058-blaster-master-zero-iii.json) |
 | Blaster Master Zero Trilogy: MetaFight Chronicle - Limited Edition | 166977 | [166977-blaster-master-zero-trilogy-metafight-chronicle-limited-edition.json](./166977-blaster-master-zero-trilogy-metafight-chronicle-limited-edition.json) |
+| Blaster Master: Blasting Again | 45096 | [45096-blaster-master-blasting-again.json](./45096-blaster-master-blasting-again.json) |
 | Blaster Master: Enemy Below | 49840 | [49840-blaster-master-enemy-below.json](./49840-blaster-master-enemy-below.json) |
 | Blaster Master: Overdrive | 50995 | [50995-blaster-master-overdrive.json](./50995-blaster-master-overdrive.json) |
 | Blaster Master: Pimp your Ride | 216301 | [216301-blaster-master-pimp-your-ride.json](./216301-blaster-master-pimp-your-ride.json) |
@@ -8502,6 +8502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockhead 2D | 208274 | [208274-blockhead-2d.json](./208274-blockhead-2d.json) |
 | Blockhead II | 14324 | [14324-blockhead-ii.json](./14324-blockhead-ii.json) |
 | Blockicker | 148808 | [148808-blockicker.json](./148808-blockicker.json) |
+| Blockids | 45082 | [45082-blockids.json](./45082-blockids.json) |
 | Blockies VR | 193204 | [193204-blockies-vr.json](./193204-blockies-vr.json) |
 | Blockits | 292950 | [292950-blockits.json](./292950-blockits.json) |
 | Blockiverse | 125799 | [125799-blockiverse.json](./125799-blockiverse.json) |
@@ -8754,6 +8755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Labs | 155862 | [155862-blood-labs.json](./155862-blood-labs.json) |
 | Blood Lily Cthulhu Mythos | 419313 | [419313-blood-lily-cthulhu-mythos.json](./419313-blood-lily-cthulhu-mythos.json) |
 | Blood Lily: Killers Can't Sink a Yuri Ship | 360199 | [360199-blood-lily-killers-cant-sink-a-yuri-ship.json](./360199-blood-lily-killers-cant-sink-a-yuri-ship.json) |
+| Blood Lines | 45056 | [45056-blood-lines.json](./45056-blood-lines.json) |
 | Blood Lines: Magicians' Chase 2 | 300775 | [300775-blood-lines-magicians-chase-2.json](./300775-blood-lines-magicians-chase-2.json) |
 | Blood Lust | 309724 | [309724-blood-lust.json](./309724-blood-lust.json) |
 | Blood Magic | 121569 | [121569-blood-magic.json](./121569-blood-magic.json) |
@@ -13394,6 +13396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Quest | 287641 | [287641-bug-quest.json](./287641-bug-quest.json) |
 | Bug Race | 360923 | [360923-bug-race.json](./360923-bug-race.json) |
 | Bug Riders | 277929 | [277929-bug-riders.json](./277929-bug-riders.json) |
+| Bug Riders: The Race of Kings | 45041 | [45041-bug-riders-the-race-of-kings.json](./45041-bug-riders-the-race-of-kings.json) |
 | Bug Simulator | 137352 | [137352-bug-simulator.json](./137352-bug-simulator.json) |
 | Bug Splatt | 104807 | [104807-bug-splatt.json](./104807-bug-splatt.json) |
 | Bug Squad | 58725 | [58725-bug-squad.json](./58725-bug-squad.json) |
