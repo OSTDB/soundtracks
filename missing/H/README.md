@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Waifu | 378573 | [378573-halloween-waifu.json](./378573-halloween-waifu.json) |
 | Halloween with Veronica | 286397 | [286397-halloween-with-veronica.json](./286397-halloween-with-veronica.json) |
 | Halloween: Global Candy Cup 2015 | 275629 | [275629-halloween-global-candy-cup-2015.json](./275629-halloween-global-candy-cup-2015.json) |
+| Halloween: Jigsaw Puzzles | 72494 | [72494-halloween-jigsaw-puzzles.json](./72494-halloween-jigsaw-puzzles.json) |
 | Halloween: October 31st | 176786 | [176786-halloween-october-31st.json](./176786-halloween-october-31st.json) |
 | Halloween: October 31st Demake | 218575 | [218575-halloween-october-31st-demake.json](./218575-halloween-october-31st-demake.json) |
 | Halloween: The Twelve Cards Curse | 294436 | [294436-halloween-the-twelve-cards-curse.json](./294436-halloween-the-twelve-cards-curse.json) |
@@ -5942,6 +5943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Heat Major League Baseball 2004 | 24089 | [24089-high-heat-major-league-baseball-2004.json](./24089-high-heat-major-league-baseball-2004.json) |
 | High Heels! | 241807 | [241807-high-heels.json](./241807-high-heels.json) |
 | High Impact Football | 40061 | [40061-high-impact-football.json](./40061-high-impact-football.json) |
+| High Impact Paintball | 72468 | [72468-high-impact-paintball.json](./72468-high-impact-paintball.json) |
 | High Jinx! | 217977 | [217977-high-jinx.json](./217977-high-jinx.json) |
 | High Jump | 247048 | [247048-high-jump.json](./247048-high-jump.json) |
 | High Mountain Abbey | 335370 | [335370-high-mountain-abbey.json](./335370-high-mountain-abbey.json) |
