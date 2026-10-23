@@ -11144,6 +11144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Morane Crisis | 417970 | [417970-the-morane-crisis.json](./417970-the-morane-crisis.json) |
 | The Morgue: Hospital Escape | 177286 | [177286-the-morgue-hospital-escape.json](./177286-the-morgue-hospital-escape.json) |
 | The Morlov Affair | 78895 | [78895-the-morlov-affair.json](./78895-the-morlov-affair.json) |
+| The Morning Adventure | 49711 | [49711-the-morning-adventure.json](./49711-the-morning-adventure.json) |
 | The Moroccan Castle 3: Behind The Secrets | 242229 | [242229-the-moroccan-castle-3-behind-the-secrets.json](./242229-the-moroccan-castle-3-behind-the-secrets.json) |
 | The Moron Test | 117757 | [117757-the-moron-test.json](./117757-the-moron-test.json) |
 | The Morphine Western Revenge | 185622 | [185622-the-morphine-western-revenge.json](./185622-the-morphine-western-revenge.json) |
@@ -11305,6 +11306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
