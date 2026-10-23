@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyboard Soldier | 340788 | [340788-keyboard-soldier.json](./340788-keyboard-soldier.json) |
 | Keyboard Warrior | 343590 | [343590-keyboard-warrior.json](./343590-keyboard-warrior.json) |
 | Keyboard Warrior | 343591 | [343591-keyboard-warrior.json](./343591-keyboard-warrior.json) |
+| Keyboard Warrior | 81024 | [81024-keyboard-warrior.json](./81024-keyboard-warrior.json) |
 | Keyboard Warrior Simulator | 351711 | [351711-keyboard-warrior-simulator.json](./351711-keyboard-warrior-simulator.json) |
 | Keyboard Warrior Stickman: Typing Beat Em Up | 413773 | [413773-keyboard-warrior-stickman-typing-beat-em-up.json](./413773-keyboard-warrior-stickman-typing-beat-em-up.json) |
 | Keyboard Warrior: Dreamstate | 209714 | [209714-keyboard-warrior-dreamstate.json](./209714-keyboard-warrior-dreamstate.json) |
@@ -2758,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Wars 2: Definitive Edition | 116181 | [116181-kingdom-wars-2-definitive-edition.json](./116181-kingdom-wars-2-definitive-edition.json) |
 | Kingdom Wars 4 | 135730 | [135730-kingdom-wars-4.json](./135730-kingdom-wars-4.json) |
 | Kingdom Wars 4: Sultans & Kings | 248821 | [248821-kingdom-wars-4-sultans-and-kings.json](./248821-kingdom-wars-4-sultans-and-kings.json) |
+| Kingdom Watcher | 81050 | [81050-kingdom-watcher.json](./81050-kingdom-watcher.json) |
 | Kingdom Winds | 224031 | [224031-kingdom-winds.json](./224031-kingdom-winds.json) |
 | Kingdom-Heroes | 114071 | [114071-kingdom-heroes.json](./114071-kingdom-heroes.json) |
 | Kingdom: Classic | 13686 | [13686-kingdom-classic.json](./13686-kingdom-classic.json) |
@@ -3204,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Life Simulator | 97496 | [97496-kitten-life-simulator.json](./97496-kitten-life-simulator.json) |
 | Kitten Lost Her Box | 235490 | [235490-kitten-lost-her-box.json](./235490-kitten-lost-her-box.json) |
 | Kitten Love Emulator | 111969 | [111969-kitten-love-emulator.json](./111969-kitten-love-emulator.json) |
+| Kitten Madness | 81028 | [81028-kitten-madness.json](./81028-kitten-madness.json) |
 | Kitten Milk Replacer | 260080 | [260080-kitten-milk-replacer.json](./260080-kitten-milk-replacer.json) |
 | Kitten Mischief | 397183 | [397183-kitten-mischief.json](./397183-kitten-mischief.json) |
 | Kitten Rampage | 33688 | [33688-kitten-rampage.json](./33688-kitten-rampage.json) |
@@ -4000,6 +4003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokoro Kitchen | 334463 | [334463-kokoro-kitchen.json](./334463-kokoro-kitchen.json) |
 | Kokoro no Doki Doki Senpai?? | 150133 | [150133-kokoro-no-doki-doki-senpai.json](./150133-kokoro-no-doki-doki-senpai.json) |
 | Kokoro no Pro | 266870 | [266870-kokoro-no-pro.json](./266870-kokoro-no-pro.json) |
+| Kokoro no Yami no Saki ni | 81035 | [81035-kokoro-no-yami-no-saki-ni.json](./81035-kokoro-no-yami-no-saki-ni.json) |
 | Kokoro Talkers | 325446 | [325446-kokoro-talkers.json](./325446-kokoro-talkers.json) |
 | Kokoro Ultimate | 199352 | [199352-kokoro-ultimate.json](./199352-kokoro-ultimate.json) |
 | Kokoro: Baka-Monogatari | 150134 | [150134-kokoro-baka-monogatari.json](./150134-kokoro-baka-monogatari.json) |
@@ -4568,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krosfighter | 275844 | [275844-krosfighter.json](./275844-krosfighter.json) |
 | Krosmaga | 29097 | [29097-krosmaga.json](./29097-krosmaga.json) |
 | Krosmaster Arena | 17964 | [17964-krosmaster-arena.json](./17964-krosmaster-arena.json) |
+| Krotruvink | 81047 | [81047-krotruvink.json](./81047-krotruvink.json) |
 | KRTL: Jay Und Die Spielzeugdiebe | 94155 | [94155-krtl-jay-und-die-spielzeugdiebe.json](./94155-krtl-jay-und-die-spielzeugdiebe.json) |
 | Kruger | 202773 | [202773-kruger.json](./202773-kruger.json) |
 | Kruger 2 | 213795 | [213795-kruger-2.json](./213795-kruger-2.json) |
