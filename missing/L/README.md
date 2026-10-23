@@ -1315,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Stage | 269227 | [269227-late-stage.json](./269227-late-stage.json) |
 | Late Stage Capitalism | 355125 | [355125-late-stage-capitalism.json](./355125-late-stage-capitalism.json) |
 | Late Stage Inferno | 149871 | [149871-late-stage-inferno.json](./149871-late-stage-inferno.json) |
+| Late to the Party | 60829 | [60829-late-to-the-party.json](./60829-late-to-the-party.json) |
 | Late Work | 177487 | [177487-late-work.json](./177487-late-work.json) |
 | Late'O'Clock | 111362 | [111362-lateoclock.json](./111362-lateoclock.json) |
 | Latebus | 177832 | [177832-latebus.json](./177832-latebus.json) |
@@ -3031,6 +3032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Quip | 61896 | [61896-lets-quip.json](./61896-lets-quip.json) |
 | Let's Return Home Together | 350967 | [350967-lets-return-home-together.json](./350967-lets-return-home-together.json) |
 | Let's Ride: Horse & Pony | 209883 | [209883-lets-ride-horse-and-pony.json](./209883-lets-ride-horse-and-pony.json) |
+| Let's Ride! Best in Breed 3D | 60869 | [60869-lets-ride-best-in-breed-3d.json](./60869-lets-ride-best-in-breed-3d.json) |
 | Let's Ride! Championship Dreams | 72136 | [72136-lets-ride-championship-dreams.json](./72136-lets-ride-championship-dreams.json) |
 | Let's Ride! Silver Buckle Stables | 43522 | [43522-lets-ride-silver-buckle-stables.json](./43522-lets-ride-silver-buckle-stables.json) |
 | Let's Ride!: Dreamer | 49396 | [49396-lets-ride-dreamer.json](./49396-lets-ride-dreamer.json) |
@@ -6392,6 +6394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Girl | 184900 | [184900-lost-girl.json](./184900-lost-girl.json) |
 | Lost Girl In Mirror | 259820 | [259820-lost-girl-in-mirror.json](./259820-lost-girl-in-mirror.json) |
 | Lost Girl Platformer | 311207 | [311207-lost-girl-platformer.json](./311207-lost-girl-platformer.json) |
+| Lost Girl: The Game | 60836 | [60836-lost-girl-the-game.json](./60836-lost-girl-the-game.json) |
 | Lost girl's [diary] | 33473 | [33473-lost-girls-diary.json](./33473-lost-girls-diary.json) |
 | Lost God | 24939 | [24939-lost-god.json](./24939-lost-god.json) |
 | Lost Gold | 156065 | [156065-lost-gold.json](./156065-lost-gold.json) |
@@ -7566,6 +7569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion 3: Multiplayer Pack - Part 2 | 127550 | [127550-luigis-mansion-3-multiplayer-pack-part-2.json](./127550-luigis-mansion-3-multiplayer-pack-part-2.json) |
 | Luigi's Mansion 64 | 218072 | [218072-luigis-mansion-64.json](./218072-luigis-mansion-64.json) |
 | Luigi's Mansion 64.5: Super Player Mode | 374176 | [374176-luigis-mansion-64-5-super-player-mode.json](./374176-luigis-mansion-64-5-super-player-mode.json) |
+| Luigi's Mansion Arcade | 60852 | [60852-luigis-mansion-arcade.json](./60852-luigis-mansion-arcade.json) |
 | Luigi's Mansion Beta Restoration | 272158 | [272158-luigis-mansion-beta-restoration.json](./272158-luigis-mansion-beta-restoration.json) |
 | Luigi's Mansion Beta Restoration (+) Plus | 281022 | [281022-luigis-mansion-beta-restoration-plus.json](./281022-luigis-mansion-beta-restoration-plus.json) |
 | Luigi's Mansion Organ Game | 328657 | [328657-luigis-mansion-organ-game.json](./328657-luigis-mansion-organ-game.json) |
