@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teddy's Marbles | 226754 | [226754-teddys-marbles.json](./226754-teddys-marbles.json) |
 | Tedram | 231366 | [231366-tedram.json](./231366-tedram.json) |
 | Tedram Online: Car Racing & Customization | 337637 | [337637-tedram-online-car-racing-and-customization.json](./337637-tedram-online-car-racing-and-customization.json) |
+| Tee Off | 46379 | [46379-tee-off.json](./46379-tee-off.json) |
 | Tee Off! | 95449 | [95449-tee-off.json](./95449-tee-off.json) |
 | Tee Time | 206227 | [206227-tee-time.json](./206227-tee-time.json) |
 | Tee-riffic Golf. | 180775 | [180775-tee-riffic-golf.json](./180775-tee-riffic-golf.json) |
@@ -3161,6 +3162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenacious | 111202 | [111202-tenacious.json](./111202-tenacious.json) |
 | Tenancy | 413893 | [413893-tenancy.json](./413893-tenancy.json) |
 | Tenants | 129152 | [129152-tenants.json](./129152-tenants.json) |
+| Tenbu Mega CD Special | 46384 | [46384-tenbu-mega-cd-special.json](./46384-tenbu-mega-cd-special.json) |
 | Tenchi Fukkatsu! | 98061 | [98061-tenchi-fukkatsu.json](./98061-tenchi-fukkatsu.json) |
 | Tenchi Muyo! Game-hen | 84452 | [84452-tenchi-muyo-game-hen.json](./84452-tenchi-muyo-game-hen.json) |
 | Tenchi Muyo! Rensa Hitsuyou | 69329 | [69329-tenchi-muyo-rensa-hitsuyou.json](./69329-tenchi-muyo-rensa-hitsuyou.json) |
@@ -3230,6 +3232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenioha! feat. Mami | 263741 | [263741-tenioha-feat-mami.json](./263741-tenioha-feat-mami.json) |
 | Tenioha! Girls Can Be Pervy Too! | 145379 | [145379-tenioha-girls-can-be-pervy-too.json](./145379-tenioha-girls-can-be-pervy-too.json) |
 | Tenjin Kaisen 2: Yomihon Yumegoyomi | 418606 | [418606-tenjin-kaisen-2-yomihon-yumegoyomi.json](./418606-tenjin-kaisen-2-yomihon-yumegoyomi.json) |
+| Tenka Fubu Eiyuu-tachi no Houkou | 46383 | [46383-tenka-fubu-eiyuu-tachi-no-houkou.json](./46383-tenka-fubu-eiyuu-tachi-no-houkou.json) |
 | Tenka Hyakken: Zan | 76569 | [76569-tenka-hyakken-zan.json](./76569-tenka-hyakken-zan.json) |
 | Tenka no Goikenban: Mito Koumon | 48881 | [48881-tenka-no-goikenban-mito-koumon.json](./48881-tenka-no-goikenban-mito-koumon.json) |
 | Tenka Touitsu SSB: Scenario - Mouko Houkousu | 283850 | [283850-tenka-touitsu-ssb-scenario-mouko-houkousu.json](./283850-tenka-touitsu-ssb-scenario-mouko-houkousu.json) |
@@ -10890,6 +10893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mask: Mayhem | 255333 | [255333-the-mask-mayhem.json](./255333-the-mask-mayhem.json) |
 | The Masked Mage | 110947 | [110947-the-masked-mage.json](./110947-the-masked-mage.json) |
 | The Masked Prisoner | 217000 | [217000-the-masked-prisoner.json](./217000-the-masked-prisoner.json) |
+| The Masked Rider: Kamen Rider ZO | 46409 | [46409-the-masked-rider-kamen-rider-zo.json](./46409-the-masked-rider-kamen-rider-zo.json) |
 | The Masque of Red Death | 271065 | [271065-the-masque-of-red-death.json](./271065-the-masque-of-red-death.json) |
 | The Masquerade | 270530 | [270530-the-masquerade.json](./270530-the-masquerade.json) |
 | The Massive Iceberg Schoolhouse | 340004 | [340004-the-massive-iceberg-schoolhouse.json](./340004-the-massive-iceberg-schoolhouse.json) |
@@ -11316,7 +11320,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -15974,6 +15977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Shift | 344998 | [344998-third-shift.json](./344998-third-shift.json) |
 | Third Walker | 406239 | [406239-third-walker.json](./406239-third-walker.json) |
 | Third Wild | 208600 | [208600-third-wild.json](./208600-third-wild.json) |
+| Third World War | 46408 | [46408-third-world-war.json](./46408-third-world-war.json) |
 | Third World: The Bottom Dimension | 253830 | [253830-third-world-the-bottom-dimension.json](./253830-third-world-the-bottom-dimension.json) |
 | ThirdMiracle | 197764 | [197764-thirdmiracle.json](./197764-thirdmiracle.json) |
 | ThirdPlace: Kon and Pon | 288621 | [288621-thirdplace-kon-and-pon.json](./288621-thirdplace-kon-and-pon.json) |
@@ -21998,6 +22002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Kingdom 3 | 189897 | [189897-toy-kingdom-3.json](./189897-toy-kingdom-3.json) |
 | Toy Land Adventure | 371406 | [371406-toy-land-adventure.json](./371406-toy-land-adventure.json) |
 | Toy Party - Dazzling Puzzle | 87098 | [87098-toy-party-dazzling-puzzle.json](./87098-toy-party-dazzling-puzzle.json) |
+| Toy Racer | 46369 | [46369-toy-racer.json](./46369-toy-racer.json) |
 | Toy Raid | 68254 | [68254-toy-raid.json](./68254-toy-raid.json) |
 | Toy Road Constructor | 111601 | [111601-toy-road-constructor.json](./111601-toy-road-constructor.json) |
 | Toy Robo Force | 54896 | [54896-toy-robo-force.json](./54896-toy-robo-force.json) |
