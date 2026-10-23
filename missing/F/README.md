@@ -2030,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Doggie | 131346 | [131346-farm-doggie.json](./131346-farm-doggie.json) |
 | Farm Dream Village Harvest Sim | 101585 | [101585-farm-dream-village-harvest-sim.json](./101585-farm-dream-village-harvest-sim.json) |
 | Farm Dungeons | 158135 | [158135-farm-dungeons.json](./158135-farm-dungeons.json) |
+| Farm Expert 2016 | 47040 | [47040-farm-expert-2016.json](./47040-farm-expert-2016.json) |
 | Farm Expert 2016: Farm Machines Pack | 263190 | [263190-farm-expert-2016-farm-machines-pack.json](./263190-farm-expert-2016-farm-machines-pack.json) |
 | Farm Expert 2017 | 25105 | [25105-farm-expert-2017.json](./25105-farm-expert-2017.json) |
 | Farm Expert 2017: Hard Terrain | 174133 | [174133-farm-expert-2017-hard-terrain.json](./174133-farm-expert-2017-hard-terrain.json) |
@@ -4495,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Santa Christmas Special | 175440 | [175440-finding-santa-christmas-special.json](./175440-finding-santa-christmas-special.json) |
 | Finding Semolina | 183798 | [183798-finding-semolina.json](./183798-finding-semolina.json) |
 | Finding summer | 114396 | [114396-finding-summer.json](./114396-finding-summer.json) |
+| Finding Teddy 2 | 47045 | [47045-finding-teddy-2.json](./47045-finding-teddy-2.json) |
 | Finding Teddy 2: Definitive Edition | 132059 | [132059-finding-teddy-2-definitive-edition.json](./132059-finding-teddy-2-definitive-edition.json) |
 | Finding Xavier | 232928 | [232928-finding-xavier.json](./232928-finding-xavier.json) |
 | FindIt | 303797 | [303797-findit.json](./303797-findit.json) |
@@ -5662,6 +5664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Treasure Island: Sister Location | 274981 | [274981-five-nights-at-treasure-island-sister-location.json](./274981-five-nights-at-treasure-island-sister-location.json) |
 | Five Nights at Vsauce VR | 323802 | [323802-five-nights-at-vsauce-vr.json](./323802-five-nights-at-vsauce-vr.json) |
 | Five Nights at Wario's 4 | 280770 | [280770-five-nights-at-warios-4.json](./280770-five-nights-at-warios-4.json) |
+| Five Nights in Anime | 47051 | [47051-five-nights-in-anime.json](./47051-five-nights-in-anime.json) |
 | Five Nights In Saransk | 381257 | [381257-five-nights-in-saransk.json](./381257-five-nights-in-saransk.json) |
 | Five Nights of Nightmare: Escape Horror Story | 297313 | [297313-five-nights-of-nightmare-escape-horror-story.json](./297313-five-nights-of-nightmare-escape-horror-story.json) |
 | Five Nights on the Toilet | 267389 | [267389-five-nights-on-the-toilet.json](./267389-five-nights-on-the-toilet.json) |
