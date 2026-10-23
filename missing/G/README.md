@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaga: Destination Earth | 12895 | [12895-galaga-destination-earth.json](./12895-galaga-destination-earth.json) |
 | Galaga: Destination Earth | 281474 | [281474-galaga-destination-earth.json](./281474-galaga-destination-earth.json) |
 | Galaga: Special Edition | 61014 | [61014-galaga-special-edition.json](./61014-galaga-special-edition.json) |
+| Galaga: Tekken 20th Anniversary Edition | 60329 | [60329-galaga-tekken-20th-anniversary-edition.json](./60329-galaga-tekken-20th-anniversary-edition.json) |
 | Galagan's Island: Reprymian Rising | 21297 | [21297-galagans-island-reprymian-rising.json](./21297-galagans-island-reprymian-rising.json) |
 | Galagan's Island: Reprymian Rising - Metagalactic Monstrosities | 171934 | [171934-galagans-island-reprymian-rising-metagalactic-monstrosities.json](./171934-galagans-island-reprymian-rising-metagalactic-monstrosities.json) |
 | Galagi Shooter | 197342 | [197342-galagi-shooter.json](./197342-galagi-shooter.json) |
@@ -1723,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gash And the Ultimate Boner | 292613 | [292613-gash-and-the-ultimate-boner.json](./292613-gash-and-the-ultimate-boner.json) |
 | Gash Rabbet | 354891 | [354891-gash-rabbet.json](./354891-gash-rabbet.json) |
 | Gashi Shachi no Sachi | 225841 | [225841-gashi-shachi-no-sachi.json](./225841-gashi-shachi-no-sachi.json) |
+| Gasketball | 60316 | [60316-gasketball.json](./60316-gasketball.json) |
 | Gaslamp Cases 2: The Haunted Village | 181119 | [181119-gaslamp-cases-2-the-haunted-village.json](./181119-gaslamp-cases-2-the-haunted-village.json) |
 | Gaslamp Cases 4: The Arcane Village | 294395 | [294395-gaslamp-cases-4-the-arcane-village.json](./294395-gaslamp-cases-4-the-arcane-village.json) |
 | Gaslamp Cases 5: The Dreadful City | 248917 | [248917-gaslamp-cases-5-the-dreadful-city.json](./248917-gaslamp-cases-5-the-dreadful-city.json) |
@@ -2490,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genso Chronicles | 286881 | [286881-genso-chronicles.json](./286881-genso-chronicles.json) |
 | Genso Flood Front | 214768 | [214768-genso-flood-front.json](./214768-genso-flood-front.json) |
 | Genso Manège | 306084 | [306084-genso-manege.json](./306084-genso-manege.json) |
+| Genso Rondo | 60319 | [60319-genso-rondo.json](./60319-genso-rondo.json) |
 | Genso Rondo: Additional character "Aya Shameimaru" | 212665 | [212665-genso-rondo-additional-character-aya-shameimaru.json](./212665-genso-rondo-additional-character-aya-shameimaru.json) |
 | Genso Rondo: Additional character "Flandre Scarlet" | 212666 | [212666-genso-rondo-additional-character-flandre-scarlet.json](./212666-genso-rondo-additional-character-flandre-scarlet.json) |
 | Genso Rondo: Additional character "Yukari Yakumo" | 212663 | [212663-genso-rondo-additional-character-yukari-yakumo.json](./212663-genso-rondo-additional-character-yukari-yakumo.json) |
@@ -3526,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Dress Up Makeover | 88327 | [88327-girl-dress-up-makeover.json](./88327-girl-dress-up-makeover.json) |
 | Girl Fight | 19971 | [19971-girl-fight.json](./19971-girl-fight.json) |
 | Girl Frame | 349468 | [349468-girl-frame.json](./349468-girl-frame.json) |
+| Girl Friend (Kari): Kimi to Sugosu Natsuyasumi | 60334 | [60334-girl-friend-kari-kimi-to-sugosu-natsuyasumi.json](./60334-girl-friend-kari-kimi-to-sugosu-natsuyasumi.json) |
 | Girl Gallery | 264786 | [264786-girl-gallery.json](./264786-girl-gallery.json) |
 | Girl Genius: Adventures in Castle Heterodyne | 143372 | [143372-girl-genius-adventures-in-castle-heterodyne.json](./143372-girl-genius-adventures-in-castle-heterodyne.json) |
 | Girl Group Inc: Love Kpop Idol | 297012 | [297012-girl-group-inc-love-kpop-idol.json](./297012-girl-group-inc-love-kpop-idol.json) |
@@ -6215,6 +6219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix Circuit | 278447 | [278447-grand-prix-circuit.json](./278447-grand-prix-circuit.json) |
 | Grand Prix Circuit | 278449 | [278449-grand-prix-circuit.json](./278449-grand-prix-circuit.json) |
 | Grand Prix Circus 2 | 264780 | [264780-grand-prix-circus-2.json](./264780-grand-prix-circus-2.json) |
+| Grand Prix Driver | 60323 | [60323-grand-prix-driver.json](./60323-grand-prix-driver.json) |
 | Grand Prix Evolution | 54063 | [54063-grand-prix-evolution.json](./54063-grand-prix-evolution.json) |
 | Grand Prix Formula One | 314865 | [314865-grand-prix-formula-one.json](./314865-grand-prix-formula-one.json) |
 | Grand Prix Manager | 78019 | [78019-grand-prix-manager.json](./78019-grand-prix-manager.json) |
