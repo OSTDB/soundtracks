@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League GG Pro-Striker '94 | 126010 | [126010-j-league-gg-pro-striker-94.json](./126010-j-league-gg-pro-striker-94.json) |
 | J.League Greatest Eleven Soccer | 37684 | [37684-j-league-greatest-eleven-soccer.json](./37684-j-league-greatest-eleven-soccer.json) |
 | J.League Jikkyou Honoo no Striker | 220856 | [220856-j-league-jikkyou-honoo-no-striker.json](./220856-j-league-jikkyou-honoo-no-striker.json) |
+| J.League Jikkyou Winning Eleven | 64829 | [64829-j-league-jikkyou-winning-eleven.json](./64829-j-league-jikkyou-winning-eleven.json) |
 | J.League Jikkyou Winning Eleven '98-'99 | 181568 | [181568-j-league-jikkyou-winning-eleven-98-99.json](./181568-j-league-jikkyou-winning-eleven-98-99.json) |
 | J.League Jikkyou Winning Eleven 2000 | 181569 | [181569-j-league-jikkyou-winning-eleven-2000.json](./181569-j-league-jikkyou-winning-eleven-2000.json) |
 | J.League Jikkyou Winning Eleven 2000 2nd | 181571 | [181571-j-league-jikkyou-winning-eleven-2000-2nd.json](./181571-j-league-jikkyou-winning-eleven-2000-2nd.json) |
@@ -58,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Pro Soccer Club wo Tsukurou! | 65005 | [65005-j-league-pro-soccer-club-wo-tsukurou.json](./65005-j-league-pro-soccer-club-wo-tsukurou.json) |
 | J.League Pro Soccer Club wo Tsukurou! '04 | 62764 | [62764-j-league-pro-soccer-club-wo-tsukurou-04.json](./62764-j-league-pro-soccer-club-wo-tsukurou-04.json) |
 | J.League Pro Soccer Club wo Tsukurou! 2 | 65006 | [65006-j-league-pro-soccer-club-wo-tsukurou-2.json](./65006-j-league-pro-soccer-club-wo-tsukurou-2.json) |
+| J.League Pro Soccer Club wo Tsukurou! 3 | 64791 | [64791-j-league-pro-soccer-club-wo-tsukurou-3.json](./64791-j-league-pro-soccer-club-wo-tsukurou-3.json) |
 | J.League Pro Soccer Club wo Tsukurou! 5 | 65010 | [65010-j-league-pro-soccer-club-wo-tsukurou-5.json](./65010-j-league-pro-soccer-club-wo-tsukurou-5.json) |
 | J.League Pro Soccer Club wo Tsukurou! 6: Pride of J | 62766 | [62766-j-league-pro-soccer-club-wo-tsukurou-6-pride-of-j.json](./62766-j-league-pro-soccer-club-wo-tsukurou-6-pride-of-j.json) |
 | J.League Pro Soccer Club wo Tsukurou! 7: Euro + | 65012 | [65012-j-league-pro-soccer-club-wo-tsukurou-7-euro.json](./65012-j-league-pro-soccer-club-wo-tsukurou-7-euro.json) |
@@ -491,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's Zoo | 25486 | [25486-janes-zoo.json](./25486-janes-zoo.json) |
 | Jane`s Hotel 2: Family Hero | 180092 | [180092-jane-s-hotel-2-family-hero.json](./180092-jane-s-hotel-2-family-hero.json) |
 | Janet's Planets | 400672 | [400672-janets-planets.json](./400672-janets-planets.json) |
+| Jang Pung 3 | 64793 | [64793-jang-pung-3.json](./64793-jang-pung-3.json) |
 | Janga | 121629 | [121629-janga.json](./121629-janga.json) |
 | Janggi for Kakao | 126002 | [126002-janggi-for-kakao.json](./126002-janggi-for-kakao.json) |
 | Janggun | 145638 | [145638-janggun.json](./145638-janggun.json) |
