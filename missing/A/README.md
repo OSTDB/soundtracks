@@ -2255,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actionauts | 40658 | [40658-actionauts.json](./40658-actionauts.json) |
 | ActionCam: Supernatural Case | 333529 | [333529-actioncam-supernatural-case.json](./333529-actioncam-supernatural-case.json) |
 | Actionpaint VR | 107931 | [107931-actionpaint-vr.json](./107931-actionpaint-vr.json) |
+| ActionSwing | 89784 | [89784-actionswing.json](./89784-actionswing.json) |
 | Activate | 231819 | [231819-activate.json](./231819-activate.json) |
 | Activate the Three Artefacts and then Leave | 139153 | [139153-activate-the-three-artefacts-and-then-leave.json](./139153-activate-the-three-artefacts-and-then-leave.json) |
 | Active 2048 Body Control | 379473 | [379473-active-2048-body-control.json](./379473-active-2048-body-control.json) |
@@ -3788,6 +3789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AH3AD: Retrowave Runner | 191583 | [191583-ah3ad-retrowave-runner.json](./191583-ah3ad-retrowave-runner.json) |
 | Aha Hit tile 3D | 101321 | [101321-aha-hit-tile-3d.json](./101321-aha-hit-tile-3d.json) |
 | Aha Link Color: Cross | 101967 | [101967-aha-link-color-cross.json](./101967-aha-link-color-cross.json) |
+| Aha Link Color: Hex | 89740 | [89740-aha-link-color-hex.json](./89740-aha-link-color-hex.json) |
 | Aha Rally Car | 104431 | [104431-aha-rally-car.json](./104431-aha-rally-car.json) |
 | Aha! | 86026 | [86026-aha.json](./86026-aha.json) |
 | Aha! Art na Machigai-sagashi | 251512 | [251512-aha-art-na-machigai-sagashi.json](./251512-aha-art-na-machigai-sagashi.json) |
@@ -6348,6 +6350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Loot Grind | 395758 | [395758-amazing-loot-grind.json](./395758-amazing-loot-grind.json) |
 | Amazing Love: Cupid's Arrows | 232570 | [232570-amazing-love-cupids-arrows.json](./232570-amazing-love-cupids-arrows.json) |
 | Amazing Machines | 187385 | [187385-amazing-machines.json](./187385-amazing-machines.json) |
+| Amazing Mahjong: Zen | 89743 | [89743-amazing-mahjong-zen.json](./89743-amazing-mahjong-zen.json) |
 | Amazing Maze | 18115 | [18115-amazing-maze.json](./18115-amazing-maze.json) |
 | Amazing Maze | 217486 | [217486-amazing-maze.json](./217486-amazing-maze.json) |
 | Amazing Maze / Tic-Tac-Toe | 169264 | [169264-amazing-maze-tic-tac-toe.json](./169264-amazing-maze-tic-tac-toe.json) |
