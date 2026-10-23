@@ -2341,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Network Nodes | 344949 | [344949-network-nodes.json](./344949-network-nodes.json) |
 | Network Notation | 391341 | [391341-network-notation.json](./391341-network-notation.json) |
 | Network Q RAC Rally | 261884 | [261884-network-q-rac-rally.json](./261884-network-q-rac-rally.json) |
+| Network Q RAC Rally Championship | 50310 | [50310-network-q-rac-rally-championship.json](./50310-network-q-rac-rally-championship.json) |
 | Networking Event Simulator | 177799 | [177799-networking-event-simulator.json](./177799-networking-event-simulator.json) |
 | Networm | 34333 | [34333-networm.json](./34333-networm.json) |
 | Neues | 387131 | [387131-neues.json](./387131-neues.json) |
@@ -2950,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nezha Crossing the Sea | 311592 | [311592-nezha-crossing-the-sea.json](./311592-nezha-crossing-the-sea.json) |
 | Nezha Legend | 334308 | [334308-nezha-legend.json](./334308-nezha-legend.json) |
 | Nezumi Man | 276480 | [276480-nezumi-man.json](./276480-nezumi-man.json) |
+| NFK: Santa's Gone Postal | 50342 | [50342-nfk-santas-gone-postal.json](./50342-nfk-santas-gone-postal.json) |
 | NFL '95 | 127140 | [127140-nfl-95.json](./127140-nfl-95.json) |
 | NFL 2 Minute Drill | 130949 | [130949-nfl-2-minute-drill.json](./130949-nfl-2-minute-drill.json) |
 | NFL 2010 | 21847 | [21847-nfl-2010.json](./21847-nfl-2010.json) |
