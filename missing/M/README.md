@@ -2117,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malin Kundang: an Indonesian Folklore | 330546 | [330546-malin-kundang-an-indonesian-folklore.json](./330546-malin-kundang-an-indonesian-folklore.json) |
 | Maline | 342141 | [342141-maline.json](./342141-maline.json) |
 | Maliya | 58721 | [58721-maliya.json](./58721-maliya.json) |
+| Malkari | 71326 | [71326-malkari.json](./71326-malkari.json) |
 | Malkin: The Cairn and the Crossroads | 285449 | [285449-malkin-the-cairn-and-the-crossroads.json](./285449-malkin-the-cairn-and-the-crossroads.json) |
 | Malkyrs: Arenas of Eternity | 74365 | [74365-malkyrs-arenas-of-eternity.json](./74365-malkyrs-arenas-of-eternity.json) |
 | Mall Control | 358898 | [358898-mall-control.json](./358898-mall-control.json) |
@@ -7298,6 +7299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenary Squad Auto Chess | 285366 | [285366-mercenary-squad-auto-chess.json](./285366-mercenary-squad-auto-chess.json) |
 | Mercenary Tactics | 310800 | [310800-mercenary-tactics.json](./310800-mercenary-tactics.json) |
 | Mercenary: The Second City | 15500 | [15500-mercenary-the-second-city.json](./15500-mercenary-the-second-city.json) |
+| Mercer Mayer's Little Critter and the Great Race | 71347 | [71347-mercer-mayers-little-critter-and-the-great-race.json](./71347-mercer-mayers-little-critter-and-the-great-race.json) |
 | Mercforce: 30X1 | 120380 | [120380-mercforce-30x1.json](./120380-mercforce-30x1.json) |
 | Merch Tycoon | 102138 | [102138-merch-tycoon.json](./102138-merch-tycoon.json) |
 | Merchant | 139231 | [139231-merchant.json](./139231-merchant.json) |
@@ -9288,6 +9290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mille Bornes | 94925 | [94925-mille-bornes.json](./94925-mille-bornes.json) |
 | Millefiori | 150155 | [150155-millefiori.json](./150155-millefiori.json) |
 | Millenium: Return To Earth | 12922 | [12922-millenium-return-to-earth.json](./12922-millenium-return-to-earth.json) |
+| Millennia: Altered Destinies | 71374 | [71374-millennia-altered-destinies.json](./71374-millennia-altered-destinies.json) |
 | Millennia: Eagle Archers & Wolfpack Warband | 294010 | [294010-millennia-eagle-archers-and-wolfpack-warband.json](./294010-millennia-eagle-archers-and-wolfpack-warband.json) |
 | Millennial Simulator | 247618 | [247618-millennial-simulator.json](./247618-millennial-simulator.json) |
 | Millennials | 302183 | [302183-millennials.json](./302183-millennials.json) |
@@ -13722,6 +13725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morto: Chapter 2 | 284497 | [284497-morto-chapter-2.json](./284497-morto-chapter-2.json) |
 | Mortol II | 318738 | [318738-mortol-ii.json](./318738-mortol-ii.json) |
 | Morton Subotnick's Hearing Music | 70078 | [70078-morton-subotnicks-hearing-music.json](./70078-morton-subotnicks-hearing-music.json) |
+| Morton Subotnick's Playing Music | 71340 | [71340-morton-subotnicks-playing-music.json](./71340-morton-subotnicks-playing-music.json) |
 | Morton's Fork | 56128 | [56128-mortons-fork.json](./56128-mortons-fork.json) |
 | Mortos | 35048 | [35048-mortos.json](./35048-mortos.json) |
 | MorTown | 383528 | [383528-mortown.json](./383528-mortown.json) |
