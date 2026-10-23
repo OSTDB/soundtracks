@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IAssociate | 254453 | [254453-iassociate.json](./254453-iassociate.json) |
 | IAssociate 2 | 254457 | [254457-iassociate-2.json](./254457-iassociate-2.json) |
 | Ibara | 44623 | [44623-ibara.json](./44623-ibara.json) |
+| Ibara Kuro: Black Label | 91793 | [91793-ibara-kuro-black-label.json](./91793-ibara-kuro-black-label.json) |
 | Ibasket Manager 3: Online Basketball Manager | 340500 | [340500-ibasket-manager-3-online-basketball-manager.json](./340500-ibasket-manager-3-online-basketball-manager.json) |
 | Ibatic | 187188 | [187188-ibatic.json](./187188-ibatic.json) |
 | Iberia | 298787 | [298787-iberia.json](./298787-iberia.json) |
@@ -2458,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incarna: Broken | 118143 | [118143-incarna-broken.json](./118143-incarna-broken.json) |
 | Incarnage | 210120 | [210120-incarnage.json](./210120-incarnage.json) |
 | Incarnata: Dormant Stories | 173189 | [173189-incarnata-dormant-stories.json](./173189-incarnata-dormant-stories.json) |
+| Incarnate | 91826 | [91826-incarnate.json](./91826-incarnate.json) |
 | Incarnatia | 172080 | [172080-incarnatia.json](./172080-incarnatia.json) |
 | Incarnation | 276263 | [276263-incarnation.json](./276263-incarnation.json) |
 | Incarnation: Flame | 174823 | [174823-incarnation-flame.json](./174823-incarnation-flame.json) |
@@ -3930,12 +3932,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Match Day | 397918 | [397918-international-match-day.json](./397918-international-match-day.json) |
 | International Ninja Rabbits | 40916 | [40916-international-ninja-rabbits.json](./40916-international-ninja-rabbits.json) |
 | International Obsession | 415196 | [415196-international-obsession.json](./415196-international-obsession.json) |
+| International Pool | 91699 | [91699-international-pool.json](./91699-international-pool.json) |
 | International Pool Championship | 92472 | [92472-international-pool-championship.json](./92472-international-pool-championship.json) |
 | International Racing Squirrels | 63366 | [63366-international-racing-squirrels.json](./63366-international-racing-squirrels.json) |
 | International Rally | 49908 | [49908-international-rally.json](./49908-international-rally.json) |
 | International Rally Championship | 50210 | [50210-international-rally-championship.json](./50210-international-rally-championship.json) |
 | International Rugby Challenge | 73281 | [73281-international-rugby-challenge.json](./73281-international-rugby-challenge.json) |
 | International Sensible Soccer | 40808 | [40808-international-sensible-soccer.json](./40808-international-sensible-soccer.json) |
+| International Snooker 2009 | 91698 | [91698-international-snooker-2009.json](./91698-international-snooker-2009.json) |
 | International Snooker 2014 | 175588 | [175588-international-snooker-2014.json](./175588-international-snooker-2014.json) |
 | International Snooker: Challenges | 175857 | [175857-international-snooker-challenges.json](./175857-international-snooker-challenges.json) |
 | International Soccer | 201305 | [201305-international-soccer.json](./201305-international-soccer.json) |
@@ -4494,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iQuest Math: Grades 6-8 | 318742 | [318742-iquest-math-grades-6-8.json](./318742-iquest-math-grades-6-8.json) |
 | iQuest Science: Grade 5 | 318743 | [318743-iquest-science-grade-5.json](./318743-iquest-science-grade-5.json) |
 | iQuest Science: Grades 6-8 | 318745 | [318745-iquest-science-grades-6-8.json](./318745-iquest-science-grades-6-8.json) |
+| iQuiz | 91697 | [91697-iquiz.json](./91697-iquiz.json) |
 | Ir/rational Investigator | 110316 | [110316-ir-rational-investigator.json](./110316-ir-rational-investigator.json) |
 | Ir/rational Redux | 63377 | [63377-ir-rational-redux.json](./63377-ir-rational-redux.json) |
 | Ira | 166044 | [166044-ira.json](./166044-ira.json) |
