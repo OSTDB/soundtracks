@@ -3338,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is 2014? | 384077 | [384077-where-is-2014.json](./384077-where-is-2014.json) |
 | Where is 2016? | 384116 | [384116-where-is-2016.json](./384116-where-is-2016.json) |
 | Where is 2017? | 384256 | [384256-where-is-2017.json](./384256-where-is-2017.json) |
+| Where is 2018? | 83340 | [83340-where-is-2018.json](./83340-where-is-2018.json) |
 | Where is 2019? | 384257 | [384257-where-is-2019.json](./384257-where-is-2019.json) |
 | Where is 2020? | 384731 | [384731-where-is-2020.json](./384731-where-is-2020.json) |
 | Where is 2021? | 384736 | [384736-where-is-2021.json](./384736-where-is-2021.json) |
