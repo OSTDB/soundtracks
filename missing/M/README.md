@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madame Claudine's Curious Curiousities | 394467 | [394467-madame-claudines-curious-curiousities.json](./394467-madame-claudines-curious-curiousities.json) |
 | Madara Saga: Youchien Senki Madara | 57072 | [57072-madara-saga-youchien-senki-madara.json](./57072-madara-saga-youchien-senki-madara.json) |
 | Madball | 198484 | [198484-madball.json](./198484-madball.json) |
+| Madballs | 91696 | [91696-madballs.json](./91696-madballs.json) |
 | Madballs Arcade | 98925 | [98925-madballs-arcade.json](./98925-madballs-arcade.json) |
 | MadBreak | 314733 | [314733-madbreak.json](./314733-madbreak.json) |
 | Madcap Castle | 74288 | [74288-madcap-castle.json](./74288-madcap-castle.json) |
@@ -1381,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Monopole Mayhem | 181137 | [181137-magnetic-monopole-mayhem.json](./181137-magnetic-monopole-mayhem.json) |
 | Magnetic Projectiles | 211668 | [211668-magnetic-projectiles.json](./211668-magnetic-projectiles.json) |
 | Magnetic Pull | 118324 | [118324-magnetic-pull.json](./118324-magnetic-pull.json) |
+| Magnetic Wars | 91791 | [91791-magnetic-wars.json](./91791-magnetic-wars.json) |
 | Magnetic: Cage Closed | 20888 | [20888-magnetic-cage-closed.json](./20888-magnetic-cage-closed.json) |
 | Magnetica | 20526 | [20526-magnetica.json](./20526-magnetica.json) |
 | Magnetica Twist | 21826 | [21826-magnetica-twist.json](./21826-magnetica-twist.json) |
@@ -2553,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maple and Aluna | 369124 | [369124-maple-and-aluna.json](./369124-maple-and-aluna.json) |
 | Maple Blade | 420013 | [420013-maple-blade.json](./420013-maple-blade.json) |
 | Maple Colors | 322259 | [322259-maple-colors.json](./322259-maple-colors.json) |
+| Maple Colors H | 91694 | [91694-maple-colors-h.json](./91694-maple-colors-h.json) |
 | Maple County | 182346 | [182346-maple-county.json](./182346-maple-county.json) |
 | Maple Forest | 318604 | [318604-maple-forest.json](./318604-maple-forest.json) |
 | Maple Tale | 319374 | [319374-maple-tale.json](./319374-maple-tale.json) |
@@ -4329,6 +4332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchpoint: Tennis Championships - Legends Edition | 199628 | [199628-matchpoint-tennis-championships-legends-edition.json](./199628-matchpoint-tennis-championships-legends-edition.json) |
 | Matchpoop | 265122 | [265122-matchpoop.json](./265122-matchpoop.json) |
 | MatchR: Now Hiring | 217247 | [217247-matchr-now-hiring.json](./217247-matchr-now-hiring.json) |
+| Matchstick | 91700 | [91700-matchstick.json](./91700-matchstick.json) |
 | Matchstick Elegy | 145919 | [145919-matchstick-elegy.json](./145919-matchstick-elegy.json) |
 | Matchstick: Cosmic Flame | 333554 | [333554-matchstick-cosmic-flame.json](./333554-matchstick-cosmic-flame.json) |
 | Matchsticks | 252146 | [252146-matchsticks.json](./252146-matchsticks.json) |
@@ -5343,6 +5347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechCommander | 19193 | [19193-mechcommander.json](./19193-mechcommander.json) |
 | MechCommander 2 | 19194 | [19194-mechcommander-2.json](./19194-mechcommander-2.json) |
 | MechCommander Gold | 79767 | [79767-mechcommander-gold.json](./79767-mechcommander-gold.json) |
+| MechCommander: Desperate Measures | 91803 | [91803-mechcommander-desperate-measures.json](./91803-mechcommander-desperate-measures.json) |
 | MechCorp | 102886 | [102886-mechcorp.json](./102886-mechcorp.json) |
 | MechCrisis | 243562 | [243562-mechcrisis.json](./243562-mechcrisis.json) |
 | MechCube: Dark Stories | 174283 | [174283-mechcube-dark-stories.json](./174283-mechcube-dark-stories.json) |
@@ -9146,6 +9151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milfy City | 239289 | [239289-milfy-city.json](./239289-milfy-city.json) |
 | Milfy City: Final Edition | 265575 | [265575-milfy-city-final-edition.json](./265575-milfy-city-final-edition.json) |
 | Milgram | 89213 | [89213-milgram.json](./89213-milgram.json) |
+| Milinda Wind - Geheimnis des Zephyros | 91810 | [91810-milinda-wind-geheimnis-des-zephyros.json](./91810-milinda-wind-geheimnis-des-zephyros.json) |
 | Milinda Wind - Geheimnis des Zephyros | 92283 | [92283-milinda-wind-geheimnis-des-zephyros.json](./92283-milinda-wind-geheimnis-des-zephyros.json) |
 | MilioNESy | 195511 | [195511-milionesy.json](./195511-milionesy.json) |
 | Milita Aventuro | 218711 | [218711-milita-aventuro.json](./218711-milita-aventuro.json) |
@@ -10387,6 +10393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minotaur Rescue | 94757 | [94757-minotaur-rescue.json](./94757-minotaur-rescue.json) |
 | Minotaur: The Labyrinths of Crete | 38779 | [38779-minotaur-the-labyrinths-of-crete.json](./38779-minotaur-the-labyrinths-of-crete.json) |
 | Minotauros | 296257 | [296257-minotauros.json](./296257-minotauros.json) |
+| Minotron: 2112 | 91790 | [91790-minotron-2112.json](./91790-minotron-2112.json) |
 | MinQ | 322348 | [322348-minq.json](./322348-minq.json) |
 | Minschima | 215598 | [215598-minschima.json](./215598-minschima.json) |
 | Minsho | 294805 | [294805-minsho.json](./294805-minsho.json) |
@@ -11345,6 +11352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Tomodachi | 143671 | [143671-mobile-tomodachi.json](./143671-mobile-tomodachi.json) |
 | Mobile Train Simulator | 72899 | [72899-mobile-train-simulator.json](./72899-mobile-train-simulator.json) |
 | Mobile Train Simulator + Densha de Go!: Tokyo Kyuukou-hen | 146602 | [146602-mobile-train-simulator-densha-de-go-tokyo-kyuukou-hen.json](./146602-mobile-train-simulator-densha-de-go-tokyo-kyuukou-hen.json) |
+| Mobile Train Simulator: Keisei Toei Asakusa Keikyu-sen | 91801 | [91801-mobile-train-simulator-keisei-toei-asakusa-keikyu-sen.json](./91801-mobile-train-simulator-keisei-toei-asakusa-keikyu-sen.json) |
 | Mobile Wars X | 113875 | [113875-mobile-wars-x.json](./113875-mobile-wars-x.json) |
 | Mobile Wars X: Ultimate Simulation Battle | 252197 | [252197-mobile-wars-x-ultimate-simulation-battle.json](./252197-mobile-wars-x-ultimate-simulation-battle.json) |
 | Mobiles Tycoon | 304584 | [304584-mobiles-tycoon.json](./304584-mobiles-tycoon.json) |
