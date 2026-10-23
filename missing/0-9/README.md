@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16 Shot! Shooting Watch | 84687 | [84687-16-shot-shooting-watch.json](./84687-16-shot-shooting-watch.json) |
 | 16 Shot! Shooting Watch | 85823 | [85823-16-shot-shooting-watch.json](./85823-16-shot-shooting-watch.json) |
 | 16 Tiles Mahjong | 46523 | [46523-16-tiles-mahjong.json](./46523-16-tiles-mahjong.json) |
+| 16 Ways to Kill a Vampire at McDonalds | 57524 | [57524-16-ways-to-kill-a-vampire-at-mcdonalds.json](./57524-16-ways-to-kill-a-vampire-at-mcdonalds.json) |
 | 16-Bit Xmas 2011 | 134472 | [134472-16-bit-xmas-2011.json](./134472-16-bit-xmas-2011.json) |
 | 16: The Ultimate 15 Puzzle | 357974 | [357974-16-the-ultimate-15-puzzle.json](./357974-16-the-ultimate-15-puzzle.json) |
 | 1630: The Thirty Years' War | 244700 | [244700-1630-the-thirty-years-war.json](./244700-1630-the-thirty-years-war.json) |
@@ -1370,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 for Playdate | 341927 | [341927-2048-for-playdate.json](./341927-2048-for-playdate.json) |
 | 2048 Fusion | 308226 | [308226-2048-fusion.json](./308226-2048-fusion.json) |
 | 2048 Game With New Levels | 262361 | [262361-2048-game-with-new-levels.json](./262361-2048-game-with-new-levels.json) |
+| 2048 Knight | 57437 | [57437-2048-knight.json](./57437-2048-knight.json) |
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
 | 2048 Numbers Mania | 233515 | [233515-2048-numbers-mania.json](./233515-2048-numbers-mania.json) |
 | 2048 Plus | 113347 | [113347-2048-plus.json](./113347-2048-plus.json) |
@@ -1408,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 21 | 110876 | [110876-21.json](./110876-21.json) |
 | 21 Blitz | 125939 | [125939-21-blitz.json](./125939-21-blitz.json) |
 | 21 Card Games | 68253 | [68253-21-card-games.json](./68253-21-card-games.json) |
+| 21 Emon: Mezase! Hotel-Ou | 57442 | [57442-21-emon-mezase-hotel-ou.json](./57442-21-emon-mezase-hotel-ou.json) |
 | 21 Gewinnt | 98932 | [98932-21-gewinnt.json](./98932-21-gewinnt.json) |
 | 21 Steps to Soul | 27115 | [27115-21-steps-to-soul.json](./27115-21-steps-to-soul.json) |
 | 21-en | 85744 | [85744-21-en.json](./85744-21-en.json) |
@@ -2283,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50 Waves Hero | 164981 | [164981-50-waves-hero.json](./164981-50-waves-hero.json) |
 | 50 Years | 31641 | [31641-50-years.json](./31641-50-years.json) |
 | 50 Years Classic | 377391 | [377391-50-years-classic.json](./377391-50-years-classic.json) |
+| 500 Apocalypses | 57523 | [57523-500-apocalypses.json](./57523-500-apocalypses.json) |
 | 500 c.c MotoManager | 14196 | [14196-500-c-c-motomanager.json](./14196-500-c-c-motomanager.json) |
 | 500 Caliber Contractz | 268103 | [268103-500-caliber-contractz.json](./268103-500-caliber-contractz.json) |
 | 500 Finger Fillet | 412311 | [412311-500-finger-fillet.json](./412311-500-finger-fillet.json) |
