@@ -3916,6 +3916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Zombie Drive | 301803 | [301803-cazzarion-zombie-drive.json](./301803-cazzarion-zombie-drive.json) |
 | CB Chara Wars: Ushinawareta Gag | 38154 | [38154-cb-chara-wars-ushinawareta-gag.json](./38154-cb-chara-wars-ushinawareta-gag.json) |
 | CBeebies Playtime Island: Game | 321783 | [321783-cbeebies-playtime-island-game.json](./321783-cbeebies-playtime-island-game.json) |
+| CBM Draw Poker | 58566 | [58566-cbm-draw-poker.json](./58566-cbm-draw-poker.json) |
 | Cbs: The Beginning | 392194 | [392194-cbs-the-beginning.json](./392194-cbs-the-beginning.json) |
 | CBT With Yuuka Kazami: Getting Help With Patchouli Knowledge | 182247 | [182247-cbt-with-yuuka-kazami-getting-help-with-patchouli-knowledge.json](./182247-cbt-with-yuuka-kazami-getting-help-with-patchouli-knowledge.json) |
 | CC & SH Smash Hits | 74303 | [74303-cc-and-sh-smash-hits.json](./74303-cc-and-sh-smash-hits.json) |
@@ -5790,6 +5791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimera | 380063 | [380063-chimera.json](./380063-chimera.json) |
 | Chimera Crusader: Defender of Dominicus | 134912 | [134912-chimera-crusader-defender-of-dominicus.json](./134912-chimera-crusader-defender-of-dominicus.json) |
 | Chimera Custom XG | 253994 | [253994-chimera-custom-xg.json](./253994-chimera-custom-xg.json) |
+| Chimera Genesis | 58532 | [58532-chimera-genesis.json](./58532-chimera-genesis.json) |
 | Chimera Island | 254696 | [254696-chimera-island.json](./254696-chimera-island.json) |
 | Chimera of Tactics 1 | 93593 | [93593-chimera-of-tactics-1.json](./93593-chimera-of-tactics-1.json) |
 | Chimera of Tactics 2 | 101395 | [101395-chimera-of-tactics-2.json](./101395-chimera-of-tactics-2.json) |
@@ -13012,6 +13014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Appliances | 86392 | [86392-crazy-appliances.json](./86392-crazy-appliances.json) |
 | Crazy Arcade | 6361 | [6361-crazy-arcade.json](./6361-crazy-arcade.json) |
 | Crazy Archery | 113696 | [113696-crazy-archery.json](./113696-crazy-archery.json) |
+| Crazy Ball | 58545 | [58545-crazy-ball.json](./58545-crazy-ball.json) |
 | Crazy Ball Adventures: Treasure | 155371 | [155371-crazy-ball-adventures-treasure.json](./155371-crazy-ball-adventures-treasure.json) |
 | Crazy Balloon | 69592 | [69592-crazy-balloon.json](./69592-crazy-balloon.json) |
 | Crazy Balloon Pop | 108927 | [108927-crazy-balloon-pop.json](./108927-crazy-balloon-pop.json) |
