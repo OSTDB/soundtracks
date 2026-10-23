@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leisure Town | 108424 | [108424-leisure-town.json](./108424-leisure-town.json) |
 | Leisure Yacht | 238580 | [238580-leisure-yacht.json](./238580-leisure-yacht.json) |
 | Leisurely Brick | 267656 | [267656-leisurely-brick.json](./267656-leisurely-brick.json) |
+| Leithian: In the Abyss | 63082 | [63082-leithian-in-the-abyss.json](./63082-leithian-in-the-abyss.json) |
 | Leitstellensimulator | 145257 | [145257-leitstellensimulator.json](./145257-leitstellensimulator.json) |
 | Lek gjemsel med Mummitrollet | 404209 | [404209-lek-gjemsel-med-mummitrollet.json](./404209-lek-gjemsel-med-mummitrollet.json) |
 | Lekano World Online | 330856 | [330856-lekano-world-online.json](./330856-lekano-world-online.json) |
