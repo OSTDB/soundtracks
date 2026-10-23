@@ -7518,6 +7518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grind Hero | 361630 | [361630-grind-hero.json](./361630-grind-hero.json) |
 | Grind Hockey | 269330 | [269330-grind-hockey.json](./269330-grind-hockey.json) |
 | Grind Mindset | 368578 | [368578-grind-mindset.json](./368578-grind-mindset.json) |
+| Grind Session | 45018 | [45018-grind-session.json](./45018-grind-session.json) |
 | Grind Stormer | 293645 | [293645-grind-stormer.json](./293645-grind-stormer.json) |
 | Grind TD | 389987 | [389987-grind-td.json](./389987-grind-td.json) |
 | Grind X Grind | 400552 | [400552-grind-x-grind.json](./400552-grind-x-grind.json) |
