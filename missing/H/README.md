@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halfway | 377170 | [377170-halfway.json](./377170-halfway.json) |
 | Halfway | 8800 | [8800-halfway.json](./8800-halfway.json) |
 | Halfway to Dawn | 249362 | [249362-halfway-to-dawn.json](./249362-halfway-to-dawn.json) |
+| Halite AI | 77817 | [77817-halite-ai.json](./77817-halite-ai.json) |
 | Hall of the Art Thieves | 122271 | [122271-hall-of-the-art-thieves.json](./122271-hall-of-the-art-thieves.json) |
 | Hall of the Dwarf King | 339375 | [339375-hall-of-the-dwarf-king.json](./339375-hall-of-the-dwarf-king.json) |
 | Hall of the Epiphany | 276378 | [276378-hall-of-the-epiphany.json](./276378-hall-of-the-epiphany.json) |
@@ -6680,6 +6681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitstun | 242446 | [242446-hitstun.json](./242446-hitstun.json) |
 | Hitsuji no Hakobune | 408308 | [408308-hitsuji-no-hakobune.json](./408308-hitsuji-no-hakobune.json) |
 | Hitsuji Shitsuji | 207041 | [207041-hitsuji-shitsuji.json](./207041-hitsuji-shitsuji.json) |
+| Hittin Switchez | 77801 | [77801-hittin-switchez.json](./77801-hittin-switchez.json) |
 | Hitting | 287525 | [287525-hitting.json](./287525-hitting.json) |
 | Hitting Mices | 212730 | [212730-hitting-mices.json](./212730-hitting-mices.json) |
 | HitTube | 323426 | [323426-hittube.json](./323426-hittube.json) |
@@ -9014,6 +9016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle South Beach Solitaire | 210051 | [210051-hoyle-south-beach-solitaire.json](./210051-hoyle-south-beach-solitaire.json) |
 | Hoyle Table Games 2004 | 70940 | [70940-hoyle-table-games-2004.json](./70940-hoyle-table-games-2004.json) |
 | Hoyle Word Games | 98884 | [98884-hoyle-word-games.json](./98884-hoyle-word-games.json) |
+| Hoyle's Backgammon & Cribbage | 77795 | [77795-hoyles-backgammon-and-cribbage.json](./77795-hoyles-backgammon-and-cribbage.json) |
 | Hoyo | 301074 | [301074-hoyo.json](./301074-hoyo.json) |
 | Hozy | 345443 | [345443-hozy.json](./345443-hozy.json) |
 | HPL: Nyarlathotep Rising | 258223 | [258223-hpl-nyarlathotep-rising.json](./258223-hpl-nyarlathotep-rising.json) |
@@ -9076,6 +9079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hudson Best Collection Vol. 2: Lode Runner Collection | 49495 | [49495-hudson-best-collection-vol-2-lode-runner-collection.json](./49495-hudson-best-collection-vol-2-lode-runner-collection.json) |
 | Hudson Hawk | 18836 | [18836-hudson-hawk.json](./18836-hudson-hawk.json) |
 | Hudson Hawk | 365689 | [365689-hudson-hawk.json](./365689-hudson-hawk.json) |
+| Hudson Selection Vol. 1: Cubic Lode Runner | 77828 | [77828-hudson-selection-vol-1-cubic-lode-runner.json](./77828-hudson-selection-vol-1-cubic-lode-runner.json) |
 | Hudson Selection Vol. 2: Star Soldier | 43207 | [43207-hudson-selection-vol-2-star-soldier.json](./43207-hudson-selection-vol-2-star-soldier.json) |
 | Hudson Selection Vol. 3: PC Genjin - Pithecanthropus Computerurus | 50580 | [50580-hudson-selection-vol-3-pc-genjin-pithecanthropus-computerurus.json](./50580-hudson-selection-vol-3-pc-genjin-pithecanthropus-computerurus.json) |
 | Hudson Selection Vol. 4: Takahashi Meijin no Bouken-jima | 50574 | [50574-hudson-selection-vol-4-takahashi-meijin-no-bouken-jima.json](./50574-hudson-selection-vol-4-takahashi-meijin-no-bouken-jima.json) |
