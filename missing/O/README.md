@@ -2258,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OnePiece Puzzles | 118887 | [118887-onepiece-puzzles.json](./118887-onepiece-puzzles.json) |
 | Ones and Zeroes | 104813 | [104813-ones-and-zeroes.json](./104813-ones-and-zeroes.json) |
 | Ones! | 232385 | [232385-ones.json](./232385-ones.json) |
+| OneSamurai: Dusk | 58096 | [58096-onesamurai-dusk.json](./58096-onesamurai-dusk.json) |
 | onEscapee | 93044 | [93044-onescapee.json](./93044-onescapee.json) |
 | OneScreen Solar Sails | 37399 | [37399-onescreen-solar-sails.json](./37399-onescreen-solar-sails.json) |
 | OneScreen Wagons | 74475 | [74475-onescreen-wagons.json](./74475-onescreen-wagons.json) |
