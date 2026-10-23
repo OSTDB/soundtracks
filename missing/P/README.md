@@ -4325,6 +4325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phazika | 398520 | [398520-phazika.json](./398520-phazika.json) |
 | Pheasants Forever | 23393 | [23393-pheasants-forever.json](./23393-pheasants-forever.json) |
 | Pheasants Forever: Wingshooter | 51112 | [51112-pheasants-forever-wingshooter.json](./51112-pheasants-forever-wingshooter.json) |
+| Pheenix | 93432 | [93432-pheenix.json](./93432-pheenix.json) |
 | Phelios | 19510 | [19510-phelios.json](./19510-phelios.json) |
 | Phelios | 199420 | [199420-phelios.json](./199420-phelios.json) |
 | Phenocore | 194308 | [194308-phenocore.json](./194308-phenocore.json) |
@@ -6114,6 +6115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit & Run | 40402 | [40402-pit-and-run.json](./40402-pit-and-run.json) |
 | Pit Blocks 3D | 108282 | [108282-pit-blocks-3d.json](./108282-pit-blocks-3d.json) |
 | Pit Crew Panic! | 70650 | [70650-pit-crew-panic.json](./70650-pit-crew-panic.json) |
+| Pit Fiend | 93403 | [93403-pit-fiend.json](./93403-pit-fiend.json) |
 | Pit Fighter Tycoon | 216683 | [216683-pit-fighter-tycoon.json](./216683-pit-fighter-tycoon.json) |
 | Pit of 100 Wonders | 394348 | [394348-pit-of-100-wonders.json](./394348-pit-of-100-wonders.json) |
 | Pit of Ascension | 155986 | [155986-pit-of-ascension.json](./155986-pit-of-ascension.json) |
