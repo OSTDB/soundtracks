@@ -2782,6 +2782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | USA Nature's Trails Jigsaw Edition: Expansion Pack 3 | 357961 | [357961-usa-natures-trails-jigsaw-edition-expansion-pack-3.json](./357961-usa-natures-trails-jigsaw-edition-expansion-pack-3.json) |
 | USA Nature's Trails Jigsaw Edition: Expansion Pack 4 | 357962 | [357962-usa-natures-trails-jigsaw-edition-expansion-pack-4.json](./357962-usa-natures-trails-jigsaw-edition-expansion-pack-4.json) |
 | USA Racer | 62146 | [62146-usa-racer.json](./62146-usa-racer.json) |
+| USA Today Crossword Challenge | 92335 | [92335-usa-today-crossword-challenge.json](./92335-usa-today-crossword-challenge.json) |
 | USA Today: Puzzle Craze | 206213 | [206213-usa-today-puzzle-craze.json](./206213-usa-today-puzzle-craze.json) |
 | Usa-Jong: Haja-ou no Fukkatsu | 410409 | [410409-usa-jong-haja-ou-no-fukkatsu.json](./410409-usa-jong-haja-ou-no-fukkatsu.json) |
 | USAC: Code Breach | 211445 | [211445-usac-code-breach.json](./211445-usac-code-breach.json) |
