@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Spy Challenger! | 49294 | [49294-i-spy-challenger.json](./49294-i-spy-challenger.json) |
 | I Spy Fantasy | 73162 | [73162-i-spy-fantasy.json](./73162-i-spy-fantasy.json) |
 | I Spy Fun House | 252149 | [252149-i-spy-fun-house.json](./252149-i-spy-fun-house.json) |
+| I Spy Game Pack | 62509 | [62509-i-spy-game-pack.json](./62509-i-spy-game-pack.json) |
 | I Spy Junior: Puppet Playhouse | 65181 | [65181-i-spy-junior-puppet-playhouse.json](./65181-i-spy-junior-puppet-playhouse.json) |
 | I Spy Mystery | 69891 | [69891-i-spy-mystery.json](./69891-i-spy-mystery.json) |
 | I Spy School Days | 247469 | [247469-i-spy-school-days.json](./247469-i-spy-school-days.json) |
@@ -1620,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikasama Mahjong | 346150 | [346150-ikasama-mahjong.json](./346150-ikasama-mahjong.json) |
 | Ikasumi Potion | 308923 | [308923-ikasumi-potion.json](./308923-ikasumi-potion.json) |
 | Ikatan: Ikamono Tantei | 72774 | [72774-ikatan-ikamono-tantei.json](./72774-ikatan-ikamono-tantei.json) |
+| Ikazuse! Koi no Doki Doki Penguin Land MD | 62488 | [62488-ikazuse-koi-no-doki-doki-penguin-land-md.json](./62488-ikazuse-koi-no-doki-doki-penguin-land-md.json) |
 | Ike Ike Dendai Bus | 251072 | [251072-ike-ike-dendai-bus.json](./251072-ike-ike-dendai-bus.json) |
 | IKEA VR Experience | 33400 | [33400-ikea-vr-experience.json](./33400-ikea-vr-experience.json) |
 | Ikebana | 352962 | [352962-ikebana.json](./352962-ikebana.json) |
@@ -1765,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion Pathology | 347729 | [347729-illusion-pathology.json](./347729-illusion-pathology.json) |
 | Illusion Squares | 255170 | [255170-illusion-squares.json](./255170-illusion-squares.json) |
 | Illusion Tales | 215828 | [215828-illusion-tales.json](./215828-illusion-tales.json) |
+| Illusion: Ghost Killer | 62513 | [62513-illusion-ghost-killer.json](./62513-illusion-ghost-killer.json) |
 | Illusion: Trust Test | 196145 | [196145-illusion-trust-test.json](./196145-illusion-trust-test.json) |
 | Illusions | 40893 | [40893-illusions.json](./40893-illusions.json) |
 | Illusions 360 | 67971 | [67971-illusions-360.json](./67971-illusions-360.json) |
@@ -1824,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagine Earth: Galaxies | 365584 | [365584-imagine-earth-galaxies.json](./365584-imagine-earth-galaxies.json) |
 | Imagine Island | 341607 | [341607-imagine-island.json](./341607-imagine-island.json) |
 | Imagine Lifetimes | 128937 | [128937-imagine-lifetimes.json](./128937-imagine-lifetimes.json) |
+| Imagine Nations | 62521 | [62521-imagine-nations.json](./62521-imagine-nations.json) |
 | Imagine Sisyphus Happy | 366716 | [366716-imagine-sisyphus-happy.json](./366716-imagine-sisyphus-happy.json) |
 | Imagine We Were Human | 419839 | [419839-imagine-we-were-human.json](./419839-imagine-we-were-human.json) |
 | Imagine: Animal Doctor Care Center | 7948 | [7948-imagine-animal-doctor-care-center.json](./7948-imagine-animal-doctor-care-center.json) |
@@ -4548,6 +4552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irehon | 188413 | [188413-irehon.json](./188413-irehon.json) |
 | Irem Arcade 1 | 214546 | [214546-irem-arcade-1.json](./214546-irem-arcade-1.json) |
 | Irem Arcade Classics | 92368 | [92368-irem-arcade-classics.json](./92368-irem-arcade-classics.json) |
+| Irem Arcade Hits | 62514 | [62514-irem-arcade-hits.json](./62514-irem-arcade-hits.json) |
 | Irem Collection: Volume 2 | 321846 | [321846-irem-collection-volume-2.json](./321846-irem-collection-volume-2.json) |
 | Irem Collection: Volume 3 | 342246 | [342246-irem-collection-volume-3.json](./342246-irem-collection-volume-3.json) |
 | Irena: Genesis Metal Fury | 142750 | [142750-irena-genesis-metal-fury.json](./142750-irena-genesis-metal-fury.json) |
