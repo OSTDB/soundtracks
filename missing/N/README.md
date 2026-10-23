@@ -5169,6 +5169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonograms 2 | 383721 | [383721-nonograms-2.json](./383721-nonograms-2.json) |
 | Nonograms 22 | 188983 | [188983-nonograms-22.json](./188983-nonograms-22.json) |
 | Nonograms Pro | 400083 | [400083-nonograms-pro.json](./400083-nonograms-pro.json) |
+| Nonograms Prophecy | 81020 | [81020-nonograms-prophecy.json](./81020-nonograms-prophecy.json) |
 | Nonograms: Ammunition | 297730 | [297730-nonograms-ammunition.json](./297730-nonograms-ammunition.json) |
 | Nonograms: Engineering | 285710 | [285710-nonograms-engineering.json](./285710-nonograms-engineering.json) |
 | Nonograms: Fishing | 285706 | [285706-nonograms-fishing.json](./285706-nonograms-fishing.json) |
