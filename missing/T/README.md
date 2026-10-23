@@ -5809,6 +5809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clue Club: Animal Detectives | 207122 | [207122-the-clue-club-animal-detectives.json](./207122-the-clue-club-animal-detectives.json) |
 | The ClueFinders 4th Grade Adventures: Puzzle of the Pyramid | 73694 | [73694-the-cluefinders-4th-grade-adventures-puzzle-of-the-pyramid.json](./73694-the-cluefinders-4th-grade-adventures-puzzle-of-the-pyramid.json) |
 | The ClueFinders 6th Grade Adventures: The Empire of the Plant People | 142139 | [142139-the-cluefinders-6th-grade-adventures-the-empire-of-the-plant-people.json](./142139-the-cluefinders-6th-grade-adventures-the-empire-of-the-plant-people.json) |
+| The ClueFinders Reading Adventures | 91799 | [91799-the-cluefinders-reading-adventures.json](./91799-the-cluefinders-reading-adventures.json) |
 | The Clutch: Remastered | 186864 | [186864-the-clutch-remastered.json](./186864-the-clutch-remastered.json) |
 | The Coagula Contest | 271497 | [271497-the-coagula-contest.json](./271497-the-coagula-contest.json) |
 | The Coagulation | 360506 | [360506-the-coagulation.json](./360506-the-coagulation.json) |
@@ -10010,6 +10011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Mirror of Worlds | 412171 | [412171-the-legend-of-zelda-mirror-of-worlds.json](./412171-the-legend-of-zelda-mirror-of-worlds.json) |
 | The Legend of Zelda: Mystery of Solarus DX | 243615 | [243615-the-legend-of-zelda-mystery-of-solarus-dx.json](./243615-the-legend-of-zelda-mystery-of-solarus-dx.json) |
 | The Legend of Zelda: Mystery of Solarus XD | 46620 | [46620-the-legend-of-zelda-mystery-of-solarus-xd.json](./46620-the-legend-of-zelda-mystery-of-solarus-xd.json) |
+| The Legend of Zelda: Navi Trackers | 91680 | [91680-the-legend-of-zelda-navi-trackers.json](./91680-the-legend-of-zelda-navi-trackers.json) |
 | The Legend of Zelda: Navi’s Quest | 330579 | [330579-the-legend-of-zelda-navi-s-quest.json](./330579-the-legend-of-zelda-navi-s-quest.json) |
 | The Legend of Zelda: Netherforce Shards | 322785 | [322785-the-legend-of-zelda-netherforce-shards.json](./322785-the-legend-of-zelda-netherforce-shards.json) |
 | The Legend of Zelda: New Beginnings | 322102 | [322102-the-legend-of-zelda-new-beginnings.json](./322102-the-legend-of-zelda-new-beginnings.json) |
@@ -21167,6 +21169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touken Ranbu Warriors: Digital Deluxe Edition | 199857 | [199857-touken-ranbu-warriors-digital-deluxe-edition.json](./199857-touken-ranbu-warriors-digital-deluxe-edition.json) |
 | Touken Ranbu Warriors: Uchiban Outfit 16-piece Set | 224518 | [224518-touken-ranbu-warriors-uchiban-outfit-16-piece-set.json](./224518-touken-ranbu-warriors-uchiban-outfit-16-piece-set.json) |
 | Touken Ranbu: Online Pocket | 194031 | [194031-touken-ranbu-online-pocket.json](./194031-touken-ranbu-online-pocket.json) |
+| Touki Denshou Angel Eyes | 91788 | [91788-touki-denshou-angel-eyes.json](./91788-touki-denshou-angel-eyes.json) |
 | Touki Kyouka | 82490 | [82490-touki-kyouka.json](./82490-touki-kyouka.json) |
 | Toukiden 2: Limited Edition | 167086 | [167086-toukiden-2-limited-edition.json](./167086-toukiden-2-limited-edition.json) |
 | Toukiden 2: Mission Collection Set 1 | 167916 | [167916-toukiden-2-mission-collection-set-1.json](./167916-toukiden-2-mission-collection-set-1.json) |
@@ -22546,6 +22549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: China Clay for Export Route Add-On | 156375 | [156375-train-simulator-china-clay-for-export-route-add-on.json](./156375-train-simulator-china-clay-for-export-route-add-on.json) |
 | Train Simulator: China Railways CR400BF | 253450 | [253450-train-simulator-china-railways-cr400bf.json](./253450-train-simulator-china-railways-cr400bf.json) |
 | Train Simulator: China Railways HXD1 | 293690 | [293690-train-simulator-china-railways-hxd1.json](./293690-train-simulator-china-railways-hxd1.json) |
+| Train Simulator: Chuo-sen 201-kei | 91804 | [91804-train-simulator-chuo-sen-201-kei.json](./91804-train-simulator-chuo-sen-201-kei.json) |
 | Train Simulator: Clear Creek Narrow Gauge Route Add-On | 156410 | [156410-train-simulator-clear-creek-narrow-gauge-route-add-on.json](./156410-train-simulator-clear-creek-narrow-gauge-route-add-on.json) |
 | Train Simulator: Clinchfield Railroad: Elkhorn City - St. Paul Route Add-On | 156457 | [156457-train-simulator-clinchfield-railroad-elkhorn-city-st-paul-route-add-on.json](./156457-train-simulator-clinchfield-railroad-elkhorn-city-st-paul-route-add-on.json) |
 | Train Simulator: Cologne-Dusseldorf Route Add-On | 156476 | [156476-train-simulator-cologne-dusseldorf-route-add-on.json](./156476-train-simulator-cologne-dusseldorf-route-add-on.json) |
@@ -22554,6 +22558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: CSX Hanover Subdivision: Hanover - Hagerstown Route Add-On | 156449 | [156449-train-simulator-csx-hanover-subdivision-hanover-hagerstown-route-add-on.json](./156449-train-simulator-csx-hanover-subdivision-hanover-hagerstown-route-add-on.json) |
 | Train Simulator: CSX SD45-2 Loco | 191017 | [191017-train-simulator-csx-sd45-2-loco.json](./191017-train-simulator-csx-sd45-2-loco.json) |
 | Train Simulator: DB BR 187 Loco | 191014 | [191014-train-simulator-db-br-187-loco.json](./191014-train-simulator-db-br-187-loco.json) |
+| Train Simulator: Doitsu Tetsudou Rhine-gawa Sagan-sen | 91802 | [91802-train-simulator-doitsu-tetsudou-rhine-gawa-sagan-sen.json](./91802-train-simulator-doitsu-tetsudou-rhine-gawa-sagan-sen.json) |
 | Train Simulator: Doncaster Works Route Add-On | 156407 | [156407-train-simulator-doncaster-works-route-add-on.json](./156407-train-simulator-doncaster-works-route-add-on.json) |
 | Train Simulator: EA-692 | 306071 | [306071-train-simulator-ea-692.json](./306071-train-simulator-ea-692.json) |
 | Train Simulator: East Coast Main Line London-Peterborough Route Add-On | 90494 | [90494-train-simulator-east-coast-main-line-london-peterborough-route-add-on.json](./90494-train-simulator-east-coast-main-line-london-peterborough-route-add-on.json) |
@@ -22582,11 +22587,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Hamburg S1 S-Bahn Route Add-On | 156391 | [156391-train-simulator-hamburg-s1-s-bahn-route-add-on.json](./156391-train-simulator-hamburg-s1-s-bahn-route-add-on.json) |
 | Train Simulator: Hamburg-Hanover Route Add-On | 156465 | [156465-train-simulator-hamburg-hanover-route-add-on.json](./156465-train-simulator-hamburg-hanover-route-add-on.json) |
 | Train Simulator: Hamburg-Lübeck Railway Route Add-On | 156454 | [156454-train-simulator-hamburg-lubeck-railway-route-add-on.json](./156454-train-simulator-hamburg-lubeck-railway-route-add-on.json) |
+| Train Simulator: Hanshin Denki Tetsudou | 91805 | [91805-train-simulator-hanshin-denki-tetsudou.json](./91805-train-simulator-hanshin-denki-tetsudou.json) |
 | Train Simulator: Hidaka Main Line: Tomakomai - Hidaka-Mombetsu Route Add-On | 156368 | [156368-train-simulator-hidaka-main-line-tomakomai-hidaka-mombetsu-route-add-on.json](./156368-train-simulator-hidaka-main-line-tomakomai-hidaka-mombetsu-route-add-on.json) |
 | Train Simulator: Horseshoe Curve Route Add-On | 156341 | [156341-train-simulator-horseshoe-curve-route-add-on.json](./156341-train-simulator-horseshoe-curve-route-add-on.json) |
 | Train Simulator: Huddersfield Line - Manchester: Leeds Route | 220791 | [220791-train-simulator-huddersfield-line-manchester-leeds-route.json](./220791-train-simulator-huddersfield-line-manchester-leeds-route.json) |
 | Train Simulator: Im Köblitzer Bergland Route Add-On | 156395 | [156395-train-simulator-im-koblitzer-bergland-route-add-on.json](./156395-train-simulator-im-koblitzer-bergland-route-add-on.json) |
 | Train Simulator: Isle of Wight Route Add-On | 156483 | [156483-train-simulator-isle-of-wight-route-add-on.json](./156483-train-simulator-isle-of-wight-route-add-on.json) |
+| Train Simulator: JR Higashi-Nihon Yamanote-sen Uchi-mawari | 91809 | [91809-train-simulator-jr-higashi-nihon-yamanote-sen-uchi-mawari.json](./91809-train-simulator-jr-higashi-nihon-yamanote-sen-uchi-mawari.json) |
 | Train Simulator: Konstanz-Villingen Route Add-On | 156388 | [156388-train-simulator-konstanz-villingen-route-add-on.json](./156388-train-simulator-konstanz-villingen-route-add-on.json) |
 | Train Simulator: LGV: Marseille - Avignon Route Add-On | 156356 | [156356-train-simulator-lgv-marseille-avignon-route-add-on.json](./156356-train-simulator-lgv-marseille-avignon-route-add-on.json) |
 | Train Simulator: Liverpool-Manchester Route Add-On | 156442 | [156442-train-simulator-liverpool-manchester-route-add-on.json](./156442-train-simulator-liverpool-manchester-route-add-on.json) |
@@ -24028,6 +24035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Train | 239095 | [239095-treasure-train.json](./239095-treasure-train.json) |
 | Treasure Trap | 237270 | [237270-treasure-trap.json](./237270-treasure-trap.json) |
 | Treasure Trap | 70936 | [70936-treasure-trap.json](./70936-treasure-trap.json) |
+| Treasure Treasure: Fortress Forage | 91780 | [91780-treasure-treasure-fortress-forage.json](./91780-treasure-treasure-fortress-forage.json) |
 | Treasure Trove Through Time | 176282 | [176282-treasure-trove-through-time.json](./176282-treasure-trove-through-time.json) |
 | Treasure World | 21125 | [21125-treasure-world.json](./21125-treasure-world.json) |
 | TreasureHunter by R.Garfield | 175579 | [175579-treasurehunter-by-r-garfield.json](./175579-treasurehunter-by-r-garfield.json) |
@@ -25543,6 +25551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunebound | 418296 | [418296-tunebound.json](./418296-tunebound.json) |
 | Tuned Heart | 45971 | [45971-tuned-heart.json](./45971-tuned-heart.json) |
 | Tuned to Your Heart | 225562 | [225562-tuned-to-your-heart.json](./225562-tuned-to-your-heart.json) |
+| Tuneland | 91693 | [91693-tuneland.json](./91693-tuneland.json) |
 | Tuneria | 140025 | [140025-tuneria.json](./140025-tuneria.json) |
 | Tunescape | 81991 | [81991-tunescape.json](./81991-tunescape.json) |
 | Tunestrike | 374935 | [374935-tunestrike.json](./374935-tunestrike.json) |
