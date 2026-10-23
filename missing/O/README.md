@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ODouzy!!! | 326176 | [326176-odouzy.json](./326176-odouzy.json) |
 | Odoya | 294958 | [294958-odoya.json](./294958-odoya.json) |
 | Ody Mos | 201497 | [201497-ody-mos.json](./201497-ody-mos.json) |
+| Odyssee | 96469 | [96469-odyssee.json](./96469-odyssee.json) |
 | Odyssee Die | 356843 | [356843-odyssee-die.json](./356843-odyssee-die.json) |
 | Odyssée Numérique | 242946 | [242946-odyssee-numerique.json](./242946-odyssee-numerique.json) |
 | Odysseus | 178255 | [178255-odysseus.json](./178255-odysseus.json) |
