@@ -6526,6 +6526,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivalia Online | 383048 | [383048-rivalia-online.json](./383048-rivalia-online.json) |
 | Rivalia: Dungeon Raiders | 211670 | [211670-rivalia-dungeon-raiders.json](./211670-rivalia-dungeon-raiders.json) |
 | Rivalry | 33817 | [33817-rivalry.json](./33817-rivalry.json) |
+| Rivals at War | 59631 | [59631-rivals-at-war.json](./59631-rivals-at-war.json) |
+| Rivals at War: 2084 | 59630 | [59630-rivals-at-war-2084.json](./59630-rivals-at-war-2084.json) |
+| Rivals at War: Firefight | 59628 | [59628-rivals-at-war-firefight.json](./59628-rivals-at-war-firefight.json) |
 | Rivals Duel: Card Battler | 297203 | [297203-rivals-duel-card-battler.json](./297203-rivals-duel-card-battler.json) |
 | Rivals in the Skies | 363907 | [363907-rivals-in-the-skies.json](./363907-rivals-in-the-skies.json) |
 | Rivals of Aether | 21646 | [21646-rivals-of-aether.json](./21646-rivals-of-aether.json) |
