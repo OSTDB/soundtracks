@@ -9607,6 +9607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Play by Samplay | 202017 | [202017-ski-play-by-samplay.json](./202017-ski-play-by-samplay.json) |
 | Ski Race | 64365 | [64365-ski-race.json](./64365-ski-race.json) |
 | Ski Racing 2005 | 54362 | [54362-ski-racing-2005.json](./54362-ski-racing-2005.json) |
+| Ski Racing 2006 - Featuring Hermann Maier | 63086 | [63086-ski-racing-2006-featuring-hermann-maier.json](./63086-ski-racing-2006-featuring-hermann-maier.json) |
 | Ski Region Simulator | 36429 | [36429-ski-region-simulator.json](./36429-ski-region-simulator.json) |
 | Ski Region Simulator 2012 | 3177 | [3177-ski-region-simulator-2012.json](./3177-ski-region-simulator-2012.json) |
 | Ski Resort Extreme | 51400 | [51400-ski-resort-extreme.json](./51400-ski-resort-extreme.json) |
@@ -10986,6 +10987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotter Mania P: SanSan HanaHana & SanSan Oasis | 98875 | [98875-slotter-mania-p-sansan-hanahana-and-sansan-oasis.json](./98875-slotter-mania-p-sansan-hanahana-and-sansan-oasis.json) |
 | Slotter Mania P: Tetsuya Shinjuku vs Ueno | 62738 | [62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json](./62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json) |
 | Slotter Mania V: Black Lagoon | 65318 | [65318-slotter-mania-v-black-lagoon.json](./65318-slotter-mania-v-black-lagoon.json) |
+| Slotter Mania V: Gakuen Mokushiroku Highschool of the Dead | 63076 | [63076-slotter-mania-v-gakuen-mokushiroku-highschool-of-the-dead.json](./63076-slotter-mania-v-gakuen-mokushiroku-highschool-of-the-dead.json) |
 | Slotter Mania V: Zettai Shougeki II | 63764 | [63764-slotter-mania-v-zettai-shougeki-ii.json](./63764-slotter-mania-v-zettai-shougeki-ii.json) |
 | Slotter Mania: Core Tokonatsu no Netsusa! Oasis | 98871 | [98871-slotter-mania-core-tokonatsu-no-netsusa-oasis.json](./98871-slotter-mania-core-tokonatsu-no-netsusa-oasis.json) |
 | Slotter Mania: Gekinetsu Okisuro! Siosai Special | 98876 | [98876-slotter-mania-gekinetsu-okisuro-siosai-special.json](./98876-slotter-mania-gekinetsu-okisuro-siosai-special.json) |
@@ -11389,6 +11391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile More | 395023 | [395023-smile-more.json](./395023-smile-more.json) |
 | Smile Pinball | 315327 | [315327-smile-pinball.json](./315327-smile-pinball.json) |
 | Smile Poker | 131315 | [131315-smile-poker.json](./131315-smile-poker.json) |
+| Smile Pretty Cure! Let's Go! Marchen World | 63045 | [63045-smile-pretty-cure-lets-go-marchen-world.json](./63045-smile-pretty-cure-lets-go-marchen-world.json) |
 | Smile Simulation | 303078 | [303078-smile-simulation.json](./303078-smile-simulation.json) |
 | Smile Thief | 328337 | [328337-smile-thief.json](./328337-smile-thief.json) |
 | Smile to Fly | 123975 | [123975-smile-to-fly.json](./123975-smile-to-fly.json) |
@@ -18236,6 +18239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpyHunter | 248443 | [248443-spyhunter.json](./248443-spyhunter.json) |
 | SpyHunter | 4166 | [4166-spyhunter.json](./4166-spyhunter.json) |
 | Spykebots | 113706 | [113706-spykebots.json](./113706-spykebots.json) |
+| SpyLeaks | 63057 | [63057-spyleaks.json](./63057-spyleaks.json) |
 | SpyLens: Sex in focus | 368622 | [368622-spylens-sex-in-focus.json](./368622-spylens-sex-in-focus.json) |
 | Spymaster | 235249 | [235249-spymaster.json](./235249-spymaster.json) |
 | Spymaster | 395813 | [395813-spymaster.json](./395813-spymaster.json) |
@@ -19590,6 +19594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarBall | 159592 | [159592-starball.json](./159592-starball.json) |
 | Starbase Gunship | 192772 | [192772-starbase-gunship.json](./192772-starbase-gunship.json) |
 | Starbase Hyperion | 282149 | [282149-starbase-hyperion.json](./282149-starbase-hyperion.json) |
+| Starbase Orion | 63039 | [63039-starbase-orion.json](./63039-starbase-orion.json) |
 | StarbaseSim | 315319 | [315319-starbasesim.json](./315319-starbasesim.json) |
 | Starbear: Taxi | 100415 | [100415-starbear-taxi.json](./100415-starbear-taxi.json) |
 | Starbeast | 64709 | [64709-starbeast.json](./64709-starbeast.json) |
@@ -26545,6 +26550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superfrog HD | 8873 | [8873-superfrog-hd.json](./8873-superfrog-hd.json) |
 | Supergun | 241200 | [241200-supergun.json](./241200-supergun.json) |
 | Superguy and Megaboy | 316615 | [316615-superguy-and-megaboy.json](./316615-superguy-and-megaboy.json) |
+| SuperHer | 63037 | [63037-superher.json](./63037-superher.json) |
 | SuperHero | 161259 | [161259-superhero.json](./161259-superhero.json) |
 | Superhero Bike Stunt Games 3D | 296778 | [296778-superhero-bike-stunt-games-3d.json](./296778-superhero-bike-stunt-games-3d.json) |
 | Superhero Captain Robot Flying Newyork City War | 102649 | [102649-superhero-captain-robot-flying-newyork-city-war.json](./102649-superhero-captain-robot-flying-newyork-city-war.json) |
@@ -26603,6 +26609,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500 Series: Qix 2000 | 97320 | [97320-superlite-1500-series-qix-2000.json](./97320-superlite-1500-series-qix-2000.json) |
 | SuperLite 1500 Series: Shinsei Toire no Kakosan | 382913 | [382913-superlite-1500-series-shinsei-toire-no-kakosan.json](./382913-superlite-1500-series-shinsei-toire-no-kakosan.json) |
 | SuperLite 1500 Series: Space Chaser 2000 | 98293 | [98293-superlite-1500-series-space-chaser-2000.json](./98293-superlite-1500-series-space-chaser-2000.json) |
+| SuperLite 1500 series: Sudoku | 63168 | [63168-superlite-1500-series-sudoku.json](./63168-superlite-1500-series-sudoku.json) |
+| SuperLite 1500 series: Sudoku 2 | 63169 | [63169-superlite-1500-series-sudoku-2.json](./63169-superlite-1500-series-sudoku-2.json) |
+| SuperLite 1500 series: Sudoku 3 | 63164 | [63164-superlite-1500-series-sudoku-3.json](./63164-superlite-1500-series-sudoku-3.json) |
 | SuperLite 1500 Series: The Curling | 98244 | [98244-superlite-1500-series-the-curling.json](./98244-superlite-1500-series-the-curling.json) |
 | SuperLite 1500 series: The Tetris | 98801 | [98801-superlite-1500-series-the-tetris.json](./98801-superlite-1500-series-the-tetris.json) |
 | SuperLite 1500: Crazy Balloon 2000 | 97323 | [97323-superlite-1500-crazy-balloon-2000.json](./97323-superlite-1500-crazy-balloon-2000.json) |
@@ -26611,6 +26620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 2000: Othello | 54938 | [54938-superlite-2000-othello.json](./54938-superlite-2000-othello.json) |
 | SuperLite 2000: Tokyo Bus Annai Kyou kara Kimi mo Untenshu | 56547 | [56547-superlite-2000-tokyo-bus-annai-kyou-kara-kimi-mo-untenshu.json](./56547-superlite-2000-tokyo-bus-annai-kyou-kara-kimi-mo-untenshu.json) |
 | SuperLite 3in1 Series: Nankuro Shuu | 386217 | [386217-superlite-3in1-series-nankuro-shuu.json](./386217-superlite-3in1-series-nankuro-shuu.json) |
+| SuperLite 3in1 series: Sudoku Shuu | 63163 | [63163-superlite-3in1-series-sudoku-shuu.json](./63163-superlite-3in1-series-sudoku-shuu.json) |
 | SuperLite 3in1: Arcade Game Shuu | 97299 | [97299-superlite-3in1-arcade-game-shuu.json](./97299-superlite-3in1-arcade-game-shuu.json) |
 | Superluminal Vagrant Twin | 54961 | [54961-superluminal-vagrant-twin.json](./54961-superluminal-vagrant-twin.json) |
 | Superluminal: A Universe Sandbox | 107032 | [107032-superluminal-a-universe-sandbox.json](./107032-superluminal-a-universe-sandbox.json) |
@@ -27526,6 +27536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swapwood Quest R | 384253 | [384253-swapwood-quest-r.json](./384253-swapwood-quest-r.json) |
 | Swarm | 19138 | [19138-swarm.json](./19138-swarm.json) |
 | Swarm 2 | 280060 | [280060-swarm-2.json](./280060-swarm-2.json) |
+| Swarm Assault | 63166 | [63166-swarm-assault.json](./63166-swarm-assault.json) |
 | Swarm Fortress | 294372 | [294372-swarm-fortress.json](./294372-swarm-fortress.json) |
 | Swarm Grinder | 223371 | [223371-swarm-grinder.json](./223371-swarm-grinder.json) |
 | Swarm Harvest | 417418 | [417418-swarm-harvest.json](./417418-swarm-harvest.json) |
