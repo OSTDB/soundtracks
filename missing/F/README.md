@@ -5869,6 +5869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Poker - Texas Holdem | 142695 | [142695-flash-poker-texas-holdem.json](./142695-flash-poker-texas-holdem.json) |
 | Flash Racer | 359375 | [359375-flash-racer.json](./359375-flash-racer.json) |
 | Flash Snooker Game | 161562 | [161562-flash-snooker-game.json](./161562-flash-snooker-game.json) |
+| Flash Splash | 94592 | [94592-flash-splash.json](./94592-flash-splash.json) |
 | Flash Traffic: City of Angels | 70063 | [70063-flash-traffic-city-of-angels.json](./70063-flash-traffic-city-of-angels.json) |
 | Flashback | 236148 | [236148-flashback.json](./236148-flashback.json) |
 | Flashback 2: Collector's Edition | 283623 | [283623-flashback-2-collectors-edition.json](./283623-flashback-2-collectors-edition.json) |
@@ -7294,6 +7295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager: World Cup Edition | 41003 | [41003-football-manager-world-cup-edition.json](./41003-football-manager-world-cup-edition.json) |
 | Football Master 2: FT9's Coming | 223938 | [223938-football-master-2-ft9s-coming.json](./223938-football-master-2-ft9s-coming.json) |
 | Football Mini Stars | 347322 | [347322-football-mini-stars.json](./347322-football-mini-stars.json) |
+| Football Mogul | 94600 | [94600-football-mogul.json](./94600-football-mogul.json) |
 | Football Mogul 15 | 31694 | [31694-football-mogul-15.json](./31694-football-mogul-15.json) |
 | Football Mogul 2007 | 209466 | [209466-football-mogul-2007.json](./209466-football-mogul-2007.json) |
 | Football Mogul 2014 | 35185 | [35185-football-mogul-2014.json](./35185-football-mogul-2014.json) |
@@ -10565,6 +10567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Card | 193495 | [193495-funny-card.json](./193495-funny-card.json) |
 | Funny Cards | 82138 | [82138-funny-cards.json](./82138-funny-cards.json) |
 | Funny Cargo Simulator | 348407 | [348407-funny-cargo-simulator.json](./348407-funny-cargo-simulator.json) |
+| Funny Face | 94595 | [94595-funny-face.json](./94595-funny-face.json) |
 | Funny Face Apartment | 310762 | [310762-funny-face-apartment.json](./310762-funny-face-apartment.json) |
 | Funny Faces | 93209 | [93209-funny-faces.json](./93209-funny-faces.json) |
 | Funny Farm | 254459 | [254459-funny-farm.json](./254459-funny-farm.json) |
