@@ -5645,6 +5645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Case of the Twisted Children | 329224 | [329224-the-case-of-the-twisted-children.json](./329224-the-case-of-the-twisted-children.json) |
 | The Case of the Worst Day Ever | 325346 | [325346-the-case-of-the-worst-day-ever.json](./325346-the-case-of-the-worst-day-ever.json) |
 | The Case of Theo | 352510 | [352510-the-case-of-theo.json](./352510-the-case-of-theo.json) |
+| The Casebook of Terry Winter | 53707 | [53707-the-casebook-of-terry-winter.json](./53707-the-casebook-of-terry-winter.json) |
 | The Cases of the Thousands Shogi Records | 122350 | [122350-the-cases-of-the-thousands-shogi-records.json](./122350-the-cases-of-the-thousands-shogi-records.json) |
 | The Casino Empire | 257940 | [257940-the-casino-empire.json](./257940-the-casino-empire.json) |
 | The Casino: Roulette, Video Poker, Slot Machines, Craps, Baccarat | 147952 | [147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json](./147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json) |
@@ -5899,6 +5900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The ClueFinders 4th Grade Adventures: Puzzle of the Pyramid | 73694 | [73694-the-cluefinders-4th-grade-adventures-puzzle-of-the-pyramid.json](./73694-the-cluefinders-4th-grade-adventures-puzzle-of-the-pyramid.json) |
 | The ClueFinders 6th Grade Adventures: The Empire of the Plant People | 142139 | [142139-the-cluefinders-6th-grade-adventures-the-empire-of-the-plant-people.json](./142139-the-cluefinders-6th-grade-adventures-the-empire-of-the-plant-people.json) |
 | The ClueFinders Reading Adventures | 91799 | [91799-the-cluefinders-reading-adventures.json](./91799-the-cluefinders-reading-adventures.json) |
+| The Clumsys | 53706 | [53706-the-clumsys.json](./53706-the-clumsys.json) |
 | The Clutch: Remastered | 186864 | [186864-the-clutch-remastered.json](./186864-the-clutch-remastered.json) |
 | The Coagula Contest | 271497 | [271497-the-coagula-contest.json](./271497-the-coagula-contest.json) |
 | The Coagulation | 360506 | [360506-the-coagulation.json](./360506-the-coagulation.json) |
@@ -5998,6 +6000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Confinement | 332413 | [332413-the-confinement.json](./332413-the-confinement.json) |
 | The Conformist | 326857 | [326857-the-conformist.json](./326857-the-conformist.json) |
 | The Confraternity of Toast 2 | 176314 | [176314-the-confraternity-of-toast-2.json](./176314-the-confraternity-of-toast-2.json) |
+| The Conjurer | 53705 | [53705-the-conjurer.json](./53705-the-conjurer.json) |
 | The Conqueror of Battles | 195467 | [195467-the-conqueror-of-battles.json](./195467-the-conqueror-of-battles.json) |
 | The Consequences of Gardening | 183026 | [183026-the-consequences-of-gardening.json](./183026-the-consequences-of-gardening.json) |
 | The Consumist Journey | 270099 | [270099-the-consumist-journey.json](./270099-the-consumist-journey.json) |
@@ -6018,6 +6021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cooking Club | 343206 | [343206-the-cooking-club.json](./343206-the-cooking-club.json) |
 | The Cooking Game | 32134 | [32134-the-cooking-game.json](./32134-the-cooking-game.json) |
 | The Cooking Game VR | 104045 | [104045-the-cooking-game-vr.json](./104045-the-cooking-game-vr.json) |
+| The Cooking Game: Deluxe Edition | 53704 | [53704-the-cooking-game-deluxe-edition.json](./53704-the-cooking-game-deluxe-edition.json) |
 | The Cool Guys Are Level 100 | 316409 | [316409-the-cool-guys-are-level-100.json](./316409-the-cool-guys-are-level-100.json) |
 | The Copper Age | 217913 | [217913-the-copper-age.json](./217913-the-copper-age.json) |
 | The Copper Canyon Dixie Dash | 144884 | [144884-the-copper-canyon-dixie-dash.json](./144884-the-copper-canyon-dixie-dash.json) |
@@ -6112,6 +6116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew 2: Steelbook Gold Edition | 122358 | [122358-the-crew-2-steelbook-gold-edition.json](./122358-the-crew-2-steelbook-gold-edition.json) |
 | The Crew Motorfest: JDM Custom Car Pack | 393736 | [393736-the-crew-motorfest-jdm-custom-car-pack.json](./393736-the-crew-motorfest-jdm-custom-car-pack.json) |
 | The Crew Motorfest: Year 1 Pass | 298706 | [298706-the-crew-motorfest-year-1-pass.json](./298706-the-crew-motorfest-year-1-pass.json) |
+| The Crew: Gold Edition | 53703 | [53703-the-crew-gold-edition.json](./53703-the-crew-gold-edition.json) |
 | The Crew: Motorfest - Alfa Romeo Double Car Pack | 408888 | [408888-the-crew-motorfest-alfa-romeo-double-car-pack.json](./408888-the-crew-motorfest-alfa-romeo-double-car-pack.json) |
 | The Crew: Motorfest - Audi Double Car Pack | 393735 | [393735-the-crew-motorfest-audi-double-car-pack.json](./393735-the-crew-motorfest-audi-double-car-pack.json) |
 | The Crew: Motorfest - BMW Double Car Pack | 408887 | [408887-the-crew-motorfest-bmw-double-car-pack.json](./408887-the-crew-motorfest-bmw-double-car-pack.json) |
@@ -11291,6 +11296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
