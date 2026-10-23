@@ -1710,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Stickman | 99720 | [99720-league-of-stickman.json](./99720-league-of-stickman.json) |
 | League of Stickman 2 | 174638 | [174638-league-of-stickman-2.json](./174638-league-of-stickman-2.json) |
 | League of Stickman: (Dreamsky)Warriors | 105871 | [105871-league-of-stickman-dreamsky-warriors.json](./105871-league-of-stickman-dreamsky-warriors.json) |
+| League of Survivors | 88050 | [88050-league-of-survivors.json](./88050-league-of-survivors.json) |
 | League Of Tacticians: Path of Tarkan | 345820 | [345820-league-of-tacticians-path-of-tarkan.json](./345820-league-of-tacticians-path-of-tarkan.json) |
 | League of Tanks: Global War | 330353 | [330353-league-of-tanks-global-war.json](./330353-league-of-tanks-global-war.json) |
 | League of the Shield | 125733 | [125733-league-of-the-shield.json](./125733-league-of-the-shield.json) |
