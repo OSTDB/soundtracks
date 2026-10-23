@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairlight | 12995 | [12995-fairlight.json](./12995-fairlight.json) |
 | Fairlight II: Trail of Darkness | 26444 | [26444-fairlight-ii-trail-of-darkness.json](./26444-fairlight-ii-trail-of-darkness.json) |
 | Fairlight: A Prelude | 40962 | [40962-fairlight-a-prelude.json](./40962-fairlight-a-prelude.json) |
+| Fairly Certain Doom | 95164 | [95164-fairly-certain-doom.json](./95164-fairly-certain-doom.json) |
 | Fairly Life | 90928 | [90928-fairly-life.json](./90928-fairly-life.json) |
 | Fairune | 386353 | [386353-fairune.json](./386353-fairune.json) |
 | Fairune 2 | 57297 | [57297-fairune-2.json](./57297-fairune-2.json) |
@@ -614,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FairyLand | 413711 | [413711-fairyland.json](./413711-fairyland.json) |
 | Fairyland Melody Magic | 68055 | [68055-fairyland-melody-magic.json](./68055-fairyland-melody-magic.json) |
 | Fairyland Solitaire | 271083 | [271083-fairyland-solitaire.json](./271083-fairyland-solitaire.json) |
+| Fairyland: Chronicle | 95266 | [95266-fairyland-chronicle.json](./95266-fairyland-chronicle.json) |
 | Fairyland: Fairylines | 111367 | [111367-fairyland-fairylines.json](./111367-fairyland-fairylines.json) |
 | Fairyland: Guild | 107689 | [107689-fairyland-guild.json](./107689-fairyland-guild.json) |
 | Fairyland: Incursion | 32301 | [32301-fairyland-incursion.json](./32301-fairyland-incursion.json) |
@@ -663,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faithfall | 401662 | [401662-faithfall.json](./401662-faithfall.json) |
 | Faithful Backrooms | 212883 | [212883-faithful-backrooms.json](./212883-faithful-backrooms.json) |
 | Faithless Trilogy | 148277 | [148277-faithless-trilogy.json](./148277-faithless-trilogy.json) |
+| Fajoce | 95256 | [95256-fajoce.json](./95256-fajoce.json) |
 | Fake Azure Arcology | 381773 | [381773-fake-azure-arcology.json](./381773-fake-azure-arcology.json) |
 | Fake Block | 96711 | [96711-fake-block.json](./96711-fake-block.json) |
 | Fake Colours | 28351 | [28351-fake-colours.json](./28351-fake-colours.json) |
@@ -1933,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farfalle OS | 166456 | [166456-farfalle-os.json](./166456-farfalle-os.json) |
 | Fargone | 228935 | [228935-fargone.json](./228935-fargone.json) |
 | Farhaven | 421181 | [421181-farhaven.json](./421181-farhaven.json) |
+| Farhome | 95162 | [95162-farhome.json](./95162-farhome.json) |
 | Farhoud Farmand's The Mountaineer | 249285 | [249285-farhoud-farmands-the-mountaineer.json](./249285-farhoud-farmands-the-mountaineer.json) |
 | Fari Stjornu | 419203 | [419203-fari-stjornu.json](./419203-fari-stjornu.json) |
 | Faria: A World of Mystery and Danger! | 48060 | [48060-faria-a-world-of-mystery-and-danger.json](./48060-faria-a-world-of-mystery-and-danger.json) |
@@ -4758,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firebat: Revolution | 317550 | [317550-firebat-revolution.json](./317550-firebat-revolution.json) |
 | Firebird | 193655 | [193655-firebird.json](./193655-firebird.json) |
 | Firebird | 287023 | [287023-firebird.json](./287023-firebird.json) |
+| Firebird - Steam version | 95281 | [95281-firebird-steam-version.json](./95281-firebird-steam-version.json) |
 | Firebird - The Unfinished | 99215 | [99215-firebird-the-unfinished.json](./99215-firebird-the-unfinished.json) |
 | Firebird: Tale of the Stolen Light | 381017 | [381017-firebird-tale-of-the-stolen-light.json](./381017-firebird-tale-of-the-stolen-light.json) |
 | Fireblaster | 69256 | [69256-fireblaster.json](./69256-fireblaster.json) |
@@ -6076,6 +6081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flicker | 381024 | [381024-flicker.json](./381024-flicker.json) |
 | Flicklash | 259540 | [259540-flicklash.json](./259540-flicklash.json) |
 | Flickle | 383393 | [383393-flickle.json](./383393-flickle.json) |
+| FlickSync - Mad Hatter VR | 95260 | [95260-flicksync-mad-hatter-vr.json](./95260-flicksync-mad-hatter-vr.json) |
 | Flicky | 275907 | [275907-flicky.json](./275907-flicky.json) |
 | Flicky | 275909 | [275909-flicky.json](./275909-flicky.json) |
 | Flicky | 275910 | [275910-flicky.json](./275910-flicky.json) |
@@ -6413,6 +6419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor 13 | 377578 | [377578-floor-13.json](./377578-floor-13.json) |
 | Floor 13: Deep State | 163791 | [163791-floor-13-deep-state.json](./163791-floor-13-deep-state.json) |
 | Floor 9 | 316478 | [316478-floor-9.json](./316478-floor-9.json) |
+| Floor By Floor | 95259 | [95259-floor-by-floor.json](./95259-floor-by-floor.json) |
 | Floor Chess | 244747 | [244747-floor-chess.json](./244747-floor-chess.json) |
 | Floor Drop | 413655 | [413655-floor-drop.json](./413655-floor-drop.json) |
 | Floor Fall | 310974 | [310974-floor-fall.json](./310974-floor-fall.json) |
@@ -7464,6 +7471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Ground: Lair of Aooni | 364090 | [364090-forbidden-ground-lair-of-aooni.json](./364090-forbidden-ground-lair-of-aooni.json) |
 | Forbidden Ingress | 126566 | [126566-forbidden-ingress.json](./126566-forbidden-ingress.json) |
 | Forbidden Island | 381031 | [381031-forbidden-island.json](./381031-forbidden-island.json) |
+| Forbidden Island | 95290 | [95290-forbidden-island.json](./95290-forbidden-island.json) |
 | Forbidden Love | 322115 | [322115-forbidden-love.json](./322115-forbidden-love.json) |
 | Forbidden Love | 376871 | [376871-forbidden-love.json](./376871-forbidden-love.json) |
 | Forbidden Magic | 253947 | [253947-forbidden-magic.json](./253947-forbidden-magic.json) |
