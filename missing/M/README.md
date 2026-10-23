@@ -1830,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maize Mace Maze | 293075 | [293075-maize-mace-maze.json](./293075-maize-mace-maze.json) |
 | Maja and Benny | 353976 | [353976-maja-and-benny.json](./353976-maja-and-benny.json) |
 | Majaventure: Mahjong Senki | 48785 | [48785-majaventure-mahjong-senki.json](./48785-majaventure-mahjong-senki.json) |
+| Majesco's 3-in-1 Sports Pack | 56837 | [56837-majescos-3-in-1-sports-pack.json](./56837-majescos-3-in-1-sports-pack.json) |
 | Majesco's Rec Room Challenge | 70601 | [70601-majescos-rec-room-challenge.json](./70601-majescos-rec-room-challenge.json) |
 | Majestic | 94676 | [94676-majestic.json](./94676-majestic.json) |
 | Majestic Aristocrat | 294935 | [294935-majestic-aristocrat.json](./294935-majestic-aristocrat.json) |
@@ -4307,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Connect Challenge | 99150 | [99150-match-connect-challenge.json](./99150-match-connect-challenge.json) |
 | Match Day | 39123 | [39123-match-day.json](./39123-match-day.json) |
 | Match Day & International Match Day | 403172 | [403172-match-day-and-international-match-day.json](./403172-match-day-and-international-match-day.json) |
+| Match Day Collection | 56932 | [56932-match-day-collection.json](./56932-match-day-collection.json) |
 | Match Day II | 39122 | [39122-match-day-ii.json](./39122-match-day-ii.json) |
 | Match Eleven | 230698 | [230698-match-eleven.json](./230698-match-eleven.json) |
 | Match Gem 99 | 261701 | [261701-match-gem-99.json](./261701-match-gem-99.json) |
@@ -5874,6 +5876,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Force | 6139 | [6139-mega-force.json](./6139-mega-force.json) |
 | Mega Game Room 2 | 209531 | [209531-mega-game-room-2.json](./209531-mega-game-room-2.json) |
 | Mega Games 3 | 60328 | [60328-mega-games-3.json](./60328-mega-games-3.json) |
+| Mega Games 6 | 56847 | [56847-mega-games-6.json](./56847-mega-games-6.json) |
+| Mega Games 6 Vol. 2 | 56843 | [56843-mega-games-6-vol-2.json](./56843-mega-games-6-vol-2.json) |
 | Mega Giga Cookie Destroyer TD | 304856 | [304856-mega-giga-cookie-destroyer-td.json](./304856-mega-giga-cookie-destroyer-td.json) |
 | Mega Hasan | 128343 | [128343-mega-hasan.json](./128343-mega-hasan.json) |
 | Mega Kaiju Boom Ball | 390022 | [390022-mega-kaiju-boom-ball.json](./390022-mega-kaiju-boom-ball.json) |
@@ -12700,6 +12704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Path | 187226 | [187226-monster-path.json](./187226-monster-path.json) |
 | Monster Pet Shop | 242787 | [242787-monster-pet-shop.json](./242787-monster-pet-shop.json) |
 | Monster Phenomenon | 192982 | [192982-monster-phenomenon.json](./192982-monster-phenomenon.json) |
+| Monster Pitfall | 56841 | [56841-monster-pitfall.json](./56841-monster-pitfall.json) |
 | Monster Planet 2 | 233426 | [233426-monster-planet-2.json](./233426-monster-planet-2.json) |
 | Monster Poolside Sumo | 263468 | [263468-monster-poolside-sumo.json](./263468-monster-poolside-sumo.json) |
 | Monster Pow | 193720 | [193720-monster-pow.json](./193720-monster-pow.json) |
