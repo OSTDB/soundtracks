@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MacShot | 192447 | [192447-macshot.json](./192447-macshot.json) |
 | Mad Adventures | 202747 | [202747-mad-adventures.json](./202747-mad-adventures.json) |
 | Mad Age and This Guy | 56613 | [56613-mad-age-and-this-guy.json](./56613-mad-age-and-this-guy.json) |
+| Mad Alien | 83354 | [83354-mad-alien.json](./83354-mad-alien.json) |
 | Mad Aliens: Seeking the Soul | 247936 | [247936-mad-aliens-seeking-the-soul.json](./247936-mad-aliens-seeking-the-soul.json) |
 | Mad Arkanoid | 50536 | [50536-mad-arkanoid.json](./50536-mad-arkanoid.json) |
 | Mad Art Millionaire | 114704 | [114704-mad-art-millionaire.json](./114704-mad-art-millionaire.json) |
@@ -1795,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maintenance Crew | 295331 | [295331-maintenance-crew.json](./295331-maintenance-crew.json) |
 | Mainu | 344696 | [344696-mainu.json](./344696-mainu.json) |
 | Mais um Dia! | 278610 | [278610-mais-um-dia.json](./278610-mais-um-dia.json) |
+| Maison de Kyouko: Kanrinin no Himitsu | 83370 | [83370-maison-de-kyouko-kanrinin-no-himitsu.json](./83370-maison-de-kyouko-kanrinin-no-himitsu.json) |
 | Maison Ikkoku | 41803 | [41803-maison-ikkoku.json](./41803-maison-ikkoku.json) |
 | Maison Ikkoku Final | 41802 | [41802-maison-ikkoku-final.json](./41802-maison-ikkoku-final.json) |
 | Maison Ikkoku Kanketsu Hen: Sayonara, Soshite... | 91766 | [91766-maison-ikkoku-kanketsu-hen-sayonara-soshite.json](./91766-maison-ikkoku-kanketsu-hen-sayonara-soshite.json) |
@@ -9118,6 +9120,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko Monogatari! | 222277 | [222277-miko-monogatari.json](./222277-miko-monogatari.json) |
 | Miko no Kanata: Curious Tales from Oguni Shrine - Cycles | 211055 | [211055-miko-no-kanata-curious-tales-from-oguni-shrine-cycles.json](./211055-miko-no-kanata-curious-tales-from-oguni-shrine-cycles.json) |
 | Miko no Kanata: Curious Tales from Oguni Shrine - Zero | 387081 | [387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json](./387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json) |
+| Miko No Kanata: Curious Tales from the Shrine -Ne no Shou- | 83361 | [83361-miko-no-kanata-curious-tales-from-the-shrine-ne-no-shou.json](./83361-miko-no-kanata-curious-tales-from-the-shrine-ne-no-shou.json) |
+| Miko No Kanata: Curious Tales from the Shrine -Rin no Shou- | 83389 | [83389-miko-no-kanata-curious-tales-from-the-shrine-rin-no-shou.json](./83389-miko-no-kanata-curious-tales-from-the-shrine-rin-no-shou.json) |
 | Miko to Akemi no Jungle Adventures | 137855 | [137855-miko-to-akemi-no-jungle-adventures.json](./137855-miko-to-akemi-no-jungle-adventures.json) |
 | Miko x Miko Sisters: Kagura-kei no Miko to Akuryou | 333522 | [333522-miko-x-miko-sisters-kagura-kei-no-miko-to-akuryou.json](./333522-miko-x-miko-sisters-kagura-kei-no-miko-to-akuryou.json) |
 | Miko-san Fighter! Ryouko-chan | 395756 | [395756-miko-san-fighter-ryouko-chan.json](./395756-miko-san-fighter-ryouko-chan.json) |
