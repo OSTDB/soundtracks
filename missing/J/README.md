@@ -2044,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jojos Fashion Show 3: World Tour | 25512 | [25512-jojos-fashion-show-3-world-tour.json](./25512-jojos-fashion-show-3-world-tour.json) |
 | JojoVsDio | 220690 | [220690-jojovsdio.json](./220690-jojovsdio.json) |
 | Jojoy!: Ecorpy Islands | 244850 | [244850-jojoy-ecorpy-islands.json](./244850-jojoy-ecorpy-islands.json) |
+| Joke Telling Social Story and Speech Tool on How to Tell Jokes for Preschool, Aspergers, Autism & Down Syndrome | 91213 | [91213-joke-telling-social-story-and-speech-tool-on-how-to-tell-jokes-for-preschool-aspergers-autism-and-down-syndrome.json](./91213-joke-telling-social-story-and-speech-tool-on-how-to-tell-jokes-for-preschool-aspergers-autism-and-down-syndrome.json) |
 | Joke's On Us | 352194 | [352194-jokes-on-us.json](./352194-jokes-on-us.json) |
 | Joker & Teacher | 369556 | [369556-joker-and-teacher.json](./369556-joker-and-teacher.json) |
 | Joker no Kuni no Alice: Wonderful Wonder World | 64871 | [64871-joker-no-kuni-no-alice-wonderful-wonder-world.json](./64871-joker-no-kuni-no-alice-wonderful-wonder-world.json) |
