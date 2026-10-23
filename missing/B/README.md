@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7608,6 +7609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades or Bets | 380647 | [380647-blades-or-bets.json](./380647-blades-or-bets.json) |
 | Blades, Bows & Magic | 329403 | [329403-blades-bows-and-magic.json](./329403-blades-bows-and-magic.json) |
 | BladeShield | 30566 | [30566-bladeshield.json](./30566-bladeshield.json) |
+| Bladeslinger | 63632 | [63632-bladeslinger.json](./63632-bladeslinger.json) |
 | Bladesmith Shop Simulator | 420007 | [420007-bladesmith-shop-simulator.json](./420007-bladesmith-shop-simulator.json) |
 | Bladesong | 254662 | [254662-bladesong.json](./254662-bladesong.json) |
 | Bladestorm: The Hundred Years' War | 6919 | [6919-bladestorm-the-hundred-years-war.json](./6919-bladestorm-the-hundred-years-war.json) |
@@ -10125,6 +10127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonereader | 397769 | [397769-bonereader.json](./397769-bonereader.json) |
 | Bones | 372636 | [372636-bones.json](./372636-bones.json) |
 | Bones 'n' Bullets | 118303 | [118303-bones-n-bullets.json](./118303-bones-n-bullets.json) |
+| Bones game online | 63726 | [63726-bones-game-online.json](./63726-bones-game-online.json) |
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
 | Bones of Halloween | 221096 | [221096-bones-of-halloween.json](./221096-bones-of-halloween.json) |
 | Bones of the Earth | 362880 | [362880-bones-of-the-earth.json](./362880-bones-of-the-earth.json) |
@@ -13966,6 +13969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Girl Clicker | 337814 | [337814-burger-girl-clicker.json](./337814-burger-girl-clicker.json) |
 | Burger Impact: Solar Strike | 246868 | [246868-burger-impact-solar-strike.json](./246868-burger-impact-solar-strike.json) |
 | Burger in Hyperland | 67917 | [67917-burger-in-hyperland.json](./67917-burger-in-hyperland.json) |
+| Burger in Partyland | 63725 | [63725-burger-in-partyland.json](./63725-burger-in-partyland.json) |
 | Burger Island 2: The Missing Ingredient | 206694 | [206694-burger-island-2-the-missing-ingredient.json](./206694-burger-island-2-the-missing-ingredient.json) |
 | Burger Jack | 65447 | [65447-burger-jack.json](./65447-burger-jack.json) |
 | Burger Joint Simulator | 401614 | [401614-burger-joint-simulator.json](./401614-burger-joint-simulator.json) |
@@ -14427,6 +14431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly Escape | 73587 | [73587-butterfly-escape.json](./73587-butterfly-escape.json) |
 | Butterfly Garden | 69285 | [69285-butterfly-garden.json](./69285-butterfly-garden.json) |
 | Butterfly Killer | 128305 | [128305-butterfly-killer.json](./128305-butterfly-killer.json) |
+| Butterfly Moment | 63719 | [63719-butterfly-moment.json](./63719-butterfly-moment.json) |
 | Butterfly Sky | 233519 | [233519-butterfly-sky.json](./233519-butterfly-sky.json) |
 | Butterfly Soup | 69414 | [69414-butterfly-soup.json](./69414-butterfly-soup.json) |
 | Butterfly Soup 2 | 165549 | [165549-butterfly-soup-2.json](./165549-butterfly-soup-2.json) |
