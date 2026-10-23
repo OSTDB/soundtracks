@@ -2886,6 +2886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scream and Steel: Horror Story Shooter | 284493 | [284493-scream-and-steel-horror-story-shooter.json](./284493-scream-and-steel-horror-story-shooter.json) |
 | Scream Collector | 74450 | [74450-scream-collector.json](./74450-scream-collector.json) |
 | Scream Hero | 194000 | [194000-scream-hero.json](./194000-scream-hero.json) |
+| Scream Machines | 65887 | [65887-scream-machines.json](./65887-scream-machines.json) |
 | Scream of the Viking | 113615 | [113615-scream-of-the-viking.json](./113615-scream-of-the-viking.json) |
 | Scream of the Viking 2 | 113871 | [113871-scream-of-the-viking-2.json](./113871-scream-of-the-viking-2.json) |
 | Scream of the Viking 3 | 117074 | [117074-scream-of-the-viking-3.json](./117074-scream-of-the-viking-3.json) |
@@ -4280,6 +4281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Basara 2 Heroes | 72578 | [72578-sengoku-basara-2-heroes.json](./72578-sengoku-basara-2-heroes.json) |
 | Sengoku Basara 2: Heroes - Double Pack | 268378 | [268378-sengoku-basara-2-heroes-double-pack.json](./268378-sengoku-basara-2-heroes-double-pack.json) |
 | Sengoku Basara 4: Sumeragi - Anniversary Edition | 136704 | [136704-sengoku-basara-4-sumeragi-anniversary-edition.json](./136704-sengoku-basara-4-sumeragi-anniversary-edition.json) |
+| Sengoku Basara Chronicle Heroes | 65896 | [65896-sengoku-basara-chronicle-heroes.json](./65896-sengoku-basara-chronicle-heroes.json) |
 | Sengoku Basara X | 68950 | [68950-sengoku-basara-x.json](./68950-sengoku-basara-x.json) |
 | Sengoku Basara: Battle Heroes | 72563 | [72563-sengoku-basara-battle-heroes.json](./72563-sengoku-basara-battle-heroes.json) |
 | Sengoku Basara: Samurai Heroes | 7455 | [7455-sengoku-basara-samurai-heroes.json](./7455-sengoku-basara-samurai-heroes.json) |
@@ -4381,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura: Peach Beach Splash - Sexy Soaker Edition | 300524 | [300524-senran-kagura-peach-beach-splash-sexy-soaker-edition.json](./300524-senran-kagura-peach-beach-splash-sexy-soaker-edition.json) |
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
+| Senritsu no Stratus | 65953 | [65953-senritsu-no-stratus.json](./65953-senritsu-no-stratus.json) |
 | Sensations | 252733 | [252733-sensations.json](./252733-sensations.json) |
 | Sensations | 355882 | [355882-sensations.json](./355882-sensations.json) |
 | Sense of Darkness | 310104 | [310104-sense-of-darkness.json](./310104-sense-of-darkness.json) |
@@ -6533,6 +6536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Koihime Musou Tenka Touitsu-den | 191635 | [191635-shin-koihime-musou-tenka-touitsu-den.json](./191635-shin-koihime-musou-tenka-touitsu-den.json) |
 | Shin Koihime Musou: Fighting Maidens of the Romance of the Three Kingdoms | 63253 | [63253-shin-koihime-musou-fighting-maidens-of-the-romance-of-the-three-kingdoms.json](./63253-shin-koihime-musou-fighting-maidens-of-the-romance-of-the-three-kingdoms.json) |
 | Shin Koihime Musou: Kakumei - Ryuuki no Taimou | 127338 | [127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json](./127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json) |
+| Shin Koihime Musou: Otome Ryouran Sangokushi Engi | 65898 | [65898-shin-koihime-musou-otome-ryouran-sangokushi-engi.json](./65898-shin-koihime-musou-otome-ryouran-sangokushi-engi.json) |
 | Shin Lucky Star Moe Drill: Tabidachi | 72619 | [72619-shin-lucky-star-moe-drill-tabidachi.json](./72619-shin-lucky-star-moe-drill-tabidachi.json) |
 | Shin Mahjong Tenka Fubu | 188085 | [188085-shin-mahjong-tenka-fubu.json](./188085-shin-mahjong-tenka-fubu.json) |
 | Shin Maou Golvellius | 125814 | [125814-shin-maou-golvellius.json](./125814-shin-maou-golvellius.json) |
@@ -9190,6 +9194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sis and Bro The Cyborg Siblings | 292962 | [292962-sis-and-bro-the-cyborg-siblings.json](./292962-sis-and-bro-the-cyborg-siblings.json) |
 | Sisão | 172558 | [172558-sisao.json](./172558-sisao.json) |
 | Sissa's Path | 211116 | [211116-sissas-path.json](./211116-sissas-path.json) |
+| Sissy's Magical Ponycorn Adventure | 65919 | [65919-sissys-magical-ponycorn-adventure.json](./65919-sissys-magical-ponycorn-adventure.json) |
 | Sister Adventure | 123919 | [123919-sister-adventure.json](./123919-sister-adventure.json) |
 | Sister Lace | 385953 | [385953-sister-lace.json](./385953-sister-lace.json) |
 | Sister Lesson | 416016 | [416016-sister-lesson.json](./416016-sister-lesson.json) |
@@ -9298,6 +9303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Textures #3 | 321123 | [321123-six-textures-3.json](./321123-six-textures-3.json) |
 | Six-Chamber Champion | 384663 | [384663-six-chamber-champion.json](./384663-six-chamber-champion.json) |
 | Six-ear Macaque | 72359 | [72359-six-ear-macaque.json](./72359-six-ear-macaque.json) |
+| Six-Gun Shootout: Gunfights of the Wild West | 65907 | [65907-six-gun-shootout-gunfights-of-the-wild-west.json](./65907-six-gun-shootout-gunfights-of-the-wild-west.json) |
 | Six-Guns: Gang Showdown | 38991 | [38991-six-guns-gang-showdown.json](./38991-six-guns-gang-showdown.json) |
 | Six-Sided Streets | 234897 | [234897-six-sided-streets.json](./234897-six-sided-streets.json) |
 | Six! | 88774 | [88774-six.json](./88774-six.json) |
@@ -12539,6 +12545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccering | 115041 | [115041-soccering.json](./115041-soccering.json) |
 | Soccertron | 11132 | [11132-soccertron.json](./11132-soccertron.json) |
 | Soccerverse | 224165 | [224165-soccerverse.json](./224165-soccerverse.json) |
+| Social City | 65947 | [65947-social-city.json](./65947-social-city.json) |
 | Social Club VR : Casino Nights | 130746 | [130746-social-club-vr-casino-nights.json](./130746-social-club-vr-casino-nights.json) |
 | Social Credit Simulator | 226344 | [226344-social-credit-simulator.json](./226344-social-credit-simulator.json) |
 | Social Democracy: An Alternate History | 301376 | [301376-social-democracy-an-alternate-history.json](./301376-social-democracy-an-alternate-history.json) |
@@ -14423,6 +14430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soroban Anzan Flash Anzan Kanzenban | 222472 | [222472-soroban-anzan-flash-anzan-kanzenban.json](./222472-soroban-anzan-flash-anzan-kanzenban.json) |
 | Soroban Gu | 37318 | [37318-soroban-gu.json](./37318-soroban-gu.json) |
 | Soroekes Addictive Puzzle | 206560 | [206560-soroekes-addictive-puzzle.json](./206560-soroekes-addictive-puzzle.json) |
+| Sorority Life | 65948 | [65948-sorority-life.json](./65948-sorority-life.json) |
 | Sorority Panty Raid | 337138 | [337138-sorority-panty-raid.json](./337138-sorority-panty-raid.json) |
 | Sorrow | 328854 | [328854-sorrow.json](./328854-sorrow.json) |
 | Sorrow Asylum | 259621 | [259621-sorrow-asylum.json](./259621-sorrow-asylum.json) |
@@ -19253,6 +19261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Hidden Evil | 50392 | [50392-star-trek-hidden-evil.json](./50392-star-trek-hidden-evil.json) |
 | Star Trek: Infinite - Deluxe Edition | 265851 | [265851-star-trek-infinite-deluxe-edition.json](./265851-star-trek-infinite-deluxe-edition.json) |
 | Star Trek: Infinite - Designing the Galaxy | 271921 | [271921-star-trek-infinite-designing-the-galaxy.json](./271921-star-trek-infinite-designing-the-galaxy.json) |
+| Star Trek: Infinite Space | 65900 | [65900-star-trek-infinite-space.json](./65900-star-trek-infinite-space.json) |
 | Star Trek: Judgment Rites | 2229 | [2229-star-trek-judgment-rites.json](./2229-star-trek-judgment-rites.json) |
 | Star Trek: Judgment Rites Movie & Sound Pack | 131180 | [131180-star-trek-judgment-rites-movie-and-sound-pack.json](./131180-star-trek-judgment-rites-movie-and-sound-pack.json) |
 | Star Trek: Klingon Academy | 19627 | [19627-star-trek-klingon-academy.json](./19627-star-trek-klingon-academy.json) |
@@ -25900,6 +25909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Seeker | 111568 | [111568-super-seeker.json](./111568-super-seeker.json) |
 | Super Senso | 26626 | [26626-super-senso.json](./26626-super-senso.json) |
 | Super Sentai Battle: Dice-O | 59823 | [59823-super-sentai-battle-dice-o.json](./59823-super-sentai-battle-dice-o.json) |
+| Super Sentai Battle: Ranger Cross | 65897 | [65897-super-sentai-battle-ranger-cross.json](./65897-super-sentai-battle-ranger-cross.json) |
 | Super Sentai Legend Wars | 223901 | [223901-super-sentai-legend-wars.json](./223901-super-sentai-legend-wars.json) |
 | Super Serious Golf | 365830 | [365830-super-serious-golf.json](./365830-super-serious-golf.json) |
 | Super Serpent Snake 3D | 412292 | [412292-super-serpent-snake-3d.json](./412292-super-serpent-snake-3d.json) |
@@ -26302,6 +26312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tiny Leap | 409890 | [409890-super-tiny-leap.json](./409890-super-tiny-leap.json) |
 | Super Tits Rush | 86752 | [86752-super-tits-rush.json](./86752-super-tits-rush.json) |
 | Super Toboggan 3D | 410883 | [410883-super-toboggan-3d.json](./410883-super-toboggan-3d.json) |
+| Super Tofu Boy | 65906 | [65906-super-tofu-boy.json](./65906-super-tofu-boy.json) |
 | Super Tofu Friends | 183337 | [183337-super-tofu-friends.json](./183337-super-tofu-friends.json) |
 | Super Tokusatsu Taisen 2001 | 43905 | [43905-super-tokusatsu-taisen-2001.json](./43905-super-tokusatsu-taisen-2001.json) |
 | Super Tony Land | 81210 | [81210-super-tony-land.json](./81210-super-tony-land.json) |
