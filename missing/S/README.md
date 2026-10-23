@@ -3113,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Battle Simulator | 104488 | [104488-sea-battle-simulator.json](./104488-sea-battle-simulator.json) |
 | Sea Battle VR | 75719 | [75719-sea-battle-vr.json](./75719-sea-battle-vr.json) |
 | Sea Battle: Annihilation | 144816 | [144816-sea-battle-annihilation.json](./144816-sea-battle-annihilation.json) |
+| Sea Battle: Through the Ages | 86638 | [86638-sea-battle-through-the-ages.json](./86638-sea-battle-through-the-ages.json) |
 | Sea Bikers Jetski | 368896 | [368896-sea-bikers-jetski.json](./368896-sea-bikers-jetski.json) |
 | Sea Birds: End of an Age | 113528 | [113528-sea-birds-end-of-an-age.json](./113528-sea-birds-end-of-an-age.json) |
 | Sea Blade | 193781 | [193781-sea-blade.json](./193781-sea-blade.json) |
@@ -5522,6 +5523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Empires | 227268 | [227268-shadows-of-empires.json](./227268-shadows-of-empires.json) |
 | Shadows of Forbidden Gods | 180249 | [180249-shadows-of-forbidden-gods.json](./180249-shadows-of-forbidden-gods.json) |
 | Shadows of Forbidden Gods: The Horrors Beneath | 290783 | [290783-shadows-of-forbidden-gods-the-horrors-beneath.json](./290783-shadows-of-forbidden-gods-the-horrors-beneath.json) |
+| Shadows of Her Past | 86648 | [86648-shadows-of-her-past.json](./86648-shadows-of-her-past.json) |
 | Shadows of Kepler | 125390 | [125390-shadows-of-kepler.json](./125390-shadows-of-kepler.json) |
 | Shadows of Kurgansk | 26581 | [26581-shadows-of-kurgansk.json](./26581-shadows-of-kurgansk.json) |
 | Shadows of Memory Ll | 348912 | [348912-shadows-of-memory-ll.json](./348912-shadows-of-memory-ll.json) |
@@ -15258,6 +15260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Girls | 68894 | [68894-space-girls.json](./68894-space-girls.json) |
 | Space Girls Band | 293215 | [293215-space-girls-band.json](./293215-space-girls-band.json) |
 | Space Gnomes | 407315 | [407315-space-gnomes.json](./407315-space-gnomes.json) |
+| Space God | 86614 | [86614-space-god.json](./86614-space-god.json) |
 | Space Gold Rush TD | 215717 | [215717-space-gold-rush-td.json](./215717-space-gold-rush-td.json) |
 | Space Goose | 92309 | [92309-space-goose.json](./92309-space-goose.json) |
 | Space Gourmet: Delivery | 238504 | [238504-space-gourmet-delivery.json](./238504-space-gourmet-delivery.json) |
@@ -19484,6 +19487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarCat Major | 209962 | [209962-starcat-major.json](./209962-starcat-major.json) |
 | Starcatcher | 228094 | [228094-starcatcher.json](./228094-starcatcher.json) |
 | Starcatcher | 348208 | [348208-starcatcher.json](./348208-starcatcher.json) |
+| Starcatcher | 86630 | [86630-starcatcher.json](./86630-starcatcher.json) |
 | Starch | 91942 | [91942-starch.json](./91942-starch.json) |
 | Starcom: Nexus | 107854 | [107854-starcom-nexus.json](./107854-starcom-nexus.json) |
 | Starcom: Unknown Space | 211207 | [211207-starcom-unknown-space.json](./211207-starcom-unknown-space.json) |
@@ -21312,6 +21316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoneveil | 376439 | [376439-stoneveil.json](./376439-stoneveil.json) |
 | Stoneveil | 377591 | [377591-stoneveil.json](./377591-stoneveil.json) |
 | Stoneville Manor | 366262 | [366262-stoneville-manor.json](./366262-stoneville-manor.json) |
+| Stonies | 86637 | [86637-stonies.json](./86637-stonies.json) |
 | Stonks-9800: Stock Market Simulator | 167271 | [167271-stonks-9800-stock-market-simulator.json](./167271-stonks-9800-stock-market-simulator.json) |
 | Stony Road | 103352 | [103352-stony-road.json](./103352-stony-road.json) |
 | Stoopid Puzzle Game | 163528 | [163528-stoopid-puzzle-game.json](./163528-stoopid-puzzle-game.json) |
@@ -21701,6 +21706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategems | 353271 | [353271-strategems.json](./353271-strategems.json) |
 | Strategery 2012 | 64333 | [64333-strategery-2012.json](./64333-strategery-2012.json) |
 | Strategic Bastion | 358231 | [358231-strategic-bastion.json](./358231-strategic-bastion.json) |
+| Strategic Command Classic: Global Conflict | 86635 | [86635-strategic-command-classic-global-conflict.json](./86635-strategic-command-classic-global-conflict.json) |
 | Strategic Command Classic: WWI | 77003 | [77003-strategic-command-classic-wwi.json](./77003-strategic-command-classic-wwi.json) |
 | Strategic Command Classic: WWI | 77054 | [77054-strategic-command-classic-wwi.json](./77054-strategic-command-classic-wwi.json) |
 | Strategic Command Classic: WWII | 96683 | [96683-strategic-command-classic-wwii.json](./96683-strategic-command-classic-wwii.json) |
@@ -22820,6 +22826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subs | 119600 | [119600-subs.json](./119600-subs.json) |
 | Subself: Lies Deep | 407848 | [407848-subself-lies-deep.json](./407848-subself-lies-deep.json) |
 | Subside | 265550 | [265550-subside.json](./265550-subside.json) |
+| Subsideria | 86591 | [86591-subsideria.json](./86591-subsideria.json) |
 | Subsiege | 26677 | [26677-subsiege.json](./26677-subsiege.json) |
 | Subsist: Apocalypse Survival | 296453 | [296453-subsist-apocalypse-survival.json](./296453-subsist-apocalypse-survival.json) |
 | SubSpace | 19148 | [19148-subspace.json](./19148-subspace.json) |
@@ -24326,6 +24333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Duper Flying Genocide 2017 | 34004 | [34004-super-duper-flying-genocide-2017.json](./34004-super-duper-flying-genocide-2017.json) |
 | Super Duper Metroid | 198097 | [198097-super-duper-metroid.json](./198097-super-duper-metroid.json) |
 | Super Duper Multitasking | 330972 | [330972-super-duper-multitasking.json](./330972-super-duper-multitasking.json) |
+| Super Duper Multitasking | 86615 | [86615-super-duper-multitasking.json](./86615-super-duper-multitasking.json) |
 | Super Duper Party Pooper | 19680 | [19680-super-duper-party-pooper.json](./19680-super-duper-party-pooper.json) |
 | Super Duper Sumos | 49217 | [49217-super-duper-sumos.json](./49217-super-duper-sumos.json) |
 | Super Durak | 174336 | [174336-super-durak.json](./174336-super-durak.json) |
@@ -26970,6 +26978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive: Forgotten and Abandoned | 270185 | [270185-survive-forgotten-and-abandoned.json](./270185-survive-forgotten-and-abandoned.json) |
 | Survive: Frost Bite | 325710 | [325710-survive-frost-bite.json](./325710-survive-frost-bite.json) |
 | Survive: The Alien Tracing | 360203 | [360203-survive-the-alien-tracing.json](./360203-survive-the-alien-tracing.json) |
+| Survive: The King Killer | 86588 | [86588-survive-the-king-killer.json](./86588-survive-the-king-killer.json) |
 | Survive! Mola mola! | 151640 | [151640-survive-mola-mola.json](./151640-survive-mola-mola.json) |
 | Survive.io Battle Ground | 100139 | [100139-survive-io-battle-ground.json](./100139-survive-io-battle-ground.json) |
 | Survived | 151052 | [151052-survived.json](./151052-survived.json) |
