@@ -5830,6 +5830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Eros | 254411 | [254411-flappy-eros.json](./254411-flappy-eros.json) |
 | Flappy Fighter | 118311 | [118311-flappy-fighter.json](./118311-flappy-fighter.json) |
 | Flappy Fire | 90184 | [90184-flappy-fire.json](./90184-flappy-fire.json) |
+| Flappy Galaxy | 74184 | [74184-flappy-galaxy.json](./74184-flappy-galaxy.json) |
 | Flappy Golf | 107648 | [107648-flappy-golf.json](./107648-flappy-golf.json) |
 | Flappy Golf 2 | 88291 | [88291-flappy-golf-2.json](./88291-flappy-golf-2.json) |
 | Flappy Golf Party | 372089 | [372089-flappy-golf-party.json](./372089-flappy-golf-party.json) |
