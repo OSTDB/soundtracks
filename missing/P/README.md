@@ -6495,6 +6495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzle | 88484 | [88484-pixel-puzzle.json](./88484-pixel-puzzle.json) |
 | Pixel Puzzle Collection | 110865 | [110865-pixel-puzzle-collection.json](./110865-pixel-puzzle-collection.json) |
 | Pixel Puzzle Makeout League | 121603 | [121603-pixel-puzzle-makeout-league.json](./121603-pixel-puzzle-makeout-league.json) |
+| Pixel Puzzler | 69693 | [69693-pixel-puzzler.json](./69693-pixel-puzzler.json) |
 | Pixel Puzzles | 243639 | [243639-pixel-puzzles.json](./243639-pixel-puzzles.json) |
 | Pixel Puzzles 2: Christmas | 112743 | [112743-pixel-puzzles-2-christmas.json](./112743-pixel-puzzles-2-christmas.json) |
 | Pixel Puzzles 2: Halloween | 125736 | [125736-pixel-puzzles-2-halloween.json](./125736-pixel-puzzles-2-halloween.json) |
@@ -8427,6 +8428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pointblank | 131216 | [131216-pointblank.json](./131216-pointblank.json) |
 | Pointless | 33544 | [33544-pointless.json](./33544-pointless.json) |
 | Pointless Fighting | 360129 | [360129-pointless-fighting.json](./360129-pointless-fighting.json) |
+| Pointless Platform | 69679 | [69679-pointless-platform.json](./69679-pointless-platform.json) |
 | Pointless Wars | 183790 | [183790-pointless-wars.json](./183790-pointless-wars.json) |
 | PointlessQuest | 406638 | [406638-pointlessquest.json](./406638-pointlessquest.json) |
 | PointWorks | 371555 | [371555-pointworks.json](./371555-pointworks.json) |
@@ -9800,6 +9802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poodle Kick | 391608 | [391608-poodle-kick.json](./391608-poodle-kick.json) |
 | Poöf vs. The Cursed Kitty | 10712 | [10712-poof-vs-the-cursed-kitty.json](./10712-poof-vs-the-cursed-kitty.json) |
 | Poofie Plays God | 341563 | [341563-poofie-plays-god.json](./341563-poofie-plays-god.json) |
+| Poogaboo: La Pulga 2 | 69698 | [69698-poogaboo-la-pulga-2.json](./69698-poogaboo-la-pulga-2.json) |
 | Poogers | 223131 | [223131-poogers.json](./223131-poogers.json) |
 | Pooh Honeytime | 239790 | [239790-pooh-honeytime.json](./239790-pooh-honeytime.json) |
 | Pooh Print Studio | 209336 | [209336-pooh-print-studio.json](./209336-pooh-print-studio.json) |
@@ -13092,6 +13095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prospector | 197564 | [197564-prospector.json](./197564-prospector.json) |
 | Prospector | 296680 | [296680-prospector.json](./296680-prospector.json) |
 | Prospector | 91935 | [91935-prospector.json](./91935-prospector.json) |
+| Prospector in the Mazes of Xor | 69672 | [69672-prospector-in-the-mazes-of-xor.json](./69672-prospector-in-the-mazes-of-xor.json) |
 | Prospector Stanley | 183553 | [183553-prospector-stanley.json](./183553-prospector-stanley.json) |
 | Prospekt | 22149 | [22149-prospekt.json](./22149-prospekt.json) |
 | Prospera | 415184 | [415184-prospera.json](./415184-prospera.json) |
