@@ -5084,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Kingdoms | 231938 | [231938-fish-kingdoms.json](./231938-fish-kingdoms.json) |
 | Fish Kiss | 184088 | [184088-fish-kiss.json](./184088-fish-kiss.json) |
 | Fish Kisser | 410893 | [410893-fish-kisser.json](./410893-fish-kisser.json) |
+| Fish Listening to Radio | 66510 | [66510-fish-listening-to-radio.json](./66510-fish-listening-to-radio.json) |
 | Fish Love Danger | 151435 | [151435-fish-love-danger.json](./151435-fish-love-danger.json) |
 | Fish Machine | 139254 | [139254-fish-machine.json](./139254-fish-machine.json) |
 | Fish man avoiding fishing | 119671 | [119671-fish-man-avoiding-fishing.json](./119671-fish-man-avoiding-fishing.json) |
