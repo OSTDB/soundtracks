@@ -1341,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Princess: Pure Voice | 109005 | [109005-under-princess-pure-voice.json](./109005-under-princess-pure-voice.json) |
 | Under Shelter | 146550 | [146550-under-shelter.json](./146550-under-shelter.json) |
 | Under Siege | 383347 | [383347-under-siege.json](./383347-under-siege.json) |
+| Under Siege | 52990 | [52990-under-siege.json](./52990-under-siege.json) |
 | Under Siege | 95467 | [95467-under-siege.json](./95467-under-siege.json) |
 | Under Siege 2 | 204897 | [204897-under-siege-2.json](./204897-under-siege-2.json) |
 | Under Southern Skies | 25035 | [25035-under-southern-skies.json](./25035-under-southern-skies.json) |
@@ -2574,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upper Ball | 239091 | [239091-upper-ball.json](./239091-upper-ball.json) |
 | Upper Gumtree | 319098 | [319098-upper-gumtree.json](./319098-upper-gumtree.json) |
 | Uppercute | 336613 | [336613-uppercute.json](./336613-uppercute.json) |
+| Uppers | 53029 | [53029-uppers.json](./53029-uppers.json) |
 | Upperz | 102794 | [102794-upperz.json](./102794-upperz.json) |
 | Uppies! | 364588 | [364588-uppies.json](./364588-uppies.json) |
 | Upptäck Rymden med Mulle Meck | 97734 | [97734-upptack-rymden-med-mulle-meck.json](./97734-upptack-rymden-med-mulle-meck.json) |
