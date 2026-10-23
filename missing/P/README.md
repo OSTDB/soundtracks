@@ -11552,9 +11552,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maker 4 | 72591 | [72591-princess-maker-4.json](./72591-princess-maker-4.json) |
 | Princess Maker 4 Portable | 205640 | [205640-princess-maker-4-portable.json](./205640-princess-maker-4-portable.json) |
 | Princess Maker Collection | 78302 | [78302-princess-maker-collection.json](./78302-princess-maker-collection.json) |
+| Princess Maker Pocket Dai-sakusen | 64809 | [64809-princess-maker-pocket-dai-sakusen.json](./64809-princess-maker-pocket-dai-sakusen.json) |
 | Princess Maker Refine | 27317 | [27317-princess-maker-refine.json](./27317-princess-maker-refine.json) |
 | Princess Maker: Children of Revelation | 316082 | [316082-princess-maker-children-of-revelation.json](./316082-princess-maker-children-of-revelation.json) |
 | Princess Maker: Faery Tales Come True | 127847 | [127847-princess-maker-faery-tales-come-true.json](./127847-princess-maker-faery-tales-come-true.json) |
+| Princess Maker: Go! Go! Princess | 64812 | [64812-princess-maker-go-go-princess.json](./64812-princess-maker-go-go-princess.json) |
 | Princess Maker: Legend of Another World | 38182 | [38182-princess-maker-legend-of-another-world.json](./38182-princess-maker-legend-of-another-world.json) |
 | Princess Miner | 383149 | [383149-princess-miner.json](./383149-princess-miner.json) |
 | Princess Miyumi and The Necro's Dungeon | 183570 | [183570-princess-miyumi-and-the-necros-dungeon.json](./183570-princess-miyumi-and-the-necros-dungeon.json) |
@@ -14221,6 +14223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puss! | 81128 | [81128-puss.json](./81128-puss.json) |
 | Pussies Wrestling Dicks | 211928 | [211928-pussies-wrestling-dicks.json](./211928-pussies-wrestling-dicks.json) |
 | Pussy 6 | 213547 | [213547-pussy-6.json](./213547-pussy-6.json) |
+| Pussy Flip: Purrfect Reversi | 64822 | [64822-pussy-flip-purrfect-reversi.json](./64822-pussy-flip-purrfect-reversi.json) |
 | Pussy Kingdom: Queen of Passion | 278393 | [278393-pussy-kingdom-queen-of-passion.json](./278393-pussy-kingdom-queen-of-passion.json) |
 | Pussy Password | 335306 | [335306-pussy-password.json](./335306-pussy-password.json) |
 | Pussy Puzzle | 128277 | [128277-pussy-puzzle.json](./128277-pussy-puzzle.json) |
@@ -14782,6 +14785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuzzleXor | 412258 | [412258-puzzlexor.json](./412258-puzzlexor.json) |
 | Puzzlez: A Shapez Game | 416764 | [416764-puzzlez-a-shapez-game.json](./416764-puzzlez-a-shapez-game.json) |
 | Puzzlezon | 181013 | [181013-puzzlezon.json](./181013-puzzlezon.json) |
+| Puzzli | 64814 | [64814-puzzli.json](./64814-puzzli.json) |
 | Puzzline | 224541 | [224541-puzzline.json](./224541-puzzline.json) |
 | Puzzling Languages: German/English | 115493 | [115493-puzzling-languages-german-english.json](./115493-puzzling-languages-german-english.json) |
 | Puzzling Peaks EXE | 158690 | [158690-puzzling-peaks-exe.json](./158690-puzzling-peaks-exe.json) |
