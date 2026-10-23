@@ -5971,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Love Sim Life Game | 296756 | [296756-high-school-love-sim-life-game.json](./296756-high-school-love-sim-life-game.json) |
 | High School Love: A Visual Novel Romance | 328519 | [328519-high-school-love-a-visual-novel-romance.json](./328519-high-school-love-a-visual-novel-romance.json) |
 | High School Maze 3D | 297633 | [297633-high-school-maze-3d.json](./297633-high-school-maze-3d.json) |
+| High School Musical | 79715 | [79715-high-school-musical.json](./79715-high-school-musical.json) |
 | High School Musical 2: Work This Out! | 21371 | [21371-high-school-musical-2-work-this-out.json](./21371-high-school-musical-2-work-this-out.json) |
 | High School Musical 3: High School Pinball | 402827 | [402827-high-school-musical-3-high-school-pinball.json](./402827-high-school-musical-3-high-school-pinball.json) |
 | High School Musical 3: Senior Year | 138091 | [138091-high-school-musical-3-senior-year.json](./138091-high-school-musical-3-senior-year.json) |
