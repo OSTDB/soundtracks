@@ -397,7 +397,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Packmates | 366231 | [366231-packmates.json](./366231-packmates.json) |
 | Packri Monster | 347688 | [347688-packri-monster.json](./347688-packri-monster.json) |
 | Packs Adventure | 100295 | [100295-packs-adventure.json](./100295-packs-adventure.json) |
+| Packs Land | 98825 | [98825-packs-land.json](./98825-packs-land.json) |
+| Packs Magic | 98822 | [98822-packs-magic.json](./98822-packs-magic.json) |
 | Packs Mega Sammlung | 78557 | [78557-packs-mega-sammlung.json](./78557-packs-mega-sammlung.json) |
+| Packs Revenge | 98823 | [98823-packs-revenge.json](./98823-packs-revenge.json) |
+| Packs World | 98827 | [98827-packs-world.json](./98827-packs-world.json) |
+| Packs World 2 | 98826 | [98826-packs-world-2.json](./98826-packs-world-2.json) |
 | Packy & Marlon | 42475 | [42475-packy-and-marlon.json](./42475-packy-and-marlon.json) |
 | PacMac Deluxe | 146224 | [146224-pacmac-deluxe.json](./146224-pacmac-deluxe.json) |
 | Pacmaga 2 | 217916 | [217916-pacmaga-2.json](./217916-pacmaga-2.json) |
@@ -1909,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Madness | 147736 | [147736-parking-madness.json](./147736-parking-madness.json) |
 | Parking Mania | 62763 | [62763-parking-mania.json](./62763-parking-mania.json) |
 | Parking Mania 2 | 261844 | [261844-parking-mania-2.json](./261844-parking-mania-2.json) |
+| Parking Mania HD | 98859 | [98859-parking-mania-hd.json](./98859-parking-mania-hd.json) |
 | Parking Master | 333087 | [333087-parking-master.json](./333087-parking-master.json) |
 | Parking Master Multiplayer | 198263 | [198263-parking-master-multiplayer.json](./198263-parking-master-multiplayer.json) |
 | Parking Masters | 313135 | [313135-parking-masters.json](./313135-parking-masters.json) |
@@ -2126,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Stars | 309181 | [309181-party-stars.json](./309181-party-stars.json) |
 | Party Talk Simulator | 183232 | [183232-party-talk-simulator.json](./183232-party-talk-simulator.json) |
 | Party Treats | 125055 | [125055-party-treats.json](./125055-party-treats.json) |
+| Party Trivia | 98839 | [98839-party-trivia.json](./98839-party-trivia.json) |
 | Party Versus | 326770 | [326770-party-versus.json](./326770-party-versus.json) |
 | Party Wave | 234506 | [234506-party-wave.json](./234506-party-wave.json) |
 | Party Words | 207543 | [207543-party-words.json](./207543-party-words.json) |
@@ -7570,6 +7577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platinum Pinball | 131266 | [131266-platinum-pinball.json](./131266-platinum-pinball.json) |
 | Platinum Solitaire 3 | 239473 | [239473-platinum-solitaire-3.json](./239473-platinum-solitaire-3.json) |
 | Platinum Sudoku | 263322 | [263322-platinum-sudoku.json](./263322-platinum-sudoku.json) |
+| Platinum Train: Nihon Juudan Tetsudou no Tabi | 98840 | [98840-platinum-train-nihon-juudan-tetsudou-no-tabi.json](./98840-platinum-train-nihon-juudan-tetsudou-no-tabi.json) |
 | Platinum White | 307137 | [307137-platinum-white.json](./307137-platinum-white.json) |
 | Plato | 86967 | [86967-plato.json](./86967-plato.json) |
 | Plato Interpreter | 42182 | [42182-plato-interpreter.json](./42182-plato-interpreter.json) |
@@ -10869,6 +10877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pre-RON MI5 Bob | 71007 | [71007-pre-ron-mi5-bob.json](./71007-pre-ron-mi5-bob.json) |
 | Pre-Shave | 149732 | [149732-pre-shave.json](./149732-pre-shave.json) |
 | Pre-Warp Age | 420494 | [420494-pre-warp-age.json](./420494-pre-warp-age.json) |
+| Pre:One | 98756 | [98756-pre-one.json](./98756-pre-one.json) |
 | Preacher | 261176 | [261176-preacher.json](./261176-preacher.json) |
 | Prebillian | 40398 | [40398-prebillian.json](./40398-prebillian.json) |
 | Precept | 328001 | [328001-precept.json](./328001-precept.json) |
