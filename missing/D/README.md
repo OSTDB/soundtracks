@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Quest: Remastered | 389079 | [389079-dark-quest-remastered.json](./389079-dark-quest-remastered.json) |
 | Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
 | Dark Realm: Guardian of Flames | 91168 | [91168-dark-realm-guardian-of-flames.json](./91168-dark-realm-guardian-of-flames.json) |
+| Dark Realm: Princess of Ice - Collector's Edition | 59147 | [59147-dark-realm-princess-of-ice-collectors-edition.json](./59147-dark-realm-princess-of-ice-collectors-edition.json) |
 | Dark Realm: Queen of Flames | 139797 | [139797-dark-realm-queen-of-flames.json](./139797-dark-realm-queen-of-flames.json) |
 | Dark Realm: Queen of Flames - Collector's Edition HD | 88309 | [88309-dark-realm-queen-of-flames-collectors-edition-hd.json](./88309-dark-realm-queen-of-flames-collectors-edition-hd.json) |
 | Dark Reaper Shoots! | 112068 | [112068-dark-reaper-shoots.json](./112068-dark-reaper-shoots.json) |
@@ -2799,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead GroundZ | 99038 | [99038-dead-groundz.json](./99038-dead-groundz.json) |
 | Dead Hand | 120740 | [120740-dead-hand.json](./120740-dead-hand.json) |
 | Dead Hand | 380244 | [380244-dead-hand.json](./380244-dead-hand.json) |
+| Dead Hand Drive | 59132 | [59132-dead-hand-drive.json](./59132-dead-hand-drive.json) |
 | Dead Head Fred | 21047 | [21047-dead-head-fred.json](./21047-dead-head-fred.json) |
 | Dead Hearts | 156563 | [156563-dead-hearts.json](./156563-dead-hearts.json) |
 | Dead Heat | 284966 | [284966-dead-heat.json](./284966-dead-heat.json) |
@@ -7156,6 +7158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon New Century | 174707 | [174707-digimon-new-century.json](./174707-digimon-new-century.json) |
 | Digimon Pendulum Ver.20th | 276079 | [276079-digimon-pendulum-ver-20th.json](./276079-digimon-pendulum-ver-20th.json) |
 | Digimon Pocket | 247403 | [247403-digimon-pocket.json](./247403-digimon-pocket.json) |
+| Digimon Soul Chaser | 59178 | [59178-digimon-soul-chaser.json](./59178-digimon-soul-chaser.json) |
 | Digimon Story Cyber Sleuth: Complete Edition | 120551 | [120551-digimon-story-cyber-sleuth-complete-edition.json](./120551-digimon-story-cyber-sleuth-complete-edition.json) |
 | Digimon Story Time Stranger: A Hero's Eternal Legacy | 416127 | [416127-digimon-story-time-stranger-a-heros-eternal-legacy.json](./416127-digimon-story-time-stranger-a-heros-eternal-legacy.json) |
 | Digimon Story Time Stranger: Deluxe Edition | 390528 | [390528-digimon-story-time-stranger-deluxe-edition.json](./390528-digimon-story-time-stranger-deluxe-edition.json) |
@@ -8286,6 +8289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Bonkers: Wax Up! | 57622 | [57622-disneys-bonkers-wax-up.json](./57622-disneys-bonkers-wax-up.json) |
 | Disney's Brother Bear | 248637 | [248637-disneys-brother-bear.json](./248637-disneys-brother-bear.json) |
 | Disney's Brother Bear | 49409 | [49409-disneys-brother-bear.json](./49409-disneys-brother-bear.json) |
+| Disney's Cartoon Arcade | 59164 | [59164-disneys-cartoon-arcade.json](./59164-disneys-cartoon-arcade.json) |
 | Disney's Chicken Little | 248552 | [248552-disneys-chicken-little.json](./248552-disneys-chicken-little.json) |
 | Disney's Chicken Little: Ace in Action | 200995 | [200995-disneys-chicken-little-ace-in-action.json](./200995-disneys-chicken-little-ace-in-action.json) |
 | Disney's Chicken Little: Ace in Action | 20627 | [20627-disneys-chicken-little-ace-in-action.json](./20627-disneys-chicken-little-ace-in-action.json) |
@@ -9119,6 +9123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Does it Stack? | 261196 | [261196-does-it-stack.json](./261196-does-it-stack.json) |
 | Does It Stack?: Full Stack Edition | 278672 | [278672-does-it-stack-full-stack-edition.json](./278672-does-it-stack-full-stack-edition.json) |
 | Does Money Grow on Trees | 184999 | [184999-does-money-grow-on-trees.json](./184999-does-money-grow-on-trees.json) |
+| Does not Commute | 59294 | [59294-does-not-commute.json](./59294-does-not-commute.json) |
 | Does The Moon Dream | 363054 | [363054-does-the-moon-dream.json](./363054-does-the-moon-dream.json) |
 | Dofbox | 397178 | [397178-dofbox.json](./397178-dofbox.json) |
 | Dofus | 18337 | [18337-dofus.json](./18337-dofus.json) |
@@ -9425,6 +9430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doko ni Iru? Hijouguchi no Pict-san | 251514 | [251514-doko-ni-iru-hijouguchi-no-pict-san.json](./251514-doko-ni-iru-hijouguchi-no-pict-san.json) |
 | Doko no Donata no Kanjou Root | 415854 | [415854-doko-no-donata-no-kanjou-root.json](./415854-doko-no-donata-no-kanjou-root.json) |
 | Dokoban | 290327 | [290327-dokoban.json](./290327-dokoban.json) |
+| Dokodemo Chinchin | 59127 | [59127-dokodemo-chinchin.json](./59127-dokodemo-chinchin.json) |
 | Dokodemo Crash-kun | 210242 | [210242-dokodemo-crash-kun.json](./210242-dokodemo-crash-kun.json) |
 | Dokodemo Dorayaki Doraemon | 199449 | [199449-dokodemo-dorayaki-doraemon.json](./199449-dokodemo-dorayaki-doraemon.json) |
 | Dokodemo Mahjong | 43966 | [43966-dokodemo-mahjong.json](./43966-dokodemo-mahjong.json) |
@@ -9777,6 +9783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Give Up: Not Ready to Die | 158530 | [158530-dont-give-up-not-ready-to-die.json](./158530-dont-give-up-not-ready-to-die.json) |
 | Don't Go | 267089 | [267089-dont-go.json](./267089-dont-go.json) |
 | Don't Go Bang! | 24966 | [24966-dont-go-bang.json](./24966-dont-go-bang.json) |
+| Don't Go in the Old Greene House | 59175 | [59175-dont-go-in-the-old-greene-house.json](./59175-dont-go-in-the-old-greene-house.json) |
 | Don't Go in the woods | 285443 | [285443-dont-go-in-the-woods.json](./285443-dont-go-in-the-woods.json) |
 | Don't Go Live | 399210 | [399210-dont-go-live.json](./399210-dont-go-live.json) |
 | Don't Go Maki-chan | 82715 | [82715-dont-go-maki-chan.json](./82715-dont-go-maki-chan.json) |
@@ -10700,6 +10707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot | 230965 | [230965-dot.json](./230965-dot.json) |
 | Dot | 328021 | [328021-dot.json](./328021-dot.json) |
 | Dot & Dot Dungeons | 295766 | [295766-dot-and-dot-dungeons.json](./295766-dot-and-dot-dungeons.json) |
+| Dot Arcade | 59290 | [59290-dot-arcade.json](./59290-dot-arcade.json) |
 | Dot Art Logic | 386990 | [386990-dot-art-logic.json](./386990-dot-art-logic.json) |
 | Dot Big Bang | 74797 | [74797-dot-big-bang.json](./74797-dot-big-bang.json) |
 | Dot Blocks! | 103853 | [103853-dot-blocks.json](./103853-dot-blocks.json) |
@@ -12248,6 +12256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drapline | 333105 | [333105-drapline.json](./333105-drapline.json) |
 | Dráscula: The Vampire Strikes Back | 117600 | [117600-drascula-the-vampire-strikes-back.json](./117600-drascula-the-vampire-strikes-back.json) |
 | Drasle Family: Pochi & Bochi | 342621 | [342621-drasle-family-pochi-and-bochi.json](./342621-drasle-family-pochi-and-bochi.json) |
+| Drastic Killer | 59170 | [59170-drastic-killer.json](./59170-drastic-killer.json) |
 | Draugen: Collector's Edition | 124776 | [124776-draugen-collectors-edition.json](./124776-draugen-collectors-edition.json) |
 | Draught | 383170 | [383170-draught.json](./383170-draught.json) |
 | Draught Kraft | 133352 | [133352-draught-kraft.json](./133352-draught-kraft.json) |
