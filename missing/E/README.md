@@ -2306,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emblem Wordle | 410099 | [410099-emblem-wordle.json](./410099-emblem-wordle.json) |
 | Emblems: Sunless Vow | 294291 | [294291-emblems-sunless-vow.json](./294291-emblems-sunless-vow.json) |
 | Embodiment | 211125 | [211125-embodiment.json](./211125-embodiment.json) |
+| EmbodyMe | 56330 | [56330-embodyme.json](./56330-embodyme.json) |
 | Embr | 117312 | [117312-embr.json](./117312-embr.json) |
 | Embr: Secret Hosr | 193106 | [193106-embr-secret-hosr.json](./193106-embr-secret-hosr.json) |
 | Embrace | 177866 | [177866-embrace.json](./177866-embrace.json) |
