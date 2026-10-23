@@ -3679,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help! I've Been Cursed With A Bubble Butt | 337469 | [337469-help-ive-been-cursed-with-a-bubble-butt.json](./337469-help-ive-been-cursed-with-a-bubble-butt.json) |
 | Help! My New Roommate Is a Hung Goth Futanari Ghost! | 369164 | [369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json](./369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json) |
 | Helper to Hero | 271410 | [271410-helper-to-hero.json](./271410-helper-to-hero.json) |
+| Helping Frankenstein | 96581 | [96581-helping-frankenstein.json](./96581-helping-frankenstein.json) |
 | Helping Hand | 104858 | [104858-helping-hand.json](./104858-helping-hand.json) |
 | Helping Hand | 365739 | [365739-helping-hand.json](./365739-helping-hand.json) |
 | Helpless Zombies | 96938 | [96938-helpless-zombies.json](./96938-helpless-zombies.json) |
@@ -4153,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Puzzle: Tropical Seduction | 340446 | [340446-hentai-puzzle-tropical-seduction.json](./340446-hentai-puzzle-tropical-seduction.json) |
 | Hentai Puzzle: Volleyball Girls | 342400 | [342400-hentai-puzzle-volleyball-girls.json](./342400-hentai-puzzle-volleyball-girls.json) |
 | Hentai Puzzle: Winter Passion | 340447 | [340447-hentai-puzzle-winter-passion.json](./340447-hentai-puzzle-winter-passion.json) |
+| Hentai Puzzles | 96468 | [96468-hentai-puzzles.json](./96468-hentai-puzzles.json) |
 | Hentai Puzzles: Attack on Tight Panties | 245767 | [245767-hentai-puzzles-attack-on-tight-panties.json](./245767-hentai-puzzles-attack-on-tight-panties.json) |
 | Hentai Queens | 149431 | [149431-hentai-queens.json](./149431-hentai-queens.json) |
 | Hentai Rika | 340448 | [340448-hentai-rika.json](./340448-hentai-rika.json) |
@@ -5074,6 +5076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexaTerra | 320564 | [320564-hexaterra.json](./320564-hexaterra.json) |
 | Hexavale | 360063 | [360063-hexavale.json](./360063-hexavale.json) |
 | Hexaverse Adventures | 249252 | [249252-hexaverse-adventures.json](./249252-hexaverse-adventures.json) |
+| Hexavoid 2 | 96586 | [96586-hexavoid-2.json](./96586-hexavoid-2.json) |
 | Hexawar | 97259 | [97259-hexawar.json](./97259-hexawar.json) |
 | HexaWars | 260151 | [260151-hexawars.json](./260151-hexawars.json) |
 | Hexaword | 386725 | [386725-hexaword.json](./386725-hexaword.json) |
