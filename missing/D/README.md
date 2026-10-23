@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Da Will | 274125 | [274125-da-will.json](./274125-da-will.json) |
 | DA-VI-NC1 | 360596 | [360596-da-vi-nc1.json](./360596-da-vi-nc1.json) |
 | Da! Russian Quiz | 161258 | [161258-da-russian-quiz.json](./161258-da-russian-quiz.json) |
+| Daabiidoggu | 91683 | [91683-daabiidoggu.json](./91683-daabiidoggu.json) |
 | Daahrien's A.P.H.R.O.D.I.T.E. | 247673 | [247673-daahriens-a-p-h-r-o-d-i-t-e.json](./247673-daahriens-a-p-h-r-o-d-i-t-e.json) |
 | Daardoa | 151190 | [151190-daardoa.json](./151190-daardoa.json) |
 | Dab on 'em Haterz | 81781 | [81781-dab-on-em-haterz.json](./81781-dab-on-em-haterz.json) |
@@ -514,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dampftraum | 201111 | [201111-dampftraum.json](./201111-dampftraum.json) |
 | Damsel | 58533 | [58533-damsel.json](./58533-damsel.json) |
 | Damsels in Distress | 276199 | [276199-damsels-in-distress.json](./276199-damsels-in-distress.json) |
+| Damzel | 91825 | [91825-damzel.json](./91825-damzel.json) |
 | Dan Dare II: Mekon's Revenge | 13567 | [13567-dan-dare-ii-mekons-revenge.json](./13567-dan-dare-ii-mekons-revenge.json) |
 | Dan Dare III: The Escape | 12032 | [12032-dan-dare-iii-the-escape.json](./12032-dan-dare-iii-the-escape.json) |
 | Dan Dare: Pilot of the Future | 12989 | [12989-dan-dare-pilot-of-the-future.json](./12989-dan-dare-pilot-of-the-future.json) |
@@ -8837,6 +8839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doces & Calabouços: Caos no Reino do Doce | 335244 | [335244-doces-and-calaboucos-caos-no-reino-do-doce.json](./335244-doces-and-calaboucos-caos-no-reino-do-doce.json) |
 | Docile Fright | 237212 | [237212-docile-fright.json](./237212-docile-fright.json) |
 | Dock King | 204420 | [204420-dock-king.json](./204420-dock-king.json) |
+| Dock'em | 91706 | [91706-dockem.json](./91706-dockem.json) |
 | Docked: Deep Waters | 405957 | [405957-docked-deep-waters.json](./405957-docked-deep-waters.json) |
 | Docked: DLC 2 | 398957 | [398957-docked-dlc-2.json](./398957-docked-dlc-2.json) |
 | Docked: New Horizons Pack | 398958 | [398958-docked-new-horizons-pack.json](./398958-docked-new-horizons-pack.json) |
@@ -10475,9 +10478,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Gadget Rush | 259527 | [259527-doraemon-gadget-rush.json](./259527-doraemon-gadget-rush.json) |
 | Doraemon Gakushuu Collection | 141584 | [141584-doraemon-gakushuu-collection.json](./141584-doraemon-gakushuu-collection.json) |
 | Doraemon Giga Pad | 314371 | [314371-doraemon-giga-pad.json](./314371-doraemon-giga-pad.json) |
+| Doraemon Memories: Nobita no Omoide Daibouken | 91776 | [91776-doraemon-memories-nobita-no-omoide-daibouken.json](./91776-doraemon-memories-nobita-no-omoide-daibouken.json) |
 | Doraemon no Bouken Meiro | 349437 | [349437-doraemon-no-bouken-meiro.json](./349437-doraemon-no-bouken-meiro.json) |
 | Doraemon no Eawase Montage | 349436 | [349436-doraemon-no-eawase-montage.json](./349436-doraemon-no-eawase-montage.json) |
 | Doraemon no Eawase Montage | 376530 | [376530-doraemon-no-eawase-montage.json](./376530-doraemon-no-eawase-montage.json) |
+| Doraemon no Game Boy de Asobou yo Deluxe 10 | 91778 | [91778-doraemon-no-game-boy-de-asobou-yo-deluxe-10.json](./91778-doraemon-no-game-boy-de-asobou-yo-deluxe-10.json) |
 | Doraemon no Study Boy: Kuku Game | 65537 | [65537-doraemon-no-study-boy-kuku-game.json](./65537-doraemon-no-study-boy-kuku-game.json) |
 | Doraemon Pocket Drill Moji Quiz | 310524 | [310524-doraemon-pocket-drill-moji-quiz.json](./310524-doraemon-pocket-drill-moji-quiz.json) |
 | Doraemon Step-Up PC | 314372 | [314372-doraemon-step-up-pc.json](./314372-doraemon-step-up-pc.json) |
@@ -10489,8 +10494,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Tanoshiku o-Keiko Hiragana Katakana | 327574 | [327574-doraemon-tanoshiku-o-keiko-hiragana-katakana.json](./327574-doraemon-tanoshiku-o-keiko-hiragana-katakana.json) |
 | Doraemon Waku-waku Sekai Isshuu Game: Asonde Oboeru Chizu Kokki | 327575 | [327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json](./327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json) |
 | Doraemon Wii: Himitsu Douguou Ketteisen! | 91773 | [91773-doraemon-wii-himitsu-douguou-ketteisen.json](./91773-doraemon-wii-himitsu-douguou-ketteisen.json) |
+| Doraemon: Aruke Aruke Labyrinth | 91777 | [91777-doraemon-aruke-aruke-labyrinth.json](./91777-doraemon-aruke-aruke-labyrinth.json) |
 | Doraemon: Dorayaki House | 310670 | [310670-doraemon-dorayaki-house.json](./310670-doraemon-dorayaki-house.json) |
 | Doraemon: Giga Zombie no Gyakushuu | 48523 | [48523-doraemon-giga-zombie-no-gyakushuu.json](./48523-doraemon-giga-zombie-no-gyakushuu.json) |
+| Doraemon: Kimi to Pet no Monogatari | 91775 | [91775-doraemon-kimi-to-pet-no-monogatari.json](./91775-doraemon-kimi-to-pet-no-monogatari.json) |
 | Doraemon: Meikyuu Daisakusen | 43194 | [43194-doraemon-meikyuu-daisakusen.json](./43194-doraemon-meikyuu-daisakusen.json) |
 | Doraemon: Midori no Wakusei Doki-doki Daikyuushutsu! | 49265 | [49265-doraemon-midori-no-wakusei-doki-doki-daikyuushutsu.json](./49265-doraemon-midori-no-wakusei-doki-doki-daikyuushutsu.json) |
 | Doraemon: Minna de Asobou! Mini Doland | 50587 | [50587-doraemon-minna-de-asobou-mini-doland.json](./50587-doraemon-minna-de-asobou-mini-doland.json) |
