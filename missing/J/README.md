@@ -537,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japan Food Adventure - Tokyo | 100316 | [100316-japan-food-adventure-tokyo.json](./100316-japan-food-adventure-tokyo.json) |
 | Japan Food Adventure HD | 174576 | [174576-japan-food-adventure-hd.json](./174576-japan-food-adventure-hd.json) |
 | Japan Mahjong | 334660 | [334660-japan-mahjong.json](./334660-japan-mahjong.json) |
+| Japan Scenery Disk | 69703 | [69703-japan-scenery-disk.json](./69703-japan-scenery-disk.json) |
 | Japan Stigmatized Property | 357171 | [357171-japan-stigmatized-property.json](./357171-japan-stigmatized-property.json) |
 | Japan Stigmatized Property 2 | 382003 | [382003-japan-stigmatized-property-2.json](./382003-japan-stigmatized-property-2.json) |
 | Japan Studio VR Music Festival | 68296 | [68296-japan-studio-vr-music-festival.json](./68296-japan-studio-vr-music-festival.json) |
