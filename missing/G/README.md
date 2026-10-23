@@ -122,13 +122,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.G Series Collection + | 66965 | [66965-g-g-series-collection.json](./66965-g-g-series-collection.json) |
 | G.G Series: Air Pinball Hockey | 60083 | [60083-g-g-series-air-pinball-hockey.json](./60083-g-g-series-air-pinball-hockey.json) |
 | G.G Series: All Breaker | 85160 | [85160-g-g-series-all-breaker.json](./85160-g-g-series-all-breaker.json) |
+| G.G Series: Altered Weapon | 84653 | [84653-g-g-series-altered-weapon.json](./84653-g-g-series-altered-weapon.json) |
+| G.G Series: Assault Buster | 84655 | [84655-g-g-series-assault-buster.json](./84655-g-g-series-assault-buster.json) |
+| G.G Series: Black X Block | 84654 | [84654-g-g-series-black-x-block.json](./84654-g-g-series-black-x-block.json) |
+| G.G Series: Conveyor Toy Packing | 84652 | [84652-g-g-series-conveyor-toy-packing.json](./84652-g-g-series-conveyor-toy-packing.json) |
+| G.G Series: Cosmo Rally!! | 84651 | [84651-g-g-series-cosmo-rally.json](./84651-g-g-series-cosmo-rally.json) |
 | G.G Series: D-Tank | 84546 | [84546-g-g-series-d-tank.json](./84546-g-g-series-d-tank.json) |
+| G.G Series: Drift Circuit | 84649 | [84649-g-g-series-drift-circuit.json](./84649-g-g-series-drift-circuit.json) |
+| G.G Series: Drilling Attack!! | 84650 | [84650-g-g-series-drilling-attack.json](./84650-g-g-series-drilling-attack.json) |
 | G.G Series: Great Whip Adventure | 84567 | [84567-g-g-series-great-whip-adventure.json](./84567-g-g-series-great-whip-adventure.json) |
 | G.G Series: Hero Puzzle | 84569 | [84569-g-g-series-hero-puzzle.json](./84569-g-g-series-hero-puzzle.json) |
+| G.G Series: Ninja Karakuri Den | 84648 | [84648-g-g-series-ninja-karakuri-den.json](./84648-g-g-series-ninja-karakuri-den.json) |
 | G.G Series: Nyokki | 84568 | [84568-g-g-series-nyokki.json](./84568-g-g-series-nyokki.json) |
 | G.G Series: Run & Strike | 60080 | [60080-g-g-series-run-and-strike.json](./60080-g-g-series-run-and-strike.json) |
 | G.G Series: Score Attacker | 84566 | [84566-g-g-series-score-attacker.json](./84566-g-g-series-score-attacker.json) |
 | G.G Series: Shadow Army | 84565 | [84565-g-g-series-shadow-army.json](./84565-g-g-series-shadow-army.json) |
+| G.G Series: Super Hero Ogre | 84647 | [84647-g-g-series-super-hero-ogre.json](./84647-g-g-series-super-hero-ogre.json) |
 | G.G Series: Tetsubou | 91391 | [91391-g-g-series-tetsubou.json](./91391-g-g-series-tetsubou.json) |
 | G.G Series: The Hidden Ninja Kagemaru | 84564 | [84564-g-g-series-the-hidden-ninja-kagemaru.json](./84564-g-g-series-the-hidden-ninja-kagemaru.json) |
 | G.G Series: The Last Knight | 84563 | [84563-g-g-series-the-last-knight.json](./84563-g-g-series-the-last-knight.json) |
@@ -760,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Roll | 358429 | [358429-galaxy-roll.json](./358429-galaxy-roll.json) |
 | Galaxy Rush | 310834 | [310834-galaxy-rush.json](./310834-galaxy-rush.json) |
 | Galaxy Rushroom | 116024 | [116024-galaxy-rushroom.json](./116024-galaxy-rushroom.json) |
+| Galaxy Saver | 84646 | [84646-galaxy-saver.json](./84646-galaxy-saver.json) |
 | Galaxy Shooter Space War Games | 231949 | [231949-galaxy-shooter-space-war-games.json](./231949-galaxy-shooter-space-war-games.json) |
 | Galaxy Shooting: Alien War | 105539 | [105539-galaxy-shooting-alien-war.json](./105539-galaxy-shooting-alien-war.json) |
 | Galaxy Sphere | 180066 | [180066-galaxy-sphere.json](./180066-galaxy-sphere.json) |
@@ -935,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game & Watch Manhole | 84549 | [84549-game-and-watch-manhole.json](./84549-game-and-watch-manhole.json) |
 | Game & Watch Mario's Cement Factory | 206933 | [206933-game-and-watch-marios-cement-factory.json](./206933-game-and-watch-marios-cement-factory.json) |
 | Game & Watch Mario's Cement Factory | 339262 | [339262-game-and-watch-marios-cement-factory.json](./339262-game-and-watch-marios-cement-factory.json) |
+| Game & Watch Vermin | 84645 | [84645-game-and-watch-vermin.json](./84645-game-and-watch-vermin.json) |
 | Game & Watch-e Collection | 231716 | [231716-game-and-watch-e-collection.json](./231716-game-and-watch-e-collection.json) |
 | Game & Watch-e: Fire | 232892 | [232892-game-and-watch-e-fire.json](./232892-game-and-watch-e-fire.json) |
 | Game & Watch-e: Fire | 232893 | [232893-game-and-watch-e-fire.json](./232893-game-and-watch-e-fire.json) |
@@ -1226,7 +1237,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games Around the World | 205921 | [205921-games-around-the-world.json](./205921-games-around-the-world.json) |
 | Games Designer Samples | 352326 | [352326-games-designer-samples.json](./352326-games-designer-samples.json) |
 | Games Explosion | 18260 | [18260-games-explosion.json](./18260-games-explosion.json) |
+| Games Festival Volume 1 | 84644 | [84644-games-festival-volume-1.json](./84644-games-festival-volume-1.json) |
+| Games Festival Volume 2 | 84642 | [84642-games-festival-volume-2.json](./84642-games-festival-volume-2.json) |
 | Games for Stream! | 266856 | [266856-games-for-stream.json](./266856-games-for-stream.json) |
+| Games For Toddlers | 84641 | [84641-games-for-toddlers.json](./84641-games-for-toddlers.json) |
 | Games for Toddlers 2 | 147977 | [147977-games-for-toddlers-2.json](./147977-games-for-toddlers-2.json) |
 | Games Galaxy 2 | 66946 | [66946-games-galaxy-2.json](./66946-games-galaxy-2.json) |
 | Games in Tight Spaces | 381883 | [381883-games-in-tight-spaces.json](./381883-games-in-tight-spaces.json) |
@@ -1920,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gearheads | 92925 | [92925-gearheads.json](./92925-gearheads.json) |
 | Gearlock: Episode 1 | 381719 | [381719-gearlock-episode-1.json](./381719-gearlock-episode-1.json) |
 | Gears | 240078 | [240078-gears.json](./240078-gears.json) |
+| Gears | 84639 | [84639-gears.json](./84639-gears.json) |
 | Gears 5: Game of the Year Edition | 142818 | [142818-gears-5-game-of-the-year-edition.json](./142818-gears-5-game-of-the-year-edition.json) |
 | Gears 5: Ultimate Edition | 122658 | [122658-gears-5-ultimate-edition.json](./122658-gears-5-ultimate-edition.json) |
 | Gears Forever | 297511 | [297511-gears-forever.json](./297511-gears-forever.json) |
@@ -1998,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geisterbahnhof | 362990 | [362990-geisterbahnhof.json](./362990-geisterbahnhof.json) |
 | Geki Atsu!! Pachige Damashii Vol.2: Evangelion - Shinjitsu no Tsubasa | 178404 | [178404-geki-atsu-pachige-damashii-vol-2-evangelion-shinjitsu-no-tsubasa.json](./178404-geki-atsu-pachige-damashii-vol-2-evangelion-shinjitsu-no-tsubasa.json) |
 | Geki Kuukan Pro Baseball: At the End of the Century 1999 | 302700 | [302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json](./302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json) |
+| Geki Yaba Runner Deluxe | 84638 | [84638-geki-yaba-runner-deluxe.json](./84638-geki-yaba-runner-deluxe.json) |
 | Geki Yaba Runner Habanero | 222389 | [222389-geki-yaba-runner-habanero.json](./222389-geki-yaba-runner-habanero.json) |
 | Gekiatsu!! Pachige Tamashii Max Evangelion 7 x Seimei no Kodou | 249698 | [249698-gekiatsu-pachige-tamashii-max-evangelion-7-x-seimei-no-kodou.json](./249698-gekiatsu-pachige-tamashii-max-evangelion-7-x-seimei-no-kodou.json) |
 | Gekibo: Gekisha Boy | 43199 | [43199-gekibo-gekisha-boy.json](./43199-gekibo-gekisha-boy.json) |
@@ -2043,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Blast | 311785 | [311785-gem-blast.json](./311785-gem-blast.json) |
 | Gem Blocks | 93822 | [93822-gem-blocks.json](./93822-gem-blocks.json) |
 | Gem Brawl Duel | 399732 | [399732-gem-brawl-duel.json](./399732-gem-brawl-duel.json) |
+| Gem Break | 84637 | [84637-gem-break.json](./84637-gem-break.json) |
 | Gem Crash | 112816 | [112816-gem-crash.json](./112816-gem-crash.json) |
 | Gem Crush Match-3 | 397258 | [397258-gem-crush-match-3.json](./397258-gem-crush-match-3.json) |
 | Gem Defense | 256226 | [256226-gem-defense.json](./256226-gem-defense.json) |
