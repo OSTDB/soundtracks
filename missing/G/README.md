@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Neo Poke-Kun | 43970 | [43970-ganbare-neo-poke-kun.json](./43970-ganbare-neo-poke-kun.json) |
 | Ganbare Pennant Race! | 48529 | [48529-ganbare-pennant-race.json](./48529-ganbare-pennant-race.json) |
 | Ganbare Untenshi!! | 380675 | [380675-ganbare-untenshi.json](./380675-ganbare-untenshi.json) |
+| Ganbare! Bokura no Compati Heroes | 63047 | [63047-ganbare-bokura-no-compati-heroes.json](./63047-ganbare-bokura-no-compati-heroes.json) |
 | Ganbare! Dodge Fighters | 49610 | [49610-ganbare-dodge-fighters.json](./49610-ganbare-dodge-fighters.json) |
 | Ganbare! Gonta!! 2 | 40142 | [40142-ganbare-gonta-2.json](./40142-ganbare-gonta-2.json) |
 | Ganbare! Inu-chan: Rock'n Roll-hen | 280460 | [280460-ganbare-inu-chan-rockn-roll-hen.json](./280460-ganbare-inu-chan-rockn-roll-hen.json) |
