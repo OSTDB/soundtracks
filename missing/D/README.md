@@ -14835,6 +14835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DW | 168616 | [168616-dw.json](./168616-dw.json) |
 | Dwango5 | 143038 | [143038-dwango5.json](./143038-dwango5.json) |
 | Dwarf | 292069 | [292069-dwarf.json](./292069-dwarf.json) |
+| Dwarf | 83341 | [83341-dwarf.json](./83341-dwarf.json) |
 | Dwarf Boozter | 353619 | [353619-dwarf-boozter.json](./353619-dwarf-boozter.json) |
 | Dwarf Complete | 191796 | [191796-dwarf-complete.json](./191796-dwarf-complete.json) |
 | Dwarf Core | 417611 | [417611-dwarf-core.json](./417611-dwarf-core.json) |
