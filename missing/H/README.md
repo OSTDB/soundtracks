@@ -2608,6 +2608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Muriet | 143361 | [143361-heart-of-muriet.json](./143361-heart-of-muriet.json) |
 | Heart Of Nadia | 288236 | [288236-heart-of-nadia.json](./288236-heart-of-nadia.json) |
 | Heart of Saphilamun | 230220 | [230220-heart-of-saphilamun.json](./230220-heart-of-saphilamun.json) |
+| Heart of Scrap | 56341 | [56341-heart-of-scrap.json](./56341-heart-of-scrap.json) |
 | Heart of Sengoku | 250237 | [250237-heart-of-sengoku.json](./250237-heart-of-sengoku.json) |
 | Heart of Siam | 158916 | [158916-heart-of-siam.json](./158916-heart-of-siam.json) |
 | Heart of Stone | 361003 | [361003-heart-of-stone.json](./361003-heart-of-stone.json) |
