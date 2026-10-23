@@ -4717,6 +4717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire in the Goal | 31170 | [31170-fire-in-the-goal.json](./31170-fire-in-the-goal.json) |
 | Fire in the Hole | 381019 | [381019-fire-in-the-hole.json](./381019-fire-in-the-hole.json) |
 | Fire Jump | 390807 | [390807-fire-jump.json](./390807-fire-jump.json) |
+| Fire King | 74872 | [74872-fire-king.json](./74872-fire-king.json) |
 | Fire Lancer | 182186 | [182186-fire-lancer.json](./182186-fire-lancer.json) |
 | Fire Lookout: Abandoned Post | 401664 | [401664-fire-lookout-abandoned-post.json](./401664-fire-lookout-abandoned-post.json) |
 | Fire Man | 247018 | [247018-fire-man.json](./247018-fire-man.json) |
