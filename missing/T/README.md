@@ -1865,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Builder | 75141 | [75141-tap-tap-builder.json](./75141-tap-tap-builder.json) |
 | Tap tap cartoonist - Cartoon999 | 95824 | [95824-tap-tap-cartoonist-cartoon999.json](./95824-tap-tap-cartoonist-cartoon999.json) |
 | Tap Tap Computer | 193836 | [193836-tap-tap-computer.json](./193836-tap-tap-computer.json) |
+| Tap Tap Dance | 92337 | [92337-tap-tap-dance.json](./92337-tap-tap-dance.json) |
 | Tap Tap Dash | 88877 | [88877-tap-tap-dash.json](./88877-tap-tap-dash.json) |
 | Tap Tap Dig - Idle Clicker Game | 100780 | [100780-tap-tap-dig-idle-clicker-game.json](./100780-tap-tap-dig-idle-clicker-game.json) |
 | Tap Tap Dig 2 | 220192 | [220192-tap-tap-dig-2.json](./220192-tap-tap-dig-2.json) |
@@ -13265,6 +13266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs Party Pack | 79212 | [79212-the-smurfs-party-pack.json](./79212-the-smurfs-party-pack.json) |
 | The Smurfs Travel the World | 287148 | [287148-the-smurfs-travel-the-world.json](./287148-the-smurfs-travel-the-world.json) |
 | The Smurfs Travel the World | 287150 | [287150-the-smurfs-travel-the-world.json](./287150-the-smurfs-travel-the-world.json) |
+| The Smurfs: Arcade Action | 92325 | [92325-the-smurfs-arcade-action.json](./92325-the-smurfs-arcade-action.json) |
 | The Smurfs: Colorful Stories | 275888 | [275888-the-smurfs-colorful-stories.json](./275888-the-smurfs-colorful-stories.json) |
 | The Smurfs: Colorful Stories - Amazing Edition | 328788 | [328788-the-smurfs-colorful-stories-amazing-edition.json](./328788-the-smurfs-colorful-stories-amazing-edition.json) |
 | The Smurfs: Colorful Stories - Complete + | 328824 | [328824-the-smurfs-colorful-stories-complete.json](./328824-the-smurfs-colorful-stories-complete.json) |
@@ -13607,6 +13609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sun and Moon | 17811 | [17811-the-sun-and-moon.json](./17811-the-sun-and-moon.json) |
 | The Sun at Night | 9049 | [9049-the-sun-at-night.json](./9049-the-sun-at-night.json) |
 | The Sun Atop a Column | 225240 | [225240-the-sun-atop-a-column.json](./225240-the-sun-atop-a-column.json) |
+| The Sun Crossword Challenge | 92333 | [92333-the-sun-crossword-challenge.json](./92333-the-sun-crossword-challenge.json) |
 | The Sun Crosswords: Volume 1 & 2 | 118165 | [118165-the-sun-crosswords-volume-1-and-2.json](./118165-the-sun-crosswords-volume-1-and-2.json) |
 | The Sun Does Not Exist | 128543 | [128543-the-sun-does-not-exist.json](./128543-the-sun-does-not-exist.json) |
 | The Sun Never Sets | 38962 | [38962-the-sun-never-sets.json](./38962-the-sun-never-sets.json) |
@@ -15529,6 +15532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | These Out of Control Booty Shaking Kittens are Ruining My Castlevania! | 184745 | [184745-these-out-of-control-booty-shaking-kittens-are-ruining-my-castlevania.json](./184745-these-out-of-control-booty-shaking-kittens-are-ruining-my-castlevania.json) |
 | These Robotic Hearts of Mine | 22920 | [22920-these-robotic-hearts-of-mine.json](./22920-these-robotic-hearts-of-mine.json) |
 | These Thieving Hearts | 289966 | [289966-these-thieving-hearts.json](./289966-these-thieving-hearts.json) |
+| Theseis | 92339 | [92339-theseis.json](./92339-theseis.json) |
 | Theseus | 139912 | [139912-theseus.json](./139912-theseus.json) |
 | Theseus and the Minotaur | 24904 | [24904-theseus-and-the-minotaur.json](./24904-theseus-and-the-minotaur.json) |
 | Theseus Protocol | 216694 | [216694-theseus-protocol.json](./216694-theseus-protocol.json) |
@@ -20267,6 +20271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Sailor | 175143 | [175143-top-sailor.json](./175143-top-sailor.json) |
 | Top Secret | 171498 | [171498-top-secret.json](./171498-top-secret.json) |
 | Top Secret | 75967 | [75967-top-secret.json](./75967-top-secret.json) |
+| Top Shot II | 92323 | [92323-top-shot-ii.json](./92323-top-shot-ii.json) |
 | Top Skater | 18047 | [18047-top-skater.json](./18047-top-skater.json) |
 | Top Solitaire | 87111 | [87111-top-solitaire.json](./87111-top-solitaire.json) |
 | Top Speed 2 | 119378 | [119378-top-speed-2.json](./119378-top-speed-2.json) |
@@ -25525,6 +25530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumor Necrosis Factor: Amen | 386716 | [386716-tumor-necrosis-factor-amen.json](./386716-tumor-necrosis-factor-amen.json) |
 | Tums: Battle of the Burn | 61430 | [61430-tums-battle-of-the-burn.json](./61430-tums-battle-of-the-burn.json) |
 | Tun Shi Tian Di III | 330523 | [330523-tun-shi-tian-di-iii.json](./330523-tun-shi-tian-di-iii.json) |
+| Tun Town 2 | 92327 | [92327-tun-town-2.json](./92327-tun-town-2.json) |
 | Tuna Roll | 325826 | [325826-tuna-roll.json](./325826-tuna-roll.json) |
 | Tuna The Cat | 249184 | [249184-tuna-the-cat.json](./249184-tuna-the-cat.json) |
 | Tunche | 96092 | [96092-tunche.json](./96092-tunche.json) |
@@ -26426,6 +26432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type 'n Jump | 183995 | [183995-type-n-jump.json](./183995-type-n-jump.json) |
 | Type & Hope!! | 317364 | [317364-type-and-hope.json](./317364-type-and-hope.json) |
 | Type & Tell | 41579 | [41579-type-and-tell.json](./41579-type-and-tell.json) |
+| Type 3 | 92338 | [92338-type-3.json](./92338-type-3.json) |
 | Type Attack | 95352 | [95352-type-attack.json](./95352-type-attack.json) |
 | Type da Puyo Puyo | 63839 | [63839-type-da-puyo-puyo.json](./63839-type-da-puyo-puyo.json) |
 | Type Defense | 105660 | [105660-type-defense.json](./105660-type-defense.json) |
