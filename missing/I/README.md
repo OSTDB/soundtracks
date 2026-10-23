@@ -2093,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperialism:The Dark Continent | 105521 | [105521-imperialism-the-dark-continent.json](./105521-imperialism-the-dark-continent.json) |
 | Imperialist | 400247 | [400247-imperialist.json](./400247-imperialist.json) |
 | Imperian | 78655 | [78655-imperian.json](./78655-imperian.json) |
+| Imperil | 74186 | [74186-imperil.json](./74186-imperil.json) |
 | Imperion | 243217 | [243217-imperion.json](./243217-imperion.json) |
 | Imperishable Memories | 109564 | [109564-imperishable-memories.json](./109564-imperishable-memories.json) |
 | Imperium | 13070 | [13070-imperium.json](./13070-imperium.json) |
@@ -2755,6 +2756,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indy 4 | 18583 | [18583-indy-4.json](./18583-indy-4.json) |
 | Indy 500 | 199427 | [199427-indy-500.json](./199427-indy-500.json) |
 | Indy 500 | 39460 | [39460-indy-500.json](./39460-indy-500.json) |
+| Indy 500 | 74170 | [74170-indy-500.json](./74170-indy-500.json) |
+| Indy 500 | 74171 | [74171-indy-500.json](./74171-indy-500.json) |
+| Indy 500 | 74172 | [74172-indy-500.json](./74172-indy-500.json) |
 | Indy 800 | 18210 | [18210-indy-800.json](./18210-indy-800.json) |
 | Indy Cat and Ball of Fate | 59449 | [59449-indy-cat-and-ball-of-fate.json](./59449-indy-cat-and-ball-of-fate.json) |
 | Indy Pro '22: Rebirth of the Territories | 195633 | [195633-indy-pro-22-rebirth-of-the-territories.json](./195633-indy-pro-22-rebirth-of-the-territories.json) |
