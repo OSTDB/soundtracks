@@ -1871,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neomorph | 127679 | [127679-neomorph.json](./127679-neomorph.json) |
 | Neon | 172056 | [172056-neon.json](./172056-neon.json) |
 | Neon | 183338 | [183338-neon.json](./183338-neon.json) |
+| Neon | 74181 | [74181-neon.json](./74181-neon.json) |
 | Neon | 78351 | [78351-neon.json](./78351-neon.json) |
 | Neon Abyss | 116100 | [116100-neon-abyss.json](./116100-neon-abyss.json) |
 | Neon Abyss 2 | 325279 | [325279-neon-abyss-2.json](./325279-neon-abyss-2.json) |
@@ -4082,6 +4083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Girl Ayame | 82630 | [82630-ninja-girl-ayame.json](./82630-ninja-girl-ayame.json) |
 | Ninja Girls: Kunoichi Puzzle | 315840 | [315840-ninja-girls-kunoichi-puzzle.json](./315840-ninja-girls-kunoichi-puzzle.json) |
 | Ninja Glove | 338937 | [338937-ninja-glove.json](./338937-ninja-glove.json) |
+| Ninja Goemon and Immortal Jewels | 74202 | [74202-ninja-goemon-and-immortal-jewels.json](./74202-ninja-goemon-and-immortal-jewels.json) |
 | Ninja Golf | 11121 | [11121-ninja-golf.json](./11121-ninja-golf.json) |
 | Ninja Grannies | 70859 | [70859-ninja-grannies.json](./70859-ninja-grannies.json) |
 | Ninja Guy | 27582 | [27582-ninja-guy.json](./27582-ninja-guy.json) |
