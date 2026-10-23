@@ -4049,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow Hockey HD - 2 Player Neon Light Air Hockey | 103546 | [103546-glow-hockey-hd-2-player-neon-light-air-hockey.json](./103546-glow-hockey-hd-2-player-neon-light-air-hockey.json) |
 | Glow Journey | 339310 | [339310-glow-journey.json](./339310-glow-journey.json) |
 | Glow of Honeydew | 395182 | [395182-glow-of-honeydew.json](./395182-glow-of-honeydew.json) |
+| Glow Puzzle | 96568 | [96568-glow-puzzle.json](./96568-glow-puzzle.json) |
 | Glow Puzzle by Glosculptor | 94787 | [94787-glow-puzzle-by-glosculptor.json](./94787-glow-puzzle-by-glosculptor.json) |
 | Glow Rings Puzzle | 106975 | [106975-glow-rings-puzzle.json](./106975-glow-rings-puzzle.json) |
 | Glow Stairs | 174358 | [174358-glow-stairs.json](./174358-glow-stairs.json) |
