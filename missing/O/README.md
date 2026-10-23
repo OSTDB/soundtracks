@@ -2744,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Flashpoint: Red River | 450 | [450-operation-flashpoint-red-river.json](./450-operation-flashpoint-red-river.json) |
 | Operation Flashpoint: Resistance | 448 | [448-operation-flashpoint-resistance.json](./448-operation-flashpoint-resistance.json) |
 | Operation Food to Gold | 278385 | [278385-operation-food-to-gold.json](./278385-operation-food-to-gold.json) |
+| Operation Frog | 60411 | [60411-operation-frog.json](./60411-operation-frog.json) |
 | Operation Fungus | 124576 | [124576-operation-fungus.json](./124576-operation-fungus.json) |
 | Operation Gekkou | 210688 | [210688-operation-gekkou.json](./210688-operation-gekkou.json) |
 | Operation Get Bike Back 2: Pedal Recall | 330766 | [330766-operation-get-bike-back-2-pedal-recall.json](./330766-operation-get-bike-back-2-pedal-recall.json) |
@@ -3343,6 +3344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origins | 235685 | [235685-origins.json](./235685-origins.json) |
 | Origins | 300704 | [300704-origins.json](./300704-origins.json) |
 | Origins of an Empire | 107109 | [107109-origins-of-an-empire.json](./107109-origins-of-an-empire.json) |
+| Origins of Lost Alchemies | 60344 | [60344-origins-of-lost-alchemies.json](./60344-origins-of-lost-alchemies.json) |
 | Origins of Merlin: Muscles and Magic | 166710 | [166710-origins-of-merlin-muscles-and-magic.json](./166710-origins-of-merlin-muscles-and-magic.json) |
 | Origins TCG | 412262 | [412262-origins-tcg.json](./412262-origins-tcg.json) |
 | Origins2 | 130617 | [130617-origins2.json](./130617-origins2.json) |
