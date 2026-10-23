@@ -3624,6 +3624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Ace II | 64304 | [64304-fighter-ace-ii.json](./64304-fighter-ace-ii.json) |
 | Fighter Aces: Sky Dominance | 328531 | [328531-fighter-aces-sky-dominance.json](./328531-fighter-aces-sky-dominance.json) |
 | Fighter Aircraft Race | 279568 | [279568-fighter-aircraft-race.json](./279568-fighter-aircraft-race.json) |
+| Fighter Base | 98310 | [98310-fighter-base.json](./98310-fighter-base.json) |
 | Fighter Bomber | 12589 | [12589-fighter-bomber.json](./12589-fighter-bomber.json) |
 | Fighter Command: The Battle of Britain | 23995 | [23995-fighter-command-the-battle-of-britain.json](./23995-fighter-command-the-battle-of-britain.json) |
 | Fighter Destiny 2 | 10683 | [10683-fighter-destiny-2.json](./10683-fighter-destiny-2.json) |
@@ -5980,6 +5981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleet Conquest | 410277 | [410277-fleet-conquest.json](./410277-fleet-conquest.json) |
 | Fleet Defender Gold | 12320 | [12320-fleet-defender-gold.json](./12320-fleet-defender-gold.json) |
 | Fleet Force | 102098 | [102098-fleet-force.json](./102098-fleet-force.json) |
+| Fleet Scrapper | 98217 | [98217-fleet-scrapper.json](./98217-fleet-scrapper.json) |
 | Fleet Star V | 110747 | [110747-fleet-star-v.json](./110747-fleet-star-v.json) |
 | Fleet Sweep | 139892 | [139892-fleet-sweep.json](./139892-fleet-sweep.json) |
 | Fleet Wars | 28812 | [28812-fleet-wars.json](./28812-fleet-wars.json) |
