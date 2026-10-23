@@ -2206,6 +2206,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mama Soybean's Delicious Oyster Sauce | 183842 | [183842-mama-soybeans-delicious-oyster-sauce.json](./183842-mama-soybeans-delicious-oyster-sauce.json) |
 | Māmā, Bié Zǒu | 130930 | [130930-mama-bie-zou.json](./130930-mama-bie-zou.json) |
 | Mama's 2-Pack | 86075 | [86075-mamas-2-pack.json](./86075-mamas-2-pack.json) |
+| Mama's Combo Pack Volume 1 | 56334 | [56334-mamas-combo-pack-volume-1.json](./56334-mamas-combo-pack-volume-1.json) |
+| Mama's Combo Pack Volume 2 | 56333 | [56333-mamas-combo-pack-volume-2.json](./56333-mamas-combo-pack-volume-2.json) |
 | Mama's Farm: Match ‪3‬ | 144995 | [144995-mamas-farm-match-3.json](./144995-mamas-farm-match-3.json) |
 | Mama's Quesadillaria | 303648 | [303648-mamas-quesadillaria.json](./303648-mamas-quesadillaria.json) |
 | Mama's Sleeping Angels | 321991 | [321991-mamas-sleeping-angels.json](./321991-mamas-sleeping-angels.json) |
@@ -5279,6 +5281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meaty McSkinBones | 116281 | [116281-meaty-mcskinbones.json](./116281-meaty-mcskinbones.json) |
 | Meawja | 57194 | [57194-meawja.json](./57194-meawja.json) |
 | Mebius Adventure | 206172 | [206172-mebius-adventure.json](./206172-mebius-adventure.json) |
+| Mebula | 56264 | [56264-mebula.json](./56264-mebula.json) |
 | Mecanic | 213792 | [213792-mecanic.json](./213792-mecanic.json) |
 | Mecarobot Golf | 42498 | [42498-mecarobot-golf.json](./42498-mecarobot-golf.json) |
 | Meccha! Taiko no Tatsujin DS: 7-tsu no Shima no Daibouken | 72548 | [72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json](./72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json) |
@@ -16424,6 +16427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Icecream Booth | 146747 | [146747-my-little-icecream-booth.json](./146747-my-little-icecream-booth.json) |
 | My Little Kitties | 20759 | [20759-my-little-kitties.json](./20759-my-little-kitties.json) |
 | My Little Kitty Cat | 99001 | [99001-my-little-kitty-cat.json](./99001-my-little-kitty-cat.json) |
+| My Little Kitty Day Care | 56342 | [56342-my-little-kitty-day-care.json](./56342-my-little-kitty-day-care.json) |
 | My Little MILF | 341351 | [341351-my-little-milf.json](./341351-my-little-milf.json) |
 | My Little Miniatures | 226175 | [226175-my-little-miniatures.json](./226175-my-little-miniatures.json) |
 | My Little Pet Girlfriend | 205997 | [205997-my-little-pet-girlfriend.json](./205997-my-little-pet-girlfriend.json) |
