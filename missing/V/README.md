@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vavala | 188412 | [188412-vavala.json](./188412-vavala.json) |
 | Vavio | 181923 | [181923-vavio.json](./181923-vavio.json) |
 | Vaxinator | 373850 | [373850-vaxinator.json](./373850-vaxinator.json) |
+| Vaxine | 85911 | [85911-vaxine.json](./85911-vaxine.json) |
 | Vaxol: Heavy Armed Storming Vehicle | 41785 | [41785-vaxol-heavy-armed-storming-vehicle.json](./41785-vaxol-heavy-armed-storming-vehicle.json) |
 | Vay | 304287 | [304287-vay.json](./304287-vay.json) |
 | Vayan | 216494 | [216494-vayan.json](./216494-vayan.json) |
@@ -2758,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volfoss | 66699 | [66699-volfoss.json](./66699-volfoss.json) |
 | Volgarr the Viking I & II Bundle | 312973 | [312973-volgarr-the-viking-i-and-ii-bundle.json](./312973-volgarr-the-viking-i-and-ii-bundle.json) |
 | Volgarr the Viking II | 304741 | [304741-volgarr-the-viking-ii.json](./304741-volgarr-the-viking-ii.json) |
+| Volguard | 85934 | [85934-volguard.json](./85934-volguard.json) |
 | Volguard II | 48551 | [48551-volguard-ii.json](./48551-volguard-ii.json) |
 | Volkstein | 90150 | [90150-volkstein.json](./90150-volkstein.json) |
 | Volley & Tennis Bundle Blast | 196812 | [196812-volley-and-tennis-bundle-blast.json](./196812-volley-and-tennis-bundle-blast.json) |
