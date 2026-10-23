@@ -3596,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Sail | 9430 | [9430-age-of-sail.json](./9430-age-of-sail.json) |
 | Age of Sail II | 9428 | [9428-age-of-sail-ii.json](./9428-age-of-sail-ii.json) |
 | Age of Sail II: Privateer's Bounty | 9429 | [9429-age-of-sail-ii-privateers-bounty.json](./9429-age-of-sail-ii-privateers-bounty.json) |
+| Age of seas | 76395 | [76395-age-of-seas.json](./76395-age-of-seas.json) |
 | Age of Siege | 212524 | [212524-age-of-siege.json](./212524-age-of-siege.json) |
 | Age of Sokoban | 152157 | [152157-age-of-sokoban.json](./152157-age-of-sokoban.json) |
 | Age of Solitaire : Build City | 102713 | [102713-age-of-solitaire-build-city.json](./102713-age-of-solitaire-build-city.json) |
@@ -8952,6 +8953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Rebels | 275576 | [275576-apex-rebels.json](./275576-apex-rebels.json) |
 | Apex Rush | 277785 | [277785-apex-rush.json](./277785-apex-rush.json) |
 | Apex Sweeper | 403755 | [403755-apex-sweeper.json](./403755-apex-sweeper.json) |
+| Apex Tournament | 76385 | [76385-apex-tournament.json](./76385-apex-tournament.json) |
 | Apexaris Tower | 313558 | [313558-apexaris-tower.json](./313558-apexaris-tower.json) |
 | Aphasia | 422086 | [422086-aphasia.json](./422086-aphasia.json) |
 | Aphelion | 171599 | [171599-aphelion.json](./171599-aphelion.json) |
@@ -10199,6 +10201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archero | 119062 | [119062-archero.json](./119062-archero.json) |
 | Archero | 195909 | [195909-archero.json](./195909-archero.json) |
 | Archero 2 | 319370 | [319370-archero-2.json](./319370-archero-2.json) |
+| Archers | 76381 | [76381-archers.json](./76381-archers.json) |
 | Archers Online | 316047 | [316047-archers-online.json](./316047-archers-online.json) |
 | Archers Shadow Strike | 332536 | [332536-archers-shadow-strike.json](./332536-archers-shadow-strike.json) |
 | Archers: Bowman's Battle | 63249 | [63249-archers-bowmans-battle.json](./63249-archers-bowmans-battle.json) |
@@ -13519,6 +13522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Australian Maze | 273356 | [273356-australian-maze.json](./273356-australian-maze.json) |
 | Australian Open VR | 329418 | [329418-australian-open-vr.json](./329418-australian-open-vr.json) |
 | Australian Road Trains | 119596 | [119596-australian-road-trains.json](./119596-australian-road-trains.json) |
+| Australian Trip | 76377 | [76377-australian-trip.json](./76377-australian-trip.json) |
 | Australiove | 181795 | [181795-australiove.json](./181795-australiove.json) |
 | Australo Piticus Mechanicus | 14277 | [14277-australo-piticus-mechanicus.json](./14277-australo-piticus-mechanicus.json) |
 | Austrian Avian Association | 251181 | [251181-austrian-avian-association.json](./251181-austrian-avian-association.json) |
