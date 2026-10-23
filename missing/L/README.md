@@ -2637,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leila | 258420 | [258420-leila.json](./258420-leila.json) |
 | Léinǔ Jīshén | 266666 | [266666-leinu-jishen.json](./266666-leinu-jishen.json) |
 | Leiria: Stargazer | 202865 | [202865-leiria-stargazer.json](./202865-leiria-stargazer.json) |
+| Leisure Genius presents Monopoly | 80306 | [80306-leisure-genius-presents-monopoly.json](./80306-leisure-genius-presents-monopoly.json) |
 | Leisure Suit Larry 1: In the Land of the Lounge Lizards | 198430 | [198430-leisure-suit-larry-1-in-the-land-of-the-lounge-lizards.json](./198430-leisure-suit-larry-1-in-the-land-of-the-lounge-lizards.json) |
 | Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) | 8656 | [8656-leisure-suit-larry-2-goes-looking-for-love-in-several-wrong-places.json](./8656-leisure-suit-larry-2-goes-looking-for-love-in-several-wrong-places.json) |
 | Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work | 2910 | [2910-leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work.json](./2910-leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work.json) |
