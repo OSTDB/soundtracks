@@ -12131,6 +12131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks '2000 | 375585 | [375585-bricks-2000.json](./375585-bricks-2000.json) |
 | Bricks Ahead | 184792 | [184792-bricks-ahead.json](./184792-bricks-ahead.json) |
 | Bricks Breaker Challenge | 234561 | [234561-bricks-breaker-challenge.json](./234561-bricks-breaker-challenge.json) |
+| Bricks Breaker Mission | 95808 | [95808-bricks-breaker-mission.json](./95808-bricks-breaker-mission.json) |
 | Bricks Breaker Puzzle Classic | 220807 | [220807-bricks-breaker-puzzle-classic.json](./220807-bricks-breaker-puzzle-classic.json) |
 | Bricks Breaker Quest | 105516 | [105516-bricks-breaker-quest.json](./105516-bricks-breaker-quest.json) |
 | Bricks Breaker Shot | 96821 | [96821-bricks-breaker-shot.json](./96821-bricks-breaker-shot.json) |
