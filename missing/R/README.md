@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Islands | 194448 | [194448-rainbow-islands.json](./194448-rainbow-islands.json) |
 | Rainbow Islands CS | 407279 | [407279-rainbow-islands-cs.json](./407279-rainbow-islands-cs.json) |
 | Rainbow Islands: Bubble Bobble 2 | 194446 | [194446-rainbow-islands-bubble-bobble-2.json](./194446-rainbow-islands-bubble-bobble-2.json) |
+| Rainbow Islands: Candyland | 78444 | [78444-rainbow-islands-candyland.json](./78444-rainbow-islands-candyland.json) |
 | Rainbow Islands: The Story of Bubble Bobble 2 | 4405 | [4405-rainbow-islands-the-story-of-bubble-bobble-2.json](./4405-rainbow-islands-the-story-of-bubble-bobble-2.json) |
 | Rainbow Islands: Towering Adventure! | 21241 | [21241-rainbow-islands-towering-adventure.json](./21241-rainbow-islands-towering-adventure.json) |
 | Rainbow Jigsaw | 241664 | [241664-rainbow-jigsaw.json](./241664-rainbow-jigsaw.json) |
@@ -3037,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Faction | 215080 | [215080-red-faction.json](./215080-red-faction.json) |
 | Red Faction | 6273 | [6273-red-faction.json](./6273-red-faction.json) |
 | Red Faction Collection | 53495 | [53495-red-faction-collection.json](./53495-red-faction-collection.json) |
+| Red Faction: Armageddon - Path to War | 78455 | [78455-red-faction-armageddon-path-to-war.json](./78455-red-faction-armageddon-path-to-war.json) |
 | Red Faction: Armageddon - Ultimate Edition | 99958 | [99958-red-faction-armageddon-ultimate-edition.json](./99958-red-faction-armageddon-ultimate-edition.json) |
 | Red Faction: B.E.A.S.T. | 264880 | [264880-red-faction-b-e-a-s-t.json](./264880-red-faction-b-e-a-s-t.json) |
 | Red Faction: Guerrilla - Steam Edition | 28988 | [28988-red-faction-guerrilla-steam-edition.json](./28988-red-faction-guerrilla-steam-edition.json) |
@@ -9772,6 +9774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run'N'Get | 109884 | [109884-runnget.json](./109884-runnget.json) |
 | Run&Brake - Animal Escape | 108195 | [108195-run-and-brake-animal-escape.json](./108195-run-and-brake-animal-escape.json) |
 | Run4YourLight | 203761 | [203761-run4yourlight.json](./203761-run4yourlight.json) |
+| Run8 Train Simulator | 78485 | [78485-run8-train-simulator.json](./78485-run8-train-simulator.json) |
 | Runa | 129162 | [129162-runa.json](./129162-runa.json) |
 | Runa | 295171 | [295171-runa.json](./295171-runa.json) |
 | Runa & the Chaikurú Legacy | 238734 | [238734-runa-and-the-chaikuru-legacy.json](./238734-runa-and-the-chaikuru-legacy.json) |
