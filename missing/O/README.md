@@ -2698,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Body Count | 8690 | [8690-operation-body-count.json](./8690-operation-body-count.json) |
 | Operation Bodycam | 316848 | [316848-operation-bodycam.json](./316848-operation-bodycam.json) |
 | Operation Breakout | 30839 | [30839-operation-breakout.json](./30839-operation-breakout.json) |
+| Operation Chromite 1950 VR | 86506 | [86506-operation-chromite-1950-vr.json](./86506-operation-chromite-1950-vr.json) |
 | Operation Cobra | 85598 | [85598-operation-cobra.json](./85598-operation-cobra.json) |
 | Operation Covid-19 | 149027 | [149027-operation-covid-19.json](./149027-operation-covid-19.json) |
 | Operation Crimson | 412272 | [412272-operation-crimson.json](./412272-operation-crimson.json) |
@@ -3502,6 +3503,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osomatsu-san The Game: Hachamecha Shuushoku Advice - Dead or Work | 83420 | [83420-osomatsu-san-the-game-hachamecha-shuushoku-advice-dead-or-work.json](./83420-osomatsu-san-the-game-hachamecha-shuushoku-advice-dead-or-work.json) |
 | Osomatsu-san: Hesokuri Wars | 56477 | [56477-osomatsu-san-hesokuri-wars.json](./56477-osomatsu-san-hesokuri-wars.json) |
 | Osomatsu-san: Matsumatsuri! | 83421 | [83421-osomatsu-san-matsumatsuri.json](./83421-osomatsu-san-matsumatsuri.json) |
+| Osouji Sentai Clean Keeper | 91785 | [91785-osouji-sentai-clean-keeper.json](./91785-osouji-sentai-clean-keeper.json) |
+| Osouji Sentai Clean Keeper H | 91784 | [91784-osouji-sentai-clean-keeper-h.json](./91784-osouji-sentai-clean-keeper-h.json) |
 | OSP Entertainment Complete Archive | 63792 | [63792-osp-entertainment-complete-archive.json](./63792-osp-entertainment-complete-archive.json) |
 | OSR Unhinged | 91946 | [91946-osr-unhinged.json](./91946-osr-unhinged.json) |
 | Ossan Kyoushi no Joshikousei Tsuma ga Yarichin Danshi ni Netorareru Hanashi | 82996 | [82996-ossan-kyoushi-no-joshikousei-tsuma-ga-yarichin-danshi-ni-netorareru-hanashi.json](./82996-ossan-kyoushi-no-joshikousei-tsuma-ga-yarichin-danshi-ni-netorareru-hanashi.json) |
