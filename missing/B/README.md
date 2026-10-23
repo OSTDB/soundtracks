@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Baseball '01 | 348028 | [348028-backyard-baseball-01.json](./348028-backyard-baseball-01.json) |
 | Backyard Baseball '09 | 132055 | [132055-backyard-baseball-09.json](./132055-backyard-baseball-09.json) |
 | Backyard Baseball '97 | 317717 | [317717-backyard-baseball-97.json](./317717-backyard-baseball-97.json) |
+| Backyard Baseball (2003-2004) | 67805 | [67805-backyard-baseball-2003-2004.json](./67805-backyard-baseball-2003-2004.json) |
 | Backyard Baseball 2003 | 132053 | [132053-backyard-baseball-2003.json](./132053-backyard-baseball-2003.json) |
 | Backyard Baseball 2005 | 205906 | [205906-backyard-baseball-2005.json](./205906-backyard-baseball-2005.json) |
 | Backyard Baseball 2006 | 132054 | [132054-backyard-baseball-2006.json](./132054-backyard-baseball-2006.json) |
@@ -744,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11573,6 +11575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz 4 Real | 213888 | [213888-bratz-4-real.json](./213888-bratz-4-real.json) |
 | Bratz 4 Real | 47872 | [47872-bratz-4-real.json](./47872-bratz-4-real.json) |
 | Bratz Fashion Pixiez: The Secret Necklace | 213374 | [213374-bratz-fashion-pixiez-the-secret-necklace.json](./213374-bratz-fashion-pixiez-the-secret-necklace.json) |
+| Bratz Ponyz | 67803 | [67803-bratz-ponyz.json](./67803-bratz-ponyz.json) |
 | Bratz Ponyz 2 | 94733 | [94733-bratz-ponyz-2.json](./94733-bratz-ponyz-2.json) |
 | Bratz Rhythm & Style | 347308 | [347308-bratz-rhythm-and-style.json](./347308-bratz-rhythm-and-style.json) |
 | Bratz Rhythm & Style: Deluxe Edition | 365555 | [365555-bratz-rhythm-and-style-deluxe-edition.json](./365555-bratz-rhythm-and-style-deluxe-edition.json) |
@@ -11588,6 +11591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz: Forever Diamondz | 3835 | [3835-bratz-forever-diamondz.json](./3835-bratz-forever-diamondz.json) |
 | Bratz: Girlz Really Rock | 43248 | [43248-bratz-girlz-really-rock.json](./43248-bratz-girlz-really-rock.json) |
 | Bratz: Rock Angelz | 248472 | [248472-bratz-rock-angelz.json](./248472-bratz-rock-angelz.json) |
+| Bratz: Super Babyz | 67804 | [67804-bratz-super-babyz.json](./67804-bratz-super-babyz.json) |
 | Bratz: The Movie | 248612 | [248612-bratz-the-movie.json](./248612-bratz-the-movie.json) |
 | Bravada | 17695 | [17695-bravada.json](./17695-bravada.json) |
 | Brave | 216126 | [216126-brave.json](./216126-brave.json) |
