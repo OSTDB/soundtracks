@@ -10588,6 +10588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DotAge: Folkways | 336527 | [336527-dotage-folkways.json](./336527-dotage-folkways.json) |
 | DotAge: Trade Secrets | 394372 | [394372-dotage-trade-secrets.json](./394372-dotage-trade-secrets.json) |
 | Dotchidabe | 385328 | [385328-dotchidabe.json](./385328-dotchidabe.json) |
+| Dotcolor - Color flow number | 98748 | [98748-dotcolor-color-flow-number.json](./98748-dotcolor-color-flow-number.json) |
 | Dotcom (.com) | 59515 | [59515-dotcom-com.json](./59515-dotcom-com.json) |
 | Dotcraft. | 106770 | [106770-dotcraft.json](./106770-dotcraft.json) |
 | DotDot | 253971 | [253971-dotdot.json](./253971-dotdot.json) |
@@ -10930,6 +10931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downstairs at Grandma's House | 113832 | [113832-downstairs-at-grandmas-house.json](./113832-downstairs-at-grandmas-house.json) |
 | Downtown | 174110 | [174110-downtown.json](./174110-downtown.json) |
 | Downtown | 354573 | [354573-downtown.json](./354573-downtown.json) |
+| Downtown | 98761 | [98761-downtown.json](./98761-downtown.json) |
 | DownTown | 94406 | [94406-downtown.json](./94406-downtown.json) |
 | Downtown Club | 330284 | [330284-downtown-club.json](./330284-downtown-club.json) |
 | Downtown Dealers | 244071 | [244071-downtown-dealers.json](./244071-downtown-dealers.json) |
@@ -13049,6 +13051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Pro: Island Delivery | 105779 | [105779-driving-pro-island-delivery.json](./105779-driving-pro-island-delivery.json) |
 | Driving Quest | 209691 | [209691-driving-quest.json](./209691-driving-quest.json) |
 | Driving School 2016 | 89273 | [89273-driving-school-2016.json](./89273-driving-school-2016.json) |
+| Driving School 2017 | 98855 | [98855-driving-school-2017.json](./98855-driving-school-2017.json) |
 | Driving School 3D | 102104 | [102104-driving-school-3d.json](./102104-driving-school-3d.json) |
 | Driving School Original | 120065 | [120065-driving-school-original.json](./120065-driving-school-original.json) |
 | Driving School Sim | 410826 | [410826-driving-school-sim.json](./410826-driving-school-sim.json) |
@@ -13289,6 +13292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drum Girl | 232140 | [232140-drum-girl.json](./232140-drum-girl.json) |
 | Drum Legend | 277023 | [277023-drum-legend.json](./277023-drum-legend.json) |
 | Drum Revolution | 337842 | [337842-drum-revolution.json](./337842-drum-revolution.json) |
+| Drum Studio | 98824 | [98824-drum-studio.json](./98824-drum-studio.json) |
 | Drumbeat Quest | 174229 | [174229-drumbeat-quest.json](./174229-drumbeat-quest.json) |
 | Drumblox | 267313 | [267313-drumblox.json](./267313-drumblox.json) |
 | Drumguy | 329050 | [329050-drumguy.json](./329050-drumguy.json) |
