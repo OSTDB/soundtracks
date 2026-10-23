@@ -2346,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Collection | 53777 | [53777-cartoon-collection.json](./53777-cartoon-collection.json) |
 | Cartoon Crime | 415431 | [415431-cartoon-crime.json](./415431-cartoon-crime.json) |
 | Cartoon Dungeon VIP | 95865 | [95865-cartoon-dungeon-vip.json](./95865-cartoon-dungeon-vip.json) |
+| Cartoon Hero | 81887 | [81887-cartoon-hero.json](./81887-cartoon-hero.json) |
 | Cartoon Jukebox | 127151 | [127151-cartoon-jukebox.json](./127151-cartoon-jukebox.json) |
 | Cartoon Kingdom | 66957 | [66957-cartoon-kingdom.json](./66957-cartoon-kingdom.json) |
 | Cartoon Kreedz | 123880 | [123880-cartoon-kreedz.json](./123880-cartoon-kreedz.json) |
@@ -6334,6 +6335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Runner | 276697 | [276697-christmas-runner.json](./276697-christmas-runner.json) |
 | Christmas Rush | 280710 | [280710-christmas-rush.json](./280710-christmas-rush.json) |
 | Christmas Rush | 284971 | [284971-christmas-rush.json](./284971-christmas-rush.json) |
+| Christmas Santa Troubles | 81904 | [81904-christmas-santa-troubles.json](./81904-christmas-santa-troubles.json) |
 | Christmas Seaman: Omoi o Tsutaeru Mou Hitotsu no Houhou | 283108 | [283108-christmas-seaman-omoi-o-tsutaeru-mou-hitotsu-no-houhou.json](./283108-christmas-seaman-omoi-o-tsutaeru-mou-hitotsu-no-houhou.json) |
 | Christmas Shooter | 213309 | [213309-christmas-shooter.json](./213309-christmas-shooter.json) |
 | Christmas Shooting | 178355 | [178355-christmas-shooting.json](./178355-christmas-shooting.json) |
@@ -6679,6 +6681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck Quizmo's Quiz | 328608 | [328608-chuck-quizmos-quiz.json](./328608-chuck-quizmos-quiz.json) |
 | Chuck Rock | 275025 | [275025-chuck-rock.json](./275025-chuck-rock.json) |
 | Chuck Rock | 275026 | [275026-chuck-rock.json](./275026-chuck-rock.json) |
+| Chuck Rock | 81871 | [81871-chuck-rock.json](./81871-chuck-rock.json) |
 | Chuck Rock II: Son of Chuck | 4371 | [4371-chuck-rock-ii-son-of-chuck.json](./4371-chuck-rock-ii-son-of-chuck.json) |
 | Chuck the Metalhead in Medieval Hell | 235809 | [235809-chuck-the-metalhead-in-medieval-hell.json](./235809-chuck-the-metalhead-in-medieval-hell.json) |
 | Chuck Yeager's Air Combat | 51396 | [51396-chuck-yeagers-air-combat.json](./51396-chuck-yeagers-air-combat.json) |
@@ -8223,6 +8226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Quarters Supremacy: The Legis | 173234 | [173234-close-quarters-supremacy-the-legis.json](./173234-close-quarters-supremacy-the-legis.json) |
 | Close Shell | 246437 | [246437-close-shell.json](./246437-close-shell.json) |
 | Close the Sky | 413907 | [413907-close-the-sky.json](./413907-close-the-sky.json) |
+| Close the Window! | 81914 | [81914-close-the-window.json](./81914-close-the-window.json) |
 | Close the Windows, Lock the Doors | 184965 | [184965-close-the-windows-lock-the-doors.json](./184965-close-the-windows-lock-the-doors.json) |
 | Close to Light | 380114 | [380114-close-to-light.json](./380114-close-to-light.json) |
 | Close to You | 217874 | [217874-close-to-you.json](./217874-close-to-you.json) |
@@ -9246,6 +9250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony Defenders TD | 286648 | [286648-colony-defenders-td.json](./286648-colony-defenders-td.json) |
 | Colony Defense | 273627 | [273627-colony-defense.json](./273627-colony-defense.json) |
 | Colony Defense | 52520 | [52520-colony-defense.json](./52520-colony-defense.json) |
+| Colony on Mars | 81916 | [81916-colony-on-mars.json](./81916-colony-on-mars.json) |
 | Colony Prospector | 99430 | [99430-colony-prospector.json](./99430-colony-prospector.json) |
 | Colony Ship: A Post-Earth Role Playing Game | 129128 | [129128-colony-ship-a-post-earth-role-playing-game.json](./129128-colony-ship-a-post-earth-role-playing-game.json) |
 | Colony Siege | 127192 | [127192-colony-siege.json](./127192-colony-siege.json) |
@@ -10241,6 +10246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Complete Me | 108834 | [108834-complete-me.json](./108834-complete-me.json) |
 | Complete Onside Soccer | 93021 | [93021-complete-onside-soccer.json](./93021-complete-onside-soccer.json) |
 | Completion LawnCare | 216454 | [216454-completion-lawncare.json](./216454-completion-lawncare.json) |
+| Complex | 81892 | [81892-complex.json](./81892-complex.json) |
 | Complex Complex | 273924 | [273924-complex-complex.json](./273924-complex-complex.json) |
 | Complex Doom: Clusterfuck | 200979 | [200979-complex-doom-clusterfuck.json](./200979-complex-doom-clusterfuck.json) |
 | Complex Hero | 265626 | [265626-complex-hero.json](./265626-complex-hero.json) |
@@ -11318,6 +11324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cope: Shodown | 165108 | [165108-cope-shodown.json](./165108-cope-shodown.json) |
 | Copernicus | 72907 | [72907-copernicus.json](./72907-copernicus.json) |
 | Copero | 412505 | [412505-copero.json](./412505-copero.json) |
+| Copierre | 81868 | [81868-copierre.json](./81868-copierre.json) |
 | Coping Mechanisms | 395898 | [395898-coping-mechanisms.json](./395898-coping-mechanisms.json) |
 | Copoka | 19812 | [19812-copoka.json](./19812-copoka.json) |
 | Coppélive | 294227 | [294227-coppelive.json](./294227-coppelive.json) |
@@ -13255,6 +13262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Createscape Town Nyanzou & Kumakichi: Escape Game | 213799 | [213799-createscape-town-nyanzou-and-kumakichi-escape-game.json](./213799-createscape-town-nyanzou-and-kumakichi-escape-game.json) |
 | CreateTech | 127359 | [127359-createtech.json](./127359-createtech.json) |
 | Creatio Ex Nihilo II: Deus Otiosus | 81762 | [81762-creatio-ex-nihilo-ii-deus-otiosus.json](./81762-creatio-ex-nihilo-ii-deus-otiosus.json) |
+| Creatio Ex Nihilo III: Amor Dei | 81882 | [81882-creatio-ex-nihilo-iii-amor-dei.json](./81882-creatio-ex-nihilo-iii-amor-dei.json) |
 | Creatio Ex Nihilo: Aition | 76941 | [76941-creatio-ex-nihilo-aition.json](./76941-creatio-ex-nihilo-aition.json) |
 | Creation & Magic | 174663 | [174663-creation-and-magic.json](./174663-creation-and-magic.json) |
 | Creation and Conquest: The Future War | 119499 | [119499-creation-and-conquest-the-future-war.json](./119499-creation-and-conquest-the-future-war.json) |
