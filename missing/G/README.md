@@ -3022,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Party: Nemuri-hime | 308873 | [308873-ghost-party-nemuri-hime.json](./308873-ghost-party-nemuri-hime.json) |
 | Ghost Patrol VR | 135117 | [135117-ghost-patrol-vr.json](./135117-ghost-patrol-vr.json) |
 | Ghost Platform | 404371 | [404371-ghost-platform.json](./404371-ghost-platform.json) |
+| Ghost Platoon | 84060 | [84060-ghost-platoon.json](./84060-ghost-platoon.json) |
 | Ghost Puncher | 211171 | [211171-ghost-puncher.json](./211171-ghost-puncher.json) |
 | Ghost Punishment | 121590 | [121590-ghost-punishment.json](./121590-ghost-punishment.json) |
 | Ghost Pursuit VR | 31977 | [31977-ghost-pursuit-vr.json](./31977-ghost-pursuit-vr.json) |
@@ -3837,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glint Glitters | 304119 | [304119-glint-glitters.json](./304119-glint-glitters.json) |
 | Glint's Trial | 356156 | [356156-glints-trial.json](./356156-glints-trial.json) |
 | Gliont Lights | 388260 | [388260-gliont-lights.json](./388260-gliont-lights.json) |
+| Glista | 84045 | [84045-glista.json](./84045-glista.json) |
 | Glisten to Your Heart: The Courage Within You | 170564 | [170564-glisten-to-your-heart-the-courage-within-you.json](./170564-glisten-to-your-heart-the-courage-within-you.json) |
 | Glisynth | 373145 | [373145-glisynth.json](./373145-glisynth.json) |
 | Glitch | 186709 | [186709-glitch.json](./186709-glitch.json) |
