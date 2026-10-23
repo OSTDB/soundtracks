@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jamie | 245284 | [245284-jamie.json](./245284-jamie.json) |
 | Jamie Inside | 278613 | [278613-jamie-inside.json](./278613-jamie-inside.json) |
 | Jamie Quest | 327373 | [327373-jamie-quest.json](./327373-jamie-quest.json) |
+| Jamie's Dream | 63731 | [63731-jamies-dream.json](./63731-jamies-dream.json) |
 | Jamie's Mod | 221669 | [221669-jamies-mod.json](./221669-jamies-mod.json) |
 | JamLegend | 93992 | [93992-jamlegend.json](./93992-jamlegend.json) |
 | Jammed | 407151 | [407151-jammed.json](./407151-jammed.json) |
@@ -1085,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jets'n'Guns: Complete Collection | 284484 | [284484-jetsnguns-complete-collection.json](./284484-jetsnguns-complete-collection.json) |
 | Jetscout: Mystery of Valunians | 174211 | [174211-jetscout-mystery-of-valunians.json](./174211-jetscout-mystery-of-valunians.json) |
 | Jetset | 84327 | [84327-jetset.json](./84327-jetset.json) |
+| JetSet Secrets | 64262 | [64262-jetset-secrets.json](./64262-jetset-secrets.json) |
 | Jetstrike | 37108 | [37108-jetstrike.json](./37108-jetstrike.json) |
 | Jett Rider | 260657 | [260657-jett-rider.json](./260657-jett-rider.json) |
 | Jett Rider Mini H.E.R.O. | 398965 | [398965-jett-rider-mini-h-e-r-o.json](./398965-jett-rider-mini-h-e-r-o.json) |
@@ -2173,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Josou Gal Bitch Gakuen: Half Musume Judy no Yuuwaku | 59049 | [59049-josou-gal-bitch-gakuen-half-musume-judy-no-yuuwaku.json](./59049-josou-gal-bitch-gakuen-half-musume-judy-no-yuuwaku.json) |
 | JosPlays' Escape: GameJam April 2024 | 303597 | [303597-josplays-escape-gamejam-april-2024.json](./303597-josplays-escape-gamejam-april-2024.json) |
 | Joth Fading | 372726 | [372726-joth-fading.json](./372726-joth-fading.json) |
+| Jottobots | 64245 | [64245-jottobots.json](./64245-jottobots.json) |
 | Jotun: Valhalla Edition | 14147 | [14147-jotun-valhalla-edition.json](./14147-jotun-valhalla-edition.json) |
 | Jotun: Valhalla Edition | 18149 | [18149-jotun-valhalla-edition.json](./18149-jotun-valhalla-edition.json) |
 | Jotunn: Day of Judgement | 223069 | [223069-jotunn-day-of-judgement.json](./223069-jotunn-day-of-judgement.json) |
@@ -2404,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judge Dredd | 265036 | [265036-judge-dredd.json](./265036-judge-dredd.json) |
 | Judge Dredd | 265037 | [265037-judge-dredd.json](./265037-judge-dredd.json) |
 | Judge Dredd | 4387 | [4387-judge-dredd.json](./4387-judge-dredd.json) |
+| Judge Dredd vs. Zombies | 63637 | [63637-judge-dredd-vs-zombies.json](./63637-judge-dredd-vs-zombies.json) |
 | Judge Dredd: Dredd Vs. Death | 3961 | [3961-judge-dredd-dredd-vs-death.json](./3961-judge-dredd-dredd-vs-death.json) |
 | Judge of Hasoon | 296928 | [296928-judge-of-hasoon.json](./296928-judge-of-hasoon.json) |
 | Judge Sim | 397266 | [397266-judge-sim.json](./397266-judge-sim.json) |
@@ -3367,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice League United | 313329 | [313329-justice-league-united.json](./313329-justice-league-united.json) |
 | Justice League VR: The Complete Experience | 76819 | [76819-justice-league-vr-the-complete-experience.json](./76819-justice-league-vr-the-complete-experience.json) |
 | Justice League: Dangerous Pursuit | 338691 | [338691-justice-league-dangerous-pursuit.json](./338691-justice-league-dangerous-pursuit.json) |
+| Justice League: Earth's Final Defense | 63693 | [63693-justice-league-earths-final-defense.json](./63693-justice-league-earths-final-defense.json) |
 | Justice League: Laptop Infantil | 297741 | [297741-justice-league-laptop-infantil.json](./297741-justice-league-laptop-infantil.json) |
 | Justice League: Save Planet Earth | 245459 | [245459-justice-league-save-planet-earth.json](./245459-justice-league-save-planet-earth.json) |
 | Justice League: Superheroes | 188325 | [188325-justice-league-superheroes.json](./188325-justice-league-superheroes.json) |
