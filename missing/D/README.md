@@ -5899,6 +5899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Is Dice | 368043 | [368043-destiny-is-dice.json](./368043-destiny-is-dice.json) |
 | Destiny Island | 158686 | [158686-destiny-island.json](./158686-destiny-island.json) |
 | Destiny Isle | 348203 | [348203-destiny-isle.json](./348203-destiny-isle.json) |
+| Destiny Links | 71946 | [71946-destiny-links.json](./71946-destiny-links.json) |
 | Destiny Maiden | 270649 | [270649-destiny-maiden.json](./270649-destiny-maiden.json) |
 | Destiny of a Wizard | 43109 | [43109-destiny-of-a-wizard.json](./43109-destiny-of-a-wizard.json) |
 | Destiny of a Wizard 2: Beyond the Vale | 102390 | [102390-destiny-of-a-wizard-2-beyond-the-vale.json](./102390-destiny-of-a-wizard-2-beyond-the-vale.json) |
@@ -11861,6 +11862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ruins II | 328277 | [328277-dragon-ruins-ii.json](./328277-dragon-ruins-ii.json) |
 | Dragon Ruins II: Aftermath | 356739 | [356739-dragon-ruins-ii-aftermath.json](./356739-dragon-ruins-ii-aftermath.json) |
 | Dragon Run Classic | 218553 | [218553-dragon-run-classic.json](./218553-dragon-run-classic.json) |
+| Dragon Saber: After Story of Dragon Spirit | 71944 | [71944-dragon-saber-after-story-of-dragon-spirit.json](./71944-dragon-saber-after-story-of-dragon-spirit.json) |
 | Dragon Saddle Melee | 157061 | [157061-dragon-saddle-melee.json](./157061-dragon-saddle-melee.json) |
 | Dragon Saga | 15888 | [15888-dragon-saga.json](./15888-dragon-saga.json) |
 | Dragon Saikyou Ouzukan: Battle Colosseum | 306192 | [306192-dragon-saikyou-ouzukan-battle-colosseum.json](./306192-dragon-saikyou-ouzukan-battle-colosseum.json) |
@@ -13523,6 +13525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS Kageyama Method: Dennou Hanpuku - Tadashii Kanji Kakitori-kun | 269577 | [269577-ds-kageyama-method-dennou-hanpuku-tadashii-kanji-kakitori-kun.json](./269577-ds-kageyama-method-dennou-hanpuku-tadashii-kanji-kakitori-kun.json) |
 | DS Kageyama Method: Tadashii Kanji Kakitori-Kun - Kondo ha Kanken Taisaku Dayo! | 98806 | [98806-ds-kageyama-method-tadashii-kanji-kakitori-kun-kondo-ha-kanken-taisaku-dayo.json](./98806-ds-kageyama-method-tadashii-kanji-kakitori-kun-kondo-ha-kanken-taisaku-dayo.json) |
 | DS Kokoro Nurie | 220849 | [220849-ds-kokoro-nurie.json](./220849-ds-kokoro-nurie.json) |
+| DS Nishimura Kyotaro Suspense Shin Tantei Series: Kyoto Atami Zekkai no Kotou - Satsui no Wana | 71898 | [71898-ds-nishimura-kyotaro-suspense-shin-tantei-series-kyoto-atami-zekkai-no-kotou-satsui-no-wana.json](./71898-ds-nishimura-kyotaro-suspense-shin-tantei-series-kyoto-atami-zekkai-no-kotou-satsui-no-wana.json) |
 | DS Pico Series: Sanrio no Party Heikou! Oryouri - Oshare - Okaimono | 255351 | [255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json](./255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json) |
 | DS Pico Series: Sanrio Puroland - Waku-waku Okaimono - Suteki na Oheya Otsukurimasho | 255352 | [255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json](./255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json) |
 | DS Yamamura Misa Suspense: Maiko Kogiku / Kisha Katherine / Sougiya Ishihara Akiko / Koto ni Mauhana Sanrin - Kyoto Satujin Jiken File | 269575 | [269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json](./269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json) |
