@@ -1988,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Your Kingdom | 112781 | [112781-make-your-kingdom.json](./112781-make-your-kingdom.json) |
 | Make Your Move | 348322 | [348322-make-your-move.json](./348322-make-your-move.json) |
 | Make Zombies Great Again | 99149 | [99149-make-zombies-great-again.json](./99149-make-zombies-great-again.json) |
+| Make-Up Touch 2 | 98831 | [98831-make-up-touch-2.json](./98831-make-up-touch-2.json) |
 | Maken Shao: Demon Sword | 43421 | [43421-maken-shao-demon-sword.json](./43421-maken-shao-demon-sword.json) |
 | Maken-shi Sara | 189001 | [189001-maken-shi-sara.json](./189001-maken-shi-sara.json) |
 | Makenines | 110254 | [110254-makenines.json](./110254-makenines.json) |
@@ -11420,6 +11421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Combat Versus | 71910 | [71910-modern-combat-versus.json](./71910-modern-combat-versus.json) |
 | Modern Combat: Sandstorm | 18884 | [18884-modern-combat-sandstorm.json](./18884-modern-combat-sandstorm.json) |
 | Modern Command | 227510 | [227510-modern-command.json](./227510-modern-command.json) |
+| Modern Conflict | 98835 | [98835-modern-conflict.json](./98835-modern-conflict.json) |
 | Modern Conflict 2 | 89713 | [89713-modern-conflict-2.json](./89713-modern-conflict-2.json) |
 | Modern Defense HD | 294682 | [294682-modern-defense-hd.json](./294682-modern-defense-hd.json) |
 | Modern Fairway 4: Spec Ops in the Rough | 130029 | [130029-modern-fairway-4-spec-ops-in-the-rough.json](./130029-modern-fairway-4-spec-ops-in-the-rough.json) |
