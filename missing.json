@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-23T20:04:36.829Z",
-  "total_missing": 252583,
+  "generated_at": "2026-10-23T20:18:06.882Z",
+  "total_missing": 252634,
   "games": [
     {
       "igdb_id": 191680,
@@ -28350,6 +28350,11 @@
       "igdb_id": 8130,
       "game_name": "Adventures in the Magic Kingdom",
       "file": "missing/A/8130-adventures-in-the-magic-kingdom.json"
+    },
+    {
+      "igdb_id": 342233,
+      "game_name": "Adventures In Time & Space",
+      "file": "missing/A/342233-adventures-in-time-and-space.json"
     },
     {
       "igdb_id": 134695,
@@ -90180,11 +90185,6 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
-    },
-    {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -560167,11 +560167,6 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
-    },
-    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -909722,6 +909717,11 @@
       "file": "missing/S/110895-secrets-of-the-past-dion.json"
     },
     {
+      "igdb_id": 53585,
+      "game_name": "Secrets of the Seas",
+      "file": "missing/S/53585-secrets-of-the-seas.json"
+    },
+    {
       "igdb_id": 247413,
       "game_name": "Secrets of the Shiratori Twins",
       "file": "missing/S/247413-secrets-of-the-shiratori-twins.json"
@@ -914262,6 +914262,16 @@
       "file": "missing/S/527-serious-sam-3-bfe.json"
     },
     {
+      "igdb_id": 53587,
+      "game_name": "Serious Sam 3: BFE - Serious Digital Edition",
+      "file": "missing/S/53587-serious-sam-3-bfe-serious-digital-edition.json"
+    },
+    {
+      "igdb_id": 53586,
+      "game_name": "Serious Sam 3: BFE Gold Edition",
+      "file": "missing/S/53586-serious-sam-3-bfe-gold-edition.json"
+    },
+    {
       "igdb_id": 10817,
       "game_name": "Serious Sam 3: Jewel of the Nile",
       "file": "missing/S/10817-serious-sam-3-jewel-of-the-nile.json"
@@ -914295,6 +914305,11 @@
       "igdb_id": 91191,
       "game_name": "Serious Sam Fusion 2017",
       "file": "missing/S/91191-serious-sam-fusion-2017.json"
+    },
+    {
+      "igdb_id": 53588,
+      "game_name": "Serious Sam HD: Gold Collection",
+      "file": "missing/S/53588-serious-sam-hd-gold-collection.json"
     },
     {
       "igdb_id": 13180,
@@ -918417,6 +918432,16 @@
       "file": "missing/S/51914-shadow-warrior-classic-complete.json"
     },
     {
+      "igdb_id": 53591,
+      "game_name": "Shadow Warrior Collection",
+      "file": "missing/S/53591-shadow-warrior-collection.json"
+    },
+    {
+      "igdb_id": 53592,
+      "game_name": "Shadow Warrior: Special Edition",
+      "file": "missing/S/53592-shadow-warrior-special-edition.json"
+    },
+    {
       "igdb_id": 6878,
       "game_name": "Shadow Warriors",
       "file": "missing/S/6878-shadow-warriors.json"
@@ -918827,6 +918852,11 @@
       "file": "missing/S/78514-shadowrun.json"
     },
     {
+      "igdb_id": 53605,
+      "game_name": "Shadowrun Chronicles: Boston Lockdown - Deluxe Edition",
+      "file": "missing/S/53605-shadowrun-chronicles-boston-lockdown-deluxe-edition.json"
+    },
+    {
       "igdb_id": 171351,
       "game_name": "Shadowrun Chronicles: Boston Lockdown - Infected!",
       "file": "missing/S/171351-shadowrun-chronicles-boston-lockdown-infected.json"
@@ -918837,6 +918867,11 @@
       "file": "missing/S/193178-shadowrun-chronicles-boston-lockdown-missions.json"
     },
     {
+      "igdb_id": 53604,
+      "game_name": "Shadowrun Chronicles: Boston Lockdown - Runner's Edition",
+      "file": "missing/S/53604-shadowrun-chronicles-boston-lockdown-runners-edition.json"
+    },
+    {
       "igdb_id": 171365,
       "game_name": "Shadowrun Chronicles: Infected - Missions",
       "file": "missing/S/171365-shadowrun-chronicles-infected-missions.json"
@@ -918845,6 +918880,11 @@
       "igdb_id": 136925,
       "game_name": "Shadowrun Collection",
       "file": "missing/S/136925-shadowrun-collection.json"
+    },
+    {
+      "igdb_id": 53603,
+      "game_name": "Shadowrun Complete Collection",
+      "file": "missing/S/53603-shadowrun-complete-collection.json"
     },
     {
       "igdb_id": 8864,
@@ -919325,6 +919365,11 @@
       "igdb_id": 295113,
       "game_name": "Shady Lewd Kart: Wild Woody Character Pack",
       "file": "missing/S/295113-shady-lewd-kart-wild-woody-character-pack.json"
+    },
+    {
+      "igdb_id": 53602,
+      "game_name": "Shady Mission",
+      "file": "missing/S/53602-shady-mission.json"
     },
     {
       "igdb_id": 391234,
@@ -920780,6 +920825,11 @@
       "igdb_id": 128282,
       "game_name": "Shardhunters",
       "file": "missing/S/128282-shardhunters.json"
+    },
+    {
+      "igdb_id": 53601,
+      "game_name": "Shardlight: Deluxe",
+      "file": "missing/S/53601-shardlight-deluxe.json"
     },
     {
       "igdb_id": 51912,
@@ -922500,6 +922550,16 @@
       "igdb_id": 141458,
       "game_name": "Shelter War",
       "file": "missing/S/141458-shelter-war.json"
+    },
+    {
+      "igdb_id": 53600,
+      "game_name": "Shelter: Complete Edition",
+      "file": "missing/S/53600-shelter-complete-edition.json"
+    },
+    {
+      "igdb_id": 53599,
+      "game_name": "Shelter: The Heart Edition",
+      "file": "missing/S/53599-shelter-the-heart-edition.json"
     },
     {
       "igdb_id": 152285,
@@ -925372,6 +925432,11 @@
       "file": "missing/S/118929-shiny-deluxe-edition.json"
     },
     {
+      "igdb_id": 53598,
+      "game_name": "Shiny: Digital Deluxe Edition",
+      "file": "missing/S/53598-shiny-digital-deluxe-edition.json"
+    },
+    {
       "igdb_id": 329234,
       "game_name": "Shinya Ichi-ji no Koukanshu",
       "file": "missing/S/329234-shinya-ichi-ji-no-koukanshu.json"
@@ -925400,6 +925465,11 @@
       "igdb_id": 31393,
       "game_name": "Shio",
       "file": "missing/S/31393-shio.json"
+    },
+    {
+      "igdb_id": 53597,
+      "game_name": "Shio: Deluxe Edition",
+      "file": "missing/S/53597-shio-deluxe-edition.json"
     },
     {
       "igdb_id": 122896,
@@ -925615,6 +925685,11 @@
       "igdb_id": 10825,
       "game_name": "Ship Simulator Extremes: Cargo Vessel",
       "file": "missing/S/10825-ship-simulator-extremes-cargo-vessel.json"
+    },
+    {
+      "igdb_id": 53596,
+      "game_name": "Ship Simulator Extremes: Collection",
+      "file": "missing/S/53596-ship-simulator-extremes-collection.json"
     },
     {
       "igdb_id": 10826,
@@ -927222,6 +927297,11 @@
       "file": "missing/S/319948-shooter-of-the-arcana.json"
     },
     {
+      "igdb_id": 53594,
+      "game_name": "Shooter of War",
+      "file": "missing/S/53594-shooter-of-war.json"
+    },
+    {
       "igdb_id": 60863,
       "game_name": "Shooter Thing 2",
       "file": "missing/S/60863-shooter-thing-2.json"
@@ -927430,6 +927510,11 @@
       "igdb_id": 105518,
       "game_name": "Shooting King",
       "file": "missing/S/105518-shooting-king.json"
+    },
+    {
+      "igdb_id": 53593,
+      "game_name": "Shooting Love 20XX",
+      "file": "missing/S/53593-shooting-love-20xx.json"
     },
     {
       "igdb_id": 268857,
@@ -930537,6 +930622,11 @@
       "file": "missing/S/310-sid-meiers-civilization-iii.json"
     },
     {
+      "igdb_id": 53609,
+      "game_name": "Sid Meier's Civilization III: Game of the Year Edition",
+      "file": "missing/S/53609-sid-meiers-civilization-iii-game-of-the-year-edition.json"
+    },
+    {
       "igdb_id": 55119,
       "game_name": "Sid Meier's Civilization III: Gold Edition",
       "file": "missing/S/55119-sid-meiers-civilization-iii-gold-edition.json"
@@ -930680,6 +930770,11 @@
       "igdb_id": 139967,
       "game_name": "Sid Meier's Civilization VI: Byzantium & Gaul Pack",
       "file": "missing/S/139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json"
+    },
+    {
+      "igdb_id": 53611,
+      "game_name": "Sid Meier's Civilization VI: Digital Deluxe Edition",
+      "file": "missing/S/53611-sid-meiers-civilization-vi-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 164402,
@@ -930995,6 +931090,11 @@
       "igdb_id": 10502,
       "game_name": "Sid Meier's Civilization: Beyond Earth - Rising Tide",
       "file": "missing/S/10502-sid-meiers-civilization-beyond-earth-rising-tide.json"
+    },
+    {
+      "igdb_id": 53608,
+      "game_name": "Sid Meier's Civilization: Beyond Earth - The Collection",
+      "file": "missing/S/53608-sid-meiers-civilization-beyond-earth-the-collection.json"
     },
     {
       "igdb_id": 21930,
@@ -932597,6 +932697,11 @@
       "file": "missing/S/995-silent-hunter-5-battle-of-the-atlantic.json"
     },
     {
+      "igdb_id": 53612,
+      "game_name": "Silent Hunter 5: Battle of the Atlantic - Gold Edition",
+      "file": "missing/S/53612-silent-hunter-5-battle-of-the-atlantic-gold-edition.json"
+    },
+    {
       "igdb_id": 870,
       "game_name": "Silent Hunter III",
       "file": "missing/S/870-silent-hunter-iii.json"
@@ -932900,6 +933005,11 @@
       "igdb_id": 10844,
       "game_name": "Silent Storm",
       "file": "missing/S/10844-silent-storm.json"
+    },
+    {
+      "igdb_id": 53613,
+      "game_name": "Silent Storm: Gold Edition",
+      "file": "missing/S/53613-silent-storm-gold-edition.json"
     },
     {
       "igdb_id": 10845,
@@ -936685,6 +936795,11 @@
       "igdb_id": 872,
       "game_name": "Sins of a Solar Empire",
       "file": "missing/S/872-sins-of-a-solar-empire.json"
+    },
+    {
+      "igdb_id": 53614,
+      "game_name": "Sins of a Solar Empire Gold",
+      "file": "missing/S/53614-sins-of-a-solar-empire-gold.json"
     },
     {
       "igdb_id": 223457,
@@ -941252,6 +941367,11 @@
       "file": "missing/S/25173-sky-target.json"
     },
     {
+      "igdb_id": 53615,
+      "game_name": "Sky Taxi",
+      "file": "missing/S/53615-sky-taxi.json"
+    },
+    {
       "igdb_id": 54368,
       "game_name": "Sky Taxi 2: Storm 2012",
       "file": "missing/S/54368-sky-taxi-2-storm-2012.json"
@@ -942010,6 +942130,11 @@
       "igdb_id": 323750,
       "game_name": "Skypop Scramble",
       "file": "missing/S/323750-skypop-scramble.json"
+    },
+    {
+      "igdb_id": 53616,
+      "game_name": "Skyraine",
+      "file": "missing/S/53616-skyraine.json"
     },
     {
       "igdb_id": 157366,
@@ -945457,6 +945582,11 @@
       "file": "missing/S/208921-slingo-deluxe-bundle.json"
     },
     {
+      "igdb_id": 53617,
+      "game_name": "Slingo Mystery: Who's Gold",
+      "file": "missing/S/53617-slingo-mystery-whos-gold.json"
+    },
+    {
       "igdb_id": 73807,
       "game_name": "Slingo Quest Hawaii",
       "file": "missing/S/73807-slingo-quest-hawaii.json"
@@ -945520,6 +945650,11 @@
       "igdb_id": 50546,
       "game_name": "Slingshot Hero VR",
       "file": "missing/S/50546-slingshot-hero-vr.json"
+    },
+    {
+      "igdb_id": 53618,
+      "game_name": "Slingshot hunter",
+      "file": "missing/S/53618-slingshot-hunter.json"
     },
     {
       "igdb_id": 373208,
@@ -948777,6 +948912,11 @@
       "file": "missing/S/420490-sms-207.json"
     },
     {
+      "igdb_id": 53619,
+      "game_name": "SMS Master Blaster!",
+      "file": "missing/S/53619-sms-master-blaster.json"
+    },
+    {
       "igdb_id": 421213,
       "game_name": "SMS Returns",
       "file": "missing/S/421213-sms-returns.json"
@@ -950372,6 +950512,11 @@
       "file": "missing/S/298808-snapshot.json"
     },
     {
+      "igdb_id": 53620,
+      "game_name": "Snapshot Adventures",
+      "file": "missing/S/53620-snapshot-adventures.json"
+    },
+    {
       "igdb_id": 216889,
       "game_name": "Snapshot Aquarium",
       "file": "missing/S/216889-snapshot-aquarium.json"
@@ -950465,6 +950610,11 @@
       "igdb_id": 96592,
       "game_name": "Snark Busters: All Revved Up",
       "file": "missing/S/96592-snark-busters-all-revved-up.json"
+    },
+    {
+      "igdb_id": 53638,
+      "game_name": "Snark Busters: Welcome to the Club",
+      "file": "missing/S/53638-snark-busters-welcome-to-the-club.json"
     },
     {
       "igdb_id": 396583,
@@ -951107,6 +951257,11 @@
       "file": "missing/S/3078-sniper-elite-v2.json"
     },
     {
+      "igdb_id": 53637,
+      "game_name": "Sniper Elite V2 Collection",
+      "file": "missing/S/53637-sniper-elite-v2-collection.json"
+    },
+    {
       "igdb_id": 44654,
       "game_name": "Sniper Elite V2: Game of the Year Edition",
       "file": "missing/S/44654-sniper-elite-v2-game-of-the-year-edition.json"
@@ -951362,6 +951517,21 @@
       "file": "missing/S/283222-sniper-elite-shooter-squad.json"
     },
     {
+      "igdb_id": 53635,
+      "game_name": "Sniper: Ghost Warrior - Second Strike",
+      "file": "missing/S/53635-sniper-ghost-warrior-second-strike.json"
+    },
+    {
+      "igdb_id": 53634,
+      "game_name": "Sniper: Ghost Warrior 2 - Collector's Edition",
+      "file": "missing/S/53634-sniper-ghost-warrior-2-collectors-edition.json"
+    },
+    {
+      "igdb_id": 53636,
+      "game_name": "Sniper: Ghost Warrior 2 - Limited Edition",
+      "file": "missing/S/53636-sniper-ghost-warrior-2-limited-edition.json"
+    },
+    {
       "igdb_id": 10882,
       "game_name": "Sniper: Ghost Warrior 2 - Siberian Strike",
       "file": "missing/S/10882-sniper-ghost-warrior-2-siberian-strike.json"
@@ -951370,6 +951540,11 @@
       "igdb_id": 156186,
       "game_name": "Sniper: Ghost Warrior 2 - World Hunter Pack",
       "file": "missing/S/156186-sniper-ghost-warrior-2-world-hunter-pack.json"
+    },
+    {
+      "igdb_id": 53633,
+      "game_name": "Sniper: Ghost Warrior Trilogy",
+      "file": "missing/S/53633-sniper-ghost-warrior-trilogy.json"
     },
     {
       "igdb_id": 26889,
@@ -954187,6 +954362,11 @@
       "file": "missing/S/359199-socially-awkward.json"
     },
     {
+      "igdb_id": 53632,
+      "game_name": "Society of the Serpent Moon: Last Half of Darkness",
+      "file": "missing/S/53632-society-of-the-serpent-moon-last-half-of-darkness.json"
+    },
+    {
       "igdb_id": 152833,
       "game_name": "Society's Paradigms",
       "file": "missing/S/152833-societys-paradigms.json"
@@ -955272,6 +955452,11 @@
       "file": "missing/S/377703-sol-enchant.json"
     },
     {
+      "igdb_id": 53631,
+      "game_name": "SOL: Exodus - Collector's Edition",
+      "file": "missing/S/53631-sol-exodus-collectors-edition.json"
+    },
+    {
       "igdb_id": 247448,
       "game_name": "Sol: Last Light",
       "file": "missing/S/247448-sol-last-light.json"
@@ -956002,6 +956187,11 @@
       "file": "missing/S/30613-soldier-sortie-vr-agent-006.json"
     },
     {
+      "igdb_id": 53630,
+      "game_name": "Soldier Summit Collection",
+      "file": "missing/S/53630-soldier-summit-collection.json"
+    },
+    {
       "igdb_id": 54389,
       "game_name": "Soldier vs Aliens",
       "file": "missing/S/54389-soldier-vs-aliens.json"
@@ -956542,6 +956732,11 @@
       "file": "missing/S/208949-solitaire-collection.json"
     },
     {
+      "igdb_id": 53629,
+      "game_name": "Solitaire Collection",
+      "file": "missing/S/53629-solitaire-collection.json"
+    },
+    {
       "igdb_id": 90371,
       "game_name": "Solitaire Collection HD",
       "file": "missing/S/90371-solitaire-collection-hd.json"
@@ -956755,6 +956950,11 @@
       "igdb_id": 93747,
       "game_name": "Solitaire Knights",
       "file": "missing/S/93747-solitaire-knights.json"
+    },
+    {
+      "igdb_id": 53627,
+      "game_name": "Solitaire Legends Collection",
+      "file": "missing/S/53627-solitaire-legends-collection.json"
     },
     {
       "igdb_id": 25703,
@@ -964442,6 +964642,11 @@
       "file": "missing/S/237296-soul-knight-the-forest-of-spirits.json"
     },
     {
+      "igdb_id": 53624,
+      "game_name": "Soul Knights RPG",
+      "file": "missing/S/53624-soul-knights-rpg.json"
+    },
+    {
       "igdb_id": 174651,
       "game_name": "Soul Land Reloaded",
       "file": "missing/S/174651-soul-land-reloaded.json"
@@ -965427,6 +965632,11 @@
       "file": "missing/S/374380-soulscape-2-fragments-of-the-present.json"
     },
     {
+      "igdb_id": 53623,
+      "game_name": "SoulSet: Necromancer Edition",
+      "file": "missing/S/53623-soulset-necromancer-edition.json"
+    },
+    {
       "igdb_id": 295597,
       "game_name": "SoulShake",
       "file": "missing/S/295597-soulshake.json"
@@ -966165,6 +966375,11 @@
       "igdb_id": 96134,
       "game_name": "South Park: The Fractured But Whole - From Dusk Till Casa Bonita",
       "file": "missing/S/96134-south-park-the-fractured-but-whole-from-dusk-till-casa-bonita.json"
+    },
+    {
+      "igdb_id": 53622,
+      "game_name": "South Park: The Fractured but Whole - Gold Edition",
+      "file": "missing/S/53622-south-park-the-fractured-but-whole-gold-edition.json"
     },
     {
       "igdb_id": 74745,
@@ -967260,6 +967475,11 @@
       "igdb_id": 60792,
       "game_name": "Space Chicks",
       "file": "missing/S/60792-space-chicks.json"
+    },
+    {
+      "igdb_id": 53621,
+      "game_name": "Space Child",
+      "file": "missing/S/53621-space-child.json"
     },
     {
       "igdb_id": 200685,
@@ -1063137,6 +1063357,11 @@
       "file": "missing/T/352510-the-case-of-theo.json"
     },
     {
+      "igdb_id": 53707,
+      "game_name": "The Casebook of Terry Winter",
+      "file": "missing/T/53707-the-casebook-of-terry-winter.json"
+    },
+    {
       "igdb_id": 122350,
       "game_name": "The Cases of the Thousands Shogi Records",
       "file": "missing/T/122350-the-cases-of-the-thousands-shogi-records.json"
@@ -1064407,6 +1064632,11 @@
       "file": "missing/T/91799-the-cluefinders-reading-adventures.json"
     },
     {
+      "igdb_id": 53706,
+      "game_name": "The Clumsys",
+      "file": "missing/T/53706-the-clumsys.json"
+    },
+    {
       "igdb_id": 186864,
       "game_name": "The Clutch: Remastered",
       "file": "missing/T/186864-the-clutch-remastered.json"
@@ -1064902,6 +1065132,11 @@
       "file": "missing/T/176314-the-confraternity-of-toast-2.json"
     },
     {
+      "igdb_id": 53705,
+      "game_name": "The Conjurer",
+      "file": "missing/T/53705-the-conjurer.json"
+    },
+    {
       "igdb_id": 195467,
       "game_name": "The Conqueror of Battles",
       "file": "missing/T/195467-the-conqueror-of-battles.json"
@@ -1065000,6 +1065235,11 @@
       "igdb_id": 104045,
       "game_name": "The Cooking Game VR",
       "file": "missing/T/104045-the-cooking-game-vr.json"
+    },
+    {
+      "igdb_id": 53704,
+      "game_name": "The Cooking Game: Deluxe Edition",
+      "file": "missing/T/53704-the-cooking-game-deluxe-edition.json"
     },
     {
       "igdb_id": 316409,
@@ -1065470,6 +1065710,11 @@
       "igdb_id": 298706,
       "game_name": "The Crew Motorfest: Year 1 Pass",
       "file": "missing/T/298706-the-crew-motorfest-year-1-pass.json"
+    },
+    {
+      "igdb_id": 53703,
+      "game_name": "The Crew: Gold Edition",
+      "file": "missing/T/53703-the-crew-gold-edition.json"
     },
     {
       "igdb_id": 408888,
@@ -1091365,6 +1091610,11 @@
       "igdb_id": 47955,
       "game_name": "The Naked Brothers Band: The Video Game",
       "file": "missing/T/47955-the-naked-brothers-band-the-video-game.json"
+    },
+    {
+      "igdb_id": 408022,
+      "game_name": "The Name I Wear",
+      "file": "missing/T/408022-the-name-i-wear.json"
     },
     {
       "igdb_id": 178458,
@@ -1217280,6 +1217530,11 @@
       "igdb_id": 282222,
       "game_name": "Wheelborn",
       "file": "missing/W/282222-wheelborn.json"
+    },
+    {
+      "igdb_id": 406738,
+      "game_name": "Wheelchair for Two",
+      "file": "missing/W/406738-wheelchair-for-two.json"
     },
     {
       "igdb_id": 103157,
