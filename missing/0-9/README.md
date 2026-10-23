@@ -1154,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Games In 1: The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy | 86055 | [86055-2-games-in-1-the-spongebob-squarepants-movie-spongebob-squarepants-and-friends-in-freeze-frame-frenzy.json](./86055-2-games-in-1-the-spongebob-squarepants-movie-spongebob-squarepants-and-friends-in-freeze-frame-frenzy.json) |
 | 2 Games in 1!: Archer Maclean's Mercury / Mercury Meltdown | 138010 | [138010-2-games-in-1-archer-macleans-mercury-mercury-meltdown.json](./138010-2-games-in-1-archer-macleans-mercury-mercury-meltdown.json) |
 | 2 Games in One Double Pack \| Dora the Explorer: Pirate Pig's Treasure & Dora the Explorer: Super Star Adventures | 91427 | [91427-2-games-in-one-double-pack-dora-the-explorer-pirate-pigs-treasure-and-dora-the-explorer-super-star-adventures.json](./91427-2-games-in-one-double-pack-dora-the-explorer-pirate-pigs-treasure-and-dora-the-explorer-super-star-adventures.json) |
+| 2 Hot 2 Handle | 85931 | [85931-2-hot-2-handle.json](./85931-2-hot-2-handle.json) |
 | 2 Hours Later | 358074 | [358074-2-hours-later.json](./358074-2-hours-later.json) |
 | 2 Hours to Refund | 382985 | [382985-2-hours-to-refund.json](./382985-2-hours-to-refund.json) |
 | 2 in 1 Collection: Culture of Asia + The Mystery of Pirates Treasure | 93970 | [93970-2-in-1-collection-culture-of-asia-the-mystery-of-pirates-treasure.json](./93970-2-in-1-collection-culture-of-asia-the-mystery-of-pirates-treasure.json) |
@@ -1588,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Bomberman | 85953 | [85953-3-d-bomberman.json](./85953-3-d-bomberman.json) |
 | 3-D Docking Mission | 342821 | [342821-3-d-docking-mission.json](./342821-3-d-docking-mission.json) |
 | 3-D Escape!: 1000 Mazes | 245577 | [245577-3-d-escape-1000-mazes.json](./245577-3-d-escape-1000-mazes.json) |
+| 3-D Frog Man | 85896 | [85896-3-d-frog-man.json](./85896-3-d-frog-man.json) |
 | 3-D Genesis | 40665 | [40665-3-d-genesis.json](./40665-3-d-genesis.json) |
 | 3-D Havoc | 40664 | [40664-3-d-havoc.json](./40664-3-d-havoc.json) |
 | 3-D Hunting 2010 | 27442 | [27442-3-d-hunting-2010.json](./27442-3-d-hunting-2010.json) |
