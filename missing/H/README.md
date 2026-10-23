@@ -2485,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headless D | 223629 | [223629-headless-d.json](./223629-headless-d.json) |
 | Headless Zombie 2 | 102020 | [102020-headless-zombie-2.json](./102020-headless-zombie-2.json) |
 | Headlice | 292585 | [292585-headlice.json](./292585-headlice.json) |
+| Headline Harry and The Great Paper Race | 70785 | [70785-headline-harry-and-the-great-paper-race.json](./70785-headline-harry-and-the-great-paper-race.json) |
 | Headliner: NoviNews | 107596 | [107596-headliner-novinews.json](./107596-headliner-novinews.json) |
 | Headlines from the Deep | 177312 | [177312-headlines-from-the-deep.json](./177312-headlines-from-the-deep.json) |
 | Headlong Hunt | 152226 | [152226-headlong-hunt.json](./152226-headlong-hunt.json) |
@@ -7687,6 +7688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hookscrap | 247357 | [247357-hookscrap.json](./247357-hookscrap.json) |
 | Hookshot Runner | 341615 | [341615-hookshot-runner.json](./341615-hookshot-runner.json) |
 | HookShotVR | 143934 | [143934-hookshotvr.json](./143934-hookshotvr.json) |
+| Hooky McPegleg, Pirate Postman | 70813 | [70813-hooky-mcpegleg-pirate-postman.json](./70813-hooky-mcpegleg-pirate-postman.json) |
 | Hooligan Crusoe | 283841 | [283841-hooligan-crusoe.json](./283841-hooligan-crusoe.json) |
 | Hooligan James | 215342 | [215342-hooligan-james.json](./215342-hooligan-james.json) |
 | Hooligan Simulator | 128285 | [128285-hooligan-simulator.json](./128285-hooligan-simulator.json) |
@@ -9537,6 +9539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Revenge | 235648 | [235648-hunter-revenge.json](./235648-hunter-revenge.json) |
 | Hunter Shooting Camp | 154903 | [154903-hunter-shooting-camp.json](./154903-hunter-shooting-camp.json) |
 | Hunter Simulator VR: Wild Hunting | 391345 | [391345-hunter-simulator-vr-wild-hunting.json](./391345-hunter-simulator-vr-wild-hunting.json) |
+| Hunter Story | 70817 | [70817-hunter-story.json](./70817-hunter-story.json) |
 | Hunter Survive Zero | 379165 | [379165-hunter-survive-zero.json](./379165-hunter-survive-zero.json) |
 | Hunter Survivors | 204824 | [204824-hunter-survivors.json](./204824-hunter-survivors.json) |
 | Hunter x Hunter: Arena Battle | 122017 | [122017-hunter-x-hunter-arena-battle.json](./122017-hunter-x-hunter-arena-battle.json) |
