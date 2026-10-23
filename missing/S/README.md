@@ -2542,7 +2542,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo Mystery Cases | 87730 | [87730-scooby-doo-mystery-cases.json](./87730-scooby-doo-mystery-cases.json) |
 | Scooby-Doo: Case File 1 - The Glowing Bug Man | 78685 | [78685-scooby-doo-case-file-1-the-glowing-bug-man.json](./78685-scooby-doo-case-file-1-the-glowing-bug-man.json) |
 | Scooby-Doo: Funland Frenzy | 73002 | [73002-scooby-doo-funland-frenzy.json](./73002-scooby-doo-funland-frenzy.json) |
+| Scooby-Doo: Jinx at the Sphinx | 67791 | [67791-scooby-doo-jinx-at-the-sphinx.json](./67791-scooby-doo-jinx-at-the-sphinx.json) |
 | Scooby-Doo: Math Times Two | 108790 | [108790-scooby-doo-math-times-two.json](./108790-scooby-doo-math-times-two.json) |
+| Scooby-Doo: Showdown in Ghost Town | 67790 | [67790-scooby-doo-showdown-in-ghost-town.json](./67790-scooby-doo-showdown-in-ghost-town.json) |
 | Scooby-Doo: Spooky Snacks | 108780 | [108780-scooby-doo-spooky-snacks.json](./108780-scooby-doo-spooky-snacks.json) |
 | Scooby-Doo! & Looney Tunes Cartoon Universe: Adventure | 36326 | [36326-scooby-doo-and-looney-tunes-cartoon-universe-adventure.json](./36326-scooby-doo-and-looney-tunes-cartoon-universe-adventure.json) |
 | Scooby-Doo! & Looney Tunes Cartoon Universe: Arcade | 247599 | [247599-scooby-doo-and-looney-tunes-cartoon-universe-arcade.json](./247599-scooby-doo-and-looney-tunes-cartoon-universe-arcade.json) |
@@ -8829,6 +8831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simson Pet Rescue | 343929 | [343929-simson-pet-rescue.json](./343929-simson-pet-rescue.json) |
 | Simson Tuningwerkstatt 3D | 111634 | [111634-simson-tuningwerkstatt-3d.json](./111634-simson-tuningwerkstatt-3d.json) |
 | Simstory: Live As You Wish | 101573 | [101573-simstory-live-as-you-wish.json](./101573-simstory-live-as-you-wish.json) |
+| SimsVille | 67822 | [67822-simsville.json](./67822-simsville.json) |
 | SIMT Simulator | 55118 | [55118-simt-simulator.json](./55118-simt-simulator.json) |
 | SimTown | 20194 | [20194-simtown.json](./20194-simtown.json) |
 | SimTown | 213291 | [213291-simtown.json](./213291-simtown.json) |
@@ -12451,6 +12454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Empire: The Dream Begins | 256166 | [256166-soccer-empire-the-dream-begins.json](./256166-soccer-empire-the-dream-begins.json) |
 | Soccer Feeling | 59444 | [59444-soccer-feeling.json](./59444-soccer-feeling.json) |
 | Soccer for Arcadia 2001 | 131540 | [131540-soccer-for-arcadia-2001.json](./131540-soccer-for-arcadia-2001.json) |
+| Soccer Fury | 67788 | [67788-soccer-fury.json](./67788-soccer-fury.json) |
 | Soccer Goal Run | 329577 | [329577-soccer-goal-run.json](./329577-soccer-goal-run.json) |
 | Soccer Hero 2019 | 223913 | [223913-soccer-hero-2019.json](./223913-soccer-hero-2019.json) |
 | Soccer Hero! | 103526 | [103526-soccer-hero.json](./103526-soccer-hero.json) |
@@ -14906,7 +14910,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Pacific Quest | 69529 | [69529-south-pacific-quest.json](./69529-south-pacific-quest.json) |
 | South Park | 198486 | [198486-south-park.json](./198486-south-park.json) |
 | South Park : The Stick of Truth + The Fractured but Whole Bundle | 164783 | [164783-south-park-the-stick-of-truth-the-fractured-but-whole-bundle.json](./164783-south-park-the-stick-of-truth-the-fractured-but-whole-bundle.json) |
+| South Park 101 - Quizner's Trivia | 67782 | [67782-south-park-101-quizners-trivia.json](./67782-south-park-101-quizners-trivia.json) |
 | South Park 201 - Quizner's Trivia | 76981 | [76981-south-park-201-quizners-trivia.json](./76981-south-park-201-quizners-trivia.json) |
+| South Park Imaginationland | 67783 | [67783-south-park-imaginationland.json](./67783-south-park-imaginationland.json) |
 | South Park Let's Go Tower Defense Play! | 1260 | [1260-south-park-lets-go-tower-defense-play.json](./1260-south-park-lets-go-tower-defense-play.json) |
 | South Park Mega Millionaire | 65752 | [65752-south-park-mega-millionaire.json](./65752-south-park-mega-millionaire.json) |
 | South Park Rally | 1259 | [1259-south-park-rally.json](./1259-south-park-rally.json) |
@@ -18420,6 +18426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid Survival Simulator: Sea Animal Life 3D | 104594 | [104594-squid-survival-simulator-sea-animal-life-3d.json](./104594-squid-survival-simulator-sea-animal-life-3d.json) |
 | Squid Town | 112511 | [112511-squid-town.json](./112511-squid-town.json) |
 | Squid Vs Vexus | 107694 | [107694-squid-vs-vexus.json](./107694-squid-vs-vexus.json) |
+| Squid Yes! Not So Octopus! | 67833 | [67833-squid-yes-not-so-octopus.json](./67833-squid-yes-not-so-octopus.json) |
 | Squid: Sponge Neighbor Expose | 326703 | [326703-squid-sponge-neighbor-expose.json](./326703-squid-sponge-neighbor-expose.json) |
 | Squid! Escape! Fight! | 229254 | [229254-squid-escape-fight.json](./229254-squid-escape-fight.json) |
 | Squidding Over It | 258880 | [258880-squidding-over-it.json](./258880-squidding-over-it.json) |
@@ -21416,6 +21423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonehenge VR | 33137 | [33137-stonehenge-vr.json](./33137-stonehenge-vr.json) |
 | Stonehold | 354950 | [354950-stonehold.json](./354950-stonehold.json) |
 | Stonekeep | 253 | [253-stonekeep.json](./253-stonekeep.json) |
+| StoneLoops! of Jurassica | 67810 | [67810-stoneloops-of-jurassica.json](./67810-stoneloops-of-jurassica.json) |
 | Stonemachia | 300028 | [300028-stonemachia.json](./300028-stonemachia.json) |
 | Stoneman's Adventure | 256725 | [256725-stonemans-adventure.json](./256725-stonemans-adventure.json) |
 | Stones Keeper: King Aurelius | 212863 | [212863-stones-keeper-king-aurelius.json](./212863-stones-keeper-king-aurelius.json) |
@@ -27819,6 +27827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swinario Super Bros. Play | 169252 | [169252-swinario-super-bros-play.json](./169252-swinario-super-bros-play.json) |
 | Swindler | 51170 | [51170-swindler.json](./51170-swindler.json) |
 | Swindler 1.11 | 177790 | [177790-swindler-1-11.json](./177790-swindler-1-11.json) |
+| Swine Flu H1N1 | 67802 | [67802-swine-flu-h1n1.json](./67802-swine-flu-h1n1.json) |
 | Swine's Revenge | 360011 | [360011-swines-revenge.json](./360011-swines-revenge.json) |
 | Swing | 85912 | [85912-swing.json](./85912-swing.json) |
 | Swing & Miss | 159193 | [159193-swing-and-miss.json](./159193-swing-and-miss.json) |
