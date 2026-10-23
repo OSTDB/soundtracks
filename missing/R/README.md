@@ -2945,6 +2945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Booth | 381400 | [381400-red-booth.json](./381400-red-booth.json) |
 | Red Bow | 118122 | [118122-red-bow.json](./118122-red-bow.json) |
 | Red Bow: Strange Dream | 380998 | [380998-red-bow-strange-dream.json](./380998-red-bow-strange-dream.json) |
+| Red boy and Blue girl - Forest Temple Maze 2 | 95894 | [95894-red-boy-and-blue-girl-forest-temple-maze-2.json](./95894-red-boy-and-blue-girl-forest-temple-maze-2.json) |
 | Red Brick Hotel | 163401 | [163401-red-brick-hotel.json](./163401-red-brick-hotel.json) |
 | Red Bull Air Race - The Game | 110187 | [110187-red-bull-air-race-the-game.json](./110187-red-bull-air-race-the-game.json) |
 | Red Bull Air Race 2 | 100165 | [100165-red-bull-air-race-2.json](./100165-red-bull-air-race-2.json) |
@@ -7004,6 +7005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboKiden | 306213 | [306213-robokiden.json](./306213-robokiden.json) |
 | Robokill | 361334 | [361334-robokill.json](./361334-robokill.json) |
 | Robokill 2: Leviathan Five | 143455 | [143455-robokill-2-leviathan-five.json](./143455-robokill-2-leviathan-five.json) |
+| Robokill: Titan Prime | 95901 | [95901-robokill-titan-prime.json](./95901-robokill-titan-prime.json) |
 | RoboKong | 137571 | [137571-robokong.json](./137571-robokong.json) |
 | Robolife: Days with Aino | 158976 | [158976-robolife-days-with-aino.json](./158976-robolife-days-with-aino.json) |
 | Robolife2: Nova Duty | 211585 | [211585-robolife2-nova-duty.json](./211585-robolife2-nova-duty.json) |
@@ -7132,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Start: Puzzle Game | 149605 | [149605-robot-start-puzzle-game.json](./149605-robot-start-puzzle-game.json) |
 | Robot TD | 258917 | [258917-robot-td.json](./258917-robot-td.json) |
 | Robot terminator | 120704 | [120704-robot-terminator.json](./120704-robot-terminator.json) |
+| Robot Transforming Gorilla Attack: Gorilla Games | 95797 | [95797-robot-transforming-gorilla-attack-gorilla-games.json](./95797-robot-transforming-gorilla-attack-gorilla-games.json) |
 | Robot Trivia Funtime | 301588 | [301588-robot-trivia-funtime.json](./301588-robot-trivia-funtime.json) |
 | Robot Unicorn Attack 2 | 76895 | [76895-robot-unicorn-attack-2.json](./76895-robot-unicorn-attack-2.json) |
 | Robot Unicorn Attack Evolution | 230136 | [230136-robot-unicorn-attack-evolution.json](./230136-robot-unicorn-attack-evolution.json) |
@@ -9074,6 +9077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Flush | 79182 | [79182-royal-flush.json](./79182-royal-flush.json) |
 | Royal Flux: The Astral Shadow Plague | 413138 | [413138-royal-flux-the-astral-shadow-plague.json](./413138-royal-flux-the-astral-shadow-plague.json) |
 | Royal Frontier | 193668 | [193668-royal-frontier.json](./193668-royal-frontier.json) |
+| Royal Garden Tales | 95801 | [95801-royal-garden-tales.json](./95801-royal-garden-tales.json) |
 | Royal Garden Tales | 95878 | [95878-royal-garden-tales.json](./95878-royal-garden-tales.json) |
 | Royal Gems | 116332 | [116332-royal-gems.json](./116332-royal-gems.json) |
 | Royal Hentai: Boobs & Pussies | 366538 | [366538-royal-hentai-boobs-and-pussies.json](./366538-royal-hentai-boobs-and-pussies.json) |
