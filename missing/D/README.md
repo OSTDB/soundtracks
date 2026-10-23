@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daito Giken Koushiki Pachislot Simulator: 24- Twenty-Four | 65550 | [65550-daito-giken-koushiki-pachislot-simulator-24-twenty-four.json](./65550-daito-giken-koushiki-pachislot-simulator-24-twenty-four.json) |
 | Daitoride | 93512 | [93512-daitoride.json](./93512-daitoride.json) |
 | Daitoshokan no Hitsujikai: Dreaming Sheep | 125812 | [125812-daitoshokan-no-hitsujikai-dreaming-sheep.json](./125812-daitoshokan-no-hitsujikai-dreaming-sheep.json) |
+| Daitoshokan no Hitsujikai: Library Party | 60960 | [60960-daitoshokan-no-hitsujikai-library-party.json](./60960-daitoshokan-no-hitsujikai-library-party.json) |
 | Daiva Story 1: Flames of Vlitra | 392848 | [392848-daiva-story-1-flames-of-vlitra.json](./392848-daiva-story-1-flames-of-vlitra.json) |
 | Daiva Story 2: Memory in Durga | 392849 | [392849-daiva-story-2-memory-in-durga.json](./392849-daiva-story-2-memory-in-durga.json) |
 | Daiva Story 3: Trial of Nirvana | 392850 | [392850-daiva-story-3-trial-of-nirvana.json](./392850-daiva-story-3-trial-of-nirvana.json) |
@@ -9614,6 +9615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Solitaire | 83430 | [83430-domino-solitaire.json](./83430-domino-solitaire.json) |
 | Domino VR | 31894 | [31894-domino-vr.json](./31894-domino-vr.json) |
 | Domino! | 281483 | [281483-domino.json](./281483-domino.json) |
+| Dominoes | 60322 | [60322-dominoes.json](./60322-dominoes.json) |
 | Dominoes Café | 204967 | [204967-dominoes-cafe.json](./204967-dominoes-cafe.json) |
 | Dominoes Colors | 264599 | [264599-dominoes-colors.json](./264599-dominoes-colors.json) |
 | Dominoid | 346641 | [346641-dominoid.json](./346641-dominoid.json) |
@@ -10104,6 +10106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donki Hills | 358294 | [358294-donki-hills.json](./358294-donki-hills.json) |
 | Donna Brave: Paris Strangler | 104592 | [104592-donna-brave-paris-strangler.json](./104592-donna-brave-paris-strangler.json) |
 | Donna Kanji? Ii Kanji | 256271 | [256271-donna-kanji-ii-kanji.json](./256271-donna-kanji-ii-kanji.json) |
+| Donna Matrix | 60956 | [60956-donna-matrix.json](./60956-donna-matrix.json) |
 | Donna the Firebreather | 418525 | [418525-donna-the-firebreather.json](./418525-donna-the-firebreather.json) |
 | Donnie the Chao Final Mix | 316971 | [316971-donnie-the-chao-final-mix.json](./316971-donnie-the-chao-final-mix.json) |
 | Donnie's Delicious Nuclear Funeral | 390521 | [390521-donnies-delicious-nuclear-funeral.json](./390521-donnies-delicious-nuclear-funeral.json) |
@@ -14505,6 +14508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Trail | 374595 | [374595-dungeon-trail.json](./374595-dungeon-trail.json) |
 | Dungeon Train | 333404 | [333404-dungeon-train.json](./333404-dungeon-train.json) |
 | Dungeon Train VR | 182837 | [182837-dungeon-train-vr.json](./182837-dungeon-train-vr.json) |
+| Dungeon Travelers 2-2: The Fallen Maidens & the Book of Beginnings | 60962 | [60962-dungeon-travelers-2-2-the-fallen-maidens-and-the-book-of-beginnings.json](./60962-dungeon-travelers-2-2-the-fallen-maidens-and-the-book-of-beginnings.json) |
 | Dungeon Travelers: To Heart 2 in Another World | 64235 | [64235-dungeon-travelers-to-heart-2-in-another-world.json](./64235-dungeon-travelers-to-heart-2-in-another-world.json) |
 | Dungeon Treaders | 388401 | [388401-dungeon-treaders.json](./388401-dungeon-treaders.json) |
 | Dungeon Trick | 391723 | [391723-dungeon-trick.json](./391723-dungeon-trick.json) |
