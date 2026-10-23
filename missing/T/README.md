@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactera | 81169 | [81169-tactera.json](./81169-tactera.json) |
 | Tactful | 287565 | [287565-tactful.json](./287565-tactful.json) |
 | Tacti-Cat | 265926 | [265926-tacti-cat.json](./265926-tacti-cat.json) |
+| Tactic | 77784 | [77784-tactic.json](./77784-tactic.json) |
 | Tactic Code | 109310 | [109310-tactic-code.json](./109310-tactic-code.json) |
 | Tactic Force | 123542 | [123542-tactic-force.json](./123542-tactic-force.json) |
 | Tactic Legends | 211157 | [211157-tactic-legends.json](./211157-tactic-legends.json) |
@@ -19503,6 +19504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TokoToko | 124705 | [124705-tokotoko.json](./124705-tokotoko.json) |
 | Tokoyo ni Ochiru Hana | 163358 | [163358-tokoyo-ni-ochiru-hana.json](./163358-tokoyo-ni-ochiru-hana.json) |
 | Tokoyo: The Tower of Perpetuity | 139042 | [139042-tokoyo-the-tower-of-perpetuity.json](./139042-tokoyo-the-tower-of-perpetuity.json) |
+| Tokubetsu Byoutou | 77815 | [77815-tokubetsu-byoutou.json](./77815-tokubetsu-byoutou.json) |
 | Tokumei Sentai Go-Busters | 63581 | [63581-tokumei-sentai-go-busters.json](./63581-tokumei-sentai-go-busters.json) |
 | Tokusatsu Bouken Katsugeki Super Hero Retsuden | 58778 | [58778-tokusatsu-bouken-katsugeki-super-hero-retsuden.json](./58778-tokusatsu-bouken-katsugeki-super-hero-retsuden.json) |
 | Tokusen! | 108996 | [108996-tokusen.json](./108996-tokusen.json) |
@@ -20640,6 +20642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Shift: Wheeled Rebellion | 387090 | [387090-total-shift-wheeled-rebellion.json](./387090-total-shift-wheeled-rebellion.json) |
 | Total Singu | 102954 | [102954-total-singu.json](./102954-total-singu.json) |
 | Total Ski Jump | 122159 | [122159-total-ski-jump.json](./122159-total-ski-jump.json) |
+| Total Soccer | 77778 | [77778-total-soccer.json](./77778-total-soccer.json) |
 | Total Soccer 2000 | 73353 | [73353-total-soccer-2000.json](./73353-total-soccer-2000.json) |
 | Total Soccer Manager | 49343 | [49343-total-soccer-manager.json](./49343-total-soccer-manager.json) |
 | Total Sports | 94637 | [94637-total-sports.json](./94637-total-sports.json) |
@@ -20847,6 +20850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tottoko Hamtaro: Tomodachi Daisakusen Dechu | 63222 | [63222-tottoko-hamtaro-tomodachi-daisakusen-dechu.json](./63222-tottoko-hamtaro-tomodachi-daisakusen-dechu.json) |
 | Totum | 268943 | [268943-totum.json](./268943-totum.json) |
 | Tou Ikkyoku Gojyuusan Honba | 360085 | [360085-tou-ikkyoku-gojyuusan-honba.json](./360085-tou-ikkyoku-gojyuusan-honba.json) |
+| Tou no Shita no Exercitus | 77827 | [77827-tou-no-shita-no-exercitus.json](./77827-tou-no-shita-no-exercitus.json) |
 | Toubatsu | 385825 | [385825-toubatsu.json](./385825-toubatsu.json) |
 | Toucan Rampage: Sandstorm Shooter | 278358 | [278358-toucan-rampage-sandstorm-shooter.json](./278358-toucan-rampage-sandstorm-shooter.json) |
 | Touch | 256328 | [256328-touch.json](./256328-touch.json) |
@@ -24335,8 +24339,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triangle Dash! | 252710 | [252710-triangle-dash.json](./252710-triangle-dash.json) |
 | Triangle Defense | 371970 | [371970-triangle-defense.json](./371970-triangle-defense.json) |
 | Triangle Heart | 77678 | [77678-triangle-heart.json](./77678-triangle-heart.json) |
+| Triangle Heart 2: Sazanami Joshiryou | 77832 | [77832-triangle-heart-2-sazanami-joshiryou.json](./77832-triangle-heart-2-sazanami-joshiryou.json) |
 | Triangle Heart 3: Lyrical Omochabako | 77835 | [77835-triangle-heart-3-lyrical-omochabako.json](./77835-triangle-heart-3-lyrical-omochabako.json) |
 | Triangle Heart Gaiden | 77836 | [77836-triangle-heart-gaiden.json](./77836-triangle-heart-gaiden.json) |
+| Triangle Heart: Love Love Omochabako | 77834 | [77834-triangle-heart-love-love-omochabako.json](./77834-triangle-heart-love-love-omochabako.json) |
 | Triangle Legacy Revolution | 112317 | [112317-triangle-legacy-revolution.json](./112317-triangle-legacy-revolution.json) |
 | Triangle Mania | 118082 | [118082-triangle-mania.json](./118082-triangle-mania.json) |
 | Triangle Project Otome Visual Novels | 116382 | [116382-triangle-project-otome-visual-novels.json](./116382-triangle-project-otome-visual-novels.json) |
