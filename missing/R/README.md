@@ -2335,6 +2335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Lives | 93439 | [93439-real-lives.json](./93439-real-lives.json) |
 | Real Madrid Club Football | 141135 | [141135-real-madrid-club-football.json](./141135-real-madrid-club-football.json) |
 | Real Madrid Club Football 2005 | 267898 | [267898-real-madrid-club-football-2005.json](./267898-real-madrid-club-football-2005.json) |
+| Real Madrid: The Game | 69130 | [69130-real-madrid-the-game.json](./69130-real-madrid-the-game.json) |
 | Real Mahjong Adventure Umi he: Summer Waltz | 293150 | [293150-real-mahjong-adventure-umi-he-summer-waltz.json](./293150-real-mahjong-adventure-umi-he-summer-waltz.json) |
 | Real Man Got 100 | 119468 | [119468-real-man-got-100.json](./119468-real-man-got-100.json) |
 | Real Man Got 100 | 336951 | [336951-real-man-got-100.json](./336951-real-man-got-100.json) |
@@ -6991,6 +6992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboBlaster | 181869 | [181869-roboblaster.json](./181869-roboblaster.json) |
 | RoboBunnies In Space! | 111495 | [111495-robobunnies-in-space.json](./111495-robobunnies-in-space.json) |
 | Robocalypse | 21454 | [21454-robocalypse.json](./21454-robocalypse.json) |
+| Robocalypse: Beaver Defense | 69126 | [69126-robocalypse-beaver-defense.json](./69126-robocalypse-beaver-defense.json) |
 | Robocco Wars | 72649 | [72649-robocco-wars.json](./72649-robocco-wars.json) |
 | RoboCo | 121739 | [121739-roboco.json](./121739-roboco.json) |
 | RoboCock | 274454 | [274454-robocock.json](./274454-robocock.json) |
@@ -7807,9 +7809,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky Legends | 6016 | [6016-rocky-legends.json](./6016-rocky-legends.json) |
 | Rocky Mayhem | 157103 | [157103-rocky-mayhem.json](./157103-rocky-mayhem.json) |
 | Rocky Memphis and the Temple of Ophuxoff | 65773 | [65773-rocky-memphis-and-the-temple-of-ophuxoff.json](./65773-rocky-memphis-and-the-temple-of-ophuxoff.json) |
+| Rocky Mountain Trophy Hunter 2 - Above the Treeline | 69091 | [69091-rocky-mountain-trophy-hunter-2-above-the-treeline.json](./69091-rocky-mountain-trophy-hunter-2-above-the-treeline.json) |
 | Rocky Mountain Trophy Hunter 2003 | 51362 | [51362-rocky-mountain-trophy-hunter-2003.json](./51362-rocky-mountain-trophy-hunter-2003.json) |
 | Rocky Mountain Trophy Hunter 3 | 71733 | [71733-rocky-mountain-trophy-hunter-3.json](./71733-rocky-mountain-trophy-hunter-3.json) |
 | Rocky Mountain Trophy Hunter: Alaskan Expedition | 69084 | [69084-rocky-mountain-trophy-hunter-alaskan-expedition.json](./69084-rocky-mountain-trophy-hunter-alaskan-expedition.json) |
+| Rocky Mountain Trophy Hunter: Alaskan Expedition | 69094 | [69094-rocky-mountain-trophy-hunter-alaskan-expedition.json](./69094-rocky-mountain-trophy-hunter-alaskan-expedition.json) |
 | Rocky Mountain: Trophy Hunter | 249158 | [249158-rocky-mountain-trophy-hunter.json](./249158-rocky-mountain-trophy-hunter.json) |
 | Rocky Mountain: Trophy Hunter | 49946 | [49946-rocky-mountain-trophy-hunter.json](./49946-rocky-mountain-trophy-hunter.json) |
 | Rocky Planet | 127652 | [127652-rocky-planet.json](./127652-rocky-planet.json) |
