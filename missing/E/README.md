@@ -851,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eco-Sentinel: The Bottle Mission | 364957 | [364957-eco-sentinel-the-bottle-mission.json](./364957-eco-sentinel-the-bottle-mission.json) |
 | Ecoco de Fight! | 342129 | [342129-ecoco-de-fight.json](./342129-ecoco-de-fight.json) |
 | EcoDriver | 233527 | [233527-ecodriver.json](./233527-ecodriver.json) |
+| EcoFish | 64234 | [64234-ecofish.json](./64234-ecofish.json) |
 | EcoGenesis | 292745 | [292745-ecogenesis.json](./292745-ecogenesis.json) |
 | EcoL tactics | 112312 | [112312-ecol-tactics.json](./112312-ecol-tactics.json) |
 | EcoMahjong | 247652 | [247652-ecomahjong.json](./247652-ecomahjong.json) |
@@ -925,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EdelSuche | 265233 | [265233-edelsuche.json](./265233-edelsuche.json) |
 | Edelweiss | 184303 | [184303-edelweiss.json](./184303-edelweiss.json) |
 | Edelweiss | 67817 | [67817-edelweiss.json](./67817-edelweiss.json) |
+| Edelweiss Eiden Fantasia | 64258 | [64258-edelweiss-eiden-fantasia.json](./64258-edelweiss-eiden-fantasia.json) |
 | Edelweiss Eidenjima Complete Pack | 126326 | [126326-edelweiss-eidenjima-complete-pack.json](./126326-edelweiss-eidenjima-complete-pack.json) |
 | Edelweiss Knights | 386867 | [386867-edelweiss-knights.json](./386867-edelweiss-knights.json) |
 | Edemn | 240634 | [240634-edemn.json](./240634-edemn.json) |
@@ -3759,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eraser Advent | 247980 | [247980-eraser-advent.json](./247980-eraser-advent.json) |
 | Eraser Drop Battle Royal | 224056 | [224056-eraser-drop-battle-royal.json](./224056-eraser-drop-battle-royal.json) |
 | Eraser vs. Ruler | 323706 | [323706-eraser-vs-ruler.json](./323706-eraser-vs-ruler.json) |
+| Eraser: Turnabout | 64237 | [64237-eraser-turnabout.json](./64237-eraser-turnabout.json) |
 | Erasure | 125282 | [125282-erasure.json](./125282-erasure.json) |
 | Erayu | 58903 | [58903-erayu.json](./58903-erayu.json) |
 | Erazer: Devise & Destroy | 164058 | [164058-erazer-devise-and-destroy.json](./164058-erazer-devise-and-destroy.json) |
@@ -6441,6 +6444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Riding | 271108 | [271108-extreme-riding.json](./271108-extreme-riding.json) |
 | Extreme Riding 2 | 278155 | [278155-extreme-riding-2.json](./278155-extreme-riding-2.json) |
 | Extreme Riverboat Racing | 146733 | [146733-extreme-riverboat-racing.json](./146733-extreme-riverboat-racing.json) |
+| Extreme Road Trip 2 | 64275 | [64275-extreme-road-trip-2.json](./64275-extreme-road-trip-2.json) |
 | Extreme Roads USA | 16962 | [16962-extreme-roads-usa.json](./16962-extreme-roads-usa.json) |
 | Extreme Skate Boarder 3D | 87635 | [87635-extreme-skate-boarder-3d.json](./87635-extreme-skate-boarder-3d.json) |
 | Extreme Skater | 200200 | [200200-extreme-skater.json](./200200-extreme-skater.json) |
