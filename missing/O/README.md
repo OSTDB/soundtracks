@@ -2622,6 +2622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Star Fighter | 339288 | [339288-open-star-fighter.json](./339288-open-star-fighter.json) |
 | Open Starbound | 354644 | [354644-open-starbound.json](./354644-open-starbound.json) |
 | Open Surge | 230243 | [230243-open-surge.json](./230243-open-surge.json) |
+| Open the Door | 98852 | [98852-open-the-door.json](./98852-open-the-door.json) |
 | Open the Door: A Short Story About Life | 245264 | [245264-open-the-door-a-short-story-about-life.json](./245264-open-the-door-a-short-story-about-life.json) |
 | Open The Doors | 310164 | [310164-open-the-doors.json](./310164-open-the-doors.json) |
 | Open The Gate: Just A Little | 381672 | [381672-open-the-gate-just-a-little.json](./381672-open-the-gate-just-a-little.json) |
