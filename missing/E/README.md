@@ -1132,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EGA-Roids | 130850 | [130850-ega-roids.json](./130850-ega-roids.json) |
 | Egaint | 79760 | [79760-egaint.json](./79760-egaint.json) |
 | Egao no Renkinjutsu | 238099 | [238099-egao-no-renkinjutsu.json](./238099-egao-no-renkinjutsu.json) |
+| Egbert | 85903 | [85903-egbert.json](./85903-egbert.json) |
 | Eger | 200974 | [200974-eger.json](./200974-eger.json) |
 | Egg | 108799 | [108799-egg.json](./108799-egg.json) |
 | Egg | 231737 | [231737-egg.json](./231737-egg.json) |
