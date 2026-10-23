@@ -4615,6 +4615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano Star! | 108266 | [108266-piano-star.json](./108266-piano-star.json) |
 | Piano Tap SAO | 402338 | [402338-piano-tap-sao.json](./402338-piano-tap-sao.json) |
 | Piano Teacher | 84826 | [84826-piano-teacher.json](./84826-piano-teacher.json) |
+| Piano Tiles | 96587 | [96587-piano-tiles.json](./96587-piano-tiles.json) |
 | Piano Tiles 2 | 57323 | [57323-piano-tiles-2.json](./57323-piano-tiles-2.json) |
 | Piano Tiles 2: Don't Tap...2 | 220173 | [220173-piano-tiles-2-dont-tap-2.json](./220173-piano-tiles-2-dont-tap-2.json) |
 | Piano Tiles 2+ | 341132 | [341132-piano-tiles-2.json](./341132-piano-tiles-2.json) |
@@ -10719,6 +10720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Tools VR | 74690 | [74690-power-tools-vr.json](./74690-power-tools-vr.json) |
 | Power Tower | 113671 | [113671-power-tower.json](./113671-power-tower.json) |
 | Power Up | 94571 | [94571-power-up.json](./94571-power-up.json) |
+| Power Up | 96555 | [96555-power-up.json](./96555-power-up.json) |
 | Power Ups that Kill! | 51165 | [51165-power-ups-that-kill.json](./51165-power-ups-that-kill.json) |
 | Power Vacuum | 251987 | [251987-power-vacuum.json](./251987-power-vacuum.json) |
 | Power Virtual TableTop | 54975 | [54975-power-virtual-tabletop.json](./54975-power-virtual-tabletop.json) |
