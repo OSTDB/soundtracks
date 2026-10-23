@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall2Wall | 302775 | [302775-wall2wall.json](./302775-wall2wall.json) |
 | Wallaby!! Usagi no Kuni no Kangaroo Race | 62084 | [62084-wallaby-usagi-no-kuni-no-kangaroo-race.json](./62084-wallaby-usagi-no-kuni-no-kangaroo-race.json) |
 | Wallace & Gromit Adventures | 320995 | [320995-wallace-and-gromit-adventures.json](./320995-wallace-and-gromit-adventures.json) |
+| Wallace & Gromit Fun Pack | 73124 | [73124-wallace-and-gromit-fun-pack.json](./73124-wallace-and-gromit-fun-pack.json) |
 | Wallace & Gromit: Invention Suspension | 320877 | [320877-wallace-and-gromit-invention-suspension.json](./320877-wallace-and-gromit-invention-suspension.json) |
 | Wallace & Gromit: Snow Drift | 320881 | [320881-wallace-and-gromit-snow-drift.json](./320881-wallace-and-gromit-snow-drift.json) |
 | Wallace & Gromit: The Big Fix Up | 321331 | [321331-wallace-and-gromit-the-big-fix-up.json](./321331-wallace-and-gromit-the-big-fix-up.json) |
@@ -1580,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Chef | 270179 | [270179-warrior-chef.json](./270179-warrior-chef.json) |
 | Warrior Chess | 90389 | [90389-warrior-chess.json](./90389-warrior-chess.json) |
 | Warrior Clicker | 227492 | [227492-warrior-clicker.json](./227492-warrior-clicker.json) |
+| Warrior Dragon | 73093 | [73093-warrior-dragon.json](./73093-warrior-dragon.json) |
 | Warrior Escape | 290460 | [290460-warrior-escape.json](./290460-warrior-escape.json) |
 | Warrior Fighter | 110520 | [110520-warrior-fighter.json](./110520-warrior-fighter.json) |
 | Warrior Heart | 200204 | [200204-warrior-heart.json](./200204-warrior-heart.json) |
@@ -3966,6 +3968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wibarm | 84248 | [84248-wibarm.json](./84248-wibarm.json) |
 | Wibble | 199262 | [199262-wibble.json](./199262-wibble.json) |
 | Wibble Wobble | 177251 | [177251-wibble-wobble.json](./177251-wibble-wobble.json) |
+| Wibbling Wilf | 73099 | [73099-wibbling-wilf.json](./73099-wibbling-wilf.json) |
 | Wibbly Witches | 150403 | [150403-wibbly-witches.json](./150403-wibbly-witches.json) |
 | Wibbly-wobbly Tower | 178421 | [178421-wibbly-wobbly-tower.json](./178421-wibbly-wobbly-tower.json) |
 | Wibby Buddy | 366865 | [366865-wibby-buddy.json](./366865-wibby-buddy.json) |
@@ -4010,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Widget Inc. | 319207 | [319207-widget-inc.json](./319207-widget-inc.json) |
 | Widget Satchel | 105353 | [105353-widget-satchel.json](./105353-widget-satchel.json) |
 | Widget Satchel II: Return of Sprocket | 151985 | [151985-widget-satchel-ii-return-of-sprocket.json](./151985-widget-satchel-ii-return-of-sprocket.json) |
+| Widget Workshop: The Mad Scientist's Laboratory | 73634 | [73634-widget-workshop-the-mad-scientists-laboratory.json](./73634-widget-workshop-the-mad-scientists-laboratory.json) |
 | Widget's Odyssey II | 53048 | [53048-widgets-odyssey-ii.json](./53048-widgets-odyssey-ii.json) |
 | Widgets and Gidgets | 157954 | [157954-widgets-and-gidgets.json](./157954-widgets-and-gidgets.json) |
 | Widgets Odyssey | 42788 | [42788-widgets-odyssey.json](./42788-widgets-odyssey.json) |
@@ -5972,6 +5976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Killer: Zorgilonian Chronicles | 29967 | [29967-word-killer-zorgilonian-chronicles.json](./29967-word-killer-zorgilonian-chronicles.json) |
 | Word Krispies | 71497 | [71497-word-krispies.json](./71497-word-krispies.json) |
 | Word Laces | 125820 | [125820-word-laces.json](./125820-word-laces.json) |
+| Word Ladders | 73094 | [73094-word-ladders.json](./73094-word-ladders.json) |
 | Word Land - Crosswords | 106955 | [106955-word-land-crosswords.json](./106955-word-land-crosswords.json) |
 | Word Lanes | 153749 | [153749-word-lanes.json](./153749-word-lanes.json) |
 | Word Link | 97131 | [97131-word-link.json](./97131-word-link.json) |
