@@ -1569,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Never | 100292 | [100292-paradise-never.json](./100292-paradise-never.json) |
 | Paradise Never: The Revolution Fails | 14398 | [14398-paradise-never-the-revolution-fails.json](./14398-paradise-never-the-revolution-fails.json) |
 | Paradise of Freedom | 332539 | [332539-paradise-of-freedom.json](./332539-paradise-of-freedom.json) |
+| Paradise Quest | 68408 | [68408-paradise-quest.json](./68408-paradise-quest.json) |
 | Paradise Rescue | 230750 | [230750-paradise-rescue.json](./230750-paradise-rescue.json) |
 | Paradise Sea | 406743 | [406743-paradise-sea.json](./406743-paradise-sea.json) |
 | Paradise Sex | 245764 | [245764-paradise-sex.json](./245764-paradise-sex.json) |
@@ -4629,6 +4630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phyto | 285943 | [285943-phyto.json](./285943-phyto.json) |
 | Phytomancer | 175886 | [175886-phytomancer.json](./175886-phytomancer.json) |
 | PhyxBox | 127873 | [127873-phyxbox.json](./127873-phyxbox.json) |
+| Pi | 68497 | [68497-pi.json](./68497-pi.json) |
 | Pi Fu Fighter | 239106 | [239106-pi-fu-fighter.json](./239106-pi-fu-fighter.json) |
 | Pi in the Sky | 354647 | [354647-pi-in-the-sky.json](./354647-pi-in-the-sky.json) |
 | Pi Story | 93987 | [93987-pi-story.json](./93987-pi-story.json) |
@@ -5844,6 +5846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pioneer | 61666 | [61666-pioneer.json](./61666-pioneer.json) |
 | Pioneer Balloon | 40068 | [40068-pioneer-balloon.json](./40068-pioneer-balloon.json) |
 | Pioneer Lands | 59430 | [59430-pioneer-lands.json](./59430-pioneer-lands.json) |
+| Pioneer Plague | 68487 | [68487-pioneer-plague.json](./68487-pioneer-plague.json) |
 | Pioneer Racing | 338306 | [338306-pioneer-racing.json](./338306-pioneer-racing.json) |
 | Pioneer Space Sim | 179050 | [179050-pioneer-space-sim.json](./179050-pioneer-space-sim.json) |
 | Pioneer Trail | 92385 | [92385-pioneer-trail.json](./92385-pioneer-trail.json) |
@@ -6820,6 +6823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Z Hunter 3D | 282685 | [282685-pixel-z-hunter-3d.json](./282685-pixel-z-hunter-3d.json) |
 | Pixel Zombie | 76389 | [76389-pixel-zombie.json](./76389-pixel-zombie.json) |
 | Pixel Zombie Survival | 155942 | [155942-pixel-zombie-survival.json](./155942-pixel-zombie-survival.json) |
+| Pixel Zumbi | 68502 | [68502-pixel-zumbi.json](./68502-pixel-zumbi.json) |
 | Pixel: Are You Squared? | 35701 | [35701-pixel-are-you-squared.json](./35701-pixel-are-you-squared.json) |
 | Pixel's Hallows Eve | 139209 | [139209-pixels-hallows-eve.json](./139209-pixels-hallows-eve.json) |
 | Pixel's Unknown Battle Ground | 90958 | [90958-pixels-unknown-battle-ground.json](./90958-pixels-unknown-battle-ground.json) |
@@ -10714,6 +10718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Punch | 385368 | [385368-power-punch.json](./385368-power-punch.json) |
 | Power Punch | 50704 | [50704-power-punch.json](./50704-power-punch.json) |
 | Power Punch II | 48222 | [48222-power-punch-ii.json](./48222-power-punch-ii.json) |
+| Power Pyramids | 68459 | [68459-power-pyramids.json](./68459-power-pyramids.json) |
 | Power Quest Survivors | 295558 | [295558-power-quest-survivors.json](./295558-power-quest-survivors.json) |
 | Power Racing Bundle | 147786 | [147786-power-racing-bundle.json](./147786-power-racing-bundle.json) |
 | Power Racing Bundle 2 | 147787 | [147787-power-racing-bundle-2.json](./147787-power-racing-bundle-2.json) |
