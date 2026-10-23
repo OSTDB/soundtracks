@@ -4384,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nippon | 68454 | [68454-nippon.json](./68454-nippon.json) |
 | Nippon Daihyou Team: Eikou no Eleven | 65031 | [65031-nippon-daihyou-team-eikou-no-eleven.json](./65031-nippon-daihyou-team-eikou-no-eleven.json) |
 | Nippon Dojo | 351593 | [351593-nippon-dojo.json](./351593-nippon-dojo.json) |
+| Nippon Futsal League Kounin: Minna no DS Futsal | 64263 | [64263-nippon-futsal-league-kounin-minna-no-ds-futsal.json](./64263-nippon-futsal-league-kounin-minna-no-ds-futsal.json) |
 | Nippon Ichi no Meikantoku | 48803 | [48803-nippon-ichi-no-meikantoku.json](./48803-nippon-ichi-no-meikantoku.json) |
 | Nippon Marathon | 87673 | [87673-nippon-marathon.json](./87673-nippon-marathon.json) |
 | Nippon Marathon 2: Daijoubu | 326644 | [326644-nippon-marathon-2-daijoubu.json](./326644-nippon-marathon-2-daijoubu.json) |
@@ -6025,6 +6026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Tower | 341490 | [341490-number-tower.json](./341490-number-tower.json) |
 | Number Two Ice Cream Shop! | 183784 | [183784-number-two-ice-cream-shop.json](./183784-number-two-ice-cream-shop.json) |
 | Number Wars | 193474 | [193474-number-wars.json](./193474-number-wars.json) |
+| Number World | 63735 | [63735-number-world.json](./63735-number-world.json) |
 | Number's Addict | 94187 | [94187-numbers-addict.json](./94187-numbers-addict.json) |
 | Number8 | 246794 | [246794-number8.json](./246794-number8.json) |
 | Numberful | 58109 | [58109-numberful.json](./58109-numberful.json) |
@@ -6171,7 +6173,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyamiru to Bonzu no Daibouken | 73109 | [73109-nyamiru-to-bonzu-no-daibouken.json](./73109-nyamiru-to-bonzu-no-daibouken.json) |
 | Nyamo's Adventure | 182513 | [182513-nyamos-adventure.json](./182513-nyamos-adventure.json) |
 | Nyan Cat FLY! | 313545 | [313545-nyan-cat-fly.json](./313545-nyan-cat-fly.json) |
+| Nyan Cat: Jump! | 64259 | [64259-nyan-cat-jump.json](./64259-nyan-cat-jump.json) |
 | Nyan Cat: The Space Journey | 344905 | [344905-nyan-cat-the-space-journey.json](./344905-nyan-cat-the-space-journey.json) |
+| Nyan Cat! | 64260 | [64260-nyan-cat.json](./64260-nyan-cat.json) |
 | Nyan Nikki | 229663 | [229663-nyan-nikki.json](./229663-nyan-nikki.json) |
 | Nyan Nyan Parasol | 306578 | [306578-nyan-nyan-parasol.json](./306578-nyan-nyan-parasol.json) |
 | Nyan Nyan Tower | 268446 | [268446-nyan-nyan-tower.json](./268446-nyan-nyan-tower.json) |
