@@ -6163,6 +6163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Casino Tycoon | 148257 | [148257-grand-casino-tycoon.json](./148257-grand-casino-tycoon.json) |
 | Grand Champion | 143374 | [143374-grand-champion.json](./143374-grand-champion.json) |
 | Grand Chase Classic | 166856 | [166856-grand-chase-classic.json](./166856-grand-chase-classic.json) |
+| Grand Chase M | 56262 | [56262-grand-chase-m.json](./56262-grand-chase-m.json) |
 | Grand City Car Driving | 219808 | [219808-grand-city-car-driving.json](./219808-grand-city-car-driving.json) |
 | Grand Classes | 313415 | [313415-grand-classes.json](./313415-grand-classes.json) |
 | Grand Crime Miami | 366950 | [366950-grand-crime-miami.json](./366950-grand-crime-miami.json) |
@@ -7742,6 +7743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Divers | 204436 | [204436-ground-divers.json](./204436-ground-divers.json) |
 | Ground Drone Operator: Ground Robotic System Simulator | 414159 | [414159-ground-drone-operator-ground-robotic-system-simulator.json](./414159-ground-drone-operator-ground-robotic-system-simulator.json) |
 | Ground Effect | 77104 | [77104-ground-effect.json](./77104-ground-effect.json) |
+| Ground Floor Z | 56252 | [56252-ground-floor-z.json](./56252-ground-floor-z.json) |
 | Ground Force Zero | 71550 | [71550-ground-force-zero.json](./71550-ground-force-zero.json) |
 | Ground Mine Girl | 355183 | [355183-ground-mine-girl.json](./355183-ground-mine-girl.json) |
 | Ground of Aces | 249885 | [249885-ground-of-aces.json](./249885-ground-of-aces.json) |
@@ -8282,6 +8284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guise of the Wolf | 7669 | [7669-guise-of-the-wolf.json](./7669-guise-of-the-wolf.json) |
 | Guitar Band Battle | 175729 | [175729-guitar-band-battle.json](./175729-guitar-band-battle.json) |
 | Guitar Band: Rock Battle | 299999 | [299999-guitar-band-rock-battle.json](./299999-guitar-band-rock-battle.json) |
+| Guitar Flash | 56255 | [56255-guitar-flash.json](./56255-guitar-flash.json) |
 | Guitar Freaks & DrumMania: Masterpiece Gold | 67103 | [67103-guitar-freaks-and-drummania-masterpiece-gold.json](./67103-guitar-freaks-and-drummania-masterpiece-gold.json) |
 | Guitar Freaks & DrumMania: Masterpiece Silver | 67099 | [67099-guitar-freaks-and-drummania-masterpiece-silver.json](./67099-guitar-freaks-and-drummania-masterpiece-silver.json) |
 | Guitar Freaks V2 & DrumMania V2 | 67100 | [67100-guitar-freaks-v2-and-drummania-v2.json](./67100-guitar-freaks-v2-and-drummania-v2.json) |
