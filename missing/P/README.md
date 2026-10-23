@@ -11285,6 +11285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pride | 181737 | [181737-pride.json](./181737-pride.json) |
 | Pride and Prejudice: Blood Ties | 192776 | [192776-pride-and-prejudice-blood-ties.json](./192776-pride-and-prejudice-blood-ties.json) |
 | Pride FC: Fighting Championships | 18276 | [18276-pride-fc-fighting-championships.json](./18276-pride-fc-fighting-championships.json) |
+| Pride GP Grand Prix 2003 | 67048 | [67048-pride-gp-grand-prix-2003.json](./67048-pride-gp-grand-prix-2003.json) |
 | Pride of Nations | 2068 | [2068-pride-of-nations.json](./2068-pride-of-nations.json) |
 | Pride Quiz | 272561 | [272561-pride-quiz.json](./272561-pride-quiz.json) |
 | Pride Run | 104131 | [104131-pride-run.json](./104131-pride-run.json) |
@@ -12824,6 +12825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Superstar | 323047 | [323047-project-superstar.json](./323047-project-superstar.json) |
 | Project SXU | 330576 | [330576-project-sxu.json](./330576-project-sxu.json) |
 | Project T | 301327 | [301327-project-t.json](./301327-project-t.json) |
+| Project T | 67053 | [67053-project-t.json](./67053-project-t.json) |
 | Project T.A.G | 388334 | [388334-project-t-a-g.json](./388334-project-t-a-g.json) |
 | Project Tachyon | 297793 | [297793-project-tachyon.json](./297793-project-tachyon.json) |
 | Project Tank | 84065 | [84065-project-tank.json](./84065-project-tank.json) |
@@ -14854,6 +14856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PvPillman | 285463 | [285463-pvpillman.json](./285463-pvpillman.json) |
 | Pwanet Pwotector | 335408 | [335408-pwanet-pwotector.json](./335408-pwanet-pwotector.json) |
 | PWK Trivia Collection | 377932 | [377932-pwk-trivia-collection.json](./377932-pwk-trivia-collection.json) |
+| Pwn Age: 31337 AD | 67075 | [67075-pwn-age-31337-ad.json](./67075-pwn-age-31337-ad.json) |
 | PWN: Combat Hacking | 63677 | [63677-pwn-combat-hacking.json](./63677-pwn-combat-hacking.json) |
 | Pwn! | 341318 | [341318-pwn.json](./341318-pwn.json) |
 | Pwny Xpress | 183313 | [183313-pwny-xpress.json](./183313-pwny-xpress.json) |
