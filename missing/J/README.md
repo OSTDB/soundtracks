@@ -2655,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump4 | 269975 | [269975-jump4.json](./269975-jump4.json) |
 | Jumpah | 254755 | [254755-jumpah.json](./254755-jumpah.json) |
 | Jumpala | 131934 | [131934-jumpala.json](./131934-jumpala.json) |
+| JumpBall 2 | 75642 | [75642-jumpball-2.json](./75642-jumpball-2.json) |
 | JumpBeard | 199642 | [199642-jumpbeard.json](./199642-jumpbeard.json) |
 | Jumpbot | 120882 | [120882-jumpbot.json](./120882-jumpbot.json) |
 | Jumpbound | 365097 | [365097-jumpbound.json](./365097-jumpbound.json) |
