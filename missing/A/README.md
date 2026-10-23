@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A5: A-Ressha de Ikou 5 | 98274 | [98274-a5-a-ressha-de-ikou-5.json](./98274-a5-a-ressha-de-ikou-5.json) |
 | A6: A-Train 6 | 9997 | [9997-a6-a-train-6.json](./9997-a6-a-train-6.json) |
 | A7: Gateway Guardians | 377416 | [377416-a7-gateway-guardians.json](./377416-a7-gateway-guardians.json) |
+| A7Xpg | 79103 | [79103-a7xpg.json](./79103-a7xpg.json) |
 | Aa Megami-sama | 77403 | [77403-aa-megami-sama.json](./77403-aa-megami-sama.json) |
 | AA Soldiers | 367759 | [367759-aa-soldiers.json](./367759-aa-soldiers.json) |
 | Aa! Megami-sama | 78087 | [78087-aa-megami-sama.json](./78087-aa-megami-sama.json) |
@@ -1461,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abelardo: Steakhouse Musician | 232001 | [232001-abelardo-steakhouse-musician.json](./232001-abelardo-steakhouse-musician.json) |
 | Abelina | 377433 | [377433-abelina.json](./377433-abelina.json) |
 | Abeline Rush | 377432 | [377432-abeline-rush.json](./377432-abeline-rush.json) |
+| Abenteuer Europa | 79076 | [79076-abenteuer-europa.json](./79076-abenteuer-europa.json) |
 | Abenteuer Landtag 2 | 135093 | [135093-abenteuer-landtag-2.json](./135093-abenteuer-landtag-2.json) |
 | Abenteuer Stahl | 141497 | [141497-abenteuer-stahl.json](./141497-abenteuer-stahl.json) |
 | Abenteuer Weltraum | 123246 | [123246-abenteuer-weltraum.json](./123246-abenteuer-weltraum.json) |
@@ -2024,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces in the Dust | 160054 | [160054-aces-in-the-dust.json](./160054-aces-in-the-dust.json) |
 | Aces of the Air | 43938 | [43938-aces-of-the-air.json](./43938-aces-of-the-air.json) |
 | Aces of the Deep | 12384 | [12384-aces-of-the-deep.json](./12384-aces-of-the-deep.json) |
+| Aces of the Deep Expansion Disk | 79075 | [79075-aces-of-the-deep-expansion-disk.json](./79075-aces-of-the-deep-expansion-disk.json) |
 | Aces of the Galaxy | 15766 | [15766-aces-of-the-galaxy.json](./15766-aces-of-the-galaxy.json) |
 | Aces of the Luftwaffe | 35650 | [35650-aces-of-the-luftwaffe.json](./35650-aces-of-the-luftwaffe.json) |
 | Aces of the Luftwaffe: Squadron - Extended Edition | 119084 | [119084-aces-of-the-luftwaffe-squadron-extended-edition.json](./119084-aces-of-the-luftwaffe-squadron-extended-edition.json) |
@@ -3377,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftermath | 215776 | [215776-aftermath.json](./215776-aftermath.json) |
 | Aftermath | 35770 | [35770-aftermath.json](./35770-aftermath.json) |
 | Aftermath | 380111 | [380111-aftermath.json](./380111-aftermath.json) |
+| Aftermath | 79071 | [79071-aftermath.json](./79071-aftermath.json) |
 | Aftermath 1945 | 112083 | [112083-aftermath-1945.json](./112083-aftermath-1945.json) |
 | Aftermath Y2K | 41900 | [41900-aftermath-y2k.json](./41900-aftermath-y2k.json) |
 | Aftermath Z: Red Pine Lake | 380638 | [380638-aftermath-z-red-pine-lake.json](./380638-aftermath-z-red-pine-lake.json) |
@@ -4989,6 +4993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alian | 288751 | [288751-alian.json](./288751-alian.json) |
 | Alian Planet | 316188 | [316188-alian-planet.json](./316188-alian-planet.json) |
 | Alianator | 76197 | [76197-alianator.json](./76197-alianator.json) |
+| Aliants | 79106 | [79106-aliants.json](./79106-aliants.json) |
 | Alias | 169485 | [169485-alias.json](./169485-alias.json) |
 | Alias | 5719 | [5719-alias.json](./5719-alias.json) |
 | Alias 'The Magpie' | 138144 | [138144-alias-the-magpie.json](./138144-alias-the-magpie.json) |
@@ -13149,6 +13154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atrocity | 113011 | [113011-atrocity.json](./113011-atrocity.json) |
 | Atrocity: Field of Hands | 75137 | [75137-atrocity-field-of-hands.json](./75137-atrocity-field-of-hands.json) |
 | Atrofil: The Key | 127243 | [127243-atrofil-the-key.json](./127243-atrofil-the-key.json) |
+| Atron 5000 | 79102 | [79102-atron-5000.json](./79102-atron-5000.json) |
 | Atrophia: Diseased Lands | 401026 | [401026-atrophia-diseased-lands.json](./401026-atrophia-diseased-lands.json) |
 | Atropos | 326240 | [326240-atropos.json](./326240-atropos.json) |
 | Atrox | 73551 | [73551-atrox.json](./73551-atrox.json) |
