@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love You, Colonel Sanders! A Finger Lickin' Good Dating Simulator | 122318 | [122318-i-love-you-colonel-sanders-a-finger-lickin-good-dating-simulator.json](./122318-i-love-you-colonel-sanders-a-finger-lickin-good-dating-simulator.json) |
 | I Luv House Pets | 210081 | [210081-i-luv-house-pets.json](./210081-i-luv-house-pets.json) |
 | I Made A Contract with 3 Cute Devils?! | 206949 | [206949-i-made-a-contract-with-3-cute-devils.json](./206949-i-made-a-contract-with-3-cute-devils.json) |
+| I Made a Game with Zombies in It! | 94033 | [94033-i-made-a-game-with-zombies-in-it.json](./94033-i-made-a-game-with-zombies-in-it.json) |
 | I Made Her Up | 374673 | [374673-i-made-her-up.json](./374673-i-made-her-up.json) |
 | I Made this Game in 3 Days | 263505 | [263505-i-made-this-game-in-3-days.json](./263505-i-made-this-game-in-3-days.json) |
 | I Made This Game on a Shitty Chromebook | 240092 | [240092-i-made-this-game-on-a-shitty-chromebook.json](./240092-i-made-this-game-on-a-shitty-chromebook.json) |
