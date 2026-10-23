@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Game Night | 270068 | [270068-quiz-game-night.json](./270068-quiz-game-night.json) |
 | Quiz It | 102758 | [102758-quiz-it.json](./102758-quiz-it.json) |
 | Quiz Kidou Senshi Gundam: Toi Senshi DX | 62758 | [62758-quiz-kidou-senshi-gundam-toi-senshi-dx.json](./62758-quiz-kidou-senshi-gundam-toi-senshi-dx.json) |
+| Quiz King of Fighters | 51692 | [51692-quiz-king-of-fighters.json](./51692-quiz-king-of-fighters.json) |
 | Quiz King of Fighters 2001 | 98055 | [98055-quiz-king-of-fighters-2001.json](./98055-quiz-king-of-fighters-2001.json) |
 | Quiz Kingdom: Elementary Math Kids RPG | 364065 | [364065-quiz-kingdom-elementary-math-kids-rpg.json](./364065-quiz-kingdom-elementary-math-kids-rpg.json) |
 | Quiz Kit | 138593 | [138593-quiz-kit.json](./138593-quiz-kit.json) |
