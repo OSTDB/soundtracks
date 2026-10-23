@@ -2011,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Beat Zombygons | 184659 | [184659-elite-beat-zombygons.json](./184659-elite-beat-zombygons.json) |
 | Elite Comet | 277354 | [277354-elite-comet.json](./277354-elite-comet.json) |
 | Elite Commander | 168706 | [168706-elite-commander.json](./168706-elite-commander.json) |
+| Elite Dangerous: Commander Deluxe Edition | 85221 | [85221-elite-dangerous-commander-deluxe-edition.json](./85221-elite-dangerous-commander-deluxe-edition.json) |
 | Elite Dangerous: Odyssey - Deluxe Edition | 227190 | [227190-elite-dangerous-odyssey-deluxe-edition.json](./227190-elite-dangerous-odyssey-deluxe-edition.json) |
 | Elite Darts | 98956 | [98956-elite-darts.json](./98956-elite-darts.json) |
 | Elite Encounter | 28660 | [28660-elite-encounter.json](./28660-elite-encounter.json) |
