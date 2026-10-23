@@ -5496,6 +5496,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derpy Pirates! The Search for the Bungalow | 126425 | [126425-derpy-pirates-the-search-for-the-bungalow.json](./126425-derpy-pirates-the-search-for-the-bungalow.json) |
 | Derpy's Fun House | 312712 | [312712-derpys-fun-house.json](./312712-derpys-fun-house.json) |
 | Derrat Sorcerum | 108918 | [108918-derrat-sorcerum.json](./108918-derrat-sorcerum.json) |
+| Derrek Quest V Regression | 88072 | [88072-derrek-quest-v-regression.json](./88072-derrek-quest-v-regression.json) |
+| Derrek Quest VII | 88074 | [88074-derrek-quest-vii.json](./88074-derrek-quest-vii.json) |
 | Derrick the Deathfin | 17187 | [17187-derrick-the-deathfin.json](./17187-derrick-the-deathfin.json) |
 | Derringer | 230213 | [230213-derringer.json](./230213-derringer.json) |
 | Deru | 258698 | [258698-deru.json](./258698-deru.json) |
@@ -5635,6 +5637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DesertLand 2115 | 34350 | [34350-desertland-2115.json](./34350-desertland-2115.json) |
 | Deserto Divino | 334880 | [334880-deserto-divino.json](./334880-deserto-divino.json) |
 | Desertopia | 244804 | [244804-desertopia.json](./244804-desertopia.json) |
+| DesertShootout | 88047 | [88047-desertshootout.json](./88047-desertshootout.json) |
 | Deserved | 391598 | [391598-deserved.json](./391598-deserved.json) |
 | Desespejos | 181799 | [181799-desespejos.json](./181799-desespejos.json) |
 | Desi Adda: Games of India | 218634 | [218634-desi-adda-games-of-india.json](./218634-desi-adda-games-of-india.json) |
@@ -9079,6 +9082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Puzzle | 239773 | [239773-dog-puzzle.json](./239773-dog-puzzle.json) |
 | Dog Run - Pet Dog Simulator | 107062 | [107062-dog-run-pet-dog-simulator.json](./107062-dog-run-pet-dog-simulator.json) |
 | Dog School: Lovely Puppy | 222179 | [222179-dog-school-lovely-puppy.json](./222179-dog-school-lovely-puppy.json) |
+| Dog Sim Online: Build A Family | 88031 | [88031-dog-sim-online-build-a-family.json](./88031-dog-sim-online-build-a-family.json) |
 | Dog Simulator: Dog Life Games | 296771 | [296771-dog-simulator-dog-life-games.json](./296771-dog-simulator-dog-life-games.json) |
 | Dog Sled Saga | 17163 | [17163-dog-sled-saga.json](./17163-dog-sled-saga.json) |
 | Dog Spotting Challenge! | 336420 | [336420-dog-spotting-challenge.json](./336420-dog-spotting-challenge.json) |
