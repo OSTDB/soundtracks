@@ -3892,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikita: Speedy Pirates | 253732 | [253732-nikita-speedy-pirates.json](./253732-nikita-speedy-pirates.json) |
 | Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
 | Nikkan Berutomo Club | 64904 | [64904-nikkan-berutomo-club.json](./64904-nikkan-berutomo-club.json) |
+| Nikkan Sports Pro Yakyuu VAN | 47062 | [47062-nikkan-sports-pro-yakyuu-van.json](./47062-nikkan-sports-pro-yakyuu-van.json) |
 | Nikki no Tabisuru Quiz | 232905 | [232905-nikki-no-tabisuru-quiz.json](./232905-nikki-no-tabisuru-quiz.json) |
 | Nikki Up2U: A Dressing Story | 62427 | [62427-nikki-up2u-a-dressing-story.json](./62427-nikki-up2u-a-dressing-story.json) |
 | Niko | 410351 | [410351-niko.json](./410351-niko.json) |
