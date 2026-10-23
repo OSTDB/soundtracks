@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies.io | 334539 | [334539-zombies-io.json](./334539-zombies-io.json) |
 | ZombieSquad | 216475 | [216475-zombiesquad.json](./216475-zombiesquad.json) |
 | ZombiesWaves | 149902 | [149902-zombieswaves.json](./149902-zombieswaves.json) |
+| ZombieThon | 98843 | [98843-zombiethon.json](./98843-zombiethon.json) |
 | Zombietron 1: Cemetery Guy | 94555 | [94555-zombietron-1-cemetery-guy.json](./94555-zombietron-1-cemetery-guy.json) |
 | ZombieVan Drive | 156972 | [156972-zombievan-drive.json](./156972-zombievan-drive.json) |
 | Zombieville USA | 69191 | [69191-zombieville-usa.json](./69191-zombieville-usa.json) |
