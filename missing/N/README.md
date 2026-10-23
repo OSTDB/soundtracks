@@ -5811,6 +5811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NS Kakuro | 91105 | [91105-ns-kakuro.json](./91105-ns-kakuro.json) |
 | NS-Shaft | 259412 | [259412-ns-shaft.json](./259412-ns-shaft.json) |
 | NS-Shaft | 62060 | [62060-ns-shaft.json](./62060-ns-shaft.json) |
+| NS-Tower | 62059 | [62059-ns-tower.json](./62059-ns-tower.json) |
 | NSFW: Not a Simulator for Working | 25606 | [25606-nsfw-not-a-simulator-for-working.json](./25606-nsfw-not-a-simulator-for-working.json) |
 | NSFWare | 125879 | [125879-nsfware.json](./125879-nsfware.json) |
 | NSG: Missing Tales | 262871 | [262871-nsg-missing-tales.json](./262871-nsg-missing-tales.json) |
