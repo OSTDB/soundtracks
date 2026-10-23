@@ -8521,6 +8521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dive | 88462 | [88462-dive.json](./88462-dive.json) |
 | Dive Alert: Becky's Version | 69075 | [69075-dive-alert-beckys-version.json](./69075-dive-alert-beckys-version.json) |
 | Dive Alert: Matt's Version | 69072 | [69072-dive-alert-matts-version.json](./69072-dive-alert-matts-version.json) |
+| Dive Bomber | 68462 | [68462-dive-bomber.json](./68462-dive-bomber.json) |
 | Dive Expedition: Complete Edition | 385197 | [385197-dive-expedition-complete-edition.json](./385197-dive-expedition-complete-edition.json) |
 | Dive Expedition: Plane Wreck DLC | 378971 | [378971-dive-expedition-plane-wreck-dlc.json](./378971-dive-expedition-plane-wreck-dlc.json) |
 | Dive Expedition: Sunken Ship DLC | 378970 | [378970-dive-expedition-sunken-ship-dlc.json](./378970-dive-expedition-sunken-ship-dlc.json) |
@@ -9697,6 +9698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Escape 3 | 123699 | [123699-dont-escape-3.json](./123699-dont-escape-3.json) |
 | Don't Escape Trilogy | 120558 | [120558-dont-escape-trilogy.json](./120558-dont-escape-trilogy.json) |
 | Don't Exist | 295547 | [295547-dont-exist.json](./295547-dont-exist.json) |
+| Don't Explode | 68470 | [68470-dont-explode.json](./68470-dont-explode.json) |
 | Don't Fall | 140024 | [140024-dont-fall.json](./140024-dont-fall.json) |
 | Don't Fall | 266312 | [266312-dont-fall.json](./266312-dont-fall.json) |
 | Don't Fall | 348942 | [348942-dont-fall.json](./348942-dont-fall.json) |
@@ -14510,6 +14512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonfield | 331961 | [331961-dungeonfield.json](./331961-dungeonfield.json) |
 | Dungeonforge | 61737 | [61737-dungeonforge.json](./61737-dungeonforge.json) |
 | Dungeongame | 195020 | [195020-dungeongame.json](./195020-dungeongame.json) |
+| DungeonGoGo | 68473 | [68473-dungeongogo.json](./68473-dungeongogo.json) |
 | Dungeoning | 290242 | [290242-dungeoning.json](./290242-dungeoning.json) |
 | Dungeonite | 152822 | [152822-dungeonite.json](./152822-dungeonite.json) |
 | Dungeonlike | 183574 | [183574-dungeonlike.json](./183574-dungeonlike.json) |
@@ -14893,6 +14896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duty Calls | 80555 | [80555-duty-calls.json](./80555-duty-calls.json) |
 | Duty First | 317095 | [317095-duty-first.json](./317095-duty-first.json) |
 | Duty Free Shop Simulator | 373099 | [373099-duty-free-shop-simulator.json](./373099-duty-free-shop-simulator.json) |
+| Dux | 68409 | [68409-dux.json](./68409-dux.json) |
 | Dvalloc | 258533 | [258533-dvalloc.json](./258533-dvalloc.json) |
 | DVD Dancemachine DVT-F800 | 245697 | [245697-dvd-dancemachine-dvt-f800.json](./245697-dvd-dancemachine-dvt-f800.json) |
 | DVD Dealer Simulator | 407475 | [407475-dvd-dealer-simulator.json](./407475-dvd-dealer-simulator.json) |
