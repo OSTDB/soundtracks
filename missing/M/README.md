@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Research | 241876 | [241876-magic-research.json](./241876-magic-research.json) |
 | Magic Research 2 | 296750 | [296750-magic-research-2.json](./296750-magic-research-2.json) |
 | Magic Revenge: Casual Idle RPG | 180234 | [180234-magic-revenge-casual-idle-rpg.json](./180234-magic-revenge-casual-idle-rpg.json) |
+| Magic Rufus | 93437 | [93437-magic-rufus.json](./93437-magic-rufus.json) |
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
 | Magic Runes | 291714 | [291714-magic-runes.json](./291714-magic-runes.json) |
 | Magic Rush: Heroes | 57159 | [57159-magic-rush-heroes.json](./57159-magic-rush-heroes.json) |
@@ -1995,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Your Move | 348322 | [348322-make-your-move.json](./348322-make-your-move.json) |
 | Make Zombies Great Again | 99149 | [99149-make-zombies-great-again.json](./99149-make-zombies-great-again.json) |
 | Make-Up Touch 2 | 98831 | [98831-make-up-touch-2.json](./98831-make-up-touch-2.json) |
+| MakeBridge | 93438 | [93438-makebridge.json](./93438-makebridge.json) |
 | Maken Shao: Demon Sword | 43421 | [43421-maken-shao-demon-sword.json](./43421-maken-shao-demon-sword.json) |
 | Maken-shi Sara | 189001 | [189001-maken-shi-sara.json](./189001-maken-shi-sara.json) |
 | Makenines | 110254 | [110254-makenines.json](./110254-makenines.json) |
@@ -2406,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maniacs | 203736 | [203736-maniacs.json](./203736-maniacs.json) |
 | Manic | 126951 | [126951-manic.json](./126951-manic.json) |
 | Manic Archers | 153382 | [153382-manic-archers.json](./153382-manic-archers.json) |
+| Manic Karts | 93427 | [93427-manic-karts.json](./93427-manic-karts.json) |
 | Manic Miner | 10161 | [10161-manic-miner.json](./10161-manic-miner.json) |
 | Manic Miner | 248054 | [248054-manic-miner.json](./248054-manic-miner.json) |
 | Manic Miner Engine | 256206 | [256206-manic-miner-engine.json](./256206-manic-miner-engine.json) |
@@ -5007,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazes of Fate DS | 124484 | [124484-mazes-of-fate-ds.json](./124484-mazes-of-fate-ds.json) |
 | Mazes of Karradash | 290269 | [290269-mazes-of-karradash.json](./290269-mazes-of-karradash.json) |
 | Mazes of Karradash 2 | 175430 | [175430-mazes-of-karradash-2.json](./175430-mazes-of-karradash-2.json) |
+| Mazes Unlimited | 93443 | [93443-mazes-unlimited.json](./93443-mazes-unlimited.json) |
 | Mazeskalation | 183767 | [183767-mazeskalation.json](./183767-mazeskalation.json) |
 | MazeSlug | 342788 | [342788-mazeslug.json](./342788-mazeslug.json) |
 | MazeTD | 384330 | [384330-mazetd.json](./384330-mazetd.json) |
@@ -8384,6 +8388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Bingo | 62463 | [62463-microsoft-bingo.json](./62463-microsoft-bingo.json) |
 | Microsoft Blackboard | 209517 | [209517-microsoft-blackboard.json](./209517-microsoft-blackboard.json) |
 | Microsoft Bubble | 336071 | [336071-microsoft-bubble.json](./336071-microsoft-bubble.json) |
+| Microsoft Caribbean | 93433 | [93433-microsoft-caribbean.json](./93433-microsoft-caribbean.json) |
 | Microsoft Casino | 96510 | [96510-microsoft-casino.json](./96510-microsoft-casino.json) |
 | Microsoft Children's Miracle Network Games Bundle | 7069 | [7069-microsoft-childrens-miracle-network-games-bundle.json](./7069-microsoft-childrens-miracle-network-games-bundle.json) |
 | Microsoft Combat Flight Simulator 2: WWII Pacific Theater | 644 | [644-microsoft-combat-flight-simulator-2-wwii-pacific-theater.json](./644-microsoft-combat-flight-simulator-2-wwii-pacific-theater.json) |
@@ -11893,6 +11898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
 | Money Wash Tycoon | 358659 | [358659-money-wash-tycoon.json](./358659-money-wash-tycoon.json) |
 | Moneyball! | 125937 | [125937-moneyball.json](./125937-moneyball.json) |
+| MoneyMania | 93394 | [93394-moneymania.json](./93394-moneymania.json) |
 | MoneySeize | 97519 | [97519-moneyseize.json](./97519-moneyseize.json) |
 | Mong Jung Mong | 166568 | [166568-mong-jung-mong.json](./166568-mong-jung-mong.json) |
 | Mongil: Star Dive | 347667 | [347667-mongil-star-dive.json](./347667-mongil-star-dive.json) |
@@ -15552,6 +15558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MVP Baseball 2003 | 11556 | [11556-mvp-baseball-2003.json](./11556-mvp-baseball-2003.json) |
 | MVP Baseball 2004 | 10627 | [10627-mvp-baseball-2004.json](./10627-mvp-baseball-2004.json) |
 | MVP Baseball 2005 | 796 | [796-mvp-baseball-2005.json](./796-mvp-baseball-2005.json) |
+| MVP Spades Deluxe | 93396 | [93396-mvp-spades-deluxe.json](./93396-mvp-spades-deluxe.json) |
 | MVR | 286762 | [286762-mvr.json](./286762-mvr.json) |
 | Mwizz | 194870 | [194870-mwizz.json](./194870-mwizz.json) |
 | MWT: Tank Battles | 319848 | [319848-mwt-tank-battles.json](./319848-mwt-tank-battles.json) |
