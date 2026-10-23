@@ -2821,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bears Comics | 62247 | [62247-battle-bears-comics.json](./62247-battle-bears-comics.json) |
 | Battle Bears Gold | 62423 | [62423-battle-bears-gold.json](./62423-battle-bears-gold.json) |
 | Battle Bears Pro | 61668 | [61668-battle-bears-pro.json](./61668-battle-bears-pro.json) |
+| Battle Bears Royale | 60837 | [60837-battle-bears-royale.json](./60837-battle-bears-royale.json) |
 | Battle Bears: Zombies AR | 89200 | [89200-battle-bears-zombies-ar.json](./89200-battle-bears-zombies-ar.json) |
 | Battle Beaster | 77563 | [77563-battle-beaster.json](./77563-battle-beaster.json) |
 | Battle Beaster 2 | 376728 | [376728-battle-beaster-2.json](./376728-battle-beaster-2.json) |
@@ -3139,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Rage | 51051 | [51051-battle-rage.json](./51051-battle-rage.json) |
 | Battle Rage: Mech Conflict | 78683 | [78683-battle-rage-mech-conflict.json](./78683-battle-rage-mech-conflict.json) |
 | Battle Ram | 132780 | [132780-battle-ram.json](./132780-battle-ram.json) |
+| Battle Rampage | 60861 | [60861-battle-rampage.json](./60861-battle-rampage.json) |
 | Battle Ranch: Pigs Vs Plants | 112065 | [112065-battle-ranch-pigs-vs-plants.json](./112065-battle-ranch-pigs-vs-plants.json) |
 | Battle Rangers | 39484 | [39484-battle-rangers.json](./39484-battle-rangers.json) |
 | Battle Rap Simulator | 74948 | [74948-battle-rap-simulator.json](./74948-battle-rap-simulator.json) |
@@ -5936,6 +5938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Head Bash | 64331 | [64331-big-head-bash.json](./64331-big-head-bash.json) |
 | Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
 | Big Helmet Heroes | 303205 | [303205-big-helmet-heroes.json](./303205-big-helmet-heroes.json) |
+| Big Hero 6: Bot Fight | 60832 | [60832-big-hero-6-bot-fight.json](./60832-big-hero-6-bot-fight.json) |
 | Big Hit VR Baseball | 28789 | [28789-big-hit-vr-baseball.json](./28789-big-hit-vr-baseball.json) |
 | Big Honour | 299820 | [299820-big-honour.json](./299820-big-honour.json) |
 | Big Hops | 217390 | [217390-big-hops.json](./217390-big-hops.json) |
@@ -6127,6 +6130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Unchained 3 | 304962 | [304962-bike-unchained-3.json](./304962-bike-unchained-3.json) |
 | Bike Xtreme | 101680 | [101680-bike-xtreme.json](./101680-bike-xtreme.json) |
 | Bikeout | 244505 | [244505-bikeout.json](./244505-bikeout.json) |
+| Bikepark: The Riders Game | 60945 | [60945-bikepark-the-riders-game.json](./60945-bikepark-the-riders-game.json) |
 | Biker Garage | 113048 | [113048-biker-garage.json](./113048-biker-garage.json) |
 | Biker Mice from Mars | 100294 | [100294-biker-mice-from-mars.json](./100294-biker-mice-from-mars.json) |
 | Biker Mice from Mars | 217747 | [217747-biker-mice-from-mars.json](./217747-biker-mice-from-mars.json) |
@@ -7500,6 +7504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade & Soul Heroes | 347649 | [347649-blade-and-soul-heroes.json](./347649-blade-and-soul-heroes.json) |
 | Blade & Soul Neo | 333270 | [333270-blade-and-soul-neo.json](./333270-blade-and-soul-neo.json) |
 | Blade & Soul: Revolution | 143626 | [143626-blade-and-soul-revolution.json](./143626-blade-and-soul-revolution.json) |
+| Blade 9 Online | 60964 | [60964-blade-9-online.json](./60964-blade-9-online.json) |
 | Blade and Burden | 253315 | [253315-blade-and-burden.json](./253315-blade-and-burden.json) |
 | Blade and Madness | 349996 | [349996-blade-and-madness.json](./349996-blade-and-madness.json) |
 | Blade and Wings: Future Fantasy 3D Anime MMORPG Game | 110819 | [110819-blade-and-wings-future-fantasy-3d-anime-mmorpg-game.json](./110819-blade-and-wings-future-fantasy-3d-anime-mmorpg-game.json) |
@@ -8954,6 +8959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Boobs | 367620 | [367620-bloody-boobs.json](./367620-bloody-boobs.json) |
 | Bloody Bunny: First Blood | 175386 | [175386-bloody-bunny-first-blood.json](./175386-bloody-bunny-first-blood.json) |
 | Bloody Bunny: The Game | 144358 | [144358-bloody-bunny-the-game.json](./144358-bloody-bunny-the-game.json) |
+| Bloody Call | 60933 | [60933-bloody-call.json](./60933-bloody-call.json) |
 | Bloody Chronicles Act 1: New Cycle of Death | 98789 | [98789-bloody-chronicles-act-1-new-cycle-of-death.json](./98789-bloody-chronicles-act-1-new-cycle-of-death.json) |
 | Bloody Cleanup | 326785 | [326785-bloody-cleanup.json](./326785-bloody-cleanup.json) |
 | Bloody Cleanup Togheter | 405692 | [405692-bloody-cleanup-togheter.json](./405692-bloody-cleanup-togheter.json) |
@@ -10813,6 +10819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash | 283712 | [283712-boulder-dash.json](./283712-boulder-dash.json) |
 | Boulder Dash Construction Kit | 12943 | [12943-boulder-dash-construction-kit.json](./12943-boulder-dash-construction-kit.json) |
 | Boulder Dash EX | 78733 | [78733-boulder-dash-ex.json](./78733-boulder-dash-ex.json) |
+| Boulder Dash IV: The Game | 60874 | [60874-boulder-dash-iv-the-game.json](./60874-boulder-dash-iv-the-game.json) |
 | Boulder Dash-XL | 65854 | [65854-boulder-dash-xl.json](./65854-boulder-dash-xl.json) |
 | Boulder Dash-XL 3D | 47624 | [47624-boulder-dash-xl-3d.json](./47624-boulder-dash-xl-3d.json) |
 | Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
@@ -12458,6 +12465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring The Chickens Home | 260520 | [260520-bring-the-chickens-home.json](./260520-bring-the-chickens-home.json) |
 | Bring The Rift | 401883 | [401883-bring-the-rift.json](./401883-bring-the-rift.json) |
 | Bring Them Home | 114188 | [114188-bring-them-home.json](./114188-bring-them-home.json) |
+| Bring Your Eh! Game | 60847 | [60847-bring-your-eh-game.json](./60847-bring-your-eh-game.json) |
 | Bringris | 174191 | [174191-bringris.json](./174191-bringris.json) |
 | Brink | 502 | [502-brink.json](./502-brink.json) |
 | Brink Complete Pack | 25050 | [25050-brink-complete-pack.json](./25050-brink-complete-pack.json) |
