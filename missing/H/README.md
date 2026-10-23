@@ -6635,6 +6635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman: Absolution HD | 218974 | [218974-hitman-absolution-hd.json](./218974-hitman-absolution-hd.json) |
 | Hitman: Blood Money HD | 99816 | [99816-hitman-blood-money-hd.json](./99816-hitman-blood-money-hd.json) |
 | Hitman: Blood Money L.A. | 125151 | [125151-hitman-blood-money-l-a.json](./125151-hitman-blood-money-l-a.json) |
+| Hitman: Blood Money Requiem Pack | 76413 | [76413-hitman-blood-money-requiem-pack.json](./76413-hitman-blood-money-requiem-pack.json) |
 | Hitman: Blood Money Vegas | 125150 | [125150-hitman-blood-money-vegas.json](./125150-hitman-blood-money-vegas.json) |
 | Hitman: Collector's Edition | 41619 | [41619-hitman-collectors-edition.json](./41619-hitman-collectors-edition.json) |
 | Hitman: Episode 2 - Sapienza | 91021 | [91021-hitman-episode-2-sapienza.json](./91021-hitman-episode-2-sapienza.json) |
@@ -6642,6 +6643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman: Episode 6 - Hokkaido | 91025 | [91025-hitman-episode-6-hokkaido.json](./91025-hitman-episode-6-hokkaido.json) |
 | Hitman: Freelancer | 323712 | [323712-hitman-freelancer.json](./323712-hitman-freelancer.json) |
 | Hitman: Game of the Year Edition | 74878 | [74878-hitman-game-of-the-year-edition.json](./74878-hitman-game-of-the-year-edition.json) |
+| Hitman: GOTY Outfit Bundle | 76415 | [76415-hitman-goty-outfit-bundle.json](./76415-hitman-goty-outfit-bundle.json) |
 | Hitman: Patient Zero | 76414 | [76414-hitman-patient-zero.json](./76414-hitman-patient-zero.json) |
 | Hitman: Sniper | 19488 | [19488-hitman-sniper.json](./19488-hitman-sniper.json) |
 | Hitman: Sniper Assassin | 99073 | [99073-hitman-sniper-assassin.json](./99073-hitman-sniper-assassin.json) |
@@ -9758,6 +9760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydro Storm 2 | 180487 | [180487-hydro-storm-2.json](./180487-hydro-storm-2.json) |
 | Hydro Thunder | 217932 | [217932-hydro-thunder.json](./217932-hydro-thunder.json) |
 | Hydro Thunder | 3370 | [3370-hydro-thunder.json](./3370-hydro-thunder.json) |
+| Hydroactive | 76372 | [76372-hydroactive.json](./76372-hydroactive.json) |
 | Hydrofoil Generation | 190237 | [190237-hydrofoil-generation.json](./190237-hydrofoil-generation.json) |
 | Hydrofusion Substation | 270677 | [270677-hydrofusion-substation.json](./270677-hydrofusion-substation.json) |
 | Hydrogen | 295875 | [295875-hydrogen.json](./295875-hydrogen.json) |
