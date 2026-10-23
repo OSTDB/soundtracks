@@ -4268,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 4th Wall | 64126 | [64126-the-4th-wall.json](./64126-the-4th-wall.json) |
 | The 50 States Quiz | 103441 | [103441-the-50-states-quiz.json](./103441-the-50-states-quiz.json) |
 | The 52 Fragments | 278362 | [278362-the-52-fragments.json](./278362-the-52-fragments.json) |
+| The 5th Fleet | 70770 | [70770-the-5th-fleet.json](./70770-the-5th-fleet.json) |
 | The 64 kb challenge: Limitless | 260140 | [260140-the-64-kb-challenge-limitless.json](./260140-the-64-kb-challenge-limitless.json) |
 | The 64 kb challenge: Vanilla | 260139 | [260139-the-64-kb-challenge-vanilla.json](./260139-the-64-kb-challenge-vanilla.json) |
 | The 7 Cents Deal | 183558 | [183558-the-7-cents-deal.json](./183558-the-7-cents-deal.json) |
@@ -4819,6 +4820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Awesome Adventures of Victor Vector & Yondo: The Cyberplasm Formula | 72098 | [72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json](./72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json) |
 | The Awesome Adventures of Victor Vector & Yondo: The Hypnotic Harp | 70457 | [70457-the-awesome-adventures-of-victor-vector-and-yondo-the-hypnotic-harp.json](./70457-the-awesome-adventures-of-victor-vector-and-yondo-the-hypnotic-harp.json) |
 | The Awesome Adventures of Victor Vector & Yondo: The Last Dinosaur Egg | 73364 | [73364-the-awesome-adventures-of-victor-vector-and-yondo-the-last-dinosaur-egg.json](./73364-the-awesome-adventures-of-victor-vector-and-yondo-the-last-dinosaur-egg.json) |
+| The Awesome Adventures of Victor Vector & Yondo: The Vampire's Coffin | 70794 | [70794-the-awesome-adventures-of-victor-vector-and-yondo-the-vampires-coffin.json](./70794-the-awesome-adventures-of-victor-vector-and-yondo-the-vampires-coffin.json) |
 | The Axis Unseen | 217404 | [217404-the-axis-unseen.json](./217404-the-axis-unseen.json) |
 | The Axolotl Project | 60022 | [60022-the-axolotl-project.json](./60022-the-axolotl-project.json) |
 | The Azmodeus Project | 240096 | [240096-the-azmodeus-project.json](./240096-the-azmodeus-project.json) |
@@ -5494,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Byoin | 92151 | [92151-the-byoin.json](./92151-the-byoin.json) |
 | The Byouin | 230206 | [230206-the-byouin.json](./230206-the-byouin.json) |
 | The Byte | 150438 | [150438-the-byte.json](./150438-the-byte.json) |
+| The C.H.A.O.S. Continuum | 70784 | [70784-the-c-h-a-o-s-continuum.json](./70784-the-c-h-a-o-s-continuum.json) |
 | The C64 Collection 1 | 214533 | [214533-the-c64-collection-1.json](./214533-the-c64-collection-1.json) |
 | The C64 Collection 2 | 239138 | [239138-the-c64-collection-2.json](./239138-the-c64-collection-2.json) |
 | The C64 Collection 3 | 283597 | [283597-the-c64-collection-3.json](./283597-the-c64-collection-3.json) |
@@ -7398,6 +7401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fickle Hands of Fate | 231459 | [231459-the-fickle-hands-of-fate.json](./231459-the-fickle-hands-of-fate.json) |
 | The Fidelio Incident | 36707 | [36707-the-fidelio-incident.json](./36707-the-fidelio-incident.json) |
 | The Fidelity Chessmaster 2100 | 15875 | [15875-the-fidelity-chessmaster-2100.json](./15875-the-fidelity-chessmaster-2100.json) |
+| The Fidelity Ultimate Chess Challenge | 70778 | [70778-the-fidelity-ultimate-chess-challenge.json](./70778-the-fidelity-ultimate-chess-challenge.json) |
 | The Fidgetts | 49000 | [49000-the-fidgetts.json](./49000-the-fidgetts.json) |
 | The Field Trip Murders | 231460 | [231460-the-field-trip-murders.json](./231460-the-field-trip-murders.json) |
 | The Fielder's Choice | 89005 | [89005-the-fielders-choice.json](./89005-the-fielders-choice.json) |
@@ -11913,6 +11917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The power of chaos | 118369 | [118369-the-power-of-chaos.json](./118369-the-power-of-chaos.json) |
 | The Power of Fish | 382321 | [382321-the-power-of-fish.json](./382321-the-power-of-fish.json) |
 | The Power of Love | 101934 | [101934-the-power-of-love.json](./101934-the-power-of-love.json) |
+| The Power Pack | 70780 | [70780-the-power-pack.json](./70780-the-power-pack.json) |
 | The Power WWE Action | 188350 | [188350-the-power-wwe-action.json](./188350-the-power-wwe-action.json) |
 | The Powermon Adventure! | 288676 | [288676-the-powermon-adventure.json](./288676-the-powermon-adventure.json) |
 | The Powerpuff Girls | 217930 | [217930-the-powerpuff-girls.json](./217930-the-powerpuff-girls.json) |
@@ -12044,6 +12049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Punisher | 75883 | [75883-the-punisher.json](./75883-the-punisher.json) |
 | The Punisher: No Mercy | 21287 | [21287-the-punisher-no-mercy.json](./21287-the-punisher-no-mercy.json) |
 | The Punisher: The Ultimate Payback! | 49028 | [49028-the-punisher-the-ultimate-payback.json](./49028-the-punisher-the-ultimate-payback.json) |
+| The Punk Allen Trilogy | 70811 | [70811-the-punk-allen-trilogy.json](./70811-the-punk-allen-trilogy.json) |
 | The Punniest Pun Messter | 296154 | [296154-the-punniest-pun-messter.json](./296154-the-punniest-pun-messter.json) |
 | The Puppet Master | 30910 | [30910-the-puppet-master.json](./30910-the-puppet-master.json) |
 | The Puppet Word Game | 220808 | [220808-the-puppet-word-game.json](./220808-the-puppet-word-game.json) |
@@ -18958,6 +18964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic Shipwreck Exploration | 111180 | [111180-titanic-shipwreck-exploration.json](./111180-titanic-shipwreck-exploration.json) |
 | Titanic Survival Simulator | 404369 | [404369-titanic-survival-simulator.json](./404369-titanic-survival-simulator.json) |
 | Titanic Terror | 258961 | [258961-titanic-terror.json](./258961-titanic-terror.json) |
+| Titanic: A Mysterious Undersea Adventure | 70783 | [70783-titanic-a-mysterious-undersea-adventure.json](./70783-titanic-a-mysterious-undersea-adventure.json) |
 | Titanic: Adventure out of Time | 7516 | [7516-titanic-adventure-out-of-time.json](./7516-titanic-adventure-out-of-time.json) |
 | Titanic: An Interactive Exploration | 45891 | [45891-titanic-an-interactive-exploration.json](./45891-titanic-an-interactive-exploration.json) |
 | Titanic: Challenge of Discovery | 71720 | [71720-titanic-challenge-of-discovery.json](./71720-titanic-challenge-of-discovery.json) |
