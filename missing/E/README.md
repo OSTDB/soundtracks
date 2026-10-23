@@ -4044,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Lava | 343051 | [343051-escape-from-lava.json](./343051-escape-from-lava.json) |
 | Escape From Lavender Island | 235991 | [235991-escape-from-lavender-island.json](./235991-escape-from-lavender-island.json) |
 | Escape From Lavender Town | 198333 | [198333-escape-from-lavender-town.json](./198333-escape-from-lavender-town.json) |
+| Escape from LaVille | 90421 | [90421-escape-from-laville.json](./90421-escape-from-laville.json) |
 | Escape from LaVille 2 | 95343 | [95343-escape-from-laville-2.json](./95343-escape-from-laville-2.json) |
 | Escape From Lesco | 312751 | [312751-escape-from-lesco.json](./312751-escape-from-lesco.json) |
 | Escape from Life Inc | 125739 | [125739-escape-from-life-inc.json](./125739-escape-from-life-inc.json) |
