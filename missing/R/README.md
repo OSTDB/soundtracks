@@ -4054,6 +4054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renegade Grounds: Episode 1 | 55508 | [55508-renegade-grounds-episode-1.json](./55508-renegade-grounds-episode-1.json) |
 | Renegade Grounds: Episode 2 | 127579 | [127579-renegade-grounds-episode-2.json](./127579-renegade-grounds-episode-2.json) |
 | Renegade Legion: Interceptor | 73333 | [73333-renegade-legion-interceptor.json](./73333-renegade-legion-interceptor.json) |
+| Renegade Line | 58091 | [58091-renegade-line.json](./58091-renegade-line.json) |
 | Renegade Ops: Coldstrike Campaign | 140394 | [140394-renegade-ops-coldstrike-campaign.json](./140394-renegade-ops-coldstrike-campaign.json) |
 | Renegade Ops: Reinforcement Pack | 140393 | [140393-renegade-ops-reinforcement-pack.json](./140393-renegade-ops-reinforcement-pack.json) |
 | Renegade Racing | 257872 | [257872-renegade-racing.json](./257872-renegade-racing.json) |
