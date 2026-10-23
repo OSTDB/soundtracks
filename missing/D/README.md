@@ -10719,6 +10719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot & Dot Dungeons | 295766 | [295766-dot-and-dot-dungeons.json](./295766-dot-and-dot-dungeons.json) |
 | Dot Arcade | 59290 | [59290-dot-arcade.json](./59290-dot-arcade.json) |
 | Dot Art Logic | 386990 | [386990-dot-art-logic.json](./386990-dot-art-logic.json) |
+| Dot Artist | 56248 | [56248-dot-artist.json](./56248-dot-artist.json) |
 | Dot Big Bang | 74797 | [74797-dot-big-bang.json](./74797-dot-big-bang.json) |
 | Dot Blocks! | 103853 | [103853-dot-blocks.json](./103853-dot-blocks.json) |
 | Dot Brain | 238985 | [238985-dot-brain.json](./238985-dot-brain.json) |
@@ -15185,6 +15186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Soccer 2002 | 61340 | [61340-dynamite-soccer-2002.json](./61340-dynamite-soccer-2002.json) |
 | Dynamite Soccer 2004 Final | 61335 | [61335-dynamite-soccer-2004-final.json](./61335-dynamite-soccer-2004-final.json) |
 | Dynamite Soccer 98 | 61337 | [61337-dynamite-soccer-98.json](./61337-dynamite-soccer-98.json) |
+| Dynamix | 56355 | [56355-dynamix.json](./56355-dynamix.json) |
 | Dynamo Frank | 413035 | [413035-dynamo-frank.json](./413035-dynamo-frank.json) |
 | Dynamo Kid | 399924 | [399924-dynamo-kid.json](./399924-dynamo-kid.json) |
 | Dynamo Kid 2 | 399923 | [399923-dynamo-kid-2.json](./399923-dynamo-kid-2.json) |
