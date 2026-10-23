@@ -6013,6 +6013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Harmony | 52130 | [52130-word-harmony.json](./52130-word-harmony.json) |
 | Word Hunter | 83438 | [83438-word-hunter.json](./83438-word-hunter.json) |
 | Word Invaders! | 232479 | [232479-word-invaders.json](./232479-word-invaders.json) |
+| Word Invasion | 44363 | [44363-word-invasion.json](./44363-word-invasion.json) |
 | Word Island | 205887 | [205887-word-island.json](./205887-word-island.json) |
 | Word Jong | 47715 | [47715-word-jong.json](./47715-word-jong.json) |
 | Word Jumblerama Blitz | 89575 | [89575-word-jumblerama-blitz.json](./89575-word-jumblerama-blitz.json) |
