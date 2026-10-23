@@ -7612,6 +7612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platdude in a Tube | 61542 | [61542-platdude-in-a-tube.json](./61542-platdude-in-a-tube.json) |
 | Platdude in Battling Ostriches | 61426 | [61426-platdude-in-battling-ostriches.json](./61426-platdude-in-battling-ostriches.json) |
 | Platdude in Swamp Golf | 61087 | [61087-platdude-in-swamp-golf.json](./61087-platdude-in-swamp-golf.json) |
+| Platdude in the Spirit Collector | 61953 | [61953-platdude-in-the-spirit-collector.json](./61953-platdude-in-the-spirit-collector.json) |
 | Plate | 339280 | [339280-plate.json](./339280-plate.json) |
 | Plate Spinning | 202006 | [202006-plate-spinning.json](./202006-plate-spinning.json) |
 | Plateman | 240776 | [240776-plateman.json](./240776-plateman.json) |
@@ -9284,6 +9285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poketale | 309973 | [309973-poketale.json](./309973-poketale.json) |
 | Poketan | 70064 | [70064-poketan.json](./70064-poketan.json) |
 | Poketibia | 356024 | [356024-poketibia.json](./356024-poketibia.json) |
+| PokéTouch | 61973 | [61973-poketouch.json](./61973-poketouch.json) |
 | Pokettohiro | 333063 | [333063-pokettohiro.json](./333063-pokettohiro.json) |
 | PokeVoid | 343903 | [343903-pokevoid.json](./343903-pokevoid.json) |
 | Pokéwalker | 245421 | [245421-pokewalker.json](./245421-pokewalker.json) |
