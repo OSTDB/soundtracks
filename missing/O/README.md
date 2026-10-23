@@ -3046,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Strike: Arena | 32316 | [32316-orbital-strike-arena.json](./32316-orbital-strike-arena.json) |
 | Orbital Traffic Controller | 399778 | [399778-orbital-traffic-controller.json](./399778-orbital-traffic-controller.json) |
 | Orbital X | 31797 | [31797-orbital-x.json](./31797-orbital-x.json) |
+| Orbitality | 81007 | [81007-orbitality.json](./81007-orbitality.json) |
 | Orbitals | 133119 | [133119-orbitals.json](./133119-orbitals.json) |
 | Orbitals | 381237 | [381237-orbitals.json](./381237-orbitals.json) |
 | Orbiteers | 371566 | [371566-orbiteers.json](./371566-orbiteers.json) |
