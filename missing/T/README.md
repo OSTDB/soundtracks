@@ -9476,6 +9476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hospital | 292997 | [292997-the-last-hospital.json](./292997-the-last-hospital.json) |
 | The Last Hour | 139050 | [139050-the-last-hour.json](./139050-the-last-hour.json) |
 | The Last Human: Go! | 278942 | [278942-the-last-human-go.json](./278942-the-last-human-go.json) |
+| The Last Hunt | 86613 | [86613-the-last-hunt.json](./86613-the-last-hunt.json) |
 | The Last Inca | 71771 | [71771-the-last-inca.json](./71771-the-last-inca.json) |
 | The Last Janitor: Data Cleanup | 361680 | [361680-the-last-janitor-data-cleanup.json](./361680-the-last-janitor-data-cleanup.json) |
 | The Last Job | 236792 | [236792-the-last-job.json](./236792-the-last-job.json) |
@@ -11177,6 +11178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Navigator | 106505 | [106505-the-navigator.json](./106505-the-navigator.json) |
 | The Neath | 296588 | [296588-the-neath.json](./296588-the-neath.json) |
 | The Necessary Evil | 415102 | [415102-the-necessary-evil.json](./415102-the-necessary-evil.json) |
+| The Necklace of Blood | 86603 | [86603-the-necklace-of-blood.json](./86603-the-necklace-of-blood.json) |
 | The Necklace of Blood Part II | 109886 | [109886-the-necklace-of-blood-part-ii.json](./109886-the-necklace-of-blood-part-ii.json) |
 | The Necro-Nom-icon | 214393 | [214393-the-necro-nom-icon.json](./214393-the-necro-nom-icon.json) |
 | The Necromancer | 80856 | [80856-the-necromancer.json](./80856-the-necromancer.json) |
@@ -16196,6 +16198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through Time | 206220 | [206220-through-time.json](./206220-through-time.json) |
 | Through Time the Girl Puzzle | 262933 | [262933-through-time-the-girl-puzzle.json](./262933-through-time-the-girl-puzzle.json) |
 | ThrounnelVR | 31877 | [31877-throunnelvr.json](./31877-throunnelvr.json) |
+| Throw Anything | 86622 | [86622-throw-anything.json](./86622-throw-anything.json) |
 | Throw Anything: Zombie Invaders | 373090 | [373090-throw-anything-zombie-invaders.json](./373090-throw-anything-zombie-invaders.json) |
 | Throw Bro | 302350 | [302350-throw-bro.json](./302350-throw-bro.json) |
 | Throw Cubes into Brick Towers to Collapse Them | 134662 | [134662-throw-cubes-into-brick-towers-to-collapse-them.json](./134662-throw-cubes-into-brick-towers-to-collapse-them.json) |
@@ -18762,6 +18765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TinyTiny | 235820 | [235820-tinytiny.json](./235820-tinytiny.json) |
 | Tinytopia | 131947 | [131947-tinytopia.json](./131947-tinytopia.json) |
 | Tinyverse | 181362 | [181362-tinyverse.json](./181362-tinyverse.json) |
+| TinyWar high-speed | 86587 | [86587-tinywar-high-speed.json](./86587-tinywar-high-speed.json) |
 | TinyWars | 122207 | [122207-tinywars.json](./122207-tinywars.json) |
 | Tip | 362987 | [362987-tip.json](./362987-tip.json) |
 | Tip & Tumble | 232384 | [232384-tip-and-tumble.json](./232384-tip-and-tumble.json) |
@@ -21680,6 +21684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic Therapy | 306420 | [306420-toxic-therapy.json](./306420-toxic-therapy.json) |
 | Toxic Toads | 322973 | [322973-toxic-toads.json](./322973-toxic-toads.json) |
 | Toxic Tomb | 283086 | [283086-toxic-tomb.json](./283086-toxic-tomb.json) |
+| Toxic Townsmen | 86602 | [86602-toxic-townsmen.json](./86602-toxic-townsmen.json) |
 | Toxic Yuri | 397186 | [397186-toxic-yuri.json](./397186-toxic-yuri.json) |
 | Toxicant | 55795 | [55795-toxicant.json](./55795-toxicant.json) |
 | Toxicity | 263022 | [263022-toxicity.json](./263022-toxicity.json) |
