@@ -2632,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty Box | 361755 | [361755-empty-box.json](./361755-empty-box.json) |
 | Empty Epsilon | 125379 | [125379-empty-epsilon.json](./125379-empty-epsilon.json) |
 | Empty Gauge | 391131 | [391131-empty-gauge.json](./391131-empty-gauge.json) |
+| Empty Handed | 54858 | [54858-empty-handed.json](./54858-empty-handed.json) |
 | Empty Heaven: Liminal Dream | 400318 | [400318-empty-heaven-liminal-dream.json](./400318-empty-heaven-liminal-dream.json) |
 | Empty Horizons | 32247 | [32247-empty-horizons.json](./32247-empty-horizons.json) |
 | Empty Human Beans | 340898 | [340898-empty-human-beans.json](./340898-empty-human-beans.json) |
