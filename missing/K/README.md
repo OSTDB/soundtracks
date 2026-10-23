@@ -4423,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kraal | 142366 | [142366-kraal.json](./142366-kraal.json) |
 | Krabat: The Secret of the Sorbian King | 186722 | [186722-krabat-the-secret-of-the-sorbian-king.json](./186722-krabat-the-secret-of-the-sorbian-king.json) |
 | KrabbitWorld Origins | 67297 | [67297-krabbitworld-origins.json](./67297-krabbitworld-origins.json) |
+| Krabby Kats | 97205 | [97205-krabby-kats.json](./97205-krabby-kats.json) |
 | Krack The Hack | 268341 | [268341-krack-the-hack.json](./268341-krack-the-hack.json) |
 | Kraft & Slash | 176348 | [176348-kraft-and-slash.json](./176348-kraft-and-slash.json) |
 | Krafteers | 174863 | [174863-krafteers.json](./174863-krafteers.json) |
