@@ -3020,6 +3020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Shadows | 301417 | [301417-temple-of-shadows.json](./301417-temple-of-shadows.json) |
 | Temple Of Snek | 127777 | [127777-temple-of-snek.json](./127777-temple-of-snek.json) |
 | Temple of Spider | 316982 | [316982-temple-of-spider.json](./316982-temple-of-spider.json) |
+| Temple of Spikes: The Legend | 90441 | [90441-temple-of-spikes-the-legend.json](./90441-temple-of-spikes-the-legend.json) |
 | Temple of Starlight | 213315 | [213315-temple-of-starlight.json](./213315-temple-of-starlight.json) |
 | Temple of Tangram | 198519 | [198519-temple-of-tangram.json](./198519-temple-of-tangram.json) |
 | Temple of Terror | 36840 | [36840-temple-of-terror.json](./36840-temple-of-terror.json) |
@@ -20839,6 +20840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch to Fate: Occult Romance | 255171 | [255171-touch-to-fate-occult-romance.json](./255171-touch-to-fate-occult-romance.json) |
 | Touch Your Eyes | 275695 | [275695-touch-your-eyes.json](./275695-touch-your-eyes.json) |
 | Touch: Man to Man | 66773 | [66773-touch-man-to-man.json](./66773-touch-man-to-man.json) |
+| TouchBrickout | 90422 | [90422-touchbrickout.json](./90422-touchbrickout.json) |
 | Touchdown | 346102 | [346102-touchdown.json](./346102-touchdown.json) |
 | Touchdown Fever II | 293316 | [293316-touchdown-fever-ii.json](./293316-touchdown-fever-ii.json) |
 | Touchdown Football | 12345 | [12345-touchdown-football.json](./12345-touchdown-football.json) |
@@ -21696,6 +21698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Escape | 344530 | [344530-toy-escape.json](./344530-toy-escape.json) |
 | Toy Factory | 206712 | [206712-toy-factory.json](./206712-toy-factory.json) |
 | Toy Flying Car | 235046 | [235046-toy-flying-car.json](./235046-toy-flying-car.json) |
+| Toy Generals | 90432 | [90432-toy-generals.json](./90432-toy-generals.json) |
 | Toy Goblins | 57035 | [57035-toy-goblins.json](./57035-toy-goblins.json) |
 | Toy Golf Extreme | 50400 | [50400-toy-golf-extreme.json](./50400-toy-golf-extreme.json) |
 | Toy Gun Office Simulator | 108433 | [108433-toy-gun-office-simulator.json](./108433-toy-gun-office-simulator.json) |
