@@ -1868,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vinland Tales | 324719 | [324719-vinland-tales.json](./324719-vinland-tales.json) |
 | Vinni Pukh i vse, vse, vse | 325045 | [325045-vinni-pukh-i-vse-vse-vse.json](./325045-vinni-pukh-i-vse-vse-vse.json) |
 | Vinnie Vole's Existential Nightmare | 63367 | [63367-vinnie-voles-existential-nightmare.json](./63367-vinnie-voles-existential-nightmare.json) |
+| Vinnie's Diary | 88049 | [88049-vinnies-diary.json](./88049-vinnies-diary.json) |
 | Vinnie's Diary VR | 343333 | [343333-vinnies-diary-vr.json](./343333-vinnies-diary-vr.json) |
 | Vinnie's Rampage | 393422 | [393422-vinnies-rampage.json](./393422-vinnies-rampage.json) |
 | Vinnie's Shooting Yard | 393423 | [393423-vinnies-shooting-yard.json](./393423-vinnies-shooting-yard.json) |
@@ -2143,6 +2144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Mother Family Game: Working Mom Simulator | 101587 | [101587-virtual-mother-family-game-working-mom-simulator.json](./101587-virtual-mother-family-game-working-mom-simulator.json) |
 | Virtual Mother Home Chef Family Simulator | 103903 | [103903-virtual-mother-home-chef-family-simulator.json](./103903-virtual-mother-home-chef-family-simulator.json) |
 | Virtual Mother Twins Baby | 296743 | [296743-virtual-mother-twins-baby.json](./296743-virtual-mother-twins-baby.json) |
+| Virtual Ninja VR | 88064 | [88064-virtual-ninja-vr.json](./88064-virtual-ninja-vr.json) |
 | Virtual Perspective | 391756 | [391756-virtual-perspective.json](./391756-virtual-perspective.json) |
 | Virtual Pet | 315292 | [315292-virtual-pet.json](./315292-virtual-pet.json) |
 | Virtual Pet | 325547 | [325547-virtual-pet.json](./325547-virtual-pet.json) |
@@ -2787,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volt Recharge | 301069 | [301069-volt-recharge.json](./301069-volt-recharge.json) |
 | Volt Snake | 413058 | [413058-volt-snake.json](./413058-volt-snake.json) |
 | Voltage | 131193 | [131193-voltage.json](./131193-voltage.json) |
+| Voltage | 88029 | [88029-voltage.json](./88029-voltage.json) |
 | Voltage Fighter Gowcaizer | 39590 | [39590-voltage-fighter-gowcaizer.json](./39590-voltage-fighter-gowcaizer.json) |
 | Voltage High Society | 208420 | [208420-voltage-high-society.json](./208420-voltage-high-society.json) |
 | Voltage Vamp | 401927 | [401927-voltage-vamp.json](./401927-voltage-vamp.json) |
