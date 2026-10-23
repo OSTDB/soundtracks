@@ -908,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Don't Know Jack Vol. 6: The Lost Gold | 16789 | [16789-you-dont-know-jack-vol-6-the-lost-gold.json](./16789-you-dont-know-jack-vol-6-the-lost-gold.json) |
 | You Don't Know Jack: Jumbo | 205804 | [205804-you-dont-know-jack-jumbo.json](./205804-you-dont-know-jack-jumbo.json) |
 | You Don't Know Jack: Mock 2 | 77326 | [77326-you-dont-know-jack-mock-2.json](./77326-you-dont-know-jack-mock-2.json) |
+| You Don't Know Jack: Offline | 77791 | [77791-you-dont-know-jack-offline.json](./77791-you-dont-know-jack-offline.json) |
 | You Don't Know Jack: Question Pack | 144792 | [144792-you-dont-know-jack-question-pack.json](./144792-you-dont-know-jack-question-pack.json) |
 | You Don't Know Jack: The In-Your-Face (Book) Trivia Game | 297611 | [297611-you-dont-know-jack-the-in-your-face-book-trivia-game.json](./297611-you-dont-know-jack-the-in-your-face-book-trivia-game.json) |
 | You Don't Know Jack: The Irreverent Collection | 205803 | [205803-you-dont-know-jack-the-irreverent-collection.json](./205803-you-dont-know-jack-the-irreverent-collection.json) |
@@ -1099,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Anime Waifu | 368080 | [368080-your-anime-waifu.json](./368080-your-anime-waifu.json) |
 | Your Answers or Your Breakfast! | 181752 | [181752-your-answers-or-your-breakfast.json](./181752-your-answers-or-your-breakfast.json) |
 | Your Average Old School Shmup | 320852 | [320852-your-average-old-school-shmup.json](./320852-your-average-old-school-shmup.json) |
+| Your Basic Block | 77779 | [77779-your-basic-block.json](./77779-your-basic-block.json) |
 | Your Best Nightmare | 176909 | [176909-your-best-nightmare.json](./176909-your-best-nightmare.json) |
 | Your Big, Cute Monster Farm | 368810 | [368810-your-big-cute-monster-farm.json](./368810-your-big-cute-monster-farm.json) |
 | Your Blue Room | 185616 | [185616-your-blue-room.json](./185616-your-blue-room.json) |
