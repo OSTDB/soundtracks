@@ -12748,6 +12748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Anthology | 338673 | [338673-atari-anthology.json](./338673-atari-anthology.json) |
 | Atari Arcade 1 | 149293 | [149293-atari-arcade-1.json](./149293-atari-arcade-1.json) |
 | Atari Arcade Hits: Volume 1 | 80627 | [80627-atari-arcade-hits-volume-1.json](./80627-atari-arcade-hits-volume-1.json) |
+| Atari Arcade Hits: Volume 2 | 79673 | [79673-atari-arcade-hits-volume-2.json](./79673-atari-arcade-hits-volume-2.json) |
 | Atari Basketball | 131421 | [131421-atari-basketball.json](./131421-atari-basketball.json) |
 | Atari Classics Games | 301495 | [301495-atari-classics-games.json](./301495-atari-classics-games.json) |
 | Atari Classics: Evolved | 46023 | [46023-atari-classics-evolved.json](./46023-atari-classics-evolved.json) |
