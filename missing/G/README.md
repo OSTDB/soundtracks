@@ -3711,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gizoku Tantei Nosuri | 227891 | [227891-gizoku-tantei-nosuri.json](./227891-gizoku-tantei-nosuri.json) |
 | Gjallarhorn | 169720 | [169720-gjallarhorn.json](./169720-gjallarhorn.json) |
 | GL Golf | 88347 | [88347-gl-golf.json](./88347-gl-golf.json) |
+| GL Tron | 63696 | [63696-gl-tron.json](./63696-gl-tron.json) |
 | GL-117 Action Flight Simulator | 51245 | [51245-gl-117-action-flight-simulator.json](./51245-gl-117-action-flight-simulator.json) |
 | Glace | 79621 | [79621-glace.json](./79621-glace.json) |
 | Glacial | 116040 | [116040-glacial.json](./116040-glacial.json) |
@@ -5170,6 +5171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldrot | 352250 | [352250-goldrot.json](./352250-goldrot.json) |
 | Goldrush | 314035 | [314035-goldrush.json](./314035-goldrush.json) |
 | Goldrush Coin Falls | 232289 | [232289-goldrush-coin-falls.json](./232289-goldrush-coin-falls.json) |
+| Goldrushers | 63723 | [63723-goldrushers.json](./63723-goldrushers.json) |
 | Goldspace | 184643 | [184643-goldspace.json](./184643-goldspace.json) |
 | Goldsphere: Completion | 281291 | [281291-goldsphere-completion.json](./281291-goldsphere-completion.json) |
 | GoldStorm Pirates | 326948 | [326948-goldstorm-pirates.json](./326948-goldstorm-pirates.json) |
@@ -5949,6 +5951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grabit | 412373 | [412373-grabit.json](./412373-grabit.json) |
 | Grabitoons | 231049 | [231049-grabitoons.json](./231049-grabitoons.json) |
 | Grabity | 75073 | [75073-grabity.json](./75073-grabity.json) |
+| Grablox | 63623 | [63623-grablox.json](./63623-grablox.json) |
 | Grace Hopper: Bug Rescue | 217451 | [217451-grace-hopper-bug-rescue.json](./217451-grace-hopper-bug-rescue.json) |
 | Grace of Letoile | 118166 | [118166-grace-of-letoile.json](./118166-grace-of-letoile.json) |
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
@@ -7429,6 +7432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm's Hollow | 125110 | [125110-grimms-hollow.json](./125110-grimms-hollow.json) |
 | GrimmKitchen | 326225 | [326225-grimmkitchen.json](./326225-grimmkitchen.json) |
 | Grimmlins Tale | 199374 | [199374-grimmlins-tale.json](./199374-grimmlins-tale.json) |
+| Grimms | 63714 | [63714-grimms.json](./63714-grimms.json) |
 | Grimms Nightmare | 109177 | [109177-grimms-nightmare.json](./109177-grimms-nightmare.json) |
 | Grimms Notes | 193846 | [193846-grimms-notes.json](./193846-grimms-notes.json) |
 | GrimmStar | 125331 | [125331-grimmstar.json](./125331-grimmstar.json) |
