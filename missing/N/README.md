@@ -2545,6 +2545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Baby Sister | 106378 | [106378-new-baby-sister.json](./106378-new-baby-sister.json) |
 | New Baseball | 80490 | [80490-new-baseball.json](./80490-new-baseball.json) |
 | New Battle of Shanghai Beach | 341370 | [341370-new-battle-of-shanghai-beach.json](./341370-new-battle-of-shanghai-beach.json) |
+| New Beetle Tracks and Gaps | 73608 | [73608-new-beetle-tracks-and-gaps.json](./73608-new-beetle-tracks-and-gaps.json) |
 | New Boggle Boggle | 159185 | [159185-new-boggle-boggle.json](./159185-new-boggle-boggle.json) |
 | New Bust-A-Move | 64296 | [64296-new-bust-a-move.json](./64296-new-bust-a-move.json) |
 | New Campaign Trail | 313157 | [313157-new-campaign-trail.json](./313157-new-campaign-trail.json) |
@@ -4789,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noah in a Dream | 236295 | [236295-noah-in-a-dream.json](./236295-noah-in-a-dream.json) |
 | Noah no Yurikago | 58830 | [58830-noah-no-yurikago.json](./58830-noah-no-yurikago.json) |
 | Noah Please! | 239751 | [239751-noah-please.json](./239751-noah-please.json) |
+| Noah's Adventures | 73621 | [73621-noahs-adventures.json](./73621-noahs-adventures.json) |
 | Noah's Ark | 150496 | [150496-noahs-ark.json](./150496-noahs-ark.json) |
 | Noah's Ark | 210023 | [210023-noahs-ark.json](./210023-noahs-ark.json) |
 | Noah's Ark | 327970 | [327970-noahs-ark.json](./327970-noahs-ark.json) |
@@ -4987,6 +4989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noddy and the Magic Book | 83367 | [83367-noddy-and-the-magic-book.json](./83367-noddy-and-the-magic-book.json) |
 | Noddy in Toyland | 98333 | [98333-noddy-in-toyland.json](./98333-noddy-in-toyland.json) |
 | Noddy: A Day in Toyland | 49388 | [49388-noddy-a-day-in-toyland.json](./49388-noddy-a-day-in-toyland.json) |
+| Noddy: Detective for a Day | 73664 | [73664-noddy-detective-for-a-day.json](./73664-noddy-detective-for-a-day.json) |
 | Noddy: The Magic of Toytown on a CD-ROM | 130271 | [130271-noddy-the-magic-of-toytown-on-a-cd-rom.json](./130271-noddy-the-magic-of-toytown-on-a-cd-rom.json) |
 | Noddy's Big Adventure | 321603 | [321603-noddys-big-adventure.json](./321603-noddys-big-adventure.json) |
 | Noddy's Magic Adventure | 273015 | [273015-noddys-magic-adventure.json](./273015-noddys-magic-adventure.json) |
