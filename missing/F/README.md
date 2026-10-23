@@ -3738,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Layer | 39552 | [39552-fighting-layer.json](./39552-fighting-layer.json) |
 | Fighting Legends Pack | 198128 | [198128-fighting-legends-pack.json](./198128-fighting-legends-pack.json) |
 | Fighting Mad Lads | 187396 | [187396-fighting-mad-lads.json](./187396-fighting-mad-lads.json) |
+| Fighting Mania: Fist of the North Star | 64826 | [64826-fighting-mania-fist-of-the-north-star.json](./64826-fighting-mania-fist-of-the-north-star.json) |
 | Fighting Masters | 46215 | [46215-fighting-masters.json](./46215-fighting-masters.json) |
 | Fighting Moore | 127015 | [127015-fighting-moore.json](./127015-fighting-moore.json) |
 | Fighting Network Rings | 44825 | [44825-fighting-network-rings.json](./44825-fighting-network-rings.json) |
