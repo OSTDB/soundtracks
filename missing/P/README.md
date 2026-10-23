@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Snec | 393131 | [393131-pac-snec.json](./393131-pac-snec.json) |
 | Pac's Revenge | 337997 | [337997-pacs-revenge.json](./337997-pacs-revenge.json) |
 | Paca Paca Passion Special | 329386 | [329386-paca-paca-passion-special.json](./329386-paca-paca-passion-special.json) |
+| Paca Plus | 79672 | [79672-paca-plus.json](./79672-paca-plus.json) |
 | Paca Plus Minus | 63136 | [63136-paca-plus-minus.json](./63136-paca-plus-minus.json) |
 | Paca Plus Plus! | 63135 | [63135-paca-plus-plus.json](./63135-paca-plus-plus.json) |
 | Pacapaca Passion | 139118 | [139118-pacapaca-passion.json](./139118-pacapaca-passion.json) |
@@ -12680,6 +12681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Reality | 294572 | [294572-project-reality.json](./294572-project-reality.json) |
 | Project Reality | 315026 | [315026-project-reality.json](./315026-project-reality.json) |
 | Project Reality 2 | 2942 | [2942-project-reality-2.json](./2942-project-reality-2.json) |
+| Project Reality: BF2 | 79694 | [79694-project-reality-bf2.json](./79694-project-reality-bf2.json) |
 | Project Rebearth | 301075 | [301075-project-rebearth.json](./301075-project-rebearth.json) |
 | Project Rebirth | 325499 | [325499-project-rebirth.json](./325499-project-rebirth.json) |
 | Project Reboot | 345455 | [345455-project-reboot.json](./345455-project-reboot.json) |
@@ -12974,6 +12976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prokshov | 143728 | [143728-prokshov.json](./143728-prokshov.json) |
 | Prolegomena to a Hyperdimensional Interface That Will Be Able to Manifest From Three-Minute Interchanges | 324744 | [324744-prolegomena-to-a-hyperdimensional-interface-that-will-be-able-to-manifest-from-three-minute-interchanges.json](./324744-prolegomena-to-a-hyperdimensional-interface-that-will-be-able-to-manifest-from-three-minute-interchanges.json) |
 | Proletarian Budget Survival | 84035 | [84035-proletarian-budget-survival.json](./84035-proletarian-budget-survival.json) |
+| Proliferation | 79705 | [79705-proliferation.json](./79705-proliferation.json) |
 | Prologue | 127345 | [127345-prologue.json](./127345-prologue.json) |
 | Prologue For A Vacant Kingdom | 116206 | [116206-prologue-for-a-vacant-kingdom.json](./116206-prologue-for-a-vacant-kingdom.json) |
 | Prologue: Go Wayback! | 324576 | [324576-prologue-go-wayback.json](./324576-prologue-go-wayback.json) |
