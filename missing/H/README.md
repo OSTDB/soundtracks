@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | h 4 in a Row | 89155 | [89155-h-4-in-a-row.json](./89155-h-4-in-a-row.json) |
+| h Checkers | 91164 | [91164-h-checkers.json](./91164-h-checkers.json) |
 | h Find the Differences 1 | 88842 | [88842-h-find-the-differences-1.json](./88842-h-find-the-differences-1.json) |
 | h Find the Differences 2 | 88449 | [88449-h-find-the-differences-2.json](./88449-h-find-the-differences-2.json) |
 | H Girl 2 | 244271 | [244271-h-girl-2.json](./244271-h-girl-2.json) |
@@ -4668,6 +4669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Realm | 122883 | [122883-heros-realm.json](./122883-heros-realm.json) |
 | Hero's Saga Laevatein Tactics | 21034 | [21034-heros-saga-laevatein-tactics.json](./21034-heros-saga-laevatein-tactics.json) |
 | Hero's Song | 25870 | [25870-heros-song.json](./25870-heros-song.json) |
+| Hero's Story | 91220 | [91220-heros-story.json](./91220-heros-story.json) |
 | Hero's War | 224214 | [224214-heros-war.json](./224214-heros-war.json) |
 | Hero's Warband | 297913 | [297913-heros-warband.json](./297913-heros-warband.json) |
 | Hero's Way | 253322 | [253322-heros-way.json](./253322-heros-way.json) |
@@ -5682,6 +5684,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: Sherlock Holmes Mystery Case - The Big Apartment: My Mysterious House - The Big Hotel | 86723 | [86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json](./86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json) |
 | Hidden Objects: Sleeping Beauty | 195423 | [195423-hidden-objects-sleeping-beauty.json](./195423-hidden-objects-sleeping-beauty.json) |
 | Hidden Objects: The Big Circus Mystery - My Watch Shop: Wanted Dead or Alive | 107677 | [107677-hidden-objects-the-big-circus-mystery-my-watch-shop-wanted-dead-or-alive.json](./107677-hidden-objects-the-big-circus-mystery-my-watch-shop-wanted-dead-or-alive.json) |
+| Hidden Objects: The Room - My Wallet: The Big House | 91238 | [91238-hidden-objects-the-room-my-wallet-the-big-house.json](./91238-hidden-objects-the-room-my-wallet-the-big-house.json) |
+| Hidden Objects: The Witches of Pumpkin Avenue | 91200 | [91200-hidden-objects-the-witches-of-pumpkin-avenue.json](./91200-hidden-objects-the-witches-of-pumpkin-avenue.json) |
 | Hidden Objects: Travel London - Farm: Detective | 88669 | [88669-hidden-objects-travel-london-farm-detective.json](./88669-hidden-objects-travel-london-farm-detective.json) |
 | Hidden Objects: Victoria in Egypt - Cheops Pyramid | 200197 | [200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json](./200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json) |
 | Hidden Objects: Wallace & Gromit | 334916 | [334916-hidden-objects-wallace-and-gromit.json](./334916-hidden-objects-wallace-and-gromit.json) |
