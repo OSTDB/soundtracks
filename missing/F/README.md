@@ -2375,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Rampage | 96680 | [96680-fast-food-rampage.json](./96680-fast-food-rampage.json) |
 | Fast Food Shop Online | 212225 | [212225-fast-food-shop-online.json](./212225-fast-food-shop-online.json) |
 | Fast Food Tycoon | 8912 | [8912-fast-food-tycoon.json](./8912-fast-food-tycoon.json) |
+| Fast Food Tycoon 2 | 80335 | [80335-fast-food-tycoon-2.json](./80335-fast-food-tycoon-2.json) |
 | Fast Food Tycoon Simulator | 353959 | [353959-fast-food-tycoon-simulator.json](./353959-fast-food-tycoon-simulator.json) |
 | Fast Food: Restaurant Simulator | 310138 | [310138-fast-food-restaurant-simulator.json](./310138-fast-food-restaurant-simulator.json) |
 | Fast Fox | 152198 | [152198-fast-fox.json](./152198-fast-fox.json) |
@@ -6273,6 +6274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flippen | 178847 | [178847-flippen.json](./178847-flippen.json) |
 | Flippen Run Mike | 158689 | [158689-flippen-run-mike.json](./158689-flippen-run-mike.json) |
 | Flipper | 209454 | [209454-flipper.json](./209454-flipper.json) |
+| Flipper | 80298 | [80298-flipper.json](./80298-flipper.json) |
 | Flipper | 80795 | [80795-flipper.json](./80795-flipper.json) |
 | Flipper & Lopaka | 50031 | [50031-flipper-and-lopaka.json](./50031-flipper-and-lopaka.json) |
 | Flipper & Lopaka: The Secrets of the Deep | 62735 | [62735-flipper-and-lopaka-the-secrets-of-the-deep.json](./62735-flipper-and-lopaka-the-secrets-of-the-deep.json) |
@@ -9125,6 +9127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeCell Solitaire - Classic Deck Card Games | 88365 | [88365-freecell-solitaire-classic-deck-card-games.json](./88365-freecell-solitaire-classic-deck-card-games.json) |
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
 | FreeCell Solitaire Collection | 148324 | [148324-freecell-solitaire-collection.json](./148324-freecell-solitaire-collection.json) |
+| Freecell Solitaire Cube | 80325 | [80325-freecell-solitaire-cube.json](./80325-freecell-solitaire-cube.json) |
 | Freecell Solitaire Deluxe | 125682 | [125682-freecell-solitaire-deluxe.json](./125682-freecell-solitaire-deluxe.json) |
 | FreeCell X | 100993 | [100993-freecell-x.json](./100993-freecell-x.json) |
 | Freeciv | 73190 | [73190-freeciv.json](./73190-freeciv.json) |
