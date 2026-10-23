@@ -1336,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Rabbit Farm | 338741 | [338741-happy-rabbit-farm.json](./338741-happy-rabbit-farm.json) |
 | Happy Race | 195041 | [195041-happy-race.json](./195041-happy-race.json) |
 | Happy Racing - Top Wheels Game | 91350 | [91350-happy-racing-top-wheels-game.json](./91350-happy-racing-top-wheels-game.json) |
+| Happy Rider 2 | 95789 | [95789-happy-rider-2.json](./95789-happy-rider-2.json) |
 | Happy Room: Robo | 194035 | [194035-happy-room-robo.json](./194035-happy-room-robo.json) |
 | Happy Runner | 359929 | [359929-happy-runner.json](./359929-happy-runner.json) |
 | Happy Saint Sheol | 250495 | [250495-happy-saint-sheol.json](./250495-happy-saint-sheol.json) |
@@ -2226,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haustor's Abbey | 278467 | [278467-haustors-abbey.json](./278467-haustors-abbey.json) |
 | Haustoria | 130922 | [130922-haustoria.json](./130922-haustoria.json) |
 | Haut | 349382 | [349382-haut.json](./349382-haut.json) |
+| Havana Piano Tiles | 95895 | [95895-havana-piano-tiles.json](./95895-havana-piano-tiles.json) |
 | Have a Blast | 122079 | [122079-have-a-blast.json](./122079-have-a-blast.json) |
 | Have a Blast | 151490 | [151490-have-a-blast.json](./151490-have-a-blast.json) |
 | Have a Good Day | 302778 | [302778-have-a-good-day.json](./302778-have-a-good-day.json) |
@@ -7944,6 +7946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Adventure VR | 146651 | [146651-horror-adventure-vr.json](./146651-horror-adventure-vr.json) |
 | Horror Adventure: Zombie Edition VR | 243061 | [243061-horror-adventure-zombie-edition-vr.json](./243061-horror-adventure-zombie-edition-vr.json) |
 | Horror Amusement Park | 249213 | [249213-horror-amusement-park.json](./249213-horror-amusement-park.json) |
+| Horror Bosses - Clicker | 95818 | [95818-horror-bosses-clicker.json](./95818-horror-bosses-clicker.json) |
 | Horror Break | 187751 | [187751-horror-break.json](./187751-horror-break.json) |
 | Horror Break: Head to Head | 214528 | [214528-horror-break-head-to-head.json](./214528-horror-break-head-to-head.json) |
 | Horror Bundle Vol. 1 | 147795 | [147795-horror-bundle-vol-1.json](./147795-horror-bundle-vol-1.json) |
