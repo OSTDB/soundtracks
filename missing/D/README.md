@@ -11225,6 +11225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draconis 8 | 334528 | [334528-draconis-8.json](./334528-draconis-8.json) |
 | Draconis Race | 358440 | [358440-draconis-race.json](./358440-draconis-race.json) |
 | Draconis Volatus | 211777 | [211777-draconis-volatus.json](./211777-draconis-volatus.json) |
+| Draconius GO | 74900 | [74900-draconius-go.json](./74900-draconius-go.json) |
 | Dracs After Dusk | 347735 | [347735-dracs-after-dusk.json](./347735-dracs-after-dusk.json) |
 | Dracu-Riot! | 137087 | [137087-dracu-riot.json](./137087-dracu-riot.json) |
 | Dracula | 154323 | [154323-dracula.json](./154323-dracula.json) |
