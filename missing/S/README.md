@@ -7487,6 +7487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shox | 94919 | [94919-shox.json](./94919-shox.json) |
 | Shox: Rally Reinvented | 8265 | [8265-shox-rally-reinvented.json](./8265-shox-rally-reinvented.json) |
 | Shoyu Ramen Forever | 383716 | [383716-shoyu-ramen-forever.json](./383716-shoyu-ramen-forever.json) |
+| Shp Space | 84016 | [84016-shp-space.json](./84016-shp-space.json) |
 | SHPDMBGWL4 Sunshine | 323292 | [323292-shpdmbgwl4-sunshine.json](./323292-shpdmbgwl4-sunshine.json) |
 | SHPR | 211198 | [211198-shpr.json](./211198-shpr.json) |
 | Shrak for Quake | 71748 | [71748-shrak-for-quake.json](./71748-shrak-for-quake.json) |
@@ -15496,6 +15497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Miner: Space Ore Bust | 21579 | [21579-space-miner-space-ore-bust.json](./21579-space-miner-space-ore-bust.json) |
 | Space Mines | 344491 | [344491-space-mines.json](./344491-space-mines.json) |
 | Space Mining | 168718 | [168718-space-mining.json](./168718-space-mining.json) |
+| Space Mining | 84064 | [84064-space-mining.json](./84064-space-mining.json) |
 | Space Misadventures | 326707 | [326707-space-misadventures.json](./326707-space-misadventures.json) |
 | Space Misadventures DX | 326708 | [326708-space-misadventures-dx.json](./326708-space-misadventures-dx.json) |
 | Space Misfits | 123040 | [123040-space-misfits.json](./123040-space-misfits.json) |
@@ -18788,6 +18790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Dust: The Book of Earth (VR) | 29931 | [29931-star-dust-the-book-of-earth-vr.json](./29931-star-dust-the-book-of-earth-vr.json) |
 | Star Dynasties | 122934 | [122934-star-dynasties.json](./122934-star-dynasties.json) |
 | Star Dynasties Bloodlines | 194261 | [194261-star-dynasties-bloodlines.json](./194261-star-dynasties-bloodlines.json) |
+| Star Epica 3720 | 84038 | [84038-star-epica-3720.json](./84038-star-epica-3720.json) |
 | Star Equestrian | 242225 | [242225-star-equestrian.json](./242225-star-equestrian.json) |
 | Star Escape | 135052 | [135052-star-escape.json](./135052-star-escape.json) |
 | Star Evil | 243936 | [243936-star-evil.json](./243936-star-evil.json) |
@@ -19564,6 +19567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarDust: Endless | 105948 | [105948-stardust-endless.json](./105948-stardust-endless.json) |
 | Stare : Block Breaker | 122023 | [122023-stare-block-breaker.json](./122023-stare-block-breaker.json) |
 | Starecrown | 291818 | [291818-starecrown.json](./291818-starecrown.json) |
+| Starena | 84063 | [84063-starena.json](./84063-starena.json) |
 | Stares Back | 375854 | [375854-stares-back.json](./375854-stares-back.json) |
 | Starexcess | 124248 | [124248-starexcess.json](./124248-starexcess.json) |
 | Starfall | 376812 | [376812-starfall.json](./376812-starfall.json) |
