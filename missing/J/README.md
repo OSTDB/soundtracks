@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jazz Jackrabbit 2: The Secret Files | 51347 | [51347-jazz-jackrabbit-2-the-secret-files.json](./51347-jazz-jackrabbit-2-the-secret-files.json) |
 | Jazz Jackrabbit 3 | 72667 | [72667-jazz-jackrabbit-3.json](./72667-jazz-jackrabbit-3.json) |
 | Jazz Jackrabbit: Holiday Hare 1994 | 79517 | [79517-jazz-jackrabbit-holiday-hare-1994.json](./79517-jazz-jackrabbit-holiday-hare-1994.json) |
+| Jazz Jackrabbit: Holiday Hare 1995 | 47050 | [47050-jazz-jackrabbit-holiday-hare-1995.json](./47050-jazz-jackrabbit-holiday-hare-1995.json) |
 | Jazz Lightning : Castle Dungeons | 126644 | [126644-jazz-lightning-castle-dungeons.json](./126644-jazz-lightning-castle-dungeons.json) |
 | Jazz Smash | 260767 | [260767-jazz-smash.json](./260767-jazz-smash.json) |
 | Jazz Time | 181316 | [181316-jazz-time.json](./181316-jazz-time.json) |
@@ -1968,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Madden Football | 13240 | [13240-john-madden-football.json](./13240-john-madden-football.json) |
 | John Madden Football | 295034 | [295034-john-madden-football.json](./295034-john-madden-football.json) |
 | John Madden Football | 295035 | [295035-john-madden-football.json](./295035-john-madden-football.json) |
+| John Madden Football II | 47042 | [47042-john-madden-football-ii.json](./47042-john-madden-football-ii.json) |
 | John Mambo | 101268 | [101268-john-mambo.json](./101268-john-mambo.json) |
 | John Novak | 270552 | [270552-john-novak.json](./270552-john-novak.json) |
 | John Parkour | 345254 | [345254-john-parkour.json](./345254-john-parkour.json) |
@@ -2268,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to Silius | 9159 | [9159-journey-to-silius.json](./9159-journey-to-silius.json) |
 | Journey to Stonehenge | 69812 | [69812-journey-to-stonehenge.json](./69812-journey-to-stonehenge.json) |
 | Journey to the Blue Mountain | 231083 | [231083-journey-to-the-blue-mountain.json](./231083-journey-to-the-blue-mountain.json) |
+| Journey to the Center of Hawkthorne | 47032 | [47032-journey-to-the-center-of-hawkthorne.json](./47032-journey-to-the-center-of-hawkthorne.json) |
 | Journey to the Center of the Earth | 375864 | [375864-journey-to-the-center-of-the-earth.json](./375864-journey-to-the-center-of-the-earth.json) |
 | Journey to the Center of the Earth | 59862 | [59862-journey-to-the-center-of-the-earth.json](./59862-journey-to-the-center-of-the-earth.json) |
 | Journey to the Center of the Earth | 81426 | [81426-journey-to-the-center-of-the-earth.json](./81426-journey-to-the-center-of-the-earth.json) |
