@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saigo no Uta | 166588 | [166588-saigo-no-uta.json](./166588-saigo-no-uta.json) |
 | Saigon: The Final Days | 73871 | [73871-saigon-the-final-days.json](./73871-saigon-the-final-days.json) |
 | Saihai no Yukue | 302503 | [302503-saihai-no-yukue.json](./302503-saihai-no-yukue.json) |
+| Saihai no Yuuke | 58536 | [58536-saihai-no-yuuke.json](./58536-saihai-no-yuuke.json) |
 | Saihate Enabler | 285880 | [285880-saihate-enabler.json](./285880-saihate-enabler.json) |
 | Saihate Hospital | 204496 | [204496-saihate-hospital.json](./204496-saihate-hospital.json) |
 | Saihate no Ima | 62736 | [62736-saihate-no-ima.json](./62736-saihate-no-ima.json) |
@@ -5771,6 +5772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Karate | 47216 | [47216-shanghai-karate.json](./47216-shanghai-karate.json) |
 | Shanghai Kid | 38571 | [38571-shanghai-kid.json](./38571-shanghai-kid.json) |
 | Shanghai Mahjong | 205088 | [205088-shanghai-mahjong.json](./205088-shanghai-mahjong.json) |
+| Shanghai Musume: Mahjong Girls | 58523 | [58523-shanghai-musume-mahjong-girls.json](./58523-shanghai-musume-mahjong-girls.json) |
 | Shanghai Refresh | 123268 | [123268-shanghai-refresh.json](./123268-shanghai-refresh.json) |
 | Shanghai Street Racer | 79547 | [79547-shanghai-street-racer.json](./79547-shanghai-street-racer.json) |
 | Shanghai Summer | 234139 | [234139-shanghai-summer.json](./234139-shanghai-summer.json) |
@@ -9668,6 +9670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi Toilet Wars | 315926 | [315926-skibidi-toilet-wars.json](./315926-skibidi-toilet-wars.json) |
 | Skibidi Toilet: Battle Royale | 321490 | [321490-skibidi-toilet-battle-royale.json](./321490-skibidi-toilet-battle-royale.json) |
 | SkibidiVerse | 266905 | [266905-skibidiverse.json](./266905-skibidiverse.json) |
+| Skibum | 58534 | [58534-skibum.json](./58534-skibum.json) |
 | Skid Island: Asphalt Mayhem | 291745 | [291745-skid-island-asphalt-mayhem.json](./291745-skid-island-asphalt-mayhem.json) |
 | Skid the Scrambling Squirrel | 237779 | [237779-skid-the-scrambling-squirrel.json](./237779-skid-the-scrambling-squirrel.json) |
 | Skidaddle Skidoodle | 311641 | [311641-skidaddle-skidoodle.json](./311641-skidaddle-skidoodle.json) |
@@ -17278,6 +17281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin the Bottle: Bumpie's Party | 79172 | [79172-spin-the-bottle-bumpies-party.json](./79172-spin-the-bottle-bumpies-party.json) |
 | Spin the Lighthouse | 290285 | [290285-spin-the-lighthouse.json](./290285-spin-the-lighthouse.json) |
 | Spin the World | 331187 | [331187-spin-the-world.json](./331187-spin-the-world.json) |
+| Spin the World | 58553 | [58553-spin-the-world.json](./58553-spin-the-world.json) |
 | Spin Time | 228640 | [228640-spin-time.json](./228640-spin-time.json) |
 | Spin to Survive | 386388 | [386388-spin-to-survive.json](./386388-spin-to-survive.json) |
 | Spin To Win | 342480 | [342480-spin-to-win.json](./342480-spin-to-win.json) |
@@ -20578,6 +20582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam'd Roller | 269102 | [269102-steamd-roller.json](./269102-steamd-roller.json) |
 | Steamalot: Epoch's Journey | 35435 | [35435-steamalot-epochs-journey.json](./35435-steamalot-epochs-journey.json) |
 | Steambirds Alliance | 36530 | [36530-steambirds-alliance.json](./36530-steambirds-alliance.json) |
+| Steambirds: Survival | 58537 | [58537-steambirds-survival.json](./58537-steambirds-survival.json) |
 | Steamboat Billy: The Curse of the Leviathan | 102090 | [102090-steamboat-billy-the-curse-of-the-leviathan.json](./102090-steamboat-billy-the-curse-of-the-leviathan.json) |
 | Steamboat Willie | 286040 | [286040-steamboat-willie.json](./286040-steamboat-willie.json) |
 | Steamboat Willie Incident | 327445 | [327445-steamboat-willie-incident.json](./327445-steamboat-willie-incident.json) |
@@ -24558,6 +24563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dungeon Boy 2 | 86576 | [86576-super-dungeon-boy-2.json](./86576-super-dungeon-boy-2.json) |
 | Super Dungeon Bros Mega Bundle Pack | 82413 | [82413-super-dungeon-bros-mega-bundle-pack.json](./82413-super-dungeon-bros-mega-bundle-pack.json) |
 | Super Dungeon Bros: Broettes | 172385 | [172385-super-dungeon-bros-broettes.json](./172385-super-dungeon-bros-broettes.json) |
+| Super Dungeon Explore | 58550 | [58550-super-dungeon-explore.json](./58550-super-dungeon-explore.json) |
 | Super Dungeon Maker: Fink's Awakening | 174074 | [174074-super-dungeon-maker-finks-awakening.json](./174074-super-dungeon-maker-finks-awakening.json) |
 | Super Dungeon Muncher | 311602 | [311602-super-dungeon-muncher.json](./311602-super-dungeon-muncher.json) |
 | Super Dungeon Run | 34942 | [34942-super-dungeon-run.json](./34942-super-dungeon-run.json) |
