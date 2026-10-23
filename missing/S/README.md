@@ -7495,6 +7495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShredDead | 422474 | [422474-shreddead.json](./422474-shreddead.json) |
 | Shredded Faith | 306349 | [306349-shredded-faith.json](./306349-shredded-faith.json) |
 | Shredder 6 | 92949 | [92949-shredder-6.json](./92949-shredder-6.json) |
+| Shredder 9 | 92886 | [92886-shredder-9.json](./92886-shredder-9.json) |
 | Shredders | 136084 | [136084-shredders.json](./136084-shredders.json) |
 | Shredmill | 362906 | [362906-shredmill.json](./362906-shredmill.json) |
 | Shredoka: Magical Girl Skateboarding | 396723 | [396723-shredoka-magical-girl-skateboarding.json](./396723-shredoka-magical-girl-skateboarding.json) |
@@ -11663,6 +11664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snaketris: Rescue 'em all | 276614 | [276614-snaketris-rescue-em-all.json](./276614-snaketris-rescue-em-all.json) |
 | Snaketroidvania | 182128 | [182128-snaketroidvania.json](./182128-snaketroidvania.json) |
 | SnakeVib | 340804 | [340804-snakevib.json](./340804-snakevib.json) |
+| Snakey | 92901 | [92901-snakey.json](./92901-snakey.json) |
 | Snaky Cat | 337093 | [337093-snaky-cat.json](./337093-snaky-cat.json) |
 | Snaky Snake | 70996 | [70996-snaky-snake.json](./70996-snaky-snake.json) |
 | Snaky Snakes | 321505 | [321505-snaky-snakes.json](./321505-snaky-snakes.json) |
@@ -17720,6 +17722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport Girls | 157187 | [157187-sport-girls.json](./157187-sport-girls.json) |
 | Sport Shooter | 157411 | [157411-sport-shooter.json](./157411-sport-shooter.json) |
 | Sport Shooter: The Eight Galleries | 360914 | [360914-sport-shooter-the-eight-galleries.json](./360914-sport-shooter-the-eight-galleries.json) |
+| Sport Sport | 92893 | [92893-sport-sport.json](./92893-sport-sport.json) |
 | Sport Vii | 358825 | [358825-sport-vii.json](./358825-sport-vii.json) |
 | Sport Vii | 358826 | [358826-sport-vii.json](./358826-sport-vii.json) |
 | Sport Vii | 358827 | [358827-sport-vii.json](./358827-sport-vii.json) |
@@ -19051,6 +19054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Traders | 69581 | [69581-star-traders.json](./69581-star-traders.json) |
 | Star Traders 4X Empires Elite | 88590 | [88590-star-traders-4x-empires-elite.json](./88590-star-traders-4x-empires-elite.json) |
 | Star Traders: 4X Empires | 36124 | [36124-star-traders-4x-empires.json](./36124-star-traders-4x-empires.json) |
+| Star Trap | 92890 | [92890-star-trap.json](./92890-star-trap.json) |
 | Star Trapper FX | 196037 | [196037-star-trapper-fx.json](./196037-star-trapper-fx.json) |
 | Star Trek | 11485 | [11485-star-trek.json](./11485-star-trek.json) |
 | Star Trek | 131474 | [131474-star-trek.json](./131474-star-trek.json) |
@@ -22305,6 +22309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striker | 12783 | [12783-striker.json](./12783-striker.json) |
 | Striker | 237503 | [237503-striker.json](./237503-striker.json) |
 | Striker | 237504 | [237504-striker.json](./237504-striker.json) |
+| Striker '95 | 92814 | [92814-striker-95.json](./92814-striker-95.json) |
 | Striker Arena | 175158 | [175158-striker-arena.json](./175158-striker-arena.json) |
 | Striker Modes | 203706 | [203706-striker-modes.json](./203706-striker-modes.json) |
 | Striker of Sky | 238498 | [238498-striker-of-sky.json](./238498-striker-of-sky.json) |
