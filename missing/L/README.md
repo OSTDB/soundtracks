@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.A.W. | 91855 | [91855-l-a-w.json](./91855-l-a-w.json) |
 | L.C.D. Bowling | 346111 | [346111-l-c-d-bowling.json](./346111-l-c-d-bowling.json) |
 | L.F.O. -Lost Future Omega- | 30207 | [30207-l-f-o-lost-future-omega.json](./30207-l-f-o-lost-future-omega.json) |
+| L.G.S.: Shinsetsu Houshin Engi | 64164 | [64164-l-g-s-shinsetsu-houshin-engi.json](./64164-l-g-s-shinsetsu-houshin-engi.json) |
 | L.I.F.E. Simulator | 329983 | [329983-l-i-f-e-simulator.json](./329983-l-i-f-e-simulator.json) |
 | L.O.C.K. | 144364 | [144364-l-o-c-k.json](./144364-l-o-c-k.json) |
 | L.O.L. Surprise Ball Pop | 89778 | [89778-l-o-l-surprise-ball-pop.json](./89778-l-o-l-surprise-ball-pop.json) |
@@ -6769,6 +6770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Louie Lucha | 246113 | [246113-louie-lucha.json](./246113-louie-lucha.json) |
 | Louis Charles in the Louvre | 360640 | [360640-louis-charles-in-the-louvre.json](./360640-louis-charles-in-the-louvre.json) |
 | Louis the Game | 175727 | [175727-louis-the-game.json](./175727-louis-the-game.json) |
+| Louisiana Adventure | 64279 | [64279-louisiana-adventure.json](./64279-louisiana-adventure.json) |
 | Louloudi Asteri: Save the Solar System | 251004 | [251004-louloudi-asteri-save-the-solar-system.json](./251004-louloudi-asteri-save-the-solar-system.json) |
 | Louma | 265116 | [265116-louma.json](./265116-louma.json) |
 | Lounge Café | 390247 | [390247-lounge-cafe.json](./390247-lounge-cafe.json) |
