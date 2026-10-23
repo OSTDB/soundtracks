@@ -2424,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathological | 74085 | [74085-pathological.json](./74085-pathological.json) |
 | Pathology | 270734 | [270734-pathology.json](./270734-pathology.json) |
 | Pathology | 79606 | [79606-pathology.json](./79606-pathology.json) |
+| Pathosis | 95265 | [95265-pathosis.json](./95265-pathosis.json) |
 | Pathotaxia: Pandora | 399211 | [399211-pathotaxia-pandora.json](./399211-pathotaxia-pandora.json) |
 | PathPix | 62462 | [62462-pathpix.json](./62462-pathpix.json) |
 | PathPix Alice | 102614 | [102614-pathpix-alice.json](./102614-pathpix-alice.json) |
