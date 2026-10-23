@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wachenröder | 93007 | [93007-wachenroder.json](./93007-wachenroder.json) |
 | Wack Track Pack | 358318 | [358318-wack-track-pack.json](./358318-wack-track-pack.json) |
 | Wacki: Kosmiczna Rozgrywka | 81666 | [81666-wacki-kosmiczna-rozgrywka.json](./81666-wacki-kosmiczna-rozgrywka.json) |
+| WackIt | 55726 | [55726-wackit.json](./55726-wackit.json) |
 | Wacko | 23502 | [23502-wacko.json](./23502-wacko.json) |
 | Wacko Willy | 394128 | [394128-wacko-willy.json](./394128-wacko-willy.json) |
 | Wacktory | 121609 | [121609-wacktory.json](./121609-wacktory.json) |
@@ -5338,6 +5339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Graph | 185501 | [185501-wizard-graph.json](./185501-wizard-graph.json) |
 | Wizard Hentai Survivors | 233782 | [233782-wizard-hentai-survivors.json](./233782-wizard-hentai-survivors.json) |
 | Wizard Hult | 409893 | [409893-wizard-hult.json](./409893-wizard-hult.json) |
+| Wizard Hunter 2348 | 55743 | [55743-wizard-hunter-2348.json](./55743-wizard-hunter-2348.json) |
 | Wizard Hunter: The End of the Magic World | 283218 | [283218-wizard-hunter-the-end-of-the-magic-world.json](./283218-wizard-hunter-the-end-of-the-magic-world.json) |
 | Wizard King | 29840 | [29840-wizard-king.json](./29840-wizard-king.json) |
 | Wizard Lady | 248929 | [248929-wizard-lady.json](./248929-wizard-lady.json) |
