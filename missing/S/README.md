@@ -4651,6 +4651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serk: Chaos City Delivery | 348919 | [348919-serk-chaos-city-delivery.json](./348919-serk-chaos-city-delivery.json) |
 | Serke | 318288 | [318288-serke.json](./318288-serke.json) |
 | SerMon | 404386 | [404386-sermon.json](./404386-sermon.json) |
+| Serofans | 64811 | [64811-serofans.json](./64811-serofans.json) |
 | Seroutte | 234575 | [234575-seroutte.json](./234575-seroutte.json) |
 | Serpedelic | 181181 | [181181-serpedelic.json](./181181-serpedelic.json) |
 | Serpens: Eternal Thievery | 271916 | [271916-serpens-eternal-thievery.json](./271916-serpens-eternal-thievery.json) |
@@ -12500,6 +12501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Manager 2027 | 340357 | [340357-soccer-manager-2027.json](./340357-soccer-manager-2027.json) |
 | Soccer Manager Arena | 28632 | [28632-soccer-manager-arena.json](./28632-soccer-manager-arena.json) |
 | Soccer Manager Crypto | 109908 | [109908-soccer-manager-crypto.json](./109908-soccer-manager-crypto.json) |
+| Soccer Manager Pro | 64784 | [64784-soccer-manager-pro.json](./64784-soccer-manager-pro.json) |
 | Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
 | Soccer Nations Battle | 100368 | [100368-soccer-nations-battle.json](./100368-soccer-nations-battle.json) |
 | Soccer Nations: Brazil | 137399 | [137399-soccer-nations-brazil.json](./137399-soccer-nations-brazil.json) |
@@ -15722,6 +15724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Restaurant | 337722 | [337722-space-restaurant.json](./337722-space-restaurant.json) |
 | Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
 | Space Revolver | 368825 | [368825-space-revolver.json](./368825-space-revolver.json) |
+| Space Ric-O-Shay | 64818 | [64818-space-ric-o-shay.json](./64818-space-ric-o-shay.json) |
 | Space Riddle: Spaceship Puzzle | 248645 | [248645-space-riddle-spaceship-puzzle.json](./248645-space-riddle-spaceship-puzzle.json) |
 | Space Rider | 94865 | [94865-space-rider.json](./94865-space-rider.json) |
 | Space Rift - Episode 1 | 33655 | [33655-space-rift-episode-1.json](./33655-space-rift-episode-1.json) |
@@ -21419,6 +21422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Rage | 74256 | [74256-stone-rage.json](./74256-stone-rage.json) |
 | Stone River | 167602 | [167602-stone-river.json](./167602-stone-river.json) |
 | Stone Skimming | 100718 | [100718-stone-skimming.json](./100718-stone-skimming.json) |
+| Stone Smash | 64787 | [64787-stone-smash.json](./64787-stone-smash.json) |
 | Stone Story | 301604 | [301604-stone-story.json](./301604-stone-story.json) |
 | Stone Story RPG | 56485 | [56485-stone-story-rpg.json](./56485-stone-story-rpg.json) |
 | Stone Tales | 34386 | [34386-stone-tales.json](./34386-stone-tales.json) |
@@ -24867,6 +24871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Knockoff Versus | 82507 | [82507-super-knockoff-versus.json](./82507-super-knockoff-versus.json) |
 | Super Knockoff! VS | 81131 | [81131-super-knockoff-vs.json](./81131-super-knockoff-vs.json) |
 | Super Kobushi de Naguru Chan | 218123 | [218123-super-kobushi-de-naguru-chan.json](./218123-super-kobushi-de-naguru-chan.json) |
+| Super Kong | 64808 | [64808-super-kong.json](./64808-super-kong.json) |
 | Super Koopa RPG: Here Comes the Koopa Bros.! | 338834 | [338834-super-koopa-rpg-here-comes-the-koopa-bros.json](./338834-super-koopa-rpg-here-comes-the-koopa-bros.json) |
 | Super Korotama | 125712 | [125712-super-korotama.json](./125712-super-korotama.json) |
 | Super Kreml Kart Super Rally | 71705 | [71705-super-kreml-kart-super-rally.json](./71705-super-kreml-kart-super-rally.json) |
