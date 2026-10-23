@@ -8775,6 +8775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Middle Age Conquest | 151289 | [151289-middle-age-conquest.json](./151289-middle-age-conquest.json) |
 | Middle Ages Hero | 115147 | [115147-middle-ages-hero.json](./115147-middle-ages-hero.json) |
 | Middle Ages: Peasants & Knights | 304662 | [304662-middle-ages-peasants-and-knights.json](./304662-middle-ages-peasants-and-knights.json) |
+| Middle Earth Hero | 55613 | [55613-middle-earth-hero.json](./55613-middle-earth-hero.json) |
 | Middle Earth Open World game | 402344 | [402344-middle-earth-open-world-game.json](./402344-middle-earth-open-world-game.json) |
 | Middle Kingdom | 356658 | [356658-middle-kingdom.json](./356658-middle-kingdom.json) |
 | Middle Management | 373251 | [373251-middle-management.json](./373251-middle-management.json) |
@@ -15635,6 +15636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Must Love Jaws | 182883 | [182883-must-love-jaws.json](./182883-must-love-jaws.json) |
 | Must. Eat. Birds! | 67214 | [67214-must-eat-birds.json](./67214-must-eat-birds.json) |
 | Mustache or Revenge | 122059 | [122059-mustache-or-revenge.json](./122059-mustache-or-revenge.json) |
+| Mustdashe | 55723 | [55723-mustdashe.json](./55723-mustdashe.json) |
 | Muster my Monsters | 259074 | [259074-muster-my-monsters.json](./259074-muster-my-monsters.json) |
 | Musuko to Oyome-sama: Wakeari Tsuma ha Jirai-kei Doronuma Story | 240229 | [240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json](./240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json) |
 | Musya: The Classic Japanese Tale of Horror | 36740 | [36740-musya-the-classic-japanese-tale-of-horror.json](./36740-musya-the-classic-japanese-tale-of-horror.json) |
