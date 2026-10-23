@@ -5516,6 +5516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Stallion (Tentative Title) | 85565 | [85565-derby-stallion-tentative-title.json](./85565-derby-stallion-tentative-title.json) |
 | Derby Stallion 04 | 123048 | [123048-derby-stallion-04.json](./123048-derby-stallion-04.json) |
 | Derby Stallion 2 | 405468 | [405468-derby-stallion-2.json](./405468-derby-stallion-2.json) |
+| Derby Stallion 64 | 47743 | [47743-derby-stallion-64.json](./47743-derby-stallion-64.json) |
 | Derby Stallion 96 Taiou: Shuboba Data | 234888 | [234888-derby-stallion-96-taiou-shuboba-data.json](./234888-derby-stallion-96-taiou-shuboba-data.json) |
 | Derby Stallion 96: 97 Nendo-ban | 234889 | [234889-derby-stallion-96-97-nendo-ban.json](./234889-derby-stallion-96-97-nendo-ban.json) |
 | Derby Stallion 98 | 38237 | [38237-derby-stallion-98.json](./38237-derby-stallion-98.json) |
@@ -8179,6 +8180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Fairies: Tinker Bell | 78718 | [78718-disney-fairies-tinker-bell.json](./78718-disney-fairies-tinker-bell.json) |
 | Disney Fairies: Tinker Bell and the Great Fairy Rescue | 230553 | [230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json](./230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json) |
 | Disney Fairies: Tinker Bell and the Lost Treasure | 230409 | [230409-disney-fairies-tinker-bell-and-the-lost-treasure.json](./230409-disney-fairies-tinker-bell-and-the-lost-treasure.json) |
+| Disney Fairies: Tinker Bell and the Lost Treasure | 47790 | [47790-disney-fairies-tinker-bell-and-the-lost-treasure.json](./47790-disney-fairies-tinker-bell-and-the-lost-treasure.json) |
 | Disney Fairies: Tinker Bell's Adventure | 50099 | [50099-disney-fairies-tinker-bells-adventure.json](./50099-disney-fairies-tinker-bells-adventure.json) |
 | Disney Fireworks | 85089 | [85089-disney-fireworks.json](./85089-disney-fireworks.json) |
 | Disney Friends | 220083 | [220083-disney-friends.json](./220083-disney-friends.json) |
@@ -12017,6 +12019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Survival | 373180 | [373180-dragon-survival.json](./373180-dragon-survival.json) |
 | Dragon Survivors | 238430 | [238430-dragon-survivors.json](./238430-dragon-survivors.json) |
 | Dragon Swarm | 87240 | [87240-dragon-swarm.json](./87240-dragon-swarm.json) |
+| Dragon Sword | 47739 | [47739-dragon-sword.json](./47739-dragon-sword.json) |
 | Dragon Syndicate | 363782 | [363782-dragon-syndicate.json](./363782-dragon-syndicate.json) |
 | Dragon Tale 4: The Raven Plot - Collector's Edition | 337221 | [337221-dragon-tale-4-the-raven-plot-collectors-edition.json](./337221-dragon-tale-4-the-raven-plot-collectors-edition.json) |
 | Dragon Tale 5: The Queen's Destiny - Collector's Edition | 417525 | [417525-dragon-tale-5-the-queens-destiny-collectors-edition.json](./417525-dragon-tale-5-the-queens-destiny-collectors-edition.json) |
@@ -12546,6 +12549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Day: True Love | 88458 | [88458-dream-day-true-love.json](./88458-dream-day-true-love.json) |
 | Dream Day: Viva Las Vegas | 87284 | [87284-dream-day-viva-las-vegas.json](./87284-dream-day-viva-las-vegas.json) |
 | Dream Day: Wedding | 209173 | [209173-dream-day-wedding.json](./209173-dream-day-wedding.json) |
+| Dream Day: Wedding Destinations | 47781 | [47781-dream-day-wedding-destinations.json](./47781-dream-day-wedding-destinations.json) |
 | Dream Dazia | 378543 | [378543-dream-dazia.json](./378543-dream-dazia.json) |
 | Dream Detective | 126379 | [126379-dream-detective.json](./126379-dream-detective.json) |
 | Dream Distortion | 375830 | [375830-dream-distortion.json](./375830-dream-distortion.json) |
