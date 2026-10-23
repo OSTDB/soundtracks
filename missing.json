@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-23T21:34:26.000Z",
-  "total_missing": 252883,
+  "generated_at": "2026-10-23T21:47:55.545Z",
+  "total_missing": 252934,
   "games": [
     {
       "igdb_id": 191680,
@@ -28425,6 +28425,11 @@
       "igdb_id": 8130,
       "game_name": "Adventures in the Magic Kingdom",
       "file": "missing/A/8130-adventures-in-the-magic-kingdom.json"
+    },
+    {
+      "igdb_id": 342233,
+      "game_name": "Adventures In Time & Space",
+      "file": "missing/A/342233-adventures-in-time-and-space.json"
     },
     {
       "igdb_id": 134695,
@@ -79092,6 +79097,11 @@
       "file": "missing/A/246875-atelier-marie-remake-the-alchemist-of-salburg-digital-deluxe-edition.json"
     },
     {
+      "igdb_id": 49699,
+      "game_name": "Atelier Marie, Elie & Anis: Message on the Gentle Breeze",
+      "file": "missing/A/49699-atelier-marie-elie-and-anis-message-on-the-gentle-breeze.json"
+    },
+    {
       "igdb_id": 329391,
       "game_name": "Atelier Marie: Puzzle Workshop",
       "file": "missing/A/329391-atelier-marie-puzzle-workshop.json"
@@ -90510,11 +90520,6 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
-    },
-    {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -273030,6 +273035,11 @@
       "igdb_id": 115712,
       "game_name": "Detective Conan Skateboard Run: Kaitou Kid to Shinpi no Hihou",
       "file": "missing/D/115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json"
+    },
+    {
+      "igdb_id": 49695,
+      "game_name": "Detective Conan: Akatsuki no Monument",
+      "file": "missing/D/49695-detective-conan-akatsuki-no-monument.json"
     },
     {
       "igdb_id": 79556,
@@ -561092,11 +561102,6 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
-    },
-    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -619952,6 +619957,11 @@
       "file": "missing/M/58878-magi-death-fight-mahou-gakuen.json"
     },
     {
+      "igdb_id": 49708,
+      "game_name": "Magi Nation",
+      "file": "missing/M/49708-magi-nation.json"
+    },
+    {
       "igdb_id": 33449,
       "game_name": "Magi Trials",
       "file": "missing/M/33449-magi-trials.json"
@@ -622127,6 +622137,11 @@
       "file": "missing/M/248471-magical-houshin.json"
     },
     {
+      "igdb_id": 49707,
+      "game_name": "Magical Houshin",
+      "file": "missing/M/49707-magical-houshin.json"
+    },
+    {
       "igdb_id": 48670,
       "game_name": "Magical Jewelry",
       "file": "missing/M/48670-magical-jewelry.json"
@@ -623787,6 +623802,11 @@
       "file": "missing/M/41364-mahjong-kazoku.json"
     },
     {
+      "igdb_id": 49706,
+      "game_name": "Mahjong Keiji",
+      "file": "missing/M/49706-mahjong-keiji.json"
+    },
+    {
       "igdb_id": 254452,
       "game_name": "Mahjong Kuru Jidai: AV Gal Seifukuhen",
       "file": "missing/M/254452-mahjong-kuru-jidai-av-gal-seifukuhen.json"
@@ -624822,6 +624842,11 @@
       "file": "missing/M/417607-maikuro-ore-ga-watashi-de-boku-ga-atashi-de.json"
     },
     {
+      "igdb_id": 49703,
+      "game_name": "Mail de Cute",
+      "file": "missing/M/49703-mail-de-cute.json"
+    },
+    {
       "igdb_id": 404344,
       "game_name": "Mail Mares",
       "file": "missing/M/404344-mail-mares.json"
@@ -625520,6 +625545,16 @@
       "igdb_id": 354209,
       "game_name": "Majogami",
       "file": "missing/M/354209-majogami.json"
+    },
+    {
+      "igdb_id": 49702,
+      "game_name": "Majokko Cream-Chan Gokko Series 1: Wan Nyon Idol Gakuen",
+      "file": "missing/M/49702-majokko-cream-chan-gokko-series-1-wan-nyon-idol-gakuen.json"
+    },
+    {
+      "igdb_id": 49701,
+      "game_name": "Majokko Cream-Chan Gokko Series 2: Kisekae Angel",
+      "file": "missing/M/49701-majokko-cream-chan-gokko-series-2-kisekae-angel.json"
     },
     {
       "igdb_id": 252398,
@@ -628095,6 +628130,11 @@
       "igdb_id": 261105,
       "game_name": "Manga-Ka Debut Monogatari DS: Akogare! Manga Ka Ikusei Game",
       "file": "missing/M/261105-manga-ka-debut-monogatari-ds-akogare-manga-ka-ikusei-game.json"
+    },
+    {
+      "igdb_id": 49700,
+      "game_name": "Manga-ka Debut Monogatari: Akogare! Manga Ka Ikusei Game!",
+      "file": "missing/M/49700-manga-ka-debut-monogatari-akogare-manga-ka-ikusei-game.json"
     },
     {
       "igdb_id": 222393,
@@ -637577,6 +637617,11 @@
       "file": "missing/M/283395-matadouro-grindhouse.json"
     },
     {
+      "igdb_id": 49698,
+      "game_name": "Matantei Loki Ragnarok: Gensou no Labyrinth",
+      "file": "missing/M/49698-matantei-loki-ragnarok-gensou-no-labyrinth.json"
+    },
+    {
       "igdb_id": 281254,
       "game_name": "Matar Gente Rica de Skate",
       "file": "missing/M/281254-matar-gente-rica-de-skate.json"
@@ -643995,6 +644040,16 @@
       "igdb_id": 55144,
       "game_name": "Medarot Kuwagata Version",
       "file": "missing/M/55144-medarot-kuwagata-version.json"
+    },
+    {
+      "igdb_id": 49697,
+      "game_name": "Medarot Navi: Kabuto Version",
+      "file": "missing/M/49697-medarot-navi-kabuto-version.json"
+    },
+    {
+      "igdb_id": 49696,
+      "game_name": "Medarot Navi: Kuwagata Version",
+      "file": "missing/M/49696-medarot-navi-kuwagata-version.json"
     },
     {
       "igdb_id": 92533,
@@ -668627,9 +668682,54 @@
       "file": "missing/M/165434-minna-no-radio-controlled-gp-variety-set.json"
     },
     {
+      "igdb_id": 49730,
+      "game_name": "Minna no Shiiku Series 1: Boku no Kabuto Mushi",
+      "file": "missing/M/49730-minna-no-shiiku-series-1-boku-no-kabuto-mushi.json"
+    },
+    {
+      "igdb_id": 49732,
+      "game_name": "Minna no Shiiku Series 2: Boku no Kuwagata",
+      "file": "missing/M/49732-minna-no-shiiku-series-2-boku-no-kuwagata.json"
+    },
+    {
+      "igdb_id": 49731,
+      "game_name": "Minna no Shiiku Series: Boku no Kabuto - Kuwagata",
+      "file": "missing/M/49731-minna-no-shiiku-series-boku-no-kabuto-kuwagata.json"
+    },
+    {
       "igdb_id": 282231,
       "game_name": "Minna no Shogi: Shokyuu-hen",
       "file": "missing/M/282231-minna-no-shogi-shokyuu-hen.json"
+    },
+    {
+      "igdb_id": 49729,
+      "game_name": "Minna no Soft Series: Happy Trump 20",
+      "file": "missing/M/49729-minna-no-soft-series-happy-trump-20.json"
+    },
+    {
+      "igdb_id": 49728,
+      "game_name": "Minna no Soft Series: Hyokkori Hyoutan-jima",
+      "file": "missing/M/49728-minna-no-soft-series-hyokkori-hyoutan-jima.json"
+    },
+    {
+      "igdb_id": 49727,
+      "game_name": "Minna no Soft Series: Minna no Mahjong",
+      "file": "missing/M/49727-minna-no-soft-series-minna-no-mahjong.json"
+    },
+    {
+      "igdb_id": 49726,
+      "game_name": "Minna no Soft Series: Minna no Shogi",
+      "file": "missing/M/49726-minna-no-soft-series-minna-no-shogi.json"
+    },
+    {
+      "igdb_id": 49725,
+      "game_name": "Minna no Soft Series: Shanghai",
+      "file": "missing/M/49725-minna-no-soft-series-shanghai.json"
+    },
+    {
+      "igdb_id": 49724,
+      "game_name": "Minna no Soft Series: Tetris Advance",
+      "file": "missing/M/49724-minna-no-soft-series-tetris-advance.json"
     },
     {
       "igdb_id": 121416,
@@ -669210,6 +669310,11 @@
       "igdb_id": 47526,
       "game_name": "Miracle Warriors: Seal of the Dark Lord",
       "file": "missing/M/47526-miracle-warriors-seal-of-the-dark-lord.json"
+    },
+    {
+      "igdb_id": 49723,
+      "game_name": "Miracle! Panzou: 7-tsu no Hoshi no Uchuu Kaizoku",
+      "file": "missing/M/49723-miracle-panzou-7-tsu-no-hoshi-no-uchuu-kaizoku.json"
     },
     {
       "igdb_id": 192612,
@@ -673292,6 +673397,11 @@
       "file": "missing/M/351581-mobile-police-officer-earth-gumble.json"
     },
     {
+      "igdb_id": 49722,
+      "game_name": "Mobile Pro Yakyuu: Kantoku no Saihai",
+      "file": "missing/M/49722-mobile-pro-yakyuu-kantoku-no-saihai.json"
+    },
+    {
       "igdb_id": 304098,
       "game_name": "Mobile Quest GB",
       "file": "missing/M/304098-mobile-quest-gb.json"
@@ -674787,6 +674897,11 @@
       "file": "missing/M/385559-moero-power-dodge.json"
     },
     {
+      "igdb_id": 49721,
+      "game_name": "Moero!! Jaleco Collection",
+      "file": "missing/M/49721-moero-jaleco-collection.json"
+    },
+    {
       "igdb_id": 59990,
       "game_name": "Moero!! Nettou Yakyuu '88",
       "file": "missing/M/59990-moero-nettou-yakyuu-88.json"
@@ -675937,6 +676052,11 @@
       "file": "missing/M/64419-momotaro-dentetsu-ds-tokyo-and-japan.json"
     },
     {
+      "igdb_id": 49720,
+      "game_name": "Momotaro Dentetsu G: Gold Deck wo Tsukure!",
+      "file": "missing/M/49720-momotaro-dentetsu-g-gold-deck-wo-tsukure.json"
+    },
+    {
       "igdb_id": 37923,
       "game_name": "Momotaro Dentetsu Happy",
       "file": "missing/M/37923-momotaro-dentetsu-happy.json"
@@ -676050,6 +676170,11 @@
       "igdb_id": 64421,
       "game_name": "Momotaro Douchuuki",
       "file": "missing/M/64421-momotaro-douchuuki.json"
+    },
+    {
+      "igdb_id": 49719,
+      "game_name": "Momotaro Matsuri",
+      "file": "missing/M/49719-momotaro-matsuri.json"
     },
     {
       "igdb_id": 64407,
@@ -678472,6 +678597,16 @@
       "file": "missing/M/75026-monster-garden.json"
     },
     {
+      "igdb_id": 49717,
+      "game_name": "Monster Gate",
+      "file": "missing/M/49717-monster-gate.json"
+    },
+    {
+      "igdb_id": 49718,
+      "game_name": "Monster Gate: Ooinaru Dungeon - Fuuin no Orb",
+      "file": "missing/M/49718-monster-gate-ooinaru-dungeon-fuuin-no-orb.json"
+    },
+    {
       "igdb_id": 82764,
       "game_name": "Monster Girl * Fusion",
       "file": "missing/M/82764-monster-girl-fusion.json"
@@ -678580,6 +678715,11 @@
       "igdb_id": 341331,
       "game_name": "Monster Grid",
       "file": "missing/M/341331-monster-grid.json"
+    },
+    {
+      "igdb_id": 49716,
+      "game_name": "Monster Guardians",
+      "file": "missing/M/49716-monster-guardians.json"
     },
     {
       "igdb_id": 406920,
@@ -679402,6 +679542,16 @@
       "file": "missing/M/418581-monster-maker.json"
     },
     {
+      "igdb_id": 49715,
+      "game_name": "Monster Maker 4: Flash Card",
+      "file": "missing/M/49715-monster-maker-4-flash-card.json"
+    },
+    {
+      "igdb_id": 49714,
+      "game_name": "Monster Maker 4: Killer Dice",
+      "file": "missing/M/49714-monster-maker-4-killer-dice.json"
+    },
+    {
       "igdb_id": 37922,
       "game_name": "Monster Maker III: Hikari no Majutsushi",
       "file": "missing/M/37922-monster-maker-iii-hikari-no-majutsushi.json"
@@ -680075,6 +680225,11 @@
       "igdb_id": 197677,
       "game_name": "Monster Stunts",
       "file": "missing/M/197677-monster-stunts.json"
+    },
+    {
+      "igdb_id": 49713,
+      "game_name": "Monster Summoner",
+      "file": "missing/M/49713-monster-summoner.json"
     },
     {
       "igdb_id": 80238,
@@ -683635,6 +683790,11 @@
       "igdb_id": 3543,
       "game_name": "Morita Shogi 64",
       "file": "missing/M/3543-morita-shogi-64.json"
+    },
+    {
+      "igdb_id": 49712,
+      "game_name": "Morita Shogi Advance",
+      "file": "missing/M/49712-morita-shogi-advance.json"
     },
     {
       "igdb_id": 37672,
@@ -691367,6 +691527,11 @@
       "file": "missing/M/378004-mugen-yakou.json"
     },
     {
+      "igdb_id": 49710,
+      "game_name": "Mugenborg",
+      "file": "missing/M/49710-mugenborg.json"
+    },
+    {
       "igdb_id": 200698,
       "game_name": "MugenCards",
       "file": "missing/M/200698-mugencards.json"
@@ -694810,6 +694975,11 @@
       "igdb_id": 4023,
       "game_name": "Mutsu Tonohohon",
       "file": "missing/M/4023-mutsu-tonohohon.json"
+    },
+    {
+      "igdb_id": 49709,
+      "game_name": "Mutsu: Water Looper Mutsu",
+      "file": "missing/M/49709-mutsu-water-looper-mutsu.json"
     },
     {
       "igdb_id": 384882,
@@ -711920,6 +712090,16 @@
       "igdb_id": 276087,
       "game_name": "Negima! Magister Negi Magi: Kagai Jugyou - Otome no Doki-doki Beachside",
       "file": "missing/N/276087-negima-magister-negi-magi-kagai-jugyou-otome-no-doki-doki-beachside.json"
+    },
+    {
+      "igdb_id": 49705,
+      "game_name": "Negima! Magister Negi Magi: Private Lesson - Dame Desu Toshokan",
+      "file": "missing/N/49705-negima-magister-negi-magi-private-lesson-dame-desu-toshokan.json"
+    },
+    {
+      "igdb_id": 49704,
+      "game_name": "Negima! Magister Negi Magi: Private Lesson 2 - Ojama Shimasu Parasite de Chu",
+      "file": "missing/N/49704-negima-magister-negi-magi-private-lesson-2-ojama-shimasu-parasite-de-chu.json"
     },
     {
       "igdb_id": 276088,
@@ -735292,6 +735472,11 @@
       "file": "missing/N/229663-nyan-nikki.json"
     },
     {
+      "igdb_id": 49745,
+      "game_name": "Nyan Nyan Nyanko no Nyan Collection",
+      "file": "missing/N/49745-nyan-nyan-nyanko-no-nyan-collection.json"
+    },
+    {
       "igdb_id": 306578,
       "game_name": "Nyan Nyan Parasol",
       "file": "missing/N/306578-nyan-nyan-parasol.json"
@@ -737467,6 +737652,21 @@
       "file": "missing/O/246092-ochakai-he-no-shoutaijou.json"
     },
     {
+      "igdb_id": 49744,
+      "game_name": "Ochaken Kururin: Honwaka Puzzle de Ho~ttoshiyou?",
+      "file": "missing/O/49744-ochaken-kururin-honwaka-puzzle-de-ho-ttoshiyou.json"
+    },
+    {
+      "igdb_id": 49743,
+      "game_name": "Ochaken no Bouken-jima: Honwaka Yume no Island",
+      "file": "missing/O/49743-ochaken-no-bouken-jima-honwaka-yume-no-island.json"
+    },
+    {
+      "igdb_id": 49742,
+      "game_name": "Ochaken no Heya",
+      "file": "missing/O/49742-ochaken-no-heya.json"
+    },
+    {
       "igdb_id": 123367,
       "game_name": "Ochaken no Heya DS",
       "file": "missing/O/123367-ochaken-no-heya-ds.json"
@@ -737485,6 +737685,11 @@
       "igdb_id": 123370,
       "game_name": "Ochaken no Heya DS 4",
       "file": "missing/O/123370-ochaken-no-heya-ds-4.json"
+    },
+    {
+      "igdb_id": 49741,
+      "game_name": "Ochaken no Yume Bouken",
+      "file": "missing/O/49741-ochaken-no-yume-bouken.json"
     },
     {
       "igdb_id": 78020,
@@ -740487,6 +740692,11 @@
       "file": "missing/O/332418-ohanabatake-no-flore.json"
     },
     {
+      "igdb_id": 49740,
+      "game_name": "Ohanaya-san Monogatari GBA",
+      "file": "missing/O/49740-ohanaya-san-monogatari-gba.json"
+    },
+    {
       "igdb_id": 413071,
       "game_name": "Oharion",
       "file": "missing/O/413071-oharion.json"
@@ -740832,6 +741042,11 @@
       "file": "missing/O/252061-ojanko-yakata.json"
     },
     {
+      "igdb_id": 49739,
+      "game_name": "Ojarumaru: Gekkou Machi Sanpo de Ojaru",
+      "file": "missing/O/49739-ojarumaru-gekkou-machi-sanpo-de-ojaru.json"
+    },
+    {
       "igdb_id": 285113,
       "game_name": "Oji-Mama",
       "file": "missing/O/285113-oji-mama.json"
@@ -741170,6 +741385,11 @@
       "igdb_id": 413104,
       "game_name": "Okugafuchi Shopping Arcade",
       "file": "missing/O/413104-okugafuchi-shopping-arcade.json"
+    },
+    {
+      "igdb_id": 49738,
+      "game_name": "Okuman Chouja Game: Nottori Daisakusen!",
+      "file": "missing/O/49738-okuman-chouja-game-nottori-daisakusen.json"
     },
     {
       "igdb_id": 242520,
@@ -745737,6 +745957,11 @@
       "file": "missing/O/62120-one-piece-dance-battle.json"
     },
     {
+      "igdb_id": 49737,
+      "game_name": "One Piece: Dragon Dream!",
+      "file": "missing/O/49737-one-piece-dragon-dream.json"
+    },
+    {
       "igdb_id": 294778,
       "game_name": "One Piece: Dream Pointer",
       "file": "missing/O/294778-one-piece-dream-pointer.json"
@@ -745755,6 +745980,11 @@
       "igdb_id": 47818,
       "game_name": "One Piece: Gigant Battle!",
       "file": "missing/O/47818-one-piece-gigant-battle.json"
+    },
+    {
+      "igdb_id": 49736,
+      "game_name": "One Piece: Going Baseball - Kaizoku Yakyuu",
+      "file": "missing/O/49736-one-piece-going-baseball-kaizoku-yakyuu.json"
     },
     {
       "igdb_id": 4053,
@@ -748005,6 +748235,11 @@
       "igdb_id": 78492,
       "game_name": "Onmyou Taisenki: Hasha no In",
       "file": "missing/O/78492-onmyou-taisenki-hasha-no-in.json"
+    },
+    {
+      "igdb_id": 49735,
+      "game_name": "Onmyou Taisenki: Zeroshiki",
+      "file": "missing/O/49735-onmyou-taisenki-zeroshiki.json"
     },
     {
       "igdb_id": 277944,
@@ -753130,6 +753365,11 @@
       "igdb_id": 64483,
       "game_name": "OSgrid",
       "file": "missing/O/64483-osgrid.json"
+    },
+    {
+      "igdb_id": 49734,
+      "game_name": "Oshaberi Inko Club",
+      "file": "missing/O/49734-oshaberi-inko-club.json"
     },
     {
       "igdb_id": 396441,
@@ -1091922,6 +1092162,11 @@
       "file": "missing/T/78895-the-morlov-affair.json"
     },
     {
+      "igdb_id": 49711,
+      "game_name": "The Morning Adventure",
+      "file": "missing/T/49711-the-morning-adventure.json"
+    },
+    {
       "igdb_id": 242229,
       "game_name": "The Moroccan Castle 3: Behind The Secrets",
       "file": "missing/T/242229-the-moroccan-castle-3-behind-the-secrets.json"
@@ -1092725,6 +1092970,11 @@
       "igdb_id": 47955,
       "game_name": "The Naked Brothers Band: The Video Game",
       "file": "missing/T/47955-the-naked-brothers-band-the-video-game.json"
+    },
+    {
+      "igdb_id": 408022,
+      "game_name": "The Name I Wear",
+      "file": "missing/T/408022-the-name-i-wear.json"
     },
     {
       "igdb_id": 178458,
@@ -1218740,6 +1218990,11 @@
       "igdb_id": 282222,
       "game_name": "Wheelborn",
       "file": "missing/W/282222-wheelborn.json"
+    },
+    {
+      "igdb_id": 406738,
+      "game_name": "Wheelchair for Two",
+      "file": "missing/W/406738-wheelchair-for-two.json"
     },
     {
       "igdb_id": 103157,
