@@ -2162,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jötunnslayer: Hordes of Hel - Heimdal's Bifrost Armor Pack | 403599 | [403599-jotunnslayer-hordes-of-hel-heimdals-bifrost-armor-pack.json](./403599-jotunnslayer-hordes-of-hel-heimdals-bifrost-armor-pack.json) |
 | Jötunnslayer: Hordes of Hel - Odin's Legendary Armor Pack | 403594 | [403594-jotunnslayer-hordes-of-hel-odins-legendary-armor-pack.json](./403594-jotunnslayer-hordes-of-hel-odins-legendary-armor-pack.json) |
 | Jötunnslayer: Hordes of Hel - Tyr's Mythical Armor Pack | 403595 | [403595-jotunnslayer-hordes-of-hel-tyrs-mythical-armor-pack.json](./403595-jotunnslayer-hordes-of-hel-tyrs-mythical-armor-pack.json) |
+| Joubutsu Saseko RoRoRoRoRo | 82612 | [82612-joubutsu-saseko-rororororo.json](./82612-joubutsu-saseko-rororororo.json) |
 | Jouka no Monshou | 274223 | [274223-jouka-no-monshou.json](./274223-jouka-no-monshou.json) |
 | Joulumato | 178589 | [178589-joulumato.json](./178589-joulumato.json) |
 | Joumee the Hedgehog | 75828 | [75828-joumee-the-hedgehog.json](./75828-joumee-the-hedgehog.json) |
