@@ -1891,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ElePass: Only Elephants Can Unlock the Passcode | 317855 | [317855-elepass-only-elephants-can-unlock-the-passcode.json](./317855-elepass-only-elephants-can-unlock-the-passcode.json) |
 | Elephant Express VR | 30191 | [30191-elephant-express-vr.json](./30191-elephant-express-vr.json) |
 | Elephant Hunter Hunter | 133991 | [133991-elephant-hunter-hunter.json](./133991-elephant-hunter-hunter.json) |
+| Elephant in the Room | 58003 | [58003-elephant-in-the-room.json](./58003-elephant-in-the-room.json) |
 | Elephant Preschool Playtime | 108595 | [108595-elephant-preschool-playtime.json](./108595-elephant-preschool-playtime.json) |
 | Elephant Rampage | 253250 | [253250-elephant-rampage.json](./253250-elephant-rampage.json) |
 | Elephant Rave | 276834 | [276834-elephant-rave.json](./276834-elephant-rave.json) |
