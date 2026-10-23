@@ -3119,6 +3119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Blade II | 20644 | [20644-infinity-blade-ii.json](./20644-infinity-blade-ii.json) |
 | Infinity Blade II PC | 342284 | [342284-infinity-blade-ii-pc.json](./342284-infinity-blade-ii-pc.json) |
 | Infinity Blade PC | 342045 | [342045-infinity-blade-pc.json](./342045-infinity-blade-pc.json) |
+| Infinity Blade Saga | 79077 | [79077-infinity-blade-saga.json](./79077-infinity-blade-saga.json) |
 | Infinity Blocks | 301612 | [301612-infinity-blocks.json](./301612-infinity-blocks.json) |
 | Infinity Bounce | 412398 | [412398-infinity-bounce.json](./412398-infinity-bounce.json) |
 | Infinity Castle Dungeon | 274331 | [274331-infinity-castle-dungeon.json](./274331-infinity-castle-dungeon.json) |
@@ -4278,6 +4279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaders | 346119 | [346119-invaders.json](./346119-invaders.json) |
 | Invaders | 374044 | [374044-invaders.json](./374044-invaders.json) |
 | Invaders | 380798 | [380798-invaders.json](./380798-invaders.json) |
+| Invaders | 79070 | [79070-invaders.json](./79070-invaders.json) |
 | Invaders 1978 | 72081 | [72081-invaders-1978.json](./72081-invaders-1978.json) |
 | Invaders of the Mummy's Tomb | 300011 | [300011-invaders-of-the-mummys-tomb.json](./300011-invaders-of-the-mummys-tomb.json) |
 | Invaders Revenge | 41195 | [41195-invaders-revenge.json](./41195-invaders-revenge.json) |
