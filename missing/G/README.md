@@ -2720,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Acc_E55 | 186586 | [186586-get-acc-e55.json](./186586-get-acc-e55.json) |
 | Get Achievements for Achievements | 188527 | [188527-get-achievements-for-achievements.json](./188527-get-achievements-for-achievements.json) |
 | Get Away From The Cube | 335678 | [335678-get-away-from-the-cube.json](./335678-get-away-from-the-cube.json) |
+| Get Backers Dakkanoku: Ura Shinjuku Saikyou Battle | 77125 | [77125-get-backers-dakkanoku-ura-shinjuku-saikyou-battle.json](./77125-get-backers-dakkanoku-ura-shinjuku-saikyou-battle.json) |
 | Get Bass: Sega Bass Fishing | 39462 | [39462-get-bass-sega-bass-fishing.json](./39462-get-bass-sega-bass-fishing.json) |
 | Get Baz Home | 318521 | [318521-get-baz-home.json](./318521-get-baz-home.json) |
 | Get Beneath the Surface | 177783 | [177783-get-beneath-the-surface.json](./177783-get-beneath-the-surface.json) |
@@ -2985,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost legend | 289251 | [289251-ghost-legend.json](./289251-ghost-legend.json) |
 | Ghost Light | 310020 | [310020-ghost-light.json](./310020-ghost-light.json) |
 | Ghost Manor | 79976 | [79976-ghost-manor.json](./79976-ghost-manor.json) |
+| Ghost Mansion Party | 77126 | [77126-ghost-mansion-party.json](./77126-ghost-mansion-party.json) |
 | Ghost Marine Shooter Pro | 87536 | [87536-ghost-marine-shooter-pro.json](./87536-ghost-marine-shooter-pro.json) |
 | Ghost Marriage Matchmaking | 169112 | [169112-ghost-marriage-matchmaking.json](./169112-ghost-marriage-matchmaking.json) |
 | Ghost Master | 726 | [726-ghost-master.json](./726-ghost-master.json) |
@@ -3327,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift Wrapped | 272556 | [272556-gift-wrapped.json](./272556-gift-wrapped.json) |
 | Gift-Exchange-Machine | 176240 | [176240-gift-exchange-machine.json](./176240-gift-exchange-machine.json) |
 | Gifted Island | 244727 | [244727-gifted-island.json](./244727-gifted-island.json) |
+| Giften | 77139 | [77139-giften.json](./77139-giften.json) |
 | Gifter | 183786 | [183786-gifter.json](./183786-gifter.json) |
 | Giftpia | 3931 | [3931-giftpia.json](./3931-giftpia.json) |
 | Gifts from Arthur | 202365 | [202365-gifts-from-arthur.json](./202365-gifts-from-arthur.json) |
@@ -7668,6 +7671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Control: Dark Conspiracy | 8786 | [8786-ground-control-dark-conspiracy.json](./8786-ground-control-dark-conspiracy.json) |
 | Ground Divers | 204436 | [204436-ground-divers.json](./204436-ground-divers.json) |
 | Ground Drone Operator: Ground Robotic System Simulator | 414159 | [414159-ground-drone-operator-ground-robotic-system-simulator.json](./414159-ground-drone-operator-ground-robotic-system-simulator.json) |
+| Ground Effect | 77104 | [77104-ground-effect.json](./77104-ground-effect.json) |
 | Ground Force Zero | 71550 | [71550-ground-force-zero.json](./71550-ground-force-zero.json) |
 | Ground Mine Girl | 355183 | [355183-ground-mine-girl.json](./355183-ground-mine-girl.json) |
 | Ground of Aces | 249885 | [249885-ground-of-aces.json](./249885-ground-of-aces.json) |
