@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xmas Lemmings | 213867 | [213867-xmas-lemmings.json](./213867-xmas-lemmings.json) |
 | Xmas Lemmings | 70466 | [70466-xmas-lemmings.json](./70466-xmas-lemmings.json) |
 | Xmas Presents | 393452 | [393452-xmas-presents.json](./393452-xmas-presents.json) |
+| Xmas Puzzle | 62036 | [62036-xmas-puzzle.json](./62036-xmas-puzzle.json) |
 | Xmas Shooting: Scramble!! | 26594 | [26594-xmas-shooting-scramble.json](./26594-xmas-shooting-scramble.json) |
 | Xmas Survivors | 382876 | [382876-xmas-survivors.json](./382876-xmas-survivors.json) |
 | Xmas Tripeaks | 95661 | [95661-xmas-tripeaks.json](./95661-xmas-tripeaks.json) |
