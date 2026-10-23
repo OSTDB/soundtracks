@@ -8956,6 +8956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Sweeper | 403755 | [403755-apex-sweeper.json](./403755-apex-sweeper.json) |
 | Apex Tournament | 76385 | [76385-apex-tournament.json](./76385-apex-tournament.json) |
 | Apexaris Tower | 313558 | [313558-apexaris-tower.json](./313558-apexaris-tower.json) |
+| Apez | 74150 | [74150-apez.json](./74150-apez.json) |
 | Aphasia | 422086 | [422086-aphasia.json](./422086-aphasia.json) |
 | Aphelion | 171599 | [171599-aphelion.json](./171599-aphelion.json) |
 | Aphelion | 410392 | [410392-aphelion.json](./410392-aphelion.json) |
