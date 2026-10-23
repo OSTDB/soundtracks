@@ -1704,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electro Freddy | 13631 | [13631-electro-freddy.json](./13631-electro-freddy.json) |
 | Electro Game Collection | 301366 | [301366-electro-game-collection.json](./301366-electro-game-collection.json) |
 | Electro Man | 70109 | [70109-electro-man.json](./70109-electro-man.json) |
+| Electro Pong VR | 51729 | [51729-electro-pong-vr.json](./51729-electro-pong-vr.json) |
 | Electro Racer | 67056 | [67056-electro-racer.json](./67056-electro-racer.json) |
 | Electro Rush | 39201 | [39201-electro-rush.json](./39201-electro-rush.json) |
 | Electro-Dynamic Mayhem | 324679 | [324679-electro-dynamic-mayhem.json](./324679-electro-dynamic-mayhem.json) |
@@ -4135,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Sharptooth Valley | 319159 | [319159-escape-from-sharptooth-valley.json](./319159-escape-from-sharptooth-valley.json) |
 | Escape from Sin City | 101498 | [101498-escape-from-sin-city.json](./101498-escape-from-sin-city.json) |
 | Escape from Somnium | 302507 | [302507-escape-from-somnium.json](./302507-escape-from-somnium.json) |
+| Escape From Space Shredder | 51734 | [51734-escape-from-space-shredder.json](./51734-escape-from-space-shredder.json) |
 | Escape From Spikes | 359210 | [359210-escape-from-spikes.json](./359210-escape-from-spikes.json) |
 | Escape From Sunveil Starport | 299430 | [299430-escape-from-sunveil-starport.json](./299430-escape-from-sunveil-starport.json) |
 | Escape from Tarkan | 389051 | [389051-escape-from-tarkan.json](./389051-escape-from-tarkan.json) |
@@ -6049,6 +6051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit the Shadow | 180570 | [180570-exit-the-shadow.json](./180570-exit-the-shadow.json) |
 | Exit Together | 333662 | [333662-exit-together.json](./333662-exit-together.json) |
 | Exit Veil | 264054 | [264054-exit-veil.json](./264054-exit-veil.json) |
+| Exit VR | 51713 | [51713-exit-vr.json](./51713-exit-vr.json) |
 | Exit Ways | 346652 | [346652-exit-ways.json](./346652-exit-ways.json) |
 | Exit: A Biodelic Adventure | 129020 | [129020-exit-a-biodelic-adventure.json](./129020-exit-a-biodelic-adventure.json) |
 | Exit: Echoes of Insanity | 395145 | [395145-exit-echoes-of-insanity.json](./395145-exit-echoes-of-insanity.json) |
