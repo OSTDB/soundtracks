@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Fly | 166714 | [166714-i-am-fly.json](./166714-i-am-fly.json) |
 | I am Future | 204508 | [204508-i-am-future.json](./204508-i-am-future.json) |
 | I Am Giraffe | 313176 | [313176-i-am-giraffe.json](./313176-i-am-giraffe.json) |
+| I am God of the Forestland | 82580 | [82580-i-am-god-of-the-forestland.json](./82580-i-am-god-of-the-forestland.json) |
 | I Am Hamster: Simulator | 407583 | [407583-i-am-hamster-simulator.json](./407583-i-am-hamster-simulator.json) |
 | I Am Here, I Won't Disappear. I Am Here, I Won't... | 329547 | [329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json](./329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json) |
 | I Am Human! | 161173 | [161173-i-am-human.json](./161173-i-am-human.json) |
@@ -4212,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intrigue Inc.: Raven's Flight | 311751 | [311751-intrigue-inc-ravens-flight.json](./311751-intrigue-inc-ravens-flight.json) |
 | Intrigue! | 26452 | [26452-intrigue.json](./26452-intrigue.json) |
 | Intro Fighters | 186161 | [186161-intro-fighters.json](./186161-intro-fighters.json) |
+| Introducing An Apprentice Incubus | 82640 | [82640-introducing-an-apprentice-incubus.json](./82640-introducing-an-apprentice-incubus.json) |
 | Introspection | 176376 | [176376-introspection.json](./176376-introspection.json) |
 | Introspection | 295884 | [295884-introspection.json](./295884-introspection.json) |
 | Introspectus | 398353 | [398353-introspectus.json](./398353-introspectus.json) |
