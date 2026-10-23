@@ -2119,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasty Static | 216166 | [216166-tasty-static.json](./216166-tasty-static.json) |
 | Tasty Tadpoles | 175100 | [175100-tasty-tadpoles.json](./175100-tasty-tadpoles.json) |
 | Tasty Town | 114793 | [114793-tasty-town.json](./114793-tasty-town.json) |
+| Tasty Treats - A Match 3 Game | 98856 | [98856-tasty-treats-a-match-3-game.json](./98856-tasty-treats-a-match-3-game.json) |
 | Tasty Words - Free Word Games | 105973 | [105973-tasty-words-free-word-games.json](./105973-tasty-words-free-word-games.json) |
 | TastyPlanet Back for SecondsHD | 88644 | [88644-tastyplanet-back-for-secondshd.json](./88644-tastyplanet-back-for-secondshd.json) |
 | Tasu Bowl | 349101 | [349101-tasu-bowl.json](./349101-tasu-bowl.json) |
@@ -10603,6 +10604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magical Land of Canada | 240711 | [240711-the-magical-land-of-canada.json](./240711-the-magical-land-of-canada.json) |
 | The Magical Mixture Mill | 226596 | [226596-the-magical-mixture-mill.json](./226596-the-magical-mixture-mill.json) |
 | The Magical Quest of Molly the Marble | 403802 | [403802-the-magical-quest-of-molly-the-marble.json](./403802-the-magical-quest-of-molly-the-marble.json) |
+| The Magical Realms of Tír na Nóg: Escape from Necron 7 - Revenge of Cuchulainn: The Official Game of the Movie – Chapter 2 of the Hoopz Barkley SaGa | 98853 | [98853-the-magical-realms-of-tir-na-nog-escape-from-necron-7-revenge-of-cuchulainn-the-official-game-of-the-movie-chapter-2-of-the-hoopz-barkley-saga.json](./98853-the-magical-realms-of-tir-na-nog-escape-from-necron-7-revenge-of-cuchulainn-the-official-game-of-the-movie-chapter-2-of-the-hoopz-barkley-saga.json) |
 | The Magical Unicorn | 145611 | [145611-the-magical-unicorn.json](./145611-the-magical-unicorn.json) |
 | The Magician Of Justice | 289986 | [289986-the-magician-of-justice.json](./289986-the-magician-of-justice.json) |
 | The Magician VR: The Cursed Wand | 406169 | [406169-the-magician-vr-the-cursed-wand.json](./406169-the-magician-vr-the-cursed-wand.json) |
@@ -21746,6 +21748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toyota Celica GT Rally | 69772 | [69772-toyota-celica-gt-rally.json](./69772-toyota-celica-gt-rally.json) |
 | Toypunk | 403575 | [403575-toypunk.json](./403575-toypunk.json) |
 | Toys & Physics | 153314 | [153314-toys-and-physics.json](./153314-toys-and-physics.json) |
+| Toys and Me: Bubble Pop | 98845 | [98845-toys-and-me-bubble-pop.json](./98845-toys-and-me-bubble-pop.json) |
 | Toys Cracker | 310081 | [310081-toys-cracker.json](./310081-toys-cracker.json) |
 | Toys Dream | 82822 | [82822-toys-dream.json](./82822-toys-dream.json) |
 | Toys Gun Fire Boom | 55467 | [55467-toys-gun-fire-boom.json](./55467-toys-gun-fire-boom.json) |
@@ -24952,6 +24955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator & World of Machines: Game Bundle Collection | 263562 | [263562-truck-simulator-and-world-of-machines-game-bundle-collection.json](./263562-truck-simulator-and-world-of-machines-game-bundle-collection.json) |
 | Truck Simulator 2 | 159016 | [159016-truck-simulator-2.json](./159016-truck-simulator-2.json) |
 | Truck Simulator 2014 | 90774 | [90774-truck-simulator-2014.json](./90774-truck-simulator-2014.json) |
+| Truck Simulator 2016 - North America Cargo Routes | 98836 | [98836-truck-simulator-2016-north-america-cargo-routes.json](./98836-truck-simulator-2016-north-america-cargo-routes.json) |
 | Truck Simulator 2023: Driver Europe - Premium Edition | 328806 | [328806-truck-simulator-2023-driver-europe-premium-edition.json](./328806-truck-simulator-2023-driver-europe-premium-edition.json) |
 | Truck Simulator 2024: USA Driver Zone | 283220 | [283220-truck-simulator-2024-usa-driver-zone.json](./283220-truck-simulator-2024-usa-driver-zone.json) |
 | Truck Simulator 2024: USA Driver Zone - Premium Edition | 313229 | [313229-truck-simulator-2024-usa-driver-zone-premium-edition.json](./313229-truck-simulator-2024-usa-driver-zone-premium-edition.json) |
