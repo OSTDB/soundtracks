@@ -6211,6 +6211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Crème Collect Whip | 376875 | [376875-chou-creme-collect-whip.json](./376875-chou-creme-collect-whip.json) |
 | Chou Dengeki Stryker | 23436 | [23436-chou-dengeki-stryker.json](./23436-chou-dengeki-stryker.json) |
 | Chou Ga Shin Zangard | 246106 | [246106-chou-ga-shin-zangard.json](./246106-chou-ga-shin-zangard.json) |
+| Chou Gekijouban Keroro Gunsou: Enshuu Da yo! Zenin Shuugou | 61417 | [61417-chou-gekijouban-keroro-gunsou-enshuu-da-yo-zenin-shuugou.json](./61417-chou-gekijouban-keroro-gunsou-enshuu-da-yo-zenin-shuugou.json) |
 | Chou Gekijouban Keroro Gunsou: Gekishin Dragon Warriors de Arimasu! | 69199 | [69199-chou-gekijouban-keroro-gunsou-gekishin-dragon-warriors-de-arimasu.json](./69199-chou-gekijouban-keroro-gunsou-gekishin-dragon-warriors-de-arimasu.json) |
 | Chou Hakai Keikaku kara no Dasshutsu | 222224 | [222224-chou-hakai-keikaku-kara-no-dasshutsu.json](./222224-chou-hakai-keikaku-kara-no-dasshutsu.json) |
 | Chou Hatsumei Boy Kani Pan: Bousou Roboto no Nazo!? | 97335 | [97335-chou-hatsumei-boy-kani-pan-bousou-roboto-no-nazo.json](./97335-chou-hatsumei-boy-kani-pan-bousou-roboto-no-nazo.json) |
@@ -12968,6 +12969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Shin-Chan Shokkugan! Densetsu o Yobu Omake Daiketsusen!! | 269681 | [269681-crayon-shin-chan-shokkugan-densetsu-o-yobu-omake-daiketsusen.json](./269681-crayon-shin-chan-shokkugan-densetsu-o-yobu-omake-daiketsusen.json) |
 | Crayon Shin-chan: Arashi wo Yobu Cinema-Land - Kachinko Gachinko Daikatsugeki! | 136939 | [136939-crayon-shin-chan-arashi-wo-yobu-cinema-land-kachinko-gachinko-daikatsugeki.json](./136939-crayon-shin-chan-arashi-wo-yobu-cinema-land-kachinko-gachinko-daikatsugeki.json) |
 | Crayon Shin-chan: Arashi wo Yobu Enji | 65377 | [65377-crayon-shin-chan-arashi-wo-yobu-enji.json](./65377-crayon-shin-chan-arashi-wo-yobu-enji.json) |
+| Crayon Shin-chan: Arashi wo Yobu Kasukabe Eiga Stars! | 61415 | [61415-crayon-shin-chan-arashi-wo-yobu-kasukabe-eiga-stars.json](./61415-crayon-shin-chan-arashi-wo-yobu-kasukabe-eiga-stars.json) |
 | Crayon Shin-chan: Arashi wo Yobu Nendororoon Daihenshin! | 20476 | [20476-crayon-shin-chan-arashi-wo-yobu-nendororoon-daihenshin.json](./20476-crayon-shin-chan-arashi-wo-yobu-nendororoon-daihenshin.json) |
 | Crayon Shin-Chan: Gekiatsu! Oden World Daikonran!! | 68452 | [68452-crayon-shin-chan-gekiatsu-oden-world-daikonran.json](./68452-crayon-shin-chan-gekiatsu-oden-world-daikonran.json) |
 | Crayon Shin-chan: Guu Choki Panic | 346024 | [346024-crayon-shin-chan-guu-choki-panic.json](./346024-crayon-shin-chan-guu-choki-panic.json) |
@@ -14450,6 +14452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader: No Remorse | 207101 | [207101-crusader-no-remorse.json](./207101-crusader-no-remorse.json) |
 | Crusader: No Remorse | 7840 | [7840-crusader-no-remorse.json](./7840-crusader-no-remorse.json) |
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
+| Crusaders of Solaria | 61380 | [61380-crusaders-of-solaria.json](./61380-crusaders-of-solaria.json) |
 | Crusaders Quest: Hero Town | 397208 | [397208-crusaders-quest-hero-town.json](./397208-crusaders-quest-hero-town.json) |
 | Crusaders Quest: Merge Chess | 373889 | [373889-crusaders-quest-merge-chess.json](./373889-crusaders-quest-merge-chess.json) |
 | Crusaders: Thy Kingdom Come | 2011 | [2011-crusaders-thy-kingdom-come.json](./2011-crusaders-thy-kingdom-come.json) |
@@ -15335,6 +15338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cultivator | 383561 | [383561-cultivator.json](./383561-cultivator.json) |
 | Cultivator Legacy | 199987 | [199987-cultivator-legacy.json](./199987-cultivator-legacy.json) |
 | Culto a los dioses | 228428 | [228428-culto-a-los-dioses.json](./228428-culto-a-los-dioses.json) |
+| Cultris II | 61485 | [61485-cultris-ii.json](./61485-cultris-ii.json) |
 | Cults and Daggers | 36160 | [36160-cults-and-daggers.json](./36160-cults-and-daggers.json) |
 | Cults of the Endtimes | 389742 | [389742-cults-of-the-endtimes.json](./389742-cults-of-the-endtimes.json) |
 | Cultural Delights | 348594 | [348594-cultural-delights.json](./348594-cultural-delights.json) |
