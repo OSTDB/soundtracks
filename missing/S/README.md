@@ -9188,6 +9188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sit on bottle | 81966 | [81966-sit-on-bottle.json](./81966-sit-on-bottle.json) |
 | Sit-Ups Workout | 187466 | [187466-sit-ups-workout.json](./187466-sit-ups-workout.json) |
 | Site Z-374 | 308271 | [308271-site-z-374.json](./308271-site-z-374.json) |
+| Sítio do Pica-Pau Amarelo | 81031 | [81031-sitio-do-pica-pau-amarelo.json](./81031-sitio-do-pica-pau-amarelo.json) |
 | Sitnalta | 268762 | [268762-sitnalta.json](./268762-sitnalta.json) |
 | Sito Pons 500cc Grand Prix | 70321 | [70321-sito-pons-500cc-grand-prix.json](./70321-sito-pons-500cc-grand-prix.json) |
 | Sitri: Shadow Walk | 225092 | [225092-sitri-shadow-walk.json](./225092-sitri-shadow-walk.json) |
@@ -10059,6 +10060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyLeap | 262809 | [262809-skyleap.json](./262809-skyleap.json) |
 | SkyLife: VoxelSurvival | 149050 | [149050-skylife-voxelsurvival.json](./149050-skylife-voxelsurvival.json) |
 | Skylight | 64096 | [64096-skylight.json](./64096-skylight.json) |
+| Skylight | 81019 | [81019-skylight.json](./81019-skylight.json) |
 | Skylight | 83929 | [83929-skylight.json](./83929-skylight.json) |
 | Skylight Freerange | 99506 | [99506-skylight-freerange.json](./99506-skylight-freerange.json) |
 | Skylight Freerange 2: Gachduine | 99522 | [99522-skylight-freerange-2-gachduine.json](./99522-skylight-freerange-2-gachduine.json) |
@@ -11569,6 +11571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Byte | 18507 | [18507-snake-byte.json](./18507-snake-byte.json) |
 | Snake Challenge | 268021 | [268021-snake-challenge.json](./268021-snake-challenge.json) |
 | Snake Charmer | 359366 | [359366-snake-charmer.json](./359366-snake-charmer.json) |
+| Snake Charmer - TPS Snek | 81038 | [81038-snake-charmer-tps-snek.json](./81038-snake-charmer-tps-snek.json) |
 | Snake Classic 3D Reborn | 384323 | [384323-snake-classic-3d-reborn.json](./384323-snake-classic-3d-reborn.json) |
 | Snake Colors: Slithering Game | 285336 | [285336-snake-colors-slithering-game.json](./285336-snake-colors-slithering-game.json) |
 | Snake Core | 132783 | [132783-snake-core.json](./132783-snake-core.json) |
@@ -11728,6 +11731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnappleNoid | 61601 | [61601-snapplenoid.json](./61601-snapplenoid.json) |
 | Snappy Chicks: Flappy Friends | 251118 | [251118-snappy-chicks-flappy-friends.json](./251118-snappy-chicks-flappy-friends.json) |
 | Snappy Elf | 261516 | [261516-snappy-elf.json](./261516-snappy-elf.json) |
+| Snappy Turtle Ultimate | 81042 | [81042-snappy-turtle-ultimate.json](./81042-snappy-turtle-ultimate.json) |
 | Snaps | 310029 | [310029-snaps.json](./310029-snaps.json) |
 | Snapshot | 159776 | [159776-snapshot.json](./159776-snapshot.json) |
 | Snapshot | 406915 | [406915-snapshot.json](./406915-snapshot.json) |
@@ -15666,6 +15670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Scum | 351056 | [351056-space-scum.json](./351056-space-scum.json) |
 | Space Sergeants | 143941 | [143941-space-sergeants.json](./143941-space-sergeants.json) |
 | Space Shadow | 178988 | [178988-space-shadow.json](./178988-space-shadow.json) |
+| Space Shaft | 81026 | [81026-space-shaft.json](./81026-space-shaft.json) |
 | Space Shapes | 126567 | [126567-space-shapes.json](./126567-space-shapes.json) |
 | Space Shark Wrangle Fest | 245843 | [245843-space-shark-wrangle-fest.json](./245843-space-shark-wrangle-fest.json) |
 | Space Shells | 204100 | [204100-space-shells.json](./204100-space-shells.json) |
@@ -16031,6 +16036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceVenture | 63497 | [63497-spaceventure.json](./63497-spaceventure.json) |
 | SpaceVibes | 129120 | [129120-spacevibes.json](./129120-spacevibes.json) |
 | Spacewalk Defender | 133664 | [133664-spacewalk-defender.json](./133664-spacewalk-defender.json) |
+| SpaceWalker | 81065 | [81065-spacewalker.json](./81065-spacewalker.json) |
 | Spacewar | 181938 | [181938-spacewar.json](./181938-spacewar.json) |
 | SpacewAR Uprising | 101415 | [101415-spacewar-uprising.json](./101415-spacewar-uprising.json) |
 | Spaceward Ho! | 47296 | [47296-spaceward-ho.json](./47296-spaceward-ho.json) |
@@ -27398,6 +27404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwayBods: Physics Puzzle Game | 292423 | [292423-swaybods-physics-puzzle-game.json](./292423-swaybods-physics-puzzle-game.json) |
 | Swaying Girl | 159875 | [159875-swaying-girl.json](./159875-swaying-girl.json) |
 | Swear to God | 185344 | [185344-swear-to-god.json](./185344-swear-to-god.json) |
+| Sweater? Ok! 2 | 81022 | [81022-sweater-ok-2.json](./81022-sweater-ok-2.json) |
 | Sweater? Ok!: The Dilogy | 127370 | [127370-sweater-ok-the-dilogy.json](./127370-sweater-ok-the-dilogy.json) |
 | SweatShop | 32204 | [32204-sweatshop.json](./32204-sweatshop.json) |
 | Sweatshop HD | 15448 | [15448-sweatshop-hd.json](./15448-sweatshop-hd.json) |
