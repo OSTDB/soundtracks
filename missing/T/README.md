@@ -1569,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Mechanic Simulator: Shermans DLC | 387695 | [387695-tank-mechanic-simulator-shermans-dlc.json](./387695-tank-mechanic-simulator-shermans-dlc.json) |
 | Tank Nova | 119790 | [119790-tank-nova.json](./119790-tank-nova.json) |
 | Tank Odyssey | 414550 | [414550-tank-odyssey.json](./414550-tank-odyssey.json) |
+| Tank of War-VR | 81051 | [81051-tank-of-war-vr.json](./81051-tank-of-war-vr.json) |
 | Tank Off | 137554 | [137554-tank-off.json](./137554-tank-off.json) |
 | Tank on Tank Digital: Bundle West - East Front | 53720 | [53720-tank-on-tank-digital-bundle-west-east-front.json](./53720-tank-on-tank-digital-bundle-west-east-front.json) |
 | Tank Online: War Shooting Simulator | 240094 | [240094-tank-online-war-shooting-simulator.json](./240094-tank-online-war-shooting-simulator.json) |
@@ -20232,6 +20233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toontown: Event Horizon | 377940 | [377940-toontown-event-horizon.json](./377940-toontown-event-horizon.json) |
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
 | Toot's Race | 108593 | [108593-toots-race.json](./108593-toots-race.json) |
+| Tooth and Claw | 81057 | [81057-tooth-and-claw.json](./81057-tooth-and-claw.json) |
 | Tooth and Tail | 12519 | [12519-tooth-and-tail.json](./12519-tooth-and-tail.json) |
 | Tooth Fairy Horse | 250454 | [250454-tooth-fairy-horse.json](./250454-tooth-fairy-horse.json) |
 | Tooth Protectors | 11236 | [11236-tooth-protectors.json](./11236-tooth-protectors.json) |
@@ -24398,6 +24400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trickier Wii | 394343 | [394343-trickier-wii.json](./394343-trickier-wii.json) |
 | Tricking 0 | 195187 | [195187-tricking-0.json](./195187-tricking-0.json) |
 | Trickle Greenweed | 291030 | [291030-trickle-greenweed.json](./291030-trickle-greenweed.json) |
+| Tricks and Treats | 81048 | [81048-tricks-and-treats.json](./81048-tricks-and-treats.json) |
 | Tricks N Treats | 140922 | [140922-tricks-n-treats.json](./140922-tricks-n-treats.json) |
 | Tricks of Light in the Forest | 312873 | [312873-tricks-of-light-in-the-forest.json](./312873-tricks-of-light-in-the-forest.json) |
 | Trickshot | 206667 | [206667-trickshot.json](./206667-trickshot.json) |
