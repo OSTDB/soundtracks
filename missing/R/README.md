@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.B.I. Baseball 19 | 115205 | [115205-r-b-i-baseball-19.json](./115205-r-b-i-baseball-19.json) |
 | R.B.I. Baseball 2 | 48090 | [48090-r-b-i-baseball-2.json](./48090-r-b-i-baseball-2.json) |
 | R.B.I. Baseball 20 | 126188 | [126188-r-b-i-baseball-20.json](./126188-r-b-i-baseball-20.json) |
+| R.B.I. Baseball 3 | 93414 | [93414-r-b-i-baseball-3.json](./93414-r-b-i-baseball-3.json) |
 | R.B.I. Baseball 4 | 46264 | [46264-r-b-i-baseball-4.json](./46264-r-b-i-baseball-4.json) |
 | R.C. Bot Inc. | 33097 | [33097-r-c-bot-inc.json](./33097-r-c-bot-inc.json) |
 | R.E.A.C.T | 195595 | [195595-r-e-a-c-t.json](./195595-r-e-a-c-t.json) |
@@ -2314,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Horse 3D | 216152 | [216152-real-horse-3d.json](./216152-real-horse-3d.json) |
 | Real Life Day: Threesome | 313508 | [313508-real-life-day-threesome.json](./313508-real-life-day-threesome.json) |
 | Real Life Simulator | 407365 | [407365-real-life-simulator.json](./407365-real-life-simulator.json) |
+| Real Lives | 93439 | [93439-real-lives.json](./93439-real-lives.json) |
 | Real Madrid Club Football | 141135 | [141135-real-madrid-club-football.json](./141135-real-madrid-club-football.json) |
 | Real Madrid Club Football 2005 | 267898 | [267898-real-madrid-club-football-2005.json](./267898-real-madrid-club-football-2005.json) |
 | Real Mahjong Adventure Umi he: Summer Waltz | 293150 | [293150-real-mahjong-adventure-umi-he-summer-waltz.json](./293150-real-mahjong-adventure-umi-he-summer-waltz.json) |
