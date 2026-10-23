@@ -10203,6 +10203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commands & Colors: Ancients | 105485 | [105485-commands-and-colors-ancients.json](./105485-commands-and-colors-ancients.json) |
 | Commands & Colors: The Great War | 33342 | [33342-commands-and-colors-the-great-war.json](./33342-commands-and-colors-the-great-war.json) |
 | CommanDSKeen | 298943 | [298943-commandskeen.json](./298943-commandskeen.json) |
+| Commbat | 56340 | [56340-commbat.json](./56340-commbat.json) |
 | Comme Tu Veux | 327181 | [327181-comme-tu-veux.json](./327181-comme-tu-veux.json) |
 | Commie Block | 390246 | [390246-commie-block.json](./390246-commie-block.json) |
 | Commie Killer 2069 | 150745 | [150745-commie-killer-2069.json](./150745-commie-killer-2069.json) |
@@ -11263,6 +11264,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Live | 226690 | [226690-cooking-live.json](./226690-cooking-live.json) |
 | Cooking Mama 4: Kitchen Magic | 11359 | [11359-cooking-mama-4-kitchen-magic.json](./11359-cooking-mama-4-kitchen-magic.json) |
 | Cooking Mama Seasons | 290280 | [290280-cooking-mama-seasons.json](./290280-cooking-mama-seasons.json) |
+| Cooking Mama World: Combo Pack Volume 1 | 56335 | [56335-cooking-mama-world-combo-pack-volume-1.json](./56335-cooking-mama-world-combo-pack-volume-1.json) |
+| Cooking Mama World: Combo Pack Volume 2 | 56332 | [56332-cooking-mama-world-combo-pack-volume-2.json](./56332-cooking-mama-world-combo-pack-volume-2.json) |
 | Cooking Mama World: Hobbies & Fun | 47957 | [47957-cooking-mama-world-hobbies-and-fun.json](./47957-cooking-mama-world-hobbies-and-fun.json) |
 | Cooking Mama: Let's Cook! | 88776 | [88776-cooking-mama-lets-cook.json](./88776-cooking-mama-lets-cook.json) |
 | Cooking Mama: Mama Kills Animals | 18449 | [18449-cooking-mama-mama-kills-animals.json](./18449-cooking-mama-mama-kills-animals.json) |
@@ -12997,6 +13000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Shin-Chan: Ora to Poi Poi | 48533 | [48533-crayon-shin-chan-ora-to-poi-poi.json](./48533-crayon-shin-chan-ora-to-poi-poi.json) |
 | Crayon Shin-Chan: Ora to Wanpaku Gokko dazo | 63314 | [63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json](./63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json) |
 | Crayon Shin-chan: Puzzle Daimaou no Nazo | 172768 | [172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json](./172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json) |
+| Crayon Shin-Chan: Uchuu de Achoo!? Yuujou no Oba-Karate!! | 56242 | [56242-crayon-shin-chan-uchuu-de-achoo-yuujou-no-oba-karate.json](./56242-crayon-shin-chan-uchuu-de-achoo-yuujou-no-oba-karate.json) |
 | Crayon Shinchan My Sugoroku Great Strategy | 390523 | [390523-crayon-shinchan-my-sugoroku-great-strategy.json](./390523-crayon-shinchan-my-sugoroku-great-strategy.json) |
 | Crayon Story: Thumbelina | 414884 | [414884-crayon-story-thumbelina.json](./414884-crayon-story-thumbelina.json) |
 | CrayonCore | 324990 | [324990-crayoncore.json](./324990-crayoncore.json) |
@@ -15406,6 +15410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cunsus Kart | 143003 | [143003-cunsus-kart.json](./143003-cunsus-kart.json) |
 | Cunt Wars | 140570 | [140570-cunt-wars.json](./140570-cunt-wars.json) |
 | Cup and Counter: Coffee Shop Simulator | 392774 | [392774-cup-and-counter-coffee-shop-simulator.json](./392774-cup-and-counter-coffee-shop-simulator.json) |
+| Cup Critters | 56250 | [56250-cup-critters.json](./56250-cup-critters.json) |
 | Cup Football | 13537 | [13537-cup-football.json](./13537-cup-football.json) |
 | Cup Hand Adventure | 319295 | [319295-cup-hand-adventure.json](./319295-cup-hand-adventure.json) |
 | Cup Hand and Head Adventures | 319294 | [319294-cup-hand-and-head-adventures.json](./319294-cup-hand-and-head-adventures.json) |
@@ -15596,6 +15601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Caves | 89663 | [89663-cursed-caves.json](./89663-cursed-caves.json) |
 | Cursed Ciddy | 414620 | [414620-cursed-ciddy.json](./414620-cursed-ciddy.json) |
 | Cursed Clouds 64 | 415299 | [415299-cursed-clouds-64.json](./415299-cursed-clouds-64.json) |
+| Cursed Coins | 56247 | [56247-cursed-coins.json](./56247-cursed-coins.json) |
 | Cursed Colors | 214962 | [214962-cursed-colors.json](./214962-cursed-colors.json) |
 | Cursed Conundrum | 320910 | [320910-cursed-conundrum.json](./320910-cursed-conundrum.json) |
 | Cursed Core | 398045 | [398045-cursed-core.json](./398045-cursed-core.json) |
