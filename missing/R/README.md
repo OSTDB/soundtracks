@@ -7374,6 +7374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band Unplugged | 2721 | [2721-rock-band-unplugged.json](./2721-rock-band-unplugged.json) |
 | Rock Band VR | 26988 | [26988-rock-band-vr.json](./26988-rock-band-vr.json) |
 | Rock Band: Metal Track Pack | 67778 | [67778-rock-band-metal-track-pack.json](./67778-rock-band-metal-track-pack.json) |
+| Rock Blast | 47778 | [47778-rock-blast.json](./47778-rock-blast.json) |
 | Rock Boshers DX | 22112 | [22112-rock-boshers-dx.json](./22112-rock-boshers-dx.json) |
 | Rock Boshers DX: Director's Cut | 23224 | [23224-rock-boshers-dx-directors-cut.json](./23224-rock-boshers-dx-directors-cut.json) |
 | Rock Boshers DX: Ultra Bundle | 119082 | [119082-rock-boshers-dx-ultra-bundle.json](./119082-rock-boshers-dx-ultra-bundle.json) |
