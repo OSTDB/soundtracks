@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth no Kanata | 6835 | [6835-labyrinth-no-kanata.json](./6835-labyrinth-no-kanata.json) |
 | Labyrinth of Aetheria | 403615 | [403615-labyrinth-of-aetheria.json](./403615-labyrinth-of-aetheria.json) |
 | Labyrinth of Anxiety | 413128 | [413128-labyrinth-of-anxiety.json](./413128-labyrinth-of-anxiety.json) |
+| Labyrinth of AO | 84054 | [84054-labyrinth-of-ao.json](./84054-labyrinth-of-ao.json) |
 | Labyrinth of Axarith | 244697 | [244697-labyrinth-of-axarith.json](./244697-labyrinth-of-axarith.json) |
 | Labyrinth of death | 191177 | [191177-labyrinth-of-death.json](./191177-labyrinth-of-death.json) |
 | Labyrinth of Eclipse | 314301 | [314301-labyrinth-of-eclipse.json](./314301-labyrinth-of-eclipse.json) |
@@ -3865,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightning Returns: Final Fantasy XIII - Steelbook Edition | 41838 | [41838-lightning-returns-final-fantasy-xiii-steelbook-edition.json](./41838-lightning-returns-final-fantasy-xiii-steelbook-edition.json) |
 | Lightning Returns: Final Fantasy XIII - Target Steelbook Edition | 41837 | [41837-lightning-returns-final-fantasy-xiii-target-steelbook-edition.json](./41837-lightning-returns-final-fantasy-xiii-target-steelbook-edition.json) |
 | Lightning Swords | 46757 | [46757-lightning-swords.json](./46757-lightning-swords.json) |
+| Lightning War | 84051 | [84051-lightning-war.json](./84051-lightning-war.json) |
 | Lightning Wings II | 123482 | [123482-lightning-wings-ii.json](./123482-lightning-wings-ii.json) |
 | Lightning: D-Day | 47984 | [47984-lightning-d-day.json](./47984-lightning-d-day.json) |
 | Lightomania | 120265 | [120265-lightomania.json](./120265-lightomania.json) |
@@ -6673,6 +6675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotion Samurai | 161400 | [161400-lotion-samurai.json](./161400-lotion-samurai.json) |
 | Lotion Samurai for Nintendo Switch | 249785 | [249785-lotion-samurai-for-nintendo-switch.json](./249785-lotion-samurai-for-nintendo-switch.json) |
 | LotR: Realms in Exile | 277527 | [277527-lotr-realms-in-exile.json](./277527-lotr-realms-in-exile.json) |
+| Lots of Balls | 84015 | [84015-lots-of-balls.json](./84015-lots-of-balls.json) |
 | Lots of Bugs | 405064 | [405064-lots-of-bugs.json](./405064-lots-of-bugs.json) |
 | Lots of Cats in Every Moment | 310691 | [310691-lots-of-cats-in-every-moment.json](./310691-lots-of-cats-in-every-moment.json) |
 | Lots of Cats in Every Moment: The Whereabouts of the Photo | 310693 | [310693-lots-of-cats-in-every-moment-the-whereabouts-of-the-photo.json](./310693-lots-of-cats-in-every-moment-the-whereabouts-of-the-photo.json) |
