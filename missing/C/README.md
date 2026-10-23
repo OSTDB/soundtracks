@@ -1359,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsize | 122403 | [122403-capsize.json](./122403-capsize.json) |
 | Capsized | 3050 | [3050-capsized.json](./3050-capsized.json) |
 | Capslock | 300425 | [300425-capslock.json](./300425-capslock.json) |
+| Capsular | 81055 | [81055-capsular.json](./81055-capsular.json) |
 | Capsule | 120064 | [120064-capsule.json](./120064-capsule.json) |
 | Capsule | 167907 | [167907-capsule.json](./167907-capsule.json) |
 | Capsule | 17487 | [17487-capsule.json](./17487-capsule.json) |
@@ -2128,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnage Heart EZ: Easy Zapping | 66184 | [66184-carnage-heart-ez-easy-zapping.json](./66184-carnage-heart-ez-easy-zapping.json) |
 | Carnage Heart Portable | 66189 | [66189-carnage-heart-portable.json](./66189-carnage-heart-portable.json) |
 | Carnage in Space: Crucible | 201573 | [201573-carnage-in-space-crucible.json](./201573-carnage-in-space-crucible.json) |
+| Carnage in Space: Ignition | 81030 | [81030-carnage-in-space-ignition.json](./81030-carnage-in-space-ignition.json) |
 | Carnage Kart X | 318977 | [318977-carnage-kart-x.json](./318977-carnage-kart-x.json) |
 | Carnage Offering | 189964 | [189964-carnage-offering.json](./189964-carnage-offering.json) |
 | Carnage Offering Tower Defense | 238529 | [238529-carnage-offering-tower-defense.json](./238529-carnage-offering-tower-defense.json) |
@@ -8201,6 +8203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clonk Planet | 70474 | [70474-clonk-planet.json](./70474-clonk-planet.json) |
 | Clonk Rage | 26429 | [26429-clonk-rage.json](./26429-clonk-rage.json) |
 | Clorox: Sparkling Sudoku | 263433 | [263433-clorox-sparkling-sudoku.json](./263433-clorox-sparkling-sudoku.json) |
+| Close Call Extreme | 81003 | [81003-close-call-extreme.json](./81003-close-call-extreme.json) |
 | Close Castles | 61157 | [61157-close-castles.json](./61157-close-castles.json) |
 | Close Cities | 288337 | [288337-close-cities.json](./288337-close-cities.json) |
 | Close Combat | 637 | [637-close-combat.json](./637-close-combat.json) |
@@ -12137,6 +12140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoupButat | 242568 | [242568-coupbutat.json](./242568-coupbutat.json) |
 | Couple in Trouble | 138061 | [138061-couple-in-trouble.json](./138061-couple-in-trouble.json) |
 | Couple Life 3D | 224066 | [224066-couple-life-3d.json](./224066-couple-life-3d.json) |
+| Couple quest | 81032 | [81032-couple-quest.json](./81032-couple-quest.json) |
 | Couple-Cultivation Saves the World | 324669 | [324669-couple-cultivation-saves-the-world.json](./324669-couple-cultivation-saves-the-world.json) |
 | Couples | 271690 | [271690-couples.json](./271690-couples.json) |
 | Coupling | 357425 | [357425-coupling.json](./357425-coupling.json) |
