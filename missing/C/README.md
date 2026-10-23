@@ -5423,6 +5423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chewbrick | 99147 | [99147-chewbrick.json](./99147-chewbrick.json) |
 | Chewing | 113741 | [113741-chewing.json](./113741-chewing.json) |
 | Chewing Gum Tests | 221685 | [221685-chewing-gum-tests.json](./221685-chewing-gum-tests.json) |
+| Chewy: Escape from F5 | 47034 | [47034-chewy-escape-from-f5.json](./47034-chewy-escape-from-f5.json) |
 | Chex | 232978 | [232978-chex.json](./232978-chex.json) |
 | Chex Quest | 8192 | [8192-chex-quest.json](./8192-chex-quest.json) |
 | Chex Quest 2: Flemoids Take Chextropolis | 8718 | [8718-chex-quest-2-flemoids-take-chextropolis.json](./8718-chex-quest-2-flemoids-take-chextropolis.json) |
@@ -9898,6 +9899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Medic | 249910 | [249910-combat-medic.json](./249910-combat-medic.json) |
 | Combat Medic: Special Ops | 70041 | [70041-combat-medic-special-ops.json](./70041-combat-medic-special-ops.json) |
 | Combat Mission 2 | 645 | [645-combat-mission-2.json](./645-combat-mission-2.json) |
+| Combat Mission 3: Afrika Korps | 47038 | [47038-combat-mission-3-afrika-korps.json](./47038-combat-mission-3-afrika-korps.json) |
 | Combat Mission Afghanistan | 52518 | [52518-combat-mission-afghanistan.json](./52518-combat-mission-afghanistan.json) |
 | Combat Mission Anthology | 78011 | [78011-combat-mission-anthology.json](./78011-combat-mission-anthology.json) |
 | Combat Mission Cold War | 144154 | [144154-combat-mission-cold-war.json](./144154-combat-mission-cold-war.json) |
@@ -10844,6 +10846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constricted VR | 29531 | [29531-constricted-vr.json](./29531-constricted-vr.json) |
 | Constriction: 1024 | 315484 | [315484-constriction-1024.json](./315484-constriction-1024.json) |
 | Construct | 129059 | [129059-construct.json](./129059-construct.json) |
+| Construct 2 | 47010 | [47010-construct-2.json](./47010-construct-2.json) |
 | Construct Conspiracy | 252096 | [252096-construct-conspiracy.json](./252096-construct-conspiracy.json) |
 | Construct Farm | 308632 | [308632-construct-farm.json](./308632-construct-farm.json) |
 | Construct Farm / Cat Simulator | 381715 | [381715-construct-farm-cat-simulator.json](./381715-construct-farm-cat-simulator.json) |
@@ -13108,6 +13111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken Pinball Vol. 1 | 96540 | [96540-crazy-chicken-pinball-vol-1.json](./96540-crazy-chicken-pinball-vol-1.json) |
 | Crazy Chicken Pirates 3D | 282481 | [282481-crazy-chicken-pirates-3d.json](./282481-crazy-chicken-pirates-3d.json) |
 | Crazy Chicken Quest | 144595 | [144595-crazy-chicken-quest.json](./144595-crazy-chicken-quest.json) |
+| Crazy Chicken Remake | 47019 | [47019-crazy-chicken-remake.json](./47019-crazy-chicken-remake.json) |
 | Crazy Chicken Strikes Back | 83239 | [83239-crazy-chicken-strikes-back.json](./83239-crazy-chicken-strikes-back.json) |
 | Crazy Chicken X | 78882 | [78882-crazy-chicken-x.json](./78882-crazy-chicken-x.json) |
 | Crazy Chicken Xtreme | 198390 | [198390-crazy-chicken-xtreme.json](./198390-crazy-chicken-xtreme.json) |
@@ -13599,6 +13603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket 24 | 243749 | [243749-cricket-24.json](./243749-cricket-24.json) |
 | Cricket 64 | 56889 | [56889-cricket-64.json](./56889-cricket-64.json) |
 | Cricket 96 | 94684 | [94684-cricket-96.json](./94684-cricket-96.json) |
+| Cricket 97 | 47047 | [47047-cricket-97.json](./47047-cricket-97.json) |
 | Cricket 97: Ashes Tour Edition | 69163 | [69163-cricket-97-ashes-tour-edition.json](./69163-cricket-97-ashes-tour-edition.json) |
 | Cricket Captain | 13532 | [13532-cricket-captain.json](./13532-cricket-captain.json) |
 | Cricket Captain | 95430 | [95430-cricket-captain.json](./95430-cricket-captain.json) |
