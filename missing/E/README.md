@@ -2842,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endhall | 111176 | [111176-endhall.json](./111176-endhall.json) |
 | Endhop | 383631 | [383631-endhop.json](./383631-endhop.json) |
 | Endica VII: The Dream King | 35924 | [35924-endica-vii-the-dream-king.json](./35924-endica-vii-the-dream-king.json) |
+| Ending | 63174 | [63174-ending.json](./63174-ending.json) |
 | Ending It Today | 355536 | [355536-ending-it-today.json](./355536-ending-it-today.json) |
 | Ending Name | 284788 | [284788-ending-name.json](./284788-ending-name.json) |
 | Ending the Happy Route | 350045 | [350045-ending-the-happy-route.json](./350045-ending-the-happy-route.json) |
@@ -5381,6 +5382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest II: Planes of Prophecy | 75212 | [75212-everquest-ii-planes-of-prophecy.json](./75212-everquest-ii-planes-of-prophecy.json) |
 | EverQuest II: Rise of Kunark | 21510 | [21510-everquest-ii-rise-of-kunark.json](./21510-everquest-ii-rise-of-kunark.json) |
 | EverQuest II: Sentinel's Fate | 4208 | [4208-everquest-ii-sentinels-fate.json](./4208-everquest-ii-sentinels-fate.json) |
+| EverQuest II: Tears of Veeshan | 63062 | [63062-everquest-ii-tears-of-veeshan.json](./63062-everquest-ii-tears-of-veeshan.json) |
 | EverQuest II: The Bloodline Chronicles | 111024 | [111024-everquest-ii-the-bloodline-chronicles.json](./111024-everquest-ii-the-bloodline-chronicles.json) |
 | EverQuest II: The Fallen Dynasty | 20533 | [20533-everquest-ii-the-fallen-dynasty.json](./20533-everquest-ii-the-fallen-dynasty.json) |
 | EverQuest II: The Shadow Odyssey | 78366 | [78366-everquest-ii-the-shadow-odyssey.json](./78366-everquest-ii-the-shadow-odyssey.json) |
@@ -5388,6 +5390,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest Legends | 395827 | [395827-everquest-legends.json](./395827-everquest-legends.json) |
 | EverQuest Next | 18341 | [18341-everquest-next.json](./18341-everquest-next.json) |
 | EverQuest Online Adventures | 23742 | [23742-everquest-online-adventures.json](./23742-everquest-online-adventures.json) |
+| EverQuest Worlds | 63060 | [63060-everquest-worlds.json](./63060-everquest-worlds.json) |
+| EverQuest: Call of the Forsaken | 63069 | [63069-everquest-call-of-the-forsaken.json](./63069-everquest-call-of-the-forsaken.json) |
 | EverQuest: Depths of Darkhollow | 74025 | [74025-everquest-depths-of-darkhollow.json](./74025-everquest-depths-of-darkhollow.json) |
 | EverQuest: Evolution | 23746 | [23746-everquest-evolution.json](./23746-everquest-evolution.json) |
 | EverQuest: Gold Edition | 209221 | [209221-everquest-gold-edition.json](./209221-everquest-gold-edition.json) |
@@ -5653,6 +5657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil World Hopsca | 336001 | [336001-evil-world-hopsca.json](./336001-evil-world-hopsca.json) |
 | Evil Zombies: Death on the Road | 232158 | [232158-evil-zombies-death-on-the-road.json](./232158-evil-zombies-death-on-the-road.json) |
 | Evil, My Friend | 185547 | [185547-evil-my-friend.json](./185547-evil-my-friend.json) |
+| Evil's Doom | 63052 | [63052-evils-doom.json](./63052-evils-doom.json) |
 | EvilBane: Rise of Ravens | 137390 | [137390-evilbane-rise-of-ravens.json](./137390-evilbane-rise-of-ravens.json) |
 | EvilCraft | 232678 | [232678-evilcraft.json](./232678-evilcraft.json) |
 | EvilHack | 351130 | [351130-evilhack.json](./351130-evilhack.json) |
