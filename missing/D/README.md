@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dalek: Dissolution Earth | 239580 | [239580-dalek-dissolution-earth.json](./239580-dalek-dissolution-earth.json) |
 | Daleks | 311366 | [311366-daleks.json](./311366-daleks.json) |
 | Daley Thompson's Decathlon | 13564 | [13564-daley-thompsons-decathlon.json](./13564-daley-thompsons-decathlon.json) |
+| Daley Thompson's Decathlon 2012 | 56931 | [56931-daley-thompsons-decathlon-2012.json](./56931-daley-thompsons-decathlon-2012.json) |
 | Daley Thompson's Olympic Challenge | 12030 | [12030-daley-thompsons-olympic-challenge.json](./12030-daley-thompsons-olympic-challenge.json) |
 | Daley Thompson's Super-Test | 13565 | [13565-daley-thompsons-super-test.json](./13565-daley-thompsons-super-test.json) |
 | Dali | 409075 | [409075-dali.json](./409075-dali.json) |
@@ -806,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Freak | 66777 | [66777-danger-freak.json](./66777-danger-freak.json) |
 | Danger Gazers: Next Stop | 170224 | [170224-danger-gazers-next-stop.json](./170224-danger-gazers-next-stop.json) |
 | Danger Girl | 45226 | [45226-danger-girl.json](./45226-danger-girl.json) |
+| Danger Goat | 56939 | [56939-danger-goat.json](./56939-danger-goat.json) |
 | Danger Horizon | 329178 | [329178-danger-horizon.json](./329178-danger-horizon.json) |
 | Danger in Body | 247982 | [247982-danger-in-body.json](./247982-danger-in-body.json) |
 | Danger is Near | 247923 | [247923-danger-is-near.json](./247923-danger-is-near.json) |
@@ -7155,6 +7157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Digital Card Battle | 44819 | [44819-digimon-digital-card-battle.json](./44819-digimon-digital-card-battle.json) |
 | Digimon Fortune | 56488 | [56488-digimon-fortune.json](./56488-digimon-fortune.json) |
 | Digimon Fusion Fighters | 327211 | [327211-digimon-fusion-fighters.json](./327211-digimon-fusion-fighters.json) |
+| Digimon Heroes! | 56855 | [56855-digimon-heroes.json](./56855-digimon-heroes.json) |
 | Digimon Jintrix | 333122 | [333122-digimon-jintrix.json](./333122-digimon-jintrix.json) |
 | Digimon Kari and Gatomon | 203235 | [203235-digimon-kari-and-gatomon.json](./203235-digimon-kari-and-gatomon.json) |
 | Digimon Linkz | 58622 | [58622-digimon-linkz.json](./58622-digimon-linkz.json) |
@@ -8022,6 +8025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discus | 247046 | [247046-discus.json](./247046-discus.json) |
 | Discworld | 8291 | [8291-discworld.json](./8291-discworld.json) |
 | Discworld II: Mortality Bytes! | 8292 | [8292-discworld-ii-mortality-bytes.json](./8292-discworld-ii-mortality-bytes.json) |
+| Discworld MUD | 56861 | [56861-discworld-mud.json](./56861-discworld-mud.json) |
 | Discworld Noir | 8293 | [8293-discworld-noir.json](./8293-discworld-noir.json) |
 | Discworld: Limited Edition | 132078 | [132078-discworld-limited-edition.json](./132078-discworld-limited-edition.json) |
 | Disdain | 215077 | [215077-disdain.json](./215077-disdain.json) |
