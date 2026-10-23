@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenduko | 64220 | [64220-zenduko.json](./64220-zenduko.json) |
 | Zenerchi | 16075 | [16075-zenerchi.json](./16075-zenerchi.json) |
 | Zenethics Lab : Outbreak | 54889 | [54889-zenethics-lab-outbreak.json](./54889-zenethics-lab-outbreak.json) |
+| Zenfar: The Adventure | 73599 | [73599-zenfar-the-adventure.json](./73599-zenfar-the-adventure.json) |
 | ZenFire | 292268 | [292268-zenfire.json](./292268-zenfire.json) |
 | Zenfit | 240183 | [240183-zenfit.json](./240183-zenfit.json) |
 | Zenforms: Protectors | 96043 | [96043-zenforms-protectors.json](./96043-zenforms-protectors.json) |
@@ -827,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zettavolt Trigger | 108051 | [108051-zettavolt-trigger.json](./108051-zettavolt-trigger.json) |
 | Zetton's One Trillion Degree Derby | 395895 | [395895-zettons-one-trillion-degree-derby.json](./395895-zettons-one-trillion-degree-derby.json) |
 | Zeus + Poseidon | 90554 | [90554-zeus-poseidon.json](./90554-zeus-poseidon.json) |
+| Zeus Battlegrounds | 76358 | [76358-zeus-battlegrounds.json](./76358-zeus-battlegrounds.json) |
 | Zeus Begins | 120726 | [120726-zeus-begins.json](./120726-zeus-begins.json) |
 | Zeus II: Carnage Heart | 66187 | [66187-zeus-ii-carnage-heart.json](./66187-zeus-ii-carnage-heart.json) |
 | Zeus Quest Remastered | 147435 | [147435-zeus-quest-remastered.json](./147435-zeus-quest-remastered.json) |
