@@ -4617,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Frog? | 63333 | [63333-the-amazing-frog.json](./63333-the-amazing-frog.json) |
 | The Amazing Meatbot | 22090 | [22090-the-amazing-meatbot.json](./22090-the-amazing-meatbot.json) |
 | The Amazing Odyssey of Growing Up | 134267 | [134267-the-amazing-odyssey-of-growing-up.json](./134267-the-amazing-odyssey-of-growing-up.json) |
+| The Amazing Race | 51009 | [51009-the-amazing-race.json](./51009-the-amazing-race.json) |
 | The Amazing Shinsengumi: Heroes in Love | 32318 | [32318-the-amazing-shinsengumi-heroes-in-love.json](./32318-the-amazing-shinsengumi-heroes-in-love.json) |
 | The Amazing Shrinking Giraffe | 260775 | [260775-the-amazing-shrinking-giraffe.json](./260775-the-amazing-shrinking-giraffe.json) |
 | The Amazing Shrinking Man | 123537 | [123537-the-amazing-shrinking-man.json](./123537-the-amazing-shrinking-man.json) |
@@ -5195,6 +5196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bigger Picture | 359531 | [359531-the-bigger-picture.json](./359531-the-bigger-picture.json) |
 | The Biggest Creators of Empires | 72137 | [72137-the-biggest-creators-of-empires.json](./72137-the-biggest-creators-of-empires.json) |
 | The Biggest Loser | 48035 | [48035-the-biggest-loser.json](./48035-the-biggest-loser.json) |
+| The Biggest Loser Challenge | 51003 | [51003-the-biggest-loser-challenge.json](./51003-the-biggest-loser-challenge.json) |
 | The Bigs 2 | 210441 | [210441-the-bigs-2.json](./210441-the-bigs-2.json) |
 | The Bigs 2 | 4716 | [4716-the-bigs-2.json](./4716-the-bigs-2.json) |
 | The Bikini Bottom Massacre | 269582 | [269582-the-bikini-bottom-massacre.json](./269582-the-bikini-bottom-massacre.json) |
@@ -5997,6 +5999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Condition | 373548 | [373548-the-condition.json](./373548-the-condition.json) |
 | The Conductor | 261909 | [261909-the-conductor.json](./261909-the-conductor.json) |
 | The Conductor | 329091 | [329091-the-conductor.json](./329091-the-conductor.json) |
+| The Conduit: Special Edition | 50985 | [50985-the-conduit-special-edition.json](./50985-the-conduit-special-edition.json) |
 | The Confession | 133365 | [133365-the-confession.json](./133365-the-confession.json) |
 | The Confined: Basement | 406899 | [406899-the-confined-basement.json](./406899-the-confined-basement.json) |
 | The Confinement | 332413 | [332413-the-confinement.json](./332413-the-confinement.json) |
@@ -11301,7 +11304,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -20527,6 +20529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Secret | 75967 | [75967-top-secret.json](./75967-top-secret.json) |
 | Top Secret | 79666 | [79666-top-secret.json](./79666-top-secret.json) |
 | Top Shot II | 92323 | [92323-top-shot-ii.json](./92323-top-shot-ii.json) |
+| Top Shot: Dinosaur Hunter | 51019 | [51019-top-shot-dinosaur-hunter.json](./51019-top-shot-dinosaur-hunter.json) |
 | Top Skater | 18047 | [18047-top-skater.json](./18047-top-skater.json) |
 | Top Solitaire | 87111 | [87111-top-solitaire.json](./87111-top-solitaire.json) |
 | Top Speed 2 | 119378 | [119378-top-speed-2.json](./119378-top-speed-2.json) |
@@ -26277,6 +26280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Station Manager | 80320 | [80320-tv-station-manager.json](./80320-tv-station-manager.json) |
 | TV Studio Story | 282014 | [282014-tv-studio-story.json](./282014-tv-studio-story.json) |
 | TV Thief | 190748 | [190748-tv-thief.json](./190748-tv-thief.json) |
+| TV Total Events | 50998 | [50998-tv-total-events.json](./50998-tv-total-events.json) |
 | TV Tycoon | 206630 | [206630-tv-tycoon.json](./206630-tv-tycoon.json) |
 | TV Vader | 250900 | [250900-tv-vader.json](./250900-tv-vader.json) |
 | TV Yarou Nanana: Get the Scoop! | 180992 | [180992-tv-yarou-nanana-get-the-scoop.json](./180992-tv-yarou-nanana-get-the-scoop.json) |
