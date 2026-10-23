@@ -3608,6 +3608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Delivery | 392246 | [392246-life-of-delivery.json](./392246-life-of-delivery.json) |
 | Life of Fly 2 | 148321 | [148321-life-of-fly-2.json](./148321-life-of-fly-2.json) |
 | Life of Food | 157368 | [157368-life-of-food.json](./157368-life-of-food.json) |
+| Life of George | 65364 | [65364-life-of-george.json](./65364-life-of-george.json) |
 | Life of Kanji Island | 303628 | [303628-life-of-kanji-island.json](./303628-life-of-kanji-island.json) |
 | Life of Lon | 36995 | [36995-life-of-lon.json](./36995-life-of-lon.json) |
 | Life of Mellow | 174702 | [174702-life-of-mellow.json](./174702-life-of-mellow.json) |
@@ -4232,6 +4233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Link | 261653 | [261653-line-link.json](./261653-line-link.json) |
 | Line Loops: Logic Puzzles | 115506 | [115506-line-loops-logic-puzzles.json](./115506-line-loops-logic-puzzles.json) |
 | Line Monster: Escape Dark | 252931 | [252931-line-monster-escape-dark.json](./252931-line-monster-escape-dark.json) |
+| Line of Defense | 65362 | [65362-line-of-defense.json](./65362-line-of-defense.json) |
 | Line of Defense Tactics Prime | 197735 | [197735-line-of-defense-tactics-prime.json](./197735-line-of-defense-tactics-prime.json) |
 | Line of Fire | 12178 | [12178-line-of-fire.json](./12178-line-of-fire.json) |
 | Line of Fire | 19487 | [19487-line-of-fire.json](./19487-line-of-fire.json) |
@@ -5097,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liverpool Club Football 2005 | 267899 | [267899-liverpool-club-football-2005.json](./267899-liverpool-club-football-2005.json) |
 | Liverpool: the Computer Game | 71397 | [71397-liverpool-the-computer-game.json](./71397-liverpool-the-computer-game.json) |
 | Livers Ikusei Card Game | 320815 | [320815-livers-ikusei-card-game.json](./320815-livers-ikusei-card-game.json) |
+| Lives and Death | 65341 | [65341-lives-and-death.json](./65341-lives-and-death.json) |
 | Lives so Sweet | 124199 | [124199-lives-so-sweet.json](./124199-lives-so-sweet.json) |
 | LiveStream | 394170 | [394170-livestream.json](./394170-livestream.json) |
 | Livestream 2: Escape from Togaezuka Happy Place | 264210 | [264210-livestream-2-escape-from-togaezuka-happy-place.json](./264210-livestream-2-escape-from-togaezuka-happy-place.json) |
