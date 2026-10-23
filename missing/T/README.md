@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1 | 356086 | [356086-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-1.json](./356086-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-1.json) |
 | Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 2 | 356087 | [356087-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-2.json](./356087-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-2.json) |
 | Taiko no Tatsujin: Rhythm Festival - Vocaloid Songs Collection | 356197 | [356197-taiko-no-tatsujin-rhythm-festival-vocaloid-songs-collection.json](./356197-taiko-no-tatsujin-rhythm-festival-vocaloid-songs-collection.json) |
+| Taiko no Tatsujin: Rhythmic Adventure 1 | 60406 | [60406-taiko-no-tatsujin-rhythmic-adventure-1.json](./60406-taiko-no-tatsujin-rhythmic-adventure-1.json) |
 | Taiko no Tatsujin: Rhythmic Adventure 2 | 58471 | [58471-taiko-no-tatsujin-rhythmic-adventure-2.json](./58471-taiko-no-tatsujin-rhythmic-adventure-2.json) |
 | Taiko no Tatsujin: Rhythmic Adventure Pack | 137128 | [137128-taiko-no-tatsujin-rhythmic-adventure-pack.json](./137128-taiko-no-tatsujin-rhythmic-adventure-pack.json) |
 | Taiko no Tatsujin: The Drum Master! | 188551 | [188551-taiko-no-tatsujin-the-drum-master.json](./188551-taiko-no-tatsujin-the-drum-master.json) |
@@ -1877,6 +1878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Sonic | 92492 | [92492-tap-sonic.json](./92492-tap-sonic.json) |
 | Tap Space: Reaction and Focus Training | 252552 | [252552-tap-space-reaction-and-focus-training.json](./252552-tap-space-reaction-and-focus-training.json) |
 | Tap Sports Baseball | 60398 | [60398-tap-sports-baseball.json](./60398-tap-sports-baseball.json) |
+| Tap Sports Baseball 2015 | 60403 | [60403-tap-sports-baseball-2015.json](./60403-tap-sports-baseball-2015.json) |
 | Tap Sports Baseball 2016 | 58263 | [58263-tap-sports-baseball-2016.json](./58263-tap-sports-baseball-2016.json) |
 | Tap Sports Football | 59953 | [59953-tap-sports-football.json](./59953-tap-sports-football.json) |
 | Tap Sports Football 2016 | 58260 | [58260-tap-sports-football-2016.json](./58260-tap-sports-football-2016.json) |
@@ -3878,6 +3880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tether | 343598 | [343598-tether.json](./343598-tether.json) |
 | Tethered | 25336 | [25336-tethered.json](./25336-tethered.json) |
 | Tethered: Deluxe Edition | 53715 | [53715-tethered-deluxe-edition.json](./53715-tethered-deluxe-edition.json) |
+| Tethernum | 60407 | [60407-tethernum.json](./60407-tethernum.json) |
 | Tetjis | 361756 | [361756-tetjis.json](./361756-tetjis.json) |
 | Tetnis | 93522 | [93522-tetnis.json](./93522-tetnis.json) |
 | Tetr.io: Season 2 | 363973 | [363973-tetr-io-season-2.json](./363973-tetr-io-season-2.json) |
@@ -10932,6 +10935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Merry Fairy | 309530 | [309530-the-merry-fairy.json](./309530-the-merry-fairy.json) |
 | The Mesh | 88259 | [88259-the-mesh.json](./88259-the-mesh.json) |
 | The Message | 170458 | [170458-the-message.json](./170458-the-message.json) |
+| The Message | 60409 | [60409-the-message.json](./60409-the-message.json) |
 | The Messenger | 44838 | [44838-the-messenger.json](./44838-the-messenger.json) |
 | The Messenger | 71628 | [71628-the-messenger.json](./71628-the-messenger.json) |
 | The Messenger: Picnic Panic Bundle | 237906 | [237906-the-messenger-picnic-panic-bundle.json](./237906-the-messenger-picnic-panic-bundle.json) |
