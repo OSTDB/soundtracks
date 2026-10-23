@@ -6179,6 +6179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Zodiac | 230249 | [230249-deus-ex-zodiac.json](./230249-deus-ex-zodiac.json) |
 | Deus Exia | 396741 | [396741-deus-exia.json](./396741-deus-exia.json) |
 | Deus Lo Veult | 146677 | [146677-deus-lo-veult.json](./146677-deus-lo-veult.json) |
+| Deus Machina Demonbane | 97094 | [97094-deus-machina-demonbane.json](./97094-deus-machina-demonbane.json) |
 | Deus Proxy | 291536 | [291536-deus-proxy.json](./291536-deus-proxy.json) |
 | Deus Vult | 139763 | [139763-deus-vult.json](./139763-deus-vult.json) |
 | Deus Vult - Arena | 74266 | [74266-deus-vult-arena.json](./74266-deus-vult-arena.json) |
@@ -7507,6 +7508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Adventure 3-D | 69808 | [69808-dinosaur-adventure-3-d.json](./69808-dinosaur-adventure-3-d.json) |
 | DInosaur Adventure Island | 137938 | [137938-dinosaur-adventure-island.json](./137938-dinosaur-adventure-island.json) |
 | Dinosaur Air Hockey | 397897 | [397897-dinosaur-air-hockey.json](./397897-dinosaur-air-hockey.json) |
+| Dinosaur Assassin: Evolution | 97163 | [97163-dinosaur-assassin-evolution.json](./97163-dinosaur-assassin-evolution.json) |
 | Dinosaur Assassin: I-Evolution | 264013 | [264013-dinosaur-assassin-i-evolution.json](./264013-dinosaur-assassin-i-evolution.json) |
 | Dinosaur Battlegrounds | 57127 | [57127-dinosaur-battlegrounds.json](./57127-dinosaur-battlegrounds.json) |
 | Dinosaur Bone Digging | 117353 | [117353-dinosaur-bone-digging.json](./117353-dinosaur-bone-digging.json) |
@@ -10579,6 +10581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Scape | 379510 | [379510-dot-scape.json](./379510-dot-scape.json) |
 | Dot Spinner | 348736 | [348736-dot-spinner.json](./348736-dot-spinner.json) |
 | Dot Tanki | 222940 | [222940-dot-tanki.json](./222940-dot-tanki.json) |
+| Dot to Dot: Connect the Dots | 97186 | [97186-dot-to-dot-connect-the-dots.json](./97186-dot-to-dot-connect-the-dots.json) |
 | Dot to Tot - Connect Alphabets | 88210 | [88210-dot-to-tot-connect-alphabets.json](./88210-dot-to-tot-connect-alphabets.json) |
 | Dot Valley | 362721 | [362721-dot-valley.json](./362721-dot-valley.json) |
 | Dot. | 94201 | [94201-dot.json](./94201-dot.json) |
