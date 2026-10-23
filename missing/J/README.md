@@ -1311,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JigSaw Abundance | 147718 | [147718-jigsaw-abundance.json](./147718-jigsaw-abundance.json) |
 | Jigsaw Advent Calendar | 276845 | [276845-jigsaw-advent-calendar.json](./276845-jigsaw-advent-calendar.json) |
 | Jigsaw Art: 100+ Famous Masterpieces | 400070 | [400070-jigsaw-art-100-famous-masterpieces.json](./400070-jigsaw-art-100-famous-masterpieces.json) |
+| Jigsaw Blocks | 70213 | [70213-jigsaw-blocks.json](./70213-jigsaw-blocks.json) |
 | Jigsaw Boom 2 | 94886 | [94886-jigsaw-boom-2.json](./94886-jigsaw-boom-2.json) |
 | Jigsaw Chronicles: Haunting Tales | 321512 | [321512-jigsaw-chronicles-haunting-tales.json](./321512-jigsaw-chronicles-haunting-tales.json) |
 | Jigsaw Chronicles: Heroes of Legend | 317217 | [317217-jigsaw-chronicles-heroes-of-legend.json](./317217-jigsaw-chronicles-heroes-of-legend.json) |
