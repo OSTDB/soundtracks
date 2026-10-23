@@ -3345,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field & Stream: Total Outdoorsman Challenge | 67081 | [67081-field-and-stream-total-outdoorsman-challenge.json](./67081-field-and-stream-total-outdoorsman-challenge.json) |
 | Field & Stream: Trophy Bass 3D | 70127 | [70127-field-and-stream-trophy-bass-3d.json](./70127-field-and-stream-trophy-bass-3d.json) |
 | Field & Stream: Trophy Bass 4 | 71459 | [71459-field-and-stream-trophy-bass-4.json](./71459-field-and-stream-trophy-bass-4.json) |
+| Field & Stream: Trophy Hunting 5 | 73645 | [73645-field-and-stream-trophy-hunting-5.json](./73645-field-and-stream-trophy-hunting-5.json) |
 | Field and Stream Fishing | 99003 | [99003-field-and-stream-fishing.json](./99003-field-and-stream-fishing.json) |
 | Field Breaking | 37040 | [37040-field-breaking.json](./37040-field-breaking.json) |
 | Field Combat | 206086 | [206086-field-combat.json](./206086-field-combat.json) |
@@ -7535,6 +7536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Valley | 269766 | [269766-forbidden-valley.json](./269766-forbidden-valley.json) |
 | Forbidden World | 219794 | [219794-forbidden-world.json](./219794-forbidden-world.json) |
 | Forbidden: A First's Obsession | 402364 | [402364-forbidden-a-firsts-obsession.json](./402364-forbidden-a-firsts-obsession.json) |
+| Forbidden.exe | 73618 | [73618-forbidden-exe.json](./73618-forbidden-exe.json) |
 | ForbiddenEgg | 352382 | [352382-forbiddenegg.json](./352382-forbiddenegg.json) |
 | ForbiddenWord | 242675 | [242675-forbiddenword.json](./242675-forbiddenword.json) |
 | Forbon FC | 182163 | [182163-forbon-fc.json](./182163-forbon-fc.json) |
@@ -7568,6 +7570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ford Racing 3 | 4870 | [4870-ford-racing-3.json](./4870-ford-racing-3.json) |
 | Ford Simulator 5.0 | 77140 | [77140-ford-simulator-5-0.json](./77140-ford-simulator-5-0.json) |
 | Ford Simulator 7 | 105681 | [105681-ford-simulator-7.json](./105681-ford-simulator-7.json) |
+| Ford Simulator II | 73619 | [73619-ford-simulator-ii.json](./73619-ford-simulator-ii.json) |
 | Ford Simulator III | 80646 | [80646-ford-simulator-iii.json](./80646-ford-simulator-iii.json) |
 | Ford vs. Chevy | 5838 | [5838-ford-vs-chevy.json](./5838-ford-vs-chevy.json) |
 | Forebearers | 112704 | [112704-forebearers.json](./112704-forebearers.json) |
