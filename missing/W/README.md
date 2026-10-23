@@ -3678,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whisperwind | 150284 | [150284-whisperwind.json](./150284-whisperwind.json) |
 | Whispike Survivors: Sword of the Necromancer | 253812 | [253812-whispike-survivors-sword-of-the-necromancer.json](./253812-whispike-survivors-sword-of-the-necromancer.json) |
 | Whistle Pig | 350451 | [350451-whistle-pig.json](./350451-whistle-pig.json) |
+| Whistle: Fuki Nukeru Kaze | 61407 | [61407-whistle-fuki-nukeru-kaze.json](./61407-whistle-fuki-nukeru-kaze.json) |
 | Whistle! Dai 37-kai Tokyo-to Chuugakkou Sougou Taiiku Soccer Taikai | 386986 | [386986-whistle-dai-37-kai-tokyo-to-chuugakkou-sougou-taiiku-soccer-taikai.json](./386986-whistle-dai-37-kai-tokyo-to-chuugakkou-sougou-taiiku-soccer-taikai.json) |
 | Whistle1 | 402524 | [402524-whistle1.json](./402524-whistle1.json) |
 | WhiTaers | 113663 | [113663-whitaers.json](./113663-whitaers.json) |
