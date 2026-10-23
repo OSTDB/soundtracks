@@ -7798,6 +7798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Parkour | 291860 | [291860-animal-parkour.json](./291860-animal-parkour.json) |
 | Animal Pattern | 335352 | [335352-animal-pattern.json](./335352-animal-pattern.json) |
 | Animal Planet Wildlands | 355172 | [355172-animal-planet-wildlands.json](./355172-animal-planet-wildlands.json) |
+| Animal Planet: Emergency Vets | 69124 | [69124-animal-planet-emergency-vets.json](./69124-animal-planet-emergency-vets.json) |
 | Animal Planet: Vet Life | 50635 | [50635-animal-planet-vet-life.json](./50635-animal-planet-vet-life.json) |
 | Animal Planner | 254767 | [254767-animal-planner.json](./254767-animal-planner.json) |
 | Animal Puzzle Cats | 225892 | [225892-animal-puzzle-cats.json](./225892-animal-puzzle-cats.json) |
