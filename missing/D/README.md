@@ -2123,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Davey Jones TD | 62810 | [62810-davey-jones-td.json](./62810-davey-jones-td.json) |
 | Davey's Mystery | 411645 | [411645-daveys-mystery.json](./411645-daveys-mystery.json) |
 | David & Keithan: The Haunted Lighthouse | 310579 | [310579-david-and-keithan-the-haunted-lighthouse.json](./310579-david-and-keithan-the-haunted-lighthouse.json) |
+| David Bellamy's Endangered Wildlife | 64286 | [64286-david-bellamys-endangered-wildlife.json](./64286-david-bellamys-endangered-wildlife.json) |
 | David Crane's Amazing Tennis | 46534 | [46534-david-cranes-amazing-tennis.json](./46534-david-cranes-amazing-tennis.json) |
 | David Crane's The Rescue of Princess Blobette | 48959 | [48959-david-cranes-the-rescue-of-princess-blobette.json](./48959-david-cranes-the-rescue-of-princess-blobette.json) |
 | David Douillet Judo | 57609 | [57609-david-douillet-judo.json](./57609-david-douillet-judo.json) |
@@ -5618,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Journey | 214557 | [214557-desert-journey.json](./214557-desert-journey.json) |
 | Desert King 2 | 208918 | [208918-desert-king-2.json](./208918-desert-king-2.json) |
 | Desert Kingdom | 221611 | [221611-desert-kingdom.json](./221611-desert-kingdom.json) |
+| Desert Kingdom Portable | 64158 | [64158-desert-kingdom-portable.json](./64158-desert-kingdom-portable.json) |
 | Desert Kingdom Portable: Limited Edition | 44510 | [44510-desert-kingdom-portable-limited-edition.json](./44510-desert-kingdom-portable-limited-edition.json) |
 | Desert Kingdoms | 279497 | [279497-desert-kingdoms.json](./279497-desert-kingdoms.json) |
 | Desert Kingdoms 2 | 303473 | [303473-desert-kingdoms-2.json](./303473-desert-kingdoms-2.json) |
@@ -7807,6 +7809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Room | 241854 | [241854-dirty-room.json](./241854-dirty-room.json) |
 | Dirty Room: Chapter 4 | 246843 | [246843-dirty-room-chapter-4.json](./246843-dirty-room-chapter-4.json) |
 | Dirty Rotten Bounders | 285023 | [285023-dirty-rotten-bounders.json](./285023-dirty-rotten-bounders.json) |
+| Dirty Split | 64148 | [64148-dirty-split.json](./64148-dirty-split.json) |
 | Dirty Streamer Puzzle | 244832 | [244832-dirty-streamer-puzzle.json](./244832-dirty-streamer-puzzle.json) |
 | Dirty Swamp | 324170 | [324170-dirty-swamp.json](./324170-dirty-swamp.json) |
 | Dirty Teachers | 368091 | [368091-dirty-teachers.json](./368091-dirty-teachers.json) |
@@ -7832,6 +7835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Party! | 332862 | [332862-disaster-party.json](./332862-disaster-party.json) |
 | Disaster Plan Z | 301257 | [301257-disaster-plan-z.json](./301257-disaster-plan-z.json) |
 | Disaster Quest Tree | 268672 | [268672-disaster-quest-tree.json](./268672-disaster-quest-tree.json) |
+| Disaster Response Unit | 64149 | [64149-disaster-response-unit.json](./64149-disaster-response-unit.json) |
 | Disaster Slayer | 302191 | [302191-disaster-slayer.json](./302191-disaster-slayer.json) |
 | Disaster Town Tycoon | 294731 | [294731-disaster-town-tycoon.json](./294731-disaster-town-tycoon.json) |
 | Disaster Will Strike | 101404 | [101404-disaster-will-strike.json](./101404-disaster-will-strike.json) |
@@ -8499,6 +8503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distribution Center | 262306 | [262306-distribution-center.json](./262306-distribution-center.json) |
 | Distributor Simulator | 237285 | [237285-distributor-simulator.json](./237285-distributor-simulator.json) |
 | District 187 | 23541 | [23541-district-187.json](./23541-district-187.json) |
+| District 187: Sin Streets | 64236 | [64236-district-187-sin-streets.json](./64236-district-187-sin-streets.json) |
 | District 7 | 74282 | [74282-district-7.json](./74282-district-7.json) |
 | District 99 | 160259 | [160259-district-99.json](./160259-district-99.json) |
 | District Panic | 295387 | [295387-district-panic.json](./295387-district-panic.json) |
@@ -10200,6 +10205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Mountain | 233417 | [233417-doodle-mountain.json](./233417-doodle-mountain.json) |
 | Doodle Movie Quiz | 232504 | [232504-doodle-movie-quiz.json](./232504-doodle-movie-quiz.json) |
 | Doodle or Die | 252291 | [252291-doodle-or-die.json](./252291-doodle-or-die.json) |
+| Doodle Pool | 64225 | [64225-doodle-pool.json](./64225-doodle-pool.json) |
 | Doodle Smash! | 232578 | [232578-doodle-smash.json](./232578-doodle-smash.json) |
 | Doodle Sprint! | 134445 | [134445-doodle-sprint.json](./134445-doodle-sprint.json) |
 | Doodle Tanks | 76181 | [76181-doodle-tanks.json](./76181-doodle-tanks.json) |
@@ -14474,6 +14480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Trail | 374595 | [374595-dungeon-trail.json](./374595-dungeon-trail.json) |
 | Dungeon Train | 333404 | [333404-dungeon-train.json](./333404-dungeon-train.json) |
 | Dungeon Train VR | 182837 | [182837-dungeon-train-vr.json](./182837-dungeon-train-vr.json) |
+| Dungeon Travelers: To Heart 2 in Another World | 64235 | [64235-dungeon-travelers-to-heart-2-in-another-world.json](./64235-dungeon-travelers-to-heart-2-in-another-world.json) |
 | Dungeon Treaders | 388401 | [388401-dungeon-treaders.json](./388401-dungeon-treaders.json) |
 | Dungeon Trick | 391723 | [391723-dungeon-trick.json](./391723-dungeon-trick.json) |
 | Dungeon Twist | 392219 | [392219-dungeon-twist.json](./392219-dungeon-twist.json) |
