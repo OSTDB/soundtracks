@@ -1981,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace In Space | 128339 | [128339-ace-in-space.json](./128339-ace-in-space.json) |
 | Ace Invaders | 147460 | [147460-ace-invaders.json](./147460-ace-invaders.json) |
 | Ace Lightning | 248736 | [248736-ace-lightning.json](./248736-ace-lightning.json) |
+| Ace Mathician | 77767 | [77767-ace-mathician.json](./77767-ace-mathician.json) |
 | Ace Maverick | 27528 | [27528-ace-maverick.json](./27528-ace-maverick.json) |
 | Ace No.1 Fishing | 137416 | [137416-ace-no-1-fishing.json](./137416-ace-no-1-fishing.json) |
 | Ace of Aces | 11863 | [11863-ace-of-aces.json](./11863-ace-of-aces.json) |
@@ -10650,6 +10651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arishia Tale | 300298 | [300298-arishia-tale.json](./300298-arishia-tale.json) |
 | Arishihi no Watashitachi he | 394092 | [394092-arishihi-no-watashitachi-he.json](./394092-arishihi-no-watashitachi-he.json) |
 | Arising | 303676 | [303676-arising.json](./303676-arising.json) |
+| Aristear Remain | 77783 | [77783-aristear-remain.json](./77783-aristear-remain.json) |
 | Aristocratic Potato | 343913 | [343913-aristocratic-potato.json](./343913-aristocratic-potato.json) |
 | Aristoi | 180233 | [180233-aristoi.json](./180233-aristoi.json) |
 | Aritana and the Harpy's Feather | 17660 | [17660-aritana-and-the-harpys-feather.json](./17660-aritana-and-the-harpys-feather.json) |
@@ -12652,6 +12654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asuka 120% Burning Fest. Exallent | 382789 | [382789-asuka-120-burning-fest-exallent.json](./382789-asuka-120-burning-fest-exallent.json) |
 | Asuka 120% Burning Fest. Excellent | 191681 | [191681-asuka-120-burning-fest-excellent.json](./191681-asuka-120-burning-fest-excellent.json) |
 | Asuka 120% Excellent Burning Fest. | 81336 | [81336-asuka-120-excellent-burning-fest.json](./81336-asuka-120-excellent-burning-fest.json) |
+| Asuka 120% Final Burning Fest. | 77780 | [77780-asuka-120-final-burning-fest.json](./77780-asuka-120-final-burning-fest.json) |
 | Asuka 120% Limited Burning Fest. | 46088 | [46088-asuka-120-limited-burning-fest.json](./46088-asuka-120-limited-burning-fest.json) |
 | Asuka Idol Journey | 399410 | [399410-asuka-idol-journey.json](./399410-asuka-idol-journey.json) |
 | Asuka x Redline Reverie | 405510 | [405510-asuka-x-redline-reverie.json](./405510-asuka-x-redline-reverie.json) |
