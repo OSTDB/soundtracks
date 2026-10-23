@@ -1143,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EFPSE/EFPSECE Games Practice | 400564 | [400564-efpse-efpsece-games-practice.json](./400564-efpse-efpsece-games-practice.json) |
 | Efteling Tycoon | 210077 | [210077-efteling-tycoon.json](./210077-efteling-tycoon.json) |
 | EGA Coloring Book | 330270 | [330270-ega-coloring-book.json](./330270-ega-coloring-book.json) |
+| EGA Trek | 50303 | [50303-ega-trek.json](./50303-ega-trek.json) |
 | EGA-Roids | 130850 | [130850-ega-roids.json](./130850-ega-roids.json) |
 | Egaint | 79760 | [79760-egaint.json](./79760-egaint.json) |
 | Egao no Renkinjutsu | 238099 | [238099-egao-no-renkinjutsu.json](./238099-egao-no-renkinjutsu.json) |
@@ -1279,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggman | 309664 | [309664-eggman.json](./309664-eggman.json) |
 | Eggman no Kazuate Panic! | 261249 | [261249-eggman-no-kazuate-panic.json](./261249-eggman-no-kazuate-panic.json) |
 | Eggman Strikes | 330956 | [330956-eggman-strikes.json](./330956-eggman-strikes.json) |
+| Eggnogg+ | 50288 | [50288-eggnogg.json](./50288-eggnogg.json) |
 | Eggo | 358469 | [358469-eggo.json](./358469-eggo.json) |
 | Eggomania | 22765 | [22765-eggomania.json](./22765-eggomania.json) |
 | Eggor | 40114 | [40114-eggor.json](./40114-eggor.json) |
@@ -6432,6 +6434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme 500 | 46723 | [46723-extreme-500.json](./46723-extreme-500.json) |
 | Extreme Air Snowboarding 3D | 316496 | [316496-extreme-air-snowboarding-3d.json](./316496-extreme-air-snowboarding-3d.json) |
 | Extreme Angler | 72051 | [72051-extreme-angler.json](./72051-extreme-angler.json) |
+| Extreme Assault | 50302 | [50302-extreme-assault.json](./50302-extreme-assault.json) |
 | Extreme Bankikki | 204247 | [204247-extreme-bankikki.json](./204247-extreme-bankikki.json) |
 | Extreme Basketball | 86104 | [86104-extreme-basketball.json](./86104-extreme-basketball.json) |
 | Extreme Bikers | 234473 | [234473-extreme-bikers.json](./234473-extreme-bikers.json) |
