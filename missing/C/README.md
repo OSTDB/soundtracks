@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesars Palace | 365687 | [365687-caesars-palace.json](./365687-caesars-palace.json) |
 | Caesars Palace 2000: Millennium Gold Edition | 45807 | [45807-caesars-palace-2000-millennium-gold-edition.json](./45807-caesars-palace-2000-millennium-gold-edition.json) |
 | Caesars Palace 64 | 297465 | [297465-caesars-palace-64.json](./297465-caesars-palace-64.json) |
+| Caesars Palace Advance: Millenium Gold Edition | 49161 | [49161-caesars-palace-advance-millenium-gold-edition.json](./49161-caesars-palace-advance-millenium-gold-edition.json) |
 | Caesars Palace Blackjack | 198707 | [198707-caesars-palace-blackjack.json](./198707-caesars-palace-blackjack.json) |
 | Caesars Palace Guide to Poker | 198708 | [198708-caesars-palace-guide-to-poker.json](./198708-caesars-palace-guide-to-poker.json) |
 | Caesars Palace Horse Racing | 198711 | [198711-caesars-palace-horse-racing.json](./198711-caesars-palace-horse-racing.json) |
@@ -1500,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa J: Zenkoku Seiha he no Chousen | 65009 | [65009-captain-tsubasa-j-zenkoku-seiha-he-no-chousen.json](./65009-captain-tsubasa-j-zenkoku-seiha-he-no-chousen.json) |
 | Captain Tsubasa V: Hasha no Shougou Campione | 38268 | [38268-captain-tsubasa-v-hasha-no-shougou-campione.json](./38268-captain-tsubasa-v-hasha-no-shougou-campione.json) |
 | Captain Tsubasa Vol. II: Super Striker | 102254 | [102254-captain-tsubasa-vol-ii-super-striker.json](./102254-captain-tsubasa-vol-ii-super-striker.json) |
+| Captain Tsubasa VS | 49147 | [49147-captain-tsubasa-vs.json](./49147-captain-tsubasa-vs.json) |
 | Captain Tsubasa Zero: Miracle Shot | 124759 | [124759-captain-tsubasa-zero-miracle-shot.json](./124759-captain-tsubasa-zero-miracle-shot.json) |
 | Captain Tsubasa: Ace | 212434 | [212434-captain-tsubasa-ace.json](./212434-captain-tsubasa-ace.json) |
 | Captain Tsubasa: Dream Team | 76738 | [76738-captain-tsubasa-dream-team.json](./76738-captain-tsubasa-dream-team.json) |
@@ -4266,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chacara | 219994 | [219994-chacara.json](./219994-chacara.json) |
 | Chacha Fighter V | 98258 | [98258-chacha-fighter-v.json](./98258-chacha-fighter-v.json) |
 | Chachacha Slot | 87296 | [87296-chachacha-slot.json](./87296-chachacha-slot.json) |
+| Chachamaru Boukenki 3: Abyss no Tou | 49146 | [49146-chachamaru-boukenki-3-abyss-no-tou.json](./49146-chachamaru-boukenki-3-abyss-no-tou.json) |
 | Chack'n Pop | 6103 | [6103-chackn-pop.json](./6103-chackn-pop.json) |
 | Chadboy | 241618 | [241618-chadboy.json](./241618-chadboy.json) |
 | Chadgeon: Enjoyers Edition+ | 296635 | [296635-chadgeon-enjoyers-edition.json](./296635-chadgeon-enjoyers-edition.json) |
@@ -7747,7 +7750,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Max Lite | 359478 | [359478-classic-max-lite.json](./359478-classic-max-lite.json) |
 | Classic Muncher | 13496 | [13496-classic-muncher.json](./13496-classic-muncher.json) |
 | Classic NES Series Trivia | 328665 | [328665-classic-nes-series-trivia.json](./328665-classic-nes-series-trivia.json) |
+| Classic NES Series: Bomberman | 49163 | [49163-classic-nes-series-bomberman.json](./49163-classic-nes-series-bomberman.json) |
+| Classic NES Series: Castlevania | 49171 | [49171-classic-nes-series-castlevania.json](./49171-classic-nes-series-castlevania.json) |
+| Classic NES Series: Donkey Kong | 49160 | [49160-classic-nes-series-donkey-kong.json](./49160-classic-nes-series-donkey-kong.json) |
 | Classic NES Series: Dr. Mario | 18064 | [18064-classic-nes-series-dr-mario.json](./18064-classic-nes-series-dr-mario.json) |
+| Classic NES Series: Excitebike | 49167 | [49167-classic-nes-series-excitebike.json](./49167-classic-nes-series-excitebike.json) |
 | Classic NES Series: Ice Climber | 49258 | [49258-classic-nes-series-ice-climber.json](./49258-classic-nes-series-ice-climber.json) |
 | Classic NES Series: Metroid | 76247 | [76247-classic-nes-series-metroid.json](./76247-classic-nes-series-metroid.json) |
 | Classic NES Series: Pac-Man | 76248 | [76248-classic-nes-series-pac-man.json](./76248-classic-nes-series-pac-man.json) |
@@ -8879,6 +8886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: God | 305947 | [305947-codename-god.json](./305947-codename-god.json) |
 | Codename: Gordon | 11749 | [11749-codename-gordon.json](./11749-codename-gordon.json) |
 | Codename: Kids Next Door - Flight of the Hamsters | 234535 | [234535-codename-kids-next-door-flight-of-the-hamsters.json](./234535-codename-kids-next-door-flight-of-the-hamsters.json) |
+| Codename: Kids Next Door - Operation S.O.D.A. | 49159 | [49159-codename-kids-next-door-operation-s-o-d-a.json](./49159-codename-kids-next-door-operation-s-o-d-a.json) |
 | Codename: Kids Next Door - Operation: V.I.D.E.O.G.A.M.E. | 2812 | [2812-codename-kids-next-door-operation-v-i-d-e-o-g-a-m-e.json](./2812-codename-kids-next-door-operation-v-i-d-e-o-g-a-m-e.json) |
 | Codename: Lovania | 384246 | [384246-codename-lovania.json](./384246-codename-lovania.json) |
 | Codename: Mystery Babylon | 157154 | [157154-codename-mystery-babylon.json](./157154-codename-mystery-babylon.json) |
@@ -13009,6 +13017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Shin-chan 2: Daimaou no Gyakushuu | 65378 | [65378-crayon-shin-chan-2-daimaou-no-gyakushuu.json](./65378-crayon-shin-chan-2-daimaou-no-gyakushuu.json) |
 | Crayon Shin-chan 4: Ora no Itazura Daihenshin | 127112 | [127112-crayon-shin-chan-4-ora-no-itazura-daihenshin.json](./127112-crayon-shin-chan-4-ora-no-itazura-daihenshin.json) |
 | Crayon Shin-Chan for Nuon | 138119 | [138119-crayon-shin-chan-for-nuon.json](./138119-crayon-shin-chan-for-nuon.json) |
+| Crayon Shin-Chan Ora to Shiro ha Otomodachi Da yo | 49131 | [49131-crayon-shin-chan-ora-to-shiro-ha-otomodachi-da-yo.json](./49131-crayon-shin-chan-ora-to-shiro-ha-otomodachi-da-yo.json) |
 | Crayon Shin-Chan Shokkugan! Densetsu o Yobu Omake Daiketsusen!! | 269681 | [269681-crayon-shin-chan-shokkugan-densetsu-o-yobu-omake-daiketsusen.json](./269681-crayon-shin-chan-shokkugan-densetsu-o-yobu-omake-daiketsusen.json) |
 | Crayon Shin-chan: Arashi wo Yobu Cinema-Land - Kachinko Gachinko Daikatsugeki! | 136939 | [136939-crayon-shin-chan-arashi-wo-yobu-cinema-land-kachinko-gachinko-daikatsugeki.json](./136939-crayon-shin-chan-arashi-wo-yobu-cinema-land-kachinko-gachinko-daikatsugeki.json) |
 | Crayon Shin-chan: Arashi wo Yobu Enji | 65377 | [65377-crayon-shin-chan-arashi-wo-yobu-enji.json](./65377-crayon-shin-chan-arashi-wo-yobu-enji.json) |
@@ -13083,6 +13092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Cauldron | 176968 | [176968-crazy-cauldron.json](./176968-crazy-cauldron.json) |
 | Crazy Caveman | 41016 | [41016-crazy-caveman.json](./41016-crazy-caveman.json) |
 | Crazy Chain: Elpis no Kusari | 392427 | [392427-crazy-chain-elpis-no-kusari.json](./392427-crazy-chain-elpis-no-kusari.json) |
+| Crazy Chase | 49157 | [49157-crazy-chase.json](./49157-crazy-chase.json) |
 | Crazy Cheebo: Puzzle Party | 85552 | [85552-crazy-cheebo-puzzle-party.json](./85552-crazy-cheebo-puzzle-party.json) |
 | Crazy Chewy | 305436 | [305436-crazy-chewy.json](./305436-crazy-chewy.json) |
 | Crazy Chewy | 47267 | [47267-crazy-chewy.json](./47267-crazy-chewy.json) |
@@ -15256,6 +15266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubix Robots for Everyone: Showdown | 242806 | [242806-cubix-robots-for-everyone-showdown.json](./242806-cubix-robots-for-everyone-showdown.json) |
 | Cubix Worlds | 215002 | [215002-cubix-worlds.json](./215002-cubix-worlds.json) |
 | Cubix: Match-3 | 197727 | [197727-cubix-match-3.json](./197727-cubix-match-3.json) |
+| Cubix: Robots for Everyone - Clash 'n Bash | 49156 | [49156-cubix-robots-for-everyone-clash-n-bash.json](./49156-cubix-robots-for-everyone-clash-n-bash.json) |
 | Cubix: Robots For Everyone - Race 'N Robots | 49897 | [49897-cubix-robots-for-everyone-race-n-robots.json](./49897-cubix-robots-for-everyone-race-n-robots.json) |
 | Cubixx | 377995 | [377995-cubixx.json](./377995-cubixx.json) |
 | Cubixx HD | 20632 | [20632-cubixx-hd.json](./20632-cubixx-hd.json) |
@@ -15347,6 +15358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult County | 63659 | [63659-cult-county.json](./63659-cult-county.json) |
 | Cult Game | 362875 | [362875-cult-game.json](./362875-cult-game.json) |
 | Cult II: Federal Crime | 69935 | [69935-cult-ii-federal-crime.json](./69935-cult-ii-federal-crime.json) |
+| Cult Jump | 49145 | [49145-cult-jump.json](./49145-cult-jump.json) |
 | Cult Land | 309574 | [309574-cult-land.json](./309574-cult-land.json) |
 | Cult Leader Simulator | 348575 | [348575-cult-leader-simulator.json](./348575-cult-leader-simulator.json) |
 | Cult Master: Ultraman ni Miserarete | 60529 | [60529-cult-master-ultraman-ni-miserarete.json](./60529-cult-master-ultraman-ni-miserarete.json) |
