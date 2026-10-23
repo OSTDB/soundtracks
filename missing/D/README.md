@@ -4387,6 +4387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend the Keep | 118091 | [118091-defend-the-keep.json](./118091-defend-the-keep.json) |
 | Defend the Kingdom | 154907 | [154907-defend-the-kingdom.json](./154907-defend-the-kingdom.json) |
 | Defend the Night | 127646 | [127646-defend-the-night.json](./127646-defend-the-night.json) |
+| Defend the planet | 81875 | [81875-defend-the-planet.json](./81875-defend-the-planet.json) |
 | Defend the Rook | 152300 | [152300-defend-the-rook.json](./152300-defend-the-rook.json) |
 | Defend the Terra Attack on the Red UFO | 39525 | [39525-defend-the-terra-attack-on-the-red-ufo.json](./39525-defend-the-terra-attack-on-the-red-ufo.json) |
 | Defend the Tower: Castle Defence Element | 109486 | [109486-defend-the-tower-castle-defence-element.json](./109486-defend-the-tower-castle-defence-element.json) |
