@@ -6150,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyako: Restaurant Tycoon | 157178 | [157178-nyako-restaurant-tycoon.json](./157178-nyako-restaurant-tycoon.json) |
 | Nyakori's Rabbit Doll | 130403 | [130403-nyakoris-rabbit-doll.json](./130403-nyakoris-rabbit-doll.json) |
 | Nyakori's Rabbit Doll: After Story | 157552 | [157552-nyakoris-rabbit-doll-after-story.json](./157552-nyakoris-rabbit-doll-after-story.json) |
+| Nyamiru to Bonzu no Daibouken | 73109 | [73109-nyamiru-to-bonzu-no-daibouken.json](./73109-nyamiru-to-bonzu-no-daibouken.json) |
 | Nyamo's Adventure | 182513 | [182513-nyamos-adventure.json](./182513-nyamos-adventure.json) |
 | Nyan Cat FLY! | 313545 | [313545-nyan-cat-fly.json](./313545-nyan-cat-fly.json) |
 | Nyan Cat: The Space Journey | 344905 | [344905-nyan-cat-the-space-journey.json](./344905-nyan-cat-the-space-journey.json) |
