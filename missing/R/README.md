@@ -9620,6 +9620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Away From Me. Alexandra | 297855 | [297855-run-away-from-me-alexandra.json](./297855-run-away-from-me-alexandra.json) |
 | Run Away SkyDancer | 307726 | [307726-run-away-skydancer.json](./307726-run-away-skydancer.json) |
 | Run Away With Me, Empress! | 225270 | [225270-run-away-with-me-empress.json](./225270-run-away-with-me-empress.json) |
+| Run Baby Run | 85915 | [85915-run-baby-run.json](./85915-run-baby-run.json) |
 | Run Ball: Jump on Helix Road | 100321 | [100321-run-ball-jump-on-helix-road.json](./100321-run-ball-jump-on-helix-road.json) |
 | Run Bird Run | 344926 | [344926-run-bird-run.json](./344926-run-bird-run.json) |
 | Run Blob Run 2 | 222956 | [222956-run-blob-run-2.json](./222956-run-blob-run-2.json) |
