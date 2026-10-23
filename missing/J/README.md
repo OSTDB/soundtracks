@@ -2810,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Adventures 2 | 362958 | [362958-jungle-adventures-2.json](./362958-jungle-adventures-2.json) |
 | Jungle Adventures 3 | 221705 | [221705-jungle-adventures-3.json](./221705-jungle-adventures-3.json) |
 | Jungle Adventures 4 | 362959 | [362959-jungle-adventures-4.json](./362959-jungle-adventures-4.json) |
+| Jungle Animal Hair Salon | 95291 | [95291-jungle-animal-hair-salon.json](./95291-jungle-animal-hair-salon.json) |
 | Jungle Blocks | 67967 | [67967-jungle-blocks.json](./67967-jungle-blocks.json) |
 | Jungle Bloody Operation | 287788 | [287788-jungle-bloody-operation.json](./287788-jungle-bloody-operation.json) |
 | Jungle Bomb Fever | 232916 | [232916-jungle-bomb-fever.json](./232916-jungle-bomb-fever.json) |
@@ -2830,6 +2831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Jammy | 242565 | [242565-jungle-jammy.json](./242565-jungle-jammy.json) |
 | Jungle Jim | 340781 | [340781-jungle-jim.json](./340781-jungle-jim.json) |
 | Jungle Jinx | 355563 | [355563-jungle-jinx.json](./355563-jungle-jinx.json) |
+| Jungle Jorney | 95268 | [95268-jungle-jorney.json](./95268-jungle-jorney.json) |
 | Jungle Juggle | 101271 | [101271-jungle-juggle.json](./101271-jungle-juggle.json) |
 | Jungle Jumble | 341454 | [341454-jungle-jumble.json](./341454-jungle-jumble.json) |
 | Jungle Jumperz | 336754 | [336754-jungle-jumperz.json](./336754-jungle-jumperz.json) |
