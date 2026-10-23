@@ -1969,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farkle King | 243745 | [243745-farkle-king.json](./243745-farkle-king.json) |
 | Farkle mania | 232290 | [232290-farkle-mania.json](./232290-farkle-mania.json) |
 | Farkle with Friends | 338774 | [338774-farkle-with-friends.json](./338774-farkle-with-friends.json) |
+| Farland Odyssey II: Kun ni Okuru Serenade | 61965 | [61965-farland-odyssey-ii-kun-ni-okuru-serenade.json](./61965-farland-odyssey-ii-kun-ni-okuru-serenade.json) |
 | Farland Saga | 80838 | [80838-farland-saga.json](./80838-farland-saga.json) |
 | Farland Saga I & II: Saturn Tribute | 360013 | [360013-farland-saga-i-and-ii-saturn-tribute.json](./360013-farland-saga-i-and-ii-saturn-tribute.json) |
 | Farland Story | 420580 | [420580-farland-story.json](./420580-farland-story.json) |
@@ -1976,6 +1977,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farland Story Denki: Arc Ou no Ensei | 73149 | [73149-farland-story-denki-arc-ou-no-ensei.json](./73149-farland-story-denki-arc-ou-no-ensei.json) |
 | Farland Story FX | 45953 | [45953-farland-story-fx.json](./45953-farland-story-fx.json) |
 | Farland Story: Daichi no Kizuna | 70455 | [70455-farland-story-daichi-no-kizuna.json](./70455-farland-story-daichi-no-kizuna.json) |
+| Farland Story: Juuou no Akashi | 61975 | [61975-farland-story-juuou-no-akashi.json](./61975-farland-story-juuou-no-akashi.json) |
+| Farland Story: Kyoushin no Miyako | 61971 | [61971-farland-story-kyoushin-no-miyako.json](./61971-farland-story-kyoushin-no-miyako.json) |
 | Farland Story: Shirogane no Tsubasa | 79121 | [79121-farland-story-shirogane-no-tsubasa.json](./79121-farland-story-shirogane-no-tsubasa.json) |
 | Farland Story: Tenshi no Namida | 69694 | [69694-farland-story-tenshi-no-namida.json](./69694-farland-story-tenshi-no-namida.json) |
 | Farlanders | 144018 | [144018-farlanders.json](./144018-farlanders.json) |
@@ -6054,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FleetMaster | 234060 | [234060-fleetmaster.json](./234060-fleetmaster.json) |
 | Fleetoad Mac | 184928 | [184928-fleetoad-mac.json](./184928-fleetoad-mac.json) |
 | Fleets of Heroes | 113384 | [113384-fleets-of-heroes.json](./113384-fleets-of-heroes.json) |
+| Fleish & Cherry in Crazy Hotel | 62054 | [62054-fleish-and-cherry-in-crazy-hotel.json](./62054-fleish-and-cherry-in-crazy-hotel.json) |
 | Flekkia | 415300 | [415300-flekkia.json](./415300-flekkia.json) |
 | Flem | 35960 | [35960-flem.json](./35960-flem.json) |
 | Flempire | 224248 | [224248-flempire.json](./224248-flempire.json) |
@@ -6453,6 +6457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flood of Tears | 299552 | [299552-flood-of-tears.json](./299552-flood-of-tears.json) |
 | Flood of Zombies | 333241 | [333241-flood-of-zombies.json](./333241-flood-of-zombies.json) |
 | Flood Runner 5 | 202561 | [202561-flood-runner-5.json](./202561-flood-runner-5.json) |
+| Flood Rush | 61980 | [61980-flood-rush.json](./61980-flood-rush.json) |
 | Flood the Chamber | 242813 | [242813-flood-the-chamber.json](./242813-flood-the-chamber.json) |
 | Flood-It! | 254605 | [254605-flood-it.json](./254605-flood-it.json) |
 | Flood-it! 2 | 254606 | [254606-flood-it-2.json](./254606-flood-it-2.json) |
