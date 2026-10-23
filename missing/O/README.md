@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ochakumi | 78020 | [78020-ochakumi.json](./78020-ochakumi.json) |
 | Ochakumi + | 71433 | [71433-ochakumi.json](./71433-ochakumi.json) |
 | Ochige Designer Tsukutte Pon! | 128361 | [128361-ochige-designer-tsukutte-pon.json](./128361-ochige-designer-tsukutte-pon.json) |
+| Ochimono Puzzle King | 82582 | [82582-ochimono-puzzle-king.json](./82582-ochimono-puzzle-king.json) |
 | Ochin ni Toshi Puzzle Tonjan!? | 48798 | [48798-ochin-ni-toshi-puzzle-tonjan.json](./48798-ochin-ni-toshi-puzzle-tonjan.json) |
 | Ochre | 400963 | [400963-ochre.json](./400963-ochre.json) |
 | Oco | 125845 | [125845-oco.json](./125845-oco.json) |
@@ -2613,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Road First Front S | 284259 | [284259-open-road-first-front-s.json](./284259-open-road-first-front-s.json) |
 | Open Saber Plus | 343918 | [343918-open-saber-plus.json](./343918-open-saber-plus.json) |
 | Open School World | 297505 | [297505-open-school-world.json](./297505-open-school-world.json) |
+| Open Sea Fishing | 82594 | [82594-open-sea-fishing.json](./82594-open-sea-fishing.json) |
 | Open Season | 248522 | [248522-open-season.json](./248522-open-season.json) |
 | Open Season | 248523 | [248523-open-season.json](./248523-open-season.json) |
 | Open Season | 248524 | [248524-open-season.json](./248524-open-season.json) |
