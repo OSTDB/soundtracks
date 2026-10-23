@@ -1432,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC: Audioreactive Beat Circle | 138623 | [138623-abc-audioreactive-beat-circle.json](./138623-abc-audioreactive-beat-circle.json) |
 | ABC's Featuring the Jungle Jukebox | 392413 | [392413-abcs-featuring-the-jungle-jukebox.json](./392413-abcs-featuring-the-jungle-jukebox.json) |
 | Abcdef | 330374 | [330374-abcdef.json](./330374-abcdef.json) |
+| ABCs with Dally Dino: Preschool Kids Learn the Alphabet with A Fun Dinosaur Friend | 88854 | [88854-abcs-with-dally-dino-preschool-kids-learn-the-alphabet-with-a-fun-dinosaur-friend.json](./88854-abcs-with-dally-dino-preschool-kids-learn-the-alphabet-with-a-fun-dinosaur-friend.json) |
 | ABD: A Beautiful Day | 34900 | [34900-abd-a-beautiful-day.json](./34900-abd-a-beautiful-day.json) |
 | Abdicate | 377428 | [377428-abdicate.json](./377428-abdicate.json) |
 | Abducidos | 312868 | [312868-abducidos.json](./312868-abducidos.json) |
@@ -2651,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Awaits | 226100 | [226100-adventure-awaits.json](./226100-adventure-awaits.json) |
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
 | Adventure Bar Story | 279048 | [279048-adventure-bar-story.json](./279048-adventure-bar-story.json) |
+| Adventure Beyond Time | 88979 | [88979-adventure-beyond-time.json](./88979-adventure-beyond-time.json) |
 | Adventure Bit | 159576 | [159576-adventure-bit.json](./159576-adventure-bit.json) |
 | Adventure Book in Dimension | 339128 | [339128-adventure-book-in-dimension.json](./339128-adventure-book-in-dimension.json) |
 | Adventure Boss | 181154 | [181154-adventure-boss.json](./181154-adventure-boss.json) |
@@ -10922,6 +10924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Us | 241619 | [241619-armored-us.json](./241619-armored-us.json) |
 | Armored War | 277327 | [277327-armored-war.json](./277327-armored-war.json) |
 | Armored Warfare | 15853 | [15853-armored-warfare.json](./15853-armored-warfare.json) |
+| Armored Warfare: Assault | 88988 | [88988-armored-warfare-assault.json](./88988-armored-warfare-assault.json) |
 | Armored Warriors | 13688 | [13688-armored-warriors.json](./13688-armored-warriors.json) |
 | Armored Xpress | 149836 | [149836-armored-xpress.json](./149836-armored-xpress.json) |
 | Armorik the Viking: The Eight Conquests | 69172 | [69172-armorik-the-viking-the-eight-conquests.json](./69172-armorik-the-viking-the-eight-conquests.json) |
@@ -12912,6 +12915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athletic World | 9104 | [9104-athletic-world.json](./9104-athletic-world.json) |
 | Athletics 2: Winter Sports Pro | 86877 | [86877-athletics-2-winter-sports-pro.json](./86877-athletics-2-winter-sports-pro.json) |
 | Athletics Mania | 272442 | [272442-athletics-mania.json](./272442-athletics-mania.json) |
+| Athletics: Winter Sports | 88920 | [88920-athletics-winter-sports.json](./88920-athletics-winter-sports.json) |
 | Athletyx | 123069 | [123069-athletyx.json](./123069-athletyx.json) |
 | Athopiu Complete | 52623 | [52623-athopiu-complete.json](./52623-athopiu-complete.json) |
 | Athopiu: The Final Rebirth of Hopeless Incarnate | 43511 | [43511-athopiu-the-final-rebirth-of-hopeless-incarnate.json](./43511-athopiu-the-final-rebirth-of-hopeless-incarnate.json) |
