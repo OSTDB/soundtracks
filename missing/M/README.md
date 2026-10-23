@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mag | 178431 | [178431-mag.json](./178431-mag.json) |
 | MAG | 229766 | [229766-mag.json](./229766-mag.json) |
 | MAG | 7365 | [7365-mag.json](./7365-mag.json) |
+| Mag-Racer | 70229 | [70229-mag-racer.json](./70229-mag-racer.json) |
 | Maga Patalójika | 289222 | [289222-maga-patalojika.json](./289222-maga-patalojika.json) |
 | Magalumina | 392932 | [392932-magalumina.json](./392932-magalumina.json) |
 | Magatama | 59329 | [59329-magatama.json](./59329-magatama.json) |
@@ -798,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Archer: Monster Islands | 234475 | [234475-magic-archer-monster-islands.json](./234475-magic-archer-monster-islands.json) |
 | Magic Archers | 148862 | [148862-magic-archers.json](./148862-magic-archers.json) |
 | Magic Archery | 318318 | [318318-magic-archery.json](./318318-magic-archery.json) |
+| Magic Ball Deluxe | 70237 | [70237-magic-ball-deluxe.json](./70237-magic-ball-deluxe.json) |
 | Magic Balls | 163868 | [163868-magic-balls.json](./163868-magic-balls.json) |
 | Magic Balls | 263474 | [263474-magic-balls.json](./263474-magic-balls.json) |
 | Magic Barrage - Bitferno | 36142 | [36142-magic-barrage-bitferno.json](./36142-magic-barrage-bitferno.json) |
@@ -9491,6 +9493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Labyrinth VR Dreams | 100311 | [100311-mind-labyrinth-vr-dreams.json](./100311-mind-labyrinth-vr-dreams.json) |
 | Mind Loop | 322063 | [322063-mind-loop.json](./322063-mind-loop.json) |
 | Mind Lure | 373667 | [373667-mind-lure.json](./373667-mind-lure.json) |
+| Mind Machine | 70240 | [70240-mind-machine.json](./70240-mind-machine.json) |
 | Mind Maze | 100308 | [100308-mind-maze.json](./100308-mind-maze.json) |
 | Mind Maze | 154978 | [154978-mind-maze.json](./154978-mind-maze.json) |
 | Mind Medley | 209509 | [209509-mind-medley.json](./209509-mind-medley.json) |
