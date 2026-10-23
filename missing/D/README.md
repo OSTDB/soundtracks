@@ -8063,6 +8063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Game Shots: Sparamu | 324750 | [324750-disney-game-shots-sparamu.json](./324750-disney-game-shots-sparamu.json) |
 | Disney Golf | 19212 | [19212-disney-golf.json](./19212-disney-golf.json) |
 | Disney Heroes: Battle Mode | 96138 | [96138-disney-heroes-battle-mode.json](./96138-disney-heroes-battle-mode.json) |
+| Disney Hidden Worlds | 98278 | [98278-disney-hidden-worlds.json](./98278-disney-hidden-worlds.json) |
 | Disney Hot Shots: Disney's Tarzan Jungle Tumble | 231855 | [231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json](./231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json) |
 | Disney Hot Shots: Disney's Terk & Tantor Power Lunch | 231857 | [231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json](./231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json) |
 | Disney Hotshots: Disney's Tarzan | 231854 | [231854-disney-hotshots-disneys-tarzan.json](./231854-disney-hotshots-disneys-tarzan.json) |
@@ -9155,6 +9156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DogStation | 59441 | [59441-dogstation.json](./59441-dogstation.json) |
 | Dogtown Barkery | 115756 | [115756-dogtown-barkery.json](./115756-dogtown-barkery.json) |
 | Dogu the Adventurer | 253457 | [253457-dogu-the-adventurer.json](./253457-dogu-the-adventurer.json) |
+| Doguria | 98298 | [98298-doguria.json](./98298-doguria.json) |
 | Doguu Senki: Haou | 77570 | [77570-doguu-senki-haou.json](./77570-doguu-senki-haou.json) |
 | Dogville | 272032 | [272032-dogville.json](./272032-dogville.json) |
 | Dogwalk | 348639 | [348639-dogwalk.json](./348639-dogwalk.json) |
