@@ -1637,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harley Pasternak's Hollywood Workout | 50963 | [50963-harley-pasternaks-hollywood-workout.json](./50963-harley-pasternaks-hollywood-workout.json) |
 | Harley-Davidson & L.A. Riders | 39479 | [39479-harley-davidson-and-l-a-riders.json](./39479-harley-davidson-and-l-a-riders.json) |
 | Harley-Davidson Motorcycles: Road to Daytona | 198752 | [198752-harley-davidson-motorcycles-road-to-daytona.json](./198752-harley-davidson-motorcycles-road-to-daytona.json) |
+| Harley-Davidson: Race Around the World | 80317 | [80317-harley-davidson-race-around-the-world.json](./80317-harley-davidson-race-around-the-world.json) |
 | Harley-Davidson: Race to the Rally | 66341 | [66341-harley-davidson-race-to-the-rally.json](./66341-harley-davidson-race-to-the-rally.json) |
 | Harley-Davidson: The Road to Sturgis | 12137 | [12137-harley-davidson-the-road-to-sturgis.json](./12137-harley-davidson-the-road-to-sturgis.json) |
 | Harley's Humongous Adventure | 20337 | [20337-harleys-humongous-adventure.json](./20337-harleys-humongous-adventure.json) |
@@ -4971,6 +4972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HesGames | 84269 | [84269-hesgames.json](./84269-hesgames.json) |
 | HeShe | 314702 | [314702-heshe.json](./314702-heshe.json) |
 | Hesperian Wars | 229367 | [229367-hesperian-wars.json](./229367-hesperian-wars.json) |
+| Hessian | 80337 | [80337-hessian.json](./80337-hessian.json) |
 | Hessian Landing | 386268 | [386268-hessian-landing.json](./386268-hessian-landing.json) |
 | HestiaFort | 393046 | [393046-hestiafort.json](./393046-hestiafort.json) |
 | Het Huis Anubis: Het geheim van Osiris | 330105 | [330105-het-huis-anubis-het-geheim-van-osiris.json](./330105-het-huis-anubis-het-geheim-van-osiris.json) |
@@ -5191,6 +5193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexion | 96216 | [96216-hexion.json](./96216-hexion.json) |
 | Hexis | 291582 | [291582-hexis.json](./291582-hexis.json) |
 | Hexistence | 394442 | [394442-hexistence.json](./394442-hexistence.json) |
+| Hexius | 80341 | [80341-hexius.json](./80341-hexius.json) |
 | Hexiv | 335385 | [335385-hexiv.json](./335385-hexiv.json) |
 | HexLab | 97090 | [97090-hexlab.json](./97090-hexlab.json) |
 | Hexland Heroes | 98024 | [98024-hexland-heroes.json](./98024-hexland-heroes.json) |
