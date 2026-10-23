@@ -5295,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien on the Radar | 235609 | [235609-alien-on-the-radar.json](./235609-alien-on-the-radar.json) |
 | Alien on the Run | 61537 | [61537-alien-on-the-run.json](./61537-alien-on-the-run.json) |
 | Alien Outbreak | 57602 | [57602-alien-outbreak.json](./57602-alien-outbreak.json) |
+| Alien Outbreak 2: Invasion | 73135 | [73135-alien-outbreak-2-invasion.json](./73135-alien-outbreak-2-invasion.json) |
 | Alien Panic! | 222524 | [222524-alien-panic.json](./222524-alien-panic.json) |
 | Alien Paradise | 292312 | [292312-alien-paradise.json](./292312-alien-paradise.json) |
 | Alien Phobia | 18481 | [18481-alien-phobia.json](./18481-alien-phobia.json) |
@@ -9926,6 +9927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Master | 206139 | [206139-arcade-master.json](./206139-arcade-master.json) |
 | Arcade Master Deluxe | 202867 | [202867-arcade-master-deluxe.json](./202867-arcade-master-deluxe.json) |
 | Arcade Motion Classic | 230835 | [230835-arcade-motion-classic.json](./230835-arcade-motion-classic.json) |
+| Arcade Muscle | 73136 | [73136-arcade-muscle.json](./73136-arcade-muscle.json) |
 | Arcade Nano Sonic | 202868 | [202868-arcade-nano-sonic.json](./202868-arcade-nano-sonic.json) |
 | Arcade Nano Virtua Fighter 2 | 202869 | [202869-arcade-nano-virtua-fighter-2.json](./202869-arcade-nano-virtua-fighter-2.json) |
 | Arcade Pack | 399614 | [399614-arcade-pack.json](./399614-arcade-pack.json) |
