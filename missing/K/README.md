@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami-sama no Shippo: Etogami-sama-tachi no Ongaeshi | 194608 | [194608-kami-sama-no-shippo-etogami-sama-tachi-no-ongaeshi.json](./194608-kami-sama-no-shippo-etogami-sama-tachi-no-ongaeshi.json) |
 | Kami-sama no you na Kimi he | 146781 | [146781-kami-sama-no-you-na-kimi-he.json](./146781-kami-sama-no-you-na-kimi-he.json) |
 | Kami-sama no you na Kimi he: Limited Edition | 146782 | [146782-kami-sama-no-you-na-kimi-he-limited-edition.json](./146782-kami-sama-no-you-na-kimi-he-limited-edition.json) |
+| Kami-sama to Koigokoro | 60959 | [60959-kami-sama-to-koigokoro.json](./60959-kami-sama-to-koigokoro.json) |
 | Kami: Parade of Senses | 286000 | [286000-kami-parade-of-senses.json](./286000-kami-parade-of-senses.json) |
 | Kami: The Great Guardian | 408034 | [408034-kami-the-great-guardian.json](./408034-kami-the-great-guardian.json) |
 | Kami's Garden: Bound To The Pages | 417936 | [417936-kamis-garden-bound-to-the-pages.json](./417936-kamis-garden-bound-to-the-pages.json) |
@@ -546,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kane & Lynch Collection | 53243 | [53243-kane-and-lynch-collection.json](./53243-kane-and-lynch-collection.json) |
 | Kane & Lynch: Dead Men | 7032 | [7032-kane-and-lynch-dead-men.json](./7032-kane-and-lynch-dead-men.json) |
 | Kane & Lynch: Dead Men | 76714 | [76714-kane-and-lynch-dead-men.json](./76714-kane-and-lynch-dead-men.json) |
+| Kane County | 59704 | [59704-kane-county.json](./59704-kane-county.json) |
 | Kane's Shadow | 133169 | [133169-kanes-shadow.json](./133169-kanes-shadow.json) |
 | Kanenone Dynatic: Green Green | 294727 | [294727-kanenone-dynatic-green-green.json](./294727-kanenone-dynatic-green-green.json) |
 | Kang | 396587 | [396587-kang.json](./396587-kang.json) |
@@ -1974,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Pill | 237451 | [237451-kill-pill.json](./237451-kill-pill.json) |
 | Kill Santa | 279464 | [279464-kill-santa.json](./279464-kill-santa.json) |
 | Kill Shot | 221901 | [221901-kill-shot.json](./221901-kill-shot.json) |
+| Kill Shot | 59639 | [59639-kill-shot.json](./59639-kill-shot.json) |
 | Kill Shot Bravo | 59478 | [59478-kill-shot-bravo.json](./59478-kill-shot-bravo.json) |
 | Kill Spree | 175618 | [175618-kill-spree.json](./175618-kill-spree.json) |
 | Kill the Bad Guy | 10481 | [10481-kill-the-bad-guy.json](./10481-kill-the-bad-guy.json) |
@@ -2218,7 +2221,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -3946,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi de wa Naku: It's Not Love, but So where Near | 242420 | [242420-koi-de-wa-naku-its-not-love-but-so-where-near.json](./242420-koi-de-wa-naku-its-not-love-but-so-where-near.json) |
 | Koi Farm | 143633 | [143633-koi-farm.json](./143633-koi-farm.json) |
 | Koi Frenzy | 410725 | [410725-koi-frenzy.json](./410725-koi-frenzy.json) |
+| Koi ga Saku Koro Sakura Doki | 60939 | [60939-koi-ga-saku-koro-sakura-doki.json](./60939-koi-ga-saku-koro-sakura-doki.json) |
 | Koi Garden | 290851 | [290851-koi-garden.json](./290851-koi-garden.json) |
 | Koi ha Balance: Tatoeba K-kun no Tabou na Ichinichi-hen | 134463 | [134463-koi-ha-balance-tatoeba-k-kun-no-tabou-na-ichinichi-hen.json](./134463-koi-ha-balance-tatoeba-k-kun-no-tabou-na-ichinichi-hen.json) |
 | Koi Hai Tunnel | 280878 | [280878-koi-hai-tunnel.json](./280878-koi-hai-tunnel.json) |
@@ -4442,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koushounin DS | 67351 | [67351-koushounin-ds.json](./67351-koushounin-ds.json) |
 | Kousoku Kaitenzushi | 138702 | [138702-kousoku-kaitenzushi.json](./138702-kousoku-kaitenzushi.json) |
 | Kousoku Shikou Shogi-ou | 37950 | [37950-kousoku-shikou-shogi-ou.json](./37950-kousoku-shikou-shogi-ou.json) |
+| Koustrea's Contentment | 59702 | [59702-koustreas-contentment.json](./59702-koustreas-contentment.json) |
 | Koutarichou Jin'youtan: Mayoigo no Shou | 219166 | [219166-koutarichou-jinyoutan-mayoigo-no-shou.json](./219166-koutarichou-jinyoutan-mayoigo-no-shou.json) |
 | Koutei Heika ni Narou! | 278073 | [278073-koutei-heika-ni-narou.json](./278073-koutei-heika-ni-narou.json) |
 | Koutetsu no Kishi | 37949 | [37949-koutetsu-no-kishi.json](./37949-koutetsu-no-kishi.json) |
