@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Apex | 58661 | [58661-racing-apex.json](./58661-racing-apex.json) |
 | Racing Beat | 40393 | [40393-racing-beat.json](./40393-racing-beat.json) |
 | Racing Bros | 135604 | [135604-racing-bros.json](./135604-racing-bros.json) |
+| Racing Burnout | 90419 | [90419-racing-burnout.json](./90419-racing-burnout.json) |
 | Racing Car | 346068 | [346068-racing-car.json](./346068-racing-car.json) |
 | Racing Car Chaos: Extreme Stunt Showdown | 308503 | [308503-racing-car-chaos-extreme-stunt-showdown.json](./308503-racing-car-chaos-extreme-stunt-showdown.json) |
 | Racing Car Forge | 193840 | [193840-racing-car-forge.json](./193840-racing-car-forge.json) |
@@ -1479,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranger in Spider's den | 108353 | [108353-ranger-in-spiders-den.json](./108353-ranger-in-spiders-den.json) |
 | Ranger Luke: Rosemary Forest | 109538 | [109538-ranger-luke-rosemary-forest.json](./109538-ranger-luke-rosemary-forest.json) |
 | Ranger Mission | 39436 | [39436-ranger-mission.json](./39436-ranger-mission.json) |
+| Ranger of the Jungle | 90461 | [90461-ranger-of-the-jungle.json](./90461-ranger-of-the-jungle.json) |
 | Ranger Quest: The Adventure Begins | 367725 | [367725-ranger-quest-the-adventure-begins.json](./367725-ranger-quest-the-adventure-begins.json) |
 | Ranger Quest: The Elemental Orbs | 236766 | [236766-ranger-quest-the-elemental-orbs.json](./236766-ranger-quest-the-elemental-orbs.json) |
 | Ranger vs. Drones | 154364 | [154364-ranger-vs-drones.json](./154364-ranger-vs-drones.json) |
@@ -1642,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat it! | 263119 | [263119-rat-it.json](./263119-rat-it.json) |
 | Rat King | 394876 | [394876-rat-king.json](./394876-rat-king.json) |
 | Rat of Infinity: Idle Clicker | 400397 | [400397-rat-of-infinity-idle-clicker.json](./400397-rat-of-infinity-idle-clicker.json) |
+| Rat on a Skateboard | 90439 | [90439-rat-on-a-skateboard.json](./90439-rat-on-a-skateboard.json) |
 | Rat on a Snowboard | 88516 | [88516-rat-on-a-snowboard.json](./88516-rat-on-a-snowboard.json) |
 | Rat on the Run | 78607 | [78607-rat-on-the-run.json](./78607-rat-on-the-run.json) |
 | Rat Quest | 302814 | [302814-rat-quest.json](./302814-rat-quest.json) |
@@ -2360,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Solitaire for iPad | 89104 | [89104-real-solitaire-for-ipad.json](./89104-real-solitaire-for-ipad.json) |
 | Real Sound: Kaze no Regret | 66624 | [66624-real-sound-kaze-no-regret.json](./66624-real-sound-kaze-no-regret.json) |
 | Real Steel | 47447 | [47447-real-steel.json](./47447-real-steel.json) |
+| Real Steel HD | 90452 | [90452-real-steel-hd.json](./90452-real-steel-hd.json) |
 | Real Steel Mobile | 84110 | [84110-real-steel-mobile.json](./84110-real-steel-mobile.json) |
 | Real Steel World Robot Boxing | 111751 | [111751-real-steel-world-robot-boxing.json](./111751-real-steel-world-robot-boxing.json) |
 | Real Stories from the Grave: Maleficium | 214698 | [214698-real-stories-from-the-grave-maleficium.json](./214698-real-stories-from-the-grave-maleficium.json) |
