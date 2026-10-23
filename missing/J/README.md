@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond 007: Tomorrow Never Dies | 1640 | [1640-james-bond-007-tomorrow-never-dies.json](./1640-james-bond-007-tomorrow-never-dies.json) |
 | James Bond Jr. | 217971 | [217971-james-bond-jr.json](./217971-james-bond-jr.json) |
 | James Bond Jr. | 217972 | [217972-james-bond-jr.json](./217972-james-bond-jr.json) |
+| James Bond: Q's Shooting Range | 65895 | [65895-james-bond-qs-shooting-range.json](./65895-james-bond-qs-shooting-range.json) |
 | James Bond: Who Wants to Live Again? | 323026 | [323026-james-bond-who-wants-to-live-again.json](./323026-james-bond-who-wants-to-live-again.json) |
 | James Bonk | 110285 | [110285-james-bonk.json](./110285-james-bonk.json) |
 | James Cameron's Avatar | 80372 | [80372-james-camerons-avatar.json](./80372-james-camerons-avatar.json) |
