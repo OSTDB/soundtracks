@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Words | 296350 | [296350-fall-words.json](./296350-fall-words.json) |
 | Fall... in Love | 105228 | [105228-fall-in-love.json](./105228-fall-in-love.json) |
 | Fallacy of Dawn | 57613 | [57613-fallacy-of-dawn.json](./57613-fallacy-of-dawn.json) |
+| Fallalypse: Death or Cress | 84053 | [84053-fallalypse-death-or-cress.json](./84053-fallalypse-death-or-cress.json) |
 | Fallback! | 270135 | [270135-fallback.json](./270135-fallback.json) |
 | FallDawn | 376671 | [376671-falldawn.json](./376671-falldawn.json) |
 | Falldown 3D | 254497 | [254497-falldown-3d.json](./254497-falldown-3d.json) |
@@ -1497,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Marchen: Cake-ya-san Monogatari + Doubutsu Chara Navi Uranai Kosei Shinri Gaku | 49577 | [49577-fantastic-marchen-cake-ya-san-monogatari-doubutsu-chara-navi-uranai-kosei-shinri-gaku.json](./49577-fantastic-marchen-cake-ya-san-monogatari-doubutsu-chara-navi-uranai-kosei-shinri-gaku.json) |
 | Fantastic Pets | 20165 | [20165-fantastic-pets.json](./20165-fantastic-pets.json) |
 | Fantastic Petty | 341153 | [341153-fantastic-petty.json](./341153-fantastic-petty.json) |
+| Fantastic Sea | 84036 | [84036-fantastic-sea.json](./84036-fantastic-sea.json) |
 | Fantastic Voyage | 18558 | [18558-fantastic-voyage.json](./18558-fantastic-voyage.json) |
 | Fantastical | 131841 | [131841-fantastical.json](./131841-fantastical.json) |
 | Fantastical Mystery ADV: Ultimate Jumbo Jet Murder Case | 289789 | [289789-fantastical-mystery-adv-ultimate-jumbo-jet-murder-case.json](./289789-fantastical-mystery-adv-ultimate-jumbo-jet-murder-case.json) |
@@ -5981,6 +5983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleabag vs. Mutt 2 | 403020 | [403020-fleabag-vs-mutt-2.json](./403020-fleabag-vs-mutt-2.json) |
 | Fleafall Champion | 92595 | [92595-fleafall-champion.json](./92595-fleafall-champion.json) |
 | Fleapit | 307781 | [307781-fleapit.json](./307781-fleapit.json) |
+| Fleazer | 84024 | [84024-fleazer.json](./84024-fleazer.json) |
 | Flecto | 407325 | [407325-flecto.json](./407325-flecto.json) |
 | Fled fierce city | 163775 | [163775-fled-fierce-city.json](./163775-fled-fierce-city.json) |
 | Fledge | 225537 | [225537-fledge.json](./225537-fledge.json) |
@@ -7172,6 +7175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foosball For Two | 68627 | [68627-foosball-for-two.json](./68627-foosball-for-two.json) |
 | Foosball Manager | 406042 | [406042-foosball-manager.json](./406042-foosball-manager.json) |
 | Foosball Runner | 318195 | [318195-foosball-runner.json](./318195-foosball-runner.json) |
+| Foosball VR | 84010 | [84010-foosball-vr.json](./84010-foosball-vr.json) |
 | Foosball: World Tour | 34848 | [34848-foosball-world-tour.json](./34848-foosball-world-tour.json) |
 | Foot Blobbers | 176346 | [176346-foot-blobbers.json](./176346-foot-blobbers.json) |
 | Foot Clinic | 268470 | [268470-foot-clinic.json](./268470-foot-clinic.json) |
