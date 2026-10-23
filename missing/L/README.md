@@ -3685,6 +3685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifeline: Whiteout | 57911 | [57911-lifeline-whiteout.json](./57911-lifeline-whiteout.json) |
 | Lifelong | 262851 | [262851-lifelong.json](./262851-lifelong.json) |
 | LifePaths | 414351 | [414351-lifepaths.json](./414351-lifepaths.json) |
+| Liferaft: Zero | 56329 | [56329-liferaft-zero.json](./56329-liferaft-zero.json) |
 | Lifesigns | 143575 | [143575-lifesigns.json](./143575-lifesigns.json) |
 | LifeSigns: Surgical Unit | 18600 | [18600-lifesigns-surgical-unit.json](./18600-lifesigns-surgical-unit.json) |
 | Lifespan 5seconds | 107701 | [107701-lifespan-5seconds.json](./107701-lifespan-5seconds.json) |
@@ -6793,6 +6794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovanium: The Rising Suns | 265633 | [265633-lovanium-the-rising-suns.json](./265633-lovanium-the-rising-suns.json) |
 | Love | 105034 | [105034-love.json](./105034-love.json) |
 | Love | 16912 | [16912-love.json](./16912-love.json) |
+| Love & Death Bitten | 56254 | [56254-love-and-death-bitten.json](./56254-love-and-death-bitten.json) |
 | Love & Destroy | 63368 | [63368-love-and-destroy.json](./63368-love-and-destroy.json) |
 | Love & Diaries: Duncan | 299421 | [299421-love-and-diaries-duncan.json](./299421-love-and-diaries-duncan.json) |
 | Love & Friendship | 177347 | [177347-love-and-friendship.json](./177347-love-and-friendship.json) |
