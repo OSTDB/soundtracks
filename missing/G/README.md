@@ -7415,6 +7415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrimRail | 367612 | [367612-grimrail.json](./367612-grimrail.json) |
 | Grimrain | 302077 | [302077-grimrain.json](./302077-grimrain.json) |
 | Grimroll | 334348 | [334348-grimroll.json](./334348-grimroll.json) |
+| Grimrush | 76403 | [76403-grimrush.json](./76403-grimrush.json) |
 | Grimscape | 185959 | [185959-grimscape.json](./185959-grimscape.json) |
 | Grimsfield | 21638 | [21638-grimsfield.json](./21638-grimsfield.json) |
 | Grimshade | 102199 | [102199-grimshade.json](./102199-grimshade.json) |
