@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambler Jiko Chuushin-ha 2: Dorapon Quest | 44406 | [44406-gambler-jiko-chuushin-ha-2-dorapon-quest.json](./44406-gambler-jiko-chuushin-ha-2-dorapon-quest.json) |
 | Gambler Jiko Chuushinha | 64340 | [64340-gambler-jiko-chuushinha.json](./64340-gambler-jiko-chuushinha.json) |
 | Gambler Jiko Chuushinha 2 | 267650 | [267650-gambler-jiko-chuushinha-2.json](./267650-gambler-jiko-chuushinha-2.json) |
+| Gambler Jiko Chuushinha 2 Gekitou! Tokyo Mahjong Land-hen | 46390 | [46390-gambler-jiko-chuushinha-2-gekitou-tokyo-mahjong-land-hen.json](./46390-gambler-jiko-chuushinha-2-gekitou-tokyo-mahjong-land-hen.json) |
 | Gambler Jiko Chuushinha: Ippatsu Shoubu! | 420493 | [420493-gambler-jiko-chuushinha-ippatsu-shoubu.json](./420493-gambler-jiko-chuushinha-ippatsu-shoubu.json) |
 | Gambler Jiko Chuushinha: Katayama Masayuki no Mahjong Dojo | 107590 | [107590-gambler-jiko-chuushinha-katayama-masayuki-no-mahjong-dojo.json](./107590-gambler-jiko-chuushinha-katayama-masayuki-no-mahjong-dojo.json) |
 | Gambler: Queen's Cup | 360589 | [360589-gambler-queens-cup.json](./360589-gambler-queens-cup.json) |
@@ -2234,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geneforge 2 | 8363 | [8363-geneforge-2.json](./8363-geneforge-2.json) |
 | Geneforge Saga | 50869 | [50869-geneforge-saga.json](./50869-geneforge-saga.json) |
 | GenEi AP: Empty Heart | 323046 | [323046-genei-ap-empty-heart.json](./323046-genei-ap-empty-heart.json) |
+| Genei Toshi: Illusion City | 46382 | [46382-genei-toshi-illusion-city.json](./46382-genei-toshi-illusion-city.json) |
 | Genei Tougi: Shadow Struggle | 43815 | [43815-genei-tougi-shadow-struggle.json](./43815-genei-tougi-shadow-struggle.json) |
 | Geneki Toudai-sei ga Tsukutta!: Dekiru Ko ni Naru Seikatsu Shuukan Dragon Sakura Youji-hen | 327587 | [327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json](./327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json) |
 | Genemon | 178546 | [178546-genemon.json](./178546-genemon.json) |
