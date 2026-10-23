@@ -7435,6 +7435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil: The Game | 122061 | [122061-civil-the-game.json](./122061-civil-the-game.json) |
 | Civilcontract | 103271 | [103271-civilcontract.json](./103271-civilcontract.json) |
 | CivilContractRPG | 125847 | [125847-civilcontractrpg.json](./125847-civilcontractrpg.json) |
+| Civilian Justice League 2 | 82618 | [82618-civilian-justice-league-2.json](./82618-civilian-justice-league-2.json) |
 | Civilization | 175915 | [175915-civilization.json](./175915-civilization.json) |
 | Civilization Online | 63915 | [63915-civilization-online.json](./63915-civilization-online.json) |
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
@@ -11433,6 +11434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corecraft | 307107 | [307107-corecraft.json](./307107-corecraft.json) |
 | Coregrounds | 11344 | [11344-coregrounds.json](./11344-coregrounds.json) |
 | Corelith | 406237 | [406237-corelith.json](./406237-corelith.json) |
+| Corenoid: Let's Build Steel Maidens | 82623 | [82623-corenoid-lets-build-steel-maidens.json](./82623-corenoid-lets-build-steel-maidens.json) |
 | CorePiercer | 159716 | [159716-corepiercer.json](./159716-corepiercer.json) |
 | Corepunk | 127513 | [127513-corepunk.json](./127513-corepunk.json) |
 | Corestory | 398551 | [398551-corestory.json](./398551-corestory.json) |
