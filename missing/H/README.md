@@ -1890,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest OverRay + Ano Ko wa Ore kara Hanarenai: Limited Edition | 207916 | [207916-harvest-overray-ano-ko-wa-ore-kara-hanarenai-limited-edition.json](./207916-harvest-overray-ano-ko-wa-ore-kara-hanarenai-limited-edition.json) |
 | Harvest Reaper | 394903 | [394903-harvest-reaper.json](./394903-harvest-reaper.json) |
 | Harvest Season: Sudoku Puzzle | 241992 | [241992-harvest-season-sudoku-puzzle.json](./241992-harvest-season-sudoku-puzzle.json) |
+| Harvest Seasons | 81864 | [81864-harvest-seasons.json](./81864-harvest-seasons.json) |
 | Harvest Skies: Crop Dusting Simulator | 395693 | [395693-harvest-skies-crop-dusting-simulator.json](./395693-harvest-skies-crop-dusting-simulator.json) |
 | Harvest Them | 239295 | [239295-harvest-them.json](./239295-harvest-them.json) |
 | Harvest Time | 69539 | [69539-harvest-time.json](./69539-harvest-time.json) |
@@ -1900,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvested | 362388 | [362388-harvested.json](./362388-harvested.json) |
 | Harvestella | 206818 | [206818-harvestella.json](./206818-harvestella.json) |
 | Harvester | 2900 | [2900-harvester.json](./2900-harvester.json) |
+| Harvester of Dreams : Episode 1 | 81863 | [81863-harvester-of-dreams-episode-1.json](./81863-harvester-of-dreams-episode-1.json) |
 | Harvester Tractor Farming Simulator Game | 174866 | [174866-harvester-tractor-farming-simulator-game.json](./174866-harvester-tractor-farming-simulator-game.json) |
 | Harvester vs. Zombies | 409751 | [409751-harvester-vs-zombies.json](./409751-harvester-vs-zombies.json) |
 | Harvesterado | 186110 | [186110-harvesterado.json](./186110-harvesterado.json) |
@@ -2604,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Rocket | 177410 | [177410-heart-rocket.json](./177410-heart-rocket.json) |
 | Heart Snatcher | 366392 | [366392-heart-snatcher.json](./366392-heart-snatcher.json) |
 | Heart to Heart | 114832 | [114832-heart-to-heart.json](./114832-heart-to-heart.json) |
+| Heart-Pounding Dating Prep | 81870 | [81870-heart-pounding-dating-prep.json](./81870-heart-pounding-dating-prep.json) |
 | Heart-Pounding Office Puzzle with My Boss | 418326 | [418326-heart-pounding-office-puzzle-with-my-boss.json](./418326-heart-pounding-office-puzzle-with-my-boss.json) |
 | Heart-S-Truck | 278136 | [278136-heart-s-truck.json](./278136-heart-s-truck.json) |
 | Heart-Warming Deliveries | 345598 | [345598-heart-warming-deliveries.json](./345598-heart-warming-deliveries.json) |
@@ -6259,6 +6262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hill Defender | 349933 | [349933-hill-defender.json](./349933-hill-defender.json) |
 | Hill Dig: The Boring Adventure | 249900 | [249900-hill-dig-the-boring-adventure.json](./249900-hill-dig-the-boring-adventure.json) |
 | Hill Dirt Master 3 | 257871 | [257871-hill-dirt-master-3.json](./257871-hill-dirt-master-3.json) |
+| Hill Quest | 81915 | [81915-hill-quest.json](./81915-hill-quest.json) |
 | Hill Racer | 106760 | [106760-hill-racer.json](./106760-hill-racer.json) |
 | Hill Racer Champions | 106768 | [106768-hill-racer-champions.json](./106768-hill-racer-champions.json) |
 | Hill Ridge Lost & Found | 57505 | [57505-hill-ridge-lost-and-found.json](./57505-hill-ridge-lost-and-found.json) |
@@ -9284,6 +9288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humpty's Castle Adventure | 210053 | [210053-humptys-castle-adventure.json](./210053-humptys-castle-adventure.json) |
 | Humpty's Scramble | 144139 | [144139-humptys-scramble.json](./144139-humptys-scramble.json) |
 | Humvee Assault: War 3D FPS | 268328 | [268328-humvee-assault-war-3d-fps.json](./268328-humvee-assault-war-3d-fps.json) |
+| Hunahpu Quest. Mechanoid | 81903 | [81903-hunahpu-quest-mechanoid.json](./81903-hunahpu-quest-mechanoid.json) |
 | Hunchback at the Olympics | 70105 | [70105-hunchback-at-the-olympics.json](./70105-hunchback-at-the-olympics.json) |
 | Hunchback: The Adventure | 26390 | [26390-hunchback-the-adventure.json](./26390-hunchback-the-adventure.json) |
 | Huncho | 176759 | [176759-huncho.json](./176759-huncho.json) |
