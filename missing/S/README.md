@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saira | 67328 | [67328-saira.json](./67328-saira.json) |
 | Sairento VR | 30522 | [30522-sairento-vr.json](./30522-sairento-vr.json) |
 | Sairento VR: Untethered | 193695 | [193695-sairento-vr-untethered.json](./193695-sairento-vr-untethered.json) |
+| Saisai: Ingoku no Yakata | 97725 | [97725-saisai-ingoku-no-yakata.json](./97725-saisai-ingoku-no-yakata.json) |
 | Saisen Meikyuu | 206547 | [206547-saisen-meikyuu.json](./206547-saisen-meikyuu.json) |
 | Saishuu Heiki Kanojo | 74055 | [74055-saishuu-heiki-kanojo.json](./74055-saishuu-heiki-kanojo.json) |
 | Saishuu Shiken Kujira: Alive | 166453 | [166453-saishuu-shiken-kujira-alive.json](./166453-saishuu-shiken-kujira-alive.json) |
@@ -3783,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed | 403825 | [403825-seed.json](./403825-seed.json) |
 | Seed 2313 | 359604 | [359604-seed-2313.json](./359604-seed-2313.json) |
 | Seed In | 266787 | [266787-seed-in.json](./266787-seed-in.json) |
+| Seed no Mesu-tachi | 97727 | [97727-seed-no-mesu-tachi.json](./97727-seed-no-mesu-tachi.json) |
 | Seed of Agony | 173307 | [173307-seed-of-agony.json](./173307-seed-of-agony.json) |
 | Seed of Amaranth | 105225 | [105225-seed-of-amaranth.json](./105225-seed-of-amaranth.json) |
 | Seed of Dragon | 400959 | [400959-seed-of-dragon.json](./400959-seed-of-dragon.json) |
@@ -7062,6 +7064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot & Destroy X | 326169 | [326169-shoot-and-destroy-x.json](./326169-shoot-and-destroy-x.json) |
 | Shoot & Sow | 271591 | [271591-shoot-and-sow.json](./271591-shoot-and-sow.json) |
 | Shoot 2048 - reinvention of the classic puzzle | 102670 | [102670-shoot-2048-reinvention-of-the-classic-puzzle.json](./102670-shoot-2048-reinvention-of-the-classic-puzzle.json) |
+| Shoot 2nd | 97666 | [97666-shoot-2nd.json](./97666-shoot-2nd.json) |
 | Shoot 8 Ball: Billiards Pool8 | 231902 | [231902-shoot-8-ball-billiards-pool8.json](./231902-shoot-8-ball-billiards-pool8.json) |
 | Shoot Away Pro | 326742 | [326742-shoot-away-pro.json](./326742-shoot-away-pro.json) |
 | Shoot Ball Fruit Splash | 105895 | [105895-shoot-ball-fruit-splash.json](./105895-shoot-ball-fruit-splash.json) |
@@ -7386,6 +7389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoujo Minority: Nagisa Another Day | 409797 | [409797-shoujo-minority-nagisa-another-day.json](./409797-shoujo-minority-nagisa-another-day.json) |
 | Shoujo Minority: Nagusame no Ai | 194607 | [194607-shoujo-minority-nagusame-no-ai.json](./194607-shoujo-minority-nagusame-no-ai.json) |
 | Shoujo Shuryou no Suiri Ryouiki: Kogane Shima no Mitsuyaku | 153137 | [153137-shoujo-shuryou-no-suiri-ryouiki-kogane-shima-no-mitsuyaku.json](./153137-shoujo-shuryou-no-suiri-ryouiki-kogane-shima-no-mitsuyaku.json) |
+| Shoujo Taimashi Misato | 97739 | [97739-shoujo-taimashi-misato.json](./97739-shoujo-taimashi-misato.json) |
 | Should I Buy It? | 180818 | [180818-should-i-buy-it.json](./180818-should-i-buy-it.json) |
 | Should Shoot | 197714 | [197714-should-shoot.json](./197714-should-shoot.json) |
 | Should the Stars Have Eyes | 183926 | [183926-should-the-stars-have-eyes.json](./183926-should-the-stars-have-eyes.json) |
@@ -9079,6 +9083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir'Haxxx | 385709 | [385709-sirhaxxx.json](./385709-sirhaxxx.json) |
 | Sira | 61626 | [61626-sira.json](./61626-sira.json) |
 | Siralim 3 | 100422 | [100422-siralim-3.json](./100422-siralim-3.json) |
+| Siranui: Devilish obscene prison | 97763 | [97763-siranui-devilish-obscene-prison.json](./97763-siranui-devilish-obscene-prison.json) |
 | Sire Abandon | 200432 | [200432-sire-abandon.json](./200432-sire-abandon.json) |
 | Siren | 195494 | [195494-siren.json](./195494-siren.json) |
 | Siren for Hire | 182766 | [182766-siren-for-hire.json](./182766-siren-for-hire.json) |
@@ -9165,6 +9170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sitting around the world on a hot air balloon | 121576 | [121576-sitting-around-the-world-on-a-hot-air-balloon.json](./121576-sitting-around-the-world-on-a-hot-air-balloon.json) |
 | Sitting Ducks | 210727 | [210727-sitting-ducks.json](./210727-sitting-ducks.json) |
 | Sitting Ducks | 402482 | [402482-sitting-ducks.json](./402482-sitting-ducks.json) |
+| Situation Elevator | 97749 | [97749-situation-elevator.json](./97749-situation-elevator.json) |
 | Situation Normal | 236149 | [236149-situation-normal.json](./236149-situation-normal.json) |
 | Situation Outbreak | 91456 | [91456-situation-outbreak.json](./91456-situation-outbreak.json) |
 | Situation Tarfu | 249599 | [249599-situation-tarfu.json](./249599-situation-tarfu.json) |
@@ -17960,6 +17966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spunky | 307609 | [307609-spunky.json](./307609-spunky.json) |
 | Spunky: Gangster Simulator | 164993 | [164993-spunky-gangster-simulator.json](./164993-spunky-gangster-simulator.json) |
 | Sputnik | 168701 | [168701-sputnik.json](./168701-sputnik.json) |
+| Sputnik Eyes | 97757 | [97757-sputnik-eyes.json](./97757-sputnik-eyes.json) |
 | Spy 1 Lovecraftian | 289437 | [289437-spy-1-lovecraftian.json](./289437-spy-1-lovecraftian.json) |
 | Spy Against Spy | 57639 | [57639-spy-against-spy.json](./57639-spy-against-spy.json) |
 | Spy Alarm | 148572 | [148572-spy-alarm.json](./148572-spy-alarm.json) |
@@ -26171,6 +26178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Xevious | 20128 | [20128-super-xevious.json](./20128-super-xevious.json) |
 | Super Xevious: Gamp no Nazo | 184275 | [184275-super-xevious-gamp-no-nazo.json](./184275-super-xevious-gamp-no-nazo.json) |
 | Super XYX | 140036 | [140036-super-xyx.json](./140036-super-xyx.json) |
+| Super Yakyuken | 97738 | [97738-super-yakyuken.json](./97738-super-yakyuken.json) |
 | Super Yakyuu-dou | 76993 | [76993-super-yakyuu-dou.json](./76993-super-yakyuu-dou.json) |
 | Super Yakyuudou '93 - 94 Nendo Data Kaiteiban | 66198 | [66198-super-yakyuudou-93-94-nendo-data-kaiteiban.json](./66198-super-yakyuudou-93-94-nendo-data-kaiteiban.json) |
 | Super Yakyuudou 2 | 66208 | [66208-super-yakyuudou-2.json](./66208-super-yakyuudou-2.json) |
