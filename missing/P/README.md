@@ -4475,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Contract | 322588 | [322588-phoenix-contract.json](./322588-phoenix-contract.json) |
 | Phoenix Drive | 97746 | [97746-phoenix-drive.json](./97746-phoenix-drive.json) |
 | Phoenix Dust | 148671 | [148671-phoenix-dust.json](./148671-phoenix-dust.json) |
+| Phoenix Dynasty 2 | 54829 | [54829-phoenix-dynasty-2.json](./54829-phoenix-dynasty-2.json) |
 | Phoenix HD | 343984 | [343984-phoenix-hd.json](./343984-phoenix-hd.json) |
 | Phoenix Heavy | 134968 | [134968-phoenix-heavy.json](./134968-phoenix-heavy.json) |
 | Phoenix Hope | 192679 | [192679-phoenix-hope.json](./192679-phoenix-hope.json) |
@@ -6841,6 +6842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Troopers | 351752 | [351752-pixel-troopers.json](./351752-pixel-troopers.json) |
 | Pixel Trouble | 192235 | [192235-pixel-trouble.json](./192235-pixel-trouble.json) |
 | Pixel Waifu: Escape From the Dark Corporation. The Telepathic Power of a Lovestruck Otaku | 398558 | [398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json](./398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json) |
+| Pixel War | 54855 | [54855-pixel-war.json](./54855-pixel-war.json) |
 | Pixel Wars | 239600 | [239600-pixel-wars.json](./239600-pixel-wars.json) |
 | Pixel Washer | 263778 | [263778-pixel-washer.json](./263778-pixel-washer.json) |
 | Pixel Wheels | 186054 | [186054-pixel-wheels.json](./186054-pixel-wheels.json) |
@@ -8458,6 +8460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point Blank X | 243045 | [243045-point-blank-x.json](./243045-point-blank-x.json) |
 | Point Click Killer | 276092 | [276092-point-click-killer.json](./276092-point-click-killer.json) |
 | Point Click Killer: Act Two | 281333 | [281333-point-click-killer-act-two.json](./281333-point-click-killer-act-two.json) |
+| Point Connect | 54851 | [54851-point-connect.json](./54851-point-connect.json) |
 | Point Connect 2 | 55658 | [55658-point-connect-2.json](./55658-point-connect-2.json) |
 | Point Connect 3 | 55657 | [55657-point-connect-3.json](./55657-point-connect-3.json) |
 | Point Gakushuu: 10-masu Keisan | 327621 | [327621-point-gakushuu-10-masu-keisan.json](./327621-point-gakushuu-10-masu-keisan.json) |
