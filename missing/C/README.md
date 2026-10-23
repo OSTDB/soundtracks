@@ -11847,6 +11847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Trip: Deluxe Edition | 52825 | [52825-cosmic-trip-deluxe-edition.json](./52825-cosmic-trip-deluxe-edition.json) |
 | Cosmic Tunnels | 23899 | [23899-cosmic-tunnels.json](./23899-cosmic-tunnels.json) |
 | Cosmic Ultramarine | 339326 | [339326-cosmic-ultramarine.json](./339326-cosmic-ultramarine.json) |
+| Cosmic Walker | 71903 | [71903-cosmic-walker.json](./71903-cosmic-walker.json) |
 | Cosmic Wars | 48646 | [48646-cosmic-wars.json](./48646-cosmic-wars.json) |
 | Cosmic Waves | 244235 | [244235-cosmic-waves.json](./244235-cosmic-waves.json) |
 | Cosmic Worm Food | 244373 | [244373-cosmic-worm-food.json](./244373-cosmic-worm-food.json) |
@@ -16281,6 +16282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cycle Race: Road Man | 48532 | [48532-cycle-race-road-man.json](./48532-cycle-race-road-man.json) |
 | Cycle Warriors | 39828 | [39828-cycle-warriors.json](./39828-cycle-warriors.json) |
 | Cycle Warz | 93204 | [93204-cycle-warz.json](./93204-cycle-warz.json) |
+| Cyclemania | 71912 | [71912-cyclemania.json](./71912-cyclemania.json) |
 | CycleQuest | 393747 | [393747-cyclequest.json](./393747-cyclequest.json) |
 | Cycles of Aylorea | 168613 | [168613-cycles-of-aylorea.json](./168613-cycles-of-aylorea.json) |
 | Cyclic | 232660 | [232660-cyclic.json](./232660-cyclic.json) |
