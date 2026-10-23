@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-revolution | 97782 | [97782-r-revolution.json](./97782-r-revolution.json) |
 | R-Shark | 40254 | [40254-r-shark.json](./40254-r-shark.json) |
 | R-Space | 323256 | [323256-r-space.json](./323256-r-space.json) |
+| R-Tuned : Ultimate Street Racing | 91795 | [91795-r-tuned-ultimate-street-racing.json](./91795-r-tuned-ultimate-street-racing.json) |
 | R-Type | 210582 | [210582-r-type.json](./210582-r-type.json) |
 | R-Type | 260765 | [260765-r-type.json](./260765-r-type.json) |
 | R-Type | 263373 | [263373-r-type.json](./263373-r-type.json) |
@@ -1958,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayxanber III | 37591 | [37591-rayxanber-iii.json](./37591-rayxanber-iii.json) |
 | Rayze | 176902 | [176902-rayze.json](./176902-rayze.json) |
 | Raz | 107758 | [107758-raz.json](./107758-raz.json) |
+| Raze | 91688 | [91688-raze.json](./91688-raze.json) |
 | Raze 2070 | 151193 | [151193-raze-2070.json](./151193-raze-2070.json) |
 | Raze: Dungeon Arena | 52010 | [52010-raze-dungeon-arena.json](./52010-raze-dungeon-arena.json) |
 | Raze's Hell | 5999 | [5999-razes-hell.json](./5999-razes-hell.json) |
@@ -2366,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Sudoku3D | 91308 | [91308-real-sudoku3d.json](./91308-real-sudoku3d.json) |
 | Real Talk | 185342 | [185342-real-talk.json](./185342-real-talk.json) |
 | Real Tennis | 100200 | [100200-real-tennis.json](./100200-real-tennis.json) |
+| Real Tennis 2009 | 91713 | [91713-real-tennis-2009.json](./91713-real-tennis-2009.json) |
 | Real Tennis 2018 | 99104 | [99104-real-tennis-2018.json](./99104-real-tennis-2018.json) |
 | Real Time Assist Replay Time | 251243 | [251243-real-time-assist-replay-time.json](./251243-real-time-assist-replay-time.json) |
 | Real Time Attack | 290698 | [290698-real-time-attack.json](./290698-real-time-attack.json) |
@@ -2479,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of The Lieutenant | 282621 | [282621-realm-of-the-lieutenant.json](./282621-realm-of-the-lieutenant.json) |
 | Realm of the Mad God: Free Welcome Pack | 289006 | [289006-realm-of-the-mad-god-free-welcome-pack.json](./289006-realm-of-the-mad-god-free-welcome-pack.json) |
 | Realm of the Paladin: Deception's Plague | 171541 | [171541-realm-of-the-paladin-deceptions-plague.json](./171541-realm-of-the-paladin-deceptions-plague.json) |
+| Realm of the Titans | 91797 | [91797-realm-of-the-titans.json](./91797-realm-of-the-titans.json) |
 | Realm of the Undead | 273799 | [273799-realm-of-the-undead.json](./273799-realm-of-the-undead.json) |
 | Realm of Thrones | 356159 | [356159-realm-of-thrones.json](./356159-realm-of-thrones.json) |
 | Realm of Valor | 56503 | [56503-realm-of-valor.json](./56503-realm-of-valor.json) |
@@ -4691,6 +4695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Battle | 306533 | [306533-retro-battle.json](./306533-retro-battle.json) |
 | Retro Blaster: Mech Madness 1 | 274642 | [274642-retro-blaster-mech-madness-1.json](./274642-retro-blaster-mech-madness-1.json) |
 | Retro Bowl | 141684 | [141684-retro-bowl.json](./141684-retro-bowl.json) |
+| Retro Cave Flyer | 91701 | [91701-retro-cave-flyer.json](./91701-retro-cave-flyer.json) |
 | Retro City Rampage | 8063 | [8063-retro-city-rampage.json](./8063-retro-city-rampage.json) |
 | Retro City Rampage DX | 15276 | [15276-retro-city-rampage-dx.json](./15276-retro-city-rampage-dx.json) |
 | Retro Classix 2-in-1 Pack: Express Raider & Shootout | 147864 | [147864-retro-classix-2-in-1-pack-express-raider-and-shootout.json](./147864-retro-classix-2-in-1-pack-express-raider-and-shootout.json) |
@@ -8783,6 +8788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roseblight | 138554 | [138554-roseblight.json](./138554-roseblight.json) |
 | Roseline | 276831 | [276831-roseline.json](./276831-roseline.json) |
 | Rosemary | 310151 | [310151-rosemary.json](./310151-rosemary.json) |
+| Rosemary | 91829 | [91829-rosemary.json](./91829-rosemary.json) |
 | Rosemary's Fate: Chapter 1 | 163808 | [163808-rosemarys-fate-chapter-1.json](./163808-rosemarys-fate-chapter-1.json) |
 | Rosenkreuzstilette | 27181 | [27181-rosenkreuzstilette.json](./27181-rosenkreuzstilette.json) |
 | Rosenkreuzstilette Freudenstachel | 76865 | [76865-rosenkreuzstilette-freudenstachel.json](./76865-rosenkreuzstilette-freudenstachel.json) |
