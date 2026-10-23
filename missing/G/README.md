@@ -6879,6 +6879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great American Golf 2 | 45898 | [45898-great-american-golf-2.json](./45898-great-american-golf-2.json) |
 | Great Artists Steal | 118751 | [118751-great-artists-steal.json](./118751-great-artists-steal.json) |
 | Great Basketball | 46672 | [46672-great-basketball.json](./46672-great-basketball.json) |
+| Great Battle Cyber | 48479 | [48479-great-battle-cyber.json](./48479-great-battle-cyber.json) |
 | Great Battle Full Blast | 65516 | [65516-great-battle-full-blast.json](./65516-great-battle-full-blast.json) |
 | Great Battle!! Tezuka All Stars | 64266 | [64266-great-battle-tezuka-all-stars.json](./64266-great-battle-tezuka-all-stars.json) |
 | Great Battles Collector's Edition | 51830 | [51830-great-battles-collectors-edition.json](./51830-great-battles-collectors-edition.json) |
@@ -8678,6 +8679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gungriffon Blaze | 21978 | [21978-gungriffon-blaze.json](./21978-gungriffon-blaze.json) |
 | Gunheart | 36615 | [36615-gunheart.json](./36615-gunheart.json) |
 | Gunhed | 37710 | [37710-gunhed.json](./37710-gunhed.json) |
+| GunHed: Aratanaru Tatakai | 48478 | [48478-gunhed-aratanaru-tatakai.json](./48478-gunhed-aratanaru-tatakai.json) |
 | Gunhed: Taikai | 42025 | [42025-gunhed-taikai.json](./42025-gunhed-taikai.json) |
 | GunHero | 30035 | [30035-gunhero.json](./30035-gunhero.json) |
 | GunHowl | 144802 | [144802-gunhowl.json](./144802-gunhowl.json) |
