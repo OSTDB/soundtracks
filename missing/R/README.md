@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railworks Class 20 Pack DLC | 93812 | [93812-railworks-class-20-pack-dlc.json](./93812-railworks-class-20-pack-dlc.json) |
 | Railworks Class 45 Pack DLC | 93811 | [93811-railworks-class-45-pack-dlc.json](./93811-railworks-class-45-pack-dlc.json) |
 | Railworks Evening Star DLC | 93810 | [93810-railworks-evening-star-dlc.json](./93810-railworks-evening-star-dlc.json) |
+| Raimais | 98294 | [98294-raimais.json](./98294-raimais.json) |
 | Raimodula | 247463 | [247463-raimodula.json](./247463-raimodula.json) |
 | Rain | 128617 | [128617-rain.json](./128617-rain.json) |
 | Rain | 135784 | [135784-rain.json](./135784-rain.json) |
