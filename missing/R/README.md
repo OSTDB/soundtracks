@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racoonfeast | 326971 | [326971-racoonfeast.json](./326971-racoonfeast.json) |
 | Racoonie: Legend of the Spirits | 216667 | [216667-racoonie-legend-of-the-spirits.json](./216667-racoonie-legend-of-the-spirits.json) |
 | Racquet Sports | 51060 | [51060-racquet-sports.json](./51060-racquet-sports.json) |
+| Racquetball | 64813 | [64813-racquetball.json](./64813-racquetball.json) |
 | Racter | 26406 | [26406-racter.json](./26406-racter.json) |
 | Rad Blaster | 130883 | [130883-rad-blaster.json](./130883-rad-blaster.json) |
 | Rad Dude | 167668 | [167668-rad-dude.json](./167668-rad-dude.json) |
