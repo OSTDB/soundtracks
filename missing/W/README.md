@@ -2741,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Well Dweller | 360075 | [360075-well-dweller.json](./360075-well-dweller.json) |
 | Well Keeper | 368649 | [368649-well-keeper.json](./368649-well-keeper.json) |
 | Well of Lost Souls | 271788 | [271788-well-of-lost-souls.json](./271788-well-of-lost-souls.json) |
+| Well of Souls | 67091 | [67091-well-of-souls.json](./67091-well-of-souls.json) |
 | Well to Hell | 319214 | [319214-well-to-hell.json](./319214-well-to-hell.json) |
 | Well-Beings: Wellness for Kids | 192083 | [192083-well-beings-wellness-for-kids.json](./192083-well-beings-wellness-for-kids.json) |
 | Well, Fuck You Too | 352755 | [352755-well-fuck-you-too.json](./352755-well-fuck-you-too.json) |
@@ -3757,6 +3758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Tiles Master | 233743 | [233743-white-tiles-master.json](./233743-white-tiles-master.json) |
 | White Tiles: Widescreen | 91149 | [91149-white-tiles-widescreen.json](./91149-white-tiles-widescreen.json) |
 | White Trip | 174735 | [174735-white-trip.json](./174735-white-trip.json) |
+| White Van Racer | 67104 | [67104-white-van-racer.json](./67104-white-van-racer.json) |
 | White Viper | 47239 | [47239-white-viper.json](./47239-white-viper.json) |
 | White Wall | 149582 | [149582-white-wall.json](./149582-white-wall.json) |
 | White Witch | 346108 | [346108-white-witch.json](./346108-white-witch.json) |
