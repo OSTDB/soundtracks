@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nack the Weasel | 330721 | [330721-nack-the-weasel.json](./330721-nack-the-weasel.json) |
 | Nada Asatarou / Kojima Takeo no Jissen Mahjong Kyoushitsu | 228566 | [228566-nada-asatarou-kojima-takeo-no-jissen-mahjong-kyoushitsu.json](./228566-nada-asatarou-kojima-takeo-no-jissen-mahjong-kyoushitsu.json) |
 | Naddagil: A Nordic Nightmare | 314026 | [314026-naddagil-a-nordic-nightmare.json](./314026-naddagil-a-nordic-nightmare.json) |
+| Nadia Training Plan | 97726 | [97726-nadia-training-plan.json](./97726-nadia-training-plan.json) |
 | Nadia Was Here | 28491 | [28491-nadia-was-here.json](./28491-nadia-was-here.json) |
 | Nadine in: Diamond in the Grave | 279725 | [279725-nadine-in-diamond-in-the-grave.json](./279725-nadine-in-diamond-in-the-grave.json) |
 | Nadir: A Grimdark Deckbuilder | 142956 | [142956-nadir-a-grimdark-deckbuilder.json](./142956-nadir-a-grimdark-deckbuilder.json) |
@@ -598,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Uzumaki Chronicles 2 | 21231 | [21231-naruto-uzumaki-chronicles-2.json](./21231-naruto-uzumaki-chronicles-2.json) |
 | Narvas | 164895 | [164895-narvas.json](./164895-narvas.json) |
 | Narwhal Heist | 116164 | [116164-narwhal-heist.json](./116164-narwhal-heist.json) |
+| Narwhale.io | 97743 | [97743-narwhale-io.json](./97743-narwhale-io.json) |
 | NASA's Eyes | 69376 | [69376-nasas-eyes.json](./69376-nasas-eyes.json) |
 | NASB: Nitro | 202153 | [202153-nasb-nitro.json](./202153-nasb-nitro.json) |
 | NASCAR '15 | 44560 | [44560-nascar-15.json](./44560-nascar-15.json) |
@@ -1474,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neera: Dark Secrets | 79806 | [79806-neera-dark-secrets.json](./79806-neera-dark-secrets.json) |
 | Neeron: The Blade of Nature | 173005 | [173005-neeron-the-blade-of-nature.json](./173005-neeron-the-blade-of-nature.json) |
 | Neet | 207687 | [207687-neet.json](./207687-neet.json) |
+| Neet & Fairy | 97664 | [97664-neet-and-fairy.json](./97664-neet-and-fairy.json) |
 | Neet Girl Rehabilitation Plan: Guutara-ko Saisei Kikaku | 285354 | [285354-neet-girl-rehabilitation-plan-guutara-ko-saisei-kikaku.json](./285354-neet-girl-rehabilitation-plan-guutara-ko-saisei-kikaku.json) |
 | NEET Nectar's Abysmally Small Assortment | 341363 | [341363-neet-nectars-abysmally-small-assortment.json](./341363-neet-nectars-abysmally-small-assortment.json) |
 | NEET Simulator | 113768 | [113768-neet-simulator.json](./113768-neet-simulator.json) |
