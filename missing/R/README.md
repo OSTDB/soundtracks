@@ -4724,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Arcade Classics | 209194 | [209194-retro-arcade-classics.json](./209194-retro-arcade-classics.json) |
 | Retro Arcade Shooter - Attack from Pluto | 147863 | [147863-retro-arcade-shooter-attack-from-pluto.json](./147863-retro-arcade-shooter-attack-from-pluto.json) |
 | Retro Arcade Shop Simulator | 384086 | [384086-retro-arcade-shop-simulator.json](./384086-retro-arcade-shop-simulator.json) |
+| Retro Arcade Toppers | 60317 | [60317-retro-arcade-toppers.json](./60317-retro-arcade-toppers.json) |
 | Retro Arcade: Space Invaders | 220106 | [220106-retro-arcade-space-invaders.json](./220106-retro-arcade-space-invaders.json) |
 | Retro Asylum | 409559 | [409559-retro-asylum.json](./409559-retro-asylum.json) |
 | Retro Ball | 309465 | [309465-retro-ball.json](./309465-retro-ball.json) |
@@ -6469,6 +6470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritenuto | 353875 | [353875-ritenuto.json](./353875-ritenuto.json) |
 | Rites of a Mailmare | 181141 | [181141-rites-of-a-mailmare.json](./181141-rites-of-a-mailmare.json) |
 | Ritmais | 308023 | [308023-ritmais.json](./308023-ritmais.json) |
+| Ritmo | 60320 | [60320-ritmo.json](./60320-ritmo.json) |
 | Ritsu Reasoning 2 Lost Memories | 391862 | [391862-ritsu-reasoning-2-lost-memories.json](./391862-ritsu-reasoning-2-lost-memories.json) |
 | Rittai Ninja Katsugeki Tenchu: Shinobi Gaisen | 64910 | [64910-rittai-ninja-katsugeki-tenchu-shinobi-gaisen.json](./64910-rittai-ninja-katsugeki-tenchu-shinobi-gaisen.json) |
 | Rittai Ninja Katsugeki Tenchu: Shinobi Hyakusen | 64911 | [64911-rittai-ninja-katsugeki-tenchu-shinobi-hyakusen.json](./64911-rittai-ninja-katsugeki-tenchu-shinobi-hyakusen.json) |
@@ -8591,6 +8593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronaldo V-Football | 44836 | [44836-ronaldo-v-football.json](./44836-ronaldo-v-football.json) |
 | Ronaldo V-Soccer | 49885 | [49885-ronaldo-v-soccer.json](./49885-ronaldo-v-soccer.json) |
 | Ronde | 78016 | [78016-ronde.json](./78016-ronde.json) |
+| Rondo Leaflet | 60402 | [60402-rondo-leaflet.json](./60402-rondo-leaflet.json) |
 | Rondo of Swords | 21481 | [21481-rondo-of-swords.json](./21481-rondo-of-swords.json) |
 | Rondo's Romp | 422137 | [422137-rondos-romp.json](./422137-rondos-romp.json) |
 | Rong Yu Zhi Hui Guan | 283406 | [283406-rong-yu-zhi-hui-guan.json](./283406-rong-yu-zhi-hui-guan.json) |
