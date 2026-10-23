@@ -5111,6 +5111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sfera | 346923 | [346923-sfera.json](./346923-sfera.json) |
 | SFG Soccer | 66700 | [66700-sfg-soccer.json](./66700-sfg-soccer.json) |
 | Sfinx | 228956 | [228956-sfinx.json](./228956-sfinx.json) |
+| SFPD Homicide / Case File: The Body in the Bay | 78441 | [78441-sfpd-homicide-case-file-the-body-in-the-bay.json](./78441-sfpd-homicide-case-file-the-body-in-the-bay.json) |
 | Sfsim | 415868 | [415868-sfsim.json](./415868-sfsim.json) |
 | SG Racing | 207760 | [207760-sg-racing.json](./207760-sg-racing.json) |
 | SGarden | 180050 | [180050-sgarden.json](./180050-sgarden.json) |
@@ -5491,6 +5492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrain | 126588 | [126588-shadowrain.json](./126588-shadowrain.json) |
 | Shadowrite | 403712 | [403712-shadowrite.json](./403712-shadowrite.json) |
 | Shadowrun | 7640 | [7640-shadowrun.json](./7640-shadowrun.json) |
+| Shadowrun | 78514 | [78514-shadowrun.json](./78514-shadowrun.json) |
 | Shadowrun Chronicles: Boston Lockdown - Infected! | 171351 | [171351-shadowrun-chronicles-boston-lockdown-infected.json](./171351-shadowrun-chronicles-boston-lockdown-infected.json) |
 | Shadowrun Chronicles: Boston Lockdown - Missions | 193178 | [193178-shadowrun-chronicles-boston-lockdown-missions.json](./193178-shadowrun-chronicles-boston-lockdown-missions.json) |
 | Shadowrun Chronicles: Infected - Missions | 171365 | [171365-shadowrun-chronicles-infected-missions.json](./171365-shadowrun-chronicles-infected-missions.json) |
@@ -17831,6 +17833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Sports | 366371 | [366371-sports-sports.json](./366371-sports-sports.json) |
 | Sports Superbike | 43789 | [43789-sports-superbike.json](./43789-sports-superbike.json) |
 | Sports Talk Baseball | 46261 | [46261-sports-talk-baseball.json](./46261-sports-talk-baseball.json) |
+| Sports Trivia | 78439 | [78439-sports-trivia.json](./78439-sports-trivia.json) |
 | Sports Trivia: Championship Edition | 46541 | [46541-sports-trivia-championship-edition.json](./46541-sports-trivia-championship-edition.json) |
 | Sports World Tour: Penalty Challenge | 60389 | [60389-sports-world-tour-penalty-challenge.json](./60389-sports-world-tour-penalty-challenge.json) |
 | Sports: Renovations | 314456 | [314456-sports-renovations.json](./314456-sports-renovations.json) |
@@ -25799,6 +25802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Shadow Dudes | 180186 | [180186-super-shadow-dudes.json](./180186-super-shadow-dudes.json) |
 | Super Shadow of the Beast | 42453 | [42453-super-shadow-of-the-beast.json](./42453-super-shadow-of-the-beast.json) |
 | Super Shanghai: Dragon's Eye | 406085 | [406085-super-shanghai-dragons-eye.json](./406085-super-shanghai-dragons-eye.json) |
+| Super Shanghai: Dragon's Eye | 78447 | [78447-super-shanghai-dragons-eye.json](./78447-super-shanghai-dragons-eye.json) |
 | Super Shape Cascade | 268225 | [268225-super-shape-cascade.json](./268225-super-shape-cascade.json) |
 | Super Shape Shooter | 146820 | [146820-super-shape-shooter.json](./146820-super-shape-shooter.json) |
 | Super Sharp | 56309 | [56309-super-sharp.json](./56309-super-sharp.json) |
