@@ -9422,6 +9422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby League 2 | 6022 | [6022-rugby-league-2.json](./6022-rugby-league-2.json) |
 | Rugby League 26 | 355082 | [355082-rugby-league-26.json](./355082-rugby-league-26.json) |
 | Rugby League 3 | 23364 | [23364-rugby-league-3.json](./23364-rugby-league-3.json) |
+| Rugby League Challenge | 77134 | [77134-rugby-league-challenge.json](./77134-rugby-league-challenge.json) |
 | Rugby League Live | 41586 | [41586-rugby-league-live.json](./41586-rugby-league-live.json) |
 | Rugby League Live 2 | 41585 | [41585-rugby-league-live-2.json](./41585-rugby-league-live-2.json) |
 | Rugby League Live 2: Gold Edition | 197238 | [197238-rugby-league-live-2-gold-edition.json](./197238-rugby-league-live-2-gold-edition.json) |
