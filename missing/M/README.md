@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maggot Face | 229768 | [229768-maggot-face.json](./229768-maggot-face.json) |
 | Maggotmania | 109041 | [109041-maggotmania.json](./109041-maggotmania.json) |
 | Magi Death Fight: Mahou Gakuen | 58878 | [58878-magi-death-fight-mahou-gakuen.json](./58878-magi-death-fight-mahou-gakuen.json) |
+| Magi Nation | 49708 | [49708-magi-nation.json](./49708-magi-nation.json) |
 | Magi Trials | 33449 | [33449-magi-trials.json](./33449-magi-trials.json) |
 | Magi: Aratanaru Sekai | 222480 | [222480-magi-aratanaru-sekai.json](./222480-magi-aratanaru-sekai.json) |
 | Magi: Hajimari no Meikyuu | 191666 | [191666-magi-hajimari-no-meikyuu.json](./191666-magi-hajimari-no-meikyuu.json) |
@@ -1205,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Hat | 137515 | [137515-magical-hat.json](./137515-magical-hat.json) |
 | Magical Hike | 264592 | [264592-magical-hike.json](./264592-magical-hike.json) |
 | Magical Houshin | 248471 | [248471-magical-houshin.json](./248471-magical-houshin.json) |
+| Magical Houshin | 49707 | [49707-magical-houshin.json](./49707-magical-houshin.json) |
 | Magical Jewelry | 48670 | [48670-magical-jewelry.json](./48670-magical-jewelry.json) |
 | Magical Journey | 196482 | [196482-magical-journey.json](./196482-magical-journey.json) |
 | Magical Kids Doropie | 48333 | [48333-magical-kids-doropie.json](./48333-magical-kids-doropie.json) |
@@ -1537,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Jo-ou | 228609 | [228609-mahjong-jo-ou.json](./228609-mahjong-jo-ou.json) |
 | Mahjong Journey: Quest for Tikal | 175921 | [175921-mahjong-journey-quest-for-tikal.json](./175921-mahjong-journey-quest-for-tikal.json) |
 | Mahjong Kazoku | 41364 | [41364-mahjong-kazoku.json](./41364-mahjong-kazoku.json) |
+| Mahjong Keiji | 49706 | [49706-mahjong-keiji.json](./49706-mahjong-keiji.json) |
 | Mahjong Kuru Jidai: AV Gal Seifukuhen | 254452 | [254452-mahjong-kuru-jidai-av-gal-seifukuhen.json](./254452-mahjong-kuru-jidai-av-gal-seifukuhen.json) |
 | Mahjong Kyo Retsuden | 75450 | [75450-mahjong-kyo-retsuden.json](./75450-mahjong-kyo-retsuden.json) |
 | Mahjong Kyoushitsu | 130623 | [130623-mahjong-kyoushitsu.json](./130623-mahjong-kyoushitsu.json) |
@@ -1744,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maigo no Koneko-chan | 276472 | [276472-maigo-no-koneko-chan.json](./276472-maigo-no-koneko-chan.json) |
 | Maihon: The Impossible Jewel Stacking Puzzle Game | 116462 | [116462-maihon-the-impossible-jewel-stacking-puzzle-game.json](./116462-maihon-the-impossible-jewel-stacking-puzzle-game.json) |
 | Maikuro: Ore ga Watashi de Boku ga Atashi de | 417607 | [417607-maikuro-ore-ga-watashi-de-boku-ga-atashi-de.json](./417607-maikuro-ore-ga-watashi-de-boku-ga-atashi-de.json) |
+| Mail de Cute | 49703 | [49703-mail-de-cute.json](./49703-mail-de-cute.json) |
 | Mail Mares | 404344 | [404344-mail-mares.json](./404344-mail-mares.json) |
 | Mail Mole | 132540 | [132540-mail-mole.json](./132540-mail-mole.json) |
 | Mail Mole + Expansions Bundle | 238186 | [238186-mail-mole-expansions-bundle.json](./238186-mail-mole-expansions-bundle.json) |
@@ -1884,6 +1888,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majo no Furo Life | 265640 | [265640-majo-no-furo-life.json](./265640-majo-no-furo-life.json) |
 | Majo'ou | 218950 | [218950-majoou.json](./218950-majoou.json) |
 | Majogami | 354209 | [354209-majogami.json](./354209-majogami.json) |
+| Majokko Cream-Chan Gokko Series 1: Wan Nyon Idol Gakuen | 49702 | [49702-majokko-cream-chan-gokko-series-1-wan-nyon-idol-gakuen.json](./49702-majokko-cream-chan-gokko-series-1-wan-nyon-idol-gakuen.json) |
+| Majokko Cream-Chan Gokko Series 2: Kisekae Angel | 49701 | [49701-majokko-cream-chan-gokko-series-2-kisekae-angel.json](./49701-majokko-cream-chan-gokko-series-2-kisekae-angel.json) |
 | Majoneko | 252398 | [252398-majoneko.json](./252398-majoneko.json) |
 | Majong | 138732 | [138732-majong.json](./138732-majong.json) |
 | Majong | 195047 | [195047-majong.json](./195047-majong.json) |
@@ -2399,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manga Ninja | 358432 | [358432-manga-ninja.json](./358432-manga-ninja.json) |
 | Manga Solitaire | 73844 | [73844-manga-solitaire.json](./73844-manga-solitaire.json) |
 | Manga-Ka Debut Monogatari DS: Akogare! Manga Ka Ikusei Game | 261105 | [261105-manga-ka-debut-monogatari-ds-akogare-manga-ka-ikusei-game.json](./261105-manga-ka-debut-monogatari-ds-akogare-manga-ka-ikusei-game.json) |
+| Manga-ka Debut Monogatari: Akogare! Manga Ka Ikusei Game! | 49700 | [49700-manga-ka-debut-monogatari-akogare-manga-ka-ikusei-game.json](./49700-manga-ka-debut-monogatari-akogare-manga-ka-ikusei-game.json) |
 | Manga-ka Debut Monogatari: Suteki na Manga wo Egakou | 222393 | [222393-manga-ka-debut-monogatari-suteki-na-manga-wo-egakou.json](./222393-manga-ka-debut-monogatari-suteki-na-manga-wo-egakou.json) |
 | Mangadle | 374286 | [374286-mangadle.json](./374286-mangadle.json) |
 | Mangaka Dream | 229734 | [229734-mangaka-dream.json](./229734-mangaka-dream.json) |
@@ -4295,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mata Yume no Naka de | 205239 | [205239-mata-yume-no-naka-de.json](./205239-mata-yume-no-naka-de.json) |
 | Mata, Itsuka. | 201309 | [201309-mata-itsuka.json](./201309-mata-itsuka.json) |
 | Matadouro: Grindhouse | 283395 | [283395-matadouro-grindhouse.json](./283395-matadouro-grindhouse.json) |
+| Matantei Loki Ragnarok: Gensou no Labyrinth | 49698 | [49698-matantei-loki-ragnarok-gensou-no-labyrinth.json](./49698-matantei-loki-ragnarok-gensou-no-labyrinth.json) |
 | Matar Gente Rica de Skate | 281254 | [281254-matar-gente-rica-de-skate.json](./281254-matar-gente-rica-de-skate.json) |
 | Match | 119019 | [119019-match.json](./119019-match.json) |
 | Match | 313532 | [313532-match.json](./313532-match.json) |
@@ -5579,6 +5587,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot Kabuto Version | 55145 | [55145-medarot-kabuto-version.json](./55145-medarot-kabuto-version.json) |
 | Medarot Kabuto/Kuwagata | 91529 | [91529-medarot-kabuto-kuwagata.json](./91529-medarot-kabuto-kuwagata.json) |
 | Medarot Kuwagata Version | 55144 | [55144-medarot-kuwagata-version.json](./55144-medarot-kuwagata-version.json) |
+| Medarot Navi: Kabuto Version | 49697 | [49697-medarot-navi-kabuto-version.json](./49697-medarot-navi-kabuto-version.json) |
+| Medarot Navi: Kuwagata Version | 49696 | [49696-medarot-navi-kuwagata-version.json](./49696-medarot-navi-kuwagata-version.json) |
 | Medarot Parts Collection | 92533 | [92533-medarot-parts-collection.json](./92533-medarot-parts-collection.json) |
 | Medarot Parts Collection 2 | 92534 | [92534-medarot-parts-collection-2.json](./92534-medarot-parts-collection-2.json) |
 | Medarot R | 92425 | [92425-medarot-r.json](./92425-medarot-r.json) |
@@ -10505,7 +10515,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna no Othello | 217925 | [217925-minna-no-othello.json](./217925-minna-no-othello.json) |
 | Minna no Radio Controlled GP | 165435 | [165435-minna-no-radio-controlled-gp.json](./165435-minna-no-radio-controlled-gp.json) |
 | Minna no Radio Controlled GP + Variety Set | 165434 | [165434-minna-no-radio-controlled-gp-variety-set.json](./165434-minna-no-radio-controlled-gp-variety-set.json) |
+| Minna no Shiiku Series 1: Boku no Kabuto Mushi | 49730 | [49730-minna-no-shiiku-series-1-boku-no-kabuto-mushi.json](./49730-minna-no-shiiku-series-1-boku-no-kabuto-mushi.json) |
+| Minna no Shiiku Series 2: Boku no Kuwagata | 49732 | [49732-minna-no-shiiku-series-2-boku-no-kuwagata.json](./49732-minna-no-shiiku-series-2-boku-no-kuwagata.json) |
+| Minna no Shiiku Series: Boku no Kabuto - Kuwagata | 49731 | [49731-minna-no-shiiku-series-boku-no-kabuto-kuwagata.json](./49731-minna-no-shiiku-series-boku-no-kabuto-kuwagata.json) |
 | Minna no Shogi: Shokyuu-hen | 282231 | [282231-minna-no-shogi-shokyuu-hen.json](./282231-minna-no-shogi-shokyuu-hen.json) |
+| Minna no Soft Series: Happy Trump 20 | 49729 | [49729-minna-no-soft-series-happy-trump-20.json](./49729-minna-no-soft-series-happy-trump-20.json) |
+| Minna no Soft Series: Hyokkori Hyoutan-jima | 49728 | [49728-minna-no-soft-series-hyokkori-hyoutan-jima.json](./49728-minna-no-soft-series-hyokkori-hyoutan-jima.json) |
+| Minna no Soft Series: Minna no Mahjong | 49727 | [49727-minna-no-soft-series-minna-no-mahjong.json](./49727-minna-no-soft-series-minna-no-mahjong.json) |
+| Minna no Soft Series: Minna no Shogi | 49726 | [49726-minna-no-soft-series-minna-no-shogi.json](./49726-minna-no-soft-series-minna-no-shogi.json) |
+| Minna no Soft Series: Shanghai | 49725 | [49725-minna-no-soft-series-shanghai.json](./49725-minna-no-soft-series-shanghai.json) |
+| Minna no Soft Series: Tetris Advance | 49724 | [49724-minna-no-soft-series-tetris-advance.json](./49724-minna-no-soft-series-tetris-advance.json) |
 | Minna no Sokoban | 121416 | [121416-minna-no-sokoban.json](./121416-minna-no-sokoban.json) |
 | Minna no Tabou no Nakayoshi Daisakusen | 48628 | [48628-minna-no-tabou-no-nakayoshi-daisakusen.json](./48628-minna-no-tabou-no-nakayoshi-daisakusen.json) |
 | Minna no Tetris | 218532 | [218532-minna-no-tetris.json](./218532-minna-no-tetris.json) |
@@ -10622,6 +10641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Tunes! Game de Tune Up! Da Pun! | 222544 | [222544-miracle-tunes-game-de-tune-up-da-pun.json](./222544-miracle-tunes-game-de-tune-up-da-pun.json) |
 | Miracle Warrior of Mountains and Seas | 153345 | [153345-miracle-warrior-of-mountains-and-seas.json](./153345-miracle-warrior-of-mountains-and-seas.json) |
 | Miracle Warriors: Seal of the Dark Lord | 47526 | [47526-miracle-warriors-seal-of-the-dark-lord.json](./47526-miracle-warriors-seal-of-the-dark-lord.json) |
+| Miracle! Panzou: 7-tsu no Hoshi no Uchuu Kaizoku | 49723 | [49723-miracle-panzou-7-tsu-no-hoshi-no-uchuu-kaizoku.json](./49723-miracle-panzou-7-tsu-no-hoshi-no-uchuu-kaizoku.json) |
 | Miraculo Island | 192612 | [192612-miraculo-island.json](./192612-miraculo-island.json) |
 | Miraculous Fall | 336682 | [336682-miraculous-fall.json](./336682-miraculous-fall.json) |
 | Miraculous Ladybug & Cat Noir | 99322 | [99322-miraculous-ladybug-and-cat-noir.json](./99322-miraculous-ladybug-and-cat-noir.json) |
@@ -11438,6 +11458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Murder Mystery | 370691 | [370691-mobile-murder-mystery.json](./370691-mobile-murder-mystery.json) |
 | Mobile Phase 10 | 243277 | [243277-mobile-phase-10.json](./243277-mobile-phase-10.json) |
 | Mobile Police Officer Earth Gumble | 351581 | [351581-mobile-police-officer-earth-gumble.json](./351581-mobile-police-officer-earth-gumble.json) |
+| Mobile Pro Yakyuu: Kantoku no Saihai | 49722 | [49722-mobile-pro-yakyuu-kantoku-no-saihai.json](./49722-mobile-pro-yakyuu-kantoku-no-saihai.json) |
 | Mobile Quest GB | 304098 | [304098-mobile-quest-gb.json](./304098-mobile-quest-gb.json) |
 | Mobile Royale | 125887 | [125887-mobile-royale.json](./125887-mobile-royale.json) |
 | Mobile Soldiers: Plastic Army | 369639 | [369639-mobile-soldiers-plastic-army.json](./369639-mobile-soldiers-plastic-army.json) |
@@ -11737,6 +11758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moero Downhill Night | 331458 | [331458-moero-downhill-night.json](./331458-moero-downhill-night.json) |
 | Moero Downhill Night 2 | 335720 | [335720-moero-downhill-night-2.json](./335720-moero-downhill-night-2.json) |
 | Moero! Power Dodge | 385559 | [385559-moero-power-dodge.json](./385559-moero-power-dodge.json) |
+| Moero!! Jaleco Collection | 49721 | [49721-moero-jaleco-collection.json](./49721-moero-jaleco-collection.json) |
 | Moero!! Nettou Yakyuu '88 | 59990 | [59990-moero-nettou-yakyuu-88.json](./59990-moero-nettou-yakyuu-88.json) |
 | Moero!! Pro Yakyuu 2016 | 218985 | [218985-moero-pro-yakyuu-2016.json](./218985-moero-pro-yakyuu-2016.json) |
 | Moero!! Pro Yakyuu Homerun Kyousou | 40387 | [40387-moero-pro-yakyuu-homerun-kyousou.json](./40387-moero-pro-yakyuu-homerun-kyousou.json) |
@@ -11967,6 +11989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momotaro Dentetsu 7 | 64410 | [64410-momotaro-dentetsu-7.json](./64410-momotaro-dentetsu-7.json) |
 | Momotaro Dentetsu Chubu | 186771 | [186771-momotaro-dentetsu-chubu.json](./186771-momotaro-dentetsu-chubu.json) |
 | Momotaro Dentetsu DS: Tokyo & Japan | 64419 | [64419-momotaro-dentetsu-ds-tokyo-and-japan.json](./64419-momotaro-dentetsu-ds-tokyo-and-japan.json) |
+| Momotaro Dentetsu G: Gold Deck wo Tsukure! | 49720 | [49720-momotaro-dentetsu-g-gold-deck-wo-tsukure.json](./49720-momotaro-dentetsu-g-gold-deck-wo-tsukure.json) |
 | Momotaro Dentetsu Happy | 37923 | [37923-momotaro-dentetsu-happy.json](./37923-momotaro-dentetsu-happy.json) |
 | Momotaro Dentetsu Hokkaido | 186777 | [186777-momotaro-dentetsu-hokkaido.json](./186777-momotaro-dentetsu-hokkaido.json) |
 | Momotaro Dentetsu Japan | 186769 | [186769-momotaro-dentetsu-japan.json](./186769-momotaro-dentetsu-japan.json) |
@@ -11990,6 +12013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momotaro Dentetsu: 20 Shuunen | 64420 | [64420-momotaro-dentetsu-20-shuunen.json](./64420-momotaro-dentetsu-20-shuunen.json) |
 | Momotaro Dentetsu: Showa, Heisei, Reiwa mo Teiban! | 122290 | [122290-momotaro-dentetsu-showa-heisei-reiwa-mo-teiban.json](./122290-momotaro-dentetsu-showa-heisei-reiwa-mo-teiban.json) |
 | Momotaro Douchuuki | 64421 | [64421-momotaro-douchuuki.json](./64421-momotaro-douchuuki.json) |
+| Momotaro Matsuri | 49719 | [49719-momotaro-matsuri.json](./49719-momotaro-matsuri.json) |
 | Momotaro Matsuri: Ishikawa Rokuemon no Maki | 64407 | [64407-momotaro-matsuri-ishikawa-rokuemon-no-maki.json](./64407-momotaro-matsuri-ishikawa-rokuemon-no-maki.json) |
 | Momotaro no Onigashima Kouryaku-sen: Kaguya-hime wo Sukuidase!!! | 349410 | [349410-momotaro-no-onigashima-kouryaku-sen-kaguya-hime-wo-sukuidase.json](./349410-momotaro-no-onigashima-kouryaku-sen-kaguya-hime-wo-sukuidase.json) |
 | Momotaro Thunderbolt 2 | 64422 | [64422-momotaro-thunderbolt-2.json](./64422-momotaro-thunderbolt-2.json) |
@@ -12474,6 +12498,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Gals: Voyage | 373100 | [373100-monster-gals-voyage.json](./373100-monster-gals-voyage.json) |
 | Monster Garage | 76139 | [76139-monster-garage.json](./76139-monster-garage.json) |
 | Monster Garden | 75026 | [75026-monster-garden.json](./75026-monster-garden.json) |
+| Monster Gate | 49717 | [49717-monster-gate.json](./49717-monster-gate.json) |
+| Monster Gate: Ooinaru Dungeon - Fuuin no Orb | 49718 | [49718-monster-gate-ooinaru-dungeon-fuuin-no-orb.json](./49718-monster-gate-ooinaru-dungeon-fuuin-no-orb.json) |
 | Monster Girl * Fusion | 82764 | [82764-monster-girl-fusion.json](./82764-monster-girl-fusion.json) |
 | Monster Girl 1,000 | 243531 | [243531-monster-girl-1-000.json](./243531-monster-girl-1-000.json) |
 | Monster Girl 2 | 237291 | [237291-monster-girl-2.json](./237291-monster-girl-2.json) |
@@ -12496,6 +12522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girls: the Advent | 182733 | [182733-monster-girls-the-advent.json](./182733-monster-girls-the-advent.json) |
 | Monster Girls: You Can't Say No | 415164 | [415164-monster-girls-you-cant-say-no.json](./415164-monster-girls-you-cant-say-no.json) |
 | Monster Grid | 341331 | [341331-monster-grid.json](./341331-monster-grid.json) |
+| Monster Guardians | 49716 | [49716-monster-guardians.json](./49716-monster-guardians.json) |
 | Monster Hatcher | 406920 | [406920-monster-hatcher.json](./406920-monster-hatcher.json) |
 | Monster Haven | 315708 | [315708-monster-haven.json](./315708-monster-haven.json) |
 | Monster Heart | 229929 | [229929-monster-heart.json](./229929-monster-heart.json) |
@@ -12660,6 +12687,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Madness Online | 62533 | [62533-monster-madness-online.json](./62533-monster-madness-online.json) |
 | Monster Maker | 220645 | [220645-monster-maker.json](./220645-monster-maker.json) |
 | Monster Maker | 418581 | [418581-monster-maker.json](./418581-monster-maker.json) |
+| Monster Maker 4: Flash Card | 49715 | [49715-monster-maker-4-flash-card.json](./49715-monster-maker-4-flash-card.json) |
+| Monster Maker 4: Killer Dice | 49714 | [49714-monster-maker-4-killer-dice.json](./49714-monster-maker-4-killer-dice.json) |
 | Monster Maker III: Hikari no Majutsushi | 37922 | [37922-monster-maker-iii-hikari-no-majutsushi.json](./37922-monster-maker-iii-hikari-no-majutsushi.json) |
 | Monster Maker Kids | 37921 | [37921-monster-maker-kids.json](./37921-monster-maker-kids.json) |
 | Monster Maker: Yami no Ryuukishi | 63878 | [63878-monster-maker-yami-no-ryuukishi.json](./63878-monster-maker-yami-no-ryuukishi.json) |
@@ -12795,6 +12824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Storm Apoiion | 108609 | [108609-monster-storm-apoiion.json](./108609-monster-storm-apoiion.json) |
 | Monster Strike | 19166 | [19166-monster-strike.json](./19166-monster-strike.json) |
 | Monster Stunts | 197677 | [197677-monster-stunts.json](./197677-monster-stunts.json) |
+| Monster Summoner | 49713 | [49713-monster-summoner.json](./49713-monster-summoner.json) |
 | Monster Super League | 80238 | [80238-monster-super-league.json](./80238-monster-super-league.json) |
 | Monster Survivor | 259712 | [259712-monster-survivor.json](./259712-monster-survivor.json) |
 | Monster Survivors | 246626 | [246626-monster-survivors.json](./246626-monster-survivors.json) |
@@ -13507,6 +13537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morinaga Pac-Man mini | 219448 | [219448-morinaga-pac-man-mini.json](./219448-morinaga-pac-man-mini.json) |
 | Morita Kazuo no Shogi | 48817 | [48817-morita-kazuo-no-shogi.json](./48817-morita-kazuo-no-shogi.json) |
 | Morita Shogi 64 | 3543 | [3543-morita-shogi-64.json](./3543-morita-shogi-64.json) |
+| Morita Shogi Advance | 49712 | [49712-morita-shogi-advance.json](./49712-morita-shogi-advance.json) |
 | Morita Shogi PC | 37672 | [37672-morita-shogi-pc.json](./37672-morita-shogi-pc.json) |
 | Morituria | 347798 | [347798-morituria.json](./347798-morituria.json) |
 | Moriya Rhythm Rainbow | 214937 | [214937-moriya-rhythm-rainbow.json](./214937-moriya-rhythm-rainbow.json) |
@@ -15053,6 +15084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugen Souls Z | 11503 | [11503-mugen-souls-z.json](./11503-mugen-souls-z.json) |
 | Mugen Sweeper | 256910 | [256910-mugen-sweeper.json](./256910-mugen-sweeper.json) |
 | Mugen Yakou | 378004 | [378004-mugen-yakou.json](./378004-mugen-yakou.json) |
+| Mugenborg | 49710 | [49710-mugenborg.json](./49710-mugenborg.json) |
 | MugenCards | 200698 | [200698-mugencards.json](./200698-mugencards.json) |
 | Mugengikyou: First Disaster | 301352 | [301352-mugengikyou-first-disaster.json](./301352-mugengikyou-first-disaster.json) |
 | Mugengikyou: Second Departure | 301356 | [301356-mugengikyou-second-departure.json](./301356-mugengikyou-second-departure.json) |
@@ -15742,6 +15774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MutoReRe | 85975 | [85975-mutorere.json](./85975-mutorere.json) |
 | Mutrix | 253449 | [253449-mutrix.json](./253449-mutrix.json) |
 | Mutsu Tonohohon | 4023 | [4023-mutsu-tonohohon.json](./4023-mutsu-tonohohon.json) |
+| Mutsu: Water Looper Mutsu | 49709 | [49709-mutsu-water-looper-mutsu.json](./49709-mutsu-water-looper-mutsu.json) |
 | Mutton | 384882 | [384882-mutton.json](./384882-mutton.json) |
 | Mutton for Punishment 3 | 253269 | [253269-mutton-for-punishment-3.json](./253269-mutton-for-punishment-3.json) |
 | Mutual Assured Destruction Simulator | 326389 | [326389-mutual-assured-destruction-simulator.json](./326389-mutual-assured-destruction-simulator.json) |
