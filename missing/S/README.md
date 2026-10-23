@@ -11481,6 +11481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Against Squirrel | 40696 | [40696-snail-against-squirrel.json](./40696-snail-against-squirrel.json) |
 | Snail Bob | 88162 | [88162-snail-bob.json](./88162-snail-bob.json) |
 | Snail Bob 2 | 213637 | [213637-snail-bob-2.json](./213637-snail-bob-2.json) |
+| Snail Bob 2 Deluxe | 96554 | [96554-snail-bob-2-deluxe.json](./96554-snail-bob-2-deluxe.json) |
 | Snail Bob 3: Egypt Journey | 213638 | [213638-snail-bob-3-egypt-journey.json](./213638-snail-bob-3-egypt-journey.json) |
 | Snail Bob 4: Space | 248186 | [248186-snail-bob-4-space.json](./248186-snail-bob-4-space.json) |
 | Snail Bob 5: Love Story | 248187 | [248187-snail-bob-5-love-story.json](./248187-snail-bob-5-love-story.json) |
@@ -11716,6 +11717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snarf | 94686 | [94686-snarf.json](./94686-snarf.json) |
 | SnarfQuest Tales, Episode 1: The Beginning | 32689 | [32689-snarfquest-tales-episode-1-the-beginning.json](./32689-snarfquest-tales-episode-1-the-beginning.json) |
 | Snark Busters Trilogy | 53639 | [53639-snark-busters-trilogy.json](./53639-snark-busters-trilogy.json) |
+| Snark Busters: All Revved Up | 96592 | [96592-snark-busters-all-revved-up.json](./96592-snark-busters-all-revved-up.json) |
 | Snarl | 396583 | [396583-snarl.json](./396583-snarl.json) |
 | Snatch Squad | 365686 | [365686-snatch-squad.json](./365686-snatch-squad.json) |
 | Snatched | 302822 | [302822-snatched.json](./302822-snatched.json) |
@@ -25327,6 +25329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkie Bounce Fatal | 252809 | [252809-super-monkie-bounce-fatal.json](./252809-super-monkie-bounce-fatal.json) |
 | Super Monster | 101108 | [101108-super-monster.json](./101108-super-monster.json) |
 | Super Monster Bros by Adventure Time Pocket Free Games | 25017 | [25017-super-monster-bros-by-adventure-time-pocket-free-games.json](./25017-super-monster-bros-by-adventure-time-pocket-free-games.json) |
+| Super Monster-Legend | 96567 | [96567-super-monster-legend.json](./96567-super-monster-legend.json) |
 | Super Monsters | 295015 | [295015-super-monsters.json](./295015-super-monsters.json) |
 | Super Monsters Ate My Condo | 296801 | [296801-super-monsters-ate-my-condo.json](./296801-super-monsters-ate-my-condo.json) |
 | Super Monsters Ate My Condo+ | 296199 | [296199-super-monsters-ate-my-condo.json](./296199-super-monsters-ate-my-condo.json) |
@@ -27260,6 +27263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarm Hunter | 345557 | [345557-swarm-hunter.json](./345557-swarm-hunter.json) |
 | Swarm Me | 374722 | [374722-swarm-me.json](./374722-swarm-me.json) |
 | Swarm Queen | 68837 | [68837-swarm-queen.json](./68837-swarm-queen.json) |
+| Swarm Simulator: Evolution | 96588 | [96588-swarm-simulator-evolution.json](./96588-swarm-simulator-evolution.json) |
 | Swarm Survivor: Endless Siege | 391630 | [391630-swarm-survivor-endless-siege.json](./391630-swarm-survivor-endless-siege.json) |
 | Swarm Sweeper | 351604 | [351604-swarm-sweeper.json](./351604-swarm-sweeper.json) |
 | Swarm the City | 152391 | [152391-swarm-the-city.json](./152391-swarm-the-city.json) |
