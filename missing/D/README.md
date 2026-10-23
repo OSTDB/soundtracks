@@ -2214,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DawnOfCombat | 260630 | [260630-dawnofcombat.json](./260630-dawnofcombat.json) |
 | Dawnsbury Days | 278910 | [278910-dawnsbury-days.json](./278910-dawnsbury-days.json) |
 | Dawnspire: Prelude | 70476 | [70476-dawnspire-prelude.json](./70476-dawnspire-prelude.json) |
+| Dawnssley | 92883 | [92883-dawnssley.json](./92883-dawnssley.json) |
 | Dawntide | 204977 | [204977-dawntide.json](./204977-dawntide.json) |
 | Dawntide | 74281 | [74281-dawntide.json](./74281-dawntide.json) |
 | Dawntown | 301341 | [301341-dawntown.json](./301341-dawntown.json) |
@@ -10346,6 +10347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door | 103457 | [103457-door.json](./103457-door.json) |
 | Door 2: Key | 123850 | [123850-door-2-key.json](./123850-door-2-key.json) |
 | Door 2: Key - Path to Heaven | 171586 | [171586-door-2-key-path-to-heaven.json](./171586-door-2-key-path-to-heaven.json) |
+| Door Door | 92904 | [92904-door-door.json](./92904-door-door.json) |
 | Door Game Deluxe | 331085 | [331085-door-game-deluxe.json](./331085-door-game-deluxe.json) |
 | Door Knocker | 122336 | [122336-door-knocker.json](./122336-door-knocker.json) |
 | Door of Perception | 251055 | [251055-door-of-perception.json](./251055-door-of-perception.json) |
