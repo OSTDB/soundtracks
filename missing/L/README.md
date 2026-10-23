@@ -2672,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leisure Suit Larry 6: Shape Up or Slip Out! | 2911 | [2911-leisure-suit-larry-6-shape-up-or-slip-out.json](./2911-leisure-suit-larry-6-shape-up-or-slip-out.json) |
 | Leisure Suit Larry in the Land of the Lounge Lizards | 2906 | [2906-leisure-suit-larry-in-the-land-of-the-lounge-lizards.json](./2906-leisure-suit-larry-in-the-land-of-the-lounge-lizards.json) |
 | Leisure Suit Larry: Box Office Bust | 2914 | [2914-leisure-suit-larry-box-office-bust.json](./2914-leisure-suit-larry-box-office-bust.json) |
+| Leisure Suit Larry: Greatest Hits and Misses | 50324 | [50324-leisure-suit-larry-greatest-hits-and-misses.json](./50324-leisure-suit-larry-greatest-hits-and-misses.json) |
 | Leisure Suit Larry: Kühle Drinks und Heiße Girls | 85980 | [85980-leisure-suit-larry-kuhle-drinks-und-hei-e-girls.json](./85980-leisure-suit-larry-kuhle-drinks-und-hei-e-girls.json) |
 | Leisure Suit Larry: Love for Sail | 221838 | [221838-leisure-suit-larry-love-for-sail.json](./221838-leisure-suit-larry-love-for-sail.json) |
 | Leisure Suit Larry: Love for Sail! | 2912 | [2912-leisure-suit-larry-love-for-sail.json](./2912-leisure-suit-larry-love-for-sail.json) |
@@ -5130,6 +5131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Livid Meadow | 271209 | [271209-livid-meadow.json](./271209-livid-meadow.json) |
 | Living Art | 195555 | [195555-living-art.json](./195555-living-art.json) |
 | Living Ball | 93409 | [93409-living-ball.json](./93409-living-ball.json) |
+| Living Books: Aesop's The Tortoise and the Hare | 50282 | [50282-living-books-aesops-the-tortoise-and-the-hare.json](./50282-living-books-aesops-the-tortoise-and-the-hare.json) |
 | Living Books: Arthur's Birthday | 134330 | [134330-living-books-arthurs-birthday.json](./134330-living-books-arthurs-birthday.json) |
 | Living Books: Arthur's Computer Adventure | 134339 | [134339-living-books-arthurs-computer-adventure.json](./134339-living-books-arthurs-computer-adventure.json) |
 | Living Books: Arthur's Reading Race | 144031 | [144031-living-books-arthurs-reading-race.json](./144031-living-books-arthurs-reading-race.json) |
