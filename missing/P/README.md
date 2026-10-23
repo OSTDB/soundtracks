@@ -3588,6 +3588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perimbó | 349431 | [349431-perimbo.json](./349431-perimbo.json) |
 | Perimeter | 397689 | [397689-perimeter.json](./397689-perimeter.json) |
 | Perimeter: Emperor's Testament | 10692 | [10692-perimeter-emperors-testament.json](./10692-perimeter-emperors-testament.json) |
+| Period Cube: Shackles of Amadeus | 59160 | [59160-period-cube-shackles-of-amadeus.json](./59160-period-cube-shackles-of-amadeus.json) |
 | Period. The Game | 140546 | [140546-period-the-game.json](./140546-period-the-game.json) |
 | Periodic Deliveries | 127266 | [127266-periodic-deliveries.json](./127266-periodic-deliveries.json) |
 | Periodic Lottery | 403192 | [403192-periodic-lottery.json](./403192-periodic-lottery.json) |
@@ -8922,6 +8923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Masters EX | 144248 | [144248-pokemon-masters-ex.json](./144248-pokemon-masters-ex.json) |
 | Pokemon Masters Stadium | 367553 | [367553-pokemon-masters-stadium.json](./367553-pokemon-masters-stadium.json) |
 | Pokémon Mega Evolution Aquamarine | 300428 | [300428-pokemon-mega-evolution-aquamarine.json](./300428-pokemon-mega-evolution-aquamarine.json) |
+| Pokémon Mega Get! | 59116 | [59116-pokemon-mega-get.json](./59116-pokemon-mega-get.json) |
 | Pokémon Mezastar | 253787 | [253787-pokemon-mezastar.json](./253787-pokemon-mezastar.json) |
 | Pokémon Mini: Snorlax's Lunch Time | 144721 | [144721-pokemon-mini-snorlaxs-lunch-time.json](./144721-pokemon-mini-snorlaxs-lunch-time.json) |
 | Pokémon Mino | 265214 | [265214-pokemon-mino.json](./265214-pokemon-mino.json) |
@@ -9429,6 +9431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Heroes | 240666 | [240666-police-heroes.json](./240666-police-heroes.json) |
 | Police Hot Pursuit | 193239 | [193239-police-hot-pursuit.json](./193239-police-hot-pursuit.json) |
 | Police hot Tale | 168594 | [168594-police-hot-tale.json](./168594-police-hot-tale.json) |
+| Police Infinity | 59292 | [59292-police-infinity.json](./59292-police-infinity.json) |
 | Police Monster Drift | 147238 | [147238-police-monster-drift.json](./147238-police-monster-drift.json) |
 | Police Officer | 415218 | [415218-police-officer.json](./415218-police-officer.json) |
 | Police on Duty | 209656 | [209656-police-on-duty.json](./209656-police-on-duty.json) |
@@ -10660,6 +10663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Crisis | 332860 | [332860-power-crisis.json](./332860-power-crisis.json) |
 | Power Defence | 53470 | [53470-power-defence.json](./53470-power-defence.json) |
 | Power Diggerz | 22052 | [22052-power-diggerz.json](./22052-power-diggerz.json) |
+| Power Disc Slam | 59291 | [59291-power-disc-slam.json](./59291-power-disc-slam.json) |
 | Power Dolls 1 | 228982 | [228982-power-dolls-1.json](./228982-power-dolls-1.json) |
 | Power Dolls 2 Dash | 228976 | [228976-power-dolls-2-dash.json](./228976-power-dolls-2-dash.json) |
 | Power Dolls 3 | 228977 | [228977-power-dolls-3.json](./228977-power-dolls-3.json) |
