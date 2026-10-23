@@ -3124,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Your Gender? | 175790 | [175790-whats-your-gender.json](./175790-whats-your-gender.json) |
 | What's Your Hidden Power? | 206647 | [206647-whats-your-hidden-power.json](./206647-whats-your-hidden-power.json) |
 | What's Your Sign? | 74714 | [74714-whats-your-sign.json](./74714-whats-your-sign.json) |
+| What's Your Story? | 88913 | [88913-whats-your-story.json](./88913-whats-your-story.json) |
 | Whatcha Loopin At? | 364688 | [364688-whatcha-loopin-at.json](./364688-whatcha-loopin-at.json) |
 | Whatever It Takes | 400092 | [400092-whatever-it-takes.json](./400092-whatever-it-takes.json) |
 | Whatever We Decide to Call this Game | 313452 | [313452-whatever-we-decide-to-call-this-game.json](./313452-whatever-we-decide-to-call-this-game.json) |
@@ -6400,6 +6401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Heroes Supreme Justice Extra | 358960 | [358960-world-heroes-supreme-justice-extra.json](./358960-world-heroes-supreme-justice-extra.json) |
 | World History Quiz: Cavemen to Democracy | 72180 | [72180-world-history-quiz-cavemen-to-democracy.json](./72180-world-history-quiz-cavemen-to-democracy.json) |
 | World Hockey '95 | 71973 | [71973-world-hockey-95.json](./71973-world-hockey-95.json) |
+| World Hockey Manager | 88883 | [88883-world-hockey-manager.json](./88883-world-hockey-manager.json) |
 | World Hunter | 60634 | [60634-world-hunter.json](./60634-world-hunter.json) |
 | World II World | 218096 | [218096-world-ii-world.json](./218096-world-ii-world.json) |
 | World II: Hunting Boss | 82403 | [82403-world-ii-hunting-boss.json](./82403-world-ii-hunting-boss.json) |
