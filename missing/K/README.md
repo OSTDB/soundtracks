@@ -1395,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kennedy Approach | 25920 | [25920-kennedy-approach.json](./25920-kennedy-approach.json) |
 | Kenney's Zombies | 184224 | [184224-kenneys-zombies.json](./184224-kenneys-zombies.json) |
 | Kenny 7 | 253310 | [253310-kenny-7.json](./253310-kenny-7.json) |
+| Kenny Dalglish Soccer Match | 69685 | [69685-kenny-dalglish-soccer-match.json](./69685-kenny-dalglish-soccer-match.json) |
 | Kenny vs. Spenny: Best Friends/Worst Enemies | 303697 | [303697-kenny-vs-spenny-best-friends-worst-enemies.json](./303697-kenny-vs-spenny-best-friends-worst-enemies.json) |
 | Kenny vs. Spenny: The Handheld Game | 395002 | [395002-kenny-vs-spenny-the-handheld-game.json](./395002-kenny-vs-spenny-the-handheld-game.json) |
 | Kenny vs. Spenny: Versusville | 303021 | [303021-kenny-vs-spenny-versusville.json](./303021-kenny-vs-spenny-versusville.json) |
