@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questerium: Sinister Trinity HD - Collector's Edition | 36234 | [36234-questerium-sinister-trinity-hd-collectors-edition.json](./36234-questerium-sinister-trinity-hd-collectors-edition.json) |
 | Questi Quest | 393079 | [393079-questi-quest.json](./393079-questi-quest.json) |
 | Questinarium | 393467 | [393467-questinarium.json](./393467-questinarium.json) |
+| Question Cube | 56944 | [56944-question-cube.json](./56944-question-cube.json) |
 | Question Mark | 388254 | [388254-question-mark.json](./388254-question-mark.json) |
 | Question Roulette | 399925 | [399925-question-roulette.json](./399925-question-roulette.json) |
 | Questionable Countdowns | 411631 | [411631-questionable-countdowns.json](./411631-questionable-countdowns.json) |
