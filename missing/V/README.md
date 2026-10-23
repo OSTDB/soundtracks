@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Version Three: Invisible Raid | 258035 | [258035-version-three-invisible-raid.json](./258035-version-three-invisible-raid.json) |
 | Verso | 177803 | [177803-verso.json](./177803-verso.json) |
 | Versus | 285907 | [285907-versus.json](./285907-versus.json) |
+| Versus | 94053 | [94053-versus.json](./94053-versus.json) |
 | Versus Go | 325905 | [325905-versus-go.json](./325905-versus-go.json) |
 | Versus in the Dark | 325021 | [325021-versus-in-the-dark.json](./325021-versus-in-the-dark.json) |
 | Versus Net Soccer | 361490 | [361490-versus-net-soccer.json](./361490-versus-net-soccer.json) |
