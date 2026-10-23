@@ -3406,6 +3406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Envguard | 339756 | [339756-envguard.json](./339756-envguard.json) |
 | Envido | 418535 | [418535-envido.json](./418535-envido.json) |
 | Envious | 285889 | [285889-envious.json](./285889-envious.json) |
+| Enviro-Bear 2000 | 56848 | [56848-enviro-bear-2000.json](./56848-enviro-bear-2000.json) |
 | EnviroGolf | 126377 | [126377-envirogolf.json](./126377-envirogolf.json) |
 | Environment Protection Ambassador | 385287 | [385287-environment-protection-ambassador.json](./385287-environment-protection-ambassador.json) |
 | Environmental Extremist | 70031 | [70031-environmental-extremist.json](./70031-environmental-extremist.json) |
@@ -6568,6 +6569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyePet: Move Edition | 52214 | [52214-eyepet-move-edition.json](./52214-eyepet-move-edition.json) |
 | Eyepuppet Company | 358514 | [358514-eyepuppet-company.json](./358514-eyepuppet-company.json) |
 | EyeRoll | 153321 | [153321-eyeroll.json](./153321-eyeroll.json) |
+| Eyeron Defender | 56856 | [56856-eyeron-defender.json](./56856-eyeron-defender.json) |
 | Eyes | 299142 | [299142-eyes.json](./299142-eyes.json) |
 | Eyes Behind | 351257 | [351257-eyes-behind.json](./351257-eyes-behind.json) |
 | Eyes Behind 2 | 422491 | [422491-eyes-behind-2.json](./422491-eyes-behind-2.json) |
