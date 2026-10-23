@@ -4480,6 +4480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akakuro | 223961 | [223961-akakuro.json](./223961-akakuro.json) |
 | Akalabeth: World of Doom | 2417 | [2417-akalabeth-world-of-doom.json](./2417-akalabeth-world-of-doom.json) |
 | Akalabeth: World of Doom | 378498 | [378498-akalabeth-world-of-doom.json](./378498-akalabeth-world-of-doom.json) |
+| Akanbe Dragon | 71363 | [71363-akanbe-dragon.json](./71363-akanbe-dragon.json) |
 | Akane Chan-bara | 204685 | [204685-akane-chan-bara.json](./204685-akane-chan-bara.json) |
 | Akane Maniax: Nagareboshi Densetsu Gouda | 62627 | [62627-akane-maniax-nagareboshi-densetsu-gouda.json](./62627-akane-maniax-nagareboshi-densetsu-gouda.json) |
 | Akane-iro ni Somaru Saka Parallels | 79590 | [79590-akane-iro-ni-somaru-saka-parallels.json](./79590-akane-iro-ni-somaru-saka-parallels.json) |
@@ -6307,6 +6308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amarantus | 201324 | [201324-amarantus.json](./201324-amarantus.json) |
 | Amare Magia | 401186 | [401186-amare-magia.json](./401186-amare-magia.json) |
 | Amarela | 323423 | [323423-amarela.json](./323423-amarela.json) |
+| Amarillo Slim Dealer's Choice | 71329 | [71329-amarillo-slim-dealers-choice.json](./71329-amarillo-slim-dealers-choice.json) |
 | Amarillo Slim's 7 Card Stud | 112634 | [112634-amarillo-slims-7-card-stud.json](./112634-amarillo-slims-7-card-stud.json) |
 | Amarillo's Butt Slapper | 319679 | [319679-amarillos-butt-slapper.json](./319679-amarillos-butt-slapper.json) |
 | Amaroo's Christmas Shop Simulator | 326482 | [326482-amaroos-christmas-shop-simulator.json](./326482-amaroos-christmas-shop-simulator.json) |
@@ -9199,6 +9201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apprehension Arizona | 308452 | [308452-apprehension-arizona.json](./308452-apprehension-arizona.json) |
 | Apprentice | 14167 | [14167-apprentice.json](./14167-apprentice.json) |
 | Apprentice Arriving | 167599 | [167599-apprentice-arriving.json](./167599-apprentice-arriving.json) |
+| Apprentice II: The Knight's Move | 71371 | [71371-apprentice-ii-the-knights-move.json](./71371-apprentice-ii-the-knights-move.json) |
 | Apprentice Knight-Iona | 132667 | [132667-apprentice-knight-iona.json](./132667-apprentice-knight-iona.json) |
 | Approach Trainer | 14261 | [14261-approach-trainer.json](./14261-approach-trainer.json) |
 | Approaches | 185093 | [185093-approaches.json](./185093-approaches.json) |
@@ -10681,6 +10684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arithmagic: Math Wizard Game | 197709 | [197709-arithmagic-math-wizard-game.json](./197709-arithmagic-math-wizard-game.json) |
 | Arithmetic | 331935 | [331935-arithmetic.json](./331935-arithmetic.json) |
 | Arithmetic Arena | 381874 | [381874-arithmetic-arena.json](./381874-arithmetic-arena.json) |
+| Ariva | 71367 | [71367-ariva.json](./71367-ariva.json) |
 | Arizona Derby | 116376 | [116376-arizona-derby.json](./116376-arizona-derby.json) |
 | Arizona Derby 2 | 188873 | [188873-arizona-derby-2.json](./188873-arizona-derby-2.json) |
 | Arizona Rose and the Pharaohs' Riddles | 29870 | [29870-arizona-rose-and-the-pharaohs-riddles.json](./29870-arizona-rose-and-the-pharaohs-riddles.json) |
@@ -10880,6 +10884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armchair Commander | 267865 | [267865-armchair-commander.json](./267865-armchair-commander.json) |
 | Armchair Quarterback | 314037 | [314037-armchair-quarterback.json](./314037-armchair-quarterback.json) |
 | Armechgeddon | 238623 | [238623-armechgeddon.json](./238623-armechgeddon.json) |
+| Armed & Delirious | 71321 | [71321-armed-and-delirious.json](./71321-armed-and-delirious.json) |
 | Armed 7 DX | 147074 | [147074-armed-7-dx.json](./147074-armed-7-dx.json) |
 | Armed Against the Undead | 32898 | [32898-armed-against-the-undead.json](./32898-armed-against-the-undead.json) |
 | Armed Air Forces | 193945 | [193945-armed-air-forces.json](./193945-armed-air-forces.json) |
@@ -11343,6 +11348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur's Birthday | 269991 | [269991-arthurs-birthday.json](./269991-arthurs-birthday.json) |
 | Arthur's Camping Adventure | 144668 | [144668-arthurs-camping-adventure.json](./144668-arthurs-camping-adventure.json) |
 | Arthur's Computer Adventure | 270029 | [270029-arthurs-computer-adventure.json](./270029-arthurs-computer-adventure.json) |
+| Arthur's Knights: Tales of Chivalry | 71368 | [71368-arthurs-knights-tales-of-chivalry.json](./71368-arthurs-knights-tales-of-chivalry.json) |
 | Arthur's Nightmare | 105527 | [105527-arthurs-nightmare.json](./105527-arthurs-nightmare.json) |
 | Arthur's Pet Chase | 70918 | [70918-arthurs-pet-chase.json](./70918-arthurs-pet-chase.json) |
 | Arthur's Quest: Battle for the Kingdom | 68902 | [68902-arthurs-quest-battle-for-the-kingdom.json](./68902-arthurs-quest-battle-for-the-kingdom.json) |
