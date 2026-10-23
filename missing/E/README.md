@@ -3035,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endurance: Space Action | 143111 | [143111-endurance-space-action.json](./143111-endurance-space-action.json) |
 | Endure | 171884 | [171884-endure.json](./171884-endure.json) |
 | Endure | 280205 | [280205-endure.json](./280205-endure.json) |
+| Endure | 81037 | [81037-endure.json](./81037-endure.json) |
 | Endure Island | 213976 | [213976-endure-island.json](./213976-endure-island.json) |
 | Endure or Perish | 288223 | [288223-endure-or-perish.json](./288223-endure-or-perish.json) |
 | Enduring Mountain | 213999 | [213999-enduring-mountain.json](./213999-enduring-mountain.json) |
