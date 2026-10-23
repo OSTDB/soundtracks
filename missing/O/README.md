@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean City Racing | 10636 | [10636-ocean-city-racing.json](./10636-ocean-city-racing.json) |
 | Ocean City Racing: Redux | 36294 | [36294-ocean-city-racing-redux.json](./36294-ocean-city-racing-redux.json) |
 | Ocean Classics Volume 1 | 109909 | [109909-ocean-classics-volume-1.json](./109909-ocean-classics-volume-1.json) |
+| Ocean Commander | 51016 | [51016-ocean-commander.json](./51016-ocean-commander.json) |
 | Ocean Depths | 359735 | [359735-ocean-depths.json](./359735-ocean-depths.json) |
 | Ocean Drift | 233521 | [233521-ocean-drift.json](./233521-ocean-drift.json) |
 | Ocean Drive Challenge | 65420 | [65420-ocean-drive-challenge.json](./65420-ocean-drive-challenge.json) |
@@ -804,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OffRoad Drive Desert | 90087 | [90087-offroad-drive-desert.json](./90087-offroad-drive-desert.json) |
 | Offroad Driving Simulator 4x4: Trucks & SUV Trophy | 147933 | [147933-offroad-driving-simulator-4x4-trucks-and-suv-trophy.json](./147933-offroad-driving-simulator-4x4-trucks-and-suv-trophy.json) |
 | Offroad Extreme! | 66935 | [66935-offroad-extreme.json](./66935-offroad-extreme.json) |
+| Offroad Extreme!: Special Edition | 50987 | [50987-offroad-extreme-special-edition.json](./50987-offroad-extreme-special-edition.json) |
 | Offroad Heat | 112052 | [112052-offroad-heat.json](./112052-offroad-heat.json) |
 | Offroad Jeep Driving | 304329 | [304329-offroad-jeep-driving.json](./304329-offroad-jeep-driving.json) |
 | Offroad Jeep Quest: Mountain Trails | 293363 | [293363-offroad-jeep-quest-mountain-trails.json](./293363-offroad-jeep-quest-mountain-trails.json) |
