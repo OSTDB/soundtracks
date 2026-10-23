@@ -15862,6 +15862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thistledown: Marrowroot | 216502 | [216502-thistledown-marrowroot.json](./216502-thistledown-marrowroot.json) |
 | Thnt | 204331 | [204331-thnt.json](./204331-thnt.json) |
 | THO Simulator | 188086 | [188086-tho-simulator.json](./188086-tho-simulator.json) |
+| Thomas & Friends Minis | 95887 | [95887-thomas-and-friends-minis.json](./95887-thomas-and-friends-minis.json) |
 | Thomas & Friends: A Day at the Races | 2590 | [2590-thomas-and-friends-a-day-at-the-races.json](./2590-thomas-and-friends-a-day-at-the-races.json) |
 | Thomas & Friends: Building the New Line | 23780 | [23780-thomas-and-friends-building-the-new-line.json](./23780-thomas-and-friends-building-the-new-line.json) |
 | Thomas & Friends: Go Go Thomas! | 329139 | [329139-thomas-and-friends-go-go-thomas.json](./329139-thomas-and-friends-go-go-thomas.json) |
