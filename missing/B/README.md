@@ -9644,6 +9644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bohemian Cupid | 338666 | [338666-bohemian-cupid.json](./338666-bohemian-cupid.json) |
 | Bohemian Symphony | 225803 | [225803-bohemian-symphony.json](./225803-bohemian-symphony.json) |
 | Bohemian Yard | 217866 | [217866-bohemian-yard.json](./217866-bohemian-yard.json) |
+| Bohnanza the Duel | 81071 | [81071-bohnanza-the-duel.json](./81071-bohnanza-the-duel.json) |
 | Bohnice: Within the Mind | 271678 | [271678-bohnice-within-the-mind.json](./271678-bohnice-within-the-mind.json) |
 | Bohrdom | 112947 | [112947-bohrdom.json](./112947-bohrdom.json) |
 | Boid | 17646 | [17646-boid.json](./17646-boid.json) |
@@ -9742,6 +9743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokura: Planet | 318275 | [318275-bokura-planet.json](./318275-bokura-planet.json) |
 | Bola | 92445 | [92445-bola.json](./92445-bola.json) |
 | Bold | 243680 | [243680-bold.json](./243680-bold.json) |
+| Bold Blade | 81010 | [81010-bold-blade.json](./81010-bold-blade.json) |
 | Bold New World | 29726 | [29726-bold-new-world.json](./29726-bold-new-world.json) |
 | Bold: Networked Newt Action | 397821 | [397821-bold-networked-newt-action.json](./397821-bold-networked-newt-action.json) |
 | Bolek i Lolek: Język angielski dla najmłodszych | 351832 | [351832-bolek-i-lolek-jezyk-angielski-dla-najm-odszych.json](./351832-bolek-i-lolek-jezyk-angielski-dla-najm-odszych.json) |
@@ -10854,6 +10856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Duck Simulator | 55728 | [55728-bouncing-duck-simulator.json](./55728-bouncing-duck-simulator.json) |
 | Bouncing DVD : The Game | 114565 | [114565-bouncing-dvd-the-game.json](./114565-bouncing-dvd-the-game.json) |
 | Bouncing Music | 236744 | [236744-bouncing-music.json](./236744-bouncing-music.json) |
+| Bouncing Odyssey | 81034 | [81034-bouncing-odyssey.json](./81034-bouncing-odyssey.json) |
 | Bouncing Over It with friends | 106406 | [106406-bouncing-over-it-with-friends.json](./106406-bouncing-over-it-with-friends.json) |
 | Bouncing Rainbow | 259629 | [259629-bouncing-rainbow.json](./259629-bouncing-rainbow.json) |
 | Bouncing Slime: Impossible Levels | 343985 | [343985-bouncing-slime-impossible-levels.json](./343985-bouncing-slime-impossible-levels.json) |
@@ -13082,6 +13085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buca! | 327975 | [327975-buca.json](./327975-buca.json) |
 | Buccaneer | 141845 | [141845-buccaneer.json](./141845-buccaneer.json) |
 | Buccaneer | 165522 | [165522-buccaneer.json](./165522-buccaneer.json) |
+| Buccaneer | 81060 | [81060-buccaneer.json](./81060-buccaneer.json) |
 | Buccaneer Blitz | 335990 | [335990-buccaneer-blitz.json](./335990-buccaneer-blitz.json) |
 | Buccaneer's Bounty | 69825 | [69825-buccaneers-bounty.json](./69825-buccaneers-bounty.json) |
 | Buccaneers | 247389 | [247389-buccaneers.json](./247389-buccaneers.json) |
