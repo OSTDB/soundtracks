@@ -4952,6 +4952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bananatree Brothers: Eat Carrots | 97454 | [97454-the-bananatree-brothers-eat-carrots.json](./97454-the-bananatree-brothers-eat-carrots.json) |
 | The Banished Vault | 242009 | [242009-the-banished-vault.json](./242009-the-banished-vault.json) |
 | The Banker Tycoon | 379340 | [379340-the-banker-tycoon.json](./379340-the-banker-tycoon.json) |
+| The Banner Saga 2: Deluxe Edition | 51708 | [51708-the-banner-saga-2-deluxe-edition.json](./51708-the-banner-saga-2-deluxe-edition.json) |
 | The Banner Saga 3 | 26940 | [26940-the-banner-saga-3.json](./26940-the-banner-saga-3.json) |
 | The Banner Saga 3: Legendary Edition | 124774 | [124774-the-banner-saga-3-legendary-edition.json](./124774-the-banner-saga-3-legendary-edition.json) |
 | The Banner Saga Complete Pack | 51954 | [51954-the-banner-saga-complete-pack.json](./51954-the-banner-saga-complete-pack.json) |
@@ -5380,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Regrets | 99488 | [99488-the-book-of-regrets.json](./99488-the-book-of-regrets.json) |
 | The Book of the Dead | 273287 | [273287-the-book-of-the-dead.json](./273287-the-book-of-the-dead.json) |
 | The Book of Three | 79561 | [79561-the-book-of-three.json](./79561-the-book-of-three.json) |
+| The Book of Unwritten Tales 2: Almanac Edition | 51703 | [51703-the-book-of-unwritten-tales-2-almanac-edition.json](./51703-the-book-of-unwritten-tales-2-almanac-edition.json) |
 | The Book of Unwritten Tales Collection | 53712 | [53712-the-book-of-unwritten-tales-collection.json](./53712-the-book-of-unwritten-tales-collection.json) |
 | The Book of Warriors | 250259 | [250259-the-book-of-warriors.json](./250259-the-book-of-warriors.json) |
 | The Book of Weapons | 197360 | [197360-the-book-of-weapons.json](./197360-the-book-of-weapons.json) |
@@ -6003,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Conjurer | 53705 | [53705-the-conjurer.json](./53705-the-conjurer.json) |
 | The Conqueror of Battles | 195467 | [195467-the-conqueror-of-battles.json](./195467-the-conqueror-of-battles.json) |
 | The Consequences of Gardening | 183026 | [183026-the-consequences-of-gardening.json](./183026-the-consequences-of-gardening.json) |
+| The Consortium: Master Edition | 51699 | [51699-the-consortium-master-edition.json](./51699-the-consortium-master-edition.json) |
 | The Consumist Journey | 270099 | [270099-the-consumist-journey.json](./270099-the-consumist-journey.json) |
 | The Contact | 288981 | [288981-the-contact.json](./288981-the-contact.json) |
 | The Contact | 34717 | [34717-the-contact.json](./34717-the-contact.json) |
@@ -6159,6 +6162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crooked Man | 46989 | [46989-the-crooked-man.json](./46989-the-crooked-man.json) |
 | The Crosley Tower Horror | 399709 | [399709-the-crosley-tower-horror.json](./399709-the-crosley-tower-horror.json) |
 | The Cross Horror Game | 120812 | [120812-the-cross-horror-game.json](./120812-the-cross-horror-game.json) |
+| The Crossing | 51690 | [51690-the-crossing.json](./51690-the-crossing.json) |
 | The Crossroads | 179684 | [179684-the-crossroads.json](./179684-the-crossroads.json) |
 | The Crossroads | 326269 | [326269-the-crossroads.json](./326269-the-crossroads.json) |
 | The Crossroads | 411592 | [411592-the-crossroads.json](./411592-the-crossroads.json) |
@@ -10319,6 +10323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Light: Remastered Edition | 394806 | [394806-the-light-remastered-edition.json](./394806-the-light-remastered-edition.json) |
 | The Lighthouse | 378395 | [378395-the-lighthouse.json](./378395-the-lighthouse.json) |
 | The Lighthouse | 408237 | [408237-the-lighthouse.json](./408237-the-lighthouse.json) |
+| The Lighthouse | 51693 | [51693-the-lighthouse.json](./51693-the-lighthouse.json) |
 | The Lighthouse \| VR Escape Room | 111710 | [111710-the-lighthouse-vr-escape-room.json](./111710-the-lighthouse-vr-escape-room.json) |
 | The Lighthouse of São Bento do Oeste | 192894 | [192894-the-lighthouse-of-sao-bento-do-oeste.json](./192894-the-lighthouse-of-sao-bento-do-oeste.json) |
 | The Lighthouse Secrets | 348428 | [348428-the-lighthouse-secrets.json](./348428-the-lighthouse-secrets.json) |
@@ -14693,6 +14698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unofficial Squaresoft MUD | 228483 | [228483-the-unofficial-squaresoft-mud.json](./228483-the-unofficial-squaresoft-mud.json) |
 | The Unplace | 373191 | [373191-the-unplace.json](./373191-the-unplace.json) |
 | The Unraveling | 71169 | [71169-the-unraveling.json](./71169-the-unraveling.json) |
+| The Unreal Journey of Mongol | 51724 | [51724-the-unreal-journey-of-mongol.json](./51724-the-unreal-journey-of-mongol.json) |
 | The Unrest Age | 197852 | [197852-the-unrest-age.json](./197852-the-unrest-age.json) |
 | The Unrested | 334297 | [334297-the-unrested.json](./334297-the-unrested.json) |
 | The Unseen | 180565 | [180565-the-unseen.json](./180565-the-unseen.json) |
@@ -18237,6 +18243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timberman VS | 99289 | [99289-timberman-vs.json](./99289-timberman-vs.json) |
 | Timberman: The Big Adventure | 213804 | [213804-timberman-the-big-adventure.json](./213804-timberman-the-big-adventure.json) |
 | Timberquest | 245859 | [245859-timberquest.json](./245859-timberquest.json) |
+| Timbertales | 51722 | [51722-timbertales.json](./51722-timbertales.json) |
 | Timberveil | 382757 | [382757-timberveil.json](./382757-timberveil.json) |
 | Timbre Star | 83147 | [83147-timbre-star.json](./83147-timbre-star.json) |
 | Time | 130947 | [130947-time.json](./130947-time.json) |
@@ -24249,6 +24256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunt | 293981 | [293981-treasure-hunt.json](./293981-treasure-hunt.json) |
 | Treasure Hunt | 366840 | [366840-treasure-hunt.json](./366840-treasure-hunt.json) |
 | Treasure Hunt Girl | 270114 | [270114-treasure-hunt-girl.json](./270114-treasure-hunt-girl.json) |
+| Treasure Hunt VR | 51741 | [51741-treasure-hunt-vr.json](./51741-treasure-hunt-vr.json) |
 | Treasure Hunter | 195062 | [195062-treasure-hunter.json](./195062-treasure-hunter.json) |
 | Treasure Hunter | 242235 | [242235-treasure-hunter.json](./242235-treasure-hunter.json) |
 | Treasure Hunter | 250307 | [250307-treasure-hunter.json](./250307-treasure-hunter.json) |
