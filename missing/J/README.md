@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly no Puzzle | 141197 | [141197-jelly-no-puzzle.json](./141197-jelly-no-puzzle.json) |
 | Jelly Pops | 22934 | [22934-jelly-pops.json](./22934-jelly-pops.json) |
 | Jelly Run 2048 | 221351 | [221351-jelly-run-2048.json](./221351-jelly-run-2048.json) |
+| Jelly Solitaire | 89790 | [89790-jelly-solitaire.json](./89790-jelly-solitaire.json) |
 | Jelly Troops | 324864 | [324864-jelly-troops.json](./324864-jelly-troops.json) |
 | Jelly Truck | 322049 | [322049-jelly-truck.json](./322049-jelly-truck.json) |
 | Jelly Wants More | 105377 | [105377-jelly-wants-more.json](./105377-jelly-wants-more.json) |
@@ -2786,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpy Haha | 367957 | [367957-jumpy-haha.json](./367957-jumpy-haha.json) |
 | Jumpy Horse | 88163 | [88163-jumpy-horse.json](./88163-jumpy-horse.json) |
 | Jumpy Horse Breeding | 87891 | [87891-jumpy-horse-breeding.json](./87891-jumpy-horse-breeding.json) |
+| Jumpy Horse Racing | 89741 | [89741-jumpy-horse-racing.json](./89741-jumpy-horse-racing.json) |
 | Jumpy Hunt | 114866 | [114866-jumpy-hunt.json](./114866-jumpy-hunt.json) |
 | Jumpy Jack | 343977 | [343977-jumpy-jack.json](./343977-jumpy-jack.json) |
 | Jumpy Kitten | 101672 | [101672-jumpy-kitten.json](./101672-jumpy-kitten.json) |
