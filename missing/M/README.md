@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magia y Demonios | 307780 | [307780-magia-y-demonios.json](./307780-magia-y-demonios.json) |
 | Magiball Masters | 294361 | [294361-magiball-masters.json](./294361-magiball-masters.json) |
 | Magiblo Plus | 109189 | [109189-magiblo-plus.json](./109189-magiblo-plus.json) |
+| Magibot | 76359 | [76359-magibot.json](./76359-magibot.json) |
 | Magibrick | 290521 | [290521-magibrick.json](./290521-magibrick.json) |
 | Magic & Empire | 97380 | [97380-magic-and-empire.json](./97380-magic-and-empire.json) |
 | Magic & Legend: Time Knights | 228404 | [228404-magic-and-legend-time-knights.json](./228404-magic-and-legend-time-knights.json) |
@@ -3364,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maritime Mecha Mystery | 291558 | [291558-maritime-mecha-mystery.json](./291558-maritime-mecha-mystery.json) |
 | Marito Arcade | 228317 | [228317-marito-arcade.json](./228317-marito-arcade.json) |
 | Mariuccha Alchemy Queen | 149449 | [149449-mariuccha-alchemy-queen.json](./149449-mariuccha-alchemy-queen.json) |
+| Marius | 76368 | [76368-marius.json](./76368-marius.json) |
 | Mark & Lara: Partners in Justice | 146028 | [146028-mark-and-lara-partners-in-justice.json](./146028-mark-and-lara-partners-in-justice.json) |
 | Mark After Dark | 67903 | [67903-mark-after-dark.json](./67903-mark-after-dark.json) |
 | Mark Davis Pro Bass Challenge | 3991 | [3991-mark-davis-pro-bass-challenge.json](./3991-mark-davis-pro-bass-challenge.json) |
@@ -7959,6 +7961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metonymy | 67898 | [67898-metonymy.json](./67898-metonymy.json) |
 | Metori | 107864 | [107864-metori.json](./107864-metori.json) |
 | Metrail | 125108 | [125108-metrail.json](./125108-metrail.json) |
+| Metrania | 75595 | [75595-metrania.json](./75595-metrania.json) |
 | Metric Racer | 133427 | [133427-metric-racer.json](./133427-metric-racer.json) |
 | Metrico | 19919 | [19919-metrico.json](./19919-metrico.json) |
 | Metris | 91515 | [91515-metris.json](./91515-metris.json) |
@@ -11907,6 +11910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monaco: What's Yours Is Mine | 8739 | [8739-monaco-whats-yours-is-mine.json](./8739-monaco-whats-yours-is-mine.json) |
 | Monads | 109428 | [109428-monads.json](./109428-monads.json) |
 | Monads II | 166842 | [166842-monads-ii.json](./166842-monads-ii.json) |
+| Monarch of Greed - Act 1 | 75631 | [75631-monarch-of-greed-act-1.json](./75631-monarch-of-greed-act-1.json) |
 | Monarch: Medieval Remastered | 117134 | [117134-monarch-medieval-remastered.json](./117134-monarch-medieval-remastered.json) |
 | Monarch: The Butterfly King | 106734 | [106734-monarch-the-butterfly-king.json](./106734-monarch-the-butterfly-king.json) |
 | Monarch: The Tainted Kingdom | 410962 | [410962-monarch-the-tainted-kingdom.json](./410962-monarch-the-tainted-kingdom.json) |
@@ -13439,6 +13443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphopolis | 9768 | [9768-morphopolis.json](./9768-morphopolis.json) |
 | Morphscape: The Stylized Prop Pursuit | 301833 | [301833-morphscape-the-stylized-prop-pursuit.json](./301833-morphscape-the-stylized-prop-pursuit.json) |
 | Morpi Card Mix | 291686 | [291686-morpi-card-mix.json](./291686-morpi-card-mix.json) |
+| Morps | 75601 | [75601-morps.json](./75601-morps.json) |
 | Morra | 246472 | [246472-morra.json](./246472-morra.json) |
 | Morra 3D | 371474 | [371474-morra-3d.json](./371474-morra-3d.json) |
 | Morraff's Mahjongg 2005: Luxury Edition | 209188 | [209188-morraffs-mahjongg-2005-luxury-edition.json](./209188-morraffs-mahjongg-2005-luxury-edition.json) |
@@ -16054,6 +16059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Fox Sister | 107738 | [107738-my-fox-sister.json](./107738-my-fox-sister.json) |
 | My Foxy Girlfriend | 205818 | [205818-my-foxy-girlfriend.json](./205818-my-foxy-girlfriend.json) |
 | My Free Farm | 286409 | [286409-my-free-farm.json](./286409-my-free-farm.json) |
+| My Free Zoo | 75591 | [75591-my-free-zoo.json](./75591-my-free-zoo.json) |
 | My French Coach Level 2: Intermediate | 92357 | [92357-my-french-coach-level-2-intermediate.json](./92357-my-french-coach-level-2-intermediate.json) |
 | My Friend Aki | 274353 | [274353-my-friend-aki.json](./274353-my-friend-aki.json) |
 | My Friend Barrington | 398323 | [398323-my-friend-barrington.json](./398323-my-friend-barrington.json) |
@@ -17026,6 +17032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: The Last Resort - Collector's Edition | 236009 | [236009-mystery-case-files-the-last-resort-collectors-edition.json](./236009-mystery-case-files-the-last-resort-collectors-edition.json) |
 | Mystery Case Files: The Malgrave Incident | 5040 | [5040-mystery-case-files-the-malgrave-incident.json](./5040-mystery-case-files-the-malgrave-incident.json) |
 | Mystery Case Files: The Revenant's Hunt | 140234 | [140234-mystery-case-files-the-revenants-hunt.json](./140234-mystery-case-files-the-revenants-hunt.json) |
+| Mystery Case Files: The Revenant's Hunt - Collector's Edition | 75645 | [75645-mystery-case-files-the-revenants-hunt-collectors-edition.json](./75645-mystery-case-files-the-revenants-hunt-collectors-edition.json) |
 | Mystery Case Files: The Riddle of Mrs. Bishop | 360051 | [360051-mystery-case-files-the-riddle-of-mrs-bishop.json](./360051-mystery-case-files-the-riddle-of-mrs-bishop.json) |
 | Mystery Case Files: The Riddle of Mrs. Bishop - Collector's Edition | 360039 | [360039-mystery-case-files-the-riddle-of-mrs-bishop-collectors-edition.json](./360039-mystery-case-files-the-riddle-of-mrs-bishop-collectors-edition.json) |
 | Mystery Castle | 19889 | [19889-mystery-castle.json](./19889-mystery-castle.json) |
