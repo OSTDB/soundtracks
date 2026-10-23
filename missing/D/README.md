@@ -1398,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Quest 4 | 345656 | [345656-dark-quest-4.json](./345656-dark-quest-4.json) |
 | Dark Quest: Remastered | 389079 | [389079-dark-quest-remastered.json](./389079-dark-quest-remastered.json) |
 | Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
+| Dark Realm: Guardian of Flames | 91168 | [91168-dark-realm-guardian-of-flames.json](./91168-dark-realm-guardian-of-flames.json) |
 | Dark Realm: Queen of Flames | 139797 | [139797-dark-realm-queen-of-flames.json](./139797-dark-realm-queen-of-flames.json) |
 | Dark Realm: Queen of Flames - Collector's Edition HD | 88309 | [88309-dark-realm-queen-of-flames-collectors-edition-hd.json](./88309-dark-realm-queen-of-flames-collectors-edition-hd.json) |
 | Dark Reaper Shoots! | 112068 | [112068-dark-reaper-shoots.json](./112068-dark-reaper-shoots.json) |
@@ -9848,6 +9849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dong Dong Never Die | 50367 | [50367-dong-dong-never-die.json](./50367-dong-dong-never-die.json) |
 | Dong Dong Never Die: Judgment Day | 310532 | [310532-dong-dong-never-die-judgment-day.json](./310532-dong-dong-never-die-judgment-day.json) |
 | Dong Wu: Odyssey | 269032 | [269032-dong-wu-odyssey.json](./269032-dong-wu-odyssey.json) |
+| Dong-Jin Rice-hime | 90463 | [90463-dong-jin-rice-hime.json](./90463-dong-jin-rice-hime.json) |
 | DongBeiZhiXia | 230782 | [230782-dongbeizhixia.json](./230782-dongbeizhixia.json) |
 | Dōngfāng de Chuánshuō zhī Fēngyìn Dǎo | 163214 | [163214-dongfang-de-chuanshuo-zhi-fengyin-dao.json](./163214-dongfang-de-chuanshuo-zhi-fengyin-dao.json) |
 | Dōngfāng Jiànjī zài Xīfāng Lǚxíng de Gùshì | 157212 | [157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json](./157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json) |
@@ -13233,6 +13235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop That Cat | 330399 | [330399-drop-that-cat.json](./330399-drop-that-cat.json) |
 | Drop the Ballz | 106932 | [106932-drop-the-ballz.json](./106932-drop-the-ballz.json) |
 | Drop the Bomb | 99587 | [99587-drop-the-bomb.json](./99587-drop-the-bomb.json) |
+| Drop the Clock | 91223 | [91223-drop-the-clock.json](./91223-drop-the-clock.json) |
 | Drop the Number | 216214 | [216214-drop-the-number.json](./216214-drop-the-number.json) |
 | Drop Up | 106497 | [106497-drop-up.json](./106497-drop-up.json) |
 | Drop Up | 178935 | [178935-drop-up.json](./178935-drop-up.json) |
