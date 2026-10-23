@@ -1617,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sasuke Challenger | 175129 | [175129-sasuke-challenger.json](./175129-sasuke-challenger.json) |
 | Sasuke Library 23rd | 78957 | [78957-sasuke-library-23rd.json](./78957-sasuke-library-23rd.json) |
 | SAT Prep Math 2008 | 76976 | [76976-sat-prep-math-2008.json](./76976-sat-prep-math-2008.json) |
+| SAT Prep Reading 2008 | 91689 | [91689-sat-prep-reading-2008.json](./91689-sat-prep-reading-2008.json) |
 | SatAM Online | 331950 | [331950-satam-online.json](./331950-satam-online.json) |
 | Satama Puzzle | 190461 | [190461-satama-puzzle.json](./190461-satama-puzzle.json) |
 | Satan | 311182 | [311182-satan.json](./311182-satan.json) |
@@ -16975,6 +16976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: Shattered Dimensions | 142254 | [142254-spider-man-shattered-dimensions.json](./142254-spider-man-shattered-dimensions.json) |
 | Spider-Man: Shattered Dimensions | 209975 | [209975-spider-man-shattered-dimensions.json](./209975-spider-man-shattered-dimensions.json) |
 | Spider-Man: Shattered Dimensions | 553 | [553-spider-man-shattered-dimensions.json](./553-spider-man-shattered-dimensions.json) |
+| Spider-Man: The Case of the Sinister Speller | 91808 | [91808-spider-man-the-case-of-the-sinister-speller.json](./91808-spider-man-the-case-of-the-sinister-speller.json) |
 | Spider-Man: The Sinister Six | 66383 | [66383-spider-man-the-sinister-six.json](./66383-spider-man-the-sinister-six.json) |
 | Spider-Man: The Video Game | 46761 | [46761-spider-man-the-video-game.json](./46761-spider-man-the-video-game.json) |
 | Spider-Man: Toxic City | 65592 | [65592-spider-man-toxic-city.json](./65592-spider-man-toxic-city.json) |
@@ -21492,6 +21494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Seasons: Project You can Play with Everyone | 250921 | [250921-story-of-seasons-project-you-can-play-with-everyone.json](./250921-story-of-seasons-project-you-can-play-with-everyone.json) |
 | Story of Seasons: Untitled 2024 | 303822 | [303822-story-of-seasons-untitled-2024.json](./303822-story-of-seasons-untitled-2024.json) |
 | Story of the Blanks | 281346 | [281346-story-of-the-blanks.json](./281346-story-of-the-blanks.json) |
+| Story of the Bug Eyed Monster | 91824 | [91824-story-of-the-bug-eyed-monster.json](./91824-story-of-the-bug-eyed-monster.json) |
 | Story of the Green Dragon | 109869 | [109869-story-of-the-green-dragon.json](./109869-story-of-the-green-dragon.json) |
 | Story of the Mirror | 290346 | [290346-story-of-the-mirror.json](./290346-story-of-the-mirror.json) |
 | Story of the Olivia | 241851 | [241851-story-of-the-olivia.json](./241851-story-of-the-olivia.json) |
@@ -25504,6 +25507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Play Action Football | 42454 | [42454-super-play-action-football.json](./42454-super-play-action-football.json) |
 | Super Plumber | 104802 | [104802-super-plumber.json](./104802-super-plumber.json) |
 | Super Plumber | 70322 | [70322-super-plumber.json](./70322-super-plumber.json) |
+| Super Plusha | 91821 | [91821-super-plusha.json](./91821-super-plusha.json) |
 | Super Pocket Tennis | 44500 | [44500-super-pocket-tennis.json](./44500-super-pocket-tennis.json) |
 | Super Pocket: Atari Edition | 327197 | [327197-super-pocket-atari-edition.json](./327197-super-pocket-atari-edition.json) |
 | Super Pocket: Capcom Edition | 256711 | [256711-super-pocket-capcom-edition.json](./256711-super-pocket-capcom-edition.json) |
@@ -26674,6 +26678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: The Soaring City - Collector's Edition | 116921 | [116921-surface-the-soaring-city-collectors-edition.json](./116921-surface-the-soaring-city-collectors-edition.json) |
 | Surface: Virtual Detective | 187925 | [187925-surface-virtual-detective.json](./187925-surface-virtual-detective.json) |
 | Surface: Virtual Detective - Collector's Edition | 166076 | [166076-surface-virtual-detective-collectors-edition.json](./166076-surface-virtual-detective-collectors-edition.json) |
+| Surfacer | 91779 | [91779-surfacer.json](./91779-surfacer.json) |
 | Surfacer+ | 85529 | [85529-surfacer.json](./85529-surfacer.json) |
 | Surfacing | 152116 | [152116-surfacing.json](./152116-surfacing.json) |
 | Surfasaurus | 29659 | [29659-surfasaurus.json](./29659-surfasaurus.json) |
