@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C-Dogs | 23572 | [23572-c-dogs.json](./23572-c-dogs.json) |
 | C-Dogs SDL | 182203 | [182203-c-dogs-sdl.json](./182203-c-dogs-sdl.json) |
 | C-evo | 10033 | [10033-c-evo.json](./10033-c-evo.json) |
+| C-Hue-B | 57463 | [57463-c-hue-b.json](./57463-c-hue-b.json) |
 | C-Rush | 16833 | [16833-c-rush.json](./16833-c-rush.json) |
 | C-Smash VRS | 237742 | [237742-c-smash-vrs.json](./237742-c-smash-vrs.json) |
 | C-Smash VRS: New Dimension | 321377 | [321377-c-smash-vrs-new-dimension.json](./321377-c-smash-vrs-new-dimension.json) |
@@ -7188,6 +7189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CitrusBall | 355162 | [355162-citrusball.json](./355162-citrusball.json) |
 | CiTV Racing | 325555 | [325555-citv-racing.json](./325555-citv-racing.json) |
 | City | 175689 | [175689-city.json](./175689-city.json) |
+| City 2048 | 57448 | [57448-city-2048.json](./57448-city-2048.json) |
 | City 7: Toronto Conflict | 281410 | [281410-city-7-toronto-conflict.json](./281410-city-7-toronto-conflict.json) |
 | City Adventure Touch: Mystery of Triangle | 48315 | [48315-city-adventure-touch-mystery-of-triangle.json](./48315-city-adventure-touch-mystery-of-triangle.json) |
 | City Ambulance Car Driving | 265731 | [265731-city-ambulance-car-driving.json](./265731-city-ambulance-car-driving.json) |
@@ -14788,6 +14790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Soul Arena | 122899 | [122899-crystal-soul-arena.json](./122899-crystal-soul-arena.json) |
 | Crystal Soul Chambers | 132257 | [132257-crystal-soul-chambers.json](./132257-crystal-soul-chambers.json) |
 | Crystal Squad | 236503 | [236503-crystal-squad.json](./236503-crystal-squad.json) |
+| Crystal Stacker | 57452 | [57452-crystal-stacker.json](./57452-crystal-stacker.json) |
 | Crystal Storm | 235194 | [235194-crystal-storm.json](./235194-crystal-storm.json) |
 | Crystal Story: Dawn of Dusk | 190972 | [190972-crystal-story-dawn-of-dusk.json](./190972-crystal-story-dawn-of-dusk.json) |
 | Crystal Story: The Hero and the Evil Witch | 133357 | [133357-crystal-story-the-hero-and-the-evil-witch.json](./133357-crystal-story-the-hero-and-the-evil-witch.json) |
