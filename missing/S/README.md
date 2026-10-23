@@ -1497,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Silent Night | 183912 | [183912-santas-silent-night.json](./183912-santas-silent-night.json) |
 | Santa's Spot It | 317227 | [317227-santas-spot-it.json](./317227-santas-spot-it.json) |
 | Santa's Spot It + Exit Station 7 + Find Room 96 + HighScore Anomaly Shop +HighScore Anomaly Underground | 319775 | [319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json](./319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json) |
+| Santa's Vacation | 76391 | [76391-santas-vacation.json](./76391-santas-vacation.json) |
 | Santa's Visit | 123895 | [123895-santas-visit.json](./123895-santas-visit.json) |
 | Santa's Workshop | 343787 | [343787-santas-workshop.json](./343787-santas-workshop.json) |
 | Santa's Workshop Challenge: The North Pole Gift Adventure | 283241 | [283241-santas-workshop-challenge-the-north-pole-gift-adventure.json](./283241-santas-workshop-challenge-the-north-pole-gift-adventure.json) |
@@ -1787,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Lands | 17548 | [17548-savage-lands.json](./17548-savage-lands.json) |
 | Savage Moon | 20396 | [20396-savage-moon.json](./20396-savage-moon.json) |
 | Savage Moon: The Hera Campaign | 67209 | [67209-savage-moon-the-hera-campaign.json](./67209-savage-moon-the-hera-campaign.json) |
+| Savage Offroad | 76369 | [76369-savage-offroad.json](./76369-savage-offroad.json) |
 | Savage Pond | 299436 | [299436-savage-pond.json](./299436-savage-pond.json) |
 | Savage Quest | 147053 | [147053-savage-quest.json](./147053-savage-quest.json) |
 | Savage Reign | 39565 | [39565-savage-reign.json](./39565-savage-reign.json) |
@@ -1933,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Us | 190931 | [190931-save-us.json](./190931-save-us.json) |
 | Save Us, Doctor Faust! | 416827 | [416827-save-us-doctor-faust.json](./416827-save-us-doctor-faust.json) |
 | Save Your Crabies | 347500 | [347500-save-your-crabies.json](./347500-save-your-crabies.json) |
+| Save Your Nuts | 76347 | [76347-save-your-nuts.json](./76347-save-your-nuts.json) |
 | Save Your Soul | 370187 | [370187-save-your-soul.json](./370187-save-your-soul.json) |
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
 | Saved | 193249 | [193249-saved.json](./193249-saved.json) |
@@ -2873,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scream of the Viking 3 | 117074 | [117074-scream-of-the-viking-3.json](./117074-scream-of-the-viking-3.json) |
 | Scream or Die | 277435 | [277435-scream-or-die.json](./277435-scream-or-die.json) |
 | Scream or Die: Virtual Circus | 280305 | [280305-scream-or-die-virtual-circus.json](./280305-scream-or-die-virtual-circus.json) |
+| Scream Varily | 76419 | [76419-scream-varily.json](./76419-scream-varily.json) |
 | Scream You Lose | 404164 | [404164-scream-you-lose.json](./404164-scream-you-lose.json) |
 | Screamboat Willie | 291464 | [291464-screamboat-willie.json](./291464-screamboat-willie.json) |
 | ScreamCap | 190723 | [190723-screamcap.json](./190723-screamcap.json) |
@@ -3275,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seahaven Towers Solitaire | 83465 | [83465-seahaven-towers-solitaire.json](./83465-seahaven-towers-solitaire.json) |
 | Seal Breaker | 181202 | [181202-seal-breaker.json](./181202-seal-breaker.json) |
 | Seal Game's | 389608 | [389608-seal-games.json](./389608-seal-games.json) |
+| Seal Guardian | 76392 | [76392-seal-guardian.json](./76392-seal-guardian.json) |
 | Seal M | 267580 | [267580-seal-m.json](./267580-seal-m.json) |
 | Seal of Evil | 14586 | [14586-seal-of-evil.json](./14586-seal-of-evil.json) |
 | Seal of Fate | 369855 | [369855-seal-of-fate.json](./369855-seal-of-fate.json) |
@@ -9915,6 +9920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Repairs | 108916 | [108916-sky-repairs.json](./108916-sky-repairs.json) |
 | Sky Resort 2 | 375974 | [375974-sky-resort-2.json](./375974-sky-resort-2.json) |
 | Sky Revolver | 342154 | [342154-sky-revolver.json](./342154-sky-revolver.json) |
+| Sky Road | 76383 | [76383-sky-road.json](./76383-sky-road.json) |
 | Sky Robo | 327321 | [327321-sky-robo.json](./327321-sky-robo.json) |
 | Sky Roll! | 147653 | [147653-sky-roll.json](./147653-sky-roll.json) |
 | Sky Rollball | 28844 | [28844-sky-rollball.json](./28844-sky-rollball.json) |
@@ -14608,6 +14614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Street | 275511 | [275511-soul-street.json](./275511-soul-street.json) |
 | Soul Strike | 297712 | [297712-soul-strike.json](./297712-soul-strike.json) |
 | Soul Surfer | 66566 | [66566-soul-surfer.json](./66566-soul-surfer.json) |
+| Soul Survival | 76390 | [76390-soul-survival.json](./76390-soul-survival.json) |
 | Soul Survivor | 147413 | [147413-soul-survivor.json](./147413-soul-survivor.json) |
 | Soul Survivor | 329001 | [329001-soul-survivor.json](./329001-soul-survivor.json) |
 | Soul Survivor | 61706 | [61706-soul-survivor.json](./61706-soul-survivor.json) |
@@ -19351,6 +19358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Hunters - Season 5: Scum & Villainy | 347677 | [347677-star-wars-hunters-season-5-scum-and-villainy.json](./347677-star-wars-hunters-season-5-scum-and-villainy.json) |
 | Star Wars: Imperial Assault | 198919 | [198919-star-wars-imperial-assault.json](./198919-star-wars-imperial-assault.json) |
 | Star Wars: Imperial Assault | 199015 | [199015-star-wars-imperial-assault.json](./199015-star-wars-imperial-assault.json) |
+| Star Wars: Imperial Assault - Legends of the Alliance | 76411 | [76411-star-wars-imperial-assault-legends-of-the-alliance.json](./76411-star-wars-imperial-assault-legends-of-the-alliance.json) |
 | Star Wars: Jedi Adventure | 62669 | [62669-star-wars-jedi-adventure.json](./62669-star-wars-jedi-adventure.json) |
 | Star Wars: Jedi Challenges | 75089 | [75089-star-wars-jedi-challenges.json](./75089-star-wars-jedi-challenges.json) |
 | Star Wars: Jedi Knight - Dark Forces II | 150 | [150-star-wars-jedi-knight-dark-forces-ii.json](./150-star-wars-jedi-knight-dark-forces-ii.json) |
@@ -27352,6 +27360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap Heroes | 197242 | [197242-swap-heroes.json](./197242-swap-heroes.json) |
 | Swap Motion | 316134 | [316134-swap-motion.json](./316134-swap-motion.json) |
 | Swap n Merge | 121509 | [121509-swap-n-merge.json](./121509-swap-n-merge.json) |
+| Swap Roles | 76400 | [76400-swap-roles.json](./76400-swap-roles.json) |
 | Swap Swamp | 372235 | [372235-swap-swamp.json](./372235-swap-swamp.json) |
 | Swap Swap | 110536 | [110536-swap-swap.json](./110536-swap-swap.json) |
 | Swap Sword | 98539 | [98539-swap-sword.json](./98539-swap-sword.json) |
