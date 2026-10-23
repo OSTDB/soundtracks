@@ -8120,6 +8120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloak & Dagger: Shadow Operations | 255576 | [255576-cloak-and-dagger-shadow-operations.json](./255576-cloak-and-dagger-shadow-operations.json) |
 | Cloak And Coin | 365810 | [365810-cloak-and-coin.json](./365810-cloak-and-coin.json) |
 | Cloak Hero | 258494 | [258494-cloak-hero.json](./258494-cloak-hero.json) |
+| Cloak of Darkness | 79091 | [79091-cloak-of-darkness.json](./79091-cloak-of-darkness.json) |
 | Cloaked Protocol | 284977 | [284977-cloaked-protocol.json](./284977-cloaked-protocol.json) |
 | Cloaks and Capes | 148471 | [148471-cloaks-and-capes.json](./148471-cloaks-and-capes.json) |
 | Clobber Barons | 356800 | [356800-clobber-barons.json](./356800-clobber-barons.json) |
@@ -9673,6 +9674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colors: Lost Memories | 269122 | [269122-colors-lost-memories.json](./269122-colors-lost-memories.json) |
 | Colors: Zero | 233353 | [233353-colors-zero.json](./233353-colors-zero.json) |
 | Colors! | 162848 | [162848-colors.json](./162848-colors.json) |
+| Colors! | 79053 | [79053-colors.json](./79053-colors.json) |
 | Colors! Maze | 193486 | [193486-colors-maze.json](./193486-colors-maze.json) |
 | Colors! Maze 2 | 195536 | [195536-colors-maze-2.json](./195536-colors-maze-2.json) |
 | Colors! Platform | 199607 | [199607-colors-platform.json](./199607-colors-platform.json) |
@@ -11453,6 +11455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CorePiercer | 159716 | [159716-corepiercer.json](./159716-corepiercer.json) |
 | Corepunk | 127513 | [127513-corepunk.json](./127513-corepunk.json) |
 | Corestory | 398551 | [398551-corestory.json](./398551-corestory.json) |
+| CoreTechs Tactics | 79112 | [79112-coretechs-tactics.json](./79112-coretechs-tactics.json) |
 | Coreupt | 130328 | [130328-coreupt.json](./130328-coreupt.json) |
 | CoreVR | 291214 | [291214-corevr.json](./291214-corevr.json) |
 | Corewave Defenders | 382292 | [382292-corewave-defenders.json](./382292-corewave-defenders.json) |
@@ -11997,6 +12000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Couch Racers | 363960 | [363960-couch-racers.json](./363960-couch-racers.json) |
 | Couch Storm: Battle Royale | 119735 | [119735-couch-storm-battle-royale.json](./119735-couch-storm-battle-royale.json) |
 | Couch Versus | 113669 | [113669-couch-versus.json](./113669-couch-versus.json) |
+| Cougar Force | 79086 | [79086-cougar-force.json](./79086-cougar-force.json) |
 | Cougar's Quest for Freedom | 166853 | [166853-cougars-quest-for-freedom.json](./166853-cougars-quest-for-freedom.json) |
 | Coughing Crag | 269448 | [269448-coughing-crag.json](./269448-coughing-crag.json) |
 | Couic d'or ! | 328595 | [328595-couic-dor.json](./328595-couic-dor.json) |
@@ -14868,6 +14872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Crawler | 193939 | [193939-cube-crawler.json](./193939-cube-crawler.json) |
 | Cube Crawler | 328260 | [328260-cube-crawler.json](./328260-cube-crawler.json) |
 | Cube Creator DX | 56162 | [56162-cube-creator-dx.json](./56162-cube-creator-dx.json) |
+| Cube Creator X | 79057 | [79057-cube-creator-x.json](./79057-cube-creator-x.json) |
 | Cube Creatures | 51988 | [51988-cube-creatures.json](./51988-cube-creatures.json) |
 | Cube Crisis | 156094 | [156094-cube-crisis.json](./156094-cube-crisis.json) |
 | Cube Crusaders | 265676 | [265676-cube-crusaders.json](./265676-cube-crusaders.json) |
