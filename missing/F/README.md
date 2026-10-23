@@ -1347,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Rush | 101992 | [101992-family-rush.json](./101992-family-rush.json) |
 | Family School | 48767 | [48767-family-school.json](./48767-family-school.json) |
 | Family Secret | 75185 | [75185-family-secret.json](./75185-family-secret.json) |
+| Family Slot Car Racing | 67779 | [67779-family-slot-car-racing.json](./67779-family-slot-car-racing.json) |
 | Family Sport | 346056 | [346056-family-sport.json](./346056-family-sport.json) |
 | Family Sport 41-in-1 | 247001 | [247001-family-sport-41-in-1.json](./247001-family-sport-41-in-1.json) |
 | Family Stadium 2003 | 3913 | [3913-family-stadium-2003.json](./3913-family-stadium-2003.json) |
@@ -3559,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fifth Element II Hikari to Yami no Ouji | 58742 | [58742-fifth-element-ii-hikari-to-yami-no-ouji.json](./58742-fifth-element-ii-hikari-to-yami-no-ouji.json) |
 | Fifth Element Tamashii no Genso | 58743 | [58743-fifth-element-tamashii-no-genso.json](./58743-fifth-element-tamashii-no-genso.json) |
 | Fifth Era: Fragments of the Holy Stone | 162414 | [162414-fifth-era-fragments-of-the-holy-stone.json](./162414-fifth-era-fragments-of-the-holy-stone.json) |
+| Fifth Phantom Saga | 67827 | [67827-fifth-phantom-saga.json](./67827-fifth-phantom-saga.json) |
 | Fifth World | 272769 | [272769-fifth-world.json](./272769-fifth-world.json) |
 | Fifty Words by Powgi | 123311 | [123311-fifty-words-by-powgi.json](./123311-fifty-words-by-powgi.json) |
 | Fig: The Game for Depression | 395113 | [395113-fig-the-game-for-depression.json](./395113-fig-the-game-for-depression.json) |
