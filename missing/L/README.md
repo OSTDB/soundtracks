@@ -4449,6 +4449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lionhearts | 398560 | [398560-lionhearts.json](./398560-lionhearts.json) |
 | Lionkiller | 138256 | [138256-lionkiller.json](./138256-lionkiller.json) |
 | Liono IceCape | 364240 | [364240-liono-icecape.json](./364240-liono-icecape.json) |
+| Lions of the Universe | 70215 | [70215-lions-of-the-universe.json](./70215-lions-of-the-universe.json) |
 | LIP! Lewd Idol Project Vol. 2 | 193266 | [193266-lip-lewd-idol-project-vol-2.json](./193266-lip-lewd-idol-project-vol-2.json) |
 | LIP! Lewd Idol Project Vol. 2: Hot Springs and Beach Episodes | 254576 | [254576-lip-lewd-idol-project-vol-2-hot-springs-and-beach-episodes.json](./254576-lip-lewd-idol-project-vol-2-hot-springs-and-beach-episodes.json) |
 | LIP! Lewd Idol Project Vol. 3 | 244620 | [244620-lip-lewd-idol-project-vol-3.json](./244620-lip-lewd-idol-project-vol-3.json) |
@@ -6475,6 +6476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In The Murk | 245776 | [245776-lost-in-the-murk.json](./245776-lost-in-the-murk.json) |
 | Lost in the Mythic Island | 100306 | [100306-lost-in-the-mythic-island.json](./100306-lost-in-the-mythic-island.json) |
 | Lost in the Nightmare | 71719 | [71719-lost-in-the-nightmare.json](./71719-lost-in-the-nightmare.json) |
+| Lost in the Nightmare: Deluxe Edition | 70236 | [70236-lost-in-the-nightmare-deluxe-edition.json](./70236-lost-in-the-nightmare-deluxe-edition.json) |
 | Lost in the Open | 208609 | [208609-lost-in-the-open.json](./208609-lost-in-the-open.json) |
 | Lost in the Pages | 197033 | [197033-lost-in-the-pages.json](./197033-lost-in-the-pages.json) |
 | Lost in the Past: A Heart's Remembrance Labyrinth | 287210 | [287210-lost-in-the-past-a-hearts-remembrance-labyrinth.json](./287210-lost-in-the-past-a-hearts-remembrance-labyrinth.json) |
@@ -7203,6 +7205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low and Furious | 270569 | [270569-low-and-furious.json](./270569-low-and-furious.json) |
 | Low Batt | 315222 | [315222-low-batt.json](./315222-low-batt.json) |
 | Low Battery | 354408 | [354408-low-battery.json](./354408-low-battery.json) |
+| Low Blow | 70205 | [70205-low-blow.json](./70205-low-blow.json) |
 | Low Desert Punk | 65810 | [65810-low-desert-punk.json](./65810-low-desert-punk.json) |
 | Low Earth Orbit Adventures | 391168 | [391168-low-earth-orbit-adventures.json](./391168-low-earth-orbit-adventures.json) |
 | Low Effort Romance | 383733 | [383733-low-effort-romance.json](./383733-low-effort-romance.json) |
