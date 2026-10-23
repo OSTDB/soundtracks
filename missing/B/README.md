@@ -3436,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleground 4: Shiloh | 609 | [609-battleground-4-shiloh.json](./609-battleground-4-shiloh.json) |
 | Battleground 5: Antietam | 610 | [610-battleground-5-antietam.json](./610-battleground-5-antietam.json) |
 | Battleground 6: Napoleon in Russi | 22616 | [22616-battleground-6-napoleon-in-russi.json](./22616-battleground-6-napoleon-in-russi.json) |
+| Battleground 6: Napoleon in Russia | 47023 | [47023-battleground-6-napoleon-in-russia.json](./47023-battleground-6-napoleon-in-russia.json) |
 | Battleground 7: Bull Run | 22618 | [22618-battleground-7-bull-run.json](./22618-battleground-7-bull-run.json) |
 | Battleground 8: Prelude to Waterloo | 22619 | [22619-battleground-8-prelude-to-waterloo.json](./22619-battleground-8-prelude-to-waterloo.json) |
 | Battleground 9: Chickamauga | 22617 | [22617-battleground-9-chickamauga.json](./22617-battleground-9-chickamauga.json) |
@@ -7735,6 +7736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Brawl 2: Bloody Boogaloo | 33414 | [33414-blast-brawl-2-bloody-boogaloo.json](./33414-blast-brawl-2-bloody-boogaloo.json) |
 | Blast Breaker Online | 79363 | [79363-blast-breaker-online.json](./79363-blast-breaker-online.json) |
 | Blast Brigade vs. the Evil Legion of Dr. Cread | 146722 | [146722-blast-brigade-vs-the-evil-legion-of-dr-cread.json](./146722-blast-brigade-vs-the-evil-legion-of-dr-cread.json) |
+| Blast Chamber | 47014 | [47014-blast-chamber.json](./47014-blast-chamber.json) |
 | Blast Dash | 411571 | [411571-blast-dash.json](./411571-blast-dash.json) |
 | Blast Doors | 65401 | [65401-blast-doors.json](./65401-blast-doors.json) |
 | Blast Droids | 172025 | [172025-blast-droids.json](./172025-blast-droids.json) |
@@ -12267,6 +12269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Crossy Road | 241613 | [241613-brick-crossy-road.json](./241613-brick-crossy-road.json) |
 | Brick Dungeon | 256457 | [256457-brick-dungeon.json](./256457-brick-dungeon.json) |
 | Brick Exorcist | 344423 | [344423-brick-exorcist.json](./344423-brick-exorcist.json) |
+| Brick Force | 47044 | [47044-brick-force.json](./47044-brick-force.json) |
 | Brick Force: Black Knight | 155573 | [155573-brick-force-black-knight.json](./155573-brick-force-black-knight.json) |
 | Brick Force: Navy Soldier | 155572 | [155572-brick-force-navy-soldier.json](./155572-brick-force-navy-soldier.json) |
 | Brick Game | 106202 | [106202-brick-game.json](./106202-brick-game.json) |
@@ -14010,6 +14013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burdenfall | 391664 | [391664-burdenfall.json](./391664-burdenfall.json) |
 | Burder | 250853 | [250853-burder.json](./250853-burder.json) |
 | Burdock 2 | 353766 | [353766-burdock-2.json](./353766-burdock-2.json) |
+| Bureau 13 | 47012 | [47012-bureau-13.json](./47012-bureau-13.json) |
 | Bureau of Contacts | 288669 | [288669-bureau-of-contacts.json](./288669-bureau-of-contacts.json) |
 | Bureaucromancer | 408233 | [408233-bureaucromancer.json](./408233-bureaucromancer.json) |
 | Burg Battle | 153391 | [153391-burg-battle.json](./153391-burg-battle.json) |
