@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Zero: Perfect Stop | 314997 | [314997-zero-zero-perfect-stop.json](./314997-zero-zero-perfect-stop.json) |
 | Zero Zion | 117357 | [117357-zero-zion.json](./117357-zero-zion.json) |
 | Zero Zone | 94692 | [94692-zero-zone.json](./94692-zero-zone.json) |
+| Zero-4 Champ RR | 60307 | [60307-zero-4-champ-rr.json](./60307-zero-4-champ-rr.json) |
 | Zero-5 | 381933 | [381933-zero-5.json](./381933-zero-5.json) |
 | Zero-G Gunfight | 150931 | [150931-zero-g-gunfight.json](./150931-zero-g-gunfight.json) |
 | Zero-G MMO | 396231 | [396231-zero-g-mmo.json](./396231-zero-g-mmo.json) |
