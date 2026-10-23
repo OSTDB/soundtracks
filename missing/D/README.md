@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dami and Secret Library | 375507 | [375507-dami-and-secret-library.json](./375507-dami-and-secret-library.json) |
 | Damien: The Game | 239538 | [239538-damien-the-game.json](./239538-damien-the-game.json) |
 | Damion Shard: Ace Attorney | 302643 | [302643-damion-shard-ace-attorney.json](./302643-damion-shard-ace-attorney.json) |
+| Damn | 55616 | [55616-damn.json](./55616-damn.json) |
 | Damn Daniel: Basket Game | 252818 | [252818-damn-daniel-basket-game.json](./252818-damn-daniel-basket-game.json) |
 | Damn Daniel: White Vans Adventure | 201236 | [201236-damn-daniel-white-vans-adventure.json](./201236-damn-daniel-white-vans-adventure.json) |
 | Damn Dog | 313198 | [313198-damn-dog.json](./313198-damn-dog.json) |
@@ -4406,6 +4407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defect detector | 219237 | [219237-defect-detector.json](./219237-defect-detector.json) |
 | Defect Process | 173029 | [173029-defect-process.json](./173029-defect-process.json) |
 | Defective | 343738 | [343738-defective.json](./343738-defective.json) |
+| Defective | 55730 | [55730-defective.json](./55730-defective.json) |
 | Defence Agent Gaya | 82906 | [82906-defence-agent-gaya.json](./82906-defence-agent-gaya.json) |
 | Defence Mission | 246324 | [246324-defence-mission.json](./246324-defence-mission.json) |
 | Defence of the Arcane Realms | 298679 | [298679-defence-of-the-arcane-realms.json](./298679-defence-of-the-arcane-realms.json) |
