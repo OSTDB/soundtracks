@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quartz | 15352 | [15352-quartz.json](./15352-quartz.json) |
 | Quartz's Quest | 245036 | [245036-quartzs-quest.json](./245036-quartzs-quest.json) |
 | Quasar | 198123 | [198123-quasar.json](./198123-quasar.json) |
+| Quasar Commander | 44337 | [44337-quasar-commander.json](./44337-quasar-commander.json) |
 | Quasar Kid | 183788 | [183788-quasar-kid.json](./183788-quasar-kid.json) |
 | Quasara | 110191 | [110191-quasara.json](./110191-quasara.json) |
 | Quase Rosa | 373857 | [373857-quase-rosa.json](./373857-quase-rosa.json) |
