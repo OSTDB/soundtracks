@@ -1174,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanae Toumaden X2 | 224689 | [224689-sanae-toumaden-x2.json](./224689-sanae-toumaden-x2.json) |
 | Sanae's Sylphid Breeze | 300377 | [300377-sanaes-sylphid-breeze.json](./300377-sanaes-sylphid-breeze.json) |
 | Sanalika | 180296 | [180296-sanalika.json](./180296-sanalika.json) |
+| SanaPoka | 82574 | [82574-sanapoka.json](./82574-sanapoka.json) |
 | Sanasana | 411754 | [411754-sanasana.json](./411754-sanasana.json) |
 | Sanator: Elmo's Legacy | 197090 | [197090-sanator-elmos-legacy.json](./197090-sanator-elmos-legacy.json) |
 | Sanator: Scarlet Scarf | 113006 | [113006-sanator-scarlet-scarf.json](./113006-sanator-scarlet-scarf.json) |
@@ -22543,6 +22544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuck! | 177537 | [177537-stuck.json](./177537-stuck.json) |
 | Stuck? | 176967 | [176967-stuck.json](./176967-stuck.json) |
 | Student Council Leader Auriel | 247524 | [247524-student-council-leader-auriel.json](./247524-student-council-leader-auriel.json) |
+| Student Council President Shizuka: Undercover Investigation into Neglectful Men's School | 82614 | [82614-student-council-president-shizuka-undercover-investigation-into-neglectful-mens-school.json](./82614-student-council-president-shizuka-undercover-investigation-into-neglectful-mens-school.json) |
 | Student Transfer | 191892 | [191892-student-transfer.json](./191892-student-transfer.json) |
 | Students of Psionic Power | 211260 | [211260-students-of-psionic-power.json](./211260-students-of-psionic-power.json) |
 | Students' Horrible Stories: FIN | 147417 | [147417-students-horrible-stories-fin.json](./147417-students-horrible-stories-fin.json) |
@@ -23314,6 +23316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide Squad: Kill the Justice League - Season of Freeze | 317869 | [317869-suicide-squad-kill-the-justice-league-season-of-freeze.json](./317869-suicide-squad-kill-the-justice-league-season-of-freeze.json) |
 | Suicide Squad: Kill the Justice League - Season of the Joker | 317868 | [317868-suicide-squad-kill-the-justice-league-season-of-the-joker.json](./317868-suicide-squad-kill-the-justice-league-season-of-the-joker.json) |
 | Suicide Voyage | 67638 | [67638-suicide-voyage.json](./67638-suicide-voyage.json) |
+| Suicider | 82597 | [82597-suicider.json](./82597-suicider.json) |
 | Suidou Kozou | 91949 | [91949-suidou-kozou.json](./91949-suidou-kozou.json) |
 | Suigetsu 2 | 93515 | [93515-suigetsu-2.json](./93515-suigetsu-2.json) |
 | Suigetsu: Mayoi-Gokoro | 396592 | [396592-suigetsu-mayoi-gokoro.json](./396592-suigetsu-mayoi-gokoro.json) |
