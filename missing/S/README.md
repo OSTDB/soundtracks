@@ -4070,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Splash! Golf | 136872 | [136872-sega-splash-golf.json](./136872-sega-splash-golf.json) |
 | Sega Sports 1 | 47061 | [47061-sega-sports-1.json](./47061-sega-sports-1.json) |
 | Sega Sports 1 | 56844 | [56844-sega-sports-1.json](./56844-sega-sports-1.json) |
+| Sega Sports NFL 98 | 45771 | [45771-sega-sports-nfl-98.json](./45771-sega-sports-nfl-98.json) |
 | Sega Strike Fighter | 112506 | [112506-sega-strike-fighter.json](./112506-sega-strike-fighter.json) |
 | Sega Superstars Tennis | 255326 | [255326-sega-superstars-tennis.json](./255326-sega-superstars-tennis.json) |
 | Sega Superstars Tennis and Xbox Live Arcade Compilation Disc | 227984 | [227984-sega-superstars-tennis-and-xbox-live-arcade-compilation-disc.json](./227984-sega-superstars-tennis-and-xbox-live-arcade-compilation-disc.json) |
@@ -7566,6 +7567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show do Milhão Júnior | 135500 | [135500-show-do-milhao-junior.json](./135500-show-do-milhao-junior.json) |
 | Show do Milhão Júnior Volume 2 | 222358 | [222358-show-do-milhao-junior-volume-2.json](./222358-show-do-milhao-junior-volume-2.json) |
 | Show do Milhão Volume 2 | 122333 | [122333-show-do-milhao-volume-2.json](./122333-show-do-milhao-volume-2.json) |
+| Show do Milhão Volume 2 | 45764 | [45764-show-do-milhao-volume-2.json](./45764-show-do-milhao-volume-2.json) |
 | Show do Milhão Volume 3 | 122362 | [122362-show-do-milhao-volume-3.json](./122362-show-do-milhao-volume-3.json) |
 | Show do Milho Grande | 359981 | [359981-show-do-milho-grande.json](./359981-show-do-milho-grande.json) |
 | Show for Lovers | 133048 | [133048-show-for-lovers.json](./133048-show-for-lovers.json) |
@@ -13603,6 +13605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 2 Megamix | 136921 | [136921-sonic-2-megamix.json](./136921-sonic-2-megamix.json) |
 | Sonic 2 Retro Remix | 203167 | [203167-sonic-2-retro-remix.json](./203167-sonic-2-retro-remix.json) |
 | Sonic 2 SMS Remake | 227799 | [227799-sonic-2-sms-remake.json](./227799-sonic-2-sms-remake.json) |
+| Sonic 2 XL | 45755 | [45755-sonic-2-xl.json](./45755-sonic-2-xl.json) |
 | Sonic 2: Chaos Adventure | 333957 | [333957-sonic-2-chaos-adventure.json](./333957-sonic-2-chaos-adventure.json) |
 | Sonic 2.5 | 333711 | [333711-sonic-2-5.json](./333711-sonic-2-5.json) |
 | Sonic 2006 | 310952 | [310952-sonic-2006.json](./310952-sonic-2006.json) |
@@ -13761,6 +13764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Continuity Distortion | 316337 | [316337-sonic-continuity-distortion.json](./316337-sonic-continuity-distortion.json) |
 | Sonic Core | 130038 | [130038-sonic-core.json](./130038-sonic-core.json) |
 | Sonic Core | 332596 | [332596-sonic-core.json](./332596-sonic-core.json) |
+| Sonic Crackers | 45753 | [45753-sonic-crackers.json](./45753-sonic-crackers.json) |
 | Sonic Darts | 261252 | [261252-sonic-darts.json](./261252-sonic-darts.json) |
 | Sonic Dash | 19506 | [19506-sonic-dash.json](./19506-sonic-dash.json) |
 | Sonic Dash | 330299 | [330299-sonic-dash.json](./330299-sonic-dash.json) |
@@ -14697,6 +14701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Drifter | 265476 | [265476-soul-drifter.json](./265476-soul-drifter.json) |
 | Soul Eater | 292399 | [292399-soul-eater.json](./292399-soul-eater.json) |
 | Soul Eater: Battle Resonance | 44527 | [44527-soul-eater-battle-resonance.json](./44527-soul-eater-battle-resonance.json) |
+| Soul Edge Vs. Samurai Spirits | 45754 | [45754-soul-edge-vs-samurai-spirits.json](./45754-soul-edge-vs-samurai-spirits.json) |
 | Soul Elegy | 165666 | [165666-soul-elegy.json](./165666-soul-elegy.json) |
 | Soul Essence | 174827 | [174827-soul-essence.json](./174827-soul-essence.json) |
 | Soul Essence | 366582 | [366582-soul-essence.json](./366582-soul-essence.json) |
@@ -19186,6 +19191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ocean: Second Evolution | 80504 | [80504-star-ocean-second-evolution.json](./80504-star-ocean-second-evolution.json) |
 | Star Ocean: The Divine Force | 178298 | [178298-star-ocean-the-divine-force.json](./178298-star-ocean-the-divine-force.json) |
 | Star Ocean: The Last Hope | 7192 | [7192-star-ocean-the-last-hope.json](./7192-star-ocean-the-last-hope.json) |
+| Star Odyssey | 45757 | [45757-star-odyssey.json](./45757-star-odyssey.json) |
 | Star of Games | 399434 | [399434-star-of-games.json](./399434-star-of-games.json) |
 | Star of Lemutia | 76541 | [76541-star-of-lemutia.json](./76541-star-of-lemutia.json) |
 | Star of Lemutia: Reborn | 126419 | [126419-star-of-lemutia-reborn.json](./126419-star-of-lemutia-reborn.json) |
