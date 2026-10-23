@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M Hard | 257654 | [257654-m-hard.json](./257654-m-hard.json) |
 | M Hold'em | 247198 | [247198-m-holdem.json](./247198-m-holdem.json) |
 | M_rdle | 372094 | [372094-m-rdle.json](./372094-m-rdle.json) |
+| M-1 Abrams Battle Tank | 45775 | [45775-m-1-abrams-battle-tank.json](./45775-m-1-abrams-battle-tank.json) |
 | M-1 Abrams Battletank | 45600 | [45600-m-1-abrams-battletank.json](./45600-m-1-abrams-battletank.json) |
 | M-79 Ambush | 123021 | [123021-m-79-ambush.json](./123021-m-79-ambush.json) |
 | M-Plan | 109868 | [109868-m-plan.json](./109868-m-plan.json) |
@@ -822,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Bubble | 246100 | [246100-magic-bubble.json](./246100-magic-bubble.json) |
 | Magic Bubble | 246455 | [246455-magic-bubble.json](./246455-magic-bubble.json) |
 | Magic Bubble | 287655 | [287655-magic-bubble.json](./287655-magic-bubble.json) |
+| Magic Bubble | 45743 | [45743-magic-bubble.json](./45743-magic-bubble.json) |
 | Magic Bubbles | 225208 | [225208-magic-bubbles.json](./225208-magic-bubbles.json) |
 | Magic Cards Duel | 409793 | [409793-magic-cards-duel.json](./409793-magic-cards-duel.json) |
 | Magic Cards Solitaire 2: The Fountain of Life | 274915 | [274915-magic-cards-solitaire-2-the-fountain-of-life.json](./274915-magic-cards-solitaire-2-the-fountain-of-life.json) |
@@ -2246,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mammoth Mini Golf AR | 87202 | [87202-mammoth-mini-golf-ar.json](./87202-mammoth-mini-golf-ar.json) |
 | Mammy Talk DS | 130391 | [130391-mammy-talk-ds.json](./130391-mammy-talk-ds.json) |
 | MamoBall | 208365 | [208365-mamoball.json](./208365-mamoball.json) |
+| Mamono Hunter Youko: Dai 7 no Keishou | 45722 | [45722-mamono-hunter-youko-dai-7-no-keishou.json](./45722-mamono-hunter-youko-dai-7-no-keishou.json) |
 | Mamono Hunter Youko: Makai Kara no Tenkousei | 292862 | [292862-mamono-hunter-youko-makai-kara-no-tenkousei.json](./292862-mamono-hunter-youko-makai-kara-no-tenkousei.json) |
 | Mamono Hunter Youko: Tooki Yobigoe | 292863 | [292863-mamono-hunter-youko-tooki-yobigoe.json](./292863-mamono-hunter-youko-tooki-yobigoe.json) |
 | Mamono Mower | 328333 | [328333-mamono-mower.json](./328333-mamono-mower.json) |
@@ -6588,6 +6591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megami Tensei Gaiden: Last Bible Special | 45263 | [45263-megami-tensei-gaiden-last-bible-special.json](./45263-megami-tensei-gaiden-last-bible-special.json) |
 | Megami Tensei Gaiden: Shinyaku Last Bible | 202957 | [202957-megami-tensei-gaiden-shinyaku-last-bible.json](./202957-megami-tensei-gaiden-shinyaku-last-bible.json) |
 | Megami Tensei QIX: Persona 3 | 289392 | [289392-megami-tensei-qix-persona-3.json](./289392-megami-tensei-qix-persona-3.json) |
+| MegaMind | 45742 | [45742-megamind.json](./45742-megamind.json) |
 | Megamind: Mega Team Unite | 51061 | [51061-megamind-mega-team-unite.json](./51061-megamind-mega-team-unite.json) |
 | Megamind: The Blue Defender | 47896 | [47896-megamind-the-blue-defender.json](./47896-megamind-the-blue-defender.json) |
 | Megamix | 110766 | [110766-megamix.json](./110766-megamix.json) |
@@ -9053,6 +9057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miffed | 180821 | [180821-miffed.json](./180821-miffed.json) |
 | Miffy's World | 85289 | [85289-miffys-world.json](./85289-miffys-world.json) |
 | MiG Alley | 789 | [789-mig-alley.json](./789-mig-alley.json) |
+| MIG-29 Fighter Pilot | 45773 | [45773-mig-29-fighter-pilot.json](./45773-mig-29-fighter-pilot.json) |
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
 | Migakamikagami: Reviver | 358631 | [358631-migakamikagami-reviver.json](./358631-migakamikagami-reviver.json) |
 | Migawari Shoujo | 150571 | [150571-migawari-shoujo.json](./150571-migawari-shoujo.json) |
@@ -14845,6 +14850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Nibbles Forever | 33372 | [33372-mr-nibbles-forever.json](./33372-mr-nibbles-forever.json) |
 | Mr. Nutz | 249142 | [249142-mr-nutz.json](./249142-mr-nutz.json) |
 | Mr. Nutz | 249143 | [249143-mr-nutz.json](./249143-mr-nutz.json) |
+| Mr. Nutz 2 | 45735 | [45735-mr-nutz-2.json](./45735-mr-nutz-2.json) |
 | Mr. Nutz: Hoppin' Mad | 39030 | [39030-mr-nutz-hoppin-mad.json](./39030-mr-nutz-hoppin-mad.json) |
 | Mr. Onion | 246354 | [246354-mr-onion.json](./246354-mr-onion.json) |
 | Mr. Parkour | 141034 | [141034-mr-parkour.json](./141034-mr-parkour.json) |
@@ -17497,6 +17503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Conquests | 215639 | [215639-mystical-conquests.json](./215639-mystical-conquests.json) |
 | Mystical Crash in Magical Middle Ages: Adventure of Valkyrie | 313273 | [313273-mystical-crash-in-magical-middle-ages-adventure-of-valkyrie.json](./313273-mystical-crash-in-magical-middle-ages-adventure-of-valkyrie.json) |
 | Mystical Echoes | 149083 | [149083-mystical-echoes.json](./149083-mystical-echoes.json) |
+| Mystical Fighter | 45772 | [45772-mystical-fighter.json](./45772-mystical-fighter.json) |
 | Mystical Herbalists | 380195 | [380195-mystical-herbalists.json](./380195-mystical-herbalists.json) |
 | Mystical Map | 204939 | [204939-mystical-map.json](./204939-mystical-map.json) |
 | Mystical Mayhem | 156038 | [156038-mystical-mayhem.json](./156038-mystical-mayhem.json) |
