@@ -363,6 +363,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zedipede | 279732 | [279732-zedipede.json](./279732-zedipede.json) |
 | Zee Artillery | 93068 | [93068-zee-artillery.json](./93068-zee-artillery.json) |
 | Zee.End | 170280 | [170280-zee-end.json](./170280-zee-end.json) |
+| Zeebo Extreme: Bóia Cross | 66504 | [66504-zeebo-extreme-boia-cross.json](./66504-zeebo-extreme-boia-cross.json) |
+| Zeebo Extreme: Corrida Aérea | 66503 | [66503-zeebo-extreme-corrida-aerea.json](./66503-zeebo-extreme-corrida-aerea.json) |
+| Zeebo Extreme: Jetboard | 66502 | [66502-zeebo-extreme-jetboard.json](./66502-zeebo-extreme-jetboard.json) |
+| Zeebo Extreme: Rolimã | 66501 | [66501-zeebo-extreme-rolima.json](./66501-zeebo-extreme-rolima.json) |
 | Zeebo F.C. Foot Camp | 91898 | [91898-zeebo-f-c-foot-camp.json](./91898-zeebo-f-c-foot-camp.json) |
 | Zeebo F.C. Super League | 91899 | [91899-zeebo-f-c-super-league.json](./91899-zeebo-f-c-super-league.json) |
 | Zeebo Family Pack | 100263 | [100263-zeebo-family-pack.json](./100263-zeebo-family-pack.json) |
