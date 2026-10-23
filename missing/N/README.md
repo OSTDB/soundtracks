@@ -1550,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbours from Hell | 3132 | [3132-neighbours-from-hell.json](./3132-neighbours-from-hell.json) |
 | Neighbours from Hell Compilation | 53411 | [53411-neighbours-from-hell-compilation.json](./53411-neighbours-from-hell-compilation.json) |
 | Neighbours from Hell: Season 1 | 91248 | [91248-neighbours-from-hell-season-1.json](./91248-neighbours-from-hell-season-1.json) |
+| Neighbours From Hell: Season 2 | 89744 | [89744-neighbours-from-hell-season-2.json](./89744-neighbours-from-hell-season-2.json) |
 | Neighbours: The Adventure | 267373 | [267373-neighbours-the-adventure.json](./267373-neighbours-the-adventure.json) |
 | Neil Android | 354582 | [354582-neil-android.json](./354582-neil-android.json) |
 | Neil The Nail | 270742 | [270742-neil-the-nail.json](./270742-neil-the-nail.json) |
@@ -2744,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Collection | 53416 | [53416-new-york-collection.json](./53416-new-york-collection.json) |
 | New York Mysteries | 378774 | [378774-new-york-mysteries.json](./378774-new-york-mysteries.json) |
 | New York Mysteries | 53417 | [53417-new-york-mysteries.json](./53417-new-york-mysteries.json) |
+| New York Mysteries 2: High Voltage | 89632 | [89632-new-york-mysteries-2-high-voltage.json](./89632-new-york-mysteries-2-high-voltage.json) |
 | New York Mysteries 3: The Lantern of Souls | 87664 | [87664-new-york-mysteries-3-the-lantern-of-souls.json](./87664-new-york-mysteries-3-the-lantern-of-souls.json) |
 | New York Mysteries 5: Power of Art | 418315 | [418315-new-york-mysteries-5-power-of-art.json](./418315-new-york-mysteries-5-power-of-art.json) |
 | New York Mysteries: High Voltage | 34697 | [34697-new-york-mysteries-high-voltage.json](./34697-new-york-mysteries-high-voltage.json) |
@@ -2859,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Stop Nowhere | 136743 | [136743-next-stop-nowhere.json](./136743-next-stop-nowhere.json) |
 | Next Stop Zombie | 72364 | [72364-next-stop-zombie.json](./72364-next-stop-zombie.json) |
 | Next Sweetstop | 253884 | [253884-next-sweetstop.json](./253884-next-sweetstop.json) |
+| Next Turn for D&D 5E | 89769 | [89769-next-turn-for-d-and-d-5e.json](./89769-next-turn-for-d-and-d-5e.json) |
 | Next Up Hero | 45026 | [45026-next-up-hero.json](./45026-next-up-hero.json) |
 | Next: Merger with Power of 2 | 252562 | [252562-next-merger-with-power-of-2.json](./252562-next-merger-with-power-of-2.json) |
 | Nextbots In Backrooms: Obunga | 221228 | [221228-nextbots-in-backrooms-obunga.json](./221228-nextbots-in-backrooms-obunga.json) |
@@ -3672,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Shift | 321774 | [321774-nightmare-shift.json](./321774-nightmare-shift.json) |
 | Nightmare Side: The Game | 273448 | [273448-nightmare-side-the-game.json](./273448-nightmare-side-the-game.json) |
 | Nightmare Simulator | 343337 | [343337-nightmare-simulator.json](./343337-nightmare-simulator.json) |
+| Nightmare Simulator | 89641 | [89641-nightmare-simulator.json](./89641-nightmare-simulator.json) |
 | Nightmare Simulator 2 Rebirth | 148967 | [148967-nightmare-simulator-2-rebirth.json](./148967-nightmare-simulator-2-rebirth.json) |
 | Nightmare Slash | 204374 | [204374-nightmare-slash.json](./204374-nightmare-slash.json) |
 | Nightmare Tale | 292758 | [292758-nightmare-tale.json](./292758-nightmare-tale.json) |
