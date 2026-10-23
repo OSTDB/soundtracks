@@ -5685,6 +5685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Star Supermarket Simulator: Vinyl Vibes | 328573 | [328573-all-star-supermarket-simulator-vinyl-vibes.json](./328573-all-star-supermarket-simulator-vinyl-vibes.json) |
 | All-Star Troopers | 107378 | [107378-all-star-troopers.json](./107378-all-star-troopers.json) |
 | All-Star Watersports | 278852 | [278852-all-star-watersports.json](./278852-all-star-watersports.json) |
+| All-Terrain Challenge | 93412 | [93412-all-terrain-challenge.json](./93412-all-terrain-challenge.json) |
 | All-Time Battle | 140446 | [140446-all-time-battle.json](./140446-all-time-battle.json) |
 | All‑Stars 4‑Game Collection | 396440 | [396440-all-stars-4-game-collection.json](./396440-all-stars-4-game-collection.json) |
 | Alla Prima | 207315 | [207315-alla-prima.json](./207315-alla-prima.json) |
@@ -6687,6 +6688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amiga Classix 3 | 70939 | [70939-amiga-classix-3.json](./70939-amiga-classix-3.json) |
 | Amiga Encounter | 76230 | [76230-amiga-encounter.json](./76230-amiga-encounter.json) |
 | Amiga Poker | 76231 | [76231-amiga-poker.json](./76231-amiga-poker.json) |
+| Amiga Power Coverdisk 21 | 93413 | [93413-amiga-power-coverdisk-21.json](./93413-amiga-power-coverdisk-21.json) |
 | Amiganoid | 76238 | [76238-amiganoid.json](./76238-amiganoid.json) |
 | Amigdala | 19043 | [19043-amigdala.json](./19043-amigdala.json) |
 | Amigo | 92505 | [92505-amigo.json](./92505-amigo.json) |
@@ -12733,6 +12735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Recharged: Volume One | 324499 | [324499-atari-recharged-volume-one.json](./324499-atari-recharged-volume-one.json) |
 | Atari Recharged: Volume Two | 324500 | [324500-atari-recharged-volume-two.json](./324500-atari-recharged-volume-two.json) |
 | Atari Retro Handheld Console | 277413 | [277413-atari-retro-handheld-console.json](./277413-atari-retro-handheld-console.json) |
+| Atari Revival | 93395 | [93395-atari-revival.json](./93395-atari-revival.json) |
 | Atari Vault: 50 Game Add-On Pack | 169904 | [169904-atari-vault-50-game-add-on-pack.json](./169904-atari-vault-50-game-add-on-pack.json) |
 | Atari Video Cube | 12243 | [12243-atari-video-cube.json](./12243-atari-video-cube.json) |
 | Atari's Freeway for MSX-BASIC 2 | 267560 | [267560-ataris-freeway-for-msx-basic-2.json](./267560-ataris-freeway-for-msx-basic-2.json) |
@@ -13243,6 +13246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Stunt Racing: Extreme Offroad Simulator | 322658 | [322658-atv-stunt-racing-extreme-offroad-simulator.json](./322658-atv-stunt-racing-extreme-offroad-simulator.json) |
 | ATV Thunder Ridge Riders | 49369 | [49369-atv-thunder-ridge-riders.json](./49369-atv-thunder-ridge-riders.json) |
 | ATV Track | 250499 | [250499-atv-track.json](./250499-atv-track.json) |
+| ATV: Thunder Ridge Riders / Monster Trucks Mayhem | 93415 | [93415-atv-thunder-ridge-riders-monster-trucks-mayhem.json](./93415-atv-thunder-ridge-riders-monster-trucks-mayhem.json) |
 | ATYI | 335512 | [335512-atyi.json](./335512-atyi.json) |
 | Atypian | 369046 | [369046-atypian.json](./369046-atypian.json) |
 | Au | 360915 | [360915-au.json](./360915-au.json) |
