@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaporwave Vision Quest: Kmart Sepulcher | 144064 | [144064-vaporwave-vision-quest-kmart-sepulcher.json](./144064-vaporwave-vision-quest-kmart-sepulcher.json) |
 | Vaporwave World | 130202 | [130202-vaporwave-world.json](./130202-vaporwave-world.json) |
 | Vapour | 35849 | [35849-vapour.json](./35849-vapour.json) |
+| varBlocks | 91229 | [91229-varblocks.json](./91229-varblocks.json) |
 | Vardia | 275694 | [275694-vardia.json](./275694-vardia.json) |
 | Vardir | 178468 | [178468-vardir.json](./178468-vardir.json) |
 | VarDragons | 57114 | [57114-vardragons.json](./57114-vardragons.json) |
