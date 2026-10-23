@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikaruga: Limited Edition | 166304 | [166304-ikaruga-limited-edition.json](./166304-ikaruga-limited-edition.json) |
 | Ikasama Mahjong | 346150 | [346150-ikasama-mahjong.json](./346150-ikasama-mahjong.json) |
 | Ikasumi Potion | 308923 | [308923-ikasumi-potion.json](./308923-ikasumi-potion.json) |
+| Ikasuze! Koi no Doki-doki Penguin Land MD | 45731 | [45731-ikasuze-koi-no-doki-doki-penguin-land-md.json](./45731-ikasuze-koi-no-doki-doki-penguin-land-md.json) |
 | Ikatan: Ikamono Tantei | 72774 | [72774-ikatan-ikamono-tantei.json](./72774-ikatan-ikamono-tantei.json) |
 | Ikazuse! Koi no Doki Doki Penguin Land MD | 62488 | [62488-ikazuse-koi-no-doki-doki-penguin-land-md.json](./62488-ikazuse-koi-no-doki-doki-penguin-land-md.json) |
 | Ike Ike Dendai Bus | 251072 | [251072-ike-ike-dendai-bus.json](./251072-ike-ike-dendai-bus.json) |
