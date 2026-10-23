@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galak-Z: Variant S | 105801 | [105801-galak-z-variant-s.json](./105801-galak-z-variant-s.json) |
 | Galaksia Online | 407593 | [407593-galaksia-online.json](./407593-galaksia-online.json) |
 | GalanWarSong | 345966 | [345966-galanwarsong.json](./345966-galanwarsong.json) |
+| Galatea | 85923 | [85923-galatea.json](./85923-galatea.json) |
 | Galatic Hero Agency: Mind Matters | 114741 | [114741-galatic-hero-agency-mind-matters.json](./114741-galatic-hero-agency-mind-matters.json) |
 | Galatic Management | 123898 | [123898-galatic-management.json](./123898-galatic-management.json) |
 | Galatron | 110199 | [110199-galatron.json](./110199-galatron.json) |
@@ -3786,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glee. | 92687 | [92687-glee.json](./92687-glee.json) |
 | Gleeb Glob | 221613 | [221613-gleeb-glob.json](./221613-gleeb-glob.json) |
 | Gleep Gym | 299372 | [299372-gleep-gym.json](./299372-gleep-gym.json) |
+| Glen Hoddle Soccer | 85907 | [85907-glen-hoddle-soccer.json](./85907-glen-hoddle-soccer.json) |
 | Glen-moril | 373831 | [373831-glen-moril.json](./373831-glen-moril.json) |
 | Glennhaven | 185540 | [185540-glennhaven.json](./185540-glennhaven.json) |
 | Glenwich Idle MMO | 397790 | [397790-glenwich-idle-mmo.json](./397790-glenwich-idle-mmo.json) |
@@ -6778,6 +6780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Big War Game | 16399 | [16399-great-big-war-game.json](./16399-great-big-war-game.json) |
 | Great Bishi Bashi Champ | 321128 | [321128-great-bishi-bashi-champ.json](./321128-great-bishi-bashi-champ.json) |
 | Great Cause of the Three Kingdoms | 81074 | [81074-great-cause-of-the-three-kingdoms.json](./81074-great-cause-of-the-three-kingdoms.json) |
+| Great Clips 500 | 85935 | [85935-great-clips-500.json](./85935-great-clips-500.json) |
 | Great Conqueror: Rome | 146681 | [146681-great-conqueror-rome.json](./146681-great-conqueror-rome.json) |
 | Great Deal | 267653 | [267653-great-deal.json](./267653-great-deal.json) |
 | Great Eggzample | 68751 | [68751-great-eggzample.json](./68751-great-eggzample.json) |
