@@ -1434,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Táng Chuánqí: Shàng Yuáncháng Gān Xíng | 373703 | [373703-tang-chuanqi-shang-yuanchang-gan-xing.json](./373703-tang-chuanqi-shang-yuanchang-gan-xing.json) |
 | Tang Dynasty Architecture | 275341 | [275341-tang-dynasty-architecture.json](./275341-tang-dynasty-architecture.json) |
 | Tángdì zhī Huá | 394820 | [394820-tangdi-zhi-hua.json](./394820-tangdi-zhi-hua.json) |
+| Tangent | 92813 | [92813-tangent.json](./92813-tangent.json) |
 | Tangent Rush | 169899 | [169899-tangent-rush.json](./169899-tangent-rush.json) |
 | Tangerine Clicker | 247212 | [247212-tangerine-clicker.json](./247212-tangerine-clicker.json) |
 | Tangerine Panic | 280213 | [280213-tangerine-panic.json](./280213-tangerine-panic.json) |
@@ -3158,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenebrum | 268458 | [268458-tenebrum.json](./268458-tenebrum.json) |
 | Tenebyss | 341096 | [341096-tenebyss.json](./341096-tenebyss.json) |
 | Tenement | 279041 | [279041-tenement.json](./279041-tenement.json) |
+| Tenerezza | 92888 | [92888-tenerezza.json](./92888-tenerezza.json) |
 | Tenet of the Spark | 249701 | [249701-tenet-of-the-spark.json](./249701-tenet-of-the-spark.json) |
 | Tenfold Loop | 290856 | [290856-tenfold-loop.json](./290856-tenfold-loop.json) |
 | Tenfold Tales | 365831 | [365831-tenfold-tales.json](./365831-tenfold-tales.json) |
@@ -3905,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris 2 | 254511 | [254511-tetris-2.json](./254511-tetris-2.json) |
 | Tetris 2 | 254512 | [254512-tetris-2.json](./254512-tetris-2.json) |
 | Tetris 2 + BomBliss | 78699 | [78699-tetris-2-bombliss.json](./78699-tetris-2-bombliss.json) |
+| Tetris 4000 | 92874 | [92874-tetris-4000.json](./92874-tetris-4000.json) |
 | Tetris 64 | 3346 | [3346-tetris-64.json](./3346-tetris-64.json) |
 | Tetris 99 | 115282 | [115282-tetris-99.json](./115282-tetris-99.json) |
 | Tetris 99: Big Block DLC | 133960 | [133960-tetris-99-big-block-dlc.json](./133960-tetris-99-big-block-dlc.json) |
@@ -11139,7 +11142,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -19123,6 +19125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toadette Strikes | 134069 | [134069-toadette-strikes.json](./134069-toadette-strikes.json) |
 | Toadette's Christmas Adventure | 215198 | [215198-toadettes-christmas-adventure.json](./215198-toadettes-christmas-adventure.json) |
 | Toadette's Sweets Gallery | 294781 | [294781-toadettes-sweets-gallery.json](./294781-toadettes-sweets-gallery.json) |
+| Toado | 92867 | [92867-toado.json](./92867-toado.json) |
 | Toadomination | 173243 | [173243-toadomination.json](./173243-toadomination.json) |
 | Toads vs. Koopas | 307663 | [307663-toads-vs-koopas.json](./307663-toads-vs-koopas.json) |
 | Toaplan Arcade 1 | 216586 | [216586-toaplan-arcade-1.json](./216586-toaplan-arcade-1.json) |
@@ -24370,6 +24373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Horse Jump Racing Game | 240924 | [240924-tricky-horse-jump-racing-game.json](./240924-tricky-horse-jump-racing-game.json) |
 | Tricky Keys | 144942 | [144942-tricky-keys.json](./144942-tricky-keys.json) |
 | Tricky Keys 2 | 214956 | [214956-tricky-keys-2.json](./214956-tricky-keys-2.json) |
+| Tricky Kick | 92879 | [92879-tricky-kick.json](./92879-tricky-kick.json) |
 | Tricky Machines | 157160 | [157160-tricky-machines.json](./157160-tricky-machines.json) |
 | Tricky Monkey Zoo | 396228 | [396228-tricky-monkey-zoo.json](./396228-tricky-monkey-zoo.json) |
 | Tricky Questions | 233074 | [233074-tricky-questions.json](./233074-tricky-questions.json) |
@@ -24860,6 +24864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico: Mucho Macho Edition | 119356 | [119356-tropico-mucho-macho-edition.json](./119356-tropico-mucho-macho-edition.json) |
 | Tropico: Paradise Island | 11029 | [11029-tropico-paradise-island.json](./11029-tropico-paradise-island.json) |
 | Tropix 2: Quest for the Golden Banana | 53859 | [53859-tropix-2-quest-for-the-golden-banana.json](./53859-tropix-2-quest-for-the-golden-banana.json) |
+| Tropix! | 92877 | [92877-tropix.json](./92877-tropix.json) |
 | TropTopia | 368560 | [368560-troptopia.json](./368560-troptopia.json) |
 | Tross | 33520 | [33520-tross.json](./33520-tross.json) |
 | TrotMania IV: Euphorius | 313471 | [313471-trotmania-iv-euphorius.json](./313471-trotmania-iv-euphorius.json) |
