@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.T. Bone-um's: Fabulous Tightrope of Terror | 180798 | [180798-p-t-bone-ums-fabulous-tightrope-of-terror.json](./180798-p-t-bone-ums-fabulous-tightrope-of-terror.json) |
 | P.T.O. II: Pacific Theater of Operations | 45527 | [45527-p-t-o-ii-pacific-theater-of-operations.json](./45527-p-t-o-ii-pacific-theater-of-operations.json) |
 | P.T.O. IV | 43435 | [43435-p-t-o-iv.json](./43435-p-t-o-iv.json) |
+| P.T.O.: Pacific Theater of Operations IV | 70232 | [70232-p-t-o-pacific-theater-of-operations-iv.json](./70232-p-t-o-pacific-theater-of-operations-iv.json) |
 | P.W. Project Witch | 327156 | [327156-p-w-project-witch.json](./327156-p-w-project-witch.json) |
 | P'radikus Conflict | 73467 | [73467-pradikus-conflict.json](./73467-pradikus-conflict.json) |
 | P1 Select | 139803 | [139803-p1-select.json](./139803-p1-select.json) |
@@ -7039,6 +7040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Master VR | 131642 | [131642-pizza-master-vr.json](./131642-pizza-master-vr.json) |
 | Pizza Morgana | 70427 | [70427-pizza-morgana.json](./70427-pizza-morgana.json) |
 | Pizza Nostra | 171527 | [171527-pizza-nostra.json](./171527-pizza-nostra.json) |
+| Pizza Panic | 70202 | [70202-pizza-panic.json](./70202-pizza-panic.json) |
 | Pizza Panic! | 393469 | [393469-pizza-panic.json](./393469-pizza-panic.json) |
 | Pizza Parking | 115057 | [115057-pizza-parking.json](./115057-pizza-parking.json) |
 | Pizza Party | 167197 | [167197-pizza-party.json](./167197-pizza-party.json) |
@@ -11212,6 +11214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty girls teach beefy guys | 161329 | [161329-pretty-girls-teach-beefy-guys.json](./161329-pretty-girls-teach-beefy-guys.json) |
 | Pretty Girls Tile Match | 219695 | [219695-pretty-girls-tile-match.json](./219695-pretty-girls-tile-match.json) |
 | Pretty Good Solitaire | 89241 | [89241-pretty-good-solitaire.json](./89241-pretty-good-solitaire.json) |
+| Pretty Good Solitaire 600 | 70244 | [70244-pretty-good-solitaire-600.json](./70244-pretty-good-solitaire-600.json) |
 | Pretty Hentai Girls | 230897 | [230897-pretty-hentai-girls.json](./230897-pretty-hentai-girls.json) |
 | Pretty In Pink | 72990 | [72990-pretty-in-pink.json](./72990-pretty-in-pink.json) |
 | Pretty Kingdom | 360116 | [360116-pretty-kingdom.json](./360116-pretty-kingdom.json) |
