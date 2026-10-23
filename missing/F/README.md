@@ -10471,10 +10471,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fullbright Presents: Toilet Spiders | 320286 | [320286-fullbright-presents-toilet-spiders.json](./320286-fullbright-presents-toilet-spiders.json) |
 | Fullcourt Thunder | 60995 | [60995-fullcourt-thunder.json](./60995-fullcourt-thunder.json) |
 | Fullmetal Alchemist 2: Curse of the Crimson Elixir | 19072 | [19072-fullmetal-alchemist-2-curse-of-the-crimson-elixir.json](./19072-fullmetal-alchemist-2-curse-of-the-crimson-elixir.json) |
+| Fullmetal Alchemist 3: Kami wo Tsugu Shoujo | 57443 | [57443-fullmetal-alchemist-3-kami-wo-tsugu-shoujo.json](./57443-fullmetal-alchemist-3-kami-wo-tsugu-shoujo.json) |
 | Fullmetal Alchemist and the Broken Angel | 19071 | [19071-fullmetal-alchemist-and-the-broken-angel.json](./19071-fullmetal-alchemist-and-the-broken-angel.json) |
 | Fullmetal Alchemist: Daughter of the Dusk | 77766 | [77766-fullmetal-alchemist-daughter-of-the-dusk.json](./77766-fullmetal-alchemist-daughter-of-the-dusk.json) |
 | Fullmetal Alchemist: Omoide no Sonata | 49594 | [49594-fullmetal-alchemist-omoide-no-sonata.json](./49594-fullmetal-alchemist-omoide-no-sonata.json) |
 | Fullmetal Alchemist: Prince of the Dawn | 69180 | [69180-fullmetal-alchemist-prince-of-the-dawn.json](./69180-fullmetal-alchemist-prince-of-the-dawn.json) |
+| Fullmetal Alchemist: Stray Rondo | 57444 | [57444-fullmetal-alchemist-stray-rondo.json](./57444-fullmetal-alchemist-stray-rondo.json) |
 | Fullmetal Alchemist: To the Promised Day | 62757 | [62757-fullmetal-alchemist-to-the-promised-day.json](./62757-fullmetal-alchemist-to-the-promised-day.json) |
 | Fullsenders | 348016 | [348016-fullsenders.json](./348016-fullsenders.json) |
 | Fullvoice Reborn | 114521 | [114521-fullvoice-reborn.json](./114521-fullvoice-reborn.json) |
