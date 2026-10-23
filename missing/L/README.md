@@ -922,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Anime Boy 2: Hentai Zombie Hell | 106194 | [106194-last-anime-boy-2-hentai-zombie-hell.json](./106194-last-anime-boy-2-hentai-zombie-hell.json) |
 | Last Answer | 30062 | [30062-last-answer.json](./30062-last-answer.json) |
 | Last Antagonist | 361885 | [361885-last-antagonist.json](./361885-last-antagonist.json) |
+| Last Armageddon | 48436 | [48436-last-armageddon.json](./48436-last-armageddon.json) |
 | Last Arrows | 123535 | [123535-last-arrows.json](./123535-last-arrows.json) |
 | Last Barrier | 263114 | [263114-last-barrier.json](./263114-last-barrier.json) |
 | Last Bastion | 186580 | [186580-last-bastion.json](./186580-last-bastion.json) |
@@ -6715,6 +6716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Wish: In the Desperate World | 195482 | [195482-lost-wish-in-the-desperate-world.json](./195482-lost-wish-in-the-desperate-world.json) |
 | Lost with Dinosaurs | 55633 | [55633-lost-with-dinosaurs.json](./55633-lost-with-dinosaurs.json) |
 | Lost Within | 23959 | [23959-lost-within.json](./23959-lost-within.json) |
+| Lost Word of Jenny: Ushinawareta Message | 48434 | [48434-lost-word-of-jenny-ushinawareta-message.json](./48434-lost-word-of-jenny-ushinawareta-message.json) |
 | Lost World | 226183 | [226183-lost-world.json](./226183-lost-world.json) |
 | Lost World Sudoku | 245673 | [245673-lost-world-sudoku.json](./245673-lost-world-sudoku.json) |
 | Lost World Survivor | 348588 | [348588-lost-world-survivor.json](./348588-lost-world-survivor.json) |
