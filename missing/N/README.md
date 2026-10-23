@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.O.R.E.D: The War on Christmas | 181330 | [181330-n-o-r-e-d-the-war-on-christmas.json](./181330-n-o-r-e-d-the-war-on-christmas.json) |
 | N.O.S. Car Speedrace | 107085 | [107085-n-o-s-car-speedrace.json](./107085-n-o-s-car-speedrace.json) |
 | N.O.V.A. | 210542 | [210542-n-o-v-a.json](./210542-n-o-v-a.json) |
+| N.O.V.A. 2 | 91813 | [91813-n-o-v-a-2.json](./91813-n-o-v-a-2.json) |
 | N.O.V.A. 3 | 38883 | [38883-n-o-v-a-3.json](./38883-n-o-v-a-3.json) |
 | N.O.V.A. 3: Freedom Edition | 38930 | [38930-n-o-v-a-3-freedom-edition.json](./38930-n-o-v-a-3-freedom-edition.json) |
 | N.O.V.A. Legacy | 39004 | [39004-n-o-v-a-legacy.json](./39004-n-o-v-a-legacy.json) |
@@ -4846,6 +4847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Awakening - Set of 6 Scenarios | 347227 | [347227-nobunagas-ambition-awakening-set-of-6-scenarios.json](./347227-nobunagas-ambition-awakening-set-of-6-scenarios.json) |
 | Nobunaga's Ambition: Hadou | 371347 | [371347-nobunagas-ambition-hadou.json](./371347-nobunagas-ambition-hadou.json) |
 | Nobunaga's Ambition: Haouden | 4279 | [4279-nobunagas-ambition-haouden.json](./4279-nobunagas-ambition-haouden.json) |
+| Nobunaga's Ambition: Haouden with Power Up Kit | 91186 | [91186-nobunagas-ambition-haouden-with-power-up-kit.json](./91186-nobunagas-ambition-haouden-with-power-up-kit.json) |
 | Nobunaga's Ambition: Hishou | 405470 | [405470-nobunagas-ambition-hishou.json](./405470-nobunagas-ambition-hishou.json) |
 | Nobunaga's Ambition: Iron Triangle | 21290 | [21290-nobunagas-ambition-iron-triangle.json](./21290-nobunagas-ambition-iron-triangle.json) |
 | Nobunaga's Ambition: Ranseiki with Power Up Kit | 74687 | [74687-nobunagas-ambition-ranseiki-with-power-up-kit.json](./74687-nobunagas-ambition-ranseiki-with-power-up-kit.json) |
@@ -4854,7 +4856,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Rise to Power | 21503 | [21503-nobunagas-ambition-rise-to-power.json](./21503-nobunagas-ambition-rise-to-power.json) |
 | NOBUNAGA'S AMBITION: Sengoku Gunyuuden | 90573 | [90573-nobunagas-ambition-sengoku-gunyuuden.json](./90573-nobunagas-ambition-sengoku-gunyuuden.json) |
 | Nobunaga's Ambition: Shouseiroku | 269520 | [269520-nobunagas-ambition-shouseiroku.json](./269520-nobunagas-ambition-shouseiroku.json) |
+| Nobunaga's Ambition: Shouseiroku with Power Up Kit | 91187 | [91187-nobunagas-ambition-shouseiroku-with-power-up-kit.json](./91187-nobunagas-ambition-shouseiroku-with-power-up-kit.json) |
 | Nobunaga's Ambition: Soutenroku | 307184 | [307184-nobunagas-ambition-soutenroku.json](./307184-nobunagas-ambition-soutenroku.json) |
+| Nobunaga's Ambition: Soutenroku with Power Up Kit | 91199 | [91199-nobunagas-ambition-soutenroku-with-power-up-kit.json](./91199-nobunagas-ambition-soutenroku-with-power-up-kit.json) |
 | Nobunaga's Ambition: Souzou - Dokuganryutatsu Scenario | 150668 | [150668-nobunagas-ambition-souzou-dokuganryutatsu-scenario.json](./150668-nobunagas-ambition-souzou-dokuganryutatsu-scenario.json) |
 | Nobunaga's Ambition: Souzou - Itsukushima Scenario | 150675 | [150675-nobunagas-ambition-souzou-itsukushima-scenario.json](./150675-nobunagas-ambition-souzou-itsukushima-scenario.json) |
 | Nobunaga's Ambition: Souzou - Nagashinonotatakai Scenario | 150662 | [150662-nobunagas-ambition-souzou-nagashinonotatakai-scenario.json](./150662-nobunagas-ambition-souzou-nagashinonotatakai-scenario.json) |
@@ -5829,6 +5833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Titbit 2 | 250593 | [250593-nuclear-titbit-2.json](./250593-nuclear-titbit-2.json) |
 | Nuclear War | 12189 | [12189-nuclear-war.json](./12189-nuclear-war.json) |
 | Nuclear War Simulator | 154350 | [154350-nuclear-war-simulator.json](./154350-nuclear-war-simulator.json) |
+| Nuclear Wasteland 2030 | 91787 | [91787-nuclear-wasteland-2030.json](./91787-nuclear-wasteland-2030.json) |
 | Nuclear Winter | 221663 | [221663-nuclear-winter.json](./221663-nuclear-winter.json) |
 | NuclearDanger | 180806 | [180806-nucleardanger.json](./180806-nucleardanger.json) |
 | NuclearRifle | 384527 | [384527-nuclearrifle.json](./384527-nuclearrifle.json) |
