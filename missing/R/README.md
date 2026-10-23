@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaceRoom Racing Experience: DTM Experience 2014 | 168152 | [168152-raceroom-racing-experience-dtm-experience-2014.json](./168152-raceroom-racing-experience-dtm-experience-2014.json) |
 | RaceRoom Racing Experience: Nurburgring Legends | 53167 | [53167-raceroom-racing-experience-nurburgring-legends.json](./53167-raceroom-racing-experience-nurburgring-legends.json) |
 | Raceroom: DTM Experience 2013 | 10749 | [10749-raceroom-dtm-experience-2013.json](./10749-raceroom-dtm-experience-2013.json) |
+| Racers | 67067 | [67067-racers.json](./67067-racers.json) |
 | Racers Islands | 233229 | [233229-racers-islands.json](./233229-racers-islands.json) |
 | Racers' Islands: Crazy Arenas | 69336 | [69336-racers-islands-crazy-arenas.json](./69336-racers-islands-crazy-arenas.json) |
 | Racers' Islands: Crazy Racers | 69337 | [69337-racers-islands-crazy-racers.json](./69337-racers-islands-crazy-racers.json) |
@@ -6060,6 +6061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rings of Harmony | 285928 | [285928-rings-of-harmony.json](./285928-rings-of-harmony.json) |
 | Rings of Hell | 160217 | [160217-rings-of-hell.json](./160217-rings-of-hell.json) |
 | Rings of Medusa | 14507 | [14507-rings-of-medusa.json](./14507-rings-of-medusa.json) |
+| Rings of Medusa II: The Return of Medusa | 67062 | [67062-rings-of-medusa-ii-the-return-of-medusa.json](./67062-rings-of-medusa-ii-the-return-of-medusa.json) |
 | Rings of Saturn | 108324 | [108324-rings-of-saturn.json](./108324-rings-of-saturn.json) |
 | Rings of Saturn | 24843 | [24843-rings-of-saturn.json](./24843-rings-of-saturn.json) |
 | Rings of Saturn: Deep Weeb | 231361 | [231361-rings-of-saturn-deep-weeb.json](./231361-rings-of-saturn-deep-weeb.json) |
