@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Nights | 283040 | [283040-1001-nights.json](./283040-1001-nights.json) |
 | 1001 Spikes | 8617 | [8617-1001-spikes.json](./8617-1001-spikes.json) |
 | 1001 Touch Games | 204246 | [204246-1001-touch-games.json](./204246-1001-touch-games.json) |
+| 1001 Ultimate Mahjong | 91181 | [91181-1001-ultimate-mahjong.json](./91181-1001-ultimate-mahjong.json) |
 | 1001 Ultimate Mahjong 2 | 111457 | [111457-1001-ultimate-mahjong-2.json](./111457-1001-ultimate-mahjong-2.json) |
 | 1001-Kai-me no Aoi Tsuki | 98429 | [98429-1001-kai-me-no-aoi-tsuki.json](./98429-1001-kai-me-no-aoi-tsuki.json) |
 | 1001st Hyper Tower | 146644 | [146644-1001st-hyper-tower.json](./146644-1001st-hyper-tower.json) |
