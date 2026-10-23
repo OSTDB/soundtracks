@@ -2234,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Have Fun Together | 259605 | [259605-have-fun-together.json](./259605-have-fun-together.json) |
 | Have Fun Together | 259671 | [259671-have-fun-together.json](./259671-have-fun-together.json) |
 | Have It Coming | 391331 | [391331-have-it-coming.json](./391331-have-it-coming.json) |
+| Have You Ever? - Harry Potter Edition | 98832 | [98832-have-you-ever-harry-potter-edition.json](./98832-have-you-ever-harry-potter-edition.json) |
 | Have You Heard | 299263 | [299263-have-you-heard.json](./299263-have-you-heard.json) |
 | Have You Herd? | 235970 | [235970-have-you-herd.json](./235970-have-you-herd.json) |
 | Have You Seen the Moon? | 407400 | [407400-have-you-seen-the-moon.json](./407400-have-you-seen-the-moon.json) |
