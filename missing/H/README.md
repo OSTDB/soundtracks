@@ -935,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana ha Mijikashi, Odoreyo Otome | 405368 | [405368-hana-ha-mijikashi-odoreyo-otome.json](./405368-hana-ha-mijikashi-odoreyo-otome.json) |
 | Hana no Chiruramu | 166579 | [166579-hana-no-chiruramu.json](./166579-hana-no-chiruramu.json) |
 | Hana no Ibara: Yuurei Kitan | 181657 | [181657-hana-no-ibara-yuurei-kitan.json](./181657-hana-no-ibara-yuurei-kitan.json) |
+| Hana no No ni Saku Utakata no | 60412 | [60412-hana-no-no-ni-saku-utakata-no.json](./60412-hana-no-no-ni-saku-utakata-no.json) |
 | Hana Oboro: Sengoku-den Ranki | 136480 | [136480-hana-oboro-sengoku-den-ranki.json](./136480-hana-oboro-sengoku-den-ranki.json) |
 | Hana Saki Work Spring! | 111649 | [111649-hana-saki-work-spring.json](./111649-hana-saki-work-spring.json) |
 | Hana Saku DS Gardening Life | 229262 | [229262-hana-saku-ds-gardening-life.json](./229262-hana-saku-ds-gardening-life.json) |
@@ -2051,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: VR Future Live 3rd Stage | 120802 | [120802-hatsune-miku-vr-future-live-3rd-stage.json](./120802-hatsune-miku-vr-future-live-3rd-stage.json) |
 | Hatsune Mikutchi | 230183 | [230183-hatsune-mikutchi.json](./230183-hatsune-mikutchi.json) |
 | Hatsune no Naisho!! | 247480 | [247480-hatsune-no-naisho.json](./247480-hatsune-no-naisho.json) |
+| Hatsuru Koto Naki Mirai Yori | 60325 | [60325-hatsuru-koto-naki-mirai-yori.json](./60325-hatsuru-koto-naki-mirai-yori.json) |
 | Hatsuyuki Sakura | 122287 | [122287-hatsuyuki-sakura.json](./122287-hatsuyuki-sakura.json) |
 | Hatsuyuki Sakura | 122289 | [122289-hatsuyuki-sakura.json](./122289-hatsuyuki-sakura.json) |
 | Hatsuyuki Sakura: First Press Limited Edition | 122288 | [122288-hatsuyuki-sakura-first-press-limited-edition.json](./122288-hatsuyuki-sakura-first-press-limited-edition.json) |
