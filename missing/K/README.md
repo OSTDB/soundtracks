@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart kids | 129433 | [129433-kart-kids.json](./129433-kart-kids.json) |
 | Kart Krashers | 23588 | [23588-kart-krashers.json](./23588-kart-krashers.json) |
 | Kart Life | 260589 | [260589-kart-life.json](./260589-kart-life.json) |
+| Kart Race | 50308 | [50308-kart-race.json](./50308-kart-race.json) |
 | Kart Racing | 381228 | [381228-kart-racing.json](./381228-kart-racing.json) |
 | Kart Racing 3D - Top Car Racer Chaser Action Rally | 101568 | [101568-kart-racing-3d-top-car-racer-chaser-action-rally.json](./101568-kart-racing-3d-top-car-racer-chaser-action-rally.json) |
 | Kart Racing Star Simulator Game | 342414 | [342414-kart-racing-star-simulator-game.json](./342414-kart-racing-star-simulator-game.json) |
