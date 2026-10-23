@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | National Lacrosse League 2010 | 61034 | [61034-national-lacrosse-league-2010.json](./61034-national-lacrosse-league-2010.json) |
 | National Lacrosse League 2011 | 61035 | [61035-national-lacrosse-league-2011.json](./61035-national-lacrosse-league-2011.json) |
 | National Lampoon's Blind Date | 70094 | [70094-national-lampoons-blind-date.json](./70094-national-lampoons-blind-date.json) |
+| National Lampoon's Chess Maniac 5 Billion and 1 | 70208 | [70208-national-lampoons-chess-maniac-5-billion-and-1.json](./70208-national-lampoons-chess-maniac-5-billion-and-1.json) |
 | National Machine | 103451 | [103451-national-machine.json](./103451-national-machine.json) |
 | National Ministox - The Official Game | 105808 | [105808-national-ministox-the-official-game.json](./105808-national-ministox-the-official-game.json) |
 | National Park Girls | 116070 | [116070-national-park-girls.json](./116070-national-park-girls.json) |
