@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Ghost: Jump Away With Jewel | 175361 | [175361-baby-ghost-jump-away-with-jewel.json](./175361-baby-ghost-jump-away-with-jewel.json) |
 | Baby Goat Billy | 159826 | [159826-baby-goat-billy.json](./159826-baby-goat-billy.json) |
 | Baby Hands | 68834 | [68834-baby-hands.json](./68834-baby-hands.json) |
+| Baby Hazel Baby Care Games | 89737 | [89737-baby-hazel-baby-care-games.json](./89737-baby-hazel-baby-care-games.json) |
 | Baby Hazel Easter Fun | 89710 | [89710-baby-hazel-easter-fun.json](./89710-baby-hazel-easter-fun.json) |
 | Baby Hazel Hand Fracture | 106767 | [106767-baby-hazel-hand-fracture.json](./106767-baby-hazel-hand-fracture.json) |
 | Baby Hazel Newborn Baby | 89814 | [89814-baby-hazel-newborn-baby.json](./89814-baby-hazel-newborn-baby.json) |
@@ -2367,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Superstars 2011 | 66207 | [66207-baseball-superstars-2011.json](./66207-baseball-superstars-2011.json) |
 | Baseball Superstars 2023 | 250168 | [250168-baseball-superstars-2023.json](./250168-baseball-superstars-2023.json) |
 | Baseball Superstars 2024 | 318399 | [318399-baseball-superstars-2024.json](./318399-baseball-superstars-2024.json) |
+| Baseball Trivia | 89633 | [89633-baseball-trivia.json](./89633-baseball-trivia.json) |
 | Baseball with Heads | 246974 | [246974-baseball-with-heads.json](./246974-baseball-with-heads.json) |
 | Baseball-e | 170006 | [170006-baseball-e.json](./170006-baseball-e.json) |
 | Baseball, But Fun | 177858 | [177858-baseball-but-fun.json](./177858-baseball-but-fun.json) |
@@ -5141,6 +5143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berenstein Bears: On Their Own, and You on Your Own | 46563 | [46563-berenstein-bears-on-their-own-and-you-on-your-own.json](./46563-berenstein-bears-on-their-own-and-you-on-your-own.json) |
 | Bereshipsis | 349262 | [349262-bereshipsis.json](./349262-bereshipsis.json) |
 | Bergabash | 383607 | [383607-bergabash.json](./383607-bergabash.json) |
+| Bergen Bridge Advanced Defense | 89739 | [89739-bergen-bridge-advanced-defense.json](./89739-bergen-bridge-advanced-defense.json) |
 | Bergen Bridge Advanced Play | 101506 | [101506-bergen-bridge-advanced-play.json](./101506-bergen-bridge-advanced-play.json) |
 | Bergen Bridge Beginner 1 | 86721 | [86721-bergen-bridge-beginner-1.json](./86721-bergen-bridge-beginner-1.json) |
 | Bergen Bridge Expert | 90842 | [90842-bergen-bridge-expert.json](./90842-bergen-bridge-expert.json) |
@@ -6051,6 +6054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Baron 2 | 160225 | [160225-bike-baron-2.json](./160225-bike-baron-2.json) |
 | Bike Bites | 245190 | [245190-bike-bites.json](./245190-bike-bites.json) |
 | Bike Blast | 116396 | [116396-bike-blast.json](./116396-bike-blast.json) |
+| Bike Challenge | 89742 | [89742-bike-challenge.json](./89742-bike-challenge.json) |
 | Bike Courier: Bistro Express Delivery | 283296 | [283296-bike-courier-bistro-express-delivery.json](./283296-bike-courier-bistro-express-delivery.json) |
 | Bike Dash Excite! | 105230 | [105230-bike-dash-excite.json](./105230-bike-dash-excite.json) |
 | Bike Dirt Extreme 3D | 322438 | [322438-bike-dirt-extreme-3d.json](./322438-bike-dirt-extreme-3d.json) |
@@ -8923,6 +8927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Ragdoll : Fort Escape | 87857 | [87857-bloody-ragdoll-fort-escape.json](./87857-bloody-ragdoll-fort-escape.json) |
 | Bloody Raid | 148878 | [148878-bloody-raid.json](./148878-bloody-raid.json) |
 | Bloody Rally Show | 139211 | [139211-bloody-rally-show.json](./139211-bloody-rally-show.json) |
+| Bloody Roads, California | 89781 | [89781-bloody-roads-california.json](./89781-bloody-roads-california.json) |
 | Bloody Roar | 2749 | [2749-bloody-roar.json](./2749-bloody-roar.json) |
 | Bloody Roar 3 | 3824 | [3824-bloody-roar-3.json](./3824-bloody-roar-3.json) |
 | Bloody Roar 4 | 24104 | [24104-bloody-roar-4.json](./24104-bloody-roar-4.json) |
@@ -13382,6 +13387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building 0: Hakuei University | 404679 | [404679-building-0-hakuei-university.json](./404679-building-0-hakuei-university.json) |
 | Building 37 | 185603 | [185603-building-37.json](./185603-building-37.json) |
 | Building 847 | 160214 | [160214-building-847.json](./160214-building-847.json) |
+| Building Academy: Jigsaw Puzzle | 89792 | [89792-building-academy-jigsaw-puzzle.json](./89792-building-academy-jigsaw-puzzle.json) |
 | Building Block Heroes | 55257 | [55257-building-block-heroes.json](./55257-building-block-heroes.json) |
 | Building Block Simulator | 297636 | [297636-building-block-simulator.json](./297636-building-block-simulator.json) |
 | Building Block: Castle & City Craft Simulator | 89277 | [89277-building-block-castle-and-city-craft-simulator.json](./89277-building-block-castle-and-city-craft-simulator.json) |
