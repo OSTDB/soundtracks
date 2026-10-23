@@ -2916,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -13036,6 +13037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Marie & Elie: The Alchemist of Salburg | 329357 | [329357-atelier-marie-and-elie-the-alchemist-of-salburg.json](./329357-atelier-marie-and-elie-the-alchemist-of-salburg.json) |
 | Atelier Marie Remake: The Alchemist of Salburg | 236698 | [236698-atelier-marie-remake-the-alchemist-of-salburg.json](./236698-atelier-marie-remake-the-alchemist-of-salburg.json) |
 | Atelier Marie Remake: The Alchemist of Salburg - Digital Deluxe Edition | 246875 | [246875-atelier-marie-remake-the-alchemist-of-salburg-digital-deluxe-edition.json](./246875-atelier-marie-remake-the-alchemist-of-salburg-digital-deluxe-edition.json) |
+| Atelier Marie, Elie & Anis: Message on the Gentle Breeze | 49699 | [49699-atelier-marie-elie-and-anis-message-on-the-gentle-breeze.json](./49699-atelier-marie-elie-and-anis-message-on-the-gentle-breeze.json) |
 | Atelier Marie: Puzzle Workshop | 329391 | [329391-atelier-marie-puzzle-workshop.json](./329391-atelier-marie-puzzle-workshop.json) |
 | Atelier Marie: The Alchemist of Salburg | 26439 | [26439-atelier-marie-the-alchemist-of-salburg.json](./26439-atelier-marie-the-alchemist-of-salburg.json) |
 | Atelier Meruru: The Apprentice of Arland | 7277 | [7277-atelier-meruru-the-apprentice-of-arland.json](./7277-atelier-meruru-the-apprentice-of-arland.json) |
