@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.O.M.E. | 293170 | [293170-h-o-m-e.json](./293170-h-o-m-e.json) |
 | H.Z.T. | 366091 | [366091-h-z-t.json](./366091-h-z-t.json) |
 | H@ck3r++ | 179191 | [179191-h-ck3r.json](./179191-h-ck3r.json) |
+| H0st | 88058 | [88058-h0st.json](./88058-h0st.json) |
 | H1-Mod | 313565 | [313565-h1-mod.json](./313565-h1-mod.json) |
 | H1.Jack | 223562 | [223562-h1-jack.json](./223562-h1-jack.json) |
 | H1Z1 | 6188 | [6188-h1z1.json](./6188-h1z1.json) |
@@ -2724,9 +2725,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts on Fire | 313720 | [313720-hearts-on-fire.json](./313720-hearts-on-fire.json) |
 | Hearts Online | 317011 | [317011-hearts-online.json](./317011-hearts-online.json) |
 | Hearts Premium HD | 86867 | [86867-hearts-premium-hd.json](./86867-hearts-premium-hd.json) |
+| Hearts Tournament | 89770 | [89770-hearts-tournament.json](./89770-hearts-tournament.json) |
 | Hearts War | 261952 | [261952-hearts-war.json](./261952-hearts-war.json) |
 | Hearts: Card Game | 143066 | [143066-hearts-card-game.json](./143066-hearts-card-game.json) |
 | Hearts: Classic Fun Card Game | 87549 | [87549-hearts-classic-fun-card-game.json](./87549-hearts-classic-fun-card-game.json) |
+| Hearts++ | 88040 | [88040-hearts.json](./88040-hearts.json) |
 | Heartseers Grove | 389746 | [389746-heartseers-grove.json](./389746-heartseers-grove.json) |
 | Heartshot | 278683 | [278683-heartshot.json](./278683-heartshot.json) |
 | Heartstop | 199510 | [199510-heartstop.json](./199510-heartstop.json) |
@@ -6216,6 +6219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikari no Valusia | 378203 | [378203-hikari-no-valusia.json](./378203-hikari-no-valusia.json) |
 | Hikari! Clover Rescue | 113063 | [113063-hikari-clover-rescue.json](./113063-hikari-clover-rescue.json) |
 | Hikari! Love Potion | 128006 | [128006-hikari-love-potion.json](./128006-hikari-love-potion.json) |
+| Hikariblade RPG | 88038 | [88038-hikariblade-rpg.json](./88038-hikariblade-rpg.json) |
 | Hikaru Genji: Roller Panic | 41308 | [41308-hikaru-genji-roller-panic.json](./41308-hikaru-genji-roller-panic.json) |
 | Hike | 147703 | [147703-hike.json](./147703-hike.json) |
 | Hike Adventures | 287164 | [287164-hike-adventures.json](./287164-hike-adventures.json) |
