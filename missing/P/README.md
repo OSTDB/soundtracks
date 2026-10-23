@@ -9967,6 +9967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Fruit | 233996 | [233996-pop-fruit.json](./233996-pop-fruit.json) |
 | Pop Fu | 209328 | [209328-pop-fu.json](./209328-pop-fu.json) |
 | Pop Gems | 232575 | [232575-pop-gems.json](./232575-pop-gems.json) |
+| Pop Idol: The Official Video Game | 65883 | [65883-pop-idol-the-official-video-game.json](./65883-pop-idol-the-official-video-game.json) |
 | Pop Island | 68124 | [68124-pop-island.json](./68124-pop-island.json) |
 | Pop Islands | 94868 | [94868-pop-islands.json](./94868-pop-islands.json) |
 | Pop it, Please! | 164228 | [164228-pop-it-please.json](./164228-pop-it-please.json) |
@@ -11975,6 +11976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Gymnast Simulator + Cyber Protocol | 218501 | [218501-pro-gymnast-simulator-cyber-protocol.json](./218501-pro-gymnast-simulator-cyber-protocol.json) |
 | Pro Hockey | 69368 | [69368-pro-hockey.json](./69368-pro-hockey.json) |
 | Pro Jank Footy | 376006 | [376006-pro-jank-footy.json](./376006-pro-jank-footy.json) |
+| Pro Jumper! Guilty Gear Tangent!? | 65889 | [65889-pro-jumper-guilty-gear-tangent.json](./65889-pro-jumper-guilty-gear-tangent.json) |
 | Pro Kishi Jinsei Simulation: Shogi no Hanamichi | 37876 | [37876-pro-kishi-jinsei-simulation-shogi-no-hanamichi.json](./37876-pro-kishi-jinsei-simulation-shogi-no-hanamichi.json) |
 | Pro League Baseball | 94422 | [94422-pro-league-baseball.json](./94422-pro-league-baseball.json) |
 | Pro Mahjong Kiwame | 138094 | [138094-pro-mahjong-kiwame.json](./138094-pro-mahjong-kiwame.json) |
