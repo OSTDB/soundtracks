@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bridge Too Far | 181134 | [181134-a-bridge-too-far.json](./181134-a-bridge-too-far.json) |
 | A Brief History of the World | 103565 | [103565-a-brief-history-of-the-world.json](./103565-a-brief-history-of-the-world.json) |
 | A Brief Tale | 411683 | [411683-a-brief-tale.json](./411683-a-brief-tale.json) |
+| A Brief Tryst | 73658 | [73658-a-brief-tryst.json](./73658-a-brief-tryst.json) |
 | A Broken Halo | 216776 | [216776-a-broken-halo.json](./216776-a-broken-halo.json) |
 | A Broken Tale | 135579 | [135579-a-broken-tale.json](./135579-a-broken-tale.json) |
 | A Bug's Life | 205931 | [205931-a-bugs-life.json](./205931-a-bugs-life.json) |
@@ -3304,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Curtain Call | 377042 | [377042-after-the-curtain-call.json](./377042-after-the-curtain-call.json) |
 | After the Empire | 28111 | [28111-after-the-empire.json](./28111-after-the-empire.json) |
 | After the End | 376850 | [376850-after-the-end.json](./376850-after-the-end.json) |
+| After the End | 73577 | [73577-after-the-end.json](./73577-after-the-end.json) |
 | After The End | 323963 | [323963-after-the-end.json](./323963-after-the-end.json) |
 | After the End: Forsaken Destiny | 74792 | [74792-after-the-end-forsaken-destiny.json](./74792-after-the-end-forsaken-destiny.json) |
 | After The End: Southern Land | 356044 | [356044-after-the-end-southern-land.json](./356044-after-the-end-southern-land.json) |
@@ -3756,6 +3758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agnostiko Origins | 305986 | [305986-agnostiko-origins.json](./305986-agnostiko-origins.json) |
 | Agnostiko X NedMapagmahal Bundle | 308654 | [308654-agnostiko-x-nedmapagmahal-bundle.json](./308654-agnostiko-x-nedmapagmahal-bundle.json) |
 | Agon: The Lost Sword of Toledo | 9953 | [9953-agon-the-lost-sword-of-toledo.json](./9953-agon-the-lost-sword-of-toledo.json) |
+| Agon: The Mysterious Codex - Episode 3: Pirates of Madagascar | 73609 | [73609-agon-the-mysterious-codex-episode-3-pirates-of-madagascar.json](./73609-agon-the-mysterious-codex-episode-3-pirates-of-madagascar.json) |
 | Agonize | 187402 | [187402-agonize.json](./187402-agonize.json) |
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
 | Agony | 201153 | [201153-agony.json](./201153-agony.json) |
@@ -6996,6 +6999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ana: The Game | 93718 | [93718-ana-the-game.json](./93718-ana-the-game.json) |
 | Ana'Adventure | 357430 | [357430-anaadventure.json](./357430-anaadventure.json) |
 | Ana's Auto Fellatio | 411061 | [411061-anas-auto-fellatio.json](./411061-anas-auto-fellatio.json) |
+| Anacapri: The Dream | 73661 | [73661-anacapri-the-dream.json](./73661-anacapri-the-dream.json) |
 | Anachroma | 211404 | [211404-anachroma.json](./211404-anachroma.json) |
 | Anachron | 377084 | [377084-anachron.json](./377084-anachron.json) |
 | Anachronic | 265576 | [265576-anachronic.json](./265576-anachronic.json) |
@@ -10737,6 +10741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid | 326864 | [326864-arkanoid.json](./326864-arkanoid.json) |
 | Arkanoid | 4595 | [4595-arkanoid.json](./4595-arkanoid.json) |
 | Arkanoid 2000 | 80599 | [80599-arkanoid-2000.json](./80599-arkanoid-2000.json) |
+| Arkanoid 4000 | 73605 | [73605-arkanoid-4000.json](./73605-arkanoid-4000.json) |
 | Arkanoid For Painters | 106337 | [106337-arkanoid-for-painters.json](./106337-arkanoid-for-painters.json) |
 | Arkanoid Live! | 72559 | [72559-arkanoid-live.json](./72559-arkanoid-live.json) |
 | Arkanoid Plus! | 50996 | [50996-arkanoid-plus.json](./50996-arkanoid-plus.json) |
@@ -12731,6 +12736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Sixes and Sevens | 342771 | [342771-at-sixes-and-sevens.json](./342771-at-sixes-and-sevens.json) |
 | At Sundown: Shots in the Dark | 27998 | [27998-at-sundown-shots-in-the-dark.json](./27998-at-sundown-shots-in-the-dark.json) |
 | At the Behest of the Pike: Time to Run | 153894 | [153894-at-the-behest-of-the-pike-time-to-run.json](./153894-at-the-behest-of-the-pike-time-to-run.json) |
+| At the Carnival | 73601 | [73601-at-the-carnival.json](./73601-at-the-carnival.json) |
 | At the Dream End 2: Beyond Gods | 254018 | [254018-at-the-dream-end-2-beyond-gods.json](./254018-at-the-dream-end-2-beyond-gods.json) |
 | At the Edge of the World | 267858 | [267858-at-the-edge-of-the-world.json](./267858-at-the-edge-of-the-world.json) |
 | At the Gates of Midian | 271496 | [271496-at-the-gates-of-midian.json](./271496-at-the-gates-of-midian.json) |
@@ -13767,6 +13773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon Code | 21206 | [21206-avalon-code.json](./21206-avalon-code.json) |
 | Avalon Crew | 386705 | [386705-avalon-crew.json](./386705-avalon-crew.json) |
 | Avalon Heroes | 63886 | [63886-avalon-heroes.json](./63886-avalon-heroes.json) |
+| Avalon Hill's Squad Leader | 73674 | [73674-avalon-hills-squad-leader.json](./73674-avalon-hills-squad-leader.json) |
 | Avalon Jewels 2: Collector's Edition | 337222 | [337222-avalon-jewels-2-collectors-edition.json](./337222-avalon-jewels-2-collectors-edition.json) |
 | Avalon Jewels 3: Collector's Edition | 381256 | [381256-avalon-jewels-3-collectors-edition.json](./381256-avalon-jewels-3-collectors-edition.json) |
 | Avalon Legends | 80195 | [80195-avalon-legends.json](./80195-avalon-legends.json) |
