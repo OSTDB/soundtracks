@@ -21759,6 +21759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Flying Car | 235046 | [235046-toy-flying-car.json](./235046-toy-flying-car.json) |
 | Toy Generals | 90432 | [90432-toy-generals.json](./90432-toy-generals.json) |
 | Toy Goblins | 57035 | [57035-toy-goblins.json](./57035-toy-goblins.json) |
+| Toy Golf | 77091 | [77091-toy-golf.json](./77091-toy-golf.json) |
 | Toy Golf Extreme | 50400 | [50400-toy-golf-extreme.json](./50400-toy-golf-extreme.json) |
 | Toy Gun Office Simulator | 108433 | [108433-toy-gun-office-simulator.json](./108433-toy-gun-office-simulator.json) |
 | Toy Home: Second Gear Pack | 328393 | [328393-toy-home-second-gear-pack.json](./328393-toy-home-second-gear-pack.json) |
