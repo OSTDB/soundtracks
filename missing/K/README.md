@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K Station | 19603 | [19603-k-station.json](./19603-k-station.json) |
 | K-1 Premium 2004 Dynamite!! | 67047 | [67047-k-1-premium-2004-dynamite.json](./67047-k-1-premium-2004-dynamite.json) |
 | K-1 Premium Dynamite!! | 44646 | [44646-k-1-premium-dynamite.json](./44646-k-1-premium-dynamite.json) |
+| K-1 Revenge | 45075 | [45075-k-1-revenge.json](./45075-k-1-revenge.json) |
 | K-1 World Grand Prix | 23710 | [23710-k-1-world-grand-prix.json](./23710-k-1-world-grand-prix.json) |
 | K-1 World Grand Prix 2001 | 23469 | [23469-k-1-world-grand-prix-2001.json](./23469-k-1-world-grand-prix-2001.json) |
 | K-1 World Grand Prix 2001 Kaimakuden | 66883 | [66883-k-1-world-grand-prix-2001-kaimakuden.json](./66883-k-1-world-grand-prix-2001-kaimakuden.json) |
@@ -835,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karsus | 60620 | [60620-karsus.json](./60620-karsus.json) |
 | Kart Attack | 52533 | [52533-kart-attack.json](./52533-kart-attack.json) |
 | Kart Bros | 347246 | [347246-kart-bros.json](./347246-kart-bros.json) |
+| Kart Challenge | 45057 | [45057-kart-challenge.json](./45057-kart-challenge.json) |
 | Kart Chaser: The Boost VR | 29686 | [29686-kart-chaser-the-boost-vr.json](./29686-kart-chaser-the-boost-vr.json) |
 | Kart Crazy Race Simulator Game | 264118 | [264118-kart-crazy-race-simulator-game.json](./264118-kart-crazy-race-simulator-game.json) |
 | Kart Drift | 36879 | [36879-kart-drift.json](./36879-kart-drift.json) |
@@ -2235,7 +2237,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
