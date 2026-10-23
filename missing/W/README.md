@@ -6067,6 +6067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Searcher 2 | 84963 | [84963-word-searcher-2.json](./84963-word-searcher-2.json) |
 | Word Searcher 3 | 84962 | [84962-word-searcher-3.json](./84962-word-searcher-3.json) |
 | Word Searcher 4 | 84939 | [84939-word-searcher-4.json](./84939-word-searcher-4.json) |
+| Word Searcher Deluxe | 62037 | [62037-word-searcher-deluxe.json](./62037-word-searcher-deluxe.json) |
 | Word Seek English Unlimited | 103874 | [103874-word-seek-english-unlimited.json](./103874-word-seek-english-unlimited.json) |
 | Word Shaker HD | 97195 | [97195-word-shaker-hd.json](./97195-word-shaker-hd.json) |
 | Word Shop - Brain Puzzle Games | 101487 | [101487-word-shop-brain-puzzle-games.json](./101487-word-shop-brain-puzzle-games.json) |
@@ -7235,6 +7236,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckin Ball Adventure | 112364 | [112364-wreckin-ball-adventure.json](./112364-wreckin-ball-adventure.json) |
 | Wreckin' Raccoon | 371475 | [371475-wreckin-raccoon.json](./371475-wreckin-raccoon.json) |
 | Wrecking Ball | 73514 | [73514-wrecking-ball.json](./73514-wrecking-ball.json) |
+| Wrecking Balls Arena | 61972 | [61972-wrecking-balls-arena.json](./61972-wrecking-balls-arena.json) |
+| Wrecking Balls Arena DX | 61969 | [61969-wrecking-balls-arena-dx.json](./61969-wrecking-balls-arena-dx.json) |
 | Wrecking Crew | 41420 | [41420-wrecking-crew.json](./41420-wrecking-crew.json) |
 | Wrecking Towers | 68876 | [68876-wrecking-towers.json](./68876-wrecking-towers.json) |
 | Wreckless Roger | 395820 | [395820-wreckless-roger.json](./395820-wreckless-roger.json) |
