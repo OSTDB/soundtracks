@@ -7317,6 +7317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm Tales | 239010 | [239010-grimm-tales.json](./239010-grimm-tales.json) |
 | Grimm: Cards of Fate | 110197 | [110197-grimm-cards-of-fate.json](./110197-grimm-cards-of-fate.json) |
 | Grimm: Dark Legacy | 25823 | [25823-grimm-dark-legacy.json](./25823-grimm-dark-legacy.json) |
+| Grimm: Episode 1 - A Boy Learns What Fear Is | 94099 | [94099-grimm-episode-1-a-boy-learns-what-fear-is.json](./94099-grimm-episode-1-a-boy-learns-what-fear-is.json) |
 | Grimm: Episode 11 - King Midas | 164565 | [164565-grimm-episode-11-king-midas.json](./164565-grimm-episode-11-king-midas.json) |
 | Grimm: Episode 12 - Cinderella | 164560 | [164560-grimm-episode-12-cinderella.json](./164560-grimm-episode-12-cinderella.json) |
 | Grimm: Episode 13 - The Golden Goose | 164563 | [164563-grimm-episode-13-the-golden-goose.json](./164563-grimm-episode-13-the-golden-goose.json) |
