@@ -3547,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Nova: Strike Force Centauri | 70 | [70-terra-nova-strike-force-centauri.json](./70-terra-nova-strike-force-centauri.json) |
 | Terra Omega | 238975 | [238975-terra-omega.json](./238975-terra-omega.json) |
 | Terra Pit | 347470 | [347470-terra-pit.json](./347470-terra-pit.json) |
+| Terra Probe | 83347 | [83347-terra-probe.json](./83347-terra-probe.json) |
 | Terra Pulse | 142433 | [142433-terra-pulse.json](./142433-terra-pulse.json) |
 | Terra Randoma | 121411 | [121411-terra-randoma.json](./121411-terra-randoma.json) |
 | Terra Request | 383710 | [383710-terra-request.json](./383710-terra-request.json) |
@@ -3608,6 +3609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraMartis4x | 157050 | [157050-terramartis4x.json](./157050-terramartis4x.json) |
 | Terramystra | 383713 | [383713-terramystra.json](./383713-terramystra.json) |
 | Terrance the Flying Eyeball | 60915 | [60915-terrance-the-flying-eyeball.json](./60915-terrance-the-flying-eyeball.json) |
+| Terranean | 83353 | [83353-terranean.json](./83353-terranean.json) |
 | Terranigma | 9633 | [9633-terranigma.json](./9633-terranigma.json) |
 | Terranigma: Boss Rush | 343033 | [343033-terranigma-boss-rush.json](./343033-terranigma-boss-rush.json) |
 | TerranLands | 258513 | [258513-terranlands.json](./258513-terranlands.json) |
@@ -18901,6 +18903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titeuf | 169133 | [169133-titeuf.json](./169133-titeuf.json) |
 | Titeuf: Le Film | 268430 | [268430-titeuf-le-film.json](./268430-titeuf-le-film.json) |
 | Titeuf: Méga-Compet' | 46494 | [46494-titeuf-mega-compet.json](./46494-titeuf-mega-compet.json) |
+| Titjob Battle | 83363 | [83363-titjob-battle.json](./83363-titjob-battle.json) |
 | Title Fight Pro Boxing for Windows | 94548 | [94548-title-fight-pro-boxing-for-windows.json](./94548-title-fight-pro-boxing-for-windows.json) |
 | Title Match Pro Wrestling | 12343 | [12343-title-match-pro-wrestling.json](./12343-title-match-pro-wrestling.json) |
 | Title_Pending | 144909 | [144909-title-pending.json](./144909-title-pending.json) |
