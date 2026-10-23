@@ -1868,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gazed | 393476 | [393476-gazed.json](./393476-gazed.json) |
 | Gazelle in a Winter Coat | 216614 | [216614-gazelle-in-a-winter-coat.json](./216614-gazelle-in-a-winter-coat.json) |
 | Gazillionaire | 69550 | [69550-gazillionaire.json](./69550-gazillionaire.json) |
+| Gazillionaire Deluxe | 70223 | [70223-gazillionaire-deluxe.json](./70223-gazillionaire-deluxe.json) |
 | Gazing from beyond | 83497 | [83497-gazing-from-beyond.json](./83497-gazing-from-beyond.json) |
 | Gazmatera II: America's Least Wanted | 190029 | [190029-gazmatera-ii-americas-least-wanted.json](./190029-gazmatera-ii-americas-least-wanted.json) |
 | Gazmatera: Return of the Generals | 149039 | [149039-gazmatera-return-of-the-generals.json](./149039-gazmatera-return-of-the-generals.json) |
@@ -8908,6 +8909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gutter: The Reject | 257691 | [257691-gutter-the-reject.json](./257691-gutter-the-reject.json) |
 | Gutterball - Golden Pin Bowling | 88627 | [88627-gutterball-golden-pin-bowling.json](./88627-gutterball-golden-pin-bowling.json) |
 | Gutterball 2 | 344018 | [344018-gutterball-2.json](./344018-gutterball-2.json) |
+| Gutterball 3D | 70245 | [70245-gutterball-3d.json](./70245-gutterball-3d.json) |
 | Gutterball: Golden Pin Bowling HD | 103149 | [103149-gutterball-golden-pin-bowling-hd.json](./103149-gutterball-golden-pin-bowling-hd.json) |
 | Gutterspace | 385962 | [385962-gutterspace.json](./385962-gutterspace.json) |
 | Gutting Goblins! | 173066 | [173066-gutting-goblins.json](./173066-gutting-goblins.json) |
