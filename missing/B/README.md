@@ -2500,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketbrawl | 11867 | [11867-basketbrawl.json](./11867-basketbrawl.json) |
 | Basketing | 148903 | [148903-basketing.json](./148903-basketing.json) |
 | Basketmania | 88435 | [88435-basketmania.json](./88435-basketmania.json) |
+| Basketmania All Stars | 90453 | [90453-basketmania-all-stars.json](./90453-basketmania-all-stars.json) |
 | Basketrio | 154829 | [154829-basketrio.json](./154829-basketrio.json) |
 | Baskhead | 32254 | [32254-baskhead.json](./32254-baskhead.json) |
 | Baskhead Training | 29706 | [29706-baskhead-training.json](./29706-baskhead-training.json) |
@@ -2912,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for the Raise | 391817 | [391817-battle-for-the-raise.json](./391817-battle-for-the-raise.json) |
 | Battle for the Sphere of Chaos | 268904 | [268904-battle-for-the-sphere-of-chaos.json](./268904-battle-for-the-sphere-of-chaos.json) |
 | Battle for the Sun | 24338 | [24338-battle-for-the-sun.json](./24338-battle-for-the-sun.json) |
+| Battle for the Sun: 3D First Person Shooter Action Game | 90429 | [90429-battle-for-the-sun-3d-first-person-shooter-action-game.json](./90429-battle-for-the-sun-3d-first-person-shooter-action-game.json) |
 | Battle for the Void | 248901 | [248901-battle-for-the-void.json](./248901-battle-for-the-void.json) |
 | Battle for Troy | 27463 | [27463-battle-for-troy.json](./27463-battle-for-troy.json) |
 | Battle for Wesnoth | 2365 | [2365-battle-for-wesnoth.json](./2365-battle-for-wesnoth.json) |
@@ -3815,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Volleyball Competition | 169635 | [169635-beach-volleyball-competition.json](./169635-beach-volleyball-competition.json) |
 | Beach Volleyball Girl Shizuku | 288134 | [288134-beach-volleyball-girl-shizuku.json](./288134-beach-volleyball-girl-shizuku.json) |
 | Beach Volleyball Girl Shizuku 3 - Sekai Taikai-hen | 292081 | [292081-beach-volleyball-girl-shizuku-3-sekai-taikai-hen.json](./292081-beach-volleyball-girl-shizuku-3-sekai-taikai-hen.json) |
+| Beach War: Beach Defense | 90426 | [90426-beach-war-beach-defense.json](./90426-beach-war-beach-defense.json) |
 | Beach-Head | 8526 | [8526-beach-head.json](./8526-beach-head.json) |
 | Beach-Head II | 13389 | [13389-beach-head-ii.json](./13389-beach-head-ii.json) |
 | Beachcomber | 333945 | [333945-beachcomber.json](./333945-beachcomber.json) |
@@ -12149,6 +12152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brickfest | 97192 | [97192-brickfest.json](./97192-brickfest.json) |
 | BrickForce | 18991 | [18991-brickforce.json](./18991-brickforce.json) |
 | Brickhaven | 273380 | [273380-brickhaven.json](./273380-brickhaven.json) |
+| Bricking in America | 90430 | [90430-bricking-in-america.json](./90430-bricking-in-america.json) |
 | Brickle | 336321 | [336321-brickle.json](./336321-brickle.json) |
 | BrickMania | 328552 | [328552-brickmania.json](./328552-brickmania.json) |
 | Brickmasters | 240665 | [240665-brickmasters.json](./240665-brickmasters.json) |
