@@ -5111,6 +5111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MazyMazes | 250267 | [250267-mazymazes.json](./250267-mazymazes.json) |
 | Mazzembly 1997 | 78512 | [78512-mazzembly-1997.json](./78512-mazzembly-1997.json) |
 | Mazzle Christmas | 329040 | [329040-mazzle-christmas.json](./329040-mazzle-christmas.json) |
+| MB Bingo | 59121 | [59121-mb-bingo.json](./59121-mb-bingo.json) |
 | Mbembe Radio | 300988 | [300988-mbembe-radio.json](./300988-mbembe-radio.json) |
 | MBOS | 315509 | [315509-mbos.json](./315509-mbos.json) |
 | Mc Coy | 92960 | [92960-mc-coy.json](./92960-mc-coy.json) |
@@ -14244,6 +14245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motto Immortal | 411564 | [411564-motto-immortal.json](./411564-motto-immortal.json) |
 | Motto Kigaru ni! Oekaki Koubou Plus | 222428 | [222428-motto-kigaru-ni-oekaki-koubou-plus.json](./222428-motto-kigaru-ni-oekaki-koubou-plus.json) |
 | Motto Me de Unou o Kitaeru: Sokudoku Jutsu 3 | 141146 | [141146-motto-me-de-unou-o-kitaeru-sokudoku-jutsu-3.json](./141146-motto-me-de-unou-o-kitaeru-sokudoku-jutsu-3.json) |
+| Motto Nuga-Cel! | 59161 | [59161-motto-nuga-cel.json](./59161-motto-nuga-cel.json) |
 | Motto Shiritai Karada no Hatena | 261370 | [261370-motto-shiritai-karada-no-hatena.json](./261370-motto-shiritai-karada-no-hatena.json) |
 | Motto Shiritai Kodai Egypt | 276471 | [276471-motto-shiritai-kodai-egypt.json](./276471-motto-shiritai-kodai-egypt.json) |
 | Motto Shiritai Nippon no Meijou | 261369 | [261369-motto-shiritai-nippon-no-meijou.json](./261369-motto-shiritai-nippon-no-meijou.json) |
@@ -15206,6 +15208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munro's Tweetcarts | 183420 | [183420-munros-tweetcarts.json](./183420-munros-tweetcarts.json) |
 | Mupo | 389656 | [389656-mupo.json](./389656-mupo.json) |
 | Muppet Adventure: Chaos at the Carnival | 3257 | [3257-muppet-adventure-chaos-at-the-carnival.json](./3257-muppet-adventure-chaos-at-the-carnival.json) |
+| Muppet Madness | 59165 | [59165-muppet-madness.json](./59165-muppet-madness.json) |
 | Muppet Pinball Mayhem | 49322 | [49322-muppet-pinball-mayhem.json](./49322-muppet-pinball-mayhem.json) |
 | Muppet RaceMania | 3259 | [3259-muppet-racemania.json](./3259-muppet-racemania.json) |
 | Muppet Studios Presents: You're the Director | 80528 | [80528-muppet-studios-presents-youre-the-director.json](./80528-muppet-studios-presents-youre-the-director.json) |
