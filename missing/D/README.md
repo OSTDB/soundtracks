@@ -6232,6 +6232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devastator | 80872 | [80872-devastator.json](./80872-devastator.json) |
 | Devastator Arena | 105210 | [105210-devastator-arena.json](./105210-devastator-arena.json) |
 | Devastators | 39632 | [39632-devastators.json](./39632-devastators.json) |
+| Devastro | 80336 | [80336-devastro.json](./80336-devastro.json) |
 | Developer Daily | 381390 | [381390-developer-daily.json](./381390-developer-daily.json) |
 | Devestor | 375808 | [375808-devestor.json](./375808-devestor.json) |
 | Devexus | 199343 | [199343-devexus.json](./199343-devexus.json) |
@@ -8288,6 +8289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's The Lion King | 198801 | [198801-disneys-the-lion-king.json](./198801-disneys-the-lion-king.json) |
 | Disney's The Lion King | 204572 | [204572-disneys-the-lion-king.json](./204572-disneys-the-lion-king.json) |
 | Disney's The Lion King 1 1/2 | 79813 | [79813-disneys-the-lion-king-1-1-2.json](./79813-disneys-the-lion-king-1-1-2.json) |
+| Disney's The Lion King: Simba's Big Adventure | 80295 | [80295-disneys-the-lion-king-simbas-big-adventure.json](./80295-disneys-the-lion-king-simbas-big-adventure.json) |
 | Disney's The Lion King: Simba's Mighty Adventure | 259481 | [259481-disneys-the-lion-king-simbas-mighty-adventure.json](./259481-disneys-the-lion-king-simbas-mighty-adventure.json) |
 | Disney's The Lion King: Simba's Mighty Adventure | 45228 | [45228-disneys-the-lion-king-simbas-mighty-adventure.json](./45228-disneys-the-lion-king-simbas-mighty-adventure.json) |
 | Disney's The Little Mermaid | 198802 | [198802-disneys-the-little-mermaid.json](./198802-disneys-the-little-mermaid.json) |
@@ -8932,6 +8934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: SuDocWho | 237837 | [237837-doctor-who-sudocwho.json](./237837-doctor-who-sudocwho.json) |
 | Doctor Who: The Adventure Games | 10187 | [10187-doctor-who-the-adventure-games.json](./10187-doctor-who-the-adventure-games.json) |
 | Doctor Who: The Adventure Games - Episode 1: City of the Daleks | 26655 | [26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json](./26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json) |
+| Doctor Who: The Adventure Games - Episode 2: Blood of the Cybermen | 80322 | [80322-doctor-who-the-adventure-games-episode-2-blood-of-the-cybermen.json](./80322-doctor-who-the-adventure-games-episode-2-blood-of-the-cybermen.json) |
 | Doctor Who: The Adventure Games - Episode 3: TARDIS | 66439 | [66439-doctor-who-the-adventure-games-episode-3-tardis.json](./66439-doctor-who-the-adventure-games-episode-3-tardis.json) |
 | Doctor Who: The Adventure Games - Episode 4: Shadows of the Vashta Nerada | 66016 | [66016-doctor-who-the-adventure-games-episode-4-shadows-of-the-vashta-nerada.json](./66016-doctor-who-the-adventure-games-episode-4-shadows-of-the-vashta-nerada.json) |
 | Doctor Who: The Adventure Games - Episode 5: The Gunpowder Plot | 65463 | [65463-doctor-who-the-adventure-games-episode-5-the-gunpowder-plot.json](./65463-doctor-who-the-adventure-games-episode-5-the-gunpowder-plot.json) |
