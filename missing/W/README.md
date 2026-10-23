@@ -1401,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlock II: The Exiled - Wrath of the Nagas | 19207 | [19207-warlock-ii-the-exiled-wrath-of-the-nagas.json](./19207-warlock-ii-the-exiled-wrath-of-the-nagas.json) |
 | Warlock of Firetop Mountain | 200318 | [200318-warlock-of-firetop-mountain.json](./200318-warlock-of-firetop-mountain.json) |
 | Warlock Quest II | 75228 | [75228-warlock-quest-ii.json](./75228-warlock-quest-ii.json) |
+| Warlock Revenge | 74180 | [74180-warlock-revenge.json](./74180-warlock-revenge.json) |
 | Warlock Survivors | 244215 | [244215-warlock-survivors.json](./244215-warlock-survivors.json) |
 | Warlock The Bounty Hunter | 262296 | [262296-warlock-the-bounty-hunter.json](./262296-warlock-the-bounty-hunter.json) |
 | Warlock: Dungeons & Dragons | 388116 | [388116-warlock-dungeons-and-dragons.json](./388116-warlock-dungeons-and-dragons.json) |
