@@ -3126,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Castle Dungeon | 274331 | [274331-infinity-castle-dungeon.json](./274331-infinity-castle-dungeon.json) |
 | Infinity Cave | 313422 | [313422-infinity-cave.json](./313422-infinity-cave.json) |
 | Infinity Challenge | 96647 | [96647-infinity-challenge.json](./96647-infinity-challenge.json) |
+| Infinity City | 77124 | [77124-infinity-city.json](./77124-infinity-city.json) |
 | Infinity Coloring Pixel | 162616 | [162616-infinity-coloring-pixel.json](./162616-infinity-coloring-pixel.json) |
 | Infinity Conflict | 188406 | [188406-infinity-conflict.json](./188406-infinity-conflict.json) |
 | Infinity Conquer | 196521 | [196521-infinity-conquer.json](./196521-infinity-conquer.json) |
