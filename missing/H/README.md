@@ -7535,6 +7535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Guardian | 341651 | [341651-honey-guardian.json](./341651-honey-guardian.json) |
 | Honey Homer RPS | 288046 | [288046-honey-homer-rps.json](./288046-honey-homer-rps.json) |
 | Honey Hunt | 179931 | [179931-honey-hunt.json](./179931-honey-hunt.json) |
+| Honey Hunt | 44369 | [44369-honey-hunt.json](./44369-honey-hunt.json) |
 | Honey Kingdom | 328248 | [328248-honey-kingdom.json](./328248-honey-kingdom.json) |
 | Honey Magician | 277969 | [277969-honey-magician.json](./277969-honey-magician.json) |
 | Honey Milf | 367044 | [367044-honey-milf.json](./367044-honey-milf.json) |
