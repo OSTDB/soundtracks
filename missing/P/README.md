@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pairidaeza | 178467 | [178467-pairidaeza.json](./178467-pairidaeza.json) |
 | Paironix | 408949 | [408949-paironix.json](./408949-paironix.json) |
 | Pairs | 91372 | [91372-pairs.json](./91372-pairs.json) |
+| Pairs / Space Rendezvous / Logic | 70776 | [70776-pairs-space-rendezvous-logic.json](./70776-pairs-space-rendezvous-logic.json) |
 | Pairs & Perils | 315042 | [315042-pairs-and-perils.json](./315042-pairs-and-perils.json) |
 | Pairs and Rotors | 67394 | [67394-pairs-and-rotors.json](./67394-pairs-and-rotors.json) |
 | Paisible Après-midi au Fil des Toiles | 178023 | [178023-paisible-apres-midi-au-fil-des-toiles.json](./178023-paisible-apres-midi-au-fil-des-toiles.json) |
@@ -1607,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradudes | 106888 | [106888-paradudes.json](./106888-paradudes.json) |
 | Paraedolon | 320011 | [320011-paraedolon.json](./320011-paraedolon.json) |
 | Parafron | 260607 | [260607-parafron.json](./260607-parafron.json) |
+| Paragliding | 70774 | [70774-paragliding.json](./70774-paragliding.json) |
 | Paragliding Sim | 362588 | [362588-paragliding-sim.json](./362588-paragliding-sim.json) |
 | Paragnosia | 320184 | [320184-paragnosia.json](./320184-paragnosia.json) |
 | Paragnosia: Museum | 365305 | [365305-paragnosia-museum.json](./365305-paragnosia-museum.json) |
