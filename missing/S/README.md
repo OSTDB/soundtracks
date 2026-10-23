@@ -3300,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seamongrel | 342269 | [342269-seamongrel.json](./342269-seamongrel.json) |
 | Seance | 156198 | [156198-seance.json](./156198-seance.json) |
 | Seance | 358955 | [358955-seance.json](./358955-seance.json) |
+| Seance: The Unquiet | 91201 | [91201-seance-the-unquiet.json](./91201-seance-the-unquiet.json) |
 | Seaport - Build & Prosper! | 88374 | [88374-seaport-build-and-prosper.json](./88374-seaport-build-and-prosper.json) |
 | Seaport Tycoon | 245956 | [245956-seaport-tycoon.json](./245956-seaport-tycoon.json) |
 | Seaquest | 308366 | [308366-seaquest.json](./308366-seaquest.json) |
@@ -6949,6 +6950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shivering Stone | 274484 | [274484-shivering-stone.json](./274484-shivering-stone.json) |
 | Shivers | 12477 | [12477-shivers.json](./12477-shivers.json) |
 | Shiya | 178600 | [178600-shiya.json](./178600-shiya.json) |
+| Shiyang Teaches You to Learn Disaster Prevention | 90462 | [90462-shiyang-teaches-you-to-learn-disaster-prevention.json](./90462-shiyang-teaches-you-to-learn-disaster-prevention.json) |
 | Shìyuán zhī Zhǔ | 103962 | [103962-shiyuan-zhi-zhu.json](./103962-shiyuan-zhi-zhu.json) |
 | Shizoku: Shuriken Brawl | 179422 | [179422-shizoku-shuriken-brawl.json](./179422-shizoku-shuriken-brawl.json) |
 | Shizue: Innocent Curse | 117086 | [117086-shizue-innocent-curse.json](./117086-shizue-innocent-curse.json) |
@@ -16872,6 +16874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Slingers | 201518 | [201518-spider-slingers.json](./201518-spider-slingers.json) |
 | Spider Solitaire | 370408 | [370408-spider-solitaire.json](./370408-spider-solitaire.json) |
 | Spider Solitaire | 83466 | [83466-spider-solitaire.json](./83466-spider-solitaire.json) |
+| Spider Solitaire | 91178 | [91178-spider-solitaire.json](./91178-spider-solitaire.json) |
 | Spider Solitaire - Classic Deck Card Games | 88588 | [88588-spider-solitaire-classic-deck-card-games.json](./88588-spider-solitaire-classic-deck-card-games.json) |
 | Spider Solitaire 2018 | 87636 | [87636-spider-solitaire-2018.json](./87636-spider-solitaire-2018.json) |
 | Spider Solitaire 2022 | 217792 | [217792-spider-solitaire-2022.json](./217792-spider-solitaire-2022.json) |
@@ -20386,6 +20389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunch: Lost Tombs | 358357 | [358357-steampunch-lost-tombs.json](./358357-steampunch-lost-tombs.json) |
 | Steampunk Abyss | 188864 | [188864-steampunk-abyss.json](./188864-steampunk-abyss.json) |
 | Steampunk Action Battle Simulator | 41930 | [41930-steampunk-action-battle-simulator.json](./41930-steampunk-action-battle-simulator.json) |
+| Steampunk Defense Pro | 91188 | [91188-steampunk-defense-pro.json](./91188-steampunk-defense-pro.json) |
 | Steampunk Genius | 130056 | [130056-steampunk-genius.json](./130056-steampunk-genius.json) |
 | Steampunk Idle Spinner | 116243 | [116243-steampunk-idle-spinner.json](./116243-steampunk-idle-spinner.json) |
 | Steampunk Jigsaw Puzzles | 264578 | [264578-steampunk-jigsaw-puzzles.json](./264578-steampunk-jigsaw-puzzles.json) |
@@ -22768,6 +22772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submerged Lights | 392156 | [392156-submerged-lights.json](./392156-submerged-lights.json) |
 | Submerged Mystery: Takodachi | 327399 | [327399-submerged-mystery-takodachi.json](./327399-submerged-mystery-takodachi.json) |
 | Submerged: LaSol | 171784 | [171784-submerged-lasol.json](./171784-submerged-lasol.json) |
+| Submerged: Miku and the Sunken City | 91219 | [91219-submerged-miku-and-the-sunken-city.json](./91219-submerged-miku-and-the-sunken-city.json) |
 | Submeris | 341931 | [341931-submeris.json](./341931-submeris.json) |
 | Submersa | 386144 | [386144-submersa.json](./386144-submersa.json) |
 | Submersed | 128303 | [128303-submersed.json](./128303-submersed.json) |
