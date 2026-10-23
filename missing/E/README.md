@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ebontale | 179184 | [179184-ebontale.json](./179184-ebontale.json) |
 | Ebony Spire: Heresy | 74239 | [74239-ebony-spire-heresy.json](./74239-ebony-spire-heresy.json) |
 | Ebullition LBVR | 121769 | [121769-ebullition-lbvr.json](./121769-ebullition-lbvr.json) |
+| Eburnean | 98296 | [98296-eburnean.json](./98296-eburnean.json) |
 | Ecchi 2: compile 2D chan | 111638 | [111638-ecchi-2-compile-2d-chan.json](./111638-ecchi-2-compile-2d-chan.json) |
 | Ecchi Beauties | 173821 | [173821-ecchi-beauties.json](./173821-ecchi-beauties.json) |
 | Ecchi Breaker | 378797 | [378797-ecchi-breaker.json](./378797-ecchi-breaker.json) |
@@ -2655,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encaved | 92981 | [92981-encaved.json](./92981-encaved.json) |
 | Enceladus | 261819 | [261819-enceladus.json](./261819-enceladus.json) |
 | Enceladus | 75049 | [75049-enceladus.json](./75049-enceladus.json) |
+| Enchain | 98307 | [98307-enchain.json](./98307-enchain.json) |
 | Enchancement | 337225 | [337225-enchancement.json](./337225-enchancement.json) |
 | Enchant Farm | 287329 | [287329-enchant-farm.json](./287329-enchant-farm.json) |
 | Enchant U | 133712 | [133712-enchant-u.json](./133712-enchant-u.json) |
