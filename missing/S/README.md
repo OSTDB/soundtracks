@@ -4379,6 +4379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura: Estival Versus - Sakura Edition | 136688 | [136688-senran-kagura-estival-versus-sakura-edition.json](./136688-senran-kagura-estival-versus-sakura-edition.json) |
 | Senran Kagura: Estival Versus - Splash Pack | 226793 | [226793-senran-kagura-estival-versus-splash-pack.json](./226793-senran-kagura-estival-versus-splash-pack.json) |
 | Senran Kagura: New Link | 54520 | [54520-senran-kagura-new-link.json](./54520-senran-kagura-new-link.json) |
+| Senran Kagura: New Wave | 64152 | [64152-senran-kagura-new-wave.json](./64152-senran-kagura-new-wave.json) |
 | Senran Kagura: Peach and Reflexions Limited Double Pack | 136928 | [136928-senran-kagura-peach-and-reflexions-limited-double-pack.json](./136928-senran-kagura-peach-and-reflexions-limited-double-pack.json) |
 | Senran Kagura: Peach Beach Splash - No Shirt, No Shoes, All Service Edition | 136217 | [136217-senran-kagura-peach-beach-splash-no-shirt-no-shoes-all-service-edition.json](./136217-senran-kagura-peach-beach-splash-no-shirt-no-shoes-all-service-edition.json) |
 | Senran Kagura: Peach Beach Splash - Sexy Soaker Edition | 300524 | [300524-senran-kagura-peach-beach-splash-sexy-soaker-edition.json](./300524-senran-kagura-peach-beach-splash-sexy-soaker-edition.json) |
@@ -9749,6 +9750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skramble | 420523 | [420523-skramble.json](./420523-skramble.json) |
 | Skramble | 420524 | [420524-skramble.json](./420524-skramble.json) |
 | Skribbl.io | 76565 | [76565-skribbl-io.json](./76565-skribbl-io.json) |
+| Skrillex Quest | 64231 | [64231-skrillex-quest.json](./64231-skrillex-quest.json) |
 | Skroll | 408714 | [408714-skroll.json](./408714-skroll.json) |
 | Skronchulonch: The Game of Shooting at an Orb | 176375 | [176375-skronchulonch-the-game-of-shooting-at-an-orb.json](./176375-skronchulonch-the-game-of-shooting-at-an-orb.json) |
 | Skrotens Hjältar | 328676 | [328676-skrotens-hjaltar.json](./328676-skrotens-hjaltar.json) |
@@ -10484,6 +10486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SleepWalker | 117718 | [117718-sleepwalker.json](./117718-sleepwalker.json) |
 | Sleepwalker & Pinball Fantasies | 100088 | [100088-sleepwalker-and-pinball-fantasies.json](./100088-sleepwalker-and-pinball-fantasies.json) |
 | Sleepwalker Time to Wake Up | 61356 | [61356-sleepwalker-time-to-wake-up.json](./61356-sleepwalker-time-to-wake-up.json) |
+| Sleepwalker's Journey | 64276 | [64276-sleepwalkers-journey.json](./64276-sleepwalkers-journey.json) |
 | Sleepwalking | 318388 | [318388-sleepwalking.json](./318388-sleepwalking.json) |
 | Sleepwalking Forest | 179498 | [179498-sleepwalking-forest.json](./179498-sleepwalking-forest.json) |
 | Sleepy Blocks | 184399 | [184399-sleepy-blocks.json](./184399-sleepy-blocks.json) |
@@ -13199,6 +13202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solomon's Keep | 132812 | [132812-solomons-keep.json](./132812-solomons-keep.json) |
 | Solomon's Key | 28384 | [28384-solomons-key.json](./28384-solomons-key.json) |
 | Solomon's Key | 286608 | [286608-solomons-key.json](./286608-solomons-key.json) |
+| Solomon's Ring: Hi no Shou | 64162 | [64162-solomons-ring-hi-no-shou.json](./64162-solomons-ring-hi-no-shou.json) |
 | Solos | 197318 | [197318-solos.json](./197318-solos.json) |
 | Solous | 133466 | [133466-solous.json](./133466-solous.json) |
 | Solraid | 200633 | [200633-solraid.json](./200633-solraid.json) |
@@ -15484,13 +15488,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders Micro Player | 229786 | [229786-space-invaders-micro-player.json](./229786-space-invaders-micro-player.json) |
 | Space Invaders Mini Electronic | 198898 | [198898-space-invaders-mini-electronic.json](./198898-space-invaders-mini-electronic.json) |
 | Space Invaders Part II | 246397 | [246397-space-invaders-part-ii.json](./246397-space-invaders-part-ii.json) |
+| Space Invaders Pocket | 64073 | [64073-space-invaders-pocket.json](./64073-space-invaders-pocket.json) |
 | Space Invaders Revolution | 22290 | [22290-space-invaders-revolution.json](./22290-space-invaders-revolution.json) |
 | Space Invaders X.L. | 51183 | [51183-space-invaders-x-l.json](./51183-space-invaders-x-l.json) |
 | Space Invaders: Carabiner Edition | 225630 | [225630-space-invaders-carabiner-edition.json](./225630-space-invaders-carabiner-edition.json) |
 | Space Invaders: Deck Commander | 340195 | [340195-space-invaders-deck-commander.json](./340195-space-invaders-deck-commander.json) |
+| Space Invaders: Fukkatsu no Hi | 64075 | [64075-space-invaders-fukkatsu-no-hi.json](./64075-space-invaders-fukkatsu-no-hi.json) |
 | Space Invaders: Infinity Gene Evolve | 335142 | [335142-space-invaders-infinity-gene-evolve.json](./335142-space-invaders-infinity-gene-evolve.json) |
 | Space Invaders: Invincible Collection | 119406 | [119406-space-invaders-invincible-collection.json](./119406-space-invaders-invincible-collection.json) |
 | Space Invaders: Invincible Collection - Special Edition | 141665 | [141665-space-invaders-invincible-collection-special-edition.json](./141665-space-invaders-invincible-collection-special-edition.json) |
+| Space Invaders: The Beat Attacker | 64076 | [64076-space-invaders-the-beat-attacker.json](./64076-space-invaders-the-beat-attacker.json) |
 | Space Invaders: The Original Game | 210577 | [210577-space-invaders-the-original-game.json](./210577-space-invaders-the-original-game.json) |
 | Space Invaders: World Defense | 257365 | [257365-space-invaders-world-defense.json](./257365-space-invaders-world-defense.json) |
 | Space Invasion | 194252 | [194252-space-invasion.json](./194252-space-invasion.json) |
@@ -25930,6 +25937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Shadow Break: Showdown! Ninja vs. The Three Kaijus | 192062 | [192062-super-shadow-break-showdown-ninja-vs-the-three-kaijus.json](./192062-super-shadow-break-showdown-ninja-vs-the-three-kaijus.json) |
 | Super Shadow Dudes | 180186 | [180186-super-shadow-dudes.json](./180186-super-shadow-dudes.json) |
 | Super Shadow of the Beast | 42453 | [42453-super-shadow-of-the-beast.json](./42453-super-shadow-of-the-beast.json) |
+| Super Shanghai 2005 | 64253 | [64253-super-shanghai-2005.json](./64253-super-shanghai-2005.json) |
 | Super Shanghai: Dragon's Eye | 406085 | [406085-super-shanghai-dragons-eye.json](./406085-super-shanghai-dragons-eye.json) |
 | Super Shanghai: Dragon's Eye | 78447 | [78447-super-shanghai-dragons-eye.json](./78447-super-shanghai-dragons-eye.json) |
 | Super Shape Cascade | 268225 | [268225-super-shape-cascade.json](./268225-super-shape-cascade.json) |
