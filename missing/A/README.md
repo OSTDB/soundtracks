@@ -13495,6 +13495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AuroraBound Deluxe | 74370 | [74370-aurorabound-deluxe.json](./74370-aurorabound-deluxe.json) |
 | AuroraRL | 33607 | [33607-aurorarl.json](./33607-aurorarl.json) |
 | AuroraRL: Special Edition | 52622 | [52622-aurorarl-special-edition.json](./52622-aurorarl-special-edition.json) |
+| Aurrery | 74871 | [74871-aurrery.json](./74871-aurrery.json) |
 | Aurule Dynasty | 406856 | [406856-aurule-dynasty.json](./406856-aurule-dynasty.json) |
 | Aurum | 373636 | [373636-aurum.json](./373636-aurum.json) |
 | Aurum Kings | 100148 | [100148-aurum-kings.json](./100148-aurum-kings.json) |
