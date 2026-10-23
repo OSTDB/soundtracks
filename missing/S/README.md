@@ -3653,6 +3653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of the Vikings: Mystery island | 199300 | [199300-secret-of-the-vikings-mystery-island.json](./199300-secret-of-the-vikings-mystery-island.json) |
 | Secret Of World | 315032 | [315032-secret-of-world.json](./315032-secret-of-world.json) |
 | Secret Oops! | 194337 | [194337-secret-oops.json](./194337-secret-oops.json) |
+| Secret Paths in the Forest | 47017 | [47017-secret-paths-in-the-forest.json](./47017-secret-paths-in-the-forest.json) |
 | Secret Paths to the Sea | 70382 | [70382-secret-paths-to-the-sea.json](./70382-secret-paths-to-the-sea.json) |
 | Secret Paws: Cozy Apartments | 363887 | [363887-secret-paws-cozy-apartments.json](./363887-secret-paws-cozy-apartments.json) |
 | Secret Paws: Cozy Offices | 348838 | [348838-secret-paws-cozy-offices.json](./348838-secret-paws-cozy-offices.json) |
@@ -4065,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Soccer Slam | 248470 | [248470-sega-soccer-slam.json](./248470-sega-soccer-slam.json) |
 | Sega Soccer Slam | 4102 | [4102-sega-soccer-slam.json](./4102-sega-soccer-slam.json) |
 | Sega Splash! Golf | 136872 | [136872-sega-splash-golf.json](./136872-sega-splash-golf.json) |
+| Sega Sports 1 | 47061 | [47061-sega-sports-1.json](./47061-sega-sports-1.json) |
 | Sega Sports 1 | 56844 | [56844-sega-sports-1.json](./56844-sega-sports-1.json) |
 | Sega Strike Fighter | 112506 | [112506-sega-strike-fighter.json](./112506-sega-strike-fighter.json) |
 | Sega Superstars Tennis | 255326 | [255326-sega-superstars-tennis.json](./255326-sega-superstars-tennis.json) |
@@ -6091,6 +6093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Minds: Encore | 158948 | [158948-shattered-minds-encore.json](./158948-shattered-minds-encore.json) |
 | Shattered Minds: Masquerade | 369714 | [369714-shattered-minds-masquerade.json](./369714-shattered-minds-masquerade.json) |
 | Shattered Ninja | 146611 | [146611-shattered-ninja.json](./146611-shattered-ninja.json) |
+| Shattered Origins: Guardians of Unity | 47035 | [47035-shattered-origins-guardians-of-unity.json](./47035-shattered-origins-guardians-of-unity.json) |
 | Shattered Palace | 312902 | [312902-shattered-palace.json](./312902-shattered-palace.json) |
 | Shattered Paradise | 387019 | [387019-shattered-paradise.json](./387019-shattered-paradise.json) |
 | Shattered Pixel Dungeon | 130394 | [130394-shattered-pixel-dungeon.json](./130394-shattered-pixel-dungeon.json) |
@@ -13251,6 +13254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire: Treasure of Time | 181582 | [181582-solitaire-treasure-of-time.json](./181582-solitaire-treasure-of-time.json) |
 | Solitaire: Ultimate Collection | 66691 | [66691-solitaire-ultimate-collection.json](./66691-solitaire-ultimate-collection.json) |
 | Solitaire: Victorian Picnic | 99986 | [99986-solitaire-victorian-picnic.json](./99986-solitaire-victorian-picnic.json) |
+| Solitaire's Journey | 47022 | [47022-solitaires-journey.json](./47022-solitaires-journey.json) |
 | SolitaireX | 388039 | [388039-solitairex.json](./388039-solitairex.json) |
 | Solitairica | 24464 | [24464-solitairica.json](./24464-solitairica.json) |
 | Solitairithmetic | 85729 | [85729-solitairithmetic.json](./85729-solitairithmetic.json) |
