@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jangou | 131433 | [131433-jangou.json](./131433-jangou.json) |
 | Jangou 1 | 123077 | [123077-jangou-1.json](./123077-jangou-1.json) |
 | Jangou 2 | 123076 | [123076-jangou-2.json](./123076-jangou-2.json) |
+| Jangou Simulation: Mahjong-dou 64 | 47741 | [47741-jangou-simulation-mahjong-dou-64.json](./47741-jangou-simulation-mahjong-dou-64.json) |
 | Jangou World Cup | 123075 | [123075-jangou-world-cup.json](./123075-jangou-world-cup.json) |
 | Janitor Bleeds | 144938 | [144938-janitor-bleeds.json](./144938-janitor-bleeds.json) |
 | Janitor Express | 104544 | [104544-janitor-express.json](./104544-janitor-express.json) |
@@ -1623,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 2018 | 98510 | [98510-jikkyou-pawafuru-puroyakyu-2018.json](./98510-jikkyou-pawafuru-puroyakyu-2018.json) |
 | Jikkyou Pawafuru Puroyakyu 2018: Digital Deluxe Edition | 118877 | [118877-jikkyou-pawafuru-puroyakyu-2018-digital-deluxe-edition.json](./118877-jikkyou-pawafuru-puroyakyu-2018-digital-deluxe-edition.json) |
 | Jikkyou Pawafuru Puroyakyu 3 | 42642 | [42642-jikkyou-pawafuru-puroyakyu-3.json](./42642-jikkyou-pawafuru-puroyakyu-3.json) |
+| Jikkyou Pawafuru Puroyakyu 4 | 47746 | [47746-jikkyou-pawafuru-puroyakyu-4.json](./47746-jikkyou-pawafuru-puroyakyu-4.json) |
 | Jikkyou Pawafuru Puroyakyu 5 | 3526 | [3526-jikkyou-pawafuru-puroyakyu-5.json](./3526-jikkyou-pawafuru-puroyakyu-5.json) |
 | Jikkyou Pawafuru Puroyakyu 6 | 136734 | [136734-jikkyou-pawafuru-puroyakyu-6.json](./136734-jikkyou-pawafuru-puroyakyu-6.json) |
 | Jikkyou Pawafuru Puroyakyu 7: Kettei-ban | 229541 | [229541-jikkyou-pawafuru-puroyakyu-7-kettei-ban.json](./229541-jikkyou-pawafuru-puroyakyu-7-kettei-ban.json) |
