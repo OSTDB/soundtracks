@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zapling Bygone: Deluxe Edition | 249261 | [249261-zapling-bygone-deluxe-edition.json](./249261-zapling-bygone-deluxe-edition.json) |
 | ZapM | 61471 | [61471-zapm.json](./61471-zapm.json) |
 | Zapp: Escape From Hollowcell | 52100 | [52100-zapp-escape-from-hollowcell.json](./52100-zapp-escape-from-hollowcell.json) |
+| Zappa Roidz | 85940 | [85940-zappa-roidz.json](./85940-zappa-roidz.json) |
 | Zapper | 202182 | [202182-zapper.json](./202182-zapper.json) |
 | Zapper: One Wicked Cricket! | 4583 | [4583-zapper-one-wicked-cricket.json](./4583-zapper-one-wicked-cricket.json) |
 | ZAR | 161374 | [161374-zar.json](./161374-zar.json) |
@@ -308,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zatikon: Crusades | 52782 | [52782-zatikon-crusades.json](./52782-zatikon-crusades.json) |
 | Zatsugaku Olympic Quiz Part II | 41419 | [41419-zatsugaku-olympic-quiz-part-ii.json](./41419-zatsugaku-olympic-quiz-part-ii.json) |
 | Zatsugaku Olympic Watanabe Wataru-Hen | 232827 | [232827-zatsugaku-olympic-watanabe-wataru-hen.json](./232827-zatsugaku-olympic-watanabe-wataru-hen.json) |
+| Zauberfläche | 85936 | [85936-zauberflache.json](./85936-zauberflache.json) |
 | Zaum Gadget | 259455 | [259455-zaum-gadget.json](./259455-zaum-gadget.json) |
 | Zavas | 232825 | [232825-zavas.json](./232825-zavas.json) |
 | Zavas II: The Prophecy of Mehitae | 232826 | [232826-zavas-ii-the-prophecy-of-mehitae.json](./232826-zavas-ii-the-prophecy-of-mehitae.json) |
@@ -623,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeno Clash II | 2048 | [2048-zeno-clash-ii.json](./2048-zeno-clash-ii.json) |
 | Zeno Clash: Ultimate Edition | 21578 | [21578-zeno-clash-ultimate-edition.json](./21578-zeno-clash-ultimate-edition.json) |
 | Zeno no Nichijou | 284577 | [284577-zeno-no-nichijou.json](./284577-zeno-no-nichijou.json) |
+| Zenobi Adventures CD | 85893 | [85893-zenobi-adventures-cd.json](./85893-zenobi-adventures-cd.json) |
 | Zenodeath | 118828 | [118828-zenodeath.json](./118828-zenodeath.json) |
 | Zenoken | 326633 | [326633-zenoken.json](./326633-zenoken.json) |
 | Zenomatrix | 332450 | [332450-zenomatrix.json](./332450-zenomatrix.json) |
