@@ -8349,6 +8349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Shop Manager | 349095 | [349095-gun-shop-manager.json](./349095-gun-shop-manager.json) |
 | Gun Shop Simulator | 345969 | [345969-gun-shop-simulator.json](./345969-gun-shop-simulator.json) |
 | Gun Shop: Tidy Up | 413780 | [413780-gun-shop-tidy-up.json](./413780-gun-shop-tidy-up.json) |
+| Gun Shot! | 97198 | [97198-gun-shot.json](./97198-gun-shot.json) |
 | Gun Skaters | 139664 | [139664-gun-skaters.json](./139664-gun-skaters.json) |
 | Gun Smoke | 77862 | [77862-gun-smoke.json](./77862-gun-smoke.json) |
 | Gun Soul Girl 2 | 169455 | [169455-gun-soul-girl-2.json](./169455-gun-soul-girl-2.json) |
