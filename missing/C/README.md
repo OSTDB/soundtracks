@@ -2412,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cascading Failure | 155690 | [155690-cascading-failure.json](./155690-cascading-failure.json) |
 | Cascadio | 134948 | [134948-cascadio.json](./134948-cascadio.json) |
 | Cascadou | 364881 | [364881-cascadou.json](./364881-cascadou.json) |
+| Cascata | 94046 | [94046-cascata.json](./94046-cascata.json) |
 | Case | 323550 | [323550-case.json](./323550-case.json) |
 | Case #1472 | 201494 | [201494-case-1472.json](./201494-case-1472.json) |
 | Case #8 | 18212 | [18212-case-8.json](./18212-case-8.json) |
@@ -7070,6 +7071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Paradise Radio | 220001 | [220001-cities-skylines-paradise-radio.json](./220001-cities-skylines-paradise-radio.json) |
 | Cities: Skylines - Parklife Edition | 205268 | [205268-cities-skylines-parklife-edition.json](./205268-cities-skylines-parklife-edition.json) |
 | Cities: Skylines - Piano Tunes Radio | 257084 | [257084-cities-skylines-piano-tunes-radio.json](./257084-cities-skylines-piano-tunes-radio.json) |
+| Cities: Skylines - PlayStation 4 Edition | 94074 | [94074-cities-skylines-playstation-4-edition.json](./94074-cities-skylines-playstation-4-edition.json) |
 | Cities: Skylines - Premium Edition 2 | 119080 | [119080-cities-skylines-premium-edition-2.json](./119080-cities-skylines-premium-edition-2.json) |
 | Cities: Skylines - Race Day | 393462 | [393462-cities-skylines-race-day.json](./393462-cities-skylines-race-day.json) |
 | Cities: Skylines - Rail Hawk Radio | 149991 | [149991-cities-skylines-rail-hawk-radio.json](./149991-cities-skylines-rail-hawk-radio.json) |
