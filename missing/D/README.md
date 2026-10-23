@@ -562,10 +562,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution 2nd Mix: Dreamcast Edition | 268647 | [268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json](./268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json) |
 | Dance Dance Revolution 2ndMix | 77640 | [77640-dance-dance-revolution-2ndmix.json](./77640-dance-dance-revolution-2ndmix.json) |
 | Dance Dance Revolution 2ndReMix: Append Club Version Vol. 1 | 132807 | [132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json](./132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json) |
+| Dance Dance Revolution 4thMix | 79708 | [79708-dance-dance-revolution-4thmix.json](./79708-dance-dance-revolution-4thmix.json) |
 | Dance Dance Revolution A | 58120 | [58120-dance-dance-revolution-a.json](./58120-dance-dance-revolution-a.json) |
 | Dance Dance Revolution A20 | 124446 | [124446-dance-dance-revolution-a20.json](./124446-dance-dance-revolution-a20.json) |
 | Dance Dance Revolution A20 Plus | 135550 | [135550-dance-dance-revolution-a20-plus.json](./135550-dance-dance-revolution-a20-plus.json) |
 | Dance Dance Revolution Best Hits | 132809 | [132809-dance-dance-revolution-best-hits.json](./132809-dance-dance-revolution-best-hits.json) |
+| Dance Dance Revolution Club Version Dreamcast Edition | 79697 | [79697-dance-dance-revolution-club-version-dreamcast-edition.json](./79697-dance-dance-revolution-club-version-dreamcast-edition.json) |
 | Dance Dance Revolution Dance Wars | 3681 | [3681-dance-dance-revolution-dance-wars.json](./3681-dance-dance-revolution-dance-wars.json) |
 | Dance Dance Revolution Disney Mix | 44796 | [44796-dance-dance-revolution-disney-mix.json](./44796-dance-dance-revolution-disney-mix.json) |
 | Dance Dance Revolution ExtraMix | 93034 | [93034-dance-dance-revolution-extramix.json](./93034-dance-dance-revolution-extramix.json) |
@@ -2540,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DDM Soccer '96 | 93390 | [93390-ddm-soccer-96.json](./93390-ddm-soccer-96.json) |
 | DDoD | 361039 | [361039-ddod.json](./361039-ddod.json) |
 | DDraceNetwork | 136770 | [136770-ddracenetwork.json](./136770-ddracenetwork.json) |
+| DDRMax Dance Dance Revolution | 79707 | [79707-ddrmax-dance-dance-revolution.json](./79707-ddrmax-dance-dance-revolution.json) |
 | DDRMax: Dance Dance Revolution 6thMix | 3677 | [3677-ddrmax-dance-dance-revolution-6thmix.json](./3677-ddrmax-dance-dance-revolution-6thmix.json) |
 | DDRMax2: Dance Dance Revolution | 44711 | [44711-ddrmax2-dance-dance-revolution.json](./44711-ddrmax2-dance-dance-revolution.json) |
 | DDS (D.I.Y Drone Simulator) | 91243 | [91243-dds-d-i-y-drone-simulator.json](./91243-dds-d-i-y-drone-simulator.json) |
@@ -8127,6 +8130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess | 220084 | [220084-disney-princess.json](./220084-disney-princess.json) |
 | Disney Princess | 230337 | [230337-disney-princess.json](./230337-disney-princess.json) |
 | Disney Princess | 230556 | [230556-disney-princess.json](./230556-disney-princess.json) |
+| Disney Princess | 79718 | [79718-disney-princess.json](./79718-disney-princess.json) |
 | Disney Princess Fashion Boutique | 209891 | [209891-disney-princess-fashion-boutique.json](./209891-disney-princess-fashion-boutique.json) |
 | Disney Princess Jewelry Box Collection | 350331 | [350331-disney-princess-jewelry-box-collection.json](./350331-disney-princess-jewelry-box-collection.json) |
 | Disney Princess Palace Pets | 334251 | [334251-disney-princess-palace-pets.json](./334251-disney-princess-palace-pets.json) |
@@ -10488,6 +10492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora's Cooking Club | 47964 | [47964-doras-cooking-club.json](./47964-doras-cooking-club.json) |
 | Dora's Star Mountain Adventure | 243823 | [243823-doras-star-mountain-adventure.json](./243823-doras-star-mountain-adventure.json) |
 | Dora's World Adventure! | 220085 | [220085-doras-world-adventure.json](./220085-doras-world-adventure.json) |
+| Dorabase 2: Nettou Ultra Stadium | 79716 | [79716-dorabase-2-nettou-ultra-stadium.json](./79716-dorabase-2-nettou-ultra-stadium.json) |
 | Dorabase: Dramatic Stadium | 91771 | [91771-dorabase-dramatic-stadium.json](./91771-dorabase-dramatic-stadium.json) |
 | Dorachan | 178099 | [178099-dorachan.json](./178099-dorachan.json) |
 | Doradora Panic | 151679 | [151679-doradora-panic.json](./151679-doradora-panic.json) |
