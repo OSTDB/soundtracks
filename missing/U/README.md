@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman Quiz King | 289761 | [289761-ultraman-quiz-king.json](./289761-ultraman-quiz-king.json) |
 | Ultraman Tiga & Ultraman Dyna: New Generations | 66409 | [66409-ultraman-tiga-and-ultraman-dyna-new-generations.json](./66409-ultraman-tiga-and-ultraman-dyna-new-generations.json) |
 | Ultraman: Alphabet TV he Youkoso | 63951 | [63951-ultraman-alphabet-tv-he-youkoso.json](./63951-ultraman-alphabet-tv-he-youkoso.json) |
+| Ultraman: Chou Toushi Gekiden | 49134 | [49134-ultraman-chou-toushi-gekiden.json](./49134-ultraman-chou-toushi-gekiden.json) |
 | Ultraman: Galaxy Alert | 205985 | [205985-ultraman-galaxy-alert.json](./205985-ultraman-galaxy-alert.json) |
 | Ultraman: Hiragana Daisakusen | 63950 | [63950-ultraman-hiragana-daisakusen.json](./63950-ultraman-hiragana-daisakusen.json) |
 | Ultraman: Kaijuu Daikessen | 385839 | [385839-ultraman-kaijuu-daikessen.json](./385839-ultraman-kaijuu-daikessen.json) |
