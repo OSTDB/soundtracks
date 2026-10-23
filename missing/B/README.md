@@ -751,7 +751,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1835,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarian Trash | 110827 | [110827-barbarian-trash.json](./110827-barbarian-trash.json) |
 | Barbarians & Beasts | 277971 | [277971-barbarians-and-beasts.json](./277971-barbarians-and-beasts.json) |
 | Barbarians Nations: Battle for freedom | 175749 | [175749-barbarians-nations-battle-for-freedom.json](./175749-barbarians-nations-battle-for-freedom.json) |
+| Barbaric | 51720 | [51720-barbaric.json](./51720-barbaric.json) |
 | Barbaric Fury | 224963 | [224963-barbaric-fury.json](./224963-barbaric-fury.json) |
 | Barbarium | 200559 | [200559-barbarium.json](./200559-barbarium.json) |
 | Barbarization | 311491 | [311491-barbarization.json](./311491-barbarization.json) |
@@ -2873,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Chess | 283606 | [283606-battle-chess.json](./283606-battle-chess.json) |
 | Battle Chess 4000 | 11099 | [11099-battle-chess-4000.json](./11099-battle-chess-4000.json) |
 | Battle Chess II: Chinese Chess | 11098 | [11098-battle-chess-ii-chinese-chess.json](./11098-battle-chess-ii-chinese-chess.json) |
+| Battle Chess: Special Edition | 51707 | [51707-battle-chess-special-edition.json](./51707-battle-chess-special-edition.json) |
 | Battle Chopper | 38542 | [38542-battle-chopper.json](./38542-battle-chopper.json) |
 | Battle City | 4596 | [4596-battle-city.json](./4596-battle-city.json) |
 | Battle Clash | 283977 | [283977-battle-clash.json](./283977-battle-clash.json) |
@@ -7388,6 +7389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackGate | 325837 | [325837-blackgate.json](./325837-blackgate.json) |
 | Blackguards | 5522 | [5522-blackguards.json](./5522-blackguards.json) |
 | Blackguards: Deluxe Edition | 52468 | [52468-blackguards-deluxe-edition.json](./52468-blackguards-deluxe-edition.json) |
+| Blackguards: Special Edition | 51705 | [51705-blackguards-special-edition.json](./51705-blackguards-special-edition.json) |
 | Blackguards: Untold Legends | 11105 | [11105-blackguards-untold-legends.json](./11105-blackguards-untold-legends.json) |
 | Blackhaven | 160683 | [160683-blackhaven.json](./160683-blackhaven.json) |
 | Blackheart | 249897 | [249897-blackheart.json](./249897-blackheart.json) |
@@ -8629,6 +8631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood & Laurels | 141556 | [141556-blood-and-laurels.json](./141556-blood-and-laurels.json) |
 | Blood & Lust | 338256 | [338256-blood-and-lust.json](./338256-blood-and-lust.json) |
 | Blood & Play: Consultation | 364359 | [364359-blood-and-play-consultation.json](./364359-blood-and-play-consultation.json) |
+| Blood 2: The Blood Group | 51704 | [51704-blood-2-the-blood-group.json](./51704-blood-2-the-blood-group.json) |
 | Blood Accord | 338336 | [338336-blood-accord.json](./338336-blood-accord.json) |
 | Blood Alloy: Reborn | 17454 | [17454-blood-alloy-reborn.json](./17454-blood-alloy-reborn.json) |
 | Blood Ancestors | 68712 | [68712-blood-ancestors.json](./68712-blood-ancestors.json) |
