@@ -3002,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Minesweeper | 220183 | [220183-lets-minesweeper.json](./220183-lets-minesweeper.json) |
 | Let's not stay friends | 76484 | [76484-lets-not-stay-friends.json](./76484-lets-not-stay-friends.json) |
 | Let's Pachinko: Nante Gindama | 134465 | [134465-lets-pachinko-nante-gindama.json](./134465-lets-pachinko-nante-gindama.json) |
+| Let's Paint | 51031 | [51031-lets-paint.json](./51031-lets-paint.json) |
 | Let's Paint Toast | 352324 | [352324-lets-paint-toast.json](./352324-lets-paint-toast.json) |
 | Let's Park: Backyard Edition | 214185 | [214185-lets-park-backyard-edition.json](./214185-lets-park-backyard-edition.json) |
 | Let's Pilates | 123346 | [123346-lets-pilates.json](./123346-lets-pilates.json) |
