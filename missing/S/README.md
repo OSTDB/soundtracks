@@ -9776,6 +9776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky And Earth | 292051 | [292051-sky-and-earth.json](./292051-sky-and-earth.json) |
 | Sky Arena | 60556 | [60556-sky-arena.json](./60556-sky-arena.json) |
 | Sky Avenger | 245157 | [245157-sky-avenger.json](./245157-sky-avenger.json) |
+| Sky Ball | 80361 | [80361-sky-ball.json](./80361-sky-ball.json) |
 | Sky Ball | 81894 | [81894-sky-ball.json](./81894-sky-ball.json) |
 | Sky Ball Racing | 188387 | [188387-sky-ball-racing.json](./188387-sky-ball-racing.json) |
 | Sky Baron: War of Planes | 101531 | [101531-sky-baron-war-of-planes.json](./101531-sky-baron-war-of-planes.json) |
@@ -17299,6 +17300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit-Capture Net | 383359 | [383359-spirit-capture-net.json](./383359-spirit-capture-net.json) |
 | Spirit: Lucky's Big Adventure | 143055 | [143055-spirit-luckys-big-adventure.json](./143055-spirit-luckys-big-adventure.json) |
 | Spirit: Stallion of the Cimarron | 49257 | [49257-spirit-stallion-of-the-cimarron.json](./49257-spirit-stallion-of-the-cimarron.json) |
+| Spirit: Stallion of the Cimarron - Forever Free | 80314 | [80314-spirit-stallion-of-the-cimarron-forever-free.json](./80314-spirit-stallion-of-the-cimarron-forever-free.json) |
 | Spirit's Embrace | 54219 | [54219-spirits-embrace.json](./54219-spirits-embrace.json) |
 | Spiritbound: The Goddess's Quest | 415183 | [415183-spiritbound-the-goddesss-quest.json](./415183-spiritbound-the-goddesss-quest.json) |
 | Spirited Heart | 61536 | [61536-spirited-heart.json](./61536-spirited-heart.json) |
