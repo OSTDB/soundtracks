@@ -771,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Vortek | 40822 | [40822-ultra-vortek.json](./40822-ultra-vortek.json) |
 | Ultra Vortex | 78986 | [78986-ultra-vortex.json](./78986-ultra-vortex.json) |
 | Ultra X-Treme Hunting Simulator 2001 | 338595 | [338595-ultra-x-treme-hunting-simulator-2001.json](./338595-ultra-x-treme-hunting-simulator-2001.json) |
+| Ultra Yon-nin Mahjong | 77128 | [77128-ultra-yon-nin-mahjong.json](./77128-ultra-yon-nin-mahjong.json) |
 | Ultra Zultra | 175199 | [175199-ultra-zultra.json](./175199-ultra-zultra.json) |
 | Ultra-Gene Code | 115569 | [115569-ultra-gene-code.json](./115569-ultra-gene-code.json) |
 | Ultra-Quiz | 93145 | [93145-ultra-quiz.json](./93145-ultra-quiz.json) |
