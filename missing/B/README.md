@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakumatsu Revolution | 91627 | [91627-bakumatsu-revolution.json](./91627-bakumatsu-revolution.json) |
 | Bakumatsu Rock | 8661 | [8661-bakumatsu-rock.json](./8661-bakumatsu-rock.json) |
 | Bakumatsu Rock: Ultra Soul | 8662 | [8662-bakumatsu-rock-ultra-soul.json](./8662-bakumatsu-rock-ultra-soul.json) |
+| Bakumatsu Roman Tokubetsu-hen: Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana | 94604 | [94604-bakumatsu-roman-tokubetsu-hen-gekka-no-kenshi-tsuki-ni-saku-hana-chiri-yuku-hana.json](./94604-bakumatsu-roman-tokubetsu-hen-gekka-no-kenshi-tsuki-ni-saku-hana-chiri-yuku-hana.json) |
 | Bakumatsu Roman: Gekka no Kenshi 1+2 | 84253 | [84253-bakumatsu-roman-gekka-no-kenshi-1-2.json](./84253-bakumatsu-roman-gekka-no-kenshi-1-2.json) |
 | Bakumatsu-shishi no Renai Jijou | 163229 | [163229-bakumatsu-shishi-no-renai-jijou.json](./163229-bakumatsu-shishi-no-renai-jijou.json) |
 | Bakunyuu Reijou x Kimo-o Hentai Yome-ka Keikaku: Keppeki Cool Kaichou ga Saikasou no Kusa Kimo Seishi Chuudoku ni! | 280698 | [280698-bakunyuu-reijou-x-kimo-o-hentai-yome-ka-keikaku-keppeki-cool-kaichou-ga-saikasou-no-kusa-kimo-seishi-chuudoku-ni.json](./280698-bakunyuu-reijou-x-kimo-o-hentai-yome-ka-keikaku-keppeki-cool-kaichou-ga-saikasou-no-kusa-kimo-seishi-chuudoku-ni.json) |
@@ -4002,6 +4003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Survivor | 374792 | [374792-beast-survivor.json](./374792-beast-survivor.json) |
 | Beast Unleashed | 349460 | [349460-beast-unleashed.json](./349460-beast-unleashed.json) |
 | Beast vs. Legends | 244614 | [244614-beast-vs-legends.json](./244614-beast-vs-legends.json) |
+| Beast War | 94607 | [94607-beast-war.json](./94607-beast-war.json) |
 | Beast Wars: Transformers | 8018 | [8018-beast-wars-transformers.json](./8018-beast-wars-transformers.json) |
 | Beast Whalers | 192685 | [192685-beast-whalers.json](./192685-beast-whalers.json) |
 | Beast Wrestler | 46239 | [46239-beast-wrestler.json](./46239-beast-wrestler.json) |
@@ -5217,6 +5219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Fighter | 283991 | [283991-best-fighter.json](./283991-best-fighter.json) |
 | Best Friend | 133110 | [133110-best-friend.json](./133110-best-friend.json) |
 | Best Friends | 313956 | [313956-best-friends.json](./313956-best-friends.json) |
+| Best Friends | 94526 | [94526-best-friends.json](./94526-best-friends.json) |
 | Best Friends Forever | 183442 | [183442-best-friends-forever.json](./183442-best-friends-forever.json) |
 | Best Friends Forever | 227888 | [227888-best-friends-forever.json](./227888-best-friends-forever.json) |
 | Best Friends: Dogs & Cats | 49276 | [49276-best-friends-dogs-and-cats.json](./49276-best-friends-dogs-and-cats.json) |
@@ -8050,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlitzBombers | 92854 | [92854-blitzbombers.json](./92854-blitzbombers.json) |
 | BlitzBot | 292422 | [292422-blitzbot.json](./292422-blitzbot.json) |
 | Blitzcrank's Poro Roundup | 59871 | [59871-blitzcranks-poro-roundup.json](./59871-blitzcranks-poro-roundup.json) |
+| Blitzer | 94524 | [94524-blitzer.json](./94524-blitzer.json) |
 | BlitzKeep Unleashed | 110148 | [110148-blitzkeep-unleashed.json](./110148-blitzkeep-unleashed.json) |
 | Blitzkrieg | 122201 | [122201-blitzkrieg.json](./122201-blitzkrieg.json) |
 | Blitzkrieg 2 | 7288 | [7288-blitzkrieg-2.json](./7288-blitzkrieg-2.json) |
