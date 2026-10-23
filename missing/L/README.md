@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Dracula | 350027 | [350027-lady-dracula.json](./350027-lady-dracula.json) |
 | Lady Dracula's Mansion | 317978 | [317978-lady-draculas-mansion.json](./317978-lady-draculas-mansion.json) |
 | Lady Gaga Revenge 2 | 66039 | [66039-lady-gaga-revenge-2.json](./66039-lady-gaga-revenge-2.json) |
+| Lady Gaga: Born This Way Revenge | 65922 | [65922-lady-gaga-born-this-way-revenge.json](./65922-lady-gaga-born-this-way-revenge.json) |
 | Lady Godiva: Naked Eye | 310741 | [310741-lady-godiva-naked-eye.json](./310741-lady-godiva-naked-eye.json) |
 | Lady Hunt | 192660 | [192660-lady-hunt.json](./192660-lady-hunt.json) |
 | Lady in a Leotard With a Gun | 178308 | [178308-lady-in-a-leotard-with-a-gun.json](./178308-lady-in-a-leotard-with-a-gun.json) |
