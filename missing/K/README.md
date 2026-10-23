@@ -4436,6 +4436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kowloon High-School Chronicle | 122279 | [122279-kowloon-high-school-chronicle.json](./122279-kowloon-high-school-chronicle.json) |
 | Kowloon Labyrinth | 388310 | [388310-kowloon-labyrinth.json](./388310-kowloon-labyrinth.json) |
 | Kowloon Story 2 | 291741 | [291741-kowloon-story-2.json](./291741-kowloon-story-2.json) |
+| Kowloon Youma Gakuen Ki | 73579 | [73579-kowloon-youma-gakuen-ki.json](./73579-kowloon-youma-gakuen-ki.json) |
 | Kowloon Youma Gakuen Ki re:charge | 122278 | [122278-kowloon-youma-gakuen-ki-re-charge.json](./122278-kowloon-youma-gakuen-ki-re-charge.json) |
 | Kowloon Youma Gakuen Ki: Origin of Adventure - Yomigaeru Hihouban | 136880 | [136880-kowloon-youma-gakuen-ki-origin-of-adventure-yomigaeru-hihouban.json](./136880-kowloon-youma-gakuen-ki-origin-of-adventure-yomigaeru-hihouban.json) |
 | Kowloon's Curse | 178268 | [178268-kowloons-curse.json](./178268-kowloons-curse.json) |
