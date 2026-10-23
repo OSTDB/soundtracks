@@ -9189,6 +9189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freestyle Baseball 2 | 239890 | [239890-freestyle-baseball-2.json](./239890-freestyle-baseball-2.json) |
 | Freestyle BMX: featuring Brian Foster & Joey Garcia | 78318 | [78318-freestyle-bmx-featuring-brian-foster-and-joey-garcia.json](./78318-freestyle-bmx-featuring-brian-foster-and-joey-garcia.json) |
 | Freestyle Boardin' '99 | 23155 | [23155-freestyle-boardin-99.json](./23155-freestyle-boardin-99.json) |
+| Freestyle Dirt Bike | 89628 | [89628-freestyle-dirt-bike.json](./89628-freestyle-dirt-bike.json) |
 | FreeStyle Football | 30033 | [30033-freestyle-football.json](./30033-freestyle-football.json) |
 | Freestyle Football 2 | 362044 | [362044-freestyle-football-2.json](./362044-freestyle-football-2.json) |
 | Freestyle Football R | 213008 | [213008-freestyle-football-r.json](./213008-freestyle-football-r.json) |
@@ -10154,6 +10155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruits Jigsaw Puzzle | 88167 | [88167-fruits-jigsaw-puzzle.json](./88167-fruits-jigsaw-puzzle.json) |
 | Fruits of Fury | 260205 | [260205-fruits-of-fury.json](./260205-fruits-of-fury.json) |
 | Fruits of Fury | 413618 | [413618-fruits-of-fury.json](./413618-fruits-of-fury.json) |
+| Fruits Salad | 89787 | [89787-fruits-salad.json](./89787-fruits-salad.json) |
 | Fruits vs. Veggies | 392236 | [392236-fruits-vs-veggies.json](./392236-fruits-vs-veggies.json) |
 | Fruits-mura no Doubutsu-tachi | 49572 | [49572-fruits-mura-no-doubutsu-tachi.json](./49572-fruits-mura-no-doubutsu-tachi.json) |
 | Fruits' Harvest Sorter | 315809 | [315809-fruits-harvest-sorter.json](./315809-fruits-harvest-sorter.json) |
