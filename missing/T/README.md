@@ -1629,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Zero | 372050 | [372050-tank-zero.json](./372050-tank-zero.json) |
 | Tank Zombie Smasher | 156209 | [156209-tank-zombie-smasher.json](./156209-tank-zombie-smasher.json) |
 | Tank-O-Box | 78682 | [78682-tank-o-box.json](./78682-tank-o-box.json) |
+| Tank: The M1 Abrams Battle Tank Simulation | 69714 | [69714-tank-the-m1-abrams-battle-tank-simulation.json](./69714-tank-the-m1-abrams-battle-tank-simulation.json) |
 | Tank: The M1A1 Abrams Battle Tank Simulation | 90602 | [90602-tank-the-m1a1-abrams-battle-tank-simulation.json](./90602-tank-the-m1a1-abrams-battle-tank-simulation.json) |
 | Tank! Tank! Tank! | 5323 | [5323-tank-tank-tank.json](./5323-tank-tank-tank.json) |
 | Tank2 | 94581 | [94581-tank2.json](./94581-tank2.json) |
@@ -4410,6 +4411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of El Ballo | 146189 | [146189-the-adventures-of-el-ballo.json](./146189-the-adventures-of-el-ballo.json) |
 | The Adventures of Elliot: The Millennium Tales | 358534 | [358534-the-adventures-of-elliot-the-millennium-tales.json](./358534-the-adventures-of-elliot-the-millennium-tales.json) |
 | The Adventures of Elliot: The Millennium Tales - Digital Deluxe Edition | 395685 | [395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json](./395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json) |
+| The Adventures of Elmo in Grouchland | 69682 | [69682-the-adventures-of-elmo-in-grouchland.json](./69682-the-adventures-of-elmo-in-grouchland.json) |
 | The Adventures of Emilie in Paris | 380639 | [380639-the-adventures-of-emilie-in-paris.json](./380639-the-adventures-of-emilie-in-paris.json) |
 | The Adventures of Emoji 4: Fly High Mouse - Remastered | 297884 | [297884-the-adventures-of-emoji-4-fly-high-mouse-remastered.json](./297884-the-adventures-of-emoji-4-fly-high-mouse-remastered.json) |
 | The Adventures of Fatman | 34651 | [34651-the-adventures-of-fatman.json](./34651-the-adventures-of-fatman.json) |
@@ -5432,6 +5434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brittle Epoch | 261751 | [261751-the-brittle-epoch.json](./261751-the-brittle-epoch.json) |
 | The Broken Balance | 216753 | [216753-the-broken-balance.json](./216753-the-broken-balance.json) |
 | The Broken Clues 2 | 210212 | [210212-the-broken-clues-2.json](./210212-the-broken-clues-2.json) |
+| The Broken Land | 69668 | [69668-the-broken-land.json](./69668-the-broken-land.json) |
 | The Broken Moon | 263137 | [263137-the-broken-moon.json](./263137-the-broken-moon.json) |
 | The Broken Seal | 74493 | [74493-the-broken-seal.json](./74493-the-broken-seal.json) |
 | The Broken Seal: Arena | 86434 | [86434-the-broken-seal-arena.json](./86434-the-broken-seal-arena.json) |
@@ -7814,6 +7817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life: Path to Success | 207002 | [207002-the-game-of-life-path-to-success.json](./207002-the-game-of-life-path-to-success.json) |
 | The Game of Life: RPG Jinsei Game | 48819 | [48819-the-game-of-life-rpg-jinsei-game.json](./48819-the-game-of-life-rpg-jinsei-game.json) |
 | The Game of Life: SpongeBob SquarePants Edition | 207003 | [207003-the-game-of-life-spongebob-squarepants-edition.json](./207003-the-game-of-life-spongebob-squarepants-edition.json) |
+| The Game of Robot | 69716 | [69716-the-game-of-robot.json](./69716-the-game-of-robot.json) |
 | The Game of Squids: Ultimate Parody Game | 181000 | [181000-the-game-of-squids-ultimate-parody-game.json](./181000-the-game-of-squids-ultimate-parody-game.json) |
 | The Game of The Playful | 230930 | [230930-the-game-of-the-playful.json](./230930-the-game-of-the-playful.json) |
 | The Game of Unknown | 195127 | [195127-the-game-of-unknown.json](./195127-the-game-of-unknown.json) |
