@@ -1710,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harrier 7 | 94412 | [94412-harrier-7.json](./94412-harrier-7.json) |
 | Harrier Attack II | 79098 | [79098-harrier-attack-ii.json](./79098-harrier-attack-ii.json) |
 | Harrier Attack! | 13004 | [13004-harrier-attack.json](./13004-harrier-attack.json) |
+| Harrier Combat Simulator | 73116 | [73116-harrier-combat-simulator.json](./73116-harrier-combat-simulator.json) |
 | Harrier Strike Mission | 44080 | [44080-harrier-strike-mission.json](./44080-harrier-strike-mission.json) |
 | Harriet: From Slave to Hero | 195440 | [195440-harriet-from-slave-to-hero.json](./195440-harriet-from-slave-to-hero.json) |
 | Harrow | 265698 | [265698-harrow.json](./265698-harrow.json) |
@@ -9012,6 +9013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Official Card Games Collection | 34590 | [34590-hoyle-official-card-games-collection.json](./34590-hoyle-official-card-games-collection.json) |
 | Hoyle Official Casino Games Collection | 87061 | [87061-hoyle-official-casino-games-collection.json](./87061-hoyle-official-casino-games-collection.json) |
 | Hoyle Parlor Games | 89693 | [89693-hoyle-parlor-games.json](./89693-hoyle-parlor-games.json) |
+| Hoyle Poker | 73147 | [73147-hoyle-poker.json](./73147-hoyle-poker.json) |
 | Hoyle Poker Series | 210074 | [210074-hoyle-poker-series.json](./210074-hoyle-poker-series.json) |
 | Hoyle Puzzle & Board Game 2012 | 61015 | [61015-hoyle-puzzle-and-board-game-2012.json](./61015-hoyle-puzzle-and-board-game-2012.json) |
 | Hoyle Puzzle & Board Games | 25013 | [25013-hoyle-puzzle-and-board-games.json](./25013-hoyle-puzzle-and-board-games.json) |
