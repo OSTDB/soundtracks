@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Soldiers | 123560 | [123560-wacky-soldiers.json](./123560-wacky-soldiers.json) |
 | Wacky Spores: The Chase | 29676 | [29676-wacky-spores-the-chase.json](./29676-wacky-spores-the-chase.json) |
 | Wacky Squad | 418710 | [418710-wacky-squad.json](./418710-wacky-squad.json) |
+| Wacky Waiters | 92370 | [92370-wacky-waiters.json](./92370-wacky-waiters.json) |
 | Wacky Weapons | 244346 | [244346-wacky-weapons.json](./244346-wacky-weapons.json) |
 | Wacky West | 332992 | [332992-wacky-west.json](./332992-wacky-west.json) |
 | Wacky Wings VR | 30162 | [30162-wacky-wings-vr.json](./30162-wacky-wings-vr.json) |
@@ -3173,7 +3174,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -6103,6 +6103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordFall | 186666 | [186666-wordfall.json](./186666-wordfall.json) |
 | Wordfish | 178304 | [178304-wordfish.json](./178304-wordfish.json) |
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
+| WordFu | 92336 | [92336-wordfu.json](./92336-wordfu.json) |
 | WordGirl Word Hunt | 106944 | [106944-wordgirl-word-hunt.json](./106944-wordgirl-word-hunt.json) |
 | Wordgraphy | 233050 | [233050-wordgraphy.json](./233050-wordgraphy.json) |
 | WordHerd | 147269 | [147269-wordherd.json](./147269-wordherd.json) |
