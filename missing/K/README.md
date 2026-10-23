@@ -1830,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Station: Soreike! Anpanman | 302606 | [302606-kids-station-soreike-anpanman.json](./302606-kids-station-soreike-anpanman.json) |
 | Kids Tetris | 202059 | [202059-kids-tetris.json](./202059-kids-tetris.json) |
 | Kids Train Sim | 100614 | [100614-kids-train-sim.json](./100614-kids-train-sim.json) |
+| Kids Trucks: Alphabet Letter Identification Games | 89768 | [89768-kids-trucks-alphabet-letter-identification-games.json](./89768-kids-trucks-alphabet-letter-identification-games.json) |
 | Kids Trucks: Puzzles - Education Edition | 96183 | [96183-kids-trucks-puzzles-education-edition.json](./96183-kids-trucks-puzzles-education-edition.json) |
 | Kids Vehicles Fire Truck games | 107649 | [107649-kids-vehicles-fire-truck-games.json](./107649-kids-vehicles-fire-truck-games.json) |
 | Kids vs Zombies: Donuts Brawl | 188283 | [188283-kids-vs-zombies-donuts-brawl.json](./188283-kids-vs-zombies-donuts-brawl.json) |
@@ -2422,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Kung Fu | 285918 | [285918-king-of-kung-fu.json](./285918-king-of-kung-fu.json) |
 | King of Land Grabbers 3D | 212510 | [212510-king-of-land-grabbers-3d.json](./212510-king-of-land-grabbers-3d.json) |
 | King of Light | 237463 | [237463-king-of-light.json](./237463-king-of-light.json) |
+| King of Mazes | 87946 | [87946-king-of-mazes.json](./87946-king-of-mazes.json) |
 | King of Meat | 314255 | [314255-king-of-meat.json](./314255-king-of-meat.json) |
 | King of Mobius | 228597 | [228597-king-of-mobius.json](./228597-king-of-mobius.json) |
 | King of Opera | 89812 | [89812-king-of-opera.json](./89812-king-of-opera.json) |
@@ -3391,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klorbiest Catch | 410324 | [410324-klorbiest-catch.json](./410324-klorbiest-catch.json) |
 | Klotski Unblock | 90828 | [90828-klotski-unblock.json](./90828-klotski-unblock.json) |
 | Klotski+ | 221707 | [221707-klotski.json](./221707-klotski.json) |
+| Klotzen! Panzer Battles | 88066 | [88066-klotzen-panzer-battles.json](./88066-klotzen-panzer-battles.json) |
 | Kluber's Adventure | 408985 | [408985-klubers-adventure.json](./408985-klubers-adventure.json) |
 | Klung | 182533 | [182533-klung.json](./182533-klung.json) |
 | Kluno: A Kid's Dream | 26767 | [26767-kluno-a-kids-dream.json](./26767-kluno-a-kids-dream.json) |
