@@ -2433,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Chicken | 17891 | [17891-fat-chicken.json](./17891-fat-chicken.json) |
 | Fat City | 20964 | [20964-fat-city.json](./20964-fat-city.json) |
 | Fat Dot | 179145 | [179145-fat-dot.json](./179145-fat-dot.json) |
+| Fat Dragons | 88885 | [88885-fat-dragons.json](./88885-fat-dragons.json) |
 | Fat Dude Simulator | 117567 | [117567-fat-dude-simulator.json](./117567-fat-dude-simulator.json) |
 | Fat fat evil cat | 413153 | [413153-fat-fat-evil-cat.json](./413153-fat-fat-evil-cat.json) |
 | Fat Fleet | 396530 | [396530-fat-fleet.json](./396530-fat-fleet.json) |
@@ -6070,6 +6071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Golf Extreme | 58206 | [58206-flick-golf-extreme.json](./58206-flick-golf-extreme.json) |
 | Flick Home Run ! HD | 89537 | [89537-flick-home-run-hd.json](./89537-flick-home-run-hd.json) |
 | Flick Home Run! | 88782 | [88782-flick-home-run.json](./88782-flick-home-run.json) |
+| Flick Kick Football | 89008 | [89008-flick-kick-football.json](./89008-flick-kick-football.json) |
 | Flick Kick Football Legends | 305151 | [305151-flick-kick-football-legends.json](./305151-flick-kick-football-legends.json) |
 | Flick Nations Rugby | 58182 | [58182-flick-nations-rugby.json](./58182-flick-nations-rugby.json) |
 | Flick Pool | 58302 | [58302-flick-pool.json](./58302-flick-pool.json) |
@@ -9939,6 +9941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froooog | 315943 | [315943-froooog.json](./315943-froooog.json) |
 | Froot Basket Valentine | 179720 | [179720-froot-basket-valentine.json](./179720-froot-basket-valentine.json) |
 | Frooty Loops | 364695 | [364695-frooty-loops.json](./364695-frooty-loops.json) |
+| Frost | 88972 | [88972-frost.json](./88972-frost.json) |
 | Frost & Flame: King of Avalon | 271382 | [271382-frost-and-flame-king-of-avalon.json](./271382-frost-and-flame-king-of-avalon.json) |
 | Frost Bite | 317454 | [317454-frost-bite.json](./317454-frost-bite.json) |
 | Frost Byte | 12108 | [12108-frost-byte.json](./12108-frost-byte.json) |
