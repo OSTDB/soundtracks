@@ -4639,6 +4639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WingMan | 216484 | [216484-wingman.json](./216484-wingman.json) |
 | Wingman 2: Kitakura no Fukkatsu | 84335 | [84335-wingman-2-kitakura-no-fukkatsu.json](./84335-wingman-2-kitakura-no-fukkatsu.json) |
 | Wingmen | 349940 | [349940-wingmen.json](./349940-wingmen.json) |
+| WingMen | 81908 | [81908-wingmen.json](./81908-wingmen.json) |
 | Wingmine | 388339 | [388339-wingmine.json](./388339-wingmine.json) |
 | WingNuts: Temporal Navigator | 201073 | [201073-wingnuts-temporal-navigator.json](./201073-wingnuts-temporal-navigator.json) |
 | Wings | 264454 | [264454-wings.json](./264454-wings.json) |
