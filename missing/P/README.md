@@ -11540,6 +11540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess of the Tomb | 353862 | [353862-princess-of-the-tomb.json](./353862-princess-of-the-tomb.json) |
 | Princess of Worlds End | 391641 | [391641-princess-of-worlds-end.json](./391641-princess-of-worlds-end.json) |
 | Princess of Zeven | 116165 | [116165-princess-of-zeven.json](./116165-princess-of-zeven.json) |
+| Princess on Ice | 72476 | [72476-princess-on-ice.json](./72476-princess-on-ice.json) |
 | Princess Pairs - Games for Girls | 88108 | [88108-princess-pairs-games-for-girls.json](./88108-princess-pairs-games-for-girls.json) |
 | Princess Pajama | 316803 | [316803-princess-pajama.json](./316803-princess-pajama.json) |
 | Princess Paladin | 258034 | [258034-princess-paladin.json](./258034-princess-paladin.json) |
@@ -11893,6 +11894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Deer Hunting | 132159 | [132159-pro-deer-hunting.json](./132159-pro-deer-hunting.json) |
 | Pro Deer Hunting 2 | 157502 | [157502-pro-deer-hunting-2.json](./157502-pro-deer-hunting-2.json) |
 | Pro Deer Hunting: Out West | 194361 | [194361-pro-deer-hunting-out-west.json](./194361-pro-deer-hunting-out-west.json) |
+| Pro Drift Reloaded 2020 | 72500 | [72500-pro-drift-reloaded-2020.json](./72500-pro-drift-reloaded-2020.json) |
 | Pro Evolution Soccer | 240457 | [240457-pro-evolution-soccer.json](./240457-pro-evolution-soccer.json) |
 | Pro Evolution Soccer 2 | 220944 | [220944-pro-evolution-soccer-2.json](./220944-pro-evolution-soccer-2.json) |
 | Pro Evolution Soccer 2009 | 4648 | [4648-pro-evolution-soccer-2009.json](./4648-pro-evolution-soccer-2009.json) |
