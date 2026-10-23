@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-23T01:03:57.023Z",
-  "total_missing": 249007,
+  "generated_at": "2026-10-23T01:19:08.222Z",
+  "total_missing": 249057,
   "games": [
     {
       "igdb_id": 191680,
@@ -5890,6 +5890,11 @@
       "igdb_id": 219507,
       "game_name": "2 Pattern",
       "file": "missing/0-9/219507-2-pattern.json"
+    },
+    {
+      "igdb_id": 95803,
+      "game_name": "2 Pics to Word: 2 Pics 1 Word - Fun Word Guessing",
+      "file": "missing/0-9/95803-2-pics-to-word-2-pics-1-word-fun-word-guessing.json"
     },
     {
       "igdb_id": 51851,
@@ -145547,6 +145552,11 @@
       "file": "missing/B/234561-bricks-breaker-challenge.json"
     },
     {
+      "igdb_id": 95808,
+      "game_name": "Bricks Breaker Mission",
+      "file": "missing/B/95808-bricks-breaker-mission.json"
+    },
+    {
       "igdb_id": 220807,
       "game_name": "Bricks Breaker Puzzle Classic",
       "file": "missing/B/220807-bricks-breaker-puzzle-classic.json"
@@ -165505,6 +165515,11 @@
       "igdb_id": 83216,
       "game_name": "Car Simulator 2015",
       "file": "missing/C/83216-car-simulator-2015.json"
+    },
+    {
+      "igdb_id": 95814,
+      "game_name": "Car Simulator 2018",
+      "file": "missing/C/95814-car-simulator-2018.json"
     },
     {
       "igdb_id": 357026,
@@ -217032,6 +217047,11 @@
       "file": "missing/C/127025-counter-terrorism-minesweeper.json"
     },
     {
+      "igdb_id": 95798,
+      "game_name": "Counter Terrorist Shooting Critical Shoot Attack",
+      "file": "missing/C/95798-counter-terrorist-shooting-critical-shoot-attack.json"
+    },
+    {
       "igdb_id": 127746,
       "game_name": "Counter-Fall",
       "file": "missing/C/127746-counter-fall.json"
@@ -223570,6 +223590,11 @@
       "igdb_id": 186577,
       "game_name": "Creepy Balls",
       "file": "missing/C/186577-creepy-balls.json"
+    },
+    {
+      "igdb_id": 95799,
+      "game_name": "Creepy Bendy Mystery",
+      "file": "missing/C/95799-creepy-bendy-mystery.json"
     },
     {
       "igdb_id": 61516,
@@ -266197,6 +266222,11 @@
       "file": "missing/D/184923-desert-comets.json"
     },
     {
+      "igdb_id": 95888,
+      "game_name": "Desert Craft Exploration",
+      "file": "missing/D/95888-desert-craft-exploration.json"
+    },
+    {
       "igdb_id": 4518,
       "game_name": "Desert Demolition Starring Road Runner and Wile E. Coyote",
       "file": "missing/D/4518-desert-demolition-starring-road-runner-and-wile-e-coyote.json"
@@ -293752,6 +293782,11 @@
       "file": "missing/D/344927-dr-panda-restaurant-2.json"
     },
     {
+      "igdb_id": 95819,
+      "game_name": "Dr. Panda Restaurant 3",
+      "file": "missing/D/95819-dr-panda-restaurant-3.json"
+    },
+    {
       "igdb_id": 87345,
       "game_name": "Dr. Panda's Restaurant",
       "file": "missing/D/87345-dr-pandas-restaurant.json"
@@ -298915,6 +298950,11 @@
       "igdb_id": 348948,
       "game_name": "Draw & Guess Multiplayer",
       "file": "missing/D/348948-draw-and-guess-multiplayer.json"
+    },
+    {
+      "igdb_id": 95903,
+      "game_name": "Draw 1 Line - a puzzle game",
+      "file": "missing/D/95903-draw-1-line-a-puzzle-game.json"
     },
     {
       "igdb_id": 208980,
@@ -345487,6 +345527,11 @@
       "file": "missing/E/310196-extreme-car-parking.json"
     },
     {
+      "igdb_id": 95806,
+      "game_name": "Extreme Car Stunts Classic: Demolition Wreckfast",
+      "file": "missing/E/95806-extreme-car-stunts-classic-demolition-wreckfast.json"
+    },
+    {
       "igdb_id": 323703,
       "game_name": "Extreme City Delivery: Bike Ride Simulator",
       "file": "missing/E/323703-extreme-city-delivery-bike-ride-simulator.json"
@@ -386777,6 +386822,11 @@
       "file": "missing/F/27498-fort-zombie.json"
     },
     {
+      "igdb_id": 95886,
+      "game_name": "Fort:Night Last Battleground Royale Survival",
+      "file": "missing/F/95886-fort-night-last-battleground-royale-survival.json"
+    },
+    {
       "igdb_id": 101383,
       "game_name": "Forte Craft Explore Island",
       "file": "missing/F/101383-forte-craft-explore-island.json"
@@ -408335,6 +408385,11 @@
       "igdb_id": 323801,
       "game_name": "Gandhi III",
       "file": "missing/G/323801-gandhi-iii.json"
+    },
+    {
+      "igdb_id": 95892,
+      "game_name": "Gang Beasts Rick And Morty 2",
+      "file": "missing/G/95892-gang-beasts-rick-and-morty-2.json"
     },
     {
       "igdb_id": 283265,
@@ -433022,6 +433077,11 @@
       "file": "missing/G/98781-grand-vegas-mafia-crime-fight-to-survive.json"
     },
     {
+      "igdb_id": 95793,
+      "game_name": "Grand Vertical Ramp Car Racing: Mega Ramp Stunts",
+      "file": "missing/G/95793-grand-vertical-ramp-car-racing-mega-ramp-stunts.json"
+    },
+    {
       "igdb_id": 413141,
       "game_name": "Grand Voyage",
       "file": "missing/G/413141-grand-voyage.json"
@@ -453212,6 +453272,11 @@
       "file": "missing/H/91350-happy-racing-top-wheels-game.json"
     },
     {
+      "igdb_id": 95789,
+      "game_name": "Happy Rider 2",
+      "file": "missing/H/95789-happy-rider-2.json"
+    },
+    {
       "igdb_id": 194035,
       "game_name": "Happy Room: Robo",
       "file": "missing/H/194035-happy-room-robo.json"
@@ -457660,6 +457725,11 @@
       "igdb_id": 349382,
       "game_name": "Haut",
       "file": "missing/H/349382-haut.json"
+    },
+    {
+      "igdb_id": 95895,
+      "game_name": "Havana Piano Tiles",
+      "file": "missing/H/95895-havana-piano-tiles.json"
     },
     {
       "igdb_id": 122079,
@@ -486250,6 +486320,11 @@
       "igdb_id": 249213,
       "game_name": "Horror Amusement Park",
       "file": "missing/H/249213-horror-amusement-park.json"
+    },
+    {
+      "igdb_id": 95818,
+      "game_name": "Horror Bosses - Clicker",
+      "file": "missing/H/95818-horror-bosses-clicker.json"
     },
     {
       "igdb_id": 187751,
@@ -515707,6 +515782,11 @@
       "file": "missing/I/285857-instruction.json"
     },
     {
+      "igdb_id": 95906,
+      "game_name": "InstrumentChamp",
+      "file": "missing/I/95906-instrumentchamp.json"
+    },
+    {
       "igdb_id": 73006,
       "game_name": "Instruments of Chaos Starring Young Indiana Jones",
       "file": "missing/I/73006-instruments-of-chaos-starring-young-indiana-jones.json"
@@ -536672,6 +536752,11 @@
       "file": "missing/J/187368-jules.json"
     },
     {
+      "igdb_id": 95908,
+      "game_name": "Jules Verne's Journey to the center of the moon",
+      "file": "missing/J/95908-jules-vernes-journey-to-the-center-of-the-moon.json"
+    },
+    {
       "igdb_id": 89046,
       "game_name": "Jules Verne's Return to Mysterious Island - Director's Cut",
       "file": "missing/J/89046-jules-vernes-return-to-mysterious-island-directors-cut.json"
@@ -550122,6 +550207,11 @@
       "file": "missing/K/87109-kids-halloween-puzzles-and-logic-games.json"
     },
     {
+      "igdb_id": 95796,
+      "game_name": "Kids in the Kitchen - Cooking Recipes",
+      "file": "missing/K/95796-kids-in-the-kitchen-cooking-recipes.json"
+    },
+    {
       "igdb_id": 232383,
       "game_name": "Kids Jigsaw Puzzles: Fun Games for Girls & Boys",
       "file": "missing/K/232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json"
@@ -550465,6 +550555,11 @@
       "igdb_id": 102682,
       "game_name": "Kiki & Fifi Pet Beauty Salon",
       "file": "missing/K/102682-kiki-and-fifi-pet-beauty-salon.json"
+    },
+    {
+      "igdb_id": 95820,
+      "game_name": "Kiki & Fifi Pet Hotel",
+      "file": "missing/K/95820-kiki-and-fifi-pet-hotel.json"
     },
     {
       "igdb_id": 305563,
@@ -556012,6 +556107,11 @@
       "file": "missing/K/134452-kirby-no-omochabako-pinball.json"
     },
     {
+      "igdb_id": 95893,
+      "game_name": "Kirby Original Adventure Classic",
+      "file": "missing/K/95893-kirby-original-adventure-classic.json"
+    },
+    {
       "igdb_id": 84259,
       "game_name": "Kirby Puzzle",
       "file": "missing/K/84259-kirby-puzzle.json"
@@ -558175,6 +558275,11 @@
       "igdb_id": 235297,
       "game_name": "Knife Aim Hit: Throwing Games",
       "file": "missing/K/235297-knife-aim-hit-throwing-games.json"
+    },
+    {
+      "igdb_id": 95794,
+      "game_name": "Knife Battle - Hit the target",
+      "file": "missing/K/95794-knife-battle-hit-the-target.json"
     },
     {
       "igdb_id": 68607,
@@ -602927,6 +603032,11 @@
       "file": "missing/L/107711-lucky-stars-special-edition.json"
     },
     {
+      "igdb_id": 95899,
+      "game_name": "Lucky Sudoku",
+      "file": "missing/L/95899-lucky-sudoku.json"
+    },
+    {
       "igdb_id": 287532,
       "game_name": "Lucky Time",
       "file": "missing/L/287532-lucky-time.json"
@@ -611472,6 +611582,11 @@
       "file": "missing/M/132244-magic-twins.json"
     },
     {
+      "igdb_id": 95804,
+      "game_name": "Magic Twist: Music Tiles Game",
+      "file": "missing/M/95804-magic-twist-music-tiles-game.json"
+    },
+    {
       "igdb_id": 385356,
       "game_name": "Magic Unfolding",
       "file": "missing/M/385356-magic-unfolding.json"
@@ -613185,6 +613300,11 @@
       "igdb_id": 103897,
       "game_name": "Magnus Kingdom of Chess",
       "file": "missing/M/103897-magnus-kingdom-of-chess.json"
+    },
+    {
+      "igdb_id": 95800,
+      "game_name": "Magnus Trainer - Learn & Train Chess",
+      "file": "missing/M/95800-magnus-trainer-learn-and-train-chess.json"
     },
     {
       "igdb_id": 297726,
@@ -643272,6 +643392,11 @@
       "file": "missing/M/104465-mermaid-secrets14-prison-escape.json"
     },
     {
+      "igdb_id": 95890,
+      "game_name": "Mermaid Secrets9- Hidden Crimes in High School",
+      "file": "missing/M/95890-mermaid-secrets9-hidden-crimes-in-high-school.json"
+    },
+    {
       "igdb_id": 90733,
       "game_name": "Mermaid Spa & Makeover",
       "file": "missing/M/90733-mermaid-spa-and-makeover.json"
@@ -649955,6 +650080,11 @@
       "igdb_id": 10548,
       "game_name": "Midnight Mysteries 4: Haunted Houdini",
       "file": "missing/M/10548-midnight-mysteries-4-haunted-houdini.json"
+    },
+    {
+      "igdb_id": 95902,
+      "game_name": "Midnight Mysteries 4: Haunted Houdini - Collector's Edition",
+      "file": "missing/M/95902-midnight-mysteries-4-haunted-houdini-collectors-edition.json"
     },
     {
       "igdb_id": 89860,
@@ -659610,6 +659740,11 @@
       "igdb_id": 71157,
       "game_name": "Missile Attack",
       "file": "missing/M/71157-missile-attack.json"
+    },
+    {
+      "igdb_id": 95907,
+      "game_name": "Missile Barrage",
+      "file": "missing/M/95907-missile-barrage.json"
     },
     {
       "igdb_id": 13740,
@@ -680492,6 +680627,11 @@
       "file": "missing/M/318218-mullet-madjack-deluxe-edition.json"
     },
     {
+      "igdb_id": 95795,
+      "game_name": "Multi Cheetah Speed hero Vs Wild Animals",
+      "file": "missing/M/95795-multi-cheetah-speed-hero-vs-wild-animals.json"
+    },
+    {
       "igdb_id": 346617,
       "game_name": "Multi Deck Hero",
       "file": "missing/M/346617-multi-deck-hero.json"
@@ -684507,6 +684647,11 @@
       "file": "missing/M/176205-my-beloved-faction.json"
     },
     {
+      "igdb_id": 95790,
+      "game_name": "My Best Friend Anna",
+      "file": "missing/M/95790-my-best-friend-anna.json"
+    },
+    {
       "igdb_id": 245887,
       "game_name": "My Best Friend Kouta",
       "file": "missing/M/245887-my-best-friend-kouta.json"
@@ -684580,6 +684725,11 @@
       "igdb_id": 121192,
       "game_name": "My Bones Remastered",
       "file": "missing/M/121192-my-bones-remastered.json"
+    },
+    {
+      "igdb_id": 95809,
+      "game_name": "My Boris Neighbor",
+      "file": "missing/M/95809-my-boris-neighbor.json"
     },
     {
       "igdb_id": 341346,
@@ -688052,6 +688202,11 @@
       "file": "missing/M/320766-my-pirate-husbandos.json"
     },
     {
+      "igdb_id": 95904,
+      "game_name": "My Pizza Shop - Pizza Maker Game",
+      "file": "missing/M/95904-my-pizza-shop-pizza-maker-game.json"
+    },
+    {
       "igdb_id": 248101,
       "game_name": "My Pizza Story",
       "file": "missing/M/248101-my-pizza-story.json"
@@ -688130,6 +688285,11 @@
       "igdb_id": 299222,
       "game_name": "My Pretend Halloween Town",
       "file": "missing/M/299222-my-pretend-halloween-town.json"
+    },
+    {
+      "igdb_id": 95802,
+      "game_name": "My Pretend Mall",
+      "file": "missing/M/95802-my-pretend-mall.json"
     },
     {
       "igdb_id": 102667,
@@ -700635,6 +700795,11 @@
       "igdb_id": 167172,
       "game_name": "Neighbor Diana",
       "file": "missing/N/167172-neighbor-diana.json"
+    },
+    {
+      "igdb_id": 95805,
+      "game_name": "Neighbor from Nightmare",
+      "file": "missing/N/95805-neighbor-from-nightmare.json"
     },
     {
       "igdb_id": 309668,
@@ -754632,6 +754797,11 @@
       "file": "missing/P/205098-parachute-22.json"
     },
     {
+      "igdb_id": 95900,
+      "game_name": "Parachute Frog",
+      "file": "missing/P/95900-parachute-frog.json"
+    },
+    {
       "igdb_id": 232671,
       "game_name": "Parachute Ninja",
       "file": "missing/P/232671-parachute-ninja.json"
@@ -793992,6 +794162,11 @@
       "file": "missing/P/195756-police-stories-zombie-case.json"
     },
     {
+      "igdb_id": 95788,
+      "game_name": "Police Story",
+      "file": "missing/P/95788-police-story.json"
+    },
+    {
       "igdb_id": 57657,
       "game_name": "Police Tactical Training",
       "file": "missing/P/57657-police-tactical-training.json"
@@ -802860,6 +803035,11 @@
       "igdb_id": 216949,
       "game_name": "Pretty Kitty Fuzzy",
       "file": "missing/P/216949-pretty-kitty-fuzzy.json"
+    },
+    {
+      "igdb_id": 95815,
+      "game_name": "Pretty Liars: Secret Forbidden Love Story Games",
+      "file": "missing/P/95815-pretty-liars-secret-forbidden-love-story-games.json"
     },
     {
       "igdb_id": 159243,
@@ -819290,6 +819470,11 @@
       "igdb_id": 85583,
       "game_name": "Puzzle Monkeys",
       "file": "missing/P/85583-puzzle-monkeys.json"
+    },
+    {
+      "igdb_id": 95821,
+      "game_name": "Puzzle My Mind",
+      "file": "missing/P/95821-puzzle-my-mind.json"
     },
     {
       "igdb_id": 93374,
@@ -841302,6 +841487,11 @@
       "file": "missing/R/380998-red-bow-strange-dream.json"
     },
     {
+      "igdb_id": 95894,
+      "game_name": "Red boy and Blue girl - Forest Temple Maze 2",
+      "file": "missing/R/95894-red-boy-and-blue-girl-forest-temple-maze-2.json"
+    },
+    {
       "igdb_id": 163401,
       "game_name": "Red Brick Hotel",
       "file": "missing/R/163401-red-brick-hotel.json"
@@ -861597,6 +861787,11 @@
       "file": "missing/R/143455-robokill-2-leviathan-five.json"
     },
     {
+      "igdb_id": 95901,
+      "game_name": "Robokill: Titan Prime",
+      "file": "missing/R/95901-robokill-titan-prime.json"
+    },
+    {
       "igdb_id": 137571,
       "game_name": "RoboKong",
       "file": "missing/R/137571-robokong.json"
@@ -862235,6 +862430,11 @@
       "igdb_id": 120704,
       "game_name": "Robot terminator",
       "file": "missing/R/120704-robot-terminator.json"
+    },
+    {
+      "igdb_id": 95797,
+      "game_name": "Robot Transforming Gorilla Attack: Gorilla Games",
+      "file": "missing/R/95797-robot-transforming-gorilla-attack-gorilla-games.json"
     },
     {
       "igdb_id": 301588,
@@ -871945,6 +872145,11 @@
       "igdb_id": 193668,
       "game_name": "Royal Frontier",
       "file": "missing/R/193668-royal-frontier.json"
+    },
+    {
+      "igdb_id": 95801,
+      "game_name": "Royal Garden Tales",
+      "file": "missing/R/95801-royal-garden-tales.json"
     },
     {
       "igdb_id": 95878,
@@ -895740,6 +895945,11 @@
       "igdb_id": 352209,
       "game_name": "Secret HavEat",
       "file": "missing/S/352209-secret-haveat.json"
+    },
+    {
+      "igdb_id": 95807,
+      "game_name": "Secret High School 8: 100 Years Love Story Diaries",
+      "file": "missing/S/95807-secret-high-school-8-100-years-love-story-diaries.json"
     },
     {
       "igdb_id": 133224,
@@ -927660,6 +927870,11 @@
       "igdb_id": 301347,
       "game_name": "Skyblock Chaos",
       "file": "missing/S/301347-skyblock-chaos.json"
+    },
+    {
+      "igdb_id": 95791,
+      "game_name": "Skyblock Hunter Survival Games",
+      "file": "missing/S/95791-skyblock-hunter-survival-games.json"
     },
     {
       "igdb_id": 380725,
@@ -959762,6 +959977,11 @@
       "file": "missing/S/4162-speed-challenge-jacques-villeneuves-racing-vision.json"
     },
     {
+      "igdb_id": 95812,
+      "game_name": "Speed Chasing",
+      "file": "missing/S/95812-speed-chasing.json"
+    },
+    {
       "igdb_id": 329014,
       "game_name": "Speed Climb",
       "file": "missing/S/329014-speed-climb.json"
@@ -986740,6 +986960,11 @@
       "igdb_id": 21641,
       "game_name": "Stray Cat Crossing",
       "file": "missing/S/21641-stray-cat-crossing.json"
+    },
+    {
+      "igdb_id": 95811,
+      "game_name": "Stray Cat Doors",
+      "file": "missing/S/95811-stray-cat-doors.json"
     },
     {
       "igdb_id": 312994,
@@ -1099292,6 +1099517,11 @@
       "file": "missing/T/188086-tho-simulator.json"
     },
     {
+      "igdb_id": 95887,
+      "game_name": "Thomas & Friends Minis",
+      "file": "missing/T/95887-thomas-and-friends-minis.json"
+    },
+    {
       "igdb_id": 2590,
       "game_name": "Thomas & Friends: A Day at the Races",
       "file": "missing/T/2590-thomas-and-friends-a-day-at-the-races.json"
@@ -1156057,6 +1156287,11 @@
       "file": "missing/U/282804-ultra-genjin.json"
     },
     {
+      "igdb_id": 95813,
+      "game_name": "Ultra Goku Super Battle",
+      "file": "missing/U/95813-ultra-goku-super-battle.json"
+    },
+    {
       "igdb_id": 49057,
       "game_name": "Ultra Golf",
       "file": "missing/U/49057-ultra-golf.json"
@@ -1177740,6 +1177975,11 @@
       "igdb_id": 404840,
       "game_name": "Virtual Driving School",
       "file": "missing/V/404840-virtual-driving-school.json"
+    },
+    {
+      "igdb_id": 95810,
+      "game_name": "Virtual Droid",
+      "file": "missing/V/95810-virtual-droid.json"
     },
     {
       "igdb_id": 382521,
@@ -1211582,6 +1211822,11 @@
       "file": "missing/W/414138-wolf-commando.json"
     },
     {
+      "igdb_id": 95891,
+      "game_name": "Wolf Evolution: Merge and Create Mutant Wild Dogs",
+      "file": "missing/W/95891-wolf-evolution-merge-and-create-mutant-wild-dogs.json"
+    },
+    {
       "igdb_id": 76507,
       "game_name": "Wolf Gang",
       "file": "missing/W/76507-wolf-gang.json"
@@ -1241970,6 +1242215,11 @@
       "igdb_id": 16018,
       "game_name": "Zombie Shooter 2",
       "file": "missing/Z/16018-zombie-shooter-2.json"
+    },
+    {
+      "igdb_id": 95884,
+      "game_name": "Zombie Shooter: Fury of War",
+      "file": "missing/Z/95884-zombie-shooter-fury-of-war.json"
     },
     {
       "igdb_id": 174667,
