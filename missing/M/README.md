@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MahjongSchool | 158226 | [158226-mahjongschool.json](./158226-mahjongschool.json) |
 | Mahjongus: Mystery of Fortescue | 316192 | [316192-mahjongus-mystery-of-fortescue.json](./316192-mahjongus-mystery-of-fortescue.json) |
 | Mahluk: Dark demon | 31988 | [31988-mahluk-dark-demon.json](./31988-mahluk-dark-demon.json) |
+| Maho Shojo Ai | 97724 | [97724-maho-shojo-ai.json](./97724-maho-shojo-ai.json) |
 | Maho Shojo Pretty Sammy: Heart no Kimochi | 61330 | [61330-maho-shojo-pretty-sammy-heart-no-kimochi.json](./61330-maho-shojo-pretty-sammy-heart-no-kimochi.json) |
 | Mahogen | 328053 | [328053-mahogen.json](./328053-mahogen.json) |
 | Mahokenshi - The Samurai Deckbuilder | 172688 | [172688-mahokenshi-the-samurai-deckbuilder.json](./172688-mahokenshi-the-samurai-deckbuilder.json) |
@@ -3399,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marriage to the Demon Wife! | 202197 | [202197-marriage-to-the-demon-wife.json](./202197-marriage-to-the-demon-wife.json) |
 | Married Girls' Night School | 249750 | [249750-married-girls-night-school.json](./249750-married-girls-night-school.json) |
 | Married in Red | 307253 | [307253-married-in-red.json](./307253-married-in-red.json) |
+| Married Teacher, Big-Boob Lesson | 97737 | [97737-married-teacher-big-boob-lesson.json](./97737-married-teacher-big-boob-lesson.json) |
 | Married Woman Eilla's NTR RPG: Two Man Cell Journey with Obeying a Douchey Guy | 82852 | [82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json](./82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json) |
 | Marron Helps a Friend | 122947 | [122947-marron-helps-a-friend.json](./122947-marron-helps-a-friend.json) |
 | Marron's Day | 272750 | [272750-marrons-day.json](./272750-marrons-day.json) |
@@ -15670,6 +15672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Best Life My Pest Life | 393118 | [393118-my-best-life-my-pest-life.json](./393118-my-best-life-my-pest-life.json) |
 | My Best Nightmare | 166673 | [166673-my-best-nightmare.json](./166673-my-best-nightmare.json) |
 | My Bewitching Perfume | 135637 | [135637-my-bewitching-perfume.json](./135637-my-bewitching-perfume.json) |
+| My Big Breasts Woman Teacher | 97730 | [97730-my-big-breasts-woman-teacher.json](./97730-my-big-breasts-woman-teacher.json) |
 | My Big Sister: Remastered | 222871 | [222871-my-big-sister-remastered.json](./222871-my-big-sister-remastered.json) |
 | My Billionaire Girlfriend | 220335 | [220335-my-billionaire-girlfriend.json](./220335-my-billionaire-girlfriend.json) |
 | My Bimbo Dream: Season 1 | 368058 | [368058-my-bimbo-dream-season-1.json](./368058-my-bimbo-dream-season-1.json) |
