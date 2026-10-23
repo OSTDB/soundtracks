@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nandome ka no Hajimemashite | 354767 | [354767-nandome-ka-no-hajimemashite.json](./354767-nandome-ka-no-hajimemashite.json) |
 | Nandome ka no Shiki | 393972 | [393972-nandome-ka-no-shiki.json](./393972-nandome-ka-no-shiki.json) |
 | Nangoku Shounen Papuwa-kun | 38389 | [38389-nangoku-shounen-papuwa-kun.json](./38389-nangoku-shounen-papuwa-kun.json) |
+| Nangoku Shounen Papuwa-Kun: Ganmadan no Yabou | 49122 | [49122-nangoku-shounen-papuwa-kun-ganmadan-no-yabou.json](./49122-nangoku-shounen-papuwa-kun-ganmadan-no-yabou.json) |
 | Nangol | 310064 | [310064-nangol.json](./310064-nangol.json) |
 | Nangong Detective Agency | 360153 | [360153-nangong-detective-agency.json](./360153-nangong-detective-agency.json) |
 | Nani ni Mieru? Shindan | 267231 | [267231-nani-ni-mieru-shindan.json](./267231-nani-ni-mieru-shindan.json) |
