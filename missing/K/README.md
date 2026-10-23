@@ -1374,6 +1374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenas-unarpe | 299130 | [299130-kenas-unarpe.json](./299130-kenas-unarpe.json) |
 | Kenchana: Oath of a Magical Spear | 238756 | [238756-kenchana-oath-of-a-magical-spear.json](./238756-kenchana-oath-of-a-magical-spear.json) |
 | Kendall and Kylie | 133708 | [133708-kendall-and-kylie.json](./133708-kendall-and-kylie.json) |
+| KendamVR: Virtual Reality Kendama | 63721 | [63721-kendamvr-virtual-reality-kendama.json](./63721-kendamvr-virtual-reality-kendama.json) |
 | Kendo | 123926 | [123926-kendo.json](./123926-kendo.json) |
 | Kendo Rage | 15845 | [15845-kendo-rage.json](./15845-kendo-rage.json) |
 | Kendo Warrior | 286224 | [286224-kendo-warrior.json](./286224-kendo-warrior.json) |
@@ -1390,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenka Bancho | 91387 | [91387-kenka-bancho.json](./91387-kenka-bancho.json) |
 | Kenka Bancho 2: Full Throttle | 66512 | [66512-kenka-bancho-2-full-throttle.json](./66512-kenka-bancho-2-full-throttle.json) |
 | Kenka Bancho 4: Ichinen Sensou | 81473 | [81473-kenka-bancho-4-ichinen-sensou.json](./81473-kenka-bancho-4-ichinen-sensou.json) |
+| Kenka Bancho 5: Otoko no Hosoku | 63625 | [63625-kenka-bancho-5-otoko-no-hosoku.json](./63625-kenka-bancho-5-otoko-no-hosoku.json) |
 | Kenka Bancho Bros.: Tokyo Battle Royale | 64878 | [64878-kenka-bancho-bros-tokyo-battle-royale.json](./64878-kenka-bancho-bros-tokyo-battle-royale.json) |
 | Kenka Bancho: Zenkoku Seiha | 61498 | [61498-kenka-bancho-zenkoku-seiha.json](./61498-kenka-bancho-zenkoku-seiha.json) |
 | Kenka Banchou Otome 2nd Rumble!! | 109571 | [109571-kenka-banchou-otome-2nd-rumble.json](./109571-kenka-banchou-otome-2nd-rumble.json) |
@@ -2205,6 +2207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
