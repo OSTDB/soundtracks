@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DanMachi: Memoria Freese | 47158 | [47158-danmachi-memoria-freese.json](./47158-danmachi-memoria-freese.json) |
 | Danmakai: Red Forbidden Fruit | 140040 | [140040-danmakai-red-forbidden-fruit.json](./140040-danmakai-red-forbidden-fruit.json) |
 | Danmaku Amanojaku: Gold Rush | 207156 | [207156-danmaku-amanojaku-gold-rush.json](./207156-danmaku-amanojaku-gold-rush.json) |
+| Danmaku Amanojaku: Impossible Spell Card | 47026 | [47026-danmaku-amanojaku-impossible-spell-card.json](./47026-danmaku-amanojaku-impossible-spell-card.json) |
 | Danmaku Juuenka: Danmaku Card Battle | 215365 | [215365-danmaku-juuenka-danmaku-card-battle.json](./215365-danmaku-juuenka-danmaku-card-battle.json) |
 | Danmaku Kentei Shiken: DaiOuJou-hen | 296056 | [296056-danmaku-kentei-shiken-daioujou-hen.json](./296056-danmaku-kentei-shiken-daioujou-hen.json) |
 | Danmaku Kentei Shiken: Ketsui-hen | 297535 | [297535-danmaku-kentei-shiken-ketsui-hen.json](./297535-danmaku-kentei-shiken-ketsui-hen.json) |
@@ -2230,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the Universe | 395171 | [395171-dawn-of-the-universe.json](./395171-dawn-of-the-universe.json) |
 | Dawn of the Wizards | 266275 | [266275-dawn-of-the-wizards.json](./266275-dawn-of-the-wizards.json) |
 | Dawn of Titans | 26980 | [26980-dawn-of-titans.json](./26980-dawn-of-titans.json) |
+| Dawn of War: Anthology | 47020 | [47020-dawn-of-war-anthology.json](./47020-dawn-of-war-anthology.json) |
 | Dawn of Warriors | 30956 | [30956-dawn-of-warriors.json](./30956-dawn-of-warriors.json) |
 | Dawn of Yokai | 236299 | [236299-dawn-of-yokai.json](./236299-dawn-of-yokai.json) |
 | Dawn of Zombies: Survival | 124755 | [124755-dawn-of-zombies-survival.json](./124755-dawn-of-zombies-survival.json) |
@@ -12107,6 +12109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Dungeon | 321486 | [321486-dragons-dungeon.json](./321486-dragons-dungeon.json) |
 | Dragon's Dungeon | 322426 | [322426-dragons-dungeon.json](./322426-dragons-dungeon.json) |
 | Dragon's Eye | 170218 | [170218-dragons-eye.json](./170218-dragons-eye.json) |
+| Dragon's Eye Plus: Shanghai III | 47060 | [47060-dragons-eye-plus-shanghai-iii.json](./47060-dragons-eye-plus-shanghai-iii.json) |
 | Dragon's Fury | 45586 | [45586-dragons-fury.json](./45586-dragons-fury.json) |
 | Dragon's Gold | 13609 | [13609-dragons-gold.json](./13609-dragons-gold.json) |
 | Dragon's Heaven | 216403 | [216403-dragons-heaven.json](./216403-dragons-heaven.json) |
