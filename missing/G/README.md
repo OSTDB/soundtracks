@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambit Shifter: Surrealm | 322718 | [322718-gambit-shifter-surrealm.json](./322718-gambit-shifter-surrealm.json) |
 | Gambit! | 193173 | [193173-gambit.json](./193173-gambit.json) |
 | Gamble Fight Plus | 116783 | [116783-gamble-fight-plus.json](./116783-gamble-fight-plus.json) |
+| Gamble Hourouki | 56928 | [56928-gamble-hourouki.json](./56928-gamble-hourouki.json) |
 | Gamble Lair | 348755 | [348755-gamble-lair.json](./348755-gamble-lair.json) |
 | Gamble Life | 416631 | [416631-gamble-life.json](./416631-gamble-life.json) |
 | Gamble Scramble | 107555 | [107555-gamble-scramble.json](./107555-gamble-scramble.json) |
@@ -8700,6 +8701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunNail | 39837 | [39837-gunnail.json](./39837-gunnail.json) |
 | Gunnel Vision | 305993 | [305993-gunnel-vision.json](./305993-gunnel-vision.json) |
 | Gunner | 197555 | [197555-gunner.json](./197555-gunner.json) |
+| Gunner | 56942 | [56942-gunner.json](./56942-gunner.json) |
 | Gunner 2 | 54073 | [54073-gunner-2.json](./54073-gunner-2.json) |
 | Gunner 3 | 259821 | [259821-gunner-3.json](./259821-gunner-3.json) |
 | Gunner 3 | 87808 | [87808-gunner-3.json](./87808-gunner-3.json) |
