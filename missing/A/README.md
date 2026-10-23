@@ -3706,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agents of the Outcaste | 164214 | [164214-agents-of-the-outcaste.json](./164214-agents-of-the-outcaste.json) |
 | Agents: Biohunters | 120225 | [120225-agents-biohunters.json](./120225-agents-biohunters.json) |
 | Ageod's American Civil War: The Blue and the Gray | 21451 | [21451-ageods-american-civil-war-the-blue-and-the-gray.json](./21451-ageods-american-civil-war-the-blue-and-the-gray.json) |
+| AgeOfDarkness | 81072 | [81072-ageofdarkness.json](./81072-ageofdarkness.json) |
 | Agerasia | 377756 | [377756-agerasia.json](./377756-agerasia.json) |
 | Ages of Conflict: World War Simulator | 223829 | [223829-ages-of-conflict-world-war-simulator.json](./223829-ages-of-conflict-world-war-simulator.json) |
 | Ages of Mages: The Last Keeper | 98755 | [98755-ages-of-mages-the-last-keeper.json](./98755-ages-of-mages-the-last-keeper.json) |
