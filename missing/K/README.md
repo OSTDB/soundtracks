@@ -1779,6 +1779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids | 95167 | [95167-kids.json](./95167-kids.json) |
 | Kids ABC and Counting Jigsaw Puzzles Pre school | 87151 | [87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json](./87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json) |
 | Kids ABC Games: Toddler Boys & Girls Learning | 88798 | [88798-kids-abc-games-toddler-boys-and-girls-learning.json](./88798-kids-abc-games-toddler-boys-and-girls-learning.json) |
+| Kids ABC Letter Trains | 90438 | [90438-kids-abc-letter-trains.json](./90438-kids-abc-letter-trains.json) |
 | Kids ABC Order | 175314 | [175314-kids-abc-order.json](./175314-kids-abc-order.json) |
 | Kids Activity Centre Pro | 86708 | [86708-kids-activity-centre-pro.json](./86708-kids-activity-centre-pro.json) |
 | Kids Alphabet Games | 93819 | [93819-kids-alphabet-games.json](./93819-kids-alphabet-games.json) |
