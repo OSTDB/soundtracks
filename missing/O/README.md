@@ -586,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odyssey of the Explorer | 302108 | [302108-odyssey-of-the-explorer.json](./302108-odyssey-of-the-explorer.json) |
 | Odyssey Reborn | 286430 | [286430-odyssey-reborn.json](./286430-odyssey-reborn.json) |
 | Odyssey RPG | 62634 | [62634-odyssey-rpg.json](./62634-odyssey-rpg.json) |
+| Odyssey VR | 75617 | [75617-odyssey-vr.json](./75617-odyssey-vr.json) |
 | Odyssey: Altar of Norax | 191159 | [191159-odyssey-altar-of-norax.json](./191159-odyssey-altar-of-norax.json) |
 | Odyssey: Realm of Echoes | 341499 | [341499-odyssey-realm-of-echoes.json](./341499-odyssey-realm-of-echoes.json) |
 | Odyssey: Starship Pinball | 379148 | [379148-odyssey-starship-pinball.json](./379148-odyssey-starship-pinball.json) |
@@ -2630,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Solomon's Key | 184409 | [184409-open-solomons-key.json](./184409-open-solomons-key.json) |
 | Open Sonic the Hedgehog | 266710 | [266710-open-sonic-the-hedgehog.json](./266710-open-sonic-the-hedgehog.json) |
 | Open Sorcery | 27444 | [27444-open-sorcery.json](./27444-open-sorcery.json) |
+| Open Sorcery: Sea++ | 75619 | [75619-open-sorcery-sea.json](./75619-open-sorcery-sea.json) |
 | Open Source Objects: The Game | 361751 | [361751-open-source-objects-the-game.json](./361751-open-source-objects-the-game.json) |
 | Open Space Collection | 196306 | [196306-open-space-collection.json](./196306-open-space-collection.json) |
 | Open Spaces SE | 245763 | [245763-open-spaces-se.json](./245763-open-spaces-se.json) |
@@ -2814,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Outbreak Idle | 405539 | [405539-operation-outbreak-idle.json](./405539-operation-outbreak-idle.json) |
 | Operation: Overkill II | 73711 | [73711-operation-overkill-ii.json](./73711-operation-overkill-ii.json) |
 | Operation: Overkill II | 73713 | [73713-operation-overkill-ii.json](./73713-operation-overkill-ii.json) |
+| Operation: Polarity Hook | 75592 | [75592-operation-polarity-hook.json](./75592-operation-polarity-hook.json) |
 | Operation: Polygon Storm | 239775 | [239775-operation-polygon-storm.json](./239775-operation-polygon-storm.json) |
 | Operation: Strike & Secure | 341515 | [341515-operation-strike-and-secure.json](./341515-operation-strike-and-secure.json) |
 | Operation: Surface Takeover | 344365 | [344365-operation-surface-takeover.json](./344365-operation-surface-takeover.json) |
@@ -3071,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbiz | 30115 | [30115-orbiz.json](./30115-orbiz.json) |
 | Orblike Madness | 258637 | [258637-orblike-madness.json](./258637-orblike-madness.json) |
 | Orblins | 399439 | [399439-orblins.json](./399439-orblins.json) |
+| Orblitz | 75630 | [75630-orblitz.json](./75630-orblitz.json) |
 | Orbloom | 366741 | [366741-orbloom.json](./366741-orbloom.json) |
 | Orbo | 292822 | [292822-orbo.json](./292822-orbo.json) |
 | Orbo's Exodus | 314907 | [314907-orbos-exodus.json](./314907-orbos-exodus.json) |
