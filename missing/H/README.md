@@ -1235,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Birthday, Adolf! | 132593 | [132593-happy-birthday-adolf.json](./132593-happy-birthday-adolf.json) |
 | Happy Birthday, Bernard | 30615 | [30615-happy-birthday-bernard.json](./30615-happy-birthday-bernard.json) |
 | Happy Birthday, Csonicgo! | 262558 | [262558-happy-birthday-csonicgo.json](./262558-happy-birthday-csonicgo.json) |
+| Happy Birthday, Maisy! | 71365 | [71365-happy-birthday-maisy.json](./71365-happy-birthday-maisy.json) |
 | Happy Birthday: The Horror of Christmas | 295111 | [295111-happy-birthday-the-horror-of-christmas.json](./295111-happy-birthday-the-horror-of-christmas.json) |
 | Happy Birthday: With Sergio Spellbound | 319682 | [319682-happy-birthday-with-sergio-spellbound.json](./319682-happy-birthday-with-sergio-spellbound.json) |
 | Happy Birthdays | 86771 | [86771-happy-birthdays.json](./86771-happy-birthdays.json) |
@@ -3345,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellcard | 127193 | [127193-hellcard.json](./127193-hellcard.json) |
 | Hellcard II | 388355 | [388355-hellcard-ii.json](./388355-hellcard-ii.json) |
 | Hellcat Ace | 25042 | [25042-hellcat-ace.json](./25042-hellcat-ace.json) |
+| Hellcats Over the Pacific | 71323 | [71323-hellcats-over-the-pacific.json](./71323-hellcats-over-the-pacific.json) |
 | Hellcats: Missions at Leyte Gulf | 337196 | [337196-hellcats-missions-at-leyte-gulf.json](./337196-hellcats-missions-at-leyte-gulf.json) |
 | Hellcome | 241288 | [241288-hellcome.json](./241288-hellcome.json) |
 | Hellcoming | 185336 | [185336-hellcoming.json](./185336-hellcoming.json) |
