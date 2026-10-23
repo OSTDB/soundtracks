@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Time Simulator (Sans Fight) | 298723 | [298723-bad-time-simulator-sans-fight.json](./298723-bad-time-simulator-sans-fight.json) |
 | Bad Time Trio | 321532 | [321532-bad-time-trio.json](./321532-bad-time-trio.json) |
 | Bad Times at the Silver Lake | 246926 | [246926-bad-times-at-the-silver-lake.json](./246926-bad-times-at-the-silver-lake.json) |
+| Bad Toys | 71936 | [71936-bad-toys.json](./71936-bad-toys.json) |
 | Bad Trip | 379998 | [379998-bad-trip.json](./379998-bad-trip.json) |
 | Bad Vaxx | 361788 | [361788-bad-vaxx.json](./361788-bad-vaxx.json) |
 | Bad Vibes | 171378 | [171378-bad-vibes.json](./171378-bad-vibes.json) |
@@ -3259,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Zeque Den | 38215 | [38215-battle-zeque-den.json](./38215-battle-zeque-den.json) |
 | Battle Zombie Shooter: Survival of the Dead | 100565 | [100565-battle-zombie-shooter-survival-of-the-dead.json](./100565-battle-zombie-shooter-survival-of-the-dead.json) |
 | Battle Zone | 245551 | [245551-battle-zone.json](./245551-battle-zone.json) |
+| Battle Zone | 71892 | [71892-battle-zone.json](./71892-battle-zone.json) |
 | Battle Zone: Clicker | 183521 | [183521-battle-zone-clicker.json](./183521-battle-zone-clicker.json) |
 | Battle-field | 13868 | [13868-battle-field.json](./13868-battle-field.json) |
 | Battle-Girl | 58690 | [58690-battle-girl.json](./58690-battle-girl.json) |
@@ -11088,6 +11090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowman 2 | 192329 | [192329-bowman-2.json](./192329-bowman-2.json) |
 | Bowman VS Zombies | 103625 | [103625-bowman-vs-zombies.json](./103625-bowman-vs-zombies.json) |
 | Bowmaster 2: Archery Tournament | 249367 | [249367-bowmaster-2-archery-tournament.json](./249367-bowmaster-2-archery-tournament.json) |
+| Bowmaster Prelude | 71908 | [71908-bowmaster-prelude.json](./71908-bowmaster-prelude.json) |
 | Bowmasters | 71911 | [71911-bowmasters.json](./71911-bowmasters.json) |
 | Bowmen | 129731 | [129731-bowmen.json](./129731-bowmen.json) |
 | Bowmen | 277383 | [277383-bowmen.json](./277383-bowmen.json) |
@@ -12277,6 +12280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Encounter | 337726 | [337726-bridge-encounter.json](./337726-bridge-encounter.json) |
 | Bridge for Windows | 83475 | [83475-bridge-for-windows.json](./83475-bridge-for-windows.json) |
 | Bridge hand Composer | 87317 | [87317-bridge-hand-composer.json](./87317-bridge-hand-composer.json) |
+| Bridge Hopper | 71918 | [71918-bridge-hopper.json](./71918-bridge-hopper.json) |
 | Bridge Hunter | 260167 | [260167-bridge-hunter.json](./260167-bridge-hunter.json) |
 | Bridge Maker | 291398 | [291398-bridge-maker.json](./291398-bridge-maker.json) |
 | Bridge Master | 94682 | [94682-bridge-master.json](./94682-bridge-master.json) |
@@ -14231,6 +14235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bush's Bean Dash | 61541 | [61541-bushs-bean-dash.json](./61541-bushs-bean-dash.json) |
 | Bushfire | 180498 | [180498-bushfire.json](./180498-bushfire.json) |
 | Bushfires: Animal Rescue | 163925 | [163925-bushfires-animal-rescue.json](./163925-bushfires-animal-rescue.json) |
+| Bushgame: The Anti-Bush Video Game | 71928 | [71928-bushgame-the-anti-bush-video-game.json](./71928-bushgame-the-anti-bush-video-game.json) |
 | Bushiden | 116223 | [116223-bushiden.json](./116223-bushiden.json) |
 | Bushido Panda | 57469 | [57469-bushido-panda.json](./57469-bushido-panda.json) |
 | Bushido Saga: Nightmare of the Samurai | 260375 | [260375-bushido-saga-nightmare-of-the-samurai.json](./260375-bushido-saga-nightmare-of-the-samurai.json) |
