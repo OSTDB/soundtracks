@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galacticraft | 232681 | [232681-galacticraft.json](./232681-galacticraft.json) |
 | Galacticverse | 275071 | [275071-galacticverse.json](./275071-galacticverse.json) |
 | Galactigun | 169128 | [169128-galactigun.json](./169128-galactigun.json) |
+| Galactik Football | 69108 | [69108-galactik-football.json](./69108-galactik-football.json) |
 | Galactineers | 33920 | [33920-galactineers.json](./33920-galactineers.json) |
 | Galactis | 106429 | [106429-galactis.json](./106429-galactis.json) |
 | Galactix | 218080 | [218080-galactix.json](./218080-galactix.json) |
