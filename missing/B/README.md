@@ -943,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakugan Battle Brawlers: Arcade Battlers | 122989 | [122989-bakugan-battle-brawlers-arcade-battlers.json](./122989-bakugan-battle-brawlers-arcade-battlers.json) |
 | Bakugan Dimensions | 128896 | [128896-bakugan-dimensions.json](./128896-bakugan-dimensions.json) |
 | Bakugan: Champions of Vestroia - Deluxe Edition | 140894 | [140894-bakugan-champions-of-vestroia-deluxe-edition.json](./140894-bakugan-champions-of-vestroia-deluxe-edition.json) |
+| Bakugan: Defenders of the Core | 79711 | [79711-bakugan-defenders-of-the-core.json](./79711-bakugan-defenders-of-the-core.json) |
 | Bakugan: Rise of the Resistance | 26690 | [26690-bakugan-rise-of-the-resistance.json](./26690-bakugan-rise-of-the-resistance.json) |
 | Bakugen: Battle Brawlers | 50694 | [50694-bakugen-battle-brawlers.json](./50694-bakugen-battle-brawlers.json) |
 | Bakukyuu Renpatsu!! Super B-Daman | 42520 | [42520-bakukyuu-renpatsu-super-b-daman.json](./42520-bakukyuu-renpatsu-super-b-daman.json) |
@@ -1059,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldoo | 116822 | [116822-baldoo.json](./116822-baldoo.json) |
 | Baldr Bringer | 71194 | [71194-baldr-bringer.json](./71194-baldr-bringer.json) |
 | Baldr Bringer Extend Code | 180651 | [180651-baldr-bringer-extend-code.json](./180651-baldr-bringer-extend-code.json) |
+| Baldr Bullet | 79721 | [79721-baldr-bullet.json](./79721-baldr-bullet.json) |
 | Baldr Fist | 180241 | [180241-baldr-fist.json](./180241-baldr-fist.json) |
 | Baldr Force Exe | 44622 | [44622-baldr-force-exe.json](./44622-baldr-force-exe.json) |
 | Baldr Sky | 127153 | [127153-baldr-sky.json](./127153-baldr-sky.json) |
@@ -4321,6 +4323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania 2ndMix | 94746 | [94746-beatmania-2ndmix.json](./94746-beatmania-2ndmix.json) |
 | Beatmania 3rdMix | 94745 | [94745-beatmania-3rdmix.json](./94745-beatmania-3rdmix.json) |
 | Beatmania 4thMix: The Beat Goes On | 70632 | [70632-beatmania-4thmix-the-beat-goes-on.json](./70632-beatmania-4thmix-the-beat-goes-on.json) |
+| Beatmania 5thMix: Time to Get Down | 79698 | [79698-beatmania-5thmix-time-to-get-down.json](./79698-beatmania-5thmix-time-to-get-down.json) |
 | Beatmania 6thMIX + Core Remix | 280863 | [280863-beatmania-6thmix-core-remix.json](./280863-beatmania-6thmix-core-remix.json) |
 | Beatmania 6thMix: The UK Underground Music | 79612 | [79612-beatmania-6thmix-the-uk-underground-music.json](./79612-beatmania-6thmix-the-uk-underground-music.json) |
 | Beatmania 7thMix: Keepin' Evolution | 94743 | [94743-beatmania-7thmix-keepin-evolution.json](./94743-beatmania-7thmix-keepin-evolution.json) |
@@ -9462,6 +9465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob the Builder | 220261 | [220261-bob-the-builder.json](./220261-bob-the-builder.json) |
 | Bob the Builder | 83246 | [83246-bob-the-builder.json](./83246-bob-the-builder.json) |
 | Bob the Builder: Bob Builds A Park | 72055 | [72055-bob-the-builder-bob-builds-a-park.json](./72055-bob-the-builder-bob-builds-a-park.json) |
+| Bob the Builder: Bob's Busy Day | 79712 | [79712-bob-the-builder-bobs-busy-day.json](./79712-bob-the-builder-bobs-busy-day.json) |
 | Bob the Builder: Build City | 91335 | [91335-bob-the-builder-build-city.json](./91335-bob-the-builder-build-city.json) |
 | Bob the Builder: Can We Fix It? | 44890 | [44890-bob-the-builder-can-we-fix-it.json](./44890-bob-the-builder-can-we-fix-it.json) |
 | Bob the Builder: Festival of Fun | 374680 | [374680-bob-the-builder-festival-of-fun.json](./374680-bob-the-builder-festival-of-fun.json) |
@@ -9535,6 +9539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobo: In Animia | 380032 | [380032-bobo-in-animia.json](./380032-bobo-in-animia.json) |
 | Bobo's Big Tower | 355170 | [355170-bobos-big-tower.json](./355170-bobos-big-tower.json) |
 | Bobobird | 365141 | [365141-bobobird.json](./365141-bobobird.json) |
+| Bobobo-bo Bo-bobo: Atsumare! Taikan Bo-bobo | 79699 | [79699-bobobo-bo-bo-bobo-atsumare-taikan-bo-bobo.json](./79699-bobobo-bo-bo-bobo-atsumare-taikan-bo-bobo.json) |
 | Bobobo-bo Bo-bobo: Dasshutsu!! Hajike Royale | 3827 | [3827-bobobo-bo-bo-bobo-dasshutsu-hajike-royale.json](./3827-bobobo-bo-bo-bobo-dasshutsu-hajike-royale.json) |
 | Bobobo-bo Bo-bobo: Dassutsu! Hajike Royale | 50588 | [50588-bobobo-bo-bo-bobo-dassutsu-hajike-royale.json](./50588-bobobo-bo-bo-bobo-dassutsu-hajike-royale.json) |
 | BoBoiBoy: Adudu Attacks! | 61998 | [61998-boboiboy-adudu-attacks.json](./61998-boboiboy-adudu-attacks.json) |
@@ -11526,6 +11531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratty Bottoms! | 319286 | [319286-bratty-bottoms.json](./319286-bratty-bottoms.json) |
 | Bratwurst | 77642 | [77642-bratwurst.json](./77642-bratwurst.json) |
 | Bratz | 225653 | [225653-bratz.json](./225653-bratz.json) |
+| Bratz | 79719 | [79719-bratz.json](./79719-bratz.json) |
 | Bratz 4 Real | 213888 | [213888-bratz-4-real.json](./213888-bratz-4-real.json) |
 | Bratz 4 Real | 47872 | [47872-bratz-4-real.json](./47872-bratz-4-real.json) |
 | Bratz Fashion Pixiez: The Secret Necklace | 213374 | [213374-bratz-fashion-pixiez-the-secret-necklace.json](./213374-bratz-fashion-pixiez-the-secret-necklace.json) |
