@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zettai Meikyuu Grimm: Nanatsu no Kagi to Rakuen no Otome | 62459 | [62459-zettai-meikyuu-grimm-nanatsu-no-kagi-to-rakuen-no-otome.json](./62459-zettai-meikyuu-grimm-nanatsu-no-kagi-to-rakuen-no-otome.json) |
 | Zettai Meikyuu Himitsu no Oyayubi-hime | 59959 | [59959-zettai-meikyuu-himitsu-no-oyayubi-hime.json](./59959-zettai-meikyuu-himitsu-no-oyayubi-hime.json) |
 | Zettai Mite ha Ikenai Shashin | 251528 | [251528-zettai-mite-ha-ikenai-shashin.json](./251528-zettai-mite-ha-ikenai-shashin.json) |
+| Zettai Muteki Raijin-Oh | 49133 | [49133-zettai-muteki-raijin-oh.json](./49133-zettai-muteki-raijin-oh.json) |
 | Zettai Zetsumei Dangerous Jiisan DS: Dangerous Sensation | 124129 | [124129-zettai-zetsumei-dangerous-jiisan-ds-dangerous-sensation.json](./124129-zettai-zetsumei-dangerous-jiisan-ds-dangerous-sensation.json) |
 | Zettai Zetsumei kara no Dasshutsu: Nazotoki Quiz Illustration Suiri Mystery Game | 233935 | [233935-zettai-zetsumei-kara-no-dasshutsu-nazotoki-quiz-illustration-suiri-mystery-game.json](./233935-zettai-zetsumei-kara-no-dasshutsu-nazotoki-quiz-illustration-suiri-mystery-game.json) |
 | Zettai Zetsumei Shoujo Kokuu no Houteishiki | 260549 | [260549-zettai-zetsumei-shoujo-kokuu-no-houteishiki.json](./260549-zettai-zetsumei-shoujo-kokuu-no-houteishiki.json) |
@@ -1070,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoids 2: Zenebasu no Gyakushuu | 48594 | [48594-zoids-2-zenebasu-no-gyakushuu.json](./48594-zoids-2-zenebasu-no-gyakushuu.json) |
 | Zoids Battle Colosseum | 122250 | [122250-zoids-battle-colosseum.json](./122250-zoids-battle-colosseum.json) |
 | Zoids Dash | 122249 | [122249-zoids-dash.json](./122249-zoids-dash.json) |
+| Zoids Densetsu | 49132 | [49132-zoids-densetsu.json](./49132-zoids-densetsu.json) |
 | Zoids Infinity EX NEO | 91725 | [91725-zoids-infinity-ex-neo.json](./91725-zoids-infinity-ex-neo.json) |
 | Zoids Saga DS: Legend of Arcadia | 58535 | [58535-zoids-saga-ds-legend-of-arcadia.json](./58535-zoids-saga-ds-legend-of-arcadia.json) |
 | Zoids VS | 50586 | [50586-zoids-vs.json](./50586-zoids-vs.json) |
