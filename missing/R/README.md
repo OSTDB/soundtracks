@@ -1439,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Isles | 389536 | [389536-random-isles.json](./389536-random-isles.json) |
 | Random Journey | 32261 | [32261-random-journey.json](./32261-random-journey.json) |
 | Random Legion | 293513 | [293513-random-legion.json](./293513-random-legion.json) |
+| Random Mahjong | 89629 | [89629-random-mahjong.json](./89629-random-mahjong.json) |
 | Random Merge Defense | 257253 | [257253-random-merge-defense.json](./257253-random-merge-defense.json) |
 | Random Mix | 417291 | [417291-random-mix.json](./417291-random-mix.json) |
 | Random Number God | 184625 | [184625-random-number-god.json](./184625-random-number-god.json) |
@@ -4108,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replica : A Little Temporary Safety | 98846 | [98846-replica-a-little-temporary-safety.json](./98846-replica-a-little-temporary-safety.json) |
 | Replica Club Route D | 404249 | [404249-replica-club-route-d.json](./404249-replica-club-route-d.json) |
 | Replica Island | 61625 | [61625-replica-island.json](./61625-replica-island.json) |
+| Replica: A Little Temporary Safety | 89758 | [89758-replica-a-little-temporary-safety.json](./89758-replica-a-little-temporary-safety.json) |
 | Replica: Atomic Punk | 61045 | [61045-replica-atomic-punk.json](./61045-replica-atomic-punk.json) |
 | Replica: Temporary Safety | 174218 | [174218-replica-temporary-safety.json](./174218-replica-temporary-safety.json) |
 | Replicart | 41390 | [41390-replicart.json](./41390-replicart.json) |
@@ -7236,6 +7238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboWarrior Arena | 266473 | [266473-robowarrior-arena.json](./266473-robowarrior-arena.json) |
 | RoboWars | 10779 | [10779-robowars.json](./10779-robowars.json) |
 | Robowork | 138556 | [138556-robowork.json](./138556-robowork.json) |
+| RoboWorlD tactics | 89640 | [89640-roboworld-tactics.json](./89640-roboworld-tactics.json) |
 | Robox | 147916 | [147916-robox.json](./147916-robox.json) |
 | Robox | 319997 | [319997-robox.json](./319997-robox.json) |
 | Robox | 66748 | [66748-robox.json](./66748-robox.json) |
@@ -7535,6 +7538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketbirds 2: Rescue Bundle | 170516 | [170516-rocketbirds-2-rescue-bundle.json](./170516-rocketbirds-2-rescue-bundle.json) |
 | Rocketbirds: Revolution! | 242929 | [242929-rocketbirds-revolution.json](./242929-rocketbirds-revolution.json) |
 | Rocketboarder | 118793 | [118793-rocketboarder.json](./118793-rocketboarder.json) |
+| Rocketboat - Pilot | 89776 | [89776-rocketboat-pilot.json](./89776-rocketboat-pilot.json) |
 | RocketBoy 2 | 400455 | [400455-rocketboy-2.json](./400455-rocketboy-2.json) |
 | RocketBoy 3 | 400456 | [400456-rocketboy-3.json](./400456-rocketboy-3.json) |
 | RocketBoy! | 400454 | [400454-rocketboy.json](./400454-rocketboy.json) |
@@ -9270,6 +9274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTL WLS 2000 | 186002 | [186002-rtl-wls-2000.json](./186002-rtl-wls-2000.json) |
 | RTM: The Last Days | 212209 | [212209-rtm-the-last-days.json](./212209-rtm-the-last-days.json) |
 | RTO | 84851 | [84851-rto.json](./84851-rto.json) |
+| RTO 2 | 89729 | [89729-rto-2.json](./89729-rto-2.json) |
 | RTO 3 | 106519 | [106519-rto-3.json](./106519-rto-3.json) |
 | RTS Football | 259085 | [259085-rts-football.json](./259085-rts-football.json) |
 | RTS Hero | 380817 | [380817-rts-hero.json](./380817-rts-hero.json) |
