@@ -3020,6 +3020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Route | 87095 | [87095-dead-route.json](./87095-dead-route.json) |
 | Dead Run | 136728 | [136728-dead-run.json](./136728-dead-run.json) |
 | Dead Rush | 327277 | [327277-dead-rush.json](./327277-dead-rush.json) |
+| Dead Rush | 67806 | [67806-dead-rush.json](./67806-dead-rush.json) |
 | Dead Sale | 339369 | [339369-dead-sale.json](./339369-dead-sale.json) |
 | Dead Scrap | 303466 | [303466-dead-scrap.json](./303466-dead-scrap.json) |
 | Dead Sea | 25514 | [25514-dead-sea.json](./25514-dead-sea.json) |
@@ -7836,6 +7837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Dimension | 278153 | [278153-disc-dimension.json](./278153-disc-dimension.json) |
 | Disc Drivin' | 92398 | [92398-disc-drivin.json](./92398-disc-drivin.json) |
 | Disc Frenzy | 296720 | [296720-disc-frenzy.json](./296720-disc-frenzy.json) |
+| Disc Golf | 67809 | [67809-disc-golf.json](./67809-disc-golf.json) |
 | Disc Golf 3D | 89808 | [89808-disc-golf-3d.json](./89808-disc-golf-3d.json) |
 | Disc Golf Adventure 2 VR | 148481 | [148481-disc-golf-adventure-2-vr.json](./148481-disc-golf-adventure-2-vr.json) |
 | Disc Golf Adventure VR | 126822 | [126822-disc-golf-adventure-vr.json](./126822-disc-golf-adventure-vr.json) |
