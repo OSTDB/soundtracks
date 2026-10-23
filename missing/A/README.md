@@ -2248,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Man | 217943 | [217943-action-man.json](./217943-action-man.json) |
 | Action Man A.T.O.M.: Alpha Teens on Machines | 83248 | [83248-action-man-a-t-o-m-alpha-teens-on-machines.json](./83248-action-man-a-t-o-m-alpha-teens-on-machines.json) |
 | Action Man: Destruction X | 44848 | [44848-action-man-destruction-x.json](./44848-action-man-destruction-x.json) |
+| Action Man: Jungle Storm | 70235 | [70235-action-man-jungle-storm.json](./70235-action-man-jungle-storm.json) |
 | Action Man: Raid on Island X | 72539 | [72539-action-man-raid-on-island-x.json](./72539-action-man-raid-on-island-x.json) |
 | Action Man: Search For Base X | 49868 | [49868-action-man-search-for-base-x.json](./49868-action-man-search-for-base-x.json) |
 | Action Mania | 255866 | [255866-action-mania.json](./255866-action-mania.json) |
@@ -3761,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agnostiko Origins | 305986 | [305986-agnostiko-origins.json](./305986-agnostiko-origins.json) |
 | Agnostiko X NedMapagmahal Bundle | 308654 | [308654-agnostiko-x-nedmapagmahal-bundle.json](./308654-agnostiko-x-nedmapagmahal-bundle.json) |
 | Agon: The Lost Sword of Toledo | 9953 | [9953-agon-the-lost-sword-of-toledo.json](./9953-agon-the-lost-sword-of-toledo.json) |
+| Agon: The Mysterious Codex - Episode 2: Adventures in Lapland | 70238 | [70238-agon-the-mysterious-codex-episode-2-adventures-in-lapland.json](./70238-agon-the-mysterious-codex-episode-2-adventures-in-lapland.json) |
 | Agon: The Mysterious Codex - Episode 3: Pirates of Madagascar | 73609 | [73609-agon-the-mysterious-codex-episode-3-pirates-of-madagascar.json](./73609-agon-the-mysterious-codex-episode-3-pirates-of-madagascar.json) |
 | Agonize | 187402 | [187402-agonize.json](./187402-agonize.json) |
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
@@ -8707,6 +8709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antrabhara | 223491 | [223491-antrabhara.json](./223491-antrabhara.json) |
 | Antrum | 113426 | [113426-antrum.json](./113426-antrum.json) |
 | Ants | 170965 | [170965-ants.json](./170965-ants.json) |
+| Ants | 70252 | [70252-ants.json](./70252-ants.json) |
 | Ants Empire Colony | 358427 | [358427-ants-empire-colony.json](./358427-ants-empire-colony.json) |
 | Ants in Space! | 248031 | [248031-ants-in-space.json](./248031-ants-in-space.json) |
 | Ants March TD | 374200 | [374200-ants-march-td.json](./374200-ants-march-td.json) |
@@ -9233,6 +9236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua 3 | 273134 | [273134-aqua-3.json](./273134-aqua-3.json) |
 | Aqua Adventure: Blue Lilty | 65996 | [65996-aqua-adventure-blue-lilty.json](./65996-aqua-adventure-blue-lilty.json) |
 | Aqua Aqua | 43549 | [43549-aqua-aqua.json](./43549-aqua-aqua.json) |
+| Aqua Bubble | 70214 | [70214-aqua-bubble.json](./70214-aqua-bubble.json) |
 | Aqua Bubble 2 | 70927 | [70927-aqua-bubble-2.json](./70927-aqua-bubble-2.json) |
 | Aqua Cube | 82583 | [82583-aqua-cube.json](./82583-aqua-cube.json) |
 | Aqua Energizer | 197666 | [197666-aqua-energizer.json](./197666-aqua-energizer.json) |
@@ -12804,6 +12808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Climber | 40769 | [40769-atari-climber.json](./40769-atari-climber.json) |
 | Atari Collection 1 | 130813 | [130813-atari-collection-1.json](./130813-atari-collection-1.json) |
 | Atari Collection 2 | 130814 | [130814-atari-collection-2.json](./130814-atari-collection-2.json) |
+| Atari Collection: Action | 70228 | [70228-atari-collection-action.json](./70228-atari-collection-action.json) |
 | Atari Collection: Brettspiele | 70357 | [70357-atari-collection-brettspiele.json](./70357-atari-collection-brettspiele.json) |
 | Atari Collection: Racing | 255608 | [255608-atari-collection-racing.json](./255608-atari-collection-racing.json) |
 | Atari Collection: Rollenspiele | 70313 | [70313-atari-collection-rollenspiele.json](./70313-atari-collection-rollenspiele.json) |
