@@ -1553,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazy Paper | 415884 | [415884-lazy-paper.json](./415884-lazy-paper.json) |
 | Lazy Pirates | 180752 | [180752-lazy-pirates.json](./180752-lazy-pirates.json) |
 | Lazy Postman | 168608 | [168608-lazy-postman.json](./168608-lazy-postman.json) |
+| Lazy Raiders | 67049 | [67049-lazy-raiders.json](./67049-lazy-raiders.json) |
 | Lazy Raise the Earth | 118725 | [118725-lazy-raise-the-earth.json](./118725-lazy-raise-the-earth.json) |
 | Lazy Sonic | 331975 | [331975-lazy-sonic.json](./331975-lazy-sonic.json) |
 | Lazy Sweet Tycoon | 156121 | [156121-lazy-sweet-tycoon.json](./156121-lazy-sweet-tycoon.json) |
@@ -7147,6 +7148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Koala | 325612 | [325612-lovely-koala.json](./325612-lovely-koala.json) |
 | Lovely Lady RPG | 316163 | [316163-lovely-lady-rpg.json](./316163-lovely-lady-rpg.json) |
 | Lovely Links | 257234 | [257234-lovely-links.json](./257234-lovely-links.json) |
+| Lovely Lisa | 67108 | [67108-lovely-lisa.json](./67108-lovely-lisa.json) |
 | Lovely Lisa 3D | 80608 | [80608-lovely-lisa-3d.json](./80608-lovely-lisa-3d.json) |
 | Lovely Lisa and Friends | 47911 | [47911-lovely-lisa-and-friends.json](./47911-lovely-lisa-and-friends.json) |
 | Lovely Lodgings: Autumn Edition | 402310 | [402310-lovely-lodgings-autumn-edition.json](./402310-lovely-lodgings-autumn-edition.json) |
@@ -7366,6 +7368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LuckLand | 260423 | [260423-luckland.json](./260423-luckland.json) |
 | Luckless Seven | 9758 | [9758-luckless-seven.json](./9758-luckless-seven.json) |
 | Luckrot | 351706 | [351706-luckrot.json](./351706-luckrot.json) |
+| Lucky | 67070 | [67070-lucky.json](./67070-lucky.json) |
 | Lucky 21 | 241337 | [241337-lucky-21.json](./241337-lucky-21.json) |
 | Lucky Bastard | 261091 | [261091-lucky-bastard.json](./261091-lucky-bastard.json) |
 | Lucky Break: Dating in New York | 372684 | [372684-lucky-break-dating-in-new-york.json](./372684-lucky-break-dating-in-new-york.json) |
