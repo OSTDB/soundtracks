@@ -2133,6 +2133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnal Sins: Malum Incarnatum + Carne Vescens | 329693 | [329693-carnal-sins-malum-incarnatum-carne-vescens.json](./329693-carnal-sins-malum-incarnatum-carne-vescens.json) |
 | Carnasis | 360007 | [360007-carnasis.json](./360007-carnasis.json) |
 | Carnaval | 304055 | [304055-carnaval.json](./304055-carnaval.json) |
+| CarneyVale Showtime | 92349 | [92349-carneyvale-showtime.json](./92349-carneyvale-showtime.json) |
 | Carnica | 39636 | [39636-carnica.json](./39636-carnica.json) |
 | Carnival | 277195 | [277195-carnival.json](./277195-carnival.json) |
 | Carnival | 277196 | [277196-carnival.json](./277196-carnival.json) |
@@ -6588,6 +6589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronology | 10087 | [10087-chronology.json](./10087-chronology.json) |
 | Chronology: Deluxe Edition | 257371 | [257371-chronology-deluxe-edition.json](./257371-chronology-deluxe-edition.json) |
 | Chronomancy: Watchmaker's Curse | 184504 | [184504-chronomancy-watchmakers-curse.json](./184504-chronomancy-watchmakers-curse.json) |
+| Chronometer | 92352 | [92352-chronometer.json](./92352-chronometer.json) |
 | Chronomina | 185620 | [185620-chronomina.json](./185620-chronomina.json) |
 | Chronominion Idler | 347358 | [347358-chronominion-idler.json](./347358-chronominion-idler.json) |
 | Chronomon | 244487 | [244487-chronomon.json](./244487-chronomon.json) |
@@ -12119,6 +12121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courier Beware | 399597 | [399597-courier-beware.json](./399597-courier-beware.json) |
 | Courier Chief Tycoon | 237086 | [237086-courier-chief-tycoon.json](./237086-courier-chief-tycoon.json) |
 | Courier Life Simulator | 380089 | [380089-courier-life-simulator.json](./380089-courier-life-simulator.json) |
+| Courier Service Simulator 3D | 92330 | [92330-courier-service-simulator-3d.json](./92330-courier-service-simulator-3d.json) |
 | Courier Simulator | 349514 | [349514-courier-simulator.json](./349514-courier-simulator.json) |
 | Courier Tale | 202171 | [202171-courier-tale.json](./202171-courier-tale.json) |
 | Couroland | 223516 | [223516-couroland.json](./223516-couroland.json) |
