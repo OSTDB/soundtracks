@@ -4172,6 +4172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Man Jump | 305473 | [305473-wild-man-jump.json](./305473-wild-man-jump.json) |
 | Wild Marble Beats | 181351 | [181351-wild-marble-beats.json](./181351-wild-marble-beats.json) |
 | Wild Mutation | 257927 | [257927-wild-mutation.json](./257927-wild-mutation.json) |
+| Wild Ones | 65950 | [65950-wild-ones.json](./65950-wild-ones.json) |
 | Wild Ones Battle Stadium | 338365 | [338365-wild-ones-battle-stadium.json](./338365-wild-ones-battle-stadium.json) |
 | Wild Origin: Scout | 130616 | [130616-wild-origin-scout.json](./130616-wild-origin-scout.json) |
 | Wild Pinball Bundle | 166684 | [166684-wild-pinball-bundle.json](./166684-wild-pinball-bundle.json) |
