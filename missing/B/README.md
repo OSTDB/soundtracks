@@ -6820,6 +6820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Bullet | 75014 | [75014-bit-bullet.json](./75014-bit-bullet.json) |
 | Bit City | 174681 | [174681-bit-city.json](./174681-bit-city.json) |
 | Bit Dancer | 351611 | [351611-bit-dancer.json](./351611-bit-dancer.json) |
+| Bit Digger | 65329 | [65329-bit-digger.json](./65329-bit-digger.json) |
 | Bit Dungeon | 60772 | [60772-bit-dungeon.json](./60772-bit-dungeon.json) |
 | bit Dungeon III | 116771 | [116771-bit-dungeon-iii.json](./116771-bit-dungeon-iii.json) |
 | Bit Evolution | 35966 | [35966-bit-evolution.json](./35966-bit-evolution.json) |
@@ -11339,6 +11340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brabatos | 348656 | [348656-brabatos.json](./348656-brabatos.json) |
 | Bracer | 403818 | [403818-bracer.json](./403818-bracer.json) |
 | BraceUp VR | 267297 | [267297-braceup-vr.json](./267297-braceup-vr.json) |
+| Bracken Tor: The Time of Tooth and Claw | 65360 | [65360-bracken-tor-the-time-of-tooth-and-claw.json](./65360-bracken-tor-the-time-of-tooth-and-claw.json) |
 | BrackenSack: A Dashkin game | 83181 | [83181-brackensack-a-dashkin-game.json](./83181-brackensack-a-dashkin-game.json) |
 | Bracket Chain | 279765 | [279765-bracket-chain.json](./279765-bracket-chain.json) |
 | Bracket City | 341031 | [341031-bracket-city.json](./341031-bracket-city.json) |
