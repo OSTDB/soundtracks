@@ -9248,6 +9248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium. | 91325 | [91325-aquarium.json](./91325-aquarium.json) |
 | Aquarius | 299557 | [299557-aquarius.json](./299557-aquarius.json) |
 | Aquarius Baseball: Genkai no, Sono Saki e. | 268110 | [268110-aquarius-baseball-genkai-no-sono-saki-e.json](./268110-aquarius-baseball-genkai-no-sono-saki-e.json) |
+| Aquarius Days | 97744 | [97744-aquarius-days.json](./97744-aquarius-days.json) |
 | Aquascapers | 258345 | [258345-aquascapers.json](./258345-aquascapers.json) |
 | Aquascapes | 144353 | [144353-aquascapes.json](./144353-aquascapes.json) |
 | AquaSpace | 51095 | [51095-aquaspace.json](./51095-aquaspace.json) |
