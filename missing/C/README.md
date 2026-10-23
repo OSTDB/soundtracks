@@ -4483,6 +4483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Chess | 56776 | [56776-championship-chess.json](./56776-championship-chess.json) |
 | Championship Hockey | 19772 | [19772-championship-hockey.json](./19772-championship-hockey.json) |
 | Championship Lode Runner | 6091 | [6091-championship-lode-runner.json](./6091-championship-lode-runner.json) |
+| Championship Mah Jongg | 62504 | [62504-championship-mah-jongg.json](./62504-championship-mah-jongg.json) |
 | Championship Manager | 269426 | [269426-championship-manager.json](./269426-championship-manager.json) |
 | Championship Manager '93 | 11306 | [11306-championship-manager-93.json](./11306-championship-manager-93.json) |
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
@@ -5877,6 +5878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Train Trip | 195190 | [195190-chinese-train-trip.json](./195190-chinese-train-trip.json) |
 | Chinese Tycoon | 247457 | [247457-chinese-tycoon.json](./247457-chinese-tycoon.json) |
 | Chinese universities | 338515 | [338515-chinese-universities.json](./338515-chinese-universities.json) |
+| Chinese Zombie War | 62495 | [62495-chinese-zombie-war.json](./62495-chinese-zombie-war.json) |
 | Chineze | 96712 | [96712-chineze.json](./96712-chineze.json) |
 | ChingMing | 303730 | [303730-chingming.json](./303730-chingming.json) |
 | Chinhai | 38151 | [38151-chinhai.json](./38151-chinhai.json) |
@@ -6876,6 +6878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinema Story | 333438 | [333438-cinema-story.json](./333438-cinema-story.json) |
 | Cinema Theater Tycoon | 358377 | [358377-cinema-theater-tycoon.json](./358377-cinema-theater-tycoon.json) |
 | Cinema Tycoon | 369679 | [369679-cinema-tycoon.json](./369679-cinema-tycoon.json) |
+| Cinema Tycoon 2: Movie Mania | 62486 | [62486-cinema-tycoon-2-movie-mania.json](./62486-cinema-tycoon-2-movie-mania.json) |
 | Cinemaster Cinema Simulator | 326452 | [326452-cinemaster-cinema-simulator.json](./326452-cinemaster-cinema-simulator.json) |
 | Cinematrix | 319218 | [319218-cinematrix.json](./319218-cinematrix.json) |
 | Cinemax Complete | 52735 | [52735-cinemax-complete.json](./52735-cinemax-complete.json) |
@@ -8353,6 +8356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudbuilt: Defiance | 171497 | [171497-cloudbuilt-defiance.json](./171497-cloudbuilt-defiance.json) |
 | Cloudburst | 250844 | [250844-cloudburst.json](./250844-cloudburst.json) |
 | CloudCity VR | 50518 | [50518-cloudcity-vr.json](./50518-cloudcity-vr.json) |
+| Cloudface | 62601 | [62601-cloudface.json](./62601-cloudface.json) |
 | Cloudgazer: A Game About Watching Clouds | 416005 | [416005-cloudgazer-a-game-about-watching-clouds.json](./416005-cloudgazer-a-game-about-watching-clouds.json) |
 | Cloudheim | 330328 | [330328-cloudheim.json](./330328-cloudheim.json) |
 | CloudJumper | 107052 | [107052-cloudjumper.json](./107052-cloudjumper.json) |
