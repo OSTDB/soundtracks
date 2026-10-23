@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1-800-Monsters | 179563 | [179563-1-800-monsters.json](./179563-1-800-monsters.json) |
 | 1-900-Cult | 242118 | [242118-1-900-cult.json](./242118-1-900-cult.json) |
 | 1-900-Gary | 325869 | [325869-1-900-gary.json](./325869-1-900-gary.json) |
+| 1-Bit Ninja | 65888 | [65888-1-bit-ninja.json](./65888-1-bit-ninja.json) |
 | 1-Bit Samurai | 181783 | [181783-1-bit-samurai.json](./181783-1-bit-samurai.json) |
 | 1-Button platformer | 323311 | [323311-1-button-platformer.json](./323311-1-button-platformer.json) |
 | 1-DC | 333410 | [333410-1-dc.json](./333410-1-dc.json) |
