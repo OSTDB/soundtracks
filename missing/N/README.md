@@ -3711,6 +3711,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightriderz | 159142 | [159142-nightriderz.json](./159142-nightriderz.json) |
 | Nightron Wars | 161729 | [161729-nightron-wars.json](./161729-nightron-wars.json) |
 | Nightrunner | 297899 | [297899-nightrunner.json](./297899-nightrunner.json) |
+| Nightruth #01: Yami no Tobira | 98291 | [98291-nightruth-01-yami-no-tobira.json](./98291-nightruth-01-yami-no-tobira.json) |
+| Nightruth Voice Selection: Radio Drama Hen | 98284 | [98284-nightruth-voice-selection-radio-drama-hen.json](./98284-nightruth-voice-selection-radio-drama-hen.json) |
+| Nightruth: "Maria" | 98288 | [98288-nightruth-maria.json](./98288-nightruth-maria.json) |
+| Nightruth: Futatsu Dake no Shinjitsu | 98285 | [98285-nightruth-futatsu-dake-no-shinjitsu.json](./98285-nightruth-futatsu-dake-no-shinjitsu.json) |
 | Nights at the Clown Maze | 111611 | [111611-nights-at-the-clown-maze.json](./111611-nights-at-the-clown-maze.json) |
 | Nights at the Convenience Store | 408014 | [408014-nights-at-the-convenience-store.json](./408014-nights-at-the-convenience-store.json) |
 | Nights in Endless Dream | 388366 | [388366-nights-in-endless-dream.json](./388366-nights-in-endless-dream.json) |
