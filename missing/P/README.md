@@ -11147,6 +11147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Manager 2012 | 65430 | [65430-premier-manager-2012.json](./65430-premier-manager-2012.json) |
 | Premier Manager 3 | 14426 | [14426-premier-manager-3.json](./14426-premier-manager-3.json) |
 | Premier Manager 3 De-Luxe | 73484 | [73484-premier-manager-3-de-luxe.json](./73484-premier-manager-3-de-luxe.json) |
+| Premier Manager 98 | 45046 | [45046-premier-manager-98.json](./45046-premier-manager-98.json) |
 | Premier Multi-Edit System | 131284 | [131284-premier-multi-edit-system.json](./131284-premier-multi-edit-system.json) |
 | Premier Picks | 94407 | [94407-premier-picks.json](./94407-premier-picks.json) |
 | Premier Servi | 293635 | [293635-premier-servi.json](./293635-premier-servi.json) |
@@ -12241,6 +12242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Ski Simulator | 80530 | [80530-professional-ski-simulator.json](./80530-professional-ski-simulator.json) |
 | Professional Soldier | 153928 | [153928-professional-soldier.json](./153928-professional-soldier.json) |
 | Professional Team | 161565 | [161565-professional-team.json](./161565-professional-team.json) |
+| Professional Underground League of Pain | 45038 | [45038-professional-underground-league-of-pain.json](./45038-professional-underground-league-of-pain.json) |
 | Professor Brainium's Games | 80358 | [80358-professor-brainiums-games.json](./80358-professor-brainiums-games.json) |
 | Professor Bubbles | 280790 | [280790-professor-bubbles.json](./280790-professor-bubbles.json) |
 | Professor Chuckenhope | 109682 | [109682-professor-chuckenhope.json](./109682-professor-chuckenhope.json) |
