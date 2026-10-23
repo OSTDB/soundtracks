@@ -1350,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aargon Deluxe | 70984 | [70984-aargon-deluxe.json](./70984-aargon-deluxe.json) |
 | Aarik: and the Ruined Kingdom | 276707 | [276707-aarik-and-the-ruined-kingdom.json](./276707-aarik-and-the-ruined-kingdom.json) |
 | AAron | 398511 | [398511-aaron.json](./398511-aaron.json) |
+| Aaron Crane: Paintings Come Alive | 64280 | [64280-aaron-crane-paintings-come-alive.json](./64280-aaron-crane-paintings-come-alive.json) |
 | Aaron Lee VS. Space and Time | 185457 | [185457-aaron-lee-vs-space-and-time.json](./185457-aaron-lee-vs-space-and-time.json) |
 | Aaron Stone | 282238 | [282238-aaron-stone.json](./282238-aaron-stone.json) |
 | Aaron vs. Ruth: Battle of the Big Bats | 69280 | [69280-aaron-vs-ruth-battle-of-the-big-bats.json](./69280-aaron-vs-ruth-battle-of-the-big-bats.json) |
@@ -2886,6 +2887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3492,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Albuvia | 169486 | [169486-age-of-albuvia.json](./169486-age-of-albuvia.json) |
 | Age of Anthemius | 356226 | [356226-age-of-anthemius.json](./356226-age-of-anthemius.json) |
 | Age of Ants | 275672 | [275672-age-of-ants.json](./275672-age-of-ants.json) |
+| Age of Armor | 64269 | [64269-age-of-armor.json](./64269-age-of-armor.json) |
 | Age of Ashes: Dark Nuns | 349849 | [349849-age-of-ashes-dark-nuns.json](./349849-age-of-ashes-dark-nuns.json) |
 | Age of Barbarian Extended Cut | 34473 | [34473-age-of-barbarian-extended-cut.json](./34473-age-of-barbarian-extended-cut.json) |
 | Age of Barbarian Extended Cut: The Slaves' Fortress | 171499 | [171499-age-of-barbarian-extended-cut-the-slaves-fortress.json](./171499-age-of-barbarian-extended-cut-the-slaves-fortress.json) |
@@ -4922,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex & Arty | 392201 | [392201-alex-and-arty.json](./392201-alex-and-arty.json) |
 | Alex and Der Murder | 396378 | [396378-alex-and-der-murder.json](./396378-alex-and-der-murder.json) |
 | Alex and the Jets | 368610 | [368610-alex-and-the-jets.json](./368610-alex-and-the-jets.json) |
+| Alex Builds His Farm | 64157 | [64157-alex-builds-his-farm.json](./64157-alex-builds-his-farm.json) |
 | Alex Demeo's Race America | 48215 | [48215-alex-demeos-race-america.json](./48215-alex-demeos-race-america.json) |
 | Alex Hill: The Body at Clearwater Bay | 335423 | [335423-alex-hill-the-body-at-clearwater-bay.json](./335423-alex-hill-the-body-at-clearwater-bay.json) |
 | Alex Hill: Whispers at White Oak Inn | 288752 | [288752-alex-hill-whispers-at-white-oak-inn.json](./288752-alex-hill-whispers-at-white-oak-inn.json) |
@@ -6049,6 +6053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphadia Neo | 216120 | [216120-alphadia-neo.json](./216120-alphadia-neo.json) |
 | AlphaFurry | 347205 | [347205-alphafurry.json](./347205-alphafurry.json) |
 | Alphageddon | 293086 | [293086-alphageddon.json](./293086-alphageddon.json) |
+| AlphaJax | 64151 | [64151-alphajax.json](./64151-alphajax.json) |
 | AlphaLink | 173170 | [173170-alphalink.json](./173170-alphalink.json) |
 | AlphaMan | 100109 | [100109-alphaman.json](./100109-alphaman.json) |
 | AlphaMan | 308344 | [308344-alphaman.json](./308344-alphaman.json) |
@@ -10591,6 +10596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argo | 272353 | [272353-argo.json](./272353-argo.json) |
 | Argo | 36607 | [36607-argo.json](./36607-argo.json) |
 | Argo Adventure | 120885 | [120885-argo-adventure.json](./120885-argo-adventure.json) |
+| Argo Online | 64268 | [64268-argo-online.json](./64268-argo-online.json) |
 | Argol: Kronoss' Castle | 229807 | [229807-argol-kronoss-castle.json](./229807-argol-kronoss-castle.json) |
 | Argolis | 140940 | [140940-argolis.json](./140940-argolis.json) |
 | Argon Swamp | 137308 | [137308-argon-swamp.json](./137308-argon-swamp.json) |
@@ -12874,6 +12880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Vault: 50 Game Add-On Pack | 169904 | [169904-atari-vault-50-game-add-on-pack.json](./169904-atari-vault-50-game-add-on-pack.json) |
 | Atari Video Cube | 12243 | [12243-atari-video-cube.json](./12243-atari-video-cube.json) |
 | Atari's Freeway for MSX-BASIC 2 | 267560 | [267560-ataris-freeway-for-msx-basic-2.json](./267560-ataris-freeway-for-msx-basic-2.json) |
+| Atari's Greatest Hits | 64079 | [64079-ataris-greatest-hits.json](./64079-ataris-greatest-hits.json) |
 | AtariAge Holiday Greetings 2006: Toyshop Trouble | 72006 | [72006-atariage-holiday-greetings-2006-toyshop-trouble.json](./72006-atariage-holiday-greetings-2006-toyshop-trouble.json) |
 | AtariAge Holiday Greetings 2007: Stella's Stocking | 76458 | [76458-atariage-holiday-greetings-2007-stellas-stocking.json](./76458-atariage-holiday-greetings-2007-stellas-stocking.json) |
 | Atax | 14274 | [14274-atax.json](./14274-atax.json) |
