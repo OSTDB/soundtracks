@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 vs. 100 | 138101 | [138101-1-vs-100.json](./138101-1-vs-100.json) |
 | 1 vs. 100 | 220070 | [220070-1-vs-100.json](./220070-1-vs-100.json) |
 | 1 vs. 100 | 74406 | [74406-1-vs-100.json](./74406-1-vs-100.json) |
+| 1-0 Soccer Manager | 92875 | [92875-1-0-soccer-manager.json](./92875-1-0-soccer-manager.json) |
 | 1-2 in Rich District | 395191 | [395191-1-2-in-rich-district.json](./395191-1-2-in-rich-district.json) |
 | 1-2-3 or 4-5-6 | 342215 | [342215-1-2-3-or-4-5-6.json](./342215-1-2-3-or-4-5-6.json) |
 | 1-2-Splendid Word Search! | 414432 | [414432-1-2-splendid-word-search.json](./414432-1-2-splendid-word-search.json) |
