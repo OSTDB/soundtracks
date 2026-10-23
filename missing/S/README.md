@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S4ge | 116461 | [116461-s4ge.json](./116461-s4ge.json) |
 | S4U: Citypunk 2011 and Love Punch | 303000 | [303000-s4u-citypunk-2011-and-love-punch.json](./303000-s4u-citypunk-2011-and-love-punch.json) |
 | S7 Mexico | 218728 | [218728-s7-mexico.json](./218728-s7-mexico.json) |
+| SA7: Silent Ability Seven | 60824 | [60824-sa7-silent-ability-seven.json](./60824-sa7-silent-ability-seven.json) |
 | Saaam | 108848 | [108848-saaam.json](./108848-saaam.json) |
 | Saadex: Perpetual Storm | 270933 | [270933-saadex-perpetual-storm.json](./270933-saadex-perpetual-storm.json) |
 | Saap2003 | 77319 | [77319-saap2003.json](./77319-saap2003.json) |
@@ -188,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sable's Grimoire: A Dragon's Treasure | 129724 | [129724-sables-grimoire-a-dragons-treasure.json](./129724-sables-grimoire-a-dragons-treasure.json) |
 | Sable's Grimoire: Man and Elf | 129725 | [129725-sables-grimoire-man-and-elf.json](./129725-sables-grimoire-man-and-elf.json) |
 | Saborus | 273995 | [273995-saborus.json](./273995-saborus.json) |
+| Sabotage 1943 | 60940 | [60940-sabotage-1943.json](./60940-sabotage-1943.json) |
 | Sabotage City | 393820 | [393820-sabotage-city.json](./393820-sabotage-city.json) |
 | Sabotage Will Set Us Free | 181376 | [181376-sabotage-will-set-us-free.json](./181376-sabotage-will-set-us-free.json) |
 | Saboten Bombers | 40417 | [40417-saboten-bombers.json](./40417-saboten-bombers.json) |
@@ -3945,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sefir: Mafia Story | 158559 | [158559-sefir-mafia-story.json](./158559-sefir-mafia-story.json) |
 | Sefton Asylum | 396937 | [396937-sefton-asylum.json](./396937-sefton-asylum.json) |
 | Sega 3D Classics Collection | 19891 | [19891-sega-3d-classics-collection.json](./19891-sega-3d-classics-collection.json) |
+| Sega 3D Fukkoku Archives | 60943 | [60943-sega-3d-fukkoku-archives.json](./60943-sega-3d-fukkoku-archives.json) |
 | Sega 3D Fukkoku Archives 1-2-3 Triple Pack | 74275 | [74275-sega-3d-fukkoku-archives-1-2-3-triple-pack.json](./74275-sega-3d-fukkoku-archives-1-2-3-triple-pack.json) |
 | Sega 3D Fukkoku Archives 1+2 Double Pack | 77639 | [77639-sega-3d-fukkoku-archives-1-2-double-pack.json](./77639-sega-3d-fukkoku-archives-1-2-double-pack.json) |
 | Sega Ages 2500 Series Vol. 33: Fantasy Zone Complete Collection | 64899 | [64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json](./64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json) |
@@ -6826,6 +6829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinshuku Taisen: It's a Noni! | 123622 | [123622-shinshuku-taisen-its-a-noni.json](./123622-shinshuku-taisen-its-a-noni.json) |
 | Shinsou Kaiten!! Wan-wan Umi Monogatari: Sanyo Pachinko Paradise DX | 351072 | [351072-shinsou-kaiten-wan-wan-umi-monogatari-sanyo-pachinko-paradise-dx.json](./351072-shinsou-kaiten-wan-wan-umi-monogatari-sanyo-pachinko-paradise-dx.json) |
 | Shinsou Seiki Elementia ~Kutsujoku no Sennou Saimin~ | 133246 | [133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json](./133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json) |
+| Shinsouban Crimson Empire: Circumstances to Serve a Noble | 60957 | [60957-shinsouban-crimson-empire-circumstances-to-serve-a-noble.json](./60957-shinsouban-crimson-empire-circumstances-to-serve-a-noble.json) |
 | Shinsouban Heart no Kuni no Alice: Wonderful Wonder World | 130009 | [130009-shinsouban-heart-no-kuni-no-alice-wonderful-wonder-world.json](./130009-shinsouban-heart-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Shinsouban Mahoutsukai to Goshujin-sama: Wizard and The Master | 60251 | [60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json](./60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json) |
 | Shinsouban Okashi na Shima no Peter Pan: Sweet Never Land | 60467 | [60467-shinsouban-okashi-na-shima-no-peter-pan-sweet-never-land.json](./60467-shinsouban-okashi-na-shima-no-peter-pan-sweet-never-land.json) |
@@ -7208,6 +7212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooter Game | 107871 | [107871-shooter-game.json](./107871-shooter-game.json) |
 | Shooter League: Robot Goal | 198312 | [198312-shooter-league-robot-goal.json](./198312-shooter-league-robot-goal.json) |
 | Shooter of the Arcana | 319948 | [319948-shooter-of-the-arcana.json](./319948-shooter-of-the-arcana.json) |
+| Shooter Thing 2 | 60863 | [60863-shooter-thing-2.json](./60863-shooter-thing-2.json) |
 | Shooter: Space Shot | 72976 | [72976-shooter-space-shot.json](./72976-shooter-space-shot.json) |
 | Shooter's Island | 187143 | [187143-shooters-island.json](./187143-shooters-island.json) |
 | Shooter95 | 375307 | [375307-shooter95.json](./375307-shooter95.json) |
@@ -9668,6 +9673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skies of Blue: Remake | 204220 | [204220-skies-of-blue-remake.json](./204220-skies-of-blue-remake.json) |
 | Skies of Chaos | 111844 | [111844-skies-of-chaos.json](./111844-skies-of-chaos.json) |
 | Skies of Glory | 62446 | [62446-skies-of-glory.json](./62446-skies-of-glory.json) |
+| Skies of Valor | 60865 | [60865-skies-of-valor.json](./60865-skies-of-valor.json) |
 | Skies Scrapper | 371030 | [371030-skies-scrapper.json](./371030-skies-scrapper.json) |
 | SkifY | 75075 | [75075-skify.json](./75075-skify.json) |
 | Skiing | 55104 | [55104-skiing.json](./55104-skiing.json) |
@@ -9710,6 +9716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skinny Girls | 259023 | [259023-skinny-girls.json](./259023-skinny-girls.json) |
 | Skins Game | 91433 | [91433-skins-game.json](./91433-skins-game.json) |
 | Skinscape | 102358 | [102358-skinscape.json](./102358-skinscape.json) |
+| Skinwalker | 60934 | [60934-skinwalker.json](./60934-skinwalker.json) |
 | Skinwalker Hunt | 130126 | [130126-skinwalker-hunt.json](./130126-skinwalker-hunt.json) |
 | Skinwalkers | 150625 | [150625-skinwalkers.json](./150625-skinwalkers.json) |
 | Skinwalkers Valley | 379339 | [379339-skinwalkers-valley.json](./379339-skinwalkers-valley.json) |
@@ -9725,6 +9732,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skipp and Friends: Unexpected Journey | 134285 | [134285-skipp-and-friends-unexpected-journey.json](./134285-skipp-and-friends-unexpected-journey.json) |
 | Skipper & Skeeto: The Shadow of Mr. Shade | 22353 | [22353-skipper-and-skeeto-the-shadow-of-mr-shade.json](./22353-skipper-and-skeeto-the-shadow-of-mr-shade.json) |
 | Skipper 2 | 395724 | [395724-skipper-2.json](./395724-skipper-2.json) |
+| Skipping Stones | 60833 | [60833-skipping-stones.json](./60833-skipping-stones.json) |
+| Skipping Stones | 60848 | [60848-skipping-stones.json](./60848-skipping-stones.json) |
 | Skippy Cat | 60999 | [60999-skippy-cat.json](./60999-skippy-cat.json) |
 | Skippy Saves the Day | 326676 | [326676-skippy-saves-the-day.json](./326676-skippy-saves-the-day.json) |
 | Skippy the Bot | 163369 | [163369-skippy-the-bot.json](./163369-skippy-the-bot.json) |
@@ -12621,6 +12630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soda Pipes | 208900 | [208900-soda-pipes.json](./208900-soda-pipes.json) |
 | Soda Sabotage | 200469 | [200469-soda-sabotage.json](./200469-soda-sabotage.json) |
 | Soda Scuffle | 290117 | [290117-soda-scuffle.json](./290117-soda-scuffle.json) |
+| Soda Shaq Basketball | 60859 | [60859-soda-shaq-basketball.json](./60859-soda-shaq-basketball.json) |
 | Soda Slinger | 418595 | [418595-soda-slinger.json](./418595-soda-slinger.json) |
 | Soda Splash | 340356 | [340356-soda-splash.json](./340356-soda-splash.json) |
 | Soda Star | 35496 | [35496-soda-star.json](./35496-soda-star.json) |
@@ -15559,6 +15569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Komandirovka | 119703 | [119703-space-komandirovka.json](./119703-space-komandirovka.json) |
 | Space Lagat | 74953 | [74953-space-lagat.json](./74953-space-lagat.json) |
 | Space Launch Engineer | 88244 | [88244-space-launch-engineer.json](./88244-space-launch-engineer.json) |
+| Space Launcher | 60875 | [60875-space-launcher.json](./60875-space-launcher.json) |
 | Space Lazors: Puzzle Saga | 257246 | [257246-space-lazors-puzzle-saga.json](./257246-space-lazors-puzzle-saga.json) |
 | Space Legends | 73342 | [73342-space-legends.json](./73342-space-legends.json) |
 | Space Legends: At the Edge of the Universe | 17948 | [17948-space-legends-at-the-edge-of-the-universe.json](./17948-space-legends-at-the-edge-of-the-universe.json) |
@@ -16323,6 +16334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speak of the Devil I: A Deathly Proposition | 277941 | [277941-speak-of-the-devil-i-a-deathly-proposition.json](./277941-speak-of-the-devil-i-a-deathly-proposition.json) |
 | Speak Out English | 90899 | [90899-speak-out-english.json](./90899-speak-out-english.json) |
 | Speakeasy | 253334 | [253334-speakeasy.json](./253334-speakeasy.json) |
+| Speakeasy | 60826 | [60826-speakeasy.json](./60826-speakeasy.json) |
 | Speakeasy Simulator | 375821 | [375821-speakeasy-simulator.json](./375821-speakeasy-simulator.json) |
 | Speakeasy: Last Call | 295668 | [295668-speakeasy-last-call.json](./295668-speakeasy-last-call.json) |
 | Speaker | 178457 | [178457-speaker.json](./178457-speaker.json) |
@@ -16664,6 +16676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedway Challenge 2025 | 346262 | [346262-speedway-challenge-2025.json](./346262-speedway-challenge-2025.json) |
 | Speedway Challenge Career | 107685 | [107685-speedway-challenge-career.json](./107685-speedway-challenge-career.json) |
 | Speedway Challenge League | 46477 | [46477-speedway-challenge-league.json](./46477-speedway-challenge-league.json) |
+| Speedway Heroes | 60951 | [60951-speedway-heroes.json](./60951-speedway-heroes.json) |
 | Speedway League | 54382 | [54382-speedway-league.json](./54382-speedway-league.json) |
 | Speedway Liga | 67675 | [67675-speedway-liga.json](./67675-speedway-liga.json) |
 | Speedway Ringer | 238627 | [238627-speedway-ringer.json](./238627-speedway-ringer.json) |
@@ -17409,6 +17422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Run: Fire vs. Ice | 17584 | [17584-spirit-run-fire-vs-ice.json](./17584-spirit-run-fire-vs-ice.json) |
 | Spirit Seasons: Little Ghost Story | 125311 | [125311-spirit-seasons-little-ghost-story.json](./125311-spirit-seasons-little-ghost-story.json) |
 | Spirit Shift | 181365 | [181365-spirit-shift.json](./181365-spirit-shift.json) |
+| Spirit Siege: Card Fantasy | 60860 | [60860-spirit-siege-card-fantasy.json](./60860-spirit-siege-card-fantasy.json) |
 | Spirit Slider | 228616 | [228616-spirit-slider.json](./228616-spirit-slider.json) |
 | Spirit Solitaire | 90511 | [90511-spirit-solitaire.json](./90511-spirit-solitaire.json) |
 | Spirit Speaker | 335854 | [335854-spirit-speaker.json](./335854-spirit-speaker.json) |
@@ -24568,6 +24582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fire Pro Wrestling | 38283 | [38283-super-fire-pro-wrestling.json](./38283-super-fire-pro-wrestling.json) |
 | Super Fire Pro Wrestling 2 | 38284 | [38284-super-fire-pro-wrestling-2.json](./38284-super-fire-pro-wrestling-2.json) |
 | Super Fire Pro Wrestling 3: Final Bout | 38285 | [38285-super-fire-pro-wrestling-3-final-bout.json](./38285-super-fire-pro-wrestling-3-final-bout.json) |
+| Super Fire Pro Wrestling III Final Bout | 60949 | [60949-super-fire-pro-wrestling-iii-final-bout.json](./60949-super-fire-pro-wrestling-iii-final-bout.json) |
 | Super Fire Pro Wrestling III: Easy Type | 38290 | [38290-super-fire-pro-wrestling-iii-easy-type.json](./38290-super-fire-pro-wrestling-iii-easy-type.json) |
 | Super Fire Pro Wrestling Special | 38286 | [38286-super-fire-pro-wrestling-special.json](./38286-super-fire-pro-wrestling-special.json) |
 | Super Fire Pro Wrestling X | 38287 | [38287-super-fire-pro-wrestling-x.json](./38287-super-fire-pro-wrestling-x.json) |
