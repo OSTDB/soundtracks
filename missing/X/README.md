@@ -876,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XxxHolic: Watanuki no Izayoi Sowa | 194567 | [194567-xxxholic-watanuki-no-izayoi-sowa.json](./194567-xxxholic-watanuki-no-izayoi-sowa.json) |
 | Xxxy | 184861 | [184861-xxxy.json](./184861-xxxy.json) |
 | XXZ | 55272 | [55272-xxz.json](./55272-xxz.json) |
+| XXZ 2 | 97177 | [97177-xxz-2.json](./97177-xxz-2.json) |
 | XXZ: XXL | 149917 | [149917-xxz-xxl.json](./149917-xxz-xxl.json) |
 | XXZ: XXL - Dead Souls | 155389 | [155389-xxz-xxl-dead-souls.json](./155389-xxz-xxl-dead-souls.json) |
 | XXZ: XXL - Dead Souls Trial | 170505 | [170505-xxz-xxl-dead-souls-trial.json](./170505-xxz-xxl-dead-souls-trial.json) |
