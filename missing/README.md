@@ -20,8 +20,8 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 | 6 | **Torchlight** | [🔎 Find on Spotify](https://open.spotify.com/search/Torchlight%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/2480-torchlight.json) |
 | 7 | **Call of Duty: Modern Warfare Remastered** | [🔎 Find on Spotify](https://open.spotify.com/search/Call%20of%20Duty%3A%20Modern%20Warfare%20Remastered%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/24920-call-of-duty-modern-warfare-remastered.json) |
 | 8 | **Heroes of Might and Magic V** | [🔎 Find on Spotify](https://open.spotify.com/search/Heroes%20of%20Might%20and%20Magic%20V%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/H/370-heroes-of-might-and-magic-v.json) |
-| 9 | **Sid Meier's Civilization** | [🔎 Find on Spotify](https://open.spotify.com/search/Sid%20Meier's%20Civilization%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/902-sid-meiers-civilization.json) |
-| 10 | **Need for Speed** | [🔎 Find on Spotify](https://open.spotify.com/search/Need%20for%20Speed%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/N/10965-need-for-speed.json) |
+| 9 | **Need for Speed** | [🔎 Find on Spotify](https://open.spotify.com/search/Need%20for%20Speed%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/N/10965-need-for-speed.json) |
+| 10 | **Sid Meier's Civilization** | [🔎 Find on Spotify](https://open.spotify.com/search/Sid%20Meier's%20Civilization%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/902-sid-meiers-civilization.json) |
 | 11 | **Europa Universalis IV** | [🔎 Find on Spotify](https://open.spotify.com/search/Europa%20Universalis%20IV%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/E/1904-europa-universalis-iv.json) |
 | 12 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
 | 13 | **Divinity: Original Sin** | [🔎 Find on Spotify](https://open.spotify.com/search/Divinity%3A%20Original%20Sin%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/5082-divinity-original-sin.json) |
@@ -67,20 +67,20 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 
 | **[A](./A/README.md)** | **[B](./B/README.md)** | **[C](./C/README.md)** | **[D](./D/README.md)** | **[E](./E/README.md)** | **[F](./F/README.md)** | **[G](./G/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 14494 games | 14617 games | 16468 games | 15288 games | 6632 games | 11186 games | 9073 games |
+| 14501 games | 14618 games | 16471 games | 15291 games | 6633 games | 11188 games | 9076 games |
 
 | **[H](./H/README.md)** | **[I](./I/README.md)** | **[J](./J/README.md)** | **[K](./K/README.md)** | **[L](./L/README.md)** | **[M](./M/README.md)** | **[N](./N/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 10213 games | 5537 games | 3419 games | 5073 games | 8124 games | 17606 games | 6253 games |
+| 10214 games | 5539 games | 3419 games | 5073 games | 8127 games | 17609 games | 6253 games |
 
 | **[O](./O/README.md)** | **[P](./P/README.md)** | **[Q](./Q/README.md)** | **[R](./R/README.md)** | **[S](./S/README.md)** | **[T](./T/README.md)** | **[U](./U/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 4732 games | 15012 games | 1059 games | 10423 games | 28738 games | 26843 games | 2970 games |
+| 4732 games | 15016 games | 1060 games | 10424 games | 28743 games | 26847 games | 2970 games |
 
 | **[V](./V/README.md)** | **[W](./W/README.md)** | **[X](./X/README.md)** | **[Y](./Y/README.md)** | **[Z](./Z/README.md)** | **[0-9](./0-9/README.md)** |
 | --- | --- | --- | --- | --- | --- |
-| 3404 games | 7617 games | 901 games | 1757 games | 2039 games | 2805 games |
+| 3405 games | 7619 games | 901 games | 1757 games | 2039 games | 2809 games |
 
 ---
 
-_252283 games missing a soundtrack · last updated 2026-10-23T18:36:18.717Z_
+_252334 games missing a soundtrack · last updated 2026-10-23T18:51:03.451Z_
