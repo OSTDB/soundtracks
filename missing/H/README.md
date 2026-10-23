@@ -1211,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Animals Bowling | 126488 | [126488-happy-animals-bowling.json](./126488-happy-animals-bowling.json) |
 | Happy Animals Mini Golf | 226328 | [226328-happy-animals-mini-golf.json](./226328-happy-animals-mini-golf.json) |
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
+| Happy Architect | 95295 | [95295-happy-architect.json](./95295-happy-architect.json) |
 | Happy Ball Rush | 391328 | [391328-happy-ball-rush.json](./391328-happy-ball-rush.json) |
 | Happy Balloons | 57368 | [57368-happy-balloons.json](./57368-happy-balloons.json) |
 | Happy Bang Express | 252707 | [252707-happy-bang-express.json](./252707-happy-bang-express.json) |
@@ -2155,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Manor HD | 91314 | [91314-haunted-manor-hd.json](./91314-haunted-manor-hd.json) |
 | Haunted Manor: Lord of Mirrors | 140029 | [140029-haunted-manor-lord-of-mirrors.json](./140029-haunted-manor-lord-of-mirrors.json) |
 | Haunted Manor: Painted Beauties | 140030 | [140030-haunted-manor-painted-beauties.json](./140030-haunted-manor-painted-beauties.json) |
+| Haunted Manor: Painted Beauties - Collector's Edition | 95241 | [95241-haunted-manor-painted-beauties-collectors-edition.json](./95241-haunted-manor-painted-beauties-collectors-edition.json) |
 | Haunted Manor: Painted Beauties HD | 100051 | [100051-haunted-manor-painted-beauties-hd.json](./100051-haunted-manor-painted-beauties-hd.json) |
 | Haunted Manor: Queen of Death | 140031 | [140031-haunted-manor-queen-of-death.json](./140031-haunted-manor-queen-of-death.json) |
 | Haunted Manor: Queen of Death - Collector's Edition | 81079 | [81079-haunted-manor-queen-of-death-collectors-edition.json](./81079-haunted-manor-queen-of-death-collectors-edition.json) |
