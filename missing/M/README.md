@@ -3629,6 +3629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martin Wort's Special Report | 112310 | [112310-martin-worts-special-report.json](./112310-martin-worts-special-report.json) |
 | Marty and the Eldritch Horror | 176964 | [176964-marty-and-the-eldritch-horror.json](./176964-marty-and-the-eldritch-horror.json) |
 | Marty McFart | 183589 | [183589-marty-mcfart.json](./183589-marty-mcfart.json) |
+| Marty Thinks 4th Dimensionally | 54807 | [54807-marty-thinks-4th-dimensionally.json](./54807-marty-thinks-4th-dimensionally.json) |
 | Marty's Funducational Tour! | 348845 | [348845-martys-funducational-tour.json](./348845-martys-funducational-tour.json) |
 | Martyr | 384148 | [384148-martyr.json](./384148-martyr.json) |
 | Martyrdom | 290520 | [290520-martyrdom.json](./290520-martyrdom.json) |
@@ -10599,6 +10600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Jim no Bassing Beat | 362809 | [362809-miracle-jim-no-bassing-beat.json](./362809-miracle-jim-no-bassing-beat.json) |
 | Miracle Journey: 3D Find Differences | 369339 | [369339-miracle-journey-3d-find-differences.json](./369339-miracle-journey-3d-find-differences.json) |
 | Miracle Merchant | 77734 | [77734-miracle-merchant.json](./77734-miracle-merchant.json) |
+| Miracle Mia | 54834 | [54834-miracle-mia.json](./54834-miracle-mia.json) |
 | Miracle Party Plus: Fushigi no Gensoukyou 2 | 206947 | [206947-miracle-party-plus-fushigi-no-gensoukyou-2.json](./206947-miracle-party-plus-fushigi-no-gensoukyou-2.json) |
 | Miracle Party: Fushigi no Gensoukyou 2 | 206936 | [206936-miracle-party-fushigi-no-gensoukyou-2.json](./206936-miracle-party-fushigi-no-gensoukyou-2.json) |
 | Miracle Ropit's Adventure in 2100 | 64685 | [64685-miracle-ropits-adventure-in-2100.json](./64685-miracle-ropits-adventure-in-2100.json) |
@@ -12891,6 +12893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters & Munitions | 16720 | [16720-monsters-and-munitions.json](./16720-monsters-and-munitions.json) |
 | Monsters and Magic | 356671 | [356671-monsters-and-magic.json](./356671-monsters-and-magic.json) |
 | Monsters and Mazes | 380178 | [380178-monsters-and-mazes.json](./380178-monsters-and-mazes.json) |
+| Monsters and Medicine | 54804 | [54804-monsters-and-medicine.json](./54804-monsters-and-medicine.json) |
 | Monsters and Sprites | 388264 | [388264-monsters-and-sprites.json](./388264-monsters-and-sprites.json) |
 | Monsters Are Coming! | 346956 | [346956-monsters-are-coming.json](./346956-monsters-are-coming.json) |
 | Monsters Are Coming!: Madness Builds | 417323 | [417323-monsters-are-coming-madness-builds.json](./417323-monsters-are-coming-madness-builds.json) |
