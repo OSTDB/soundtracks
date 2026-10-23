@@ -845,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiders of Valhalla | 238570 | [238570-raiders-of-valhalla.json](./238570-raiders-of-valhalla.json) |
 | Raiders Rise | 352365 | [352365-raiders-rise.json](./352365-raiders-rise.json) |
 | Raiders Run | 125440 | [125440-raiders-run.json](./125440-raiders-run.json) |
+| Raiders Sphere 4th | 59176 | [59176-raiders-sphere-4th.json](./59176-raiders-sphere-4th.json) |
 | Raiders5 | 40166 | [40166-raiders5.json](./40166-raiders5.json) |
 | RaidersSphere4th | 35981 | [35981-raiderssphere4th.json](./35981-raiderssphere4th.json) |
 | RaiderZ | 20883 | [20883-raiderz.json](./20883-raiderz.json) |
@@ -7427,6 +7428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock the Goat | 239615 | [239615-rock-the-goat.json](./239615-rock-the-goat.json) |
 | Rock the Islands | 310218 | [310218-rock-the-islands.json](./310218-rock-the-islands.json) |
 | Rock the Rim | 379545 | [379545-rock-the-rim.json](./379545-rock-the-rim.json) |
+| Rock Tour Tycoon | 59289 | [59289-rock-tour-tycoon.json](./59289-rock-tour-tycoon.json) |
 | Rock Tris | 229064 | [229064-rock-tris.json](./229064-rock-tris.json) |
 | Rock UFO | 267331 | [267331-rock-ufo.json](./267331-rock-ufo.json) |
 | Rock Wrecker | 207780 | [207780-rock-wrecker.json](./207780-rock-wrecker.json) |
@@ -10246,6 +10248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust 'n Dust | 165693 | [165693-rust-n-dust.json](./165693-rust-n-dust.json) |
 | Rust & Roots | 370442 | [370442-rust-and-roots.json](./370442-rust-and-roots.json) |
 | Rust and Resolve | 244213 | [244213-rust-and-resolve.json](./244213-rust-and-resolve.json) |
+| Rust Bucket | 59281 | [59281-rust-bucket.json](./59281-rust-bucket.json) |
 | Rust in Peace | 271765 | [271765-rust-in-peace.json](./271765-rust-in-peace.json) |
 | Rust Knight | 193948 | [193948-rust-knight.json](./193948-rust-knight.json) |
 | Rust Mobile | 358975 | [358975-rust-mobile.json](./358975-rust-mobile.json) |
