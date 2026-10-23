@@ -3995,6 +3995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz Hamsterz Family | 85337 | [85337-petz-hamsterz-family.json](./85337-petz-hamsterz-family.json) |
 | Petz Horseshoe Ranch | 209999 | [209999-petz-horseshoe-ranch.json](./209999-petz-horseshoe-ranch.json) |
 | Petz Horsez Family | 209998 | [209998-petz-horsez-family.json](./209998-petz-horsez-family.json) |
+| Petz Kittens | 84695 | [84695-petz-kittens.json](./84695-petz-kittens.json) |
 | Petz Monkeyz House | 47854 | [47854-petz-monkeyz-house.json](./47854-petz-monkeyz-house.json) |
 | Petz Nursery 2 | 47894 | [47894-petz-nursery-2.json](./47894-petz-nursery-2.json) |
 | Petz Pony Beauty Pageant | 68078 | [68078-petz-pony-beauty-pageant.json](./68078-petz-pony-beauty-pageant.json) |
@@ -4507,6 +4508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phonopolis | 204549 | [204549-phonopolis.json](./204549-phonopolis.json) |
 | Phoots and the Pineapple Throne | 304015 | [304015-phoots-and-the-pineapple-throne.json](./304015-phoots-and-the-pineapple-throne.json) |
 | Phos | 143971 | [143971-phos.json](./143971-phos.json) |
+| Photo Clock | 84692 | [84692-photo-clock.json](./84692-photo-clock.json) |
 | Photo Finish | 110533 | [110533-photo-finish.json](./110533-photo-finish.json) |
 | Photo Genic | 283709 | [283709-photo-genic.json](./283709-photo-genic.json) |
 | Photo Girls: First Session | 396435 | [396435-photo-girls-first-session.json](./396435-photo-girls-first-session.json) |
