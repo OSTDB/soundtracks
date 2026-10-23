@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Your Beast: Quitting Time | 418506 | [418506-i-am-your-beast-quitting-time.json](./418506-i-am-your-beast-quitting-time.json) |
 | I Am Your Beast: Support Group Update | 334704 | [334704-i-am-your-beast-support-group-update.json](./334704-i-am-your-beast-support-group-update.json) |
 | I am Your King | 181002 | [181002-i-am-your-king.json](./181002-i-am-your-king.json) |
+| I am Your President | 96471 | [96471-i-am-your-president.json](./96471-i-am-your-president.json) |
 | I am your President: Prove Yourself Scenario | 249042 | [249042-i-am-your-president-prove-yourself-scenario.json](./249042-i-am-your-president-prove-yourself-scenario.json) |
 | I Am Zombie | 266098 | [266098-i-am-zombie.json](./266098-i-am-zombie.json) |
 | I Am: A Story of Awakenings | 154993 | [154993-i-am-a-story-of-awakenings.json](./154993-i-am-a-story-of-awakenings.json) |
