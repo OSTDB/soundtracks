@@ -3547,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Government | 110178 | [110178-secret-government.json](./110178-secret-government.json) |
 | Secret Habitat | 56176 | [56176-secret-habitat.json](./56176-secret-habitat.json) |
 | Secret HavEat | 352209 | [352209-secret-haveat.json](./352209-secret-haveat.json) |
+| Secret High School 8: 100 Years Love Story Diaries | 95807 | [95807-secret-high-school-8-100-years-love-story-diaries.json](./95807-secret-high-school-8-100-years-love-story-diaries.json) |
 | Secret House | 133224 | [133224-secret-house.json](./133224-secret-house.json) |
 | Secret in Flower | 395578 | [395578-secret-in-flower.json](./395578-secret-in-flower.json) |
 | Secret Journeys: Cities of the World | 84901 | [84901-secret-journeys-cities-of-the-world.json](./84901-secret-journeys-cities-of-the-world.json) |
@@ -9931,6 +9932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyblazor | 183766 | [183766-skyblazor.json](./183766-skyblazor.json) |
 | Skyblivion | 301423 | [301423-skyblivion.json](./301423-skyblivion.json) |
 | Skyblock Chaos | 301347 | [301347-skyblock-chaos.json](./301347-skyblock-chaos.json) |
+| Skyblock Hunter Survival Games | 95791 | [95791-skyblock-hunter-survival-games.json](./95791-skyblock-hunter-survival-games.json) |
 | Skyblock Infinite | 380725 | [380725-skyblock-infinite.json](./380725-skyblock-infinite.json) |
 | Skyblocker | 340388 | [340388-skyblocker.json](./340388-skyblocker.json) |
 | SkyBoats | 31832 | [31832-skyboats.json](./31832-skyboats.json) |
@@ -16350,6 +16352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Car Fighter 3D 2015 | 100115 | [100115-speed-car-fighter-3d-2015.json](./100115-speed-car-fighter-3d-2015.json) |
 | Speed Car Racing Offline Game | 296772 | [296772-speed-car-racing-offline-game.json](./296772-speed-car-racing-offline-game.json) |
 | Speed Challenge: Jacques Villeneuve's Racing Vision | 4162 | [4162-speed-challenge-jacques-villeneuves-racing-vision.json](./4162-speed-challenge-jacques-villeneuves-racing-vision.json) |
+| Speed Chasing | 95812 | [95812-speed-chasing.json](./95812-speed-chasing.json) |
 | Speed Climb | 329014 | [329014-speed-climb.json](./329014-speed-climb.json) |
 | Speed Coin | 175626 | [175626-speed-coin.json](./175626-speed-coin.json) |
 | Speed Crew | 243216 | [243216-speed-crew.json](./243216-speed-crew.json) |
@@ -21745,6 +21748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Blade: Valley of Strays | 276825 | [276825-stray-blade-valley-of-strays.json](./276825-stray-blade-valley-of-strays.json) |
 | Stray Cat | 220508 | [220508-stray-cat.json](./220508-stray-cat.json) |
 | Stray Cat Crossing | 21641 | [21641-stray-cat-crossing.json](./21641-stray-cat-crossing.json) |
+| Stray Cat Doors | 95811 | [95811-stray-cat-doors.json](./95811-stray-cat-doors.json) |
 | Stray Cats in Cozy Town: Night Lights | 312994 | [312994-stray-cats-in-cozy-town-night-lights.json](./312994-stray-cats-in-cozy-town-night-lights.json) |
 | Stray Children | 266692 | [266692-stray-children.json](./266692-stray-children.json) |
 | Stray Dog: Nobody Cares | 414475 | [414475-stray-dog-nobody-cares.json](./414475-stray-dog-nobody-cares.json) |
