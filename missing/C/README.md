@@ -1710,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Tycoon | 362291 | [362291-car-tycoon.json](./362291-car-tycoon.json) |
 | Car vs Bike Racing | 104717 | [104717-car-vs-bike-racing.json](./104717-car-vs-bike-racing.json) |
 | Car vs. Cops | 90288 | [90288-car-vs-cops.json](./90288-car-vs-cops.json) |
+| Car War | 76388 | [76388-car-war.json](./76388-car-war.json) |
 | Car War Legends | 219223 | [219223-car-war-legends.json](./219223-car-war-legends.json) |
 | Car Wars | 42214 | [42214-car-wars.json](./42214-car-wars.json) |
 | Car Wash | 295261 | [295261-car-wash.json](./295261-car-wash.json) |
@@ -14740,6 +14741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystals of Amalgam | 183023 | [183023-crystals-of-amalgam.json](./183023-crystals-of-amalgam.json) |
 | Crystals of Carus | 13834 | [13834-crystals-of-carus.json](./13834-crystals-of-carus.json) |
 | Crystals of Irm | 177742 | [177742-crystals-of-irm.json](./177742-crystals-of-irm.json) |
+| Crystals of Niberium | 76361 | [76361-crystals-of-niberium.json](./76361-crystals-of-niberium.json) |
 | Crystalverse | 25796 | [25796-crystalverse.json](./25796-crystalverse.json) |
 | Crystalyn | 406900 | [406900-crystalyn.json](./406900-crystalyn.json) |
 | Crystant | 392154 | [392154-crystant.json](./392154-crystant.json) |
@@ -16322,6 +16324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cynthia: Hidden in the Moonshadow - Xmas Edition | 331269 | [331269-cynthia-hidden-in-the-moonshadow-xmas-edition.json](./331269-cynthia-hidden-in-the-moonshadow-xmas-edition.json) |
 | CYOM | 341643 | [341643-cyom.json](./341643-cyom.json) |
 | Cyoube | 302346 | [302346-cyoube.json](./302346-cyoube.json) |
+| Cypest | 76418 | [76418-cypest.json](./76418-cypest.json) |
 | Cypest Underground | 111734 | [111734-cypest-underground.json](./111734-cypest-underground.json) |
 | Cyphen | 339361 | [339361-cyphen.json](./339361-cyphen.json) |
 | Cypher | 86479 | [86479-cypher.json](./86479-cypher.json) |
