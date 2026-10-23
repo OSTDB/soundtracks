@@ -6771,6 +6771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Connect | 268992 | [268992-love-connect.json](./268992-love-connect.json) |
 | Love Connection! | 242789 | [242789-love-connection.json](./242789-love-connection.json) |
 | Love Cooking at Home? Turn your Hobby into a Business! | 156122 | [156122-love-cooking-at-home-turn-your-hobby-into-a-business.json](./156122-love-cooking-at-home-turn-your-hobby-into-a-business.json) |
+| Love Cubed AR | 96572 | [96572-love-cubed-ar.json](./96572-love-cubed-ar.json) |
 | Love Cupid | 199995 | [199995-love-cupid.json](./199995-love-cupid.json) |
 | Love Curse: Find Your Soulmate | 310714 | [310714-love-curse-find-your-soulmate.json](./310714-love-curse-find-your-soulmate.json) |
 | Love D3ath Love | 412296 | [412296-love-d3ath-love.json](./412296-love-d3ath-love.json) |
