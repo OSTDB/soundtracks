@@ -1111,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangman | 329790 | [329790-hangman.json](./329790-hangman.json) |
 | Hangman | 377831 | [377831-hangman.json](./377831-hangman.json) |
 | Hangman | 388282 | [388282-hangman.json](./388282-hangman.json) |
+| Hangman | 74168 | [74168-hangman.json](./74168-hangman.json) |
 | Hangman 2 | 181652 | [181652-hangman-2.json](./181652-hangman-2.json) |
 | Hangman for Windows | 83452 | [83452-hangman-for-windows.json](./83452-hangman-for-windows.json) |
 | Hangman Hijinks | 366435 | [366435-hangman-hijinks.json](./366435-hangman-hijinks.json) |
@@ -6865,6 +6866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokusai | 106540 | [106540-hokusai.json](./106540-hokusai.json) |
 | Hokuto no Ken | 100267 | [100267-hokuto-no-ken.json](./100267-hokuto-no-ken.json) |
 | Hokuto no Ken | 46115 | [46115-hokuto-no-ken.json](./46115-hokuto-no-ken.json) |
+| Hokuto no Ken | 74157 | [74157-hokuto-no-ken.json](./74157-hokuto-no-ken.json) |
 | Hokuto no Ken 5: Tenma Ryuusei-den Ai Zesshou | 42552 | [42552-hokuto-no-ken-5-tenma-ryuusei-den-ai-zesshou.json](./42552-hokuto-no-ken-5-tenma-ryuusei-den-ai-zesshou.json) |
 | Hokuto no Ken 6: Gekitou Denshouken - Haou he no Michi | 38264 | [38264-hokuto-no-ken-6-gekitou-denshouken-haou-he-no-michi.json](./38264-hokuto-no-ken-6-gekitou-denshouken-haou-he-no-michi.json) |
 | Hokuto no Ken 7: Seiken Retsuden Denshousha he no Michi | 38337 | [38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json](./38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json) |
