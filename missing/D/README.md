@@ -2010,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dataminer | 183876 | [183876-dataminer.json](./183876-dataminer.json) |
 | Datascape | 96128 | [96128-datascape.json](./96128-datascape.json) |
 | Datasight | 220005 | [220005-datasight.json](./220005-datasight.json) |
+| Datastorm | 73131 | [73131-datastorm.json](./73131-datastorm.json) |
 | Datbyel's Nebula | 309744 | [309744-datbyels-nebula.json](./309744-datbyels-nebula.json) |
 | Date A Live | 193790 | [193790-date-a-live.json](./193790-date-a-live.json) |
 | Date A Live: Arusu Install - Limited Edition | 86225 | [86225-date-a-live-arusu-install-limited-edition.json](./86225-date-a-live-arusu-install-limited-edition.json) |
@@ -12433,6 +12434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Drifters | 151625 | [151625-dream-drifters.json](./151625-dream-drifters.json) |
 | Dream Eater | 374056 | [374056-dream-eater.json](./374056-dream-eater.json) |
 | Dream Eater | 410960 | [410960-dream-eater.json](./410960-dream-eater.json) |
+| Dream Eater | 73096 | [73096-dream-eater.json](./73096-dream-eater.json) |
 | Dream Eater Ep.1 | 118096 | [118096-dream-eater-ep-1.json](./118096-dream-eater-ep-1.json) |
 | Dream Eaters.exe | 344353 | [344353-dream-eaters-exe.json](./344353-dream-eaters-exe.json) |
 | Dream Enders | 114878 | [114878-dream-enders.json](./114878-dream-enders.json) |
