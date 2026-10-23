@@ -3975,6 +3975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Toe Stubber | 307676 | [307676-international-toe-stubber.json](./307676-international-toe-stubber.json) |
 | International Track & Field | 20406 | [20406-international-track-and-field.json](./20406-international-track-and-field.json) |
 | International Track & Field 2000 | 3517 | [3517-international-track-and-field-2000.json](./3517-international-track-and-field-2000.json) |
+| International Truck Racing | 71346 | [71346-international-truck-racing.json](./71346-international-truck-racing.json) |
 | International Volleyball 2004 | 204700 | [204700-international-volleyball-2004.json](./204700-international-volleyball-2004.json) |
 | International Volleyball 2009 | 24758 | [24758-international-volleyball-2009.json](./24758-international-volleyball-2009.json) |
 | International Wrestling Simulator 2018 | 112188 | [112188-international-wrestling-simulator-2018.json](./112188-international-wrestling-simulator-2018.json) |
