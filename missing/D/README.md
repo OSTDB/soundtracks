@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Pad Hero | 163218 | [163218-d-pad-hero.json](./163218-d-pad-hero.json) |
 | D-Pad Hero 2 | 48649 | [48649-d-pad-hero-2.json](./48649-d-pad-hero-2.json) |
 | D-Paddle vs. Crankquet | 232463 | [232463-d-paddle-vs-crankquet.json](./232463-d-paddle-vs-crankquet.json) |
+| D-Prince A | 97723 | [97723-d-prince-a.json](./97723-d-prince-a.json) |
 | D-Return | 92112 | [92112-d-return.json](./92112-d-return.json) |
 | D-Star's | 130793 | [130793-d-stars.json](./130793-d-stars.json) |
 | D-Virus: Devilnitive Edition | 259847 | [259847-d-virus-devilnitive-edition.json](./259847-d-virus-devilnitive-edition.json) |
@@ -1700,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Road | 262206 | [262206-darkness-road.json](./262206-darkness-road.json) |
 | Darkness Rollercoaster: Ultimate Shooter Edition | 118682 | [118682-darkness-rollercoaster-ultimate-shooter-edition.json](./118682-darkness-rollercoaster-ultimate-shooter-edition.json) |
 | Darkness Shooter | 164225 | [164225-darkness-shooter.json](./164225-darkness-shooter.json) |
+| Darkness Suppressor: Onna Taimashi no Inbu | 97748 | [97748-darkness-suppressor-onna-taimashi-no-inbu.json](./97748-darkness-suppressor-onna-taimashi-no-inbu.json) |
 | Darkness Trap: Purify Old Sins | 134440 | [134440-darkness-trap-purify-old-sins.json](./134440-darkness-trap-purify-old-sins.json) |
 | Darkness Within 2: The Dark Lineage - Director's Cut Edition | 36298 | [36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json](./36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json) |
 | Darknet | 20018 | [20018-darknet.json](./20018-darknet.json) |
