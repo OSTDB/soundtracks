@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok: Back to Glory | 338348 | [338348-ragnarok-back-to-glory.json](./338348-ragnarok-back-to-glory.json) |
 | Ragnarok: Fallen Legends | 227932 | [227932-ragnarok-fallen-legends.json](./227932-ragnarok-fallen-legends.json) |
 | Ragnarok: Labyrinth | 197375 | [197375-ragnarok-labyrinth.json](./197375-ragnarok-labyrinth.json) |
+| Ragnarok: Path of Heroes | 60855 | [60855-ragnarok-path-of-heroes.json](./60855-ragnarok-path-of-heroes.json) |
 | Ragnarok: The Lost Memories | 175719 | [175719-ragnarok-the-lost-memories.json](./175719-ragnarok-the-lost-memories.json) |
 | Ragnarok: The New World | 364821 | [364821-ragnarok-the-new-world.json](./364821-ragnarok-the-new-world.json) |
 | Ragnarok: War of Gods | 323174 | [323174-ragnarok-war-of-gods.json](./323174-ragnarok-war-of-gods.json) |
@@ -6907,6 +6908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robert: Space Stories and Battles | 190064 | [190064-robert-space-stories-and-battles.json](./190064-robert-space-stories-and-battles.json) |
 | Robertinho Adventures | 390179 | [390179-robertinho-adventures.json](./390179-robertinho-adventures.json) |
 | Roberto el Lagarto | 302618 | [302618-roberto-el-lagarto.json](./302618-roberto-el-lagarto.json) |
+| Roberto Selavino's Putting Championship | 60853 | [60853-roberto-selavinos-putting-championship.json](./60853-roberto-selavinos-putting-championship.json) |
 | Robes | 176343 | [176343-robes.json](./176343-robes.json) |
 | Robfather World | 268350 | [268350-robfather-world.json](./268350-robfather-world.json) |
 | Robicon | 373764 | [373764-robicon.json](./373764-robicon.json) |
@@ -8863,6 +8865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose of Longevity | 326822 | [326822-rose-of-longevity.json](./326822-rose-of-longevity.json) |
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
 | Rose Puzzle | 91097 | [91097-rose-puzzle.json](./91097-rose-puzzle.json) |
+| Rose Racer | 60946 | [60946-rose-racer.json](./60946-rose-racer.json) |
 | Rose Riddle 2: Werewolf Shadow | 127619 | [127619-rose-riddle-2-werewolf-shadow.json](./127619-rose-riddle-2-werewolf-shadow.json) |
 | Rose Riddle: Fairy Tale Detective | 121975 | [121975-rose-riddle-fairy-tale-detective.json](./121975-rose-riddle-fairy-tale-detective.json) |
 | Rose Riddle: Fairy Tale Detective - Collector's Edition | 343359 | [343359-rose-riddle-fairy-tale-detective-collectors-edition.json](./343359-rose-riddle-fairy-tale-detective-collectors-edition.json) |
