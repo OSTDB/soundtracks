@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J. J. Squawkers | 40193 | [40193-j-j-squawkers.json](./40193-j-j-squawkers.json) |
 | J. Lo: Fur Bully from the Block | 257407 | [257407-j-lo-fur-bully-from-the-block.json](./257407-j-lo-fur-bully-from-the-block.json) |
 | J.A.O.S.S | 83920 | [83920-j-a-o-s-s.json](./83920-j-a-o-s-s.json) |
+| J.B. Harold 3: D.C. Connection | 74890 | [74890-j-b-harold-3-d-c-connection.json](./74890-j-b-harold-3-d-c-connection.json) |
 | J.B. Harold no Jikenbo: Kiss of Murder | 79622 | [79622-j-b-harold-no-jikenbo-kiss-of-murder.json](./79622-j-b-harold-no-jikenbo-kiss-of-murder.json) |
 | J.B. Harold no Jikenbo: Murder Club | 320845 | [320845-j-b-harold-no-jikenbo-murder-club.json](./320845-j-b-harold-no-jikenbo-murder-club.json) |
 | J.B. Harold Series #2: Manhattan Requiem - Angels Flying in the Dark | 62588 | [62588-j-b-harold-series-2-manhattan-requiem-angels-flying-in-the-dark.json](./62588-j-b-harold-series-2-manhattan-requiem-angels-flying-in-the-dark.json) |
@@ -136,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Nicklaus Golf | 49040 | [49040-jack-nicklaus-golf.json](./49040-jack-nicklaus-golf.json) |
 | Jack Nicklaus Online Golf Tour | 62272 | [62272-jack-nicklaus-online-golf-tour.json](./62272-jack-nicklaus-online-golf-tour.json) |
 | Jack Nicklaus Perfect Golf | 36378 | [36378-jack-nicklaus-perfect-golf.json](./36378-jack-nicklaus-perfect-golf.json) |
+| Jack Nicklaus presents The Major Championship Courses of 1989 | 74888 | [74888-jack-nicklaus-presents-the-major-championship-courses-of-1989.json](./74888-jack-nicklaus-presents-the-major-championship-courses-of-1989.json) |
 | Jack Nicklaus' Greatest 18 Holes of Major Championship Golf | 18101 | [18101-jack-nicklaus-greatest-18-holes-of-major-championship-golf.json](./18101-jack-nicklaus-greatest-18-holes-of-major-championship-golf.json) |
 | Jack Nicklaus' Power Challenge Golf | 46532 | [46532-jack-nicklaus-power-challenge-golf.json](./46532-jack-nicklaus-power-challenge-golf.json) |
 | Jack Nicklaus' Unlimited Golf & Course Design | 72175 | [72175-jack-nicklaus-unlimited-golf-and-course-design.json](./72175-jack-nicklaus-unlimited-golf-and-course-design.json) |
