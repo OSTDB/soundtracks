@@ -2712,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles II: The Arcade Game | 3816 | [3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json](./3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json) |
 | Teenage Mutant Ninja Turtles III: The Manhattan Project | 14731 | [14731-teenage-mutant-ninja-turtles-iii-the-manhattan-project.json](./14731-teenage-mutant-ninja-turtles-iii-the-manhattan-project.json) |
 | Teenage Mutant Ninja Turtles IV: Turtles in Time | 14697 | [14697-teenage-mutant-ninja-turtles-iv-turtles-in-time.json](./14697-teenage-mutant-ninja-turtles-iv-turtles-in-time.json) |
+| Teenage Mutant Ninja Turtles Legends | 58568 | [58568-teenage-mutant-ninja-turtles-legends.json](./58568-teenage-mutant-ninja-turtles-legends.json) |
 | Teenage Mutant Ninja Turtles of Rage | 314988 | [314988-teenage-mutant-ninja-turtles-of-rage.json](./314988-teenage-mutant-ninja-turtles-of-rage.json) |
 | Teenage Mutant Ninja Turtles SNES | 377744 | [377744-teenage-mutant-ninja-turtles-snes.json](./377744-teenage-mutant-ninja-turtles-snes.json) |
 | Teenage Mutant Ninja Turtles x Hello Kitty and Friends | 362718 | [362718-teenage-mutant-ninja-turtles-x-hello-kitty-and-friends.json](./362718-teenage-mutant-ninja-turtles-x-hello-kitty-and-friends.json) |
@@ -3556,7 +3557,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Battle | 20060 | [20060-terra-battle.json](./20060-terra-battle.json) |
 | Terra Centauri: Last Stand | 184815 | [184815-terra-centauri-last-stand.json](./184815-terra-centauri-last-stand.json) |
 | Terra Cognita | 29037 | [29037-terra-cognita.json](./29037-terra-cognita.json) |
+| Terra Cresta 3D | 58549 | [58549-terra-cresta-3d.json](./58549-terra-cresta-3d.json) |
 | Terra Cresta II | 37728 | [37728-terra-cresta-ii.json](./37728-terra-cresta-ii.json) |
+| Terra Cresta II: Mandler no Gyakushuu | 58548 | [58548-terra-cresta-ii-mandler-no-gyakushuu.json](./58548-terra-cresta-ii-mandler-no-gyakushuu.json) |
 | Terra Dentium | 336589 | [336589-terra-dentium.json](./336589-terra-dentium.json) |
 | Terra Division | 390608 | [390608-terra-division.json](./390608-terra-division.json) |
 | Terra Earth | 145398 | [145398-terra-earth.json](./145398-terra-earth.json) |
@@ -18827,6 +18830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Room Stories: Pure Escape | 154306 | [154306-tiny-room-stories-pure-escape.json](./154306-tiny-room-stories-pure-escape.json) |
 | Tiny Room Stories: Town Mystery | 122907 | [122907-tiny-room-stories-town-mystery.json](./122907-tiny-room-stories-town-mystery.json) |
 | Tiny RTS | 421831 | [421831-tiny-rts.json](./421831-tiny-rts.json) |
+| Tiny Sea Adventure | 58557 | [58557-tiny-sea-adventure.json](./58557-tiny-sea-adventure.json) |
 | Tiny Shadows Interwoven Hearts | 374078 | [374078-tiny-shadows-interwoven-hearts.json](./374078-tiny-shadows-interwoven-hearts.json) |
 | Tiny Sheep: Pet Sim on a Farm | 232342 | [232342-tiny-sheep-pet-sim-on-a-farm.json](./232342-tiny-sheep-pet-sim-on-a-farm.json) |
 | Tiny Shop | 297576 | [297576-tiny-shop.json](./297576-tiny-shop.json) |
@@ -18903,6 +18907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Treasure Hunt DX | 308631 | [308631-tiny-treasure-hunt-dx.json](./308631-tiny-treasure-hunt-dx.json) |
 | Tiny Tree Talk | 383977 | [383977-tiny-tree-talk.json](./383977-tiny-tree-talk.json) |
 | Tiny Troopers | 11619 | [11619-tiny-troopers.json](./11619-tiny-troopers.json) |
+| Tiny Troopers 2: Special Ops | 58546 | [58546-tiny-troopers-2-special-ops.json](./58546-tiny-troopers-2-special-ops.json) |
 | Tiny Troopers Joint Ops XL | 85443 | [85443-tiny-troopers-joint-ops-xl.json](./85443-tiny-troopers-joint-ops-xl.json) |
 | Tiny Troopers Joint Ops: Zombie Edition | 201818 | [201818-tiny-troopers-joint-ops-zombie-edition.json](./201818-tiny-troopers-joint-ops-zombie-edition.json) |
 | Tiny Troopers: Global Ops - Digital Deluxe Bundle | 242677 | [242677-tiny-troopers-global-ops-digital-deluxe-bundle.json](./242677-tiny-troopers-global-ops-digital-deluxe-bundle.json) |
@@ -19390,6 +19395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobe's Hookshot Escape | 248880 | [248880-tobes-hookshot-escape.json](./248880-tobes-hookshot-escape.json) |
 | Tobe's Vertical Adventure | 249141 | [249141-tobes-vertical-adventure.json](./249141-tobes-vertical-adventure.json) |
 | Toberu yo! Honoka-chan | 405509 | [405509-toberu-yo-honoka-chan.json](./405509-toberu-yo-honoka-chan.json) |
+| Tobeyo!! Dragon! | 59111 | [59111-tobeyo-dragon.json](./59111-tobeyo-dragon.json) |
 | Tobi D+Vine | 265024 | [265024-tobi-d-vine.json](./265024-tobi-d-vine.json) |
 | Tobi Topples Tyranny | 236343 | [236343-tobi-topples-tyranny.json](./236343-tobi-topples-tyranny.json) |
 | Tobi Tsukihime | 169159 | [169159-tobi-tsukihime.json](./169159-tobi-tsukihime.json) |
@@ -24109,6 +24115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traveler's Tavern | 264539 | [264539-travelers-tavern.json](./264539-travelers-tavern.json) |
 | Travelers and Tales | 225495 | [225495-travelers-and-tales.json](./225495-travelers-and-tales.json) |
 | Travelers in Space Crack | 193424 | [193424-travelers-in-space-crack.json](./193424-travelers-in-space-crack.json) |
+| Traveling Merchant | 58521 | [58521-traveling-merchant.json](./58521-traveling-merchant.json) |
 | Traveller's Hymn | 319560 | [319560-travellers-hymn.json](./319560-travellers-hymn.json) |
 | Travellers | 172033 | [172033-travellers.json](./172033-travellers.json) |
 | Travellers Rest | 121967 | [121967-travellers-rest.json](./121967-travellers-rest.json) |
@@ -25042,6 +25049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron: Deadly Discs | 5710 | [5710-tron-deadly-discs.json](./5710-tron-deadly-discs.json) |
 | Tron: Evolution | 7220 | [7220-tron-evolution.json](./7220-tron-evolution.json) |
 | Tron: Identity | 216277 | [216277-tron-identity.json](./216277-tron-identity.json) |
+| Tron: Journey to the MCP | 58564 | [58564-tron-journey-to-the-mcp.json](./58564-tron-journey-to-the-mcp.json) |
 | Tron: Solar Sailer | 5698 | [5698-tron-solar-sailer.json](./5698-tron-solar-sailer.json) |
 | Tronic | 73163 | [73163-tronic.json](./73163-tronic.json) |
 | Tronika | 58147 | [58147-tronika.json](./58147-tronika.json) |
