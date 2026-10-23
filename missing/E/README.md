@@ -2653,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empyrion: Galactic Survival - Dark Faction | 294938 | [294938-empyrion-galactic-survival-dark-faction.json](./294938-empyrion-galactic-survival-dark-faction.json) |
 | Emre and Jevon's Tale of Knowledge, Emulating a Dream Where You Gain Wisdom and Knowledge and Probably Meet Hermes | 323301 | [323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json](./323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json) |
 | Emross War | 343482 | [343482-emross-war.json](./343482-emross-war.json) |
+| Emüd | 60842 | [60842-emud.json](./60842-emud.json) |
 | EmuDevz | 386285 | [386285-emudevz.json](./386285-emudevz.json) |
 | Emurinoo | 139149 | [139149-emurinoo.json](./139149-emurinoo.json) |
 | Emuurom | 135002 | [135002-emuurom.json](./135002-emuurom.json) |
@@ -4727,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Damnation | 66350 | [66350-eternal-damnation.json](./66350-eternal-damnation.json) |
 | Eternal Dark Winter | 370859 | [370859-eternal-dark-winter.json](./370859-eternal-dark-winter.json) |
 | Eternal Decay Souls | 387493 | [387493-eternal-decay-souls.json](./387493-eternal-decay-souls.json) |
+| Eternal Descent: Heavy Metal Heroes | 60849 | [60849-eternal-descent-heavy-metal-heroes.json](./60849-eternal-descent-heavy-metal-heroes.json) |
 | Eternal Destinies | 88056 | [88056-eternal-destinies.json](./88056-eternal-destinies.json) |
 | Eternal Destiny | 251215 | [251215-eternal-destiny.json](./251215-eternal-destiny.json) |
 | Eternal Diary | 212860 | [212860-eternal-diary.json](./212860-eternal-diary.json) |
