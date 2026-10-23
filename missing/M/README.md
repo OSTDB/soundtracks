@@ -3267,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Superstar Baseball Fantasy League | 342262 | [342262-mario-superstar-baseball-fantasy-league.json](./342262-mario-superstar-baseball-fantasy-league.json) |
 | Mario Takes a Three | 318556 | [318556-mario-takes-a-three.json](./318556-mario-takes-a-three.json) |
 | Mario Takes America | 175956 | [175956-mario-takes-america.json](./175956-mario-takes-america.json) |
+| Mario Teaches Typing | 50335 | [50335-mario-teaches-typing.json](./50335-mario-teaches-typing.json) |
 | Mario Teaches Typing 2 | 46445 | [46445-mario-teaches-typing-2.json](./46445-mario-teaches-typing-2.json) |
 | Mario Tennis | 344924 | [344924-mario-tennis.json](./344924-mario-tennis.json) |
 | Mario Tennis Fever | 366880 | [366880-mario-tennis-fever.json](./366880-mario-tennis-fever.json) |
