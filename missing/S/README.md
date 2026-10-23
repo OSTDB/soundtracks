@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred | 330355 | [330355-sacred.json](./330355-sacred.json) |
 | Sacred 2 Gold | 28234 | [28234-sacred-2-gold.json](./28234-sacred-2-gold.json) |
 | Sacred 2: Fallen Angel | 1043 | [1043-sacred-2-fallen-angel.json](./1043-sacred-2-fallen-angel.json) |
+| Sacred 2: Fallen Angel - Collector's Edition | 50329 | [50329-sacred-2-fallen-angel-collectors-edition.json](./50329-sacred-2-fallen-angel-collectors-edition.json) |
 | Sacred 2: Ice and Blood | 8891 | [8891-sacred-2-ice-and-blood.json](./8891-sacred-2-ice-and-blood.json) |
 | Sacred 3 | 5615 | [5615-sacred-3.json](./5615-sacred-3.json) |
 | Sacred 3: First Edition | 51287 | [51287-sacred-3-first-edition.json](./51287-sacred-3-first-edition.json) |
@@ -4198,6 +4199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sel Quinta: The Six City Quest | 192239 | [192239-sel-quinta-the-six-city-quest.json](./192239-sel-quinta-the-six-city-quest.json) |
 | Selatria | 166217 | [166217-selatria.json](./166217-selatria.json) |
 | Selatria: Advent of the Dakk'rian Empire | 29774 | [29774-selatria-advent-of-the-dakkrian-empire.json](./29774-selatria-advent-of-the-dakkrian-empire.json) |
+| Seldon Crisis | 50331 | [50331-seldon-crisis.json](./50331-seldon-crisis.json) |
 | Select Eleven | 410427 | [410427-select-eleven.json](./410427-select-eleven.json) |
 | Select Oblige | 321778 | [321778-select-oblige.json](./321778-select-oblige.json) |
 | Select Quiz | 386283 | [386283-select-quiz.json](./386283-select-quiz.json) |
@@ -25729,6 +25731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mr. Kake | 55480 | [55480-super-mr-kake.json](./55480-super-mr-kake.json) |
 | Super Mu | 269202 | [269202-super-mu.json](./269202-super-mu.json) |
 | Super Mumtaz Bros. | 183613 | [183613-super-mumtaz-bros.json](./183613-super-mumtaz-bros.json) |
+| Super Munchers | 50336 | [50336-super-munchers.json](./50336-super-munchers.json) |
 | Super Munchers: The Challenge Continues... | 70478 | [70478-super-munchers-the-challenge-continues.json](./70478-super-munchers-the-challenge-continues.json) |
 | Super Muscle Mario Bros | 323808 | [323808-super-muscle-mario-bros.json](./323808-super-muscle-mario-bros.json) |
 | Super Mustache | 24616 | [24616-super-mustache.json](./24616-super-mustache.json) |
