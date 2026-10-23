@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | '94 Super World Cup Chuggu | 130825 | [130825-94-super-world-cup-chuggu.json](./130825-94-super-world-cup-chuggu.json) |
 | '96 Flag Rally | 249090 | [249090-96-flag-rally.json](./249090-96-flag-rally.json) |
 | '98 Year Koushien | 58510 | [58510-98-year-koushien.json](./58510-98-year-koushien.json) |
+| '99 Koushien | 58516 | [58516-99-koushien.json](./58516-99-koushien.json) |
 | 'Allo 'Allo! Cartoon Fun! | 14249 | [14249-allo-allo-cartoon-fun.json](./14249-allo-allo-cartoon-fun.json) |
 | 'Dillos | 79665 | [79665-dillos.json](./79665-dillos.json) |
 | 'Er*Bert | 98236 | [98236-er-bert.json](./98236-er-bert.json) |
