@@ -6812,6 +6812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memo Raise: Memory Game | 232307 | [232307-memo-raise-memory-game.json](./232307-memo-raise-memory-game.json) |
 | Memo to the Underlord | 364374 | [364374-memo-to-the-underlord.json](./364374-memo-to-the-underlord.json) |
 | Memocratie | 322636 | [322636-memocratie.json](./322636-memocratie.json) |
+| Memoir | 97173 | [97173-memoir.json](./97173-memoir.json) |
 | Memoir '44 Online | 28724 | [28724-memoir-44-online.json](./28724-memoir-44-online.json) |
 | Memoir En Code | 18990 | [18990-memoir-en-code.json](./18990-memoir-en-code.json) |
 | Mémoire 0079 | 257276 | [257276-memoire-0079.json](./257276-memoire-0079.json) |
@@ -13217,6 +13218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mordheim: Warband Skirmish | 34295 | [34295-mordheim-warband-skirmish.json](./34295-mordheim-warband-skirmish.json) |
 | Mordon's Quest | 13018 | [13018-mordons-quest.json](./13018-mordons-quest.json) |
 | Mordor | 229109 | [229109-mordor.json](./229109-mordor.json) |
+| Mordred | 97172 | [97172-mordred.json](./97172-mordred.json) |
 | More and More | 113057 | [113057-more-and-more.json](./113057-more-and-more.json) |
 | More Bloons | 261910 | [261910-more-bloons.json](./261910-more-bloons.json) |
 | More Brain Exercise | 66419 | [66419-more-brain-exercise.json](./66419-more-brain-exercise.json) |
@@ -15764,6 +15766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cozy Room | 328507 | [328507-my-cozy-room.json](./328507-my-cozy-room.json) |
 | My Cozy Room: Cottagecore | 350862 | [350862-my-cozy-room-cottagecore.json](./350862-my-cozy-room-cottagecore.json) |
 | My Cozy Workspace | 403746 | [403746-my-cozy-workspace.json](./403746-my-cozy-workspace.json) |
+| My Craft : Creative & Survival | 97166 | [97166-my-craft-creative-and-survival.json](./97166-my-craft-creative-and-survival.json) |
 | My Craft: Block Edition | 102849 | [102849-my-craft-block-edition.json](./102849-my-craft-block-edition.json) |
 | My Crazy High School Romcom | 205894 | [205894-my-crazy-high-school-romcom.json](./205894-my-crazy-high-school-romcom.json) |
 | My Crazy New Fake Love Life | 277189 | [277189-my-crazy-new-fake-love-life.json](./277189-my-crazy-new-fake-love-life.json) |
