@@ -2544,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ookibloks | 34516 | [34516-ookibloks.json](./34516-ookibloks.json) |
 | Ookiku Furikabutte: Honto no Ace ni Nareru Kamo | 61431 | [61431-ookiku-furikabutte-honto-no-ace-ni-nareru-kamo.json](./61431-ookiku-furikabutte-honto-no-ace-ni-nareru-kamo.json) |
 | Ookouchi Gengorou Ikka | 247528 | [247528-ookouchi-gengorou-ikka.json](./247528-ookouchi-gengorou-ikka.json) |
+| Ookujira - Giant Whale Rampage | 56244 | [56244-ookujira-giant-whale-rampage.json](./56244-ookujira-giant-whale-rampage.json) |
 | Oolite | 47274 | [47274-oolite.json](./47274-oolite.json) |
 | Oolo | 345036 | [345036-oolo.json](./345036-oolo.json) |
 | Oom | 252765 | [252765-oom.json](./252765-oom.json) |
@@ -3144,6 +3145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OrcinUS: Orca Pod Rescue | 288058 | [288058-orcinus-orca-pod-rescue.json](./288058-orcinus-orca-pod-rescue.json) |
 | Orcish Inn | 9679 | [9679-orcish-inn.json](./9679-orcish-inn.json) |
 | Orcish Skies | 260184 | [260184-orcish-skies.json](./260184-orcish-skies.json) |
+| Orconoid | 56245 | [56245-orconoid.json](./56245-orconoid.json) |
 | Orcs & Elves | 21527 | [21527-orcs-and-elves.json](./21527-orcs-and-elves.json) |
 | Orcs & Elves II | 213270 | [213270-orcs-and-elves-ii.json](./213270-orcs-and-elves-ii.json) |
 | Orcs and Outlaws | 332995 | [332995-orcs-and-outlaws.json](./332995-orcs-and-outlaws.json) |
@@ -3472,7 +3474,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oscar | 12456 | [12456-oscar.json](./12456-oscar.json) |
 | Oscar & Gems: Puzzle Quest | 163553 | [163553-oscar-and-gems-puzzle-quest.json](./163553-oscar-and-gems-puzzle-quest.json) |
 | Oscar der Ballonfahrer taucht unter | 86031 | [86031-oscar-der-ballonfahrer-taucht-unter.json](./86031-oscar-der-ballonfahrer-taucht-unter.json) |
+| Oscar in Movieland | 56337 | [56337-oscar-in-movieland.json](./56337-oscar-in-movieland.json) |
 | Oscar in Toyland | 56364 | [56364-oscar-in-toyland.json](./56364-oscar-in-toyland.json) |
+| Oscar in Toyland 2 | 56338 | [56338-oscar-in-toyland-2.json](./56338-oscar-in-toyland-2.json) |
 | Oscar Mike VR | 30810 | [30810-oscar-mike-vr.json](./30810-oscar-mike-vr.json) |
 | Oscar the Ballonist & The Secrets of the Forest | 208889 | [208889-oscar-the-ballonist-and-the-secrets-of-the-forest.json](./208889-oscar-the-ballonist-and-the-secrets-of-the-forest.json) |
 | Oscar the Ballonist flies into the Mountains | 208890 | [208890-oscar-the-ballonist-flies-into-the-mountains.json](./208890-oscar-the-ballonist-flies-into-the-mountains.json) |
@@ -3546,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osomatsu-san The Game: Hachamecha Shuushoku Advice - Dead or Work | 83420 | [83420-osomatsu-san-the-game-hachamecha-shuushoku-advice-dead-or-work.json](./83420-osomatsu-san-the-game-hachamecha-shuushoku-advice-dead-or-work.json) |
 | Osomatsu-san: Hesokuri Wars | 56477 | [56477-osomatsu-san-hesokuri-wars.json](./56477-osomatsu-san-hesokuri-wars.json) |
 | Osomatsu-san: Matsumatsuri! | 83421 | [83421-osomatsu-san-matsumatsuri.json](./83421-osomatsu-san-matsumatsuri.json) |
+| Osomatsu-san: NEET Dasshutsu Spiral!! | 56253 | [56253-osomatsu-san-neet-dasshutsu-spiral.json](./56253-osomatsu-san-neet-dasshutsu-spiral.json) |
 | Osouji Sentai Clean Keeper | 91785 | [91785-osouji-sentai-clean-keeper.json](./91785-osouji-sentai-clean-keeper.json) |
 | Osouji Sentai Clean Keeper H | 91784 | [91784-osouji-sentai-clean-keeper-h.json](./91784-osouji-sentai-clean-keeper-h.json) |
 | OSP Entertainment Complete Archive | 63792 | [63792-osp-entertainment-complete-archive.json](./63792-osp-entertainment-complete-archive.json) |
