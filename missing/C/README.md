@@ -3833,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveshifter | 216759 | [216759-caveshifter.json](./216759-caveshifter.json) |
 | Cavesleeper | 371372 | [371372-cavesleeper.json](./371372-cavesleeper.json) |
 | Cavesweeper | 103816 | [103816-cavesweeper.json](./103816-cavesweeper.json) |
+| Cavewars | 94599 | [94599-cavewars.json](./94599-cavewars.json) |
 | Caveworks | 383522 | [383522-caveworks.json](./383522-caveworks.json) |
 | CavEX | 293331 | [293331-cavex.json](./293331-cavex.json) |
 | Caviar | 284805 | [284805-caviar.json](./284805-caviar.json) |
@@ -4219,6 +4220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chack'n Pop | 6103 | [6103-chackn-pop.json](./6103-chackn-pop.json) |
 | Chadboy | 241618 | [241618-chadboy.json](./241618-chadboy.json) |
 | Chadgeon: Enjoyers Edition+ | 296635 | [296635-chadgeon-enjoyers-edition.json](./296635-chadgeon-enjoyers-edition.json) |
+| Chaffinch Challenge | 94583 | [94583-chaffinch-challenge.json](./94583-chaffinch-challenge.json) |
 | Chagunitzu | 79586 | [79586-chagunitzu.json](./79586-chagunitzu.json) |
 | Chai | 236280 | [236280-chai.json](./236280-chai.json) |
 | Chai Glide | 414443 | [414443-chai-glide.json](./414443-chai-glide.json) |
@@ -10539,6 +10541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ConnecTrade | 290303 | [290303-connectrade.json](./290303-connectrade.json) |
 | Connectris | 79232 | [79232-connectris.json](./79232-connectris.json) |
 | Connectrode | 232347 | [232347-connectrode.json](./232347-connectrode.json) |
+| Connex | 94516 | [94516-connex.json](./94516-connex.json) |
 | Connie and the Essence of Chaos | 301325 | [301325-connie-and-the-essence-of-chaos.json](./301325-connie-and-the-essence-of-chaos.json) |
 | Connie Talbot: Over the Rainbow | 68099 | [68099-connie-talbot-over-the-rainbow.json](./68099-connie-talbot-over-the-rainbow.json) |
 | Conniption: Paranoia | 217392 | [217392-conniption-paranoia.json](./217392-conniption-paranoia.json) |
@@ -10567,6 +10570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquer: Napoleonic Wars | 235447 | [235447-conquer-napoleonic-wars.json](./235447-conquer-napoleonic-wars.json) |
 | Conquered Complex | 274012 | [274012-conquered-complex.json](./274012-conquered-complex.json) |
 | Conquered Kingdoms | 69804 | [69804-conquered-kingdoms.json](./69804-conquered-kingdoms.json) |
+| Conquered Kingdoms: Scenario Disk #1 | 94610 | [94610-conquered-kingdoms-scenario-disk-1.json](./94610-conquered-kingdoms-scenario-disk-1.json) |
 | Conquering Everest | 262399 | [262399-conquering-everest.json](./262399-conquering-everest.json) |
 | Conquering Percents | 152026 | [152026-conquering-percents.json](./152026-conquering-percents.json) |
 | Conquering the Queen | 127965 | [127965-conquering-the-queen.json](./127965-conquering-the-queen.json) |
@@ -13400,6 +13404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket 07 | 10619 | [10619-cricket-07.json](./10619-cricket-07.json) |
 | Cricket 2000 | 79891 | [79891-cricket-2000.json](./79891-cricket-2000.json) |
 | Cricket 2002 | 92314 | [92314-cricket-2002.json](./92314-cricket-2002.json) |
+| Cricket 2004 | 94521 | [94521-cricket-2004.json](./94521-cricket-2004.json) |
 | Cricket 22 | 175987 | [175987-cricket-22.json](./175987-cricket-22.json) |
 | Cricket 24 | 243749 | [243749-cricket-24.json](./243749-cricket-24.json) |
 | Cricket 64 | 56889 | [56889-cricket-64.json](./56889-cricket-64.json) |
