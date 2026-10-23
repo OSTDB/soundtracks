@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarioWare: Twisted! - Marble Maze Game | 231530 | [231530-warioware-twisted-marble-maze-game.json](./231530-warioware-twisted-marble-maze-game.json) |
 | Warium | 87768 | [87768-warium.json](./87768-warium.json) |
 | Warja | 277295 | [277295-warja.json](./277295-warja.json) |
+| WarJetz | 45072 | [45072-warjetz.json](./45072-warjetz.json) |
 | Wark & Wimble | 151493 | [151493-wark-and-wimble.json](./151493-wark-and-wimble.json) |
 | Warka Flarka Flim Flam | 29942 | [29942-warka-flarka-flim-flam.json](./29942-warka-flarka-flim-flam.json) |
 | Warkanoid | 61429 | [61429-warkanoid.json](./61429-warkanoid.json) |
@@ -3207,6 +3208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
