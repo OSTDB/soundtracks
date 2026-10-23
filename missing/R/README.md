@@ -2173,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaction Game: Hit the Color! | 56764 | [56764-reaction-game-hit-the-color.json](./56764-reaction-game-hit-the-color.json) |
 | Reaction Match | 230704 | [230704-reaction-match.json](./230704-reaction-match.json) |
 | Reaction Quake 3 | 200651 | [200651-reaction-quake-3.json](./200651-reaction-quake-3.json) |
+| Reaction Rally | 64251 | [64251-reaction-rally.json](./64251-reaction-rally.json) |
 | Reaction: Block Buster | 61132 | [61132-reaction-block-buster.json](./61132-reaction-block-buster.json) |
 | Reactivated | 117378 | [117378-reactivated.json](./117378-reactivated.json) |
 | Reactor | 18545 | [18545-reactor.json](./18545-reactor.json) |
@@ -5555,6 +5556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richard Scarry's Best Reading Program Ever | 384182 | [384182-richard-scarrys-best-reading-program-ever.json](./384182-richard-scarrys-best-reading-program-ever.json) |
 | Richard Scarry's Busytown | 132142 | [132142-richard-scarrys-busytown.json](./132142-richard-scarrys-busytown.json) |
 | Richard Scarry's Busytown | 46202 | [46202-richard-scarrys-busytown.json](./46202-richard-scarrys-busytown.json) |
+| Richard Scarry's How Things Work In Busytown | 64086 | [64086-richard-scarrys-how-things-work-in-busytown.json](./64086-richard-scarrys-how-things-work-in-busytown.json) |
 | Richard West and the Golden Mask | 190139 | [190139-richard-west-and-the-golden-mask.json](./190139-richard-west-and-the-golden-mask.json) |
 | Richdle | 348949 | [348949-richdle.json](./348949-richdle.json) |
 | Riches in the Deep | 392925 | [392925-riches-in-the-deep.json](./392925-riches-in-the-deep.json) |
@@ -7612,7 +7614,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketship Rescue | 178638 | [178638-rocketship-rescue.json](./178638-rocketship-rescue.json) |
 | RocketsRocketsRockets | 36342 | [36342-rocketsrocketsrockets.json](./36342-rocketsrocketsrockets.json) |
 | RocketStarz | 143344 | [143344-rocketstarz.json](./143344-rocketstarz.json) |
+| Rockett's Adventure Maker | 64228 | [64228-rocketts-adventure-maker.json](./64228-rocketts-adventure-maker.json) |
+| Rockett's Camp Adventures | 64226 | [64226-rocketts-camp-adventures.json](./64226-rocketts-camp-adventures.json) |
+| Rockett's First Dance | 64227 | [64227-rocketts-first-dance.json](./64227-rocketts-first-dance.json) |
 | Rockett's New School | 65479 | [65479-rocketts-new-school.json](./65479-rocketts-new-school.json) |
+| Rockett's Secret Invitation | 64229 | [64229-rocketts-secret-invitation.json](./64229-rocketts-secret-invitation.json) |
+| Rockett's Tricky Decision | 64230 | [64230-rocketts-tricky-decision.json](./64230-rocketts-tricky-decision.json) |
 | RockFall | 134304 | [134304-rockfall.json](./134304-rockfall.json) |
 | Rockfest | 88614 | [88614-rockfest.json](./88614-rockfest.json) |
 | Rockfish | 260074 | [260074-rockfish.json](./260074-rockfish.json) |
