@@ -4320,6 +4320,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania for WonderSwan | 135089 | [135089-beatmania-for-wonderswan.json](./135089-beatmania-for-wonderswan.json) |
 | Beatmania GB | 91769 | [91769-beatmania-gb.json](./91769-beatmania-gb.json) |
 | Beatmania GB2 Gotcha Mix | 92604 | [92604-beatmania-gb2-gotcha-mix.json](./92604-beatmania-gb2-gotcha-mix.json) |
+| Beatmania IIDX 10th style | 94025 | [94025-beatmania-iidx-10th-style.json](./94025-beatmania-iidx-10th-style.json) |
+| Beatmania IIDX 11 IIDX Red | 94026 | [94026-beatmania-iidx-11-iidx-red.json](./94026-beatmania-iidx-11-iidx-red.json) |
 | Beatmania IIDX 17 Sirius | 66644 | [66644-beatmania-iidx-17-sirius.json](./66644-beatmania-iidx-17-sirius.json) |
 | Beatmania IIDX 18 Resort Anthem | 66726 | [66726-beatmania-iidx-18-resort-anthem.json](./66726-beatmania-iidx-18-resort-anthem.json) |
 | Beatmania IIDX 19 Lincle | 81478 | [81478-beatmania-iidx-19-lincle.json](./81478-beatmania-iidx-19-lincle.json) |
@@ -5094,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benjy Adventure | 417675 | [417675-benjy-adventure.json](./417675-benjy-adventure.json) |
 | Benkei Gaiden | 80572 | [80572-benkei-gaiden.json](./80572-benkei-gaiden.json) |
 | Bennett Foddy's Speed Chess | 342167 | [342167-bennett-foddys-speed-chess.json](./342167-bennett-foddys-speed-chess.json) |
+| Bennu | 94057 | [94057-bennu.json](./94057-bennu.json) |
 | Bennu Bennu: Protect the Pyramid | 253378 | [253378-bennu-bennu-protect-the-pyramid.json](./253378-bennu-bennu-protect-the-pyramid.json) |
 | Benny Bash | 330973 | [330973-benny-bash.json](./330973-benny-bash.json) |
 | Benny's Backrooms | 303109 | [303109-bennys-backrooms.json](./303109-bennys-backrooms.json) |
@@ -10576,6 +10579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bossa Presents | 190883 | [190883-bossa-presents.json](./190883-bossa-presents.json) |
 | BossCrafter | 298388 | [298388-bosscrafter.json](./298388-bosscrafter.json) |
 | Bosses | 235821 | [235821-bosses.json](./235821-bosses.json) |
+| Bosses Forever 2.Bro | 94039 | [94039-bosses-forever-2-bro.json](./94039-bosses-forever-2-bro.json) |
 | Bossfall | 414157 | [414157-bossfall.json](./414157-bossfall.json) |
 | Bossfight Tactics | 346141 | [346141-bossfight-tactics.json](./346141-bossfight-tactics.json) |
 | Bossleft | 408913 | [408913-bossleft.json](./408913-bossleft.json) |
@@ -12416,6 +12420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broke Street | 421847 | [421847-broke-street.json](./421847-broke-street.json) |
 | Broken | 114723 | [114723-broken.json](./114723-broken.json) |
 | Broken | 188446 | [188446-broken.json](./188446-broken.json) |
+| Broken | 94070 | [94070-broken.json](./94070-broken.json) |
 | Broken Age: The Complete Adventure | 20865 | [20865-broken-age-the-complete-adventure.json](./20865-broken-age-the-complete-adventure.json) |
 | Broken Alliance | 199278 | [199278-broken-alliance.json](./199278-broken-alliance.json) |
 | Broken Aperture | 372221 | [372221-broken-aperture.json](./372221-broken-aperture.json) |
@@ -12493,6 +12498,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Spirit | 371256 | [371256-broken-spirit.json](./371256-broken-spirit.json) |
 | Broken Sword 2.5: The Return of the Templars | 125018 | [125018-broken-sword-2-5-the-return-of-the-templars.json](./125018-broken-sword-2-5-the-return-of-the-templars.json) |
 | Broken Sword 5: The Serpent's Curse | 2924 | [2924-broken-sword-5-the-serpents-curse.json](./2924-broken-sword-5-the-serpents-curse.json) |
+| Broken Sword 5: The Serpent's Curse - Episode 1 | 94068 | [94068-broken-sword-5-the-serpents-curse-episode-1.json](./94068-broken-sword-5-the-serpents-curse-episode-1.json) |
+| Broken Sword 5: The Serpent's Curse - Episode 2 | 94069 | [94069-broken-sword-5-the-serpents-curse-episode-2.json](./94069-broken-sword-5-the-serpents-curse-episode-2.json) |
 | Broken Sword 5: The Serpent's Curse - Premium Edition | 136170 | [136170-broken-sword-5-the-serpents-curse-premium-edition.json](./136170-broken-sword-5-the-serpents-curse-premium-edition.json) |
 | Broken Sword: Parzival’s Stone | 262650 | [262650-broken-sword-parzival-s-stone.json](./262650-broken-sword-parzival-s-stone.json) |
 | Broken Sword: Shadow of the Templars Reforged | 262651 | [262651-broken-sword-shadow-of-the-templars-reforged.json](./262651-broken-sword-shadow-of-the-templars-reforged.json) |
