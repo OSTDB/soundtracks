@@ -7273,6 +7273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Write 'n' Fight | 160204 | [160204-write-n-fight.json](./160204-write-n-fight.json) |
 | Write Emails At Work | 394102 | [394102-write-emails-at-work.json](./394102-write-emails-at-work.json) |
 | Write Warz | 297755 | [297755-write-warz.json](./297755-write-warz.json) |
+| Write, Camera, Action! | 70815 | [70815-write-camera-action.json](./70815-write-camera-action.json) |
 | Write'n'Slash | 153769 | [153769-writenslash.json](./153769-writenslash.json) |
 | WriteNor | 381389 | [381389-writenor.json](./381389-writenor.json) |
 | Writer Rumble | 92514 | [92514-writer-rumble.json](./92514-writer-rumble.json) |
