@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Determined to Make 3A: 01/65 | 296934 | [296934-im-determined-to-make-3a-01-65.json](./296934-im-determined-to-make-3a-01-65.json) |
 | I'm Free | 307990 | [307990-im-free.json](./307990-im-free.json) |
 | I'm going to die if I don't eat sushi! | 187212 | [187212-im-going-to-die-if-i-dont-eat-sushi.json](./187212-im-going-to-die-if-i-dont-eat-sushi.json) |
+| I'm Gonna Be God of The Forest | 64146 | [64146-im-gonna-be-god-of-the-forest.json](./64146-im-gonna-be-god-of-the-forest.json) |
 | I'm Gonna Serve You 4 | 139036 | [139036-im-gonna-serve-you-4.json](./139036-im-gonna-serve-you-4.json) |
 | I'm Home Already | 350461 | [350461-im-home-already.json](./350461-im-home-already.json) |
 | I'm In Charge | 249216 | [249216-im-in-charge.json](./249216-im-in-charge.json) |
@@ -4412,6 +4413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invincible Fighter | 193965 | [193965-invincible-fighter.json](./193965-invincible-fighter.json) |
 | Invincible Fins | 157162 | [157162-invincible-fins.json](./157162-invincible-fins.json) |
 | Invincible Iron Man Gagaga-In | 234088 | [234088-invincible-iron-man-gagaga-in.json](./234088-invincible-iron-man-gagaga-in.json) |
+| Invincible Knight | 64261 | [64261-invincible-knight.json](./64261-invincible-knight.json) |
 | Invincible Medusa | 231359 | [231359-invincible-medusa.json](./231359-invincible-medusa.json) |
 | Invincible Vs: Undercover and Overdressed - Skin Bundle | 411382 | [411382-invincible-vs-undercover-and-overdressed-skin-bundle.json](./411382-invincible-vs-undercover-and-overdressed-skin-bundle.json) |
 | Invincible Vs.: Bots & Monsters - Skin Bundle | 411380 | [411380-invincible-vs-bots-and-monsters-skin-bundle.json](./411380-invincible-vs-bots-and-monsters-skin-bundle.json) |
@@ -5143,6 +5145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ISS: International Superstar Soccer | 220859 | [220859-iss-international-superstar-soccer.json](./220859-iss-international-superstar-soccer.json) |
 | Issho ni Asobo Koupen-chan | 133715 | [133715-issho-ni-asobo-koupen-chan.json](./133715-issho-ni-asobo-koupen-chan.json) |
 | Issho ni Asobo Koupen-chan | 144685 | [144685-issho-ni-asobo-koupen-chan.json](./144685-issho-ni-asobo-koupen-chan.json) |
+| Issho ni Gohan Portable | 64161 | [64161-issho-ni-gohan-portable.json](./64161-issho-ni-gohan-portable.json) |
 | Issho ni Henshin Fresh Pretty Cure | 327591 | [327591-issho-ni-henshin-fresh-pretty-cure.json](./327591-issho-ni-henshin-fresh-pretty-cure.json) |
 | Issho ni Ikimashou Ikimashou Ikimashou | 75637 | [75637-issho-ni-ikimashou-ikimashou-ikimashou.json](./75637-issho-ni-ikimashou-ikimashou-ikimashou.json) |
 | Issunboushi no Donnamondai | 146261 | [146261-issunboushi-no-donnamondai.json](./146261-issunboushi-no-donnamondai.json) |
