@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taco Tides | 292076 | [292076-taco-tides.json](./292076-taco-tides.json) |
 | Taco Tom 2 | 113047 | [113047-taco-tom-2.json](./113047-taco-tom-2.json) |
 | Taco: Princess from the Moon | 166162 | [166162-taco-princess-from-the-moon.json](./166162-taco-princess-from-the-moon.json) |
+| TacoCat: The Game 2 | 60867 | [60867-tacocat-the-game-2.json](./60867-tacocat-the-game-2.json) |
 | TacoFace | 30091 | [30091-tacoface.json](./30091-tacoface.json) |
 | Tacom Island | 401902 | [401902-tacom-island.json](./401902-tacom-island.json) |
 | TacOps | 77252 | [77252-tacops.json](./77252-tacops.json) |
@@ -2735,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Portal Power | 59086 | [59086-teenage-mutant-ninja-turtles-portal-power.json](./59086-teenage-mutant-ninja-turtles-portal-power.json) |
 | Teenage Mutant Ninja Turtles: Rescue Palooza! | 126491 | [126491-teenage-mutant-ninja-turtles-rescue-palooza.json](./126491-teenage-mutant-ninja-turtles-rescue-palooza.json) |
 | Teenage Mutant Ninja Turtles: Sewer Run | 64715 | [64715-teenage-mutant-ninja-turtles-sewer-run.json](./64715-teenage-mutant-ninja-turtles-sewer-run.json) |
+| Teenage Mutant Ninja Turtles: Shadow Heroes | 60961 | [60961-teenage-mutant-ninja-turtles-shadow-heroes.json](./60961-teenage-mutant-ninja-turtles-shadow-heroes.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Limited Edition | 207919 | [207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json](./207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles | 317624 | [317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json](./317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Ultimate Edition | 317919 | [317919-teenage-mutant-ninja-turtles-shredders-revenge-ultimate-edition.json](./317919-teenage-mutant-ninja-turtles-shredders-revenge-ultimate-edition.json) |
@@ -10952,6 +10954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Midnight Lapse: Reborn | 26984 | [26984-the-midnight-lapse-reborn.json](./26984-the-midnight-lapse-reborn.json) |
 | The Midnight Monkey | 177274 | [177274-the-midnight-monkey.json](./177274-the-midnight-monkey.json) |
 | The Midnight Park | 183066 | [183066-the-midnight-park.json](./183066-the-midnight-park.json) |
+| The Midnight Station | 60856 | [60856-the-midnight-station.json](./60856-the-midnight-station.json) |
 | The Midnight Town Stories: Adam's Diary | 260530 | [260530-the-midnight-town-stories-adams-diary.json](./260530-the-midnight-town-stories-adams-diary.json) |
 | The Midnight Town Stories: Matt's Nightmare | 336580 | [336580-the-midnight-town-stories-matts-nightmare.json](./336580-the-midnight-town-stories-matts-nightmare.json) |
 | The Midnight Train to Nowhere | 133688 | [133688-the-midnight-train-to-nowhere.json](./133688-the-midnight-train-to-nowhere.json) |
@@ -11381,6 +11384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Way Home | 165954 | [165954-the-night-way-home.json](./165954-the-night-way-home.json) |
 | The Night You'd Wish to Forget | 190015 | [190015-the-night-youd-wish-to-forget.json](./190015-the-night-youd-wish-to-forget.json) |
 | The Nightfall Incident | 182525 | [182525-the-nightfall-incident.json](./182525-the-nightfall-incident.json) |
+| The Nightjar | 60854 | [60854-the-nightjar.json](./60854-the-nightjar.json) |
 | The Nightmare | 167533 | [167533-the-nightmare.json](./167533-the-nightmare.json) |
 | The Nightmare | 24860 | [24860-the-nightmare.json](./24860-the-nightmare.json) |
 | The Nightmare Accord | 289976 | [289976-the-nightmare-accord.json](./289976-the-nightmare-accord.json) |
@@ -23989,7 +23993,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trashed | 143592 | [143592-trashed.json](./143592-trashed.json) |
 | Trashman | 23054 | [23054-trashman.json](./23054-trashman.json) |
 | Trashman | 28565 | [28565-trashman.json](./28565-trashman.json) |
+| Trashmania | 60872 | [60872-trashmania.json](./60872-trashmania.json) |
 | Trashmania After Dark | 61961 | [61961-trashmania-after-dark.json](./61961-trashmania-after-dark.json) |
+| Trashmania Remix 2012 | 60871 | [60871-trashmania-remix-2012.json](./60871-trashmania-remix-2012.json) |
 | Trashmania Trilogy | 61060 | [61060-trashmania-trilogy.json](./61060-trashmania-trilogy.json) |
 | Trashmorfers | 241986 | [241986-trashmorfers.json](./241986-trashmorfers.json) |
 | Trashpunk | 132687 | [132687-trashpunk.json](./132687-trashpunk.json) |
