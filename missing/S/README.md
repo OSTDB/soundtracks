@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saimin Gakushuu: Secret Desire | 195970 | [195970-saimin-gakushuu-secret-desire.json](./195970-saimin-gakushuu-secret-desire.json) |
 | Saimin Reiki | 59036 | [59036-saimin-reiki.json](./59036-saimin-reiki.json) |
 | Saimin School Days: Hypnotic School Days | 239000 | [239000-saimin-school-days-hypnotic-school-days.json](./239000-saimin-school-days-hypnotic-school-days.json) |
+| Saiminjutsu o Tameshitara Onaji Mansion no Bakunyuu Hitozuma ga Ore no Mono ni Natta | 59195 | [59195-saiminjutsu-o-tameshitara-onaji-mansion-no-bakunyuu-hitozuma-ga-ore-no-mono-ni-natta.json](./59195-saiminjutsu-o-tameshitara-onaji-mansion-no-bakunyuu-hitozuma-ga-ore-no-mono-ni-natta.json) |
 | Saint | 94739 | [94739-saint.json](./94739-saint.json) |
 | Saint & Sinner | 332478 | [332478-saint-and-sinner.json](./332478-saint-and-sinner.json) |
 | Saint Dragon | 12207 | [12207-saint-dragon.json](./12207-saint-dragon.json) |
@@ -1331,6 +1332,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi 11: Power Up Kit | 350410 | [350410-sangokushi-11-power-up-kit.json](./350410-sangokushi-11-power-up-kit.json) |
 | Sangokushi 12: Power Up Kit | 350585 | [350585-sangokushi-12-power-up-kit.json](./350585-sangokushi-12-power-up-kit.json) |
 | Sangokushi Dice | 196600 | [196600-sangokushi-dice.json](./196600-sangokushi-dice.json) |
+| Sangokushi DS | 59193 | [59193-sangokushi-ds.json](./59193-sangokushi-ds.json) |
+| Sangokushi DS 2 | 59194 | [59194-sangokushi-ds-2.json](./59194-sangokushi-ds-2.json) |
+| Sangokushi DS 3 | 59278 | [59278-sangokushi-ds-3.json](./59278-sangokushi-ds-3.json) |
 | Sangokushi Eiketsuden | 327954 | [327954-sangokushi-eiketsuden.json](./327954-sangokushi-eiketsuden.json) |
 | Sangokushi Eiketsuden | 55809 | [55809-sangokushi-eiketsuden.json](./55809-sangokushi-eiketsuden.json) |
 | Sangokushi Game Boy-ban | 349837 | [349837-sangokushi-game-boy-ban.json](./349837-sangokushi-game-boy-ban.json) |
@@ -4726,8 +4730,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: Elmo's World | 220089 | [220089-sesame-street-elmos-world.json](./220089-sesame-street-elmos-world.json) |
 | Sesame Street: Flappy Bert | 62112 | [62112-sesame-street-flappy-bert.json](./62112-sesame-street-flappy-bert.json) |
 | Sesame Street: Friends & Fun | 406240 | [406240-sesame-street-friends-and-fun.json](./406240-sesame-street-friends-and-fun.json) |
+| Sesame Street: Let's Learn to Play Together | 59166 | [59166-sesame-street-lets-learn-to-play-together.json](./59166-sesame-street-lets-learn-to-play-together.json) |
 | Sesame Street: Lets Make a Word! | 71441 | [71441-sesame-street-lets-make-a-word.json](./71441-sesame-street-lets-make-a-word.json) |
 | Sesame Street: Letter-Go-Round | 25175 | [25175-sesame-street-letter-go-round.json](./25175-sesame-street-letter-go-round.json) |
+| Sesame Street: Magic on Sesame Street | 59162 | [59162-sesame-street-magic-on-sesame-street.json](./59162-sesame-street-magic-on-sesame-street.json) |
 | Sesame Street: Music Maker | 138578 | [138578-sesame-street-music-maker.json](./138578-sesame-street-music-maker.json) |
 | Sesame Street: Numbers | 4276 | [4276-sesame-street-numbers.json](./4276-sesame-street-numbers.json) |
 | Sesame Street: Preschool | 138486 | [138486-sesame-street-preschool.json](./138486-sesame-street-preschool.json) |
@@ -14591,6 +14597,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Breach | 363022 | [363022-soul-breach.json](./363022-soul-breach.json) |
 | Soul Brother | 79749 | [79749-soul-brother.json](./79749-soul-brother.json) |
 | Soul Bubbles | 21370 | [21370-soul-bubbles.json](./21370-soul-bubbles.json) |
+| Soul Calibur ~Defiled Soul~ | 59179 | [59179-soul-calibur-defiled-soul.json](./59179-soul-calibur-defiled-soul.json) |
+| Soul Calibur ~Inko Jutai~ | 59180 | [59180-soul-calibur-inko-jutai.json](./59180-soul-calibur-inko-jutai.json) |
 | Soul Calibur Mobile | 372102 | [372102-soul-calibur-mobile.json](./372102-soul-calibur-mobile.json) |
 | Soul Card Duel | 390154 | [390154-soul-card-duel.json](./390154-soul-card-duel.json) |
 | Soul Catcher | 169721 | [169721-soul-catcher.json](./169721-soul-catcher.json) |
@@ -16479,6 +16487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Showdown | 211799 | [211799-spectral-showdown.json](./211799-spectral-showdown.json) |
 | Spectral Souls | 175756 | [175756-spectral-souls.json](./175756-spectral-souls.json) |
 | Spectral Souls | 39194 | [39194-spectral-souls.json](./39194-spectral-souls.json) |
+| Spectral Souls II | 59159 | [59159-spectral-souls-ii.json](./59159-spectral-souls-ii.json) |
 | Spectral Souls: Resurrection of the Ethereal Empires | 44519 | [44519-spectral-souls-resurrection-of-the-ethereal-empires.json](./44519-spectral-souls-resurrection-of-the-ethereal-empires.json) |
 | Spectral Survivor | 307581 | [307581-spectral-survivor.json](./307581-spectral-survivor.json) |
 | Spectral Tower | 281680 | [281680-spectral-tower.json](./281680-spectral-tower.json) |
@@ -17484,6 +17493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits of Mystery: Song of the Phoenix | 62822 | [62822-spirits-of-mystery-song-of-the-phoenix.json](./62822-spirits-of-mystery-song-of-the-phoenix.json) |
 | Spirits of Mystery: Song of the Phoenix - Collector's Edition | 29620 | [29620-spirits-of-mystery-song-of-the-phoenix-collectors-edition.json](./29620-spirits-of-mystery-song-of-the-phoenix-collectors-edition.json) |
 | Spirits of Mystery: The Dark Minotaur | 62824 | [62824-spirits-of-mystery-the-dark-minotaur.json](./62824-spirits-of-mystery-the-dark-minotaur.json) |
+| Spirits of Mystery: The Dark Minotaur - Collector's Edition | 59148 | [59148-spirits-of-mystery-the-dark-minotaur-collectors-edition.json](./59148-spirits-of-mystery-the-dark-minotaur-collectors-edition.json) |
 | Spirits of Mystery: The Moon Crystal | 187959 | [187959-spirits-of-mystery-the-moon-crystal.json](./187959-spirits-of-mystery-the-moon-crystal.json) |
 | Spirits of Mystery: The Silver Arrow | 140227 | [140227-spirits-of-mystery-the-silver-arrow.json](./140227-spirits-of-mystery-the-silver-arrow.json) |
 | Spirits of Mystery: The Silver Arrow - Collector's Edition | 93806 | [93806-spirits-of-mystery-the-silver-arrow-collectors-edition.json](./93806-spirits-of-mystery-the-silver-arrow-collectors-edition.json) |
@@ -17532,6 +17542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spitter Man vs. The Pooping Birds | 254392 | [254392-spitter-man-vs-the-pooping-birds.json](./254392-spitter-man-vs-the-pooping-birds.json) |
 | Spitting Image | 13081 | [13081-spitting-image.json](./13081-spitting-image.json) |
 | Spitting Z | 156517 | [156517-spitting-z.json](./156517-spitting-z.json) |
+| Spl-t | 59279 | [59279-spl-t.json](./59279-spl-t.json) |
 | Splash | 170363 | [170363-splash.json](./170363-splash.json) |
 | Splash | 224940 | [224940-splash.json](./224940-splash.json) |
 | Splash Adventure: The Maze of Morla | 83524 | [83524-splash-adventure-the-maze-of-morla.json](./83524-splash-adventure-the-maze-of-morla.json) |
@@ -19631,6 +19642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbirds | 73292 | [73292-starbirds.json](./73292-starbirds.json) |
 | Starbites | 235475 | [235475-starbites.json](./235475-starbites.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
+| StarBlade Alpha | 59118 | [59118-starblade-alpha.json](./59118-starblade-alpha.json) |
 | Starblast: Retro Wars | 190367 | [190367-starblast-retro-wars.json](./190367-starblast-retro-wars.json) |
 | Starblaze | 42133 | [42133-starblaze.json](./42133-starblaze.json) |
 | Starblazer | 112773 | [112773-starblazer.json](./112773-starblazer.json) |
@@ -26396,6 +26408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Toy Cars Collection | 204083 | [204083-super-toy-cars-collection.json](./204083-super-toy-cars-collection.json) |
 | Super Toy Cars Offroad | 173959 | [173959-super-toy-cars-offroad.json](./173959-super-toy-cars-offroad.json) |
 | Super Trailblazers | 339475 | [339475-super-trailblazers.json](./339475-super-trailblazers.json) |
+| Super Trashforce | 59134 | [59134-super-trashforce.json](./59134-super-trashforce.json) |
 | Super Trench Attack 2 | 34840 | [34840-super-trench-attack-2.json](./34840-super-trench-attack-2.json) |
 | Super Trench Attack! | 17592 | [17592-super-trench-attack.json](./17592-super-trench-attack.json) |
 | Super Troll Islands | 42448 | [42448-super-troll-islands.json](./42448-super-troll-islands.json) |
