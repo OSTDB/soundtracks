@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kage Fumazu | 98056 | [98056-kage-fumazu.json](./98056-kage-fumazu.json) |
 | Kageninja | 385743 | [385743-kageninja.json](./385743-kageninja.json) |
 | Kagerou | 181658 | [181658-kagerou.json](./181658-kagerou.json) |
+| Kagerou Densetsu | 48448 | [48448-kagerou-densetsu.json](./48448-kagerou-densetsu.json) |
 | Kagerou Labyrinth | 338819 | [338819-kagerou-labyrinth.json](./338819-kagerou-labyrinth.json) |
 | Kagi wo Kakushita Kago no Tori: Bird in Cage Hiding the Key | 260120 | [260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json](./260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json) |
 | Kagidoko: A Deep Learning Horror Game | 275514 | [275514-kagidoko-a-deep-learning-horror-game.json](./275514-kagidoko-a-deep-learning-horror-game.json) |
@@ -148,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagura Douchuuki | 91969 | [91969-kagura-douchuuki.json](./91969-kagura-douchuuki.json) |
 | Kagura Genesis: Kuon's Story | 277258 | [277258-kagura-genesis-kuons-story.json](./277258-kagura-genesis-kuons-story.json) |
 | Kagura Survivors: Endless Night | 243538 | [243538-kagura-survivors-endless-night.json](./243538-kagura-survivors-endless-night.json) |
+| Kaguya-hime Densetsu | 48447 | [48447-kaguya-hime-densetsu.json](./48447-kaguya-hime-densetsu.json) |
 | Kaguya-sama: Love Is War | 239005 | [239005-kaguya-sama-love-is-war.json](./239005-kaguya-sama-love-is-war.json) |
 | Kahen Soukou Gunbike | 44756 | [44756-kahen-soukou-gunbike.json](./44756-kahen-soukou-gunbike.json) |
 | Kahogo de Ecchi na Boku no Ane | 97449 | [97449-kahogo-de-ecchi-na-boku-no-ane.json](./97449-kahogo-de-ecchi-na-boku-no-ane.json) |
@@ -203,10 +205,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaijuland Battles | 64141 | [64141-kaijuland-battles.json](./64141-kaijuland-battles.json) |
 | Kaijuu Busters Powered | 59158 | [59158-kaijuu-busters-powered.json](./59158-kaijuu-busters-powered.json) |
 | Kaijuu Kitan Oboro: Jyuuya Kuuko Mangekyou | 114546 | [114546-kaijuu-kitan-oboro-jyuuya-kuuko-mangekyou.json](./114546-kaijuu-kitan-oboro-jyuuya-kuuko-mangekyou.json) |
+| Kaijuu Monogatari | 48446 | [48446-kaijuu-monogatari.json](./48446-kaijuu-monogatari.json) |
 | Kaijuu Senki | 166658 | [166658-kaijuu-senki.json](./166658-kaijuu-senki.json) |
 | Kaikan | 264553 | [264553-kaikan.json](./264553-kaikan.json) |
 | Kaikan Phrase: Datenshi Kourin | 269753 | [269753-kaikan-phrase-datenshi-kourin.json](./269753-kaikan-phrase-datenshi-kourin.json) |
 | Kaiketsu Yanchamaru | 40216 | [40216-kaiketsu-yanchamaru.json](./40216-kaiketsu-yanchamaru.json) |
+| Kaiketsu Yanchamaru 2: Karakuri Land | 48445 | [48445-kaiketsu-yanchamaru-2-karakuri-land.json](./48445-kaiketsu-yanchamaru-2-karakuri-land.json) |
 | Kaiketsu Yanchamaru 3: Taiketsu! Zouringen | 66050 | [66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json](./66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json) |
 | Kaiketsu Zorori: Mezase! Itazura King | 307269 | [307269-kaiketsu-zorori-mezase-itazura-king.json](./307269-kaiketsu-zorori-mezase-itazura-king.json) |
 | Kaiketsu! Nekoashi Otome-chan | 147223 | [147223-kaiketsu-nekoashi-otome-chan.json](./147223-kaiketsu-nekoashi-otome-chan.json) |
@@ -404,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamek's Midnight Flight | 250035 | [250035-kameks-midnight-flight.json](./250035-kameks-midnight-flight.json) |
 | Kameleon | 185452 | [185452-kameleon.json](./185452-kameleon.json) |
 | Kamen no Maid Guy: Boyoyon Battle Royale | 44497 | [44497-kamen-no-maid-guy-boyoyon-battle-royale.json](./44497-kamen-no-maid-guy-boyoyon-battle-royale.json) |
+| Kamen no Ninja Akakage | 48444 | [48444-kamen-no-ninja-akakage.json](./48444-kamen-no-ninja-akakage.json) |
 | Kamen no Ninja Hanamaru | 154805 | [154805-kamen-no-ninja-hanamaru.json](./154805-kamen-no-ninja-hanamaru.json) |
 | Kamen Rider 555 | 404098 | [404098-kamen-rider-555.json](./404098-kamen-rider-555.json) |
 | Kamen Rider 555 | 43424 | [43424-kamen-rider-555.json](./43424-kamen-rider-555.json) |
@@ -619,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanoso | 301523 | [301523-kanoso.json](./301523-kanoso.json) |
 | Kanraku Ojyosama: Pregnant Race | 108936 | [108936-kanraku-ojyosama-pregnant-race.json](./108936-kanraku-ojyosama-pregnant-race.json) |
 | Kansensei Nightmare | 151532 | [151532-kansensei-nightmare.json](./151532-kansensei-nightmare.json) |
+| Kanshakudama Nage Kantarou no Tokaido Gojuusan-tsugi | 48443 | [48443-kanshakudama-nage-kantarou-no-tokaido-gojuusan-tsugi.json](./48443-kanshakudama-nage-kantarou-no-tokaido-gojuusan-tsugi.json) |
 | Kanso | 153520 | [153520-kanso.json](./153520-kanso.json) |
 | Kantai Collection | 12737 | [12737-kantai-collection.json](./12737-kantai-collection.json) |
 | Kanto Expansion Pak | 282044 | [282044-kanto-expansion-pak.json](./282044-kanto-expansion-pak.json) |
@@ -684,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karakia Shooter | 158139 | [158139-karakia-shooter.json](./158139-karakia-shooter.json) |
 | Karakuri Colosseum | 276216 | [276216-karakuri-colosseum.json](./276216-karakuri-colosseum.json) |
 | Karakuri Kengou Den Musashi Lord | 65436 | [65436-karakuri-kengou-den-musashi-lord.json](./65436-karakuri-kengou-den-musashi-lord.json) |
+| Karakuri Kengou Den Musashi Lord: Karakuri-jin Hashiru! | 48442 | [48442-karakuri-kengou-den-musashi-lord-karakuri-jin-hashiru.json](./48442-karakuri-kengou-den-musashi-lord-karakuri-jin-hashiru.json) |
 | Karakuri Kengou-den: Musashi Road - Harikiri Daishuugyou! | 346027 | [346027-karakuri-kengou-den-musashi-road-harikiri-daishuugyou.json](./346027-karakuri-kengou-den-musashi-road-harikiri-daishuugyou.json) |
 | Karakuri Ninpou | 267991 | [267991-karakuri-ninpou.json](./267991-karakuri-ninpou.json) |
 | Karakuri-kun: A Japanese Tale | 135040 | [135040-karakuri-kun-a-japanese-tale.json](./135040-karakuri-kun-a-japanese-tale.json) |
@@ -1477,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kero Kero Keroppi: Uki Uki Party Land | 270162 | [270162-kero-kero-keroppi-uki-uki-party-land.json](./270162-kero-kero-keroppi-uki-uki-party-land.json) |
 | Kero Kero King | 54969 | [54969-kero-kero-king.json](./54969-kero-kero-king.json) |
 | Kero Quest 64 | 326620 | [326620-kero-quest-64.json](./326620-kero-quest-64.json) |
+| Keroppi to Keroriinu no Splash Bomb! | 48441 | [48441-keroppi-to-keroriinu-no-splash-bomb.json](./48441-keroppi-to-keroriinu-no-splash-bomb.json) |
 | Keroro Gunsou: MeroMero Battle Royale | 61422 | [61422-keroro-gunsou-meromero-battle-royale.json](./61422-keroro-gunsou-meromero-battle-royale.json) |
 | Keroro Gunsou: MeroMero Battle Royale Z | 61420 | [61420-keroro-gunsou-meromero-battle-royale-z.json](./61420-keroro-gunsou-meromero-battle-royale-z.json) |
 | Keroro Gunsou: Taiketsu! Gekisou Keronprix Daisakusen de arimasu! | 61421 | [61421-keroro-gunsou-taiketsu-gekisou-keronprix-daisakusen-de-arimasu.json](./61421-keroro-gunsou-taiketsu-gekisou-keronprix-daisakusen-de-arimasu.json) |
@@ -2227,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -4447,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koumajou Remilia Ⅱ: Stranger's Requiem | 79973 | [79973-koumajou-remilia-ii-strangers-requiem.json](./79973-koumajou-remilia-ii-strangers-requiem.json) |
 | Kounai Shasei Vol.1: Yonimo H na Monogatari | 248107 | [248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json](./248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json) |
 | Kouryaku Casino Bar | 37954 | [37954-kouryaku-casino-bar.json](./37954-kouryaku-casino-bar.json) |
+| Kouryu Densetsu Villgust Gaiden | 48438 | [48438-kouryu-densetsu-villgust-gaiden.json](./48438-kouryu-densetsu-villgust-gaiden.json) |
 | Kousai Toshi | 280682 | [280682-kousai-toshi.json](./280682-kousai-toshi.json) |
 | Koushien 2 | 37953 | [37953-koushien-2.json](./37953-koushien-2.json) |
 | Koushien 3 | 37952 | [37952-koushien-3.json](./37952-koushien-3.json) |
@@ -4717,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuis Iseng Kaesang | 303108 | [303108-kuis-iseng-kaesang.json](./303108-kuis-iseng-kaesang.json) |
 | Kuizu! Batounea! | 411565 | [411565-kuizu-batounea.json](./411565-kuizu-batounea.json) |
 | Kujaku-ou 2 | 45550 | [45550-kujaku-ou-2.json](./45550-kujaku-ou-2.json) |
+| Kujaku-ou II | 48439 | [48439-kujaku-ou-ii.json](./48439-kujaku-ou-ii.json) |
 | Kujibiki Unbalance: Kaichou Onegai Smash Fight | 165564 | [165564-kujibiki-unbalance-kaichou-onegai-smash-fight.json](./165564-kujibiki-unbalance-kaichou-onegai-smash-fight.json) |
 | KukkoroDays | 136255 | [136255-kukkorodays.json](./136255-kukkorodays.json) |
 | Kukoo Kitchen | 112349 | [112349-kukoo-kitchen.json](./112349-kukoo-kitchen.json) |
