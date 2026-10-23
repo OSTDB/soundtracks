@@ -2908,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Part 3 | 398844 | [398844-castlevania-part-3.json](./398844-castlevania-part-3.json) |
 | Castlevania: Portrait of Ruin | 1138 | [1138-castlevania-portrait-of-ruin.json](./1138-castlevania-portrait-of-ruin.json) |
 | Castlevania: Portrait of Ruin | 315315 | [315315-castlevania-portrait-of-ruin.json](./315315-castlevania-portrait-of-ruin.json) |
+| Castlevania: Resurrection | 67824 | [67824-castlevania-resurrection.json](./67824-castlevania-resurrection.json) |
 | Castlevania: Rondo of Blood | 1139 | [1139-castlevania-rondo-of-blood.json](./1139-castlevania-rondo-of-blood.json) |
 | Castlevania: Rondo of the Night | 394858 | [394858-castlevania-rondo-of-the-night.json](./394858-castlevania-rondo-of-the-night.json) |
 | Castlevania: Seal of the Eclipse | 240147 | [240147-castlevania-seal-of-the-eclipse.json](./240147-castlevania-seal-of-the-eclipse.json) |
@@ -8637,6 +8638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobra: Kokuryuu Ou no Densetsu | 74749 | [74749-cobra-kokuryuu-ou-no-densetsu.json](./74749-cobra-kokuryuu-ou-no-densetsu.json) |
 | Cobra: Kokuryuuou no Densetsu | 73724 | [73724-cobra-kokuryuuou-no-densetsu.json](./73724-cobra-kokuryuuou-no-densetsu.json) |
 | Cobra's Arc | 39110 | [39110-cobras-arc.json](./39110-cobras-arc.json) |
+| Coca-Cola Happiness Factory - Mortar Men | 67815 | [67815-coca-cola-happiness-factory-mortar-men.json](./67815-coca-cola-happiness-factory-mortar-men.json) |
 | Coca-Cola Lawnmower | 329722 | [329722-coca-cola-lawnmower.json](./329722-coca-cola-lawnmower.json) |
 | Cocaine Dealer | 369903 | [369903-cocaine-dealer.json](./369903-cocaine-dealer.json) |
 | Cocaine McBain | 185007 | [185007-cocaine-mcbain.json](./185007-cocaine-mcbain.json) |
@@ -8799,6 +8801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coded Arms | 21619 | [21619-coded-arms.json](./21619-coded-arms.json) |
 | Coded Arms: Assault | 137876 | [137876-coded-arms-assault.json](./137876-coded-arms-assault.json) |
 | Coded Black | 347784 | [347784-coded-black.json](./347784-coded-black.json) |
+| Coded Soul: Uketsugareshi Idea | 67801 | [67801-coded-soul-uketsugareshi-idea.json](./67801-coded-soul-uketsugareshi-idea.json) |
 | Codedoor | 281997 | [281997-codedoor.json](./281997-codedoor.json) |
 | Codemakers | 193411 | [193411-codemakers.json](./193411-codemakers.json) |
 | Codemancer | 121400 | [121400-codemancer.json](./121400-codemancer.json) |
