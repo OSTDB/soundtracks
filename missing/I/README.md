@@ -2383,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In This House | 327375 | [327375-in-this-house.json](./327375-in-this-house.json) |
 | In Time | 380768 | [380768-in-time.json](./380768-in-time.json) |
 | In to the 029 | 207783 | [207783-in-to-the-029.json](./207783-in-to-the-029.json) |
+| In Torment: The Case of the Drawing Girl | 98315 | [98315-in-torment-the-case-of-the-drawing-girl.json](./98315-in-torment-the-case-of-the-drawing-girl.json) |
 | In Tran Sit | 184612 | [184612-in-tran-sit.json](./184612-in-tran-sit.json) |
 | In Truck Driving | 276647 | [276647-in-truck-driving.json](./276647-in-truck-driving.json) |
 | In Ukrainian Soil | 241276 | [241276-in-ukrainian-soil.json](./241276-in-ukrainian-soil.json) |
@@ -5161,6 +5162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Lurks in the Woods | 29513 | [29513-it-lurks-in-the-woods.json](./29513-it-lurks-in-the-woods.json) |
 | It Makes for Painful Work | 353817 | [353817-it-makes-for-painful-work.json](./353817-it-makes-for-painful-work.json) |
 | It Mimics | 280104 | [280104-it-mimics.json](./280104-it-mimics.json) |
+| It Moves | 98215 | [98215-it-moves.json](./98215-it-moves.json) |
 | It Pays to Be a Winner | 122410 | [122410-it-pays-to-be-a-winner.json](./122410-it-pays-to-be-a-winner.json) |
 | It Runs Red | 117440 | [117440-it-runs-red.json](./117440-it-runs-red.json) |
 | It Sleeps Below the Haar | 217396 | [217396-it-sleeps-below-the-haar.json](./217396-it-sleeps-below-the-haar.json) |
