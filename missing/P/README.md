@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachiko | 357310 | [357310-pachiko.json](./357310-pachiko.json) |
 | Pachillinko | 188665 | [188665-pachillinko.json](./188665-pachillinko.json) |
 | Pachinko | 6123 | [6123-pachinko.json](./6123-pachinko.json) |
+| Pachinko | 85898 | [85898-pachinko.json](./85898-pachinko.json) |
 | Pachinko 365 Nichi | 136737 | [136737-pachinko-365-nichi.json](./136737-pachinko-365-nichi.json) |
 | Pachinko Challenger | 42237 | [42237-pachinko-challenger.json](./42237-pachinko-challenger.json) |
 | Pachinko CR Daiku no Gen-san GB | 55962 | [55962-pachinko-cr-daiku-no-gen-san-gb.json](./55962-pachinko-cr-daiku-no-gen-san-gb.json) |
@@ -360,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack 5 Action Games | 131155 | [131155-pack-5-action-games.json](./131155-pack-5-action-games.json) |
 | Pack 5 Flying Games | 131181 | [131181-pack-5-flying-games.json](./131181-pack-5-flying-games.json) |
 | Pack 5 Puzzle Games | 100021 | [100021-pack-5-puzzle-games.json](./100021-pack-5-puzzle-games.json) |
+| Pack 5 Racing Games | 85944 | [85944-pack-5-racing-games.json](./85944-pack-5-racing-games.json) |
 | Pack A Plush! | 422163 | [422163-pack-a-plush.json](./422163-pack-a-plush.json) |
 | Pack A Truck | 54729 | [54729-pack-a-truck.json](./54729-pack-a-truck.json) |
 | Pack and Ship: Warehouse Simulator | 389963 | [389963-pack-and-ship-warehouse-simulator.json](./389963-pack-and-ship-warehouse-simulator.json) |
@@ -1045,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panilla Saga | 159068 | [159068-panilla-saga.json](./159068-panilla-saga.json) |
 | Panin | 358331 | [358331-panin.json](./358331-panin.json) |
 | Panini Adventure | 208104 | [208104-panini-adventure.json](./208104-panini-adventure.json) |
+| Panique | 85937 | [85937-panique.json](./85937-panique.json) |
 | Pankapu: Episode 2 | 170225 | [170225-pankapu-episode-2.json](./170225-pankapu-episode-2.json) |
 | Panmorphia | 96536 | [96536-panmorphia.json](./96536-panmorphia.json) |
 | Panmorphia: Awakened | 197256 | [197256-panmorphia-awakened.json](./197256-panmorphia-awakened.json) |
@@ -2630,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws & Claws Best Friends: Dogs & Cats | 61009 | [61009-paws-and-claws-best-friends-dogs-and-cats.json](./61009-paws-and-claws-best-friends-dogs-and-cats.json) |
 | Paws & Claws Pampered Pets | 288196 | [288196-paws-and-claws-pampered-pets.json](./288196-paws-and-claws-pampered-pets.json) |
 | Paws & Claws Pampered Pets 2 | 202226 | [202226-paws-and-claws-pampered-pets-2.json](./202226-paws-and-claws-pampered-pets-2.json) |
+| Paws & Claws Pampered Pets Resort 3D | 85890 | [85890-paws-and-claws-pampered-pets-resort-3d.json](./85890-paws-and-claws-pampered-pets-resort-3d.json) |
 | Paws & Claws Pet Vet: Australian Adventures | 47977 | [47977-paws-and-claws-pet-vet-australian-adventures.json](./47977-paws-and-claws-pet-vet-australian-adventures.json) |
 | Paws & Claws Regal Resort | 210015 | [210015-paws-and-claws-regal-resort.json](./210015-paws-and-claws-regal-resort.json) |
 | Paws & Claws: Dogs & Cats Best Friends | 47893 | [47893-paws-and-claws-dogs-and-cats-best-friends.json](./47893-paws-and-claws-dogs-and-cats-best-friends.json) |
@@ -3795,6 +3799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Hospital | 85342 | [85342-pet-hospital.json](./85342-pet-hospital.json) |
 | Pet Hotel Tycoon | 25066 | [25066-pet-hotel-tycoon.json](./25066-pet-hotel-tycoon.json) |
 | Pet idle | 189005 | [189005-pet-idle.json](./189005-pet-idle.json) |
+| Pet in TV | 85916 | [85916-pet-in-tv.json](./85916-pet-in-tv.json) |
 | Pet Inn 3D | 85341 | [85341-pet-inn-3d.json](./85341-pet-inn-3d.json) |
 | Pet Kawaii Shop | 317211 | [317211-pet-kawaii-shop.json](./317211-pet-kawaii-shop.json) |
 | Pet Knight into cave | 161262 | [161262-pet-knight-into-cave.json](./161262-pet-knight-into-cave.json) |
@@ -9783,6 +9788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Billiards 3D | 241869 | [241869-pool-billiards-3d.json](./241869-pool-billiards-3d.json) |
 | Pool Break 3D Billiards 8 Ball, 9 Ball, Snooker | 100147 | [100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json](./100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json) |
 | Pool Break Pro 3D Billiards | 96292 | [96292-pool-break-pro-3d-billiards.json](./96292-pool-break-pro-3d-billiards.json) |
+| Pool Champion | 85929 | [85929-pool-champion.json](./85929-pool-champion.json) |
 | Pool Club kara no Dasshutsu | 358493 | [358493-pool-club-kara-no-dasshutsu.json](./358493-pool-club-kara-no-dasshutsu.json) |
 | Pool Edge | 4072 | [4072-pool-edge.json](./4072-pool-edge.json) |
 | Pool Elite | 103180 | [103180-pool-elite.json](./103180-pool-elite.json) |
@@ -13297,6 +13303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho | 192245 | [192245-psycho.json](./192245-psycho.json) |
 | Psycho | 320238 | [320238-psycho.json](./320238-psycho.json) |
 | Psycho | 378393 | [378393-psycho.json](./378393-psycho.json) |
+| Psycho | 85904 | [85904-psycho.json](./85904-psycho.json) |
 | Psycho Boy: Dasshutsu Game | 223968 | [223968-psycho-boy-dasshutsu-game.json](./223968-psycho-boy-dasshutsu-game.json) |
 | Psycho Boys | 241407 | [241407-psycho-boys.json](./241407-psycho-boys.json) |
 | Psycho Casket | 408287 | [408287-psycho-casket.json](./408287-psycho-casket.json) |
