@@ -1805,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Monster: Online Card Game | 94071 | [94071-elemental-monster-online-card-game.json](./94071-elemental-monster-online-card-game.json) |
 | Elemental Ninja | 61119 | [61119-elemental-ninja.json](./61119-elemental-ninja.json) |
 | Elemental Odyssey | 253373 | [253373-elemental-odyssey.json](./253373-elemental-odyssey.json) |
+| Elemental Ou | 79066 | [79066-elemental-ou.json](./79066-elemental-ou.json) |
 | Elemental Pinball | 310964 | [310964-elemental-pinball.json](./310964-elemental-pinball.json) |
 | Elemental Raiders | 231614 | [231614-elemental-raiders.json](./231614-elemental-raiders.json) |
 | Elemental Rush | 360689 | [360689-elemental-rush.json](./360689-elemental-rush.json) |
