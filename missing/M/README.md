@@ -3927,6 +3927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masks for Sale | 180526 | [180526-masks-for-sale.json](./180526-masks-for-sale.json) |
 | Masks of Deception | 200705 | [200705-masks-of-deception.json](./200705-masks-of-deception.json) |
 | Masky | 30557 | [30557-masky.json](./30557-masky.json) |
+| Maso Marble | 81044 | [81044-maso-marble.json](./81044-maso-marble.json) |
 | Masochisia | 13189 | [13189-masochisia.json](./13189-masochisia.json) |
 | Masochistic Maiden Aria and the Cavern of Blissful Agony | 252178 | [252178-masochistic-maiden-aria-and-the-cavern-of-blissful-agony.json](./252178-masochistic-maiden-aria-and-the-cavern-of-blissful-agony.json) |
 | Mason and Strings | 183606 | [183606-mason-and-strings.json](./183606-mason-and-strings.json) |
@@ -7923,6 +7924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteorites | 24787 | [24787-meteorites.json](./24787-meteorites.json) |
 | Meteoroids | 307592 | [307592-meteoroids.json](./307592-meteoroids.json) |
 | Meteors | 13737 | [13737-meteors.json](./13737-meteors.json) |
+| Meteors | 80993 | [80993-meteors.json](./80993-meteors.json) |
 | Meteorus: O Universo em Conflito | 296190 | [296190-meteorus-o-universo-em-conflito.json](./296190-meteorus-o-universo-em-conflito.json) |
 | Meteos | 1165 | [1165-meteos.json](./1165-meteos.json) |
 | Meteos Astro Blocks | 344473 | [344473-meteos-astro-blocks.json](./344473-meteos-astro-blocks.json) |
@@ -10410,6 +10412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minnie's Fruit Fiasco | 246514 | [246514-minnies-fruit-fiasco.json](./246514-minnies-fruit-fiasco.json) |
 | Minnie's Pearls | 246515 | [246515-minnies-pearls.json](./246515-minnies-pearls.json) |
 | Mino Monsters | 176697 | [176697-mino-monsters.json](./176697-mino-monsters.json) |
+| Mino Saga | 81040 | [81040-mino-saga.json](./81040-mino-saga.json) |
 | Minoes | 133250 | [133250-minoes.json](./133250-minoes.json) |
 | Minor Deity | 371478 | [371478-minor-deity.json](./371478-minor-deity.json) |
 | Minor Leader | 121285 | [121285-minor-leader.json](./121285-minor-leader.json) |
@@ -16900,6 +16903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysteria of the World: The Forest of Death | 188950 | [188950-mysteria-of-the-world-the-forest-of-death.json](./188950-mysteria-of-the-world-the-forest-of-death.json) |
 | Mysterica | 158908 | [158908-mysterica.json](./158908-mysterica.json) |
 | Mysteries & Nightmares: Morgiana | 35445 | [35445-mysteries-and-nightmares-morgiana.json](./35445-mysteries-and-nightmares-morgiana.json) |
+| Mysteries Dragon Chess | 81046 | [81046-mysteries-dragon-chess.json](./81046-mysteries-dragon-chess.json) |
 | Mysteries of Darkness | 187120 | [187120-mysteries-of-darkness.json](./187120-mysteries-of-darkness.json) |
 | Mysteries of Fence | 52086 | [52086-mysteries-of-fence.json](./52086-mysteries-of-fence.json) |
 | Mysteries of Horus | 54222 | [54222-mysteries-of-horus.json](./54222-mysteries-of-horus.json) |
