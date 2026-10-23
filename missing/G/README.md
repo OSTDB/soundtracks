@@ -2632,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geppaku: Monogatari | 342664 | [342664-geppaku-monogatari.json](./342664-geppaku-monogatari.json) |
 | Geppetto | 333094 | [333094-geppetto.json](./333094-geppetto.json) |
 | Geppetto 2 | 333097 | [333097-geppetto-2.json](./333097-geppetto-2.json) |
+| Geraldinho | 92871 | [92871-geraldinho.json](./92871-geraldinho.json) |
 | Geras | 301883 | [301883-geras.json](./301883-geras.json) |
 | Gerbil Mech Program | 363908 | [363908-gerbil-mech-program.json](./363908-gerbil-mech-program.json) |
 | Gerbil Physics | 93524 | [93524-gerbil-physics.json](./93524-gerbil-physics.json) |
@@ -6975,6 +6976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greenhouse: Schism | 377269 | [377269-greenhouse-schism.json](./377269-greenhouse-schism.json) |
 | Greenhouse: Tidy Up! | 416831 | [416831-greenhouse-tidy-up.json](./416831-greenhouse-tidy-up.json) |
 | Greenie's Little Adventure | 58500 | [58500-greenies-little-adventure.json](./58500-greenies-little-adventure.json) |
+| Greenies | 92897 | [92897-greenies.json](./92897-greenies.json) |
 | Greenland | 291877 | [291877-greenland.json](./291877-greenland.json) |
 | Greenlander | 236838 | [236838-greenlander.json](./236838-greenlander.json) |
 | Greenman | 276804 | [276804-greenman.json](./276804-greenman.json) |
@@ -8218,6 +8220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gulag | 115179 | [115179-gulag.json](./115179-gulag.json) |
 | Gulag | 268773 | [268773-gulag.json](./268773-gulag.json) |
 | Gulclight TDF2 | 64747 | [64747-gulclight-tdf2.json](./64747-gulclight-tdf2.json) |
+| Guldkorn Expressen | 92880 | [92880-guldkorn-expressen.json](./92880-guldkorn-expressen.json) |
 | Gulf of Aden - Task Force Somalia | 34370 | [34370-gulf-of-aden-task-force-somalia.json](./34370-gulf-of-aden-task-force-somalia.json) |
 | Gulf Storm | 40154 | [40154-gulf-storm.json](./40154-gulf-storm.json) |
 | Gulf Strike | 25034 | [25034-gulf-strike.json](./25034-gulf-strike.json) |
