@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back Alley Inn | 188905 | [188905-back-alley-inn.json](./188905-back-alley-inn.json) |
 | Back and Back to Hell | 187189 | [187189-back-and-back-to-hell.json](./187189-back-and-back-to-hell.json) |
 | Back at the Barnyard: Slop Bucket Games | 7994 | [7994-back-at-the-barnyard-slop-bucket-games.json](./7994-back-at-the-barnyard-slop-bucket-games.json) |
+| Back Door Man | 57997 | [57997-back-door-man.json](./57997-back-door-man.json) |
 | Back Fire | 301085 | [301085-back-fire.json](./301085-back-fire.json) |
 | Back From Earth | 379176 | [379176-back-from-earth.json](./379176-back-from-earth.json) |
 | Back From Hell | 24877 | [24877-back-from-hell.json](./24877-back-from-hell.json) |
@@ -315,6 +316,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back from Void | 275069 | [275069-back-from-void.json](./275069-back-from-void.json) |
 | Back Home for Christmas | 175840 | [175840-back-home-for-christmas.json](./175840-back-home-for-christmas.json) |
 | Back In 1995 64 | 85503 | [85503-back-in-1995-64.json](./85503-back-in-1995-64.json) |
+| Back in Time | 57995 | [57995-back-in-time.json](./57995-back-in-time.json) |
+| Back in Time Part II: Back to the Nineties | 57996 | [57996-back-in-time-part-ii-back-to-the-nineties.json](./57996-back-in-time-part-ii-back-to-the-nineties.json) |
 | Back Light | 319864 | [319864-back-light.json](./319864-back-light.json) |
 | Back of Space | 171436 | [171436-back-of-space.json](./171436-back-of-space.json) |
 | Back Rank Chess | 232923 | [232923-back-rank-chess.json](./232923-back-rank-chess.json) |
@@ -746,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -13052,6 +13056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Dreams 3D | 330724 | [330724-bubble-dreams-3d.json](./330724-bubble-dreams-3d.json) |
 | Bubble Escape WTH? | 110230 | [110230-bubble-escape-wth.json](./110230-bubble-escape-wth.json) |
 | Bubble Explosion Adventure | 87691 | [87691-bubble-explosion-adventure.json](./87691-bubble-explosion-adventure.json) |
+| Bubble Fighter | 58095 | [58095-bubble-fighter.json](./58095-bubble-fighter.json) |
 | Bubble Fresh Fruits | 289376 | [289376-bubble-fresh-fruits.json](./289376-bubble-fresh-fruits.json) |
 | Bubble Frog | 290337 | [290337-bubble-frog.json](./290337-bubble-frog.json) |
 | Bubble Ghost Remake | 250892 | [250892-bubble-ghost-remake.json](./250892-bubble-ghost-remake.json) |
