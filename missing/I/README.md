@@ -3286,6 +3286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial Prospect | 178844 | [178844-initial-prospect.json](./178844-initial-prospect.json) |
 | Initial Unity | 342282 | [342282-initial-unity.json](./342282-initial-unity.json) |
 | Initiating Station Plus | 374225 | [374225-initiating-station-plus.json](./374225-initiating-station-plus.json) |
+| Initiation | 81027 | [81027-initiation.json](./81027-initiation.json) |
 | Initium | 112219 | [112219-initium.json](./112219-initium.json) |
 | Initium | 342793 | [342793-initium.json](./342793-initium.json) |
 | Initium Legenda | 192972 | [192972-initium-legenda.json](./192972-initium-legenda.json) |
@@ -5033,6 +5034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of the Crown | 137362 | [137362-isle-of-the-crown.json](./137362-isle-of-the-crown.json) |
 | Isle of Tune Mobile | 101665 | [101665-isle-of-tune-mobile.json](./101665-isle-of-tune-mobile.json) |
 | Isle TD | 109195 | [109195-isle-td.json](./109195-isle-td.json) |
+| Isle TD | 81006 | [81006-isle-td.json](./81006-isle-td.json) |
 | Isle Vacation | 401124 | [401124-isle-vacation.json](./401124-isle-vacation.json) |
 | Isles | 209323 | [209323-isles.json](./209323-isles.json) |
 | Isles Above | 337082 | [337082-isles-above.json](./337082-isles-above.json) |
