@@ -8321,6 +8321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Smash | 58834 | [58834-block-smash.json](./58834-block-smash.json) |
 | Block Smasher: 3D Arcade Action Reaction Brick Breaker Game | 90667 | [90667-block-smasher-3d-arcade-action-reaction-brick-breaker-game.json](./90667-block-smasher-3d-arcade-action-reaction-brick-breaker-game.json) |
 | Block Smashers | 96473 | [96473-block-smashers.json](./96473-block-smashers.json) |
+| Block Sport | 83369 | [83369-block-sport.json](./83369-block-sport.json) |
 | Block Sprawl | 406673 | [406673-block-sprawl.json](./406673-block-sprawl.json) |
 | Block Steady | 218887 | [218887-block-steady.json](./218887-block-steady.json) |
 | Block Story | 9175 | [9175-block-story.json](./9175-block-story.json) |
@@ -13651,6 +13652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bump Jump | 246319 | [246319-bump-jump.json](./246319-bump-jump.json) |
 | Bump N' Run | 221896 | [221896-bump-n-run.json](./221896-bump-n-run.json) |
 | Bump Over | 94655 | [94655-bump-over.json](./94655-bump-over.json) |
+| Bump Set Spike!: Doubles Volleyball | 83355 | [83355-bump-set-spike-doubles-volleyball.json](./83355-bump-set-spike-doubles-volleyball.json) |
 | Bump Sheep | 253202 | [253202-bump-sheep.json](./253202-bump-sheep.json) |
 | Bump.io: Arena of Bumper | 106960 | [106960-bump-io-arena-of-bumper.json](./106960-bump-io-arena-of-bumper.json) |
 | Bump+Smack | 38762 | [38762-bump-smack.json](./38762-bump-smack.json) |
@@ -14194,6 +14196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busin 0: Wizardry Alternative Neo | 59213 | [59213-busin-0-wizardry-alternative-neo.json](./59213-busin-0-wizardry-alternative-neo.json) |
 | Business 98 | 391200 | [391200-business-98.json](./391200-business-98.json) |
 | Business Boardwalk | 146812 | [146812-business-boardwalk.json](./146812-business-boardwalk.json) |
+| Business Clicker | 83364 | [83364-business-clicker.json](./83364-business-clicker.json) |
 | Business Empire | 235374 | [235374-business-empire.json](./235374-business-empire.json) |
 | Business Empire | 400657 | [400657-business-empire.json](./400657-business-empire.json) |
 | Business Empire Tycoon | 309489 | [309489-business-empire-tycoon.json](./309489-business-empire-tycoon.json) |
