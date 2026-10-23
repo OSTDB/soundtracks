@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Town | 342825 | [342825-oil-town.json](./342825-oil-town.json) |
 | Oil Truck Transporter | 310055 | [310055-oil-truck-transporter.json](./310055-oil-truck-transporter.json) |
 | Oil Tycoon | 203192 | [203192-oil-tycoon.json](./203192-oil-tycoon.json) |
+| Oil Tycoon | 92898 | [92898-oil-tycoon.json](./92898-oil-tycoon.json) |
 | Oil Tycoon 2 | 219261 | [219261-oil-tycoon-2.json](./219261-oil-tycoon-2.json) |
 | Oil Wars | 129069 | [129069-oil-wars.json](./129069-oil-wars.json) |
 | Oil.exe | 407889 | [407889-oil-exe.json](./407889-oil-exe.json) |
@@ -1657,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Inside | 181368 | [181368-once-inside.json](./181368-once-inside.json) |
 | Once More | 127806 | [127806-once-more.json](./127806-once-more.json) |
 | Once On a Windswept Night | 29631 | [29631-once-on-a-windswept-night.json](./29631-once-on-a-windswept-night.json) |
+| Once Twice Thrice | 92882 | [92882-once-twice-thrice.json](./92882-once-twice-thrice.json) |
 | Once Up | 345005 | [345005-once-up.json](./345005-once-up.json) |
 | Once Upon a Breeze | 163989 | [163989-once-upon-a-breeze.json](./163989-once-upon-a-breeze.json) |
 | Once Upon A Card | 408765 | [408765-once-upon-a-card.json](./408765-once-upon-a-card.json) |
@@ -2669,6 +2671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenTyrian | 46729 | [46729-opentyrian.json](./46729-opentyrian.json) |
 | OpenViva | 316813 | [316813-openviva.json](./316813-openviva.json) |
 | OpenXcom | 128210 | [128210-openxcom.json](./128210-openxcom.json) |
+| Opera Fatal | 92908 | [92908-opera-fatal.json](./92908-opera-fatal.json) |
 | Opera Nova | 280084 | [280084-opera-nova.json](./280084-opera-nova.json) |
 | Opera Omnia | 77359 | [77359-opera-omnia.json](./77359-opera-omnia.json) |
 | Opera Prima | 325565 | [325565-opera-prima.json](./325565-opera-prima.json) |
