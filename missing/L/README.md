@@ -7229,6 +7229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low Grav Racer 2 | 63192 | [63192-low-grav-racer-2.json](./63192-low-grav-racer-2.json) |
 | Low Knight | 182072 | [182072-low-knight.json](./182072-low-knight.json) |
 | Low Light Combat | 158954 | [158954-low-light-combat.json](./158954-low-light-combat.json) |
+| Low Light Combat | 63697 | [63697-low-light-combat.json](./63697-low-light-combat.json) |
 | Low Mem Sky | 181253 | [181253-low-mem-sky.json](./181253-low-mem-sky.json) |
 | Low Oxygen | 239697 | [239697-low-oxygen.json](./239697-low-oxygen.json) |
 | Low Poly Flight Simulator | 411572 | [411572-low-poly-flight-simulator.json](./411572-low-poly-flight-simulator.json) |
