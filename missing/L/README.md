@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lagunita | 228275 | [228275-lagunita.json](./228275-lagunita.json) |
 | Lái Shàng Dàxué ba! | 130149 | [130149-lai-shang-daxue-ba.json](./130149-lai-shang-daxue-ba.json) |
 | Laid Back in the Alternative World | 82598 | [82598-laid-back-in-the-alternative-world.json](./82598-laid-back-in-the-alternative-world.json) |
+| Laid Off from the Synesthesia Factory | 59701 | [59701-laid-off-from-the-synesthesia-factory.json](./59701-laid-off-from-the-synesthesia-factory.json) |
 | Laid-Back Camp All-in-one!! | 255095 | [255095-laid-back-camp-all-in-one.json](./255095-laid-back-camp-all-in-one.json) |
 | Laid-Back Camp: Camping Cook-Off! | 402936 | [402936-laid-back-camp-camping-cook-off.json](./402936-laid-back-camp-camping-cook-off.json) |
 | Laid-Back Camp: Have a nice day! | 146334 | [146334-laid-back-camp-have-a-nice-day.json](./146334-laid-back-camp-have-a-nice-day.json) |
@@ -3621,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Snow Wolf | 246981 | [246981-life-of-snow-wolf.json](./246981-life-of-snow-wolf.json) |
 | Life of Tabayama | 344557 | [344557-life-of-tabayama.json](./344557-life-of-tabayama.json) |
 | Life on a Pizza | 164880 | [164880-life-on-a-pizza.json](./164880-life-on-a-pizza.json) |
+| Life on Mars? | 59700 | [59700-life-on-mars.json](./59700-life-on-mars.json) |
 | Life on the Earth | 175677 | [175677-life-on-the-earth.json](./175677-life-on-the-earth.json) |
 | Life One | 114867 | [114867-life-one.json](./114867-life-one.json) |
 | Life Redemption | 123904 | [123904-life-redemption.json](./123904-life-redemption.json) |
