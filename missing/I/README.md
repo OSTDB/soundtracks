@@ -5334,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iTD | 131191 | [131191-itd.json](./131191-itd.json) |
 | Item Collector: Pirates | 369338 | [369338-item-collector-pirates.json](./369338-item-collector-pirates.json) |
 | Item Frenzy | 328516 | [328516-item-frenzy.json](./328516-item-frenzy.json) |
+| Item Getter: Bokura no Kagaku to Mahou no Kankei | 69100 | [69100-item-getter-bokura-no-kagaku-to-mahou-no-kankei.json](./69100-item-getter-bokura-no-kagaku-to-mahou-no-kankei.json) |
 | Item Shop Simulator | 406226 | [406226-item-shop-simulator.json](./406226-item-shop-simulator.json) |
 | Item Synthesis and Dungeon Exploration | 196124 | [196124-item-synthesis-and-dungeon-exploration.json](./196124-item-synthesis-and-dungeon-exploration.json) |
 | ItemDay | 244659 | [244659-itemday.json](./244659-itemday.json) |
