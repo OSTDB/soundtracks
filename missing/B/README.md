@@ -3951,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearcycle | 197125 | [197125-bearcycle.json](./197125-bearcycle.json) |
 | Beardbarians | 317900 | [317900-beardbarians.json](./317900-beardbarians.json) |
 | Bearded Dragons | 133475 | [133475-bearded-dragons.json](./133475-bearded-dragons.json) |
+| Beards & Beaks | 79095 | [79095-beards-and-beaks.json](./79095-beards-and-beaks.json) |
 | Beards Go Underground | 399258 | [399258-beards-go-underground.json](./399258-beards-go-underground.json) |
 | Beards vs. Claws | 399695 | [399695-beards-vs-claws.json](./399695-beards-vs-claws.json) |
 | Beardy McStrongarm | 129457 | [129457-beardy-mcstrongarm.json](./129457-beardy-mcstrongarm.json) |
@@ -8519,6 +8520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloks | 142080 | [142080-bloks.json](./142080-bloks.json) |
 | Blokshot Halloween | 223611 | [223611-blokshot-halloween.json](./223611-blokshot-halloween.json) |
 | Bloksie (For Now) | 386469 | [386469-bloksie-for-now.json](./386469-bloksie-for-now.json) |
+| Bloktonik | 79094 | [79094-bloktonik.json](./79094-bloktonik.json) |
 | Bloktris | 267558 | [267558-bloktris.json](./267558-bloktris.json) |
 | Bloku! | 259541 | [259541-bloku.json](./259541-bloku.json) |
 | Blokus World Tour | 51405 | [51405-blokus-world-tour.json](./51405-blokus-world-tour.json) |
