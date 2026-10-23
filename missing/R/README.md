@@ -3303,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Cemetery: Bitter Frost - Collector's Edition | 30858 | [30858-redemption-cemetery-bitter-frost-collectors-edition.json](./30858-redemption-cemetery-bitter-frost-collectors-edition.json) |
 | Redemption Cemetery: Children's Plight | 61079 | [61079-redemption-cemetery-childrens-plight.json](./61079-redemption-cemetery-childrens-plight.json) |
 | Redemption Cemetery: Clock of Fate - Collector's Edition | 83553 | [83553-redemption-cemetery-clock-of-fate-collectors-edition.json](./83553-redemption-cemetery-clock-of-fate-collectors-edition.json) |
+| Redemption Cemetery: Curse of the Raven | 63089 | [63089-redemption-cemetery-curse-of-the-raven.json](./63089-redemption-cemetery-curse-of-the-raven.json) |
 | Redemption Cemetery: Dead Park | 187929 | [187929-redemption-cemetery-dead-park.json](./187929-redemption-cemetery-dead-park.json) |
 | Redemption Cemetery: Grave Testimony | 61078 | [61078-redemption-cemetery-grave-testimony.json](./61078-redemption-cemetery-grave-testimony.json) |
 | Redemption Cemetery: Grave Testimony - Collector's Edition | 102189 | [102189-redemption-cemetery-grave-testimony-collectors-edition.json](./102189-redemption-cemetery-grave-testimony-collectors-edition.json) |
