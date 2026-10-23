@@ -1898,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkalien | 148401 | [148401-parkalien.json](./148401-parkalien.json) |
 | Parkan: Iron Strategy | 7701 | [7701-parkan-iron-strategy.json](./7701-parkan-iron-strategy.json) |
 | Parkan: The Imperial Chronicles | 7700 | [7700-parkan-the-imperial-chronicles.json](./7700-parkan-the-imperial-chronicles.json) |
+| Parkasaurus | 76422 | [76422-parkasaurus.json](./76422-parkasaurus.json) |
 | Parkasaurus: Sea Monsters | 195749 | [195749-parkasaurus-sea-monsters.json](./195749-parkasaurus-sea-monsters.json) |
 | Parked in the Dark | 128281 | [128281-parked-in-the-dark.json](./128281-parked-in-the-dark.json) |
 | Parker & Lane | 87999 | [87999-parker-and-lane.json](./87999-parker-and-lane.json) |
@@ -6800,6 +6801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Xiuzhen | 106508 | [106508-pixel-xiuzhen.json](./106508-pixel-xiuzhen.json) |
 | Pixel Z - Gun Day | 33690 | [33690-pixel-z-gun-day.json](./33690-pixel-z-gun-day.json) |
 | Pixel Z Hunter 3D | 282685 | [282685-pixel-z-hunter-3d.json](./282685-pixel-z-hunter-3d.json) |
+| Pixel Zombie | 76389 | [76389-pixel-zombie.json](./76389-pixel-zombie.json) |
 | Pixel Zombie Survival | 155942 | [155942-pixel-zombie-survival.json](./155942-pixel-zombie-survival.json) |
 | Pixel: Are You Squared? | 35701 | [35701-pixel-are-you-squared.json](./35701-pixel-are-you-squared.json) |
 | Pixel's Hallows Eve | 139209 | [139209-pixels-hallows-eve.json](./139209-pixels-hallows-eve.json) |
