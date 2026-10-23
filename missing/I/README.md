@@ -3179,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Pinball | 142871 | [142871-infinity-pinball.json](./142871-infinity-pinball.json) |
 | Infinity Pipe | 120843 | [120843-infinity-pipe.json](./120843-infinity-pipe.json) |
 | Infinity Project: Patterns | 211042 | [211042-infinity-project-patterns.json](./211042-infinity-project-patterns.json) |
+| Infinity Quest | 57531 | [57531-infinity-quest.json](./57531-infinity-quest.json) |
 | Infinity R | 340752 | [340752-infinity-r.json](./340752-infinity-r.json) |
 | Infinity Racer | 105235 | [105235-infinity-racer.json](./105235-infinity-racer.json) |
 | Infinity Rising | 315056 | [315056-infinity-rising.json](./315056-infinity-rising.json) |
@@ -3839,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intelligent Strategy Games 10 | 70246 | [70246-intelligent-strategy-games-10.json](./70246-intelligent-strategy-games-10.json) |
 | Intellivania | 270284 | [270284-intellivania.json](./270284-intellivania.json) |
 | Intellivision Collection 2 | 147179 | [147179-intellivision-collection-2.json](./147179-intellivision-collection-2.json) |
+| Intellivision Flashback | 57450 | [57450-intellivision-flashback.json](./57450-intellivision-flashback.json) |
 | Intellivision Greatest Hits: 20th Anniversary Edition | 210044 | [210044-intellivision-greatest-hits-20th-anniversary-edition.json](./210044-intellivision-greatest-hits-20th-anniversary-edition.json) |
 | Intellivision Lives! | 3956 | [3956-intellivision-lives.json](./3956-intellivision-lives.json) |
 | Intellivision Rocks | 73321 | [73321-intellivision-rocks.json](./73321-intellivision-rocks.json) |
