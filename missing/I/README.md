@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Spy Challenger! | 49294 | [49294-i-spy-challenger.json](./49294-i-spy-challenger.json) |
 | I Spy Fantasy | 73162 | [73162-i-spy-fantasy.json](./73162-i-spy-fantasy.json) |
 | I Spy Fun House | 252149 | [252149-i-spy-fun-house.json](./252149-i-spy-fun-house.json) |
+| I Spy Fun House | 47784 | [47784-i-spy-fun-house.json](./47784-i-spy-fun-house.json) |
 | I Spy Game Pack | 62509 | [62509-i-spy-game-pack.json](./62509-i-spy-game-pack.json) |
 | I Spy Junior: Puppet Playhouse | 65181 | [65181-i-spy-junior-puppet-playhouse.json](./65181-i-spy-junior-puppet-playhouse.json) |
 | I Spy Mystery | 69891 | [69891-i-spy-mystery.json](./69891-i-spy-mystery.json) |
@@ -429,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Spy Spooky Mansion | 19844 | [19844-i-spy-spooky-mansion.json](./19844-i-spy-spooky-mansion.json) |
 | I Spy Spooky Mansion Deluxe | 141372 | [141372-i-spy-spooky-mansion-deluxe.json](./141372-i-spy-spooky-mansion-deluxe.json) |
 | I Spy Treasure Hunt | 73852 | [73852-i-spy-treasure-hunt.json](./73852-i-spy-treasure-hunt.json) |
+| I Spy Universe | 47783 | [47783-i-spy-universe.json](./47783-i-spy-universe.json) |
 | I Spy With Lola HD: A Fun Word Game for Kids! | 108270 | [108270-i-spy-with-lola-hd-a-fun-word-game-for-kids.json](./108270-i-spy-with-lola-hd-a-fun-word-game-for-kids.json) |
 | I Spy With Lola: A Fun Word Game for Kids! | 88606 | [88606-i-spy-with-lola-a-fun-word-game-for-kids.json](./88606-i-spy-with-lola-a-fun-word-game-for-kids.json) |
 | I Spy: Challenger! | 230430 | [230430-i-spy-challenger.json](./230430-i-spy-challenger.json) |
