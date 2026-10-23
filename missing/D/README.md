@@ -1619,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkend | 331684 | [331684-darkend.json](./331684-darkend.json) |
 | DarkEnd | 17217 | [17217-darkend.json](./17217-darkend.json) |
 | Darkenstein 3D | 235996 | [235996-darkenstein-3d.json](./235996-darkenstein-3d.json) |
+| Darker | 77807 | [77807-darker.json](./77807-darker.json) |
 | Darker Ride Escape | 310578 | [310578-darker-ride-escape.json](./310578-darker-ride-escape.json) |
 | Darker Than Space | 204921 | [204921-darker-than-space.json](./204921-darker-than-space.json) |
 | Darker Tides | 238603 | [238603-darker-tides.json](./238603-darker-tides.json) |
@@ -1831,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daruber Muss Man Schweigen | 105047 | [105047-daruber-muss-man-schweigen.json](./105047-daruber-muss-man-schweigen.json) |
 | Daruino | 185536 | [185536-daruino.json](./185536-daruino.json) |
 | Darum | 308030 | [308030-darum.json](./308030-darum.json) |
+| Daruman Busters | 77798 | [77798-daruman-busters.json](./77798-daruman-busters.json) |
 | Darumeshi Sports Store | 230306 | [230306-darumeshi-sports-store.json](./230306-darumeshi-sports-store.json) |
 | Darwin | 309853 | [309853-darwin.json](./309853-darwin.json) |
 | Darwin 4078 | 40047 | [40047-darwin-4078.json](./40047-darwin-4078.json) |
@@ -2843,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Like Ants | 216240 | [216240-dead-like-ants.json](./216240-dead-like-ants.json) |
 | Dead Link: Pages Torn | 75808 | [75808-dead-link-pages-torn.json](./75808-dead-link-pages-torn.json) |
 | Dead Mall | 342614 | [342614-dead-mall.json](./342614-dead-mall.json) |
+| Dead Man Inc | 77781 | [77781-dead-man-inc.json](./77781-dead-man-inc.json) |
 | Dead Man Shooting | 183597 | [183597-dead-man-shooting.json](./183597-dead-man-shooting.json) |
 | Dead Man's Country | 112096 | [112096-dead-mans-country.json](./112096-dead-mans-country.json) |
 | Dead Man's Day | 411684 | [411684-dead-mans-day.json](./411684-dead-mans-day.json) |
@@ -9510,6 +9513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominion: Seaside | 191111 | [191111-dominion-seaside.json](./191111-dominion-seaside.json) |
 | Dominions 3: The Awakening | 16641 | [16641-dominions-3-the-awakening.json](./16641-dominions-3-the-awakening.json) |
 | Dominions 5 | 76074 | [76074-dominions-5.json](./76074-dominions-5.json) |
+| Dominions 5: Warriors of the Faith | 77769 | [77769-dominions-5-warriors-of-the-faith.json](./77769-dominions-5-warriors-of-the-faith.json) |
 | Dominions: Priests, Prophets, and Pretenders | 70631 | [70631-dominions-priests-prophets-and-pretenders.json](./70631-dominions-priests-prophets-and-pretenders.json) |
 | Dominique Pamplemousse | 134677 | [134677-dominique-pamplemousse.json](./134677-dominique-pamplemousse.json) |
 | Dominique Pamplemousse & Dominique Pamplemousse in "Combinatorial Explosion" | 125051 | [125051-dominique-pamplemousse-and-dominique-pamplemousse-in-combinatorial-explosion.json](./125051-dominique-pamplemousse-and-dominique-pamplemousse-in-combinatorial-explosion.json) |
