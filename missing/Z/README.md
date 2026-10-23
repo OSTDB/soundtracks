@@ -567,10 +567,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen-Ichi | 82119 | [82119-zen-ichi.json](./82119-zen-ichi.json) |
 | Zen-Nihon GT Senshuken | 44411 | [44411-zen-nihon-gt-senshuken.json](./44411-zen-nihon-gt-senshuken.json) |
 | Zen-Nippon GT Senshuken MAX Rev. | 381784 | [381784-zen-nippon-gt-senshuken-max-rev.json](./381784-zen-nippon-gt-senshuken-max-rev.json) |
+| Zen-Nippon Joshi Pro Wrestling: Joou Densetsu - Yume no Taikousen | 45029 | [45029-zen-nippon-joshi-pro-wrestling-joou-densetsu-yume-no-taikousen.json](./45029-zen-nippon-joshi-pro-wrestling-joou-densetsu-yume-no-taikousen.json) |
 | Zen-Nippon Joshi Pro Wrestling: Queen of Queens | 45954 | [45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json](./45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json) |
 | Zen-Nippon Pro Wrestling | 61503 | [61503-zen-nippon-pro-wrestling.json](./61503-zen-nippon-pro-wrestling.json) |
 | Zen-Nippon Pro Wrestling Featuring Virtua | 46089 | [46089-zen-nippon-pro-wrestling-featuring-virtua.json](./46089-zen-nippon-pro-wrestling-featuring-virtua.json) |
 | Zen-Nippon Pro Wrestling: Fight Da Pon! | 65200 | [65200-zen-nippon-pro-wrestling-fight-da-pon.json](./65200-zen-nippon-pro-wrestling-fight-da-pon.json) |
+| Zen-Nippon Pro Wrestling: Ouja no Tamashii | 45073 | [45073-zen-nippon-pro-wrestling-ouja-no-tamashii.json](./45073-zen-nippon-pro-wrestling-ouja-no-tamashii.json) |
 | Zen-Nippon Shounen Soccer Taikai: Mezase Nippon Ichi! | 59051 | [59051-zen-nippon-shounen-soccer-taikai-mezase-nippon-ichi.json](./59051-zen-nippon-shounen-soccer-taikai-mezase-nippon-ichi.json) |
 | Zen: A Gay Sequel | 166048 | [166048-zen-a-gay-sequel.json](./166048-zen-a-gay-sequel.json) |
 | Zen: Intergalactic Ninja | 48251 | [48251-zen-intergalactic-ninja.json](./48251-zen-intergalactic-ninja.json) |
@@ -2023,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZX Terror House | 293359 | [293359-zx-terror-house.json](./293359-zx-terror-house.json) |
 | ZXC | 266803 | [266803-zxc.json](./266803-zxc.json) |
 | ZXD: Zombie Xtinction Defense | 328318 | [328318-zxd-zombie-xtinction-defense.json](./328318-zxd-zombie-xtinction-defense.json) |
+| ZXE-D: Legend of Plasmalite | 45071 | [45071-zxe-d-legend-of-plasmalite.json](./45071-zxe-d-legend-of-plasmalite.json) |
 | ZXombies! | 281532 | [281532-zxombies.json](./281532-zxombies.json) |
 | ZxZ | 307621 | [307621-zxz.json](./307621-zxz.json) |
 | Zybex | 47206 | [47206-zybex.json](./47206-zybex.json) |
