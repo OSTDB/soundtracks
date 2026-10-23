@@ -4799,6 +4799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Pao Banqi | 320527 | [320527-kung-pao-banqi.json](./320527-kung-pao-banqi.json) |
 | Kung Tutu | 146756 | [146756-kung-tutu.json](./146756-kung-tutu.json) |
 | Kung-fu Beat | 332672 | [332672-kung-fu-beat.json](./332672-kung-fu-beat.json) |
+| Kung-Fu Fighter | 56838 | [56838-kung-fu-fighter.json](./56838-kung-fu-fighter.json) |
 | Kung-Fu Heroes | 214619 | [214619-kung-fu-heroes.json](./214619-kung-fu-heroes.json) |
 | Kung-Fu Live | 52530 | [52530-kung-fu-live.json](./52530-kung-fu-live.json) |
 | Kung-Fu Master | 214459 | [214459-kung-fu-master.json](./214459-kung-fu-master.json) |
