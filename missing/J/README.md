@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jester Street: Card Counting Trainer | 186029 | [186029-jester-street-card-counting-trainer.json](./186029-jester-street-card-counting-trainer.json) |
 | Jester's Helper | 363047 | [363047-jesters-helper.json](./363047-jesters-helper.json) |
 | Jester's Quest | 221163 | [221163-jesters-quest.json](./221163-jesters-quest.json) |
+| Jesters Poker | 87942 | [87942-jesters-poker.json](./87942-jesters-poker.json) |
 | Jesucristo: El Robot del Futuro | 302125 | [302125-jesucristo-el-robot-del-futuro.json](./302125-jesucristo-el-robot-del-futuro.json) |
 | Jesus Christ RPG | 18450 | [18450-jesus-christ-rpg.json](./18450-jesus-christ-rpg.json) |
 | Jesus Christ RPG Trilogy | 33371 | [33371-jesus-christ-rpg-trilogy.json](./33371-jesus-christ-rpg-trilogy.json) |
@@ -2280,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoustPong | 95353 | [95353-joustpong.json](./95353-joustpong.json) |
 | Jousty Dragons | 176190 | [176190-jousty-dragons.json](./176190-jousty-dragons.json) |
 | Jovian Drive | 343463 | [343463-jovian-drive.json](./343463-jovian-drive.json) |
+| Joy Climb | 88020 | [88020-joy-climb.json](./88020-joy-climb.json) |
 | Joy e Toy | 248795 | [248795-joy-e-toy.json](./248795-joy-e-toy.json) |
 | Joy Exhibition | 56177 | [56177-joy-exhibition.json](./56177-joy-exhibition.json) |
 | Joy Flight | 221100 | [221100-joy-flight.json](./221100-joy-flight.json) |
@@ -2448,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juicy Realm | 75263 | [75263-juicy-realm.json](./75263-juicy-realm.json) |
 | Juicy Retro Style!: Bloodhound | 265203 | [265203-juicy-retro-style-bloodhound.json](./265203-juicy-retro-style-bloodhound.json) |
 | Juicy Theater | 133437 | [133437-juicy-theater.json](./133437-juicy-theater.json) |
+| Juilliard Music Adventure | 85932 | [85932-juilliard-music-adventure.json](./85932-juilliard-music-adventure.json) |
 | Juju | 17393 | [17393-juju.json](./17393-juju.json) |
 | JuJu | 385374 | [385374-juju.json](./385374-juju.json) |
 | Jujubos | 170936 | [170936-jujubos.json](./170936-jujubos.json) |
@@ -2985,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Fossil & Mine Exploration Bundle | 401122 | [401122-jurassic-fossil-and-mine-exploration-bundle.json](./401122-jurassic-fossil-and-mine-exploration-bundle.json) |
 | Jurassic Free Fall - Match 3 | 87102 | [87102-jurassic-free-fall-match-3.json](./87102-jurassic-free-fall-match-3.json) |
 | Jurassic Genesis: We Are Aliens | 411586 | [411586-jurassic-genesis-we-are-aliens.json](./411586-jurassic-genesis-we-are-aliens.json) |
+| Jurassic GO - Dinosaur Snap Adventures | 88032 | [88032-jurassic-go-dinosaur-snap-adventures.json](./88032-jurassic-go-dinosaur-snap-adventures.json) |
 | Jurassic Gym | 348437 | [348437-jurassic-gym.json](./348437-jurassic-gym.json) |
 | Jurassic Hopper: Crossy Dinos | 259734 | [259734-jurassic-hopper-crossy-dinos.json](./259734-jurassic-hopper-crossy-dinos.json) |
 | Jurassic Hunter | 151648 | [151648-jurassic-hunter.json](./151648-jurassic-hunter.json) |
@@ -3284,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Skate | 101430 | [101430-just-skate.json](./101430-just-skate.json) |
 | Just Skateboard | 322450 | [322450-just-skateboard.json](./322450-just-skateboard.json) |
 | Just Ski | 75806 | [75806-just-ski.json](./75806-just-ski.json) |
+| Just Ski and Snowboard | 88033 | [88033-just-ski-and-snowboard.json](./88033-just-ski-and-snowboard.json) |
 | Just Skill Shooter | 250465 | [250465-just-skill-shooter.json](./250465-just-skill-shooter.json) |
 | Just Skill Shooter 3: 2D Edition | 295890 | [295890-just-skill-shooter-3-2d-edition.json](./295890-just-skill-shooter-3-2d-edition.json) |
 | Just Skill Shooter: Catacombs | 340783 | [340783-just-skill-shooter-catacombs.json](./340783-just-skill-shooter-catacombs.json) |
