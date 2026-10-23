@@ -1336,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Island | 308922 | [308922-jigsaw-island.json](./308922-jigsaw-island.json) |
 | Jigsaw Island: Japan Graffiti | 123396 | [123396-jigsaw-island-japan-graffiti.json](./123396-jigsaw-island-japan-graffiti.json) |
 | Jigsaw Jab | 390678 | [390678-jigsaw-jab.json](./390678-jigsaw-jab.json) |
+| Jigsaw Jumble | 65366 | [65366-jigsaw-jumble.json](./65366-jigsaw-jumble.json) |
 | Jigsaw Kids 1 | 289370 | [289370-jigsaw-kids-1.json](./289370-jigsaw-kids-1.json) |
 | Jigsaw Madness | 43918 | [43918-jigsaw-madness.json](./43918-jigsaw-madness.json) |
 | Jigsaw Master Kids | 187095 | [187095-jigsaw-master-kids.json](./187095-jigsaw-master-kids.json) |
@@ -1908,9 +1909,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jogo da Nota | 409806 | [409806-jogo-da-nota.json](./409806-jogo-da-nota.json) |
 | Jogo de Bejos | 300525 | [300525-jogo-de-bejos.json](./300525-jogo-de-bejos.json) |
 | Jogo do Banquinho do Raul Gil | 222874 | [222874-jogo-do-banquinho-do-raul-gil.json](./222874-jogo-do-banquinho-do-raul-gil.json) |
+| Jogo Justo on the Taxes Island | 65342 | [65342-jogo-justo-on-the-taxes-island.json](./65342-jogo-justo-on-the-taxes-island.json) |
 | Jogo Satanista para Praticar o Mal | 178443 | [178443-jogo-satanista-para-praticar-o-mal.json](./178443-jogo-satanista-para-praticar-o-mal.json) |
 | Johan | 403561 | [403561-johan.json](./403561-johan.json) |
 | Johan: The Archer & The Witch | 133116 | [133116-johan-the-archer-and-the-witch.json](./133116-johan-the-archer-and-the-witch.json) |
+| Johann Sebastian Joust | 65370 | [65370-johann-sebastian-joust.json](./65370-johann-sebastian-joust.json) |
 | John Adventure | 63574 | [63574-john-adventure.json](./63574-john-adventure.json) |
 | John Adventure | 63575 | [63575-john-adventure.json](./63575-john-adventure.json) |
 | John Black: Memories | 108417 | [108417-john-black-memories.json](./108417-john-black-memories.json) |
@@ -3378,6 +3381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justin Bieber Revenge | 79575 | [79575-justin-bieber-revenge.json](./79575-justin-bieber-revenge.json) |
 | Justin Danger | 149302 | [149302-justin-danger.json](./149302-justin-danger.json) |
 | Justin Freeman's Build A House | 304647 | [304647-justin-freemans-build-a-house.json](./304647-justin-freemans-build-a-house.json) |
+| Justin Smith's Realistic Summer Sports Simulator | 65328 | [65328-justin-smiths-realistic-summer-sports-simulator.json](./65328-justin-smiths-realistic-summer-sports-simulator.json) |
 | Justin Wack and the Big Time Hack | 121639 | [121639-justin-wack-and-the-big-time-hack.json](./121639-justin-wack-and-the-big-time-hack.json) |
 | Justin Wack and the Big Time Hack: Deluxe Edition | 230819 | [230819-justin-wack-and-the-big-time-hack-deluxe-edition.json](./230819-justin-wack-and-the-big-time-hack-deluxe-edition.json) |
 | JustN | 119665 | [119665-justn.json](./119665-justn.json) |
