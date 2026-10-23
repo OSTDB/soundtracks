@@ -2129,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neoverse | 113750 | [113750-neoverse.json](./113750-neoverse.json) |
 | Nepenthe | 100600 | [100600-nepenthe.json](./100600-nepenthe.json) |
 | Nephelem: A Path of Vice and Virtue | 342653 | [342653-nephelem-a-path-of-vice-and-virtue.json](./342653-nephelem-a-path-of-vice-and-virtue.json) |
+| Nephi's Quest | 71937 | [71937-nephis-quest.json](./71937-nephis-quest.json) |
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
 | Nephilim | 341365 | [341365-nephilim.json](./341365-nephilim.json) |
 | Nephilim | 341366 | [341366-nephilim.json](./341366-nephilim.json) |
