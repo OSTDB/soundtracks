@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taboo Village: Romance Card Game | 415953 | [415953-taboo-village-romance-card-game.json](./415953-taboo-village-romance-card-game.json) |
 | Taboo: Official Party Game | 376140 | [376140-taboo-official-party-game.json](./376140-taboo-official-party-game.json) |
 | Taboo: The Sixth Sense | 288038 | [288038-taboo-the-sixth-sense.json](./288038-taboo-the-sixth-sense.json) |
+| Taboo: The Sixth Sense 2K9 | 71899 | [71899-taboo-the-sixth-sense-2k9.json](./71899-taboo-the-sixth-sense-2k9.json) |
 | Taboos: Cracks | 284239 | [284239-taboos-cracks.json](./284239-taboos-cracks.json) |
 | Tabou Stories: Love Episodes | 311675 | [311675-tabou-stories-love-episodes.json](./311675-tabou-stories-love-episodes.json) |
 | TabTab Apocalypse | 233463 | [233463-tabtab-apocalypse.json](./233463-tabtab-apocalypse.json) |
@@ -1668,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks & Planes Battle | 347003 | [347003-tanks-and-planes-battle.json](./347003-tanks-and-planes-battle.json) |
 | Tanks 2020 | 128217 | [128217-tanks-2020.json](./128217-tanks-2020.json) |
 | Tanks 3D | 328019 | [328019-tanks-3d.json](./328019-tanks-3d.json) |
+| Tanks A Lot | 71948 | [71948-tanks-a-lot.json](./71948-tanks-a-lot.json) |
 | Tanks and Turrets 3 | 247439 | [247439-tanks-and-turrets-3.json](./247439-tanks-and-turrets-3.json) |
 | Tanks Blitz | 352188 | [352188-tanks-blitz.json](./352188-tanks-blitz.json) |
 | Tanks Boom Boom | 210872 | [210872-tanks-boom-boom.json](./210872-tanks-boom-boom.json) |
@@ -7344,6 +7346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Farm | 379150 | [379150-the-farm.json](./379150-the-farm.json) |
 | The Farm You Grew Up On | 180749 | [180749-the-farm-you-grew-up-on.json](./180749-the-farm-you-grew-up-on.json) |
 | The Farmer Was Replaced | 243931 | [243931-the-farmer-was-replaced.json](./243931-the-farmer-was-replaced.json) |
+| The Farmer's Daughter | 71913 | [71913-the-farmers-daughter.json](./71913-the-farmers-daughter.json) |
 | The Farming Game | 101664 | [101664-the-farming-game.json](./101664-the-farming-game.json) |
 | The Farming One | 383601 | [383601-the-farming-one.json](./383601-the-farming-one.json) |
 | The Farmthis Gallery | 154289 | [154289-the-farmthis-gallery.json](./154289-the-farmthis-gallery.json) |
@@ -24290,6 +24293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trevor Sorensen's Star Legions | 54398 | [54398-trevor-sorensens-star-legions.json](./54398-trevor-sorensens-star-legions.json) |
 | Trex and Muscle Sam: A New Kickstart! | 22042 | [22042-trex-and-muscle-sam-a-new-kickstart.json](./22042-trex-and-muscle-sam-a-new-kickstart.json) |
 | TRex Hero | 306381 | [306381-trex-hero.json](./306381-trex-hero.json) |
+| Trex Warrior: 22nd Century Gladiator | 71909 | [71909-trex-warrior-22nd-century-gladiator.json](./71909-trex-warrior-22nd-century-gladiator.json) |
 | Treyex2D | 133690 | [133690-treyex2d.json](./133690-treyex2d.json) |
 | Tri Bogatyrya i Shamakhanskaya Tsaritsa | 337432 | [337432-tri-bogatyrya-i-shamakhanskaya-tsaritsa.json](./337432-tri-bogatyrya-i-shamakhanskaya-tsaritsa.json) |
 | Tri Breaker: A Sacred Symbols Odyssey | 322644 | [322644-tri-breaker-a-sacred-symbols-odyssey.json](./322644-tri-breaker-a-sacred-symbols-odyssey.json) |
