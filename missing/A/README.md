@@ -4207,6 +4207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Time | 179993 | [179993-air-time.json](./179993-air-time.json) |
 | Air Toons | 364397 | [364397-air-toons.json](./364397-air-toons.json) |
 | Air Traffic | 190928 | [190928-air-traffic.json](./190928-air-traffic.json) |
+| Air Traffic Commander | 60841 | [60841-air-traffic-commander.json](./60841-air-traffic-commander.json) |
 | Air Traffic Control | 15590 | [15590-air-traffic-control.json](./15590-air-traffic-control.json) |
 | Air Traffic Control | 376854 | [376854-air-traffic-control.json](./376854-air-traffic-control.json) |
 | Air Traffic Controller 4 | 59031 | [59031-air-traffic-controller-4.json](./59031-air-traffic-controller-4.json) |
@@ -4899,6 +4900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alebound | 356021 | [356021-alebound.json](./356021-alebound.json) |
 | Alec Adventure | 172971 | [172971-alec-adventure.json](./172971-alec-adventure.json) |
 | Aledorn | 197154 | [197154-aledorn.json](./197154-aledorn.json) |
+| Aleeious | 60952 | [60952-aleeious.json](./60952-aleeious.json) |
 | Aleesha's Tower | 121997 | [121997-aleeshas-tower.json](./121997-aleeshas-tower.json) |
 | Alef's Blademaker: Arms Shop | 304244 | [304244-alefs-blademaker-arms-shop.json](./304244-alefs-blademaker-arms-shop.json) |
 | Alegraz | 391895 | [391895-alegraz.json](./391895-alegraz.json) |
@@ -8530,6 +8532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anpfiff: Der RTL Fussball-Manager | 81449 | [81449-anpfiff-der-rtl-fussball-manager.json](./81449-anpfiff-der-rtl-fussball-manager.json) |
 | Anrufen Online | 67058 | [67058-anrufen-online.json](./67058-anrufen-online.json) |
 | Ansatsu Kyoshitsu: Assassin Ikusei Keikaku!! | 59326 | [59326-ansatsu-kyoshitsu-assassin-ikusei-keikaku.json](./59326-ansatsu-kyoshitsu-assassin-ikusei-keikaku.json) |
+| Ansatsu Kyoshitsu: Korosensei Daihouimou!! | 60876 | [60876-ansatsu-kyoshitsu-korosensei-daihouimou.json](./60876-ansatsu-kyoshitsu-korosensei-daihouimou.json) |
 | Anseion | 245810 | [245810-anseion.json](./245810-anseion.json) |
 | AnShi | 132740 | [132740-anshi.json](./132740-anshi.json) |
 | Ansible | 111528 | [111528-ansible.json](./111528-ansible.json) |
@@ -10373,6 +10376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Adventure | 8488 | [8488-arctic-adventure.json](./8488-arctic-adventure.json) |
 | Arctic Adventure: Episodes | 28783 | [28783-arctic-adventure-episodes.json](./28783-arctic-adventure-episodes.json) |
 | Arctic Adventures | 42780 | [42780-arctic-adventures.json](./42780-arctic-adventures.json) |
+| Arctic Adventures & Story Ice | 60839 | [60839-arctic-adventures-and-story-ice.json](./60839-arctic-adventures-and-story-ice.json) |
 | Arctic Adventures: Polar's Puzzles | 118931 | [118931-arctic-adventures-polars-puzzles.json](./118931-arctic-adventures-polars-puzzles.json) |
 | Arctic alive | 33647 | [33647-arctic-alive.json](./33647-arctic-alive.json) |
 | Arctic Anxiety | 151499 | [151499-arctic-anxiety.json](./151499-arctic-anxiety.json) |
@@ -14370,6 +14374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azito 3D | 91757 | [91757-azito-3d.json](./91757-azito-3d.json) |
 | Azito 3D Kyoto | 222332 | [222332-azito-3d-kyoto.json](./222332-azito-3d-kyoto.json) |
 | Azito 3D Tokyo | 222468 | [222468-azito-3d-tokyo.json](./222468-azito-3d-tokyo.json) |
+| Azito x Tatsunoko | 60963 | [60963-azito-x-tatsunoko.json](./60963-azito-x-tatsunoko.json) |
 | Azkend | 20368 | [20368-azkend.json](./20368-azkend.json) |
 | Azkend 2: The World Beneath | 19893 | [19893-azkend-2-the-world-beneath.json](./19893-azkend-2-the-world-beneath.json) |
 | Azlan: Rise of the Burlpups | 164991 | [164991-azlan-rise-of-the-burlpups.json](./164991-azlan-rise-of-the-burlpups.json) |
