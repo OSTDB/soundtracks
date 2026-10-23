@@ -12731,6 +12731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Vic | 280885 | [280885-project-vic.json](./280885-project-vic.json) |
 | Project Vic 2 | 295339 | [295339-project-vic-2.json](./295339-project-vic-2.json) |
 | Project Viper | 319154 | [319154-project-viper.json](./319154-project-viper.json) |
+| Project Visitor | 98300 | [98300-project-visitor.json](./98300-project-visitor.json) |
 | Project Volition | 270123 | [270123-project-volition.json](./270123-project-volition.json) |
 | Project Vostok | 258985 | [258985-project-vostok.json](./258985-project-vostok.json) |
 | Project Vostok: Episode 1 | 189892 | [189892-project-vostok-episode-1.json](./189892-project-vostok-episode-1.json) |
