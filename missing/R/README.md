@@ -3829,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic Hunters Legend | 72497 | [72497-relic-hunters-legend.json](./72497-relic-hunters-legend.json) |
 | Relic Hunters Zero | 12301 | [12301-relic-hunters-zero.json](./12301-relic-hunters-zero.json) |
 | Relic Hunters Zero: Remix | 129846 | [129846-relic-hunters-zero-remix.json](./129846-relic-hunters-zero-remix.json) |
+| Relic Keepers | 55618 | [55618-relic-keepers.json](./55618-relic-keepers.json) |
 | Relic Odyssey: Ruins Of Xantao | 259176 | [259176-relic-odyssey-ruins-of-xantao.json](./259176-relic-odyssey-ruins-of-xantao.json) |
 | Relic Raiders | 70986 | [70986-relic-raiders.json](./70986-relic-raiders.json) |
 | Relic Runway | 181312 | [181312-relic-runway.json](./181312-relic-runway.json) |
@@ -7299,6 +7300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots, Death & Venice | 172127 | [172127-robots-death-and-venice.json](./172127-robots-death-and-venice.json) |
 | Robots: create AI | 65831 | [65831-robots-create-ai.json](./65831-robots-create-ai.json) |
 | Robots: Invaders | 246801 | [246801-robots-invaders.json](./246801-robots-invaders.json) |
+| Robots.io | 55754 | [55754-robots-io.json](./55754-robots-io.json) |
 | Robotville: Dawn of Robot AI | 327961 | [327961-robotville-dawn-of-robot-ai.json](./327961-robotville-dawn-of-robot-ai.json) |
 | RobotWar | 25129 | [25129-robotwar.json](./25129-robotwar.json) |
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
@@ -9170,6 +9172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roy Rattler | 298420 | [298420-roy-rattler.json](./298420-roy-rattler.json) |
 | Roy's Bizarre Adventure | 234548 | [234548-roys-bizarre-adventure.json](./234548-roys-bizarre-adventure.json) |
 | Roy's Rugs | 199385 | [199385-roys-rugs.json](./199385-roys-rugs.json) |
+| Royal Agents: Sweet Zombie | 55638 | [55638-royal-agents-sweet-zombie.json](./55638-royal-agents-sweet-zombie.json) |
 | Royal Alchemist | 109734 | [109734-royal-alchemist.json](./109734-royal-alchemist.json) |
 | Royal Battleground IO | 158959 | [158959-royal-battleground-io.json](./158959-royal-battleground-io.json) |
 | Royal Birkdale Championship Golf | 93341 | [93341-royal-birkdale-championship-golf.json](./93341-royal-birkdale-championship-golf.json) |
