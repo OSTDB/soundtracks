@@ -1139,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannibal | 299444 | [299444-cannibal.json](./299444-cannibal.json) |
 | Cannibal Abduction | 224983 | [224983-cannibal-abduction.json](./224983-cannibal-abduction.json) |
 | Cannibal Coast | 158914 | [158914-cannibal-coast.json](./158914-cannibal-coast.json) |
+| Cannibal Cookout | 89720 | [89720-cannibal-cookout.json](./89720-cannibal-cookout.json) |
 | Cannibal Cookout: Lines | 238982 | [238982-cannibal-cookout-lines.json](./238982-cannibal-cookout-lines.json) |
 | Cannibal Court | 395205 | [395205-cannibal-court.json](./395205-cannibal-court.json) |
 | Cannibal Crossing | 140364 | [140364-cannibal-crossing.json](./140364-cannibal-crossing.json) |
@@ -9389,6 +9390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Surge | 306354 | [306354-color-surge.json](./306354-color-surge.json) |
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
 | Color Switch - Jump and Switch | 98890 | [98890-color-switch-jump-and-switch.json](./98890-color-switch-jump-and-switch.json) |
+| Color Switch Trivia | 89751 | [89751-color-switch-trivia.json](./89751-color-switch-trivia.json) |
 | Color Symphony | 17725 | [17725-color-symphony.json](./17725-color-symphony.json) |
 | Color Symphony 2 | 34396 | [34396-color-symphony-2.json](./34396-color-symphony-2.json) |
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
@@ -9452,8 +9454,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring 2 | 108638 | [108638-coloring-2.json](./108638-coloring-2.json) |
 | Coloring Animal Zoo Touch to Color Activity Coloring Book for Kids and Family Preschool Ultimate Edition | 232167 | [232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json](./232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json) |
 | Coloring Book | 338878 | [338878-coloring-book.json](./338878-coloring-book.json) |
+| Coloring Book - Dogs MAX | 89717 | [89717-coloring-book-dogs-max.json](./89717-coloring-book-dogs-max.json) |
 | Coloring Book - Easter MAX | 104708 | [104708-coloring-book-easter-max.json](./104708-coloring-book-easter-max.json) |
 | Coloring Book - Halloween | 87110 | [87110-coloring-book-halloween.json](./87110-coloring-book-halloween.json) |
+| Coloring Book - Monsters | 89789 | [89789-coloring-book-monsters.json](./89789-coloring-book-monsters.json) |
 | Coloring Book - Santa | 89029 | [89029-coloring-book-santa.json](./89029-coloring-book-santa.json) |
 | Coloring Book - Travel | 89544 | [89544-coloring-book-travel.json](./89544-coloring-book-travel.json) |
 | Coloring Book - Travel MAX | 95296 | [95296-coloring-book-travel-max.json](./95296-coloring-book-travel-max.json) |
@@ -13626,6 +13630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Snow | 221719 | [221719-crimson-snow.json](./221719-crimson-snow.json) |
 | Crimson Snow Deluxe | 310030 | [310030-crimson-snow-deluxe.json](./310030-crimson-snow-deluxe.json) |
 | Crimson Souls | 109696 | [109696-crimson-souls.json](./109696-crimson-souls.json) |
+| Crimson Survival | 89635 | [89635-crimson-survival.json](./89635-crimson-survival.json) |
 | Crimson Sword Saga: The Peloran Wars | 32183 | [32183-crimson-sword-saga-the-peloran-wars.json](./32183-crimson-sword-saga-the-peloran-wars.json) |
 | Crimson System: VɅΔ Protocol | 361073 | [361073-crimson-system-v-protocol.json](./361073-crimson-system-v-protocol.json) |
 | Crimson Tale | 334656 | [334656-crimson-tale.json](./334656-crimson-tale.json) |
