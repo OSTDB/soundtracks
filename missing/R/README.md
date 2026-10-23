@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow City | 184571 | [184571-rainbow-city.json](./184571-rainbow-city.json) |
 | Rainbow Color by Number | 100799 | [100799-rainbow-color-by-number.json](./100799-rainbow-color-by-number.json) |
 | Rainbow Cotton | 294800 | [294800-rainbow-cotton.json](./294800-rainbow-cotton.json) |
+| Rainbow Cotton | 46368 | [46368-rainbow-cotton.json](./46368-rainbow-cotton.json) |
 | Rainbow Cream Saga | 262825 | [262825-rainbow-cream-saga.json](./262825-rainbow-cream-saga.json) |
 | Rainbow Crown | 367471 | [367471-rainbow-crown.json](./367471-rainbow-crown.json) |
 | Rainbow Cult | 104125 | [104125-rainbow-cult.json](./104125-rainbow-cult.json) |
@@ -1521,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranma 1/2 | 37630 | [37630-ranma-1-2.json](./37630-ranma-1-2.json) |
 | Ranma 1/2 | 75853 | [75853-ranma-1-2.json](./75853-ranma-1-2.json) |
 | Ranma 1/2: Battle Renaissance | 44822 | [44822-ranma-1-2-battle-renaissance.json](./44822-ranma-1-2-battle-renaissance.json) |
+| Ranma 1/2: Byakuran Aika | 46402 | [46402-ranma-1-2-byakuran-aika.json](./46402-ranma-1-2-byakuran-aika.json) |
 | Ranma 1/2: Hard Battle | 44462 | [44462-ranma-1-2-hard-battle.json](./44462-ranma-1-2-hard-battle.json) |
 | Ranma 1/2: Hiryuu Densetsu | 75856 | [75856-ranma-1-2-hiryuu-densetsu.json](./75856-ranma-1-2-hiryuu-densetsu.json) |
 | Ranma 1/2: Kakugeki Mondou!! | 49128 | [49128-ranma-1-2-kakugeki-mondou.json](./49128-ranma-1-2-kakugeki-mondou.json) |
@@ -5134,6 +5136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenger Origin | 413450 | [413450-revenger-origin.json](./413450-revenger-origin.json) |
 | Revenger: Age of Morons | 89980 | [89980-revenger-age-of-morons.json](./89980-revenger-age-of-morons.json) |
 | Revengers | 220626 | [220626-revengers.json](./220626-revengers.json) |
+| Revengers of Vengeance | 46411 | [46411-revengers-of-vengeance.json](./46411-revengers-of-vengeance.json) |
 | Revenggie | 412308 | [412308-revenggie.json](./412308-revenggie.json) |
 | Revenis Prologue 01 | 116336 | [116336-revenis-prologue-01.json](./116336-revenis-prologue-01.json) |
 | Revenot | 144225 | [144225-revenot.json](./144225-revenot.json) |
