@@ -3490,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Society | 414877 | [414877-night-society.json](./414877-night-society.json) |
 | Night Spasm | 133049 | [133049-night-spasm.json](./133049-night-spasm.json) |
 | Night Stalkers | 190128 | [190128-night-stalkers.json](./190128-night-stalkers.json) |
+| Night Star | 83349 | [83349-night-star.json](./83349-night-star.json) |
 | Night Stocker | 37329 | [37329-night-stocker.json](./37329-night-stocker.json) |
 | Night Stones | 239711 | [239711-night-stones.json](./239711-night-stones.json) |
 | Night Stop | 228319 | [228319-night-stop.json](./228319-night-stop.json) |
@@ -3815,6 +3816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nihongo School | 257106 | [257106-nihongo-school.json](./257106-nihongo-school.json) |
 | NiHonGoToKi | 116088 | [116088-nihongotoki.json](./116088-nihongotoki.json) |
 | Niiikotopia: Sky Fall | 191169 | [191169-niiikotopia-sky-fall.json](./191169-niiikotopia-sky-fall.json) |
+| Niizuma ha Tifa | 83385 | [83385-niizuma-ha-tifa.json](./83385-niizuma-ha-tifa.json) |
 | Niizuma wa Mahou Shoujo | 77902 | [77902-niizuma-wa-mahou-shoujo.json](./77902-niizuma-wa-mahou-shoujo.json) |
 | Niizuma wa Sailor Fuku | 72717 | [72717-niizuma-wa-sailor-fuku.json](./72717-niizuma-wa-sailor-fuku.json) |
 | Niji Protocol | 384710 | [384710-niji-protocol.json](./384710-niji-protocol.json) |
@@ -4965,6 +4967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nodame Cantabile | 64313 | [64313-nodame-cantabile.json](./64313-nodame-cantabile.json) |
 | Nodame Cantabile: Dream Orchestra | 268432 | [268432-nodame-cantabile-dream-orchestra.json](./268432-nodame-cantabile-dream-orchestra.json) |
 | Noddy and the Birthday Party | 50549 | [50549-noddy-and-the-birthday-party.json](./50549-noddy-and-the-birthday-party.json) |
+| Noddy and the Magic Book | 83367 | [83367-noddy-and-the-magic-book.json](./83367-noddy-and-the-magic-book.json) |
 | Noddy in Toyland | 98333 | [98333-noddy-in-toyland.json](./98333-noddy-in-toyland.json) |
 | Noddy: A Day in Toyland | 49388 | [49388-noddy-a-day-in-toyland.json](./49388-noddy-a-day-in-toyland.json) |
 | Noddy: The Magic of Toytown on a CD-ROM | 130271 | [130271-noddy-the-magic-of-toytown-on-a-cd-rom.json](./130271-noddy-the-magic-of-toytown-on-a-cd-rom.json) |
