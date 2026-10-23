@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Frontier | 209324 | [209324-galaxy-frontier.json](./209324-galaxy-frontier.json) |
 | Galaxy Game | 11396 | [11396-galaxy-game.json](./11396-galaxy-game.json) |
 | Galaxy Games StarPak 2 | 219439 | [219439-galaxy-games-starpak-2.json](./219439-galaxy-games-starpak-2.json) |
+| Galaxy Gates | 70808 | [70808-galaxy-gates.json](./70808-galaxy-gates.json) |
 | Galaxy Genome | 174279 | [174279-galaxy-genome.json](./174279-galaxy-genome.json) |
 | Galaxy Girls | 30394 | [30394-galaxy-girls.json](./30394-galaxy-girls.json) |
 | Galaxy Glory | 176184 | [176184-galaxy-glory.json](./176184-galaxy-glory.json) |
@@ -1656,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garuka | 40140 | [40140-garuka.json](./40140-garuka.json) |
 | Garukilla | 92508 | [92508-garukilla.json](./92508-garukilla.json) |
 | Gary Grigsby's Pacific War | 72106 | [72106-gary-grigsbys-pacific-war.json](./72106-gary-grigsbys-pacific-war.json) |
+| Gary Grigsby's War in Russia | 70767 | [70767-gary-grigsbys-war-in-russia.json](./70767-gary-grigsbys-war-in-russia.json) |
 | Gary Grigsby's War in the East | 24627 | [24627-gary-grigsbys-war-in-the-east.json](./24627-gary-grigsbys-war-in-the-east.json) |
 | Gary Grigsby's War in the East 2 | 143425 | [143425-gary-grigsbys-war-in-the-east-2.json](./143425-gary-grigsbys-war-in-the-east-2.json) |
 | Gary Grigsby's War in the East: Don to the Danube | 154491 | [154491-gary-grigsbys-war-in-the-east-don-to-the-danube.json](./154491-gary-grigsbys-war-in-the-east-don-to-the-danube.json) |
@@ -2397,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius Quiz Yugi | 241927 | [241927-genius-quiz-yugi.json](./241927-genius-quiz-yugi.json) |
 | Genius Shooter | 196540 | [196540-genius-shooter.json](./196540-genius-shooter.json) |
 | Genius vs. Antichrist 1 | 201530 | [201530-genius-vs-antichrist-1.json](./201530-genius-vs-antichrist-1.json) |
+| Genius: Biology | 70769 | [70769-genius-biology.json](./70769-genius-biology.json) |
 | Genius: Im Zentrum der Macht | 86122 | [86122-genius-im-zentrum-der-macht.json](./86122-genius-im-zentrum-der-macht.json) |
 | Genius! Nazi-Girl GoePpels-Chan Ep2 | 118018 | [118018-genius-nazi-girl-goeppels-chan-ep2.json](./118018-genius-nazi-girl-goeppels-chan-ep2.json) |
 | Genji Koi Emaki | 130010 | [130010-genji-koi-emaki.json](./130010-genji-koi-emaki.json) |
@@ -8505,6 +8508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guncrafter | 343805 | [343805-guncrafter.json](./343805-guncrafter.json) |
 | GunCrank | 414292 | [414292-guncrank.json](./414292-guncrank.json) |
 | Guncrypt | 405589 | [405589-guncrypt.json](./405589-guncrypt.json) |
+| Gundam 0079: The War for Earth | 70795 | [70795-gundam-0079-the-war-for-earth.json](./70795-gundam-0079-the-war-for-earth.json) |
 | Gundam Battle Assault 2 | 45007 | [45007-gundam-battle-assault-2.json](./45007-gundam-battle-assault-2.json) |
 | Gundam Battle Chronicle | 66596 | [66596-gundam-battle-chronicle.json](./66596-gundam-battle-chronicle.json) |
 | Gundam Battle Online | 107166 | [107166-gundam-battle-online.json](./107166-gundam-battle-online.json) |
