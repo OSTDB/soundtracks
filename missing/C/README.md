@@ -1288,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Generations 3: The First Generation | 66121 | [66121-capcom-generations-3-the-first-generation.json](./66121-capcom-generations-3-the-first-generation.json) |
 | Capcom Generations 5: Street Fighter Collection 2 | 126269 | [126269-capcom-generations-5-street-fighter-collection-2.json](./126269-capcom-generations-5-street-fighter-collection-2.json) |
 | Capcom Mystery Adventure Double Pack | 299313 | [299313-capcom-mystery-adventure-double-pack.json](./299313-capcom-mystery-adventure-double-pack.json) |
+| Capcom no Quiz: Tonosama no Yabou | 46392 | [46392-capcom-no-quiz-tonosama-no-yabou.json](./46392-capcom-no-quiz-tonosama-no-yabou.json) |
 | Capcom Puzzle World | 44503 | [44503-capcom-puzzle-world.json](./44503-capcom-puzzle-world.json) |
 | Capcom Sports Club | 38531 | [38531-capcom-sports-club.json](./38531-capcom-sports-club.json) |
 | Capcom Super League Online | 130567 | [130567-capcom-super-league-online.json](./130567-capcom-super-league-online.json) |
