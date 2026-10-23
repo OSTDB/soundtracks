@@ -2668,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Father | 244847 | [244847-father.json](./244847-father.json) |
 | Father and Son | 97361 | [97361-father-and-son.json](./97361-father-and-son.json) |
 | Father and Son 2 | 314382 | [314382-father-and-son-2.json](./314382-father-and-son-2.json) |
+| Father Christmas | 77117 | [77117-father-christmas.json](./77117-father-christmas.json) |
 | Father Figure | 376029 | [376029-father-figure.json](./376029-father-figure.json) |
 | Father of Darkness | 143462 | [143462-father-of-darkness.json](./143462-father-of-darkness.json) |
 | Father World | 159187 | [159187-father-world.json](./159187-father-world.json) |
@@ -4481,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Football: Goal in One | 238549 | [238549-finger-football-goal-in-one.json](./238549-finger-football-goal-in-one.json) |
 | Finger Football: Goal in One + Two | 262491 | [262491-finger-football-goal-in-one-two.json](./262491-finger-football-goal-in-one-two.json) |
 | Finger Football: Goal in Two | 253204 | [253204-finger-football-goal-in-two.json](./253204-finger-football-goal-in-two.json) |
+| Finger Frenzy World | 77118 | [77118-finger-frenzy-world.json](./77118-finger-frenzy-world.json) |
 | Finger Gravity | 253263 | [253263-finger-gravity.json](./253263-finger-gravity.json) |
 | Finger Guessing King | 169722 | [169722-finger-guessing-king.json](./169722-finger-guessing-king.json) |
 | Finger Is 300 Bugs | 242958 | [242958-finger-is-300-bugs.json](./242958-finger-is-300-bugs.json) |
@@ -4866,6 +4868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireman! Fire Fighter Truck Driving Games for Kids | 104504 | [104504-fireman-fire-fighter-truck-driving-games-for-kids.json](./104504-fireman-fire-fighter-truck-driving-games-for-kids.json) |
 | Fireman's Quest | 115358 | [115358-firemans-quest.json](./115358-firemans-quest.json) |
 | FireMatch Empire | 382319 | [382319-firematch-empire.json](./382319-firematch-empire.json) |
+| Firepit | 77113 | [77113-firepit.json](./77113-firepit.json) |
 | Fireplace | 68630 | [68630-fireplace.json](./68630-fireplace.json) |
 | Fireplace Simulator | 337615 | [337615-fireplace-simulator.json](./337615-fireplace-simulator.json) |
 | Firepower 2000 | 19778 | [19778-firepower-2000.json](./19778-firepower-2000.json) |
@@ -7557,6 +7560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ford Racing | 4867 | [4867-ford-racing.json](./4867-ford-racing.json) |
 | Ford Racing 2 | 4869 | [4869-ford-racing-2.json](./4869-ford-racing-2.json) |
 | Ford Racing 3 | 4870 | [4870-ford-racing-3.json](./4870-ford-racing-3.json) |
+| Ford Simulator 5.0 | 77140 | [77140-ford-simulator-5-0.json](./77140-ford-simulator-5-0.json) |
 | Ford Simulator 7 | 105681 | [105681-ford-simulator-7.json](./105681-ford-simulator-7.json) |
 | Ford Simulator III | 80646 | [80646-ford-simulator-iii.json](./80646-ford-simulator-iii.json) |
 | Ford vs. Chevy | 5838 | [5838-ford-vs-chevy.json](./5838-ford-vs-chevy.json) |
@@ -7945,6 +7949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula 1 | 8294 | [8294-formula-1.json](./8294-formula-1.json) |
 | Formula 1 98 | 8296 | [8296-formula-1-98.json](./8296-formula-1-98.json) |
 | Formula 1 Game & Watch: Playdate Version | 230721 | [230721-formula-1-game-and-watch-playdate-version.json](./230721-formula-1-game-and-watch-playdate-version.json) |
+| Formula 1 Masters | 77141 | [77141-formula-1-masters.json](./77141-formula-1-masters.json) |
 | Formula 1 Simulator | 12998 | [12998-formula-1-simulator.json](./12998-formula-1-simulator.json) |
 | Formula 1: Championship Edition | 8295 | [8295-formula-1-championship-edition.json](./8295-formula-1-championship-edition.json) |
 | Formula 11 Mini Racing | 411563 | [411563-formula-11-mini-racing.json](./411563-formula-11-mini-racing.json) |
