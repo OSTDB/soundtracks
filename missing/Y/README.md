@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You May | 229709 | [229709-you-may.json](./229709-you-may.json) |
 | Yóu Mèng Zhèng: Dreamfarer | 394196 | [394196-you-meng-zheng-dreamfarer.json](./394196-you-meng-zheng-dreamfarer.json) |
 | You Must | 166604 | [166604-you-must.json](./166604-you-must.json) |
+| You Must be 18 or Older to Enter | 68466 | [68466-you-must-be-18-or-older-to-enter.json](./68466-you-must-be-18-or-older-to-enter.json) |
 | You Must Become A Lich | 248653 | [248653-you-must-become-a-lich.json](./248653-you-must-become-a-lich.json) |
 | You Must Build A Boat | 19955 | [19955-you-must-build-a-boat.json](./19955-you-must-build-a-boat.json) |
 | You Must Build A Ship | 185589 | [185589-you-must-build-a-ship.json](./185589-you-must-build-a-ship.json) |
