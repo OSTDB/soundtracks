@@ -2457,6 +2457,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onmyoji Chess | 194010 | [194010-onmyoji-chess.json](./194010-onmyoji-chess.json) |
 | Onmyoji in the Otherworld: Sayaka's Story | 172005 | [172005-onmyoji-in-the-otherworld-sayakas-story.json](./172005-onmyoji-in-the-otherworld-sayakas-story.json) |
 | Onmyoji: Beyond Time | 298981 | [298981-onmyoji-beyond-time.json](./298981-onmyoji-beyond-time.json) |
+| Onmyou Taisenki: Byakko Enbu | 78491 | [78491-onmyou-taisenki-byakko-enbu.json](./78491-onmyou-taisenki-byakko-enbu.json) |
+| Onmyou Taisenki: Hasha no In | 78492 | [78492-onmyou-taisenki-hasha-no-in.json](./78492-onmyou-taisenki-hasha-no-in.json) |
 | Onmyoudou Origins | 277944 | [277944-onmyoudou-origins.json](./277944-onmyoudou-origins.json) |
 | Onmyoudou: Arcade Edition | 170223 | [170223-onmyoudou-arcade-edition.json](./170223-onmyoudou-arcade-edition.json) |
 | Onmyouji Emaki | 335701 | [335701-onmyouji-emaki.json](./335701-onmyouji-emaki.json) |
@@ -3666,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otome Sekai no Arukikata | 305837 | [305837-otome-sekai-no-arukikata.json](./305837-otome-sekai-no-arukikata.json) |
 | Otome Senki | 304733 | [304733-otome-senki.json](./304733-otome-senki.json) |
 | Otome the Exorcist | 158045 | [158045-otome-the-exorcist.json](./158045-otome-the-exorcist.json) |
+| Otome wa Boku ni Koishiteru Portable | 78496 | [78496-otome-wa-boku-ni-koishiteru-portable.json](./78496-otome-wa-boku-ni-koishiteru-portable.json) |
 | Otome wa Boku ni Koishiteru: Futari no Elder | 79777 | [79777-otome-wa-boku-ni-koishiteru-futari-no-elder.json](./79777-otome-wa-boku-ni-koishiteru-futari-no-elder.json) |
 | Otomedius | 1685 | [1685-otomedius.json](./1685-otomedius.json) |
 | Otomedius Excellent | 1695 | [1695-otomedius-excellent.json](./1695-otomedius-excellent.json) |
