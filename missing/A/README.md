@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Past and Future Secret | 271200 | [271200-a-past-and-future-secret.json](./271200-a-past-and-future-secret.json) |
 | A Path to the Princess | 224586 | [224586-a-path-to-the-princess.json](./224586-a-path-to-the-princess.json) |
 | A Peculiar Adventure on Bast | 216720 | [216720-a-peculiar-adventure-on-bast.json](./216720-a-peculiar-adventure-on-bast.json) |
+| A Penny For Some Motivation | 95263 | [95263-a-penny-for-some-motivation.json](./95263-a-penny-for-some-motivation.json) |
 | A Pequena Grande Crise 2: A Ameaça é Outra Agora | 217797 | [217797-a-pequena-grande-crise-2-a-ameaca-e-outra-agora.json](./217797-a-pequena-grande-crise-2-a-ameaca-e-outra-agora.json) |
 | A Pequena Grande Crise 3: A Queda do Gigante | 217818 | [217818-a-pequena-grande-crise-3-a-queda-do-gigante.json](./217818-a-pequena-grande-crise-3-a-queda-do-gigante.json) |
 | A Perfect Day | 384775 | [384775-a-perfect-day.json](./384775-a-perfect-day.json) |
@@ -6350,6 +6351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Runner | 41510 | [41510-amazing-runner.json](./41510-amazing-runner.json) |
 | Amazing Soccer 2013 | 99146 | [99146-amazing-soccer-2013.json](./99146-amazing-soccer-2013.json) |
 | Amazing Space | 258210 | [258210-amazing-space.json](./258210-amazing-space.json) |
+| Amazing Space Frog 2018 | 95289 | [95289-amazing-space-frog-2018.json](./95289-amazing-space-frog-2018.json) |
 | Amazing Studly Strikes | 235152 | [235152-amazing-studly-strikes.json](./235152-amazing-studly-strikes.json) |
 | Amazing Superhero Squad | 159862 | [159862-amazing-superhero-squad.json](./159862-amazing-superhero-squad.json) |
 | AMazing TD | 130181 | [130181-amazing-td.json](./130181-amazing-td.json) |
@@ -6538,6 +6540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Election Simulator | 326481 | [326481-american-election-simulator.json](./326481-american-election-simulator.json) |
 | American Eristics | 255697 | [255697-american-eristics.json](./255697-american-eristics.json) |
 | American Farm Tractor Race Pro | 104537 | [104537-american-farm-tractor-race-pro.json](./104537-american-farm-tractor-race-pro.json) |
+| American Farmer | 95159 | [95159-american-farmer.json](./95159-american-farmer.json) |
 | American FKN Election | 329103 | [329103-american-fkn-election.json](./329103-american-fkn-election.json) |
 | American Football | 58278 | [58278-american-football.json](./58278-american-football.json) |
 | American Football Game: Quarter Back Scramble | 130646 | [130646-american-football-game-quarter-back-scramble.json](./130646-american-football-game-quarter-back-scramble.json) |
@@ -9404,6 +9407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Style: Jazzy Billiards 3D Professional | 222187 | [222187-arc-style-jazzy-billiards-3d-professional.json](./222187-arc-style-jazzy-billiards-3d-professional.json) |
 | Arc Style: Sangokushi Pinball | 222188 | [222188-arc-style-sangokushi-pinball.json](./222188-arc-style-sangokushi-pinball.json) |
 | Arc Style: Simple Mahjong 3D | 222186 | [222186-arc-style-simple-mahjong-3d.json](./222186-arc-style-simple-mahjong-3d.json) |
+| Arc Surfer | 95155 | [95155-arc-surfer.json](./95155-arc-surfer.json) |
 | Arc Symphony | 74332 | [74332-arc-symphony.json](./74332-arc-symphony.json) |
 | Arc TCG | 290934 | [290934-arc-tcg.json](./290934-arc-tcg.json) |
 | Arc the Lad R | 26382 | [26382-arc-the-lad-r.json](./26382-arc-the-lad-r.json) |
@@ -10412,6 +10416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena of Sacrifice | 399426 | [399426-arena-of-sacrifice.json](./399426-arena-of-sacrifice.json) |
 | Arena of Speed: Fast and Furious | 174832 | [174832-arena-of-speed-fast-and-furious.json](./174832-arena-of-speed-fast-and-furious.json) |
 | Arena of Taryon | 278609 | [278609-arena-of-taryon.json](./278609-arena-of-taryon.json) |
+| Arena of the Gods | 95264 | [95264-arena-of-the-gods.json](./95264-arena-of-the-gods.json) |
 | Arena of the Mad King | 234142 | [234142-arena-of-the-mad-king.json](./234142-arena-of-the-mad-king.json) |
 | Arena of the Myths | 205663 | [205663-arena-of-the-myths.json](./205663-arena-of-the-myths.json) |
 | Arena of the Titans | 368365 | [368365-arena-of-the-titans.json](./368365-arena-of-the-titans.json) |
