@@ -2497,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Legs to Love | 181252 | [181252-8-legs-to-love.json](./181252-8-legs-to-love.json) |
 | 8 Links | 173075 | [173075-8-links.json](./173075-8-links.json) |
 | 8 More Lives | 370984 | [370984-8-more-lives.json](./370984-8-more-lives.json) |
+| 8 Player 8-bit Racing | 95286 | [95286-8-player-8-bit-racing.json](./95286-8-player-8-bit-racing.json) |
 | 8 Realms | 92383 | [92383-8-realms.json](./92383-8-realms.json) |
 | 8 To Glory | 125321 | [125321-8-to-glory.json](./125321-8-to-glory.json) |
 | 8 Yous+ | 334089 | [334089-8-yous.json](./334089-8-yous.json) |
