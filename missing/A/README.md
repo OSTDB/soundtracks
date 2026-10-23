@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A6: A-Train 6 | 9997 | [9997-a6-a-train-6.json](./9997-a6-a-train-6.json) |
 | A7: Gateway Guardians | 377416 | [377416-a7-gateway-guardians.json](./377416-a7-gateway-guardians.json) |
 | A7Xpg | 79103 | [79103-a7xpg.json](./79103-a7xpg.json) |
+| Aa Harimanada | 49121 | [49121-aa-harimanada.json](./49121-aa-harimanada.json) |
 | Aa Megami-sama | 77403 | [77403-aa-megami-sama.json](./77403-aa-megami-sama.json) |
 | AA Soldiers | 367759 | [367759-aa-soldiers.json](./367759-aa-soldiers.json) |
 | Aa! Megami-sama | 78087 | [78087-aa-megami-sama.json](./78087-aa-megami-sama.json) |
@@ -5486,6 +5487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlienAfterlife | 114220 | [114220-alienafterlife.json](./114220-alienafterlife.json) |
 | Alienation | 7600 | [7600-alienation.json](./7600-alienation.json) |
 | Alienator | 332245 | [332245-alienator.json](./332245-alienator.json) |
+| Alienators: Evolution Continues | 49166 | [49166-alienators-evolution-continues.json](./49166-alienators-evolution-continues.json) |
 | Alienbusters | 391269 | [391269-alienbusters.json](./391269-alienbusters.json) |
 | Aliencity | 383636 | [383636-aliencity.json](./383636-aliencity.json) |
 | Alienoid | 57685 | [57685-alienoid.json](./57685-alienoid.json) |
@@ -14413,6 +14415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayakashi Gohan: Oomori! | 200007 | [200007-ayakashi-gohan-oomori.json](./200007-ayakashi-gohan-oomori.json) |
 | Ayakashi Koi Gikyoku -Forbidden Romance with Mysterious Spirit- | 106974 | [106974-ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit.json](./106974-ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit.json) |
 | Ayakashi Ninden Kunoichiban Plus | 45426 | [45426-ayakashi-ninden-kunoichiban-plus.json](./45426-ayakashi-ninden-kunoichiban-plus.json) |
+| Ayakashi no Shiro | 49150 | [49150-ayakashi-no-shiro.json](./49150-ayakashi-no-shiro.json) |
 | Ayakashi Rumble | 208034 | [208034-ayakashi-rumble.json](./208034-ayakashi-rumble.json) |
 | Ayakashi Yaji | 283806 | [283806-ayakashi-yaji.json](./283806-ayakashi-yaji.json) |
 | Ayakashi: Ghost Guild | 39179 | [39179-ayakashi-ghost-guild.json](./39179-ayakashi-ghost-guild.json) |
