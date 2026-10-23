@@ -1823,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo: The Rainbow Sorcerer | 357308 | [357308-neo-the-rainbow-sorcerer.json](./357308-neo-the-rainbow-sorcerer.json) |
 | Neo: The World Ends with You x Field Walk RPG | 362436 | [362436-neo-the-world-ends-with-you-x-field-walk-rpg.json](./362436-neo-the-world-ends-with-you-x-field-walk-rpg.json) |
 | Neo's Land | 61632 | [61632-neos-land.json](./61632-neos-land.json) |
+| NeoBalls | 81857 | [81857-neoballs.json](./81857-neoballs.json) |
 | NeoBalls2 | 83560 | [83560-neoballs2.json](./83560-neoballs2.json) |
 | Neoblazer | 352249 | [352249-neoblazer.json](./352249-neoblazer.json) |
 | NeoBoom | 55780 | [55780-neoboom.json](./55780-neoboom.json) |
@@ -4401,6 +4402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nith Realms | 235628 | [235628-nith-realms.json](./235628-nith-realms.json) |
 | Nitori Dungeon | 216460 | [216460-nitori-dungeon.json](./216460-nitori-dungeon.json) |
 | Nitori-chan Dash | 208396 | [208396-nitori-chan-dash.json](./208396-nitori-chan-dash.json) |
+| NitorInc.: Touhou Microgames! | 81889 | [81889-nitorinc-touhou-microgames.json](./81889-nitorinc-touhou-microgames.json) |
 | Nitro | 12188 | [12188-nitro.json](./12188-nitro.json) |
 | Nitro Back | 216985 | [216985-nitro-back.json](./216985-nitro-back.json) |
 | Nitro Ball | 40983 | [40983-nitro-ball.json](./40983-nitro-ball.json) |
