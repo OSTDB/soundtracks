@@ -1354,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magna Carta: Tears of Blood - Deluxe Box Set | 43423 | [43423-magna-carta-tears-of-blood-deluxe-box-set.json](./43423-magna-carta-tears-of-blood-deluxe-box-set.json) |
 | Magna Driver | 181759 | [181759-magna-driver.json](./181759-magna-driver.json) |
 | Magna Fortuna | 171590 | [171590-magna-fortuna.json](./171590-magna-fortuna.json) |
+| Magna Fortuna: The Gargantuan Fate and a Girl of Eternity | 82638 | [82638-magna-fortuna-the-gargantuan-fate-and-a-girl-of-eternity.json](./82638-magna-fortuna-the-gargantuan-fate-and-a-girl-of-eternity.json) |
 | Magna Mundi | 65047 | [65047-magna-mundi.json](./65047-magna-mundi.json) |
 | Magna Regna | 211926 | [211926-magna-regna.json](./211926-magna-regna.json) |
 | MagnaCarta 2 | 7061 | [7061-magnacarta-2.json](./7061-magnacarta-2.json) |
@@ -2213,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamono Musume to no Seikatsu: Lamia no Baai | 77601 | [77601-mamono-musume-to-no-seikatsu-lamia-no-baai.json](./77601-mamono-musume-to-no-seikatsu-lamia-no-baai.json) |
 | Mamono Musume-tachi to no Rakuen: Kumo to Tori to Hitotsume to | 77605 | [77605-mamono-musume-tachi-to-no-rakuen-kumo-to-tori-to-hitotsume-to.json](./77605-mamono-musume-tachi-to-no-rakuen-kumo-to-tori-to-hitotsume-to.json) |
 | Mamono Musume-tachi to no Rakuen: Slime & Scylla | 77604 | [77604-mamono-musume-tachi-to-no-rakuen-slime-and-scylla.json](./77604-mamono-musume-tachi-to-no-rakuen-slime-and-scylla.json) |
+| Mamoru of the Anti Sex Crime Department | 82633 | [82633-mamoru-of-the-anti-sex-crime-department.json](./82633-mamoru-of-the-anti-sex-crime-department.json) |
 | Mamorukun Curse! | 7065 | [7065-mamorukun-curse.json](./7065-mamorukun-curse.json) |
 | Mamorukun ReCurse! | 342851 | [342851-mamorukun-recurse.json](./342851-mamorukun-recurse.json) |
 | Mamurius | 334331 | [334331-mamurius.json](./334331-mamurius.json) |
@@ -3937,6 +3939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masquerade | 143364 | [143364-masquerade.json](./143364-masquerade.json) |
 | Masquerade | 25575 | [25575-masquerade.json](./25575-masquerade.json) |
 | Masquerade | 350391 | [350391-masquerade.json](./350391-masquerade.json) |
+| Masquerade Hypnosis: Before I knew it, I'm Pregnant with your Child | 82646 | [82646-masquerade-hypnosis-before-i-knew-it-im-pregnant-with-your-child.json](./82646-masquerade-hypnosis-before-i-knew-it-im-pregnant-with-your-child.json) |
 | Masquerade Kiss | 239206 | [239206-masquerade-kiss.json](./239206-masquerade-kiss.json) |
 | Masquerade of Miasma | 150621 | [150621-masquerade-of-miasma.json](./150621-masquerade-of-miasma.json) |
 | Masquerade: Hell Academy | 322194 | [322194-masquerade-hell-academy.json](./322194-masquerade-hell-academy.json) |
@@ -8721,6 +8724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Arrow | 239725 | [239725-midnight-arrow.json](./239725-midnight-arrow.json) |
 | Midnight at Blackwood Manor | 370150 | [370150-midnight-at-blackwood-manor.json](./370150-midnight-at-blackwood-manor.json) |
 | Midnight at the Disco | 265325 | [265325-midnight-at-the-disco.json](./265325-midnight-at-the-disco.json) |
+| Midnight at the Red Light : An Investigation | 82601 | [82601-midnight-at-the-red-light-an-investigation.json](./82601-midnight-at-the-red-light-an-investigation.json) |
 | Midnight Awake | 104153 | [104153-midnight-awake.json](./104153-midnight-awake.json) |
 | Midnight Bike | 158146 | [158146-midnight-bike.json](./158146-midnight-bike.json) |
 | Midnight Blanc | 277169 | [277169-midnight-blanc.json](./277169-midnight-blanc.json) |
@@ -15438,6 +15442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music vs Block: Piano Simulation Game | 102242 | [102242-music-vs-block-piano-simulation-game.json](./102242-music-vs-block-piano-simulation-game.json) |
 | Music Wars | 95967 | [95967-music-wars.json](./95967-music-wars.json) |
 | Music: Music Creation for the PlayStation | 131289 | [131289-music-music-creation-for-the-playstation.json](./131289-music-music-creation-for-the-playstation.json) |
+| Music=Operator | 82635 | [82635-music-operator.json](./82635-music-operator.json) |
 | Music95 | 149512 | [149512-music95.json](./149512-music95.json) |
 | Musical Aim Trainer | 130612 | [130612-musical-aim-trainer.json](./130612-musical-aim-trainer.json) |
 | Musical Balls | 149525 | [149525-musical-balls.json](./149525-musical-balls.json) |
