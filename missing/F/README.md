@@ -1277,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud | 320767 | [320767-family-feud.json](./320767-family-feud.json) |
 | Family Feud | 37112 | [37112-family-feud.json](./37112-family-feud.json) |
 | Family Feud & Friends | 86099 | [86099-family-feud-and-friends.json](./86099-family-feud-and-friends.json) |
+| Family Feud & Friends 2 | 83380 | [83380-family-feud-and-friends-2.json](./83380-family-feud-and-friends-2.json) |
 | Family Feud Cartridge #1 | 203238 | [203238-family-feud-cartridge-1.json](./203238-family-feud-cartridge-1.json) |
 | Family Feud Cartridge #2 | 203239 | [203239-family-feud-cartridge-2.json](./203239-family-feud-cartridge-2.json) |
 | Family Feud Cartridge #3 | 198738 | [198738-family-feud-cartridge-3.json](./198738-family-feud-cartridge-3.json) |
@@ -8730,6 +8731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Skyline | 116426 | [116426-fractured-skyline.json](./116426-fractured-skyline.json) |
 | Fractured Space | 9815 | [9815-fractured-space.json](./9815-fractured-space.json) |
 | Fractured Universe | 405341 | [405341-fractured-universe.json](./405341-fractured-universe.json) |
+| Fractured Veil | 83357 | [83357-fractured-veil.json](./83357-fractured-veil.json) |
 | Fractured Voyage | 150787 | [150787-fractured-voyage.json](./150787-fractured-voyage.json) |
 | Fracturefront | 374774 | [374774-fracturefront.json](./374774-fracturefront.json) |
 | Fractus | 75072 | [75072-fractus.json](./75072-fractus.json) |
