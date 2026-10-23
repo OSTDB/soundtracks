@@ -673,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZerA Imperan Intrigue | 97246 | [97246-zera-imperan-intrigue.json](./97246-zera-imperan-intrigue.json) |
 | Zera-chan Puzzle: Pitatto Pair | 419859 | [419859-zera-chan-puzzle-pitatto-pair.json](./419859-zera-chan-puzzle-pitatto-pair.json) |
 | Zera: Myths Awaken | 115069 | [115069-zera-myths-awaken.json](./115069-zera-myths-awaken.json) |
+| Zerahypt | 47041 | [47041-zerahypt.json](./47041-zerahypt.json) |
 | Zeramida | 274018 | [274018-zeramida.json](./274018-zeramida.json) |
 | Zeran's Folly | 54496 | [54496-zerans-folly.json](./54496-zerans-folly.json) |
 | Zereoton Hauntings | 360662 | [360662-zereoton-hauntings.json](./360662-zereoton-hauntings.json) |
