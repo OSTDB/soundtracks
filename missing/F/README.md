@@ -1969,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farland Saga I & II: Saturn Tribute | 360013 | [360013-farland-saga-i-and-ii-saturn-tribute.json](./360013-farland-saga-i-and-ii-saturn-tribute.json) |
 | Farland Story | 420580 | [420580-farland-story.json](./420580-farland-story.json) |
 | Farland Story | 44447 | [44447-farland-story.json](./44447-farland-story.json) |
+| Farland Story Denki: Arc Ou no Ensei | 73149 | [73149-farland-story-denki-arc-ou-no-ensei.json](./73149-farland-story-denki-arc-ou-no-ensei.json) |
 | Farland Story FX | 45953 | [45953-farland-story-fx.json](./45953-farland-story-fx.json) |
 | Farland Story: Daichi no Kizuna | 70455 | [70455-farland-story-daichi-no-kizuna.json](./70455-farland-story-daichi-no-kizuna.json) |
 | Farland Story: Shirogane no Tsubasa | 79121 | [79121-farland-story-shirogane-no-tsubasa.json](./79121-farland-story-shirogane-no-tsubasa.json) |
@@ -3267,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feydome: Fairy Dress Up | 272323 | [272323-feydome-fairy-dress-up.json](./272323-feydome-fairy-dress-up.json) |
 | Feyght | 189043 | [189043-feyght.json](./189043-feyght.json) |
 | Feyhearth: the Art of Handling Extraordinary Clientele | 396354 | [396354-feyhearth-the-art-of-handling-extraordinary-clientele.json](./396354-feyhearth-the-art-of-handling-extraordinary-clientele.json) |
+| Feyruna - Fairy Forest | 73134 | [73134-feyruna-fairy-forest.json](./73134-feyruna-fairy-forest.json) |
 | Fez II | 63291 | [63291-fez-ii.json](./63291-fez-ii.json) |
 | Fez Pocket Edition | 78543 | [78543-fez-pocket-edition.json](./78543-fez-pocket-edition.json) |
 | Feztal | 176887 | [176887-feztal.json](./176887-feztal.json) |
