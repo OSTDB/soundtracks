@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Team Simulation: Project F | 128359 | [128359-f1-team-simulation-project-f.json](./128359-f1-team-simulation-project-f.json) |
 | F1 Tornado | 300877 | [300877-f1-tornado.json](./300877-f1-tornado.json) |
 | F1 Tornado | 65208 | [65208-f1-tornado.json](./65208-f1-tornado.json) |
+| F1 Triple Battle | 44332 | [44332-f1-triple-battle.json](./44332-f1-triple-battle.json) |
 | F1 World Grand Prix 2000 | 45080 | [45080-f1-world-grand-prix-2000.json](./45080-f1-world-grand-prix-2000.json) |
 | F1 World Grand Prix: 1999 Season | 45079 | [45079-f1-world-grand-prix-1999-season.json](./45079-f1-world-grand-prix-1999-season.json) |
 | F1-2004 Racing | 138694 | [138694-f1-2004-racing.json](./138694-f1-2004-racing.json) |
@@ -3776,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Pride: The Manny Pacquiao Saga | 224047 | [224047-fighting-pride-the-manny-pacquiao-saga.json](./224047-fighting-pride-the-manny-pacquiao-saga.json) |
 | Fighting Road | 48494 | [48494-fighting-road.json](./48494-fighting-road.json) |
 | Fighting Rogue | 358487 | [358487-fighting-rogue.json](./358487-fighting-rogue.json) |
+| Fighting Run | 44333 | [44333-fighting-run.json](./44333-fighting-run.json) |
 | Fighting Simulator | 326423 | [326423-fighting-simulator.json](./326423-fighting-simulator.json) |
 | Fighting Simulator: 2 in 1 Flying Warriors | 64795 | [64795-fighting-simulator-2-in-1-flying-warriors.json](./64795-fighting-simulator-2-in-1-flying-warriors.json) |
 | Fighting Soccer | 12097 | [12097-fighting-soccer.json](./12097-fighting-soccer.json) |
