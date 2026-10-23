@@ -2917,7 +2917,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3287,6 +3286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After | 237551 | [237551-after.json](./237551-after.json) |
 | After a While | 298816 | [298816-after-a-while.json](./298816-after-a-while.json) |
 | After All Enema Masochist Daughter Miki | 82932 | [82932-after-all-enema-masochist-daughter-miki.json](./82932-after-all-enema-masochist-daughter-miki.json) |
+| After Armageddon Gaiden: Majuu Toushouden Eclipse | 46396 | [46396-after-armageddon-gaiden-majuu-toushouden-eclipse.json](./46396-after-armageddon-gaiden-majuu-toushouden-eclipse.json) |
 | After Burner | 113199 | [113199-after-burner.json](./113199-after-burner.json) |
 | After Burner | 365007 | [365007-after-burner.json](./365007-after-burner.json) |
 | After Burner | 365008 | [365008-after-burner.json](./365008-after-burner.json) |
@@ -4482,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aisai Nikki | 82968 | [82968-aisai-nikki.json](./82968-aisai-nikki.json) |
 | Aishi & Reimu | 369468 | [369468-aishi-and-reimu.json](./369468-aishi-and-reimu.json) |
 | Aisle | 130832 | [130832-aisle.json](./130832-aisle.json) |
+| Aisle Lord | 46395 | [46395-aisle-lord.json](./46395-aisle-lord.json) |
 | Aisle Survive | 410432 | [410432-aisle-survive.json](./410432-aisle-survive.json) |
 | AisleRiot Solitaire | 63236 | [63236-aisleriot-solitaire.json](./63236-aisleriot-solitaire.json) |
 | Aislin's Story: The Bloodbath Trials | 177534 | [177534-aislins-story-the-bloodbath-trials.json](./177534-aislins-story-the-bloodbath-trials.json) |
@@ -10507,6 +10508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcturus Proving Grounds | 61711 | [61711-arcturus-proving-grounds.json](./61711-arcturus-proving-grounds.json) |
 | Arcus | 80836 | [80836-arcus.json](./80836-arcus.json) |
 | Arcus Chroma | 133786 | [133786-arcus-chroma.json](./133786-arcus-chroma.json) |
+| Arcus I-II-III | 46394 | [46394-arcus-i-ii-iii.json](./46394-arcus-i-ii-iii.json) |
 | Arcus III | 98263 | [98263-arcus-iii.json](./98263-arcus-iii.json) |
 | Arcus Odyssey | 16138 | [16138-arcus-odyssey.json](./16138-arcus-odyssey.json) |
 | Arcuz | 161152 | [161152-arcuz.json](./161152-arcuz.json) |
