@@ -1861,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leet Hacker Simulator 2018 | 108791 | [108791-leet-hacker-simulator-2018.json](./108791-leet-hacker-simulator-2018.json) |
 | Left = Lose | 178622 | [178622-left-lose.json](./178622-left-lose.json) |
 | Left 2 Dating | 207809 | [207809-left-2-dating.json](./207809-left-2-dating.json) |
+| Left 2Die | 94045 | [94045-left-2die.json](./94045-left-2die.json) |
 | Left 4 Dead 2 Beta Pack | 358317 | [358317-left-4-dead-2-beta-pack.json](./358317-left-4-dead-2-beta-pack.json) |
 | Left 4 Dead 2: Alien Trilogy | 309209 | [309209-left-4-dead-2-alien-trilogy.json](./309209-left-4-dead-2-alien-trilogy.json) |
 | Left 4 Dead 2: Nightmare | 358402 | [358402-left-4-dead-2-nightmare.json](./358402-left-4-dead-2-nightmare.json) |
@@ -3919,6 +3920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ligo | 258539 | [258539-ligo.json](./258539-ligo.json) |
 | Liha | 344799 | [344799-liha.json](./344799-liha.json) |
 | Lihue | 163210 | [163210-lihue.json](./163210-lihue.json) |
+| Liitmeis | 94036 | [94036-liitmeis.json](./94036-liitmeis.json) |
 | Like a Boss | 19079 | [19079-like-a-boss.json](./19079-like-a-boss.json) |
 | Like A Dino! | 212495 | [212495-like-a-dino.json](./212495-like-a-dino.json) |
 | Like a Dragon Gaiden: The Man Who Erased His Name | 217624 | [217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json](./217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json) |
@@ -4410,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LIP! Lewd Idol Project Vol. 2 | 193266 | [193266-lip-lewd-idol-project-vol-2.json](./193266-lip-lewd-idol-project-vol-2.json) |
 | LIP! Lewd Idol Project Vol. 2: Hot Springs and Beach Episodes | 254576 | [254576-lip-lewd-idol-project-vol-2-hot-springs-and-beach-episodes.json](./254576-lip-lewd-idol-project-vol-2-hot-springs-and-beach-episodes.json) |
 | LIP! Lewd Idol Project Vol. 3 | 244620 | [244620-lip-lewd-idol-project-vol-3.json](./244620-lip-lewd-idol-project-vol-3.json) |
+| Lipola | 94051 | [94051-lipola.json](./94051-lipola.json) |
 | Lips | 7050 | [7050-lips.json](./7050-lips.json) |
 | Lips Breaker | 332848 | [332848-lips-breaker.json](./332848-lips-breaker.json) |
 | Lips Like Velum | 186714 | [186714-lips-like-velum.json](./186714-lips-like-velum.json) |
