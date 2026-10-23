@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Foodmess: Deluxe Edition | 287114 | [287114-ultra-foodmess-deluxe-edition.json](./287114-ultra-foodmess-deluxe-edition.json) |
 | Ultra Frontier QQYYZZ | 387526 | [387526-ultra-frontier-qqyyzz.json](./387526-ultra-frontier-qqyyzz.json) |
 | Ultra Genjin | 282804 | [282804-ultra-genjin.json](./282804-ultra-genjin.json) |
+| Ultra Goku Super Battle | 95813 | [95813-ultra-goku-super-battle.json](./95813-ultra-goku-super-battle.json) |
 | Ultra Golf | 49057 | [49057-ultra-golf.json](./49057-ultra-golf.json) |
 | Ultra Hard! Spot the Difference Challenge | 306549 | [306549-ultra-hard-spot-the-difference-challenge.json](./306549-ultra-hard-spot-the-difference-challenge.json) |
 | Ultra Hat Dimension | 59472 | [59472-ultra-hat-dimension.json](./59472-ultra-hat-dimension.json) |
