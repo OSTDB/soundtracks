@@ -1159,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | False Vows, True Love: In a Night Full of Lies | 181646 | [181646-false-vows-true-love-in-a-night-full-of-lies.json](./181646-false-vows-true-love-in-a-night-full-of-lies.json) |
 | Falseflash | 401497 | [401497-falseflash.json](./401497-falseflash.json) |
 | FalseGod's Gambit | 373007 | [373007-falsegods-gambit.json](./373007-falsegods-gambit.json) |
+| Falsemen | 86616 | [86616-falsemen.json](./86616-falsemen.json) |
 | Falsion | 64648 | [64648-falsion.json](./64648-falsion.json) |
 | Falskaar | 313266 | [313266-falskaar.json](./313266-falskaar.json) |
 | Falta | 169764 | [169764-falta.json](./169764-falta.json) |
@@ -7388,6 +7389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Eternity | 110309 | [110309-for-eternity.json](./110309-for-eternity.json) |
 | For Evelyn | 132558 | [132558-for-evelyn.json](./132558-for-evelyn.json) |
 | For Evelyn II: Shards of Creation | 236723 | [236723-for-evelyn-ii-shards-of-creation.json](./236723-for-evelyn-ii-shards-of-creation.json) |
+| For Food Sake! VR | 88016 | [88016-for-food-sake-vr.json](./88016-for-food-sake-vr.json) |
 | for Give | 134334 | [134334-for-give.json](./134334-for-give.json) |
 | For God's Sake | 110793 | [110793-for-gods-sake.json](./110793-for-gods-sake.json) |
 | For God's Sake, Help Him! | 373647 | [373647-for-gods-sake-help-him.json](./373647-for-gods-sake-help-him.json) |
@@ -10003,6 +10005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Drift Race | 30185 | [30185-frozen-drift-race.json](./30185-frozen-drift-race.json) |
 | Frozen Echo | 414115 | [414115-frozen-echo.json](./414115-frozen-echo.json) |
 | Frozen Feathers | 362266 | [362266-frozen-feathers.json](./362266-frozen-feathers.json) |
+| Frozen Flame | 86628 | [86628-frozen-flame.json](./86628-frozen-flame.json) |
 | Frozen Forward | 383967 | [383967-frozen-forward.json](./383967-frozen-forward.json) |
 | Frozen Free Fall | 18131 | [18131-frozen-free-fall.json](./18131-frozen-free-fall.json) |
 | Frozen Free Fall: Icy Shot | 245757 | [245757-frozen-free-fall-icy-shot.json](./245757-frozen-free-fall-icy-shot.json) |
@@ -10271,6 +10274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fukoumori: Moririi no Unhappy Project | 269677 | [269677-fukoumori-moririi-no-unhappy-project.json](./269677-fukoumori-moririi-no-unhappy-project.json) |
 | Fuksoft | 209439 | [209439-fuksoft.json](./209439-fuksoft.json) |
 | Fuksoft II | 209440 | [209440-fuksoft-ii.json](./209440-fuksoft-ii.json) |
+| FukTopia | 86601 | [86601-fuktopia.json](./86601-fuktopia.json) |
 | FukTopia 3 | 173833 | [173833-fuktopia-3.json](./173833-fuktopia-3.json) |
 | FukTopia 5 | 220591 | [220591-fuktopia-5.json](./220591-fuktopia-5.json) |
 | Fuku-chan no Obake nanka Kowakunai | 349458 | [349458-fuku-chan-no-obake-nanka-kowakunai.json](./349458-fuku-chan-no-obake-nanka-kowakunai.json) |
