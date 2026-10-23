@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Droplets | 159870 | [159870-laser-droplets.json](./159870-laser-droplets.json) |
 | Laser Fortress | 318757 | [318757-laser-fortress.json](./318757-laser-fortress.json) |
 | Laser Ghost | 36901 | [36901-laser-ghost.json](./36901-laser-ghost.json) |
+| Laser Grand Prix | 66531 | [66531-laser-grand-prix.json](./66531-laser-grand-prix.json) |
 | Laser Grid | 52252 | [52252-laser-grid.json](./52252-laser-grid.json) |
 | Laser Harp VR | 357218 | [357218-laser-harp-vr.json](./357218-laser-harp-vr.json) |
 | Laser Heck | 132679 | [132679-laser-heck.json](./132679-laser-heck.json) |
@@ -7646,6 +7647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LumenTale: Memories of Trey | 231484 | [231484-lumentale-memories-of-trey.json](./231484-lumentale-memories-of-trey.json) |
 | Lumeshift | 416061 | [416061-lumeshift.json](./416061-lumeshift.json) |
 | Lumexa | 151115 | [151115-lumexa.json](./151115-lumexa.json) |
+| Lumi | 66495 | [66495-lumi.json](./66495-lumi.json) |
 | Lumi Master | 410215 | [410215-lumi-master.json](./410215-lumi-master.json) |
 | Lumi: Starbound Adventure | 296523 | [296523-lumi-starbound-adventure.json](./296523-lumi-starbound-adventure.json) |
 | Lumia Saga | 145942 | [145942-lumia-saga.json](./145942-lumia-saga.json) |
