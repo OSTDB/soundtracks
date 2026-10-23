@@ -6389,6 +6389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Zombie Explosion | 190436 | [190436-mega-zombie-explosion.json](./190436-mega-zombie-explosion.json) |
 | Mega-Bots | 214776 | [214776-mega-bots.json](./214776-mega-bots.json) |
 | Mega-Bucks | 37068 | [37068-mega-bucks.json](./37068-mega-bucks.json) |
+| Mega-Bug | 44348 | [44348-mega-bug.json](./44348-mega-bug.json) |
 | Mega-Corp | 45345 | [45345-mega-corp.json](./45345-mega-corp.json) |
 | MegaAri | 205788 | [205788-megaari.json](./205788-megaari.json) |
 | Megaball | 93348 | [93348-megaball.json](./93348-megaball.json) |
@@ -8486,6 +8487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro$oft Simulaattori | 98940 | [98940-micro-oft-simulaattori.json](./98940-micro-oft-simulaattori.json) |
 | Microarcade ApplePie | 223617 | [223617-microarcade-applepie.json](./223617-microarcade-applepie.json) |
 | Microball | 94617 | [94617-microball.json](./94617-microball.json) |
+| Microbes | 44347 | [44347-microbes.json](./44347-microbes.json) |
 | Microbes and Machines | 213244 | [213244-microbes-and-machines.json](./213244-microbes-and-machines.json) |
 | Microbial Mayhem | 268989 | [268989-microbial-mayhem.json](./268989-microbial-mayhem.json) |
 | Microbial Sector | 321825 | [321825-microbial-sector.json](./321825-microbial-sector.json) |
@@ -8764,6 +8766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Jewel 2 | 317539 | [317539-microsoft-jewel-2.json](./317539-microsoft-jewel-2.json) |
 | Microsoft Mahjong | 8977 | [8977-microsoft-mahjong.json](./8977-microsoft-mahjong.json) |
 | Microsoft Minesweeper | 127494 | [127494-microsoft-minesweeper.json](./127494-microsoft-minesweeper.json) |
+| Microsoft Multiplan | 44366 | [44366-microsoft-multiplan.json](./44366-microsoft-multiplan.json) |
 | Microsoft Oceans | 146588 | [146588-microsoft-oceans.json](./146588-microsoft-oceans.json) |
 | Microsoft Pinball Arcade | 249159 | [249159-microsoft-pinball-arcade.json](./249159-microsoft-pinball-arcade.json) |
 | Microsoft Puzzle Collection Entertainment Pack | 73142 | [73142-microsoft-puzzle-collection-entertainment-pack.json](./73142-microsoft-puzzle-collection-entertainment-pack.json) |
@@ -9571,6 +9574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Cards | 145999 | [145999-mind-cards.json](./145999-mind-cards.json) |
 | Mind Castle I | 69688 | [69688-mind-castle-i.json](./69688-mind-castle-i.json) |
 | Mind Castle II | 339702 | [339702-mind-castle-ii.json](./339702-mind-castle-ii.json) |
+| Mind Challengers | 44365 | [44365-mind-challengers.json](./44365-mind-challengers.json) |
 | Mind Construct | 256439 | [256439-mind-construct.json](./256439-mind-construct.json) |
 | Mind Control | 25965 | [25965-mind-control.json](./25965-mind-control.json) |
 | Mind Control: Bloody Renaissance | 253910 | [253910-mind-control-bloody-renaissance.json](./253910-mind-control-bloody-renaissance.json) |
@@ -13186,6 +13190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Lights II | 194896 | [194896-moon-lights-ii.json](./194896-moon-lights-ii.json) |
 | Moon Magic Array | 251961 | [251961-moon-magic-array.json](./251961-moon-magic-array.json) |
 | Moon Maiden: Terror on Planet X | 346256 | [346256-moon-maiden-terror-on-planet-x.json](./346256-moon-maiden-terror-on-planet-x.json) |
+| Moon Mine | 44364 | [44364-moon-mine.json](./44364-moon-mine.json) |
 | Moon Miner | 410337 | [410337-moon-miner.json](./410337-moon-miner.json) |
 | Moon Minions | 243940 | [243940-moon-minions.json](./243940-moon-minions.json) |
 | Moon Mystery | 196935 | [196935-moon-mystery.json](./196935-moon-mystery.json) |
