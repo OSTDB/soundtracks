@@ -7498,6 +7498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Your Tranquility | 228503 | [228503-for-your-tranquility.json](./228503-for-your-tranquility.json) |
 | For Zekyll | 368814 | [368814-for-zekyll.json](./368814-for-zekyll.json) |
 | Forays into Norrendrin | 148391 | [148391-forays-into-norrendrin.json](./148391-forays-into-norrendrin.json) |
+| Forbes Corporate Warrior | 71373 | [71373-forbes-corporate-warrior.json](./71373-forbes-corporate-warrior.json) |
 | Forbidden | 195953 | [195953-forbidden.json](./195953-forbidden.json) |
 | Forbidden Arms: Bloodlust | 184853 | [184853-forbidden-arms-bloodlust.json](./184853-forbidden-arms-bloodlust.json) |
 | Forbidden Art | 123978 | [123978-forbidden-art.json](./123978-forbidden-art.json) |
@@ -9171,6 +9172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Fighter | 77299 | [77299-freedom-fighter.json](./77299-freedom-fighter.json) |
 | Freedom Fighters | 719 | [719-freedom-fighters.json](./719-freedom-fighters.json) |
 | Freedom Fighters Fangame | 332469 | [332469-freedom-fighters-fangame.json](./332469-freedom-fighters-fangame.json) |
+| Freedom Fighters! | 71354 | [71354-freedom-fighters.json](./71354-freedom-fighters.json) |
 | Freedom Flight | 190000 | [190000-freedom-flight.json](./190000-freedom-flight.json) |
 | Freedom Force | 68361 | [68361-freedom-force.json](./68361-freedom-force.json) |
 | Freedom Force | 720 | [720-freedom-force.json](./720-freedom-force.json) |
