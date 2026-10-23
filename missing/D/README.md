@@ -1889,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Realm | 173006 | [173006-dash-realm.json](./173006-dash-realm.json) |
 | Dash Shoot Goal | 184255 | [184255-dash-shoot-goal.json](./184255-dash-shoot-goal.json) |
 | Dash Shooters | 211137 | [211137-dash-shooters.json](./211137-dash-shooters.json) |
+| Dash Tag: Fun Endless Runner! | 88987 | [88987-dash-tag-fun-endless-runner.json](./88987-dash-tag-fun-endless-runner.json) |
 | Dash the Fox & Three Dreadful Pigs | 216656 | [216656-dash-the-fox-and-three-dreadful-pigs.json](./216656-dash-the-fox-and-three-dreadful-pigs.json) |
 | Dash till Puff 2 | 39229 | [39229-dash-till-puff-2.json](./39229-dash-till-puff-2.json) |
 | Dash Trails | 392853 | [392853-dash-trails.json](./392853-dash-trails.json) |
@@ -6874,6 +6875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die kleine Lokomotive und ihre Freunde | 81401 | [81401-die-kleine-lokomotive-und-ihre-freunde.json](./81401-die-kleine-lokomotive-und-ihre-freunde.json) |
 | Die Legende der Wikinger | 91397 | [91397-die-legende-der-wikinger.json](./91397-die-legende-der-wikinger.json) |
 | Die Legende von Saya - Befehl aus der Dunkelheit | 128454 | [128454-die-legende-von-saya-befehl-aus-der-dunkelheit.json](./128454-die-legende-von-saya-befehl-aus-der-dunkelheit.json) |
+| Die letzte Schlacht der Elfen | 88953 | [88953-die-letzte-schlacht-der-elfen.json](./88953-die-letzte-schlacht-der-elfen.json) |
 | Die Like a Hero | 153891 | [153891-die-like-a-hero.json](./153891-die-like-a-hero.json) |
 | Die Meeple | 416777 | [416777-die-meeple.json](./416777-die-meeple.json) |
 | Die O'Clock | 214161 | [214161-die-oclock.json](./214161-die-oclock.json) |
@@ -9509,6 +9511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Master | 21794 | [21794-domino-master.json](./21794-domino-master.json) |
 | Domino Merged Puzzle | 252154 | [252154-domino-merged-puzzle.json](./252154-domino-merged-puzzle.json) |
 | Domino Rally | 77114 | [77114-domino-rally.json](./77114-domino-rally.json) |
+| Domino Royale | 88851 | [88851-domino-royale.json](./88851-domino-royale.json) |
 | Domino Sandbox | 164257 | [164257-domino-sandbox.json](./164257-domino-sandbox.json) |
 | Domino Sky | 33131 | [33131-domino-sky.json](./33131-domino-sky.json) |
 | Domino Solitaire | 83430 | [83430-domino-solitaire.json](./83430-domino-solitaire.json) |
@@ -12444,6 +12447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Land: Final Solution | 120886 | [120886-dream-land-final-solution.json](./120886-dream-land-final-solution.json) |
 | Dream League Soccer | 249369 | [249369-dream-league-soccer.json](./249369-dream-league-soccer.json) |
 | Dream League Soccer 2016 | 403613 | [403613-dream-league-soccer-2016.json](./403613-dream-league-soccer-2016.json) |
+| Dream League Soccer 2018 | 88879 | [88879-dream-league-soccer-2018.json](./88879-dream-league-soccer-2018.json) |
 | Dream League Soccer 2019 | 174601 | [174601-dream-league-soccer-2019.json](./174601-dream-league-soccer-2019.json) |
 | Dream League Soccer 2022 | 188310 | [188310-dream-league-soccer-2022.json](./188310-dream-league-soccer-2022.json) |
 | Dream League Soccer 2024 | 326648 | [326648-dream-league-soccer-2024.json](./326648-dream-league-soccer-2024.json) |
@@ -14429,6 +14433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonloop | 401092 | [401092-dungeonloop.json](./401092-dungeonloop.json) |
 | Dungeonman | 149223 | [149223-dungeonman.json](./149223-dungeonman.json) |
 | Dungeonmans: Pay2Lose | 168162 | [168162-dungeonmans-pay2lose.json](./168162-dungeonmans-pay2lose.json) |
+| DungeonMaze | 89012 | [89012-dungeonmaze.json](./89012-dungeonmaze.json) |
 | Dungeonoid | 147652 | [147652-dungeonoid.json](./147652-dungeonoid.json) |
 | Dungeonoid 2: Awakening | 282152 | [282152-dungeonoid-2-awakening.json](./282152-dungeonoid-2-awakening.json) |
 | DungeonOS | 388132 | [388132-dungeonos.json](./388132-dungeonos.json) |
