@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscure Doubt | 117068 | [117068-obscure-doubt.json](./117068-obscure-doubt.json) |
 | Obscure Figures | 387648 | [387648-obscure-figures.json](./387648-obscure-figures.json) |
 | Obscure Horrors | 386684 | [386684-obscure-horrors.json](./386684-obscure-horrors.json) |
+| Obscure Realm | 74198 | [74198-obscure-realm.json](./74198-obscure-realm.json) |
 | Obscure: Dark Aura | 66408 | [66408-obscure-dark-aura.json](./66408-obscure-dark-aura.json) |
 | ObsCure: The Aftermath | 5080 | [5080-obscure-the-aftermath.json](./5080-obscure-the-aftermath.json) |
 | Obscuria | 295906 | [295906-obscuria.json](./295906-obscuria.json) |
@@ -3002,6 +3003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit 2D | 415446 | [415446-orbit-2d.json](./415446-orbit-2d.json) |
 | Orbit Angler | 297586 | [297586-orbit-angler.json](./297586-orbit-angler.json) |
 | Orbit Blade | 420004 | [420004-orbit-blade.json](./420004-orbit-blade.json) |
+| Orbit Defender | 74195 | [74195-orbit-defender.json](./74195-orbit-defender.json) |
 | Orbit Drop | 120339 | [120339-orbit-drop.json](./120339-orbit-drop.json) |
 | Orbit Express | 258401 | [258401-orbit-express.json](./258401-orbit-express.json) |
 | Orbit Legends | 110029 | [110029-orbit-legends.json](./110029-orbit-legends.json) |
@@ -3677,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otome the Exorcist | 158045 | [158045-otome-the-exorcist.json](./158045-otome-the-exorcist.json) |
 | Otome wa Boku ni Koishiteru Portable | 78496 | [78496-otome-wa-boku-ni-koishiteru-portable.json](./78496-otome-wa-boku-ni-koishiteru-portable.json) |
 | Otome wa Boku ni Koishiteru: Futari no Elder | 79777 | [79777-otome-wa-boku-ni-koishiteru-futari-no-elder.json](./79777-otome-wa-boku-ni-koishiteru-futari-no-elder.json) |
+| Otome Yusha | 74165 | [74165-otome-yusha.json](./74165-otome-yusha.json) |
 | Otomedius | 1685 | [1685-otomedius.json](./1685-otomedius.json) |
 | Otomedius Excellent | 1695 | [1695-otomedius-excellent.json](./1695-otomedius-excellent.json) |
 | Otometeki Koi Kakumei Love Revo! Portable | 214560 | [214560-otometeki-koi-kakumei-love-revo-portable.json](./214560-otometeki-koi-kakumei-love-revo-portable.json) |
