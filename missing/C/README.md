@@ -8810,6 +8810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Ocean Keeper | 297366 | [297366-codename-ocean-keeper.json](./297366-codename-ocean-keeper.json) |
 | Codename: Panzers - Cold War | 15762 | [15762-codename-panzers-cold-war.json](./15762-codename-panzers-cold-war.json) |
 | Codename: Panzers - Phase One | 640 | [640-codename-panzers-phase-one.json](./640-codename-panzers-phase-one.json) |
+| Codename: Phantom | 75589 | [75589-codename-phantom.json](./75589-codename-phantom.json) |
 | Codename: Rogue Fleet | 34446 | [34446-codename-rogue-fleet.json](./34446-codename-rogue-fleet.json) |
 | Codename: Rogue Fleet - The Reinforcements | 156155 | [156155-codename-rogue-fleet-the-reinforcements.json](./156155-codename-rogue-fleet-the-reinforcements.json) |
 | Codename: SYN | 137603 | [137603-codename-syn.json](./137603-codename-syn.json) |
@@ -12195,6 +12196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courtyard Broomball | 98311 | [98311-courtyard-broomball.json](./98311-courtyard-broomball.json) |
 | Cousbians: Are They Cousins or Lesbians? | 182908 | [182908-cousbians-are-they-cousins-or-lesbians.json](./182908-cousbians-are-they-cousins-or-lesbians.json) |
 | Cov Shooter | 230244 | [230244-cov-shooter.json](./230244-cov-shooter.json) |
+| Cove Point Fun Center VR | 75613 | [75613-cove-point-fun-center-vr.json](./75613-cove-point-fun-center-vr.json) |
 | Covechrome | 341645 | [341645-covechrome.json](./341645-covechrome.json) |
 | Covelink | 384650 | [384650-covelink.json](./384650-covelink.json) |
 | Covemachine | 327296 | [327296-covemachine.json](./327296-covemachine.json) |
@@ -14692,6 +14694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Quest Classic | 32182 | [32182-crystal-quest-classic.json](./32182-crystal-quest-classic.json) |
 | Crystal Raider | 55188 | [55188-crystal-raider.json](./55188-crystal-raider.json) |
 | Crystal Raiders VR | 144178 | [144178-crystal-raiders-vr.json](./144178-crystal-raiders-vr.json) |
+| Crystal Reign | 75597 | [75597-crystal-reign.json](./75597-crystal-reign.json) |
 | Crystal Rider | 160210 | [160210-crystal-rider.json](./160210-crystal-rider.json) |
 | Crystal Riders VR | 236393 | [236393-crystal-riders-vr.json](./236393-crystal-riders-vr.json) |
 | Crystal Sequence | 151015 | [151015-crystal-sequence.json](./151015-crystal-sequence.json) |
