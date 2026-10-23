@@ -1281,6 +1281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking to My Dad | 229016 | [229016-talking-to-my-dad.json](./229016-talking-to-my-dad.json) |
 | Talking Tom & Ben News | 214781 | [214781-talking-tom-and-ben-news.json](./214781-talking-tom-and-ben-news.json) |
 | Talking Tom 3 in Olympics | 315363 | [315363-talking-tom-3-in-olympics.json](./315363-talking-tom-3-in-olympics.json) |
+| Talking Tom Bubble Shooter | 91225 | [91225-talking-tom-bubble-shooter.json](./91225-talking-tom-bubble-shooter.json) |
 | Talking Tom Cake Jump | 105698 | [105698-talking-tom-cake-jump.json](./105698-talking-tom-cake-jump.json) |
 | Talking Tom Camp | 91217 | [91217-talking-tom-camp.json](./91217-talking-tom-camp.json) |
 | Talking Tom Candy Run | 107165 | [107165-talking-tom-candy-run.json](./107165-talking-tom-candy-run.json) |
@@ -1433,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tang Chi | 206613 | [206613-tang-chi.json](./206613-tang-chi.json) |
 | Táng Chuánqí: Shàng Yuáncháng Gān Xíng | 373703 | [373703-tang-chuanqi-shang-yuanchang-gan-xing.json](./373703-tang-chuanqi-shang-yuanchang-gan-xing.json) |
 | Tang Dynasty Architecture | 275341 | [275341-tang-dynasty-architecture.json](./275341-tang-dynasty-architecture.json) |
+| Tang's Starfish Rescue | 91237 | [91237-tangs-starfish-rescue.json](./91237-tangs-starfish-rescue.json) |
 | Tángdì zhī Huá | 394820 | [394820-tangdi-zhi-hua.json](./394820-tangdi-zhi-hua.json) |
 | Tangent | 92813 | [92813-tangent.json](./92813-tangent.json) |
 | Tangent Rush | 169899 | [169899-tangent-rush.json](./169899-tangent-rush.json) |
@@ -3905,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 287892 | [287892-tetris.json](./287892-tetris.json) |
 | Tetris | 326807 | [326807-tetris.json](./326807-tetris.json) |
 | Tetris | 88894 | [88894-tetris.json](./88894-tetris.json) |
+| Tetris | 91204 | [91204-tetris.json](./91204-tetris.json) |
 | Tetris 2 | 254511 | [254511-tetris-2.json](./254511-tetris-2.json) |
 | Tetris 2 | 254512 | [254512-tetris-2.json](./254512-tetris-2.json) |
 | Tetris 2 + BomBliss | 78699 | [78699-tetris-2-bombliss.json](./78699-tetris-2-bombliss.json) |
@@ -12634,6 +12637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Life of Pets: Unleashed | 58324 | [58324-the-secret-life-of-pets-unleashed.json](./58324-the-secret-life-of-pets-unleashed.json) |
 | The Secret Life of Probes Prologue | 249639 | [249639-the-secret-life-of-probes-prologue.json](./249639-the-secret-life-of-probes-prologue.json) |
 | The Secret of Cat Island | 194003 | [194003-the-secret-of-cat-island.json](./194003-the-secret-of-cat-island.json) |
+| The Secret of Chimera Labs | 91169 | [91169-the-secret-of-chimera-labs.json](./91169-the-secret-of-chimera-labs.json) |
 | The Secret of Chunky Salsa | 327274 | [327274-the-secret-of-chunky-salsa.json](./327274-the-secret-of-chunky-salsa.json) |
 | The Secret of Crimson Manor | 297503 | [297503-the-secret-of-crimson-manor.json](./297503-the-secret-of-crimson-manor.json) |
 | The Secret of Crystal Mountain | 293243 | [293243-the-secret-of-crystal-mountain.json](./293243-the-secret-of-crystal-mountain.json) |
@@ -18199,6 +18203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time to Play Bridge | 95582 | [95582-time-to-play-bridge.json](./95582-time-to-play-bridge.json) |
 | Time to Play Hearts | 86709 | [86709-time-to-play-hearts.json](./86709-time-to-play-hearts.json) |
 | Time to Play Pyramid | 96759 | [96759-time-to-play-pyramid.json](./96759-time-to-play-pyramid.json) |
+| Time to Repair | 91234 | [91234-time-to-repair.json](./91234-time-to-repair.json) |
 | Time to Ride: Saddles & Stables | 64908 | [64908-time-to-ride-saddles-and-stables.json](./64908-time-to-ride-saddles-and-stables.json) |
 | Time to Stop Time | 121452 | [121452-time-to-stop-time.json](./121452-time-to-stop-time.json) |
 | Time To Wake Up | 257932 | [257932-time-to-wake-up.json](./257932-time-to-wake-up.json) |
@@ -25426,6 +25431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TT Isle of Man: Collection | 275041 | [275041-tt-isle-of-man-collection.json](./275041-tt-isle-of-man-collection.json) |
 | TT Isle of Man: Ride on the Edge | 81220 | [81220-tt-isle-of-man-ride-on-the-edge.json](./81220-tt-isle-of-man-ride-on-the-edge.json) |
 | TT Isle of Man: Ride on the Edge - Sidecar Thrill | 170793 | [170793-tt-isle-of-man-ride-on-the-edge-sidecar-thrill.json](./170793-tt-isle-of-man-ride-on-the-edge-sidecar-thrill.json) |
+| TT Isle of Man: Ride on the Edge - Sidecar Thrill | 91203 | [91203-tt-isle-of-man-ride-on-the-edge-sidecar-thrill.json](./91203-tt-isle-of-man-ride-on-the-edge-sidecar-thrill.json) |
 | TT Isle of Man: Ride on the Edge 3 | 228729 | [228729-tt-isle-of-man-ride-on-the-edge-3.json](./228729-tt-isle-of-man-ride-on-the-edge-3.json) |
 | TT Racer | 36905 | [36905-tt-racer.json](./36905-tt-racer.json) |
 | TTA 1 | 253565 | [253565-tta-1.json](./253565-tta-1.json) |
