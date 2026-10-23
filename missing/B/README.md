@@ -12135,6 +12135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brickscapes: Bricks Breaker | 237283 | [237283-brickscapes-bricks-breaker.json](./237283-brickscapes-bricks-breaker.json) |
 | BrickShooter | 93208 | [93208-brickshooter.json](./93208-brickshooter.json) |
 | BricksVR | 144928 | [144928-bricksvr.json](./144928-bricksvr.json) |
+| BrickWar | 98220 | [98220-brickwar.json](./98220-brickwar.json) |
 | Bricky Boy | 152304 | [152304-bricky-boy.json](./152304-bricky-boy.json) |
 | Bricky to Me | 181011 | [181011-bricky-to-me.json](./181011-bricky-to-me.json) |
 | Brickyard / Clowns | 93565 | [93565-brickyard-clowns.json](./93565-brickyard-clowns.json) |
