@@ -3937,6 +3937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets and Girls | 286446 | [286446-pets-and-girls.json](./286446-pets-and-girls.json) |
 | Pets at Work | 190153 | [190153-pets-at-work.json](./190153-pets-at-work.json) |
 | Pets Crossing | 247028 | [247028-pets-crossing.json](./247028-pets-crossing.json) |
+| Pets Fun House | 90466 | [90466-pets-fun-house.json](./90466-pets-fun-house.json) |
 | Pets in Action Bundle | 212787 | [212787-pets-in-action-bundle.json](./212787-pets-in-action-bundle.json) |
 | Pets Live | 340799 | [340799-pets-live.json](./340799-pets-live.json) |
 | Pets No More | 154818 | [154818-pets-no-more.json](./154818-pets-no-more.json) |
@@ -4007,6 +4008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pew Dew Redemption | 117387 | [117387-pew-dew-redemption.json](./117387-pew-dew-redemption.json) |
 | Pew Pew Crew! | 265309 | [265309-pew-pew-crew.json](./265309-pew-pew-crew.json) |
 | Pew Pew Gaem 3 | 326260 | [326260-pew-pew-gaem-3.json](./326260-pew-pew-gaem-3.json) |
+| Pew Pew Land | 91171 | [91171-pew-pew-land.json](./91171-pew-pew-land.json) |
 | Pew Pew Planet | 129479 | [129479-pew-pew-planet.json](./129479-pew-pew-planet.json) |
 | Pew Pew Pod | 65252 | [65252-pew-pew-pod.json](./65252-pew-pew-pod.json) |
 | Pew Pew Puzzle Defense | 120033 | [120033-pew-pew-puzzle-defense.json](./120033-pew-pew-puzzle-defense.json) |
@@ -5332,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Action | 39419 | [39419-pinball-action.json](./39419-pinball-action.json) |
 | Pinball Advance | 49316 | [49316-pinball-advance.json](./49316-pinball-advance.json) |
 | Pinball Adventure | 359731 | [359731-pinball-adventure.json](./359731-pinball-adventure.json) |
+| Pinball Arcade Plus | 91189 | [91189-pinball-arcade-plus.json](./91189-pinball-arcade-plus.json) |
 | Pinball Arcade Season 2 | 141861 | [141861-pinball-arcade-season-2.json](./141861-pinball-arcade-season-2.json) |
 | Pinball Arcade: AC/DC | 349341 | [349341-pinball-arcade-ac-dc.json](./349341-pinball-arcade-ac-dc.json) |
 | Pinball Arcade: Al’s Garage Band Goes on a World Tour | 353229 | [353229-pinball-arcade-al-s-garage-band-goes-on-a-world-tour.json](./353229-pinball-arcade-al-s-garage-band-goes-on-a-world-tour.json) |
@@ -9757,6 +9760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool | 235341 | [235341-pool.json](./235341-pool.json) |
 | Pool | 246502 | [246502-pool.json](./246502-pool.json) |
 | Pool | 352172 | [352172-pool.json](./352172-pool.json) |
+| Pool | 91205 | [91205-pool.json](./91205-pool.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Definitive Edition | 400201 | [400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json](./400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Premium Edition | 395683 | [395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json](./395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Superior Edition | 413572 | [413572-pool-and-snooker-fever-2-in-1-bundle-superior-edition.json](./413572-pool-and-snooker-fever-2-in-1-bundle-superior-edition.json) |
