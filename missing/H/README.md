@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hadou no Hyouteki | 77562 | [77562-hadou-no-hyouteki.json](./77562-hadou-no-hyouteki.json) |
 | Hadr | 139355 | [139355-hadr.json](./139355-hadr.json) |
 | Hadrian's Villa Reborn: Stadium Garden | 167609 | [167609-hadrians-villa-reborn-stadium-garden.json](./167609-hadrians-villa-reborn-stadium-garden.json) |
+| Hadron | 59632 | [59632-hadron.json](./59632-hadron.json) |
 | Hadur | 342638 | [342638-hadur.json](./342638-hadur.json) |
 | HAE Stack | 400502 | [400502-hae-stack.json](./400502-hae-stack.json) |
 | Haecia | 125903 | [125903-haecia.json](./125903-haecia.json) |
