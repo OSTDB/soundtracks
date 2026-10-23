@@ -7286,8 +7286,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band 4: Rivals Expansion | 175664 | [175664-rock-band-4-rivals-expansion.json](./175664-rock-band-4-rivals-expansion.json) |
 | Rock Band 4: Who Am I? (What's My Name?) | 371863 | [371863-rock-band-4-who-am-i-whats-my-name.json](./371863-rock-band-4-who-am-i-whats-my-name.json) |
 | Rock Band Blitz | 2696 | [2696-rock-band-blitz.json](./2696-rock-band-blitz.json) |
+| Rock Band Country Track Pack 2 | 91206 | [91206-rock-band-country-track-pack-2.json](./91206-rock-band-country-track-pack-2.json) |
 | Rock Band Sessions | 250663 | [250663-rock-band-sessions.json](./250663-rock-band-sessions.json) |
 | Rock Band Simulator | 409076 | [409076-rock-band-simulator.json](./409076-rock-band-simulator.json) |
+| Rock Band Track Pack: Classic Rock | 91207 | [91207-rock-band-track-pack-classic-rock.json](./91207-rock-band-track-pack-classic-rock.json) |
 | Rock Band Unplugged | 2721 | [2721-rock-band-unplugged.json](./2721-rock-band-unplugged.json) |
 | Rock Band VR | 26988 | [26988-rock-band-vr.json](./26988-rock-band-vr.json) |
 | Rock Band: Metal Track Pack | 67778 | [67778-rock-band-metal-track-pack.json](./67778-rock-band-metal-track-pack.json) |
@@ -8391,9 +8393,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms IX: Power Up Kit | 350632 | [350632-romance-of-the-three-kingdoms-ix-power-up-kit.json](./350632-romance-of-the-three-kingdoms-ix-power-up-kit.json) |
 | Romance of the Three Kingdoms Maker | 34575 | [34575-romance-of-the-three-kingdoms-maker.json](./34575-romance-of-the-three-kingdoms-maker.json) |
 | Romance of the Three Kingdoms V with Power Up Kit | 91115 | [91115-romance-of-the-three-kingdoms-v-with-power-up-kit.json](./91115-romance-of-the-three-kingdoms-v-with-power-up-kit.json) |
+| Romance of the Three Kingdoms VI with Power Up Kit | 91184 | [91184-romance-of-the-three-kingdoms-vi-with-power-up-kit.json](./91184-romance-of-the-three-kingdoms-vi-with-power-up-kit.json) |
 | Romance of the Three Kingdoms VI: Awakening of the Dragon | 7048 | [7048-romance-of-the-three-kingdoms-vi-awakening-of-the-dragon.json](./7048-romance-of-the-three-kingdoms-vi-awakening-of-the-dragon.json) |
 | Romance of the Three Kingdoms VI: Power Up Kit | 350630 | [350630-romance-of-the-three-kingdoms-vi-power-up-kit.json](./350630-romance-of-the-three-kingdoms-vi-power-up-kit.json) |
 | Romance of the Three Kingdoms VII | 7254 | [7254-romance-of-the-three-kingdoms-vii.json](./7254-romance-of-the-three-kingdoms-vii.json) |
+| Romance of the Three Kingdoms VII with Power Up Kit | 91185 | [91185-romance-of-the-three-kingdoms-vii-with-power-up-kit.json](./91185-romance-of-the-three-kingdoms-vii-with-power-up-kit.json) |
 | Romance of the Three Kingdoms VII: Power Up Kit | 350629 | [350629-romance-of-the-three-kingdoms-vii-power-up-kit.json](./350629-romance-of-the-three-kingdoms-vii-power-up-kit.json) |
 | Romance of the Three Kingdoms VIII with Power Up Kit | 55811 | [55811-romance-of-the-three-kingdoms-viii-with-power-up-kit.json](./55811-romance-of-the-three-kingdoms-viii-with-power-up-kit.json) |
 | Romance of the Three Kingdoms X: Power Up Kit | 350631 | [350631-romance-of-the-three-kingdoms-x-power-up-kit.json](./350631-romance-of-the-three-kingdoms-x-power-up-kit.json) |
