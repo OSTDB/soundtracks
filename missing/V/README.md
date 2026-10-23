@@ -1748,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vikings vs. Dragons | 241541 | [241541-vikings-vs-dragons.json](./241541-vikings-vs-dragons.json) |
 | Vikings Wars | 128981 | [128981-vikings-wars.json](./128981-vikings-wars.json) |
 | Vikings: Age of the Axe | 149504 | [149504-vikings-age-of-the-axe.json](./149504-vikings-age-of-the-axe.json) |
+| Vikings: The Strategy of Ultimate Conquest | 73590 | [73590-vikings-the-strategy-of-ultimate-conquest.json](./73590-vikings-the-strategy-of-ultimate-conquest.json) |
 | Vikings: Valhalla | 266144 | [266144-vikings-valhalla.json](./266144-vikings-valhalla.json) |
 | Vikings: Valhalla Saga | 228120 | [228120-vikings-valhalla-saga.json](./228120-vikings-valhalla-saga.json) |
 | Vikings: War of Clans | 44118 | [44118-vikings-war-of-clans.json](./44118-vikings-war-of-clans.json) |
@@ -2148,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Mother Family Game: Working Mom Simulator | 101587 | [101587-virtual-mother-family-game-working-mom-simulator.json](./101587-virtual-mother-family-game-working-mom-simulator.json) |
 | Virtual Mother Home Chef Family Simulator | 103903 | [103903-virtual-mother-home-chef-family-simulator.json](./103903-virtual-mother-home-chef-family-simulator.json) |
 | Virtual Mother Twins Baby | 296743 | [296743-virtual-mother-twins-baby.json](./296743-virtual-mother-twins-baby.json) |
+| Virtual Murder 1: Who Killed Sam Rupert? | 73604 | [73604-virtual-murder-1-who-killed-sam-rupert.json](./73604-virtual-murder-1-who-killed-sam-rupert.json) |
 | Virtual Ninja VR | 88064 | [88064-virtual-ninja-vr.json](./88064-virtual-ninja-vr.json) |
 | Virtual Perspective | 391756 | [391756-virtual-perspective.json](./391756-virtual-perspective.json) |
 | Virtual Pet | 315292 | [315292-virtual-pet.json](./315292-virtual-pet.json) |
@@ -2663,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Vanguard | 419331 | [419331-void-vanguard.json](./419331-void-vanguard.json) |
 | Void Vikings | 33573 | [33573-void-vikings.json](./33573-void-vikings.json) |
 | Void War | 291212 | [291212-void-war.json](./291212-void-war.json) |
+| Void War | 73668 | [73668-void-war.json](./73668-void-war.json) |
 | Void Warfare | 148889 | [148889-void-warfare.json](./148889-void-warfare.json) |
 | Void Wars | 282025 | [282025-void-wars.json](./282025-void-wars.json) |
 | Void Whispers | 293999 | [293999-void-whispers.json](./293999-void-whispers.json) |
