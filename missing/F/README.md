@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Tornado | 65208 | [65208-f1-tornado.json](./65208-f1-tornado.json) |
 | F1-2004 Racing | 138694 | [138694-f1-2004-racing.json](./138694-f1-2004-racing.json) |
 | F1: World Championship Edition | 12083 | [12083-f1-world-championship-edition.json](./12083-f1-world-championship-edition.json) |
+| F117A Stealth FIghter 2.0 | 59717 | [59717-f117a-stealth-fighter-2-0.json](./59717-f117a-stealth-fighter-2-0.json) |
 | F15 Flight Simulator VR | 107129 | [107129-f15-flight-simulator-vr.json](./107129-f15-flight-simulator-vr.json) |
 | F15 Flying Battle | 88846 | [88846-f15-flying-battle.json](./88846-f15-flying-battle.json) |
 | F18 Carrier Landing | 87598 | [87598-f18-carrier-landing.json](./87598-f18-carrier-landing.json) |
@@ -1569,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Creature Jigsaws | 292257 | [292257-fantasy-creature-jigsaws.json](./292257-fantasy-creature-jigsaws.json) |
 | Fantasy Dash | 188027 | [188027-fantasy-dash.json](./188027-fantasy-dash.json) |
 | Fantasy Defenders Bundle: Defend the Rook & Legend of Keepers | 262224 | [262224-fantasy-defenders-bundle-defend-the-rook-and-legend-of-keepers.json](./262224-fantasy-defenders-bundle-defend-the-rook-and-legend-of-keepers.json) |
+| Fantasy Dimension - Imagination & Tactics | 59718 | [59718-fantasy-dimension-imagination-and-tactics.json](./59718-fantasy-dimension-imagination-and-tactics.json) |
 | Fantasy Dungeon | 285946 | [285946-fantasy-dungeon.json](./285946-fantasy-dungeon.json) |
 | Fantasy Dungeon VR | 157367 | [157367-fantasy-dungeon-vr.json](./157367-fantasy-dungeon-vr.json) |
 | Fantasy Dynasty: Le Château Deretic | 99639 | [99639-fantasy-dynasty-le-chateau-deretic.json](./99639-fantasy-dynasty-le-chateau-deretic.json) |
@@ -1794,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FantaVision | 376693 | [376693-fantavision.json](./376693-fantavision.json) |
 | Fantavision 202X | 229133 | [229133-fantavision-202x.json](./229133-fantavision-202x.json) |
 | Fanterra: A Fantasy Farming Adventure | 383712 | [383712-fanterra-a-fantasy-farming-adventure.json](./383712-fanterra-a-fantasy-farming-adventure.json) |
+| Fantidote | 59637 | [59637-fantidote.json](./59637-fantidote.json) |
 | Fantoccini | 148281 | [148281-fantoccini.json](./148281-fantoccini.json) |
 | Fantom Feast | 112928 | [112928-fantom-feast.json](./112928-fantom-feast.json) |
 | Fantomas | 313250 | [313250-fantomas.json](./313250-fantomas.json) |
@@ -7756,6 +7759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Lost: Episode 1 SD | 101071 | [101071-forever-lost-episode-1-sd.json](./101071-forever-lost-episode-1-sd.json) |
 | Forever Lost: Episode 2 SD | 100336 | [100336-forever-lost-episode-2-sd.json](./100336-forever-lost-episode-2-sd.json) |
 | Forever Lost: Episode 3 SD | 99367 | [99367-forever-lost-episode-3-sd.json](./99367-forever-lost-episode-3-sd.json) |
+| Forever Meow | 59708 | [59708-forever-meow.json](./59708-forever-meow.json) |
 | Forever Night | 155673 | [155673-forever-night.json](./155673-forever-night.json) |
 | Forever Quester | 243957 | [243957-forever-quester.json](./243957-forever-quester.json) |
 | Forever Skies | 187096 | [187096-forever-skies.json](./187096-forever-skies.json) |
@@ -8885,6 +8889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragsurf | 130123 | [130123-fragsurf.json](./130123-fragsurf.json) |
 | Frail Faces | 154586 | [154586-frail-faces.json](./154586-frail-faces.json) |
 | Frail Keep | 411376 | [411376-frail-keep.json](./411376-frail-keep.json) |
+| Frail Shells | 59638 | [59638-frail-shells.json](./59638-frail-shells.json) |
 | Frak | 257472 | [257472-frak.json](./257472-frak.json) |
 | Frak | 350484 | [350484-frak.json](./350484-frak.json) |
 | Frak! | 91894 | [91894-frak.json](./91894-frak.json) |
