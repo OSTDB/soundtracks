@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra0 | 391033 | [391033-ultra0.json](./391033-ultra0.json) |
 | Ultra4 Offroad Racing | 87267 | [87267-ultra4-offroad-racing.json](./87267-ultra4-offroad-racing.json) |
 | Ultraball | 170897 | [170897-ultraball.json](./170897-ultraball.json) |
+| Ultraball | 79104 | [79104-ultraball.json](./79104-ultraball.json) |
 | Ultraball | 82318 | [82318-ultraball.json](./82318-ultraball.json) |
 | Ultrabots | 68909 | [68909-ultrabots.json](./68909-ultrabots.json) |
 | Ultrabouters | 177242 | [177242-ultrabouters.json](./177242-ultrabouters.json) |
