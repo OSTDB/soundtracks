@@ -7405,6 +7405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeworld 2 | 750 | [750-homeworld-2.json](./750-homeworld-2.json) |
 | Homeworld 3: Deluxe Edition | 279045 | [279045-homeworld-3-deluxe-edition.json](./279045-homeworld-3-deluxe-edition.json) |
 | Homeworld 3: Fleet Command Edition | 279046 | [279046-homeworld-3-fleet-command-edition.json](./279046-homeworld-3-fleet-command-edition.json) |
+| Homeworld Defense | 84040 | [84040-homeworld-defense.json](./84040-homeworld-defense.json) |
 | Homeworld Mobile | 122124 | [122124-homeworld-mobile.json](./122124-homeworld-mobile.json) |
 | Homeworld: Deserts of Kharak - Deluxe Edition | 53203 | [53203-homeworld-deserts-of-kharak-deluxe-edition.json](./53203-homeworld-deserts-of-kharak-deluxe-edition.json) |
 | Homeworld: Deserts of Kharak - Soban Fleet Pack | 154445 | [154445-homeworld-deserts-of-kharak-soban-fleet-pack.json](./154445-homeworld-deserts-of-kharak-soban-fleet-pack.json) |
@@ -9776,6 +9777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper 2 | 319354 | [319354-hyper-2.json](./319354-hyper-2.json) |
 | Hyper Aggressive | 275480 | [275480-hyper-aggressive.json](./275480-hyper-aggressive.json) |
 | Hyper Apocalypse | 303052 | [303052-hyper-apocalypse.json](./303052-hyper-apocalypse.json) |
+| Hyper Arena VR | 84013 | [84013-hyper-arena-vr.json](./84013-hyper-arena-vr.json) |
 | Hyper Attraction Sky Games | 203182 | [203182-hyper-attraction-sky-games.json](./203182-hyper-attraction-sky-games.json) |
 | Hyper Biker | 318260 | [318260-hyper-biker.json](./318260-hyper-biker.json) |
 | Hyper Bishi Bashi Champ | 228466 | [228466-hyper-bishi-bashi-champ.json](./228466-hyper-bishi-bashi-champ.json) |
