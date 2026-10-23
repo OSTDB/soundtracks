@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J-Stars Victory Vs | 7355 | [7355-j-stars-victory-vs.json](./7355-j-stars-victory-vs.json) |
 | J-Town: A Visual Novel | 249859 | [249859-j-town-a-visual-novel.json](./249859-j-town-a-visual-novel.json) |
 | J. J. Squawkers | 40193 | [40193-j-j-squawkers.json](./40193-j-j-squawkers.json) |
+| J. League Pro Striker Final Stage | 45726 | [45726-j-league-pro-striker-final-stage.json](./45726-j-league-pro-striker-final-stage.json) |
 | J. Lo: Fur Bully from the Block | 257407 | [257407-j-lo-fur-bully-from-the-block.json](./257407-j-lo-fur-bully-from-the-block.json) |
 | J.A.O.S.S | 83920 | [83920-j-a-o-s-s.json](./83920-j-a-o-s-s.json) |
 | J.B. Harold 3: D.C. Connection | 74890 | [74890-j-b-harold-3-d-c-connection.json](./74890-j-b-harold-3-d-c-connection.json) |
@@ -65,6 +66,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Pro Soccer Club wo Tsukurou! 6: Pride of J | 62766 | [62766-j-league-pro-soccer-club-wo-tsukurou-6-pride-of-j.json](./62766-j-league-pro-soccer-club-wo-tsukurou-6-pride-of-j.json) |
 | J.League Pro Soccer Club wo Tsukurou! 7: Euro + | 65012 | [65012-j-league-pro-soccer-club-wo-tsukurou-7-euro.json](./65012-j-league-pro-soccer-club-wo-tsukurou-7-euro.json) |
 | J.League Pro Soccer Club wo Tsukurou! 8: Euro + | 62765 | [62765-j-league-pro-soccer-club-wo-tsukurou-8-euro.json](./62765-j-league-pro-soccer-club-wo-tsukurou-8-euro.json) |
+| J.League Pro Striker | 45745 | [45745-j-league-pro-striker.json](./45745-j-league-pro-striker.json) |
+| J.League Pro Striker 2 | 45727 | [45727-j-league-pro-striker-2.json](./45727-j-league-pro-striker-2.json) |
+| J.League Pro Striker Perfect | 45725 | [45725-j-league-pro-striker-perfect.json](./45725-j-league-pro-striker-perfect.json) |
 | J.League Soccer Dream Eleven | 45274 | [45274-j-league-soccer-dream-eleven.json](./45274-j-league-soccer-dream-eleven.json) |
 | J.League Soccer Ole! Supporters | 64484 | [64484-j-league-soccer-ole-supporters.json](./64484-j-league-soccer-ole-supporters.json) |
 | J.League Soccer Prime Goal 3 | 220831 | [220831-j-league-soccer-prime-goal-3.json](./220831-j-league-soccer-prime-goal-3.json) |
@@ -1675,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jim in the Box | 202019 | [202019-jim-in-the-box.json](./202019-jim-in-the-box.json) |
 | Jim is Moving Out! | 120433 | [120433-jim-is-moving-out.json](./120433-jim-is-moving-out.json) |
 | Jim Lee's Wild C.A.T.S: Covert Action Teams | 42510 | [42510-jim-lees-wild-c-a-t-s-covert-action-teams.json](./42510-jim-lees-wild-c-a-t-s-covert-action-teams.json) |
+| Jim Power: The Arcade Game | 45763 | [45763-jim-power-the-arcade-game.json](./45763-jim-power-the-arcade-game.json) |
 | Jim Power: The Lost Dimension in 3D | 42606 | [42606-jim-power-the-lost-dimension-in-3d.json](./42606-jim-power-the-lost-dimension-in-3d.json) |
 | Jim the Spy | 207179 | [207179-jim-the-spy.json](./207179-jim-the-spy.json) |
 | Jim's Adventure | 198070 | [198070-jims-adventure.json](./198070-jims-adventure.json) |
