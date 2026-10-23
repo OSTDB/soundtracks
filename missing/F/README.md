@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Failed State | 98375 | [98375-failed-state.json](./98375-failed-state.json) |
 | Failed Trust | 290558 | [290558-failed-trust.json](./290558-failed-trust.json) |
 | Failspace | 111795 | [111795-failspace.json](./111795-failspace.json) |
+| Failticity Classic | 56348 | [56348-failticity-classic.json](./56348-failticity-classic.json) |
 | Failticity Online | 56368 | [56368-failticity-online.json](./56368-failticity-online.json) |
 | Failticity Plus | 56369 | [56369-failticity-plus.json](./56369-failticity-plus.json) |
 | Failure Drill | 241518 | [241518-failure-drill.json](./241518-failure-drill.json) |
