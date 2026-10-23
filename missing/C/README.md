@@ -2094,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carlos Haunted House | 343835 | [343835-carlos-haunted-house.json](./343835-carlos-haunted-house.json) |
 | Carlos III y La Difusión de la Antigüedad | 90491 | [90491-carlos-iii-y-la-difusion-de-la-antiguedad.json](./90491-carlos-iii-y-la-difusion-de-la-antiguedad.json) |
 | Carlos Klauss: Episode Zero | 258701 | [258701-carlos-klauss-episode-zero.json](./258701-carlos-klauss-episode-zero.json) |
+| Carlos Sainz | 71349 | [71349-carlos-sainz.json](./71349-carlos-sainz.json) |
 | Carlos the Taco | 231203 | [231203-carlos-the-taco.json](./231203-carlos-the-taco.json) |
 | Carlton | 83477 | [83477-carlton.json](./83477-carlton.json) |
 | Carma | 172153 | [172153-carma.json](./172153-carma.json) |
@@ -2610,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castaway Survival In Ocean: Build Your Own Raft, Craft | 409694 | [409694-castaway-survival-in-ocean-build-your-own-raft-craft.json](./409694-castaway-survival-in-ocean-build-your-own-raft-craft.json) |
 | Castaway Trails | 356598 | [356598-castaway-trails.json](./356598-castaway-trails.json) |
 | Castaway VR | 75169 | [75169-castaway-vr.json](./75169-castaway-vr.json) |
+| Castaway: The Ordeal Begins | 71337 | [71337-castaway-the-ordeal-begins.json](./71337-castaway-the-ordeal-begins.json) |
 | Castaways | 222751 | [222751-castaways.json](./222751-castaways.json) |
 | Castaways VR | 120341 | [120341-castaways-vr.json](./120341-castaways-vr.json) |
 | Caste | 155678 | [155678-caste.json](./155678-caste.json) |
@@ -3833,6 +3835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns of Karvella | 114324 | [114324-caverns-of-karvella.json](./114324-caverns-of-karvella.json) |
 | Caverns of Khafka | 25674 | [25674-caverns-of-khafka.json](./25674-caverns-of-khafka.json) |
 | Caverns of Kontonia | 293715 | [293715-caverns-of-kontonia.json](./293715-caverns-of-kontonia.json) |
+| Caverns of Kroz | 71356 | [71356-caverns-of-kroz.json](./71356-caverns-of-kroz.json) |
 | Caverns of Mars: Recharged | 233624 | [233624-caverns-of-mars-recharged.json](./233624-caverns-of-mars-recharged.json) |
 | Caverns of Minos | 22681 | [22681-caverns-of-minos.json](./22681-caverns-of-minos.json) |
 | Caverns of the Lost Miner | 391799 | [391799-caverns-of-the-lost-miner.json](./391799-caverns-of-the-lost-miner.json) |
@@ -7660,6 +7663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Collection | 52848 | [52848-classic-collection.json](./52848-classic-collection.json) |
 | Classic Collection: Adventure/Fantasy | 79531 | [79531-classic-collection-adventure-fantasy.json](./79531-classic-collection-adventure-fantasy.json) |
 | Classic Collection: Lucasfilm | 137504 | [137504-classic-collection-lucasfilm.json](./137504-classic-collection-lucasfilm.json) |
+| Classic Compendium | 71344 | [71344-classic-compendium.json](./71344-classic-compendium.json) |
 | Classic Compendium 2 | 79364 | [79364-classic-compendium-2.json](./79364-classic-compendium-2.json) |
 | Classic Concentration | 48098 | [48098-classic-concentration.json](./48098-classic-concentration.json) |
 | Classic Cribbage | 169982 | [169982-classic-cribbage.json](./169982-classic-cribbage.json) |
@@ -11551,6 +11555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporate Hell | 391617 | [391617-corporate-hell.json](./391617-corporate-hell.json) |
 | Corporate Lockdown | 250005 | [250005-corporate-lockdown.json](./250005-corporate-lockdown.json) |
 | Corporate Property | 63374 | [63374-corporate-property.json](./63374-corporate-property.json) |
+| Corporate Pursuit | 71364 | [71364-corporate-pursuit.json](./71364-corporate-pursuit.json) |
 | Corporate Raider: The Pirate of Wall St. | 65571 | [65571-corporate-raider-the-pirate-of-wall-st.json](./65571-corporate-raider-the-pirate-of-wall-st.json) |
 | Corporate Suck Up | 338888 | [338888-corporate-suck-up.json](./338888-corporate-suck-up.json) |
 | Corporation | 57696 | [57696-corporation.json](./57696-corporation.json) |
