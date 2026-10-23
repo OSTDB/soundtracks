@@ -4661,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Ruler | 208827 | [208827-iron-ruler.json](./208827-iron-ruler.json) |
 | Iron Saga VS | 273641 | [273641-iron-saga-vs.json](./273641-iron-saga-vs.json) |
 | Iron Sea Defenders | 33816 | [33816-iron-sea-defenders.json](./33816-iron-sea-defenders.json) |
+| Iron Sea Frontier Defenders TD | 89015 | [89015-iron-sea-frontier-defenders-td.json](./89015-iron-sea-frontier-defenders-td.json) |
 | Iron Sea: The West Coast | 157571 | [157571-iron-sea-the-west-coast.json](./157571-iron-sea-the-west-coast.json) |
 | Iron Shadow: Survival Protocol | 371472 | [371472-iron-shadow-survival-protocol.json](./371472-iron-shadow-survival-protocol.json) |
 | Iron Sight | 98003 | [98003-iron-sight.json](./98003-iron-sight.json) |
