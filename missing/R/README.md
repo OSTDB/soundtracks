@@ -3339,6 +3339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redline: Drift | 174854 | [174854-redline-drift.json](./174854-redline-drift.json) |
 | Redline: Sport | 255755 | [255755-redline-sport.json](./255755-redline-sport.json) |
 | RedMask | 266811 | [266811-redmask.json](./266811-redmask.json) |
+| Redmoon | 71923 | [71923-redmoon.json](./71923-redmoon.json) |
 | RedMoonWorld | 411616 | [411616-redmoonworld.json](./411616-redmoonworld.json) |
 | Redneck Brawl Turbo | 333172 | [333172-redneck-brawl-turbo.json](./333172-redneck-brawl-turbo.json) |
 | Redneck Deer Huntin' | 9005 | [9005-redneck-deer-huntin.json](./9005-redneck-deer-huntin.json) |
