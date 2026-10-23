@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield Gets Real | 4882 | [4882-garfield-gets-real.json](./4882-garfield-gets-real.json) |
 | Garfield GO | 55964 | [55964-garfield-go.json](./55964-garfield-go.json) |
 | Garfield in TV Land | 234569 | [234569-garfield-in-tv-land.json](./234569-garfield-in-tv-land.json) |
+| Garfield It's All About Reading and Phonics Volume 1 | 64803 | [64803-garfield-its-all-about-reading-and-phonics-volume-1.json](./64803-garfield-its-all-about-reading-and-phonics-volume-1.json) |
 | Garfield Kart | 35467 | [35467-garfield-kart.json](./35467-garfield-kart.json) |
 | Garfield Kart 2: All You Can Drift | 345489 | [345489-garfield-kart-2-all-you-can-drift.json](./345489-garfield-kart-2-all-you-can-drift.json) |
 | Garfield Kart 2: All You Can Drift - Garfing Cosmeowtics | 387615 | [387615-garfield-kart-2-all-you-can-drift-garfing-cosmeowtics.json](./387615-garfield-kart-2-all-you-can-drift-garfing-cosmeowtics.json) |
@@ -1623,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garnet Cradle: Sugary Sparkle | 221892 | [221892-garnet-cradle-sugary-sparkle.json](./221892-garnet-cradle-sugary-sparkle.json) |
 | Garnouille Must Live! | 267010 | [267010-garnouille-must-live.json](./267010-garnouille-must-live.json) |
 | Garou Densetsu Battle Archive 2 | 73876 | [73876-garou-densetsu-battle-archive-2.json](./73876-garou-densetsu-battle-archive-2.json) |
+| Garou Densetsu vs. Fighter's History Dynamite | 64792 | [64792-garou-densetsu-vs-fighters-history-dynamite.json](./64792-garou-densetsu-vs-fighters-history-dynamite.json) |
 | Garou Sliding Simulator | 377715 | [377715-garou-sliding-simulator.json](./377715-garou-sliding-simulator.json) |
 | Garou: Mark of the Wolves | 10605 | [10605-garou-mark-of-the-wolves.json](./10605-garou-mark-of-the-wolves.json) |
 | Garouden Breakblow | 78509 | [78509-garouden-breakblow.json](./78509-garouden-breakblow.json) |
@@ -2908,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gharp | 192438 | [192438-gharp.json](./192438-gharp.json) |
 | Ghastly Mask Shop | 391332 | [391332-ghastly-mask-shop.json](./391332-ghastly-mask-shop.json) |
 | GHD | 171320 | [171320-ghd.json](./171320-ghd.json) |
+| Gheldia | 64796 | [64796-gheldia.json](./64796-gheldia.json) |
 | Ghen War | 45526 | [45526-ghen-war.json](./45526-ghen-war.json) |
 | Ghenghis Khan | 14440 | [14440-ghenghis-khan.json](./14440-ghenghis-khan.json) |
 | Gherbert Groundhog in Save the Date | 232406 | [232406-gherbert-groundhog-in-save-the-date.json](./232406-gherbert-groundhog-in-save-the-date.json) |
@@ -7281,6 +7284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim | 379863 | [379863-grim.json](./379863-grim.json) |
 | Grim | 391785 | [391785-grim.json](./391785-grim.json) |
 | Grim Axiom | 357039 | [357039-grim-axiom.json](./357039-grim-axiom.json) |
+| Grim Blaster | 64778 | [64778-grim-blaster.json](./64778-grim-blaster.json) |
 | Grim Borough | 297238 | [297238-grim-borough.json](./297238-grim-borough.json) |
 | Grim Chronicles: Superior Sorcery | 416700 | [416700-grim-chronicles-superior-sorcery.json](./416700-grim-chronicles-superior-sorcery.json) |
 | Grim Clicker | 123830 | [123830-grim-clicker.json](./123830-grim-clicker.json) |
