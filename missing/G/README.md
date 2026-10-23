@@ -5556,7 +5556,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Google Spotlight Stories: On Ice | 103200 | [103200-google-spotlight-stories-on-ice.json](./103200-google-spotlight-stories-on-ice.json) |
 | Google Spotlight Stories: Pearl | 74401 | [74401-google-spotlight-stories-pearl.json](./74401-google-spotlight-stories-pearl.json) |
 | Google Spotlight Stories: Piggy | 103265 | [103265-google-spotlight-stories-piggy.json](./103265-google-spotlight-stories-piggy.json) |
+| Google Spotlight Stories: Rain or Shine | 75611 | [75611-google-spotlight-stories-rain-or-shine.json](./75611-google-spotlight-stories-rain-or-shine.json) |
 | Google Spotlight Stories: Son of Jaguar | 75041 | [75041-google-spotlight-stories-son-of-jaguar.json](./75041-google-spotlight-stories-son-of-jaguar.json) |
+| Google Spotlight Stories: Sonaria | 75612 | [75612-google-spotlight-stories-sonaria.json](./75612-google-spotlight-stories-sonaria.json) |
 | Google: Image Breakout | 225628 | [225628-google-image-breakout.json](./225628-google-image-breakout.json) |
 | Google: Squid Game | 327862 | [327862-google-squid-game.json](./327862-google-squid-game.json) |
 | Google.exe | 400093 | [400093-google-exe.json](./400093-google-exe.json) |
@@ -6321,6 +6323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrandNestling | 130232 | [130232-grandnestling.json](./130232-grandnestling.json) |
 | Grandpa | 329782 | [329782-grandpa.json](./329782-grandpa.json) |
 | Grandpa And Granny Home Escape | 248177 | [248177-grandpa-and-granny-home-escape.json](./248177-grandpa-and-granny-home-escape.json) |
+| Grandpa and the Zombies | 75624 | [75624-grandpa-and-the-zombies.json](./75624-grandpa-and-the-zombies.json) |
 | Grandpa Rally | 255730 | [255730-grandpa-rally.json](./255730-grandpa-rally.json) |
 | Grandpa: The Horror Game | 99307 | [99307-grandpa-the-horror-game.json](./99307-grandpa-the-horror-game.json) |
 | Grandpa's Cheese | 200532 | [200532-grandpas-cheese.json](./200532-grandpas-cheese.json) |
@@ -8818,6 +8821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunzzle: Warp Master | 372607 | [372607-gunzzle-warp-master.json](./372607-gunzzle-warp-master.json) |
 | Guójì Xiàngqí: Dānshuāngrén Duìzhàn Qípái Xiǎoyóuxì | 109011 | [109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json](./109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json) |
 | Gupank | 419888 | [419888-gupank.json](./419888-gupank.json) |
+| Guppy | 75587 | [75587-guppy.json](./75587-guppy.json) |
 | Guppy's Quest | 58698 | [58698-guppys-quest.json](./58698-guppys-quest.json) |
 | Gura Tambourine | 178885 | [178885-gura-tambourine.json](./178885-gura-tambourine.json) |
 | Gura's Adventure | 184097 | [184097-guras-adventure.json](./184097-guras-adventure.json) |
