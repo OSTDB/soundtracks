@@ -6147,6 +6147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detonation | 119563 | [119563-detonation.json](./119563-detonation.json) |
 | Detonation Racing | 165105 | [165105-detonation-racing.json](./165105-detonation-racing.json) |
 | Detonator | 263477 | [263477-detonator.json](./263477-detonator.json) |
+| Detonator | 92369 | [92369-detonator.json](./92369-detonator.json) |
 | Detour | 372079 | [372079-detour.json](./372079-detour.json) |
 | Detourist | 278744 | [278744-detourist.json](./278744-detourist.json) |
 | Detours | 153795 | [153795-detours.json](./153795-detours.json) |
@@ -8685,6 +8686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Technika Q | 80199 | [80199-djmax-technika-q.json](./80199-djmax-technika-q.json) |
 | DJMax Technika Tune | 23430 | [23430-djmax-technika-tune.json](./23430-djmax-technika-tune.json) |
 | DJMax Technika Tune: Limited Edition | 89906 | [89906-djmax-technika-tune-limited-edition.json](./89906-djmax-technika-tune-limited-edition.json) |
+| DJMax Trilogy | 92347 | [92347-djmax-trilogy.json](./92347-djmax-trilogy.json) |
 | DK Bongo Blast | 231476 | [231476-dk-bongo-blast.json](./231476-dk-bongo-blast.json) |
 | DK Challenge | 405439 | [405439-dk-challenge.json](./405439-dk-challenge.json) |
 | DK Jungle Climber 64 DS | 315006 | [315006-dk-jungle-climber-64-ds.json](./315006-dk-jungle-climber-64-ds.json) |
@@ -10772,6 +10774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Symbol | 267564 | [267564-double-symbol.json](./267564-double-symbol.json) |
 | Double Take | 36882 | [36882-double-take.json](./36882-double-take.json) |
 | Double Talk: Sports Edition | 73360 | [73360-double-talk-sports-edition.json](./73360-double-talk-sports-edition.json) |
+| Double Teacher Life | 92366 | [92366-double-teacher-life.json](./92366-double-teacher-life.json) |
 | Double the Meat | 52765 | [52765-double-the-meat.json](./52765-double-the-meat.json) |
 | Double Time | 187281 | [187281-double-time.json](./187281-double-time.json) |
 | Double Time Dash | 183323 | [183323-double-time-dash.json](./183323-double-time-dash.json) |
@@ -14640,6 +14643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duotrigordle | 228718 | [228718-duotrigordle.json](./228718-duotrigordle.json) |
 | Duotris | 67344 | [67344-duotris.json](./67344-duotris.json) |
 | DuoTris Online | 104120 | [104120-duotris-online.json](./104120-duotris-online.json) |
+| Duotrix | 92360 | [92360-duotrix.json](./92360-duotrix.json) |
 | Duotron | 92474 | [92474-duotron.json](./92474-duotron.json) |
 | DuoXBall | 233242 | [233242-duoxball.json](./233242-duoxball.json) |
 | DuoZuplixo | 369025 | [369025-duozuplixo.json](./369025-duozuplixo.json) |
