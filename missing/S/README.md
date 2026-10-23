@@ -417,6 +417,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sage 3D | 105259 | [105259-sage-3d.json](./105259-sage-3d.json) |
 | SAGE 5: Event the Game | 321469 | [321469-sage-5-event-the-game.json](./321469-sage-5-event-the-game.json) |
 | Sage Elegy | 98297 | [98297-sage-elegy.json](./98297-sage-elegy.json) |
+| Sage Fusion | 74847 | [74847-sage-fusion.json](./74847-sage-fusion.json) |
+| Sage Fusion 2 | 74848 | [74848-sage-fusion-2.json](./74848-sage-fusion-2.json) |
 | Sage Mountain | 118331 | [118331-sage-mountain.json](./118331-sage-mountain.json) |
 | Sage Solitaire | 59059 | [59059-sage-solitaire.json](./59059-sage-solitaire.json) |
 | Sages Of Kaboom | 255989 | [255989-sages-of-kaboom.json](./255989-sages-of-kaboom.json) |
@@ -19252,6 +19254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars | 72396 | [72396-star-wars.json](./72396-star-wars.json) |
 | Star Wars Arcade | 39822 | [39822-star-wars-arcade.json](./39822-star-wars-arcade.json) |
 | Star Wars Arcade Remake: Racer | 334876 | [334876-star-wars-arcade-remake-racer.json](./334876-star-wars-arcade-remake-racer.json) |
+| Star Wars Arcade: Falcon Gunner | 74901 | [74901-star-wars-arcade-falcon-gunner.json](./74901-star-wars-arcade-falcon-gunner.json) |
 | Star Wars Battlefront II: Celebration Edition | 128334 | [128334-star-wars-battlefront-ii-celebration-edition.json](./128334-star-wars-battlefront-ii-celebration-edition.json) |
 | Star Wars Battlefront II: Elite Trooper Deluxe Edition | 51486 | [51486-star-wars-battlefront-ii-elite-trooper-deluxe-edition.json](./51486-star-wars-battlefront-ii-elite-trooper-deluxe-edition.json) |
 | Star Wars Battlefront II: The Last Jedi Season | 76886 | [76886-star-wars-battlefront-ii-the-last-jedi-season.json](./76886-star-wars-battlefront-ii-the-last-jedi-season.json) |
@@ -19421,11 +19424,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Force Unleashed | 199822 | [199822-star-wars-the-force-unleashed.json](./199822-star-wars-the-force-unleashed.json) |
 | Star Wars: The Force Unleashed | 399219 | [399219-star-wars-the-force-unleashed.json](./399219-star-wars-the-force-unleashed.json) |
 | Star Wars: The Force Unleashed | 399295 | [399295-star-wars-the-force-unleashed.json](./399295-star-wars-the-force-unleashed.json) |
+| Star Wars: The Force Unleashed - Character Pack 1 | 74884 | [74884-star-wars-the-force-unleashed-character-pack-1.json](./74884-star-wars-the-force-unleashed-character-pack-1.json) |
+| Star Wars: The Force Unleashed - Character Pack 2 | 74885 | [74885-star-wars-the-force-unleashed-character-pack-2.json](./74885-star-wars-the-force-unleashed-character-pack-2.json) |
 | Star Wars: The Force Unleashed - Tatooine Mission Pack | 17475 | [17475-star-wars-the-force-unleashed-tatooine-mission-pack.json](./17475-star-wars-the-force-unleashed-tatooine-mission-pack.json) |
 | Star Wars: The Force Unleashed - Ultimate Sith Edition | 19637 | [19637-star-wars-the-force-unleashed-ultimate-sith-edition.json](./19637-star-wars-the-force-unleashed-ultimate-sith-edition.json) |
 | Star Wars: The Force Unleashed II | 324523 | [324523-star-wars-the-force-unleashed-ii.json](./324523-star-wars-the-force-unleashed-ii.json) |
 | Star Wars: The Force Unleashed II | 324524 | [324524-star-wars-the-force-unleashed-ii.json](./324524-star-wars-the-force-unleashed-ii.json) |
+| Star Wars: The Force Unleashed II - Character Pack | 74896 | [74896-star-wars-the-force-unleashed-ii-character-pack.json](./74896-star-wars-the-force-unleashed-ii-character-pack.json) |
 | Star Wars: The Force Unleashed II - Collector's Edition | 47460 | [47460-star-wars-the-force-unleashed-ii-collectors-edition.json](./47460-star-wars-the-force-unleashed-ii-collectors-edition.json) |
+| Star Wars: The Force Unleashed II - The Battle of Endor | 74895 | [74895-star-wars-the-force-unleashed-ii-the-battle-of-endor.json](./74895-star-wars-the-force-unleashed-ii-the-battle-of-endor.json) |
 | Star Wars: The Old Republic | 114 | [114-star-wars-the-old-republic.json](./114-star-wars-the-old-republic.json) |
 | Star Wars: The Old Republic - Galactic Starfighter | 22656 | [22656-star-wars-the-old-republic-galactic-starfighter.json](./22656-star-wars-the-old-republic-galactic-starfighter.json) |
 | Star Wars: The Old Republic - Galactic Strongholds | 22657 | [22657-star-wars-the-old-republic-galactic-strongholds.json](./22657-star-wars-the-old-republic-galactic-strongholds.json) |
