@@ -1614,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lead & Blood | 372687 | [372687-lead-and-blood.json](./372687-lead-and-blood.json) |
 | Lead on Mars | 61728 | [61728-lead-on-mars.json](./61728-lead-on-mars.json) |
 | Lead Soldier | 270616 | [270616-lead-soldier.json](./270616-lead-soldier.json) |
+| Lead the Meerkats | 85244 | [85244-lead-the-meerkats.json](./85244-lead-the-meerkats.json) |
 | Lead the Way | 196693 | [196693-lead-the-way.json](./196693-lead-the-way.json) |
 | Lead to Fire | 61154 | [61154-lead-to-fire.json](./61154-lead-to-fire.json) |
 | Lead: Rally | 279903 | [279903-lead-rally.json](./279903-lead-rally.json) |
@@ -2207,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Tales: Stories | 287165 | [287165-legendary-tales-stories.json](./287165-legendary-tales-stories.json) |
 | Legendary Tomb Digger | 357036 | [357036-legendary-tomb-digger.json](./357036-legendary-tomb-digger.json) |
 | Legendary Wars | 63233 | [63233-legendary-wars.json](./63233-legendary-wars.json) |
+| Legendary Wars: T-Rex Rumble | 85242 | [85242-legendary-wars-t-rex-rumble.json](./85242-legendary-wars-t-rex-rumble.json) |
 | Legendary Wars: T-Rex Rumble | 91614 | [91614-legendary-wars-t-rex-rumble.json](./91614-legendary-wars-t-rex-rumble.json) |
 | Legendary Wings | 288843 | [288843-legendary-wings.json](./288843-legendary-wings.json) |
 | Legendary Wings | 39705 | [39705-legendary-wings.json](./39705-legendary-wings.json) |
@@ -2626,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leguiumz Experience | 304580 | [304580-leguiumz-experience.json](./304580-leguiumz-experience.json) |
 | Legumi | 292749 | [292749-legumi.json](./292749-legumi.json) |
 | LeHweng LeHweng | 156683 | [156683-lehweng-lehweng.json](./156683-lehweng-lehweng.json) |
+| Leif's Adventure: Netherworld Hero | 85245 | [85245-leifs-adventure-netherworld-hero.json](./85245-leifs-adventure-netherworld-hero.json) |
 | Leiji Matsumoto 999: Story of Galaxy Express 999 | 70283 | [70283-leiji-matsumoto-999-story-of-galaxy-express-999.json](./70283-leiji-matsumoto-999-story-of-galaxy-express-999.json) |
 | Leikkaus | 413620 | [413620-leikkaus.json](./413620-leikkaus.json) |
 | Leila | 258420 | [258420-leila.json](./258420-leila.json) |
@@ -3145,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Bender | 195107 | [195107-letter-bender.json](./195107-letter-bender.json) |
 | Letter Boxed | 296097 | [296097-letter-boxed.json](./296097-letter-boxed.json) |
 | Letter Bunny | 304202 | [304202-letter-bunny.json](./304202-letter-bunny.json) |
+| Letter Challenge | 85252 | [85252-letter-challenge.json](./85252-letter-challenge.json) |
 | Letter Club | 232480 | [232480-letter-club.json](./232480-letter-club.json) |
 | Letter Factory | 230383 | [230383-letter-factory.json](./230383-letter-factory.json) |
 | Letter Factory Adventures: The Letter Machine Rescue Team | 230326 | [230326-letter-factory-adventures-the-letter-machine-rescue-team.json](./230326-letter-factory-adventures-the-letter-machine-rescue-team.json) |
@@ -3610,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Stage, Virtual House | 37122 | [37122-life-stage-virtual-house.json](./37122-life-stage-virtual-house.json) |
 | Life The Game | 326720 | [326720-life-the-game.json](./326720-life-the-game.json) |
 | Life with a Homunculus | 364408 | [364408-life-with-a-homunculus.json](./364408-life-with-a-homunculus.json) |
+| Life with Horses 3D | 85251 | [85251-life-with-horses-3d.json](./85251-life-with-horses-3d.json) |
 | Life with Mary | 150513 | [150513-life-with-mary.json](./150513-life-with-mary.json) |
 | Life Without You | 316727 | [316727-life-without-you.json](./316727-life-without-you.json) |
 | Life-Term | 354581 | [354581-life-term.json](./354581-life-term.json) |
@@ -3930,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ligo | 258539 | [258539-ligo.json](./258539-ligo.json) |
 | Liha | 344799 | [344799-liha.json](./344799-liha.json) |
 | Lihue | 163210 | [163210-lihue.json](./163210-lihue.json) |
+| Liight | 85249 | [85249-liight.json](./85249-liight.json) |
 | Liitmeis | 94036 | [94036-liitmeis.json](./94036-liitmeis.json) |
 | Like a Boss | 19079 | [19079-like-a-boss.json](./19079-like-a-boss.json) |
 | Like A Dino! | 212495 | [212495-like-a-dino.json](./212495-like-a-dino.json) |
@@ -4337,6 +4343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link Track | 255012 | [255012-link-track.json](./255012-link-track.json) |
 | Link Twin | 29055 | [29055-link-twin.json](./29055-link-twin.json) |
 | Link Wars | 153317 | [153317-link-wars.json](./153317-link-wars.json) |
+| Link-a-Pix Color | 85247 | [85247-link-a-pix-color.json](./85247-link-a-pix-color.json) |
 | Link-a-Pix Deluxe | 129510 | [129510-link-a-pix-deluxe.json](./129510-link-a-pix-deluxe.json) |
 | Link: The Faces of Evil | 8532 | [8532-link-the-faces-of-evil.json](./8532-link-the-faces-of-evil.json) |
 | Link: The Unleashed Nexus | 28496 | [28496-link-the-unleashed-nexus.json](./28496-link-the-unleashed-nexus.json) |
@@ -4521,6 +4528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Acorns | 64956 | [64956-little-acorns.json](./64956-little-acorns.json) |
 | Little Adventure | 159545 | [159545-little-adventure.json](./159545-little-adventure.json) |
 | Little adventure 2 | 161167 | [161167-little-adventure-2.json](./161167-little-adventure-2.json) |
+| Little Adventure on the Prairie | 85258 | [85258-little-adventure-on-the-prairie.json](./85258-little-adventure-on-the-prairie.json) |
 | Little Adventure Tale | 325834 | [325834-little-adventure-tale.json](./325834-little-adventure-tale.json) |
 | Little Adventurer | 98464 | [98464-little-adventurer.json](./98464-little-adventurer.json) |
 | Little Adventurer II | 61607 | [61607-little-adventurer-ii.json](./61607-little-adventurer-ii.json) |
@@ -5573,9 +5581,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lola & Virginia | 123350 | [123350-lola-and-virginia.json](./123350-lola-and-virginia.json) |
 | Lola and the Giant | 110325 | [110325-lola-and-the-giant.json](./110325-lola-and-the-giant.json) |
 | Lola: The Escape | 170930 | [170930-lola-the-escape.json](./170930-lola-the-escape.json) |
+| Lola's ABC Party | 85257 | [85257-lolas-abc-party.json](./85257-lolas-abc-party.json) |
 | Lola's ABC Party - Learn to Read | 88344 | [88344-lolas-abc-party-learn-to-read.json](./88344-lolas-abc-party-learn-to-read.json) |
 | Lola's Alphabet Train - Learn to Read | 88577 | [88577-lolas-alphabet-train-learn-to-read.json](./88577-lolas-alphabet-train-learn-to-read.json) |
 | Lola's Beach Puzzle | 88106 | [88106-lolas-beach-puzzle.json](./88106-lolas-beach-puzzle.json) |
+| Lola's Fruit Shop Sudoku | 85255 | [85255-lolas-fruit-shop-sudoku.json](./85255-lolas-fruit-shop-sudoku.json) |
 | Lola's Fruity Sudoku | 106747 | [106747-lolas-fruity-sudoku.json](./106747-lolas-fruity-sudoku.json) |
 | Lola's Learning World: Math edition | 89054 | [89054-lolas-learning-world-math-edition.json](./89054-lolas-learning-world-math-edition.json) |
 | Lola's Lutong Bahay | 327154 | [327154-lolas-lutong-bahay.json](./327154-lolas-lutong-bahay.json) |
@@ -7252,6 +7262,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucent Bounds | 172995 | [172995-lucent-bounds.json](./172995-lucent-bounds.json) |
 | Lucent Heart | 36437 | [36437-lucent-heart.json](./36437-lucent-heart.json) |
 | Lucent VR | 400936 | [400936-lucent-vr.json](./400936-lucent-vr.json) |
+| Lucentek Beyond | 85263 | [85263-lucentek-beyond.json](./85263-lucentek-beyond.json) |
+| Lucentek: Activate | 85262 | [85262-lucentek-activate.json](./85262-lucentek-activate.json) |
 | Lucera | 356678 | [356678-lucera.json](./356678-lucera.json) |
 | Lucerna Tenebris | 180767 | [180767-lucerna-tenebris.json](./180767-lucerna-tenebris.json) |
 | Lucha Align | 375420 | [375420-lucha-align.json](./375420-lucha-align.json) |
@@ -7943,6 +7955,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lutra's Monologue | 186274 | [186274-lutras-monologue.json](./186274-lutras-monologue.json) |
 | Lutte | 97508 | [97508-lutte.json](./97508-lutte.json) |
 | Lutter | 41299 | [41299-lutter.json](./41299-lutter.json) |
+| Luv Me Buddies Wonderland | 85264 | [85264-luv-me-buddies-wonderland.json](./85264-luv-me-buddies-wonderland.json) |
+| Luv Me Buddies Wonderland | 85265 | [85265-luv-me-buddies-wonderland.json](./85265-luv-me-buddies-wonderland.json) |
 | Luvinia World | 23626 | [23626-luvinia-world.json](./23626-luvinia-world.json) |
 | Lux | 329071 | [329071-lux.json](./329071-lux.json) |
 | Lux Alliance | 37003 | [37003-lux-alliance.json](./37003-lux-alliance.json) |
