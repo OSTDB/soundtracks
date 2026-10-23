@@ -1895,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Dot Die | 391634 | [391634-dash-dot-die.json](./391634-dash-dot-die.json) |
 | Dash Fleet | 29626 | [29626-dash-fleet.json](./29626-dash-fleet.json) |
 | Dash For Your Life | 257911 | [257911-dash-for-your-life.json](./257911-dash-for-your-life.json) |
+| Dash Galactic | 58094 | [58094-dash-galactic.json](./58094-dash-galactic.json) |
 | Dash Galaxy in the Alien Asylum | 48140 | [48140-dash-galaxy-in-the-alien-asylum.json](./48140-dash-galaxy-in-the-alien-asylum.json) |
 | Dash Hale | 143377 | [143377-dash-hale.json](./143377-dash-hale.json) |
 | Dash King | 240670 | [240670-dash-king.json](./240670-dash-king.json) |
@@ -2758,6 +2759,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End Job | 27803 | [27803-dead-end-job.json](./27803-dead-end-job.json) |
 | Dead End Junction #1 Good Day to Migration | 65392 | [65392-dead-end-junction-1-good-day-to-migration.json](./65392-dead-end-junction-1-good-day-to-migration.json) |
 | Dead End Junction #2 Deadman's Bullet | 95411 | [95411-dead-end-junction-2-deadmans-bullet.json](./95411-dead-end-junction-2-deadmans-bullet.json) |
+| Dead End Junction #3: The Outlaws | 58093 | [58093-dead-end-junction-3-the-outlaws.json](./58093-dead-end-junction-3-the-outlaws.json) |
+| Dead End Junction #4 At World's End | 58092 | [58092-dead-end-junction-4-at-worlds-end.json](./58092-dead-end-junction-4-at-worlds-end.json) |
 | Dead End Mission | 260415 | [260415-dead-end-mission.json](./260415-dead-end-mission.json) |
 | Dead End Road | 33350 | [33350-dead-end-road.json](./33350-dead-end-road.json) |
 | Dead End: Escape Your Fears | 410294 | [410294-dead-end-escape-your-fears.json](./410294-dead-end-escape-your-fears.json) |
