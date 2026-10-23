@@ -2392,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder Adventures: Epic and Legendary Cards 1 | 170728 | [170728-pathfinder-adventures-epic-and-legendary-cards-1.json](./170728-pathfinder-adventures-epic-and-legendary-cards-1.json) |
 | Pathfinder Adventures: Rise of the Goblins | 155354 | [155354-pathfinder-adventures-rise-of-the-goblins.json](./155354-pathfinder-adventures-rise-of-the-goblins.json) |
 | Pathfinder Adventures: Rise of the Goblins Deck 2 | 170731 | [170731-pathfinder-adventures-rise-of-the-goblins-deck-2.json](./170731-pathfinder-adventures-rise-of-the-goblins-deck-2.json) |
+| Pathfinder Duels | 83345 | [83345-pathfinder-duels.json](./83345-pathfinder-duels.json) |
 | Pathfinder Puzzle | 158182 | [158182-pathfinder-puzzle.json](./158182-pathfinder-puzzle.json) |
 | Pathfinder: Abomination Vaults | 280311 | [280311-pathfinder-abomination-vaults.json](./280311-pathfinder-abomination-vaults.json) |
 | Pathfinder: Gallowspire Survivors | 252859 | [252859-pathfinder-gallowspire-survivors.json](./252859-pathfinder-gallowspire-survivors.json) |
@@ -7660,6 +7661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play for Love | 292008 | [292008-play-for-love.json](./292008-play-for-love.json) |
 | Play for Your Life | 55053 | [55053-play-for-your-life.json](./55053-play-for-your-life.json) |
 | Play Friends: Party Games | 342266 | [342266-play-friends-party-games.json](./342266-play-friends-party-games.json) |
+| Play It Again Sam | 83374 | [83374-play-it-again-sam.json](./83374-play-it-again-sam.json) |
 | Play It Back | 364645 | [364645-play-it-back.json](./364645-play-it-back.json) |
 | Play Minigames with Reiko | 265771 | [265771-play-minigames-with-reiko.json](./265771-play-minigames-with-reiko.json) |
 | Play Nintendo: Paint-By-Number | 291049 | [291049-play-nintendo-paint-by-number.json](./291049-play-nintendo-paint-by-number.json) |
@@ -8106,6 +8108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Dogs | 49357 | [49357-pocket-dogs.json](./49357-pocket-dogs.json) |
 | Pocket Drift Rally | 391833 | [391833-pocket-drift-rally.json](./391833-pocket-drift-rally.json) |
 | Pocket Dungeon | 255517 | [255517-pocket-dungeon.json](./255517-pocket-dungeon.json) |
+| Pocket Dungeon | 83333 | [83333-pocket-dungeon.json](./83333-pocket-dungeon.json) |
 | Pocket Estimation | 317050 | [317050-pocket-estimation.json](./317050-pocket-estimation.json) |
 | Pocket Family GB | 180201 | [180201-pocket-family-gb.json](./180201-pocket-family-gb.json) |
 | Pocket Family GB2 | 180202 | [180202-pocket-family-gb2.json](./180202-pocket-family-gb2.json) |
@@ -11833,6 +11836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Bocce 2018 | 105666 | [105666-pro-bocce-2018.json](./105666-pro-bocce-2018.json) |
 | Pro Body Boarding | 209885 | [209885-pro-body-boarding.json](./209885-pro-body-boarding.json) |
 | Pro Bowling | 385781 | [385781-pro-bowling.json](./385781-pro-bowling.json) |
+| Pro Bowling | 83351 | [83351-pro-bowling.json](./83351-pro-bowling.json) |
 | Pro Boxing Simulator | 12723 | [12723-pro-boxing-simulator.json](./12723-pro-boxing-simulator.json) |
 | Pro Bus Driver 2 | 293482 | [293482-pro-bus-driver-2.json](./293482-pro-bus-driver-2.json) |
 | Pro Cast Sports Fishing | 91678 | [91678-pro-cast-sports-fishing.json](./91678-pro-cast-sports-fishing.json) |
@@ -11960,6 +11964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Skater 2D | 30648 | [30648-pro-skater-2d.json](./30648-pro-skater-2d.json) |
 | Pro Snooker & Pool 2018 | 87554 | [87554-pro-snooker-and-pool-2018.json](./87554-pro-snooker-and-pool-2018.json) |
 | Pro Soccer | 385779 | [385779-pro-soccer.json](./385779-pro-soccer.json) |
+| Pro Soccer | 83350 | [83350-pro-soccer.json](./83350-pro-soccer.json) |
 | PRO Soccer Challenges 2018 - World Football Stars | 95881 | [95881-pro-soccer-challenges-2018-world-football-stars.json](./95881-pro-soccer-challenges-2018-world-football-stars.json) |
 | Pro Soccer Cup 2002 | 251053 | [251053-pro-soccer-cup-2002.json](./251053-pro-soccer-cup-2002.json) |
 | Pro Soccer Online | 182202 | [182202-pro-soccer-online.json](./182202-pro-soccer-online.json) |
