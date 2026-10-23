@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QwikWits | 314866 | [314866-qwikwits.json](./314866-qwikwits.json) |
 | Qwilight | 203526 | [203526-qwilight.json](./203526-qwilight.json) |
 | Qwirkle | 97290 | [97290-qwirkle.json](./97290-qwirkle.json) |
+| Qwirks | 93398 | [93398-qwirks.json](./93398-qwirks.json) |
 | Qwixx | 175421 | [175421-qwixx.json](./175421-qwixx.json) |
 | QWOP | 8814 | [8814-qwop.json](./8814-qwop.json) |
 | Qybe | 102961 | [102961-qybe.json](./102961-qybe.json) |
