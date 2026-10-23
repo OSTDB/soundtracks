@@ -2879,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peace Phantom | 81952 | [81952-peace-phantom.json](./81952-peace-phantom.json) |
 | Peace, Death! 2 | 158078 | [158078-peace-death-2.json](./158078-peace-death-2.json) |
 | Peace, Death! Complete Edition | 112814 | [112814-peace-death-complete-edition.json](./112814-peace-death-complete-edition.json) |
+| Peace@Pieces | 80365 | [80365-peace-pieces.json](./80365-peace-pieces.json) |
 | Peacebringer | 338750 | [338750-peacebringer.json](./338750-peacebringer.json) |
 | Peaceful Dog Escape | 231923 | [231923-peaceful-dog-escape.json](./231923-peaceful-dog-escape.json) |
 | Peaceful Fishing Story | 390502 | [390502-peaceful-fishing-story.json](./390502-peaceful-fishing-story.json) |
@@ -12113,6 +12114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Ski Simulator | 80530 | [80530-professional-ski-simulator.json](./80530-professional-ski-simulator.json) |
 | Professional Soldier | 153928 | [153928-professional-soldier.json](./153928-professional-soldier.json) |
 | Professional Team | 161565 | [161565-professional-team.json](./161565-professional-team.json) |
+| Professor Brainium's Games | 80358 | [80358-professor-brainiums-games.json](./80358-professor-brainiums-games.json) |
 | Professor Bubbles | 280790 | [280790-professor-bubbles.json](./280790-professor-bubbles.json) |
 | Professor Chuckenhope | 109682 | [109682-professor-chuckenhope.json](./109682-professor-chuckenhope.json) |
 | Professor Crackbrain: And the Awakening of the Weredog | 170308 | [170308-professor-crackbrain-and-the-awakening-of-the-weredog.json](./170308-professor-crackbrain-and-the-awakening-of-the-weredog.json) |
