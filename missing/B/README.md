@@ -10180,6 +10180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BonkCity | 407296 | [407296-bonkcity.json](./407296-bonkcity.json) |
 | Bonkers | 177539 | [177539-bonkers.json](./177539-bonkers.json) |
 | Bonkers | 78677 | [78677-bonkers.json](./78677-bonkers.json) |
+| Bonkheads | 69111 | [69111-bonkheads.json](./69111-bonkheads.json) |
 | Bonkhope | 417425 | [417425-bonkhope.json](./417425-bonkhope.json) |
 | Bonkies | 105344 | [105344-bonkies.json](./105344-bonkies.json) |
 | Bonnie Blob in Shapeville | 323368 | [323368-bonnie-blob-in-shapeville.json](./323368-bonnie-blob-in-shapeville.json) |
@@ -12969,6 +12970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble Evolution | 38483 | [38483-bubble-bobble-evolution.json](./38483-bubble-bobble-evolution.json) |
 | Bubble Bobble for Kakao | 242470 | [242470-bubble-bobble-for-kakao.json](./242470-bubble-bobble-for-kakao.json) |
 | Bubble Bobble Micro Player | 246300 | [246300-bubble-bobble-micro-player.json](./246300-bubble-bobble-micro-player.json) |
+| Bubble Bobble Neo! | 69117 | [69117-bubble-bobble-neo.json](./69117-bubble-bobble-neo.json) |
 | Bubble Bobble Nostalgie | 251020 | [251020-bubble-bobble-nostalgie.json](./251020-bubble-bobble-nostalgie.json) |
 | Bubble Bobble Part 2 | 7801 | [7801-bubble-bobble-part-2.json](./7801-bubble-bobble-part-2.json) |
 | Bubble Bobble The Revival | 335465 | [335465-bubble-bobble-the-revival.json](./335465-bubble-bobble-the-revival.json) |
