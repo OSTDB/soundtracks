@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Dinosaur Island 2 | 33274 | [33274-back-to-dinosaur-island-2.json](./33274-back-to-dinosaur-island-2.json) |
 | Back to Drive | 391338 | [391338-back-to-drive.json](./391338-back-to-drive.json) |
 | Back to Dust: Hold it Together | 236939 | [236939-back-to-dust-hold-it-together.json](./236939-back-to-dust-hold-it-together.json) |
+| Back to Earth | 92876 | [92876-back-to-earth.json](./92876-back-to-earth.json) |
 | Back to Ebatoria | 106504 | [106504-back-to-ebatoria.json](./106504-back-to-ebatoria.json) |
 | Back to Hearth | 273358 | [273358-back-to-hearth.json](./273358-back-to-hearth.json) |
 | Back to Hell | 120588 | [120588-back-to-hell.json](./120588-back-to-hell.json) |
@@ -740,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2374,6 +2376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 207054 | [207054-baseball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./207054-baseball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
 | Baseball: Breakthrough Gaming Arcade - Challenge Mode Edition | 207047 | [207047-baseball-breakthrough-gaming-arcade-challenge-mode-edition.json](./207047-baseball-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Baseball: The Season II | 40267 | [40267-baseball-the-season-ii.json](./40267-baseball-the-season-ii.json) |
+| Baseball! | 92903 | [92903-baseball.json](./92903-baseball.json) |
 | Baseball4 | 59450 | [59450-baseball4.json](./59450-baseball4.json) |
 | Baseballoons | 235280 | [235280-baseballoons.json](./235280-baseballoons.json) |
 | BASED | 394231 | [394231-based.json](./394231-based.json) |
