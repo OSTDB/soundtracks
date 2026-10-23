@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.I.D.s | 148360 | [148360-m-a-i-d-s.json](./148360-m-a-i-d-s.json) |
 | M.A.L.M.O: Scorched Earth | 358346 | [358346-m-a-l-m-o-scorched-earth.json](./358346-m-a-l-m-o-scorched-earth.json) |
 | M.A.S.S. Builder | 78063 | [78063-m-a-s-s-builder.json](./78063-m-a-s-s-builder.json) |
+| M.A.T | 47018 | [47018-m-a-t.json](./47018-m-a-t.json) |
 | M.A.U.S | 380650 | [380650-m-a-u-s.json](./380650-m-a-u-s.json) |
 | M.A.X.: Mechanized Assault & Exploration | 775 | [775-m-a-x-mechanized-assault-and-exploration.json](./775-m-a-x-mechanized-assault-and-exploration.json) |
 | M.A.Y.A | 397827 | [397827-m-a-y-a.json](./397827-m-a-y-a.json) |
@@ -2166,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Tycoon 3 | 69181 | [69181-mall-tycoon-3.json](./69181-mall-tycoon-3.json) |
 | Mall-A-Palooza | 54213 | [54213-mall-a-palooza.json](./54213-mall-a-palooza.json) |
 | Mallard Hunt | 228276 | [228276-mallard-hunt.json](./228276-mallard-hunt.json) |
+| Mallet Legend's Whac-A-Critter | 47054 | [47054-mallet-legends-whac-a-critter.json](./47054-mallet-legends-whac-a-critter.json) |
 | Mallet Mania | 308063 | [308063-mallet-mania.json](./308063-mallet-mania.json) |
 | Malleus Cocconum: The Heiress | 328106 | [328106-malleus-cocconum-the-heiress.json](./328106-malleus-cocconum-the-heiress.json) |
 | Malleus Maleficarum | 373104 | [373104-malleus-maleficarum.json](./373104-malleus-maleficarum.json) |
@@ -6760,6 +6762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mekazoo | 19203 | [19203-mekazoo.json](./19203-mekazoo.json) |
 | Mekorama | 58295 | [58295-mekorama.json](./58295-mekorama.json) |
 | Mekururi Witch | 151803 | [151803-mekururi-witch.json](./151803-mekururi-witch.json) |
+| Mel Gibson's Safari 3 | 47039 | [47039-mel-gibsons-safari-3.json](./47039-mel-gibsons-safari-3.json) |
 | Mel The Cat | 375433 | [375433-mel-the-cat.json](./375433-mel-the-cat.json) |
 | Mel The Pyramid Cat | 401742 | [401742-mel-the-pyramid-cat.json](./401742-mel-the-pyramid-cat.json) |
 | Mel The Space Cat | 387482 | [387482-mel-the-space-cat.json](./387482-mel-the-space-cat.json) |
