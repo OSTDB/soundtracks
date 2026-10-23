@@ -9651,6 +9651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorpicker | 304866 | [304866-colorpicker.json](./304866-colorpicker.json) |
 | ColorPixel: Color by Number, Pixel Art | 101658 | [101658-colorpixel-color-by-number-pixel-art.json](./101658-colorpixel-color-by-number-pixel-art.json) |
 | Colors | 377345 | [377345-colors.json](./377345-colors.json) |
+| Colors | 85889 | [85889-colors.json](./85889-colors.json) |
 | Colors -Break Bricks- | 62009 | [62009-colors-break-bricks.json](./62009-colors-break-bricks.json) |
 | Colors 3D | 47652 | [47652-colors-3d.json](./47652-colors-3d.json) |
 | Colors and their Meanings | 274519 | [274519-colors-and-their-meanings.json](./274519-colors-and-their-meanings.json) |
@@ -10088,6 +10089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commanding Nations | 173035 | [173035-commanding-nations.json](./173035-commanding-nations.json) |
 | Commando | 282623 | [282623-commando.json](./282623-commando.json) |
 | Commando | 310110 | [310110-commando.json](./310110-commando.json) |
+| Commando 2 | 85900 | [85900-commando-2.json](./85900-commando-2.json) |
 | Commando 3 | 335477 | [335477-commando-3.json](./335477-commando-3.json) |
 | Commando Assault | 335476 | [335476-commando-assault.json](./335476-commando-assault.json) |
 | Commando Dog | 119550 | [119550-commando-dog.json](./119550-commando-dog.json) |
