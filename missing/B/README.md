@@ -9851,6 +9851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Baron | 15683 | [15683-bomber-baron.json](./15683-bomber-baron.json) |
 | Bomber Battle : Bomb Man Arena | 234440 | [234440-bomber-battle-bomb-man-arena.json](./234440-bomber-battle-bomb-man-arena.json) |
 | Bomber Bob | 14331 | [14331-bomber-bob.json](./14331-bomber-bob.json) |
+| Bomber Boing | 92358 | [92358-bomber-boing.json](./92358-bomber-boing.json) |
 | Bomber Bother | 123950 | [123950-bomber-bother.json](./123950-bomber-bother.json) |
 | Bomber Cat Run | 317860 | [317860-bomber-cat-run.json](./317860-bomber-cat-run.json) |
 | Bomber Chaos | 281963 | [281963-bomber-chaos.json](./281963-bomber-chaos.json) |
@@ -12650,6 +12651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruneva | 329052 | [329052-bruneva.json](./329052-bruneva.json) |
 | Brunhilda and the Dark Crystal | 52490 | [52490-brunhilda-and-the-dark-crystal.json](./52490-brunhilda-and-the-dark-crystal.json) |
 | Brunilda | 182334 | [182334-brunilda.json](./182334-brunilda.json) |
+| Bruno Mars Revenge | 92373 | [92373-bruno-mars-revenge.json](./92373-bruno-mars-revenge.json) |
 | Bruno: Lost In Nightmares | 301080 | [301080-bruno-lost-in-nightmares.json](./301080-bruno-lost-in-nightmares.json) |
 | Brunswick Circuit Pro Bowling 2 | 66023 | [66023-brunswick-circuit-pro-bowling-2.json](./66023-brunswick-circuit-pro-bowling-2.json) |
 | Brunswick Pro Billiards | 147954 | [147954-brunswick-pro-billiards.json](./147954-brunswick-pro-billiards.json) |
