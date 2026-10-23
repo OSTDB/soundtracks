@@ -6204,6 +6204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choro Q | 245031 | [245031-choro-q.json](./245031-choro-q.json) |
 | Choro Q | 69796 | [69796-choro-q.json](./69796-choro-q.json) |
 | Choro Q 3 | 97364 | [97364-choro-q-3.json](./97364-choro-q-3.json) |
+| Choro Q 64 2: Hacha-mecha Grand Prix Race | 47742 | [47742-choro-q-64-2-hacha-mecha-grand-prix-race.json](./47742-choro-q-64-2-hacha-mecha-grand-prix-race.json) |
 | Choro Q HG 3 | 196257 | [196257-choro-q-hg-3.json](./196257-choro-q-hg-3.json) |
 | Choro Q Marine: Q-Boat | 71033 | [71033-choro-q-marine-q-boat.json](./71033-choro-q-marine-q-boat.json) |
 | Choro Q Park | 46095 | [46095-choro-q-park.json](./46095-choro-q-park.json) |
@@ -14245,6 +14246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Safari: Word Hunt | 108630 | [108630-crossword-safari-word-hunt.json](./108630-crossword-safari-word-hunt.json) |
 | Crossworders' Dictionary and Gazetteer 4 | 88651 | [88651-crossworders-dictionary-and-gazetteer-4.json](./88651-crossworders-dictionary-and-gazetteer-4.json) |
 | Crosswords | 89675 | [89675-crosswords.json](./89675-crosswords.json) |
+| CrossworDS | 47766 | [47766-crosswords.json](./47766-crosswords.json) |
 | Crosswords & More for Windows | 94638 | [94638-crosswords-and-more-for-windows.json](./94638-crosswords-and-more-for-windows.json) |
 | Crosswords & Puzzles | 208802 | [208802-crosswords-and-puzzles.json](./208802-crosswords-and-puzzles.json) |
 | Crosswords & Word Games | 79165 | [79165-crosswords-and-word-games.json](./79165-crosswords-and-word-games.json) |
@@ -14906,6 +14908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSI: NY | 70640 | [70640-csi-ny.json](./70640-csi-ny.json) |
 | CSI: Slots | 79913 | [79913-csi-slots.json](./79913-csi-slots.json) |
 | CSI: Squeak Sneak | 410219 | [410219-csi-squeak-sneak.json](./410219-csi-squeak-sneak.json) |
+| CSI: Unsolved | 47796 | [47796-csi-unsolved.json](./47796-csi-unsolved.json) |
 | CSOL | 258488 | [258488-csol.json](./258488-csol.json) |
 | CSPromod | 64147 | [64147-cspromod.json](./64147-cspromod.json) |
 | CSR Classics | 58238 | [58238-csr-classics.json](./58238-csr-classics.json) |
