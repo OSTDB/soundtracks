@@ -2568,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Arena VR | 30627 | [30627-8-bit-arena-vr.json](./30627-8-bit-arena-vr.json) |
 | 8-Bit Armies | 18907 | [18907-8-bit-armies.json](./18907-8-bit-armies.json) |
 | 8-Bit Armies: Arena | 27333 | [27333-8-bit-armies-arena.json](./27333-8-bit-armies-arena.json) |
+| 8-Bit Armies: Guardians Campaign | 51698 | [51698-8-bit-armies-guardians-campaign.json](./51698-8-bit-armies-guardians-campaign.json) |
 | 8-Bit Attack | 135766 | [135766-8-bit-attack.json](./135766-8-bit-attack.json) |
 | 8-Bit Boy | 84684 | [84684-8-bit-boy.json](./84684-8-bit-boy.json) |
 | 8-Bit Buccaneer | 176808 | [176808-8-bit-buccaneer.json](./176808-8-bit-buccaneer.json) |
