@@ -1242,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Goddess of Destruction | 339364 | [339364-dark-goddess-of-destruction.json](./339364-dark-goddess-of-destruction.json) |
 | Dark Gravity | 128311 | [128311-dark-gravity.json](./128311-dark-gravity.json) |
 | Dark Grid | 373014 | [373014-dark-grid.json](./373014-dark-grid.json) |
+| Dark Grim Mariupolis | 89772 | [89772-dark-grim-mariupolis.json](./89772-dark-grim-mariupolis.json) |
 | Dark Guardians | 38881 | [38881-dark-guardians.json](./38881-dark-guardians.json) |
 | Dark Half | 42562 | [42562-dark-half.json](./42562-dark-half.json) |
 | Dark Harvest | 166821 | [166821-dark-harvest.json](./166821-dark-harvest.json) |
@@ -6588,6 +6589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Runway | 398417 | [398417-diamond-runway.json](./398417-diamond-runway.json) |
 | Diamond Rush | 261986 | [261986-diamond-rush.json](./261986-diamond-rush.json) |
 | Diamond Skee-Ball | 209611 | [209611-diamond-skee-ball.json](./209611-diamond-skee-ball.json) |
+| Diamond Stacks | 89624 | [89624-diamond-stacks.json](./89624-diamond-stacks.json) |
 | Diamond Star Adventure | 378294 | [378294-diamond-star-adventure.json](./378294-diamond-star-adventure.json) |
 | Diamond Trust of London | 9138 | [9138-diamond-trust-of-london.json](./9138-diamond-trust-of-london.json) |
 | Diamond Word | 325524 | [325524-diamond-word.json](./325524-diamond-word.json) |
@@ -11116,6 +11118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Rudy | 94262 | [94262-dr-rudy.json](./94262-dr-rudy.json) |
 | Dr. Schplot's Nanobots | 95548 | [95548-dr-schplots-nanobots.json](./95548-dr-schplots-nanobots.json) |
 | Dr. Science quest | 193632 | [193632-dr-science-quest.json](./193632-dr-science-quest.json) |
+| Dr. Seuss Band | 89762 | [89762-dr-seuss-band.json](./89762-dr-seuss-band.json) |
 | Dr. Seuss Fix-Up the Mix-Up Puzzler | 40898 | [40898-dr-seuss-fix-up-the-mix-up-puzzler.json](./40898-dr-seuss-fix-up-the-mix-up-puzzler.json) |
 | Dr. Seuss Preschool | 63273 | [63273-dr-seuss-preschool.json](./63273-dr-seuss-preschool.json) |
 | Dr. Seuss Toddler | 63271 | [63271-dr-seuss-toddler.json](./63271-dr-seuss-toddler.json) |
@@ -13104,6 +13107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving World Collection | 283206 | [283206-driving-world-collection.json](./283206-driving-world-collection.json) |
 | Driving World: Nordic Challenge | 147750 | [147750-driving-world-nordic-challenge.json](./147750-driving-world-nordic-challenge.json) |
 | Driving Zone 2 | 100860 | [100860-driving-zone-2.json](./100860-driving-zone-2.json) |
+| Driving Zone 2 | 89735 | [89735-driving-zone-2.json](./89735-driving-zone-2.json) |
 | Driving Zone: Germany | 89287 | [89287-driving-zone-germany.json](./89287-driving-zone-germany.json) |
 | Driving Zone: Japan | 174857 | [174857-driving-zone-japan.json](./174857-driving-zone-japan.json) |
 | Drivinity | 184263 | [184263-drivinity.json](./184263-drivinity.json) |
@@ -13234,6 +13238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Point: Alaska | 63688 | [63688-drop-point-alaska.json](./63688-drop-point-alaska.json) |
 | Drop Pop | 386981 | [386981-drop-pop.json](./386981-drop-pop.json) |
 | Drop That Cat | 330399 | [330399-drop-that-cat.json](./330399-drop-that-cat.json) |
+| Drop the Ball! | 89736 | [89736-drop-the-ball.json](./89736-drop-the-ball.json) |
 | Drop the Ballz | 106932 | [106932-drop-the-ballz.json](./106932-drop-the-ballz.json) |
 | Drop the Bomb | 99587 | [99587-drop-the-bomb.json](./99587-drop-the-bomb.json) |
 | Drop the Clock | 91223 | [91223-drop-the-clock.json](./91223-drop-the-clock.json) |
