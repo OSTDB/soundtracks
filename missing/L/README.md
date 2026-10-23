@@ -2048,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Illusion Starring Mickey Mouse | 8125 | [8125-legend-of-illusion-starring-mickey-mouse.json](./8125-legend-of-illusion-starring-mickey-mouse.json) |
 | Legend of Inca: Mystical Culture | 274909 | [274909-legend-of-inca-mystical-culture.json](./274909-legend-of-inca-mystical-culture.json) |
 | Legend of Ixtona | 68979 | [68979-legend-of-ixtona.json](./68979-legend-of-ixtona.json) |
+| Legend of Iya | 79728 | [79728-legend-of-iya.json](./79728-legend-of-iya.json) |
 | Legend of John: Lingering Blood | 308050 | [308050-legend-of-john-lingering-blood.json](./308050-legend-of-john-lingering-blood.json) |
 | Legend of Johnny | 366351 | [366351-legend-of-johnny.json](./366351-legend-of-johnny.json) |
 | Legend of Junior | 112521 | [112521-legend-of-junior.json](./112521-legend-of-junior.json) |
