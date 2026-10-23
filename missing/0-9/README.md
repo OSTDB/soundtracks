@@ -783,6 +783,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 11-11: Memories Retold | 103249 | [103249-11-11-memories-retold.json](./103249-11-11-memories-retold.json) |
 | 11-A-Side Soccer | 279699 | [279699-11-a-side-soccer.json](./279699-11-a-side-soccer.json) |
 | 11:45 A Vivid Life | 132652 | [132652-11-45-a-vivid-life.json](./132652-11-45-a-vivid-life.json) |
+| 110 Clevere Spiele Vol.1 | 98820 | [98820-110-clevere-spiele-vol-1.json](./98820-110-clevere-spiele-vol-1.json) |
+| 110 Clevere Spiele Vol.2 | 98821 | [98821-110-clevere-spiele-vol-2.json](./98821-110-clevere-spiele-vol-2.json) |
 | 110 Hurdles | 247052 | [247052-110-hurdles.json](./247052-110-hurdles.json) |
 | 1111-Strike | 377367 | [377367-1111-strike.json](./377367-1111-strike.json) |
 | 11111Game | 219505 | [219505-11111game.json](./219505-11111game.json) |
@@ -2469,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7th Sector | 115336 | [115336-7th-sector.json](./115336-7th-sector.json) |
 | 7th Sector: Museum | 172115 | [172115-7th-sector-museum.json](./172115-7th-sector-museum.json) |
 | 7Worlds: The Dreaming Dale | 129012 | [129012-7worlds-the-dreaming-dale.json](./129012-7worlds-the-dreaming-dale.json) |
+| 7x7 | 98850 | [98850-7x7.json](./98850-7x7.json) |
 | 7Years | 311157 | [311157-7years.json](./311157-7years.json) |
 | 8 | 131206 | [131206-8.json](./131206-8.json) |
 | 8 Ball | 14150 | [14150-8-ball.json](./14150-8-ball.json) |
