@@ -1585,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandit | 251553 | [251553-bandit.json](./251553-bandit.json) |
 | Bandit | 330887 | [330887-bandit.json](./330887-bandit.json) |
 | Bandit | 379999 | [379999-bandit.json](./379999-bandit.json) |
+| Bandit | 69671 | [69671-bandit.json](./69671-bandit.json) |
 | Bandit Accountancy | 336923 | [336923-bandit-accountancy.json](./336923-bandit-accountancy.json) |
 | Bandit Bites | 240185 | [240185-bandit-bites.json](./240185-bandit-bites.json) |
 | Bandit Buster: Western | 319785 | [319785-bandit-buster-western.json](./319785-bandit-buster-western.json) |
@@ -2692,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Gotham City Racer | 44992 | [44992-batman-gotham-city-racer.json](./44992-batman-gotham-city-racer.json) |
 | Batman: Guardian of Gotham | 356602 | [356602-batman-guardian-of-gotham.json](./356602-batman-guardian-of-gotham.json) |
 | Batman: Justice Unbalanced | 73887 | [73887-batman-justice-unbalanced.json](./73887-batman-justice-unbalanced.json) |
+| Batman: Partners in Peril | 69677 | [69677-batman-partners-in-peril.json](./69677-batman-partners-in-peril.json) |
 | Batman: Return of the Joker | 295663 | [295663-batman-return-of-the-joker.json](./295663-batman-return-of-the-joker.json) |
 | Batman: Return of the Joker | 4489 | [4489-batman-return-of-the-joker.json](./4489-batman-return-of-the-joker.json) |
 | Batman: Return to Arkham | 19245 | [19245-batman-return-to-arkham.json](./19245-batman-return-to-arkham.json) |
@@ -2716,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Telltale Series - Episode 2: Children of Arkham | 26964 | [26964-batman-the-telltale-series-episode-2-children-of-arkham.json](./26964-batman-the-telltale-series-episode-2-children-of-arkham.json) |
 | Batman: The Video Game | 10510 | [10510-batman-the-video-game.json](./10510-batman-the-video-game.json) |
 | Batman: The Video Game | 49226 | [49226-batman-the-video-game.json](./49226-batman-the-video-game.json) |
+| Batman: Toxic Chill | 69699 | [69699-batman-toxic-chill.json](./69699-batman-toxic-chill.json) |
 | Batman: Vengeance | 197872 | [197872-batman-vengeance.json](./197872-batman-vengeance.json) |
 | Batman: Vengeance | 5740 | [5740-batman-vengeance.json](./5740-batman-vengeance.json) |
 | Batman: Wings of Steel | 284217 | [284217-batman-wings-of-steel.json](./284217-batman-wings-of-steel.json) |
