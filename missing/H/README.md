@@ -4634,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Wheels | 213343 | [213343-hero-wheels.json](./213343-hero-wheels.json) |
 | Hero World | 322376 | [322376-hero-world.json](./322376-hero-world.json) |
 | Hero World 2 | 329129 | [329129-hero-world-2.json](./329129-hero-world-2.json) |
+| Hero X | 94611 | [94611-hero-x.json](./94611-hero-x.json) |
 | Hero x Hero | 406780 | [406780-hero-x-hero.json](./406780-hero-x-hero.json) |
 | Hero Youseijyo | 208275 | [208275-hero-youseijyo.json](./208275-hero-youseijyo.json) |
 | Hero Z TPS | 223325 | [223325-hero-z-tps.json](./223325-hero-z-tps.json) |
