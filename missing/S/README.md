@@ -14451,6 +14451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcery Tempest | 83261 | [83261-sorcery-tempest.json](./83261-sorcery-tempest.json) |
 | Sorcery! | 88541 | [88541-sorcery.json](./88541-sorcery.json) |
 | Sorcery! 2 | 60990 | [60990-sorcery-2.json](./60990-sorcery-2.json) |
+| Sorcery! 4 - The Crown of Kings | 57533 | [57533-sorcery-4-the-crown-of-kings.json](./57533-sorcery-4-the-crown-of-kings.json) |
 | Sorcery! Part 3 | 24024 | [24024-sorcery-part-3.json](./24024-sorcery-part-3.json) |
 | Sorcery! Parts 1 & 2 | 24618 | [24618-sorcery-parts-1-and-2.json](./24618-sorcery-parts-1-and-2.json) |
 | Sorcery+ | 300805 | [300805-sorcery.json](./300805-sorcery.json) |
@@ -18046,6 +18047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SPQR: The Empire's Darkest Hour | 73328 | [73328-spqr-the-empires-darkest-hour.json](./73328-spqr-the-empires-darkest-hour.json) |
 | Spram's Metroid Doom | 142220 | [142220-sprams-metroid-doom.json](./142220-sprams-metroid-doom.json) |
 | Sprawl | 143627 | [143627-sprawl.json](./143627-sprawl.json) |
+| Sprawl | 57467 | [57467-sprawl.json](./57467-sprawl.json) |
 | Sprawl 96 | 314636 | [314636-sprawl-96.json](./314636-sprawl-96.json) |
 | Spray | 385404 | [385404-spray.json](./385404-spray.json) |
 | Spray | 5192 | [5192-spray.json](./5192-spray.json) |
@@ -21762,6 +21764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StorySpark | 303283 | [303283-storyspark.json](./303283-storyspark.json) |
 | Storyteller | 383135 | [383135-storyteller.json](./383135-storyteller.json) |
 | Storyteller: Devilish Update | 269078 | [269078-storyteller-devilish-update.json](./269078-storyteller-devilish-update.json) |
+| Storyvale | 57464 | [57464-storyvale.json](./57464-storyvale.json) |
 | Stow Away | 400958 | [400958-stow-away.json](./400958-stow-away.json) |
 | Stowaway | 174008 | [174008-stowaway.json](./174008-stowaway.json) |
 | Stowaway | 288868 | [288868-stowaway.json](./288868-stowaway.json) |
@@ -22464,6 +22467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StressRoom | 301256 | [301256-stressroom.json](./301256-stressroom.json) |
 | Stretch Arcade | 146018 | [146018-stretch-arcade.json](./146018-stretch-arcade.json) |
 | Stretch Armstrong: The Breakout | 256871 | [256871-stretch-armstrong-the-breakout.json](./256871-stretch-armstrong-the-breakout.json) |
+| Stretch Dungeon | 57457 | [57457-stretch-dungeon.json](./57457-stretch-dungeon.json) |
 | Stretch Guy | 315844 | [315844-stretch-guy.json](./315844-stretch-guy.json) |
 | Stretch Text: Find Proverb | 266834 | [266834-stretch-text-find-proverb.json](./266834-stretch-text-find-proverb.json) |
 | StretchingVr | 99014 | [99014-stretchingvr.json](./99014-stretchingvr.json) |
@@ -25926,6 +25930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen T: Premium Anime Song & Sound Edition | 167089 | [167089-super-robot-taisen-t-premium-anime-song-and-sound-edition.json](./167089-super-robot-taisen-t-premium-anime-song-and-sound-edition.json) |
 | Super Robot Taisen UX | 6894 | [6894-super-robot-taisen-ux.json](./6894-super-robot-taisen-ux.json) |
 | Super Robot Taisen W | 21405 | [21405-super-robot-taisen-w.json](./21405-super-robot-taisen-w.json) |
+| Super Robot Taisen X-Ω | 57530 | [57530-super-robot-taisen-x.json](./57530-super-robot-taisen-x.json) |
 | Super Robot Taisen XO | 143417 | [143417-super-robot-taisen-xo.json](./143417-super-robot-taisen-xo.json) |
 | Super Robot Taisen Z | 79342 | [79342-super-robot-taisen-z.json](./79342-super-robot-taisen-z.json) |
 | Super Robot Taisen Z: Special Disc | 182490 | [182490-super-robot-taisen-z-special-disc.json](./182490-super-robot-taisen-z-special-disc.json) |
