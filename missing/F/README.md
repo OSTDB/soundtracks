@@ -5160,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Break Online | 120618 | [120618-fishing-break-online.json](./120618-fishing-break-online.json) |
 | Fishing Cat's Slack-off Diary | 392862 | [392862-fishing-cats-slack-off-diary.json](./392862-fishing-cats-slack-off-diary.json) |
 | Fishing Champion | 200398 | [200398-fishing-champion.json](./200398-fishing-champion.json) |
+| Fishing Clash | 91230 | [91230-fishing-clash.json](./91230-fishing-clash.json) |
 | Fishing Clash 2020: Fish Catching Games | 135263 | [135263-fishing-clash-2020-fish-catching-games.json](./135263-fishing-clash-2020-fish-catching-games.json) |
 | Fishing Clash: Catching Fish Game. Bass Hunting 3D | 99389 | [99389-fishing-clash-catching-fish-game-bass-hunting-3d.json](./99389-fishing-clash-catching-fish-game-bass-hunting-3d.json) |
 | Fishing Clicker | 333667 | [333667-fishing-clicker.json](./333667-fishing-clicker.json) |
@@ -6298,6 +6299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flippy Bottle Extreme 2! | 340996 | [340996-flippy-bottle-extreme-2.json](./340996-flippy-bottle-extreme-2.json) |
 | Flippy Bottle Extreme! | 98790 | [98790-flippy-bottle-extreme.json](./98790-flippy-bottle-extreme.json) |
 | Flippy Hills | 107666 | [107666-flippy-hills.json](./107666-flippy-hills.json) |
+| Flippy Knife | 91216 | [91216-flippy-knife.json](./91216-flippy-knife.json) |
 | FlipRide Rush | 409526 | [409526-flipride-rush.json](./409526-flipride-rush.json) |
 | Flips: Artemis Fowl | 66667 | [66667-flips-artemis-fowl.json](./66667-flips-artemis-fowl.json) |
 | Flips: Cathy Cassidy | 66668 | [66668-flips-cathy-cassidy.json](./66668-flips-cathy-cassidy.json) |
@@ -7676,6 +7678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Kingdom | 10907 | [10907-forever-kingdom.json](./10907-forever-kingdom.json) |
 | Forever Lost | 207739 | [207739-forever-lost.json](./207739-forever-lost.json) |
 | Forever Lost in the Never Ending Museum of Still Life | 129603 | [129603-forever-lost-in-the-never-ending-museum-of-still-life.json](./129603-forever-lost-in-the-never-ending-museum-of-still-life.json) |
+| Forever Lost: Episode 1 | 91170 | [91170-forever-lost-episode-1.json](./91170-forever-lost-episode-1.json) |
 | Forever Lost: Episode 1 SD | 101071 | [101071-forever-lost-episode-1-sd.json](./101071-forever-lost-episode-1-sd.json) |
 | Forever Lost: Episode 2 SD | 100336 | [100336-forever-lost-episode-2-sd.json](./100336-forever-lost-episode-2-sd.json) |
 | Forever Lost: Episode 3 SD | 99367 | [99367-forever-lost-episode-3-sd.json](./99367-forever-lost-episode-3-sd.json) |
@@ -8735,6 +8738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frag: Pro Shooter - The Sniper & Specialist Heroes Pack | 324385 | [324385-frag-pro-shooter-the-sniper-and-specialist-heroes-pack.json](./324385-frag-pro-shooter-the-sniper-and-specialist-heroes-pack.json) |
 | Fraga | 397270 | [397270-fraga.json](./397270-fraga.json) |
 | Fragger | 94183 | [94183-fragger.json](./94183-fragger.json) |
+| Fragger 2 | 91179 | [91179-fragger-2.json](./91179-fragger-2.json) |
 | Fragging Free | 327339 | [327339-fragging-free.json](./327339-fragging-free.json) |
 | Fragile | 126396 | [126396-fragile.json](./126396-fragile.json) |
 | Fragile Allegiance | 2619 | [2619-fragile-allegiance.json](./2619-fragile-allegiance.json) |
