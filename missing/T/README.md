@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taming the Heart of a Beast | 228067 | [228067-taming-the-heart-of-a-beast.json](./228067-taming-the-heart-of-a-beast.json) |
 | Taming Yore Dragon | 384319 | [384319-taming-yore-dragon.json](./384319-taming-yore-dragon.json) |
 | Tamitos: Tale of Understanding | 399155 | [399155-tamitos-tale-of-understanding.json](./399155-tamitos-tale-of-understanding.json) |
+| Tamiya Racing 64 | 47737 | [47737-tamiya-racing-64.json](./47737-tamiya-racing-64.json) |
 | Tammy Jo Superstar | 101999 | [101999-tammy-jo-superstar.json](./101999-tammy-jo-superstar.json) |
 | Tamori no Picross | 65767 | [65767-tamori-no-picross.json](./65767-tamori-no-picross.json) |
 | Tamori no Picross 4/23 | 345499 | [345499-tamori-no-picross-4-23.json](./345499-tamori-no-picross-4-23.json) |
@@ -11309,6 +11310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -13779,6 +13781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Suicide Forest | 133428 | [133428-the-suicide-forest.json](./133428-the-suicide-forest.json) |
 | The Suicide Game | 179075 | [179075-the-suicide-game.json](./179075-the-suicide-game.json) |
 | The Suitcase | 196559 | [196559-the-suitcase.json](./196559-the-suitcase.json) |
+| The Suite Life of Zack & Cody: Circle of Spies | 47775 | [47775-the-suite-life-of-zack-and-cody-circle-of-spies.json](./47775-the-suite-life-of-zack-and-cody-circle-of-spies.json) |
 | The Suite Life of Zack & Cody: Maddie's Snack Encounter | 281326 | [281326-the-suite-life-of-zack-and-cody-maddies-snack-encounter.json](./281326-the-suite-life-of-zack-and-cody-maddies-snack-encounter.json) |
 | The Suite Life of Zack & Cody: Pizza Party Pickup! | 281323 | [281323-the-suite-life-of-zack-and-cody-pizza-party-pickup.json](./281323-the-suite-life-of-zack-and-cody-pizza-party-pickup.json) |
 | The Suite Life of Zack & Cody: Tipton Caper | 77883 | [77883-the-suite-life-of-zack-and-cody-tipton-caper.json](./77883-the-suite-life-of-zack-and-cody-tipton-caper.json) |
@@ -18657,6 +18660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinja | 81647 | [81647-tinja.json](./81647-tinja.json) |
 | Tink: The Last Fairy | 289946 | [289946-tink-the-last-fairy.json](./289946-tink-the-last-fairy.json) |
 | Tinker | 51212 | [51212-tinker.json](./51212-tinker.json) |
+| Tinker Bell and the Great Fairy Rescue | 47789 | [47789-tinker-bell-and-the-great-fairy-rescue.json](./47789-tinker-bell-and-the-great-fairy-rescue.json) |
 | Tinker Bell: 2 Disney Games | 113889 | [113889-tinker-bell-2-disney-games.json](./113889-tinker-bell-2-disney-games.json) |
 | Tinker Island 2 | 257223 | [257223-tinker-island-2.json](./257223-tinker-island-2.json) |
 | Tinker Islands | 410820 | [410820-tinker-islands.json](./410820-tinker-islands.json) |
@@ -20192,6 +20196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tommy Gun Witches | 262893 | [262893-tommy-gun-witches.json](./262893-tommy-gun-witches.json) |
 | Tommy Is My Hero! | 272853 | [272853-tommy-is-my-hero.json](./272853-tommy-is-my-hero.json) |
 | Tommy Moe's Winter Extreme: Skiing & Snowboarding | 42429 | [42429-tommy-moes-winter-extreme-skiing-and-snowboarding.json](./42429-tommy-moes-winter-extreme-skiing-and-snowboarding.json) |
+| Tommy Thunder | 47736 | [47736-tommy-thunder.json](./47736-tommy-thunder.json) |
 | Tommy's Hollywords | 71146 | [71146-tommys-hollywords.json](./71146-tommys-hollywords.json) |
 | Tommygun's Frag | 387516 | [387516-tommyguns-frag.json](./387516-tommyguns-frag.json) |
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
