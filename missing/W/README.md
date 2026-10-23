@@ -2848,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Cowboy Gun Fight 2 | 234439 | [234439-western-cowboy-gun-fight-2.json](./234439-western-cowboy-gun-fight-2.json) |
 | Western Death | 312614 | [312614-western-death.json](./312614-western-death.json) |
 | Western Dual Wield | 207750 | [207750-western-dual-wield.json](./207750-western-dual-wield.json) |
+| Western Front: The Liberation of Europe 1944-1945 | 70234 | [70234-western-front-the-liberation-of-europe-1944-1945.json](./70234-western-front-the-liberation-of-europe-1944-1945.json) |
 | Western Gun Shop Simulator | 401140 | [401140-western-gun-shop-simulator.json](./401140-western-gun-shop-simulator.json) |
 | Western Guns: Episode 01 - Redemption | 28572 | [28572-western-guns-episode-01-redemption.json](./28572-western-guns-episode-01-redemption.json) |
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
@@ -4727,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winner's Soccer Evolution | 233045 | [233045-winners-soccer-evolution.json](./233045-winners-soccer-evolution.json) |
 | Winners and Losers | 179466 | [179466-winners-and-losers.json](./179466-winners-and-losers.json) |
 | Winnie the Bear | 326698 | [326698-winnie-the-bear.json](./326698-winnie-the-bear.json) |
+| Winnie the Pooh and Tigger Too | 70250 | [70250-winnie-the-pooh-and-tigger-too.json](./70250-winnie-the-pooh-and-tigger-too.json) |
 | Winnie the Pooh in the Hundred Acre Wood | 51370 | [51370-winnie-the-pooh-in-the-hundred-acre-wood.json](./51370-winnie-the-pooh-in-the-hundred-acre-wood.json) |
 | Winnie the Pooh: First Steps | 273880 | [273880-winnie-the-pooh-first-steps.json](./273880-winnie-the-pooh-first-steps.json) |
 | Winnie the Pooh: The Honey Hunt | 78484 | [78484-winnie-the-pooh-the-honey-hunt.json](./78484-winnie-the-pooh-the-honey-hunt.json) |
