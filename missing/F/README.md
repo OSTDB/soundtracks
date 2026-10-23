@@ -10226,6 +10226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FuJianStrike | 391014 | [391014-fujianstrike.json](./391014-fujianstrike.json) |
 | Fujii | 118161 | [118161-fujii.json](./118161-fujii.json) |
 | Fujiwara Phoenix | 245869 | [245869-fujiwara-phoenix.json](./245869-fujiwara-phoenix.json) |
+| Fujyoshi | 97665 | [97665-fujyoshi.json](./97665-fujyoshi.json) |
 | Fukakutei Sekai no Tantei Shinshi | 122877 | [122877-fukakutei-sekai-no-tantei-shinshi.json](./122877-fukakutei-sekai-no-tantei-shinshi.json) |
 | Fukakutei Sekai no Tantei Shinshi Hardcore! | 122874 | [122874-fukakutei-sekai-no-tantei-shinshi-hardcore.json](./122874-fukakutei-sekai-no-tantei-shinshi-hardcore.json) |
 | Fukakutei Sekai no Tantei Shinshi Origin! | 122880 | [122880-fukakutei-sekai-no-tantei-shinshi-origin.json](./122880-fukakutei-sekai-no-tantei-shinshi-origin.json) |
@@ -11015,6 +11016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuyu no Rondo | 69310 | [69310-fuyu-no-rondo.json](./69310-fuyu-no-rondo.json) |
 | Fuyu no Sonata DS | 124014 | [124014-fuyu-no-sonata-ds.json](./124014-fuyu-no-sonata-ds.json) |
 | Fuyu Uso: Snow World End | 379634 | [379634-fuyu-uso-snow-world-end.json](./379634-fuyu-uso-snow-world-end.json) |
+| Fuyuiro no Muffler | 97742 | [97742-fuyuiro-no-muffler.json](./97742-fuyuiro-no-muffler.json) |
 | Fuyuzono Sacrifice | 287893 | [287893-fuyuzono-sacrifice.json](./287893-fuyuzono-sacrifice.json) |
 | Fuze Player | 221929 | [221929-fuze-player.json](./221929-fuze-player.json) |
 | Fuze4 Nintendo Switch | 85161 | [85161-fuze4-nintendo-switch.json](./85161-fuze4-nintendo-switch.json) |
