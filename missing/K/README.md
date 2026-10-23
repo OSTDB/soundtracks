@@ -4548,6 +4548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kromaia | 8815 | [8815-kromaia.json](./8815-kromaia.json) |
 | Kromaia Ω | 14296 | [14296-kromaia.json](./14296-kromaia.json) |
 | Kromaia: Annvrsary X | 306795 | [306795-kromaia-annvrsary-x.json](./306795-kromaia-annvrsary-x.json) |
+| Kromazone | 83379 | [83379-kromazone.json](./83379-kromazone.json) |
 | Kromer Kollector | 181875 | [181875-kromer-kollector.json](./181875-kromer-kollector.json) |
 | Kromex | 400850 | [400850-kromex.json](./400850-kromex.json) |
 | Kromlech | 253588 | [253588-kromlech.json](./253588-kromlech.json) |
