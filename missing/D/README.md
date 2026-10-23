@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Mouse in Double Trouble | 13569 | [13569-danger-mouse-in-double-trouble.json](./13569-danger-mouse-in-double-trouble.json) |
 | Danger Mouse in Making Whoopee! | 13570 | [13570-danger-mouse-in-making-whoopee.json](./13570-danger-mouse-in-making-whoopee.json) |
 | Danger Mouse: The Danger Games | 85557 | [85557-danger-mouse-the-danger-games.json](./85557-danger-mouse-the-danger-games.json) |
+| Danger Quest! Puzzle Adventure | 96591 | [96591-danger-quest-puzzle-adventure.json](./96591-danger-quest-puzzle-adventure.json) |
 | Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
 | Danger Room | 30616 | [30616-danger-room.json](./30616-danger-room.json) |
 | Danger Room VR | 108399 | [108399-danger-room-vr.json](./108399-danger-room-vr.json) |
@@ -6041,6 +6042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Hayseed: Hollywood | 26992 | [26992-detective-hayseed-hollywood.json](./26992-detective-hayseed-hollywood.json) |
 | Detective Hayseed: The Cloning Madness | 277025 | [277025-detective-hayseed-the-cloning-madness.json](./277025-detective-hayseed-the-cloning-madness.json) |
 | Detective Hindsight | 367971 | [367971-detective-hindsight.json](./367971-detective-hindsight.json) |
+| Detective Holmes: Trap for the Hunter | 96561 | [96561-detective-holmes-trap-for-the-hunter.json](./96561-detective-holmes-trap-for-the-hunter.json) |
 | Detective in the Pirate's Cove | 194188 | [194188-detective-in-the-pirates-cove.json](./194188-detective-in-the-pirates-cove.json) |
 | Detective Inna Duke | 380203 | [380203-detective-inna-duke.json](./380203-detective-inna-duke.json) |
 | Detective Inspector: Mysterious Clues | 194256 | [194256-detective-inspector-mysterious-clues.json](./194256-detective-inspector-mysterious-clues.json) |
@@ -13758,6 +13760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke 6:8 | 308331 | [308331-duke-6-8.json](./308331-duke-6-8.json) |
 | Duke Burger | 253771 | [253771-duke-burger.json](./253771-duke-burger.json) |
 | Duke Craft | 308455 | [308455-duke-craft.json](./308455-duke-craft.json) |
+| Duke Dashington | 96566 | [96566-duke-dashington.json](./96566-duke-dashington.json) |
 | Duke Dashington Remastered | 96565 | [96565-duke-dashington-remastered.json](./96565-duke-dashington-remastered.json) |
 | Duke Forces | 291977 | [291977-duke-forces.json](./291977-duke-forces.json) |
 | Duke Grabowski: Mighty Swashbuckler | 23982 | [23982-duke-grabowski-mighty-swashbuckler.json](./23982-duke-grabowski-mighty-swashbuckler.json) |
