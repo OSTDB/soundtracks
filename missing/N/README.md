@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N O Nb | 127980 | [127980-n-o-nb.json](./127980-n-o-nb.json) |
 | N Step Steve: Part 2 | 280780 | [280780-n-step-steve-part-2.json](./280780-n-step-steve-part-2.json) |
 | N v2.0 | 77297 | [77297-n-v2-0.json](./77297-n-v2-0.json) |
+| N-Ball | 67084 | [67084-n-ball.json](./67084-n-ball.json) |
 | N-Body | 142180 | [142180-n-body.json](./142180-n-body.json) |
 | N-Cube | 63243 | [63243-n-cube.json](./63243-n-cube.json) |
 | N-Gon | 219683 | [219683-n-gon.json](./219683-n-gon.json) |
@@ -2654,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Solitaire | 88871 | [88871-new-solitaire.json](./88871-new-solitaire.json) |
 | New Solitaire Card Game | 96973 | [96973-new-solitaire-card-game.json](./96973-new-solitaire-card-game.json) |
 | New Star Cricket | 234614 | [234614-new-star-cricket.json](./234614-new-star-cricket.json) |
+| New Star Grand Prix | 67064 | [67064-new-star-grand-prix.json](./67064-new-star-grand-prix.json) |
 | New Star Soccer | 7682 | [7682-new-star-soccer.json](./7682-new-star-soccer.json) |
 | New Star Soccer 2 | 7681 | [7681-new-star-soccer-2.json](./7681-new-star-soccer-2.json) |
 | New Star Soccer 2010 | 7678 | [7678-new-star-soccer-2010.json](./7678-new-star-soccer-2010.json) |
