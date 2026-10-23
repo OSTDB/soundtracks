@@ -14065,6 +14065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Hentai: Moments | 385081 | [385081-pure-hentai-moments.json](./385081-pure-hentai-moments.json) |
 | Pure Hentai: Paradise | 380699 | [380699-pure-hentai-paradise.json](./380699-pure-hentai-paradise.json) |
 | Pure Hentai: Vision | 380190 | [380190-pure-hentai-vision.json](./380190-pure-hentai-vision.json) |
+| Pure Hidden | 54278 | [54278-pure-hidden.json](./54278-pure-hidden.json) |
 | Pure Hold 'Em World Poker Championships | 201056 | [201056-pure-hold-em-world-poker-championships.json](./201056-pure-hold-em-world-poker-championships.json) |
 | Pure Hold'em | 17840 | [17840-pure-holdem.json](./17840-pure-holdem.json) |
 | Pure Hold'em: Full House Poker Bundle | 90984 | [90984-pure-holdem-full-house-poker-bundle.json](./90984-pure-holdem-full-house-poker-bundle.json) |
@@ -14113,6 +14114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puri-Puri | 177935 | [177935-puri-puri.json](./177935-puri-puri.json) |
 | Purified | 374255 | [374255-purified.json](./374255-purified.json) |
 | Purify | 181065 | [181065-purify.json](./181065-purify.json) |
+| Purify Puzzle | 54277 | [54277-purify-puzzle.json](./54277-purify-puzzle.json) |
 | Purifying Fox | 358507 | [358507-purifying-fox.json](./358507-purifying-fox.json) |
 | Purikura Daisakusen | 39572 | [39572-purikura-daisakusen.json](./39572-purikura-daisakusen.json) |
 | Purikura Pocket 3: Talent Debut Daisakusen | 418593 | [418593-purikura-pocket-3-talent-debut-daisakusen.json](./418593-purikura-pocket-3-talent-debut-daisakusen.json) |
@@ -14240,6 +14242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pushcat | 17562 | [17562-pushcat.json](./17562-pushcat.json) |
 | Pushed a 'Bot! | 369026 | [369026-pushed-a-bot.json](./369026-pushed-a-bot.json) |
 | Pusher | 193439 | [193439-pusher.json](./193439-pusher.json) |
+| Pusher | 54276 | [54276-pusher.json](./54276-pusher.json) |
 | Pusher: Drug Tycoon | 259167 | [259167-pusher-drug-tycoon.json](./259167-pusher-drug-tycoon.json) |
 | PushieBlocks | 132047 | [132047-pushieblocks.json](./132047-pushieblocks.json) |
 | Pushika | 334241 | [334241-pushika.json](./334241-pushika.json) |
@@ -14503,6 +14506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Champions | 213271 | [213271-puzzle-champions.json](./213271-puzzle-champions.json) |
 | Puzzle Chasers | 292140 | [292140-puzzle-chasers.json](./292140-puzzle-chasers.json) |
 | Puzzle Chronicles | 10732 | [10732-puzzle-chronicles.json](./10732-puzzle-chronicles.json) |
+| Puzzle City | 54275 | [54275-puzzle-city.json](./54275-puzzle-city.json) |
 | Puzzle Club | 218450 | [218450-puzzle-club.json](./218450-puzzle-club.json) |
 | Puzzle Collection | 201256 | [201256-puzzle-collection.json](./201256-puzzle-collection.json) |
 | Puzzle Collection: Complete Edition | 225760 | [225760-puzzle-collection-complete-edition.json](./225760-puzzle-collection-complete-edition.json) |
@@ -14531,7 +14535,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Dungeon!!: Earthmage Erin | 308334 | [308334-puzzle-dungeon-earthmage-erin.json](./308334-puzzle-dungeon-earthmage-erin.json) |
 | Puzzle Escapes: Paws & Claws | 351097 | [351097-puzzle-escapes-paws-and-claws.json](./351097-puzzle-escapes-paws-and-claws.json) |
 | Puzzle Expedition | 35614 | [35614-puzzle-expedition.json](./35614-puzzle-expedition.json) |
+| Puzzle Express | 54274 | [54274-puzzle-express.json](./54274-puzzle-express.json) |
 | Puzzle Fever | 166631 | [166631-puzzle-fever.json](./166631-puzzle-fever.json) |
+| Puzzle Fever | 54273 | [54273-puzzle-fever.json](./54273-puzzle-fever.json) |
 | Puzzle for Kids | 84066 | [84066-puzzle-for-kids.json](./84066-puzzle-for-kids.json) |
 | Puzzle For Peppa Pig | 100825 | [100825-puzzle-for-peppa-pig.json](./100825-puzzle-for-peppa-pig.json) |
 | Puzzle Forge Dungeon | 130197 | [130197-puzzle-forge-dungeon.json](./130197-puzzle-forge-dungeon.json) |
@@ -15006,11 +15012,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyro | 373724 | [373724-pyro.json](./373724-pyro.json) |
 | Pyro Complete Bundle | 218460 | [218460-pyro-complete-bundle.json](./218460-pyro-complete-bundle.json) |
 | Pyro Fighters | 171821 | [171821-pyro-fighters.json](./171821-pyro-fighters.json) |
+| Pyro Jump | 54272 | [54272-pyro-jump.json](./54272-pyro-jump.json) |
 | Pyro Jump Rescue | 293149 | [293149-pyro-jump-rescue.json](./293149-pyro-jump-rescue.json) |
 | Pyro Sand | 146670 | [146670-pyro-sand.json](./146670-pyro-sand.json) |
 | Pyro the Exterminator | 130092 | [130092-pyro-the-exterminator.json](./130092-pyro-the-exterminator.json) |
 | Pyro VR | 29602 | [29602-pyro-vr.json](./29602-pyro-vr.json) |
 | Pyrocast | 288762 | [288762-pyrocast.json](./288762-pyrocast.json) |
+| Pyroclysm | 54271 | [54271-pyroclysm.json](./54271-pyroclysm.json) |
 | Pyromancer | 124580 | [124580-pyromancer.json](./124580-pyromancer.json) |
 | Pyromania | 325671 | [325671-pyromania.json](./325671-pyromania.json) |
 | Pyromaniacs | 110190 | [110190-pyromaniacs.json](./110190-pyromaniacs.json) |
