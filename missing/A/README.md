@@ -10845,6 +10845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armies of Exigo | 18855 | [18855-armies-of-exigo.json](./18855-armies-of-exigo.json) |
 | Armies of Ganivar | 130322 | [130322-armies-of-ganivar.json](./130322-armies-of-ganivar.json) |
 | Armies of Gielinor | 130621 | [130621-armies-of-gielinor.json](./130621-armies-of-gielinor.json) |
+| Armies of Riddle Classic | 91175 | [91175-armies-of-riddle-classic.json](./91175-armies-of-riddle-classic.json) |
 | Armies of Riddle E.X. (Extreme) | 126440 | [126440-armies-of-riddle-e-x-extreme.json](./126440-armies-of-riddle-e-x-extreme.json) |
 | Armikrog | 11093 | [11093-armikrog.json](./11093-armikrog.json) |
 | Armis | 186039 | [186039-armis.json](./186039-armis.json) |
