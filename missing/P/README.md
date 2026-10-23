@@ -3069,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggo! | 154819 | [154819-peggo.json](./154819-peggo.json) |
 | Peggy's Farm | 274048 | [274048-peggys-farm.json](./274048-peggys-farm.json) |
 | Peggy's Post | 365093 | [365093-peggys-post.json](./365093-peggys-post.json) |
+| PegIt | 92873 | [92873-pegit.json](./92873-pegit.json) |
 | PegPigeon | 405549 | [405549-pegpigeon.json](./405549-pegpigeon.json) |
 | Pegs of Hell | 416008 | [416008-pegs-of-hell.json](./416008-pegs-of-hell.json) |
 | Pegs X Stickers | 399929 | [399929-pegs-x-stickers.json](./399929-pegs-x-stickers.json) |
@@ -3083,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pekin Express - La Route de l'Himalaya | 145698 | [145698-pekin-express-la-route-de-lhimalaya.json](./145698-pekin-express-la-route-de-lhimalaya.json) |
 | Pékin Express: La Route des Dragons | 268402 | [268402-pekin-express-la-route-des-dragons.json](./268402-pekin-express-la-route-des-dragons.json) |
 | Peking 2.0 | 92934 | [92934-peking-2-0.json](./92934-peking-2-0.json) |
+| Peking 3.0 | 92895 | [92895-peking-3-0.json](./92895-peking-3-0.json) |
 | Pekka Kana 2 | 94449 | [94449-pekka-kana-2.json](./94449-pekka-kana-2.json) |
 | Pekko Robot | 240280 | [240280-pekko-robot.json](./240280-pekko-robot.json) |
 | Pekku | 360061 | [360061-pekku.json](./360061-pekku.json) |
@@ -5897,6 +5899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pippin | 92542 | [92542-pippin.json](./92542-pippin.json) |
 | Pippin Atmark Demonstration Disk | 289751 | [289751-pippin-atmark-demonstration-disk.json](./289751-pippin-atmark-demonstration-disk.json) |
 | Pippin's Mysterious Garden | 258729 | [258729-pippins-mysterious-garden.json](./258729-pippins-mysterious-garden.json) |
+| Pippo | 92906 | [92906-pippo.json](./92906-pippo.json) |
 | Pippo's Quest | 251584 | [251584-pippos-quest.json](./251584-pippos-quest.json) |
 | Pippu: Bauble Quest | 165602 | [165602-pippu-bauble-quest.json](./165602-pippu-bauble-quest.json) |
 | Pips | 362932 | [362932-pips.json](./362932-pips.json) |
@@ -5910,6 +5913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piraka Attack | 409761 | [409761-piraka-attack.json](./409761-piraka-attack.json) |
 | Piranesian | 416034 | [416034-piranesian.json](./416034-piranesian.json) |
 | Piranha | 351661 | [351661-piranha.json](./351661-piranha.json) |
+| Piranha | 92881 | [92881-piranha.json](./92881-piranha.json) |
 | Piranha Feeding | 291836 | [291836-piranha-feeding.json](./291836-piranha-feeding.json) |
 | Piranha Panic | 114750 | [114750-piranha-panic.json](./114750-piranha-panic.json) |
 | Pirap Ilji: Geu Namjarobuteoui Talchul | 208655 | [208655-pirap-ilji-geu-namjarobuteoui-talchul.json](./208655-pirap-ilji-geu-namjarobuteoui-talchul.json) |
@@ -11781,6 +11785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prizefighters | 239914 | [239914-prizefighters.json](./239914-prizefighters.json) |
 | Prizefighters 2 | 152668 | [152668-prizefighters-2.json](./152668-prizefighters-2.json) |
 | PrizeMap | 398641 | [398641-prizemap.json](./398641-prizemap.json) |
+| Prizm | 92899 | [92899-prizm.json](./92899-prizm.json) |
 | Prizma Puzzle Classic | 378184 | [378184-prizma-puzzle-classic.json](./378184-prizma-puzzle-classic.json) |
 | Pro 123 My Little Funny Animals Connect the Dots | 102616 | [102616-pro-123-my-little-funny-animals-connect-the-dots.json](./102616-pro-123-my-little-funny-animals-connect-the-dots.json) |
 | Pro 18: World Tour Golf | 43821 | [43821-pro-18-world-tour-golf.json](./43821-pro-18-world-tour-golf.json) |
@@ -11917,6 +11922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Power Boat | 279693 | [279693-pro-power-boat.json](./279693-pro-power-boat.json) |
 | Pro Quarterback | 45778 | [45778-pro-quarterback.json](./45778-pro-quarterback.json) |
 | Pro Racer | 172529 | [172529-pro-racer.json](./172529-pro-racer.json) |
+| Pro Rally | 92812 | [92812-pro-rally.json](./92812-pro-rally.json) |
 | Pro Rally 2002 | 4074 | [4074-pro-rally-2002.json](./4074-pro-rally-2002.json) |
 | Pro Riders Snowboard Extreme Edition | 10726 | [10726-pro-riders-snowboard-extreme-edition.json](./10726-pro-riders-snowboard-extreme-edition.json) |
 | Pro Rugby Manager | 94388 | [94388-pro-rugby-manager.json](./94388-pro-rugby-manager.json) |
@@ -13055,6 +13061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proto Cuckoo 64 | 150982 | [150982-proto-cuckoo-64.json](./150982-proto-cuckoo-64.json) |
 | Proto Mecha Game | 363906 | [363906-proto-mecha-game.json](./363906-proto-mecha-game.json) |
 | Proto Raider | 34889 | [34889-proto-raider.json](./34889-proto-raider.json) |
+| Proto Type | 92885 | [92885-proto-type.json](./92885-proto-type.json) |
 | Proto Zero | 406152 | [406152-proto-zero.json](./406152-proto-zero.json) |
 | Proto_1987_01_IT | 339817 | [339817-proto-1987-01-it.json](./339817-proto-1987-01-it.json) |
 | ProtoBlue Tower | 373131 | [373131-protoblue-tower.json](./373131-protoblue-tower.json) |
