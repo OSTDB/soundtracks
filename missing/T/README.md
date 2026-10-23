@@ -5086,6 +5086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Best Eroge Ever | 353655 | [353655-the-best-eroge-ever.json](./353655-the-best-eroge-ever.json) |
 | The Best Investor | 357223 | [357223-the-best-investor.json](./357223-the-best-investor.json) |
 | The Best Most Epic Turnabout | 310422 | [310422-the-best-most-epic-turnabout.json](./310422-the-best-most-epic-turnabout.json) |
+| The Best of Gremlin | 71360 | [71360-the-best-of-gremlin.json](./71360-the-best-of-gremlin.json) |
 | The Best of Microsoft Entertainment Pack | 122771 | [122771-the-best-of-microsoft-entertainment-pack.json](./122771-the-best-of-microsoft-entertainment-pack.json) |
 | The Best of Microsoft Entertainment Pack | 282104 | [282104-the-best-of-microsoft-entertainment-pack.json](./282104-the-best-of-microsoft-entertainment-pack.json) |
 | The Best Play Baseball '90 | 267635 | [267635-the-best-play-baseball-90.json](./267635-the-best-play-baseball-90.json) |
@@ -11434,6 +11435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Office Rooms | 373305 | [373305-the-office-rooms.json](./373305-the-office-rooms.json) |
 | The Office Simulation | 148319 | [148319-the-office-simulation.json](./148319-the-office-simulation.json) |
 | The Official Everton FC Intelligensia | 314965 | [314965-the-official-everton-fc-intelligensia.json](./314965-the-official-everton-fc-intelligensia.json) |
+| The Official Father Christmas | 71350 | [71350-the-official-father-christmas.json](./71350-the-official-father-christmas.json) |
 | The OG Cake Factory | 274919 | [274919-the-og-cake-factory.json](./274919-the-og-cake-factory.json) |
 | The Ogi: Cycles | 280250 | [280250-the-ogi-cycles.json](./280250-the-ogi-cycles.json) |
 | The Ogre King | 410446 | [410446-the-ogre-king.json](./410446-the-ogre-king.json) |
@@ -11497,6 +11499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Operational Art of War II: Elite Edition | 73677 | [73677-the-operational-art-of-war-ii-elite-edition.json](./73677-the-operational-art-of-war-ii-elite-edition.json) |
 | The Operational Art of War II: Flashpoint Kosovo | 70073 | [70073-the-operational-art-of-war-ii-flashpoint-kosovo.json](./70073-the-operational-art-of-war-ii-flashpoint-kosovo.json) |
 | The Options Menu | 405551 | [405551-the-options-menu.json](./405551-the-options-menu.json) |
+| The Oracle | 71372 | [71372-the-oracle.json](./71372-the-oracle.json) |
 | The Oracle Land | 197911 | [197911-the-oracle-land.json](./197911-the-oracle-land.json) |
 | The Oracle's Cave | 312556 | [312556-the-oracles-cave.json](./312556-the-oracles-cave.json) |
 | The Orange | 302783 | [302783-the-orange.json](./302783-the-orange.json) |
@@ -15939,6 +15942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Onion | 271243 | [271243-this-onion.json](./271243-this-onion.json) |
 | This Panda Needs You | 185652 | [185652-this-panda-needs-you.json](./185652-this-panda-needs-you.json) |
 | This Place at the End: An Apocalyptic RPG | 392226 | [392226-this-place-at-the-end-an-apocalyptic-rpg.json](./392226-this-place-at-the-end-an-apocalyptic-rpg.json) |
+| This Planet Sucks! | 71339 | [71339-this-planet-sucks.json](./71339-this-planet-sucks.json) |
 | This Rain Will Never End | 169462 | [169462-this-rain-will-never-end.json](./169462-this-rain-will-never-end.json) |
 | This Ship Goes Brrr | 366339 | [366339-this-ship-goes-brrr.json](./366339-this-ship-goes-brrr.json) |
 | This Short Indie Game Made Me Miss My Friends: Rainy Plays Lonely Game Livestream | 403029 | [403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json](./403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json) |
