@@ -14721,6 +14721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Driller | 370220 | [370220-mr-driller.json](./370220-mr-driller.json) |
 | Mr. Driller A: Fushigi na Pacteria | 92644 | [92644-mr-driller-a-fushigi-na-pacteria.json](./92644-mr-driller-a-fushigi-na-pacteria.json) |
 | Mr. Driller Online | 21356 | [21356-mr-driller-online.json](./21356-mr-driller-online.json) |
+| Mr. Driller W | 50991 | [50991-mr-driller-w.json](./50991-mr-driller-w.json) |
 | Mr. Driller: Drill Land | 4021 | [4021-mr-driller-drill-land.json](./4021-mr-driller-drill-land.json) |
 | Mr. Driller: Drill Spirits | 18330 | [18330-mr-driller-drill-spirits.json](./18330-mr-driller-drill-spirits.json) |
 | Mr. Driller: Drill Till You Drop | 25176 | [25176-mr-driller-drill-till-you-drop.json](./25176-mr-driller-drill-till-you-drop.json) |
