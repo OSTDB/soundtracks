@@ -871,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XXL | 400570 | [400570-xxl.json](./400570-xxl.json) |
 | XXOO | 277718 | [277718-xxoo.json](./277718-xxoo.json) |
 | XxU | 389627 | [389627-xxu.json](./389627-xxu.json) |
+| xXx | 85941 | [85941-xxx.json](./85941-xxx.json) |
 | XXX Puzzle | 103646 | [103646-xxx-puzzle.json](./103646-xxx-puzzle.json) |
 | Xxx Talent | 385865 | [385865-xxx-talent.json](./385865-xxx-talent.json) |
 | Xxx_Cyberrat_Xxx | 216818 | [216818-xxx-cyberrat-xxx.json](./216818-xxx-cyberrat-xxx.json) |
