@@ -3129,6 +3129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Blade II PC | 342284 | [342284-infinity-blade-ii-pc.json](./342284-infinity-blade-ii-pc.json) |
 | Infinity Blade PC | 342045 | [342045-infinity-blade-pc.json](./342045-infinity-blade-pc.json) |
 | Infinity Blade Saga | 79077 | [79077-infinity-blade-saga.json](./79077-infinity-blade-saga.json) |
+| Infinity Blade: Dungeons | 65359 | [65359-infinity-blade-dungeons.json](./65359-infinity-blade-dungeons.json) |
 | Infinity Blocks | 301612 | [301612-infinity-blocks.json](./301612-infinity-blocks.json) |
 | Infinity Bounce | 412398 | [412398-infinity-bounce.json](./412398-infinity-bounce.json) |
 | Infinity Castle Dungeon | 274331 | [274331-infinity-castle-dungeon.json](./274331-infinity-castle-dungeon.json) |
@@ -5009,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IslandPop Photo | 185553 | [185553-islandpop-photo.json](./185553-islandpop-photo.json) |
 | Islands | 176861 | [176861-islands.json](./176861-islands.json) |
 | Islands and Ships logic puzzle | 232048 | [232048-islands-and-ships-logic-puzzle.json](./232048-islands-and-ships-logic-puzzle.json) |
+| Islands of Diamonds | 65371 | [65371-islands-of-diamonds.json](./65371-islands-of-diamonds.json) |
 | Islands of Insight | 212652 | [212652-islands-of-insight.json](./212652-islands-of-insight.json) |
 | Islands of Nyne: Battle Royale | 51548 | [51548-islands-of-nyne-battle-royale.json](./51548-islands-of-nyne-battle-royale.json) |
 | Islands of the Caliph | 197146 | [197146-islands-of-the-caliph.json](./197146-islands-of-the-caliph.json) |
