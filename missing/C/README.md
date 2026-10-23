@@ -13813,6 +13813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Chase | 293229 | [293229-cross-chase.json](./293229-cross-chase.json) |
 | Cross Country Express - An Oddfellows Mini | 121335 | [121335-cross-country-express-an-oddfellows-mini.json](./121335-cross-country-express-an-oddfellows-mini.json) |
 | Cross Country Skiing VR | 99035 | [99035-cross-country-skiing-vr.json](./99035-cross-country-skiing-vr.json) |
+| Cross Dating Adventure: Kasanari | 97732 | [97732-cross-dating-adventure-kasanari.json](./97732-cross-dating-adventure-kasanari.json) |
 | Cross Days | 92409 | [92409-cross-days.json](./92409-cross-days.json) |
 | Cross Death VR | 32215 | [32215-cross-death-vr.json](./32215-cross-death-vr.json) |
 | Cross Dressing Aniki | 99051 | [99051-cross-dressing-aniki.json](./99051-cross-dressing-aniki.json) |
