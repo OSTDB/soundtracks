@@ -5610,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loihtija | 176518 | [176518-loihtija.json](./176518-loihtija.json) |
 | Loinkham TD | 266067 | [266067-loinkham-td.json](./266067-loinkham-td.json) |
 | Lok Digital | 226734 | [226734-lok-digital.json](./226734-lok-digital.json) |
+| Loka: League of Keepers Allysium | 58013 | [58013-loka-league-of-keepers-allysium.json](./58013-loka-league-of-keepers-allysium.json) |
 | Lokaa | 239693 | [239693-lokaa.json](./239693-lokaa.json) |
 | Lokam Dating Sim | 241435 | [241435-lokam-dating-sim.json](./241435-lokam-dating-sim.json) |
 | Lokapala | 224018 | [224018-lokapala.json](./224018-lokapala.json) |
