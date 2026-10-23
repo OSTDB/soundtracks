@@ -2951,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Learn Xiangqi | 368088 | [368088-lets-learn-xiangqi.json](./368088-lets-learn-xiangqi.json) |
 | Let's Mahjong | 388356 | [388356-lets-mahjong.json](./388356-lets-mahjong.json) |
 | Let's Make a Pro Baseball Team! 2 | 138100 | [138100-lets-make-a-pro-baseball-team-2.json](./138100-lets-make-a-pro-baseball-team-2.json) |
+| Let's Make a Soccer Team! | 91708 | [91708-lets-make-a-soccer-team.json](./91708-lets-make-a-soccer-team.json) |
 | Let's Meat Adam 2 | 180134 | [180134-lets-meat-adam-2.json](./180134-lets-meat-adam-2.json) |
 | Let's Meet Tomorrow | 342091 | [342091-lets-meet-tomorrow.json](./342091-lets-meet-tomorrow.json) |
 | Let's Minesweeper | 220183 | [220183-lets-minesweeper.json](./220183-lets-minesweeper.json) |
@@ -3088,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Enforcers I & II | 77250 | [77250-lethal-enforcers-i-and-ii.json](./77250-lethal-enforcers-i-and-ii.json) |
 | Lethal Gamble 1 Werewolf Puzzle | 170278 | [170278-lethal-gamble-1-werewolf-puzzle.json](./170278-lethal-gamble-1-werewolf-puzzle.json) |
 | Lethal Infiltration: Ghost Reconnaissance | 296932 | [296932-lethal-infiltration-ghost-reconnaissance.json](./296932-lethal-infiltration-ghost-reconnaissance.json) |
+| Lethal Judgment: Origins | 91794 | [91794-lethal-judgment-origins.json](./91794-lethal-judgment-origins.json) |
 | Lethal Justice | 40334 | [40334-lethal-justice.json](./40334-lethal-justice.json) |
 | Lethal Laser | 55489 | [55489-lethal-laser.json](./55489-lethal-laser.json) |
 | Lethal Lava Land | 308231 | [308231-lethal-lava-land.json](./308231-lethal-lava-land.json) |
