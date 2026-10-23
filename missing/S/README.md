@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarkwo | 197229 | [197229-sarkwo.json](./197229-sarkwo.json) |
 | Saros: Digital Deluxe Edition | 399922 | [399922-saros-digital-deluxe-edition.json](./399922-saros-digital-deluxe-edition.json) |
 | Saros: Zenith | 416115 | [416115-saros-zenith.json](./416115-saros-zenith.json) |
+| Saru Getchu Saru Saru Daisakusen | 79069 | [79069-saru-getchu-saru-saru-daisakusen.json](./79069-saru-getchu-saru-saru-daisakusen.json) |
 | Sarukhstart Takeover | 419198 | [419198-sarukhstart-takeover.json](./419198-sarukhstart-takeover.json) |
 | SAS Combat Simulator | 13031 | [13031-sas-combat-simulator.json](./13031-sas-combat-simulator.json) |
 | SAS Secure Tomorrow | 10811 | [10811-sas-secure-tomorrow.json](./10811-sas-secure-tomorrow.json) |
@@ -12552,6 +12553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sofia's Debt | 196794 | [196794-sofias-debt.json](./196794-sofias-debt.json) |
 | Sofie: The Echoes | 307140 | [307140-sofie-the-echoes.json](./307140-sofie-the-echoes.json) |
 | Sofiya and the Ancient Clan | 209648 | [209648-sofiya-and-the-ancient-clan.json](./209648-sofiya-and-the-ancient-clan.json) |
+| Soft & Cuddly | 79110 | [79110-soft-and-cuddly.json](./79110-soft-and-cuddly.json) |
 | Soft Body | 18514 | [18514-soft-body.json](./18514-soft-body.json) |
 | Soft cookie | 114438 | [114438-soft-cookie.json](./114438-soft-cookie.json) |
 | Soft de Hard na Monogatari | 112039 | [112039-soft-de-hard-na-monogatari.json](./112039-soft-de-hard-na-monogatari.json) |
@@ -16483,6 +16485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Up | 105331 | [105331-speed-up.json](./105331-speed-up.json) |
 | Speed X: Extreme 3D Car Racing | 251211 | [251211-speed-x-extreme-3d-car-racing.json](./251211-speed-x-extreme-3d-car-racing.json) |
 | Speed Zone | 51130 | [51130-speed-zone.json](./51130-speed-zone.json) |
+| Speed Zone | 79061 | [79061-speed-zone.json](./79061-speed-zone.json) |
 | Speedball | 10151 | [10151-speedball.json](./10151-speedball.json) |
 | Speedball | 340189 | [340189-speedball.json](./340189-speedball.json) |
 | Speedball 2 HD | 9027 | [9027-speedball-2-hd.json](./9027-speedball-2-hd.json) |
@@ -22439,6 +22442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Poker II | 78962 | [78962-strip-poker-ii.json](./78962-strip-poker-ii.json) |
 | Strip Poker II Plus | 39137 | [39137-strip-poker-ii-plus.json](./39137-strip-poker-ii-plus.json) |
 | Strip Poker Night at the Inventory | 134409 | [134409-strip-poker-night-at-the-inventory.json](./134409-strip-poker-night-at-the-inventory.json) |
+| Strip Poker Professional rev. B | 79096 | [79096-strip-poker-professional-rev-b.json](./79096-strip-poker-professional-rev-b.json) |
 | Strip Pot | 13056 | [13056-strip-pot.json](./13056-strip-pot.json) |
 | Strip Slot Sonja | 379642 | [379642-strip-slot-sonja.json](./379642-strip-slot-sonja.json) |
 | Strip4 | 93182 | [93182-strip4.json](./93182-strip4.json) |
