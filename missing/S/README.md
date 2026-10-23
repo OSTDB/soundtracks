@@ -6495,6 +6495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Fangame Tensei | 386549 | [386549-shin-fangame-tensei.json](./386549-shin-fangame-tensei.json) |
 | Shin Fumi Ikemen Ouoku Kinjirareta Koi | 229027 | [229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json](./229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json) |
 | Shin Galaxy: Engage | 259598 | [259598-shin-galaxy-engage.json](./259598-shin-galaxy-engage.json) |
+| Shin Gouketsuji Ichizoku: Bonnou no Kaihou | 71914 | [71914-shin-gouketsuji-ichizoku-bonnou-no-kaihou.json](./71914-shin-gouketsuji-ichizoku-bonnou-no-kaihou.json) |
 | Shin Gundam Musou | 52832 | [52832-shin-gundam-musou.json](./52832-shin-gundam-musou.json) |
 | Shin Hayarigami | 79331 | [79331-shin-hayarigami.json](./79331-shin-hayarigami.json) |
 | Shin Hayarigami 1-2 Pack | 118125 | [118125-shin-hayarigami-1-2-pack.json](./118125-shin-hayarigami-1-2-pack.json) |
@@ -10362,7 +10363,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayers | 146653 | [146653-slayers.json](./146653-slayers.json) |
 | Slayers | 42462 | [42462-slayers.json](./42462-slayers.json) |
 | Slayers for Hire | 130661 | [130661-slayers-for-hire.json](./130661-slayers-for-hire.json) |
+| Slayers Royal | 71895 | [71895-slayers-royal.json](./71895-slayers-royal.json) |
 | Slayers Royal 2 | 72660 | [72660-slayers-royal-2.json](./72660-slayers-royal-2.json) |
+| Slayers Wonderful | 71894 | [71894-slayers-wonderful.json](./71894-slayers-wonderful.json) |
 | Slayers, Inc. | 155364 | [155364-slayers-inc.json](./155364-slayers-inc.json) |
 | Slaygon | 55148 | [55148-slaygon.json](./55148-slaygon.json) |
 | Slayin | 59671 | [59671-slayin.json](./59671-slayin.json) |
@@ -22494,6 +22497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Poker Professional rev. B | 79096 | [79096-strip-poker-professional-rev-b.json](./79096-strip-poker-professional-rev-b.json) |
 | Strip Pot | 13056 | [13056-strip-pot.json](./13056-strip-pot.json) |
 | Strip Slot Sonja | 379642 | [379642-strip-slot-sonja.json](./379642-strip-slot-sonja.json) |
+| Strip-Poker | 71934 | [71934-strip-poker.json](./71934-strip-poker.json) |
 | Strip4 | 93182 | [93182-strip4.json](./93182-strip4.json) |
 | Stripe Physics | 95315 | [95315-stripe-physics.json](./95315-stripe-physics.json) |
 | Stripes | 305557 | [305557-stripes.json](./305557-stripes.json) |
