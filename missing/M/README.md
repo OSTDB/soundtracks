@@ -9086,6 +9086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike Piazza's Strike Zone | 3410 | [3410-mike-piazzas-strike-zone.json](./3410-mike-piazzas-strike-zone.json) |
 | Mike Read's Computer Pop Quiz | 71706 | [71706-mike-reads-computer-pop-quiz.json](./71706-mike-reads-computer-pop-quiz.json) |
 | Mike the Cat | 165739 | [165739-mike-the-cat.json](./165739-mike-the-cat.json) |
+| Mike the Knight and The Great Gallop | 84636 | [84636-mike-the-knight-and-the-great-gallop.json](./84636-mike-the-knight-and-the-great-gallop.json) |
 | Mike Tyson Boxing | 209511 | [209511-mike-tyson-boxing.json](./209511-mike-tyson-boxing.json) |
 | Mike Tyson Boxing | 23452 | [23452-mike-tyson-boxing.json](./23452-mike-tyson-boxing.json) |
 | Mike Tyson Heavyweight Boxing | 24076 | [24076-mike-tyson-heavyweight-boxing.json](./24076-mike-tyson-heavyweight-boxing.json) |
@@ -9124,6 +9125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MikoVerse | 288148 | [288148-mikoverse.json](./288148-mikoverse.json) |
 | Mikro Mortal Tennis | 73473 | [73473-mikro-mortal-tennis.json](./73473-mikro-mortal-tennis.json) |
 | Mikrocosmos | 232944 | [232944-mikrocosmos.json](./232944-mikrocosmos.json) |
+| MikroGame: Rotator | 84635 | [84635-mikrogame-rotator.json](./84635-mikrogame-rotator.json) |
 | Miku Chan's Robot | 277400 | [277400-miku-chans-robot.json](./277400-miku-chans-robot.json) |
 | Miku Legends 2 | 328207 | [328207-miku-legends-2.json](./328207-miku-legends-2.json) |
 | Miku Miku Hockey | 62780 | [62780-miku-miku-hockey.json](./62780-miku-miku-hockey.json) |
@@ -10089,6 +10091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Raid Leader | 398999 | [398999-mini-raid-leader.json](./398999-mini-raid-leader.json) |
 | Mini Railway | 132455 | [132455-mini-railway.json](./132455-mini-railway.json) |
 | Mini Ranger | 255127 | [255127-mini-ranger.json](./255127-mini-ranger.json) |
+| Mini RC Rally | 84634 | [84634-mini-rc-rally.json](./84634-mini-rc-rally.json) |
 | Mini Reaper | 307122 | [307122-mini-reaper.json](./307122-mini-reaper.json) |
 | Mini Rocket | 412301 | [412301-mini-rocket.json](./412301-mini-rocket.json) |
 | Mini Rogue | 144376 | [144376-mini-rogue.json](./144376-mini-rogue.json) |
@@ -10102,6 +10105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Speedy Racers | 240212 | [240212-mini-speedy-racers.json](./240212-mini-speedy-racers.json) |
 | Mini Spheres | 72311 | [72311-mini-spheres.json](./72311-mini-spheres.json) |
 | Mini Sports | 244693 | [244693-mini-sports.json](./244693-mini-sports.json) |
+| Mini Sports Collection | 84633 | [84633-mini-sports-collection.json](./84633-mini-sports-collection.json) |
 | Mini Star Imposters | 285419 | [285419-mini-star-imposters.json](./285419-mini-star-imposters.json) |
 | Mini Star Quest | 344948 | [344948-mini-star-quest.json](./344948-mini-star-quest.json) |
 | Mini Star Survivor | 262902 | [262902-mini-star-survivor.json](./262902-mini-star-survivor.json) |
@@ -16556,7 +16560,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Street | 19306 | [19306-my-street.json](./19306-my-street.json) |
 | My Strong Horse | 164256 | [164256-my-strong-horse.json](./164256-my-strong-horse.json) |
 | My Strongest Girlfriend | 316651 | [316651-my-strongest-girlfriend.json](./316651-my-strongest-girlfriend.json) |
+| My Style Studio: Hair Salon | 84711 | [84711-my-style-studio-hair-salon.json](./84711-my-style-studio-hair-salon.json) |
 | My Style Studio: Hair Salon | 84712 | [84712-my-style-studio-hair-salon.json](./84712-my-style-studio-hair-salon.json) |
+| My Style Studio: Notebook | 84710 | [84710-my-style-studio-notebook.json](./84710-my-style-studio-notebook.json) |
 | My Sudoku | 321960 | [321960-my-sudoku.json](./321960-my-sudoku.json) |
 | My Sudoku: Classic 4x4 Easy 10 | 321961 | [321961-my-sudoku-classic-4x4-easy-10.json](./321961-my-sudoku-classic-4x4-easy-10.json) |
 | My Sudoku: Classic 4x4 Easy 2 | 321962 | [321962-my-sudoku-classic-4x4-easy-2.json](./321962-my-sudoku-classic-4x4-easy-2.json) |
@@ -16716,6 +16722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Very Hungry Caterpillar AR | 109544 | [109544-my-very-hungry-caterpillar-ar.json](./109544-my-very-hungry-caterpillar-ar.json) |
 | My Very Own Lair | 158563 | [158563-my-very-own-lair.json](./158563-my-very-own-lair.json) |
 | My Very Own Train Station | 179413 | [179413-my-very-own-train-station.json](./179413-my-very-own-train-station.json) |
+| My Vet Practice 3D - In the Country | 84709 | [84709-my-vet-practice-3d-in-the-country.json](./84709-my-vet-practice-3d-in-the-country.json) |
 | My Video Game Girlfriend | 206000 | [206000-my-video-game-girlfriend.json](./206000-my-video-game-girlfriend.json) |
 | My Village Life | 166506 | [166506-my-village-life.json](./166506-my-village-life.json) |
 | My Vineyard | 92440 | [92440-my-vineyard.json](./92440-my-vineyard.json) |
@@ -16733,6 +16740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Way VR | 75406 | [75406-my-way-vr.json](./75406-my-way-vr.json) |
 | My Wedding and 7 Rings | 238423 | [238423-my-wedding-and-7-rings.json](./238423-my-wedding-and-7-rings.json) |
 | My Weight Loss Coach | 47900 | [47900-my-weight-loss-coach.json](./47900-my-weight-loss-coach.json) |
+| My Western Horse 3D | 84708 | [84708-my-western-horse-3d.json](./84708-my-western-horse-3d.json) |
 | My Wet Leto Comic | 129118 | [129118-my-wet-leto-comic.json](./129118-my-wet-leto-comic.json) |
 | My Wife | 339913 | [339913-my-wife.json](./339913-my-wife.json) |
 | My Wife Is a Football Coach | 389639 | [389639-my-wife-is-a-football-coach.json](./389639-my-wife-is-a-football-coach.json) |
@@ -16760,6 +16768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Zombies Are Hungry | 418792 | [418792-my-zombies-are-hungry.json](./418792-my-zombies-are-hungry.json) |
 | My Zoo | 50707 | [50707-my-zoo.json](./50707-my-zoo.json) |
 | My Zoo - Craft Dino Tycoon | 104528 | [104528-my-zoo-craft-dino-tycoon.json](./104528-my-zoo-craft-dino-tycoon.json) |
+| My Zoo Vet Practice 3D | 84707 | [84707-my-zoo-vet-practice-3d.json](./84707-my-zoo-vet-practice-3d.json) |
 | MY: Commander | 79157 | [79157-my-commander.json](./79157-my-commander.json) |
 | Mya Master Mind | 245675 | [245675-mya-master-mind.json](./245675-mya-master-mind.json) |
 | MyaoSoft Garake Collection | 212644 | [212644-myaosoft-garake-collection.json](./212644-myaosoft-garake-collection.json) |
@@ -17038,6 +17047,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Mine | 30134 | [30134-mystery-mine.json](./30134-mystery-mine.json) |
 | Mystery Miniaturist | 183266 | [183266-mystery-miniaturist.json](./183266-mystery-miniaturist.json) |
 | Mystery Mosaics 2 | 91090 | [91090-mystery-mosaics-2.json](./91090-mystery-mosaics-2.json) |
+| Mystery Murders: Jack the Ripper | 84703 | [84703-mystery-murders-jack-the-ripper.json](./84703-mystery-murders-jack-the-ripper.json) |
+| Mystery Murders: The Sleeping Palace | 84702 | [84702-mystery-murders-the-sleeping-palace.json](./84702-mystery-murders-the-sleeping-palace.json) |
 | Mystery Museum | 146858 | [146858-mystery-museum.json](./146858-mystery-museum.json) |
 | Mystery Objects | 152025 | [152025-mystery-objects.json](./152025-mystery-objects.json) |
 | Mystery of Ancients: Dagger | 106989 | [106989-mystery-of-ancients-dagger.json](./106989-mystery-of-ancients-dagger.json) |
