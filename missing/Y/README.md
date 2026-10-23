@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuka: Scattered Shards of the Yokai | 247461 | [247461-yuka-scattered-shards-of-the-yokai.json](./247461-yuka-scattered-shards-of-the-yokai.json) |
 | Yukai de Kudaranai Game | 331875 | [331875-yukai-de-kudaranai-game.json](./331875-yukai-de-kudaranai-game.json) |
 | Yukar From the Abyss | 216808 | [216808-yukar-from-the-abyss.json](./216808-yukar-from-the-abyss.json) |
+| Yukawa Motosenmu no Otakara Sagashi | 72475 | [72475-yukawa-motosenmu-no-otakara-sagashi.json](./72475-yukawa-motosenmu-no-otakara-sagashi.json) |
 | Yuke Yuke Aku no Monmusu Gundan! Kaijin Musume ni Shibori Torareru Ecchi de Kakoku na Sekai Seifuku Daisakusen | 77867 | [77867-yuke-yuke-aku-no-monmusu-gundan-kaijin-musume-ni-shibori-torareru-ecchi-de-kakoku-na-sekai-seifuku-daisakusen.json](./77867-yuke-yuke-aku-no-monmusu-gundan-kaijin-musume-ni-shibori-torareru-ecchi-de-kakoku-na-sekai-seifuku-daisakusen.json) |
 | Yuki and Rina Football | 204276 | [204276-yuki-and-rina-football.json](./204276-yuki-and-rina-football.json) |
 | Yuki ha Toketa no ni, Boku no Tenohira Dake ga Cocoa no Nukumori wo Oboeteru | 387731 | [387731-yuki-ha-toketa-no-ni-boku-no-tenohira-dake-ga-cocoa-no-nukumori-wo-oboeteru.json](./387731-yuki-ha-toketa-no-ni-boku-no-tenohira-dake-ga-cocoa-no-nukumori-wo-oboeteru.json) |
