@@ -1564,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underwater Cities | 249936 | [249936-underwater-cities.json](./249936-underwater-cities.json) |
 | Underwater Cycling | 368645 | [368645-underwater-cycling.json](./368645-underwater-cycling.json) |
 | Underwater Diving | 224547 | [224547-underwater-diving.json](./224547-underwater-diving.json) |
+| Underwater Feeds & Fish Grows | 90413 | [90413-underwater-feeds-and-fish-grows.json](./90413-underwater-feeds-and-fish-grows.json) |
 | Underwater hunting | 104158 | [104158-underwater-hunting.json](./104158-underwater-hunting.json) |
 | Underwater Life | 148514 | [148514-underwater-life.json](./148514-underwater-life.json) |
 | Underwater Life Bundle | 273005 | [273005-underwater-life-bundle.json](./273005-underwater-life-bundle.json) |
