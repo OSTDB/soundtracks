@@ -4994,6 +4994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EuroLeague Football | 24130 | [24130-euroleague-football.json](./24130-euroleague-football.json) |
 | Europa | 130893 | [130893-europa.json](./130893-europa.json) |
 | Europa 1400: The Guild | 681 | [681-europa-1400-the-guild.json](./681-europa-1400-the-guild.json) |
+| Europa 1400: The Guild - Expansion Pack | 96545 | [96545-europa-1400-the-guild-expansion-pack.json](./96545-europa-1400-the-guild-expansion-pack.json) |
 | Europa Barbarorum | 137059 | [137059-europa-barbarorum.json](./137059-europa-barbarorum.json) |
 | Europa Concept | 64302 | [64302-europa-concept.json](./64302-europa-concept.json) |
 | Europa One | 371918 | [371918-europa-one.json](./371918-europa-one.json) |
