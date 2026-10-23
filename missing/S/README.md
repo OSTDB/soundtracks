@@ -3730,6 +3730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Mansion | 184442 | [184442-secrets-of-the-mansion.json](./184442-secrets-of-the-mansion.json) |
 | Secrets of the Middle Ages | 165660 | [165660-secrets-of-the-middle-ages.json](./165660-secrets-of-the-middle-ages.json) |
 | Secrets of the Past: Dion | 110895 | [110895-secrets-of-the-past-dion.json](./110895-secrets-of-the-past-dion.json) |
+| Secrets of the Seas | 53585 | [53585-secrets-of-the-seas.json](./53585-secrets-of-the-seas.json) |
 | Secrets of the Shiratori Twins | 247413 | [247413-secrets-of-the-shiratori-twins.json](./247413-secrets-of-the-shiratori-twins.json) |
 | Secrets of the Shore | 293839 | [293839-secrets-of-the-shore.json](./293839-secrets-of-the-shore.json) |
 | Secrets of the Temple | 193416 | [193416-secrets-of-the-temple.json](./193416-secrets-of-the-temple.json) |
@@ -4638,6 +4639,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam | 198137 | [198137-serious-sam.json](./198137-serious-sam.json) |
 | Serious Sam | 291050 | [291050-serious-sam.json](./291050-serious-sam.json) |
 | Serious Sam 3: BFE | 527 | [527-serious-sam-3-bfe.json](./527-serious-sam-3-bfe.json) |
+| Serious Sam 3: BFE - Serious Digital Edition | 53587 | [53587-serious-sam-3-bfe-serious-digital-edition.json](./53587-serious-sam-3-bfe-serious-digital-edition.json) |
+| Serious Sam 3: BFE Gold Edition | 53586 | [53586-serious-sam-3-bfe-gold-edition.json](./53586-serious-sam-3-bfe-gold-edition.json) |
 | Serious Sam 3: Jewel of the Nile | 10817 | [10817-serious-sam-3-jewel-of-the-nile.json](./10817-serious-sam-3-jewel-of-the-nile.json) |
 | Serious Sam 4: Deluxe Edition | 154536 | [154536-serious-sam-4-deluxe-edition.json](./154536-serious-sam-4-deluxe-edition.json) |
 | Serious Sam Advance | 6587 | [6587-serious-sam-advance.json](./6587-serious-sam-advance.json) |
@@ -4645,6 +4648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam Collection | 141060 | [141060-serious-sam-collection.json](./141060-serious-sam-collection.json) |
 | Serious Sam Forever | 336017 | [336017-serious-sam-forever.json](./336017-serious-sam-forever.json) |
 | Serious Sam Fusion 2017 | 91191 | [91191-serious-sam-fusion-2017.json](./91191-serious-sam-fusion-2017.json) |
+| Serious Sam HD: Gold Collection | 53588 | [53588-serious-sam-hd-gold-collection.json](./53588-serious-sam-hd-gold-collection.json) |
 | Serious Sam HD: The First Encounter | 13180 | [13180-serious-sam-hd-the-first-encounter.json](./13180-serious-sam-hd-the-first-encounter.json) |
 | Serious Sam HD: The Second Encounter | 13181 | [13181-serious-sam-hd-the-second-encounter.json](./13181-serious-sam-hd-the-second-encounter.json) |
 | Serious Sam HD: The Second Encounter - Legend of the Beast | 170923 | [170923-serious-sam-hd-the-second-encounter-legend-of-the-beast.json](./170923-serious-sam-hd-the-second-encounter-legend-of-the-beast.json) |
@@ -5469,6 +5473,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Warrior 3: Definitive Edition | 237681 | [237681-shadow-warrior-3-definitive-edition.json](./237681-shadow-warrior-3-definitive-edition.json) |
 | Shadow Warrior 3: Deluxe Edition | 193749 | [193749-shadow-warrior-3-deluxe-edition.json](./193749-shadow-warrior-3-deluxe-edition.json) |
 | Shadow Warrior Classic Complete | 51914 | [51914-shadow-warrior-classic-complete.json](./51914-shadow-warrior-classic-complete.json) |
+| Shadow Warrior Collection | 53591 | [53591-shadow-warrior-collection.json](./53591-shadow-warrior-collection.json) |
+| Shadow Warrior: Special Edition | 53592 | [53592-shadow-warrior-special-edition.json](./53592-shadow-warrior-special-edition.json) |
 | Shadow Warriors | 6878 | [6878-shadow-warriors.json](./6878-shadow-warriors.json) |
 | Shadow Wars | 98553 | [98553-shadow-wars.json](./98553-shadow-wars.json) |
 | Shadow Wolf Mysteries: Bane of the Family | 139734 | [139734-shadow-wolf-mysteries-bane-of-the-family.json](./139734-shadow-wolf-mysteries-bane-of-the-family.json) |
@@ -5551,10 +5557,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrite | 403712 | [403712-shadowrite.json](./403712-shadowrite.json) |
 | Shadowrun | 7640 | [7640-shadowrun.json](./7640-shadowrun.json) |
 | Shadowrun | 78514 | [78514-shadowrun.json](./78514-shadowrun.json) |
+| Shadowrun Chronicles: Boston Lockdown - Deluxe Edition | 53605 | [53605-shadowrun-chronicles-boston-lockdown-deluxe-edition.json](./53605-shadowrun-chronicles-boston-lockdown-deluxe-edition.json) |
 | Shadowrun Chronicles: Boston Lockdown - Infected! | 171351 | [171351-shadowrun-chronicles-boston-lockdown-infected.json](./171351-shadowrun-chronicles-boston-lockdown-infected.json) |
 | Shadowrun Chronicles: Boston Lockdown - Missions | 193178 | [193178-shadowrun-chronicles-boston-lockdown-missions.json](./193178-shadowrun-chronicles-boston-lockdown-missions.json) |
+| Shadowrun Chronicles: Boston Lockdown - Runner's Edition | 53604 | [53604-shadowrun-chronicles-boston-lockdown-runners-edition.json](./53604-shadowrun-chronicles-boston-lockdown-runners-edition.json) |
 | Shadowrun Chronicles: Infected - Missions | 171365 | [171365-shadowrun-chronicles-infected-missions.json](./171365-shadowrun-chronicles-infected-missions.json) |
 | Shadowrun Collection | 136925 | [136925-shadowrun-collection.json](./136925-shadowrun-collection.json) |
+| Shadowrun Complete Collection | 53603 | [53603-shadowrun-complete-collection.json](./53603-shadowrun-complete-collection.json) |
 | Shadowrun: Dragonfall - Director's Cut | 8864 | [8864-shadowrun-dragonfall-directors-cut.json](./8864-shadowrun-dragonfall-directors-cut.json) |
 | Shadowrun: Hong Kong - Extended Edition | 35842 | [35842-shadowrun-hong-kong-extended-edition.json](./35842-shadowrun-hong-kong-extended-edition.json) |
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
@@ -5651,6 +5660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shady Business | 195198 | [195198-shady-business.json](./195198-shady-business.json) |
 | Shady Business | 408028 | [408028-shady-business.json](./408028-shady-business.json) |
 | Shady Lewd Kart: Wild Woody Character Pack | 295113 | [295113-shady-lewd-kart-wild-woody-character-pack.json](./295113-shady-lewd-kart-wild-woody-character-pack.json) |
+| Shady Mission | 53602 | [53602-shady-mission.json](./53602-shady-mission.json) |
 | Shady O'Grady's Overnight Sensation | 391234 | [391234-shady-ogradys-overnight-sensation.json](./391234-shady-ogradys-overnight-sensation.json) |
 | Shady O'Grady's Rising Star | 21445 | [21445-shady-ogradys-rising-star.json](./21445-shady-ogradys-rising-star.json) |
 | Shady Part of Me | 121404 | [121404-shady-part-of-me.json](./121404-shady-part-of-me.json) |
@@ -5942,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharded World: Backpack Adventure | 279116 | [279116-sharded-world-backpack-adventure.json](./279116-sharded-world-backpack-adventure.json) |
 | Shardfall: FitQuest VR | 296226 | [296226-shardfall-fitquest-vr.json](./296226-shardfall-fitquest-vr.json) |
 | Shardhunters | 128282 | [128282-shardhunters.json](./128282-shardhunters.json) |
+| Shardlight: Deluxe | 53601 | [53601-shardlight-deluxe.json](./53601-shardlight-deluxe.json) |
 | Shardlight: Special Edition | 51912 | [51912-shardlight-special-edition.json](./51912-shardlight-special-edition.json) |
 | Shardpunk: Verminfall - Rat Pack | 255149 | [255149-shardpunk-verminfall-rat-pack.json](./255149-shardpunk-verminfall-rat-pack.json) |
 | Shards of Azuria | 32164 | [32164-shards-of-azuria.json](./32164-shards-of-azuria.json) |
@@ -6286,6 +6297,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelter of Sursur | 350367 | [350367-shelter-of-sursur.json](./350367-shelter-of-sursur.json) |
 | Shelter of Sursur 2 | 350606 | [350606-shelter-of-sursur-2.json](./350606-shelter-of-sursur-2.json) |
 | Shelter War | 141458 | [141458-shelter-war.json](./141458-shelter-war.json) |
+| Shelter: Complete Edition | 53600 | [53600-shelter-complete-edition.json](./53600-shelter-complete-edition.json) |
+| Shelter: The Heart Edition | 53599 | [53599-shelter-the-heart-edition.json](./53599-shelter-the-heart-edition.json) |
 | Sheltered 2 | 152285 | [152285-sheltered-2.json](./152285-sheltered-2.json) |
 | Sheltered Double Pack | 186885 | [186885-sheltered-double-pack.json](./186885-sheltered-double-pack.json) |
 | Sheltered From the Storm | 373865 | [373865-sheltered-from-the-storm.json](./373865-sheltered-from-the-storm.json) |
@@ -6860,12 +6873,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiny-Man-Adventures | 211751 | [211751-shiny-man-adventures.json](./211751-shiny-man-adventures.json) |
 | Shiny: A Robotic Adventure | 99726 | [99726-shiny-a-robotic-adventure.json](./99726-shiny-a-robotic-adventure.json) |
 | Shiny: Deluxe Edition | 118929 | [118929-shiny-deluxe-edition.json](./118929-shiny-deluxe-edition.json) |
+| Shiny: Digital Deluxe Edition | 53598 | [53598-shiny-digital-deluxe-edition.json](./53598-shiny-digital-deluxe-edition.json) |
 | Shinya Ichi-ji no Koukanshu | 329234 | [329234-shinya-ichi-ji-no-koukanshu.json](./329234-shinya-ichi-ji-no-koukanshu.json) |
 | Shinya Ichizoku: The Battle for Hokkaido's Delicious Foods | 186908 | [186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json](./186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json) |
 | Shinyaku Boushi Sekai | 396208 | [396208-shinyaku-boushi-sekai.json](./396208-shinyaku-boushi-sekai.json) |
 | Shinyuu no Haha Kumiko: Ana no Ichi kara Haramase Kata made Subete Kanojo ga Oshiete Kureta | 83000 | [83000-shinyuu-no-haha-kumiko-ana-no-ichi-kara-haramase-kata-made-subete-kanojo-ga-oshiete-kureta.json](./83000-shinyuu-no-haha-kumiko-ana-no-ichi-kara-haramase-kata-made-subete-kanojo-ga-oshiete-kureta.json) |
 | Shinzen Hollow | 292512 | [292512-shinzen-hollow.json](./292512-shinzen-hollow.json) |
 | Shio | 31393 | [31393-shio.json](./31393-shio.json) |
+| Shio: Deluxe Edition | 53597 | [53597-shio-deluxe-edition.json](./53597-shio-deluxe-edition.json) |
 | Shion no Ou: The Flowers of Hard Blood | 122896 | [122896-shion-no-ou-the-flowers-of-hard-blood.json](./122896-shion-no-ou-the-flowers-of-hard-blood.json) |
 | Shion to One Room: Kizuna Kirameku Koi Iroha SS | 371592 | [371592-shion-to-one-room-kizuna-kirameku-koi-iroha-ss.json](./371592-shion-to-one-room-kizuna-kirameku-koi-iroha-ss.json) |
 | Shiori no Kotoha: Dark Reflections | 186841 | [186841-shiori-no-kotoha-dark-reflections.json](./186841-shiori-no-kotoha-dark-reflections.json) |
@@ -6909,6 +6924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Simulator Extremes | 3209 | [3209-ship-simulator-extremes.json](./3209-ship-simulator-extremes.json) |
 | Ship Simulator Extremes: Cargo Vessel | 10824 | [10824-ship-simulator-extremes-cargo-vessel.json](./10824-ship-simulator-extremes-cargo-vessel.json) |
 | Ship Simulator Extremes: Cargo Vessel | 10825 | [10825-ship-simulator-extremes-cargo-vessel.json](./10825-ship-simulator-extremes-cargo-vessel.json) |
+| Ship Simulator Extremes: Collection | 53596 | [53596-ship-simulator-extremes-collection.json](./53596-ship-simulator-extremes-collection.json) |
 | Ship Simulator Extremes: Ferry Pack | 10826 | [10826-ship-simulator-extremes-ferry-pack.json](./10826-ship-simulator-extremes-ferry-pack.json) |
 | Ship Simulator Extremes: Inland Shipping | 10830 | [10830-ship-simulator-extremes-inland-shipping.json](./10830-ship-simulator-extremes-inland-shipping.json) |
 | Ship Simulator Extremes: Ocean Cruise Ship | 10827 | [10827-ship-simulator-extremes-ocean-cruise-ship.json](./10827-ship-simulator-extremes-ocean-cruise-ship.json) |
@@ -7230,6 +7246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooter Game | 107871 | [107871-shooter-game.json](./107871-shooter-game.json) |
 | Shooter League: Robot Goal | 198312 | [198312-shooter-league-robot-goal.json](./198312-shooter-league-robot-goal.json) |
 | Shooter of the Arcana | 319948 | [319948-shooter-of-the-arcana.json](./319948-shooter-of-the-arcana.json) |
+| Shooter of War | 53594 | [53594-shooter-of-war.json](./53594-shooter-of-war.json) |
 | Shooter Thing 2 | 60863 | [60863-shooter-thing-2.json](./60863-shooter-thing-2.json) |
 | Shooter: Space Shot | 72976 | [72976-shooter-space-shot.json](./72976-shooter-space-shot.json) |
 | Shooter's Island | 187143 | [187143-shooters-island.json](./187143-shooters-island.json) |
@@ -7272,6 +7289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Hunter Terrorist | 103155 | [103155-shooting-hunter-terrorist.json](./103155-shooting-hunter-terrorist.json) |
 | Shooting Hurts | 109356 | [109356-shooting-hurts.json](./109356-shooting-hurts.json) |
 | Shooting King | 105518 | [105518-shooting-king.json](./105518-shooting-king.json) |
+| Shooting Love 20XX | 53593 | [53593-shooting-love-20xx.json](./53593-shooting-love-20xx.json) |
 | Shooting Love. 10-shuunen | 268857 | [268857-shooting-love-10-shuunen.json](./268857-shooting-love-10-shuunen.json) |
 | Shooting Love. 2007 | 83422 | [83422-shooting-love-2007.json](./83422-shooting-love-2007.json) |
 | Shooting Master | 366914 | [366914-shooting-master.json](./366914-shooting-master.json) |
@@ -7893,6 +7911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization II: Conflicts in Civilization | 115032 | [115032-sid-meiers-civilization-ii-conflicts-in-civilization.json](./115032-sid-meiers-civilization-ii-conflicts-in-civilization.json) |
 | Sid Meier's Civilization II: Fantastic Worlds | 72019 | [72019-sid-meiers-civilization-ii-fantastic-worlds.json](./72019-sid-meiers-civilization-ii-fantastic-worlds.json) |
 | Sid Meier's Civilization III | 310 | [310-sid-meiers-civilization-iii.json](./310-sid-meiers-civilization-iii.json) |
+| Sid Meier's Civilization III: Game of the Year Edition | 53609 | [53609-sid-meiers-civilization-iii-game-of-the-year-edition.json](./53609-sid-meiers-civilization-iii-game-of-the-year-edition.json) |
 | Sid Meier's Civilization III: Gold Edition | 55119 | [55119-sid-meiers-civilization-iii-gold-edition.json](./55119-sid-meiers-civilization-iii-gold-edition.json) |
 | Sid Meier's Civilization III: Play the World | 10831 | [10831-sid-meiers-civilization-iii-play-the-world.json](./10831-sid-meiers-civilization-iii-play-the-world.json) |
 | Sid Meier's Civilization IV: Complete Edition | 54356 | [54356-sid-meiers-civilization-iv-complete-edition.json](./54356-sid-meiers-civilization-iv-complete-edition.json) |
@@ -7922,6 +7941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: Australia Civilization & Scenario Pack | 164401 | [164401-sid-meiers-civilization-vi-australia-civilization-and-scenario-pack.json](./164401-sid-meiers-civilization-vi-australia-civilization-and-scenario-pack.json) |
 | Sid Meier's Civilization VI: Babylon Pack | 141185 | [141185-sid-meiers-civilization-vi-babylon-pack.json](./141185-sid-meiers-civilization-vi-babylon-pack.json) |
 | Sid Meier's Civilization VI: Byzantium & Gaul Pack | 139967 | [139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json](./139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json) |
+| Sid Meier's Civilization VI: Digital Deluxe Edition | 53611 | [53611-sid-meiers-civilization-vi-digital-deluxe-edition.json](./53611-sid-meiers-civilization-vi-digital-deluxe-edition.json) |
 | Sid Meier's Civilization VI: Ethiopia Pack | 164402 | [164402-sid-meiers-civilization-vi-ethiopia-pack.json](./164402-sid-meiers-civilization-vi-ethiopia-pack.json) |
 | Sid Meier's Civilization VI: Fire Keeper Pack | 276031 | [276031-sid-meiers-civilization-vi-fire-keeper-pack.json](./276031-sid-meiers-civilization-vi-fire-keeper-pack.json) |
 | Sid Meier's Civilization VI: John Riccitiello Pack | 277374 | [277374-sid-meiers-civilization-vi-john-riccitiello-pack.json](./277374-sid-meiers-civilization-vi-john-riccitiello-pack.json) |
@@ -7985,6 +8005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization: Beyond Earth | 6038 | [6038-sid-meiers-civilization-beyond-earth.json](./6038-sid-meiers-civilization-beyond-earth.json) |
 | Sid Meier's Civilization: Beyond Earth - Exoplanets Map Pack | 170843 | [170843-sid-meiers-civilization-beyond-earth-exoplanets-map-pack.json](./170843-sid-meiers-civilization-beyond-earth-exoplanets-map-pack.json) |
 | Sid Meier's Civilization: Beyond Earth - Rising Tide | 10502 | [10502-sid-meiers-civilization-beyond-earth-rising-tide.json](./10502-sid-meiers-civilization-beyond-earth-rising-tide.json) |
+| Sid Meier's Civilization: Beyond Earth - The Collection | 53608 | [53608-sid-meiers-civilization-beyond-earth-the-collection.json](./53608-sid-meiers-civilization-beyond-earth-the-collection.json) |
 | Sid Meier's CivNet | 21930 | [21930-sid-meiers-civnet.json](./21930-sid-meiers-civnet.json) |
 | Sid Meier's Pirates! | 210477 | [210477-sid-meiers-pirates.json](./210477-sid-meiers-pirates.json) |
 | Sid Meier's Pirates! | 210478 | [210478-sid-meiers-pirates.json](./210478-sid-meiers-pirates.json) |
@@ -8305,6 +8326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hunter | 287557 | [287557-silent-hunter.json](./287557-silent-hunter.json) |
 | Silent Hunter 4: Wolves of the Pacific - U-Boat Missions | 994 | [994-silent-hunter-4-wolves-of-the-pacific-u-boat-missions.json](./994-silent-hunter-4-wolves-of-the-pacific-u-boat-missions.json) |
 | Silent Hunter 5: Battle of the Atlantic | 995 | [995-silent-hunter-5-battle-of-the-atlantic.json](./995-silent-hunter-5-battle-of-the-atlantic.json) |
+| Silent Hunter 5: Battle of the Atlantic - Gold Edition | 53612 | [53612-silent-hunter-5-battle-of-the-atlantic-gold-edition.json](./53612-silent-hunter-5-battle-of-the-atlantic-gold-edition.json) |
 | Silent Hunter III | 870 | [870-silent-hunter-iii.json](./870-silent-hunter-iii.json) |
 | Silent Hunter Online | 3449 | [3449-silent-hunter-online.json](./3449-silent-hunter-online.json) |
 | Silent Hunter Patrol Disk | 85938 | [85938-silent-hunter-patrol-disk.json](./85938-silent-hunter-patrol-disk.json) |
@@ -8366,6 +8388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Still | 312219 | [312219-silent-still.json](./312219-silent-still.json) |
 | Silent Still III | 387378 | [387378-silent-still-iii.json](./387378-silent-still-iii.json) |
 | Silent Storm | 10844 | [10844-silent-storm.json](./10844-silent-storm.json) |
+| Silent Storm: Gold Edition | 53613 | [53613-silent-storm-gold-edition.json](./53613-silent-storm-gold-edition.json) |
 | Silent Storm: Sentinels | 10845 | [10845-silent-storm-sentinels.json](./10845-silent-storm-sentinels.json) |
 | Silent Streets: Mockingbird | 109511 | [109511-silent-streets-mockingbird.json](./109511-silent-streets-mockingbird.json) |
 | Silent Streets: The Mockingbird's Last Dive | 110290 | [110290-silent-streets-the-mockingbirds-last-dive.json](./110290-silent-streets-the-mockingbirds-last-dive.json) |
@@ -9123,6 +9146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sins | 183078 | [183078-sins.json](./183078-sins.json) |
 | Sins From Magdala | 213456 | [213456-sins-from-magdala.json](./213456-sins-from-magdala.json) |
 | Sins of a Solar Empire | 872 | [872-sins-of-a-solar-empire.json](./872-sins-of-a-solar-empire.json) |
+| Sins of a Solar Empire Gold | 53614 | [53614-sins-of-a-solar-empire-gold.json](./53614-sins-of-a-solar-empire-gold.json) |
 | Sins of a Solar Empire II | 223457 | [223457-sins-of-a-solar-empire-ii.json](./223457-sins-of-a-solar-empire-ii.json) |
 | Sins of a Solar Empire II: Content Pass | 369866 | [369866-sins-of-a-solar-empire-ii-content-pass.json](./369866-sins-of-a-solar-empire-ii-content-pass.json) |
 | Sins of a Solar Empire II: Harbinger | 369870 | [369870-sins-of-a-solar-empire-ii-harbinger.json](./369870-sins-of-a-solar-empire-ii-harbinger.json) |
@@ -10036,6 +10060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Survivors | 240664 | [240664-sky-survivors.json](./240664-sky-survivors.json) |
 | Sky Symphony | 242583 | [242583-sky-symphony.json](./242583-sky-symphony.json) |
 | Sky Target | 25173 | [25173-sky-target.json](./25173-sky-target.json) |
+| Sky Taxi | 53615 | [53615-sky-taxi.json](./53615-sky-taxi.json) |
 | Sky Taxi 2: Storm 2012 | 54368 | [54368-sky-taxi-2-storm-2012.json](./54368-sky-taxi-2-storm-2012.json) |
 | Sky Taxi 3: The Movie | 54369 | [54369-sky-taxi-3-the-movie.json](./54369-sky-taxi-3-the-movie.json) |
 | Sky Taxi 4: Top Secret | 54371 | [54371-sky-taxi-4-top-secret.json](./54371-sky-taxi-4-top-secret.json) |
@@ -10188,6 +10213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skynet Simulator | 177429 | [177429-skynet-simulator.json](./177429-skynet-simulator.json) |
 | SkyOfSteel | 177017 | [177017-skyofsteel.json](./177017-skyofsteel.json) |
 | Skypop Scramble | 323750 | [323750-skypop-scramble.json](./323750-skypop-scramble.json) |
+| Skyraine | 53616 | [53616-skyraine.json](./53616-skyraine.json) |
 | Skyratz | 157366 | [157366-skyratz.json](./157366-skyratz.json) |
 | Skyreach | 33023 | [33023-skyreach.json](./33023-skyreach.json) |
 | SkyRider | 191582 | [191582-skyrider.json](./191582-skyrider.json) |
@@ -10877,6 +10903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingo 15th Anniversary Edition | 208976 | [208976-slingo-15th-anniversary-edition.json](./208976-slingo-15th-anniversary-edition.json) |
 | Slingo Adventure | 234185 | [234185-slingo-adventure.json](./234185-slingo-adventure.json) |
 | Slingo Deluxe Bundle | 208921 | [208921-slingo-deluxe-bundle.json](./208921-slingo-deluxe-bundle.json) |
+| Slingo Mystery: Who's Gold | 53617 | [53617-slingo-mystery-whos-gold.json](./53617-slingo-mystery-whos-gold.json) |
 | Slingo Quest Hawaii | 73807 | [73807-slingo-quest-hawaii.json](./73807-slingo-quest-hawaii.json) |
 | Slingoween | 338940 | [338940-slingoween.json](./338940-slingoween.json) |
 | Slingray | 62494 | [62494-slingray.json](./62494-slingray.json) |
@@ -10890,6 +10917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot Explorer: The Twelve Towers | 110142 | [110142-slingshot-explorer-the-twelve-towers.json](./110142-slingshot-explorer-the-twelve-towers.json) |
 | Slingshot Fun Collection | 386213 | [386213-slingshot-fun-collection.json](./386213-slingshot-fun-collection.json) |
 | Slingshot Hero VR | 50546 | [50546-slingshot-hero-vr.json](./50546-slingshot-hero-vr.json) |
+| Slingshot hunter | 53618 | [53618-slingshot-hunter.json](./53618-slingshot-hunter.json) |
 | Slingshot Pilot | 373208 | [373208-slingshot-pilot.json](./373208-slingshot-pilot.json) |
 | Slingshot Protocol | 260572 | [260572-slingshot-protocol.json](./260572-slingshot-protocol.json) |
 | Slingshot Puzzle | 43112 | [43112-slingshot-puzzle.json](./43112-slingshot-puzzle.json) |
@@ -11541,6 +11569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smove | 58502 | [58502-smove.json](./58502-smove.json) |
 | SmRPG: The Basic | 213820 | [213820-smrpg-the-basic.json](./213820-smrpg-the-basic.json) |
 | SMS 207 | 420490 | [420490-sms-207.json](./420490-sms-207.json) |
+| SMS Master Blaster! | 53619 | [53619-sms-master-blaster.json](./53619-sms-master-blaster.json) |
 | SMS Returns | 421213 | [421213-sms-returns.json](./421213-sms-returns.json) |
 | Smuc's | 93477 | [93477-smucs.json](./93477-smucs.json) |
 | Smudge & The Moonees | 367174 | [367174-smudge-and-the-moonees.json](./367174-smudge-and-the-moonees.json) |
@@ -11860,6 +11889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapshot | 159776 | [159776-snapshot.json](./159776-snapshot.json) |
 | Snapshot | 406915 | [406915-snapshot.json](./406915-snapshot.json) |
 | SnapShot | 298808 | [298808-snapshot.json](./298808-snapshot.json) |
+| Snapshot Adventures | 53620 | [53620-snapshot-adventures.json](./53620-snapshot-adventures.json) |
 | Snapshot Aquarium | 216889 | [216889-snapshot-aquarium.json](./216889-snapshot-aquarium.json) |
 | Snapshot Girls | 364970 | [364970-snapshot-girls.json](./364970-snapshot-girls.json) |
 | Snapshot Girls 3 | 370798 | [370798-snapshot-girls-3.json](./370798-snapshot-girls-3.json) |
@@ -11879,6 +11909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnarfQuest Tales, Episode 1: The Beginning | 32689 | [32689-snarfquest-tales-episode-1-the-beginning.json](./32689-snarfquest-tales-episode-1-the-beginning.json) |
 | Snark Busters Trilogy | 53639 | [53639-snark-busters-trilogy.json](./53639-snark-busters-trilogy.json) |
 | Snark Busters: All Revved Up | 96592 | [96592-snark-busters-all-revved-up.json](./96592-snark-busters-all-revved-up.json) |
+| Snark Busters: Welcome to the Club | 53638 | [53638-snark-busters-welcome-to-the-club.json](./53638-snark-busters-welcome-to-the-club.json) |
 | Snarl | 396583 | [396583-snarl.json](./396583-snarl.json) |
 | Snatch Squad | 365686 | [365686-snatch-squad.json](./365686-snatch-squad.json) |
 | Snatched | 302822 | [302822-snatched.json](./302822-snatched.json) |
@@ -12007,6 +12038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite III: U.S. Camouflage Rifles Pack | 161727 | [161727-sniper-elite-iii-u-s-camouflage-rifles-pack.json](./161727-sniper-elite-iii-u-s-camouflage-rifles-pack.json) |
 | Sniper Elite III: Ultimate Edition | 21663 | [21663-sniper-elite-iii-ultimate-edition.json](./21663-sniper-elite-iii-ultimate-edition.json) |
 | Sniper Elite V2 | 3078 | [3078-sniper-elite-v2.json](./3078-sniper-elite-v2.json) |
+| Sniper Elite V2 Collection | 53637 | [53637-sniper-elite-v2-collection.json](./53637-sniper-elite-v2-collection.json) |
 | Sniper Elite V2: Game of the Year Edition | 44654 | [44654-sniper-elite-v2-game-of-the-year-edition.json](./44654-sniper-elite-v2-game-of-the-year-edition.json) |
 | Sniper Elite V2: Kill Hitler | 10878 | [10878-sniper-elite-v2-kill-hitler.json](./10878-sniper-elite-v2-kill-hitler.json) |
 | Sniper Elite V2: Silver Star Edition | 136223 | [136223-sniper-elite-v2-silver-star-edition.json](./136223-sniper-elite-v2-silver-star-edition.json) |
@@ -12058,8 +12090,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Wild West Shooting Simulator | 264214 | [264214-sniper-wild-west-shooting-simulator.json](./264214-sniper-wild-west-shooting-simulator.json) |
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
 | Sniper: Elite Shooter Squad | 283222 | [283222-sniper-elite-shooter-squad.json](./283222-sniper-elite-shooter-squad.json) |
+| Sniper: Ghost Warrior - Second Strike | 53635 | [53635-sniper-ghost-warrior-second-strike.json](./53635-sniper-ghost-warrior-second-strike.json) |
+| Sniper: Ghost Warrior 2 - Collector's Edition | 53634 | [53634-sniper-ghost-warrior-2-collectors-edition.json](./53634-sniper-ghost-warrior-2-collectors-edition.json) |
+| Sniper: Ghost Warrior 2 - Limited Edition | 53636 | [53636-sniper-ghost-warrior-2-limited-edition.json](./53636-sniper-ghost-warrior-2-limited-edition.json) |
 | Sniper: Ghost Warrior 2 - Siberian Strike | 10882 | [10882-sniper-ghost-warrior-2-siberian-strike.json](./10882-sniper-ghost-warrior-2-siberian-strike.json) |
 | Sniper: Ghost Warrior 2 - World Hunter Pack | 156186 | [156186-sniper-ghost-warrior-2-world-hunter-pack.json](./156186-sniper-ghost-warrior-2-world-hunter-pack.json) |
+| Sniper: Ghost Warrior Trilogy | 53633 | [53633-sniper-ghost-warrior-trilogy.json](./53633-sniper-ghost-warrior-trilogy.json) |
 | Sniper: Path of Vengeance | 26889 | [26889-sniper-path-of-vengeance.json](./26889-sniper-path-of-vengeance.json) |
 | Sniperpunk | 189144 | [189144-sniperpunk.json](./189144-sniperpunk.json) |
 | Snipers vs Thieves: FPS Clash | 87513 | [87513-snipers-vs-thieves-fps-clash.json](./87513-snipers-vs-thieves-fps-clash.json) |
@@ -12623,6 +12659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Socialize | 189037 | [189037-socialize.json](./189037-socialize.json) |
 | Socialize: Poly | 191522 | [191522-socialize-poly.json](./191522-socialize-poly.json) |
 | Socially Awkward | 359199 | [359199-socially-awkward.json](./359199-socially-awkward.json) |
+| Society of the Serpent Moon: Last Half of Darkness | 53632 | [53632-society-of-the-serpent-moon-last-half-of-darkness.json](./53632-society-of-the-serpent-moon-last-half-of-darkness.json) |
 | Society's Paradigms | 152833 | [152833-societys-paradigms.json](./152833-societys-paradigms.json) |
 | Socioball | 128558 | [128558-socioball.json](./128558-socioball.json) |
 | Sociopat | 295620 | [295620-sociopat.json](./295620-sociopat.json) |
@@ -12840,6 +12877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol-Hel | 132507 | [132507-sol-hel.json](./132507-sol-hel.json) |
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
 | Sol: Enchant | 377703 | [377703-sol-enchant.json](./377703-sol-enchant.json) |
+| SOL: Exodus - Collector's Edition | 53631 | [53631-sol-exodus-collectors-edition.json](./53631-sol-exodus-collectors-edition.json) |
 | Sol: Last Light | 247448 | [247448-sol-last-light.json](./247448-sol-last-light.json) |
 | Sol: Shogunate | 380406 | [380406-sol-shogunate.json](./380406-sol-shogunate.json) |
 | Sol705 | 89939 | [89939-sol705.json](./89939-sol705.json) |
@@ -12986,6 +13024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier of the Empire | 255611 | [255611-soldier-of-the-empire.json](./255611-soldier-of-the-empire.json) |
 | Soldier One | 366379 | [366379-soldier-one.json](./366379-soldier-one.json) |
 | Soldier Sortie: VR Agent 006 | 30613 | [30613-soldier-sortie-vr-agent-006.json](./30613-soldier-sortie-vr-agent-006.json) |
+| Soldier Summit Collection | 53630 | [53630-soldier-summit-collection.json](./53630-soldier-summit-collection.json) |
 | Soldier vs Aliens | 54389 | [54389-soldier-vs-aliens.json](./54389-soldier-vs-aliens.json) |
 | Soldiers at War | 69791 | [69791-soldiers-at-war.json](./69791-soldiers-at-war.json) |
 | Soldiers DesireWing | 378437 | [378437-soldiers-desirewing.json](./378437-soldiers-desirewing.json) |
@@ -13094,6 +13133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Classic: Card Game | 231895 | [231895-solitaire-classic-card-game.json](./231895-solitaire-classic-card-game.json) |
 | Solitaire Club | 28609 | [28609-solitaire-club.json](./28609-solitaire-club.json) |
 | Solitaire Collection | 208949 | [208949-solitaire-collection.json](./208949-solitaire-collection.json) |
+| Solitaire Collection | 53629 | [53629-solitaire-collection.json](./53629-solitaire-collection.json) |
 | Solitaire Collection HD | 90371 | [90371-solitaire-collection-hd.json](./90371-solitaire-collection-hd.json) |
 | Solitaire Companions: Cats | 418324 | [418324-solitaire-companions-cats.json](./418324-solitaire-companions-cats.json) |
 | Solitaire Cooking Tower | 100680 | [100680-solitaire-cooking-tower.json](./100680-solitaire-cooking-tower.json) |
@@ -13137,6 +13177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Klondike Minimal | 147646 | [147646-solitaire-klondike-minimal.json](./147646-solitaire-klondike-minimal.json) |
 | Solitaire Klondike Pro. | 101601 | [101601-solitaire-klondike-pro.json](./101601-solitaire-klondike-pro.json) |
 | Solitaire Knights | 93747 | [93747-solitaire-knights.json](./93747-solitaire-knights.json) |
+| Solitaire Legends Collection | 53627 | [53627-solitaire-legends-collection.json](./53627-solitaire-legends-collection.json) |
 | Solitaire Lounge | 25703 | [25703-solitaire-lounge.json](./25703-solitaire-lounge.json) |
 | Solitaire Mahjong: Ancient China Adventure | 401017 | [401017-solitaire-mahjong-ancient-china-adventure.json](./401017-solitaire-mahjong-ancient-china-adventure.json) |
 | Solitaire Master 2 | 208878 | [208878-solitaire-master-2.json](./208878-solitaire-master-2.json) |
@@ -14673,6 +14714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Knight | 122346 | [122346-soul-knight.json](./122346-soul-knight.json) |
 | Soul Knight Prequel | 277857 | [277857-soul-knight-prequel.json](./277857-soul-knight-prequel.json) |
 | Soul Knight: The Forest of Spirits | 237296 | [237296-soul-knight-the-forest-of-spirits.json](./237296-soul-knight-the-forest-of-spirits.json) |
+| Soul Knights RPG | 53624 | [53624-soul-knights-rpg.json](./53624-soul-knights-rpg.json) |
 | Soul Land Reloaded | 174651 | [174651-soul-land-reloaded.json](./174651-soul-land-reloaded.json) |
 | Soul Land: Advent of the Gods | 194020 | [194020-soul-land-advent-of-the-gods.json](./194020-soul-land-advent-of-the-gods.json) |
 | Soul Land: Hunting World | 354242 | [354242-soul-land-hunting-world.json](./354242-soul-land-hunting-world.json) |
@@ -14870,6 +14912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulscape | 300823 | [300823-soulscape.json](./300823-soulscape.json) |
 | Soulscape | 377565 | [377565-soulscape.json](./377565-soulscape.json) |
 | Soulscape 2: Fragments of the Present | 374380 | [374380-soulscape-2-fragments-of-the-present.json](./374380-soulscape-2-fragments-of-the-present.json) |
+| SoulSet: Necromancer Edition | 53623 | [53623-soulset-necromancer-edition.json](./53623-soulset-necromancer-edition.json) |
 | SoulShake | 295597 | [295597-soulshake.json](./295597-soulshake.json) |
 | SoulShards Arena | 197223 | [197223-soulshards-arena.json](./197223-soulshards-arena.json) |
 | SoulSide | 190703 | [190703-soulside.json](./190703-soulside.json) |
@@ -15018,6 +15061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park: The Fractured but Whole - Collector's Edition | 11003 | [11003-south-park-the-fractured-but-whole-collectors-edition.json](./11003-south-park-the-fractured-but-whole-collectors-edition.json) |
 | South Park: The Fractured But Whole - Danger Deck | 153697 | [153697-south-park-the-fractured-but-whole-danger-deck.json](./153697-south-park-the-fractured-but-whole-danger-deck.json) |
 | South Park: The Fractured But Whole - From Dusk Till Casa Bonita | 96134 | [96134-south-park-the-fractured-but-whole-from-dusk-till-casa-bonita.json](./96134-south-park-the-fractured-but-whole-from-dusk-till-casa-bonita.json) |
+| South Park: The Fractured but Whole - Gold Edition | 53622 | [53622-south-park-the-fractured-but-whole-gold-edition.json](./53622-south-park-the-fractured-but-whole-gold-edition.json) |
 | South Park: The Fractured But Whole - Relics of Zaron | 74745 | [74745-south-park-the-fractured-but-whole-relics-of-zaron.json](./74745-south-park-the-fractured-but-whole-relics-of-zaron.json) |
 | South Park: The Fractured but Whole - Remote Control Coon Mobile Bundle | 7394 | [7394-south-park-the-fractured-but-whole-remote-control-coon-mobile-bundle.json](./7394-south-park-the-fractured-but-whole-remote-control-coon-mobile-bundle.json) |
 | South Park: The Fractured But Whole - SteelBook Gold Edition | 5245 | [5245-south-park-the-fractured-but-whole-steelbook-gold-edition.json](./5245-south-park-the-fractured-but-whole-steelbook-gold-edition.json) |
@@ -15237,6 +15281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cheese Defenders | 278511 | [278511-space-cheese-defenders.json](./278511-space-cheese-defenders.json) |
 | Space Chef | 132526 | [132526-space-chef.json](./132526-space-chef.json) |
 | Space Chicks | 60792 | [60792-space-chicks.json](./60792-space-chicks.json) |
+| Space Child | 53621 | [53621-space-child.json](./53621-space-child.json) |
 | Space Chimps | 200685 | [200685-space-chimps.json](./200685-space-chimps.json) |
 | Space Chimps | 5172 | [5172-space-chimps.json](./5172-space-chimps.json) |
 | Space Choice: Data Analyzer | 143995 | [143995-space-choice-data-analyzer.json](./143995-space-choice-data-analyzer.json) |
