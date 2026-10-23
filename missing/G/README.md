@@ -5788,6 +5788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorky Zero: Beyond Honor | 26557 | [26557-gorky-zero-beyond-honor.json](./26557-gorky-zero-beyond-honor.json) |
 | Gormiti: Agguato nella Valle | 137936 | [137936-gormiti-agguato-nella-valle.json](./137936-gormiti-agguato-nella-valle.json) |
 | Gormiti: The Lords of Nature! | 188105 | [188105-gormiti-the-lords-of-nature.json](./188105-gormiti-the-lords-of-nature.json) |
+| Gormiti: The Lords of Nature! | 51032 | [51032-gormiti-the-lords-of-nature.json](./51032-gormiti-the-lords-of-nature.json) |
 | Gorn | 41047 | [41047-gorn.json](./41047-gorn.json) |
 | Gorn 2 | 333676 | [333676-gorn-2.json](./333676-gorn-2.json) |
 | Goro 2 | 74655 | [74655-goro-2.json](./74655-goro-2.json) |
