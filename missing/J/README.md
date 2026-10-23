@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's Combat Simulations: Fighters Anthology | 70020 | [70020-janes-combat-simulations-fighters-anthology.json](./70020-janes-combat-simulations-fighters-anthology.json) |
 | Jane's Combat Simulations: Israeli Air Force | 72071 | [72071-janes-combat-simulations-israeli-air-force.json](./72071-janes-combat-simulations-israeli-air-force.json) |
 | Jane's Combat Simulations: Longbow Gold | 73363 | [73363-janes-combat-simulations-longbow-gold.json](./73363-janes-combat-simulations-longbow-gold.json) |
+| Jane's Combat Simulations: Naval Warfare Collection | 73637 | [73637-janes-combat-simulations-naval-warfare-collection.json](./73637-janes-combat-simulations-naval-warfare-collection.json) |
 | Jane's F/A-18 | 687 | [687-janes-f-a-18.json](./687-janes-f-a-18.json) |
 | Jane's Hotel | 180079 | [180079-janes-hotel.json](./180079-janes-hotel.json) |
 | Jane's Hotel | 20549 | [20549-janes-hotel.json](./20549-janes-hotel.json) |
@@ -1019,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet-Paco: Hyper Special Space Agent! | 312227 | [312227-jet-paco-hyper-special-space-agent.json](./312227-jet-paco-hyper-special-space-agent.json) |
 | JetBall Arena | 113697 | [113697-jetball-arena.json](./113697-jetball-arena.json) |
 | Jetbike Gang | 207233 | [207233-jetbike-gang.json](./207233-jetbike-gang.json) |
+| Jetboat Superchamps | 73626 | [73626-jetboat-superchamps.json](./73626-jetboat-superchamps.json) |
 | Jetboat Superchamps 2 | 92952 | [92952-jetboat-superchamps-2.json](./92952-jetboat-superchamps-2.json) |
 | Jetborne Racing | 150003 | [150003-jetborne-racing.json](./150003-jetborne-racing.json) |
 | Jetbot | 90896 | [90896-jetbot.json](./90896-jetbot.json) |
@@ -1215,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewelpet: Mahou no Oheya de Issho ni Asobou! | 269788 | [269788-jewelpet-mahou-no-oheya-de-issho-ni-asobou.json](./269788-jewelpet-mahou-no-oheya-de-issho-ni-asobou.json) |
 | Jewelrift | 419879 | [419879-jewelrift.json](./419879-jewelrift.json) |
 | Jewelry Hearts Academia: We Will Wing Wonder World | 210504 | [210504-jewelry-hearts-academia-we-will-wing-wonder-world.json](./210504-jewelry-hearts-academia-we-will-wing-wonder-world.json) |
+| Jewels 20 | 73583 | [73583-jewels-20.json](./73583-jewels-20.json) |
 | Jewels Deluxe | 108478 | [108478-jewels-deluxe.json](./108478-jewels-deluxe.json) |
 | Jewels Fantasy | 100837 | [100837-jewels-fantasy.json](./100837-jewels-fantasy.json) |
 | Jewels Hole | 220819 | [220819-jewels-hole.json](./220819-jewels-hole.json) |
@@ -2418,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juggernaut Corps: First Assault | 62280 | [62280-juggernaut-corps-first-assault.json](./62280-juggernaut-corps-first-assault.json) |
 | Juggernaut Wars: Arena Heroes | 56575 | [56575-juggernaut-wars-arena-heroes.json](./56575-juggernaut-wars-arena-heroes.json) |
 | Juggernaut: Revenge of Sovering | 56574 | [56574-juggernaut-revenge-of-sovering.json](./56574-juggernaut-revenge-of-sovering.json) |
+| Juggernaut: The New Story For Quake II | 73647 | [73647-juggernaut-the-new-story-for-quake-ii.json](./73647-juggernaut-the-new-story-for-quake-ii.json) |
 | Juggernauts | 114503 | [114503-juggernauts.json](./114503-juggernauts.json) |
 | Juggle | 246463 | [246463-juggle.json](./246463-juggle.json) |
 | Juggle Panic | 105546 | [105546-juggle-panic.json](./105546-juggle-panic.json) |
@@ -2438,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juglr | 382226 | [382226-juglr.json](./382226-juglr.json) |
 | Jugs Bay | 304618 | [304618-jugs-bay.json](./304618-jugs-bay.json) |
 | Jugular | 179120 | [179120-jugular.json](./179120-jugular.json) |
+| Jugular Street Luge Racing | 73678 | [73678-jugular-street-luge-racing.json](./73678-jugular-street-luge-racing.json) |
 | Juh | 419310 | [419310-juh.json](./419310-juh.json) |
 | Juice | 139264 | [139264-juice.json](./139264-juice.json) |
 | Juice Fresh: Fruit Elimination | 187901 | [187901-juice-fresh-fruit-elimination.json](./187901-juice-fresh-fruit-elimination.json) |
@@ -2792,6 +2797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpstart Spy Masters: Max Strikes Back | 91800 | [91800-jumpstart-spy-masters-max-strikes-back.json](./91800-jumpstart-spy-masters-max-strikes-back.json) |
 | Jumpstart Spy Masters: Unmask the Prankster | 185887 | [185887-jumpstart-spy-masters-unmask-the-prankster.json](./185887-jumpstart-spy-masters-unmask-the-prankster.json) |
 | JumpStart Toddlers | 129111 | [129111-jumpstart-toddlers.json](./129111-jumpstart-toddlers.json) |
+| JumpStart Typing | 73592 | [73592-jumpstart-typing.json](./73592-jumpstart-typing.json) |
 | JumpStart Wildlife Safari Field Trip | 67348 | [67348-jumpstart-wildlife-safari-field-trip.json](./67348-jumpstart-wildlife-safari-field-trip.json) |
 | JumpStart: Dino Adventure Field Trip | 49923 | [49923-jumpstart-dino-adventure-field-trip.json](./49923-jumpstart-dino-adventure-field-trip.json) |
 | Jumpster | 94219 | [94219-jumpster.json](./94219-jumpster.json) |
