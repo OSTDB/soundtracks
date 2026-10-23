@@ -2077,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Lurker: We Give Up! | 81624 | [81624-achievement-lurker-we-give-up.json](./81624-achievement-lurker-we-give-up.json) |
 | Achievement Machine | 100398 | [100398-achievement-machine.json](./100398-achievement-machine.json) |
 | Achievement Monster | 368535 | [368535-achievement-monster.json](./368535-achievement-monster.json) |
+| Achievement Park | 90437 | [90437-achievement-park.json](./90437-achievement-park.json) |
 | Achievement Simulator | 131447 | [131447-achievement-simulator.json](./131447-achievement-simulator.json) |
 | Achievement Unlocked 2 | 165420 | [165420-achievement-unlocked-2.json](./165420-achievement-unlocked-2.json) |
 | Achikaps | 207823 | [207823-achikaps.json](./207823-achikaps.json) |
@@ -3202,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
 | Africa Empire 2027 | 219680 | [219680-africa-empire-2027.json](./219680-africa-empire-2027.json) |
 | Africa Help | 133354 | [133354-africa-help.json](./133354-africa-help.json) |
+| Africa Wild | 90443 | [90443-africa-wild.json](./90443-africa-wild.json) |
 | African Adventure | 80804 | [80804-african-adventure.json](./80804-african-adventure.json) |
 | African Safari | 74039 | [74039-african-safari.json](./74039-african-safari.json) |
 | African Safari Trophy Hunter 3D | 206098 | [206098-african-safari-trophy-hunter-3d.json](./206098-african-safari-trophy-hunter-3d.json) |
@@ -7820,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals Fight | 192764 | [192764-animals-fight.json](./192764-animals-fight.json) |
 | Animals In Buildings | 177311 | [177311-animals-in-buildings.json](./177311-animals-in-buildings.json) |
 | Animals In The City | 293219 | [293219-animals-in-the-city.json](./293219-animals-in-the-city.json) |
+| Animals Jigsaw Puzzle: games for kids | 90449 | [90449-animals-jigsaw-puzzle-games-for-kids.json](./90449-animals-jigsaw-puzzle-games-for-kids.json) |
 | Animals Memory: Birds | 81942 | [81942-animals-memory-birds.json](./81942-animals-memory-birds.json) |
 | Animals Memory: Dinosaurs | 81934 | [81934-animals-memory-dinosaurs.json](./81934-animals-memory-dinosaurs.json) |
 | Animals Memory: Dogs | 81984 | [81984-animals-memory-dogs.json](./81984-animals-memory-dogs.json) |
@@ -12126,6 +12129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterogues | 213433 | [213433-asterogues.json](./213433-asterogues.json) |
 | Asteroid | 170781 | [170781-asteroid.json](./170781-asteroid.json) |
 | Asteroid | 80931 | [80931-asteroid.json](./80931-asteroid.json) |
+| Asteroid : Space Defence | 90425 | [90425-asteroid-space-defence.json](./90425-asteroid-space-defence.json) |
 | Asteroid 69 | 387096 | [387096-asteroid-69.json](./387096-asteroid-69.json) |
 | Asteroid Arena | 190060 | [190060-asteroid-arena.json](./190060-asteroid-arena.json) |
 | Asteroid Belt | 15602 | [15602-asteroid-belt.json](./15602-asteroid-belt.json) |
