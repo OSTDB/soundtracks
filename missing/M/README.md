@@ -972,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Mouse | 115439 | [115439-magic-mouse.json](./115439-magic-mouse.json) |
 | Magic Mushrooms | 13735 | [13735-magic-mushrooms.json](./13735-magic-mushrooms.json) |
 | Magic Mysteries | 153015 | [153015-magic-mysteries.json](./153015-magic-mysteries.json) |
+| Magic Nations | 81912 | [81912-magic-nations.json](./81912-magic-nations.json) |
 | Magic New year Escape | 315700 | [315700-magic-new-year-escape.json](./315700-magic-new-year-escape.json) |
 | Magic New Year Escape 2 | 315701 | [315701-magic-new-year-escape-2.json](./315701-magic-new-year-escape-2.json) |
 | Magic Numbers 2 | 58764 | [58764-magic-numbers-2.json](./58764-magic-numbers-2.json) |
@@ -4371,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchy Moods | 174544 | [174544-matchy-moods.json](./174544-matchy-moods.json) |
 | Matchy Star | 83498 | [83498-matchy-star.json](./83498-matchy-star.json) |
 | Matchy Way Tales | 365884 | [365884-matchy-way-tales.json](./365884-matchy-way-tales.json) |
+| MatchyGotchy | 81866 | [81866-matchygotchy.json](./81866-matchygotchy.json) |
 | MatchyGotchy Z | 109661 | [109661-matchygotchy-z.json](./109661-matchygotchy-z.json) |
 | Mate | 207201 | [207201-mate.json](./207201-mate.json) |
 | Mate in Eleven | 364104 | [364104-mate-in-eleven.json](./364104-mate-in-eleven.json) |
@@ -4626,6 +4628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max & the Magic Marker | 5000 | [5000-max-and-the-magic-marker.json](./5000-max-and-the-magic-marker.json) |
 | Max & the Magic Marker - Remastered | 96301 | [96301-max-and-the-magic-marker-remastered.json](./96301-max-and-the-magic-marker-remastered.json) |
 | Max and Marie Go Shopping | 128858 | [128858-max-and-marie-go-shopping.json](./128858-max-and-marie-go-shopping.json) |
+| Max and Maya: Cat simulator | 81891 | [81891-max-and-maya-cat-simulator.json](./81891-max-and-maya-cat-simulator.json) |
 | Max and Sparky | 66887 | [66887-max-and-sparky.json](./66887-max-and-sparky.json) |
 | Max and the Haunted Castle | 127150 | [127150-max-and-the-haunted-castle.json](./127150-max-and-the-haunted-castle.json) |
 | Max and the Magic Marker: Gold Edition | 52571 | [52571-max-and-the-magic-marker-gold-edition.json](./52571-max-and-the-magic-marker-gold-edition.json) |
@@ -9473,6 +9476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Palace | 277775 | [277775-mind-palace.json](./277775-mind-palace.json) |
 | Mind Palace | 307594 | [307594-mind-palace.json](./307594-mind-palace.json) |
 | Mind Parasitic | 412901 | [412901-mind-parasitic.json](./412901-mind-parasitic.json) |
+| Mind Portal | 81865 | [81865-mind-portal.json](./81865-mind-portal.json) |
 | Mind Prober | 71750 | [71750-mind-prober.json](./71750-mind-prober.json) |
 | Mind Puzzle 2023 | 265200 | [265200-mind-puzzle-2023.json](./265200-mind-puzzle-2023.json) |
 | Mind Quiz | 92809 | [92809-mind-quiz.json](./92809-mind-quiz.json) |
@@ -12798,6 +12802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters vs. Aliens: The Mobile Game | 316477 | [316477-monsters-vs-aliens-the-mobile-game.json](./316477-monsters-vs-aliens-the-mobile-game.json) |
 | Monsters with Attitude | 123250 | [123250-monsters-with-attitude.json](./123250-monsters-with-attitude.json) |
 | Monsters, Briefcase and Road | 159831 | [159831-monsters-briefcase-and-road.json](./159831-monsters-briefcase-and-road.json) |
+| Monsters, Inc. | 81849 | [81849-monsters-inc.json](./81849-monsters-inc.json) |
 | Monsters, Inc. | 86185 | [86185-monsters-inc.json](./86185-monsters-inc.json) |
 | Monsters, Inc. Scare Station | 350217 | [350217-monsters-inc-scare-station.json](./350217-monsters-inc-scare-station.json) |
 | Monsters, Inc. Scream Arena | 4020 | [4020-monsters-inc-scream-arena.json](./4020-monsters-inc-scream-arena.json) |
