@@ -8737,6 +8737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Million Live! | 56398 | [56398-the-idolmaster-million-live.json](./56398-the-idolmaster-million-live.json) |
 | The Idolmaster: Million Live! Theater Days | 44154 | [44154-the-idolmaster-million-live-theater-days.json](./44154-the-idolmaster-million-live-theater-days.json) |
 | The Idolmaster: Mobile | 56387 | [56387-the-idolmaster-mobile.json](./56387-the-idolmaster-mobile.json) |
+| The Idolmaster: Mobile i | 56356 | [56356-the-idolmaster-mobile-i.json](./56356-the-idolmaster-mobile-i.json) |
 | The Idolmaster: One For All | 7465 | [7465-the-idolmaster-one-for-all.json](./7465-the-idolmaster-one-for-all.json) |
 | The Idolmaster: Platinum Stars | 22507 | [22507-the-idolmaster-platinum-stars.json](./22507-the-idolmaster-platinum-stars.json) |
 | The Idolmaster: Poplinks | 142765 | [142765-the-idolmaster-poplinks.json](./142765-the-idolmaster-poplinks.json) |
@@ -11285,7 +11286,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
