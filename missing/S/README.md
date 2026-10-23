@@ -2994,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrub Dudes | 390068 | [390068-scrub-dudes.json](./390068-scrub-dudes.json) |
 | Scrubbles | 92932 | [92932-scrubbles.json](./92932-scrubbles.json) |
 | Scrubby Dubby Saga | 402337 | [402337-scrubby-dubby-saga.json](./402337-scrubby-dubby-saga.json) |
+| Scrubs | 59625 | [59625-scrubs.json](./59625-scrubs.json) |
 | Scruffy 3: A Day in the Life | 265683 | [265683-scruffy-3-a-day-in-the-life.json](./265683-scruffy-3-a-day-in-the-life.json) |
 | Scruffy's Quest | 265681 | [265681-scruffys-quest.json](./265681-scruffys-quest.json) |
 | Scrumlords | 260634 | [260634-scrumlords.json](./260634-scrumlords.json) |
@@ -3267,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Salt | 96204 | [96204-sea-salt.json](./96204-sea-salt.json) |
 | Sea Salt City | 404240 | [404240-sea-salt-city.json](./404240-sea-salt-city.json) |
 | Sea Scenes | 219616 | [219616-sea-scenes.json](./219616-sea-scenes.json) |
+| Sea Stars | 59626 | [59626-sea-stars.json](./59626-sea-stars.json) |
 | Sea Strike | 69896 | [69896-sea-strike.json](./69896-sea-strike.json) |
 | Sea Town | 238093 | [238093-sea-town.json](./238093-sea-town.json) |
 | Sea Trader: Rise of Taipan | 49386 | [49386-sea-trader-rise-of-taipan.json](./49386-sea-trader-rise-of-taipan.json) |
@@ -22940,6 +22942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subespaço | 247355 | [247355-subespaco.json](./247355-subespaco.json) |
 | Subespaço | 247356 | [247356-subespaco.json](./247356-subespaco.json) |
 | Subete wa Oshi no Tame ni!! Josou Shitara Chouzetsu Oshi ni Niteta Ken | 77866 | [77866-subete-wa-oshi-no-tame-ni-josou-shitara-chouzetsu-oshi-ni-niteta-ken.json](./77866-subete-wa-oshi-no-tame-ni-josou-shitara-chouzetsu-oshi-ni-niteta-ken.json) |
+| SubGlobal | 59725 | [59725-subglobal.json](./59725-subglobal.json) |
 | Subject | 131341 | [131341-subject.json](./131341-subject.json) |
 | Subject 26 | 178497 | [178497-subject-26.json](./178497-subject-26.json) |
 | Subject 264 | 30959 | [30959-subject-264.json](./30959-subject-264.json) |
@@ -24111,6 +24114,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Action Soccer | 40907 | [40907-super-action-soccer.json](./40907-super-action-soccer.json) |
 | Super Adventure | 295492 | [295492-super-adventure.json](./295492-super-adventure.json) |
 | Super Adventure Island | 9064 | [9064-super-adventure-island.json](./9064-super-adventure-island.json) |
+| Super Adventure Pals | 59640 | [59640-super-adventure-pals.json](./59640-super-adventure-pals.json) |
+| Super Adventure Pals II | 59635 | [59635-super-adventure-pals-ii.json](./59635-super-adventure-pals-ii.json) |
+| Super Adventure Pals: Battle Arena | 59636 | [59636-super-adventure-pals-battle-arena.json](./59636-super-adventure-pals-battle-arena.json) |
 | Super Adventurer | 61021 | [61021-super-adventurer.json](./61021-super-adventurer.json) |
 | Super Agent | 272486 | [272486-super-agent.json](./272486-super-agent.json) |
 | Super Agent: Drunk Kent | 114928 | [114928-super-agent-drunk-kent.json](./114928-super-agent-drunk-kent.json) |
