@@ -14546,6 +14546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Valiant: Coat of Arms collection | 257533 | [257533-the-valiant-coat-of-arms-collection.json](./257533-the-valiant-coat-of-arms-collection.json) |
 | The Valley | 197584 | [197584-the-valley.json](./197584-the-valley.json) |
 | The Valley | 292068 | [292068-the-valley.json](./292068-the-valley.json) |
+| The Valley | 94585 | [94585-the-valley.json](./94585-the-valley.json) |
 | The Valley Beyond | 373132 | [373132-the-valley-beyond.json](./373132-the-valley-beyond.json) |
 | The Vamp | 254552 | [254552-the-vamp.json](./254552-the-vamp.json) |
 | The Vampire | 292250 | [292250-the-vampire.json](./292250-the-vampire.json) |
@@ -21191,6 +21192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour of Duty | 59307 | [59307-tour-of-duty.json](./59307-tour-of-duty.json) |
 | Tour of Neverland | 146886 | [146886-tour-of-neverland.json](./146886-tour-of-neverland.json) |
 | Touring | 252895 | [252895-touring.json](./252895-touring.json) |
+| Touring Car Racer | 94513 | [94513-touring-car-racer.json](./94513-touring-car-racer.json) |
 | Touring Karts | 120478 | [120478-touring-karts.json](./120478-touring-karts.json) |
 | Tourist | 89206 | [89206-tourist.json](./89206-tourist.json) |
 | Tourist Bus Simulator: BB40 | 168891 | [168891-tourist-bus-simulator-bb40.json](./168891-tourist-bus-simulator-bb40.json) |
