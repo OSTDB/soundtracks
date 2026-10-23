@@ -2123,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Tragedy Samsara | 372999 | [372999-killing-tragedy-samsara.json](./372999-killing-tragedy-samsara.json) |
 | Killing Trials | 114903 | [114903-killing-trials.json](./114903-killing-trials.json) |
 | Killing Zone | 20596 | [20596-killing-zone.json](./20596-killing-zone.json) |
+| Killing, My Friend | 94059 | [94059-killing-my-friend.json](./94059-killing-my-friend.json) |
 | KillJoy | 271934 | [271934-killjoy.json](./271934-killjoy.json) |
 | Killmage | 292452 | [292452-killmage.json](./292452-killmage.json) |
 | Killmaiden | 295895 | [295895-killmaiden.json](./295895-killmaiden.json) |
@@ -2282,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect Fun Labs: Mutation Station | 329732 | [329732-kinect-fun-labs-mutation-station.json](./329732-kinect-fun-labs-mutation-station.json) |
 | Kinect Joy Ride | 2662 | [2662-kinect-joy-ride.json](./2662-kinect-joy-ride.json) |
 | Kinect Mega Bundle: 4 in 1 | 82538 | [82538-kinect-mega-bundle-4-in-1.json](./82538-kinect-mega-bundle-4-in-1.json) |
+| Kinect Nat Geo TV: Season Two | 94040 | [94040-kinect-nat-geo-tv-season-two.json](./94040-kinect-nat-geo-tv-season-two.json) |
 | Kinect Party | 20238 | [20238-kinect-party.json](./20238-kinect-party.json) |
 | Kinect PlayFit | 64925 | [64925-kinect-playfit.json](./64925-kinect-playfit.json) |
 | Kinect Sesame Street TV | 20235 | [20235-kinect-sesame-street-tv.json](./20235-kinect-sesame-street-tv.json) |
