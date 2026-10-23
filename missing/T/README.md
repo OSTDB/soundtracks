@@ -7503,6 +7503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flames | 176510 | [176510-the-flames.json](./176510-the-flames.json) |
 | The Flames | 200926 | [200926-the-flames.json](./200926-the-flames.json) |
 | The Flames that Follow Us | 177238 | [177238-the-flames-that-follow-us.json](./177238-the-flames-that-follow-us.json) |
+| The Flap! | 89785 | [89785-the-flap.json](./89785-the-flap.json) |
 | The Flash | 100289 | [100289-the-flash.json](./100289-the-flash.json) |
 | The Flash | 387115 | [387115-the-flash.json](./387115-the-flash.json) |
 | The Flash | 48945 | [48945-the-flash.json](./48945-the-flash.json) |
@@ -8555,6 +8556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt for Red October | 81421 | [81421-the-hunt-for-red-october.json](./81421-the-hunt-for-red-october.json) |
 | The Hunt for the Chocolate Egg | 215376 | [215376-the-hunt-for-the-chocolate-egg.json](./215376-the-hunt-for-the-chocolate-egg.json) |
 | The Hunt for the Gay Planet | 352150 | [352150-the-hunt-for-the-gay-planet.json](./352150-the-hunt-for-the-gay-planet.json) |
+| The Hunt for the Lost Ship | 89765 | [89765-the-hunt-for-the-lost-ship.json](./89765-the-hunt-for-the-lost-ship.json) |
 | The Hunt for the Lost Treasure | 88284 | [88284-the-hunt-for-the-lost-treasure.json](./88284-the-hunt-for-the-lost-treasure.json) |
 | The Hunt for the Lost Treasure 2 | 290007 | [290007-the-hunt-for-the-lost-treasure-2.json](./290007-the-hunt-for-the-lost-treasure-2.json) |
 | The Hunted | 215741 | [215741-the-hunted.json](./215741-the-hunted.json) |
@@ -14622,6 +14624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Viking's Games: Madness Fight | 214683 | [214683-the-vikings-games-madness-fight.json](./214683-the-vikings-games-madness-fight.json) |
 | The Vikings | 37188 | [37188-the-vikings.json](./37188-the-vikings.json) |
 | The Villa of Pain | 272925 | [272925-the-villa-of-pain.json](./272925-the-villa-of-pain.json) |
+| The Villa: Allison's Diary | 89639 | [89639-the-villa-allisons-diary.json](./89639-the-villa-allisons-diary.json) |
 | The Village | 168634 | [168634-the-village.json](./168634-the-village.json) |
 | The Village | 74391 | [74391-the-village.json](./74391-the-village.json) |
 | The Village Mage: Spellbinder | 54291 | [54291-the-village-mage-spellbinder.json](./54291-the-village-mage-spellbinder.json) |
@@ -15777,6 +15780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Book Is A Dungeon | 34416 | [34416-this-book-is-a-dungeon.json](./34416-this-book-is-a-dungeon.json) |
 | This Box Conveys People | 144239 | [144239-this-box-conveys-people.json](./144239-this-box-conveys-people.json) |
 | This Call May Be Recorded | 135038 | [135038-this-call-may-be-recorded.json](./135038-this-call-may-be-recorded.json) |
+| This Child of Mine | 89642 | [89642-this-child-of-mine.json](./89642-this-child-of-mine.json) |
 | This Company of Mine | 309355 | [309355-this-company-of-mine.json](./309355-this-company-of-mine.json) |
 | This Discord Has Ghosts in it | 134647 | [134647-this-discord-has-ghosts-in-it.json](./134647-this-discord-has-ghosts-in-it.json) |
 | This Emptiness | 229598 | [229598-this-emptiness.json](./229598-this-emptiness.json) |
@@ -22082,6 +22086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Driver Journey 3 - Waldabavale to Karrah Bay | 100617 | [100617-train-driver-journey-3-waldabavale-to-karrah-bay.json](./100617-train-driver-journey-3-waldabavale-to-karrah-bay.json) |
 | Train Driver Journey 4 - Introduction to Steam | 86881 | [86881-train-driver-journey-4-introduction-to-steam.json](./86881-train-driver-journey-4-introduction-to-steam.json) |
 | Train Driver Journey 7 - Rosworth Vale | 96597 | [96597-train-driver-journey-7-rosworth-vale.json](./96597-train-driver-journey-7-rosworth-vale.json) |
+| Train Driver Journey 8 - Winter in the Alps | 89759 | [89759-train-driver-journey-8-winter-in-the-alps.json](./89759-train-driver-journey-8-winter-in-the-alps.json) |
 | Train Driver Simulator | 89056 | [89056-train-driver-simulator.json](./89056-train-driver-simulator.json) |
 | Train Empire | 219498 | [219498-train-empire.json](./219498-train-empire.json) |
 | Train Escape: Hidden Adventure | 104777 | [104777-train-escape-hidden-adventure.json](./104777-train-escape-hidden-adventure.json) |
@@ -24740,6 +24745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troll Control | 125146 | [125146-troll-control.json](./125146-troll-control.json) |
 | Troll Face Clicker Quest | 105860 | [105860-troll-face-clicker-quest.json](./105860-troll-face-clicker-quest.json) |
 | Troll Face Quest Horror | 351627 | [351627-troll-face-quest-horror.json](./351627-troll-face-quest-horror.json) |
+| Troll Face Quest Video Games 2 | 89622 | [89622-troll-face-quest-video-games-2.json](./89622-troll-face-quest-video-games-2.json) |
 | Troll Face Quest Video Memes | 90890 | [90890-troll-face-quest-video-memes.json](./90890-troll-face-quest-video-memes.json) |
 | Troll Face Quest: Game of Trolls | 306703 | [306703-troll-face-quest-game-of-trolls.json](./306703-troll-face-quest-game-of-trolls.json) |
 | Troll Hunter VR | 150916 | [150916-troll-hunter-vr.json](./150916-troll-hunter-vr.json) |
