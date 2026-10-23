@@ -2919,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Federal Cadet | 412257 | [412257-federal-cadet.json](./412257-federal-cadet.json) |
 | Federation | 257004 | [257004-federation.json](./257004-federation.json) |
 | Federation 2: Community Edition | 229756 | [229756-federation-2-community-edition.json](./229756-federation-2-community-edition.json) |
+| Federation Booker | 62517 | [62517-federation-booker.json](./62517-federation-booker.json) |
 | Federation Quest 1: BSS Jane Seymour | 65210 | [65210-federation-quest-1-bss-jane-seymour.json](./65210-federation-quest-1-bss-jane-seymour.json) |
 | Federation77 | 149231 | [149231-federation77.json](./149231-federation77.json) |
 | Feditor | 390550 | [390550-feditor.json](./390550-feditor.json) |
@@ -5068,6 +5069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Evolution | 220170 | [220170-fish-evolution.json](./220170-fish-evolution.json) |
 | Fish Eyes | 383959 | [383959-fish-eyes.json](./383959-fish-eyes.json) |
 | Fish Face | 353895 | [353895-fish-face.json](./353895-fish-face.json) |
+| Fish Face | 62540 | [62540-fish-face.json](./62540-fish-face.json) |
 | Fish Farm 3 | 360097 | [360097-fish-farm-3.json](./360097-fish-farm-3.json) |
 | Fish Fight! | 332998 | [332998-fish-fight.json](./332998-fish-fight.json) |
 | Fish Fighter | 277422 | [277422-fish-fighter.json](./277422-fish-fighter.json) |
@@ -5708,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fizzburg | 413878 | [413878-fizzburg.json](./413878-fizzburg.json) |
 | Fizzy Factory | 262070 | [262070-fizzy-factory.json](./262070-fizzy-factory.json) |
 | Fjord battle racing | 50523 | [50523-fjord-battle-racing.json](./50523-fjord-battle-racing.json) |
+| Fjords | 62535 | [62535-fjords.json](./62535-fjords.json) |
 | FL Frisky Tom | 300009 | [300009-fl-frisky-tom.json](./300009-fl-frisky-tom.json) |
 | FL Tron | 286629 | [286629-fl-tron.json](./286629-fl-tron.json) |
 | Fl337 | 34361 | [34361-fl337.json](./34361-fl337.json) |
@@ -7347,6 +7350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager Handheld 2010 | 52218 | [52218-football-manager-handheld-2010.json](./52218-football-manager-handheld-2010.json) |
 | Football Manager Handheld 2012 | 269429 | [269429-football-manager-handheld-2012.json](./269429-football-manager-handheld-2012.json) |
 | Football Manager Handheld 2013 | 42867 | [42867-football-manager-handheld-2013.json](./42867-football-manager-handheld-2013.json) |
+| Football Manager Handheld 2014 | 62519 | [62519-football-manager-handheld-2014.json](./62519-football-manager-handheld-2014.json) |
 | Football Manager Handheld 2015 | 380663 | [380663-football-manager-handheld-2015.json](./380663-football-manager-handheld-2015.json) |
 | Football Manager Live | 21249 | [21249-football-manager-live.json](./21249-football-manager-live.json) |
 | Football Manager Quiz | 318991 | [318991-football-manager-quiz.json](./318991-football-manager-quiz.json) |
