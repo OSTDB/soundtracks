@@ -1745,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warspace | 242065 | [242065-warspace.json](./242065-warspace.json) |
 | Warspace 2 | 158652 | [158652-warspace-2.json](./158652-warspace-2.json) |
 | WarSpawn | 344335 | [344335-warspawn.json](./344335-warspawn.json) |
+| Warspear Online | 68475 | [68475-warspear-online.json](./68475-warspear-online.json) |
 | Warspear Online | 87077 | [87077-warspear-online.json](./87077-warspear-online.json) |
 | WarSphere | 253459 | [253459-warsphere.json](./253459-warsphere.json) |
 | Warspirits | 297483 | [297483-warspirits.json](./297483-warspirits.json) |
@@ -3192,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -5033,6 +5035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch & Fairy Dungeon | 327311 | [327311-witch-and-fairy-dungeon.json](./327311-witch-and-fairy-dungeon.json) |
 | Witch & Hero | 21924 | [21924-witch-and-hero.json](./21924-witch-and-hero.json) |
 | Witch & Hero 2 | 21925 | [21925-witch-and-hero-2.json](./21925-witch-and-hero-2.json) |
+| Witch & Hero III | 68449 | [68449-witch-and-hero-iii.json](./68449-witch-and-hero-iii.json) |
 | Witch & Lilies | 222784 | [222784-witch-and-lilies.json](./222784-witch-and-lilies.json) |
 | Witch Amelia | 219670 | [219670-witch-amelia.json](./219670-witch-amelia.json) |
 | Witch and Spirit | 149909 | [149909-witch-and-spirit.json](./149909-witch-and-spirit.json) |
@@ -6244,6 +6247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordz + | 90894 | [90894-wordz.json](./90894-wordz.json) |
 | WordZap | 117962 | [117962-wordzap.json](./117962-wordzap.json) |
 | WordZap Deluxe | 205885 | [205885-wordzap-deluxe.json](./205885-wordzap-deluxe.json) |
+| Wordzy | 68415 | [68415-wordzy.json](./68415-wordzy.json) |
 | Work Beasts | 304023 | [304023-work-beasts.json](./304023-work-beasts.json) |
 | Work from Home | 218717 | [218717-work-from-home.json](./218717-work-from-home.json) |
 | Work Girl | 378359 | [378359-work-girl.json](./378359-work-girl.json) |
@@ -6453,6 +6457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Map Quiz | 181146 | [181146-world-map-quiz.json](./181146-world-map-quiz.json) |
 | World Map: Crafted City Builder | 202096 | [202096-world-map-crafted-city-builder.json](./202096-world-map-crafted-city-builder.json) |
 | World Minigolf | 181702 | [181702-world-minigolf.json](./181702-world-minigolf.json) |
+| World Molder | 68412 | [68412-world-molder.json](./68412-world-molder.json) |
 | World Mosaics | 135246 | [135246-world-mosaics.json](./135246-world-mosaics.json) |
 | World Mosaics 2 | 135247 | [135247-world-mosaics-2.json](./135247-world-mosaics-2.json) |
 | World Mosaics 3: Fairy Tales | 135248 | [135248-world-mosaics-3-fairy-tales.json](./135248-world-mosaics-3-fairy-tales.json) |
