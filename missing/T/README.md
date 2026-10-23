@@ -7089,6 +7089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Evidence | 209567 | [209567-the-evidence.json](./209567-the-evidence.json) |
 | The Evil Dead | 25832 | [25832-the-evil-dead.json](./25832-the-evil-dead.json) |
 | The Evil King | 152997 | [152997-the-evil-king.json](./152997-the-evil-king.json) |
+| The Evil Party | 81905 | [81905-the-evil-party.json](./81905-the-evil-party.json) |
 | The Evil Resides | 180636 | [180636-the-evil-resides.json](./180636-the-evil-resides.json) |
 | The Evil Sect | 296473 | [296473-the-evil-sect.json](./296473-the-evil-sect.json) |
 | The Evil Unleashed | 313836 | [313836-the-evil-unleashed.json](./313836-the-evil-unleashed.json) |
@@ -7485,6 +7486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Templar | 6994 | [6994-the-first-templar.json](./6994-the-first-templar.json) |
 | The First Templar: Special Edition | 154539 | [154539-the-first-templar-special-edition.json](./154539-the-first-templar-special-edition.json) |
 | The First Thing You Do When You Become A Girl | 97827 | [97827-the-first-thing-you-do-when-you-become-a-girl.json](./97827-the-first-thing-you-do-when-you-become-a-girl.json) |
+| The first thrust of God | 81917 | [81917-the-first-thrust-of-god.json](./81917-the-first-thrust-of-god.json) |
 | The first titans | 161398 | [161398-the-first-titans.json](./161398-the-first-titans.json) |
 | The Fish and the Furious | 132826 | [132826-the-fish-and-the-furious.json](./132826-the-fish-and-the-furious.json) |
 | The Fish Files | 50037 | [50037-the-fish-files.json](./50037-the-fish-files.json) |
@@ -8247,6 +8249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hardest Game in the Universe: DLC 3 | 306069 | [306069-the-hardest-game-in-the-universe-dlc-3.json](./306069-the-hardest-game-in-the-universe-dlc-3.json) |
 | The Hardest Game in the Universe: Kangel | 170905 | [170905-the-hardest-game-in-the-universe-kangel.json](./170905-the-hardest-game-in-the-universe-kangel.json) |
 | The Hardest Quiz - Impossible | 96054 | [96054-the-hardest-quiz-impossible.json](./96054-the-hardest-quiz-impossible.json) |
+| The Hardest Thing | 81911 | [81911-the-hardest-thing.json](./81911-the-hardest-thing.json) |
 | The Hardy Boys: The Hidden Theft | 4903 | [4903-the-hardy-boys-the-hidden-theft.json](./4903-the-hardy-boys-the-hidden-theft.json) |
 | The Hardy Boys: The Perfect Crime | 66340 | [66340-the-hardy-boys-the-perfect-crime.json](./66340-the-hardy-boys-the-perfect-crime.json) |
 | The Hardy Boys: Treasure on the Tracks | 21105 | [21105-the-hardy-boys-treasure-on-the-tracks.json](./21105-the-hardy-boys-treasure-on-the-tracks.json) |
@@ -8783,6 +8786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Interactive Adventures of Dog Mendonça and Pizzaboy | 17976 | [17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json](./17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json) |
 | The Interdiction Zone | 274191 | [274191-the-interdiction-zone.json](./274191-the-interdiction-zone.json) |
 | The Interlude | 118172 | [118172-the-interlude.json](./118172-the-interlude.json) |
+| The Intern: O Estágio | 81854 | [81854-the-intern-o-estagio.json](./81854-the-intern-o-estagio.json) |
 | The Intern: Temptation at Work | 420652 | [420652-the-intern-temptation-at-work.json](./420652-the-intern-temptation-at-work.json) |
 | The Internship | 102319 | [102319-the-internship.json](./102319-the-internship.json) |
 | The Internship | 408836 | [408836-the-internship.json](./408836-the-internship.json) |
@@ -24715,6 +24719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Classic Rock Trivia 2 | 54890 | [54890-trivia-vault-classic-rock-trivia-2.json](./54890-trivia-vault-classic-rock-trivia-2.json) |
 | Trivia Vault: Fashion Trivia | 101615 | [101615-trivia-vault-fashion-trivia.json](./101615-trivia-vault-fashion-trivia.json) |
 | Trivia Vault: Golf Trivia | 93772 | [93772-trivia-vault-golf-trivia.json](./93772-trivia-vault-golf-trivia.json) |
+| Trivia Vault: Health Trivia Deluxe | 81880 | [81880-trivia-vault-health-trivia-deluxe.json](./81880-trivia-vault-health-trivia-deluxe.json) |
 | Trivia Vault: Literature Trivia | 101626 | [101626-trivia-vault-literature-trivia.json](./101626-trivia-vault-literature-trivia.json) |
 | Trivia Vault: Mixed Trivia | 52779 | [52779-trivia-vault-mixed-trivia.json](./52779-trivia-vault-mixed-trivia.json) |
 | Trivia Vault: Movie Trivia | 99663 | [99663-trivia-vault-movie-trivia.json](./99663-trivia-vault-movie-trivia.json) |
