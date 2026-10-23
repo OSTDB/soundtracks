@@ -3138,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | England Championship Special | 71470 | [71470-england-championship-special.json](./71470-england-championship-special.json) |
 | England Exchange | 28643 | [28643-england-exchange.json](./28643-england-exchange.json) |
 | England in London | 276836 | [276836-england-in-london.json](./276836-england-in-london.json) |
+| England International Football | 92334 | [92334-england-international-football.json](./92334-england-international-football.json) |
 | England Team Manager | 69289 | [69289-england-team-manager.json](./69289-england-team-manager.json) |
 | English A-Game | 219250 | [219250-english-a-game.json](./219250-english-a-game.json) |
 | English Civil War | 129580 | [129580-english-civil-war.json](./129580-english-civil-war.json) |
@@ -3898,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escalation VR! | 150110 | [150110-escalation-vr.json](./150110-escalation-vr.json) |
 | Escalation: Aggressors | 127759 | [127759-escalation-aggressors.json](./127759-escalation-aggressors.json) |
 | Escalation! | 150099 | [150099-escalation.json](./150099-escalation.json) |
+| Escapade | 92343 | [92343-escapade.json](./92343-escapade.json) |
 | Escapatoria | 125195 | [125195-escapatoria.json](./125195-escapatoria.json) |
 | Escape | 114755 | [114755-escape.json](./114755-escape.json) |
 | Escape | 147210 | [147210-escape.json](./147210-escape.json) |
