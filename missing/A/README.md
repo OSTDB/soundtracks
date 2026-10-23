@@ -5348,6 +5348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Shooter: The Beginning | 105436 | [105436-alien-shooter-the-beginning.json](./105436-alien-shooter-the-beginning.json) |
 | Alien Shooter: The Experiment | 11090 | [11090-alien-shooter-the-experiment.json](./11090-alien-shooter-the-experiment.json) |
 | Alien Shooter: Vengeance | 14145 | [14145-alien-shooter-vengeance.json](./14145-alien-shooter-vengeance.json) |
+| Alien Sidestep | 64816 | [64816-alien-sidestep.json](./64816-alien-sidestep.json) |
 | Alien Simulator | 123831 | [123831-alien-simulator.json](./123831-alien-simulator.json) |
 | Alien Sky | 93164 | [93164-alien-sky.json](./93164-alien-sky.json) |
 | Alien Slayer | 275099 | [275099-alien-slayer.json](./275099-alien-slayer.json) |
@@ -5754,6 +5755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Star Baseball 2004 | 282834 | [282834-all-star-baseball-2004.json](./282834-all-star-baseball-2004.json) |
 | All-Star Baseball 2005 | 11559 | [11559-all-star-baseball-2005.json](./11559-all-star-baseball-2005.json) |
 | All-Star Baseball 97 | 19998 | [19998-all-star-baseball-97.json](./19998-all-star-baseball-97.json) |
+| All-Star Fighters | 64794 | [64794-all-star-fighters.json](./64794-all-star-fighters.json) |
 | All-Star Fruit Racing VR | 116431 | [116431-all-star-fruit-racing-vr.json](./116431-all-star-fruit-racing-vr.json) |
 | All-Star Slammin' D-Ball | 43929 | [43929-all-star-slammin-d-ball.json](./43929-all-star-slammin-d-ball.json) |
 | All-Star Supermarket Simulator: Vinyl Vibes | 328573 | [328573-all-star-supermarket-simulator-vinyl-vibes.json](./328573-all-star-supermarket-simulator-vinyl-vibes.json) |
@@ -9398,6 +9400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqumana | 175376 | [175376-aqumana.json](./175376-aqumana.json) |
 | AR Basketball | 63247 | [63247-ar-basketball.json](./63247-ar-basketball.json) |
 | AR Butterflies and Flowers | 105773 | [105773-ar-butterflies-and-flowers.json](./105773-ar-butterflies-and-flowers.json) |
+| AR Combat DigiQ: Tomodachi Senshatai | 64772 | [64772-ar-combat-digiq-tomodachi-senshatai.json](./64772-ar-combat-digiq-tomodachi-senshatai.json) |
 | AR Darts | 55895 | [55895-ar-darts.json](./55895-ar-darts.json) |
 | AR Defender | 78284 | [78284-ar-defender.json](./78284-ar-defender.json) |
 | AR Flappy | 232186 | [232186-ar-flappy.json](./232186-ar-flappy.json) |
@@ -11592,6 +11595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascension | 95408 | [95408-ascension.json](./95408-ascension.json) |
 | Ascension to the Throne: Valkyrie | 27455 | [27455-ascension-to-the-throne-valkyrie.json](./27455-ascension-to-the-throne-valkyrie.json) |
 | Ascension VR | 32106 | [32106-ascension-vr.json](./32106-ascension-vr.json) |
+| Ascension: Arenas of War | 64823 | [64823-ascension-arenas-of-war.json](./64823-ascension-arenas-of-war.json) |
 | Ascension: Deckbuilding Game | 8638 | [8638-ascension-deckbuilding-game.json](./8638-ascension-deckbuilding-game.json) |
 | Ascension: Delirium | 174532 | [174532-ascension-delirium.json](./174532-ascension-delirium.json) |
 | Ascension: The Immortal Alchemist | 318973 | [318973-ascension-the-immortal-alchemist.json](./318973-ascension-the-immortal-alchemist.json) |
@@ -13564,6 +13568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Austin Powers: Why Make Millions...? | 295028 | [295028-austin-powers-why-make-millions.json](./295028-austin-powers-why-make-millions.json) |
 | Austin Powers: Yeah, Baby, Yeah! | 228914 | [228914-austin-powers-yeah-baby-yeah.json](./228914-austin-powers-yeah-baby-yeah.json) |
 | Australia Did It | 365278 | [365278-australia-did-it.json](./365278-australia-did-it.json) |
+| Australia Zoo Quest: Puzzle Fun! | 64824 | [64824-australia-zoo-quest-puzzle-fun.json](./64824-australia-zoo-quest-puzzle-fun.json) |
 | Australian Cricket Captain | 74080 | [74080-australian-cricket-captain.json](./74080-australian-cricket-captain.json) |
 | Australian Football Coach 2019 | 119883 | [119883-australian-football-coach-2019.json](./119883-australian-football-coach-2019.json) |
 | Australian Football Coach 2020 | 133683 | [133683-australian-football-coach-2020.json](./133683-australian-football-coach-2020.json) |
