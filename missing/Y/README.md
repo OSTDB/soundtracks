@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuman | 67330 | [67330-yakuman.json](./67330-yakuman.json) |
 | Yakuman DS | 18596 | [18596-yakuman-ds.json](./18596-yakuman-ds.json) |
 | Yakuman Houou | 60603 | [60603-yakuman-houou.json](./60603-yakuman-houou.json) |
+| Yakuman Wii: Ide Yosuke no Kenkou Mahjong | 63040 | [63040-yakuman-wii-ide-yosuke-no-kenkou-mahjong.json](./63040-yakuman-wii-ide-yosuke-no-kenkou-mahjong.json) |
 | Yakumo | 419863 | [419863-yakumo.json](./419863-yakumo.json) |
 | Yakuza 1 Kiwami | 393096 | [393096-yakuza-1-kiwami.json](./393096-yakuza-1-kiwami.json) |
 | Yakuza 2 | 2060 | [2060-yakuza-2.json](./2060-yakuza-2.json) |
