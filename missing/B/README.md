@@ -9859,6 +9859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Run | 362432 | [362432-bomber-run.json](./362432-bomber-run.json) |
 | Bomber-Man | 247059 | [247059-bomber-man.json](./247059-bomber-man.json) |
 | Bomber-Mario | 248288 | [248288-bomber-mario.json](./248288-bomber-mario.json) |
+| Bomber-un | 95280 | [95280-bomber-un.json](./95280-bomber-un.json) |
 | Bomber's Run | 184989 | [184989-bombers-run.json](./184989-bombers-run.json) |
 | Bomberball | 392144 | [392144-bomberball.json](./392144-bomberball.json) |
 | BomberBoy | 242090 | [242090-bomberboy.json](./242090-bomberboy.json) |
@@ -10732,6 +10733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce | 172047 | [172047-bounce.json](./172047-bounce.json) |
 | Bounce | 27679 | [27679-bounce.json](./27679-bounce.json) |
 | Bounce | 376801 | [376801-bounce.json](./376801-bounce.json) |
+| Bounce | 95270 | [95270-bounce.json](./95270-bounce.json) |
 | Bounce & Roll | 257807 | [257807-bounce-and-roll.json](./257807-bounce-and-roll.json) |
 | Bounce 2 | 356571 | [356571-bounce-2.json](./356571-bounce-2.json) |
 | Bounce a Tomato | 403659 | [403659-bounce-a-tomato.json](./403659-bounce-a-tomato.json) |
@@ -10908,7 +10910,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Hunter | 72008 | [72008-bounty-hunter.json](./72008-bounty-hunter.json) |
 | Bounty Hunter 2099 Pinball | 206469 | [206469-bounty-hunter-2099-pinball.json](./206469-bounty-hunter-2099-pinball.json) |
 | Bounty Hunter: Ocean Diver | 95617 | [95617-bounty-hunter-ocean-diver.json](./95617-bounty-hunter-ocean-diver.json) |
+| Bounty Hunter: Space Detective | 95261 | [95261-bounty-hunter-space-detective.json](./95261-bounty-hunter-space-detective.json) |
 | Bounty Hunter: Space Lizard | 122730 | [122730-bounty-hunter-space-lizard.json](./122730-bounty-hunter-space-lizard.json) |
+| Bounty Hunter: Stampede | 95269 | [95269-bounty-hunter-stampede.json](./95269-bounty-hunter-stampede.json) |
 | Bounty Hunters | 188507 | [188507-bounty-hunters.json](./188507-bounty-hunters.json) |
 | Bounty Hunters | 265389 | [265389-bounty-hunters.json](./265389-bounty-hunters.json) |
 | Bounty Hunting Time | 255029 | [255029-bounty-hunting-time.json](./255029-bounty-hunting-time.json) |
@@ -11379,6 +11383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainium Solitaire | 87861 | [87861-brainium-solitaire.json](./87861-brainium-solitaire.json) |
 | Brainjogging for Kids | 88485 | [88485-brainjogging-for-kids.json](./88485-brainjogging-for-kids.json) |
 | Brainmelter Deluxe | 112780 | [112780-brainmelter-deluxe.json](./112780-brainmelter-deluxe.json) |
+| BrainPower | 95258 | [95258-brainpower.json](./95258-brainpower.json) |
 | Brainroll | 250782 | [250782-brainroll.json](./250782-brainroll.json) |
 | BrainRot | 336518 | [336518-brainrot.json](./336518-brainrot.json) |
 | Brainrot Battle | 363564 | [363564-brainrot-battle.json](./363564-brainrot-battle.json) |
@@ -14035,6 +14040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burst | 380044 | [380044-burst.json](./380044-burst.json) |
 | Burst Error: Eve the First | 59434 | [59434-burst-error-eve-the-first.json](./59434-burst-error-eve-the-first.json) |
 | Burst Hero | 237042 | [237042-burst-hero.json](./237042-burst-hero.json) |
+| Burst Into | 95278 | [95278-burst-into.json](./95278-burst-into.json) |
 | Burst Noir: Fireworks Simulator | 414823 | [414823-burst-noir-fireworks-simulator.json](./414823-burst-noir-fireworks-simulator.json) |
 | Burst Planet | 161393 | [161393-burst-planet.json](./161393-burst-planet.json) |
 | Burst Space | 279086 | [279086-burst-space.json](./279086-burst-space.json) |
