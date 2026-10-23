@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sadness of Valor | 159070 | [159070-sadness-of-valor.json](./159070-sadness-of-valor.json) |
 | Sadoubu (Tea Ceremony Club) | 82946 | [82946-sadoubu-tea-ceremony-club.json](./82946-sadoubu-tea-ceremony-club.json) |
 | Sae | 276177 | [276177-sae.json](./276177-sae.json) |
+| Saeki Chizu Shiki Yumemihada: Dream Skincare | 68435 | [68435-saeki-chizu-shiki-yumemihada-dream-skincare.json](./68435-saeki-chizu-shiki-yumemihada-dream-skincare.json) |
 | Saeko-san to Issho! | 77850 | [77850-saeko-san-to-issho.json](./77850-saeko-san-to-issho.json) |
 | Saeko: Giantess Dating Sim | 258823 | [258823-saeko-giantess-dating-sim.json](./258823-saeko-giantess-dating-sim.json) |
 | Saelig | 36643 | [36643-saelig.json](./36643-saelig.json) |
@@ -2629,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorn | 262084 | [262084-scorn.json](./262084-scorn.json) |
 | Scorn: Deluxe Edition | 205002 | [205002-scorn-deluxe-edition.json](./205002-scorn-deluxe-edition.json) |
 | Scorphius | 213782 | [213782-scorphius.json](./213782-scorphius.json) |
+| Scorpio | 68453 | [68453-scorpio.json](./68453-scorpio.json) |
 | Scorpion | 22729 | [22729-scorpion.json](./22729-scorpion.json) |
 | Scorpion Champions: Island Warfare | 397719 | [397719-scorpion-champions-island-warfare.json](./397719-scorpion-champions-island-warfare.json) |
 | Scorpion Garrison | 280227 | [280227-scorpion-garrison.json](./280227-scorpion-garrison.json) |
@@ -4211,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selkö | 229507 | [229507-selko.json](./229507-selko.json) |
 | Selling Souls | 283244 | [283244-selling-souls.json](./283244-selling-souls.json) |
 | Selling Sunlight | 118412 | [118412-selling-sunlight.json](./118412-selling-sunlight.json) |
+| Selling Sunlight | 68479 | [68479-selling-sunlight.json](./68479-selling-sunlight.json) |
 | Sellsword | 405535 | [405535-sellsword.json](./405535-sellsword.json) |
 | Sellsword VR | 55686 | [55686-sellsword-vr.json](./55686-sellsword-vr.json) |
 | Selma and the Wisp | 32265 | [32265-selma-and-the-wisp.json](./32265-selma-and-the-wisp.json) |
@@ -4291,6 +4294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku IXA | 289017 | [289017-sengoku-ixa.json](./289017-sengoku-ixa.json) |
 | Sengoku Jidai Gold | 124778 | [124778-sengoku-jidai-gold.json](./124778-sengoku-jidai-gold.json) |
 | Sengoku Jidai: Genko Campaign - 2nd Mongol Invasion of Japan 1281 | 184473 | [184473-sengoku-jidai-genko-campaign-2nd-mongol-invasion-of-japan-1281.json](./184473-sengoku-jidai-genko-campaign-2nd-mongol-invasion-of-japan-1281.json) |
+| Sengoku Jidai: Mandate of Heaven | 68437 | [68437-sengoku-jidai-mandate-of-heaven.json](./68437-sengoku-jidai-mandate-of-heaven.json) |
 | Sengoku Jidai: Shadow of the Shogun | 34582 | [34582-sengoku-jidai-shadow-of-the-shogun.json](./34582-sengoku-jidai-shadow-of-the-shogun.json) |
 | Sengoku Kakumei Gaiden | 49786 | [49786-sengoku-kakumei-gaiden.json](./49786-sengoku-kakumei-gaiden.json) |
 | Sengoku Koihime + Sengoku Koihime X Set | 339636 | [339636-sengoku-koihime-sengoku-koihime-x-set.json](./339636-sengoku-koihime-sengoku-koihime-x-set.json) |
@@ -11692,6 +11696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake's Revenge | 7848 | [7848-snakes-revenge.json](./7848-snakes-revenge.json) |
 | Snake2 | 98882 | [98882-snake2.json](./98882-snake2.json) |
 | Snake360 | 71607 | [71607-snake360.json](./71607-snake360.json) |
+| Snake360 Lite | 68431 | [68431-snake360-lite.json](./68431-snake360-lite.json) |
 | Snake3d | 147776 | [147776-snake3d.json](./147776-snake3d.json) |
 | Snakeball | 21881 | [21881-snakeball.json](./21881-snakeball.json) |
 | Snakebird | 13104 | [13104-snakebird.json](./13104-snakebird.json) |
@@ -12739,6 +12744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Frontiers | 317033 | [317033-sol-frontiers.json](./317033-sol-frontiers.json) |
 | Sol Galaxy Defender | 82337 | [82337-sol-galaxy-defender.json](./82337-sol-galaxy-defender.json) |
 | Sol Hemochroma | 138153 | [138153-sol-hemochroma.json](./138153-sol-hemochroma.json) |
+| Sol Invasion | 68434 | [68434-sol-invasion.json](./68434-sol-invasion.json) |
 | Sol Mates | 324572 | [324572-sol-mates.json](./324572-sol-mates.json) |
 | Sol Mates | 421343 | [421343-sol-mates.json](./421343-sol-mates.json) |
 | Sol Moonarge | 85809 | [85809-sol-moonarge.json](./85809-sol-moonarge.json) |
@@ -12768,6 +12774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solace State | 107594 | [107594-solace-state.json](./107594-solace-state.json) |
 | Solana and Sunny's Atelier | 216783 | [216783-solana-and-sunnys-atelier.json](./216783-solana-and-sunnys-atelier.json) |
 | Solanis | 343136 | [343136-solanis.json](./343136-solanis.json) |
+| Solar | 68427 | [68427-solar.json](./68427-solar.json) |
 | Solar 2 | 6342 | [6342-solar-2.json](./6342-solar-2.json) |
 | Solar Assault | 1485 | [1485-solar-assault.json](./1485-solar-assault.json) |
 | Solar Battalion | 99600 | [99600-solar-battalion.json](./99600-solar-battalion.json) |
@@ -12938,6 +12945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SolForge | 16487 | [16487-solforge.json](./16487-solforge.json) |
 | Solheim | 397830 | [397830-solheim.json](./397830-solheim.json) |
 | Soli-tair-ror | 382969 | [382969-soli-tair-ror.json](./382969-soli-tair-ror.json) |
+| Solicheck | 68426 | [68426-solicheck.json](./68426-solicheck.json) |
 | Solid Aether | 107763 | [107763-solid-aether.json](./107763-solid-aether.json) |
 | Solid Body Picross | 124053 | [124053-solid-body-picross.json](./124053-solid-body-picross.json) |
 | Solid Force | 80122 | [80122-solid-force.json](./80122-solid-force.json) |
@@ -15930,6 +15938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space-Orbit | 63238 | [63238-space-orbit.json](./63238-space-orbit.json) |
 | Space-Rat Xplode! | 54385 | [54385-space-rat-xplode.json](./54385-space-rat-xplode.json) |
 | Space/Mech/Pilot | 139924 | [139924-space-mech-pilot.json](./139924-space-mech-pilot.json) |
+| SpaceAttack | 68428 | [68428-spaceattack.json](./68428-spaceattack.json) |
 | Spaceball | 112177 | [112177-spaceball.json](./112177-spaceball.json) |
 | Spaceball Revolution | 21059 | [21059-spaceball-revolution.json](./21059-spaceball-revolution.json) |
 | Spacebar | 177733 | [177733-spacebar.json](./177733-spacebar.json) |
@@ -17357,6 +17366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Timer | 223666 | [223666-spirit-timer.json](./223666-spirit-timer.json) |
 | Spirit Valor | 319702 | [319702-spirit-valor.json](./319702-spirit-valor.json) |
 | Spirit Vendor | 374618 | [374618-spirit-vendor.json](./374618-spirit-vendor.json) |
+| Spirit Whirled | 68430 | [68430-spirit-whirled.json](./68430-spirit-whirled.json) |
 | Spirit Whisperer Conversation With Akari | 363409 | [363409-spirit-whisperer-conversation-with-akari.json](./363409-spirit-whisperer-conversation-with-akari.json) |
 | Spirit Whisperer Conversation With Kamiko | 363663 | [363663-spirit-whisperer-conversation-with-kamiko.json](./363663-spirit-whisperer-conversation-with-kamiko.json) |
 | Spirit Wolves | 189938 | [189938-spirit-wolves.json](./189938-spirit-wolves.json) |
@@ -22889,6 +22899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submansion | 334264 | [334264-submansion.json](./334264-submansion.json) |
 | Submarine | 274867 | [274867-submarine.json](./274867-submarine.json) |
 | Submarine | 346083 | [346083-submarine.json](./346083-submarine.json) |
+| Submarine | 68458 | [68458-submarine.json](./68458-submarine.json) |
 | Submarine Adventure | 133233 | [133233-submarine-adventure.json](./133233-submarine-adventure.json) |
 | Submarine Attack | 46120 | [46120-submarine-attack.json](./46120-submarine-attack.json) |
 | Submarine Attack! | 118118 | [118118-submarine-attack.json](./118118-submarine-attack.json) |
@@ -23247,6 +23258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Uno | 87305 | [87305-sudoku-uno.json](./87305-sudoku-uno.json) |
 | Sudoku Vacation 2 | 234646 | [234646-sudoku-vacation-2.json](./234646-sudoku-vacation-2.json) |
 | Sudoku Variants by Logic Wiz | 263911 | [263911-sudoku-variants-by-logic-wiz.json](./263911-sudoku-variants-by-logic-wiz.json) |
+| Sudoku X | 68433 | [68433-sudoku-x.json](./68433-sudoku-x.json) |
 | Sudoku XL | 90885 | [90885-sudoku-xl.json](./90885-sudoku-xl.json) |
 | Sudoku XP | 278700 | [278700-sudoku-xp.json](./278700-sudoku-xp.json) |
 | Sudoku-Color | 366325 | [366325-sudoku-color.json](./366325-sudoku-color.json) |
@@ -26434,6 +26446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperCold | 233945 | [233945-supercold.json](./233945-supercold.json) |
 | SuperCollapse! II | 23804 | [23804-supercollapse-ii.json](./23804-supercollapse-ii.json) |
 | Supercooked! | 251711 | [251711-supercooked.json](./251711-supercooked.json) |
+| Supercow | 68432 | [68432-supercow.json](./68432-supercow.json) |
 | SuperCowBoy | 339479 | [339479-supercowboy.json](./339479-supercowboy.json) |
 | Supercrab Extravaganza | 226612 | [226612-supercrab-extravaganza.json](./226612-supercrab-extravaganza.json) |
 | Supercross Freestyle | 50069 | [50069-supercross-freestyle.json](./50069-supercross-freestyle.json) |
