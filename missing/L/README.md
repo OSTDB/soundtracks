@@ -889,7 +889,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LaserChain | 334818 | [334818-laserchain.json](./334818-laserchain.json) |
 | Laserium | 104086 | [104086-laserium.json](./104086-laserium.json) |
 | Laserlight | 372234 | [372234-laserlight.json](./372234-laserlight.json) |
+| Laseronium 2 | 54852 | [54852-laseronium-2.json](./54852-laseronium-2.json) |
 | Laseronium: The Beam Focus | 55259 | [55259-laseronium-the-beam-focus.json](./55259-laseronium-the-beam-focus.json) |
+| Laseronium: The Reflexion | 54853 | [54853-laseronium-the-reflexion.json](./54853-laseronium-the-reflexion.json) |
 | Laserpitium | 249307 | [249307-laserpitium.json](./249307-laserpitium.json) |
 | LaserPoint | 274530 | [274530-laserpoint.json](./274530-laserpoint.json) |
 | LaserReimu | 324302 | [324302-laserreimu.json](./324302-laserreimu.json) |
@@ -3062,6 +3064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2016 | 34567 | [34567-lets-sing-2016.json](./34567-lets-sing-2016.json) |
 | Let's Sing 2017 with German Hits | 136157 | [136157-lets-sing-2017-with-german-hits.json](./136157-lets-sing-2017-with-german-hits.json) |
 | Let's Sing 2017: Hits Francais et Internationaux | 268192 | [268192-lets-sing-2017-hits-francais-et-internationaux.json](./268192-lets-sing-2017-hits-francais-et-internationaux.json) |
+| Let's Sing 2018 | 54788 | [54788-lets-sing-2018.json](./54788-lets-sing-2018.json) |
 | Let's Sing 2018 with German Hits | 136142 | [136142-lets-sing-2018-with-german-hits.json](./136142-lets-sing-2018-with-german-hits.json) |
 | Let's Sing 2018: Best of 80's Song Pack | 297295 | [297295-lets-sing-2018-best-of-80s-song-pack.json](./297295-lets-sing-2018-best-of-80s-song-pack.json) |
 | Let's Sing 2018: Chart Hits Song Pack | 297316 | [297316-lets-sing-2018-chart-hits-song-pack.json](./297316-lets-sing-2018-chart-hits-song-pack.json) |
@@ -6850,6 +6853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Change | 217949 | [217949-love-change.json](./217949-love-change.json) |
 | Love Chronicles: A Winter's Spell - Collector's Edition | 105165 | [105165-love-chronicles-a-winters-spell-collectors-edition.json](./105165-love-chronicles-a-winters-spell-collectors-edition.json) |
 | Love Chronicles: Salvation - Collector's Edition | 89407 | [89407-love-chronicles-salvation-collectors-edition.json](./89407-love-chronicles-salvation-collectors-edition.json) |
+| Love Chronicles: The Sword and the Rose - Collector's Edition | 54872 | [54872-love-chronicles-the-sword-and-the-rose-collectors-edition.json](./54872-love-chronicles-the-sword-and-the-rose-collectors-edition.json) |
 | Love Clear | 136757 | [136757-love-clear.json](./136757-love-clear.json) |
 | Love Clear: Limited Edition | 165957 | [165957-love-clear-limited-edition.json](./165957-love-clear-limited-edition.json) |
 | Love Collection 4-in-1 | 404259 | [404259-love-collection-4-in-1.json](./404259-love-collection-4-in-1.json) |
@@ -7768,6 +7772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna in Silver Shards | 271233 | [271233-luna-in-silver-shards.json](./271233-luna-in-silver-shards.json) |
 | Luna League Soccer | 267324 | [267324-luna-league-soccer.json](./267324-luna-league-soccer.json) |
 | Luna Online | 93982 | [93982-luna-online.json](./93982-luna-online.json) |
+| Luna Online: Reborn | 54806 | [54806-luna-online-reborn.json](./54806-luna-online-reborn.json) |
 | Luna Sanctus | 121563 | [121563-luna-sanctus.json](./121563-luna-sanctus.json) |
 | Luna Sky RDX | 118734 | [118734-luna-sky-rdx.json](./118734-luna-sky-rdx.json) |
 | Luna Sonata | 243424 | [243424-luna-sonata.json](./243424-luna-sonata.json) |
