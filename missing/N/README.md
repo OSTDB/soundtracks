@@ -1528,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbor | 144366 | [144366-neighbor.json](./144366-neighbor.json) |
 | Neighbor | 181842 | [181842-neighbor.json](./181842-neighbor.json) |
 | Neighbor Diana | 167172 | [167172-neighbor-diana.json](./167172-neighbor-diana.json) |
+| Neighbor from Nightmare | 95805 | [95805-neighbor-from-nightmare.json](./95805-neighbor-from-nightmare.json) |
 | Neighbor Next Door | 309668 | [309668-neighbor-next-door.json](./309668-neighbor-next-door.json) |
 | Neighbor Sponge: Scary Secret | 326700 | [326700-neighbor-sponge-scary-secret.json](./326700-neighbor-sponge-scary-secret.json) |
 | Neighbor Watching | 171037 | [171037-neighbor-watching.json](./171037-neighbor-watching.json) |
