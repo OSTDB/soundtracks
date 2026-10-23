@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rap Quest | 295037 | [295037-rap-quest.json](./295037-rap-quest.json) |
 | Rap Simulator | 250303 | [250303-rap-simulator.json](./250303-rap-simulator.json) |
 | Rapala Fishing Frenzy 2009 | 7155 | [7155-rapala-fishing-frenzy-2009.json](./7155-rapala-fishing-frenzy-2009.json) |
+| Rapala Fishing: Pro Series | 68457 | [68457-rapala-fishing-pro-series.json](./68457-rapala-fishing-pro-series.json) |
 | Rapala for Kinect | 20242 | [20242-rapala-for-kinect.json](./20242-rapala-for-kinect.json) |
 | Rapala Pro Bass Fishing | 21740 | [21740-rapala-pro-bass-fishing.json](./21740-rapala-pro-bass-fishing.json) |
 | Rapala Pro Fishing | 308988 | [308988-rapala-pro-fishing.json](./308988-rapala-pro-fishing.json) |
@@ -2452,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality Raiders | 44216 | [44216-reality-raiders.json](./44216-reality-raiders.json) |
 | Reality Rash | 221094 | [221094-reality-rash.json](./221094-reality-rash.json) |
 | Reality Rifts | 320517 | [320517-reality-rifts.json](./320517-reality-rifts.json) |
+| Reality Runner | 68451 | [68451-reality-runner.json](./68451-reality-runner.json) |
 | Reality Stability Office | 401086 | [401086-reality-stability-office.json](./401086-reality-stability-office.json) |
 | Reality-On-The-Norm: The Affair of the Weirdo | 58048 | [58048-reality-on-the-norm-the-affair-of-the-weirdo.json](./58048-reality-on-the-norm-the-affair-of-the-weirdo.json) |
 | Reality's Reverse Side | 156523 | [156523-realitys-reverse-side.json](./156523-realitys-reverse-side.json) |
@@ -3751,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relapse | 342849 | [342849-relapse.json](./342849-relapse.json) |
 | Relapse | 376100 | [376100-relapse.json](./376100-relapse.json) |
 | Relapse | 58908 | [58908-relapse.json](./58908-relapse.json) |
+| Relapse: Resistance | 68411 | [68411-relapse-resistance.json](./68411-relapse-resistance.json) |
 | Relash | 169647 | [169647-relash.json](./169647-relash.json) |
 | Related | 133380 | [133380-related.json](./133380-related.json) |
 | Relation Killer | 224645 | [224645-relation-killer.json](./224645-relation-killer.json) |
@@ -8540,6 +8543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romguns | 125089 | [125089-romguns.json](./125089-romguns.json) |
 | Romi | 96285 | [96285-romi.json](./96285-romi.json) |
 | Romino's Adventure | 209717 | [209717-rominos-adventure.json](./209717-rominos-adventure.json) |
+| Rommel: Battles for North Africa | 68478 | [68478-rommel-battles-for-north-africa.json](./68478-rommel-battles-for-north-africa.json) |
 | Rommel's Revenge | 26304 | [26304-rommels-revenge.json](./26304-rommels-revenge.json) |
 | Romp of Dump | 250253 | [250253-romp-of-dump.json](./250253-romp-of-dump.json) |
 | Rompe! | 171078 | [171078-rompe.json](./171078-rompe.json) |
@@ -8634,6 +8638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room 40 | 120364 | [120364-room-40.json](./120364-room-40.json) |
 | Room 404 | 374404 | [374404-room-404.json](./374404-room-404.json) |
 | Room 404 | 55191 | [55191-room-404.json](./55191-room-404.json) |
+| Room 42 | 68493 | [68493-room-42.json](./68493-room-42.json) |
 | Room 502 | 351567 | [351567-room-502.json](./351567-room-502.json) |
 | Room 54: Horde Survival | 335414 | [335414-room-54-horde-survival.json](./335414-room-54-horde-survival.json) |
 | Room 817 | 262379 | [262379-room-817.json](./262379-room-817.json) |
@@ -9775,6 +9780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Willy! | 215866 | [215866-run-willy.json](./215866-run-willy.json) |
 | Run Witch | 281327 | [281327-run-witch.json](./281327-run-witch.json) |
 | Run x Gun | 275543 | [275543-run-x-gun.json](./275543-run-x-gun.json) |
+| Run Zeus Run | 68498 | [68498-run-zeus-run.json](./68498-run-zeus-run.json) |
 | Run-Gunners' Revenge | 240663 | [240663-run-gunners-revenge.json](./240663-run-gunners-revenge.json) |
 | Run-N-Jump-N-Jump-N-Run | 134913 | [134913-run-n-jump-n-jump-n-run.json](./134913-run-n-jump-n-jump-n-run.json) |
 | Run, chicken, run! | 113885 | [113885-run-chicken-run.json](./113885-run-chicken-run.json) |
