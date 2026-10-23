@@ -2158,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn in Arctic | 308340 | [308340-dawn-in-arctic.json](./308340-dawn-in-arctic.json) |
 | Dawn in Bloody Darkness | 407525 | [407525-dawn-in-bloody-darkness.json](./407525-dawn-in-bloody-darkness.json) |
 | Dawn in the Air | 234065 | [234065-dawn-in-the-air.json](./234065-dawn-in-the-air.json) |
+| Dawn of a Soul | 63736 | [63736-dawn-of-a-soul.json](./63736-dawn-of-a-soul.json) |
 | Dawn of Anarchy | 274773 | [274773-dawn-of-anarchy.json](./274773-dawn-of-anarchy.json) |
 | Dawn of Andromeda | 28533 | [28533-dawn-of-andromeda.json](./28533-dawn-of-andromeda.json) |
 | Dawn of Andromeda: Subterfuge | 172120 | [172120-dawn-of-andromeda-subterfuge.json](./172120-dawn-of-andromeda-subterfuge.json) |
@@ -5310,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de GO! | 146907 | [146907-densha-de-go.json](./146907-densha-de-go.json) |
 | Densha de GO! | 43850 | [43850-densha-de-go.json](./43850-densha-de-go.json) |
 | Densha de Go! 2 | 37286 | [37286-densha-de-go-2.json](./37286-densha-de-go-2.json) |
+| Densha de GO! 3 Tsuukinhen | 63706 | [63706-densha-de-go-3-tsuukinhen.json](./63706-densha-de-go-3-tsuukinhen.json) |
 | Densha de Go! 3 Tsuukinhen: Daiyakaisei | 146532 | [146532-densha-de-go-3-tsuukinhen-daiyakaisei.json](./146532-densha-de-go-3-tsuukinhen-daiyakaisei.json) |
 | Densha de GO! 64 | 3469 | [3469-densha-de-go-64.json](./3469-densha-de-go-64.json) |
 | Densha de GO! EX | 94351 | [94351-densha-de-go-ex.json](./94351-densha-de-go-ex.json) |
@@ -5320,7 +5322,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de Go! Pocket: Osakakanjousen-hen | 146559 | [146559-densha-de-go-pocket-osakakanjousen-hen.json](./146559-densha-de-go-pocket-osakakanjousen-hen.json) |
 | Densha de Go! Pocket: Toukaidousen-hen | 146560 | [146560-densha-de-go-pocket-toukaidousen-hen.json](./146560-densha-de-go-pocket-toukaidousen-hen.json) |
 | Densha de GO! Professional | 78575 | [78575-densha-de-go-professional.json](./78575-densha-de-go-professional.json) |
+| Densha de GO! Professional 2 | 63703 | [63703-densha-de-go-professional-2.json](./63703-densha-de-go-professional-2.json) |
 | Densha de Go! Shinkansen EX: Sanyou Shinkansen-hen | 146542 | [146542-densha-de-go-shinkansen-ex-sanyou-shinkansen-hen.json](./146542-densha-de-go-shinkansen-ex-sanyou-shinkansen-hen.json) |
+| Densha de GO! Shinkansen: Sanyou Shinkansen-hen | 63708 | [63708-densha-de-go-shinkansen-sanyou-shinkansen-hen.json](./63708-densha-de-go-shinkansen-sanyou-shinkansen-hen.json) |
 | Densha de GO! Tokubetsu-hen: Fukkatsu Shouwa no Yamanotesen | 66660 | [66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json](./66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json) |
 | Densha de Go!! | 146597 | [146597-densha-de-go.json](./146597-densha-de-go.json) |
 | Densha de Go!! Hashirou Yamanote-sen | 139066 | [139066-densha-de-go-hashirou-yamanote-sen.json](./139066-densha-de-go-hashirou-yamanote-sen.json) |
@@ -9383,6 +9387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki-doki on Air | 166576 | [166576-doki-doki-on-air.json](./166576-doki-doki-on-air.json) |
 | Doki-doki on Air 2 | 166577 | [166577-doki-doki-on-air-2.json](./166577-doki-doki-on-air-2.json) |
 | Doki-doki Penguin Land | 6096 | [6096-doki-doki-penguin-land.json](./6096-doki-doki-penguin-land.json) |
+| Doki-doki Poyacchio!! | 63705 | [63705-doki-doki-poyacchio.json](./63705-doki-doki-poyacchio.json) |
 | Doki-doki Pretty League Lovely Star | 166575 | [166575-doki-doki-pretty-league-lovely-star.json](./166575-doki-doki-pretty-league-lovely-star.json) |
 | Doki-Doki Pretty League: Nekketsu Otome Seishunki | 306674 | [306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json](./306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json) |
 | Doki-doki Surprise | 255523 | [255523-doki-doki-surprise.json](./255523-doki-doki-surprise.json) |
