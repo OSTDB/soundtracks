@@ -1753,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo: Akenai Yoru ni | 347641 | [347641-tantei-jinguji-saburo-akenai-yoru-ni.json](./347641-tantei-jinguji-saburo-akenai-yoru-ni.json) |
 | Tantei Jinguji Saburo: Akenai Yoru ni & Nazono-Jikenbo | 347292 | [347292-tantei-jinguji-saburo-akenai-yoru-ni-and-nazono-jikenbo.json](./347292-tantei-jinguji-saburo-akenai-yoru-ni-and-nazono-jikenbo.json) |
 | Tantei Jinguji Saburo: Episode Code - Ashes and Diamonds | 67884 | [67884-tantei-jinguji-saburo-episode-code-ashes-and-diamonds.json](./67884-tantei-jinguji-saburo-episode-code-ashes-and-diamonds.json) |
+| Tantei Jinguji Saburo: Fukushuu no Rinbu | 65320 | [65320-tantei-jinguji-saburo-fukushuu-no-rinbu.json](./65320-tantei-jinguji-saburo-fukushuu-no-rinbu.json) |
 | Tantei Jinguji Saburo: Fukushuu no Rondo | 151624 | [151624-tantei-jinguji-saburo-fukushuu-no-rondo.json](./151624-tantei-jinguji-saburo-fukushuu-no-rondo.json) |
 | Tantei Jinguji Saburo: Futa-iro no Shoujo | 347629 | [347629-tantei-jinguji-saburo-futa-iro-no-shoujo.json](./347629-tantei-jinguji-saburo-futa-iro-no-shoujo.json) |
 | Tantei Jinguji Saburo: Inochi Tatsu Kokugen | 347630 | [347630-tantei-jinguji-saburo-inochi-tatsu-kokugen.json](./347630-tantei-jinguji-saburo-inochi-tatsu-kokugen.json) |
@@ -8184,6 +8185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great White Destroyer | 54304 | [54304-the-great-white-destroyer.json](./54304-the-great-white-destroyer.json) |
 | The Great Wizards Tournament | 123443 | [123443-the-great-wizards-tournament.json](./123443-the-great-wizards-tournament.json) |
 | The Great Wobo Escape | 23984 | [23984-the-great-wobo-escape.json](./23984-the-great-wobo-escape.json) |
+| The Great Word Adventure | 65363 | [65363-the-great-word-adventure.json](./65363-the-great-word-adventure.json) |
 | The Great Yokai of the Haunted Halls | 331118 | [331118-the-great-yokai-of-the-haunted-halls.json](./331118-the-great-yokai-of-the-haunted-halls.json) |
 | The Greater | 301342 | [301342-the-greater.json](./301342-the-greater.json) |
 | The Greatest Chef | 322098 | [322098-the-greatest-chef.json](./322098-the-greatest-chef.json) |
@@ -19339,6 +19341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobari Dream Ocean + Nightmare | 276950 | [276950-tobari-dream-ocean-nightmare.json](./276950-tobari-dream-ocean-nightmare.json) |
 | Tobari Dream Ocean: Nightmare | 277229 | [277229-tobari-dream-ocean-nightmare.json](./277229-tobari-dream-ocean-nightmare.json) |
 | Tobby The Dog | 289942 | [289942-tobby-the-dog.json](./289942-tobby-the-dog.json) |
+| Tobe & Friends Hookshot Escape | 65325 | [65325-tobe-and-friends-hookshot-escape.json](./65325-tobe-and-friends-hookshot-escape.json) |
 | Tobe! Rockman | 401679 | [401679-tobe-rockman.json](./401679-tobe-rockman.json) |
 | Tobe's Great Escape | 249105 | [249105-tobes-great-escape.json](./249105-tobes-great-escape.json) |
 | Tobe's Hookshot Escape | 248880 | [248880-tobes-hookshot-escape.json](./248880-tobes-hookshot-escape.json) |
@@ -20373,6 +20376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Burger | 117102 | [117102-top-burger.json](./117102-top-burger.json) |
 | Top Cat in Beverly Hills Cats | 71415 | [71415-top-cat-in-beverly-hills-cats.json](./71415-top-cat-in-beverly-hills-cats.json) |
 | Top Check | 331986 | [331986-top-check.json](./331986-top-check.json) |
+| Top Chef: The Game | 65350 | [65350-top-chef-the-game.json](./65350-top-chef-the-game.json) |
 | Top Classic Plaigarized | 319095 | [319095-top-classic-plaigarized.json](./319095-top-classic-plaigarized.json) |
 | Top Cop: Police Training | 393050 | [393050-top-cop-police-training.json](./393050-top-cop-police-training.json) |
 | Top Darts | 91918 | [91918-top-darts.json](./91918-top-darts.json) |
@@ -21880,6 +21884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Shire | 253387 | [253387-toy-shire.json](./253387-toy-shire.json) |
 | Toy Shop | 21299 | [21299-toy-shop.json](./21299-toy-shop.json) |
 | Toy Shop Boys | 43195 | [43195-toy-shop-boys.json](./43195-toy-shop-boys.json) |
+| Toy Shot | 65330 | [65330-toy-shot.json](./65330-toy-shot.json) |
 | Toy Smash Kaboom! | 347357 | [347357-toy-smash-kaboom.json](./347357-toy-smash-kaboom.json) |
 | Toy soldier: Bastion | 102241 | [102241-toy-soldier-bastion.json](./102241-toy-soldier-bastion.json) |
 | Toy Soldiers | 9450 | [9450-toy-soldiers.json](./9450-toy-soldiers.json) |
