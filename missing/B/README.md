@@ -13670,6 +13670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker: Nightmare Begins | 116925 | [116925-bunker-nightmare-begins.json](./116925-bunker-nightmare-begins.json) |
 | Bunker16 | 223684 | [223684-bunker16.json](./223684-bunker16.json) |
 | Bunkered with Femboy | 388175 | [388175-bunkered-with-femboy.json](./388175-bunkered-with-femboy.json) |
+| Bunky | 97759 | [97759-bunky.json](./97759-bunky.json) |
 | Bunmei Kaika: Aoiza Ibunroku | 221966 | [221966-bunmei-kaika-aoiza-ibunroku.json](./221966-bunmei-kaika-aoiza-ibunroku.json) |
 | Bunmei Kaika: Aoiza Ibunroku Saien | 59391 | [59391-bunmei-kaika-aoiza-ibunroku-saien.json](./59391-bunmei-kaika-aoiza-ibunroku-saien.json) |
 | Bunni Gunni Classic | 223501 | [223501-bunni-gunni-classic.json](./223501-bunni-gunni-classic.json) |
@@ -14383,7 +14384,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bye Sweet Carole: Deluxe Edition | 401673 | [401673-bye-sweet-carole-deluxe-edition.json](./401673-bye-sweet-carole-deluxe-edition.json) |
 | Bye-Bye Bindings! | 368364 | [368364-bye-bye-bindings.json](./368364-bye-bye-bindings.json) |
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
+| Bygg Båtar med Mulle Meck | 97733 | [97733-bygg-batar-med-mulle-meck.json](./97733-bygg-batar-med-mulle-meck.json) |
 | Bygg båtar med Mulle Meck: Specialversion | 319813 | [319813-bygg-batar-med-mulle-meck-specialversion.json](./319813-bygg-batar-med-mulle-meck-specialversion.json) |
+| Bygg Flygplan med Mulle Meck | 97735 | [97735-bygg-flygplan-med-mulle-meck.json](./97735-bygg-flygplan-med-mulle-meck.json) |
+| Bygg Hus med Mulle Meck | 97736 | [97736-bygg-hus-med-mulle-meck.json](./97736-bygg-hus-med-mulle-meck.json) |
 | Bygone Dreams | 149522 | [149522-bygone-dreams.json](./149522-bygone-dreams.json) |
 | Bygone Worlds: Drama at the Odeion | 76521 | [76521-bygone-worlds-drama-at-the-odeion.json](./76521-bygone-worlds-drama-at-the-odeion.json) |
 | Bygone Worlds: Jerusalem | 74446 | [74446-bygone-worlds-jerusalem.json](./74446-bygone-worlds-jerusalem.json) |
