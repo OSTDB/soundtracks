@@ -4307,6 +4307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutRun | 307928 | [307928-outrun.json](./307928-outrun.json) |
 | OutRun | 307929 | [307929-outrun.json](./307929-outrun.json) |
 | OutRun 2006: Coast 2 Coast | 2054 | [2054-outrun-2006-coast-2-coast.json](./2054-outrun-2006-coast-2-coast.json) |
+| OutRun 2019 | 45767 | [45767-outrun-2019.json](./45767-outrun-2019.json) |
 | OutRun 3-D | 46136 | [46136-outrun-3-d.json](./46136-outrun-3-d.json) |
 | OutRun Europa | 38874 | [38874-outrun-europa.json](./38874-outrun-europa.json) |
 | Outrun Online Arcade | 21204 | [21204-outrun-online-arcade.json](./21204-outrun-online-arcade.json) |
