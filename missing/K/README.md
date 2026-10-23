@@ -1786,6 +1786,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Senshi Gundam 00 | 47870 | [47870-kidou-senshi-gundam-00.json](./47870-kidou-senshi-gundam-00.json) |
 | Kidou Senshi Gundam F91: Formula Senki 0122 | 67614 | [67614-kidou-senshi-gundam-f91-formula-senki-0122.json](./67614-kidou-senshi-gundam-f91-formula-senki-0122.json) |
 | Kidou Senshi Gundam Gaiden: Missing Link | 62277 | [62277-kidou-senshi-gundam-gaiden-missing-link.json](./62277-kidou-senshi-gundam-gaiden-missing-link.json) |
+| Kidou Senshi Gundam Part 1: Gundam Daishi ni Tatsu | 62602 | [62602-kidou-senshi-gundam-part-1-gundam-daishi-ni-tatsu.json](./62602-kidou-senshi-gundam-part-1-gundam-daishi-ni-tatsu.json) |
+| Kidou Senshi Gundam Part 2: Tobe Gundam | 62604 | [62604-kidou-senshi-gundam-part-2-tobe-gundam.json](./62604-kidou-senshi-gundam-part-2-tobe-gundam.json) |
 | Kidou Senshi Gundam Seed | 37371 | [37371-kidou-senshi-gundam-seed.json](./37371-kidou-senshi-gundam-seed.json) |
 | Kidou Senshi Gundam SEED Destiny: Rengou vs. Z.A.F.T. II Plus | 43227 | [43227-kidou-senshi-gundam-seed-destiny-rengou-vs-z-a-f-t-ii-plus.json](./43227-kidou-senshi-gundam-seed-destiny-rengou-vs-z-a-f-t-ii-plus.json) |
 | Kidou Senshi Gundam Vol. 1 Side7 | 37370 | [37370-kidou-senshi-gundam-vol-1-side7.json](./37370-kidou-senshi-gundam-vol-1-side7.json) |
@@ -2209,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -4091,6 +4094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kommissar Kugelblitz: Der Fall Wüstenkönig | 221256 | [221256-kommissar-kugelblitz-der-fall-wustenkonig.json](./221256-kommissar-kugelblitz-der-fall-wustenkonig.json) |
 | Kommissar Kugelblitz: Vermisst am Mississippi | 282691 | [282691-kommissar-kugelblitz-vermisst-am-mississippi.json](./282691-kommissar-kugelblitz-vermisst-am-mississippi.json) |
 | Kommissar Rex | 217734 | [217734-kommissar-rex.json](./217734-kommissar-rex.json) |
+| Komocchi | 62538 | [62538-komocchi.json](./62538-komocchi.json) |
 | Komodo 3K Arena | 393110 | [393110-komodo-3k-arena.json](./393110-komodo-3k-arena.json) |
 | Komori Fruit Rush | 126633 | [126633-komori-fruit-rush.json](./126633-komori-fruit-rush.json) |
 | Komparet | 415481 | [415481-komparet.json](./415481-komparet.json) |
