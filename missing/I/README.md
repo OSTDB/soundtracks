@@ -2553,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incrempire | 407857 | [407857-incrempire.json](./407857-incrempire.json) |
 | Incretyper | 385428 | [385428-incretyper.json](./385428-incretyper.json) |
 | Increvaders | 418743 | [418743-increvaders.json](./418743-increvaders.json) |
+| Incubation: The Wilderness Missions | 78480 | [78480-incubation-the-wilderness-missions.json](./78480-incubation-the-wilderness-missions.json) |
 | Incubation: Time Is Running Out | 9033 | [9033-incubation-time-is-running-out.json](./9033-incubation-time-is-running-out.json) |
 | Incubo | 113609 | [113609-incubo.json](./113609-incubo.json) |
 | Incubus | 200567 | [200567-incubus.json](./200567-incubus.json) |
