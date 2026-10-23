@@ -1529,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Shop | 143534 | [143534-banana-shop.json](./143534-banana-shop.json) |
 | Banana Simulator | 312450 | [312450-banana-simulator.json](./312450-banana-simulator.json) |
 | Banana Tap | 314875 | [314875-banana-tap.json](./314875-banana-tap.json) |
+| Banana Town | 72509 | [72509-banana-town.json](./72509-banana-town.json) |
 | Banana Yetti | 249054 | [249054-banana-yetti.json](./249054-banana-yetti.json) |
 | Banana-Clicker | 322657 | [322657-banana-clicker.json](./322657-banana-clicker.json) |
 | Banana-Shaped | 309490 | [309490-banana-shaped.json](./309490-banana-shaped.json) |
@@ -4299,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Your Meat | 114107 | [114107-beat-your-meat.json](./114107-beat-your-meat.json) |
 | Beat, Heart, Beat | 322745 | [322745-beat-heart-beat.json](./322745-beat-heart-beat.json) |
 | Beat!: After the Summer - Another Season Episode | 241326 | [241326-beat-after-the-summer-another-season-episode.json](./241326-beat-after-the-summer-another-season-episode.json) |
+| Beat.R. | 72484 | [72484-beat-r.json](./72484-beat-r.json) |
 | Beat'n Groovy | 84325 | [84325-beatn-groovy.json](./84325-beatn-groovy.json) |
 | Beatable | 342096 | [342096-beatable.json](./342096-beatable.json) |
 | BeatAim | 126945 | [126945-beataim.json](./126945-beataim.json) |
@@ -8004,6 +8006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Men | 44176 | [44176-blind-men.json](./44176-blind-men.json) |
 | Blind Mind | 96877 | [96877-blind-mind.json](./96877-blind-mind.json) |
 | Blind Monk's Society | 201765 | [201765-blind-monks-society.json](./201765-blind-monks-society.json) |
+| Blind Panic | 72526 | [72526-blind-panic.json](./72526-blind-panic.json) |
 | Blind People Simulator | 57612 | [57612-blind-people-simulator.json](./57612-blind-people-simulator.json) |
 | Blind Quest: The Frost Demon | 167264 | [167264-blind-quest-the-frost-demon.json](./167264-blind-quest-the-frost-demon.json) |
 | Blind Quest: The Ivy Queen | 295498 | [295498-blind-quest-the-ivy-queen.json](./295498-blind-quest-the-ivy-queen.json) |
@@ -8785,6 +8788,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood: The Last Vampire - First Volume | 65028 | [65028-blood-the-last-vampire-first-volume.json](./65028-blood-the-last-vampire-first-volume.json) |
 | Blood: The Last Vampire - Last Volume | 65026 | [65026-blood-the-last-vampire-last-volume.json](./65026-blood-the-last-vampire-last-volume.json) |
 | Blood+ | 286589 | [286589-blood.json](./286589-blood.json) |
+| Blood+: Final Piece | 72478 | [72478-blood-final-piece.json](./72478-blood-final-piece.json) |
+| Blood+: Souyoku no Battle Rondo | 72477 | [72477-blood-souyoku-no-battle-rondo.json](./72477-blood-souyoku-no-battle-rondo.json) |
 | Blood=Bullets | 320565 | [320565-blood-bullets.json](./320565-blood-bullets.json) |
 | Bloodball | 396427 | [396427-bloodball.json](./396427-bloodball.json) |
 | Bloodbark | 339221 | [339221-bloodbark.json](./339221-bloodbark.json) |
@@ -13216,6 +13221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buffet Boss: Complete Edition | 317914 | [317914-buffet-boss-complete-edition.json](./317914-buffet-boss-complete-edition.json) |
 | Buffet Boss: Rolling Sushi | 316219 | [316219-buffet-boss-rolling-sushi.json](./316219-buffet-boss-rolling-sushi.json) |
 | Buffet Knight: Decadent Full Course | 333498 | [333498-buffet-knight-decadent-full-course.json](./333498-buffet-knight-decadent-full-course.json) |
+| Buffy Stole Your Sandwich | 72502 | [72502-buffy-stole-your-sandwich.json](./72502-buffy-stole-your-sandwich.json) |
 | Buffy the Vampire Slayer | 206690 | [206690-buffy-the-vampire-slayer.json](./206690-buffy-the-vampire-slayer.json) |
 | Buffy the Vampire Slayer: Chaos Bleeds | 3837 | [3837-buffy-the-vampire-slayer-chaos-bleeds.json](./3837-buffy-the-vampire-slayer-chaos-bleeds.json) |
 | Buffy the Vampire Slayer: Sacrifice | 21130 | [21130-buffy-the-vampire-slayer-sacrifice.json](./21130-buffy-the-vampire-slayer-sacrifice.json) |
