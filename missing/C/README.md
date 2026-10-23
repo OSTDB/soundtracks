@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom's Gold Medal Challenge '92 | 48159 | [48159-capcoms-gold-medal-challenge-92.json](./48159-capcoms-gold-medal-challenge-92.json) |
 | Capcom's MVP Football | 42597 | [42597-capcoms-mvp-football.json](./42597-capcoms-mvp-football.json) |
 | Capcom's Soccer Shootout | 42598 | [42598-capcoms-soccer-shootout.json](./42598-capcoms-soccer-shootout.json) |
+| Cape | 59713 | [59713-cape.json](./59713-cape.json) |
 | Cape Fathom | 310764 | [310764-cape-fathom.json](./310764-cape-fathom.json) |
 | Cape Hideous | 320532 | [320532-cape-hideous.json](./320532-cape-hideous.json) |
 | Cape's Escape Game 2.5th Room | 148326 | [148326-capes-escape-game-2-5th-room.json](./148326-capes-escape-game-2-5th-room.json) |
@@ -1372,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule Force | 11184 | [11184-capsule-force.json](./11184-capsule-force.json) |
 | Capsule Hero | 353611 | [353611-capsule-hero.json](./353611-capsule-hero.json) |
 | Capsule Hotel Simulator | 159887 | [159887-capsule-hotel-simulator.json](./159887-capsule-hotel-simulator.json) |
+| Capsule II: The 11th Sandman | 59710 | [59710-capsule-ii-the-11th-sandman.json](./59710-capsule-ii-the-11th-sandman.json) |
 | Capsule Jump | 86564 | [86564-capsule-jump.json](./86564-capsule-jump.json) |
 | Capsule Lock | 183293 | [183293-capsule-lock.json](./183293-capsule-lock.json) |
 | Capsule Monsters | 341836 | [341836-capsule-monsters.json](./341836-capsule-monsters.json) |
@@ -3160,6 +3162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Rescue Inc. | 345650 | [345650-cat-rescue-inc.json](./345650-cat-rescue-inc.json) |
 | Cat Runner 2018 | 99414 | [99414-cat-runner-2018.json](./99414-cat-runner-2018.json) |
 | Cat Sandbox | 277738 | [277738-cat-sandbox.json](./277738-cat-sandbox.json) |
+| Cat Scratch | 59719 | [59719-cat-scratch.json](./59719-cat-scratch.json) |
 | Cat Screen | 410234 | [410234-cat-screen.json](./410234-cat-screen.json) |
 | Cat Search in Feudal Japan | 284798 | [284798-cat-search-in-feudal-japan.json](./284798-cat-search-in-feudal-japan.json) |
 | Cat Search in Medieval Times | 246839 | [246839-cat-search-in-medieval-times.json](./246839-cat-search-in-medieval-times.json) |
@@ -3711,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavalry Charge | 326296 | [326296-cavalry-charge.json](./326296-cavalry-charge.json) |
 | Cave | 141816 | [141816-cave.json](./141816-cave.json) |
 | Cave Bad | 144105 | [144105-cave-bad.json](./144105-cave-bad.json) |
+| Cave Blast | 59633 | [59633-cave-blast.json](./59633-cave-blast.json) |
 | Cave Bowling | 87262 | [87262-cave-bowling.json](./87262-cave-bowling.json) |
 | Cave Brawlers | 82034 | [82034-cave-brawlers.json](./82034-cave-brawlers.json) |
 | Cave Chaos | 250612 | [250612-cave-chaos.json](./250612-cave-chaos.json) |
@@ -7235,6 +7239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Explorer: Seattle | 88166 | [88166-city-explorer-seattle.json](./88166-city-explorer-seattle.json) |
 | City Extreme Driving Collection | 328538 | [328538-city-extreme-driving-collection.json](./328538-city-extreme-driving-collection.json) |
 | City Fascination | 405739 | [405739-city-fascination.json](./405739-city-fascination.json) |
+| City Fighter | 59641 | [59641-city-fighter.json](./59641-city-fighter.json) |
 | City Fighter vs Street Gang | 220188 | [220188-city-fighter-vs-street-gang.json](./220188-city-fighter-vs-street-gang.json) |
 | City Fighter: Vertical Limit | 237626 | [237626-city-fighter-vertical-limit.json](./237626-city-fighter-vertical-limit.json) |
 | City Full Of Alien Scum | 272025 | [272025-city-full-of-alien-scum.json](./272025-city-full-of-alien-scum.json) |
@@ -14154,6 +14159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroad OS | 259007 | [259007-crossroad-os.json](./259007-crossroad-os.json) |
 | Crossroad Simulator | 193774 | [193774-crossroad-simulator.json](./193774-crossroad-simulator.json) |
 | Crossroads | 377570 | [377570-crossroads.json](./377570-crossroads.json) |
+| Crossroads | 59709 | [59709-crossroads.json](./59709-crossroads.json) |
 | Crossroads Extreme | 119620 | [119620-crossroads-extreme.json](./119620-crossroads-extreme.json) |
 | Crossroads Farming Co. | 377056 | [377056-crossroads-farming-co.json](./377056-crossroads-farming-co.json) |
 | Crossroads Inn | 107255 | [107255-crossroads-inn.json](./107255-crossroads-inn.json) |
