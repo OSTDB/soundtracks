@@ -4755,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picma: Picture Enigmas | 102044 | [102044-picma-picture-enigmas.json](./102044-picma-picture-enigmas.json) |
 | Picme | 245739 | [245739-picme.json](./245739-picme.json) |
 | Picnic | 22817 | [22817-picnic.json](./22817-picnic.json) |
+| Picnic | 88068 | [88068-picnic.json](./88068-picnic.json) |
 | Picnic Girls | 376760 | [376760-picnic-girls.json](./376760-picnic-girls.json) |
 | Picnic Paranoia | 18560 | [18560-picnic-paranoia.json](./18560-picnic-paranoia.json) |
 | Picnic Penguin | 202142 | [202142-picnic-penguin.json](./202142-picnic-penguin.json) |
@@ -11599,6 +11600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prismatic: Nox's Gate | 337481 | [337481-prismatic-noxs-gate.json](./337481-prismatic-noxs-gate.json) |
 | Prismatica | 35033 | [35033-prismatica.json](./35033-prismatica.json) |
 | Prismaticallization | 108832 | [108832-prismaticallization.json](./108832-prismaticallization.json) |
+| Prismatix | 88071 | [88071-prismatix.json](./88071-prismatix.json) |
 | Prisme 7 | 133179 | [133179-prisme-7.json](./133179-prisme-7.json) |
 | Prisnhax | 319777 | [319777-prisnhax.json](./319777-prisnhax.json) |
 | Prison | 348595 | [348595-prison.json](./348595-prison.json) |
@@ -13268,6 +13270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycastria | 13748 | [13748-psycastria.json](./13748-psycastria.json) |
 | Psych | 150012 | [150012-psych.json](./150012-psych.json) |
 | Psych: The Game | 19312 | [19312-psych-the-game.json](./19312-psych-the-game.json) |
+| Psych! Outwit Your Friends | 88059 | [88059-psych-outwit-your-friends.json](./88059-psych-outwit-your-friends.json) |
 | Psyche Metal: The Bleeding | 141070 | [141070-psyche-metal-the-bleeding.json](./141070-psyche-metal-the-bleeding.json) |
 | Psyche Soldier VR | 30097 | [30097-psyche-soldier-vr.json](./30097-psyche-soldier-vr.json) |
 | Psychedelica of the Ashen Hawk | 41824 | [41824-psychedelica-of-the-ashen-hawk.json](./41824-psychedelica-of-the-ashen-hawk.json) |
