@@ -2858,6 +2858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scratchers | 352885 | [352885-scratchers.json](./352885-scratchers.json) |
 | Scratchin' Melodii | 215235 | [215235-scratchin-melodii.json](./215235-scratchin-melodii.json) |
 | ScrawlBrawl | 194902 | [194902-scrawlbrawl.json](./194902-scrawlbrawl.json) |
+| Scray Nightmare: Secret Mystery | 89001 | [89001-scray-nightmare-secret-mystery.json](./89001-scray-nightmare-secret-mystery.json) |
 | Scream 4 | 77204 | [77204-scream-4.json](./77204-scream-4.json) |
 | Scream and Steel: Horror Story Shooter | 284493 | [284493-scream-and-steel-horror-story-shooter.json](./284493-scream-and-steel-horror-story-shooter.json) |
 | Scream Collector | 74450 | [74450-scream-collector.json](./74450-scream-collector.json) |
@@ -10585,6 +10586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime | 285052 | [285052-slime.json](./285052-slime.json) |
 | Slime | 407438 | [407438-slime.json](./407438-slime.json) |
 | Slime | 410085 | [410085-slime.json](./410085-slime.json) |
+| Slime | 89023 | [89023-slime.json](./89023-slime.json) |
 | Slime 3k: Demake | 322759 | [322759-slime-3k-demake.json](./322759-slime-3k-demake.json) |
 | Slime 3K: Rise Against Despot | 244377 | [244377-slime-3k-rise-against-despot.json](./244377-slime-3k-rise-against-despot.json) |
 | Slime 64 | 144114 | [144114-slime-64.json](./144114-slime-64.json) |
@@ -14368,6 +14370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorted | 392265 | [392265-sorted.json](./392265-sorted.json) |
 | Sorted! | 219586 | [219586-sorted.json](./219586-sorted.json) |
 | Sorter | 388912 | [388912-sorter.json](./388912-sorter.json) |
+| Sorter - Toddler & Baby Educational Learning Games | 89021 | [89021-sorter-toddler-and-baby-educational-learning-games.json](./89021-sorter-toddler-and-baby-educational-learning-games.json) |
 | Sortik Systems | 338218 | [338218-sortik-systems.json](./338218-sortik-systems.json) |
 | Sorting Baby Blocks: children's educational puzzle | 86837 | [86837-sorting-baby-blocks-childrens-educational-puzzle.json](./86837-sorting-baby-blocks-childrens-educational-puzzle.json) |
 | Sorting Puzzles for Kids | 104128 | [104128-sorting-puzzles-for-kids.json](./104128-sorting-puzzles-for-kids.json) |
@@ -21718,6 +21721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategie Spiele | 81396 | [81396-strategie-spiele.json](./81396-strategie-spiele.json) |
 | Strategist | 107808 | [107808-strategist.json](./107808-strategist.json) |
 | Stratego | 72027 | [72027-stratego.json](./72027-stratego.json) |
+| Stratego | 88896 | [88896-stratego.json](./88896-stratego.json) |
 | Stratego Online | 20172 | [20172-stratego-online.json](./20172-stratego-online.json) |
 | Stratego: Next Edition | 47886 | [47886-stratego-next-edition.json](./47886-stratego-next-edition.json) |
 | Stratego: Single Player | 91174 | [91174-stratego-single-player.json](./91174-stratego-single-player.json) |
@@ -23662,6 +23666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunberry Care Center | 349105 | [349105-sunberry-care-center.json](./349105-sunberry-care-center.json) |
 | Sunberry Valley | 356846 | [356846-sunberry-valley.json](./356846-sunberry-valley.json) |
 | Sunberry Village | 384778 | [384778-sunberry-village.json](./384778-sunberry-village.json) |
+| Sunbirds | 89007 | [89007-sunbirds.json](./89007-sunbirds.json) |
 | Sunbreak War | 373759 | [373759-sunbreak-war.json](./373759-sunbreak-war.json) |
 | Sunchaser | 322611 | [322611-sunchaser.json](./322611-sunchaser.json) |
 | Suncore Chronicles: The Tower | 90533 | [90533-suncore-chronicles-the-tower.json](./90533-suncore-chronicles-the-tower.json) |
