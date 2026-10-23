@@ -8484,6 +8484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four | 37306 | [37306-four.json](./37306-four.json) |
 | Four Before Midnight | 297560 | [297560-four-before-midnight.json](./297560-four-before-midnight.json) |
 | Four Bombs | 383756 | [383756-four-bombs.json](./383756-four-bombs.json) |
+| Four Bombs | 85158 | [85158-four-bombs.json](./85158-four-bombs.json) |
 | Four Card Solitaire | 94675 | [94675-four-card-solitaire.json](./94675-four-card-solitaire.json) |
 | Four Chambers of the Human Heart | 250455 | [250455-four-chambers-of-the-human-heart.json](./250455-four-chambers-of-the-human-heart.json) |
 | Four Circles | 365829 | [365829-four-circles.json](./365829-four-circles.json) |
@@ -8730,6 +8731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractus | 75072 | [75072-fractus.json](./75072-fractus.json) |
 | Frag | 110296 | [110296-frag.json](./110296-frag.json) |
 | Frag | 167251 | [167251-frag.json](./167251-frag.json) |
+| Frag doch mal...die Maus! | 85157 | [85157-frag-doch-mal-die-maus.json](./85157-frag-doch-mal-die-maus.json) |
 | Frag Ops | 272322 | [272322-frag-ops.json](./272322-frag-ops.json) |
 | Frag the Tanks | 55261 | [55261-frag-the-tanks.json](./55261-frag-the-tanks.json) |
 | Frag-A-Friend | 408165 | [408165-frag-a-friend.json](./408165-frag-a-friend.json) |
