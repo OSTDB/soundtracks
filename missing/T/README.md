@@ -3348,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tensura: King of Monsters | 142849 | [142849-tensura-king-of-monsters.json](./142849-tensura-king-of-monsters.json) |
 | Tenta Shooter | 76057 | [76057-tenta-shooter.json](./76057-tenta-shooter.json) |
 | TentaCat: The Lost Lineage | 285894 | [285894-tentacat-the-lost-lineage.json](./285894-tentacat-the-lost-lineage.json) |
+| Tentacle Fight | 97740 | [97740-tentacle-fight.json](./97740-tentacle-fight.json) |
 | Tentacle Prawn: (Actually) A Cthulhu Dating Sim | 226607 | [226607-tentacle-prawn-actually-a-cthulhu-dating-sim.json](./226607-tentacle-prawn-actually-a-cthulhu-dating-sim.json) |
 | Tentacle Prawn: (Actually) A Cthulhu Dating Sim - The Myth & Legend of Marauder Shields | 267065 | [267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json](./267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json) |
 | Tentacle Slave: Saori | 97790 | [97790-tentacle-slave-saori.json](./97790-tentacle-slave-saori.json) |
