@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank rush | 102151 | [102151-tank-rush.json](./102151-tank-rush.json) |
 | Tank Rush | 237256 | [237256-tank-rush.json](./237256-tank-rush.json) |
 | Tank Side Story | 156075 | [156075-tank-side-story.json](./156075-tank-side-story.json) |
+| Tank Slam | 95156 | [95156-tank-slam.json](./95156-tank-slam.json) |
 | Tank Society | 334553 | [334553-tank-society.json](./334553-tank-society.json) |
 | Tank Souls | 107387 | [107387-tank-souls.json](./107387-tank-souls.json) |
 | Tank Squad | 150429 | [150429-tank-squad.json](./150429-tank-squad.json) |
@@ -13969,6 +13970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tipping Point | 286961 | [286961-the-tipping-point.json](./286961-the-tipping-point.json) |
 | The Titan's Grave | 141032 | [141032-the-titans-grave.json](./141032-the-titans-grave.json) |
 | The Titty-Fucking Hot Spring Ryokan Ghost | 385827 | [385827-the-titty-fucking-hot-spring-ryokan-ghost.json](./385827-the-titty-fucking-hot-spring-ryokan-ghost.json) |
+| The Toho Datsui Hanafuda | 95157 | [95157-the-toho-datsui-hanafuda.json](./95157-the-toho-datsui-hanafuda.json) |
 | The Tolerance Group | 408940 | [408940-the-tolerance-group.json](./408940-the-tolerance-group.json) |
 | The Tomatoes are OK | 184993 | [184993-the-tomatoes-are-ok.json](./184993-the-tomatoes-are-ok.json) |
 | The Tomb of Corruption | 289954 | [289954-the-tomb-of-corruption.json](./289954-the-tomb-of-corruption.json) |
@@ -18720,6 +18722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinycraft | 303101 | [303101-tinycraft.json](./303101-tinycraft.json) |
 | TinyCraft Town | 362298 | [362298-tinycraft-town.json](./362298-tinycraft-town.json) |
 | Tinyfolks | 197266 | [197266-tinyfolks.json](./197266-tinyfolks.json) |
+| TinyHands First Words 1 | 95293 | [95293-tinyhands-first-words-1.json](./95293-tinyhands-first-words-1.json) |
 | TinyHoopers | 323964 | [323964-tinyhoopers.json](./323964-tinyhoopers.json) |
 | TinyKeep | 10993 | [10993-tinykeep.json](./10993-tinykeep.json) |
 | Tinykin Challenge Update | 229118 | [229118-tinykin-challenge-update.json](./229118-tinykin-challenge-update.json) |
@@ -19372,6 +19375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Factory Complete Box: Tokimeki Memorial Girl's Side | 221602 | [221602-tokimeki-factory-complete-box-tokimeki-memorial-girls-side.json](./221602-tokimeki-factory-complete-box-tokimeki-memorial-girls-side.json) |
 | Tokimeki Factory Vol.1 | 221600 | [221600-tokimeki-factory-vol-1.json](./221600-tokimeki-factory-vol-1.json) |
 | Tokimeki Factory Vol.2 | 221601 | [221601-tokimeki-factory-vol-2.json](./221601-tokimeki-factory-vol-2.json) |
+| Tokimeki Idol | 95158 | [95158-tokimeki-idol.json](./95158-tokimeki-idol.json) |
 | Tokimeki Mahjong Graffiti: Toshishita no Tenshi Tachi | 98282 | [98282-tokimeki-mahjong-graffiti-toshishita-no-tenshi-tachi.json](./98282-tokimeki-mahjong-graffiti-toshishita-no-tenshi-tachi.json) |
 | Tokimeki Mahjong Paradise Special: Koi no Tenpai Beat | 98283 | [98283-tokimeki-mahjong-paradise-special-koi-no-tenpai-beat.json](./98283-tokimeki-mahjong-paradise-special-koi-no-tenpai-beat.json) |
 | Tokimeki Mahjong Paradise: Koi no Tenpai Beat | 98281 | [98281-tokimeki-mahjong-paradise-koi-no-tenpai-beat.json](./98281-tokimeki-mahjong-paradise-koi-no-tenpai-beat.json) |
@@ -25990,6 +25994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Oracle | 244873 | [244873-twilight-oracle.json](./244873-twilight-oracle.json) |
 | Twilight Path | 109615 | [109615-twilight-path.json](./109615-twilight-path.json) |
 | Twilight Phenomena: Strange Menagerie - Collector's Edition | 81080 | [81080-twilight-phenomena-strange-menagerie-collectors-edition.json](./81080-twilight-phenomena-strange-menagerie-collectors-edition.json) |
+| Twilight Phenomena: The Incredible Show - Collector's Edition | 95243 | [95243-twilight-phenomena-the-incredible-show-collectors-edition.json](./95243-twilight-phenomena-the-incredible-show-collectors-edition.json) |
 | Twilight Protocol | 373734 | [373734-twilight-protocol.json](./373734-twilight-protocol.json) |
 | Twilight Refrain | 63843 | [63843-twilight-refrain.json](./63843-twilight-refrain.json) |
 | Twilight Romance | 299599 | [299599-twilight-romance.json](./299599-twilight-romance.json) |
@@ -26401,6 +26406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyler Tactics | 236953 | [236953-tyler-tactics.json](./236953-tyler-tactics.json) |
 | Tyler's White Lie | 339465 | [339465-tylers-white-lie.json](./339465-tylers-white-lie.json) |
 | Tynk! and the Final Phonorecord | 194610 | [194610-tynk-and-the-final-phonorecord.json](./194610-tynk-and-the-final-phonorecord.json) |
+| Type | 95255 | [95255-type.json](./95255-type.json) |
 | Type 'n Jump | 183995 | [183995-type-n-jump.json](./183995-type-n-jump.json) |
 | Type & Hope!! | 317364 | [317364-type-and-hope.json](./317364-type-and-hope.json) |
 | Type & Tell | 41579 | [41579-type-and-tell.json](./41579-type-and-tell.json) |
