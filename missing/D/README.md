@@ -8509,6 +8509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ditto Leapfrog | 94206 | [94206-ditto-leapfrog.json](./94206-ditto-leapfrog.json) |
 | Diva | 122282 | [122282-diva.json](./122282-diva.json) |
 | Diva Girls: Divas on Ice | 51035 | [51035-diva-girls-divas-on-ice.json](./51035-diva-girls-divas-on-ice.json) |
+| Diva Girls: Princess on Ice 2 | 69104 | [69104-diva-girls-princess-on-ice-2.json](./69104-diva-girls-princess-on-ice-2.json) |
 | Diva Lovers | 367193 | [367193-diva-lovers.json](./367193-diva-lovers.json) |
 | Diva Starz | 71601 | [71601-diva-starz.json](./71601-diva-starz.json) |
 | Diva Starz: Mall Mania | 49893 | [49893-diva-starz-mall-mania.json](./49893-diva-starz-mall-mania.json) |
@@ -8518,6 +8519,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divarr | 282151 | [282151-divarr.json](./282151-divarr.json) |
 | Dive | 191075 | [191075-dive.json](./191075-dive.json) |
 | Dive | 88462 | [88462-dive.json](./88462-dive.json) |
+| Dive Alert: Becky's Version | 69075 | [69075-dive-alert-beckys-version.json](./69075-dive-alert-beckys-version.json) |
+| Dive Alert: Matt's Version | 69072 | [69072-dive-alert-matts-version.json](./69072-dive-alert-matts-version.json) |
 | Dive Expedition: Complete Edition | 385197 | [385197-dive-expedition-complete-edition.json](./385197-dive-expedition-complete-edition.json) |
 | Dive Expedition: Plane Wreck DLC | 378971 | [378971-dive-expedition-plane-wreck-dlc.json](./378971-dive-expedition-plane-wreck-dlc.json) |
 | Dive Expedition: Sunken Ship DLC | 378970 | [378970-dive-expedition-sunken-ship-dlc.json](./378970-dive-expedition-sunken-ship-dlc.json) |
@@ -9352,6 +9355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki: The Dark Rainclouds | 333104 | [333104-doki-doki-the-dark-rainclouds.json](./333104-doki-doki-the-dark-rainclouds.json) |
 | Doki Doki! Pretty Cure Narikiri Life! | 216180 | [216180-doki-doki-pretty-cure-narikiri-life.json](./216180-doki-doki-pretty-cure-narikiri-life.json) |
 | Doki Doki! RainClouds | 242083 | [242083-doki-doki-rainclouds.json](./242083-doki-doki-rainclouds.json) |
+| Doki Majo Plus | 69120 | [69120-doki-majo-plus.json](./69120-doki-majo-plus.json) |
 | Doki Monsters: Quest | 378792 | [378792-doki-monsters-quest.json](./378792-doki-monsters-quest.json) |
 | Doki Oki | 123274 | [123274-doki-oki.json](./123274-doki-oki.json) |
 | Doki Simp Club | 245885 | [245885-doki-simp-club.json](./245885-doki-simp-club.json) |
@@ -10510,6 +10514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora the Explorer: Animal Adventures | 77328 | [77328-dora-the-explorer-animal-adventures.json](./77328-dora-the-explorer-animal-adventures.json) |
 | Dora the Explorer: Backpack Adventure | 27483 | [27483-dora-the-explorer-backpack-adventure.json](./27483-dora-the-explorer-backpack-adventure.json) |
 | Dora the Explorer: Barnyard Buddies | 73175 | [73175-dora-the-explorer-barnyard-buddies.json](./73175-dora-the-explorer-barnyard-buddies.json) |
+| Dora the Explorer: Camping Adventure | 69069 | [69069-dora-the-explorer-camping-adventure.json](./69069-dora-the-explorer-camping-adventure.json) |
 | Dora the Explorer: Candy Land | 206702 | [206702-dora-the-explorer-candy-land.json](./206702-dora-the-explorer-candy-land.json) |
 | Dora the Explorer: Carnival 2 - Boardwalk Adventure | 209123 | [209123-dora-the-explorer-carnival-2-boardwalk-adventure.json](./209123-dora-the-explorer-carnival-2-boardwalk-adventure.json) |
 | Dora the Explorer: Dance to the Rescue | 71970 | [71970-dora-the-explorer-dance-to-the-rescue.json](./71970-dora-the-explorer-dance-to-the-rescue.json) |
@@ -12440,6 +12445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Dance & Cheer | 50632 | [50632-dream-dance-and-cheer.json](./50632-dream-dance-and-cheer.json) |
 | Dream Dancer | 209170 | [209170-dream-dancer.json](./209170-dream-dancer.json) |
 | Dream Data | 229645 | [229645-dream-data.json](./229645-dream-data.json) |
+| Dream Day Wedding: Viva Las Vegas | 69118 | [69118-dream-day-wedding-viva-las-vegas.json](./69118-dream-day-wedding-viva-las-vegas.json) |
 | Dream Day: Bella Italia | 89231 | [89231-dream-day-bella-italia.json](./89231-dream-day-bella-italia.json) |
 | Dream Day: First Home | 209171 | [209171-dream-day-first-home.json](./209171-dream-day-first-home.json) |
 | Dream Day: Honeymoon | 209172 | [209172-dream-day-honeymoon.json](./209172-dream-day-honeymoon.json) |
@@ -12663,6 +12669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamer Series: Horse Trainer | 79533 | [79533-dreamer-series-horse-trainer.json](./79533-dreamer-series-horse-trainer.json) |
 | Dreamer Series: Pop Star | 47906 | [47906-dreamer-series-pop-star.json](./47906-dreamer-series-pop-star.json) |
 | Dreamer Series: Puppy Trainer | 70597 | [70597-dreamer-series-puppy-trainer.json](./70597-dreamer-series-puppy-trainer.json) |
+| Dreamer Series: Top Model | 69105 | [69105-dreamer-series-top-model.json](./69105-dreamer-series-top-model.json) |
 | Dreamer Series: Zoo Keeper | 230289 | [230289-dreamer-series-zoo-keeper.json](./230289-dreamer-series-zoo-keeper.json) |
 | Dreamer's Canal | 383143 | [383143-dreamers-canal.json](./383143-dreamers-canal.json) |
 | Dreamer's Web | 181760 | [181760-dreamers-web.json](./181760-dreamers-web.json) |
