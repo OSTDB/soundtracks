@@ -7141,6 +7141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
 | Robot Invasion | 169814 | [169814-robot-invasion.json](./169814-robot-invasion.json) |
 | Robot Island | 127727 | [127727-robot-island.json](./127727-robot-island.json) |
+| Robot IV: Operation ExtraTax | 70796 | [70796-robot-iv-operation-extratax.json](./70796-robot-iv-operation-extratax.json) |
 | Robot Junior | 70453 | [70453-robot-junior.json](./70453-robot-junior.json) |
 | Robot Killer | 66907 | [66907-robot-killer.json](./66907-robot-killer.json) |
 | Robot King Part 2: Boss Battles | 116221 | [116221-robot-king-part-2-boss-battles.json](./116221-robot-king-part-2-boss-battles.json) |
