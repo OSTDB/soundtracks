@@ -1608,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarkwo | 197229 | [197229-sarkwo.json](./197229-sarkwo.json) |
 | Saros: Digital Deluxe Edition | 399922 | [399922-saros-digital-deluxe-edition.json](./399922-saros-digital-deluxe-edition.json) |
 | Saros: Zenith | 416115 | [416115-saros-zenith.json](./416115-saros-zenith.json) |
+| Saru Get You: Pipo Saru Racer | 66511 | [66511-saru-get-you-pipo-saru-racer.json](./66511-saru-get-you-pipo-saru-racer.json) |
 | Saru Getchu Saru Saru Daisakusen | 79069 | [79069-saru-getchu-saru-saru-daisakusen.json](./79069-saru-getchu-saru-saru-daisakusen.json) |
 | Sarukhstart Takeover | 419198 | [419198-sarukhstart-takeover.json](./419198-sarukhstart-takeover.json) |
 | SAS Combat Simulator | 13031 | [13031-sas-combat-simulator.json](./13031-sas-combat-simulator.json) |
@@ -3091,6 +3092,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Gaiden: Knight Gundam Monogatari 3 - Densetsu no Kishi-dan | 48853 | [48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json](./48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json) |
 | SD Gundam Gaiden: Lacroan' Heroes | 353628 | [353628-sd-gundam-gaiden-lacroan-heroes.json](./353628-sd-gundam-gaiden-lacroan-heroes.json) |
 | SD Gundam Gashapon Wars | 4098 | [4098-sd-gundam-gashapon-wars.json](./4098-sd-gundam-gashapon-wars.json) |
+| SD Gundam Generation: Axis Senki | 66477 | [66477-sd-gundam-generation-axis-senki.json](./66477-sd-gundam-generation-axis-senki.json) |
+| SD Gundam Generation: Babylonia Kenkoku Senki | 66476 | [66476-sd-gundam-generation-babylonia-kenkoku-senki.json](./66476-sd-gundam-generation-babylonia-kenkoku-senki.json) |
+| SD Gundam Generation: Gryps Senki | 66478 | [66478-sd-gundam-generation-gryps-senki.json](./66478-sd-gundam-generation-gryps-senki.json) |
 | SD Gundam GX | 38323 | [38323-sd-gundam-gx.json](./38323-sd-gundam-gx.json) |
 | SD Gundam Neo Battling | 40411 | [40411-sd-gundam-neo-battling.json](./40411-sd-gundam-neo-battling.json) |
 | SD Gundam Online | 23616 | [23616-sd-gundam-online.json](./23616-sd-gundam-online.json) |
@@ -4290,6 +4294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Dynasty: Ultimate Edition | 261118 | [261118-sengoku-dynasty-ultimate-edition.json](./261118-sengoku-dynasty-ultimate-edition.json) |
 | Sengoku Efuda Yuugi: Hototogisu Tairan | 269530 | [269530-sengoku-efuda-yuugi-hototogisu-tairan.json](./269530-sengoku-efuda-yuugi-hototogisu-tairan.json) |
 | Sengoku Gensokyo | 299300 | [299300-sengoku-gensokyo.json](./299300-sengoku-gensokyo.json) |
+| Sengoku Hime 2: Senran no Yo, Gunyuu Arashi no Gotoku | 66516 | [66516-sengoku-hime-2-senran-no-yo-gunyuu-arashi-no-gotoku.json](./66516-sengoku-hime-2-senran-no-yo-gunyuu-arashi-no-gotoku.json) |
 | Sengoku Hime 3: Tenka o Kirisaku Hikari to Kage | 50871 | [50871-sengoku-hime-3-tenka-o-kirisaku-hikari-to-kage.json](./50871-sengoku-hime-3-tenka-o-kirisaku-hikari-to-kage.json) |
 | Sengoku Hime 4: Souhai Hyakkei, Hana Mamoru Chikai | 62133 | [62133-sengoku-hime-4-souhai-hyakkei-hana-mamoru-chikai.json](./62133-sengoku-hime-4-souhai-hyakkei-hana-mamoru-chikai.json) |
 | Sengoku Hime 5: Senka Tatsu Haou no Keifu | 60969 | [60969-sengoku-hime-5-senka-tatsu-haou-no-keifu.json](./60969-sengoku-hime-5-senka-tatsu-haou-no-keifu.json) |
@@ -7075,6 +7080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogi no Hoshi | 45604 | [45604-shogi-no-hoshi.json](./45604-shogi-no-hoshi.json) |
 | Shogi Nyuumon | 126014 | [126014-shogi-nyuumon.json](./126014-shogi-nyuumon.json) |
 | Shogi Revolution Gekisashi 13 | 336108 | [336108-shogi-revolution-gekisashi-13.json](./336108-shogi-revolution-gekisashi-13.json) |
+| Shogi Revolution: Gekisashi 9 | 66488 | [66488-shogi-revolution-gekisashi-9.json](./66488-shogi-revolution-gekisashi-9.json) |
 | Shogi Saikyou | 38299 | [38299-shogi-saikyou.json](./38299-shogi-saikyou.json) |
 | Shogi Shodan Icchokusen | 42032 | [42032-shogi-shodan-icchokusen.json](./42032-shogi-shodan-icchokusen.json) |
 | Shogi Shoko | 223964 | [223964-shogi-shoko.json](./223964-shogi-shoko.json) |
@@ -27380,6 +27386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sven Rescues a Princess | 415195 | [415195-sven-rescues-a-princess.json](./415195-sven-rescues-a-princess.json) |
 | Sven XXX | 73100 | [73100-sven-xxx.json](./73100-sven-xxx.json) |
 | Sven Zwø | 84126 | [84126-sven-zw.json](./84126-sven-zw.json) |
+| Sven-Göran Eriksson's World Challenge | 66508 | [66508-sven-goran-erikssons-world-challenge.json](./66508-sven-goran-erikssons-world-challenge.json) |
 | Sven-Göran Eriksson's World Manager | 136991 | [136991-sven-goran-erikssons-world-manager.json](./136991-sven-goran-erikssons-world-manager.json) |
 | Sven: Completely Screwed | 247619 | [247619-sven-completely-screwed.json](./247619-sven-completely-screwed.json) |
 | Sven's SudokuPad | 182196 | [182196-svens-sudokupad.json](./182196-svens-sudokupad.json) |
