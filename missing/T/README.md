@@ -12478,6 +12478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Roaring Empire | 132661 | [132661-the-roaring-empire.json](./132661-the-roaring-empire.json) |
 | The Roast: Coffee Shop Simulator | 350012 | [350012-the-roast-coffee-shop-simulator.json](./350012-the-roast-coffee-shop-simulator.json) |
 | The Robolovers | 172707 | [172707-the-robolovers.json](./172707-the-robolovers.json) |
+| The Robot Club | 67096 | [67096-the-robot-club.json](./67096-the-robot-club.json) |
 | THE Robot Tsukurou Ze! | 69149 | [69149-the-robot-tsukurou-ze.json](./69149-the-robot-tsukurou-ze.json) |
 | The Roc | 220512 | [220512-the-roc.json](./220512-the-roc.json) |
 | The Rock | 308461 | [308461-the-rock.json](./308461-the-rock.json) |
