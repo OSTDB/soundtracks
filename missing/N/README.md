@@ -5357,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norukasoruka | 398984 | [398984-norukasoruka.json](./398984-norukasoruka.json) |
 | Norukasoruka: Tanpenshuu | 398985 | [398985-norukasoruka-tanpenshuu.json](./398985-norukasoruka-tanpenshuu.json) |
 | NoRush! | 410293 | [410293-norush.json](./410293-norush.json) |
+| Nory's Escape | 96559 | [96559-norys-escape.json](./96559-norys-escape.json) |
 | Noscope Flappy: MLG Bird Version - The Parody | 348744 | [348744-noscope-flappy-mlg-bird-version-the-parody.json](./348744-noscope-flappy-mlg-bird-version-the-parody.json) |
 | Nose | 152145 | [152145-nose.json](./152145-nose.json) |
 | Nose | 224501 | [224501-nose.json](./224501-nose.json) |
@@ -6080,6 +6081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuworm | 378570 | [378570-nuworm.json](./378570-nuworm.json) |
 | Nux | 10604 | [10604-nux.json](./10604-nux.json) |
 | Nǚyǒu yǔ Wǒ de Liàn'ài Rìcháng | 113869 | [113869-nuyou-yu-wo-de-lianai-richang.json](./113869-nuyou-yu-wo-de-lianai-richang.json) |
+| NVA: Mission Vorwärts Immer! | 96541 | [96541-nva-mission-vorwarts-immer.json](./96541-nva-mission-vorwarts-immer.json) |
 | NVIDIA VR Funhouse | 56867 | [56867-nvidia-vr-funhouse.json](./56867-nvidia-vr-funhouse.json) |
 | NvmU | 229558 | [229558-nvmu.json](./229558-nvmu.json) |
 | NXT Takeover | 257227 | [257227-nxt-takeover.json](./257227-nxt-takeover.json) |
