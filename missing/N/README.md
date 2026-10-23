@@ -1929,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon City Riders | 51949 | [51949-neon-city-riders.json](./51949-neon-city-riders.json) |
 | Neon City Riders: Super-Powered Edition | 169181 | [169181-neon-city-riders-super-powered-edition.json](./169181-neon-city-riders-super-powered-edition.json) |
 | Neon Clash: Echoes of the Lost | 276732 | [276732-neon-clash-echoes-of-the-lost.json](./276732-neon-clash-echoes-of-the-lost.json) |
+| Neon Coliseum | 55612 | [55612-neon-coliseum.json](./55612-neon-coliseum.json) |
 | Neon Cyber Samurai | 211993 | [211993-neon-cyber-samurai.json](./211993-neon-cyber-samurai.json) |
 | Neon Cyborg Cat Club | 148533 | [148533-neon-cyborg-cat-club.json](./148533-neon-cyborg-cat-club.json) |
 | Neon Dan | 282829 | [282829-neon-dan.json](./282829-neon-dan.json) |
@@ -2436,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Gone | 110211 | [110211-never-gone.json](./110211-never-gone.json) |
 | Never Happened | 421829 | [421829-never-happened.json](./421829-never-happened.json) |
 | Never Immortal | 235741 | [235741-never-immortal.json](./235741-never-immortal.json) |
+| Never Not Shooting | 55625 | [55625-never-not-shooting.json](./55625-never-not-shooting.json) |
 | Never out of Time | 193476 | [193476-never-out-of-time.json](./193476-never-out-of-time.json) |
 | Never Rain | 221103 | [221103-never-rain.json](./221103-never-rain.json) |
 | Never Really Alone | 307199 | [307199-never-really-alone.json](./307199-never-really-alone.json) |
