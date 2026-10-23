@@ -3362,6 +3362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dealer's Life 2 | 139339 | [139339-dealers-life-2.json](./139339-dealers-life-2.json) |
 | Dealey Plaza Paintball | 59863 | [59863-dealey-plaza-paintball.json](./59863-dealey-plaza-paintball.json) |
 | Dealmaster | 391097 | [391097-dealmaster.json](./391097-dealmaster.json) |
+| Dean Daimon | 74183 | [74183-dean-daimon.json](./74183-dean-daimon.json) |
 | Dear | 148388 | [148388-dear.json](./148388-dear.json) |
 | Dear Agony Aunt | 173073 | [173073-dear-agony-aunt.json](./173073-dear-agony-aunt.json) |
 | Dear Althea | 150488 | [150488-dear-althea.json](./150488-dear-althea.json) |
@@ -5504,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derp Souls | 219241 | [219241-derp-souls.json](./219241-derp-souls.json) |
 | Derpy Conga | 122086 | [122086-derpy-conga.json](./122086-derpy-conga.json) |
 | Derpy Dinos | 74433 | [74433-derpy-dinos.json](./74433-derpy-dinos.json) |
+| Derpy Fight | 74203 | [74203-derpy-fight.json](./74203-derpy-fight.json) |
 | Derpy Fish | 356078 | [356078-derpy-fish.json](./356078-derpy-fish.json) |
 | Derpy God | 199331 | [199331-derpy-god.json](./199331-derpy-god.json) |
 | Derpy Pirates! The Search for the Bungalow | 126425 | [126425-derpy-pirates-the-search-for-the-bungalow.json](./126425-derpy-pirates-the-search-for-the-bungalow.json) |
@@ -5653,6 +5655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desertopia | 244804 | [244804-desertopia.json](./244804-desertopia.json) |
 | DesertShootout | 88047 | [88047-desertshootout.json](./88047-desertshootout.json) |
 | Deserved | 391598 | [391598-deserved.json](./391598-deserved.json) |
+| Deserving Life | 74190 | [74190-deserving-life.json](./74190-deserving-life.json) |
 | Desespejos | 181799 | [181799-desespejos.json](./181799-desespejos.json) |
 | Desi Adda: Games of India | 218634 | [218634-desi-adda-games-of-india.json](./218634-desi-adda-games-of-india.json) |
 | Desierto | 327872 | [327872-desierto.json](./327872-desierto.json) |
@@ -7477,6 +7480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Run 2 | 87853 | [87853-dino-run-2.json](./87853-dino-run-2.json) |
 | Dino Run DX | 16636 | [16636-dino-run-dx.json](./16636-dino-run-dx.json) |
 | Dino Run SE | 64965 | [64965-dino-run-se.json](./64965-dino-run-se.json) |
+| Dino Run: Marathon of Doom | 74166 | [74166-dino-run-marathon-of-doom.json](./74166-dino-run-marathon-of-doom.json) |
 | Dino Rush | 343481 | [343481-dino-rush.json](./343481-dino-rush.json) |
 | Dino Rush Race | 238400 | [238400-dino-rush-race.json](./238400-dino-rush-race.json) |
 | Dino Safari 2 | 96771 | [96771-dino-safari-2.json](./96771-dino-safari-2.json) |
@@ -7913,6 +7917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disconnect | 183240 | [183240-disconnect.json](./183240-disconnect.json) |
 | Disconnected | 108899 | [108899-disconnected.json](./108899-disconnected.json) |
 | Disconnected | 184066 | [184066-disconnected.json](./184066-disconnected.json) |
+| Disconsolate | 74167 | [74167-disconsolate.json](./74167-disconsolate.json) |
 | Discontrolled | 299565 | [299565-discontrolled.json](./299565-discontrolled.json) |
 | Discopup | 327986 | [327986-discopup.json](./327986-discopup.json) |
 | Discordia | 55960 | [55960-discordia.json](./55960-discordia.json) |
@@ -13765,6 +13770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Due Process | 60900 | [60900-due-process.json](./60900-due-process.json) |
 | Due to Rain | 309343 | [309343-due-to-rain.json](./309343-due-to-rain.json) |
 | Duel | 181915 | [181915-duel.json](./181915-duel.json) |
+| Duel | 74207 | [74207-duel.json](./74207-duel.json) |
 | Duel Arms | 100744 | [100744-duel-arms.json](./100744-duel-arms.json) |
 | Duel Champions | 358362 | [358362-duel-champions.json](./358362-duel-champions.json) |
 | Duel Corp. | 214943 | [214943-duel-corp.json](./214943-duel-corp.json) |
