@@ -4103,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cendric's Quest | 118212 | [118212-cendrics-quest.json](./118212-cendrics-quest.json) |
 | Cendrillon palikA | 69347 | [69347-cendrillon-palika.json](./69347-cendrillon-palika.json) |
 | Censored Files | 208458 | [208458-censored-files.json](./208458-censored-files.json) |
+| Centaur | 79685 | [79685-centaur.json](./79685-centaur.json) |
 | Centauri Dark | 275655 | [275655-centauri-dark.json](./275655-centauri-dark.json) |
 | Centauri Dominion | 164986 | [164986-centauri-dominion.json](./164986-centauri-dominion.json) |
 | Centauri's Favourite Archer | 235858 | [235858-centauris-favourite-archer.json](./235858-centauris-favourite-archer.json) |
@@ -10928,6 +10929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Continuum | 243255 | [243255-continuum.json](./243255-continuum.json) |
 | Continuum | 268676 | [268676-continuum.json](./268676-continuum.json) |
 | Continuum | 304566 | [304566-continuum.json](./304566-continuum.json) |
+| Continuum | 79710 | [79710-continuum.json](./79710-continuum.json) |
 | Continuum 01 | 265417 | [265417-continuum-01.json](./265417-continuum-01.json) |
 | ContiTireRace 2: The Continental Racing Game | 261351 | [261351-contitirerace-2-the-continental-racing-game.json](./261351-contitirerace-2-the-continental-racing-game.json) |
 | Contorted | 274578 | [274578-contorted.json](./274578-contorted.json) |
@@ -13460,6 +13462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cribbage With Grandpas | 94781 | [94781-cribbage-with-grandpas.json](./94781-cribbage-with-grandpas.json) |
 | Cribbage: Classic Card Game | 87704 | [87704-cribbage-classic-card-game.json](./87704-cribbage-classic-card-game.json) |
 | Cribbish | 333197 | [333197-cribbish.json](./333197-cribbish.json) |
+| Cricket | 79717 | [79717-cricket.json](./79717-cricket.json) |
 | Cricket 07 | 10619 | [10619-cricket-07.json](./10619-cricket-07.json) |
 | Cricket 2000 | 79891 | [79891-cricket-2000.json](./79891-cricket-2000.json) |
 | Cricket 2002 | 92314 | [92314-cricket-2002.json](./92314-cricket-2002.json) |
