@@ -7516,6 +7516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan and Crown | 402939 | [402939-clan-and-crown.json](./402939-clan-and-crown.json) |
 | Clan Fantasy Adventures | 373156 | [373156-clan-fantasy-adventures.json](./373156-clan-fantasy-adventures.json) |
 | Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
+| Clan Lord | 63698 | [63698-clan-lord.json](./63698-clan-lord.json) |
 | Clan of Champions | 16341 | [16341-clan-of-champions.json](./16341-clan-of-champions.json) |
 | Clan of Death | 150430 | [150430-clan-of-death.json](./150430-clan-of-death.json) |
 | Clan of Lions | 200321 | [200321-clan-of-lions.json](./200321-clan-of-lions.json) |
@@ -15943,6 +15944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Clutch: Hot Import Nights - Overdrive Pack | 322637 | [322637-cyber-clutch-hot-import-nights-overdrive-pack.json](./322637-cyber-clutch-hot-import-nights-overdrive-pack.json) |
 | Cyber Combat | 236335 | [236335-cyber-combat.json](./236335-cyber-combat.json) |
 | Cyber Commander: Zombie Revenge | 302212 | [302212-cyber-commander-zombie-revenge.json](./302212-cyber-commander-zombie-revenge.json) |
+| Cyber Commando | 63704 | [63704-cyber-commando.json](./63704-cyber-commando.json) |
 | Cyber Courier 2088 | 233666 | [233666-cyber-courier-2088.json](./233666-cyber-courier-2088.json) |
 | Cyber Cult City | 154083 | [154083-cyber-cult-city.json](./154083-cyber-cult-city.json) |
 | Cyber Cycle | 130047 | [130047-cyber-cycle.json](./130047-cyber-cycle.json) |
