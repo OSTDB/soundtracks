@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballerburg | 129148 | [129148-ballerburg.json](./129148-ballerburg.json) |
 | Ballerburg: Castle Chaos | 43879 | [43879-ballerburg-castle-chaos.json](./43879-ballerburg-castle-chaos.json) |
 | Ballerina Magazine Dress Up | 95844 | [95844-ballerina-magazine-dress-up.json](./95844-ballerina-magazine-dress-up.json) |
+| Ballerina: Haitoku no Kurumi Wari Ningyou | 82586 | [82586-ballerina-haitoku-no-kurumi-wari-ningyou.json](./82586-ballerina-haitoku-no-kurumi-wari-ningyou.json) |
 | Ballermann: Hey Baby! | 346711 | [346711-ballermann-hey-baby.json](./346711-ballermann-hey-baby.json) |
 | Ballerspiel | 395290 | [395290-ballerspiel.json](./395290-ballerspiel.json) |
 | Ballet Parking | 314070 | [314070-ballet-parking.json](./314070-ballet-parking.json) |
