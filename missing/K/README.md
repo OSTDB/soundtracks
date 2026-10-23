@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Dreamland Adventures | 101552 | [101552-kids-dreamland-adventures.json](./101552-kids-dreamland-adventures.json) |
 | Kids Fun Favorites | 89698 | [89698-kids-fun-favorites.json](./89698-kids-fun-favorites.json) |
 | Kids Halloween Puzzles and Logic Games | 87109 | [87109-kids-halloween-puzzles-and-logic-games.json](./87109-kids-halloween-puzzles-and-logic-games.json) |
+| Kids in the Kitchen - Cooking Recipes | 95796 | [95796-kids-in-the-kitchen-cooking-recipes.json](./95796-kids-in-the-kitchen-cooking-recipes.json) |
 | Kids Jigsaw Puzzles: Fun Games for Girls & Boys | 232383 | [232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json](./232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json) |
 | Kids Land | 270550 | [270550-kids-land.json](./270550-kids-land.json) |
 | Kids Learn Animal Words | 97915 | [97915-kids-learn-animal-words.json](./97915-kids-learn-animal-words.json) |
@@ -1860,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiki | 309528 | [309528-kiki.json](./309528-kiki.json) |
 | Kiki & Ana - The Child | 144812 | [144812-kiki-and-ana-the-child.json](./144812-kiki-and-ana-the-child.json) |
 | Kiki & Fifi Pet Beauty Salon | 102682 | [102682-kiki-and-fifi-pet-beauty-salon.json](./102682-kiki-and-fifi-pet-beauty-salon.json) |
+| Kiki & Fifi Pet Hotel | 95820 | [95820-kiki-and-fifi-pet-hotel.json](./95820-kiki-and-fifi-pet-hotel.json) |
 | Kiki Ippatsu | 305563 | [305563-kiki-ippatsu.json](./305563-kiki-ippatsu.json) |
 | KiKi KaiKai | 1535 | [1535-kiki-kaikai.json](./1535-kiki-kaikai.json) |
 | KiKi KaiKai | 213228 | [213228-kiki-kaikai.json](./213228-kiki-kaikai.json) |
@@ -2969,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby no Omochabako: Hoshi Kuzushi | 42217 | [42217-kirby-no-omochabako-hoshi-kuzushi.json](./42217-kirby-no-omochabako-hoshi-kuzushi.json) |
 | Kirby no Omochabako: Pachinko | 134456 | [134456-kirby-no-omochabako-pachinko.json](./134456-kirby-no-omochabako-pachinko.json) |
 | Kirby no Omochabako: Pinball | 134452 | [134452-kirby-no-omochabako-pinball.json](./134452-kirby-no-omochabako-pinball.json) |
+| Kirby Original Adventure Classic | 95893 | [95893-kirby-original-adventure-classic.json](./95893-kirby-original-adventure-classic.json) |
 | Kirby Puzzle | 84259 | [84259-kirby-puzzle.json](./84259-kirby-puzzle.json) |
 | Kirby Speed Eaters | 229620 | [229620-kirby-speed-eaters.json](./229620-kirby-speed-eaters.json) |
 | Kirby Star Allies | 37137 | [37137-kirby-star-allies.json](./37137-kirby-star-allies.json) |
@@ -3402,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knell | 412371 | [412371-knell.json](./412371-knell.json) |
 | Knick Knack Stack | 400351 | [400351-knick-knack-stack.json](./400351-knick-knack-stack.json) |
 | Knife Aim Hit: Throwing Games | 235297 | [235297-knife-aim-hit-throwing-games.json](./235297-knife-aim-hit-throwing-games.json) |
+| Knife Battle - Hit the target | 95794 | [95794-knife-battle-hit-the-target.json](./95794-knife-battle-hit-the-target.json) |
 | Knife Club VR | 68607 | [68607-knife-club-vr.json](./68607-knife-club-vr.json) |
 | Knife Dash | 87055 | [87055-knife-dash.json](./87055-knife-dash.json) |
 | Knife Dash: Hit to Crush Pizza | 101671 | [101671-knife-dash-hit-to-crush-pizza.json](./101671-knife-dash-hit-to-crush-pizza.json) |
