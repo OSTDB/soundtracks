@@ -4097,6 +4097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Defenders | 219981 | [219981-air-defenders.json](./219981-air-defenders.json) |
 | Air Delivery | 285591 | [285591-air-delivery.json](./285591-air-delivery.json) |
 | Air Duel | 10445 | [10445-air-duel.json](./10445-air-duel.json) |
+| Air Duel: 80 Years of Dogfighting | 72528 | [72528-air-duel-80-years-of-dogfighting.json](./72528-air-duel-80-years-of-dogfighting.json) |
 | Air Field Hockey | 175157 | [175157-air-field-hockey.json](./175157-air-field-hockey.json) |
 | Air Fight: Sky Fighters | 281043 | [281043-air-fight-sky-fighters.json](./281043-air-fight-sky-fighters.json) |
 | Air Force 1945: Sky Strikers | 58150 | [58150-air-force-1945-sky-strikers.json](./58150-air-force-1945-sky-strikers.json) |
@@ -11035,6 +11036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men: Air Attack - Blade's Revenge | 43466 | [43466-army-men-air-attack-blades-revenge.json](./43466-army-men-air-attack-blades-revenge.json) |
 | Army Men: Air Attack 2 | 43949 | [43949-army-men-air-attack-2.json](./43949-army-men-air-attack-2.json) |
 | Army Men: Air Combat | 47694 | [47694-army-men-air-combat.json](./47694-army-men-air-combat.json) |
+| Army Men: Air Combat | 72487 | [72487-army-men-air-combat.json](./72487-army-men-air-combat.json) |
 | Army Men: Air Combat - The Elite Missions | 50582 | [50582-army-men-air-combat-the-elite-missions.json](./50582-army-men-air-combat-the-elite-missions.json) |
 | Army Men: Green Rogue | 43554 | [43554-army-men-green-rogue.json](./43554-army-men-green-rogue.json) |
 | Army Men: Major Malfunction | 5732 | [5732-army-men-major-malfunction.json](./5732-army-men-major-malfunction.json) |
