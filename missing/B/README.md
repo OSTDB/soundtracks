@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bail or Jail | 200972 | [200972-bail-or-jail.json](./200972-bail-or-jail.json) |
 | Bail or Jail: Character DLC Bundle 2 | 255141 | [255141-bail-or-jail-character-dlc-bundle-2.json](./255141-bail-or-jail-character-dlc-bundle-2.json) |
 | Bail or Jail: Character DLC Bundle 3 | 274651 | [274651-bail-or-jail-character-dlc-bundle-3.json](./274651-bail-or-jail-character-dlc-bundle-3.json) |
+| Bailey's Book House | 67101 | [67101-baileys-book-house.json](./67101-baileys-book-house.json) |
 | Bailout Wars | 41518 | [41518-bailout-wars.json](./41518-bailout-wars.json) |
 | Baimason's Thing Finder Puzzle | 293612 | [293612-baimasons-thing-finder-puzzle.json](./293612-baimasons-thing-finder-puzzle.json) |
 | Bainok: City of Fighters | 172973 | [172973-bainok-city-of-fighters.json](./172973-bainok-city-of-fighters.json) |
@@ -6531,6 +6532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biorhythm | 116721 | [116721-biorhythm.json](./116721-biorhythm.json) |
 | Biorhythm | 170531 | [170531-biorhythm.json](./170531-biorhythm.json) |
 | Biorhythm | 78373 | [78373-biorhythm.json](./78373-biorhythm.json) |
+| Biorhythms | 67094 | [67094-biorhythms.json](./67094-biorhythms.json) |
 | Bios | 26575 | [26575-bios.json](./26575-bios.json) |
 | Bios Ex: Yami no Wakusei | 114839 | [114839-bios-ex-yami-no-wakusei.json](./114839-bios-ex-yami-no-wakusei.json) |
 | BioShock | 214790 | [214790-bioshock.json](./214790-bioshock.json) |
@@ -6961,6 +6963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bittersweet Dream | 229672 | [229672-bittersweet-dream.json](./229672-bittersweet-dream.json) |
 | Bittersweet Starlight | 225514 | [225514-bittersweet-starlight.json](./225514-bittersweet-starlight.json) |
 | Bittos | 91418 | [91418-bittos.json](./91418-bittos.json) |
+| Bittos-e | 67065 | [67065-bittos-e.json](./67065-bittos-e.json) |
 | Bitty Knight | 284006 | [284006-bitty-knight.json](./284006-bitty-knight.json) |
 | BitVault | 129682 | [129682-bitvault.json](./129682-bitvault.json) |
 | Bitvest.io | 59425 | [59425-bitvest-io.json](./59425-bitvest-io.json) |
