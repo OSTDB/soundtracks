@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfront Tactics: Battlefield Chronicles Battle Simulator | 304271 | [304271-warfront-tactics-battlefield-chronicles-battle-simulator.json](./304271-warfront-tactics-battlefield-chronicles-battle-simulator.json) |
 | Warfronts: Battle For Toria! | 153776 | [153776-warfronts-battle-for-toria.json](./153776-warfronts-battle-for-toria.json) |
 | Wargame Construction Set | 37158 | [37158-wargame-construction-set.json](./37158-wargame-construction-set.json) |
+| Wargame Construction Set III: Age of Rifles 1846-1905 | 71336 | [71336-wargame-construction-set-iii-age-of-rifles-1846-1905.json](./71336-wargame-construction-set-iii-age-of-rifles-1846-1905.json) |
 | Wargame Construction Set Pack | 278721 | [278721-wargame-construction-set-pack.json](./278721-wargame-construction-set-pack.json) |
 | Wargame Korea 1950 | 102627 | [102627-wargame-korea-1950.json](./102627-wargame-korea-1950.json) |
 | Wargame: AirLand Battle - Magna Carta | 170747 | [170747-wargame-airland-battle-magna-carta.json](./170747-wargame-airland-battle-magna-carta.json) |
@@ -6750,6 +6751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Tour Fishing | 5805 | [5805-world-tour-fishing.json](./5805-world-tour-fishing.json) |
 | World Tour Golf | 37172 | [37172-world-tour-golf.json](./37172-world-tour-golf.json) |
 | World Tour Soccer 2002 | 23444 | [23444-world-tour-soccer-2002.json](./23444-world-tour-soccer-2002.json) |
+| World Tour Soccer 2003 | 71327 | [71327-world-tour-soccer-2003.json](./71327-world-tour-soccer-2003.json) |
 | World Tour Soccer 2005 | 23546 | [23546-world-tour-soccer-2005.json](./23546-world-tour-soccer-2005.json) |
 | World Tour Soccer 2006 | 72725 | [72725-world-tour-soccer-2006.json](./72725-world-tour-soccer-2006.json) |
 | World Tour Soccer: Challenge Edition | 77087 | [77087-world-tour-soccer-challenge-edition.json](./77087-world-tour-soccer-challenge-edition.json) |
