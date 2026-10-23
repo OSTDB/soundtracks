@@ -3258,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ingrids Back | 40964 | [40964-ingrids-back.json](./40964-ingrids-back.json) |
 | Inha St.77th: Muscle Dog Simulation | 163869 | [163869-inha-st-77th-muscle-dog-simulation.json](./163869-inha-st-77th-muscle-dog-simulation.json) |
 | Inhabitants | 337660 | [337660-inhabitants.json](./337660-inhabitants.json) |
+| Inhabitants | 69675 | [69675-inhabitants.json](./69675-inhabitants.json) |
 | Inhabitants of The Fir Forest | 176230 | [176230-inhabitants-of-the-fir-forest.json](./176230-inhabitants-of-the-fir-forest.json) |
 | Inhabited Island: Prisoner of Power | 352354 | [352354-inhabited-island-prisoner-of-power.json](./352354-inhabited-island-prisoner-of-power.json) |
 | Inherent Evil - The Haunted Hotel | 114408 | [114408-inherent-evil-the-haunted-hotel.json](./114408-inherent-evil-the-haunted-hotel.json) |
