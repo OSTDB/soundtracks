@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talk About Something in the Nowhere | 419142 | [419142-talk-about-something-in-the-nowhere.json](./419142-talk-about-something-in-the-nowhere.json) |
 | Talk it Out | 123458 | [123458-talk-it-out.json](./123458-talk-it-out.json) |
 | Talk Tac Toe Lite | 253271 | [253271-talk-tac-toe-lite.json](./253271-talk-tac-toe-lite.json) |
+| Talk to Aya | 74913 | [74913-talk-to-aya.json](./74913-talk-to-aya.json) |
 | Talk To Me | 134586 | [134586-talk-to-me.json](./134586-talk-to-me.json) |
 | Talk to Strangers | 252403 | [252403-talk-to-strangers.json](./252403-talk-to-strangers.json) |
 | Talk to Yuno | 111005 | [111005-talk-to-yuno.json](./111005-talk-to-yuno.json) |
@@ -3788,6 +3789,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive 6 | 370310 | [370310-test-drive-6.json](./370310-test-drive-6.json) |
 | Test Drive Cycles | 362222 | [362222-test-drive-cycles.json](./362222-test-drive-cycles.json) |
 | Test Drive Cycles | 49906 | [49906-test-drive-cycles.json](./49906-test-drive-cycles.json) |
+| Test Drive II: Car Disk - The Muscle Cars | 74870 | [74870-test-drive-ii-car-disk-the-muscle-cars.json](./74870-test-drive-ii-car-disk-the-muscle-cars.json) |
+| Test Drive II: Car Disk - The Supercars | 74869 | [74869-test-drive-ii-car-disk-the-supercars.json](./74869-test-drive-ii-car-disk-the-supercars.json) |
+| Test Drive II: Scenery Disk - California Challenge | 74868 | [74868-test-drive-ii-scenery-disk-california-challenge.json](./74868-test-drive-ii-scenery-disk-california-challenge.json) |
 | Test Drive II: The Collection | 140039 | [140039-test-drive-ii-the-collection.json](./140039-test-drive-ii-the-collection.json) |
 | Test Drive Off-Road Wide Open | 6198 | [6198-test-drive-off-road-wide-open.json](./6198-test-drive-off-road-wide-open.json) |
 | Test Drive Unlimited | 7215 | [7215-test-drive-unlimited.json](./7215-test-drive-unlimited.json) |
@@ -12084,6 +12088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest for the Golden Egg Cup | 13025 | [13025-the-quest-for-the-golden-egg-cup.json](./13025-the-quest-for-the-golden-egg-cup.json) |
 | The Quest for the Holy Grail | 25967 | [25967-the-quest-for-the-holy-grail.json](./25967-the-quest-for-the-holy-grail.json) |
 | The Quest for the Rings | 41575 | [41575-the-quest-for-the-rings.json](./41575-the-quest-for-the-rings.json) |
+| The Quest for the Time-Bird | 74861 | [74861-the-quest-for-the-time-bird.json](./74861-the-quest-for-the-time-bird.json) |
 | The Quest Giver | 75960 | [75960-the-quest-giver.json](./75960-the-quest-giver.json) |
 | The Quest Keeper | 344939 | [344939-the-quest-keeper.json](./344939-the-quest-keeper.json) |
 | The Quest of Agravain | 74006 | [74006-the-quest-of-agravain.json](./74006-the-quest-of-agravain.json) |
@@ -12682,6 +12687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Legacy: A Kate Brooks Adventure | 54294 | [54294-the-secret-legacy-a-kate-brooks-adventure.json](./54294-the-secret-legacy-a-kate-brooks-adventure.json) |
 | The Secret Life of Pets: Unleashed | 58324 | [58324-the-secret-life-of-pets-unleashed.json](./58324-the-secret-life-of-pets-unleashed.json) |
 | The Secret Life of Probes Prologue | 249639 | [249639-the-secret-life-of-probes-prologue.json](./249639-the-secret-life-of-probes-prologue.json) |
+| The Secret of Bastow Manor | 74846 | [74846-the-secret-of-bastow-manor.json](./74846-the-secret-of-bastow-manor.json) |
 | The Secret of Cat Island | 194003 | [194003-the-secret-of-cat-island.json](./194003-the-secret-of-cat-island.json) |
 | The Secret of Chimera Labs | 91169 | [91169-the-secret-of-chimera-labs.json](./91169-the-secret-of-chimera-labs.json) |
 | The Secret of Chunky Salsa | 327274 | [327274-the-secret-of-chunky-salsa.json](./327274-the-secret-of-chunky-salsa.json) |
@@ -13739,6 +13745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Swoop 64 | 145429 | [145429-the-swoop-64.json](./145429-the-swoop-64.json) |
 | The Sword and Peachblossom | 202639 | [202639-the-sword-and-peachblossom.json](./202639-the-sword-and-peachblossom.json) |
 | The Sword and the Fish | 233661 | [233661-the-sword-and-the-fish.json](./233661-the-sword-and-the-fish.json) |
+| The Sword and the Fox | 74851 | [74851-the-sword-and-the-fox.json](./74851-the-sword-and-the-fox.json) |
 | The Sword and the Slime | 121455 | [121455-the-sword-and-the-slime.json](./121455-the-sword-and-the-slime.json) |
 | The Sword of Ares for Quake | 196720 | [196720-the-sword-of-ares-for-quake.json](./196720-the-sword-of-ares-for-quake.json) |
 | The Sword of Etheria | 10901 | [10901-the-sword-of-etheria.json](./10901-the-sword-of-etheria.json) |
@@ -16308,6 +16315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Edge | 369465 | [369465-thunder-edge.json](./369465-thunder-edge.json) |
 | Thunder Five | 98050 | [98050-thunder-five.json](./98050-thunder-five.json) |
 | Thunder Force | 55055 | [55055-thunder-force.json](./55055-thunder-force.json) |
+| Thunder Force | 74905 | [74905-thunder-force.json](./74905-thunder-force.json) |
 | Thunder Force II | 6033 | [6033-thunder-force-ii.json](./6033-thunder-force-ii.json) |
 | Thunder Force IV | 254613 | [254613-thunder-force-iv.json](./254613-thunder-force-iv.json) |
 | Thunder Force V | 22021 | [22021-thunder-force-v.json](./22021-thunder-force-v.json) |
@@ -16342,6 +16350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderbird: The Legend Begins | 18972 | [18972-thunderbird-the-legend-begins.json](./18972-thunderbird-the-legend-begins.json) |
 | Thunderbirds | 12796 | [12796-thunderbirds.json](./12796-thunderbirds.json) |
 | Thunderbirds | 344248 | [344248-thunderbirds.json](./344248-thunderbirds.json) |
+| Thunderbirds | 74908 | [74908-thunderbirds.json](./74908-thunderbirds.json) |
 | Thunderbirds | 83247 | [83247-thunderbirds.json](./83247-thunderbirds.json) |
 | Thunderbirds International Rescue | 49255 | [49255-thunderbirds-international-rescue.json](./49255-thunderbirds-international-rescue.json) |
 | Thunderblade Saga | 277589 | [277589-thunderblade-saga.json](./277589-thunderblade-saga.json) |
@@ -18084,6 +18093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timberveil | 382757 | [382757-timberveil.json](./382757-timberveil.json) |
 | Timbre Star | 83147 | [83147-timbre-star.json](./83147-timbre-star.json) |
 | Time | 130947 | [130947-time.json](./130947-time.json) |
+| Time | 74873 | [74873-time.json](./74873-time.json) |
 | Time Ace | 21545 | [21545-time-ace.json](./21545-time-ace.json) |
 | Time Agent | 156945 | [156945-time-agent.json](./156945-time-agent.json) |
 | Time Alive | 186099 | [186099-time-alive.json](./186099-time-alive.json) |
@@ -22858,6 +22868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainsanity | 361333 | [361333-trainsanity.json](./361333-trainsanity.json) |
 | Trainscape | 43175 | [43175-trainscape.json](./43175-trainscape.json) |
 | Trainspotting Simulator | 117555 | [117555-trainspotting-simulator.json](./117555-trainspotting-simulator.json) |
+| TrainStation: Game on Rails | 74852 | [74852-trainstation-game-on-rails.json](./74852-trainstation-game-on-rails.json) |
 | TrainTastic | 272900 | [272900-traintastic.json](./272900-traintastic.json) |
 | Traintracks Combat | 298815 | [298815-traintracks-combat.json](./298815-traintracks-combat.json) |
 | Trainwatch | 355613 | [355613-trainwatch.json](./355613-trainwatch.json) |
@@ -25719,6 +25730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo | 18510 | [18510-turbo.json](./18510-turbo.json) |
 | Turbo | 230415 | [230415-turbo.json](./230415-turbo.json) |
 | Turbo 21 HD | 355009 | [355009-turbo-21-hd.json](./355009-turbo-21-hd.json) |
+| Turbo 64 | 74843 | [74843-turbo-64.json](./74843-turbo-64.json) |
 | Turbo 84 | 239344 | [239344-turbo-84.json](./239344-turbo-84.json) |
 | Turbo Balls | 347208 | [347208-turbo-balls.json](./347208-turbo-balls.json) |
 | Turbo Battle Tanks | 184871 | [184871-turbo-battle-tanks.json](./184871-turbo-battle-tanks.json) |
@@ -26577,6 +26589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typhoon 2001 | 47111 | [47111-typhoon-2001.json](./47111-typhoon-2001.json) |
 | Typhoon Force: Storm Fighter | 176991 | [176991-typhoon-force-storm-fighter.json](./176991-typhoon-force-storm-fighter.json) |
 | Typhoon of Steel | 47115 | [47115-typhoon-of-steel.json](./47115-typhoon-of-steel.json) |
+| Typhoon Thompson in Search for the Sea Child | 74886 | [74886-typhoon-thompson-in-search-for-the-sea-child.json](./74886-typhoon-thompson-in-search-for-the-sea-child.json) |
 | Typhoon Unit: Butterfly Requiem | 127699 | [127699-typhoon-unit-butterfly-requiem.json](./127699-typhoon-unit-butterfly-requiem.json) |
 | Typical | 108664 | [108664-typical.json](./108664-typical.json) |
 | Typical nightmare | 99603 | [99603-typical-nightmare.json](./99603-typical-nightmare.json) |
