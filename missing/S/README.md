@@ -7604,6 +7604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shū Liàn yǔ Jūn: Xiānzǐ Xiàn | 373694 | [373694-shu-lian-yu-jun-xianzi-xian.json](./373694-shu-lian-yu-jun-xianzi-xian.json) |
 | Shu's Misfortune | 157396 | [157396-shus-misfortune.json](./157396-shus-misfortune.json) |
 | Shubada! | 120228 | [120228-shubada.json](./120228-shubada.json) |
+| Shubibinman Zero | 94064 | [94064-shubibinman-zero.json](./94064-shubibinman-zero.json) |
 | Shudu | 247017 | [247017-shudu.json](./247017-shudu.json) |
 | Shuffle 'n Slide | 96595 | [96595-shuffle-n-slide.json](./96595-shuffle-n-slide.json) |
 | Shuffle and K.O. | 249654 | [249654-shuffle-and-k-o.json](./249654-shuffle-and-k-o.json) |
@@ -10457,6 +10458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendrina Must Die: The House | 321382 | [321382-slendrina-must-die-the-house.json](./321382-slendrina-must-die-the-house.json) |
 | Slendrina Must Die: The School | 321411 | [321411-slendrina-must-die-the-school.json](./321411-slendrina-must-die-the-school.json) |
 | Slendrina X | 233773 | [233773-slendrina-x.json](./233773-slendrina-x.json) |
+| Slendrina: The Cellar | 94098 | [94098-slendrina-the-cellar.json](./94098-slendrina-the-cellar.json) |
 | Slendrina: The Forest | 102235 | [102235-slendrina-the-forest.json](./102235-slendrina-the-forest.json) |
 | Slendrina's Freakish Friends and Family Night | 282801 | [282801-slendrinas-freakish-friends-and-family-night.json](./282801-slendrinas-freakish-friends-and-family-night.json) |
 | Slendy! | 61992 | [61992-slendy.json](./61992-slendy.json) |
@@ -17043,6 +17045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spill the Beans | 276818 | [276818-spill-the-beans.json](./276818-spill-the-beans.json) |
 | Spilled Mushrooms | 318152 | [318152-spilled-mushrooms.json](./318152-spilled-mushrooms.json) |
 | Spillz | 91083 | [91083-spillz.json](./91083-spillz.json) |
+| Spin | 94108 | [94108-spin.json](./94108-spin.json) |
 | Spin & Match Puzzle Learn at Once 3 Languages | 312080 | [312080-spin-and-match-puzzle-learn-at-once-3-languages.json](./312080-spin-and-match-puzzle-learn-at-once-3-languages.json) |
 | Spin & Play: Carnival Madness | 73337 | [73337-spin-and-play-carnival-madness.json](./73337-spin-and-play-carnival-madness.json) |
 | Spin 2 Win | 410420 | [410420-spin-2-win.json](./410420-spin-2-win.json) |
@@ -27775,6 +27778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Fatal Bullet - Collapse of Balance | 114142 | [114142-sword-art-online-fatal-bullet-collapse-of-balance.json](./114142-sword-art-online-fatal-bullet-collapse-of-balance.json) |
 | Sword Art Online: Fatal Bullet - Dissonance of the Nexus | 110843 | [110843-sword-art-online-fatal-bullet-dissonance-of-the-nexus.json](./110843-sword-art-online-fatal-bullet-dissonance-of-the-nexus.json) |
 | Sword Art Online: Fatal Bullet - Limited Edition | 166982 | [166982-sword-art-online-fatal-bullet-limited-edition.json](./166982-sword-art-online-fatal-bullet-limited-edition.json) |
+| Sword Art Online: Fatal Bullet - Premium Edition | 94081 | [94081-sword-art-online-fatal-bullet-premium-edition.json](./94081-sword-art-online-fatal-bullet-premium-edition.json) |
 | Sword Art Online: Fractured Daydream | 287852 | [287852-sword-art-online-fractured-daydream.json](./287852-sword-art-online-fractured-daydream.json) |
 | Sword Art Online: Fractured Daydream - Character Pass Vol. 1 | 324479 | [324479-sword-art-online-fractured-daydream-character-pass-vol-1.json](./324479-sword-art-online-fractured-daydream-character-pass-vol-1.json) |
 | Sword Art Online: Fractured Daydream - Character Pass Vol. 2 | 380690 | [380690-sword-art-online-fractured-daydream-character-pass-vol-2.json](./380690-sword-art-online-fractured-daydream-character-pass-vol-2.json) |
