@@ -3435,6 +3435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Conflict | 112417 | [112417-terminal-conflict.json](./112417-terminal-conflict.json) |
 | Terminal Connection | 339408 | [339408-terminal-connection.json](./339408-terminal-connection.json) |
 | Terminal Defense | 298636 | [298636-terminal-defense.json](./298636-terminal-defense.json) |
+| Terminal Defense | 97092 | [97092-terminal-defense.json](./97092-terminal-defense.json) |
 | Terminal Descent | 371742 | [371742-terminal-descent.json](./371742-terminal-descent.json) |
 | Terminal Earth | 153215 | [153215-terminal-earth.json](./153215-terminal-earth.json) |
 | Terminal Escape | 383740 | [383740-terminal-escape.json](./383740-terminal-escape.json) |
@@ -15159,6 +15160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Worm - A Lean Short | 128431 | [128431-the-worm-a-lean-short.json](./128431-the-worm-a-lean-short.json) |
 | The Worm in Paradise | 36845 | [36845-the-worm-in-paradise.json](./36845-the-worm-in-paradise.json) |
 | The Worm Room | 139263 | [139263-the-worm-room.json](./139263-the-worm-room.json) |
+| The Worst Day Ever | 97191 | [97191-the-worst-day-ever.json](./97191-the-worst-day-ever.json) |
 | The Worst Game | 390555 | [390555-the-worst-game.json](./390555-the-worst-game.json) |
 | The Worst Game Ever | 161640 | [161640-the-worst-game-ever.json](./161640-the-worst-game-ever.json) |
 | The Worst Sonic the Hedgehog Romhack (Featuring Mario) | 385366 | [385366-the-worst-sonic-the-hedgehog-romhack-featuring-mario.json](./385366-the-worst-sonic-the-hedgehog-romhack-featuring-mario.json) |
@@ -20241,6 +20243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Model Academy | 47869 | [47869-top-model-academy.json](./47869-top-model-academy.json) |
 | Top Model Makeover - Girls Makeup & Dress Up Games | 90216 | [90216-top-model-makeover-girls-makeup-and-dress-up-games.json](./90216-top-model-makeover-girls-makeup-and-dress-up-games.json) |
 | Top PUA | 247424 | [247424-top-pua.json](./247424-top-pua.json) |
+| Top Punch | 97203 | [97203-top-punch.json](./97203-top-punch.json) |
 | Top Race | 236832 | [236832-top-race.json](./236832-top-race.json) |
 | Top Run | 129126 | [129126-top-run.json](./129126-top-run.json) |
 | Top Runner | 172532 | [172532-top-runner.json](./172532-top-runner.json) |
@@ -24771,6 +24774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trophy Bass | 22625 | [22625-trophy-bass.json](./22625-trophy-bass.json) |
 | Trophy Fishing 2 | 43181 | [43181-trophy-fishing-2.json](./43181-trophy-fishing-2.json) |
 | Trophy Hunt | 275129 | [275129-trophy-hunt.json](./275129-trophy-hunt.json) |
+| Trophy Hunt: Evolution | 97161 | [97161-trophy-hunt-evolution.json](./97161-trophy-hunt-evolution.json) |
 | Trophy Knight | 219527 | [219527-trophy-knight.json](./219527-trophy-knight.json) |
 | Trophy Trout | 43150 | [43150-trophy-trout.json](./43150-trophy-trout.json) |
 | Trophy Truck Racing Tour | 369650 | [369650-trophy-truck-racing-tour.json](./369650-trophy-truck-racing-tour.json) |
