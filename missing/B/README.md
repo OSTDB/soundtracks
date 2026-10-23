@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babylon 2055 Pinball | 33113 | [33113-babylon-2055-pinball.json](./33113-babylon-2055-pinball.json) |
 | Babylon 5 | 218435 | [218435-babylon-5.json](./218435-babylon-5.json) |
 | Babylon 5: I've Found Her - Danger and Opportunity | 78731 | [78731-babylon-5-ive-found-her-danger-and-opportunity.json](./78731-babylon-5-ive-found-her-danger-and-opportunity.json) |
+| Babylon 5: Shadow Wars | 80357 | [80357-babylon-5-shadow-wars.json](./80357-babylon-5-shadow-wars.json) |
 | Babylon Tower | 309172 | [309172-babylon-tower.json](./309172-babylon-tower.json) |
 | Babylon X | 307136 | [307136-babylon-x.json](./307136-babylon-x.json) |
 | Babylonia | 120695 | [120695-babylonia.json](./120695-babylonia.json) |
@@ -3234,6 +3235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Trendaria | 75191 | [75191-battle-trendaria.json](./75191-battle-trendaria.json) |
 | Battle Tryst | 58905 | [58905-battle-tryst.json](./58905-battle-tryst.json) |
 | Battle Tycoon: Flash Hiders SFX | 38216 | [38216-battle-tycoon-flash-hiders-sfx.json](./38216-battle-tycoon-flash-hiders-sfx.json) |
+| Battle Vader | 80321 | [80321-battle-vader.json](./80321-battle-vader.json) |
 | Battle Wave 2323 | 166281 | [166281-battle-wave-2323.json](./166281-battle-wave-2323.json) |
 | Battle Waves | 204809 | [204809-battle-waves.json](./204809-battle-waves.json) |
 | Battle Wizard Attack | 314633 | [314633-battle-wizard-attack.json](./314633-battle-wizard-attack.json) |
