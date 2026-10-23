@@ -8057,6 +8057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliffhorse | 18446 | [18446-cliffhorse.json](./18446-cliffhorse.json) |
 | Clifford the Big Red Dog: Learning Activities | 255656 | [255656-clifford-the-big-red-dog-learning-activities.json](./255656-clifford-the-big-red-dog-learning-activities.json) |
 | Clifford the Big Red Dog: Phonics | 70075 | [70075-clifford-the-big-red-dog-phonics.json](./70075-clifford-the-big-red-dog-phonics.json) |
+| Clifford the Big Red Dog: Thinking Adventures | 70775 | [70775-clifford-the-big-red-dog-thinking-adventures.json](./70775-clifford-the-big-red-dog-thinking-adventures.json) |
 | Clifford: Ready-to-Read | 230359 | [230359-clifford-ready-to-read.json](./230359-clifford-ready-to-read.json) |
 | Cliffs of War: Fortress Defenders | 34606 | [34606-cliffs-of-war-fortress-defenders.json](./34606-cliffs-of-war-fortress-defenders.json) |
 | Clifftop Games Bundle I Kathy Rain: Director's Cut + Whispers of a Machine | 226788 | [226788-clifftop-games-bundle-i-kathy-rain-directors-cut-whispers-of-a-machine.json](./226788-clifftop-games-bundle-i-kathy-rain-directors-cut-whispers-of-a-machine.json) |
