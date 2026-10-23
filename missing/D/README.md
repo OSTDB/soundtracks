@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daikoukai Jidai V | 56530 | [56530-daikoukai-jidai-v.json](./56530-daikoukai-jidai-v.json) |
 | Daiku no Gen-san 2: Akage no Dan no Gyakushuu | 48527 | [48527-daiku-no-gen-san-2-akage-no-dan-no-gyakushuu.json](./48527-daiku-no-gen-san-2-akage-no-dan-no-gyakushuu.json) |
 | Daiku no Gen-san: Kachi-kachi no Tonkachi ga Kachi | 50563 | [50563-daiku-no-gen-san-kachi-kachi-no-tonkachi-ga-kachi.json](./50563-daiku-no-gen-san-kachi-kachi-no-tonkachi-ga-kachi.json) |
+| Daiku no Gen-san: Robot Teikoku no Yabou | 49151 | [49151-daiku-no-gen-san-robot-teikoku-no-yabou.json](./49151-daiku-no-gen-san-robot-teikoku-no-yabou.json) |
 | Daiku no Medium | 159106 | [159106-daiku-no-medium.json](./159106-daiku-no-medium.json) |
 | Daily | 183234 | [183234-daily.json](./183234-daily.json) |
 | Daily Bubble | 224069 | [224069-daily-bubble.json](./224069-daily-bubble.json) |
@@ -2146,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Davie's Quest and The Magic Dress | 322852 | [322852-davies-quest-and-the-magic-dress.json](./322852-davies-quest-and-the-magic-dress.json) |
 | Davigo | 121403 | [121403-davigo.json](./121403-davigo.json) |
 | Davis Cup | 172597 | [172597-davis-cup.json](./172597-davis-cup.json) |
+| Davis Cup Tennis | 49175 | [49175-davis-cup-tennis.json](./49175-davis-cup-tennis.json) |
 | Davis Haunted House | 340942 | [340942-davis-haunted-house.json](./340942-davis-haunted-house.json) |
 | Davy Jones C'est Mort | 71152 | [71152-davy-jones-cest-mort.json](./71152-davy-jones-cest-mort.json) |
 | Davy Jones Dating Simulator | 282710 | [282710-davy-jones-dating-simulator.json](./282710-davy-jones-dating-simulator.json) |
@@ -8336,6 +8338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Hercules Action Game | 9814 | [9814-disneys-hercules-action-game.json](./9814-disneys-hercules-action-game.json) |
 | Disney's Hercules: Animated Storybook | 139313 | [139313-disneys-hercules-animated-storybook.json](./139313-disneys-hercules-animated-storybook.json) |
 | Disney's Hide and Sneak | 3885 | [3885-disneys-hide-and-sneak.json](./3885-disneys-hide-and-sneak.json) |
+| Disney's Home on the Range | 49153 | [49153-disneys-home-on-the-range.json](./49153-disneys-home-on-the-range.json) |
 | Disney's Hot Shots: Timon and Pumbaa's Jungle Pinball | 109480 | [109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json](./109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json) |
 | Disney's House of Mouse: Pack the House | 337139 | [337139-disneys-house-of-mouse-pack-the-house.json](./337139-disneys-house-of-mouse-pack-the-house.json) |
 | Disney's Kim Possible | 339884 | [339884-disneys-kim-possible.json](./339884-disneys-kim-possible.json) |
@@ -10627,6 +10630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Gadget Rush | 259527 | [259527-doraemon-gadget-rush.json](./259527-doraemon-gadget-rush.json) |
 | Doraemon Gakushuu Collection | 141584 | [141584-doraemon-gakushuu-collection.json](./141584-doraemon-gakushuu-collection.json) |
 | Doraemon Giga Pad | 314371 | [314371-doraemon-giga-pad.json](./314371-doraemon-giga-pad.json) |
+| Doraemon Kart | 49127 | [49127-doraemon-kart.json](./49127-doraemon-kart.json) |
 | Doraemon Memories: Nobita no Omoide Daibouken | 91776 | [91776-doraemon-memories-nobita-no-omoide-daibouken.json](./91776-doraemon-memories-nobita-no-omoide-daibouken.json) |
 | Doraemon no Bouken Meiro | 349437 | [349437-doraemon-no-bouken-meiro.json](./349437-doraemon-no-bouken-meiro.json) |
 | Doraemon no Eawase Montage | 349436 | [349436-doraemon-no-eawase-montage.json](./349436-doraemon-no-eawase-montage.json) |
@@ -11552,6 +11556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Super Card Game Fusion World | 292100 | [292100-dragon-ball-super-card-game-fusion-world.json](./292100-dragon-ball-super-card-game-fusion-world.json) |
 | Dragon Ball Super TCG | 212759 | [212759-dragon-ball-super-tcg.json](./212759-dragon-ball-super-tcg.json) |
 | Dragon Ball Super: Card Game - Fusion World | 283612 | [283612-dragon-ball-super-card-game-fusion-world.json](./283612-dragon-ball-super-card-game-fusion-world.json) |
+| Dragon Ball VR: Master the Kamehameha | 49116 | [49116-dragon-ball-vr-master-the-kamehameha.json](./49116-dragon-ball-vr-master-the-kamehameha.json) |
 | Dragon Ball Xenoverse 2: Dragon Ball Daima Pack | 366824 | [366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json](./366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json) |
 | Dragon Ball Xenoverse 2: Lite Version | 116372 | [116372-dragon-ball-xenoverse-2-lite-version.json](./116372-dragon-ball-xenoverse-2-lite-version.json) |
 | Dragon Ball Xenoverse and Dragon Ball Xenoverse 2 Double Pack | 141765 | [141765-dragon-ball-xenoverse-and-dragon-ball-xenoverse-2-double-pack.json](./141765-dragon-ball-xenoverse-and-dragon-ball-xenoverse-2-double-pack.json) |
@@ -11742,6 +11747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Dragon Fire Fire Deluxe | 384497 | [384497-dragon-dragon-fire-fire-deluxe.json](./384497-dragon-dragon-fire-fire-deluxe.json) |
 | Dragon Drill | 294691 | [294691-dragon-drill.json](./294691-dragon-drill.json) |
 | Dragon Drive: D-Masters Shot | 3897 | [3897-dragon-drive-d-masters-shot.json](./3897-dragon-drive-d-masters-shot.json) |
+| Dragon Drive: World D Break | 49174 | [49174-dragon-drive-world-d-break.json](./49174-dragon-drive-world-d-break.json) |
 | Dragon Drop | 159251 | [159251-dragon-drop.json](./159251-dragon-drop.json) |
 | Dragon Drop | 58481 | [58481-dragon-drop.json](./58481-dragon-drop.json) |
 | Dragon Eclipse | 272997 | [272997-dragon-eclipse.json](./272997-dragon-eclipse.json) |
@@ -11878,6 +11884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Builders | 24069 | [24069-dragon-quest-builders.json](./24069-dragon-quest-builders.json) |
 | Dragon Quest Builders 2 | 54548 | [54548-dragon-quest-builders-2.json](./54548-dragon-quest-builders-2.json) |
 | Dragon Quest Characters: Torneko no Daibouken 2 Advance | 49270 | [49270-dragon-quest-characters-torneko-no-daibouken-2-advance.json](./49270-dragon-quest-characters-torneko-no-daibouken-2-advance.json) |
+| Dragon Quest Characters: Torneko no Daibouken 3 | 49173 | [49173-dragon-quest-characters-torneko-no-daibouken-3.json](./49173-dragon-quest-characters-torneko-no-daibouken-3.json) |
 | Dragon Quest Fushigi no Dungeon MOBILE | 314001 | [314001-dragon-quest-fushigi-no-dungeon-mobile.json](./314001-dragon-quest-fushigi-no-dungeon-mobile.json) |
 | Dragon Quest HD-2D Erdrick Trilogy Collection | 376240 | [376240-dragon-quest-hd-2d-erdrick-trilogy-collection.json](./376240-dragon-quest-hd-2d-erdrick-trilogy-collection.json) |
 | Dragon Quest Heroes I & II | 26771 | [26771-dragon-quest-heroes-i-and-ii.json](./26771-dragon-quest-heroes-i-and-ii.json) |
