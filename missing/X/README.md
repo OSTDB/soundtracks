@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X Rebirth: VR Edition | 52251 | [52251-x-rebirth-vr-edition.json](./52251-x-rebirth-vr-edition.json) |
 | X Rock | 95380 | [95380-x-rock.json](./95380-x-rock.json) |
 | X S.E.E.D. | 62716 | [62716-x-s-e-e-d.json](./62716-x-s-e-e-d.json) |
+| X Scooter | 77090 | [77090-x-scooter.json](./77090-x-scooter.json) |
 | X Simulator Drone | 312171 | [312171-x-simulator-drone.json](./312171-x-simulator-drone.json) |
 | X Stacking | 89545 | [89545-x-stacking.json](./89545-x-stacking.json) |
 | X the Hyper Ball | 73983 | [73983-x-the-hyper-ball.json](./73983-x-the-hyper-ball.json) |
