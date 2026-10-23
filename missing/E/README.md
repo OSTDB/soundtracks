@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed Grimley | 198735 | [198735-ed-grimley.json](./198735-ed-grimley.json) |
 | Ed-0: Zombie Uprising | 195077 | [195077-ed-0-zombie-uprising.json](./195077-ed-0-zombie-uprising.json) |
 | Ed-It | 126251 | [126251-ed-it.json](./126251-ed-it.json) |
+| Ed-On | 70210 | [70210-ed-on.json](./70210-ed-on.json) |
 | Ed, Edd n Eddy: Clash of the Idiots | 159198 | [159198-ed-edd-n-eddy-clash-of-the-idiots.json](./159198-ed-edd-n-eddy-clash-of-the-idiots.json) |
 | Ed, Edd n Eddy: Cul-de-Sac Smash | 374686 | [374686-ed-edd-n-eddy-cul-de-sac-smash.json](./374686-ed-edd-n-eddy-cul-de-sac-smash.json) |
 | Ed, Edd n Eddy: Ed Over Heels | 203093 | [203093-ed-edd-n-eddy-ed-over-heels.json](./203093-ed-edd-n-eddy-ed-over-heels.json) |
@@ -2517,6 +2518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire City Simulator | 326446 | [326446-empire-city-simulator.json](./326446-empire-city-simulator.json) |
 | Empire Classic | 11395 | [11395-empire-classic.json](./11395-empire-classic.json) |
 | Empire Defenders | 129630 | [129630-empire-defenders.json](./129630-empire-defenders.json) |
+| Empire Deluxe | 70251 | [70251-empire-deluxe.json](./70251-empire-deluxe.json) |
 | Empire Deluxe: Masters Edition | 69745 | [69745-empire-deluxe-masters-edition.json](./69745-empire-deluxe-masters-edition.json) |
 | Empire Earth II | 1608 | [1608-empire-earth-ii.json](./1608-empire-earth-ii.json) |
 | Empire Earth III | 1606 | [1606-empire-earth-iii.json](./1606-empire-earth-iii.json) |
@@ -2537,6 +2539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of Devil | 110703 | [110703-empire-of-devil.json](./110703-empire-of-devil.json) |
 | Empire of Empires | 211966 | [211966-empire-of-empires.json](./211966-empire-of-empires.json) |
 | Empire of Gnomes | 102701 | [102701-empire-of-gnomes.json](./102701-empire-of-gnomes.json) |
+| Empire of Karn | 70249 | [70249-empire-of-karn.json](./70249-empire-of-karn.json) |
 | Empire of Lust | 345287 | [345287-empire-of-lust.json](./345287-empire-of-lust.json) |
 | Empire of Magic | 23699 | [23699-empire-of-magic.json](./23699-empire-of-magic.json) |
 | Empire of Revenant | 221180 | [221180-empire-of-revenant.json](./221180-empire-of-revenant.json) |
@@ -2719,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enclave: Shadows of Twilight | 77980 | [77980-enclave-shadows-of-twilight.json](./77980-enclave-shadows-of-twilight.json) |
 | Encleverment Experiment | 67956 | [67956-encleverment-experiment.json](./67956-encleverment-experiment.json) |
 | Enclosure | 415494 | [415494-enclosure.json](./415494-enclosure.json) |
+| Enclosure | 70248 | [70248-enclosure.json](./70248-enclosure.json) |
 | Enclosure 3-D | 215929 | [215929-enclosure-3-d.json](./215929-enclosure-3-d.json) |
 | Encode | 159861 | [159861-encode.json](./159861-encode.json) |
 | Encode Encore! | 345690 | [345690-encode-encore.json](./345690-encode-encore.json) |
