@@ -3435,6 +3435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agarest: Generations of War | 8764 | [8764-agarest-generations-of-war.json](./8764-agarest-generations-of-war.json) |
 | AgarIO Hub Rebirth | 329413 | [329413-agario-hub-rebirth.json](./329413-agario-hub-rebirth.json) |
 | Agartha | 145519 | [145519-agartha.json](./145519-agartha.json) |
+| Agartha | 82627 | [82627-agartha.json](./82627-agartha.json) |
 | Agartha Platform 81!: City of Angels | 400499 | [400499-agartha-platform-81-city-of-angels.json](./400499-agartha-platform-81-city-of-angels.json) |
 | Agartha-S | 111653 | [111653-agartha-s.json](./111653-agartha-s.json) |
 | AgarZ | 165455 | [165455-agarz.json](./165455-agarz.json) |
@@ -4531,6 +4532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akiba's Trip: Undead & Undressed - Kati Route | 204503 | [204503-akibas-trip-undead-and-undressed-kati-route.json](./204503-akibas-trip-undead-and-undressed-kati-route.json) |
 | Akihabara Crash! 123 Stage + 1 | 110867 | [110867-akihabara-crash-123-stage-1.json](./110867-akihabara-crash-123-stage-1.json) |
 | Akihabara Dennou-gumi Pata Pies! | 247573 | [247573-akihabara-dennou-gumi-pata-pies.json](./247573-akihabara-dennou-gumi-pata-pies.json) |
+| Akihabara Senryoukumi | 82584 | [82584-akihabara-senryoukumi.json](./82584-akihabara-senryoukumi.json) |
 | Akihabara: Feel the Rhythm | 26770 | [26770-akihabara-feel-the-rhythm.json](./26770-akihabara-feel-the-rhythm.json) |
 | Akiiwan: Survival | 361850 | [361850-akiiwan-survival.json](./361850-akiiwan-survival.json) |
 | Akimaho! | 97383 | [97383-akimaho.json](./97383-akimaho.json) |
@@ -5017,6 +5019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Dinerland | 257962 | [257962-alice-in-dinerland.json](./257962-alice-in-dinerland.json) |
 | Alice in Dreamland | 240733 | [240733-alice-in-dreamland.json](./240733-alice-in-dreamland.json) |
 | Alice in Maniacland | 316479 | [316479-alice-in-maniacland.json](./316479-alice-in-maniacland.json) |
+| Alice in Maze | 82573 | [82573-alice-in-maze.json](./82573-alice-in-maze.json) |
 | Alice in Musicland | 392492 | [392492-alice-in-musicland.json](./392492-alice-in-musicland.json) |
 | Alice in Pumpkinland | 422096 | [422096-alice-in-pumpkinland.json](./422096-alice-in-pumpkinland.json) |
 | Alice in Stardom | 116838 | [116838-alice-in-stardom.json](./116838-alice-in-stardom.json) |
@@ -8557,6 +8560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti Terrorist Shooting Game | 400654 | [400654-anti-terrorist-shooting-game.json](./400654-anti-terrorist-shooting-game.json) |
 | Anti V Reboot | 357805 | [357805-anti-v-reboot.json](./357805-anti-v-reboot.json) |
 | Anti-Ballistic-Missile | 145245 | [145245-anti-ballistic-missile.json](./145245-anti-ballistic-missile.json) |
+| Anti-Demon Stormedge Sakuya | 82621 | [82621-anti-demon-stormedge-sakuya.json](./82621-anti-demon-stormedge-sakuya.json) |
 | Anti-Goodness Dept. | 176787 | [176787-anti-goodness-dept.json](./176787-anti-goodness-dept.json) |
 | Anti-Grav | 114325 | [114325-anti-grav.json](./114325-anti-grav.json) |
 | Anti-Idle: The Game | 225644 | [225644-anti-idle-the-game.json](./225644-anti-idle-the-game.json) |
@@ -9185,6 +9189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Adventure: Blue Lilty | 65996 | [65996-aqua-adventure-blue-lilty.json](./65996-aqua-adventure-blue-lilty.json) |
 | Aqua Aqua | 43549 | [43549-aqua-aqua.json](./43549-aqua-aqua.json) |
 | Aqua Bubble 2 | 70927 | [70927-aqua-bubble-2.json](./70927-aqua-bubble-2.json) |
+| Aqua Cube | 82583 | [82583-aqua-cube.json](./82583-aqua-cube.json) |
 | Aqua Energizer | 197666 | [197666-aqua-energizer.json](./197666-aqua-energizer.json) |
 | Aqua Fish | 52411 | [52411-aqua-fish.json](./52411-aqua-fish.json) |
 | Aqua Forest | 72989 | [72989-aqua-forest.json](./72989-aqua-forest.json) |
@@ -11366,6 +11371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artillery: Knights vs. Orcs | 84975 | [84975-artillery-knights-vs-orcs.json](./84975-artillery-knights-vs-orcs.json) |
 | Artis Impact | 197038 | [197038-artis-impact.json](./197038-artis-impact.json) |
 | Artis Impact: Meiji Spa | 349467 | [349467-artis-impact-meiji-spa.json](./349467-artis-impact-meiji-spa.json) |
+| Artis of Sperm Drinking | 82605 | [82605-artis-of-sperm-drinking.json](./82605-artis-of-sperm-drinking.json) |
 | Artisan | 190096 | [190096-artisan.json](./190096-artisan.json) |
 | Artisan Story | 260215 | [260215-artisan-story.json](./260215-artisan-story.json) |
 | Artist Colony | 23284 | [23284-artist-colony.json](./23284-artist-colony.json) |
@@ -12064,6 +12070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assimilation X | 150975 | [150975-assimilation-x.json](./150975-assimilation-x.json) |
 | Assistant to the Lost Detective: Remaster | 298126 | [298126-assistant-to-the-lost-detective-remaster.json](./298126-assistant-to-the-lost-detective-remaster.json) |
 | Associate | 354527 | [354527-associate.json](./354527-associate.json) |
+| Assortment | 82637 | [82637-assortment.json](./82637-assortment.json) |
 | Assualt cube | 178444 | [178444-assualt-cube.json](./178444-assualt-cube.json) |
 | AST-Hero | 130384 | [130384-ast-hero.json](./130384-ast-hero.json) |
 | ASTA Online | 28255 | [28255-asta-online.json](./28255-asta-online.json) |
@@ -13194,6 +13201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Alpha Centauri | 15608 | [15608-attack-on-alpha-centauri.json](./15608-attack-on-alpha-centauri.json) |
 | Attack on Altair | 69848 | [69848-attack-on-altair.json](./69848-attack-on-altair.json) |
 | Attack on Beetle | 187467 | [187467-attack-on-beetle.json](./187467-attack-on-beetle.json) |
+| Attack on Giantess: World Defense Force | 82636 | [82636-attack-on-giantess-world-defense-force.json](./82636-attack-on-giantess-world-defense-force.json) |
 | Attack on Hex Island | 239665 | [239665-attack-on-hex-island.json](./239665-attack-on-hex-island.json) |
 | Attack on I-Ching | 120680 | [120680-attack-on-i-ching.json](./120680-attack-on-i-ching.json) |
 | Attack on Inirea | 342254 | [342254-attack-on-inirea.json](./342254-attack-on-inirea.json) |
