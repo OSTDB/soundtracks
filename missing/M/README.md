@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maestro: Music from the Void - Collector's Edition | 104804 | [104804-maestro-music-from-the-void-collectors-edition.json](./104804-maestro-music-from-the-void-collectors-edition.json) |
 | Maestro: Music of Death - Collector's Edition | 37012 | [37012-maestro-music-of-death-collectors-edition.json](./37012-maestro-music-of-death-collectors-edition.json) |
 | Maestro: Notes of Life - Collector's Edition | 84029 | [84029-maestro-notes-of-life-collectors-edition.json](./84029-maestro-notes-of-life-collectors-edition.json) |
+| Maestro! Green Groove | 67080 | [67080-maestro-green-groove.json](./67080-maestro-green-groove.json) |
 | Maestro! Jump in Music | 22980 | [22980-maestro-jump-in-music.json](./22980-maestro-jump-in-music.json) |
 | Maestro's Cold War 2 | 323013 | [323013-maestros-cold-war-2.json](./323013-maestros-cold-war-2.json) |
 | Mǎfǎ Chuánqí | 159812 | [159812-mafa-chuanqi.json](./159812-mafa-chuanqi.json) |
@@ -5142,6 +5143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me And Gamer Girl: Gamer-joshi to Hikikomori | 324197 | [324197-me-and-gamer-girl-gamer-joshi-to-hikikomori.json](./324197-me-and-gamer-girl-gamer-joshi-to-hikikomori.json) |
 | Me and My Cat's Island | 285915 | [285915-me-and-my-cats-island.json](./285915-me-and-my-cats-island.json) |
 | Me and My Dinosaur | 58696 | [58696-me-and-my-dinosaur.json](./58696-me-and-my-dinosaur.json) |
+| Me and My Dogs: Friends Forever | 67090 | [67090-me-and-my-dogs-friends-forever.json](./67090-me-and-my-dogs-friends-forever.json) |
 | Me and My Shadow | 124037 | [124037-me-and-my-shadow.json](./124037-me-and-my-shadow.json) |
 | Me and the Key | 224972 | [224972-me-and-the-key.json](./224972-me-and-the-key.json) |
 | Me and the Key 2 | 225280 | [225280-me-and-the-key-2.json](./225280-me-and-the-key-2.json) |
@@ -9327,6 +9329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millie Megavolte 8: Millie and the Mole King | 295091 | [295091-millie-megavolte-8-millie-and-the-mole-king.json](./295091-millie-megavolte-8-millie-and-the-mole-king.json) |
 | Millie Meter and Her Adventures in the Oak Tree | 57571 | [57571-millie-meter-and-her-adventures-in-the-oak-tree.json](./57571-millie-meter-and-her-adventures-in-the-oak-tree.json) |
 | Millie Meter's Nutrition Adventure | 71964 | [71964-millie-meters-nutrition-adventure.json](./71964-millie-meters-nutrition-adventure.json) |
+| Millie's Math House | 67102 | [67102-millies-math-house.json](./67102-millies-math-house.json) |
 | Millika Village | 101749 | [101749-millika-village.json](./101749-millika-village.json) |
 | Millikan's Reach | 194319 | [194319-millikans-reach.json](./194319-millikans-reach.json) |
 | Million Arthur: Arcana Blood | 44529 | [44529-million-arthur-arcana-blood.json](./44529-million-arthur-arcana-blood.json) |
@@ -9544,6 +9547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind VR Exploration | 168110 | [168110-mind-vr-exploration.json](./168110-mind-vr-exploration.json) |
 | Mind Walker | 26379 | [26379-mind-walker.json](./26379-mind-walker.json) |
 | Mind War | 267269 | [267269-mind-war.json](./267269-mind-war.json) |
+| Mind Warp | 67076 | [67076-mind-warp.json](./67076-mind-warp.json) |
 | Mind Within | 344384 | [344384-mind-within.json](./344384-mind-within.json) |
 | Mind Your Language: Learn English | 47825 | [47825-mind-your-language-learn-english.json](./47825-mind-your-language-learn-english.json) |
 | Mind Your Manas | 118447 | [118447-mind-your-manas.json](./118447-mind-your-manas.json) |
@@ -12268,6 +12272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstania | 42486 | [42486-monstania.json](./42486-monstania.json) |
 | Monstapals | 106482 | [106482-monstapals.json](./106482-monstapals.json) |
 | MonStar | 193971 | [193971-monstar.json](./193971-monstar.json) |
+| Monsteca Corral | 67095 | [67095-monsteca-corral.json](./67095-monsteca-corral.json) |
 | Monster & Me | 182466 | [182466-monster-and-me.json](./182466-monster-and-me.json) |
 | Monster 2 | 266314 | [266314-monster-2.json](./266314-monster-2.json) |
 | Monster 3 | 311266 | [311266-monster-3.json](./311266-monster-3.json) |
@@ -14370,6 +14375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move the Blocks | 57743 | [57743-move-the-blocks.json](./57743-move-the-blocks.json) |
 | Move The Box: Classic Block Puzzle | 251052 | [251052-move-the-box-classic-block-puzzle.json](./251052-move-the-box-classic-block-puzzle.json) |
 | Move the Window | 167509 | [167509-move-the-window.json](./167509-move-the-window.json) |
+| Move your Brain: Rollway Puzzle | 67050 | [67050-move-your-brain-rollway-puzzle.json](./67050-move-your-brain-rollway-puzzle.json) |
 | Moved Mind | 292420 | [292420-moved-mind.json](./292420-moved-mind.json) |
 | MoveFort | 318189 | [318189-movefort.json](./318189-movefort.json) |
 | Moveit | 188500 | [188500-moveit.json](./188500-moveit.json) |
