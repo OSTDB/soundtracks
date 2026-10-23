@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yatohime Zankikou Extra Kimagure Karasu to Yanchahime | 77927 | [77927-yatohime-zankikou-extra-kimagure-karasu-to-yanchahime.json](./77927-yatohime-zankikou-extra-kimagure-karasu-to-yanchahime.json) |
 | Yatsu Hakamura | 191868 | [191868-yatsu-hakamura.json](./191868-yatsu-hakamura.json) |
 | Yatsumeguri | 309055 | [309055-yatsumeguri.json](./309055-yatsumeguri.json) |
+| Yatsumitsu Fists of Wrath | 54850 | [54850-yatsumitsu-fists-of-wrath.json](./54850-yatsumitsu-fists-of-wrath.json) |
 | Yatterman DS 2: Bikkuri Dokkiri Animal Daibouken | 124150 | [124150-yatterman-ds-2-bikkuri-dokkiri-animal-daibouken.json](./124150-yatterman-ds-2-bikkuri-dokkiri-animal-daibouken.json) |
 | Yatterman DS: Bikkuri Dokkiri Daisakusen da Koron | 354955 | [354955-yatterman-ds-bikkuri-dokkiri-daisakusen-da-koron.json](./354955-yatterman-ds-bikkuri-dokkiri-daisakusen-da-koron.json) |
 | Yattsu no Hiseki 2X | 386156 | [386156-yattsu-no-hiseki-2x.json](./386156-yattsu-no-hiseki-2x.json) |
