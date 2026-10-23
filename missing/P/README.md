@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddles | 214545 | [214545-paddles.json](./214545-paddles.json) |
 | Paddles | 214558 | [214558-paddles.json](./214558-paddles.json) |
 | Paddles! Pong edition | 102621 | [102621-paddles-pong-edition.json](./102621-paddles-pong-edition.json) |
+| PaddleSpace | 60954 | [60954-paddlespace.json](./60954-paddlespace.json) |
 | Paddock Note '95 | 268522 | [268522-paddock-note-95.json](./268522-paddock-note-95.json) |
 | Padel Pro World Tour | 409553 | [409553-padel-pro-world-tour.json](./409553-padel-pro-world-tour.json) |
 | Pagan Gods | 293350 | [293350-pagan-gods.json](./293350-pagan-gods.json) |
@@ -4616,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phyllosoma | 384763 | [384763-phyllosoma.json](./384763-phyllosoma.json) |
 | Phylomortis: Avant-Garde | 356636 | [356636-phylomortis-avant-garde.json](./356636-phylomortis-avant-garde.json) |
 | Phyrexia | 208055 | [208055-phyrexia.json](./208055-phyrexia.json) |
+| Phyrok | 60941 | [60941-phyrok.json](./60941-phyrok.json) |
 | Physical Contact: 2048 | 70884 | [70884-physical-contact-2048.json](./70884-physical-contact-2048.json) |
 | Physical Contact: Picture Place | 74348 | [74348-physical-contact-picture-place.json](./74348-physical-contact-picture-place.json) |
 | Physical Contact: Speed | 51409 | [51409-physical-contact-speed.json](./51409-physical-contact-speed.json) |
@@ -8039,6 +8041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunder Masters | 250789 | [250789-plunder-masters.json](./250789-plunder-masters.json) |
 | Plunder Pack | 125032 | [125032-plunder-pack.json](./125032-plunder-pack.json) |
 | Plunder Panic | 97965 | [97965-plunder-panic.json](./97965-plunder-panic.json) |
+| Plunder Pirates | 60830 | [60830-plunder-pirates.json](./60830-plunder-pirates.json) |
 | Plunder Protocol | 420544 | [420544-plunder-protocol.json](./420544-plunder-protocol.json) |
 | Plunder Squad | 107797 | [107797-plunder-squad.json](./107797-plunder-squad.json) |
 | Plunder: Scourge of the Sea | 260658 | [260658-plunder-scourge-of-the-sea.json](./260658-plunder-scourge-of-the-sea.json) |
@@ -10389,6 +10392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Possession | 90649 | [90649-possession.json](./90649-possession.json) |
 | Possession 1881 | 150750 | [150750-possession-1881.json](./150750-possession-1881.json) |
 | Possession Game | 354523 | [354523-possession-game.json](./354523-possession-game.json) |
+| Possession Magenta | 60955 | [60955-possession-magenta.json](./60955-possession-magenta.json) |
 | Possession Obsession | 190419 | [190419-possession-obsession.json](./190419-possession-obsession.json) |
 | Possessioner | 213296 | [213296-possessioner.json](./213296-possessioner.json) |
 | Posshexor | 323810 | [323810-posshexor.json](./323810-posshexor.json) |
