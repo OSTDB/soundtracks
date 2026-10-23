@@ -1406,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Shooter | 16017 | [16017-zombie-shooter.json](./16017-zombie-shooter.json) |
 | Zombie Shooter - Dead City | 200325 | [200325-zombie-shooter-dead-city.json](./200325-zombie-shooter-dead-city.json) |
 | Zombie Shooter 2 | 16018 | [16018-zombie-shooter-2.json](./16018-zombie-shooter-2.json) |
+| Zombie Shooter: Fury of War | 95884 | [95884-zombie-shooter-fury-of-war.json](./95884-zombie-shooter-fury-of-war.json) |
 | Zombie Shooter: Pandemic Unkilled | 174667 | [174667-zombie-shooter-pandemic-unkilled.json](./174667-zombie-shooter-pandemic-unkilled.json) |
 | Zombie Shooting Star | 209713 | [209713-zombie-shooting-star.json](./209713-zombie-shooting-star.json) |
 | Zombie Shooting Star: Arcade | 227758 | [227758-zombie-shooting-star-arcade.json](./227758-zombie-shooting-star-arcade.json) |
