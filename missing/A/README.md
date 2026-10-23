@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Magical High School Girl | 30533 | [30533-a-magical-high-school-girl.json](./30533-a-magical-high-school-girl.json) |
 | A Magical Tale: Cavern Crawler | 134995 | [134995-a-magical-tale-cavern-crawler.json](./134995-a-magical-tale-cavern-crawler.json) |
 | A Magical Tale: Revoke DX | 381603 | [381603-a-magical-tale-revoke-dx.json](./381603-a-magical-tale-revoke-dx.json) |
+| A Magnetic Adventure | 52368 | [52368-a-magnetic-adventure.json](./52368-a-magnetic-adventure.json) |
 | A Maiden's Serenade | 302680 | [302680-a-maidens-serenade.json](./302680-a-maidens-serenade.json) |
 | A Male Me Dressed up and Was Loved | 82878 | [82878-a-male-me-dressed-up-and-was-loved.json](./82878-a-male-me-dressed-up-and-was-loved.json) |
 | A Mallard's Song | 282087 | [282087-a-mallards-song.json](./282087-a-mallards-song.json) |
@@ -1282,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.R.C: Alien raid combat | 165707 | [165707-a-r-c-alien-raid-combat.json](./165707-a-r-c-alien-raid-combat.json) |
 | A.R.C. | 58867 | [58867-a-r-c.json](./58867-a-r-c.json) |
 | A.R.C. Squadron | 91816 | [91816-a-r-c-squadron.json](./91816-a-r-c-squadron.json) |
+| A.R.C.S | 52366 | [52366-a-r-c-s.json](./52366-a-r-c-s.json) |
 | A.R.E.S. Extinction Agenda EX | 36270 | [36270-a-r-e-s-extinction-agenda-ex.json](./36270-a-r-e-s-extinction-agenda-ex.json) |
 | A.R.E.S.: Extinction Agenda | 6282 | [6282-a-r-e-s-extinction-agenda.json](./6282-a-r-e-s-extinction-agenda.json) |
 | A.R.E.S.: Extinction Agenda - Berzerker Suit | 120631 | [120631-a-r-e-s-extinction-agenda-berzerker-suit.json](./120631-a-r-e-s-extinction-agenda-berzerker-suit.json) |
@@ -2245,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Arcade Wrestling | 62516 | [62516-action-arcade-wrestling.json](./62516-action-arcade-wrestling.json) |
 | Action Arcade Wrestling 2 | 62515 | [62515-action-arcade-wrestling-2.json](./62515-action-arcade-wrestling-2.json) |
 | Action Ball | 71933 | [71933-action-ball.json](./71933-action-ball.json) |
+| Action Ball 2 | 52364 | [52364-action-ball-2.json](./52364-action-ball-2.json) |
 | Action Ball Deluxe | 177040 | [177040-action-ball-deluxe.json](./177040-action-ball-deluxe.json) |
 | Action Bass | 43937 | [43937-action-bass.json](./43937-action-bass.json) |
 | Action Biker | 13671 | [13671-action-biker.json](./13671-action-biker.json) |
@@ -2684,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure | 8253 | [8253-adventure.json](./8253-adventure.json) |
 | Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
 | Adventure 3: Mission Impossible | 41189 | [41189-adventure-3-mission-impossible.json](./41189-adventure-3-mission-impossible.json) |
+| Adventure 4: Wizards Academy | 52363 | [52363-adventure-4-wizards-academy.json](./52363-adventure-4-wizards-academy.json) |
 | Adventure Academia: The Fractured Continent - Additional Content Vol.1 Bundle | 231213 | [231213-adventure-academia-the-fractured-continent-additional-content-vol-1-bundle.json](./231213-adventure-academia-the-fractured-continent-additional-content-vol-1-bundle.json) |
 | Adventure Academia: The Fractured Continent - Additional Content Vol.2 Bundle | 231214 | [231214-adventure-academia-the-fractured-continent-additional-content-vol-2-bundle.json](./231214-adventure-academia-the-fractured-continent-additional-content-vol-2-bundle.json) |
 | Adventure Academia: The Fractured Continent - Additional Content Vol.3 Bundle | 231215 | [231215-adventure-academia-the-fractured-continent-additional-content-vol-3-bundle.json](./231215-adventure-academia-the-fractured-continent-additional-content-vol-3-bundle.json) |
@@ -2910,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3261,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afraid of Monsters | 131925 | [131925-afraid-of-monsters.json](./131925-afraid-of-monsters.json) |
 | Afraid of Monsters: Director's Cut | 131928 | [131928-afraid-of-monsters-directors-cut.json](./131928-afraid-of-monsters-directors-cut.json) |
 | Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
+| Africa Corps Desert Storm 1941-1943 | 52362 | [52362-africa-corps-desert-storm-1941-1943.json](./52362-africa-corps-desert-storm-1941-1943.json) |
 | Africa Empire 2027 | 219680 | [219680-africa-empire-2027.json](./219680-africa-empire-2027.json) |
 | Africa Help | 133354 | [133354-africa-help.json](./133354-africa-help.json) |
 | Africa Wild | 90443 | [90443-africa-wild.json](./90443-africa-wild.json) |
@@ -3513,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of 2048 | 100988 | [100988-age-of-2048.json](./100988-age-of-2048.json) |
 | Age of 2048: World | 106373 | [106373-age-of-2048-world.json](./106373-age-of-2048-world.json) |
 | Age of Advent | 276208 | [276208-age-of-advent.json](./276208-age-of-advent.json) |
+| Age of Adventure: Playing the Hero | 52361 | [52361-age-of-adventure-playing-the-hero.json](./52361-age-of-adventure-playing-the-hero.json) |
 | Age of AI: North America | 96931 | [96931-age-of-ai-north-america.json](./96931-age-of-ai-north-america.json) |
 | Age of Albuvia | 169486 | [169486-age-of-albuvia.json](./169486-age-of-albuvia.json) |
 | Age of Anthemius | 356226 | [356226-age-of-anthemius.json](./356226-age-of-anthemius.json) |
@@ -3589,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
 | Age of Enchantment | 312672 | [312672-age-of-enchantment.json](./312672-age-of-enchantment.json) |
 | Age of Enigma: The Secret of the Sixth Ghost | 22103 | [22103-age-of-enigma-the-secret-of-the-sixth-ghost.json](./22103-age-of-enigma-the-secret-of-the-sixth-ghost.json) |
+| Age of Enigma: The Sixth Ghost | 52360 | [52360-age-of-enigma-the-sixth-ghost.json](./52360-age-of-enigma-the-sixth-ghost.json) |
 | Age of Enlightenment | 316458 | [316458-age-of-enlightenment.json](./316458-age-of-enlightenment.json) |
 | Age of Expansion | 391049 | [391049-age-of-expansion.json](./391049-age-of-expansion.json) |
 | Age of Explorers | 396377 | [396377-age-of-explorers.json](./396377-age-of-explorers.json) |
@@ -3616,11 +3624,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of History II | 188228 | [188228-age-of-history-ii.json](./188228-age-of-history-ii.json) |
 | Age of History II: Definitive Edition | 399162 | [399162-age-of-history-ii-definitive-edition.json](./399162-age-of-history-ii-definitive-edition.json) |
 | Age of Irata | 213429 | [213429-age-of-irata.json](./213429-age-of-irata.json) |
+| Age of Japan | 52377 | [52377-age-of-japan.json](./52377-age-of-japan.json) |
 | Age of Jura | 169803 | [169803-age-of-jura.json](./169803-age-of-jura.json) |
 | Age of Kita | 208205 | [208205-age-of-kita.json](./208205-age-of-kita.json) |
 | Age of Legion | 148968 | [148968-age-of-legion.json](./148968-age-of-legion.json) |
 | Age of Mage | 176191 | [176191-age-of-mage.json](./176191-age-of-mage.json) |
 | Age of Magic CCG | 33894 | [33894-age-of-magic-ccg.json](./33894-age-of-magic-ccg.json) |
+| Age of Mahjong | 52376 | [52376-age-of-mahjong.json](./52376-age-of-mahjong.json) |
 | Age of Memology | 392819 | [392819-age-of-memology.json](./392819-age-of-memology.json) |
 | Age of Mythology: Retold - Heavenly Spear | 348197 | [348197-age-of-mythology-retold-heavenly-spear.json](./348197-age-of-mythology-retold-heavenly-spear.json) |
 | Age of Mythology: Retold - Obsidian Mirror | 395818 | [395818-age-of-mythology-retold-obsidian-mirror.json](./395818-age-of-mythology-retold-obsidian-mirror.json) |
@@ -3824,10 +3834,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agricola | 88316 | [88316-agricola.json](./88316-agricola.json) |
 | Agricultural Simulator 2011 | 9537 | [9537-agricultural-simulator-2011.json](./9537-agricultural-simulator-2011.json) |
 | Agricultural Simulator 2011: Extended Edition | 28720 | [28720-agricultural-simulator-2011-extended-edition.json](./28720-agricultural-simulator-2011-extended-edition.json) |
+| Agricultural Simulator 2011: Gold Edition | 52374 | [52374-agricultural-simulator-2011-gold-edition.json](./52374-agricultural-simulator-2011-gold-edition.json) |
 | Agricultural Simulator 2012 | 52573 | [52573-agricultural-simulator-2012.json](./52573-agricultural-simulator-2012.json) |
 | Agricultural Simulator 2012: Deluxe Edition | 36393 | [36393-agricultural-simulator-2012-deluxe-edition.json](./36393-agricultural-simulator-2012-deluxe-edition.json) |
 | Agricultural Simulator 2013 | 50492 | [50492-agricultural-simulator-2013.json](./50492-agricultural-simulator-2013.json) |
 | Agricultural Simulator 2013: Collector's Edition | 25047 | [25047-agricultural-simulator-2013-collectors-edition.json](./25047-agricultural-simulator-2013-collectors-edition.json) |
+| Agricultural Simulator 2013: Gold Edition | 52373 | [52373-agricultural-simulator-2013-gold-edition.json](./52373-agricultural-simulator-2013-gold-edition.json) |
+| Agricultural Simulator Anthology | 52372 | [52372-agricultural-simulator-anthology.json](./52372-agricultural-simulator-anthology.json) |
 | Agricultural Simulator: Historical Farming | 9954 | [9954-agricultural-simulator-historical-farming.json](./9954-agricultural-simulator-historical-farming.json) |
 | Agriculture Tractor Sim | 264107 | [264107-agriculture-tractor-sim.json](./264107-agriculture-tractor-sim.json) |
 | Agritopia | 274510 | [274510-agritopia.json](./274510-agritopia.json) |
@@ -4191,6 +4204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Navy Fighters | 104135 | [104135-air-navy-fighters.json](./104135-air-navy-fighters.json) |
 | Air Nights | 145516 | [145516-air-nights.json](./145516-air-nights.json) |
 | Air Offense Command | 258449 | [258449-air-offense-command.json](./258449-air-offense-command.json) |
+| Air Offensive: The Art of Flying | 52371 | [52371-air-offensive-the-art-of-flying.json](./52371-air-offensive-the-art-of-flying.json) |
 | Air patrol | 40768 | [40768-air-patrol.json](./40768-air-patrol.json) |
 | Air Plane Simulator | 216150 | [216150-air-plane-simulator.json](./216150-air-plane-simulator.json) |
 | Air Port Panic | 300008 | [300008-air-port-panic.json](./300008-air-port-panic.json) |
@@ -4207,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Raid | 11113 | [11113-air-raid.json](./11113-air-raid.json) |
 | Air Raid 3 | 68270 | [68270-air-raid-3.json](./68270-air-raid-3.json) |
 | Air Raid Over Britain | 89949 | [89949-air-raid-over-britain.json](./89949-air-raid-over-britain.json) |
+| Air Raid: This Is Not a Drill! | 52370 | [52370-air-raid-this-is-not-a-drill.json](./52370-air-raid-this-is-not-a-drill.json) |
 | Air Raiders | 11114 | [11114-air-raiders.json](./11114-air-raiders.json) |
 | Air Ranger 2: Rescue Helicopter | 68268 | [68268-air-ranger-2-rescue-helicopter.json](./68268-air-ranger-2-rescue-helicopter.json) |
 | Air Rescue | 45671 | [45671-air-rescue.json](./45671-air-rescue.json) |
@@ -4384,6 +4399,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Ground Handling Simulator VR | 212673 | [212673-airport-ground-handling-simulator-vr.json](./212673-airport-ground-handling-simulator-vr.json) |
 | Airport Inspector | 382320 | [382320-airport-inspector.json](./382320-airport-inspector.json) |
 | Airport Link: Connect Near Me | 290465 | [290465-airport-link-connect-near-me.json](./290465-airport-link-connect-near-me.json) |
+| Airport Madness 1 | 52369 | [52369-airport-madness-1.json](./52369-airport-madness-1.json) |
+| Airport Madness 2 | 52388 | [52388-airport-madness-2.json](./52388-airport-madness-2.json) |
+| Airport Madness 3 | 52387 | [52387-airport-madness-3.json](./52387-airport-madness-3.json) |
 | Airport Madness 3D | 33481 | [33481-airport-madness-3d.json](./33481-airport-madness-3d.json) |
 | Airport Madness Collection | 52566 | [52566-airport-madness-collection.json](./52566-airport-madness-collection.json) |
 | Airport Madness: World Edition | 35258 | [35258-airport-madness-world-edition.json](./35258-airport-madness-world-edition.json) |
@@ -4399,10 +4417,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Scanner | 91172 | [91172-airport-scanner.json](./91172-airport-scanner.json) |
 | Airport Security Sucks! | 397694 | [397694-airport-security-sucks.json](./397694-airport-security-sucks.json) |
 | Airport Service Simulator | 204979 | [204979-airport-service-simulator.json](./204979-airport-service-simulator.json) |
+| Airport Simulator | 52386 | [52386-airport-simulator.json](./52386-airport-simulator.json) |
 | Airport Simulator 2013 | 100124 | [100124-airport-simulator-2013.json](./100124-airport-simulator-2013.json) |
 | Airport Simulator 2014 | 16899 | [16899-airport-simulator-2014.json](./16899-airport-simulator-2014.json) |
 | Airport Simulator 2019 | 100545 | [100545-airport-simulator-2019.json](./100545-airport-simulator-2019.json) |
 | Airport Simulator: Day & Night | 187310 | [187310-airport-simulator-day-and-night.json](./187310-airport-simulator-day-and-night.json) |
+| Airport Tower Simulator 2012 | 52385 | [52385-airport-tower-simulator-2012.json](./52385-airport-tower-simulator-2012.json) |
 | Airport Tycoon | 78900 | [78900-airport-tycoon.json](./78900-airport-tycoon.json) |
 | Airport Tycoon 2 | 78040 | [78040-airport-tycoon-2.json](./78040-airport-tycoon-2.json) |
 | Airport Tycoon 3 | 69843 | [69843-airport-tycoon-3.json](./69843-airport-tycoon-3.json) |
@@ -4704,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaa: Mogus Must Die | 283885 | [283885-alaa-mogus-must-die.json](./283885-alaa-mogus-must-die.json) |
 | Alabama Bones | 119420 | [119420-alabama-bones.json](./119420-alabama-bones.json) |
 | Alabama Meets Will Vi | 387136 | [387136-alabama-meets-will-vi.json](./387136-alabama-meets-will-vi.json) |
+| Alabama Smith in Escape from Pompeii | 52384 | [52384-alabama-smith-in-escape-from-pompeii.json](./52384-alabama-smith-in-escape-from-pompeii.json) |
 | Alabama Smith: Escape from Pompeii | 176893 | [176893-alabama-smith-escape-from-pompeii.json](./176893-alabama-smith-escape-from-pompeii.json) |
 | Alabaster | 60017 | [60017-alabaster.json](./60017-alabaster.json) |
 | Alaca | 272778 | [272778-alaca.json](./272778-alaca.json) |
@@ -4957,6 +4978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Hill: The Body at Clearwater Bay | 335423 | [335423-alex-hill-the-body-at-clearwater-bay.json](./335423-alex-hill-the-body-at-clearwater-bay.json) |
 | Alex Hill: Whispers at White Oak Inn | 288752 | [288752-alex-hill-whispers-at-white-oak-inn.json](./288752-alex-hill-whispers-at-white-oak-inn.json) |
 | Alex Hunter: Lord of the Mind | 30374 | [30374-alex-hunter-lord-of-the-mind.json](./30374-alex-hunter-lord-of-the-mind.json) |
+| Alex Hunter: Lord of the Mind - Platinum Edition | 52383 | [52383-alex-hunter-lord-of-the-mind-platinum-edition.json](./52383-alex-hunter-lord-of-the-mind-platinum-edition.json) |
 | Alex Hunter: Lord of the Mind HD | 105936 | [105936-alex-hunter-lord-of-the-mind-hd.json](./105936-alex-hunter-lord-of-the-mind-hd.json) |
 | Alex Kidd and the Miracle Gems | 376442 | [376442-alex-kidd-and-the-miracle-gems.json](./376442-alex-kidd-and-the-miracle-gems.json) |
 | Alex Kidd in Miracle World | 26778 | [26778-alex-kidd-in-miracle-world.json](./26778-alex-kidd-in-miracle-world.json) |
@@ -4984,6 +5006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alexander | 376852 | [376852-alexander.json](./376852-alexander.json) |
 | Alexander | 398509 | [398509-alexander.json](./398509-alexander.json) |
 | Alexander | 9359 | [9359-alexander.json](./9359-alexander.json) |
+| Alexander the Great | 52382 | [52382-alexander-the-great.json](./52382-alexander-the-great.json) |
 | Alexander the Great: Secrets of Power | 58039 | [58039-alexander-the-great-secrets-of-power.json](./58039-alexander-the-great-secrets-of-power.json) |
 | Alexander: Heroes of the Conquest | 202679 | [202679-alexander-heroes-of-the-conquest.json](./202679-alexander-heroes-of-the-conquest.json) |
 | Alexander: The Heroes Hour | 130040 | [130040-alexander-the-heroes-hour.json](./130040-alexander-the-heroes-hour.json) |
@@ -5013,6 +5036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ALF's U.S. Geography | 94247 | [94247-alfs-u-s-geography.json](./94247-alfs-u-s-geography.json) |
 | Alfa Romeo Racing Italiano | 5721 | [5721-alfa-romeo-racing-italiano.json](./5721-alfa-romeo-racing-italiano.json) |
 | Alfa-Arkiv | 60793 | [60793-alfa-arkiv.json](./60793-alfa-arkiv.json) |
+| Alfa: Antiterror | 52381 | [52381-alfa-antiterror.json](./52381-alfa-antiterror.json) |
 | Alfabet Nauka czytania i pisania | 318485 | [318485-alfabet-nauka-czytania-i-pisania.json](./318485-alfabet-nauka-czytania-i-pisania.json) |
 | Alfabet Śmierci | 14238 | [14238-alfabet-smierci.json](./14238-alfabet-smierci.json) |
 | Alfabit Gonki za Poteryannymi Bukvami (Byez Peklamy) | 104570 | [104570-alfabit-gonki-za-poteryannymi-bukvami-byez-peklamy.json](./104570-alfabit-gonki-za-poteryannymi-bukvami-byez-peklamy.json) |
@@ -5087,6 +5111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice 49: Ep. 0 - Diamonds and Cream Puffs | 331923 | [331923-alice-49-ep-0-diamonds-and-cream-puffs.json](./331923-alice-49-ep-0-diamonds-and-cream-puffs.json) |
 | Alice and Smith: Complete Library | 52589 | [52589-alice-and-smith-complete-library.json](./52589-alice-and-smith-complete-library.json) |
 | Alice and the Devil's Prison | 406645 | [406645-alice-and-the-devils-prison.json](./406645-alice-and-the-devils-prison.json) |
+| Alice and the Magic Gardens | 52380 | [52380-alice-and-the-magic-gardens.json](./52380-alice-and-the-magic-gardens.json) |
 | Alice and the Magical Islands | 371312 | [371312-alice-and-the-magical-islands.json](./371312-alice-and-the-magical-islands.json) |
 | Alice and You in the planet of numbers | 144141 | [144141-alice-and-you-in-the-planet-of-numbers.json](./144141-alice-and-you-in-the-planet-of-numbers.json) |
 | Alice Clancy's Shattered Dimensions | 279076 | [279076-alice-clancys-shattered-dimensions.json](./279076-alice-clancys-shattered-dimensions.json) |
@@ -5118,6 +5143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Wonderland AR quest D | 100694 | [100694-alice-in-wonderland-ar-quest-d.json](./100694-alice-in-wonderland-ar-quest-d.json) |
 | Alice in Wonderland: 3D Game | 102945 | [102945-alice-in-wonderland-3d-game.json](./102945-alice-in-wonderland-3d-game.json) |
 | Alice In Wonderland: A New Champion | 62811 | [62811-alice-in-wonderland-a-new-champion.json](./62811-alice-in-wonderland-a-new-champion.json) |
+| Alice in Wonderland: Extended Edition | 52379 | [52379-alice-in-wonderland-extended-edition.json](./52379-alice-in-wonderland-extended-edition.json) |
 | Alice in Wonderland: Jigsaw Puzzle | 207804 | [207804-alice-in-wonderland-jigsaw-puzzle.json](./207804-alice-in-wonderland-jigsaw-puzzle.json) |
 | Alice in Wonderland: Magical Labyrinth | 328575 | [328575-alice-in-wonderland-magical-labyrinth.json](./328575-alice-in-wonderland-magical-labyrinth.json) |
 | Alice in Wonderland: Puzzle Golf Adventures | 100008 | [100008-alice-in-wonderland-puzzle-golf-adventures.json](./100008-alice-in-wonderland-puzzle-golf-adventures.json) |
@@ -5540,6 +5566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alilia | 116862 | [116862-alilia.json](./116862-alilia.json) |
 | Alimardan Meets Merlin | 55666 | [55666-alimardan-meets-merlin.json](./55666-alimardan-meets-merlin.json) |
 | Alimardan's Mischief | 55667 | [55667-alimardans-mischief.json](./55667-alimardans-mischief.json) |
+| Alimardan's Mischiefs | 52378 | [52378-alimardans-mischiefs.json](./52378-alimardans-mischiefs.json) |
 | Aline | 127978 | [127978-aline.json](./127978-aline.json) |
 | Aliosso | 288767 | [288767-aliosso.json](./288767-aliosso.json) |
 | Alipache in Wonderworld | 204708 | [204708-alipache-in-wonderworld.json](./204708-alipache-in-wonderworld.json) |
@@ -6589,6 +6616,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amelia's Garden | 319780 | [319780-amelias-garden.json](./319780-amelias-garden.json) |
 | Amelie | 190744 | [190744-amelie.json](./190744-amelie.json) |
 | Amelie And The Lost Spirit | 296263 | [296263-amelie-and-the-lost-spirit.json](./296263-amelie-and-the-lost-spirit.json) |
+| Amelie's Cafe | 52397 | [52397-amelies-cafe.json](./52397-amelies-cafe.json) |
+| Amelie's Cafe: Holiday Spirit | 52396 | [52396-amelies-cafe-holiday-spirit.json](./52396-amelies-cafe-holiday-spirit.json) |
+| Amelie's Café: Summer Time | 52398 | [52398-amelies-cafe-summer-time.json](./52398-amelies-cafe-summer-time.json) |
+| Amelies Cafe Halloween | 52395 | [52395-amelies-cafe-halloween.json](./52395-amelies-cafe-halloween.json) |
 | Amelite | 195462 | [195462-amelite.json](./195462-amelite.json) |
 | Amelorn | 379127 | [379127-amelorn.json](./379127-amelorn.json) |
 | Amen Jesus Flap | 61442 | [61442-amen-jesus-flap.json](./61442-amen-jesus-flap.json) |
@@ -6680,6 +6711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Idol | 248734 | [248734-american-idol.json](./248734-american-idol.json) |
 | American Idol: The Search For A Superstar | 63636 | [63636-american-idol-the-search-for-a-superstar.json](./63636-american-idol-the-search-for-a-superstar.json) |
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
+| American Lowriders | 52394 | [52394-american-lowriders.json](./52394-american-lowriders.json) |
 | American Marksman | 239912 | [239912-american-marksman.json](./239912-american-marksman.json) |
 | American McGee presents: Bad Day L.A. | 20567 | [20567-american-mcgee-presents-bad-day-l-a.json](./20567-american-mcgee-presents-bad-day-l-a.json) |
 | American McGee Presents: Scrapland | 20289 | [20289-american-mcgee-presents-scrapland.json](./20289-american-mcgee-presents-scrapland.json) |
@@ -6690,6 +6722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Navy Seals | 410967 | [410967-american-navy-seals.json](./410967-american-navy-seals.json) |
 | American Ninja Warrior: Challenge | 118196 | [118196-american-ninja-warrior-challenge.json](./118196-american-ninja-warrior-challenge.json) |
 | American Patriots: The Swamp Fox | 111018 | [111018-american-patriots-the-swamp-fox.json](./111018-american-patriots-the-swamp-fox.json) |
+| American Pickers | 52393 | [52393-american-pickers.json](./52393-american-pickers.json) |
 | American Pickers: The Road Less Traveled | 65204 | [65204-american-pickers-the-road-less-traveled.json](./65204-american-pickers-the-road-less-traveled.json) |
 | American Poker | 14252 | [14252-american-poker.json](./14252-american-poker.json) |
 | American Pool | 43928 | [43928-american-pool.json](./43928-american-pool.json) |
@@ -6952,6 +6985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMSCII Invasor | 307171 | [307171-amscii-invasor.json](./307171-amscii-invasor.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
 | Amshay | 199383 | [199383-amshay.json](./199383-amshay.json) |
+| Amsterdam Street Racer | 52391 | [52391-amsterdam-street-racer.json](./52391-amsterdam-street-racer.json) |
 | Amsterdam Taxi Madness | 73746 | [73746-amsterdam-taxi-madness.json](./73746-amsterdam-taxi-madness.json) |
 | AmsterDoom | 94385 | [94385-amsterdoom.json](./94385-amsterdoom.json) |
 | Amstrad Compilation Disk Spectrum Plus 3 | 298963 | [298963-amstrad-compilation-disk-spectrum-plus-3.json](./298963-amstrad-compilation-disk-spectrum-plus-3.json) |
@@ -6964,6 +6998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amulet of Time: Shadow of La Rochelle | 169858 | [169858-amulet-of-time-shadow-of-la-rochelle.json](./169858-amulet-of-time-shadow-of-la-rochelle.json) |
 | Amulet of Yendor | 2882 | [2882-amulet-of-yendor.json](./2882-amulet-of-yendor.json) |
 | Amusement Inferno | 271722 | [271722-amusement-inferno.json](./271722-amusement-inferno.json) |
+| Amusement Park | 52390 | [52390-amusement-park.json](./52390-amusement-park.json) |
 | Amusement Park: Jumping Kid | 203385 | [203385-amusement-park-jumping-kid.json](./203385-amusement-park-jumping-kid.json) |
 | Amusia | 311187 | [311187-amusia.json](./311187-amusia.json) |
 | Amy & Trip in Sonic the Hedgehog 2 | 361499 | [361499-amy-and-trip-in-sonic-the-hedgehog-2.json](./361499-amy-and-trip-in-sonic-the-hedgehog-2.json) |
@@ -7248,6 +7283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Relic | 233455 | [233455-ancient-relic.json](./233455-ancient-relic.json) |
 | Ancient Rituals: Stonehenge | 216467 | [216467-ancient-rituals-stonehenge.json](./216467-ancient-rituals-stonehenge.json) |
 | Ancient Roman: Power of Dark Side | 193330 | [193330-ancient-roman-power-of-dark-side.json](./193330-ancient-roman-power-of-dark-side.json) |
+| Ancient Rome | 52389 | [52389-ancient-rome.json](./52389-ancient-rome.json) |
 | Ancient Rome 2 | 25504 | [25504-ancient-rome-2.json](./25504-ancient-rome-2.json) |
 | Ancient Ruins | 368662 | [368662-ancient-ruins.json](./368662-ancient-ruins.json) |
 | Ancient Ruins 1: The Crypt of the King | 23567 | [23567-ancient-ruins-1-the-crypt-of-the-king.json](./23567-ancient-ruins-1-the-crypt-of-the-king.json) |
@@ -7847,6 +7883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Life: Dinosaurs | 269552 | [269552-animal-life-dinosaurs.json](./269552-animal-life-dinosaurs.json) |
 | Animal Life: Eurasia | 269553 | [269553-animal-life-eurasia.json](./269553-animal-life-eurasia.json) |
 | Animal Life: North America | 269554 | [269554-animal-life-north-america.json](./269554-animal-life-north-america.json) |
+| Animal Links | 52404 | [52404-animal-links.json](./52404-animal-links.json) |
 | Animal Magnetism: Pochi no Daisuki | 214434 | [214434-animal-magnetism-pochi-no-daisuki.json](./214434-animal-magnetism-pochi-no-daisuki.json) |
 | Animal Maid! | 97768 | [97768-animal-maid.json](./97768-animal-maid.json) |
 | Animal Math | 73475 | [73475-animal-math.json](./73475-animal-math.json) |
@@ -7960,6 +7997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals Memory: Underwater Kingdom | 81976 | [81976-animals-memory-underwater-kingdom.json](./81976-animals-memory-underwater-kingdom.json) |
 | Animals Merge Quest | 309760 | [309760-animals-merge-quest.json](./309760-animals-merge-quest.json) |
 | Animals of Australia | 108229 | [108229-animals-of-australia.json](./108229-animals-of-australia.json) |
+| Animals of the World | 52403 | [52403-animals-of-the-world.json](./52403-animals-of-the-world.json) |
 | Animals on the Loose: A You vs. Wild Movie | 256867 | [256867-animals-on-the-loose-a-you-vs-wild-movie.json](./256867-animals-on-the-loose-a-you-vs-wild-movie.json) |
 | Animals Puzzles for toddler: Learning kids games | 93816 | [93816-animals-puzzles-for-toddler-learning-kids-games.json](./93816-animals-puzzles-for-toddler-learning-kids-games.json) |
 | Animals Transport Simulator | 201692 | [201692-animals-transport-simulator.json](./201692-animals-transport-simulator.json) |
@@ -8253,6 +8291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 117: Pax Romana – The Hippodrome | 414760 | [414760-anno-117-pax-romana-the-hippodrome.json](./414760-anno-117-pax-romana-the-hippodrome.json) |
 | Anno 1404: Gold Edition | 27913 | [27913-anno-1404-gold-edition.json](./27913-anno-1404-gold-edition.json) |
 | Anno 1404: History Edition | 135738 | [135738-anno-1404-history-edition.json](./135738-anno-1404-history-edition.json) |
+| Anno 1404: Royal Edition | 52402 | [52402-anno-1404-royal-edition.json](./52402-anno-1404-royal-edition.json) |
 | Anno 1503: History Edition | 136092 | [136092-anno-1503-history-edition.json](./136092-anno-1503-history-edition.json) |
 | Anno 1503: Royal Edition | 77223 | [77223-anno-1503-royal-edition.json](./77223-anno-1503-royal-edition.json) |
 | Anno 1602 A.D. | 180271 | [180271-anno-1602-a-d.json](./180271-anno-1602-a-d.json) |
@@ -8302,6 +8341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Tourist Season | 151204 | [151204-anno-1800-tourist-season.json](./151204-anno-1800-tourist-season.json) |
 | Anno 1800: Vehicle Liveries Pack | 227418 | [227418-anno-1800-vehicle-liveries-pack.json](./227418-anno-1800-vehicle-liveries-pack.json) |
 | Anno 2070: Bonus Edition | 180261 | [180261-anno-2070-bonus-edition.json](./180261-anno-2070-bonus-edition.json) |
+| Anno 2070: Complete Edition | 52401 | [52401-anno-2070-complete-edition.json](./52401-anno-2070-complete-edition.json) |
 | Anno 2070: Deep Ocean | 8228 | [8228-anno-2070-deep-ocean.json](./8228-anno-2070-deep-ocean.json) |
 | Anno 2070: Royal Edition | 180263 | [180263-anno-2070-royal-edition.json](./180263-anno-2070-royal-edition.json) |
 | Anno 2070: The Crisis Response Package | 335463 | [335463-anno-2070-the-crisis-response-package.json](./335463-anno-2070-the-crisis-response-package.json) |
@@ -8313,6 +8353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 2205: Orbit | 24872 | [24872-anno-2205-orbit.json](./24872-anno-2205-orbit.json) |
 | Anno 2205: Season Pass | 180200 | [180200-anno-2205-season-pass.json](./180200-anno-2205-season-pass.json) |
 | Anno 2205: Tundra | 24871 | [24871-anno-2205-tundra.json](./24871-anno-2205-tundra.json) |
+| Anno 2205: Ultimate Edition | 52400 | [52400-anno-2205-ultimate-edition.json](./52400-anno-2205-ultimate-edition.json) |
 | Anno 2205: Wildwater Bay | 24870 | [24870-anno-2205-wildwater-bay.json](./24870-anno-2205-wildwater-bay.json) |
 | Anno Domini 1257 | 356207 | [356207-anno-domini-1257.json](./356207-anno-domini-1257.json) |
 | Anno Domini 1259 | 356151 | [356151-anno-domini-1259.json](./356151-anno-domini-1259.json) |
@@ -11464,6 +11505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifact Seekers | 366306 | [366306-artifact-seekers.json](./366306-artifact-seekers.json) |
 | Artifacting | 151608 | [151608-artifacting.json](./151608-artifacting.json) |
 | Artifacto | 180103 | [180103-artifacto.json](./180103-artifacto.json) |
+| Artifacts | 52352 | [52352-artifacts.json](./52352-artifacts.json) |
 | Artifacts and Antiquity | 223385 | [223385-artifacts-and-antiquity.json](./223385-artifacts-and-antiquity.json) |
 | Artifacts of Eternity | 337617 | [337617-artifacts-of-eternity.json](./337617-artifacts-of-eternity.json) |
 | Artifacts of Eyru | 207507 | [207507-artifacts-of-eyru.json](./207507-artifacts-of-eyru.json) |
