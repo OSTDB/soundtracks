@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laguna Racer | 170525 | [170525-laguna-racer.json](./170525-laguna-racer.json) |
 | Lagunita | 228275 | [228275-lagunita.json](./228275-lagunita.json) |
 | Lái Shàng Dàxué ba! | 130149 | [130149-lai-shang-daxue-ba.json](./130149-lai-shang-daxue-ba.json) |
+| Laid Back in the Alternative World | 82598 | [82598-laid-back-in-the-alternative-world.json](./82598-laid-back-in-the-alternative-world.json) |
 | Laid-Back Camp All-in-one!! | 255095 | [255095-laid-back-camp-all-in-one.json](./255095-laid-back-camp-all-in-one.json) |
 | Laid-Back Camp: Camping Cook-Off! | 402936 | [402936-laid-back-camp-camping-cook-off.json](./402936-laid-back-camp-camping-cook-off.json) |
 | Laid-Back Camp: Have a nice day! | 146334 | [146334-laid-back-camp-have-a-nice-day.json](./146334-laid-back-camp-have-a-nice-day.json) |
@@ -5204,6 +5205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lloyd the Monkey 3 Expansion: The Warrior Once Called Prince | 369198 | [369198-lloyd-the-monkey-3-expansion-the-warrior-once-called-prince.json](./369198-lloyd-the-monkey-3-expansion-the-warrior-once-called-prince.json) |
 | Lloyd the Monkey 3: Judgement Day | 266221 | [266221-lloyd-the-monkey-3-judgement-day.json](./266221-lloyd-the-monkey-3-judgement-day.json) |
 | Lloyd the Monkey: Remastered | 266216 | [266216-lloyd-the-monkey-remastered.json](./266216-lloyd-the-monkey-remastered.json) |
+| Lloyd, Sasha and Seven Love Affair Partners | 82632 | [82632-lloyd-sasha-and-seven-love-affair-partners.json](./82632-lloyd-sasha-and-seven-love-affair-partners.json) |
 | LLs | 96524 | [96524-lls.json](./96524-lls.json) |
 | LM7 | 377903 | [377903-lm7.json](./377903-lm7.json) |
 | LMA Manager | 22541 | [22541-lma-manager.json](./22541-lma-manager.json) |
@@ -6937,6 +6939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Me Not | 252147 | [252147-love-me-not.json](./252147-love-me-not.json) |
 | Love Meeting | 165032 | [165032-love-meeting.json](./165032-love-meeting.json) |
 | Love Menu | 235591 | [235591-love-menu.json](./235591-love-menu.json) |
+| Love Mochi | 82576 | [82576-love-mochi.json](./82576-love-mochi.json) |
 | Love My Pegasus | 239871 | [239871-love-my-pegasus.json](./239871-love-my-pegasus.json) |
 | Love Mystery Club | 155669 | [155669-love-mystery-club.json](./155669-love-mystery-club.json) |
 | Love Mythos: Sanctuary Island | 116309 | [116309-love-mythos-sanctuary-island.json](./116309-love-mythos-sanctuary-island.json) |
@@ -7559,6 +7562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lully Muk's Christmas Adventure | 183271 | [183271-lully-muks-christmas-adventure.json](./183271-lully-muks-christmas-adventure.json) |
 | Lulu & Ennoi: Sacred Suit Girls | 119621 | [119621-lulu-and-ennoi-sacred-suit-girls.json](./119621-lulu-and-ennoi-sacred-suit-girls.json) |
 | Lulu Fighter for LOL | 243096 | [243096-lulu-fighter-for-lol.json](./243096-lulu-fighter-for-lol.json) |
+| Lulu in Forest of Aphrodisiac | 82624 | [82624-lulu-in-forest-of-aphrodisiac.json](./82624-lulu-in-forest-of-aphrodisiac.json) |
 | Lulu Way | 197164 | [197164-lulu-way.json](./197164-lulu-way.json) |
 | Lulu's Temple | 195696 | [195696-lulus-temple.json](./195696-lulus-temple.json) |
 | Lum: Hide from Nightmares | 211180 | [211180-lum-hide-from-nightmares.json](./211180-lum-hide-from-nightmares.json) |
@@ -8053,6 +8057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyre | 377592 | [377592-lyre.json](./377592-lyre.json) |
 | Lyrestruck | 316353 | [316353-lyrestruck.json](./316353-lyrestruck.json) |
 | Lyric Sonata | 107248 | [107248-lyric-sonata.json](./107248-lyric-sonata.json) |
+| Lyrica | 82602 | [82602-lyrica.json](./82602-lyrica.json) |
 | Lyrica & Lyrica 2 Stars Align | 152914 | [152914-lyrica-and-lyrica-2-stars-align.json](./152914-lyrica-and-lyrica-2-stars-align.json) |
 | Lyrica 2 Stars Align | 152913 | [152913-lyrica-2-stars-align.json](./152913-lyrica-2-stars-align.json) |
 | Lyrvane Park | 374291 | [374291-lyrvane-park.json](./374291-lyrvane-park.json) |
