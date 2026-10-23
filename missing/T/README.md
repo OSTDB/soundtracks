@@ -7098,6 +7098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Evil Within: The Assignment | 9183 | [9183-the-evil-within-the-assignment.json](./9183-the-evil-within-the-assignment.json) |
 | The Evil Within: The Consequence | 20945 | [20945-the-evil-within-the-consequence.json](./20945-the-evil-within-the-consequence.json) |
 | The Evil Within: The Executioner | 21592 | [21592-the-evil-within-the-executioner.json](./21592-the-evil-within-the-executioner.json) |
+| The Evilslayer Maiden | 82639 | [82639-the-evilslayer-maiden.json](./82639-the-evilslayer-maiden.json) |
 | The Evolving Forest | 252891 | [252891-the-evolving-forest.json](./252891-the-evolving-forest.json) |
 | The exact moment | 144790 | [144790-the-exact-moment.json](./144790-the-exact-moment.json) |
 | The Exaggerated Epoch of Edward O'Hare | 147378 | [147378-the-exaggerated-epoch-of-edward-ohare.json](./147378-the-exaggerated-epoch-of-edward-ohare.json) |
@@ -11606,6 +11607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paperman | 126922 | [126922-the-paperman.json](./126922-the-paperman.json) |
 | The Paracelsian Project | 244726 | [244726-the-paracelsian-project.json](./244726-the-paracelsian-project.json) |
 | The Paradell | 249078 | [249078-the-paradell.json](./249078-the-paradell.json) |
+| The Paradise of Elves | 82631 | [82631-the-paradise-of-elves.json](./82631-the-paradise-of-elves.json) |
 | The Paradixion: Laboratory | 262474 | [262474-the-paradixion-laboratory.json](./262474-the-paradixion-laboratory.json) |
 | The Paradixion: Restroom | 368589 | [368589-the-paradixion-restroom.json](./368589-the-paradixion-restroom.json) |
 | The Paradixion: Son's Room | 250493 | [250493-the-paradixion-sons-room.json](./250493-the-paradixion-sons-room.json) |
@@ -19182,6 +19184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toast | 237271 | [237271-toast.json](./237271-toast.json) |
 | Toast Defense | 150977 | [150977-toast-defense.json](./150977-toast-defense.json) |
 | Toast Ghost | 307739 | [307739-toast-ghost.json](./307739-toast-ghost.json) |
+| Toast Girl | 82577 | [82577-toast-girl.json](./82577-toast-girl.json) |
 | Toast Hell | 350556 | [350556-toast-hell.json](./350556-toast-hell.json) |
 | Toast Jammer | 180642 | [180642-toast-jammer.json](./180642-toast-jammer.json) |
 | Toast Shooter | 260199 | [260199-toast-shooter.json](./260199-toast-shooter.json) |
