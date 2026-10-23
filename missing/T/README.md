@@ -4420,6 +4420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Emilie in Paris | 380639 | [380639-the-adventures-of-emilie-in-paris.json](./380639-the-adventures-of-emilie-in-paris.json) |
 | The Adventures of Emoji 4: Fly High Mouse - Remastered | 297884 | [297884-the-adventures-of-emoji-4-fly-high-mouse-remastered.json](./297884-the-adventures-of-emoji-4-fly-high-mouse-remastered.json) |
 | The Adventures of Fatman | 34651 | [34651-the-adventures-of-fatman.json](./34651-the-adventures-of-fatman.json) |
+| The Adventures of Felix Fox: Tale of the Night | 65920 | [65920-the-adventures-of-felix-fox-tale-of-the-night.json](./65920-the-adventures-of-felix-fox-tale-of-the-night.json) |
 | The Adventures of Gilligan's Island | 8742 | [8742-the-adventures-of-gilligans-island.json](./8742-the-adventures-of-gilligans-island.json) |
 | The Adventures of Golly | 116858 | [116858-the-adventures-of-golly.json](./116858-the-adventures-of-golly.json) |
 | The Adventures of Graham | 398329 | [398329-the-adventures-of-graham.json](./398329-the-adventures-of-graham.json) |
@@ -13807,6 +13808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sword and the Fox | 74851 | [74851-the-sword-and-the-fox.json](./74851-the-sword-and-the-fox.json) |
 | The Sword and the Slime | 121455 | [121455-the-sword-and-the-slime.json](./121455-the-sword-and-the-slime.json) |
 | The Sword of Ares for Quake | 196720 | [196720-the-sword-of-ares-for-quake.json](./196720-the-sword-of-ares-for-quake.json) |
+| The Sword of Camelot | 65884 | [65884-the-sword-of-camelot.json](./65884-the-sword-of-camelot.json) |
 | The Sword of Etheria | 10901 | [10901-the-sword-of-etheria.json](./10901-the-sword-of-etheria.json) |
 | The Sword of Hope | 10946 | [10946-the-sword-of-hope.json](./10946-the-sword-of-hope.json) |
 | The Sword of Hope II | 10947 | [10947-the-sword-of-hope-ii.json](./10947-the-sword-of-hope-ii.json) |
@@ -14527,6 +14529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ugly Ducling | 228078 | [228078-the-ugly-ducling.json](./228078-the-ugly-ducling.json) |
 | The Ultimate 11: SNK Football Championship | 39537 | [39537-the-ultimate-11-snk-football-championship.json](./39537-the-ultimate-11-snk-football-championship.json) |
 | The Ultimate Adventure Games Pack Vol.1 | 96527 | [96527-the-ultimate-adventure-games-pack-vol-1.json](./96527-the-ultimate-adventure-games-pack-vol-1.json) |
+| The Ultimate Alphabet | 65946 | [65946-the-ultimate-alphabet.json](./65946-the-ultimate-alphabet.json) |
 | The Ultimate Arena | 77357 | [77357-the-ultimate-arena.json](./77357-the-ultimate-arena.json) |
 | The Ultimate Banana Game | 330898 | [330898-the-ultimate-banana-game.json](./330898-the-ultimate-banana-game.json) |
 | The Ultimate Battle of the Sexes: Quiz & Play! | 65242 | [65242-the-ultimate-battle-of-the-sexes-quiz-and-play.json](./65242-the-ultimate-battle-of-the-sexes-quiz-and-play.json) |
@@ -16229,6 +16232,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrift Store Treasure: Hidden Objects | 417510 | [417510-thrift-store-treasure-hidden-objects.json](./417510-thrift-store-treasure-hidden-objects.json) |
 | Thriftgirl | 384818 | [384818-thriftgirl.json](./384818-thriftgirl.json) |
 | Thrill Drill | 391109 | [391109-thrill-drill.json](./391109-thrill-drill.json) |
+| Thrill Drive | 65915 | [65915-thrill-drive.json](./65915-thrill-drive.json) |
+| Thrill Drive 2 | 65914 | [65914-thrill-drive-2.json](./65914-thrill-drive-2.json) |
+| Thrill Drive 3 | 65913 | [65913-thrill-drive-3.json](./65913-thrill-drive-3.json) |
 | Thrill Penguin | 204332 | [204332-thrill-penguin.json](./204332-thrill-penguin.json) |
 | Thrill Rush | 103400 | [103400-thrill-rush.json](./103400-thrill-rush.json) |
 | Thriller Garden | 256724 | [256724-thriller-garden.json](./256724-thriller-garden.json) |
@@ -26145,6 +26151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twaddle Paddle | 114320 | [114320-twaddle-paddle.json](./114320-twaddle-paddle.json) |
 | Twas The Night | 326207 | [326207-twas-the-night.json](./326207-twas-the-night.json) |
 | Tweaked Revolution | 259029 | [259029-tweaked-revolution.json](./259029-tweaked-revolution.json) |
+| Tweenies - Game Time | 65885 | [65885-tweenies-game-time.json](./65885-tweenies-game-time.json) |
 | Tweenies Doodles' Bones | 50058 | [50058-tweenies-doodles-bones.json](./50058-tweenies-doodles-bones.json) |
 | Tweet Defense | 66546 | [66546-tweet-defense.json](./66546-tweet-defense.json) |
 | Tweet Star | 108518 | [108518-tweet-star.json](./108518-tweet-star.json) |
