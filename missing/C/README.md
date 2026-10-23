@@ -3711,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Creatures | 421221 | [421221-cave-creatures.json](./421221-cave-creatures.json) |
 | Cave Crusade | 343244 | [343244-cave-crusade.json](./343244-cave-crusade.json) |
 | Cave Dave | 391293 | [391293-cave-dave.json](./391293-cave-dave.json) |
+| Cave Dig 3 | 73113 | [73113-cave-dig-3.json](./73113-cave-dig-3.json) |
 | Cave Digger 2 | 266177 | [266177-cave-digger-2.json](./266177-cave-digger-2.json) |
 | Cave Digger 2: Mixed Reality Expansion | 306958 | [306958-cave-digger-2-mixed-reality-expansion.json](./306958-cave-digger-2-mixed-reality-expansion.json) |
 | Cave Digger VR | 96467 | [96467-cave-digger-vr.json](./96467-cave-digger-vr.json) |
@@ -12310,6 +12311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowgirl Trainer | 331299 | [331299-cowgirl-trainer.json](./331299-cowgirl-trainer.json) |
 | Cowgirl's Café | 311883 | [311883-cowgirls-cafe.json](./311883-cowgirls-cafe.json) |
 | Cowhop | 239631 | [239631-cowhop.json](./239631-cowhop.json) |
+| CowHunter | 73146 | [73146-cowhunter.json](./73146-cowhunter.json) |
 | Cowlifters: Clash for Cows | 174714 | [174714-cowlifters-clash-for-cows.json](./174714-cowlifters-clash-for-cows.json) |
 | CoWorker | 192766 | [192766-coworker.json](./192766-coworker.json) |
 | Cowpocalypse | 118382 | [118382-cowpocalypse.json](./118382-cowpocalypse.json) |
