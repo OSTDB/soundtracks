@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101-in-1 Explosive Megamix | 23025 | [23025-101-in-1-explosive-megamix.json](./23025-101-in-1-explosive-megamix.json) |
 | 101-in-1 Games Anthology | 273970 | [273970-101-in-1-games-anthology.json](./273970-101-in-1-games-anthology.json) |
 | 101-in-1 Megamix | 42764 | [42764-101-in-1-megamix.json](./42764-101-in-1-megamix.json) |
+| 101-in-1 Sports Party Megamix | 4633 | [4633-101-in-1-sports-party-megamix.json](./4633-101-in-1-sports-party-megamix.json) |
 | 1010 | 76492 | [76492-1010.json](./76492-1010.json) |
 | 1010: Block | 58253 | [58253-1010-block.json](./58253-1010-block.json) |
 | 1010! | 239119 | [239119-1010.json](./239119-1010.json) |
