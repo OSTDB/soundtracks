@@ -2329,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PataNoir | 33327 | [33327-patanoir.json](./33327-patanoir.json) |
 | Patapon | 7812 | [7812-patapon.json](./7812-patapon.json) |
 | Patapon 2 | 7813 | [7813-patapon-2.json](./7813-patapon-2.json) |
+| Patapon 2 Remastered | 76961 | [76961-patapon-2-remastered.json](./76961-patapon-2-remastered.json) |
 | Patapon 2: Art of War | 61093 | [61093-patapon-2-art-of-war.json](./61093-patapon-2-art-of-war.json) |
 | Patapon 3 | 18373 | [18373-patapon-3.json](./18373-patapon-3.json) |
 | Patapon Remastered | 26233 | [26233-patapon-remastered.json](./26233-patapon-remastered.json) |
@@ -7471,6 +7472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Rescue: Wildlife Vet | 149267 | [149267-planet-rescue-wildlife-vet.json](./149267-planet-rescue-wildlife-vet.json) |
 | Planet Reserve | 104140 | [104140-planet-reserve.json](./104140-planet-reserve.json) |
 | Planet Ring | 45805 | [45805-planet-ring.json](./45805-planet-ring.json) |
+| Planet RIX-13 | 28760 | [28760-planet-rix-13.json](./28760-planet-rix-13.json) |
 | Planet Romance Boys: Conquer the Zodiac Horoscope | 376761 | [376761-planet-romance-boys-conquer-the-zodiac-horoscope.json](./376761-planet-romance-boys-conquer-the-zodiac-horoscope.json) |
 | Planet Romance Girls: Conquer the Zodiac Horoscope | 378862 | [378862-planet-romance-girls-conquer-the-zodiac-horoscope.json](./378862-planet-romance-girls-conquer-the-zodiac-horoscope.json) |
 | Planet Royale | 292556 | [292556-planet-royale.json](./292556-planet-royale.json) |
@@ -7882,6 +7884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play With Kizami | 105579 | [105579-play-with-kizami.json](./105579-play-with-kizami.json) |
 | Play With Me | 182885 | [182885-play-with-me.json](./182885-play-with-me.json) |
 | Play With Me | 249068 | [249068-play-with-me.json](./249068-play-with-me.json) |
+| Play With Me: Escape room | 81121 | [81121-play-with-me-escape-room.json](./81121-play-with-me-escape-room.json) |
 | Play With My Balls | 309674 | [309674-play-with-my-balls.json](./309674-play-with-my-balls.json) |
 | Play with the Teletubbies | 67183 | [67183-play-with-the-teletubbies.json](./67183-play-with-the-teletubbies.json) |
 | Play-Doh Create ABCs | 19161 | [19161-play-doh-create-abcs.json](./19161-play-doh-create-abcs.json) |
@@ -10607,6 +10610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Hello | 118449 | [118449-post-hello.json](./118449-post-hello.json) |
 | Post Hero | 239923 | [239923-post-hero.json](./239923-post-hero.json) |
 | Post Hero: Bedbeard's Revenge | 392395 | [392395-post-hero-bedbeards-revenge.json](./392395-post-hero-bedbeards-revenge.json) |
+| Post Human W.A.R | 28256 | [28256-post-human-w-a-r.json](./28256-post-human-w-a-r.json) |
 | Post Impact | 395188 | [395188-post-impact.json](./395188-post-impact.json) |
 | Post Memory | 318530 | [318530-post-memory.json](./318530-post-memory.json) |
 | Post Mortem | 14359 | [14359-post-mortem.json](./14359-post-mortem.json) |
