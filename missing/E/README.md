@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Atlantis 2 | 352842 | [352842-earth-atlantis-2.json](./352842-earth-atlantis-2.json) |
 | Earth Atlantis: Limited Edition | 167041 | [167041-earth-atlantis-limited-edition.json](./167041-earth-atlantis-limited-edition.json) |
 | Earth Attack | 171343 | [171343-earth-attack.json](./171343-earth-attack.json) |
+| Earth Attack | 40600 | [40600-earth-attack.json](./40600-earth-attack.json) |
 | Earth Brigades | 204085 | [204085-earth-brigades.json](./204085-earth-brigades.json) |
 | Earth Command | 45933 | [45933-earth-command.json](./45933-earth-command.json) |
 | Earth Command: The Future of Our World is in Your Hands | 209177 | [209177-earth-command-the-future-of-our-world-is-in-your-hands.json](./209177-earth-command-the-future-of-our-world-is-in-your-hands.json) |
