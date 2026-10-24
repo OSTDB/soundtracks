@@ -1292,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SandRipper | 270930 | [270930-sandripper.json](./270930-sandripper.json) |
 | Sands | 236348 | [236348-sands.json](./236348-sands.json) |
 | Sands of Aura | 143129 | [143129-sands-of-aura.json](./143129-sands-of-aura.json) |
+| Sands of Destruction | 24331 | [24331-sands-of-destruction.json](./24331-sands-of-destruction.json) |
 | Sands of Fate | 414293 | [414293-sands-of-fate.json](./414293-sands-of-fate.json) |
 | Sands of Hope | 289459 | [289459-sands-of-hope.json](./289459-sands-of-hope.json) |
 | Sands of Mars | 280882 | [280882-sands-of-mars.json](./280882-sands-of-mars.json) |
@@ -4057,6 +4058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Astro City Mini V | 245664 | [245664-sega-astro-city-mini-v.json](./245664-sega-astro-city-mini-v.json) |
 | Sega Bass Fishing 2 | 45837 | [45837-sega-bass-fishing-2.json](./45837-sega-bass-fishing-2.json) |
 | Sega Bass Fishing Challenge | 39433 | [39433-sega-bass-fishing-challenge.json](./39433-sega-bass-fishing-challenge.json) |
+| Sega Casino | 22569 | [22569-sega-casino.json](./22569-sega-casino.json) |
 | Sega Chess | 19490 | [19490-sega-chess.json](./19490-sega-chess.json) |
 | Sega Classics Arcade Collection 4-in-1 | 5432 | [5432-sega-classics-arcade-collection-4-in-1.json](./5432-sega-classics-arcade-collection-4-in-1.json) |
 | Sega Classics Arcade Collection: Limited Edition | 45864 | [45864-sega-classics-arcade-collection-limited-edition.json](./45864-sega-classics-arcade-collection-limited-edition.json) |
@@ -9323,6 +9325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sins of a Solar Empire: Rebellion - Outlaw Sectors | 51908 | [51908-sins-of-a-solar-empire-rebellion-outlaw-sectors.json](./51908-sins-of-a-solar-empire-rebellion-outlaw-sectors.json) |
 | Sins of a Solar Empire: Rebellion - Stellar Phenomena | 10869 | [10869-sins-of-a-solar-empire-rebellion-stellar-phenomena.json](./10869-sins-of-a-solar-empire-rebellion-stellar-phenomena.json) |
 | Sins of a Solar Empire: Rebellion Ultimate Edition | 51907 | [51907-sins-of-a-solar-empire-rebellion-ultimate-edition.json](./51907-sins-of-a-solar-empire-rebellion-ultimate-edition.json) |
+| Sins of a Solar Empire: Trinity | 10870 | [10870-sins-of-a-solar-empire-trinity.json](./10870-sins-of-a-solar-empire-trinity.json) |
 | Sins of a Solar Empire: Ultimate Edition | 227177 | [227177-sins-of-a-solar-empire-ultimate-edition.json](./227177-sins-of-a-solar-empire-ultimate-edition.json) |
 | Sins Of Kaleido | 276733 | [276733-sins-of-kaleido.json](./276733-sins-of-kaleido.json) |
 | Sins of Sinister: The Viscera-Eater | 403645 | [403645-sins-of-sinister-the-viscera-eater.json](./403645-sins-of-sinister-the-viscera-eater.json) |
@@ -18585,6 +18588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Fiction | 43327 | [43327-spy-fiction.json](./43327-spy-fiction.json) |
 | Spy Fox 3: Operation Ozone | 7653 | [7653-spy-fox-3-operation-ozone.json](./7653-spy-fox-3-operation-ozone.json) |
 | Spy Fox Dry: Cereal and Cheese Chase - Activity Game | 208772 | [208772-spy-fox-dry-cereal-and-cheese-chase-activity-game.json](./208772-spy-fox-dry-cereal-and-cheese-chase-activity-game.json) |
+| Spy Fox In: Hold the Mustard | 10840 | [10840-spy-fox-in-hold-the-mustard.json](./10840-spy-fox-in-hold-the-mustard.json) |
 | Spy Game: Mission in Moskow | 241331 | [241331-spy-game-mission-in-moskow.json](./241331-spy-game-mission-in-moskow.json) |
 | Spy Games: Elevator Mission | 5205 | [5205-spy-games-elevator-mission.json](./5205-spy-games-elevator-mission.json) |
 | Spy Girls: Undercover Agent | 206200 | [206200-spy-girls-undercover-agent.json](./206200-spy-girls-undercover-agent.json) |
@@ -26263,6 +26267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pac-Man | 345360 | [345360-super-pac-man.json](./345360-super-pac-man.json) |
 | Super Pachinko | 46663 | [46663-super-pachinko.json](./46663-super-pachinko.json) |
 | Super Pads: Become a DJ | 96776 | [96776-super-pads-become-a-dj.json](./96776-super-pads-become-a-dj.json) |
+| Super Panda Adventures | 10933 | [10933-super-panda-adventures.json](./10933-super-panda-adventures.json) |
 | Super Pang | 195059 | [195059-super-pang.json](./195059-super-pang.json) |
 | Super Panic Monsters | 71510 | [71510-super-panic-monsters.json](./71510-super-panic-monsters.json) |
 | Super Paper Bowser World | 323290 | [323290-super-paper-bowser-world.json](./323290-super-paper-bowser-world.json) |
@@ -27860,6 +27865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Mercs | 239709 | [239709-survivor-mercs.json](./239709-survivor-mercs.json) |
 | Survivor of Eschewal | 74999 | [74999-survivor-of-eschewal.json](./74999-survivor-of-eschewal.json) |
 | Survivor of the Journey | 210892 | [210892-survivor-of-the-journey.json](./210892-survivor-of-the-journey.json) |
+| Survivor Squad | 10892 | [10892-survivor-squad.json](./10892-survivor-squad.json) |
 | Survivor Squad | 373887 | [373887-survivor-squad.json](./373887-survivor-squad.json) |
 | Survivor Squad Complete | 53693 | [53693-survivor-squad-complete.json](./53693-survivor-squad-complete.json) |
 | Survivor Squad: Gauntlets | 36186 | [36186-survivor-squad-gauntlets.json](./36186-survivor-squad-gauntlets.json) |
@@ -28773,6 +28779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Necromancer: Ultra Collector's Edition | 148543 | [148543-sword-of-the-necromancer-ultra-collectors-edition.json](./148543-sword-of-the-necromancer-ultra-collectors-edition.json) |
 | Sword of the Slayer | 123524 | [123524-sword-of-the-slayer.json](./123524-sword-of-the-slayer.json) |
 | Sword of the Spirit | 243123 | [243123-sword-of-the-spirit.json](./243123-sword-of-the-spirit.json) |
+| Sword of the Stars II: Enhanced Edition | 10937 | [10937-sword-of-the-stars-ii-enhanced-edition.json](./10937-sword-of-the-stars-ii-enhanced-edition.json) |
 | Sword of the Stars II: Lords of the Winter | 8544 | [8544-sword-of-the-stars-ii-lords-of-the-winter.json](./8544-sword-of-the-stars-ii-lords-of-the-winter.json) |
 | Sword of the Stars: A Murder of Crows | 10935 | [10935-sword-of-the-stars-a-murder-of-crows.json](./10935-sword-of-the-stars-a-murder-of-crows.json) |
 | Sword of the Stars: Argos Naval Yard | 10936 | [10936-sword-of-the-stars-argos-naval-yard.json](./10936-sword-of-the-stars-argos-naval-yard.json) |
