@@ -1708,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viki Spotter: Space Mission | 97116 | [97116-viki-spotter-space-mission.json](./97116-viki-spotter-space-mission.json) |
 | Viki Spotter: Sports | 99088 | [99088-viki-spotter-sports.json](./99088-viki-spotter-sports.json) |
 | Vikindor | 207305 | [207305-vikindor.json](./207305-vikindor.json) |
+| Viking | 41184 | [41184-viking.json](./41184-viking.json) |
 | Viking Age: Odin’s Warrior | 103414 | [103414-viking-age-odin-s-warrior.json](./103414-viking-age-odin-s-warrior.json) |
 | Viking Berserker | 154050 | [154050-viking-berserker.json](./154050-viking-berserker.json) |
 | Viking Breaker | 346586 | [346586-viking-breaker.json](./346586-viking-breaker.json) |
@@ -3397,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vulture Strike | 36973 | [36973-vulture-strike.json](./36973-vulture-strike.json) |
 | Vulture: Unlimited Frontier - 0 | 255130 | [255130-vulture-unlimited-frontier-0.json](./255130-vulture-unlimited-frontier-0.json) |
 | Vultures | 295079 | [295079-vultures.json](./295079-vultures.json) |
+| Vultures | 41140 | [41140-vultures.json](./41140-vultures.json) |
 | Vump Jump | 210927 | [210927-vump-jump.json](./210927-vump-jump.json) |
 | VVVV | 225771 | [225771-vvvv.json](./225771-vvvv.json) |
 | VVVVK: Rogue Vampire Hunter | 209017 | [209017-vvvvk-rogue-vampire-hunter.json](./209017-vvvvk-rogue-vampire-hunter.json) |
