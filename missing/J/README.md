@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.R.R. Tolkien's The Lord of the Rings, Vol. I | 137042 | [137042-j-r-r-tolkiens-the-lord-of-the-rings-vol-i.json](./137042-j-r-r-tolkiens-the-lord-of-the-rings-vol-i.json) |
 | J.R.R. Tolkien's War in Middle Earth | 7890 | [7890-j-r-r-tolkiens-war-in-middle-earth.json](./7890-j-r-r-tolkiens-war-in-middle-earth.json) |
 | J.U.L.I.A. | 22132 | [22132-j-u-l-i-a.json](./22132-j-u-l-i-a.json) |
+| J.U.L.I.A.: Among the Stars | 16730 | [16730-j-u-l-i-a-among-the-stars.json](./16730-j-u-l-i-a-among-the-stars.json) |
 | J'ai Trouvé! Le Manoir Hanté | 140600 | [140600-jai-trouve-le-manoir-hante.json](./140600-jai-trouve-le-manoir-hante.json) |
 | J'apprends L'Anglais CP-CM1 | 147347 | [147347-japprends-langlais-cp-cm1.json](./147347-japprends-langlais-cp-cm1.json) |
 | J's Racin' | 381863 | [381863-js-racin.json](./381863-js-racin.json) |
@@ -3269,6 +3270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause 4: Digital Deluxe | 103310 | [103310-just-cause-4-digital-deluxe.json](./103310-just-cause-4-digital-deluxe.json) |
 | Just Cause 4: Gold Edition | 103311 | [103311-just-cause-4-gold-edition.json](./103311-just-cause-4-gold-edition.json) |
 | Just Cause 4: Los Demonios | 118919 | [118919-just-cause-4-los-demonios.json](./118919-just-cause-4-los-demonios.json) |
+| Just Cause 4: Reloaded | 125637 | [125637-just-cause-4-reloaded.json](./125637-just-cause-4-reloaded.json) |
 | Just Cause 4: Reloaded Content Pack | 164576 | [164576-just-cause-4-reloaded-content-pack.json](./164576-just-cause-4-reloaded-content-pack.json) |
 | Just Cause Collection | 53245 | [53245-just-cause-collection.json](./53245-just-cause-collection.json) |
 | Just Cause Collection Bundle | 384104 | [384104-just-cause-collection-bundle.json](./384104-just-cause-collection-bundle.json) |
