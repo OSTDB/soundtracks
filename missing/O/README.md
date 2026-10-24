@@ -1164,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Roots | 204940 | [204940-old-roots.json](./204940-old-roots.json) |
 | Old Salt | 165056 | [165056-old-salt.json](./165056-old-salt.json) |
 | Old School | 61167 | [61167-old-school.json](./61167-old-school.json) |
+| Old School 8-in-1 bundle | 32557 | [32557-old-school-8-in-1-bundle.json](./32557-old-school-8-in-1-bundle.json) |
 | Old School FOTD | 74453 | [74453-old-school-fotd.json](./74453-old-school-fotd.json) |
 | Old School Horror Game : Bright Day | 125679 | [125679-old-school-horror-game-bright-day.json](./125679-old-school-horror-game-bright-day.json) |
 | Old School Racer | 91887 | [91887-old-school-racer.json](./91887-old-school-racer.json) |
