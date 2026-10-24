@@ -2564,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Arkania: Blade of Destiny - Ogredeath | 170453 | [170453-realms-of-arkania-blade-of-destiny-ogredeath.json](./170453-realms-of-arkania-blade-of-destiny-ogredeath.json) |
 | Realms of Arkania: Blade of Destiny + Star Trail | 93214 | [93214-realms-of-arkania-blade-of-destiny-star-trail.json](./93214-realms-of-arkania-blade-of-destiny-star-trail.json) |
 | Realms of Arkania: Star Trail | 27346 | [27346-realms-of-arkania-star-trail.json](./27346-realms-of-arkania-star-trail.json) |
+| Realms of Chaos | 8496 | [8496-realms-of-chaos.json](./8496-realms-of-chaos.json) |
 | Realms of Conquest | 54835 | [54835-realms-of-conquest.json](./54835-realms-of-conquest.json) |
 | Realms of Cronos | 268916 | [268916-realms-of-cronos.json](./268916-realms-of-cronos.json) |
 | Realms of Darkness | 130730 | [130730-realms-of-darkness.json](./130730-realms-of-darkness.json) |
@@ -3403,7 +3404,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redneck Skeet Shooting | 120258 | [120258-redneck-skeet-shooting.json](./120258-redneck-skeet-shooting.json) |
 | ReDo | 340711 | [340711-redo.json](./340711-redo.json) |
 | Redo! | 114085 | [114085-redo.json](./114085-redo.json) |
-| Redout 2 | 186059 | [186059-redout-2.json](./186059-redout-2.json) |
 | Redout 2: Deluxe Edition | 205571 | [205571-redout-2-deluxe-edition.json](./205571-redout-2-deluxe-edition.json) |
 | Redout 2: Summer Pack | 224209 | [224209-redout-2-summer-pack.json](./224209-redout-2-summer-pack.json) |
 | Redout 2: Ultimate Edition | 205570 | [205570-redout-2-ultimate-edition.json](./205570-redout-2-ultimate-edition.json) |
