@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiver Quarrel | 204942 | [204942-quiver-quarrel.json](./204942-quiver-quarrel.json) |
 | Quiver Quest | 394800 | [394800-quiver-quest.json](./394800-quiver-quest.json) |
 | Quiverless | 353791 | [353791-quiverless.json](./353791-quiverless.json) |
+| QuiVr | 32870 | [32870-quivr.json](./32870-quivr.json) |
 | QuiVr Vanguard | 111696 | [111696-quivr-vanguard.json](./111696-quivr-vanguard.json) |
 | Quixotic | 408244 | [408244-quixotic.json](./408244-quixotic.json) |
 | Quixzel Rush Halloween Party | 180048 | [180048-quixzel-rush-halloween-party.json](./180048-quixzel-rush-halloween-party.json) |
