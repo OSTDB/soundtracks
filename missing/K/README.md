@@ -994,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katharsis | 55461 | [55461-katharsis.json](./55461-katharsis.json) |
 | Katharsis Project | 117624 | [117624-katharsis-project.json](./117624-katharsis-project.json) |
 | Katharsis: The second act | 82366 | [82366-katharsis-the-second-act.json](./82366-katharsis-the-second-act.json) |
+| Kathy Rain: Director's Cut | 142770 | [142770-kathy-rain-directors-cut.json](./142770-kathy-rain-directors-cut.json) |
 | Kathy Rain: Director's Cut - Deluxe Edition | 186517 | [186517-kathy-rain-directors-cut-deluxe-edition.json](./186517-kathy-rain-directors-cut-deluxe-edition.json) |
 | Kati the Astronaut | 212642 | [212642-kati-the-astronaut.json](./212642-kati-the-astronaut.json) |
 | Katie | 99612 | [99612-katie.json](./99612-katie.json) |
@@ -2591,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Blade | 226868 | [226868-kings-blade.json](./226868-kings-blade.json) |
 | King's Bounty | 9613 | [9613-kings-bounty.json](./9613-kings-bounty.json) |
 | King's Bounty 2 | 74329 | [74329-kings-bounty-2.json](./74329-kings-bounty-2.json) |
+| King's Bounty II | 121881 | [121881-kings-bounty-ii.json](./121881-kings-bounty-ii.json) |
 | King's Bounty II: Day One Edition | 146330 | [146330-kings-bounty-ii-day-one-edition.json](./146330-kings-bounty-ii-day-one-edition.json) |
 | King's Bounty II: Duke's Edition | 169209 | [169209-kings-bounty-ii-dukes-edition.json](./169209-kings-bounty-ii-dukes-edition.json) |
 | King's Bounty II: King Collector's Edition | 153021 | [153021-kings-bounty-ii-king-collectors-edition.json](./153021-kings-bounty-ii-king-collectors-edition.json) |
