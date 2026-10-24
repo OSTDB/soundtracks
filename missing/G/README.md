@@ -380,7 +380,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galacta: The Battle for Saturn | 71401 | [71401-galacta-the-battle-for-saturn.json](./71401-galacta-the-battle-for-saturn.json) |
 | Galactagirl | 68112 | [68112-galactagirl.json](./68112-galactagirl.json) |
 | Galactea | 310973 | [310973-galactea.json](./310973-galactea.json) |
+| Galactians | 14082 | [14082-galactians.json](./14082-galactians.json) |
 | Galactic | 46881 | [46881-galactic.json](./46881-galactic.json) |
+| Galactic Abductor | 14083 | [14083-galactic-abductor.json](./14083-galactic-abductor.json) |
 | Galactic Adventures | 357733 | [357733-galactic-adventures.json](./357733-galactic-adventures.json) |
 | Galactic Adventures | 377588 | [377588-galactic-adventures.json](./377588-galactic-adventures.json) |
 | Galactic Assault Squad | 196696 | [196696-galactic-assault-squad.json](./196696-galactic-assault-squad.json) |
@@ -413,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations III: Lost Treasures DLC | 163371 | [163371-galactic-civilizations-iii-lost-treasures-dlc.json](./163371-galactic-civilizations-iii-lost-treasures-dlc.json) |
 | Galactic Civilizations III: Map Pack DLC | 163374 | [163374-galactic-civilizations-iii-map-pack-dlc.json](./163374-galactic-civilizations-iii-map-pack-dlc.json) |
 | Galactic Civilizations III: Mega Events DLC | 163377 | [163377-galactic-civilizations-iii-mega-events-dlc.json](./163377-galactic-civilizations-iii-mega-events-dlc.json) |
+| Galactic Civilizations III: Mercenaries | 16990 | [16990-galactic-civilizations-iii-mercenaries.json](./16990-galactic-civilizations-iii-mercenaries.json) |
 | Galactic Civilizations III: Mercenaries Expansion Pack | 163378 | [163378-galactic-civilizations-iii-mercenaries-expansion-pack.json](./163378-galactic-civilizations-iii-mercenaries-expansion-pack.json) |
 | Galactic Civilizations III: Precursor Worlds DLC | 163380 | [163380-galactic-civilizations-iii-precursor-worlds-dlc.json](./163380-galactic-civilizations-iii-precursor-worlds-dlc.json) |
 | Galactic Civilizations III: Retribution Expansion | 163379 | [163379-galactic-civilizations-iii-retribution-expansion.json](./163379-galactic-civilizations-iii-retribution-expansion.json) |
@@ -465,6 +468,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Frontier | 190134 | [190134-galactic-frontier.json](./190134-galactic-frontier.json) |
 | Galactic Frontiers: Defense Protocol | 294050 | [294050-galactic-frontiers-defense-protocol.json](./294050-galactic-frontiers-defense-protocol.json) |
 | Galactic Gallery | 105899 | [105899-galactic-gallery.json](./105899-galactic-gallery.json) |
+| Galactic Gambler | 14084 | [14084-galactic-gambler.json](./14084-galactic-gambler.json) |
+| Galactic Games | 14085 | [14085-galactic-games.json](./14085-galactic-games.json) |
 | Galactic Gardener | 313101 | [313101-galactic-gardener.json](./313101-galactic-gardener.json) |
 | Galactic Gardener | 377587 | [377587-galactic-gardener.json](./377587-galactic-gardener.json) |
 | Galactic Getaway | 240825 | [240825-galactic-getaway.json](./240825-galactic-getaway.json) |
@@ -525,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Tower Defense | 114096 | [114096-galactic-tower-defense.json](./114096-galactic-tower-defense.json) |
 | Galactic Traffic Control | 325839 | [325839-galactic-traffic-control.json](./325839-galactic-traffic-control.json) |
 | Galactic Tree Frog | 109906 | [109906-galactic-tree-frog.json](./109906-galactic-tree-frog.json) |
+| Galactic Trooper | 14086 | [14086-galactic-trooper.json](./14086-galactic-trooper.json) |
 | Galactic Trooper Armada | 146786 | [146786-galactic-trooper-armada.json](./146786-galactic-trooper-armada.json) |
 | Galactic Vanguard | 295841 | [295841-galactic-vanguard.json](./295841-galactic-vanguard.json) |
 | Galactic Vanguard | 333629 | [333629-galactic-vanguard.json](./333629-galactic-vanguard.json) |
@@ -600,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galak-Z: Variant Mobile | 105856 | [105856-galak-z-variant-mobile.json](./105856-galak-z-variant-mobile.json) |
 | Galak-Z: Variant S | 105801 | [105801-galak-z-variant-s.json](./105801-galak-z-variant-s.json) |
 | Galaksia Online | 407593 | [407593-galaksia-online.json](./407593-galaksia-online.json) |
+| Galakzions | 14087 | [14087-galakzions.json](./14087-galakzions.json) |
 | GalanWarSong | 345966 | [345966-galanwarsong.json](./345966-galanwarsong.json) |
 | Galatea | 85923 | [85923-galatea.json](./85923-galatea.json) |
 | Galatic Hero Agency: Mind Matters | 114741 | [114741-galatic-hero-agency-mind-matters.json](./114741-galatic-hero-agency-mind-matters.json) |
@@ -670,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Arena | 208188 | [208188-galaxy-arena.json](./208188-galaxy-arena.json) |
 | Galaxy At War | 292976 | [292976-galaxy-at-war.json](./292976-galaxy-at-war.json) |
 | Galaxy at War Online | 39173 | [39173-galaxy-at-war-online.json](./39173-galaxy-at-war-online.json) |
+| Galaxy Attack | 14088 | [14088-galaxy-attack.json](./14088-galaxy-attack.json) |
 | Galaxy Ball | 96882 | [96882-galaxy-ball.json](./96882-galaxy-ball.json) |
 | Galaxy Ball Defender | 96886 | [96886-galaxy-ball-defender.json](./96886-galaxy-ball-defender.json) |
 | Galaxy Ballerina | 293415 | [293415-galaxy-ballerina.json](./293415-galaxy-ballerina.json) |
@@ -814,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galbia Tales | 177380 | [177380-galbia-tales.json](./177380-galbia-tales.json) |
 | Galcon | 29041 | [29041-galcon.json](./29041-galcon.json) |
 | Galcon 2 | 36325 | [36325-galcon-2.json](./36325-galcon-2.json) |
+| Galcon 2: Galactic Conquest | 17291 | [17291-galcon-2-galactic-conquest.json](./17291-galcon-2-galactic-conquest.json) |
 | Galcon Labs | 67216 | [67216-galcon-labs.json](./67216-galcon-labs.json) |
 | Galcon Legends | 8918 | [8918-galcon-legends.json](./8918-galcon-legends.json) |
 | Galdia | 343250 | [343250-galdia.json](./343250-galdia.json) |
@@ -1825,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gateway II: Homeworld | 51391 | [51391-gateway-ii-homeworld.json](./51391-gateway-ii-homeworld.json) |
 | Gateway to Apshai | 23311 | [23311-gateway-to-apshai.json](./23311-gateway-to-apshai.json) |
 | Gateway to English: Eigo de Go! | 245313 | [245313-gateway-to-english-eigo-de-go.json](./245313-gateway-to-english-eigo-de-go.json) |
+| Gateway to Hell | 14089 | [14089-gateway-to-hell.json](./14089-gateway-to-hell.json) |
 | Gateway to Hell | 252038 | [252038-gateway-to-hell.json](./252038-gateway-to-hell.json) |
 | Gateway to Karos | 13720 | [13720-gateway-to-karos.json](./13720-gateway-to-karos.json) |
 | Gateway to the Kulikovo Field: The Battle of Yepifan | 276204 | [276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json](./276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json) |
@@ -3016,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost House | 384503 | [384503-ghost-house.json](./384503-ghost-house.json) |
 | Ghost House | 45649 | [45649-ghost-house.json](./45649-ghost-house.json) |
 | Ghost HQ | 369011 | [369011-ghost-hq.json](./369011-ghost-hq.json) |
+| Ghost Hunt | 14090 | [14090-ghost-hunt.json](./14090-ghost-hunt.json) |
 | Ghost Hunter | 137377 | [137377-ghost-hunter.json](./137377-ghost-hunter.json) |
 | Ghost Hunter | 241382 | [241382-ghost-hunter.json](./241382-ghost-hunter.json) |
 | Ghost Hunter | 294162 | [294162-ghost-hunter.json](./294162-ghost-hunter.json) |
@@ -3136,6 +3147,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Teen Escape from Limbo | 300996 | [300996-ghost-teen-escape-from-limbo.json](./300996-ghost-teen-escape-from-limbo.json) |
 | Ghost Terminal | 307734 | [307734-ghost-terminal.json](./307734-ghost-terminal.json) |
 | Ghost Terminator | 173286 | [173286-ghost-terminator.json](./173286-ghost-terminator.json) |
+| Ghost Theory | 17244 | [17244-ghost-theory.json](./17244-ghost-theory.json) |
+| Ghost Town | 14092 | [14092-ghost-town.json](./14092-ghost-town.json) |
 | Ghost Town | 18522 | [18522-ghost-town.json](./18522-ghost-town.json) |
 | Ghost Town | 303288 | [303288-ghost-town.json](./303288-ghost-town.json) |
 | Ghost Town | 335127 | [335127-ghost-town.json](./335127-ghost-town.json) |
@@ -3225,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostly Acres | 373302 | [373302-ghostly-acres.json](./373302-ghostly-acres.json) |
 | Ghostly Desires | 73856 | [73856-ghostly-desires.json](./73856-ghostly-desires.json) |
 | Ghostly Garden | 146853 | [146853-ghostly-garden.json](./146853-ghostly-garden.json) |
+| Ghostly Grange | 14091 | [14091-ghostly-grange.json](./14091-ghostly-grange.json) |
 | Ghostly Matter | 89650 | [89650-ghostly-matter.json](./89650-ghostly-matter.json) |
 | Ghostly Moans | 211252 | [211252-ghostly-moans.json](./211252-ghostly-moans.json) |
 | Ghostly Simulator: Your Neighboring Ghost Story Collection | 407411 | [407411-ghostly-simulator-your-neighboring-ghost-story-collection.json](./407411-ghostly-simulator-your-neighboring-ghost-story-collection.json) |
@@ -3297,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghoul Grind: Night of the Necromancer | 145356 | [145356-ghoul-grind-night-of-the-necromancer.json](./145356-ghoul-grind-night-of-the-necromancer.json) |
 | Ghoul Groove | 365800 | [365800-ghoul-groove.json](./365800-ghoul-groove.json) |
 | Ghoul Kid | 33012 | [33012-ghoul-kid.json](./33012-ghoul-kid.json) |
+| Ghoul Manor | 14093 | [14093-ghoul-manor.json](./14093-ghoul-manor.json) |
 | Ghoul Panic | 14392 | [14392-ghoul-panic.json](./14392-ghoul-panic.json) |
 | Ghoul Patrol | 42612 | [42612-ghoul-patrol.json](./42612-ghoul-patrol.json) |
 | Ghoulboy | 76023 | [76023-ghoulboy.json](./76023-ghoulboy.json) |
@@ -3828,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glamour Riot | 342681 | [342681-glamour-riot.json](./342681-glamour-riot.json) |
 | Glare Fall | 133172 | [133172-glare-fall.json](./133172-glare-fall.json) |
 | Glass | 125924 | [125924-glass.json](./125924-glass.json) |
+| Glass | 14094 | [14094-glass.json](./14094-glass.json) |
 | Glass | 166487 | [166487-glass.json](./166487-glass.json) |
 | Glass | 171995 | [171995-glass.json](./171995-glass.json) |
 | Glass Beads | 342752 | [342752-glass-beads.json](./342752-glass-beads.json) |
@@ -5186,6 +5202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Tee 2018 | 82145 | [82145-golden-tee-2018.json](./82145-golden-tee-2018.json) |
 | Golden Tee Arcade Classics | 350460 | [350460-golden-tee-arcade-classics.json](./350460-golden-tee-arcade-classics.json) |
 | Golden Tee Classic | 39355 | [39355-golden-tee-classic.json](./39355-golden-tee-classic.json) |
+| Golden Tee Golf | 17263 | [17263-golden-tee-golf.json](./17263-golden-tee-golf.json) |
 | Golden Tee Golf | 198749 | [198749-golden-tee-golf.json](./198749-golden-tee-golf.json) |
 | Golden Tee Golf | 220538 | [220538-golden-tee-golf.json](./220538-golden-tee-golf.json) |
 | Golden Tee Live | 28719 | [28719-golden-tee-live.json](./28719-golden-tee-live.json) |
@@ -7883,6 +7900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growing My Grandpa! | 200660 | [200660-growing-my-grandpa.json](./200660-growing-my-grandpa.json) |
 | Growing My Manhole | 404809 | [404809-growing-my-manhole.json](./404809-growing-my-manhole.json) |
 | Growing Pain | 182804 | [182804-growing-pain.json](./182804-growing-pain.json) |
+| Growing Pains | 17203 | [17203-growing-pains.json](./17203-growing-pains.json) |
 | Growing Pug | 102125 | [102125-growing-pug.json](./102125-growing-pug.json) |
 | Growing Sakura | 185517 | [185517-growing-sakura.json](./185517-growing-sakura.json) |
 | Growing Things Up | 351731 | [351731-growing-things-up.json](./351731-growing-things-up.json) |
@@ -8749,6 +8767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunjack | 18363 | [18363-gunjack.json](./18363-gunjack.json) |
 | Gunjack Next (working title) | 100070 | [100070-gunjack-next-working-title.json](./100070-gunjack-next-working-title.json) |
 | Gunjin Gari | 59071 | [59071-gunjin-gari.json](./59071-gunjin-gari.json) |
+| Gunjitsu | 17099 | [17099-gunjitsu.json](./17099-gunjitsu.json) |
 | Gunk | 126921 | [126921-gunk.json](./126921-gunk.json) |
 | Gunk | 404388 | [404388-gunk.json](./404388-gunk.json) |
 | Gunkid 99 | 116197 | [116197-gunkid-99.json](./116197-gunkid-99.json) |
