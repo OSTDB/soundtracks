@@ -1655,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raspberry Mash | 146746 | [146746-raspberry-mash.json](./146746-raspberry-mash.json) |
 | Rasputin | 26351 | [26351-rasputin.json](./26351-rasputin.json) |
 | Rasta Rainbow | 88099 | [88099-rasta-rainbow.json](./88099-rasta-rainbow.json) |
+| Rastan Saga II | 4466 | [4466-rastan-saga-ii.json](./4466-rastan-saga-ii.json) |
 | Raster | 270175 | [270175-raster.json](./270175-raster.json) |
 | Raster | 312267 | [312267-raster.json](./312267-raster.json) |
 | Raster Blaster | 24879 | [24879-raster-blaster.json](./24879-raster-blaster.json) |
@@ -7202,6 +7203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Auto Racing Simulator | 127950 | [127950-robot-auto-racing-simulator.json](./127950-robot-auto-racing-simulator.json) |
 | Robot Battle | 132056 | [132056-robot-battle.json](./132056-robot-battle.json) |
 | Robot Battle V | 400337 | [400337-robot-battle-v.json](./400337-robot-battle-v.json) |
+| Robot Battler | 4491 | [4491-robot-battler.json](./4491-robot-battler.json) |
 | Robot Beekeeper | 356304 | [356304-robot-beekeeper.json](./356304-robot-beekeeper.json) |
 | Robot Bowl | 39518 | [39518-robot-bowl.json](./39518-robot-bowl.json) |
 | Robot Bros | 89240 | [89240-robot-bros.json](./89240-robot-bros.json) |
