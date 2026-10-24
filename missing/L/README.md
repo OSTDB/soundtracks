@@ -4106,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lillian Night: Exclusive Contract of Succubus | 235592 | [235592-lillian-night-exclusive-contract-of-succubus.json](./235592-lillian-night-exclusive-contract-of-succubus.json) |
 | Lillie is the Keeper | 232396 | [232396-lillie-is-the-keeper.json](./232396-lillie-is-the-keeper.json) |
 | Lilliput Hero: Miniature World | 344241 | [344241-lilliput-hero-miniature-world.json](./344241-lilliput-hero-miniature-world.json) |
+| Lilly Adventure | 2218 | [2218-lilly-adventure.json](./2218-lilly-adventure.json) |
 | Lilly and Sasha: Guardian Angels | 34954 | [34954-lilly-and-sasha-guardian-angels.json](./34954-lilly-and-sasha-guardian-angels.json) |
 | Lilly and Sasha: Nexus of Souls | 35272 | [35272-lilly-and-sasha-nexus-of-souls.json](./35272-lilly-and-sasha-nexus-of-souls.json) |
 | Lilly And The Murder In A Dream | 303631 | [303631-lilly-and-the-murder-in-a-dream.json](./303631-lilly-and-the-murder-in-a-dream.json) |
