@@ -7785,6 +7785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shufflepuck | 282841 | [282841-shufflepuck.json](./282841-shufflepuck.json) |
 | Shufflepuck Cantina Deluxe | 62608 | [62608-shufflepuck-cantina-deluxe.json](./62608-shufflepuck-cantina-deluxe.json) |
 | Shuffles 'n Scuffles | 372701 | [372701-shuffles-n-scuffles.json](./372701-shuffles-n-scuffles.json) |
+| Shuffleshot | 39388 | [39388-shuffleshot.json](./39388-shuffleshot.json) |
 | Shugo Chara! 3-tsu no Tamago to Koisuru Joker | 70669 | [70669-shugo-chara-3-tsu-no-tamago-to-koisuru-joker.json](./70669-shugo-chara-3-tsu-no-tamago-to-koisuru-joker.json) |
 | Shugo Chara! Amu no Niji-iro Chara Change | 70666 | [70666-shugo-chara-amu-no-niji-iro-chara-change.json](./70666-shugo-chara-amu-no-niji-iro-chara-change.json) |
 | Shugo Chara! Spirit! Chara Formation-Rhythm | 124276 | [124276-shugo-chara-spirit-chara-formation-rhythm.json](./124276-shugo-chara-spirit-chara-formation-rhythm.json) |
@@ -11707,6 +11708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snackjack | 54378 | [54378-snackjack.json](./54378-snackjack.json) |
 | Snacko | 130618 | [130618-snacko.json](./130618-snacko.json) |
 | Snackroach | 257251 | [257251-snackroach.json](./257251-snackroach.json) |
+| Snacks 'n Jaxson | 39410 | [39410-snacks-n-jaxson.json](./39410-snacks-n-jaxson.json) |
 | SnackTimeActionGame | 371593 | [371593-snacktimeactiongame.json](./371593-snacktimeactiongame.json) |
 | Snacktorio | 244121 | [244121-snacktorio.json](./244121-snacktorio.json) |
 | Snacky Tower | 207665 | [207665-snacky-tower.json](./207665-snacky-tower.json) |
@@ -15643,6 +15645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders '91 | 46262 | [46262-space-invaders-91.json](./46262-space-invaders-91.json) |
 | Space Invaders Anniversary | 69888 | [69888-space-invaders-anniversary.json](./69888-space-invaders-anniversary.json) |
 | Space Invaders by Copper France | 275223 | [275223-space-invaders-by-copper-france.json](./275223-space-invaders-by-copper-france.json) |
+| Space Invaders DX | 39409 | [39409-space-invaders-dx.json](./39409-space-invaders-dx.json) |
 | Space Invaders Evolution | 42761 | [42761-space-invaders-evolution.json](./42761-space-invaders-evolution.json) |
 | Space Invaders Extreme 2 | 8199 | [8199-space-invaders-extreme-2.json](./8199-space-invaders-extreme-2.json) |
 | Space Invaders Extreme Z | 79611 | [79611-space-invaders-extreme-z.json](./79611-space-invaders-extreme-z.json) |
@@ -16740,6 +16743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Rider | 359738 | [359738-speed-rider.json](./359738-speed-rider.json) |
 | Speed Rider Racing | 100166 | [100166-speed-rider-racing.json](./100166-speed-rider-racing.json) |
 | Speed Rivals: Slot Racing | 348939 | [348939-speed-rivals-slot-racing.json](./348939-speed-rivals-slot-racing.json) |
+| Speed Rumbler | 39407 | [39407-speed-rumbler.json](./39407-speed-rumbler.json) |
 | Speed Run | 304594 | [304594-speed-run.json](./304594-speed-run.json) |
 | Speed Runner | 246491 | [246491-speed-runner.json](./246491-speed-runner.json) |
 | Speed Squared | 262568 | [262568-speed-squared.json](./262568-speed-squared.json) |
@@ -22127,6 +22131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratosphere Defense | 197856 | [197856-stratosphere-defense.json](./197856-stratosphere-defense.json) |
 | Stratosphere: Conquest of the Skies | 25879 | [25879-stratosphere-conquest-of-the-skies.json](./25879-stratosphere-conquest-of-the-skies.json) |
 | Stratospheric Domain | 268887 | [268887-stratospheric-domain.json](./268887-stratospheric-domain.json) |
+| Stratovox | 39406 | [39406-stratovox.json](./39406-stratovox.json) |
 | Stratside | 130780 | [130780-stratside.json](./130780-stratside.json) |
 | Stratum | 74319 | [74319-stratum.json](./74319-stratum.json) |
 | Stratum Descent | 279015 | [279015-stratum-descent.json](./279015-stratum-descent.json) |
@@ -24067,6 +24072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suncraft | 381142 | [381142-suncraft.json](./381142-suncraft.json) |
 | Suncroft | 412343 | [412343-suncroft.json](./412343-suncroft.json) |
 | Sundae Drive | 422089 | [422089-sundae-drive.json](./422089-sundae-drive.json) |
+| Sundance | 39411 | [39411-sundance.json](./39411-sundance.json) |
 | Sunday & Magazine: White Comic | 61448 | [61448-sunday-and-magazine-white-comic.json](./61448-sunday-and-magazine-white-comic.json) |
 | Sunday City | 376280 | [376280-sunday-city.json](./376280-sunday-city.json) |
 | Sunday Drive | 245143 | [245143-sunday-drive.json](./245143-sunday-drive.json) |
@@ -24358,6 +24364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Baseball League | 191601 | [191601-super-baseball-league.json](./191601-super-baseball-league.json) |
 | Super Baseball Simulator 1.000 | 42601 | [42601-super-baseball-simulator-1-000.json](./42601-super-baseball-simulator-1-000.json) |
 | Super Bases Loaded | 42430 | [42430-super-bases-loaded.json](./42430-super-bases-loaded.json) |
+| Super Basketball | 39389 | [39389-super-basketball.json](./39389-super-basketball.json) |
 | Super Basketball AR | 107005 | [107005-super-basketball-ar.json](./107005-super-basketball-ar.json) |
 | Super Bass Fishing | 380802 | [380802-super-bass-fishing.json](./380802-super-bass-fishing.json) |
 | Super Battle Cards | 147615 | [147615-super-battle-cards.json](./147615-super-battle-cards.json) |
@@ -26009,6 +26016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzle Platformer Deluxe | 20997 | [20997-super-puzzle-platformer-deluxe.json](./20997-super-puzzle-platformer-deluxe.json) |
 | Super Puzzle Sisters | 30737 | [30737-super-puzzle-sisters.json](./30737-super-puzzle-sisters.json) |
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
+| Super Qix | 39408 | [39408-super-qix.json](./39408-super-qix.json) |
 | Super Qube Hopper | 128857 | [128857-super-qube-hopper.json](./128857-super-qube-hopper.json) |
 | Super QuickHook | 78901 | [78901-super-quickhook.json](./78901-super-quickhook.json) |
 | Super R.B.I. Baseball | 5332 | [5332-super-r-b-i-baseball.json](./5332-super-r-b-i-baseball.json) |
@@ -28112,6 +28120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
 | Swim4Swim | 410280 | [410280-swim4swim.json](./410280-swim4swim.json) |
 | Swimcraft | 410911 | [410911-swimcraft.json](./410911-swimcraft.json) |
+| Swimmer | 39405 | [39405-swimmer.json](./39405-swimmer.json) |
 | Swimmer Admiration | 169093 | [169093-swimmer-admiration.json](./169093-swimmer-admiration.json) |
 | Swimmer Away | 347354 | [347354-swimmer-away.json](./347354-swimmer-away.json) |
 | Swimming Dynasty | 258024 | [258024-swimming-dynasty.json](./258024-swimming-dynasty.json) |
