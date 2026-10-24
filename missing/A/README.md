@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Clareira | 379469 | [379469-a-clareira.json](./379469-a-clareira.json) |
 | A Clever Label | 152849 | [152849-a-clever-label.json](./152849-a-clever-label.json) |
 | A Clockwork Ley-Line: Daybreak of Remnants Shadow | 195795 | [195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json](./195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json) |
+| A Clockwork Ley-Line: Tasogaredoki no Kyoukaisen | 68699 | [68699-a-clockwork-ley-line-tasogaredoki-no-kyoukaisen.json](./68699-a-clockwork-ley-line-tasogaredoki-no-kyoukaisen.json) |
 | A Clumsy Adventure | 8627 | [8627-a-clumsy-adventure.json](./8627-a-clumsy-adventure.json) |
 | A Clumsy Flight | 208673 | [208673-a-clumsy-flight.json](./208673-a-clumsy-flight.json) |
 | A Cold Day In Shell | 328068 | [328068-a-cold-day-in-shell.json](./328068-a-cold-day-in-shell.json) |
@@ -1448,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abarenbou Princess | 64885 | [64885-abarenbou-princess.json](./64885-abarenbou-princess.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
 | Abashed | 329610 | [329610-abashed.json](./329610-abashed.json) |
+| Abasralsa | 81962 | [81962-abasralsa.json](./81962-abasralsa.json) |
 | Abathor: Collector's Edition | 284479 | [284479-abathor-collectors-edition.json](./284479-abathor-collectors-edition.json) |
 | Abatron | 25556 | [25556-abatron.json](./25556-abatron.json) |
 | ABBA: You Can Dance | 3305 | [3305-abba-you-can-dance.json](./3305-abba-you-can-dance.json) |
@@ -2980,7 +2982,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -4264,6 +4265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Garden | 305380 | [305380-air-garden.json](./305380-air-garden.json) |
 | Air Glide | 312323 | [312323-air-glide.json](./312323-air-glide.json) |
 | Air Guardians | 11443 | [11443-air-guardians.json](./11443-air-guardians.json) |
+| Air Guitar Warrior for Kinect | 82375 | [82375-air-guitar-warrior-for-kinect.json](./82375-air-guitar-warrior-for-kinect.json) |
 | Air Hares | 336684 | [336684-air-hares.json](./336684-air-hares.json) |
 | Air Hauler | 68098 | [68098-air-hauler.json](./68098-air-hauler.json) |
 | Air Havoc Controller | 94695 | [94695-air-havoc-controller.json](./94695-air-havoc-controller.json) |
@@ -9938,6 +9940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Dinorex | 276863 | [276863-arcade-archives-dinorex.json](./276863-arcade-archives-dinorex.json) |
 | Arcade Archives: Donkey Kong 3 | 117018 | [117018-arcade-archives-donkey-kong-3.json](./117018-arcade-archives-donkey-kong-3.json) |
 | Arcade Archives: Donkey Kong Jr. | 113436 | [113436-arcade-archives-donkey-kong-jr.json](./113436-arcade-archives-donkey-kong-jr.json) |
+| Arcade Archives: Double Dragon | 82391 | [82391-arcade-archives-double-dragon.json](./82391-arcade-archives-double-dragon.json) |
 | Arcade Archives: Double Dragon II - The Revenge | 99570 | [99570-arcade-archives-double-dragon-ii-the-revenge.json](./99570-arcade-archives-double-dragon-ii-the-revenge.json) |
 | Arcade Archives: Dragon Buster | 186560 | [186560-arcade-archives-dragon-buster.json](./186560-arcade-archives-dragon-buster.json) |
 | Arcade Archives: Dragon Saber | 209646 | [209646-arcade-archives-dragon-saber.json](./209646-arcade-archives-dragon-saber.json) |
@@ -11753,6 +11756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifacts of Eternity | 337617 | [337617-artifacts-of-eternity.json](./337617-artifacts-of-eternity.json) |
 | Artifacts of Eyru | 207507 | [207507-artifacts-of-eyru.json](./207507-artifacts-of-eyru.json) |
 | Artifacts of the Past: Ancient Mysteries | 417297 | [417297-artifacts-of-the-past-ancient-mysteries.json](./417297-artifacts-of-the-past-ancient-mysteries.json) |
+| Artifex Mundi Essential Bundle | 82380 | [82380-artifex-mundi-essential-bundle.json](./82380-artifex-mundi-essential-bundle.json) |
 | Artifex Mundi Ultimate Collection | 113586 | [113586-artifex-mundi-ultimate-collection.json](./113586-artifex-mundi-ultimate-collection.json) |
 | Artifice | 258313 | [258313-artifice.json](./258313-artifice.json) |
 | Artifice: War Tactics | 224748 | [224748-artifice-war-tactics.json](./224748-artifice-war-tactics.json) |
