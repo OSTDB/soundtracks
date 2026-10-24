@@ -2957,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marine Glory | 253491 | [253491-marine-glory.json](./253491-marine-glory.json) |
 | Marine Heavy Gunner | 54211 | [54211-marine-heavy-gunner.json](./54211-marine-heavy-gunner.json) |
 | Marine Heavy Gunner: Vietnam | 27563 | [27563-marine-heavy-gunner-vietnam.json](./27563-marine-heavy-gunner-vietnam.json) |
+| Marine Park Empire | 17298 | [17298-marine-park-empire.json](./17298-marine-park-empire.json) |
 | Marine Philt | 66545 | [66545-marine-philt.json](./66545-marine-philt.json) |
 | Marine Quest | 313683 | [313683-marine-quest.json](./313683-marine-quest.json) |
 | Marine School Simulator | 292369 | [292369-marine-school-simulator.json](./292369-marine-school-simulator.json) |
