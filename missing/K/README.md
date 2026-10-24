@@ -2473,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Lucas | 26371 | [26371-king-lucas.json](./26371-king-lucas.json) |
 | King Machine | 31514 | [31514-king-machine.json](./31514-king-machine.json) |
 | King NooB | 180054 | [180054-king-noob.json](./180054-king-noob.json) |
+| King Oddball | 20079 | [20079-king-oddball.json](./20079-king-oddball.json) |
 | King Oddball Ends the World | 52532 | [52532-king-oddball-ends-the-world.json](./52532-king-oddball-ends-the-world.json) |
 | King of Avalon | 265517 | [265517-king-of-avalon.json](./265517-king-of-avalon.json) |
 | King of Avalon: Dragon Warfare | 74962 | [74962-king-of-avalon-dragon-warfare.json](./74962-king-of-avalon-dragon-warfare.json) |
