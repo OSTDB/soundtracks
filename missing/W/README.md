@@ -1169,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Darktide - The Traitor Curse Part 1 | 276771 | [276771-warhammer-40-000-darktide-the-traitor-curse-part-1.json](./276771-warhammer-40-000-darktide-the-traitor-curse-part-1.json) |
 | Warhammer 40,000: Dawn of War | 257 | [257-warhammer-40-000-dawn-of-war.json](./257-warhammer-40-000-dawn-of-war.json) |
 | Warhammer 40,000: Dawn of War - Definitive Edition | 344680 | [344680-warhammer-40-000-dawn-of-war-definitive-edition.json](./344680-warhammer-40-000-dawn-of-war-definitive-edition.json) |
+| Warhammer 40,000: Dawn of War - Game of the Year Edition | 28981 | [28981-warhammer-40-000-dawn-of-war-game-of-the-year-edition.json](./28981-warhammer-40-000-dawn-of-war-game-of-the-year-edition.json) |
 | Warhammer 40,000: Dawn of War - Master Collection | 53894 | [53894-warhammer-40-000-dawn-of-war-master-collection.json](./53894-warhammer-40-000-dawn-of-war-master-collection.json) |
 | Warhammer 40,000: Dawn of War - Winter Assault | 465 | [465-warhammer-40-000-dawn-of-war-winter-assault.json](./465-warhammer-40-000-dawn-of-war-winter-assault.json) |
 | Warhammer 40,000: Dawn of War Franchise Collection | 53896 | [53896-warhammer-40-000-dawn-of-war-franchise-collection.json](./53896-warhammer-40-000-dawn-of-war-franchise-collection.json) |
@@ -4545,6 +4546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Win, Lose or Draw | 359461 | [359461-win-lose-or-draw.json](./359461-win-lose-or-draw.json) |
 | Win, Lose or Draw | 48093 | [48093-win-lose-or-draw.json](./48093-win-lose-or-draw.json) |
 | WinAgrams | 83440 | [83440-winagrams.json](./83440-winagrams.json) |
+| WinBack: Covert Operations | 47680 | [47680-winback-covert-operations.json](./47680-winback-covert-operations.json) |
 | Wincars Racer | 33292 | [33292-wincars-racer.json](./33292-wincars-racer.json) |
 | Winch it Out | 300387 | [300387-winch-it-out.json](./300387-winch-it-out.json) |
 | WinCrypt | 83441 | [83441-wincrypt.json](./83441-wincrypt.json) |
@@ -7109,6 +7111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Forts 3D | 218730 | [218730-worms-forts-3d.json](./218730-worms-forts-3d.json) |
 | Worms Forts: Under Siege | 6245 | [6245-worms-forts-under-siege.json](./6245-worms-forts-under-siege.json) |
 | Worms Pinball | 409028 | [409028-worms-pinball.json](./409028-worms-pinball.json) |
+| Worms Pinball | 9335 | [9335-worms-pinball.json](./9335-worms-pinball.json) |
 | Worms Reloaded | 1017 | [1017-worms-reloaded.json](./1017-worms-reloaded.json) |
 | Worms Reloaded: Forts Pack | 164379 | [164379-worms-reloaded-forts-pack.json](./164379-worms-reloaded-forts-pack.json) |
 | Worms Reloaded: Game of the Year Edition | 53105 | [53105-worms-reloaded-game-of-the-year-edition.json](./53105-worms-reloaded-game-of-the-year-edition.json) |
