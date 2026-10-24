@@ -1718,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gary Grigsby's War in the Pacific: Admiral's Edition | 143319 | [143319-gary-grigsbys-war-in-the-pacific-admirals-edition.json](./143319-gary-grigsbys-war-in-the-pacific-admirals-edition.json) |
 | Gary Grigsby's War in the West | 59528 | [59528-gary-grigsbys-war-in-the-west.json](./59528-gary-grigsbys-war-in-the-west.json) |
 | Gary Grigsby's War in the West: Operation Torch | 154492 | [154492-gary-grigsbys-war-in-the-west-operation-torch.json](./154492-gary-grigsbys-war-in-the-west-operation-torch.json) |
+| Gary Grigsby's World At War | 22455 | [22455-gary-grigsbys-world-at-war.json](./22455-gary-grigsbys-world-at-war.json) |
 | Gary Lineker's Hot-Shot! | 107607 | [107607-gary-linekers-hot-shot.json](./107607-gary-linekers-hot-shot.json) |
 | Gary the Gull | 33169 | [33169-gary-the-gull.json](./33169-gary-the-gull.json) |
 | Gary: Dark Secrets | 376172 | [376172-gary-dark-secrets.json](./376172-gary-dark-secrets.json) |
@@ -6867,6 +6868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Defied: Trial Racing | 151054 | [151054-gravity-defied-trial-racing.json](./151054-gravity-defied-trial-racing.json) |
 | Gravity Den | 33177 | [33177-gravity-den.json](./33177-gravity-den.json) |
 | Gravity Duck | 121815 | [121815-gravity-duck.json](./121815-gravity-duck.json) |
+| Gravity Error | 24041 | [24041-gravity-error.json](./24041-gravity-error.json) |
 | Gravity Escape | 128255 | [128255-gravity-escape.json](./128255-gravity-escape.json) |
 | Gravity Falls | 382577 | [382577-gravity-falls.json](./382577-gravity-falls.json) |
 | Gravity Falls: Legend of the Gnome Gemulets | 44014 | [44014-gravity-falls-legend-of-the-gnome-gemulets.json](./44014-gravity-falls-legend-of-the-gnome-gemulets.json) |
