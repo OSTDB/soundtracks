@@ -2101,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Race 64 | 308048 | [308048-wave-race-64.json](./308048-wave-race-64.json) |
 | Wave Race 64 | 3629 | [3629-wave-race-64.json](./3629-wave-race-64.json) |
 | Wave Race 64: Shindou Pak Taiou Version | 47740 | [47740-wave-race-64-shindou-pak-taiou-version.json](./47740-wave-race-64-shindou-pak-taiou-version.json) |
+| Wave Race: Blue Storm | 4232 | [4232-wave-race-blue-storm.json](./4232-wave-race-blue-storm.json) |
 | Wave Rally | 43304 | [43304-wave-rally.json](./43304-wave-rally.json) |
 | Wave Rave | 341912 | [341912-wave-rave.json](./341912-wave-rave.json) |
 | Wave Rider | 161399 | [161399-wave-rider.json](./161399-wave-rider.json) |
@@ -7258,6 +7259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 4 FIA World Rally Championship | 3089 | [3089-wrc-4-fia-world-rally-championship.json](./3089-wrc-4-fia-world-rally-championship.json) |
 | WRC 5: WRC - eSports Pack 1 | 168739 | [168739-wrc-5-wrc-esports-pack-1.json](./168739-wrc-5-wrc-esports-pack-1.json) |
 | WRC 5: WRC - eSports Pack 2 | 168740 | [168740-wrc-5-wrc-esports-pack-2.json](./168740-wrc-5-wrc-esports-pack-2.json) |
+| WRC 7 | 28863 | [28863-wrc-7.json](./28863-wrc-7.json) |
 | WRC 8 | 114432 | [114432-wrc-8.json](./114432-wrc-8.json) |
 | WRC 8: Deluxe Edition | 216231 | [216231-wrc-8-deluxe-edition.json](./216231-wrc-8-deluxe-edition.json) |
 | WRC 9 | 133773 | [133773-wrc-9.json](./133773-wrc-9.json) |
