@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangoku Hime 2 | 63301 | [63301-sangoku-hime-2.json](./63301-sangoku-hime-2.json) |
 | Sangoku Hime: Ransei, Tenka Sanbun no Kei | 62130 | [62130-sangoku-hime-ransei-tenka-sanbun-no-kei.json](./62130-sangoku-hime-ransei-tenka-sanbun-no-kei.json) |
 | Sangoku Hime: Sangoku Ransei - Haruten no Saihai | 269522 | [269522-sangoku-hime-sangoku-ransei-haruten-no-saihai.json](./269522-sangoku-hime-sangoku-ransei-haruten-no-saihai.json) |
+| Sangoku Hime: Senkou no Taika - Akatsuki no Haryuu | 43057 | [43057-sangoku-hime-senkou-no-taika-akatsuki-no-haryuu.json](./43057-sangoku-hime-senkou-no-taika-akatsuki-no-haryuu.json) |
 | Sangoku Justice | 74402 | [74402-sangoku-justice.json](./74402-sangoku-justice.json) |
 | Sangoku Rensenki ~Omoidegaeshi~ CS Edition | 135856 | [135856-sangoku-rensenki-omoidegaeshi-cs-edition.json](./135856-sangoku-rensenki-omoidegaeshi-cs-edition.json) |
 | Sangoku Rensenki Sakigake | 221597 | [221597-sangoku-rensenki-sakigake.json](./221597-sangoku-rensenki-sakigake.json) |
@@ -4188,7 +4189,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekai Saikyou Ginsei Igo 3 | 347157 | [347157-sekai-saikyou-ginsei-igo-3.json](./347157-sekai-saikyou-ginsei-igo-3.json) |
 | Sekai Saikyou Ginsei Igo 5 | 83470 | [83470-sekai-saikyou-ginsei-igo-5.json](./83470-sekai-saikyou-ginsei-igo-5.json) |
 | Sekai Saikyou Ginsei Igo 6 | 83469 | [83469-sekai-saikyou-ginsei-igo-6.json](./83469-sekai-saikyou-ginsei-igo-6.json) |
+| Sekai Saikyou Ginsei Igo: Hybrid Monte Carlo | 43056 | [43056-sekai-saikyou-ginsei-igo-hybrid-monte-carlo.json](./43056-sekai-saikyou-ginsei-igo-hybrid-monte-carlo.json) |
 | Sekai Saikyou Ginsei Shogi | 56158 | [56158-sekai-saikyou-ginsei-shogi.json](./56158-sekai-saikyou-ginsei-shogi.json) |
+| Sekai Saikyou Ginsei Shogi: Fuuun Ryouko Raiden | 43055 | [43055-sekai-saikyou-ginsei-shogi-fuuun-ryouko-raiden.json](./43055-sekai-saikyou-ginsei-shogi-fuuun-ryouko-raiden.json) |
 | Sekai Seifuku Kanojo | 375362 | [375362-sekai-seifuku-kanojo.json](./375362-sekai-seifuku-kanojo.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
 | Sekaiju no Meikyubey | 56579 | [56579-sekaiju-no-meikyubey.json](./56579-sekaiju-no-meikyubey.json) |
@@ -4317,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Basara 4 | 63628 | [63628-sengoku-basara-4.json](./63628-sengoku-basara-4.json) |
 | Sengoku Basara 4: Sumeragi - Anniversary Edition | 136704 | [136704-sengoku-basara-4-sumeragi-anniversary-edition.json](./136704-sengoku-basara-4-sumeragi-anniversary-edition.json) |
 | Sengoku Basara Chronicle Heroes | 65896 | [65896-sengoku-basara-chronicle-heroes.json](./65896-sengoku-basara-chronicle-heroes.json) |
+| Sengoku Basara HD Collection | 43054 | [43054-sengoku-basara-hd-collection.json](./43054-sengoku-basara-hd-collection.json) |
 | Sengoku Basara X | 68950 | [68950-sengoku-basara-x.json](./68950-sengoku-basara-x.json) |
 | Sengoku Basara: Battle Heroes | 72563 | [72563-sengoku-basara-battle-heroes.json](./72563-sengoku-basara-battle-heroes.json) |
 | Sengoku Basara: Samurai Heroes | 7455 | [7455-sengoku-basara-samurai-heroes.json](./7455-sengoku-basara-samurai-heroes.json) |
@@ -6589,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Ikkaku Senkin | 38251 | [38251-shin-ikkaku-senkin.json](./38251-shin-ikkaku-senkin.json) |
 | Shin Kaitei Gunkan: Koutetsu no Kodoku | 400898 | [400898-shin-kaitei-gunkan-koutetsu-no-kodoku.json](./400898-shin-kaitei-gunkan-koutetsu-no-kodoku.json) |
 | Shin Kaku Gi Kou and the 11 Destroyers | 110790 | [110790-shin-kaku-gi-kou-and-the-11-destroyers.json](./110790-shin-kaku-gi-kou-and-the-11-destroyers.json) |
+| Shin Kamai-tachi no Yoru: 11nin-me no Suspect | 43051 | [43051-shin-kamai-tachi-no-yoru-11nin-me-no-suspect.json](./43051-shin-kamai-tachi-no-yoru-11nin-me-no-suspect.json) |
 | Shin Ken to Mahou to Gakuen Mono. Toki no Gakuen | 63895 | [63895-shin-ken-to-mahou-to-gakuen-mono-toki-no-gakuen.json](./63895-shin-ken-to-mahou-to-gakuen-mono-toki-no-gakuen.json) |
 | Shin Kidou Senki Gundam Wing: Endless Duel | 42464 | [42464-shin-kidou-senki-gundam-wing-endless-duel.json](./42464-shin-kidou-senki-gundam-wing-endless-duel.json) |
 | Shin Kisekae Monogatari | 49777 | [49777-shin-kisekae-monogatari.json](./49777-shin-kisekae-monogatari.json) |
@@ -6682,6 +6687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Rinkaiten no Azrael: Tenjoukai-hen - Episode:3 | 394790 | [394790-shin-rinkaiten-no-azrael-tenjoukai-hen-episode-3.json](./394790-shin-rinkaiten-no-azrael-tenjoukai-hen-episode-3.json) |
 | Shin Ruriiro no Yuki: Furimukeba Tonari ni | 167097 | [167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json](./167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json) |
 | Shin Sangoku Musou 4 Special | 395999 | [395999-shin-sangoku-musou-4-special.json](./395999-shin-sangoku-musou-4-special.json) |
+| Shin Sangoku Musou Multi Raid 2: HD Edition | 43050 | [43050-shin-sangoku-musou-multi-raid-2-hd-edition.json](./43050-shin-sangoku-musou-multi-raid-2-hd-edition.json) |
 | Shin Sangoku Musou: Multi Raid 2 | 66894 | [66894-shin-sangoku-musou-multi-raid-2.json](./66894-shin-sangoku-musou-multi-raid-2.json) |
 | Shin SD Sengoku-den: Daishogun Retsuden | 38250 | [38250-shin-sd-sengoku-den-daishogun-retsuden.json](./38250-shin-sd-sengoku-den-daishogun-retsuden.json) |
 | Shin SD Sengokuden: Chijou Saikyou-hen - Ryuuko Daigekitotsu! | 385789 | [385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json](./385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json) |
@@ -6694,6 +6700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Tennis no Ouji-sama: Let's Go!! Daily Life from RisingBeat | 222249 | [222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json](./222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json) |
 | Shin Tennis no Ouji-sama: RisingBeat | 77812 | [77812-shin-tennis-no-ouji-sama-risingbeat.json](./77812-shin-tennis-no-ouji-sama-risingbeat.json) |
 | Shin Togenkyo | 38252 | [38252-shin-togenkyo.json](./38252-shin-togenkyo.json) |
+| Shin Toudai Shogi | 43049 | [43049-shin-toudai-shogi.json](./43049-shin-toudai-shogi.json) |
 | Shin XALX no Monshou 98 | 92124 | [92124-shin-xalx-no-monshou-98.json](./92124-shin-xalx-no-monshou-98.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
 | Shin-chan: Me and the Professor on Summer Vacation - The Endless Seven-Day Journey | 143621 | [143621-shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey.json](./143621-shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey.json) |
@@ -7598,6 +7605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad? | 12204 | [12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json](./12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json) |
 | Showgunners | 210947 | [210947-showgunners.json](./210947-showgunners.json) |
 | Showgunners: Security Breach | 257677 | [257677-showgunners-security-breach.json](./257677-showgunners-security-breach.json) |
+| Showmaker | 43096 | [43096-showmaker.json](./43096-showmaker.json) |
 | ShowMeSpeed | 303768 | [303768-showmespeed.json](./303768-showmespeed.json) |
 | Showrunner | 207043 | [207043-showrunner.json](./207043-showrunner.json) |
 | Showrunners | 398542 | [398542-showrunners.json](./398542-showrunners.json) |
@@ -7815,6 +7823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutix | 120230 | [120230-shutix.json](./120230-shutix.json) |
 | Shutokou Battle Gaiden: Super Technic Challenge | 208469 | [208469-shutokou-battle-gaiden-super-technic-challenge.json](./208469-shutokou-battle-gaiden-super-technic-challenge.json) |
 | Shutokou Battle Online | 215852 | [215852-shutokou-battle-online.json](./215852-shutokou-battle-online.json) |
+| Shutsugeki!! Otometachi no Senjou 2: Yuukoku o Kakeru Koujo no Tsubasa | 43048 | [43048-shutsugeki-otometachi-no-senjou-2-yuukoku-o-kakeru-koujo-no-tsubasa.json](./43048-shutsugeki-otometachi-no-senjou-2-yuukoku-o-kakeru-koujo-no-tsubasa.json) |
 | Shutter | 244861 | [244861-shutter.json](./244861-shutter.json) |
 | Shutter | 391145 | [391145-shutter.json](./391145-shutter.json) |
 | Shutter 2 | 158547 | [158547-shutter-2.json](./158547-shutter-2.json) |
@@ -7844,6 +7853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuugoku no Seventh Heim | 221259 | [221259-shuugoku-no-seventh-heim.json](./221259-shuugoku-no-seventh-heim.json) |
 | Shuujin he no Pert-em-Hru | 146169 | [146169-shuujin-he-no-pert-em-hru.json](./146169-shuujin-he-no-pert-em-hru.json) |
 | Shuukaku no Juunigatsu: Fuyu | 58895 | [58895-shuukaku-no-juunigatsu-fuyu.json](./58895-shuukaku-no-juunigatsu-fuyu.json) |
+| Shuukan Toro Station | 43047 | [43047-shuukan-toro-station.json](./43047-shuukan-toro-station.json) |
 | Shuumatsu no Sugoshikata: The world is drawing to an W/end | 326047 | [326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json](./326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json) |
 | Shuumatsu no Valkyrie Humanity's Last Hope | 265875 | [265875-shuumatsu-no-valkyrie-humanitys-last-hope.json](./265875-shuumatsu-no-valkyrie-humanitys-last-hope.json) |
 | Shuumatsu Shoujo | 206440 | [206440-shuumatsu-shoujo.json](./206440-shuumatsu-shoujo.json) |
@@ -9076,6 +9086,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Deutsch Rock-Pop vol 2 | 144151 | [144151-singstar-deutsch-rock-pop-vol-2.json](./144151-singstar-deutsch-rock-pop-vol-2.json) |
 | SingStar: Die Toten Hosen | 84215 | [84215-singstar-die-toten-hosen.json](./84215-singstar-die-toten-hosen.json) |
 | SingStar: Frozen | 86080 | [86080-singstar-frozen.json](./86080-singstar-frozen.json) |
+| SingStar: Hits | 43043 | [43043-singstar-hits.json](./43043-singstar-hits.json) |
+| SingStar: Hits 2 | 43044 | [43044-singstar-hits-2.json](./43044-singstar-hits-2.json) |
 | Singstar: La Edad de Oro del Pop Español | 135680 | [135680-singstar-la-edad-de-oro-del-pop-espanol.json](./135680-singstar-la-edad-de-oro-del-pop-espanol.json) |
 | SingStar: Miliki | 219494 | [219494-singstar-miliki.json](./219494-singstar-miliki.json) |
 | SingStar: Morangos com Açúcar | 397942 | [397942-singstar-morangos-com-acucar.json](./397942-singstar-morangos-com-acucar.json) |
@@ -9091,6 +9103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: SuomiHelmet | 221070 | [221070-singstar-suomihelmet.json](./221070-singstar-suomihelmet.json) |
 | Singstar: SuomiHitit | 91884 | [91884-singstar-suomihitit.json](./91884-singstar-suomihitit.json) |
 | SingStar: SuomiSuosikit | 357940 | [357940-singstar-suomisuosikit.json](./357940-singstar-suomisuosikit.json) |
+| Singstar: Svenska Stjärnor | 43023 | [43023-singstar-svenska-stjarnor.json](./43023-singstar-svenska-stjarnor.json) |
 | SingStar: Vasco | 45302 | [45302-singstar-vasco.json](./45302-singstar-vasco.json) |
 | Singstar: Wakacyjna Impreza | 15441 | [15441-singstar-wakacyjna-impreza.json](./15441-singstar-wakacyjna-impreza.json) |
 | Singular Stone | 182230 | [182230-singular-stone.json](./182230-singular-stone.json) |
@@ -9965,6 +9978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Escort | 259158 | [259158-sky-escort.json](./259158-sky-escort.json) |
 | Sky Fields | 337770 | [337770-sky-fields.json](./337770-sky-fields.json) |
 | Sky Fighter | 131416 | [131416-sky-fighter.json](./131416-sky-fighter.json) |
+| Sky Fighter | 43040 | [43040-sky-fighter.json](./43040-sky-fighter.json) |
 | Sky Fighter Legends | 81195 | [81195-sky-fighter-legends.json](./81195-sky-fighter-legends.json) |
 | Sky Fighters | 275664 | [275664-sky-fighters.json](./275664-sky-fighters.json) |
 | Sky Fleet | 144190 | [144190-sky-fleet.json](./144190-sky-fleet.json) |
@@ -15769,6 +15783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Oddity | 384924 | [384924-space-oddity.json](./384924-space-oddity.json) |
 | Space Oddity 2 | 392732 | [392732-space-oddity-2.json](./392732-space-oddity-2.json) |
 | Space Odyssey | 24829 | [24829-space-odyssey.json](./24829-space-odyssey.json) |
+| Space of Darkness | 43099 | [43099-space-of-darkness.json](./43099-space-of-darkness.json) |
 | Space of One Drama | 101304 | [101304-space-of-one-drama.json](./101304-space-of-one-drama.json) |
 | Space on the Case | 310961 | [310961-space-on-the-case.json](./310961-space-on-the-case.json) |
 | Space One: Ascendant | 167226 | [167226-space-one-ascendant.json](./167226-space-one-ascendant.json) |
@@ -16415,6 +16430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartan Fist | 28876 | [28876-spartan-fist.json](./28876-spartan-fist.json) |
 | Spartan Runner | 96223 | [96223-spartan-runner.json](./96223-spartan-runner.json) |
 | Spartan Survivors | 335403 | [335403-spartan-survivors.json](./335403-spartan-survivors.json) |
+| Spartan VR | 43067 | [43067-spartan-vr.json](./43067-spartan-vr.json) |
 | Spartan Wars | 256253 | [256253-spartan-wars.json](./256253-spartan-wars.json) |
 | Spartan Wars: Blood and Fire | 323185 | [323185-spartan-wars-blood-and-fire.json](./323185-spartan-wars-blood-and-fire.json) |
 | Spartan X | 214467 | [214467-spartan-x.json](./214467-spartan-x.json) |
@@ -17261,6 +17277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: Edge of Time | 5179 | [5179-spider-man-edge-of-time.json](./5179-spider-man-edge-of-time.json) |
 | Spider-Man: Friend or Foe | 249163 | [249163-spider-man-friend-or-foe.json](./249163-spider-man-friend-or-foe.json) |
 | Spider-Man: Friend or Foe | 5180 | [5180-spider-man-friend-or-foe.json](./5180-spider-man-friend-or-foe.json) |
+| Spider-Man: Homecoming - Virtual Reality Experience | 43066 | [43066-spider-man-homecoming-virtual-reality-experience.json](./43066-spider-man-homecoming-virtual-reality-experience.json) |
 | Spider-Man: Mysterio's Menace | 6605 | [6605-spider-man-mysterios-menace.json](./6605-spider-man-mysterios-menace.json) |
 | Spider-Man: Return of the Sinister Six | 46123 | [46123-spider-man-return-of-the-sinister-six.json](./46123-spider-man-return-of-the-sinister-six.json) |
 | Spider-Man: Revenge of the Spider-Slayers | 198901 | [198901-spider-man-revenge-of-the-spider-slayers.json](./198901-spider-man-revenge-of-the-spider-slayers.json) |
@@ -17520,6 +17537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of Revenge: Cursed Castle | 140226 | [140226-spirit-of-revenge-cursed-castle.json](./140226-spirit-of-revenge-cursed-castle.json) |
 | Spirit of Revenge: Cursed Castle - Collector's Edition | 30675 | [30675-spirit-of-revenge-cursed-castle-collectors-edition.json](./30675-spirit-of-revenge-cursed-castle-collectors-edition.json) |
 | Spirit of Revenge: Gem Fury | 53652 | [53652-spirit-of-revenge-gem-fury.json](./53652-spirit-of-revenge-gem-fury.json) |
+| Spirit of the Ancient Forest | 43081 | [43081-spirit-of-the-ancient-forest.json](./43081-spirit-of-the-ancient-forest.json) |
 | Spirit of the Backwaters | 248076 | [248076-spirit-of-the-backwaters.json](./248076-spirit-of-the-backwaters.json) |
 | Spirit of the Blade | 151480 | [151480-spirit-of-the-blade.json](./151480-spirit-of-the-blade.json) |
 | Spirit of the Island | 152373 | [152373-spirit-of-the-island.json](./152373-spirit-of-the-island.json) |
