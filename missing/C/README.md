@@ -2717,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Creeps TD | 106963 | [106963-castle-creeps-td.json](./106963-castle-creeps-td.json) |
 | Castle Crisis | 40782 | [40782-castle-crisis.json](./40782-castle-crisis.json) |
 | Castle Crumble | 235306 | [235306-castle-crumble.json](./235306-castle-crumble.json) |
+| Castle Crush: Epic Strategy Game | 57221 | [57221-castle-crush-epic-strategy-game.json](./57221-castle-crush-epic-strategy-game.json) |
 | Castle Defender | 273909 | [273909-castle-defender.json](./273909-castle-defender.json) |
 | Castle Defense | 182852 | [182852-castle-defense.json](./182852-castle-defense.json) |
 | Castle Defense | 277158 | [277158-castle-defense.json](./277158-castle-defense.json) |
@@ -15068,6 +15069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystals | 284980 | [284980-crystals.json](./284980-crystals.json) |
 | Crystals and Curses | 81987 | [81987-crystals-and-curses.json](./81987-crystals-and-curses.json) |
 | Crystals of Amalgam | 183023 | [183023-crystals-of-amalgam.json](./183023-crystals-of-amalgam.json) |
+| Crystals of Arborea | 2460 | [2460-crystals-of-arborea.json](./2460-crystals-of-arborea.json) |
 | Crystals of Carus | 13834 | [13834-crystals-of-carus.json](./13834-crystals-of-carus.json) |
 | Crystals of Irm | 177742 | [177742-crystals-of-irm.json](./177742-crystals-of-irm.json) |
 | Crystals of Niberium | 76361 | [76361-crystals-of-niberium.json](./76361-crystals-of-niberium.json) |
@@ -16211,6 +16213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyanotype Daydream: The Girl Who Dreamed the World | 191059 | [191059-cyanotype-daydream-the-girl-who-dreamed-the-world.json](./191059-cyanotype-daydream-the-girl-who-dreamed-the-world.json) |
 | Cyball | 225843 | [225843-cyball.json](./225843-cyball.json) |
 | CybArena | 326244 | [326244-cybarena.json](./326244-cybarena.json) |
+| Cybarian: The Time Travelling Warrior | 107851 | [107851-cybarian-the-time-travelling-warrior.json](./107851-cybarian-the-time-travelling-warrior.json) |
 | Cybel | 142887 | [142887-cybel.json](./142887-cybel.json) |
 | Cyber | 185031 | [185031-cyber.json](./185031-cyber.json) |
 | Cyber Agent | 132200 | [132200-cyber-agent.json](./132200-cyber-agent.json) |
