@@ -3664,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight of Gods | 29056 | [29056-fight-of-gods.json](./29056-fight-of-gods.json) |
 | Fight of Steel: Infinity Warrior | 197157 | [197157-fight-of-steel-infinity-warrior.json](./197157-fight-of-steel-infinity-warrior.json) |
 | Fight or Die | 29974 | [29974-fight-or-die.json](./29974-fight-or-die.json) |
+| Fight or Die 2 | 40544 | [40544-fight-or-die-2.json](./40544-fight-or-die-2.json) |
 | Fight or Flight | 113046 | [113046-fight-or-flight.json](./113046-fight-or-flight.json) |
 | Fight or Flight VR | 272266 | [272266-fight-or-flight-vr.json](./272266-fight-or-flight-vr.json) |
 | Fight or Lose | 230678 | [230678-fight-or-lose.json](./230678-fight-or-lose.json) |
