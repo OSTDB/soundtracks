@@ -3286,6 +3286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostmoons: Arcade | 357426 | [357426-ghostmoons-arcade.json](./357426-ghostmoons-arcade.json) |
 | Ghostmuncher Uniwars | 384779 | [384779-ghostmuncher-uniwars.json](./384779-ghostmuncher-uniwars.json) |
 | Ghostnote | 423279 | [423279-ghostnote.json](./423279-ghostnote.json) |
+| Ghostory | 68661 | [68661-ghostory.json](./68661-ghostory.json) |
 | GhostPad | 110267 | [110267-ghostpad.json](./110267-ghostpad.json) |
 | GhosTrick-The Sacred War of Light vs. Shadow | 374075 | [374075-ghostrick-the-sacred-war-of-light-vs-shadow.json](./374075-ghostrick-the-sacred-war-of-light-vs-shadow.json) |
 | GhostRing | 180517 | [180517-ghostring.json](./180517-ghostring.json) |
