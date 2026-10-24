@@ -6079,6 +6079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo 5 Spec 2.0 | 136852 | [136852-gran-turismo-5-spec-2-0.json](./136852-gran-turismo-5-spec-2-0.json) |
 | Gran Turismo 5 XL Edition | 45205 | [45205-gran-turismo-5-xl-edition.json](./45205-gran-turismo-5-xl-edition.json) |
 | Gran Turismo 5: Prologue Spec III | 77993 | [77993-gran-turismo-5-prologue-spec-iii.json](./77993-gran-turismo-5-prologue-spec-iii.json) |
+| Gran Turismo 6: Anniversary Edition | 43031 | [43031-gran-turismo-6-anniversary-edition.json](./43031-gran-turismo-6-anniversary-edition.json) |
 | Gran Turismo 7: 25th Anniversary Edition | 172566 | [172566-gran-turismo-7-25th-anniversary-edition.json](./172566-gran-turismo-7-25th-anniversary-edition.json) |
 | Gran Turismo 7: Launch Edition | 172567 | [172567-gran-turismo-7-launch-edition.json](./172567-gran-turismo-7-launch-edition.json) |
 | Gran Turismo 7: Power Pack | 377243 | [377243-gran-turismo-7-power-pack.json](./377243-gran-turismo-7-power-pack.json) |
@@ -7824,6 +7825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Wild | 349646 | [349646-grow-wild.json](./349646-grow-wild.json) |
 | Grow Your Guarden | 263794 | [263794-grow-your-guarden.json](./263794-grow-your-guarden.json) |
 | Grow: Song of the Evertree | 151673 | [151673-grow-song-of-the-evertree.json](./151673-grow-song-of-the-evertree.json) |
+| Growbot | 43091 | [43091-growbot.json](./43091-growbot.json) |
 | Growbotics | 59706 | [59706-growbotics.json](./59706-growbotics.json) |
 | Growbots: Battle Academy | 161386 | [161386-growbots-battle-academy.json](./161386-growbots-battle-academy.json) |
 | GrowBud | 373134 | [373134-growbud.json](./373134-growbud.json) |
