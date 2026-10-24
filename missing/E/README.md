@@ -6062,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exelon | 79236 | [79236-exelon.json](./79236-exelon.json) |
 | Exemption | 118134 | [118134-exemption.json](./118134-exemption.json) |
 | Exer Gale | 297068 | [297068-exer-gale.json](./297068-exer-gale.json) |
+| Exerbeat | 23580 | [23580-exerbeat.json](./23580-exerbeat.json) |
 | Exercise Book Epic | 90659 | [90659-exercise-book-epic.json](./90659-exercise-book-epic.json) |
 | Exercise Your Demons! | 327650 | [327650-exercise-your-demons.json](./327650-exercise-your-demons.json) |
 | ExerciseSimulator Vol.1 | 309666 | [309666-exercisesimulator-vol-1.json](./309666-exercisesimulator-vol-1.json) |
