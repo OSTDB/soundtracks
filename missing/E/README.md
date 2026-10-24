@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Core | 365840 | [365840-echoes-of-the-core.json](./365840-echoes-of-the-core.json) |
 | Echoes of the Court | 366349 | [366349-echoes-of-the-court.json](./366349-echoes-of-the-court.json) |
 | Echoes of the Emergent | 288686 | [288686-echoes-of-the-emergent.json](./288686-echoes-of-the-emergent.json) |
+| Echoes of the End | 152072 | [152072-echoes-of-the-end.json](./152072-echoes-of-the-end.json) |
 | Echoes of the Fey Episode 0: The Immolation | 29634 | [29634-echoes-of-the-fey-episode-0-the-immolation.json](./29634-echoes-of-the-fey-episode-0-the-immolation.json) |
 | Echoes of the Fey: The Fox's Trail | 24053 | [24053-echoes-of-the-fey-the-foxs-trail.json](./24053-echoes-of-the-fey-the-foxs-trail.json) |
 | Echoes of the Fey: The Last Sacrament | 102346 | [102346-echoes-of-the-fey-the-last-sacrament.json](./102346-echoes-of-the-fey-the-last-sacrament.json) |
