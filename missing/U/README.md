@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Mahjongg 15 | 206056 | [206056-ultimate-mahjongg-15.json](./206056-ultimate-mahjongg-15.json) |
 | Ultimate Mahjongg 20 | 53942 | [53942-ultimate-mahjongg-20.json](./53942-ultimate-mahjongg-20.json) |
 | Ultimate MahJongg 5 | 206055 | [206055-ultimate-mahjongg-5.json](./206055-ultimate-mahjongg-5.json) |
+| Ultimate Marvel vs. Capcom 3 | 2066 | [2066-ultimate-marvel-vs-capcom-3.json](./2066-ultimate-marvel-vs-capcom-3.json) |
 | Ultimate Marvel vs. Capcom 3: Community Edition | 406534 | [406534-ultimate-marvel-vs-capcom-3-community-edition.json](./406534-ultimate-marvel-vs-capcom-3-community-edition.json) |
 | Ultimate Match 3D | 282256 | [282256-ultimate-match-3d.json](./282256-ultimate-match-3d.json) |
 | Ultimate Mind Games | 97181 | [97181-ultimate-mind-games.json](./97181-ultimate-mind-games.json) |
@@ -1166,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted Waters: New Horizons | 38412 | [38412-uncharted-waters-new-horizons.json](./38412-uncharted-waters-new-horizons.json) |
 | Uncharted Waters: New Horizons | 45539 | [45539-uncharted-waters-new-horizons.json](./45539-uncharted-waters-new-horizons.json) |
 | Uncharted World | 310188 | [310188-uncharted-world.json](./310188-uncharted-world.json) |
+| Uncharted: Drake's Fortune Remastered | 41878 | [41878-uncharted-drakes-fortune-remastered.json](./41878-uncharted-drakes-fortune-remastered.json) |
 | Uncharted: Fight for Fortune | 19583 | [19583-uncharted-fight-for-fortune.json](./19583-uncharted-fight-for-fortune.json) |
 | Uncharted: Fight for Fortune - Among Thieves Expansion | 381859 | [381859-uncharted-fight-for-fortune-among-thieves-expansion.json](./381859-uncharted-fight-for-fortune-among-thieves-expansion.json) |
 | Uncharted: Fight for Fortune - Drake's Deception Expansion | 381860 | [381860-uncharted-fight-for-fortune-drakes-deception-expansion.json](./381860-uncharted-fight-for-fortune-drakes-deception-expansion.json) |
@@ -2247,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Strike | 256994 | [256994-unreal-strike.json](./256994-unreal-strike.json) |
 | Unreal Tournament 2004 | 927 | [927-unreal-tournament-2004.json](./927-unreal-tournament-2004.json) |
 | Unreal Tournament 2004: Editor's Choice Edition | 27811 | [27811-unreal-tournament-2004-editors-choice-edition.json](./27811-unreal-tournament-2004-editors-choice-edition.json) |
+| Unreal Tournament III | 928 | [928-unreal-tournament-iii.json](./928-unreal-tournament-iii.json) |
 | Unreal Tournament III: Black Edition | 46624 | [46624-unreal-tournament-iii-black-edition.json](./46624-unreal-tournament-iii-black-edition.json) |
 | Unreal Trail: In the name of the Strongest, 30 Hunters Forced to Evolve | 292936 | [292936-unreal-trail-in-the-name-of-the-strongest-30-hunters-forced-to-evolve.json](./292936-unreal-trail-in-the-name-of-the-strongest-30-hunters-forced-to-evolve.json) |
 | Unreal Vendetta | 213414 | [213414-unreal-vendetta.json](./213414-unreal-vendetta.json) |
