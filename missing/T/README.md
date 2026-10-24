@@ -8941,6 +8941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Adventures of Van Helsing II: Pigasus | 10970 | [10970-the-incredible-adventures-of-van-helsing-ii-pigasus.json](./10970-the-incredible-adventures-of-van-helsing-ii-pigasus.json) |
 | The Incredible Adventures of Van Helsing: Blue Blood | 10968 | [10968-the-incredible-adventures-of-van-helsing-blue-blood.json](./10968-the-incredible-adventures-of-van-helsing-blue-blood.json) |
 | The Incredible Adventures of Van Helsing: Extended Edition | 27680 | [27680-the-incredible-adventures-of-van-helsing-extended-edition.json](./27680-the-incredible-adventures-of-van-helsing-extended-edition.json) |
+| The Incredible Adventures of Van Helsing: Final Cut | 26129 | [26129-the-incredible-adventures-of-van-helsing-final-cut.json](./26129-the-incredible-adventures-of-van-helsing-final-cut.json) |
 | The Incredible Adventures of Van Helsing: The Complete Trilogy | 115460 | [115460-the-incredible-adventures-of-van-helsing-the-complete-trilogy.json](./115460-the-incredible-adventures-of-van-helsing-the-complete-trilogy.json) |
 | The Incredible Coneman | 262418 | [262418-the-incredible-coneman.json](./262418-the-incredible-coneman.json) |
 | The Incredible Crash Dummies | 198764 | [198764-the-incredible-crash-dummies.json](./198764-the-incredible-crash-dummies.json) |
@@ -11182,6 +11183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mirror Circle | 382746 | [382746-the-mirror-circle.json](./382746-the-mirror-circle.json) |
 | The Mirror Dimension | 260655 | [260655-the-mirror-dimension.json](./260655-the-mirror-dimension.json) |
 | The Mirror Eater | 385438 | [385438-the-mirror-eater.json](./385438-the-mirror-eater.json) |
+| The Mirror Lied | 46993 | [46993-the-mirror-lied.json](./46993-the-mirror-lied.json) |
 | The Mirror Mysteries | 61578 | [61578-the-mirror-mysteries.json](./61578-the-mirror-mysteries.json) |
 | The Mirror's Curse | 322686 | [322686-the-mirrors-curse.json](./322686-the-mirrors-curse.json) |
 | The Mirror's End | 96189 | [96189-the-mirrors-end.json](./96189-the-mirrors-end.json) |
@@ -11449,7 +11451,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -21676,6 +21677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touken Ranbu: Online Pocket | 194031 | [194031-touken-ranbu-online-pocket.json](./194031-touken-ranbu-online-pocket.json) |
 | Touki Denshou Angel Eyes | 91788 | [91788-touki-denshou-angel-eyes.json](./91788-touki-denshou-angel-eyes.json) |
 | Touki Kyouka | 82490 | [82490-touki-kyouka.json](./82490-touki-kyouka.json) |
+| Toukiden 2 | 26500 | [26500-toukiden-2.json](./26500-toukiden-2.json) |
 | Toukiden 2: Limited Edition | 167086 | [167086-toukiden-2-limited-edition.json](./167086-toukiden-2-limited-edition.json) |
 | Toukiden 2: Mission Collection Set 1 | 167916 | [167916-toukiden-2-mission-collection-set-1.json](./167916-toukiden-2-mission-collection-set-1.json) |
 | Toukiden 2: Mission Collection Set 2 | 167919 | [167919-toukiden-2-mission-collection-set-2.json](./167919-toukiden-2-mission-collection-set-2.json) |
@@ -24623,6 +24625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tree of Life 2 | 140472 | [140472-tree-of-life-2.json](./140472-tree-of-life-2.json) |
 | Tree of Life: Yggdrasil | 82159 | [82159-tree-of-life-yggdrasil.json](./82159-tree-of-life-yggdrasil.json) |
 | Tree of Sacrifice | 369147 | [369147-tree-of-sacrifice.json](./369147-tree-of-sacrifice.json) |
+| Tree of Savior | 14391 | [14391-tree-of-savior.json](./14391-tree-of-savior.json) |
 | Tree of Savior DB | 50483 | [50483-tree-of-savior-db.json](./50483-tree-of-savior-db.json) |
 | Tree of Savior: Neo | 349296 | [349296-tree-of-savior-neo.json](./349296-tree-of-savior-neo.json) |
 | Tree of Savior: Neverland | 327392 | [327392-tree-of-savior-neverland.json](./327392-tree-of-savior-neverland.json) |
