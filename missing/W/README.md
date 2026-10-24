@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpman | 48640 | [48640-warpman.json](./48640-warpman.json) |
 | WarPods | 107865 | [107865-warpods.json](./107865-warpods.json) |
 | Warpside | 108274 | [108274-warpside.json](./108274-warpside.json) |
+| WarpSpeed | 4494 | [4494-warpspeed.json](./4494-warpspeed.json) |
 | Warpsquad | 216844 | [216844-warpsquad.json](./216844-warpsquad.json) |
 | Warptank | 318726 | [318726-warptank.json](./318726-warptank.json) |
 | WarpVector | 215665 | [215665-warpvector.json](./215665-warpvector.json) |
@@ -4867,6 +4868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Olympic Games | 365673 | [365673-winter-olympic-games.json](./365673-winter-olympic-games.json) |
 | Winter Olympic Games | 365674 | [365674-winter-olympic-games.json](./365674-winter-olympic-games.json) |
 | Winter Olympic Games | 365676 | [365676-winter-olympic-games.json](./365676-winter-olympic-games.json) |
+| Winter Olympic Games | 4507 | [4507-winter-olympic-games.json](./4507-winter-olympic-games.json) |
 | Winter Polaris | 127007 | [127007-winter-polaris.json](./127007-winter-polaris.json) |
 | Winter Polaris: Append Disc teki na no | 359204 | [359204-winter-polaris-append-disc-teki-na-no.json](./359204-winter-polaris-append-disc-teki-na-no.json) |
 | Winter Quackdown | 384285 | [384285-winter-quackdown.json](./384285-winter-quackdown.json) |
@@ -6780,6 +6782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series Baseball '95 | 368629 | [368629-world-series-baseball-95.json](./368629-world-series-baseball-95.json) |
 | World Series Baseball 2K1 | 45849 | [45849-world-series-baseball-2k1.json](./45849-world-series-baseball-2k1.json) |
 | World Series Baseball 2K2 | 6240 | [6240-world-series-baseball-2k2.json](./6240-world-series-baseball-2k2.json) |
+| World Series Baseball 98 | 4473 | [4473-world-series-baseball-98.json](./4473-world-series-baseball-98.json) |
 | World Series Baseball II | 45511 | [45511-world-series-baseball-ii.json](./45511-world-series-baseball-ii.json) |
 | World Series Baseball Starring Deion Sanders | 46428 | [46428-world-series-baseball-starring-deion-sanders.json](./46428-world-series-baseball-starring-deion-sanders.json) |
 | World Series Basketball | 45316 | [45316-world-series-basketball.json](./45316-world-series-basketball.json) |
