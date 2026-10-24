@@ -2080,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watson | 276150 | [276150-watson.json](./276150-watson.json) |
 | Watson's Watch | 33477 | [33477-watsons-watch.json](./33477-watsons-watch.json) |
 | Watsonville | 401076 | [401076-watsonville.json](./401076-watsonville.json) |
+| Wattam | 28818 | [28818-wattam.json](./28818-wattam.json) |
 | WattGames | 298138 | [298138-wattgames.json](./298138-wattgames.json) |
 | Wattson the Bulb | 385349 | [385349-wattson-the-bulb.json](./385349-wattson-the-bulb.json) |
 | Wauies | 81760 | [81760-wauies.json](./81760-wauies.json) |
@@ -2402,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Who Rise | 358814 | [358814-we-who-rise.json](./358814-we-who-rise.json) |
 | We Will Be Gods | 342716 | [342716-we-will-be-gods.json](./342716-we-will-be-gods.json) |
 | We, Junk Artists | 369043 | [369043-we-junk-artists.json](./369043-we-junk-artists.json) |
+| We. The Revolution | 27513 | [27513-we-the-revolution.json](./27513-we-the-revolution.json) |
 | We'll always have Paris | 164263 | [164263-well-always-have-paris.json](./164263-well-always-have-paris.json) |
 | We'll Be Alright | 310564 | [310564-well-be-alright.json](./310564-well-be-alright.json) |
 | We'll Meet Once More | 206030 | [206030-well-meet-once-more.json](./206030-well-meet-once-more.json) |
