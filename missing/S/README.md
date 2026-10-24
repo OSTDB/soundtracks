@@ -2065,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sbaceball | 197700 | [197700-sbaceball.json](./197700-sbaceball.json) |
 | SBK 2011: Superbike World Championship | 41583 | [41583-sbk-2011-superbike-world-championship.json](./41583-sbk-2011-superbike-world-championship.json) |
 | SBK Team Manager | 200317 | [200317-sbk-team-manager.json](./200317-sbk-team-manager.json) |
+| SBK X: Superbike World Championship | 7180 | [7180-sbk-x-superbike-world-championship.json](./7180-sbk-x-superbike-world-championship.json) |
 | SBK-07 Superbike World Championship | 21421 | [21421-sbk-07-superbike-world-championship.json](./21421-sbk-07-superbike-world-championship.json) |
 | SBK-08: Superbike World Championship | 264881 | [264881-sbk-08-superbike-world-championship.json](./264881-sbk-08-superbike-world-championship.json) |
 | SBK: Snowboard Kids | 47725 | [47725-sbk-snowboard-kids.json](./47725-sbk-snowboard-kids.json) |
@@ -11136,6 +11137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlipSlop | 119736 | [119736-slipslop.json](./119736-slipslop.json) |
 | SlipSpeed | 132818 | [132818-slipspeed.json](./132818-slipspeed.json) |
 | Slipstream | 358437 | [358437-slipstream.json](./358437-slipstream.json) |
+| Slipstream 5000 | 7148 | [7148-slipstream-5000.json](./7148-slipstream-5000.json) |
 | Sliptime Sleuth | 132698 | [132698-sliptime-sleuth.json](./132698-sliptime-sleuth.json) |
 | Slipuzzle | 175225 | [175225-slipuzzle.json](./175225-slipuzzle.json) |
 | SlipVector | 412342 | [412342-slipvector.json](./412342-slipvector.json) |
@@ -11513,6 +11515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Club: Streets of Shmeenis | 147650 | [147650-smash-club-streets-of-shmeenis.json](./147650-smash-club-streets-of-shmeenis.json) |
 | Smash Cops | 22929 | [22929-smash-cops.json](./22929-smash-cops.json) |
 | Smash Court 3 | 61669 | [61669-smash-court-3.json](./61669-smash-court-3.json) |
+| Smash Court Tennis 3 | 7188 | [7188-smash-court-tennis-3.json](./7188-smash-court-tennis-3.json) |
 | Smash Court Tennis Pro Tournament 2 | 20184 | [20184-smash-court-tennis-pro-tournament-2.json](./20184-smash-court-tennis-pro-tournament-2.json) |
 | Smash Crabs | 151744 | [151744-smash-crabs.json](./151744-smash-crabs.json) |
 | Smash Dash: Demolition Run | 406575 | [406575-smash-dash-demolition-run.json](./406575-smash-dash-demolition-run.json) |
@@ -15556,6 +15559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Crawl | 55465 | [55465-space-crawl.json](./55465-space-crawl.json) |
 | Space Crisis | 167782 | [167782-space-crisis.json](./167782-space-crisis.json) |
 | Space Cruise | 114170 | [114170-space-cruise.json](./114170-space-cruise.json) |
+| Space Crusade | 7648 | [7648-space-crusade.json](./7648-space-crusade.json) |
 | Space Crusade: The Voyage Beyond | 73855 | [73855-space-crusade-the-voyage-beyond.json](./73855-space-crusade-the-voyage-beyond.json) |
 | Space Crusaders | 211582 | [211582-space-crusaders.json](./211582-space-crusaders.json) |
 | Space Cube Tower Defense | 169096 | [169096-space-cube-tower-defense.json](./169096-space-cube-tower-defense.json) |
@@ -17805,6 +17809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritlink Tactics | 191737 | [191737-spiritlink-tactics.json](./191737-spiritlink-tactics.json) |
 | Spiritoké | 240653 | [240653-spiritoke.json](./240653-spiritoke.json) |
 | Spirits | 239573 | [239573-spirits.json](./239573-spirits.json) |
+| Spirits | 7403 | [7403-spirits.json](./7403-spirits.json) |
 | Spirits & Alice | 358502 | [358502-spirits-and-alice.json](./358502-spirits-and-alice.json) |
 | Spirits & Spells | 4165 | [4165-spirits-and-spells.json](./4165-spirits-and-spells.json) |
 | Spirits Abyss | 118101 | [118101-spirits-abyss.json](./118101-spirits-abyss.json) |
@@ -18222,6 +18227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spore | 55043 | [55043-spore.json](./55043-spore.json) |
 | Spore Collection | 51900 | [51900-spore-collection.json](./51900-spore-collection.json) |
 | Spore Creature Keeper | 80181 | [80181-spore-creature-keeper.json](./80181-spore-creature-keeper.json) |
+| Spore Creatures | 22587 | [22587-spore-creatures.json](./22587-spore-creatures.json) |
 | Spore Hero | 5191 | [5191-spore-hero.json](./5191-spore-hero.json) |
 | Spore Hero Arena | 21214 | [21214-spore-hero-arena.json](./21214-spore-hero-arena.json) |
 | Spore Monsters.io 3D | 105810 | [105810-spore-monsters-io-3d.json](./105810-spore-monsters-io-3d.json) |
@@ -20090,6 +20096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarCrawlers | 15197 | [15197-starcrawlers.json](./15197-starcrawlers.json) |
 | StarCrawlers Chimera | 156937 | [156937-starcrawlers-chimera.json](./156937-starcrawlers-chimera.json) |
 | Starcrest Saga | 394368 | [394368-starcrest-saga.json](./394368-starcrest-saga.json) |
+| Starcross | 7565 | [7565-starcross.json](./7565-starcross.json) |
 | Starcross Arena | 111901 | [111901-starcross-arena.json](./111901-starcross-arena.json) |
 | StarCrossed | 28770 | [28770-starcrossed.json](./28770-starcrossed.json) |
 | Starcult. Night: Twisted Age | 402990 | [402990-starcult-night-twisted-age.json](./402990-starcult-night-twisted-age.json) |
@@ -25994,6 +26001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mecha Lifter 4000 | 363916 | [363916-super-mecha-lifter-4000.json](./363916-super-mecha-lifter-4000.json) |
 | Super Mechs | 58688 | [58688-super-mechs.json](./58688-super-mechs.json) |
 | Super Mega Awesome Typing | 270522 | [270522-super-mega-awesome-typing.json](./270522-super-mega-awesome-typing.json) |
+| Super Mega Baseball | 22152 | [22152-super-mega-baseball.json](./22152-super-mega-baseball.json) |
 | Super Mega Baseball 2 | 26612 | [26612-super-mega-baseball-2.json](./26612-super-mega-baseball-2.json) |
 | Super Mega Baseball 2: El Viejo Stadium | 171906 | [171906-super-mega-baseball-2-el-viejo-stadium.json](./171906-super-mega-baseball-2-el-viejo-stadium.json) |
 | Super Mega Baseball 2: Red Rock Park | 171907 | [171907-super-mega-baseball-2-red-rock-park.json](./171907-super-mega-baseball-2-red-rock-park.json) |
