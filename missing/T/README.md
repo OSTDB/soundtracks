@@ -19045,7 +19045,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tennis | 247173 | [247173-tiny-tennis.json](./247173-tiny-tennis.json) |
 | Tiny Terraces | 311476 | [311476-tiny-terraces.json](./311476-tiny-terraces.json) |
 | Tiny Terrariums | 244629 | [244629-tiny-terrariums.json](./244629-tiny-terrariums.json) |
-| Tiny Terry's Turbo Trip | 253106 | [253106-tiny-terrys-turbo-trip.json](./253106-tiny-terrys-turbo-trip.json) |
 | Tiny Thor | 28295 | [28295-tiny-thor.json](./28295-tiny-thor.json) |
 | Tiny Tied | 244843 | [244843-tiny-tied.json](./244843-tiny-tied.json) |
 | Tiny Tim | 312272 | [312272-tiny-tim.json](./312272-tiny-tim.json) |
