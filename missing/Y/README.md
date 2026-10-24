@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yie Ar Kung-Fu | 239171 | [239171-yie-ar-kung-fu.json](./239171-yie-ar-kung-fu.json) |
 | Yield! Fall of Rome | 305425 | [305425-yield-fall-of-rome.json](./305425-yield-fall-of-rome.json) |
 | Yihongyuan | 236947 | [236947-yihongyuan.json](./236947-yihongyuan.json) |
+| YIIK: A Postmodern RPG | 30206 | [30206-yiik-a-postmodern-rpg.json](./30206-yiik-a-postmodern-rpg.json) |
 | YIIK: I.V | 228310 | [228310-yiik-i-v.json](./228310-yiik-i-v.json) |
 | Yiki Action RPG | 117692 | [117692-yiki-action-rpg.json](./117692-yiki-action-rpg.json) |
 | Yin Yang | 160091 | [160091-yin-yang.json](./160091-yin-yang.json) |
@@ -703,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomas | 264987 | [264987-yomas.json](./264987-yomas.json) |
 | Yomawari: Lost in the Dark | 203885 | [203885-yomawari-lost-in-the-dark.json](./203885-yomawari-lost-in-the-dark.json) |
 | Yomawari: Lost in the Dark - Deluxe Edition | 203095 | [203095-yomawari-lost-in-the-dark-deluxe-edition.json](./203095-yomawari-lost-in-the-dark-deluxe-edition.json) |
+| Yomawari: Midnight Shadows | 28289 | [28289-yomawari-midnight-shadows.json](./28289-yomawari-midnight-shadows.json) |
 | Yomawari: Midnight Shadows - Limited Edition | 167050 | [167050-yomawari-midnight-shadows-limited-edition.json](./167050-yomawari-midnight-shadows-limited-edition.json) |
 | Yomawari: Night Alone | 11589 | [11589-yomawari-night-alone.json](./11589-yomawari-night-alone.json) |
 | Yomawari: Night Alone - Digital Pitch Dark Edition | 52105 | [52105-yomawari-night-alone-digital-pitch-dark-edition.json](./52105-yomawari-night-alone-digital-pitch-dark-edition.json) |
