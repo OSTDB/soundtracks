@@ -8301,6 +8301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CliveWareGold | 396008 | [396008-clivewaregold.json](./396008-clivewaregold.json) |
 | Clix | 97990 | [97990-clix.json](./97990-clix.json) |
 | Cloacaphobia | 285395 | [285395-cloacaphobia.json](./285395-cloacaphobia.json) |
+| Cloak & Dagger | 24632 | [24632-cloak-and-dagger.json](./24632-cloak-and-dagger.json) |
 | Cloak & Dagger: Shadow Operations | 255576 | [255576-cloak-and-dagger-shadow-operations.json](./255576-cloak-and-dagger-shadow-operations.json) |
 | Cloak And Coin | 365810 | [365810-cloak-and-coin.json](./365810-cloak-and-coin.json) |
 | Cloak Hero | 258494 | [258494-cloak-hero.json](./258494-cloak-hero.json) |
@@ -10238,6 +10239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: Rivals | 103274 | [103274-command-and-conquer-rivals.json](./103274-command-and-conquer-rivals.json) |
 | Command & Conquer: Sole Survivor | 664 | [664-command-and-conquer-sole-survivor.json](./664-command-and-conquer-sole-survivor.json) |
 | Command & Conquer: The Covert Operations | 663 | [663-command-and-conquer-the-covert-operations.json](./663-command-and-conquer-the-covert-operations.json) |
+| Command & Conquer: The Ultimate Collection | 50885 | [50885-command-and-conquer-the-ultimate-collection.json](./50885-command-and-conquer-the-ultimate-collection.json) |
 | Command & Control 3 | 150976 | [150976-command-and-control-3.json](./150976-command-and-control-3.json) |
 | Command and Destroy | 47887 | [47887-command-and-destroy.json](./47887-command-and-destroy.json) |
 | Command Ant Conquer | 176357 | [176357-command-ant-conquer.json](./176357-command-ant-conquer.json) |
