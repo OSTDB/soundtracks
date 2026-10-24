@@ -5050,6 +5050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Kidd in Mushroom World | 413221 | [413221-alex-kidd-in-mushroom-world.json](./413221-alex-kidd-in-mushroom-world.json) |
 | Alex Kidd in Pico World | 279605 | [279605-alex-kidd-in-pico-world.json](./279605-alex-kidd-in-pico-world.json) |
 | Alex Kidd in Radaxian Rumble | 173107 | [173107-alex-kidd-in-radaxian-rumble.json](./173107-alex-kidd-in-radaxian-rumble.json) |
+| Alex Kidd in Shinobi World | 45670 | [45670-alex-kidd-in-shinobi-world.json](./45670-alex-kidd-in-shinobi-world.json) |
 | Alex Kidd in the Enchanted Castle | 3217 | [3217-alex-kidd-in-the-enchanted-castle.json](./3217-alex-kidd-in-the-enchanted-castle.json) |
 | Alex Kidd: BMX Trial | 37174 | [37174-alex-kidd-bmx-trial.json](./37174-alex-kidd-bmx-trial.json) |
 | Alex Kidd: Fall of Radaxian | 173113 | [173113-alex-kidd-fall-of-radaxian.json](./173113-alex-kidd-fall-of-radaxian.json) |
@@ -5524,6 +5525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien vs Predator | 8477 | [8477-alien-vs-predator.json](./8477-alien-vs-predator.json) |
 | Alien vs Predator: The Last of His Clan | 48965 | [48965-alien-vs-predator-the-last-of-his-clan.json](./48965-alien-vs-predator-the-last-of-his-clan.json) |
 | Alien vs. Predator | 227688 | [227688-alien-vs-predator.json](./227688-alien-vs-predator.json) |
+| Alien vs. Predator | 82019 | [82019-alien-vs-predator.json](./82019-alien-vs-predator.json) |
 | Alien Wall | 169152 | [169152-alien-wall.json](./169152-alien-wall.json) |
 | Alien War | 213802 | [213802-alien-war.json](./213802-alien-war.json) |
 | Alien War Girl | 111072 | [111072-alien-war-girl.json](./111072-alien-war-girl.json) |
@@ -10174,6 +10176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Nano Sonic | 202868 | [202868-arcade-nano-sonic.json](./202868-arcade-nano-sonic.json) |
 | Arcade Nano Virtua Fighter 2 | 202869 | [202869-arcade-nano-virtua-fighter-2.json](./202869-arcade-nano-virtua-fighter-2.json) |
 | Arcade Pack | 399614 | [399614-arcade-pack.json](./399614-arcade-pack.json) |
+| Arcade Paradise | 145319 | [145319-arcade-paradise.json](./145319-arcade-paradise.json) |
 | Arcade Paradise Coin-Op Pack 1 | 231217 | [231217-arcade-paradise-coin-op-pack-1.json](./231217-arcade-paradise-coin-op-pack-1.json) |
 | Arcade Paradise VR | 279379 | [279379-arcade-paradise-vr.json](./279379-arcade-paradise-vr.json) |
 | Arcade Paradise: CyberDance EuroMix | 224999 | [224999-arcade-paradise-cyberdance-euromix.json](./224999-arcade-paradise-cyberdance-euromix.json) |
@@ -12438,6 +12441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterfel | 360763 | [360763-asterfel.json](./360763-asterfel.json) |
 | Asteria | 17536 | [17536-asteria.json](./17536-asteria.json) |
 | Asteria: Fate of the Fallen | 411530 | [411530-asteria-fate-of-the-fallen.json](./411530-asteria-fate-of-the-fallen.json) |
+| Asterigos: Curse of the Stars | 169994 | [169994-asterigos-curse-of-the-stars.json](./169994-asterigos-curse-of-the-stars.json) |
 | Asterigos: Curse of the Stars - Call of the Paragons | 224114 | [224114-asterigos-curse-of-the-stars-call-of-the-paragons.json](./224114-asterigos-curse-of-the-stars-call-of-the-paragons.json) |
 | Asterigos: Curse of the Stars - Collectors Edition | 283589 | [283589-asterigos-curse-of-the-stars-collectors-edition.json](./283589-asterigos-curse-of-the-stars-collectors-edition.json) |
 | Asterika: Phantom Rose Refrain | 342606 | [342606-asterika-phantom-rose-refrain.json](./342606-asterika-phantom-rose-refrain.json) |
