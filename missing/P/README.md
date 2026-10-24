@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painkiller | 828 | [828-painkiller.json](./828-painkiller.json) |
 | Painkiller Pandemonium | 54262 | [54262-painkiller-pandemonium.json](./54262-painkiller-pandemonium.json) |
 | Painkiller Universe | 54261 | [54261-painkiller-universe.json](./54261-painkiller-universe.json) |
+| Painkiller: Hell & Damnation | 1789 | [1789-painkiller-hell-and-damnation.json](./1789-painkiller-hell-and-damnation.json) |
 | Painkiller: Hell & Damnation: Collector's Edition | 25046 | [25046-painkiller-hell-and-damnation-collectors-edition.json](./25046-painkiller-hell-and-damnation-collectors-edition.json) |
 | Painkiller: Hell Wars | 20755 | [20755-painkiller-hell-wars.json](./20755-painkiller-hell-wars.json) |
 | Painkiller: Night Watch Pack | 374737 | [374737-painkiller-night-watch-pack.json](./374737-painkiller-night-watch-pack.json) |
@@ -3760,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5 Tactica: DLC All in One | 277311 | [277311-persona-5-tactica-dlc-all-in-one.json](./277311-persona-5-tactica-dlc-all-in-one.json) |
 | Persona 5 Tactica: Launch Edition | 256154 | [256154-persona-5-tactica-launch-edition.json](./256154-persona-5-tactica-launch-edition.json) |
 | Persona 5: 20th Anniversary Edition | 136749 | [136749-persona-5-20th-anniversary-edition.json](./136749-persona-5-20th-anniversary-edition.json) |
+| Persona 5: Dancing in Starlight | 54218 | [54218-persona-5-dancing-in-starlight.json](./54218-persona-5-dancing-in-starlight.json) |
 | Persona 5: Dancing in Starlight - Atlus Selection Set | 362255 | [362255-persona-5-dancing-in-starlight-atlus-selection-set.json](./362255-persona-5-dancing-in-starlight-atlus-selection-set.json) |
 | Persona 5: Dancing in Starlight - Catherine Set | 362253 | [362253-persona-5-dancing-in-starlight-catherine-set.json](./362253-persona-5-dancing-in-starlight-catherine-set.json) |
 | Persona 5: Dancing in Starlight - Costume Season Pass | 362256 | [362256-persona-5-dancing-in-starlight-costume-season-pass.json](./362256-persona-5-dancing-in-starlight-costume-season-pass.json) |
@@ -7707,6 +7709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plate Spinning | 202006 | [202006-plate-spinning.json](./202006-plate-spinning.json) |
 | Plateman | 240776 | [240776-plateman.json](./240776-plateman.json) |
 | Plates | 32188 | [32188-plates.json](./32188-plates.json) |
+| PlateUp! | 151353 | [151353-plateup.json](./151353-plateup.json) |
 | PlateUp!: Collector's Edition | 247191 | [247191-plateup-collectors-edition.json](./247191-plateup-collectors-edition.json) |
 | Platform | 316717 | [316717-platform.json](./316717-platform.json) |
 | Platform 10 | 271384 | [271384-platform-10.json](./271384-platform-10.json) |
