@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet Another Vanilla SMA2 Hack | 342622 | [342622-yet-another-vanilla-sma2-hack.json](./342622-yet-another-vanilla-sma2-hack.json) |
 | Yet Another World | 34190 | [34190-yet-another-world.json](./34190-yet-another-world.json) |
 | Yet Another Zombie Defense | 9201 | [9201-yet-another-zombie-defense.json](./9201-yet-another-zombie-defense.json) |
+| Yet Another Zombie Defense HD | 55468 | [55468-yet-another-zombie-defense-hd.json](./55468-yet-another-zombie-defense-hd.json) |
 | Yet Another Zombie Survivors | 224692 | [224692-yet-another-zombie-survivors.json](./224692-yet-another-zombie-survivors.json) |
 | Yet, I Despise Him | 140543 | [140543-yet-i-despise-him.json](./140543-yet-i-despise-him.json) |
 | Yeth | 201832 | [201832-yeth.json](./201832-yeth.json) |
