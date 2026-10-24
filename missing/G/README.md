@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gabang: Ultimate | 322444 | [322444-gabang-ultimate.json](./322444-gabang-ultimate.json) |
 | Gabbuchi | 114429 | [114429-gabbuchi.json](./114429-gabbuchi.json) |
 | Gabby's Dollhouse: Ready to Party | 355923 | [355923-gabbys-dollhouse-ready-to-party.json](./355923-gabbys-dollhouse-ready-to-party.json) |
+| Gabe Newell Simulator | 13618 | [13618-gabe-newell-simulator.json](./13618-gabe-newell-simulator.json) |
 | Gaben Clicker | 54468 | [54468-gaben-clicker.json](./54468-gaben-clicker.json) |
 | GabeN: The Final Decision | 34448 | [34448-gaben-the-final-decision.json](./34448-gaben-the-final-decision.json) |
 | Gabenwood 2: 99 Hidden Euros | 296513 | [296513-gabenwood-2-99-hidden-euros.json](./296513-gabenwood-2-99-hidden-euros.json) |
@@ -1857,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gateway to Karos | 13720 | [13720-gateway-to-karos.json](./13720-gateway-to-karos.json) |
 | Gateway to the Kulikovo Field: The Battle of Yepifan | 276204 | [276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json](./276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json) |
 | Gateway to the Savage Frontier | 12113 | [12113-gateway-to-the-savage-frontier.json](./12113-gateway-to-the-savage-frontier.json) |
+| Gateways | 13662 | [13662-gateways.json](./13662-gateways.json) |
 | Gateworlds | 270155 | [270155-gateworlds.json](./270155-gateworlds.json) |
 | Gather CCG | 401543 | [401543-gather-ccg.json](./401543-gather-ccg.json) |
 | Gather the Gems! | 100013 | [100013-gather-the-gems.json](./100013-gather-the-gems.json) |
@@ -7423,6 +7425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridpaper | 383199 | [383199-gridpaper.json](./383199-gridpaper.json) |
 | GridRoad | 269761 | [269761-gridroad.json](./269761-gridroad.json) |
 | Gridrunner | 310566 | [310566-gridrunner.json](./310566-gridrunner.json) |
+| Gridrunner Revolution | 14947 | [14947-gridrunner-revolution.json](./14947-gridrunner-revolution.json) |
 | Gridrunner++ | 61033 | [61033-gridrunner.json](./61033-gridrunner.json) |
 | Grids | 243731 | [243731-grids.json](./243731-grids.json) |
 | Grids of Thermometers | 296076 | [296076-grids-of-thermometers.json](./296076-grids-of-thermometers.json) |
