@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Craft | 130897 | [130897-mage-craft.json](./130897-mage-craft.json) |
 | Mage Fight | 420484 | [420484-mage-fight.json](./420484-mage-fight.json) |
 | Mage Fort | 97236 | [97236-mage-fort.json](./97236-mage-fort.json) |
+| Mage Gauntlet | 38736 | [38736-mage-gauntlet.json](./38736-mage-gauntlet.json) |
 | Mage Guard: The Last Grimoire | 69477 | [69477-mage-guard-the-last-grimoire.json](./69477-mage-guard-the-last-grimoire.json) |
 | Mage Guild | 285341 | [285341-mage-guild.json](./285341-mage-guild.json) |
 | Mage Hunt: Spellshifter | 295279 | [295279-mage-hunt-spellshifter.json](./295279-mage-hunt-spellshifter.json) |
@@ -10581,6 +10582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minnie's Fruit Fiasco | 246514 | [246514-minnies-fruit-fiasco.json](./246514-minnies-fruit-fiasco.json) |
 | Minnie's Pearls | 246515 | [246515-minnies-pearls.json](./246515-minnies-pearls.json) |
 | Mino Monsters | 176697 | [176697-mino-monsters.json](./176697-mino-monsters.json) |
+| Mino Monsters 2: Evolution | 38735 | [38735-mino-monsters-2-evolution.json](./38735-mino-monsters-2-evolution.json) |
 | Mino Saga | 81040 | [81040-mino-saga.json](./81040-mino-saga.json) |
 | Minoes | 133250 | [133250-minoes.json](./133250-minoes.json) |
 | Minor Deity | 371478 | [371478-minor-deity.json](./371478-minor-deity.json) |
