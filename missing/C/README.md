@@ -7313,6 +7313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen Witch | 184650 | [184650-citizen-witch.json](./184650-citizen-witch.json) |
 | Citizen Zein | 278738 | [278738-citizen-zein.json](./278738-citizen-zein.json) |
 | Citizens of Earth | 8598 | [8598-citizens-of-earth.json](./8598-citizens-of-earth.json) |
+| Citizens of Space | 119251 | [119251-citizens-of-space.json](./119251-citizens-of-space.json) |
 | Citizens Unite!: Earth x Space | 139994 | [139994-citizens-unite-earth-x-space.json](./139994-citizens-unite-earth-x-space.json) |
 | Citizens: On Mars | 249037 | [249037-citizens-on-mars.json](./249037-citizens-on-mars.json) |
 | Citres | 274515 | [274515-citres.json](./274515-citres.json) |
@@ -8356,6 +8357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Zero: Shuuen no Ichibyou - ExTime | 202592 | [202592-clock-zero-shuuen-no-ichibyou-extime.json](./202592-clock-zero-shuuen-no-ichibyou-extime.json) |
 | Clock Zero: Shuuen no Ichibyou Portable | 202591 | [202591-clock-zero-shuuen-no-ichibyou-portable.json](./202591-clock-zero-shuuen-no-ichibyou-portable.json) |
 | Clocked | 284827 | [284827-clocked.json](./284827-clocked.json) |
+| Clocker | 110816 | [110816-clocker.json](./110816-clocker.json) |
 | Clockfall | 391888 | [391888-clockfall.json](./391888-clockfall.json) |
 | Clocknockers | 190393 | [190393-clocknockers.json](./190393-clocknockers.json) |
 | ClockOut | 296716 | [296716-clockout.json](./296716-clockout.json) |
@@ -10320,6 +10322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command? Dungeon World: Twine Version | 184423 | [184423-command-dungeon-world-twine-version.json](./184423-command-dungeon-world-twine-version.json) |
 | Commandeer Armament | 98309 | [98309-commandeer-armament.json](./98309-commandeer-armament.json) |
 | Commander - World 1 | 130829 | [130829-commander-world-1.json](./130829-commander-world-1.json) |
+| Commander '85 | 119100 | [119100-commander-85.json](./119100-commander-85.json) |
 | Commander Babes | 127930 | [127930-commander-babes.json](./127930-commander-babes.json) |
 | Commander Blood | 50473 | [50473-commander-blood.json](./50473-commander-blood.json) |
 | Commander Bug Wars | 290860 | [290860-commander-bug-wars.json](./290860-commander-bug-wars.json) |
