@@ -4386,6 +4386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room: Reality | 51455 | [51455-escape-room-reality.json](./51455-escape-room-reality.json) |
 | Escape Room: Romy Project | 264766 | [264766-escape-room-romy-project.json](./264766-escape-room-romy-project.json) |
 | Escape Room: The Secret Portal Puzzle | 415389 | [415389-escape-room-the-secret-portal-puzzle.json](./415389-escape-room-the-secret-portal-puzzle.json) |
+| Escape Room: The Sick Colleague | 142567 | [142567-escape-room-the-sick-colleague.json](./142567-escape-room-the-sick-colleague.json) |
 | Escape Room: The Sorcerer's Curse | 190030 | [190030-escape-room-the-sorcerers-curse.json](./190030-escape-room-the-sorcerers-curse.json) |
 | Escape Room: Uncharted Myth | 232327 | [232327-escape-room-uncharted-myth.json](./232327-escape-room-uncharted-myth.json) |
 | Escape Roomble | 346705 | [346705-escape-roomble.json](./346705-escape-roomble.json) |
