@@ -5791,6 +5791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WonderKing | 385831 | [385831-wonderking.json](./385831-wonderking.json) |
 | WonderKing 2 | 62636 | [62636-wonderking-2.json](./62636-wonderking-2.json) |
 | WonderKing Online | 79100 | [79100-wonderking-online.json](./79100-wonderking-online.json) |
+| Wonderland | 2282 | [2282-wonderland.json](./2282-wonderland.json) |
 | Wonderland | 354010 | [354010-wonderland.json](./354010-wonderland.json) |
 | Wonderland | 377143 | [377143-wonderland.json](./377143-wonderland.json) |
 | Wonderland | 95460 | [95460-wonderland.json](./95460-wonderland.json) |
