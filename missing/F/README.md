@@ -4270,6 +4270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Redoubt: Zombie Apocalypse | 329590 | [329590-final-redoubt-zombie-apocalypse.json](./329590-final-redoubt-zombie-apocalypse.json) |
 | Final Remedy | 236778 | [236778-final-remedy.json](./236778-final-remedy.json) |
 | Final Response | 323987 | [323987-final-response.json](./323987-final-response.json) |
+| Final Rest | 29496 | [29496-final-rest.json](./29496-final-rest.json) |
 | Final Rites | 405685 | [405685-final-rites.json](./405685-final-rites.json) |
 | Final Round | 398954 | [398954-final-round.json](./398954-final-round.json) |
 | Final Round Tennis | 246328 | [246328-final-round-tennis.json](./246328-final-round-tennis.json) |
@@ -10784,6 +10785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fur and Void | 337645 | [337645-fur-and-void.json](./337645-fur-and-void.json) |
 | Fur Fighters | 14700 | [14700-fur-fighters.json](./14700-fur-fighters.json) |
 | Fur Fighters: Viggo on Glass | 299539 | [299539-fur-fighters-viggo-on-glass.json](./299539-fur-fighters-viggo-on-glass.json) |
+| Fur Fun | 29544 | [29544-fur-fun.json](./29544-fur-fun.json) |
 | Fur Squadron | 226405 | [226405-fur-squadron.json](./226405-fur-squadron.json) |
 | Fur Squadron Phoenix | 275562 | [275562-fur-squadron-phoenix.json](./275562-fur-squadron-phoenix.json) |
 | Fura-fura Bouken Flan-chan | 205069 | [205069-fura-fura-bouken-flan-chan.json](./205069-fura-fura-bouken-flan-chan.json) |
