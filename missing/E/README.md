@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eberouge | 97318 | [97318-eberouge.json](./97318-eberouge.json) |
 | Eberouge 2 | 171968 | [171968-eberouge-2.json](./171968-eberouge-2.json) |
 | Eberouge Special: Koi to Mahou no Gakuen Seikatsu | 171967 | [171967-eberouge-special-koi-to-mahou-no-gakuen-seikatsu.json](./171967-eberouge-special-koi-to-mahou-no-gakuen-seikatsu.json) |
+| EbiKore+ Amagami | 8636 | [8636-ebikore-amagami.json](./8636-ebikore-amagami.json) |
 | EbiTapes | 238731 | [238731-ebitapes.json](./238731-ebitapes.json) |
 | Ebola | 119556 | [119556-ebola.json](./119556-ebola.json) |
 | Ebola 3 | 216312 | [216312-ebola-3.json](./216312-ebola-3.json) |
@@ -1828,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Girls | 118113 | [118113-elemental-girls.json](./118113-elemental-girls.json) |
 | Elemental Heroes | 33775 | [33775-elemental-heroes.json](./33775-elemental-heroes.json) |
 | Elemental Heroes: Blue Fighter 20th Level Set | 170439 | [170439-elemental-heroes-blue-fighter-20th-level-set.json](./170439-elemental-heroes-blue-fighter-20th-level-set.json) |
+| Elemental Kingdom | 8612 | [8612-elemental-kingdom.json](./8612-elemental-kingdom.json) |
 | Elemental Knights R: Dark Arthur Premium Pack | 402925 | [402925-elemental-knights-r-dark-arthur-premium-pack.json](./402925-elemental-knights-r-dark-arthur-premium-pack.json) |
 | Elemental Labyrinth | 346622 | [346622-elemental-labyrinth.json](./346622-elemental-labyrinth.json) |
 | Elemental Land | 197097 | [197097-elemental-land.json](./197097-elemental-land.json) |
@@ -4644,6 +4646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN College Hoops 2K5 | 5824 | [5824-espn-college-hoops-2k5.json](./5824-espn-college-hoops-2k5.json) |
 | ESPN Downtown Dash | 402833 | [402833-espn-downtown-dash.json](./402833-espn-downtown-dash.json) |
 | ESPN Extreme Games | 20587 | [20587-espn-extreme-games.json](./20587-espn-extreme-games.json) |
+| ESPN Final Round Golf 2002 | 6397 | [6397-espn-final-round-golf-2002.json](./6397-espn-final-round-golf-2002.json) |
 | ESPN Golf: Lower Your Score with Tom Kite - Mental Messages | 38849 | [38849-espn-golf-lower-your-score-with-tom-kite-mental-messages.json](./38849-espn-golf-lower-your-score-with-tom-kite-mental-messages.json) |
 | ESPN Great Outdoor Games: Bass 2002 | 49302 | [49302-espn-great-outdoor-games-bass-2002.json](./49302-espn-great-outdoor-games-bass-2002.json) |
 | ESPN International Track & Field | 71419 | [71419-espn-international-track-and-field.json](./71419-espn-international-track-and-field.json) |
@@ -4676,6 +4679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN Sunday Night NFL | 5382 | [5382-espn-sunday-night-nfl.json](./5382-espn-sunday-night-nfl.json) |
 | ESPN Winter X-Games Snowboarding 2002 | 49206 | [49206-espn-winter-x-games-snowboarding-2002.json](./49206-espn-winter-x-games-snowboarding-2002.json) |
 | ESPN X Games Skateboarding | 248752 | [248752-espn-x-games-skateboarding.json](./248752-espn-x-games-skateboarding.json) |
+| ESPN X Games Skateboarding | 6398 | [6398-espn-x-games-skateboarding.json](./6398-espn-x-games-skateboarding.json) |
 | ESPNU College Town | 93571 | [93571-espnu-college-town.json](./93571-espnu-college-town.json) |
 | Esport Club Tycoon | 197370 | [197370-esport-club-tycoon.json](./197370-esport-club-tycoon.json) |
 | ESport Manager | 81150 | [81150-esport-manager.json](./81150-esport-manager.json) |
@@ -5397,6 +5401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergarden | 269740 | [269740-evergarden.json](./269740-evergarden.json) |
 | Evergarden | 398021 | [398021-evergarden.json](./398021-evergarden.json) |
 | Evergate: Ki's Awakening | 167593 | [167593-evergate-kis-awakening.json](./167593-evergate-kis-awakening.json) |
+| EverGirl | 6399 | [6399-evergirl.json](./6399-evergirl.json) |
 | Everglory | 163911 | [163911-everglory.json](./163911-everglory.json) |
 | Evergreen | 142995 | [142995-evergreen.json](./142995-evergreen.json) |
 | Evergreen | 59933 | [59933-evergreen.json](./59933-evergreen.json) |
@@ -6531,6 +6536,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Offroad Simulator | 243571 | [243571-extreme-offroad-simulator.json](./243571-extreme-offroad-simulator.json) |
 | Extreme Offrоad Cars 2 | 181642 | [181642-extreme-offr-ad-cars-2.json](./181642-extreme-offr-ad-cars-2.json) |
 | Extreme Overtake | 323528 | [323528-extreme-overtake.json](./323528-extreme-overtake.json) |
+| Extreme Paintbrawl | 8539 | [8539-extreme-paintbrawl.json](./8539-extreme-paintbrawl.json) |
+| Extreme Paintbrawl 2 | 8540 | [8540-extreme-paintbrawl-2.json](./8540-extreme-paintbrawl-2.json) |
+| Extreme Paintbrawl 4 | 8542 | [8542-extreme-paintbrawl-4.json](./8542-extreme-paintbrawl-4.json) |
 | Extreme Painting Puzzle | 110504 | [110504-extreme-painting-puzzle.json](./110504-extreme-painting-puzzle.json) |
 | Extreme Pamplona | 139232 | [139232-extreme-pamplona.json](./139232-extreme-pamplona.json) |
 | Extreme Peg Solitaire | 149375 | [149375-extreme-peg-solitaire.json](./149375-extreme-peg-solitaire.json) |
