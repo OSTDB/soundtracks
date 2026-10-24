@@ -3119,6 +3119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Party Nyanbaba | 187846 | [187846-ghost-party-nyanbaba.json](./187846-ghost-party-nyanbaba.json) |
 | Ghost Party: Nemuri-hime | 308873 | [308873-ghost-party-nemuri-hime.json](./308873-ghost-party-nemuri-hime.json) |
 | Ghost Patrol VR | 135117 | [135117-ghost-patrol-vr.json](./135117-ghost-patrol-vr.json) |
+| Ghost Pilots | 39734 | [39734-ghost-pilots.json](./39734-ghost-pilots.json) |
 | Ghost Platform | 404371 | [404371-ghost-platform.json](./404371-ghost-platform.json) |
 | Ghost Platoon | 84060 | [84060-ghost-platoon.json](./84060-ghost-platoon.json) |
 | Ghost Puncher | 211171 | [211171-ghost-puncher.json](./211171-ghost-puncher.json) |
@@ -8303,6 +8304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars 2: Janthir Wilds | 304360 | [304360-guild-wars-2-janthir-wilds.json](./304360-guild-wars-2-janthir-wilds.json) |
 | Guild Wars 2: Secrets of the Obscure | 255088 | [255088-guild-wars-2-secrets-of-the-obscure.json](./255088-guild-wars-2-secrets-of-the-obscure.json) |
 | Guild Wars 3 | 404694 | [404694-guild-wars-3.json](./404694-guild-wars-3.json) |
+| Guild Wars Trilogy | 27843 | [27843-guild-wars-trilogy.json](./27843-guild-wars-trilogy.json) |
 | Guild Wars: Bonus Mission Pack | 97103 | [97103-guild-wars-bonus-mission-pack.json](./97103-guild-wars-bonus-mission-pack.json) |
 | Guild Wars: Collector's Edition | 142287 | [142287-guild-wars-collectors-edition.json](./142287-guild-wars-collectors-edition.json) |
 | Guild Wars: Factions | 739 | [739-guild-wars-factions.json](./739-guild-wars-factions.json) |
