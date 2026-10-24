@@ -9309,6 +9309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hulesverd | 372207 | [372207-hulesverd.json](./372207-hulesverd.json) |
 | Huli the Mage | 111466 | [111466-huli-the-mage.json](./111466-huli-the-mage.json) |
 | Hulk | 245463 | [245463-hulk.json](./245463-hulk.json) |
+| Hulk | 3949 | [3949-hulk.json](./3949-hulk.json) |
 | Hulk Hogan's Main Event | 20163 | [20163-hulk-hogans-main-event.json](./20163-hulk-hogans-main-event.json) |
 | Hull Rupture | 399255 | [399255-hull-rupture.json](./399255-hull-rupture.json) |
 | HullBreach: Uncloaked | 85173 | [85173-hullbreach-uncloaked.json](./85173-hullbreach-uncloaked.json) |
