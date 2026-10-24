@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Revolution Presents: American Idol | 21382 | [21382-karaoke-revolution-presents-american-idol.json](./21382-karaoke-revolution-presents-american-idol.json) |
 | Karaoke Revolution Presents: American Idol Encore | 21350 | [21350-karaoke-revolution-presents-american-idol-encore.json](./21350-karaoke-revolution-presents-american-idol-encore.json) |
 | Karaoke Revolution Presents: American Idol Encore 2 | 47432 | [47432-karaoke-revolution-presents-american-idol-encore-2.json](./47432-karaoke-revolution-presents-american-idol-encore-2.json) |
+| Karaoke Revolution Volume 2 | 23552 | [23552-karaoke-revolution-volume-2.json](./23552-karaoke-revolution-volume-2.json) |
 | Karaoke Revolution: Glee | 50618 | [50618-karaoke-revolution-glee.json](./50618-karaoke-revolution-glee.json) |
 | Karaoke Revolution: J-POP Best vol.1 | 71469 | [71469-karaoke-revolution-j-pop-best-vol-1.json](./71469-karaoke-revolution-j-pop-best-vol-1.json) |
 | Karaoke Revolution: J-POP Best vol.2 | 73233 | [73233-karaoke-revolution-j-pop-best-vol-2.json](./73233-karaoke-revolution-j-pop-best-vol-2.json) |
@@ -911,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kasiori | 146821 | [146821-kasiori.json](./146821-kasiori.json) |
 | Kaskade | 351782 | [351782-kaskade.json](./351782-kaskade.json) |
 | Kaspar i Nudådalen | 297547 | [297547-kaspar-i-nudadalen.json](./297547-kaspar-i-nudadalen.json) |
+| Kasparov Chessmate | 23528 | [23528-kasparov-chessmate.json](./23528-kasparov-chessmate.json) |
 | Kasparov's Gambit | 47114 | [47114-kasparovs-gambit.json](./47114-kasparovs-gambit.json) |
 | Kasplat | 258712 | [258712-kasplat.json](./258712-kasplat.json) |
 | Kassei: Road Cycling 2025 | 357207 | [357207-kassei-road-cycling-2025.json](./357207-kassei-road-cycling-2025.json) |
@@ -1675,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khumba: The Game | 61116 | [61116-khumba-the-game.json](./61116-khumba-the-game.json) |
 | Ki_swpr | 184586 | [184586-ki-swpr.json](./184586-ki-swpr.json) |
 | Ki(n)ds | 27902 | [27902-ki-n-ds.json](./27902-ki-n-ds.json) |
+| Kiai Resonance | 35487 | [35487-kiai-resonance.json](./35487-kiai-resonance.json) |
 | Kiaidan 00 | 42011 | [42011-kiaidan-00.json](./42011-kiaidan-00.json) |
 | Kiara and My Ara Ara Adventure | 156149 | [156149-kiara-and-my-ara-ara-adventure.json](./156149-kiara-and-my-ara-ara-adventure.json) |
 | Kiara and the Case of the Missing Chocolates | 181844 | [181844-kiara-and-the-case-of-the-missing-chocolates.json](./181844-kiara-and-the-case-of-the-missing-chocolates.json) |
@@ -1762,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kickster Online Street Soccer | 72654 | [72654-kickster-online-street-soccer.json](./72654-kickster-online-street-soccer.json) |
 | KickUp King | 245325 | [245325-kickup-king.json](./245325-kickup-king.json) |
 | Kid 4 $29.99 | 141871 | [141871-kid-4-29-99.json](./141871-kid-4-29-99.json) |
+| Kid Adventures: Sky Captain | 23644 | [23644-kid-adventures-sky-captain.json](./23644-kid-adventures-sky-captain.json) |
 | Kid Ball Adventure | 212274 | [212274-kid-ball-adventure.json](./212274-kid-ball-adventure.json) |
 | Kid Blocks | 340971 | [340971-kid-blocks.json](./340971-kid-blocks.json) |
 | Kid Bludd's Treacherous Tower | 177256 | [177256-kid-bludds-treacherous-tower.json](./177256-kid-bludds-treacherous-tower.json) |
@@ -1924,6 +1928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidsongs: Musical Mystery | 197865 | [197865-kidsongs-musical-mystery.json](./197865-kidsongs-musical-mystery.json) |
 | Kidvio | 187840 | [187840-kidvio.json](./187840-kidvio.json) |
 | Kidz | 105088 | [105088-kidz.json](./105088-kidz.json) |
+| Kidz Bop Dance Party: The Video Game | 23668 | [23668-kidz-bop-dance-party-the-video-game.json](./23668-kidz-bop-dance-party-the-video-game.json) |
 | Kidz Bop Dance Party! | 208325 | [208325-kidz-bop-dance-party.json](./208325-kidz-bop-dance-party.json) |
 | Kidz Sports Basketball | 4954 | [4954-kidz-sports-basketball.json](./4954-kidz-sports-basketball.json) |
 | Kidz Sports International Football | 4957 | [4957-kidz-sports-international-football.json](./4957-kidz-sports-international-football.json) |
@@ -3883,6 +3888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout Kings | 249156 | [249156-knockout-kings.json](./249156-knockout-kings.json) |
 | Knockout Kings 2000 | 10687 | [10687-knockout-kings-2000.json](./10687-knockout-kings-2000.json) |
 | Knockout Kings 2001 | 44747 | [44747-knockout-kings-2001.json](./44747-knockout-kings-2001.json) |
+| Knockout Kings 2002 | 23462 | [23462-knockout-kings-2002.json](./23462-knockout-kings-2002.json) |
 | Knockout Kings 2003 | 50571 | [50571-knockout-kings-2003.json](./50571-knockout-kings-2003.json) |
 | Knockout League | 32859 | [32859-knockout-league.json](./32859-knockout-league.json) |
 | Knockout Master | 258938 | [258938-knockout-master.json](./258938-knockout-master.json) |
@@ -4069,6 +4075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi x Mitsu: Senba Shizuku to Saboten no Tegami | 221248 | [221248-koi-x-mitsu-senba-shizuku-to-saboten-no-tegami.json](./221248-koi-x-mitsu-senba-shizuku-to-saboten-no-tegami.json) |
 | Koi x Mitsu: Yaeneri Saki to Akai Ito no Ouji-sama | 221249 | [221249-koi-x-mitsu-yaeneri-saki-to-akai-ito-no-ouji-sama.json](./221249-koi-x-mitsu-yaeneri-saki-to-akai-ito-no-ouji-sama.json) |
 | Koi Zen: Opposite Colors | 253306 | [253306-koi-zen-opposite-colors.json](./253306-koi-zen-opposite-colors.json) |
+| Koi-Koi Japan | 35426 | [35426-koi-koi-japan.json](./35426-koi-koi-japan.json) |
 | Koi-Koi Japan: Hana-Awase Rule | 168065 | [168065-koi-koi-japan-hana-awase-rule.json](./168065-koi-koi-japan-hana-awase-rule.json) |
 | Koi-Koi Japan: Ukiyoe Deluxe Edition | 53261 | [53261-koi-koi-japan-ukiyoe-deluxe-edition.json](./53261-koi-koi-japan-ukiyoe-deluxe-edition.json) |
 | Koi-Koi Japan: Ukiyoe Tours Vol.2 | 168066 | [168066-koi-koi-japan-ukiyoe-tours-vol-2.json](./168066-koi-koi-japan-ukiyoe-tours-vol-2.json) |
