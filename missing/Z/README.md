@@ -1511,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Sokoban for Playdate | 230792 | [230792-zombie-sokoban-for-playdate.json](./230792-zombie-sokoban-for-playdate.json) |
 | Zombie Soldier | 110999 | [110999-zombie-soldier.json](./110999-zombie-soldier.json) |
 | Zombie Solitaire | 9306 | [9306-zombie-solitaire.json](./9306-zombie-solitaire.json) |
+| Zombie Solitaire 2 Chapter 1 | 37007 | [37007-zombie-solitaire-2-chapter-1.json](./37007-zombie-solitaire-2-chapter-1.json) |
 | Zombie Solitaire 2 Chapter 2 | 54828 | [54828-zombie-solitaire-2-chapter-2.json](./54828-zombie-solitaire-2-chapter-2.json) |
 | Zombie Space Shooter II | 228119 | [228119-zombie-space-shooter-ii.json](./228119-zombie-space-shooter-ii.json) |
 | Zombie Spree: The Dawn | 211957 | [211957-zombie-spree-the-dawn.json](./211957-zombie-spree-the-dawn.json) |
