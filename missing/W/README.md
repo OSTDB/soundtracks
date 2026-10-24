@@ -4166,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Growth | 331389 | [331389-wild-growth.json](./331389-wild-growth.json) |
 | Wild Guardians | 120218 | [120218-wild-guardians.json](./120218-wild-guardians.json) |
 | Wild Gun | 160078 | [160078-wild-gun.json](./160078-wild-gun.json) |
+| Wild Gunman | 16980 | [16980-wild-gunman.json](./16980-wild-gunman.json) |
 | Wild Gunman | 4625 | [4625-wild-gunman.json](./4625-wild-gunman.json) |
 | Wild Gunman Remake | 411646 | [411646-wild-gunman-remake.json](./411646-wild-gunman-remake.json) |
 | Wild Gunslinger | 287696 | [287696-wild-gunslinger.json](./287696-wild-gunslinger.json) |
@@ -5663,6 +5664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfstar Adventures in the Inu System | 213405 | [213405-wolfstar-adventures-in-the-inu-system.json](./213405-wolfstar-adventures-in-the-inu-system.json) |
 | Wolfstride | 134952 | [134952-wolfstride.json](./134952-wolfstride.json) |
 | Wolfteam: Reboot | 236760 | [236760-wolfteam-reboot.json](./236760-wolfteam-reboot.json) |
+| WolfWars | 10498 | [10498-wolfwars.json](./10498-wolfwars.json) |
 | Wolfy | 131354 | [131354-wolfy.json](./131354-wolfy.json) |
 | Wolley's Dungeon Adventure | 361872 | [361872-wolleys-dungeon-adventure.json](./361872-wolleys-dungeon-adventure.json) |
 | Wolvenrise | 359349 | [359349-wolvenrise.json](./359349-wolvenrise.json) |
@@ -5868,6 +5870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodboy | 118241 | [118241-woodboy.json](./118241-woodboy.json) |
 | Woodclicker | 101929 | [101929-woodclicker.json](./101929-woodclicker.json) |
 | Woodcutter | 154910 | [154910-woodcutter.json](./154910-woodcutter.json) |
+| Woodcutter Simulator | 10499 | [10499-woodcutter-simulator.json](./10499-woodcutter-simulator.json) |
 | Woodcutter Simulator 2011 | 52132 | [52132-woodcutter-simulator-2011.json](./52132-woodcutter-simulator-2011.json) |
 | Woodcutter Simulator 2012 | 52131 | [52131-woodcutter-simulator-2012.json](./52131-woodcutter-simulator-2012.json) |
 | Woodcutter Simulator 2013 | 16900 | [16900-woodcutter-simulator-2013.json](./16900-woodcutter-simulator-2013.json) |
