@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaforce | 13719 | [13719-galaforce.json](./13719-galaforce.json) |
 | Galaga | 239156 | [239156-galaga.json](./239156-galaga.json) |
 | Galaga | 254287 | [254287-galaga.json](./254287-galaga.json) |
+| Galaga '88 | 15535 | [15535-galaga-88.json](./15535-galaga-88.json) |
 | Galaga '91 | 218364 | [218364-galaga-91.json](./218364-galaga-91.json) |
 | Galaga & Galaxian DX | 280708 | [280708-galaga-and-galaxian-dx.json](./280708-galaga-and-galaxian-dx.json) |
 | Galaga 2000 | 218365 | [218365-galaga-2000.json](./218365-galaga-2000.json) |
@@ -3452,6 +3453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigadyne Voltraid | 413721 | [413721-gigadyne-voltraid.json](./413721-gigadyne-voltraid.json) |
 | Gigant | 212830 | [212830-gigant.json](./212830-gigant.json) |
 | Gigantes Ex Machina | 360052 | [360052-gigantes-ex-machina.json](./360052-gigantes-ex-machina.json) |
+| Gigantic | 11134 | [11134-gigantic.json](./11134-gigantic.json) |
 | Gigantic Army | 10363 | [10363-gigantic-army.json](./10363-gigantic-army.json) |
 | Gigantic Gear | 299729 | [299729-gigantic-gear.json](./299729-gigantic-gear.json) |
 | Gigantic Maidestruction | 401896 | [401896-gigantic-maidestruction.json](./401896-gigantic-maidestruction.json) |
@@ -4878,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GodPey | 84328 | [84328-godpey.json](./84328-godpey.json) |
 | Godproof | 357429 | [357429-godproof.json](./357429-godproof.json) |
 | Godrop | 292290 | [292290-godrop.json](./292290-godrop.json) |
+| Gods | 12118 | [12118-gods.json](./12118-gods.json) |
 | Gods | 142458 | [142458-gods.json](./142458-gods.json) |
 | Gods & Civilization: Ragnarok | 233638 | [233638-gods-and-civilization-ragnarok.json](./233638-gods-and-civilization-ragnarok.json) |
 | Gods & Glory | 114739 | [114739-gods-and-glory.json](./114739-gods-and-glory.json) |
