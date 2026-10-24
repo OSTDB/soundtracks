@@ -2142,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer of Kings | 397941 | [397941-killer-of-kings.json](./397941-killer-of-kings.json) |
 | Killer Pool | 175279 | [175279-killer-pool.json](./175279-killer-pool.json) |
 | Killer Queen | 63050 | [63050-killer-queen.json](./63050-killer-queen.json) |
+| Killer Queen Black | 103342 | [103342-killer-queen-black.json](./103342-killer-queen-black.json) |
 | Killer Satellites | 18570 | [18570-killer-satellites.json](./18570-killer-satellites.json) |
 | Killer Score | 83160 | [83160-killer-score.json](./83160-killer-score.json) |
 | Killer Shark | 18203 | [18203-killer-shark.json](./18203-killer-shark.json) |
@@ -2267,7 +2268,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
