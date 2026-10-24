@@ -3386,6 +3386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Vemny & Friends | 302648 | [302648-vs-vemny-and-friends.json](./302648-vs-vemny-and-friends.json) |
 | Vs. Volleyball | 214587 | [214587-vs-volleyball.json](./214587-vs-volleyball.json) |
 | Vs. Vulcan Venture | 214592 | [214592-vs-vulcan-venture.json](./214592-vs-vulcan-venture.json) |
+| Vsevolod | 10431 | [10431-vsevolod.json](./10431-vsevolod.json) |
 | VSR: Void Space Racing | 105590 | [105590-vsr-void-space-racing.json](./105590-vsr-void-space-racing.json) |
 | VT Harmony | 248110 | [248110-vt-harmony.json](./248110-vt-harmony.json) |
 | VT Tennis | 53015 | [53015-vt-tennis.json](./53015-vt-tennis.json) |
