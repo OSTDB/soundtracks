@@ -4621,6 +4621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ira | 166044 | [166044-ira.json](./166044-ira.json) |
 | Ira | 216139 | [216139-ira.json](./216139-ira.json) |
 | iRacing | 8204 | [8204-iracing.json](./8204-iracing.json) |
+| iRacing Arcade | 373274 | [373274-iracing-arcade.json](./373274-iracing-arcade.json) |
 | iRagdoll | 90672 | [90672-iragdoll.json](./90672-iragdoll.json) |
 | iRagdoll HD | 107065 | [107065-iragdoll-hd.json](./107065-iragdoll-hd.json) |
 | Iragon | 115664 | [115664-iragon.json](./115664-iragon.json) |
@@ -5315,6 +5316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Mimics | 280104 | [280104-it-mimics.json](./280104-it-mimics.json) |
 | It Moves | 98215 | [98215-it-moves.json](./98215-it-moves.json) |
 | It Pays to Be a Winner | 122410 | [122410-it-pays-to-be-a-winner.json](./122410-it-pays-to-be-a-winner.json) |
+| It Reaches | 373840 | [373840-it-reaches.json](./373840-it-reaches.json) |
 | It Runs Red | 117440 | [117440-it-runs-red.json](./117440-it-runs-red.json) |
 | It Sleeps Below the Haar | 217396 | [217396-it-sleeps-below-the-haar.json](./217396-it-sleeps-below-the-haar.json) |
 | IT Specialist Simulator | 346606 | [346606-it-specialist-simulator.json](./346606-it-specialist-simulator.json) |
