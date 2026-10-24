@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack The Giantkiller | 39372 | [39372-jack-the-giantkiller.json](./39372-jack-the-giantkiller.json) |
 | Jack the Knight Adventures 2 | 243733 | [243733-jack-the-knight-adventures-2.json](./243733-jack-the-knight-adventures-2.json) |
 | Jack The Mime | 402454 | [402454-jack-the-mime.json](./402454-jack-the-mime.json) |
+| Jack the Nipper | 28482 | [28482-jack-the-nipper.json](./28482-jack-the-nipper.json) |
 | Jack the Nipper II: In Coconut Capers | 40944 | [40944-jack-the-nipper-ii-in-coconut-capers.json](./40944-jack-the-nipper-ii-in-coconut-capers.json) |
 | Jack the Ripper | 14134 | [14134-jack-the-ripper.json](./14134-jack-the-ripper.json) |
 | Jack the Ripper | 169989 | [169989-jack-the-ripper.json](./169989-jack-the-ripper.json) |
