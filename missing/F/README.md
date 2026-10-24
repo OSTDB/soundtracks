@@ -2222,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Real Simulation Tractor, Combine Trucks Farmer Land Game | 231084 | [231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json](./231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json) |
 | Farming Sim 25: Drive Tractors, Combine, Trucks | 329568 | [329568-farming-sim-25-drive-tractors-combine-trucks.json](./329568-farming-sim-25-drive-tractors-combine-trucks.json) |
 | Farming Simulator | 81357 | [81357-farming-simulator.json](./81357-farming-simulator.json) |
+| Farming Simulator 14 | 52213 | [52213-farming-simulator-14.json](./52213-farming-simulator-14.json) |
 | Farming Simulator 15 | 9499 | [9499-farming-simulator-15.json](./9499-farming-simulator-15.json) |
 | Farming Simulator 15: Holmer | 166091 | [166091-farming-simulator-15-holmer.json](./166091-farming-simulator-15-holmer.json) |
 | Farming Simulator 15: JCB | 166084 | [166084-farming-simulator-15-jcb.json](./166084-farming-simulator-15-jcb.json) |
@@ -2530,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Princess Adventures | 11199 | [11199-fat-princess-adventures.json](./11199-fat-princess-adventures.json) |
 | Fat Princess: Fat Roles | 276802 | [276802-fat-princess-fat-roles.json](./276802-fat-princess-fat-roles.json) |
 | Fat Princess: Fistful of Cake | 21752 | [21752-fat-princess-fistful-of-cake.json](./21752-fat-princess-fistful-of-cake.json) |
+| Fat Princess: Piece of Cake | 52212 | [52212-fat-princess-piece-of-cake.json](./52212-fat-princess-piece-of-cake.json) |
 | Fat Prisoner Simulator 3 | 169156 | [169156-fat-prisoner-simulator-3.json](./169156-fat-prisoner-simulator-3.json) |
 | Fat Rain | 227740 | [227740-fat-rain.json](./227740-fat-rain.json) |
 | Fat Rat Pinball | 145988 | [145988-fat-rat-pinball.json](./145988-fat-rat-pinball.json) |
