@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Mechanica | 336163 | [336163-earth-mechanica.json](./336163-earth-mechanica.json) |
 | Earth Missile Defense System | 118246 | [118246-earth-missile-defense-system.json](./118246-earth-missile-defense-system.json) |
 | Earth Muncher | 95178 | [95178-earth-muncher.json](./95178-earth-muncher.json) |
+| Earth Must Die | 370698 | [370698-earth-must-die.json](./370698-earth-must-die.json) |
 | Earth New Fall | 408252 | [408252-earth-new-fall.json](./408252-earth-new-fall.json) |
 | Earth of Oryn | 217206 | [217206-earth-of-oryn.json](./217206-earth-of-oryn.json) |
 | Earth on Stream | 403773 | [403773-earth-on-stream.json](./403773-earth-on-stream.json) |
@@ -5024,6 +5025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eto King | 259711 | [259711-eto-king.json](./259711-eto-king.json) |
 | Eto-cetera In no Maki | 113729 | [113729-eto-cetera-in-no-maki.json](./113729-eto-cetera-in-no-maki.json) |
 | Etos | 260546 | [260546-etos.json](./260546-etos.json) |
+| Etrange Overlord | 376699 | [376699-etrange-overlord.json](./376699-etrange-overlord.json) |
 | Etre | 270182 | [270182-etre.json](./270182-etre.json) |
 | Etrian Mystery Dungeon | 8607 | [8607-etrian-mystery-dungeon.json](./8607-etrian-mystery-dungeon.json) |
 | Etrian Mystery Dungeon 2: Etrian Odyssey 10th Anniversary Box | 70894 | [70894-etrian-mystery-dungeon-2-etrian-odyssey-10th-anniversary-box.json](./70894-etrian-mystery-dungeon-2-etrian-odyssey-10th-anniversary-box.json) |
