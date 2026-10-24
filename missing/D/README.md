@@ -10692,6 +10692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door 2: Key - Path to Heaven | 171586 | [171586-door-2-key-path-to-heaven.json](./171586-door-2-key-path-to-heaven.json) |
 | Door Door | 92904 | [92904-door-door.json](./92904-door-door.json) |
 | Door Game Deluxe | 331085 | [331085-door-game-deluxe.json](./331085-door-game-deluxe.json) |
+| Door in the Woods | 126757 | [126757-door-in-the-woods.json](./126757-door-in-the-woods.json) |
 | Door Kickers | 3099 | [3099-door-kickers.json](./3099-door-kickers.json) |
 | Door Knocker | 122336 | [122336-door-knocker.json](./122336-door-knocker.json) |
 | Door of Perception | 251055 | [251055-door-of-perception.json](./251055-door-of-perception.json) |
