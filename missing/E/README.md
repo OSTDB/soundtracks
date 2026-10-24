@@ -3388,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entodrive | 156915 | [156915-entodrive.json](./156915-entodrive.json) |
 | Entogious | 245772 | [245772-entogious.json](./245772-entogious.json) |
 | Entombed | 22820 | [22820-entombed.json](./22820-entombed.json) |
+| Entombed | 26249 | [26249-entombed.json](./26249-entombed.json) |
 | Entombed | 320031 | [320031-entombed.json](./320031-entombed.json) |
 | Entombed Enhanced | 71394 | [71394-entombed-enhanced.json](./71394-entombed-enhanced.json) |
 | Entomophobia | 195153 | [195153-entomophobia.json](./195153-entomophobia.json) |
