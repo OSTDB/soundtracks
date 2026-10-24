@@ -5965,6 +5965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tune Dash | 101947 | [101947-looney-tune-dash.json](./101947-looney-tune-dash.json) |
 | Looney Tunes | 265041 | [265041-looney-tunes.json](./265041-looney-tunes.json) |
 | Looney Tunes | 290324 | [290324-looney-tunes.json](./290324-looney-tunes.json) |
+| Looney Tunes Collector: Alert! | 49882 | [49882-looney-tunes-collector-alert.json](./49882-looney-tunes-collector-alert.json) |
 | Looney Tunes Cosmic Capers | 71430 | [71430-looney-tunes-cosmic-capers.json](./71430-looney-tunes-cosmic-capers.json) |
 | Looney Tunes Galactic Sports | 52539 | [52539-looney-tunes-galactic-sports.json](./52539-looney-tunes-galactic-sports.json) |
 | Looney Tunes Racing | 292791 | [292791-looney-tunes-racing.json](./292791-looney-tunes-racing.json) |
@@ -8027,6 +8028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lupin III: The Master File | 66213 | [66213-lupin-iii-the-master-file.json](./66213-lupin-iii-the-master-file.json) |
 | Lupin III: Umi ni Kieta Hihou | 36790 | [36790-lupin-iii-umi-ni-kieta-hihou.json](./36790-lupin-iii-umi-ni-kieta-hihou.json) |
 | Lupin Sansei: Columbus no Isan | 66202 | [66202-lupin-sansei-columbus-no-isan.json](./66202-lupin-sansei-columbus-no-isan.json) |
+| Lupin Sansei: Lupin ni ha Shi wo, Zenigata ni ha Koi wo | 25579 | [25579-lupin-sansei-lupin-ni-ha-shi-wo-zenigata-ni-ha-koi-wo.json](./25579-lupin-sansei-lupin-ni-ha-shi-wo-zenigata-ni-ha-koi-wo.json) |
 | Lupin Sansei: Pyramid no Kenja | 66214 | [66214-lupin-sansei-pyramid-no-kenja.json](./66214-lupin-sansei-pyramid-no-kenja.json) |
 | Lupin Sansei: Shijou Saidai no Zunousen | 66212 | [66212-lupin-sansei-shijou-saidai-no-zunousen.json](./66212-lupin-sansei-shijou-saidai-no-zunousen.json) |
 | Lupin the 3rd Chronicles | 66217 | [66217-lupin-the-3rd-chronicles.json](./66217-lupin-the-3rd-chronicles.json) |
