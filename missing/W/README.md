@@ -3030,6 +3030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Body? | 281385 | [281385-what-body.json](./281385-what-body.json) |
 | What Cat? | 253033 | [253033-what-cat.json](./253033-what-cat.json) |
 | What Comes After | 142382 | [142382-what-comes-after.json](./142382-what-comes-after.json) |
+| What Comes After | 143264 | [143264-what-comes-after.json](./143264-what-comes-after.json) |
 | What Comes After | 354300 | [354300-what-comes-after.json](./354300-what-comes-after.json) |
 | What Comes Next | 332974 | [332974-what-comes-next.json](./332974-what-comes-next.json) |
 | What Could Go Wrong? | 344415 | [344415-what-could-go-wrong.json](./344415-what-could-go-wrong.json) |
@@ -3232,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -5663,6 +5665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein: Enemy Territory | 2987 | [2987-wolfenstein-enemy-territory.json](./2987-wolfenstein-enemy-territory.json) |
 | Wolfenstein: The Two-Pack | 136205 | [136205-wolfenstein-the-two-pack.json](./136205-wolfenstein-the-two-pack.json) |
 | Wolfenstein: Triple Pack | 152339 | [152339-wolfenstein-triple-pack.json](./152339-wolfenstein-triple-pack.json) |
+| Wolfenstein: Youngblood - Deluxe Edition | 72945 | [72945-wolfenstein-youngblood-deluxe-edition.json](./72945-wolfenstein-youngblood-deluxe-edition.json) |
 | Wolfenstein: Youngblood - Digital Limited Edition | 121640 | [121640-wolfenstein-youngblood-digital-limited-edition.json](./121640-wolfenstein-youngblood-digital-limited-edition.json) |
 | WolfFang Skull Fang: Saturn Tribute Boosted | 320440 | [320440-wolffang-skull-fang-saturn-tribute-boosted.json](./320440-wolffang-skull-fang-saturn-tribute-boosted.json) |
 | Wolfgate | 117396 | [117396-wolfgate.json](./117396-wolfgate.json) |
