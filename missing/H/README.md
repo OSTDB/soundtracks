@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hailey's Aesop | 303696 | [303696-haileys-aesop.json](./303696-haileys-aesop.json) |
 | Hailstorm | 363955 | [363955-hailstorm.json](./363955-hailstorm.json) |
 | Hailstorm | 68171 | [68171-hailstorm.json](./68171-hailstorm.json) |
+| Haimrik | 32349 | [32349-haimrik.json](./32349-haimrik.json) |
 | Hain | 386980 | [386980-hain.json](./386980-hain.json) |
 | Hainya World | 253494 | [253494-hainya-world.json](./253494-hainya-world.json) |
 | Hair Bows | 156125 | [156125-hair-bows.json](./156125-hair-bows.json) |
@@ -7371,6 +7372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Alone Survival | 365062 | [365062-home-alone-survival.json](./365062-home-alone-survival.json) |
 | Home Babysitter | 83265 | [83265-home-babysitter.json](./83265-home-babysitter.json) |
 | Home Before Dark | 183360 | [183360-home-before-dark.json](./183360-home-before-dark.json) |
+| Home Behind | 32708 | [32708-home-behind.json](./32708-home-behind.json) |
 | Home Behind 2 | 142663 | [142663-home-behind-2.json](./142663-home-behind-2.json) |
 | Home by the River | 212104 | [212104-home-by-the-river.json](./212104-home-by-the-river.json) |
 | Home Computer Heroes Collection 1 | 260072 | [260072-home-computer-heroes-collection-1.json](./260072-home-computer-heroes-collection-1.json) |
@@ -9102,6 +9104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Survive: Heat Wave - Jack's pack | 170744 | [170744-how-to-survive-heat-wave-jacks-pack.json](./170744-how-to-survive-heat-wave-jacks-pack.json) |
 | How to Survive: Kovac's Way | 164516 | [164516-how-to-survive-kovacs-way.json](./164516-how-to-survive-kovacs-way.json) |
 | How to Survive: Storm Warning Edition | 20311 | [20311-how-to-survive-storm-warning-edition.json](./20311-how-to-survive-storm-warning-edition.json) |
+| How to Survive: Third Person Standalone | 13211 | [13211-how-to-survive-third-person-standalone.json](./13211-how-to-survive-third-person-standalone.json) |
 | How to Take Off Your Mask: Remastered | 143151 | [143151-how-to-take-off-your-mask-remastered.json](./143151-how-to-take-off-your-mask-remastered.json) |
 | How to Tame a Succubus | 252681 | [252681-how-to-tame-a-succubus.json](./252681-how-to-tame-a-succubus.json) |
 | How to Train Your Dragon | 228092 | [228092-how-to-train-your-dragon.json](./228092-how-to-train-your-dragon.json) |
