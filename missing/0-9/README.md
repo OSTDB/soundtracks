@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Degrees: Bible | 92656 | [92656-4-degrees-bible.json](./92656-4-degrees-bible.json) |
 | 4 Degrees: Vol 1 | 92657 | [92657-4-degrees-vol-1.json](./92657-4-degrees-vol-1.json) |
 | 4 Degrees: Vol 2 | 92655 | [92655-4-degrees-vol-2.json](./92655-4-degrees-vol-2.json) |
+| 4 Elements | 27893 | [27893-4-elements.json](./27893-4-elements.json) |
 | 4 Elements II | 64131 | [64131-4-elements-ii.json](./64131-4-elements-ii.json) |
 | 4 En Raya | 249251 | [249251-4-en-raya.json](./249251-4-en-raya.json) |
 | 4 Game in One | 268570 | [268570-4-game-in-one.json](./268570-4-game-in-one.json) |
