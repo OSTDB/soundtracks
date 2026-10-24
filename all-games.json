@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-24T11:35:49.247Z",
-  "total_soundtracks": 2573,
+  "generated_at": "2026-10-24T15:41:07.144Z",
+  "total_soundtracks": 2575,
   "games": [
     {
       "igdb_id": 7522,
@@ -22853,6 +22853,20 @@
       ]
     },
     {
+      "igdb_id": 19496,
+      "game_name": "Shadowmatic",
+      "game_url": "https://ostdb.net/games/shadowmatic",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734006f2cb82064f5938ecd45e",
+      "albums": [
+        {
+          "album_name": "Shadowmatic (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7GCPq1x6H620P3GidGzb8H",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 7643,
       "game_name": "Shadowrun",
       "game_url": "https://ostdb.net/games/shadowrun",
@@ -25631,6 +25645,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/super-meat-boy-forever-original-soundtrack/1546648358?uo=4",
           "album_link_url": "https://album.link/i/1546648358"
+        }
+      ]
+    },
+    {
+      "igdb_id": 20078,
+      "game_name": "Super Motherload",
+      "game_url": "https://ostdb.net/games/super-motherload",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e595c0c7a3df0faf063a626d",
+      "albums": [
+        {
+          "album_name": "Super Motherload OST",
+          "spotify_url": "https://open.spotify.com/album/5huaCrlbrMOvro817ryhOS",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
