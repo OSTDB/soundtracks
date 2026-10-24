@@ -7928,6 +7928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ForeVR Bowl | 148381 | [148381-forevr-bowl.json](./148381-forevr-bowl.json) |
 | ForeVR Cornhole | 214608 | [214608-forevr-cornhole.json](./214608-forevr-cornhole.json) |
 | ForeVR Pool | 225735 | [225735-forevr-pool.json](./225735-forevr-pool.json) |
+| Forex Trading Master: Simulator | 111000 | [111000-forex-trading-master-simulator.json](./111000-forex-trading-master-simulator.json) |
 | Forfeit | 217359 | [217359-forfeit.json](./217359-forfeit.json) |
 | Forg Feast Frenzy | 291458 | [291458-forg-feast-frenzy.json](./291458-forg-feast-frenzy.json) |
 | Forge | 19937 | [19937-forge.json](./19937-forge.json) |
@@ -8278,6 +8279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Ratsack | 271784 | [271784-fort-ratsack.json](./271784-fort-ratsack.json) |
 | Fort Solis: Limited Edition | 261540 | [261540-fort-solis-limited-edition.json](./261540-fort-solis-limited-edition.json) |
 | Fort Solis: Terra Edition | 262225 | [262225-fort-solis-terra-edition.json](./262225-fort-solis-terra-edition.json) |
+| Fort Sumter | 118420 | [118420-fort-sumter.json](./118420-fort-sumter.json) |
 | Fort Valen | 238501 | [238501-fort-valen.json](./238501-fort-valen.json) |
 | Fort Zombie | 27498 | [27498-fort-zombie.json](./27498-fort-zombie.json) |
 | Fort:Night Last Battleground Royale Survival | 95886 | [95886-fort-night-last-battleground-royale-survival.json](./95886-fort-night-last-battleground-royale-survival.json) |
