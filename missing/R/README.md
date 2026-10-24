@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rails | 101017 | [101017-rails.json](./101017-rails.json) |
 | Rails Across America | 68741 | [68741-rails-across-america.json](./68741-rails-across-america.json) |
 | Rails Lite | 91277 | [91277-rails-lite.json](./91277-rails-lite.json) |
+| Rails West | 24661 | [24661-rails-west.json](./24661-rails-west.json) |
 | Railway | 210643 | [210643-railway.json](./210643-railway.json) |
 | Railway Chai Wala | 341313 | [341313-railway-chai-wala.json](./341313-railway-chai-wala.json) |
 | Railway Company Owner | 239658 | [239658-railway-company-owner.json](./239658-railway-company-owner.json) |
@@ -3582,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflow | 256755 | [256755-reflow.json](./256755-reflow.json) |
 | Refoil | 115351 | [115351-refoil.json](./115351-refoil.json) |
 | Reforged TD | 150586 | [150586-reforged-td.json](./150586-reforged-td.json) |
+| Reforger '88 | 24674 | [24674-reforger-88.json](./24674-reforger-88.json) |
 | Reforj | 317076 | [317076-reforj.json](./317076-reforj.json) |
 | Reformers | 76405 | [76405-reformers.json](./76405-reformers.json) |
 | Reformers Intl Ver | 102250 | [102250-reformers-intl-ver.json](./102250-reformers-intl-ver.json) |
@@ -4076,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rendezvous | 144977 | [144977-rendezvous.json](./144977-rendezvous.json) |
 | Rendezvous Delano | 323295 | [323295-rendezvous-delano.json](./323295-rendezvous-delano.json) |
 | Rendezvous with a Stranger Girl | 57623 | [57623-rendezvous-with-a-stranger-girl.json](./57623-rendezvous-with-a-stranger-girl.json) |
+| Rendezvous With Rama | 24670 | [24670-rendezvous-with-rama.json](./24670-rendezvous-with-rama.json) |
 | Rendezvous: A Space Shuttle Flight Simulation | 24859 | [24859-rendezvous-a-space-shuttle-flight-simulation.json](./24859-rendezvous-a-space-shuttle-flight-simulation.json) |
 | Rendezvous: Shadows of the Past | 199444 | [199444-rendezvous-shadows-of-the-past.json](./199444-rendezvous-shadows-of-the-past.json) |
 | Rending Sky | 114374 | [114374-rending-sky.json](./114374-rending-sky.json) |
@@ -6196,6 +6199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripout | 150433 | [150433-ripout.json](./150433-ripout.json) |
 | Ripped/Apart | 133397 | [133397-ripped-apart.json](./133397-ripped-apart.json) |
 | Ripper Ribbit | 130899 | [130899-ripper-ribbit.json](./130899-ripper-ribbit.json) |
+| Ripper! | 24668 | [24668-ripper.json](./24668-ripper.json) |
 | Ripple | 198510 | [198510-ripple.json](./198510-ripple.json) |
 | Ripple Dot Zero | 231714 | [231714-ripple-dot-zero.json](./231714-ripple-dot-zero.json) |
 | Ripple Effect | 36961 | [36961-ripple-effect.json](./36961-ripple-effect.json) |
