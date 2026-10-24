@@ -9206,6 +9206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Trading Card Game | 4567 | [4567-pokemon-trading-card-game.json](./4567-pokemon-trading-card-game.json) |
 | Pokémon Trading Card Game Live | 171816 | [171816-pokemon-trading-card-game-live.json](./171816-pokemon-trading-card-game-live.json) |
 | Pokémon Trading Card Game Online | 24423 | [24423-pokemon-trading-card-game-online.json](./24423-pokemon-trading-card-game-online.json) |
+| Pokémon Trading Card Game Pocket | 288324 | [288324-pokemon-trading-card-game-pocket.json](./288324-pokemon-trading-card-game-pocket.json) |
 | Pokémon Trading Card Game Pocket: Celestial Guardians | 341686 | [341686-pokemon-trading-card-game-pocket-celestial-guardians.json](./341686-pokemon-trading-card-game-pocket-celestial-guardians.json) |
 | Pokémon Trading Card Game Pocket: Crimson Blaze | 381911 | [381911-pokemon-trading-card-game-pocket-crimson-blaze.json](./381911-pokemon-trading-card-game-pocket-crimson-blaze.json) |
 | Pokémon Trading Card Game Pocket: Deluxe pack ex | 370869 | [370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json](./370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json) |
