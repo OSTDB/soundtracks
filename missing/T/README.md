@@ -4782,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aquatic Messenger | 212118 | [212118-the-aquatic-messenger.json](./212118-the-aquatic-messenger.json) |
 | The Arab League of Misfits | 412531 | [412531-the-arab-league-of-misfits.json](./412531-the-arab-league-of-misfits.json) |
 | The Arab Republic of Taghia | 125681 | [125681-the-arab-republic-of-taghia.json](./125681-the-arab-republic-of-taghia.json) |
+| The Arcade Machine | 21836 | [21836-the-arcade-machine.json](./21836-the-arcade-machine.json) |
 | The Arcade Tower | 194373 | [194373-the-arcade-tower.json](./194373-the-arcade-tower.json) |
 | The Arcadia of Wulin | 155346 | [155346-the-arcadia-of-wulin.json](./155346-the-arcadia-of-wulin.json) |
 | The Arcana | 124469 | [124469-the-arcana.json](./124469-the-arcana.json) |
@@ -5760,6 +5761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cave VR | 74179 | [74179-the-cave-vr.json](./74179-the-cave-vr.json) |
 | The Cavern | 29684 | [29684-the-cavern.json](./29684-the-cavern.json) |
 | The Caverns | 229736 | [229736-the-caverns.json](./229736-the-caverns.json) |
+| The Caverns of Freitag | 21922 | [21922-the-caverns-of-freitag.json](./21922-the-caverns-of-freitag.json) |
 | The Caverns of Hammerfest | 55979 | [55979-the-caverns-of-hammerfest.json](./55979-the-caverns-of-hammerfest.json) |
 | The Caves | 179367 | [179367-the-caves.json](./179367-the-caves.json) |
 | The Celestial Tales | 275689 | [275689-the-celestial-tales.json](./275689-the-celestial-tales.json) |
@@ -6106,6 +6108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Corrupted Turnabout | 308529 | [308529-the-corrupted-turnabout.json](./308529-the-corrupted-turnabout.json) |
 | The Corruption | 333148 | [333148-the-corruption.json](./333148-the-corruption.json) |
 | The Corruption Within | 153387 | [153387-the-corruption-within.json](./153387-the-corruption-within.json) |
+| The Cosmic Balance | 21927 | [21927-the-cosmic-balance.json](./21927-the-cosmic-balance.json) |
 | The Cosmic Tunnels | 62760 | [62760-the-cosmic-tunnels.json](./62760-the-cosmic-tunnels.json) |
 | The Cosmic Wheel Sisterhood - Deluxe Edition | 261993 | [261993-the-cosmic-wheel-sisterhood-deluxe-edition.json](./261993-the-cosmic-wheel-sisterhood-deluxe-edition.json) |
 | The Cosmos is Mine! | 35800 | [35800-the-cosmos-is-mine.json](./35800-the-cosmos-is-mine.json) |
@@ -18384,6 +18387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Crisis | 389440 | [389440-time-crisis.json](./389440-time-crisis.json) |
 | Time Crisis 3 | 13894 | [13894-time-crisis-3.json](./13894-time-crisis-3.json) |
 | Time Crisis 4 | 7466 | [7466-time-crisis-4.json](./7466-time-crisis-4.json) |
+| Time Crisis: 2nd Strike | 21751 | [21751-time-crisis-2nd-strike.json](./21751-time-crisis-2nd-strike.json) |
 | Time Crisis: Crisis Zone | 43287 | [43287-time-crisis-crisis-zone.json](./43287-time-crisis-crisis-zone.json) |
 | Time Crisis: Project Titan | 12899 | [12899-time-crisis-project-titan.json](./12899-time-crisis-project-titan.json) |
 | Time Crisis: Razing Storm | 20449 | [20449-time-crisis-razing-storm.json](./20449-time-crisis-razing-storm.json) |
