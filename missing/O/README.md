@@ -3581,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshiya! Push! | 185518 | [185518-oshiya-push.json](./185518-oshiya-push.json) |
 | Osiris | 116067 | [116067-osiris.json](./116067-osiris.json) |
 | Osiris | 224954 | [224954-osiris.json](./224954-osiris.json) |
+| Osiris: New Dawn | 23732 | [23732-osiris-new-dawn.json](./23732-osiris-new-dawn.json) |
 | Oslo: 2084 | 253890 | [253890-oslo-2084.json](./253890-oslo-2084.json) |
 | Osman Ghazi: Ottoman Rising | 382297 | [382297-osman-ghazi-ottoman-rising.json](./382297-osman-ghazi-ottoman-rising.json) |
 | Osmathus Falling | 399430 | [399430-osmathus-falling.json](./399430-osmathus-falling.json) |
@@ -3623,6 +3624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ostrich Island | 10645 | [10645-ostrich-island.json](./10645-ostrich-island.json) |
 | Ostrich Run | 319426 | [319426-ostrich-run.json](./319426-ostrich-run.json) |
 | Ostrich Runner | 25490 | [25490-ostrich-runner.json](./25490-ostrich-runner.json) |
+| Ostriv | 24512 | [24512-ostriv.json](./24512-ostriv.json) |
 | Ostrofa | 115784 | [115784-ostrofa.json](./115784-ostrofa.json) |
 | Ostron | 78989 | [78989-ostron.json](./78989-ostron.json) |
 | Ostrova Koshki | 132568 | [132568-ostrova-koshki.json](./132568-ostrova-koshki.json) |
