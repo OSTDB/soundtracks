@@ -6804,6 +6804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowery Vale | 177048 | [177048-flowery-vale.json](./177048-flowery-vale.json) |
 | Flowerz | 91837 | [91837-flowerz.json](./91837-flowerz.json) |
 | Flowfall | 256669 | [256669-flowfall.json](./256669-flowfall.json) |
+| Flowing Lights | 76657 | [76657-flowing-lights.json](./76657-flowing-lights.json) |
 | Flown | 261524 | [261524-flown.json](./261524-flown.json) |
 | Floworks | 408289 | [408289-floworks.json](./408289-floworks.json) |
 | Floworlds | 351486 | [351486-floworlds.json](./351486-floworlds.json) |
