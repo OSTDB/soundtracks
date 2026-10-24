@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju No. 8: The Game | 343892 | [343892-kaiju-no-8-the-game.json](./343892-kaiju-no-8-the-game.json) |
 | Kaiju Noir | 180458 | [180458-kaiju-noir.json](./180458-kaiju-noir.json) |
 | Kaiju Panic | 13190 | [13190-kaiju-panic.json](./13190-kaiju-panic.json) |
+| Kaiju Wars | 171757 | [171757-kaiju-wars.json](./171757-kaiju-wars.json) |
 | Kaiju Wars + Legend of Keepers: Monsters & Demons Bundle | 287111 | [287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json](./287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json) |
 | Kaiju-A-GoGo | 36155 | [36155-kaiju-a-gogo.json](./36155-kaiju-a-gogo.json) |
 | Kaiju-A-GoGo: Grey Goop | 159650 | [159650-kaiju-a-gogo-grey-goop.json](./159650-kaiju-a-gogo-grey-goop.json) |
@@ -656,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kao The Kangaroo + Urban Trial Playground | 342415 | [342415-kao-the-kangaroo-urban-trial-playground.json](./342415-kao-the-kangaroo-urban-trial-playground.json) |
 | Kao the Kangaroo Trilogy | 143497 | [143497-kao-the-kangaroo-trilogy.json](./143497-kao-the-kangaroo-trilogy.json) |
 | Kao the Kangaroo: A Well Good Bundle | 221695 | [221695-kao-the-kangaroo-a-well-good-bundle.json](./221695-kao-the-kangaroo-a-well-good-bundle.json) |
+| Kao the Kangaroo: Bend the Roo'les | 247577 | [247577-kao-the-kangaroo-bend-the-rooles.json](./247577-kao-the-kangaroo-bend-the-rooles.json) |
 | Kao the Kangaroo: Oh! Well | 221642 | [221642-kao-the-kangaroo-oh-well.json](./221642-kao-the-kangaroo-oh-well.json) |
 | Kao the Kangaroo: Round 2 | 3962 | [3962-kao-the-kangaroo-round-2.json](./3962-kao-the-kangaroo-round-2.json) |
 | Kao the Kangaroo: Summer Drip | 255089 | [255089-kao-the-kangaroo-summer-drip.json](./255089-kao-the-kangaroo-summer-drip.json) |
@@ -828,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karmaflow: The Rock Opera Videogame | 8439 | [8439-karmaflow-the-rock-opera-videogame.json](./8439-karmaflow-the-rock-opera-videogame.json) |
 | KarmaStar | 67811 | [67811-karmastar.json](./67811-karmastar.json) |
 | Karmasutra | 51474 | [51474-karmasutra.json](./51474-karmasutra.json) |
+| KarmaZoo | 246564 | [246564-karmazoo.json](./246564-karmazoo.json) |
 | Karnaaj Rally | 6489 | [6489-karnaaj-rally.json](./6489-karnaaj-rally.json) |
 | Karnage Chronicles | 28272 | [28272-karnage-chronicles.json](./28272-karnage-chronicles.json) |
 | Karnn Age | 67969 | [67969-karnn-age.json](./67969-karnn-age.json) |
@@ -2278,7 +2281,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -4829,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kujaku-ou 2 | 45550 | [45550-kujaku-ou-2.json](./45550-kujaku-ou-2.json) |
 | Kujaku-ou II | 48439 | [48439-kujaku-ou-ii.json](./48439-kujaku-ou-ii.json) |
 | Kujibiki Unbalance: Kaichou Onegai Smash Fight | 165564 | [165564-kujibiki-unbalance-kaichou-onegai-smash-fight.json](./165564-kujibiki-unbalance-kaichou-onegai-smash-fight.json) |
+| Kujlevka | 172179 | [172179-kujlevka.json](./172179-kujlevka.json) |
 | KukkoroDays | 136255 | [136255-kukkorodays.json](./136255-kukkorodays.json) |
 | Kukoo Kitchen | 112349 | [112349-kukoo-kitchen.json](./112349-kukoo-kitchen.json) |
 | Kukuevo | 280764 | [280764-kukuevo.json](./280764-kukuevo.json) |
@@ -5099,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuusou Kagaku Sekai Gulliver Boy: Kuusou Kagaku Puzzle Puritto Pon | 228604 | [228604-kuusou-kagaku-sekai-gulliver-boy-kuusou-kagaku-puzzle-puritto-pon.json](./228604-kuusou-kagaku-sekai-gulliver-boy-kuusou-kagaku-puzzle-puritto-pon.json) |
 | Kuusou Sakaba: A Great Banquet Of Liars | 288361 | [288361-kuusou-sakaba-a-great-banquet-of-liars.json](./288361-kuusou-sakaba-a-great-banquet-of-liars.json) |
 | Kuzgakai's Dungeon | 215794 | [215794-kuzgakais-dungeon.json](./215794-kuzgakais-dungeon.json) |
+| Kvark | 244262 | [244262-kvark.json](./244262-kvark.json) |
 | Kwaan | 36092 | [36092-kwaan.json](./36092-kwaan.json) |
 | Kwad | 408730 | [408730-kwad.json](./408730-kwad.json) |
 | Kwalasha | 349870 | [349870-kwalasha.json](./349870-kwalasha.json) |
