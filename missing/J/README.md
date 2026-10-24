@@ -2662,6 +2662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Jump Cyberpunk | 242603 | [242603-jump-jump-cyberpunk.json](./242603-jump-jump-cyberpunk.json) |
 | Jump Jumpz | 111679 | [111679-jump-jumpz.json](./111679-jump-jumpz.json) |
 | Jump Kid | 217022 | [217022-jump-kid.json](./217022-jump-kid.json) |
+| Jump King | 117023 | [117023-jump-king.json](./117023-jump-king.json) |
 | Jump King Quest | 259095 | [259095-jump-king-quest.json](./259095-jump-king-quest.json) |
 | Jump King: Ghost of the Babe | 386222 | [386222-jump-king-ghost-of-the-babe.json](./386222-jump-king-ghost-of-the-babe.json) |
 | Jump King: New Babe+ | 386223 | [386223-jump-king-new-babe.json](./386223-jump-king-new-babe.json) |
