@@ -2562,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter Nights: Gold Edition | 210036 | [210036-neverwinter-nights-gold-edition.json](./210036-neverwinter-nights-gold-edition.json) |
 | Neverwinter Nights: Pirates of the Sword Coast | 124906 | [124906-neverwinter-nights-pirates-of-the-sword-coast.json](./124906-neverwinter-nights-pirates-of-the-sword-coast.json) |
 | Neverwinter Nights: ShadowGuard | 125300 | [125300-neverwinter-nights-shadowguard.json](./125300-neverwinter-nights-shadowguard.json) |
+| Neverwinter Nights: Shadows of Undrentide | 7899 | [7899-neverwinter-nights-shadows-of-undrentide.json](./7899-neverwinter-nights-shadows-of-undrentide.json) |
 | Neverwinter Nights: Witch's Wake | 125301 | [125301-neverwinter-nights-witchs-wake.json](./125301-neverwinter-nights-witchs-wake.json) |
 | Neverwinter Nights: Wyvern Crown of Cormyr | 124892 | [124892-neverwinter-nights-wyvern-crown-of-cormyr.json](./124892-neverwinter-nights-wyvern-crown-of-cormyr.json) |
 | Neverwinter: Curse of Icewind Dale | 224450 | [224450-neverwinter-curse-of-icewind-dale.json](./224450-neverwinter-curse-of-icewind-dale.json) |
