@@ -673,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: WWII - Game of the Year Edition | 136698 | [136698-call-of-duty-wwii-game-of-the-year-edition.json](./136698-call-of-duty-wwii-game-of-the-year-edition.json) |
 | Call of Duty: WWII - Gold Edition | 118729 | [118729-call-of-duty-wwii-gold-edition.json](./118729-call-of-duty-wwii-gold-edition.json) |
 | Call of Duty: WWII - Pro Edition | 11499 | [11499-call-of-duty-wwii-pro-edition.json](./11499-call-of-duty-wwii-pro-edition.json) |
+| Call of Duty: WWII - The Resistance DLC Pack 1 | 78917 | [78917-call-of-duty-wwii-the-resistance-dlc-pack-1.json](./78917-call-of-duty-wwii-the-resistance-dlc-pack-1.json) |
 | Call of Duty: WWII - United Front DLC | 103518 | [103518-call-of-duty-wwii-united-front-dlc.json](./103518-call-of-duty-wwii-united-front-dlc.json) |
 | Call of Duty: WWII + Destiny 2 Bundle | 86666 | [86666-call-of-duty-wwii-destiny-2-bundle.json](./86666-call-of-duty-wwii-destiny-2-bundle.json) |
 | Call of Duty: Zombie Warfare | 304323 | [304323-call-of-duty-zombie-warfare.json](./304323-call-of-duty-zombie-warfare.json) |
@@ -691,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Knights | 159541 | [159541-call-of-knights.json](./159541-call-of-knights.json) |
 | Call of Mini: Beyond Infinity | 104533 | [104533-call-of-mini-beyond-infinity.json](./104533-call-of-mini-beyond-infinity.json) |
 | Call of Mini: Sniper | 254352 | [254352-call-of-mini-sniper.json](./254352-call-of-mini-sniper.json) |
+| Call of Mini: Zombies | 77994 | [77994-call-of-mini-zombies.json](./77994-call-of-mini-zombies.json) |
 | Call of Mini: Zombies 2 | 233407 | [233407-call-of-mini-zombies-2.json](./233407-call-of-mini-zombies-2.json) |
 | Call of Myth | 153969 | [153969-call-of-myth.json](./153969-call-of-myth.json) |
 | Call of Nature: Jigsaw Puzzle | 103531 | [103531-call-of-nature-jigsaw-puzzle.json](./103531-call-of-nature-jigsaw-puzzle.json) |
@@ -13029,6 +13031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Nitro Kart | 222884 | [222884-crash-nitro-kart.json](./222884-crash-nitro-kart.json) |
 | Crash Nitro Kart 2 | 148164 | [148164-crash-nitro-kart-2.json](./148164-crash-nitro-kart-2.json) |
 | Crash Nitro Mini Golf | 336385 | [336385-crash-nitro-mini-golf.json](./336385-crash-nitro-mini-golf.json) |
+| Crash of Cars | 28710 | [28710-crash-of-cars.json](./28710-crash-of-cars.json) |
 | Crash of Magic | 180150 | [180150-crash-of-magic.json](./180150-crash-of-magic.json) |
 | Crash of the Titans | 1190 | [1190-crash-of-the-titans.json](./1190-crash-of-the-titans.json) |
 | Crash of the Titans | 197928 | [197928-crash-of-the-titans.json](./197928-crash-of-the-titans.json) |
