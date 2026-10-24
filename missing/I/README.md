@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Try | 357169 | [357169-i-wanna-try.json](./357169-i-wanna-try.json) |
 | I want 5 quadrillion yen! | 298955 | [298955-i-want-5-quadrillion-yen.json](./298955-i-want-5-quadrillion-yen.json) |
 | I Want an Identity | 327229 | [327229-i-want-an-identity.json](./327229-i-want-an-identity.json) |
+| I Want Cookies | 76489 | [76489-i-want-cookies.json](./76489-i-want-cookies.json) |
 | I Want My Mommy | 40789 | [40789-i-want-my-mommy.json](./40789-i-want-my-mommy.json) |
 | I Want To Be A Circle When I Grow Up. | 396545 | [396545-i-want-to-be-a-circle-when-i-grow-up.json](./396545-i-want-to-be-a-circle-when-i-grow-up.json) |
 | I Want to Be a Girl and I Don't Know Why That's so Hard | 240121 | [240121-i-want-to-be-a-girl-and-i-dont-know-why-thats-so-hard.json](./240121-i-want-to-be-a-girl-and-i-dont-know-why-thats-so-hard.json) |
@@ -4403,6 +4404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion | 343614 | [343614-invasion.json](./343614-invasion.json) |
 | Invasion | 36706 | [36706-invasion.json](./36706-invasion.json) |
 | Invasion | 47145 | [47145-invasion.json](./47145-invasion.json) |
+| Invasion | 82017 | [82017-invasion.json](./82017-invasion.json) |
 | Invasion | 95388 | [95388-invasion.json](./95388-invasion.json) |
 | Invasion - The Abductors | 39624 | [39624-invasion-the-abductors.json](./39624-invasion-the-abductors.json) |
 | Invasion 2: Doomed | 150434 | [150434-invasion-2-doomed.json](./150434-invasion-2-doomed.json) |
