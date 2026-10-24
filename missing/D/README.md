@@ -2949,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Meets Lead | 65444 | [65444-dead-meets-lead.json](./65444-dead-meets-lead.json) |
 | Dead Men Tell No Tales | 176757 | [176757-dead-men-tell-no-tales.json](./176757-dead-men-tell-no-tales.json) |
 | Dead Mire | 249199 | [249199-dead-mire.json](./249199-dead-mire.json) |
+| Dead Monarchy | 118400 | [118400-dead-monarchy.json](./118400-dead-monarchy.json) |
 | Dead Moon: Revenge on Phobos | 51509 | [51509-dead-moon-revenge-on-phobos.json](./51509-dead-moon-revenge-on-phobos.json) |
 | Dead Motherland: Zombie Co-op | 127731 | [127731-dead-motherland-zombie-co-op.json](./127731-dead-motherland-zombie-co-op.json) |
 | Dead Mountaineer's Hotel | 14851 | [14851-dead-mountaineers-hotel.json](./14851-dead-mountaineers-hotel.json) |
@@ -5283,6 +5284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demong Hunter | 146745 | [146745-demong-hunter.json](./146745-demong-hunter.json) |
 | Demongeon | 85566 | [85566-demongeon.json](./85566-demongeon.json) |
 | Demonheart | 29775 | [29775-demonheart.json](./29775-demonheart.json) |
+| Demonheart: Hunters | 110905 | [110905-demonheart-hunters.json](./110905-demonheart-hunters.json) |
 | Demonia | 41810 | [41810-demonia.json](./41810-demonia.json) |
 | Demoniac TV | 291524 | [291524-demoniac-tv.json](./291524-demoniac-tv.json) |
 | Demoniaca: Everlasting Night | 121311 | [121311-demoniaca-everlasting-night.json](./121311-demoniaca-everlasting-night.json) |
@@ -7124,6 +7126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die With Glory | 28357 | [28357-die-with-glory.json](./28357-die-with-glory.json) |
 | Die Wolf | 129635 | [129635-die-wolf.json](./129635-die-wolf.json) |
 | Die Young | 33758 | [33758-die-young.json](./33758-die-young.json) |
+| Die Young: Prologue | 118781 | [118781-die-young-prologue.json](./118781-die-young-prologue.json) |
 | Die-Rise | 245277 | [245277-die-rise.json](./245277-die-rise.json) |
 | Die, A.I | 203191 | [203191-die-a-i.json](./203191-die-a-i.json) |
 | Die, A.I. | 191183 | [191183-die-a-i.json](./191183-die-a-i.json) |
@@ -9785,6 +9788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DomiNations | 39257 | [39257-dominations.json](./39257-dominations.json) |
 | Dominator | 13601 | [13601-dominator.json](./13601-dominator.json) |
 | Dominator Idle | 235879 | [235879-dominator-idle.json](./235879-dominator-idle.json) |
+| Dominatrix Simulator: Threshold | 110824 | [110824-dominatrix-simulator-threshold.json](./110824-dominatrix-simulator-threshold.json) |
 | Dominay | 211962 | [211962-dominay.json](./211962-dominay.json) |
 | Domineon 2 | 139655 | [139655-domineon-2.json](./139655-domineon-2.json) |
 | Domini | 353065 | [353065-domini.json](./353065-domini.json) |
@@ -11354,6 +11358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Club | 330284 | [330284-downtown-club.json](./330284-downtown-club.json) |
 | Downtown Dealers | 244071 | [244071-downtown-dealers.json](./244071-downtown-dealers.json) |
 | Downtown Dodgeball Da yo: Zenin Shuugou!! | 60501 | [60501-downtown-dodgeball-da-yo-zenin-shuugou.json](./60501-downtown-dodgeball-da-yo-zenin-shuugou.json) |
+| Downtown Drift | 118363 | [118363-downtown-drift.json](./118363-downtown-drift.json) |
 | Downtown Jam | 207784 | [207784-downtown-jam.json](./207784-downtown-jam.json) |
 | Downtown Journey | 308454 | [308454-downtown-journey.json](./308454-downtown-journey.json) |
 | Downtown Mafia: Gang Wars | 105348 | [105348-downtown-mafia-gang-wars.json](./105348-downtown-mafia-gang-wars.json) |
