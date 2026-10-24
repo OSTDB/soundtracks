@@ -3444,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redout 2: Winter Pack | 237321 | [237321-redout-2-winter-pack.json](./237321-redout-2-winter-pack.json) |
 | Redout: Back to Earth Pack | 226970 | [226970-redout-back-to-earth-pack.json](./226970-redout-back-to-earth-pack.json) |
 | Redout: Deluxe Edition | 53497 | [53497-redout-deluxe-edition.json](./53497-redout-deluxe-edition.json) |
+| Redout: Lightspeed Edition | 52715 | [52715-redout-lightspeed-edition.json](./52715-redout-lightspeed-edition.json) |
 | Redout: Mars Pack | 226971 | [226971-redout-mars-pack.json](./226971-redout-mars-pack.json) |
 | Redout: Neptune Pack | 226972 | [226972-redout-neptune-pack.json](./226972-redout-neptune-pack.json) |
 | Redout: Solar Challenge Edition | 124807 | [124807-redout-solar-challenge-edition.json](./124807-redout-solar-challenge-edition.json) |
@@ -9450,6 +9451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Heirs of the Kings | 100821 | [100821-rpg-heirs-of-the-kings.json](./100821-rpg-heirs-of-the-kings.json) |
 | RPG Idle | 169796 | [169796-rpg-idle.json](./169796-rpg-idle.json) |
 | RPG in a Box | 138519 | [138519-rpg-in-a-box.json](./138519-rpg-in-a-box.json) |
+| RPG Maker 2000 | 53528 | [53528-rpg-maker-2000.json](./53528-rpg-maker-2000.json) |
 | RPG Maker 2003 | 53529 | [53529-rpg-maker-2003.json](./53529-rpg-maker-2003.json) |
 | RPG Maker 3 | 24144 | [24144-rpg-maker-3.json](./24144-rpg-maker-3.json) |
 | RPG Maker Coloring Book | 338946 | [338946-rpg-maker-coloring-book.json](./338946-rpg-maker-coloring-book.json) |
