@@ -5119,6 +5119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleBigPlanet PS Vita: DC Comics Premium Level Pack | 344442 | [344442-littlebigplanet-ps-vita-dc-comics-premium-level-pack.json](./344442-littlebigplanet-ps-vita-dc-comics-premium-level-pack.json) |
 | LittleBigPlanet PS Vita: Marvel Arcade Pack | 147278 | [147278-littlebigplanet-ps-vita-marvel-arcade-pack.json](./147278-littlebigplanet-ps-vita-marvel-arcade-pack.json) |
 | LittleBigPlanet: 3 Dia de Muertos Big Toggle Costume | 321185 | [321185-littlebigplanet-3-dia-de-muertos-big-toggle-costume.json](./321185-littlebigplanet-3-dia-de-muertos-big-toggle-costume.json) |
+| LittleBigPlanet: Game of the Year Edition | 21846 | [21846-littlebigplanet-game-of-the-year-edition.json](./21846-littlebigplanet-game-of-the-year-edition.json) |
 | LittleBigPlanet: Marvel Super Hero Edition | 147222 | [147222-littlebigplanet-marvel-super-hero-edition.json](./147222-littlebigplanet-marvel-super-hero-edition.json) |
 | LittleBigPlanet: Pirates of the Caribbean Level Kit | 194642 | [194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json](./194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json) |
 | LittleBigPlanet: Sack-Eating Plant Costume | 321186 | [321186-littlebigplanet-sack-eating-plant-costume.json](./321186-littlebigplanet-sack-eating-plant-costume.json) |
@@ -6202,6 +6203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord O' Pirates | 258528 | [258528-lord-o-pirates.json](./258528-lord-o-pirates.json) |
 | Lord of Anatolia | 390208 | [390208-lord-of-anatolia.json](./390208-lord-of-anatolia.json) |
 | Lord of Apocalypse | 92600 | [92600-lord-of-apocalypse.json](./92600-lord-of-apocalypse.json) |
+| Lord of Arcana | 21736 | [21736-lord-of-arcana.json](./21736-lord-of-arcana.json) |
 | Lord of Bones | 236265 | [236265-lord-of-bones.json](./236265-lord-of-bones.json) |
 | Lord of Darkness | 42586 | [42586-lord-of-darkness.json](./42586-lord-of-darkness.json) |
 | Lord of Darkness: Aftermath | 279014 | [279014-lord-of-darkness-aftermath.json](./279014-lord-of-darkness-aftermath.json) |
