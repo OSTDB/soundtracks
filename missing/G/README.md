@@ -5194,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Sand Dream Curse | 359537 | [359537-golden-sand-dream-curse.json](./359537-golden-sand-dream-curse.json) |
 | Golden Self | 385887 | [385887-golden-self.json](./385887-golden-self.json) |
 | Golden Spatula | 326661 | [326661-golden-spatula.json](./326661-golden-spatula.json) |
+| Golden Sun | 1172 | [1172-golden-sun.json](./1172-golden-sun.json) |
 | Golden Sun | 356272 | [356272-golden-sun.json](./356272-golden-sun.json) |
 | Golden Sun QOL | 269063 | [269063-golden-sun-qol.json](./269063-golden-sun-qol.json) |
 | Golden Sun The Lost Age: Anniversary Mod | 269061 | [269061-golden-sun-the-lost-age-anniversary-mod.json](./269061-golden-sun-the-lost-age-anniversary-mod.json) |
@@ -5371,6 +5372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf vs. Zombies | 244852 | [244852-golf-vs-zombies.json](./244852-golf-vs-zombies.json) |
 | Golf vs. Zombies | 310526 | [310526-golf-vs-zombies.json](./310526-golf-vs-zombies.json) |
 | Golf with the Lads | 250881 | [250881-golf-with-the-lads.json](./250881-golf-with-the-lads.json) |
+| Golf With Your Friends | 24985 | [24985-golf-with-your-friends.json](./24985-golf-with-your-friends.json) |
 | Golf With Your Friends 2 | 325850 | [325850-golf-with-your-friends-2.json](./325850-golf-with-your-friends-2.json) |
 | Golf With Your Friends: Bouncy Castle Course | 204956 | [204956-golf-with-your-friends-bouncy-castle-course.json](./204956-golf-with-your-friends-bouncy-castle-course.json) |
 | Golf With Your Friends: Corrupted Forest Course | 250169 | [250169-golf-with-your-friends-corrupted-forest-course.json](./250169-golf-with-your-friends-corrupted-forest-course.json) |
@@ -6371,6 +6373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Carcer City | 383392 | [383392-grand-theft-auto-carcer-city.json](./383392-grand-theft-auto-carcer-city.json) |
 | Grand Theft Auto: Chinatown Wars | 3270 | [3270-grand-theft-auto-chinatown-wars.json](./3270-grand-theft-auto-chinatown-wars.json) |
 | Grand Theft Auto: Collector's Edition | 43853 | [43853-grand-theft-auto-collectors-edition.json](./43853-grand-theft-auto-collectors-edition.json) |
+| Grand Theft Auto: Episodes from Liberty City | 7003 | [7003-grand-theft-auto-episodes-from-liberty-city.json](./7003-grand-theft-auto-episodes-from-liberty-city.json) |
 | Grand Theft Auto: Frosted Winter | 410239 | [410239-grand-theft-auto-frosted-winter.json](./410239-grand-theft-auto-frosted-winter.json) |
 | Grand Theft Auto: iFruit | 62701 | [62701-grand-theft-auto-ifruit.json](./62701-grand-theft-auto-ifruit.json) |
 | Grand Theft Auto: Kurdi | 281239 | [281239-grand-theft-auto-kurdi.json](./281239-grand-theft-auto-kurdi.json) |
