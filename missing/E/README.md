@@ -6636,6 +6636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of Syn | 388126 | [388126-eye-of-syn.json](./388126-eye-of-syn.json) |
 | Eye of the Beholder | 292686 | [292686-eye-of-the-beholder.json](./292686-eye-of-the-beholder.json) |
 | Eye of the Beholder | 5384 | [5384-eye-of-the-beholder.json](./5384-eye-of-the-beholder.json) |
+| Eye of the Beholder II: The Legend of Darkmoon | 12071 | [12071-eye-of-the-beholder-ii-the-legend-of-darkmoon.json](./12071-eye-of-the-beholder-ii-the-legend-of-darkmoon.json) |
 | Eye of the Erime | 365292 | [365292-eye-of-the-erime.json](./365292-eye-of-the-erime.json) |
 | Eye of the Gods | 41172 | [41172-eye-of-the-gods.json](./41172-eye-of-the-gods.json) |
 | Eye of the Kraken | 73542 | [73542-eye-of-the-kraken.json](./73542-eye-of-the-kraken.json) |
