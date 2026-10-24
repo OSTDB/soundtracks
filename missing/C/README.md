@@ -6601,6 +6601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrome Sweat | 251975 | [251975-chrome-sweat.json](./251975-chrome-sweat.json) |
 | Chrome Switcher | 148490 | [148490-chrome-switcher.json](./148490-chrome-switcher.json) |
 | Chrome Wars | 235244 | [235244-chrome-wars.json](./235244-chrome-wars.json) |
+| Chromehounds | 6937 | [6937-chromehounds.json](./6937-chromehounds.json) |
 | ChromeRivals | 179983 | [179983-chromerivals.json](./179983-chromerivals.json) |
 | Chromium Man Clicker | 334834 | [334834-chromium-man-clicker.json](./334834-chromium-man-clicker.json) |
 | Chromo XY | 103558 | [103558-chromo-xy.json](./103558-chromo-xy.json) |
@@ -10678,6 +10679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confettied | 412395 | [412395-confettied.json](./412395-confettied.json) |
 | Confidential Killings | 340987 | [340987-confidential-killings.json](./340987-confidential-killings.json) |
 | Confidential Mission | 305954 | [305954-confidential-mission.json](./305954-confidential-mission.json) |
+| Confidential Mission | 6726 | [6726-confidential-mission.json](./6726-confidential-mission.json) |
 | Confidential Money: 300 Nichi de 3000 Man Dollar Kasegu Houhou | 64872 | [64872-confidential-money-300-nichi-de-3000-man-dollar-kasegu-houhou.json](./64872-confidential-money-300-nichi-de-3000-man-dollar-kasegu-houhou.json) |
 | Config Wars | 113854 | [113854-config-wars.json](./113854-config-wars.json) |
 | Confined | 304138 | [304138-confined.json](./304138-confined.json) |
@@ -13059,6 +13061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Time 4: The Syndicate | 19973 | [19973-crash-time-4-the-syndicate.json](./19973-crash-time-4-the-syndicate.json) |
 | Crash Time 5: Undercover | 19974 | [19974-crash-time-5-undercover.json](./19974-crash-time-5-undercover.json) |
 | Crash Time II | 6946 | [6946-crash-time-ii.json](./6946-crash-time-ii.json) |
+| Crash Time III | 6947 | [6947-crash-time-iii.json](./6947-crash-time-iii.json) |
 | Crash Time: Undercover | 226834 | [226834-crash-time-undercover.json](./226834-crash-time-undercover.json) |
 | Crash Twinsanity | 210234 | [210234-crash-twinsanity.json](./210234-crash-twinsanity.json) |
 | Crash Twinsanity 3D | 210232 | [210232-crash-twinsanity-3d.json](./210232-crash-twinsanity-3d.json) |
@@ -13877,6 +13880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Desires | 296767 | [296767-criminal-desires.json](./296767-criminal-desires.json) |
 | Criminal Dissidia | 154435 | [154435-criminal-dissidia.json](./154435-criminal-dissidia.json) |
 | Criminal Expert | 213796 | [213796-criminal-expert.json](./213796-criminal-expert.json) |
+| Criminal Girls 2: Party Favors | 24195 | [24195-criminal-girls-2-party-favors.json](./24195-criminal-girls-2-party-favors.json) |
 | Criminal Girls: Invite Only | 11746 | [11746-criminal-girls-invite-only.json](./11746-criminal-girls-invite-only.json) |
 | Criminal Hearts: Obsession Bad Girls Dating Sim | 415387 | [415387-criminal-hearts-obsession-bad-girls-dating-sim.json](./415387-criminal-hearts-obsession-bad-girls-dating-sim.json) |
 | Criminal Investigation Agents: Petrodollars | 90528 | [90528-criminal-investigation-agents-petrodollars.json](./90528-criminal-investigation-agents-petrodollars.json) |
@@ -15525,6 +15529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culdcept Expansion Plus | 45039 | [45039-culdcept-expansion-plus.json](./45039-culdcept-expansion-plus.json) |
 | Culdcept II | 137524 | [137524-culdcept-ii.json](./137524-culdcept-ii.json) |
 | Culdcept Revolt | 27258 | [27258-culdcept-revolt.json](./27258-culdcept-revolt.json) |
+| Culdcept Saga | 6949 | [6949-culdcept-saga.json](./6949-culdcept-saga.json) |
 | Culina: Hands in the Kitchen | 35567 | [35567-culina-hands-in-the-kitchen.json](./35567-culina-hands-in-the-kitchen.json) |
 | Culinarium | 322168 | [322168-culinarium.json](./322168-culinarium.json) |
 | Culinary Cooking Master Simulator | 300860 | [300860-culinary-cooking-master-simulator.json](./300860-culinary-cooking-master-simulator.json) |
@@ -16285,6 +16290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Parkour | 317387 | [317387-cyber-parkour.json](./317387-cyber-parkour.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
 | Cyber Police ESWAT | 39357 | [39357-cyber-police-eswat.json](./39357-cyber-police-eswat.json) |
+| Cyber Police ESWAT | 6793 | [6793-cyber-police-eswat.json](./6793-cyber-police-eswat.json) |
 | Cyber Pool | 194830 | [194830-cyber-pool.json](./194830-cyber-pool.json) |
 | Cyber Prison Management | 259505 | [259505-cyber-prison-management.json](./259505-cyber-prison-management.json) |
 | Cyber Protocol | 122655 | [122655-cyber-protocol.json](./122655-cyber-protocol.json) |
