@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Kong City Destroyer | 291478 | [291478-king-kong-city-destroyer.json](./291478-king-kong-city-destroyer.json) |
 | King Krieg Survivors | 295683 | [295683-king-krieg-survivors.json](./295683-king-krieg-survivors.json) |
 | King Lucas | 26371 | [26371-king-lucas.json](./26371-king-lucas.json) |
+| King Machine | 31514 | [31514-king-machine.json](./31514-king-machine.json) |
 | King NooB | 180054 | [180054-king-noob.json](./180054-king-noob.json) |
 | King Oddball Ends the World | 52532 | [52532-king-oddball-ends-the-world.json](./52532-king-oddball-ends-the-world.json) |
 | King of Avalon | 265517 | [265517-king-of-avalon.json](./265517-king-of-avalon.json) |
@@ -3321,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Keep | 304958 | [304958-kitty-keep.json](./304958-kitty-keep.json) |
 | Kitty Keeper: Cat Collector | 105881 | [105881-kitty-keeper-cat-collector.json](./105881-kitty-keeper-cat-collector.json) |
 | Kitty Kitty Bang Bang | 179146 | [179146-kitty-kitty-bang-bang.json](./179146-kitty-kitty-bang-bang.json) |
+| Kitty Kitty Boing Boing: the Happy Adventure in Puzzle Garden! | 31527 | [31527-kitty-kitty-boing-boing-the-happy-adventure-in-puzzle-garden.json](./31527-kitty-kitty-boing-boing-the-happy-adventure-in-puzzle-garden.json) |
 | Kitty Kitty Bounce Bounce | 292220 | [292220-kitty-kitty-bounce-bounce.json](./292220-kitty-kitty-bounce-bounce.json) |
 | Kitty Letter | 145044 | [145044-kitty-letter.json](./145044-kitty-letter.json) |
 | Kitty Loves Birds | 346601 | [346601-kitty-loves-birds.json](./346601-kitty-loves-birds.json) |
@@ -4087,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokuga | 22164 | [22164-kokuga.json](./22164-kokuga.json) |
 | Kokuhaku Confessional | 418268 | [418268-kokuhaku-confessional.json](./418268-kokuhaku-confessional.json) |
 | Kokuin Waltz | 97741 | [97741-kokuin-waltz.json](./97741-kokuin-waltz.json) |
+| Kokurase: Episode 1 | 31507 | [31507-kokurase-episode-1.json](./31507-kokurase-episode-1.json) |
 | Kokurase: Episode 2 | 167800 | [167800-kokurase-episode-2.json](./167800-kokurase-episode-2.json) |
 | Kokurase: Episode 3 | 167799 | [167799-kokurase-episode-3.json](./167799-kokurase-episode-3.json) |
 | Kokuriko | 296922 | [296922-kokuriko.json](./296922-kokuriko.json) |
