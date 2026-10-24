@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO Mayhem | 377946 | [377946-ufo-mayhem.json](./377946-ufo-mayhem.json) |
 | UFO No! | 180046 | [180046-ufo-no.json](./180046-ufo-no.json) |
 | UFO on Tape: First Contact | 117010 | [117010-ufo-on-tape-first-contact.json](./117010-ufo-on-tape-first-contact.json) |
+| UFO Patrol | 40594 | [40594-ufo-patrol.json](./40594-ufo-patrol.json) |
 | UFO Ride | 294725 | [294725-ufo-ride.json](./294725-ufo-ride.json) |
 | UFO Robot Grendizer: The Feast of the Wolves | 239407 | [239407-ufo-robot-grendizer-the-feast-of-the-wolves.json](./239407-ufo-robot-grendizer-the-feast-of-the-wolves.json) |
 | UFO Robot Grendizer: The Feast of the Wolves - Princely Outfit | 301563 | [301563-ufo-robot-grendizer-the-feast-of-the-wolves-princely-outfit.json](./301563-ufo-robot-grendizer-the-feast-of-the-wolves-princely-outfit.json) |
