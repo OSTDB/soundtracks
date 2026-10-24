@@ -2130,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmageddon | 246743 | [246743-carmageddon.json](./246743-carmageddon.json) |
 | Carmageddon | 246895 | [246895-carmageddon.json](./246895-carmageddon.json) |
 | Carmageddon | 626 | [626-carmageddon.json](./626-carmageddon.json) |
+| Carmageddon II: Carpocalypse Now | 951 | [951-carmageddon-ii-carpocalypse-now.json](./951-carmageddon-ii-carpocalypse-now.json) |
 | Carmageddon Max Pack | 93899 | [93899-carmageddon-max-pack.json](./93899-carmageddon-max-pack.json) |
 | Carmageddon TV | 246897 | [246897-carmageddon-tv.json](./246897-carmageddon-tv.json) |
 | Carmageddon: Crashers | 36505 | [36505-carmageddon-crashers.json](./36505-carmageddon-crashers.json) |
@@ -3180,6 +3181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Purrtrol: Find All 100! | 295772 | [295772-cat-purrtrol-find-all-100.json](./295772-cat-purrtrol-find-all-100.json) |
 | Cat Puzzle | 335441 | [335441-cat-puzzle.json](./335441-cat-puzzle.json) |
 | Cat Puzzle | 380062 | [380062-cat-puzzle.json](./380062-cat-puzzle.json) |
+| Cat Quest | 36597 | [36597-cat-quest.json](./36597-cat-quest.json) |
 | Cat Quest + Cat Quest II: Pawsome Pack | 129999 | [129999-cat-quest-cat-quest-ii-pawsome-pack.json](./129999-cat-quest-cat-quest-ii-pawsome-pack.json) |
 | Cat Quest III: Tavern Tales | 347866 | [347866-cat-quest-iii-tavern-tales.json](./347866-cat-quest-iii-tavern-tales.json) |
 | Cat Quest: The Fur-tastic Trilogy | 313223 | [313223-cat-quest-the-fur-tastic-trilogy.json](./313223-cat-quest-the-fur-tastic-trilogy.json) |
