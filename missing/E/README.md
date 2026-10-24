@@ -3016,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Sky | 128413 | [128413-endless-sky.json](./128413-endless-sky.json) |
 | Endless Snake | 401789 | [401789-endless-snake.json](./401789-endless-snake.json) |
 | Endless Soul Light Solitaire | 169867 | [169867-endless-soul-light-solitaire.json](./169867-endless-soul-light-solitaire.json) |
+| Endless Space | 9634 | [9634-endless-space.json](./9634-endless-space.json) |
 | Endless Space 2 | 11550 | [11550-endless-space-2.json](./11550-endless-space-2.json) |
 | Endless Space 2: Awakening | 122653 | [122653-endless-space-2-awakening.json](./122653-endless-space-2-awakening.json) |
 | Endless Space 2: Celestial Worlds | 148837 | [148837-endless-space-2-celestial-worlds.json](./148837-endless-space-2-celestial-worlds.json) |
@@ -5076,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Life & Logistics Simulators | 221709 | [221709-euro-truck-life-and-logistics-simulators.json](./221709-euro-truck-life-and-logistics-simulators.json) |
 | Euro Truck of Reality | 193803 | [193803-euro-truck-of-reality.json](./193803-euro-truck-of-reality.json) |
 | Euro Truck Sim Driver Simulator 24: Garbage | 322424 | [322424-euro-truck-sim-driver-simulator-24-garbage.json](./322424-euro-truck-sim-driver-simulator-24-garbage.json) |
+| Euro Truck Simulator | 6653 | [6653-euro-truck-simulator.json](./6653-euro-truck-simulator.json) |
 | Euro Truck Simulator 2: Beyond the Baltic Sea | 125011 | [125011-euro-truck-simulator-2-beyond-the-baltic-sea.json](./125011-euro-truck-simulator-2-beyond-the-baltic-sea.json) |
 | Euro Truck Simulator 2: DAF XD | 277585 | [277585-euro-truck-simulator-2-daf-xd.json](./277585-euro-truck-simulator-2-daf-xd.json) |
 | Euro Truck Simulator 2: Essentials | 52976 | [52976-euro-truck-simulator-2-essentials.json](./52976-euro-truck-simulator-2-essentials.json) |
