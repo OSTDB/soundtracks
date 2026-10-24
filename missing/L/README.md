@@ -1967,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left&Right | 86357 | [86357-left-and-right.json](./86357-left-and-right.json) |
 | Lefties' Righteous Arcade Emporium | 289305 | [289305-lefties-righteous-arcade-emporium.json](./289305-lefties-righteous-arcade-emporium.json) |
 | Leftovers | 221977 | [221977-leftovers.json](./221977-leftovers.json) |
+| LeftWay | 52279 | [52279-leftway.json](./52279-leftway.json) |
 | Lefty | 178636 | [178636-lefty.json](./178636-lefty.json) |
 | Lefty | 309955 | [309955-lefty.json](./309955-lefty.json) |
 | Leg Day: Four Steps Through Hell | 415992 | [415992-leg-day-four-steps-through-hell.json](./415992-leg-day-four-steps-through-hell.json) |
@@ -5671,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical 3 | 153003 | [153003-logistical-3.json](./153003-logistical-3.json) |
 | Logistical 3: Portugal | 350074 | [350074-logistical-3-portugal.json](./350074-logistical-3-portugal.json) |
 | Logistical: Brazil | 74485 | [74485-logistical-brazil.json](./74485-logistical-brazil.json) |
+| Logistical: British Isles | 52298 | [52298-logistical-british-isles.json](./52298-logistical-british-isles.json) |
 | Logistical: Chile | 59229 | [59229-logistical-chile.json](./59229-logistical-chile.json) |
 | Logistical: Earth | 51582 | [51582-logistical-earth.json](./51582-logistical-earth.json) |
 | Logistical: Europe | 53278 | [53278-logistical-europe.json](./53278-logistical-europe.json) |
@@ -6794,6 +6796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Tales: Forgotten Souls | 369715 | [369715-lost-tales-forgotten-souls.json](./369715-lost-tales-forgotten-souls.json) |
 | Lost Tales: Karai Vosa | 376134 | [376134-lost-tales-karai-vosa.json](./376134-lost-tales-karai-vosa.json) |
 | Lost Tales: The Castle Escape | 104809 | [104809-lost-tales-the-castle-escape.json](./104809-lost-tales-the-castle-escape.json) |
+| Lost Technology | 54315 | [54315-lost-technology.json](./54315-lost-technology.json) |
 | Lost Tenet | 260213 | [260213-lost-tenet.json](./260213-lost-tenet.json) |
 | Lost The Lights | 288270 | [288270-lost-the-lights.json](./288270-lost-the-lights.json) |
 | Lost to Riches | 245900 | [245900-lost-to-riches.json](./245900-lost-to-riches.json) |
