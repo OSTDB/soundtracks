@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Call to Mars | 141755 | [141755-a-call-to-mars.json](./141755-a-call-to-mars.json) |
 | A Car That Turns | 205084 | [205084-a-car-that-turns.json](./205084-a-car-that-turns.json) |
 | A Case for Cap & Co | 242642 | [242642-a-case-for-cap-and-co.json](./242642-a-case-for-cap-and-co.json) |
+| A Case of Distrust | 28282 | [28282-a-case-of-distrust.json](./28282-a-case-of-distrust.json) |
 | A Case of Missing Dairy | 185400 | [185400-a-case-of-missing-dairy.json](./185400-a-case-of-missing-dairy.json) |
 | A Case of Missing Identity | 389016 | [389016-a-case-of-missing-identity.json](./389016-a-case-of-missing-identity.json) |
 | A Case of the Crabs: Rehash | 237458 | [237458-a-case-of-the-crabs-rehash.json](./237458-a-case-of-the-crabs-rehash.json) |
@@ -655,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Moment of a Self Portrait | 179000 | [179000-a-moment-of-a-self-portrait.json](./179000-a-moment-of-a-self-portrait.json) |
 | A Moon for the Sky | 9974 | [9974-a-moon-for-the-sky.json](./9974-a-moon-for-the-sky.json) |
 | A Morte | 268898 | [268898-a-morte.json](./268898-a-morte.json) |
+| A Mortician's Tale | 28073 | [28073-a-morticians-tale.json](./28073-a-morticians-tale.json) |
 | A Most Curious Murder | 83853 | [83853-a-most-curious-murder.json](./83853-a-most-curious-murder.json) |
 | A Most Extraordinary Gnome | 211034 | [211034-a-most-extraordinary-gnome.json](./211034-a-most-extraordinary-gnome.json) |
 | A Moth Argent | 135835 | [135835-a-moth-argent.json](./135835-a-moth-argent.json) |
@@ -2045,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace of Space | 172031 | [172031-ace-of-space.json](./172031-ace-of-space.json) |
 | Ace of Space | 376841 | [376841-ace-of-space.json](./376841-ace-of-space.json) |
 | Ace of Spades | 236386 | [236386-ace-of-spades.json](./236386-ace-of-spades.json) |
+| Ace of Spades: Battle Builder | 23400 | [23400-ace-of-spades-battle-builder.json](./23400-ace-of-spades-battle-builder.json) |
 | Ace of Wands | 321410 | [321410-ace-of-wands.json](./321410-ace-of-wands.json) |
 | Ace Pilot Pacific | 283877 | [283877-ace-pilot-pacific.json](./283877-ace-pilot-pacific.json) |
 | Ace Prosecutor Zero | 303022 | [303022-ace-prosecutor-zero.json](./303022-ace-prosecutor-zero.json) |
@@ -2951,7 +2954,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3025,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aebal | 167174 | [167174-aebal.json](./167174-aebal.json) |
 | Aëdemphia | 125943 | [125943-aedemphia.json](./125943-aedemphia.json) |
 | Aedis Eclipse: Generation of Chaos | 44523 | [44523-aedis-eclipse-generation-of-chaos.json](./44523-aedis-eclipse-generation-of-chaos.json) |
+| Aegis Defenders | 35210 | [35210-aegis-defenders.json](./35210-aegis-defenders.json) |
 | Aegis Descent | 199281 | [199281-aegis-descent.json](./199281-aegis-descent.json) |
 | Aegis Dilemma: Veritas Omnia Vincit | 279265 | [279265-aegis-dilemma-veritas-omnia-vincit.json](./279265-aegis-dilemma-veritas-omnia-vincit.json) |
 | Aegis Force: The Scorian War | 328227 | [328227-aegis-force-the-scorian-war.json](./328227-aegis-force-the-scorian-war.json) |
@@ -12501,6 +12504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astérix: Hunt for the Boars | 347903 | [347903-asterix-hunt-for-the-boars.json](./347903-asterix-hunt-for-the-boars.json) |
 | Astérix: Mega Madness | 43869 | [43869-asterix-mega-madness.json](./43869-asterix-mega-madness.json) |
 | Astérix: Search for Dogmatix | 50019 | [50019-asterix-search-for-dogmatix.json](./50019-asterix-search-for-dogmatix.json) |
+| Astérix: The Gallic War | 45232 | [45232-asterix-the-gallic-war.json](./45232-asterix-the-gallic-war.json) |
 | Asterix: The Mansions of the Gods | 84771 | [84771-asterix-the-mansions-of-the-gods.json](./84771-asterix-the-mansions-of-the-gods.json) |
 | Asterix: The Official Mobile Game of the Movie | 297590 | [297590-asterix-the-official-mobile-game-of-the-movie.json](./297590-asterix-the-official-mobile-game-of-the-movie.json) |
 | Astérix: These Romans Are Crazy! | 269567 | [269567-asterix-these-romans-are-crazy.json](./269567-asterix-these-romans-are-crazy.json) |
