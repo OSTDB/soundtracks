@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-23T07:08:53.952Z",
-  "total_soundtracks": 2512,
+  "generated_at": "2026-10-24T08:11:13.469Z",
+  "total_soundtracks": 2515,
   "games": [
     {
       "igdb_id": 7522,
@@ -2651,6 +2651,20 @@
       ]
     },
     {
+      "igdb_id": 26941,
+      "game_name": "Battlefield 1: They Shall Not Pass",
+      "game_url": "https://ostdb.net/games/battlefield-1-they-shall-not-pass",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273af623a3aaf7c8fc9c5a03a20",
+      "albums": [
+        {
+          "album_name": "Battlefield 1: They Shall Not Pass (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2dDQJvGTPcBD1FeGRGP1nj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 240,
       "game_name": "Battlefield 1942",
       "game_url": "https://ostdb.net/games/battlefield-1942",
@@ -4138,6 +4152,20 @@
           "album_name": "Call of Duty Black Ops II (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5Ktys9SYMY2DeqyhGLzQBn",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 21865,
+      "game_name": "Call of Duty: Black Ops II",
+      "game_url": "https://ostdb.net/games/call-of-duty-black-ops-ii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bb8639d1374637e0c6b47edb",
+      "albums": [
+        {
+          "album_name": "Call of Duty Black Ops II (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5Ktys9SYMY2DeqyhGLzQBn",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -25216,6 +25244,20 @@
     },
     {
       "igdb_id": 1207,
+      "game_name": "Tales of the Abyss",
+      "game_url": "https://ostdb.net/games/tales-of-the-abyss",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730bba0c51518da5db9ce63d83",
+      "albums": [
+        {
+          "album_name": "TALES OF THE ABYSS Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3aE5ihWUWdqPCpjUBynH71",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 20972,
       "game_name": "Tales of the Abyss",
       "game_url": "https://ostdb.net/games/tales-of-the-abyss",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b2730bba0c51518da5db9ce63d83",
