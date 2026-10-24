@@ -3004,6 +3004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orangia DLC | 366935 | [366935-orangia-dlc.json](./366935-orangia-dlc.json) |
 | Orava | 377071 | [377071-orava.json](./377071-orava.json) |
 | Oraxum Trials | 192331 | [192331-oraxum-trials.json](./192331-oraxum-trials.json) |
+| Orb | 17119 | [17119-orb.json](./17119-orb.json) |
 | Orb | 229551 | [229551-orb.json](./229551-orb.json) |
 | Orb 2 | 408650 | [408650-orb-2.json](./408650-orb-2.json) |
 | Orb 2: The New Levels | 408716 | [408716-orb-2-the-new-levels.json](./408716-orb-2-the-new-levels.json) |
@@ -3213,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of Battle: Endsieg | 118971 | [118971-order-of-battle-endsieg.json](./118971-order-of-battle-endsieg.json) |
 | Order of Battle: Kriegsmarine | 118967 | [118967-order-of-battle-kriegsmarine.json](./118967-order-of-battle-kriegsmarine.json) |
 | Order of Battle: Morning Sun | 118961 | [118961-order-of-battle-morning-sun.json](./118961-order-of-battle-morning-sun.json) |
+| Order of Battle: Pacific | 17002 | [17002-order-of-battle-pacific.json](./17002-order-of-battle-pacific.json) |
 | Order of Battle: Panzerkrieg | 118969 | [118969-order-of-battle-panzerkrieg.json](./118969-order-of-battle-panzerkrieg.json) |
 | Order of Battle: Red Star | 121528 | [121528-order-of-battle-red-star.json](./121528-order-of-battle-red-star.json) |
 | Order of Battle: Red Steel | 154512 | [154512-order-of-battle-red-steel.json](./154512-order-of-battle-red-steel.json) |
@@ -4324,6 +4326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutRun 2006: Coast 2 Coast | 2054 | [2054-outrun-2006-coast-2-coast.json](./2054-outrun-2006-coast-2-coast.json) |
 | OutRun 2019 | 45767 | [45767-outrun-2019.json](./45767-outrun-2019.json) |
 | OutRun 3-D | 46136 | [46136-outrun-3-d.json](./46136-outrun-3-d.json) |
+| OutRun Europa | 2055 | [2055-outrun-europa.json](./2055-outrun-europa.json) |
 | OutRun Europa | 38874 | [38874-outrun-europa.json](./38874-outrun-europa.json) |
 | Outrun Online Arcade | 21204 | [21204-outrun-online-arcade.json](./21204-outrun-online-arcade.json) |
 | Outrun Them | 296481 | [296481-outrun-them.json](./296481-outrun-them.json) |
