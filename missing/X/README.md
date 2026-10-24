@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xezi: Story Mode | 23861 | [23861-xezi-story-mode.json](./23861-xezi-story-mode.json) |
 | XF: Football Arena | 193869 | [193869-xf-football-arena.json](./193869-xf-football-arena.json) |
 | XF5700 Mantis Experimental Fighter: Speech Pack | 137497 | [137497-xf5700-mantis-experimental-fighter-speech-pack.json](./137497-xf5700-mantis-experimental-fighter-speech-pack.json) |
+| XField Paintball 3 | 35034 | [35034-xfield-paintball-3.json](./35034-xfield-paintball-3.json) |
 | XFlight | 343307 | [343307-xflight.json](./343307-xflight.json) |
 | XG Blast! | 21254 | [21254-xg-blast.json](./21254-xg-blast.json) |
 | XGA | 316695 | [316695-xga.json](./316695-xga.json) |
