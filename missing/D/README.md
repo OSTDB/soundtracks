@@ -4516,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender's Quest 2: Mists of Ruin | 7889 | [7889-defenders-quest-2-mists-of-ruin.json](./7889-defenders-quest-2-mists-of-ruin.json) |
 | Defender's Quest: Valley of the Forgotten | 7888 | [7888-defenders-quest-valley-of-the-forgotten.json](./7888-defenders-quest-valley-of-the-forgotten.json) |
 | Defenders | 309497 | [309497-defenders.json](./309497-defenders.json) |
+| Defenders | 33837 | [33837-defenders.json](./33837-defenders.json) |
 | Defenders Chronicles II: Heroes of Athelia | 19206 | [19206-defenders-chronicles-ii-heroes-of-athelia.json](./19206-defenders-chronicles-ii-heroes-of-athelia.json) |
 | Defenders Glory | 195638 | [195638-defenders-glory.json](./195638-defenders-glory.json) |
 | Defenders Guild | 271078 | [271078-defenders-guild.json](./271078-defenders-guild.json) |
@@ -6916,6 +6917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diddy Kong Racing Adventure | 131896 | [131896-diddy-kong-racing-adventure.json](./131896-diddy-kong-racing-adventure.json) |
 | Diddy Kong Racing DS: Timber's Balloon Pop | 231630 | [231630-diddy-kong-racing-ds-timbers-balloon-pop.json](./231630-diddy-kong-racing-ds-timbers-balloon-pop.json) |
 | Diddy Kong Racing: Recompiled | 413189 | [413189-diddy-kong-racing-recompiled.json](./413189-diddy-kong-racing-recompiled.json) |
+| Didgery | 33867 | [33867-didgery.json](./33867-didgery.json) |
 | Didgery | 94109 | [94109-didgery.json](./94109-didgery.json) |
 | Didi & Ditto: Kindergarten | 73832 | [73832-didi-and-ditto-kindergarten.json](./73832-didi-and-ditto-kindergarten.json) |
 | Didj Racing: Tiki Tropics | 94158 | [94158-didj-racing-tiki-tropics.json](./94158-didj-racing-tiki-tropics.json) |
@@ -13719,6 +13721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS Yamamura Misa Suspense: Maiko Kogiku / Kisha Katherine / Sougiya Ishihara Akiko / Koto ni Mauhana Sanrin - Kyoto Satujin Jiken File | 269575 | [269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json](./269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json) |
 | DS Yukemuri Suspense Series: Free Writer Tachibana Maki - "Touyako, Nanatsu no Yu, Okuyu no Sato" Shuzai Techou | 124517 | [124517-ds-yukemuri-suspense-series-free-writer-tachibana-maki-touyako-nanatsu-no-yu-okuyu-no-sato-shuzai-techou.json](./124517-ds-yukemuri-suspense-series-free-writer-tachibana-maki-touyako-nanatsu-no-yu-okuyu-no-sato-shuzai-techou.json) |
 | DsDooM3 | 314899 | [314899-dsdoom3.json](./314899-dsdoom3.json) |
+| DSS | 33783 | [33783-dss.json](./33783-dss.json) |
 | DSS war party | 286071 | [286071-dss-war-party.json](./286071-dss-war-party.json) |
 | Dstnce. | 157435 | [157435-dstnce.json](./157435-dstnce.json) |
 | Dstroy | 19223 | [19223-dstroy.json](./19223-dstroy.json) |
@@ -14812,6 +14815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons and Myths | 226816 | [226816-dungeons-and-myths.json](./226816-dungeons-and-myths.json) |
 | Dungeons and Raids | 236516 | [236516-dungeons-and-raids.json](./236516-dungeons-and-raids.json) |
 | Dungeons and Tiles | 224060 | [224060-dungeons-and-tiles.json](./224060-dungeons-and-tiles.json) |
+| Dungeons Are Random | 33845 | [33845-dungeons-are-random.json](./33845-dungeons-are-random.json) |
 | Dungeons Forever | 84034 | [84034-dungeons-forever.json](./84034-dungeons-forever.json) |
 | Dungeons of Aether | 195068 | [195068-dungeons-of-aether.json](./195068-dungeons-of-aether.json) |
 | Dungeons of Aledorn | 60494 | [60494-dungeons-of-aledorn.json](./60494-dungeons-of-aledorn.json) |
@@ -14933,6 +14937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duped | 65789 | [65789-duped.json](./65789-duped.json) |
 | Dupio | 89076 | [89076-dupio.json](./89076-dupio.json) |
 | Duplex | 273554 | [273554-duplex.json](./273554-duplex.json) |
+| Duplexer | 33832 | [33832-duplexer.json](./33832-duplexer.json) |
 | Dupli_City | 126966 | [126966-dupli-city.json](./126966-dupli-city.json) |
 | dUpLicity ~Beyond the Lies~ | 36104 | [36104-duplicity-beyond-the-lies.json](./36104-duplicity-beyond-the-lies.json) |
 | Duplicity Loop | 278525 | [278525-duplicity-loop.json](./278525-duplicity-loop.json) |
