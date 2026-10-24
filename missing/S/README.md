@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R.: Hunter Scope Hostile Territory | 378966 | [378966-s-n-i-p-e-r-hunter-scope-hostile-territory.json](./378966-s-n-i-p-e-r-hunter-scope-hostile-territory.json) |
 | S.O.L School Of Labyrinth | 412447 | [412447-s-o-l-school-of-labyrinth.json](./412447-s-o-l-school-of-labyrinth.json) |
 | S.O.L: Search of Light | 154380 | [154380-s-o-l-search-of-light.json](./154380-s-o-l-search-of-light.json) |
+| S.O.L: Stone of Life EX | 38730 | [38730-s-o-l-stone-of-life-ex.json](./38730-s-o-l-stone-of-life-ex.json) |
 | S.O.N | 102781 | [102781-s-o-n.json](./102781-s-o-n.json) |
 | S.O.N.A.R.: Submarine Operators Not Actually Ready | 410320 | [410320-s-o-n-a-r-submarine-operators-not-actually-ready.json](./410320-s-o-n-a-r-submarine-operators-not-actually-ready.json) |
 | S.O.R.N. | 400086 | [400086-s-o-r-n.json](./400086-s-o-r-n.json) |
@@ -12361,6 +12362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Park 2004 Season Pass | 205119 | [205119-snowboard-park-2004-season-pass.json](./205119-snowboard-park-2004-season-pass.json) |
 | Snowboard Park Tycoon | 68881 | [68881-snowboard-park-tycoon.json](./68881-snowboard-park-tycoon.json) |
 | Snowboard Party | 71202 | [71202-snowboard-party.json](./71202-snowboard-party.json) |
+| Snowboard Party 2 | 38716 | [38716-snowboard-party-2.json](./38716-snowboard-party-2.json) |
 | Snowboard Party World Tour Pro | 88189 | [88189-snowboard-party-world-tour-pro.json](./88189-snowboard-party-world-tour-pro.json) |
 | Snowboard Party: Aspen | 86954 | [86954-snowboard-party-aspen.json](./86954-snowboard-party-aspen.json) |
 | Snowboard Stunts | 387732 | [387732-snowboard-stunts.json](./387732-snowboard-stunts.json) |
@@ -18632,6 +18634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squeezils | 206708 | [206708-squeezils.json](./206708-squeezils.json) |
 | Squeezone | 31709 | [31709-squeezone.json](./31709-squeezone.json) |
 | Squewe Run | 312884 | [312884-squewe-run.json](./312884-squewe-run.json) |
+| Squibble | 38699 | [38699-squibble.json](./38699-squibble.json) |
 | Squibs Arcade | 92354 | [92354-squibs-arcade.json](./92354-squibs-arcade.json) |
 | Squid and Let Die | 57342 | [57342-squid-and-let-die.json](./57342-squid-and-let-die.json) |
 | Squid Commando | 270562 | [270562-squid-commando.json](./270562-squid-commando.json) |
@@ -25117,6 +25120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kiwi 64: Doomsday | 284145 | [284145-super-kiwi-64-doomsday.json](./284145-super-kiwi-64-doomsday.json) |
 | Super Knockoff Versus | 82507 | [82507-super-knockoff-versus.json](./82507-super-knockoff-versus.json) |
 | Super Knockoff! VS | 81131 | [81131-super-knockoff-vs.json](./81131-super-knockoff-vs.json) |
+| Super KO Boxing 2 | 38732 | [38732-super-ko-boxing-2.json](./38732-super-ko-boxing-2.json) |
 | Super Kobushi de Naguru Chan | 218123 | [218123-super-kobushi-de-naguru-chan.json](./218123-super-kobushi-de-naguru-chan.json) |
 | Super Kong | 64808 | [64808-super-kong.json](./64808-super-kong.json) |
 | Super Koopa RPG: Here Comes the Koopa Bros.! | 338834 | [338834-super-koopa-rpg-here-comes-the-koopa-bros.json](./338834-super-koopa-rpg-here-comes-the-koopa-bros.json) |
