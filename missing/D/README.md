@@ -1771,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Shooter | 164225 | [164225-darkness-shooter.json](./164225-darkness-shooter.json) |
 | Darkness Suppressor: Onna Taimashi no Inbu | 97748 | [97748-darkness-suppressor-onna-taimashi-no-inbu.json](./97748-darkness-suppressor-onna-taimashi-no-inbu.json) |
 | Darkness Trap: Purify Old Sins | 134440 | [134440-darkness-trap-purify-old-sins.json](./134440-darkness-trap-purify-old-sins.json) |
+| Darkness Within 2: The Dark Lineage | 10164 | [10164-darkness-within-2-the-dark-lineage.json](./10164-darkness-within-2-the-dark-lineage.json) |
 | Darkness Within 2: The Dark Lineage - Director's Cut Edition | 36298 | [36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json](./36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json) |
 | Darknet | 20018 | [20018-darknet.json](./20018-darknet.json) |
 | Darknet | 99512 | [99512-darknet.json](./99512-darknet.json) |
@@ -4635,6 +4636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deff | 133973 | [133973-deff.json](./133973-deff.json) |
 | Defi Gravity | 227157 | [227157-defi-gravity.json](./227157-defi-gravity.json) |
 | Defi Kingdoms | 185371 | [185371-defi-kingdoms.json](./185371-defi-kingdoms.json) |
+| DeFi Land | 212871 | [212871-defi-land.json](./212871-defi-land.json) |
 | Defiance | 139312 | [139312-defiance.json](./139312-defiance.json) |
 | Defiance | 1973 | [1973-defiance.json](./1973-defiance.json) |
 | Defiance & Mr. Good Looking | 140856 | [140856-defiance-and-mr-good-looking.json](./140856-defiance-and-mr-good-looking.json) |
@@ -6505,6 +6507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Calling | 295473 | [295473-devils-calling.json](./295473-devils-calling.json) |
 | Devil's Corp | 329786 | [329786-devils-corp.json](./329786-devils-corp.json) |
 | Devil's Crown | 13592 | [13592-devils-crown.json](./13592-devils-crown.json) |
+| Devil's Crush | 6827 | [6827-devils-crush.json](./6827-devils-crush.json) |
 | Devil's Dare | 8798 | [8798-devils-dare.json](./8798-devils-dare.json) |
 | Devil's Deck: Astray Destiny | 207370 | [207370-devils-deck-astray-destiny.json](./207370-devils-deck-astray-destiny.json) |
 | Devil's Derby | 337494 | [337494-devils-derby.json](./337494-devils-derby.json) |
