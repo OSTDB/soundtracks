@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zanac | 292025 | [292025-zanac.json](./292025-zanac.json) |
 | Zanac | 41319 | [41319-zanac.json](./41319-zanac.json) |
 | Zanac X Zanac | 46083 | [46083-zanac-x-zanac.json](./46083-zanac-x-zanac.json) |
+| Zanac-Ex | 41773 | [41773-zanac-ex.json](./41773-zanac-ex.json) |
 | Zandronum | 229496 | [229496-zandronum.json](./229496-zandronum.json) |
 | Zane | 233734 | [233734-zane.json](./233734-zane.json) |
 | Zanerdin: The Unbound | 391286 | [391286-zanerdin-the-unbound.json](./391286-zanerdin-the-unbound.json) |
