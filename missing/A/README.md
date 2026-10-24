@@ -2951,7 +2951,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -12458,6 +12457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astérix | 7757 | [7757-asterix.json](./7757-asterix.json) |
 | Asterix & Cleopatra | 347915 | [347915-asterix-and-cleopatra.json](./347915-asterix-and-cleopatra.json) |
 | Asterix & Friends | 23621 | [23621-asterix-and-friends.json](./23621-asterix-and-friends.json) |
+| Astérix & Obélix | 14452 | [14452-asterix-and-obelix.json](./14452-asterix-and-obelix.json) |
 | Astérix & Obélix | 228475 | [228475-asterix-and-obelix.json](./228475-asterix-and-obelix.json) |
 | Astérix & Obélix | 347901 | [347901-asterix-and-obelix.json](./347901-asterix-and-obelix.json) |
 | Asterix & Obelix Take on Caesar | 270061 | [270061-asterix-and-obelix-take-on-caesar.json](./270061-asterix-and-obelix-take-on-caesar.json) |
