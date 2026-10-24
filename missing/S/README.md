@@ -3596,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Agent Dorito | 141593 | [141593-secret-agent-dorito.json](./141593-secret-agent-dorito.json) |
 | Secret Agent Files: Miami | 84858 | [84858-secret-agent-files-miami.json](./84858-secret-agent-files-miami.json) |
 | Secret Agent Game: The 5 Keys | 175559 | [175559-secret-agent-game-the-5-keys.json](./175559-secret-agent-game-the-5-keys.json) |
+| Secret Agent HD | 153815 | [153815-secret-agent-hd.json](./153815-secret-agent-hd.json) |
 | Secret Agent No. 6 | 254040 | [254040-secret-agent-no-6.json](./254040-secret-agent-no-6.json) |
 | Secret Agent Puzzle | 331662 | [331662-secret-agent-puzzle.json](./331662-secret-agent-puzzle.json) |
 | Secret Agent Spy Game: Hotel Assassination Mission | 196334 | [196334-secret-agent-spy-game-hotel-assassination-mission.json](./196334-secret-agent-spy-game-hotel-assassination-mission.json) |
@@ -5489,6 +5490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Protocol | 351750 | [351750-shadow-protocol.json](./351750-shadow-protocol.json) |
 | Shadow Pulse | 273793 | [273793-shadow-pulse.json](./273793-shadow-pulse.json) |
 | Shadow Puppet | 336687 | [336687-shadow-puppet.json](./336687-shadow-puppet.json) |
+| Shadow Puppeteer | 7819 | [7819-shadow-puppeteer.json](./7819-shadow-puppeteer.json) |
 | Shadow Quest | 188095 | [188095-shadow-quest.json](./188095-shadow-quest.json) |
 | Shadow Quest | 326959 | [326959-shadow-quest.json](./326959-shadow-quest.json) |
 | Shadow Quest | 372738 | [372738-shadow-quest.json](./372738-shadow-quest.json) |
@@ -7412,6 +7414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Hurts | 109356 | [109356-shooting-hurts.json](./109356-shooting-hurts.json) |
 | Shooting King | 105518 | [105518-shooting-king.json](./105518-shooting-king.json) |
 | Shooting Love 20XX | 53593 | [53593-shooting-love-20xx.json](./53593-shooting-love-20xx.json) |
+| Shooting Love, 200X | 7187 | [7187-shooting-love-200x.json](./7187-shooting-love-200x.json) |
 | Shooting Love. 10-shuunen | 268857 | [268857-shooting-love-10-shuunen.json](./268857-shooting-love-10-shuunen.json) |
 | Shooting Love. 2007 | 83422 | [83422-shooting-love-2007.json](./83422-shooting-love-2007.json) |
 | Shooting Master | 366914 | [366914-shooting-master.json](./366914-shooting-master.json) |
@@ -11197,6 +11200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slope | 264867 | [264867-slope.json](./264867-slope.json) |
 | Slope Car | 238989 | [238989-slope-car.json](./238989-slope-car.json) |
 | Slope Down | 97185 | [97185-slope-down.json](./97185-slope-down.json) |
+| Slopecrashers | 154403 | [154403-slopecrashers.json](./154403-slopecrashers.json) |
 | Sloper | 89998 | [89998-sloper.json](./89998-sloper.json) |
 | Slopeside Kings | 389658 | [389658-slopeside-kings.json](./389658-slopeside-kings.json) |
 | Slopey | 96918 | [96918-slopey.json](./96918-slopey.json) |
@@ -12909,6 +12913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOCOM 4: U.S. Navy SEALs | 7459 | [7459-socom-4-u-s-navy-seals.json](./7459-socom-4-u-s-navy-seals.json) |
 | SOCOM II: U.S. Navy SEALs | 8240 | [8240-socom-ii-u-s-navy-seals.json](./8240-socom-ii-u-s-navy-seals.json) |
 | SOCOM: U.S. Navy SEALs - Combined Assault | 8242 | [8242-socom-u-s-navy-seals-combined-assault.json](./8242-socom-u-s-navy-seals-combined-assault.json) |
+| SOCOM: U.S. Navy SEALs Confrontation | 7460 | [7460-socom-u-s-navy-seals-confrontation.json](./7460-socom-u-s-navy-seals-confrontation.json) |
 | SOCOM: U.S. Navy SEALs Fireteam Bravo | 24148 | [24148-socom-u-s-navy-seals-fireteam-bravo.json](./24148-socom-u-s-navy-seals-fireteam-bravo.json) |
 | SOCOM: U.S. Navy SEALs Fireteam Bravo 2 | 19431 | [19431-socom-u-s-navy-seals-fireteam-bravo-2.json](./19431-socom-u-s-navy-seals-fireteam-bravo-2.json) |
 | SOCOM: U.S. Navy SEALs Fireteam Bravo 3 | 21665 | [21665-socom-u-s-navy-seals-fireteam-bravo-3.json](./21665-socom-u-s-navy-seals-fireteam-bravo-3.json) |
@@ -22902,6 +22907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Rage 4 | 241863 | [241863-streets-of-rage-4.json](./241863-streets-of-rage-4.json) |
 | Streets of Rage 4 Classic Edition | 384320 | [384320-streets-of-rage-4-classic-edition.json](./384320-streets-of-rage-4-classic-edition.json) |
 | Streets of Rage 4: Anniversary Edition | 155168 | [155168-streets-of-rage-4-anniversary-edition.json](./155168-streets-of-rage-4-anniversary-edition.json) |
+| Streets of Rage 4: Mr X. Nightmare | 152126 | [152126-streets-of-rage-4-mr-x-nightmare.json](./152126-streets-of-rage-4-mr-x-nightmare.json) |
 | Streets of Rage 4: Special Edition | 167055 | [167055-streets-of-rage-4-special-edition.json](./167055-streets-of-rage-4-special-edition.json) |
 | Streets of Rage Remake | 72327 | [72327-streets-of-rage-remake.json](./72327-streets-of-rage-remake.json) |
 | Streets of Rage Zombies | 272336 | [272336-streets-of-rage-zombies.json](./272336-streets-of-rage-zombies.json) |
