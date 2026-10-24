@@ -4472,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Apartment 2 | 336913 | [336913-invisible-apartment-2.json](./336913-invisible-apartment-2.json) |
 | Invisible Apartment 2 | 34492 | [34492-invisible-apartment-2.json](./34492-invisible-apartment-2.json) |
 | Invisible Apartment 3 | 161725 | [161725-invisible-apartment-3.json](./161725-invisible-apartment-3.json) |
+| Invisible Apartment Zero | 35304 | [35304-invisible-apartment-zero.json](./35304-invisible-apartment-zero.json) |
 | Invisible Ascent | 406325 | [406325-invisible-ascent.json](./406325-invisible-ascent.json) |
 | Invisible Beasts | 183040 | [183040-invisible-beasts.json](./183040-invisible-beasts.json) |
 | Invisible Cock: They never saw it cumming! | 154453 | [154453-invisible-cock-they-never-saw-it-cumming.json](./154453-invisible-cock-they-never-saw-it-cumming.json) |
