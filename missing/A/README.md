@@ -2954,6 +2954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -7932,6 +7933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing-e: D02 - Design Card: Jumpman Mario | 354822 | [354822-animal-crossing-e-d02-design-card-jumpman-mario.json](./354822-animal-crossing-e-d02-design-card-jumpman-mario.json) |
 | Animal Crossing-e: D03 - Design Card: Samus's Suit | 354823 | [354823-animal-crossing-e-d03-design-card-samuss-suit.json](./354823-animal-crossing-e-d03-design-card-samuss-suit.json) |
 | Animal Crossing-e: PR - Design Card: NES Link | 354416 | [354416-animal-crossing-e-pr-design-card-nes-link.json](./354416-animal-crossing-e-pr-design-card-nes-link.json) |
+| Animal Crossing: Amiibo Festival | 11190 | [11190-animal-crossing-amiibo-festival.json](./11190-animal-crossing-amiibo-festival.json) |
 | Animal Crossing: City Folk Deluxe | 341895 | [341895-animal-crossing-city-folk-deluxe.json](./341895-animal-crossing-city-folk-deluxe.json) |
 | Animal Crossing: Classic Game Card - Ice Climber | 229500 | [229500-animal-crossing-classic-game-card-ice-climber.json](./229500-animal-crossing-classic-game-card-ice-climber.json) |
 | Animal Crossing: Classic Game Card - Mario Bros. | 229501 | [229501-animal-crossing-classic-game-card-mario-bros.json](./229501-animal-crossing-classic-game-card-mario-bros.json) |
@@ -13437,6 +13439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Heart: Gold Edition | 224149 | [224149-atomic-heart-gold-edition.json](./224149-atomic-heart-gold-edition.json) |
 | Atomic Heart: Limited Edition | 224481 | [224481-atomic-heart-limited-edition.json](./224481-atomic-heart-limited-edition.json) |
 | Atomic Heart: Premium Edition | 224148 | [224148-atomic-heart-premium-edition.json](./224148-atomic-heart-premium-edition.json) |
+| Atomic Heart: Trapped in Limbo | 285596 | [285596-atomic-heart-trapped-in-limbo.json](./285596-atomic-heart-trapped-in-limbo.json) |
 | Atomic Heart: Ultimate Edition | 396565 | [396565-atomic-heart-ultimate-edition.json](./396565-atomic-heart-ultimate-edition.json) |
 | Atomic Heist | 90091 | [90091-atomic-heist.json](./90091-atomic-heist.json) |
 | Atomic Order | 214954 | [214954-atomic-order.json](./214954-atomic-order.json) |
