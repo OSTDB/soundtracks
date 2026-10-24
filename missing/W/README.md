@@ -3228,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -5675,6 +5676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfoo: Kindergarten, Preschool | 223894 | [223894-wolfoo-kindergarten-preschool.json](./223894-wolfoo-kindergarten-preschool.json) |
 | Wolfpack | 100177 | [100177-wolfpack.json](./100177-wolfpack.json) |
 | WolfPlay | 144817 | [144817-wolfplay.json](./144817-wolfplay.json) |
+| WolfQuest | 33838 | [33838-wolfquest.json](./33838-wolfquest.json) |
 | WolfQuest: Anniversary Edition - Hellroaring Mountain | 296723 | [296723-wolfquest-anniversary-edition-hellroaring-mountain.json](./296723-wolfquest-anniversary-edition-hellroaring-mountain.json) |
 | WolfQuest: Anniversary Edition - Lost River | 235602 | [235602-wolfquest-anniversary-edition-lost-river.json](./235602-wolfquest-anniversary-edition-lost-river.json) |
 | Wolfram | 319118 | [319118-wolfram.json](./319118-wolfram.json) |
