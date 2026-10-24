@@ -12012,6 +12012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest HD-2D Erdrick Trilogy Collection | 376240 | [376240-dragon-quest-hd-2d-erdrick-trilogy-collection.json](./376240-dragon-quest-hd-2d-erdrick-trilogy-collection.json) |
 | Dragon Quest Heroes I & II | 26771 | [26771-dragon-quest-heroes-i-and-ii.json](./26771-dragon-quest-heroes-i-and-ii.json) |
 | Dragon Quest Heroes II: Explorer's Edition | 136197 | [136197-dragon-quest-heroes-ii-explorers-edition.json](./136197-dragon-quest-heroes-ii-explorers-edition.json) |
+| Dragon Quest Heroes: The World Tree's Woe and the Blight Below | 9214 | [9214-dragon-quest-heroes-the-world-trees-woe-and-the-blight-below.json](./9214-dragon-quest-heroes-the-world-trees-woe-and-the-blight-below.json) |
 | Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | 417182 | [417182-dragon-quest-heroes-tornekos-mystery-dungeon-classic-hd.json](./417182-dragon-quest-heroes-tornekos-mystery-dungeon-classic-hd.json) |
 | Dragon Quest I & II HD-2D Remake | 306144 | [306144-dragon-quest-i-and-ii-hd-2d-remake.json](./306144-dragon-quest-i-and-ii-hd-2d-remake.json) |
 | Dragon Quest I.II | 89204 | [89204-dragon-quest-i-ii.json](./89204-dragon-quest-i-ii.json) |
@@ -12047,6 +12048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Rivals Ace | 31559 | [31559-dragon-quest-rivals-ace.json](./31559-dragon-quest-rivals-ace.json) |
 | Dragon Quest Tact | 130037 | [130037-dragon-quest-tact.json](./130037-dragon-quest-tact.json) |
 | Dragon Quest Treasures: Digital Deluxe Edition | 219485 | [219485-dragon-quest-treasures-digital-deluxe-edition.json](./219485-dragon-quest-treasures-digital-deluxe-edition.json) |
+| Dragon Quest V: Hand of the Heavenly Bride | 16585 | [16585-dragon-quest-v-hand-of-the-heavenly-bride.json](./16585-dragon-quest-v-hand-of-the-heavenly-bride.json) |
 | Dragon Quest V: Tenkuu no Hanayome | 205595 | [205595-dragon-quest-v-tenkuu-no-hanayome.json](./205595-dragon-quest-v-tenkuu-no-hanayome.json) |
 | Dragon Quest VI: Realms of Revelation | 1817 | [1817-dragon-quest-vi-realms-of-revelation.json](./1817-dragon-quest-vi-realms-of-revelation.json) |
 | Dragon Quest VII Reimagined | 366884 | [366884-dragon-quest-vii-reimagined.json](./366884-dragon-quest-vii-reimagined.json) |
