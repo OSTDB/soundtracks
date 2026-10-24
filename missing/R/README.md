@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Race | 301098 | [301098-radical-race.json](./301098-radical-race.json) |
 | Radical Radial | 40088 | [40088-radical-radial.json](./40088-radical-radial.json) |
 | Radical Rappelling | 336324 | [336324-radical-rappelling.json](./336324-radical-rappelling.json) |
+| Radical Relocation | 126551 | [126551-radical-relocation.json](./126551-radical-relocation.json) |
 | Radical Rex | 5427 | [5427-radical-rex.json](./5427-radical-rex.json) |
 | Radical Roach | 10748 | [10748-radical-roach.json](./10748-radical-roach.json) |
 | Radical Roach Remastered | 36311 | [36311-radical-roach-remastered.json](./36311-radical-roach-remastered.json) |
@@ -4283,6 +4284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Republique: Anniversary Edition | 152324 | [152324-republique-anniversary-edition.json](./152324-republique-anniversary-edition.json) |
 | République: Deluxe Edition | 51875 | [51875-republique-deluxe-edition.json](./51875-republique-deluxe-edition.json) |
 | République: Episode 1- Exordium | 127126 | [127126-republique-episode-1-exordium.json](./127126-republique-episode-1-exordium.json) |
+| République: Episode 2 - Metamorphosis | 127127 | [127127-republique-episode-2-metamorphosis.json](./127127-republique-episode-2-metamorphosis.json) |
 | République: Episode 3 - Ones and Zeroes | 127128 | [127128-republique-episode-3-ones-and-zeroes.json](./127128-republique-episode-3-ones-and-zeroes.json) |
 | République: Episode 4 - God's Acre | 127129 | [127129-republique-episode-4-gods-acre.json](./127129-republique-episode-4-gods-acre.json) |
 | République: Episode 5 - Terminus | 127130 | [127130-republique-episode-5-terminus.json](./127130-republique-episode-5-terminus.json) |
@@ -8378,6 +8380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll Player | 200527 | [200527-roll-player.json](./200527-roll-player.json) |
 | Roll Prix | 120252 | [120252-roll-prix.json](./120252-roll-prix.json) |
 | Roll the Ball | 273418 | [273418-roll-the-ball.json](./273418-roll-the-ball.json) |
+| Roll the Ball | 88797 | [88797-roll-the-ball.json](./88797-roll-the-ball.json) |
 | Roll The Bones | 271900 | [271900-roll-the-bones.json](./271900-roll-the-bones.json) |
 | Roll the Cat | 188829 | [188829-roll-the-cat.json](./188829-roll-the-cat.json) |
 | Roll the Dark Heart | 251850 | [251850-roll-the-dark-heart.json](./251850-roll-the-dark-heart.json) |
