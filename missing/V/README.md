@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VA-11 Hall-A Kids | 130622 | [130622-va-11-hall-a-kids.json](./130622-va-11-hall-a-kids.json) |
 | VA-11 HALL-A Prototype | 380827 | [380827-va-11-hall-a-prototype.json](./380827-va-11-hall-a-prototype.json) |
 | VA-11 Hall-A: Cyberpunk Bartender Action | 15465 | [15465-va-11-hall-a-cyberpunk-bartender-action.json](./15465-va-11-hall-a-cyberpunk-bartender-action.json) |
+| Vaboom! | 37537 | [37537-vaboom.json](./37537-vaboom.json) |
 | Vac Attack | 308488 | [308488-vac-attack.json](./308488-vac-attack.json) |
 | Vacancy Unlimited | 153956 | [153956-vacancy-unlimited.json](./153956-vacancy-unlimited.json) |
 | Vacant Ark | 266188 | [266188-vacant-ark.json](./266188-vacant-ark.json) |
@@ -852,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector the Crocodile in Sonic the Hedgehog | 198530 | [198530-vector-the-crocodile-in-sonic-the-hedgehog.json](./198530-vector-the-crocodile-in-sonic-the-hedgehog.json) |
 | Vector Thrust | 16557 | [16557-vector-thrust.json](./16557-vector-thrust.json) |
 | Vector Vaders | 41983 | [41983-vector-vaders.json](./41983-vector-vaders.json) |
+| Vector Vaders Remix | 37536 | [37536-vector-vaders-remix.json](./37536-vector-vaders-remix.json) |
 | Vector Velocity | 75771 | [75771-vector-velocity.json](./75771-vector-velocity.json) |
 | Vector Vendetta | 57100 | [57100-vector-vendetta.json](./57100-vector-vendetta.json) |
 | Vector Wave | 236408 | [236408-vector-wave.json](./236408-vector-wave.json) |
@@ -1396,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vexius | 76677 | [76677-vexius.json](./76677-vexius.json) |
 | Vexlands | 249036 | [249036-vexlands.json](./249036-vexlands.json) |
 | Vexle | 409228 | [409228-vexle.json](./409228-vexle.json) |
+| Vexperience - B.E.T.H. & Vecsports Boxing | 37535 | [37535-vexperience-b-e-t-h-and-vecsports-boxing.json](./37535-vexperience-b-e-t-h-and-vecsports-boxing.json) |
 | Vext Edit | 249648 | [249648-vext-edit.json](./249648-vext-edit.json) |
 | Vextorial | 324165 | [324165-vextorial.json](./324165-vextorial.json) |
 | Veylora | 382407 | [382407-veylora.json](./382407-veylora.json) |
