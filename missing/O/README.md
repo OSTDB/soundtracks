@@ -3086,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Drop Shipping | 257919 | [257919-orbital-drop-shipping.json](./257919-orbital-drop-shipping.json) |
 | Orbital Frenzy | 376452 | [376452-orbital-frenzy.json](./376452-orbital-frenzy.json) |
 | Orbital HD | 175574 | [175574-orbital-hd.json](./175574-orbital-hd.json) |
+| Orbital Injection | 29555 | [29555-orbital-injection.json](./29555-orbital-injection.json) |
 | Orbital Invaders | 156656 | [156656-orbital-invaders.json](./156656-orbital-invaders.json) |
 | Orbital Maintenance Technician | 419344 | [419344-orbital-maintenance-technician.json](./419344-orbital-maintenance-technician.json) |
 | Orbital Money | 223999 | [223999-orbital-money.json](./223999-orbital-money.json) |
