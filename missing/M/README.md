@@ -8648,6 +8648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroCity | 144375 | [144375-microcity.json](./144375-microcity.json) |
 | Microcivilization | 236229 | [236229-microcivilization.json](./236229-microcivilization.json) |
 | Microcosm | 13738 | [13738-microcosm.json](./13738-microcosm.json) |
+| Microcosmum: Survival of Cells | 34896 | [34896-microcosmum-survival-of-cells.json](./34896-microcosmum-survival-of-cells.json) |
 | Microcosmum: Survival of Cells - Campaign Static | 174130 | [174130-microcosmum-survival-of-cells-campaign-static.json](./174130-microcosmum-survival-of-cells-campaign-static.json) |
 | MicroCrawl | 238489 | [238489-microcrawl.json](./238489-microcrawl.json) |
 | Microdistrict | 302088 | [302088-microdistrict.json](./302088-microdistrict.json) |
@@ -9419,6 +9420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko Gakkou: Second Year | 36169 | [36169-miko-gakkou-second-year.json](./36169-miko-gakkou-second-year.json) |
 | Miko Kanna Noukin Taimaki | 82738 | [82738-miko-kanna-noukin-taimaki.json](./82738-miko-kanna-noukin-taimaki.json) |
 | Miko Miko Nurse | 321402 | [321402-miko-miko-nurse.json](./321402-miko-miko-nurse.json) |
+| Miko Mole | 32631 | [32631-miko-mole.json](./32631-miko-mole.json) |
 | Miko Monogatari! | 222277 | [222277-miko-monogatari.json](./222277-miko-monogatari.json) |
 | Miko no Kanata: Curious Tales from Oguni Shrine - Cycles | 211055 | [211055-miko-no-kanata-curious-tales-from-oguni-shrine-cycles.json](./211055-miko-no-kanata-curious-tales-from-oguni-shrine-cycles.json) |
 | Miko no Kanata: Curious Tales from Oguni Shrine - Zero | 387081 | [387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json](./387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json) |
@@ -13323,6 +13325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monty the Komodo Dragon | 324505 | [324505-monty-the-komodo-dragon.json](./324505-monty-the-komodo-dragon.json) |
 | Monty's Backyard Adventure | 104229 | [104229-montys-backyard-adventure.json](./104229-montys-backyard-adventure.json) |
 | Monument | 260138 | [260138-monument.json](./260138-monument.json) |
+| Monument | 35059 | [35059-monument.json](./35059-monument.json) |
 | Monument Builders: Big Ben | 294445 | [294445-monument-builders-big-ben.json](./294445-monument-builders-big-ben.json) |
 | Monument Builders: Cathedral Rising | 294444 | [294444-monument-builders-cathedral-rising.json](./294444-monument-builders-cathedral-rising.json) |
 | Monument Builders: Colosseum | 24752 | [24752-monument-builders-colosseum.json](./24752-monument-builders-colosseum.json) |
@@ -15323,6 +15326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTV's Beavis and Butt-Head: Wiener Takes All | 66094 | [66094-mtvs-beavis-and-butt-head-wiener-takes-all.json](./66094-mtvs-beavis-and-butt-head-wiener-takes-all.json) |
 | MTV's Club Dead | 69773 | [69773-mtvs-club-dead.json](./69773-mtvs-club-dead.json) |
 | MTX Mototrax | 5935 | [5935-mtx-mototrax.json](./5935-mtx-mototrax.json) |
+| Mu Complex | 34912 | [34912-mu-complex.json](./34912-mu-complex.json) |
 | Mu Jiang | 241211 | [241211-mu-jiang.json](./241211-mu-jiang.json) |
 | MU Legend | 57366 | [57366-mu-legend.json](./57366-mu-legend.json) |
 | Mu Old Times | 331948 | [331948-mu-old-times.json](./331948-mu-old-times.json) |
