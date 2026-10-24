@@ -5518,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loco: Evolution | 23532 | [23532-loco-evolution.json](./23532-loco-evolution.json) |
 | Loco: Rails & Tails | 381632 | [381632-loco-rails-and-tails.json](./381632-loco-rails-and-tails.json) |
 | Loco! | 412525 | [412525-loco.json](./412525-loco.json) |
+| Locoland | 35676 | [35676-locoland.json](./35676-locoland.json) |
 | Locomancer | 32840 | [32840-locomancer.json](./32840-locomancer.json) |
 | LoCoMo | 396125 | [396125-locomo.json](./396125-locomo.json) |
 | Locomochi | 415310 | [415310-locomochi.json](./415310-locomochi.json) |
@@ -6937,6 +6938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love and Hate | 393776 | [393776-love-and-hate.json](./393776-love-and-hate.json) |
 | Love and Job! Otona no Jijou | 232849 | [232849-love-and-job-otona-no-jijou.json](./232849-love-and-job-otona-no-jijou.json) |
 | Love and Lies: Teen Romance Love Story Game | 102555 | [102555-love-and-lies-teen-romance-love-story-game.json](./102555-love-and-lies-teen-romance-love-story-game.json) |
+| Love and Order | 35731 | [35731-love-and-order.json](./35731-love-and-order.json) |
 | Love and Passion | 224506 | [224506-love-and-passion.json](./224506-love-and-passion.json) |
 | Love and Sex: First Base | 383555 | [383555-love-and-sex-first-base.json](./383555-love-and-sex-first-base.json) |
 | Love and War: Act I | 122860 | [122860-love-and-war-act-i.json](./122860-love-and-war-act-i.json) |
@@ -8165,6 +8167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luvinia World | 23626 | [23626-luvinia-world.json](./23626-luvinia-world.json) |
 | Lux | 329071 | [329071-lux.json](./329071-lux.json) |
 | Lux Alliance | 37003 | [37003-lux-alliance.json](./37003-lux-alliance.json) |
+| Lux Delux | 35965 | [35965-lux-delux.json](./35965-lux-delux.json) |
 | Lux Delux: American History Lux | 163034 | [163034-lux-delux-american-history-lux.json](./163034-lux-delux-american-history-lux.json) |
 | Lux Delux: Ancient Empires Lux | 163035 | [163035-lux-delux-ancient-empires-lux.json](./163035-lux-delux-ancient-empires-lux.json) |
 | Lux DLX 3 - Map Conquest Game | 96895 | [96895-lux-dlx-3-map-conquest-game.json](./96895-lux-dlx-3-map-conquest-game.json) |
@@ -8193,6 +8196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxor 2 HD | 30226 | [30226-luxor-2-hd.json](./30226-luxor-2-hd.json) |
 | Luxor Adventures | 7540 | [7540-luxor-adventures.json](./7540-luxor-adventures.json) |
 | Luxor Evolved | 7542 | [7542-luxor-evolved.json](./7542-luxor-evolved.json) |
+| Luxor HD | 35432 | [35432-luxor-hd.json](./35432-luxor-hd.json) |
 | Luxor Pharaoh's Challenge | 42879 | [42879-luxor-pharaohs-challenge.json](./42879-luxor-pharaohs-challenge.json) |
 | Luxor Solitaire | 115524 | [115524-luxor-solitaire.json](./115524-luxor-solitaire.json) |
 | Luxor: Amun Rising | 7538 | [7538-luxor-amun-rising.json](./7538-luxor-amun-rising.json) |
