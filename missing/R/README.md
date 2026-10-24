@@ -4455,6 +4455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 2: Seamless HD Project | 322045 | [322045-resident-evil-2-seamless-hd-project.json](./322045-resident-evil-2-seamless-hd-project.json) |
 | Resident Evil 2: Source | 283103 | [283103-resident-evil-2-source.json](./283103-resident-evil-2-source.json) |
 | Resident Evil 2: Special Edition | 280755 | [280755-resident-evil-2-special-edition.json](./280755-resident-evil-2-special-edition.json) |
+| Resident Evil 2: The Ghost Survivors | 228709 | [228709-resident-evil-2-the-ghost-survivors.json](./228709-resident-evil-2-the-ghost-survivors.json) |
 | Resident Evil 2: Zombie Crisis | 339246 | [339246-resident-evil-2-zombie-crisis.json](./339246-resident-evil-2-zombie-crisis.json) |
 | Resident Evil 3: Dark Infection | 229088 | [229088-resident-evil-3-dark-infection.json](./229088-resident-evil-3-dark-infection.json) |
 | Resident Evil 3: Lenticular Edition | 386267 | [386267-resident-evil-3-lenticular-edition.json](./386267-resident-evil-3-lenticular-edition.json) |
@@ -4526,6 +4527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Village: Deluxe Edition | 142810 | [142810-resident-evil-village-deluxe-edition.json](./142810-resident-evil-village-deluxe-edition.json) |
 | Resident Evil Village: Gold Edition | 204722 | [204722-resident-evil-village-gold-edition.json](./204722-resident-evil-village-gold-edition.json) |
 | Resident Evil Village: Shadows of Rose | 230951 | [230951-resident-evil-village-shadows-of-rose.json](./230951-resident-evil-village-shadows-of-rose.json) |
+| Resident Evil Village: The Mercenaries - Additional Orders | 230974 | [230974-resident-evil-village-the-mercenaries-additional-orders.json](./230974-resident-evil-village-the-mercenaries-additional-orders.json) |
 | Resident Evil Village: Winters' Expansion | 204721 | [204721-resident-evil-village-winters-expansion.json](./204721-resident-evil-village-winters-expansion.json) |
 | Resident Evil: Chronicles HD Collection | 21068 | [21068-resident-evil-chronicles-hd-collection.json](./21068-resident-evil-chronicles-hd-collection.json) |
 | Resident Evil: Code - Madman | 387029 | [387029-resident-evil-code-madman.json](./387029-resident-evil-code-madman.json) |
@@ -6107,6 +6109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RiMS Racing x WRC 10 | 218414 | [218414-rims-racing-x-wrc-10.json](./218414-rims-racing-x-wrc-10.json) |
 | Rimward Basilisk | 367758 | [367758-rimward-basilisk.json](./367758-rimward-basilisk.json) |
 | RimWorld: Anomaly | 291070 | [291070-rimworld-anomaly.json](./291070-rimworld-anomaly.json) |
+| RimWorld: Biotech | 220558 | [220558-rimworld-biotech.json](./220558-rimworld-biotech.json) |
 | RimWorld: Console Edition | 210525 | [210525-rimworld-console-edition.json](./210525-rimworld-console-edition.json) |
 | RimWorld: Console Edition - Digital Deluxe | 211246 | [211246-rimworld-console-edition-digital-deluxe.json](./211246-rimworld-console-edition-digital-deluxe.json) |
 | RimWorld: Console Edition - Ideology | 312014 | [312014-rimworld-console-edition-ideology.json](./312014-rimworld-console-edition-ideology.json) |
@@ -6488,6 +6491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk | 82434 | [82434-risk.json](./82434-risk.json) |
 | Risk & Riches | 333646 | [333646-risk-and-riches.json](./333646-risk-and-riches.json) |
 | Risk Battleship Clue | 138001 | [138001-risk-battleship-clue.json](./138001-risk-battleship-clue.json) |
+| Risk II | 9711 | [9711-risk-ii.json](./9711-risk-ii.json) |
 | Risk of Pain | 278372 | [278372-risk-of-pain.json](./278372-risk-of-pain.json) |
 | Risk of Rain | 3173 | [3173-risk-of-rain.json](./3173-risk-of-rain.json) |
 | Risk of Rain 2 + Survivors of the Void | 201040 | [201040-risk-of-rain-2-survivors-of-the-void.json](./201040-risk-of-rain-2-survivors-of-the-void.json) |
