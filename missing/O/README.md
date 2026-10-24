@@ -3110,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Dogfight VR | 117661 | [117661-orbital-dogfight-vr.json](./117661-orbital-dogfight-vr.json) |
 | Orbital Drop Shipping | 257919 | [257919-orbital-drop-shipping.json](./257919-orbital-drop-shipping.json) |
 | Orbital Frenzy | 376452 | [376452-orbital-frenzy.json](./376452-orbital-frenzy.json) |
+| Orbital Gear | 17359 | [17359-orbital-gear.json](./17359-orbital-gear.json) |
 | Orbital HD | 175574 | [175574-orbital-hd.json](./175574-orbital-hd.json) |
 | Orbital Injection | 29555 | [29555-orbital-injection.json](./29555-orbital-injection.json) |
 | Orbital Invaders | 156656 | [156656-orbital-invaders.json](./156656-orbital-invaders.json) |
@@ -4497,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overbold | 318728 | [318728-overbold.json](./318728-overbold.json) |
 | Overbooked | 413044 | [413044-overbooked.json](./413044-overbooked.json) |
 | Overboss | 214604 | [214604-overboss.json](./214604-overboss.json) |
+| Overcast - Walden and the Werewolf | 17228 | [17228-overcast-walden-and-the-werewolf.json](./17228-overcast-walden-and-the-werewolf.json) |
 | Overcast and Light Rain | 185011 | [185011-overcast-and-light-rain.json](./185011-overcast-and-light-rain.json) |
 | Overcat | 373530 | [373530-overcat.json](./373530-overcat.json) |
 | Overclocked: A History of Violence | 21485 | [21485-overclocked-a-history-of-violence.json](./21485-overclocked-a-history-of-violence.json) |
@@ -4671,6 +4673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overtime: Paper Trail | 404426 | [404426-overtime-paper-trail.json](./404426-overtime-paper-trail.json) |
 | Overtrick | 379623 | [379623-overtrick.json](./379623-overtrick.json) |
 | OverTrip | 307818 | [307818-overtrip.json](./307818-overtrip.json) |
+| Overture | 35922 | [35922-overture.json](./35922-overture.json) |
 | Overturn | 68584 | [68584-overturn.json](./68584-overturn.json) |
 | Overturn: Mecha Wars | 71945 | [71945-overturn-mecha-wars.json](./71945-overturn-mecha-wars.json) |
 | Overtype | 391015 | [391015-overtype.json](./391015-overtype.json) |
