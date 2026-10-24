@@ -2596,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technobog | 199445 | [199445-technobog.json](./199445-technobog.json) |
 | Technoccult: Covenant | 153764 | [153764-technoccult-covenant.json](./153764-technoccult-covenant.json) |
 | Technocide | 262937 | [262937-technocide.json](./262937-technocide.json) |
+| TechnoClash | 4535 | [4535-technoclash.json](./4535-technoclash.json) |
 | Technolites | 109509 | [109509-technolites.json](./109509-technolites.json) |
 | Technolites: Episode 1 | 109616 | [109616-technolites-episode-1.json](./109616-technolites-episode-1.json) |
 | Technology Market Simulation | 344523 | [344523-technology-market-simulation.json](./344523-technology-market-simulation.json) |
@@ -2925,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teku | 274499 | [274499-teku.json](./274499-teku.json) |
 | Teku-Teku Teku-Teku | 111440 | [111440-teku-teku-teku-teku.json](./111440-teku-teku-teku-teku.json) |
 | Tekuteku Pikmin | 232901 | [232901-tekuteku-pikmin.json](./232901-tekuteku-pikmin.json) |
+| Tel-Tel Mahjong | 4485 | [4485-tel-tel-mahjong.json](./4485-tel-tel-mahjong.json) |
 | Tel-Tel Stadium | 47059 | [47059-tel-tel-stadium.json](./47059-tel-tel-stadium.json) |
 | TelAIphone | 310508 | [310508-telaiphone.json](./310508-telaiphone.json) |
 | Télé 7 Jeux: Mots Fléchés | 268415 | [268415-tele-7-jeux-mots-fleches.json](./268415-tele-7-jeux-mots-fleches.json) |
@@ -7978,6 +7980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Games '92: España | 96508 | [96508-the-games-92-espana.json](./96508-the-games-92-espana.json) |
 | The Games People Play: Gin, Cribbage, Checkers, and Backgammon | 69927 | [69927-the-games-people-play-gin-cribbage-checkers-and-backgammon.json](./69927-the-games-people-play-gin-cribbage-checkers-and-backgammon.json) |
 | The Games You Make | 314395 | [314395-the-games-you-make.json](./314395-the-games-you-make.json) |
+| The Games: Summer Challenge | 4510 | [4510-the-games-summer-challenge.json](./4510-the-games-summer-challenge.json) |
 | The Games: Summer Edition | 47197 | [47197-the-games-summer-edition.json](./47197-the-games-summer-edition.json) |
 | The Games: Winter Challenge | 14434 | [14434-the-games-winter-challenge.json](./14434-the-games-winter-challenge.json) |
 | The Games: Winter Edition | 47196 | [47196-the-games-winter-edition.json](./47196-the-games-winter-edition.json) |
@@ -11414,7 +11417,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -25065,6 +25067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Play 96 | 46245 | [46245-triple-play-96.json](./46245-triple-play-96.json) |
 | Triple Play 97 | 20649 | [20649-triple-play-97.json](./20649-triple-play-97.json) |
 | Triple Play 98 | 20813 | [20813-triple-play-98.json](./20813-triple-play-98.json) |
+| Triple Play: Gold Edition | 4488 | [4488-triple-play-gold-edition.json](./4488-triple-play-gold-edition.json) |
 | Triple Punch | 38552 | [38552-triple-punch.json](./38552-triple-punch.json) |
 | Triple Realms | 414753 | [414753-triple-realms.json](./414753-triple-realms.json) |
 | Triple Running Sports | 85460 | [85460-triple-running-sports.json](./85460-triple-running-sports.json) |
@@ -25595,6 +25598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Fear: Forsaken Souls Part 2 | 111276 | [111276-true-fear-forsaken-souls-part-2.json](./111276-true-fear-forsaken-souls-part-2.json) |
 | True Fishing 2 | 396750 | [396750-true-fishing-2.json](./396750-true-fishing-2.json) |
 | True Game | 148308 | [148308-true-game.json](./148308-true-game.json) |
+| True Golf Classics: Pebble Beach Golf Links | 4533 | [4533-true-golf-classics-pebble-beach-golf-links.json](./4533-true-golf-classics-pebble-beach-golf-links.json) |
 | True Hate | 149239 | [149239-true-hate.json](./149239-true-hate.json) |
 | True Hentai Puzzle | 163568 | [163568-true-hentai-puzzle.json](./163568-true-hentai-puzzle.json) |
 | True Hentai Puzzle: 666 | 163569 | [163569-true-hentai-puzzle-666.json](./163569-true-hentai-puzzle-666.json) |
