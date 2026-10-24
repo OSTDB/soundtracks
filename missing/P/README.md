@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paintball Arena Challenge | 86998 | [86998-paintball-arena-challenge.json](./86998-paintball-arena-challenge.json) |
 | Paintball Champs | 237386 | [237386-paintball-champs.json](./237386-paintball-champs.json) |
 | Paintball eXtreme | 34793 | [34793-paintball-extreme.json](./34793-paintball-extreme.json) |
+| Paintball Heroes | 25446 | [25446-paintball-heroes.json](./25446-paintball-heroes.json) |
 | Paintball King | 305566 | [305566-paintball-king.json](./305566-paintball-king.json) |
 | Paintball Madness | 356204 | [356204-paintball-madness.json](./356204-paintball-madness.json) |
 | Paintball NET | 125951 | [125951-paintball-net.json](./125951-paintball-net.json) |
@@ -3903,6 +3904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Tycoon | 209158 | [209158-pet-tycoon.json](./209158-pet-tycoon.json) |
 | Pet Vet 3D: Animal Hospital | 81435 | [81435-pet-vet-3d-animal-hospital.json](./81435-pet-vet-3d-animal-hospital.json) |
 | Pet Vet 3D: Animal Hospital - Triple Treat | 54290 | [54290-pet-vet-3d-animal-hospital-triple-treat.json](./54290-pet-vet-3d-animal-hospital-triple-treat.json) |
+| Pet Vet 3D: Wild Animal Hospital | 25434 | [25434-pet-vet-3d-wild-animal-hospital.json](./25434-pet-vet-3d-wild-animal-hospital.json) |
 | Pet Wash | 102612 | [102612-pet-wash.json](./102612-pet-wash.json) |
 | Pet World | 411146 | [411146-pet-world.json](./411146-pet-world.json) |
 | Pet.Net | 371131 | [371131-pet-net.json](./371131-pet-net.json) |
@@ -4148,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phanotia: Interlude I-Aubzan Abbey | 254372 | [254372-phanotia-interlude-i-aubzan-abbey.json](./254372-phanotia-interlude-i-aubzan-abbey.json) |
 | Phantaruk | 20788 | [20788-phantaruk.json](./20788-phantaruk.json) |
 | Phantasia | 192152 | [192152-phantasia.json](./192152-phantasia.json) |
+| Phantasia | 25409 | [25409-phantasia.json](./25409-phantasia.json) |
 | Phantasie | 2890 | [2890-phantasie.json](./2890-phantasie.json) |
 | Phantasie 3: The Wrath of Nikademus | 5562 | [5562-phantasie-3-the-wrath-of-nikademus.json](./5562-phantasie-3-the-wrath-of-nikademus.json) |
 | Phantasie II | 14424 | [14424-phantasie-ii.json](./14424-phantasie-ii.json) |
@@ -6300,6 +6303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitiri 1977 | 17513 | [17513-pitiri-1977.json](./17513-pitiri-1977.json) |
 | Pitit Bac | 191505 | [191505-pitit-bac.json](./191505-pitit-bac.json) |
 | Pitman | 76178 | [76178-pitman.json](./76178-pitman.json) |
+| Pitstop Challenge | 25444 | [25444-pitstop-challenge.json](./25444-pitstop-challenge.json) |
 | PitterPot | 110811 | [110811-pitterpot.json](./110811-pitterpot.json) |
 | Pittsfield | 98322 | [98322-pittsfield.json](./98322-pittsfield.json) |
 | Pitty Meaty | 368657 | [368657-pitty-meaty.json](./368657-pitty-meaty.json) |
@@ -9546,6 +9550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police vs. Gangster New York 3D | 267349 | [267349-police-vs-gangster-new-york-3d.json](./267349-police-vs-gangster-new-york-3d.json) |
 | Police X Heroine Lovepatrina! Love na Rhythm de Taiho Shimasu! | 152332 | [152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json](./152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json) |
 | Police: Chase Down | 82131 | [82131-police-chase-down.json](./82131-police-chase-down.json) |
+| Police: Destruction Street | 25403 | [25403-police-destruction-street.json](./25403-police-destruction-street.json) |
 | Policeman | 238896 | [238896-policeman.json](./238896-policeman.json) |
 | Policenauts | 4290 | [4290-policenauts.json](./4290-policenauts.json) |
 | Policenauts Pilot Disk | 37116 | [37116-policenauts-pilot-disk.json](./37116-policenauts-pilot-disk.json) |
@@ -10329,6 +10334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port Royale 3: Dawn of Pirates | 10713 | [10713-port-royale-3-dawn-of-pirates.json](./10713-port-royale-3-dawn-of-pirates.json) |
 | Port Royale 3: Gold Edition | 47030 | [47030-port-royale-3-gold-edition.json](./47030-port-royale-3-gold-edition.json) |
 | Port Royale 3: Harbour Master | 53467 | [53467-port-royale-3-harbour-master.json](./53467-port-royale-3-harbour-master.json) |
+| Port Royale 3: New Adventures | 25423 | [25423-port-royale-3-new-adventures.json](./25423-port-royale-3-new-adventures.json) |
 | Port Royale 3: Pirates & Merchants | 7134 | [7134-port-royale-3-pirates-and-merchants.json](./7134-port-royale-3-pirates-and-merchants.json) |
 | Port Royale 4: Buccaneers | 154504 | [154504-port-royale-4-buccaneers.json](./154504-port-royale-4-buccaneers.json) |
 | Port Royale 4: Extended Edition | 154505 | [154505-port-royale-4-extended-edition.json](./154505-port-royale-4-extended-edition.json) |
@@ -12467,6 +12473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Alpha 002 | 30943 | [30943-project-alpha-002.json](./30943-project-alpha-002.json) |
 | Project Amalthea: Battlegrounds | 81069 | [81069-project-amalthea-battlegrounds.json](./81069-project-amalthea-battlegrounds.json) |
 | Project Amaranth | 103925 | [103925-project-amaranth.json](./103925-project-amaranth.json) |
+| Project Anderson & The Legacy of Cthulhu | 25437 | [25437-project-anderson-and-the-legacy-of-cthulhu.json](./25437-project-anderson-and-the-legacy-of-cthulhu.json) |
 | Project Angels | 203310 | [203310-project-angels.json](./203310-project-angels.json) |
 | Project Anomaly | 193952 | [193952-project-anomaly.json](./193952-project-anomaly.json) |
 | Project Anomaly: Urban Supernatural Investigator | 200700 | [200700-project-anomaly-urban-supernatural-investigator.json](./200700-project-anomaly-urban-supernatural-investigator.json) |
@@ -13182,6 +13189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prologue For A Vacant Kingdom | 116206 | [116206-prologue-for-a-vacant-kingdom.json](./116206-prologue-for-a-vacant-kingdom.json) |
 | Prologue: Go Wayback! | 324576 | [324576-prologue-go-wayback.json](./324576-prologue-go-wayback.json) |
 | Prom Dreams: A High School Love Story | 336332 | [336332-prom-dreams-a-high-school-love-story.json](./336332-prom-dreams-a-high-school-love-story.json) |
+| Prom Queen | 25439 | [25439-prom-queen.json](./25439-prom-queen.json) |
 | Promessa | 329677 | [329677-promessa.json](./329677-promessa.json) |
 | Promesst | 351396 | [351396-promesst.json](./351396-promesst.json) |
 | Promethean Hive Wave Defense | 383097 | [383097-promethean-hive-wave-defense.json](./383097-promethean-hive-wave-defense.json) |
@@ -14890,6 +14898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuzzlePet: Feed Your Cat | 163561 | [163561-puzzlepet-feed-your-cat.json](./163561-puzzlepet-feed-your-cat.json) |
 | Puzzlepops! Plus | 244171 | [244171-puzzlepops-plus.json](./244171-puzzlepops-plus.json) |
 | Puzzler | 104252 | [104252-puzzler.json](./104252-puzzler.json) |
+| Puzzler - Arrowwords , Crosswords & Wordsearch Volume One | 25451 | [25451-puzzler-arrowwords-crosswords-and-wordsearch-volume-one.json](./25451-puzzler-arrowwords-crosswords-and-wordsearch-volume-one.json) |
 | Puzzler Brain Games | 84788 | [84788-puzzler-brain-games.json](./84788-puzzler-brain-games.json) |
 | Puzzler Clover | 69300 | [69300-puzzler-clover.json](./69300-puzzler-clover.json) |
 | Puzzler Collection | 47726 | [47726-puzzler-collection.json](./47726-puzzler-collection.json) |
