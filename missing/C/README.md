@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare 3 - Defiance | 134652 | [134652-call-of-duty-modern-warfare-3-defiance.json](./134652-call-of-duty-modern-warfare-3-defiance.json) |
 | Call of Duty: Modern Warfare 3 - Hardened Edition | 47425 | [47425-call-of-duty-modern-warfare-3-hardened-edition.json](./47425-call-of-duty-modern-warfare-3-hardened-edition.json) |
 | Call of Duty: Modern Warfare 3 - Ultimate Edition | 99951 | [99951-call-of-duty-modern-warfare-3-ultimate-edition.json](./99951-call-of-duty-modern-warfare-3-ultimate-edition.json) |
+| Call of Duty: Modern Warfare 4 | 403310 | [403310-call-of-duty-modern-warfare-4.json](./403310-call-of-duty-modern-warfare-4.json) |
 | Call of Duty: Modern Warfare 4 - Vault Edition | 415399 | [415399-call-of-duty-modern-warfare-4-vault-edition.json](./415399-call-of-duty-modern-warfare-4-vault-edition.json) |
 | Call of Duty: Modern Warfare Collection | 136209 | [136209-call-of-duty-modern-warfare-collection.json](./136209-call-of-duty-modern-warfare-collection.json) |
 | Call of Duty: Modern Warfare II - Graffiti Tactical: Pro Pack | 257325 | [257325-call-of-duty-modern-warfare-ii-graffiti-tactical-pro-pack.json](./257325-call-of-duty-modern-warfare-ii-graffiti-tactical-pro-pack.json) |
@@ -1475,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Moviestar 3D | 245832 | [245832-captain-moviestar-3d.json](./245832-captain-moviestar-3d.json) |
 | Captain Nemo | 83520 | [83520-captain-nemo.json](./83520-captain-nemo.json) |
 | Captain Novolin | 18986 | [18986-captain-novolin.json](./18986-captain-novolin.json) |
+| Captain of Industry | 150100 | [150100-captain-of-industry.json](./150100-captain-of-industry.json) |
 | Captain of Industry: Trains Expansion | 388973 | [388973-captain-of-industry-trains-expansion.json](./388973-captain-of-industry-trains-expansion.json) |
 | Captain of Space | 320558 | [320558-captain-of-space.json](./320558-captain-of-space.json) |
 | Captain of the Guard | 320016 | [320016-captain-of-the-guard.json](./320016-captain-of-the-guard.json) |
@@ -11772,6 +11774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Collector | 341676 | [341676-corpse-collector.json](./341676-corpse-collector.json) |
 | Corpse Craft | 63753 | [63753-corpse-craft.json](./63753-corpse-craft.json) |
 | Corpse Disaster: Survivors | 238372 | [238372-corpse-disaster-survivors.json](./238372-corpse-disaster-survivors.json) |
+| Corpse Factory | 152055 | [152055-corpse-factory.json](./152055-corpse-factory.json) |
 | Corpse Killer | 298551 | [298551-corpse-killer.json](./298551-corpse-killer.json) |
 | Corpse Killer | 5372 | [5372-corpse-killer.json](./5372-corpse-killer.json) |
 | Corpse Killer: 25th Anniversary Edition | 119715 | [119715-corpse-killer-25th-anniversary-edition.json](./119715-corpse-killer-25th-anniversary-edition.json) |
@@ -14555,6 +14558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruelty | 402295 | [402295-cruelty.json](./402295-cruelty.json) |
 | Cruft | 327893 | [327893-cruft.json](./327893-cruft.json) |
 | Cruis'n | 4779 | [4779-cruisn.json](./4779-cruisn.json) |
+| Cruis'n Blast | 152357 | [152357-cruisn-blast.json](./152357-cruisn-blast.json) |
 | Cruis'n Exotica | 249136 | [249136-cruisn-exotica.json](./249136-cruisn-exotica.json) |
 | Cruis'n Exotica | 300037 | [300037-cruisn-exotica.json](./300037-cruisn-exotica.json) |
 | Cruis'n USA | 300472 | [300472-cruisn-usa.json](./300472-cruisn-usa.json) |
@@ -15054,6 +15058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSC \| Space MMO | 118419 | [118419-csc-space-mmo.json](./118419-csc-space-mmo.json) |
 | CSCĐ: Vietnam Mobile Police | 291324 | [291324-csc-vietnam-mobile-police.json](./291324-csc-vietnam-mobile-police.json) |
 | CSI VR Crime Scene Investigation | 107733 | [107733-csi-vr-crime-scene-investigation.json](./107733-csi-vr-crime-scene-investigation.json) |
+| CSI: 3 Dimensions of Murder | 7633 | [7633-csi-3-dimensions-of-murder.json](./7633-csi-3-dimensions-of-murder.json) |
 | CSI: Crime Scene Investigation - 3 Dimensions of Murder | 72003 | [72003-csi-crime-scene-investigation-3-dimensions-of-murder.json](./72003-csi-crime-scene-investigation-3-dimensions-of-murder.json) |
 | CSI: Crime Scene Investigation - Deadly Intent: The Hidden Cases | 197873 | [197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json](./197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json) |
 | CSI: Crime Scene Investigation - Fatal Conspiracy | 99966 | [99966-csi-crime-scene-investigation-fatal-conspiracy.json](./99966-csi-crime-scene-investigation-fatal-conspiracy.json) |
