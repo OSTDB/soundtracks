@@ -4343,6 +4343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Go Ackman | 15926 | [15926-go-go-ackman.json](./15926-go-go-ackman.json) |
 | Go Go Ackman | 83923 | [83923-go-go-ackman.json](./83923-go-go-ackman.json) |
 | Go Go Burunyanman Ecstasy!!! | 383005 | [383005-go-go-burunyanman-ecstasy.json](./383005-go-go-burunyanman-ecstasy.json) |
+| Go Go Electric Samurai | 32565 | [32565-go-go-electric-samurai.json](./32565-go-go-electric-samurai.json) |
 | Go Go Fast | 252570 | [252570-go-go-fast.json](./252570-go-go-fast.json) |
 | Go Go Galago | 61732 | [61732-go-go-galago.json](./61732-go-go-galago.json) |
 | Go Go Golf | 60885 | [60885-go-go-golf.json](./60885-go-go-golf.json) |
