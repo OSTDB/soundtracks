@@ -5315,6 +5315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berzerk: Recharged | 270485 | [270485-berzerk-recharged.json](./270485-berzerk-recharged.json) |
 | Besert Bydra | 338230 | [338230-besert-bydra.json](./338230-besert-bydra.json) |
 | Besiedelte Welten: Das alte Ägypten | 91559 | [91559-besiedelte-welten-das-alte-agypten.json](./91559-besiedelte-welten-das-alte-agypten.json) |
+| Besiege | 9047 | [9047-besiege.json](./9047-besiege.json) |
 | Besiege: The Broken Beyond | 389128 | [389128-besiege-the-broken-beyond.json](./389128-besiege-the-broken-beyond.json) |
 | Besitupia: Mediator | 297534 | [297534-besitupia-mediator.json](./297534-besitupia-mediator.json) |
 | Besmirch | 343449 | [343449-besmirch.json](./343449-besmirch.json) |
