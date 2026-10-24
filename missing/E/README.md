@@ -1964,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator Down | 313553 | [313553-elevator-down.json](./313553-elevator-down.json) |
 | Elevator Fight | 83200 | [83200-elevator-fight.json](./83200-elevator-fight.json) |
 | Elevator Goes Up? | 376701 | [376701-elevator-goes-up.json](./376701-elevator-goes-up.json) |
+| Elevator Hitch | 219056 | [219056-elevator-hitch.json](./219056-elevator-hitch.json) |
 | Elevator Music | 329588 | [329588-elevator-music.json](./329588-elevator-music.json) |
 | Elevator Orator | 178971 | [178971-elevator-orator.json](./178971-elevator-orator.json) |
 | Elevator: Source | 381322 | [381322-elevator-source.json](./381322-elevator-source.json) |
@@ -4344,6 +4345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape MCP | 71385 | [71385-escape-mcp.json](./71385-escape-mcp.json) |
 | Escape Memoirs: Bank Heist | 349988 | [349988-escape-memoirs-bank-heist.json](./349988-escape-memoirs-bank-heist.json) |
 | Escape Memoirs: Mansion Heist | 204840 | [204840-escape-memoirs-mansion-heist.json](./204840-escape-memoirs-mansion-heist.json) |
+| Escape Memoirs: Mini Stories | 213484 | [213484-escape-memoirs-mini-stories.json](./213484-escape-memoirs-mini-stories.json) |
 | Escape Memoirs: Mini Stories - Bunker Scenario | 235840 | [235840-escape-memoirs-mini-stories-bunker-scenario.json](./235840-escape-memoirs-mini-stories-bunker-scenario.json) |
 | Escape Memoirs: Questionable Side Stories | 247615 | [247615-escape-memoirs-questionable-side-stories.json](./247615-escape-memoirs-questionable-side-stories.json) |
 | Escape Mystery-The Dark Fence | 237368 | [237368-escape-mystery-the-dark-fence.json](./237368-escape-mystery-the-dark-fence.json) |
