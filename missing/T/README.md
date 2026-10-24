@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take the Dream IX | 33887 | [33887-take-the-dream-ix.json](./33887-take-the-dream-ix.json) |
 | Take the Earth | 258439 | [258439-take-the-earth.json](./258439-take-the-earth.json) |
 | Take the King! | 270737 | [270737-take-the-king.json](./270737-take-the-king.json) |
+| Take the Money and Run! | 23290 | [23290-take-the-money-and-run.json](./23290-take-the-money-and-run.json) |
 | Take the Throne | 142301 | [142301-take-the-throne.json](./142301-take-the-throne.json) |
 | Take the Veil | 201638 | [201638-take-the-veil.json](./201638-take-the-veil.json) |
 | Take town | 163402 | [163402-take-town.json](./163402-take-town.json) |
@@ -4217,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thapster TV | 85831 | [85831-thapster-tv.json](./85831-thapster-tv.json) |
 | Thapster TV: 2nd Wave | 127741 | [127741-thapster-tv-2nd-wave.json](./127741-thapster-tv-2nd-wave.json) |
 | Tharaba | 280321 | [280321-tharaba.json](./280321-tharaba.json) |
+| Tharolian Tunnels | 23318 | [23318-tharolian-tunnels.json](./23318-tharolian-tunnels.json) |
 | That | 294538 | [294538-that.json](./294538-that.json) |
 | That Bastard is Trying to Steal Our Gold! | 33301 | [33301-that-bastard-is-trying-to-steal-our-gold.json](./33301-that-bastard-is-trying-to-steal-our-gold.json) |
 | That Blooming Feeling | 182510 | [182510-that-blooming-feeling.json](./182510-that-blooming-feeling.json) |
@@ -15931,6 +15933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thick Light 2 | 334814 | [334814-thick-light-2.json](./334814-thick-light-2.json) |
 | Thick Light 3 | 334837 | [334837-thick-light-3.json](./334837-thick-light-3.json) |
 | Thickety Creek | 229049 | [229049-thickety-creek.json](./229049-thickety-creek.json) |
+| Thief | 23321 | [23321-thief.json](./23321-thief.json) |
 | Thief | 362857 | [362857-thief.json](./362857-thief.json) |
 | Thief 2X: Shadows of the Metal Age | 159252 | [159252-thief-2x-shadows-of-the-metal-age.json](./159252-thief-2x-shadows-of-the-metal-age.json) |
 | Thief Bird | 109614 | [109614-thief-bird.json](./109614-thief-bird.json) |
@@ -16284,6 +16287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrall of the Dying Sun | 177517 | [177517-thrall-of-the-dying-sun.json](./177517-thrall-of-the-dying-sun.json) |
 | Thrash Rally | 46521 | [46521-thrash-rally.json](./46521-thrash-rally.json) |
 | Thrasher | 279618 | [279618-thrasher.json](./279618-thrasher.json) |
+| Thrax Lair | 23235 | [23235-thrax-lair.json](./23235-thrax-lair.json) |
 | Thread | 201455 | [201455-thread.json](./201455-thread.json) |
 | thread and Needle | 301922 | [301922-thread-and-needle.json](./301922-thread-and-needle.json) |
 | Threadbare | 364664 | [364664-threadbare.json](./364664-threadbare.json) |
