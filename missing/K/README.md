@@ -823,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karnov's Revenge | 39546 | [39546-karnovs-revenge.json](./39546-karnovs-revenge.json) |
 | Karol Ball | 125840 | [125840-karol-ball.json](./125840-karol-ball.json) |
 | Karol World Breaker | 343299 | [343299-karol-world-breaker.json](./343299-karol-world-breaker.json) |
+| Karos Returns | 35215 | [35215-karos-returns.json](./35215-karos-returns.json) |
 | Karoshi | 44476 | [44476-karoshi.json](./44476-karoshi.json) |
 | Karoshi Club | 323004 | [323004-karoshi-club.json](./323004-karoshi-club.json) |
 | Karoshi Mario | 275323 | [275323-karoshi-mario.json](./275323-karoshi-mario.json) |
