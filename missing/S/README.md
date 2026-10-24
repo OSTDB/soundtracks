@@ -9845,6 +9845,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skipchaser | 31927 | [31927-skipchaser.json](./31927-skipchaser.json) |
 | Skiplit | 27799 | [27799-skiplit.json](./27799-skiplit.json) |
 | Skipp and Friends: Unexpected Journey | 134285 | [134285-skipp-and-friends-unexpected-journey.json](./134285-skipp-and-friends-unexpected-journey.json) |
+| Skipper & Skeeto: Tales from Paradise Park | 18992 | [18992-skipper-and-skeeto-tales-from-paradise-park.json](./18992-skipper-and-skeeto-tales-from-paradise-park.json) |
+| Skipper & Skeeto: The Revenge of Mr. Shade | 19003 | [19003-skipper-and-skeeto-the-revenge-of-mr-shade.json](./19003-skipper-and-skeeto-the-revenge-of-mr-shade.json) |
 | Skipper & Skeeto: The Shadow of Mr. Shade | 22353 | [22353-skipper-and-skeeto-the-shadow-of-mr-shade.json](./22353-skipper-and-skeeto-the-shadow-of-mr-shade.json) |
 | Skipper 2 | 395724 | [395724-skipper-2.json](./395724-skipper-2.json) |
 | Skipping Stones | 60833 | [60833-skipping-stones.json](./60833-skipping-stones.json) |
@@ -11816,6 +11818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Crash 2: Snake Rush | 100796 | [100796-snake-crash-2-snake-rush.json](./100796-snake-crash-2-snake-rush.json) |
 | Snake Crayon Run | 251644 | [251644-snake-crayon-run.json](./251644-snake-crayon-run.json) |
 | Snake Crossing | 306382 | [306382-snake-crossing.json](./306382-snake-crossing.json) |
+| Snake Cubed | 18906 | [18906-snake-cubed.json](./18906-snake-cubed.json) |
 | Snake Deluxe | 154407 | [154407-snake-deluxe.json](./154407-snake-deluxe.json) |
 | Snake Deluxe 2 | 256655 | [256655-snake-deluxe-2.json](./256655-snake-deluxe-2.json) |
 | Snake Den | 84876 | [84876-snake-den.json](./84876-snake-den.json) |
@@ -19518,6 +19521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: 25th Anniversary | 218920 | [218920-star-trek-25th-anniversary.json](./218920-star-trek-25th-anniversary.json) |
 | Star Trek: 25th Anniversary | 2231 | [2231-star-trek-25th-anniversary.json](./2231-star-trek-25th-anniversary.json) |
 | Star Trek: Alien Domain | 23645 | [23645-star-trek-alien-domain.json](./23645-star-trek-alien-domain.json) |
+| Star Trek: Armada 2 | 18904 | [18904-star-trek-armada-2.json](./18904-star-trek-armada-2.json) |
 | Star Trek: Armada III | 191510 | [191510-star-trek-armada-iii.json](./191510-star-trek-armada-iii.json) |
 | Star Trek: Borg | 70345 | [70345-star-trek-borg.json](./70345-star-trek-borg.json) |
 | Star Trek: Bridge Commander | 9571 | [9571-star-trek-bridge-commander.json](./9571-star-trek-bridge-commander.json) |
@@ -19690,6 +19694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Episode I - Lightsaber Duel | 198912 | [198912-star-wars-episode-i-lightsaber-duel.json](./198912-star-wars-episode-i-lightsaber-duel.json) |
 | Star Wars: Episode I - Naboo Defense | 198914 | [198914-star-wars-episode-i-naboo-defense.json](./198914-star-wars-episode-i-naboo-defense.json) |
 | Star Wars: Episode I - Naboo Escape | 198913 | [198913-star-wars-episode-i-naboo-escape.json](./198913-star-wars-episode-i-naboo-escape.json) |
+| Star Wars: Episode I - Obi-Wan's Adventures | 18950 | [18950-star-wars-episode-i-obi-wans-adventures.json](./18950-star-wars-episode-i-obi-wans-adventures.json) |
 | Star Wars: Episode I - Podrace Challenge Game | 198915 | [198915-star-wars-episode-i-podrace-challenge-game.json](./198915-star-wars-episode-i-podrace-challenge-game.json) |
 | Star Wars: Episode I - Racer | 154 | [154-star-wars-episode-i-racer.json](./154-star-wars-episode-i-racer.json) |
 | Star Wars: Episode I - Underwater Race to Theed | 198916 | [198916-star-wars-episode-i-underwater-race-to-theed.json](./198916-star-wars-episode-i-underwater-race-to-theed.json) |
@@ -21373,6 +21378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Ninja | 122154 | [122154-stick-ninja.json](./122154-stick-ninja.json) |
 | Stick or Stone? | 176457 | [176457-stick-or-stone.json](./176457-stick-or-stone.json) |
 | Stick Out! | 386696 | [386696-stick-out.json](./386696-stick-out.json) |
+| Stick Part | 18926 | [18926-stick-part.json](./18926-stick-part.json) |
 | Stick Ranger | 57898 | [57898-stick-ranger.json](./57898-stick-ranger.json) |
 | Stick Robot Puzzle | 303665 | [303665-stick-robot-puzzle.json](./303665-stick-robot-puzzle.json) |
 | Stick Royale | 117373 | [117373-stick-royale.json](./117373-stick-royale.json) |
