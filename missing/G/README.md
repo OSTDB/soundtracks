@@ -3052,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost in the Shell GBC | 400490 | [400490-ghost-in-the-shell-gbc.json](./400490-ghost-in-the-shell-gbc.json) |
 | Ghost in the Shell: Arise - Stealth Hounds | 52005 | [52005-ghost-in-the-shell-arise-stealth-hounds.json](./52005-ghost-in-the-shell-arise-stealth-hounds.json) |
 | Ghost in the Shell: Stand Alone Complex | 114138 | [114138-ghost-in-the-shell-stand-alone-complex.json](./114138-ghost-in-the-shell-stand-alone-complex.json) |
+| Ghost in the Shell: Stand Alone Complex | 24252 | [24252-ghost-in-the-shell-stand-alone-complex.json](./24252-ghost-in-the-shell-stand-alone-complex.json) |
 | Ghost in the Shell: Stand Alone Complex | 81448 | [81448-ghost-in-the-shell-stand-alone-complex.json](./81448-ghost-in-the-shell-stand-alone-complex.json) |
 | Ghost in the Shell: Stand Alone Complex - First Assault Online | 35255 | [35255-ghost-in-the-shell-stand-alone-complex-first-assault-online.json](./35255-ghost-in-the-shell-stand-alone-complex-first-assault-online.json) |
 | Ghost in the SQL Data | 414822 | [414822-ghost-in-the-sql-data.json](./414822-ghost-in-the-sql-data.json) |
@@ -4554,6 +4555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator 3: Multiversal Traveler's Edition | 306488 | [306488-goat-simulator-3-multiversal-travelers-edition.json](./306488-goat-simulator-3-multiversal-travelers-edition.json) |
 | Goat Simulator 3: Multiverse of Nonsense | 305106 | [305106-goat-simulator-3-multiverse-of-nonsense.json](./305106-goat-simulator-3-multiverse-of-nonsense.json) |
 | Goat Simulator 3: Pre-Udder Edition | 204913 | [204913-goat-simulator-3-pre-udder-edition.json](./204913-goat-simulator-3-pre-udder-edition.json) |
+| Goat Simulator GoatZ | 23190 | [23190-goat-simulator-goatz.json](./23190-goat-simulator-goatz.json) |
 | Goat Simulator MMO Simulator | 88922 | [88922-goat-simulator-mmo-simulator.json](./88922-goat-simulator-mmo-simulator.json) |
 | Goat Simulator Waste of Space | 369590 | [369590-goat-simulator-waste-of-space.json](./369590-goat-simulator-waste-of-space.json) |
 | Goat Simulator: Nightmare Edition | 207116 | [207116-goat-simulator-nightmare-edition.json](./207116-goat-simulator-nightmare-edition.json) |
@@ -6445,6 +6447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandia HD Collection | 107214 | [107214-grandia-hd-collection.json](./107214-grandia-hd-collection.json) |
 | Grandia HD Remaster | 107213 | [107213-grandia-hd-remaster.json](./107213-grandia-hd-remaster.json) |
 | Grandia II | 9580 | [9580-grandia-ii.json](./9580-grandia-ii.json) |
+| Grandia II HD Remaster | 21657 | [21657-grandia-ii-hd-remaster.json](./21657-grandia-ii-hd-remaster.json) |
 | Grandia Online | 21661 | [21661-grandia-online.json](./21661-grandia-online.json) |
 | Grandia Xtreme | 21660 | [21660-grandia-xtreme.json](./21660-grandia-xtreme.json) |
 | Grandia: Digital Museum | 21658 | [21658-grandia-digital-museum.json](./21658-grandia-digital-museum.json) |
@@ -7956,6 +7959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growth Experiment | 285526 | [285526-growth-experiment.json](./285526-growth-experiment.json) |
 | Growth Fish | 310277 | [310277-growth-fish.json](./310277-growth-fish.json) |
 | Growth Spurt: A Meandering Intermission into the Afterhours of a Miscalculation | 301910 | [301910-growth-spurt-a-meandering-intermission-into-the-afterhours-of-a-miscalculation.json](./301910-growth-spurt-a-meandering-intermission-into-the-afterhours-of-a-miscalculation.json) |
+| Growtopia | 26352 | [26352-growtopia.json](./26352-growtopia.json) |
 | Grozs Fantasy World | 262921 | [262921-grozs-fantasy-world.json](./262921-grozs-fantasy-world.json) |
 | Grr Boo I | 292262 | [292262-grr-boo-i.json](./292262-grr-boo-i.json) |
 | Grr Grr Gnomes | 420527 | [420527-grr-grr-gnomes.json](./420527-grr-grr-gnomes.json) |
@@ -8778,6 +8782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gungame.io | 56923 | [56923-gungame-io.json](./56923-gungame-io.json) |
 | GunGirl 2 | 23720 | [23720-gungirl-2.json](./23720-gungirl-2.json) |
 | Gungnir | 42882 | [42882-gungnir.json](./42882-gungnir.json) |
+| Gungrave | 22072 | [22072-gungrave.json](./22072-gungrave.json) |
 | Gungrave G.O.R.E | 78113 | [78113-gungrave-g-o-r-e.json](./78113-gungrave-g-o-r-e.json) |
 | Gungrave G.O.R.E: Blood Heat | 370130 | [370130-gungrave-g-o-r-e-blood-heat.json](./370130-gungrave-g-o-r-e-blood-heat.json) |
 | Gungrave G.O.R.E: Complete Bundle | 331528 | [331528-gungrave-g-o-r-e-complete-bundle.json](./331528-gungrave-g-o-r-e-complete-bundle.json) |
