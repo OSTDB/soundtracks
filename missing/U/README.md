@@ -2057,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlimited Elevators | 94790 | [94790-unlimited-elevators.json](./94790-unlimited-elevators.json) |
 | Unlimited Escape | 17825 | [17825-unlimited-escape.json](./17825-unlimited-escape.json) |
 | Unlimited Escape 2 | 17748 | [17748-unlimited-escape-2.json](./17748-unlimited-escape-2.json) |
+| Unlimited Escape 3 & 4 Double Pack | 35206 | [35206-unlimited-escape-3-and-4-double-pack.json](./35206-unlimited-escape-3-and-4-double-pack.json) |
 | Unlimited Farm Tycoon: Cozy Idle Farm Game | 377063 | [377063-unlimited-farm-tycoon-cozy-idle-farm-game.json](./377063-unlimited-farm-tycoon-cozy-idle-farm-game.json) |
 | Unlimited Fight | 163778 | [163778-unlimited-fight.json](./163778-unlimited-fight.json) |
 | Unlimited Fight Ultimate Strike | 235353 | [235353-unlimited-fight-ultimate-strike.json](./235353-unlimited-fight-ultimate-strike.json) |
