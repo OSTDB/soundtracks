@@ -9670,6 +9670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frizzle | 319194 | [319194-frizzle.json](./319194-frizzle.json) |
 | Frizzy | 34764 | [34764-frizzy.json](./34764-frizzy.json) |
 | Frobbutt 3D | 379139 | [379139-frobbutt-3d.json](./379139-frobbutt-3d.json) |
+| Frobot | 21763 | [21763-frobot.json](./21763-frobot.json) |
 | Frobozz Magic Support | 217781 | [217781-frobozz-magic-support.json](./217781-frobozz-magic-support.json) |
 | Frocat Puzzles | 409205 | [409205-frocat-puzzles.json](./409205-frocat-puzzles.json) |
 | Frocket | 63807 | [63807-frocket.json](./63807-frocket.json) |
