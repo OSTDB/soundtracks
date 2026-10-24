@@ -1414,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idlewood Outpost | 373340 | [373340-idlewood-outpost.json](./373340-idlewood-outpost.json) |
 | Idling Gears | 237081 | [237081-idling-gears.json](./237081-idling-gears.json) |
 | Idling Idol | 186505 | [186505-idling-idol.json](./186505-idling-idol.json) |
+| Idling to Rule the Gods | 32737 | [32737-idling-to-rule-the-gods.json](./32737-idling-to-rule-the-gods.json) |
 | Idly God | 209637 | [209637-idly-god.json](./209637-idly-god.json) |
 | Ido no Akai | 151851 | [151851-ido-no-akai.json](./151851-ido-no-akai.json) |
 | Idol Connect -AsteriskLive- | 56164 | [56164-idol-connect-asterisklive.json](./56164-idol-connect-asterisklive.json) |
@@ -1439,6 +1440,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Janshi wo Tsukucchaou | 92138 | [92138-idol-janshi-wo-tsukucchaou.json](./92138-idol-janshi-wo-tsukucchaou.json) |
 | Idol Kingdom | 405517 | [405517-idol-kingdom.json](./405517-idol-kingdom.json) |
 | Idol Land PriPara | 266402 | [266402-idol-land-pripara.json](./266402-idol-land-pripara.json) |
+| Idol Magical Girl Chiru Chiru Michiru Part 1 | 35042 | [35042-idol-magical-girl-chiru-chiru-michiru-part-1.json](./35042-idol-magical-girl-chiru-chiru-michiru-part-1.json) |
+| Idol Magical Girl Chiru Chiru Michiru Part 2 | 35043 | [35043-idol-magical-girl-chiru-chiru-michiru-part-2.json](./35043-idol-magical-girl-chiru-chiru-michiru-part-2.json) |
 | Idol Mahjong Final Romance 4 | 202785 | [202785-idol-mahjong-final-romance-4.json](./202785-idol-mahjong-final-romance-4.json) |
 | Idol Mahjong Final Romance 4 Remaster | 273652 | [273652-idol-mahjong-final-romance-4-remaster.json](./273652-idol-mahjong-final-romance-4-remaster.json) |
 | Idol Manager | 95215 | [95215-idol-manager.json](./95215-idol-manager.json) |
@@ -2511,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inca Curse | 13008 | [13008-inca-curse.json](./13008-inca-curse.json) |
 | Inca Gold | 97501 | [97501-inca-gold.json](./97501-inca-gold.json) |
 | Inca II | 45925 | [45925-inca-ii.json](./45925-inca-ii.json) |
+| Incandescent | 34997 | [34997-incandescent.json](./34997-incandescent.json) |
 | Incandescent 2 | 113713 | [113713-incandescent-2.json](./113713-incandescent-2.json) |
 | Incandescent X | 408708 | [408708-incandescent-x.json](./408708-incandescent-x.json) |
 | Incantation | 44454 | [44454-incantation.json](./44454-incantation.json) |
