@@ -2351,6 +2351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindred Fates | 129154 | [129154-kindred-fates.json](./129154-kindred-fates.json) |
 | Kindred Fates: Combat Arena | 393012 | [393012-kindred-fates-combat-arena.json](./393012-kindred-fates-combat-arena.json) |
 | Kindred Spirits Complete Collection | 53240 | [53240-kindred-spirits-complete-collection.json](./53240-kindred-spirits-complete-collection.json) |
+| Kindred Spirits on the Roof | 12151 | [12151-kindred-spirits-on-the-roof.json](./12151-kindred-spirits-on-the-roof.json) |
 | Kindred Spirits on the Roof: Full Chorus | 124804 | [124804-kindred-spirits-on-the-roof-full-chorus.json](./124804-kindred-spirits-on-the-roof-full-chorus.json) |
 | Kindred Vale | 300965 | [300965-kindred-vale.json](./300965-kindred-vale.json) |
 | Kindred: High Tide | 373210 | [373210-kindred-high-tide.json](./373210-kindred-high-tide.json) |
@@ -3905,6 +3906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knowledge Challenge | 204278 | [204278-knowledge-challenge.json](./204278-knowledge-challenge.json) |
 | Knowledge Fever | 245863 | [245863-knowledge-fever.json](./245863-knowledge-fever.json) |
 | Knowledge is Power | 70833 | [70833-knowledge-is-power.json](./70833-knowledge-is-power.json) |
+| Knowledge is Power: Decades | 103402 | [103402-knowledge-is-power-decades.json](./103402-knowledge-is-power-decades.json) |
 | Knowledge Keeper | 292921 | [292921-knowledge-keeper.json](./292921-knowledge-keeper.json) |
 | Knowledge Party | 275353 | [275353-knowledge-party.json](./275353-knowledge-party.json) |
 | Knowledge, or Know Lady | 290941 | [290941-knowledge-or-know-lady.json](./290941-knowledge-or-know-lady.json) |
