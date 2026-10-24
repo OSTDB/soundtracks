@@ -3373,7 +3373,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 1: Apocalypse | 82528 | [82528-battlefield-1-apocalypse.json](./82528-battlefield-1-apocalypse.json) |
 | Battlefield 1: Deluxe Collector's Edition | 112636 | [112636-battlefield-1-deluxe-collectors-edition.json](./112636-battlefield-1-deluxe-collectors-edition.json) |
 | Battlefield 1: Early Enlister Deluxe Edition | 112635 | [112635-battlefield-1-early-enlister-deluxe-edition.json](./112635-battlefield-1-early-enlister-deluxe-edition.json) |
-| Battlefield 1: In the Name of the Tsar | 28966 | [28966-battlefield-1-in-the-name-of-the-tsar.json](./28966-battlefield-1-in-the-name-of-the-tsar.json) |
 | Battlefield 1: Premium Edition | 166991 | [166991-battlefield-1-premium-edition.json](./166991-battlefield-1-premium-edition.json) |
 | Battlefield 1: Revolution | 94085 | [94085-battlefield-1-revolution.json](./94085-battlefield-1-revolution.json) |
 | Battlefield 1: Revolution and Titanfall 2: Ultimate Edition Bundle | 136365 | [136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json](./136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json) |
@@ -9208,7 +9207,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons TD 5 HD | 88911 | [88911-bloons-td-5-hd.json](./88911-bloons-td-5-hd.json) |
 | Bloons TD 6: Frontier Legends | 381278 | [381278-bloons-td-6-frontier-legends.json](./381278-bloons-td-6-frontier-legends.json) |
 | Bloons TD 6: Rogue Legends | 330334 | [330334-bloons-td-6-rogue-legends.json](./330334-bloons-td-6-rogue-legends.json) |
-| Bloons TD Battles 2 | 153002 | [153002-bloons-td-battles-2.json](./153002-bloons-td-battles-2.json) |
 | Bloons TDX | 138135 | [138135-bloons-tdx.json](./138135-bloons-tdx.json) |
 | Bloonz Toonz | 36275 | [36275-bloonz-toonz.json](./36275-bloonz-toonz.json) |
 | Bloop | 182984 | [182984-bloop.json](./182984-bloop.json) |
@@ -11995,7 +11993,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlhalla: Winter Championship 2018 Pack | 342625 | [342625-brawlhalla-winter-championship-2018-pack.json](./342625-brawlhalla-winter-championship-2018-pack.json) |
 | Brawlhalla: Winter Championship 2024 Pack | 292744 | [292744-brawlhalla-winter-championship-2024-pack.json](./292744-brawlhalla-winter-championship-2024-pack.json) |
 | Brawlin' Sailor | 201288 | [201288-brawlin-sailor.json](./201288-brawlin-sailor.json) |
-| Brawlout | 27419 | [27419-brawlout.json](./27419-brawlout.json) |
 | Brawlout: Deluxe Edition | 119077 | [119077-brawlout-deluxe-edition.json](./119077-brawlout-deluxe-edition.json) |
 | BrawlQuest | 103637 | [103637-brawlquest.json](./103637-brawlquest.json) |
 | Brawlygon | 276252 | [276252-brawlygon.json](./276252-brawlygon.json) |
