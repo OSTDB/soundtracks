@@ -3400,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field and Stream Fishing | 99003 | [99003-field-and-stream-fishing.json](./99003-field-and-stream-fishing.json) |
 | Field Breaking | 37040 | [37040-field-breaking.json](./37040-field-breaking.json) |
 | Field Combat | 206086 | [206086-field-combat.json](./206086-field-combat.json) |
+| Field Combat | 4613 | [4613-field-combat.json](./4613-field-combat.json) |
 | Field Combat DX | 361327 | [361327-field-combat-dx.json](./361327-field-combat-dx.json) |
 | Field Commander | 42873 | [42873-field-commander.json](./42873-field-commander.json) |
 | Field Day | 40332 | [40332-field-day.json](./40332-field-day.json) |
@@ -3711,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Command: The Battle of Britain | 23995 | [23995-fighter-command-the-battle-of-britain.json](./23995-fighter-command-the-battle-of-britain.json) |
 | Fighter Destiny 2 | 10683 | [10683-fighter-destiny-2.json](./10683-fighter-destiny-2.json) |
 | Fighter Mage Bard | 58705 | [58705-fighter-mage-bard.json](./58705-fighter-mage-bard.json) |
+| Fighter Maker | 4636 | [4636-fighter-maker.json](./4636-fighter-maker.json) |
 | Fighter Mission: Air Superiority | 65369 | [65369-fighter-mission-air-superiority.json](./65369-fighter-mission-air-superiority.json) |
 | Fighter on the Path of Glory | 293204 | [293204-fighter-on-the-path-of-glory.json](./293204-fighter-on-the-path-of-glory.json) |
 | Fighter Online | 252161 | [252161-fighter-online.json](./252161-fighter-online.json) |
@@ -9728,6 +9730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Fall Down | 192430 | [192430-frog-fall-down.json](./192430-frog-fall-down.json) |
 | Frog Familiar | 195734 | [195734-frog-familiar.json](./195734-frog-familiar.json) |
 | Frog Feast | 270407 | [270407-frog-feast.json](./270407-frog-feast.json) |
+| Frog Feast | 4474 | [4474-frog-feast.json](./4474-frog-feast.json) |
 | Frog Fighters | 154826 | [154826-frog-fighters.json](./154826-frog-fighters.json) |
 | Frog Finder | 181798 | [181798-frog-finder.json](./181798-frog-finder.json) |
 | Frog Folding Simulator | 350436 | [350436-frog-folding-simulator.json](./350436-frog-folding-simulator.json) |
