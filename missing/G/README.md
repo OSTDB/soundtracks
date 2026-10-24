@@ -2984,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghlobot Shift | 366113 | [366113-ghlobot-shift.json](./366113-ghlobot-shift.json) |
 | Ghone is gone | 128219 | [128219-ghone-is-gone.json](./128219-ghone-is-gone.json) |
 | Ghost | 188440 | [188440-ghost.json](./188440-ghost.json) |
+| Ghost 1.0 | 32969 | [32969-ghost-1-0.json](./32969-ghost-1-0.json) |
 | Ghost 1.0: Limited Edition | 166995 | [166995-ghost-1-0-limited-edition.json](./166995-ghost-1-0-limited-edition.json) |
 | Ghost Algorithm | 391665 | [391665-ghost-algorithm.json](./391665-ghost-algorithm.json) |
 | Ghost and Joker: A thing to do for you | 255886 | [255886-ghost-and-joker-a-thing-to-do-for-you.json](./255886-ghost-and-joker-a-thing-to-do-for-you.json) |
@@ -3215,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters: Rise of the Ghost Lord | 228529 | [228529-ghostbusters-rise-of-the-ghost-lord.json](./228529-ghostbusters-rise-of-the-ghost-lord.json) |
 | Ghostbusters: Sanctum of Slime | 14849 | [14849-ghostbusters-sanctum-of-slime.json](./14849-ghostbusters-sanctum-of-slime.json) |
 | Ghostbusters: Slime City | 96751 | [96751-ghostbusters-slime-city.json](./96751-ghostbusters-slime-city.json) |
+| Ghostbusters: Spirits Unleashed | 194682 | [194682-ghostbusters-spirits-unleashed.json](./194682-ghostbusters-spirits-unleashed.json) |
 | Ghostbusters: Spirits Unleashed - Collector's Edition | 214137 | [214137-ghostbusters-spirits-unleashed-collectors-edition.json](./214137-ghostbusters-spirits-unleashed-collectors-edition.json) |
 | Ghostbusters: Spirits Unleashed - Ecto Edition | 269357 | [269357-ghostbusters-spirits-unleashed-ecto-edition.json](./269357-ghostbusters-spirits-unleashed-ecto-edition.json) |
 | Ghostbusters: The Video Game | 210296 | [210296-ghostbusters-the-video-game.json](./210296-ghostbusters-the-video-game.json) |
@@ -6717,6 +6719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravit | 365754 | [365754-gravit.json](./365754-gravit.json) |
 | GraviT | 200696 | [200696-gravit.json](./200696-gravit.json) |
 | Gravitar | 17246 | [17246-gravitar.json](./17246-gravitar.json) |
+| Gravitas | 121348 | [121348-gravitas.json](./121348-gravitas.json) |
 | Gravitas | 134000 | [134000-gravitas.json](./134000-gravitas.json) |
 | Gravitas | 397230 | [397230-gravitas.json](./397230-gravitas.json) |
 | Gravitas! | 259549 | [259549-gravitas.json](./259549-gravitas.json) |
@@ -6819,6 +6822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Cat | 143705 | [143705-gravity-cat.json](./143705-gravity-cat.json) |
 | Gravity Cat | 32853 | [32853-gravity-cat.json](./32853-gravity-cat.json) |
 | Gravity Chase | 125656 | [125656-gravity-chase.json](./125656-gravity-chase.json) |
+| Gravity Circuit | 106534 | [106534-gravity-circuit.json](./106534-gravity-circuit.json) |
 | Gravity Circuit Jukebox | 309032 | [309032-gravity-circuit-jukebox.json](./309032-gravity-circuit-jukebox.json) |
 | Gravity Circuit: Deluxe Edition | 309034 | [309034-gravity-circuit-deluxe-edition.json](./309034-gravity-circuit-deluxe-edition.json) |
 | Gravity Compass | 33585 | [33585-gravity-compass.json](./33585-gravity-compass.json) |
@@ -7619,6 +7623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grinded Meat | 237068 | [237068-grinded-meat.json](./237068-grinded-meat.json) |
 | Grindhouse Games Volume I | 142851 | [142851-grindhouse-games-volume-i.json](./142851-grindhouse-games-volume-i.json) |
 | Grindshift | 207307 | [207307-grindshift.json](./207307-grindshift.json) |
+| Grindstone | 124031 | [124031-grindstone.json](./124031-grindstone.json) |
 | Grindworm | 361817 | [361817-grindworm.json](./361817-grindworm.json) |
 | Gringo Hero | 339472 | [339472-gringo-hero.json](./339472-gringo-hero.json) |
 | Grinlox is here | 266901 | [266901-grinlox-is-here.json](./266901-grinlox-is-here.json) |
