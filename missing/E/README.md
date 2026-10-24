@@ -4952,6 +4952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity Warriors VR | 54652 | [54652-eternity-warriors-vr.json](./54652-eternity-warriors-vr.json) |
 | Eternity: Farfalla the Holy sword | 105812 | [105812-eternity-farfalla-the-holy-sword.json](./105812-eternity-farfalla-the-holy-sword.json) |
 | Eternium: Mage and Minions | 193967 | [193967-eternium-mage-and-minions.json](./193967-eternium-mage-and-minions.json) |
+| Eternum | 209628 | [209628-eternum.json](./209628-eternum.json) |
 | Eterspire | 143526 | [143526-eterspire.json](./143526-eterspire.json) |
 | Ethan: Meteor Hunter | 10279 | [10279-ethan-meteor-hunter.json](./10279-ethan-meteor-hunter.json) |
 | Ethan's Watch | 390613 | [390613-ethans-watch.json](./390613-ethans-watch.json) |
