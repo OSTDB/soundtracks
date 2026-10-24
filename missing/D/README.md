@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daffy Duck in Hollywood | 369244 | [369244-daffy-duck-in-hollywood.json](./369244-daffy-duck-in-hollywood.json) |
 | Daffy Duck, P.I.: The Case of the Missing Letters | 63814 | [63814-daffy-duck-p-i-the-case-of-the-missing-letters.json](./63814-daffy-duck-p-i-the-case-of-the-missing-letters.json) |
 | Daffy Duck: Fowl Play | 25800 | [25800-daffy-duck-fowl-play.json](./25800-daffy-duck-fowl-play.json) |
+| Daffy Duck: The Marvin Missions | 8132 | [8132-daffy-duck-the-marvin-missions.json](./8132-daffy-duck-the-marvin-missions.json) |
 | Daft Disputes | 180220 | [180220-daft-disputes.json](./180220-daft-disputes.json) |
 | Daft Jump! | 108222 | [108222-daft-jump.json](./108222-daft-jump.json) |
 | DaGame | 146238 | [146238-dagame.json](./146238-dagame.json) |
@@ -8441,6 +8442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Dinosaur Activity Center | 72123 | [72123-disneys-dinosaur-activity-center.json](./72123-disneys-dinosaur-activity-center.json) |
 | Disney's Donald Duck Advance | 63272 | [63272-disneys-donald-duck-advance.json](./63272-disneys-donald-duck-advance.json) |
 | Disney's Donald Duck: Goin' Quackers | 10610 | [10610-disneys-donald-duck-goin-quackers.json](./10610-disneys-donald-duck-goin-quackers.json) |
+| Disney's Donald Duck: Goin' Quackers | 146342 | [146342-disneys-donald-duck-goin-quackers.json](./146342-disneys-donald-duck-goin-quackers.json) |
 | Disney's Donald Duck: Goin' Quackers | 53943 | [53943-disneys-donald-duck-goin-quackers.json](./53943-disneys-donald-duck-goin-quackers.json) |
 | Disney's Doug: Doug's Big Game | 49942 | [49942-disneys-doug-dougs-big-game.json](./49942-disneys-doug-dougs-big-game.json) |
 | Disney's DuckTales | 145268 | [145268-disneys-ducktales.json](./145268-disneys-ducktales.json) |
@@ -10158,6 +10160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong | 1086 | [1086-donkey-kong.json](./1086-donkey-kong.json) |
 | Donkey Kong | 1089 | [1089-donkey-kong.json](./1089-donkey-kong.json) |
 | Donkey Kong | 141959 | [141959-donkey-kong.json](./141959-donkey-kong.json) |
+| Donkey Kong | 145209 | [145209-donkey-kong.json](./145209-donkey-kong.json) |
 | Donkey Kong | 152066 | [152066-donkey-kong.json](./152066-donkey-kong.json) |
 | Donkey Kong | 171952 | [171952-donkey-kong.json](./171952-donkey-kong.json) |
 | Donkey Kong | 171953 | [171953-donkey-kong.json](./171953-donkey-kong.json) |
@@ -12651,6 +12654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreadMoon | 272379 | [272379-dreadmoon.json](./272379-dreadmoon.json) |
 | Dreadnaughts | 55178 | [55178-dreadnaughts.json](./55178-dreadnaughts.json) |
 | Dreadnought | 266432 | [266432-dreadnought.json](./266432-dreadnought.json) |
+| Dreadnought | 7336 | [7336-dreadnought.json](./7336-dreadnought.json) |
 | Dreadnought Sol | 75022 | [75022-dreadnought-sol.json](./75022-dreadnought-sol.json) |
 | Dreadnought Tartarus | 383481 | [383481-dreadnought-tartarus.json](./383481-dreadnought-tartarus.json) |
 | Dreadnoughts | 25033 | [25033-dreadnoughts.json](./25033-dreadnoughts.json) |
