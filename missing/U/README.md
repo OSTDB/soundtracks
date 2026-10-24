@@ -1670,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unearthed Inc: The Lost Temple | 30644 | [30644-unearthed-inc-the-lost-temple.json](./30644-unearthed-inc-the-lost-temple.json) |
 | Unearthed VR | 293379 | [293379-unearthed-vr.json](./293379-unearthed-vr.json) |
 | Unearther | 326245 | [326245-unearther.json](./326245-unearther.json) |
+| Unearthing Colossal | 33881 | [33881-unearthing-colossal.json](./33881-unearthing-colossal.json) |
 | Unearthing Invasions | 302362 | [302362-unearthing-invasions.json](./302362-unearthing-invasions.json) |
 | Unearthing Mars 2: The Ancient War | 107243 | [107243-unearthing-mars-2-the-ancient-war.json](./107243-unearthing-mars-2-the-ancient-war.json) |
 | Unearthing Process | 54509 | [54509-unearthing-process.json](./54509-unearthing-process.json) |
