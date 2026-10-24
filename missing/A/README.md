@@ -2932,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure's Calling | 235052 | [235052-adventures-calling.json](./235052-adventures-calling.json) |
 | Adventure4+ | 305199 | [305199-adventure4.json](./305199-adventure4.json) |
 | AdventureQuest | 79499 | [79499-adventurequest.json](./79499-adventurequest.json) |
+| AdventureQuest 3D | 33823 | [33823-adventurequest-3d.json](./33823-adventurequest-3d.json) |
 | AdventureQuest 8-Bit: Dungeons & DoomKnights | 145362 | [145362-adventurequest-8-bit-dungeons-and-doomknights.json](./145362-adventurequest-8-bit-dungeons-and-doomknights.json) |
 | AdventureQuest Dragons | 112229 | [112229-adventurequest-dragons.json](./112229-adventurequest-dragons.json) |
 | AdventureQuest Undead Assault | 112227 | [112227-adventurequest-undead-assault.json](./112227-adventurequest-undead-assault.json) |
@@ -2964,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -6585,6 +6587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Frog : Poket Frogs | 223962 | [223962-amazing-frog-poket-frogs.json](./223962-amazing-frog-poket-frogs.json) |
 | Amazing Frog Simulator City | 86921 | [86921-amazing-frog-simulator-city.json](./86921-amazing-frog-simulator-city.json) |
 | Amazing Frog: In the City | 96058 | [96058-amazing-frog-in-the-city.json](./96058-amazing-frog-in-the-city.json) |
+| Amazing Frog? | 36143 | [36143-amazing-frog.json](./36143-amazing-frog.json) |
 | Amazing Garden | 324155 | [324155-amazing-garden.json](./324155-amazing-garden.json) |
 | Amazing Gardens | 344366 | [344366-amazing-gardens.json](./344366-amazing-gardens.json) |
 | Amazing Girl | 248441 | [248441-amazing-girl.json](./248441-amazing-girl.json) |
@@ -10462,6 +10465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archangel | 26504 | [26504-archangel.json](./26504-archangel.json) |
 | Archangel | 74276 | [74276-archangel.json](./74276-archangel.json) |
 | Archangel Demon Rush | 396574 | [396574-archangel-demon-rush.json](./396574-archangel-demon-rush.json) |
+| Archangel: Hellfire | 36787 | [36787-archangel-hellfire.json](./36787-archangel-hellfire.json) |
 | Archangel: Hellfire - Fully Loaded | 171377 | [171377-archangel-hellfire-fully-loaded.json](./171377-archangel-hellfire-fully-loaded.json) |
 | ArcheAge | 6451 | [6451-archeage.json](./6451-archeage.json) |
 | ArcheAge Begins | 77607 | [77607-archeage-begins.json](./77607-archeage-begins.json) |
