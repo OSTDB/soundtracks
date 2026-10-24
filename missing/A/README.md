@@ -1597,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abraham Link Coln on Dessert Island | 398541 | [398541-abraham-link-coln-on-dessert-island.json](./398541-abraham-link-coln-on-dessert-island.json) |
 | Abrakadaboom | 113620 | [113620-abrakadaboom.json](./113620-abrakadaboom.json) |
 | Abrakajumpa | 305944 | [305944-abrakajumpa.json](./305944-abrakajumpa.json) |
+| Abrams Battle Tank | 2398 | [2398-abrams-battle-tank.json](./2398-abrams-battle-tank.json) |
 | Abrams Tank | 31567 | [31567-abrams-tank.json](./31567-abrams-tank.json) |
 | Abrapalabra: La Magia de Aprender a Leer | 307198 | [307198-abrapalabra-la-magia-de-aprender-a-leer.json](./307198-abrapalabra-la-magia-de-aprender-a-leer.json) |
 | Abrasion | 312659 | [312659-abrasion.json](./312659-abrasion.json) |
@@ -2388,6 +2389,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actua Golf 4 | 356274 | [356274-actua-golf-4.json](./356274-actua-golf-4.json) |
 | Actua Ice Hockey | 68964 | [68964-actua-ice-hockey.json](./68964-actua-ice-hockey.json) |
 | Actua Ice Hockey 2 | 71553 | [71553-actua-ice-hockey-2.json](./71553-actua-ice-hockey-2.json) |
+| Actua Soccer 2 | 1993 | [1993-actua-soccer-2.json](./1993-actua-soccer-2.json) |
+| Actua Soccer 3 | 1994 | [1994-actua-soccer-3.json](./1994-actua-soccer-3.json) |
 | Actua Soccer: Club Edition | 1992 | [1992-actua-soccer-club-edition.json](./1992-actua-soccer-club-edition.json) |
 | Actua Tennis | 44736 | [44736-actua-tennis.json](./44736-actua-tennis.json) |
 | Actual Crimes: Jack the Ripper | 20411 | [20411-actual-crimes-jack-the-ripper.json](./20411-actual-crimes-jack-the-ripper.json) |
@@ -2970,6 +2973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -4353,6 +4357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirAttack HD | 335055 | [335055-airattack-hd.json](./335055-airattack-hd.json) |
 | Airavat | 57916 | [57916-airavat.json](./57916-airavat.json) |
 | Airball | 146513 | [146513-airball.json](./146513-airball.json) |
+| Airball | 2302 | [2302-airball.json](./2302-airball.json) |
 | Airballs | 278081 | [278081-airballs.json](./278081-airballs.json) |
 | AirBlade | 8231 | [8231-airblade.json](./8231-airblade.json) |
 | AirBob | 295874 | [295874-airbob.json](./295874-airbob.json) |
@@ -4725,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akinofa | 152700 | [152700-akinofa.json](./152700-akinofa.json) |
 | Akir8 | 178852 | [178852-akir8.json](./178852-akir8.json) |
 | Akira | 14234 | [14234-akira.json](./14234-akira.json) |
+| Akira | 2340 | [2340-akira.json](./2340-akira.json) |
 | Akira | 248743 | [248743-akira.json](./248743-akira.json) |
 | Akira | 248744 | [248744-akira.json](./248744-akira.json) |
 | Akira | 26411 | [26411-akira.json](./26411-akira.json) |
@@ -7775,6 +7781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds AR: Isle of Pigs | 196589 | [196589-angry-birds-ar-isle-of-pigs.json](./196589-angry-birds-ar-isle-of-pigs.json) |
 | Angry Birds Arcade | 231439 | [231439-angry-birds-arcade.json](./231439-angry-birds-arcade.json) |
 | Angry Birds Blast Island | 122718 | [122718-angry-birds-blast-island.json](./122718-angry-birds-blast-island.json) |
+| Angry Birds Blast! | 57064 | [57064-angry-birds-blast.json](./57064-angry-birds-blast.json) |
 | Angry Birds Block Quest | 321375 | [321375-angry-birds-block-quest.json](./321375-angry-birds-block-quest.json) |
 | Angry Birds Boom! | 386241 | [386241-angry-birds-boom.json](./386241-angry-birds-boom.json) |
 | Angry Birds Bounce | 347237 | [347237-angry-birds-bounce.json](./347237-angry-birds-bounce.json) |
