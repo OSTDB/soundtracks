@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Labot: The Golden Pearl | 173280 | [173280-legend-of-labot-the-golden-pearl.json](./173280-legend-of-labot-the-golden-pearl.json) |
 | Legend of Legaia | 13676 | [13676-legend-of-legaia.json](./13676-legend-of-legaia.json) |
 | Legend of Love | 290632 | [290632-legend-of-love.json](./290632-legend-of-love.json) |
+| Legend of Mana | 143616 | [143616-legend-of-mana.json](./143616-legend-of-mana.json) |
 | Legend of Mana | 14986 | [14986-legend-of-mana.json](./14986-legend-of-mana.json) |
 | Legend of Maratha Warriors | 158702 | [158702-legend-of-maratha-warriors.json](./158702-legend-of-maratha-warriors.json) |
 | Legend of Marrow | 296933 | [296933-legend-of-marrow.json](./296933-legend-of-marrow.json) |
@@ -6295,6 +6296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorhaven: Cursed War | 278927 | [278927-lorhaven-cursed-war.json](./278927-lorhaven-cursed-war.json) |
 | Loria | 111928 | [111928-loria.json](./111928-loria.json) |
 | Lorn Vale | 305172 | [305172-lorn-vale.json](./305172-lorn-vale.json) |
+| Lorn's Lure | 145858 | [145858-lorns-lure.json](./145858-lorns-lure.json) |
 | Lorn's Lure: Danny's Song | 321662 | [321662-lorns-lure-dannys-song.json](./321662-lorns-lure-dannys-song.json) |
 | Lorne | 235754 | [235754-lorne.json](./235754-lorne.json) |
 | Lornsword Winter Chronicle | 117358 | [117358-lornsword-winter-chronicle.json](./117358-lornsword-winter-chronicle.json) |
