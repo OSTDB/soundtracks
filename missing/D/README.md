@@ -3591,6 +3591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death in a Party | 381738 | [381738-death-in-a-party.json](./381738-death-in-a-party.json) |
 | Death In Abyss | 247609 | [247609-death-in-abyss.json](./247609-death-in-abyss.json) |
 | Death in the Bunker | 224555 | [224555-death-in-the-bunker.json](./224555-death-in-the-bunker.json) |
+| Death in the Caribbean | 23243 | [23243-death-in-the-caribbean.json](./23243-death-in-the-caribbean.json) |
 | Death in the Night | 215538 | [215538-death-in-the-night.json](./215538-death-in-the-night.json) |
 | Death in the Water 2 | 222355 | [222355-death-in-the-water-2.json](./222355-death-in-the-water-2.json) |
 | Death in Unison | 301383 | [301383-death-in-unison.json](./301383-death-in-unison.json) |
@@ -9702,6 +9703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Fever | 383615 | [383615-domino-fever.json](./383615-domino-fever.json) |
 | Domino Fit | 303482 | [303482-domino-fit.json](./303482-domino-fit.json) |
 | Domino Lounge | 209121 | [209121-domino-lounge.json](./209121-domino-lounge.json) |
+| Domino Man | 23239 | [23239-domino-man.json](./23239-domino-man.json) |
 | Domino Marble | 238977 | [238977-domino-marble.json](./238977-domino-marble.json) |
 | Domino Master | 21794 | [21794-domino-master.json](./21794-domino-master.json) |
 | Domino Merged Puzzle | 252154 | [252154-domino-merged-puzzle.json](./252154-domino-merged-puzzle.json) |
@@ -12185,6 +12187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Dungeon | 321486 | [321486-dragons-dungeon.json](./321486-dragons-dungeon.json) |
 | Dragon's Dungeon | 322426 | [322426-dragons-dungeon.json](./322426-dragons-dungeon.json) |
 | Dragon's Eye | 170218 | [170218-dragons-eye.json](./170218-dragons-eye.json) |
+| Dragon's Eye | 23292 | [23292-dragons-eye.json](./23292-dragons-eye.json) |
 | Dragon's Eye Plus: Shanghai III | 47060 | [47060-dragons-eye-plus-shanghai-iii.json](./47060-dragons-eye-plus-shanghai-iii.json) |
 | Dragon's Fury | 45586 | [45586-dragons-fury.json](./45586-dragons-fury.json) |
 | Dragon's Gold | 13609 | [13609-dragons-gold.json](./13609-dragons-gold.json) |
@@ -14903,6 +14906,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunia: The North Wood | 254776 | [254776-dunia-the-north-wood.json](./254776-dunia-the-north-wood.json) |
 | Dunidle Idle RPG | 227477 | [227477-dunidle-idle-rpg.json](./227477-dunidle-idle-rpg.json) |
 | Dunjonquest: Curse of Ra | 94549 | [94549-dunjonquest-curse-of-ra.json](./94549-dunjonquest-curse-of-ra.json) |
+| Dunjonquest: Hellfire Warrior - Danger in Drindisti | 23309 | [23309-dunjonquest-hellfire-warrior-danger-in-drindisti.json](./23309-dunjonquest-hellfire-warrior-danger-in-drindisti.json) |
+| Dunjonquest: Hellfire Warrior - The Keys to Acheron | 23308 | [23308-dunjonquest-hellfire-warrior-the-keys-to-acheron.json](./23308-dunjonquest-hellfire-warrior-the-keys-to-acheron.json) |
 | Dunjonquest: Temple of Apshai | 68778 | [68778-dunjonquest-temple-of-apshai.json](./68778-dunjonquest-temple-of-apshai.json) |
 | Dunjonquest: Upper Reaches of Apshai | 69915 | [69915-dunjonquest-upper-reaches-of-apshai.json](./69915-dunjonquest-upper-reaches-of-apshai.json) |
 | Dunjunguy | 240736 | [240736-dunjunguy.json](./240736-dunjunguy.json) |
