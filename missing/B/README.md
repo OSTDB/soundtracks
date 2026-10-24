@@ -768,7 +768,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7176,9 +7175,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blablaland | 286667 | [286667-blablaland.json](./286667-blablaland.json) |
 | Blablublas Battle Royale Shooter | 370787 | [370787-blablublas-battle-royale-shooter.json](./370787-blablublas-battle-royale-shooter.json) |
 | Black | 159265 | [159265-black.json](./159265-black.json) |
+| Black & Bruised | 3819 | [3819-black-and-bruised.json](./3819-black-and-bruised.json) |
 | Black & White | 308 | [308-black-and-white.json](./308-black-and-white.json) |
 | Black & White | 376747 | [376747-black-and-white.json](./376747-black-and-white.json) |
 | Black & White 2 | 1921 | [1921-black-and-white-2.json](./1921-black-and-white-2.json) |
+| Black & White Bushido | 14387 | [14387-black-and-white-bushido.json](./14387-black-and-white-bushido.json) |
 | Black & White Creatures | 323208 | [323208-black-and-white-creatures.json](./323208-black-and-white-creatures.json) |
 | Black & White Deluxe | 137509 | [137509-black-and-white-deluxe.json](./137509-black-and-white-deluxe.json) |
 | Black & White Lite | 295164 | [295164-black-and-white-lite.json](./295164-black-and-white-lite.json) |
@@ -10729,6 +10730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boosted Survivors | 314666 | [314666-boosted-survivors.json](./314666-boosted-survivors.json) |
 | Booster Pack Heroes | 400386 | [400386-booster-pack-heroes.json](./400386-booster-pack-heroes.json) |
 | Booster Racers | 303105 | [303105-booster-racers.json](./303105-booster-racers.json) |
+| Booster Trooper | 14948 | [14948-booster-trooper.json](./14948-booster-trooper.json) |
 | Boot : Game Dev Sim | 129034 | [129034-boot-game-dev-sim.json](./129034-boot-game-dev-sim.json) |
 | Boot & Shoot | 202066 | [202066-boot-and-shoot.json](./202066-boot-and-shoot.json) |
 | Boot Camp Academy | 51005 | [51005-boot-camp-academy.json](./51005-boot-camp-academy.json) |
