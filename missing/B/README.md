@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10649,6 +10650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Face | 169637 | [169637-boom-face.json](./169637-boom-face.json) |
 | Boom Faster | 157198 | [157198-boom-faster.json](./157198-boom-faster.json) |
 | Boom Guys | 176141 | [176141-boom-guys.json](./176141-boom-guys.json) |
+| Boom Island | 68810 | [68810-boom-island.json](./68810-boom-island.json) |
 | Boom Karts: Multiplayer Kart Racing | 144982 | [144982-boom-karts-multiplayer-kart-racing.json](./144982-boom-karts-multiplayer-kart-racing.json) |
 | Boom Land | 103148 | [103148-boom-land.json](./103148-boom-land.json) |
 | Boom Lift Operator | 298156 | [298156-boom-lift-operator.json](./298156-boom-lift-operator.json) |
@@ -14471,6 +14473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnin' Rubber 4 | 133877 | [133877-burnin-rubber-4.json](./133877-burnin-rubber-4.json) |
 | Burnin' Rubber 5 | 172645 | [172645-burnin-rubber-5.json](./172645-burnin-rubber-5.json) |
 | Burnin' Rubber 5 Air | 172647 | [172647-burnin-rubber-5-air.json](./172647-burnin-rubber-5-air.json) |
+| Burnin' Rubber 5 HD | 82533 | [82533-burnin-rubber-5-hd.json](./82533-burnin-rubber-5-hd.json) |
 | Burnin' Rubber 5 XS | 172646 | [172646-burnin-rubber-5-xs.json](./172646-burnin-rubber-5-xs.json) |
 | Burnin' Rubber 6 | 320749 | [320749-burnin-rubber-6.json](./320749-burnin-rubber-6.json) |
 | Burnin' Rubber Shift | 237965 | [237965-burnin-rubber-shift.json](./237965-burnin-rubber-shift.json) |
