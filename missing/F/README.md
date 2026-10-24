@@ -4046,6 +4046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Sonic X: Episode 5 | 274410 | [274410-final-fantasy-sonic-x-episode-5.json](./274410-final-fantasy-sonic-x-episode-5.json) |
 | Final Fantasy Sonic X: Episode 6 | 274411 | [274411-final-fantasy-sonic-x-episode-6.json](./274411-final-fantasy-sonic-x-episode-6.json) |
 | Final Fantasy Tactics 1.3 | 159064 | [159064-final-fantasy-tactics-1-3.json](./159064-final-fantasy-tactics-1-3.json) |
+| Final Fantasy Tactics A2: Grimoire of the Rift | 2408 | [2408-final-fantasy-tactics-a2-grimoire-of-the-rift.json](./2408-final-fantasy-tactics-a2-grimoire-of-the-rift.json) |
 | Final Fantasy Tactics Advance | 414 | [414-final-fantasy-tactics-advance.json](./414-final-fantasy-tactics-advance.json) |
 | Final Fantasy Tactics Advance X | 222987 | [222987-final-fantasy-tactics-advance-x.json](./222987-final-fantasy-tactics-advance-x.json) |
 | Final Fantasy Tactics Advanced Battle | 222345 | [222345-final-fantasy-tactics-advanced-battle.json](./222345-final-fantasy-tactics-advanced-battle.json) |
@@ -7413,7 +7414,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager | 23064 | [23064-football-manager.json](./23064-football-manager.json) |
 | Football Manager 2005 | 944 | [944-football-manager-2005.json](./944-football-manager-2005.json) |
 | Football Manager 2008 | 946 | [946-football-manager-2008.json](./946-football-manager-2008.json) |
+| Football Manager 2012 | 8973 | [8973-football-manager-2012.json](./8973-football-manager-2012.json) |
 | Football Manager 2013 | 8974 | [8974-football-manager-2013.json](./8974-football-manager-2013.json) |
+| Football Manager 2015 | 8976 | [8976-football-manager-2015.json](./8976-football-manager-2015.json) |
 | Football Manager 2016 | 19875 | [19875-football-manager-2016.json](./19875-football-manager-2016.json) |
 | Football Manager 2017 | 24481 | [24481-football-manager-2017.json](./24481-football-manager-2017.json) |
 | Football Manager 2018 | 54662 | [54662-football-manager-2018.json](./54662-football-manager-2018.json) |
