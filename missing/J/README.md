@@ -3325,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance Wii U | 15560 | [15560-just-dance-wii-u.json](./15560-just-dance-wii-u.json) |
 | Just Dance: Best Of | 3303 | [3303-just-dance-best-of.json](./3303-just-dance-best-of.json) |
 | Just Dance: Decades of Hits | 409690 | [409690-just-dance-decades-of-hits.json](./409690-just-dance-decades-of-hits.json) |
+| Just Dance: Disney Party 2 | 19340 | [19340-just-dance-disney-party-2.json](./19340-just-dance-disney-party-2.json) |
 | Just Dance: Greatest Hits | 241441 | [241441-just-dance-greatest-hits.json](./241441-just-dance-greatest-hits.json) |
 | Just Dance: Summer Party | 14982 | [14982-just-dance-summer-party.json](./14982-just-dance-summer-party.json) |
 | Just Dance: Vitality School | 250329 | [250329-just-dance-vitality-school.json](./250329-just-dance-vitality-school.json) |
