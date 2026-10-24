@@ -2856,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven's Palace | 362725 | [362725-heavens-palace.json](./362725-heavens-palace.json) |
 | Heaven's Vault | 27509 | [27509-heavens-vault.json](./27509-heavens-vault.json) |
 | Heaven's Voice Feast of Famine | 118023 | [118023-heavens-voice-feast-of-famine.json](./118023-heavens-voice-feast-of-famine.json) |
+| Heavenbound | 41164 | [41164-heavenbound.json](./41164-heavenbound.json) |
 | Heavenhells | 393771 | [393771-heavenhells.json](./393771-heavenhells.json) |
 | Heavenly Bodies: Cleanup | 260747 | [260747-heavenly-bodies-cleanup.json](./260747-heavenly-bodies-cleanup.json) |
 | Heavenly Guitars | 391226 | [391226-heavenly-guitars.json](./391226-heavenly-guitars.json) |
