@@ -4697,6 +4697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Dark Lord and The Maiden of Light | 214537 | [214537-fire-emblem-dark-lord-and-the-maiden-of-light.json](./214537-fire-emblem-dark-lord-and-the-maiden-of-light.json) |
 | Fire Emblem: Dark Stone | 335828 | [335828-fire-emblem-dark-stone.json](./335828-fire-emblem-dark-stone.json) |
 | Fire Emblem: Deity Device | 270674 | [270674-fire-emblem-deity-device.json](./270674-fire-emblem-deity-device.json) |
+| Fire Emblem: Dream of Five | 37546 | [37546-fire-emblem-dream-of-five.json](./37546-fire-emblem-dream-of-five.json) |
 | Fire Emblem: Dream of Five - Definitive Edition | 316621 | [316621-fire-emblem-dream-of-five-definitive-edition.json](./316621-fire-emblem-dream-of-five-definitive-edition.json) |
 | Fire Emblem: Drums of War | 274389 | [274389-fire-emblem-drums-of-war.json](./274389-fire-emblem-drums-of-war.json) |
 | Fire emblem: Emulation Theory | 375371 | [375371-fire-emblem-emulation-theory.json](./375371-fire-emblem-emulation-theory.json) |
@@ -5949,6 +5950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Gordon | 218420 | [218420-flash-gordon.json](./218420-flash-gordon.json) |
 | Flash Gordon | 22735 | [22735-flash-gordon.json](./22735-flash-gordon.json) |
 | Flash Hiders | 37600 | [37600-flash-hiders.json](./37600-flash-hiders.json) |
+| Flash Koibito-Kun | 37547 | [37547-flash-koibito-kun.json](./37547-flash-koibito-kun.json) |
 | Flash Memory | 230692 | [230692-flash-memory.json](./230692-flash-memory.json) |
 | Flash Motor Karen | 58570 | [58570-flash-motor-karen.json](./58570-flash-motor-karen.json) |
 | Flash of the Blade X | 282527 | [282527-flash-of-the-blade-x.json](./282527-flash-of-the-blade-x.json) |
