@@ -3040,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempest | 198939 | [198939-tempest.json](./198939-tempest.json) |
 | Tempest | 239522 | [239522-tempest.json](./239522-tempest.json) |
 | Tempest | 282630 | [282630-tempest.json](./282630-tempest.json) |
+| Tempest 2000 | 9791 | [9791-tempest-2000.json](./9791-tempest-2000.json) |
 | Tempest 3000 | 51181 | [51181-tempest-3000.json](./51181-tempest-3000.json) |
 | Tempest 4000 | 54565 | [54565-tempest-4000.json](./54565-tempest-4000.json) |
 | Tempest Citadel | 75106 | [75106-tempest-citadel.json](./75106-tempest-citadel.json) |
@@ -25063,6 +25064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trimorta | 184086 | [184086-trimorta.json](./184086-trimorta.json) |
 | Trimurti Online | 265688 | [265688-trimurti-online.json](./265688-trimurti-online.json) |
 | Trine 2: Complete Story | 38932 | [38932-trine-2-complete-story.json](./38932-trine-2-complete-story.json) |
+| Trine 2: Goblin Menace | 20837 | [20837-trine-2-goblin-menace.json](./20837-trine-2-goblin-menace.json) |
 | Trine 3: The Artifacts of Power | 8255 | [8255-trine-3-the-artifacts-of-power.json](./8255-trine-3-the-artifacts-of-power.json) |
 | Trine 4: Definitive Edition | 347277 | [347277-trine-4-definitive-edition.json](./347277-trine-4-definitive-edition.json) |
 | Trine 4: Melody of Mystery | 152036 | [152036-trine-4-melody-of-mystery.json](./152036-trine-4-melody-of-mystery.json) |
