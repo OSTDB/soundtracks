@@ -26942,6 +26942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superior Crack Relatives | 243509 | [243509-superior-crack-relatives.json](./243509-superior-crack-relatives.json) |
 | Superior IQ | 369637 | [369637-superior-iq.json](./369637-superior-iq.json) |
 | Superior Relatives | 265862 | [265862-superior-relatives.json](./265862-superior-relatives.json) |
+| Superior Soldiers | 10457 | [10457-superior-soldiers.json](./10457-superior-soldiers.json) |
 | Superior Wizards | 110134 | [110134-superior-wizards.json](./110134-superior-wizards.json) |
 | Superior: Vengeance | 256979 | [256979-superior-vengeance.json](./256979-superior-vengeance.json) |
 | SuperJumpWorld Rage | 391299 | [391299-superjumpworld-rage.json](./391299-superjumpworld-rage.json) |
@@ -27696,6 +27697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Soul Universe | 264026 | [264026-sushi-soul-universe.json](./264026-sushi-soul-universe.json) |
 | Sushi Striker: The Way of Sushido | 37179 | [37179-sushi-striker-the-way-of-sushido.json](./37179-sushi-striker-the-way-of-sushido.json) |
 | Sushi Surf: Endless Run Fun | 196592 | [196592-sushi-surf-endless-run-fun.json](./196592-sushi-surf-endless-run-fun.json) |
+| Sushi Time | 10426 | [10426-sushi-time.json](./10426-sushi-time.json) |
 | Sushi Time!: Complete Edition | 199840 | [199840-sushi-time-complete-edition.json](./199840-sushi-time-complete-edition.json) |
 | Sushi Time!: Premium Edition | 241402 | [241402-sushi-time-premium-edition.json](./241402-sushi-time-premium-edition.json) |
 | Sushi vs. Burger Race | 347490 | [347490-sushi-vs-burger-race.json](./347490-sushi-vs-burger-race.json) |
@@ -28520,6 +28522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Stars: A Murder of Crows | 10935 | [10935-sword-of-the-stars-a-murder-of-crows.json](./10935-sword-of-the-stars-a-murder-of-crows.json) |
 | Sword of the Stars: Argos Naval Yard | 10936 | [10936-sword-of-the-stars-argos-naval-yard.json](./10936-sword-of-the-stars-argos-naval-yard.json) |
 | Sword of the Stars: Born of Blood | 10934 | [10934-sword-of-the-stars-born-of-blood.json](./10934-sword-of-the-stars-born-of-blood.json) |
+| Sword of the Stars: Ground Pounders | 10378 | [10378-sword-of-the-stars-ground-pounders.json](./10378-sword-of-the-stars-ground-pounders.json) |
 | Sword of the Stars: The Pit - Juggernaut | 8779 | [8779-sword-of-the-stars-the-pit-juggernaut.json](./8779-sword-of-the-stars-the-pit-juggernaut.json) |
 | Sword of the Stars: The Pit - Mind Games | 10950 | [10950-sword-of-the-stars-the-pit-mind-games.json](./10950-sword-of-the-stars-the-pit-mind-games.json) |
 | Sword of the Stars: The Pit 2 | 178077 | [178077-sword-of-the-stars-the-pit-2.json](./178077-sword-of-the-stars-the-pit-2.json) |
