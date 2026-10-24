@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waiting Game | 114787 | [114787-waiting-game.json](./114787-waiting-game.json) |
 | Waiting on the Finishline | 403791 | [403791-waiting-on-the-finishline.json](./403791-waiting-on-the-finishline.json) |
 | WaiWai Drive | 312353 | [312353-waiwai-drive.json](./312353-waiwai-drive.json) |
+| Wajin Ibunroku: Asaki, Yumemishi | 43034 | [43034-wajin-ibunroku-asaki-yumemishi.json](./43034-wajin-ibunroku-asaki-yumemishi.json) |
 | Wak Attak | 238350 | [238350-wak-attak.json](./238350-wak-attak.json) |
 | Waka-sama no Zasuru Sekai | 182336 | [182336-waka-sama-no-zasuru-sekai.json](./182336-waka-sama-no-zasuru-sekai.json) |
 | Wakabayashi Fumie no DS Kabu Lesson | 124127 | [124127-wakabayashi-fumie-no-ds-kabu-lesson.json](./124127-wakabayashi-fumie-no-ds-kabu-lesson.json) |
@@ -5476,6 +5477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizdom | 174082 | [174082-wizdom.json](./174082-wizdom.json) |
 | Wizdom | 85500 | [85500-wizdom.json](./85500-wizdom.json) |
 | Wizdom Academy | 279478 | [279478-wizdom-academy.json](./279478-wizdom-academy.json) |
+| Wizhood | 43092 | [43092-wizhood.json](./43092-wizhood.json) |
 | Wizkid: The Story of Wizball II | 69742 | [69742-wizkid-the-story-of-wizball-ii.json](./69742-wizkid-the-story-of-wizball-ii.json) |
 | Wizlite: Everybody loved RPGs | 304013 | [304013-wizlite-everybody-loved-rpgs.json](./304013-wizlite-everybody-loved-rpgs.json) |
 | WiZmans World | 67669 | [67669-wizmans-world.json](./67669-wizmans-world.json) |
