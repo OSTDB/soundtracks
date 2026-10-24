@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Palace: Festive Folleys | 182728 | [182728-pac-man-palace-festive-folleys.json](./182728-pac-man-palace-festive-folleys.json) |
 | Pac-Man Party | 5089 | [5089-pac-man-party.json](./5089-pac-man-party.json) |
 | Pac-Man Party 3D | 21723 | [21723-pac-man-party-3d.json](./21723-pac-man-party-3d.json) |
+| Pac-Man Pinball Advance | 6529 | [6529-pac-man-pinball-advance.json](./6529-pac-man-pinball-advance.json) |
 | Pac-Man Power Pack | 145384 | [145384-pac-man-power-pack.json](./145384-pac-man-power-pack.json) |
 | Pac-Man Remix | 21853 | [21853-pac-man-remix.json](./21853-pac-man-remix.json) |
 | Pac-Man S | 64683 | [64683-pac-man-s.json](./64683-pac-man-s.json) |
@@ -3422,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pepe's Little Adventure | 325703 | [325703-pepes-little-adventure.json](./325703-pepes-little-adventure.json) |
 | PepeFrog | 195451 | [195451-pepefrog.json](./195451-pepefrog.json) |
 | PepeLine | 57460 | [57460-pepeline.json](./57460-pepeline.json) |
+| Pepenga Pengo | 4503 | [4503-pepenga-pengo.json](./4503-pepenga-pengo.json) |
 | Pepez: The game | 341584 | [341584-pepez-the-game.json](./341584-pepez-the-game.json) |
 | Pepi Doctor | 343994 | [343994-pepi-doctor.json](./343994-pepi-doctor.json) |
 | Pepi House | 175697 | [175697-pepi-house.json](./175697-pepi-house.json) |
@@ -5886,6 +5888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pino the Elemental | 240752 | [240752-pino-the-elemental.json](./240752-pino-the-elemental.json) |
 | Pinobee | 209960 | [209960-pinobee.json](./209960-pinobee.json) |
 | Pinobee & Phoebee | 49768 | [49768-pinobee-and-phoebee.json](./49768-pinobee-and-phoebee.json) |
+| Pinobee: Wings of Adventure | 6535 | [6535-pinobee-wings-of-adventure.json](./6535-pinobee-wings-of-adventure.json) |
 | Pinocchia no Miru Yume | 203288 | [203288-pinocchia-no-miru-yume.json](./203288-pinocchia-no-miru-yume.json) |
 | Pinocchio: Interactive Book | 265189 | [265189-pinocchio-interactive-book.json](./265189-pinocchio-interactive-book.json) |
 | Pinocchio's Puzzle | 84821 | [84821-pinocchios-puzzle.json](./84821-pinocchios-puzzle.json) |
@@ -7279,6 +7282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planes Journey | 150256 | [150256-planes-journey.json](./150256-planes-journey.json) |
 | Planes: Fire & Rescue | 249103 | [249103-planes-fire-and-rescue.json](./249103-planes-fire-and-rescue.json) |
 | Planes: Fire & Rescue | 249104 | [249104-planes-fire-and-rescue.json](./249104-planes-fire-and-rescue.json) |
+| Planes: Fire & Rescue | 8604 | [8604-planes-fire-and-rescue.json](./8604-planes-fire-and-rescue.json) |
 | Planes: Interactive Storybook | 230399 | [230399-planes-interactive-storybook.json](./230399-planes-interactive-storybook.json) |
 | Planes.io | 194038 | [194038-planes-io.json](./194038-planes-io.json) |
 | Planescape Torment: Enhanced Edition - Digital Deluxe | 53462 | [53462-planescape-torment-enhanced-edition-digital-deluxe.json](./53462-planescape-torment-enhanced-edition-digital-deluxe.json) |
@@ -8770,6 +8774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Battle e: 129-B002 - Lady Astrid | 355503 | [355503-pokemon-battle-e-129-b002-lady-astrid.json](./355503-pokemon-battle-e-129-b002-lady-astrid.json) |
 | Pokémon Battle Online | 323760 | [323760-pokemon-battle-online.json](./323760-pokemon-battle-online.json) |
 | Pokémon Battle Revolution | 2325 | [2325-pokemon-battle-revolution.json](./2325-pokemon-battle-revolution.json) |
+| Pokémon Battle Trozei | 8589 | [8589-pokemon-battle-trozei.json](./8589-pokemon-battle-trozei.json) |
 | Pokémon Battle Ultimate | 313970 | [313970-pokemon-battle-ultimate.json](./313970-pokemon-battle-ultimate.json) |
 | Pokémon Battle Woods | 229043 | [229043-pokemon-battle-woods.json](./229043-pokemon-battle-woods.json) |
 | Pokémon Battrio | 77182 | [77182-pokemon-battrio.json](./77182-pokemon-battrio.json) |
@@ -11203,6 +11208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Collection II | 137863 | [137863-premier-collection-ii.json](./137863-premier-collection-ii.json) |
 | Premier Eleven | 83433 | [83433-premier-eleven.json](./83433-premier-eleven.json) |
 | Premier Manager | 321435 | [321435-premier-manager.json](./321435-premier-manager.json) |
+| Premier Manager | 4483 | [4483-premier-manager.json](./4483-premier-manager.json) |
 | Premier Manager 02/03 | 172369 | [172369-premier-manager-02-03.json](./172369-premier-manager-02-03.json) |
 | Premier Manager 04/05 | 171941 | [171941-premier-manager-04-05.json](./171941-premier-manager-04-05.json) |
 | Premier Manager 08 | 174003 | [174003-premier-manager-08.json](./174003-premier-manager-08.json) |
@@ -12186,6 +12192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Strategy Football 2022 | 165623 | [165623-pro-strategy-football-2022.json](./165623-pro-strategy-football-2022.json) |
 | Pro Strategy Football 2023 | 215326 | [215326-pro-strategy-football-2023.json](./215326-pro-strategy-football-2023.json) |
 | Pro Strategy Football 2024 | 263776 | [263776-pro-strategy-football-2024.json](./263776-pro-strategy-football-2024.json) |
+| Pro Striker: Final Stage | 4550 | [4550-pro-striker-final-stage.json](./4550-pro-striker-final-stage.json) |
 | Pro Table Tennis VR | 159872 | [159872-pro-table-tennis-vr.json](./159872-pro-table-tennis-vr.json) |
 | Pro Tennis | 421217 | [421217-pro-tennis.json](./421217-pro-tennis.json) |
 | Pro Tennis Simulator | 12724 | [12724-pro-tennis-simulator.json](./12724-pro-tennis-simulator.json) |
