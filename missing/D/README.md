@@ -5633,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent: Freespace - Silent Threat | 73181 | [73181-descent-freespace-silent-threat.json](./73181-descent-freespace-silent-threat.json) |
 | Descent: Legends of the Dark | 163206 | [163206-descent-legends-of-the-dark.json](./163206-descent-legends-of-the-dark.json) |
 | Descent: Levels of the World | 68718 | [68718-descent-levels-of-the-world.json](./68718-descent-levels-of-the-world.json) |
+| Descent: Road to Legend | 32545 | [32545-descent-road-to-legend.json](./32545-descent-road-to-legend.json) |
 | Descent: Road to Legend - The Delve | 166009 | [166009-descent-road-to-legend-the-delve.json](./166009-descent-road-to-legend-the-delve.json) |
 | Descent: Road to Legend - Trials of Frostgate | 171576 | [171576-descent-road-to-legend-trials-of-frostgate.json](./171576-descent-road-to-legend-trials-of-frostgate.json) |
 | Descent: Silence of Mind | 41905 | [41905-descent-silence-of-mind.json](./41905-descent-silence-of-mind.json) |
@@ -10333,6 +10334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodlebug | 261511 | [261511-doodlebug.json](./261511-doodlebug.json) |
 | Doodlebug: Bug Bash II | 80636 | [80636-doodlebug-bug-bash-ii.json](./80636-doodlebug-bug-bash-ii.json) |
 | DoodleParty.io | 137353 | [137353-doodleparty-io.json](./137353-doodleparty-io.json) |
+| Doodler | 32533 | [32533-doodler.json](./32533-doodler.json) |
 | DoodleVR | 110513 | [110513-doodlevr.json](./110513-doodlevr.json) |
 | Doodly.io | 112221 | [112221-doodly-io.json](./112221-doodly-io.json) |
 | Doofas | 133438 | [133438-doofas.json](./133438-doofas.json) |
@@ -10749,6 +10751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doritos Crash Course Go! | 63573 | [63573-doritos-crash-course-go.json](./63573-doritos-crash-course-go.json) |
 | Doritos Crash Course: City Lights | 349720 | [349720-doritos-crash-course-city-lights.json](./349720-doritos-crash-course-city-lights.json) |
 | Dork's Dilemma? | 133681 | [133681-dorks-dilemma.json](./133681-dorks-dilemma.json) |
+| Dorke and Ymp | 32601 | [32601-dorke-and-ymp.json](./32601-dorke-and-ymp.json) |
 | Dorkom | 407600 | [407600-dorkom.json](./407600-dorkom.json) |
 | Dorky Fork | 130209 | [130209-dorky-fork.json](./130209-dorky-fork.json) |
 | Dorman's Attraction: Upgraded & Advanced | 396897 | [396897-dormans-attraction-upgraded-and-advanced.json](./396897-dormans-attraction-upgraded-and-advanced.json) |
@@ -13663,6 +13666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk Santa Simulator | 127074 | [127074-drunk-santa-simulator.json](./127074-drunk-santa-simulator.json) |
 | Drunk Sonic | 330864 | [330864-drunk-sonic.json](./330864-drunk-sonic.json) |
 | Drunk Trucker Joe 3D Truck Driving Race | 256189 | [256189-drunk-trucker-joe-3d-truck-driving-race.json](./256189-drunk-trucker-joe-3d-truck-driving-race.json) |
+| Drunk Wizards | 32530 | [32530-drunk-wizards.json](./32530-drunk-wizards.json) |
 | Drunk Woodcutter | 397835 | [397835-drunk-woodcutter.json](./397835-drunk-woodcutter.json) |
 | Drunk-Fu: Wasted Masters | 28906 | [28906-drunk-fu-wasted-masters.json](./28906-drunk-fu-wasted-masters.json) |
 | Drunk: Relapsed | 215870 | [215870-drunk-relapsed.json](./215870-drunk-relapsed.json) |
