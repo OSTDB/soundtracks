@@ -4666,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pi | 68497 | [68497-pi.json](./68497-pi.json) |
 | Pi Fu Fighter | 239106 | [239106-pi-fu-fighter.json](./239106-pi-fu-fighter.json) |
 | Pi in the Sky | 354647 | [354647-pi-in-the-sky.json](./354647-pi-in-the-sky.json) |
+| Pi R Squared | 41147 | [41147-pi-r-squared.json](./41147-pi-r-squared.json) |
 | Pi Story | 93987 | [93987-pi-story.json](./93987-pi-story.json) |
 | Pi-Balled | 354646 | [354646-pi-balled.json](./354646-pi-balled.json) |
 | Pi-Eyed | 414123 | [414123-pi-eyed.json](./414123-pi-eyed.json) |
@@ -10498,6 +10499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postcat Caitsith | 194318 | [194318-postcat-caitsith.json](./194318-postcat-caitsith.json) |
 | Postcodeloterij Deal or No Deal: Het Interactive DVD-Spel | 319736 | [319736-postcodeloterij-deal-or-no-deal-het-interactive-dvd-spel.json](./319736-postcodeloterij-deal-or-no-deal-het-interactive-dvd-spel.json) |
 | PostCollapse | 31888 | [31888-postcollapse.json](./31888-postcollapse.json) |
+| Poster Paster | 41161 | [41161-poster-paster.json](./41161-poster-paster.json) |
 | Poster Sticker | 150392 | [150392-poster-sticker.json](./150392-poster-sticker.json) |
 | Posterdle | 246235 | [246235-posterdle.json](./246235-posterdle.json) |
 | Postfrost | 247751 | [247751-postfrost.json](./247751-postfrost.json) |
