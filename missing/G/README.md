@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Quest | 294393 | [294393-galaxy-quest.json](./294393-galaxy-quest.json) |
 | Galaxy Racers | 76130 | [76130-galaxy-racers.json](./76130-galaxy-racers.json) |
 | Galaxy Raiders | 287789 | [287789-galaxy-raiders.json](./287789-galaxy-raiders.json) |
+| Galaxy Ranger | 39356 | [39356-galaxy-ranger.json](./39356-galaxy-ranger.json) |
 | Galaxy Reavers | 24411 | [24411-galaxy-reavers.json](./24411-galaxy-reavers.json) |
 | Galaxy Revo: Remake | 247488 | [247488-galaxy-revo-remake.json](./247488-galaxy-revo-remake.json) |
 | Galaxy Roll | 358429 | [358429-galaxy-roll.json](./358429-galaxy-roll.json) |
@@ -5168,6 +5169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Tee 2017 | 55848 | [55848-golden-tee-2017.json](./55848-golden-tee-2017.json) |
 | Golden Tee 2018 | 82145 | [82145-golden-tee-2018.json](./82145-golden-tee-2018.json) |
 | Golden Tee Arcade Classics | 350460 | [350460-golden-tee-arcade-classics.json](./350460-golden-tee-arcade-classics.json) |
+| Golden Tee Classic | 39355 | [39355-golden-tee-classic.json](./39355-golden-tee-classic.json) |
 | Golden Tee Golf | 198749 | [198749-golden-tee-golf.json](./198749-golden-tee-golf.json) |
 | Golden Tee Golf | 220538 | [220538-golden-tee-golf.json](./220538-golden-tee-golf.json) |
 | Golden Tee Live | 28719 | [28719-golden-tee-live.json](./28719-golden-tee-live.json) |
@@ -8059,6 +8061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Middle-earth | 7892 | [7892-guardians-of-middle-earth.json](./7892-guardians-of-middle-earth.json) |
 | Guardians of Orion | 34326 | [34326-guardians-of-orion.json](./34326-guardians-of-orion.json) |
 | Guardians of Restoration | 309739 | [309739-guardians-of-restoration.json](./309739-guardians-of-restoration.json) |
+| Guardians of the 'Hood | 39353 | [39353-guardians-of-the-hood.json](./39353-guardians-of-the-hood.json) |
 | Guardians of the Forest | 60367 | [60367-guardians-of-the-forest.json](./60367-guardians-of-the-forest.json) |
 | Guardians of the Rose | 110195 | [110195-guardians-of-the-rose.json](./110195-guardians-of-the-rose.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
