@@ -8015,7 +8015,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples of the Storm | 110236 | [110236-disciples-of-the-storm.json](./110236-disciples-of-the-storm.json) |
 | Disciples of Varahces | 263029 | [263029-disciples-of-varahces.json](./263029-disciples-of-varahces.json) |
 | Disciples: Domination | 360140 | [360140-disciples-domination.json](./360140-disciples-domination.json) |
-| Disciples: Liberation | 152125 | [152125-disciples-liberation.json](./152125-disciples-liberation.json) |
 | Disciples: Liberation - Deluxe Edition | 174188 | [174188-disciples-liberation-deluxe-edition.json](./174188-disciples-liberation-deluxe-edition.json) |
 | Disciples: Liberation - Digital Deluxe Edition | 161183 | [161183-disciples-liberation-digital-deluxe-edition.json](./161183-disciples-liberation-digital-deluxe-edition.json) |
 | Disciples: Liberation - GOG Edition | 219776 | [219776-disciples-liberation-gog-edition.json](./219776-disciples-liberation-gog-edition.json) |
