@@ -4670,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Combat | 381297 | [381297-fire-combat.json](./381297-fire-combat.json) |
 | Fire Commander: First Response | 166188 | [166188-fire-commander-first-response.json](./166188-fire-commander-first-response.json) |
 | Fire Copter | 69475 | [69475-fire-copter.json](./69475-fire-copter.json) |
+| Fire Emblem | 1439 | [1439-fire-emblem.json](./1439-fire-emblem.json) |
 | Fire Emblem 7 Legacy | 373022 | [373022-fire-emblem-7-legacy.json](./373022-fire-emblem-7-legacy.json) |
 | Fire Emblem 8: Self-Randomizing | 259869 | [259869-fire-emblem-8-self-randomizing.json](./259869-fire-emblem-8-self-randomizing.json) |
 | Fire Emblem 8R | 380529 | [380529-fire-emblem-8r.json](./380529-fire-emblem-8r.json) |
