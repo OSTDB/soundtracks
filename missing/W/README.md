@@ -1170,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Dawn of War | 257 | [257-warhammer-40-000-dawn-of-war.json](./257-warhammer-40-000-dawn-of-war.json) |
 | Warhammer 40,000: Dawn of War - Definitive Edition | 344680 | [344680-warhammer-40-000-dawn-of-war-definitive-edition.json](./344680-warhammer-40-000-dawn-of-war-definitive-edition.json) |
 | Warhammer 40,000: Dawn of War - Master Collection | 53894 | [53894-warhammer-40-000-dawn-of-war-master-collection.json](./53894-warhammer-40-000-dawn-of-war-master-collection.json) |
+| Warhammer 40,000: Dawn of War - Winter Assault | 465 | [465-warhammer-40-000-dawn-of-war-winter-assault.json](./465-warhammer-40-000-dawn-of-war-winter-assault.json) |
 | Warhammer 40,000: Dawn of War Franchise Collection | 53896 | [53896-warhammer-40-000-dawn-of-war-franchise-collection.json](./53896-warhammer-40-000-dawn-of-war-franchise-collection.json) |
 | Warhammer 40,000: Dawn of War II - Grand Master Collection | 53897 | [53897-warhammer-40-000-dawn-of-war-ii-grand-master-collection.json](./53897-warhammer-40-000-dawn-of-war-ii-grand-master-collection.json) |
 | Warhammer 40,000: Dawn of War II - Master Collection | 53899 | [53899-warhammer-40-000-dawn-of-war-ii-master-collection.json](./53899-warhammer-40-000-dawn-of-war-ii-master-collection.json) |
@@ -5378,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Mike | 195484 | [195484-wizard-mike.json](./195484-wizard-mike.json) |
 | Wizard Mukbang: The Game | 289898 | [289898-wizard-mukbang-the-game.json](./289898-wizard-mukbang-the-game.json) |
 | Wizard of Id's WizType | 94614 | [94614-wizard-of-ids-wiztype.json](./94614-wizard-of-ids-wiztype.json) |
+| Wizard of Legend | 19935 | [19935-wizard-of-legend.json](./19935-wizard-of-legend.json) |
 | Wizard of Legend 2 | 250160 | [250160-wizard-of-legend-2.json](./250160-wizard-of-legend-2.json) |
 | Wizard of Legend Mobile | 174701 | [174701-wizard-of-legend-mobile.json](./174701-wizard-of-legend-mobile.json) |
 | Wizard of the 4 Corners | 301903 | [301903-wizard-of-the-4-corners.json](./301903-wizard-of-the-4-corners.json) |
