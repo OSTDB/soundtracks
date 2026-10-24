@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Layer: Ritina Guard Senki | 69115 | [69115-tactics-layer-ritina-guard-senki.json](./69115-tactics-layer-ritina-guard-senki.json) |
 | Tactics Maiden | 207856 | [207856-tactics-maiden.json](./207856-tactics-maiden.json) |
 | Tactics Maiden Remastered | 106557 | [106557-tactics-maiden-remastered.json](./106557-tactics-maiden-remastered.json) |
+| Tactics Ogre: Let Us Cling Together | 132992 | [132992-tactics-ogre-let-us-cling-together.json](./132992-tactics-ogre-let-us-cling-together.json) |
 | Tactics Ogre: Let Us Cling Together | 5550 | [5550-tactics-ogre-let-us-cling-together.json](./5550-tactics-ogre-let-us-cling-together.json) |
 | Tactics Ogre: Ogre Battle Series | 45031 | [45031-tactics-ogre-ogre-battle-series.json](./45031-tactics-ogre-ogre-battle-series.json) |
 | Tactics Ogre: The Knight of Lodis | 6635 | [6635-tactics-ogre-the-knight-of-lodis.json](./6635-tactics-ogre-the-knight-of-lodis.json) |
@@ -2432,9 +2433,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Five | 258327 | [258327-team-five.json](./258327-team-five.json) |
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
 | Team Fortaleza 2 Mobile | 238951 | [238951-team-fortaleza-2-mobile.json](./238951-team-fortaleza-2-mobile.json) |
+| Team Fortress | 128745 | [128745-team-fortress.json](./128745-team-fortress.json) |
 | Team Fortress 2 Classic: Community Edition | 360756 | [360756-team-fortress-2-classic-community-edition.json](./360756-team-fortress-2-classic-community-edition.json) |
 | Team Fortress 2 Classic: Death & Taxes | 261461 | [261461-team-fortress-2-classic-death-and-taxes.json](./261461-team-fortress-2-classic-death-and-taxes.json) |
 | Team Fortress 2 Classic: Fight or Flight | 261467 | [261467-team-fortress-2-classic-fight-or-flight.json](./261467-team-fortress-2-classic-fight-or-flight.json) |
+| Team Fortress 2 Classified | 135603 | [135603-team-fortress-2-classified.json](./135603-team-fortress-2-classified.json) |
 | Team Fortress 2 Legacy | 339077 | [339077-team-fortress-2-legacy.json](./339077-team-fortress-2-legacy.json) |
 | Team Fortress 2: 119th Update | 256441 | [256441-team-fortress-2-119th-update.json](./256441-team-fortress-2-119th-update.json) |
 | Team Fortress 2: A Heavy Update | 256412 | [256412-team-fortress-2-a-heavy-update.json](./256412-team-fortress-2-a-heavy-update.json) |
@@ -6650,6 +6653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deepwatch | 341649 | [341649-the-deepwatch.json](./341649-the-deepwatch.json) |
 | The Deepwater Witch | 282518 | [282518-the-deepwater-witch.json](./282518-the-deepwater-witch.json) |
 | The Deer | 117688 | [117688-the-deer.json](./117688-the-deer.json) |
+| The Deer God | 17952 | [17952-the-deer-god.json](./17952-the-deer-god.json) |
 | The Deerfather | 183765 | [183765-the-deerfather.json](./183765-the-deerfather.json) |
 | The Defender: Farm and Castle | 117626 | [117626-the-defender-farm-and-castle.json](./117626-the-defender-farm-and-castle.json) |
 | The Defender: Farm and Castle 2 | 126931 | [126931-the-defender-farm-and-castle-2.json](./126931-the-defender-farm-and-castle-2.json) |
@@ -8416,6 +8420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guardian of the Evil | 82674 | [82674-the-guardian-of-the-evil.json](./82674-the-guardian-of-the-evil.json) |
 | The Guardian Shift | 313446 | [313446-the-guardian-shift.json](./313446-the-guardian-shift.json) |
 | The Guardians of the Secret Garden | 349305 | [349305-the-guardians-of-the-secret-garden.json](./349305-the-guardians-of-the-secret-garden.json) |
+| The Guest | 18184 | [18184-the-guest.json](./18184-the-guest.json) |
 | The Guest | 258393 | [258393-the-guest.json](./258393-the-guest.json) |
 | The Guest: Home Alone | 394171 | [394171-the-guest-home-alone.json](./394171-the-guest-home-alone.json) |
 | The Guestlist | 244381 | [244381-the-guestlist.json](./244381-the-guestlist.json) |
@@ -10682,6 +10687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: The Return of the King | 135708 | [135708-the-lord-of-the-rings-the-return-of-the-king.json](./135708-the-lord-of-the-rings-the-return-of-the-king.json) |
 | The Lord of the Rings: The Third Age | 127953 | [127953-the-lord-of-the-rings-the-third-age.json](./127953-the-lord-of-the-rings-the-third-age.json) |
 | The Lord of the Rings: The Third Age | 6500 | [6500-the-lord-of-the-rings-the-third-age.json](./6500-the-lord-of-the-rings-the-third-age.json) |
+| The Lord of the Rings: The Two Towers | 135736 | [135736-the-lord-of-the-rings-the-two-towers.json](./135736-the-lord-of-the-rings-the-two-towers.json) |
 | The Lord of the Rings: The Two Towers | 248460 | [248460-the-lord-of-the-rings-the-two-towers.json](./248460-the-lord-of-the-rings-the-two-towers.json) |
 | The Lord of the Rings: The Two Towers | 2965 | [2965-the-lord-of-the-rings-the-two-towers.json](./2965-the-lord-of-the-rings-the-two-towers.json) |
 | The Lord of the Rings: Total War | 356262 | [356262-the-lord-of-the-rings-total-war.json](./356262-the-lord-of-the-rings-total-war.json) |
@@ -14022,6 +14028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surprising Adventures of Munchausen | 55659 | [55659-the-surprising-adventures-of-munchausen.json](./55659-the-surprising-adventures-of-munchausen.json) |
 | The Surprisingly Short Adventure of Leopold Kettle | 232556 | [232556-the-surprisingly-short-adventure-of-leopold-kettle.json](./232556-the-surprisingly-short-adventure-of-leopold-kettle.json) |
 | The Surreal Imaginarium | 135765 | [135765-the-surreal-imaginarium.json](./135765-the-surreal-imaginarium.json) |
+| The Survivalists | 127305 | [127305-the-survivalists.json](./127305-the-survivalists.json) |
 | The Survivalists: Deluxe Edition | 173159 | [173159-the-survivalists-deluxe-edition.json](./173159-the-survivalists-deluxe-edition.json) |
 | The Survivor | 123491 | [123491-the-survivor.json](./123491-the-survivor.json) |
 | The Survivor | 334450 | [334450-the-survivor.json](./334450-the-survivor.json) |
@@ -15088,6 +15095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walk of Life | 179987 | [179987-the-walk-of-life.json](./179987-the-walk-of-life.json) |
 | The Walker | 52030 | [52030-the-walker.json](./52030-the-walker.json) |
 | The Walking Dead Match 3 Tales | 303175 | [303175-the-walking-dead-match-3-tales.json](./303175-the-walking-dead-match-3-tales.json) |
+| The Walking Dead: A New Frontier - Episode 1: Ties That Bind - Part One | 127062 | [127062-the-walking-dead-a-new-frontier-episode-1-ties-that-bind-part-one.json](./127062-the-walking-dead-a-new-frontier-episode-1-ties-that-bind-part-one.json) |
 | The Walking Dead: A New Frontier - Episode 2: Ties That Bind - Part Two | 127063 | [127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json](./127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json) |
 | The Walking Dead: A New Frontier - Episode 3: Above the Law | 127064 | [127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json](./127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json) |
 | The Walking Dead: A New Frontier - Episode 4: Thicker Than Water | 127065 | [127065-the-walking-dead-a-new-frontier-episode-4-thicker-than-water.json](./127065-the-walking-dead-a-new-frontier-episode-4-thicker-than-water.json) |
@@ -15116,6 +15124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Season One - Episode 3: Long Road Ahead | 114942 | [114942-the-walking-dead-season-one-episode-3-long-road-ahead.json](./114942-the-walking-dead-season-one-episode-3-long-road-ahead.json) |
 | The Walking Dead: Season One - Episode 4: Around Every Corner | 114943 | [114943-the-walking-dead-season-one-episode-4-around-every-corner.json](./114943-the-walking-dead-season-one-episode-4-around-every-corner.json) |
 | The Walking Dead: Season One - Episode 5: No Time Left | 114944 | [114944-the-walking-dead-season-one-episode-5-no-time-left.json](./114944-the-walking-dead-season-one-episode-5-no-time-left.json) |
+| The Walking Dead: Season Two - Episode 1: All That Remains | 127057 | [127057-the-walking-dead-season-two-episode-1-all-that-remains.json](./127057-the-walking-dead-season-two-episode-1-all-that-remains.json) |
 | The Walking Dead: Season Two - Episode 2: A House Divided | 127058 | [127058-the-walking-dead-season-two-episode-2-a-house-divided.json](./127058-the-walking-dead-season-two-episode-2-a-house-divided.json) |
 | The Walking Dead: Season Two - Episode 3: In Harm's Way | 127059 | [127059-the-walking-dead-season-two-episode-3-in-harms-way.json](./127059-the-walking-dead-season-two-episode-3-in-harms-way.json) |
 | The Walking Dead: Season Two - Episode 4: Amid the Ruins | 127060 | [127060-the-walking-dead-season-two-episode-4-amid-the-ruins.json](./127060-the-walking-dead-season-two-episode-4-amid-the-ruins.json) |
@@ -15472,6 +15481,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wolf Among Us: Episode 1 - Faith | 127107 | [127107-the-wolf-among-us-episode-1-faith.json](./127107-the-wolf-among-us-episode-1-faith.json) |
 | The Wolf Among Us: Episode 2 - Smoke and Mirrors | 127108 | [127108-the-wolf-among-us-episode-2-smoke-and-mirrors.json](./127108-the-wolf-among-us-episode-2-smoke-and-mirrors.json) |
 | The Wolf Among Us: Episode 3 - A Crooked Mile | 127109 | [127109-the-wolf-among-us-episode-3-a-crooked-mile.json](./127109-the-wolf-among-us-episode-3-a-crooked-mile.json) |
+| The Wolf Among Us: Episode 4 - In Sheep's Clothing | 127110 | [127110-the-wolf-among-us-episode-4-in-sheeps-clothing.json](./127110-the-wolf-among-us-episode-4-in-sheeps-clothing.json) |
+| The Wolf Among Us: Episode 5 - Cry Wolf | 127111 | [127111-the-wolf-among-us-episode-5-cry-wolf.json](./127111-the-wolf-among-us-episode-5-cry-wolf.json) |
 | The Wolf and the Blood Moon | 362213 | [362213-the-wolf-and-the-blood-moon.json](./362213-the-wolf-and-the-blood-moon.json) |
 | The Wolf Is Dead | 188972 | [188972-the-wolf-is-dead.json](./188972-the-wolf-is-dead.json) |
 | The Wolf Wears Red | 409844 | [409844-the-wolf-wears-red.json](./409844-the-wolf-wears-red.json) |
@@ -20294,6 +20305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of Thunder | 302617 | [302617-tomb-of-thunder.json](./302617-tomb-of-thunder.json) |
 | Tomb of Trials | 180270 | [180270-tomb-of-trials.json](./180270-tomb-of-trials.json) |
 | Tomb Offering | 340944 | [340944-tomb-offering.json](./340944-tomb-offering.json) |
+| Tomb Raider | 266697 | [266697-tomb-raider.json](./266697-tomb-raider.json) |
 | Tomb Raider 1+2+3 | 154439 | [154439-tomb-raider-1-2-3.json](./154439-tomb-raider-1-2-3.json) |
 | Tomb Raider Anthology | 44886 | [44886-tomb-raider-anthology.json](./44886-tomb-raider-anthology.json) |
 | Tomb Raider Collection 1 | 299439 | [299439-tomb-raider-collection-1.json](./299439-tomb-raider-collection-1.json) |
