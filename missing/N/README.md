@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 21 | 125191 | [125191-nba-live-21.json](./125191-nba-live-21.json) |
 | NBA Live 95 | 37285 | [37285-nba-live-95.json](./37285-nba-live-95.json) |
 | NBA Live 96 | 809 | [809-nba-live-96.json](./809-nba-live-96.json) |
+| NBA Live 97 | 20134 | [20134-nba-live-97.json](./20134-nba-live-97.json) |
 | NBA Live 98 | 217742 | [217742-nba-live-98.json](./217742-nba-live-98.json) |
 | NBA Live 99 | 811 | [811-nba-live-99.json](./811-nba-live-99.json) |
 | NBA Live Mobile | 36874 | [36874-nba-live-mobile.json](./36874-nba-live-mobile.json) |
@@ -1336,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necro Wars | 127261 | [127261-necro-wars.json](./127261-necro-wars.json) |
 | NecroArcher | 199359 | [199359-necroarcher.json](./199359-necroarcher.json) |
 | NecroAttack! | 261676 | [261676-necroattack.json](./261676-necroattack.json) |
+| Necrobarista | 26870 | [26870-necrobarista.json](./26870-necrobarista.json) |
 | Necroblade | 217282 | [217282-necroblade.json](./217282-necroblade.json) |
 | NecroBoy: Path to Evilship | 153006 | [153006-necroboy-path-to-evilship.json](./153006-necroboy-path-to-evilship.json) |
 | Necrobrood | 270845 | [270845-necrobrood.json](./270845-necrobrood.json) |
@@ -1826,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Artifacts | 393819 | [393819-neo-artifacts.json](./393819-neo-artifacts.json) |
 | Neo Atlas 1469 | 27318 | [27318-neo-atlas-1469.json](./27318-neo-atlas-1469.json) |
 | Neo Berlin 2087 | 244993 | [244993-neo-berlin-2087.json](./244993-neo-berlin-2087.json) |
+| Neo Bomberman | 39463 | [39463-neo-bomberman.json](./39463-neo-bomberman.json) |
 | Neo Breakout | 225594 | [225594-neo-breakout.json](./225594-neo-breakout.json) |
 | Neo Capitalist: Stock Market Survival Simulator | 407478 | [407478-neo-capitalist-stock-market-survival-simulator.json](./407478-neo-capitalist-stock-market-survival-simulator.json) |
 | Neo Cherry Master | 75492 | [75492-neo-cherry-master.json](./75492-neo-cherry-master.json) |
