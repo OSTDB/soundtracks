@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3719,6 +3720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayonetta 2 | 279336 | [279336-bayonetta-2.json](./279336-bayonetta-2.json) |
 | Bayonetta 2: Bonus Edition | 51154 | [51154-bayonetta-2-bonus-edition.json](./51154-bayonetta-2-bonus-edition.json) |
 | Bayonetta 2: First Print Edition | 51187 | [51187-bayonetta-2-first-print-edition.json](./51187-bayonetta-2-first-print-edition.json) |
+| Bayonetta Origins: Cereza and the Lost Demon | 228528 | [228528-bayonetta-origins-cereza-and-the-lost-demon.json](./228528-bayonetta-origins-cereza-and-the-lost-demon.json) |
 | Bayonetta: Nonstop Climax Edition | 136898 | [136898-bayonetta-nonstop-climax-edition.json](./136898-bayonetta-nonstop-climax-edition.json) |
 | Bayou Boats | 387711 | [387711-bayou-boats.json](./387711-bayou-boats.json) |
 | Bazaar | 19033 | [19033-bazaar.json](./19033-bazaar.json) |
@@ -10737,7 +10739,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 3: Designer's Cut | 259759 | [259759-borderlands-3-designers-cut.json](./259759-borderlands-3-designers-cut.json) |
 | Borderlands 3: Diamond Loot Chest - Collector's Edition | 136268 | [136268-borderlands-3-diamond-loot-chest-collectors-edition.json](./136268-borderlands-3-diamond-loot-chest-collectors-edition.json) |
 | Borderlands 3: Director's Cut | 271818 | [271818-borderlands-3-directors-cut.json](./271818-borderlands-3-directors-cut.json) |
+| Borderlands 3: Guns, Love and Tentacles - The Marriage of Wainwright & Hammerlock | 131784 | [131784-borderlands-3-guns-love-and-tentacles-the-marriage-of-wainwright-and-hammerlock.json](./131784-borderlands-3-guns-love-and-tentacles-the-marriage-of-wainwright-and-hammerlock.json) |
 | Borderlands 3: Next-Level Edition | 140897 | [140897-borderlands-3-next-level-edition.json](./140897-borderlands-3-next-level-edition.json) |
+| Borderlands 3: Psycho Krieg and the Fantastic Fustercluck | 138354 | [138354-borderlands-3-psycho-krieg-and-the-fantastic-fustercluck.json](./138354-borderlands-3-psycho-krieg-and-the-fantastic-fustercluck.json) |
 | Borderlands 3: Season Pass 2 | 293719 | [293719-borderlands-3-season-pass-2.json](./293719-borderlands-3-season-pass-2.json) |
 | Borderlands 3: Super Deluxe Edition | 116996 | [116996-borderlands-3-super-deluxe-edition.json](./116996-borderlands-3-super-deluxe-edition.json) |
 | Borderlands 4: Bounty Pack 1 - How Rush Saved Mercenary Day | 398014 | [398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json](./398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json) |
@@ -11034,6 +11038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BouleMan | 349508 | [349508-bouleman.json](./349508-bouleman.json) |
 | Boulette Hell | 223377 | [223377-boulette-hell.json](./223377-boulette-hell.json) |
 | Bounce | 120690 | [120690-bounce.json](./120690-bounce.json) |
+| Bounce | 131371 | [131371-bounce.json](./131371-bounce.json) |
 | Bounce | 172047 | [172047-bounce.json](./172047-bounce.json) |
 | Bounce | 27679 | [27679-bounce.json](./27679-bounce.json) |
 | Bounce | 376801 | [376801-bounce.json](./376801-bounce.json) |
