@@ -3715,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Collection: Telephone Call | 293657 | [293657-nightmare-collection-telephone-call.json](./293657-nightmare-collection-telephone-call.json) |
 | Nightmare Cops | 51522 | [51522-nightmare-cops.json](./51522-nightmare-cops.json) |
 | Nightmare Crawler | 399272 | [399272-nightmare-crawler.json](./399272-nightmare-crawler.json) |
+| Nightmare Creatures | 3414 | [3414-nightmare-creatures.json](./3414-nightmare-creatures.json) |
 | Nightmare Creatures | 341699 | [341699-nightmare-creatures.json](./341699-nightmare-creatures.json) |
 | Nightmare Creatures II | 45860 | [45860-nightmare-creatures-ii.json](./45860-nightmare-creatures-ii.json) |
 | Nightmare Delivery | 411670 | [411670-nightmare-delivery.json](./411670-nightmare-delivery.json) |
@@ -4141,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden 3: Collector's Edition | 47464 | [47464-ninja-gaiden-3-collectors-edition.json](./47464-ninja-gaiden-3-collectors-edition.json) |
 | Ninja Gaiden 3: Razor's Edge | 5317 | [5317-ninja-gaiden-3-razors-edge.json](./5317-ninja-gaiden-3-razors-edge.json) |
 | Ninja Gaiden 3DS | 269572 | [269572-ninja-gaiden-3ds.json](./269572-ninja-gaiden-3ds.json) |
+| Ninja Gaiden Black | 18735 | [18735-ninja-gaiden-black.json](./18735-ninja-gaiden-black.json) |
 | Ninja Gaiden Clans | 65046 | [65046-ninja-gaiden-clans.json](./65046-ninja-gaiden-clans.json) |
 | Ninja Gaiden Hurricane Pack II | 215548 | [215548-ninja-gaiden-hurricane-pack-ii.json](./215548-ninja-gaiden-hurricane-pack-ii.json) |
 | Ninja Gaiden II | 198838 | [198838-ninja-gaiden-ii.json](./198838-ninja-gaiden-ii.json) |
