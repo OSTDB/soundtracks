@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Dex | 188356 | [188356-mad-dex.json](./188356-mad-dex.json) |
 | Mad Dex 2 | 227917 | [227917-mad-dex-2.json](./227917-mad-dex-2.json) |
 | Mad Digger | 76585 | [76585-mad-digger.json](./76585-mad-digger.json) |
+| Mad Doctor | 41159 | [41159-mad-doctor.json](./41159-mad-doctor.json) |
 | Mad Dog II: The Lost Gold | 4269 | [4269-mad-dog-ii-the-lost-gold.json](./4269-mad-dog-ii-the-lost-gold.json) |
 | Mad Dog McCree: Gunslinger Pack | 78300 | [78300-mad-dog-mccree-gunslinger-pack.json](./78300-mad-dog-mccree-gunslinger-pack.json) |
 | Mad Dojo | 29627 | [29627-mad-dojo.json](./29627-mad-dojo.json) |
@@ -314,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad News | 265973 | [265973-mad-news.json](./265973-mad-news.json) |
 | Mad News | 79752 | [79752-mad-news.json](./79752-mad-news.json) |
 | Mad Nords: Probably an Epic Quest | 34327 | [34327-mad-nords-probably-an-epic-quest.json](./34327-mad-nords-probably-an-epic-quest.json) |
+| Mad Nurse | 41150 | [41150-mad-nurse.json](./41150-mad-nurse.json) |
 | Mad Octahedron | 104483 | [104483-mad-octahedron.json](./104483-mad-octahedron.json) |
 | Mad Pack | 146046 | [146046-mad-pack.json](./146046-mad-pack.json) |
 | Mad Panic Coaster | 43835 | [43835-mad-panic-coaster.json](./43835-mad-panic-coaster.json) |
@@ -5247,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mean Machines | 246257 | [246257-mean-machines.json](./246257-mean-machines.json) |
 | Mean Machines | 51691 | [51691-mean-machines.json](./51691-mean-machines.json) |
 | Mean Routine | 111540 | [111540-mean-routine.json](./111540-mean-routine.json) |
+| Mean Streak | 41138 | [41138-mean-streak.json](./41138-mean-streak.json) |
 | Mean-While | 149329 | [149329-mean-while.json](./149329-mean-while.json) |
 | Meander | 108986 | [108986-meander.json](./108986-meander.json) |
 | Meander Land | 265703 | [265703-meander-land.json](./265703-meander-land.json) |
@@ -6359,6 +6362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Museum | 108294 | [108294-mega-museum.json](./108294-mega-museum.json) |
 | Mega Party a Tootuff Adventure | 126339 | [126339-mega-party-a-tootuff-adventure.json](./126339-mega-party-a-tootuff-adventure.json) |
 | Mega Pede | 78990 | [78990-mega-pede.json](./78990-mega-pede.json) |
+| Mega Phoenix | 41158 | [41158-mega-phoenix.json](./41158-mega-phoenix.json) |
 | Mega Platformer Bundle | 331537 | [331537-mega-platformer-bundle.json](./331537-mega-platformer-bundle.json) |
 | Mega Plaza Shopping Center | 308466 | [308466-mega-plaza-shopping-center.json](./308466-mega-plaza-shopping-center.json) |
 | Mega Pony | 39604 | [39604-mega-pony.json](./39604-mega-pony.json) |
@@ -8432,6 +8436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Commandos | 71460 | [71460-micro-commandos.json](./71460-micro-commandos.json) |
 | Micro Games for Playdade! | 266242 | [266242-micro-games-for-playdade.json](./266242-micro-games-for-playdade.json) |
 | Micro Games: Volume 1 | 258368 | [258368-micro-games-volume-1.json](./258368-micro-games-volume-1.json) |
+| Micro Hexagon | 41156 | [41156-micro-hexagon.json](./41156-micro-hexagon.json) |
 | Micro Invasion | 68554 | [68554-micro-invasion.json](./68554-micro-invasion.json) |
 | Micro Knight 4 | 195996 | [195996-micro-knight-4.json](./195996-micro-knight-4.json) |
 | Micro Machines | 250468 | [250468-micro-machines.json](./250468-micro-machines.json) |
@@ -11925,6 +11930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moley Christmas | 59679 | [59679-moley-christmas.json](./59679-moley-christmas.json) |
 | MoleZ | 75411 | [75411-molez.json](./75411-molez.json) |
 | Mollie | 180688 | [180688-mollie.json](./180688-mollie.json) |
+| Mollusk Redux | 41167 | [41167-mollusk-redux.json](./41167-mollusk-redux.json) |
 | Molly and the Gunmids | 185687 | [185687-molly-and-the-gunmids.json](./185687-molly-and-the-gunmids.json) |
 | Molly n' D.O.G.'s Records | 376609 | [376609-molly-n-d-o-g-s-records.json](./376609-molly-n-d-o-g-s-records.json) |
 | Molly: fear of clowns | 126613 | [126613-molly-fear-of-clowns.json](./126613-molly-fear-of-clowns.json) |
@@ -13360,6 +13366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonshot: A Journey Home | 196697 | [196697-moonshot-a-journey-home.json](./196697-moonshot-a-journey-home.json) |
 | Moonsigil Atlas | 322204 | [322204-moonsigil-atlas.json](./322204-moonsigil-atlas.json) |
 | Moonsouls: Echoes of the Past | 234301 | [234301-moonsouls-echoes-of-the-past.json](./234301-moonsouls-echoes-of-the-past.json) |
+| Moonspire | 41179 | [41179-moonspire.json](./41179-moonspire.json) |
 | MoonSpire | 336056 | [336056-moonspire.json](./336056-moonspire.json) |
 | Moonsters | 180995 | [180995-moonsters.json](./180995-moonsters.json) |
 | Moonstone Crossroads | 116081 | [116081-moonstone-crossroads.json](./116081-moonstone-crossroads.json) |
@@ -16477,6 +16484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lewd Adventure | 341350 | [341350-my-lewd-adventure.json](./341350-my-lewd-adventure.json) |
 | My Lewd OS | 297150 | [297150-my-lewd-os.json](./297150-my-lewd-os.json) |
 | My Liege | 289317 | [289317-my-liege.json](./289317-my-liege.json) |
+| My Life | 41155 | [41155-my-life.json](./41155-my-life.json) |
 | My Life as a Teenage Robot: Techno Tennis | 335724 | [335724-my-life-as-a-teenage-robot-techno-tennis.json](./335724-my-life-as-a-teenage-robot-techno-tennis.json) |
 | My Life as a Vampire's Maid | 408507 | [408507-my-life-as-a-vampires-maid.json](./408507-my-life-as-a-vampires-maid.json) |
 | My Life As An Alchemist | 289430 | [289430-my-life-as-an-alchemist.json](./289430-my-life-as-an-alchemist.json) |
