@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galimulator | 89971 | [89971-galimulator.json](./89971-galimulator.json) |
 | Galix: NewHorizons | 304695 | [304695-galix-newhorizons.json](./304695-galix-newhorizons.json) |
 | Gall Force - Eternal Story | 230225 | [230225-gall-force-eternal-story.json](./230225-gall-force-eternal-story.json) |
+| Gall Force: Defence of Chaos | 41746 | [41746-gall-force-defence-of-chaos.json](./41746-gall-force-defence-of-chaos.json) |
 | Gall Force: Eternal Story | 41285 | [41285-gall-force-eternal-story.json](./41285-gall-force-eternal-story.json) |
 | Gall Force: Sousei no Jokyoku | 107627 | [107627-gall-force-sousei-no-jokyoku.json](./107627-gall-force-sousei-no-jokyoku.json) |
 | Gallag | 232392 | [232392-gallag.json](./232392-gallag.json) |
@@ -1044,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Kids: Baseball Bash | 334631 | [334631-game-kids-baseball-bash.json](./334631-game-kids-baseball-bash.json) |
 | Game Machine 2 | 346762 | [346762-game-machine-2.json](./346762-game-machine-2.json) |
 | Game Machines: Arcade Casino | 74121 | [74121-game-machines-arcade-casino.json](./74121-game-machines-arcade-casino.json) |
+| Game Master II | 41747 | [41747-game-master-ii.json](./41747-game-master-ii.json) |
 | Game Night | 406175 | [406175-game-night.json](./406175-game-night.json) |
 | Game Nihonshi: Kakumeiji Oda Nobunaga | 214392 | [214392-game-nihonshi-kakumeiji-oda-nobunaga.json](./214392-game-nihonshi-kakumeiji-oda-nobunaga.json) |
 | Game no Kanzume Vol. 1 | 398458 | [398458-game-no-kanzume-vol-1.json](./398458-game-no-kanzume-vol-1.json) |
@@ -1693,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gary's Fortune Telling Tent | 318643 | [318643-garys-fortune-telling-tent.json](./318643-garys-fortune-telling-tent.json) |
 | Gary's Wild Adventure | 103920 | [103920-garys-wild-adventure.json](./103920-garys-wild-adventure.json) |
 | Garyouden Sangoku Seiha no Kei | 392738 | [392738-garyouden-sangoku-seiha-no-kei.json](./392738-garyouden-sangoku-seiha-no-kei.json) |
+| Garyuu-ou | 41726 | [41726-garyuu-ou.json](./41726-garyuu-ou.json) |
 | Garzey's Wing | 363152 | [363152-garzeys-wing.json](./363152-garzeys-wing.json) |
 | Gas Gas Rocket! | 289554 | [289554-gas-gas-rocket.json](./289554-gas-gas-rocket.json) |
 | Gas Girl | 266642 | [266642-gas-girl.json](./266642-gas-girl.json) |
@@ -8060,6 +8063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians: Royal Journey | 155003 | [155003-guardians-royal-journey.json](./155003-guardians-royal-journey.json) |
 | Guardians: Unite the Realms | 299417 | [299417-guardians-unite-the-realms.json](./299417-guardians-unite-the-realms.json) |
 | Guardião Tupã | 293546 | [293546-guardiao-tupa.json](./293546-guardiao-tupa.json) |
+| Guardic | 41749 | [41749-guardic.json](./41749-guardic.json) |
 | Guarding Goddess | 207331 | [207331-guarding-goddess.json](./207331-guarding-goddess.json) |
 | Guardiões da Natureza: Mamíferos | 290089 | [290089-guardioes-da-natureza-mamiferos.json](./290089-guardioes-da-natureza-mamiferos.json) |
 | Guardiões do Mundo: estados brasileiros | 290088 | [290088-guardioes-do-mundo-estados-brasileiros.json](./290088-guardioes-do-mundo-estados-brasileiros.json) |
