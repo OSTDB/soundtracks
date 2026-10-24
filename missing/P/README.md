@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Drive: Frosted Customization Pack | 333040 | [333040-pacific-drive-frosted-customization-pack.json](./333040-pacific-drive-frosted-customization-pack.json) |
 | Pacific Drive: We Have Liftoff Customization Pack | 285546 | [285546-pacific-drive-we-have-liftoff-customization-pack.json](./285546-pacific-drive-we-have-liftoff-customization-pack.json) |
 | Pacific Drive: Whispers Edition | 376034 | [376034-pacific-drive-whispers-edition.json](./376034-pacific-drive-whispers-edition.json) |
+| Pacific Drive: Whispers in the Woods | 366375 | [366375-pacific-drive-whispers-in-the-woods.json](./366375-pacific-drive-whispers-in-the-woods.json) |
 | Pacific Fire | 127259 | [127259-pacific-fire.json](./127259-pacific-fire.json) |
 | Pacific General | 14451 | [14451-pacific-general.json](./14451-pacific-general.json) |
 | Pacific Gunner | 92470 | [92470-pacific-gunner.json](./92470-pacific-gunner.json) |
@@ -9075,6 +9076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon League of Legends | 229045 | [229045-pokemon-league-of-legends.json](./229045-pokemon-league-of-legends.json) |
 | Pokémon Legends: Arceus | 144054 | [144054-pokemon-legends-arceus.json](./144054-pokemon-legends-arceus.json) |
 | Pokémon Legends: Arceus - Daybreak | 221843 | [221843-pokemon-legends-arceus-daybreak.json](./221843-pokemon-legends-arceus-daybreak.json) |
+| Pokémon Legends: Z-A - Mega Dimension | 366894 | [366894-pokemon-legends-z-a-mega-dimension.json](./366894-pokemon-legends-z-a-mega-dimension.json) |
 | Pokemon Lightning Yellow | 365745 | [365745-pokemon-lightning-yellow.json](./365745-pokemon-lightning-yellow.json) |
 | Pokémon Lime Version | 359917 | [359917-pokemon-lime-version.json](./359917-pokemon-lime-version.json) |
 | Pokémon Little Cup Red | 264094 | [264094-pokemon-little-cup-red.json](./264094-pokemon-little-cup-red.json) |
