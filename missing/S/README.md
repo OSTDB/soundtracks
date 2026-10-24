@@ -5861,6 +5861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shannon Tweed's Attack of the Groupies | 36382 | [36382-shannon-tweeds-attack-of-the-groupies.json](./36382-shannon-tweeds-attack-of-the-groupies.json) |
 | Shanshui | 178485 | [178485-shanshui.json](./178485-shanshui.json) |
 | Shanshui Haven | 273347 | [273347-shanshui-haven.json](./273347-shanshui-haven.json) |
+| Shantae | 8432 | [8432-shantae.json](./8432-shantae.json) |
 | Shantae Advance: Risky Revolution | 276506 | [276506-shantae-advance-risky-revolution.json](./276506-shantae-advance-risky-revolution.json) |
 | Shantae and Asha: Dream Fantasia | 321075 | [321075-shantae-and-asha-dream-fantasia.json](./321075-shantae-and-asha-dream-fantasia.json) |
 | Shantae and the Pirate's Curse | 8430 | [8430-shantae-and-the-pirates-curse.json](./8430-shantae-and-the-pirates-curse.json) |
@@ -6656,6 +6657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei III: Nocturne - HD Remaster: Chronicle Pack | 336554 | [336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json](./336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster: Maniax Pack | 237996 | [237996-shin-megami-tensei-iii-nocturne-hd-remaster-maniax-pack.json](./237996-shin-megami-tensei-iii-nocturne-hd-remaster-maniax-pack.json) |
 | Shin Megami Tensei III: Nocturne Maniax Chronicle Edition | 231375 | [231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json](./231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json) |
+| Shin Megami Tensei IV: Apocalypse | 19329 | [19329-shin-megami-tensei-iv-apocalypse.json](./19329-shin-megami-tensei-iv-apocalypse.json) |
 | Shin Megami Tensei J | 138483 | [138483-shin-megami-tensei-j.json](./138483-shin-megami-tensei-j.json) |
 | Shin Megami Tensei V | 26775 | [26775-shin-megami-tensei-v.json](./26775-shin-megami-tensei-v.json) |
 | Shin Megami Tensei V: A Goddess in Training | 238054 | [238054-shin-megami-tensei-v-a-goddess-in-training.json](./238054-shin-megami-tensei-v-a-goddess-in-training.json) |
@@ -13839,6 +13841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Boom Cannon | 297603 | [297603-sonic-boom-cannon.json](./297603-sonic-boom-cannon.json) |
 | Sonic Boom Cannon 2 | 297604 | [297604-sonic-boom-cannon-2.json](./297604-sonic-boom-cannon-2.json) |
 | Sonic Boom Racing | 330592 | [330592-sonic-boom-racing.json](./330592-sonic-boom-racing.json) |
+| Sonic Boom: Rise of Lyric | 5322 | [5322-sonic-boom-rise-of-lyric.json](./5322-sonic-boom-rise-of-lyric.json) |
 | Sonic Boom: Shattered Crystal | 7855 | [7855-sonic-boom-shattered-crystal.json](./7855-sonic-boom-shattered-crystal.json) |
 | Sonic Bowling | 261248 | [261248-sonic-bowling.json](./261248-sonic-bowling.json) |
 | Sonic Bowling | 261293 | [261293-sonic-bowling.json](./261293-sonic-bowling.json) |
@@ -18109,6 +18112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Typing: The Ghost Plague | 178097 | [178097-spooky-typing-the-ghost-plague.json](./178097-spooky-typing-the-ghost-plague.json) |
 | Spooky Walking Simulator | 400425 | [400425-spooky-walking-simulator.json](./400425-spooky-walking-simulator.json) |
 | Spooky Waltz | 198106 | [198106-spooky-waltz.json](./198106-spooky-waltz.json) |
+| Spooky's Jump Scare Mansion | 35577 | [35577-spookys-jump-scare-mansion.json](./35577-spookys-jump-scare-mansion.json) |
 | Spooky's Jump Scare Mansion: The Doll House | 140550 | [140550-spookys-jump-scare-mansion-the-doll-house.json](./140550-spookys-jump-scare-mansion-the-doll-house.json) |
 | Spooky's Jumpscare Mansion Plus | 356227 | [356227-spookys-jumpscare-mansion-plus.json](./356227-spookys-jumpscare-mansion-plus.json) |
 | SpookyKillers | 191121 | [191121-spookykillers.json](./191121-spookykillers.json) |
@@ -19362,6 +19366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ocean: Second Evolution | 80504 | [80504-star-ocean-second-evolution.json](./80504-star-ocean-second-evolution.json) |
 | Star Ocean: The Divine Force | 178298 | [178298-star-ocean-the-divine-force.json](./178298-star-ocean-the-divine-force.json) |
 | Star Ocean: The Last Hope | 7192 | [7192-star-ocean-the-last-hope.json](./7192-star-ocean-the-last-hope.json) |
+| Star Ocean: Till the End of Time | 11212 | [11212-star-ocean-till-the-end-of-time.json](./11212-star-ocean-till-the-end-of-time.json) |
 | Star Odyssey | 45757 | [45757-star-odyssey.json](./45757-star-odyssey.json) |
 | Star of Games | 399434 | [399434-star-of-games.json](./399434-star-of-games.json) |
 | Star of Lemutia | 76541 | [76541-star-of-lemutia.json](./76541-star-of-lemutia.json) |
@@ -24252,6 +24257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunder For People Who Don't Have Time To Play Sunder | 296041 | [296041-sunder-for-people-who-dont-have-time-to-play-sunder.json](./296041-sunder-for-people-who-dont-have-time-to-play-sunder.json) |
 | Sunder Siege | 400711 | [400711-sunder-siege.json](./400711-sunder-siege.json) |
 | SunderBound | 374708 | [374708-sunderbound.json](./374708-sunderbound.json) |
+| Sundered | 24428 | [24428-sundered.json](./24428-sundered.json) |
 | Sundered Hope | 385435 | [385435-sundered-hope.json](./385435-sundered-hope.json) |
 | Sundered Soul: Chains of the Undying | 393122 | [393122-sundered-soul-chains-of-the-undying.json](./393122-sundered-soul-chains-of-the-undying.json) |
 | Sundered: Eldritch Edition | 113102 | [113102-sundered-eldritch-edition.json](./113102-sundered-eldritch-edition.json) |
@@ -25322,6 +25328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lotsa Added Stuff Hack | 19777 | [19777-super-lotsa-added-stuff-hack.json](./19777-super-lotsa-added-stuff-hack.json) |
 | Super Lovely Planet | 27321 | [27321-super-lovely-planet.json](./27321-super-lovely-planet.json) |
 | Super LSG World | 268356 | [268356-super-lsg-world.json](./268356-super-lsg-world.json) |
+| Super Lucky's Tale | 37024 | [37024-super-luckys-tale.json](./37024-super-luckys-tale.json) |
 | Super Lucky's Tale: Gilly Island | 171369 | [171369-super-luckys-tale-gilly-island.json](./171369-super-luckys-tale-gilly-island.json) |
 | Super Lueshi World | 268357 | [268357-super-lueshi-world.json](./268357-super-lueshi-world.json) |
 | Super Luigi and the Golden Shrooms | 135128 | [135128-super-luigi-and-the-golden-shrooms.json](./135128-super-luigi-and-the-golden-shrooms.json) |
