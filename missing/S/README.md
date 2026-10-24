@@ -6717,6 +6717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Digital Devil Saga - Deluxe Box Set | 382184 | [382184-shin-megami-tensei-digital-devil-saga-deluxe-box-set.json](./382184-shin-megami-tensei-digital-devil-saga-deluxe-box-set.json) |
 | Shin Megami Tensei: Digital Devil Saga 2 | 18229 | [18229-shin-megami-tensei-digital-devil-saga-2.json](./18229-shin-megami-tensei-digital-devil-saga-2.json) |
 | Shin Megami Tensei: Imagine | 72672 | [72672-shin-megami-tensei-imagine.json](./72672-shin-megami-tensei-imagine.json) |
+| Shin Megami Tensei: Liberation Dx2 | 57019 | [57019-shin-megami-tensei-liberation-dx2.json](./57019-shin-megami-tensei-liberation-dx2.json) |
 | Shin Megami Tensei: Nine | 6050 | [6050-shin-megami-tensei-nine.json](./6050-shin-megami-tensei-nine.json) |
 | Shin Megami Tensei: Nocturne - Hardtype | 135678 | [135678-shin-megami-tensei-nocturne-hardtype.json](./135678-shin-megami-tensei-nocturne-hardtype.json) |
 | Shin Megami Tensei: Nocturne Randomizer | 142296 | [142296-shin-megami-tensei-nocturne-randomizer.json](./142296-shin-megami-tensei-nocturne-randomizer.json) |
@@ -8697,6 +8698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity | 208990 | [208990-simcity.json](./208990-simcity.json) |
 | SimCity 2000 | 330 | [330-simcity-2000.json](./330-simcity-2000.json) |
 | SimCity 2000 Urban Renewal Kit | 130907 | [130907-simcity-2000-urban-renewal-kit.json](./130907-simcity-2000-urban-renewal-kit.json) |
+| SimCity 2000: Special Edition | 46631 | [46631-simcity-2000-special-edition.json](./46631-simcity-2000-special-edition.json) |
 | SimCity 3000 Unlimited | 28955 | [28955-simcity-3000-unlimited.json](./28955-simcity-3000-unlimited.json) |
 | SimCity 4: Rush Hour | 18494 | [18494-simcity-4-rush-hour.json](./18494-simcity-4-rush-hour.json) |
 | SimCity 64 | 1492 | [1492-simcity-64.json](./1492-simcity-64.json) |
@@ -23888,6 +23890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide Explorer | 184305 | [184305-suicide-explorer.json](./184305-suicide-explorer.json) |
 | Suicide Express | 40963 | [40963-suicide-express.json](./40963-suicide-express.json) |
 | Suicide For Him | 153966 | [153966-suicide-for-him.json](./153966-suicide-for-him.json) |
+| Suicide Guy | 51467 | [51467-suicide-guy.json](./51467-suicide-guy.json) |
 | Suicide Guy Bundle | 376242 | [376242-suicide-guy-bundle.json](./376242-suicide-guy-bundle.json) |
 | Suicide Guy Collection | 118151 | [118151-suicide-guy-collection.json](./118151-suicide-guy-collection.json) |
 | Suicide Guy VR: Deluxe | 276408 | [276408-suicide-guy-vr-deluxe.json](./276408-suicide-guy-vr-deluxe.json) |
@@ -24506,6 +24509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Action Soccer | 40907 | [40907-super-action-soccer.json](./40907-super-action-soccer.json) |
 | Super Adventure | 295492 | [295492-super-adventure.json](./295492-super-adventure.json) |
 | Super Adventure Island | 9064 | [9064-super-adventure-island.json](./9064-super-adventure-island.json) |
+| Super Adventure Island II | 9065 | [9065-super-adventure-island-ii.json](./9065-super-adventure-island-ii.json) |
 | Super Adventure Pals | 59640 | [59640-super-adventure-pals.json](./59640-super-adventure-pals.json) |
 | Super Adventure Pals II | 59635 | [59635-super-adventure-pals-ii.json](./59635-super-adventure-pals-ii.json) |
 | Super Adventure Pals: Battle Arena | 59636 | [59636-super-adventure-pals-battle-arena.json](./59636-super-adventure-pals-battle-arena.json) |
@@ -27278,6 +27282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperTripLand | 239504 | [239504-supertripland.json](./239504-supertripland.json) |
 | SuperTrucks Offroad Racing | 237384 | [237384-supertrucks-offroad-racing.json](./237384-supertrucks-offroad-racing.json) |
 | Supertrumpman: Patriot Fists of Truth | 114744 | [114744-supertrumpman-patriot-fists-of-truth.json](./114744-supertrumpman-patriot-fists-of-truth.json) |
+| SuperTux | 51231 | [51231-supertux.json](./51231-supertux.json) |
 | SuperTux Advance | 194198 | [194198-supertux-advance.json](./194198-supertux-advance.json) |
 | SuperTux Wii | 205620 | [205620-supertux-wii.json](./205620-supertux-wii.json) |
 | SuperTux: Octo's Levels | 230761 | [230761-supertux-octos-levels.json](./230761-supertux-octos-levels.json) |
