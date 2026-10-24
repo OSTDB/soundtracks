@@ -4040,6 +4040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Superstar Soccer 99 | 49886 | [49886-international-superstar-soccer-99.json](./49886-international-superstar-soccer-99.json) |
 | International Superstar Soccer Advance | 49280 | [49280-international-superstar-soccer-advance.json](./49280-international-superstar-soccer-advance.json) |
 | International Superstar Soccer Deluxe | 9862 | [9862-international-superstar-soccer-deluxe.json](./9862-international-superstar-soccer-deluxe.json) |
+| International Superstar Soccer Pro 98 | 44932 | [44932-international-superstar-soccer-pro-98.json](./44932-international-superstar-soccer-pro-98.json) |
 | International Table Tennis | 194251 | [194251-international-table-tennis.json](./194251-international-table-tennis.json) |
 | International Tennis | 70039 | [70039-international-tennis.json](./70039-international-tennis.json) |
 | International Tennis Open | 19078 | [19078-international-tennis-open.json](./19078-international-tennis-open.json) |
@@ -4534,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inviyya | 182924 | [182924-inviyya.json](./182924-inviyya.json) |
 | Invizimals | 2994 | [2994-invizimals.json](./2994-invizimals.json) |
 | Invizimals: Hidden Challenges | 203233 | [203233-invizimals-hidden-challenges.json](./203233-invizimals-hidden-challenges.json) |
+| Invizimals: Shadow Zone | 2996 | [2996-invizimals-shadow-zone.json](./2996-invizimals-shadow-zone.json) |
 | Invizimals: The Alliance | 23417 | [23417-invizimals-the-alliance.json](./23417-invizimals-the-alliance.json) |
 | Invizimals: The Lost Kingdom | 23357 | [23357-invizimals-the-lost-kingdom.json](./23357-invizimals-the-lost-kingdom.json) |
 | Invizimals: The Lost Tribes | 3001 | [3001-invizimals-the-lost-tribes.json](./3001-invizimals-the-lost-tribes.json) |
