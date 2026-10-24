@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Blackball | 243383 | [243383-ultimate-blackball.json](./243383-ultimate-blackball.json) |
 | Ultimate BlackJack Reloaded | 91107 | [91107-ultimate-blackjack-reloaded.json](./91107-ultimate-blackjack-reloaded.json) |
 | Ultimate Board Game Collection | 20553 | [20553-ultimate-board-game-collection.json](./20553-ultimate-board-game-collection.json) |
+| Ultimate Body Blows | 8495 | [8495-ultimate-body-blows.json](./8495-ultimate-body-blows.json) |
 | Ultimate Bomb Squad | 142465 | [142465-ultimate-bomb-squad.json](./142465-ultimate-bomb-squad.json) |
 | Ultimate Booster Experience | 32102 | [32102-ultimate-booster-experience.json](./32102-ultimate-booster-experience.json) |
 | Ultimate Bowmasters | 223884 | [223884-ultimate-bowmasters.json](./223884-ultimate-bowmasters.json) |
@@ -528,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Pain | 364017 | [364017-ultimate-pain.json](./364017-ultimate-pain.json) |
 | Ultimate Paintball | 49901 | [49901-ultimate-paintball.json](./49901-ultimate-paintball.json) |
 | Ultimate Paintball Challenge | 206620 | [206620-ultimate-paintball-challenge.json](./206620-ultimate-paintball-challenge.json) |
+| Ultimate Paintbrawl 3 | 8541 | [8541-ultimate-paintbrawl-3.json](./8541-ultimate-paintbrawl-3.json) |
 | Ultimate Panzer | 216490 | [216490-ultimate-panzer.json](./216490-ultimate-panzer.json) |
 | Ultimate Party Challenge | 51059 | [51059-ultimate-party-challenge.json](./51059-ultimate-party-challenge.json) |
 | Ultimate Pet Shop Simulator | 417322 | [417322-ultimate-pet-shop-simulator.json](./417322-ultimate-pet-shop-simulator.json) |
@@ -1151,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted Waters | 340800 | [340800-uncharted-waters.json](./340800-uncharted-waters.json) |
 | Uncharted Waters | 351120 | [351120-uncharted-waters.json](./351120-uncharted-waters.json) |
 | Uncharted Waters | 351137 | [351137-uncharted-waters.json](./351137-uncharted-waters.json) |
+| Uncharted Waters | 4459 | [4459-uncharted-waters.json](./4459-uncharted-waters.json) |
 | Uncharted Waters IV with Power Up Kit | 145544 | [145544-uncharted-waters-iv-with-power-up-kit.json](./145544-uncharted-waters-iv-with-power-up-kit.json) |
 | Uncharted Waters IV with Power Up Kit: HD Version - 30th Anniversary Edition | 351150 | [351150-uncharted-waters-iv-with-power-up-kit-hd-version-30th-anniversary-edition.json](./351150-uncharted-waters-iv-with-power-up-kit-hd-version-30th-anniversary-edition.json) |
 | Uncharted Waters IV with Power-Up Kit - HD Version | 144175 | [144175-uncharted-waters-iv-with-power-up-kit-hd-version.json](./144175-uncharted-waters-iv-with-power-up-kit-hd-version.json) |
