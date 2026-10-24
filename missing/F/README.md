@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairyland Melody Magic | 68055 | [68055-fairyland-melody-magic.json](./68055-fairyland-melody-magic.json) |
 | Fairyland Solitaire | 271083 | [271083-fairyland-solitaire.json](./271083-fairyland-solitaire.json) |
 | Fairyland: Chronicle | 95266 | [95266-fairyland-chronicle.json](./95266-fairyland-chronicle.json) |
+| Fairyland: Fairy Power | 30518 | [30518-fairyland-fairy-power.json](./30518-fairyland-fairy-power.json) |
 | Fairyland: Fairylines | 111367 | [111367-fairyland-fairylines.json](./111367-fairyland-fairylines.json) |
 | Fairyland: Guild | 107689 | [107689-fairyland-guild.json](./107689-fairyland-guild.json) |
 | Fairyland: Incursion | 32301 | [32301-fairyland-incursion.json](./32301-fairyland-incursion.json) |
@@ -1410,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famousity Game | 98398 | [98398-famousity-game.json](./98398-famousity-game.json) |
 | Famulus | 326728 | [326728-famulus.json](./326728-famulus.json) |
 | Fan Dungeon: A Day in the Life of Team Tomorrow! | 184344 | [184344-fan-dungeon-a-day-in-the-life-of-team-tomorrow.json](./184344-fan-dungeon-a-day-in-the-life-of-team-tomorrow.json) |
+| Fan Fun | 30553 | [30553-fan-fun.json](./30553-fan-fun.json) |
 | Fan Fun 3D | 99985 | [99985-fan-fun-3d.json](./99985-fan-fun-3d.json) |
 | Fan Pop Rhythm Stage: Aim for the Heart | 279137 | [279137-fan-pop-rhythm-stage-aim-for-the-heart.json](./279137-fan-pop-rhythm-stage-aim-for-the-heart.json) |
 | Fan Tas Tic | 91441 | [91441-fan-tas-tic.json](./91441-fan-tas-tic.json) |
@@ -3791,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Simulator: 2 in 1 Flying Warriors | 64795 | [64795-fighting-simulator-2-in-1-flying-warriors.json](./64795-fighting-simulator-2-in-1-flying-warriors.json) |
 | Fighting Soccer | 12097 | [12097-fighting-soccer.json](./12097-fighting-soccer.json) |
 | Fighting Soccer | 131207 | [131207-fighting-soccer.json](./131207-fighting-soccer.json) |
+| Fighting Space | 30512 | [30512-fighting-space.json](./30512-fighting-space.json) |
 | Fighting Spree 3D | 114936 | [114936-fighting-spree-3d.json](./114936-fighting-spree-3d.json) |
 | Fighting Steel: World War II Surface Combat 1939-1942 | 78006 | [78006-fighting-steel-world-war-ii-surface-combat-1939-1942.json](./78006-fighting-steel-world-war-ii-surface-combat-1939-1942.json) |
 | Fighting Street | 37589 | [37589-fighting-street.json](./37589-fighting-street.json) |
@@ -3929,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Commando: Akai Yousai | 41266 | [41266-final-commando-akai-yousai.json](./41266-final-commando-akai-yousai.json) |
 | Final Conflict | 209429 | [209429-final-conflict.json](./209429-final-conflict.json) |
 | Final Contract | 290874 | [290874-final-contract.json](./290874-final-contract.json) |
+| Final Core | 30502 | [30502-final-core.json](./30502-final-core.json) |
 | Final Crisis: Terrestrial Defense Police | 141644 | [141644-final-crisis-terrestrial-defense-police.json](./141644-final-crisis-terrestrial-defense-police.json) |
 | Final Cut: Death on the Silver Screen | 98383 | [98383-final-cut-death-on-the-silver-screen.json](./98383-final-cut-death-on-the-silver-screen.json) |
 | Final Cut: Death on the Silver Screen - Collector's Edition | 31690 | [31690-final-cut-death-on-the-silver-screen-collectors-edition.json](./31690-final-cut-death-on-the-silver-screen-collectors-edition.json) |
