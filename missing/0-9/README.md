@@ -1658,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Ultra Radio Control Racers | 9116 | [9116-3-d-ultra-radio-control-racers.json](./9116-3-d-ultra-radio-control-racers.json) |
 | 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition | 205953 | [205953-3-d-ultra-radio-control-racers-deluxe-traxxas-edition.json](./205953-3-d-ultra-radio-control-racers-deluxe-traxxas-edition.json) |
 | 3-D Vector Pong | 78746 | [78746-3-d-vector-pong.json](./78746-3-d-vector-pong.json) |
+| 3-D WorldRunner | 48030 | [48030-3-d-worldrunner.json](./48030-3-d-worldrunner.json) |
 | 3-D Zapper | 268566 | [268566-3-d-zapper.json](./268566-3-d-zapper.json) |
 | 3-Demon | 14470 | [14470-3-demon.json](./14470-3-demon.json) |
 | 3-in-1 Animated Jigsaws Bundle | 399632 | [399632-3-in-1-animated-jigsaws-bundle.json](./399632-3-in-1-animated-jigsaws-bundle.json) |
