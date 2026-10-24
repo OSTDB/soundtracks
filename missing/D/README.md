@@ -6370,7 +6370,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deviation from Way | 190025 | [190025-deviation-from-way.json](./190025-deviation-from-way.json) |
 | Device | 150165 | [150165-device.json](./150165-device.json) |
 | Device 0101 | 294844 | [294844-device-0101.json](./294844-device-0101.json) |
-| Device 6 | 6279 | [6279-device-6.json](./6279-device-6.json) |
 | Device Doctor Simulator 2024 | 290862 | [290862-device-doctor-simulator-2024.json](./290862-device-doctor-simulator-2024.json) |
 | Device of Bakudan | 244324 | [244324-device-of-bakudan.json](./244324-device-of-bakudan.json) |
 | Devicereign | 166500 | [166500-devicereign.json](./166500-devicereign.json) |
@@ -6643,7 +6642,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo IV: Dark Pathways Pack | 289474 | [289474-diablo-iv-dark-pathways-pack.json](./289474-diablo-iv-dark-pathways-pack.json) |
 | Diablo IV: Digital Deluxe Edition | 249741 | [249741-diablo-iv-digital-deluxe-edition.json](./249741-diablo-iv-digital-deluxe-edition.json) |
 | Diablo IV: Loot Reborn | 299726 | [299726-diablo-iv-loot-reborn.json](./299726-diablo-iv-loot-reborn.json) |
-| Diablo IV: Lord of Hatred | 381239 | [381239-diablo-iv-lord-of-hatred.json](./381239-diablo-iv-lord-of-hatred.json) |
 | Diablo IV: Season of Divine Intervention | 380541 | [380541-diablo-iv-season-of-divine-intervention.json](./380541-diablo-iv-season-of-divine-intervention.json) |
 | Diablo IV: Season of Hatred Rising | 314387 | [314387-diablo-iv-season-of-hatred-rising.json](./314387-diablo-iv-season-of-hatred-rising.json) |
 | Diablo IV: Season of Infernal Chaos | 372053 | [372053-diablo-iv-season-of-infernal-chaos.json](./372053-diablo-iv-season-of-infernal-chaos.json) |
