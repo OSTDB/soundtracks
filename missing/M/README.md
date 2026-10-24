@@ -4184,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Monsters: Mado-ou no Shiren | 387092 | [387092-master-of-monsters-mado-ou-no-shiren.json](./387092-master-of-monsters-mado-ou-no-shiren.json) |
 | Master of Music | 279058 | [279058-master-of-music.json](./279058-master-of-music.json) |
 | Master of Mutations | 109716 | [109716-master-of-mutations.json](./109716-master-of-mutations.json) |
+| Master of Orion | 67 | [67-master-of-orion.json](./67-master-of-orion.json) |
 | Master of Orion II: Battle at Antares | 68 | [68-master-of-orion-ii-battle-at-antares.json](./68-master-of-orion-ii-battle-at-antares.json) |
 | Master of Orion III | 69 | [69-master-of-orion-iii.json](./69-master-of-orion-iii.json) |
 | Master of Orion: Gnolam League | 169972 | [169972-master-of-orion-gnolam-league.json](./169972-master-of-orion-gnolam-league.json) |
@@ -6247,6 +6248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
 | Mega Man Inverse | 323768 | [323768-mega-man-inverse.json](./323768-mega-man-inverse.json) |
 | Mega Man IV SNES | 377763 | [377763-mega-man-iv-snes.json](./377763-mega-man-iv-snes.json) |
+| Mega Man Legacy Collection | 19874 | [19874-mega-man-legacy-collection.json](./19874-mega-man-legacy-collection.json) |
 | Mega Man Legacy Collection: Special Edition | 89843 | [89843-mega-man-legacy-collection-special-edition.json](./89843-mega-man-legacy-collection-special-edition.json) |
 | Mega Man Legends | 1752 | [1752-mega-man-legends.json](./1752-mega-man-legends.json) |
 | Mega Man Legends 3 Project | 78003 | [78003-mega-man-legends-3-project.json](./78003-mega-man-legends-3-project.json) |
@@ -7938,6 +7940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug 3: Classic Edition | 347164 | [347164-metal-slug-3-classic-edition.json](./347164-metal-slug-3-classic-edition.json) |
 | Metal Slug 4 | 1409 | [1409-metal-slug-4.json](./1409-metal-slug-4.json) |
 | Metal Slug 5 | 1410 | [1410-metal-slug-5.json](./1410-metal-slug-5.json) |
+| Metal Slug 6 | 1411 | [1411-metal-slug-6.json](./1411-metal-slug-6.json) |
 | Metal Slug Advance | 1406 | [1406-metal-slug-advance.json](./1406-metal-slug-advance.json) |
 | Metal Slug Anthology | 5004 | [5004-metal-slug-anthology.json](./5004-metal-slug-anthology.json) |
 | Metal Slug Bundle | 271120 | [271120-metal-slug-bundle.json](./271120-metal-slug-bundle.json) |
@@ -11019,6 +11022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile City AeroLeague | 249807 | [249807-missile-city-aeroleague.json](./249807-missile-city-aeroleague.json) |
 | Missile Collector Man | 246927 | [246927-missile-collector-man.json](./246927-missile-collector-man.json) |
 | Missile Comes Back to Me | 361693 | [361693-missile-comes-back-to-me.json](./361693-missile-comes-back-to-me.json) |
+| Missile Command | 12313 | [12313-missile-command.json](./12313-missile-command.json) |
 | Missile Command | 187374 | [187374-missile-command.json](./187374-missile-command.json) |
 | Missile Command | 209502 | [209502-missile-command.json](./209502-missile-command.json) |
 | Missile Command | 209503 | [209503-missile-command.json](./209503-missile-command.json) |
