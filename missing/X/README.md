@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-COM: Enforcer | 9322 | [9322-x-com-enforcer.json](./9322-x-com-enforcer.json) |
 | X-Com: From The Ashes | 278079 | [278079-x-com-from-the-ashes.json](./278079-x-com-from-the-ashes.json) |
 | X-COM: Interceptor | 27 | [27-x-com-interceptor.json](./27-x-com-interceptor.json) |
+| X-COM: Terror From the Deep | 25 | [25-x-com-terror-from-the-deep.json](./25-x-com-terror-from-the-deep.json) |
 | X-Day | 140494 | [140494-x-day.json](./140494-x-day.json) |
 | X-Day 2 | 140495 | [140495-x-day-2.json](./140495-x-day-2.json) |
 | X-Files: Resist or Serve | 24136 | [24136-x-files-resist-or-serve.json](./24136-x-files-resist-or-serve.json) |
@@ -81,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men Origins: Wolverine | 209931 | [209931-x-men-origins-wolverine.json](./209931-x-men-origins-wolverine.json) |
 | X-Men Origins: Wolverine | 573 | [573-x-men-origins-wolverine.json](./573-x-men-origins-wolverine.json) |
 | X-Men Origins: Wolverine - The Mobile Game | 209932 | [209932-x-men-origins-wolverine-the-mobile-game.json](./209932-x-men-origins-wolverine-the-mobile-game.json) |
+| X-Men Origins: Wolverine Uncaged Edition | 20478 | [20478-x-men-origins-wolverine-uncaged-edition.json](./20478-x-men-origins-wolverine-uncaged-edition.json) |
 | X-Men: 009 - Character: Cyclops | 291031 | [291031-x-men-009-character-cyclops.json](./291031-x-men-009-character-cyclops.json) |
 | X-Men: 010 - Character: Iceman | 291032 | [291032-x-men-010-character-iceman.json](./291032-x-men-010-character-iceman.json) |
 | X-Men: 011 - Character: Jean Grey/Phoenix | 291033 | [291033-x-men-011-character-jean-grey-phoenix.json](./291033-x-men-011-character-jean-grey-phoenix.json) |
@@ -575,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XenoRaptor | 17355 | [17355-xenoraptor.json](./17355-xenoraptor.json) |
 | Xenos Defense | 121480 | [121480-xenos-defense.json](./121480-xenos-defense.json) |
 | Xenos: Cartoon Creature Catcher | 272890 | [272890-xenos-cartoon-creature-catcher.json](./272890-xenos-cartoon-creature-catcher.json) |
+| Xenosaga Episode I: Der Wille zur Macht | 1227 | [1227-xenosaga-episode-i-der-wille-zur-macht.json](./1227-xenosaga-episode-i-der-wille-zur-macht.json) |
 | Xenosaga Episode I: Der Wille zur Macht - Reloaded | 221670 | [221670-xenosaga-episode-i-der-wille-zur-macht-reloaded.json](./221670-xenosaga-episode-i-der-wille-zur-macht-reloaded.json) |
 | Xenosaga Episode II: Jenseits von Gut und Böse | 1228 | [1228-xenosaga-episode-ii-jenseits-von-gut-und-bose.json](./1228-xenosaga-episode-ii-jenseits-von-gut-und-bose.json) |
 | Xenosaga Episode III: Also sprach Zarathustra | 1229 | [1229-xenosaga-episode-iii-also-sprach-zarathustra.json](./1229-xenosaga-episode-iii-also-sprach-zarathustra.json) |
