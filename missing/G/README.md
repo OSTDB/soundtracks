@@ -1447,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garage Works | 278417 | [278417-garage-works.json](./278417-garage-works.json) |
 | Garage: Bad Dream Adventure | 152048 | [152048-garage-bad-dream-adventure.json](./152048-garage-bad-dream-adventure.json) |
 | Garage: Bad Dream Adventure | 24947 | [24947-garage-bad-dream-adventure.json](./24947-garage-bad-dream-adventure.json) |
+| Garage: Bad Trip | 105315 | [105315-garage-bad-trip.json](./105315-garage-bad-trip.json) |
 | Garage: Tidy Up! | 414762 | [414762-garage-tidy-up.json](./414762-garage-tidy-up.json) |
 | Garage: Vamp | 197559 | [197559-garage-vamp.json](./197559-garage-vamp.json) |
 | Garagem SA | 345628 | [345628-garagem-sa.json](./345628-garagem-sa.json) |
@@ -4885,6 +4886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godforged: Origins of Ozgalor | 313473 | [313473-godforged-origins-of-ozgalor.json](./313473-godforged-origins-of-ozgalor.json) |
 | Godforsaken | 258085 | [258085-godforsaken.json](./258085-godforsaken.json) |
 | Godfuck | 343756 | [343756-godfuck.json](./343756-godfuck.json) |
+| Godhood | 106679 | [106679-godhood.json](./106679-godhood.json) |
 | Godkiller | 161172 | [161172-godkiller.json](./161172-godkiller.json) |
 | Godland: The Fire Quest | 202666 | [202666-godland-the-fire-quest.json](./202666-godland-the-fire-quest.json) |
 | Godland: The Fire Quest 2 | 219662 | [219662-godland-the-fire-quest-2.json](./219662-godland-the-fire-quest-2.json) |
@@ -8349,6 +8351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Cradle | 395239 | [395239-guilty-cradle.json](./395239-guilty-cradle.json) |
 | Guilty Crown | 208919 | [208919-guilty-crown.json](./208919-guilty-crown.json) |
 | Guilty Crown: Lost Christmas | 80569 | [80569-guilty-crown-lost-christmas.json](./80569-guilty-crown-lost-christmas.json) |
+| Guilty Gear 2: Overture | 7004 | [7004-guilty-gear-2-overture.json](./7004-guilty-gear-2-overture.json) |
 | Guilty Gear 20th Anniversary Pack: Day One Edition | 386270 | [386270-guilty-gear-20th-anniversary-pack-day-one-edition.json](./386270-guilty-gear-20th-anniversary-pack-day-one-edition.json) |
 | Guilty Gear Dust Strikers | 9149 | [9149-guilty-gear-dust-strikers.json](./9149-guilty-gear-dust-strikers.json) |
 | Guilty Gear Isuka | 5857 | [5857-guilty-gear-isuka.json](./5857-guilty-gear-isuka.json) |
