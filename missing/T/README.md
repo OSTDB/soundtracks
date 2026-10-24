@@ -2067,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target: Renegade | 381642 | [381642-target-renegade.json](./381642-target-renegade.json) |
 | Target: Renegade | 381643 | [381643-target-renegade.json](./381643-target-renegade.json) |
 | Target: Renegade | 39060 | [39060-target-renegade.json](./39060-target-renegade.json) |
+| Target: Terror | 5213 | [5213-target-terror.json](./5213-target-terror.json) |
 | Targeted: -10 Days | 309477 | [309477-targeted-10-days.json](./309477-targeted-10-days.json) |
 | Targeting Maths Lab 1 | 291992 | [291992-targeting-maths-lab-1.json](./291992-targeting-maths-lab-1.json) |
 | Targeting Maths Lab 2 | 291993 | [291993-targeting-maths-lab-2.json](./291993-targeting-maths-lab-2.json) |
@@ -4089,6 +4090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Mind Bender | 302679 | [302679-tetris-mind-bender.json](./302679-tetris-mind-bender.json) |
 | Tetris Mini | 218085 | [218085-tetris-mini.json](./218085-tetris-mini.json) |
 | Tetris New Century | 236719 | [236719-tetris-new-century.json](./236719-tetris-new-century.json) |
+| Tetris Party | 5217 | [5217-tetris-party.json](./5217-tetris-party.json) |
 | Tetris Party Deluxe | 21099 | [21099-tetris-party-deluxe.json](./21099-tetris-party-deluxe.json) |
 | Tetris Plus | 20712 | [20712-tetris-plus.json](./20712-tetris-plus.json) |
 | Tetris Plus | 254518 | [254518-tetris-plus.json](./254518-tetris-plus.json) |
@@ -6179,6 +6181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Council | 78547 | [78547-the-council.json](./78547-the-council.json) |
 | The Council of Hanwell | 89956 | [89956-the-council-of-hanwell.json](./89956-the-council-of-hanwell.json) |
 | The Council: Episode 2 - Hide and Seek | 101116 | [101116-the-council-episode-2-hide-and-seek.json](./101116-the-council-episode-2-hide-and-seek.json) |
+| The Council: Episode 3 - Ripples | 106296 | [106296-the-council-episode-3-ripples.json](./106296-the-council-episode-3-ripples.json) |
 | The Council: Episode 5 - Checkmate | 120976 | [120976-the-council-episode-5-checkmate.json](./120976-the-council-episode-5-checkmate.json) |
 | The Count | 18518 | [18518-the-count.json](./18518-the-count.json) |
 | The Count is Down for Blood | 411533 | [411533-the-count-is-down-for-blood.json](./411533-the-count-is-down-for-blood.json) |
@@ -10507,6 +10510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Light Corridor | 12438 | [12438-the-light-corridor.json](./12438-the-light-corridor.json) |
 | The Light Empire | 34245 | [34245-the-light-empire.json](./34245-the-light-empire.json) |
 | The Light Inside Us | 55922 | [55922-the-light-inside-us.json](./55922-the-light-inside-us.json) |
+| The Light Keeps Us Safe | 105498 | [105498-the-light-keeps-us-safe.json](./105498-the-light-keeps-us-safe.json) |
 | The Light of Celestia | 335268 | [335268-the-light-of-celestia.json](./335268-the-light-of-celestia.json) |
 | The Light Of Our Yearning | 382968 | [382968-the-light-of-our-yearning.json](./382968-the-light-of-our-yearning.json) |
 | The Light of the Darkness: Origins | 274568 | [274568-the-light-of-the-darkness-origins.json](./274568-the-light-of-the-darkness-origins.json) |
@@ -12584,6 +12588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Pearls of Borneo | 387749 | [387749-the-red-pearls-of-borneo.json](./387749-the-red-pearls-of-borneo.json) |
 | The Red Prison | 117802 | [117802-the-red-prison.json](./117802-the-red-prison.json) |
 | The Red Sea | 202335 | [202335-the-red-sea.json](./202335-the-red-sea.json) |
+| The Red Solstice | 6170 | [6170-the-red-solstice.json](./6170-the-red-solstice.json) |
 | The Red Square | 91344 | [91344-the-red-square.json](./91344-the-red-square.json) |
 | The Red Star | 20370 | [20370-the-red-star.json](./20370-the-red-star.json) |
 | The Red Stare | 28670 | [28670-the-red-stare.json](./28670-the-red-stare.json) |
@@ -15459,6 +15464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wishing Stone | 148901 | [148901-the-wishing-stone.json](./148901-the-wishing-stone.json) |
 | The Wit.nes | 79140 | [79140-the-wit-nes.json](./79140-the-wit-nes.json) |
 | The Witch | 292633 | [292633-the-witch.json](./292633-the-witch.json) |
+| The Witch & the 66 Mushrooms | 105643 | [105643-the-witch-and-the-66-mushrooms.json](./105643-the-witch-and-the-66-mushrooms.json) |
 | The Witch and Her Assistant | 183460 | [183460-the-witch-and-her-assistant.json](./183460-the-witch-and-her-assistant.json) |
 | The Witch and the Bottle of Concept | 272895 | [272895-the-witch-and-the-bottle-of-concept.json](./272895-the-witch-and-the-bottle-of-concept.json) |
 | The Witch and the Child | 315785 | [315785-the-witch-and-the-child.json](./315785-the-witch-and-the-child.json) |
@@ -21875,6 +21881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tournament Chess | 206080 | [206080-tournament-chess.json](./206080-tournament-chess.json) |
 | Tournament Chess II | 206081 | [206081-tournament-chess-ii.json](./206081-tournament-chess-ii.json) |
 | Tournament of Armistice: Preliminaries | 163853 | [163853-tournament-of-armistice-preliminaries.json](./163853-tournament-of-armistice-preliminaries.json) |
+| Tournament of Legends | 5239 | [5239-tournament-of-legends.json](./5239-tournament-of-legends.json) |
 | Tournament of Tamers | 157168 | [157168-tournament-of-tamers.json](./157168-tournament-of-tamers.json) |
 | Tournament Paintball VR | 159766 | [159766-tournament-paintball-vr.json](./159766-tournament-paintball-vr.json) |
 | Tournament Poker | 85974 | [85974-tournament-poker.json](./85974-tournament-poker.json) |
@@ -24715,6 +24722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Seekers: Visions of Gold | 64728 | [64728-treasure-seekers-visions-of-gold.json](./64728-treasure-seekers-visions-of-gold.json) |
 | Treasure Seekers: Visions of Gold HD | 24285 | [24285-treasure-seekers-visions-of-gold-hd.json](./24285-treasure-seekers-visions-of-gold-hd.json) |
 | Treasure Sprinter | 192265 | [192265-treasure-sprinter.json](./192265-treasure-sprinter.json) |
+| Treasure Stack | 107296 | [107296-treasure-stack.json](./107296-treasure-stack.json) |
 | Treasure Star | 247746 | [247746-treasure-star.json](./247746-treasure-star.json) |
 | Treasure Strike | 62110 | [62110-treasure-strike.json](./62110-treasure-strike.json) |
 | Treasure Tech | 140468 | [140468-treasure-tech.json](./140468-treasure-tech.json) |
