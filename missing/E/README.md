@@ -2124,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elle | 109416 | [109416-elle.json](./109416-elle.json) |
 | Elle | 171973 | [171973-elle.json](./171973-elle.json) |
 | Elle: Portal | 236146 | [236146-elle-portal.json](./236146-elle-portal.json) |
+| Ellen | 95623 | [95623-ellen.json](./95623-ellen.json) |
 | Ellen and the Degenerates RPG | 114542 | [114542-ellen-and-the-degenerates-rpg.json](./114542-ellen-and-the-degenerates-rpg.json) |
 | Ellen Whitaker's Horse Life | 92406 | [92406-ellen-whitakers-horse-life.json](./92406-ellen-whitakers-horse-life.json) |
 | Ellentis | 370178 | [370178-ellentis.json](./370178-ellentis.json) |
@@ -6449,6 +6450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expo. Decay | 185318 | [185318-expo-decay.json](./185318-expo-decay.json) |
 | Exposed Livestream | 360184 | [360184-exposed-livestream.json](./360184-exposed-livestream.json) |
 | Exposed Reality | 70375 | [70375-exposed-reality.json](./70375-exposed-reality.json) |
+| Exposure | 101244 | [101244-exposure.json](./101244-exposure.json) |
 | Exposure | 362267 | [362267-exposure.json](./362267-exposure.json) |
 | Exposure Office Simulator | 309892 | [309892-exposure-office-simulator.json](./309892-exposure-office-simulator.json) |
 | Express 404 | 415326 | [415326-express-404.json](./415326-express-404.json) |
