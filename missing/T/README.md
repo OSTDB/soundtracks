@@ -5861,6 +5861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chess Lv.100 | 128860 | [128860-the-chess-lv-100.json](./128860-the-chess-lv-100.json) |
 | The Chess Player | 380106 | [380106-the-chess-player.json](./380106-the-chess-player.json) |
 | The Chess Variants Club | 133095 | [133095-the-chess-variants-club.json](./133095-the-chess-variants-club.json) |
+| The Chessmaster | 12909 | [12909-the-chessmaster.json](./12909-the-chessmaster.json) |
 | The Chessmaster | 366555 | [366555-the-chessmaster.json](./366555-the-chessmaster.json) |
 | The Chessmaster | 366556 | [366556-the-chessmaster.json](./366556-the-chessmaster.json) |
 | The Chessmaster | 366559 | [366559-the-chessmaster.json](./366559-the-chessmaster.json) |
@@ -8437,6 +8438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guild 2: Platinium Edition | 53742 | [53742-the-guild-2-platinium-edition.json](./53742-the-guild-2-platinium-edition.json) |
 | The Guild 2: Renaissance | 11620 | [11620-the-guild-2-renaissance.json](./11620-the-guild-2-renaissance.json) |
 | The Guild 2: Venice | 9324 | [9324-the-guild-2-venice.json](./9324-the-guild-2-venice.json) |
+| The Guild 3 | 13165 | [13165-the-guild-3.json](./13165-the-guild-3.json) |
 | The Guild DS | 47880 | [47880-the-guild-ds.json](./47880-the-guild-ds.json) |
 | The Guild Manager | 404999 | [404999-the-guild-manager.json](./404999-the-guild-manager.json) |
 | The Guild of Thieves | 12126 | [12126-the-guild-of-thieves.json](./12126-the-guild-of-thieves.json) |
@@ -11443,6 +11445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of the Buttons Family | 101971 | [101971-the-mystery-of-the-buttons-family.json](./101971-the-mystery-of-the-buttons-family.json) |
 | The Mystery of the Crystal Portal | 88605 | [88605-the-mystery-of-the-crystal-portal.json](./88605-the-mystery-of-the-crystal-portal.json) |
 | The Mystery of the Crystal Portal: Beyond the Horizon | 140614 | [140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json](./140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json) |
+| The Mystery of the Druids | 12449 | [12449-the-mystery-of-the-druids.json](./12449-the-mystery-of-the-druids.json) |
 | The Mystery of the Hudson Case | 95337 | [95337-the-mystery-of-the-hudson-case.json](./95337-the-mystery-of-the-hudson-case.json) |
 | The Mystery of the Mary Celeste | 206229 | [206229-the-mystery-of-the-mary-celeste.json](./206229-the-mystery-of-the-mary-celeste.json) |
 | The Mystery of the Moon | 250828 | [250828-the-mystery-of-the-moon.json](./250828-the-mystery-of-the-moon.json) |
@@ -11472,7 +11475,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -11608,6 +11610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nile God | 318719 | [318719-the-nile-god.json](./318719-the-nile-god.json) |
 | The Nine | 89045 | [89045-the-nine.json](./89045-the-nine.json) |
 | The Nine Rebirths | 326291 | [326291-the-nine-rebirths.json](./326291-the-nine-rebirths.json) |
+| The Ninja | 12889 | [12889-the-ninja.json](./12889-the-ninja.json) |
 | The Ninja | 346067 | [346067-the-ninja.json](./346067-the-ninja.json) |
 | The Ninja Gaiden as Interpreted by MiniMacro Sound | 311650 | [311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json](./311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json) |
 | The Ninja of the 4 Seasons | 195518 | [195518-the-ninja-of-the-4-seasons.json](./195518-the-ninja-of-the-4-seasons.json) |
@@ -13369,6 +13372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: 70s, 80s, & 90s Stuff | 13124 | [13124-the-sims-3-70s-80s-and-90s-stuff.json](./13124-the-sims-3-70s-80s-and-90s-stuff.json) |
 | The Sims 3: Ambitions | 13098 | [13098-the-sims-3-ambitions.json](./13098-the-sims-3-ambitions.json) |
 | The Sims 3: Aurora Skies | 14583 | [14583-the-sims-3-aurora-skies.json](./14583-the-sims-3-aurora-skies.json) |
+| The Sims 3: Diesel Stuff | 13123 | [13123-the-sims-3-diesel-stuff.json](./13123-the-sims-3-diesel-stuff.json) |
 | The Sims 3: Expansion Bundle | 136301 | [136301-the-sims-3-expansion-bundle.json](./136301-the-sims-3-expansion-bundle.json) |
 | The Sims 3: Fast Lane Stuff | 13118 | [13118-the-sims-3-fast-lane-stuff.json](./13118-the-sims-3-fast-lane-stuff.json) |
 | The Sims 3: Into the Future | 13116 | [13116-the-sims-3-into-the-future.json](./13116-the-sims-3-into-the-future.json) |
@@ -13377,6 +13381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Lucky Palms | 14577 | [14577-the-sims-3-lucky-palms.json](./14577-the-sims-3-lucky-palms.json) |
 | The Sims 3: Lunar Lakes | 14573 | [14573-the-sims-3-lunar-lakes.json](./14573-the-sims-3-lunar-lakes.json) |
 | The Sims 3: Midnight Hollow | 14584 | [14584-the-sims-3-midnight-hollow.json](./14584-the-sims-3-midnight-hollow.json) |
+| The Sims 3: Movie Stuff | 13125 | [13125-the-sims-3-movie-stuff.json](./13125-the-sims-3-movie-stuff.json) |
 | The Sims 3: Outdoor Living Stuff | 13119 | [13119-the-sims-3-outdoor-living-stuff.json](./13119-the-sims-3-outdoor-living-stuff.json) |
 | The Sims 3: Pets | 13113 | [13113-the-sims-3-pets.json](./13113-the-sims-3-pets.json) |
 | The Sims 3: Pets | 228496 | [228496-the-sims-3-pets.json](./228496-the-sims-3-pets.json) |
@@ -13477,6 +13482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Parenthood | 28859 | [28859-the-sims-4-parenthood.json](./28859-the-sims-4-parenthood.json) |
 | The Sims 4: Party Essentials Kit | 296899 | [296899-the-sims-4-party-essentials-kit.json](./296899-the-sims-4-party-essentials-kit.json) |
 | The Sims 4: Pastel Pop Kit | 226791 | [226791-the-sims-4-pastel-pop-kit.json](./226791-the-sims-4-pastel-pop-kit.json) |
+| The Sims 4: Perfect Patio Stuff | 13148 | [13148-the-sims-4-perfect-patio-stuff.json](./13148-the-sims-4-perfect-patio-stuff.json) |
 | The Sims 4: Plus Cats & Dogs Bundle | 136109 | [136109-the-sims-4-plus-cats-and-dogs-bundle.json](./136109-the-sims-4-plus-cats-and-dogs-bundle.json) |
 | The Sims 4: Plus Eco Lifestyle Bundle | 166308 | [166308-the-sims-4-plus-eco-lifestyle-bundle.json](./166308-the-sims-4-plus-eco-lifestyle-bundle.json) |
 | The Sims 4: Plus Island Living Bundle | 136201 | [136201-the-sims-4-plus-island-living-bundle.json](./136201-the-sims-4-plus-island-living-bundle.json) |
@@ -13523,6 +13529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims Medieval: Pirates and Nobles | 13137 | [13137-the-sims-medieval-pirates-and-nobles.json](./13137-the-sims-medieval-pirates-and-nobles.json) |
 | The Sims Mobile | 28558 | [28558-the-sims-mobile.json](./28558-the-sims-mobile.json) |
 | The Sims Online | 13152 | [13152-the-sims-online.json](./13152-the-sims-online.json) |
+| The Sims Pet Stories | 13139 | [13139-the-sims-pet-stories.json](./13139-the-sims-pet-stories.json) |
 | The Sims Pool | 67873 | [67873-the-sims-pool.json](./67873-the-sims-pool.json) |
 | The Sims Social | 15748 | [15748-the-sims-social.json](./15748-the-sims-social.json) |
 | The Sims: 4 Sleek Bathroom Kit | 341860 | [341860-the-sims-4-sleek-bathroom-kit.json](./341860-the-sims-4-sleek-bathroom-kit.json) |
@@ -13786,6 +13793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spiegul Contest | 273244 | [273244-the-spiegul-contest.json](./273244-the-spiegul-contest.json) |
 | The Spiral Egg Challenge | 257527 | [257527-the-spiral-egg-challenge.json](./257527-the-spiral-egg-challenge.json) |
 | The Spiral Labyrinth | 149330 | [149330-the-spiral-labyrinth.json](./149330-the-spiral-labyrinth.json) |
+| The Spiral Scouts | 96200 | [96200-the-spiral-scouts.json](./96200-the-spiral-scouts.json) |
 | The Spire of Mech Zero | 321389 | [321389-the-spire-of-mech-zero.json](./321389-the-spire-of-mech-zero.json) |
 | The Spirit | 172144 | [172144-the-spirit.json](./172144-the-spirit.json) |
 | The Spirit and the Mouse | 134474 | [134474-the-spirit-and-the-mouse.json](./134474-the-spirit-and-the-mouse.json) |
@@ -19298,6 +19306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Hunters | 409703 | [409703-titan-hunters.json](./409703-titan-hunters.json) |
 | Titan Isles | 335131 | [335131-titan-isles.json](./335131-titan-isles.json) |
 | Titan Outpost | 113507 | [113507-titan-outpost.json](./113507-titan-outpost.json) |
+| Titan Quest | 99467 | [99467-titan-quest.json](./99467-titan-quest.json) |
 | Titan Quest Anniversary Edition | 32614 | [32614-titan-quest-anniversary-edition.json](./32614-titan-quest-anniversary-edition.json) |
 | Titan Quest Gold | 177057 | [177057-titan-quest-gold.json](./177057-titan-quest-gold.json) |
 | Titan Quest II | 261146 | [261146-titan-quest-ii.json](./261146-titan-quest-ii.json) |
@@ -21021,6 +21030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torpedorun | 58872 | [58872-torpedorun.json](./58872-torpedorun.json) |
 | TorpedoRun Naval War | 89525 | [89525-torpedorun-naval-war.json](./89525-torpedorun-naval-war.json) |
 | Torque | 179604 | [179604-torque.json](./179604-torque.json) |
+| Torque Drift | 95835 | [95835-torque-drift.json](./95835-torque-drift.json) |
 | Torque Drift 2 | 271277 | [271277-torque-drift-2.json](./271277-torque-drift-2.json) |
 | Torqued Up Legends | 141879 | [141879-torqued-up-legends.json](./141879-torqued-up-legends.json) |
 | Torrential | 232957 | [232957-torrential.json](./232957-torrential.json) |
