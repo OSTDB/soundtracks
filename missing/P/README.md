@@ -1192,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer War | 255754 | [255754-panzer-war.json](./255754-panzer-war.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
 | Panzerkampf | 282075 | [282075-panzerkampf.json](./282075-panzerkampf.json) |
+| Panzers East! | 24673 | [24673-panzers-east.json](./24673-panzers-east.json) |
 | Pao Pao Party | 184609 | [184609-pao-pao-party.json](./184609-pao-pao-party.json) |
 | Paon: Beyond the Pien | 153164 | [153164-paon-beyond-the-pien.json](./153164-paon-beyond-the-pien.json) |
 | Pãozito | 256120 | [256120-paozito.json](./256120-paozito.json) |
@@ -2284,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastel Lime | 210633 | [210633-pastel-lime.json](./210633-pastel-lime.json) |
 | Pastel Parade | 280466 | [280466-pastel-parade.json](./280466-pastel-parade.json) |
 | Pastel Putter | 218409 | [218409-pastel-putter.json](./218409-pastel-putter.json) |
+| Pastfinder | 24667 | [24667-pastfinder.json](./24667-pastfinder.json) |
 | Pastimes | 415198 | [415198-pastimes.json](./415198-pastimes.json) |
 | Pastimes - Game Box | 105822 | [105822-pastimes-game-box.json](./105822-pastimes-game-box.json) |
 | Pastopia | 325322 | [325322-pastopia.json](./325322-pastopia.json) |
@@ -3675,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persephone | 122151 | [122151-persephone.json](./122151-persephone.json) |
 | Persephone Volumes 1 to 3 | 262274 | [262274-persephone-volumes-1-to-3.json](./262274-persephone-volumes-1-to-3.json) |
 | Perseus | 274767 | [274767-perseus.json](./274767-perseus.json) |
+| Perseus & Andromeda | 24696 | [24696-perseus-and-andromeda.json](./24696-perseus-and-andromeda.json) |
 | Persevera | 264685 | [264685-persevera.json](./264685-persevera.json) |
 | Perseverance | 149218 | [149218-perseverance.json](./149218-perseverance.json) |
 | Perseverance: Part 2 | 171991 | [171991-perseverance-part-2.json](./171991-perseverance-part-2.json) |
@@ -9413,6 +9416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Pathways | 295386 | [295386-polar-pathways.json](./295386-polar-pathways.json) |
 | Polar Payne | 216341 | [216341-polar-payne.json](./216341-polar-payne.json) |
 | Polar Penguin | 239731 | [239731-polar-penguin.json](./239731-polar-penguin.json) |
+| Polar Pierre | 24676 | [24676-polar-pierre.json](./24676-polar-pierre.json) |
 | Polar Pwnd | 399457 | [399457-polar-pwnd.json](./399457-polar-pwnd.json) |
 | Polar Pwnd 2: Der Feather’s Revenge | 399458 | [399458-polar-pwnd-2-der-feather-s-revenge.json](./399458-polar-pwnd-2-der-feather-s-revenge.json) |
 | Polar Roller | 326682 | [326682-polar-roller.json](./326682-polar-roller.json) |
@@ -11263,6 +11267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President | 93038 | [93038-president.json](./93038-president.json) |
 | President 47 | 318435 | [318435-president-47.json](./318435-president-47.json) |
 | President card game | 99377 | [99377-president-card-game.json](./99377-president-card-game.json) |
+| President Elect | 24648 | [24648-president-elect.json](./24648-president-elect.json) |
 | President Erect VR | 30103 | [30103-president-erect-vr.json](./30103-president-erect-vr.json) |
 | President for a Day - Corruption | 35292 | [35292-president-for-a-day-corruption.json](./35292-president-for-a-day-corruption.json) |
 | President for a Day - Floodings | 35291 | [35291-president-for-a-day-floodings.json](./35291-president-for-a-day-floodings.json) |
