@@ -6529,7 +6529,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma+Elektron | 199564 | [199564-chroma-elektron.json](./199564-chroma-elektron.json) |
 | Chromacell | 290540 | [290540-chromacell.json](./290540-chromacell.json) |
 | Chromadrome | 73511 | [73511-chromadrome.json](./73511-chromadrome.json) |
-| ChromaGun | 23245 | [23245-chromagun.json](./23245-chromagun.json) |
 | ChromaGun 2: Dye Hard | 305224 | [305224-chromagun-2-dye-hard.json](./305224-chromagun-2-dye-hard.json) |
 | ChromaGun VR | 118742 | [118742-chromagun-vr.json](./118742-chromagun-vr.json) |
 | Chromahertz | 211739 | [211739-chromahertz.json](./211739-chromahertz.json) |
