@@ -3259,6 +3259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order please! | 216108 | [216108-order-please.json](./216108-order-please.json) |
 | Order Road | 162849 | [162849-order-road.json](./162849-order-road.json) |
 | Order Up VR! | 75093 | [75093-order-up-vr.json](./75093-order-up-vr.json) |
+| Order Up!! | 5088 | [5088-order-up.json](./5088-order-up.json) |
 | Order Us! | 264031 | [264031-order-us.json](./264031-order-us.json) |
 | Order: VR | 53093 | [53093-order-vr.json](./53093-order-vr.json) |
 | Order!! | 408868 | [408868-order.json](./408868-order.json) |
