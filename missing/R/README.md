@@ -8915,6 +8915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root After and Another | 72720 | [72720-root-after-and-another.json](./72720-root-after-and-another.json) |
 | Root Bear | 235214 | [235214-root-bear.json](./235214-root-bear.json) |
 | Root Beer on Tap | 115566 | [115566-root-beer-on-tap.json](./115566-root-beer-on-tap.json) |
+| Root Beer Tapper | 21869 | [21869-root-beer-tapper.json](./21869-root-beer-tapper.json) |
 | Root Connections | 249911 | [249911-root-connections.json](./249911-root-connections.json) |
 | Root Double: Before Crime * After Days | 79295 | [79295-root-double-before-crime-after-days.json](./79295-root-double-before-crime-after-days.json) |
 | Root Double: Before Crime * After Days - Xtend Edition | 33617 | [33617-root-double-before-crime-after-days-xtend-edition.json](./33617-root-double-before-crime-after-days-xtend-edition.json) |
