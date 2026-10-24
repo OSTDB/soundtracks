@@ -3497,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 20 | 114287 | [114287-fifa-20.json](./114287-fifa-20.json) |
 | FIFA 2000 | 229742 | [229742-fifa-2000.json](./229742-fifa-2000.json) |
 | FIFA 2001: Major League Soccer | 240243 | [240243-fifa-2001-major-league-soccer.json](./240243-fifa-2001-major-league-soccer.json) |
+| FIFA 2001: Major League Soccer | 698 | [698-fifa-2001-major-league-soccer.json](./698-fifa-2001-major-league-soccer.json) |
 | FIFA 21 | 134101 | [134101-fifa-21.json](./134101-fifa-21.json) |
 | FIFA 21: Legacy Edition | 136335 | [136335-fifa-21-legacy-edition.json](./136335-fifa-21-legacy-edition.json) |
 | FIFA 22 | 154986 | [154986-fifa-22.json](./154986-fifa-22.json) |
@@ -5908,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Bird | 298312 | [298312-flappy-bird.json](./298312-flappy-bird.json) |
 | Flappy Bird | 316744 | [316744-flappy-bird.json](./316744-flappy-bird.json) |
 | Flappy Bird | 339269 | [339269-flappy-bird.json](./339269-flappy-bird.json) |
+| Flappy Bird | 7671 | [7671-flappy-bird.json](./7671-flappy-bird.json) |
 | Flappy Bird GB | 297596 | [297596-flappy-bird-gb.json](./297596-flappy-bird-gb.json) |
 | Flappy Bird Ultra | 368522 | [368522-flappy-bird-ultra.json](./368522-flappy-bird-ultra.json) |
 | Flappy Bird: Testing | 218071 | [218071-flappy-bird-testing.json](./218071-flappy-bird-testing.json) |
@@ -8529,6 +8531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 6: Welcome Pack | 401829 | [401829-forza-horizon-6-welcome-pack.json](./401829-forza-horizon-6-welcome-pack.json) |
 | Forza Horizon: Limited Collector's Edition | 41594 | [41594-forza-horizon-limited-collectors-edition.json](./41594-forza-horizon-limited-collectors-edition.json) |
 | Forza Motorsport | 3073 | [3073-forza-motorsport.json](./3073-forza-motorsport.json) |
+| Forza Motorsport 2 | 3072 | [3072-forza-motorsport-2.json](./3072-forza-motorsport-2.json) |
 | Forza Motorsport 2: Limited Collector's Edition | 47469 | [47469-forza-motorsport-2-limited-collectors-edition.json](./47469-forza-motorsport-2-limited-collectors-edition.json) |
 | Forza Motorsport 2: The Complete Collection | 380672 | [380672-forza-motorsport-2-the-complete-collection.json](./380672-forza-motorsport-2-the-complete-collection.json) |
 | Forza Motorsport 2017: Jackie Chan DC Racing Oreca 07 | 274955 | [274955-forza-motorsport-2017-jackie-chan-dc-racing-oreca-07.json](./274955-forza-motorsport-2017-jackie-chan-dc-racing-oreca-07.json) |
