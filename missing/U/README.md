@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima Ratio Regum | 142341 | [142341-ultima-ratio-regum.json](./142341-ultima-ratio-regum.json) |
 | Ultima TD | 236261 | [236261-ultima-td.json](./236261-ultima-td.json) |
 | Ultima Underworld II: Labyrinth of Worlds | 2530 | [2530-ultima-underworld-ii-labyrinth-of-worlds.json](./2530-ultima-underworld-ii-labyrinth-of-worlds.json) |
+| Ultima V: Warriors of Destiny | 12229 | [12229-ultima-v-warriors-of-destiny.json](./12229-ultima-v-warriors-of-destiny.json) |
 | Ultima VI: The False Prophet | 12230 | [12230-ultima-vi-the-false-prophet.json](./12230-ultima-vi-the-false-prophet.json) |
 | Ultima VII: Part Two - Serpent Isle | 9574 | [9574-ultima-vii-part-two-serpent-isle.json](./9574-ultima-vii-part-two-serpent-isle.json) |
 | Ultima VII: Part Two - Serpent Isle: The Silver Seed | 80383 | [80383-ultima-vii-part-two-serpent-isle-the-silver-seed.json](./80383-ultima-vii-part-two-serpent-isle-the-silver-seed.json) |
