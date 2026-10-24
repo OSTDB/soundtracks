@@ -5097,6 +5097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheeky Cheerhythm | 412920 | [412920-cheeky-cheerhythm.json](./412920-cheeky-cheerhythm.json) |
 | Cheeky Chickens | 180029 | [180029-cheeky-chickens.json](./180029-cheeky-chickens.json) |
 | Cheeky Chickens 2 | 104603 | [104603-cheeky-chickens-2.json](./104603-cheeky-chickens-2.json) |
+| Cheeky Chooks | 111620 | [111620-cheeky-chooks.json](./111620-cheeky-chooks.json) |
 | Cheeky Mouse | 40024 | [40024-cheeky-mouse.json](./40024-cheeky-mouse.json) |
 | Cheeky Princess | 189074 | [189074-cheeky-princess.json](./189074-cheeky-princess.json) |
 | Cheep Cheep Challenge | 268181 | [268181-cheep-cheep-challenge.json](./268181-cheep-cheep-challenge.json) |
@@ -7246,6 +7247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Hotels & Retreats | 249189 | [249189-cities-skylines-hotels-and-retreats.json](./249189-cities-skylines-hotels-and-retreats.json) |
 | Cities: Skylines - Hotels & Retreats Bundle | 252592 | [252592-cities-skylines-hotels-and-retreats-bundle.json](./252592-cities-skylines-hotels-and-retreats-bundle.json) |
 | Cities: Skylines - Industries | 110890 | [110890-cities-skylines-industries.json](./110890-cities-skylines-industries.json) |
+| Cities: Skylines - Mass Transit | 27462 | [27462-cities-skylines-mass-transit.json](./27462-cities-skylines-mass-transit.json) |
 | Cities: Skylines - Mayor's Edition | 114766 | [114766-cities-skylines-mayors-edition.json](./114766-cities-skylines-mayors-edition.json) |
 | Cities: Skylines - Natural Disasters | 26141 | [26141-cities-skylines-natural-disasters.json](./26141-cities-skylines-natural-disasters.json) |
 | Cities: Skylines - Nintendo Switch Edition | 109464 | [109464-cities-skylines-nintendo-switch-edition.json](./109464-cities-skylines-nintendo-switch-edition.json) |
@@ -14772,6 +14774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crymelight: Tea Party Box | 399436 | [399436-crymelight-tea-party-box.json](./399436-crymelight-tea-party-box.json) |
 | Cryo | 374688 | [374688-cryo.json](./374688-cryo.json) |
 | Cryodeath VR | 235666 | [235666-cryodeath-vr.json](./235666-cryodeath-vr.json) |
+| CryoFall | 107712 | [107712-cryofall.json](./107712-cryofall.json) |
 | Cryogear | 123302 | [123302-cryogear.json](./123302-cryogear.json) |
 | Cryogenesis | 217413 | [217413-cryogenesis.json](./217413-cryogenesis.json) |
 | Cryogenics | 221846 | [221846-cryogenics.json](./221846-cryogenics.json) |
