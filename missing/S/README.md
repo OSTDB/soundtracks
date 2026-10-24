@@ -3944,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek and Find Adventures 3 | 206633 | [206633-seek-and-find-adventures-3.json](./206633-seek-and-find-adventures-3.json) |
 | Seek and Find Collection 1 | 146580 | [146580-seek-and-find-collection-1.json](./146580-seek-and-find-collection-1.json) |
 | Seek and Find Collection 2 | 146582 | [146582-seek-and-find-collection-2.json](./146582-seek-and-find-collection-2.json) |
+| Seek Etyliv | 88082 | [88082-seek-etyliv.json](./88082-seek-etyliv.json) |
 | Seek Girl | 114277 | [114277-seek-girl.json](./114277-seek-girl.json) |
 | Seek Girl 2 | 130249 | [130249-seek-girl-2.json](./130249-seek-girl-2.json) |
 | Seek Girl III | 127147 | [127147-seek-girl-iii.json](./127147-seek-girl-iii.json) |
@@ -9732,6 +9733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleskeleskelter | 234560 | [234560-skeleskeleskelter.json](./234560-skeleskeleskelter.json) |
 | Skelet_666 | 306380 | [306380-skelet-666.json](./306380-skelet-666.json) |
 | Skeletal Avenger | 136435 | [136435-skeletal-avenger.json](./136435-skeletal-avenger.json) |
+| Skeletal Dance Party | 101064 | [101064-skeletal-dance-party.json](./101064-skeletal-dance-party.json) |
 | Skeletal Dos Dreams | 176781 | [176781-skeletal-dos-dreams.json](./176781-skeletal-dos-dreams.json) |
 | Skeletal Skism | 186315 | [186315-skeletal-skism.json](./186315-skeletal-skism.json) |
 | Skeletery | 236756 | [236756-skeletery.json](./236756-skeletery.json) |
@@ -10803,6 +10805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Man: Rise Again | 323972 | [323972-slender-man-rise-again.json](./323972-slender-man-rise-again.json) |
 | Slender Multiplayer | 270731 | [270731-slender-multiplayer.json](./270731-slender-multiplayer.json) |
 | Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
+| Slender Rising | 95676 | [95676-slender-rising.json](./95676-slender-rising.json) |
 | Slender Threads | 127424 | [127424-slender-threads.json](./127424-slender-threads.json) |
 | Slender-Man | 64424 | [64424-slender-man.json](./64424-slender-man.json) |
 | Slender: Adrift | 321330 | [321330-slender-adrift.json](./321330-slender-adrift.json) |
@@ -15756,6 +15759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Frog! | 177350 | [177350-space-frog.json](./177350-space-frog.json) |
 | Space Frontier | 279529 | [279529-space-frontier.json](./279529-space-frontier.json) |
 | Space Frontier | 386380 | [386380-space-frontier.json](./386380-space-frontier.json) |
+| Space Frontier 2 | 101163 | [101163-space-frontier-2.json](./101163-space-frontier-2.json) |
 | Space Fun | 222966 | [222966-space-fun.json](./222966-space-fun.json) |
 | Space Funeral 2: of Rubies and Gold II - From Shadows We Rise | 360744 | [360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json](./360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json) |
 | Space Funeral 3: The Legend of Earth Birth | 127145 | [127145-space-funeral-3-the-legend-of-earth-birth.json](./127145-space-funeral-3-the-legend-of-earth-birth.json) |
@@ -17979,6 +17983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splashy Dots | 54679 | [54679-splashy-dots.json](./54679-splashy-dots.json) |
 | Splashy Duck | 84893 | [84893-splashy-duck.json](./84893-splashy-duck.json) |
 | Splashy Sharky | 97147 | [97147-splashy-sharky.json](./97147-splashy-sharky.json) |
+| Splashy Tiles: Bouncing to the Beat | 101659 | [101659-splashy-tiles-bouncing-to-the-beat.json](./101659-splashy-tiles-bouncing-to-the-beat.json) |
 | Splat | 107064 | [107064-splat.json](./107064-splat.json) |
 | Splat Arena | 275829 | [275829-splat-arena.json](./275829-splat-arena.json) |
 | Splat Cat | 203682 | [203682-splat-cat.json](./203682-splat-cat.json) |
@@ -20397,6 +20402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarMaker | 125965 | [125965-starmaker.json](./125965-starmaker.json) |
 | Starmaker Story | 337187 | [337187-starmaker-story.json](./337187-starmaker-story.json) |
 | StarMaker VR | 220501 | [220501-starmaker-vr.json](./220501-starmaker-vr.json) |
+| Starman | 88061 | [88061-starman.json](./88061-starman.json) |
 | Starman in space | 88240 | [88240-starman-in-space.json](./88240-starman-in-space.json) |
 | Starman: Tale of Light | 104681 | [104681-starman-tale-of-light.json](./104681-starman-tale-of-light.json) |
 | Starman's VR Experience | 89365 | [89365-starmans-vr-experience.json](./89365-starmans-vr-experience.json) |
@@ -21776,6 +21782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman World Battle | 287231 | [287231-stickman-world-battle.json](./287231-stickman-world-battle.json) |
 | Stickman WW2 | 290479 | [290479-stickman-ww2.json](./290479-stickman-ww2.json) |
 | Stickman Zombie Shooting 3D | 398420 | [398420-stickman-zombie-shooting-3d.json](./398420-stickman-zombie-shooting-3d.json) |
+| Stickman: Fidget Spinner Rush | 95641 | [95641-stickman-fidget-spinner-rush.json](./95641-stickman-fidget-spinner-rush.json) |
 | Stickman: Kill the Cook | 214056 | [214056-stickman-kill-the-cook.json](./214056-stickman-kill-the-cook.json) |
 | Stickman: Waves Of Doom | 378533 | [378533-stickman-waves-of-doom.json](./378533-stickman-waves-of-doom.json) |
 | Stickman's Arena | 220862 | [220862-stickmans-arena.json](./220862-stickmans-arena.json) |
