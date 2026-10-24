@@ -6301,6 +6301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chousoku Spinner | 66073 | [66073-chousoku-spinner.json](./66073-chousoku-spinner.json) |
 | Chowder: Bookin' Cook | 318111 | [318111-chowder-bookin-cook.json](./318111-chowder-bookin-cook.json) |
 | Chowder: Rump-A-Thump | 194844 | [194844-chowder-rump-a-thump.json](./194844-chowder-rump-a-thump.json) |
+| Chowderchu | 33815 | [33815-chowderchu.json](./33815-chowderchu.json) |
 | Chowdertwo | 29644 | [29644-chowdertwo.json](./29644-chowdertwo.json) |
 | Chowdown Kitty | 301284 | [301284-chowdown-kitty.json](./301284-chowdown-kitty.json) |
 | Choyo Girl Lilina | 338516 | [338516-choyo-girl-lilina.json](./338516-choyo-girl-lilina.json) |
@@ -7671,6 +7672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Swords and Beams | 338530 | [338530-clash-of-swords-and-beams.json](./338530-clash-of-swords-and-beams.json) |
 | Clash of Ten Sides | 348804 | [348804-clash-of-ten-sides.json](./348804-clash-of-ten-sides.json) |
 | Clash of the Metal | 173298 | [173298-clash-of-the-metal.json](./173298-clash-of-the-metal.json) |
+| Clash of the Monsters | 33804 | [33804-clash-of-the-monsters.json](./33804-clash-of-the-monsters.json) |
 | Clash of the Olympians | 384233 | [384233-clash-of-the-olympians.json](./384233-clash-of-the-olympians.json) |
 | Clash of the Talons | 135570 | [135570-clash-of-the-talons.json](./135570-clash-of-the-talons.json) |
 | Clash of the Undead | 231863 | [231863-clash-of-the-undead.json](./231863-clash-of-the-undead.json) |
@@ -9424,6 +9426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Chain | 111488 | [111488-color-chain.json](./111488-color-chain.json) |
 | Color Chains | 227905 | [227905-color-chains.json](./227905-color-chains.json) |
 | Color Chaos | 33943 | [33943-color-chaos.json](./33943-color-chaos.json) |
+| Color Chemistry | 33821 | [33821-color-chemistry.json](./33821-color-chemistry.json) |
 | Color Cingdom | 334788 | [334788-color-cingdom.json](./334788-color-cingdom.json) |
 | Color Clash | 369135 | [369135-color-clash.json](./369135-color-clash.json) |
 | Color Clash | 93980 | [93980-color-clash.json](./93980-color-clash.json) |
@@ -16438,6 +16441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyborg Lumberjack | 297083 | [297083-cyborg-lumberjack.json](./297083-cyborg-lumberjack.json) |
 | Cyborg Mechanic | 127017 | [127017-cyborg-mechanic.json](./127017-cyborg-mechanic.json) |
 | Cyborg Ninja vs. The Third Reich | 115585 | [115585-cyborg-ninja-vs-the-third-reich.json](./115585-cyborg-ninja-vs-the-third-reich.json) |
+| Cyborg Rage | 33861 | [33861-cyborg-rage.json](./33861-cyborg-rage.json) |
 | Cyborg_Lab | 111569 | [111569-cyborg-lab.json](./111569-cyborg-lab.json) |
 | Cyborg-Prototype | 309646 | [309646-cyborg-prototype.json](./309646-cyborg-prototype.json) |
 | Cyborg: Rise | 311492 | [311492-cyborg-rise.json](./311492-cyborg-rise.json) |
