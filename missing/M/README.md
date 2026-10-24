@@ -4032,6 +4032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mask of Fury | 125434 | [125434-mask-of-fury.json](./125434-mask-of-fury.json) |
 | Mask of Fury | 86419 | [86419-mask-of-fury.json](./86419-mask-of-fury.json) |
 | Mask of Lion | 233626 | [233626-mask-of-lion.json](./233626-mask-of-lion.json) |
+| Mask of Mists | 128299 | [128299-mask-of-mists.json](./128299-mask-of-mists.json) |
 | Mask of Sanity | 121696 | [121696-mask-of-sanity.json](./121696-mask-of-sanity.json) |
 | Mask of Souls | 391657 | [391657-mask-of-souls.json](./391657-mask-of-souls.json) |
 | Mask of the Plague Doctor | 129712 | [129712-mask-of-the-plague-doctor.json](./129712-mask-of-the-plague-doctor.json) |
@@ -12282,6 +12283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monarchies.io | 183415 | [183415-monarchies-io.json](./183415-monarchies-io.json) |
 | Monarchs at Play | 381206 | [381206-monarchs-at-play.json](./381206-monarchs-at-play.json) |
 | Monari Station | 395567 | [395567-monari-station.json](./395567-monari-station.json) |
+| Monark | 151159 | [151159-monark.json](./151159-monark.json) |
 | Monark: Deluxe Edition | 153017 | [153017-monark-deluxe-edition.json](./153017-monark-deluxe-edition.json) |
 | Monark: Limited Edition Box | 152340 | [152340-monark-limited-edition-box.json](./152340-monark-limited-edition-box.json) |
 | Monastery | 211971 | [211971-monastery.json](./211971-monastery.json) |
@@ -17058,6 +17060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Singing Monsters Karaoke | 412306 | [412306-my-singing-monsters-karaoke.json](./412306-my-singing-monsters-karaoke.json) |
 | My Singing Monsters Karaoke: Day One Pack | 414780 | [414780-my-singing-monsters-karaoke-day-one-pack.json](./414780-my-singing-monsters-karaoke-day-one-pack.json) |
 | My Singing Monsters Karaoke: Rare Pack | 414779 | [414779-my-singing-monsters-karaoke-rare-pack.json](./414779-my-singing-monsters-karaoke-rare-pack.json) |
+| My Singing Monsters Playground | 150135 | [150135-my-singing-monsters-playground.json](./150135-my-singing-monsters-playground.json) |
 | My Singing Monsters: Dawn of Fire | 89694 | [89694-my-singing-monsters-dawn-of-fire.json](./89694-my-singing-monsters-dawn-of-fire.json) |
 | My Singing Monsters: Thumpies | 289727 | [289727-my-singing-monsters-thumpies.json](./289727-my-singing-monsters-thumpies.json) |
 | My Sleeper | 345062 | [345062-my-sleeper.json](./345062-my-sleeper.json) |
