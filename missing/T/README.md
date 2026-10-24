@@ -1733,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tansaki Katamichi no Uchuu Tansaku | 206453 | [206453-tansaki-katamichi-no-uchuu-tansaku.json](./206453-tansaki-katamichi-no-uchuu-tansaku.json) |
 | Tǎnshuài de Xiǎohóngmào hé Ài Shuōhuǎng de Láng | 128330 | [128330-tanshuai-de-xiaohongmao-he-ai-shuohuang-de-lang.json](./128330-tanshuai-de-xiaohongmao-he-ai-shuohuang-de-lang.json) |
 | Tantal | 159801 | [159801-tantal.json](./159801-tantal.json) |
+| Tantalus | 28556 | [28556-tantalus.json](./28556-tantalus.json) |
 | Tantalus | 330577 | [330577-tantalus.json](./330577-tantalus.json) |
 | Tantalus | 377197 | [377197-tantalus.json](./377197-tantalus.json) |
 | Tantei Gakuen Q: Kioukan no Satsui | 359064 | [359064-tantei-gakuen-q-kioukan-no-satsui.json](./359064-tantei-gakuen-q-kioukan-no-satsui.json) |
@@ -2096,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarvos Desolation | 345044 | [345044-tarvos-desolation.json](./345044-tarvos-desolation.json) |
 | Tarzan | 25728 | [25728-tarzan.json](./25728-tarzan.json) |
 | Tarzan | 284219 | [284219-tarzan.json](./284219-tarzan.json) |
+| Tarzan | 28468 | [28468-tarzan.json](./28468-tarzan.json) |
 | Tarzan | 304200 | [304200-tarzan.json](./304200-tarzan.json) |
 | Tarzan Goes Ape! | 93160 | [93160-tarzan-goes-ape.json](./93160-tarzan-goes-ape.json) |
 | Tarzan Unleashed | 120245 | [120245-tarzan-unleashed.json](./120245-tarzan-unleashed.json) |
@@ -11372,7 +11374,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -13943,6 +13944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Swine | 137693 | [137693-the-swine.json](./137693-the-swine.json) |
 | The Switch-Worker | 184490 | [184490-the-switch-worker.json](./184490-the-switch-worker.json) |
 | The Swoop 64 | 145429 | [145429-the-swoop-64.json](./145429-the-swoop-64.json) |
+| The Sword | 28531 | [28531-the-sword.json](./28531-the-sword.json) |
 | The Sword and Peachblossom | 202639 | [202639-the-sword-and-peachblossom.json](./202639-the-sword-and-peachblossom.json) |
 | The Sword and the Fish | 233661 | [233661-the-sword-and-the-fish.json](./233661-the-sword-and-the-fish.json) |
 | The Sword and the Fox | 74851 | [74851-the-sword-and-the-fox.json](./74851-the-sword-and-the-fox.json) |
@@ -15148,6 +15150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wayhaven Chronicles: Book Three | 224639 | [224639-the-wayhaven-chronicles-book-three.json](./224639-the-wayhaven-chronicles-book-three.json) |
 | The Wayhaven Chronicles: Book Two | 130146 | [130146-the-wayhaven-chronicles-book-two.json](./130146-the-wayhaven-chronicles-book-two.json) |
 | The Waystone's Toll: A Diorama Mini-Dungeon | 139873 | [139873-the-waystones-toll-a-diorama-mini-dungeon.json](./139873-the-waystones-toll-a-diorama-mini-dungeon.json) |
+| The Wayward Isles | 28536 | [28536-the-wayward-isles.json](./28536-the-wayward-isles.json) |
 | The Wayward Tower | 329031 | [329031-the-wayward-tower.json](./329031-the-wayward-tower.json) |
 | The Weakened Demon Lord and His Servant's Business: Please Give Me Your White Fluid | 82769 | [82769-the-weakened-demon-lord-and-his-servants-business-please-give-me-your-white-fluid.json](./82769-the-weakened-demon-lord-and-his-servants-business-please-give-me-your-white-fluid.json) |
 | The Weakest Link & Friends | 86100 | [86100-the-weakest-link-and-friends.json](./86100-the-weakest-link-and-friends.json) |
@@ -18532,6 +18535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Travelling Blues | 120909 | [120909-time-travelling-blues.json](./120909-time-travelling-blues.json) |
 | Time Travelling Navy Seal Ninja Warrior | 119821 | [119821-time-travelling-navy-seal-ninja-warrior.json](./119821-time-travelling-navy-seal-ninja-warrior.json) |
 | Time Travelling Space Pirates | 176296 | [176296-time-travelling-space-pirates.json](./176296-time-travelling-space-pirates.json) |
+| Time Trax | 28484 | [28484-time-trax.json](./28484-time-trax.json) |
 | Time Treker | 283056 | [283056-time-treker.json](./283056-time-treker.json) |
 | Time Trials | 310788 | [310788-time-trials.json](./310788-time-trials.json) |
 | Time Trio | 358840 | [358840-time-trio.json](./358840-time-trio.json) |
