@@ -8066,6 +8066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Dungeon | 209485 | [209485-lust-dungeon.json](./209485-lust-dungeon.json) |
 | Lust Effect | 384751 | [384751-lust-effect.json](./384751-lust-effect.json) |
 | Lust Element: Season 1 | 262229 | [262229-lust-element-season-1.json](./262229-lust-element-season-1.json) |
+| Lust Epidemic | 127643 | [127643-lust-epidemic.json](./127643-lust-epidemic.json) |
 | Lust Eternal | 379529 | [379529-lust-eternal.json](./379529-lust-eternal.json) |
 | Lust for Darkness | 36815 | [36815-lust-for-darkness.json](./36815-lust-for-darkness.json) |
 | Lust for Darkness VR | 193508 | [193508-lust-for-darkness-vr.json](./193508-lust-for-darkness-vr.json) |
