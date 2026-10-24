@@ -6160,6 +6160,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big the Cat in Sonic the Hedgehog | 201296 | [201296-big-the-cat-in-sonic-the-hedgehog.json](./201296-big-the-cat-in-sonic-the-hedgehog.json) |
 | Big Theft Valkeala | 351638 | [351638-big-theft-valkeala.json](./351638-big-theft-valkeala.json) |
 | Big Theft Valkeala 3: Revenge | 395786 | [395786-big-theft-valkeala-3-revenge.json](./395786-big-theft-valkeala-3-revenge.json) |
+| Big Thinkers 1st Grade | 35061 | [35061-big-thinkers-1st-grade.json](./35061-big-thinkers-1st-grade.json) |
+| Big Thinkers Kindergarten | 35060 | [35060-big-thinkers-kindergarten.json](./35060-big-thinkers-kindergarten.json) |
 | Big Time Gangsta | 316758 | [316758-big-time-gangsta.json](./316758-big-time-gangsta.json) |
 | Big Time Rush: Backstage Pass | 47874 | [47874-big-time-rush-backstage-pass.json](./47874-big-time-rush-backstage-pass.json) |
 | Big Time Rush: Dance Party | 50625 | [50625-big-time-rush-dance-party.json](./50625-big-time-rush-dance-party.json) |
@@ -8737,6 +8739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockus' Adventures | 118344 | [118344-blockus-adventures.json](./118344-blockus-adventures.json) |
 | Blockville | 195449 | [195449-blockville.json](./195449-blockville.json) |
 | Blockwick | 74783 | [74783-blockwick.json](./74783-blockwick.json) |
+| Blockwick 2 | 35038 | [35038-blockwick-2.json](./35038-blockwick-2.json) |
 | Blockxy Puzzle Adventure | 328560 | [328560-blockxy-puzzle-adventure.json](./328560-blockxy-puzzle-adventure.json) |
 | Blocky | 100836 | [100836-blocky.json](./100836-blocky.json) |
 | Blocky | 234699 | [234699-blocky.json](./234699-blocky.json) |
@@ -12352,6 +12355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreakingPoint | 395095 | [395095-breakingpoint.json](./395095-breakingpoint.json) |
 | Breakline | 147279 | [147279-breakline.json](./147279-breakline.json) |
 | BreakLoop | 383953 | [383953-breakloop.json](./383953-breakloop.json) |
+| Breakneck | 33751 | [33751-breakneck.json](./33751-breakneck.json) |
 | Breakneck | 78593 | [78593-breakneck.json](./78593-breakneck.json) |
 | Breakneck City | 127730 | [127730-breakneck-city.json](./127730-breakneck-city.json) |
 | Breakout | 140838 | [140838-breakout.json](./140838-breakout.json) |
@@ -13601,6 +13605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddies in a Ball | 349905 | [349905-buddies-in-a-ball.json](./349905-buddies-in-a-ball.json) |
 | Buddies in Boxes | 244126 | [244126-buddies-in-boxes.json](./244126-buddies-in-boxes.json) |
 | Budding Destiny | 316649 | [316649-budding-destiny.json](./316649-budding-destiny.json) |
+| Buddy | 32558 | [32558-buddy.json](./32558-buddy.json) |
 | Buddy & Friends: Santa's Workshop Animal Party | 283299 | [283299-buddy-and-friends-santas-workshop-animal-party.json](./283299-buddy-and-friends-santas-workshop-animal-party.json) |
 | Buddy & Me | 61874 | [61874-buddy-and-me.json](./61874-buddy-and-me.json) |
 | Buddy Bash | 129091 | [129091-buddy-bash.json](./129091-buddy-bash.json) |
