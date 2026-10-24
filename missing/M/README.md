@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia II: Definitive Edition | 134071 | [134071-mafia-ii-definitive-edition.json](./134071-mafia-ii-definitive-edition.json) |
 | Mafia II: Director's Cut | 47385 | [47385-mafia-ii-directors-cut.json](./47385-mafia-ii-directors-cut.json) |
 | Mafia II: Greaser Pack | 275236 | [275236-mafia-ii-greaser-pack.json](./275236-mafia-ii-greaser-pack.json) |
+| Mafia II: Jimmy's Vendetta | 10525 | [10525-mafia-ii-jimmys-vendetta.json](./10525-mafia-ii-jimmys-vendetta.json) |
 | Mafia II: Made Man Pack | 275238 | [275238-mafia-ii-made-man-pack.json](./275238-mafia-ii-made-man-pack.json) |
 | Mafia II: Renegade Pack | 275237 | [275237-mafia-ii-renegade-pack.json](./275237-mafia-ii-renegade-pack.json) |
 | Mafia II: The Betrayal of Jimmy | 18395 | [18395-mafia-ii-the-betrayal-of-jimmy.json](./18395-mafia-ii-the-betrayal-of-jimmy.json) |
@@ -2965,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Luigi: Star Emblem | 418730 | [418730-mario-and-luigi-star-emblem.json](./418730-mario-and-luigi-star-emblem.json) |
 | Mario & Luigi: Superstar Saga | 270313 | [270313-mario-and-luigi-superstar-saga.json](./270313-mario-and-luigi-superstar-saga.json) |
 | Mario & Luigi: Superstar Saga | 3351 | [3351-mario-and-luigi-superstar-saga.json](./3351-mario-and-luigi-superstar-saga.json) |
+| Mario & Luigi: Superstar Saga + Bowser's Minions | 37151 | [37151-mario-and-luigi-superstar-saga-bowsers-minions.json](./37151-mario-and-luigi-superstar-saga-bowsers-minions.json) |
 | Mario & Luigi's Coin Chaos | 318039 | [318039-mario-and-luigis-coin-chaos.json](./318039-mario-and-luigis-coin-chaos.json) |
 | Mario & Luigi's Delightful Adventure | 307725 | [307725-mario-and-luigis-delightful-adventure.json](./307725-mario-and-luigis-delightful-adventure.json) |
 | Mario & Sonic | 324089 | [324089-mario-and-sonic.json](./324089-mario-and-sonic.json) |
@@ -6385,6 +6387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: Four Hounds | 215172 | [215172-mega-man-four-hounds.json](./215172-mega-man-four-hounds.json) |
 | Mega Man: Indonesian Artifact | 210506 | [210506-mega-man-indonesian-artifact.json](./210506-mega-man-indonesian-artifact.json) |
 | Mega Man: Limbo Edition | 269871 | [269871-mega-man-limbo-edition.json](./269871-mega-man-limbo-edition.json) |
+| Mega Man: Maverick Hunter X | 24275 | [24275-mega-man-maverick-hunter-x.json](./24275-mega-man-maverick-hunter-x.json) |
 | Mega Man: Micro World! | 335153 | [335153-mega-man-micro-world.json](./335153-mega-man-micro-world.json) |
 | Mega Man: Revenge of the Fallen | 406535 | [406535-mega-man-revenge-of-the-fallen.json](./406535-mega-man-revenge-of-the-fallen.json) |
 | Mega Man: Robot Master Mayhem | 335146 | [335146-mega-man-robot-master-mayhem.json](./335146-mega-man-robot-master-mayhem.json) |
@@ -10535,6 +10538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Wizards | 379861 | [379861-mining-wizards.json](./379861-mining-wizards.json) |
 | Minion Forest | 82333 | [82333-minion-forest.json](./82333-minion-forest.json) |
 | Minion Mail | 139671 | [139671-minion-mail.json](./139671-minion-mail.json) |
+| Minion Masters | 27150 | [27150-minion-masters.json](./27150-minion-masters.json) |
 | Minion Masters + Mordar's Malediction DLC | 173163 | [173163-minion-masters-mordars-malediction-dlc.json](./173163-minion-masters-mordars-malediction-dlc.json) |
 | Minion Masters: Arise! | 279249 | [279249-minion-masters-arise.json](./279249-minion-masters-arise.json) |
 | Minion Masters: Best Plan No Plan! | 330727 | [330727-minion-masters-best-plan-no-plan.json](./330727-minion-masters-best-plan-no-plan.json) |
@@ -11932,6 +11936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moira | 182523 | [182523-moira.json](./182523-moira.json) |
 | Möira | 18289 | [18289-moira.json](./18289-moira.json) |
 | Moira: Fated Twins | 121459 | [121459-moira-fated-twins.json](./121459-moira-fated-twins.json) |
+| Moirai | 22365 | [22365-moirai.json](./22365-moirai.json) |
 | Moirs | 169613 | [169613-moirs.json](./169613-moirs.json) |
 | Moji Blade | 421379 | [421379-moji-blade.json](./421379-moji-blade.json) |
 | Moji Bowling | 92115 | [92115-moji-bowling.json](./92115-moji-bowling.json) |
@@ -15191,6 +15196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mu Jiang | 241211 | [241211-mu-jiang.json](./241211-mu-jiang.json) |
 | MU Legend | 57366 | [57366-mu-legend.json](./57366-mu-legend.json) |
 | Mu Old Times | 331948 | [331948-mu-old-times.json](./331948-mu-old-times.json) |
+| MU Online | 26359 | [26359-mu-online.json](./26359-mu-online.json) |
 | Mu Origin 2 | 118923 | [118923-mu-origin-2.json](./118923-mu-origin-2.json) |
 | MU Origin 3 | 188380 | [188380-mu-origin-3.json](./188380-mu-origin-3.json) |
 | MU: Archangel | 214378 | [214378-mu-archangel.json](./214378-mu-archangel.json) |
