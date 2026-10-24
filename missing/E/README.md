@@ -1913,6 +1913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elements Voice Series vol.4 Yuri Shiratori - Rainbow Harmony | 63945 | [63945-elements-voice-series-vol-4-yuri-shiratori-rainbow-harmony.json](./63945-elements-voice-series-vol-4-yuri-shiratori-rainbow-harmony.json) |
 | Elements Voice Series Vol.5 Mariko Kouda: Welcome to the Marikotown! | 63938 | [63938-elements-voice-series-vol-5-mariko-kouda-welcome-to-the-marikotown.json](./63938-elements-voice-series-vol-5-mariko-kouda-welcome-to-the-marikotown.json) |
 | Elements: Epic Heroes | 34257 | [34257-elements-epic-heroes.json](./34257-elements-epic-heroes.json) |
+| Elements: Soul of Fire | 35972 | [35972-elements-soul-of-fire.json](./35972-elements-soul-of-fire.json) |
 | Elementum | 285025 | [285025-elementum.json](./285025-elementum.json) |
 | Elementyle | 309513 | [309513-elementyle.json](./309513-elementyle.json) |
 | EleMetals: Death Metal Death Match! | 132515 | [132515-elemetals-death-metal-death-match.json](./132515-elemetals-death-metal-death-match.json) |
