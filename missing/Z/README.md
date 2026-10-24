@@ -1200,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Battlefield Survivors | 262907 | [262907-zombie-battlefield-survivors.json](./262907-zombie-battlefield-survivors.json) |
 | Zombie Beach Party | 107008 | [107008-zombie-beach-party.json](./107008-zombie-beach-party.json) |
 | Zombie Beyond Terror: FPS Survival | 196829 | [196829-zombie-beyond-terror-fps-survival.json](./196829-zombie-beyond-terror-fps-survival.json) |
+| Zombie Birds First Encounter Halloween | 31512 | [31512-zombie-birds-first-encounter-halloween.json](./31512-zombie-birds-first-encounter-halloween.json) |
 | Zombie Blast Crew | 125194 | [125194-zombie-blast-crew.json](./125194-zombie-blast-crew.json) |
 | Zombie Blender | 190746 | [190746-zombie-blender.json](./190746-zombie-blender.json) |
 | Zombie Blitz | 329423 | [329423-zombie-blitz.json](./329423-zombie-blitz.json) |
