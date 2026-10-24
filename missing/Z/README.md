@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaleste | 329972 | [329972-zaleste.json](./329972-zaleste.json) |
 | Zalozhnik | 367007 | [367007-zalozhnik.json](./367007-zalozhnik.json) |
 | Zamakan | 253483 | [253483-zamakan.json](./253483-zamakan.json) |
+| Zamarian | 33860 | [33860-zamarian.json](./33860-zamarian.json) |
 | Zamba y San Martín | 83338 | [83338-zamba-y-san-martin.json](./83338-zamba-y-san-martin.json) |
 | Zamboni Challenge | 93814 | [93814-zamboni-challenge.json](./93814-zamboni-challenge.json) |
 | ZampanioSimulator | 260135 | [260135-zampaniosimulator.json](./260135-zampaniosimulator.json) |
