@@ -1912,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accelerate | 379458 | [379458-accelerate.json](./379458-accelerate.json) |
 | Accelerating Hotkeys | 188513 | [188513-accelerating-hotkeys.json](./188513-accelerating-hotkeys.json) |
 | Acceleration of Suguri | 78639 | [78639-acceleration-of-suguri.json](./78639-acceleration-of-suguri.json) |
+| Acceleration of Suguri 2 | 25702 | [25702-acceleration-of-suguri-2.json](./25702-acceleration-of-suguri-2.json) |
 | Acceleration of Suguri X-Edition | 44596 | [44596-acceleration-of-suguri-x-edition.json](./44596-acceleration-of-suguri-x-edition.json) |
 | Acceleration of Suguri: X-Edition HD | 30251 | [30251-acceleration-of-suguri-x-edition-hd.json](./30251-acceleration-of-suguri-x-edition-hd.json) |
 | Acceleration of Suguri: Y-Edition | 265071 | [265071-acceleration-of-suguri-y-edition.json](./265071-acceleration-of-suguri-y-edition.json) |
@@ -2958,6 +2959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -8601,6 +8603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Boss Battle Test | 214716 | [214716-another-boss-battle-test.json](./214716-another-boss-battle-test.json) |
 | Another Box of Hotcorn | 335299 | [335299-another-box-of-hotcorn.json](./335299-another-box-of-hotcorn.json) |
 | Another Brick in Space | 95601 | [95601-another-brick-in-space.json](./95601-another-brick-in-space.json) |
+| Another Brick in the Mall | 31515 | [31515-another-brick-in-the-mall.json](./31515-another-brick-in-the-mall.json) |
 | Another Card Game | 416585 | [416585-another-card-game.json](./416585-another-card-game.json) |
 | Another Case Solved | 38915 | [38915-another-case-solved.json](./38915-another-case-solved.json) |
 | Another Castle | 63660 | [63660-another-castle.json](./63660-another-castle.json) |
@@ -9756,6 +9759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc the Lad R | 26382 | [26382-arc-the-lad-r.json](./26382-arc-the-lad-r.json) |
 | Arc the Lad: Kijin Fukkatsu | 26373 | [26373-arc-the-lad-kijin-fukkatsu.json](./26373-arc-the-lad-kijin-fukkatsu.json) |
 | Arc the Lad: Monster Game with Casino Game | 44731 | [44731-arc-the-lad-monster-game-with-casino-game.json](./44731-arc-the-lad-monster-game-with-casino-game.json) |
+| Arc the Lad: Twilight of the Spirits | 21558 | [21558-arc-the-lad-twilight-of-the-spirits.json](./21558-arc-the-lad-twilight-of-the-spirits.json) |
 | Arc Tracker | 338265 | [338265-arc-tracker.json](./338265-arc-tracker.json) |
 | Arc Vector | 126409 | [126409-arc-vector.json](./126409-arc-vector.json) |
 | Arc Wizards 2 | 149893 | [149893-arc-wizards-2.json](./149893-arc-wizards-2.json) |
@@ -10993,6 +10997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: Survival Ascended | 250509 | [250509-ark-survival-ascended.json](./250509-ark-survival-ascended.json) |
 | Ark: Survival Evolved - Limited Collector's Edition | 136152 | [136152-ark-survival-evolved-limited-collectors-edition.json](./136152-ark-survival-evolved-limited-collectors-edition.json) |
 | Ark: Survival Evolved: Explorer's Edition | 118717 | [118717-ark-survival-evolved-explorers-edition.json](./118717-ark-survival-evolved-explorers-edition.json) |
+| Ark: Survival of the Fittest | 24412 | [24412-ark-survival-of-the-fittest.json](./24412-ark-survival-of-the-fittest.json) |
 | Ark: The Center | 169335 | [169335-ark-the-center.json](./169335-ark-the-center.json) |
 | Ark: The Center Ascended | 304378 | [304378-ark-the-center-ascended.json](./304378-ark-the-center-ascended.json) |
 | Ark: Ultimate Survivor Edition | 152344 | [152344-ark-ultimate-survivor-edition.json](./152344-ark-ultimate-survivor-edition.json) |
@@ -13207,6 +13212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Lulua: The Scion of Arland - Additional Character: Totori | 238050 | [238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json](./238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json) |
 | Atelier Lulua: The Scion of Arland - Digital Deluxe Edition | 118934 | [118934-atelier-lulua-the-scion-of-arland-digital-deluxe-edition.json](./118934-atelier-lulua-the-scion-of-arland-digital-deluxe-edition.json) |
 | Atelier Lulua: The Scion of Arland - Premium Box | 136723 | [136723-atelier-lulua-the-scion-of-arland-premium-box.json](./136723-atelier-lulua-the-scion-of-arland-premium-box.json) |
+| Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings | 36814 | [36814-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings.json](./36814-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Great Adventures in New Worlds Vol. 1 | 171395 | [171395-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-1.json](./171395-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-1.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Great Adventures in New Worlds Vol. 2 | 171342 | [171342-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-2.json](./171342-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-2.json) |
 | Atelier Marie | 329384 | [329384-atelier-marie.json](./329384-atelier-marie.json) |
