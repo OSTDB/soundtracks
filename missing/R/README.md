@@ -5166,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverb Arcade | 256145 | [256145-reverb-arcade.json](./256145-reverb-arcade.json) |
 | Reverberant | 128619 | [128619-reverberant.json](./128619-reverberant.json) |
 | Reverence | 193732 | [193732-reverence.json](./193732-reverence.json) |
+| Reverence: The Ultimate Combat Experience | 32493 | [32493-reverence-the-ultimate-combat-experience.json](./32493-reverence-the-ultimate-combat-experience.json) |
 | Reverend | 339622 | [339622-reverend.json](./339622-reverend.json) |
 | Reverend: Surf 'n Sin | 380554 | [380554-reverend-surf-n-sin.json](./380554-reverend-surf-n-sin.json) |
 | REVEREX: DX | 327457 | [327457-reverex-dx.json](./327457-reverex-dx.json) |
@@ -9139,6 +9140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rover Mechanic Challenge: ERC Competition | 168754 | [168754-rover-mechanic-challenge-erc-competition.json](./168754-rover-mechanic-challenge-erc-competition.json) |
 | Rover Mechanic Simulator: Perseverance Rover | 170991 | [170991-rover-mechanic-simulator-perseverance-rover.json](./170991-rover-mechanic-simulator-perseverance-rover.json) |
 | Rover Rescue | 10787 | [10787-rover-rescue.json](./10787-rover-rescue.json) |
+| Rover The Dragonslayer | 32498 | [32498-rover-the-dragonslayer.json](./32498-rover-the-dragonslayer.json) |
 | Rover Wars | 177039 | [177039-rover-wars.json](./177039-rover-wars.json) |
 | Rover Wars: Battle For Mars | 132380 | [132380-rover-wars-battle-for-mars.json](./132380-rover-wars-battle-for-mars.json) |
 | Rover’s Radventure: The New Millennium | 411733 | [411733-rover-s-radventure-the-new-millennium.json](./411733-rover-s-radventure-the-new-millennium.json) |
