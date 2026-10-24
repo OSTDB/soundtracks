@@ -2962,7 +2962,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -9137,6 +9136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apathy: Narugami Gakuen Nana Fushigi | 206171 | [206171-apathy-narugami-gakuen-nana-fushigi.json](./206171-apathy-narugami-gakuen-nana-fushigi.json) |
 | Apathy: Rental Kazoku | 212254 | [212254-apathy-rental-kazoku.json](./212254-apathy-rental-kazoku.json) |
 | Apathy: Shougakkou de Atta Kowai Hanashi - Getsuyoubi | 210824 | [210824-apathy-shougakkou-de-atta-kowai-hanashi-getsuyoubi.json](./210824-apathy-shougakkou-de-atta-kowai-hanashi-getsuyoubi.json) |
+| APB | 11905 | [11905-apb.json](./11905-apb.json) |
 | APB | 37097 | [37097-apb.json](./37097-apb.json) |
 | APB: All Points Bulletin | 23369 | [23369-apb-all-points-bulletin.json](./23369-apb-all-points-bulletin.json) |
 | APE | 404982 | [404982-ape.json](./404982-ape.json) |
@@ -9649,6 +9649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AR Defender | 78284 | [78284-ar-defender.json](./78284-ar-defender.json) |
 | AR Flappy | 232186 | [232186-ar-flappy.json](./232186-ar-flappy.json) |
 | AR Flower | 175134 | [175134-ar-flower.json](./175134-ar-flower.json) |
+| AR Games | 98851 | [98851-ar-games.json](./98851-ar-games.json) |
 | AR Invaders | 63248 | [63248-ar-invaders.json](./63248-ar-invaders.json) |
 | Ar Luminae | 221848 | [221848-ar-luminae.json](./221848-ar-luminae.json) |
 | AR Magic Color UP | 56487 | [56487-ar-magic-color-up.json](./56487-ar-magic-color-up.json) |
@@ -10583,6 +10584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archon | 375399 | [375399-archon.json](./375399-archon.json) |
 | Archon | 5539 | [5539-archon.json](./5539-archon.json) |
 | Archon Classic | 16208 | [16208-archon-classic.json](./16208-archon-classic.json) |
+| Archon II: Adept | 11912 | [11912-archon-ii-adept.json](./11912-archon-ii-adept.json) |
 | Archon Ultra | 47028 | [47028-archon-ultra.json](./47028-archon-ultra.json) |
 | Archon-9: Alien Defense | 150249 | [150249-archon-9-alien-defense.json](./150249-archon-9-alien-defense.json) |
 | Archon: Initiator | 339920 | [339920-archon-initiator.json](./339920-archon-initiator.json) |
