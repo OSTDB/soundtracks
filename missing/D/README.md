@@ -300,6 +300,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dai-Dai-Kakumei | 65394 | [65394-dai-dai-kakumei.json](./65394-dai-dai-kakumei.json) |
 | Daibadestructor | 371008 | [371008-daibadestructor.json](./371008-daibadestructor.json) |
 | Daibakushou: Jinsei Gekijoh | 44415 | [44415-daibakushou-jinsei-gekijoh.json](./44415-daibakushou-jinsei-gekijoh.json) |
+| Daibakushou: Jinsei Gekijoh - Doki-doki Seishun-hen | 38146 | [38146-daibakushou-jinsei-gekijoh-doki-doki-seishun-hen.json](./38146-daibakushou-jinsei-gekijoh-doki-doki-seishun-hen.json) |
+| Daibakushou: Jinsei Gekijoh - Ooedo Nikki | 38145 | [38145-daibakushou-jinsei-gekijoh-ooedo-nikki.json](./38145-daibakushou-jinsei-gekijoh-ooedo-nikki.json) |
 | Daibakushou: Jinsei Gekijoh - Zukkoke Salaryman-hen | 44416 | [44416-daibakushou-jinsei-gekijoh-zukkoke-salaryman-hen.json](./44416-daibakushou-jinsei-gekijoh-zukkoke-salaryman-hen.json) |
 | Daiblos Core | 413067 | [413067-daiblos-core.json](./413067-daiblos-core.json) |
 | Daibouken: Saint Elmos no Kiseki | 97337 | [97337-daibouken-saint-elmos-no-kiseki.json](./97337-daibouken-saint-elmos-no-kiseki.json) |
@@ -5514,6 +5516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Day | 356288 | [356288-derby-day.json](./356288-derby-day.json) |
 | Derby Dynasty: Horse Racing RPG | 415194 | [415194-derby-dynasty-horse-racing-rpg.json](./415194-derby-dynasty-horse-racing-rpg.json) |
 | Derby Heroines: Run, Bet, Win! | 412502 | [412502-derby-heroines-run-bet-win.json](./412502-derby-heroines-run-bet-win.json) |
+| Derby Jockey 2 | 38137 | [38137-derby-jockey-2.json](./38137-derby-jockey-2.json) |
 | Derby Jockey: Kishou he no Michi | 60463 | [60463-derby-jockey-kishou-he-no-michi.json](./60463-derby-jockey-kishou-he-no-michi.json) |
 | Derby Jockey: Kishu-ou he no Michi | 44417 | [44417-derby-jockey-kishu-ou-he-no-michi.json](./44417-derby-jockey-kishu-ou-he-no-michi.json) |
 | Derby Life: Ranch & Race | 415104 | [415104-derby-life-ranch-and-race.json](./415104-derby-life-ranch-and-race.json) |
@@ -5530,6 +5533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Stallion 04 | 123048 | [123048-derby-stallion-04.json](./123048-derby-stallion-04.json) |
 | Derby Stallion 2 | 405468 | [405468-derby-stallion-2.json](./405468-derby-stallion-2.json) |
 | Derby Stallion 64 | 47743 | [47743-derby-stallion-64.json](./47743-derby-stallion-64.json) |
+| Derby Stallion 96 | 38135 | [38135-derby-stallion-96.json](./38135-derby-stallion-96.json) |
 | Derby Stallion 96 Taiou: Shuboba Data | 234888 | [234888-derby-stallion-96-taiou-shuboba-data.json](./234888-derby-stallion-96-taiou-shuboba-data.json) |
 | Derby Stallion 96: 97 Nendo-ban | 234889 | [234889-derby-stallion-96-97-nendo-ban.json](./234889-derby-stallion-96-97-nendo-ban.json) |
 | Derby Stallion 98 | 38237 | [38237-derby-stallion-98.json](./38237-derby-stallion-98.json) |
@@ -5537,6 +5541,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Stallion DS | 123049 | [123049-derby-stallion-ds.json](./123049-derby-stallion-ds.json) |
 | Derby Stallion Expert Kit | 123055 | [123055-derby-stallion-expert-kit.json](./123055-derby-stallion-expert-kit.json) |
 | Derby Stallion Gold | 123050 | [123050-derby-stallion-gold.json](./123050-derby-stallion-gold.json) |
+| Derby Stallion II | 38136 | [38136-derby-stallion-ii.json](./38136-derby-stallion-ii.json) |
+| Derby Stallion III | 38134 | [38134-derby-stallion-iii.json](./38134-derby-stallion-iii.json) |
 | Derby Stallion P | 59387 | [59387-derby-stallion-p.json](./59387-derby-stallion-p.json) |
 | Derby Time 2006 | 269489 | [269489-derby-time-2006.json](./269489-derby-time-2006.json) |
 | Derby Time Online | 7287 | [7287-derby-time-online.json](./7287-derby-time-online.json) |
@@ -9353,7 +9359,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doka-chan no Onigokko | 234039 | [234039-doka-chan-no-onigokko.json](./234039-doka-chan-no-onigokko.json) |
 | Dokaben | 40103 | [40103-dokaben.json](./40103-dokaben.json) |
 | Dokapon | 79598 | [79598-dokapon.json](./79598-dokapon.json) |
+| Dokapon 3-2-1: Arashi wo Yobu Yuujou | 38133 | [38133-dokapon-3-2-1-arashi-wo-yobu-yuujou.json](./38133-dokapon-3-2-1-arashi-wo-yobu-yuujou.json) |
 | Dokapon DX: Wataru Sekai ha Oni Darake | 3888 | [3888-dokapon-dx-wataru-sekai-ha-oni-darake.json](./3888-dokapon-dx-wataru-sekai-ha-oni-darake.json) |
+| Dokapon Gaiden: Honoo no Audition | 38132 | [38132-dokapon-gaiden-honoo-no-audition.json](./38132-dokapon-gaiden-honoo-no-audition.json) |
 | Dokapon Journey | 21121 | [21121-dokapon-journey.json](./21121-dokapon-journey.json) |
 | Dokapon Kingdom: Connect | 234349 | [234349-dokapon-kingdom-connect.json](./234349-dokapon-kingdom-connect.json) |
 | Dokapon the World | 63153 | [63153-dokapon-the-world.json](./63153-dokapon-the-world.json) |
@@ -9566,6 +9574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolphy Dash | 104003 | [104003-dolphy-dash.json](./104003-dolphy-dash.json) |
 | Dolucky no A.League Soccer | 38208 | [38208-dolucky-no-a-league-soccer.json](./38208-dolucky-no-a-league-soccer.json) |
 | Dolucky no Kusayakiu | 38209 | [38209-dolucky-no-kusayakiu.json](./38209-dolucky-no-kusayakiu.json) |
+| Dolucky no Puzzle Tour '94 | 38131 | [38131-dolucky-no-puzzle-tour-94.json](./38131-dolucky-no-puzzle-tour-94.json) |
 | Dolven | 248022 | [248022-dolven.json](./248022-dolven.json) |
 | Døm Rusalok | 132625 | [132625-d-m-rusalok.json](./132625-d-m-rusalok.json) |
 | Dom-2 | 366376 | [366376-dom-2.json](./366376-dom-2.json) |
@@ -10642,9 +10651,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorachan | 178099 | [178099-dorachan.json](./178099-dorachan.json) |
 | Doradora Panic | 151679 | [151679-doradora-panic.json](./151679-doradora-panic.json) |
 | Doraemon | 79111 | [79111-doraemon.json](./79111-doraemon.json) |
+| Doraemon 2: Nobita no Toys Land Daibouken | 38128 | [38128-doraemon-2-nobita-no-toys-land-daibouken.json](./38128-doraemon-2-nobita-no-toys-land-daibouken.json) |
 | Doraemon 2: Nobita to Hikari no Shinden | 3473 | [3473-doraemon-2-nobita-to-hikari-no-shinden.json](./3473-doraemon-2-nobita-to-hikari-no-shinden.json) |
 | Doraemon 2: SOS! Otogi no Kuni | 78579 | [78579-doraemon-2-sos-otogi-no-kuni.json](./78579-doraemon-2-sos-otogi-no-kuni.json) |
 | Doraemon 3: Nobita no Machi SOS! | 3474 | [3474-doraemon-3-nobita-no-machi-sos.json](./3474-doraemon-3-nobita-no-machi-sos.json) |
+| Doraemon 3: Nobita to Toki no Hougyoku | 38127 | [38127-doraemon-3-nobita-to-toki-no-hougyoku.json](./38127-doraemon-3-nobita-to-toki-no-hougyoku.json) |
 | Doraemon 4: Nobita to Tsuki no Oukoku | 78578 | [78578-doraemon-4-nobita-to-tsuki-no-oukoku.json](./78578-doraemon-4-nobita-to-tsuki-no-oukoku.json) |
 | Doraemon Comic Traveler | 405668 | [405668-doraemon-comic-traveler.json](./405668-doraemon-comic-traveler.json) |
 | Doraemon Dokodemo Walker | 49228 | [49228-doraemon-dokodemo-walker.json](./49228-doraemon-dokodemo-walker.json) |
@@ -10691,6 +10702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon: Nobita to Buriki no Meikyuu | 349442 | [349442-doraemon-nobita-to-buriki-no-meikyuu.json](./349442-doraemon-nobita-to-buriki-no-meikyuu.json) |
 | Doraemon: Nobita to Fukkatsu no Hoshi | 91772 | [91772-doraemon-nobita-to-fukkatsu-no-hoshi.json](./91772-doraemon-nobita-to-fukkatsu-no-hoshi.json) |
 | Doraemon: Nobita to Tetsu-jin Heidan | 349424 | [349424-doraemon-nobita-to-tetsu-jin-heidan.json](./349424-doraemon-nobita-to-tetsu-jin-heidan.json) |
+| Doraemon: Nobita to Yousei no Kuni | 38130 | [38130-doraemon-nobita-to-yousei-no-kuni.json](./38130-doraemon-nobita-to-yousei-no-kuni.json) |
 | Doraemon: Nobita's Resident Evil | 144660 | [144660-doraemon-nobitas-resident-evil.json](./144660-doraemon-nobitas-resident-evil.json) |
 | Doraemon: Nobita's Resident Evil 2 | 238417 | [238417-doraemon-nobitas-resident-evil-2.json](./238417-doraemon-nobitas-resident-evil-2.json) |
 | Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai | 60545 | [60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json](./60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json) |
@@ -11997,6 +12009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ruins II | 328277 | [328277-dragon-ruins-ii.json](./328277-dragon-ruins-ii.json) |
 | Dragon Ruins II: Aftermath | 356739 | [356739-dragon-ruins-ii-aftermath.json](./356739-dragon-ruins-ii-aftermath.json) |
 | Dragon Run Classic | 218553 | [218553-dragon-run-classic.json](./218553-dragon-run-classic.json) |
+| Dragon Saber | 38097 | [38097-dragon-saber.json](./38097-dragon-saber.json) |
 | Dragon Saber: After Story of Dragon Spirit | 71944 | [71944-dragon-saber-after-story-of-dragon-spirit.json](./71944-dragon-saber-after-story-of-dragon-spirit.json) |
 | Dragon Saddle Melee | 157061 | [157061-dragon-saddle-melee.json](./157061-dragon-saddle-melee.json) |
 | Dragon Saga | 15888 | [15888-dragon-saga.json](./15888-dragon-saga.json) |
