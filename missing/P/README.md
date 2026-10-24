@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperama | 83225 | [83225-paperama.json](./83225-paperama.json) |
 | Paperback Adventures | 220621 | [220621-paperback-adventures.json](./220621-paperback-adventures.json) |
 | Paperback Vol. 2 | 207271 | [207271-paperback-vol-2.json](./207271-paperback-vol-2.json) |
+| Paperball | 128202 | [128202-paperball.json](./128202-paperball.json) |
 | Paperball: Cherry Sky Pack | 227155 | [227155-paperball-cherry-sky-pack.json](./227155-paperball-cherry-sky-pack.json) |
 | Paperbound | 21849 | [21849-paperbound.json](./21849-paperbound.json) |
 | Paperbound Brawlers | 115753 | [115753-paperbound-brawlers.json](./115753-paperbound-brawlers.json) |
@@ -8875,6 +8876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Box: Ruby & Sapphire | 93046 | [93046-pokemon-box-ruby-and-sapphire.json](./93046-pokemon-box-ruby-and-sapphire.json) |
 | Pokemon Breeder | 196863 | [196863-pokemon-breeder.json](./196863-pokemon-breeder.json) |
 | Pokémon Brilliant Diamond | 144051 | [144051-pokemon-brilliant-diamond.json](./144051-pokemon-brilliant-diamond.json) |
+| Pokémon Brilliant Diamond and Pokémon Shining Pearl Double Pack | 150549 | [150549-pokemon-brilliant-diamond-and-pokemon-shining-pearl-double-pack.json](./150549-pokemon-brilliant-diamond-and-pokemon-shining-pearl-double-pack.json) |
 | Pokemon Broken Circuit | 239197 | [239197-pokemon-broken-circuit.json](./239197-pokemon-broken-circuit.json) |
 | Pokémon Bronze | 129585 | [129585-pokemon-bronze.json](./129585-pokemon-bronze.json) |
 | Pokémon Brown | 129586 | [129586-pokemon-brown.json](./129586-pokemon-brown.json) |
@@ -14714,10 +14716,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Blox | 233410 | [233410-puzzle-blox.json](./233410-puzzle-blox.json) |
 | Puzzle Bobble 2X & Space Invaders | 79528 | [79528-puzzle-bobble-2x-and-space-invaders.json](./79528-puzzle-bobble-2x-and-space-invaders.json) |
 | Puzzle Bobble 2X/Bust-A-Move 2: Arcade Edition & Puzzle Bobble 3/Bust-A-Move 3: S-Tribute | 233580 | [233580-puzzle-bobble-2x-bust-a-move-2-arcade-edition-and-puzzle-bobble-3-bust-a-move-3-s-tribute.json](./233580-puzzle-bobble-2x-bust-a-move-2-arcade-edition-and-puzzle-bobble-3-bust-a-move-3-s-tribute.json) |
+| Puzzle Bobble 3D: Vacation Odyssey | 152214 | [152214-puzzle-bobble-3d-vacation-odyssey.json](./152214-puzzle-bobble-3d-vacation-odyssey.json) |
 | Puzzle Bobble DS | 416577 | [416577-puzzle-bobble-ds.json](./416577-puzzle-bobble-ds.json) |
 | Puzzle Bobble Everybubble! | 215033 | [215033-puzzle-bobble-everybubble.json](./215033-puzzle-bobble-everybubble.json) |
 | Puzzle Bobble Online | 64297 | [64297-puzzle-bobble-online.json](./64297-puzzle-bobble-online.json) |
 | Puzzle Bobble Pocket | 42774 | [42774-puzzle-bobble-pocket.json](./42774-puzzle-bobble-pocket.json) |
+| Puzzle Bobble VR: Vacation Odyssey | 149198 | [149198-puzzle-bobble-vr-vacation-odyssey.json](./149198-puzzle-bobble-vr-vacation-odyssey.json) |
 | Puzzle Bobble VS | 47567 | [47567-puzzle-bobble-vs.json](./47567-puzzle-bobble-vs.json) |
 | Puzzle Bobble: Disney Edition | 64308 | [64308-puzzle-bobble-disney-edition.json](./64308-puzzle-bobble-disney-edition.json) |
 | Puzzle Bonsai | 259558 | [259558-puzzle-bonsai.json](./259558-puzzle-bonsai.json) |
