@@ -6791,6 +6791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Army 3 | 15798 | [15798-americas-army-3.json](./15798-americas-army-3.json) |
 | America's Army: Operations | 137508 | [137508-americas-army-operations.json](./137508-americas-army-operations.json) |
 | America's Army: Proving Grounds | 7843 | [7843-americas-army-proving-grounds.json](./7843-americas-army-proving-grounds.json) |
+| America's Army: True Soldiers | 5482 | [5482-americas-army-true-soldiers.json](./5482-americas-army-true-soldiers.json) |
 | America's Greatest Arcade Hits 3D | 146195 | [146195-americas-greatest-arcade-hits-3d.json](./146195-americas-greatest-arcade-hits-3d.json) |
 | America's Greatest Game Shows: Wheel of Fortune & Jeopardy! | 112182 | [112182-americas-greatest-game-shows-wheel-of-fortune-and-jeopardy.json](./112182-americas-greatest-game-shows-wheel-of-fortune-and-jeopardy.json) |
 | America's Greatest Solitaire Games | 206114 | [206114-americas-greatest-solitaire-games.json](./206114-americas-greatest-solitaire-games.json) |
@@ -9783,6 +9784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Doors | 281344 | [281344-arc-doors.json](./281344-arc-doors.json) |
 | Arc Intelligence | 212905 | [212905-arc-intelligence.json](./212905-arc-intelligence.json) |
 | Arc Nova Base | 308358 | [308358-arc-nova-base.json](./308358-arc-nova-base.json) |
+| Arc of Alchemist | 106684 | [106684-arc-of-alchemist.json](./106684-arc-of-alchemist.json) |
 | Arc of Alchemist: Limited Edition | 167040 | [167040-arc-of-alchemist-limited-edition.json](./167040-arc-of-alchemist-limited-edition.json) |
 | Arc of Doom | 66571 | [66571-arc-of-doom.json](./66571-arc-of-doom.json) |
 | Arc of Templar | 95926 | [95926-arc-of-templar.json](./95926-arc-of-templar.json) |
@@ -14532,6 +14534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Tank | 78076 | [78076-awesome-tank.json](./78076-awesome-tank.json) |
 | Awesome Tanks | 313503 | [313503-awesome-tanks.json](./313503-awesome-tanks.json) |
 | Awesome Tanks 2 | 313506 | [313506-awesome-tanks-2.json](./313506-awesome-tanks-2.json) |
+| Awesomenauts Assemble! | 5595 | [5595-awesomenauts-assemble.json](./5595-awesomenauts-assemble.json) |
 | Awesomenauts Assemble!: Fully Loaded Pack | 90661 | [90661-awesomenauts-assemble-fully-loaded-pack.json](./90661-awesomenauts-assemble-fully-loaded-pack.json) |
 | Awesomenauts Overdrive | 109468 | [109468-awesomenauts-overdrive.json](./109468-awesomenauts-overdrive.json) |
 | Awesomenauts Starstorm | 109469 | [109469-awesomenauts-starstorm.json](./109469-awesomenauts-starstorm.json) |
