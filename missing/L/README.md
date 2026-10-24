@@ -7499,6 +7499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Luke | 200331 | [200331-lucky-luke.json](./200331-lucky-luke.json) |
 | Lucky Luke | 200334 | [200334-lucky-luke.json](./200334-lucky-luke.json) |
 | Lucky Luke | 265060 | [265060-lucky-luke.json](./265060-lucky-luke.json) |
+| Lucky Luke | 46664 | [46664-lucky-luke.json](./46664-lucky-luke.json) |
 | Lucky Luke & the Daltons | 56991 | [56991-lucky-luke-and-the-daltons.json](./56991-lucky-luke-and-the-daltons.json) |
 | Lucky Luke Shoot & Hit | 197849 | [197849-lucky-luke-shoot-and-hit.json](./197849-lucky-luke-shoot-and-hit.json) |
 | Lucky Luke: Desperado Train | 50027 | [50027-lucky-luke-desperado-train.json](./50027-lucky-luke-desperado-train.json) |
