@@ -7038,6 +7038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eldritch Zookeeper | 43074 | [43074-the-eldritch-zookeeper.json](./43074-the-eldritch-zookeeper.json) |
 | The Election Game | 12951 | [12951-the-election-game.json](./12951-the-election-game.json) |
 | The Electric Odyssey | 219554 | [219554-the-electric-odyssey.json](./219554-the-electric-odyssey.json) |
+| The Electric Shocktopus | 31481 | [31481-the-electric-shocktopus.json](./31481-the-electric-shocktopus.json) |
 | The Electric State: Kid Cosmo | 336003 | [336003-the-electric-state-kid-cosmo.json](./336003-the-electric-state-kid-cosmo.json) |
 | The Electric Yoyo | 221402 | [221402-the-electric-yoyo.json](./221402-the-electric-yoyo.json) |
 | The Electrifying Incident: A Monster Mini-Expedition | 332922 | [332922-the-electrifying-incident-a-monster-mini-expedition.json](./332922-the-electrifying-incident-a-monster-mini-expedition.json) |
@@ -7550,6 +7551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Days of Olin Earl | 399750 | [399750-the-final-days-of-olin-earl.json](./399750-the-final-days-of-olin-earl.json) |
 | The Final Days: Blood Dawn | 87959 | [87959-the-final-days-blood-dawn.json](./87959-the-final-days-blood-dawn.json) |
 | The Final Days: Eternal Night | 54873 | [54873-the-final-days-eternal-night.json](./54873-the-final-days-eternal-night.json) |
+| The Final Days: I'm Still Alive | 31476 | [31476-the-final-days-im-still-alive.json](./31476-the-final-days-im-still-alive.json) |
 | The Final Earth | 101741 | [101741-the-final-earth.json](./101741-the-final-earth.json) |
 | The Final Earth 2 | 126651 | [126651-the-final-earth-2.json](./126651-the-final-earth-2.json) |
 | The Final Exam | 318637 | [318637-the-final-exam.json](./318637-the-final-exam.json) |
@@ -7649,6 +7651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fisherman: Fishing Planet | 122433 | [122433-the-fisherman-fishing-planet.json](./122433-the-fisherman-fishing-planet.json) |
 | The Fisherman: Fishing Planet - Blue Crab Island Expansion | 167308 | [167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json](./167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json) |
 | The Fishery | 142156 | [142156-the-fishery.json](./142156-the-fishery.json) |
+| The Fishing Club 3D | 31467 | [31467-the-fishing-club-3d.json](./31467-the-fishing-club-3d.json) |
 | The Fissure | 407277 | [407277-the-fissure.json](./407277-the-fissure.json) |
 | The Fittest | 188371 | [188371-the-fittest.json](./188371-the-fittest.json) |
 | The Five Covens | 144864 | [144864-the-five-covens.json](./144864-the-five-covens.json) |
@@ -9083,10 +9086,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journey Home | 178529 | [178529-the-journey-home.json](./178529-the-journey-home.json) |
 | The Journey Home | 267299 | [267299-the-journey-home.json](./267299-the-journey-home.json) |
 | The Journey Home | 272169 | [272169-the-journey-home.json](./272169-the-journey-home.json) |
+| The Journey Home | 31525 | [31525-the-journey-home.json](./31525-the-journey-home.json) |
 | The Journey into the Virtual Void | 312167 | [312167-the-journey-into-the-virtual-void.json](./312167-the-journey-into-the-virtual-void.json) |
 | The Journey of Allen Strange: Match-Master | 273879 | [273879-the-journey-of-allen-strange-match-master.json](./273879-the-journey-of-allen-strange-match-master.json) |
 | The Journey of AutUmn | 164996 | [164996-the-journey-of-autumn.json](./164996-the-journey-of-autumn.json) |
 | The Journey of Elisa | 280916 | [280916-the-journey-of-elisa.json](./280916-the-journey-of-elisa.json) |
+| The Journey of Forgotten Memories | 31500 | [31500-the-journey-of-forgotten-memories.json](./31500-the-journey-of-forgotten-memories.json) |
 | The Journey of Ieser | 63537 | [63537-the-journey-of-ieser.json](./63537-the-journey-of-ieser.json) |
 | The Journey of Piggy | 287092 | [287092-the-journey-of-piggy.json](./287092-the-journey-of-piggy.json) |
 | The Journey of Salem | 184852 | [184852-the-journey-of-salem.json](./184852-the-journey-of-salem.json) |
@@ -20829,6 +20834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torrential | 232957 | [232957-torrential.json](./232957-torrential.json) |
 | Torres | 94251 | [94251-torres.json](./94251-torres.json) |
 | Torshtra Minkan Setsuwashuu yori: Kokuou no Musume | 386111 | [386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json](./386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json) |
+| Torsion | 31464 | [31464-torsion.json](./31464-torsion.json) |
 | Torso Tennis | 292429 | [292429-torso-tennis.json](./292429-torso-tennis.json) |
 | Torto: Cursed Divine | 140842 | [140842-torto-cursed-divine.json](./140842-torto-cursed-divine.json) |
 | Tortuga | 170232 | [170232-tortuga.json](./170232-tortuga.json) |
@@ -24723,6 +24729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triblock | 158032 | [158032-triblock.json](./158032-triblock.json) |
 | Tribloos | 129634 | [129634-tribloos.json](./129634-tribloos.json) |
 | Tribloos 3 | 104685 | [104685-tribloos-3.json](./104685-tribloos-3.json) |
+| Tribocalypse VR | 31497 | [31497-tribocalypse-vr.json](./31497-tribocalypse-vr.json) |
 | Tribond | 206075 | [206075-tribond.json](./206075-tribond.json) |
 | Triboo | 85455 | [85455-triboo.json](./85455-triboo.json) |
 | Tribulation | 160105 | [160105-tribulation.json](./160105-tribulation.json) |
@@ -25898,6 +25905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuby Bird | 40736 | [40736-tuby-bird.json](./40736-tuby-bird.json) |
 | Tuckerton Pool | 96288 | [96288-tuckerton-pool.json](./96288-tuckerton-pool.json) |
 | Tuda:Kuda | 244225 | [244225-tuda-kuda.json](./244225-tuda-kuda.json) |
+| Tuebor | 31482 | [31482-tuebor.json](./31482-tuebor.json) |
 | Tuff E Nuff | 46006 | [46006-tuff-e-nuff.json](./46006-tuff-e-nuff.json) |
 | Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
 | Tuffy the Corgi and the Tower of Bones | 61402 | [61402-tuffy-the-corgi-and-the-tower-of-bones.json](./61402-tuffy-the-corgi-and-the-tower-of-bones.json) |
@@ -26583,6 +26591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TwinCop | 51594 | [51594-twincop.json](./51594-twincop.json) |
 | Twine3D | 81782 | [81782-twine3d.json](./81782-twine3d.json) |
 | Twinetroid | 306584 | [306584-twinetroid.json](./306584-twinetroid.json) |
+| TwinForce | 31536 | [31536-twinforce.json](./31536-twinforce.json) |
 | TwinGrip | 373730 | [373730-twingrip.json](./373730-twingrip.json) |
 | Twiniwt | 95630 | [95630-twiniwt.json](./95630-twiniwt.json) |
 | Twinkle Crusaders GoGo! | 59417 | [59417-twinkle-crusaders-gogo.json](./59417-twinkle-crusaders-gogo.json) |
