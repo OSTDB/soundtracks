@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veronica Rivers: The Order of Conspiracy | 416145 | [416145-veronica-rivers-the-order-of-conspiracy.json](./416145-veronica-rivers-the-order-of-conspiracy.json) |
 | Veronikka's To-Do | 277948 | [277948-veronikkas-to-do.json](./277948-veronikkas-to-do.json) |
 | Veros Veros Veros | 389040 | [389040-veros-veros-veros.json](./389040-veros-veros-veros.json) |
+| Versailles 1685 | 2221 | [2221-versailles-1685.json](./2221-versailles-1685.json) |
 | Versailles II | 53873 | [53873-versailles-ii.json](./53873-versailles-ii.json) |
 | Versailles II: Testament of the King | 73252 | [73252-versailles-ii-testament-of-the-king.json](./73252-versailles-ii-testament-of-the-king.json) |
 | Versailles Mysteries - The Royal Spy | 53931 | [53931-versailles-mysteries-the-royal-spy.json](./53931-versailles-mysteries-the-royal-spy.json) |
@@ -3034,7 +3035,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyagers | 130215 | [130215-voyagers.json](./130215-voyagers.json) |
 | Voyageur | 103240 | [103240-voyageur.json](./103240-voyageur.json) |
 | VoYD | 89211 | [89211-voyd.json](./89211-voyd.json) |
+| Voyeur | 2220 | [2220-voyeur.json](./2220-voyeur.json) |
 | Voyeur Hotel | 272001 | [272001-voyeur-hotel.json](./272001-voyeur-hotel.json) |
+| Voyeur II | 2219 | [2219-voyeur-ii.json](./2219-voyeur-ii.json) |
 | Voyeur Sex Toons | 297932 | [297932-voyeur-sex-toons.json](./297932-voyeur-sex-toons.json) |
 | Voyeur Villa: Harem Manager | 296654 | [296654-voyeur-villa-harem-manager.json](./296654-voyeur-villa-harem-manager.json) |
 | Voyna | 224781 | [224781-voyna.json](./224781-voyna.json) |
