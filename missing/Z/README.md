@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeebo Sports Tênis | 91901 | [91901-zeebo-sports-tenis.json](./91901-zeebo-sports-tenis.json) |
 | Zeebo Sports Vôlei | 92374 | [92374-zeebo-sports-volei.json](./92374-zeebo-sports-volei.json) |
 | Zeemenshu -Aftermath- | 415463 | [415463-zeemenshu-aftermath.json](./415463-zeemenshu-aftermath.json) |
+| Zeepkist | 142800 | [142800-zeepkist.json](./142800-zeepkist.json) |
 | Zeeverse | 224119 | [224119-zeeverse.json](./224119-zeeverse.json) |
 | Zeewolf | 12629 | [12629-zeewolf.json](./12629-zeewolf.json) |
 | Zeewolf 2: Wild Justice | 28516 | [28516-zeewolf-2-wild-justice.json](./28516-zeewolf-2-wild-justice.json) |
@@ -1822,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Tycoon Friends | 299574 | [299574-zoo-tycoon-friends.json](./299574-zoo-tycoon-friends.json) |
 | Zoo Tycoon: Dinosaur Digs | 27807 | [27807-zoo-tycoon-dinosaur-digs.json](./27807-zoo-tycoon-dinosaur-digs.json) |
 | Zoo Tycoon: Marine Mania | 23769 | [23769-zoo-tycoon-marine-mania.json](./23769-zoo-tycoon-marine-mania.json) |
+| Zoo Tycoon: Ultimate Animal Collection | 74712 | [74712-zoo-tycoon-ultimate-animal-collection.json](./74712-zoo-tycoon-ultimate-animal-collection.json) |
 | Zoo Vet | 79929 | [79929-zoo-vet.json](./79929-zoo-vet.json) |
 | Zoo World VR | 142197 | [142197-zoo-world-vr.json](./142197-zoo-world-vr.json) |
 | Zoo-ika | 314581 | [314581-zoo-ika.json](./314581-zoo-ika.json) |
