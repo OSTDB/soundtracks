@@ -2311,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nethack: Falcon's Eye | 71342 | [71342-nethack-falcons-eye.json](./71342-nethack-falcons-eye.json) |
 | Nether Abyss | 424049 | [424049-nether-abyss.json](./424049-nether-abyss.json) |
 | Nether Dungeons | 323221 | [323221-nether-dungeons.json](./323221-nether-dungeons.json) |
+| Nether Earth | 38744 | [38744-nether-earth.json](./38744-nether-earth.json) |
 | Nether Gallery | 116111 | [116111-nether-gallery.json](./116111-nether-gallery.json) |
 | Nether Nightmare | 148843 | [148843-nether-nightmare.json](./148843-nether-nightmare.json) |
 | Nether Spirits: Beyond the Gate | 263769 | [263769-nether-spirits-beyond-the-gate.json](./263769-nether-spirits-beyond-the-gate.json) |
