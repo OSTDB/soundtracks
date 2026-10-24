@@ -7001,6 +7001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melting Hearts: Our Love Will Grow 2 | 33080 | [33080-melting-hearts-our-love-will-grow-2.json](./33080-melting-hearts-our-love-will-grow-2.json) |
 | Melting Moon | 280935 | [280935-melting-moon.json](./280935-melting-moon.json) |
 | Melting Point | 219668 | [219668-melting-point.json](./219668-melting-point.json) |
+| Melting World Online | 102380 | [102380-melting-world-online.json](./102380-melting-world-online.json) |
 | Meltmare | 402848 | [402848-meltmare.json](./402848-meltmare.json) |
 | Meltwater | 130717 | [130717-meltwater.json](./130717-meltwater.json) |
 | Melty Amethyst | 307869 | [307869-melty-amethyst.json](./307869-melty-amethyst.json) |
@@ -16470,6 +16471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Fair Link: Yousei Byakuya Monogatari | 416555 | [416555-my-fair-link-yousei-byakuya-monogatari.json](./416555-my-fair-link-yousei-byakuya-monogatari.json) |
 | My Fairy Girlfriend | 231424 | [231424-my-fairy-girlfriend.json](./231424-my-fairy-girlfriend.json) |
 | My Fairy Pony | 87180 | [87180-my-fairy-pony.json](./87180-my-fairy-pony.json) |
+| My Fairy Pony - Dress Up Game For Girls | 88045 | [88045-my-fairy-pony-dress-up-game-for-girls.json](./88045-my-fairy-pony-dress-up-game-for-girls.json) |
 | My Faithful and Loyal Wife Would Never Cheat on Me | 278413 | [278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json](./278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json) |
 | My Fake Boyfriend | 299457 | [299457-my-fake-boyfriend.json](./299457-my-fake-boyfriend.json) |
 | My Fake Marriage | 299500 | [299500-my-fake-marriage.json](./299500-my-fake-marriage.json) |
@@ -16952,6 +16954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Nuclear Octopus | 151516 | [151516-my-nuclear-octopus.json](./151516-my-nuclear-octopus.json) |
 | My Nurse Girlfriend | 205891 | [205891-my-nurse-girlfriend.json](./205891-my-nurse-girlfriend.json) |
 | My Oil Empire | 212480 | [212480-my-oil-empire.json](./212480-my-oil-empire.json) |
+| My Om Nom | 88980 | [88980-my-om-nom.json](./88980-my-om-nom.json) |
 | My Only | 375859 | [375859-my-only.json](./375859-my-only.json) |
 | My Only Sunshine | 122152 | [122152-my-only-sunshine.json](./122152-my-only-sunshine.json) |
 | My Otaku Academia | 190405 | [190405-my-otaku-academia.json](./190405-my-otaku-academia.json) |
@@ -16989,6 +16992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Place Diary | 405652 | [405652-my-place-diary.json](./405652-my-place-diary.json) |
 | My Planet [RTS] | 120717 | [120717-my-planet-rts.json](./120717-my-planet-rts.json) |
 | My Planet: Moon Child | 396004 | [396004-my-planet-moon-child.json](./396004-my-planet-moon-child.json) |
+| My PlayHome: Play Home Doll House | 100954 | [100954-my-playhome-play-home-doll-house.json](./100954-my-playhome-play-home-doll-house.json) |
 | My Pleasure: Season 3 | 270975 | [270975-my-pleasure-season-3.json](./270975-my-pleasure-season-3.json) |
 | My Plushy Shift | 324875 | [324875-my-plushy-shift.json](./324875-my-plushy-shift.json) |
 | My Pocket Arcade | 254316 | [254316-my-pocket-arcade.json](./254316-my-pocket-arcade.json) |
@@ -17161,6 +17165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Talking Cat Lily | 257255 | [257255-my-talking-cat-lily.json](./257255-my-talking-cat-lily.json) |
 | My Talking Dog 2 | 269099 | [269099-my-talking-dog-2.json](./269099-my-talking-dog-2.json) |
 | My Talking Girl | 300429 | [300429-my-talking-girl.json](./300429-my-talking-girl.json) |
+| My Talking Hank | 88875 | [88875-my-talking-hank.json](./88875-my-talking-hank.json) |
 | My Talking Pretty Girl | 300430 | [300430-my-talking-pretty-girl.json](./300430-my-talking-pretty-girl.json) |
 | My Talking Tom | 87024 | [87024-my-talking-tom.json](./87024-my-talking-tom.json) |
 | My Talking Tom 2 | 180604 | [180604-my-talking-tom-2.json](./180604-my-talking-tom-2.json) |
