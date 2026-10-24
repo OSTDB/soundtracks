@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain | 128617 | [128617-rain.json](./128617-rain.json) |
 | Rain | 135784 | [135784-rain.json](./135784-rain.json) |
 | Rain | 216251 | [216251-rain.json](./216251-rain.json) |
+| Rain | 2969 | [2969-rain.json](./2969-rain.json) |
 | Rain | 64745 | [64745-rain.json](./64745-rain.json) |
 | Rain & Chamomile Tea | 260948 | [260948-rain-and-chamomile-tea.json](./260948-rain-and-chamomile-tea.json) |
 | Rain & Sacrifice | 395119 | [395119-rain-and-sacrifice.json](./395119-rain-and-sacrifice.json) |
@@ -4468,6 +4469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 7 Teaser: Beginning Hour | 90566 | [90566-resident-evil-7-teaser-beginning-hour.json](./90566-resident-evil-7-teaser-beginning-hour.json) |
 | Resident Evil 7: Biohazard - Banned Footage Vol. 2 | 27019 | [27019-resident-evil-7-biohazard-banned-footage-vol-2.json](./27019-resident-evil-7-biohazard-banned-footage-vol-2.json) |
 | Resident Evil 7: Biohazard - Cloud | 102075 | [102075-resident-evil-7-biohazard-cloud.json](./102075-resident-evil-7-biohazard-cloud.json) |
+| Resident Evil 7: Biohazard - End of Zoe | 75236 | [75236-resident-evil-7-biohazard-end-of-zoe.json](./75236-resident-evil-7-biohazard-end-of-zoe.json) |
 | Resident Evil 7: Biohazard - Gold Edition | 57692 | [57692-resident-evil-7-biohazard-gold-edition.json](./57692-resident-evil-7-biohazard-gold-edition.json) |
 | Resident Evil 7: Biohazard - Gold Edition Grotesque Version | 167065 | [167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json](./167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json) |
 | Resident Evil 7: Biohazard - Not A Hero | 27395 | [27395-resident-evil-7-biohazard-not-a-hero.json](./27395-resident-evil-7-biohazard-not-a-hero.json) |
@@ -4507,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Code - Madman | 387029 | [387029-resident-evil-code-madman.json](./387029-resident-evil-code-madman.json) |
 | Resident Evil: Cold Blood | 222311 | [222311-resident-evil-cold-blood.json](./222311-resident-evil-cold-blood.json) |
 | Resident Evil: Confidential Report | 251364 | [251364-resident-evil-confidential-report.json](./251364-resident-evil-confidential-report.json) |
+| Resident Evil: Dead Aim | 971 | [971-resident-evil-dead-aim.json](./971-resident-evil-dead-aim.json) |
 | Resident Evil: Deadly Silence | 20456 | [20456-resident-evil-deadly-silence.json](./20456-resident-evil-deadly-silence.json) |
 | Resident Evil: Degeneration | 25817 | [25817-resident-evil-degeneration.json](./25817-resident-evil-degeneration.json) |
 | Resident Evil: Deluxe Origins Bundle | 82423 | [82423-resident-evil-deluxe-origins-bundle.json](./82423-resident-evil-deluxe-origins-bundle.json) |
@@ -6473,6 +6476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk System | 117781 | [117781-risk-system.json](./117781-risk-system.json) |
 | Risk your life to get your dinner back Nyanzou action game | 231070 | [231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json](./231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json) |
 | Risk: Factions | 3693 | [3693-risk-factions.json](./3693-risk-factions.json) |
+| Risk: Global Domination | 121346 | [121346-risk-global-domination.json](./121346-risk-global-domination.json) |
 | Risk: Global Domination | 19184 | [19184-risk-global-domination.json](./19184-risk-global-domination.json) |
 | Risk: Global Domination - Advanced Map Pack | 226941 | [226941-risk-global-domination-advanced-map-pack.json](./226941-risk-global-domination-advanced-map-pack.json) |
 | Risk: Global Domination - Countries & Continents 2 Map Pack | 164455 | [164455-risk-global-domination-countries-and-continents-2-map-pack.json](./164455-risk-global-domination-countries-and-continents-2-map-pack.json) |
