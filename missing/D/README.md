@@ -3058,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising 2: Case Zero | 20409 | [20409-dead-rising-2-case-zero.json](./20409-dead-rising-2-case-zero.json) |
 | Dead Rising 2: Off the Record | 5924 | [5924-dead-rising-2-off-the-record.json](./5924-dead-rising-2-off-the-record.json) |
 | Dead Rising 3 | 3199 | [3199-dead-rising-3.json](./3199-dead-rising-3.json) |
+| Dead Rising 3: Apocalypse Edition | 21611 | [21611-dead-rising-3-apocalypse-edition.json](./21611-dead-rising-3-apocalypse-edition.json) |
 | Dead Rising 3: Chaos Rising | 20940 | [20940-dead-rising-3-chaos-rising.json](./20940-dead-rising-3-chaos-rising.json) |
 | Dead Rising 3: Day One 2013 Edition | 281905 | [281905-dead-rising-3-day-one-2013-edition.json](./281905-dead-rising-3-day-one-2013-edition.json) |
 | Dead Rising 3: Fallen Angel | 20938 | [20938-dead-rising-3-fallen-angel.json](./20938-dead-rising-3-fallen-angel.json) |
@@ -3123,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Spin | 404215 | [404215-dead-spin.json](./404215-dead-spin.json) |
 | Dead Spreading | 261871 | [261871-dead-spreading.json](./261871-dead-spreading.json) |
 | Dead Spreading: Survival | 239911 | [239911-dead-spreading-survival.json](./239911-dead-spreading-survival.json) |
+| Dead Star | 21960 | [21960-dead-star.json](./21960-dead-star.json) |
 | Dead Station | 225883 | [225883-dead-station.json](./225883-dead-station.json) |
 | Dead Station 2 | 305410 | [305410-dead-station-2.json](./305410-dead-station-2.json) |
 | Dead Stop | 34298 | [34298-dead-stop.json](./34298-dead-stop.json) |
@@ -6147,6 +6149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destructor2D | 404984 | [404984-destructor2d.json](./404984-destructor2d.json) |
 | Destructure: Among Debris | 189006 | [189006-destructure-among-debris.json](./189006-destructure-among-debris.json) |
 | Desvelado | 295592 | [295592-desvelado.json](./295592-desvelado.json) |
+| Desync | 20918 | [20918-desync.json](./20918-desync.json) |
 | Desynced | 230222 | [230222-desynced.json](./230222-desynced.json) |
 | Detach Metroid | 328683 | [328683-detach-metroid.json](./328683-detach-metroid.json) |
 | Detached | 280423 | [280423-detached.json](./280423-detached.json) |
@@ -7155,6 +7158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dogs: Streetbusters | 50160 | [50160-dig-dogs-streetbusters.json](./50160-dig-dogs-streetbusters.json) |
 | Dig Down | 368689 | [368689-dig-down.json](./368689-dig-down.json) |
 | Dig Dug | 218861 | [218861-dig-dug.json](./218861-dig-dug.json) |
+| Dig Dug | 218867 | [218867-dig-dug.json](./218867-dig-dug.json) |
 | Dig Dug Arrangement | 132160 | [132160-dig-dug-arrangement.json](./132160-dig-dug-arrangement.json) |
 | Dig Dug Arrangement | 178410 | [178410-dig-dug-arrangement.json](./178410-dig-dug-arrangement.json) |
 | Dig Dug Deeper | 2737 | [2737-dig-dug-deeper.json](./2737-dig-dug-deeper.json) |
@@ -8185,6 +8189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 7: Vows of the Virtueless - Limited Edition | 283125 | [283125-disgaea-7-vows-of-the-virtueless-limited-edition.json](./283125-disgaea-7-vows-of-the-virtueless-limited-edition.json) |
 | Disgaea 7: Vows of the Virtueless - Season Pass | 270287 | [270287-disgaea-7-vows-of-the-virtueless-season-pass.json](./270287-disgaea-7-vows-of-the-virtueless-season-pass.json) |
 | Disgaea D2: A Brighter Darkness | 7299 | [7299-disgaea-d2-a-brighter-darkness.json](./7299-disgaea-d2-a-brighter-darkness.json) |
+| Disgaea DS | 21056 | [21056-disgaea-ds.json](./21056-disgaea-ds.json) |
 | Disgaea Infinite | 21742 | [21742-disgaea-infinite.json](./21742-disgaea-infinite.json) |
 | Disgaea Mayhem | 335576 | [335576-disgaea-mayhem.json](./335576-disgaea-mayhem.json) |
 | Disgaea PC | 34392 | [34392-disgaea-pc.json](./34392-disgaea-pc.json) |
@@ -11746,6 +11751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Extreme Butouden | 20033 | [20033-dragon-ball-z-extreme-butouden.json](./20033-dragon-ball-z-extreme-butouden.json) |
 | Dragon Ball Z: Final Bout | 229063 | [229063-dragon-ball-z-final-bout.json](./229063-dragon-ball-z-final-bout.json) |
 | Dragon Ball Z: Gekitou Tenkaichi Budoukai | 2578 | [2578-dragon-ball-z-gekitou-tenkaichi-budoukai.json](./2578-dragon-ball-z-gekitou-tenkaichi-budoukai.json) |
+| Dragon Ball Z: Harukanaru Densetsu | 21426 | [21426-dragon-ball-z-harukanaru-densetsu.json](./21426-dragon-ball-z-harukanaru-densetsu.json) |
 | Dragon Ball Z: Hyper Dimension | 270755 | [270755-dragon-ball-z-hyper-dimension.json](./270755-dragon-ball-z-hyper-dimension.json) |
 | Dragon Ball Z: Idainaru Son Goku Densetsu | 37599 | [37599-dragon-ball-z-idainaru-son-goku-densetsu.json](./37599-dragon-ball-z-idainaru-son-goku-densetsu.json) |
 | Dragon Ball Z: Infinite World | 2570 | [2570-dragon-ball-z-infinite-world.json](./2570-dragon-ball-z-infinite-world.json) |
@@ -15474,6 +15480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 8 | 6976 | [6976-dynasty-warriors-8.json](./6976-dynasty-warriors-8.json) |
 | Dynasty Warriors 8: Empires - Free Alliances Version | 221032 | [221032-dynasty-warriors-8-empires-free-alliances-version.json](./221032-dynasty-warriors-8-empires-free-alliances-version.json) |
 | Dynasty Warriors 8: Wang Yuanji 'Rorona' Costume | 306771 | [306771-dynasty-warriors-8-wang-yuanji-rorona-costume.json](./306771-dynasty-warriors-8-wang-yuanji-rorona-costume.json) |
+| Dynasty Warriors 8: Xtreme Legends Complete Edition | 21712 | [21712-dynasty-warriors-8-xtreme-legends-complete-edition.json](./21712-dynasty-warriors-8-xtreme-legends-complete-edition.json) |
 | Dynasty Warriors 8: Xtreme Legends Definitive Edition | 111063 | [111063-dynasty-warriors-8-xtreme-legends-definitive-edition.json](./111063-dynasty-warriors-8-xtreme-legends-definitive-edition.json) |
 | Dynasty Warriors 8: Zhao Yun 'Ibuki' Costume | 306779 | [306779-dynasty-warriors-8-zhao-yun-ibuki-costume.json](./306779-dynasty-warriors-8-zhao-yun-ibuki-costume.json) |
 | Dynasty Warriors 9 Mobile | 116235 | [116235-dynasty-warriors-9-mobile.json](./116235-dynasty-warriors-9-mobile.json) |
