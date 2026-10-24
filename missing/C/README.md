@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Super Mario Bros. Wii | 387504 | [387504-cannon-super-mario-bros-wii.json](./387504-cannon-super-mario-bros-wii.json) |
 | Cannon Target | 253413 | [253413-cannon-target.json](./253413-cannon-target.json) |
 | CannonBall | 195227 | [195227-cannonball.json](./195227-cannonball.json) |
+| Cannonball Blitz | 21920 | [21920-cannonball-blitz.json](./21920-cannonball-blitz.json) |
 | Cannonball Commander | 90519 | [90519-cannonball-commander.json](./90519-cannonball-commander.json) |
 | Cannonball Crew | 328858 | [328858-cannonball-crew.json](./328858-cannonball-crew.json) |
 | Cannonball Follies 2 | 335471 | [335471-cannonball-follies-2.json](./335471-cannonball-follies-2.json) |
@@ -1232,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canyon Bomber | 17017 | [17017-canyon-bomber.json](./17017-canyon-bomber.json) |
 | Canyon Capers: Rio Fever | 25515 | [25515-canyon-capers-rio-fever.json](./25515-canyon-capers-rio-fever.json) |
 | Canyon Carnage | 420503 | [420503-canyon-carnage.json](./420503-canyon-carnage.json) |
+| Canyon Climber | 21921 | [21921-canyon-climber.json](./21921-canyon-climber.json) |
 | Canyon Defense | 186125 | [186125-canyon-defense.json](./186125-canyon-defense.json) |
 | Canyon Defense 2 | 400671 | [400671-canyon-defense-2.json](./400671-canyon-defense-2.json) |
 | Canyon Miner: Minecart Rush | 233110 | [233110-canyon-miner-minecart-rush.json](./233110-canyon-miner-minecart-rush.json) |
@@ -8326,6 +8328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clonk Rage | 26429 | [26429-clonk-rage.json](./26429-clonk-rage.json) |
 | Clop | 64819 | [64819-clop.json](./64819-clop.json) |
 | Clorox: Sparkling Sudoku | 263433 | [263433-clorox-sparkling-sudoku.json](./263433-clorox-sparkling-sudoku.json) |
+| Close Assault | 21923 | [21923-close-assault.json](./21923-close-assault.json) |
 | Close Call Extreme | 81003 | [81003-close-call-extreme.json](./81003-close-call-extreme.json) |
 | Close Castles | 61157 | [61157-close-castles.json](./61157-close-castles.json) |
 | Close Cities | 288337 | [288337-close-cities.json](./288337-close-cities.json) |
@@ -10454,6 +10457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Scrabble De Luxe | 72281 | [72281-computer-scrabble-de-luxe.json](./72281-computer-scrabble-de-luxe.json) |
 | Computer Shrilow | 363679 | [363679-computer-shrilow.json](./363679-computer-shrilow.json) |
 | Computer Space | 11245 | [11245-computer-space.json](./11245-computer-space.json) |
+| Computer Stocks & Bonds | 21926 | [21926-computer-stocks-and-bonds.json](./21926-computer-stocks-and-bonds.json) |
 | Computer Store Simulator | 382744 | [382744-computer-store-simulator.json](./382744-computer-store-simulator.json) |
 | Computer the Golf | 112164 | [112164-computer-the-golf.json](./112164-computer-the-golf.json) |
 | Computer TV Game | 220552 | [220552-computer-tv-game.json](./220552-computer-tv-game.json) |
@@ -13746,6 +13750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Solitaire 2: The Smoking Gun | 22125 | [22125-crime-solitaire-2-the-smoking-gun.json](./22125-crime-solitaire-2-the-smoking-gun.json) |
 | Crime Solvers | 208798 | [208798-crime-solvers.json](./208798-crime-solvers.json) |
 | Crime Spree | 42771 | [42771-crime-spree.json](./42771-crime-spree.json) |
+| Crime Stopper: Murder at Midnight! | 21931 | [21931-crime-stopper-murder-at-midnight.json](./21931-crime-stopper-murder-at-midnight.json) |
 | Crime Stories: Days of Vengeance | 105247 | [105247-crime-stories-days-of-vengeance.json](./105247-crime-stories-days-of-vengeance.json) |
 | Crime Thief Simulator | 390489 | [390489-crime-thief-simulator.json](./390489-crime-thief-simulator.json) |
 | Crime Time | 12017 | [12017-crime-time.json](./12017-crime-time.json) |
@@ -13899,6 +13904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Heart Brawlers: Clash at Otakon | 64681 | [64681-crisis-heart-brawlers-clash-at-otakon.json](./64681-crisis-heart-brawlers-clash-at-otakon.json) |
 | Crisis in the Aegean Sea | 127320 | [127320-crisis-in-the-aegean-sea.json](./127320-crisis-in-the-aegean-sea.json) |
 | Crisis Island | 244729 | [244729-crisis-island.json](./244729-crisis-island.json) |
+| Crisis Mountain | 21932 | [21932-crisis-mountain.json](./21932-crisis-mountain.json) |
 | Crisis of Dreamcell | 400699 | [400699-crisis-of-dreamcell.json](./400699-crisis-of-dreamcell.json) |
 | Crisis of the Middle Ages | 118408 | [118408-crisis-of-the-middle-ages.json](./118408-crisis-of-the-middle-ages.json) |
 | Crisis on Nova 2 | 157192 | [157192-crisis-on-nova-2.json](./157192-crisis-on-nova-2.json) |
@@ -16037,6 +16043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutie Crowd Control | 272776 | [272776-cutie-crowd-control.json](./272776-cutie-crowd-control.json) |
 | Cutie Garden | 188280 | [188280-cutie-garden.json](./188280-cutie-garden.json) |
 | Cutie Monsters Battle Arena | 90399 | [90399-cutie-monsters-battle-arena.json](./90399-cutie-monsters-battle-arena.json) |
+| Cutie Q | 21674 | [21674-cutie-q.json](./21674-cutie-q.json) |
 | Cutie Smile: Kimi to Issho ni | 398994 | [398994-cutie-smile-kimi-to-issho-ni.json](./398994-cutie-smile-kimi-to-issho-ni.json) |
 | Cutie Squad: Crime War | 404263 | [404263-cutie-squad-crime-war.json](./404263-cutie-squad-crime-war.json) |
 | Cutie Suzuki no Ringside Angel | 45732 | [45732-cutie-suzuki-no-ringside-angel.json](./45732-cutie-suzuki-no-ringside-angel.json) |
