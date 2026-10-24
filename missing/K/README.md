@@ -3778,6 +3778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knighty Night | 119027 | [119027-knighty-night.json](./119027-knighty-night.json) |
 | Knighventure | 352318 | [352318-knighventure.json](./352318-knighventure.json) |
 | Knitewings | 391643 | [391643-knitewings.json](./391643-knitewings.json) |
+| Knither Special | 41730 | [41730-knither-special.json](./41730-knither-special.json) |
 | Knitted and Inflatable | 155666 | [155666-knitted-and-inflatable.json](./155666-knitted-and-inflatable.json) |
 | Knives Out | 77776 | [77776-knives-out.json](./77776-knives-out.json) |
 | Kno | 134527 | [134527-kno.json](./134527-kno.json) |
@@ -4152,6 +4153,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami Classics Series Arcade Hits | 21395 | [21395-konami-classics-series-arcade-hits.json](./21395-konami-classics-series-arcade-hits.json) |
 | Konami Collector's Series: Arcade Advanced | 6494 | [6494-konami-collectors-series-arcade-advanced.json](./6494-konami-collectors-series-arcade-advanced.json) |
 | Konami Collector's Series: Castlevania & Contra | 78642 | [78642-konami-collectors-series-castlevania-and-contra.json](./78642-konami-collectors-series-castlevania-and-contra.json) |
+| Konami Game Collection Vol. 1 | 41763 | [41763-konami-game-collection-vol-1.json](./41763-konami-game-collection-vol-1.json) |
+| Konami Game Collection Vol. 2 | 41762 | [41762-konami-game-collection-vol-2.json](./41762-konami-game-collection-vol-2.json) |
+| Konami Game Collection Vol. 3 | 41761 | [41761-konami-game-collection-vol-3.json](./41761-konami-game-collection-vol-3.json) |
+| Konami Game Collection Vol. 4 | 41764 | [41764-konami-game-collection-vol-4.json](./41764-konami-game-collection-vol-4.json) |
 | Konami GB Collection Vol. 1 | 49835 | [49835-konami-gb-collection-vol-1.json](./49835-konami-gb-collection-vol-1.json) |
 | Konami GB Collection Vol. 2 | 50045 | [50045-konami-gb-collection-vol-2.json](./50045-konami-gb-collection-vol-2.json) |
 | Konami GB Collection Vol. 3 | 50044 | [50044-konami-gb-collection-vol-3.json](./50044-konami-gb-collection-vol-3.json) |
@@ -4159,6 +4164,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami GT | 138086 | [138086-konami-gt.json](./138086-konami-gt.json) |
 | Konami Hyper Soccer | 48284 | [48284-konami-hyper-soccer.json](./48284-konami-hyper-soccer.json) |
 | Konami Krazy Racers | 6495 | [6495-konami-krazy-racers.json](./6495-konami-krazy-racers.json) |
+| Konami's Billiards | 41740 | [41740-konamis-billiards.json](./41740-konamis-billiards.json) |
+| Konami's Mahjong | 41745 | [41745-konamis-mahjong.json](./41745-konamis-mahjong.json) |
+| Konami's Mahjong 2 | 41774 | [41774-konamis-mahjong-2.json](./41774-konamis-mahjong-2.json) |
 | Konami's Open Golf Championship | 137407 | [137407-konamis-open-golf-championship.json](./137407-konamis-open-golf-championship.json) |
 | Konami's Ping Pong | 46832 | [46832-konamis-ping-pong.json](./46832-konamis-ping-pong.json) |
 | Konami's Soccer | 41686 | [41686-konamis-soccer.json](./41686-konamis-soccer.json) |
@@ -4828,6 +4836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Pao Banqi | 320527 | [320527-kung-pao-banqi.json](./320527-kung-pao-banqi.json) |
 | Kung Tutu | 146756 | [146756-kung-tutu.json](./146756-kung-tutu.json) |
 | Kung Zhu | 47782 | [47782-kung-zhu.json](./47782-kung-zhu.json) |
+| Kung-Fu Acho | 41770 | [41770-kung-fu-acho.json](./41770-kung-fu-acho.json) |
 | Kung-fu Beat | 332672 | [332672-kung-fu-beat.json](./332672-kung-fu-beat.json) |
 | Kung-Fu Fighter | 56838 | [56838-kung-fu-fighter.json](./56838-kung-fu-fighter.json) |
 | Kung-Fu Heroes | 214619 | [214619-kung-fu-heroes.json](./214619-kung-fu-heroes.json) |
