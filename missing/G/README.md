@@ -4919,6 +4919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla: Doki-doki Kaijuu-tou!! | 75890 | [75890-godzilla-doki-doki-kaijuu-tou.json](./75890-godzilla-doki-doki-kaijuu-tou.json) |
 | Godzilla: Domination! | 49298 | [49298-godzilla-domination.json](./49298-godzilla-domination.json) |
 | Godzilla: Kaiju Collection | 135560 | [135560-godzilla-kaiju-collection.json](./135560-godzilla-kaiju-collection.json) |
+| Godzilla: Kaijuu Daikessen | 36739 | [36739-godzilla-kaijuu-daikessen.json](./36739-godzilla-kaijuu-daikessen.json) |
 | Godzilla: Monster of Monsters | 48161 | [48161-godzilla-monster-of-monsters.json](./48161-godzilla-monster-of-monsters.json) |
 | Godzilla: Save the Earth | 5847 | [5847-godzilla-save-the-earth.json](./5847-godzilla-save-the-earth.json) |
 | Godzilla: Save the Earth - Melee | 301492 | [301492-godzilla-save-the-earth-melee.json](./301492-godzilla-save-the-earth-melee.json) |
