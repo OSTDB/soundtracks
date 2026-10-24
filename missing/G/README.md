@@ -5483,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GooCubelets 2 | 34249 | [34249-goocubelets-2.json](./34249-goocubelets-2.json) |
 | GooCubelets: Color Blocking | 44224 | [44224-goocubelets-color-blocking.json](./44224-goocubelets-color-blocking.json) |
 | GooCubelets: OCD | 33068 | [33068-goocubelets-ocd.json](./33068-goocubelets-ocd.json) |
+| GooCubelets: The Algoorithm | 33843 | [33843-goocubelets-the-algoorithm.json](./33843-goocubelets-the-algoorithm.json) |
 | GooCubelets: The Void | 31961 | [31961-goocubelets-the-void.json](./31961-goocubelets-the-void.json) |
 | Good & Bad Driver | 302106 | [302106-good-and-bad-driver.json](./302106-good-and-bad-driver.json) |
 | Good Bear | 219803 | [219803-good-bear.json](./219803-good-bear.json) |
@@ -6508,6 +6509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grass Cutter: Mutated Lawns | 120257 | [120257-grass-cutter-mutated-lawns.json](./120257-grass-cutter-mutated-lawns.json) |
 | Grass Life Sim | 328450 | [328450-grass-life-sim.json](./328450-grass-life-sim.json) |
 | Grass Life Sim 2 | 374910 | [374910-grass-life-sim-2.json](./374910-grass-life-sim-2.json) |
+| Grass Max | 33831 | [33831-grass-max.json](./33831-grass-max.json) |
 | Grass Toucher | 373091 | [373091-grass-toucher.json](./373091-grass-toucher.json) |
 | Grassassins | 310049 | [310049-grassassins.json](./310049-grassassins.json) |
 | Grassfires of Veldstar | 183328 | [183328-grassfires-of-veldstar.json](./183328-grassfires-of-veldstar.json) |
@@ -7180,6 +7182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gremlins: Stripe vs. Gizmo | 49232 | [49232-gremlins-stripe-vs-gizmo.json](./49232-gremlins-stripe-vs-gizmo.json) |
 | Gremlore | 275065 | [275065-gremlore.json](./275065-gremlore.json) |
 | Grems | 386710 | [386710-grems.json](./386710-grems.json) |
+| Grenade Madness | 33780 | [33780-grenade-madness.json](./33780-grenade-madness.json) |
 | Grendel's Revenge | 370678 | [370678-grendels-revenge.json](./370678-grendels-revenge.json) |
 | Grenouilles 3D | 401550 | [401550-grenouilles-3d.json](./401550-grenouilles-3d.json) |
 | Grenzgänger: Aus der DDR in den Westen | 375492 | [375492-grenzganger-aus-der-ddr-in-den-westen.json](./375492-grenzganger-aus-der-ddr-in-den-westen.json) |
