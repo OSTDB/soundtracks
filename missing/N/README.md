@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 6 | 262818 | [262818-nature-and-wildlife-jigsaw-puzzle-expansion-pack-6.json](./262818-nature-and-wildlife-jigsaw-puzzle-expansion-pack-6.json) |
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 8 | 262830 | [262830-nature-and-wildlife-jigsaw-puzzle-expansion-pack-8.json](./262830-nature-and-wildlife-jigsaw-puzzle-expansion-pack-8.json) |
 | Nature Atelier | 368520 | [368520-nature-atelier.json](./368520-nature-atelier.json) |
+| Nature Defenders | 33833 | [33833-nature-defenders.json](./33833-nature-defenders.json) |
 | Nature Escapes | 215635 | [215635-nature-escapes.json](./215635-nature-escapes.json) |
 | Nature Escapes 2 | 235182 | [235182-nature-escapes-2.json](./235182-nature-escapes-2.json) |
 | Nature Escapes 3 | 247875 | [247875-nature-escapes-3.json](./247875-nature-escapes-3.json) |
@@ -4774,6 +4775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Rush! | 25522 | [25522-no-rush.json](./25522-no-rush.json) |
 | No safety | 84086 | [84086-no-safety.json](./84086-no-safety.json) |
 | No Salvation | 281249 | [281249-no-salvation.json](./281249-no-salvation.json) |
+| No Seat? | 33796 | [33796-no-seat.json](./33796-no-seat.json) |
 | No Secrets | 135491 | [135491-no-secrets.json](./135491-no-secrets.json) |
 | No Senses | 198236 | [198236-no-senses.json](./198236-no-senses.json) |
 | No Service | 391030 | [391030-no-service.json](./391030-no-service.json) |
@@ -5352,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noragami Aragoto | 174843 | [174843-noragami-aragoto.json](./174843-noragami-aragoto.json) |
 | Norah's Song | 298655 | [298655-norahs-song.json](./298655-norahs-song.json) |
 | Norco | 129097 | [129097-norco.json](./129097-norco.json) |
+| Nordenfelt | 33883 | [33883-nordenfelt.json](./33883-nordenfelt.json) |
 | Nordhold | 308349 | [308349-nordhold.json](./308349-nordhold.json) |
 | Nordic Adventure Bundle | 277720 | [277720-nordic-adventure-bundle.json](./277720-nordic-adventure-bundle.json) |
 | Nordic Ashes: Survivors of Ragnarok - Twilight of Yggdrasil | 409034 | [409034-nordic-ashes-survivors-of-ragnarok-twilight-of-yggdrasil.json](./409034-nordic-ashes-survivors-of-ragnarok-twilight-of-yggdrasil.json) |
