@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saci: The Cursed Hunt | 330329 | [330329-saci-the-cursed-hunt.json](./330329-saci-the-cursed-hunt.json) |
 | Sack of Bots | 119040 | [119040-sack-of-bots.json](./119040-sack-of-bots.json) |
 | Sack of Flour, Heart of Gold | 404415 | [404415-sack-of-flour-heart-of-gold.json](./404415-sack-of-flour-heart-of-gold.json) |
+| Sackboy: A Big Adventure | 134585 | [134585-sackboy-a-big-adventure.json](./134585-sackboy-a-big-adventure.json) |
 | Sackboy: A Big Adventure - Astro Bot Costume | 290918 | [290918-sackboy-a-big-adventure-astro-bot-costume.json](./290918-sackboy-a-big-adventure-astro-bot-costume.json) |
 | Sackboy: A Big Adventure - Clank Costume | 327313 | [327313-sackboy-a-big-adventure-clank-costume.json](./327313-sackboy-a-big-adventure-clank-costume.json) |
 | Sackboy: A Big Adventure - Digital Deluxe Edition | 407590 | [407590-sackboy-a-big-adventure-digital-deluxe-edition.json](./407590-sackboy-a-big-adventure-digital-deluxe-edition.json) |
@@ -2026,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Say No to Rom-Coms! | 258359 | [258359-say-no-to-rom-coms.json](./258359-say-no-to-rom-coms.json) |
 | Say Something Positive About | 265219 | [265219-say-something-positive-about.json](./265219-say-something-positive-about.json) |
 | Say When! | 346918 | [346918-say-when.json](./346918-say-when.json) |
+| Saya no Uta | 15830 | [15830-saya-no-uta.json](./15830-saya-no-uta.json) |
 | Saya: Immoral Labyrinth | 97993 | [97993-saya-immoral-labyrinth.json](./97993-saya-immoral-labyrinth.json) |
 | Sayagatari: Promise of the Cursed Blade | 398906 | [398906-sayagatari-promise-of-the-cursed-blade.json](./398906-sayagatari-promise-of-the-cursed-blade.json) |
 | Sayagatari: Promise of the Cursed Blade - First Press Limited Edition | 419912 | [419912-sayagatari-promise-of-the-cursed-blade-first-press-limited-edition.json](./419912-sayagatari-promise-of-the-cursed-blade-first-press-limited-edition.json) |
@@ -11236,6 +11238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sly Cooper and the Thievius Raccoonus | 1798 | [1798-sly-cooper-and-the-thievius-raccoonus.json](./1798-sly-cooper-and-the-thievius-raccoonus.json) |
 | Sly Cooper and the Thievius Raccoonus | 222125 | [222125-sly-cooper-and-the-thievius-raccoonus.json](./222125-sly-cooper-and-the-thievius-raccoonus.json) |
 | Sly Cooper and the Thievius Raccoonus | 304144 | [304144-sly-cooper-and-the-thievius-raccoonus.json](./304144-sly-cooper-and-the-thievius-raccoonus.json) |
+| Sly Cooper: Thieves in Time | 1801 | [1801-sly-cooper-thieves-in-time.json](./1801-sly-cooper-thieves-in-time.json) |
 | Sly Panda | 198514 | [198514-sly-panda.json](./198514-sly-panda.json) |
 | Sly Pitch | 124583 | [124583-sly-pitch.json](./124583-sly-pitch.json) |
 | Sly Slime | 156697 | [156697-sly-slime.json](./156697-sly-slime.json) |
@@ -12206,6 +12209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
 | Sniper: Elite Shooter Squad | 283222 | [283222-sniper-elite-shooter-squad.json](./283222-sniper-elite-shooter-squad.json) |
 | Sniper: Ghost Warrior - Second Strike | 53635 | [53635-sniper-ghost-warrior-second-strike.json](./53635-sniper-ghost-warrior-second-strike.json) |
+| Sniper: Ghost Warrior 2 | 1368 | [1368-sniper-ghost-warrior-2.json](./1368-sniper-ghost-warrior-2.json) |
 | Sniper: Ghost Warrior 2 - Collector's Edition | 53634 | [53634-sniper-ghost-warrior-2-collectors-edition.json](./53634-sniper-ghost-warrior-2-collectors-edition.json) |
 | Sniper: Ghost Warrior 2 - Limited Edition | 53636 | [53636-sniper-ghost-warrior-2-limited-edition.json](./53636-sniper-ghost-warrior-2-limited-edition.json) |
 | Sniper: Ghost Warrior 2 - Siberian Strike | 10882 | [10882-sniper-ghost-warrior-2-siberian-strike.json](./10882-sniper-ghost-warrior-2-siberian-strike.json) |
@@ -22438,6 +22442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Dude: Homeless Empire | 245373 | [245373-street-dude-homeless-empire.json](./245373-street-dude-homeless-empire.json) |
 | Street Dunk | 264320 | [264320-street-dunk.json](./264320-street-dunk.json) |
 | Street Fight Club Simulator | 373837 | [373837-street-fight-club-simulator.json](./373837-street-fight-club-simulator.json) |
+| Street Fighter | 6930 | [6930-street-fighter.json](./6930-street-fighter.json) |
 | Street Fighter 2010: The Final Fight | 45196 | [45196-street-fighter-2010-the-final-fight.json](./45196-street-fighter-2010-the-final-fight.json) |
 | Street Fighter 30th Anniversary Collection: International | 298020 | [298020-street-fighter-30th-anniversary-collection-international.json](./298020-street-fighter-30th-anniversary-collection-international.json) |
 | Street Fighter 5: Guile | 324177 | [324177-street-fighter-5-guile.json](./324177-street-fighter-5-guile.json) |
@@ -22704,6 +22709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Rage 2: Puyo Wars | 315122 | [315122-streets-of-rage-2-puyo-wars.json](./315122-streets-of-rage-2-puyo-wars.json) |
 | Streets of Rage 2: Syndicate Wars | 256300 | [256300-streets-of-rage-2-syndicate-wars.json](./256300-streets-of-rage-2-syndicate-wars.json) |
 | Streets of Rage 2X | 257340 | [257340-streets-of-rage-2x.json](./257340-streets-of-rage-2x.json) |
+| Streets of Rage 3 | 1654 | [1654-streets-of-rage-3.json](./1654-streets-of-rage-3.json) |
 | Streets of Rage 4 | 241863 | [241863-streets-of-rage-4.json](./241863-streets-of-rage-4.json) |
 | Streets of Rage 4 Classic Edition | 384320 | [384320-streets-of-rage-4-classic-edition.json](./384320-streets-of-rage-4-classic-edition.json) |
 | Streets of Rage 4: Anniversary Edition | 155168 | [155168-streets-of-rage-4-anniversary-edition.json](./155168-streets-of-rage-4-anniversary-edition.json) |
@@ -27580,6 +27586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving High School | 67148 | [67148-surviving-high-school.json](./67148-surviving-high-school.json) |
 | Surviving Hunter | 257108 | [257108-surviving-hunter.json](./257108-surviving-hunter.json) |
 | Surviving Isolation | 384528 | [384528-surviving-isolation.json](./384528-surviving-isolation.json) |
+| Surviving Mars | 28574 | [28574-surviving-mars.json](./28574-surviving-mars.json) |
 | Surviving Mars: All New In Bundle | 227392 | [227392-surviving-mars-all-new-in-bundle.json](./227392-surviving-mars-all-new-in-bundle.json) |
 | Surviving Mars: Below and Beyond | 165620 | [165620-surviving-mars-below-and-beyond.json](./165620-surviving-mars-below-and-beyond.json) |
 | Surviving Mars: Colony Design Set | 224998 | [224998-surviving-mars-colony-design-set.json](./224998-surviving-mars-colony-design-set.json) |
