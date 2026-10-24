@@ -1099,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoe Begone! | 292380 | [292380-zoe-begone.json](./292380-zoe-begone.json) |
 | Zoe The Exhibitionist | 311739 | [311739-zoe-the-exhibitionist.json](./311739-zoe-the-exhibitionist.json) |
 | Zoelie | 161169 | [161169-zoelie.json](./161169-zoelie.json) |
+| Zoeti | 151780 | [151780-zoeti.json](./151780-zoeti.json) |
 | Zoey 101 | 18325 | [18325-zoey-101.json](./18325-zoey-101.json) |
 | Zoey 101: Field Trip Fiasco | 18326 | [18326-zoey-101-field-trip-fiasco.json](./18326-zoey-101-field-trip-fiasco.json) |
 | Zoey: Horny Roomates | 301637 | [301637-zoey-horny-roomates.json](./301637-zoey-horny-roomates.json) |
