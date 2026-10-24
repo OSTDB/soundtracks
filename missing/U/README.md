@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO: Extraterrestrials Platinum | 251984 | [251984-ufo-extraterrestrials-platinum.json](./251984-ufo-extraterrestrials-platinum.json) |
 | UFO: Henfield | 277974 | [277974-ufo-henfield.json](./277974-ufo-henfield.json) |
 | UFO: The Ranch | 248886 | [248886-ufo-the-ranch.json](./248886-ufo-the-ranch.json) |
+| UFO: Unidentified Falling Objects | 244473 | [244473-ufo-unidentified-falling-objects.json](./244473-ufo-unidentified-falling-objects.json) |
 | UFO/Sea Monsters/Break It Down/Rebuild/Shoot | 137926 | [137926-ufo-sea-monsters-break-it-down-rebuild-shoot.json](./137926-ufo-sea-monsters-break-it-down-rebuild-shoot.json) |
 | UFO2 Extraterrestrials: Shadows over Earth | 65459 | [65459-ufo2-extraterrestrials-shadows-over-earth.json](./65459-ufo2-extraterrestrials-shadows-over-earth.json) |
 | UFObia | 217240 | [217240-ufobia.json](./217240-ufobia.json) |
