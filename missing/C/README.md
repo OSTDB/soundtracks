@@ -8331,6 +8331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone Dots | 265756 | [265756-clone-dots.json](./265756-clone-dots.json) |
 | Clone Drone | 233465 | [233465-clone-drone.json](./233465-clone-drone.json) |
 | Clone Drone Danger | 234479 | [234479-clone-drone-danger.json](./234479-clone-drone-danger.json) |
+| Clone Drone in the Danger Zone | 29411 | [29411-clone-drone-in-the-danger-zone.json](./29411-clone-drone-in-the-danger-zone.json) |
 | Clone Drone in the Hyperdome | 322126 | [322126-clone-drone-in-the-hyperdome.json](./322126-clone-drone-in-the-hyperdome.json) |
 | Clone Evolution | 317060 | [317060-clone-evolution.json](./317060-clone-evolution.json) |
 | Clone Hero | 84922 | [84922-clone-hero.json](./84922-clone-hero.json) |
@@ -14644,6 +14645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush at First Sight | 294068 | [294068-crush-at-first-sight.json](./294068-crush-at-first-sight.json) |
 | Crush Beats: Club Candy | 96763 | [96763-crush-beats-club-candy.json](./96763-crush-beats-club-candy.json) |
 | Crush Crush | 187865 | [187865-crush-crush.json](./187865-crush-crush.json) |
+| Crush Crush | 25252 | [25252-crush-crush.json](./25252-crush-crush.json) |
 | Crush Crush: - 18+ Naughty | 279778 | [279778-crush-crush-18-naughty.json](./279778-crush-crush-18-naughty.json) |
 | Crush Depth | 371553 | [371553-crush-depth.json](./371553-crush-depth.json) |
 | Crush Depth: U-Boat Simulator | 150050 | [150050-crush-depth-u-boat-simulator.json](./150050-crush-depth-u-boat-simulator.json) |
