@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker Evolution Duality: Inception Part 2 | 171633 | [171633-hacker-evolution-duality-inception-part-2.json](./171633-hacker-evolution-duality-inception-part-2.json) |
 | Hacker Evolution Duality: Inception Part 3 | 171506 | [171506-hacker-evolution-duality-inception-part-3.json](./171506-hacker-evolution-duality-inception-part-3.json) |
 | Hacker Evolution Source Code | 35416 | [35416-hacker-evolution-source-code.json](./35416-hacker-evolution-source-code.json) |
+| Hacker Evolution: Hardcore Package Part 1 | 10394 | [10394-hacker-evolution-hardcore-package-part-1.json](./10394-hacker-evolution-hardcore-package-part-1.json) |
 | Hacker Evolution: Untold | 1024 | [1024-hacker-evolution-untold.json](./1024-hacker-evolution-untold.json) |
 | Hacker II: The Doomsday Papers | 12133 | [12133-hacker-ii-the-doomsday-papers.json](./12133-hacker-ii-the-doomsday-papers.json) |
 | Hacker Series | 31115 | [31115-hacker-series.json](./31115-hacker-series.json) |
@@ -827,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammerheart | 173001 | [173001-hammerheart.json](./173001-hammerheart.json) |
 | HammerHelm | 47136 | [47136-hammerhelm.json](./47136-hammerhelm.json) |
 | Hämmeri | 298825 | [298825-hammeri.json](./298825-hammeri.json) |
+| Hammerin' Harry | 10451 | [10451-hammerin-harry.json](./10451-hammerin-harry.json) |
 | Hammerin' Harry 2: Dan the Red Strikes Back - Collector's Edition | 306987 | [306987-hammerin-harry-2-dan-the-red-strikes-back-collectors-edition.json](./306987-hammerin-harry-2-dan-the-red-strikes-back-collectors-edition.json) |
 | Hammerin' Harry: Collector's Edition | 306986 | [306986-hammerin-harry-collectors-edition.json](./306986-hammerin-harry-collectors-edition.json) |
 | Hammerin' Harry: Concrete Collection | 306988 | [306988-hammerin-harry-concrete-collection.json](./306988-hammerin-harry-concrete-collection.json) |
@@ -2514,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headliner: NoviNews | 107596 | [107596-headliner-novinews.json](./107596-headliner-novinews.json) |
 | Headlines from the Deep | 177312 | [177312-headlines-from-the-deep.json](./177312-headlines-from-the-deep.json) |
 | Headlong Hunt | 152226 | [152226-headlong-hunt.json](./152226-headlong-hunt.json) |
+| Headlong Racing | 10396 | [10396-headlong-racing.json](./10396-headlong-racing.json) |
 | Headmaster: Extra Time Edition | 173111 | [173111-headmaster-extra-time-edition.json](./173111-headmaster-extra-time-edition.json) |
 | Headmaster: The Lost Lessons | 174186 | [174186-headmaster-the-lost-lessons.json](./174186-headmaster-the-lost-lessons.json) |
 | HeadOn! | 93729 | [93729-headon.json](./93729-headon.json) |
@@ -2744,12 +2747,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Demons: Baron | 196029 | [196029-hearts-of-demons-baron.json](./196029-hearts-of-demons-baron.json) |
 | Hearts of Iron 2 Complete | 27833 | [27833-hearts-of-iron-2-complete.json](./27833-hearts-of-iron-2-complete.json) |
 | Hearts of Iron Anthology | 72283 | [72283-hearts-of-iron-anthology.json](./72283-hearts-of-iron-anthology.json) |
+| Hearts of Iron II: Armageddon | 10398 | [10398-hearts-of-iron-ii-armageddon.json](./10398-hearts-of-iron-ii-armageddon.json) |
 | Hearts of Iron II: Complete | 28993 | [28993-hearts-of-iron-ii-complete.json](./28993-hearts-of-iron-ii-complete.json) |
 | Hearts of Iron II: Doomsday | 10397 | [10397-hearts-of-iron-ii-doomsday.json](./10397-hearts-of-iron-ii-doomsday.json) |
+| Hearts of Iron II: Iron Cross | 17023 | [17023-hearts-of-iron-ii-iron-cross.json](./17023-hearts-of-iron-ii-iron-cross.json) |
 | Hearts of Iron III Collection | 53177 | [53177-hearts-of-iron-iii-collection.json](./53177-hearts-of-iron-iii-collection.json) |
 | Hearts of Iron III: DLC Collection | 154613 | [154613-hearts-of-iron-iii-dlc-collection.json](./154613-hearts-of-iron-iii-dlc-collection.json) |
 | Hearts of Iron III: For the Motherland | 10400 | [10400-hearts-of-iron-iii-for-the-motherland.json](./10400-hearts-of-iron-iii-for-the-motherland.json) |
+| Hearts of Iron III: Semper Fi | 10399 | [10399-hearts-of-iron-iii-semper-fi.json](./10399-hearts-of-iron-iii-semper-fi.json) |
 | Hearts of Iron III: Semper Fi - Dies Irae Götterdämmerung | 151256 | [151256-hearts-of-iron-iii-semper-fi-dies-irae-gotterdammerung.json](./151256-hearts-of-iron-iii-semper-fi-dies-irae-gotterdammerung.json) |
+| Hearts of Iron III: Their Finest Hour | 10401 | [10401-hearts-of-iron-iii-their-finest-hour.json](./10401-hearts-of-iron-iii-their-finest-hour.json) |
 | Hearts of Iron IV: Allied Armor Pack | 165012 | [165012-hearts-of-iron-iv-allied-armor-pack.json](./165012-hearts-of-iron-iv-allied-armor-pack.json) |
 | Hearts of Iron IV: Arms Against Tyranny | 253959 | [253959-hearts-of-iron-iv-arms-against-tyranny.json](./253959-hearts-of-iron-iv-arms-against-tyranny.json) |
 | Hearts of Iron IV: Battle for the Bosporus | 151257 | [151257-hearts-of-iron-iv-battle-for-the-bosporus.json](./151257-hearts-of-iron-iv-battle-for-the-bosporus.json) |
@@ -2952,6 +2959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavyweight Champ | 172525 | [172525-heavyweight-champ.json](./172525-heavyweight-champ.json) |
 | Heavyweight Champ | 39678 | [39678-heavyweight-champ.json](./39678-heavyweight-champ.json) |
 | Heavyweight Thunder | 69875 | [69875-heavyweight-thunder.json](./69875-heavyweight-thunder.json) |
+| Heavyweight Transport Simulator | 10405 | [10405-heavyweight-transport-simulator.json](./10405-heavyweight-transport-simulator.json) |
 | Heavyweight Transport Simulator 3 | 53183 | [53183-heavyweight-transport-simulator-3.json](./53183-heavyweight-transport-simulator-3.json) |
 | Hebereke | 291621 | [291621-hebereke.json](./291621-hebereke.json) |
 | Hebereke: Enjoy Edition | 291350 | [291350-hebereke-enjoy-edition.json](./291350-hebereke-enjoy-edition.json) |
@@ -4751,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeroCade | 99516 | [99516-herocade.json](./99516-herocade.json) |
 | HeroClix TabApp | 64098 | [64098-heroclix-tabapp.json](./64098-heroclix-tabapp.json) |
 | HeroClix TabApp ASM | 64099 | [64099-heroclix-tabapp-asm.json](./64099-heroclix-tabapp-asm.json) |
+| Herod's Lost Tomb | 10409 | [10409-herods-lost-tomb.json](./10409-herods-lost-tomb.json) |
 | Herodes | 203244 | [203244-herodes.json](./203244-herodes.json) |
 | Heroes & Dice | 348833 | [348833-heroes-and-dice.json](./348833-heroes-and-dice.json) |
 | Heroes & Dragons | 362013 | [362013-heroes-and-dragons.json](./362013-heroes-and-dragons.json) |
@@ -5569,6 +5578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Memory Nature | 150780 | [150780-hidden-memory-nature.json](./150780-hidden-memory-nature.json) |
 | Hidden Memory: Neko's Life | 171447 | [171447-hidden-memory-nekos-life.json](./171447-hidden-memory-nekos-life.json) |
 | Hidden Motives: The Diamond Rush - Collector's Edition | 186720 | [186720-hidden-motives-the-diamond-rush-collectors-edition.json](./186720-hidden-motives-the-diamond-rush-collectors-edition.json) |
+| Hidden Mysteries: Buckingham Palace | 10411 | [10411-hidden-mysteries-buckingham-palace.json](./10411-hidden-mysteries-buckingham-palace.json) |
 | Hidden Mysteries: Buckingham Palace Secrets of Kings & Queens | 66902 | [66902-hidden-mysteries-buckingham-palace-secrets-of-kings-and-queens.json](./66902-hidden-mysteries-buckingham-palace-secrets-of-kings-and-queens.json) |
 | Hidden Mysteries: Civil War | 34842 | [34842-hidden-mysteries-civil-war.json](./34842-hidden-mysteries-civil-war.json) |
 | Hidden Mysteries: Forbidden City | 209899 | [209899-hidden-mysteries-forbidden-city.json](./209899-hidden-mysteries-forbidden-city.json) |
@@ -5578,6 +5588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Mysteries: Return to Titanic | 206730 | [206730-hidden-mysteries-return-to-titanic.json](./206730-hidden-mysteries-return-to-titanic.json) |
 | Hidden Mysteries: Royal Family Secrets | 121261 | [121261-hidden-mysteries-royal-family-secrets.json](./121261-hidden-mysteries-royal-family-secrets.json) |
 | Hidden Mysteries: Salem Secrets | 66193 | [66193-hidden-mysteries-salem-secrets.json](./66193-hidden-mysteries-salem-secrets.json) |
+| Hidden Mysteries: The White House | 10412 | [10412-hidden-mysteries-the-white-house.json](./10412-hidden-mysteries-the-white-house.json) |
 | Hidden Mysteries: Vampire Secrets | 60831 | [60831-hidden-mysteries-vampire-secrets.json](./60831-hidden-mysteries-vampire-secrets.json) |
 | Hidden Mystery: Triple pack | 130658 | [130658-hidden-mystery-triple-pack.json](./130658-hidden-mystery-triple-pack.json) |
 | Hidden Nature | 372017 | [372017-hidden-nature.json](./372017-hidden-nature.json) |
@@ -8318,6 +8329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostile Dreams 2 | 332458 | [332458-hostile-dreams-2.json](./332458-hostile-dreams-2.json) |
 | Hostile Entity | 408491 | [408491-hostile-entity.json](./408491-hostile-entity.json) |
 | Hostile Intent | 259423 | [259423-hostile-intent.json](./259423-hostile-intent.json) |
+| Hostile Makeover | 10416 | [10416-hostile-makeover.json](./10416-hostile-makeover.json) |
 | Hostile Mars | 151031 | [151031-hostile-mars.json](./151031-hostile-mars.json) |
 | Hostile Space Revived | 97973 | [97973-hostile-space-revived.json](./97973-hostile-space-revived.json) |
 | Hostile Takeover | 143533 | [143533-hostile-takeover.json](./143533-hostile-takeover.json) |
@@ -8583,6 +8595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotdog Storm | 39679 | [39679-hotdog-storm.json](./39679-hotdog-storm.json) |
 | HotDog TD | 264656 | [264656-hotdog-td.json](./264656-hotdog-td.json) |
 | HotDogs HotGals | 209888 | [209888-hotdogs-hotgals.json](./209888-hotdogs-hotgals.json) |
+| Hotel | 10417 | [10417-hotel.json](./10417-hotel.json) |
 | Hotel 12th | 317970 | [317970-hotel-12th.json](./317970-hotel-12th.json) |
 | Hotel 188 | 323008 | [323008-hotel-188.json](./323008-hotel-188.json) |
 | Hotel 19-95 | 37004 | [37004-hotel-19-95.json](./37004-hotel-19-95.json) |
@@ -9680,6 +9693,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter's Trial | 112690 | [112690-hunters-trial.json](./112690-hunters-trial.json) |
 | Hunter's Trial: The fight never ends | 315226 | [315226-hunters-trial-the-fight-never-ends.json](./315226-hunters-trial-the-fight-never-ends.json) |
 | Hunter's Trophy | 53219 | [53219-hunters-trophy.json](./53219-hunters-trophy.json) |
+| Hunter's Trophy 2 | 10419 | [10419-hunters-trophy-2.json](./10419-hunters-trophy-2.json) |
+| Hunter's Trophy 2: America | 10420 | [10420-hunters-trophy-2-america.json](./10420-hunters-trophy-2-america.json) |
+| Hunter's Trophy 2: Australia | 10421 | [10421-hunters-trophy-2-australia.json](./10421-hunters-trophy-2-australia.json) |
 | Hunter's Trophy 2: Europa | 64376 | [64376-hunters-trophy-2-europa.json](./64376-hunters-trophy-2-europa.json) |
 | Hunternet Starfighter | 57938 | [57938-hunternet-starfighter.json](./57938-hunternet-starfighter.json) |
 | Hunteroids | 212911 | [212911-hunteroids.json](./212911-hunteroids.json) |
@@ -10190,6 +10206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperslice | 303556 | [303556-hyperslice.json](./303556-hyperslice.json) |
 | Hypersomnia | 249782 | [249782-hypersomnia.json](./249782-hypersomnia.json) |
 | Hypersomnia | 286133 | [286133-hypersomnia.json](./286133-hypersomnia.json) |
+| Hypersonic 4 | 10424 | [10424-hypersonic-4.json](./10424-hypersonic-4.json) |
 | Hypersonic GP | 393407 | [393407-hypersonic-gp.json](./393407-hypersonic-gp.json) |
 | Hyperspace | 297489 | [297489-hyperspace.json](./297489-hyperspace.json) |
 | Hyperspace | 303551 | [303551-hyperspace.json](./303551-hyperspace.json) |
