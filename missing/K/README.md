@@ -1665,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiborg: Descent | 393609 | [393609-kiborg-descent.json](./393609-kiborg-descent.json) |
 | Kichiku Megane | 142451 | [142451-kichiku-megane.json](./142451-kichiku-megane.json) |
 | Kick and Cows | 243734 | [243734-kick-and-cows.json](./243734-kick-and-cows.json) |
+| Kick and Run | 39369 | [39369-kick-and-run.json](./39369-kick-and-run.json) |
 | Kick Ass Commandos | 20347 | [20347-kick-ass-commandos.json](./20347-kick-ass-commandos.json) |
 | Kick Ball | 42051 | [42051-kick-ball.json](./42051-kick-ball.json) |
 | Kick Bastards | 173258 | [173258-kick-bastards.json](./173258-kick-bastards.json) |
@@ -3862,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Known Mysteries | 330826 | [330826-known-mysteries.json](./330826-known-mysteries.json) |
 | Known Unknowns | 139309 | [139309-known-unknowns.json](./139309-known-unknowns.json) |
 | Knuckers Test Fight | 172182 | [172182-knuckers-test-fight.json](./172182-knuckers-test-fight.json) |
+| Knuckle Bash | 39370 | [39370-knuckle-bash.json](./39370-knuckle-bash.json) |
 | Knuckle Creek | 408543 | [408543-knuckle-creek.json](./408543-knuckle-creek.json) |
 | Knuckle Heads | 39588 | [39588-knuckle-heads.json](./39588-knuckle-heads.json) |
 | Knuckle Jet | 336521 | [336521-knuckle-jet.json](./336521-knuckle-jet.json) |
