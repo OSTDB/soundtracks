@@ -563,6 +563,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Around | 210279 | [210279-dance-around.json](./210279-dance-around.json) |
 | Dance Assembly | 228504 | [228504-dance-assembly.json](./228504-dance-assembly.json) |
 | Dance Central | 175660 | [175660-dance-central.json](./175660-dance-central.json) |
+| Dance Central | 18953 | [18953-dance-central.json](./18953-dance-central.json) |
+| Dance Central 2 | 20091 | [20091-dance-central-2.json](./20091-dance-central-2.json) |
 | Dance Central 2: Flo Rida & T-Pain - "Low" | 353201 | [353201-dance-central-2-flo-rida-and-t-pain-low.json](./353201-dance-central-2-flo-rida-and-t-pain-low.json) |
 | Dance Central 2: LMFAO - "Party Rock Anthem" | 353200 | [353200-dance-central-2-lmfao-party-rock-anthem.json](./353200-dance-central-2-lmfao-party-rock-anthem.json) |
 | Dance Central 2: Nelly - "Hot In Herre" | 353202 | [353202-dance-central-2-nelly-hot-in-herre.json](./353202-dance-central-2-nelly-hot-in-herre.json) |
@@ -4659,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defrain | 103390 | [103390-defrain.json](./103390-defrain.json) |
 | Deft | 182742 | [182742-deft.json](./182742-deft.json) |
 | Defuser VR | 29538 | [29538-defuser-vr.json](./29538-defuser-vr.json) |
+| Defy Gravity | 8678 | [8678-defy-gravity.json](./8678-defy-gravity.json) |
 | Defy Gravity Extended | 16242 | [16242-defy-gravity-extended.json](./16242-defy-gravity-extended.json) |
 | Defying Fate | 205233 | [205233-defying-fate.json](./205233-defying-fate.json) |
 | Defying Heaven's Will | 183050 | [183050-defying-heavens-will.json](./183050-defying-heavens-will.json) |
@@ -4879,8 +4882,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Force: Black Hawk Down | 200997 | [200997-delta-force-black-hawk-down.json](./200997-delta-force-black-hawk-down.json) |
 | Delta Force: Black Hawk Down | 332541 | [332541-delta-force-black-hawk-down.json](./332541-delta-force-black-hawk-down.json) |
 | Delta Force: Black Hawk Down | 5812 | [5812-delta-force-black-hawk-down.json](./5812-delta-force-black-hawk-down.json) |
+| Delta Force: Black Hawk Down - Team Sabre | 9351 | [9351-delta-force-black-hawk-down-team-sabre.json](./9351-delta-force-black-hawk-down-team-sabre.json) |
 | Delta Force: Black Hawk Down Platinum Pack | 224486 | [224486-delta-force-black-hawk-down-platinum-pack.json](./224486-delta-force-black-hawk-down-platinum-pack.json) |
 | Delta Force: Land Warrior | 9350 | [9350-delta-force-land-warrior.json](./9350-delta-force-land-warrior.json) |
+| Delta Force: Task Force Dagger | 9348 | [9348-delta-force-task-force-dagger.json](./9348-delta-force-task-force-dagger.json) |
 | Delta Force: Xtreme | 1273 | [1273-delta-force-xtreme.json](./1273-delta-force-xtreme.json) |
 | Delta Force: Xtreme 2 | 9352 | [9352-delta-force-xtreme-2.json](./9352-delta-force-xtreme-2.json) |
 | Delta G | 112924 | [112924-delta-g.json](./112924-delta-g.json) |
@@ -11723,6 +11728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Buu's Fury / Dragon Ball GT: Transformation | 79299 | [79299-dragon-ball-z-buus-fury-dragon-ball-gt-transformation.json](./79299-dragon-ball-z-buus-fury-dragon-ball-gt-transformation.json) |
 | Dragon Ball Z: Cell To Kogeki Da | 322346 | [322346-dragon-ball-z-cell-to-kogeki-da.json](./322346-dragon-ball-z-cell-to-kogeki-da.json) |
 | Dragon Ball Z: Dokkan Battle | 88818 | [88818-dragon-ball-z-dokkan-battle.json](./88818-dragon-ball-z-dokkan-battle.json) |
+| Dragon Ball Z: Extreme Butouden | 20033 | [20033-dragon-ball-z-extreme-butouden.json](./20033-dragon-ball-z-extreme-butouden.json) |
 | Dragon Ball Z: Final Bout | 229063 | [229063-dragon-ball-z-final-bout.json](./229063-dragon-ball-z-final-bout.json) |
 | Dragon Ball Z: Gekitou Tenkaichi Budoukai | 2578 | [2578-dragon-ball-z-gekitou-tenkaichi-budoukai.json](./2578-dragon-ball-z-gekitou-tenkaichi-budoukai.json) |
 | Dragon Ball Z: Hyper Dimension | 270755 | [270755-dragon-ball-z-hyper-dimension.json](./270755-dragon-ball-z-hyper-dimension.json) |
@@ -11784,6 +11790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Raging Blast | 19310 | [19310-dragon-ball-raging-blast.json](./19310-dragon-ball-raging-blast.json) |
 | Dragon Ball: Raging Blast 2 | 19311 | [19311-dragon-ball-raging-blast-2.json](./19311-dragon-ball-raging-blast-2.json) |
 | Dragon Ball: Raging Blast 2 - Limited Edition | 47453 | [47453-dragon-ball-raging-blast-2-limited-edition.json](./47453-dragon-ball-raging-blast-2-limited-edition.json) |
+| Dragon Ball: Revenge of King Piccolo | 19309 | [19309-dragon-ball-revenge-of-king-piccolo.json](./19309-dragon-ball-revenge-of-king-piccolo.json) |
 | Dragon Ball: Sparking! Zero | 279634 | [279634-dragon-ball-sparking-zero.json](./279634-dragon-ball-sparking-zero.json) |
 | Dragon Ball: Sparking! Zero - Collector's Edition | 324760 | [324760-dragon-ball-sparking-zero-collectors-edition.json](./324760-dragon-ball-sparking-zero-collectors-edition.json) |
 | Dragon Ball: Sparking! Zero - Deluxe Edition | 319398 | [319398-dragon-ball-sparking-zero-deluxe-edition.json](./319398-dragon-ball-sparking-zero-deluxe-edition.json) |
@@ -14539,6 +14546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Keeper 3 | 12278 | [12278-dungeon-keeper-3.json](./12278-dungeon-keeper-3.json) |
 | Dungeon Keeper Online | 92414 | [92414-dungeon-keeper-online.json](./92414-dungeon-keeper-online.json) |
 | Dungeon Keeper Premium | 334252 | [334252-dungeon-keeper-premium.json](./334252-dungeon-keeper-premium.json) |
+| Dungeon Keeper: The Deeper Dungeons | 9226 | [9226-dungeon-keeper-the-deeper-dungeons.json](./9226-dungeon-keeper-the-deeper-dungeons.json) |
 | Dungeon Kid | 48511 | [48511-dungeon-kid.json](./48511-dungeon-kid.json) |
 | Dungeon Killer | 400474 | [400474-dungeon-killer.json](./400474-dungeon-killer.json) |
 | Dungeon Killing | 355210 | [355210-dungeon-killing.json](./355210-dungeon-killing.json) |
