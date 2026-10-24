@@ -11890,6 +11890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snaker 64 | 244757 | [244757-snaker-64.json](./244757-snaker-64.json) |
 | Snakes | 195497 | [195497-snakes.json](./195497-snakes.json) |
 | Snakes | 201995 | [201995-snakes.json](./201995-snakes.json) |
+| Snakes 'n' Ladders: Origins - Episode 1 | 30590 | [30590-snakes-n-ladders-origins-episode-1.json](./30590-snakes-n-ladders-origins-episode-1.json) |
 | Snakes & Ladders | 147984 | [147984-snakes-and-ladders.json](./147984-snakes-and-ladders.json) |
 | Snakes & Ladders in Aquarium | 54379 | [54379-snakes-and-ladders-in-aquarium.json](./54379-snakes-and-ladders-in-aquarium.json) |
 | Snakes and Ladders | 106570 | [106570-snakes-and-ladders.json](./106570-snakes-and-ladders.json) |
@@ -13929,6 +13930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Hexacide | 136388 | [136388-sonic-hexacide.json](./136388-sonic-hexacide.json) |
 | Sonic Hopping | 261271 | [261271-sonic-hopping.json](./261271-sonic-hopping.json) |
 | Sonic Hopping 2 | 261272 | [261272-sonic-hopping-2.json](./261272-sonic-hopping-2.json) |
+| Sonic Hunter VR | 30549 | [30549-sonic-hunter-vr.json](./30549-sonic-hunter-vr.json) |
 | Sonic Illusion | 334736 | [334736-sonic-illusion.json](./334736-sonic-illusion.json) |
 | Sonic in Crash Bandicoot 2 | 338802 | [338802-sonic-in-crash-bandicoot-2.json](./338802-sonic-in-crash-bandicoot-2.json) |
 | Sonic in Mario's Mind | 320908 | [320908-sonic-in-marios-mind.json](./320908-sonic-in-marios-mind.json) |
