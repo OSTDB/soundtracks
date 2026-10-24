@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nainai's Recipe | 152085 | [152085-nainais-recipe.json](./152085-nainais-recipe.json) |
 | Naious | 213623 | [213623-naious.json](./213623-naious.json) |
 | Nair Pico | 364265 | [364265-nair-pico.json](./364265-nair-pico.json) |
+| Nairi: Tower of Shirin | 57192 | [57192-nairi-tower-of-shirin.json](./57192-nairi-tower-of-shirin.json) |
 | Nairo High School: Seishun Hakusho | 52609 | [52609-nairo-high-school-seishun-hakusho.json](./52609-nairo-high-school-seishun-hakusho.json) |
 | Nairo High School: Seishun Hakusho | 52611 | [52611-nairo-high-school-seishun-hakusho.json](./52611-nairo-high-school-seishun-hakusho.json) |
 | Nairobi X | 139890 | [139890-nairobi-x.json](./139890-nairobi-x.json) |
@@ -2333,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetHack | 207850 | [207850-nethack.json](./207850-nethack.json) |
 | NetHack | 2895 | [2895-nethack.json](./2895-nethack.json) |
 | Nethack: Falcon's Eye | 71342 | [71342-nethack-falcons-eye.json](./71342-nethack-falcons-eye.json) |
+| Nether | 9490 | [9490-nether.json](./9490-nether.json) |
 | Nether Abyss | 424049 | [424049-nether-abyss.json](./424049-nether-abyss.json) |
 | Nether Dungeons | 323221 | [323221-nether-dungeons.json](./323221-nether-dungeons.json) |
 | Nether Earth | 38744 | [38744-nether-earth.json](./38744-nether-earth.json) |
