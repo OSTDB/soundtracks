@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Eternal: Dissolution | 9581 | [9581-dark-eternal-dissolution.json](./9581-dark-eternal-dissolution.json) |
 | Dark Eyed Angels | 260222 | [260222-dark-eyed-angels.json](./260222-dark-eyed-angels.json) |
 | Dark Eyes | 145629 | [145629-dark-eyes.json](./145629-dark-eyes.json) |
+| Dark Eyes: BattleGate | 37555 | [37555-dark-eyes-battlegate.json](./37555-dark-eyes-battlegate.json) |
 | Dark Eyes: Millennium 2000 | 145632 | [145632-dark-eyes-millennium-2000.json](./145632-dark-eyes-millennium-2000.json) |
 | Dark Fable | 116861 | [116861-dark-fable.json](./116861-dark-fable.json) |
 | Dark Fairy Fantasy | 122432 | [122432-dark-fairy-fantasy.json](./122432-dark-fairy-fantasy.json) |
@@ -6129,7 +6130,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Conan: Kieta Hakase to Machigai Sagashi no Tou | 79555 | [79555-detective-conan-kieta-hakase-to-machigai-sagashi-no-tou.json](./79555-detective-conan-kieta-hakase-to-machigai-sagashi-no-tou.json) |
 | Detective Conan: Kiganshima Hihou Densetsu | 209495 | [209495-detective-conan-kiganshima-hihou-densetsu.json](./209495-detective-conan-kiganshima-hihou-densetsu.json) |
 | Detective Conan: Kigantou Hihou Densetsu | 50561 | [50561-detective-conan-kigantou-hihou-densetsu.json](./50561-detective-conan-kigantou-hihou-densetsu.json) |
+| Detective Conan: Majutsushi no Chousenjou! | 37569 | [37569-detective-conan-majutsushi-no-chousenjou.json](./37569-detective-conan-majutsushi-no-chousenjou.json) |
 | Detective Conan: Marionette Symphony | 61418 | [61418-detective-conan-marionette-symphony.json](./61418-detective-conan-marionette-symphony.json) |
+| Detective Conan: Nishi no Meitantei Saidai no Kiki!? | 37568 | [37568-detective-conan-nishi-no-meitantei-saidai-no-kiki.json](./37568-detective-conan-nishi-no-meitantei-saidai-no-kiki.json) |
 | Detective Conan: Phantom Rhapsody | 61419 | [61419-detective-conan-phantom-rhapsody.json](./61419-detective-conan-phantom-rhapsody.json) |
 | Detective Conan: Trick Trick Vol. 1 | 84172 | [84172-detective-conan-trick-trick-vol-1.json](./84172-detective-conan-trick-trick-vol-1.json) |
 | Detective Conan: Tsuioku no Gensou | 21428 | [21428-detective-conan-tsuioku-no-gensou.json](./21428-detective-conan-tsuioku-no-gensou.json) |
@@ -7177,9 +7180,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon 20th Anniversary Digivice | 270626 | [270626-digimon-20th-anniversary-digivice.json](./270626-digimon-20th-anniversary-digivice.json) |
 | Digimon 6 | 247399 | [247399-digimon-6.json](./247399-digimon-6.json) |
 | Digimon Adventure | 247397 | [247397-digimon-adventure.json](./247397-digimon-adventure.json) |
+| Digimon Adventure 02: D-1 Tamers | 37553 | [37553-digimon-adventure-02-d-1-tamers.json](./37553-digimon-adventure-02-d-1-tamers.json) |
 | Digimon Adventure Trading Card Game | 276115 | [276115-digimon-adventure-trading-card-game.json](./276115-digimon-adventure-trading-card-game.json) |
 | Digimon All-Star Rumble | 9286 | [9286-digimon-all-star-rumble.json](./9286-digimon-all-star-rumble.json) |
 | Digimon Alysion | 336087 | [336087-digimon-alysion.json](./336087-digimon-alysion.json) |
+| Digimon Anode Tamer/Cathode Tamer: Veedramon Version | 37554 | [37554-digimon-anode-tamer-cathode-tamer-veedramon-version.json](./37554-digimon-anode-tamer-cathode-tamer-veedramon-version.json) |
 | Digimon Collectors | 108999 | [108999-digimon-collectors.json](./108999-digimon-collectors.json) |
 | Digimon Color Monster Hunter 20th Edition | 335863 | [335863-digimon-color-monster-hunter-20th-edition.json](./335863-digimon-color-monster-hunter-20th-edition.json) |
 | Digimon Crystal Version II | 247401 | [247401-digimon-crystal-version-ii.json](./247401-digimon-crystal-version-ii.json) |
@@ -7215,6 +7220,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Tamer Frontier | 56444 | [56444-digimon-tamer-frontier.json](./56444-digimon-tamer-frontier.json) |
 | Digimon Tamers: Battle Spirit | 37697 | [37697-digimon-tamers-battle-spirit.json](./37697-digimon-tamers-battle-spirit.json) |
 | Digimon Tamers: Battle Spirit Ver 1.5 | 63935 | [63935-digimon-tamers-battle-spirit-ver-1-5.json](./63935-digimon-tamers-battle-spirit-ver-1-5.json) |
+| Digimon Tamers: Brave Tamer | 37552 | [37552-digimon-tamers-brave-tamer.json](./37552-digimon-tamers-brave-tamer.json) |
+| Digimon Tamers: Digimon Medley | 37551 | [37551-digimon-tamers-digimon-medley.json](./37551-digimon-tamers-digimon-medley.json) |
 | Digimon Tamers: Pocket Culumon | 108939 | [108939-digimon-tamers-pocket-culumon.json](./108939-digimon-tamers-pocket-culumon.json) |
 | Digimon Up | 395561 | [395561-digimon-up.json](./395561-digimon-up.json) |
 | Digimon Vital Bracelet Lab | 185990 | [185990-digimon-vital-bracelet-lab.json](./185990-digimon-vital-bracelet-lab.json) |
@@ -7288,8 +7295,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Master | 74722 | [74722-digital-master.json](./74722-digital-master.json) |
 | Digital Meow | 303672 | [303672-digital-meow.json](./303672-digital-meow.json) |
 | Digital Messiah | 229805 | [229805-digital-messiah.json](./229805-digital-messiah.json) |
+| Digital Monster Card Game Ver. WonderSwan Color | 37549 | [37549-digital-monster-card-game-ver-wonderswan-color.json](./37549-digital-monster-card-game-ver-wonderswan-color.json) |
 | Digital Monster X | 274145 | [274145-digital-monster-x.json](./274145-digital-monster-x.json) |
 | Digital Monster X Ver.2 | 274146 | [274146-digital-monster-x-ver-2.json](./274146-digital-monster-x-ver-2.json) |
+| Digital Monster: D Project | 37550 | [37550-digital-monster-d-project.json](./37550-digital-monster-d-project.json) |
 | Digital Monster: Net Driver | 294204 | [294204-digital-monster-net-driver.json](./294204-digital-monster-net-driver.json) |
 | Digital Monsters 3 | 247407 | [247407-digital-monsters-3.json](./247407-digital-monsters-3.json) |
 | Digital Paint: Paintball 2 | 67950 | [67950-digital-paint-paintball-2.json](./67950-digital-paint-paintball-2.json) |
@@ -9486,6 +9495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokodemo Chinchin | 59127 | [59127-dokodemo-chinchin.json](./59127-dokodemo-chinchin.json) |
 | Dokodemo Crash-kun | 210242 | [210242-dokodemo-crash-kun.json](./210242-dokodemo-crash-kun.json) |
 | Dokodemo Dorayaki Doraemon | 199449 | [199449-dokodemo-dorayaki-doraemon.json](./199449-dokodemo-dorayaki-doraemon.json) |
+| Dokodemo Hamster 3: O Dekake Safuran | 37548 | [37548-dokodemo-hamster-3-o-dekake-safuran.json](./37548-dokodemo-hamster-3-o-dekake-safuran.json) |
 | Dokodemo Mahjong | 43966 | [43966-dokodemo-mahjong.json](./43966-dokodemo-mahjong.json) |
 | Dokodemo Mahjong Color | 75456 | [75456-dokodemo-mahjong-color.json](./75456-dokodemo-mahjong-color.json) |
 | Dokodemo Pop'n Music | 227745 | [227745-dokodemo-popn-music.json](./227745-dokodemo-popn-music.json) |
