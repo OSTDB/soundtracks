@@ -1560,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignited in Cavern | 285690 | [285690-ignited-in-cavern.json](./285690-ignited-in-cavern.json) |
 | Ignitement | 407440 | [407440-ignitement.json](./407440-ignitement.json) |
 | Ignition | 180309 | [180309-ignition.json](./180309-ignition.json) |
+| Ignition | 7139 | [7139-ignition.json](./7139-ignition.json) |
 | Ignition 2000: Origins | 374415 | [374415-ignition-2000-origins.json](./374415-ignition-2000-origins.json) |
 | Ignition Arena | 314896 | [314896-ignition-arena.json](./314896-ignition-arena.json) |
 | Ignorance Fighter II: Tour Bus | 181754 | [181754-ignorance-fighter-ii-tour-bus.json](./181754-ignorance-fighter-ii-tour-bus.json) |
@@ -2037,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortals Fenyx Rising: Season Pass | 293724 | [293724-immortals-fenyx-rising-season-pass.json](./293724-immortals-fenyx-rising-season-pass.json) |
 | Immortals Fenyx Rising: The Lost Gods | 144580 | [144580-immortals-fenyx-rising-the-lost-gods.json](./144580-immortals-fenyx-rising-the-lost-gods.json) |
 | Immortals Must Die | 287880 | [287880-immortals-must-die.json](./287880-immortals-must-die.json) |
+| Immortals of Aveum | 228531 | [228531-immortals-of-aveum.json](./228531-immortals-of-aveum.json) |
 | Immortals of Aveum: Deluxe Edition | 245934 | [245934-immortals-of-aveum-deluxe-edition.json](./245934-immortals-of-aveum-deluxe-edition.json) |
 | Immortals Revenge | 340507 | [340507-immortals-revenge.json](./340507-immortals-revenge.json) |
 | Immortals: Muv-Luv Alternative | 194560 | [194560-immortals-muv-luv-alternative.json](./194560-immortals-muv-luv-alternative.json) |
