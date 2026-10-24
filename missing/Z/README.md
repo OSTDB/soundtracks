@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaitaku Touhyou System: Spat4-Wide | 37749 | [37749-zaitaku-touhyou-system-spat4-wide.json](./37749-zaitaku-touhyou-system-spat4-wide.json) |
 | Zak | 125835 | [125835-zak.json](./125835-zak.json) |
 | Zak McKracken and the Alien Mindbenders | 106 | [106-zak-mckracken-and-the-alien-mindbenders.json](./106-zak-mckracken-and-the-alien-mindbenders.json) |
+| Zak McKracken and the Alien Mindbenders Enhanced | 2280 | [2280-zak-mckracken-and-the-alien-mindbenders-enhanced.json](./2280-zak-mckracken-and-the-alien-mindbenders-enhanced.json) |
 | Zak McKracken: A Mansion, a Meteor and the Alien Mindbenders | 328014 | [328014-zak-mckracken-a-mansion-a-meteor-and-the-alien-mindbenders.json](./328014-zak-mckracken-a-mansion-a-meteor-and-the-alien-mindbenders.json) |
 | Zak's Son | 94673 | [94673-zaks-son.json](./94673-zaks-son.json) |
 | Zakantosh Cardgame | 263038 | [263038-zakantosh-cardgame.json](./263038-zakantosh-cardgame.json) |
@@ -680,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zepball Deluxe | 135696 | [135696-zepball-deluxe.json](./135696-zepball-deluxe.json) |
 | Zeph | 133173 | [133173-zeph.json](./133173-zeph.json) |
 | Zephinala | 288446 | [288446-zephinala.json](./288446-zephinala.json) |
+| Zephyr | 2199 | [2199-zephyr.json](./2199-zephyr.json) |
 | Zephyr | 327268 | [327268-zephyr.json](./327268-zephyr.json) |
 | Zephyr: The Cloud Odyssey | 182707 | [182707-zephyr-the-cloud-odyssey.json](./182707-zephyr-the-cloud-odyssey.json) |
 | Zephyr's Pass | 320282 | [320282-zephyrs-pass.json](./320282-zephyrs-pass.json) |
@@ -705,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Comico | 185970 | [185970-zero-comico.json](./185970-zero-comico.json) |
 | Zero Conflict TD | 271276 | [271276-zero-conflict-td.json](./271276-zero-conflict-td.json) |
 | Zero Core: Exile | 140579 | [140579-zero-core-exile.json](./140579-zero-core-exile.json) |
+| Zero Critical | 8418 | [8418-zero-critical.json](./8418-zero-critical.json) |
 | Zero Days Since | 289337 | [289337-zero-days-since.json](./289337-zero-days-since.json) |
 | Zero Deaths | 116129 | [116129-zero-deaths.json](./116129-zero-deaths.json) |
 | Zero Degrees | 258702 | [258702-zero-degrees.json](./258702-zero-degrees.json) |
@@ -1649,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZombieThon | 98843 | [98843-zombiethon.json](./98843-zombiethon.json) |
 | Zombietron 1: Cemetery Guy | 94555 | [94555-zombietron-1-cemetery-guy.json](./94555-zombietron-1-cemetery-guy.json) |
 | ZombieVan Drive | 156972 | [156972-zombievan-drive.json](./156972-zombievan-drive.json) |
+| Zombieville | 2278 | [2278-zombieville.json](./2278-zombieville.json) |
 | Zombieville USA | 69191 | [69191-zombieville-usa.json](./69191-zombieville-usa.json) |
 | Zombieville USA 3D | 212108 | [212108-zombieville-usa-3d.json](./212108-zombieville-usa-3d.json) |
 | ZombieVital DG | 147267 | [147267-zombievital-dg.json](./147267-zombievital-dg.json) |
@@ -1739,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone of the Enders HD Collection: Limited Collector's Edition | 44659 | [44659-zone-of-the-enders-hd-collection-limited-collectors-edition.json](./44659-zone-of-the-enders-hd-collection-limited-collectors-edition.json) |
 | Zone of the Enders: The 2nd Runner - Special Edition | 258844 | [258844-zone-of-the-enders-the-2nd-runner-special-edition.json](./258844-zone-of-the-enders-the-2nd-runner-special-edition.json) |
 | Zone of the Enders: The Fist of Mars | 1474 | [1474-zone-of-the-enders-the-fist-of-mars.json](./1474-zone-of-the-enders-the-fist-of-mars.json) |
+| Zone Raiders | 2198 | [2198-zone-raiders.json](./2198-zone-raiders.json) |
 | Zone Ranger | 12974 | [12974-zone-ranger.json](./12974-zone-ranger.json) |
 | Zone Sega | 202809 | [202809-zone-sega.json](./202809-zone-sega.json) |
 | Zone Trip | 264036 | [264036-zone-trip.json](./264036-zone-trip.json) |
