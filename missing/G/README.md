@@ -7831,6 +7831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Mine Girl | 355183 | [355183-ground-mine-girl.json](./355183-ground-mine-girl.json) |
 | Ground of Aces | 249885 | [249885-ground-of-aces.json](./249885-ground-of-aces.json) |
 | Ground Pounders | 36456 | [36456-ground-pounders.json](./36456-ground-pounders.json) |
+| Ground Pounders: Tarka | 10379 | [10379-ground-pounders-tarka.json](./10379-ground-pounders-tarka.json) |
 | Ground Runner: Trials | 82467 | [82467-ground-runner-trials.json](./82467-ground-runner-trials.json) |
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
 | Ground War | 127606 | [127606-ground-war.json](./127606-ground-war.json) |
