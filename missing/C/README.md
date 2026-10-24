@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Callus | 387375 | [387375-callus.json](./387375-callus.json) |
 | Cally's Caves 4 | 81211 | [81211-callys-caves-4.json](./81211-callys-caves-4.json) |
 | Cally's Caves Definitive Collection | 52714 | [52714-callys-caves-definitive-collection.json](./52714-callys-caves-definitive-collection.json) |
+| Cally's Trials | 32583 | [32583-callys-trials.json](./32583-callys-trials.json) |
 | Calm Before the Storm | 374437 | [374437-calm-before-the-storm.json](./374437-calm-before-the-storm.json) |
 | Calm Before The Storm | 316852 | [316852-calm-before-the-storm.json](./316852-calm-before-the-storm.json) |
 | Calm Cards: Klondike | 88356 | [88356-calm-cards-klondike.json](./88356-calm-cards-klondike.json) |
@@ -1981,6 +1982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardinal Land | 134403 | [134403-cardinal-land.json](./134403-cardinal-land.json) |
 | Cardinal Land: Jigsaw & Tangram Puzzle Blend | 87213 | [87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json](./87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json) |
 | Cardinal Quest | 46744 | [46744-cardinal-quest.json](./46744-cardinal-quest.json) |
+| Cardinal Quest 2 | 35050 | [35050-cardinal-quest-2.json](./35050-cardinal-quest-2.json) |
 | Cardinal Ramship Pirate | 176295 | [176295-cardinal-ramship-pirate.json](./176295-cardinal-ramship-pirate.json) |
 | Cardinal Sequence | 333163 | [333163-cardinal-sequence.json](./333163-cardinal-sequence.json) |
 | Cardinal Sins | 308983 | [308983-cardinal-sins.json](./308983-cardinal-sins.json) |
@@ -2891,6 +2893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlequest | 48070 | [48070-castlequest.json](./48070-castlequest.json) |
 | Castlerama | 256185 | [256185-castlerama.json](./256185-castlerama.json) |
 | Castles | 11267 | [11267-castles.json](./11267-castles.json) |
+| Castles | 34921 | [34921-castles.json](./34921-castles.json) |
 | Castles & Castellans | 406688 | [406688-castles-and-castellans.json](./406688-castles-and-castellans.json) |
 | Castles & Catapults | 155006 | [155006-castles-and-catapults.json](./155006-castles-and-catapults.json) |
 | Castles & Krakens | 112280 | [112280-castles-and-krakens.json](./112280-castles-and-krakens.json) |
@@ -7696,6 +7699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clandestine | 14465 | [14465-clandestine.json](./14465-clandestine.json) |
 | Clandestine Castle Crashing | 262566 | [262566-clandestine-castle-crashing.json](./262566-clandestine-castle-crashing.json) |
 | Clandestine: Anomaly | 232502 | [232502-clandestine-anomaly.json](./232502-clandestine-anomaly.json) |
+| Clandestinity of Elsie | 35025 | [35025-clandestinity-of-elsie.json](./35025-clandestinity-of-elsie.json) |
 | Clandestiny | 57588 | [57588-clandestiny.json](./57588-clandestiny.json) |
 | Clang | 85956 | [85956-clang.json](./85956-clang.json) |
 | Clankers! | 376050 | [376050-clankers.json](./376050-clankers.json) |
@@ -12042,6 +12046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Distortion | 412281 | [412281-cosmic-distortion.json](./412281-cosmic-distortion.json) |
 | Cosmic DJ | 14400 | [14400-cosmic-dj.json](./14400-cosmic-dj.json) |
 | Cosmic Dream | 380091 | [380091-cosmic-dream.json](./380091-cosmic-dream.json) |
+| Cosmic Dust & Rust | 32635 | [32635-cosmic-dust-and-rust.json](./32635-cosmic-dust-and-rust.json) |
 | Cosmic Epsilon | 48689 | [48689-cosmic-epsilon.json](./48689-cosmic-epsilon.json) |
 | Cosmic Express | 27328 | [27328-cosmic-express.json](./27328-cosmic-express.json) |
 | Cosmic Family | 4772 | [4772-cosmic-family.json](./4772-cosmic-family.json) |
