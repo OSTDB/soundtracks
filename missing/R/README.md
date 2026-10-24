@@ -5101,6 +5101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenant in the Paradise | 114501 | [114501-revenant-in-the-paradise.json](./114501-revenant-in-the-paradise.json) |
 | Revenant Knight | 322602 | [322602-revenant-knight.json](./322602-revenant-knight.json) |
 | Revenant March | 127858 | [127858-revenant-march.json](./127858-revenant-march.json) |
+| Revenant Saga | 31472 | [31472-revenant-saga.json](./31472-revenant-saga.json) |
 | Revenant Saga & Revenant Dogma | 196682 | [196682-revenant-saga-and-revenant-dogma.json](./196682-revenant-saga-and-revenant-dogma.json) |
 | Revenant Survivors | 400235 | [400235-revenant-survivors.json](./400235-revenant-survivors.json) |
 | Revenant: In Memory Of The Day | 334494 | [334494-revenant-in-memory-of-the-day.json](./334494-revenant-in-memory-of-the-day.json) |
