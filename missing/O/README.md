@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Heat | 112052 | [112052-offroad-heat.json](./112052-offroad-heat.json) |
 | Offroad Jeep Driving | 304329 | [304329-offroad-jeep-driving.json](./304329-offroad-jeep-driving.json) |
 | Offroad Jeep Quest: Mountain Trails | 293363 | [293363-offroad-jeep-quest-mountain-trails.json](./293363-offroad-jeep-quest-mountain-trails.json) |
+| Offroad Legends | 88984 | [88984-offroad-legends.json](./88984-offroad-legends.json) |
 | Offroad Mania | 128460 | [128460-offroad-mania.json](./128460-offroad-mania.json) |
 | Offroad Mechanic Simulator | 149870 | [149870-offroad-mechanic-simulator.json](./149870-offroad-mechanic-simulator.json) |
 | Offroad Mini Racing | 143547 | [143547-offroad-mini-racing.json](./143547-offroad-mini-racing.json) |
