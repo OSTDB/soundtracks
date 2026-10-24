@@ -767,7 +767,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3750,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayla Bunny | 32833 | [32833-bayla-bunny.json](./32833-bayla-bunny.json) |
 | Bayoen Syokin Sougaku 50,000 Yen Sohdatsu Quiz | 239569 | [239569-bayoen-syokin-sougaku-50-000-yen-sohdatsu-quiz.json](./239569-bayoen-syokin-sougaku-50-000-yen-sohdatsu-quiz.json) |
 | Bayonetta / Forza Motorsport 3 | 286973 | [286973-bayonetta-forza-motorsport-3.json](./286973-bayonetta-forza-motorsport-3.json) |
+| Bayonetta & Vanquish 10th Anniversary Bundle | 127258 | [127258-bayonetta-and-vanquish-10th-anniversary-bundle.json](./127258-bayonetta-and-vanquish-10th-anniversary-bundle.json) |
 | Bayonetta + Bayonetta 2: Special Edition | 332282 | [332282-bayonetta-bayonetta-2-special-edition.json](./332282-bayonetta-bayonetta-2-special-edition.json) |
 | Bayonetta 2 | 279336 | [279336-bayonetta-2.json](./279336-bayonetta-2.json) |
 | Bayonetta 2: Bonus Edition | 51154 | [51154-bayonetta-2-bonus-edition.json](./51154-bayonetta-2-bonus-edition.json) |
@@ -11324,6 +11324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty: Drag Racing | 243047 | [243047-bounty-drag-racing.json](./243047-bounty-drag-racing.json) |
 | Bounty: Special Edition | 206470 | [206470-bounty-special-edition.json](./206470-bounty-special-edition.json) |
 | BountyHeart | 213641 | [213641-bountyheart.json](./213641-bountyheart.json) |
+| Bounzy! | 89139 | [89139-bounzy.json](./89139-bounzy.json) |
 | Bouquet | 184525 | [184525-bouquet.json](./184525-bouquet.json) |
 | Bouquet | 346085 | [346085-bouquet.json](./346085-bouquet.json) |
 | Bourbon Empire | 217320 | [217320-bourbon-empire.json](./217320-bourbon-empire.json) |
