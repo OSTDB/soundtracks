@@ -7531,6 +7531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant's Rise | 393964 | [393964-merchants-rise.json](./393964-merchants-rise.json) |
 | Merchants & Mercenaries | 30846 | [30846-merchants-and-mercenaries.json](./30846-merchants-and-mercenaries.json) |
 | Merchants of Kaidan | 17288 | [17288-merchants-of-kaidan.json](./17288-merchants-of-kaidan.json) |
+| Merchants of Rosewall | 292603 | [292603-merchants-of-rosewall.json](./292603-merchants-of-rosewall.json) |
 | Merchants of Sol | 207380 | [207380-merchants-of-sol.json](./207380-merchants-of-sol.json) |
 | Merchants of the Caribbean | 160182 | [160182-merchants-of-the-caribbean.json](./160182-merchants-of-the-caribbean.json) |
 | Merchants of the Stars | 348404 | [348404-merchants-of-the-stars.json](./348404-merchants-of-the-stars.json) |
@@ -12594,6 +12595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monotose | 202316 | [202316-monotose.json](./202316-monotose.json) |
 | Monovert DX | 115350 | [115350-monovert-dx.json](./115350-monovert-dx.json) |
 | Monowars: Red Zone | 106423 | [106423-monowars-red-zone.json](./106423-monowars-red-zone.json) |
+| Monowave | 276631 | [276631-monowave.json](./276631-monowave.json) |
 | Monoyellow Madness | 321443 | [321443-monoyellow-madness.json](./321443-monoyellow-madness.json) |
 | Monpals | 228383 | [228383-monpals.json](./228383-monpals.json) |
 | Monpic: The Hatchling Meets a Girl | 324138 | [324138-monpic-the-hatchling-meets-a-girl.json](./324138-monpic-the-hatchling-meets-a-girl.json) |
@@ -14468,6 +14470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 21: Limited Edition Liveries | 168363 | [168363-motogp-21-limited-edition-liveries.json](./168363-motogp-21-limited-edition-liveries.json) |
 | MotoGP 22: Day One Edition | 300469 | [300469-motogp-22-day-one-edition.json](./300469-motogp-22-day-one-edition.json) |
 | MotoGP 23 | 243215 | [243215-motogp-23.json](./243215-motogp-23.json) |
+| MotoGP 24 | 291932 | [291932-motogp-24.json](./291932-motogp-24.json) |
 | MotoGP 24: Day One Edition | 292136 | [292136-motogp-24-day-one-edition.json](./292136-motogp-24-day-one-edition.json) |
 | MotoGP 24: Nolan Helmet Liveries | 309663 | [309663-motogp-24-nolan-helmet-liveries.json](./309663-motogp-24-nolan-helmet-liveries.json) |
 | MotoGP 24: Test Suits | 309662 | [309662-motogp-24-test-suits.json](./309662-motogp-24-test-suits.json) |
