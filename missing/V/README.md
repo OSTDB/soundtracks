@@ -1189,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verdant Village | 134277 | [134277-verdant-village.json](./134277-verdant-village.json) |
 | Verdge | 377701 | [377701-verdge.json](./377701-verdge.json) |
 | Verdict | 166606 | [166606-verdict.json](./166606-verdict.json) |
+| Verdict Guilty | 78368 | [78368-verdict-guilty.json](./78368-verdict-guilty.json) |
 | Verdict: Descent | 258086 | [258086-verdict-descent.json](./258086-verdict-descent.json) |
 | Verdonia | 92446 | [92446-verdonia.json](./92446-verdonia.json) |
 | Verdoria's Kingdom Quest: Magic, Battles & Sorcery | 308485 | [308485-verdorias-kingdom-quest-magic-battles-and-sorcery.json](./308485-verdorias-kingdom-quest-magic-battles-and-sorcery.json) |
