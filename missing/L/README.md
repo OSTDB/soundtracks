@@ -1835,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn Through Riddles! Masterpieces of the World | 410386 | [410386-learn-through-riddles-masterpieces-of-the-world.json](./410386-learn-through-riddles-masterpieces-of-the-world.json) |
 | Learn to Add | 92840 | [92840-learn-to-add.json](./92840-learn-to-add.json) |
 | Learn to Dodge | 274344 | [274344-learn-to-dodge.json](./274344-learn-to-dodge.json) |
+| Learn to Fly | 141082 | [141082-learn-to-fly.json](./141082-learn-to-fly.json) |
 | Learn to Fly 2 | 58593 | [58593-learn-to-fly-2.json](./58593-learn-to-fly-2.json) |
 | Learn to Fly 3 | 29507 | [29507-learn-to-fly-3.json](./29507-learn-to-fly-3.json) |
 | Learn to Play Chess with Fritz & Chesster | 323714 | [323714-learn-to-play-chess-with-fritz-and-chesster.json](./323714-learn-to-play-chess-with-fritz-and-chesster.json) |
@@ -6635,6 +6636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lagoon: The Trail of Destiny | 214018 | [214018-lost-lagoon-the-trail-of-destiny.json](./214018-lost-lagoon-the-trail-of-destiny.json) |
 | Lost Lands | 246264 | [246264-lost-lands.json](./246264-lost-lands.json) |
 | Lost Lands X | 334170 | [334170-lost-lands-x.json](./334170-lost-lands-x.json) |
+| Lost Lands: Dark Overlord | 35078 | [35078-lost-lands-dark-overlord.json](./35078-lost-lands-dark-overlord.json) |
 | Lost Lands: Ice Spell | 105285 | [105285-lost-lands-ice-spell.json](./105285-lost-lands-ice-spell.json) |
 | Lost Lands: Mahjong | 33702 | [33702-lost-lands-mahjong.json](./33702-lost-lands-mahjong.json) |
 | Lost Lands: Mistakes of the Past | 112935 | [112935-lost-lands-mistakes-of-the-past.json](./112935-lost-lands-mistakes-of-the-past.json) |
