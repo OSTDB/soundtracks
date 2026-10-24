@@ -2506,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team17 Indie Heroes | 99526 | [99526-team17-indie-heroes.json](./99526-team17-indie-heroes.json) |
 | Teamball.io | 154815 | [154815-teamball-io.json](./154815-teamball-io.json) |
 | Teamchef | 93006 | [93006-teamchef.json](./93006-teamchef.json) |
+| Teamfight Manager | 144006 | [144006-teamfight-manager.json](./144006-teamfight-manager.json) |
 | Teamfight Manager 2 | 369638 | [369638-teamfight-manager-2.json](./369638-teamfight-manager-2.json) |
 | TeamJumpers 2: New Reality | 152032 | [152032-teamjumpers-2-new-reality.json](./152032-teamjumpers-2-new-reality.json) |
 | Teamkill | 191560 | [191560-teamkill.json](./191560-teamkill.json) |
@@ -11471,6 +11472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -13346,6 +13348,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2: Apartment Pets | 21464 | [21464-the-sims-2-apartment-pets.json](./21464-the-sims-2-apartment-pets.json) |
 | The Sims 2: Bon Voyage | 5536 | [5536-the-sims-2-bon-voyage.json](./5536-the-sims-2-bon-voyage.json) |
 | The Sims 2: Castaway | 192908 | [192908-the-sims-2-castaway.json](./192908-the-sims-2-castaway.json) |
+| The Sims 2: Celebration! Stuff | 13131 | [13131-the-sims-2-celebration-stuff.json](./13131-the-sims-2-celebration-stuff.json) |
+| The Sims 2: Family Fun Stuff | 13128 | [13128-the-sims-2-family-fun-stuff.json](./13128-the-sims-2-family-fun-stuff.json) |
+| The Sims 2: Glamour Life Stuff | 13129 | [13129-the-sims-2-glamour-life-stuff.json](./13129-the-sims-2-glamour-life-stuff.json) |
 | The Sims 2: IKEA Home Stuff | 13135 | [13135-the-sims-2-ikea-home-stuff.json](./13135-the-sims-2-ikea-home-stuff.json) |
 | The Sims 2: Legacy Collection | 329955 | [329955-the-sims-2-legacy-collection.json](./329955-the-sims-2-legacy-collection.json) |
 | The Sims 2: Nightlife | 5534 | [5534-the-sims-2-nightlife.json](./5534-the-sims-2-nightlife.json) |
@@ -13365,6 +13370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Ambitions | 13098 | [13098-the-sims-3-ambitions.json](./13098-the-sims-3-ambitions.json) |
 | The Sims 3: Aurora Skies | 14583 | [14583-the-sims-3-aurora-skies.json](./14583-the-sims-3-aurora-skies.json) |
 | The Sims 3: Expansion Bundle | 136301 | [136301-the-sims-3-expansion-bundle.json](./136301-the-sims-3-expansion-bundle.json) |
+| The Sims 3: Fast Lane Stuff | 13118 | [13118-the-sims-3-fast-lane-stuff.json](./13118-the-sims-3-fast-lane-stuff.json) |
 | The Sims 3: Into the Future | 13116 | [13116-the-sims-3-into-the-future.json](./13116-the-sims-3-into-the-future.json) |
 | The Sims 3: Island Paradise | 13115 | [13115-the-sims-3-island-paradise.json](./13115-the-sims-3-island-paradise.json) |
 | The Sims 3: Late Night | 13112 | [13112-the-sims-3-late-night.json](./13112-the-sims-3-late-night.json) |
@@ -13379,6 +13385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Showtime | 10980 | [10980-the-sims-3-showtime.json](./10980-the-sims-3-showtime.json) |
 | The Sims 3: Showtime Katy Perry Collector's Edition | 30145 | [30145-the-sims-3-showtime-katy-perry-collectors-edition.json](./30145-the-sims-3-showtime-katy-perry-collectors-edition.json) |
 | The Sims 3: Sunlit Tides | 14579 | [14579-the-sims-3-sunlit-tides.json](./14579-the-sims-3-sunlit-tides.json) |
+| The Sims 3: Town Life Stuff | 13120 | [13120-the-sims-3-town-life-stuff.json](./13120-the-sims-3-town-life-stuff.json) |
 | The Sims 3: University Life | 3158 | [3158-the-sims-3-university-life.json](./3158-the-sims-3-university-life.json) |
 | The Sims 4 Halloween Bundle | 272558 | [272558-the-sims-4-halloween-bundle.json](./272558-the-sims-4-halloween-bundle.json) |
 | The Sims 4 Love & Family Bundle | 366930 | [366930-the-sims-4-love-and-family-bundle.json](./366930-the-sims-4-love-and-family-bundle.json) |
@@ -13513,6 +13520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims DJ | 67879 | [67879-the-sims-dj.json](./67879-the-sims-dj.json) |
 | The Sims Medieval | 202064 | [202064-the-sims-medieval.json](./202064-the-sims-medieval.json) |
 | The Sims Medieval: Deluxe Edition | 202062 | [202062-the-sims-medieval-deluxe-edition.json](./202062-the-sims-medieval-deluxe-edition.json) |
+| The Sims Medieval: Pirates and Nobles | 13137 | [13137-the-sims-medieval-pirates-and-nobles.json](./13137-the-sims-medieval-pirates-and-nobles.json) |
 | The Sims Mobile | 28558 | [28558-the-sims-mobile.json](./28558-the-sims-mobile.json) |
 | The Sims Online | 13152 | [13152-the-sims-online.json](./13152-the-sims-online.json) |
 | The Sims Pool | 67873 | [67873-the-sims-pool.json](./67873-the-sims-pool.json) |
@@ -15979,6 +15987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thexder | 9681 | [9681-thexder.json](./9681-thexder.json) |
 | Thexder 95 | 57565 | [57565-thexder-95.json](./57565-thexder-95.json) |
 | They | 80613 | [80613-they.json](./80613-they.json) |
+| They Always Run | 147190 | [147190-they-always-run.json](./147190-they-always-run.json) |
 | They Always Run: Deluxe Edition | 292927 | [292927-they-always-run-deluxe-edition.json](./292927-they-always-run-deluxe-edition.json) |
 | They Are Beasts | 119753 | [119753-they-are-beasts.json](./119753-they-are-beasts.json) |
 | They Are Coming | 272574 | [272574-they-are-coming.json](./272574-they-are-coming.json) |
@@ -16071,6 +16080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Puzzle: Tricks | 313514 | [313514-thief-puzzle-tricks.json](./313514-thief-puzzle-tricks.json) |
 | Thief Shop | 163202 | [163202-thief-shop.json](./163202-thief-shop.json) |
 | Thief Simulator | 61616 | [61616-thief-simulator.json](./61616-thief-simulator.json) |
+| Thief Simulator 2 | 157445 | [157445-thief-simulator-2.json](./157445-thief-simulator-2.json) |
 | Thief Simulator 3 | 380158 | [380158-thief-simulator-3.json](./380158-thief-simulator-3.json) |
 | Thief Simulator VR | 114932 | [114932-thief-simulator-vr.json](./114932-thief-simulator-vr.json) |
 | Thief Simulator VR: Greenview Street | 208840 | [208840-thief-simulator-vr-greenview-street.json](./208840-thief-simulator-vr-greenview-street.json) |
@@ -18601,6 +18611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time of the Wizard | 260308 | [260308-time-of-the-wizard.json](./260308-time-of-the-wizard.json) |
 | Time of the Zombies | 113657 | [113657-time-of-the-zombies.json](./113657-time-of-the-zombies.json) |
 | Time of War | 27638 | [27638-time-of-war.json](./27638-time-of-war.json) |
+| Time on Frog Island | 165399 | [165399-time-on-frog-island.json](./165399-time-on-frog-island.json) |
 | Time on Frog Island: Prologue | 209641 | [209641-time-on-frog-island-prologue.json](./209641-time-on-frog-island-prologue.json) |
 | Time Only Knows | 208411 | [208411-time-only-knows.json](./208411-time-only-knows.json) |
 | Time Out Games | 70470 | [70470-time-out-games.json](./70470-time-out-games.json) |
@@ -26959,6 +26970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Digits | 35217 | [35217-two-digits.json](./35217-two-digits.json) |
 | Two Dollar Suits | 390753 | [390753-two-dollar-suits.json](./390753-two-dollar-suits.json) |
 | Two Doors | 305928 | [305928-two-doors.json](./305928-two-doors.json) |
+| Two Dots | 14047 | [14047-two-dots.json](./14047-two-dots.json) |
 | Two Escapes | 55286 | [55286-two-escapes.json](./55286-two-escapes.json) |
 | Two Eyes | 175271 | [175271-two-eyes.json](./175271-two-eyes.json) |
 | Two Eyes: Nonogram | 292820 | [292820-two-eyes-nonogram.json](./292820-two-eyes-nonogram.json) |
@@ -26975,6 +26987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Heads of the Coin | 86082 | [86082-two-heads-of-the-coin.json](./86082-two-heads-of-the-coin.json) |
 | Two Hoops | 234317 | [234317-two-hoops.json](./234317-two-hoops.json) |
 | Two Hour Escape Mystery: A Puzzling Voyage | 272902 | [272902-two-hour-escape-mystery-a-puzzling-voyage.json](./272902-two-hour-escape-mystery-a-puzzling-voyage.json) |
+| Two Hours One Life | 142289 | [142289-two-hours-one-life.json](./142289-two-hours-one-life.json) |
 | Two Hundred Fifty Six | 362731 | [362731-two-hundred-fifty-six.json](./362731-two-hundred-fifty-six.json) |
 | Two Hundred Ways | 166636 | [166636-two-hundred-ways.json](./166636-two-hundred-ways.json) |
 | Two Identical | 207406 | [207406-two-identical.json](./207406-two-identical.json) |
