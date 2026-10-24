@@ -4301,6 +4301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selfie Girls | 271596 | [271596-selfie-girls.json](./271596-selfie-girls.json) |
 | Selfie Worm | 404362 | [404362-selfie-worm.json](./404362-selfie-worm.json) |
 | Selfish Cupid | 254041 | [254041-selfish-cupid.json](./254041-selfish-cupid.json) |
+| Selfloss | 118622 | [118622-selfloss.json](./118622-selfloss.json) |
 | Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
 | Selfpolis | 217289 | [217289-selfpolis.json](./217289-selfpolis.json) |
 | Selini | 159885 | [159885-selini.json](./159885-selini.json) |
@@ -10205,6 +10206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Lancer | 23933 | [23933-sky-lancer.json](./23933-sky-lancer.json) |
 | Sky Lanes | 333445 | [333445-sky-lanes.json](./333445-sky-lanes.json) |
 | Sky Legends: An Aeropostal Epic | 361845 | [361845-sky-legends-an-aeropostal-epic.json](./361845-sky-legends-an-aeropostal-epic.json) |
+| Sky Link | 118349 | [118349-sky-link.json](./118349-sky-link.json) |
 | Sky Love Boys: Flight Attendant Crush | 370824 | [370824-sky-love-boys-flight-attendant-crush.json](./370824-sky-love-boys-flight-attendant-crush.json) |
 | Sky Love Girls: Flight Attendant Crush | 370797 | [370797-sky-love-girls-flight-attendant-crush.json](./370797-sky-love-girls-flight-attendant-crush.json) |
 | Sky Mad | 310184 | [310184-sky-mad.json](./310184-sky-mad.json) |
@@ -18296,6 +18298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spoop Troop | 304697 | [304697-spoop-troop.json](./304697-spoop-troop.json) |
 | Spooples | 249806 | [249806-spooples.json](./249806-spooples.json) |
 | Spoopy Maryo | 318040 | [318040-spoopy-maryo.json](./318040-spoopy-maryo.json) |
+| Spoorky | 110897 | [110897-spoorky.json](./110897-spoorky.json) |
 | Sporcle | 86844 | [86844-sporcle.json](./86844-sporcle.json) |
 | Sporcle Party | 283574 | [283574-sporcle-party.json](./283574-sporcle-party.json) |
 | Spore | 55043 | [55043-spore.json](./55043-spore.json) |
@@ -21453,6 +21456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StellarFish | 349312 | [349312-stellarfish.json](./349312-stellarfish.json) |
 | Stellario | 265150 | [265150-stellario.json](./265150-stellario.json) |
 | Stellarion | 334158 | [334158-stellarion.json](./334158-stellarion.json) |
+| Stellaris: Ancient Relics | 119187 | [119187-stellaris-ancient-relics.json](./119187-stellaris-ancient-relics.json) |
 | Stellaris: Apocalypse | 90095 | [90095-stellaris-apocalypse.json](./90095-stellaris-apocalypse.json) |
 | Stellaris: Aquatics Species Pack | 218168 | [218168-stellaris-aquatics-species-pack.json](./218168-stellaris-aquatics-species-pack.json) |
 | Stellaris: Astral Planes | 272910 | [272910-stellaris-astral-planes.json](./272910-stellaris-astral-planes.json) |
@@ -26246,6 +26250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Naruto: Clash of Ninja! 4 | 249292 | [249292-super-naruto-clash-of-ninja-4.json](./249292-super-naruto-clash-of-ninja-4.json) |
 | Super Nate Adventure | 138589 | [138589-super-nate-adventure.json](./138589-super-nate-adventure.json) |
 | Super Natural Dorm | 347762 | [347762-super-natural-dorm.json](./347762-super-natural-dorm.json) |
+| Super Naughty Maid | 119037 | [119037-super-naughty-maid.json](./119037-super-naughty-maid.json) |
 | Super Naughty Maid 2 | 122106 | [122106-super-naughty-maid-2.json](./122106-super-naughty-maid-2.json) |
 | Super Navecitas 2 | 110512 | [110512-super-navecitas-2.json](./110512-super-navecitas-2.json) |
 | Super Naxat Open | 37809 | [37809-super-naxat-open.json](./37809-super-naxat-open.json) |
@@ -27407,6 +27412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supershot: Valley Warfare Defense | 345977 | [345977-supershot-valley-warfare-defense.json](./345977-supershot-valley-warfare-defense.json) |
 | Supersize My Heart | 344504 | [344504-supersize-my-heart.json](./344504-supersize-my-heart.json) |
 | SuperSki Pro | 270624 | [270624-superski-pro.json](./270624-superski-pro.json) |
+| SuperSmash | 118366 | [118366-supersmash.json](./118366-supersmash.json) |
 | SuperSnake.io | 58496 | [58496-supersnake-io.json](./58496-supersnake-io.json) |
 | Supersolar | 110778 | [110778-supersolar.json](./110778-supersolar.json) |
 | Supersonic | 265741 | [265741-supersonic.json](./265741-supersonic.json) |
