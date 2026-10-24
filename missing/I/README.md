@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Traffic | 230511 | [230511-i-love-traffic.json](./230511-i-love-traffic.json) |
 | I Love You Freddy | 277010 | [277010-i-love-you-freddy.json](./277010-i-love-you-freddy.json) |
 | I Love You, Colonel Sanders! A Finger Lickin' Good Dating Simulator | 122318 | [122318-i-love-you-colonel-sanders-a-finger-lickin-good-dating-simulator.json](./122318-i-love-you-colonel-sanders-a-finger-lickin-good-dating-simulator.json) |
+| I Ludicrus | 14987 | [14987-i-ludicrus.json](./14987-i-ludicrus.json) |
 | I Luv House Pets | 210081 | [210081-i-luv-house-pets.json](./210081-i-luv-house-pets.json) |
 | I Made A Contract with 3 Cute Devils?! | 206949 | [206949-i-made-a-contract-with-3-cute-devils.json](./206949-i-made-a-contract-with-3-cute-devils.json) |
 | I Made a Game with Zombies in It! | 94033 | [94033-i-made-a-game-with-zombies-in-it.json](./94033-i-made-a-game-with-zombies-in-it.json) |
@@ -2241,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IMVU | 98279 | [98279-imvu.json](./98279-imvu.json) |
 | In | 86435 | [86435-in.json](./86435-in.json) |
 | In - Sight | 123833 | [123833-in-sight.json](./123833-in-sight.json) |
+| In 80 Days Around the World | 14991 | [14991-in-80-days-around-the-world.json](./14991-in-80-days-around-the-world.json) |
 | In a Barrel | 329076 | [329076-in-a-barrel.json](./329076-in-a-barrel.json) |
 | In a Bit of Tales | 344525 | [344525-in-a-bit-of-tales.json](./344525-in-a-bit-of-tales.json) |
 | In A Dark Cave | 179175 | [179175-in-a-dark-cave.json](./179175-in-a-dark-cave.json) |
@@ -4008,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Snooker: Challenges | 175857 | [175857-international-snooker-challenges.json](./175857-international-snooker-challenges.json) |
 | International Soccer | 201305 | [201305-international-soccer.json](./201305-international-soccer.json) |
 | International Soccer | 320986 | [320986-international-soccer.json](./320986-international-soccer.json) |
+| International Soccer Challenge | 15041 | [15041-international-soccer-challenge.json](./15041-international-soccer-challenge.json) |
 | International Space Banana | 145335 | [145335-international-space-banana.json](./145335-international-space-banana.json) |
 | International Speedway | 369129 | [369129-international-speedway.json](./369129-international-speedway.json) |
 | International Sports Challenge | 69783 | [69783-international-sports-challenge.json](./69783-international-sports-challenge.json) |
@@ -5467,6 +5470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ivan ''Ironman'' Stewart's Super Off Road | 365891 | [365891-ivan-ironman-stewarts-super-off-road.json](./365891-ivan-ironman-stewarts-super-off-road.json) |
 | Ivan "Ironman" Stewart's Super Off Road | 198932 | [198932-ivan-ironman-stewarts-super-off-road.json](./198932-ivan-ironman-stewarts-super-off-road.json) |
 | Ivan Poe | 367499 | [367499-ivan-poe.json](./367499-ivan-poe.json) |
+| Ivanhoe | 15042 | [15042-ivanhoe.json](./15042-ivanhoe.json) |
 | Ivanoile ~ Christalixeur Corruption | 119023 | [119023-ivanoile-christalixeur-corruption.json](./119023-ivanoile-christalixeur-corruption.json) |
 | Ivanych vs Eared Beast | 114204 | [114204-ivanych-vs-eared-beast.json](./114204-ivanych-vs-eared-beast.json) |
 | IVAO: International Virtual Aviation Organisation | 140908 | [140908-ivao-international-virtual-aviation-organisation.json](./140908-ivao-international-virtual-aviation-organisation.json) |
