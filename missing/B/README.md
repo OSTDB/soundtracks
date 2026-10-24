@@ -762,7 +762,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2902,6 +2901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Capacity | 332815 | [332815-battle-capacity.json](./332815-battle-capacity.json) |
 | Battle Cars | 224095 | [224095-battle-cars.json](./224095-battle-cars.json) |
 | Battle Cars | 332256 | [332256-battle-cars.json](./332256-battle-cars.json) |
+| Battle Cars | 36729 | [36729-battle-cars.json](./36729-battle-cars.json) |
 | Battle Cats Galaxy | 300455 | [300455-battle-cats-galaxy.json](./300455-battle-cats-galaxy.json) |
 | Battle Cats Quest | 299252 | [299252-battle-cats-quest.json](./299252-battle-cats-quest.json) |
 | Battle Chain | 201698 | [201698-battle-chain.json](./201698-battle-chain.json) |
@@ -3447,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield Priest | 211427 | [211427-battlefield-priest.json](./211427-battlefield-priest.json) |
 | Battlefield REDSEC | 371393 | [371393-battlefield-redsec.json](./371393-battlefield-redsec.json) |
 | Battlefield Supremacy | 107770 | [107770-battlefield-supremacy.json](./107770-battlefield-supremacy.json) |
+| Battlefield V: Definitive Edition | 140898 | [140898-battlefield-v-definitive-edition.json](./140898-battlefield-v-definitive-edition.json) |
 | Battlefield V: Year 2 Edition | 134372 | [134372-battlefield-v-year-2-edition.json](./134372-battlefield-v-year-2-edition.json) |
 | Battlefield Vietnam | 335 | [335-battlefield-vietnam.json](./335-battlefield-vietnam.json) |
 | Battlefield Waltz | 253726 | [253726-battlefield-waltz.json](./253726-battlefield-waltz.json) |
@@ -4202,6 +4203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Hazard | 7404 | [7404-beat-hazard.json](./7404-beat-hazard.json) |
 | Beat Hazard 3 | 199447 | [199447-beat-hazard-3.json](./199447-beat-hazard-3.json) |
 | Beat Hazard Arcade | 368084 | [368084-beat-hazard-arcade.json](./368084-beat-hazard-arcade.json) |
+| Beat Hazard Ultra | 38882 | [38882-beat-hazard-ultra.json](./38882-beat-hazard-ultra.json) |
 | Beat Head | 255581 | [255581-beat-head.json](./255581-beat-head.json) |
 | Beat Heaven Symphony | 341276 | [341276-beat-heaven-symphony.json](./341276-beat-heaven-symphony.json) |
 | Beat Hopper | 96049 | [96049-beat-hopper.json](./96049-beat-hopper.json) |
@@ -8812,6 +8814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bowl 2: Undead | 52650 | [52650-blood-bowl-2-undead.json](./52650-blood-bowl-2-undead.json) |
 | Blood Bowl 2: Wood Elves | 52648 | [52648-blood-bowl-2-wood-elves.json](./52648-blood-bowl-2-wood-elves.json) |
 | Blood Bowl 3: Brutal Edition | 142166 | [142166-blood-bowl-3-brutal-edition.json](./142166-blood-bowl-3-brutal-edition.json) |
+| Blood Bowl III | 138137 | [138137-blood-bowl-iii.json](./138137-blood-bowl-iii.json) |
 | Blood Bowl III: Season 1 | 250909 | [250909-blood-bowl-iii-season-1.json](./250909-blood-bowl-iii-season-1.json) |
 | Blood Bowl III: Season 2 | 302463 | [302463-blood-bowl-iii-season-2.json](./302463-blood-bowl-iii-season-2.json) |
 | Blood Bowl III: Season 3 | 302464 | [302464-blood-bowl-iii-season-3.json](./302464-blood-bowl-iii-season-3.json) |
@@ -10553,6 +10556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookworm | 316279 | [316279-bookworm.json](./316279-bookworm.json) |
 | Bookworm | 8325 | [8325-bookworm.json](./8325-bookworm.json) |
 | Bookworm Adventures Deluxe | 353868 | [353868-bookworm-adventures-deluxe.json](./353868-bookworm-adventures-deluxe.json) |
+| Bookworm Deluxe | 140996 | [140996-bookworm-deluxe.json](./140996-bookworm-deluxe.json) |
 | Bookworm HD | 354964 | [354964-bookworm-hd.json](./354964-bookworm-hd.json) |
 | Bookworm Wordy Wonder Bundle | 196003 | [196003-bookworm-wordy-wonder-bundle.json](./196003-bookworm-wordy-wonder-bundle.json) |
 | Bookyman | 229061 | [229061-bookyman.json](./229061-bookyman.json) |
@@ -10784,6 +10788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 3: Psycho Krieg and the Fantastic Fustercluck | 138354 | [138354-borderlands-3-psycho-krieg-and-the-fantastic-fustercluck.json](./138354-borderlands-3-psycho-krieg-and-the-fantastic-fustercluck.json) |
 | Borderlands 3: Season Pass 2 | 293719 | [293719-borderlands-3-season-pass-2.json](./293719-borderlands-3-season-pass-2.json) |
 | Borderlands 3: Super Deluxe Edition | 116996 | [116996-borderlands-3-super-deluxe-edition.json](./116996-borderlands-3-super-deluxe-edition.json) |
+| Borderlands 3: Ultimate Edition | 140899 | [140899-borderlands-3-ultimate-edition.json](./140899-borderlands-3-ultimate-edition.json) |
 | Borderlands 4: Bounty Pack 1 - How Rush Saved Mercenary Day | 398014 | [398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json](./398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json) |
 | Borderlands 4: Story Pack 2 - FL4K and the Last Resort | 417666 | [417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json](./417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json) |
 | Borderlands Collection: Pandora's Box | 264479 | [264479-borderlands-collection-pandoras-box.json](./264479-borderlands-collection-pandoras-box.json) |
