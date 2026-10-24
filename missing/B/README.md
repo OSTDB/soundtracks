@@ -768,7 +768,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1096,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldis Basics 2: High School | 105781 | [105781-baldis-basics-2-high-school.json](./105781-baldis-basics-2-high-school.json) |
 | Baldis Basics Calculator Sim | 106637 | [106637-baldis-basics-calculator-sim.json](./106637-baldis-basics-calculator-sim.json) |
 | Baldo: The Elemental Temples | 241842 | [241842-baldo-the-elemental-temples.json](./241842-baldo-the-elemental-temples.json) |
+| Baldo: The Guardian Owls | 118873 | [118873-baldo-the-guardian-owls.json](./118873-baldo-the-guardian-owls.json) |
 | Baldo: The Guardian Owls - The Three Fairies Edition | 200682 | [200682-baldo-the-guardian-owls-the-three-fairies-edition.json](./200682-baldo-the-guardian-owls-the-three-fairies-edition.json) |
 | Baldoo | 116822 | [116822-baldoo.json](./116822-baldoo.json) |
 | Baldr Bringer | 71194 | [71194-baldr-bringer.json](./71194-baldr-bringer.json) |
