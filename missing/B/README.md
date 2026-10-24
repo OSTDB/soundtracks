@@ -767,7 +767,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2506,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basilisk | 266975 | [266975-basilisk.json](./266975-basilisk.json) |
 | Basilisk 2000 | 243390 | [243390-basilisk-2000.json](./243390-basilisk-2000.json) |
 | Basilisk! | 297782 | [297782-basilisk.json](./297782-basilisk.json) |
+| Basingstoke | 77535 | [77535-basingstoke.json](./77535-basingstoke.json) |
 | Bask: The Alchemist Frog | 338195 | [338195-bask-the-alchemist-frog.json](./338195-bask-the-alchemist-frog.json) |
 | Baskelian | 175120 | [175120-baskelian.json](./175120-baskelian.json) |
 | Baskerville | 272355 | [272355-baskerville.json](./272355-baskerville.json) |
@@ -3708,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlezone 2000 | 13695 | [13695-battlezone-2000.json](./13695-battlezone-2000.json) |
 | Battlezone 98 Redux | 20076 | [20076-battlezone-98-redux.json](./20076-battlezone-98-redux.json) |
 | Battlezone 98 Redux: The Red Odyssey | 124824 | [124824-battlezone-98-redux-the-red-odyssey.json](./124824-battlezone-98-redux-the-red-odyssey.json) |
+| Battlezone Combat Commander | 76424 | [76424-battlezone-combat-commander.json](./76424-battlezone-combat-commander.json) |
 | Battlezone: Battle Grounds | 238578 | [238578-battlezone-battle-grounds.json](./238578-battlezone-battle-grounds.json) |
 | Battlezone: Evolved | 329636 | [329636-battlezone-evolved.json](./329636-battlezone-evolved.json) |
 | Battlezone: Gold Edition | 97044 | [97044-battlezone-gold-edition.json](./97044-battlezone-gold-edition.json) |
@@ -7233,6 +7234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Circle | 9297 | [9297-black-circle.json](./9297-black-circle.json) |
 | Black Clover Mobile | 188401 | [188401-black-clover-mobile.json](./188401-black-clover-mobile.json) |
 | Black Clover: Infinite Knights | 122885 | [122885-black-clover-infinite-knights.json](./122885-black-clover-infinite-knights.json) |
+| Black Clover: Quartet Knights | 76736 | [76736-black-clover-quartet-knights.json](./76736-black-clover-quartet-knights.json) |
 | Black Clover: Quartet Knights - Royal Magic Knight Set: Blue | 224123 | [224123-black-clover-quartet-knights-royal-magic-knight-set-blue.json](./224123-black-clover-quartet-knights-royal-magic-knight-set-blue.json) |
 | Black Clover: Quartet Knights - Royal Magic Knight Set: Wizard King | 224122 | [224122-black-clover-quartet-knights-royal-magic-knight-set-wizard-king.json](./224122-black-clover-quartet-knights-royal-magic-knight-set-wizard-king.json) |
 | Black Coal | 207167 | [207167-black-coal.json](./207167-black-coal.json) |
@@ -9566,6 +9568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blueman | 392717 | [392717-blueman.json](./392717-blueman.json) |
 | Blueprint Hell | 315782 | [315782-blueprint-hell.json](./315782-blueprint-hell.json) |
 | BluePrint Racer 4D | 68646 | [68646-blueprint-racer-4d.json](./68646-blueprint-racer-4d.json) |
+| Blueprint Tycoon | 28727 | [28727-blueprint-tycoon.json](./28727-blueprint-tycoon.json) |
 | Blueprint Word: Classroom | 112477 | [112477-blueprint-word-classroom.json](./112477-blueprint-word-classroom.json) |
 | Blues Brothers 2000 | 3425 | [3425-blues-brothers-2000.json](./3425-blues-brothers-2000.json) |
 | Blues Brothers 2023 | 281314 | [281314-blues-brothers-2023.json](./281314-blues-brothers-2023.json) |
@@ -12026,6 +12029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravo! | 362438 | [362438-bravo.json](./362438-bravo.json) |
 | Bravoman: Binja Bash! | 63290 | [63290-bravoman-binja-bash.json](./63290-bravoman-binja-bash.json) |
 | Bravura: Quest Rush | 120246 | [120246-bravura-quest-rush.json](./120246-bravura-quest-rush.json) |
+| Brawl | 28092 | [28092-brawl.json](./28092-brawl.json) |
 | Brawl Arena Shooter | 414385 | [414385-brawl-arena-shooter.json](./414385-brawl-arena-shooter.json) |
 | Brawl Arena: Arcade Shooter | 308645 | [308645-brawl-arena-arcade-shooter.json](./308645-brawl-arena-arcade-shooter.json) |
 | Brawl Bolts | 114743 | [114743-brawl-bolts.json](./114743-brawl-bolts.json) |
@@ -14339,6 +14343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Restaurant Simulator | 261339 | [261339-burger-restaurant-simulator.json](./261339-burger-restaurant-simulator.json) |
 | Burger Rush | 71525 | [71525-burger-rush.json](./71525-burger-rush.json) |
 | Burger Shift: Team Rush | 391583 | [391583-burger-shift-team-rush.json](./391583-burger-shift-team-rush.json) |
+| Burger Shop | 76082 | [76082-burger-shop.json](./76082-burger-shop.json) |
 | Burger Shop 3 | 265102 | [265102-burger-shop-3.json](./265102-burger-shop-3.json) |
 | Burger Shop HD | 88997 | [88997-burger-shop-hd.json](./88997-burger-shop-hd.json) |
 | Burger Shop Simulator 2024 | 326584 | [326584-burger-shop-simulator-2024.json](./326584-burger-shop-simulator-2024.json) |
