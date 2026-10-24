@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden ASCII Cats | 401847 | [401847-100-hidden-ascii-cats.json](./401847-100-hidden-ascii-cats.json) |
 | 100 Hidden Birds | 161611 | [161611-100-hidden-birds.json](./161611-100-hidden-birds.json) |
 | 100 Hidden Capybaras | 321544 | [321544-100-hidden-capybaras.json](./321544-100-hidden-capybaras.json) |
+| 100 Hidden Cats | 158986 | [158986-100-hidden-cats.json](./158986-100-hidden-cats.json) |
 | 100 Hidden Cats in America | 330686 | [330686-100-hidden-cats-in-america.json](./330686-100-hidden-cats-in-america.json) |
 | 100 Hidden Cats in China | 283044 | [283044-100-hidden-cats-in-china.json](./283044-100-hidden-cats-in-china.json) |
 | 100 Hidden Cats in Games | 301590 | [301590-100-hidden-cats-in-games.json](./301590-100-hidden-cats-in-games.json) |
