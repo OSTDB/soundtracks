@@ -3208,7 +3208,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -4760,6 +4759,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winnie the Pooh and Tigger Too | 70250 | [70250-winnie-the-pooh-and-tigger-too.json](./70250-winnie-the-pooh-and-tigger-too.json) |
 | Winnie the Pooh in the Hundred Acre Wood | 51370 | [51370-winnie-the-pooh-in-the-hundred-acre-wood.json](./51370-winnie-the-pooh-in-the-hundred-acre-wood.json) |
 | Winnie the Pooh: First Steps | 273880 | [273880-winnie-the-pooh-first-steps.json](./273880-winnie-the-pooh-first-steps.json) |
+| Winnie the Pooh: Kindergarten | 43732 | [43732-winnie-the-pooh-kindergarten.json](./43732-winnie-the-pooh-kindergarten.json) |
+| Winnie the Pooh: Preschool | 43731 | [43731-winnie-the-pooh-preschool.json](./43731-winnie-the-pooh-preschool.json) |
 | Winnie the Pooh: The Honey Hunt | 78484 | [78484-winnie-the-pooh-the-honey-hunt.json](./78484-winnie-the-pooh-the-honey-hunt.json) |
 | Winnie The Pooh: The Serial Killer | 364538 | [364538-winnie-the-pooh-the-serial-killer.json](./364538-winnie-the-pooh-the-serial-killer.json) |
 | Winnie the Pooh's Book Writing Speedrunner | 347916 | [347916-winnie-the-poohs-book-writing-speedrunner.json](./347916-winnie-the-poohs-book-writing-speedrunner.json) |
