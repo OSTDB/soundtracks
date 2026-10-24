@@ -5555,6 +5555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyone Will Die | 422159 | [422159-everyone-will-die.json](./422159-everyone-will-die.json) |
 | Everyone Wins Bingo | 209216 | [209216-everyone-wins-bingo.json](./209216-everyone-wins-bingo.json) |
 | Everyone's a Wally | 13649 | [13649-everyones-a-wally.json](./13649-everyones-a-wally.json) |
+| Everyone's A Wally | 41181 | [41181-everyones-a-wally.json](./41181-everyones-a-wally.json) |
 | Everyone's A Wally: A Day in the Life of Wally | 73998 | [73998-everyones-a-wally-a-day-in-the-life-of-wally.json](./73998-everyones-a-wally-a-day-in-the-life-of-wally.json) |
 | Everyone's Idol Yumeru-chan! Escape from the Uninvited Pervert | 82772 | [82772-everyones-idol-yumeru-chan-escape-from-the-uninvited-pervert.json](./82772-everyones-idol-yumeru-chan-escape-from-the-uninvited-pervert.json) |
 | Everyone's Tsume Shogi: Intermediate 1 | 218895 | [218895-everyones-tsume-shogi-intermediate-1.json](./218895-everyones-tsume-shogi-intermediate-1.json) |
@@ -6580,6 +6581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of the Beholder | 292686 | [292686-eye-of-the-beholder.json](./292686-eye-of-the-beholder.json) |
 | Eye of the Beholder | 5384 | [5384-eye-of-the-beholder.json](./5384-eye-of-the-beholder.json) |
 | Eye of the Erime | 365292 | [365292-eye-of-the-erime.json](./365292-eye-of-the-erime.json) |
+| Eye of the Gods | 41172 | [41172-eye-of-the-gods.json](./41172-eye-of-the-gods.json) |
 | Eye of the Kraken | 73542 | [73542-eye-of-the-kraken.json](./73542-eye-of-the-kraken.json) |
 | Eye of the Match | 393659 | [393659-eye-of-the-match.json](./393659-eye-of-the-match.json) |
 | Eye of the Moon | 177434 | [177434-eye-of-the-moon.json](./177434-eye-of-the-moon.json) |
