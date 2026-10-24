@@ -1043,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quodan: Treachery on the Arheid | 333137 | [333137-quodan-treachery-on-the-arheid.json](./333137-quodan-treachery-on-the-arheid.json) |
 | Quondam | 300458 | [300458-quondam.json](./300458-quondam.json) |
 | Quondam | 325321 | [325321-quondam.json](./325321-quondam.json) |
+| Quote | 27284 | [27284-quote.json](./27284-quote.json) |
 | Quote Codes | 80855 | [80855-quote-codes.json](./80855-quote-codes.json) |
 | Quote Unquote: Crossword puzzles meet famous quotations! | 70899 | [70899-quote-unquote-crossword-puzzles-meet-famous-quotations.json](./70899-quote-unquote-crossword-puzzles-meet-famous-quotations.json) |
 | Quotes Quest - Match 3 | 114164 | [114164-quotes-quest-match-3.json](./114164-quotes-quest-match-3.json) |
