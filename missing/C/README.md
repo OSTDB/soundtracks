@@ -3652,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats! | 34772 | [34772-cats.json](./34772-cats.json) |
 | Cats' World | 406210 | [406210-cats-world.json](./406210-cats-world.json) |
 | Catsbridge Stories: Detective in Time | 116360 | [116360-catsbridge-stories-detective-in-time.json](./116360-catsbridge-stories-detective-in-time.json) |
+| Catsby | 29514 | [29514-catsby.json](./29514-catsby.json) |
 | Catscratch: This Means War! | 411059 | [411059-catscratch-this-means-war.json](./411059-catscratch-this-means-war.json) |
 | Catsperience | 146043 | [146043-catsperience.json](./146043-catsperience.json) |
 | CatsPots | 267561 | [267561-catspots.json](./267561-catspots.json) |
@@ -4334,6 +4335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainer | 350062 | [350062-chainer.json](./350062-chainer.json) |
 | Chainers | 393551 | [393551-chainers.json](./393551-chainers.json) |
 | Chainitaire | 185332 | [185332-chainitaire.json](./185332-chainitaire.json) |
+| Chainless | 29510 | [29510-chainless.json](./29510-chainless.json) |
 | Chainmail Bikini | 235825 | [235825-chainmail-bikini.json](./235825-chainmail-bikini.json) |
 | ChainMan | 39763 | [39763-chainman.json](./39763-chainman.json) |
 | Chainmap Chaos | 271232 | [271232-chainmap-chaos.json](./271232-chainmap-chaos.json) |
@@ -11830,6 +11832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Ark | 8466 | [8466-cosmic-ark.json](./8466-cosmic-ark.json) |
 | Cosmic Armada | 269983 | [269983-cosmic-armada.json](./269983-cosmic-armada.json) |
 | Cosmic Avenger | 18504 | [18504-cosmic-avenger.json](./18504-cosmic-avenger.json) |
+| Cosmic Awakening VR | 29490 | [29490-cosmic-awakening-vr.json](./29490-cosmic-awakening-vr.json) |
 | Cosmic Badger | 197746 | [197746-cosmic-badger.json](./197746-cosmic-badger.json) |
 | Cosmic Ball Tournament | 202638 | [202638-cosmic-ball-tournament.json](./202638-cosmic-ball-tournament.json) |
 | Cosmic Batter Defense | 205993 | [205993-cosmic-batter-defense.json](./205993-cosmic-batter-defense.json) |
@@ -12379,6 +12382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covert Koalas: Phasco | 407378 | [407378-covert-koalas-phasco.json](./407378-covert-koalas-phasco.json) |
 | Covert Operations | 311709 | [311709-covert-operations.json](./311709-covert-operations.json) |
 | Covert Ops: Nuclear Dawn | 4137 | [4137-covert-ops-nuclear-dawn.json](./4137-covert-ops-nuclear-dawn.json) |
+| Covert Syndrome | 29550 | [29550-covert-syndrome.json](./29550-covert-syndrome.json) |
 | Covert: Order of the Vulture | 185350 | [185350-covert-order-of-the-vulture.json](./185350-covert-order-of-the-vulture.json) |
 | Covetous | 138188 | [138188-covetous.json](./138188-covetous.json) |
 | Covid | 147173 | [147173-covid.json](./147173-covid.json) |
