@@ -704,6 +704,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pajama Sam Vol. 1 | 154442 | [154442-pajama-sam-vol-1.json](./154442-pajama-sam-vol-1.json) |
 | Pajama Sam Vol. 2 | 154440 | [154440-pajama-sam-vol-2.json](./154440-pajama-sam-vol-2.json) |
 | Pajama Sam: Don't Fear the Dark | 51107 | [51107-pajama-sam-dont-fear-the-dark.json](./51107-pajama-sam-dont-fear-the-dark.json) |
+| Pajama Sam's Lost & Found | 10651 | [10651-pajama-sams-lost-and-found.json](./10651-pajama-sams-lost-and-found.json) |
+| Pajama Sam's Sock Works | 10652 | [10652-pajama-sams-sock-works.json](./10652-pajama-sams-sock-works.json) |
 | Pajamorama | 133710 | [133710-pajamorama.json](./133710-pajamorama.json) |
 | Pajuu: Always With You | 177208 | [177208-pajuu-always-with-you.json](./177208-pajuu-always-with-you.json) |
 | Pakacuda | 83264 | [83264-pakacuda.json](./83264-pakacuda.json) |
@@ -2151,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Minigames 2 3 4 players | 232309 | [232309-party-minigames-2-3-4-players.json](./232309-party-minigames-2-3-4-players.json) |
 | Party Mix | 40660 | [40660-party-mix.json](./40660-party-mix.json) |
 | Party of Heroes | 101997 | [101997-party-of-heroes.json](./101997-party-of-heroes.json) |
+| Party of Sin | 10657 | [10657-party-of-sin.json](./10657-party-of-sin.json) |
 | Party Panic | 31936 | [31936-party-panic.json](./31936-party-panic.json) |
 | Party Paradise | 186749 | [186749-party-paradise.json](./186749-party-paradise.json) |
 | Party Park | 226155 | [226155-party-park.json](./226155-party-park.json) |
@@ -11429,6 +11432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretend Dead Friend | 271308 | [271308-pretend-dead-friend.json](./271308-pretend-dead-friend.json) |
 | Pretend it's not There | 324689 | [324689-pretend-its-not-there.json](./324689-pretend-its-not-there.json) |
 | Pretend You're Xyzzy | 306207 | [306207-pretend-youre-xyzzy.json](./306207-pretend-youre-xyzzy.json) |
+| Pretentious Game | 10719 | [10719-pretentious-game.json](./10719-pretentious-game.json) |
 | Preternatural Candy Shop | 179417 | [179417-preternatural-candy-shop.json](./179417-preternatural-candy-shop.json) |
 | Pretty Agent | 311561 | [311561-pretty-agent.json](./311561-pretty-agent.json) |
 | Pretty Angel | 127092 | [127092-pretty-angel.json](./127092-pretty-angel.json) |
@@ -14413,6 +14417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pursuer | 115577 | [115577-pursuer.json](./115577-pursuer.json) |
 | Pursuing Susie | 84534 | [84534-pursuing-susie.json](./84534-pursuing-susie.json) |
 | Pursuit | 110850 | [110850-pursuit.json](./110850-pursuit.json) |
+| Pursuit Force: Extreme Justice | 23055 | [23055-pursuit-force-extreme-justice.json](./23055-pursuit-force-extreme-justice.json) |
 | Pursuit Force: Extreme Justice | 299391 | [299391-pursuit-force-extreme-justice.json](./299391-pursuit-force-extreme-justice.json) |
 | Pursuit of Justice | 70315 | [70315-pursuit-of-justice.json](./70315-pursuit-of-justice.json) |
 | Pursuit of Laughter | 291900 | [291900-pursuit-of-laughter.json](./291900-pursuit-of-laughter.json) |
@@ -14701,6 +14706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Book: Horizon Edition | 365552 | [365552-puzzle-book-horizon-edition.json](./365552-puzzle-book-horizon-edition.json) |
 | Puzzle Book: Summer 2020 | 238036 | [238036-puzzle-book-summer-2020.json](./238036-puzzle-book-summer-2020.json) |
 | Puzzle Book: Summer 2021 | 238028 | [238028-puzzle-book-summer-2021.json](./238028-puzzle-book-summer-2021.json) |
+| Puzzle Bots | 10731 | [10731-puzzle-bots.json](./10731-puzzle-bots.json) |
 | Puzzle Bowling | 158143 | [158143-puzzle-bowling.json](./158143-puzzle-bowling.json) |
 | Puzzle Box | 166072 | [166072-puzzle-box.json](./166072-puzzle-box.json) |
 | Puzzle Box | 27037 | [27037-puzzle-box.json](./27037-puzzle-box.json) |
