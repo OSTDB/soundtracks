@@ -8930,6 +8930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal Sailor | 293745 | [293745-fractal-sailor.json](./293745-fractal-sailor.json) |
 | Fractalis | 121775 | [121775-fractalis.json](./121775-fractalis.json) |
 | Fractasia VR | 105997 | [105997-fractasia-vr.json](./105997-fractasia-vr.json) |
+| Fracter | 101167 | [101167-fracter.json](./101167-fracter.json) |
 | Fraction Munchers | 325302 | [325302-fraction-munchers.json](./325302-fraction-munchers.json) |
 | Fraction War | 101425 | [101425-fraction-war.json](./101425-fraction-war.json) |
 | Fractional Numbers | 42196 | [42196-fractional-numbers.json](./42196-fractional-numbers.json) |
