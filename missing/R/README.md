@@ -7129,6 +7129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop | 198876 | [198876-robocop.json](./198876-robocop.json) |
 | RoboCop | 218942 | [218942-robocop.json](./218942-robocop.json) |
 | RoboCop | 242810 | [242810-robocop.json](./242810-robocop.json) |
+| RoboCop | 68362 | [68362-robocop.json](./68362-robocop.json) |
 | RoboCop 2 | 144145 | [144145-robocop-2.json](./144145-robocop-2.json) |
 | RoboCop 2 | 219017 | [219017-robocop-2.json](./219017-robocop-2.json) |
 | RoboCop 2 | 6853 | [6853-robocop-2.json](./6853-robocop-2.json) |
@@ -8946,6 +8947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rorry's Race | 335110 | [335110-rorrys-race.json](./335110-rorrys-race.json) |
 | Rorschach | 94150 | [94150-rorschach.json](./94150-rorschach.json) |
 | Rory McIlroy Golf | 23216 | [23216-rory-mcilroy-golf.json](./23216-rory-mcilroy-golf.json) |
+| Rory McIlroy PGA Tour | 9651 | [9651-rory-mcilroy-pga-tour.json](./9651-rory-mcilroy-pga-tour.json) |
 | Rory's Restaurant: Origins | 188416 | [188416-rorys-restaurant-origins.json](./188416-rorys-restaurant-origins.json) |
 | Rory's Restaurant: Winter Rush | 190001 | [190001-rorys-restaurant-winter-rush.json](./190001-rorys-restaurant-winter-rush.json) |
 | Ros | 101631 | [101631-ros.json](./101631-ros.json) |
