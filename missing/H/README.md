@@ -1531,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard to be a King | 120854 | [120854-hard-to-be-a-king.json](./120854-hard-to-be-a-king.json) |
 | Hard Truck | 94917 | [94917-hard-truck.json](./94917-hard-truck.json) |
 | Hard Truck 2: King of the Road | 36987 | [36987-hard-truck-2-king-of-the-road.json](./36987-hard-truck-2-king-of-the-road.json) |
+| Hard Truck Apocalypse | 36458 | [36458-hard-truck-apocalypse.json](./36458-hard-truck-apocalypse.json) |
 | Hard Truck Apocalypse: Rise of Clans | 17170 | [17170-hard-truck-apocalypse-rise-of-clans.json](./17170-hard-truck-apocalypse-rise-of-clans.json) |
 | Hard Truck: 18 Wheels of Steel | 50455 | [50455-hard-truck-18-wheels-of-steel.json](./50455-hard-truck-18-wheels-of-steel.json) |
 | Hard Truck: Road to Victory | 28143 | [28143-hard-truck-road-to-victory.json](./28143-hard-truck-road-to-victory.json) |
@@ -8499,7 +8500,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Shot Challenge - Online | 103627 | [103627-hot-shot-challenge-online.json](./103627-hot-shot-challenge-online.json) |
 | Hot Shot Monkey | 349931 | [349931-hot-shot-monkey.json](./349931-hot-shot-monkey.json) |
 | Hot Shots | 339320 | [339320-hot-shots.json](./339320-hot-shots.json) |
+| Hot Shots Golf | 36665 | [36665-hot-shots-golf.json](./36665-hot-shots-golf.json) |
 | Hot Shots Golf 2 | 232407 | [232407-hot-shots-golf-2.json](./232407-hot-shots-golf-2.json) |
+| Hot Shots Golf 2 | 36558 | [36558-hot-shots-golf-2.json](./36558-hot-shots-golf-2.json) |
 | Hot Shots Golf 3 | 23459 | [23459-hot-shots-golf-3.json](./23459-hot-shots-golf-3.json) |
 | Hot Shots Golf Fore! | 204439 | [204439-hot-shots-golf-fore.json](./204439-hot-shots-golf-fore.json) |
 | Hot Shots Golf: Open Tee 2 | 21050 | [21050-hot-shots-golf-open-tee-2.json](./21050-hot-shots-golf-open-tee-2.json) |
