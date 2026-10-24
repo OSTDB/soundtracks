@@ -3781,6 +3781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspector Ooh: The Great Monkey Detective | 98470 | [98470-inspector-ooh-the-great-monkey-detective.json](./98470-inspector-ooh-the-great-monkey-detective.json) |
 | Inspector Parker | 73549 | [73549-inspector-parker.json](./73549-inspector-parker.json) |
 | Inspector Parker Unsolved | 50858 | [50858-inspector-parker-unsolved.json](./50858-inspector-parker-unsolved.json) |
+| Inspector Schmidt: A Bavarian Tale | 171185 | [171185-inspector-schmidt-a-bavarian-tale.json](./171185-inspector-schmidt-a-bavarian-tale.json) |
 | Inspector Schmidt: The Ebbing | 306585 | [306585-inspector-schmidt-the-ebbing.json](./306585-inspector-schmidt-the-ebbing.json) |
 | Inspector Waffles | 116730 | [116730-inspector-waffles.json](./116730-inspector-waffles.json) |
 | Inspector Waffles Full Story | 395289 | [395289-inspector-waffles-full-story.json](./395289-inspector-waffles-full-story.json) |
@@ -4728,6 +4729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Guard VR | 127726 | [127726-iron-guard-vr.json](./127726-iron-guard-vr.json) |
 | Iron Guard: Salvation | 333034 | [333034-iron-guard-salvation.json](./333034-iron-guard-salvation.json) |
 | Iron Hammer | 210601 | [210601-iron-hammer.json](./210601-iron-hammer.json) |
+| Iron Harvest: Complete Edition | 170036 | [170036-iron-harvest-complete-edition.json](./170036-iron-harvest-complete-edition.json) |
 | Iron Heart | 117355 | [117355-iron-heart.json](./117355-iron-heart.json) |
 | Iron Helix | 5394 | [5394-iron-helix.json](./5394-iron-helix.json) |
 | Iron Hopper | 256155 | [256155-iron-hopper.json](./256155-iron-hopper.json) |
