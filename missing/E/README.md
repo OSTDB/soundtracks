@@ -4779,6 +4779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Blade | 412325 | [412325-eternal-blade.json](./412325-eternal-blade.json) |
 | Eternal Blood | 128304 | [128304-eternal-blood.json](./128304-eternal-blood.json) |
 | Eternal Burden | 291892 | [291892-eternal-burden.json](./291892-eternal-burden.json) |
+| Eternal Card Game | 31198 | [31198-eternal-card-game.json](./31198-eternal-card-game.json) |
 | Eternal Chamber | 422463 | [422463-eternal-chamber.json](./422463-eternal-chamber.json) |
 | Eternal Champions | 4477 | [4477-eternal-champions.json](./4477-eternal-champions.json) |
 | Eternal Champions: Challenge from the Dark Side | 5383 | [5383-eternal-champions-challenge-from-the-dark-side.json](./5383-eternal-champions-challenge-from-the-dark-side.json) |
