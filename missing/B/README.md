@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4367,6 +4368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatdown! | 89815 | [89815-beatdown.json](./89815-beatdown.json) |
 | Beatem Tom and Jerry | 100822 | [100822-beatem-tom-and-jerry.json](./100822-beatem-tom-and-jerry.json) |
 | Beaten Path | 264711 | [264711-beaten-path.json](./264711-beaten-path.json) |
+| Beater Spirit | 32524 | [32524-beater-spirit.json](./32524-beater-spirit.json) |
 | Beater: Apocal Undone | 290492 | [290492-beater-apocal-undone.json](./290492-beater-apocal-undone.json) |
 | Beaterator | 18383 | [18383-beaterator.json](./18383-beaterator.json) |
 | BeatEVO YG | 74785 | [74785-beatevo-yg.json](./74785-beatevo-yg.json) |
@@ -7210,6 +7212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hole Escape | 293515 | [293515-black-hole-escape.json](./293515-black-hole-escape.json) |
 | Black Hole Fishing | 346166 | [346166-black-hole-fishing.json](./346166-black-hole-fishing.json) |
 | Black Hole Gun | 413182 | [413182-black-hole-gun.json](./413182-black-hole-gun.json) |
+| Black Hole Hazard | 32515 | [32515-black-hole-hazard.json](./32515-black-hole-hazard.json) |
 | Black Hole Interior Explorer | 277534 | [277534-black-hole-interior-explorer.json](./277534-black-hole-interior-explorer.json) |
 | Black Hole Pool | 213822 | [213822-black-hole-pool.json](./213822-black-hole-pool.json) |
 | Black Hole Simulator | 159544 | [159544-black-hole-simulator.json](./159544-black-hole-simulator.json) |
@@ -11241,6 +11244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowslinger | 33088 | [33088-bowslinger.json](./33088-bowslinger.json) |
 | Box | 130782 | [130782-box.json](./130782-box.json) |
 | Box | 131332 | [131332-box.json](./131332-box.json) |
+| BoX -containment- | 32529 | [32529-box-containment.json](./32529-box-containment.json) |
 | Box #341 | 333631 | [333631-box-341.json](./333631-box-341.json) |
 | Box A Chocolate | 112285 | [112285-box-a-chocolate.json](./112285-box-a-chocolate.json) |
 | Box Align | 86312 | [86312-box-align.json](./86312-box-align.json) |
