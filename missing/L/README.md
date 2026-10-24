@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn to Add | 92840 | [92840-learn-to-add.json](./92840-learn-to-add.json) |
 | Learn to Dodge | 274344 | [274344-learn-to-dodge.json](./274344-learn-to-dodge.json) |
 | Learn to Fly 2 | 58593 | [58593-learn-to-fly-2.json](./58593-learn-to-fly-2.json) |
+| Learn to Fly 3 | 29507 | [29507-learn-to-fly-3.json](./29507-learn-to-fly-3.json) |
 | Learn to Play Chess with Fritz & Chesster | 323714 | [323714-learn-to-play-chess-with-fritz-and-chesster.json](./323714-learn-to-play-chess-with-fritz-and-chesster.json) |
 | Learn to Play Chess with Fritz and Chesster 2: Chess in the Black Castle | 77972 | [77972-learn-to-play-chess-with-fritz-and-chesster-2-chess-in-the-black-castle.json](./77972-learn-to-play-chess-with-fritz-and-chesster-2-chess-in-the-black-castle.json) |
 | Learn to Play Vol. 1: Fruit Collect | 293365 | [293365-learn-to-play-vol-1-fruit-collect.json](./293365-learn-to-play-vol-1-fruit-collect.json) |
@@ -2682,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legofaction | 305288 | [305288-legofaction.json](./305288-legofaction.json) |
 | Legoland | 78777 | [78777-legoland.json](./78777-legoland.json) |
 | Legolast Tiny Builder | 406064 | [406064-legolast-tiny-builder.json](./406064-legolast-tiny-builder.json) |
+| Legrand Legacy | 22387 | [22387-legrand-legacy.json](./22387-legrand-legacy.json) |
 | Leguiumz Experience | 304580 | [304580-leguiumz-experience.json](./304580-leguiumz-experience.json) |
 | Legumi | 292749 | [292749-legumi.json](./292749-legumi.json) |
 | LeHweng LeHweng | 156683 | [156683-lehweng-lehweng.json](./156683-lehweng-lehweng.json) |
@@ -5753,6 +5755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Chef | 388208 | [388208-lone-chef.json](./388208-lone-chef.json) |
 | Lone City | 373163 | [373163-lone-city.json](./373163-lone-city.json) |
 | Lone Eagle: Colombian Encounter | 73762 | [73762-lone-eagle-colombian-encounter.json](./73762-lone-eagle-colombian-encounter.json) |
+| Lone Echo | 24917 | [24917-lone-echo.json](./24917-lone-echo.json) |
 | Lone Echo II | 117277 | [117277-lone-echo-ii.json](./117277-lone-echo-ii.json) |
 | Lone Elven Wanderer | 200575 | [200575-lone-elven-wanderer.json](./200575-lone-elven-wanderer.json) |
 | Lone Fungus | 146568 | [146568-lone-fungus.json](./146568-lone-fungus.json) |
