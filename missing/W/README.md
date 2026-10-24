@@ -4893,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Mosaics | 415908 | [415908-winter-mosaics.json](./415908-winter-mosaics.json) |
 | Winter Night | 287700 | [287700-winter-night.json](./287700-winter-night.json) |
 | Winter Night: Terrorist Strike | 224086 | [224086-winter-night-terrorist-strike.json](./224086-winter-night-terrorist-strike.json) |
+| Winter Novel | 32475 | [32475-winter-novel.json](./32475-winter-novel.json) |
 | Winter of the Arbyen | 276139 | [276139-winter-of-the-arbyen.json](./276139-winter-of-the-arbyen.json) |
 | Winter Olympic Games | 365673 | [365673-winter-olympic-games.json](./365673-winter-olympic-games.json) |
 | Winter Olympic Games | 365674 | [365674-winter-olympic-games.json](./365674-winter-olympic-games.json) |
