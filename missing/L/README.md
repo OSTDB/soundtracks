@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lara Croft and the Temple of Osiris: Icy Death Pack | 226871 | [226871-lara-croft-and-the-temple-of-osiris-icy-death-pack.json](./226871-lara-croft-and-the-temple-of-osiris-icy-death-pack.json) |
 | Lara Croft and the Temple of Osiris: Legend Pack | 226872 | [226872-lara-croft-and-the-temple-of-osiris-legend-pack.json](./226872-lara-croft-and-the-temple-of-osiris-legend-pack.json) |
 | Lara Croft and the Temple of Osiris: Twisted Gears Pack | 226873 | [226873-lara-croft-and-the-temple-of-osiris-twisted-gears-pack.json](./226873-lara-croft-and-the-temple-of-osiris-twisted-gears-pack.json) |
+| Lara Croft Go | 11592 | [11592-lara-croft-go.json](./11592-lara-croft-go.json) |
 | Lara Croft's Poker Party | 299543 | [299543-lara-crofts-poker-party.json](./299543-lara-crofts-poker-party.json) |
 | Lara Gates: The Lost Talisman Hidden Object Game | 144761 | [144761-lara-gates-the-lost-talisman-hidden-object-game.json](./144761-lara-gates-the-lost-talisman-hidden-object-game.json) |
 | Lara's Mysterious Restorations | 210213 | [210213-laras-mysterious-restorations.json](./210213-laras-mysterious-restorations.json) |
@@ -2441,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Builder's Journey | 127985 | [127985-lego-builders-journey.json](./127985-lego-builders-journey.json) |
 | LEGO City Fire Hose Frenzy | 61624 | [61624-lego-city-fire-hose-frenzy.json](./61624-lego-city-fire-hose-frenzy.json) |
 | LEGO City Spotlight Robbery | 61623 | [61623-lego-city-spotlight-robbery.json](./61623-lego-city-spotlight-robbery.json) |
+| LEGO City Undercover | 2177 | [2177-lego-city-undercover.json](./2177-lego-city-undercover.json) |
 | LEGO City Undercover | 343450 | [343450-lego-city-undercover.json](./343450-lego-city-undercover.json) |
 | LEGO City Undercover: Limited Edition | 83794 | [83794-lego-city-undercover-limited-edition.json](./83794-lego-city-undercover-limited-edition.json) |
 | LEGO City Undercover: The Chase Begins | 6837 | [6837-lego-city-undercover-the-chase-begins.json](./6837-lego-city-undercover-the-chase-begins.json) |
