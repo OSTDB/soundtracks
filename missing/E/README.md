@@ -1016,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Dreams | 137862 | [137862-edge-of-dreams.json](./137862-edge-of-dreams.json) |
 | Edge of Elsewhere | 168661 | [168661-edge-of-elsewhere.json](./168661-edge-of-elsewhere.json) |
 | Edge of Endless | 302091 | [302091-edge-of-endless.json](./302091-edge-of-endless.json) |
+| Edge of Eternity | 28526 | [28526-edge-of-eternity.json](./28526-edge-of-eternity.json) |
 | Edge Of Existence | 74189 | [74189-edge-of-existence.json](./74189-edge-of-existence.json) |
 | Edge of Extinction | 349323 | [349323-edge-of-extinction.json](./349323-edge-of-extinction.json) |
 | Edge of Galaxy | 115681 | [115681-edge-of-galaxy.json](./115681-edge-of-galaxy.json) |
@@ -2634,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires & Allies | 257272 | [257272-empires-and-allies.json](./257272-empires-and-allies.json) |
 | Empires & Allies | 60553 | [60553-empires-and-allies.json](./60553-empires-and-allies.json) |
 | Empires and Tribes | 130634 | [130634-empires-and-tribes.json](./130634-empires-and-tribes.json) |
+| Empires Apart | 27694 | [27694-empires-apart.json](./27694-empires-apart.json) |
 | Empires Apart: Aztec Civilization Pack | 226809 | [226809-empires-apart-aztec-civilization-pack.json](./226809-empires-apart-aztec-civilization-pack.json) |
 | Empires Apart: Chinese Civilization Pack | 169311 | [169311-empires-apart-chinese-civilization-pack.json](./169311-empires-apart-chinese-civilization-pack.json) |
 | Empires II | 223619 | [223619-empires-ii.json](./223619-empires-ii.json) |
@@ -2854,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End Point | 260861 | [260861-end-point.json](./260861-end-point.json) |
 | End Quest | 411415 | [411415-end-quest.json](./411415-end-quest.json) |
 | End Reach | 155859 | [155859-end-reach.json](./155859-end-reach.json) |
+| End Roll | 109085 | [109085-end-roll.json](./109085-end-roll.json) |
 | End Roll: Rewind | 198233 | [198233-end-roll-rewind.json](./198233-end-roll-rewind.json) |
 | End Space | 69415 | [69415-end-space.json](./69415-end-space.json) |
 | End State | 77337 | [77337-end-state.json](./77337-end-state.json) |
