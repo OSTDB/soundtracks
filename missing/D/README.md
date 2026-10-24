@@ -7408,6 +7408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Terrarium: Pogona Virtual Pet | 175846 | [175846-digital-terrarium-pogona-virtual-pet.json](./175846-digital-terrarium-pogona-virtual-pet.json) |
 | Digital Virus | 236008 | [236008-digital-virus.json](./236008-digital-virus.json) |
 | Digital Zoo Gallery | 154465 | [154465-digital-zoo-gallery.json](./154465-digital-zoo-gallery.json) |
+| Digital: A Love Story | 27871 | [27871-digital-a-love-story.json](./27871-digital-a-love-story.json) |
 | DigitalDNA Zombies | 83197 | [83197-digitaldna-zombies.json](./83197-digitaldna-zombies.json) |
 | Digitalink | 344989 | [344989-digitalink.json](./344989-digitalink.json) |
 | Digitalter | 285019 | [285019-digitalter.json](./285019-digitalter.json) |
@@ -8523,6 +8524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's The Lion King | 198801 | [198801-disneys-the-lion-king.json](./198801-disneys-the-lion-king.json) |
 | Disney's The Lion King | 204572 | [204572-disneys-the-lion-king.json](./204572-disneys-the-lion-king.json) |
 | Disney's The Lion King 1 1/2 | 79813 | [79813-disneys-the-lion-king-1-1-2.json](./79813-disneys-the-lion-king-1-1-2.json) |
+| Disney's The Lion King II: Simba's Pride | 109194 | [109194-disneys-the-lion-king-ii-simbas-pride.json](./109194-disneys-the-lion-king-ii-simbas-pride.json) |
 | Disney's The Lion King: Simba's Big Adventure | 80295 | [80295-disneys-the-lion-king-simbas-big-adventure.json](./80295-disneys-the-lion-king-simbas-big-adventure.json) |
 | Disney's The Lion King: Simba's Mighty Adventure | 259481 | [259481-disneys-the-lion-king-simbas-mighty-adventure.json](./259481-disneys-the-lion-king-simbas-mighty-adventure.json) |
 | Disney's The Lion King: Simba's Mighty Adventure | 45228 | [45228-disneys-the-lion-king-simbas-mighty-adventure.json](./45228-disneys-the-lion-king-simbas-mighty-adventure.json) |
@@ -12684,6 +12686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadnoughts | 25033 | [25033-dreadnoughts.json](./25033-dreadnoughts.json) |
 | Dreadnut | 390805 | [390805-dreadnut.json](./390805-dreadnut.json) |
 | DreadOut | 11712 | [11712-dreadout.json](./11712-dreadout.json) |
+| DreadOut 2 | 110164 | [110164-dreadout-2.json](./110164-dreadout-2.json) |
 | DreadOut 3 | 343697 | [343697-dreadout-3.json](./343697-dreadout-3.json) |
 | DreadOut: Keepers of The Dark | 20179 | [20179-dreadout-keepers-of-the-dark.json](./20179-dreadout-keepers-of-the-dark.json) |
 | Dreadrun | 295805 | [295805-dreadrun.json](./295805-dreadrun.json) |
@@ -15153,6 +15156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk '82 | 152265 | [152265-dusk-82.json](./152265-dusk-82.json) |
 | Dusk 12: Deadly Zone | 17738 | [17738-dusk-12-deadly-zone.json](./17738-dusk-12-deadly-zone.json) |
 | Dusk Child | 134498 | [134498-dusk-child.json](./134498-dusk-child.json) |
+| Dusk Diver | 109434 | [109434-dusk-diver.json](./109434-dusk-diver.json) |
 | Dusk Diver 2: Digital Deluxe Edition | 238328 | [238328-dusk-diver-2-digital-deluxe-edition.json](./238328-dusk-diver-2-digital-deluxe-edition.json) |
 | Dusk Diver: Special Limited Edition | 167119 | [167119-dusk-diver-special-limited-edition.json](./167119-dusk-diver-special-limited-edition.json) |
 | Dusk Golem's Anthology of Horror | 124193 | [124193-dusk-golems-anthology-of-horror.json](./124193-dusk-golems-anthology-of-horror.json) |
