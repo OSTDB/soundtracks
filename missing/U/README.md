@@ -2154,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unno | 235227 | [235227-unno.json](./235227-unno.json) |
 | UnnyWorld | 33438 | [33438-unnyworld.json](./33438-unnyworld.json) |
 | Uno | 165365 | [165365-uno.json](./165365-uno.json) |
+| Uno | 20524 | [20524-uno.json](./20524-uno.json) |
 | Uno | 22739 | [22739-uno.json](./22739-uno.json) |
 | Uno | 255867 | [255867-uno.json](./255867-uno.json) |
 | Uno | 81358 | [81358-uno.json](./81358-uno.json) |
