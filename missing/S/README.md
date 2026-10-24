@@ -4443,6 +4443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura: New Link | 54520 | [54520-senran-kagura-new-link.json](./54520-senran-kagura-new-link.json) |
 | Senran Kagura: New Wave | 64152 | [64152-senran-kagura-new-wave.json](./64152-senran-kagura-new-wave.json) |
 | Senran Kagura: Peach and Reflexions Limited Double Pack | 136928 | [136928-senran-kagura-peach-and-reflexions-limited-double-pack.json](./136928-senran-kagura-peach-and-reflexions-limited-double-pack.json) |
+| Senran Kagura: Peach Beach Splash | 25656 | [25656-senran-kagura-peach-beach-splash.json](./25656-senran-kagura-peach-beach-splash.json) |
 | Senran Kagura: Peach Beach Splash - No Shirt, No Shoes, All Service Edition | 136217 | [136217-senran-kagura-peach-beach-splash-no-shirt-no-shoes-all-service-edition.json](./136217-senran-kagura-peach-beach-splash-no-shirt-no-shoes-all-service-edition.json) |
 | Senran Kagura: Peach Beach Splash - Sexy Soaker Edition | 300524 | [300524-senran-kagura-peach-beach-splash-sexy-soaker-edition.json](./300524-senran-kagura-peach-beach-splash-sexy-soaker-edition.json) |
 | Senran Kagura: Shinovi Versus | 11536 | [11536-senran-kagura-shinovi-versus.json](./11536-senran-kagura-shinovi-versus.json) |
@@ -17383,6 +17384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man 4 | 231383 | [231383-spider-man-4.json](./231383-spider-man-4.json) |
 | Spider-Man and the X-Men in Arcade's Revenge | 365699 | [365699-spider-man-and-the-x-men-in-arcades-revenge.json](./365699-spider-man-and-the-x-men-in-arcades-revenge.json) |
 | Spider-Man and the X-Men in Arcade's Revenge | 365700 | [365700-spider-man-and-the-x-men-in-arcades-revenge.json](./365700-spider-man-and-the-x-men-in-arcades-revenge.json) |
+| Spider-Man and the X-Men in Arcade's Revenge | 4389 | [4389-spider-man-and-the-x-men-in-arcades-revenge.json](./4389-spider-man-and-the-x-men-in-arcades-revenge.json) |
 | Spider-Man and Venom: Maximum Carnage | 18125 | [18125-spider-man-and-venom-maximum-carnage.json](./18125-spider-man-and-venom-maximum-carnage.json) |
 | Spider-Man Cartoon Maker | 63702 | [63702-spider-man-cartoon-maker.json](./63702-spider-man-cartoon-maker.json) |
 | Spider-Man vs. Doc Ock | 23542 | [23542-spider-man-vs-doc-ock.json](./23542-spider-man-vs-doc-ock.json) |
@@ -26225,6 +26227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Qix | 39408 | [39408-super-qix.json](./39408-super-qix.json) |
 | Super Qube Hopper | 128857 | [128857-super-qube-hopper.json](./128857-super-qube-hopper.json) |
 | Super QuickHook | 78901 | [78901-super-quickhook.json](./78901-super-quickhook.json) |
+| Super R-Type | 42574 | [42574-super-r-type.json](./42574-super-r-type.json) |
 | Super R.B.I. Baseball | 5332 | [5332-super-r-b-i-baseball.json](./5332-super-r-b-i-baseball.json) |
 | Super Rabbit | 246482 | [246482-super-rabbit.json](./246482-super-rabbit.json) |
 | Super Racing | 287563 | [287563-super-racing.json](./287563-super-racing.json) |
