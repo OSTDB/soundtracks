@@ -2101,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of K-1 Grand Prix '96 | 66886 | [66886-legend-of-k-1-grand-prix-96.json](./66886-legend-of-k-1-grand-prix-96.json) |
 | Legend of Kay | 194236 | [194236-legend-of-kay.json](./194236-legend-of-kay.json) |
 | Legend of Kay | 3219 | [3219-legend-of-kay.json](./3219-legend-of-kay.json) |
+| Legend of Kay Anniversary | 19962 | [19962-legend-of-kay-anniversary.json](./19962-legend-of-kay-anniversary.json) |
 | Legend of Keepers | 111965 | [111965-legend-of-keepers.json](./111965-legend-of-keepers.json) |
 | Legend of Keepers Collection | 222226 | [222226-legend-of-keepers-collection.json](./222226-legend-of-keepers-collection.json) |
 | Legend of Keepers: Complete Edition | 225547 | [225547-legend-of-keepers-complete-edition.json](./225547-legend-of-keepers-complete-edition.json) |
@@ -3607,6 +3608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Is A Game | 298887 | [298887-life-is-a-game.json](./298887-life-is-a-game.json) |
 | Life is a Race | 199086 | [199086-life-is-a-race.json](./199086-life-is-a-race.json) |
 | Life is Feudal: Arden | 321560 | [321560-life-is-feudal-arden.json](./321560-life-is-feudal-arden.json) |
+| Life is Feudal: Your Own | 9243 | [9243-life-is-feudal-your-own.json](./9243-life-is-feudal-your-own.json) |
 | Life Is Hard, and Then You Buy a Cactus | 178957 | [178957-life-is-hard-and-then-you-buy-a-cactus.json](./178957-life-is-hard-and-then-you-buy-a-cactus.json) |
 | Life is Magic | 64426 | [64426-life-is-magic.json](./64426-life-is-magic.json) |
 | Life Is Not the End | 156999 | [156999-life-is-not-the-end.json](./156999-life-is-not-the-end.json) |
@@ -6733,6 +6735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Soul | 250888 | [250888-lost-soul.json](./250888-lost-soul.json) |
 | Lost Soul | 385407 | [385407-lost-soul.json](./385407-lost-soul.json) |
 | Lost Soul | 50115 | [50115-lost-soul.json](./50115-lost-soul.json) |
+| Lost Soul Aside | 21962 | [21962-lost-soul-aside.json](./21962-lost-soul-aside.json) |
 | Lost Soul: Escape the Doom Museum | 344347 | [344347-lost-soul-escape-the-doom-museum.json](./344347-lost-soul-escape-the-doom-museum.json) |
 | Lost Souls | 195594 | [195594-lost-souls.json](./195594-lost-souls.json) |
 | Lost Souls | 229110 | [229110-lost-souls.json](./229110-lost-souls.json) |
