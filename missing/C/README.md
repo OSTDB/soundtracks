@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Big Game Hunter: Hunting Party with Gun | 136305 | [136305-cabelas-big-game-hunter-hunting-party-with-gun.json](./136305-cabelas-big-game-hunter-hunting-party-with-gun.json) |
 | Cabela's Big Game Hunter: Ultimate Challenge | 45298 | [45298-cabelas-big-game-hunter-ultimate-challenge.json](./45298-cabelas-big-game-hunter-ultimate-challenge.json) |
 | Cabela's Dangerous Hunts | 5763 | [5763-cabelas-dangerous-hunts.json](./5763-cabelas-dangerous-hunts.json) |
+| Cabela's Dangerous Hunts 2 | 3843 | [3843-cabelas-dangerous-hunts-2.json](./3843-cabelas-dangerous-hunts-2.json) |
 | Cabela's Dangerous Hunts 2009 | 4737 | [4737-cabelas-dangerous-hunts-2009.json](./4737-cabelas-dangerous-hunts-2009.json) |
 | Cabela's Dangerous Hunts 2011 | 4738 | [4738-cabelas-dangerous-hunts-2011.json](./4738-cabelas-dangerous-hunts-2011.json) |
 | Cabela's Dangerous Hunts 2013 | 5807 | [5807-cabelas-dangerous-hunts-2013.json](./5807-cabelas-dangerous-hunts-2013.json) |
@@ -4583,6 +4584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager 2: Scandinavian Leagues | 68737 | [68737-championship-manager-2-scandinavian-leagues.json](./68737-championship-manager-2-scandinavian-leagues.json) |
 | Championship Manager 2008 | 14840 | [14840-championship-manager-2008.json](./14840-championship-manager-2008.json) |
 | Championship Manager 2009 | 64883 | [64883-championship-manager-2009.json](./64883-championship-manager-2009.json) |
+| Championship Manager 2010 | 14888 | [14888-championship-manager-2010.json](./14888-championship-manager-2010.json) |
 | Championship Manager 2010 Express | 118918 | [118918-championship-manager-2010-express.json](./118918-championship-manager-2010-express.json) |
 | Championship Manager 2010 Special Edition | 324735 | [324735-championship-manager-2010-special-edition.json](./324735-championship-manager-2010-special-edition.json) |
 | Championship Manager 3 | 93149 | [93149-championship-manager-3.json](./93149-championship-manager-3.json) |
@@ -8884,8 +8886,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocoto Kart Racer | 248485 | [248485-cocoto-kart-racer.json](./248485-cocoto-kart-racer.json) |
 | Cocoto Kart Racer | 248486 | [248486-cocoto-kart-racer.json](./248486-cocoto-kart-racer.json) |
 | Cocoto Kit For Kids | 77122 | [77122-cocoto-kit-for-kids.json](./77122-cocoto-kit-for-kids.json) |
+| Cocoto Magic Circus | 3859 | [3859-cocoto-magic-circus.json](./3859-cocoto-magic-circus.json) |
 | Cocoto Magic Circus 2 | 61861 | [61861-cocoto-magic-circus-2.json](./61861-cocoto-magic-circus-2.json) |
 | Cocoto Platform Jumper | 248499 | [248499-cocoto-platform-jumper.json](./248499-cocoto-platform-jumper.json) |
+| Cocoto Platform Jumper | 3861 | [3861-cocoto-platform-jumper.json](./3861-cocoto-platform-jumper.json) |
 | Cocoto Surprise | 50983 | [50983-cocoto-surprise.json](./50983-cocoto-surprise.json) |
 | Cocoto Tennis Master | 80476 | [80476-cocoto-tennis-master.json](./80476-cocoto-tennis-master.json) |
 | Coda | 252211 | [252211-coda.json](./252211-coda.json) |
@@ -11467,6 +11471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Mama World: Hobbies & Fun | 47957 | [47957-cooking-mama-world-hobbies-and-fun.json](./47957-cooking-mama-world-hobbies-and-fun.json) |
 | Cooking Mama: Let's Cook! | 88776 | [88776-cooking-mama-lets-cook.json](./88776-cooking-mama-lets-cook.json) |
 | Cooking Mama: Mama Kills Animals | 18449 | [18449-cooking-mama-mama-kills-animals.json](./18449-cooking-mama-mama-kills-animals.json) |
+| Cooking Mama: World Kitchen | 3064 | [3064-cooking-mama-world-kitchen.json](./3064-cooking-mama-world-kitchen.json) |
 | Cooking Mania | 174773 | [174773-cooking-mania.json](./174773-cooking-mania.json) |
 | Cooking Misha | 399752 | [399752-cooking-misha.json](./399752-cooking-misha.json) |
 | Cooking Papa: Cookstar | 237641 | [237641-cooking-papa-cookstar.json](./237641-cooking-papa-cookstar.json) |
@@ -13817,6 +13822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Heroes: VR | 295785 | [295785-cricket-heroes-vr.json](./295785-cricket-heroes-vr.json) |
 | Cricket League | 242218 | [242218-cricket-league.json](./242218-cricket-league.json) |
 | Cricket Manager 27 | 414308 | [414308-cricket-manager-27.json](./414308-cricket-manager-27.json) |
+| Cricket Revolution | 14941 | [14941-cricket-revolution.json](./14941-cricket-revolution.json) |
 | Cricket: Jae's Really Peculiar Game | 138882 | [138882-cricket-jaes-really-peculiar-game.json](./138882-cricket-jaes-really-peculiar-game.json) |
 | CricktoGame | 110862 | [110862-cricktogame.json](./110862-cricktogame.json) |
 | CricVRX: VR Cricket | 120772 | [120772-cricvrx-vr-cricket.json](./120772-cricvrx-vr-cricket.json) |
@@ -14046,6 +14052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Theory | 144243 | [144243-crisis-theory.json](./144243-crisis-theory.json) |
 | Crisis VRigade 2 | 127862 | [127862-crisis-vrigade-2.json](./127862-crisis-vrigade-2.json) |
 | Crisis Wing | 146102 | [146102-crisis-wing.json](./146102-crisis-wing.json) |
+| Crisis Zone | 13896 | [13896-crisis-zone.json](./13896-crisis-zone.json) |
 | Crisis: North Korea | 62792 | [62792-crisis-north-korea.json](./62792-crisis-north-korea.json) |
 | Crisis: The Third Way | 382220 | [382220-crisis-the-third-way.json](./382220-crisis-the-third-way.json) |
 | Crisis/Divider | 305153 | [305153-crisis-divider.json](./305153-crisis-divider.json) |
@@ -15500,6 +15507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubivore: Survival of the Fittest | 3865 | [3865-cubivore-survival-of-the-fittest.json](./3865-cubivore-survival-of-the-fittest.json) |
 | Cubix Classic | 67981 | [67981-cubix-classic.json](./67981-cubix-classic.json) |
 | Cubix Robots for Everyone: Showdown | 242806 | [242806-cubix-robots-for-everyone-showdown.json](./242806-cubix-robots-for-everyone-showdown.json) |
+| Cubix Robots for Everyone: Showdown | 3866 | [3866-cubix-robots-for-everyone-showdown.json](./3866-cubix-robots-for-everyone-showdown.json) |
 | Cubix Worlds | 215002 | [215002-cubix-worlds.json](./215002-cubix-worlds.json) |
 | Cubix: Match-3 | 197727 | [197727-cubix-match-3.json](./197727-cubix-match-3.json) |
 | Cubix: Robots for Everyone - Clash 'n Bash | 49156 | [49156-cubix-robots-for-everyone-clash-n-bash.json](./49156-cubix-robots-for-everyone-clash-n-bash.json) |
