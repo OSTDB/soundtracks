@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jade Guardian | 310186 | [310186-jade-guardian.json](./310186-jade-guardian.json) |
 | Jade Konoichi: Butterfly Legend | 97277 | [97277-jade-konoichi-butterfly-legend.json](./97277-jade-konoichi-butterfly-legend.json) |
 | Jade Legends: Immortal Realm | 304214 | [304214-jade-legends-immortal-realm.json](./304214-jade-legends-immortal-realm.json) |
+| Jade Rousseau: The Secret Revelations | 18886 | [18886-jade-rousseau-the-secret-revelations.json](./18886-jade-rousseau-the-secret-revelations.json) |
 | Jade Shadows: Constellations | 408525 | [408525-jade-shadows-constellations.json](./408525-jade-shadows-constellations.json) |
 | Jade Spring | 349863 | [349863-jade-spring.json](./349863-jade-spring.json) |
 | Jade Wolf | 197899 | [197899-jade-wolf.json](./197899-jade-wolf.json) |
