@@ -6620,6 +6620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost King's Lullaby | 115537 | [115537-lost-kings-lullaby.json](./115537-lost-kings-lullaby.json) |
 | Lost Kingdom | 269183 | [269183-lost-kingdom.json](./269183-lost-kingdom.json) |
 | Lost Kingdoms | 3981 | [3981-lost-kingdoms.json](./3981-lost-kingdoms.json) |
+| Lost Kingdoms II | 3982 | [3982-lost-kingdoms-ii.json](./3982-lost-kingdoms-ii.json) |
 | Lost Kittens: Maze Garden | 166696 | [166696-lost-kittens-maze-garden.json](./166696-lost-kittens-maze-garden.json) |
 | Lost Labyrinth | 65402 | [65402-lost-labyrinth.json](./65402-lost-labyrinth.json) |
 | Lost Lagoon 2: Cursed and Forgotten | 206651 | [206651-lost-lagoon-2-cursed-and-forgotten.json](./206651-lost-lagoon-2-cursed-and-forgotten.json) |
