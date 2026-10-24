@@ -1767,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unguided | 362485 | [362485-unguided.json](./362485-unguided.json) |
 | Unguided Order | 379032 | [379032-unguided-order.json](./379032-unguided-order.json) |
 | Ungus | 229659 | [229659-ungus.json](./229659-ungus.json) |
+| Unhack | 35978 | [35978-unhack.json](./35978-unhack.json) |
 | Unhack 2 | 33530 | [33530-unhack-2.json](./33530-unhack-2.json) |
 | Unhack: Destruction | 172365 | [172365-unhack-destruction.json](./172365-unhack-destruction.json) |
 | Unhallowed | 256834 | [256834-unhallowed.json](./256834-unhallowed.json) |
@@ -1945,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unity-chan the SharpShooter! | 304899 | [304899-unity-chan-the-sharpshooter.json](./304899-unity-chan-the-sharpshooter.json) |
 | Unity-Chan: Desktop Companion | 395040 | [395040-unity-chan-desktop-companion.json](./395040-unity-chan-desktop-companion.json) |
 | Unity-chan's Action Shooting | 362813 | [362813-unity-chans-action-shooting.json](./362813-unity-chans-action-shooting.json) |
+| Unium | 35532 | [35532-unium.json](./35532-unium.json) |
 | UniverCity | 106455 | [106455-univercity.json](./106455-univercity.json) |
 | Univers 11: Under the Sky | 195721 | [195721-univers-11-under-the-sky.json](./195721-univers-11-under-the-sky.json) |
 | Universal Boxing Manager | 70942 | [70942-universal-boxing-manager.json](./70942-universal-boxing-manager.json) |
