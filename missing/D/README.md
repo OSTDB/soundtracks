@@ -2387,7 +2387,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daymare Town 3 | 257645 | [257645-daymare-town-3.json](./257645-daymare-town-3.json) |
 | Daymare Town 4 | 257646 | [257646-daymare-town-4.json](./257646-daymare-town-4.json) |
 | Daymare Town 4 | 62702 | [62702-daymare-town-4.json](./62702-daymare-town-4.json) |
-| Daymare: 1994 Sandcastle | 152844 | [152844-daymare-1994-sandcastle.json](./152844-daymare-1994-sandcastle.json) |
 | Daymare: 1994 Sandcastle - Limited Edition | 277376 | [277376-daymare-1994-sandcastle-limited-edition.json](./277376-daymare-1994-sandcastle-limited-edition.json) |
 | Days After | 169990 | [169990-days-after.json](./169990-days-after.json) |
 | Days End: Becoming Blackbird | 256743 | [256743-days-end-becoming-blackbird.json](./256743-days-end-becoming-blackbird.json) |
@@ -4886,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Strike: First Assault | 99547 | [99547-delta-strike-first-assault.json](./99547-delta-strike-first-assault.json) |
 | Delta T | 109169 | [109169-delta-t.json](./109169-delta-t.json) |
 | Delta Time | 171622 | [171622-delta-time.json](./171622-delta-time.json) |
+| Delta V | 8416 | [8416-delta-v.json](./8416-delta-v.json) |
 | Delta Vector | 332859 | [332859-delta-vector.json](./332859-delta-vector.json) |
 | Delta Warp | 43978 | [43978-delta-warp.json](./43978-delta-warp.json) |
 | Delta Wing | 28562 | [28562-delta-wing.json](./28562-delta-wing.json) |
@@ -7331,6 +7331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Meow | 303672 | [303672-digital-meow.json](./303672-digital-meow.json) |
 | Digital Messiah | 229805 | [229805-digital-messiah.json](./229805-digital-messiah.json) |
 | Digital Monster Card Game Ver. WonderSwan Color | 37549 | [37549-digital-monster-card-game-ver-wonderswan-color.json](./37549-digital-monster-card-game-ver-wonderswan-color.json) |
+| Digital Monster Ver. S: Digimon Tamers | 8613 | [8613-digital-monster-ver-s-digimon-tamers.json](./8613-digital-monster-ver-s-digimon-tamers.json) |
 | Digital Monster X | 274145 | [274145-digital-monster-x.json](./274145-digital-monster-x.json) |
 | Digital Monster X Ver.2 | 274146 | [274146-digital-monster-x-ver-2.json](./274146-digital-monster-x-ver-2.json) |
 | Digital Monster: D Project | 37550 | [37550-digital-monster-d-project.json](./37550-digital-monster-d-project.json) |
@@ -8357,6 +8358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Aladdin | 8118 | [8118-disneys-aladdin.json](./8118-disneys-aladdin.json) |
 | Disney's Aladdin in Nasira's Revenge | 10791 | [10791-disneys-aladdin-in-nasiras-revenge.json](./10791-disneys-aladdin-in-nasiras-revenge.json) |
 | Disney's American Dragon Jake Long: Rise of the Huntsclan! | 49410 | [49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json](./49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json) |
+| Disney's American Dragon: Jake Long - Attack of the Dark Dragon | 8464 | [8464-disneys-american-dragon-jake-long-attack-of-the-dark-dragon.json](./8464-disneys-american-dragon-jake-long-attack-of-the-dark-dragon.json) |
 | Disney's Animated Storybook: 101 Dalmatians | 204394 | [204394-disneys-animated-storybook-101-dalmatians.json](./204394-disneys-animated-storybook-101-dalmatians.json) |
 | Disney's Animated Storybook: The Hunchback of Notre Dame | 202148 | [202148-disneys-animated-storybook-the-hunchback-of-notre-dame.json](./202148-disneys-animated-storybook-the-hunchback-of-notre-dame.json) |
 | Disney's Animated Storybook: The Lion King | 214616 | [214616-disneys-animated-storybook-the-lion-king.json](./214616-disneys-animated-storybook-the-lion-king.json) |
