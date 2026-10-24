@@ -4664,6 +4664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Fodder | 224673 | [224673-hero-fodder.json](./224673-hero-fodder.json) |
 | Hero for Hire | 192248 | [192248-hero-for-hire.json](./192248-hero-for-hire.json) |
 | Hero Forces | 19141 | [19141-hero-forces.json](./19141-hero-forces.json) |
+| Hero Generations | 17301 | [17301-hero-generations.json](./17301-hero-generations.json) |
 | Hero Generations: ReGen | 33556 | [33556-hero-generations-regen.json](./33556-hero-generations-regen.json) |
 | Hero Great Wars | 252131 | [252131-hero-great-wars.json](./252131-hero-great-wars.json) |
 | Hero Hawk | 195042 | [195042-hero-hawk.json](./195042-hero-hawk.json) |
@@ -4995,6 +4996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Reborn: Enigma | 59663 | [59663-heroes-reborn-enigma.json](./59663-heroes-reborn-enigma.json) |
 | Heroes Rise Trilogy | 53192 | [53192-heroes-rise-trilogy.json](./53192-heroes-rise-trilogy.json) |
 | Heroes Rise: The Hero Project | 17490 | [17490-heroes-rise-the-hero-project.json](./17490-heroes-rise-the-hero-project.json) |
+| Heroes Rise: The Prodigy | 17375 | [17375-heroes-rise-the-prodigy.json](./17375-heroes-rise-the-prodigy.json) |
 | Heroes Rush: Tactics | 54093 | [54093-heroes-rush-tactics.json](./54093-heroes-rush-tactics.json) |
 | Heroes Saga | 410192 | [410192-heroes-saga.json](./410192-heroes-saga.json) |
 | Heroes Sky Legends | 336371 | [336371-heroes-sky-legends.json](./336371-heroes-sky-legends.json) |
@@ -6144,6 +6146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Templar VR | 36713 | [36713-high-templar-vr.json](./36713-high-templar-vr.json) |
 | High Up | 309440 | [309440-high-up.json](./309440-high-up.json) |
 | High Velocity Arena | 251988 | [251988-high-velocity-arena.json](./251988-high-velocity-arena.json) |
+| High Velocity Bowling | 21816 | [21816-high-velocity-bowling.json](./21816-high-velocity-bowling.json) |
 | High Velocity: Mountain Racing Challenge | 45519 | [45519-high-velocity-mountain-racing-challenge.json](./45519-high-velocity-mountain-racing-challenge.json) |
 | High Voltage | 63627 | [63627-high-voltage.json](./63627-high-voltage.json) |
 | High Voltage Hot Rod Show | 72558 | [72558-high-voltage-hot-rod-show.json](./72558-high-voltage-hot-rod-show.json) |
