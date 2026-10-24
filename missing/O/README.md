@@ -2727,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenQuiz | 246110 | [246110-openquiz.json](./246110-openquiz.json) |
 | OpenSpades | 98371 | [98371-openspades.json](./98371-openspades.json) |
 | OpenTaiko | 323888 | [323888-opentaiko.json](./323888-opentaiko.json) |
+| OpenTTD | 18074 | [18074-openttd.json](./18074-openttd.json) |
 | OpenTyrian | 46729 | [46729-opentyrian.json](./46729-opentyrian.json) |
 | OpenViva | 316813 | [316813-openviva.json](./316813-openviva.json) |
 | OpenXcom | 128210 | [128210-openxcom.json](./128210-openxcom.json) |
