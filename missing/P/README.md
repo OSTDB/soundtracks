@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painkiller | 828 | [828-painkiller.json](./828-painkiller.json) |
 | Painkiller Pandemonium | 54262 | [54262-painkiller-pandemonium.json](./54262-painkiller-pandemonium.json) |
 | Painkiller Universe | 54261 | [54261-painkiller-universe.json](./54261-painkiller-universe.json) |
+| Painkiller: Black Edition | 14805 | [14805-painkiller-black-edition.json](./14805-painkiller-black-edition.json) |
 | Painkiller: Hell & Damnation | 1789 | [1789-painkiller-hell-and-damnation.json](./1789-painkiller-hell-and-damnation.json) |
 | Painkiller: Hell & Damnation: Collector's Edition | 25046 | [25046-painkiller-hell-and-damnation-collectors-edition.json](./25046-painkiller-hell-and-damnation-collectors-edition.json) |
 | Painkiller: Hell Wars | 20755 | [20755-painkiller-hell-wars.json](./20755-painkiller-hell-wars.json) |
@@ -1299,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper io 2: Mishmash DLC | 263546 | [263546-paper-io-2-mishmash-dlc.json](./263546-paper-io-2-mishmash-dlc.json) |
 | Paper Kingdom | 279110 | [279110-paper-kingdom.json](./279110-paper-kingdom.json) |
 | Paper Knight | 386401 | [386401-paper-knight.json](./386401-paper-knight.json) |
+| Paper Lily: Chapter 1 | 227213 | [227213-paper-lily-chapter-1.json](./227213-paper-lily-chapter-1.json) |
 | Paper Luigi's Mansion | 323901 | [323901-paper-luigis-mansion.json](./323901-paper-luigis-mansion.json) |
 | Paper Mall | 334934 | [334934-paper-mall.json](./334934-paper-mall.json) |
 | Paper Man 3D | 103970 | [103970-paper-man-3d.json](./103970-paper-man-3d.json) |
@@ -1402,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperboy | 198844 | [198844-paperboy.json](./198844-paperboy.json) |
 | Paperboy | 256079 | [256079-paperboy.json](./256079-paperboy.json) |
 | Paperboy | 256082 | [256082-paperboy.json](./256082-paperboy.json) |
+| Paperboy 2 | 12458 | [12458-paperboy-2.json](./12458-paperboy-2.json) |
 | Paperboy 2 | 307086 | [307086-paperboy-2.json](./307086-paperboy-2.json) |
 | Paperboy 2 | 307087 | [307087-paperboy-2.json](./307087-paperboy-2.json) |
 | Paperboy: Special Delivery | 55885 | [55885-paperboy-special-delivery.json](./55885-paperboy-special-delivery.json) |
@@ -8542,6 +8545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poinpy | 204454 | [204454-poinpy.json](./204454-poinpy.json) |
 | Point | 97929 | [97929-point.json](./97929-point.json) |
 | Point & Sin | 184843 | [184843-point-and-sin.json](./184843-point-and-sin.json) |
+| Point Blank | 13899 | [13899-point-blank.json](./13899-point-blank.json) |
 | Point Blank 2 | 40988 | [40988-point-blank-2.json](./40988-point-blank-2.json) |
 | Point Blank X | 243045 | [243045-point-blank-x.json](./243045-point-blank-x.json) |
 | Point Click Killer | 276092 | [276092-point-click-killer.json](./276092-point-click-killer.json) |
@@ -11776,6 +11780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Quest | 77600 | [77600-princess-quest.json](./77600-princess-quest.json) |
 | Princess Quest Part 1 | 250055 | [250055-princess-quest-part-1.json](./250055-princess-quest-part-1.json) |
 | Princess Rapunzel: The Kingdom's Legacy | 320461 | [320461-princess-rapunzel-the-kingdoms-legacy.json](./320461-princess-rapunzel-the-kingdoms-legacy.json) |
+| Princess Remedy in a World of Hurt | 15890 | [15890-princess-remedy-in-a-world-of-hurt.json](./15890-princess-remedy-in-a-world-of-hurt.json) |
 | Princess Rescue | 46886 | [46886-princess-rescue.json](./46886-princess-rescue.json) |
 | Princess RPG | 196814 | [196814-princess-rpg.json](./196814-princess-rpg.json) |
 | Princess Sahirah is a Spoiled Brat! | 46490 | [46490-princess-sahirah-is-a-spoiled-brat.json](./46490-princess-sahirah-is-a-spoiled-brat.json) |
