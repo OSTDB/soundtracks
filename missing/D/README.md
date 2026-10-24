@@ -2292,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn's Light 3 | 324737 | [324737-dawns-light-3.json](./324737-dawns-light-3.json) |
 | Dawnbringer | 129604 | [129604-dawnbringer.json](./129604-dawnbringer.json) |
 | Dawncaster: Deckbuilding RPG | 175097 | [175097-dawncaster-deckbuilding-rpg.json](./175097-dawncaster-deckbuilding-rpg.json) |
+| Dawnfolk | 245754 | [245754-dawnfolk.json](./245754-dawnfolk.json) |
 | Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
 | Dawning Evil | 331088 | [331088-dawning-evil.json](./331088-dawning-evil.json) |
 | Dawning Subaru, and The Owl lurking in the twilight. | 317706 | [317706-dawning-subaru-and-the-owl-lurking-in-the-twilight.json](./317706-dawning-subaru-and-the-owl-lurking-in-the-twilight.json) |
@@ -8301,6 +8302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney 100 | 275590 | [275590-disney-100.json](./275590-disney-100.json) |
 | Disney All-Star Cards | 98009 | [98009-disney-all-star-cards.json](./98009-disney-all-star-cards.json) |
 | Disney City Girl | 62415 | [62415-disney-city-girl.json](./62415-disney-city-girl.json) |
+| Disney Classic Games Collection | 172397 | [172397-disney-classic-games-collection.json](./172397-disney-classic-games-collection.json) |
 | Disney Classic Games: Aladdin and The Lion King | 122082 | [122082-disney-classic-games-aladdin-and-the-lion-king.json](./122082-disney-classic-games-aladdin-and-the-lion-king.json) |
 | Disney Classic Games: Aladdin and The Lion King - The Jungle Book and More Aladdin Pack | 204668 | [204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json](./204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json) |
 | Disney Classics: Master Mouse - Show Time Quiz | 228447 | [228447-disney-classics-master-mouse-show-time-quiz.json](./228447-disney-classics-master-mouse-show-time-quiz.json) |
@@ -9722,6 +9724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolphin Paradise | 107676 | [107676-dolphin-paradise.json](./107676-dolphin-paradise.json) |
 | Dolphin Paradise: Wild Friends | 251739 | [251739-dolphin-paradise-wild-friends.json](./251739-dolphin-paradise-wild-friends.json) |
 | Dolphin Simulator | 107007 | [107007-dolphin-simulator.json](./107007-dolphin-simulator.json) |
+| Dolphin Spirit: Ocean Mission | 246622 | [246622-dolphin-spirit-ocean-mission.json](./246622-dolphin-spirit-ocean-mission.json) |
 | Dolphin Splash! | 272475 | [272475-dolphin-splash.json](./272475-dolphin-splash.json) |
 | Dolphin Swim | 116737 | [116737-dolphin-swim.json](./116737-dolphin-swim.json) |
 | Dolphin Trainer | 269739 | [269739-dolphin-trainer.json](./269739-dolphin-trainer.json) |
@@ -13752,6 +13755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropzone | 369617 | [369617-dropzone.json](./369617-dropzone.json) |
 | Dropzone | 369618 | [369618-dropzone.json](./369618-dropzone.json) |
 | DropZone | 19546 | [19546-dropzone.json](./19546-dropzone.json) |
+| Dros | 172216 | [172216-dros.json](./172216-dros.json) |
 | Drosera: Lady Bad End no Hatsukoi | 321015 | [321015-drosera-lady-bad-end-no-hatsukoi.json](./321015-drosera-lady-bad-end-no-hatsukoi.json) |
 | Drosoph Hotel | 75039 | [75039-drosoph-hotel.json](./75039-drosoph-hotel.json) |
 | Drought | 261442 | [261442-drought.json](./261442-drought.json) |
@@ -15213,6 +15217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk 12: Deadly Zone | 17738 | [17738-dusk-12-deadly-zone.json](./17738-dusk-12-deadly-zone.json) |
 | Dusk Child | 134498 | [134498-dusk-child.json](./134498-dusk-child.json) |
 | Dusk Diver | 109434 | [109434-dusk-diver.json](./109434-dusk-diver.json) |
+| Dusk Diver 2 | 171860 | [171860-dusk-diver-2.json](./171860-dusk-diver-2.json) |
 | Dusk Diver 2: Digital Deluxe Edition | 238328 | [238328-dusk-diver-2-digital-deluxe-edition.json](./238328-dusk-diver-2-digital-deluxe-edition.json) |
 | Dusk Diver: Special Limited Edition | 167119 | [167119-dusk-diver-special-limited-edition.json](./167119-dusk-diver-special-limited-edition.json) |
 | Dusk Golem's Anthology of Horror | 124193 | [124193-dusk-golems-anthology-of-horror.json](./124193-dusk-golems-anthology-of-horror.json) |
