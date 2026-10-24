@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K12 | 256896 | [256896-nba-2k12.json](./256896-nba-2k12.json) |
 | NBA 2K12 | 256897 | [256897-nba-2k12.json](./256897-nba-2k12.json) |
 | NBA 2K12 | 5057 | [5057-nba-2k12.json](./5057-nba-2k12.json) |
+| NBA 2K16 | 11525 | [11525-nba-2k16.json](./11525-nba-2k16.json) |
 | NBA 2K16: Michael Jordan Edition | 53403 | [53403-nba-2k16-michael-jordan-edition.json](./53403-nba-2k16-michael-jordan-edition.json) |
 | NBA 2K16: Michael Jordan Special Edition | 53402 | [53402-nba-2k16-michael-jordan-special-edition.json](./53402-nba-2k16-michael-jordan-special-edition.json) |
 | NBA 2K17 | 18819 | [18819-nba-2k17.json](./18819-nba-2k17.json) |
@@ -1168,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Show Time: NBA on NBC | 49902 | [49902-nba-show-time-nba-on-nbc.json](./49902-nba-show-time-nba-on-nbc.json) |
 | NBA Showdown | 45573 | [45573-nba-showdown.json](./45573-nba-showdown.json) |
 | NBA Showtime: NBA on NBC | 3554 | [3554-nba-showtime-nba-on-nbc.json](./3554-nba-showtime-nba-on-nbc.json) |
+| NBA Street | 4035 | [4035-nba-street.json](./4035-nba-street.json) |
 | NBA Street Homecourt | 7108 | [7108-nba-street-homecourt.json](./7108-nba-street-homecourt.json) |
 | NBA Street Showdown | 38479 | [38479-nba-street-showdown.json](./38479-nba-street-showdown.json) |
 | NBA Street V3 | 4037 | [4037-nba-street-v3.json](./4037-nba-street-v3.json) |
