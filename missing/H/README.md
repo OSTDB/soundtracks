@@ -1184,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hannah Montana: Pop Tour | 221686 | [221686-hannah-montana-pop-tour.json](./221686-hannah-montana-pop-tour.json) |
 | Hannah Montana: Rock out the Show | 44487 | [44487-hannah-montana-rock-out-the-show.json](./44487-hannah-montana-rock-out-the-show.json) |
 | Hannah Montana: Spotlight World Tour | 50611 | [50611-hannah-montana-spotlight-world-tour.json](./50611-hannah-montana-spotlight-world-tour.json) |
+| Hannah Montana: The Movie | 7006 | [7006-hannah-montana-the-movie.json](./7006-hannah-montana-the-movie.json) |
 | Hannibal | 405536 | [405536-hannibal.json](./405536-hannibal.json) |
 | Hannibal: Rome and Carthage in the Second Punic War | 129583 | [129583-hannibal-rome-and-carthage-in-the-second-punic-war.json](./129583-hannibal-rome-and-carthage-in-the-second-punic-war.json) |
 | Hanno | 289870 | [289870-hanno.json](./289870-hanno.json) |
@@ -2530,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeadHunters | 373751 | [373751-headhunters.json](./373751-headhunters.json) |
 | Headhunting | 345130 | [345130-headhunting.json](./345130-headhunting.json) |
 | Heading Home | 278954 | [278954-heading-home.json](./278954-heading-home.json) |
+| Heading Out | 154290 | [154290-heading-out.json](./154290-heading-out.json) |
 | Headlander | 15857 | [15857-headlander.json](./15857-headlander.json) |
 | Headless D | 223629 | [223629-headless-d.json](./223629-headless-d.json) |
 | Headless Zombie 2 | 102020 | [102020-headless-zombie-2.json](./102020-headless-zombie-2.json) |
@@ -9627,6 +9629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt Royale | 159347 | [159347-hunt-royale.json](./159347-hunt-royale.json) |
 | Hunt Souleater | 189024 | [189024-hunt-souleater.json](./189024-hunt-souleater.json) |
 | Hunt the Lights | 157076 | [157076-hunt-the-lights.json](./157076-hunt-the-lights.json) |
+| Hunt the Night | 152169 | [152169-hunt-the-night.json](./152169-hunt-the-night.json) |
 | Hunt the Pale Gods | 303559 | [303559-hunt-the-pale-gods.json](./303559-hunt-the-pale-gods.json) |
 | Hunt the Thailand Hidden | 119696 | [119696-hunt-the-thailand-hidden.json](./119696-hunt-the-thailand-hidden.json) |
 | Hunt the Wumpus | 11498 | [11498-hunt-the-wumpus.json](./11498-hunt-the-wumpus.json) |
