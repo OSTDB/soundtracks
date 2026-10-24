@@ -7327,6 +7327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Mesa Inbound | 253030 | [253030-black-mesa-inbound.json](./253030-black-mesa-inbound.json) |
 | Black Mesa: Blue Shift | 196017 | [196017-black-mesa-blue-shift.json](./196017-black-mesa-blue-shift.json) |
 | Black Mesa: Classic | 283761 | [283761-black-mesa-classic.json](./283761-black-mesa-classic.json) |
+| Black Mesa: Definitive Edition | 229969 | [229969-black-mesa-definitive-edition.json](./229969-black-mesa-definitive-edition.json) |
 | Black Mesa: Military | 327903 | [327903-black-mesa-military.json](./327903-black-mesa-military.json) |
 | Black Mesa: Route to Evacuation - Part 1 | 374376 | [374376-black-mesa-route-to-evacuation-part-1.json](./374376-black-mesa-route-to-evacuation-part-1.json) |
 | Black Mesa: Xen | 229858 | [229858-black-mesa-xen.json](./229858-black-mesa-xen.json) |
@@ -8051,6 +8052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach vs Naruto | 228437 | [228437-bleach-vs-naruto.json](./228437-bleach-vs-naruto.json) |
 | Bleach: Blade Battlers | 72983 | [72983-bleach-blade-battlers.json](./72983-bleach-blade-battlers.json) |
 | Bleach: Blade Battlers 2nd | 75997 | [75997-bleach-blade-battlers-2nd.json](./75997-bleach-blade-battlers-2nd.json) |
+| Bleach: Dark Souls | 21331 | [21331-bleach-dark-souls.json](./21331-bleach-dark-souls.json) |
 | Bleach: Erabareshi Tamashi | 43533 | [43533-bleach-erabareshi-tamashi.json](./43533-bleach-erabareshi-tamashi.json) |
 | Bleach: Eternal Soul | 208215 | [208215-bleach-eternal-soul.json](./208215-bleach-eternal-soul.json) |
 | Bleach: Heat the Soul 2 | 44481 | [44481-bleach-heat-the-soul-2.json](./44481-bleach-heat-the-soul-2.json) |
@@ -8662,6 +8664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocksplode | 118250 | [118250-blocksplode.json](./118250-blocksplode.json) |
 | BlockStar VR | 197099 | [197099-blockstar-vr.json](./197099-blockstar-vr.json) |
 | BlockStarPlanet | 55168 | [55168-blockstarplanet.json](./55168-blockstarplanet.json) |
+| Blockstorm | 20920 | [20920-blockstorm.json](./20920-blockstorm.json) |
 | Blockstory | 137030 | [137030-blockstory.json](./137030-blockstory.json) |
 | Blocksworld | 68685 | [68685-blocksworld.json](./68685-blocksworld.json) |
 | Blocksy | 292059 | [292059-blocksy.json](./292059-blocksy.json) |
@@ -14790,6 +14793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz! De slimste van Nederland | 77281 | [77281-buzz-de-slimste-van-nederland.json](./77281-buzz-de-slimste-van-nederland.json) |
 | Buzz! Junior Ace Racers | 21305 | [21305-buzz-junior-ace-racers.json](./21305-buzz-junior-ace-racers.json) |
 | Buzz! Junior: Dino Den | 43507 | [43507-buzz-junior-dino-den.json](./43507-buzz-junior-dino-den.json) |
+| Buzz! Junior: Jungle Party | 21524 | [21524-buzz-junior-jungle-party.json](./21524-buzz-junior-jungle-party.json) |
 | Buzz! Junior: Monster Rumble | 43506 | [43506-buzz-junior-monster-rumble.json](./43506-buzz-junior-monster-rumble.json) |
 | Buzz! Junior: Robo Jam | 44710 | [44710-buzz-junior-robo-jam.json](./44710-buzz-junior-robo-jam.json) |
 | Buzz! Quiz TV Bundle | 43045 | [43045-buzz-quiz-tv-bundle.json](./43045-buzz-quiz-tv-bundle.json) |
