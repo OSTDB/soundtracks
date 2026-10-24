@@ -3236,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick Bounty: The Goat in the Grey Fedora - Remastered | 212968 | [212968-nick-bounty-the-goat-in-the-grey-fedora-remastered.json](./212968-nick-bounty-the-goat-in-the-grey-fedora-remastered.json) |
 | Nick Brawl Community Edition | 325669 | [325669-nick-brawl-community-edition.json](./325669-nick-brawl-community-edition.json) |
 | Nick Carter: Il Mistero del Tesoro Degli Incaz! | 77186 | [77186-nick-carter-il-mistero-del-tesoro-degli-incaz.json](./77186-nick-carter-il-mistero-del-tesoro-degli-incaz.json) |
+| Nick Chase a Detective Story | 18896 | [18896-nick-chase-a-detective-story.json](./18896-nick-chase-a-detective-story.json) |
 | Nick Extreme Sports | 203154 | [203154-nick-extreme-sports.json](./203154-nick-extreme-sports.json) |
 | Nick Faldo Championship Golf | 295038 | [295038-nick-faldo-championship-golf.json](./295038-nick-faldo-championship-golf.json) |
 | Nick Faldo's Championship Golf | 15872 | [15872-nick-faldos-championship-golf.json](./15872-nick-faldos-championship-golf.json) |
@@ -5366,6 +5367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noragami Aragoto | 174843 | [174843-noragami-aragoto.json](./174843-noragami-aragoto.json) |
 | Norah's Song | 298655 | [298655-norahs-song.json](./298655-norahs-song.json) |
 | Norco | 129097 | [129097-norco.json](./129097-norco.json) |
+| Nord | 18949 | [18949-nord.json](./18949-nord.json) |
 | Nordenfelt | 33883 | [33883-nordenfelt.json](./33883-nordenfelt.json) |
 | Nordhold | 308349 | [308349-nordhold.json](./308349-nordhold.json) |
 | Nordic Adventure Bundle | 277720 | [277720-nordic-adventure-bundle.json](./277720-nordic-adventure-bundle.json) |
