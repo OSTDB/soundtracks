@@ -4541,6 +4541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overdriven | 94063 | [94063-overdriven.json](./94063-overdriven.json) |
 | Overdriven Evolution | 207574 | [207574-overdriven-evolution.json](./207574-overdriven-evolution.json) |
 | Overdriven Reloaded | 32259 | [32259-overdriven-reloaded.json](./32259-overdriven-reloaded.json) |
+| Overdriven Reloaded: Special Edition | 53438 | [53438-overdriven-reloaded-special-edition.json](./53438-overdriven-reloaded-special-edition.json) |
 | Overdungeon | 111507 | [111507-overdungeon.json](./111507-overdungeon.json) |
 | Overdungeon - Mr.Almighty (Card Pack) | 208372 | [208372-overdungeon-mr-almighty-card-pack.json](./208372-overdungeon-mr-almighty-card-pack.json) |
 | Overduty VR: Battle Royale | 81943 | [81943-overduty-vr-battle-royale.json](./81943-overduty-vr-battle-royale.json) |
