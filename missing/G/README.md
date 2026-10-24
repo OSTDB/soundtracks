@@ -5411,6 +5411,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomoku Let's Go | 173252 | [173252-gomoku-lets-go.json](./173252-gomoku-lets-go.json) |
 | Gomoku Notation | 102703 | [102703-gomoku-notation.json](./102703-gomoku-notation.json) |
 | Gomoku: Online Game Hall | 88204 | [88204-gomoku-online-game-hall.json](./88204-gomoku-online-game-hall.json) |
+| Gomola Speed | 38093 | [38093-gomola-speed.json](./38093-gomola-speed.json) |
+| Gomola Speed | 38094 | [38094-gomola-speed.json](./38094-gomola-speed.json) |
 | Gomorrah | 238351 | [238351-gomorrah.json](./238351-gomorrah.json) |
 | Gomorrah | 273546 | [273546-gomorrah.json](./273546-gomorrah.json) |
 | Gomu | 188432 | [188432-gomu.json](./188432-gomu.json) |
