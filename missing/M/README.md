@@ -5634,6 +5634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medabots Survivors | 392818 | [392818-medabots-survivors.json](./392818-medabots-survivors.json) |
 | Medabots: Metabee | 7583 | [7583-medabots-metabee.json](./7583-medabots-metabee.json) |
 | Medabots: Robattle 3D | 59828 | [59828-medabots-robattle-3d.json](./59828-medabots-robattle-3d.json) |
+| Medabots: Rokusho | 49235 | [49235-medabots-rokusho.json](./49235-medabots-rokusho.json) |
 | Medal Bound | 245327 | [245327-medal-bound.json](./245327-medal-bound.json) |
 | Medal Masters | 110299 | [110299-medal-masters.json](./110299-medal-masters.json) |
 | Medal Network Rockman.EXE | 313751 | [313751-medal-network-rockman-exe.json](./313751-medal-network-rockman-exe.json) |
@@ -6315,6 +6316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Ultra | 45190 | [45190-mega-man-ultra.json](./45190-mega-man-ultra.json) |
 | Mega Man Ultra Challenge | 214946 | [214946-mega-man-ultra-challenge.json](./214946-mega-man-ultra-challenge.json) |
 | Mega Man Universe | 86658 | [86658-mega-man-universe.json](./86658-mega-man-universe.json) |
+| Mega Man Unlimited | 50825 | [50825-mega-man-unlimited.json](./50825-mega-man-unlimited.json) |
 | Mega Man Uprising | 215155 | [215155-mega-man-uprising.json](./215155-mega-man-uprising.json) |
 | Mega Man V SNES | 377762 | [377762-mega-man-v-snes.json](./377762-mega-man-v-snes.json) |
 | Mega Man VI SNES | 377751 | [377751-mega-man-vi-snes.json](./377751-mega-man-vi-snes.json) |
@@ -8069,6 +8071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamorbob | 177760 | [177760-metamorbob.json](./177760-metamorbob.json) |
 | Metamorph | 345519 | [345519-metamorph.json](./345519-metamorph.json) |
 | Metamorph | 368137 | [368137-metamorph.json](./368137-metamorph.json) |
+| Metamorphabet | 26400 | [26400-metamorphabet.json](./26400-metamorphabet.json) |
 | Metamorphic | 27474 | [27474-metamorphic.json](./27474-metamorphic.json) |
 | Metamorphic Force | 39385 | [39385-metamorphic-force.json](./39385-metamorphic-force.json) |
 | MetaMorphic Rippers | 223165 | [223165-metamorphic-rippers.json](./223165-metamorphic-rippers.json) |
@@ -14993,6 +14996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Driller | 254519 | [254519-mr-driller.json](./254519-mr-driller.json) |
 | Mr. Driller | 345468 | [345468-mr-driller.json](./345468-mr-driller.json) |
 | Mr. Driller | 370220 | [370220-mr-driller.json](./370220-mr-driller.json) |
+| Mr. Driller 2 | 49260 | [49260-mr-driller-2.json](./49260-mr-driller-2.json) |
 | Mr. Driller A: Fushigi na Pacteria | 92644 | [92644-mr-driller-a-fushigi-na-pacteria.json](./92644-mr-driller-a-fushigi-na-pacteria.json) |
 | Mr. Driller Online | 21356 | [21356-mr-driller-online.json](./21356-mr-driller-online.json) |
 | Mr. Driller W | 50991 | [50991-mr-driller-w.json](./50991-mr-driller-w.json) |
@@ -17327,6 +17331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myself;Yourself: Sorezore no Finale | 325278 | [325278-myself-yourself-sorezore-no-finale.json](./325278-myself-yourself-sorezore-no-finale.json) |
 | MySims | 201339 | [201339-mysims.json](./201339-mysims.json) |
 | MySims | 2689 | [2689-mysims.json](./2689-mysims.json) |
+| MySims | 50787 | [50787-mysims.json](./50787-mysims.json) |
 | MySims Agents | 5035 | [5035-mysims-agents.json](./5035-mysims-agents.json) |
 | MySims Camera | 67631 | [67631-mysims-camera.json](./67631-mysims-camera.json) |
 | MySims Collection | 51057 | [51057-mysims-collection.json](./51057-mysims-collection.json) |
