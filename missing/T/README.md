@@ -3164,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten Days | 120145 | [120145-ten-days.json](./120145-ten-days.json) |
 | Ten Days to War | 122161 | [122161-ten-days-to-war.json](./122161-ten-days-to-war.json) |
 | Ten Deadly Games | 378271 | [378271-ten-deadly-games.json](./378271-ten-deadly-games.json) |
+| Ten Little Indians | 24695 | [24695-ten-little-indians.json](./24695-ten-little-indians.json) |
 | Ten made Jack: Odoroki Mamenoki Daitoubou!! | 198364 | [198364-ten-made-jack-odoroki-mamenoki-daitoubou.json](./198364-ten-made-jack-odoroki-mamenoki-daitoubou.json) |
 | Ten ni Takaku Chi ni Fukaku | 191713 | [191713-ten-ni-takaku-chi-ni-fukaku.json](./191713-ten-ni-takaku-chi-ni-fukaku.json) |
 | Ten of the Best Games | 134448 | [134448-ten-of-the-best-games.json](./134448-ten-of-the-best-games.json) |
@@ -7071,6 +7072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elevator Game | 176256 | [176256-the-elevator-game.json](./176256-the-elevator-game.json) |
 | The Elevator Game with Catgirls | 188990 | [188990-the-elevator-game-with-catgirls.json](./188990-the-elevator-game-with-catgirls.json) |
 | The Elf Maiden | 201489 | [201489-the-elf-maiden.json](./201489-the-elf-maiden.json) |
+| The Eliminator | 24704 | [24704-the-eliminator.json](./24704-the-eliminator.json) |
 | The Elision Effect | 273415 | [273415-the-elision-effect.json](./273415-the-elision-effect.json) |
 | The Elm Game | 171868 | [171868-the-elm-game.json](./171868-the-elm-game.json) |
 | The Elven Forest VR | 384633 | [384633-the-elven-forest-vr.json](./384633-the-elven-forest-vr.json) |
@@ -8120,6 +8122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gold of the Aztecs | 12120 | [12120-the-gold-of-the-aztecs.json](./12120-the-gold-of-the-aztecs.json) |
 | The Gold River Project | 151463 | [151463-the-gold-river-project.json](./151463-the-gold-river-project.json) |
 | The Golden Age | 213586 | [213586-the-golden-age.json](./213586-the-golden-age.json) |
+| The Golden Baton | 24687 | [24687-the-golden-baton.json](./24687-the-golden-baton.json) |
 | The Golden Caravan | 399928 | [399928-the-golden-caravan.json](./399928-the-golden-caravan.json) |
 | The Golden Compass | 4892 | [4892-the-golden-compass.json](./4892-the-golden-compass.json) |
 | The Golden Cross | 150752 | [150752-the-golden-cross.json](./150752-the-golden-cross.json) |
@@ -8603,6 +8606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Holy Chalice | 190402 | [190402-the-holy-chalice.json](./190402-the-holy-chalice.json) |
 | The Holy Chalice | 194890 | [194890-the-holy-chalice.json](./194890-the-holy-chalice.json) |
 | The Holy Gosh Darn | 240644 | [240644-the-holy-gosh-darn.json](./240644-the-holy-gosh-darn.json) |
+| The Holy Grail | 24677 | [24677-the-holy-grail.json](./24677-the-holy-grail.json) |
 | The Holy Orange | 167513 | [167513-the-holy-orange.json](./167513-the-holy-orange.json) |
 | The Holy Silence | 169746 | [169746-the-holy-silence.json](./169746-the-holy-silence.json) |
 | The Holyburn Witches | 273783 | [273783-the-holyburn-witches.json](./273783-the-holyburn-witches.json) |
@@ -10394,6 +10398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Light of Celestia | 335268 | [335268-the-light-of-celestia.json](./335268-the-light-of-celestia.json) |
 | The Light Of Our Yearning | 382968 | [382968-the-light-of-our-yearning.json](./382968-the-light-of-our-yearning.json) |
 | The Light of the Darkness: Origins | 274568 | [274568-the-light-of-the-darkness-origins.json](./274568-the-light-of-the-darkness-origins.json) |
+| The Light of the Darkness: Renascence | 24706 | [24706-the-light-of-the-darkness-renascence.json](./24706-the-light-of-the-darkness-renascence.json) |
 | The Light Remake | 123791 | [123791-the-light-remake.json](./123791-the-light-remake.json) |
 | The Light Will Lead You Home | 165375 | [165375-the-light-will-lead-you-home.json](./165375-the-light-will-lead-you-home.json) |
 | The Light: Remastered Edition | 394806 | [394806-the-light-remastered-edition.json](./394806-the-light-remastered-edition.json) |
@@ -11382,6 +11387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -13646,6 +13652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sovereign's Board | 416031 | [416031-the-sovereigns-board.json](./416031-the-sovereigns-board.json) |
 | The Space Adventure | 71472 | [71472-the-space-adventure.json](./71472-the-space-adventure.json) |
 | The Space Ark | 78614 | [78614-the-space-ark.json](./78614-the-space-ark.json) |
+| The Space Bar | 24659 | [24659-the-space-bar.json](./24659-the-space-bar.json) |
 | The Space Between | 122765 | [122765-the-space-between.json](./122765-the-space-between.json) |
 | The Space Between | 378418 | [378418-the-space-between.json](./378418-the-space-between.json) |
 | The Space Between Stars | 364379 | [364379-the-space-between-stars.json](./364379-the-space-between-stars.json) |
@@ -14239,6 +14246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tiger T | 210668 | [210668-the-tiger-t.json](./210668-the-tiger-t.json) |
 | The Time Game | 310054 | [310054-the-time-game.json](./310054-the-time-game.json) |
 | The Time Has Come | 177873 | [177873-the-time-has-come.json](./177873-the-time-has-come.json) |
+| The Time Machine | 24689 | [24689-the-time-machine.json](./24689-the-time-machine.json) |
 | The Time Machine | 278354 | [278354-the-time-machine.json](./278354-the-time-machine.json) |
 | The Time Machine: Trapped in Time | 93704 | [93704-the-time-machine-trapped-in-time.json](./93704-the-time-machine-trapped-in-time.json) |
 | The Time of Awakening | 115138 | [115138-the-time-of-awakening.json](./115138-the-time-of-awakening.json) |
@@ -15341,6 +15349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizard Game | 149092 | [149092-the-wizard-game.json](./149092-the-wizard-game.json) |
 | The Wizard Gnome Quest | 322823 | [322823-the-wizard-gnome-quest.json](./322823-the-wizard-gnome-quest.json) |
 | The Wizard Needs Food, Badly! | 330717 | [330717-the-wizard-needs-food-badly.json](./330717-the-wizard-needs-food-badly.json) |
+| The Wizard of Akyrz | 24697 | [24697-the-wizard-of-akyrz.json](./24697-the-wizard-of-akyrz.json) |
 | The Wizard of Bug | 345980 | [345980-the-wizard-of-bug.json](./345980-the-wizard-of-bug.json) |
 | The Wizard of Gloss | 400537 | [400537-the-wizard-of-gloss.json](./400537-the-wizard-of-gloss.json) |
 | The Wizard of Id's Wiz Math | 40903 | [40903-the-wizard-of-ids-wiz-math.json](./40903-the-wizard-of-ids-wiz-math.json) |
@@ -19139,6 +19148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan A.E. | 67820 | [67820-titan-a-e.json](./67820-titan-a-e.json) |
 | Titan Attack: Wall Defense FPS | 175716 | [175716-titan-attack-wall-defense-fps.json](./175716-titan-attack-wall-defense-fps.json) |
 | Titan Attacks! | 11460 | [11460-titan-attacks.json](./11460-titan-attacks.json) |
+| Titan Empire | 24657 | [24657-titan-empire.json](./24657-titan-empire.json) |
 | Titan Empires | 323314 | [323314-titan-empires.json](./323314-titan-empires.json) |
 | Titan Force | 289944 | [289944-titan-force.json](./289944-titan-force.json) |
 | Titan Fury | 317053 | [317053-titan-fury.json](./317053-titan-fury.json) |
@@ -22069,6 +22079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxoplasma | 385339 | [385339-toxoplasma.json](./385339-toxoplasma.json) |
 | Toxtli & The Moon Jar | 349834 | [349834-toxtli-and-the-moon-jar.json](./349834-toxtli-and-the-moon-jar.json) |
 | Toy Attack | 96915 | [96915-toy-attack.json](./96915-toy-attack.json) |
+| Toy Bizarre | 24685 | [24685-toy-bizarre.json](./24685-toy-bizarre.json) |
 | Toy Blast | 54986 | [54986-toy-blast.json](./54986-toy-blast.json) |
 | Toy Bot Diaries | 69260 | [69260-toy-bot-diaries.json](./69260-toy-bot-diaries.json) |
 | Toy Bot Diaries 2 | 79909 | [79909-toy-bot-diaries-2.json](./79909-toy-bot-diaries-2.json) |
@@ -26200,6 +26211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turkey Hunter Deluxe | 57331 | [57331-turkey-hunter-deluxe.json](./57331-turkey-hunter-deluxe.json) |
 | Turkey Hunting USA | 331746 | [331746-turkey-hunting-usa.json](./331746-turkey-hunting-usa.json) |
 | Turkey Runner | 404422 | [404422-turkey-runner.json](./404422-turkey-runner.json) |
+| Turkey Shoot | 24649 | [24649-turkey-shoot.json](./24649-turkey-shoot.json) |
 | Turkey Stuffin' | 62690 | [62690-turkey-stuffin.json](./62690-turkey-stuffin.json) |
 | Turkey, Please! | 130582 | [130582-turkey-please.json](./130582-turkey-please.json) |
 | Turkmenchay | 362858 | [362858-turkmenchay.json](./362858-turkmenchay.json) |
