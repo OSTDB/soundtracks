@@ -18403,6 +18403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro: A Hero's Tail | 1580 | [1580-spyro-a-heros-tail.json](./1580-spyro-a-heros-tail.json) |
 | Spyro: A Realm Beyond | 405090 | [405090-spyro-a-realm-beyond.json](./405090-spyro-a-realm-beyond.json) |
 | Spyro: Attack of the Rhynocs | 1589 | [1589-spyro-attack-of-the-rhynocs.json](./1589-spyro-attack-of-the-rhynocs.json) |
+| Spyro: Collector's Edition | 43686 | [43686-spyro-collectors-edition.json](./43686-spyro-collectors-edition.json) |
 | Spyro: Season of Ice | 1587 | [1587-spyro-season-of-ice.json](./1587-spyro-season-of-ice.json) |
 | Spyro: Shadow Legacy | 1581 | [1581-spyro-shadow-legacy.json](./1581-spyro-shadow-legacy.json) |
 | Spyro: Year of the Dragon | 142243 | [142243-spyro-year-of-the-dragon.json](./142243-spyro-year-of-the-dragon.json) |
