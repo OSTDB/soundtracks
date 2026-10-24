@@ -5502,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northern Blade | 145643 | [145643-northern-blade.json](./145643-northern-blade.json) |
 | Northern Blades | 148472 | [148472-northern-blades.json](./148472-northern-blades.json) |
 | Northern Guilds | 193338 | [193338-northern-guilds.json](./193338-northern-guilds.json) |
+| Northern Journey | 165179 | [165179-northern-journey.json](./165179-northern-journey.json) |
 | Northern Kingdoms | 216969 | [216969-northern-kingdoms.json](./216969-northern-kingdoms.json) |
 | Northern Lights | 345534 | [345534-northern-lights.json](./345534-northern-lights.json) |
 | Northern Lights | 345535 | [345535-northern-lights.json](./345535-northern-lights.json) |
