@@ -1372,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Moon Deities | 339366 | [339366-dark-moon-deities.json](./339366-dark-moon-deities.json) |
 | Dark Moon Motel | 219650 | [219650-dark-moon-motel.json](./219650-dark-moon-motel.json) |
 | Dark Mountain II | 268626 | [268626-dark-mountain-ii.json](./268626-dark-mountain-ii.json) |
+| Dark Mysteries: The Soul Keeper - Collector's Edition | 88202 | [88202-dark-mysteries-the-soul-keeper-collectors-edition.json](./88202-dark-mysteries-the-soul-keeper-collectors-edition.json) |
 | Dark Mystery | 44252 | [44252-dark-mystery.json](./44252-dark-mystery.json) |
 | Dark Mystery Bundle | 397884 | [397884-dark-mystery-bundle.json](./397884-dark-mystery-bundle.json) |
 | Dark Mystery: Remastered | 233611 | [233611-dark-mystery-remastered.json](./233611-dark-mystery-remastered.json) |
@@ -7578,6 +7579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ding Dong Die | 321225 | [321225-ding-dong-die.json](./321225-ding-dong-die.json) |
 | Ding Dong Pitch | 379555 | [379555-ding-dong-pitch.json](./379555-ding-dong-pitch.json) |
 | Ding Dong VR | 105174 | [105174-ding-dong-vr.json](./105174-ding-dong-vr.json) |
+| Ding Dong XL | 101633 | [101633-ding-dong-xl.json](./101633-ding-dong-xl.json) |
 | Ding! MONO | 270634 | [270634-ding-mono.json](./270634-ding-mono.json) |
 | Ding. | 183932 | [183932-ding.json](./183932-ding.json) |
 | Dingbats | 391092 | [391092-dingbats.json](./391092-dingbats.json) |
@@ -7724,6 +7726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Trumps | 112075 | [112075-dino-trumps.json](./112075-dino-trumps.json) |
 | Dino V. Xeno | 238382 | [238382-dino-v-xeno.json](./238382-dino-v-xeno.json) |
 | Dino VR : Jurassic World | 108212 | [108212-dino-vr-jurassic-world.json](./108212-dino-vr-jurassic-world.json) |
+| Dino War | 100811 | [100811-dino-war.json](./100811-dino-war.json) |
 | Dino Wars | 23918 | [23918-dino-wars.json](./23918-dino-wars.json) |
 | Dino-D | 199479 | [199479-dino-d.json](./199479-dino-d.json) |
 | Dino-Sorcerer | 74072 | [74072-dino-sorcerer.json](./74072-dino-sorcerer.json) |
@@ -7783,6 +7786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Cousin Squad | 338286 | [338286-dinosaur-cousin-squad.json](./338286-dinosaur-cousin-squad.json) |
 | Dinosaur Dig | 181552 | [181552-dinosaur-dig.json](./181552-dinosaur-dig.json) |
 | Dinosaur Discovery | 109172 | [109172-dinosaur-discovery.json](./109172-dinosaur-discovery.json) |
+| Dinosaur Fossil Hunter | 102176 | [102176-dinosaur-fossil-hunter.json](./102176-dinosaur-fossil-hunter.json) |
 | Dinosaur Fossil Puzzles | 163168 | [163168-dinosaur-fossil-puzzles.json](./163168-dinosaur-fossil-puzzles.json) |
 | Dinosaur Games Simulator 2018 | 105967 | [105967-dinosaur-games-simulator-2018.json](./105967-dinosaur-games-simulator-2018.json) |
 | Dinosaur Hunt | 34491 | [34491-dinosaur-hunt.json](./34491-dinosaur-hunt.json) |
@@ -9382,6 +9386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog School: Lovely Puppy | 222179 | [222179-dog-school-lovely-puppy.json](./222179-dog-school-lovely-puppy.json) |
 | Dog Show Friends | 62043 | [62043-dog-show-friends.json](./62043-dog-show-friends.json) |
 | Dog Sim Online: Build A Family | 88031 | [88031-dog-sim-online-build-a-family.json](./88031-dog-sim-online-build-a-family.json) |
+| Dog Simulator 2015 | 88158 | [88158-dog-simulator-2015.json](./88158-dog-simulator-2015.json) |
 | Dog Simulator: Dog Life Games | 296771 | [296771-dog-simulator-dog-life-games.json](./296771-dog-simulator-dog-life-games.json) |
 | Dog Sled Saga | 17163 | [17163-dog-sled-saga.json](./17163-dog-sled-saga.json) |
 | Dog Spotting Challenge! | 336420 | [336420-dog-spotting-challenge.json](./336420-dog-spotting-challenge.json) |
@@ -13590,6 +13595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drivionline | 401856 | [401856-drivionline.json](./401856-drivionline.json) |
 | Drivrooom | 144249 | [144249-drivrooom.json](./144249-drivrooom.json) |
 | Drizzlepath | 12265 | [12265-drizzlepath.json](./12265-drizzlepath.json) |
+| Drizzlepath: Deja Vu | 101399 | [101399-drizzlepath-deja-vu.json](./101399-drizzlepath-deja-vu.json) |
 | Drizzlepath: Glass | 29733 | [29733-drizzlepath-glass.json](./29733-drizzlepath-glass.json) |
 | Drizzlepath: Picturae | 327273 | [327273-drizzlepath-picturae.json](./327273-drizzlepath-picturae.json) |
 | DRL | 79379 | [79379-drl.json](./79379-drl.json) |
