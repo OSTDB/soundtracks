@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am a Teacher: Teami no Kiso | 41374 | [41374-i-am-a-teacher-teami-no-kiso.json](./41374-i-am-a-teacher-teami-no-kiso.json) |
 | I Am a Worm | 323341 | [323341-i-am-a-worm.json](./323341-i-am-a-worm.json) |
 | I am alive | 194323 | [194323-i-am-alive.json](./194323-i-am-alive.json) |
+| I Am Alive | 507 | [507-i-am-alive.json](./507-i-am-alive.json) |
 | I Am Alone Too | 179116 | [179116-i-am-alone-too.json](./179116-i-am-alone-too.json) |
 | I am an Air Traffic Controller 4 | 166065 | [166065-i-am-an-air-traffic-controller-4.json](./166065-i-am-an-air-traffic-controller-4.json) |
 | I am an Air Traffic Controller 4: Airport Naha - Roah | 166066 | [166066-i-am-an-air-traffic-controller-4-airport-naha-roah.json](./166066-i-am-an-air-traffic-controller-4-airport-naha-roah.json) |
