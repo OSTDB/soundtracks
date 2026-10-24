@@ -4313,6 +4313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku 2 | 46785 | [46785-sengoku-2.json](./46785-sengoku-2.json) |
 | Sengoku 3 | 46784 | [46784-sengoku-3.json](./46784-sengoku-3.json) |
 | Sengoku A Live | 385253 | [385253-sengoku-a-live.json](./385253-sengoku-a-live.json) |
+| Sengoku Ace | 40017 | [40017-sengoku-ace.json](./40017-sengoku-ace.json) |
 | Sengoku Anthology | 43460 | [43460-sengoku-anthology.json](./43460-sengoku-anthology.json) |
 | Sengoku Asuka Zero | 104532 | [104532-sengoku-asuka-zero.json](./104532-sengoku-asuka-zero.json) |
 | Sengoku Basara 2 | 5150 | [5150-sengoku-basara-2.json](./5150-sengoku-basara-2.json) |
@@ -4377,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senjin Aleste | 165428 | [165428-senjin-aleste.json](./165428-senjin-aleste.json) |
 | Senjo no Valkyria Duel | 77367 | [77367-senjo-no-valkyria-duel.json](./77367-senjo-no-valkyria-duel.json) |
 | Senjou no Waltz for Nintendo Switch: Limited Edition | 253740 | [253740-senjou-no-waltz-for-nintendo-switch-limited-edition.json](./253740-senjou-no-waltz-for-nintendo-switch-limited-edition.json) |
+| Senjyo | 40018 | [40018-senjyo.json](./40018-senjyo.json) |
 | Senkai Livin' | 392345 | [392345-senkai-livin.json](./392345-senkai-livin.json) |
 | Senkaiden Ni: TV Animation Senkaiden Houshin Engi Yori | 37313 | [37313-senkaiden-ni-tv-animation-senkaiden-houshin-engi-yori.json](./37313-senkaiden-ni-tv-animation-senkaiden-houshin-engi-yori.json) |
 | Senko no Ronde 2 | 29137 | [29137-senko-no-ronde-2.json](./29137-senko-no-ronde-2.json) |
@@ -9026,6 +9028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinbad - In Search of Magic Ginger | 54359 | [54359-sinbad-in-search-of-magic-ginger.json](./54359-sinbad-in-search-of-magic-ginger.json) |
 | Sinbad & the Golden Ship | 71509 | [71509-sinbad-and-the-golden-ship.json](./71509-sinbad-and-the-golden-ship.json) |
 | Sinbad and the Throne of the Falcon | 8668 | [8668-sinbad-and-the-throne-of-the-falcon.json](./8668-sinbad-and-the-throne-of-the-falcon.json) |
+| Sinbad Mystery | 40019 | [40019-sinbad-mystery.json](./40019-sinbad-mystery.json) |
 | Sinbad: Legend of the Seven Seas | 27605 | [27605-sinbad-legend-of-the-seven-seas.json](./27605-sinbad-legend-of-the-seven-seas.json) |
 | Since 1935 | 367962 | [367962-since-1935.json](./367962-since-1935.json) |
 | Since November | 327853 | [327853-since-november.json](./327853-since-november.json) |
@@ -24341,6 +24344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Baby | 97678 | [97678-super-baby.json](./97678-super-baby.json) |
 | Super Bad Hero | 296504 | [296504-super-bad-hero.json](./296504-super-bad-hero.json) |
 | Super Bafo Championship | 306784 | [306784-super-bafo-championship.json](./306784-super-bafo-championship.json) |
+| Super Bagman | 40003 | [40003-super-bagman.json](./40003-super-bagman.json) |
 | Super Baldy Kart | 268355 | [268355-super-baldy-kart.json](./268355-super-baldy-kart.json) |
 | Super Ball Arena | 215707 | [215707-super-ball-arena.json](./215707-super-ball-arena.json) |
 | Super Ball Juggling | 233540 | [233540-super-ball-juggling.json](./233540-super-ball-juggling.json) |
