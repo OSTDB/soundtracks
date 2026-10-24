@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Bloodlines 2 Unsanctioned Edition | 117152 | [117152-vampire-the-masquerade-bloodlines-2-unsanctioned-edition.json](./117152-vampire-the-masquerade-bloodlines-2-unsanctioned-edition.json) |
 | Vampire: The Masquerade - Bloodlines 2: Deluxe Edition | 370896 | [370896-vampire-the-masquerade-bloodlines-2-deluxe-edition.json](./370896-vampire-the-masquerade-bloodlines-2-deluxe-edition.json) |
 | Vampire: The Masquerade - Bloodlines 2: Premium Edition | 370897 | [370897-vampire-the-masquerade-bloodlines-2-premium-edition.json](./370897-vampire-the-masquerade-bloodlines-2-premium-edition.json) |
+| Vampire: The Masquerade - Coteries of New York | 119225 | [119225-vampire-the-masquerade-coteries-of-new-york.json](./119225-vampire-the-masquerade-coteries-of-new-york.json) |
 | Vampire: The Masquerade - Coteries of New York & Shadows of New York | 146128 | [146128-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york.json](./146128-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york.json) |
 | Vampire: The Masquerade - Coteries of New York Deluxe Edition | 154227 | [154227-vampire-the-masquerade-coteries-of-new-york-deluxe-edition.json](./154227-vampire-the-masquerade-coteries-of-new-york-deluxe-edition.json) |
 | Vampire: The Masquerade - Heartless Lullaby | 197222 | [197222-vampire-the-masquerade-heartless-lullaby.json](./197222-vampire-the-masquerade-heartless-lullaby.json) |
