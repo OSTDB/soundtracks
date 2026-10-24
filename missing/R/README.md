@@ -1443,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranch Battle | 283053 | [283053-ranch-battle.json](./283053-ranch-battle.json) |
 | Ranch Mayhem | 298049 | [298049-ranch-mayhem.json](./298049-ranch-mayhem.json) |
 | Ranch Planet | 104270 | [104270-ranch-planet.json](./104270-ranch-planet.json) |
+| Ranch Simulator | 121087 | [121087-ranch-simulator.json](./121087-ranch-simulator.json) |
 | Ranch Store Simulator | 333012 | [333012-ranch-store-simulator.json](./333012-ranch-store-simulator.json) |
 | Rancid | 124234 | [124234-rancid.json](./124234-rancid.json) |
 | Rand McNally's America: U.S. Atlas | 46429 | [46429-rand-mcnallys-america-u-s-atlas.json](./46429-rand-mcnallys-america-u-s-atlas.json) |
@@ -4921,6 +4922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro World | 3229 | [3229-retro-world.json](./3229-retro-world.json) |
 | Retro-Bit Generations | 275244 | [275244-retro-bit-generations.json](./275244-retro-bit-generations.json) |
 | Retro-Pixel Castles | 17933 | [17933-retro-pixel-castles.json](./17933-retro-pixel-castles.json) |
+| Retro/Grade | 16431 | [16431-retro-grade.json](./16431-retro-grade.json) |
 | Retro/Grade + Soundtrack | 121420 | [121420-retro-grade-soundtrack.json](./121420-retro-grade-soundtrack.json) |
 | Retro64 | 198234 | [198234-retro64.json](./198234-retro64.json) |
 | RetroBlazer | 322198 | [322198-retroblazer.json](./322198-retroblazer.json) |
