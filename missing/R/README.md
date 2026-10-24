@@ -1968,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Gold | 61096 | [61096-rayman-gold.json](./61096-rayman-gold.json) |
 | Rayman Golf | 61094 | [61094-rayman-golf.json](./61094-rayman-golf.json) |
 | Rayman IV | 312033 | [312033-rayman-iv.json](./312033-rayman-iv.json) |
+| Rayman Jungle Run | 14533 | [14533-rayman-jungle-run.json](./14533-rayman-jungle-run.json) |
 | Rayman Kart | 61091 | [61091-rayman-kart.json](./61091-rayman-kart.json) |
 | Rayman Legends | 193359 | [193359-rayman-legends.json](./193359-rayman-legends.json) |
 | Rayman Legends Beatbox | 61350 | [61350-rayman-legends-beatbox.json](./61350-rayman-legends-beatbox.json) |
@@ -4258,6 +4259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Republic of Pirates | 278603 | [278603-republic-of-pirates.json](./278603-republic-of-pirates.json) |
 | Republic: The Revolution | 10236 | [10236-republic-the-revolution.json](./10236-republic-the-revolution.json) |
 | Republican Bayonets on the Rhine | 144826 | [144826-republican-bayonets-on-the-rhine.json](./144826-republican-bayonets-on-the-rhine.json) |
+| Republique Remastered | 9917 | [9917-republique-remastered.json](./9917-republique-remastered.json) |
 | République VR | 159154 | [159154-republique-vr.json](./159154-republique-vr.json) |
 | Republique: Anniversary Edition | 152324 | [152324-republique-anniversary-edition.json](./152324-republique-anniversary-edition.json) |
 | République: Deluxe Edition | 51875 | [51875-republique-deluxe-edition.json](./51875-republique-deluxe-edition.json) |
