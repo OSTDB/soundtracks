@@ -1382,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario's Woods | 1711 | [1711-warios-woods.json](./1711-warios-woods.json) |
 | Wario's Woods | 190013 | [190013-warios-woods.json](./190013-warios-woods.json) |
 | WarioWare D.I.Y. | 1708 | [1708-warioware-d-i-y.json](./1708-warioware-d-i-y.json) |
+| WarioWare Gold | 90108 | [90108-warioware-gold.json](./90108-warioware-gold.json) |
 | WarioWare Mouse Workz! | 250046 | [250046-warioware-mouse-workz.json](./250046-warioware-mouse-workz.json) |
 | WarioWare, Inc.: Mega Microgame$! | 1703 | [1703-warioware-inc-mega-microgame.json](./1703-warioware-inc-mega-microgame.json) |
 | WarioWare, Inc.: Mega Microgame$! | 341060 | [341060-warioware-inc-mega-microgame.json](./341060-warioware-inc-mega-microgame.json) |
