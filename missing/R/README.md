@@ -4148,6 +4148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rent-A-Hero | 6001 | [6001-rent-a-hero.json](./6001-rent-a-hero.json) |
 | Rent-A-Hero No. 1 | 6002 | [6002-rent-a-hero-no-1.json](./6002-rent-a-hero-no-1.json) |
 | Rent-a-Vice | 100579 | [100579-rent-a-vice.json](./100579-rent-a-vice.json) |
+| Rental | 225523 | [225523-rental.json](./225523-rental.json) |
 | Rental Commander | 292955 | [292955-rental-commander.json](./292955-rental-commander.json) |
 | Rental House | 313336 | [313336-rental-house.json](./313336-rental-house.json) |
 | Rental-ya: Stage-gata Nazotoki Story | 212445 | [212445-rental-ya-stage-gata-nazotoki-story.json](./212445-rental-ya-stage-gata-nazotoki-story.json) |
@@ -6931,6 +6932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadtrip: The Engine of Madness | 366601 | [366601-roadtrip-the-engine-of-madness.json](./366601-roadtrip-the-engine-of-madness.json) |
 | Roadwar 2000 | 12746 | [12746-roadwar-2000.json](./12746-roadwar-2000.json) |
 | Roadwar Europa | 12747 | [12747-roadwar-europa.json](./12747-roadwar-europa.json) |
+| Roadwarden | 118875 | [118875-roadwarden.json](./118875-roadwarden.json) |
 | Roadwars | 12843 | [12843-roadwars.json](./12843-roadwars.json) |
 | Roadwars | 95398 | [95398-roadwars.json](./95398-roadwars.json) |
 | Roadway Traffic Racer | 292327 | [292327-roadway-traffic-racer.json](./292327-roadway-traffic-racer.json) |
@@ -8206,6 +8208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RogueAlongWay | 106419 | [106419-roguealongway.json](./106419-roguealongway.json) |
 | Rogueball Recess | 352147 | [352147-rogueball-recess.json](./352147-rogueball-recess.json) |
 | Rogueblock | 382770 | [382770-rogueblock.json](./382770-rogueblock.json) |
+| Roguebook | 119249 | [119249-roguebook.json](./119249-roguebook.json) |
 | Roguebook: Deluxe Edition | 192301 | [192301-roguebook-deluxe-edition.json](./192301-roguebook-deluxe-edition.json) |
 | Roguebook: Fugoro - Merchant of Wonders | 199854 | [199854-roguebook-fugoro-merchant-of-wonders.json](./199854-roguebook-fugoro-merchant-of-wonders.json) |
 | Rogueborne Fury | 293629 | [293629-rogueborne-fury.json](./293629-rogueborne-fury.json) |
