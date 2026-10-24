@@ -11852,6 +11852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modice | 421198 | [421198-modice.json](./421198-modice.json) |
 | Modified Spaceship | 301605 | [301605-modified-spaceship.json](./301605-modified-spaceship.json) |
 | ModNation Racers | 4841 | [4841-modnation-racers.json](./4841-modnation-racers.json) |
+| ModNation Racers: Road Trip | 22882 | [22882-modnation-racers-road-trip.json](./22882-modnation-racers-road-trip.json) |
 | Modo Defence | 238451 | [238451-modo-defence.json](./238451-modo-defence.json) |
 | Modsork | 101528 | [101528-modsork.json](./101528-modsork.json) |
 | Modular | 348442 | [348442-modular.json](./348442-modular.json) |
