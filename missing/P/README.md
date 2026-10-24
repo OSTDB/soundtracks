@@ -4401,6 +4401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phasmos | 419122 | [419122-phasmos.json](./419122-phasmos.json) |
 | Phat Phrog | 30892 | [30892-phat-phrog.json](./30892-phat-phrog.json) |
 | Phat Phrog Clicker | 314308 | [314308-phat-phrog-clicker.json](./314308-phat-phrog-clicker.json) |
+| Phat Stacks | 30506 | [30506-phat-stacks.json](./30506-phat-stacks.json) |
 | PhatPong 05 | 70276 | [70276-phatpong-05.json](./70276-phatpong-05.json) |
 | Phazika | 398520 | [398520-phazika.json](./398520-phazika.json) |
 | Pheasants Forever | 23393 | [23393-pheasants-forever.json](./23393-pheasants-forever.json) |
@@ -5385,6 +5386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pimp My Dungeon | 243959 | [243959-pimp-my-dungeon.json](./243959-pimp-my-dungeon.json) |
 | Pimp My Ride | 5098 | [5098-pimp-my-ride.json](./5098-pimp-my-ride.json) |
 | Pimp My Ride Street Racing | 274184 | [274184-pimp-my-ride-street-racing.json](./274184-pimp-my-ride-street-racing.json) |
+| Pimp Tight | 30550 | [30550-pimp-tight.json](./30550-pimp-tight.json) |
 | Pimp Up Dungeon | 358426 | [358426-pimp-up-dungeon.json](./358426-pimp-up-dungeon.json) |
 | PimpWars | 72318 | [72318-pimpwars.json](./72318-pimpwars.json) |
 | Pimpy Da Pimp | 299555 | [299555-pimpy-da-pimp.json](./299555-pimpy-da-pimp.json) |
@@ -15071,6 +15073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Solitaire Mummy Curse | 61046 | [61046-pyramid-solitaire-mummy-curse.json](./61046-pyramid-solitaire-mummy-curse.json) |
 | Pyramid Solitaire Saga | 89248 | [89248-pyramid-solitaire-saga.json](./89248-pyramid-solitaire-saga.json) |
 | Pyramid Solitaire: Card Game | 90061 | [90061-pyramid-solitaire-card-game.json](./90061-pyramid-solitaire-card-game.json) |
+| Pyramid VR | 30496 | [30496-pyramid-vr.json](./30496-pyramid-vr.json) |
 | Pyramid: Challenge of the Pharaoh's Dream | 266201 | [266201-pyramid-challenge-of-the-pharaohs-dream.json](./266201-pyramid-challenge-of-the-pharaohs-dream.json) |
 | Pyramida | 136491 | [136491-pyramida.json](./136491-pyramida.json) |
 | Pyramidal Break | 134964 | [134964-pyramidal-break.json](./134964-pyramidal-break.json) |
