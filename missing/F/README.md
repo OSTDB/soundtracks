@@ -2444,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Like A Fox | 55973 | [55973-fast-like-a-fox.json](./55973-fast-like-a-fox.json) |
 | Fast or Dead VR | 215568 | [215568-fast-or-dead-vr.json](./215568-fast-or-dead-vr.json) |
 | Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
+| Fast RMX | 26816 | [26816-fast-rmx.json](./26816-fast-rmx.json) |
 | Fast Rolling | 77178 | [77178-fast-rolling.json](./77178-fast-rolling.json) |
 | Fast Running | 311183 | [311183-fast-running.json](./311183-fast-running.json) |
 | Fast Striker 1.5 | 45787 | [45787-fast-striker-1-5.json](./45787-fast-striker-1-5.json) |
@@ -10134,6 +10135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline: War of Echoes | 366560 | [366560-frontline-war-of-echoes.json](./366560-frontline-war-of-echoes.json) |
 | Frontline: World War II | 142192 | [142192-frontline-world-war-ii.json](./142192-frontline-world-war-ii.json) |
 | FrontlineGrunt | 252614 | [252614-frontlinegrunt.json](./252614-frontlinegrunt.json) |
+| Frontlines: Fuel of War | 6997 | [6997-frontlines-fuel-of-war.json](./6997-frontlines-fuel-of-war.json) |
 | Frontrunners | 171518 | [171518-frontrunners.json](./171518-frontrunners.json) |
 | FrontWars | 364859 | [364859-frontwars.json](./364859-frontwars.json) |
 | Froojarspootz! The Cleaning Monster | 387513 | [387513-froojarspootz-the-cleaning-monster.json](./387513-froojarspootz-the-cleaning-monster.json) |
