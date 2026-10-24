@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UAC Ultra | 140469 | [140469-uac-ultra.json](./140469-uac-ultra.json) |
 | Uanamon: Rugly Invasion | 260001 | [260001-uanamon-rugly-invasion.json](./260001-uanamon-rugly-invasion.json) |
 | UAV Wars | 92672 | [92672-uav-wars.json](./92672-uav-wars.json) |
+| Uayeb | 29539 | [29539-uayeb.json](./29539-uayeb.json) |
 | Ubaste | 218474 | [218474-ubaste.json](./218474-ubaste.json) |
 | UBeat | 91921 | [91921-ubeat.json](./91921-ubeat.json) |
 | Ubel | 195142 | [195142-ubel.json](./195142-ubel.json) |
