@@ -2409,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinetype | 398366 | [398366-kinetype.json](./398366-kinetype.json) |
 | KinForge | 377893 | [377893-kinforge.json](./377893-kinforge.json) |
 | King 'n Knight | 153944 | [153944-king-n-knight.json](./153944-king-n-knight.json) |
+| King & Balloon | 21689 | [21689-king-and-balloon.json](./21689-king-and-balloon.json) |
 | King and Assassins | 175230 | [175230-king-and-assassins.json](./175230-king-and-assassins.json) |
 | King and Assassins: The Board Game | 106907 | [106907-king-and-assassins-the-board-game.json](./106907-king-and-assassins-the-board-game.json) |
 | King and Country | 151148 | [151148-king-and-country.json](./151148-king-and-country.json) |
@@ -2666,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Quest V: Absence Makes The Heart Go Yonder! | 322088 | [322088-kings-quest-v-absence-makes-the-heart-go-yonder.json](./322088-kings-quest-v-absence-makes-the-heart-go-yonder.json) |
 | King's Quest VI: Heir Today, Gone Tomorrow | 7501 | [7501-kings-quest-vi-heir-today-gone-tomorrow.json](./7501-kings-quest-vi-heir-today-gone-tomorrow.json) |
 | King's Quest VIII: The Mask of Eternity | 7528 | [7528-kings-quest-viii-the-mask-of-eternity.json](./7528-kings-quest-viii-the-mask-of-eternity.json) |
+| King's Quest: Chapter 2 - A Rubble Without a Cause | 21773 | [21773-kings-quest-chapter-2-a-rubble-without-a-cause.json](./21773-kings-quest-chapter-2-a-rubble-without-a-cause.json) |
 | King's Quest: Chapter 3 - Once Upon A Climb | 28062 | [28062-kings-quest-chapter-3-once-upon-a-climb.json](./28062-kings-quest-chapter-3-once-upon-a-climb.json) |
 | King's Quest: Chapter 4 - Snow Place Like Home | 28064 | [28064-kings-quest-chapter-4-snow-place-like-home.json](./28064-kings-quest-chapter-4-snow-place-like-home.json) |
 | King's Quest: Chapter 5 - The Good Knight | 28065 | [28065-kings-quest-chapter-5-the-good-knight.json](./28065-kings-quest-chapter-5-the-good-knight.json) |
@@ -3752,6 +3754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights College | 142272 | [142272-knights-college.json](./142272-knights-college.json) |
 | Knights Combo | 299403 | [299403-knights-combo.json](./299403-knights-combo.json) |
 | Knights Conquest | 123060 | [123060-knights-conquest.json](./123060-knights-conquest.json) |
+| Knights Contract | 7039 | [7039-knights-contract.json](./7039-knights-contract.json) |
 | Knights End | 390270 | [390270-knights-end.json](./390270-knights-end.json) |
 | Knights Fight 2: New Blood | 188313 | [188313-knights-fight-2-new-blood.json](./188313-knights-fight-2-new-blood.json) |
 | Knights Hunt | 72501 | [72501-knights-hunt.json](./72501-knights-hunt.json) |
