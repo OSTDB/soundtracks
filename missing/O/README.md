@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Object-37 | 261430 | [261430-object-37.json](./261430-object-37.json) |
 | Objection! | 93175 | [93175-objection.json](./93175-objection.json) |
 | Objective H.A.S.T.E.: Survival Horror Escape | 165740 | [165740-objective-h-a-s-t-e-survival-horror-escape.json](./165740-objective-h-a-s-t-e-survival-horror-escape.json) |
+| Objective: Kursk | 24672 | [24672-objective-kursk.json](./24672-objective-kursk.json) |
 | Objector | 232959 | [232959-objector.json](./232959-objector.json) |
 | Objects in Space | 19088 | [19088-objects-in-space.json](./19088-objects-in-space.json) |
 | Oblako | 394373 | [394373-oblako.json](./394373-oblako.json) |
