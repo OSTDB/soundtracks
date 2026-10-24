@@ -1859,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leather | 105814 | [105814-leather.json](./105814-leather.json) |
 | Leather Goddesses of Phobos | 12174 | [12174-leather-goddesses-of-phobos.json](./12174-leather-goddesses-of-phobos.json) |
 | Leather Goddesses of Phobos 2: Gas Pump Girls Meet the Pulsating Inconvenience from Planet X! | 14558 | [14558-leather-goddesses-of-phobos-2-gas-pump-girls-meet-the-pulsating-inconvenience-from-planet-x.json](./14558-leather-goddesses-of-phobos-2-gas-pump-girls-meet-the-pulsating-inconvenience-from-planet-x.json) |
+| Leatherneck | 12661 | [12661-leatherneck.json](./12661-leatherneck.json) |
 | Leave | 419910 | [419910-leave.json](./419910-leave.json) |
 | Leave a Light | 211907 | [211907-leave-a-light.json](./211907-leave-a-light.json) |
 | Leave Home | 91518 | [91518-leave-home.json](./91518-leave-home.json) |
@@ -1872,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaves 3 | 394892 | [394892-leaves-3.json](./394892-leaves-3.json) |
 | Leaves: The Journey | 30063 | [30063-leaves-the-journey.json](./30063-leaves-the-journey.json) |
 | Leaves: The Return | 30064 | [30064-leaves-the-return.json](./30064-leaves-the-return.json) |
+| Leavin' Teramis | 12662 | [12662-leavin-teramis.json](./12662-leavin-teramis.json) |
 | Leaving | 154622 | [154622-leaving.json](./154622-leaving.json) |
 | Leaving | 195532 | [195532-leaving.json](./195532-leaving.json) |
 | Leaving L.A. | 273138 | [273138-leaving-l-a.json](./273138-leaving-l-a.json) |
@@ -2024,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legasista | 20881 | [20881-legasista.json](./20881-legasista.json) |
 | Legbreaker | 129546 | [129546-legbreaker.json](./129546-legbreaker.json) |
 | Legena: Union Tides | 34449 | [34449-legena-union-tides.json](./34449-legena-union-tides.json) |
+| Legend | 12663 | [12663-legend.json](./12663-legend.json) |
 | Legend | 15247 | [15247-legend.json](./15247-legend.json) |
 | Legend | 197955 | [197955-legend.json](./197955-legend.json) |
 | Legend | 81187 | [81187-legend.json](./81187-legend.json) |
@@ -2067,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Etad | 208211 | [208211-legend-of-etad.json](./208211-legend-of-etad.json) |
 | Legend of Everything | 126827 | [126827-legend-of-everything.json](./126827-legend-of-everything.json) |
 | Legend of Fae | 16262 | [16262-legend-of-fae.json](./16262-legend-of-fae.json) |
+| Legend of Faerghail | 12664 | [12664-legend-of-faerghail.json](./12664-legend-of-faerghail.json) |
 | Legend of Fairies | 73814 | [73814-legend-of-fairies.json](./73814-legend-of-fairies.json) |
 | Legend of Fighters | 62670 | [62670-legend-of-fighters.json](./62670-legend-of-fighters.json) |
 | Legend of Frog | 327576 | [327576-legend-of-frog.json](./327576-legend-of-frog.json) |
@@ -3443,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberation Day | 70461 | [70461-liberation-day.json](./70461-liberation-day.json) |
 | Liberation Maiden: SIN | 52548 | [52548-liberation-maiden-sin.json](./52548-liberation-maiden-sin.json) |
 | Liberation Mutagenix | 166829 | [166829-liberation-mutagenix.json](./166829-liberation-mutagenix.json) |
+| Liberation: Captive II | 12665 | [12665-liberation-captive-ii.json](./12665-liberation-captive-ii.json) |
 | Liberator | 15250 | [15250-liberator.json](./15250-liberator.json) |
 | Liberator | 159066 | [159066-liberator.json](./159066-liberator.json) |
 | Liberator | 18456 | [18456-liberator.json](./18456-liberator.json) |
@@ -4455,6 +4460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links: Championship Course: Innisbrook - Copperhead | 73481 | [73481-links-championship-course-innisbrook-copperhead.json](./73481-links-championship-course-innisbrook-copperhead.json) |
 | Links: Championship Edition | 77903 | [77903-links-championship-edition.json](./77903-links-championship-edition.json) |
 | Links: Fantasy Course - Devils Island | 73115 | [73115-links-fantasy-course-devils-island.json](./73115-links-fantasy-course-devils-island.json) |
+| Links: The Challenge of Golf | 12666 | [12666-links-the-challenge-of-golf.json](./12666-links-the-challenge-of-golf.json) |
 | LinkShift | 357168 | [357168-linkshift.json](./357168-linkshift.json) |
 | Linkz | 92995 | [92995-linkz.json](./92995-linkz.json) |
 | Linley Henzell's Dungeon Crawl | 84198 | [84198-linley-henzells-dungeon-crawl.json](./84198-linley-henzells-dungeon-crawl.json) |
@@ -4910,6 +4916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Princess | 70945 | [70945-little-princess.json](./70945-little-princess.json) |
 | Little Princess: Marl Oukoku no Ningyou Hime 2 | 43903 | [43903-little-princess-marl-oukoku-no-ningyou-hime-2.json](./43903-little-princess-marl-oukoku-no-ningyou-hime-2.json) |
 | Little Problems | 272792 | [272792-little-problems.json](./272792-little-problems.json) |
+| Little Puff in Dragonland | 12667 | [12667-little-puff-in-dragonland.json](./12667-little-puff-in-dragonland.json) |
 | Little Raccoon | 323766 | [323766-little-raccoon.json](./323766-little-raccoon.json) |
 | Little Racer | 124023 | [124023-little-racer.json](./124023-little-racer.json) |
 | Little Racers | 91735 | [91735-little-racers.json](./91735-little-racers.json) |
@@ -6199,6 +6206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords Mobile | 298167 | [298167-lords-mobile.json](./298167-lords-mobile.json) |
 | Lords of Blood: Vampire RPG | 323156 | [323156-lords-of-blood-vampire-rpg.json](./323156-lords-of-blood-vampire-rpg.json) |
 | Lords of Cards | 154265 | [154265-lords-of-cards.json](./154265-lords-of-cards.json) |
+| Lords of Chaos | 12668 | [12668-lords-of-chaos.json](./12668-lords-of-chaos.json) |
 | Lords of Conquest | 26391 | [26391-lords-of-conquest.json](./26391-lords-of-conquest.json) |
 | Lords of Delusia | 74867 | [74867-lords-of-delusia.json](./74867-lords-of-delusia.json) |
 | Lords of Doom | 69811 | [69811-lords-of-doom.json](./69811-lords-of-doom.json) |
@@ -6410,6 +6418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Dreams | 194364 | [194364-lost-dreams.json](./194364-lost-dreams.json) |
 | Lost Dunes | 149828 | [149828-lost-dunes.json](./149828-lost-dunes.json) |
 | Lost Dungeon | 120734 | [120734-lost-dungeon.json](./120734-lost-dungeon.json) |
+| Lost Dutchman Mine | 12670 | [12670-lost-dutchman-mine.json](./12670-lost-dutchman-mine.json) |
 | Lost Dutchman's Gold | 25133 | [25133-lost-dutchmans-gold.json](./25133-lost-dutchmans-gold.json) |
 | Lost Earth | 138529 | [138529-lost-earth.json](./138529-lost-earth.json) |
 | Lost Echo | 39007 | [39007-lost-echo.json](./39007-lost-echo.json) |
