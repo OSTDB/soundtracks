@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora's Box | 79080 | [79080-pandoras-box.json](./79080-pandoras-box.json) |
 | Pandora's Box 2 | 330804 | [330804-pandoras-box-2.json](./330804-pandoras-box-2.json) |
 | Pandora's Doom: Apocalypse Hotline | 333602 | [333602-pandoras-doom-apocalypse-hotline.json](./333602-pandoras-doom-apocalypse-hotline.json) |
+| Pandora's Palace | 39380 | [39380-pandoras-palace.json](./39380-pandoras-palace.json) |
 | Pandora's Sack | 406685 | [406685-pandoras-sack.json](./406685-pandoras-sack.json) |
 | Pandora's Toybox | 368614 | [368614-pandoras-toybox.json](./368614-pandoras-toybox.json) |
 | Pandoria | 148465 | [148465-pandoria.json](./148465-pandoria.json) |
@@ -1662,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallel Rift | 332300 | [332300-parallel-rift.json](./332300-parallel-rift.json) |
 | Parallel Room Escape | 243176 | [243176-parallel-room-escape.json](./243176-parallel-room-escape.json) |
 | Parallel Shift | 143394 | [143394-parallel-shift.json](./143394-parallel-shift.json) |
+| Parallel Turn | 39392 | [39392-parallel-turn.json](./39392-parallel-turn.json) |
 | Parallel Universe | 184357 | [184357-parallel-universe.json](./184357-parallel-universe.json) |
 | Parallel World | 113026 | [113026-parallel-world.json](./113026-parallel-world.json) |
 | Parallel World in the Dream | 408206 | [408206-parallel-world-in-the-dream.json](./408206-parallel-world-in-the-dream.json) |
@@ -3271,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Weapons | 405067 | [405067-penguin-weapons.json](./405067-penguin-weapons.json) |
 | Penguin with a Pumpgun | 235869 | [235869-penguin-with-a-pumpgun.json](./235869-penguin-with-a-pumpgun.json) |
 | Penguin-kun Gira-Gira Wars | 54924 | [54924-penguin-kun-gira-gira-wars.json](./54924-penguin-kun-gira-gira-wars.json) |
+| Penguin-kun Wars | 39396 | [39396-penguin-kun-wars.json](./39396-penguin-kun-wars.json) |
 | Penguin: Sokoban Adventure | 313459 | [313459-penguin-sokoban-adventure.json](./313459-penguin-sokoban-adventure.json) |
 | Penguin's Love | 361639 | [361639-penguins-love.json](./361639-penguins-love.json) |
 | Penguin's Road | 304822 | [304822-penguins-road.json](./304822-penguins-road.json) |
@@ -3928,6 +3931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Jackson's King Kong: The Official Game of the Movie | 248542 | [248542-peter-jacksons-king-kong-the-official-game-of-the-movie.json](./248542-peter-jacksons-king-kong-the-official-game-of-the-movie.json) |
 | Peter Jackson's King Kong: The Official Game of the Movie | 248543 | [248543-peter-jacksons-king-kong-the-official-game-of-the-movie.json](./248543-peter-jacksons-king-kong-the-official-game-of-the-movie.json) |
 | Peter Jacobsen's Golden Tee Golf | 43776 | [43776-peter-jacobsens-golden-tee-golf.json](./43776-peter-jacobsens-golden-tee-golf.json) |
+| Peter Pack Rat | 39379 | [39379-peter-pack-rat.json](./39379-peter-pack-rat.json) |
 | Peter Padder Pauleypop | 181167 | [181167-peter-padder-pauleypop.json](./181167-peter-padder-pauleypop.json) |
 | Peter Pan | 95405 | [95405-peter-pan.json](./95405-peter-pan.json) |
 | Peter Pan: A Story Painting Adventure | 327871 | [327871-peter-pan-a-story-painting-adventure.json](./327871-peter-pan-a-story-painting-adventure.json) |
@@ -5070,6 +5074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pig King | 407443 | [407443-pig-king.json](./407443-pig-king.json) |
 | Pig Knight | 332619 | [332619-pig-knight.json](./332619-pig-knight.json) |
 | Pig Newton | 40403 | [40403-pig-newton.json](./40403-pig-newton.json) |
+| Pig Out | 39378 | [39378-pig-out.json](./39378-pig-out.json) |
 | Pig Out: Dine Like A Swine | 66386 | [66386-pig-out-dine-like-a-swine.json](./66386-pig-out-dine-like-a-swine.json) |
 | Pig Pen | 59881 | [59881-pig-pen.json](./59881-pig-pen.json) |
 | Pig Rush | 311193 | [311193-pig-rush.json](./311193-pig-rush.json) |
@@ -5144,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigs in Space | 40575 | [40575-pigs-in-space.json](./40575-pigs-in-space.json) |
 | Pigsaw | 177269 | [177269-pigsaw.json](./177269-pigsaw.json) |
 | Pigsaw: Human Abattoir | 272381 | [272381-pigsaw-human-abattoir.json](./272381-pigsaw-human-abattoir.json) |
+| Pigskin | 39398 | [39398-pigskin.json](./39398-pigskin.json) |
 | Pigskin | 399120 | [399120-pigskin.json](./399120-pigskin.json) |
 | Pigskin Empire | 108883 | [108883-pigskin-empire.json](./108883-pigskin-empire.json) |
 | Pigskin Punter! | 234336 | [234336-pigskin-punter.json](./234336-pigskin-punter.json) |
@@ -9265,6 +9271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Hands | 147993 | [147993-poker-hands.json](./147993-poker-hands.json) |
 | Poker HD | 88440 | [88440-poker-hd.json](./88440-poker-hd.json) |
 | Poker Kingdom | 232360 | [232360-poker-kingdom.json](./232360-poker-kingdom.json) |
+| Poker Ladies | 39397 | [39397-poker-ladies.json](./39397-poker-ladies.json) |
 | Poker Legends: Omaha Champions | 232560 | [232560-poker-legends-omaha-champions.json](./232560-poker-legends-omaha-champions.json) |
 | Poker Loafer | 369321 | [369321-poker-loafer.json](./369321-poker-loafer.json) |
 | Poker Master | 167586 | [167586-poker-master.json](./167586-poker-master.json) |
@@ -9843,6 +9850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ponkle | 111218 | [111218-ponkle.json](./111218-ponkle.json) |
 | Ponolf | 302792 | [302792-ponolf.json](./302792-ponolf.json) |
 | Ponon! Deluxe | 263576 | [263576-ponon-deluxe.json](./263576-ponon-deluxe.json) |
+| Ponpoko | 39395 | [39395-ponpoko.json](./39395-ponpoko.json) |
 | PonPonTown | 372986 | [372986-ponpontown.json](./372986-ponpontown.json) |
 | Ponpu | 132777 | [132777-ponpu.json](./132777-ponpu.json) |
 | Ponster | 196511 | [196511-ponster.json](./196511-ponster.json) |
@@ -12320,6 +12328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profundum | 112769 | [112769-profundum.json](./112769-profundum.json) |
 | Profundus | 341468 | [341468-profundus.json](./341468-profundus.json) |
 | PROG | 301955 | [301955-prog.json](./301955-prog.json) |
+| Progear | 39394 | [39394-progear.json](./39394-progear.json) |
 | Progear: Airplane Shooter | 231908 | [231908-progear-airplane-shooter.json](./231908-progear-airplane-shooter.json) |
 | Progenitor | 378978 | [378978-progenitor.json](./378978-progenitor.json) |
 | Progeny VR | 81101 | [81101-progeny-vr.json](./81101-progeny-vr.json) |
@@ -13471,6 +13480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
 | Psychiatrist Simulator 2 | 279487 | [279487-psychiatrist-simulator-2.json](./279487-psychiatrist-simulator-2.json) |
 | Psychic | 187201 | [187201-psychic.json](./187201-psychic.json) |
+| Psychic 5 | 39393 | [39393-psychic-5.json](./39393-psychic-5.json) |
 | Psychic Cat | 182224 | [182224-psychic-cat.json](./182224-psychic-cat.json) |
 | Psychic Force | 20140 | [20140-psychic-force.json](./20140-psychic-force.json) |
 | Psychic Force Complete | 71790 | [71790-psychic-force-complete.json](./71790-psychic-force-complete.json) |
