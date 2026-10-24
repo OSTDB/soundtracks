@@ -755,7 +755,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -996,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakushou!! All Yoshimoto Quiz-Ou Ketteisen | 245247 | [245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json](./245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json) |
 | Bakusou Dekotora Densetsu 2: Otoko Jinsei Yume Ichiro | 60416 | [60416-bakusou-dekotora-densetsu-2-otoko-jinsei-yume-ichiro.json](./60416-bakusou-dekotora-densetsu-2-otoko-jinsei-yume-ichiro.json) |
 | Bakusou Dekotora Densetsu Black | 60413 | [60413-bakusou-dekotora-densetsu-black.json](./60413-bakusou-dekotora-densetsu-black.json) |
+| Bakusou Dekotora Densetsu for WonderSwan | 37524 | [37524-bakusou-dekotora-densetsu-for-wonderswan.json](./37524-bakusou-dekotora-densetsu-for-wonderswan.json) |
 | Bakusou Dekotora Densetsu: Otoko Hanamichi Yume Roman | 60415 | [60415-bakusou-dekotora-densetsu-otoko-hanamichi-yume-roman.json](./60415-bakusou-dekotora-densetsu-otoko-hanamichi-yume-roman.json) |
 | Bakusou Dekotora Densetsu: Otoko Ippiki Yume Kaidoi | 60417 | [60417-bakusou-dekotora-densetsu-otoko-ippiki-yume-kaidoi.json](./60417-bakusou-dekotora-densetsu-otoko-ippiki-yume-kaidoi.json) |
 | Bakusou Kyoudai Let's & Go!!: Eternal Wings | 44765 | [44765-bakusou-kyoudai-lets-and-go-eternal-wings.json](./44765-bakusou-kyoudai-lets-and-go-eternal-wings.json) |
@@ -13368,6 +13368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buff Imposter | 178367 | [178367-buff-imposter.json](./178367-buff-imposter.json) |
 | Buff Knight Advanced | 34864 | [34864-buff-knight-advanced.json](./34864-buff-knight-advanced.json) |
 | Buffalo Bill's Wild West Show | 12284 | [12284-buffalo-bills-wild-west-show.json](./12284-buffalo-bills-wild-west-show.json) |
+| Buffers Evolution | 37530 | [37530-buffers-evolution.json](./37530-buffers-evolution.json) |
 | Buffet Boss | 231975 | [231975-buffet-boss.json](./231975-buffet-boss.json) |
 | Buffet Boss: Complete Edition | 317914 | [317914-buffet-boss-complete-edition.json](./317914-buffet-boss-complete-edition.json) |
 | Buffet Boss: Rolling Sushi | 316219 | [316219-buffet-boss-rolling-sushi.json](./316219-buffet-boss-rolling-sushi.json) |
