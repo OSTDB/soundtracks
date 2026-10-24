@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiggraph | 311068 | [311068-jiggraph.json](./311068-jiggraph.json) |
 | Jigoku Gokurakumaru | 215128 | [215128-jigoku-gokurakumaru.json](./215128-jigoku-gokurakumaru.json) |
 | Jigoku Hell | 178025 | [178025-jigoku-hell.json](./178025-jigoku-hell.json) |
+| Jigoku Kisetsukan: Sense of the Seasons | 35296 | [35296-jigoku-kisetsukan-sense-of-the-seasons.json](./35296-jigoku-kisetsukan-sense-of-the-seasons.json) |
 | Jigoku Meguri | 37709 | [37709-jigoku-meguri.json](./37709-jigoku-meguri.json) |
 | Jigoku Nagashi | 229695 | [229695-jigoku-nagashi.json](./229695-jigoku-nagashi.json) |
 | Jigoku no Sata mo Dasidahi | 82716 | [82716-jigoku-no-sata-mo-dasidahi.json](./82716-jigoku-no-sata-mo-dasidahi.json) |
