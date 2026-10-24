@@ -3136,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggle 2: Jimmy Lightning Master Pack | 339484 | [339484-peggle-2-jimmy-lightning-master-pack.json](./339484-peggle-2-jimmy-lightning-master-pack.json) |
 | Peggle 2: Magical Masters Edition | 118895 | [118895-peggle-2-magical-masters-edition.json](./118895-peggle-2-magical-masters-edition.json) |
 | Peggle 2: Windy the Fairy Master Pack | 294409 | [294409-peggle-2-windy-the-fairy-master-pack.json](./294409-peggle-2-windy-the-fairy-master-pack.json) |
+| Peggle Blast | 58310 | [58310-peggle-blast.json](./58310-peggle-blast.json) |
 | Peggle Blast HD | 354985 | [354985-peggle-blast-hd.json](./354985-peggle-blast-hd.json) |
 | Peggle Deluxe | 28975 | [28975-peggle-deluxe.json](./28975-peggle-deluxe.json) |
 | Peggle Extreme | 15646 | [15646-peggle-extreme.json](./15646-peggle-extreme.json) |
@@ -8639,6 +8640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Auto Chess | 307245 | [307245-pokemon-auto-chess.json](./307245-pokemon-auto-chess.json) |
 | Pokémon Awakening | 341913 | [341913-pokemon-awakening.json](./341913-pokemon-awakening.json) |
 | Pokémon Azure Horizons | 252922 | [252922-pokemon-azure-horizons.json](./252922-pokemon-azure-horizons.json) |
+| Pokémon Bank | 57344 | [57344-pokemon-bank.json](./57344-pokemon-bank.json) |
 | Pokémon Battle Card e+ Emerald | 355881 | [355881-pokemon-battle-card-e-emerald.json](./355881-pokemon-battle-card-e-emerald.json) |
 | Pokémon Battle Card e+ Emerald: 19-A001 - Karate-ou Kousei | 355724 | [355724-pokemon-battle-card-e-emerald-19-a001-karate-ou-kousei.json](./355724-pokemon-battle-card-e-emerald-19-a001-karate-ou-kousei.json) |
 | Pokémon Battle Card e+ Emerald: 19-A002 - Ninja Gokko Kagemasa | 355726 | [355726-pokemon-battle-card-e-emerald-19-a002-ninja-gokko-kagemasa.json](./355726-pokemon-battle-card-e-emerald-19-a002-ninja-gokko-kagemasa.json) |
@@ -10028,6 +10030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Master : Live Billiards | 209334 | [209334-pool-master-live-billiards.json](./209334-pool-master-live-billiards.json) |
 | Pool Master: Live Billiards 2 | 209333 | [209333-pool-master-live-billiards-2.json](./209333-pool-master-live-billiards-2.json) |
 | Pool Nation | 294557 | [294557-pool-nation.json](./294557-pool-nation.json) |
+| Pool Nation | 9007 | [9007-pool-nation.json](./9007-pool-nation.json) |
 | Pool Nation FX - Lite | 15692 | [15692-pool-nation-fx-lite.json](./15692-pool-nation-fx-lite.json) |
 | Pool Nation Snooker Bundle | 112733 | [112733-pool-nation-snooker-bundle.json](./112733-pool-nation-snooker-bundle.json) |
 | Pool of Death | 32795 | [32795-pool-of-death.json](./32795-pool-of-death.json) |
@@ -10529,6 +10532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poseidon - Project Dark Sky | 51585 | [51585-poseidon-project-dark-sky.json](./51585-poseidon-project-dark-sky.json) |
 | Poseidon Kiugi: Bangchihyeong Aeksyeon RPG | 212855 | [212855-poseidon-kiugi-bangchihyeong-aeksyeon-rpg.json](./212855-poseidon-kiugi-bangchihyeong-aeksyeon-rpg.json) |
 | Poseidon Wars 3-D | 46134 | [46134-poseidon-wars-3-d.json](./46134-poseidon-wars-3-d.json) |
+| Poseidon: Master of Atlantis | 9542 | [9542-poseidon-master-of-atlantis.json](./9542-poseidon-master-of-atlantis.json) |
 | Poseidon: Planet Eleven | 67276 | [67276-poseidon-planet-eleven.json](./67276-poseidon-planet-eleven.json) |
 | Poseidon's Orb | 225516 | [225516-poseidons-orb.json](./225516-poseidons-orb.json) |
 | Posey Picks and the Bus Stop | 178869 | [178869-posey-picks-and-the-bus-stop.json](./178869-posey-picks-and-the-bus-stop.json) |
@@ -12256,6 +12260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Tennis WTA Tour | 242802 | [242802-pro-tennis-wta-tour.json](./242802-pro-tennis-wta-tour.json) |
 | Pro Turkey Hunting | 234077 | [234077-pro-turkey-hunting.json](./234077-pro-turkey-hunting.json) |
 | Pro Wrestling | 18143 | [18143-pro-wrestling.json](./18143-pro-wrestling.json) |
+| Pro Wrestling | 9512 | [9512-pro-wrestling.json](./9512-pro-wrestling.json) |
 | Pro Wrestling Kentei DS | 66990 | [66990-pro-wrestling-kentei-ds.json](./66990-pro-wrestling-kentei-ds.json) |
 | Pro Wrestling Sengokuden: Hyper Tag Match | 45107 | [45107-pro-wrestling-sengokuden-hyper-tag-match.json](./45107-pro-wrestling-sengokuden-hyper-tag-match.json) |
 | Pro Wrestling Sim | 151459 | [151459-pro-wrestling-sim.json](./151459-pro-wrestling-sim.json) |
