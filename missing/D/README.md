@@ -9711,6 +9711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don Bluth Presents Dragon's Lair 20th Anniversary Special Edition | 84222 | [84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json](./84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json) |
 | Don Bradman Cricket 14 | 6967 | [6967-don-bradman-cricket-14.json](./6967-don-bradman-cricket-14.json) |
 | Don Dim Dum | 248899 | [248899-don-dim-dum.json](./248899-don-dim-dum.json) |
+| Don Doko Don | 39360 | [39360-don-doko-don.json](./39360-don-doko-don.json) |
 | Don Doko Don 2 | 48696 | [48696-don-doko-don-2.json](./48696-don-doko-don-2.json) |
 | Don Duality | 234640 | [234640-don-duality.json](./234640-don-duality.json) |
 | Don Duality: Initiation | 246847 | [246847-don-duality-initiation.json](./246847-don-duality-initiation.json) |
