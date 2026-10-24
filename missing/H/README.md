@@ -1881,8 +1881,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon Cozy Bundle | 329763 | [329763-harvest-moon-cozy-bundle.json](./329763-harvest-moon-cozy-bundle.json) |
 | Harvest Moon DS Cute | 47699 | [47699-harvest-moon-ds-cute.json](./47699-harvest-moon-ds-cute.json) |
 | Harvest Moon DS: Island of Happiness | 3387 | [3387-harvest-moon-ds-island-of-happiness.json](./3387-harvest-moon-ds-island-of-happiness.json) |
+| Harvest Moon DS: Sunshine Islands | 3389 | [3389-harvest-moon-ds-sunshine-islands.json](./3389-harvest-moon-ds-sunshine-islands.json) |
 | Harvest Moon GB | 3377 | [3377-harvest-moon-gb.json](./3377-harvest-moon-gb.json) |
 | Harvest Moon GBC | 220737 | [220737-harvest-moon-gbc.json](./220737-harvest-moon-gbc.json) |
+| Harvest Moon: A New Beginning | 3393 | [3393-harvest-moon-a-new-beginning.json](./3393-harvest-moon-a-new-beginning.json) |
 | Harvest Moon: A Wonderful Life | 3384 | [3384-harvest-moon-a-wonderful-life.json](./3384-harvest-moon-a-wonderful-life.json) |
 | Harvest Moon: A Wonderful Life Special Edition | 20482 | [20482-harvest-moon-a-wonderful-life-special-edition.json](./20482-harvest-moon-a-wonderful-life-special-edition.json) |
 | Harvest Moon: Animal Parade | 3390 | [3390-harvest-moon-animal-parade.json](./3390-harvest-moon-animal-parade.json) |
