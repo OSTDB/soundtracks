@@ -1995,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zuma's Revenge! | 8322 | [8322-zumas-revenge.json](./8322-zumas-revenge.json) |
 | Zumania: Magic Casual Puzzle | 175813 | [175813-zumania-magic-casual-puzzle.json](./175813-zumania-magic-casual-puzzle.json) |
 | Zumba Blitz | 214661 | [214661-zumba-blitz.json](./214661-zumba-blitz.json) |
+| Zumba Fitness | 3705 | [3705-zumba-fitness.json](./3705-zumba-fitness.json) |
 | Zumba Fitness 2 | 5306 | [5306-zumba-fitness-2.json](./5306-zumba-fitness-2.json) |
 | Zumba Fitness Core | 5307 | [5307-zumba-fitness-core.json](./5307-zumba-fitness-core.json) |
 | Zumba Fitness Rush | 47389 | [47389-zumba-fitness-rush.json](./47389-zumba-fitness-rush.json) |
