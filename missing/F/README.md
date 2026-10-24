@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon Beertender 2 | 286123 | [286123-falcon-beertender-2.json](./286123-falcon-beertender-2.json) |
 | Falcon BMS | 77298 | [77298-falcon-bms.json](./77298-falcon-bms.json) |
 | Falcon City | 133088 | [133088-falcon-city.json](./133088-falcon-city.json) |
+| Falcon Gold | 33852 | [33852-falcon-gold.json](./33852-falcon-gold.json) |
 | Falcon Operation: Counterstrike | 73738 | [73738-falcon-operation-counterstrike.json](./73738-falcon-operation-counterstrike.json) |
 | Falcon Operation: Firefight | 70781 | [70781-falcon-operation-firefight.json](./70781-falcon-operation-firefight.json) |
 | Falcon Patrol II | 40945 | [40945-falcon-patrol-ii.json](./40945-falcon-patrol-ii.json) |
@@ -10797,6 +10798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furea Uerzt | 286233 | [286233-furea-uerzt.json](./286233-furea-uerzt.json) |
 | Fureraba: Friend to Lover | 60763 | [60763-fureraba-friend-to-lover.json](./60763-fureraba-friend-to-lover.json) |
 | Fureraba: Friend to Lover - Mini Fandisk | 77936 | [77936-fureraba-friend-to-lover-mini-fandisk.json](./77936-fureraba-friend-to-lover-mini-fandisk.json) |
+| Furfly | 33858 | [33858-furfly.json](./33858-furfly.json) |
 | Furi Demake: The Chain | 278637 | [278637-furi-demake-the-chain.json](./278637-furi-demake-the-chain.json) |
 | Furi: One More Fight | 53090 | [53090-furi-one-more-fight.json](./53090-furi-one-more-fight.json) |
 | Furi: Onnamusha | 200436 | [200436-furi-onnamusha.json](./200436-furi-onnamusha.json) |
