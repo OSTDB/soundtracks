@@ -6095,6 +6095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search For Kids 2 | 103134 | [103134-word-search-for-kids-2.json](./103134-word-search-for-kids-2.json) |
 | Word Search Fun | 87165 | [87165-word-search-fun.json](./87165-word-search-fun.json) |
 | Word Search Game | 86915 | [86915-word-search-game.json](./86915-word-search-game.json) |
+| Word Search game ...made with love | 27363 | [27363-word-search-game-made-with-love.json](./27363-word-search-game-made-with-love.json) |
 | Word Search Joy | 88270 | [88270-word-search-joy.json](./88270-word-search-joy.json) |
 | Word Search Mania | 92918 | [92918-word-search-mania.json](./92918-word-search-mania.json) |
 | Word Search Puzzle | 102213 | [102213-word-search-puzzle.json](./102213-word-search-puzzle.json) |
@@ -6280,6 +6281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordsplash! | 28814 | [28814-wordsplash.json](./28814-wordsplash.json) |
 | WordSplit | 238385 | [238385-wordsplit.json](./238385-wordsplit.json) |
 | Wordstalk | 83437 | [83437-wordstalk.json](./83437-wordstalk.json) |
+| Wordstine - Anagram Word Game | 27369 | [27369-wordstine-anagram-word-game.json](./27369-wordstine-anagram-word-game.json) |
 | WordStorm | 96304 | [96304-wordstorm.json](./96304-wordstorm.json) |
 | Wordsum Blitz | 135067 | [135067-wordsum-blitz.json](./135067-wordsum-blitz.json) |
 | WordsUp! Academy | 84961 | [84961-wordsup-academy.json](./84961-wordsup-academy.json) |
