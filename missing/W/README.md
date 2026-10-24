@@ -6918,6 +6918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Z: Aftermath | 152123 | [152123-world-war-z-aftermath.json](./152123-world-war-z-aftermath.json) |
 | World War Z: Aftermath - Deluxe Edition | 169203 | [169203-world-war-z-aftermath-deluxe-edition.json](./169203-world-war-z-aftermath-deluxe-edition.json) |
 | World War Z: Desert Defenders Weapons Pack | 332044 | [332044-world-war-z-desert-defenders-weapons-pack.json](./332044-world-war-z-desert-defenders-weapons-pack.json) |
+| World War Z: Game of the Year Edition | 133945 | [133945-world-war-z-game-of-the-year-edition.json](./133945-world-war-z-game-of-the-year-edition.json) |
 | World War Z: Sin City Apocalypse Episode | 339072 | [339072-world-war-z-sin-city-apocalypse-episode.json](./339072-world-war-z-sin-city-apocalypse-episode.json) |
 | World War Z: Vegas Skin Pack | 339073 | [339073-world-war-z-vegas-skin-pack.json](./339073-world-war-z-vegas-skin-pack.json) |
 | World War Z: Victory Lap Weapons Skin Pack | 332045 | [332045-world-war-z-victory-lap-weapons-skin-pack.json](./332045-world-war-z-victory-lap-weapons-skin-pack.json) |
@@ -7143,6 +7144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms World Party Remastered | 20025 | [20025-worms-world-party-remastered.json](./20025-worms-world-party-remastered.json) |
 | Worms: A Space Oddity | 5290 | [5290-worms-a-space-oddity.json](./5290-worms-a-space-oddity.json) |
 | Worms: Battle Islands | 5291 | [5291-worms-battle-islands.json](./5291-worms-battle-islands.json) |
+| Worms: Open Warfare | 18313 | [18313-worms-open-warfare.json](./18313-worms-open-warfare.json) |
 | Worms: Open Warfare 2 | 18314 | [18314-worms-open-warfare-2.json](./18314-worms-open-warfare-2.json) |
 | Worms: Reinforcements | 24938 | [24938-worms-reinforcements.json](./24938-worms-reinforcements.json) |
 | Worms: Revolution Extreme | 53032 | [53032-worms-revolution-extreme.json](./53032-worms-revolution-extreme.json) |
