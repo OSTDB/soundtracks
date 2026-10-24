@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: New Vegas - Collector's Edition | 45129 | [45129-fallout-new-vegas-collectors-edition.json](./45129-fallout-new-vegas-collectors-edition.json) |
 | Fallout: New Vegas - Courier's Stash | 45127 | [45127-fallout-new-vegas-couriers-stash.json](./45127-fallout-new-vegas-couriers-stash.json) |
 | Fallout: New Vegas - Dead Money | 10304 | [10304-fallout-new-vegas-dead-money.json](./10304-fallout-new-vegas-dead-money.json) |
+| Fallout: New Vegas - Honest Hearts | 10305 | [10305-fallout-new-vegas-honest-hearts.json](./10305-fallout-new-vegas-honest-hearts.json) |
 | Fallout: New Vegas - Lonesome Road | 10307 | [10307-fallout-new-vegas-lonesome-road.json](./10307-fallout-new-vegas-lonesome-road.json) |
 | Fallout: New Vegas - Old World Blues | 10306 | [10306-fallout-new-vegas-old-world-blues.json](./10306-fallout-new-vegas-old-world-blues.json) |
 | Fallout: New Vegas - Ultimate Edition | 25532 | [25532-fallout-new-vegas-ultimate-edition.json](./25532-fallout-new-vegas-ultimate-edition.json) |
@@ -3585,6 +3586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Street 2 | 240364 | [240364-fifa-street-2.json](./240364-fifa-street-2.json) |
 | FIFA Street 2 | 240365 | [240365-fifa-street-2.json](./240365-fifa-street-2.json) |
 | FIFA Street 2 | 240366 | [240366-fifa-street-2.json](./240366-fifa-street-2.json) |
+| FIFA Street 2 | 5833 | [5833-fifa-street-2.json](./5833-fifa-street-2.json) |
 | FIFA Street 3 | 240359 | [240359-fifa-street-3.json](./240359-fifa-street-3.json) |
 | FIFA Street 3 | 7304 | [7304-fifa-street-3.json](./7304-fifa-street-3.json) |
 | FIFA Superstars | 304276 | [304276-fifa-superstars.json](./304276-fifa-superstars.json) |
@@ -3771,6 +3773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting For Food | 72357 | [72357-fighting-for-food.json](./72357-fighting-for-food.json) |
 | Fighting For One Piece | 65911 | [65911-fighting-for-one-piece.json](./65911-fighting-for-one-piece.json) |
 | Fighting for Singleship: I am Chased by a Bunch of Women But I Just Want to Play Video Games | 274558 | [274558-fighting-for-singleship-i-am-chased-by-a-bunch-of-women-but-i-just-want-to-play-video-games.json](./274558-fighting-for-singleship-i-am-chased-by-a-bunch-of-women-but-i-just-want-to-play-video-games.json) |
+| Fighting Force | 2542 | [2542-fighting-force.json](./2542-fighting-force.json) |
 | Fighting Force 2 | 11615 | [11615-fighting-force-2.json](./11615-fighting-force-2.json) |
 | Fighting Force Collection | 306653 | [306653-fighting-force-collection.json](./306653-fighting-force-collection.json) |
 | Fighting Frenzy: Swole Simulator | 120709 | [120709-fighting-frenzy-swole-simulator.json](./120709-fighting-frenzy-swole-simulator.json) |
@@ -3819,6 +3822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fightstone Amnesty | 349180 | [349180-fightstone-amnesty.json](./349180-fightstone-amnesty.json) |
 | Fightttris VR | 113162 | [113162-fightttris-vr.json](./113162-fightttris-vr.json) |
 | Fighty Driver | 411045 | [411045-fighty-driver.json](./411045-fighty-driver.json) |
+| Figment | 20329 | [20329-figment.json](./20329-figment.json) |
 | Figment 1 + Figment 2 | 242587 | [242587-figment-1-figment-2.json](./242587-figment-1-figment-2.json) |
 | Figment 1 + Figment 2: Collector's Edition | 287047 | [287047-figment-1-figment-2-collectors-edition.json](./287047-figment-1-figment-2-collectors-edition.json) |
 | Figments of the Night | 338694 | [338694-figments-of-the-night.json](./338694-figments-of-the-night.json) |
@@ -3976,6 +3980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Failure | 93629 | [93629-final-failure.json](./93629-final-failure.json) |
 | Final Fall | 341702 | [341702-final-fall.json](./341702-final-fall.json) |
 | Final Fanta-Three | 183900 | [183900-final-fanta-three.json](./183900-final-fanta-three.json) |
+| Final Fantasy | 158980 | [158980-final-fantasy.json](./158980-final-fantasy.json) |
 | Final Fantasy | 271227 | [271227-final-fantasy.json](./271227-final-fantasy.json) |
 | Final Fantasy | 286674 | [286674-final-fantasy.json](./286674-final-fantasy.json) |
 | Final Fantasy | 380632 | [380632-final-fantasy.json](./380632-final-fantasy.json) |
@@ -4154,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV: Growing Light | 259399 | [259399-final-fantasy-xiv-growing-light.json](./259399-final-fantasy-xiv-growing-light.json) |
 | Final Fantasy XIV: Heavensward - Collector's Edition | 51532 | [51532-final-fantasy-xiv-heavensward-collectors-edition.json](./51532-final-fantasy-xiv-heavensward-collectors-edition.json) |
 | Final Fantasy XIV: Into the Mist | 376015 | [376015-final-fantasy-xiv-into-the-mist.json](./376015-final-fantasy-xiv-into-the-mist.json) |
+| Final Fantasy XIV: Shadowbringers | 112412 | [112412-final-fantasy-xiv-shadowbringers.json](./112412-final-fantasy-xiv-shadowbringers.json) |
 | Final Fantasy XIV: Shadowbringers - Collector's Edition | 167106 | [167106-final-fantasy-xiv-shadowbringers-collectors-edition.json](./167106-final-fantasy-xiv-shadowbringers-collectors-edition.json) |
 | Final Fantasy XIV: Stormblood | 26625 | [26625-final-fantasy-xiv-stormblood.json](./26625-final-fantasy-xiv-stormblood.json) |
 | Final Fantasy XIV: Stormblood - Collector's Edition | 167116 | [167116-final-fantasy-xiv-stormblood-collectors-edition.json](./167116-final-fantasy-xiv-stormblood-collectors-edition.json) |
