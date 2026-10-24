@@ -8006,6 +8006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hormone Wars | 181114 | [181114-hormone-wars.json](./181114-hormone-wars.json) |
 | Hormones of the Dead | 405601 | [405601-hormones-of-the-dead.json](./405601-hormones-of-the-dead.json) |
 | Hormuz | 395256 | [395256-hormuz.json](./395256-hormuz.json) |
+| Horn | 38704 | [38704-horn.json](./38704-horn.json) |
 | Horn and Shields | 319959 | [319959-horn-and-shields.json](./319959-horn-and-shields.json) |
 | Horn of Balance | 296912 | [296912-horn-of-balance.json](./296912-horn-of-balance.json) |
 | Horn Sounds | 262887 | [262887-horn-sounds.json](./262887-horn-sounds.json) |
@@ -9889,6 +9890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyoutenka 30-do no Zetsubou | 376273 | [376273-hyoutenka-30-do-no-zetsubou.json](./376273-hyoutenka-30-do-no-zetsubou.json) |
 | Hyparxis | 169793 | [169793-hyparxis.json](./169793-hyparxis.json) |
 | Hypastorm | 254692 | [254692-hypastorm.json](./254692-hypastorm.json) |
+| Hypatia | 38705 | [38705-hypatia.json](./38705-hypatia.json) |
 | Hypatia | 407344 | [407344-hypatia.json](./407344-hypatia.json) |
 | Hype Prototype | 225520 | [225520-hype-prototype.json](./225520-hype-prototype.json) |
 | Hype: The Time Quest | 259642 | [259642-hype-the-time-quest.json](./259642-hype-the-time-quest.json) |
