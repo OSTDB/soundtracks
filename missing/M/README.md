@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Pachinko Cotton | 43285 | [43285-magical-pachinko-cotton.json](./43285-magical-pachinko-cotton.json) |
 | Magical Paradise Train | 252990 | [252990-magical-paradise-train.json](./252990-magical-paradise-train.json) |
 | Magical Paws 2: Heart Wishes | 143990 | [143990-magical-paws-2-heart-wishes.json](./143990-magical-paws-2-heart-wishes.json) |
+| Magical Pop'n | 9671 | [9671-magical-popn.json](./9671-magical-popn.json) |
 | Magical Princess | 339996 | [339996-magical-princess.json](./339996-magical-princess.json) |
 | Magical Prisma | 130404 | [130404-magical-prisma.json](./130404-magical-prisma.json) |
 | Magical Psalter II: Féngmó zhī Tú | 394500 | [394500-magical-psalter-ii-fengmo-zhi-tu.json](./394500-magical-psalter-ii-fengmo-zhi-tu.json) |
@@ -2495,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mania Challenge | 40077 | [40077-mania-challenge.json](./40077-mania-challenge.json) |
 | Mania Fish | 188069 | [188069-mania-fish.json](./188069-mania-fish.json) |
 | Mania Quiz | 101106 | [101106-mania-quiz.json](./101106-mania-quiz.json) |
+| Maniac | 226373 | [226373-maniac.json](./226373-maniac.json) |
 | Maniac | 229814 | [229814-maniac.json](./229814-maniac.json) |
 | Maniac GO | 43137 | [43137-maniac-go.json](./43137-maniac-go.json) |
 | Maniac Inc. | 182162 | [182162-maniac-inc.json](./182162-maniac-inc.json) |
@@ -4884,6 +4886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maxit | 78372 | [78372-maxit.json](./78372-maxit.json) |
 | Mǎxìtuán zhī Yè | 154334 | [154334-maxituan-zhi-ye.json](./154334-maxituan-zhi-ye.json) |
 | Maxo Scringle's "Human Rocket" Mini-Type Rocket Golf | 402367 | [402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json](./402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json) |
+| Maxon Petting Simulator | 214991 | [214991-maxon-petting-simulator.json](./214991-maxon-petting-simulator.json) |
 | Maxoo 2 | 216412 | [216412-maxoo-2.json](./216412-maxoo-2.json) |
 | MaxPlay Classic Games Volume 1 | 3996 | [3996-maxplay-classic-games-volume-1.json](./3996-maxplay-classic-games-volume-1.json) |
 | MaXplosion | 92153 | [92153-maxplosion.json](./92153-maxplosion.json) |
