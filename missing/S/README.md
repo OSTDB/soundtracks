@@ -5433,6 +5433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Road | 124209 | [124209-shadow-of-the-road.json](./124209-shadow-of-the-road.json) |
 | Shadow of the School | 302474 | [302474-shadow-of-the-school.json](./302474-shadow-of-the-school.json) |
 | Shadow of the Tomb Raider: Croft Edition | 99122 | [99122-shadow-of-the-tomb-raider-croft-edition.json](./99122-shadow-of-the-tomb-raider-croft-edition.json) |
+| Shadow of the Tomb Raider: Definitive Edition | 123051 | [123051-shadow-of-the-tomb-raider-definitive-edition.json](./123051-shadow-of-the-tomb-raider-definitive-edition.json) |
 | Shadow of the Tomb Raider: Digital Deluxe Edition | 99121 | [99121-shadow-of-the-tomb-raider-digital-deluxe-edition.json](./99121-shadow-of-the-tomb-raider-digital-deluxe-edition.json) |
 | Shadow of the Tomb Raider: Limited Steelbook Edition | 198245 | [198245-shadow-of-the-tomb-raider-limited-steelbook-edition.json](./198245-shadow-of-the-tomb-raider-limited-steelbook-edition.json) |
 | Shadow of the Tomb Raider: The Grand Caiman | 116800 | [116800-shadow-of-the-tomb-raider-the-grand-caiman.json](./116800-shadow-of-the-tomb-raider-the-grand-caiman.json) |
@@ -5491,6 +5492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Survival | 219602 | [219602-shadow-survival.json](./219602-shadow-survival.json) |
 | Shadow Tactics: Aiko's Choice - Deluxe Edition | 331844 | [331844-shadow-tactics-aikos-choice-deluxe-edition.json](./331844-shadow-tactics-aikos-choice-deluxe-edition.json) |
 | Shadow Tactics: Anniversary Bundle | 186540 | [186540-shadow-tactics-anniversary-bundle.json](./186540-shadow-tactics-anniversary-bundle.json) |
+| Shadow Tactics: Blades of the Shogun - Aiko’s Choice | 145060 | [145060-shadow-tactics-blades-of-the-shogun-aiko-s-choice.json](./145060-shadow-tactics-blades-of-the-shogun-aiko-s-choice.json) |
 | Shadow Tactics: Blades of the Shogun - Deluxe Edition | 331845 | [331845-shadow-tactics-blades-of-the-shogun-deluxe-edition.json](./331845-shadow-tactics-blades-of-the-shogun-deluxe-edition.json) |
 | Shadow Tactics: Blades of the Shogun - Ultimate Bundle | 331516 | [331516-shadow-tactics-blades-of-the-shogun-ultimate-bundle.json](./331516-shadow-tactics-blades-of-the-shogun-ultimate-bundle.json) |
 | Shadow the Hedgehog | 4105 | [4105-shadow-the-hedgehog.json](./4105-shadow-the-hedgehog.json) |
@@ -5879,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shantae: Half-Genie Hero - Ultimate Day One Edition | 136277 | [136277-shantae-half-genie-hero-ultimate-day-one-edition.json](./136277-shantae-half-genie-hero-ultimate-day-one-edition.json) |
 | Shantae: Half-Genie Hero - Ultimate Edition | 95832 | [95832-shantae-half-genie-hero-ultimate-edition.json](./95832-shantae-half-genie-hero-ultimate-edition.json) |
 | Shantae: Risky's Revenge | 11782 | [11782-shantae-riskys-revenge.json](./11782-shantae-riskys-revenge.json) |
+| Shantae: Risky's Revenge - Director's Cut | 36402 | [36402-shantae-riskys-revenge-directors-cut.json](./36402-shantae-riskys-revenge-directors-cut.json) |
 | Shantalia and Corali'hulu | 368261 | [368261-shantalia-and-coralihulu.json](./368261-shantalia-and-coralihulu.json) |
 | Shanties in Strange Waters | 180756 | [180756-shanties-in-strange-waters.json](./180756-shanties-in-strange-waters.json) |
 | ShantyTown | 258979 | [258979-shantytown.json](./258979-shantytown.json) |
@@ -13431,6 +13434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo Fox | 143369 | [143369-solo-fox.json](./143369-solo-fox.json) |
 | Solo Hunt: Ten Floor | 247926 | [247926-solo-hunt-ten-floor.json](./247926-solo-hunt-ten-floor.json) |
 | Solo King: Single Player - Texas Hold'em Poker | 130130 | [130130-solo-king-single-player-texas-holdem-poker.json](./130130-solo-king-single-player-texas-holdem-poker.json) |
+| Solo Leveling: Arise | 188574 | [188574-solo-leveling-arise.json](./188574-solo-leveling-arise.json) |
 | Solo Leveling: Arise Overdrive | 349302 | [349302-solo-leveling-arise-overdrive.json](./349302-solo-leveling-arise-overdrive.json) |
 | Solo Noble | 175374 | [175374-solo-noble.json](./175374-solo-noble.json) |
 | Solo Raid: Mage | 394614 | [394614-solo-raid-mage.json](./394614-solo-raid-mage.json) |
@@ -14863,6 +14867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Grinder | 184649 | [184649-soul-grinder.json](./184649-soul-grinder.json) |
 | Soul Guardians | 238645 | [238645-soul-guardians.json](./238645-soul-guardians.json) |
 | Soul Guardians: Age of Midgard | 39177 | [39177-soul-guardians-age-of-midgard.json](./39177-soul-guardians-age-of-midgard.json) |
+| Soul Hackers 2 | 191738 | [191738-soul-hackers-2.json](./191738-soul-hackers-2.json) |
 | Soul Hackers 2 | 228334 | [228334-soul-hackers-2.json](./228334-soul-hackers-2.json) |
 | Soul Hackers 2: Bonus Story Arc - The Lost Numbers | 214346 | [214346-soul-hackers-2-bonus-story-arc-the-lost-numbers.json](./214346-soul-hackers-2-bonus-story-arc-the-lost-numbers.json) |
 | Soul Hackers 2: Digital Deluxe Edition | 213330 | [213330-soul-hackers-2-digital-deluxe-edition.json](./213330-soul-hackers-2-digital-deluxe-edition.json) |
@@ -19749,6 +19754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Droids - The Adventures of R2-D2 and C-3PO | 61864 | [61864-star-wars-droids-the-adventures-of-r2-d2-and-c-3po.json](./61864-star-wars-droids-the-adventures-of-r2-d2-and-c-3po.json) |
 | Star Wars: DroidWorks | 95480 | [95480-star-wars-droidworks.json](./95480-star-wars-droidworks.json) |
 | Star Wars: Empire at War | 144 | [144-star-wars-empire-at-war.json](./144-star-wars-empire-at-war.json) |
+| Star Wars: Empire at War - Forces of Corruption | 174 | [174-star-wars-empire-at-war-forces-of-corruption.json](./174-star-wars-empire-at-war-forces-of-corruption.json) |
 | Star Wars: Empire at War - Gold Pack | 93832 | [93832-star-wars-empire-at-war-gold-pack.json](./93832-star-wars-empire-at-war-gold-pack.json) |
 | Star Wars: Episode 1 - Director's Cut | 252302 | [252302-star-wars-episode-1-directors-cut.json](./252302-star-wars-episode-1-directors-cut.json) |
 | Star Wars: Episode I - Battle for Naboo | 156 | [156-star-wars-episode-i-battle-for-naboo.json](./156-star-wars-episode-i-battle-for-naboo.json) |
@@ -25643,6 +25649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Funny RPG | 307713 | [307713-super-mario-funny-rpg.json](./307713-super-mario-funny-rpg.json) |
 | Super Mario Fusion: Revival | 322786 | [322786-super-mario-fusion-revival.json](./322786-super-mario-fusion-revival.json) |
 | Super Mario FX | 257524 | [257524-super-mario-fx.json](./257524-super-mario-fx.json) |
+| Super Mario Galaxy | 229246 | [229246-super-mario-galaxy.json](./229246-super-mario-galaxy.json) |
 | Super Mario Galaxy | 366899 | [366899-super-mario-galaxy.json](./366899-super-mario-galaxy.json) |
 | Super Mario Galaxy + Super Mario Galaxy 2 | 366878 | [366878-super-mario-galaxy-super-mario-galaxy-2.json](./366878-super-mario-galaxy-super-mario-galaxy-2.json) |
 | Super Mario Galaxy 2 | 366900 | [366900-super-mario-galaxy-2.json](./366900-super-mario-galaxy-2.json) |
