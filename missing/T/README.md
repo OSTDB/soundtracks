@@ -6111,6 +6111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Communist Manifesto | 345427 | [345427-the-communist-manifesto.json](./345427-the-communist-manifesto.json) |
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
 | The Company Game | 110063 | [110063-the-company-game.json](./110063-the-company-game.json) |
+| The Company Man | 150054 | [150054-the-company-man.json](./150054-the-company-man.json) |
 | The Complete Carriers at War | 281299 | [281299-the-complete-carriers-at-war.json](./281299-the-complete-carriers-at-war.json) |
 | The Complete Emergency | 136375 | [136375-the-complete-emergency.json](./136375-the-complete-emergency.json) |
 | The Complete Movie Games Collection | 336051 | [336051-the-complete-movie-games-collection.json](./336051-the-complete-movie-games-collection.json) |
@@ -7105,6 +7106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Flames of Ambition | 180622 | [180622-the-elder-scrolls-online-flames-of-ambition.json](./180622-the-elder-scrolls-online-flames-of-ambition.json) |
 | The Elder Scrolls Online: Gold Road | 283120 | [283120-the-elder-scrolls-online-gold-road.json](./283120-the-elder-scrolls-online-gold-road.json) |
 | The Elder Scrolls Online: Greymoor | 128442 | [128442-the-elder-scrolls-online-greymoor.json](./128442-the-elder-scrolls-online-greymoor.json) |
+| The Elder Scrolls Online: Harrowstorm | 128443 | [128443-the-elder-scrolls-online-harrowstorm.json](./128443-the-elder-scrolls-online-harrowstorm.json) |
 | The Elder Scrolls Online: High Isle | 195342 | [195342-the-elder-scrolls-online-high-isle.json](./195342-the-elder-scrolls-online-high-isle.json) |
 | The Elder Scrolls Online: High Isle Collector's Edition | 196517 | [196517-the-elder-scrolls-online-high-isle-collectors-edition.json](./196517-the-elder-scrolls-online-high-isle-collectors-edition.json) |
 | The Elder Scrolls Online: Horns of the Reach | 63873 | [63873-the-elder-scrolls-online-horns-of-the-reach.json](./63873-the-elder-scrolls-online-horns-of-the-reach.json) |
@@ -11538,7 +11540,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -16241,6 +16242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thingio Side A: Let's Go! Thingio! | 323782 | [323782-thingio-side-a-lets-go-thingio.json](./323782-thingio-side-a-lets-go-thingio.json) |
 | Thingio Side B: The Grand Illusion | 323783 | [323783-thingio-side-b-the-grand-illusion.json](./323783-thingio-side-b-the-grand-illusion.json) |
 | Things on Wheels | 72727 | [72727-things-on-wheels.json](./72727-things-on-wheels.json) |
+| Things That Bounce and Explode | 149011 | [149011-things-that-bounce-and-explode.json](./149011-things-that-bounce-and-explode.json) |
 | Things That Go Bump | 194341 | [194341-things-that-go-bump.json](./194341-things-that-go-bump.json) |
 | Things to Forget: Lighthouse | 395478 | [395478-things-to-forget-lighthouse.json](./395478-things-to-forget-lighthouse.json) |
 | Things Too Ugly | 289948 | [289948-things-too-ugly.json](./289948-things-too-ugly.json) |
