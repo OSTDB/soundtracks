@@ -2522,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jujutsutchi 0 | 230186 | [230186-jujutsutchi-0.json](./230186-jujutsutchi-0.json) |
 | Jukai Maze | 387051 | [387051-jukai-maze.json](./387051-jukai-maze.json) |
 | Jukaya | 180587 | [180587-jukaya.json](./180587-jukaya.json) |
+| Juke | 43095 | [43095-juke.json](./43095-juke.json) |
 | Jukebeat | 79860 | [79860-jukebeat.json](./79860-jukebeat.json) |
 | Jukemeister | 181790 | [181790-jukemeister.json](./181790-jukemeister.json) |
 | Jules | 187368 | [187368-jules.json](./187368-jules.json) |
