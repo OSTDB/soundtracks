@@ -2882,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlehold | 144146 | [144146-castlehold.json](./144146-castlehold.json) |
 | Castlemancer | 258610 | [258610-castlemancer.json](./258610-castlemancer.json) |
 | Castlemaze: Ojou-sama kara no Chousen | 214007 | [214007-castlemaze-ojou-sama-kara-no-chousen.json](./214007-castlemaze-ojou-sama-kara-no-chousen.json) |
+| CastleMiner Warfare | 54502 | [54502-castleminer-warfare.json](./54502-castleminer-warfare.json) |
 | CastleMiner Z | 9794 | [9794-castleminer-z.json](./9794-castleminer-z.json) |
 | CastleOfDuck | 193722 | [193722-castleofduck.json](./193722-castleofduck.json) |
 | CastleOn | 353881 | [353881-castleon.json](./353881-castleon.json) |
@@ -13537,6 +13538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Stone Deep Learning | 208915 | [208915-crazy-stone-deep-learning.json](./208915-crazy-stone-deep-learning.json) |
 | Crazy Street Traffic Race | 105520 | [105520-crazy-street-traffic-race.json](./105520-crazy-street-traffic-race.json) |
 | Crazy Streets - Thrill Drive 4 | 65912 | [65912-crazy-streets-thrill-drive-4.json](./65912-crazy-streets-thrill-drive-4.json) |
+| Crazy Strike Bowling EX | 52164 | [52164-crazy-strike-bowling-ex.json](./52164-crazy-strike-bowling-ex.json) |
 | Crazy Stunt Driver: Extreme Racing Simulator | 300859 | [300859-crazy-stunt-driver-extreme-racing-simulator.json](./300859-crazy-stunt-driver-extreme-racing-simulator.json) |
 | Crazy Sue goes on | 37276 | [37276-crazy-sue-goes-on.json](./37276-crazy-sue-goes-on.json) |
 | Crazy Super Bunnies | 234692 | [234692-crazy-super-bunnies.json](./234692-crazy-super-bunnies.json) |
