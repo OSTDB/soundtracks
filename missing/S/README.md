@@ -6050,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharkarama | 402446 | [402446-sharkarama.json](./402446-sharkarama.json) |
 | Sharkbaked | 379009 | [379009-sharkbaked.json](./379009-sharkbaked.json) |
 | SharkDrag Episode 5: Uniting the 5 Kingdoms | 210891 | [210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json](./210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json) |
+| Sharkey's 3D Pool | 11873 | [11873-sharkeys-3d-pool.json](./11873-sharkeys-3d-pool.json) |
 | Sharkey's Moll | 73156 | [73156-sharkeys-moll.json](./73156-sharkeys-moll.json) |
 | Sharkey's Shootout | 91401 | [91401-sharkeys-shootout.json](./91401-sharkeys-shootout.json) |
 | Sharknado VR: Arcade Edition | 197404 | [197404-sharknado-vr-arcade-edition.json](./197404-sharknado-vr-arcade-edition.json) |
@@ -28435,6 +28436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Hollow Fragment | 9618 | [9618-sword-art-online-hollow-fragment.json](./9618-sword-art-online-hollow-fragment.json) |
 | Sword Art Online: Hollow Realization - Limited Edition | 212317 | [212317-sword-art-online-hollow-realization-limited-edition.json](./212317-sword-art-online-hollow-realization-limited-edition.json) |
 | Sword Art Online: Hollow Realization Collector's Edition | 132182 | [132182-sword-art-online-hollow-realization-collectors-edition.json](./132182-sword-art-online-hollow-realization-collectors-edition.json) |
+| Sword Art Online: Infinity Moment | 11841 | [11841-sword-art-online-infinity-moment.json](./11841-sword-art-online-infinity-moment.json) |
 | Sword Art Online: Integral Factor | 68441 | [68441-sword-art-online-integral-factor.json](./68441-sword-art-online-integral-factor.json) |
 | Sword Art Online: Last Recollection - Black Swordsman Swords Skins Set | 275831 | [275831-sword-art-online-last-recollection-black-swordsman-swords-skins-set.json](./275831-sword-art-online-last-recollection-black-swordsman-swords-skins-set.json) |
 | Sword Art Online: Last Recollection - Deluxe Edition | 271125 | [271125-sword-art-online-last-recollection-deluxe-edition.json](./271125-sword-art-online-last-recollection-deluxe-edition.json) |
