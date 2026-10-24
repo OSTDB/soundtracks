@@ -1708,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat's Contracts | 357262 | [357262-rats-contracts.json](./357262-rats-contracts.json) |
 | Rat's Lair | 356766 | [356766-rats-lair.json](./356766-rats-lair.json) |
 | Ratano | 269853 | [269853-ratano.json](./269853-ratano.json) |
+| Ratatan | 259339 | [259339-ratatan.json](./259339-ratatan.json) |
 | Ratatata | 367546 | [367546-ratatata.json](./367546-ratatata.json) |
 | Ratatouille | 210731 | [210731-ratatouille.json](./210731-ratatouille.json) |
 | Ratatouille | 281842 | [281842-ratatouille.json](./281842-ratatouille.json) |
@@ -2911,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record of Agarest War | 7158 | [7158-record-of-agarest-war.json](./7158-record-of-agarest-war.json) |
 | Record of Agarest War 2: Limited Edition | 44564 | [44564-record-of-agarest-war-2-limited-edition.json](./44564-record-of-agarest-war-2-limited-edition.json) |
 | Record of Agarest War Mariage | 46015 | [46015-record-of-agarest-war-mariage.json](./46015-record-of-agarest-war-mariage.json) |
+| Record of Agarest War Zero | 7157 | [7157-record-of-agarest-war-zero.json](./7157-record-of-agarest-war-zero.json) |
 | Record of Agarest War Zero: Limited Edition | 43959 | [43959-record-of-agarest-war-zero-limited-edition.json](./43959-record-of-agarest-war-zero-limited-edition.json) |
 | Record of Agarest War: Limited Edition | 261541 | [261541-record-of-agarest-war-limited-edition.json](./261541-record-of-agarest-war-limited-edition.json) |
 | Record of Battle 3D Maiden Wars | 166209 | [166209-record-of-battle-3d-maiden-wars.json](./166209-record-of-battle-3d-maiden-wars.json) |
@@ -9476,6 +9478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPGHub | 125905 | [125905-rpghub.json](./125905-rpghub.json) |
 | RPGirl | 297210 | [297210-rpgirl.json](./297210-rpgirl.json) |
 | RPGolf | 98161 | [98161-rpgolf.json](./98161-rpgolf.json) |
+| RPGolf Legends | 151813 | [151813-rpgolf-legends.json](./151813-rpgolf-legends.json) |
 | RPM Racing | 42466 | [42466-rpm-racing.json](./42466-rpm-racing.json) |
 | RPS Duel | 366932 | [366932-rps-duel.json](./366932-rps-duel.json) |
 | RPS Hunger | 371426 | [371426-rps-hunger.json](./371426-rps-hunger.json) |
