@@ -2970,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3020,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures on The Polluted Islands | 27721 | [27721-adventures-on-the-polluted-islands.json](./27721-adventures-on-the-polluted-islands.json) |
 | Adventures With a Girl | 168602 | [168602-adventures-with-a-girl.json](./168602-adventures-with-a-girl.json) |
 | Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
+| Adventures With Anxiety! | 141645 | [141645-adventures-with-anxiety.json](./141645-adventures-with-anxiety.json) |
 | Adventures with Barbie: Ocean Discovery | 19403 | [19403-adventures-with-barbie-ocean-discovery.json](./19403-adventures-with-barbie-ocean-discovery.json) |
 | Adventures With Oslo: Tools and Gadgets | 206095 | [206095-adventures-with-oslo-tools-and-gadgets.json](./206095-adventures-with-oslo-tools-and-gadgets.json) |
 | Adventures With Oslo: World of Water | 262400 | [262400-adventures-with-oslo-world-of-water.json](./262400-adventures-with-oslo-world-of-water.json) |
@@ -10227,6 +10229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Master | 202866 | [202866-arcade-master.json](./202866-arcade-master.json) |
 | Arcade Master | 206139 | [206139-arcade-master.json](./206139-arcade-master.json) |
 | Arcade Master Deluxe | 202867 | [202867-arcade-master-deluxe.json](./202867-arcade-master-deluxe.json) |
+| Arcade Moonlander | 74360 | [74360-arcade-moonlander.json](./74360-arcade-moonlander.json) |
 | Arcade Motion Classic | 230835 | [230835-arcade-motion-classic.json](./230835-arcade-motion-classic.json) |
 | Arcade Muscle | 73136 | [73136-arcade-muscle.json](./73136-arcade-muscle.json) |
 | Arcade Nano Sonic | 202868 | [202868-arcade-nano-sonic.json](./202868-arcade-nano-sonic.json) |
@@ -13318,6 +13321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Ultimate Edition | 199870 | [199870-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-ultimate-edition.json](./199870-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-ultimate-edition.json) |
 | Atelier Sophie: The Alchemist of the Mysterious Book | 12633 | [12633-atelier-sophie-the-alchemist-of-the-mysterious-book.json](./12633-atelier-sophie-the-alchemist-of-the-mysterious-book.json) |
 | Atelier Sophie: The Alchemist of the Mysterious Book - Limited Edition | 384887 | [384887-atelier-sophie-the-alchemist-of-the-mysterious-book-limited-edition.json](./384887-atelier-sophie-the-alchemist-of-the-mysterious-book-limited-edition.json) |
+| Atelier Sophie: The Alchemist of the Mysterious Book DX | 143280 | [143280-atelier-sophie-the-alchemist-of-the-mysterious-book-dx.json](./143280-atelier-sophie-the-alchemist-of-the-mysterious-book-dx.json) |
 | Atelier Tia | 169739 | [169739-atelier-tia.json](./169739-atelier-tia.json) |
 | Atelier Totori: The Adventurer of Arland | 7276 | [7276-atelier-totori-the-adventurer-of-arland.json](./7276-atelier-totori-the-adventurer-of-arland.json) |
 | Atelier Totori: The Adventurer of Arland DX | 105030 | [105030-atelier-totori-the-adventurer-of-arland-dx.json](./105030-atelier-totori-the-adventurer-of-arland-dx.json) |
@@ -14493,6 +14497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Away Team | 349503 | [349503-away-team.json](./349503-away-team.json) |
 | Away: Journey to the Unexpected | 27443 | [27443-away-journey-to-the-unexpected.json](./27443-away-journey-to-the-unexpected.json) |
 | Away: Shuffle Dungeon | 21332 | [21332-away-shuffle-dungeon.json](./21332-away-shuffle-dungeon.json) |
+| Away: The Survival Series | 71457 | [71457-away-the-survival-series.json](./71457-away-the-survival-series.json) |
 | Awaysis | 348231 | [348231-awaysis.json](./348231-awaysis.json) |
 | Awe | 20352 | [20352-awe.json](./20352-awe.json) |
 | Awe | 284564 | [284564-awe.json](./284564-awe.json) |
