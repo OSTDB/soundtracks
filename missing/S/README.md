@@ -6607,6 +6607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Koihime Musou: Kakumei - Ryuuki no Taimou | 127338 | [127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json](./127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json) |
 | Shin Koihime Musou: Otome Ryouran Sangokushi Engi | 65898 | [65898-shin-koihime-musou-otome-ryouran-sangokushi-engi.json](./65898-shin-koihime-musou-otome-ryouran-sangokushi-engi.json) |
 | Shin Lucky Star Moe Drill: Tabidachi | 72619 | [72619-shin-lucky-star-moe-drill-tabidachi.json](./72619-shin-lucky-star-moe-drill-tabidachi.json) |
+| Shin Mahjong | 38129 | [38129-shin-mahjong.json](./38129-shin-mahjong.json) |
 | Shin Mahjong Tenka Fubu | 188085 | [188085-shin-mahjong-tenka-fubu.json](./188085-shin-mahjong-tenka-fubu.json) |
 | Shin Maou Golvellius | 125814 | [125814-shin-maou-golvellius.json](./125814-shin-maou-golvellius.json) |
 | Shin Maru Goukaku: Shikaku Dasshu! IT Passport Shiken, Kihon Jouhou Gijutsusha Shiken, Ouyou Jouhou Gijutsusha Shiken | 269614 | [269614-shin-maru-goukaku-shikaku-dasshu-it-passport-shiken-kihon-jouhou-gijutsusha-shiken-ouyou-jouhou-gijutsusha-shiken.json](./269614-shin-maru-goukaku-shikaku-dasshu-it-passport-shiken-kihon-jouhou-gijutsusha-shiken-ouyou-jouhou-gijutsusha-shiken.json) |
@@ -12841,6 +12842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban Land DX | 44206 | [44206-sokoban-land-dx.json](./44206-sokoban-land-dx.json) |
 | Sokoban Next | 99478 | [99478-sokoban-next.json](./99478-sokoban-next.json) |
 | Sokoban World | 308565 | [308565-sokoban-world.json](./308565-sokoban-world.json) |
+| Sokoban World | 38102 | [38102-sokoban-world.json](./38102-sokoban-world.json) |
 | Sokoban World 2 | 311344 | [311344-sokoban-world-2.json](./311344-sokoban-world-2.json) |
 | Sokoban: Bunny Tales | 168220 | [168220-sokoban-bunny-tales.json](./168220-sokoban-bunny-tales.json) |
 | Sokoban: The RPG | 107767 | [107767-sokoban-the-rpg.json](./107767-sokoban-the-rpg.json) |
@@ -24788,6 +24790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Firefighter | 363160 | [363160-super-firefighter.json](./363160-super-firefighter.json) |
 | Super Fish Bets | 399178 | [399178-super-fish-bets.json](./399178-super-fish-bets.json) |
 | Super Fishermind | 266139 | [266139-super-fishermind.json](./266139-super-fishermind.json) |
+| Super Fishing: Big Fight | 38109 | [38109-super-fishing-big-fight.json](./38109-super-fishing-big-fight.json) |
 | Super Flail | 105387 | [105387-super-flail.json](./105387-super-flail.json) |
 | Super Flappy Golf | 346724 | [346724-super-flappy-golf.json](./346724-super-flappy-golf.json) |
 | Super Flash Mario Bros. | 302759 | [302759-super-flash-mario-bros.json](./302759-super-flash-mario-bros.json) |
