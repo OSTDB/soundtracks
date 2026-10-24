@@ -1328,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2010 FIFA World Cup South Africa | 240361 | [240361-2010-fifa-world-cup-south-africa.json](./240361-2010-fifa-world-cup-south-africa.json) |
 | 2010 FIFA World Cup South Africa | 240362 | [240362-2010-fifa-world-cup-south-africa.json](./240362-2010-fifa-world-cup-south-africa.json) |
 | 2010 FIFA World Cup South Africa | 240363 | [240363-2010-fifa-world-cup-south-africa.json](./240363-2010-fifa-world-cup-south-africa.json) |
+| 2010 FIFA World Cup South Africa | 4655 | [4655-2010-fifa-world-cup-south-africa.json](./4655-2010-fifa-world-cup-south-africa.json) |
 | 2010: The Graphic Action Game | 12290 | [12290-2010-the-graphic-action-game.json](./12290-2010-the-graphic-action-game.json) |
 | 2010: The Text Adventure Game | 75229 | [75229-2010-the-text-adventure-game.json](./75229-2010-the-text-adventure-game.json) |
 | 2012 Apocalypse | 141518 | [141518-2012-apocalypse.json](./141518-2012-apocalypse.json) |
@@ -1405,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048x2048 | 358070 | [358070-2048x2048.json](./358070-2048x2048.json) |
 | 206 | 186710 | [186710-206.json](./186710-206.json) |
 | 2060 Cyber Racer | 91709 | [91709-2060-cyber-racer.json](./91709-2060-cyber-racer.json) |
+| 2064: Read Only Memories | 13171 | [13171-2064-read-only-memories.json](./13171-2064-read-only-memories.json) |
 | 2064: Read Only Memories Integral | 84927 | [84927-2064-read-only-memories-integral.json](./84927-2064-read-only-memories-integral.json) |
 | 2069 AD | 98267 | [98267-2069-ad.json](./98267-2069-ad.json) |
 | 2080 Apocalypse | 197565 | [197565-2080-apocalypse.json](./197565-2080-apocalypse.json) |
@@ -2621,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-in-1 Games | 247011 | [247011-8-in-1-games.json](./247011-8-in-1-games.json) |
 | 8-in-1 IQ Scale Bundle | 81896 | [81896-8-in-1-iq-scale-bundle.json](./81896-8-in-1-iq-scale-bundle.json) |
 | 8:00 AM: Still Morning | 394616 | [394616-8-00-am-still-morning.json](./394616-8-00-am-still-morning.json) |
+| 80 Days | 9053 | [9053-80-days.json](./9053-80-days.json) |
 | 80 Days & Overboard! | 212873 | [212873-80-days-and-overboard.json](./212873-80-days-and-overboard.json) |
 | 80.08 | 54444 | [54444-80-08.json](./54444-80-08.json) |
 | 80's BASIC Games | 313458 | [313458-80s-basic-games.json](./313458-80s-basic-games.json) |
