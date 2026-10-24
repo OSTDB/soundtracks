@@ -8322,6 +8322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | clock out. | 310963 | [310963-clock-out.json](./310963-clock-out.json) |
 | Clock Overwhelmed | 152800 | [152800-clock-overwhelmed.json](./152800-clock-overwhelmed.json) |
 | Clock Rogue | 295004 | [295004-clock-rogue.json](./295004-clock-rogue.json) |
+| Clock Simulator | 32083 | [32083-clock-simulator.json](./32083-clock-simulator.json) |
 | Clock Smith | 233539 | [233539-clock-smith.json](./233539-clock-smith.json) |
 | Clock Ticker | 253989 | [253989-clock-ticker.json](./253989-clock-ticker.json) |
 | Clock Tower | 18718 | [18718-clock-tower.json](./18718-clock-tower.json) |
@@ -11813,6 +11814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Party | 11600 | [11600-corpse-party.json](./11600-corpse-party.json) |
 | Corpse Party | 178111 | [178111-corpse-party.json](./178111-corpse-party.json) |
 | Corpse Party | 21843 | [21843-corpse-party.json](./21843-corpse-party.json) |
+| Corpse Party 2: Dead Patient | 11601 | [11601-corpse-party-2-dead-patient.json](./11601-corpse-party-2-dead-patient.json) |
 | Corpse Party D2: Depths of Despair | 170023 | [170023-corpse-party-d2-depths-of-despair.json](./170023-corpse-party-d2-depths-of-despair.json) |
 | Corpse Party II: Darkness Distortion | 261147 | [261147-corpse-party-ii-darkness-distortion.json](./261147-corpse-party-ii-darkness-distortion.json) |
 | Corpse Party II: Darkness Distortion – Ayame's Mercy Limited Edition | 294812 | [294812-corpse-party-ii-darkness-distortion-ayames-mercy-limited-edition.json](./294812-corpse-party-ii-darkness-distortion-ayames-mercy-limited-edition.json) |
@@ -14957,6 +14959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Chaser: Tenkuu no Masuishou | 402986 | [402986-crystal-chaser-tenkuu-no-masuishou.json](./402986-crystal-chaser-tenkuu-no-masuishou.json) |
 | Crystal Chaser: Tenkuu no Masuishou - R | 402994 | [402994-crystal-chaser-tenkuu-no-masuishou-r.json](./402994-crystal-chaser-tenkuu-no-masuishou-r.json) |
 | Crystal Chip Collector e | 277248 | [277248-crystal-chip-collector-e.json](./277248-crystal-chip-collector-e.json) |
+| Crystal City | 32639 | [32639-crystal-city.json](./32639-crystal-city.json) |
 | Crystal Clash | 185954 | [185954-crystal-clash.json](./185954-crystal-clash.json) |
 | Crystal Clear | 129587 | [129587-crystal-clear.json](./129587-crystal-clear.json) |
 | Crystal Clear, Mail's Here | 390156 | [390156-crystal-clear-mails-here.json](./390156-crystal-clear-mails-here.json) |
@@ -15225,6 +15228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Decider | 203966 | [203966-cube-decider.json](./203966-cube-decider.json) |
 | Cube Defender 2000 | 110123 | [110123-cube-defender-2000.json](./110123-cube-defender-2000.json) |
 | Cube Defense | 113574 | [113574-cube-defense.json](./113574-cube-defense.json) |
+| Cube Destroyer | 33577 | [33577-cube-destroyer.json](./33577-cube-destroyer.json) |
 | Cube DOA | 120363 | [120363-cube-doa.json](./120363-cube-doa.json) |
 | Cube Dodger 3D | 384821 | [384821-cube-dodger-3d.json](./384821-cube-dodger-3d.json) |
 | Cube Droid Holiday Special | 360110 | [360110-cube-droid-holiday-special.json](./360110-cube-droid-holiday-special.json) |
@@ -15825,6 +15829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CurseBreaker | 302790 | [302790-cursebreaker.json](./302790-cursebreaker.json) |
 | Cursebreakers | 416810 | [416810-cursebreakers.json](./416810-cursebreakers.json) |
 | Cursed | 230251 | [230251-cursed.json](./230251-cursed.json) |
+| Cursed | 33842 | [33842-cursed.json](./33842-cursed.json) |
 | Cursed | 343603 | [343603-cursed.json](./343603-cursed.json) |
 | Cursed | 376637 | [376637-cursed.json](./376637-cursed.json) |
 | Cursed 2 | 196786 | [196786-cursed-2.json](./196786-cursed-2.json) |
