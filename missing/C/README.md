@@ -5079,6 +5079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheery Soccer | 196620 | [196620-cheery-soccer.json](./196620-cheery-soccer.json) |
 | Cheese Banquet Advanced | 294695 | [294695-cheese-banquet-advanced.json](./294695-cheese-banquet-advanced.json) |
 | Cheese Bit | 412971 | [412971-cheese-bit.json](./412971-cheese-bit.json) |
+| Cheese Cat-Astrophe starring Speedy Gonzales | 4460 | [4460-cheese-cat-astrophe-starring-speedy-gonzales.json](./4460-cheese-cat-astrophe-starring-speedy-gonzales.json) |
 | Cheese Co-op Clicker Simulator | 312453 | [312453-cheese-co-op-clicker-simulator.json](./312453-cheese-co-op-clicker-simulator.json) |
 | Cheese Dreams | 220555 | [220555-cheese-dreams.json](./220555-cheese-dreams.json) |
 | Cheese Dreams | 378974 | [378974-cheese-dreams.json](./378974-cheese-dreams.json) |
@@ -5470,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chezz | 56445 | [56445-chezz.json](./56445-chezz.json) |
 | Chi | 301424 | [301424-chi.json](./301424-chi.json) |
 | Chi Busters | 111738 | [111738-chi-busters.json](./111738-chi-busters.json) |
+| Chi Chi's Pro Challenge Golf | 4442 | [4442-chi-chis-pro-challenge-golf.json](./4442-chi-chis-pro-challenge-golf.json) |
 | Chi Ninja | 242036 | [242036-chi-ninja.json](./242036-chi-ninja.json) |
 | Chi Project | 324315 | [324315-chi-project.json](./324315-chi-project.json) |
 | Chiaroscuro | 138739 | [138739-chiaroscuro.json](./138739-chiaroscuro.json) |
@@ -15653,6 +15655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curry House CoCo Ichibanya: Kyou mo Genki da! Curry ga Umai!! | 138550 | [138550-curry-house-coco-ichibanya-kyou-mo-genki-da-curry-ga-umai.json](./138550-curry-house-coco-ichibanya-kyou-mo-genki-da-curry-ga-umai.json) |
 | CurryKitten FPV Simulator | 169443 | [169443-currykitten-fpv-simulator.json](./169443-currykitten-fpv-simulator.json) |
 | Curse | 31822 | [31822-curse.json](./31822-curse.json) |
+| Curse | 4448 | [4448-curse.json](./4448-curse.json) |
 | Curse Ahoy! | 176305 | [176305-curse-ahoy.json](./176305-curse-ahoy.json) |
 | Curse Chapter: Dawnthief | 382365 | [382365-curse-chapter-dawnthief.json](./382365-curse-chapter-dawnthief.json) |
 | Curse Crackers: For Whom the Belle Toils | 172413 | [172413-curse-crackers-for-whom-the-belle-toils.json](./172413-curse-crackers-for-whom-the-belle-toils.json) |
