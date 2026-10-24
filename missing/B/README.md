@@ -2692,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Forever | 77237 | [77237-batman-forever.json](./77237-batman-forever.json) |
 | Batman Forever | 7769 | [7769-batman-forever.json](./7769-batman-forever.json) |
 | Batman Forever: The Arcade Game | 45202 | [45202-batman-forever-the-arcade-game.json](./45202-batman-forever-the-arcade-game.json) |
+| Batman Returns | 121244 | [121244-batman-returns.json](./121244-batman-returns.json) |
 | Batman Returns | 200153 | [200153-batman-returns.json](./200153-batman-returns.json) |
 | Batman Returns | 343294 | [343294-batman-returns.json](./343294-batman-returns.json) |
 | Batman Returns | 4379 | [4379-batman-returns.json](./4379-batman-returns.json) |
@@ -2791,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battal Gazi: Stone of Yada | 172991 | [172991-battal-gazi-stone-of-yada.json](./172991-battal-gazi-stone-of-yada.json) |
 | Battalion Commander | 26289 | [26289-battalion-commander.json](./26289-battalion-commander.json) |
 | Battalion Commander | 27128 | [27128-battalion-commander.json](./27128-battalion-commander.json) |
+| Battalion Legacy | 17446 | [17446-battalion-legacy.json](./17446-battalion-legacy.json) |
 | Battalion Wars | 3797 | [3797-battalion-wars.json](./3797-battalion-wars.json) |
 | Battalion: Ghosts | 387067 | [387067-battalion-ghosts.json](./387067-battalion-ghosts.json) |
 | Battalion: Vengeance | 387069 | [387069-battalion-vengeance.json](./387069-battalion-vengeance.json) |
@@ -3461,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefleet Gothic: Armada 2 - Complete Edition | 154949 | [154949-battlefleet-gothic-armada-2-complete-edition.json](./154949-battlefleet-gothic-armada-2-complete-edition.json) |
 | Battlefleet Gothic: Armada 2 - Deluxe Edition | 186340 | [186340-battlefleet-gothic-armada-2-deluxe-edition.json](./186340-battlefleet-gothic-armada-2-deluxe-edition.json) |
 | Battlefleet Gothic: Leviathan | 34371 | [34371-battlefleet-gothic-leviathan.json](./34371-battlefleet-gothic-leviathan.json) |
+| BattleForge | 18487 | [18487-battleforge.json](./18487-battleforge.json) |
 | BattleForte | 25937 | [25937-battleforte.json](./25937-battleforte.json) |
 | Battlefront | 28708 | [28708-battlefront.json](./28708-battlefront.json) |
 | Battlefront Expanded | 333904 | [333904-battlefront-expanded.json](./333904-battlefront-expanded.json) |
