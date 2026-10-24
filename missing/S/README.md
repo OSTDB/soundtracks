@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Revenge | 195908 | [195908-samurai-revenge.json](./195908-samurai-revenge.json) |
 | Samurai Revenge | 307606 | [307606-samurai-revenge.json](./307606-samurai-revenge.json) |
 | Samurai Revenge 2 | 241509 | [241509-samurai-revenge-2.json](./241509-samurai-revenge-2.json) |
+| Samurai Riot | 52255 | [52255-samurai-riot.json](./52255-samurai-riot.json) |
 | Samurai Riot: Definitive Edition | 227189 | [227189-samurai-riot-definitive-edition.json](./227189-samurai-riot-definitive-edition.json) |
 | Samurai Rising | 214129 | [214129-samurai-rising.json](./214129-samurai-rising.json) |
 | Samurai Saga | 55910 | [55910-samurai-saga.json](./55910-samurai-saga.json) |
@@ -5783,6 +5784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shake Ground | 202659 | [202659-shake-ground.json](./202659-shake-ground.json) |
 | Shake it up! Dice | 228296 | [228296-shake-it-up-dice.json](./228296-shake-it-up-dice.json) |
 | Shake Kids | 108959 | [108959-shake-kids.json](./108959-shake-kids.json) |
+| Shake Spears! | 52795 | [52795-shake-spears.json](./52795-shake-spears.json) |
 | Shake That Controller! | 118702 | [118702-shake-that-controller.json](./118702-shake-that-controller.json) |
 | Shake the Baby! | 337068 | [337068-shake-the-baby.json](./337068-shake-the-baby.json) |
 | Shake Your Body | 128317 | [128317-shake-your-body.json](./128317-shake-your-body.json) |
@@ -9224,6 +9226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Afrikaanse Treffers | 15439 | [15439-singstar-afrikaanse-treffers.json](./15439-singstar-afrikaanse-treffers.json) |
 | SingStar: Back to the 80s | 15195 | [15195-singstar-back-to-the-80s.json](./15195-singstar-back-to-the-80s.json) |
 | SingStar: Cantautori Italiani | 15440 | [15440-singstar-cantautori-italiani.json](./15440-singstar-cantautori-italiani.json) |
+| SingStar: Celebration | 52828 | [52828-singstar-celebration.json](./52828-singstar-celebration.json) |
 | SingStar: Chart Hits | 15192 | [15192-singstar-chart-hits.json](./15192-singstar-chart-hits.json) |
 | SingStar: Chartbreaker | 136395 | [136395-singstar-chartbreaker.json](./136395-singstar-chartbreaker.json) |
 | SingStar: Deutsch Rock-Pop | 144150 | [144150-singstar-deutsch-rock-pop.json](./144150-singstar-deutsch-rock-pop.json) |
@@ -21582,6 +21585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steve - The Jumping Dinosaur! | 103854 | [103854-steve-the-jumping-dinosaur.json](./103854-steve-the-jumping-dinosaur.json) |
 | Steve Davis Snooker | 45323 | [45323-steve-davis-snooker.json](./45323-steve-davis-snooker.json) |
 | Steve Davis World Snooker | 12928 | [12928-steve-davis-world-snooker.json](./12928-steve-davis-world-snooker.json) |
+| Steve Jackson's Sorcery!: The Complete Collection | 53672 | [53672-steve-jacksons-sorcery-the-complete-collection.json](./53672-steve-jacksons-sorcery-the-complete-collection.json) |
 | Steve Magal: Fists of Brutal Truth | 341888 | [341888-steve-magal-fists-of-brutal-truth.json](./341888-steve-magal-fists-of-brutal-truth.json) |
 | Steve Reich’s Clapping Music | 312322 | [312322-steve-reich-s-clapping-music.json](./312322-steve-reich-s-clapping-music.json) |
 | Steve RPG | 209380 | [209380-steve-rpg.json](./209380-steve-rpg.json) |
@@ -27537,6 +27541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Ruler 2030 | 219574 | [219574-supreme-ruler-2030.json](./219574-supreme-ruler-2030.json) |
 | Supreme Ruler Global Outbreak | 296999 | [296999-supreme-ruler-global-outbreak.json](./296999-supreme-ruler-global-outbreak.json) |
 | Supreme Ruler Plus | 80641 | [80641-supreme-ruler-plus.json](./80641-supreme-ruler-plus.json) |
+| Supreme Ruler the Great War | 37390 | [37390-supreme-ruler-the-great-war.json](./37390-supreme-ruler-the-great-war.json) |
 | Supreme Ruler The Great War Remastered | 277933 | [277933-supreme-ruler-the-great-war-remastered.json](./277933-supreme-ruler-the-great-war-remastered.json) |
 | Supreme Ruler The Great War Remastered DLC | 277931 | [277931-supreme-ruler-the-great-war-remastered-dlc.json](./277931-supreme-ruler-the-great-war-remastered-dlc.json) |
 | Supreme Ruler Ultimate | 36269 | [36269-supreme-ruler-ultimate.json](./36269-supreme-ruler-ultimate.json) |
