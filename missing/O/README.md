@@ -2250,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onechanbara Origin: Exclusive Saki Bonus Mission - A Shitty Father | 167901 | [167901-onechanbara-origin-exclusive-saki-bonus-mission-a-shitty-father.json](./167901-onechanbara-origin-exclusive-saki-bonus-mission-a-shitty-father.json) |
 | Onechanbara Origin: Exclusive Saki Bonus Mission - Fight to the Death | 167899 | [167899-onechanbara-origin-exclusive-saki-bonus-mission-fight-to-the-death.json](./167899-onechanbara-origin-exclusive-saki-bonus-mission-fight-to-the-death.json) |
 | Onechanbara Z: Kagura With NoNoNo! | 116359 | [116359-onechanbara-z-kagura-with-nonono.json](./116359-onechanbara-z-kagura-with-nonono.json) |
+| Onechanbara Z2: Chaos | 11004 | [11004-onechanbara-z2-chaos.json](./11004-onechanbara-z2-chaos.json) |
 | Onechanbara Z2: Chaos - Black Rose | 343606 | [343606-onechanbara-z2-chaos-black-rose.json](./343606-onechanbara-z2-chaos-black-rose.json) |
 | OneDayOne | 341505 | [341505-onedayone.json](./341505-onedayone.json) |
 | Onee Chanbara Origin | 139921 | [139921-onee-chanbara-origin.json](./139921-onee-chanbara-origin.json) |
