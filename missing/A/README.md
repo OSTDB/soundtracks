@@ -2970,7 +2970,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -14162,6 +14161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avadon 3: Hint Book & Extras | 51710 | [51710-avadon-3-hint-book-and-extras.json](./51710-avadon-3-hint-book-and-extras.json) |
 | Avadon 3: The Warborn | 23241 | [23241-avadon-3-the-warborn.json](./23241-avadon-3-the-warborn.json) |
 | Avadon 3: The Warborn - Deluxe Edition | 52621 | [52621-avadon-3-the-warborn-deluxe-edition.json](./52621-avadon-3-the-warborn-deluxe-edition.json) |
+| Avadon: The Black Fortress | 7407 | [7407-avadon-the-black-fortress.json](./7407-avadon-the-black-fortress.json) |
 | Avakin Life | 86966 | [86966-avakin-life.json](./86966-avakin-life.json) |
 | Avalanche | 46840 | [46840-avalanche.json](./46840-avalanche.json) |
 | Avalanche Escape | 313554 | [313554-avalanche-escape.json](./313554-avalanche-escape.json) |
@@ -14304,6 +14304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AvengeXX | 118836 | [118836-avengexx.json](./118836-avengexx.json) |
 | Avenging Angel | 35309 | [35309-avenging-angel.json](./35309-avenging-angel.json) |
 | Avenging Angel Hikari Akeldama | 386973 | [386973-avenging-angel-hikari-akeldama.json](./386973-avenging-angel-hikari-akeldama.json) |
+| Avenging Spirit | 7762 | [7762-avenging-spirit.json](./7762-avenging-spirit.json) |
 | Avenir Tower | 332414 | [332414-avenir-tower.json](./332414-avenir-tower.json) |
 | Aventador Drift Simulator 2 | 104649 | [104649-aventador-drift-simulator-2.json](./104649-aventador-drift-simulator-2.json) |
 | Aventarium | 99127 | [99127-aventarium.json](./99127-aventarium.json) |
