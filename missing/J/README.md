@@ -673,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JASBIAC | 302619 | [302619-jasbiac.json](./302619-jasbiac.json) |
 | Jaseiken Necromancer 2 | 412787 | [412787-jaseiken-necromancer-2.json](./412787-jaseiken-necromancer-2.json) |
 | JASEM: Just Another Shooter with Electronic Music | 29109 | [29109-jasem-just-another-shooter-with-electronic-music.json](./29109-jasem-just-another-shooter-with-electronic-music.json) |
+| JASF: Jane's Advanced Strike Fighters | 7022 | [7022-jasf-janes-advanced-strike-fighters.json](./7022-jasf-janes-advanced-strike-fighters.json) |
 | Jash | 187443 | [187443-jash.json](./187443-jash.json) |
 | Jashinchan: 7th Devil | 178330 | [178330-jashinchan-7th-devil.json](./178330-jashinchan-7th-devil.json) |
 | Jasmine | 321735 | [321735-jasmine.json](./321735-jasmine.json) |
