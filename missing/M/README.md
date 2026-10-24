@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Fable | 270037 | [270037-machine-fable.json](./270037-machine-fable.json) |
 | Machine Gun Knight | 387025 | [387025-machine-gun-knight.json](./387025-machine-gun-knight.json) |
 | Machine Gun Mages | 221751 | [221751-machine-gun-mages.json](./221751-machine-gun-mages.json) |
+| Machine Gun Train Run | 33880 | [33880-machine-gun-train-run.json](./33880-machine-gun-train-run.json) |
 | Machine Head | 43762 | [43762-machine-head.json](./43762-machine-head.json) |
 | Machine Heart | 248897 | [248897-machine-heart.json](./248897-machine-heart.json) |
 | Machine Hell | 94256 | [94256-machine-hell.json](./94256-machine-hell.json) |
@@ -5118,6 +5119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazeman | 172396 | [172396-mazeman.json](./172396-mazeman.json) |
 | Mazeman | 174276 | [174276-mazeman.json](./174276-mazeman.json) |
 | MazeMaze | 253478 | [253478-mazemaze.json](./253478-mazemaze.json) |
+| Mazement | 33800 | [33800-mazement.json](./33800-mazement.json) |
 | Mazemerizzz II | 389997 | [389997-mazemerizzz-ii.json](./389997-mazemerizzz-ii.json) |
 | Mazepocalypse | 264580 | [264580-mazepocalypse.json](./264580-mazepocalypse.json) |
 | MazeQuest 2 | 109641 | [109641-mazequest-2.json](./109641-mazequest-2.json) |
@@ -10636,6 +10638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minty Monkey | 307098 | [307098-minty-monkey.json](./307098-minty-monkey.json) |
 | Minubeat | 199083 | [199083-minubeat.json](./199083-minubeat.json) |
 | Minus Nine | 396014 | [396014-minus-nine.json](./396014-minus-nine.json) |
+| Minus Zero | 33835 | [33835-minus-zero.json](./33835-minus-zero.json) |
 | Minuse | 368361 | [368361-minuse.json](./368361-minuse.json) |
 | Minute | 266090 | [266090-minute.json](./266090-minute.json) |
 | Minute Cryptic | 356194 | [356194-minute-cryptic.json](./356194-minute-cryptic.json) |
@@ -17280,6 +17283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: The Riddle of Mrs. Bishop | 360051 | [360051-mystery-case-files-the-riddle-of-mrs-bishop.json](./360051-mystery-case-files-the-riddle-of-mrs-bishop.json) |
 | Mystery Case Files: The Riddle of Mrs. Bishop - Collector's Edition | 360039 | [360039-mystery-case-files-the-riddle-of-mrs-bishop-collectors-edition.json](./360039-mystery-case-files-the-riddle-of-mrs-bishop-collectors-edition.json) |
 | Mystery Castle | 19889 | [19889-mystery-castle.json](./19889-mystery-castle.json) |
+| Mystery Castle: The Mirror's Secret | 33873 | [33873-mystery-castle-the-mirrors-secret.json](./33873-mystery-castle-the-mirrors-secret.json) |
 | Mystery Cat | 257519 | [257519-mystery-cat.json](./257519-mystery-cat.json) |
 | Mystery Channel | 269502 | [269502-mystery-channel.json](./269502-mystery-channel.json) |
 | Mystery Chronicles: Murder Among Friends | 64727 | [64727-mystery-chronicles-murder-among-friends.json](./64727-mystery-chronicles-murder-among-friends.json) |
