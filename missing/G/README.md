@@ -1882,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntlet Legends | 322267 | [322267-gauntlet-legends.json](./322267-gauntlet-legends.json) |
 | Gauntlet Legends | 322268 | [322268-gauntlet-legends.json](./322268-gauntlet-legends.json) |
 | Gauntlet Legends | 322269 | [322269-gauntlet-legends.json](./322269-gauntlet-legends.json) |
+| Gauntlet Legends | 3501 | [3501-gauntlet-legends.json](./3501-gauntlet-legends.json) |
 | Gauntlet: Slayer Edition | 20044 | [20044-gauntlet-slayer-edition.json](./20044-gauntlet-slayer-edition.json) |
 | Gauntlet: Slayer Edition - Lilith the Necromancer Pack | 226429 | [226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json](./226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json) |
 | Gauntlet: The Deeper Dungeons | 37164 | [37164-gauntlet-the-deeper-dungeons.json](./37164-gauntlet-the-deeper-dungeons.json) |
@@ -4813,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God's One Day World | 90582 | [90582-gods-one-day-world.json](./90582-gods-one-day-world.json) |
 | God's Plan | 291867 | [291867-gods-plan.json](./291867-gods-plan.json) |
 | God's Playing Field | 210663 | [210663-gods-playing-field.json](./210663-gods-playing-field.json) |
+| God's Trigger | 55039 | [55039-gods-trigger.json](./55039-gods-trigger.json) |
 | God's Trigger: O.M.G. Edition | 154548 | [154548-gods-trigger-o-m-g-edition.json](./154548-gods-trigger-o-m-g-edition.json) |
 | God(s) | 128433 | [128433-god-s.json](./128433-god-s.json) |
 | God5 | 174763 | [174763-god5.json](./174763-god5.json) |
