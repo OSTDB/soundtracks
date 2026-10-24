@@ -1661,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolution of the Dead | 345661 | [345661-absolution-of-the-dead.json](./345661-absolution-of-the-dead.json) |
 | Absolved | 389697 | [389697-absolved.json](./389697-absolved.json) |
 | Absolver: Deluxe Edition | 52555 | [52555-absolver-deluxe-edition.json](./52555-absolver-deluxe-edition.json) |
+| Absolver: Downfall | 105421 | [105421-absolver-downfall.json](./105421-absolver-downfall.json) |
 | Absolver: Special Reserve edition | 74318 | [74318-absolver-special-reserve-edition.json](./74318-absolver-special-reserve-edition.json) |
 | Absorb | 219698 | [219698-absorb.json](./219698-absorb.json) |
 | Absorb Invader | 303328 | [303328-absorb-invader.json](./303328-absorb-invader.json) |
@@ -2963,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -9711,6 +9713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arafinn Kontor | 203850 | [203850-arafinn-kontor.json](./203850-arafinn-kontor.json) |
 | Aragami: Collector's Edition | 38489 | [38489-aragami-collectors-edition.json](./38489-aragami-collectors-edition.json) |
 | Aragami: Nightfall | 96020 | [96020-aragami-nightfall.json](./96020-aragami-nightfall.json) |
+| Aragami: Shadow Edition | 100437 | [100437-aragami-shadow-edition.json](./100437-aragami-shadow-edition.json) |
 | Araha : Curse of Yieun Island | 126347 | [126347-araha-curse-of-yieun-island.json](./126347-araha-curse-of-yieun-island.json) |
 | Arai-san Mansion Exploration Game: Incarnation | 402949 | [402949-arai-san-mansion-exploration-game-incarnation.json](./402949-arai-san-mansion-exploration-game-incarnation.json) |
 | Araignees | 184529 | [184529-araignees.json](./184529-araignees.json) |
@@ -11884,6 +11887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascendshaft | 214060 | [214060-ascendshaft.json](./214060-ascendshaft.json) |
 | Ascendshaft and Endless Shaft | 144174 | [144174-ascendshaft-and-endless-shaft.json](./144174-ascendshaft-and-endless-shaft.json) |
 | Ascension | 95408 | [95408-ascension.json](./95408-ascension.json) |
+| Ascension to the Throne | 27467 | [27467-ascension-to-the-throne.json](./27467-ascension-to-the-throne.json) |
 | Ascension to the Throne: Valkyrie | 27455 | [27455-ascension-to-the-throne-valkyrie.json](./27455-ascension-to-the-throne-valkyrie.json) |
 | Ascension VR | 32106 | [32106-ascension-vr.json](./32106-ascension-vr.json) |
 | Ascension: Arenas of War | 64823 | [64823-ascension-arenas-of-war.json](./64823-ascension-arenas-of-war.json) |
