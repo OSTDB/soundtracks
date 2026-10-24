@@ -2128,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makyouden | 92122 | [92122-makyouden.json](./92122-makyouden.json) |
 | Mala Petaka | 224535 | [224535-mala-petaka.json](./224535-mala-petaka.json) |
 | Malacadabra | 229037 | [229037-malacadabra.json](./229037-malacadabra.json) |
+| Malagai | 23288 | [23288-malagai.json](./23288-malagai.json) |
 | Malasombra | 227820 | [227820-malasombra.json](./227820-malasombra.json) |
 | Malavision: The Origin | 31812 | [31812-malavision-the-origin.json](./31812-malavision-the-origin.json) |
 | Malazard: The Master of Magic | 32139 | [32139-malazard-the-master-of-magic.json](./32139-malazard-the-master-of-magic.json) |
@@ -4744,6 +4745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Headroom | 26436 | [26436-max-headroom.json](./26436-max-headroom.json) |
 | Max im All | 91589 | [91589-max-im-all.json](./91589-max-im-all.json) |
 | Max in Ghostpix | 395013 | [395013-max-in-ghostpix.json](./395013-max-in-ghostpix.json) |
+| Max Injury | 23268 | [23268-max-injury.json](./23268-max-injury.json) |
 | Max Jefht: Ace Attorney | 309986 | [309986-max-jefht-ace-attorney.json](./309986-max-jefht-ace-attorney.json) |
 | Max Magic | 45914 | [45914-max-magic.json](./45914-max-magic.json) |
 | Max Manos | 329599 | [329599-max-manos.json](./329599-max-manos.json) |
@@ -12787,6 +12789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Mayhem | 351608 | [351608-monster-mayhem.json](./351608-monster-mayhem.json) |
 | Monster Mayhem | 377338 | [377338-monster-mayhem.json](./377338-monster-mayhem.json) |
 | Monster Maze | 200336 | [200336-monster-maze.json](./200336-monster-maze.json) |
+| Monster Maze | 23302 | [23302-monster-maze.json](./23302-monster-maze.json) |
 | Monster Maze VR | 30772 | [30772-monster-maze-vr.json](./30772-monster-maze-vr.json) |
 | Monster Medic | 18236 | [18236-monster-medic.json](./18236-monster-medic.json) |
 | Monster Meltdown | 63284 | [63284-monster-meltdown.json](./63284-monster-meltdown.json) |
@@ -13667,6 +13670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphatrons Raptor | 198827 | [198827-morphatrons-raptor.json](./198827-morphatrons-raptor.json) |
 | MorphaVerse | 285714 | [285714-morphaverse.json](./285714-morphaverse.json) |
 | Morphcat Games Collection 1 | 191899 | [191899-morphcat-games-collection-1.json](./191899-morphcat-games-collection-1.json) |
+| Morphê | 23327 | [23327-morphe.json](./23327-morphe.json) |
 | Morpheus | 398019 | [398019-morpheus.json](./398019-morpheus.json) |
 | Morpheus | 40966 | [40966-morpheus.json](./40966-morpheus.json) |
 | Morpheus | 73460 | [73460-morpheus.json](./73460-morpheus.json) |
@@ -14999,6 +15003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Woodpecker | 298648 | [298648-mr-woodpecker.json](./298648-mr-woodpecker.json) |
 | Mr. Yeti's Fast Food | 179495 | [179495-mr-yetis-fast-food.json](./179495-mr-yetis-fast-food.json) |
 | Mr. Zippy is Watching | 401090 | [401090-mr-zippy-is-watching.json](./401090-mr-zippy-is-watching.json) |
+| Mr.AahH!! | 23262 | [23262-mr-aahh.json](./23262-mr-aahh.json) |
 | Mr.Addon in Sulpicius Gallus M | 187384 | [187384-mr-addon-in-sulpicius-gallus-m.json](./187384-mr-addon-in-sulpicius-gallus-m.json) |
 | Mr.Bottle and His Dream | 159548 | [159548-mr-bottle-and-his-dream.json](./159548-mr-bottle-and-his-dream.json) |
 | Mr.Chip | 297348 | [297348-mr-chip.json](./297348-mr-chip.json) |
