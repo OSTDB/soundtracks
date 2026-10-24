@@ -5656,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent 3: White Label Edition | 70336 | [70336-descent-3-white-label-edition.json](./70336-descent-3-white-label-edition.json) |
 | Descent Down Infinity | 411612 | [411612-descent-down-infinity.json](./411612-descent-down-infinity.json) |
 | Descent from Arkov's Tower | 277273 | [277273-descent-from-arkovs-tower.json](./277273-descent-from-arkovs-tower.json) |
+| Descent II | 668 | [668-descent-ii.json](./668-descent-ii.json) |
 | Descent II: The Vertigo Series | 82175 | [82175-descent-ii-the-vertigo-series.json](./82175-descent-ii-the-vertigo-series.json) |
 | Descent into Hades | 272017 | [272017-descent-into-hades.json](./272017-descent-into-hades.json) |
 | Descent Into the Abyss | 268883 | [268883-descent-into-the-abyss.json](./268883-descent-into-the-abyss.json) |
@@ -6436,6 +6437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 4: Special Edition | 20022 | [20022-devil-may-cry-4-special-edition.json](./20022-devil-may-cry-4-special-edition.json) |
 | Devil May Cry 4: Special Edition - Lady & Trish Costume Pack | 410413 | [410413-devil-may-cry-4-special-edition-lady-and-trish-costume-pack.json](./410413-devil-may-cry-4-special-edition-lady-and-trish-costume-pack.json) |
 | Devil May Cry 4: Special Edition - Super Nero/Super Dante/Super Vergil | 410412 | [410412-devil-may-cry-4-special-edition-super-nero-super-dante-super-vergil.json](./410412-devil-may-cry-4-special-edition-super-nero-super-dante-super-vergil.json) |
+| Devil May Cry 5 + Vergil | 165882 | [165882-devil-may-cry-5-vergil.json](./165882-devil-may-cry-5-vergil.json) |
 | Devil May Cry 5: Collector's Edition | 112662 | [112662-devil-may-cry-5-collectors-edition.json](./112662-devil-may-cry-5-collectors-edition.json) |
 | Devil May Cry 5: Deluxe Edition | 111750 | [111750-devil-may-cry-5-deluxe-edition.json](./111750-devil-may-cry-5-deluxe-edition.json) |
 | Devil May Cry 5: Mega Buster | 370873 | [370873-devil-may-cry-5-mega-buster.json](./370873-devil-may-cry-5-mega-buster.json) |
@@ -10023,6 +10025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Starve: Nintendo Switch Edition | 96169 | [96169-dont-starve-nintendo-switch-edition.json](./96169-dont-starve-nintendo-switch-edition.json) |
 | Don't Starve: Pocket Edition | 86925 | [86925-dont-starve-pocket-edition.json](./86925-dont-starve-pocket-edition.json) |
 | Don't Starve: Reign of Giants | 52177 | [52177-dont-starve-reign-of-giants.json](./52177-dont-starve-reign-of-giants.json) |
+| Don't Starve: Shipwrecked | 88917 | [88917-dont-starve-shipwrecked.json](./88917-dont-starve-shipwrecked.json) |
 | Don't Steal My Christmas! | 235271 | [235271-dont-steal-my-christmas.json](./235271-dont-steal-my-christmas.json) |
 | Don't Stop | 106139 | [106139-dont-stop.json](./106139-dont-stop.json) |
 | Don't Stop | 253214 | [253214-dont-stop.json](./253214-dont-stop.json) |
@@ -10428,6 +10431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 2 the Way id Did | 141066 | [141066-doom-2-the-way-id-did.json](./141066-doom-2-the-way-id-did.json) |
 | Doom 2: The Way We Remember It | 252032 | [252032-doom-2-the-way-we-remember-it.json](./252032-doom-2-the-way-we-remember-it.json) |
 | Doom 2D | 89509 | [89509-doom-2d.json](./89509-doom-2d.json) |
+| Doom 3 | 211243 | [211243-doom-3.json](./211243-doom-3.json) |
 | Doom 3: 2553 | 411719 | [411719-doom-3-2553.json](./411719-doom-3-2553.json) |
 | Doom 3: BFG Edition | 6968 | [6968-doom-3-bfg-edition.json](./6968-doom-3-bfg-edition.json) |
 | Doom 3: Hard Corps | 196016 | [196016-doom-3-hard-corps.json](./196016-doom-3-hard-corps.json) |
