@@ -2037,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eliminator | 154329 | [154329-eliminator.json](./154329-eliminator.json) |
 | Eliminator | 354648 | [354648-eliminator.json](./354648-eliminator.json) |
 | Eliminator | 81465 | [81465-eliminator.json](./81465-eliminator.json) |
+| Eliminator Boat Duel | 9158 | [9158-eliminator-boat-duel.json](./9158-eliminator-boat-duel.json) |
 | Elin | 221102 | [221102-elin.json](./221102-elin.json) |
 | Elios VR | 171922 | [171922-elios-vr.json](./171922-elios-vr.json) |
 | Eliosi's Hunt | 32277 | [32277-eliosis-hunt.json](./32277-eliosis-hunt.json) |
