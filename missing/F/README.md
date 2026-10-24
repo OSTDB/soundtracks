@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faeria: Resurgence | 163524 | [163524-faeria-resurgence.json](./163524-faeria-resurgence.json) |
 | Faerie Afterlight | 133272 | [133272-faerie-afterlight.json](./133272-faerie-afterlight.json) |
 | Faerie Alchemy: Puzzle Game | 174246 | [174246-faerie-alchemy-puzzle-game.json](./174246-faerie-alchemy-puzzle-game.json) |
+| Faerie Solitaire | 9703 | [9703-faerie-solitaire.json](./9703-faerie-solitaire.json) |
 | Faerie Solitaire Classic | 182884 | [182884-faerie-solitaire-classic.json](./182884-faerie-solitaire-classic.json) |
 | Faerie Solitaire Dire | 118230 | [118230-faerie-solitaire-dire.json](./118230-faerie-solitaire-dire.json) |
 | Faerie Solitaire Remastered | 81259 | [81259-faerie-solitaire-remastered.json](./81259-faerie-solitaire-remastered.json) |
@@ -548,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Comedy: A Love Hard To Find | 275527 | [275527-fairy-comedy-a-love-hard-to-find.json](./275527-fairy-comedy-a-love-hard-to-find.json) |
 | Fairy Elements | 214643 | [214643-fairy-elements.json](./214643-fairy-elements.json) |
 | Fairy Escape | 99632 | [99632-fairy-escape.json](./99632-fairy-escape.json) |
+| Fairy Fencer F | 9893 | [9893-fairy-fencer-f.json](./9893-fairy-fencer-f.json) |
 | Fairy Fencer F: Advent Dark Force - Deluxe Edition | 186883 | [186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json](./186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json) |
 | Fairy Fencer F: Advent Dark Force DLC Bundle | 227385 | [227385-fairy-fencer-f-advent-dark-force-dlc-bundle.json](./227385-fairy-fencer-f-advent-dark-force-dlc-bundle.json) |
 | Fairy Fencer F: Refrain Chord | 203092 | [203092-fairy-fencer-f-refrain-chord.json](./203092-fairy-fencer-f-refrain-chord.json) |
