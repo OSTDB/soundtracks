@@ -6350,6 +6350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shénme Guǐ Ànhēi | 107382 | [107382-shenme-gui-anhei.json](./107382-shenme-gui-anhei.json) |
 | Shenmou | 120078 | [120078-shenmou.json](./120078-shenmou.json) |
 | Shenmue | 1217 | [1217-shenmue.json](./1217-shenmue.json) |
+| Shenmue HD Remaster | 27422 | [27422-shenmue-hd-remaster.json](./27422-shenmue-hd-remaster.json) |
 | Shenmue I & II | 96391 | [96391-shenmue-i-and-ii.json](./96391-shenmue-i-and-ii.json) |
 | Shenmue I & II VR Mod | 413210 | [413210-shenmue-i-and-ii-vr-mod.json](./413210-shenmue-i-and-ii-vr-mod.json) |
 | Shenmue I & II: Limited Edition | 166986 | [166986-shenmue-i-and-ii-limited-edition.json](./166986-shenmue-i-and-ii-limited-edition.json) |
@@ -18522,6 +18523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Z | 105071 | [105071-squad-z.json](./105071-squad-z.json) |
 | Squad: Canadian Armed Forces | 170368 | [170368-squad-canadian-armed-forces.json](./170368-squad-canadian-armed-forces.json) |
 | SquadBlast | 202686 | [202686-squadblast.json](./202686-squadblast.json) |
+| Squadd.Io | 27418 | [27418-squadd-io.json](./27418-squadd-io.json) |
 | Squadika | 401693 | [401693-squadika.json](./401693-squadika.json) |
 | Squadron | 172523 | [172523-squadron.json](./172523-squadron.json) |
 | Squadron 42 | 19128 | [19128-squadron-42.json](./19128-squadron-42.json) |
@@ -19376,6 +19378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Rush: Stack & Jump | 329432 | [329432-star-rush-stack-and-jump.json](./329432-star-rush-stack-and-jump.json) |
 | Star Saga: One - Beyond the Boundary | 2894 | [2894-star-saga-one-beyond-the-boundary.json](./2894-star-saga-one-beyond-the-boundary.json) |
 | Star Saga: Two - The Clathran Menace | 57662 | [57662-star-saga-two-the-clathran-menace.json](./57662-star-saga-two-the-clathran-menace.json) |
+| Star Saver | 27315 | [27315-star-saver.json](./27315-star-saver.json) |
 | Star Saviors | 17661 | [17661-star-saviors.json](./17661-star-saviors.json) |
 | Star Scandal | 298894 | [298894-star-scandal.json](./298894-star-scandal.json) |
 | Star Scenery Disk: San Francisco Area | 98960 | [98960-star-scenery-disk-san-francisco-area.json](./98960-star-scenery-disk-san-francisco-area.json) |
@@ -20542,6 +20545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stasis: Deluxe Edition | 51894 | [51894-stasis-deluxe-edition.json](./51894-stasis-deluxe-edition.json) |
 | Stasis: Special Edition | 53658 | [53658-stasis-special-edition.json](./53658-stasis-special-edition.json) |
 | State Connect: Traffic Control | 193779 | [193779-state-connect-traffic-control.json](./193779-state-connect-traffic-control.json) |
+| State Machine | 27311 | [27311-state-machine.json](./27311-state-machine.json) |
 | State of Anarchy: Master of Mayhem | 29889 | [29889-state-of-anarchy-master-of-mayhem.json](./29889-state-of-anarchy-master-of-mayhem.json) |
 | State of Decay | 3049 | [3049-state-of-decay.json](./3049-state-of-decay.json) |
 | State of Decay 2: Curveball Update | 266858 | [266858-state-of-decay-2-curveball-update.json](./266858-state-of-decay-2-curveball-update.json) |
@@ -21639,6 +21643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Realm Survivors | 325324 | [325324-stolen-realm-survivors.json](./325324-stolen-realm-survivors.json) |
 | Stolen Recovery | 133373 | [133373-stolen-recovery.json](./133373-stolen-recovery.json) |
 | Stolen Steel VR | 29568 | [29568-stolen-steel-vr.json](./29568-stolen-steel-vr.json) |
+| Stomp | 27294 | [27294-stomp.json](./27294-stomp.json) |
 | Stomp | 91539 | [91539-stomp.json](./91539-stomp.json) |
 | Stomp and the Sword of Miracles | 356053 | [356053-stomp-and-the-sword-of-miracles.json](./356053-stomp-and-the-sword-of-miracles.json) |
 | Stomper | 182990 | [182990-stomper.json](./182990-stomper.json) |
@@ -22071,6 +22076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger of Paradise: Final Fantasy Origin - Trials of the Dragon King | 207128 | [207128-stranger-of-paradise-final-fantasy-origin-trials-of-the-dragon-king.json](./207128-stranger-of-paradise-final-fantasy-origin-trials-of-the-dragon-king.json) |
 | Stranger of Paradise: Final Fantasy Origin - Wanderer of the Rift | 217790 | [217790-stranger-of-paradise-final-fantasy-origin-wanderer-of-the-rift.json](./217790-stranger-of-paradise-final-fantasy-origin-wanderer-of-the-rift.json) |
 | Stranger of Sword City 2 | 19801 | [19801-stranger-of-sword-city-2.json](./19801-stranger-of-sword-city-2.json) |
+| Stranger of Sword City Revisited | 27303 | [27303-stranger-of-sword-city-revisited.json](./27303-stranger-of-sword-city-revisited.json) |
 | Stranger of Sword City: Limited Edition | 42681 | [42681-stranger-of-sword-city-limited-edition.json](./42681-stranger-of-sword-city-limited-edition.json) |
 | Stranger Skies | 245193 | [245193-stranger-skies.json](./245193-stranger-skies.json) |
 | Stranger Tavern: Brawl | 392108 | [392108-stranger-tavern-brawl.json](./392108-stranger-tavern-brawl.json) |
@@ -24292,6 +24298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunsoft is Back! Retro Game Selection | 297001 | [297001-sunsoft-is-back-retro-game-selection.json](./297001-sunsoft-is-back-retro-game-selection.json) |
 | Sunsoft Mahjong Solitaire: Shanghai Legend | 276952 | [276952-sunsoft-mahjong-solitaire-shanghai-legend.json](./276952-sunsoft-mahjong-solitaire-shanghai-legend.json) |
 | Sunstone of Time | 421822 | [421822-sunstone-of-time.json](./421822-sunstone-of-time.json) |
+| Sunu Ikkibu: Din Nahu | 27377 | [27377-sunu-ikkibu-din-nahu.json](./27377-sunu-ikkibu-din-nahu.json) |
 | Sunwards | 138467 | [138467-sunwards.json](./138467-sunwards.json) |
 | Sunwave Hotel | 204192 | [204192-sunwave-hotel.json](./204192-sunwave-hotel.json) |
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
@@ -28256,6 +28263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swiss Alps Jigsaw Puzzles | 158529 | [158529-swiss-alps-jigsaw-puzzles.json](./158529-swiss-alps-jigsaw-puzzles.json) |
 | Swiss Family Robinson | 7732 | [7732-swiss-family-robinson.json](./7732-swiss-family-robinson.json) |
 | Swiss Knife | 126358 | [126358-swiss-knife.json](./126358-swiss-knife.json) |
+| Switch | 27364 | [27364-switch.json](./27364-switch.json) |
 | Switch - Black & White | 105208 | [105208-switch-black-and-white.json](./105208-switch-black-and-white.json) |
 | Switch 'N' Shoot | 32171 | [32171-switch-n-shoot.json](./32171-switch-n-shoot.json) |
 | Switch & Ditch | 113872 | [113872-switch-and-ditch.json](./113872-switch-and-ditch.json) |
