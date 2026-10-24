@@ -3363,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giana Sisters: Dream Runners | 20879 | [20879-giana-sisters-dream-runners.json](./20879-giana-sisters-dream-runners.json) |
 | Giana Sisters: Project Radiant | 318533 | [318533-giana-sisters-project-radiant.json](./318533-giana-sisters-project-radiant.json) |
 | Giana Sisters: Twisted Dreams - Director's Cut | 44541 | [44541-giana-sisters-twisted-dreams-directors-cut.json](./44541-giana-sisters-twisted-dreams-directors-cut.json) |
+| Giana Sisters: Twisted Dreams - Owltimate Edition | 78869 | [78869-giana-sisters-twisted-dreams-owltimate-edition.json](./78869-giana-sisters-twisted-dreams-owltimate-edition.json) |
 | Giana Sisters: Twisted Dreams - Rise of the Owlverlord | 53080 | [53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json](./53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json) |
 | Gianluca Vialli's European Manager | 93211 | [93211-gianluca-viallis-european-manager.json](./93211-gianluca-viallis-european-manager.json) |
 | GiAnt | 33696 | [33696-giant.json](./33696-giant.json) |
