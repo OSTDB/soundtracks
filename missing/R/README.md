@@ -1332,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rambo III | 18145 | [18145-rambo-iii.json](./18145-rambo-iii.json) |
 | Rambo III | 199790 | [199790-rambo-iii.json](./199790-rambo-iii.json) |
 | Rambo: First Blood Part II | 12963 | [12963-rambo-first-blood-part-ii.json](./12963-rambo-first-blood-part-ii.json) |
+| Rambo: First Blood Part II | 26214 | [26214-rambo-first-blood-part-ii.json](./26214-rambo-first-blood-part-ii.json) |
 | Rambo: First Blood Part II | 39127 | [39127-rambo-first-blood-part-ii.json](./39127-rambo-first-blood-part-ii.json) |
 | Rambo: The Video Game | 3771 | [3771-rambo-the-video-game.json](./3771-rambo-the-video-game.json) |
 | Ramboat 2 | 314592 | [314592-ramboat-2.json](./314592-ramboat-2.json) |
@@ -5696,6 +5697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RiddleBridge | 86744 | [86744-riddlebridge.json](./86744-riddlebridge.json) |
 | Riddled Corpses EX | 97897 | [97897-riddled-corpses-ex.json](./97897-riddled-corpses-ex.json) |
 | Riddledale | 223174 | [223174-riddledale.json](./223174-riddledale.json) |
+| Riddler's Den | 26211 | [26211-riddlers-den.json](./26211-riddlers-den.json) |
 | Riddles of Fate: Wild Hunt - Collector's Edition | 30538 | [30538-riddles-of-fate-wild-hunt-collectors-edition.json](./30538-riddles-of-fate-wild-hunt-collectors-edition.json) |
 | Riddles of the Owls Kingdom | 105370 | [105370-riddles-of-the-owls-kingdom.json](./105370-riddles-of-the-owls-kingdom.json) |
 | Riddles of the Past | 32090 | [32090-riddles-of-the-past.json](./32090-riddles-of-the-past.json) |
@@ -6089,6 +6091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring of Titans | 189162 | [189162-ring-of-titans.json](./189162-ring-of-titans.json) |
 | Ring Out 4x4 | 131317 | [131317-ring-out-4x4.json](./131317-ring-out-4x4.json) |
 | Ring Out!! | 41404 | [41404-ring-out.json](./41404-ring-out.json) |
+| Ring Quest | 26262 | [26262-ring-quest.json](./26262-ring-quest.json) |
 | Ring Racer | 147379 | [147379-ring-racer.json](./147379-ring-racer.json) |
 | Ring Racer | 259151 | [259151-ring-racer.json](./259151-ring-racer.json) |
 | Ring Rage | 39498 | [39498-ring-rage.json](./39498-ring-rage.json) |
@@ -9468,6 +9471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubicon: A Conspiracy of Silence | 178284 | [178284-rubicon-a-conspiracy-of-silence.json](./178284-rubicon-a-conspiracy-of-silence.json) |
 | Rubido | 260714 | [260714-rubido.json](./260714-rubido.json) |
 | Rubies in Space | 194371 | [194371-rubies-in-space.json](./194371-rubies-in-space.json) |
+| Rubik's Color | 26258 | [26258-rubiks-color.json](./26258-rubiks-color.json) |
 | Rubik's Cube | 71210 | [71210-rubiks-cube.json](./71210-rubiks-cube.json) |
 | Rubik's Cube 3-D | 40755 | [40755-rubiks-cube-3-d.json](./40755-rubiks-cube-3-d.json) |
 | Rubik's Cube Augmented! | 100775 | [100775-rubiks-cube-augmented.json](./100775-rubiks-cube-augmented.json) |
