@@ -6081,6 +6081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopy Treasure | 180764 | [180764-loopy-treasure.json](./180764-loopy-treasure.json) |
 | Loopy Wizard | 200138 | [200138-loopy-wizard.json](./200138-loopy-wizard.json) |
 | Loopy's Train Set | 367617 | [367617-loopys-train-set.json](./367617-loopys-train-set.json) |
+| Loopz | 77213 | [77213-loopz.json](./77213-loopz.json) |
 | Loose Dog | 415506 | [415506-loose-dog.json](./415506-loose-dog.json) |
 | Loose Life | 216711 | [216711-loose-life.json](./216711-loose-life.json) |
 | Loose Lips(Side:foggy) | 151709 | [151709-loose-lips-side-foggy.json](./151709-loose-lips-side-foggy.json) |
