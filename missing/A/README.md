@@ -2491,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adidas Championship Football | 13286 | [13286-adidas-championship-football.json](./13286-adidas-championship-football.json) |
 | Adidas Power Soccer | 20302 | [20302-adidas-power-soccer.json](./20302-adidas-power-soccer.json) |
 | Adidas Power Soccer 98 | 43935 | [43935-adidas-power-soccer-98.json](./43935-adidas-power-soccer-98.json) |
+| Adidas Power Soccer International '97 | 43743 | [43743-adidas-power-soccer-international-97.json](./43743-adidas-power-soccer-international-97.json) |
 | Adios | 138270 | [138270-adios.json](./138270-adios.json) |
 | Adios Amigos: Galactic Explorers | 197685 | [197685-adios-amigos-galactic-explorers.json](./197685-adios-amigos-galactic-explorers.json) |
 | Adit 11 | 379557 | [379557-adit-11.json](./379557-adit-11.json) |
@@ -2918,7 +2919,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
