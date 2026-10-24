@@ -4808,6 +4808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Tides | 51561 | [51561-iron-tides.json](./51561-iron-tides.json) |
 | Iron Trails: Outlaw Pursuit | 322242 | [322242-iron-trails-outlaw-pursuit.json](./322242-iron-trails-outlaw-pursuit.json) |
 | Iron Vulture | 132734 | [132734-iron-vulture.json](./132734-iron-vulture.json) |
+| Iron Warriors: T-72 Tank Command | 14794 | [14794-iron-warriors-t-72-tank-command.json](./14794-iron-warriors-t-72-tank-command.json) |
 | Iron Wasteland | 406572 | [406572-iron-wasteland.json](./406572-iron-wasteland.json) |
 | Iron Works | 383350 | [383350-iron-works.json](./383350-iron-works.json) |
 | Ironblood | 402498 | [402498-ironblood.json](./402498-ironblood.json) |
