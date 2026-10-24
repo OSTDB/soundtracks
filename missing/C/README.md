@@ -6080,6 +6080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of the Dragon | 66762 | [66762-choice-of-the-dragon.json](./66762-choice-of-the-dragon.json) |
 | Choice of the Ninja | 76114 | [76114-choice-of-the-ninja.json](./76114-choice-of-the-ninja.json) |
 | Choice of the Pirate | 32582 | [32582-choice-of-the-pirate.json](./32582-choice-of-the-pirate.json) |
+| Choice of the Star Captain | 38726 | [38726-choice-of-the-star-captain.json](./38726-choice-of-the-star-captain.json) |
 | Choice of the Vampire: St. Louis, Unreal City | 169935 | [169935-choice-of-the-vampire-st-louis-unreal-city.json](./169935-choice-of-the-vampire-st-louis-unreal-city.json) |
 | Choice of the Vampire: The Fall of Memphis | 86742 | [86742-choice-of-the-vampire-the-fall-of-memphis.json](./86742-choice-of-the-vampire-the-fall-of-memphis.json) |
 | Choice of the Viking | 220000 | [220000-choice-of-the-viking.json](./220000-choice-of-the-viking.json) |
