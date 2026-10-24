@@ -1256,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Tetris Challenge | 205583 | [205583-magical-tetris-challenge.json](./205583-magical-tetris-challenge.json) |
 | Magical Tetris Challenge | 3398 | [3398-magical-tetris-challenge.json](./3398-magical-tetris-challenge.json) |
 | Magical Town | 244877 | [244877-magical-town.json](./244877-magical-town.json) |
+| Magical Tree | 41744 | [41744-magical-tree.json](./41744-magical-tree.json) |
 | Magical Truck Adventure | 39477 | [39477-magical-truck-adventure.json](./39477-magical-truck-adventure.json) |
 | Magical Twirler Angel Rabbie | 408264 | [408264-magical-twirler-angel-rabbie.json](./408264-magical-twirler-angel-rabbie.json) |
 | Magical Valkyrie Lyristia | 153949 | [153949-magical-valkyrie-lyristia.json](./153949-magical-valkyrie-lyristia.json) |
@@ -9678,6 +9679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindcop | 137044 | [137044-mindcop.json](./137044-mindcop.json) |
 | MindCubes: Inside the Twisted Gravity Puzzle | 28276 | [28276-mindcubes-inside-the-twisted-gravity-puzzle.json](./28276-mindcubes-inside-the-twisted-gravity-puzzle.json) |
 | Minder | 100207 | [100207-minder.json](./100207-minder.json) |
+| Minder | 41752 | [41752-minder.json](./41752-minder.json) |
 | MindEscape | 379338 | [379338-mindescape.json](./379338-mindescape.json) |
 | MindFall | 314360 | [314360-mindfall.json](./314360-mindfall.json) |
 | Mindfate | 319064 | [319064-mindfate.json](./319064-mindfate.json) |
