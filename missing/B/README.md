@@ -3526,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlerace | 201591 | [201591-battlerace.json](./201591-battlerace.json) |
 | Battlerace Support Package | 323242 | [323242-battlerace-support-package.json](./323242-battlerace-support-package.json) |
 | BattleReign | 234546 | [234546-battlereign.json](./234546-battlereign.json) |
+| Battlerite | 23193 | [23193-battlerite.json](./23193-battlerite.json) |
 | Battlerite Royale | 107022 | [107022-battlerite-royale.json](./107022-battlerite-royale.json) |
 | Battlerite Royale: All Champions Pack | 168365 | [168365-battlerite-royale-all-champions-pack.json](./168365-battlerite-royale-all-champions-pack.json) |
 | Battlers of Ekrasys | 339948 | [339948-battlers-of-ekrasys.json](./339948-battlers-of-ekrasys.json) |
@@ -7786,6 +7787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasphemous 2: Limited Collector's Edition | 281293 | [281293-blasphemous-2-limited-collectors-edition.json](./281293-blasphemous-2-limited-collectors-edition.json) |
 | Blasphemous 2: Mea Culpa Edition | 324383 | [324383-blasphemous-2-mea-culpa-edition.json](./324383-blasphemous-2-mea-culpa-edition.json) |
 | Blasphemous Experiments | 268723 | [268723-blasphemous-experiments.json](./268723-blasphemous-experiments.json) |
+| Blasphemous II | 165390 | [165390-blasphemous-ii.json](./165390-blasphemous-ii.json) |
 | Blasphemous II: Digital Deluxe Edition | 259135 | [259135-blasphemous-ii-digital-deluxe-edition.json](./259135-blasphemous-ii-digital-deluxe-edition.json) |
 | Blasphemous II: Mea Culpa | 317595 | [317595-blasphemous-ii-mea-culpa.json](./317595-blasphemous-ii-mea-culpa.json) |
 | Blasphemous II: The Third Sin | 404910 | [404910-blasphemous-ii-the-third-sin.json](./404910-blasphemous-ii-the-third-sin.json) |
