@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vardir | 178468 | [178468-vardir.json](./178468-vardir.json) |
 | VarDragons | 57114 | [57114-vardragons.json](./57114-vardragons.json) |
 | Vareion | 245321 | [245321-vareion.json](./245321-vareion.json) |
+| Varenje | 33055 | [33055-varenje.json](./33055-varenje.json) |
 | Varenje: Collector's Edition | 111504 | [111504-varenje-collectors-edition.json](./111504-varenje-collectors-edition.json) |
 | Varenje: Don't Touch The Berries | 271501 | [271501-varenje-dont-touch-the-berries.json](./271501-varenje-dont-touch-the-berries.json) |
 | Varg | 327052 | [327052-varg.json](./327052-varg.json) |
