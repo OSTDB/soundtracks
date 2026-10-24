@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dadi | 200534 | [200534-dadi.json](./200534-dadi.json) |
 | Dadi Kingdom | 416622 | [416622-dadi-kingdom.json](./416622-dadi-kingdom.json) |
 | Dadish | 134427 | [134427-dadish.json](./134427-dadish.json) |
+| Dadish 2 | 142986 | [142986-dadish-2.json](./142986-dadish-2.json) |
 | Dadish 3 | 199111 | [199111-dadish-3.json](./199111-dadish-3.json) |
 | Dadish 3D | 294865 | [294865-dadish-3d.json](./294865-dadish-3d.json) |
 | Dadlympics | 265146 | [265146-dadlympics.json](./265146-dadlympics.json) |
@@ -3920,6 +3921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Décapita | 356056 | [356056-decapita.json](./356056-decapita.json) |
 | DecaPolice | 236661 | [236661-decapolice.json](./236661-decapolice.json) |
 | Decarathon | 180515 | [180515-decarathon.json](./180515-decarathon.json) |
+| Decarnation | 170888 | [170888-decarnation.json](./170888-decarnation.json) |
 | Decathlon | 242097 | [242097-decathlon.json](./242097-decathlon.json) |
 | Decathlon 2012 | 85078 | [85078-decathlon-2012.json](./85078-decathlon-2012.json) |
 | Decathlon DX | 315324 | [315324-decathlon-dx.json](./315324-decathlon-dx.json) |
@@ -9731,6 +9733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domineon 2 | 139655 | [139655-domineon-2.json](./139655-domineon-2.json) |
 | Domini | 353065 | [353065-domini.json](./353065-domini.json) |
 | Dominic Cranes's Dreamscape Mystery | 210211 | [210211-dominic-craness-dreamscape-mystery.json](./210211-dominic-craness-dreamscape-mystery.json) |
+| Dominion | 164217 | [164217-dominion.json](./164217-dominion.json) |
 | Dominion of Madess | 263359 | [263359-dominion-of-madess.json](./263359-dominion-of-madess.json) |
 | Dominion: Adventures | 191103 | [191103-dominion-adventures.json](./191103-dominion-adventures.json) |
 | Dominion: Alchemy | 191100 | [191100-dominion-alchemy.json](./191100-dominion-alchemy.json) |
@@ -10152,6 +10155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong | 1086 | [1086-donkey-kong.json](./1086-donkey-kong.json) |
 | Donkey Kong | 1089 | [1089-donkey-kong.json](./1089-donkey-kong.json) |
 | Donkey Kong | 141959 | [141959-donkey-kong.json](./141959-donkey-kong.json) |
+| Donkey Kong | 152066 | [152066-donkey-kong.json](./152066-donkey-kong.json) |
 | Donkey Kong | 171952 | [171952-donkey-kong.json](./171952-donkey-kong.json) |
 | Donkey Kong | 171953 | [171953-donkey-kong.json](./171953-donkey-kong.json) |
 | Donkey Kong | 171954 | [171954-donkey-kong.json](./171954-donkey-kong.json) |
@@ -12095,9 +12099,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest of the Stars | 131686 | [131686-dragon-quest-of-the-stars.json](./131686-dragon-quest-of-the-stars.json) |
 | Dragon Quest Rivals Ace | 31559 | [31559-dragon-quest-rivals-ace.json](./31559-dragon-quest-rivals-ace.json) |
 | Dragon Quest Tact | 130037 | [130037-dragon-quest-tact.json](./130037-dragon-quest-tact.json) |
+| Dragon Quest Treasures | 150022 | [150022-dragon-quest-treasures.json](./150022-dragon-quest-treasures.json) |
 | Dragon Quest Treasures: Digital Deluxe Edition | 219485 | [219485-dragon-quest-treasures-digital-deluxe-edition.json](./219485-dragon-quest-treasures-digital-deluxe-edition.json) |
 | Dragon Quest V: Hand of the Heavenly Bride | 16585 | [16585-dragon-quest-v-hand-of-the-heavenly-bride.json](./16585-dragon-quest-v-hand-of-the-heavenly-bride.json) |
 | Dragon Quest V: Tenkuu no Hanayome | 205595 | [205595-dragon-quest-v-tenkuu-no-hanayome.json](./205595-dragon-quest-v-tenkuu-no-hanayome.json) |
+| Dragon Quest VI: Maboroshi no Daichi | 145497 | [145497-dragon-quest-vi-maboroshi-no-daichi.json](./145497-dragon-quest-vi-maboroshi-no-daichi.json) |
 | Dragon Quest VI: Realms of Revelation | 1817 | [1817-dragon-quest-vi-realms-of-revelation.json](./1817-dragon-quest-vi-realms-of-revelation.json) |
 | Dragon Quest VII Reimagined | 366884 | [366884-dragon-quest-vii-reimagined.json](./366884-dragon-quest-vii-reimagined.json) |
 | Dragon Quest VII Reimagined: Additional DLC Sets | 388942 | [388942-dragon-quest-vii-reimagined-additional-dlc-sets.json](./388942-dragon-quest-vii-reimagined-additional-dlc-sets.json) |
@@ -12614,6 +12620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Protocol | 277315 | [277315-dread-protocol.json](./277315-dread-protocol.json) |
 | Dread Rune | 199982 | [199982-dread-rune.json](./199982-dread-rune.json) |
 | Dread Station | 86760 | [86760-dread-station.json](./86760-dread-station.json) |
+| Dread Templar | 144585 | [144585-dread-templar.json](./144585-dread-templar.json) |
 | Dread the Rabbit | 183595 | [183595-dread-the-rabbit.json](./183595-dread-the-rabbit.json) |
 | Dread Weight | 249334 | [249334-dread-weight.json](./249334-dread-weight.json) |
 | Dread X Collection 3 | 140041 | [140041-dread-x-collection-3.json](./140041-dread-x-collection-3.json) |
