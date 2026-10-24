@@ -4798,6 +4798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pic Pic | 85344 | [85344-pic-pic.json](./85344-pic-pic.json) |
 | Pic-A-Block | 361462 | [361462-pic-a-block.json](./361462-pic-a-block.json) |
 | Pic-a-Pix Classic 2 | 140423 | [140423-pic-a-pix-classic-2.json](./140423-pic-a-pix-classic-2.json) |
+| Pic-a-Pix Color | 82591 | [82591-pic-a-pix-color.json](./82591-pic-a-pix-color.json) |
 | Pic-a-Pix Color 2 | 120799 | [120799-pic-a-pix-color-2.json](./120799-pic-a-pix-color-2.json) |
 | Pic-a-Pix Pieces | 114052 | [114052-pic-a-pix-pieces.json](./114052-pic-a-pix-pieces.json) |
 | Pic-a-Pix Pieces 2 | 140424 | [140424-pic-a-pix-pieces-2.json](./140424-pic-a-pix-pieces-2.json) |
@@ -11988,6 +11989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Architect: Second Chances | 148519 | [148519-prison-architect-second-chances.json](./148519-prison-architect-second-chances.json) |
 | Prison Architect: Total Lockdown Bundle | 164789 | [164789-prison-architect-total-lockdown-bundle.json](./164789-prison-architect-total-lockdown-bundle.json) |
 | Prison Architect: Undead | 220790 | [220790-prison-architect-undead.json](./220790-prison-architect-undead.json) |
+| Prison Architect: Xbox One Edition | 82430 | [82430-prison-architect-xbox-one-edition.json](./82430-prison-architect-xbox-one-edition.json) |
 | Prison Ball: Full Blown | 167214 | [167214-prison-ball-full-blown.json](./167214-prison-ball-full-blown.json) |
 | Prison Ball: Full Blown - Cheyenne Storm | 167221 | [167221-prison-ball-full-blown-cheyenne-storm.json](./167221-prison-ball-full-blown-cheyenne-storm.json) |
 | Prison Ball: Full Blown - Damon Blood | 168432 | [168432-prison-ball-full-blown-damon-blood.json](./168432-prison-ball-full-blown-damon-blood.json) |
@@ -14778,6 +14780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Cats | 240351 | [240351-puzzle-cats.json](./240351-puzzle-cats.json) |
 | Puzzle Challenge: Crosswords and More | 5112 | [5112-puzzle-challenge-crosswords-and-more.json](./5112-puzzle-challenge-crosswords-and-more.json) |
 | Puzzle Challengers | 161702 | [161702-puzzle-challengers.json](./161702-puzzle-challengers.json) |
+| Puzzle Chambers | 75620 | [75620-puzzle-chambers.json](./75620-puzzle-chambers.json) |
 | Puzzle Champions | 213271 | [213271-puzzle-champions.json](./213271-puzzle-champions.json) |
 | Puzzle Chasers | 292140 | [292140-puzzle-chasers.json](./292140-puzzle-chasers.json) |
 | Puzzle Chronicles | 10732 | [10732-puzzle-chronicles.json](./10732-puzzle-chronicles.json) |
