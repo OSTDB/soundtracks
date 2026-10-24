@@ -2681,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advena | 38719 | [38719-advena.json](./38719-advena.json) |
 | Advendows Calendar OS 2022 | 229038 | [229038-advendows-calendar-os-2022.json](./229038-advendows-calendar-os-2022.json) |
 | Advenger of Stuart | 236271 | [236271-advenger-of-stuart.json](./236271-advenger-of-stuart.json) |
+| Advent | 35219 | [35219-advent.json](./35219-advent.json) |
 | Advent Arena | 370292 | [370292-advent-arena.json](./370292-advent-arena.json) |
 | Advent Calendar | 212875 | [212875-advent-calendar.json](./212875-advent-calendar.json) |
 | Advent Calendar | 379475 | [379475-advent-calendar.json](./379475-advent-calendar.json) |
@@ -5711,6 +5712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All in your head | 210907 | [210907-all-in-your-head.json](./210907-all-in-your-head.json) |
 | All in! Bundle | 164807 | [164807-all-in-bundle.json](./164807-all-in-bundle.json) |
 | All in! Bundle | 221334 | [221334-all-in-bundle.json](./221334-all-in-bundle.json) |
+| All Is Dust | 35171 | [35171-all-is-dust.json](./35171-all-is-dust.json) |
 | All is Fair in Dust and Air | 142266 | [142266-all-is-fair-in-dust-and-air.json](./142266-all-is-fair-in-dust-and-air.json) |
 | All is Fair in Love and Vore: The Tavorion Collection | 250600 | [250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json](./250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json) |
 | All Japan Super Bombliss Cup '95 | 150163 | [150163-all-japan-super-bombliss-cup-95.json](./150163-all-japan-super-bombliss-cup-95.json) |
@@ -7040,6 +7042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amy's Fun-2-3 Adventure | 14255 | [14255-amys-fun-2-3-adventure.json](./14255-amys-fun-2-3-adventure.json) |
 | Amy's Greenmart | 133183 | [133183-amys-greenmart.json](./133183-amys-greenmart.json) |
 | Amygdala | 268142 | [268142-amygdala.json](./268142-amygdala.json) |
+| Amygdala | 35301 | [35301-amygdala.json](./35301-amygdala.json) |
 | Amygdala: Prelude | 269284 | [269284-amygdala-prelude.json](./269284-amygdala-prelude.json) |
 | Amzula | 394139 | [394139-amzula.json](./394139-amzula.json) |
 | An Absolutely Not Suspicious Cabin in the Woods | 160212 | [160212-an-absolutely-not-suspicious-cabin-in-the-woods.json](./160212-an-absolutely-not-suspicious-cabin-in-the-woods.json) |
@@ -10946,6 +10949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkhangel: The House of the Seven Stars | 104175 | [104175-arkhangel-the-house-of-the-seven-stars.json](./104175-arkhangel-the-house-of-the-seven-stars.json) |
 | Arkhe | 303682 | [303682-arkhe.json](./303682-arkhe.json) |
 | Arkheim: Realms at War | 195110 | [195110-arkheim-realms-at-war.json](./195110-arkheim-realms-at-war.json) |
+| Arkhelom 3D | 35178 | [35178-arkhelom-3d.json](./35178-arkhelom-3d.json) |
 | ArkLight | 52406 | [52406-arklight.json](./52406-arklight.json) |
 | Arknights | 123395 | [123395-arknights.json](./123395-arknights.json) |
 | Arknights Episode 04: Burning Run | 413425 | [413425-arknights-episode-04-burning-run.json](./413425-arknights-episode-04-burning-run.json) |
@@ -12687,6 +12691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Knight | 217371 | [217371-astro-knight.json](./217371-astro-knight.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
 | Astro Looter | 304469 | [304469-astro-looter.json](./304469-astro-looter.json) |
+| Astro Lords: Oort Cloud | 35194 | [35194-astro-lords-oort-cloud.json](./35194-astro-lords-oort-cloud.json) |
 | Astro Maths | 15605 | [15605-astro-maths.json](./15605-astro-maths.json) |
 | Astro Maze | 367767 | [367767-astro-maze.json](./367767-astro-maze.json) |
 | Astro Miner | 276945 | [276945-astro-miner.json](./276945-astro-miner.json) |
