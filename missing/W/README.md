@@ -3211,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -5711,6 +5712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Boy: The Dragon's Trap | 212882 | [212882-wonder-boy-the-dragons-trap.json](./212882-wonder-boy-the-dragons-trap.json) |
 | Wonder Cat | 128231 | [128231-wonder-cat.json](./128231-wonder-cat.json) |
 | Wonder Cave | 155953 | [155953-wonder-cave.json](./155953-wonder-cave.json) |
+| Wonder Classic | 37559 | [37559-wonder-classic.json](./37559-wonder-classic.json) |
 | Wonder Defense: Chapter Earth | 166730 | [166730-wonder-defense-chapter-earth.json](./166730-wonder-defense-chapter-earth.json) |
 | Wonder Dog | 5463 | [5463-wonder-dog.json](./5463-wonder-dog.json) |
 | Wonder Flick | 53042 | [53042-wonder-flick.json](./53042-wonder-flick.json) |
