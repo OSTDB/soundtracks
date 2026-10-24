@@ -1065,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiac Mountain | 309731 | [309731-zodiac-mountain.json](./309731-zodiac-mountain.json) |
 | Zodiac Online | 93558 | [93558-zodiac-online.json](./93558-zodiac-online.json) |
 | Zodiac Paradigm | 353874 | [353874-zodiac-paradigm.json](./353874-zodiac-paradigm.json) |
+| Zodiac Prophecies: The Serpent Bearer | 18894 | [18894-zodiac-prophecies-the-serpent-bearer.json](./18894-zodiac-prophecies-the-serpent-bearer.json) |
 | Zodiac Quest | 315894 | [315894-zodiac-quest.json](./315894-zodiac-quest.json) |
 | Zodiac Requiem | 373741 | [373741-zodiac-requiem.json](./373741-zodiac-requiem.json) |
 | Zodiac Revenger | 274358 | [274358-zodiac-revenger.json](./274358-zodiac-revenger.json) |
@@ -1348,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie In Town | 164976 | [164976-zombie-in-town.json](./164976-zombie-in-town.json) |
 | Zombie Incident | 41714 | [41714-zombie-incident.json](./41714-zombie-incident.json) |
 | Zombie Incursion | 102047 | [102047-zombie-incursion.json](./102047-zombie-incursion.json) |
+| Zombie Infection | 18885 | [18885-zombie-infection.json](./18885-zombie-infection.json) |
 | Zombie Infection | 223014 | [223014-zombie-infection.json](./223014-zombie-infection.json) |
 | Zombie Infection | 331340 | [331340-zombie-infection.json](./331340-zombie-infection.json) |
 | Zombie Infection 2 | 223015 | [223015-zombie-infection-2.json](./223015-zombie-infection-2.json) |
@@ -2068,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZYX Story | 105343 | [105343-zyx-story.json](./105343-zyx-story.json) |
 | Zyxia: Neon Termination | 122797 | [122797-zyxia-neon-termination.json](./122797-zyxia-neon-termination.json) |
 | Zzap! | 194422 | [194422-zzap.json](./194422-zzap.json) |
+| Zzed | 18936 | [18936-zzed.json](./18936-zzed.json) |
 | Zzoom | 45356 | [45356-zzoom.json](./45356-zzoom.json) |
 | Zzyzzyxx | 175634 | [175634-zzyzzyxx.json](./175634-zzyzzyxx.json) |
 | Zzz | 376218 | [376218-zzz.json](./376218-zzz.json) |
