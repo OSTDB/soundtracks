@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yggdra Kingdom | 395590 | [395590-yggdra-kingdom.json](./395590-yggdra-kingdom.json) |
 | Yggdra Refrain | 373329 | [373329-yggdra-refrain.json](./373329-yggdra-refrain.json) |
 | Yggdra Union | 99972 | [99972-yggdra-union.json](./99972-yggdra-union.json) |
+| Yggdra Union: We'll Never Fight Alone | 26075 | [26075-yggdra-union-well-never-fight-alone.json](./26075-yggdra-union-well-never-fight-alone.json) |
 | Yggdra Unison: Seiken Buyuuden | 67852 | [67852-yggdra-unison-seiken-buyuuden.json](./67852-yggdra-unison-seiken-buyuuden.json) |
 | Yggdrasil | 411786 | [411786-yggdrasil.json](./411786-yggdrasil.json) |
 | Yggdrasil 2: Awakening | 249173 | [249173-yggdrasil-2-awakening.json](./249173-yggdrasil-2-awakening.json) |
