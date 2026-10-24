@@ -5301,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Magical Mahjong | 205118 | [205118-alices-magical-mahjong.json](./205118-alices-magical-mahjong.json) |
 | Alice's Mergeland Adventure | 220223 | [220223-alices-mergeland-adventure.json](./220223-alices-mergeland-adventure.json) |
 | Alice's Moo-vie night | 185359 | [185359-alices-moo-vie-night.json](./185359-alices-moo-vie-night.json) |
+| Alice's Patchwork | 33485 | [33485-alices-patchwork.json](./33485-alices-patchwork.json) |
 | Alice's Patchworks 2 | 31438 | [31438-alices-patchworks-2.json](./31438-alices-patchworks-2.json) |
 | Alice's Space Adventure | 57910 | [57910-alices-space-adventure.json](./57910-alices-space-adventure.json) |
 | Alice's Spiritual Judge | 202677 | [202677-alices-spiritual-judge.json](./202677-alices-spiritual-judge.json) |
@@ -13766,6 +13767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Stunt Racing: Extreme Offroad Simulator | 322658 | [322658-atv-stunt-racing-extreme-offroad-simulator.json](./322658-atv-stunt-racing-extreme-offroad-simulator.json) |
 | ATV Thunder Ridge Riders | 49369 | [49369-atv-thunder-ridge-riders.json](./49369-atv-thunder-ridge-riders.json) |
 | ATV Track | 250499 | [250499-atv-track.json](./250499-atv-track.json) |
+| ATV Wild Ride 3D | 23522 | [23522-atv-wild-ride-3d.json](./23522-atv-wild-ride-3d.json) |
 | ATV: Quad Kings | 51012 | [51012-atv-quad-kings.json](./51012-atv-quad-kings.json) |
 | ATV: Thunder Ridge Riders / Monster Trucks Mayhem | 93415 | [93415-atv-thunder-ridge-riders-monster-trucks-mayhem.json](./93415-atv-thunder-ridge-riders-monster-trucks-mayhem.json) |
 | AtWar | 62520 | [62520-atwar.json](./62520-atwar.json) |
@@ -13973,6 +13975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Austrian Truck Simulator | 61524 | [61524-austrian-truck-simulator.json](./61524-austrian-truck-simulator.json) |
 | Auti-Sim | 306806 | [306806-auti-sim.json](./306806-auti-sim.json) |
 | Auto Afterlife | 133251 | [133251-auto-afterlife.json](./133251-auto-afterlife.json) |
+| Auto Age: Standoff | 33119 | [33119-auto-age-standoff.json](./33119-auto-age-standoff.json) |
 | Auto Assault | 20625 | [20625-auto-assault.json](./20625-auto-assault.json) |
 | Auto Auto: Maximum Autodrive In The Alien Apocalypse | 277602 | [277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json](./277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json) |
 | Auto Balls | 195450 | [195450-auto-balls.json](./195450-auto-balls.json) |
