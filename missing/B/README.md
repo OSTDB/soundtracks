@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2404,6 +2405,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Stars Professional | 39595 | [39595-baseball-stars-professional.json](./39595-baseball-stars-professional.json) |
 | Baseball Stars: Pocket Sports Series | 85995 | [85995-baseball-stars-pocket-sports-series.json](./85995-baseball-stars-pocket-sports-series.json) |
 | Baseball Superstars 2011 | 66207 | [66207-baseball-superstars-2011.json](./66207-baseball-superstars-2011.json) |
+| Baseball Superstars 2012 | 38707 | [38707-baseball-superstars-2012.json](./38707-baseball-superstars-2012.json) |
+| Baseball Superstars 2013 | 38708 | [38708-baseball-superstars-2013.json](./38708-baseball-superstars-2013.json) |
 | Baseball Superstars 2023 | 250168 | [250168-baseball-superstars-2023.json](./250168-baseball-superstars-2023.json) |
 | Baseball Superstars 2024 | 318399 | [318399-baseball-superstars-2024.json](./318399-baseball-superstars-2024.json) |
 | Baseball Trivia | 89633 | [89633-baseball-trivia.json](./89633-baseball-trivia.json) |
@@ -7923,6 +7926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Ace | 243594 | [243594-blazing-ace.json](./243594-blazing-ace.json) |
 | Blazing Angels: Squadrons of WWII | 3124 | [3124-blazing-angels-squadrons-of-wwii.json](./3124-blazing-angels-squadrons-of-wwii.json) |
 | Blazing Aries | 153904 | [153904-blazing-aries.json](./153904-blazing-aries.json) |
+| Blazing Bajirao | 38696 | [38696-blazing-bajirao.json](./38696-blazing-bajirao.json) |
 | Blazing Beaks + Badland: Game of the Year Edition | 226341 | [226341-blazing-beaks-badland-game-of-the-year-edition.json](./226341-blazing-beaks-badland-game-of-the-year-edition.json) |
 | Blazing Chrome | 55042 | [55042-blazing-chrome.json](./55042-blazing-chrome.json) |
 | Blazing Core | 91140 | [91140-blazing-core.json](./91140-blazing-core.json) |
@@ -13680,6 +13684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Chess | 101673 | [101673-bullet-chess.json](./101673-bullet-chess.json) |
 | Bullet Cove | 141701 | [141701-bullet-cove.json](./141701-bullet-cove.json) |
 | Bullet Destroyer | 226273 | [226273-bullet-destroyer.json](./226273-bullet-destroyer.json) |
+| Bullet Dodge | 38723 | [38723-bullet-dodge.json](./38723-bullet-dodge.json) |
 | Bullet Express | 185477 | [185477-bullet-express.json](./185477-bullet-express.json) |
 | Bullet Fractals | 181894 | [181894-bullet-fractals.json](./181894-bullet-fractals.json) |
 | Bullet Frenzy | 269041 | [269041-bullet-frenzy.json](./269041-bullet-frenzy.json) |
