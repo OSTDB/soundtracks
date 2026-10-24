@@ -2387,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayato's Journey | 310652 | [310652-hayatos-journey.json](./310652-hayatos-journey.json) |
 | Hayatsubasa | 376872 | [376872-hayatsubasa.json](./376872-hayatsubasa.json) |
 | Hayauchi Super Igo | 48329 | [48329-hayauchi-super-igo.json](./48329-hayauchi-super-igo.json) |
+| Haydee | 24516 | [24516-haydee.json](./24516-haydee.json) |
 | Haydee 2 | 141257 | [141257-haydee-2.json](./141257-haydee-2.json) |
 | Haydee 3 | 333073 | [333073-haydee-3.json](./333073-haydee-3.json) |
 | Hayden's Odyssey | 384286 | [384286-haydens-odyssey.json](./384286-haydens-odyssey.json) |
@@ -9720,6 +9721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter's Arena: Revolution | 367978 | [367978-hunters-arena-revolution.json](./367978-hunters-arena-revolution.json) |
 | Hunter's Journey: Tears of the Lake | 416706 | [416706-hunters-journey-tears-of-the-lake.json](./416706-hunters-journey-tears-of-the-lake.json) |
 | Hunter's Journey: Tears of the Lake - Collector's Edition | 362844 | [362844-hunters-journey-tears-of-the-lake-collectors-edition.json](./362844-hunters-journey-tears-of-the-lake-collectors-edition.json) |
+| Hunter's Legacy | 24022 | [24022-hunters-legacy.json](./24022-hunters-legacy.json) |
 | Hunter's Moon | 144939 | [144939-hunters-moon.json](./144939-hunters-moon.json) |
 | Hunter's Moon | 37310 | [37310-hunters-moon.json](./37310-hunters-moon.json) |
 | Hunter's Moon | 416105 | [416105-hunters-moon.json](./416105-hunters-moon.json) |
