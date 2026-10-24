@@ -9647,6 +9647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby 2005 | 6019 | [6019-rugby-2005.json](./6019-rugby-2005.json) |
 | Rugby 22 | 182305 | [182305-rugby-22.json](./182305-rugby-22.json) |
 | Rugby 25 | 241246 | [241246-rugby-25.json](./241246-rugby-25.json) |
+| Rugby Challenge | 3009 | [3009-rugby-challenge.json](./3009-rugby-challenge.json) |
 | Rugby Challenge 3 | 17275 | [17275-rugby-challenge-3.json](./17275-rugby-challenge-3.json) |
 | Rugby Challenge 3: Jonah Lomu Edition | 82433 | [82433-rugby-challenge-3-jonah-lomu-edition.json](./82433-rugby-challenge-3-jonah-lomu-edition.json) |
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
