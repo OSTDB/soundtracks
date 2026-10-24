@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeover Trail | 395577 | [395577-takeover-trail.json](./395577-takeover-trail.json) |
 | Takepoint.io | 194571 | [194571-takepoint-io.json](./194571-takepoint-io.json) |
 | Takeshi and Hiroshi | 130698 | [130698-takeshi-and-hiroshi.json](./130698-takeshi-and-hiroshi.json) |
+| Takeshi no Chousenjou | 8531 | [8531-takeshi-no-chousenjou.json](./8531-takeshi-no-chousenjou.json) |
 | Takeshi no Sengoku Fuuunko | 48887 | [48887-takeshi-no-sengoku-fuuunko.json](./48887-takeshi-no-sengoku-fuuunko.json) |
 | Takeyariman | 222300 | [222300-takeyariman.json](./222300-takeyariman.json) |
 | Takin' it to the Hoop | 44338 | [44338-takin-it-to-the-hoop.json](./44338-takin-it-to-the-hoop.json) |
@@ -1115,7 +1116,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Terror: Estate of the Heart | 19209 | [19209-tales-of-terror-estate-of-the-heart.json](./19209-tales-of-terror-estate-of-the-heart.json) |
 | Tales of Terror: House on the Hill | 139428 | [139428-tales-of-terror-house-on-the-hill.json](./139428-tales-of-terror-house-on-the-hill.json) |
 | Tales of Terror: House on the Hill - Collector's Edition | 74351 | [74351-tales-of-terror-house-on-the-hill-collectors-edition.json](./74351-tales-of-terror-house-on-the-hill-collectors-edition.json) |
-| Tales of the Abyss | 20972 | [20972-tales-of-the-abyss.json](./20972-tales-of-the-abyss.json) |
 | Tales of the Abyss: Mieu no Daibouken | 294607 | [294607-tales-of-the-abyss-mieu-no-daibouken.json](./294607-tales-of-the-abyss-mieu-no-daibouken.json) |
 | Tales of the Abyss: Mieu no Fonic Gojiten | 294608 | [294608-tales-of-the-abyss-mieu-no-fonic-gojiten.json](./294608-tales-of-the-abyss-mieu-no-fonic-gojiten.json) |
 | Tales of the Abyss: Mieu no Jikkenshitsu? | 294609 | [294609-tales-of-the-abyss-mieu-no-jikkenshitsu.json](./294609-tales-of-the-abyss-mieu-no-jikkenshitsu.json) |
@@ -6144,6 +6144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coven | 37114 | [37114-the-coven.json](./37114-the-coven.json) |
 | The Covenant | 13526 | [13526-the-covenant.json](./13526-the-covenant.json) |
 | The Coveted Mirror | 25038 | [25038-the-coveted-mirror.json](./25038-the-coveted-mirror.json) |
+| The Cow Flew Over the Moon | 8368 | [8368-the-cow-flew-over-the-moon.json](./8368-the-cow-flew-over-the-moon.json) |
 | The Cow Game | 189022 | [189022-the-cow-game.json](./189022-the-cow-game.json) |
 | The Cow Quiz | 217914 | [217914-the-cow-quiz.json](./217914-the-cow-quiz.json) |
 | The Cozy Garden of Forgotten Dreams | 347303 | [347303-the-cozy-garden-of-forgotten-dreams.json](./347303-the-cozy-garden-of-forgotten-dreams.json) |
@@ -11136,6 +11137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mini Crossword | 311756 | [311756-the-mini-crossword.json](./311756-the-mini-crossword.json) |
 | The Mini-Skirt Police | 72595 | [72595-the-mini-skirt-police.json](./72595-the-mini-skirt-police.json) |
 | The Ministry for Anomaly Observation | 405582 | [405582-the-ministry-for-anomaly-observation.json](./405582-the-ministry-for-anomaly-observation.json) |
+| The Ministry of Silly Walks | 8556 | [8556-the-ministry-of-silly-walks.json](./8556-the-ministry-of-silly-walks.json) |
 | The Minotaur | 34159 | [34159-the-minotaur.json](./34159-the-minotaur.json) |
 | The Miracle Of San Martin | 416606 | [416606-the-miracle-of-san-martin.json](./416606-the-miracle-of-san-martin.json) |
 | The Mirage: Illusion of Wish | 25057 | [25057-the-mirage-illusion-of-wish.json](./25057-the-mirage-illusion-of-wish.json) |
@@ -12012,6 +12014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pillage | 75219 | [75219-the-pillage.json](./75219-the-pillage.json) |
 | The Pillagers of Raillore | 137096 | [137096-the-pillagers-of-raillore.json](./137096-the-pillagers-of-raillore.json) |
 | The Pillar: Puzzle Escape | 146579 | [146579-the-pillar-puzzle-escape.json](./146579-the-pillar-puzzle-escape.json) |
+| The Pinball of the Dead | 6534 | [6534-the-pinball-of-the-dead.json](./6534-the-pinball-of-the-dead.json) |
 | The Pinecone | 140352 | [140352-the-pinecone.json](./140352-the-pinecone.json) |
 | The Pink Panther | 218447 | [218447-the-pink-panther.json](./218447-the-pink-panther.json) |
 | The Pink Panther's Passport to Peril | 47088 | [47088-the-pink-panthers-passport-to-peril.json](./47088-the-pink-panthers-passport-to-peril.json) |
@@ -12168,6 +12171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Princess and The Frog | 172423 | [172423-the-princess-and-the-frog.json](./172423-the-princess-and-the-frog.json) |
 | The Princess and the Pauper: Storybook Adventures | 293199 | [293199-the-princess-and-the-pauper-storybook-adventures.json](./293199-the-princess-and-the-pauper-storybook-adventures.json) |
 | The Princess and the Portals | 413868 | [413868-the-princess-and-the-portals.json](./413868-the-princess-and-the-portals.json) |
+| The Princess Bride Game | 8493 | [8493-the-princess-bride-game.json](./8493-the-princess-bride-game.json) |
 | The Princess Bride: The Official Game | 58854 | [58854-the-princess-bride-the-official-game.json](./58854-the-princess-bride-the-official-game.json) |
 | The Princess Case: A Royal Scoop | 54296 | [54296-the-princess-case-a-royal-scoop.json](./54296-the-princess-case-a-royal-scoop.json) |
 | The Princess Cliche | 281310 | [281310-the-princess-cliche.json](./281310-the-princess-cliche.json) |
@@ -14124,10 +14128,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terminator | 4372 | [4372-the-terminator.json](./4372-the-terminator.json) |
 | The Terminator | 7688 | [7688-the-terminator.json](./7688-the-terminator.json) |
 | The Terminator | 85846 | [85846-the-terminator.json](./85846-the-terminator.json) |
+| The Terminator 2029 | 8411 | [8411-the-terminator-2029.json](./8411-the-terminator-2029.json) |
 | The Terminator 2029: Deluxe CD Edition | 358341 | [358341-the-terminator-2029-deluxe-cd-edition.json](./358341-the-terminator-2029-deluxe-cd-edition.json) |
 | The Terminator 2029: Operation Scour | 15508 | [15508-the-terminator-2029-operation-scour.json](./15508-the-terminator-2029-operation-scour.json) |
 | The Terminator: Dawn of Fate | 6195 | [6195-the-terminator-dawn-of-fate.json](./6195-the-terminator-dawn-of-fate.json) |
 | The Terminator: Future Shock | 8413 | [8413-the-terminator-future-shock.json](./8413-the-terminator-future-shock.json) |
+| The Terminator: Rampage | 8412 | [8412-the-terminator-rampage.json](./8412-the-terminator-rampage.json) |
+| The Terminator: SkyNet | 8414 | [8414-the-terminator-skynet.json](./8414-the-terminator-skynet.json) |
 | The Termiraptor | 233393 | [233393-the-termiraptor.json](./233393-the-termiraptor.json) |
 | The Terraces | 303018 | [303018-the-terraces.json](./303018-the-terraces.json) |
 | The Terrible Old Man | 122170 | [122170-the-terrible-old-man.json](./122170-the-terrible-old-man.json) |
