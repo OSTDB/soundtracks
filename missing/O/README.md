@@ -2190,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Way | 174782 | [174782-one-way.json](./174782-one-way.json) |
 | One Way | 187197 | [187197-one-way.json](./187197-one-way.json) |
 | One Way Flight | 33002 | [33002-one-way-flight.json](./33002-one-way-flight.json) |
+| One Way Heroics | 13099 | [13099-one-way-heroics.json](./13099-one-way-heroics.json) |
 | One Way Heroics Plus | 147990 | [147990-one-way-heroics-plus.json](./147990-one-way-heroics-plus.json) |
 | One Way Home | 244491 | [244491-one-way-home.json](./244491-one-way-home.json) |
 | One Way Lane | 302780 | [302780-one-way-lane.json](./302780-one-way-lane.json) |
