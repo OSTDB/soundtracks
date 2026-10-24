@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backbeat and Hexagroove: Music Strategy Bundle | 242074 | [242074-backbeat-and-hexagroove-music-strategy-bundle.json](./242074-backbeat-and-hexagroove-music-strategy-bundle.json) |
 | Backbone: Artifact Edition | 159697 | [159697-backbone-artifact-edition.json](./159697-backbone-artifact-edition.json) |
 | Backbone's Rampage | 277540 | [277540-backbones-rampage.json](./277540-backbones-rampage.json) |
+| Backbreaker | 5496 | [5496-backbreaker.json](./5496-backbreaker.json) |
 | Backbreaker Vengeance | 22942 | [22942-backbreaker-vengeance.json](./22942-backbreaker-vengeance.json) |
 | Backdate Hero | 230904 | [230904-backdate-hero.json](./230904-backdate-hero.json) |
 | BackDoor- Door 1 | 101761 | [101761-backdoor-door-1.json](./101761-backdoor-door-1.json) |
