@@ -756,7 +756,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2309,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bartenders | 244205 | [244205-bartenders.json](./244205-bartenders.json) |
 | Barter & Blades | 281953 | [281953-barter-and-blades.json](./281953-barter-and-blades.json) |
 | Bartholomew.exe | 358899 | [358899-bartholomew-exe.json](./358899-bartholomew-exe.json) |
+| Bartigo | 30582 | [30582-bartigo.json](./30582-bartigo.json) |
 | Bartlow's Dread Machine | 128934 | [128934-bartlows-dread-machine.json](./128934-bartlows-dread-machine.json) |
 | Bartman: Avenger of Evil | 218328 | [218328-bartman-avenger-of-evil.json](./218328-bartman-avenger-of-evil.json) |
 | Bartolomeo, Misled by Circumstances, Learns that Appearances can be Deceptive | 317311 | [317311-bartolomeo-misled-by-circumstances-learns-that-appearances-can-be-deceptive.json](./317311-bartolomeo-misled-by-circumstances-learns-that-appearances-can-be-deceptive.json) |
@@ -8443,6 +8443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Robot Mini Survival Game | 41918 | [41918-block-robot-mini-survival-game.json](./41918-block-robot-mini-survival-game.json) |
 | Block Rocking Beats | 37380 | [37380-block-rocking-beats.json](./37380-block-rocking-beats.json) |
 | Block Room | 259452 | [259452-block-room.json](./259452-block-room.json) |
+| Block Royale | 30589 | [30589-block-royale.json](./30589-block-royale.json) |
 | Block Rush 3 | 369015 | [369015-block-rush-3.json](./369015-block-rush-3.json) |
 | Block Shock: The Last Chance | 14321 | [14321-block-shock-the-last-chance.json](./14321-block-shock-the-last-chance.json) |
 | Block Shop | 283387 | [283387-block-shop.json](./283387-block-shop.json) |
@@ -14147,6 +14148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger: The Game | 102815 | [102815-burger-the-game.json](./102815-burger-the-game.json) |
 | Burgerkill | 66987 | [66987-burgerkill.json](./66987-burgerkill.json) |
 | Burgers | 18912 | [18912-burgers.json](./18912-burgers.json) |
+| Burgers 2 | 30521 | [30521-burgers-2.json](./30521-burgers-2.json) |
 | BurgerTime | 199462 | [199462-burgertime.json](./199462-burgertime.json) |
 | BurgerTime | 199470 | [199470-burgertime.json](./199470-burgertime.json) |
 | BurgerTime | 246390 | [246390-burgertime.json](./246390-burgertime.json) |
