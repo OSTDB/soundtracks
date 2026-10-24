@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nautus | 414355 | [414355-nautus.json](./414355-nautus.json) |
 | Nav | 293504 | [293504-nav.json](./293504-nav.json) |
 | Nav's Endless Nightmare | 182537 | [182537-navs-endless-nightmare.json](./182537-navs-endless-nightmare.json) |
+| Naval Action | 16969 | [16969-naval-action.json](./16969-naval-action.json) |
 | Naval Action: Admiralty Connection | 155560 | [155560-naval-action-admiralty-connection.json](./155560-naval-action-admiralty-connection.json) |
 | Naval Action: Hercules | 155562 | [155562-naval-action-hercules.json](./155562-naval-action-hercules.json) |
 | Naval Action: HMS Victory 1765 | 155559 | [155559-naval-action-hms-victory-1765.json](./155559-naval-action-hms-victory-1765.json) |
@@ -1391,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necronator 2 | 304049 | [304049-necronator-2.json](./304049-necronator-2.json) |
 | NecroNegate | 337162 | [337162-necronegate.json](./337162-necronegate.json) |
 | NecroNightmare | 191581 | [191581-necronightmare.json](./191581-necronightmare.json) |
+| Necronomicon: The Gateway to Beyond | 17425 | [17425-necronomicon-the-gateway-to-beyond.json](./17425-necronomicon-the-gateway-to-beyond.json) |
 | Necronomistore | 117361 | [117361-necronomistore.json](./117361-necronomistore.json) |
 | Necronomistore: Black Friday - Season One | 170226 | [170226-necronomistore-black-friday-season-one.json](./170226-necronomistore-black-friday-season-one.json) |
 | NecroNomNomNom: Eldritch Horror Dating | 220638 | [220638-necronomnomnom-eldritch-horror-dating.json](./220638-necronomnomnom-eldritch-horror-dating.json) |
@@ -3309,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon Extreme Tennis | 194327 | [194327-nickelodeon-extreme-tennis.json](./194327-nickelodeon-extreme-tennis.json) |
 | Nickelodeon Fit | 50706 | [50706-nickelodeon-fit.json](./50706-nickelodeon-fit.json) |
 | Nickelodeon Guts | 42478 | [42478-nickelodeon-guts.json](./42478-nickelodeon-guts.json) |
+| Nickelodeon Kart Racers | 106109 | [106109-nickelodeon-kart-racers.json](./106109-nickelodeon-kart-racers.json) |
 | Nickelodeon Kart Racers 2: Grand Prix | 134680 | [134680-nickelodeon-kart-racers-2-grand-prix.json](./134680-nickelodeon-kart-racers-2-grand-prix.json) |
 | Nickelodeon Kart Racers 3: Slime Speedway | 208727 | [208727-nickelodeon-kart-racers-3-slime-speedway.json](./208727-nickelodeon-kart-racers-3-slime-speedway.json) |
 | Nickelodeon Kart Racers 3: Slime Speedway - Turbo Edition | 219484 | [219484-nickelodeon-kart-racers-3-slime-speedway-turbo-edition.json](./219484-nickelodeon-kart-racers-3-slime-speedway-turbo-edition.json) |
@@ -6300,6 +6303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyamo's Adventure | 182513 | [182513-nyamos-adventure.json](./182513-nyamos-adventure.json) |
 | Nyan Cat FLY! | 313545 | [313545-nyan-cat-fly.json](./313545-nyan-cat-fly.json) |
 | Nyan Cat: Jump! | 64259 | [64259-nyan-cat-jump.json](./64259-nyan-cat-jump.json) |
+| Nyan Cat: Lost In Space | 34115 | [34115-nyan-cat-lost-in-space.json](./34115-nyan-cat-lost-in-space.json) |
 | Nyan Cat: The Space Journey | 344905 | [344905-nyan-cat-the-space-journey.json](./344905-nyan-cat-the-space-journey.json) |
 | Nyan Cat! | 64260 | [64260-nyan-cat.json](./64260-nyan-cat.json) |
 | Nyan Nikki | 229663 | [229663-nyan-nikki.json](./229663-nyan-nikki.json) |
