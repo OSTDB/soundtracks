@@ -12275,6 +12275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snipers vs Thieves: FPS Clash | 87513 | [87513-snipers-vs-thieves-fps-clash.json](./87513-snipers-vs-thieves-fps-clash.json) |
 | Snipes | 25147 | [25147-snipes.json](./25147-snipes.json) |
 | SnipZ | 30729 | [30729-snipz.json](./30729-snipz.json) |
+| SNK 40th Anniversary Collection | 96198 | [96198-snk-40th-anniversary-collection.json](./96198-snk-40th-anniversary-collection.json) |
 | SNK Fighting Legends | 149285 | [149285-snk-fighting-legends.json](./149285-snk-fighting-legends.json) |
 | SNK Gals' Fighters | 43983 | [43983-snk-gals-fighters.json](./43983-snk-gals-fighters.json) |
 | SNK Heroines: Tag Team Frenzy | 81146 | [81146-snk-heroines-tag-team-frenzy.json](./81146-snk-heroines-tag-team-frenzy.json) |
@@ -24750,6 +24751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Captain Flying Robot City Rescue Mission | 96008 | [96008-super-captain-flying-robot-city-rescue-mission.json](./96008-super-captain-flying-robot-city-rescue-mission.json) |
 | Super Car Driving Bugatti Divo | 296781 | [296781-super-car-driving-bugatti-divo.json](./296781-super-car-driving-bugatti-divo.json) |
 | Super Caronaut | 178626 | [178626-super-caronaut.json](./178626-super-caronaut.json) |
+| Super Cars | 12226 | [12226-super-cars.json](./12226-super-cars.json) |
 | Super Cars II | 12227 | [12227-super-cars-ii.json](./12227-super-cars-ii.json) |
 | Super Casino 2 | 38304 | [38304-super-casino-2.json](./38304-super-casino-2.json) |
 | Super Castlevania IV | 1124 | [1124-super-castlevania-iv.json](./1124-super-castlevania-iv.json) |
