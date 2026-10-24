@@ -1117,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoids VS II | 50585 | [50585-zoids-vs-ii.json](./50585-zoids-vs-ii.json) |
 | Zoids VS III | 50576 | [50576-zoids-vs-iii.json](./50576-zoids-vs-iii.json) |
 | Zoids Wild: Infinity Blast | 146832 | [146832-zoids-wild-infinity-blast.json](./146832-zoids-wild-infinity-blast.json) |
+| Zoids: Battle Legends | 10629 | [10629-zoids-battle-legends.json](./10629-zoids-battle-legends.json) |
 | Zoids: Chuuou Tairiku no Tatakai | 64655 | [64655-zoids-chuuou-tairiku-no-tatakai.json](./64655-zoids-chuuou-tairiku-no-tatakai.json) |
 | Zoids: Full Metal Crash | 50584 | [50584-zoids-full-metal-crash.json](./50584-zoids-full-metal-crash.json) |
 | Zoids: Legacy | 49203 | [49203-zoids-legacy.json](./49203-zoids-legacy.json) |
