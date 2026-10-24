@@ -3205,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethargy | 175147 | [175147-lethargy.json](./175147-lethargy.json) |
 | Lethe | 175283 | [175283-lethe.json](./175283-lethe.json) |
 | Letherfall | 373540 | [373540-letherfall.json](./373540-letherfall.json) |
+| Lethis: Path of Progress | 22672 | [22672-lethis-path-of-progress.json](./22672-lethis-path-of-progress.json) |
 | Lethis: Path of Progress II | 116438 | [116438-lethis-path-of-progress-ii.json](./116438-lethis-path-of-progress-ii.json) |
 | Leticia Land | 183464 | [183464-leticia-land.json](./183464-leticia-land.json) |
 | Letifer | 267831 | [267831-letifer.json](./267831-letifer.json) |
