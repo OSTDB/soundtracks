@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty 2 | 119160 | [119160-call-of-duty-2.json](./119160-call-of-duty-2.json) |
 | Call of Duty 2 | 294571 | [294571-call-of-duty-2.json](./294571-call-of-duty-2.json) |
 | Call of Duty 2 - Invasion Map Pack | 294567 | [294567-call-of-duty-2-invasion-map-pack.json](./294567-call-of-duty-2-invasion-map-pack.json) |
+| Call of Duty 2: Big Red One | 3845 | [3845-call-of-duty-2-big-red-one.json](./3845-call-of-duty-2-big-red-one.json) |
 | Call of Duty 2: Big Red One - Collector's Edition | 294561 | [294561-call-of-duty-2-big-red-one-collectors-edition.json](./294561-call-of-duty-2-big-red-one-collectors-edition.json) |
 | Call of Duty 2: Bonus Map Pack | 294565 | [294565-call-of-duty-2-bonus-map-pack.json](./294565-call-of-duty-2-bonus-map-pack.json) |
 | Call of Duty 2: Collector's Edition | 292790 | [292790-call-of-duty-2-collectors-edition.json](./292790-call-of-duty-2-collectors-edition.json) |
@@ -13923,6 +13924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Bullet | 296446 | [296446-crisis-bullet.json](./296446-crisis-bullet.json) |
 | Crisis City | 43784 | [43784-crisis-city.json](./43784-crisis-city.json) |
 | Crisis Core: Final Fantasy VII - Collector's Edition | 141504 | [141504-crisis-core-final-fantasy-vii-collectors-edition.json](./141504-crisis-core-final-fantasy-vii-collectors-edition.json) |
+| Crisis Core: Final Fantasy VII - Reunion | 205201 | [205201-crisis-core-final-fantasy-vii-reunion.json](./205201-crisis-core-final-fantasy-vii-reunion.json) |
 | Crisis Force | 48652 | [48652-crisis-force.json](./48652-crisis-force.json) |
 | Crisis Heart Brawlers: Clash at Otakon | 64681 | [64681-crisis-heart-brawlers-clash-at-otakon.json](./64681-crisis-heart-brawlers-clash-at-otakon.json) |
 | Crisis in the Aegean Sea | 127320 | [127320-crisis-in-the-aegean-sea.json](./127320-crisis-in-the-aegean-sea.json) |
@@ -14032,6 +14034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croc Mobile: Jungle Rumble! | 55951 | [55951-croc-mobile-jungle-rumble.json](./55951-croc-mobile-jungle-rumble.json) |
 | Croc Mobile: Pinball | 55949 | [55949-croc-mobile-pinball.json](./55949-croc-mobile-pinball.json) |
 | Croc Mobile: Volcanic Panic | 55965 | [55965-croc-mobile-volcanic-panic.json](./55965-croc-mobile-volcanic-panic.json) |
+| Croc: Legend of the Gobbos | 7901 | [7901-croc-legend-of-the-gobbos.json](./7901-croc-legend-of-the-gobbos.json) |
 | Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
 | Croc's World 3 | 88563 | [88563-crocs-world-3.json](./88563-crocs-world-3.json) |
 | Croc's World Run | 115465 | [115465-crocs-world-run.json](./115465-crocs-world-run.json) |
