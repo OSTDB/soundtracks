@@ -2602,6 +2602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pavement Pummel | 302432 | [302432-pavement-pummel.json](./302432-pavement-pummel.json) |
 | Paver Simulator | 265554 | [265554-paver-simulator.json](./265554-paver-simulator.json) |
 | Paver: Tidy Up Together | 414817 | [414817-paver-tidy-up-together.json](./414817-paver-tidy-up-together.json) |
+| Pavilion | 24963 | [24963-pavilion.json](./24963-pavilion.json) |
 | Pavilion: Touch Edition | 90801 | [90801-pavilion-touch-edition.json](./90801-pavilion-touch-edition.json) |
 | Pavlov VR | 30548 | [30548-pavlov-vr.json](./30548-pavlov-vr.json) |
 | Pavlov's House | 153322 | [153322-pavlovs-house.json](./153322-pavlovs-house.json) |
@@ -4575,6 +4576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Ace Attorney | 221284 | [221284-phoenix-wright-ace-attorney.json](./221284-phoenix-wright-ace-attorney.json) |
 | Phoenix Wright: Ace Attorney | 221285 | [221285-phoenix-wright-ace-attorney.json](./221285-phoenix-wright-ace-attorney.json) |
 | Phoenix Wright: Ace Attorney - Dual Destinies | 253012 | [253012-phoenix-wright-ace-attorney-dual-destinies.json](./253012-phoenix-wright-ace-attorney-dual-destinies.json) |
+| Phoenix Wright: Ace Attorney - Dual Destinies: Special Episode - Turnabout Reclaimed | 24973 | [24973-phoenix-wright-ace-attorney-dual-destinies-special-episode-turnabout-reclaimed.json](./24973-phoenix-wright-ace-attorney-dual-destinies-special-episode-turnabout-reclaimed.json) |
 | Phoenix Wright: Ace Attorney - Episode 5: Rise from the Ashes | 340577 | [340577-phoenix-wright-ace-attorney-episode-5-rise-from-the-ashes.json](./340577-phoenix-wright-ace-attorney-episode-5-rise-from-the-ashes.json) |
 | Phoenix Wright: Ace Attorney - Justice for All | 1427 | [1427-phoenix-wright-ace-attorney-justice-for-all.json](./1427-phoenix-wright-ace-attorney-justice-for-all.json) |
 | Phoenix Wright: Ace Attorney - Justice For All | 221286 | [221286-phoenix-wright-ace-attorney-justice-for-all.json](./221286-phoenix-wright-ace-attorney-justice-for-all.json) |
@@ -7005,6 +7007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelJunk Monsters Deluxe | 44520 | [44520-pixeljunk-monsters-deluxe.json](./44520-pixeljunk-monsters-deluxe.json) |
 | Pixeljunk Monsters Duo | 76208 | [76208-pixeljunk-monsters-duo.json](./76208-pixeljunk-monsters-duo.json) |
 | PixelJunk Monsters Encore | 139952 | [139952-pixeljunk-monsters-encore.json](./139952-pixeljunk-monsters-encore.json) |
+| PixelJunk Monsters Ultimate | 25491 | [25491-pixeljunk-monsters-ultimate.json](./25491-pixeljunk-monsters-ultimate.json) |
 | PixelJunk Nom Nom Galaxy | 10602 | [10602-pixeljunk-nom-nom-galaxy.json](./10602-pixeljunk-nom-nom-galaxy.json) |
 | PixelJunk Racers | 20762 | [20762-pixeljunk-racers.json](./20762-pixeljunk-racers.json) |
 | PixelJunk Racers: 2nd Lap | 44576 | [44576-pixeljunk-racers-2nd-lap.json](./44576-pixeljunk-racers-2nd-lap.json) |
@@ -9658,6 +9661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polismos | 285476 | [285476-polismos.json](./285476-polismos.json) |
 | Politaire | 58146 | [58146-politaire.json](./58146-politaire.json) |
 | Politica: Nothing Ideological. It's Just Business | 291313 | [291313-politica-nothing-ideological-its-just-business.json](./291313-politica-nothing-ideological-its-just-business.json) |
+| Political Animals | 25678 | [25678-political-animals.json](./25678-political-animals.json) |
 | Political Arena | 180303 | [180303-political-arena.json](./180303-political-arena.json) |
 | Political Duel | 215320 | [215320-political-duel.json](./215320-political-duel.json) |
 | Political Fight Club | 164931 | [164931-political-fight-club.json](./164931-political-fight-club.json) |
@@ -10986,6 +10990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Ninja Storm | 3291 | [3291-power-rangers-ninja-storm.json](./3291-power-rangers-ninja-storm.json) |
 | Power Rangers: To the Rescue | 220101 | [220101-power-rangers-to-the-rescue.json](./220101-power-rangers-to-the-rescue.json) |
 | Power Rangers: Unite | 252558 | [252558-power-rangers-unite.json](./252558-power-rangers-unite.json) |
+| Power Rangers: Wild Force | 49181 | [49181-power-rangers-wild-force.json](./49181-power-rangers-wild-force.json) |
 | Power Rush | 194375 | [194375-power-rush.json](./194375-power-rush.json) |
 | Power Serve 3D Tennis | 20641 | [20641-power-serve-3d-tennis.json](./20641-power-serve-3d-tennis.json) |
 | Power Shovel | 44741 | [44741-power-shovel.json](./44741-power-shovel.json) |
