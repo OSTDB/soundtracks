@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoblade Chronicles: Future Connected | 134328 | [134328-xenoblade-chronicles-future-connected.json](./134328-xenoblade-chronicles-future-connected.json) |
 | Xenoblade Genesis | 405450 | [405450-xenoblade-genesis.json](./405450-xenoblade-genesis.json) |
 | XenoBloom | 34734 | [34734-xenobloom.json](./34734-xenobloom.json) |
+| Xenobox VR | 43062 | [43062-xenobox-vr.json](./43062-xenobox-vr.json) |
 | Xenobreakers: Classic Tower Defense | 337065 | [337065-xenobreakers-classic-tower-defense.json](./337065-xenobreakers-classic-tower-defense.json) |
 | Xenochamber | 110976 | [110976-xenochamber.json](./110976-xenochamber.json) |
 | Xenociders | 126240 | [126240-xenociders.json](./126240-xenociders.json) |
@@ -754,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xong VR | 115341 | [115341-xong-vr.json](./115341-xong-vr.json) |
 | Xonix | 261315 | [261315-xonix.json](./261315-xonix.json) |
 | Xonix | 304330 | [304330-xonix.json](./304330-xonix.json) |
+| Xonox Double-Ender: Robin Hood & Sir Lancelot | 60937 | [60937-xonox-double-ender-robin-hood-and-sir-lancelot.json](./60937-xonox-double-ender-robin-hood-and-sir-lancelot.json) |
 | Xonox Double-Ender: Tomarc the Barbarian & Motocross Racer | 40743 | [40743-xonox-double-ender-tomarc-the-barbarian-and-motocross-racer.json](./40743-xonox-double-ender-tomarc-the-barbarian-and-motocross-racer.json) |
 | Xontainer Meta Space | 329156 | [329156-xontainer-meta-space.json](./329156-xontainer-meta-space.json) |
 | Xoo: Xeno Xafari | 149000 | [149000-xoo-xeno-xafari.json](./149000-xoo-xeno-xafari.json) |
