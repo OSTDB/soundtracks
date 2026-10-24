@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakornsampan | 181046 | [181046-nakornsampan.json](./181046-nakornsampan.json) |
 | Nakoruru: Anohito kara no Okurimono | 57624 | [57624-nakoruru-anohito-kara-no-okurimono.json](./57624-nakoruru-anohito-kara-no-okurimono.json) |
 | Nakwon: Last Paradise | 266732 | [266732-nakwon-last-paradise.json](./266732-nakwon-last-paradise.json) |
+| NAL Is Alive | 32482 | [32482-nal-is-alive.json](./32482-nal-is-alive.json) |
 | Nala Cat | 257779 | [257779-nala-cat.json](./257779-nala-cat.json) |
 | Nalani: Legacy of the Ancients | 341357 | [341357-nalani-legacy-of-the-ancients.json](./341357-nalani-legacy-of-the-ancients.json) |
 | Nalogi 2 | 96899 | [96899-nalogi-2.json](./96899-nalogi-2.json) |
@@ -2822,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Mysteries: The Outbreak - Collector's Edition | 358093 | [358093-new-york-mysteries-the-outbreak-collectors-edition.json](./358093-new-york-mysteries-the-outbreak-collectors-edition.json) |
 | New York Nights 2: Friends For Life | 264134 | [264134-new-york-nights-2-friends-for-life.json](./264134-new-york-nights-2-friends-for-life.json) |
 | New York Nights: Success in the City | 159237 | [159237-new-york-nights-success-in-the-city.json](./159237-new-york-nights-success-in-the-city.json) |
+| New York Race | 32551 | [32551-new-york-race.json](./32551-new-york-race.json) |
 | New York Rat Simulator | 181095 | [181095-new-york-rat-simulator.json](./181095-new-york-rat-simulator.json) |
 | New York Shark | 294427 | [294427-new-york-shark.json](./294427-new-york-shark.json) |
 | New York Simulator Air Racing and The Statue of Liberty | 197650 | [197650-new-york-simulator-air-racing-and-the-statue-of-liberty.json](./197650-new-york-simulator-air-racing-and-the-statue-of-liberty.json) |
