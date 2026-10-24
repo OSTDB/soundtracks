@@ -15096,7 +15096,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wanderer's Rest | 391119 | [391119-the-wanderers-rest.json](./391119-the-wanderers-rest.json) |
 | The Wandering Demon Blade | 288625 | [288625-the-wandering-demon-blade.json](./288625-the-wandering-demon-blade.json) |
 | The Wandering Her | 400498 | [400498-the-wandering-her.json](./400498-the-wandering-her.json) |
-| The Wandering Village | 140669 | [140669-the-wandering-village.json](./140669-the-wandering-village.json) |
 | The Wandering Village: The Last Leviathan | 404854 | [404854-the-wandering-village-the-last-leviathan.json](./404854-the-wandering-village-the-last-leviathan.json) |
 | The Wanderings Dragon | 108025 | [108025-the-wanderings-dragon.json](./108025-the-wanderings-dragon.json) |
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
