@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrotic Haze | 256420 | [256420-necrotic-haze.json](./256420-necrotic-haze.json) |
 | Necrotyper | 360594 | [360594-necrotyper.json](./360594-necrotyper.json) |
 | Necroverse: Undying Shadows | 391262 | [391262-necroverse-undying-shadows.json](./391262-necroverse-undying-shadows.json) |
+| NecroVisioN | 10591 | [10591-necrovision.json](./10591-necrovision.json) |
 | NecroVisioN: Lost Company | 16146 | [16146-necrovision-lost-company.json](./16146-necrovision-lost-company.json) |
 | Necrow Co. | 187735 | [187735-necrow-co.json](./187735-necrow-co.json) |
 | Necrowarp | 129691 | [129691-necrowarp.json](./129691-necrowarp.json) |
@@ -3105,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 11 | 954 | [954-nhl-11.json](./954-nhl-11.json) |
 | NHL 12 | 952 | [952-nhl-12.json](./952-nhl-12.json) |
 | NHL 14 | 3003 | [3003-nhl-14.json](./3003-nhl-14.json) |
+| NHL 16 | 11075 | [11075-nhl-16.json](./11075-nhl-16.json) |
 | NHL 17: Deluxe Edition | 173114 | [173114-nhl-17-deluxe-edition.json](./173114-nhl-17-deluxe-edition.json) |
 | NHL 18 | 36847 | [36847-nhl-18.json](./36847-nhl-18.json) |
 | NHL 18: Young Stars Deluxe Edition | 85253 | [85253-nhl-18-young-stars-deluxe-edition.json](./85253-nhl-18-young-stars-deluxe-edition.json) |
