@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond 007: The Spy Who Loved Me | 44098 | [44098-james-bond-007-the-spy-who-loved-me.json](./44098-james-bond-007-the-spy-who-loved-me.json) |
 | James Bond 007: The Stealth Affair | 1636 | [1636-james-bond-007-the-stealth-affair.json](./1636-james-bond-007-the-stealth-affair.json) |
 | James Bond 007: The World Is Not Enough | 144507 | [144507-james-bond-007-the-world-is-not-enough.json](./144507-james-bond-007-the-world-is-not-enough.json) |
+| James Bond 007: The World Is Not Enough | 158962 | [158962-james-bond-007-the-world-is-not-enough.json](./158962-james-bond-007-the-world-is-not-enough.json) |
 | James Bond 007: The World Is Not Enough | 1641 | [1641-james-bond-007-the-world-is-not-enough.json](./1641-james-bond-007-the-world-is-not-enough.json) |
 | James Bond 007: Tomorrow Never Dies | 1640 | [1640-james-bond-007-tomorrow-never-dies.json](./1640-james-bond-007-tomorrow-never-dies.json) |
 | James Bond Jr. | 217971 | [217971-james-bond-jr.json](./217971-james-bond-jr.json) |
@@ -2835,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping! | 209655 | [209655-jumping.json](./209655-jumping.json) |
 | JumpingBoy | 111868 | [111868-jumpingboy.json](./111868-jumpingboy.json) |
 | Jumpix Jump | 33487 | [33487-jumpix-jump.json](./33487-jumpix-jump.json) |
+| JumpJet Rex | 13167 | [13167-jumpjet-rex.json](./13167-jumpjet-rex.json) |
 | JumpJump | 253206 | [253206-jumpjump.json](./253206-jumpjump.json) |
 | JumpJumpBall | 158622 | [158622-jumpjumpball.json](./158622-jumpjumpball.json) |
 | JumpJumpJump! | 335086 | [335086-jumpjumpjump.json](./335086-jumpjumpjump.json) |
