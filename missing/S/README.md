@@ -4068,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Genesis Mini 2 | 215742 | [215742-sega-genesis-mini-2.json](./215742-sega-genesis-mini-2.json) |
 | Sega Genesis Ultimate Portable Game Player | 202787 | [202787-sega-genesis-ultimate-portable-game-player.json](./202787-sega-genesis-ultimate-portable-game-player.json) |
 | Sega GT | 28838 | [28838-sega-gt.json](./28838-sega-gt.json) |
+| Sega GT 2002 | 6039 | [6039-sega-gt-2002.json](./6039-sega-gt-2002.json) |
 | Sega GT 2002 / Jet Set Radio Future | 144128 | [144128-sega-gt-2002-jet-set-radio-future.json](./144128-sega-gt-2002-jet-set-radio-future.json) |
 | Sega GT Online | 6040 | [6040-sega-gt-online.json](./6040-sega-gt-online.json) |
 | Sega GT: European Edition | 46366 | [46366-sega-gt-european-edition.json](./46366-sega-gt-european-edition.json) |
@@ -6932,6 +6933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinseiden Megaseed: Fukkatsu-hen | 261299 | [261299-shinseiden-megaseed-fukkatsu-hen.json](./261299-shinseiden-megaseed-fukkatsu-hen.json) |
 | Shinseiki Evangelion Mahjong Hokan Keikaku | 61676 | [61676-shinseiki-evangelion-mahjong-hokan-keikaku.json](./61676-shinseiki-evangelion-mahjong-hokan-keikaku.json) |
 | Shinseiki Evangelion: 2nd Impression | 73729 | [73729-shinseiki-evangelion-2nd-impression.json](./73729-shinseiki-evangelion-2nd-impression.json) |
+| Shinseiki Evangelion: Koutetsu no Girlfriend | 23953 | [23953-shinseiki-evangelion-koutetsu-no-girlfriend.json](./23953-shinseiki-evangelion-koutetsu-no-girlfriend.json) |
 | Shinseiki Evangelion: Typing E-Keikaku | 61671 | [61671-shinseiki-evangelion-typing-e-keikaku.json](./61671-shinseiki-evangelion-typing-e-keikaku.json) |
 | Shinseiki Evangelion: Typing Hokan Keikaku | 209939 | [209939-shinseiki-evangelion-typing-hokan-keikaku.json](./209939-shinseiki-evangelion-typing-hokan-keikaku.json) |
 | Shinseiki GPX Cyber Formula | 58063 | [58063-shinseiki-gpx-cyber-formula.json](./58063-shinseiki-gpx-cyber-formula.json) |
@@ -12867,6 +12869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOCOM 4: U.S. Navy SEALs | 7459 | [7459-socom-4-u-s-navy-seals.json](./7459-socom-4-u-s-navy-seals.json) |
 | SOCOM II: U.S. Navy SEALs | 8240 | [8240-socom-ii-u-s-navy-seals.json](./8240-socom-ii-u-s-navy-seals.json) |
 | SOCOM: U.S. Navy SEALs - Combined Assault | 8242 | [8242-socom-u-s-navy-seals-combined-assault.json](./8242-socom-u-s-navy-seals-combined-assault.json) |
+| SOCOM: U.S. Navy SEALs Fireteam Bravo | 24148 | [24148-socom-u-s-navy-seals-fireteam-bravo.json](./24148-socom-u-s-navy-seals-fireteam-bravo.json) |
 | SOCOM: U.S. Navy SEALs Fireteam Bravo 2 | 19431 | [19431-socom-u-s-navy-seals-fireteam-bravo-2.json](./19431-socom-u-s-navy-seals-fireteam-bravo-2.json) |
 | SOCOM: U.S. Navy SEALs Fireteam Bravo 3 | 21665 | [21665-socom-u-s-navy-seals-fireteam-bravo-3.json](./21665-socom-u-s-navy-seals-fireteam-bravo-3.json) |
 | SOCOM: US Navy SEALs | 22238 | [22238-socom-us-navy-seals.json](./22238-socom-us-navy-seals.json) |
@@ -20313,6 +20316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starpoint Gemini 2: Secrets of Aethera | 51898 | [51898-starpoint-gemini-2-secrets-of-aethera.json](./51898-starpoint-gemini-2-secrets-of-aethera.json) |
 | Starpoint Gemini 2: Titans | 51897 | [51897-starpoint-gemini-2-titans.json](./51897-starpoint-gemini-2-titans.json) |
 | Starpoint Gemini 3 | 115458 | [115458-starpoint-gemini-3.json](./115458-starpoint-gemini-3.json) |
+| Starpoint Gemini Warlords | 23905 | [23905-starpoint-gemini-warlords.json](./23905-starpoint-gemini-warlords.json) |
 | Starpoint Gemini Warlords - Cycle of Warfare | 124829 | [124829-starpoint-gemini-warlords-cycle-of-warfare.json](./124829-starpoint-gemini-warlords-cycle-of-warfare.json) |
 | Starpoint Gemini Warlords - Deadly Dozen | 51896 | [51896-starpoint-gemini-warlords-deadly-dozen.json](./51896-starpoint-gemini-warlords-deadly-dozen.json) |
 | Starpoint Gemini Warlords: Digital Deluxe Edition | 51895 | [51895-starpoint-gemini-warlords-digital-deluxe-edition.json](./51895-starpoint-gemini-warlords-digital-deluxe-edition.json) |
@@ -24943,6 +24947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super DJ | 233241 | [233241-super-dj.json](./233241-super-dj.json) |
 | Super Dodge Ball | 191662 | [191662-super-dodge-ball.json](./191662-super-dodge-ball.json) |
 | Super Dodge Ball | 40426 | [40426-super-dodge-ball.json](./40426-super-dodge-ball.json) |
+| Super Dodge Ball Advance | 6620 | [6620-super-dodge-ball-advance.json](./6620-super-dodge-ball-advance.json) |
 | Super Dodge Ball SNES Port | 377232 | [377232-super-dodge-ball-snes-port.json](./377232-super-dodge-ball-snes-port.json) |
 | Super Dodgeball Brawlers | 21052 | [21052-super-dodgeball-brawlers.json](./21052-super-dodgeball-brawlers.json) |
 | Super Dog Adventure | 398898 | [398898-super-dog-adventure.json](./398898-super-dog-adventure.json) |
@@ -26059,6 +26064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball | 134907 | [134907-super-monkey-ball.json](./134907-super-monkey-ball.json) |
 | Super Monkey Ball | 2927 | [2927-super-monkey-ball.json](./2927-super-monkey-ball.json) |
 | Super Monkey Ball 2 | 2928 | [2928-super-monkey-ball-2.json](./2928-super-monkey-ball-2.json) |
+| Super Monkey Ball 3D | 6893 | [6893-super-monkey-ball-3d.json](./6893-super-monkey-ball-3d.json) |
 | Super Monkey Ball Adventure | 248530 | [248530-super-monkey-ball-adventure.json](./248530-super-monkey-ball-adventure.json) |
 | Super Monkey Ball Adventure | 4188 | [4188-super-monkey-ball-adventure.json](./4188-super-monkey-ball-adventure.json) |
 | Super Monkey Ball Gaiden | 203169 | [203169-super-monkey-ball-gaiden.json](./203169-super-monkey-ball-gaiden.json) |
@@ -26392,6 +26398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen XO | 143417 | [143417-super-robot-taisen-xo.json](./143417-super-robot-taisen-xo.json) |
 | Super Robot Taisen Z | 79342 | [79342-super-robot-taisen-z.json](./79342-super-robot-taisen-z.json) |
 | Super Robot Taisen Z: Special Disc | 182490 | [182490-super-robot-taisen-z-special-disc.json](./182490-super-robot-taisen-z-special-disc.json) |
+| Super Robot Taisen: Original Generation | 6625 | [6625-super-robot-taisen-original-generation.json](./6625-super-robot-taisen-original-generation.json) |
 | Super Robot Taisen: Original Generation 2 | 6627 | [6627-super-robot-taisen-original-generation-2.json](./6627-super-robot-taisen-original-generation-2.json) |
 | Super Robot Taisen: Scramble Commander | 62710 | [62710-super-robot-taisen-scramble-commander.json](./62710-super-robot-taisen-scramble-commander.json) |
 | Super Robot Taisen: Scramble Commander the 2nd | 76970 | [76970-super-robot-taisen-scramble-commander-the-2nd.json](./76970-super-robot-taisen-scramble-commander-the-2nd.json) |
