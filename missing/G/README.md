@@ -1427,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaop | 233657 | [233657-gaop.json](./233657-gaop.json) |
 | Gap Year | 380825 | [380825-gap-year.json](./380825-gap-year.json) |
 | Gaping Little Red Riding Hood's Lewd Walking Around | 82600 | [82600-gaping-little-red-riding-hoods-lewd-walking-around.json](./82600-gaping-little-red-riding-hoods-lewd-walking-around.json) |
+| Gaplus | 21678 | [21678-gaplus.json](./21678-gaplus.json) |
 | Gaplus Phalanx | 243830 | [243830-gaplus-phalanx.json](./243830-gaplus-phalanx.json) |
 | GapMan | 267223 | [267223-gapman.json](./267223-gapman.json) |
 | Gapper | 57674 | [57674-gapper.json](./57674-gapper.json) |
