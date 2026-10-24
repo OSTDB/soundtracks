@@ -10134,6 +10134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Journey: Cozy Mornings | 290710 | [290710-sky-journey-cozy-mornings.json](./290710-sky-journey-cozy-mornings.json) |
 | Sky Jump | 193633 | [193633-sky-jump.json](./193633-sky-jump.json) |
 | Sky Jumping | 336626 | [336626-sky-jumping.json](./336626-sky-jumping.json) |
+| Sky Kid | 17282 | [17282-sky-kid.json](./17282-sky-kid.json) |
 | Sky Kid | 239160 | [239160-sky-kid.json](./239160-sky-kid.json) |
 | Sky Kid | 293755 | [293755-sky-kid.json](./293755-sky-kid.json) |
 | Sky Kid Deluxe | 17283 | [17283-sky-kid-deluxe.json](./17283-sky-kid-deluxe.json) |
@@ -14856,6 +14857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul at Stake: Lament of the Lovers | 170294 | [170294-soul-at-stake-lament-of-the-lovers.json](./170294-soul-at-stake-lament-of-the-lovers.json) |
 | Soul at Stake: Terror Cruise | 170291 | [170291-soul-at-stake-terror-cruise.json](./170291-soul-at-stake-terror-cruise.json) |
 | Soul Awakening Adventure | 273093 | [273093-soul-awakening-adventure.json](./273093-soul-awakening-adventure.json) |
+| Soul Axiom | 17096 | [17096-soul-axiom.json](./17096-soul-axiom.json) |
 | Soul Azylum | 131379 | [131379-soul-azylum.json](./131379-soul-azylum.json) |
 | Soul Balance | 391610 | [391610-soul-balance.json](./391610-soul-balance.json) |
 | Soul Battles | 299993 | [299993-soul-battles.json](./299993-soul-battles.json) |
@@ -21053,6 +21055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Defier | 211680 | [211680-steel-defier.json](./211680-steel-defier.json) |
 | Steel Diver | 6891 | [6891-steel-diver.json](./6891-steel-diver.json) |
 | Steel Diver: Sub Wars | 62171 | [62171-steel-diver-sub-wars.json](./62171-steel-diver-sub-wars.json) |
+| Steel Division 2 | 106112 | [106112-steel-division-2.json](./106112-steel-division-2.json) |
 | Steel Division 2: Men of Steel | 260599 | [260599-steel-division-2-men-of-steel.json](./260599-steel-division-2-men-of-steel.json) |
 | Steel Division 2: Nemesis - Battle of Rimini | 143080 | [143080-steel-division-2-nemesis-battle-of-rimini.json](./143080-steel-division-2-nemesis-battle-of-rimini.json) |
 | Steel Division 2: Nemesis #4 - Storming Toulon | 157535 | [157535-steel-division-2-nemesis-4-storming-toulon.json](./157535-steel-division-2-nemesis-4-storming-toulon.json) |
@@ -27512,6 +27515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surrender | 313798 | [313798-surrender.json](./313798-surrender.json) |
 | Surrender 2 | 313799 | [313799-surrender-2.json](./313799-surrender-2.json) |
 | Surrogate | 270889 | [270889-surrogate.json](./270889-surrogate.json) |
+| Surround | 18002 | [18002-surround.json](./18002-surround.json) |
 | SurrounDead | 153225 | [153225-surroundead.json](./153225-surroundead.json) |
 | SurrounDead Poly Construction | 399158 | [399158-surroundead-poly-construction.json](./399158-surroundead-poly-construction.json) |
 | Surrounded | 187157 | [187157-surrounded.json](./187157-surrounded.json) |
