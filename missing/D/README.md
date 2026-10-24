@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Quest 3 | 246295 | [246295-dark-quest-3.json](./246295-dark-quest-3.json) |
 | Dark Quest 4 | 345656 | [345656-dark-quest-4.json](./345656-dark-quest-4.json) |
 | Dark Quest: Remastered | 389079 | [389079-dark-quest-remastered.json](./389079-dark-quest-remastered.json) |
+| Dark Raid | 17238 | [17238-dark-raid.json](./17238-dark-raid.json) |
 | Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
 | Dark Realm: Guardian of Flames | 91168 | [91168-dark-realm-guardian-of-flames.json](./91168-dark-realm-guardian-of-flames.json) |
 | Dark Realm: Princess of Ice - Collector's Edition | 59147 | [59147-dark-realm-princess-of-ice-collectors-edition.json](./59147-dark-realm-princess-of-ice-collectors-edition.json) |
@@ -14541,6 +14542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Deathball | 102922 | [102922-dungeon-deathball.json](./102922-dungeon-deathball.json) |
 | Dungeon Deck | 293525 | [293525-dungeon-deck.json](./293525-dungeon-deck.json) |
 | Dungeon Defender | 394105 | [394105-dungeon-defender.json](./394105-dungeon-defender.json) |
+| Dungeon Defenders Eternity | 17417 | [17417-dungeon-defenders-eternity.json](./17417-dungeon-defenders-eternity.json) |
 | Dungeon Defenders II | 3202 | [3202-dungeon-defenders-ii.json](./3202-dungeon-defenders-ii.json) |
 | Dungeon Defenders II: Heartwarming Bundle | 90701 | [90701-dungeon-defenders-ii-heartwarming-bundle.json](./90701-dungeon-defenders-ii-heartwarming-bundle.json) |
 | Dungeon Defenders Ultimate Collection | 341661 | [341661-dungeon-defenders-ultimate-collection.json](./341661-dungeon-defenders-ultimate-collection.json) |
