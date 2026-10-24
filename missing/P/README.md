@@ -13754,10 +13754,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puddle Pirates | 176398 | [176398-puddle-pirates.json](./176398-puddle-pirates.json) |
 | Pueblo | 236905 | [236905-pueblo.json](./236905-pueblo.json) |
 | Pueblo | 333767 | [333767-pueblo.json](./333767-pueblo.json) |
+| Puella Magi Madoka Magica Portable | 11846 | [11846-puella-magi-madoka-magica-portable.json](./11846-puella-magi-madoka-magica-portable.json) |
 | Puella Magi Madoka Magica Side Story: Magia Record | 70876 | [70876-puella-magi-madoka-magica-side-story-magia-record.json](./70876-puella-magi-madoka-magica-side-story-magia-record.json) |
 | Puella Magi Madoka Magica TPS Featuring Homura Akemi | 74148 | [74148-puella-magi-madoka-magica-tps-featuring-homura-akemi.json](./74148-puella-magi-madoka-magica-tps-featuring-homura-akemi.json) |
 | Puella Magi Madoka Magica TPS Featuring Mami Tomoe | 74147 | [74147-puella-magi-madoka-magica-tps-featuring-mami-tomoe.json](./74147-puella-magi-madoka-magica-tps-featuring-mami-tomoe.json) |
 | Puella Magi Madoka Magica TPS featuring Sayaka Miki and Kyoko Sakura | 74146 | [74146-puella-magi-madoka-magica-tps-featuring-sayaka-miki-and-kyoko-sakura.json](./74146-puella-magi-madoka-magica-tps-featuring-sayaka-miki-and-kyoko-sakura.json) |
+| Puella Magi Madoka Magica: The Battle Pentagram | 11847 | [11847-puella-magi-madoka-magica-the-battle-pentagram.json](./11847-puella-magi-madoka-magica-the-battle-pentagram.json) |
 | Puella Magi Madoka Magica: The Movie - Magicard Battle | 61439 | [61439-puella-magi-madoka-magica-the-movie-magicard-battle.json](./61439-puella-magi-madoka-magica-the-movie-magicard-battle.json) |
 | Puerto Rico HD | 90795 | [90795-puerto-rico-hd.json](./90795-puerto-rico-hd.json) |
 | Puerto Rico No Está Apaga'o | 96316 | [96316-puerto-rico-no-esta-apagao.json](./96316-puerto-rico-no-esta-apagao.json) |
