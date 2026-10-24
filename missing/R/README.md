@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdore | 364027 | [364027-ragdore.json](./364027-ragdore.json) |
 | Rage 2 | 101211 | [101211-rage-2.json](./101211-rage-2.json) |
 | Rage 2: Collector's Edition | 103297 | [103297-rage-2-collectors-edition.json](./103297-rage-2-collectors-edition.json) |
+| Rage Against the Zombies | 30490 | [30490-rage-against-the-zombies.json](./30490-rage-against-the-zombies.json) |
 | Rage Boy | 110076 | [110076-rage-boy.json](./110076-rage-boy.json) |
 | Rage Chicken 2 | 180998 | [180998-rage-chicken-2.json](./180998-rage-chicken-2.json) |
 | Rage Disco | 75218 | [75218-rage-disco.json](./75218-rage-disco.json) |
@@ -4354,6 +4355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Terra I | 40699 | [40699-rescue-terra-i.json](./40699-rescue-terra-i.json) |
 | Rescue the Enchanter | 87270 | [87270-rescue-the-enchanter.json](./87270-rescue-the-enchanter.json) |
 | Rescue the Girl | 347086 | [347086-rescue-the-girl.json](./347086-rescue-the-girl.json) |
+| Rescue the Great Demon 2 | 30562 | [30562-rescue-the-great-demon-2.json](./30562-rescue-the-great-demon-2.json) |
 | Rescue the Hostages: Cryptic Countdown | 377239 | [377239-rescue-the-hostages-cryptic-countdown.json](./377239-rescue-the-hostages-cryptic-countdown.json) |
 | Rescue the Hostages: Misaligned Fate | 405719 | [405719-rescue-the-hostages-misaligned-fate.json](./405719-rescue-the-hostages-misaligned-fate.json) |
 | Rescue the Hostages: Words of Fear | 396729 | [396729-rescue-the-hostages-words-of-fear.json](./396729-rescue-the-hostages-words-of-fear.json) |
@@ -5691,6 +5693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RiddleBridge | 86744 | [86744-riddlebridge.json](./86744-riddlebridge.json) |
 | Riddled Corpses EX | 97897 | [97897-riddled-corpses-ex.json](./97897-riddled-corpses-ex.json) |
 | Riddledale | 223174 | [223174-riddledale.json](./223174-riddledale.json) |
+| Riddles of Fate: Wild Hunt - Collector's Edition | 30538 | [30538-riddles-of-fate-wild-hunt-collectors-edition.json](./30538-riddles-of-fate-wild-hunt-collectors-edition.json) |
 | Riddles of the Owls Kingdom | 105370 | [105370-riddles-of-the-owls-kingdom.json](./105370-riddles-of-the-owls-kingdom.json) |
 | Riddles of the Past | 32090 | [32090-riddles-of-the-past.json](./32090-riddles-of-the-past.json) |
 | Riddles with Sir Connery | 314497 | [314497-riddles-with-sir-connery.json](./314497-riddles-with-sir-connery.json) |
