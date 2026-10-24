@@ -2200,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elsewhere High: Chapter 2 - A Visual Novel | 168866 | [168866-elsewhere-high-chapter-2-a-visual-novel.json](./168866-elsewhere-high-chapter-2-a-visual-novel.json) |
 | Elsewhere in the Night | 229373 | [229373-elsewhere-in-the-night.json](./229373-elsewhere-in-the-night.json) |
 | Elshe no Shounen | 257902 | [257902-elshe-no-shounen.json](./257902-elshe-no-shounen.json) |
+| Elsinore | 58994 | [58994-elsinore.json](./58994-elsinore.json) |
 | Elsp | 229822 | [229822-elsp.json](./229822-elsp.json) |
 | Elspell | 203673 | [203673-elspell.json](./203673-elspell.json) |
 | Elsword | 115692 | [115692-elsword.json](./115692-elsword.json) |
@@ -2222,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven Dreams | 277835 | [277835-elven-dreams.json](./277835-elven-dreams.json) |
 | Elven Forest | 356610 | [356610-elven-forest.json](./356610-elven-forest.json) |
 | Elven Forest | 369767 | [369767-elven-forest.json](./369767-elven-forest.json) |
+| Elven Legacy | 2028 | [2028-elven-legacy.json](./2028-elven-legacy.json) |
 | Elven Legacy Collection | 51764 | [51764-elven-legacy-collection.json](./51764-elven-legacy-collection.json) |
 | Elven Legend 2: The Bewitched Tree | 28739 | [28739-elven-legend-2-the-bewitched-tree.json](./28739-elven-legend-2-the-bewitched-tree.json) |
 | Elven Magic: The Witch, The Elf & The Fairy | 107798 | [107798-elven-magic-the-witch-the-elf-and-the-fairy.json](./107798-elven-magic-the-witch-the-elf-and-the-fairy.json) |
@@ -6340,6 +6342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expel | 246827 | [246827-expel.json](./246827-expel.json) |
 | Expelled! | 331180 | [331180-expelled.json](./331180-expelled.json) |
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
+| Expendable | 54012 | [54012-expendable.json](./54012-expendable.json) |
 | Expendabots | 404929 | [404929-expendabots.json](./404929-expendabots.json) |
 | Expense | 220020 | [220020-expense.json](./220020-expense.json) |
 | Experience | 114836 | [114836-experience.json](./114836-experience.json) |
