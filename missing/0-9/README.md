@@ -2539,6 +2539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 747 Flight Simulator | 15582 | [15582-747-flight-simulator.json](./15582-747-flight-simulator.json) |
 | 747 Landing Simulator | 90903 | [90903-747-landing-simulator.json](./90903-747-landing-simulator.json) |
 | 75 Demons | 353373 | [353373-75-demons.json](./353373-75-demons.json) |
+| 7554: Glorious Memories Revived | 6288 | [6288-7554-glorious-memories-revived.json](./6288-7554-glorious-memories-revived.json) |
 | 757 Captain | 68097 | [68097-757-captain.json](./68097-757-captain.json) |
 | 757 Professional | 79568 | [79568-757-professional.json](./79568-757-professional.json) |
 | 76 | 179553 | [179553-76.json](./179553-76.json) |
