@@ -10390,6 +10390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The LEGO Movie Videogame | 4845 | [4845-the-lego-movie-videogame.json](./4845-the-lego-movie-videogame.json) |
 | The LEGO Movie Videogame: Wild West Pack | 168792 | [168792-the-lego-movie-videogame-wild-west-pack.json](./168792-the-lego-movie-videogame-wild-west-pack.json) |
 | The LEGO Ninjago Movie App | 88393 | [88393-the-lego-ninjago-movie-app.json](./88393-the-lego-ninjago-movie-app.json) |
+| The LEGO Ninjago Movie Video Game | 52190 | [52190-the-lego-ninjago-movie-video-game.json](./52190-the-lego-ninjago-movie-video-game.json) |
 | The Leisure of Grisaia | 33058 | [33058-the-leisure-of-grisaia.json](./33058-the-leisure-of-grisaia.json) |
 | The Lemonade | 258517 | [258517-the-lemonade.json](./258517-the-lemonade.json) |
 | The Lemonade Stand Game | 397104 | [397104-the-lemonade-stand-game.json](./397104-the-lemonade-stand-game.json) |
@@ -11437,7 +11438,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -15083,6 +15083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Season Two - Episode 3: In Harm's Way | 127059 | [127059-the-walking-dead-season-two-episode-3-in-harms-way.json](./127059-the-walking-dead-season-two-episode-3-in-harms-way.json) |
 | The Walking Dead: Season Two - Episode 4: Amid the Ruins | 127060 | [127060-the-walking-dead-season-two-episode-4-amid-the-ruins.json](./127060-the-walking-dead-season-two-episode-4-amid-the-ruins.json) |
 | The Walking Dead: Season Two - Episode 5: No Going Back | 127061 | [127061-the-walking-dead-season-two-episode-5-no-going-back.json](./127061-the-walking-dead-season-two-episode-5-no-going-back.json) |
+| The Walking Dead: Survival Instinct | 1831 | [1831-the-walking-dead-survival-instinct.json](./1831-the-walking-dead-survival-instinct.json) |
 | The Walking Dead: Survivors | 142749 | [142749-the-walking-dead-survivors.json](./142749-the-walking-dead-survivors.json) |
 | The Walking Dead: The Complete First Season | 41623 | [41623-the-walking-dead-the-complete-first-season.json](./41623-the-walking-dead-the-complete-first-season.json) |
 | The Walking Dead: The Final Season - Episode 1: Done Running | 107114 | [107114-the-walking-dead-the-final-season-episode-1-done-running.json](./107114-the-walking-dead-the-final-season-episode-1-done-running.json) |
@@ -20385,6 +20386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
 | Tomodachi 8in1 | 376653 | [376653-tomodachi-8in1.json](./376653-tomodachi-8in1.json) |
 | Tomodachi Life | 6403 | [6403-tomodachi-life.json](./6403-tomodachi-life.json) |
+| Tomodachi Life: Living the Dream | 337036 | [337036-tomodachi-life-living-the-dream.json](./337036-tomodachi-life-living-the-dream.json) |
 | Tomodachi Life: The Gay Mod | 350609 | [350609-tomodachi-life-the-gay-mod.json](./350609-tomodachi-life-the-gay-mod.json) |
 | Tomodachi no Haha: Jukujuku Taru Omoi | 409420 | [409420-tomodachi-no-haha-jukujuku-taru-omoi.json](./409420-tomodachi-no-haha-jukujuku-taru-omoi.json) |
 | Tomodachi-kun | 398580 | [398580-tomodachi-kun.json](./398580-tomodachi-kun.json) |
