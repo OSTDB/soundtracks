@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baito Fight!!: Part-time Devil Hunter | 271688 | [271688-baito-fight-part-time-devil-hunter.json](./271688-baito-fight-part-time-devil-hunter.json) |
 | Baixos de Quebrada: Mobile | 339593 | [339593-baixos-de-quebrada-mobile.json](./339593-baixos-de-quebrada-mobile.json) |
 | Baja or Bust | 259245 | [259245-baja-or-bust.json](./259245-baja-or-bust.json) |
+| Baja: Edge of Control | 5497 | [5497-baja-edge-of-control.json](./5497-baja-edge-of-control.json) |
 | Baja: Edge of Control HD | 28170 | [28170-baja-edge-of-control-hd.json](./28170-baja-edge-of-control-hd.json) |
 | Bajka | 348315 | [348315-bajka.json](./348315-bajka.json) |
 | Bajoran Mercenary Adventure! | 116807 | [116807-bajoran-mercenary-adventure.json](./116807-bajoran-mercenary-adventure.json) |
@@ -1619,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandana City | 93067 | [93067-bandana-city.json](./93067-bandana-city.json) |
 | Bandapes | 129443 | [129443-bandapes.json](./129443-bandapes.json) |
 | Bandeirantes: The Game. | 347348 | [347348-bandeirantes-the-game.json](./347348-bandeirantes-the-game.json) |
+| BandFuse: Rock Legends | 5498 | [5498-bandfuse-rock-legends.json](./5498-bandfuse-rock-legends.json) |
 | Bandido | 264322 | [264322-bandido.json](./264322-bandido.json) |
 | Bandido Rush | 348584 | [348584-bandido-rush.json](./348584-bandido-rush.json) |
 | Bandit | 251553 | [251553-bandit.json](./251553-bandit.json) |
@@ -9515,6 +9517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue the Dino | 21980 | [21980-blue-the-dino.json](./21980-blue-the-dino.json) |
 | Blue Thunder | 296678 | [296678-blue-thunder.json](./296678-blue-thunder.json) |
 | Blue Time | 128306 | [128306-blue-time.json](./128306-blue-time.json) |
+| Blue Toad Murder Files: The Mysteries of Little Riddle | 18790 | [18790-blue-toad-murder-files-the-mysteries-of-little-riddle.json](./18790-blue-toad-murder-files-the-mysteries-of-little-riddle.json) |
 | Blue Tower Chronicle | 413739 | [413739-blue-tower-chronicle.json](./413739-blue-tower-chronicle.json) |
 | Blue Volta | 120251 | [120251-blue-volta.json](./120251-blue-volta.json) |
 | Blue Wars | 193947 | [193947-blue-wars.json](./193947-blue-wars.json) |
