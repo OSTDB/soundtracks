@@ -3796,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorist Takedown: Payback | 54430 | [54430-terrorist-takedown-payback.json](./54430-terrorist-takedown-payback.json) |
 | Terrorist Takedown: War in Colombia | 70122 | [70122-terrorist-takedown-war-in-colombia.json](./70122-terrorist-takedown-war-in-colombia.json) |
 | TerrorMario! | 323754 | [323754-terrormario.json](./323754-terrormario.json) |
+| Terrormolinos | 26246 | [26246-terrormolinos.json](./26246-terrormolinos.json) |
 | Terroro | 318493 | [318493-terroro.json](./318493-terroro.json) |
 | Terrorpods | 12794 | [12794-terrorpods.json](./12794-terrorpods.json) |
 | Terrors 2 | 37315 | [37315-terrors-2.json](./37315-terrors-2.json) |
@@ -5925,6 +5926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cleansing | 68583 | [68583-the-cleansing.json](./68583-the-cleansing.json) |
 | The Climate Trail | 122332 | [122332-the-climate-trail.json](./122332-the-climate-trail.json) |
 | The Climb 2 | 144372 | [144372-the-climb-2.json](./144372-the-climb-2.json) |
+| The Climb: North | 26269 | [26269-the-climb-north.json](./26269-the-climb-north.json) |
 | The Climbest | 182538 | [182538-the-climbest.json](./182538-the-climbest.json) |
 | The Clique: Queen Teen | 76969 | [76969-the-clique-queen-teen.json](./76969-the-clique-queen-teen.json) |
 | The Clock Chronicle | 182915 | [182915-the-clock-chronicle.json](./182915-the-clock-chronicle.json) |
@@ -8207,6 +8209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Ace Attorney Chronicles | 146075 | [146075-the-great-ace-attorney-chronicles.json](./146075-the-great-ace-attorney-chronicles.json) |
 | The Great Ace Attorney: Adventures | 76244 | [76244-the-great-ace-attorney-adventures.json](./76244-the-great-ace-attorney-adventures.json) |
 | The Great Adventures of Nedmapagmahal | 305984 | [305984-the-great-adventures-of-nedmapagmahal.json](./305984-the-great-adventures-of-nedmapagmahal.json) |
+| The Great American Cross-Country Road Race | 26218 | [26218-the-great-american-cross-country-road-race.json](./26218-the-great-american-cross-country-road-race.json) |
 | The Great Art Heist | 150938 | [150938-the-great-art-heist.json](./150938-the-great-art-heist.json) |
 | The Great Art Race | 10690 | [10690-the-great-art-race.json](./10690-the-great-art-race.json) |
 | The Great Axe | 365824 | [365824-the-great-axe.json](./365824-the-great-axe.json) |
@@ -11377,6 +11380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -15975,6 +15979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thine Cometh | 184258 | [184258-thine-cometh.json](./184258-thine-cometh.json) |
 | Thine Rogueth | 374229 | [374229-thine-rogueth.json](./374229-thine-rogueth.json) |
 | Thing Bounces Back | 44107 | [44107-thing-bounces-back.json](./44107-thing-bounces-back.json) |
+| Thing on a Spring | 26247 | [26247-thing-on-a-spring.json](./26247-thing-on-a-spring.json) |
 | Thing Thing 2 | 92452 | [92452-thing-thing-2.json](./92452-thing-thing-2.json) |
 | Thing Thing Collection | 131991 | [131991-thing-thing-collection.json](./131991-thing-thing-collection.json) |
 | Thing-in-Itself | 26749 | [26749-thing-in-itself.json](./26749-thing-in-itself.json) |
@@ -16516,6 +16521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrust Me Bro | 383654 | [383654-thrust-me-bro.json](./383654-thrust-me-bro.json) |
 | Thrust Platinum | 66784 | [66784-thrust-platinum.json](./66784-thrust-platinum.json) |
 | Thrust Twist + Turn | 85986 | [85986-thrust-twist-turn.json](./85986-thrust-twist-turn.json) |
+| Thrusta | 26243 | [26243-thrusta.json](./26243-thrusta.json) |
 | Thrusta X | 236153 | [236153-thrusta-x.json](./236153-thrusta-x.json) |
 | ThrustLander | 150443 | [150443-thrustlander.json](./150443-thrustlander.json) |
 | ThrustMe Too | 333373 | [333373-thrustme-too.json](./333373-thrustme-too.json) |
@@ -16588,6 +16594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderbird | 284254 | [284254-thunderbird.json](./284254-thunderbird.json) |
 | Thunderbird: The Legend Begins | 18972 | [18972-thunderbird-the-legend-begins.json](./18972-thunderbird-the-legend-begins.json) |
 | Thunderbirds | 12796 | [12796-thunderbirds.json](./12796-thunderbirds.json) |
+| Thunderbirds | 26272 | [26272-thunderbirds.json](./26272-thunderbirds.json) |
 | Thunderbirds | 344248 | [344248-thunderbirds.json](./344248-thunderbirds.json) |
 | Thunderbirds | 74908 | [74908-thunderbirds.json](./74908-thunderbirds.json) |
 | Thunderbirds | 83247 | [83247-thunderbirds.json](./83247-thunderbirds.json) |
@@ -19977,6 +19984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon: Wildlands - Last Rites | 412553 | [412553-tom-clancys-ghost-recon-wildlands-last-rites.json](./412553-tom-clancys-ghost-recon-wildlands-last-rites.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Narco Road | 28173 | [28173-tom-clancys-ghost-recon-wildlands-narco-road.json](./28173-tom-clancys-ghost-recon-wildlands-narco-road.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Special Edition | 136745 | [136745-tom-clancys-ghost-recon-wildlands-special-edition.json](./136745-tom-clancys-ghost-recon-wildlands-special-edition.json) |
+| Tom Clancy's Ghost Recon: Wildlands - The Peruvian Connection | 26270 | [26270-tom-clancys-ghost-recon-wildlands-the-peruvian-connection.json](./26270-tom-clancys-ghost-recon-wildlands-the-peruvian-connection.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Ultimate Edition | 119071 | [119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json](./119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Year 2 Gold Edition | 118900 | [118900-tom-clancys-ghost-recon-wildlands-year-2-gold-edition.json](./118900-tom-clancys-ghost-recon-wildlands-year-2-gold-edition.json) |
 | Tom Clancy's H.A.W.X | 264874 | [264874-tom-clancys-h-a-w-x.json](./264874-tom-clancys-h-a-w-x.json) |
