@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza 20th Anniversary Edition | 375525 | [375525-yakuza-20th-anniversary-edition.json](./375525-yakuza-20th-anniversary-edition.json) |
 | Yakuza 4 | 2062 | [2062-yakuza-4.json](./2062-yakuza-4.json) |
 | Yakuza 4 Remastered | 103016 | [103016-yakuza-4-remastered.json](./103016-yakuza-4-remastered.json) |
+| Yakuza 5 | 2063 | [2063-yakuza-5.json](./2063-yakuza-5.json) |
 | Yakuza 5 Remastered | 103017 | [103017-yakuza-5-remastered.json](./103017-yakuza-5-remastered.json) |
 | Yakuza 6: Song of Life - Clan Creator Card Bundle | 224152 | [224152-yakuza-6-song-of-life-clan-creator-card-bundle.json](./224152-yakuza-6-song-of-life-clan-creator-card-bundle.json) |
 | Yakuza 6: The Song of Life | 12527 | [12527-yakuza-6-the-song-of-life.json](./12527-yakuza-6-the-song-of-life.json) |
@@ -794,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi's Dreamer | 323351 | [323351-yoshis-dreamer.json](./323351-yoshis-dreamer.json) |
 | Yoshi's Egg Toss | 231529 | [231529-yoshis-egg-toss.json](./231529-yoshis-egg-toss.json) |
 | Yoshi's Island | 270350 | [270350-yoshis-island.json](./270350-yoshis-island.json) |
+| Yoshi's Island DS | 20601 | [20601-yoshis-island-ds.json](./20601-yoshis-island-ds.json) |
 | Yoshi's Island Slider | 360926 | [360926-yoshis-island-slider.json](./360926-yoshis-island-slider.json) |
 | Yoshi's Island: Pacifier Edition | 172414 | [172414-yoshis-island-pacifier-edition.json](./172414-yoshis-island-pacifier-edition.json) |
 | Yoshi's Island: Super Mario Advance 3 | 16747 | [16747-yoshis-island-super-mario-advance-3.json](./16747-yoshis-island-super-mario-advance-3.json) |
