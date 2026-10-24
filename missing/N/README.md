@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narrow Woods Hotel | 321834 | [321834-narrow-woods-hotel.json](./321834-narrow-woods-hotel.json) |
 | Narrow.One | 148376 | [148376-narrow-one.json](./148376-narrow-one.json) |
 | Narrowboat Simulator | 142793 | [142793-narrowboat-simulator.json](./142793-narrowboat-simulator.json) |
+| Narrows | 101371 | [101371-narrows.json](./101371-narrows.json) |
 | Narsillion: Leithian Another Story | 63079 | [63079-narsillion-leithian-another-story.json](./63079-narsillion-leithian-another-story.json) |
 | Naru-Morph! | 291354 | [291354-naru-morph.json](./291354-naru-morph.json) |
 | Naruhodo! The World | 37910 | [37910-naruhodo-the-world.json](./37910-naruhodo-the-world.json) |
@@ -4258,6 +4259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Kato 3 | 297800 | [297800-ninja-kato-3.json](./297800-ninja-kato-3.json) |
 | Ninja Ken | 151590 | [151590-ninja-ken.json](./151590-ninja-ken.json) |
 | Ninja Kid | 68360 | [68360-ninja-kid.json](./68360-ninja-kid.json) |
+| Ninja Kid Run VR: Runner & Racing Games For Free | 88145 | [88145-ninja-kid-run-vr-runner-and-racing-games-for-free.json](./88145-ninja-kid-run-vr-runner-and-racing-games-for-free.json) |
 | Ninja Kidz: Time Masters | 244141 | [244141-ninja-kidz-time-masters.json](./244141-ninja-kidz-time-masters.json) |
 | Ninja Kiwi Archive | 137601 | [137601-ninja-kiwi-archive.json](./137601-ninja-kiwi-archive.json) |
 | Ninja Knight | 133897 | [133897-ninja-knight.json](./133897-ninja-knight.json) |
