@@ -6236,6 +6236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExoSphere | 57048 | [57048-exosphere.json](./57048-exosphere.json) |
 | Exostorm | 35725 | [35725-exostorm.json](./35725-exostorm.json) |
 | Exosuit | 290864 | [290864-exosuit.json](./290864-exosuit.json) |
+| ExoSystem | 10425 | [10425-exosystem.json](./10425-exosystem.json) |
 | Exot | 338041 | [338041-exot.json](./338041-exot.json) |
 | ExoTanks MOBA | 119528 | [119528-exotanks-moba.json](./119528-exotanks-moba.json) |
 | Exoterra: A Space Journey | 383102 | [383102-exoterra-a-space-journey.json](./383102-exoterra-a-space-journey.json) |
