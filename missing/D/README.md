@@ -1679,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Dungeon: Crimson Edition | 91323 | [91323-darkest-dungeon-crimson-edition.json](./91323-darkest-dungeon-crimson-edition.json) |
 | Darkest Dungeon: The Butcher's Circus | 172134 | [172134-darkest-dungeon-the-butchers-circus.json](./172134-darkest-dungeon-the-butchers-circus.json) |
 | Darkest Dungeon: The Color of Madness | 76740 | [76740-darkest-dungeon-the-color-of-madness.json](./76740-darkest-dungeon-the-color-of-madness.json) |
+| Darkest Dungeon: The Crimson Court | 25651 | [25651-darkest-dungeon-the-crimson-court.json](./25651-darkest-dungeon-the-crimson-court.json) |
 | Darkest Dungeon: The Musketeer | 124890 | [124890-darkest-dungeon-the-musketeer.json](./124890-darkest-dungeon-the-musketeer.json) |
 | Darkest Dungeon: The Shieldbreaker | 111167 | [111167-darkest-dungeon-the-shieldbreaker.json](./111167-darkest-dungeon-the-shieldbreaker.json) |
 | Darkest Fear | 223004 | [223004-darkest-fear.json](./223004-darkest-fear.json) |
@@ -8651,6 +8652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | District Wars | 68090 | [68090-district-wars.json](./68090-district-wars.json) |
 | District: Evolution | 328550 | [328550-district-evolution.json](./328550-district-evolution.json) |
 | DistroCards | 392807 | [392807-distrocards.json](./392807-distrocards.json) |
+| Distrust | 34667 | [34667-distrust.json](./34667-distrust.json) |
 | Disturbed 2 | 28904 | [28904-disturbed-2.json](./28904-disturbed-2.json) |
 | Disturbed R.I.P. | 151080 | [151080-disturbed-r-i-p.json](./151080-disturbed-r-i-p.json) |
 | Disturbing Fears: Workplace | 412192 | [412192-disturbing-fears-workplace.json](./412192-disturbing-fears-workplace.json) |
@@ -10331,6 +10333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Date | 96632 | [96632-doodle-date.json](./96632-doodle-date.json) |
 | Doodle Defense | 366295 | [366295-doodle-defense.json](./366295-doodle-defense.json) |
 | Doodle Destroy | 343619 | [343619-doodle-destroy.json](./343619-doodle-destroy.json) |
+| Doodle Devil | 29131 | [29131-doodle-devil.json](./29131-doodle-devil.json) |
 | Doodle Devil HD | 103125 | [103125-doodle-devil-hd.json](./103125-doodle-devil-hd.json) |
 | Doodle Devil: 3volution | 147737 | [147737-doodle-devil-3volution.json](./147737-doodle-devil-3volution.json) |
 | Doodle Devil: 3volution - Puzzles & Quests | 204290 | [204290-doodle-devil-3volution-puzzles-and-quests.json](./204290-doodle-devil-3volution-puzzles-and-quests.json) |
@@ -11711,6 +11714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Budokai 3 - Collector's Edition | 291591 | [291591-dragon-ball-z-budokai-3-collectors-edition.json](./291591-dragon-ball-z-budokai-3-collectors-edition.json) |
 | Dragon Ball Z: Budokai 3 HD | 288870 | [288870-dragon-ball-z-budokai-3-hd.json](./288870-dragon-ball-z-budokai-3-hd.json) |
 | Dragon Ball Z: Budokai HD | 288866 | [288866-dragon-ball-z-budokai-hd.json](./288866-dragon-ball-z-budokai-hd.json) |
+| Dragon Ball Z: Budokai HD Collection | 21701 | [21701-dragon-ball-z-budokai-hd-collection.json](./21701-dragon-ball-z-budokai-hd-collection.json) |
 | Dragon Ball Z: Budokai Tenkaichi | 2253 | [2253-dragon-ball-z-budokai-tenkaichi.json](./2253-dragon-ball-z-budokai-tenkaichi.json) |
 | Dragon Ball Z: Budokai Tenkaichi 2 | 2252 | [2252-dragon-ball-z-budokai-tenkaichi-2.json](./2252-dragon-ball-z-budokai-tenkaichi-2.json) |
 | Dragon Ball Z: Budokai Tenkaichi 2 | 291555 | [291555-dragon-ball-z-budokai-tenkaichi-2.json](./291555-dragon-ball-z-budokai-tenkaichi-2.json) |
