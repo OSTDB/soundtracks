@@ -2986,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribblenauts Collection | 47914 | [47914-scribblenauts-collection.json](./47914-scribblenauts-collection.json) |
 | Scribblenauts Mega Pack | 104660 | [104660-scribblenauts-mega-pack.json](./104660-scribblenauts-mega-pack.json) |
 | Scribblenauts Remix | 8806 | [8806-scribblenauts-remix.json](./8806-scribblenauts-remix.json) |
+| Scribblenauts Unlimited | 2943 | [2943-scribblenauts-unlimited.json](./2943-scribblenauts-unlimited.json) |
 | Scribblenauts Unmasked: A DC Comics Adventure | 5033 | [5033-scribblenauts-unmasked-a-dc-comics-adventure.json](./5033-scribblenauts-unmasked-a-dc-comics-adventure.json) |
 | Scribblequest | 219621 | [219621-scribblequest.json](./219621-scribblequest.json) |
 | Scribbly Walrus | 128571 | [128571-scribbly-walrus.json](./128571-scribbly-walrus.json) |
@@ -3249,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Secrets | 357806 | [357806-sea-of-secrets.json](./357806-sea-of-secrets.json) |
 | Sea of Solitude: The Director's Cut | 141535 | [141535-sea-of-solitude-the-directors-cut.json](./141535-sea-of-solitude-the-directors-cut.json) |
 | Sea of Souls | 348277 | [348277-sea-of-souls.json](./348277-sea-of-souls.json) |
+| Sea of Stars | 131890 | [131890-sea-of-stars.json](./131890-sea-of-stars.json) |
 | Sea of Stars: Dawn of Equinox | 318389 | [318389-sea-of-stars-dawn-of-equinox.json](./318389-sea-of-stars-dawn-of-equinox.json) |
 | Sea of Stars: Early Backer Limited Edition | 283826 | [283826-sea-of-stars-early-backer-limited-edition.json](./283826-sea-of-stars-early-backer-limited-edition.json) |
 | Sea of Stars: Throes of the Watchmaker | 314929 | [314929-sea-of-stars-throes-of-the-watchmaker.json](./314929-sea-of-stars-throes-of-the-watchmaker.json) |
@@ -5503,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Warren | 356631 | [356631-shadow-warren.json](./356631-shadow-warren.json) |
 | Shadow Warrior | 2947 | [2947-shadow-warrior.json](./2947-shadow-warrior.json) |
 | Shadow Warrior | 6057 | [6057-shadow-warrior.json](./6057-shadow-warrior.json) |
+| Shadow Warrior 2 | 11064 | [11064-shadow-warrior-2.json](./11064-shadow-warrior-2.json) |
 | Shadow Warrior 2 Deluxe | 51915 | [51915-shadow-warrior-2-deluxe.json](./51915-shadow-warrior-2-deluxe.json) |
 | Shadow Warrior 2: Bounty Hunt Part 1 | 27876 | [27876-shadow-warrior-2-bounty-hunt-part-1.json](./27876-shadow-warrior-2-bounty-hunt-part-1.json) |
 | Shadow Warrior 2: Special Reserve Collector's Edition | 25772 | [25772-shadow-warrior-2-special-reserve-collectors-edition.json](./25772-shadow-warrior-2-special-reserve-collectors-edition.json) |
@@ -8652,6 +8655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimbaQuest | 243699 | [243699-simbaquest.json](./243699-simbaquest.json) |
 | SimBus | 166815 | [166815-simbus.json](./166815-simbus.json) |
 | SimCasino | 141132 | [141132-simcasino.json](./141132-simcasino.json) |
+| SimCity | 1272 | [1272-simcity.json](./1272-simcity.json) |
 | SimCity | 180002 | [180002-simcity.json](./180002-simcity.json) |
 | SimCity | 208990 | [208990-simcity.json](./208990-simcity.json) |
 | SimCity 2000 | 330 | [330-simcity-2000.json](./330-simcity-2000.json) |
@@ -9511,6 +9515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skat und mehr | 93451 | [93451-skat-und-mehr.json](./93451-skat-und-mehr.json) |
 | Skate | 283373 | [283373-skate.json](./283373-skate.json) |
 | Skate & Date | 116276 | [116276-skate-and-date.json](./116276-skate-and-date.json) |
+| Skate 3 | 2587 | [2587-skate-3.json](./2587-skate-3.json) |
 | Skate 3: Maloof Money Cup 2010 NYC Pack | 367276 | [367276-skate-3-maloof-money-cup-2010-nyc-pack.json](./367276-skate-3-maloof-money-cup-2010-nyc-pack.json) |
 | Skate 3: Recompiled | 404797 | [404797-skate-3-recompiled.json](./404797-skate-3-recompiled.json) |
 | Skate 3: San Van Party Pack | 367274 | [367274-skate-3-san-van-party-pack.json](./367274-skate-3-san-van-party-pack.json) |
@@ -17681,6 +17686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirited Soul | 61124 | [61124-spirited-soul.json](./61124-spirited-soul.json) |
 | Spirited Thief | 169882 | [169882-spirited-thief.json](./169882-spirited-thief.json) |
 | Spiritfall | 188946 | [188946-spiritfall.json](./188946-spiritfall.json) |
+| Spiritfarer | 119304 | [119304-spiritfarer.json](./119304-spiritfarer.json) |
 | Spiritfarer: Digital Deluxe Edition | 204982 | [204982-spiritfarer-digital-deluxe-edition.json](./204982-spiritfarer-digital-deluxe-edition.json) |
 | Spiritfarer: Farewell Edition | 187506 | [187506-spiritfarer-farewell-edition.json](./187506-spiritfarer-farewell-edition.json) |
 | Spiritfarer: Netflix Edition | 375281 | [375281-spiritfarer-netflix-edition.json](./375281-spiritfarer-netflix-edition.json) |
@@ -23311,6 +23317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subnautica + Subnautica Below Zero Double Pack | 143025 | [143025-subnautica-subnautica-below-zero-double-pack.json](./143025-subnautica-subnautica-below-zero-double-pack.json) |
 | Subnautica 2 | 320140 | [320140-subnautica-2.json](./320140-subnautica-2.json) |
 | Subnautica Deep Ocean Bundle | 401933 | [401933-subnautica-deep-ocean-bundle.json](./401933-subnautica-deep-ocean-bundle.json) |
+| Subnautica: Below Zero | 107315 | [107315-subnautica-below-zero.json](./107315-subnautica-below-zero.json) |
 | Subnautilus: Underwater FPS | 88807 | [88807-subnautilus-underwater-fps.json](./88807-subnautilus-underwater-fps.json) |
 | Subnet | 80545 | [80545-subnet.json](./80545-subnet.json) |
 | Subnodule | 79587 | [79587-subnodule.json](./79587-subnodule.json) |
