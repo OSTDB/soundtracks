@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1942: The Henan Famine | 124213 | [124213-1942-the-henan-famine.json](./124213-1942-the-henan-famine.json) |
 | 1943 Berlin Blitz | 110705 | [110705-1943-berlin-blitz.json](./110705-1943-berlin-blitz.json) |
 | 1943 Deadly Desert | 101450 | [101450-1943-deadly-desert.json](./101450-1943-deadly-desert.json) |
+| 1943 Kai: Midway Kaisen | 39865 | [39865-1943-kai-midway-kaisen.json](./39865-1943-kai-midway-kaisen.json) |
 | 1943 Megami Strike | 33580 | [33580-1943-megami-strike.json](./33580-1943-megami-strike.json) |
 | 1943: One Year After | 145414 | [145414-1943-one-year-after.json](./145414-1943-one-year-after.json) |
 | 1943: The Battle of Midway | 218334 | [218334-1943-the-battle-of-midway.json](./218334-1943-the-battle-of-midway.json) |
@@ -1754,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3594e: Sangokushi Eiga | 80633 | [80633-3594e-sangokushi-eiga.json](./80633-3594e-sangokushi-eiga.json) |
 | 35MM | 19396 | [19396-35mm.json](./19396-35mm.json) |
 | 36 Days a Week | 135493 | [135493-36-days-a-week.json](./135493-36-days-a-week.json) |
+| 36 Fragments of Midnight | 51730 | [51730-36-fragments-of-midnight.json](./51730-36-fragments-of-midnight.json) |
 | 36 Nights | 277942 | [277942-36-nights.json](./277942-36-nights.json) |
 | 36 Zodiac Cycles | 362407 | [362407-36-zodiac-cycles.json](./362407-36-zodiac-cycles.json) |
 | 360 | 178446 | [178446-360.json](./178446-360.json) |
