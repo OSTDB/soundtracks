@@ -3199,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Creatures | 112373 | [112373-sea-creatures.json](./112373-sea-creatures.json) |
 | Sea Devil | 172395 | [172395-sea-devil.json](./172395-sea-devil.json) |
 | Sea Dogs: Caribbean Tales | 51868 | [51868-sea-dogs-caribbean-tales.json](./51868-sea-dogs-caribbean-tales.json) |
+| Sea Dogs: To Each His Own | 28232 | [28232-sea-dogs-to-each-his-own.json](./28232-sea-dogs-to-each-his-own.json) |
 | Sea Dogs: To Each His Own - Flying the Jolly Roger | 172374 | [172374-sea-dogs-to-each-his-own-flying-the-jolly-roger.json](./172374-sea-dogs-to-each-his-own-flying-the-jolly-roger.json) |
 | Sea Dogs: To Each His Own - Happily Ever After | 155408 | [155408-sea-dogs-to-each-his-own-happily-ever-after.json](./155408-sea-dogs-to-each-his-own-happily-ever-after.json) |
 | Sea Dogs: To Each His Own - Hero of the Nation | 171618 | [171618-sea-dogs-to-each-his-own-hero-of-the-nation.json](./171618-sea-dogs-to-each-his-own-hero-of-the-nation.json) |
@@ -4340,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senet | 71209 | [71209-senet.json](./71209-senet.json) |
 | Senet Deluxe | 99975 | [99975-senet-deluxe.json](./99975-senet-deluxe.json) |
 | Sengo Muramasa DX: Guren no Kettou | 145393 | [145393-sengo-muramasa-dx-guren-no-kettou.json](./145393-sengo-muramasa-dx-guren-no-kettou.json) |
+| Sengoku | 27946 | [27946-sengoku.json](./27946-sengoku.json) |
 | Sengoku | 5433 | [5433-sengoku.json](./5433-sengoku.json) |
 | Sengoku 2 | 46785 | [46785-sengoku-2.json](./46785-sengoku-2.json) |
 | Sengoku 3 | 46784 | [46784-sengoku-3.json](./46784-sengoku-3.json) |
@@ -9887,6 +9889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skill Up! | 289445 | [289445-skill-up.json](./289445-skill-up.json) |
 | SkillGrid | 392785 | [392785-skillgrid.json](./392785-skillgrid.json) |
 | Skills and Slimes | 340367 | [340367-skills-and-slimes.json](./340367-skills-and-slimes.json) |
+| Skillshot City | 28014 | [28014-skillshot-city.json](./28014-skillshot-city.json) |
 | Skillsworn | 164954 | [164954-skillsworn.json](./164954-skillsworn.json) |
 | SkillTeam | 344019 | [344019-skillteam.json](./344019-skillteam.json) |
 | Skilltree Saga | 10834 | [10834-skilltree-saga.json](./10834-skilltree-saga.json) |
@@ -10016,6 +10019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skullforge: The Hunt | 110272 | [110272-skullforge-the-hunt.json](./110272-skullforge-the-hunt.json) |
 | Skullgirls Encore: Beowulf | 127262 | [127262-skullgirls-encore-beowulf.json](./127262-skullgirls-encore-beowulf.json) |
 | Skullgirls Encore: Five Characters & Complete Colors Pack | 127568 | [127568-skullgirls-encore-five-characters-and-complete-colors-pack.json](./127568-skullgirls-encore-five-characters-and-complete-colors-pack.json) |
+| Skullgirls Mobile | 28551 | [28551-skullgirls-mobile.json](./28551-skullgirls-mobile.json) |
 | Skullgirls: 2nd Encore | 11179 | [11179-skullgirls-2nd-encore.json](./11179-skullgirls-2nd-encore.json) |
 | Skullgirls: 2nd Encore - Annie | 167349 | [167349-skullgirls-2nd-encore-annie.json](./167349-skullgirls-2nd-encore-annie.json) |
 | Skullgirls: 2nd Encore - Umbrella | 231240 | [231240-skullgirls-2nd-encore-umbrella.json](./231240-skullgirls-2nd-encore-umbrella.json) |
@@ -10815,6 +10819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice the Ice | 75779 | [75779-slice-the-ice.json](./75779-slice-the-ice.json) |
 | Slice To Meet You | 409583 | [409583-slice-to-meet-you.json](./409583-slice-to-meet-you.json) |
 | Slice Words | 232071 | [232071-slice-words.json](./232071-slice-words.json) |
+| Slice, Dice & Rice | 27274 | [27274-slice-dice-and-rice.json](./27274-slice-dice-and-rice.json) |
 | Slice, Suffer, Serve! | 340363 | [340363-slice-suffer-serve.json](./340363-slice-suffer-serve.json) |
 | Slice&Dice | 345526 | [345526-slice-and-dice.json](./345526-slice-and-dice.json) |
 | Slice&Dice | 37010 | [37010-slice-and-dice.json](./37010-slice-and-dice.json) |
@@ -16663,6 +16668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speaker | 178457 | [178457-speaker.json](./178457-speaker.json) |
 | Speakerman | 120082 | [120082-speakerman.json](./120082-speakerman.json) |
 | Speakerman 2 | 123835 | [123835-speakerman-2.json](./123835-speakerman-2.json) |
+| Speaking Simulator | 111351 | [111351-speaking-simulator.json](./111351-speaking-simulator.json) |
 | Speaking Simulator 2018 | 111648 | [111648-speaking-simulator-2018.json](./111648-speaking-simulator-2018.json) |
 | Speakrit | 293702 | [293702-speakrit.json](./293702-speakrit.json) |
 | Spear Girl | 190035 | [190035-spear-girl.json](./190035-spear-girl.json) |
@@ -20871,6 +20877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay with Me!: An Alien Abduction Story | 192638 | [192638-stay-with-me-an-alien-abduction-story.json](./192638-stay-with-me-an-alien-abduction-story.json) |
 | Stay Woke Etheral Edition | 75499 | [75499-stay-woke-etheral-edition.json](./75499-stay-woke-etheral-edition.json) |
 | Stay: Ember's Desktop Adventures | 411078 | [411078-stay-embers-desktop-adventures.json](./411078-stay-embers-desktop-adventures.json) |
+| Stay! Stay! Democratic People's Republic of Korea | 28861 | [28861-stay-stay-democratic-peoples-republic-of-korea.json](./28861-stay-stay-democratic-peoples-republic-of-korea.json) |
 | Stay? | 184073 | [184073-stay.json](./184073-stay.json) |
 | Stay.: Fragments of Memories | 308972 | [308972-stay-fragments-of-memories.json](./308972-stay-fragments-of-memories.json) |
 | Staying Fresh | 292364 | [292364-staying-fresh.json](./292364-staying-fresh.json) |
@@ -24899,6 +24906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Crossbar Challenge | 100790 | [100790-super-crossbar-challenge.json](./100790-super-crossbar-challenge.json) |
 | Super Crossfire | 65448 | [65448-super-crossfire.json](./65448-super-crossfire.json) |
 | Super Crown Land | 318548 | [318548-super-crown-land.json](./318548-super-crown-land.json) |
+| Super Crush KO | 107599 | [107599-super-crush-ko.json](./107599-super-crush-ko.json) |
 | Super Crypto Kart | 138748 | [138748-super-crypto-kart.json](./138748-super-crypto-kart.json) |
 | Super Crystal Hunter | 127722 | [127722-super-crystal-hunter.json](./127722-super-crystal-hunter.json) |
 | Super Cube 3D | 278959 | [278959-super-cube-3d.json](./278959-super-cube-3d.json) |
@@ -25107,6 +25115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Galaxy Boy | 54867 | [54867-super-galaxy-boy.json](./54867-super-galaxy-boy.json) |
 | Super Galaxy Ranger Luna | 327983 | [327983-super-galaxy-ranger-luna.json](./327983-super-galaxy-ranger-luna.json) |
 | Super Galaxy Squadron EX | 17991 | [17991-super-galaxy-squadron-ex.json](./17991-super-galaxy-squadron-ex.json) |
+| Super Galaxy Squadron EX Turbo | 27738 | [27738-super-galaxy-squadron-ex-turbo.json](./27738-super-galaxy-squadron-ex-turbo.json) |
 | Super Galdelic Hour | 43439 | [43439-super-galdelic-hour.json](./43439-super-galdelic-hour.json) |
 | Super Game System Basic | 76193 | [76193-super-game-system-basic.json](./76193-super-game-system-basic.json) |
 | Super gamebear with its three girlfriends | 112997 | [112997-super-gamebear-with-its-three-girlfriends.json](./112997-super-gamebear-with-its-three-girlfriends.json) |
