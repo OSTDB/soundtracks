@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Museum Megamix | 5048 | [5048-namco-museum-megamix.json](./5048-namco-museum-megamix.json) |
 | Namco Museum Mini Player | 220134 | [220134-namco-museum-mini-player.json](./220134-namco-museum-mini-player.json) |
 | Namco Museum Remix | 5047 | [5047-namco-museum-remix.json](./5047-namco-museum-remix.json) |
+| Namco Museum Virtual Arcade | 7097 | [7097-namco-museum-virtual-arcade.json](./7097-namco-museum-virtual-arcade.json) |
 | Namco Museum Vol. 1 | 20611 | [20611-namco-museum-vol-1.json](./20611-namco-museum-vol-1.json) |
 | Namco Museum Vol. 2 | 20259 | [20259-namco-museum-vol-2.json](./20259-namco-museum-vol-2.json) |
 | Namco Museum Vol. 3 | 20613 | [20613-namco-museum-vol-3.json](./20613-namco-museum-vol-3.json) |
@@ -626,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narwhale.io | 97743 | [97743-narwhale-io.json](./97743-narwhale-io.json) |
 | NASA's Eyes | 69376 | [69376-nasas-eyes.json](./69376-nasas-eyes.json) |
 | NASB: Nitro | 202153 | [202153-nasb-nitro.json](./202153-nasb-nitro.json) |
+| NASCAR '14 | 7105 | [7105-nascar-14.json](./7105-nascar-14.json) |
 | NASCAR '15 | 44560 | [44560-nascar-15.json](./44560-nascar-15.json) |
 | Nascar 06 Mobile | 210106 | [210106-nascar-06-mobile.json](./210106-nascar-06-mobile.json) |
 | NASCAR 07 | 5944 | [5944-nascar-07.json](./5944-nascar-07.json) |
@@ -4281,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Rabbit | 214491 | [214491-ninja-rabbit.json](./214491-ninja-rabbit.json) |
 | Ninja Rabbits | 15272 | [15272-ninja-rabbits.json](./15272-ninja-rabbits.json) |
 | Ninja Raiden | 181787 | [181787-ninja-raiden.json](./181787-ninja-raiden.json) |
+| Ninja Reflex | 5076 | [5076-ninja-reflex.json](./5076-ninja-reflex.json) |
 | Ninja Reflex: Steamworks Edition | 82011 | [82011-ninja-reflex-steamworks-edition.json](./82011-ninja-reflex-steamworks-edition.json) |
 | Ninja Relo | 208076 | [208076-ninja-relo.json](./208076-ninja-relo.json) |
 | Ninja Remix | 12172 | [12172-ninja-remix.json](./12172-ninja-remix.json) |
