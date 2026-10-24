@@ -2189,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Mission | 210090 | [210090-impossible-mission.json](./210090-impossible-mission.json) |
 | Impossible Mission 2025 | 37107 | [37107-impossible-mission-2025.json](./37107-impossible-mission-2025.json) |
 | Impossible Mission 3 | 403546 | [403546-impossible-mission-3.json](./403546-impossible-mission-3.json) |
+| Impossible Mission II | 12154 | [12154-impossible-mission-ii.json](./12154-impossible-mission-ii.json) |
 | Impossible Mission Remastered | 171358 | [171358-impossible-mission-remastered.json](./171358-impossible-mission-remastered.json) |
 | Impossible Moto Sim | 337512 | [337512-impossible-moto-sim.json](./337512-impossible-moto-sim.json) |
 | Impossible Pixels | 140867 | [140867-impossible-pixels.json](./140867-impossible-pixels.json) |
@@ -3117,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Sky | 150018 | [150018-infinite-sky.json](./150018-infinite-sky.json) |
 | Infinite Skyline | 115175 | [115175-infinite-skyline.json](./115175-infinite-skyline.json) |
 | Infinite Soul | 361919 | [361919-infinite-soul.json](./361919-infinite-soul.json) |
+| Infinite Space | 11683 | [11683-infinite-space.json](./11683-infinite-space.json) |
 | Infinite Space III: Sea of Stars | 16930 | [16930-infinite-space-iii-sea-of-stars.json](./16930-infinite-space-iii-sea-of-stars.json) |
 | Infinite Sparkles | 125415 | [125415-infinite-sparkles.json](./125415-infinite-sparkles.json) |
 | Infinite Stairs | 231940 | [231940-infinite-stairs.json](./231940-infinite-stairs.json) |
