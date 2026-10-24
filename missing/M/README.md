@@ -9454,6 +9454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennium Mission | 274731 | [274731-millennium-mission.json](./274731-millennium-mission.json) |
 | Millennium Racer: Y2K Fighters | 79897 | [79897-millennium-racer-y2k-fighters.json](./79897-millennium-racer-y2k-fighters.json) |
 | Millennium Runners | 336121 | [336121-millennium-runners.json](./336121-millennium-runners.json) |
+| Millennium Secrets: Roxanne’s Necklace | 18880 | [18880-millennium-secrets-roxanne-s-necklace.json](./18880-millennium-secrets-roxanne-s-necklace.json) |
 | Millennium Strategy | 358230 | [358230-millennium-strategy.json](./358230-millennium-strategy.json) |
 | Millennium Winter Sports | 49962 | [49962-millennium-winter-sports.json](./49962-millennium-winter-sports.json) |
 | Millennium: A New Hope | 8178 | [8178-millennium-a-new-hope.json](./8178-millennium-a-new-hope.json) |
