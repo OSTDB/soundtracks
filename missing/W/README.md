@@ -3215,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -7081,6 +7082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms | 87594 | [87594-worms.json](./87594-worms.json) |
 | Worms | 9331 | [9331-worms.json](./9331-worms.json) |
 | Worms | 9332 | [9332-worms.json](./9332-worms.json) |
+| Worms 2: Armageddon | 20480 | [20480-worms-2-armageddon.json](./20480-worms-2-armageddon.json) |
 | Worms 2011: Armageddon | 154862 | [154862-worms-2011-armageddon.json](./154862-worms-2011-armageddon.json) |
 | Worms 3D | 1047 | [1047-worms-3d.json](./1047-worms-3d.json) |
 | Worms 4 | 59763 | [59763-worms-4.json](./59763-worms-4.json) |
