@@ -759,7 +759,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7811,6 +7810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Breaker Online | 79363 | [79363-blast-breaker-online.json](./79363-blast-breaker-online.json) |
 | Blast Brigade vs. the Evil Legion of Dr. Cread | 146722 | [146722-blast-brigade-vs-the-evil-legion-of-dr-cread.json](./146722-blast-brigade-vs-the-evil-legion-of-dr-cread.json) |
 | Blast Chamber | 47014 | [47014-blast-chamber.json](./47014-blast-chamber.json) |
+| Blast Corps | 3424 | [3424-blast-corps.json](./3424-blast-corps.json) |
 | Blast Dash | 411571 | [411571-blast-dash.json](./411571-blast-dash.json) |
 | Blast Doors | 65401 | [65401-blast-doors.json](./65401-blast-doors.json) |
 | Blast Droids | 172025 | [172025-blast-droids.json](./172025-blast-droids.json) |
@@ -10704,6 +10704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 2: How Marcus Saved Mercenary Day | 13926 | [13926-borderlands-2-how-marcus-saved-mercenary-day.json](./13926-borderlands-2-how-marcus-saved-mercenary-day.json) |
 | Borderlands 2: Mad Moxxi and the Wedding Day Massacre | 13927 | [13927-borderlands-2-mad-moxxi-and-the-wedding-day-massacre.json](./13927-borderlands-2-mad-moxxi-and-the-wedding-day-massacre.json) |
 | Borderlands 2: Mr. Torgue's Campaign of Carnage | 13921 | [13921-borderlands-2-mr-torgues-campaign-of-carnage.json](./13921-borderlands-2-mr-torgues-campaign-of-carnage.json) |
+| Borderlands 2: Sir Hammerlock's Big Game Hunt | 13922 | [13922-borderlands-2-sir-hammerlocks-big-game-hunt.json](./13922-borderlands-2-sir-hammerlocks-big-game-hunt.json) |
 | Borderlands 2: Tiny Tina's Assault on Dragon Keep | 13923 | [13923-borderlands-2-tiny-tinas-assault-on-dragon-keep.json](./13923-borderlands-2-tiny-tinas-assault-on-dragon-keep.json) |
 | Borderlands 2: Ultimate Edition | 118740 | [118740-borderlands-2-ultimate-edition.json](./118740-borderlands-2-ultimate-edition.json) |
 | Borderlands 3: Bounty of Blood - A Fistful of Redemption | 134100 | [134100-borderlands-3-bounty-of-blood-a-fistful-of-redemption.json](./134100-borderlands-3-bounty-of-blood-a-fistful-of-redemption.json) |
@@ -10722,6 +10723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands Legends | 64415 | [64415-borderlands-legends.json](./64415-borderlands-legends.json) |
 | Borderlands Mobile | 397810 | [397810-borderlands-mobile.json](./397810-borderlands-mobile.json) |
 | Borderlands Triple Pack | 268734 | [268734-borderlands-triple-pack.json](./268734-borderlands-triple-pack.json) |
+| Borderlands: Claptrap's New Robot Revolution | 13916 | [13916-borderlands-claptraps-new-robot-revolution.json](./13916-borderlands-claptraps-new-robot-revolution.json) |
 | Borderlands: Game of the Year Edition | 21758 | [21758-borderlands-game-of-the-year-edition.json](./21758-borderlands-game-of-the-year-edition.json) |
 | Borderlands: Game of the Year Enhanced | 118993 | [118993-borderlands-game-of-the-year-enhanced.json](./118993-borderlands-game-of-the-year-enhanced.json) |
 | Borderlands: The Handsome Collection | 14548 | [14548-borderlands-the-handsome-collection.json](./14548-borderlands-the-handsome-collection.json) |
