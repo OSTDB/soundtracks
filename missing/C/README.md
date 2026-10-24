@@ -3865,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns of Callisto | 24990 | [24990-caverns-of-callisto.json](./24990-caverns-of-callisto.json) |
 | Caverns of Darkness | 256819 | [256819-caverns-of-darkness.json](./256819-caverns-of-darkness.json) |
 | Caverns of Doom | 133790 | [133790-caverns-of-doom.json](./133790-caverns-of-doom.json) |
+| Caverns of Eriban | 26267 | [26267-caverns-of-eriban.json](./26267-caverns-of-eriban.json) |
 | Caverns of Evil | 404061 | [404061-caverns-of-evil.json](./404061-caverns-of-evil.json) |
 | Caverns of Karvella | 114324 | [114324-caverns-of-karvella.json](./114324-caverns-of-karvella.json) |
 | Caverns of Khafka | 25674 | [25674-caverns-of-khafka.json](./25674-caverns-of-khafka.json) |
@@ -5777,6 +5778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chili the Chipmunk Pinball Adventure | 116188 | [116188-chili-the-chipmunk-pinball-adventure.json](./116188-chili-the-chipmunk-pinball-adventure.json) |
 | Chili's Big Smasher BurgerTime | 307261 | [307261-chilis-big-smasher-burgertime.json](./307261-chilis-big-smasher-burgertime.json) |
 | Chilie Peppers | 82004 | [82004-chilie-peppers.json](./82004-chilie-peppers.json) |
+| Chilie: The First Encounter | 26275 | [26275-chilie-the-first-encounter.json](./26275-chilie-the-first-encounter.json) |
 | Chill | 368236 | [368236-chill.json](./368236-chill.json) |
 | Chill | 79608 | [79608-chill.json](./79608-chill.json) |
 | Chill Cat | 409197 | [409197-chill-cat.json](./409197-chill-cat.json) |
@@ -15910,6 +15912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut Smash Wrap | 127771 | [127771-cut-smash-wrap.json](./127771-cut-smash-wrap.json) |
 | Cut the Birds | 65195 | [65195-cut-the-birds.json](./65195-cut-the-birds.json) |
 | Cut the Box | 117724 | [117724-cut-the-box.json](./117724-cut-the-box.json) |
+| Cut the Buttons | 26207 | [26207-cut-the-buttons.json](./26207-cut-the-buttons.json) |
 | Cut the Cards | 293001 | [293001-cut-the-cards.json](./293001-cut-the-cards.json) |
 | Cut the Ex-Girlfriends | 102225 | [102225-cut-the-ex-girlfriends.json](./102225-cut-the-ex-girlfriends.json) |
 | Cut the Head off the Snake | 238968 | [238968-cut-the-head-off-the-snake.json](./238968-cut-the-head-off-the-snake.json) |
