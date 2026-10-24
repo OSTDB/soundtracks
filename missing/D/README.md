@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daikaijuu no Gyakushuu | 221042 | [221042-daikaijuu-no-gyakushuu.json](./221042-daikaijuu-no-gyakushuu.json) |
 | Daikatana | 8201 | [8201-daikatana.json](./8201-daikatana.json) |
 | Daikon Set | 55911 | [55911-daikon-set.json](./55911-daikon-set.json) |
+| Daikoukai Jidai | 41729 | [41729-daikoukai-jidai.json](./41729-daikoukai-jidai.json) |
 | Daikoukai Jidai II | 351143 | [351143-daikoukai-jidai-ii.json](./351143-daikoukai-jidai-ii.json) |
 | Daikoukai Jidai II Premium Pack | 351145 | [351145-daikoukai-jidai-ii-premium-pack.json](./351145-daikoukai-jidai-ii-premium-pack.json) |
 | Daikoukai Jidai III: Costa del Sol | 186736 | [186736-daikoukai-jidai-iii-costa-del-sol.json](./186736-daikoukai-jidai-iii-costa-del-sol.json) |
@@ -415,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daiva Story 1: Flames of Vlitra | 392848 | [392848-daiva-story-1-flames-of-vlitra.json](./392848-daiva-story-1-flames-of-vlitra.json) |
 | Daiva Story 2: Memory in Durga | 392849 | [392849-daiva-story-2-memory-in-durga.json](./392849-daiva-story-2-memory-in-durga.json) |
 | Daiva Story 3: Trial of Nirvana | 392850 | [392850-daiva-story-3-trial-of-nirvana.json](./392850-daiva-story-3-trial-of-nirvana.json) |
+| Daiva Story 4: Asura's Bloodfeud | 41728 | [41728-daiva-story-4-asuras-bloodfeud.json](./41728-daiva-story-4-asuras-bloodfeud.json) |
 | Daiva Story 5: The Cup of Soma | 41811 | [41811-daiva-story-5-the-cup-of-soma.json](./41811-daiva-story-5-the-cup-of-soma.json) |
 | Daiva Story 6: Imperial of Nirsartia | 65666 | [65666-daiva-story-6-imperial-of-nirsartia.json](./65666-daiva-story-6-imperial-of-nirsartia.json) |
 | Daiva Story 7: Light of Kari Yuga | 392851 | [392851-daiva-story-7-light-of-kari-yuga.json](./392851-daiva-story-7-light-of-kari-yuga.json) |
