@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tak 2: The Staff of Dreams | 243146 | [243146-tak-2-the-staff-of-dreams.json](./243146-tak-2-the-staff-of-dreams.json) |
 | Tak 2: The Staff of Dreams | 2779 | [2779-tak-2-the-staff-of-dreams.json](./2779-tak-2-the-staff-of-dreams.json) |
 | Tak and the Guardians of Gross | 2781 | [2781-tak-and-the-guardians-of-gross.json](./2781-tak-and-the-guardians-of-gross.json) |
+| Tak and the Power of Juju | 248449 | [248449-tak-and-the-power-of-juju.json](./248449-tak-and-the-power-of-juju.json) |
 | Tak: Mojo Mistake | 2782 | [2782-tak-mojo-mistake.json](./2782-tak-mojo-mistake.json) |
 | Tak: The Great Juju Challenge | 210254 | [210254-tak-the-great-juju-challenge.json](./210254-tak-the-great-juju-challenge.json) |
 | Tak: The Great Juju Challenge | 210255 | [210255-tak-the-great-juju-challenge.json](./210255-tak-the-great-juju-challenge.json) |
@@ -891,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talents | 248320 | [248320-talents.json](./248320-talents.json) |
 | Tales (Tentative Title) | 86373 | [86373-tales-tentative-title.json](./86373-tales-tentative-title.json) |
 | Tales & Dragons: Merge Puzzle | 254178 | [254178-tales-and-dragons-merge-puzzle.json](./254178-tales-and-dragons-merge-puzzle.json) |
+| Tales & Tactics | 244842 | [244842-tales-and-tactics.json](./244842-tales-and-tactics.json) |
 | Tales AFar | 233497 | [233497-tales-afar.json](./233497-tales-afar.json) |
 | Tales Beyond the Tomb: No Witnesses | 407331 | [407331-tales-beyond-the-tomb-no-witnesses.json](./407331-tales-beyond-the-tomb-no-witnesses.json) |
 | Tales Beyond the Tomb: Pineville Night Stalker | 322838 | [322838-tales-beyond-the-tomb-pineville-night-stalker.json](./322838-tales-beyond-the-tomb-pineville-night-stalker.json) |
@@ -3259,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenebrea | 372096 | [372096-tenebrea.json](./372096-tenebrea.json) |
 | TenebriS | 158128 | [158128-tenebris.json](./158128-tenebris.json) |
 | Tenebris Lake | 288272 | [288272-tenebris-lake.json](./288272-tenebris-lake.json) |
+| Tenebris Somnia | 216692 | [216692-tenebris-somnia.json](./216692-tenebris-somnia.json) |
 | Tenebris: Terra Incognita | 235777 | [235777-tenebris-terra-incognita.json](./235777-tenebris-terra-incognita.json) |
 | Tenebrix | 403651 | [403651-tenebrix.json](./403651-tenebrix.json) |
 | Tenebrous Dungeon | 115002 | [115002-tenebrous-dungeon.json](./115002-tenebrous-dungeon.json) |
@@ -5585,6 +5588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bride of Vampire | 271711 | [271711-the-bride-of-vampire.json](./271711-the-bride-of-vampire.json) |
 | The Bridge | 352753 | [352753-the-bridge.json](./352753-the-bridge.json) |
 | The Bridge | 8440 | [8440-the-bridge.json](./8440-the-bridge.json) |
+| The Bridge Curse 2: The Extrication | 244573 | [244573-the-bridge-curse-2-the-extrication.json](./244573-the-bridge-curse-2-the-extrication.json) |
 | The Bridge Curse: Road to Salvation | 193312 | [193312-the-bridge-curse-road-to-salvation.json](./193312-the-bridge-curse-road-to-salvation.json) |
 | The BridgeMaster | 169445 | [169445-the-bridgemaster.json](./169445-the-bridgemaster.json) |
 | The Bright In The Screen | 311323 | [311323-the-bright-in-the-screen.json](./311323-the-bright-in-the-screen.json) |
@@ -8070,6 +8074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gang Auto: VIP city | 100782 | [100782-the-gang-auto-vip-city.json](./100782-the-gang-auto-vip-city.json) |
 | The Gannet | 202968 | [202968-the-gannet.json](./202968-the-gannet.json) |
 | The Gap | 151120 | [151120-the-gap.json](./151120-the-gap.json) |
+| The Gap | 244952 | [244952-the-gap.json](./244952-the-gap.json) |
 | The Gap: Limited Edition | 292149 | [292149-the-gap-limited-edition.json](./292149-the-gap-limited-edition.json) |
 | The Garden | 31611 | [31611-the-garden.json](./31611-the-garden.json) |
 | The Garden | 376640 | [376640-the-garden.json](./376640-the-garden.json) |
@@ -11533,6 +11538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -13440,6 +13446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2: Ultimate Collection | 45113 | [45113-the-sims-2-ultimate-collection.json](./45113-the-sims-2-ultimate-collection.json) |
 | The Sims 2: University | 13126 | [13126-the-sims-2-university.json](./13126-the-sims-2-university.json) |
 | The Sims 25th Birthday Bundle | 362302 | [362302-the-sims-25th-birthday-bundle.json](./362302-the-sims-25th-birthday-bundle.json) |
+| The Sims 3 | 248566 | [248566-the-sims-3.json](./248566-the-sims-3.json) |
 | The Sims 3 | 248567 | [248567-the-sims-3.json](./248567-the-sims-3.json) |
 | The Sims 3 | 248568 | [248568-the-sims-3.json](./248568-the-sims-3.json) |
 | The Sims 3 | 327976 | [327976-the-sims-3.json](./327976-the-sims-3.json) |
@@ -19742,6 +19749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toadette's Sweets Gallery | 294781 | [294781-toadettes-sweets-gallery.json](./294781-toadettes-sweets-gallery.json) |
 | Toado | 92867 | [92867-toado.json](./92867-toado.json) |
 | Toadomination | 173243 | [173243-toadomination.json](./173243-toadomination.json) |
+| Toads of the Bayou | 244138 | [244138-toads-of-the-bayou.json](./244138-toads-of-the-bayou.json) |
 | Toads vs. Koopas | 307663 | [307663-toads-vs-koopas.json](./307663-toads-vs-koopas.json) |
 | Toaplan Arcade 1 | 216586 | [216586-toaplan-arcade-1.json](./216586-toaplan-arcade-1.json) |
 | Toaplan Arcade 2 | 239142 | [239142-toaplan-arcade-2.json](./239142-toaplan-arcade-2.json) |
@@ -20478,6 +20486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Legacy of Atlantis | 381235 | [381235-tomb-raider-legacy-of-atlantis.json](./381235-tomb-raider-legacy-of-atlantis.json) |
 | Tomb Raider: Legend | 146717 | [146717-tomb-raider-legend.json](./146717-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 146718 | [146718-tomb-raider-legend.json](./146718-tomb-raider-legend.json) |
+| Tomb Raider: Legend | 248535 | [248535-tomb-raider-legend.json](./248535-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 248536 | [248536-tomb-raider-legend.json](./248536-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 305560 | [305560-tomb-raider-legend.json](./305560-tomb-raider-legend.json) |
 | Tomb Raider: Lost and Found | 408978 | [408978-tomb-raider-lost-and-found.json](./408978-tomb-raider-lost-and-found.json) |
@@ -20687,6 +20696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk: Shred | 5230 | [5230-tony-hawk-shred.json](./5230-tony-hawk-shred.json) |
 | Tony Hawk's American Sk8land | 364480 | [364480-tony-hawks-american-sk8land.json](./364480-tony-hawks-american-sk8land.json) |
 | Tony Hawk's American Sk8land | 6643 | [6643-tony-hawks-american-sk8land.json](./6643-tony-hawks-american-sk8land.json) |
+| Tony Hawk's American Wasteland | 248551 | [248551-tony-hawks-american-wasteland.json](./248551-tony-hawks-american-wasteland.json) |
 | Tony Hawk's Downhill Jam | 210449 | [210449-tony-hawks-downhill-jam.json](./210449-tony-hawks-downhill-jam.json) |
 | Tony Hawk's Downhill Jam | 210450 | [210450-tony-hawks-downhill-jam.json](./210450-tony-hawks-downhill-jam.json) |
 | Tony Hawk's Downhill Jam | 5231 | [5231-tony-hawks-downhill-jam.json](./5231-tony-hawks-downhill-jam.json) |
@@ -20793,6 +20803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toolkid Creation | 310664 | [310664-toolkid-creation.json](./310664-toolkid-creation.json) |
 | Toolnich Village | 190376 | [190376-toolnich-village.json](./190376-toolnich-village.json) |
 | Tools Up! | 118357 | [118357-tools-up.json](./118357-tools-up.json) |
+| Tools Up! Garden Party: Episode 1 - The Tree House | 169280 | [169280-tools-up-garden-party-episode-1-the-tree-house.json](./169280-tools-up-garden-party-episode-1-the-tree-house.json) |
 | Tools Up! Garden Party: Episode 2 - Tunnel Vision | 169281 | [169281-tools-up-garden-party-episode-2-tunnel-vision.json](./169281-tools-up-garden-party-episode-2-tunnel-vision.json) |
 | Tools Up! Garden Party: Episode 3 - Home Sweet Home | 169279 | [169279-tools-up-garden-party-episode-3-home-sweet-home.json](./169279-tools-up-garden-party-episode-3-home-sweet-home.json) |
 | Tools Up! Garden Party: Season Pass | 202935 | [202935-tools-up-garden-party-season-pass.json](./202935-tools-up-garden-party-season-pass.json) |
@@ -20935,6 +20946,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Speed: Drag & Fast Racing | 88441 | [88441-top-speed-drag-and-fast-racing.json](./88441-top-speed-drag-and-fast-racing.json) |
 | Top Spin | 5234 | [5234-top-spin.json](./5234-top-spin.json) |
 | Top Spin 2 | 5235 | [5235-top-spin-2.json](./5235-top-spin-2.json) |
+| Top Spin 3 | 248564 | [248564-top-spin-3.json](./248564-top-spin-3.json) |
+| Top Spin 3 | 248565 | [248565-top-spin-3.json](./248565-top-spin-3.json) |
 | Top Stars Football | 198146 | [198146-top-stars-football.json](./198146-top-stars-football.json) |
 | Top Steed | 414525 | [414525-top-steed.json](./414525-top-steed.json) |
 | Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
@@ -21853,6 +21866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TouhouSnowClash | 263142 | [263142-touhousnowclash.json](./263142-touhousnowclash.json) |
 | Touka Gettan: Koufuu no Ryouou | 287638 | [287638-touka-gettan-koufuu-no-ryouou.json](./287638-touka-gettan-koufuu-no-ryouou.json) |
 | Touka Gettan: Koufuu no Ryouou Deluxe Pack | 287640 | [287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json](./287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json) |
+| Touken Ranbu Warriors | 172433 | [172433-touken-ranbu-warriors.json](./172433-touken-ranbu-warriors.json) |
 | Touken Ranbu Warriors: Digital Deluxe Edition | 199857 | [199857-touken-ranbu-warriors-digital-deluxe-edition.json](./199857-touken-ranbu-warriors-digital-deluxe-edition.json) |
 | Touken Ranbu Warriors: Uchiban Outfit 16-piece Set | 224518 | [224518-touken-ranbu-warriors-uchiban-outfit-16-piece-set.json](./224518-touken-ranbu-warriors-uchiban-outfit-16-piece-set.json) |
 | Touken Ranbu: Online Pocket | 194031 | [194031-touken-ranbu-online-pocket.json](./194031-touken-ranbu-online-pocket.json) |
