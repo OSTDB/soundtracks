@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.B.I. Baseball 3 | 93414 | [93414-r-b-i-baseball-3.json](./93414-r-b-i-baseball-3.json) |
 | R.B.I. Baseball 4 | 46264 | [46264-r-b-i-baseball-4.json](./46264-r-b-i-baseball-4.json) |
 | R.C. Bot Inc. | 33097 | [33097-r-c-bot-inc.json](./33097-r-c-bot-inc.json) |
+| R.C. Pro-Am | 9155 | [9155-r-c-pro-am.json](./9155-r-c-pro-am.json) |
 | R.E.A.C.T | 195595 | [195595-r-e-a-c-t.json](./195595-r-e-a-c-t.json) |
 | R.E.E.L. | 133367 | [133367-r-e-e-l.json](./133367-r-e-e-l.json) |
 | R.E.M. scape | 178432 | [178432-r-e-m-scape.json](./178432-r-e-m-scape.json) |
@@ -954,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Chai Wala | 341313 | [341313-railway-chai-wala.json](./341313-railway-chai-wala.json) |
 | Railway Company Owner | 239658 | [239658-railway-company-owner.json](./239658-railway-company-owner.json) |
 | Railway Construction Simulator | 130024 | [130024-railway-construction-simulator.json](./130024-railway-construction-simulator.json) |
+| Railway Empire | 28086 | [28086-railway-empire.json](./28086-railway-empire.json) |
 | Railway Empire 2 | 215138 | [215138-railway-empire-2.json](./215138-railway-empire-2.json) |
 | Railway Empire 2: Bella Italia | 345429 | [345429-railway-empire-2-bella-italia.json](./345429-railway-empire-2-bella-italia.json) |
 | Railway Empire 2: Digital Deluxe Edition | 251012 | [251012-railway-empire-2-digital-deluxe-edition.json](./251012-railway-empire-2-digital-deluxe-edition.json) |
@@ -5111,6 +5113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revelation One Trivia Quiz Game | 99374 | [99374-revelation-one-trivia-quiz-game.json](./99374-revelation-one-trivia-quiz-game.json) |
 | Revelation Trestan | 110507 | [110507-revelation-trestan.json](./110507-revelation-trestan.json) |
 | Revelations 2012 | 16279 | [16279-revelations-2012.json](./16279-revelations-2012.json) |
+| Revelations: Persona | 11452 | [11452-revelations-persona.json](./11452-revelations-persona.json) |
 | Revelations: The Demon Slayer | 265052 | [265052-revelations-the-demon-slayer.json](./265052-revelations-the-demon-slayer.json) |
 | Revella | 344368 | [344368-revella.json](./344368-revella.json) |
 | ReVeN | 62098 | [62098-reven.json](./62098-reven.json) |
@@ -5494,6 +5497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm de Cooking: Sweets Party e Youkoso | 72547 | [72547-rhythm-de-cooking-sweets-party-e-youkoso.json](./72547-rhythm-de-cooking-sweets-party-e-youkoso.json) |
 | Rhythm de Run Run Run | 123406 | [123406-rhythm-de-run-run-run.json](./123406-rhythm-de-run-run-run.json) |
 | Rhythm Defender | 118263 | [118263-rhythm-defender.json](./118263-rhythm-defender.json) |
+| Rhythm Doctor | 27907 | [27907-rhythm-doctor.json](./27907-rhythm-doctor.json) |
 | Rhythm Dodge | 257999 | [257999-rhythm-dodge.json](./257999-rhythm-dodge.json) |
 | Rhythm Drive: Synthwave City | 237202 | [237202-rhythm-drive-synthwave-city.json](./237202-rhythm-drive-synthwave-city.json) |
 | Rhythm Fighter | 129413 | [129413-rhythm-fighter.json](./129413-rhythm-fighter.json) |
