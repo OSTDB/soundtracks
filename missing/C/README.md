@@ -6064,6 +6064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocobo Land: A Game of Dice | 49559 | [49559-chocobo-land-a-game-of-dice.json](./49559-chocobo-land-a-game-of-dice.json) |
 | Chocobo Racing | 22896 | [22896-chocobo-racing.json](./22896-chocobo-racing.json) |
 | Chocobo's Mystery Dungeon Every Buddy! | 109465 | [109465-chocobos-mystery-dungeon-every-buddy.json](./109465-chocobos-mystery-dungeon-every-buddy.json) |
+| Chocolat | 10429 | [10429-chocolat.json](./10429-chocolat.json) |
 | Chocolat Rush | 120789 | [120789-chocolat-rush.json](./120789-chocolat-rush.json) |
 | Chocolate | 54825 | [54825-chocolate.json](./54825-chocolate.json) |
 | Chocolate Cage | 283571 | [283571-chocolate-cage.json](./283571-chocolate-cage.json) |
