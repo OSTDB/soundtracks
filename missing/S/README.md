@@ -5518,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Wolf Mysteries: Tracks of Terror | 101966 | [101966-shadow-wolf-mysteries-tracks-of-terror.json](./101966-shadow-wolf-mysteries-tracks-of-terror.json) |
 | Shadow Wolf Mysteries: Under the Crimson Moon | 139738 | [139738-shadow-wolf-mysteries-under-the-crimson-moon.json](./139738-shadow-wolf-mysteries-under-the-crimson-moon.json) |
 | Shadow Wolf Mysteries: Under the Crimson Moon - Collector's Edition | 112471 | [112471-shadow-wolf-mysteries-under-the-crimson-moon-collectors-edition.json](./112471-shadow-wolf-mysteries-under-the-crimson-moon-collectors-edition.json) |
+| Shadow World | 23325 | [23325-shadow-world.json](./23325-shadow-world.json) |
 | Shadow Wrangler | 180613 | [180613-shadow-wrangler.json](./180613-shadow-wrangler.json) |
 | Shadow X Dash: Ring Collector | 104461 | [104461-shadow-x-dash-ring-collector.json](./104461-shadow-x-dash-ring-collector.json) |
 | Shadow XS | 197600 | [197600-shadow-xs.json](./197600-shadow-xs.json) |
@@ -7621,6 +7622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showdown Adventure | 31750 | [31750-showdown-adventure.json](./31750-showdown-adventure.json) |
 | Showdown at Willow Creek | 83599 | [83599-showdown-at-willow-creek.json](./83599-showdown-at-willow-creek.json) |
 | Showdown Bandit | 121497 | [121497-showdown-bandit.json](./121497-showdown-bandit.json) |
+| Showdown in 2100 A.D. | 23289 | [23289-showdown-in-2100-a-d.json](./23289-showdown-in-2100-a-d.json) |
 | Showdown of Fate | 273092 | [273092-showdown-of-fate.json](./273092-showdown-of-fate.json) |
 | Showdown of the Dungeon | 112204 | [112204-showdown-of-the-dungeon.json](./112204-showdown-of-the-dungeon.json) |
 | Showdown: Legends of Wrestling | 6051 | [6051-showdown-legends-of-wrestling.json](./6051-showdown-legends-of-wrestling.json) |
@@ -12025,6 +12027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SneakBit | 326712 | [326712-sneakbit.json](./326712-sneakbit.json) |
 | Sneaker | 125677 | [125677-sneaker.json](./125677-sneaker.json) |
 | Sneaker Store Simulator | 389965 | [389965-sneaker-store-simulator.json](./389965-sneaker-store-simulator.json) |
+| Sneakers | 23320 | [23320-sneakers.json](./23320-sneakers.json) |
 | Sneakers | 6053 | [6053-sneakers.json](./6053-sneakers.json) |
 | SneakR | 184950 | [184950-sneakr.json](./184950-sneakr.json) |
 | Sneaky All-Nighter | 340275 | [340275-sneaky-all-nighter.json](./340275-sneaky-all-nighter.json) |
@@ -13607,6 +13610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SongPop Classic | 88775 | [88775-songpop-classic.json](./88775-songpop-classic.json) |
 | SongPop Live | 383182 | [383182-songpop-live.json](./383182-songpop-live.json) |
 | SongPop Party | 194563 | [194563-songpop-party.json](./194563-songpop-party.json) |
+| SongPop: Classic | 23333 | [23333-songpop-classic.json](./23333-songpop-classic.json) |
 | SongRunner | 364567 | [364567-songrunner.json](./364567-songrunner.json) |
 | Songs for a Hero | 222283 | [222283-songs-for-a-hero.json](./222283-songs-for-a-hero.json) |
 | Songs for a Hero 2: March of Malachi | 219497 | [219497-songs-for-a-hero-2-march-of-malachi.json](./219497-songs-for-a-hero-2-march-of-malachi.json) |
@@ -14567,6 +14571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer Lord | 36908 | [36908-sorcerer-lord.json](./36908-sorcerer-lord.json) |
 | Sorcerer of Fortune | 175439 | [175439-sorcerer-of-fortune.json](./175439-sorcerer-of-fortune.json) |
 | Sorcerer of Revenge | 134636 | [134636-sorcerer-of-revenge.json](./134636-sorcerer-of-revenge.json) |
+| Sorcerer of Siva | 23312 | [23312-sorcerer-of-siva.json](./23312-sorcerer-of-siva.json) |
 | Sorcerer Smackdown | 310099 | [310099-sorcerer-smackdown.json](./310099-sorcerer-smackdown.json) |
 | Sorcerer Standoff | 219590 | [219590-sorcerer-standoff.json](./219590-sorcerer-standoff.json) |
 | Sorcerer's Apprentice | 40695 | [40695-sorcerers-apprentice.json](./40695-sorcerers-apprentice.json) |
@@ -15960,6 +15965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rocks Blaster | 181049 | [181049-space-rocks-blaster.json](./181049-space-rocks-blaster.json) |
 | Space Rocks in Space | 365825 | [365825-space-rocks-in-space.json](./365825-space-rocks-in-space.json) |
 | Space Rocks! | 277829 | [277829-space-rocks.json](./277829-space-rocks.json) |
+| Space Rogue | 23279 | [23279-space-rogue.json](./23279-space-rogue.json) |
 | Space Roguelike Adventure | 190386 | [190386-space-roguelike-adventure.json](./190386-space-roguelike-adventure.json) |
 | Space RPG 3 | 99407 | [99407-space-rpg-3.json](./99407-space-rpg-3.json) |
 | Space Run | 202768 | [202768-space-run.json](./202768-space-run.json) |
@@ -16178,6 +16184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space X: Galaxy War of Air Force | 99369 | [99369-space-x-galaxy-war-of-air-force.json](./99369-space-x-galaxy-war-of-air-force.json) |
 | Space X: Sky War of Air Force | 98929 | [98929-space-x-sky-war-of-air-force.json](./98929-space-x-sky-war-of-air-force.json) |
 | Space Yandere | 174062 | [174062-space-yandere.json](./174062-space-yandere.json) |
+| Space Zap | 23244 | [23244-space-zap.json](./23244-space-zap.json) |
 | Space Zero | 37185 | [37185-space-zero.json](./37185-space-zero.json) |
 | Space Zombies Invasion | 88243 | [88243-space-zombies-invasion.json](./88243-space-zombies-invasion.json) |
 | Space Zone | 310161 | [310161-space-zone.json](./310161-space-zone.json) |
@@ -17359,6 +17366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Sense Spider-Man: Web-Master | 220111 | [220111-spider-sense-spider-man-web-master.json](./220111-spider-sense-spider-man-web-master.json) |
 | Spider-Tank vs. Aliens | 340182 | [340182-spider-tank-vs-aliens.json](./340182-spider-tank-vs-aliens.json) |
 | Spider: Gang City Hero | 93705 | [93705-spider-gang-city-hero.json](./93705-spider-gang-city-hero.json) |
+| Spider: The Secret Of Bryce Manor | 23259 | [23259-spider-the-secret-of-bryce-manor.json](./23259-spider-the-secret-of-bryce-manor.json) |
 | Spider: The Video Game | 45034 | [45034-spider-the-video-game.json](./45034-spider-the-video-game.json) |
 | Spider! | 107042 | [107042-spider.json](./107042-spider.json) |
 | Spider's Hollow | 184358 | [184358-spiders-hollow.json](./184358-spiders-hollow.json) |
@@ -18456,6 +18464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy x Anya: Operation Memories - Thrilling Outfit Pack | 308816 | [308816-spy-x-anya-operation-memories-thrilling-outfit-pack.json](./308816-spy-x-anya-operation-memories-thrilling-outfit-pack.json) |
 | Spy-der Pig | 297005 | [297005-spy-der-pig.json](./297005-spy-der-pig.json) |
 | Spy-Trek Adventure | 70060 | [70060-spy-trek-adventure.json](./70060-spy-trek-adventure.json) |
+| Spy's Demise | 23315 | [23315-spys-demise.json](./23315-spys-demise.json) |
 | Spy/Cell | 404994 | [404994-spy-cell.json](./404994-spy-cell.json) |
 | Spycraft: The Great Game | 2232 | [2232-spycraft-the-great-game.json](./2232-spycraft-the-great-game.json) |
 | Spyder | 93470 | [93470-spyder.json](./93470-spyder.json) |
@@ -19268,6 +19277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Mania | 108600 | [108600-star-mania.json](./108600-star-mania.json) |
 | Star Math: Interstellar Rogue 2 | 197578 | [197578-star-math-interstellar-rogue-2.json](./197578-star-math-interstellar-rogue-2.json) |
 | Star Matter | 148524 | [148524-star-matter.json](./148524-star-matter.json) |
+| Star Maze | 23316 | [23316-star-maze.json](./23316-star-maze.json) |
 | Star Melody: Yumemi Dreamer | 172717 | [172717-star-melody-yumemi-dreamer.json](./172717-star-melody-yumemi-dreamer.json) |
 | Star Melody: Yumemi Dreamer - Chapter 10 | 195782 | [195782-star-melody-yumemi-dreamer-chapter-10.json](./195782-star-melody-yumemi-dreamer-chapter-10.json) |
 | Star Melody: Yumemi Dreamer - Chapter 11 | 196156 | [196156-star-melody-yumemi-dreamer-chapter-11.json](./196156-star-melody-yumemi-dreamer-chapter-11.json) |
@@ -19485,7 +19495,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek Online: Age of Discovery | 112101 | [112101-star-trek-online-age-of-discovery.json](./112101-star-trek-online-age-of-discovery.json) |
 | Star Trek Online: Agents of Yesterday | 23285 | [23285-star-trek-online-agents-of-yesterday.json](./23285-star-trek-online-agents-of-yesterday.json) |
 | Star Trek Online: Awakening | 121530 | [121530-star-trek-online-awakening.json](./121530-star-trek-online-awakening.json) |
+| Star Trek Online: Delta Rising | 23287 | [23287-star-trek-online-delta-rising.json](./23287-star-trek-online-delta-rising.json) |
 | Star Trek Online: Emergence | 75689 | [75689-star-trek-online-emergence.json](./75689-star-trek-online-emergence.json) |
+| Star Trek Online: Legacy of Romulus | 23286 | [23286-star-trek-online-legacy-of-romulus.json](./23286-star-trek-online-legacy-of-romulus.json) |
 | Star Trek Online: Rise of Discovery | 120207 | [120207-star-trek-online-rise-of-discovery.json](./120207-star-trek-online-rise-of-discovery.json) |
 | Star Trek Online: Victory is Life | 113621 | [113621-star-trek-online-victory-is-life.json](./113621-star-trek-online-victory-is-life.json) |
 | Star Trek Pinball | 72149 | [72149-star-trek-pinball.json](./72149-star-trek-pinball.json) |
@@ -19972,6 +19984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfall Numbers | 74753 | [74753-starfall-numbers.json](./74753-starfall-numbers.json) |
 | Starfall Online | 131612 | [131612-starfall-online.json](./131612-starfall-online.json) |
 | Starfall Serenity | 278366 | [278366-starfall-serenity.json](./278366-starfall-serenity.json) |
+| Starfall Tactics | 23246 | [23246-starfall-tactics.json](./23246-starfall-tactics.json) |
 | Starfall: Inferno of Worlds | 348113 | [348113-starfall-inferno-of-worlds.json](./348113-starfall-inferno-of-worlds.json) |
 | Starfall: Operation Outro | 298037 | [298037-starfall-operation-outro.json](./298037-starfall-operation-outro.json) |
 | Starfeld | 55953 | [55953-starfeld.json](./55953-starfeld.json) |
@@ -20001,6 +20014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfinder: Afterlight | 358807 | [358807-starfinder-afterlight.json](./358807-starfinder-afterlight.json) |
 | Starfire Skies | 262868 | [262868-starfire-skies.json](./262868-starfire-skies.json) |
 | Starfleet Encounter | 13763 | [13763-starfleet-encounter.json](./13763-starfleet-encounter.json) |
+| Starfleet Orion | 23297 | [23297-starfleet-orion.json](./23297-starfleet-orion.json) |
 | Starflight 1+2 | 154450 | [154450-starflight-1-2.json](./154450-starflight-1-2.json) |
 | Starflight II: Trade Routes of the Cloud Nebula | 12777 | [12777-starflight-ii-trade-routes-of-the-cloud-nebula.json](./12777-starflight-ii-trade-routes-of-the-cloud-nebula.json) |
 | Starflower Inc. | 348788 | [348788-starflower-inc.json](./348788-starflower-inc.json) |
@@ -23222,6 +23236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine Bubble | 319299 | [319299-submarine-bubble.json](./319299-submarine-bubble.json) |
 | Submarine Car Diving Simulator | 95593 | [95593-submarine-car-diving-simulator.json](./95593-submarine-car-diving-simulator.json) |
 | Submarine Commander | 130269 | [130269-submarine-commander.json](./130269-submarine-commander.json) |
+| Submarine Commander | 23234 | [23234-submarine-commander.json](./23234-submarine-commander.json) |
 | Submarine Commander | 54796 | [54796-submarine-commander.json](./54796-submarine-commander.json) |
 | Submarine Dash | 56762 | [56762-submarine-dash.json](./56762-submarine-dash.json) |
 | Submarine Fury | 73802 | [73802-submarine-fury.json](./73802-submarine-fury.json) |
@@ -26767,6 +26782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Yakyuudou 2 | 66208 | [66208-super-yakyuudou-2.json](./66208-super-yakyuudou-2.json) |
 | Super Yuki Onna-chan | 154423 | [154423-super-yuki-onna-chan.json](./154423-super-yuki-onna-chan.json) |
 | Super Yum Yum | 306006 | [306006-super-yum-yum.json](./306006-super-yum-yum.json) |
+| Super Yum Yum 3 | 23266 | [23266-super-yum-yum-3.json](./23266-super-yum-yum-3.json) |
 | Super Zangyura | 151652 | [151652-super-zangyura.json](./151652-super-zangyura.json) |
 | Super Zaxxon | 22696 | [22696-super-zaxxon.json](./22696-super-zaxxon.json) |
 | Super Zeek | 245766 | [245766-super-zeek.json](./245766-super-zeek.json) |
@@ -27872,6 +27888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarmsign | 304904 | [304904-swarmsign.json](./304904-swarmsign.json) |
 | SwarmsurgE | 258411 | [258411-swarmsurge.json](./258411-swarmsurge.json) |
 | Swarog | 92950 | [92950-swarog.json](./92950-swarog.json) |
+| Swashbuckler | 23233 | [23233-swashbuckler.json](./23233-swashbuckler.json) |
 | Swashbucklers: Blue vs. Grey | 21508 | [21508-swashbucklers-blue-vs-grey.json](./21508-swashbucklers-blue-vs-grey.json) |
 | Swat | 71547 | [71547-swat.json](./71547-swat.json) |
 | SWAT | 307058 | [307058-swat.json](./307058-swat.json) |
