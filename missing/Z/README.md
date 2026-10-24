@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen-Nippon Joshi Pro Wrestling: Joou Densetsu - Yume no Taikousen | 45029 | [45029-zen-nippon-joshi-pro-wrestling-joou-densetsu-yume-no-taikousen.json](./45029-zen-nippon-joshi-pro-wrestling-joou-densetsu-yume-no-taikousen.json) |
 | Zen-Nippon Joshi Pro Wrestling: Queen of Queens | 45954 | [45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json](./45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json) |
 | Zen-Nippon Pro Wrestling | 61503 | [61503-zen-nippon-pro-wrestling.json](./61503-zen-nippon-pro-wrestling.json) |
+| Zen-Nippon Pro Wrestling 2: 3-4 Budoukan | 42370 | [42370-zen-nippon-pro-wrestling-2-3-4-budoukan.json](./42370-zen-nippon-pro-wrestling-2-3-4-budoukan.json) |
 | Zen-Nippon Pro Wrestling Featuring Virtua | 46089 | [46089-zen-nippon-pro-wrestling-featuring-virtua.json](./46089-zen-nippon-pro-wrestling-featuring-virtua.json) |
 | Zen-Nippon Pro Wrestling: Fight Da Pon! | 65200 | [65200-zen-nippon-pro-wrestling-fight-da-pon.json](./65200-zen-nippon-pro-wrestling-fight-da-pon.json) |
 | Zen-Nippon Pro Wrestling: Ouja no Tamashii | 45073 | [45073-zen-nippon-pro-wrestling-ouja-no-tamashii.json](./45073-zen-nippon-pro-wrestling-ouja-no-tamashii.json) |
@@ -616,6 +617,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenkoku Baken Ouja Ketteisen 2: Omoshiro Bamei S | 341157 | [341157-zenkoku-baken-ouja-ketteisen-2-omoshiro-bamei-s.json](./341157-zenkoku-baken-ouja-ketteisen-2-omoshiro-bamei-s.json) |
 | Zenkoku Baken Ouja Ketteisen 2: Satella Mile Yosen 1 | 341158 | [341158-zenkoku-baken-ouja-ketteisen-2-satella-mile-yosen-1.json](./341158-zenkoku-baken-ouja-ketteisen-2-satella-mile-yosen-1.json) |
 | Zenkoku Dekotora Matsuri | 198171 | [198171-zenkoku-dekotora-matsuri.json](./198171-zenkoku-dekotora-matsuri.json) |
+| Zenkoku Koukou Soccer | 42351 | [42351-zenkoku-koukou-soccer.json](./42351-zenkoku-koukou-soccer.json) |
+| Zenkoku Koukou Soccer 2 | 42350 | [42350-zenkoku-koukou-soccer-2.json](./42350-zenkoku-koukou-soccer-2.json) |
 | Zenku | 384881 | [384881-zenku.json](./384881-zenku.json) |
 | Zenless Zone Zero: Update 1.1 - Undercover R&B | 316048 | [316048-zenless-zone-zero-update-1-1-undercover-r-and-b.json](./316048-zenless-zone-zero-update-1-1-undercover-r-and-b.json) |
 | Zenless Zone Zero: Update 1.3 - Virtual Revenge | 320860 | [320860-zenless-zone-zero-update-1-3-virtual-revenge.json](./320860-zenless-zone-zero-update-1-3-virtual-revenge.json) |
@@ -909,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zibbs: Alien Survival | 113842 | [113842-zibbs-alien-survival.json](./113842-zibbs-alien-survival.json) |
 | ZIC: Survival | 119815 | [119815-zic-survival.json](./119815-zic-survival.json) |
 | ZIC: Zombies in City | 118208 | [118208-zic-zombies-in-city.json](./118208-zic-zombies-in-city.json) |
+| Zico Soccer | 42348 | [42348-zico-soccer.json](./42348-zico-soccer.json) |
 | Zidane: Football Generation | 144652 | [144652-zidane-football-generation.json](./144652-zidane-football-generation.json) |
 | Zidane: Football Generation 2002 | 49351 | [49351-zidane-football-generation-2002.json](./49351-zidane-football-generation-2002.json) |
 | Ziegel: An Arcade Platformer | 96206 | [96206-ziegel-an-arcade-platformer.json](./96206-ziegel-an-arcade-platformer.json) |
