@@ -1405,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! GX Tag Force | 78167 | [78167-yu-gi-oh-gx-tag-force.json](./78167-yu-gi-oh-gx-tag-force.json) |
 | Yu-Gi-Oh! GX Tag Force 2 | 21945 | [21945-yu-gi-oh-gx-tag-force-2.json](./21945-yu-gi-oh-gx-tag-force-2.json) |
 | Yu-Gi-Oh! GX Tag Force 3 | 44494 | [44494-yu-gi-oh-gx-tag-force-3.json](./44494-yu-gi-oh-gx-tag-force-3.json) |
+| Yu-Gi-Oh! Legacy of the Duelist | 20043 | [20043-yu-gi-oh-legacy-of-the-duelist.json](./20043-yu-gi-oh-legacy-of-the-duelist.json) |
 | Yu-Gi-Oh! Legacy of the Duelist: Link Evolution | 114905 | [114905-yu-gi-oh-legacy-of-the-duelist-link-evolution.json](./114905-yu-gi-oh-legacy-of-the-duelist-link-evolution.json) |
 | Yu-Gi-Oh! Master Duel | 159298 | [159298-yu-gi-oh-master-duel.json](./159298-yu-gi-oh-master-duel.json) |
 | Yu-Gi-Oh! Millennium Duels | 53058 | [53058-yu-gi-oh-millennium-duels.json](./53058-yu-gi-oh-millennium-duels.json) |
