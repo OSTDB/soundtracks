@@ -2598,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatale | 15989 | [15989-fatale.json](./15989-fatale.json) |
 | FatalZone | 258907 | [258907-fatalzone.json](./258907-fatalzone.json) |
 | Fatberg | 382298 | [382298-fatberg.json](./382298-fatberg.json) |
+| Fate | 10998 | [10998-fate.json](./10998-fate.json) |
 | Fate | 159588 | [159588-fate.json](./159588-fate.json) |
 | Fate | 364622 | [364622-fate.json](./364622-fate.json) |
 | Fate (Carnivale Card Game) | 132012 | [132012-fate-carnivale-card-game.json](./132012-fate-carnivale-card-game.json) |
