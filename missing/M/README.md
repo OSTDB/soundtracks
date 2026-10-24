@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 25 Mobile Football | 320596 | [320596-madden-nfl-25-mobile-football.json](./320596-madden-nfl-25-mobile-football.json) |
 | Madden NFL 26 | 342382 | [342382-madden-nfl-26.json](./342382-madden-nfl-26.json) |
 | Madden NFL 27: Deluxe Edition | 411832 | [411832-madden-nfl-27-deluxe-edition.json](./411832-madden-nfl-27-deluxe-edition.json) |
+| Madden NFL 95 | 4506 | [4506-madden-nfl-95.json](./4506-madden-nfl-95.json) |
 | Madden NFL 95 | 48974 | [48974-madden-nfl-95.json](./48974-madden-nfl-95.json) |
 | Madden NFL 96 | 240486 | [240486-madden-nfl-96.json](./240486-madden-nfl-96.json) |
 | Madden NFL 96 | 243244 | [243244-madden-nfl-96.json](./243244-madden-nfl-96.json) |
@@ -502,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 97 | 243264 | [243264-madden-nfl-97.json](./243264-madden-nfl-97.json) |
 | Madden NFL 97 | 243265 | [243265-madden-nfl-97.json](./243265-madden-nfl-97.json) |
 | Madden NFL 97 | 48972 | [48972-madden-nfl-97.json](./48972-madden-nfl-97.json) |
+| Madden NFL 98 | 4590 | [4590-madden-nfl-98.json](./4590-madden-nfl-98.json) |
 | Madden NFL 99 | 779 | [779-madden-nfl-99.json](./779-madden-nfl-99.json) |
 | Madden NFL Football | 6845 | [6845-madden-nfl-football.json](./6845-madden-nfl-football.json) |
 | Madden NFL Football | 80472 | [80472-madden-nfl-football.json](./80472-madden-nfl-football.json) |
@@ -1223,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Greenhouse | 372182 | [372182-magical-greenhouse.json](./372182-magical-greenhouse.json) |
 | Magical Harvest | 197156 | [197156-magical-harvest.json](./197156-magical-harvest.json) |
 | Magical Hat | 137515 | [137515-magical-hat.json](./137515-magical-hat.json) |
+| Magical Hat no Buttobi Turbo! Daibouken | 4472 | [4472-magical-hat-no-buttobi-turbo-daibouken.json](./4472-magical-hat-no-buttobi-turbo-daibouken.json) |
 | Magical Hike | 264592 | [264592-magical-hike.json](./264592-magical-hike.json) |
 | Magical Houshin | 248471 | [248471-magical-houshin.json](./248471-magical-houshin.json) |
 | Magical Houshin | 49707 | [49707-magical-houshin.json](./49707-magical-houshin.json) |
@@ -3229,6 +3232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Learns About Colors 2 | 323824 | [323824-mario-learns-about-colors-2.json](./323824-mario-learns-about-colors-2.json) |
 | Mario Left the Cheese Out | 186098 | [186098-mario-left-the-cheese-out.json](./186098-mario-left-the-cheese-out.json) |
 | Mario Left the Garage Door Open Again! | 343032 | [343032-mario-left-the-garage-door-open-again.json](./343032-mario-left-the-garage-door-open-again.json) |
+| Mario Lemieux Hockey | 4441 | [4441-mario-lemieux-hockey.json](./4441-mario-lemieux-hockey.json) |
 | Mario Lost In Space | 384109 | [384109-mario-lost-in-space.json](./384109-mario-lost-in-space.json) |
 | Mario Mania | 218089 | [218089-mario-mania.json](./218089-mario-mania.json) |
 | Mario Motors | 231507 | [231507-mario-motors.json](./231507-mario-motors.json) |
@@ -4254,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of the Wind | 123642 | [123642-master-of-the-wind.json](./123642-master-of-the-wind.json) |
 | Master of Vtuber | 267452 | [267452-master-of-vtuber.json](./267452-master-of-vtuber.json) |
 | Master of War: Rule of Power | 199451 | [199451-master-of-war-rule-of-power.json](./199451-master-of-war-rule-of-power.json) |
+| Master of Weapon | 4532 | [4532-master-of-weapon.json](./4532-master-of-weapon.json) |
 | Master of Wills | 125873 | [125873-master-of-wills.json](./125873-master-of-wills.json) |
 | Master Pyrox Wizard Smackdown | 102924 | [102924-master-pyrox-wizard-smackdown.json](./102924-master-pyrox-wizard-smackdown.json) |
 | Master Rallye | 44707 | [44707-master-rallye.json](./44707-master-rallye.json) |
@@ -5954,6 +5959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Games 3 | 60328 | [60328-mega-games-3.json](./60328-mega-games-3.json) |
 | Mega Games 6 | 56847 | [56847-mega-games-6.json](./56847-mega-games-6.json) |
 | Mega Games 6 Vol. 2 | 56843 | [56843-mega-games-6-vol-2.json](./56843-mega-games-6-vol-2.json) |
+| Mega Games 6 Vol. 3 | 4456 | [4456-mega-games-6-vol-3.json](./4456-mega-games-6-vol-3.json) |
 | Mega Giga Cookie Destroyer TD | 304856 | [304856-mega-giga-cookie-destroyer-td.json](./304856-mega-giga-cookie-destroyer-td.json) |
 | Mega Hasan | 128343 | [128343-mega-hasan.json](./128343-mega-hasan.json) |
 | Mega Kaiju Boom Ball | 390022 | [390022-mega-kaiju-boom-ball.json](./390022-mega-kaiju-boom-ball.json) |
@@ -14367,6 +14373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Wars 2 | 97440 | [97440-motor-wars-2.json](./97440-motor-wars-2.json) |
 | Motor World: Bike Factory | 256129 | [256129-motor-world-bike-factory.json](./256129-motor-world-bike-factory.json) |
 | Motor World: Car Factory | 233914 | [233914-motor-world-car-factory.json](./233914-motor-world-car-factory.json) |
+| MotoRace USA | 4626 | [4626-motorace-usa.json](./4626-motorace-usa.json) |
 | Motorama: Classic Racing | 10566 | [10566-motorama-classic-racing.json](./10566-motorama-classic-racing.json) |
 | Motorball | 137599 | [137599-motorball.json](./137599-motorball.json) |
 | Motorbike | 35923 | [35923-motorbike.json](./35923-motorbike.json) |
