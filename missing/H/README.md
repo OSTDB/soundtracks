@@ -1974,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatate-chan no Joshi Ryoku Training! | 403040 | [403040-hatate-chan-no-joshi-ryoku-training.json](./403040-hatate-chan-no-joshi-ryoku-training.json) |
 | Hatch | 169258 | [169258-hatch.json](./169258-hatch.json) |
 | Hatch | 314491 | [314491-hatch.json](./314491-hatch.json) |
+| Hatch and Slay | 33884 | [33884-hatch-and-slay.json](./33884-hatch-and-slay.json) |
 | Hatch Catch | 40175 | [40175-hatch-catch.json](./40175-hatch-catch.json) |
 | Hatch Dragons | 381848 | [381848-hatch-dragons.json](./381848-hatch-dragons.json) |
 | Hatch Tales: A Heroic Hookshot Adventure | 319936 | [319936-hatch-tales-a-heroic-hookshot-adventure.json](./319936-hatch-tales-a-heroic-hookshot-adventure.json) |
@@ -2258,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hauntred Factory Skibidi Poppy Freedy | 267310 | [267310-hauntred-factory-skibidi-poppy-freedy.json](./267310-hauntred-factory-skibidi-poppy-freedy.json) |
 | Hauntrick | 334176 | [334176-hauntrick.json](./334176-hauntrick.json) |
 | Hauntsgiving | 341129 | [341129-hauntsgiving.json](./341129-hauntsgiving.json) |
+| Hauntsters | 33872 | [33872-hauntsters.json](./33872-hauntsters.json) |
 | Hauntsville | 293335 | [293335-hauntsville.json](./293335-hauntsville.json) |
 | Hauntworks | 410264 | [410264-hauntworks.json](./410264-hauntworks.json) |
 | Haus | 377074 | [377074-haus.json](./377074-haus.json) |
@@ -9164,6 +9166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hube: Seeker of Achievements | 100435 | [100435-hube-seeker-of-achievements.json](./100435-hube-seeker-of-achievements.json) |
 | Hubert Catching | 411109 | [411109-hubert-catching.json](./411109-hubert-catching.json) |
 | Hubert the Teddy Bear: Holiday Island | 68089 | [68089-hubert-the-teddy-bear-holiday-island.json](./68089-hubert-the-teddy-bear-holiday-island.json) |
+| Hubert's Island Adventure: Mouse o' War | 33807 | [33807-huberts-island-adventure-mouse-o-war.json](./33807-huberts-island-adventure-mouse-o-war.json) |
 | Hubris | 114705 | [114705-hubris.json](./114705-hubris.json) |
 | HubWorld | 135608 | [135608-hubworld.json](./135608-hubworld.json) |
 | Huckleberry Falls | 99125 | [99125-huckleberry-falls.json](./99125-huckleberry-falls.json) |
