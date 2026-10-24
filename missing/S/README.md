@@ -8022,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: Digital Deluxe Edition | 53611 | [53611-sid-meiers-civilization-vi-digital-deluxe-edition.json](./53611-sid-meiers-civilization-vi-digital-deluxe-edition.json) |
 | Sid Meier's Civilization VI: Ethiopia Pack | 164402 | [164402-sid-meiers-civilization-vi-ethiopia-pack.json](./164402-sid-meiers-civilization-vi-ethiopia-pack.json) |
 | Sid Meier's Civilization VI: Fire Keeper Pack | 276031 | [276031-sid-meiers-civilization-vi-fire-keeper-pack.json](./276031-sid-meiers-civilization-vi-fire-keeper-pack.json) |
+| Sid Meier's Civilization VI: Gathering Storm | 113374 | [113374-sid-meiers-civilization-vi-gathering-storm.json](./113374-sid-meiers-civilization-vi-gathering-storm.json) |
 | Sid Meier's Civilization VI: John Riccitiello Pack | 277374 | [277374-sid-meiers-civilization-vi-john-riccitiello-pack.json](./277374-sid-meiers-civilization-vi-john-riccitiello-pack.json) |
 | Sid Meier's Civilization VI: Khmer and Indonesia Civilization & Scenario Pack | 164407 | [164407-sid-meiers-civilization-vi-khmer-and-indonesia-civilization-and-scenario-pack.json](./164407-sid-meiers-civilization-vi-khmer-and-indonesia-civilization-and-scenario-pack.json) |
 | Sid Meier's Civilization VI: Klein Moretti Pack | 278097 | [278097-sid-meiers-civilization-vi-klein-moretti-pack.json](./278097-sid-meiers-civilization-vi-klein-moretti-pack.json) |
@@ -11088,6 +11089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slither Loop | 147078 | [147078-slither-loop.json](./147078-slither-loop.json) |
 | Slither Realm | 388946 | [388946-slither-realm.json](./388946-slither-realm.json) |
 | Slither Snake IO 2018 | 101372 | [101372-slither-snake-io-2018.json](./101372-slither-snake-io-2018.json) |
+| Slither.io | 22712 | [22712-slither-io.json](./22712-slither-io.json) |
 | Slither.io | 239311 | [239311-slither-io.json](./239311-slither-io.json) |
 | Slithereens | 146177 | [146177-slithereens.json](./146177-slithereens.json) |
 | Slitherin' | 176363 | [176363-slitherin.json](./176363-slitherin.json) |
@@ -13154,6 +13156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier of Fortune II: Double Helix | 3112 | [3112-soldier-of-fortune-ii-double-helix.json](./3112-soldier-of-fortune-ii-double-helix.json) |
 | Soldier of Fortune II: Double Helix - Gold Edition | 154525 | [154525-soldier-of-fortune-ii-double-helix-gold-edition.json](./154525-soldier-of-fortune-ii-double-helix-gold-edition.json) |
 | Soldier of Fortune: Gold Edition | 44642 | [44642-soldier-of-fortune-gold-edition.json](./44642-soldier-of-fortune-gold-edition.json) |
+| Soldier of Fortune: Payback | 3113 | [3113-soldier-of-fortune-payback.json](./3113-soldier-of-fortune-payback.json) |
 | Soldier of Light | 54717 | [54717-soldier-of-light.json](./54717-soldier-of-light.json) |
 | Soldier of Steel | 22134 | [22134-soldier-of-steel.json](./22134-soldier-of-steel.json) |
 | Soldier of the Empire | 255611 | [255611-soldier-of-the-empire.json](./255611-soldier-of-the-empire.json) |
@@ -17823,6 +17826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatoon | 7335 | [7335-splatoon.json](./7335-splatoon.json) |
 | Splatoon 2 | 26761 | [26761-splatoon-2.json](./26761-splatoon-2.json) |
 | Splatoon 2 + Splatoon 2 Octo Expansion Bundle | 136382 | [136382-splatoon-2-splatoon-2-octo-expansion-bundle.json](./136382-splatoon-2-splatoon-2-octo-expansion-bundle.json) |
+| Splatoon 2: Octo Expansion | 103364 | [103364-splatoon-2-octo-expansion.json](./103364-splatoon-2-octo-expansion.json) |
 | Splatoon 2: Version 2.0.0 | 230108 | [230108-splatoon-2-version-2-0-0.json](./230108-splatoon-2-version-2-0-0.json) |
 | Splatoon 2: Version 3.0.0 | 230109 | [230109-splatoon-2-version-3-0-0.json](./230109-splatoon-2-version-3-0-0.json) |
 | Splatoon 2: Version 4.0.0 | 230110 | [230110-splatoon-2-version-4-0-0.json](./230110-splatoon-2-version-4-0-0.json) |
@@ -18474,6 +18478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Guy: Vacation Bundle | 404287 | [404287-spy-guy-vacation-bundle.json](./404287-spy-guy-vacation-bundle.json) |
 | Spy Hunter | 21042 | [21042-spy-hunter.json](./21042-spy-hunter.json) |
 | Spy Hunter | 287079 | [287079-spy-hunter.json](./287079-spy-hunter.json) |
+| Spy Hunter | 4167 | [4167-spy-hunter.json](./4167-spy-hunter.json) |
 | Spy Hunter / Super Sprint | 93200 | [93200-spy-hunter-super-sprint.json](./93200-spy-hunter-super-sprint.json) |
 | Spy Hunter II | 6153 | [6153-spy-hunter-ii.json](./6153-spy-hunter-ii.json) |
 | Spy Hunter Returns | 297466 | [297466-spy-hunter-returns.json](./297466-spy-hunter-returns.json) |
@@ -19965,6 +19970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarCraft II: Campaign Collection | 356059 | [356059-starcraft-ii-campaign-collection.json](./356059-starcraft-ii-campaign-collection.json) |
 | Starcraft II: Heart of the Swarm - Collector's Edition | 46441 | [46441-starcraft-ii-heart-of-the-swarm-collectors-edition.json](./46441-starcraft-ii-heart-of-the-swarm-collectors-edition.json) |
 | StarCraft II: Legacy of the Void - Collector's Edition | 51293 | [51293-starcraft-ii-legacy-of-the-void-collectors-edition.json](./51293-starcraft-ii-legacy-of-the-void-collectors-edition.json) |
+| StarCraft II: Trilogy | 46986 | [46986-starcraft-ii-trilogy.json](./46986-starcraft-ii-trilogy.json) |
 | StarCraft II: Wings of Liberty - Collector's Edition | 282514 | [282514-starcraft-ii-wings-of-liberty-collectors-edition.json](./282514-starcraft-ii-wings-of-liberty-collectors-edition.json) |
 | StarCraft Universe | 19177 | [19177-starcraft-universe.json](./19177-starcraft-universe.json) |
 | StarCraft: Evolution Complete | 305329 | [305329-starcraft-evolution-complete.json](./305329-starcraft-evolution-complete.json) |
@@ -20928,6 +20934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamWorld Heist Complete Bundle | 308627 | [308627-steamworld-heist-complete-bundle.json](./308627-steamworld-heist-complete-bundle.json) |
 | SteamWorld Heist II & SteamWorld Build Bundle | 328483 | [328483-steamworld-heist-ii-and-steamworld-build-bundle.json](./328483-steamworld-heist-ii-and-steamworld-build-bundle.json) |
 | SteamWorld Heist: Ultimate Edition | 77648 | [77648-steamworld-heist-ultimate-edition.json](./77648-steamworld-heist-ultimate-edition.json) |
+| SteamWorld Quest: Hand of Gilgamech | 114415 | [114415-steamworld-quest-hand-of-gilgamech.json](./114415-steamworld-quest-hand-of-gilgamech.json) |
 | Steamwrecked | 387023 | [387023-steamwrecked.json](./387023-steamwrecked.json) |
 | Steamy Livestreams with My Girlfriend | 396198 | [396198-steamy-livestreams-with-my-girlfriend.json](./396198-steamy-livestreams-with-my-girlfriend.json) |
 | Steamy Sextet | 127997 | [127997-steamy-sextet.json](./127997-steamy-sextet.json) |
