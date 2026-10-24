@@ -2514,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Admin | 179622 | [179622-admin.json](./179622-admin.json) |
 | Admin Simulator | 119597 | [119597-admin-simulator.json](./119597-admin-simulator.json) |
 | Administrators | 196569 | [196569-administrators.json](./196569-administrators.json) |
+| Admiral Nemo | 25428 | [25428-admiral-nemo.json](./25428-admiral-nemo.json) |
 | Admiral: Battle for Uranium | 261859 | [261859-admiral-battle-for-uranium.json](./261859-admiral-battle-for-uranium.json) |
 | Admirals of Ophiuchus | 379559 | [379559-admirals-of-ophiuchus.json](./379559-admirals-of-ophiuchus.json) |
 | Adohiinage | 345439 | [345439-adohiinage.json](./345439-adohiinage.json) |
@@ -12611,6 +12612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Tale | 271915 | [271915-astral-tale.json](./271915-astral-tale.json) |
 | Astral Terra | 16882 | [16882-astral-terra.json](./16882-astral-terra.json) |
 | Astral Tournament | 73863 | [73863-astral-tournament.json](./73863-astral-tournament.json) |
+| Astral Towers | 25452 | [25452-astral-towers.json](./25452-astral-towers.json) |
 | Astral Tracks | 258619 | [258619-astral-tracks.json](./258619-astral-tracks.json) |
 | Astral Traveler | 51973 | [51973-astral-traveler.json](./51973-astral-traveler.json) |
 | Astral Vangard | 289546 | [289546-astral-vangard.json](./289546-astral-vangard.json) |
@@ -13825,6 +13827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autobahn Chaos | 179138 | [179138-autobahn-chaos.json](./179138-autobahn-chaos.json) |
 | Autobahn Police Simulator 2 | 76616 | [76616-autobahn-police-simulator-2.json](./76616-autobahn-police-simulator-2.json) |
 | Autobahn Police Simulator 3 | 153975 | [153975-autobahn-police-simulator-3.json](./153975-autobahn-police-simulator-3.json) |
+| Autobahn Racing | 25448 | [25448-autobahn-racing.json](./25448-autobahn-racing.json) |
 | Autobahn Racing | 376805 | [376805-autobahn-racing.json](./376805-autobahn-racing.json) |
 | Autobahn Raser | 210275 | [210275-autobahn-raser.json](./210275-autobahn-raser.json) |
 | Autobahn Raser II | 210276 | [210276-autobahn-raser-ii.json](./210276-autobahn-raser-ii.json) |
