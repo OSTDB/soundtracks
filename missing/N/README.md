@@ -2451,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Again | 53930 | [53930-never-again.json](./53930-never-again.json) |
 | Never Alone | 273575 | [273575-never-alone.json](./273575-never-alone.json) |
 | Never Alone: Arctic Collection | 46702 | [46702-never-alone-arctic-collection.json](./46702-never-alone-arctic-collection.json) |
+| Never Alone: Foxtales | 14549 | [14549-never-alone-foxtales.json](./14549-never-alone-foxtales.json) |
 | Never Alone: Ki Edition | 39251 | [39251-never-alone-ki-edition.json](./39251-never-alone-ki-edition.json) |
 | Never Alone: Kisima Ingitchuna | 7618 | [7618-never-alone-kisima-ingitchuna.json](./7618-never-alone-kisima-ingitchuna.json) |
 | Never Breakup | 107968 | [107968-never-breakup.json](./107968-never-breakup.json) |
@@ -2768,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Supper Banana! | 366220 | [366220-new-supper-banana.json](./366220-new-supper-banana.json) |
 | New Swordsman | 212478 | [212478-new-swordsman.json](./212478-new-swordsman.json) |
 | New Tab | 184587 | [184587-new-tab.json](./184587-new-tab.json) |
+| New Tales from the Borderlands | 214139 | [214139-new-tales-from-the-borderlands.json](./214139-new-tales-from-the-borderlands.json) |
 | New Tales from the Borderlands: Deluxe Edition | 214140 | [214140-new-tales-from-the-borderlands-deluxe-edition.json](./214140-new-tales-from-the-borderlands-deluxe-edition.json) |
 | New Tanks | 211070 | [211070-new-tanks.json](./211070-new-tanks.json) |
 | New Terra | 189077 | [189077-new-terra.json](./189077-new-terra.json) |
