@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X3: Albion Prelude - Bonus Package | 224391 | [224391-x3-albion-prelude-bonus-package.json](./224391-x3-albion-prelude-bonus-package.json) |
 | X3: Farnham's Legacy | 145483 | [145483-x3-farnhams-legacy.json](./145483-x3-farnhams-legacy.json) |
 | X3: GoldBox | 53102 | [53102-x3-goldbox.json](./53102-x3-goldbox.json) |
+| X3: Reunion | 9319 | [9319-x3-reunion.json](./9319-x3-reunion.json) |
 | X3: Reunion - Bonus Package | 224392 | [224392-x3-reunion-bonus-package.json](./224392-x3-reunion-bonus-package.json) |
 | X3: Terran Conflict | 9320 | [9320-x3-terran-conflict.json](./9320-x3-terran-conflict.json) |
 | X3: Terran Conflict - Bonus Package | 224393 | [224393-x3-terran-conflict-bonus-package.json](./224393-x3-terran-conflict-bonus-package.json) |
