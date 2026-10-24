@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eBaseball Professional Yakyuu Spirits 2021: Grand Slam | 143624 | [143624-ebaseball-professional-yakyuu-spirits-2021-grand-slam.json](./143624-ebaseball-professional-yakyuu-spirits-2021-grand-slam.json) |
 | EBaseball: Pro Spirit | 393762 | [393762-ebaseball-pro-spirit.json](./393762-ebaseball-pro-spirit.json) |
 | eBaseball: Pro Spirit 2026 | 410262 | [410262-ebaseball-pro-spirit-2026.json](./410262-ebaseball-pro-spirit-2026.json) |
+| Ebenezer and the Invisible World | 244457 | [244457-ebenezer-and-the-invisible-world.json](./244457-ebenezer-and-the-invisible-world.json) |
 | Eberouge | 97318 | [97318-eberouge.json](./97318-eberouge.json) |
 | Eberouge 2 | 171968 | [171968-eberouge-2.json](./171968-eberouge-2.json) |
 | Eberouge Special: Koi to Mahou no Gakuen Seikatsu | 171967 | [171967-eberouge-special-koi-to-mahou-no-gakuen-seikatsu.json](./171967-eberouge-special-koi-to-mahou-no-gakuen-seikatsu.json) |
