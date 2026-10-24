@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Axarith | 244697 | [244697-labyrinth-of-axarith.json](./244697-labyrinth-of-axarith.json) |
 | Labyrinth of death | 191177 | [191177-labyrinth-of-death.json](./191177-labyrinth-of-death.json) |
 | Labyrinth of Eclipse | 314301 | [314301-labyrinth-of-eclipse.json](./314301-labyrinth-of-eclipse.json) |
+| Labyrinth of Galleria: The Moon Society | 126008 | [126008-labyrinth-of-galleria-the-moon-society.json](./126008-labyrinth-of-galleria-the-moon-society.json) |
 | Labyrinth of Galleria: The Moon Society - Great Boots Quest | 232466 | [232466-labyrinth-of-galleria-the-moon-society-great-boots-quest.json](./232466-labyrinth-of-galleria-the-moon-society-great-boots-quest.json) |
 | Labyrinth of Galleria: The Moon Society - Great Hat Quest | 232467 | [232467-labyrinth-of-galleria-the-moon-society-great-hat-quest.json](./232467-labyrinth-of-galleria-the-moon-society-great-hat-quest.json) |
 | Labyrinth of Galleria: The Moon Society - Quest Set | 237804 | [237804-labyrinth-of-galleria-the-moon-society-quest-set.json](./237804-labyrinth-of-galleria-the-moon-society-quest-set.json) |
@@ -5038,6 +5039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Terror | 157080 | [157080-little-terror.json](./157080-little-terror.json) |
 | Little Thief | 407575 | [407575-little-thief.json](./407575-little-thief.json) |
 | Little Things | 401130 | [401130-little-things.json](./401130-little-things.json) |
+| Little Things Forever | 89132 | [89132-little-things-forever.json](./89132-little-things-forever.json) |
 | Little Things Remastered | 175935 | [175935-little-things-remastered.json](./175935-little-things-remastered.json) |
 | Little Tiger - Mini Kids Games | 104571 | [104571-little-tiger-mini-kids-games.json](./104571-little-tiger-mini-kids-games.json) |
 | Little Tournament Over Yonder | 67207 | [67207-little-tournament-over-yonder.json](./67207-little-tournament-over-yonder.json) |
@@ -6773,6 +6775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Soul: Escape the Doom Museum | 344347 | [344347-lost-soul-escape-the-doom-museum.json](./344347-lost-soul-escape-the-doom-museum.json) |
 | Lost Souls | 195594 | [195594-lost-souls.json](./195594-lost-souls.json) |
 | Lost Souls | 229110 | [229110-lost-souls.json](./229110-lost-souls.json) |
+| Lost Souls: Enchanted Paintings | 88750 | [88750-lost-souls-enchanted-paintings.json](./88750-lost-souls-enchanted-paintings.json) |
 | Lost Souls: Timeless Fables - Collector's Edition | 88500 | [88500-lost-souls-timeless-fables-collectors-edition.json](./88500-lost-souls-timeless-fables-collectors-edition.json) |
 | Lost Space: Ascend | 103100 | [103100-lost-space-ascend.json](./103100-lost-space-ascend.json) |
 | Lost Squad | 17129 | [17129-lost-squad.json](./17129-lost-squad.json) |
