@@ -4259,7 +4259,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Breaker | 7130 | [7130-phantom-breaker.json](./7130-phantom-breaker.json) |
 | Phantom breaker battle grounds over drive | 99779 | [99779-phantom-breaker-battle-grounds-over-drive.json](./99779-phantom-breaker-battle-grounds-over-drive.json) |
 | Phantom Breaker: Another Code | 144653 | [144653-phantom-breaker-another-code.json](./144653-phantom-breaker-another-code.json) |
-| Phantom Breaker: Battle Grounds | 11324 | [11324-phantom-breaker-battle-grounds.json](./11324-phantom-breaker-battle-grounds.json) |
 | Phantom Breaker: Battle Grounds Mobile | 363670 | [363670-phantom-breaker-battle-grounds-mobile.json](./363670-phantom-breaker-battle-grounds-mobile.json) |
 | Phantom Breaker: Battle Grounds Ultimate | 319268 | [319268-phantom-breaker-battle-grounds-ultimate.json](./319268-phantom-breaker-battle-grounds-ultimate.json) |
 | Phantom Breaker: Extra | 43038 | [43038-phantom-breaker-extra.json](./43038-phantom-breaker-extra.json) |
