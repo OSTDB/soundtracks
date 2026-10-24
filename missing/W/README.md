@@ -3237,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -5027,6 +5028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wire | 195755 | [195755-wire.json](./195755-wire.json) |
 | Wire | 196541 | [196541-wire.json](./196541-wire.json) |
 | Wire Flying Maid | 129236 | [129236-wire-flying-maid.json](./129236-wire-flying-maid.json) |
+| Wire Lips | 128017 | [128017-wire-lips.json](./128017-wire-lips.json) |
 | Wire Throne | 312545 | [312545-wire-throne.json](./312545-wire-throne.json) |
 | Wire up! | 132694 | [132694-wire-up.json](./132694-wire-up.json) |
 | Wire Wood Daughters | 184908 | [184908-wire-wood-daughters.json](./184908-wire-wood-daughters.json) |
@@ -6051,6 +6053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Connect | 88761 | [88761-word-connect.json](./88761-word-connect.json) |
 | Word Connect 2 | 105965 | [105965-word-connect-2.json](./105965-word-connect-2.json) |
 | Word Connect HD | 96069 | [96069-word-connect-hd.json](./96069-word-connect-hd.json) |
+| Word Cookies! | 88779 | [88779-word-cookies.json](./88779-word-cookies.json) |
 | Word Crack | 137408 | [137408-word-crack.json](./137408-word-crack.json) |
 | Word Crack | 402312 | [402312-word-crack.json](./402312-word-crack.json) |
 | Word Craft | 205889 | [205889-word-craft.json](./205889-word-craft.json) |
@@ -7182,6 +7185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms: Ultimate Mayhem - Deluxe Edition | 52112 | [52112-worms-ultimate-mayhem-deluxe-edition.json](./52112-worms-ultimate-mayhem-deluxe-edition.json) |
 | Wormskull | 143952 | [143952-wormskull.json](./143952-wormskull.json) |
 | Wormspell | 317981 | [317981-wormspell.json](./317981-wormspell.json) |
+| Wormster Dash | 89004 | [89004-wormster-dash.json](./89004-wormster-dash.json) |
 | Wormswarm | 275344 | [275344-wormswarm.json](./275344-wormswarm.json) |
 | WormsZone.io | 174615 | [174615-wormszone-io.json](./174615-wormszone-io.json) |
 | Wormventures: Barrier 51 | 196132 | [196132-wormventures-barrier-51.json](./196132-wormventures-barrier-51.json) |
