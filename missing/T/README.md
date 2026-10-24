@@ -7159,6 +7159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Epic Quest of Birdo The Pink Dinosaur | 250662 | [250662-the-epic-quest-of-birdo-the-pink-dinosaur.json](./250662-the-epic-quest-of-birdo-the-pink-dinosaur.json) |
 | The Epoch Turning | 271324 | [271324-the-epoch-turning.json](./271324-the-epoch-turning.json) |
 | The Epyx Collection: Handheld | 298580 | [298580-the-epyx-collection-handheld.json](./298580-the-epyx-collection-handheld.json) |
+| The Equalizer | 38743 | [38743-the-equalizer.json](./38743-the-equalizer.json) |
 | The Equalizer 2 | 97220 | [97220-the-equalizer-2.json](./97220-the-equalizer-2.json) |
 | The Equinox Hunt | 125368 | [125368-the-equinox-hunt.json](./125368-the-equinox-hunt.json) |
 | The ER: Patient Typhon | 146320 | [146320-the-er-patient-typhon.json](./146320-the-er-patient-typhon.json) |
@@ -9343,6 +9344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XV: Omega Edition | 185982 | [185982-the-king-of-fighters-xv-omega-edition.json](./185982-the-king-of-fighters-xv-omega-edition.json) |
 | The King of Fighters XV: Omega Rugal | 323408 | [323408-the-king-of-fighters-xv-omega-rugal.json](./323408-the-king-of-fighters-xv-omega-rugal.json) |
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
+| The King of Fighters-A 2012 | 38737 | [38737-the-king-of-fighters-a-2012.json](./38737-the-king-of-fighters-a-2012.json) |
 | The King of Fighters: AFK | 364038 | [364038-the-king-of-fighters-afk.json](./364038-the-king-of-fighters-afk.json) |
 | The King of Fighters: Dream Match 1999 | 45861 | [45861-the-king-of-fighters-dream-match-1999.json](./45861-the-king-of-fighters-dream-match-1999.json) |
 | The King of Fighters: Heat of Battle | 191476 | [191476-the-king-of-fighters-heat-of-battle.json](./191476-the-king-of-fighters-heat-of-battle.json) |
@@ -9370,6 +9372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King's Dungeon | 230723 | [230723-the-kings-dungeon.json](./230723-the-kings-dungeon.json) |
 | The King's Feast | 232930 | [232930-the-kings-feast.json](./232930-the-kings-feast.json) |
 | The king's Guard | 165933 | [165933-the-kings-guard.json](./165933-the-kings-guard.json) |
+| The King's Keep | 38746 | [38746-the-kings-keep.json](./38746-the-kings-keep.json) |
 | The King's League | 294419 | [294419-the-kings-league.json](./294419-the-kings-league.json) |
 | The King's League: Emblems | 294421 | [294421-the-kings-league-emblems.json](./294421-the-kings-league-emblems.json) |
 | The King's New Castle | 116078 | [116078-the-kings-new-castle.json](./116078-the-kings-new-castle.json) |
@@ -11349,7 +11352,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -15994,6 +15996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirayan | 201551 | [201551-thirayan.json](./201551-thirayan.json) |
 | Third | 233784 | [233784-third.json](./233784-third.json) |
 | Third Age: Total War | 356233 | [356233-third-age-total-war.json](./356233-third-age-total-war.json) |
+| Third Blade | 38728 | [38728-third-blade.json](./38728-third-blade.json) |
 | Third Bridge | 141552 | [141552-third-bridge.json](./141552-third-bridge.json) |
 | Third Crisis | 187542 | [187542-third-crisis.json](./187542-third-crisis.json) |
 | Third Crisis: Neon Nights | 397168 | [397168-third-crisis-neon-nights.json](./397168-third-crisis-neon-nights.json) |
@@ -26108,6 +26111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo: Super Stunt Squad | 11053 | [11053-turbo-super-stunt-squad.json](./11053-turbo-super-stunt-squad.json) |
 | Turboat | 94942 | [94942-turboat.json](./94942-turboat.json) |
 | Turboflex | 315720 | [315720-turboflex.json](./315720-turboflex.json) |
+| TurboFly 3D | 38698 | [38698-turbofly-3d.json](./38698-turbofly-3d.json) |
 | TurboJoy | 409828 | [409828-turbojoy.json](./409828-turbojoy.json) |
 | TurboMania Fog Racers | 370265 | [370265-turbomania-fog-racers.json](./370265-turbomania-fog-racers.json) |
 | TurboRaketti II | 94239 | [94239-turboraketti-ii.json](./94239-turboraketti-ii.json) |
