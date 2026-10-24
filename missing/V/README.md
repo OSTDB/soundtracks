@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Profile | 3998 | [3998-valkyrie-profile.json](./3998-valkyrie-profile.json) |
 | Valkyrie Profile 2: Silmeria | 11793 | [11793-valkyrie-profile-2-silmeria.json](./11793-valkyrie-profile-2-silmeria.json) |
 | Valkyrie Profile Niffynee | 189996 | [189996-valkyrie-profile-niffynee.json](./189996-valkyrie-profile-niffynee.json) |
+| Valkyrie Profile: Lenneth | 22756 | [22756-valkyrie-profile-lenneth.json](./22756-valkyrie-profile-lenneth.json) |
 | Valkyrie Rising: Hordes of Ragnarök | 361860 | [361860-valkyrie-rising-hordes-of-ragnarok.json](./361860-valkyrie-rising-hordes-of-ragnarok.json) |
 | Valkyrie Saga | 280437 | [280437-valkyrie-saga.json](./280437-valkyrie-saga.json) |
 | Valkyrie Spirits | 189991 | [189991-valkyrie-spirits.json](./189991-valkyrie-spirits.json) |
@@ -2901,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voodoo Nights | 77329 | [77329-voodoo-nights.json](./77329-voodoo-nights.json) |
 | Voodoo Strikers | 320439 | [320439-voodoo-strikers.json](./320439-voodoo-strikers.json) |
 | Voodoo Vince | 5466 | [5466-voodoo-vince.json](./5466-voodoo-vince.json) |
+| Voodoo Vince: Remastered | 25649 | [25649-voodoo-vince-remastered.json](./25649-voodoo-vince-remastered.json) |
 | Voodoo Whisperer Curse of a Legend | 17202 | [17202-voodoo-whisperer-curse-of-a-legend.json](./17202-voodoo-whisperer-curse-of-a-legend.json) |
 | Voodoom | 312561 | [312561-voodoom.json](./312561-voodoom.json) |
 | Voody Hex | 391326 | [391326-voody-hex.json](./391326-voody-hex.json) |
