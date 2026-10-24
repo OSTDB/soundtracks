@@ -1670,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors: Abyss - Samurai Warriors Classic Costume Set | 379111 | [379111-warriors-abyss-samurai-warriors-classic-costume-set.json](./379111-warriors-abyss-samurai-warriors-classic-costume-set.json) |
 | Warriors: Abyss - Samurai Warriors Western Japan Classic Costume Set | 379110 | [379110-warriors-abyss-samurai-warriors-western-japan-classic-costume-set.json](./379110-warriors-abyss-samurai-warriors-western-japan-classic-costume-set.json) |
 | Warriors: Legends of Troy | 7244 | [7244-warriors-legends-of-troy.json](./7244-warriors-legends-of-troy.json) |
+| Warriors: Rise to Glory! | 82148 | [82148-warriors-rise-to-glory.json](./82148-warriors-rise-to-glory.json) |
 | Warroid | 41784 | [41784-warroid.json](./41784-warroid.json) |
 | Wars Across the World | 35987 | [35987-wars-across-the-world.json](./35987-wars-across-the-world.json) |
 | Wars Across the World: Agathocles 312 | 193190 | [193190-wars-across-the-world-agathocles-312.json](./193190-wars-across-the-world-agathocles-312.json) |
@@ -4842,6 +4843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 9: 2022 | 201030 | [201030-winning-post-9-2022.json](./201030-winning-post-9-2022.json) |
 | Winning Post World | 59214 | [59214-winning-post-world.json](./59214-winning-post-world.json) |
 | Winning Putt | 21652 | [21652-winning-putt.json](./21652-winning-putt.json) |
+| Winning Putt: Golf Online | 33125 | [33125-winning-putt-golf-online.json](./33125-winning-putt-golf-online.json) |
 | Winning Run | 64491 | [64491-winning-run.json](./64491-winning-run.json) |
 | Winning Shot | 43190 | [43190-winning-shot.json](./43190-winning-shot.json) |
 | Winning Solution | 47545 | [47545-winning-solution.json](./47545-winning-solution.json) |
@@ -5198,6 +5200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's Heart: Utsukushiki Hana to Akuma no Noroi - Kanketsu-hen | 323601 | [323601-witchs-heart-utsukushiki-hana-to-akuma-no-noroi-kanketsu-hen.json](./323601-witchs-heart-utsukushiki-hana-to-akuma-no-noroi-kanketsu-hen.json) |
 | Witch’s Lewd Curse | 367053 | [367053-witch-s-lewd-curse.json](./367053-witch-s-lewd-curse.json) |
 | Witch's Mystery | 215654 | [215654-witchs-mystery.json](./215654-witchs-mystery.json) |
+| Witch's Pranks: Frog's Fortune - Collector's Edition | 35929 | [35929-witchs-pranks-frogs-fortune-collectors-edition.json](./35929-witchs-pranks-frogs-fortune-collectors-edition.json) |
 | Witch's Reign | 153858 | [153858-witchs-reign.json](./153858-witchs-reign.json) |
 | Witch's Tower | 355199 | [355199-witchs-tower.json](./355199-witchs-tower.json) |
 | Witch's Weapon | 196331 | [196331-witchs-weapon.json](./196331-witchs-weapon.json) |
@@ -6635,6 +6638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Mines: Creators Edition | 235206 | [235206-world-of-mines-creators-edition.json](./235206-world-of-mines-creators-edition.json) |
 | World of Mines! | 175146 | [175146-world-of-mines.json](./175146-world-of-mines.json) |
 | World of MiniMonsters | 167190 | [167190-world-of-minimonsters.json](./167190-world-of-minimonsters.json) |
+| World of Mixed Martial Arts 3 | 35885 | [35885-world-of-mixed-martial-arts-3.json](./35885-world-of-mixed-martial-arts-3.json) |
 | World of Mixed Martial Arts 4 | 58187 | [58187-world-of-mixed-martial-arts-4.json](./58187-world-of-mixed-martial-arts-4.json) |
 | World of Mixed Martial Arts 5 | 125436 | [125436-world-of-mixed-martial-arts-5.json](./125436-world-of-mixed-martial-arts-5.json) |
 | World Of Modern Warfare | 89190 | [89190-world-of-modern-warfare.json](./89190-world-of-modern-warfare.json) |
@@ -7127,6 +7131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms | 9332 | [9332-worms.json](./9332-worms.json) |
 | Worms 2: Armageddon | 20480 | [20480-worms-2-armageddon.json](./20480-worms-2-armageddon.json) |
 | Worms 2011: Armageddon | 154862 | [154862-worms-2011-armageddon.json](./154862-worms-2011-armageddon.json) |
+| Worms 3 | 23410 | [23410-worms-3.json](./23410-worms-3.json) |
 | Worms 3D | 1047 | [1047-worms-3d.json](./1047-worms-3d.json) |
 | Worms 4 | 59763 | [59763-worms-4.json](./59763-worms-4.json) |
 | Worms Anniversary Edition | 82389 | [82389-worms-anniversary-edition.json](./82389-worms-anniversary-edition.json) |
@@ -7276,6 +7281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath and Retribution | 374838 | [374838-wrath-and-retribution.json](./374838-wrath-and-retribution.json) |
 | Wrath of Ahnkii | 271794 | [271794-wrath-of-ahnkii.json](./271794-wrath-of-ahnkii.json) |
 | Wrath of Anias | 191826 | [191826-wrath-of-anias.json](./191826-wrath-of-anias.json) |
+| Wrath of Anna | 33115 | [33115-wrath-of-anna.json](./33115-wrath-of-anna.json) |
 | Wrath of Darkness | 146635 | [146635-wrath-of-darkness.json](./146635-wrath-of-darkness.json) |
 | Wrath of Denethenor | 37155 | [37155-wrath-of-denethenor.json](./37155-wrath-of-denethenor.json) |
 | Wrath of Earth | 72289 | [72289-wrath-of-earth.json](./72289-wrath-of-earth.json) |
