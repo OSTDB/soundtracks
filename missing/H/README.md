@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HackBot Hacking Game | 398259 | [398259-hackbot-hacking-game.json](./398259-hackbot-hacking-game.json) |
 | Hacker | 12131 | [12131-hacker.json](./12131-hacker.json) |
 | Hacker | 292252 | [292252-hacker.json](./292252-hacker.json) |
+| Hacker 2089 | 36763 | [36763-hacker-2089.json](./36763-hacker-2089.json) |
 | Hacker Ball | 185128 | [185128-hacker-ball.json](./185128-hacker-ball.json) |
 | Hacker Clicker | 183903 | [183903-hacker-clicker.json](./183903-hacker-clicker.json) |
 | Hacker Evolution Duality | 10393 | [10393-hacker-evolution-duality.json](./10393-hacker-evolution-duality.json) |
@@ -3446,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellgate | 291043 | [291043-hellgate.json](./291043-hellgate.json) |
 | Hellgate VR | 158718 | [158718-hellgate-vr.json](./158718-hellgate-vr.json) |
 | Hellgate: London FPS | 191504 | [191504-hellgate-london-fps.json](./191504-hellgate-london-fps.json) |
+| Hellgate: London VR | 36778 | [36778-hellgate-london-vr.json](./36778-hellgate-london-vr.json) |
 | Hellgate: Redemption | 294051 | [294051-hellgate-redemption.json](./294051-hellgate-redemption.json) |
 | Hellgate: Tokyo | 67279 | [67279-hellgate-tokyo.json](./67279-hellgate-tokyo.json) |
 | Hellgrinder | 236110 | [236110-hellgrinder.json](./236110-hellgrinder.json) |
@@ -3529,6 +3531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Island Adventure: Deluxe Edition | 330200 | [330200-hello-kitty-island-adventure-deluxe-edition.json](./330200-hello-kitty-island-adventure-deluxe-edition.json) |
 | Hello Kitty Jewel Town | 279607 | [279607-hello-kitty-jewel-town.json](./279607-hello-kitty-jewel-town.json) |
 | Hello Kitty Kruisers with Sanrio Friends | 62781 | [62781-hello-kitty-kruisers-with-sanrio-friends.json](./62781-hello-kitty-kruisers-with-sanrio-friends.json) |
+| Hello Kitty Lovely Fruit Park | 36741 | [36741-hello-kitty-lovely-fruit-park.json](./36741-hello-kitty-lovely-fruit-park.json) |
 | Hello Kitty Lunchbox | 225660 | [225660-hello-kitty-lunchbox.json](./225660-hello-kitty-lunchbox.json) |
 | Hello Kitty Mahjong | 292106 | [292106-hello-kitty-mahjong.json](./292106-hello-kitty-mahjong.json) |
 | Hello Kitty Music Party | 288137 | [288137-hello-kitty-music-party.json](./288137-hello-kitty-music-party.json) |
@@ -6068,6 +6071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Stakes: Texas Hold'Em | 67219 | [67219-high-stakes-texas-holdem.json](./67219-high-stakes-texas-holdem.json) |
 | High Strategy: Urukon | 132585 | [132585-high-strategy-urukon.json](./132585-high-strategy-urukon.json) |
 | High Tail Hall | 130045 | [130045-high-tail-hall.json](./130045-high-tail-hall.json) |
+| High Templar VR | 36713 | [36713-high-templar-vr.json](./36713-high-templar-vr.json) |
 | High Up | 309440 | [309440-high-up.json](./309440-high-up.json) |
 | High Velocity Arena | 251988 | [251988-high-velocity-arena.json](./251988-high-velocity-arena.json) |
 | High Velocity: Mountain Racing Challenge | 45519 | [45519-high-velocity-mountain-racing-challenge.json](./45519-high-velocity-mountain-racing-challenge.json) |
