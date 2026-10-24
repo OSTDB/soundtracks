@@ -1927,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Blade II | 45243 | [45243-joe-blade-ii.json](./45243-joe-blade-ii.json) |
 | Joe Blade III | 45242 | [45242-joe-blade-iii.json](./45242-joe-blade-iii.json) |
 | Joe Blunt Up In Smoke | 123507 | [123507-joe-blunt-up-in-smoke.json](./123507-joe-blunt-up-in-smoke.json) |
+| Joe Danger 2: The Movie | 11241 | [11241-joe-danger-2-the-movie.json](./11241-joe-danger-2-the-movie.json) |
 | Joe Danger 2: The Movie - Undead Movie Pack | 226866 | [226866-joe-danger-2-the-movie-undead-movie-pack.json](./226866-joe-danger-2-the-movie-undead-movie-pack.json) |
 | Joe Danger Infinity | 11243 | [11243-joe-danger-infinity.json](./11243-joe-danger-infinity.json) |
 | Joe Danger Touch | 11242 | [11242-joe-danger-touch.json](./11242-joe-danger-touch.json) |
