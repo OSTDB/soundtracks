@@ -399,7 +399,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SaGa 2: A Haniwa's Contingency | 360104 | [360104-saga-2-a-haniwas-contingency.json](./360104-saga-2-a-haniwas-contingency.json) |
 | SaGa 3: Jikuu no Hasha - Shadow or Light | 66404 | [66404-saga-3-jikuu-no-hasha-shadow-or-light.json](./66404-saga-3-jikuu-no-hasha-shadow-or-light.json) |
 | Saga Cube | 220493 | [220493-saga-cube.json](./220493-saga-cube.json) |
-| SaGa Frontier | 11310 | [11310-saga-frontier.json](./11310-saga-frontier.json) |
 | SaGa Frontier 2 | 2353 | [2353-saga-frontier-2.json](./2353-saga-frontier-2.json) |
 | SaGa Frontier 2 Remastered | 294870 | [294870-saga-frontier-2-remastered.json](./294870-saga-frontier-2-remastered.json) |
 | SaGa Frontier Remastered | 141281 | [141281-saga-frontier-remastered.json](./141281-saga-frontier-remastered.json) |
@@ -11351,7 +11350,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small World | 272927 | [272927-small-world.json](./272927-small-world.json) |
 | Small World Z | 129513 | [129513-small-world-z.json](./129513-small-world-z.json) |
 | Small Worlds | 201612 | [201612-small-worlds.json](./201612-small-worlds.json) |
-| Smalland: Survive the Wilds | 77730 | [77730-smalland-survive-the-wilds.json](./77730-smalland-survive-the-wilds.json) |
 | Smalland: Survive the Wilds VR | 299752 | [299752-smalland-survive-the-wilds-vr.json](./299752-smalland-survive-the-wilds-vr.json) |
 | SmallBall Baseball | 56403 | [56403-smallball-baseball.json](./56403-smallball-baseball.json) |
 | SmallBall Football | 56406 | [56406-smallball-football.json](./56406-smallball-football.json) |
@@ -21554,7 +21552,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StickWars | 90800 | [90800-stickwars.json](./90800-stickwars.json) |
 | Sticky Arrow | 295165 | [295165-sticky-arrow.json](./295165-sticky-arrow.json) |
 | Sticky Balls | 94905 | [94905-sticky-balls.json](./94905-sticky-balls.json) |
-| Sticky Business | 240514 | [240514-sticky-business.json](./240514-sticky-business.json) |
 | Sticky Business: Book of Shadows | 344159 | [344159-sticky-business-book-of-shadows.json](./344159-sticky-business-book-of-shadows.json) |
 | Sticky Business: Seaside Tales | 411002 | [411002-sticky-business-seaside-tales.json](./411002-sticky-business-seaside-tales.json) |
 | Sticky Castle | 232031 | [232031-sticky-castle.json](./232031-sticky-castle.json) |
