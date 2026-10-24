@@ -7332,6 +7332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot terminator | 120704 | [120704-robot-terminator.json](./120704-robot-terminator.json) |
 | Robot Transforming Gorilla Attack: Gorilla Games | 95797 | [95797-robot-transforming-gorilla-attack-gorilla-games.json](./95797-robot-transforming-gorilla-attack-gorilla-games.json) |
 | Robot Trivia Funtime | 301588 | [301588-robot-trivia-funtime.json](./301588-robot-trivia-funtime.json) |
+| Robot Unicorn Attack | 39214 | [39214-robot-unicorn-attack.json](./39214-robot-unicorn-attack.json) |
 | Robot Unicorn Attack 2 | 76895 | [76895-robot-unicorn-attack-2.json](./76895-robot-unicorn-attack-2.json) |
 | Robot Unicorn Attack Evolution | 230136 | [230136-robot-unicorn-attack-evolution.json](./230136-robot-unicorn-attack-evolution.json) |
 | Robot Unicorn Attack Forever | 56161 | [56161-robot-unicorn-attack-forever.json](./56161-robot-unicorn-attack-forever.json) |
@@ -10109,6 +10110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeshard | 56272 | [56272-runeshard.json](./56272-runeshard.json) |
 | Runestone | 92894 | [92894-runestone.json](./92894-runestone.json) |
 | Runestone Heroes | 56879 | [56879-runestone-heroes.json](./56879-runestone-heroes.json) |
+| Runestone Keeper | 36026 | [36026-runestone-keeper.json](./36026-runestone-keeper.json) |
 | RuneStone Keeper & YourToy & Distrust Bundle | 301565 | [301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json](./301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json) |
 | Runet Legend | 310799 | [310799-runet-legend.json](./310799-runet-legend.json) |
 | RuneTech | 101341 | [101341-runetech.json](./101341-runetech.json) |
