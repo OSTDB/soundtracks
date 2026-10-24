@@ -1311,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Pennant Race! | 48529 | [48529-ganbare-pennant-race.json](./48529-ganbare-pennant-race.json) |
 | Ganbare Untenshi!! | 380675 | [380675-ganbare-untenshi.json](./380675-ganbare-untenshi.json) |
 | Ganbare! Bokura no Compati Heroes | 63047 | [63047-ganbare-bokura-no-compati-heroes.json](./63047-ganbare-bokura-no-compati-heroes.json) |
+| Ganbare! Daiku no Gensan | 42388 | [42388-ganbare-daiku-no-gensan.json](./42388-ganbare-daiku-no-gensan.json) |
 | Ganbare! Dodge Fighters | 49610 | [49610-ganbare-dodge-fighters.json](./49610-ganbare-dodge-fighters.json) |
 | Ganbare! Gonta!! 2 | 40142 | [40142-ganbare-gonta-2.json](./40142-ganbare-gonta-2.json) |
 | Ganbare! Inu-chan: Rock'n Roll-hen | 280460 | [280460-ganbare-inu-chan-rockn-roll-hen.json](./280460-ganbare-inu-chan-rockn-roll-hen.json) |
@@ -4986,6 +4987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoKart: New Mexico | 193449 | [193449-gokart-new-mexico.json](./193449-gokart-new-mexico.json) |
 | Goken | 36608 | [36608-goken.json](./36608-goken.json) |
 | Gokichi-kun Series: Igo Nyuumon Doujou | 239566 | [239566-gokichi-kun-series-igo-nyuumon-doujou.json](./239566-gokichi-kun-series-igo-nyuumon-doujou.json) |
+| Gokinjo Boukentai | 42398 | [42398-gokinjo-boukentai.json](./42398-gokinjo-boukentai.json) |
 | Goku Makaimura Kai | 63644 | [63644-goku-makaimura-kai.json](./63644-goku-makaimura-kai.json) |
 | Gokudou Simulation Teppoudama Jingi | 376131 | [376131-gokudou-simulation-teppoudama-jingi.json](./376131-gokudou-simulation-teppoudama-jingi.json) |
 | Gokujou Parodius: Kako no Eikou wo Motomete | 186142 | [186142-gokujou-parodius-kako-no-eikou-wo-motomete.json](./186142-gokujou-parodius-kako-no-eikou-wo-motomete.json) |
