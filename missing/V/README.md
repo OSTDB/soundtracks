@@ -2290,6 +2290,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Villagers 2: The Lost Children for iPad | 108474 | [108474-virtual-villagers-2-the-lost-children-for-ipad.json](./108474-virtual-villagers-2-the-lost-children-for-ipad.json) |
 | Virtual Villagers 3 | 200316 | [200316-virtual-villagers-3.json](./200316-virtual-villagers-3.json) |
 | Virtual Villagers 3 for iPad | 90870 | [90870-virtual-villagers-3-for-ipad.json](./90870-virtual-villagers-3-for-ipad.json) |
+| Virtual Villagers 4: The Tree of Life | 14976 | [14976-virtual-villagers-4-the-tree-of-life.json](./14976-virtual-villagers-4-the-tree-of-life.json) |
+| Virtual Villagers 5: New Believers | 14977 | [14977-virtual-villagers-5-new-believers.json](./14977-virtual-villagers-5-new-believers.json) |
 | Virtual Villagers Origins 2 | 110988 | [110988-virtual-villagers-origins-2.json](./110988-virtual-villagers-origins-2.json) |
 | Virtual Virtual Reality | 96698 | [96698-virtual-virtual-reality.json](./96698-virtual-virtual-reality.json) |
 | Virtual Virtual Reality 2 | 191461 | [191461-virtual-virtual-reality-2.json](./191461-virtual-virtual-reality-2.json) |
