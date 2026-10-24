@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Rumble | 44879 | [44879-nascar-rumble.json](./44879-nascar-rumble.json) |
 | NASCAR Thunder 2002 | 5946 | [5946-nascar-thunder-2002.json](./5946-nascar-thunder-2002.json) |
 | NASCAR Thunder 2003 | 242427 | [242427-nascar-thunder-2003.json](./242427-nascar-thunder-2003.json) |
+| NASCAR Thunder 2003 | 4028 | [4028-nascar-thunder-2003.json](./4028-nascar-thunder-2003.json) |
 | NASCAR Thunder 2004 | 5947 | [5947-nascar-thunder-2004.json](./5947-nascar-thunder-2004.json) |
 | NASCAR Track Pack | 100098 | [100098-nascar-track-pack.json](./100098-nascar-track-pack.json) |
 | NASCAR Unleashed | 334075 | [334075-nascar-unleashed.json](./334075-nascar-unleashed.json) |
@@ -1119,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Jam | 8995 | [8995-nba-jam.json](./8995-nba-jam.json) |
 | NBA Jam 2001 | 49903 | [49903-nba-jam-2001.json](./49903-nba-jam-2001.json) |
 | NBA Jam 99 | 249121 | [249121-nba-jam-99.json](./249121-nba-jam-99.json) |
+| NBA Jam 99 | 3551 | [3551-nba-jam-99.json](./3551-nba-jam-99.json) |
 | NBA Jam Extreme | 40205 | [40205-nba-jam-extreme.json](./40205-nba-jam-extreme.json) |
 | NBA Jam Tournament Edition | 19712 | [19712-nba-jam-tournament-edition.json](./19712-nba-jam-tournament-edition.json) |
 | NBA Jam: 1990's On Fire Edition | 318696 | [318696-nba-jam-1990s-on-fire-edition.json](./318696-nba-jam-1990s-on-fire-edition.json) |
@@ -1518,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Shift | 328287 | [328287-need-for-speed-shift.json](./328287-need-for-speed-shift.json) |
 | Need for Speed: Shift 2 Unleashed | 248135 | [248135-need-for-speed-shift-2-unleashed.json](./248135-need-for-speed-shift-2-unleashed.json) |
 | Need for Speed: Shift 2 Unleashed | 7115 | [7115-need-for-speed-shift-2-unleashed.json](./7115-need-for-speed-shift-2-unleashed.json) |
+| Need for Speed: The Run | 193780 | [193780-need-for-speed-the-run.json](./193780-need-for-speed-the-run.json) |
 | Need for Speed: The Run | 248134 | [248134-need-for-speed-the-run.json](./248134-need-for-speed-the-run.json) |
 | Need for Speed: Top Speed | 210103 | [210103-need-for-speed-top-speed.json](./210103-need-for-speed-top-speed.json) |
 | Need for Speed: Unbound - Vol. 7 Premium Speed Pass | 301851 | [301851-need-for-speed-unbound-vol-7-premium-speed-pass.json](./301851-need-for-speed-unbound-vol-7-premium-speed-pass.json) |
@@ -3177,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL All-Star Hockey '98 | 45121 | [45121-nhl-all-star-hockey-98.json](./45121-nhl-all-star-hockey-98.json) |
 | NHL Blades of Steel | 45125 | [45125-nhl-blades-of-steel.json](./45125-nhl-blades-of-steel.json) |
 | NHL Blades of Steel 2000 | 45124 | [45124-nhl-blades-of-steel-2000.json](./45124-nhl-blades-of-steel-2000.json) |
+| NHL Breakaway 98 | 3563 | [3563-nhl-breakaway-98.json](./3563-nhl-breakaway-98.json) |
 | NHL Championship 2000 | 24116 | [24116-nhl-championship-2000.json](./24116-nhl-championship-2000.json) |
 | NHL Eastside Hockey Manager | 74037 | [74037-nhl-eastside-hockey-manager.json](./74037-nhl-eastside-hockey-manager.json) |
 | NHL Eastside Hockey Manager 2005 | 80334 | [80334-nhl-eastside-hockey-manager-2005.json](./80334-nhl-eastside-hockey-manager-2005.json) |
