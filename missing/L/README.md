@@ -4732,6 +4732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Groves | 422494 | [422494-little-groves.json](./422494-little-groves.json) |
 | Little Harvest | 254783 | [254783-little-harvest.json](./254783-little-harvest.json) |
 | Little Hats | 155880 | [155880-little-hats.json](./155880-little-hats.json) |
+| Little Hawk | 36772 | [36772-little-hawk.json](./36772-little-hawk.json) |
 | Little Hearts | 166833 | [166833-little-hearts.json](./166833-little-hearts.json) |
 | Little Helper Cafe | 358353 | [358353-little-helper-cafe.json](./358353-little-helper-cafe.json) |
 | Little Helper of the House Kitchen | 255050 | [255050-little-helper-of-the-house-kitchen.json](./255050-little-helper-of-the-house-kitchen.json) |
@@ -7948,6 +7949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lupin III Sansei: Cagliostro no Shiro Saikai | 302706 | [302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json](./302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json) |
 | Lupin III: Pandora no Isan | 76995 | [76995-lupin-iii-pandora-no-isan.json](./76995-lupin-iii-pandora-no-isan.json) |
 | Lupin III: The Master File | 66213 | [66213-lupin-iii-the-master-file.json](./66213-lupin-iii-the-master-file.json) |
+| Lupin III: Umi ni Kieta Hihou | 36790 | [36790-lupin-iii-umi-ni-kieta-hihou.json](./36790-lupin-iii-umi-ni-kieta-hihou.json) |
 | Lupin Sansei: Columbus no Isan | 66202 | [66202-lupin-sansei-columbus-no-isan.json](./66202-lupin-sansei-columbus-no-isan.json) |
 | Lupin Sansei: Pyramid no Kenja | 66214 | [66214-lupin-sansei-pyramid-no-kenja.json](./66214-lupin-sansei-pyramid-no-kenja.json) |
 | Lupin Sansei: Shijou Saidai no Zunousen | 66212 | [66212-lupin-sansei-shijou-saidai-no-zunousen.json](./66212-lupin-sansei-shijou-saidai-no-zunousen.json) |
