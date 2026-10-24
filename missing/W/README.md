@@ -3213,7 +3213,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -6783,6 +6782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series of Poker: Full House Pro | 19970 | [19970-world-series-of-poker-full-house-pro.json](./19970-world-series-of-poker-full-house-pro.json) |
 | World Series: The Season | 40570 | [40570-world-series-the-season.json](./40570-world-series-the-season.json) |
 | World Serpent | 211064 | [211064-world-serpent.json](./211064-world-serpent.json) |
+| World Slayer | 28490 | [28490-world-slayer.json](./28490-world-slayer.json) |
 | World Snooker Challenge 2007 | 42848 | [42848-world-snooker-challenge-2007.json](./42848-world-snooker-challenge-2007.json) |
 | World Snooker Championship 2007 | 7248 | [7248-world-snooker-championship-2007.json](./7248-world-snooker-championship-2007.json) |
 | World Snooker Championship: Season 2007-08 | 64994 | [64994-world-snooker-championship-season-2007-08.json](./64994-world-snooker-championship-season-2007-08.json) |
