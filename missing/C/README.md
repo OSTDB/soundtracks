@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Morgane and the Golden Turtle | 6654 | [6654-captain-morgane-and-the-golden-turtle.json](./6654-captain-morgane-and-the-golden-turtle.json) |
 | Captain Moviestar 3D | 245832 | [245832-captain-moviestar-3d.json](./245832-captain-moviestar-3d.json) |
 | Captain Nemo | 83520 | [83520-captain-nemo.json](./83520-captain-nemo.json) |
+| Captain Novolin | 18986 | [18986-captain-novolin.json](./18986-captain-novolin.json) |
 | Captain of Industry: Trains Expansion | 388973 | [388973-captain-of-industry-trains-expansion.json](./388973-captain-of-industry-trains-expansion.json) |
 | Captain of Space | 320558 | [320558-captain-of-space.json](./320558-captain-of-space.json) |
 | Captain of the Guard | 320016 | [320016-captain-of-the-guard.json](./320016-captain-of-the-guard.json) |
@@ -10288,6 +10289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commissar's Contrapasso | 126018 | [126018-commissars-contrapasso.json](./126018-commissars-contrapasso.json) |
 | Commissions Open | 413497 | [413497-commissions-open.json](./413497-commissions-open.json) |
 | Commit Arson Now | 191506 | [191506-commit-arson-now.json](./191506-commit-arson-now.json) |
+| Committed: Mystery at Shady Pines | 18890 | [18890-committed-mystery-at-shady-pines.json](./18890-committed-mystery-at-shady-pines.json) |
 | Committed: Mystery at Shady Pines - Premium Edition | 417687 | [417687-committed-mystery-at-shady-pines-premium-edition.json](./417687-committed-mystery-at-shady-pines-premium-edition.json) |
 | Commodoor | 214365 | [214365-commodoor.json](./214365-commodoor.json) |
 | Common Ground | 60070 | [60070-common-ground.json](./60070-common-ground.json) |
@@ -11120,6 +11122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract Killer Simulator: Mafia Edition | 217196 | [217196-contract-killer-simulator-mafia-edition.json](./217196-contract-killer-simulator-mafia-edition.json) |
 | Contract Killer: Sniper | 127049 | [127049-contract-killer-sniper.json](./127049-contract-killer-sniper.json) |
 | Contract Killer: Zombies | 127050 | [127050-contract-killer-zombies.json](./127050-contract-killer-zombies.json) |
+| Contract Killer: Zombies 2 - Origins | 18877 | [18877-contract-killer-zombies-2-origins.json](./18877-contract-killer-zombies-2-origins.json) |
 | Contract Killers | 132218 | [132218-contract-killers.json](./132218-contract-killers.json) |
 | Contract Marriage | 303264 | [303264-contract-marriage.json](./303264-contract-marriage.json) |
 | Contract Revoked | 196502 | [196502-contract-revoked.json](./196502-contract-revoked.json) |
@@ -14043,6 +14046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crongdor the Barbarian | 32703 | [32703-crongdor-the-barbarian.json](./32703-crongdor-the-barbarian.json) |
 | Cronicas de Landulph | 170432 | [170432-cronicas-de-landulph.json](./170432-cronicas-de-landulph.json) |
 | Crónicas de Nueva Estrella Uno | 339340 | [339340-cronicas-de-nueva-estrella-uno.json](./339340-cronicas-de-nueva-estrella-uno.json) |
+| CroNix | 18911 | [18911-cronix.json](./18911-cronix.json) |
 | Cronos: Lazarus | 404917 | [404917-cronos-lazarus.json](./404917-cronos-lazarus.json) |
 | Cronos: The New Dawn - Deluxe Edition | 365002 | [365002-cronos-the-new-dawn-deluxe-edition.json](./365002-cronos-the-new-dawn-deluxe-edition.json) |
 | Cronostase Electric Collection | 225899 | [225899-cronostase-electric-collection.json](./225899-cronostase-electric-collection.json) |
@@ -15773,6 +15777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Mansion | 111368 | [111368-cursed-mansion.json](./111368-cursed-mansion.json) |
 | Cursed Mansion: Rose Christmas Costume | 285122 | [285122-cursed-mansion-rose-christmas-costume.json](./285122-cursed-mansion-rose-christmas-costume.json) |
 | Cursed Meal | 388808 | [388808-cursed-meal.json](./388808-cursed-meal.json) |
+| Cursed Memories: The Secret of Agony Creek | 18893 | [18893-cursed-memories-the-secret-of-agony-creek.json](./18893-cursed-memories-the-secret-of-agony-creek.json) |
 | Cursed Memory | 370549 | [370549-cursed-memory.json](./370549-cursed-memory.json) |
 | Cursed Mummies | 169470 | [169470-cursed-mummies.json](./169470-cursed-mummies.json) |
 | Cursed New Year | 323512 | [323512-cursed-new-year.json](./323512-cursed-new-year.json) |
