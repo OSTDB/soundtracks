@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Factory | 194315 | [194315-panic-factory.json](./194315-panic-factory.json) |
 | Panic Files: Buried Sanity | 391090 | [391090-panic-files-buried-sanity.json](./391090-panic-files-buried-sanity.json) |
 | Panic Floor!! | 202658 | [202658-panic-floor.json](./202658-panic-floor.json) |
+| Panic in Nakayoshi World | 42374 | [42374-panic-in-nakayoshi-world.json](./42374-panic-in-nakayoshi-world.json) |
 | Panic in the Mushroom Kingdom | 268108 | [268108-panic-in-the-mushroom-kingdom.json](./268108-panic-in-the-mushroom-kingdom.json) |
 | Panic in the Park | 69251 | [69251-panic-in-the-park.json](./69251-panic-in-the-park.json) |
 | Panic in the Woods | 315508 | [315508-panic-in-the-woods.json](./315508-panic-in-the-woods.json) |
