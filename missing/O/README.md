@@ -3191,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcs Must Die! 2: Are We There Yeti? | 14537 | [14537-orcs-must-die-2-are-we-there-yeti.json](./14537-orcs-must-die-2-are-we-there-yeti.json) |
 | Orcs Must Die! 2: Family Ties Booster Pack | 14538 | [14538-orcs-must-die-2-family-ties-booster-pack.json](./14538-orcs-must-die-2-family-ties-booster-pack.json) |
 | Orcs Must Die! 2: Fire and Water Booster Pack | 14539 | [14539-orcs-must-die-2-fire-and-water-booster-pack.json](./14539-orcs-must-die-2-fire-and-water-booster-pack.json) |
+| Orcs Must Die! 3 | 121754 | [121754-orcs-must-die-3.json](./121754-orcs-must-die-3.json) |
 | Orcs Must Die! 3 Bundle | 196681 | [196681-orcs-must-die-3-bundle.json](./196681-orcs-must-die-3-bundle.json) |
 | Orcs Must Die! 3: Cold as Eyes | 193225 | [193225-orcs-must-die-3-cold-as-eyes.json](./193225-orcs-must-die-3-cold-as-eyes.json) |
 | Orcs Must Die! 3: Tipping the Scales | 196475 | [196475-orcs-must-die-3-tipping-the-scales.json](./196475-orcs-must-die-3-tipping-the-scales.json) |
@@ -4377,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outter Carrier | 327382 | [327382-outter-carrier.json](./327382-outter-carrier.json) |
 | Outtrigger | 39605 | [39605-outtrigger.json](./39605-outtrigger.json) |
 | Outwall | 364965 | [364965-outwall.json](./364965-outwall.json) |
+| Outward | 22778 | [22778-outward.json](./22778-outward.json) |
 | Outward 2 | 291446 | [291446-outward-2.json](./291446-outward-2.json) |
 | Outward Adventurer Bundle | 169212 | [169212-outward-adventurer-bundle.json](./169212-outward-adventurer-bundle.json) |
 | Outward: The Soroboreans | 134336 | [134336-outward-the-soroboreans.json](./134336-outward-the-soroboreans.json) |
