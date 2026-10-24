@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Lines 2 Community Project | 259390 | [259390-1000-lines-2-community-project.json](./259390-1000-lines-2-community-project.json) |
 | 1000 Lines 3 Community Project | 259391 | [259391-1000-lines-3-community-project.json](./259391-1000-lines-3-community-project.json) |
 | 1000 Man General | 240647 | [240647-1000-man-general.json](./240647-1000-man-general.json) |
+| 1000 Miglia: Great 1000 Miles Rally | 39354 | [39354-1000-miglia-great-1000-miles-rally.json](./39354-1000-miglia-great-1000-miles-rally.json) |
 | 1000 Needles | 188439 | [188439-1000-needles.json](./188439-1000-needles.json) |
 | 1000 of Single Stroke | 297641 | [297641-1000-of-single-stroke.json](./297641-1000-of-single-stroke.json) |
 | 1000 Questions Quiz! National Flag | 317903 | [317903-1000-questions-quiz-national-flag.json](./317903-1000-questions-quiz-national-flag.json) |
