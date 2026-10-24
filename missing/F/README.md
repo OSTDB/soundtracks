@@ -5305,6 +5305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Clicker | 333667 | [333667-fishing-clicker.json](./333667-fishing-clicker.json) |
 | Fishing Corner | 373289 | [373289-fishing-corner.json](./373289-fishing-corner.json) |
 | Fishing Craze | 294739 | [294739-fishing-craze.json](./294739-fishing-craze.json) |
+| Fishing Derby | 18105 | [18105-fishing-derby.json](./18105-fishing-derby.json) |
 | Fishing Diary, Fishing Joy | 88422 | [88422-fishing-diary-fishing-joy.json](./88422-fishing-diary-fishing-joy.json) |
 | Fishing Diary: King of Fishing | 196286 | [196286-fishing-diary-king-of-fishing.json](./196286-fishing-diary-king-of-fishing.json) |
 | Fishing Ducks | 221701 | [221701-fishing-ducks.json](./221701-fishing-ducks.json) |
