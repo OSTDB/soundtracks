@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4415,6 +4416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania III: Append 7thMix - keepin' Evolution | 61020 | [61020-beatmania-iii-append-7thmix-keepin-evolution.json](./61020-beatmania-iii-append-7thmix-keepin-evolution.json) |
 | Beatmania III: Append Core Remix | 61018 | [61018-beatmania-iii-append-core-remix.json](./61018-beatmania-iii-append-core-remix.json) |
 | Beatmania The Final | 135672 | [135672-beatmania-the-final.json](./135672-beatmania-the-final.json) |
+| Beatmania: The Sound of Tokyo | 43744 | [43744-beatmania-the-sound-of-tokyo.json](./43744-beatmania-the-sound-of-tokyo.json) |
 | Beatmons 2 | 267004 | [267004-beatmons-2.json](./267004-beatmons-2.json) |
 | BeatMotor | 192841 | [192841-beatmotor.json](./192841-beatmotor.json) |
 | BeatNClean | 192792 | [192792-beatnclean.json](./192792-beatnclean.json) |
