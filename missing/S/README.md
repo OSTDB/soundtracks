@@ -1688,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satellite Odyssey: Prologue | 266748 | [266748-satellite-odyssey-prologue.json](./266748-satellite-odyssey-prologue.json) |
 | Satellite Reign | 11577 | [11577-satellite-reign.json](./11577-satellite-reign.json) |
 | Satellite Repairman | 30015 | [30015-satellite-repairman.json](./30015-satellite-repairman.json) |
+| Satellite Rush | 33846 | [33846-satellite-rush.json](./33846-satellite-rush.json) |
 | Satellites | 78342 | [78342-satellites.json](./78342-satellites.json) |
 | SatelliTV | 386678 | [386678-satellitv.json](./386678-satellitv.json) |
 | Satisdom | 337095 | [337095-satisdom.json](./337095-satisdom.json) |
@@ -9329,6 +9330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SisterFight | 125667 | [125667-sisterfight.json](./125667-sisterfight.json) |
 | Sisterhood | 159752 | [159752-sisterhood.json](./159752-sisterhood.json) |
 | Sisterly Bliss: Don't Let Mom Find Out | 415277 | [415277-sisterly-bliss-dont-let-mom-find-out.json](./415277-sisterly-bliss-dont-let-mom-find-out.json) |
+| Sisters | 33773 | [33773-sisters.json](./33773-sisters.json) |
 | Sisters of Silent Liberty | 154410 | [154410-sisters-of-silent-liberty.json](./154410-sisters-of-silent-liberty.json) |
 | Sisters of Sodomorrah | 236747 | [236747-sisters-of-sodomorrah.json](./236747-sisters-of-sodomorrah.json) |
 | Sisters of Solitude | 391847 | [391847-sisters-of-solitude.json](./391847-sisters-of-solitude.json) |
@@ -11298,6 +11300,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Town Detective in Where are Ray And Cooper | 310586 | [310586-small-town-detective-in-where-are-ray-and-cooper.json](./310586-small-town-detective-in-where-are-ray-and-cooper.json) |
 | Small Town Robot | 151288 | [151288-small-town-robot.json](./151288-small-town-robot.json) |
 | Small Town Terrors: Galdor's Bluff | 79248 | [79248-small-town-terrors-galdors-bluff.json](./79248-small-town-terrors-galdors-bluff.json) |
+| Small Town Terrors: Galdor's Bluff - Collector's Edition | 33814 | [33814-small-town-terrors-galdors-bluff-collectors-edition.json](./33814-small-town-terrors-galdors-bluff-collectors-edition.json) |
+| Small Town Terrors: Livingston | 33771 | [33771-small-town-terrors-livingston.json](./33771-small-town-terrors-livingston.json) |
 | Small Town Terrors: Pilgrim's Hook | 79249 | [79249-small-town-terrors-pilgrims-hook.json](./79249-small-town-terrors-pilgrims-hook.json) |
 | Small Town Terrors: Pilgrim's Hook - Collector's Edition | 36314 | [36314-small-town-terrors-pilgrims-hook-collectors-edition.json](./36314-small-town-terrors-pilgrims-hook-collectors-edition.json) |
 | Small Void | 365200 | [365200-small-void.json](./365200-small-void.json) |
@@ -24961,6 +24965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Indie Square: Fight Against Time | 171350 | [171350-super-indie-square-fight-against-time.json](./171350-super-indie-square-fight-against-time.json) |
 | Super Indy Champ | 42358 | [42358-super-indy-champ.json](./42358-super-indy-champ.json) |
 | Super Inefficient Golf | 90074 | [90074-super-inefficient-golf.json](./90074-super-inefficient-golf.json) |
+| Super Intergalactic Gang | 33866 | [33866-super-intergalactic-gang.json](./33866-super-intergalactic-gang.json) |
 | Super Intern Story | 164212 | [164212-super-intern-story.json](./164212-super-intern-story.json) |
 | Super International Cricket | 42456 | [42456-super-international-cricket.json](./42456-super-international-cricket.json) |
 | Super Invaders | 330909 | [330909-super-invaders.json](./330909-super-invaders.json) |
@@ -28117,6 +28122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweven | 28683 | [28683-sweven.json](./28683-sweven.json) |
 | Swevens | 403124 | [403124-swevens.json](./403124-swevens.json) |
 | Swibble Dibble | 69913 | [69913-swibble-dibble.json](./69913-swibble-dibble.json) |
+| Swift | 33871 | [33871-swift.json](./33871-swift.json) |
 | Swift Attack | 195481 | [195481-swift-attack.json](./195481-swift-attack.json) |
 | Swift Blocks | 26892 | [26892-swift-blocks.json](./26892-swift-blocks.json) |
 | Swift by Knight | 258918 | [258918-swift-by-knight.json](./258918-swift-by-knight.json) |
