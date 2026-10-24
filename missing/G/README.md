@@ -7437,6 +7437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GridWars | 92989 | [92989-gridwars.json](./92989-gridwars.json) |
 | Gridworld | 34617 | [34617-gridworld.json](./34617-gridworld.json) |
 | Gridz | 229815 | [229815-gridz.json](./229815-gridz.json) |
+| Gridz Keeper | 378760 | [378760-gridz-keeper.json](./378760-gridz-keeper.json) |
 | Grief | 207713 | [207713-grief.json](./207713-grief.json) |
 | Grief | 415253 | [415253-grief.json](./415253-grief.json) |
 | Grief Like a Stray Dog | 195531 | [195531-grief-like-a-stray-dog.json](./195531-grief-like-a-stray-dog.json) |
@@ -7909,6 +7910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Wave | 91687 | [91687-ground-wave.json](./91687-ground-wave.json) |
 | Ground Zero | 249174 | [249174-ground-zero.json](./249174-ground-zero.json) |
 | Ground Zero | 298803 | [298803-ground-zero.json](./298803-ground-zero.json) |
+| Ground Zero Hero | 281603 | [281603-ground-zero-hero.json](./281603-ground-zero-hero.json) |
 | Ground Zero: Genesis of a New World | 66552 | [66552-ground-zero-genesis-of-a-new-world.json](./66552-ground-zero-genesis-of-a-new-world.json) |
 | Ground Zero: Texas | 5390 | [5390-ground-zero-texas.json](./5390-ground-zero-texas.json) |
 | Ground Zero: Texas - Nuclear Edition | 187759 | [187759-ground-zero-texas-nuclear-edition.json](./187759-ground-zero-texas-nuclear-edition.json) |
@@ -8552,6 +8554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumball | 25612 | [25612-gumball.json](./25612-gumball.json) |
 | Gumball 3000 | 300795 | [300795-gumball-3000.json](./300795-gumball-3000.json) |
 | Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
+| Gumball in Trick-or-Treat Land | 373763 | [373763-gumball-in-trick-or-treat-land.json](./373763-gumball-in-trick-or-treat-land.json) |
 | Gumball Rainbow Ruckus | 232856 | [232856-gumball-rainbow-ruckus.json](./232856-gumball-rainbow-ruckus.json) |
 | GumBall Warrior | 160100 | [160100-gumball-warrior.json](./160100-gumball-warrior.json) |
 | Gumball: School House Rush | 203209 | [203209-gumball-school-house-rush.json](./203209-gumball-school-house-rush.json) |
