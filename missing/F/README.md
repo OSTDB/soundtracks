@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-15 Strike Eagle II | 12084 | [12084-f-15-strike-eagle-ii.json](./12084-f-15-strike-eagle-ii.json) |
 | F-15 Strike Eagle III | 71811 | [71811-f-15-strike-eagle-iii.json](./71811-f-15-strike-eagle-iii.json) |
 | F-16 Combat Pilot | 12085 | [12085-f-16-combat-pilot.json](./12085-f-16-combat-pilot.json) |
+| F-16 Fighting Falcon | 14060 | [14060-f-16-fighting-falcon.json](./14060-f-16-fighting-falcon.json) |
 | F-16 Multirole Fighter | 72715 | [72715-f-16-multirole-fighter.json](./72715-f-16-multirole-fighter.json) |
 | F-16 Renegade | 66706 | [66706-f-16-renegade.json](./66706-f-16-renegade.json) |
 | F-18 Hornet | 12322 | [12322-f-18-hornet.json](./12322-f-18-hornet.json) |
@@ -361,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Balls 4 | 225279 | [225279-factory-balls-4.json](./225279-factory-balls-4.json) |
 | Factory Balls Christmas Edition | 225284 | [225284-factory-balls-christmas-edition.json](./225284-factory-balls-christmas-edition.json) |
 | Factory Balls Go! | 402559 | [402559-factory-balls-go.json](./402559-factory-balls-go.json) |
+| Factory Breakout | 14061 | [14061-factory-breakout.json](./14061-factory-breakout.json) |
 | Factory Coin Mining | 118417 | [118417-factory-coin-mining.json](./118417-factory-coin-mining.json) |
 | Factory Company | 297071 | [297071-factory-company.json](./297071-factory-company.json) |
 | Factory Control Inc. | 252706 | [252706-factory-control-inc.json](./252706-factory-control-inc.json) |
@@ -730,12 +732,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon Patrol II | 40945 | [40945-falcon-patrol-ii.json](./40945-falcon-patrol-ii.json) |
 | Falcon Simulator | 86859 | [86859-falcon-simulator.json](./86859-falcon-simulator.json) |
 | Falcon Squad | 227953 | [227953-falcon-squad.json](./227953-falcon-squad.json) |
+| Falcon: The Renegade Lord | 14062 | [14062-falcon-the-renegade-lord.json](./14062-falcon-the-renegade-lord.json) |
 | Falconet | 189102 | [189102-falconet.json](./189102-falconet.json) |
 | Falcons | 24884 | [24884-falcons.json](./24884-falcons.json) |
 | Falcross | 371454 | [371454-falcross.json](./371454-falcross.json) |
 | Faldon | 395860 | [395860-faldon.json](./395860-faldon.json) |
 | Falinere Fantasy | 215887 | [215887-falinere-fantasy.json](./215887-falinere-fantasy.json) |
 | Falklands | 59313 | [59313-falklands.json](./59313-falklands.json) |
+| Falklands 82 | 14063 | [14063-falklands-82.json](./14063-falklands-82.json) |
 | Falklands 82 - "The Empire Strikes Back" | 93436 | [93436-falklands-82-the-empire-strikes-back.json](./93436-falklands-82-the-empire-strikes-back.json) |
 | Fall | 292370 | [292370-fall.json](./292370-fall.json) |
 | Fall | 317392 | [317392-fall.json](./317392-fall.json) |
@@ -3803,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Vipers | 200894 | [200894-fighting-vipers.json](./200894-fighting-vipers.json) |
 | Fighting Vipers | 291605 | [291605-fighting-vipers.json](./291605-fighting-vipers.json) |
 | Fighting Vipers | 39471 | [39471-fighting-vipers.json](./39471-fighting-vipers.json) |
+| Fighting Warrior | 14065 | [14065-fighting-warrior.json](./14065-fighting-warrior.json) |
 | Fighting Zombie | 196558 | [196558-fighting-zombie.json](./196558-fighting-zombie.json) |
 | FightingChicken | 309675 | [309675-fightingchicken.json](./309675-fightingchicken.json) |
 | Fightmons | 120224 | [120224-fightmons.json](./120224-fightmons.json) |
@@ -4940,6 +4945,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firelore: Short Tales | 333391 | [333391-firelore-short-tales.json](./333391-firelore-short-tales.json) |
 | Firelust | 176915 | [176915-firelust.json](./176915-firelust.json) |
 | Firemakaf | 178606 | [178606-firemakaf.json](./178606-firemakaf.json) |
+| Fireman Fred | 14067 | [14067-fireman-fred.json](./14067-fireman-fred.json) |
+| Fireman Sam | 14068 | [14068-fireman-sam.json](./14068-fireman-sam.json) |
 | Fireman Titan Fights Games | 105934 | [105934-fireman-titan-fights-games.json](./105934-fireman-titan-fights-games.json) |
 | Fireman! Fire Fighter Truck Driving Games for Kids | 104504 | [104504-fireman-fire-fighter-truck-driving-games-for-kids.json](./104504-fireman-fire-fighter-truck-driving-games-for-kids.json) |
 | Fireman's Quest | 115358 | [115358-firemans-quest.json](./115358-firemans-quest.json) |
@@ -4963,6 +4970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firestarter | 78049 | [78049-firestarter.json](./78049-firestarter.json) |
 | FireStarter 2 | 312720 | [312720-firestarter-2.json](./312720-firestarter-2.json) |
 | Firestone: Online Idle RPG | 122429 | [122429-firestone-online-idle-rpg.json](./122429-firestone-online-idle-rpg.json) |
+| Firestorm | 14070 | [14070-firestorm.json](./14070-firestorm.json) |
 | Firestorm | 239088 | [239088-firestorm.json](./239088-firestorm.json) |
 | Firestorm Deadland | 253365 | [253365-firestorm-deadland.json](./253365-firestorm-deadland.json) |
 | Firestriker | 42553 | [42553-firestriker.json](./42553-firestriker.json) |
@@ -5052,6 +5060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Moon of Mercury | 371005 | [371005-first-moon-of-mercury.json](./371005-first-moon-of-mercury.json) |
 | First Odium | 236010 | [236010-first-odium.json](./236010-first-odium.json) |
 | First Page of Love | 254955 | [254955-first-page-of-love.json](./254955-first-page-of-love.json) |
+| First Past the Post | 14071 | [14071-first-past-the-post.json](./14071-first-past-the-post.json) |
 | First Person Hooper | 237329 | [237329-first-person-hooper.json](./237329-first-person-hooper.json) |
 | First Person Lover | 238606 | [238606-first-person-lover.json](./238606-first-person-lover.json) |
 | First Person Shooter | 368688 | [368688-first-person-shooter.json](./368688-first-person-shooter.json) |
@@ -5767,6 +5776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FizzBall | 71564 | [71564-fizzball.json](./71564-fizzball.json) |
 | Fizzburg | 413878 | [413878-fizzburg.json](./413878-fizzburg.json) |
 | Fizzy Factory | 262070 | [262070-fizzy-factory.json](./262070-fizzy-factory.json) |
+| Fizzy Wizzy | 14072 | [14072-fizzy-wizzy.json](./14072-fizzy-wizzy.json) |
 | Fjord battle racing | 50523 | [50523-fjord-battle-racing.json](./50523-fjord-battle-racing.json) |
 | Fjords | 62535 | [62535-fjords.json](./62535-fjords.json) |
 | FL Frisky Tom | 300009 | [300009-fl-frisky-tom.json](./300009-fl-frisky-tom.json) |
@@ -5810,6 +5820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flair | 391197 | [391197-flair.json](./391197-flair.json) |
 | Flairtender | 29635 | [29635-flairtender.json](./29635-flairtender.json) |
 | Flaiser | 183449 | [183449-flaiser.json](./183449-flaiser.json) |
+| Flak | 14073 | [14073-flak.json](./14073-flak.json) |
 | Flak | 170893 | [170893-flak.json](./170893-flak.json) |
 | Flakboy | 264480 | [264480-flakboy.json](./264480-flakboy.json) |
 | Flake: The Legend of Snowblind | 287195 | [287195-flake-the-legend-of-snowblind.json](./287195-flake-the-legend-of-snowblind.json) |
@@ -7640,6 +7651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbon FC | 182163 | [182163-forbon-fc.json](./182163-forbon-fc.json) |
 | Força Alienígena | 231205 | [231205-forca-alienigena.json](./231205-forca-alienigena.json) |
 | Force Escape | 91285 | [91285-force-escape.json](./91285-force-escape.json) |
+| Force Fighter | 14076 | [14076-force-fighter.json](./14076-force-fighter.json) |
 | Force Five | 39441 | [39441-force-five.json](./39441-force-five.json) |
 | Force Of Guardians | 325736 | [325736-force-of-guardians.json](./325736-force-of-guardians.json) |
 | Force of Nature 2: Ghost Keeper | 150124 | [150124-force-of-nature-2-ghost-keeper.json](./150124-force-of-nature-2-ghost-keeper.json) |
@@ -9185,6 +9197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Chess: Nuts n Bolts Set | 354205 | [354205-free-chess-nuts-n-bolts-set.json](./354205-free-chess-nuts-n-bolts-set.json) |
 | Free Chess: Primitives Set | 310390 | [310390-free-chess-primitives-set.json](./310390-free-chess-primitives-set.json) |
 | Free Chess: Standard II Set | 354206 | [354206-free-chess-standard-ii-set.json](./354206-free-chess-standard-ii-set.json) |
+| Free Climbing | 14077 | [14077-free-climbing.json](./14077-free-climbing.json) |
 | Free Company VR | 119978 | [119978-free-company-vr.json](./119978-free-company-vr.json) |
 | Free Craps | 246379 | [246379-free-craps.json](./246379-free-craps.json) |
 | Free D.C! | 80526 | [80526-free-d-c.json](./80526-free-d-c.json) |
@@ -9270,6 +9283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Drive | 220023 | [220023-freedom-drive.json](./220023-freedom-drive.json) |
 | Freedom Fall | 16829 | [16829-freedom-fall.json](./16829-freedom-fall.json) |
 | Freedom Farming: The American Way | 226723 | [226723-freedom-farming-the-american-way.json](./226723-freedom-farming-the-american-way.json) |
+| Freedom Fighter | 14078 | [14078-freedom-fighter.json](./14078-freedom-fighter.json) |
 | Freedom Fighter | 202852 | [202852-freedom-fighter.json](./202852-freedom-fighter.json) |
 | Freedom Fighter | 77299 | [77299-freedom-fighter.json](./77299-freedom-fighter.json) |
 | Freedom Fighters | 719 | [719-freedom-fighters.json](./719-freedom-fighters.json) |
@@ -9625,6 +9639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frightence | 193299 | [193299-frightence.json](./193299-frightence.json) |
 | Frightened | 216161 | [216161-frightened.json](./216161-frightened.json) |
 | Frightening Monastery | 340259 | [340259-frightening-monastery.json](./340259-frightening-monastery.json) |
+| Frightmare | 14079 | [14079-frightmare.json](./14079-frightmare.json) |
 | Frights | 310256 | [310256-frights.json](./310256-frights.json) |
 | Frigid | 159281 | [159281-frigid.json](./159281-frigid.json) |
 | Frigid VR | 172733 | [172733-frigid-vr.json](./172733-frigid-vr.json) |
@@ -9842,6 +9857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggo's Adventure: Drifting Sky | 326759 | [326759-froggos-adventure-drifting-sky.json](./326759-froggos-adventure-drifting-sky.json) |
 | Froggo's Quest | 418715 | [418715-froggos-quest.json](./418715-froggos-quest.json) |
 | Froggonit | 236179 | [236179-froggonit.json](./236179-froggonit.json) |
+| Froggy | 14080 | [14080-froggy.json](./14080-froggy.json) |
 | Froggy | 193290 | [193290-froggy.json](./193290-froggy.json) |
 | Froggy | 227828 | [227828-froggy.json](./227828-froggy.json) |
 | Froggy Brews | 351261 | [351261-froggy-brews.json](./351261-froggy-brews.json) |
