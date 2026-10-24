@@ -1182,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer League | 111542 | [111542-panzer-league.json](./111542-panzer-league.json) |
 | Panzer Marshal | 176432 | [176432-panzer-marshal.json](./176432-panzer-marshal.json) |
 | Panzer Paladin | 116195 | [116195-panzer-paladin.json](./116195-panzer-paladin.json) |
+| Panzer Panic VR | 29537 | [29537-panzer-panic-vr.json](./29537-panzer-panic-vr.json) |
 | Panzer Party | 85329 | [85329-panzer-party.json](./85329-panzer-party.json) |
 | Panzer Strike | 324314 | [324314-panzer-strike.json](./324314-panzer-strike.json) |
 | Panzer Strike! | 68564 | [68564-panzer-strike.json](./68564-panzer-strike.json) |
@@ -1339,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Play VR | 298117 | [298117-paper-play-vr.json](./298117-paper-play-vr.json) |
 | Paper Protocol | 311851 | [311851-paper-protocol.json](./311851-paper-protocol.json) |
 | Paper Puzzle | 319131 | [319131-paper-puzzle.json](./319131-paper-puzzle.json) |
+| Paper Quest | 29519 | [29519-paper-quest.json](./29519-paper-quest.json) |
 | Paper Red and the Spirits Ink | 305484 | [305484-paper-red-and-the-spirits-ink.json](./305484-paper-red-and-the-spirits-ink.json) |
 | Paper Robot | 394229 | [394229-paper-robot.json](./394229-paper-robot.json) |
 | Paper Shakespeare 3: Girl Werewolf Hamlet Absolutely Solves the War of the Roses | 398033 | [398033-paper-shakespeare-3-girl-werewolf-hamlet-absolutely-solves-the-war-of-the-roses.json](./398033-paper-shakespeare-3-girl-werewolf-hamlet-absolutely-solves-the-war-of-the-roses.json) |
@@ -6856,6 +6858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Stars | 97224 | [97224-pixel-stars.json](./97224-pixel-stars.json) |
 | Pixel Stars Digital Dreamhouse | 245424 | [245424-pixel-stars-digital-dreamhouse.json](./245424-pixel-stars-digital-dreamhouse.json) |
 | Pixel Starships | 56258 | [56258-pixel-starships.json](./56258-pixel-starships.json) |
+| Pixel Stories of Dungeon | 29523 | [29523-pixel-stories-of-dungeon.json](./29523-pixel-stories-of-dungeon.json) |
 | Pixel Storm | 182547 | [182547-pixel-storm.json](./182547-pixel-storm.json) |
 | Pixel Survival Game 2 | 241636 | [241636-pixel-survival-game-2.json](./241636-pixel-survival-game-2.json) |
 | Pixel Survival Game 3 | 256437 | [256437-pixel-survival-game-3.json](./256437-pixel-survival-game-3.json) |
@@ -13359,6 +13362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protostar: War on the Frontier | 73495 | [73495-protostar-war-on-the-frontier.json](./73495-protostar-war-on-the-frontier.json) |
 | ProtoStone | 166819 | [166819-protostone.json](./166819-protostone.json) |
 | Protöthea | 21821 | [21821-protothea.json](./21821-protothea.json) |
+| Protothype | 29585 | [29585-protothype.json](./29585-protothype.json) |
 | Prototype | 119662 | [119662-prototype.json](./119662-prototype.json) |
 | Prototype | 220684 | [220684-prototype.json](./220684-prototype.json) |
 | Prototype | 235105 | [235105-prototype.json](./235105-prototype.json) |
