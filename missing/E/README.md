@@ -1621,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elder's Grace: Rise of the Mobley | 248667 | [248667-elders-grace-rise-of-the-mobley.json](./248667-elders-grace-rise-of-the-mobley.json) |
 | Elder's Grace: Unchained | 266309 | [266309-elders-grace-unchained.json](./266309-elders-grace-unchained.json) |
 | Elder's Will | 293845 | [293845-elders-will.json](./293845-elders-will.json) |
+| Elderand | 151787 | [151787-elderand.json](./151787-elderand.json) |
 | Elderborn: Metal AF Edition | 154951 | [154951-elderborn-metal-af-edition.json](./154951-elderborn-metal-af-edition.json) |
 | Elderborn: Vengeance | 408849 | [408849-elderborn-vengeance.json](./408849-elderborn-vengeance.json) |
 | Eldercraft: Mountaineers | 336591 | [336591-eldercraft-mountaineers.json](./336591-eldercraft-mountaineers.json) |
@@ -4668,6 +4669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esper: The Collection | 23894 | [23894-esper-the-collection.json](./23894-esper-the-collection.json) |
 | Esperia ~ Uprising of the Scarlet Witch ~ | 126925 | [126925-esperia-uprising-of-the-scarlet-witch.json](./126925-esperia-uprising-of-the-scarlet-witch.json) |
 | Espgaluda | 83808 | [83808-espgaluda.json](./83808-espgaluda.json) |
+| Espgaluda II | 152403 | [152403-espgaluda-ii.json](./152403-espgaluda-ii.json) |
 | Espgaluda II | 6989 | [6989-espgaluda-ii.json](./6989-espgaluda-ii.json) |
 | Espgaluda II: Black Label | 80457 | [80457-espgaluda-ii-black-label.json](./80457-espgaluda-ii-black-label.json) |
 | Espial | 23932 | [23932-espial.json](./23932-espial.json) |
