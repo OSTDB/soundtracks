@@ -3331,6 +3331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just deal with it! | 103397 | [103397-just-deal-with-it.json](./103397-just-deal-with-it.json) |
 | Just Death | 36073 | [36073-just-death.json](./36073-just-death.json) |
 | Just Defense | 157924 | [157924-just-defense.json](./157924-just-defense.json) |
+| Just Deserts | 32899 | [32899-just-deserts.json](./32899-just-deserts.json) |
 | Just Die Already | 134784 | [134784-just-die-already.json](./134784-just-die-already.json) |
 | Just Die Neon | 55693 | [55693-just-die-neon.json](./55693-just-die-neon.json) |
 | Just Dismantle | 393137 | [393137-just-dismantle.json](./393137-just-dismantle.json) |
