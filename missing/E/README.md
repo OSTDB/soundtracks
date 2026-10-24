@@ -4690,6 +4690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN Great Outdoor Games: Bass 2002 | 49302 | [49302-espn-great-outdoor-games-bass-2002.json](./49302-espn-great-outdoor-games-bass-2002.json) |
 | ESPN International Track & Field | 71419 | [71419-espn-international-track-and-field.json](./71419-espn-international-track-and-field.json) |
 | ESPN International Winter Sports 2002 | 242938 | [242938-espn-international-winter-sports-2002.json](./242938-espn-international-winter-sports-2002.json) |
+| ESPN International Winter Sports 2002 | 3905 | [3905-espn-international-winter-sports-2002.json](./3905-espn-international-winter-sports-2002.json) |
 | ESPN Let's Go Skiing | 38848 | [38848-espn-lets-go-skiing.json](./38848-espn-lets-go-skiing.json) |
 | ESPN Let's Play Beach Volleyball | 37117 | [37117-espn-lets-play-beach-volleyball.json](./37117-espn-lets-play-beach-volleyball.json) |
 | ESPN Let's Play Soccer | 37119 | [37119-espn-lets-play-soccer.json](./37119-espn-lets-play-soccer.json) |
