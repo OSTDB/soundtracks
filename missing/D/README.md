@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darius Maker | 294786 | [294786-darius-maker.json](./294786-darius-maker.json) |
 | Darius R | 49277 | [49277-darius-r.json](./49277-darius-r.json) |
 | Darius the Mailman | 294799 | [294799-darius-the-mailman.json](./294799-darius-the-mailman.json) |
+| Darius Twin | 6660 | [6660-darius-twin.json](./6660-darius-twin.json) |
 | Darius: Cozmic Revelation - Collector's Edition | 139993 | [139993-darius-cozmic-revelation-collectors-edition.json](./139993-darius-cozmic-revelation-collectors-edition.json) |
 | Dariusburst | 18193 | [18193-dariusburst.json](./18193-dariusburst.json) |
 | Dariusburst: Another Chronicle EX | 138014 | [138014-dariusburst-another-chronicle-ex.json](./138014-dariusburst-another-chronicle-ex.json) |
@@ -5400,6 +5401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dense forest | 282009 | [282009-dense-forest.json](./282009-dense-forest.json) |
 | Densetsu no Ogre Battle Gaiden: Zenobia no Ouji | 43975 | [43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json](./43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json) |
 | Densetsu no Quiz-ou Ketteisen | 3973 | [3973-densetsu-no-quiz-ou-ketteisen.json](./3973-densetsu-no-quiz-ou-ketteisen.json) |
+| Densetsu no Starfy | 6370 | [6370-densetsu-no-starfy.json](./6370-densetsu-no-starfy.json) |
 | Densha | 109162 | [109162-densha.json](./109162-densha.json) |
 | Densha Daishuugou: Driving Train | 289740 | [289740-densha-daishuugou-driving-train.json](./289740-densha-daishuugou-driving-train.json) |
 | Densha de D: Burning Stage | 55923 | [55923-densha-de-d-burning-stage.json](./55923-densha-de-d-burning-stage.json) |
@@ -7219,6 +7221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digerati Presents: The Dungeon Crawl Vol. 1 | 147884 | [147884-digerati-presents-the-dungeon-crawl-vol-1.json](./147884-digerati-presents-the-dungeon-crawl-vol-1.json) |
 | Digfender | 109064 | [109064-digfender.json](./109064-digfender.json) |
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
+| Digger | 24425 | [24425-digger.json](./24425-digger.json) |
 | Digger Chan | 79147 | [79147-digger-chan.json](./79147-digger-chan.json) |
 | Digger Dan & Kaboom | 58664 | [58664-digger-dan-and-kaboom.json](./58664-digger-dan-and-kaboom.json) |
 | Digger Dan DX | 47662 | [47662-digger-dan-dx.json](./47662-digger-dan-dx.json) |
@@ -7284,6 +7287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon New Century | 174707 | [174707-digimon-new-century.json](./174707-digimon-new-century.json) |
 | Digimon Pendulum Ver.20th | 276079 | [276079-digimon-pendulum-ver-20th.json](./276079-digimon-pendulum-ver-20th.json) |
 | Digimon Pocket | 247403 | [247403-digimon-pocket.json](./247403-digimon-pocket.json) |
+| Digimon Racing | 6376 | [6376-digimon-racing.json](./6376-digimon-racing.json) |
 | Digimon Rumble Arena | 4133 | [4133-digimon-rumble-arena.json](./4133-digimon-rumble-arena.json) |
 | Digimon Soul Chaser | 59178 | [59178-digimon-soul-chaser.json](./59178-digimon-soul-chaser.json) |
 | Digimon Story Cyber Sleuth: Complete Edition | 120551 | [120551-digimon-story-cyber-sleuth-complete-edition.json](./120551-digimon-story-cyber-sleuth-complete-edition.json) |
@@ -8329,6 +8333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Magic Kingdoms | 86813 | [86813-disney-magic-kingdoms.json](./86813-disney-magic-kingdoms.json) |
 | Disney Magical Dice | 55158 | [55158-disney-magical-dice.json](./55158-disney-magical-dice.json) |
 | Disney Magical Dice: The Enchanted Board Game | 98240 | [98240-disney-magical-dice-the-enchanted-board-game.json](./98240-disney-magical-dice-the-enchanted-board-game.json) |
+| Disney Magical World | 6756 | [6756-disney-magical-world.json](./6756-disney-magical-world.json) |
 | Disney Magical World 2: Enchanted Edition | 172428 | [172428-disney-magical-world-2-enchanted-edition.json](./172428-disney-magical-world-2-enchanted-edition.json) |
 | Disney Mickey's Typing Adventure | 35796 | [35796-disney-mickeys-typing-adventure.json](./35796-disney-mickeys-typing-adventure.json) |
 | Disney Miraness Fitness | 366901 | [366901-disney-miraness-fitness.json](./366901-disney-miraness-fitness.json) |
@@ -11898,6 +11903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Boy II | 345838 | [345838-dragon-boy-ii.json](./345838-dragon-boy-ii.json) |
 | Dragon Break Classic | 151850 | [151850-dragon-break-classic.json](./151850-dragon-break-classic.json) |
 | Dragon Break Classic Head to Head | 152755 | [152755-dragon-break-classic-head-to-head.json](./152755-dragon-break-classic-head-to-head.json) |
+| Dragon Breed | 6791 | [6791-dragon-breed.json](./6791-dragon-breed.json) |
 | Dragon Bride | 134607 | [134607-dragon-bride.json](./134607-dragon-bride.json) |
 | Dragon Buster | 38035 | [38035-dragon-buster.json](./38035-dragon-buster.json) |
 | Dragon Buster 100 | 243831 | [243831-dragon-buster-100.json](./243831-dragon-buster-100.json) |
@@ -12960,6 +12966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamBreaker | 344996 | [344996-dreambreaker.json](./344996-dreambreaker.json) |
 | Dreamcage Escape | 30488 | [30488-dreamcage-escape.json](./30488-dreamcage-escape.json) |
 | Dreamcards | 347803 | [347803-dreamcards.json](./347803-dreamcards.json) |
+| Dreamcast Collection | 6973 | [6973-dreamcast-collection.json](./6973-dreamcast-collection.json) |
 | Dreamcatcher | 58555 | [58555-dreamcatcher.json](./58555-dreamcatcher.json) |
 | DreamCatcher | 312588 | [312588-dreamcatcher.json](./312588-dreamcatcher.json) |
 | Dreamcatcher 2003 | 365237 | [365237-dreamcatcher-2003.json](./365237-dreamcatcher-2003.json) |
@@ -15501,6 +15508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 6: Empires | 19636 | [19636-dynasty-warriors-6-empires.json](./19636-dynasty-warriors-6-empires.json) |
 | Dynasty Warriors 6: Special | 269526 | [269526-dynasty-warriors-6-special.json](./269526-dynasty-warriors-6-special.json) |
 | Dynasty Warriors 7 | 6832 | [6832-dynasty-warriors-7.json](./6832-dynasty-warriors-7.json) |
+| Dynasty Warriors 7: Empires | 6834 | [6834-dynasty-warriors-7-empires.json](./6834-dynasty-warriors-7-empires.json) |
 | Dynasty Warriors 7: Special | 269527 | [269527-dynasty-warriors-7-special.json](./269527-dynasty-warriors-7-special.json) |
 | Dynasty Warriors 7: Xtreme Legends - Definitive Edition | 113386 | [113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json](./113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json) |
 | Dynasty Warriors 8 | 6976 | [6976-dynasty-warriors-8.json](./6976-dynasty-warriors-8.json) |
