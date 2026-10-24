@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Off Mask | 320043 | [320043-take-off-mask.json](./320043-take-off-mask.json) |
 | Take Off: The Flight Simulator | 89683 | [89683-take-off-the-flight-simulator.json](./89683-take-off-the-flight-simulator.json) |
 | Take on Helicopters: Hinds | 166219 | [166219-take-on-helicopters-hinds.json](./166219-take-on-helicopters-hinds.json) |
+| Take on Helicopters: Rearmed | 15107 | [15107-take-on-helicopters-rearmed.json](./15107-take-on-helicopters-rearmed.json) |
 | Take on Mars | 16572 | [16572-take-on-mars.json](./16572-take-on-mars.json) |
 | Take Over | 401900 | [401900-take-over.json](./401900-take-over.json) |
 | Take Over the World | 57489 | [57489-take-over-the-world.json](./57489-take-over-the-world.json) |
@@ -3969,6 +3970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetraspace | 59929 | [59929-tetraspace.json](./59929-tetraspace.json) |
 | TetraSquare | 235132 | [235132-tetrasquare.json](./235132-tetrasquare.json) |
 | TetraTower | 183506 | [183506-tetratower.json](./183506-tetratower.json) |
+| TetraVex | 17262 | [17262-tetravex.json](./17262-tetravex.json) |
 | Tetrenga | 344147 | [344147-tetrenga.json](./344147-tetrenga.json) |
 | Tetri-Pentix | 87930 | [87930-tetri-pentix.json](./87930-tetri-pentix.json) |
 | Tetri3D | 88285 | [88285-tetri3d.json](./88285-tetri3d.json) |
@@ -8790,6 +8792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Icarus Experiment | 317307 | [317307-the-icarus-experiment.json](./317307-the-icarus-experiment.json) |
 | The Ice Cream Culprit | 309164 | [309164-the-ice-cream-culprit.json](./309164-the-ice-cream-culprit.json) |
 | The Ice Cream Shop | 374923 | [374923-the-ice-cream-shop.json](./374923-the-ice-cream-shop.json) |
+| The Ice-Bound Concordance | 15181 | [15181-the-ice-bound-concordance.json](./15181-the-ice-bound-concordance.json) |
 | The Iceberg | 180672 | [180672-the-iceberg.json](./180672-the-iceberg.json) |
 | The Icecream Machine | 397167 | [397167-the-icecream-machine.json](./397167-the-icecream-machine.json) |
 | The Iceman | 278106 | [278106-the-iceman.json](./278106-the-iceman.json) |
@@ -8967,6 +8970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inquisitor | 202718 | [202718-the-inquisitor.json](./202718-the-inquisitor.json) |
 | The Inquisitor | 83820 | [83820-the-inquisitor.json](./83820-the-inquisitor.json) |
 | The Inquisitor 3D | 202846 | [202846-the-inquisitor-3d.json](./202846-the-inquisitor-3d.json) |
+| The Inquisitor: Book 1 - The Plague | 17089 | [17089-the-inquisitor-book-1-the-plague.json](./17089-the-inquisitor-book-1-the-plague.json) |
 | The Inquisitor: Book 2 - The Village | 10972 | [10972-the-inquisitor-book-2-the-village.json](./10972-the-inquisitor-book-2-the-village.json) |
 | The Insect Massacre | 59680 | [59680-the-insect-massacre.json](./59680-the-insect-massacre.json) |
 | The Inseparables | 410209 | [410209-the-inseparables.json](./410209-the-inseparables.json) |
@@ -12648,7 +12652,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rocketeer | 136871 | [136871-the-rocketeer.json](./136871-the-rocketeer.json) |
 | The Rocketeer | 48205 | [48205-the-rocketeer.json](./48205-the-rocketeer.json) |
 | The Rockin' Dead | 9371 | [9371-the-rockin-dead.json](./9371-the-rockin-dead.json) |
+| The Rocky Horror Show Computer Game | 17274 | [17274-the-rocky-horror-show-computer-game.json](./17274-the-rocky-horror-show-computer-game.json) |
 | The Rocky Horror Show Video Game | 319648 | [319648-the-rocky-horror-show-video-game.json](./319648-the-rocky-horror-show-video-game.json) |
+| The Rocky Interactive Horror Show Game | 17273 | [17273-the-rocky-interactive-horror-show-game.json](./17273-the-rocky-interactive-horror-show-game.json) |
 | The Rodinia Project | 52077 | [52077-the-rodinia-project.json](./52077-the-rodinia-project.json) |
 | The Rodionov postulate (pale-particle duality) | 376607 | [376607-the-rodionov-postulate-pale-particle-duality.json](./376607-the-rodionov-postulate-pale-particle-duality.json) |
 | The Rogue | 410447 | [410447-the-rogue.json](./410447-the-rogue.json) |
@@ -19653,6 +19659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tofu Tower | 164296 | [164296-tofu-tower.json](./164296-tofu-tower.json) |
 | Tofu'Drift | 242629 | [242629-tofudrift.json](./242629-tofudrift.json) |
 | Toga | 256987 | [256987-toga.json](./256987-toga.json) |
+| Togainu no Chi | 17267 | [17267-togainu-no-chi.json](./17267-togainu-no-chi.json) |
 | Togainu no Chi: True Blood | 145289 | [145289-togainu-no-chi-true-blood.json](./145289-togainu-no-chi-true-blood.json) |
 | Togainu no Chi: Typing | 237424 | [237424-togainu-no-chi-typing.json](./237424-togainu-no-chi-typing.json) |
 | Toganeyobi | 387702 | [387702-toganeyobi.json](./387702-toganeyobi.json) |
@@ -20318,6 +20325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tommy Is My Hero! | 272853 | [272853-tommy-is-my-hero.json](./272853-tommy-is-my-hero.json) |
 | Tommy Moe's Winter Extreme: Skiing & Snowboarding | 42429 | [42429-tommy-moes-winter-extreme-skiing-and-snowboarding.json](./42429-tommy-moes-winter-extreme-skiing-and-snowboarding.json) |
 | Tommy Thunder | 47736 | [47736-tommy-thunder.json](./47736-tommy-thunder.json) |
+| Tommy Tronic | 15010 | [15010-tommy-tronic.json](./15010-tommy-tronic.json) |
 | Tommy's Hollywords | 71146 | [71146-tommys-hollywords.json](./71146-tommys-hollywords.json) |
 | Tommygun's Frag | 387516 | [387516-tommyguns-frag.json](./387516-tommyguns-frag.json) |
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
@@ -21224,6 +21232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Melbourne | 167705 | [167705-touch-melbourne.json](./167705-touch-melbourne.json) |
 | Touch Melo | 312904 | [312904-touch-melo.json](./312904-touch-melo.json) |
 | Touch My Spinner | 61618 | [61618-touch-my-spinner.json](./61618-touch-my-spinner.json) |
+| Touch of Darkness | 16996 | [16996-touch-of-darkness.json](./16996-touch-of-darkness.json) |
 | Touch of Madness | 307880 | [307880-touch-of-madness.json](./307880-touch-of-madness.json) |
 | Touch Pets: Dogs | 67947 | [67947-touch-pets-dogs.json](./67947-touch-pets-dogs.json) |
 | Touch Point Tennis | 249248 | [249248-touch-point-tennis.json](./249248-touch-point-tennis.json) |
@@ -24978,6 +24987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinium Wars | 18923 | [18923-trinium-wars.json](./18923-trinium-wars.json) |
 | Trinket Bag Maker | 382569 | [382569-trinket-bag-maker.json](./382569-trinket-bag-maker.json) |
 | Trinkets | 355078 | [355078-trinkets.json](./355078-trinkets.json) |
+| Trino | 15012 | [15012-trino.json](./15012-trino.json) |
 | Trinoline | 116366 | [116366-trinoline.json](./116366-trinoline.json) |
 | Trinoline: Genesis | 98374 | [98374-trinoline-genesis.json](./98374-trinoline-genesis.json) |
 | Trio | 90622 | [90622-trio.json](./90622-trio.json) |
@@ -26419,6 +26429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV and Cinema 101: Trivia from Talkies to Trekkies | 69540 | [69540-tv-and-cinema-101-trivia-from-talkies-to-trekkies.json](./69540-tv-and-cinema-101-trivia-from-talkies-to-trekkies.json) |
 | TV Animation X - Unmei No Tatakai | 126468 | [126468-tv-animation-x-unmei-no-tatakai.json](./126468-tv-animation-x-unmei-no-tatakai.json) |
 | TV Archive: Tidy Up Together | 411668 | [411668-tv-archive-tidy-up-together.json](./411668-tv-archive-tidy-up-together.json) |
+| TV Basketball | 16979 | [16979-tv-basketball.json](./16979-tv-basketball.json) |
 | TV Boxing | 247010 | [247010-tv-boxing.json](./247010-tv-boxing.json) |
 | TV Calibration | 81233 | [81233-tv-calibration.json](./81233-tv-calibration.json) |
 | TV Empire Tycoon | 169798 | [169798-tv-empire-tycoon.json](./169798-tv-empire-tycoon.json) |
