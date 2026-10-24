@@ -5852,6 +5852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanhe | 166811 | [166811-shanhe.json](./166811-shanhe.json) |
 | Shanhe Remain | 375988 | [375988-shanhe-remain.json](./375988-shanhe-remain.json) |
 | Shank | 7518 | [7518-shank.json](./7518-shank.json) |
+| Shank 2 | 9623 | [9623-shank-2.json](./9623-shank-2.json) |
 | Shank the Cop | 155988 | [155988-shank-the-cop.json](./155988-shank-the-cop.json) |
 | Shankala | 377045 | [377045-shankala.json](./377045-shankala.json) |
 | Shankstars | 223605 | [223605-shankstars.json](./223605-shankstars.json) |
@@ -6420,6 +6421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes Essential Bundle | 201013 | [201013-sherlock-holmes-essential-bundle.json](./201013-sherlock-holmes-essential-bundle.json) |
 | Sherlock Holmes i el cas d'Arthur Gordon Pym | 345023 | [345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json](./345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json) |
 | Sherlock Holmes in "Another Bow" | 24680 | [24680-sherlock-holmes-in-another-bow.json](./24680-sherlock-holmes-in-another-bow.json) |
+| Sherlock Holmes Versus Jack the Ripper | 6737 | [6737-sherlock-holmes-versus-jack-the-ripper.json](./6737-sherlock-holmes-versus-jack-the-ripper.json) |
 | Sherlock Holmes: Chapter One - Beyond a Joke | 186894 | [186894-sherlock-holmes-chapter-one-beyond-a-joke.json](./186894-sherlock-holmes-chapter-one-beyond-a-joke.json) |
 | Sherlock Holmes: Chapter One - Clergyman Cassock | 245168 | [245168-sherlock-holmes-chapter-one-clergyman-cassock.json](./245168-sherlock-holmes-chapter-one-clergyman-cassock.json) |
 | Sherlock Holmes: Chapter One - Deluxe Edition | 173098 | [173098-sherlock-holmes-chapter-one-deluxe-edition.json](./173098-sherlock-holmes-chapter-one-deluxe-edition.json) |
@@ -6655,6 +6657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei III: Nocturne - HD Remaster: Maniax Pack | 237996 | [237996-shin-megami-tensei-iii-nocturne-hd-remaster-maniax-pack.json](./237996-shin-megami-tensei-iii-nocturne-hd-remaster-maniax-pack.json) |
 | Shin Megami Tensei III: Nocturne Maniax Chronicle Edition | 231375 | [231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json](./231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json) |
 | Shin Megami Tensei J | 138483 | [138483-shin-megami-tensei-j.json](./138483-shin-megami-tensei-j.json) |
+| Shin Megami Tensei V | 26775 | [26775-shin-megami-tensei-v.json](./26775-shin-megami-tensei-v.json) |
 | Shin Megami Tensei V: A Goddess in Training | 238054 | [238054-shin-megami-tensei-v-a-goddess-in-training.json](./238054-shin-megami-tensei-v-a-goddess-in-training.json) |
 | Shin Megami Tensei V: Digital Deluxe Edition | 238340 | [238340-shin-megami-tensei-v-digital-deluxe-edition.json](./238340-shin-megami-tensei-v-digital-deluxe-edition.json) |
 | Shin Megami Tensei V: The Rage of a Queen | 238058 | [238058-shin-megami-tensei-v-the-rage-of-a-queen.json](./238058-shin-megami-tensei-v-the-rage-of-a-queen.json) |
@@ -6847,6 +6850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi | 307860 | [307860-shinobi.json](./307860-shinobi.json) |
 | Shinobi | 309488 | [309488-shinobi.json](./309488-shinobi.json) |
 | Shinobi | 339235 | [339235-shinobi.json](./339235-shinobi.json) |
+| Shinobi | 6899 | [6899-shinobi.json](./6899-shinobi.json) |
 | Shinobi | 86252 | [86252-shinobi.json](./86252-shinobi.json) |
 | Shinobi Breaker | 169844 | [169844-shinobi-breaker.json](./169844-shinobi-breaker.json) |
 | Shinobi Harisenbo | 242045 | [242045-shinobi-harisenbo.json](./242045-shinobi-harisenbo.json) |
@@ -7987,6 +7991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization III: Game of the Year Edition | 53609 | [53609-sid-meiers-civilization-iii-game-of-the-year-edition.json](./53609-sid-meiers-civilization-iii-game-of-the-year-edition.json) |
 | Sid Meier's Civilization III: Gold Edition | 55119 | [55119-sid-meiers-civilization-iii-gold-edition.json](./55119-sid-meiers-civilization-iii-gold-edition.json) |
 | Sid Meier's Civilization III: Play the World | 10831 | [10831-sid-meiers-civilization-iii-play-the-world.json](./10831-sid-meiers-civilization-iii-play-the-world.json) |
+| Sid Meier's Civilization IV: Beyond the Sword | 633 | [633-sid-meiers-civilization-iv-beyond-the-sword.json](./633-sid-meiers-civilization-iv-beyond-the-sword.json) |
 | Sid Meier's Civilization IV: Complete Edition | 54356 | [54356-sid-meiers-civilization-iv-complete-edition.json](./54356-sid-meiers-civilization-iv-complete-edition.json) |
 | Sid Meier's Civilization IV: Gold Edition | 21856 | [21856-sid-meiers-civilization-iv-gold-edition.json](./21856-sid-meiers-civilization-iv-gold-edition.json) |
 | Sid Meier's Civilization IV: Warlords | 865 | [865-sid-meiers-civilization-iv-warlords.json](./865-sid-meiers-civilization-iv-warlords.json) |
@@ -8080,6 +8085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization: Beyond Earth - Rising Tide | 10502 | [10502-sid-meiers-civilization-beyond-earth-rising-tide.json](./10502-sid-meiers-civilization-beyond-earth-rising-tide.json) |
 | Sid Meier's Civilization: Beyond Earth - The Collection | 53608 | [53608-sid-meiers-civilization-beyond-earth-the-collection.json](./53608-sid-meiers-civilization-beyond-earth-the-collection.json) |
 | Sid Meier's CivNet | 21930 | [21930-sid-meiers-civnet.json](./21930-sid-meiers-civnet.json) |
+| Sid Meier's Colonization | 8787 | [8787-sid-meiers-colonization.json](./8787-sid-meiers-colonization.json) |
 | Sid Meier's Pirates! | 210477 | [210477-sid-meiers-pirates.json](./210477-sid-meiers-pirates.json) |
 | Sid Meier's Pirates! | 210478 | [210478-sid-meiers-pirates.json](./210478-sid-meiers-pirates.json) |
 | Sid Meier's Pirates! | 210479 | [210479-sid-meiers-pirates.json](./210479-sid-meiers-pirates.json) |
@@ -10280,6 +10286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylanders: Imaginators | 317016 | [317016-skylanders-imaginators.json](./317016-skylanders-imaginators.json) |
 | Skylanders: Lost Islands | 59963 | [59963-skylanders-lost-islands.json](./59963-skylanders-lost-islands.json) |
 | Skylanders: Ring of Heroes | 112193 | [112193-skylanders-ring-of-heroes.json](./112193-skylanders-ring-of-heroes.json) |
+| Skylanders: Spyro's Adventure | 1585 | [1585-skylanders-spyros-adventure.json](./1585-skylanders-spyros-adventure.json) |
 | Skylanders: Spyro's Adventure | 256678 | [256678-skylanders-spyros-adventure.json](./256678-skylanders-spyros-adventure.json) |
 | Skylanders: Spyro's Adventure - Empire of Ice | 340392 | [340392-skylanders-spyros-adventure-empire-of-ice.json](./340392-skylanders-spyros-adventure-empire-of-ice.json) |
 | Skylanders: SuperChargers | 317015 | [317015-skylanders-superchargers.json](./317015-skylanders-superchargers.json) |
@@ -16540,6 +16547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartan Wars: Blood and Fire | 323185 | [323185-spartan-wars-blood-and-fire.json](./323185-spartan-wars-blood-and-fire.json) |
 | Spartan X | 214467 | [214467-spartan-x.json](./214467-spartan-x.json) |
 | Spartan X | 214523 | [214523-spartan-x.json](./214523-spartan-x.json) |
+| Spartan X | 2901 | [2901-spartan-x.json](./2901-spartan-x.json) |
 | Spartan X 2 | 48650 | [48650-spartan-x-2.json](./48650-spartan-x-2.json) |
 | Spartan's Spear | 273407 | [273407-spartans-spear.json](./273407-spartans-spear.json) |
 | Sparticles | 107271 | [107271-sparticles.json](./107271-sparticles.json) |
@@ -18539,6 +18547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro: A Realm Beyond | 405090 | [405090-spyro-a-realm-beyond.json](./405090-spyro-a-realm-beyond.json) |
 | Spyro: Attack of the Rhynocs | 1589 | [1589-spyro-attack-of-the-rhynocs.json](./1589-spyro-attack-of-the-rhynocs.json) |
 | Spyro: Collector's Edition | 43686 | [43686-spyro-collectors-edition.json](./43686-spyro-collectors-edition.json) |
+| Spyro: Enter the Dragonfly | 1579 | [1579-spyro-enter-the-dragonfly.json](./1579-spyro-enter-the-dragonfly.json) |
 | Spyro: Season of Ice | 1587 | [1587-spyro-season-of-ice.json](./1587-spyro-season-of-ice.json) |
 | Spyro: Shadow Legacy | 1581 | [1581-spyro-shadow-legacy.json](./1581-spyro-shadow-legacy.json) |
 | Spyro: Year of the Dragon | 142243 | [142243-spyro-year-of-the-dragon.json](./142243-spyro-year-of-the-dragon.json) |
@@ -21408,6 +21417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Hero | 87175 | [87175-stick-hero.json](./87175-stick-hero.json) |
 | Stick Hunter: Exciting Ice Hockey | 48618 | [48618-stick-hunter-exciting-ice-hockey.json](./48618-stick-hunter-exciting-ice-hockey.json) |
 | Stick Infinite Kingdom | 310934 | [310934-stick-infinite-kingdom.json](./310934-stick-infinite-kingdom.json) |
+| Stick it to the Man! | 6581 | [6581-stick-it-to-the-man.json](./6581-stick-it-to-the-man.json) |
 | Stick It to the Stickman | 215042 | [215042-stick-it-to-the-stickman.json](./215042-stick-it-to-the-stickman.json) |
 | Stick It! | 312183 | [312183-stick-it.json](./312183-stick-it.json) |
 | Stick Knight | 240852 | [240852-stick-knight.json](./240852-stick-knight.json) |
@@ -27235,6 +27245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Challenge | 70071 | [70071-supreme-challenge.json](./70071-supreme-challenge.json) |
 | Supreme Commander 2 | 7201 | [7201-supreme-commander-2.json](./7201-supreme-commander-2.json) |
 | Supreme Commander 2: Infinite War Battle Pack | 155169 | [155169-supreme-commander-2-infinite-war-battle-pack.json](./155169-supreme-commander-2-infinite-war-battle-pack.json) |
+| Supreme Commander: Forged Alliance | 888 | [888-supreme-commander-forged-alliance.json](./888-supreme-commander-forged-alliance.json) |
 | Supreme Commander: Gold Edition | 53689 | [53689-supreme-commander-gold-edition.json](./53689-supreme-commander-gold-edition.json) |
 | Supreme Duelist Stickman | 198310 | [198310-supreme-duelist-stickman.json](./198310-supreme-duelist-stickman.json) |
 | Supreme Duo | 227269 | [227269-supreme-duo.json](./227269-supreme-duo.json) |
