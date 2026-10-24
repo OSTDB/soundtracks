@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K11: Kommissare im Einsatz | 268183 | [268183-k11-kommissare-im-einsatz.json](./268183-k11-kommissare-im-einsatz.json) |
 | K2 Story | 245800 | [245800-k2-story.json](./245800-k2-story.json) |
 | K2: Digital Edition | 274560 | [274560-k2-digital-edition.json](./274560-k2-digital-edition.json) |
+| K240 | 12650 | [12650-k240.json](./12650-k240.json) |
 | K37-D | 130966 | [130966-k37-d.json](./130966-k37-d.json) |
 | K3LVN | 208793 | [208793-k3lvn.json](./208793-k3lvn.json) |
 | K9 Uprising | 200383 | [200383-k9-uprising.json](./200383-k9-uprising.json) |
@@ -479,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamihime Project R | 98529 | [98529-kamihime-project-r.json](./98529-kamihime-project-r.json) |
 | Kamiji | 264056 | [264056-kamiji.json](./264056-kamiji.json) |
 | Kamikakushi | 133395 | [133395-kamikakushi.json](./133395-kamikakushi.json) |
+| Kamikaze | 12651 | [12651-kamikaze.json](./12651-kamikaze.json) |
 | Kamikaze | 328057 | [328057-kamikaze.json](./328057-kamikaze.json) |
 | Kamikaze Bros. 3 | 214771 | [214771-kamikaze-bros-3.json](./214771-kamikaze-bros-3.json) |
 | Kamikaze cabbie | 39813 | [39813-kamikaze-cabbie.json](./39813-kamikaze-cabbie.json) |
@@ -1344,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kells | 156604 | [156604-kells.json](./156604-kells.json) |
 | Kelly Kangaroo | 292072 | [292072-kelly-kangaroo.json](./292072-kelly-kangaroo.json) |
 | Kelly Slater's Pro Surfer | 243186 | [243186-kelly-slaters-pro-surfer.json](./243186-kelly-slaters-pro-surfer.json) |
+| Kelly X | 12653 | [12653-kelly-x.json](./12653-kelly-x.json) |
 | Kelp Keeper | 290557 | [290557-kelp-keeper.json](./290557-kelp-keeper.json) |
 | Kelsi Davies: Haunt Escape | 275675 | [275675-kelsi-davies-haunt-escape.json](./275675-kelsi-davies-haunt-escape.json) |
 | Keltika | 259606 | [259606-keltika.json](./259606-keltika.json) |
@@ -1751,11 +1754,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Bludd's Treacherous Tower | 177256 | [177256-kid-bludds-treacherous-tower.json](./177256-kid-bludds-treacherous-tower.json) |
 | Kid Bubblegum | 251747 | [251747-kid-bubblegum.json](./251747-kid-bubblegum.json) |
 | Kid Chameleon | 16035 | [16035-kid-chameleon.json](./16035-kid-chameleon.json) |
+| Kid Chaos | 12655 | [12655-kid-chaos.json](./12655-kid-chaos.json) |
 | Kid Detective | 160107 | [160107-kid-detective.json](./160107-kid-detective.json) |
 | Kid Dracula | 1120 | [1120-kid-dracula.json](./1120-kid-dracula.json) |
 | Kid Dracula | 1125 | [1125-kid-dracula.json](./1125-kid-dracula.json) |
 | Kid Fit: Island Resort | 51070 | [51070-kid-fit-island-resort.json](./51070-kid-fit-island-resort.json) |
 | Kid Funky | 134506 | [134506-kid-funky.json](./134506-kid-funky.json) |
+| Kid Gloves | 12656 | [12656-kid-gloves.json](./12656-kid-gloves.json) |
+| Kid Gloves II: The Journey Back | 12657 | [12657-kid-gloves-ii-the-journey-back.json](./12657-kid-gloves-ii-the-journey-back.json) |
 | Kid Grid | 22770 | [22770-kid-grid.json](./22770-kid-grid.json) |
 | Kid Hallow | 179210 | [179210-kid-hallow.json](./179210-kid-hallow.json) |
 | Kid Icarus | 279751 | [279751-kid-icarus.json](./279751-kid-icarus.json) |
@@ -2684,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Defense: Hero Legend | 105834 | [105834-kingdom-defense-hero-legend.json](./105834-kingdom-defense-hero-legend.json) |
 | Kingdom Draw | 210507 | [210507-kingdom-draw.json](./210507-kingdom-draw.json) |
 | Kingdom Eighties | 209620 | [209620-kingdom-eighties.json](./209620-kingdom-eighties.json) |
+| Kingdom Elemental | 17151 | [17151-kingdom-elemental.json](./17151-kingdom-elemental.json) |
 | Kingdom Fall: Dawn of the Druid | 175635 | [175635-kingdom-fall-dawn-of-the-druid.json](./175635-kingdom-fall-dawn-of-the-druid.json) |
 | Kingdom Flipper | 325539 | [325539-kingdom-flipper.json](./325539-kingdom-flipper.json) |
 | Kingdom Fortress | 337293 | [337293-kingdom-fortress.json](./337293-kingdom-fortress.json) |
@@ -3542,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Fall | 304980 | [304980-knight-fall.json](./304980-knight-fall.json) |
 | Knight Fever | 70846 | [70846-knight-fever.json](./70846-knight-fever.json) |
 | Knight Fighter | 96902 | [96902-knight-fighter.json](./96902-knight-fighter.json) |
+| Knight Force | 12660 | [12660-knight-force.json](./12660-knight-force.json) |
 | Knight Foretold | 252802 | [252802-knight-foretold.json](./252802-knight-foretold.json) |
 | Knight Fortix 2 | 42770 | [42770-knight-fortix-2.json](./42770-knight-fortix-2.json) |
 | Knight Game | 176731 | [176731-knight-game.json](./176731-knight-game.json) |
@@ -3883,6 +3891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knuckle Joe | 39874 | [39874-knuckle-joe.json](./39874-knuckle-joe.json) |
 | Knuckle Knockout | 340887 | [340887-knuckle-knockout.json](./340887-knuckle-knockout.json) |
 | Knuckle Paradise | 399286 | [399286-knuckle-paradise.json](./399286-knuckle-paradise.json) |
+| Knuckle Sandwich | 16981 | [16981-knuckle-sandwich.json](./16981-knuckle-sandwich.json) |
 | Knucklebones Neon | 420539 | [420539-knucklebones-neon.json](./420539-knucklebones-neon.json) |
 | KnuckleFighter-Alpha | 172692 | [172692-knucklefighter-alpha.json](./172692-knucklefighter-alpha.json) |
 | KnuckleFighter-X | 172691 | [172691-knucklefighter-x.json](./172691-knucklefighter-x.json) |
@@ -4678,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krull | 292096 | [292096-krull.json](./292096-krull.json) |
 | Krum: Battle Arena | 157562 | [157562-krum-battle-arena.json](./157562-krum-battle-arena.json) |
 | Krum: Edge of Darkness | 34056 | [34056-krum-edge-of-darkness.json](./34056-krum-edge-of-darkness.json) |
+| Krunch | 17104 | [17104-krunch.json](./17104-krunch.json) |
 | Krunt.io | 125871 | [125871-krunt-io.json](./125871-krunt-io.json) |
 | Krusenstern: A Stellar Sail | 226730 | [226730-krusenstern-a-stellar-sail.json](./226730-krusenstern-a-stellar-sail.json) |
 | Krusty Zombies | 180312 | [180312-krusty-zombies.json](./180312-krusty-zombies.json) |
@@ -5096,6 +5106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoufu Shinbun | 77394 | [77394-kyoufu-shinbun.json](./77394-kyoufu-shinbun.json) |
 | Kyoufu Shinbun Heisei-ban: Kaiki! Shinrei File | 336005 | [336005-kyoufu-shinbun-heisei-ban-kaiki-shinrei-file.json](./336005-kyoufu-shinbun-heisei-ban-kaiki-shinrei-file.json) |
 | Kyoufu Yawa | 397907 | [397907-kyoufu-yawa.json](./397907-kyoufu-yawa.json) |
+| Kyoukai no Shirayuki | 12635 | [12635-kyoukai-no-shirayuki.json](./12635-kyoukai-no-shirayuki.json) |
 | Kyoukaisen no Horizon Portable | 64999 | [64999-kyoukaisen-no-horizon-portable.json](./64999-kyoukaisen-no-horizon-portable.json) |
 | Kyouki Drip | 281252 | [281252-kyouki-drip.json](./281252-kyouki-drip.json) |
 | Kyouko no Tame ni Kane wa Naru | 205081 | [205081-kyouko-no-tame-ni-kane-wa-naru.json](./205081-kyouko-no-tame-ni-kane-wa-naru.json) |
