@@ -7530,6 +7530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeworld 3: Fleet Command Edition | 279046 | [279046-homeworld-3-fleet-command-edition.json](./279046-homeworld-3-fleet-command-edition.json) |
 | Homeworld Defense | 84040 | [84040-homeworld-defense.json](./84040-homeworld-defense.json) |
 | Homeworld Mobile | 122124 | [122124-homeworld-mobile.json](./122124-homeworld-mobile.json) |
+| Homeworld: Deserts of Kharak | 15444 | [15444-homeworld-deserts-of-kharak.json](./15444-homeworld-deserts-of-kharak.json) |
 | Homeworld: Deserts of Kharak - Deluxe Edition | 53203 | [53203-homeworld-deserts-of-kharak-deluxe-edition.json](./53203-homeworld-deserts-of-kharak-deluxe-edition.json) |
 | Homeworld: Deserts of Kharak - Soban Fleet Pack | 154445 | [154445-homeworld-deserts-of-kharak-soban-fleet-pack.json](./154445-homeworld-deserts-of-kharak-soban-fleet-pack.json) |
 | Homeworld: Remastered Collection | 8773 | [8773-homeworld-remastered-collection.json](./8773-homeworld-remastered-collection.json) |
