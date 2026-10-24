@@ -6401,6 +6401,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandia HD Collection | 107214 | [107214-grandia-hd-collection.json](./107214-grandia-hd-collection.json) |
 | Grandia HD Remaster | 107213 | [107213-grandia-hd-remaster.json](./107213-grandia-hd-remaster.json) |
 | Grandia II | 9580 | [9580-grandia-ii.json](./9580-grandia-ii.json) |
+| Grandia Online | 21661 | [21661-grandia-online.json](./21661-grandia-online.json) |
+| Grandia Xtreme | 21660 | [21660-grandia-xtreme.json](./21660-grandia-xtreme.json) |
+| Grandia: Digital Museum | 21658 | [21658-grandia-digital-museum.json](./21658-grandia-digital-museum.json) |
+| Grandia: Parallel Trippers | 21659 | [21659-grandia-parallel-trippers.json](./21659-grandia-parallel-trippers.json) |
 | Grandiose | 154581 | [154581-grandiose.json](./154581-grandiose.json) |
 | Grandma | 193676 | [193676-grandma.json](./193676-grandma.json) |
 | GrandMa Badass | 150914 | [150914-grandma-badass.json](./150914-grandma-badass.json) |
@@ -7223,6 +7227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Eyes of Death | 199308 | [199308-grey-eyes-of-death.json](./199308-grey-eyes-of-death.json) |
 | Grey Galactic | 236950 | [236950-grey-galactic.json](./236950-grey-galactic.json) |
 | Grey Goo Definitive Edition | 54057 | [54057-grey-goo-definitive-edition.json](./54057-grey-goo-definitive-edition.json) |
+| Grey Goo: Emergence | 21731 | [21731-grey-goo-emergence.json](./21731-grey-goo-emergence.json) |
 | Grey Haven | 239664 | [239664-grey-haven.json](./239664-grey-haven.json) |
 | Grey Heritage: Faded Vision | 189115 | [189115-grey-heritage-faded-vision.json](./189115-grey-heritage-faded-vision.json) |
 | Grey Heritage: Noble Duty | 266425 | [266425-grey-heritage-noble-duty.json](./266425-grey-heritage-noble-duty.json) |
@@ -7621,6 +7626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grizzly Valley | 33048 | [33048-grizzly-valley.json](./33048-grizzly-valley.json) |
 | Grizzly's | 231429 | [231429-grizzlys.json](./231429-grizzlys.json) |
 | Groaning Steel | 170541 | [170541-groaning-steel.json](./170541-groaning-steel.json) |
+| Grobda | 21687 | [21687-grobda.json](./21687-grobda.json) |
 | Grobda Remix | 74986 | [74986-grobda-remix.json](./74986-grobda-remix.json) |
 | Grobnopolis \| Last Days | 363914 | [363914-grobnopolis-last-days.json](./363914-grobnopolis-last-days.json) |
 | Groceries and JumpScares | 253730 | [253730-groceries-and-jumpscares.json](./253730-groceries-and-jumpscares.json) |
