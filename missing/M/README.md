@@ -9767,6 +9767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Scanners | 139566 | [139566-mind-scanners.json](./139566-mind-scanners.json) |
 | Mind Shadows | 151180 | [151180-mind-shadows.json](./151180-mind-shadows.json) |
 | Mind Shift | 51740 | [51740-mind-shift.json](./51740-mind-shift.json) |
+| Mind Snares: Alice's Journey | 22427 | [22427-mind-snares-alices-journey.json](./22427-mind-snares-alices-journey.json) |
 | Mind Space | 171469 | [171469-mind-space.json](./171469-mind-space.json) |
 | Mind Spheres | 32797 | [32797-mind-spheres.json](./32797-mind-spheres.json) |
 | Mind Storm | 308338 | [308338-mind-storm.json](./308338-mind-storm.json) |
@@ -11176,6 +11177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Against Terror | 51395 | [51395-mission-against-terror.json](./51395-mission-against-terror.json) |
 | Mission Against Terror 2 | 213474 | [213474-mission-against-terror-2.json](./213474-mission-against-terror-2.json) |
 | Mission Angel Angelic Pink | 82908 | [82908-mission-angel-angelic-pink.json](./82908-mission-angel-angelic-pink.json) |
+| Mission Asteroid | 7655 | [7655-mission-asteroid.json](./7655-mission-asteroid.json) |
 | Mission Attack | 42136 | [42136-mission-attack.json](./42136-mission-attack.json) |
 | Mission Biotech | 159792 | [159792-mission-biotech.json](./159792-mission-biotech.json) |
 | Mission Bravo | 295040 | [295040-mission-bravo.json](./295040-mission-bravo.json) |
@@ -11487,6 +11489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 07: The Show | 7369 | [7369-mlb-07-the-show.json](./7369-mlb-07-the-show.json) |
 | MLB 09: The Show | 7371 | [7371-mlb-09-the-show.json](./7371-mlb-09-the-show.json) |
 | MLB 10: The Show | 7372 | [7372-mlb-10-the-show.json](./7372-mlb-10-the-show.json) |
+| MLB 11: The Show | 7373 | [7373-mlb-11-the-show.json](./7373-mlb-11-the-show.json) |
 | MLB 12: The Show | 7374 | [7374-mlb-12-the-show.json](./7374-mlb-12-the-show.json) |
 | MLB 13: The Show | 7375 | [7375-mlb-13-the-show.json](./7375-mlb-13-the-show.json) |
 | MLB 13: The Show - Home Run Derby Edition | 99955 | [99955-mlb-13-the-show-home-run-derby-edition.json](./99955-mlb-13-the-show-home-run-derby-edition.json) |
@@ -12372,6 +12375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey GO Happy 5 | 401787 | [401787-monkey-go-happy-5.json](./401787-monkey-go-happy-5.json) |
 | Monkey GO Happy 6 | 401800 | [401800-monkey-go-happy-6.json](./401800-monkey-go-happy-6.json) |
 | Monkey GO Happy Marathon | 395226 | [395226-monkey-go-happy-marathon.json](./395226-monkey-go-happy-marathon.json) |
+| Monkey Hero | 21643 | [21643-monkey-hero.json](./21643-monkey-hero.json) |
 | Monkey Hit | 147757 | [147757-monkey-hit.json](./147757-monkey-hit.json) |
 | Monkey in the Zoo | 391855 | [391855-monkey-in-the-zoo.json](./391855-monkey-in-the-zoo.json) |
 | Monkey Island 2 Special Edition: LeChuck's Revenge | 66 | [66-monkey-island-2-special-edition-lechucks-revenge.json](./66-monkey-island-2-special-edition-lechucks-revenge.json) |
