@@ -3948,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Jackson's King Kong: The Official Game of the Movie | 248541 | [248541-peter-jacksons-king-kong-the-official-game-of-the-movie.json](./248541-peter-jacksons-king-kong-the-official-game-of-the-movie.json) |
 | Peter Jackson's King Kong: The Official Game of the Movie | 248542 | [248542-peter-jacksons-king-kong-the-official-game-of-the-movie.json](./248542-peter-jacksons-king-kong-the-official-game-of-the-movie.json) |
 | Peter Jackson's King Kong: The Official Game of the Movie | 248543 | [248543-peter-jacksons-king-kong-the-official-game-of-the-movie.json](./248543-peter-jacksons-king-kong-the-official-game-of-the-movie.json) |
+| Peter Jackson's King Kong: The Official Game of the Movie | 4065 | [4065-peter-jacksons-king-kong-the-official-game-of-the-movie.json](./4065-peter-jacksons-king-kong-the-official-game-of-the-movie.json) |
 | Peter Jacobsen's Golden Tee Golf | 43776 | [43776-peter-jacobsens-golden-tee-golf.json](./43776-peter-jacobsens-golden-tee-golf.json) |
 | Peter Pack Rat | 39379 | [39379-peter-pack-rat.json](./39379-peter-pack-rat.json) |
 | Peter Padder Pauleypop | 181167 | [181167-peter-padder-pauleypop.json](./181167-peter-padder-pauleypop.json) |
@@ -7629,6 +7630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies: Cubed | 272801 | [272801-plants-vs-zombies-cubed.json](./272801-plants-vs-zombies-cubed.json) |
 | Plants vs. Zombies: Endless Edition | 287882 | [287882-plants-vs-zombies-endless-edition.json](./287882-plants-vs-zombies-endless-edition.json) |
 | Plants vs. Zombies: Fusion | 330905 | [330905-plants-vs-zombies-fusion.json](./330905-plants-vs-zombies-fusion.json) |
+| Plants vs. Zombies: Garden Warfare | 3146 | [3146-plants-vs-zombies-garden-warfare.json](./3146-plants-vs-zombies-garden-warfare.json) |
 | Plants vs. Zombies: Garden Warfare 2 | 11148 | [11148-plants-vs-zombies-garden-warfare-2.json](./11148-plants-vs-zombies-garden-warfare-2.json) |
 | Plants vs. Zombies: Garden Warfare 2 - Deluxe Edition | 81997 | [81997-plants-vs-zombies-garden-warfare-2-deluxe-edition.json](./81997-plants-vs-zombies-garden-warfare-2-deluxe-edition.json) |
 | Plants vs. Zombies: GOTY Edition | 20546 | [20546-plants-vs-zombies-goty-edition.json](./20546-plants-vs-zombies-goty-edition.json) |
@@ -9191,6 +9193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Tourmaline | 378601 | [378601-pokemon-tourmaline.json](./378601-pokemon-tourmaline.json) |
 | Pokémon Tower Battle | 254176 | [254176-pokemon-tower-battle.json](./254176-pokemon-tower-battle.json) |
 | Pokémon Tower Defense 2 | 180292 | [180292-pokemon-tower-defense-2.json](./180292-pokemon-tower-defense-2.json) |
+| Pokémon Trading Card Game | 4567 | [4567-pokemon-trading-card-game.json](./4567-pokemon-trading-card-game.json) |
 | Pokémon Trading Card Game Live | 171816 | [171816-pokemon-trading-card-game-live.json](./171816-pokemon-trading-card-game-live.json) |
 | Pokémon Trading Card Game Pocket: Celestial Guardians | 341686 | [341686-pokemon-trading-card-game-pocket-celestial-guardians.json](./341686-pokemon-trading-card-game-pocket-celestial-guardians.json) |
 | Pokémon Trading Card Game Pocket: Crimson Blaze | 381911 | [381911-pokemon-trading-card-game-pocket-crimson-blaze.json](./381911-pokemon-trading-card-game-pocket-crimson-blaze.json) |
@@ -13680,6 +13683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pubes | 406284 | [406284-pubes.json](./406284-pubes.json) |
 | PUBG Ded.Net | 414104 | [414104-pubg-ded-net.json](./414104-pubg-ded-net.json) |
 | PUBG Lite | 124036 | [124036-pubg-lite.json](./124036-pubg-lite.json) |
+| PUBG Mobile | 95340 | [95340-pubg-mobile.json](./95340-pubg-mobile.json) |
 | PUBG Mobile Lite | 124773 | [124773-pubg-mobile-lite.json](./124773-pubg-mobile-lite.json) |
 | PUBG Mobile: Season 12 | 135152 | [135152-pubg-mobile-season-12.json](./135152-pubg-mobile-season-12.json) |
 | PUBG Mobile: Season 13 | 135154 | [135154-pubg-mobile-season-13.json](./135154-pubg-mobile-season-13.json) |
