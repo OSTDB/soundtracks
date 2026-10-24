@@ -1478,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24: The Game | 6062 | [6062-24-the-game.json](./6062-24-the-game.json) |
 | 24: The Mobile Game | 305988 | [305988-24-the-mobile-game.json](./305988-24-the-mobile-game.json) |
 | 24/7 Solitaire | 78758 | [78758-24-7-solitaire.json](./78758-24-7-solitaire.json) |
+| 2400 A.D. | 2412 | [2412-2400-a-d.json](./2412-2400-a-d.json) |
 | 240p Test Suite | 292078 | [292078-240p-test-suite.json](./292078-240p-test-suite.json) |
 | 2448: Block Puzzle Number Game | 331387 | [331387-2448-block-puzzle-number-game.json](./331387-2448-block-puzzle-number-game.json) |
 | 248 Scribble | 355143 | [355143-248-scribble.json](./355143-248-scribble.json) |
