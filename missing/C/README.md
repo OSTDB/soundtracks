@@ -14739,6 +14739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush Your Enemies | 17027 | [17027-crush-your-enemies.json](./17027-crush-your-enemies.json) |
 | Crush Your Enemies: Complete Plundered Edition | 52856 | [52856-crush-your-enemies-complete-plundered-edition.json](./52856-crush-your-enemies-complete-plundered-edition.json) |
 | Crush! Deluxe | 71721 | [71721-crush-deluxe.json](./71721-crush-deluxe.json) |
+| Crush3D | 22922 | [22922-crush3d.json](./22922-crush3d.json) |
 | CrushBorgs | 199626 | [199626-crushborgs.json](./199626-crushborgs.json) |
 | CrushCrushCrushCrush | 391218 | [391218-crushcrushcrushcrush.json](./391218-crushcrushcrushcrush.json) |
 | Crushed | 141171 | [141171-crushed.json](./141171-crushed.json) |
