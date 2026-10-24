@@ -1706,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratchet & Clank Collection | 19994 | [19994-ratchet-and-clank-collection.json](./19994-ratchet-and-clank-collection.json) |
 | Ratchet & Clank Future: A Crack in Time | 1795 | [1795-ratchet-and-clank-future-a-crack-in-time.json](./1795-ratchet-and-clank-future-a-crack-in-time.json) |
 | Ratchet & Clank Future: Quest for Booty | 1794 | [1794-ratchet-and-clank-future-quest-for-booty.json](./1794-ratchet-and-clank-future-quest-for-booty.json) |
+| Ratchet & Clank Future: Tools of Destruction | 1792 | [1792-ratchet-and-clank-future-tools-of-destruction.json](./1792-ratchet-and-clank-future-tools-of-destruction.json) |
 | Ratchet & Clank: A Crack in Time - Collector's Edition | 45276 | [45276-ratchet-and-clank-a-crack-in-time-collectors-edition.json](./45276-ratchet-and-clank-a-crack-in-time-collectors-edition.json) |
 | Ratchet & Clank: All 4 One | 1796 | [1796-ratchet-and-clank-all-4-one.json](./1796-ratchet-and-clank-all-4-one.json) |
 | Ratchet & Clank: Clone Home | 225652 | [225652-ratchet-and-clank-clone-home.json](./225652-ratchet-and-clank-clone-home.json) |
@@ -1931,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman 3 HD | 47449 | [47449-rayman-3-hd.json](./47449-rayman-3-hd.json) |
 | Rayman 3-Pack | 193343 | [193343-rayman-3-pack.json](./193343-rayman-3-pack.json) |
 | Rayman 3: Hoodlum Havoc | 193331 | [193331-rayman-3-hoodlum-havoc.json](./193331-rayman-3-hoodlum-havoc.json) |
+| Rayman 3: Hoodlum Havoc | 1966 | [1966-rayman-3-hoodlum-havoc.json](./1966-rayman-3-hoodlum-havoc.json) |
 | Rayman 3: Hoodlum Havoc Print Studio | 61654 | [61654-rayman-3-hoodlum-havoc-print-studio.json](./61654-rayman-3-hoodlum-havoc-print-studio.json) |
 | Rayman 3D | 20585 | [20585-rayman-3d.json](./20585-rayman-3d.json) |
 | Rayman 4 | 193361 | [193361-rayman-4.json](./193361-rayman-4.json) |
@@ -7114,6 +7116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop Versus the Terminator | 44464 | [44464-robocop-versus-the-terminator.json](./44464-robocop-versus-the-terminator.json) |
 | RoboCop Versus the Terminator | 8195 | [8195-robocop-versus-the-terminator.json](./8195-robocop-versus-the-terminator.json) |
 | Robocop vs. Predator | 281502 | [281502-robocop-vs-predator.json](./281502-robocop-vs-predator.json) |
+| RoboCop: Rogue City | 154775 | [154775-robocop-rogue-city.json](./154775-robocop-rogue-city.json) |
 | RoboCop: Rogue City - Alex Murphy Edition | 271282 | [271282-robocop-rogue-city-alex-murphy-edition.json](./271282-robocop-rogue-city-alex-murphy-edition.json) |
 | RoboCop: Rogue City - Alex Murphy Pack | 275073 | [275073-robocop-rogue-city-alex-murphy-pack.json](./275073-robocop-rogue-city-alex-murphy-pack.json) |
 | RoboCop: Rogue City - Collection | 383166 | [383166-robocop-rogue-city-collection.json](./383166-robocop-rogue-city-collection.json) |
@@ -10037,6 +10040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runes Saga: Puzzle Adventure | 122208 | [122208-runes-saga-puzzle-adventure.json](./122208-runes-saga-puzzle-adventure.json) |
 | Runes: Hidden Objects Puzzle Game | 312686 | [312686-runes-hidden-objects-puzzle-game.json](./312686-runes-hidden-objects-puzzle-game.json) |
 | Runes: The Forgotten Path | 33172 | [33172-runes-the-forgotten-path.json](./33172-runes-the-forgotten-path.json) |
+| RuneScape | 5611 | [5611-runescape.json](./5611-runescape.json) |
 | RuneScape 2 | 362749 | [362749-runescape-2.json](./362749-runescape-2.json) |
 | RuneScape Quests: One Piercing Note | 108958 | [108958-runescape-quests-one-piercing-note.json](./108958-runescape-quests-one-piercing-note.json) |
 | RuneScape: Dragonwilds | 337712 | [337712-runescape-dragonwilds.json](./337712-runescape-dragonwilds.json) |
