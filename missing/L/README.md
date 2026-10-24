@@ -4351,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linebound | 403778 | [403778-linebound.json](./403778-linebound.json) |
 | Linecook | 179198 | [179198-linecook.json](./179198-linecook.json) |
 | Linehot Putin: All Stars | 116855 | [116855-linehot-putin-all-stars.json](./116855-linehot-putin-all-stars.json) |
+| Linelight | 27034 | [27034-linelight.json](./27034-linelight.json) |
 | Linelith | 199313 | [199313-linelith.json](./199313-linelith.json) |
 | Lineoff | 181913 | [181913-lineoff.json](./181913-lineoff.json) |
 | Lines | 91339 | [91339-lines.json](./91339-lines.json) |
@@ -8050,6 +8051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Effect | 384751 | [384751-lust-effect.json](./384751-lust-effect.json) |
 | Lust Element: Season 1 | 262229 | [262229-lust-element-season-1.json](./262229-lust-element-season-1.json) |
 | Lust Eternal | 379529 | [379529-lust-eternal.json](./379529-lust-eternal.json) |
+| Lust for Darkness | 36815 | [36815-lust-for-darkness.json](./36815-lust-for-darkness.json) |
 | Lust for Darkness VR | 193508 | [193508-lust-for-darkness-vr.json](./193508-lust-for-darkness-vr.json) |
 | Lust for Darkness VR: M Edition | 196060 | [196060-lust-for-darkness-vr-m-edition.json](./196060-lust-for-darkness-vr-m-edition.json) |
 | Lust for Darkness: Dawn Edition | 131980 | [131980-lust-for-darkness-dawn-edition.json](./131980-lust-for-darkness-dawn-edition.json) |
