@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obstacles Race | 288356 | [288356-obstacles-race.json](./288356-obstacles-race.json) |
 | Obstruction | 107692 | [107692-obstruction.json](./107692-obstruction.json) |
 | Obsurity | 121322 | [121322-obsurity.json](./121322-obsurity.json) |
+| Obulis | 14856 | [14856-obulis.json](./14856-obulis.json) |
 | Obunga | 213225 | [213225-obunga.json](./213225-obunga.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
 | Ocarina of Time + Majora's Mask Crossover Randomizer | 231548 | [231548-ocarina-of-time-majoras-mask-crossover-randomizer.json](./231548-ocarina-of-time-majoras-mask-crossover-randomizer.json) |
@@ -1945,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Day | 291885 | [291885-one-more-day.json](./291885-one-more-day.json) |
 | One More Dig! | 405576 | [405576-one-more-dig.json](./405576-one-more-dig.json) |
 | One More Dream | 216981 | [216981-one-more-dream.json](./216981-one-more-dream.json) |
+| One More Dungeon | 14764 | [14764-one-more-dungeon.json](./14764-one-more-dungeon.json) |
 | One More Dungeon 2 | 157115 | [157115-one-more-dungeon-2.json](./157115-one-more-dungeon-2.json) |
 | One More Dungeon: Limited Edition | 167007 | [167007-one-more-dungeon-limited-edition.json](./167007-one-more-dungeon-limited-edition.json) |
 | One More Encounter | 298817 | [298817-one-more-encounter.json](./298817-one-more-encounter.json) |
@@ -4272,6 +4274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw Cowboy | 321511 | [321511-outlaw-cowboy.json](./321511-outlaw-cowboy.json) |
 | Outlaw Driver Simulator | 216961 | [216961-outlaw-driver-simulator.json](./216961-outlaw-driver-simulator.json) |
 | Outlaw Golf | 200896 | [200896-outlaw-golf.json](./200896-outlaw-golf.json) |
+| Outlaw Golf | 3438 | [3438-outlaw-golf.json](./3438-outlaw-golf.json) |
 | Outlaw Golf 2 | 3437 | [3437-outlaw-golf-2.json](./3437-outlaw-golf-2.json) |
 | Outlaw Golf: 9 More Holes of X-Mas | 47311 | [47311-outlaw-golf-9-more-holes-of-x-mas.json](./47311-outlaw-golf-9-more-holes-of-x-mas.json) |
 | Outlaw Golf: Holiday Golf | 78687 | [78687-outlaw-golf-holiday-golf.json](./78687-outlaw-golf-holiday-golf.json) |
