@@ -5855,6 +5855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimp Memory | 319391 | [319391-chimp-memory.json](./319391-chimp-memory.json) |
 | Chimp Quest: Spirit Isle | 277335 | [277335-chimp-quest-spirit-isle.json](./277335-chimp-quest-spirit-isle.json) |
 | Chimpact | 63851 | [63851-chimpact.json](./63851-chimpact.json) |
+| Chimpact 1: Chuck's Adventure | 31564 | [31564-chimpact-1-chucks-adventure.json](./31564-chimpact-1-chucks-adventure.json) |
 | Chimpanzini Bananini | 351093 | [351093-chimpanzini-bananini.json](./351093-chimpanzini-bananini.json) |
 | Chimparty | 103404 | [103404-chimparty.json](./103404-chimparty.json) |
 | Chimpology | 37391 | [37391-chimpology.json](./37391-chimpology.json) |
@@ -7456,6 +7457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Turbo Race | 345630 | [345630-city-turbo-race.json](./345630-city-turbo-race.json) |
 | City Turn | 311472 | [311472-city-turn.json](./311472-city-turn.json) |
 | City Tycoon | 138127 | [138127-city-tycoon.json](./138127-city-tycoon.json) |
+| City VR | 31545 | [31545-city-vr.json](./31545-city-vr.json) |
 | City Wars: Tokyo Reign | 164943 | [164943-city-wars-tokyo-reign.json](./164943-city-wars-tokyo-reign.json) |
 | City Wizard | 354766 | [354766-city-wizard.json](./354766-city-wizard.json) |
 | City Worker Simulator | 405735 | [405735-city-worker-simulator.json](./405735-city-worker-simulator.json) |
@@ -12755,6 +12757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crane Logistics Simulator | 211699 | [211699-crane-logistics-simulator.json](./211699-crane-logistics-simulator.json) |
 | Crane Quandry | 101009 | [101009-crane-quandry.json](./101009-crane-quandry.json) |
 | Cranes | 99642 | [99642-cranes.json](./99642-cranes.json) |
+| Cranga!: Harbor Frenzy | 31544 | [31544-cranga-harbor-frenzy.json](./31544-cranga-harbor-frenzy.json) |
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
 | Crank & Watch: Ball | 271689 | [271689-crank-and-watch-ball.json](./271689-crank-and-watch-ball.json) |
 | Crank & Watch: Octopus | 267964 | [267964-crank-and-watch-octopus.json](./267964-crank-and-watch-octopus.json) |
@@ -13005,6 +13008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crate Fang | 349830 | [349830-crate-fang.json](./349830-crate-fang.json) |
 | Crate Knight | 207532 | [207532-crate-knight.json](./207532-crate-knight.json) |
 | Crate Man | 61568 | [61568-crate-man.json](./61568-crate-man.json) |
+| Crate Punks | 31543 | [31543-crate-punks.json](./31543-crate-punks.json) |
 | Crate Punks: Dada is Dead | 136098 | [136098-crate-punks-dada-is-dead.json](./136098-crate-punks-dada-is-dead.json) |
 | Crate Wars | 150402 | [150402-crate-wars.json](./150402-crate-wars.json) |
 | Crategun | 176840 | [176840-crategun.json](./176840-crategun.json) |
