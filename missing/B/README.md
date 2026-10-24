@@ -759,7 +759,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9150,6 +9149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Streets | 36069 | [36069-bloody-streets.json](./36069-bloody-streets.json) |
 | Bloody Tentacles | 179532 | [179532-bloody-tentacles.json](./179532-bloody-tentacles.json) |
 | Bloody trains | 126354 | [126354-bloody-trains.json](./126354-bloody-trains.json) |
+| Bloody Trapland | 16733 | [16733-bloody-trapland.json](./16733-bloody-trapland.json) |
 | Bloody Trapland 2: Curiosity | 28003 | [28003-bloody-trapland-2-curiosity.json](./28003-bloody-trapland-2-curiosity.json) |
 | Bloody Vampire | 59209 | [59209-bloody-vampire.json](./59209-bloody-vampire.json) |
 | Bloody Walls | 31212 | [31212-bloody-walls.json](./31212-bloody-walls.json) |
@@ -10716,6 +10716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 2: Mad Moxxi and the Wedding Day Massacre | 13927 | [13927-borderlands-2-mad-moxxi-and-the-wedding-day-massacre.json](./13927-borderlands-2-mad-moxxi-and-the-wedding-day-massacre.json) |
 | Borderlands 2: Mr. Torgue's Campaign of Carnage | 13921 | [13921-borderlands-2-mr-torgues-campaign-of-carnage.json](./13921-borderlands-2-mr-torgues-campaign-of-carnage.json) |
 | Borderlands 2: Sir Hammerlock's Big Game Hunt | 13922 | [13922-borderlands-2-sir-hammerlocks-big-game-hunt.json](./13922-borderlands-2-sir-hammerlocks-big-game-hunt.json) |
+| Borderlands 2: T.K. Baha's Bloody Harvest | 13924 | [13924-borderlands-2-t-k-bahas-bloody-harvest.json](./13924-borderlands-2-t-k-bahas-bloody-harvest.json) |
 | Borderlands 2: Tiny Tina's Assault on Dragon Keep | 13923 | [13923-borderlands-2-tiny-tinas-assault-on-dragon-keep.json](./13923-borderlands-2-tiny-tinas-assault-on-dragon-keep.json) |
 | Borderlands 2: Ultimate Edition | 118740 | [118740-borderlands-2-ultimate-edition.json](./118740-borderlands-2-ultimate-edition.json) |
 | Borderlands 3: Bounty of Blood - A Fistful of Redemption | 134100 | [134100-borderlands-3-bounty-of-blood-a-fistful-of-redemption.json](./134100-borderlands-3-bounty-of-blood-a-fistful-of-redemption.json) |
