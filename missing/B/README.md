@@ -762,7 +762,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -898,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baito Fight!!: Part-time Devil Hunter | 271688 | [271688-baito-fight-part-time-devil-hunter.json](./271688-baito-fight-part-time-devil-hunter.json) |
 | Baixos de Quebrada: Mobile | 339593 | [339593-baixos-de-quebrada-mobile.json](./339593-baixos-de-quebrada-mobile.json) |
 | Baja or Bust | 259245 | [259245-baja-or-bust.json](./259245-baja-or-bust.json) |
+| Baja: Edge of Control HD | 28170 | [28170-baja-edge-of-control-hd.json](./28170-baja-edge-of-control-hd.json) |
 | Bajka | 348315 | [348315-bajka.json](./348315-bajka.json) |
 | Bajoran Mercenary Adventure! | 116807 | [116807-bajoran-mercenary-adventure.json](./116807-bajoran-mercenary-adventure.json) |
 | Baka to Test to Shoukanjuu Portable | 196714 | [196714-baka-to-test-to-shoukanjuu-portable.json](./196714-baka-to-test-to-shoukanjuu-portable.json) |
@@ -9272,6 +9272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons Super Monkey | 63400 | [63400-bloons-super-monkey.json](./63400-bloons-super-monkey.json) |
 | Bloons Super Monkey 2 | 63399 | [63399-bloons-super-monkey-2.json](./63399-bloons-super-monkey-2.json) |
 | Bloons TD | 144754 | [144754-bloons-td.json](./144754-bloons-td.json) |
+| Bloons TD 2 | 109114 | [109114-bloons-td-2.json](./109114-bloons-td-2.json) |
 | Bloons TD 3 | 109113 | [109113-bloons-td-3.json](./109113-bloons-td-3.json) |
 | Bloons TD 4 | 85511 | [85511-bloons-td-4.json](./85511-bloons-td-4.json) |
 | Bloons TD 5 | 17520 | [17520-bloons-td-5.json](./17520-bloons-td-5.json) |
@@ -13454,6 +13455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubsy Two-Fur | 33965 | [33965-bubsy-two-fur.json](./33965-bubsy-two-fur.json) |
 | Bubsy: Less Bad Edition | 393941 | [393941-bubsy-less-bad-edition.json](./393941-bubsy-less-bad-edition.json) |
 | Bubsy: Paws on Fire - Limited Edition | 166269 | [166269-bubsy-paws-on-fire-limited-edition.json](./166269-bubsy-paws-on-fire-limited-edition.json) |
+| Bubsy: Paws on Fire! | 111558 | [111558-bubsy-paws-on-fire.json](./111558-bubsy-paws-on-fire.json) |
 | Bubu Battle Royale | 402300 | [402300-bubu-battle-royale.json](./402300-bubu-battle-royale.json) |
 | Bubu Chuǎng Tōngguān | 390695 | [390695-bubu-chuang-tongguan.json](./390695-bubu-chuang-tongguan.json) |
 | Bubu Kong | 25007 | [25007-bubu-kong.json](./25007-bubu-kong.json) |
