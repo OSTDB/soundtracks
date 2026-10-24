@@ -2269,7 +2269,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -3075,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby Battle Blitz! | 278474 | [278474-kirby-battle-blitz.json](./278474-kirby-battle-blitz.json) |
 | Kirby Bowl 64 | 298858 | [298858-kirby-bowl-64.json](./298858-kirby-bowl-64.json) |
 | Kirby Family | 248070 | [248070-kirby-family.json](./248070-kirby-family.json) |
+| Kirby Fighters 2 | 139059 | [139059-kirby-fighters-2.json](./139059-kirby-fighters-2.json) |
 | Kirby Fighters 2 Memory Match-Up | 314986 | [314986-kirby-fighters-2-memory-match-up.json](./314986-kirby-fighters-2-memory-match-up.json) |
 | Kirby Fighters Deluxe | 45163 | [45163-kirby-fighters-deluxe.json](./45163-kirby-fighters-deluxe.json) |
 | Kirby for Nintendo GameCube | 185888 | [185888-kirby-for-nintendo-gamecube.json](./185888-kirby-for-nintendo-gamecube.json) |
