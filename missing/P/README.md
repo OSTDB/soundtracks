@@ -2282,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Password Manager | 401499 | [401499-password-manager.json](./401499-password-manager.json) |
 | Password Not Valid | 410949 | [410949-password-not-valid.json](./410949-password-not-valid.json) |
 | Past Apparitions | 383499 | [383499-past-apparitions.json](./383499-past-apparitions.json) |
+| Past Cure | 44116 | [44116-past-cure.json](./44116-past-cure.json) |
 | Past Due | 96232 | [96232-past-due.json](./96232-past-due.json) |
 | Past Fate | 123029 | [123029-past-fate.json](./123029-past-fate.json) |
 | Past For Future | 244110 | [244110-past-for-future.json](./244110-past-for-future.json) |
@@ -3973,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Pack Rat | 39379 | [39379-peter-pack-rat.json](./39379-peter-pack-rat.json) |
 | Peter Padder Pauleypop | 181167 | [181167-peter-padder-pauleypop.json](./181167-peter-padder-pauleypop.json) |
 | Peter Pan | 95405 | [95405-peter-pan.json](./95405-peter-pan.json) |
+| Peter Pan in Disney's Return to Never Land | 44877 | [44877-peter-pan-in-disneys-return-to-never-land.json](./44877-peter-pan-in-disneys-return-to-never-land.json) |
 | Peter Pan: A Story Painting Adventure | 327871 | [327871-peter-pan-a-story-painting-adventure.json](./327871-peter-pan-a-story-painting-adventure.json) |
 | Peter Pan: The Motion Picture Event | 49317 | [49317-peter-pan-the-motion-picture-event.json](./49317-peter-pan-the-motion-picture-event.json) |
 | Peter Pan's Playground | 98894 | [98894-peter-pans-playground.json](./98894-peter-pans-playground.json) |
@@ -6333,6 +6335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitfall: Beyond the Jungle | 49861 | [49861-pitfall-beyond-the-jungle.json](./49861-pitfall-beyond-the-jungle.json) |
 | Pitfall: The Big Adventure | 84820 | [84820-pitfall-the-big-adventure.json](./84820-pitfall-the-big-adventure.json) |
 | Pitfall: The Lost Expedition | 209384 | [209384-pitfall-the-lost-expedition.json](./209384-pitfall-the-lost-expedition.json) |
+| Pitfall: The Lost Expedition | 4070 | [4070-pitfall-the-lost-expedition.json](./4070-pitfall-the-lost-expedition.json) |
 | Pitfall: The Mayan Adventure | 5410 | [5410-pitfall-the-mayan-adventure.json](./5410-pitfall-the-mayan-adventure.json) |
 | Pitfall! | 5411 | [5411-pitfall.json](./5411-pitfall.json) |
 | Pitfalls 64 | 411707 | [411707-pitfalls-64.json](./411707-pitfalls-64.json) |
@@ -11652,6 +11655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia | 284853 | [284853-prince-of-persia.json](./284853-prince-of-persia.json) |
 | Prince of Persia : The Forgotten Sands - Limited Collector's Edition | 47459 | [47459-prince-of-persia-the-forgotten-sands-limited-collectors-edition.json](./47459-prince-of-persia-the-forgotten-sands-limited-collectors-edition.json) |
 | Prince of Persia 2: The Shadow and the Flame | 3164 | [3164-prince-of-persia-2-the-shadow-and-the-flame.json](./3164-prince-of-persia-2-the-shadow-and-the-flame.json) |
+| Prince of Persia 3D | 3165 | [3165-prince-of-persia-3d.json](./3165-prince-of-persia-3d.json) |
 | Prince of Persia CD Collection | 213263 | [213263-prince-of-persia-cd-collection.json](./213263-prince-of-persia-cd-collection.json) |
 | Prince of Persia Classic | 21797 | [21797-prince-of-persia-classic.json](./21797-prince-of-persia-classic.json) |
 | Prince of Persia Classic | 248927 | [248927-prince-of-persia-classic.json](./248927-prince-of-persia-classic.json) |
@@ -13035,6 +13039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Snaqe | 189378 | [189378-project-snaqe.json](./189378-project-snaqe.json) |
 | Project Solaris | 325449 | [325449-project-solaris.json](./325449-project-solaris.json) |
 | Project Spaghetti | 60002 | [60002-project-spaghetti.json](./60002-project-spaghetti.json) |
+| Project Spark | 2742 | [2742-project-spark.json](./2742-project-spark.json) |
 | Project Spectrum | 361889 | [361889-project-spectrum.json](./361889-project-spectrum.json) |
 | Project Speed 2 | 188681 | [188681-project-speed-2.json](./188681-project-speed-2.json) |
 | Project Speed: Njarovik | 253212 | [253212-project-speed-njarovik.json](./253212-project-speed-njarovik.json) |
@@ -13636,6 +13641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Dream | 42420 | [42420-psycho-dream.json](./42420-psycho-dream.json) |
 | Psycho Dreams | 291019 | [291019-psycho-dreams.json](./291019-psycho-dreams.json) |
 | Psycho Fear | 239734 | [239734-psycho-fear.json](./239734-psycho-fear.json) |
+| Psycho Fox | 46131 | [46131-psycho-fox.json](./46131-psycho-fox.json) |
 | Psycho Harrier | 327465 | [327465-psycho-harrier.json](./327465-psycho-harrier.json) |
 | Psycho Hopper | 83405 | [83405-psycho-hopper.json](./83405-psycho-hopper.json) |
 | Psycho Inn | 396477 | [396477-psycho-inn.json](./396477-psycho-inn.json) |
@@ -14550,6 +14556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
 | Puyo Puyo Solitare | 251503 | [251503-puyo-puyo-solitare.json](./251503-puyo-puyo-solitare.json) |
 | Puyo Puyo Sun | 250340 | [250340-puyo-puyo-sun.json](./250340-puyo-puyo-sun.json) |
+| Puyo Puyo Sun | 3578 | [3578-puyo-puyo-sun.json](./3578-puyo-puyo-sun.json) |
 | Puyo Puyo Tetris | 6866 | [6866-puyo-puyo-tetris.json](./6866-puyo-puyo-tetris.json) |
 | Puyo Puyo Tetris 2 | 137132 | [137132-puyo-puyo-tetris-2.json](./137132-puyo-puyo-tetris-2.json) |
 | Puyo Puyo Tetris 2: Launch Edition | 139944 | [139944-puyo-puyo-tetris-2-launch-edition.json](./139944-puyo-puyo-tetris-2-launch-edition.json) |
