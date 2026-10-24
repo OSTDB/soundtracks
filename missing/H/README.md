@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamtaro Card e: Ham Ham Ham-ja! Maboroshi no Princess - Gekijou Gentei Minihamuzu & Mo Hams & Ko Hams Version | 356398 | [356398-hamtaro-card-e-ham-ham-ham-ja-maboroshi-no-princess-gekijou-gentei-minihamuzu-and-mo-hams-and-ko-hams-version.json](./356398-hamtaro-card-e-ham-ham-ham-ja-maboroshi-no-princess-gekijou-gentei-minihamuzu-and-mo-hams-and-ko-hams-version.json) |
 | Hamtaro: Ham-Ham Games | 6429 | [6429-hamtaro-ham-ham-games.json](./6429-hamtaro-ham-ham-games.json) |
 | Hamtaro: Ham-Ham Heartbreak | 6428 | [6428-hamtaro-ham-ham-heartbreak.json](./6428-hamtaro-ham-ham-heartbreak.json) |
+| Hamtaro: Ham-Hams Unite! | 22228 | [22228-hamtaro-ham-hams-unite.json](./22228-hamtaro-ham-hams-unite.json) |
 | Hamtaro: Little Hamsters, Big Adventures | 63221 | [63221-hamtaro-little-hamsters-big-adventures.json](./63221-hamtaro-little-hamsters-big-adventures.json) |
 | Hamtaro: Rainbow Rescue | 6427 | [6427-hamtaro-rainbow-rescue.json](./6427-hamtaro-rainbow-rescue.json) |
 | Hamtaro: Wake Up Snoozer! | 63223 | [63223-hamtaro-wake-up-snoozer.json](./63223-hamtaro-wake-up-snoozer.json) |
@@ -2711,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: Descent of Dragons - Galakrond's Awakening | 135706 | [135706-hearthstone-descent-of-dragons-galakronds-awakening.json](./135706-hearthstone-descent-of-dragons-galakronds-awakening.json) |
 | Hearthstone: Forged in the Barrens | 143738 | [143738-hearthstone-forged-in-the-barrens.json](./143738-hearthstone-forged-in-the-barrens.json) |
 | Hearthstone: Fractured in Alterac Valley | 387383 | [387383-hearthstone-fractured-in-alterac-valley.json](./387383-hearthstone-fractured-in-alterac-valley.json) |
+| Hearthstone: Goblins vs Gnomes | 21971 | [21971-hearthstone-goblins-vs-gnomes.json](./21971-hearthstone-goblins-vs-gnomes.json) |
 | Hearthstone: Into the Emerald Dream | 322148 | [322148-hearthstone-into-the-emerald-dream.json](./322148-hearthstone-into-the-emerald-dream.json) |
 | Hearthstone: Knights of the Frozen Throne | 52016 | [52016-hearthstone-knights-of-the-frozen-throne.json](./52016-hearthstone-knights-of-the-frozen-throne.json) |
 | Hearthstone: Kobolds & Catacombs | 76152 | [76152-hearthstone-kobolds-and-catacombs.json](./76152-hearthstone-kobolds-and-catacombs.json) |
@@ -2723,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: The Boomsday Project | 105125 | [105125-hearthstone-the-boomsday-project.json](./105125-hearthstone-the-boomsday-project.json) |
 | Hearthstone: The Grand Tournament | 21973 | [21973-hearthstone-the-grand-tournament.json](./21973-hearthstone-the-grand-tournament.json) |
 | Hearthstone: The Great Dark Beyond | 322147 | [322147-hearthstone-the-great-dark-beyond.json](./322147-hearthstone-the-great-dark-beyond.json) |
+| Hearthstone: The League of Explorers | 21975 | [21975-hearthstone-the-league-of-explorers.json](./21975-hearthstone-the-league-of-explorers.json) |
 | Hearthstone: The Lost City of Un'Goro | 322149 | [322149-hearthstone-the-lost-city-of-ungoro.json](./322149-hearthstone-the-lost-city-of-ungoro.json) |
 | Hearthstone: The Witchwood | 96374 | [96374-hearthstone-the-witchwood.json](./96374-hearthstone-the-witchwood.json) |
 | Hearthstone: Titans | 256780 | [256780-hearthstone-titans.json](./256780-hearthstone-titans.json) |
@@ -2763,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts Lite | 91330 | [91330-hearts-lite.json](./91330-hearts-lite.json) |
 | Hearts of Chaos | 30492 | [30492-hearts-of-chaos.json](./30492-hearts-of-chaos.json) |
 | Hearts of Demons: Baron | 196029 | [196029-hearts-of-demons-baron.json](./196029-hearts-of-demons-baron.json) |
+| Hearts of Iron | 22227 | [22227-hearts-of-iron.json](./22227-hearts-of-iron.json) |
 | Hearts of Iron 2 Complete | 27833 | [27833-hearts-of-iron-2-complete.json](./27833-hearts-of-iron-2-complete.json) |
 | Hearts of Iron Anthology | 72283 | [72283-hearts-of-iron-anthology.json](./72283-hearts-of-iron-anthology.json) |
 | Hearts of Iron II: Armageddon | 10398 | [10398-hearts-of-iron-ii-armageddon.json](./10398-hearts-of-iron-ii-armageddon.json) |
@@ -3108,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Héjīn Zǐdàn | 414116 | [414116-hejin-zidan.json](./414116-hejin-zidan.json) |
 | Heka | 190098 | [190098-heka.json](./190098-heka.json) |
 | Hekaba | 363011 | [363011-hekaba.json](./363011-hekaba.json) |
+| Hektor | 22673 | [22673-hektor.json](./22673-hektor.json) |
 | Hela: Of Mice & Magic | 314449 | [314449-hela-of-mice-and-magic.json](./314449-hela-of-mice-and-magic.json) |
 | Helam: A Stripling Warrior Quest | 65468 | [65468-helam-a-stripling-warrior-quest.json](./65468-helam-a-stripling-warrior-quest.json) |
 | Helbreath | 307147 | [307147-helbreath.json](./307147-helbreath.json) |
