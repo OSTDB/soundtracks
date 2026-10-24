@@ -3364,6 +3364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewd Mod XXXmas | 358636 | [358636-lewd-mod-xxxmas.json](./358636-lewd-mod-xxxmas.json) |
 | Lewd Mod: Noir | 356876 | [356876-lewd-mod-noir.json](./356876-lewd-mod-noir.json) |
 | Lewd Puzzle | 368111 | [368111-lewd-puzzle.json](./368111-lewd-puzzle.json) |
+| Lewdapocalypse Hentai Evil | 143714 | [143714-lewdapocalypse-hentai-evil.json](./143714-lewdapocalypse-hentai-evil.json) |
 | LewDemon Academy: Student Council President Ayaka's RPG Struggle | 82675 | [82675-lewdemon-academy-student-council-president-ayakas-rpg-struggle.json](./82675-lewdemon-academy-student-council-president-ayakas-rpg-struggle.json) |
 | Lewdle | 197867 | [197867-lewdle.json](./197867-lewdle.json) |
 | LewdQuest | 149433 | [149433-lewdquest.json](./149433-lewdquest.json) |
