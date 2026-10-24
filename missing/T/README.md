@@ -5472,6 +5472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Three | 79561 | [79561-the-book-of-three.json](./79561-the-book-of-three.json) |
 | The Book of Unwritten Tales 2: Almanac Edition | 51703 | [51703-the-book-of-unwritten-tales-2-almanac-edition.json](./51703-the-book-of-unwritten-tales-2-almanac-edition.json) |
 | The Book of Unwritten Tales Collection | 53712 | [53712-the-book-of-unwritten-tales-collection.json](./53712-the-book-of-unwritten-tales-collection.json) |
+| The Book of Unwritten Tales: The Critter Chronicles | 7661 | [7661-the-book-of-unwritten-tales-the-critter-chronicles.json](./7661-the-book-of-unwritten-tales-the-critter-chronicles.json) |
 | The Book of Warriors | 250259 | [250259-the-book-of-warriors.json](./250259-the-book-of-warriors.json) |
 | The Book of Weapons | 197360 | [197360-the-book-of-weapons.json](./197360-the-book-of-weapons.json) |
 | The Book of Yorle: Save the Countryside | 174154 | [174154-the-book-of-yorle-save-the-countryside.json](./174154-the-book-of-yorle-save-the-countryside.json) |
