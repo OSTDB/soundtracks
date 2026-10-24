@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhedz | 283124 | [283124-warhedz.json](./283124-warhedz.json) |
 | Warhound | 378158 | [378158-warhound.json](./378158-warhound.json) |
 | Wario and the Tower of Garlic | 399080 | [399080-wario-and-the-tower-of-garlic.json](./399080-wario-and-the-tower-of-garlic.json) |
+| Wario Blast: Featuring Bomberman! | 1713 | [1713-wario-blast-featuring-bomberman.json](./1713-wario-blast-featuring-bomberman.json) |
 | Wario Date | 252824 | [252824-wario-date.json](./252824-wario-date.json) |
 | Wario Destroys A Glass of Milk | 307407 | [307407-wario-destroys-a-glass-of-milk.json](./307407-wario-destroys-a-glass-of-milk.json) |
 | Wario Eats Everything | 318028 | [318028-wario-eats-everything.json](./318028-wario-eats-everything.json) |
@@ -2831,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolf: The Apocalypse - Earthblood Champion of Gaia Edition | 198092 | [198092-werewolf-the-apocalypse-earthblood-champion-of-gaia-edition.json](./198092-werewolf-the-apocalypse-earthblood-champion-of-gaia-edition.json) |
 | Werewolf: The Apocalypse - Earthblood Champion of Gaia Pack | 149967 | [149967-werewolf-the-apocalypse-earthblood-champion-of-gaia-pack.json](./149967-werewolf-the-apocalypse-earthblood-champion-of-gaia-pack.json) |
 | Werewolf: The Apocalypse - Earthblood: The Exiled One | 146174 | [146174-werewolf-the-apocalypse-earthblood-the-exiled-one.json](./146174-werewolf-the-apocalypse-earthblood-the-exiled-one.json) |
+| Werewolf: The Apocalypse - Heart of the Forest | 134821 | [134821-werewolf-the-apocalypse-heart-of-the-forest.json](./134821-werewolf-the-apocalypse-heart-of-the-forest.json) |
 | Werewolf: The Apocalypse - Purgatory | 302808 | [302808-werewolf-the-apocalypse-purgatory.json](./302808-werewolf-the-apocalypse-purgatory.json) |
 | Werewolf: The Gloaming Malice | 408095 | [408095-werewolf-the-gloaming-malice.json](./408095-werewolf-the-gloaming-malice.json) |
 | Werewolf: The Inner Beast | 390099 | [390099-werewolf-the-inner-beast.json](./390099-werewolf-the-inner-beast.json) |
