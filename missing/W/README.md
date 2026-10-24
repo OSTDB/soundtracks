@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Survival | 371250 | [371250-war-survival.json](./371250-war-survival.json) |
 | War Tank Combat | 149382 | [149382-war-tank-combat.json](./149382-war-tank-combat.json) |
 | War Tanks | 203923 | [203923-war-tanks.json](./203923-war-tanks.json) |
+| War Tech Fighters | 37037 | [37037-war-tech-fighters.json](./37037-war-tech-fighters.json) |
 | War Theatre | 76870 | [76870-war-theatre.json](./76870-war-theatre.json) |
 | War Theatre: Blood of Winter | 123944 | [123944-war-theatre-blood-of-winter.json](./123944-war-theatre-blood-of-winter.json) |
 | War Theatre: Blood of Winter - Beak and Talon | 172187 | [172187-war-theatre-blood-of-winter-beak-and-talon.json](./172187-war-theatre-blood-of-winter-beak-and-talon.json) |
@@ -2430,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We’re In Trouble | 405340 | [405340-we-re-in-trouble.json](./405340-we-re-in-trouble.json) |
 | We're Tethered Together | 269195 | [269195-were-tethered-together.json](./269195-were-tethered-together.json) |
 | We'reWolves | 270645 | [270645-werewolves.json](./270645-werewolves.json) |
+| Weable | 54467 | [54467-weable.json](./54467-weable.json) |
 | Weable 2 | 83816 | [83816-weable-2.json](./83816-weable-2.json) |
 | Weabot | 395788 | [395788-weabot.json](./395788-weabot.json) |
 | Weak Soul | 247741 | [247741-weak-soul.json](./247741-weak-soul.json) |
@@ -2639,6 +2641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Park: Broken Tune | 53130 | [53130-weird-park-broken-tune.json](./53130-weird-park-broken-tune.json) |
 | Weird Park: Broken Tune - Collector's Edition | 53129 | [53129-weird-park-broken-tune-collectors-edition.json](./53129-weird-park-broken-tune-collectors-edition.json) |
 | Weird Park: Scary Tales | 53128 | [53128-weird-park-scary-tales.json](./53128-weird-park-scary-tales.json) |
+| Weird Park: The Final Show | 53127 | [53127-weird-park-the-final-show.json](./53127-weird-park-the-final-show.json) |
 | Weird Pizza Dreams | 323344 | [323344-weird-pizza-dreams.json](./323344-weird-pizza-dreams.json) |
 | Weird Rituals in the Ancient Temples | 98403 | [98403-weird-rituals-in-the-ancient-temples.json](./98403-weird-rituals-in-the-ancient-temples.json) |
 | Weird RPG | 219144 | [219144-weird-rpg.json](./219144-weird-rpg.json) |
@@ -2921,6 +2924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westlife: Fan-O-Mania | 91892 | [91892-westlife-fan-o-mania.json](./91892-westlife-fan-o-mania.json) |
 | Westmark Manor | 131303 | [131303-westmark-manor.json](./131303-westmark-manor.json) |
 | WestQuest for Playdate! | 264557 | [264557-westquest-for-playdate.json](./264557-westquest-for-playdate.json) |
+| WestSlingers | 53313 | [53313-westslingers.json](./53313-westslingers.json) |
 | Westurn | 209460 | [209460-westurn.json](./209460-westurn.json) |
 | Westward | 7503 | [7503-westward.json](./7503-westward.json) |
 | Westward 3 | 7530 | [7530-westward-3.json](./7530-westward-3.json) |
@@ -3241,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -5266,6 +5271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witching Tower | 90121 | [90121-witching-tower.json](./90121-witching-tower.json) |
 | Witching Tower: Heroes | 132252 | [132252-witching-tower-heroes.json](./132252-witching-tower-heroes.json) |
 | Witching Well | 304010 | [304010-witching-well.json](./304010-witching-well.json) |
+| Witchkin | 52271 | [52271-witchkin.json](./52271-witchkin.json) |
 | Witchlight | 348808 | [348808-witchlight.json](./348808-witchlight.json) |
 | Witchling Grove | 384088 | [384088-witchling-grove.json](./384088-witchling-grove.json) |
 | Witchmarsh | 61527 | [61527-witchmarsh.json](./61527-witchmarsh.json) |
@@ -5946,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodland Saga | 136727 | [136727-woodland-saga.json](./136727-woodland-saga.json) |
 | Woodland Town | 264518 | [264518-woodland-town.json](./264518-woodland-town.json) |
 | Woodland Walker | 228931 | [228931-woodland-walker.json](./228931-woodland-walker.json) |
+| Woodlands | 37022 | [37022-woodlands.json](./37022-woodlands.json) |
 | Woodlands Junior School Pokemon Journey | 307346 | [307346-woodlands-junior-school-pokemon-journey.json](./307346-woodlands-junior-school-pokemon-journey.json) |
 | Woodlands National Park | 312546 | [312546-woodlands-national-park.json](./312546-woodlands-national-park.json) |
 | Woodle Deluxe | 143631 | [143631-woodle-deluxe.json](./143631-woodle-deluxe.json) |
