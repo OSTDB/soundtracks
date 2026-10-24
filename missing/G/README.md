@@ -5778,6 +5778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goosebumps: HorrorLand | 43301 | [43301-goosebumps-horrorland.json](./43301-goosebumps-horrorland.json) |
 | Goosebumps: Terror in Little Creek | 350211 | [350211-goosebumps-terror-in-little-creek.json](./350211-goosebumps-terror-in-little-creek.json) |
 | Goosebumps: Terror in Little Creek - Frightmare Edition | 358668 | [358668-goosebumps-terror-in-little-creek-frightmare-edition.json](./358668-goosebumps-terror-in-little-creek-frightmare-edition.json) |
+| Goosebumps: The Game | 23472 | [23472-goosebumps-the-game.json](./23472-goosebumps-the-game.json) |
 | GooseGame.io | 327946 | [327946-goosegame-io.json](./327946-goosegame-io.json) |
 | GooseGogs | 92290 | [92290-goosegogs.json](./92290-goosegogs.json) |
 | Goospace | 240812 | [240812-goospace.json](./240812-goospace.json) |
