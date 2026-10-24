@@ -760,7 +760,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7493,6 +7492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackguards: Untold Legends | 11105 | [11105-blackguards-untold-legends.json](./11105-blackguards-untold-legends.json) |
 | Blackhaven | 160683 | [160683-blackhaven.json](./160683-blackhaven.json) |
 | Blackheart | 249897 | [249897-blackheart.json](./249897-blackheart.json) |
+| Blackhole | 13220 | [13220-blackhole.json](./13220-blackhole.json) |
 | Blackhole Maker | 384859 | [384859-blackhole-maker.json](./384859-blackhole-maker.json) |
 | Blackhole on the Road | 269047 | [269047-blackhole-on-the-road.json](./269047-blackhole-on-the-road.json) |
 | Blackhole Simulator | 333385 | [333385-blackhole-simulator.json](./333385-blackhole-simulator.json) |
@@ -7674,6 +7674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade of Agony | 146593 | [146593-blade-of-agony.json](./146593-blade-of-agony.json) |
 | Blade of Chaos | 361454 | [361454-blade-of-chaos.json](./361454-blade-of-chaos.json) |
 | Blade of Chaos: Immortal Titan | 224093 | [224093-blade-of-chaos-immortal-titan.json](./224093-blade-of-chaos-immortal-titan.json) |
+| Blade of Darkness | 173433 | [173433-blade-of-darkness.json](./173433-blade-of-darkness.json) |
 | Blade of Darkness | 234658 | [234658-blade-of-darkness.json](./234658-blade-of-darkness.json) |
 | Blade of Darkness | 264484 | [264484-blade-of-darkness.json](./264484-blade-of-darkness.json) |
 | Blade of Dawn | 322361 | [322361-blade-of-dawn.json](./322361-blade-of-dawn.json) |
@@ -10780,6 +10781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands: The Pre-Sequel - Claptastic Voyage | 13919 | [13919-borderlands-the-pre-sequel-claptastic-voyage.json](./13919-borderlands-the-pre-sequel-claptastic-voyage.json) |
 | Borderlands: The Pre-Sequel - Handsome Jack Doppelganger | 186629 | [186629-borderlands-the-pre-sequel-handsome-jack-doppelganger.json](./186629-borderlands-the-pre-sequel-handsome-jack-doppelganger.json) |
 | Borderlands: The Pre-Sequel - Shock Drop Slaughter Pit | 13917 | [13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json](./13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json) |
+| Borderlands: The Pre-Sequel - The Holodome Onslaught | 13918 | [13918-borderlands-the-pre-sequel-the-holodome-onslaught.json](./13918-borderlands-the-pre-sequel-the-holodome-onslaught.json) |
 | Borderlands: The Secret Armory of General Knoxx | 13915 | [13915-borderlands-the-secret-armory-of-general-knoxx.json](./13915-borderlands-the-secret-armory-of-general-knoxx.json) |
 | Borderlands: The Zombie Island of Dr. Ned | 13913 | [13913-borderlands-the-zombie-island-of-dr-ned.json](./13913-borderlands-the-zombie-island-of-dr-ned.json) |
 | Borderlight | 115808 | [115808-borderlight.json](./115808-borderlight.json) |
@@ -11764,6 +11766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brake or Break | 114716 | [114716-brake-or-break.json](./114716-brake-or-break.json) |
 | Brake to Die | 100844 | [100844-brake-to-die.json](./100844-brake-to-die.json) |
 | Bram Stoker's Dracula | 14339 | [14339-bram-stokers-dracula.json](./14339-bram-stokers-dracula.json) |
+| Bram Stoker's Dracula | 14340 | [14340-bram-stokers-dracula.json](./14340-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 14341 | [14341-bram-stokers-dracula.json](./14341-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 14342 | [14342-bram-stokers-dracula.json](./14342-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 5366 | [5366-bram-stokers-dracula.json](./5366-bram-stokers-dracula.json) |
