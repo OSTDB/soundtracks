@@ -8254,6 +8254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Commander: King's Gambit | 209563 | [209563-fort-commander-kings-gambit.json](./209563-fort-commander-kings-gambit.json) |
 | Fort Craft | 160226 | [160226-fort-craft.json](./160226-fort-craft.json) |
 | Fort Defenders Saga | 87227 | [87227-fort-defenders-saga.json](./87227-fort-defenders-saga.json) |
+| Fort Defense | 24043 | [24043-fort-defense.json](./24043-fort-defense.json) |
 | Fort Defense, Fort Defense North Menace & DayD Tower Rush | 99792 | [99792-fort-defense-fort-defense-north-menace-and-dayd-tower-rush.json](./99792-fort-defense-fort-defense-north-menace-and-dayd-tower-rush.json) |
 | Fort Defense: Complete Edition | 53064 | [53064-fort-defense-complete-edition.json](./53064-fort-defense-complete-edition.json) |
 | Fort Defense: North Menace | 62011 | [62011-fort-defense-north-menace.json](./62011-fort-defense-north-menace.json) |
