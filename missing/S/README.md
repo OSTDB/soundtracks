@@ -2558,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sclera | 267256 | [267256-sclera.json](./267256-sclera.json) |
 | Scoober Splat! | 151165 | [151165-scoober-splat.json](./151165-scoober-splat.json) |
 | Scooby Doc 4: The Destroyer | 356757 | [356757-scooby-doc-4-the-destroyer.json](./356757-scooby-doc-4-the-destroyer.json) |
+| Scooby Doo 2: Monsters Unleashed | 49184 | [49184-scooby-doo-2-monsters-unleashed.json](./49184-scooby-doo-2-monsters-unleashed.json) |
 | Scooby Doo: Horror of the High Seas - Episode 1: The Ghost Pirate Attacks | 337129 | [337129-scooby-doo-horror-of-the-high-seas-episode-1-the-ghost-pirate-attacks.json](./337129-scooby-doo-horror-of-the-high-seas-episode-1-the-ghost-pirate-attacks.json) |
 | Scooby Doo: Horror of the High Seas - Episode 2: Neptune's Nest | 337130 | [337130-scooby-doo-horror-of-the-high-seas-episode-2-neptunes-nest.json](./337130-scooby-doo-horror-of-the-high-seas-episode-2-neptunes-nest.json) |
 | Scooby Doo: Horror of the High Seas - Episode 3: Reef Relief | 337126 | [337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json](./337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json) |
@@ -6644,6 +6645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shimono Masaki no Fishing to Bassing | 38253 | [38253-shimono-masaki-no-fishing-to-bassing.json](./38253-shimono-masaki-no-fishing-to-bassing.json) |
 | Shimura Ken no Bakatono-sama: Bakushou Tenka Touitsu Game | 49779 | [49779-shimura-ken-no-bakatono-sama-bakushou-tenka-touitsu-game.json](./49779-shimura-ken-no-bakatono-sama-bakushou-tenka-touitsu-game.json) |
 | Shin Bakusou Dekotora Densetsu | 60414 | [60414-shin-bakusou-dekotora-densetsu.json](./60414-shin-bakusou-dekotora-densetsu.json) |
+| Shin Bokura no Taiyou: Gyakushuu no Sabata | 49418 | [49418-shin-bokura-no-taiyou-gyakushuu-no-sabata.json](./49418-shin-bokura-no-taiyou-gyakushuu-no-sabata.json) |
 | Shin Egokoro Kyoushitsu | 141122 | [141122-shin-egokoro-kyoushitsu.json](./141122-shin-egokoro-kyoushitsu.json) |
 | Shin Era Tensei | 365818 | [365818-shin-era-tensei.json](./365818-shin-era-tensei.json) |
 | Shin Fangame Tensei | 386549 | [386549-shin-fangame-tensei.json](./386549-shin-fangame-tensei.json) |
@@ -28661,6 +28663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Last Recollection - Digital Premium Edition | 271473 | [271473-sword-art-online-last-recollection-digital-premium-edition.json](./271473-sword-art-online-last-recollection-digital-premium-edition.json) |
 | Sword Art Online: Lost Song | 11842 | [11842-sword-art-online-lost-song.json](./11842-sword-art-online-lost-song.json) |
 | Sword Art Online: Lost Song - Limited Edition | 313299 | [313299-sword-art-online-lost-song-limited-edition.json](./313299-sword-art-online-lost-song-limited-edition.json) |
+| Sword Art Online: Memory Defrag | 25650 | [25650-sword-art-online-memory-defrag.json](./25650-sword-art-online-memory-defrag.json) |
 | Sword Art Online: Unleash Blading | 318998 | [318998-sword-art-online-unleash-blading.json](./318998-sword-art-online-unleash-blading.json) |
 | Sword Art Online: Variant Showdown | 196564 | [196564-sword-art-online-variant-showdown.json](./196564-sword-art-online-variant-showdown.json) |
 | Sword Boy | 183783 | [183783-sword-boy.json](./183783-sword-boy.json) |
