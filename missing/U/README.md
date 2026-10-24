@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uchuu Daisakusen Choco Vader: Uchuu Kara No Shinryakusha | 158987 | [158987-uchuu-daisakusen-choco-vader-uchuu-kara-no-shinryakusha.json](./158987-uchuu-daisakusen-choco-vader-uchuu-kara-no-shinryakusha.json) |
 | Uchuu Keibitai SDF | 48560 | [48560-uchuu-keibitai-sdf.json](./48560-uchuu-keibitai-sdf.json) |
 | Uchuu no Kishi: Tekkaman Blade | 68070 | [68070-uchuu-no-kishi-tekkaman-blade.json](./68070-uchuu-no-kishi-tekkaman-blade.json) |
+| Uchuu Race: Astro Go! Go! | 42353 | [42353-uchuu-race-astro-go-go.json](./42353-uchuu-race-astro-go-go.json) |
 | Uchuu Senkan Yamato | 255870 | [255870-uchuu-senkan-yamato.json](./255870-uchuu-senkan-yamato.json) |
 | Uchuu Senkan Yamato | 255875 | [255875-uchuu-senkan-yamato.json](./255875-uchuu-senkan-yamato.json) |
 | Uchuu Senkan Yamato | 255876 | [255876-uchuu-senkan-yamato.json](./255876-uchuu-senkan-yamato.json) |
@@ -711,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Kaiju: Battle Breeders | 223965 | [223965-ultra-kaiju-battle-breeders.json](./223965-ultra-kaiju-battle-breeders.json) |
 | Ultra Keibitai: Monster Attack | 413184 | [413184-ultra-keibitai-monster-attack.json](./413184-ultra-keibitai-monster-attack.json) |
 | Ultra Kingdoms | 410865 | [410865-ultra-kingdoms.json](./410865-ultra-kingdoms.json) |
+| Ultra League: Moero! Soccer Daikessen!! | 42354 | [42354-ultra-league-moero-soccer-daikessen.json](./42354-ultra-league-moero-soccer-daikessen.json) |
 | Ultra LMAD | 231320 | [231320-ultra-lmad.json](./231320-ultra-lmad.json) |
 | Ultra Mega Cats | 217344 | [217344-ultra-mega-cats.json](./217344-ultra-mega-cats.json) |
 | Ultra Mega Dungeon 64 | 397662 | [397662-ultra-mega-dungeon-64.json](./397662-ultra-mega-dungeon-64.json) |
