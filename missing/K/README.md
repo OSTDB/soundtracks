@@ -2498,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Defense: Merge TD | 239046 | [239046-king-of-defense-merge-td.json](./239046-king-of-defense-merge-td.json) |
 | King of Dirt | 29574 | [29574-king-of-dirt.json](./29574-king-of-dirt.json) |
 | King of Dragon Balls | 120735 | [120735-king-of-dragon-balls.json](./120735-king-of-dragon-balls.json) |
+| King of Dragon Pass | 7636 | [7636-king-of-dragon-pass.json](./7636-king-of-dragon-pass.json) |
 | King of Drop | 245052 | [245052-king-of-drop.json](./245052-king-of-drop.json) |
 | King of Egypt GX | 117428 | [117428-king-of-egypt-gx.json](./117428-king-of-egypt-gx.json) |
 | King of Fighters '95, The: Special Item Box | 75461 | [75461-king-of-fighters-95-the-special-item-box.json](./75461-king-of-fighters-95-the-special-item-box.json) |
