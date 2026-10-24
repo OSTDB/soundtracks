@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenduko | 64220 | [64220-zenduko.json](./64220-zenduko.json) |
 | Zenerchi | 16075 | [16075-zenerchi.json](./16075-zenerchi.json) |
 | Zenethics Lab : Outbreak | 54889 | [54889-zenethics-lab-outbreak.json](./54889-zenethics-lab-outbreak.json) |
+| Zenfar Battlegrounds | 25401 | [25401-zenfar-battlegrounds.json](./25401-zenfar-battlegrounds.json) |
 | Zenfar: The Adventure | 73599 | [73599-zenfar-the-adventure.json](./73599-zenfar-the-adventure.json) |
 | ZenFire | 292268 | [292268-zenfire.json](./292268-zenfire.json) |
 | Zenfit | 240183 | [240183-zenfit.json](./240183-zenfit.json) |
