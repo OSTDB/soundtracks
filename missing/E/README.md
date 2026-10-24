@@ -5270,6 +5270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve of Destruction | 290946 | [290946-eve-of-destruction.json](./290946-eve-of-destruction.json) |
 | Eve of the Genesis | 38500 | [38500-eve-of-the-genesis.json](./38500-eve-of-the-genesis.json) |
 | Eve of the Storm | 265558 | [265558-eve-of-the-storm.json](./265558-eve-of-the-storm.json) |
+| Eve Online | 2584 | [2584-eve-online.json](./2584-eve-online.json) |
 | Eve Online: Apocrypha | 329789 | [329789-eve-online-apocrypha.json](./329789-eve-online-apocrypha.json) |
 | Eve Online: Ascension | 329910 | [329910-eve-online-ascension.json](./329910-eve-online-ascension.json) |
 | Eve Online: Citadel | 329907 | [329907-eve-online-citadel.json](./329907-eve-online-citadel.json) |
