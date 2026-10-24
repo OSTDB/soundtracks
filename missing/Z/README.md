@@ -1802,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Time | 369685 | [369685-zoo-time.json](./369685-zoo-time.json) |
 | Zoo Transport | 270597 | [270597-zoo-transport.json](./270597-zoo-transport.json) |
 | Zoo Tycoon | 18538 | [18538-zoo-tycoon.json](./18538-zoo-tycoon.json) |
+| Zoo Tycoon | 334 | [334-zoo-tycoon.json](./334-zoo-tycoon.json) |
 | Zoo Tycoon 2 DS | 20773 | [20773-zoo-tycoon-2-ds.json](./20773-zoo-tycoon-2-ds.json) |
 | Zoo Tycoon 2: African Adventure | 70116 | [70116-zoo-tycoon-2-african-adventure.json](./70116-zoo-tycoon-2-african-adventure.json) |
 | Zoo Tycoon 2: Arabian Nights | 378442 | [378442-zoo-tycoon-2-arabian-nights.json](./378442-zoo-tycoon-2-arabian-nights.json) |
