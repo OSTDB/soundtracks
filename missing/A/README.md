@@ -7902,6 +7902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Cove: Match 3 Adventure | 108854 | [108854-animal-cove-match-3-adventure.json](./108854-animal-cove-match-3-adventure.json) |
 | Animal Cove: Solve Puzzles & Customize Your Island | 108736 | [108736-animal-cove-solve-puzzles-and-customize-your-island.json](./108736-animal-cove-solve-puzzles-and-customize-your-island.json) |
 | Animal Crackers | 177567 | [177567-animal-crackers.json](./177567-animal-crackers.json) |
+| Animal Crossing | 2655 | [2655-animal-crossing.json](./2655-animal-crossing.json) |
 | Animal Crossing Deluxe | 357452 | [357452-animal-crossing-deluxe.json](./357452-animal-crossing-deluxe.json) |
 | Animal Crossing Neighborhood | 323890 | [323890-animal-crossing-neighborhood.json](./323890-animal-crossing-neighborhood.json) |
 | Animal Crossing Plaza | 61463 | [61463-animal-crossing-plaza.json](./61463-animal-crossing-plaza.json) |
@@ -13699,6 +13700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audioshield | 18981 | [18981-audioshield.json](./18981-audioshield.json) |
 | Audioship | 47137 | [47137-audioship.json](./47137-audioship.json) |
 | Audiospeed | 415896 | [415896-audiospeed.json](./415896-audiospeed.json) |
+| Audiosurf | 2956 | [2956-audiosurf.json](./2956-audiosurf.json) |
 | Audiosurf 2 | 9707 | [9707-audiosurf-2.json](./9707-audiosurf-2.json) |
 | AudioWizards | 129054 | [129054-audiowizards.json](./129054-audiowizards.json) |
 | Audition 2 | 135805 | [135805-audition-2.json](./135805-audition-2.json) |
