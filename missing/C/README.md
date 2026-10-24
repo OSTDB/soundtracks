@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | California Games II | 263902 | [263902-california-games-ii.json](./263902-california-games-ii.json) |
 | California Games II | 263904 | [263904-california-games-ii.json](./263904-california-games-ii.json) |
 | California Games II | 263906 | [263906-california-games-ii.json](./263906-california-games-ii.json) |
+| California Gold Rush | 23271 | [23271-california-gold-rush.json](./23271-california-gold-rush.json) |
 | California Speed | 3335 | [3335-california-speed.json](./3335-california-speed.json) |
 | California Surfing | 278856 | [278856-california-surfing.json](./278856-california-surfing.json) |
 | California Swingers Club: Season 1 - Sea Swap | 289850 | [289850-california-swingers-club-season-1-sea-swap.json](./289850-california-swingers-club-season-1-sea-swap.json) |
@@ -3678,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cattopia | 351421 | [351421-cattopia.json](./351421-cattopia.json) |
 | CatTrio | 320615 | [320615-cattrio.json](./320615-cattrio.json) |
 | CatTris | 332968 | [332968-cattris.json](./332968-cattris.json) |
+| CatTroid: Among Humans | 23277 | [23277-cattroid-among-humans.json](./23277-cattroid-among-humans.json) |
 | Catty & Batty: The Spirit Guide | 143470 | [143470-catty-and-batty-the-spirit-guide.json](./143470-catty-and-batty-the-spirit-guide.json) |
 | Catty Battle | 129816 | [129816-catty-battle.json](./129816-catty-battle.json) |
 | Catty Cathy | 281982 | [281982-catty-cathy.json](./281982-catty-cathy.json) |
@@ -5158,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chemical Plant Worker Simulator | 364712 | [364712-chemical-plant-worker-simulator.json](./364712-chemical-plant-worker-simulator.json) |
 | Chemical Sort | 260538 | [260538-chemical-sort.json](./260538-chemical-sort.json) |
 | Chemically Bonded | 105131 | [105131-chemically-bonded.json](./105131-chemically-bonded.json) |
+| Chemicus: Journey to the Other Side | 23249 | [23249-chemicus-journey-to-the-other-side.json](./23249-chemicus-journey-to-the-other-side.json) |
 | Chemist Tycoon | 66959 | [66959-chemist-tycoon.json](./66959-chemist-tycoon.json) |
 | Chemist Wanted | 311211 | [311211-chemist-wanted.json](./311211-chemist-wanted.json) |
 | Chemistower | 342864 | [342864-chemistower.json](./342864-chemistower.json) |
@@ -14852,6 +14855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Defenders | 21207 | [21207-crystal-defenders.json](./21207-crystal-defenders.json) |
 | Crystal Defenders R1 | 21126 | [21126-crystal-defenders-r1.json](./21126-crystal-defenders-r1.json) |
 | Crystal Defenders R2 | 21133 | [21133-crystal-defenders-r2.json](./21133-crystal-defenders-r2.json) |
+| Crystal Defenders: Vanguard Storm | 23265 | [23265-crystal-defenders-vanguard-storm.json](./23265-crystal-defenders-vanguard-storm.json) |
 | Crystal Defense | 120683 | [120683-crystal-defense.json](./120683-crystal-defense.json) |
 | Crystal Dragon | 12019 | [12019-crystal-dragon.json](./12019-crystal-dragon.json) |
 | Crystal Edge: Retribution | 394898 | [394898-crystal-edge-retribution.json](./394898-crystal-edge-retribution.json) |
