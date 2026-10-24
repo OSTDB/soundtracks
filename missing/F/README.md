@@ -4663,6 +4663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Ball | 161775 | [161775-fire-ball.json](./161775-fire-ball.json) |
 | Fire Ball | 40136 | [40136-fire-ball.json](./40136-fire-ball.json) |
 | Fire Bam | 41267 | [41267-fire-bam.json](./41267-fire-bam.json) |
+| Fire Birds | 2244 | [2244-fire-birds.json](./2244-fire-birds.json) |
 | Fire Blade | 3916 | [3916-fire-blade.json](./3916-fire-blade.json) |
 | Fire Boat | 106471 | [106471-fire-boat.json](./106471-fire-boat.json) |
 | Fire Breathers | 243935 | [243935-fire-breathers.json](./243935-fire-breathers.json) |
