@@ -8551,6 +8551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms: Legend of Shu Han | 305625 | [305625-romance-of-the-three-kingdoms-legend-of-shu-han.json](./305625-romance-of-the-three-kingdoms-legend-of-shu-han.json) |
 | Romancelvania: Deluxe Edition | 241314 | [241314-romancelvania-deluxe-edition.json](./241314-romancelvania-deluxe-edition.json) |
 | Romancia: Another Legend | 71968 | [71968-romancia-another-legend.json](./71968-romancia-another-legend.json) |
+| Romancia: Dragon Slayer Jr. | 41727 | [41727-romancia-dragon-slayer-jr.json](./41727-romancia-dragon-slayer-jr.json) |
 | Romancing Flesh | 199074 | [199074-romancing-flesh.json](./199074-romancing-flesh.json) |
 | Romancing Mario | 268107 | [268107-romancing-mario.json](./268107-romancing-mario.json) |
 | Romancing Monarchy | 105137 | [105137-romancing-monarchy.json](./105137-romancing-monarchy.json) |
