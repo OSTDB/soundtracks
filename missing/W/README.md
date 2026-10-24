@@ -5808,6 +5808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderstructs | 414612 | [414612-wonderstructs.json](./414612-wonderstructs.json) |
 | WonderWorld | 221640 | [221640-wonderworld.json](./221640-wonderworld.json) |
 | Wonderworld Amusement Park | 47968 | [47968-wonderworld-amusement-park.json](./47968-wonderworld-amusement-park.json) |
+| Wondrous Magic | 42352 | [42352-wondrous-magic.json](./42352-wondrous-magic.json) |
 | Wong | 390115 | [390115-wong.json](./390115-wong.json) |
 | Wongo | 57073 | [57073-wongo.json](./57073-wongo.json) |
 | Wonhon: A Vengeful Spirit | 132239 | [132239-wonhon-a-vengeful-spirit.json](./132239-wonhon-a-vengeful-spirit.json) |
