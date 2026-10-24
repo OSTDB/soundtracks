@@ -698,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Simulator | 265612 | [265612-rage-simulator.json](./265612-rage-simulator.json) |
 | Rage Tower | 355033 | [355033-rage-tower.json](./355033-rage-tower.json) |
 | Rage Wars | 30564 | [30564-rage-wars.json](./30564-rage-wars.json) |
+| Rage: Anarchy Edition | 43033 | [43033-rage-anarchy-edition.json](./43033-rage-anarchy-edition.json) |
 | Rage: The Scorchers | 10751 | [10751-rage-the-scorchers.json](./10751-rage-the-scorchers.json) |
 | Rageball | 43894 | [43894-rageball.json](./43894-rageball.json) |
 | Rageball League | 174754 | [174754-rageball-league.json](./174754-rageball-league.json) |
@@ -4532,6 +4533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resist Resist Resist | 299153 | [299153-resist-resist-resist.json](./299153-resist-resist-resist.json) |
 | Resistance | 172166 | [172166-resistance.json](./172166-resistance.json) |
 | Resistance 2 | 3205 | [3205-resistance-2.json](./3205-resistance-2.json) |
+| Resistance 2: Collector's Edition | 43041 | [43041-resistance-2-collectors-edition.json](./43041-resistance-2-collectors-edition.json) |
 | Resistance 204X | 202636 | [202636-resistance-204x.json](./202636-resistance-204x.json) |
 | Resistance and Liberation | 46657 | [46657-resistance-and-liberation.json](./46657-resistance-and-liberation.json) |
 | Resistance Collection | 45291 | [45291-resistance-collection.json](./45291-resistance-collection.json) |
