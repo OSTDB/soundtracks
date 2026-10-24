@@ -9856,6 +9856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comanche: Maximum Overkill | 7494 | [7494-comanche-maximum-overkill.json](./7494-comanche-maximum-overkill.json) |
 | Comanche: Maximum Overkill - Mission Disk 1 | 94240 | [94240-comanche-maximum-overkill-mission-disk-1.json](./94240-comanche-maximum-overkill-mission-disk-1.json) |
 | Comanche: Maximum Overkill - Over the Edge | 70320 | [70320-comanche-maximum-overkill-over-the-edge.json](./70320-comanche-maximum-overkill-over-the-edge.json) |
+| Comando Quatro | 41757 | [41757-comando-quatro.json](./41757-comando-quatro.json) |
 | Comando Rio | 297097 | [297097-comando-rio.json](./297097-comando-rio.json) |
 | Comando Tracer | 138800 | [138800-comando-tracer.json](./138800-comando-tracer.json) |
 | Comanomaly | 382375 | [382375-comanomaly.json](./382375-comanomaly.json) |
@@ -13051,6 +13052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayta | 133937 | [133937-crayta.json](./133937-crayta.json) |
 | Craz'D | 64870 | [64870-crazd.json](./64870-crazd.json) |
 | Craz'D: 13th Anniversary Edition | 313296 | [313296-crazd-13th-anniversary-edition.json](./313296-crazd-13th-anniversary-edition.json) |
+| Craze | 41733 | [41733-craze.json](./41733-craze.json) |
 | Crazee Rider | 349898 | [349898-crazee-rider.json](./349898-crazee-rider.json) |
 | Crazi Lift | 190429 | [190429-crazi-lift.json](./190429-crazi-lift.json) |
 | Crazlipse | 339336 | [339336-crazlipse.json](./339336-crazlipse.json) |
@@ -13357,6 +13359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Toad | 68754 | [68754-crazy-toad.json](./68754-crazy-toad.json) |
 | Crazy Tracer | 13707 | [13707-crazy-tracer.json](./13707-crazy-tracer.json) |
 | Crazy Traffic: City Parking Simulator | 317925 | [317925-crazy-traffic-city-parking-simulator.json](./317925-crazy-traffic-city-parking-simulator.json) |
+| Crazy Train | 41759 | [41759-crazy-train.json](./41759-crazy-train.json) |
 | Crazy Trucks | 186579 | [186579-crazy-trucks.json](./186579-crazy-trucks.json) |
 | Crazy Vacation | 310553 | [310553-crazy-vacation.json](./310553-crazy-vacation.json) |
 | Crazy Valet | 40719 | [40719-crazy-valet.json](./40719-crazy-valet.json) |
@@ -14029,6 +14032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosps | 125844 | [125844-crosps.json](./125844-crosps.json) |
 | Cross & Word Games | 131185 | [131185-cross-and-word-games.json](./131185-cross-and-word-games.json) |
 | Cross and Crush | 89270 | [89270-cross-and-crush.json](./89270-cross-and-crush.json) |
+| Cross Blaim | 41765 | [41765-cross-blaim.json](./41765-cross-blaim.json) |
 | Cross Blitz | 158620 | [158620-cross-blitz.json](./158620-cross-blitz.json) |
 | Cross Board Soccer | 154278 | [154278-cross-board-soccer.json](./154278-cross-board-soccer.json) |
 | Cross Brawl | 311158 | [311158-cross-brawl.json](./311158-cross-brawl.json) |
