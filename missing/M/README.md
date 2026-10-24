@@ -3635,6 +3635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martial Knight | 226324 | [226324-martial-knight.json](./226324-martial-knight.json) |
 | Martial Law | 168099 | [168099-martial-law.json](./168099-martial-law.json) |
 | Martial Law: Our Spring | 293863 | [293863-martial-law-our-spring.json](./293863-martial-law-our-spring.json) |
+| Martial Masters | 39386 | [39386-martial-masters.json](./39386-martial-masters.json) |
 | Martial Tricks | 394133 | [394133-martial-tricks.json](./394133-martial-tricks.json) |
 | Martian Escape | 191117 | [191117-martian-escape.json](./191117-martian-escape.json) |
 | Martian Law | 121987 | [121987-martian-law.json](./121987-martian-law.json) |
@@ -14504,6 +14505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouselash | 320407 | [320407-mouselash.json](./320407-mouselash.json) |
 | Mouseman: Point-and-Click RPG Adventure - Chapter 1 | 383353 | [383353-mouseman-point-and-click-rpg-adventure-chapter-1.json](./383353-mouseman-point-and-click-rpg-adventure-chapter-1.json) |
 | Mousement | 388727 | [388727-mousement.json](./388727-mousement.json) |
+| Mouser | 39382 | [39382-mouser.json](./39382-mouser.json) |
 | Mouser | 407849 | [407849-mouser.json](./407849-mouser.json) |
 | MouseRun | 127180 | [127180-mouserun.json](./127180-mouserun.json) |
 | Mousetrap | 12923 | [12923-mousetrap.json](./12923-mousetrap.json) |
