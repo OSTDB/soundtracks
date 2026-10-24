@@ -2596,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weeny Adventure | 233513 | [233513-weeny-adventure.json](./233513-weeny-adventure.json) |
 | Weeny Wise | 288470 | [288470-weeny-wise.json](./288470-weeny-wise.json) |
 | Weeping Cherries | 358645 | [358645-weeping-cherries.json](./358645-weeping-cherries.json) |
+| Weeping Doll | 25340 | [25340-weeping-doll.json](./25340-weeping-doll.json) |
 | Weeping Falls Massacre | 204467 | [204467-weeping-falls-massacre.json](./204467-weeping-falls-massacre.json) |
 | Weeping Willow | 122366 | [122366-weeping-willow.json](./122366-weeping-willow.json) |
 | WeeRPG | 157458 | [157458-weerpg.json](./157458-weerpg.json) |
@@ -3233,7 +3234,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -3912,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire | 310597 | [310597-who-wants-to-be-a-millionaire.json](./310597-who-wants-to-be-a-millionaire.json) |
 | Who Wants to Be a Millionaire | 81512 | [81512-who-wants-to-be-a-millionaire.json](./81512-who-wants-to-be-a-millionaire.json) |
 | Who Wants To Be A Millionaire 2010 | 311654 | [311654-who-wants-to-be-a-millionaire-2010.json](./311654-who-wants-to-be-a-millionaire-2010.json) |
+| Who Wants to Be a Millionaire: 1st Edition | 50649 | [50649-who-wants-to-be-a-millionaire-1st-edition.json](./50649-who-wants-to-be-a-millionaire-1st-edition.json) |
 | Who Wants to Be a Millionaire: 2012 Edition | 65596 | [65596-who-wants-to-be-a-millionaire-2012-edition.json](./65596-who-wants-to-be-a-millionaire-2012-edition.json) |
 | Who Wants to Be a Millionaire: 2nd Edition | 22015 | [22015-who-wants-to-be-a-millionaire-2nd-edition.json](./22015-who-wants-to-be-a-millionaire-2nd-edition.json) |
 | Who Wants to Be a Millionaire: 2nd Edition | 265057 | [265057-who-wants-to-be-a-millionaire-2nd-edition.json](./265057-who-wants-to-be-a-millionaire-2nd-edition.json) |
@@ -4686,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Commander: Secret Ops | 8892 | [8892-wing-commander-secret-ops.json](./8892-wing-commander-secret-ops.json) |
 | Wing Commander: Standoff | 144988 | [144988-wing-commander-standoff.json](./144988-wing-commander-standoff.json) |
 | Wing Commander: The Kilrahi Saga | 50167 | [50167-wing-commander-the-kilrahi-saga.json](./50167-wing-commander-the-kilrahi-saga.json) |
+| Wing Commander: The Secret Missions 2 - Crusade | 50171 | [50171-wing-commander-the-secret-missions-2-crusade.json](./50171-wing-commander-the-secret-missions-2-crusade.json) |
 | Wing Dog | 269640 | [269640-wing-dog.json](./269640-wing-dog.json) |
 | Wing Fighter | 193955 | [193955-wing-fighter.json](./193955-wing-fighter.json) |
 | Wing Haven | 310926 | [310926-wing-haven.json](./310926-wing-haven.json) |
@@ -5310,6 +5312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Within | 377145 | [377145-within.json](./377145-within.json) |
 | Within | 391217 | [391217-within.json](./391217-within.json) |
 | Within | 415248 | [415248-within.json](./415248-within.json) |
+| Within a Deep Forest | 50465 | [50465-within-a-deep-forest.json](./50465-within-a-deep-forest.json) |
 | Within a Rose | 72361 | [72361-within-a-rose.json](./72361-within-a-rose.json) |
 | Within His View | 379868 | [379868-within-his-view.json](./379868-within-his-view.json) |
 | Within Lattice | 376278 | [376278-within-lattice.json](./376278-within-lattice.json) |
