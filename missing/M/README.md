@@ -2598,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manos - The Revenge of Torgo | 50379 | [50379-manos-the-revenge-of-torgo.json](./50379-manos-the-revenge-of-torgo.json) |
 | Manos: Hands of Fate | 47095 | [47095-manos-hands-of-fate.json](./47095-manos-hands-of-fate.json) |
 | Manos: The Hands of Choice | 343399 | [343399-manos-the-hands-of-choice.json](./343399-manos-the-hands-of-choice.json) |
+| Manos: The Hands of Fate | 11526 | [11526-manos-the-hands-of-fate.json](./11526-manos-the-hands-of-fate.json) |
 | Manpuku | 266407 | [266407-manpuku.json](./266407-manpuku.json) |
 | ManServant: Gay Visual Novel | 229115 | [229115-manservant-gay-visual-novel.json](./229115-manservant-gay-visual-novel.json) |
 | Mansion | 269861 | [269861-mansion.json](./269861-mansion.json) |
@@ -4932,6 +4933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maya's Mission | 102657 | [102657-mayas-mission.json](./102657-mayas-mission.json) |
 | Maya's Mission | 388755 | [388755-mayas-mission.json](./388755-mayas-mission.json) |
 | Mayak | 378419 | [378419-mayak.json](./378419-mayak.json) |
+| Mayan Death Robots | 13185 | [13185-mayan-death-robots.json](./13185-mayan-death-robots.json) |
 | Mayan Death Robots: Arena | 82444 | [82444-mayan-death-robots-arena.json](./82444-mayan-death-robots-arena.json) |
 | Mayan Mishap | 256820 | [256820-mayan-mishap.json](./256820-mayan-mishap.json) |
 | Mayan Monster Mayhem: Episode 1 - River Rapids Rampage | 337132 | [337132-mayan-monster-mayhem-episode-1-river-rapids-rampage.json](./337132-mayan-monster-mayhem-episode-1-river-rapids-rampage.json) |
@@ -5865,6 +5867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medusa the Origin: Lost Dream of the Deep | 284324 | [284324-medusa-the-origin-lost-dream-of-the-deep.json](./284324-medusa-the-origin-lost-dream-of-the-deep.json) |
 | Medusa VN | 179943 | [179943-medusa-vn.json](./179943-medusa-vn.json) |
 | Medusa VR | 247181 | [247181-medusa-vr.json](./247181-medusa-vr.json) |
+| Medusa's Labyrinth | 33661 | [33661-medusas-labyrinth.json](./33661-medusas-labyrinth.json) |
 | Medusa's Labyrinth VR | 28178 | [28178-medusas-labyrinth-vr.json](./28178-medusas-labyrinth-vr.json) |
 | Medusa's Mini Mystery | 177513 | [177513-medusas-mini-mystery.json](./177513-medusas-mini-mystery.json) |
 | Meduziak | 247659 | [247659-meduziak.json](./247659-meduziak.json) |
@@ -5982,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega City Force | 238767 | [238767-mega-city-force.json](./238767-mega-city-force.json) |
 | Mega City Police: Digital Collector's Edition | 260024 | [260024-mega-city-police-digital-collectors-edition.json](./260024-mega-city-police-digital-collectors-edition.json) |
 | Mega City Void | 190105 | [190105-mega-city-void.json](./190105-mega-city-void.json) |
+| Mega Coin Squad | 11288 | [11288-mega-coin-squad.json](./11288-mega-coin-squad.json) |
 | Mega Collection: 8 Amazing Games | 399785 | [399785-mega-collection-8-amazing-games.json](./399785-mega-collection-8-amazing-games.json) |
 | Mega Collection: 8 Amazing Games - Volume 2 | 409542 | [409542-mega-collection-8-amazing-games-volume-2.json](./409542-mega-collection-8-amazing-games-volume-2.json) |
 | Mega Custom Night | 389412 | [389412-mega-custom-night.json](./389412-mega-custom-night.json) |
@@ -14518,6 +14522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motordoom | 224614 | [224614-motordoom.json](./224614-motordoom.json) |
 | Motorfish | 376214 | [376214-motorfish.json](./376214-motorfish.json) |
 | MotorGun | 63394 | [63394-motorgun.json](./63394-motorgun.json) |
+| Motorhead | 22824 | [22824-motorhead.json](./22824-motorhead.json) |
 | Motörhead | 28568 | [28568-motorhead.json](./28568-motorhead.json) |
 | Motorhome: Traveling America | 338049 | [338049-motorhome-traveling-america.json](./338049-motorhome-traveling-america.json) |
 | Motorhome: Traveling America - Collector's Edition | 356772 | [356772-motorhome-traveling-america-collectors-edition.json](./356772-motorhome-traveling-america-collectors-edition.json) |
@@ -15045,6 +15050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Luma's Cooking Adventure | 234335 | [234335-mr-lumas-cooking-adventure.json](./234335-mr-lumas-cooking-adventure.json) |
 | Mr. Lupin | 326972 | [326972-mr-lupin.json](./326972-mr-lupin.json) |
 | Mr. Magic | 169833 | [169833-mr-magic.json](./169833-mr-magic.json) |
+| Mr. Massagy | 31806 | [31806-mr-massagy.json](./31806-mr-massagy.json) |
 | Mr. Mat Hematic | 234572 | [234572-mr-mat-hematic.json](./234572-mr-mat-hematic.json) |
 | Mr. Maymunshine’s Christmas Land | 342216 | [342216-mr-maymunshine-s-christmas-land.json](./342216-mr-maymunshine-s-christmas-land.json) |
 | Mr. Maze | 112865 | [112865-mr-maze.json](./112865-mr-maze.json) |
@@ -17868,6 +17874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Trials | 290534 | [290534-mythic-trials.json](./290534-mythic-trials.json) |
 | Mythic Victory Arena | 31795 | [31795-mythic-victory-arena.json](./31795-mythic-victory-arena.json) |
 | Mythic Wonders: The Child of Prophecy | 59790 | [59790-mythic-wonders-the-child-of-prophecy.json](./59790-mythic-wonders-the-child-of-prophecy.json) |
+| Mythic Wonders: The Philosopher's Stone | 33111 | [33111-mythic-wonders-the-philosophers-stone.json](./33111-mythic-wonders-the-philosophers-stone.json) |
 | Mythic Writer | 165654 | [165654-mythic-writer.json](./165654-mythic-writer.json) |
 | Mythic Yi | 388240 | [388240-mythic-yi.json](./388240-mythic-yi.json) |
 | Mythic Zombies | 143464 | [143464-mythic-zombies.json](./143464-mythic-zombies.json) |
