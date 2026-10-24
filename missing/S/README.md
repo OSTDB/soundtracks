@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samu Game | 385920 | [385920-samu-game.json](./385920-samu-game.json) |
 | Samu Rise | 181777 | [181777-samu-rise.json](./181777-samu-rise.json) |
 | Samudai | 35927 | [35927-samudai.json](./35927-samudai.json) |
+| Samudra | 126534 | [126534-samudra.json](./126534-samudra.json) |
 | Samuel Prince Attorney at Law: Chapter 4 | 397791 | [397791-samuel-prince-attorney-at-law-chapter-4.json](./397791-samuel-prince-attorney-at-law-chapter-4.json) |
 | Samuel Sage: The Mystery at Penby Inn | 285505 | [285505-samuel-sage-the-mystery-at-penby-inn.json](./285505-samuel-sage-the-mystery-at-penby-inn.json) |
 | Samurado | 244254 | [244254-samurado.json](./244254-samurado.json) |
@@ -2085,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaffold | 400460 | [400460-scaffold.json](./400460-scaffold.json) |
 | Scaffolder | 195056 | [195056-scaffolder.json](./195056-scaffolder.json) |
 | Scalak | 100543 | [100543-scalak.json](./100543-scalak.json) |
+| Scale | 88773 | [88773-scale.json](./88773-scale.json) |
 | Scale | 9042 | [9042-scale.json](./9042-scale.json) |
 | Scale | 99365 | [99365-scale.json](./99365-scale.json) |
 | Scale Bullet: After Story | 358265 | [358265-scale-bullet-after-story.json](./358265-scale-bullet-after-story.json) |
@@ -4472,6 +4474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura: Shinovi Versus | 11536 | [11536-senran-kagura-shinovi-versus.json](./11536-senran-kagura-shinovi-versus.json) |
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
+| Senren Banka | 128513 | [128513-senren-banka.json](./128513-senren-banka.json) |
 | Senritsu no Stratus | 65953 | [65953-senritsu-no-stratus.json](./65953-senritsu-no-stratus.json) |
 | Sensations | 252733 | [252733-sensations.json](./252733-sensations.json) |
 | Sensations | 355882 | [355882-sensations.json](./355882-sensations.json) |
@@ -10097,6 +10100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Brawl | 111179 | [111179-sky-brawl.json](./111179-sky-brawl.json) |
 | Sky Break | 25300 | [25300-sky-break.json](./25300-sky-break.json) |
 | Sky Burger | 233909 | [233909-sky-burger.json](./233909-sky-burger.json) |
+| Sky Cannoneer | 127441 | [127441-sky-cannoneer.json](./127441-sky-cannoneer.json) |
 | Sky Captain's Return | 213454 | [213454-sky-captains-return.json](./213454-sky-captains-return.json) |
 | Sky Caravan | 189891 | [189891-sky-caravan.json](./189891-sky-caravan.json) |
 | Sky Champ | 194017 | [194017-sky-champ.json](./194017-sky-champ.json) |
@@ -15374,6 +15378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soviet | 93441 | [93441-soviet.json](./93441-soviet.json) |
 | Soviet Bear Uni Adventure | 125094 | [125094-soviet-bear-uni-adventure.json](./125094-soviet-bear-uni-adventure.json) |
 | Soviet Challenge: Javelin 1980 | 174329 | [174329-soviet-challenge-javelin-1980.json](./174329-soviet-challenge-javelin-1980.json) |
+| Soviet Jump Game | 127188 | [127188-soviet-jump-game.json](./127188-soviet-jump-game.json) |
 | Soviet Lunapark VR | 97018 | [97018-soviet-lunapark-vr.json](./97018-soviet-lunapark-vr.json) |
 | Soviet Monsters: Ekranoplans | 35193 | [35193-soviet-monsters-ekranoplans.json](./35193-soviet-monsters-ekranoplans.json) |
 | Soviet Souls | 118329 | [118329-soviet-souls.json](./118329-soviet-souls.json) |
@@ -18362,6 +18367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Pinball Bundle | 153837 | [153837-sports-pinball-bundle.json](./153837-sports-pinball-bundle.json) |
 | Sports Shooting USA | 39431 | [39431-sports-shooting-usa.json](./39431-sports-shooting-usa.json) |
 | Sports Sports | 366371 | [366371-sports-sports.json](./366371-sports-sports.json) |
+| Sports Story | 127303 | [127303-sports-story.json](./127303-sports-story.json) |
 | Sports Superbike | 43789 | [43789-sports-superbike.json](./43789-sports-superbike.json) |
 | Sports Talk Baseball | 46261 | [46261-sports-talk-baseball.json](./46261-sports-talk-baseball.json) |
 | Sports Trivia | 78439 | [78439-sports-trivia.json](./78439-sports-trivia.json) |
@@ -18935,6 +18941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirix | 175353 | [175353-squirix.json](./175353-squirix.json) |
 | Squirm | 298947 | [298947-squirm.json](./298947-squirm.json) |
 | Squirm | 37309 | [37309-squirm.json](./37309-squirm.json) |
+| Squirm | 89252 | [89252-squirm.json](./89252-squirm.json) |
 | Squirm 16 | 313498 | [313498-squirm-16.json](./313498-squirm-16.json) |
 | Squirmer the Game | 73589 | [73589-squirmer-the-game.json](./73589-squirmer-the-game.json) |
 | Squirmunity: Ballad of the prankmonger | 222182 | [222182-squirmunity-ballad-of-the-prankmonger.json](./222182-squirmunity-ballad-of-the-prankmonger.json) |
@@ -24063,6 +24070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suitcase Stories | 391198 | [391198-suitcase-stories.json](./391198-suitcase-stories.json) |
 | Suitchi | 110087 | [110087-suitchi.json](./110087-suitchi.json) |
 | Suite 1303 | 336484 | [336484-suite-1303.json](./336484-suite-1303.json) |
+| Suite 776 | 127003 | [127003-suite-776.json](./127003-suite-776.json) |
 | Suite Macabre | 360119 | [360119-suite-macabre.json](./360119-suite-macabre.json) |
 | Suite PreCure: Happy Oshare Harmony | 327601 | [327601-suite-precure-happy-oshare-harmony.json](./327601-suite-precure-happy-oshare-harmony.json) |
 | Suite PreCure: Melody Collection | 124063 | [124063-suite-precure-melody-collection.json](./124063-suite-precure-melody-collection.json) |
