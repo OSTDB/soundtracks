@@ -5677,6 +5677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Force: Rescue Mission | 259072 | [259072-desert-force-rescue-mission.json](./259072-desert-force-rescue-mission.json) |
 | Desert Gunman | 277708 | [277708-desert-gunman.json](./277708-desert-gunman.json) |
 | Desert Gunner | 17116 | [17116-desert-gunner.json](./17116-desert-gunner.json) |
+| Desert Hawk | 28486 | [28486-desert-hawk.json](./28486-desert-hawk.json) |
 | Desert Island 64 | 231508 | [231508-desert-island-64.json](./231508-desert-island-64.json) |
 | Desert Island Fishing | 56289 | [56289-desert-island-fishing.json](./56289-desert-island-fishing.json) |
 | Desert Journey | 214557 | [214557-desert-journey.json](./214557-desert-journey.json) |
