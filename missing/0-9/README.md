@@ -2861,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ​Sonic Robo Blast 2: Official Level Design Collab 2022 - Round 2 | 241897 | [241897-sonic-robo-blast-2-official-level-design-collab-2022-round-2.json](./241897-sonic-robo-blast-2-official-level-design-collab-2022-round-2.json) |
 | ​​Star Trek​ x World of Warships: Commander Gowron | 332617 | [332617-star-trek-x-world-of-warships-commander-gowron.json](./332617-star-trek-x-world-of-warships-commander-gowron.json) |
 | Świrus | 330017 | [330017-swirus.json](./330017-swirus.json) |
+| ​The Ninja Saviors: Return of the Warriors | 123354 | [123354-the-ninja-saviors-return-of-the-warriors.json](./123354-the-ninja-saviors-return-of-the-warriors.json) |
 | Übercat Overdrive | 315649 | [315649-ubercat-overdrive.json](./315649-ubercat-overdrive.json) |
 | Última Mensagem 2 | 316171 | [316171-ultima-mensagem-2.json](./316171-ultima-mensagem-2.json) |
 | Ürs | 300433 | [300433-urs.json](./300433-urs.json) |
