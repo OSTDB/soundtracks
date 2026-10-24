@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HangOutGame | 166755 | [166755-hangoutgame.json](./166755-hangoutgame.json) |
 | Hangover | 204237 | [204237-hangover.json](./204237-hangover.json) |
 | Hangover | 389994 | [389994-hangover.json](./389994-hangover.json) |
+| Hangover | 81824 | [81824-hangover.json](./81824-hangover.json) |
 | Hangoverse: Season 1 | 370755 | [370755-hangoverse-season-1.json](./370755-hangoverse-season-1.json) |
 | Hangry Bunnies From Mars | 54698 | [54698-hangry-bunnies-from-mars.json](./54698-hangry-bunnies-from-mars.json) |
 | Hangtime! | 373342 | [373342-hangtime.json](./373342-hangtime.json) |
@@ -1633,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hare | 83584 | [83584-hare.json](./83584-hare.json) |
 | Hare 136 | 340414 | [340414-hare-136.json](./340414-hare-136.json) |
 | Hare Apparent | 194994 | [194994-hare-apparent.json](./194994-hare-apparent.json) |
+| Hare in the Hat | 35481 | [35481-hare-in-the-hat.json](./35481-hare-in-the-hat.json) |
 | Hare In The Hat: The Abyss | 160283 | [160283-hare-in-the-hat-the-abyss.json](./160283-hare-in-the-hat-the-abyss.json) |
 | Hare Nochi Munasawagi | 335827 | [335827-hare-nochi-munasawagi.json](./335827-hare-nochi-munasawagi.json) |
 | Hare Nochi Oosawagi! | 257668 | [257668-hare-nochi-oosawagi.json](./257668-hare-nochi-oosawagi.json) |
@@ -1956,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Has Your Dream of Dating a Cute Bunny Girl Finally Come True?! | 237442 | [237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json](./237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json) |
 | Hasamu | 40176 | [40176-hasamu.json](./40176-hasamu.json) |
 | Hasbro Compilation | 47803 | [47803-hasbro-compilation.json](./47803-hasbro-compilation.json) |
+| Hasbro Family Fun Pack | 78334 | [78334-hasbro-family-fun-pack.json](./78334-hasbro-family-fun-pack.json) |
 | Hasbro Family Fun Pack - Conquest Edition | 118454 | [118454-hasbro-family-fun-pack-conquest-edition.json](./118454-hasbro-family-fun-pack-conquest-edition.json) |
 | Hasbro Family Fun Pack Super Edition | 99528 | [99528-hasbro-family-fun-pack-super-edition.json](./99528-hasbro-family-fun-pack-super-edition.json) |
 | Hasbro Family Game Night 2 | 50606 | [50606-hasbro-family-game-night-2.json](./50606-hasbro-family-game-night-2.json) |
