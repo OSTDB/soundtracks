@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Apprentice | 254981 | [254981-sakura-apprentice.json](./254981-sakura-apprentice.json) |
 | Sakura Arms: Radiant Duels | 388956 | [388956-sakura-arms-radiant-duels.json](./388956-sakura-arms-radiant-duels.json) |
 | Sakura Battle | 234537 | [234537-sakura-battle.json](./234537-sakura-battle.json) |
+| Sakura Beach | 35040 | [35040-sakura-beach.json](./35040-sakura-beach.json) |
 | Sakura Branch: Blossom Puzzle | 418323 | [418323-sakura-branch-blossom-puzzle.json](./418323-sakura-branch-blossom-puzzle.json) |
 | Sakura Bunny Girls 2 | 355079 | [355079-sakura-bunny-girls-2.json](./355079-sakura-bunny-girls-2.json) |
 | Sakura Clicker | 34950 | [34950-sakura-clicker.json](./34950-sakura-clicker.json) |
@@ -4249,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selection I & II | 265194 | [265194-selection-i-and-ii.json](./265194-selection-i-and-ii.json) |
 | Selena's Charm 2: Enchanted Garden | 417511 | [417511-selenas-charm-2-enchanted-garden.json](./417511-selenas-charm-2-enchanted-garden.json) |
 | Selene | 337167 | [337167-selene.json](./337167-selene.json) |
+| Selene: Apoptosis | 139705 | [139705-selene-apoptosis.json](./139705-selene-apoptosis.json) |
 | Selene: Apoptosis - 18+ Adult Only Patch | 263438 | [263438-selene-apoptosis-18-adult-only-patch.json](./263438-selene-apoptosis-18-adult-only-patch.json) |
 | Selene's Labyrinth | 184389 | [184389-selenes-labyrinth.json](./184389-selenes-labyrinth.json) |
 | Selene's Nightmare | 153850 | [153850-selenes-nightmare.json](./153850-selenes-nightmare.json) |
@@ -4483,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensible World of Soccer | 10121 | [10121-sensible-world-of-soccer.json](./10121-sensible-world-of-soccer.json) |
 | Sensible World of Soccer | 165468 | [165468-sensible-world-of-soccer.json](./165468-sensible-world-of-soccer.json) |
 | Sensible World of Soccer '95/'96 | 165465 | [165465-sensible-world-of-soccer-95-96.json](./165465-sensible-world-of-soccer-95-96.json) |
+| Sensible World of Soccer '96/'97 | 38865 | [38865-sensible-world-of-soccer-96-97.json](./38865-sensible-world-of-soccer-96-97.json) |
 | Sensible World of Soccer '97/'98 | 165474 | [165474-sensible-world-of-soccer-97-98.json](./165474-sensible-world-of-soccer-97-98.json) |
 | Sensible World of Soccer '97/'98 World Cup Edition | 165475 | [165475-sensible-world-of-soccer-97-98-world-cup-edition.json](./165475-sensible-world-of-soccer-97-98-world-cup-edition.json) |
 | Sensible World of Soccer: European Championship Edition | 79251 | [79251-sensible-world-of-soccer-european-championship-edition.json](./79251-sensible-world-of-soccer-european-championship-edition.json) |
@@ -11125,6 +11128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sliptime Sleuth | 132698 | [132698-sliptime-sleuth.json](./132698-sliptime-sleuth.json) |
 | Slipuzzle | 175225 | [175225-slipuzzle.json](./175225-slipuzzle.json) |
 | SlipVector | 412342 | [412342-slipvector.json](./412342-slipvector.json) |
+| Slipways | 141412 | [141412-slipways.json](./141412-slipways.json) |
 | Slipways | 176372 | [176372-slipways.json](./176372-slipways.json) |
 | Slit Mouthed | 192654 | [192654-slit-mouthed.json](./192654-slit-mouthed.json) |
 | Slit Your Wrists! | 234729 | [234729-slit-your-wrists.json](./234729-slit-your-wrists.json) |
@@ -13498,6 +13502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solstale | 285533 | [285533-solstale.json](./285533-solstale.json) |
 | Solstice | 306355 | [306355-solstice.json](./306355-solstice.json) |
 | Solstice | 324503 | [324503-solstice.json](./324503-solstice.json) |
+| Solstice | 36253 | [36253-solstice.json](./36253-solstice.json) |
 | Solstice Chronicles: MIA | 27381 | [27381-solstice-chronicles-mia.json](./27381-solstice-chronicles-mia.json) |
 | Solstice: Digital Collector's Edition | 154447 | [154447-solstice-digital-collectors-edition.json](./154447-solstice-digital-collectors-edition.json) |
 | Solstride | 381210 | [381210-solstride.json](./381210-solstride.json) |
@@ -17146,6 +17151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellForce 2: Gold Edition | 27859 | [27859-spellforce-2-gold-edition.json](./27859-spellforce-2-gold-edition.json) |
 | SpellForce 3 | 17583 | [17583-spellforce-3.json](./17583-spellforce-3.json) |
 | SpellForce 3: Collector's Edition | 53650 | [53650-spellforce-3-collectors-edition.json](./53650-spellforce-3-collectors-edition.json) |
+| SpellForce 3: Fallen God | 140492 | [140492-spellforce-3-fallen-god.json](./140492-spellforce-3-fallen-god.json) |
 | SpellForce 3: Soul Harvest - Oktoberfest | 157561 | [157561-spellforce-3-soul-harvest-oktoberfest.json](./157561-spellforce-3-soul-harvest-oktoberfest.json) |
 | SpellForce 3: Versus | 144290 | [144290-spellforce-3-versus.json](./144290-spellforce-3-versus.json) |
 | SpellForce 3: Versus Edition | 227191 | [227191-spellforce-3-versus-edition.json](./227191-spellforce-3-versus-edition.json) |
@@ -19742,6 +19748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Arcade: Falcon Gunner | 74901 | [74901-star-wars-arcade-falcon-gunner.json](./74901-star-wars-arcade-falcon-gunner.json) |
 | Star Wars Battlefront II: Celebration Edition | 128334 | [128334-star-wars-battlefront-ii-celebration-edition.json](./128334-star-wars-battlefront-ii-celebration-edition.json) |
 | Star Wars Battlefront II: Elite Trooper Deluxe Edition | 51486 | [51486-star-wars-battlefront-ii-elite-trooper-deluxe-edition.json](./51486-star-wars-battlefront-ii-elite-trooper-deluxe-edition.json) |
+| Star Wars Battlefront II: Resurrection | 138124 | [138124-star-wars-battlefront-ii-resurrection.json](./138124-star-wars-battlefront-ii-resurrection.json) |
 | Star Wars Battlefront II: The Last Jedi Season | 76886 | [76886-star-wars-battlefront-ii-the-last-jedi-season.json](./76886-star-wars-battlefront-ii-the-last-jedi-season.json) |
 | Star Wars Battlefront: Battle of Jakku | 23293 | [23293-star-wars-battlefront-battle-of-jakku.json](./23293-star-wars-battlefront-battle-of-jakku.json) |
 | Star Wars Battlefront: Bespin | 19869 | [19869-star-wars-battlefront-bespin.json](./19869-star-wars-battlefront-bespin.json) |
@@ -24426,6 +24433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunpolis | 267330 | [267330-sunpolis.json](./267330-sunpolis.json) |
 | Sunray OS | 285582 | [285582-sunray-os.json](./285582-sunray-os.json) |
 | Sunrider 4: The Captain's Return | 234352 | [234352-sunrider-4-the-captains-return.json](./234352-sunrider-4-the-captains-return.json) |
+| Sunrider Academy | 35976 | [35976-sunrider-academy.json](./35976-sunrider-academy.json) |
 | Sunrider: Liberation Day | 18176 | [18176-sunrider-liberation-day.json](./18176-sunrider-liberation-day.json) |
 | Sunrider: Mask of Arcadius | 17639 | [17639-sunrider-mask-of-arcadius.json](./17639-sunrider-mask-of-arcadius.json) |
 | Sunrise | 186088 | [186088-sunrise.json](./186088-sunrise.json) |
@@ -27385,6 +27393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Ruler Plus | 80641 | [80641-supreme-ruler-plus.json](./80641-supreme-ruler-plus.json) |
 | Supreme Ruler The Great War Remastered | 277933 | [277933-supreme-ruler-the-great-war-remastered.json](./277933-supreme-ruler-the-great-war-remastered.json) |
 | Supreme Ruler The Great War Remastered DLC | 277931 | [277931-supreme-ruler-the-great-war-remastered-dlc.json](./277931-supreme-ruler-the-great-war-remastered-dlc.json) |
+| Supreme Ruler Ultimate | 36269 | [36269-supreme-ruler-ultimate.json](./36269-supreme-ruler-ultimate.json) |
 | Supreme Ruler Ultimate: Trump Rising | 171958 | [171958-supreme-ruler-ultimate-trump-rising.json](./171958-supreme-ruler-ultimate-trump-rising.json) |
 | Supreme Snowboarding | 9277 | [9277-supreme-snowboarding.json](./9277-supreme-snowboarding.json) |
 | Supreme Stick Warriors | 220246 | [220246-supreme-stick-warriors.json](./220246-supreme-stick-warriors.json) |
