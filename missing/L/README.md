@@ -2978,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Golf! | 67693 | [67693-lets-golf.json](./67693-lets-golf.json) |
 | Let's Hitchhike! | 84451 | [84451-lets-hitchhike.json](./84451-lets-hitchhike.json) |
 | Let's Hobbee | 160194 | [160194-lets-hobbee.json](./160194-lets-hobbee.json) |
+| Let's Invade | 41160 | [41160-lets-invade.json](./41160-lets-invade.json) |
 | Let's Journey | 158102 | [158102-lets-journey.json](./158102-lets-journey.json) |
 | Let's Jump | 265759 | [265759-lets-jump.json](./265759-lets-jump.json) |
 | Let's Just Farm | 374846 | [374846-lets-just-farm.json](./374846-lets-just-farm.json) |
