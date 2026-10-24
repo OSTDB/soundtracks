@@ -3675,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Mythology: Retold - Heavenly Spear | 348197 | [348197-age-of-mythology-retold-heavenly-spear.json](./348197-age-of-mythology-retold-heavenly-spear.json) |
 | Age of Mythology: Retold - Obsidian Mirror | 395818 | [395818-age-of-mythology-retold-obsidian-mirror.json](./395818-age-of-mythology-retold-obsidian-mirror.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
+| Age of Mythology: The Titans | 8221 | [8221-age-of-mythology-the-titans.json](./8221-age-of-mythology-the-titans.json) |
 | Age of Omens | 116777 | [116777-age-of-omens.json](./116777-age-of-omens.json) |
 | Age of Pahlevans | 191670 | [191670-age-of-pahlevans.json](./191670-age-of-pahlevans.json) |
 | Age of Pirates | 376848 | [376848-age-of-pirates.json](./376848-age-of-pirates.json) |
