@@ -4215,6 +4215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glypha III | 70919 | [70919-glypha-iii.json](./70919-glypha-iii.json) |
 | Glyphica: Typing Survival | 291596 | [291596-glyphica-typing-survival.json](./291596-glyphica-typing-survival.json) |
 | Glyphs | 347281 | [347281-glyphs.json](./347281-glyphs.json) |
+| Glyphs Apprentice | 29486 | [29486-glyphs-apprentice.json](./29486-glyphs-apprentice.json) |
 | Glyphs of Gitzan | 300997 | [300997-glyphs-of-gitzan.json](./300997-glyphs-of-gitzan.json) |
 | Glyphs of the Pharaohs | 177002 | [177002-glyphs-of-the-pharaohs.json](./177002-glyphs-of-the-pharaohs.json) |
 | Glyphscape | 349401 | [349401-glyphscape.json](./349401-glyphscape.json) |
