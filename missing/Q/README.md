@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QB Sim | 106501 | [106501-qb-sim.json](./106501-qb-sim.json) |
 | Qbasic Gorillas | 11690 | [11690-qbasic-gorillas.json](./11690-qbasic-gorillas.json) |
 | QBeez 2 | 304318 | [304318-qbeez-2.json](./304318-qbeez-2.json) |
+| Qbeh-1: The Atlas Cube | 10746 | [10746-qbeh-1-the-atlas-cube.json](./10746-qbeh-1-the-atlas-cube.json) |
 | Qbike | 28869 | [28869-qbike.json](./28869-qbike.json) |
 | Qbike: Crypto Motorcycles | 68760 | [68760-qbike-crypto-motorcycles.json](./68760-qbike-crypto-motorcycles.json) |
 | Qbike: Cyberpunk Motorcycles | 112043 | [112043-qbike-cyberpunk-motorcycles.json](./112043-qbike-cyberpunk-motorcycles.json) |
