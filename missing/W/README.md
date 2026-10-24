@@ -307,7 +307,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk with the Living 2 | 230883 | [230883-walk-with-the-living-2.json](./230883-walk-with-the-living-2.json) |
 | Walk Your Friends Back Home | 208267 | [208267-walk-your-friends-back-home.json](./208267-walk-your-friends-back-home.json) |
 | Walk Zero1 | 329364 | [329364-walk-zero1.json](./329364-walk-zero1.json) |
-| Walkabout Mini Golf | 142095 | [142095-walkabout-mini-golf.json](./142095-walkabout-mini-golf.json) |
 | Walkabout Mini Golf: 20,000 Leagues Under the Sea | 220525 | [220525-walkabout-mini-golf-20-000-leagues-under-the-sea.json](./220525-walkabout-mini-golf-20-000-leagues-under-the-sea.json) |
 | Walkabout Mini Golf: Alice's Adventures in Wonderland | 380577 | [380577-walkabout-mini-golf-alices-adventures-in-wonderland.json](./380577-walkabout-mini-golf-alices-adventures-in-wonderland.json) |
 | Walkabout Mini Golf: Atlantis | 232952 | [232952-walkabout-mini-golf-atlantis.json](./232952-walkabout-mini-golf-atlantis.json) |
@@ -1141,7 +1140,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Armageddon - Vulkan's Wrath | 53893 | [53893-warhammer-40-000-armageddon-vulkans-wrath.json](./53893-warhammer-40-000-armageddon-vulkans-wrath.json) |
 | Warhammer 40,000: Assault Dice | 175183 | [175183-warhammer-40-000-assault-dice.json](./175183-warhammer-40-000-assault-dice.json) |
 | Warhammer 40,000: Battle Sister | 146646 | [146646-warhammer-40-000-battle-sister.json](./146646-warhammer-40-000-battle-sister.json) |
-| Warhammer 40,000: Battlesector | 143424 | [143424-warhammer-40-000-battlesector.json](./143424-warhammer-40-000-battlesector.json) |
 | Warhammer 40,000: Battlesector - Astra Militarum | 302171 | [302171-warhammer-40-000-battlesector-astra-militarum.json](./302171-warhammer-40-000-battlesector-astra-militarum.json) |
 | Warhammer 40,000: Battlesector - Blood Angels Elites | 196104 | [196104-warhammer-40-000-battlesector-blood-angels-elites.json](./196104-warhammer-40-000-battlesector-blood-angels-elites.json) |
 | Warhammer 40,000: Battlesector - Daemons of Khorne | 263148 | [263148-warhammer-40-000-battlesector-daemons-of-khorne.json](./263148-warhammer-40-000-battlesector-daemons-of-khorne.json) |
@@ -3215,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -6769,6 +6768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Rally 2 | 40571 | [40571-world-rally-2.json](./40571-world-rally-2.json) |
 | World Rally Arcade | 319276 | [319276-world-rally-arcade.json](./319276-world-rally-arcade.json) |
 | World Rally Championship | 8313 | [8313-world-rally-championship.json](./8313-world-rally-championship.json) |
+| World Rally Fever: Born on the Road | 8494 | [8494-world-rally-fever-born-on-the-road.json](./8494-world-rally-fever-born-on-the-road.json) |
 | World Reborn | 334447 | [334447-world-reborn.json](./334447-world-reborn.json) |
 | World Reborn | 49502 | [49502-world-reborn.json](./49502-world-reborn.json) |
 | World Revolution | 84454 | [84454-world-revolution.json](./84454-world-revolution.json) |
