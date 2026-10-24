@@ -2668,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones in Revenge of the Ancients | 22218 | [22218-indiana-jones-in-revenge-of-the-ancients.json](./22218-indiana-jones-in-revenge-of-the-ancients.json) |
 | Indiana Jones in the Lost Kingdom | 25862 | [25862-indiana-jones-in-the-lost-kingdom.json](./25862-indiana-jones-in-the-lost-kingdom.json) |
 | Indiana Jones y la estatua sagrada | 322931 | [322931-indiana-jones-y-la-estatua-sagrada.json](./322931-indiana-jones-y-la-estatua-sagrada.json) |
+| Indiana Jones' Greatest Adventures | 10843 | [10843-indiana-jones-greatest-adventures.json](./10843-indiana-jones-greatest-adventures.json) |
 | Indiana Rodent | 57093 | [57093-indiana-rodent.json](./57093-indiana-rodent.json) |
 | Indianapolis 500 Evolution | 67861 | [67861-indianapolis-500-evolution.json](./67861-indianapolis-500-evolution.json) |
 | Indianapolis 500: The Simulation | 5526 | [5526-indianapolis-500-the-simulation.json](./5526-indianapolis-500-the-simulation.json) |
