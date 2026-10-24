@@ -6242,6 +6242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Sees Red | 118645 | [118645-she-sees-red.json](./118645-she-sees-red.json) |
 | She Sings, but She’s Not a Skylark, Not Even a Nightingale. | 412445 | [412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json](./412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json) |
 | She Tells Her Story | 383592 | [383592-she-tells-her-story.json](./383592-she-tells-her-story.json) |
+| She Wants Me Dead | 32718 | [32718-she-wants-me-dead.json](./32718-she-wants-me-dead.json) |
 | She Wants Me Dead: Extended Edition | 239493 | [239493-she-wants-me-dead-extended-edition.json](./239493-she-wants-me-dead-extended-edition.json) |
 | She Wants to Suck My Blood? | 254324 | [254324-she-wants-to-suck-my-blood.json](./254324-she-wants-to-suck-my-blood.json) |
 | She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
@@ -8684,6 +8685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverball | 76466 | [76466-silverball.json](./76466-silverball.json) |
 | SilverDollar | 101525 | [101525-silverdollar.json](./101525-silverdollar.json) |
 | Silverfall | 15718 | [15718-silverfall.json](./15718-silverfall.json) |
+| Silverfall: Earth Awakening | 11353 | [11353-silverfall-earth-awakening.json](./11353-silverfall-earth-awakening.json) |
 | SilverFrame | 110100 | [110100-silverframe.json](./110100-silverframe.json) |
 | Silverio Vendetta | 113202 | [113202-silverio-vendetta.json](./113202-silverio-vendetta.json) |
 | Silverio Vendetta: Verse of Orpheus | 113203 | [113203-silverio-vendetta-verse-of-orpheus.json](./113203-silverio-vendetta-verse-of-orpheus.json) |
@@ -10211,6 +10213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Revolver | 342154 | [342154-sky-revolver.json](./342154-sky-revolver.json) |
 | Sky Road | 76383 | [76383-sky-road.json](./76383-sky-road.json) |
 | Sky Robo | 327321 | [327321-sky-robo.json](./327321-sky-robo.json) |
+| Sky Rogue | 11633 | [11633-sky-rogue.json](./11633-sky-rogue.json) |
 | Sky Roll! | 147653 | [147653-sky-roll.json](./147653-sky-roll.json) |
 | Sky Rollball | 28844 | [28844-sky-rollball.json](./28844-sky-rollball.json) |
 | Sky Roller Coaster | 298045 | [298045-sky-roller-coaster.json](./298045-sky-roller-coaster.json) |
@@ -10221,6 +10224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Septima | 146659 | [146659-sky-septima.json](./146659-sky-septima.json) |
 | Sky Serpents | 179381 | [179381-sky-serpents.json](./179381-sky-serpents.json) |
 | Sky Settlers | 258422 | [258422-sky-settlers.json](./258422-sky-settlers.json) |
+| Sky Shark | 12106 | [12106-sky-shark.json](./12106-sky-shark.json) |
 | Sky Shark | 331282 | [331282-sky-shark.json](./331282-sky-shark.json) |
 | Sky Shepherd | 117103 | [117103-sky-shepherd.json](./117103-sky-shepherd.json) |
 | Sky Skipper | 18546 | [18546-sky-skipper.json](./18546-sky-skipper.json) |
@@ -12092,6 +12096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snappy Elf | 261516 | [261516-snappy-elf.json](./261516-snappy-elf.json) |
 | Snappy Turtle Ultimate | 81042 | [81042-snappy-turtle-ultimate.json](./81042-snappy-turtle-ultimate.json) |
 | Snaps | 310029 | [310029-snaps.json](./310029-snaps.json) |
+| Snapshot | 12776 | [12776-snapshot.json](./12776-snapshot.json) |
 | Snapshot | 159776 | [159776-snapshot.json](./159776-snapshot.json) |
 | Snapshot | 406915 | [406915-snapshot.json](./406915-snapshot.json) |
 | SnapShot | 298808 | [298808-snapshot.json](./298808-snapshot.json) |
@@ -14674,6 +14679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophie | 183226 | [183226-sophie.json](./183226-sophie.json) |
 | Sophie: Starlight Whispers | 148440 | [148440-sophie-starlight-whispers.json](./148440-sophie-starlight-whispers.json) |
 | Sophie's Cubes | 143960 | [143960-sophies-cubes.json](./143960-sophies-cubes.json) |
+| Sophie's Curse | 33441 | [33441-sophies-curse.json](./33441-sophies-curse.json) |
 | Sophie's Dice | 119808 | [119808-sophies-dice.json](./119808-sophies-dice.json) |
 | Sophie's Grids | 400970 | [400970-sophies-grids.json](./400970-sophies-grids.json) |
 | Sophie's Safecracking Simulator | 152924 | [152924-sophies-safecracking-simulator.json](./152924-sophies-safecracking-simulator.json) |
@@ -16018,6 +16024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Piercer | 192251 | [192251-space-piercer.json](./192251-space-piercer.json) |
 | Space Pilgrim Academy: Year 2 | 95596 | [95596-space-pilgrim-academy-year-2.json](./95596-space-pilgrim-academy-year-2.json) |
 | Space Pilgrim Academy: Year 3 | 109399 | [109399-space-pilgrim-academy-year-3.json](./109399-space-pilgrim-academy-year-3.json) |
+| Space Pilgrim Episode I: Alpha Centauri | 33849 | [33849-space-pilgrim-episode-i-alpha-centauri.json](./33849-space-pilgrim-episode-i-alpha-centauri.json) |
 | Space Pilgrim Episode II: Epsilon Indi | 33810 | [33810-space-pilgrim-episode-ii-epsilon-indi.json](./33810-space-pilgrim-episode-ii-epsilon-indi.json) |
 | Space Pilgrim Episode III: Delta Pavonis | 33601 | [33601-space-pilgrim-episode-iii-delta-pavonis.json](./33601-space-pilgrim-episode-iii-delta-pavonis.json) |
 | Space Pilgrim Saga | 53646 | [53646-space-pilgrim-saga.json](./53646-space-pilgrim-saga.json) |
@@ -20879,6 +20886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay At Home | 123918 | [123918-stay-at-home.json](./123918-stay-at-home.json) |
 | Stay Away from the Lighthouse | 415473 | [415473-stay-away-from-the-lighthouse.json](./415473-stay-away-from-the-lighthouse.json) |
 | Stay Away From Zombies | 195543 | [195543-stay-away-from-zombies.json](./195543-stay-away-from-zombies.json) |
+| Stay Close | 33182 | [33182-stay-close.json](./33182-stay-close.json) |
 | Stay Dead | 10895 | [10895-stay-dead.json](./10895-stay-dead.json) |
 | Stay Dead | 359518 | [359518-stay-dead.json](./359518-stay-dead.json) |
 | Stay Dead Evolution | 10896 | [10896-stay-dead-evolution.json](./10896-stay-dead-evolution.json) |
