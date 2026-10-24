@@ -5246,6 +5246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchpunk | 226137 | [226137-witchpunk.json](./226137-witchpunk.json) |
 | WitchRider | 312543 | [312543-witchrider.json](./312543-witchrider.json) |
 | WitchSpring | 87260 | [87260-witchspring.json](./87260-witchspring.json) |
+| WitchSpring R | 210515 | [210515-witchspring-r.json](./210515-witchspring-r.json) |
 | WitchSpring R: Costume - Black Pearl Set | 316224 | [316224-witchspring-r-costume-black-pearl-set.json](./316224-witchspring-r-costume-black-pearl-set.json) |
 | WitchSpring R: Costume - Red Berry Set | 316222 | [316222-witchspring-r-costume-red-berry-set.json](./316222-witchspring-r-costume-red-berry-set.json) |
 | WitchSpring R: Costume - Shining Dawn Set | 316225 | [316225-witchspring-r-costume-shining-dawn-set.json](./316225-witchspring-r-costume-shining-dawn-set.json) |
