@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Callparin 2 | 158518 | [158518-callparin-2.json](./158518-callparin-2.json) |
 | Calluna | 173248 | [173248-calluna.json](./173248-calluna.json) |
 | Callus | 387375 | [387375-callus.json](./387375-callus.json) |
+| Cally's Caves 4 | 81211 | [81211-callys-caves-4.json](./81211-callys-caves-4.json) |
 | Cally's Caves Definitive Collection | 52714 | [52714-callys-caves-definitive-collection.json](./52714-callys-caves-definitive-collection.json) |
 | Calm Before the Storm | 374437 | [374437-calm-before-the-storm.json](./374437-calm-before-the-storm.json) |
 | Calm Before The Storm | 316852 | [316852-calm-before-the-storm.json](./316852-calm-before-the-storm.json) |
@@ -1982,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CardioCasino | 177924 | [177924-cardiocasino.json](./177924-cardiocasino.json) |
 | CardioEX | 215246 | [215246-cardioex.json](./215246-cardioex.json) |
 | Cardiophobia | 124601 | [124601-cardiophobia.json](./124601-cardiophobia.json) |
+| CardLife | 77558 | [77558-cardlife.json](./77558-cardlife.json) |
 | Cardlike | 224647 | [224647-cardlike.json](./224647-cardlike.json) |
 | Cardlings | 118787 | [118787-cardlings.json](./118787-cardlings.json) |
 | Cardlock | 184582 | [184582-cardlock.json](./184582-cardlock.json) |
@@ -2566,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Heist | 243587 | [243587-casino-heist.json](./243587-casino-heist.json) |
 | Casino Heist: Aruba | 327449 | [327449-casino-heist-aruba.json](./327449-casino-heist-aruba.json) |
 | Casino Heist: Escape Room | 302052 | [302052-casino-heist-escape-room.json](./302052-casino-heist-escape-room.json) |
+| Casino Inc | 35438 | [35438-casino-inc.json](./35438-casino-inc.json) |
 | Casino Inc: The Management | 70951 | [70951-casino-inc-the-management.json](./70951-casino-inc-the-management.json) |
 | Casino Island Simulator | 312452 | [312452-casino-island-simulator.json](./312452-casino-island-simulator.json) |
 | Casino Kid | 48102 | [48102-casino-kid.json](./48102-casino-kid.json) |
@@ -6154,6 +6157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of the Deathless | 17744 | [17744-choice-of-the-deathless.json](./17744-choice-of-the-deathless.json) |
 | Choice of the Dragon | 66762 | [66762-choice-of-the-dragon.json](./66762-choice-of-the-dragon.json) |
 | Choice of the Ninja | 76114 | [76114-choice-of-the-ninja.json](./76114-choice-of-the-ninja.json) |
+| Choice of the Petal Throne | 35582 | [35582-choice-of-the-petal-throne.json](./35582-choice-of-the-petal-throne.json) |
 | Choice of the Pirate | 32582 | [32582-choice-of-the-pirate.json](./32582-choice-of-the-pirate.json) |
 | Choice of the Star Captain | 38726 | [38726-choice-of-the-star-captain.json](./38726-choice-of-the-star-captain.json) |
 | Choice of the Vampire: St. Louis, Unreal City | 169935 | [169935-choice-of-the-vampire-st-louis-unreal-city.json](./169935-choice-of-the-vampire-st-louis-unreal-city.json) |
@@ -11872,6 +11876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrosion | 219229 | [219229-corrosion.json](./219229-corrosion.json) |
 | Corrosion Protocol | 377073 | [377073-corrosion-protocol.json](./377073-corrosion-protocol.json) |
 | Corrosion: Cold Winter Waiting | 126027 | [126027-corrosion-cold-winter-waiting.json](./126027-corrosion-cold-winter-waiting.json) |
+| Corrosion: Cold Winter Waiting - Enhanced Edition | 35752 | [35752-corrosion-cold-winter-waiting-enhanced-edition.json](./35752-corrosion-cold-winter-waiting-enhanced-edition.json) |
 | Corru.Observer | 241239 | [241239-corru-observer.json](./241239-corru-observer.json) |
 | Corrupt | 343328 | [343328-corrupt.json](./343328-corrupt.json) |
 | Corrupt | 67916 | [67916-corrupt.json](./67916-corrupt.json) |
@@ -13748,6 +13753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescent Satsujin Jiken: Tozasareta Nikki | 276102 | [276102-crescent-satsujin-jiken-tozasareta-nikki.json](./276102-crescent-satsujin-jiken-tozasareta-nikki.json) |
 | Crescent Tower | 339979 | [339979-crescent-tower.json](./339979-crescent-tower.json) |
 | Crescite | 262096 | [262096-crescite.json](./262096-crescite.json) |
+| Crest | 35957 | [35957-crest.json](./35957-crest.json) |
 | Crest of the Stars | 57940 | [57940-crest-of-the-stars.json](./57940-crest-of-the-stars.json) |
 | Cresteaju | 143094 | [143094-cresteaju.json](./143094-cresteaju.json) |
 | Crestfall | 327897 | [327897-crestfall.json](./327897-crestfall.json) |
@@ -15046,6 +15052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Squad | 236503 | [236503-crystal-squad.json](./236503-crystal-squad.json) |
 | Crystal Stacker | 57452 | [57452-crystal-stacker.json](./57452-crystal-stacker.json) |
 | Crystal Storm | 235194 | [235194-crystal-storm.json](./235194-crystal-storm.json) |
+| Crystal Story II | 35874 | [35874-crystal-story-ii.json](./35874-crystal-story-ii.json) |
 | Crystal Story: Dawn of Dusk | 190972 | [190972-crystal-story-dawn-of-dusk.json](./190972-crystal-story-dawn-of-dusk.json) |
 | Crystal Story: The Hero and the Evil Witch | 133357 | [133357-crystal-story-the-hero-and-the-evil-witch.json](./133357-crystal-story-the-hero-and-the-evil-witch.json) |
 | Crystal Survivor | 297882 | [297882-crystal-survivor.json](./297882-crystal-survivor.json) |
