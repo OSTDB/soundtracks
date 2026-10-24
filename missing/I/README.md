@@ -2170,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Caves | 105927 | [105927-impossible-caves.json](./105927-impossible-caves.json) |
 | Impossible Cleaning | 179378 | [179378-impossible-cleaning.json](./179378-impossible-cleaning.json) |
 | Impossible Commando Shooting FPS Fury | 101983 | [101983-impossible-commando-shooting-fps-fury.json](./101983-impossible-commando-shooting-fps-fury.json) |
+| Impossible Creatures | 14551 | [14551-impossible-creatures.json](./14551-impossible-creatures.json) |
 | Impossible Crime Book | 200384 | [200384-impossible-crime-book.json](./200384-impossible-crime-book.json) |
 | Impossible Date: Tricky Riddle | 208924 | [208924-impossible-date-tricky-riddle.json](./208924-impossible-date-tricky-riddle.json) |
 | Impossible Draw | 128565 | [128565-impossible-draw.json](./128565-impossible-draw.json) |
