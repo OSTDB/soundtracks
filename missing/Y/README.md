@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Zexal World Duel Carnival | 47665 | [47665-yu-gi-oh-zexal-world-duel-carnival.json](./47665-yu-gi-oh-zexal-world-duel-carnival.json) |
 | Yu-Gi-Oh!: Duelingbook | 202358 | [202358-yu-gi-oh-duelingbook.json](./202358-yu-gi-oh-duelingbook.json) |
 | Yu-Nama: The Puzzle | 63364 | [63364-yu-nama-the-puzzle.json](./63364-yu-nama-the-puzzle.json) |
+| Yu-No: A Girl Who Chants Love at the Bound of this World | 11816 | [11816-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world.json](./11816-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world.json) |
 | YU-NO: A Girl Who Chants Love at the Bound of This World | 201228 | [201228-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world.json](./201228-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world.json) |
 | YU-NO: A Girl Who Chants Love at the Bound of this World - Day One Edition | 136220 | [136220-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world-day-one-edition.json](./136220-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world-day-one-edition.json) |
 | Yu'N'Mi | 175745 | [175745-yunmi.json](./175745-yunmi.json) |
