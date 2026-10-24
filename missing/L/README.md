@@ -1383,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laundry++ | 183943 | [183943-laundry.json](./183943-laundry.json) |
 | Laura | 210115 | [210115-laura.json](./210115-laura.json) |
 | Laura Bow and the Mechanical Codex | 351270 | [351270-laura-bow-and-the-mechanical-codex.json](./351270-laura-bow-and-the-mechanical-codex.json) |
+| Laura Jones and the Secret Legacy of Nikola Tesla | 18897 | [18897-laura-jones-and-the-secret-legacy-of-nikola-tesla.json](./18897-laura-jones-and-the-secret-legacy-of-nikola-tesla.json) |
 | Laura Lustful Secrets | 360078 | [360078-laura-lustful-secrets.json](./360078-laura-lustful-secrets.json) |
 | Laura of Reigetsu | 258940 | [258940-laura-of-reigetsu.json](./258940-laura-of-reigetsu.json) |
 | Laura's Happy Adventures | 66703 | [66703-lauras-happy-adventures.json](./66703-lauras-happy-adventures.json) |
