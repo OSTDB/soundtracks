@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty 3: Gold Edition | 47466 | [47466-call-of-duty-3-gold-edition.json](./47466-call-of-duty-3-gold-edition.json) |
 | Call of Duty 3: Special Edition | 294563 | [294563-call-of-duty-3-special-edition.json](./294563-call-of-duty-3-special-edition.json) |
 | Call of Duty 3: Valor Map Pack | 294569 | [294569-call-of-duty-3-valor-map-pack.json](./294569-call-of-duty-3-valor-map-pack.json) |
+| Call of Duty 4: Modern Warfare | 134651 | [134651-call-of-duty-4-modern-warfare.json](./134651-call-of-duty-4-modern-warfare.json) |
 | Call of Duty 4: Modern Warfare | 135294 | [135294-call-of-duty-4-modern-warfare.json](./135294-call-of-duty-4-modern-warfare.json) |
 | Call of Duty 4: Modern Warfare - Game of the Year Edition | 290723 | [290723-call-of-duty-4-modern-warfare-game-of-the-year-edition.json](./290723-call-of-duty-4-modern-warfare-game-of-the-year-edition.json) |
 | Call of Duty 4: Modern Warfare - Limited Collector's Edition | 286606 | [286606-call-of-duty-4-modern-warfare-limited-collectors-edition.json](./286606-call-of-duty-4-modern-warfare-limited-collectors-edition.json) |
@@ -4208,6 +4209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centipede | 199424 | [199424-centipede.json](./199424-centipede.json) |
 | Centipede | 218804 | [218804-centipede.json](./218804-centipede.json) |
 | Centipede | 2235 | [2235-centipede.json](./2235-centipede.json) |
+| Centipede | 2237 | [2237-centipede.json](./2237-centipede.json) |
 | Centipede | 245541 | [245541-centipede.json](./245541-centipede.json) |
 | Centipede | 282564 | [282564-centipede.json](./282564-centipede.json) |
 | Centipede | 289407 | [289407-centipede.json](./289407-centipede.json) |
@@ -7213,6 +7215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities Restored | 211995 | [211995-cities-restored.json](./211995-cities-restored.json) |
 | Cities Skylines Mobile Edition | 237630 | [237630-cities-skylines-mobile-edition.json](./237630-cities-skylines-mobile-edition.json) |
 | Cities XL | 4212 | [4212-cities-xl.json](./4212-cities-xl.json) |
+| Cities XL 2011 | 2154 | [2154-cities-xl-2011.json](./2154-cities-xl-2011.json) |
 | Cities XL 2012 | 4213 | [4213-cities-xl-2012.json](./4213-cities-xl-2012.json) |
 | Cities XL: Limited Edition | 29202 | [29202-cities-xl-limited-edition.json](./29202-cities-xl-limited-edition.json) |
 | Cities XL: Platinum | 4214 | [4214-cities-xl-platinum.json](./4214-cities-xl-platinum.json) |
