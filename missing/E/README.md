@@ -1207,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg vs. Chicken | 79770 | [79770-egg-vs-chicken.json](./79770-egg-vs-chicken.json) |
 | Egg War Puzzle | 257916 | [257916-egg-war-puzzle.json](./257916-egg-war-puzzle.json) |
 | Egg Yolk Life | 129715 | [129715-egg-yolk-life.json](./129715-egg-yolk-life.json) |
+| Egg, Inc. | 58133 | [58133-egg-inc.json](./58133-egg-inc.json) |
 | Egg! | 231966 | [231966-egg.json](./231966-egg.json) |
 | Eggbert's Bird Bath | 404391 | [404391-eggberts-bird-bath.json](./404391-eggberts-bird-bath.json) |
 | Eggbird | 402330 | [402330-eggbird.json](./402330-eggbird.json) |
@@ -5669,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Dark | 311225 | [311225-evil-dark.json](./311225-evil-dark.json) |
 | Evil Dead Pinball | 219100 | [219100-evil-dead-pinball.json](./219100-evil-dead-pinball.json) |
 | Evil Dead: A Fistful of Boomstick | 5827 | [5827-evil-dead-a-fistful-of-boomstick.json](./5827-evil-dead-a-fistful-of-boomstick.json) |
+| Evil Dead: Hail to the King | 47078 | [47078-evil-dead-hail-to-the-king.json](./47078-evil-dead-hail-to-the-king.json) |
 | Evil Dead: Regeneration | 5828 | [5828-evil-dead-regeneration.json](./5828-evil-dead-regeneration.json) |
 | Evil Dead: The Game | 141544 | [141544-evil-dead-the-game.json](./141544-evil-dead-the-game.json) |
 | Evil Dead: The Game | 66308 | [66308-evil-dead-the-game.json](./66308-evil-dead-the-game.json) |
