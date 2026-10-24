@@ -3211,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -4749,6 +4750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wink Out | 404410 | [404410-wink-out.json](./404410-wink-out.json) |
 | Winkeltje: Cat Companion | 273939 | [273939-winkeltje-cat-companion.json](./273939-winkeltje-cat-companion.json) |
 | Winkeltje: The Little Shop | 114493 | [114493-winkeltje-the-little-shop.json](./114493-winkeltje-the-little-shop.json) |
+| WinKings | 33889 | [33889-winkings.json](./33889-winkings.json) |
 | Winky the Little Bear | 213857 | [213857-winky-the-little-bear.json](./213857-winky-the-little-bear.json) |
 | Winky Trap | 131582 | [131582-winky-trap.json](./131582-winky-trap.json) |
 | Winlinez | 246313 | [246313-winlinez.json](./246313-winlinez.json) |
