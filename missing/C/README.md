@@ -2930,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Lords of Shadow - Resurrection | 10076 | [10076-castlevania-lords-of-shadow-resurrection.json](./10076-castlevania-lords-of-shadow-resurrection.json) |
 | Castlevania: Lords of Shadow - Reverie | 10075 | [10075-castlevania-lords-of-shadow-reverie.json](./10075-castlevania-lords-of-shadow-reverie.json) |
 | Castlevania: Lords of Shadow - Special Edition | 386289 | [386289-castlevania-lords-of-shadow-special-edition.json](./386289-castlevania-lords-of-shadow-special-edition.json) |
+| Castlevania: Lords of Shadow - Ultimate Edition | 21713 | [21713-castlevania-lords-of-shadow-ultimate-edition.json](./21713-castlevania-lords-of-shadow-ultimate-edition.json) |
 | Castlevania: Lords of Shadow 2 | 1182 | [1182-castlevania-lords-of-shadow-2.json](./1182-castlevania-lords-of-shadow-2.json) |
 | Castlevania: Lords of Shadow 2 - Dracula's Tomb Premium Edition | 112642 | [112642-castlevania-lords-of-shadow-2-draculas-tomb-premium-edition.json](./112642-castlevania-lords-of-shadow-2-draculas-tomb-premium-edition.json) |
 | Castlevania: Lords of Shadow 2 - Revelations | 6303 | [6303-castlevania-lords-of-shadow-2-revelations.json](./6303-castlevania-lords-of-shadow-2-revelations.json) |
@@ -3282,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataclysm Upon Us | 274771 | [274771-cataclysm-upon-us.json](./274771-cataclysm-upon-us.json) |
 | Cataclysm: Bright Future Ahead | 339303 | [339303-cataclysm-bright-future-ahead.json](./339303-cataclysm-bright-future-ahead.json) |
 | Cataclysm: Bright Nights | 194968 | [194968-cataclysm-bright-nights.json](./194968-cataclysm-bright-nights.json) |
+| Cataclysm: Dark Days Ahead | 18730 | [18730-cataclysm-dark-days-ahead.json](./18730-cataclysm-dark-days-ahead.json) |
 | Cataclysm: Even Angels Sin | 307238 | [307238-cataclysm-even-angels-sin.json](./307238-cataclysm-even-angels-sin.json) |
 | Cataclysms and Catastrophes | 148682 | [148682-cataclysms-and-catastrophes.json](./148682-cataclysms-and-catastrophes.json) |
 | Catacomb | 11042 | [11042-catacomb.json](./11042-catacomb.json) |
@@ -6696,6 +6698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Survival | 214690 | [214690-chrono-survival.json](./214690-chrono-survival.json) |
 | Chrono Sword | 122280 | [122280-chrono-sword.json](./122280-chrono-sword.json) |
 | Chrono Tales | 333574 | [333574-chrono-tales.json](./333574-chrono-tales.json) |
+| Chrono Trigger | 206320 | [206320-chrono-trigger.json](./206320-chrono-trigger.json) |
 | Chrono Trigger | 263447 | [263447-chrono-trigger.json](./263447-chrono-trigger.json) |
 | Chrono Trigger | 89828 | [89828-chrono-trigger.json](./89828-chrono-trigger.json) |
 | Chrono Trigger: Bugfix and Uncensoring Patch | 249442 | [249442-chrono-trigger-bugfix-and-uncensoring-patch.json](./249442-chrono-trigger-bugfix-and-uncensoring-patch.json) |
@@ -11281,6 +11284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook-A-Geddon | 265433 | [265433-cook-a-geddon.json](./265433-cook-a-geddon.json) |
 | Cook-Off Party | 50688 | [50688-cook-off-party.json](./50688-cook-off-party.json) |
 | Cook, Serve, Delicious, Trilogy! | 278655 | [278655-cook-serve-delicious-trilogy.json](./278655-cook-serve-delicious-trilogy.json) |
+| Cook, Serve, Delicious! 2!! | 23236 | [23236-cook-serve-delicious-2.json](./23236-cook-serve-delicious-2.json) |
 | Cook, Serve, Delicious! 3?! | 121500 | [121500-cook-serve-delicious-3.json](./121500-cook-serve-delicious-3.json) |
 | Cook'n'Slash | 244261 | [244261-cooknslash.json](./244261-cooknslash.json) |
 | Cookard | 298697 | [298697-cookard.json](./298697-cookard.json) |
@@ -12151,6 +12155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosplay Relaxation | 275137 | [275137-cosplay-relaxation.json](./275137-cosplay-relaxation.json) |
 | Cosplay Relaxation | 276323 | [276323-cosplay-relaxation.json](./276323-cosplay-relaxation.json) |
 | Cosplaying in Costalia: The Tororo Sisters! | 411787 | [411787-cosplaying-in-costalia-the-tororo-sisters.json](./411787-cosplaying-in-costalia-the-tororo-sisters.json) |
+| Cossacks 3 | 13215 | [13215-cossacks-3.json](./13215-cossacks-3.json) |
 | Cossacks 3: Days of Brilliance | 51742 | [51742-cossacks-3-days-of-brilliance.json](./51742-cossacks-3-days-of-brilliance.json) |
 | Cossacks 3: Guardians of the Highlands | 51763 | [51763-cossacks-3-guardians-of-the-highlands.json](./51763-cossacks-3-guardians-of-the-highlands.json) |
 | Cossacks 3: Path to Grandeur | 51762 | [51762-cossacks-3-path-to-grandeur.json](./51762-cossacks-3-path-to-grandeur.json) |
@@ -12273,6 +12278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter-Fall | 127746 | [127746-counter-fall.json](./127746-counter-fall.json) |
 | Counter-Strike 1 Anthology | 277809 | [277809-counter-strike-1-anthology.json](./277809-counter-strike-1-anthology.json) |
 | Counter-Strike NEO: White Memories | 143558 | [143558-counter-strike-neo-white-memories.json](./143558-counter-strike-neo-white-memories.json) |
+| Counter-Strike Nexon | 16957 | [16957-counter-strike-nexon.json](./16957-counter-strike-nexon.json) |
 | Counter-Strike Online | 77251 | [77251-counter-strike-online.json](./77251-counter-strike-online.json) |
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
 | Counter-Strike: Source Offensive | 287621 | [287621-counter-strike-source-offensive.json](./287621-counter-strike-source-offensive.json) |
