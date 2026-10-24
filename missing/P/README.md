@@ -3812,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona Ain Soph | 71159 | [71159-persona-ain-soph.json](./71159-persona-ain-soph.json) |
 | Persona Collection | 271123 | [271123-persona-collection.json](./271123-persona-collection.json) |
 | Persona Dancing Deluxe Twin Plus | 136764 | [136764-persona-dancing-deluxe-twin-plus.json](./136764-persona-dancing-deluxe-twin-plus.json) |
+| Persona Dancing: Endless Night Collection | 106988 | [106988-persona-dancing-endless-night-collection.json](./106988-persona-dancing-endless-night-collection.json) |
 | Persona Q: Shadow of the Labyrinth | 6887 | [6887-persona-q-shadow-of-the-labyrinth.json](./6887-persona-q-shadow-of-the-labyrinth.json) |
 | Persona Q: Shadow of the Labyrinth - Wild Cards Premium Edition | 41871 | [41871-persona-q-shadow-of-the-labyrinth-wild-cards-premium-edition.json](./41871-persona-q-shadow-of-the-labyrinth-wild-cards-premium-edition.json) |
 | Persona Q2: New Cinema Labyrinth - Showtime Premium Edition | 136347 | [136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json](./136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json) |
@@ -9526,6 +9527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polarity Switch | 176342 | [176342-polarity-switch.json](./176342-polarity-switch.json) |
 | Polarity Warthog | 323225 | [323225-polarity-warthog.json](./323225-polarity-warthog.json) |
 | Polarity: Ultimate Edition | 28732 | [28732-polarity-ultimate-edition.json](./28732-polarity-ultimate-edition.json) |
+| Polarium | 6537 | [6537-polarium.json](./6537-polarium.json) |
 | Polarize | 228582 | [228582-polarize.json](./228582-polarize.json) |
 | Polars | 214354 | [214354-polars.json](./214354-polars.json) |
 | Polarvoid | 276067 | [276067-polarvoid.json](./276067-polarvoid.json) |
