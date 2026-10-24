@@ -2598,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technolites | 109509 | [109509-technolites.json](./109509-technolites.json) |
 | Technolites: Episode 1 | 109616 | [109616-technolites-episode-1.json](./109616-technolites-episode-1.json) |
 | Technology Market Simulation | 344523 | [344523-technology-market-simulation.json](./344523-technology-market-simulation.json) |
+| Technolust | 18952 | [18952-technolust.json](./18952-technolust.json) |
 | Technolympus | 256786 | [256786-technolympus.json](./256786-technolympus.json) |
 | TechnoMagic | 187370 | [187370-technomagic.json](./187370-technomagic.json) |
 | Technomancer | 423231 | [423231-technomancer.json](./423231-technomancer.json) |
@@ -6429,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Half | 71515 | [71515-the-dark-half.json](./71515-the-dark-half.json) |
 | The Dark Heart of Balor | 199483 | [199483-the-dark-heart-of-balor.json](./199483-the-dark-heart-of-balor.json) |
 | The Dark Hills of Cherai 2: The Regal Scepter | 158947 | [158947-the-dark-hills-of-cherai-2-the-regal-scepter.json](./158947-the-dark-hills-of-cherai-2-the-regal-scepter.json) |
+| The Dark Hills of Cheral | 18898 | [18898-the-dark-hills-of-cheral.json](./18898-the-dark-hills-of-cheral.json) |
 | The Dark House | 267949 | [267949-the-dark-house.json](./267949-the-dark-house.json) |
 | The Dark Inside Me | 99005 | [99005-the-dark-inside-me.json](./99005-the-dark-inside-me.json) |
 | The Dark is a Soft, Warm Pressure | 276921 | [276921-the-dark-is-a-soft-warm-pressure.json](./276921-the-dark-is-a-soft-warm-pressure.json) |
@@ -11392,7 +11394,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -14588,6 +14589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Travelyan Home | 133225 | [133225-the-travelyan-home.json](./133225-the-travelyan-home.json) |
 | The Treasure of Civilization | 153422 | [153422-the-treasure-of-civilization.json](./153422-the-treasure-of-civilization.json) |
 | The Treasure of Neverland | 319304 | [319304-the-treasure-of-neverland.json](./319304-the-treasure-of-neverland.json) |
+| The Treasure of Usas | 18921 | [18921-the-treasure-of-usas.json](./18921-the-treasure-of-usas.json) |
 | The Treasure Seekers of Lady Luck | 83596 | [83596-the-treasure-seekers-of-lady-luck.json](./83596-the-treasure-seekers-of-lady-luck.json) |
 | The Treasures of Hotei | 96071 | [96071-the-treasures-of-hotei.json](./96071-the-treasures-of-hotei.json) |
 | The Treasures of Montezuma | 44068 | [44068-the-treasures-of-montezuma.json](./44068-the-treasures-of-montezuma.json) |
@@ -18498,6 +18500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Ramesside (A New Reckoning) | 36351 | [36351-time-ramesside-a-new-reckoning.json](./36351-time-ramesside-a-new-reckoning.json) |
 | Time Re:Quest | 329083 | [329083-time-re-quest.json](./329083-time-re-quest.json) |
 | Time Recoil | 27785 | [27785-time-recoil.json](./27785-time-recoil.json) |
+| Time Relics: Gears of Light | 18895 | [18895-time-relics-gears-of-light.json](./18895-time-relics-gears-of-light.json) |
 | Time Reversal | 188352 | [188352-time-reversal.json](./188352-time-reversal.json) |
 | Time Riders in American History | 73722 | [73722-time-riders-in-american-history.json](./73722-time-riders-in-american-history.json) |
 | Time Rift | 133222 | [133222-time-rift.json](./133222-time-rift.json) |
@@ -24972,6 +24975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinity Universe | 7474 | [7474-trinity-universe.json](./7474-trinity-universe.json) |
 | Trinity VR | 111991 | [111991-trinity-vr.json](./111991-trinity-vr.json) |
 | Trinity x Calamity: Midara na Shitsuke to Owaru Sekai | 133245 | [133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json](./133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json) |
+| Trinium Wars | 18923 | [18923-trinium-wars.json](./18923-trinium-wars.json) |
 | Trinket Bag Maker | 382569 | [382569-trinket-bag-maker.json](./382569-trinket-bag-maker.json) |
 | Trinkets | 355078 | [355078-trinkets.json](./355078-trinkets.json) |
 | Trinoline | 116366 | [116366-trinoline.json](./116366-trinoline.json) |
