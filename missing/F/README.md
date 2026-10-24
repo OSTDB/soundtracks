@@ -2297,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmscapes | 50452 | [50452-farmscapes.json](./50452-farmscapes.json) |
 | Farmtastic | 352351 | [352351-farmtastic.json](./352351-farmtastic.json) |
 | FarmTech | 257891 | [257891-farmtech.json](./257891-farmtech.json) |
+| Farmville | 9765 | [9765-farmville.json](./9765-farmville.json) |
 | FarmVille 2: Country Escape | 38889 | [38889-farmville-2-country-escape.json](./38889-farmville-2-country-escape.json) |
 | FarmVille 3 | 204459 | [204459-farmville-3.json](./204459-farmville-3.json) |
 | FarmVille: Tropic Escape | 87574 | [87574-farmville-tropic-escape.json](./87574-farmville-tropic-escape.json) |
@@ -3582,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 2004 | 240275 | [240275-fifa-soccer-2004.json](./240275-fifa-soccer-2004.json) |
 | FIFA Soccer 2004 | 240276 | [240276-fifa-soccer-2004.json](./240276-fifa-soccer-2004.json) |
 | FIFA Soccer 2004 | 3136 | [3136-fifa-soccer-2004.json](./3136-fifa-soccer-2004.json) |
+| FIFA Soccer 2005 | 49195 | [49195-fifa-soccer-2005.json](./49195-fifa-soccer-2005.json) |
 | FIFA Soccer 2005: Mobile International Edition | 209186 | [209186-fifa-soccer-2005-mobile-international-edition.json](./209186-fifa-soccer-2005-mobile-international-edition.json) |
 | FIFA Soccer 64 | 10682 | [10682-fifa-soccer-64.json](./10682-fifa-soccer-64.json) |
 | FIFA Soccer 95 | 4539 | [4539-fifa-soccer-95.json](./4539-fifa-soccer-95.json) |
@@ -4198,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XV: King's Knight Tee | 350501 | [350501-final-fantasy-xv-kings-knight-tee.json](./350501-final-fantasy-xv-kings-knight-tee.json) |
 | Final Fantasy XV: Memories of King's Knight | 350944 | [350944-final-fantasy-xv-memories-of-kings-knight.json](./350944-final-fantasy-xv-memories-of-kings-knight.json) |
 | Final Fantasy XV: Noodle Helmet | 350946 | [350946-final-fantasy-xv-noodle-helmet.json](./350946-final-fantasy-xv-noodle-helmet.json) |
+| Final Fantasy XV: Pocket Edition | 55035 | [55035-final-fantasy-xv-pocket-edition.json](./55035-final-fantasy-xv-pocket-edition.json) |
 | Final Fantasy XV: Pocket Edition HD | 108156 | [108156-final-fantasy-xv-pocket-edition-hd.json](./108156-final-fantasy-xv-pocket-edition-hd.json) |
 | Final Fantasy XV: Royal Edition | 80877 | [80877-final-fantasy-xv-royal-edition.json](./80877-final-fantasy-xv-royal-edition.json) |
 | Final Fantasy XV: Royal Pack | 224410 | [224410-final-fantasy-xv-royal-pack.json](./224410-final-fantasy-xv-royal-pack.json) |
@@ -7506,6 +7509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Thug Life Soccer | 255741 | [255741-football-thug-life-soccer.json](./255741-football-thug-life-soccer.json) |
 | Football Tournament | 164882 | [164882-football-tournament.json](./164882-football-tournament.json) |
 | Football VR | 32092 | [32092-football-vr.json](./32092-football-vr.json) |
+| Football, Tactics & Glory | 35091 | [35091-football-tactics-and-glory.json](./35091-football-tactics-and-glory.json) |
 | Football, Tactics & Glory 2 | 258555 | [258555-football-tactics-and-glory-2.json](./258555-football-tactics-and-glory-2.json) |
 | Football, Tactics & Glory: Manager's Journey | 192149 | [192149-football-tactics-and-glory-managers-journey.json](./192149-football-tactics-and-glory-managers-journey.json) |
 | Football: Breakthrough Gaming Arcade | 145489 | [145489-football-breakthrough-gaming-arcade.json](./145489-football-breakthrough-gaming-arcade.json) |
@@ -8423,6 +8427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FortressCraft: Chapter 1 | 168834 | [168834-fortresscraft-chapter-1.json](./168834-fortresscraft-chapter-1.json) |
 | FortressOne | 144345 | [144345-fortressone.json](./144345-fortressone.json) |
 | Fortroyale Battleground | 96582 | [96582-fortroyale-battleground.json](./96582-fortroyale-battleground.json) |
+| Forts | 34269 | [34269-forts.json](./34269-forts.json) |
 | Forts: High Seas | 195771 | [195771-forts-high-seas.json](./195771-forts-high-seas.json) |
 | Fortuito: Lost History | 156667 | [156667-fortuito-lost-history.json](./156667-fortuito-lost-history.json) |
 | Fortuna | 218172 | [218172-fortuna.json](./218172-fortuna.json) |
