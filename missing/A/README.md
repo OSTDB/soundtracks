@@ -1591,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABPA Backgammon | 5653 | [5653-abpa-backgammon.json](./5653-abpa-backgammon.json) |
 | Abra-cooking-dabra | 345039 | [345039-abra-cooking-dabra.json](./345039-abra-cooking-dabra.json) |
 | Abraca | 267482 | [267482-abraca.json](./267482-abraca.json) |
+| Abraca: Imagic Games | 35858 | [35858-abraca-imagic-games.json](./35858-abraca-imagic-games.json) |
 | Abracablabla | 400403 | [400403-abracablabla.json](./400403-abracablabla.json) |
 | Abracadabra | 145900 | [145900-abracadabra.json](./145900-abracadabra.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
@@ -2061,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace of Spades | 236386 | [236386-ace-of-spades.json](./236386-ace-of-spades.json) |
 | Ace of Spades: Battle Builder | 23400 | [23400-ace-of-spades-battle-builder.json](./23400-ace-of-spades-battle-builder.json) |
 | Ace of Wands | 321410 | [321410-ace-of-wands.json](./321410-ace-of-wands.json) |
+| Ace Online | 78841 | [78841-ace-online.json](./78841-ace-online.json) |
 | Ace Pilot Pacific | 283877 | [283877-ace-pilot-pacific.json](./283877-ace-pilot-pacific.json) |
 | Ace Prosecutor Zero | 303022 | [303022-ace-prosecutor-zero.json](./303022-ace-prosecutor-zero.json) |
 | Ace Racer | 174905 | [174905-ace-racer.json](./174905-ace-racer.json) |
@@ -3681,6 +3683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Expansion | 391049 | [391049-age-of-expansion.json](./391049-age-of-expansion.json) |
 | Age of Explorers | 396377 | [396377-age-of-explorers.json](./396377-age-of-explorers.json) |
 | Age of Farming | 30500 | [30500-age-of-farming.json](./30500-age-of-farming.json) |
+| Age of Fear 2: The Chaos Lord | 35992 | [35992-age-of-fear-2-the-chaos-lord.json](./35992-age-of-fear-2-the-chaos-lord.json) |
 | Age of Fear 2: The Chaos Lord Gold | 180125 | [180125-age-of-fear-2-the-chaos-lord-gold.json](./180125-age-of-fear-2-the-chaos-lord-gold.json) |
 | Age of Fear 3: The Legend | 51550 | [51550-age-of-fear-3-the-legend.json](./51550-age-of-fear-3-the-legend.json) |
 | Age of Fear 4: The Iron Killer | 118733 | [118733-age-of-fear-4-the-iron-killer.json](./118733-age-of-fear-4-the-iron-killer.json) |
