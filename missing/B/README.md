@@ -1661,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang! Bang! Totally Accurate Redneck Simulator | 138808 | [138808-bang-bang-totally-accurate-redneck-simulator.json](./138808-bang-bang-totally-accurate-redneck-simulator.json) |
 | Bang! Howdy | 51472 | [51472-bang-howdy.json](./51472-bang-howdy.json) |
 | Bangai-O | 3443 | [3443-bangai-o.json](./3443-bangai-o.json) |
+| Bangai-O HD | 21783 | [21783-bangai-o-hd.json](./21783-bangai-o-hd.json) |
 | Bangai-O HD: Missile Fury | 91845 | [91845-bangai-o-hd-missile-fury.json](./91845-bangai-o-hd-missile-fury.json) |
 | BangBang PewPew | 193484 | [193484-bangbang-pewpew.json](./193484-bangbang-pewpew.json) |
 | BangBangShooting | 151141 | [151141-bangbangshooting.json](./151141-bangbangshooting.json) |
@@ -2954,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle For Landriel | 107788 | [107788-battle-for-landriel.json](./107788-battle-for-landriel.json) |
 | Battle For Life | 63801 | [63801-battle-for-life.json](./63801-battle-for-life.json) |
 | Battle for Mars | 91783 | [91783-battle-for-mars.json](./91783-battle-for-mars.json) |
+| Battle for Normandy | 21866 | [21866-battle-for-normandy.json](./21866-battle-for-normandy.json) |
 | Battle for Orion 2 | 30279 | [30279-battle-for-orion-2.json](./30279-battle-for-orion-2.json) |
 | Battle For Presidency | 64653 | [64653-battle-for-presidency.json](./64653-battle-for-presidency.json) |
 | Battle for Rakir | 343296 | [343296-battle-for-rakir.json](./343296-battle-for-rakir.json) |
@@ -7048,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bittersweet Starlight | 225514 | [225514-bittersweet-starlight.json](./225514-bittersweet-starlight.json) |
 | Bittos | 91418 | [91418-bittos.json](./91418-bittos.json) |
 | Bittos-e | 67065 | [67065-bittos-e.json](./67065-bittos-e.json) |
+| Bittos+ | 21753 | [21753-bittos.json](./21753-bittos.json) |
 | Bitty Knight | 284006 | [284006-bitty-knight.json](./284006-bitty-knight.json) |
 | BitVault | 129682 | [129682-bitvault.json](./129682-bitvault.json) |
 | Bitvest.io | 59425 | [59425-bitvest-io.json](./59425-bitvest-io.json) |
@@ -9400,6 +9403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Sun Saga | 416863 | [416863-blue-sun-saga.json](./416863-blue-sun-saga.json) |
 | Blue Swift Wind | 378362 | [378362-blue-swift-wind.json](./378362-blue-swift-wind.json) |
 | Blue Tear | 30308 | [30308-blue-tear.json](./30308-blue-tear.json) |
+| Blue the Dino | 21980 | [21980-blue-the-dino.json](./21980-blue-the-dino.json) |
 | Blue Thunder | 296678 | [296678-blue-thunder.json](./296678-blue-thunder.json) |
 | Blue Time | 128306 | [128306-blue-time.json](./128306-blue-time.json) |
 | Blue Tower Chronicle | 413739 | [413739-blue-tower-chronicle.json](./413739-blue-tower-chronicle.json) |
@@ -9921,6 +9925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boll Deluxe | 134084 | [134084-boll-deluxe.json](./134084-boll-deluxe.json) |
 | Boll Tower | 344695 | [344695-boll-tower.json](./344695-boll-tower.json) |
 | Boll's Journey | 365065 | [365065-bolls-journey.json](./365065-bolls-journey.json) |
+| Bolo | 21916 | [21916-bolo.json](./21916-bolo.json) |
 | Bolo | 376750 | [376750-bolo.json](./376750-bolo.json) |
 | Bolo | 95468 | [95468-bolo.json](./95468-bolo.json) |
 | Bolo Ball | 94224 | [94224-bolo-ball.json](./94224-bolo-ball.json) |
@@ -9945,6 +9950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolu | 204987 | [204987-bolu.json](./204987-bolu.json) |
 | Bomb | 36309 | [36309-bomb.json](./36309-bomb.json) |
 | Bomb Ace | 362431 | [362431-bomb-ace.json](./362431-bomb-ace.json) |
+| Bomb Alley | 21917 | [21917-bomb-alley.json](./21917-bomb-alley.json) |
 | Bomb Around | 332397 | [332397-bomb-around.json](./332397-bomb-around.json) |
 | Bomb Bee N | 145395 | [145395-bomb-bee-n.json](./145395-bomb-bee-n.json) |
 | Bomb Blaster | 56840 | [56840-bomb-blaster.json](./56840-bomb-blaster.json) |
@@ -10044,6 +10050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber | 44359 | [44359-bomber.json](./44359-bomber.json) |
 | Bomber 3 | 223361 | [223361-bomber-3.json](./223361-bomber-3.json) |
 | Bomber 95 | 106506 | [106506-bomber-95.json](./106506-bomber-95.json) |
+| Bomber Attack | 21918 | [21918-bomber-attack.json](./21918-bomber-attack.json) |
 | Bomber Barn | 113497 | [113497-bomber-barn.json](./113497-bomber-barn.json) |
 | Bomber Baron | 15683 | [15683-bomber-baron.json](./15683-bomber-baron.json) |
 | Bomber Battle : Bomb Man Arena | 234440 | [234440-bomber-battle-bomb-man-arena.json](./234440-bomber-battle-bomb-man-arena.json) |
@@ -11642,6 +11649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainstorm Series: Treasure Chase | 130389 | [130389-brainstorm-series-treasure-chase.json](./130389-brainstorm-series-treasure-chase.json) |
 | Brainstorm: The Game Show | 71485 | [71485-brainstorm-the-game-show.json](./71485-brainstorm-the-game-show.json) |
 | BrainTaire | 261521 | [261521-braintaire.json](./261521-braintaire.json) |
+| Brainteaser Boulevard! | 21919 | [21919-brainteaser-boulevard.json](./21919-brainteaser-boulevard.json) |
 | Brainwave Trials | 304426 | [304426-brainwave-trials.json](./304426-brainwave-trials.json) |
 | Brainy Joy | 75937 | [75937-brainy-joy.json](./75937-brainy-joy.json) |
 | Brainy Mouse | 90844 | [90844-brainy-mouse.json](./90844-brainy-mouse.json) |
