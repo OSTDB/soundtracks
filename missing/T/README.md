@@ -1839,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanzanite Crush | 282548 | [282548-tanzanite-crush.json](./282548-tanzanite-crush.json) |
 | TanZen HD | 100144 | [100144-tanzen-hd.json](./100144-tanzen-hd.json) |
 | Tanzer | 103245 | [103245-tanzer.json](./103245-tanzer.json) |
+| Tanzia | 28309 | [28309-tanzia.json](./28309-tanzia.json) |
 | Tao | 58604 | [58604-tao.json](./58604-tao.json) |
 | Tao Taido | 39585 | [39585-tao-taido.json](./39585-tao-taido.json) |
 | Tao Yuan Shen Chu You Ren Jia | 283374 | [283374-tao-yuan-shen-chu-you-ren-jia.json](./283374-tao-yuan-shen-chu-you-ren-jia.json) |
@@ -4715,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Spider-Man | 203143 | [203143-the-amazing-spider-man.json](./203143-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 254522 | [254522-the-amazing-spider-man.json](./254522-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 83898 | [83898-the-amazing-spider-man.json](./83898-the-amazing-spider-man.json) |
+| The Amazing Spider-Man 2 | 107330 | [107330-the-amazing-spider-man-2.json](./107330-the-amazing-spider-man-2.json) |
 | The Amazing Spider-Man 2 | 196243 | [196243-the-amazing-spider-man-2.json](./196243-the-amazing-spider-man-2.json) |
 | The Amazing Spider-Man 2 | 203150 | [203150-the-amazing-spider-man-2.json](./203150-the-amazing-spider-man-2.json) |
 | The Amazing Spider-Man 2 | 4755 | [4755-the-amazing-spider-man-2.json](./4755-the-amazing-spider-man-2.json) |
@@ -9881,6 +9883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Quest | 185158 | [185158-the-last-quest.json](./185158-the-last-quest.json) |
 | The Last Refuge | 324329 | [324329-the-last-refuge.json](./324329-the-last-refuge.json) |
 | The Last Refuge | 72109 | [72109-the-last-refuge.json](./72109-the-last-refuge.json) |
+| The Last Remnant Remastered | 109282 | [109282-the-last-remnant-remastered.json](./109282-the-last-remnant-remastered.json) |
 | The Last Resistance | 177728 | [177728-the-last-resistance.json](./177728-the-last-resistance.json) |
 | The Last Resourcer | 347772 | [347772-the-last-resourcer.json](./347772-the-last-resourcer.json) |
 | The Last Revenant | 280881 | [280881-the-last-revenant.json](./280881-the-last-revenant.json) |
@@ -11489,6 +11492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -13109,6 +13113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers III: Mission CD | 125210 | [125210-the-settlers-iii-mission-cd.json](./125210-the-settlers-iii-mission-cd.json) |
 | The Settlers III: Quest of the Amazons | 11334 | [11334-the-settlers-iii-quest-of-the-amazons.json](./11334-the-settlers-iii-quest-of-the-amazons.json) |
 | The Settlers III: Ultimate Collection | 154448 | [154448-the-settlers-iii-ultimate-collection.json](./154448-the-settlers-iii-ultimate-collection.json) |
+| The Settlers IV: Gold Edition | 51916 | [51916-the-settlers-iv-gold-edition.json](./51916-the-settlers-iv-gold-edition.json) |
 | The Settlers IV: The Trojans and the Elixir of Power | 21858 | [21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json](./21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json) |
 | The Settlers Mobile | 85862 | [85862-the-settlers-mobile.json](./85862-the-settlers-mobile.json) |
 | The Settlers Online | 23606 | [23606-the-settlers-online.json](./23606-the-settlers-online.json) |
@@ -18899,6 +18904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tims Word Challenge | 406241 | [406241-tims-word-challenge.json](./406241-tims-word-challenge.json) |
 | Tin Can | 139282 | [139282-tin-can.json](./139282-tin-can.json) |
 | Tin Can: Original Tracks | 293774 | [293774-tin-can-original-tracks.json](./293774-tin-can-original-tracks.json) |
+| Tin Hearts | 111090 | [111090-tin-hearts.json](./111090-tin-hearts.json) |
 | Tin Knight | 240093 | [240093-tin-knight.json](./240093-tin-knight.json) |
 | Tin Soldiers: Alexander the Great | 72757 | [72757-tin-soldiers-alexander-the-great.json](./72757-tin-soldiers-alexander-the-great.json) |
 | Tin Soldiers: Julius Caesar | 72758 | [72758-tin-soldiers-julius-caesar.json](./72758-tin-soldiers-julius-caesar.json) |
@@ -24708,6 +24714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treble-Basie | 390756 | [390756-treble-basie.json](./390756-treble-basie.json) |
 | Trebuchet | 36086 | [36086-trebuchet.json](./36086-trebuchet.json) |
 | Trebuchet Town | 175993 | [175993-trebuchet-town.json](./175993-trebuchet-town.json) |
+| Tree | 107899 | [107899-tree.json](./107899-tree.json) |
 | Tree Golf | 181662 | [181662-tree-golf.json](./181662-tree-golf.json) |
 | Tree Hole: Adventures In Wonderland | 248191 | [248191-tree-hole-adventures-in-wonderland.json](./248191-tree-hole-adventures-in-wonderland.json) |
 | Tree House : The Avocado Mayhem | 121255 | [121255-tree-house-the-avocado-mayhem.json](./121255-tree-house-the-avocado-mayhem.json) |
