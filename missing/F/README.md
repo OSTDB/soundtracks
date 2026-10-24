@@ -5612,6 +5612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's 3 | 230775 | [230775-five-nights-at-freddys-3.json](./230775-five-nights-at-freddys-3.json) |
 | Five Nights at Freddy's 3 | 241177 | [241177-five-nights-at-freddys-3.json](./241177-five-nights-at-freddys-3.json) |
 | Five Nights at Freddy's 3 | 312229 | [312229-five-nights-at-freddys-3.json](./312229-five-nights-at-freddys-3.json) |
+| Five Nights at Freddy's 3 | 9196 | [9196-five-nights-at-freddys-3.json](./9196-five-nights-at-freddys-3.json) |
 | Five Nights at Freddy's 3D | 271944 | [271944-five-nights-at-freddys-3d.json](./271944-five-nights-at-freddys-3d.json) |
 | Five Nights at Freddy's 4 | 11583 | [11583-five-nights-at-freddys-4.json](./11583-five-nights-at-freddys-4.json) |
 | Five Nights at Freddy's 4 | 241192 | [241192-five-nights-at-freddys-4.json](./241192-five-nights-at-freddys-4.json) |
@@ -10547,6 +10548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Throttle Parking | 388010 | [388010-full-throttle-parking.json](./388010-full-throttle-parking.json) |
 | Full Throttle Pixel Racing | 332015 | [332015-full-throttle-pixel-racing.json](./332015-full-throttle-pixel-racing.json) |
 | Full Throttle Racing | 42594 | [42594-full-throttle-racing.json](./42594-full-throttle-racing.json) |
+| Full Throttle Remastered | 26179 | [26179-full-throttle-remastered.json](./26179-full-throttle-remastered.json) |
 | Full Throttle: All-American Racing | 159174 | [159174-full-throttle-all-american-racing.json](./159174-full-throttle-all-american-racing.json) |
 | Full Throttle: Hell on Wheels | 72722 | [72722-full-throttle-hell-on-wheels.json](./72722-full-throttle-hell-on-wheels.json) |
 | Full Throttle: Payback | 92659 | [92659-full-throttle-payback.json](./92659-full-throttle-payback.json) |
