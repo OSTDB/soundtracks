@@ -11678,6 +11678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia Collection: Limited Edition | 209893 | [209893-prince-of-persia-collection-limited-edition.json](./209893-prince-of-persia-collection-limited-edition.json) |
 | Prince of Persia Retro | 284854 | [284854-prince-of-persia-retro.json](./284854-prince-of-persia-retro.json) |
 | Prince of Persia Trilogy | 44706 | [44706-prince-of-persia-trilogy.json](./44706-prince-of-persia-trilogy.json) |
+| Prince of Persia Trilogy HD | 21715 | [21715-prince-of-persia-trilogy-hd.json](./21715-prince-of-persia-trilogy-hd.json) |
 | Prince of Persia Trilogy: Limited Edition | 43430 | [43430-prince-of-persia-trilogy-limited-edition.json](./43430-prince-of-persia-trilogy-limited-edition.json) |
 | Prince of Persia: Arabian Nights | 143442 | [143442-prince-of-persia-arabian-nights.json](./143442-prince-of-persia-arabian-nights.json) |
 | Prince of Persia: Epilogue | 142472 | [142472-prince-of-persia-epilogue.json](./142472-prince-of-persia-epilogue.json) |
