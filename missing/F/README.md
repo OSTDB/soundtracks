@@ -4023,7 +4023,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IV: The DSfication | 274983 | [274983-final-fantasy-iv-the-dsfication.json](./274983-final-fantasy-iv-the-dsfication.json) |
 | Final Fantasy IV: Ultima | 215388 | [215388-final-fantasy-iv-ultima.json](./215388-final-fantasy-iv-ultima.json) |
 | Final Fantasy IV: Unprecedented Crisis | 215385 | [215385-final-fantasy-iv-unprecedented-crisis.json](./215385-final-fantasy-iv-unprecedented-crisis.json) |
-| Final Fantasy IX | 340349 | [340349-final-fantasy-ix.json](./340349-final-fantasy-ix.json) |
 | Final Fantasy IX | 400428 | [400428-final-fantasy-ix.json](./400428-final-fantasy-ix.json) |
 | Final Fantasy IX Remake | 309656 | [309656-final-fantasy-ix-remake.json](./309656-final-fantasy-ix-remake.json) |
 | Final Fantasy IX: Alternate Fantasy | 360108 | [360108-final-fantasy-ix-alternate-fantasy.json](./360108-final-fantasy-ix-alternate-fantasy.json) |
