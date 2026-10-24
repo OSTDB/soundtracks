@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Million Pixels | 413109 | [413109-10-million-pixels.json](./413109-10-million-pixels.json) |
 | 10 Minute Barbarian | 34776 | [34776-10-minute-barbarian.json](./34776-10-minute-barbarian.json) |
 | 10 Minute Massacre | 316985 | [316985-10-minute-massacre.json](./316985-10-minute-massacre.json) |
+| 10 Minute Tower | 32589 | [32589-10-minute-tower.json](./32589-10-minute-tower.json) |
 | 10 Minutes Till Dawn | 202828 | [202828-10-minutes-till-dawn.json](./202828-10-minutes-till-dawn.json) |
 | 10 Mississippi | 183239 | [183239-10-mississippi.json](./183239-10-mississippi.json) |
 | 10 out of 10: Dinosaurs | 14182 | [14182-10-out-of-10-dinosaurs.json](./14182-10-out-of-10-dinosaurs.json) |
