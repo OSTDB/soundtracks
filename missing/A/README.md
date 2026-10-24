@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Last Resort | 99748 | [99748-aca-neo-geo-last-resort.json](./99748-aca-neo-geo-last-resort.json) |
 | ACA Neo Geo: Magical Drop II | 99509 | [99509-aca-neo-geo-magical-drop-ii.json](./99509-aca-neo-geo-magical-drop-ii.json) |
 | ACA Neo Geo: Magician Lord | 68481 | [68481-aca-neo-geo-magician-lord.json](./68481-aca-neo-geo-magician-lord.json) |
+| ACA Neo Geo: Metal Slug | 28452 | [28452-aca-neo-geo-metal-slug.json](./28452-aca-neo-geo-metal-slug.json) |
 | ACA Neo Geo: Metal Slug 2 | 99504 | [99504-aca-neo-geo-metal-slug-2.json](./99504-aca-neo-geo-metal-slug-2.json) |
 | ACA Neo Geo: Metal Slug 3 | 88910 | [88910-aca-neo-geo-metal-slug-3.json](./88910-aca-neo-geo-metal-slug-3.json) |
 | ACA Neo Geo: Metal Slug X | 99481 | [99481-aca-neo-geo-metal-slug-x.json](./99481-aca-neo-geo-metal-slug-x.json) |
@@ -3312,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affogato | 210654 | [210654-affogato.json](./210654-affogato.json) |
 | Affordable Healthcare | 297763 | [297763-affordable-healthcare.json](./297763-affordable-healthcare.json) |
 | Affordable Space Adventures | 9673 | [9673-affordable-space-adventures.json](./9673-affordable-space-adventures.json) |
+| AffordaGolf Online | 30138 | [30138-affordagolf-online.json](./30138-affordagolf-online.json) |
 | Affraid | 385267 | [385267-affraid.json](./385267-affraid.json) |
 | Afghan Hero Girl | 225701 | [225701-afghan-hero-girl.json](./225701-afghan-hero-girl.json) |
 | Afghanistan '11 | 29744 | [29744-afghanistan-11.json](./29744-afghanistan-11.json) |
@@ -4951,6 +4953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemia | 58040 | [58040-alchemia.json](./58040-alchemia.json) |
 | Alchemia Story | 109917 | [109917-alchemia-story.json](./109917-alchemia-story.json) |
 | Alchemic Cutie | 107171 | [107171-alchemic-cutie.json](./107171-alchemic-cutie.json) |
+| Alchemic Jousts | 26097 | [26097-alchemic-jousts.json](./26097-alchemic-jousts.json) |
 | Alchemic Maze | 82492 | [82492-alchemic-maze.json](./82492-alchemic-maze.json) |
 | Alchemic Phone, Pocket Alchemy | 390763 | [390763-alchemic-phone-pocket-alchemy.json](./390763-alchemic-phone-pocket-alchemy.json) |
 | Alchemica | 369739 | [369739-alchemica.json](./369739-alchemica.json) |
@@ -7719,6 +7722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelic: Dark Symphony | 266179 | [266179-angelic-dark-symphony.json](./266179-angelic-dark-symphony.json) |
 | Angélica no Reino Animal | 292093 | [292093-angelica-no-reino-animal.json](./292093-angelica-no-reino-animal.json) |
 | Angelica Weaver: Catch Me When You Can | 9975 | [9975-angelica-weaver-catch-me-when-you-can.json](./9975-angelica-weaver-catch-me-when-you-can.json) |
+| Angelica Weaver: Catch Me When You Can - Collector's Edition | 30149 | [30149-angelica-weaver-catch-me-when-you-can-collectors-edition.json](./30149-angelica-weaver-catch-me-when-you-can-collectors-edition.json) |
 | Angeline Era | 252768 | [252768-angeline-era.json](./252768-angeline-era.json) |
 | Angelique Duet | 45437 | [45437-angelique-duet.json](./45437-angelique-duet.json) |
 | Angelique Etoile | 72680 | [72680-angelique-etoile.json](./72680-angelique-etoile.json) |
