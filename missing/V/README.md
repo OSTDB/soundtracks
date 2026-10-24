@@ -1769,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Invasion | 230864 | [230864-viking-invasion.json](./230864-viking-invasion.json) |
 | Viking Invasion | 67331 | [67331-viking-invasion.json](./67331-viking-invasion.json) |
 | Viking Invasion 2 - Tower Defense | 85476 | [85476-viking-invasion-2-tower-defense.json](./85476-viking-invasion-2-tower-defense.json) |
+| Viking Rage VR | 28534 | [28534-viking-rage-vr.json](./28534-viking-rage-vr.json) |
 | Viking Raider | 24666 | [24666-viking-raider.json](./24666-viking-raider.json) |
 | Viking Raiders | 415427 | [415427-viking-raiders.json](./415427-viking-raiders.json) |
 | Viking Rise | 246290 | [246290-viking-rise.json](./246290-viking-rise.json) |
@@ -3125,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Dodgeball Trainer | 191895 | [191895-vr-dodgeball-trainer.json](./191895-vr-dodgeball-trainer.json) |
 | VR Drum Studio | 54534 | [54534-vr-drum-studio.json](./54534-vr-drum-studio.json) |
 | VR Dungeon | 30599 | [30599-vr-dungeon.json](./30599-vr-dungeon.json) |
+| VR Dungeon Knight | 30170 | [30170-vr-dungeon-knight.json](./30170-vr-dungeon-knight.json) |
 | VR Dunhuang | 81002 | [81002-vr-dunhuang.json](./81002-vr-dunhuang.json) |
 | VR Enigma | 105130 | [105130-vr-enigma.json](./105130-vr-enigma.json) |
 | VR Escape From Jurassic Island | 372072 | [372072-vr-escape-from-jurassic-island.json](./372072-vr-escape-from-jurassic-island.json) |
