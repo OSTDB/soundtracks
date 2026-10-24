@@ -5506,6 +5506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Good | 216207 | [216207-rhythm-good.json](./216207-rhythm-good.json) |
 | Rhythm Heaven Fever | 5122 | [5122-rhythm-heaven-fever.json](./5122-rhythm-heaven-fever.json) |
 | Rhythm Heaven Groove | 337031 | [337031-rhythm-heaven-groove.json](./337031-rhythm-heaven-groove.json) |
+| Rhythm Heaven Megamix | 18220 | [18220-rhythm-heaven-megamix.json](./18220-rhythm-heaven-megamix.json) |
 | Rhythm Heaven Megamix: Sonic 2 Edition | 314490 | [314490-rhythm-heaven-megamix-sonic-2-edition.json](./314490-rhythm-heaven-megamix-sonic-2-edition.json) |
 | Rhythm Hell | 257080 | [257080-rhythm-hell.json](./257080-rhythm-hell.json) |
 | Rhythm Hero | 152869 | [152869-rhythm-hero.json](./152869-rhythm-hero.json) |
@@ -8403,6 +8404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon 2: Wacky Worlds | 23705 | [23705-rollercoaster-tycoon-2-wacky-worlds.json](./23705-rollercoaster-tycoon-2-wacky-worlds.json) |
 | Rollercoaster Tycoon 3 | 178407 | [178407-rollercoaster-tycoon-3.json](./178407-rollercoaster-tycoon-3.json) |
 | RollerCoaster Tycoon 3: Gold | 257414 | [257414-rollercoaster-tycoon-3-gold.json](./257414-rollercoaster-tycoon-3-gold.json) |
+| RollerCoaster Tycoon 3: Platinum | 14801 | [14801-rollercoaster-tycoon-3-platinum.json](./14801-rollercoaster-tycoon-3-platinum.json) |
 | RollerCoaster Tycoon 3D | 6873 | [6873-rollercoaster-tycoon-3d.json](./6873-rollercoaster-tycoon-3d.json) |
 | RollerCoaster Tycoon 6 Pack | 228962 | [228962-rollercoaster-tycoon-6-pack.json](./228962-rollercoaster-tycoon-6-pack.json) |
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
