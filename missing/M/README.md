@@ -1091,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Technology: Tower Defense | 68679 | [68679-magic-technology-tower-defense.json](./68679-magic-technology-tower-defense.json) |
 | Magic the Wandering | 311585 | [311585-magic-the-wandering.json](./311585-magic-the-wandering.json) |
 | Magic Thief | 190915 | [190915-magic-thief.json](./190915-magic-thief.json) |
+| Magic Tiles 3: Piano Games 2 | 88866 | [88866-magic-tiles-3-piano-games-2.json](./88866-magic-tiles-3-piano-games-2.json) |
 | Magic Tiles Saga: Upbeat Music | 100858 | [100858-magic-tiles-saga-upbeat-music.json](./100858-magic-tiles-saga-upbeat-music.json) |
 | Magic Time | 174019 | [174019-magic-time.json](./174019-magic-time.json) |
 | Magic Tiny Lands | 367494 | [367494-magic-tiny-lands.json](./367494-magic-tiny-lands.json) |
@@ -10380,6 +10381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
 | Mini Monsters | 343907 | [343907-mini-monsters.json](./343907-mini-monsters.json) |
 | Mini Motion: Sk8 HousE | 209208 | [209208-mini-motion-sk8-house.json](./209208-mini-motion-sk8-house.json) |
+| Mini Motor Racing | 89093 | [89093-mini-motor-racing.json](./89093-mini-motor-racing.json) |
 | Mini Motor Racing 2 | 188394 | [188394-mini-motor-racing-2.json](./188394-mini-motor-racing-2.json) |
 | Mini Motor Racing X | 126194 | [126194-mini-motor-racing-x.json](./126194-mini-motor-racing-x.json) |
 | Mini Motor Racing X | 197623 | [197623-mini-motor-racing-x.json](./197623-mini-motor-racing-x.json) |
@@ -14271,6 +14273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother of the Year | 313837 | [313837-mother-of-the-year.json](./313837-mother-of-the-year.json) |
 | Mother Restored | 307055 | [307055-mother-restored.json](./307055-mother-restored.json) |
 | Mother Russia Bleeds: Dealer Edition | 51834 | [51834-mother-russia-bleeds-dealer-edition.json](./51834-mother-russia-bleeds-dealer-edition.json) |
+| Mother Simulator | 89974 | [89974-mother-simulator.json](./89974-mother-simulator.json) |
 | Mother Simulator Triplet Baby | 296747 | [296747-mother-simulator-triplet-baby.json](./296747-mother-simulator-triplet-baby.json) |
 | Mother Stone | 188951 | [188951-mother-stone.json](./188951-mother-stone.json) |
 | Mother Zero | 323881 | [323881-mother-zero.json](./323881-mother-zero.json) |
@@ -17745,6 +17748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Nights | 69523 | [69523-mystic-nights.json](./69523-mystic-nights.json) |
 | Mystic Pathways | 342150 | [342150-mystic-pathways.json](./342150-mystic-pathways.json) |
 | Mystic Pathways: Crystal Quest | 356507 | [356507-mystic-pathways-crystal-quest.json](./356507-mystic-pathways-crystal-quest.json) |
+| Mystic Pillars | 127589 | [127589-mystic-pillars.json](./127589-mystic-pillars.json) |
 | Mystic Pillars: Remastered | 291150 | [291150-mystic-pillars-remastered.json](./291150-mystic-pillars-remastered.json) |
 | Mystic Realm Dizzy | 181208 | [181208-mystic-realm-dizzy.json](./181208-mystic-realm-dizzy.json) |
 | Mystic Rest Stop | 327949 | [327949-mystic-rest-stop.json](./327949-mystic-rest-stop.json) |
