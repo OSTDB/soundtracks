@@ -2817,9 +2817,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reckless Drive | 335266 | [335266-reckless-drive.json](./335266-reckless-drive.json) |
 | Reckless Driver | 204067 | [204067-reckless-driver.json](./204067-reckless-driver.json) |
 | Reckless Getaway 2 | 237666 | [237666-reckless-getaway-2.json](./237666-reckless-getaway-2.json) |
+| Reckless Racing | 38702 | [38702-reckless-racing.json](./38702-reckless-racing.json) |
 | Reckless Racing HD | 90542 | [90542-reckless-racing-hd.json](./90542-reckless-racing-hd.json) |
 | Reckless Rally | 276830 | [276830-reckless-rally.json](./276830-reckless-rally.json) |
 | Reckless Rufus | 39164 | [39164-reckless-rufus.json](./39164-reckless-rufus.json) |
+| Reckless Space Pirates | 38729 | [38729-reckless-space-pirates.json](./38729-reckless-space-pirates.json) |
 | Reckon | 74074 | [74074-reckon.json](./74074-reckon.json) |
 | Reckpunk | 32262 | [32262-reckpunk.json](./32262-reckpunk.json) |
 | Reclaim | 366721 | [366721-reclaim.json](./366721-reclaim.json) |
@@ -4778,6 +4780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Combat | 271601 | [271601-retro-combat.json](./271601-retro-combat.json) |
 | Retro Commander | 165060 | [165060-retro-commander.json](./165060-retro-commander.json) |
 | Retro Cube Slider | 421381 | [421381-retro-cube-slider.json](./421381-retro-cube-slider.json) |
+| Retro Defense | 38701 | [38701-retro-defense.json](./38701-retro-defense.json) |
 | Retro Derby | 202047 | [202047-retro-derby.json](./202047-retro-derby.json) |
 | Retro Drift | 128222 | [128222-retro-drift.json](./128222-retro-drift.json) |
 | Retro Drive | 220686 | [220686-retro-drive.json](./220686-retro-drive.json) |
@@ -6997,6 +7000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robmembor | 332566 | [332566-robmembor.json](./332566-robmembor.json) |
 | Robo Army | 46786 | [46786-robo-army.json](./46786-robo-army.json) |
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
+| Robo Defense | 38700 | [38700-robo-defense.json](./38700-robo-defense.json) |
 | Robo Dolphin Escape | 385419 | [385419-robo-dolphin-escape.json](./385419-robo-dolphin-escape.json) |
 | Robo Dome | 320243 | [320243-robo-dome.json](./320243-robo-dome.json) |
 | Robo Encryption | 87943 | [87943-robo-encryption.json](./87943-robo-encryption.json) |
@@ -10093,6 +10097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Riot | 240743 | [240743-running-riot.json](./240743-running-riot.json) |
 | Running Rogue | 139371 | [139371-running-rogue.json](./139371-running-rogue.json) |
 | Running Shadow | 17985 | [17985-running-shadow.json](./17985-running-shadow.json) |
+| Running Shadow - RPG Runner | 38718 | [38718-running-shadow-rpg-runner.json](./38718-running-shadow-rpg-runner.json) |
 | Running Sheep | 25480 | [25480-running-sheep.json](./25480-running-sheep.json) |
 | Running Sheep: Tiny Worlds | 95252 | [95252-running-sheep-tiny-worlds.json](./95252-running-sheep-tiny-worlds.json) |
 | Running Strike | 247174 | [247174-running-strike.json](./247174-running-strike.json) |
