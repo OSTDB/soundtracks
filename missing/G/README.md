@@ -2200,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemstone Defense | 165760 | [165760-gemstone-defense.json](./165760-gemstone-defense.json) |
 | Gemstone Guardians | 239640 | [239640-gemstone-guardians.json](./239640-gemstone-guardians.json) |
 | Gemstone IV | 79899 | [79899-gemstone-iv.json](./79899-gemstone-iv.json) |
+| Gemstone Keeper | 31465 | [31465-gemstone-keeper.json](./31465-gemstone-keeper.json) |
 | Gemstone Legends | 164377 | [164377-gemstone-legends.json](./164377-gemstone-legends.json) |
 | Gemstone Puzzle Fury | 274028 | [274028-gemstone-puzzle-fury.json](./274028-gemstone-puzzle-fury.json) |
 | Gemstone Puzzle Fury: Expansion Pack | 275731 | [275731-gemstone-puzzle-fury-expansion-pack.json](./275731-gemstone-puzzle-fury-expansion-pack.json) |
@@ -4029,6 +4030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globdule | 13067 | [13067-globdule.json](./13067-globdule.json) |
 | Globe Drone | 307733 | [307733-globe-drone.json](./307733-globe-drone.json) |
 | Globe Games | 311566 | [311566-globe-games.json](./311566-globe-games.json) |
+| Globe Rush | 31510 | [31510-globe-rush.json](./31510-globe-rush.json) |
 | Globe: Earth Adventures | 230378 | [230378-globe-earth-adventures.json](./230378-globe-earth-adventures.json) |
 | Globeba | 300395 | [300395-globeba.json](./300395-globeba.json) |
 | Globesweeper | 109203 | [109203-globesweeper.json](./109203-globesweeper.json) |
