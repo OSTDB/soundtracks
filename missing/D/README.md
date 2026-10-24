@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danny Phantom: Ghost Sweep | 313686 | [313686-danny-phantom-ghost-sweep.json](./313686-danny-phantom-ghost-sweep.json) |
 | Danny Phantom: Urban Jungle | 6366 | [6366-danny-phantom-urban-jungle.json](./6366-danny-phantom-urban-jungle.json) |
 | Danny Phantom: Urban Jungle Rumble | 144582 | [144582-danny-phantom-urban-jungle-rumble.json](./144582-danny-phantom-urban-jungle-rumble.json) |
+| Danny Sullivan's Indy Heat | 12734 | [12734-danny-sullivans-indy-heat.json](./12734-danny-sullivans-indy-heat.json) |
 | Danny's Mirror Magic | 159272 | [159272-dannys-mirror-magic.json](./159272-dannys-mirror-magic.json) |
 | Danse Macabre: Crimson Cabaret | 140213 | [140213-danse-macabre-crimson-cabaret.json](./140213-danse-macabre-crimson-cabaret.json) |
 | Danse Macabre: Crimson Cabaret HD | 101580 | [101580-danse-macabre-crimson-cabaret-hd.json](./101580-danse-macabre-crimson-cabaret-hd.json) |
@@ -7982,6 +7983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Party! | 332862 | [332862-disaster-party.json](./332862-disaster-party.json) |
 | Disaster Plan Z | 301257 | [301257-disaster-plan-z.json](./301257-disaster-plan-z.json) |
 | Disaster Quest Tree | 268672 | [268672-disaster-quest-tree.json](./268672-disaster-quest-tree.json) |
+| Disaster Report | 11695 | [11695-disaster-report.json](./11695-disaster-report.json) |
 | Disaster Response Unit | 64149 | [64149-disaster-response-unit.json](./64149-disaster-response-unit.json) |
 | Disaster Slayer | 302191 | [302191-disaster-slayer.json](./302191-disaster-slayer.json) |
 | Disaster Town Tycoon | 294731 | [294731-disaster-town-tycoon.json](./294731-disaster-town-tycoon.json) |
@@ -8860,6 +8862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dizzy the Adventurer | 48672 | [48672-dizzy-the-adventurer.json](./48672-dizzy-the-adventurer.json) |
 | Dizzy: Crash Edition | 45241 | [45241-dizzy-crash-edition.json](./45241-dizzy-crash-edition.json) |
 | Dizzy: Prince of the Yolkfolk | 12049 | [12049-dizzy-prince-of-the-yolkfolk.json](./12049-dizzy-prince-of-the-yolkfolk.json) |
+| Dizzy: The Ultimate Cartoon Adventure | 12357 | [12357-dizzy-the-ultimate-cartoon-adventure.json](./12357-dizzy-the-ultimate-cartoon-adventure.json) |
 | DizzyRoids | 233222 | [233222-dizzyroids.json](./233222-dizzyroids.json) |
 | Dj 8 Beats: Infinite | 303480 | [303480-dj-8-beats-infinite.json](./303480-dj-8-beats-infinite.json) |
 | DJ Beats: Waifus | 186237 | [186237-dj-beats-waifus.json](./186237-dj-beats-waifus.json) |
@@ -15195,6 +15198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustdrifter | 409187 | [409187-dustdrifter.json](./409187-dustdrifter.json) |
 | Dustdrive: The Lightspeed Project | 385424 | [385424-dustdrive-the-lightspeed-project.json](./385424-dustdrive-the-lightspeed-project.json) |
 | Dusteroids | 415206 | [415206-dusteroids.json](./415206-dusteroids.json) |
+| Dustforce | 94073 | [94073-dustforce.json](./94073-dustforce.json) |
 | Dustforce DX | 1340 | [1340-dustforce-dx.json](./1340-dustforce-dx.json) |
 | Dustin | 13614 | [13614-dustin.json](./13614-dustin.json) |
 | Dustin Dash | 245192 | [245192-dustin-dash.json](./245192-dustin-dash.json) |
