@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Coast Casino | 385889 | [385889-queens-coast-casino.json](./385889-queens-coast-casino.json) |
 | Queen's Conquest | 157390 | [157390-queens-conquest.json](./157390-queens-conquest.json) |
 | Queen's Crown | 80571 | [80571-queens-crown.json](./80571-queens-crown.json) |
+| Queen's Crown 2 | 38734 | [38734-queens-crown-2.json](./38734-queens-crown-2.json) |
 | Queen's Garden | 54269 | [54269-queens-garden.json](./54269-queens-garden.json) |
 | Queen's Garden 2 | 101504 | [101504-queens-garden-2.json](./101504-queens-garden-2.json) |
 | Queen's Garden 4: Sakura Season | 100960 | [100960-queens-garden-4-sakura-season.json](./100960-queens-garden-4-sakura-season.json) |
