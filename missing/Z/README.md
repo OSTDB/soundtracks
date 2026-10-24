@@ -924,6 +924,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zig | 96695 | [96695-zig.json](./96695-zig.json) |
 | Zig Zag Ball | 74720 | [74720-zig-zag-ball.json](./74720-zig-zag-ball.json) |
 | Zig Zag Boom | 241997 | [241997-zig-zag-boom.json](./241997-zig-zag-boom.json) |
+| Zig Zag Cat | 38115 | [38115-zig-zag-cat.json](./38115-zig-zag-cat.json) |
+| Zig Zag Cat | 38116 | [38116-zig-zag-cat.json](./38116-zig-zag-cat.json) |
+| Zig Zag Cat: Ostrich Club mo Oosawagi da | 38117 | [38117-zig-zag-cat-ostrich-club-mo-oosawagi-da.json](./38117-zig-zag-cat-ostrich-club-mo-oosawagi-da.json) |
 | Zig Zag Flag Shag | 84470 | [84470-zig-zag-flag-shag.json](./84470-zig-zag-flag-shag.json) |
 | Zig Zag Game | 88216 | [88216-zig-zag-game.json](./88216-zig-zag-game.json) |
 | Zig Zag Go | 84933 | [84933-zig-zag-go.json](./84933-zig-zag-go.json) |
