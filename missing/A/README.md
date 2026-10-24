@@ -2951,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -5588,6 +5589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens versus Humans: Missions | 235153 | [235153-aliens-versus-humans-missions.json](./235153-aliens-versus-humans-missions.json) |
 | Aliens versus Predator | 9979 | [9979-aliens-versus-predator.json](./9979-aliens-versus-predator.json) |
 | Aliens Versus Predator 2: Gold Edition | 256362 | [256362-aliens-versus-predator-2-gold-edition.json](./256362-aliens-versus-predator-2-gold-edition.json) |
+| Aliens Versus Predator 2: Primal Hunt | 19214 | [19214-aliens-versus-predator-2-primal-hunt.json](./19214-aliens-versus-predator-2-primal-hunt.json) |
 | Aliens Versus Predator: Extinction | 5720 | [5720-aliens-versus-predator-extinction.json](./5720-aliens-versus-predator-extinction.json) |
 | Aliens vs. Ghosts | 208331 | [208331-aliens-vs-ghosts.json](./208331-aliens-vs-ghosts.json) |
 | Aliens vs. Predator | 560 | [560-aliens-vs-predator.json](./560-aliens-vs-predator.json) |
@@ -6979,6 +6981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnesia: Day One Edition Dual Pack | 196820 | [196820-amnesia-day-one-edition-dual-pack.json](./196820-amnesia-day-one-edition-dual-pack.json) |
 | Amnesia: Final Revelations | 116950 | [116950-amnesia-final-revelations.json](./116950-amnesia-final-revelations.json) |
 | Amnesia: Justine | 15534 | [15534-amnesia-justine.json](./15534-amnesia-justine.json) |
+| Amnesia: Memories | 13199 | [13199-amnesia-memories.json](./13199-amnesia-memories.json) |
 | Amnesia: Rain | 376173 | [376173-amnesia-rain.json](./376173-amnesia-rain.json) |
 | Amnesia: Rebirth | 131785 | [131785-amnesia-rebirth.json](./131785-amnesia-rebirth.json) |
 | Amnesia: The Great Work | 196001 | [196001-amnesia-the-great-work.json](./196001-amnesia-the-great-work.json) |
@@ -7073,6 +7076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amphitheater Of Abaddon | 309194 | [309194-amphitheater-of-abaddon.json](./309194-amphitheater-of-abaddon.json) |
 | Amphora | 36174 | [36174-amphora.json](./36174-amphora.json) |
 | Amphora Hell | 336556 | [336556-amphora-hell.json](./336556-amphora-hell.json) |
+| Amplitude | 11081 | [11081-amplitude.json](./11081-amplitude.json) |
 | Amplz Boss Fights | 224110 | [224110-amplz-boss-fights.json](./224110-amplz-boss-fights.json) |
 | Ampsball | 398443 | [398443-ampsball.json](./398443-ampsball.json) |
 | AMQ: The (Actual) Game | 283613 | [283613-amq-the-actual-game.json](./283613-amq-the-actual-game.json) |
@@ -12177,6 +12181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed II: Battle of Forlì | 9562 | [9562-assassins-creed-ii-battle-of-forli.json](./9562-assassins-creed-ii-battle-of-forli.json) |
 | Assassin's Creed II: Black Edition | 308958 | [308958-assassins-creed-ii-black-edition.json](./308958-assassins-creed-ii-black-edition.json) |
 | Assassin's Creed II: Deluxe Edition | 27857 | [27857-assassins-creed-ii-deluxe-edition.json](./27857-assassins-creed-ii-deluxe-edition.json) |
+| Assassin's Creed II: Discovery | 18865 | [18865-assassins-creed-ii-discovery.json](./18865-assassins-creed-ii-discovery.json) |
 | Assassin's Creed II: Multiplayer | 412331 | [412331-assassins-creed-ii-multiplayer.json](./412331-assassins-creed-ii-multiplayer.json) |
 | Assassin's Creed II: Ultimate Edition | 118455 | [118455-assassins-creed-ii-ultimate-edition.json](./118455-assassins-creed-ii-ultimate-edition.json) |
 | Assassin's Creed II: White Edition | 308957 | [308957-assassins-creed-ii-white-edition.json](./308957-assassins-creed-ii-white-edition.json) |
