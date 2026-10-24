@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-in-Time | 282488 | [282488-pac-in-time.json](./282488-pac-in-time.json) |
 | Pac-In-Time | 242404 | [242404-pac-in-time.json](./242404-pac-in-time.json) |
 | Pac-In-Time | 242407 | [242407-pac-in-time.json](./242407-pac-in-time.json) |
+| Pac-Kong | 40581 | [40581-pac-kong.json](./40581-pac-kong.json) |
 | Pac-Laby 3D | 266250 | [266250-pac-laby-3d.json](./266250-pac-laby-3d.json) |
 | Pac-Land | 218351 | [218351-pac-land.json](./218351-pac-land.json) |
 | Pac-Land | 6822 | [6822-pac-land.json](./6822-pac-land.json) |
@@ -744,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladins: Season 4 Champions Bundle | 263484 | [263484-paladins-season-4-champions-bundle.json](./263484-paladins-season-4-champions-bundle.json) |
 | PalaDog HD | 235148 | [235148-paladog-hd.json](./235148-paladog-hd.json) |
 | Palais de Reine | 130397 | [130397-palais-de-reine.json](./130397-palais-de-reine.json) |
+| Palamedes | 40563 | [40563-palamedes.json](./40563-palamedes.json) |
 | Palamedes II: Star Twinkles | 48808 | [48808-palamedes-ii-star-twinkles.json](./48808-palamedes-ii-star-twinkles.json) |
 | Palavras Cruzadas: O Globo | 252063 | [252063-palavras-cruzadas-o-globo.json](./252063-palavras-cruzadas-o-globo.json) |
 | Palavrinhas | 329784 | [329784-palavrinhas.json](./329784-palavrinhas.json) |
@@ -4301,6 +4303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Squad | 291391 | [291391-phantom-squad.json](./291391-phantom-squad.json) |
 | Phantom Stars | 297184 | [297184-phantom-stars.json](./297184-phantom-stars.json) |
 | Phantom Tank | 321993 | [321993-phantom-tank.json](./321993-phantom-tank.json) |
+| Phantom Tank | 40576 | [40576-phantom-tank.json](./40576-phantom-tank.json) |
 | Phantom Ten | 311292 | [311292-phantom-ten.json](./311292-phantom-ten.json) |
 | Phantom the Huntress | 390092 | [390092-phantom-the-huntress.json](./390092-phantom-the-huntress.json) |
 | Phantom Thief Angels: Twin Angel - Labyrinth of Time and World: Re:light | 335978 | [335978-phantom-thief-angels-twin-angel-labyrinth-of-time-and-world-re-light.json](./335978-phantom-thief-angels-twin-angel-labyrinth-of-time-and-world-re-light.json) |
@@ -5138,6 +5141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigromance | 141202 | [141202-pigromance.json](./141202-pigromance.json) |
 | Pigs a Pop'n | 112208 | [112208-pigs-a-popn.json](./112208-pigs-a-popn.json) |
 | Pigs Can Fly | 265736 | [265736-pigs-can-fly.json](./265736-pigs-can-fly.json) |
+| Pigs in Space | 40575 | [40575-pigs-in-space.json](./40575-pigs-in-space.json) |
 | Pigsaw | 177269 | [177269-pigsaw.json](./177269-pigsaw.json) |
 | Pigsaw: Human Abattoir | 272381 | [272381-pigsaw-human-abattoir.json](./272381-pigsaw-human-abattoir.json) |
 | Pigskin | 399120 | [399120-pigskin.json](./399120-pigskin.json) |
