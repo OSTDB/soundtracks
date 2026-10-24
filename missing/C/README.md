@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Warzone | 131800 | [131800-call-of-duty-warzone.json](./131800-call-of-duty-warzone.json) |
 | Call of Duty: Warzone | 217815 | [217815-call-of-duty-warzone.json](./217815-call-of-duty-warzone.json) |
 | Call of Duty: Warzone - Combat Pack: Shogun | 305852 | [305852-call-of-duty-warzone-combat-pack-shogun.json](./305852-call-of-duty-warzone-combat-pack-shogun.json) |
+| Call of Duty: Warzone Mobile | 217618 | [217618-call-of-duty-warzone-mobile.json](./217618-call-of-duty-warzone-mobile.json) |
 | Call of Duty: World at War | 135296 | [135296-call-of-duty-world-at-war.json](./135296-call-of-duty-world-at-war.json) |
 | Call of Duty: World at War | 135297 | [135297-call-of-duty-world-at-war.json](./135297-call-of-duty-world-at-war.json) |
 | Call of Duty: World at War | 343822 | [343822-call-of-duty-world-at-war.json](./343822-call-of-duty-world-at-war.json) |
@@ -2663,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castella | 361065 | [361065-castella.json](./361065-castella.json) |
 | Castellan | 411700 | [411700-castellan.json](./411700-castellan.json) |
 | Castelo Rá-Tim-Bum | 84302 | [84302-castelo-ra-tim-bum.json](./84302-castelo-ra-tim-bum.json) |
+| Caster | 9793 | [9793-caster.json](./9793-caster.json) |
 | Caster's Trap | 130339 | [130339-casters-trap.json](./130339-casters-trap.json) |
 | CasterLords | 120116 | [120116-casterlords.json](./120116-casterlords.json) |
 | Castillo: Shattered Mirrors | 328846 | [328846-castillo-shattered-mirrors.json](./328846-castillo-shattered-mirrors.json) |
@@ -2858,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlehold | 144146 | [144146-castlehold.json](./144146-castlehold.json) |
 | Castlemancer | 258610 | [258610-castlemancer.json](./258610-castlemancer.json) |
 | Castlemaze: Ojou-sama kara no Chousen | 214007 | [214007-castlemaze-ojou-sama-kara-no-chousen.json](./214007-castlemaze-ojou-sama-kara-no-chousen.json) |
+| CastleMiner Z | 9794 | [9794-castleminer-z.json](./9794-castleminer-z.json) |
 | CastleOfDuck | 193722 | [193722-castleofduck.json](./193722-castleofduck.json) |
 | CastleOn | 353881 | [353881-castleon.json](./353881-castleon.json) |
 | Castlepoint | 189036 | [189036-castlepoint.json](./189036-castlepoint.json) |
@@ -2959,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Portrait of Ruin | 315315 | [315315-castlevania-portrait-of-ruin.json](./315315-castlevania-portrait-of-ruin.json) |
 | Castlevania: Resurrection | 67824 | [67824-castlevania-resurrection.json](./67824-castlevania-resurrection.json) |
 | Castlevania: Rondo of Blood | 1139 | [1139-castlevania-rondo-of-blood.json](./1139-castlevania-rondo-of-blood.json) |
+| Castlevania: Rondo of Blood | 222228 | [222228-castlevania-rondo-of-blood.json](./222228-castlevania-rondo-of-blood.json) |
 | Castlevania: Rondo of the Night | 394858 | [394858-castlevania-rondo-of-the-night.json](./394858-castlevania-rondo-of-the-night.json) |
 | Castlevania: Seal of the Eclipse | 240147 | [240147-castlevania-seal-of-the-eclipse.json](./240147-castlevania-seal-of-the-eclipse.json) |
 | Castlevania: Serenade Under the Moon | 213859 | [213859-castlevania-serenade-under-the-moon.json](./213859-castlevania-serenade-under-the-moon.json) |
@@ -6219,6 +6223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Chop Princess! | 75028 | [75028-chop-chop-princess.json](./75028-chop-chop-princess.json) |
 | Chop Chop Soccer | 212421 | [212421-chop-chop-soccer.json](./212421-chop-chop-soccer.json) |
 | Chop Chop Together | 392147 | [392147-chop-chop-together.json](./392147-chop-chop-together.json) |
+| Chop Goblins | 225792 | [225792-chop-goblins.json](./225792-chop-goblins.json) |
 | Chop Signal | 389455 | [389455-chop-signal.json](./389455-chop-signal.json) |
 | Chop Suey | 234212 | [234212-chop-suey.json](./234212-chop-suey.json) |
 | Chop Suey | 47297 | [47297-chop-suey.json](./47297-chop-suey.json) |
@@ -7098,6 +7103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuitdream.exe | 202242 | [202242-circuitdream-exe.json](./202242-circuitdream-exe.json) |
 | Circuitous | 90658 | [90658-circuitous.json](./90658-circuitous.json) |
 | Circuits | 176234 | [176234-circuits.json](./176234-circuits.json) |
+| Circuits | 9881 | [9881-circuits.json](./9881-circuits.json) |
 | Circular | 169466 | [169466-circular.json](./169466-circular.json) |
 | Circular | 205092 | [205092-circular.json](./205092-circular.json) |
 | Circular Defense | 284964 | [284964-circular-defense.json](./284964-circular-defense.json) |
@@ -11285,6 +11291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convicts | 340878 | [340878-convicts.json](./340878-convicts.json) |
 | Convoluted Incident: Pinch me | 368373 | [368373-convoluted-incident-pinch-me.json](./368373-convoluted-incident-pinch-me.json) |
 | Convolution of Fear | 250857 | [250857-convolution-of-fear.json](./250857-convolution-of-fear.json) |
+| Convoy | 9921 | [9921-convoy.json](./9921-convoy.json) |
 | Convoy Raider | 13514 | [13514-convoy-raider.json](./13514-convoy-raider.json) |
 | Convrgence | 269281 | [269281-convrgence.json](./269281-convrgence.json) |
 | Convrgence: Supporter Pack | 304461 | [304461-convrgence-supporter-pack.json](./304461-convrgence-supporter-pack.json) |
