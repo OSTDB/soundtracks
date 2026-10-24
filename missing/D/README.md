@@ -5077,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Herby | 40646 | [40646-demolition-herby.json](./40646-demolition-herby.json) |
 | Demolition Inc. | 15126 | [15126-demolition-inc.json](./15126-demolition-inc.json) |
 | Demolition Inc.: Level & Weapon | 238632 | [238632-demolition-inc-level-and-weapon.json](./238632-demolition-inc-level-and-weapon.json) |
+| Demolition Man | 131726 | [131726-demolition-man.json](./131726-demolition-man.json) |
 | Demolition Master | 106775 | [106775-demolition-master.json](./106775-demolition-master.json) |
 | Demolition Master: Project Implode All | 224993 | [224993-demolition-master-project-implode-all.json](./224993-demolition-master-project-implode-all.json) |
 | Demolition Party | 235815 | [235815-demolition-party.json](./235815-demolition-party.json) |
@@ -6576,6 +6577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devolution: Maken no Ou to Shimobe-tachi | 220329 | [220329-devolution-maken-no-ou-to-shimobe-tachi.json](./220329-devolution-maken-no-ou-to-shimobe-tachi.json) |
 | Devolver Bootleg | 119315 | [119315-devolver-bootleg.json](./119315-devolver-bootleg.json) |
 | Devolver Tumble Time | 152205 | [152205-devolver-tumble-time.json](./152205-devolver-tumble-time.json) |
+| Devolverland Expo | 135770 | [135770-devolverland-expo.json](./135770-devolverland-expo.json) |
 | Devorian: Left Behind | 188980 | [188980-devorian-left-behind.json](./188980-devorian-left-behind.json) |
 | Devoted Vampire | 377992 | [377992-devoted-vampire.json](./377992-devoted-vampire.json) |
 | Devotion | 107228 | [107228-devotion.json](./107228-devotion.json) |
@@ -6661,6 +6663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diaball | 176485 | [176485-diaball.json](./176485-diaball.json) |
 | Diabetor & The Sugar Monsters | 278736 | [278736-diabetor-and-the-sugar-monsters.json](./278736-diabetor-and-the-sugar-monsters.json) |
 | Diablo | 247342 | [247342-diablo.json](./247342-diablo.json) |
+| Diablo + Hellfire | 127781 | [127781-diablo-hellfire.json](./127781-diablo-hellfire.json) |
 | Diablo II: Resurrected | 142803 | [142803-diablo-ii-resurrected.json](./142803-diablo-ii-resurrected.json) |
 | Diablo II: Resurrected - Prime Evil Collection | 155099 | [155099-diablo-ii-resurrected-prime-evil-collection.json](./155099-diablo-ii-resurrected-prime-evil-collection.json) |
 | Diablo II: Resurrected - Reign of the Warlock | 389355 | [389355-diablo-ii-resurrected-reign-of-the-warlock.json](./389355-diablo-ii-resurrected-reign-of-the-warlock.json) |
@@ -14177,6 +14180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Forces | 291977 | [291977-duke-forces.json](./291977-duke-forces.json) |
 | Duke Grabowski: Mighty Swashbuckler | 23982 | [23982-duke-grabowski-mighty-swashbuckler.json](./23982-duke-grabowski-mighty-swashbuckler.json) |
 | Duke Hard | 218118 | [218118-duke-hard.json](./218118-duke-hard.json) |
+| Duke It Out In D.C. | 18495 | [18495-duke-it-out-in-d-c.json](./18495-duke-it-out-in-d-c.json) |
 | Duke It's Zero Hour | 270656 | [270656-duke-its-zero-hour.json](./270656-duke-its-zero-hour.json) |
 | Duke Mansion | 308472 | [308472-duke-mansion.json](./308472-duke-mansion.json) |
 | Duke Nukem | 957 | [957-duke-nukem.json](./957-duke-nukem.json) |
