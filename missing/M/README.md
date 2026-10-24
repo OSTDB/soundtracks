@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Tree | 41744 | [41744-magical-tree.json](./41744-magical-tree.json) |
 | Magical Truck Adventure | 39477 | [39477-magical-truck-adventure.json](./39477-magical-truck-adventure.json) |
 | Magical Twirler Angel Rabbie | 408264 | [408264-magical-twirler-angel-rabbie.json](./408264-magical-twirler-angel-rabbie.json) |
+| Magical Vacation | 6502 | [6502-magical-vacation.json](./6502-magical-vacation.json) |
 | Magical Valkyrie Lyristia | 153949 | [153949-magical-valkyrie-lyristia.json](./153949-magical-valkyrie-lyristia.json) |
 | Magical Warrior Diamond Heart | 266691 | [266691-magical-warrior-diamond-heart.json](./266691-magical-warrior-diamond-heart.json) |
 | Magical Warrior Diamond Heart: Alex Route DLC | 293458 | [293458-magical-warrior-diamond-heart-alex-route-dlc.json](./293458-magical-warrior-diamond-heart-alex-route-dlc.json) |
@@ -1472,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maguntsche: Chapter Two | 371971 | [371971-maguntsche-chapter-two.json](./371971-maguntsche-chapter-two.json) |
 | Măgurele Mystery 2 | 293487 | [293487-magurele-mystery-2.json](./293487-magurele-mystery-2.json) |
 | Magus | 170346 | [170346-magus.json](./170346-magus.json) |
+| Magus | 8577 | [8577-magus.json](./8577-magus.json) |
 | Magus in Mystic Geometries. | 123591 | [123591-magus-in-mystic-geometries.json](./123591-magus-in-mystic-geometries.json) |
 | Magus Over Fool | 115364 | [115364-magus-over-fool.json](./115364-magus-over-fool.json) |
 | Magus Pocus | 212981 | [212981-magus-pocus.json](./212981-magus-pocus.json) |
@@ -4317,6 +4319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of the Universe | 245451 | [245451-masters-of-the-universe.json](./245451-masters-of-the-universe.json) |
 | Masters of the Universe | 280865 | [280865-masters-of-the-universe.json](./280865-masters-of-the-universe.json) |
 | Masters of the Universe II: Super Masters! | 41492 | [41492-masters-of-the-universe-ii-super-masters.json](./41492-masters-of-the-universe-ii-super-masters.json) |
+| Masters of the Universe: He-Man - Power of Grayskull | 6432 | [6432-masters-of-the-universe-he-man-power-of-grayskull.json](./6432-masters-of-the-universe-he-man-power-of-grayskull.json) |
 | Masters of the Universe: The Movie | 30904 | [30904-masters-of-the-universe-the-movie.json](./30904-masters-of-the-universe-the-movie.json) |
 | Masters of the Universe: The Power of He-Man | 5683 | [5683-masters-of-the-universe-the-power-of-he-man.json](./5683-masters-of-the-universe-the-power-of-he-man.json) |
 | Masters of the World: Geopolitical Simulator 3 | 10542 | [10542-masters-of-the-world-geopolitical-simulator-3.json](./10542-masters-of-the-world-geopolitical-simulator-3.json) |
@@ -5147,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazes and Labyrinths | 104728 | [104728-mazes-and-labyrinths.json](./104728-mazes-and-labyrinths.json) |
 | Mazes and Mages | 102721 | [102721-mazes-and-mages.json](./102721-mazes-and-mages.json) |
 | Mazes and Mages 2 | 121778 | [121778-mazes-and-mages-2.json](./121778-mazes-and-mages-2.json) |
+| Mazes of Fate | 6507 | [6507-mazes-of-fate.json](./6507-mazes-of-fate.json) |
 | Mazes of Fate DS | 124484 | [124484-mazes-of-fate-ds.json](./124484-mazes-of-fate-ds.json) |
 | Mazes of Karradash | 290269 | [290269-mazes-of-karradash.json](./290269-mazes-of-karradash.json) |
 | Mazes of Karradash 2 | 175430 | [175430-mazes-of-karradash-2.json](./175430-mazes-of-karradash-2.json) |
@@ -5376,6 +5380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech My Day | 392861 | [392861-mech-my-day.json](./392861-mech-my-day.json) |
 | Mech n' Parcel | 135831 | [135831-mech-n-parcel.json](./135831-mech-n-parcel.json) |
 | Mech Ops 2092 | 401622 | [401622-mech-ops-2092.json](./401622-mech-ops-2092.json) |
+| Mech Platoon | 6508 | [6508-mech-platoon.json](./6508-mech-platoon.json) |
 | Mech Punk | 211792 | [211792-mech-punk.json](./211792-mech-punk.json) |
 | Mech Rage | 109378 | [109378-mech-rage.json](./109378-mech-rage.json) |
 | Mech Shuffle | 211964 | [211964-mech-shuffle.json](./211964-mech-shuffle.json) |
@@ -8488,6 +8493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Machines 1 and 2: Twin Turbo | 93056 | [93056-micro-machines-1-and-2-twin-turbo.json](./93056-micro-machines-1-and-2-twin-turbo.json) |
 | Micro Machines 2: Turbo Tournament | 8775 | [8775-micro-machines-2-turbo-tournament.json](./8775-micro-machines-2-turbo-tournament.json) |
 | Micro Machines 64 Turbo | 8497 | [8497-micro-machines-64-turbo.json](./8497-micro-machines-64-turbo.json) |
+| Micro Machines Military | 8513 | [8513-micro-machines-military.json](./8513-micro-machines-military.json) |
 | Micro Machines Mobile | 111552 | [111552-micro-machines-mobile.json](./111552-micro-machines-mobile.json) |
 | Micro Machines V3 | 249154 | [249154-micro-machines-v3.json](./249154-micro-machines-v3.json) |
 | Micro Machines V4 | 8512 | [8512-micro-machines-v4.json](./8512-micro-machines-v4.json) |
@@ -9169,6 +9175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Aphid | 135156 | [135156-mighty-aphid.json](./135156-mighty-aphid.json) |
 | Mighty Aphid 2 | 231987 | [231987-mighty-aphid-2.json](./231987-mighty-aphid-2.json) |
 | Mighty Arms | 348751 | [348751-mighty-arms.json](./348751-mighty-arms.json) |
+| Mighty Beanz Pocket Puzzles | 6510 | [6510-mighty-beanz-pocket-puzzles.json](./6510-mighty-beanz-pocket-puzzles.json) |
 | Mighty Bomb Jack | 40531 | [40531-mighty-bomb-jack.json](./40531-mighty-bomb-jack.json) |
 | Mighty Chameleon Brothers | 155469 | [155469-mighty-chameleon-brothers.json](./155469-mighty-chameleon-brothers.json) |
 | Mighty Cuphead Adventure | 404676 | [404676-mighty-cuphead-adventure.json](./404676-mighty-cuphead-adventure.json) |
@@ -12636,6 +12643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster High Skulltimate Secrets | 314521 | [314521-monster-high-skulltimate-secrets.json](./314521-monster-high-skulltimate-secrets.json) |
 | Monster High: 13 Wishes | 25142 | [25142-monster-high-13-wishes.json](./25142-monster-high-13-wishes.json) |
 | Monster High: Beauty Shop | 89146 | [89146-monster-high-beauty-shop.json](./89146-monster-high-beauty-shop.json) |
+| Monster High: Ghoul Spirit | 8567 | [8567-monster-high-ghoul-spirit.json](./8567-monster-high-ghoul-spirit.json) |
 | Monster High: Minis Mania | 232507 | [232507-monster-high-minis-mania.json](./232507-monster-high-minis-mania.json) |
 | Monster High: New Ghoul in School | 19318 | [19318-monster-high-new-ghoul-in-school.json](./19318-monster-high-new-ghoul-in-school.json) |
 | Monster Home | 263987 | [263987-monster-home.json](./263987-monster-home.json) |
@@ -12891,6 +12899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
 | Monster Rancher 1 DX | 184782 | [184782-monster-rancher-1-dx.json](./184782-monster-rancher-1-dx.json) |
 | Monster Rancher 2 DX | 184783 | [184783-monster-rancher-2-dx.json](./184783-monster-rancher-2-dx.json) |
+| Monster Rancher Advance 2 | 6512 | [6512-monster-rancher-advance-2.json](./6512-monster-rancher-advance-2.json) |
 | Monster Rancher Battle Card GB | 104241 | [104241-monster-rancher-battle-card-gb.json](./104241-monster-rancher-battle-card-gb.json) |
 | Monster Rancher Explorer | 49860 | [49860-monster-rancher-explorer.json](./49860-monster-rancher-explorer.json) |
 | Monster Rancher Hop-A-Bout | 78298 | [78298-monster-rancher-hop-a-bout.json](./78298-monster-rancher-hop-a-bout.json) |
@@ -13159,9 +13168,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monty on the Norm | 71243 | [71243-monty-on-the-norm.json](./71243-monty-on-the-norm.json) |
 | Monty on the Run | 376192 | [376192-monty-on-the-run.json](./376192-monty-on-the-run.json) |
 | Monty Python & the Quest for the Holy Grail | 8552 | [8552-monty-python-and-the-quest-for-the-holy-grail.json](./8552-monty-python-and-the-quest-for-the-holy-grail.json) |
+| Monty Python's Complete Waste of Time | 8551 | [8551-monty-pythons-complete-waste-of-time.json](./8551-monty-pythons-complete-waste-of-time.json) |
+| Monty Python's Cow Tossing | 8553 | [8553-monty-pythons-cow-tossing.json](./8553-monty-pythons-cow-tossing.json) |
+| Monty Python's Flying Circus: The Computer Game | 8554 | [8554-monty-pythons-flying-circus-the-computer-game.json](./8554-monty-pythons-flying-circus-the-computer-game.json) |
 | Monty Python's Invasion from the Planet Skyron | 45924 | [45924-monty-pythons-invasion-from-the-planet-skyron.json](./45924-monty-pythons-invasion-from-the-planet-skyron.json) |
 | Monty Python's Looney Bin | 94509 | [94509-monty-pythons-looney-bin.json](./94509-monty-pythons-looney-bin.json) |
 | Monty Python's Makeout Mansion | 383012 | [383012-monty-pythons-makeout-mansion.json](./383012-monty-pythons-makeout-mansion.json) |
+| Monty Python's the Meaning of Life | 8555 | [8555-monty-pythons-the-meaning-of-life.json](./8555-monty-pythons-the-meaning-of-life.json) |
 | Monty the Komodo Dragon | 324505 | [324505-monty-the-komodo-dragon.json](./324505-monty-the-komodo-dragon.json) |
 | Monty's Backyard Adventure | 104229 | [104229-montys-backyard-adventure.json](./104229-montys-backyard-adventure.json) |
 | Monument | 260138 | [260138-monument.json](./260138-monument.json) |
@@ -14203,6 +14216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Racer 2044 Game Simulator: Money Magnet Bundle | 328988 | [328988-moto-racer-2044-game-simulator-money-magnet-bundle.json](./328988-moto-racer-2044-game-simulator-money-magnet-bundle.json) |
 | Moto Racer 4 | 19345 | [19345-moto-racer-4.json](./19345-moto-racer-4.json) |
 | Moto Racer 4: Deluxe Edition | 25019 | [25019-moto-racer-4-deluxe-edition.json](./25019-moto-racer-4-deluxe-edition.json) |
+| Moto Racer Advance | 6515 | [6515-moto-racer-advance.json](./6515-moto-racer-advance.json) |
 | Moto Racer Collection | 36248 | [36248-moto-racer-collection.json](./36248-moto-racer-collection.json) |
 | Moto Racer DS | 10564 | [10564-moto-racer-ds.json](./10564-moto-racer-ds.json) |
 | Moto Racer Simulator GT Games | 256759 | [256759-moto-racer-simulator-gt-games.json](./256759-moto-racer-simulator-gt-games.json) |
@@ -14255,6 +14269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocon | 395189 | [395189-motocon.json](./395189-motocon.json) |
 | Motocross | 159094 | [159094-motocross.json](./159094-motocross.json) |
 | Motocross | 72336 | [72336-motocross.json](./72336-motocross.json) |
+| Motocross | 8406 | [8406-motocross.json](./8406-motocross.json) |
 | Motocross Challenge | 49508 | [49508-motocross-challenge.json](./49508-motocross-challenge.json) |
 | Motocross Champion | 64272 | [64272-motocross-champion.json](./64272-motocross-champion.json) |
 | Motocross Championship | 19779 | [19779-motocross-championship.json](./19779-motocross-championship.json) |
@@ -15132,7 +15147,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTV's Beavis and Butt-head | 307115 | [307115-mtvs-beavis-and-butt-head.json](./307115-mtvs-beavis-and-butt-head.json) |
 | MTV's Beavis and Butt-head in Virtual Stupidity | 8457 | [8457-mtvs-beavis-and-butt-head-in-virtual-stupidity.json](./8457-mtvs-beavis-and-butt-head-in-virtual-stupidity.json) |
 | MTV's Beavis and Butt-head: Bunghole in One | 8459 | [8459-mtvs-beavis-and-butt-head-bunghole-in-one.json](./8459-mtvs-beavis-and-butt-head-bunghole-in-one.json) |
+| MTV's Beavis and Butt-head: Calling All Dorks | 8462 | [8462-mtvs-beavis-and-butt-head-calling-all-dorks.json](./8462-mtvs-beavis-and-butt-head-calling-all-dorks.json) |
 | MTV's Beavis and Butt-Head: Do U. | 8458 | [8458-mtvs-beavis-and-butt-head-do-u.json](./8458-mtvs-beavis-and-butt-head-do-u.json) |
+| MTV's Beavis and Butt-head: Little Thingies | 8461 | [8461-mtvs-beavis-and-butt-head-little-thingies.json](./8461-mtvs-beavis-and-butt-head-little-thingies.json) |
+| MTV's Beavis and Butt-head: Screen Wreckers | 8463 | [8463-mtvs-beavis-and-butt-head-screen-wreckers.json](./8463-mtvs-beavis-and-butt-head-screen-wreckers.json) |
 | MTV's Beavis and Butt-Head: Wiener Takes All | 66094 | [66094-mtvs-beavis-and-butt-head-wiener-takes-all.json](./66094-mtvs-beavis-and-butt-head-wiener-takes-all.json) |
 | MTV's Club Dead | 69773 | [69773-mtvs-club-dead.json](./69773-mtvs-club-dead.json) |
 | MTX Mototrax | 5935 | [5935-mtx-mototrax.json](./5935-mtx-mototrax.json) |
@@ -16623,6 +16641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony: Fighting is Magic | 137023 | [137023-my-little-pony-fighting-is-magic.json](./137023-my-little-pony-fighting-is-magic.json) |
 | My Little Pony: Fighting is Magic - Tribute Edition | 146263 | [146263-my-little-pony-fighting-is-magic-tribute-edition.json](./146263-my-little-pony-fighting-is-magic-tribute-edition.json) |
 | My Little Pony: Friendship is Magic | 207046 | [207046-my-little-pony-friendship-is-magic.json](./207046-my-little-pony-friendship-is-magic.json) |
+| My Little Pony: Friendship Is Magic | 8443 | [8443-my-little-pony-friendship-is-magic.json](./8443-my-little-pony-friendship-is-magic.json) |
 | My Little Pony: Grand Puzzleventure | 220097 | [220097-my-little-pony-grand-puzzleventure.json](./220097-my-little-pony-grand-puzzleventure.json) |
 | My Little Pony: Harmony Quest | 138462 | [138462-my-little-pony-harmony-quest.json](./138462-my-little-pony-harmony-quest.json) |
 | My Little Pony: Magic Garden | 282122 | [282122-my-little-pony-magic-garden.json](./282122-my-little-pony-magic-garden.json) |
