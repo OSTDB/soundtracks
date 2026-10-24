@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nantettatte!! Baseball | 48811 | [48811-nantettatte-baseball.json](./48811-nantettatte-baseball.json) |
 | Nantettatte!! Baseball '91 Kaimaku-hen | 48810 | [48810-nantettatte-baseball-91-kaimaku-hen.json](./48810-nantettatte-baseball-91-kaimaku-hen.json) |
 | Nantettatte!! Baseball OB All Star-hen | 48809 | [48809-nantettatte-baseball-ob-all-star-hen.json](./48809-nantettatte-baseball-ob-all-star-hen.json) |
+| Nantucket | 80960 | [80960-nantucket.json](./80960-nantucket.json) |
 | Nantucket: Masters of the Seven Seas | 155045 | [155045-nantucket-masters-of-the-seven-seas.json](./155045-nantucket-masters-of-the-seven-seas.json) |
 | Nanuk: The dusk of the brutes | 252401 | [252401-nanuk-the-dusk-of-the-brutes.json](./252401-nanuk-the-dusk-of-the-brutes.json) |
 | Nanuka: Secret of the Shattering Moon | 298120 | [298120-nanuka-secret-of-the-shattering-moon.json](./298120-nanuka-secret-of-the-shattering-moon.json) |
