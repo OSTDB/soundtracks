@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Hombre | 119660 | [119660-bad-hombre.json](./119660-bad-hombre.json) |
 | Bad Hop Baseball | 235368 | [235368-bad-hop-baseball.json](./235368-bad-hop-baseball.json) |
 | Bad House | 418601 | [418601-bad-house.json](./418601-bad-house.json) |
+| Bad Ice Cream | 106009 | [106009-bad-ice-cream.json](./106009-bad-ice-cream.json) |
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
 | Bad Janitor | 346250 | [346250-bad-janitor.json](./346250-bad-janitor.json) |
 | Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
@@ -761,7 +762,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldi's Basics 1 Year Birthday Bash! | 176497 | [176497-baldis-basics-1-year-birthday-bash.json](./176497-baldis-basics-1-year-birthday-bash.json) |
 | Baldi's Basics Classic Remastered | 200473 | [200473-baldis-basics-classic-remastered.json](./200473-baldis-basics-classic-remastered.json) |
 | Baldi's Basics in 2D | 406248 | [406248-baldis-basics-in-2d.json](./406248-baldis-basics-in-2d.json) |
+| Baldi's Basics in Education and Learning | 102832 | [102832-baldis-basics-in-education-and-learning.json](./102832-baldis-basics-in-education-and-learning.json) |
 | Baldi's Basics in School Education | 102854 | [102854-baldis-basics-in-school-education.json](./102854-baldis-basics-in-school-education.json) |
 | Baldi's Basics: Encounter Doors | 353384 | [353384-baldis-basics-encounter-doors.json](./353384-baldis-basics-encounter-doors.json) |
 | Baldi's Farm! | 263665 | [263665-baldis-farm.json](./263665-baldis-farm.json) |
@@ -2477,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basic Car Repair Garage VR | 125107 | [125107-basic-car-repair-garage-vr.json](./125107-basic-car-repair-garage-vr.json) |
 | BASIC Computer Games | 408061 | [408061-basic-computer-games.json](./408061-basic-computer-games.json) |
 | Basic Kanji Meaning Quiz | 409668 | [409668-basic-kanji-meaning-quiz.json](./409668-basic-kanji-meaning-quiz.json) |
+| Basic Math | 17258 | [17258-basic-math.json](./17258-basic-math.json) |
 | Basic Nyuumon | 47549 | [47549-basic-nyuumon.json](./47549-basic-nyuumon.json) |
 | Basic Platformer | 305908 | [305908-basic-platformer.json](./305908-basic-platformer.json) |
 | Basic Programming | 54794 | [54794-basic-programming.json](./54794-basic-programming.json) |
@@ -8124,6 +8126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blendr | 382601 | [382601-blendr.json](./382601-blendr.json) |
 | Blendy 2 Dolls Factory | 129758 | [129758-blendy-2-dolls-factory.json](./129758-blendy-2-dolls-factory.json) |
 | Blenzzle | 367713 | [367713-blenzzle.json](./367713-blenzzle.json) |
+| Bless Unleashed | 108559 | [108559-bless-unleashed.json](./108559-bless-unleashed.json) |
 | Bless Unleashed: Deluxe Founder's Pack | 166082 | [166082-bless-unleashed-deluxe-founders-pack.json](./166082-bless-unleashed-deluxe-founders-pack.json) |
 | Bless Unleashed: Exalted Founder's Pack | 166077 | [166077-bless-unleashed-exalted-founders-pack.json](./166077-bless-unleashed-exalted-founders-pack.json) |
 | Bless You Again | 334133 | [334133-bless-you-again.json](./334133-bless-you-again.json) |
@@ -8574,6 +8577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockade | 18118 | [18118-blockade.json](./18118-blockade.json) |
 | Blockade | 251070 | [251070-blockade.json](./251070-blockade.json) |
 | Blockade | 362428 | [362428-blockade.json](./362428-blockade.json) |
+| Blockade 3D | 17438 | [17438-blockade-3d.json](./17438-blockade-3d.json) |
 | Blockade Runner | 23864 | [23864-blockade-runner.json](./23864-blockade-runner.json) |
 | Blockade Runner | 297244 | [297244-blockade-runner.json](./297244-blockade-runner.json) |
 | Blockade Runner | 397236 | [397236-blockade-runner.json](./397236-blockade-runner.json) |
@@ -8808,6 +8812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bowl III: Season 4 | 302466 | [302466-blood-bowl-iii-season-4.json](./302466-blood-bowl-iii-season-4.json) |
 | Blood Bowl III: Season 5 | 302174 | [302174-blood-bowl-iii-season-5.json](./302174-blood-bowl-iii-season-5.json) |
 | Blood Bowl Tablet | 29030 | [29030-blood-bowl-tablet.json](./29030-blood-bowl-tablet.json) |
+| Blood Bowl: Chaos Edition | 16400 | [16400-blood-bowl-chaos-edition.json](./16400-blood-bowl-chaos-edition.json) |
 | Blood Bowl: Death Zone | 105663 | [105663-blood-bowl-death-zone.json](./105663-blood-bowl-death-zone.json) |
 | Blood Bowl: Kerrunch | 34380 | [34380-blood-bowl-kerrunch.json](./34380-blood-bowl-kerrunch.json) |
 | Blood Branched Sakura | 129754 | [129754-blood-branched-sakura.json](./129754-blood-branched-sakura.json) |
@@ -10217,6 +10222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Land Touch! | 20612 | [20612-bomberman-land-touch.json](./20612-bomberman-land-touch.json) |
 | Bomberman Land Touch! 2 | 20774 | [20774-bomberman-land-touch-2.json](./20774-bomberman-land-touch-2.json) |
 | Bomberman Legends | 198215 | [198215-bomberman-legends.json](./198215-bomberman-legends.json) |
+| Bomberman Live | 17456 | [17456-bomberman-live.json](./17456-bomberman-live.json) |
 | Bomberman Live: Battlefest | 67696 | [67696-bomberman-live-battlefest.json](./67696-bomberman-live-battlefest.json) |
 | Bomberman Max 2 | 69781 | [69781-bomberman-max-2.json](./69781-bomberman-max-2.json) |
 | Bomberman Max: Ain Version | 197961 | [197961-bomberman-max-ain-version.json](./197961-bomberman-max-ain-version.json) |
@@ -10266,6 +10272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
 | Bombslinger | 32572 | [32572-bombslinger.json](./32572-bombslinger.json) |
+| BombSquad | 17449 | [17449-bombsquad.json](./17449-bombsquad.json) |
 | Bombsquad: Defuse the Bomb | 208216 | [208216-bombsquad-defuse-the-bomb.json](./208216-bombsquad-defuse-the-bomb.json) |
 | BombTag | 84087 | [84087-bombtag.json](./84087-bombtag.json) |
 | BombTrax | 339596 | [339596-bombtrax.json](./339596-bombtrax.json) |
@@ -10566,6 +10573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Block | 108733 | [108733-boom-block.json](./108733-boom-block.json) |
 | Boom Boom Bovine | 120118 | [120118-boom-boom-bovine.json](./120118-boom-boom-bovine.json) |
 | Boom Boom Hamster Doom | 344168 | [344168-boom-boom-hamster-doom.json](./344168-boom-boom-hamster-doom.json) |
+| Boom Boom Rocket | 16742 | [16742-boom-boom-rocket.json](./16742-boom-boom-rocket.json) |
 | Boom Boom Tower | 118063 | [118063-boom-boom-tower.json](./118063-boom-boom-tower.json) |
 | Boom Boom Volleyball | 263470 | [263470-boom-boom-volleyball.json](./263470-boom-boom-volleyball.json) |
 | Boom Boomerang | 127683 | [127683-boom-boomerang.json](./127683-boom-boomerang.json) |
@@ -11300,6 +11308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowlers | 384080 | [384080-bowlers.json](./384080-bowlers.json) |
 | Bowling | 131535 | [131535-bowling.json](./131535-bowling.json) |
 | Bowling | 172404 | [172404-bowling.json](./172404-bowling.json) |
+| Bowling | 18005 | [18005-bowling.json](./18005-bowling.json) |
 | Bowling | 246283 | [246283-bowling.json](./246283-bowling.json) |
 | Bowling | 247004 | [247004-bowling.json](./247004-bowling.json) |
 | Bowling | 291999 | [291999-bowling.json](./291999-bowling.json) |
