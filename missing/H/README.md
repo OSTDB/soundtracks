@@ -2860,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven and Earth | 51421 | [51421-heaven-and-earth.json](./51421-heaven-and-earth.json) |
 | Heaven And Hell: The Last War | 111713 | [111713-heaven-and-hell-the-last-war.json](./111713-heaven-and-hell-the-last-war.json) |
 | Heaven Bound | 209866 | [209866-heaven-bound.json](./209866-heaven-bound.json) |
+| Heaven Dust 2 | 153344 | [153344-heaven-dust-2.json](./153344-heaven-dust-2.json) |
 | Heaven Dust Collection | 317215 | [317215-heaven-dust-collection.json](./317215-heaven-dust-collection.json) |
 | Heaven Impact | 301001 | [301001-heaven-impact.json](./301001-heaven-impact.json) |
 | Heaven Jump | 293184 | [293184-heaven-jump.json](./293184-heaven-jump.json) |
@@ -3823,6 +3824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henry Stickmin: Defending the Mall | 378979 | [378979-henry-stickmin-defending-the-mall.json](./378979-henry-stickmin-defending-the-mall.json) |
 | Henry Stickmin: Escaping the Prison | 140712 | [140712-henry-stickmin-escaping-the-prison.json](./140712-henry-stickmin-escaping-the-prison.json) |
 | Henry Stickmin: Fleeing the Complex | 145664 | [145664-henry-stickmin-fleeing-the-complex.json](./145664-henry-stickmin-fleeing-the-complex.json) |
+| Henry Stickmin: Infiltrating the Airship | 145663 | [145663-henry-stickmin-infiltrating-the-airship.json](./145663-henry-stickmin-infiltrating-the-airship.json) |
 | Henry, What Have You Done? | 180751 | [180751-henry-what-have-you-done.json](./180751-henry-what-have-you-done.json) |
 | Henry's Adventure | 268188 | [268188-henrys-adventure.json](./268188-henrys-adventure.json) |
 | Henry's Escape: Prison | 280327 | [280327-henrys-escape-prison.json](./280327-henrys-escape-prison.json) |
