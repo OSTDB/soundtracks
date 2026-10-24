@@ -768,7 +768,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4360,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Shapes | 385585 | [385585-beat-shapes.json](./385585-beat-shapes.json) |
 | Beat Shot | 208220 | [208220-beat-shot.json](./208220-beat-shot.json) |
 | Beat Slash 2 | 216129 | [216129-beat-slash-2.json](./216129-beat-slash-2.json) |
+| Beat Slayer | 244838 | [244838-beat-slayer.json](./244838-beat-slayer.json) |
 | Beat Slicer | 410273 | [410273-beat-slicer.json](./410273-beat-slicer.json) |
 | Beat Slug Hyperway | 208030 | [208030-beat-slug-hyperway.json](./208030-beat-slug-hyperway.json) |
 | Beat Souls | 149031 | [149031-beat-souls.json](./149031-beat-souls.json) |
@@ -6664,6 +6664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle Defenders | 343283 | [343283-bionicle-defenders.json](./343283-bionicle-defenders.json) |
 | Bionicle Heroes | 200958 | [200958-bionicle-heroes.json](./200958-bionicle-heroes.json) |
 | Bionicle Heroes | 200959 | [200959-bionicle-heroes.json](./200959-bionicle-heroes.json) |
+| Bionicle Heroes | 248509 | [248509-bionicle-heroes.json](./248509-bionicle-heroes.json) |
 | Bionicle Heroes | 248510 | [248510-bionicle-heroes.json](./248510-bionicle-heroes.json) |
 | Bionicle Heroes | 248511 | [248511-bionicle-heroes.json](./248511-bionicle-heroes.json) |
 | Bionicle Heroes | 3818 | [3818-bionicle-heroes.json](./3818-bionicle-heroes.json) |
