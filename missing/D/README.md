@@ -5313,6 +5313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons Ring | 112199 | [112199-demons-ring.json](./112199-demons-ring.json) |
 | Demons Rise Up! | 192877 | [192877-demons-rise-up.json](./192877-demons-rise-up.json) |
 | Demons Roots | 189139 | [189139-demons-roots.json](./189139-demons-roots.json) |
+| Demons to Diamonds | 17019 | [17019-demons-to-diamonds.json](./17019-demons-to-diamonds.json) |
 | Demons vs. Fairyland | 245328 | [245328-demons-vs-fairyland.json](./245328-demons-vs-fairyland.json) |
 | Demons vs. Wizards | 239118 | [239118-demons-vs-wizards.json](./239118-demons-vs-wizards.json) |
 | Demons with Shotguns | 35205 | [35205-demons-with-shotguns.json](./35205-demons-with-shotguns.json) |
@@ -5563,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Weichensteller: Odyssey Live | 309108 | [309108-der-weichensteller-odyssey-live.json](./309108-der-weichensteller-odyssey-live.json) |
 | Der Zorn Gottes | 308241 | [308241-der-zorn-gottes.json](./308241-der-zorn-gottes.json) |
 | Derace | 393602 | [393602-derace.json](./393602-derace.json) |
+| Déraciné | 103332 | [103332-deracine.json](./103332-deracine.json) |
 | Déraciné: Collector's Edition | 136701 | [136701-deracine-collectors-edition.json](./136701-deracine-collectors-edition.json) |
 | Derail: Sacrifice | 351057 | [351057-derail-sacrifice.json](./351057-derail-sacrifice.json) |
 | DeRailed | 169664 | [169664-derailed.json](./169664-derailed.json) |
@@ -6515,6 +6517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Grip | 257300 | [257300-devils-grip.json](./257300-devils-grip.json) |
 | Devil's Heaven | 277377 | [277377-devils-heaven.json](./277377-devils-heaven.json) |
 | Devil's Hideout | 285016 | [285016-devils-hideout.json](./285016-devils-hideout.json) |
+| Devil's Hunt | 106277 | [106277-devils-hunt.json](./106277-devils-hunt.json) |
 | Devil's Island | 216648 | [216648-devils-island.json](./216648-devils-island.json) |
 | Devil's Island | 313102 | [313102-devils-island.json](./313102-devils-island.json) |
 | Devil's Island Pinball | 70331 | [70331-devils-island-pinball.json](./70331-devils-island-pinball.json) |
@@ -10540,6 +10543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DOOM Remake 4 | 201181 | [201181-doom-remake-4.json](./201181-doom-remake-4.json) |
 | Doom Repainted | 252030 | [252030-doom-repainted.json](./252030-doom-repainted.json) |
 | Doom Roller | 303486 | [303486-doom-roller.json](./303486-doom-roller.json) |
+| Doom RPG | 101029 | [101029-doom-rpg.json](./101029-doom-rpg.json) |
 | Doom Spiral | 347089 | [347089-doom-spiral.json](./347089-doom-spiral.json) |
 | Doom Survivor: Horde Rush | 396187 | [396187-doom-survivor-horde-rush.json](./396187-doom-survivor-horde-rush.json) |
 | Doom Survivors | 295799 | [295799-doom-survivors.json](./295799-doom-survivors.json) |
@@ -12193,6 +12197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Souls | 31864 | [31864-dragon-souls.json](./31864-dragon-souls.json) |
 | Dragon Spear | 77588 | [77588-dragon-spear.json](./77588-dragon-spear.json) |
 | Dragon Spirit | 218370 | [218370-dragon-spirit.json](./218370-dragon-spirit.json) |
+| Dragon Spirit: The New Legend | 17461 | [17461-dragon-spirit-the-new-legend.json](./17461-dragon-spirit-the-new-legend.json) |
 | Dragon Spirits | 127202 | [127202-dragon-spirits.json](./127202-dragon-spirits.json) |
 | Dragon Spirits 2 | 315690 | [315690-dragon-spirits-2.json](./315690-dragon-spirits-2.json) |
 | Dragon Spirits in Fight | 320812 | [320812-dragon-spirits-in-fight.json](./320812-dragon-spirits-in-fight.json) |
