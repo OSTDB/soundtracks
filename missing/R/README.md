@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Tale: Fanfare! | 241527 | [241527-radiant-tale-fanfare.json](./241527-radiant-tale-fanfare.json) |
 | Radiant: Guardians of Light | 258102 | [258102-radiant-guardians-of-light.json](./258102-radiant-guardians-of-light.json) |
 | RadianVR | 41979 | [41979-radianvr.json](./41979-radianvr.json) |
+| Radiata Stories | 19160 | [19160-radiata-stories.json](./19160-radiata-stories.json) |
 | Radiation Age | 49516 | [49516-radiation-age.json](./49516-radiation-age.json) |
 | Radiation Caterpillar | 410229 | [410229-radiation-caterpillar.json](./410229-radiation-caterpillar.json) |
 | Radiation Island | 36287 | [36287-radiation-island.json](./36287-radiation-island.json) |
@@ -5739,6 +5740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RiddleWood | 392274 | [392274-riddlewood.json](./392274-riddlewood.json) |
 | Riddlord: The Consequence | 81688 | [81688-riddlord-the-consequence.json](./81688-riddlord-the-consequence.json) |
 | Ride | 183311 | [183311-ride.json](./183311-ride.json) |
+| Ride | 20047 | [20047-ride.json](./20047-ride.json) |
 | Ride 'Em Rigby: Regular Show | 61140 | [61140-ride-em-rigby-regular-show.json](./61140-ride-em-rigby-regular-show.json) |
 | Ride 2: 2017 Top Bikes Pack | 226961 | [226961-ride-2-2017-top-bikes-pack.json](./226961-ride-2-2017-top-bikes-pack.json) |
 | Ride 2: Aprilia and Suzuki Bonus Pack | 226962 | [226962-ride-2-aprilia-and-suzuki-bonus-pack.json](./226962-ride-2-aprilia-and-suzuki-bonus-pack.json) |
@@ -8871,6 +8873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root Down | 250158 | [250158-root-down.json](./250158-root-down.json) |
 | Root Infinity Rexx | 61660 | [61660-root-infinity-rexx.json](./61660-root-infinity-rexx.json) |
 | Root Infinity Rexx: Limited Edition | 254365 | [254365-root-infinity-rexx-limited-edition.json](./254365-root-infinity-rexx-limited-edition.json) |
+| Root Letter | 19798 | [19798-root-letter.json](./19798-root-letter.json) |
 | Root Letter: Last Answer | 106807 | [106807-root-letter-last-answer.json](./106807-root-letter-last-answer.json) |
 | Root Letter: Limited Premium Box | 207921 | [207921-root-letter-limited-premium-box.json](./207921-root-letter-limited-premium-box.json) |
 | Root of All Evil | 57105 | [57105-root-of-all-evil.json](./57105-root-of-all-evil.json) |
