@@ -11128,6 +11128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Battle | 245153 | [245153-armor-battle.json](./245153-armor-battle.json) |
 | Armor Battle | 245574 | [245574-armor-battle.json](./245574-armor-battle.json) |
 | Armor Battle | 305274 | [305274-armor-battle.json](./305274-armor-battle.json) |
+| Armor Blitz | 12647 | [12647-armor-blitz.json](./12647-armor-blitz.json) |
 | Armor Blitz | 276698 | [276698-armor-blitz.json](./276698-armor-blitz.json) |
 | Armor Clash | 34622 | [34622-armor-clash.json](./34622-armor-clash.json) |
 | Armor Clash 2022 | 188092 | [188092-armor-clash-2022.json](./188092-armor-clash-2022.json) |
