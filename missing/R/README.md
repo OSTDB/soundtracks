@@ -1991,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Raving Rabbids TV Party | 193365 | [193365-rayman-raving-rabbids-tv-party.json](./193365-rayman-raving-rabbids-tv-party.json) |
 | Rayman Raving Rabbids TV Party | 193367 | [193367-rayman-raving-rabbids-tv-party.json](./193367-rayman-raving-rabbids-tv-party.json) |
 | Rayman Raving Rabbids: TV Party | 5117 | [5117-rayman-raving-rabbids-tv-party.json](./5117-rayman-raving-rabbids-tv-party.json) |
+| Rayman Redemption | 135262 | [135262-rayman-redemption.json](./135262-rayman-redemption.json) |
 | Rayman ReDesigner | 227926 | [227926-rayman-redesigner.json](./227926-rayman-redesigner.json) |
 | Rayman Rush | 86216 | [86216-rayman-rush.json](./86216-rayman-rush.json) |
 | Rayman the Fan Series Adventure | 331695 | [331695-rayman-the-fan-series-adventure.json](./331695-rayman-the-fan-series-adventure.json) |
