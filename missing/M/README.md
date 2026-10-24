@@ -6397,6 +6397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega World Smash | 54215 | [54215-mega-world-smash.json](./54215-mega-world-smash.json) |
 | Mega Zombie | 146875 | [146875-mega-zombie.json](./146875-mega-zombie.json) |
 | Mega Zombie Explosion | 190436 | [190436-mega-zombie-explosion.json](./190436-mega-zombie-explosion.json) |
+| Mega Zone | 40006 | [40006-mega-zone.json](./40006-mega-zone.json) |
 | Mega-Bots | 214776 | [214776-mega-bots.json](./214776-mega-bots.json) |
 | Mega-Bucks | 37068 | [37068-mega-bucks.json](./37068-mega-bucks.json) |
 | Mega-Bug | 44348 | [44348-mega-bug.json](./44348-mega-bug.json) |
