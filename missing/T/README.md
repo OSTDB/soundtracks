@@ -5723,6 +5723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cardinal of the Kremlin | 14382 | [14382-the-cardinal-of-the-kremlin.json](./14382-the-cardinal-of-the-kremlin.json) |
 | The Cards Never Lie | 185402 | [185402-the-cards-never-lie.json](./185402-the-cards-never-lie.json) |
 | The Cards You're Dealt | 182877 | [182877-the-cards-youre-dealt.json](./182877-the-cards-youre-dealt.json) |
+| The Caregiver | 143687 | [143687-the-caregiver.json](./143687-the-caregiver.json) |
 | The Caretaker | 184766 | [184766-the-caretaker.json](./184766-the-caretaker.json) |
 | The Caretaker’s Lease | 361046 | [361046-the-caretaker-s-lease.json](./361046-the-caretaker-s-lease.json) |
 | The Caribbean Sail: Fantasy Toggle | 144166 | [144166-the-caribbean-sail-fantasy-toggle.json](./144166-the-caribbean-sail-fantasy-toggle.json) |
@@ -11496,6 +11497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -13113,6 +13115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers 7: Paths to a Kingdom - Gold Edition | 27863 | [27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json](./27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json) |
 | The Settlers 7: Paths to a Kingdom - The Two Kings | 225911 | [225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json](./225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json) |
 | The Settlers 7: Paths to a Kingdom - Uncharted Land Map Pack | 167245 | [167245-the-settlers-7-paths-to-a-kingdom-uncharted-land-map-pack.json](./167245-the-settlers-7-paths-to-a-kingdom-uncharted-land-map-pack.json) |
+| The Settlers II: 10th Anniversary - Vikings | 71922 | [71922-the-settlers-ii-10th-anniversary-vikings.json](./71922-the-settlers-ii-10th-anniversary-vikings.json) |
 | The Settlers II: Gold Edition | 2617 | [2617-the-settlers-ii-gold-edition.json](./2617-the-settlers-ii-gold-edition.json) |
 | The Settlers II: Veni, Vidi, Vici | 2596 | [2596-the-settlers-ii-veni-vidi-vici.json](./2596-the-settlers-ii-veni-vidi-vici.json) |
 | The Settlers III | 3696 | [3696-the-settlers-iii.json](./3696-the-settlers-iii.json) |
@@ -13508,6 +13511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Nifty Knitting Stuff | 139941 | [139941-the-sims-4-nifty-knitting-stuff.json](./139941-the-sims-4-nifty-knitting-stuff.json) |
 | The Sims 4: Outdoor Bundle | 159339 | [159339-the-sims-4-outdoor-bundle.json](./159339-the-sims-4-outdoor-bundle.json) |
 | The Sims 4: Outdoor Retreat | 13145 | [13145-the-sims-4-outdoor-retreat.json](./13145-the-sims-4-outdoor-retreat.json) |
+| The Sims 4: Paranormal Stuff | 143026 | [143026-the-sims-4-paranormal-stuff.json](./143026-the-sims-4-paranormal-stuff.json) |
 | The Sims 4: Parenthood | 28859 | [28859-the-sims-4-parenthood.json](./28859-the-sims-4-parenthood.json) |
 | The Sims 4: Party Essentials Kit | 296899 | [296899-the-sims-4-party-essentials-kit.json](./296899-the-sims-4-party-essentials-kit.json) |
 | The Sims 4: Pastel Pop Kit | 226791 | [226791-the-sims-4-pastel-pop-kit.json](./226791-the-sims-4-pastel-pop-kit.json) |
@@ -14432,6 +14436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Top Hat Club | 265742 | [265742-the-top-hat-club.json](./265742-the-top-hat-club.json) |
 | The Toroidal Tower | 182130 | [182130-the-toroidal-tower.json](./182130-the-toroidal-tower.json) |
 | The Tortile Chamber | 182156 | [182156-the-tortile-chamber.json](./182156-the-tortile-chamber.json) |
+| The Torture Game 2 | 141259 | [141259-the-torture-game-2.json](./141259-the-torture-game-2.json) |
 | The Torture House | 303177 | [303177-the-torture-house.json](./303177-the-torture-house.json) |
 | The Torus Syndicate | 30725 | [30725-the-torus-syndicate.json](./30725-the-torus-syndicate.json) |
 | The Totemist | 408524 | [408524-the-totemist.json](./408524-the-totemist.json) |
@@ -15791,6 +15796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheBootCamp | 195219 | [195219-thebootcamp.json](./195219-thebootcamp.json) |
 | TheC64 Mini: Black Edition | 360591 | [360591-thec64-mini-black-edition.json](./360591-thec64-mini-black-edition.json) |
 | TheCube | 224935 | [224935-thecube.json](./224935-thecube.json) |
+| TheDawn | 141735 | [141735-thedawn.json](./141735-thedawn.json) |
 | TheDay | 292935 | [292935-theday.json](./292935-theday.json) |
 | TheDrippingSound | 392494 | [392494-thedrippingsound.json](./392494-thedrippingsound.json) |
 | TheFirstClass VR | 74538 | [74538-thefirstclass-vr.json](./74538-thefirstclass-vr.json) |
@@ -16279,6 +16285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Is a Square! | 292931 | [292931-this-is-a-square.json](./292931-this-is-a-square.json) |
 | This is a Work of Fiction | 242780 | [242780-this-is-a-work-of-fiction.json](./242780-this-is-a-work-of-fiction.json) |
 | This Is Fine | 177325 | [177325-this-is-fine.json](./177325-this-is-fine.json) |
+| This is Football | 70158 | [70158-this-is-football.json](./70158-this-is-football.json) |
 | This is Football 2 | 44833 | [44833-this-is-football-2.json](./44833-this-is-football-2.json) |
 | This is Football 2002 | 44626 | [44626-this-is-football-2002.json](./44626-this-is-football-2002.json) |
 | This Is Football 2005 | 43444 | [43444-this-is-football-2005.json](./43444-this-is-football-2005.json) |
@@ -20398,6 +20405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Chronicles | 1160 | [1160-tomb-raider-chronicles.json](./1160-tomb-raider-chronicles.json) |
 | Tomb Raider: Chronicles | 319750 | [319750-tomb-raider-chronicles.json](./319750-tomb-raider-chronicles.json) |
 | Tomb Raider: Collector's Edition | 43690 | [43690-tomb-raider-collectors-edition.json](./43690-tomb-raider-collectors-edition.json) |
+| Tomb Raider: Collector's Edition | 74555 | [74555-tomb-raider-collectors-edition.json](./74555-tomb-raider-collectors-edition.json) |
 | Tomb Raider: Definitive Edition | 19965 | [19965-tomb-raider-definitive-edition.json](./19965-tomb-raider-definitive-edition.json) |
 | Tomb Raider: Definitive Survivor Trilogy | 144771 | [144771-tomb-raider-definitive-survivor-trilogy.json](./144771-tomb-raider-definitive-survivor-trilogy.json) |
 | Tomb Raider: Demolition Skin | 406536 | [406536-tomb-raider-demolition-skin.json](./406536-tomb-raider-demolition-skin.json) |
@@ -21142,6 +21150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Eclipse II: The Sphinx Jinx | 66006 | [66006-total-eclipse-ii-the-sphinx-jinx.json](./66006-total-eclipse-ii-the-sphinx-jinx.json) |
 | Total Esports Action Manager | 117036 | [117036-total-esports-action-manager.json](./117036-total-esports-action-manager.json) |
 | Total Extreme Wrestling 2004 | 73008 | [73008-total-extreme-wrestling-2004.json](./73008-total-extreme-wrestling-2004.json) |
+| Total Extreme Wrestling 2005 | 73007 | [73007-total-extreme-wrestling-2005.json](./73007-total-extreme-wrestling-2005.json) |
 | Total Extreme Wrestling 2008 | 73010 | [73010-total-extreme-wrestling-2008.json](./73010-total-extreme-wrestling-2008.json) |
 | Total Extreme Wrestling 2013 | 31239 | [31239-total-extreme-wrestling-2013.json](./31239-total-extreme-wrestling-2013.json) |
 | Total Extreme Wrestling 2016 | 27681 | [27681-total-extreme-wrestling-2016.json](./27681-total-extreme-wrestling-2016.json) |
