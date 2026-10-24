@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Simulator: Pocket Edition | 122871 | [122871-car-mechanic-simulator-pocket-edition.json](./122871-car-mechanic-simulator-pocket-edition.json) |
 | Car Mechanic Simulator: Pocket Edition 2 | 196825 | [196825-car-mechanic-simulator-pocket-edition-2.json](./196825-car-mechanic-simulator-pocket-edition-2.json) |
 | Car Mechanic: City Driving | 263971 | [263971-car-mechanic-city-driving.json](./263971-car-mechanic-city-driving.json) |
+| Car Merger | 88874 | [88874-car-merger.json](./88874-car-merger.json) |
 | Car on a Stick | 123623 | [123623-car-on-a-stick.json](./123623-car-on-a-stick.json) |
 | Car Park: Draw Lines Puzzle | 261097 | [261097-car-park-draw-lines-puzzle.json](./261097-car-park-draw-lines-puzzle.json) |
 | Car Parking | 226295 | [226295-car-parking.json](./226295-car-parking.json) |
@@ -6168,6 +6169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choices That Matter: And Their Heroes Were Lost | 147696 | [147696-choices-that-matter-and-their-heroes-were-lost.json](./147696-choices-that-matter-and-their-heroes-were-lost.json) |
 | Choices That Matter: And Their Souls Were Eaten | 147153 | [147153-choices-that-matter-and-their-souls-were-eaten.json](./147153-choices-that-matter-and-their-souls-were-eaten.json) |
 | Choices, the Game | 83531 | [83531-choices-the-game.json](./83531-choices-the-game.json) |
+| Choices: Stories You Play | 88758 | [88758-choices-stories-you-play.json](./88758-choices-stories-you-play.json) |
 | Choirsaintess | 367060 | [367060-choirsaintess.json](./367060-choirsaintess.json) |
 | Choju Yokai Giga | 151684 | [151684-choju-yokai-giga.json](./151684-choju-yokai-giga.json) |
 | Choker: Chess & Poker | 144646 | [144646-choker-chess-and-poker.json](./144646-choker-chess-and-poker.json) |
@@ -8922,6 +8924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code of Princess EX | 90104 | [90104-code-of-princess-ex.json](./90104-code-of-princess-ex.json) |
 | Code Of Superheroes | 301809 | [301809-code-of-superheroes.json](./301809-code-of-superheroes.json) |
 | Code of the Savage | 173310 | [173310-code-of-the-savage.json](./173310-code-of-the-savage.json) |
+| Code of War | 89730 | [89730-code-of-war.json](./89730-code-of-war.json) |
 | Code R | 125786 | [125786-code-r.json](./125786-code-r.json) |
 | Code R | 193858 | [193858-code-r.json](./193858-code-r.json) |
 | Code Racer | 289792 | [289792-code-racer.json](./289792-code-racer.json) |
@@ -8932,6 +8935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Red | 292455 | [292455-code-red.json](./292455-code-red.json) |
 | Code Rivals | 211126 | [211126-code-rivals.json](./211126-code-rivals.json) |
 | Code Romantic | 105104 | [105104-code-romantic.json](./105104-code-romantic.json) |
+| Code Shifter | 128062 | [128062-code-shifter.json](./128062-code-shifter.json) |
 | Code Tracer | 124227 | [124227-code-tracer.json](./124227-code-tracer.json) |
 | Code Trainer | 338871 | [338871-code-trainer.json](./338871-code-trainer.json) |
 | Code Tycoon | 397058 | [397058-code-tycoon.json](./397058-code-tycoon.json) |
@@ -9287,6 +9291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coldline | 227913 | [227913-coldline.json](./227913-coldline.json) |
 | Coldplay Canoodlers | 356110 | [356110-coldplay-canoodlers.json](./356110-coldplay-canoodlers.json) |
 | ColdRidge | 310254 | [310254-coldridge.json](./310254-coldridge.json) |
+| ColdSide | 128834 | [128834-coldside.json](./128834-coldside.json) |
 | ColdSide: Retro Edition | 410206 | [410206-coldside-retro-edition.json](./410206-coldside-retro-edition.json) |
 | Coldsteel Adventure 7 | 275487 | [275487-coldsteel-adventure-7.json](./275487-coldsteel-adventure-7.json) |
 | Coldstone: Scoop It Up | 79153 | [79153-coldstone-scoop-it-up.json](./79153-coldstone-scoop-it-up.json) |
@@ -9511,6 +9516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Breakers 2 | 338877 | [338877-color-breakers-2.json](./338877-color-breakers-2.json) |
 | Color Bump 3D | 305840 | [305840-color-bump-3d.json](./305840-color-bump-3d.json) |
 | Color by Number - Modern Art | 102240 | [102240-color-by-number-modern-art.json](./102240-color-by-number-modern-art.json) |
+| Color by Number - Puzzle | 89755 | [89755-color-by-number-puzzle.json](./89755-color-by-number-puzzle.json) |
 | Color by Number: New Coloring Book | 105504 | [105504-color-by-number-new-coloring-book.json](./105504-color-by-number-new-coloring-book.json) |
 | Color by Numbers - Animals | 111173 | [111173-color-by-numbers-animals.json](./111173-color-by-numbers-animals.json) |
 | Color by Numbers - Animals + | 86696 | [86696-color-by-numbers-animals.json](./86696-color-by-numbers-animals.json) |
@@ -9766,6 +9772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Game: Little City - No.4 | 255594 | [255594-coloring-game-little-city-no-4.json](./255594-coloring-game-little-city-no-4.json) |
 | Coloring Game: Little City - No.5 | 255595 | [255595-coloring-game-little-city-no-5.json](./255595-coloring-game-little-city-no-5.json) |
 | Coloring Game: Mini Pack | 255588 | [255588-coloring-game-mini-pack.json](./255588-coloring-game-mini-pack.json) |
+| Coloring Game: Pixel | 127313 | [127313-coloring-game-pixel.json](./127313-coloring-game-pixel.json) |
 | Coloring Game: Studio | 273998 | [273998-coloring-game-studio.json](./273998-coloring-game-studio.json) |
 | Coloring Game: The Family | 255589 | [255589-coloring-game-the-family.json](./255589-coloring-game-the-family.json) |
 | Coloring Games for Families+ | 415287 | [415287-coloring-games-for-families.json](./415287-coloring-games-for-families.json) |
