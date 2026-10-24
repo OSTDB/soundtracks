@@ -2318,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Drone Simulator | 298936 | [298936-real-drone-simulator.json](./298936-real-drone-simulator.json) |
 | Real Erogame Situation! Triple H | 194627 | [194627-real-erogame-situation-triple-h.json](./194627-real-erogame-situation-triple-h.json) |
 | Real Eroge Situation! | 194590 | [194590-real-eroge-situation.json](./194590-real-eroge-situation.json) |
+| Real Estate | 41148 | [41148-real-estate.json](./41148-real-estate.json) |
 | Real Estate Simulator | 288834 | [288834-real-estate-simulator.json](./288834-real-estate-simulator.json) |
 | Real Estate Simulator 2 | 352791 | [352791-real-estate-simulator-2.json](./352791-real-estate-simulator-2.json) |
 | Real Estate Tycoon | 207375 | [207375-real-estate-tycoon.json](./207375-real-estate-tycoon.json) |
@@ -2635,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaper's Rite | 297561 | [297561-reapers-rite.json](./297561-reapers-rite.json) |
 | Reapers | 267448 | [267448-reapers.json](./267448-reapers.json) |
 | Reapers Reception | 406923 | [406923-reapers-reception.json](./406923-reapers-reception.json) |
+| Reaping Rewards | 41143 | [41143-reaping-rewards.json](./41143-reaping-rewards.json) |
 | Reaplaced | 270545 | [270545-reaplaced.json](./270545-reaplaced.json) |
 | Reaprieve | 347907 | [347907-reaprieve.json](./347907-reaprieve.json) |
 | Rear of Business | 151275 | [151275-rear-of-business.json](./151275-rear-of-business.json) |
@@ -7611,6 +7613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Shooting | 403001 | [403001-rocket-shooting.json](./403001-rocket-shooting.json) |
 | Rocket Sky! | 119647 | [119647-rocket-sky.json](./119647-rocket-sky.json) |
 | Rocket Smash | 273642 | [273642-rocket-smash.json](./273642-rocket-smash.json) |
+| Rocket Smash EX | 41174 | [41174-rocket-smash-ex.json](./41174-rocket-smash-ex.json) |
 | Rocket Space Ship Frontier | 243091 | [243091-rocket-space-ship-frontier.json](./243091-rocket-space-ship-frontier.json) |
 | Rocket Spin Orbit Glide | 369128 | [369128-rocket-spin-orbit-glide.json](./369128-rocket-spin-orbit-glide.json) |
 | Rocket Squad: Infinity | 332856 | [332856-rocket-squad-infinity.json](./332856-rocket-squad-infinity.json) |
