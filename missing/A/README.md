@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.E. | 20175 | [20175-a-e.json](./20175-a-e.json) |
 | A.E. | 282086 | [282086-a-e.json](./282086-a-e.json) |
 | A.G. Soccer-Ball | 94140 | [94140-a-g-soccer-ball.json](./94140-a-g-soccer-ball.json) |
+| A.G.E. | 11880 | [11880-a-g-e.json](./11880-a-g-e.json) |
 | A.G.E. | 240255 | [240255-a-g-e.json](./240255-a-g-e.json) |
 | A.I am Monster | 26569 | [26569-a-i-am-monster.json](./26569-a-i-am-monster.json) |
 | A.I: Mnemosyne | 374224 | [374224-a-i-mnemosyne.json](./374224-a-i-mnemosyne.json) |
@@ -1283,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.J.'s World of Discovery | 73176 | [73176-a-j-s-world-of-discovery.json](./73176-a-j-s-world-of-discovery.json) |
 | A.L.A.N.: Rift Breakers | 120158 | [120158-a-l-a-n-rift-breakers.json](./120158-a-l-a-n-rift-breakers.json) |
 | A.L.T. | 239590 | [239590-a-l-t.json](./239590-a-l-t.json) |
+| A.M.C.: Astro Marine Corps | 11881 | [11881-a-m-c-astro-marine-corps.json](./11881-a-m-c-astro-marine-corps.json) |
 | A.N.N. | 306778 | [306778-a-n-n.json](./306778-a-n-n.json) |
 | A.N.O.N.Y.M.U.S. | 279027 | [279027-a-n-o-n-y-m-u-s.json](./279027-a-n-o-n-y-m-u-s.json) |
 | A.R.C: Alien raid combat | 165707 | [165707-a-r-c-alien-raid-combat.json](./165707-a-r-c-alien-raid-combat.json) |
@@ -1319,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A3: Still Alive | 130673 | [130673-a3-still-alive.json](./130673-a3-still-alive.json) |
 | A3! Act! Addict! Actors! | 137535 | [137535-a3-act-addict-actors.json](./137535-a3-act-addict-actors.json) |
 | A320 | 14151 | [14151-a320.json](./14151-a320.json) |
+| A320 Airbus | 11882 | [11882-a320-airbus.json](./11882-a320-airbus.json) |
 | A320 Airbus Vol. 2 | 14201 | [14201-a320-airbus-vol-2.json](./14201-a320-airbus-vol-2.json) |
 | A320 Airbus: Edition USA | 14595 | [14595-a320-airbus-edition-usa.json](./14595-a320-airbus-edition-usa.json) |
 | A340-500/600 Expansion pack for FS2004/FSX | 138083 | [138083-a340-500-600-expansion-pack-for-fs2004-fsx.json](./138083-a340-500-600-expansion-pack-for-fs2004-fsx.json) |
@@ -1351,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaaarrrrgggghhhh! | 176278 | [176278-aaaarrrrgggghhhh.json](./176278-aaaarrrrgggghhhh.json) |
 | Aaaaxy | 249319 | [249319-aaaaxy.json](./249319-aaaaxy.json) |
 | Aaahh!!! Real Monsters | 5339 | [5339-aaahh-real-monsters.json](./5339-aaahh-real-monsters.json) |
+| Aaargh! | 11883 | [11883-aaargh.json](./11883-aaargh.json) |
 | Aaarghpocalypse | 273874 | [273874-aaarghpocalypse.json](./273874-aaarghpocalypse.json) |
 | Aabahran: The Forsaken Lands | 229139 | [229139-aabahran-the-forsaken-lands.json](./229139-aabahran-the-forsaken-lands.json) |
 | Aaero + Aaero2 Bundle | 331448 | [331448-aaero-aaero2-bundle.json](./331448-aaero-aaero2-bundle.json) |
@@ -1417,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Knight | 33508 | [33508-abandoned-knight.json](./33508-abandoned-knight.json) |
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
 | Abandoned Passage | 377425 | [377425-abandoned-passage.json](./377425-abandoned-passage.json) |
+| Abandoned Places 2 | 11849 | [11849-abandoned-places-2.json](./11849-abandoned-places-2.json) |
 | Abandoned Realms | 229108 | [229108-abandoned-realms.json](./229108-abandoned-realms.json) |
 | Abandoned Souls | 249029 | [249029-abandoned-souls.json](./249029-abandoned-souls.json) |
 | Abandoned Stories: Inherited Silence | 395245 | [395245-abandoned-stories-inherited-silence.json](./395245-abandoned-stories-inherited-silence.json) |
@@ -2566,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrenaline Rush 4‑Pack | 396438 | [396438-adrenaline-rush-4-pack.json](./396438-adrenaline-rush-4-pack.json) |
 | Adrenaline Rush: Highway Extreme Traffic Racer | 300767 | [300767-adrenaline-rush-highway-extreme-traffic-racer.json](./300767-adrenaline-rush-highway-extreme-traffic-racer.json) |
 | Adrenaline Rush: Miami Drive | 122735 | [122735-adrenaline-rush-miami-drive.json](./122735-adrenaline-rush-miami-drive.json) |
+| Adrenalynn | 11886 | [11886-adrenalynn.json](./11886-adrenalynn.json) |
 | Adrenix | 18486 | [18486-adrenix.json](./18486-adrenix.json) |
 | Adrian Ford in the Tomb of the Moon | 314994 | [314994-adrian-ford-in-the-tomb-of-the-moon.json](./314994-adrian-ford-in-the-tomb-of-the-moon.json) |
 | Adrian's Tale | 219112 | [219112-adrians-tale.json](./219112-adrians-tale.json) |
@@ -2579,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrift in Turbulent Waters | 201650 | [201650-adrift-in-turbulent-waters.json](./201650-adrift-in-turbulent-waters.json) |
 | Adrift Program | 269048 | [269048-adrift-program.json](./269048-adrift-program.json) |
 | ADRPAN | 143414 | [143414-adrpan.json](./143414-adrpan.json) |
+| ADS: Advanced Destroyer Simulator | 11887 | [11887-ads-advanced-destroyer-simulator.json](./11887-ads-advanced-destroyer-simulator.json) |
 | Adspectabilis | 332797 | [332797-adspectabilis.json](./332797-adspectabilis.json) |
 | ADsteroids | 108984 | [108984-adsteroids.json](./108984-adsteroids.json) |
 | Aduk: Curse of the Spirits | 379478 | [379478-aduk-curse-of-the-spirits.json](./379478-aduk-curse-of-the-spirits.json) |
@@ -2684,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Tactical Fighter II | 8899 | [8899-advanced-tactical-fighter-ii.json](./8899-advanced-tactical-fighter-ii.json) |
 | Advanced V.G. | 37639 | [37639-advanced-v-g.json](./37639-advanced-v-g.json) |
 | Advanced World War Sen-nen Teikoku no Koubou: Last of the Millennium | 45448 | [45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json](./45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json) |
+| Advantage Tennis | 11888 | [11888-advantage-tennis.json](./11888-advantage-tennis.json) |
 | Advaria: Chronicles of Immortality | 283898 | [283898-advaria-chronicles-of-immortality.json](./283898-advaria-chronicles-of-immortality.json) |
 | Adven'chuta | 94542 | [94542-advenchuta.json](./94542-advenchuta.json) |
 | Advena | 38719 | [38719-advena.json](./38719-advena.json) |
@@ -2933,6 +2941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3290,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Africa Help | 133354 | [133354-africa-help.json](./133354-africa-help.json) |
 | Africa Wild | 90443 | [90443-africa-wild.json](./90443-africa-wild.json) |
 | African Adventure | 80804 | [80804-african-adventure.json](./80804-african-adventure.json) |
+| African Raiders-01 | 11889 | [11889-african-raiders-01.json](./11889-african-raiders-01.json) |
 | African Safari | 74039 | [74039-african-safari.json](./74039-african-safari.json) |
 | African Safari Trophy Hunter 3D | 206098 | [206098-african-safari-trophy-hunter-3d.json](./206098-african-safari-trophy-hunter-3d.json) |
 | Afrika | 130826 | [130826-afrika.json](./130826-afrika.json) |
@@ -4378,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airliner Pilot | 46447 | [46447-airliner-pilot.json](./46447-airliner-pilot.json) |
 | Airlines Deluxe | 159217 | [159217-airlines-deluxe.json](./159217-airlines-deluxe.json) |
 | Airlines Manager | 116437 | [116437-airlines-manager.json](./116437-airlines-manager.json) |
+| Airlock | 11856 | [11856-airlock.json](./11856-airlock.json) |
 | Airlock Arena: Profit or Perish | 149453 | [149453-airlock-arena-profit-or-perish.json](./149453-airlock-arena-profit-or-perish.json) |
 | AirLoveEngine | 366128 | [366128-airloveengine.json](./366128-airloveengine.json) |
 | AirMech | 1365 | [1365-airmech.json](./1365-airmech.json) |
@@ -4842,6 +4853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ALC no 10-Punkan Eigo Master: Joukyuu | 269546 | [269546-alc-no-10-punkan-eigo-master-joukyuu.json](./269546-alc-no-10-punkan-eigo-master-joukyuu.json) |
 | ALC no 10-punkan Eigo Master: Shokyuu | 269547 | [269547-alc-no-10-punkan-eigo-master-shokyuu.json](./269547-alc-no-10-punkan-eigo-master-shokyuu.json) |
 | Alcantor | 14162 | [14162-alcantor.json](./14162-alcantor.json) |
+| Alcatraz | 11892 | [11892-alcatraz.json](./11892-alcatraz.json) |
 | Alcatraz | 223928 | [223928-alcatraz.json](./223928-alcatraz.json) |
 | Alcatraz | 288748 | [288748-alcatraz.json](./288748-alcatraz.json) |
 | Alcatraz | 47048 | [47048-alcatraz.json](./47048-alcatraz.json) |
@@ -5291,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Breed Trilogy | 23390 | [23390-alien-breed-trilogy.json](./23390-alien-breed-trilogy.json) |
 | Alien Breed: Impact | 9964 | [9964-alien-breed-impact.json](./9964-alien-breed-impact.json) |
 | Alien Breed: Special Edition 92 | 14596 | [14596-alien-breed-special-edition-92.json](./14596-alien-breed-special-edition-92.json) |
+| Alien Brigade | 11865 | [11865-alien-brigade.json](./11865-alien-brigade.json) |
 | Alien Bubble Destroyer | 81998 | [81998-alien-bubble-destroyer.json](./81998-alien-bubble-destroyer.json) |
 | Alien Cabal | 62149 | [62149-alien-cabal.json](./62149-alien-cabal.json) |
 | Alien Cartographer | 374594 | [374594-alien-cartographer.json](./374594-alien-cartographer.json) |
@@ -5489,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien War Girl | 111072 | [111072-alien-war-girl.json](./111072-alien-war-girl.json) |
 | Alien Wars | 241241 | [241241-alien-wars.json](./241241-alien-wars.json) |
 | Alien Weapon Test Grounds | 310209 | [310209-alien-weapon-test-grounds.json](./310209-alien-weapon-test-grounds.json) |
+| Alien World | 11893 | [11893-alien-world.json](./11893-alien-world.json) |
 | Alien World Millionaire | 169619 | [169619-alien-world-millionaire.json](./169619-alien-world-millionaire.json) |
 | Alien Worlds | 93075 | [93075-alien-worlds.json](./93075-alien-worlds.json) |
 | Alien Worm | 192757 | [192757-alien-worm.json](./192757-alien-worm.json) |
@@ -5668,6 +5682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Day Dying: Redux Edition | 229129 | [229129-all-day-dying-redux-edition.json](./229129-all-day-dying-redux-edition.json) |
 | All Day Nippon | 241880 | [241880-all-day-nippon.json](./241880-all-day-nippon.json) |
 | All Doe's Life | 301283 | [301283-all-does-life.json](./301283-all-does-life.json) |
+| All Dogs Go to Heaven | 11894 | [11894-all-dogs-go-to-heaven.json](./11894-all-dogs-go-to-heaven.json) |
 | All Dogs Go to Heaven: Activity Center | 205117 | [205117-all-dogs-go-to-heaven-activity-center.json](./205117-all-dogs-go-to-heaven-activity-center.json) |
 | All Dream Long A Flower Storm | 164999 | [164999-all-dream-long-a-flower-storm.json](./164999-all-dream-long-a-flower-storm.json) |
 | All Elite Wresting: Fight Forever - Giant Swing in the Ring | 287119 | [287119-all-elite-wresting-fight-forever-giant-swing-in-the-ring.json](./287119-all-elite-wresting-fight-forever-giant-swing-in-the-ring.json) |
@@ -6591,6 +6606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber's Tales: The Isle of Dead Ships | 58024 | [58024-ambers-tales-the-isle-of-dead-ships.json](./58024-ambers-tales-the-isle-of-dead-ships.json) |
 | AmberCity | 101062 | [101062-ambercity.json](./101062-ambercity.json) |
 | Amberial Dreams | 107773 | [107773-amberial-dreams.json](./107773-amberial-dreams.json) |
+| Ambermoon | 11897 | [11897-ambermoon.json](./11897-ambermoon.json) |
 | Ambermoon.net | 217853 | [217853-ambermoon-net.json](./217853-ambermoon-net.json) |
 | Amberspire | 325713 | [325713-amberspire.json](./325713-amberspire.json) |
 | Ambien | 254122 | [254122-ambien.json](./254122-ambien.json) |
@@ -6647,6 +6663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ame's Happy Happy Dating Game | 283603 | [283603-ames-happy-happy-dating-game.json](./283603-ames-happy-happy-dating-game.json) |
 | Ameagari no Hanaby | 104847 | [104847-ameagari-no-hanaby.json](./104847-ameagari-no-hanaby.json) |
 | Ameena: Witchborn Duelist | 303331 | [303331-ameena-witchborn-duelist.json](./303331-ameena-witchborn-duelist.json) |
+| Amegas | 11898 | [11898-amegas.json](./11898-amegas.json) |
 | Ameizu | 311595 | [311595-ameizu.json](./311595-ameizu.json) |
 | Amelia and Terror of the Night: Story Book for Kids | 68945 | [68945-amelia-and-terror-of-the-night-story-book-for-kids.json](./68945-amelia-and-terror-of-the-night-story-book-for-kids.json) |
 | Amelia Watson Case File no.420 | 269474 | [269474-amelia-watson-case-file-no-420.json](./269474-amelia-watson-case-file-no-420.json) |
@@ -6778,6 +6795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Sign Language Tutor | 94948 | [94948-american-sign-language-tutor.json](./94948-american-sign-language-tutor.json) |
 | American Soccer | 41806 | [41806-american-soccer.json](./41806-american-soccer.json) |
 | American Speedway | 38524 | [38524-american-speedway.json](./38524-american-speedway.json) |
+| American Tag-Team Wrestling | 11899 | [11899-american-tag-team-wrestling.json](./11899-american-tag-team-wrestling.json) |
 | American Theft 80s | 168610 | [168610-american-theft-80s.json](./168610-american-theft-80s.json) |
 | American Truck | 94398 | [94398-american-truck.json](./94398-american-truck.json) |
 | American Truck Car Transport | 231981 | [231981-american-truck-car-transport.json](./231981-american-truck-car-transport.json) |
@@ -7220,6 +7238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anathema | 54688 | [54688-anathema.json](./54688-anathema.json) |
 | Anathema Tower Defense | 272227 | [272227-anathema-tower-defense.json](./272227-anathema-tower-defense.json) |
 | Anatidae | 149472 | [149472-anatidae.json](./149472-anatidae.json) |
+| Anatomic Man | 11900 | [11900-anatomic-man.json](./11900-anatomic-man.json) |
 | Anatomy of the Terrible | 347741 | [347741-anatomy-of-the-terrible.json](./347741-anatomy-of-the-terrible.json) |
 | Anaza Aku Yatsu: Another World | 67353 | [67353-anaza-aku-yatsu-another-world.json](./67353-anaza-aku-yatsu-another-world.json) |
 | Anaza: Kaleidoscope Special | 47537 | [47537-anaza-kaleidoscope-special.json](./47537-anaza-kaleidoscope-special.json) |
@@ -7527,6 +7546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Legion: Shadow Woven - Green | 302575 | [302575-angel-legion-shadow-woven-green.json](./302575-angel-legion-shadow-woven-green.json) |
 | Angel Made | 156077 | [156077-angel-made.json](./156077-angel-made.json) |
 | Angel Maker | 177758 | [177758-angel-maker.json](./177758-angel-maker.json) |
+| Angel Nieto Pole 500 | 11902 | [11902-angel-nieto-pole-500.json](./11902-angel-nieto-pole-500.json) |
 | Angel Night | 314651 | [314651-angel-night.json](./314651-angel-night.json) |
 | Angel of Death | 269285 | [269285-angel-of-death.json](./269285-angel-of-death.json) |
 | Angel Paradise Vol. 1: Sakaki Yuko - Koi no Yokan in Hollywood | 45439 | [45439-angel-paradise-vol-1-sakaki-yuko-koi-no-yokan-in-hollywood.json](./45439-angel-paradise-vol-1-sakaki-yuko-koi-no-yokan-in-hollywood.json) |
