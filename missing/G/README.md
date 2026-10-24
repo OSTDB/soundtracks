@@ -5115,6 +5115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Axe | 279631 | [279631-golden-axe.json](./279631-golden-axe.json) |
 | Golden Axe | 305875 | [305875-golden-axe.json](./305875-golden-axe.json) |
 | Golden Axe Classics | 202829 | [202829-golden-axe-classics.json](./202829-golden-axe-classics.json) |
+| Golden Axe II | 16214 | [16214-golden-axe-ii.json](./16214-golden-axe-ii.json) |
 | Golden Axe III Redux | 219271 | [219271-golden-axe-iii-redux.json](./219271-golden-axe-iii-redux.json) |
 | Golden Axe Legend | 71584 | [71584-golden-axe-legend.json](./71584-golden-axe-legend.json) |
 | Golden Axe Plus | 233605 | [233605-golden-axe-plus.json](./233605-golden-axe-plus.json) |
@@ -6866,6 +6867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Rubik's Cube | 151268 | [151268-gravity-rubiks-cube.json](./151268-gravity-rubiks-cube.json) |
 | Gravity run | 153432 | [153432-gravity-run.json](./153432-gravity-run.json) |
 | Gravity Rush | 11701 | [11701-gravity-rush.json](./11701-gravity-rush.json) |
+| Gravity Rush Remastered | 12529 | [12529-gravity-rush-remastered.json](./12529-gravity-rush-remastered.json) |
 | Gravity Rush Remastered: Collector's Edition | 205265 | [205265-gravity-rush-remastered-collectors-edition.json](./205265-gravity-rush-remastered-collectors-edition.json) |
 | Gravity Shift | 180556 | [180556-gravity-shift.json](./180556-gravity-shift.json) |
 | Gravity Shifter | 157056 | [157056-gravity-shifter.json](./157056-gravity-shifter.json) |
