@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| D | 4319 | [4319-d.json](./4319-d.json) |
 | D is for Drift | 107565 | [107565-d-is-for-drift.json](./107565-d-is-for-drift.json) |
 | D Laser | 272186 | [272186-d-laser.json](./272186-d-laser.json) |
 | D Life | 253973 | [253973-d-life.json](./253973-d-life.json) |
@@ -8451,6 +8452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Party | 242808 | [242808-disneys-party.json](./242808-disneys-party.json) |
 | Disney's Party | 3886 | [3886-disneys-party.json](./3886-disneys-party.json) |
 | Disney's Peter Pan: The Legend of Never Land | 79954 | [79954-disneys-peter-pan-the-legend-of-never-land.json](./79954-disneys-peter-pan-the-legend-of-never-land.json) |
+| Disney's Pinocchio | 38844 | [38844-disneys-pinocchio.json](./38844-disneys-pinocchio.json) |
 | Disney's Pocahantas: Riverbend Adventures | 76602 | [76602-disneys-pocahantas-riverbend-adventures.json](./76602-disneys-pocahantas-riverbend-adventures.json) |
 | Disney's Pocahontas | 45780 | [45780-disneys-pocahontas.json](./45780-disneys-pocahontas.json) |
 | Disney's Pooh's Party Game: In Search of the Treasure | 43724 | [43724-disneys-poohs-party-game-in-search-of-the-treasure.json](./43724-disneys-poohs-party-game-in-search-of-the-treasure.json) |
@@ -9312,6 +9314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog-O | 125798 | [125798-dog-o.json](./125798-dog-o.json) |
 | Dog! | 183362 | [183362-dog.json](./183362-dog.json) |
 | Dog's Garden | 188009 | [188009-dogs-garden.json](./188009-dogs-garden.json) |
+| Dog's Life | 22251 | [22251-dogs-life.json](./22251-dogs-life.json) |
 | Dog's Muck Island | 203216 | [203216-dogs-muck-island.json](./203216-dogs-muck-island.json) |
 | Dog's Quest | 103454 | [103454-dogs-quest.json](./103454-dogs-quest.json) |
 | Dog's Walts | 408060 | [408060-dogs-walts.json](./408060-dogs-walts.json) |
@@ -11013,6 +11016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon II: The Revenge | 281525 | [281525-double-dragon-ii-the-revenge.json](./281525-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: The Revenge | 6790 | [6790-double-dragon-ii-the-revenge.json](./6790-double-dragon-ii-the-revenge.json) |
 | Double Dragon III: The Sacred Stones | 79335 | [79335-double-dragon-iii-the-sacred-stones.json](./79335-double-dragon-iii-the-sacred-stones.json) |
+| Double Dragon IV | 26621 | [26621-double-dragon-iv.json](./26621-double-dragon-iv.json) |
 | Double Dragon Neon | 5968 | [5968-double-dragon-neon.json](./5968-double-dragon-neon.json) |
 | Double Dragon Revive | 308051 | [308051-double-dragon-revive.json](./308051-double-dragon-revive.json) |
 | Double Dragon Revive: Additional Character Color | 375155 | [375155-double-dragon-revive-additional-character-color.json](./375155-double-dragon-revive-additional-character-color.json) |
@@ -14872,6 +14876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons: Krynn Series | 51746 | [51746-dungeons-and-dragons-krynn-series.json](./51746-dungeons-and-dragons-krynn-series.json) |
 | Dungeons & Dragons: Ravenloft Series | 51745 | [51745-dungeons-and-dragons-ravenloft-series.json](./51745-dungeons-and-dragons-ravenloft-series.json) |
 | Dungeons & Dragons: Shadow over Mystara | 10253 | [10253-dungeons-and-dragons-shadow-over-mystara.json](./10253-dungeons-and-dragons-shadow-over-mystara.json) |
+| Dungeons & Dragons: Tower of Doom | 39328 | [39328-dungeons-and-dragons-tower-of-doom.json](./39328-dungeons-and-dragons-tower-of-doom.json) |
 | Dungeons & Drivers | 332842 | [332842-dungeons-and-drivers.json](./332842-dungeons-and-drivers.json) |
 | Dungeons & Dummies | 408190 | [408190-dungeons-and-dummies.json](./408190-dungeons-and-dummies.json) |
 | Dungeons & Furries | 310486 | [310486-dungeons-and-furries.json](./310486-dungeons-and-furries.json) |
@@ -15346,6 +15351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dymension | 191262 | [191262-dymension.json](./191262-dymension.json) |
 | Dyna Blade | 271260 | [271260-dyna-blade.json](./271260-dyna-blade.json) |
 | Dyna Blade | 271402 | [271402-dyna-blade.json](./271402-dyna-blade.json) |
+| Dyna Blaster | 39023 | [39023-dyna-blaster.json](./39023-dyna-blaster.json) |
 | Dyna Bomb | 32732 | [32732-dyna-bomb.json](./32732-dyna-bomb.json) |
 | Dyna Bomb 2 | 206423 | [206423-dyna-bomb-2.json](./206423-dyna-bomb-2.json) |
 | Dyna Brothers 2 | 4547 | [4547-dyna-brothers-2.json](./4547-dyna-brothers-2.json) |
