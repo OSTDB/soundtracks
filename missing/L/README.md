@@ -3449,6 +3449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberty Fighters | 155685 | [155685-liberty-fighters.json](./155685-liberty-fighters.json) |
 | Liberty or Death | 45776 | [45776-liberty-or-death.json](./45776-liberty-or-death.json) |
 | Liberty Step | 222000 | [222000-liberty-step.json](./222000-liberty-step.json) |
+| Liberty VR | 43069 | [43069-liberty-vr.json](./43069-liberty-vr.json) |
 | Liberty Wings | 65038 | [65038-liberty-wings.json](./65038-liberty-wings.json) |
 | Liberty's Kids | 186062 | [186062-libertys-kids.json](./186062-libertys-kids.json) |
 | Liblade | 181032 | [181032-liblade.json](./181032-liblade.json) |
