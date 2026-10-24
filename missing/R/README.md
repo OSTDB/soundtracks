@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radar Line | 414160 | [414160-radar-line.json](./414160-radar-line.json) |
 | Radar Mission | 11688 | [11688-radar-mission.json](./11688-radar-mission.json) |
 | Radar N Rockets | 256209 | [256209-radar-n-rockets.json](./256209-radar-n-rockets.json) |
+| Radar Scope | 39391 | [39391-radar-scope.json](./39391-radar-scope.json) |
 | Radar Simulation | 25487 | [25487-radar-simulation.json](./25487-radar-simulation.json) |
 | Radarjam | 132758 | [132758-radarjam.json](./132758-radarjam.json) |
 | RadCity: a post-apocalyptic adventure | 381608 | [381608-radcity-a-post-apocalyptic-adventure.json](./381608-radcity-a-post-apocalyptic-adventure.json) |
