@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazo Puyo: Arle no Roux | 45258 | [45258-nazo-puyo-arle-no-roux.json](./45258-nazo-puyo-arle-no-roux.json) |
 | Nazo to Kioku no Labyrinth: Somewhere, elsewhere | 172743 | [172743-nazo-to-kioku-no-labyrinth-somewhere-elsewhere.json](./172743-nazo-to-kioku-no-labyrinth-somewhere-elsewhere.json) |
 | Nazo Waku Yakata: Oto no Ma ni Ma ni | 66047 | [66047-nazo-waku-yakata-oto-no-ma-ni-ma-ni.json](./66047-nazo-waku-yakata-oto-no-ma-ni-ma-ni.json) |
+| Nazo-ou Pocket | 37565 | [37565-nazo-ou-pocket.json](./37565-nazo-ou-pocket.json) |
 | Nazobmplay | 80194 | [80194-nazobmplay.json](./80194-nazobmplay.json) |
 | Nazojike Quiz! | 349943 | [349943-nazojike-quiz.json](./349943-nazojike-quiz.json) |
 | Nazoler Land Dai 2-gou | 41400 | [41400-nazoler-land-dai-2-gou.json](./41400-nazoler-land-dai-2-gou.json) |
@@ -2004,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Genesis Evangelion: Eva to Yukai na Nakamatachi - Datsui Hokan Keikaku! | 75882 | [75882-neon-genesis-evangelion-eva-to-yukai-na-nakamatachi-datsui-hokan-keikaku.json](./75882-neon-genesis-evangelion-eva-to-yukai-na-nakamatachi-datsui-hokan-keikaku.json) |
 | Neon Genesis Evangelion: Girlfriend of Steel - Special Edition | 255105 | [255105-neon-genesis-evangelion-girlfriend-of-steel-special-edition.json](./255105-neon-genesis-evangelion-girlfriend-of-steel-special-edition.json) |
 | Neon Genesis Evangelion: Shinji Ikari Raising Project | 75878 | [75878-neon-genesis-evangelion-shinji-ikari-raising-project.json](./75878-neon-genesis-evangelion-shinji-ikari-raising-project.json) |
+| Neon Genesis Evangelion: Shito Ikusei | 37564 | [37564-neon-genesis-evangelion-shito-ikusei.json](./37564-neon-genesis-evangelion-shito-ikusei.json) |
 | Neon Genesis Evangelion: The Iron Maiden 2nd | 75879 | [75879-neon-genesis-evangelion-the-iron-maiden-2nd.json](./75879-neon-genesis-evangelion-the-iron-maiden-2nd.json) |
 | Neon Genesis Evangelion: Tsukurareshi Sekai - Another Cases | 42840 | [42840-neon-genesis-evangelion-tsukurareshi-sekai-another-cases.json](./42840-neon-genesis-evangelion-tsukurareshi-sekai-another-cases.json) |
 | Neon Genesis: EvaDoom | 145331 | [145331-neon-genesis-evadoom.json](./145331-neon-genesis-evadoom.json) |
@@ -3199,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Dice - 3D dice roller | 102724 | [102724-nice-dice-3d-dice-roller.json](./102724-nice-dice-3d-dice-roller.json) |
 | Nice Jumper | 121280 | [121280-nice-jumper.json](./121280-nice-jumper.json) |
 | Nice Mario 75 | 294791 | [294791-nice-mario-75.json](./294791-nice-mario-75.json) |
+| Nice On | 37563 | [37563-nice-on.json](./37563-nice-on.json) |
 | Nice Pro? | 336749 | [336749-nice-pro.json](./336749-nice-pro.json) |
 | Nice Shot Golf | 123629 | [123629-nice-shot-golf.json](./123629-nice-shot-golf.json) |
 | Nice Shot! The Gun Golfing Game | 110942 | [110942-nice-shot-the-gun-golfing-game.json](./110942-nice-shot-the-gun-golfing-game.json) |
@@ -4922,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga no Yabou 2 | 60088 | [60088-nobunaga-no-yabou-2.json](./60088-nobunaga-no-yabou-2.json) |
 | Nobunaga no Yabou 201X | 61101 | [61101-nobunaga-no-yabou-201x.json](./61101-nobunaga-no-yabou-201x.json) |
 | Nobunaga no Yabou DS 2 | 59379 | [59379-nobunaga-no-yabou-ds-2.json](./59379-nobunaga-no-yabou-ds-2.json) |
+| Nobunaga no Yabou for WonderSwan | 37562 | [37562-nobunaga-no-yabou-for-wonderswan.json](./37562-nobunaga-no-yabou-for-wonderswan.json) |
 | Nobunaga no Yabou Internet | 307182 | [307182-nobunaga-no-yabou-internet.json](./307182-nobunaga-no-yabou-internet.json) |
 | Nobunaga no Yabou Online | 78306 | [78306-nobunaga-no-yabou-online.json](./78306-nobunaga-no-yabou-online.json) |
 | Nobunaga no Yabou: Bushou Fuuunroku | 307153 | [307153-nobunaga-no-yabou-bushou-fuuunroku.json](./307153-nobunaga-no-yabou-bushou-fuuunroku.json) |
