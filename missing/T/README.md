@@ -14927,6 +14927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Usurper: The Mines Of Qyntarr | 15516 | [15516-the-usurper-the-mines-of-qyntarr.json](./15516-the-usurper-the-mines-of-qyntarr.json) |
 | The V Anomaly | 390539 | [390539-the-v-anomaly.json](./390539-the-v-anomaly.json) |
 | The Vagabond Emperor | 157459 | [157459-the-vagabond-emperor.json](./157459-the-vagabond-emperor.json) |
+| The Vagrant | 28738 | [28738-the-vagrant.json](./28738-the-vagrant.json) |
 | The Valiant: Coat of Arms collection | 257533 | [257533-the-valiant-coat-of-arms-collection.json](./257533-the-valiant-coat-of-arms-collection.json) |
 | The Valley | 197584 | [197584-the-valley.json](./197584-the-valley.json) |
 | The Valley | 292068 | [292068-the-valley.json](./292068-the-valley.json) |
@@ -19951,6 +19952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Cooking: Ultimate Edition | 328804 | [328804-tokyo-cooking-ultimate-edition.json](./328804-tokyo-cooking-ultimate-edition.json) |
 | Tokyo Cop | 148506 | [148506-tokyo-cop.json](./148506-tokyo-cop.json) |
 | Tokyo Crash Mobs | 20171 | [20171-tokyo-crash-mobs.json](./20171-tokyo-crash-mobs.json) |
+| Tokyo Dark | 27531 | [27531-tokyo-dark.json](./27531-tokyo-dark.json) |
 | Tokyo Day | 399166 | [399166-tokyo-day.json](./399166-tokyo-day.json) |
 | Tokyo Debunker | 197035 | [197035-tokyo-debunker.json](./197035-tokyo-debunker.json) |
 | Tokyo Desire: Deck Builders | 292461 | [292461-tokyo-desire-deck-builders.json](./292461-tokyo-desire-deck-builders.json) |
@@ -22562,6 +22564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailer Shop Simulator | 167354 | [167354-trailer-shop-simulator.json](./167354-trailer-shop-simulator.json) |
 | Trailer Tales | 211609 | [211609-trailer-tales.json](./211609-trailer-tales.json) |
 | Trailer Trashers | 130157 | [130157-trailer-trashers.json](./130157-trailer-trashers.json) |
+| Trailmakers | 29667 | [29667-trailmakers.json](./29667-trailmakers.json) |
 | Trailmakers: Decals - Expression Pack | 308437 | [308437-trailmakers-decals-expression-pack.json](./308437-trailmakers-decals-expression-pack.json) |
 | Trailmakers: Deluxe Edition | 187896 | [187896-trailmakers-deluxe-edition.json](./187896-trailmakers-deluxe-edition.json) |
 | Trailmakers: High Seas Expansion | 193221 | [193221-trailmakers-high-seas-expansion.json](./193221-trailmakers-high-seas-expansion.json) |
@@ -26914,6 +26917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Clusters: Kain | 114846 | [114846-two-clusters-kain.json](./114846-two-clusters-kain.json) |
 | Two Coins | 151008 | [151008-two-coins.json](./151008-two-coins.json) |
 | Two Colours | 201712 | [201712-two-colours.json](./201712-two-colours.json) |
+| Two Crude Dudes | 27798 | [27798-two-crude-dudes.json](./27798-two-crude-dudes.json) |
 | Two Cubes | 258912 | [258912-two-cubes.json](./258912-two-cubes.json) |
 | Two Days | 356898 | [356898-two-days.json](./356898-two-days.json) |
 | Two Days to the Race | 304179 | [304179-two-days-to-the-race.json](./304179-two-days-to-the-race.json) |
