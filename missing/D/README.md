@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemon Sigil | 273001 | [273001-daemon-sigil.json](./273001-daemon-sigil.json) |
 | Daemon Summoner | 44628 | [44628-daemon-summoner.json](./44628-daemon-summoner.json) |
 | Daemon Vector | 62256 | [62256-daemon-vector.json](./62256-daemon-vector.json) |
+| Daemon X Machina | 103338 | [103338-daemon-x-machina.json](./103338-daemon-x-machina.json) |
 | Daemon X Machina: Deluxe Edition | 187824 | [187824-daemon-x-machina-deluxe-edition.json](./187824-daemon-x-machina-deluxe-edition.json) |
 | Daemon X Machina: Orbital Limited Edition | 120324 | [120324-daemon-x-machina-orbital-limited-edition.json](./120324-daemon-x-machina-orbital-limited-edition.json) |
 | Daemon X Machina: The Witcher Costume Pack | 262301 | [262301-daemon-x-machina-the-witcher-costume-pack.json](./262301-daemon-x-machina-the-witcher-costume-pack.json) |
@@ -1050,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Alleys: Penumbra Motel - Collector's Edition | 126281 | [126281-dark-alleys-penumbra-motel-collectors-edition.json](./126281-dark-alleys-penumbra-motel-collectors-edition.json) |
 | Dark Alliances | 381339 | [381339-dark-alliances.json](./381339-dark-alliances.json) |
 | Dark and Bright | 51552 | [51552-dark-and-bright.json](./51552-dark-and-bright.json) |
+| Dark and Darker | 207266 | [207266-dark-and-darker.json](./207266-dark-and-darker.json) |
 | Dark and Evil | 277773 | [277773-dark-and-evil.json](./277773-dark-and-evil.json) |
 | Dark and Forgotten | 262599 | [262599-dark-and-forgotten.json](./262599-dark-and-forgotten.json) |
 | Dark and Light | 251093 | [251093-dark-and-light.json](./251093-dark-and-light.json) |
@@ -2280,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawntide | 74281 | [74281-dawntide.json](./74281-dawntide.json) |
 | Dawntown | 301341 | [301341-dawntown.json](./301341-dawntown.json) |
 | DawnWander | 158525 | [158525-dawnwander.json](./158525-dawnwander.json) |
+| Daxter | 1533 | [1533-daxter.json](./1533-daxter.json) |
 | Daxter | 305477 | [305477-daxter.json](./305477-daxter.json) |
 | Day 10,909 | 264247 | [264247-day-10-909.json](./264247-day-10-909.json) |
 | Day 11 | 263003 | [263003-day-11.json](./263003-day-11.json) |
@@ -4866,6 +4869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Force: Angel Falls | 9353 | [9353-delta-force-angel-falls.json](./9353-delta-force-angel-falls.json) |
 | Delta Force: Black Hawk Down | 200997 | [200997-delta-force-black-hawk-down.json](./200997-delta-force-black-hawk-down.json) |
 | Delta Force: Black Hawk Down | 332541 | [332541-delta-force-black-hawk-down.json](./332541-delta-force-black-hawk-down.json) |
+| Delta Force: Black Hawk Down | 5812 | [5812-delta-force-black-hawk-down.json](./5812-delta-force-black-hawk-down.json) |
 | Delta Force: Black Hawk Down Platinum Pack | 224486 | [224486-delta-force-black-hawk-down-platinum-pack.json](./224486-delta-force-black-hawk-down-platinum-pack.json) |
 | Delta Force: Land Warrior | 9350 | [9350-delta-force-land-warrior.json](./9350-delta-force-land-warrior.json) |
 | Delta Force: Xtreme | 1273 | [1273-delta-force-xtreme.json](./1273-delta-force-xtreme.json) |
@@ -6422,6 +6426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 3: Dante's Awakening - Special Edition | 222656 | [222656-devil-may-cry-3-dantes-awakening-special-edition.json](./222656-devil-may-cry-3-dantes-awakening-special-edition.json) |
 | Devil May Cry 4 Special Edition Demon Hunter Bundle | 82385 | [82385-devil-may-cry-4-special-edition-demon-hunter-bundle.json](./82385-devil-may-cry-4-special-edition-demon-hunter-bundle.json) |
 | Devil May Cry 4: Collector's Edition | 41601 | [41601-devil-may-cry-4-collectors-edition.json](./41601-devil-may-cry-4-collectors-edition.json) |
+| Devil May Cry 4: Special Edition | 20022 | [20022-devil-may-cry-4-special-edition.json](./20022-devil-may-cry-4-special-edition.json) |
 | Devil May Cry 4: Special Edition - Lady & Trish Costume Pack | 410413 | [410413-devil-may-cry-4-special-edition-lady-and-trish-costume-pack.json](./410413-devil-may-cry-4-special-edition-lady-and-trish-costume-pack.json) |
 | Devil May Cry 4: Special Edition - Super Nero/Super Dante/Super Vergil | 410412 | [410412-devil-may-cry-4-special-edition-super-nero-super-dante-super-vergil.json](./410412-devil-may-cry-4-special-edition-super-nero-super-dante-super-vergil.json) |
 | Devil May Cry 5: Collector's Edition | 112662 | [112662-devil-may-cry-5-collectors-edition.json](./112662-devil-may-cry-5-collectors-edition.json) |
@@ -10100,6 +10105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey King Arcade Game | 96713 | [96713-donkey-king-arcade-game.json](./96713-donkey-king-arcade-game.json) |
 | Donkey Kong | 1086 | [1086-donkey-kong.json](./1086-donkey-kong.json) |
 | Donkey Kong | 1089 | [1089-donkey-kong.json](./1089-donkey-kong.json) |
+| Donkey Kong | 141959 | [141959-donkey-kong.json](./141959-donkey-kong.json) |
 | Donkey Kong | 171952 | [171952-donkey-kong.json](./171952-donkey-kong.json) |
 | Donkey Kong | 171953 | [171953-donkey-kong.json](./171953-donkey-kong.json) |
 | Donkey Kong | 171954 | [171954-donkey-kong.json](./171954-donkey-kong.json) |
@@ -10983,6 +10989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon II: The Revenge | 281513 | [281513-double-dragon-ii-the-revenge.json](./281513-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: The Revenge | 281514 | [281514-double-dragon-ii-the-revenge.json](./281514-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: The Revenge | 281525 | [281525-double-dragon-ii-the-revenge.json](./281525-double-dragon-ii-the-revenge.json) |
+| Double Dragon II: The Revenge | 6790 | [6790-double-dragon-ii-the-revenge.json](./6790-double-dragon-ii-the-revenge.json) |
 | Double Dragon III: The Sacred Stones | 79335 | [79335-double-dragon-iii-the-sacred-stones.json](./79335-double-dragon-iii-the-sacred-stones.json) |
 | Double Dragon Revive | 308051 | [308051-double-dragon-revive.json](./308051-double-dragon-revive.json) |
 | Double Dragon Revive: Additional Character Color | 375155 | [375155-double-dragon-revive-additional-character-color.json](./375155-double-dragon-revive-additional-character-color.json) |
@@ -11976,6 +11983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Providence | 98520 | [98520-dragon-providence.json](./98520-dragon-providence.json) |
 | Dragon Puncher | 332997 | [332997-dragon-puncher.json](./332997-dragon-puncher.json) |
 | Dragon puzzle | 132733 | [132733-dragon-puzzle.json](./132733-dragon-puzzle.json) |
+| Dragon Quest | 1812 | [1812-dragon-quest.json](./1812-dragon-quest.json) |
 | Dragon Quest | 239185 | [239185-dragon-quest.json](./239185-dragon-quest.json) |
 | Dragon Quest & Final Fantasy in Itadaki Street Portable | 69176 | [69176-dragon-quest-and-final-fantasy-in-itadaki-street-portable.json](./69176-dragon-quest-and-final-fantasy-in-itadaki-street-portable.json) |
 | Dragon Quest + | 275799 | [275799-dragon-quest.json](./275799-dragon-quest.json) |
