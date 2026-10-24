@@ -2761,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Body Count | 8690 | [8690-operation-body-count.json](./8690-operation-body-count.json) |
 | Operation Bodycam | 316848 | [316848-operation-bodycam.json](./316848-operation-bodycam.json) |
 | Operation Breakout | 30839 | [30839-operation-breakout.json](./30839-operation-breakout.json) |
+| Operation C | 11522 | [11522-operation-c.json](./11522-operation-c.json) |
 | Operation Chromite 1950 VR | 86506 | [86506-operation-chromite-1950-vr.json](./86506-operation-chromite-1950-vr.json) |
 | Operation Cobra | 85598 | [85598-operation-cobra.json](./85598-operation-cobra.json) |
 | Operation Covid-19 | 149027 | [149027-operation-covid-19.json](./149027-operation-covid-19.json) |
