@@ -4035,6 +4035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Snooker 2014 | 175588 | [175588-international-snooker-2014.json](./175588-international-snooker-2014.json) |
 | International Snooker: Challenges | 175857 | [175857-international-snooker-challenges.json](./175857-international-snooker-challenges.json) |
 | International Soccer | 201305 | [201305-international-soccer.json](./201305-international-soccer.json) |
+| International Soccer | 24634 | [24634-international-soccer.json](./24634-international-soccer.json) |
 | International Soccer | 320986 | [320986-international-soccer.json](./320986-international-soccer.json) |
 | International Soccer Challenge | 15041 | [15041-international-soccer-challenge.json](./15041-international-soccer-challenge.json) |
 | International Space Banana | 145335 | [145335-international-space-banana.json](./145335-international-space-banana.json) |
