@@ -5290,6 +5290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Blade | 20932 | [20932-shadow-blade.json](./20932-shadow-blade.json) |
 | Shadow Blade Zero | 174864 | [174864-shadow-blade-zero.json](./174864-shadow-blade-zero.json) |
 | Shadow Blade: Reload | 16953 | [16953-shadow-blade-reload.json](./16953-shadow-blade-reload.json) |
+| Shadow Blasters | 4522 | [4522-shadow-blasters.json](./4522-shadow-blasters.json) |
 | Shadow Block | 28813 | [28813-shadow-block.json](./28813-shadow-block.json) |
 | Shadow Blood VR | 105076 | [105076-shadow-blood-vr.json](./105076-shadow-blood-vr.json) |
 | Shadow Boxing | 364578 | [364578-shadow-boxing.json](./364578-shadow-boxing.json) |
@@ -9635,6 +9636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton Hotel | 247897 | [247897-skeleton-hotel.json](./247897-skeleton-hotel.json) |
 | Skeleton King | 163962 | [163962-skeleton-king.json](./163962-skeleton-king.json) |
 | Skeleton King | 210844 | [210844-skeleton-king.json](./210844-skeleton-king.json) |
+| Skeleton Krew | 4548 | [4548-skeleton-krew.json](./4548-skeleton-krew.json) |
 | Skeleton Messi | 293858 | [293858-skeleton-messi.json](./293858-skeleton-messi.json) |
 | Skeleton Punchers | 220497 | [220497-skeleton-punchers.json](./220497-skeleton-punchers.json) |
 | Skeleton Quest | 415456 | [415456-skeleton-quest.json](./415456-skeleton-quest.json) |
@@ -10409,6 +10411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap City | 87935 | [87935-slap-city.json](./87935-slap-city.json) |
 | Slap Dab | 72011 | [72011-slap-dab.json](./72011-slap-dab.json) |
 | Slap Fight | 37296 | [37296-slap-fight.json](./37296-slap-fight.json) |
+| Slap Fight MD | 4521 | [4521-slap-fight-md.json](./4521-slap-fight-md.json) |
 | Slap Happy Rhythm Busters | 44861 | [44861-slap-happy-rhythm-busters.json](./44861-slap-happy-rhythm-busters.json) |
 | Slap Shooter | 97977 | [97977-slap-shooter.json](./97977-slap-shooter.json) |
 | Slap Shot | 81281 | [81281-slap-shot.json](./81281-slap-shot.json) |
@@ -26777,6 +26780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Vili | 160167 | [160167-super-vili.json](./160167-super-vili.json) |
 | Super Virus Defense | 250775 | [250775-super-virus-defense.json](./250775-super-virus-defense.json) |
 | Super Visual Soccer | 125980 | [125980-super-visual-soccer.json](./125980-super-visual-soccer.json) |
+| Super Volley Ball | 4440 | [4440-super-volley-ball.json](./4440-super-volley-ball.json) |
 | Super Volley Blast | 105274 | [105274-super-volley-blast.json](./105274-super-volley-blast.json) |
 | Super Volte-Face | 310414 | [310414-super-volte-face.json](./310414-super-volte-face.json) |
 | Super Voxel World | 176443 | [176443-super-voxel-world.json](./176443-super-voxel-world.json) |
