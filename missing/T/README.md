@@ -4479,6 +4479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Bond... Basildon Bond | 41149 | [41149-the-adventures-of-bond-basildon-bond.json](./41149-the-adventures-of-bond-basildon-bond.json) |
 | The Adventures of Bruce Flea | 258474 | [258474-the-adventures-of-bruce-flea.json](./258474-the-adventures-of-bruce-flea.json) |
 | The Adventures of Bryan Scott | 172541 | [172541-the-adventures-of-bryan-scott.json](./172541-the-adventures-of-bryan-scott.json) |
+| The Adventures of Buckaroo Banzai: Across the Eighth Dimension | 2299 | [2299-the-adventures-of-buckaroo-banzai-across-the-eighth-dimension.json](./2299-the-adventures-of-buckaroo-banzai-across-the-eighth-dimension.json) |
 | The Adventures of Bunny and Pig | 265127 | [265127-the-adventures-of-bunny-and-pig.json](./265127-the-adventures-of-bunny-and-pig.json) |
 | The Adventures of Busy Billy | 206207 | [206207-the-adventures-of-busy-billy.json](./206207-the-adventures-of-busy-billy.json) |
 | The Adventures of Capitano Navarro | 51512 | [51512-the-adventures-of-capitano-navarro.json](./51512-the-adventures-of-capitano-navarro.json) |
@@ -4491,6 +4492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Detective Bron | 200721 | [200721-the-adventures-of-detective-bron.json](./200721-the-adventures-of-detective-bron.json) |
 | The Adventures of Detective Donut at Shao-Lu Temple | 340571 | [340571-the-adventures-of-detective-donut-at-shao-lu-temple.json](./340571-the-adventures-of-detective-donut-at-shao-lu-temple.json) |
 | The Adventures of Dinobot and Tiara! | 163016 | [163016-the-adventures-of-dinobot-and-tiara.json](./163016-the-adventures-of-dinobot-and-tiara.json) |
+| The Adventures of Down Under Dan | 2300 | [2300-the-adventures-of-down-under-dan.json](./2300-the-adventures-of-down-under-dan.json) |
 | The Adventures of Dr. Franken | 369600 | [369600-the-adventures-of-dr-franken.json](./369600-the-adventures-of-dr-franken.json) |
 | The Adventures of Dr. Franken | 48617 | [48617-the-adventures-of-dr-franken.json](./48617-the-adventures-of-dr-franken.json) |
 | The Adventures of Eggbert | 146814 | [146814-the-adventures-of-eggbert.json](./146814-the-adventures-of-eggbert.json) |
@@ -4560,6 +4562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of R.Sole: Nothing, Nowhere & Not at the Same Time | 390692 | [390692-the-adventures-of-r-sole-nothing-nowhere-and-not-at-the-same-time.json](./390692-the-adventures-of-r-sole-nothing-nowhere-and-not-at-the-same-time.json) |
 | The Adventures of Rad Gravity | 8777 | [8777-the-adventures-of-rad-gravity.json](./8777-the-adventures-of-rad-gravity.json) |
 | The Adventures of Reynaldo | 146193 | [146193-the-adventures-of-reynaldo.json](./146193-the-adventures-of-reynaldo.json) |
+| The Adventures of Robin Hood | 2301 | [2301-the-adventures-of-robin-hood.json](./2301-the-adventures-of-robin-hood.json) |
 | The Adventures of Robin Hood | 265054 | [265054-the-adventures-of-robin-hood.json](./265054-the-adventures-of-robin-hood.json) |
 | The Adventures of Rocky and Bullwinkle and Friends | 264997 | [264997-the-adventures-of-rocky-and-bullwinkle-and-friends.json](./264997-the-adventures-of-rocky-and-bullwinkle-and-friends.json) |
 | The Adventures of Rocky and Bullwinkle and Friends | 264999 | [264999-the-adventures-of-rocky-and-bullwinkle-and-friends.json](./264999-the-adventures-of-rocky-and-bullwinkle-and-friends.json) |
@@ -18449,6 +18452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Gap | 109199 | [109199-time-gap.json](./109199-time-gap.json) |
 | Time Gap Mystery | 68501 | [68501-time-gap-mystery.json](./68501-time-gap-mystery.json) |
 | Time Gap Puppies | 156518 | [156518-time-gap-puppies.json](./156518-time-gap-puppies.json) |
+| Time Gate: Knight's Chase | 2225 | [2225-time-gate-knights-chase.json](./2225-time-gate-knights-chase.json) |
 | Time Geeks | 92381 | [92381-time-geeks.json](./92381-time-geeks.json) |
 | Time Gentlemen, Please! | 6253 | [6253-time-gentlemen-please.json](./6253-time-gentlemen-please.json) |
 | Time Gentlemen, Please! and Ben There, Dan That! Special Edition Double Pack | 27846 | [27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json](./27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json) |
@@ -18691,6 +18695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timepiece Ensemble | 216242 | [216242-timepiece-ensemble.json](./216242-timepiece-ensemble.json) |
 | Timepunk | 220697 | [220697-timepunk.json](./220697-timepunk.json) |
 | TimeQuake | 251370 | [251370-timequake.json](./251370-timequake.json) |
+| Timequest | 2224 | [2224-timequest.json](./2224-timequest.json) |
 | Timeray | 288604 | [288604-timeray.json](./288604-timeray.json) |
 | Timerift Raiders: The Past Awakens | 338268 | [338268-timerift-raiders-the-past-awakens.json](./338268-timerift-raiders-the-past-awakens.json) |
 | Timerunner | 161900 | [161900-timerunner.json](./161900-timerunner.json) |
