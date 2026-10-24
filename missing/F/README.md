@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.A.S.T. | 79079 | [79079-f-a-s-t.json](./79079-f-a-s-t.json) |
 | F.B.I.C | 342816 | [342816-f-b-i-c.json](./342816-f-b-i-c.json) |
 | F.E.A.R. | 202149 | [202149-f-e-a-r.json](./202149-f-e-a-r.json) |
+| F.E.A.R. 2: Reborn | 22886 | [22886-f-e-a-r-2-reborn.json](./22886-f-e-a-r-2-reborn.json) |
 | F.E.A.R. 3 | 514 | [514-f-e-a-r-3.json](./514-f-e-a-r-3.json) |
 | F.E.A.R. Combat | 77261 | [77261-f-e-a-r-combat.json](./77261-f-e-a-r-combat.json) |
 | F.E.A.R. Extraction Point | 518 | [518-f-e-a-r-extraction-point.json](./518-f-e-a-r-extraction-point.json) |
