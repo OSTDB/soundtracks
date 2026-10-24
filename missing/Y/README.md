@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeti Sports: Pingu Throw | 66983 | [66983-yeti-sports-pingu-throw.json](./66983-yeti-sports-pingu-throw.json) |
 | Yeti's Parole Officer | 83598 | [83598-yetis-parole-officer.json](./83598-yetis-parole-officer.json) |
 | YetiFree | 269998 | [269998-yetifree.json](./269998-yetifree.json) |
+| Yetisports | 11835 | [11835-yetisports.json](./11835-yetisports.json) |
 | YetiSports | 202185 | [202185-yetisports.json](./202185-yetisports.json) |
 | Yetisports Arctic Adventure | 43239 | [43239-yetisports-arctic-adventure.json](./43239-yetisports-arctic-adventure.json) |
 | Yetisports Deluxe | 44774 | [44774-yetisports-deluxe.json](./44774-yetisports-deluxe.json) |
