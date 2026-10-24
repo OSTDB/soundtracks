@@ -1318,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rama's Quest | 289013 | [289013-ramas-quest.json](./289013-ramas-quest.json) |
 | Ramageddon | 146757 | [146757-ramageddon.json](./146757-ramageddon.json) |
 | Ramas' Call: Twisted Timing | 261734 | [261734-ramas-call-twisted-timing.json](./261734-ramas-call-twisted-timing.json) |
+| Ramayana | 35184 | [35184-ramayana.json](./35184-ramayana.json) |
 | Ramble | 102587 | [102587-ramble.json](./102587-ramble.json) |
 | Ramble Planet | 152374 | [152374-ramble-planet.json](./152374-ramble-planet.json) |
 | Rambling with my friend | 183367 | [183367-rambling-with-my-friend.json](./183367-rambling-with-my-friend.json) |
