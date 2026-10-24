@@ -28617,7 +28617,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Shadows | 182723 | [182723-swords-and-shadows.json](./182723-swords-and-shadows.json) |
 | Swords & Shields AdvBattleBoard | 273795 | [273795-swords-and-shields-advbattleboard.json](./273795-swords-and-shields-advbattleboard.json) |
 | Swords & Slippers | 374141 | [374141-swords-and-slippers.json](./374141-swords-and-slippers.json) |
-| Swords & Soldiers | 10783 | [10783-swords-and-soldiers.json](./10783-swords-and-soldiers.json) |
 | Swords & Soldiers | 210258 | [210258-swords-and-soldiers.json](./210258-swords-and-soldiers.json) |
 | Swords & Soldiers | 210261 | [210261-swords-and-soldiers.json](./210261-swords-and-soldiers.json) |
 | Swords & Soldiers | 210262 | [210262-swords-and-soldiers.json](./210262-swords-and-soldiers.json) |
