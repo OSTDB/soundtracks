@@ -3930,6 +3930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
 | Deceased | 149711 | [149711-deceased.json](./149711-deceased.json) |
 | Deceased.cable | 318158 | [318158-deceased-cable.json](./318158-deceased-cable.json) |
+| Deceit | 24515 | [24515-deceit.json](./24515-deceit.json) |
 | Deceit 2 | 239561 | [239561-deceit-2.json](./239561-deceit-2.json) |
 | Deceitful Devotions | 227945 | [227945-deceitful-devotions.json](./227945-deceitful-devotions.json) |
 | Deceive Inc.: Neon Nights | 257432 | [257432-deceive-inc-neon-nights.json](./257432-deceive-inc-neon-nights.json) |
@@ -10398,6 +10399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dooly Bravo Land | 63649 | [63649-dooly-bravo-land.json](./63649-dooly-bravo-land.json) |
 | Dooly Daemoheom | 63645 | [63645-dooly-daemoheom.json](./63645-dooly-daemoheom.json) |
 | Dooly Soccer 2002 | 92313 | [92313-dooly-soccer-2002.json](./92313-dooly-soccer-2002.json) |
+| Doom | 165206 | [165206-doom.json](./165206-doom.json) |
 | Doom | 170995 | [170995-doom.json](./170995-doom.json) |
 | Doom | 223631 | [223631-doom.json](./223631-doom.json) |
 | Doom | 259941 | [259941-doom.json](./259941-doom.json) |
@@ -10605,6 +10607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door 2: Key - Path to Heaven | 171586 | [171586-door-2-key-path-to-heaven.json](./171586-door-2-key-path-to-heaven.json) |
 | Door Door | 92904 | [92904-door-door.json](./92904-door-door.json) |
 | Door Game Deluxe | 331085 | [331085-door-game-deluxe.json](./331085-door-game-deluxe.json) |
+| Door Kickers | 3099 | [3099-door-kickers.json](./3099-door-kickers.json) |
 | Door Knocker | 122336 | [122336-door-knocker.json](./122336-door-knocker.json) |
 | Door of Perception | 251055 | [251055-door-of-perception.json](./251055-door-of-perception.json) |
 | Door Puzzle | 358450 | [358450-door-puzzle.json](./358450-door-puzzle.json) |
@@ -11758,6 +11761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Origins 2 | 20412 | [20412-dragon-ball-origins-2.json](./20412-dragon-ball-origins-2.json) |
 | Dragon Ball: Pilaf no Gyakushuu | 346785 | [346785-dragon-ball-pilaf-no-gyakushuu.json](./346785-dragon-ball-pilaf-no-gyakushuu.json) |
 | Dragon Ball: Raging Blast | 19310 | [19310-dragon-ball-raging-blast.json](./19310-dragon-ball-raging-blast.json) |
+| Dragon Ball: Raging Blast 2 | 19311 | [19311-dragon-ball-raging-blast-2.json](./19311-dragon-ball-raging-blast-2.json) |
 | Dragon Ball: Raging Blast 2 - Limited Edition | 47453 | [47453-dragon-ball-raging-blast-2-limited-edition.json](./47453-dragon-ball-raging-blast-2-limited-edition.json) |
 | Dragon Ball: Sparking! Zero | 279634 | [279634-dragon-ball-sparking-zero.json](./279634-dragon-ball-sparking-zero.json) |
 | Dragon Ball: Sparking! Zero - Collector's Edition | 324760 | [324760-dragon-ball-sparking-zero-collectors-edition.json](./324760-dragon-ball-sparking-zero-collectors-edition.json) |
