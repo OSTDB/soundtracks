@@ -3905,6 +3905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightning Duru | 254390 | [254390-lightning-duru.json](./254390-lightning-duru.json) |
 | Lightning Fast | 157141 | [157141-lightning-fast.json](./157141-lightning-fast.json) |
 | Lightning Fighter | 335329 | [335329-lightning-fighter.json](./335329-lightning-fighter.json) |
+| Lightning Fighters | 39387 | [39387-lightning-fighters.json](./39387-lightning-fighters.json) |
 | Lightning Katana | 331660 | [331660-lightning-katana.json](./331660-lightning-katana.json) |
 | Lightning Legend: Daigo no Daibouken | 44772 | [44772-lightning-legend-daigo-no-daibouken.json](./44772-lightning-legend-daigo-no-daibouken.json) |
 | Lightning Link | 386224 | [386224-lightning-link.json](./386224-lightning-link.json) |
