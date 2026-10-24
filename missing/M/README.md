@@ -3734,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Adventures | 356054 | [356054-marvel-adventures.json](./356054-marvel-adventures.json) |
 | Marvel Avengers Academy | 18028 | [18028-marvel-avengers-academy.json](./18028-marvel-avengers-academy.json) |
 | Marvel Avengers Alliance Tactics | 61694 | [61694-marvel-avengers-alliance-tactics.json](./61694-marvel-avengers-alliance-tactics.json) |
+| Marvel Avengers: Battle for Earth | 5315 | [5315-marvel-avengers-battle-for-earth.json](./5315-marvel-avengers-battle-for-earth.json) |
 | Marvel Contest of Champions | 28107 | [28107-marvel-contest-of-champions.json](./28107-marvel-contest-of-champions.json) |
 | Marvel Disk Wars: Avengers - Ultimate Heroes | 61656 | [61656-marvel-disk-wars-avengers-ultimate-heroes.json](./61656-marvel-disk-wars-avengers-ultimate-heroes.json) |
 | Marvel Duel | 138543 | [138543-marvel-duel.json](./138543-marvel-duel.json) |
@@ -12907,6 +12908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Loves You Too! | 214153 | [214153-monster-loves-you-too.json](./214153-monster-loves-you-too.json) |
 | Monster Luv Radio | 302217 | [302217-monster-luv-radio.json](./302217-monster-luv-radio.json) |
 | Monster Madness Online | 62533 | [62533-monster-madness-online.json](./62533-monster-madness-online.json) |
+| Monster Madness: Battle for Suburbia | 7076 | [7076-monster-madness-battle-for-suburbia.json](./7076-monster-madness-battle-for-suburbia.json) |
 | Monster Maker | 220645 | [220645-monster-maker.json](./220645-monster-maker.json) |
 | Monster Maker | 418581 | [418581-monster-maker.json](./418581-monster-maker.json) |
 | Monster Maker 4: Flash Card | 49715 | [49715-monster-maker-4-flash-card.json](./49715-monster-maker-4-flash-card.json) |
