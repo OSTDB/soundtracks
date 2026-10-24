@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icewind Dale II: Collector's Edition | 232152 | [232152-icewind-dale-ii-collectors-edition.json](./232152-icewind-dale-ii-collectors-edition.json) |
 | Icewind Dale: Complete | 143699 | [143699-icewind-dale-complete.json](./143699-icewind-dale-complete.json) |
 | Icewind Dale: Enhanced Edition | 36240 | [36240-icewind-dale-enhanced-edition.json](./36240-icewind-dale-enhanced-edition.json) |
+| Icewind Dale: Heart of Winter | 5621 | [5621-icewind-dale-heart-of-winter.json](./5621-icewind-dale-heart-of-winter.json) |
 | Icewind Dale: Heart of Winter - Trials of the Luremaster | 8829 | [8829-icewind-dale-heart-of-winter-trials-of-the-luremaster.json](./8829-icewind-dale-heart-of-winter-trials-of-the-luremaster.json) |
 | Icewords | 186006 | [186006-icewords.json](./186006-icewords.json) |
 | Icey: Ucey's Awakening | 171943 | [171943-icey-uceys-awakening.json](./171943-icey-uceys-awakening.json) |
@@ -4024,6 +4025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Speedway | 369129 | [369129-international-speedway.json](./369129-international-speedway.json) |
 | International Sports Challenge | 69783 | [69783-international-sports-challenge.json](./69783-international-sports-challenge.json) |
 | International Super Karts | 43332 | [43332-international-super-karts.json](./43332-international-super-karts.json) |
+| International Superstar Soccer | 9861 | [9861-international-superstar-soccer.json](./9861-international-superstar-soccer.json) |
 | International Superstar Soccer '98 | 3514 | [3514-international-superstar-soccer-98.json](./3514-international-superstar-soccer-98.json) |
 | International Superstar Soccer 2000 | 220857 | [220857-international-superstar-soccer-2000.json](./220857-international-superstar-soccer-2000.json) |
 | International Superstar Soccer 2000 | 3515 | [3515-international-superstar-soccer-2000.json](./3515-international-superstar-soccer-2000.json) |
