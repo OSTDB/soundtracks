@@ -3610,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Game Hotel | 251554 | [251554-death-game-hotel.json](./251554-death-game-hotel.json) |
 | Death Game Royale | 231418 | [231418-death-game-royale.json](./231418-death-game-royale.json) |
 | Death Gasp | 120732 | [120732-death-gasp.json](./120732-death-gasp.json) |
+| Death Gate | 2488 | [2488-death-gate.json](./2488-death-gate.json) |
 | Death Gaze | 184962 | [184962-death-gaze.json](./184962-death-gaze.json) |
 | Death Gear | 188338 | [188338-death-gear.json](./188338-death-gear.json) |
 | Death Goat | 19873 | [19873-death-goat.json](./19873-death-goat.json) |
@@ -3917,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debugging Hero | 351164 | [351164-debugging-hero.json](./351164-debugging-hero.json) |
 | Deca Sports 3 | 20699 | [20699-deca-sports-3.json](./20699-deca-sports-3.json) |
 | Deca Sports Extreme | 6755 | [6755-deca-sports-extreme.json](./6755-deca-sports-extreme.json) |
+| Deca Sports Freedom | 2661 | [2661-deca-sports-freedom.json](./2661-deca-sports-freedom.json) |
 | Decadence | 256799 | [256799-decadence.json](./256799-decadence.json) |
 | Decadence | 346640 | [346640-decadence.json](./346640-decadence.json) |
 | Decadence: A Tarnished World | 311357 | [311357-decadence-a-tarnished-world.json](./311357-decadence-a-tarnished-world.json) |
@@ -8283,6 +8285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Classic Games: Aladdin and The Lion King - The Jungle Book and More Aladdin Pack | 204668 | [204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json](./204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json) |
 | Disney Classics: Master Mouse - Show Time Quiz | 228447 | [228447-disney-classics-master-mouse-show-time-quiz.json](./228447-disney-classics-master-mouse-show-time-quiz.json) |
 | Disney Coloring Book | 290321 | [290321-disney-coloring-book.json](./290321-disney-coloring-book.json) |
+| Disney Crossy Road | 58672 | [58672-disney-crossy-road.json](./58672-disney-crossy-road.json) |
 | Disney Dreamlight Valley: A Festival of Friendship | 237836 | [237836-disney-dreamlight-valley-a-festival-of-friendship.json](./237836-disney-dreamlight-valley-a-festival-of-friendship.json) |
 | Disney Dreamlight Valley: A Rift in Time - Chapter 1: Welcome to Eternity Isle | 279238 | [279238-disney-dreamlight-valley-a-rift-in-time-chapter-1-welcome-to-eternity-isle.json](./279238-disney-dreamlight-valley-a-rift-in-time-chapter-1-welcome-to-eternity-isle.json) |
 | Disney Dreamlight Valley: Arcade Edition | 357417 | [357417-disney-dreamlight-valley-arcade-edition.json](./357417-disney-dreamlight-valley-arcade-edition.json) |
@@ -12047,6 +12050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Maiden: Blossoms of the Past | 369759 | [369759-dragon-maiden-blossoms-of-the-past.json](./369759-dragon-maiden-blossoms-of-the-past.json) |
 | Dragon Man: Reignited | 215173 | [215173-dragon-man-reignited.json](./215173-dragon-man-reignited.json) |
 | Dragon Mania | 241469 | [241469-dragon-mania.json](./241469-dragon-mania.json) |
+| Dragon Mania Legends | 58917 | [58917-dragon-mania-legends.json](./58917-dragon-mania-legends.json) |
 | Dragon Marked for Death: Advanced Attackers | 147998 | [147998-dragon-marked-for-death-advanced-attackers.json](./147998-dragon-marked-for-death-advanced-attackers.json) |
 | Dragon Master | 209127 | [209127-dragon-master.json](./209127-dragon-master.json) |
 | Dragon Master | 46780 | [46780-dragon-master.json](./46780-dragon-master.json) |
