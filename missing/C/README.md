@@ -4470,6 +4470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Strike: Crypto Arena | 253733 | [253733-champion-strike-crypto-arena.json](./253733-champion-strike-crypto-arena.json) |
 | Champion Strike: Hero Clash | 221645 | [221645-champion-strike-hero-clash.json](./221645-champion-strike-hero-clash.json) |
 | Champion Tennis | 6093 | [6093-champion-tennis.json](./6093-champion-tennis.json) |
+| Champion Wrestler | 38092 | [38092-champion-wrestler.json](./38092-champion-wrestler.json) |
 | Champion Wrestler: Jikkyou Raibu | 66482 | [66482-champion-wrestler-jikkyou-raibu.json](./66482-champion-wrestler-jikkyou-raibu.json) |
 | Champions | 120685 | [120685-champions.json](./120685-champions.json) |
 | Champions | 278368 | [278368-champions.json](./278368-champions.json) |
@@ -6655,6 +6656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Trigger | 89828 | [89828-chrono-trigger.json](./89828-chrono-trigger.json) |
 | Chrono Trigger: Bugfix and Uncensoring Patch | 249442 | [249442-chrono-trigger-bugfix-and-uncensoring-patch.json](./249442-chrono-trigger-bugfix-and-uncensoring-patch.json) |
 | Chrono Trigger: Crimson Echoes | 38266 | [38266-chrono-trigger-crimson-echoes.json](./38266-chrono-trigger-crimson-echoes.json) |
+| Chrono Trigger: Jet Bike Special | 38105 | [38105-chrono-trigger-jet-bike-special.json](./38105-chrono-trigger-jet-bike-special.json) |
 | Chrono Trigger+ | 219077 | [219077-chrono-trigger.json](./219077-chrono-trigger.json) |
 | Chrono Wars | 60604 | [60604-chrono-wars.json](./60604-chrono-wars.json) |
 | Chrono's Arena | 126628 | [126628-chronos-arena.json](./126628-chronos-arena.json) |
