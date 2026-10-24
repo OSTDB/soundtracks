@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dami and Secret Library | 375507 | [375507-dami-and-secret-library.json](./375507-dami-and-secret-library.json) |
 | Damien: The Game | 239538 | [239538-damien-the-game.json](./239538-damien-the-game.json) |
 | Damion Shard: Ace Attorney | 302643 | [302643-damion-shard-ace-attorney.json](./302643-damion-shard-ace-attorney.json) |
+| Dämmerlicht | 29547 | [29547-dammerlicht.json](./29547-dammerlicht.json) |
 | Damn | 55616 | [55616-damn.json](./55616-damn.json) |
 | Damn Daniel: Basket Game | 252818 | [252818-damn-daniel-basket-game.json](./252818-damn-daniel-basket-game.json) |
 | Damn Daniel: White Vans Adventure | 201236 | [201236-damn-daniel-white-vans-adventure.json](./201236-damn-daniel-white-vans-adventure.json) |
@@ -1431,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Realm: Guardian of Flames | 91168 | [91168-dark-realm-guardian-of-flames.json](./91168-dark-realm-guardian-of-flames.json) |
 | Dark Realm: Princess of Ice - Collector's Edition | 59147 | [59147-dark-realm-princess-of-ice-collectors-edition.json](./59147-dark-realm-princess-of-ice-collectors-edition.json) |
 | Dark Realm: Queen of Flames | 139797 | [139797-dark-realm-queen-of-flames.json](./139797-dark-realm-queen-of-flames.json) |
+| Dark Realm: Queen of Flames - Collector's Edition | 29502 | [29502-dark-realm-queen-of-flames-collectors-edition.json](./29502-dark-realm-queen-of-flames-collectors-edition.json) |
 | Dark Realm: Queen of Flames - Collector's Edition HD | 88309 | [88309-dark-realm-queen-of-flames-collectors-edition-hd.json](./88309-dark-realm-queen-of-flames-collectors-edition-hd.json) |
 | Dark Reaper Shoots! | 112068 | [112068-dark-reaper-shoots.json](./112068-dark-reaper-shoots.json) |
 | Dark Reflection | 121970 | [121970-dark-reflection.json](./121970-dark-reflection.json) |
@@ -2762,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Dolls Never Die | 395240 | [395240-dead-dolls-never-die.json](./395240-dead-dolls-never-die.json) |
 | Dead Don't Die | 301092 | [301092-dead-dont-die.json](./301092-dead-dont-die.json) |
 | Dead Dozen | 79141 | [79141-dead-dozen.json](./79141-dead-dozen.json) |
+| Dead Drop | 29562 | [29562-dead-drop.json](./29562-dead-drop.json) |
 | Dead Dust | 89960 | [89960-dead-dust.json](./89960-dead-dust.json) |
 | Dead Earth Zombies | 188672 | [188672-dead-earth-zombies.json](./188672-dead-earth-zombies.json) |
 | Dead Echo | 410377 | [410377-dead-echo.json](./410377-dead-echo.json) |
@@ -4168,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dweller | 176739 | [176739-deep-dweller.json](./176739-deep-dweller.json) |
 | Deep Echo | 25762 | [25762-deep-echo.json](./25762-deep-echo.json) |
 | Deep Eclipse | 36213 | [36213-deep-eclipse.json](./36213-deep-eclipse.json) |
+| Deep End | 29498 | [29498-deep-end.json](./29498-deep-end.json) |
 | Deep Enigma | 149722 | [149722-deep-enigma.json](./149722-deep-enigma.json) |
 | Deep Fear | 46057 | [46057-deep-fear.json](./46057-deep-fear.json) |
 | Deep Fishing | 188091 | [188091-deep-fishing.json](./188091-deep-fishing.json) |
@@ -4633,6 +4637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defragmenting | 390232 | [390232-defragmenting.json](./390232-defragmenting.json) |
 | Defrain | 103390 | [103390-defrain.json](./103390-defrain.json) |
 | Deft | 182742 | [182742-deft.json](./182742-deft.json) |
+| Defuser VR | 29538 | [29538-defuser-vr.json](./29538-defuser-vr.json) |
 | Defy Gravity Extended | 16242 | [16242-defy-gravity-extended.json](./16242-defy-gravity-extended.json) |
 | Defying Fate | 205233 | [205233-defying-fate.json](./205233-defying-fate.json) |
 | Defying Heaven's Will | 183050 | [183050-defying-heavens-will.json](./183050-defying-heavens-will.json) |
@@ -7942,6 +7947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Golf Valley | 146108 | [146108-disc-golf-valley.json](./146108-disc-golf-valley.json) |
 | Disc Golf Valley VR | 158107 | [158107-disc-golf-valley-vr.json](./158107-disc-golf-valley-vr.json) |
 | Disc Golf VR | 101325 | [101325-disc-golf-vr.json](./101325-disc-golf-vr.json) |
+| Disc League | 29500 | [29500-disc-league.json](./29500-disc-league.json) |
 | Disc Ninja | 164886 | [164886-disc-ninja.json](./164886-disc-ninja.json) |
 | Disc Party | 134081 | [134081-disc-party.json](./134081-disc-party.json) |
 | Disc Saga Extra Edition: The Tower of Muda | 238086 | [238086-disc-saga-extra-edition-the-tower-of-muda.json](./238086-disc-saga-extra-edition-the-tower-of-muda.json) |
