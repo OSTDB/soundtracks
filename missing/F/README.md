@@ -2396,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast & Furious: Crossroads | 127356 | [127356-fast-and-furious-crossroads.json](./127356-fast-and-furious-crossroads.json) |
 | Fast & Furious: Crossroads - Season Pass | 293726 | [293726-fast-and-furious-crossroads-season-pass.json](./293726-fast-and-furious-crossroads-season-pass.json) |
 | Fast & Furious: Legacy | 383491 | [383491-fast-and-furious-legacy.json](./383491-fast-and-furious-legacy.json) |
+| Fast & Furious: Showdown | 2032 | [2032-fast-and-furious-showdown.json](./2032-fast-and-furious-showdown.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r | 150132 | [150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json](./150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r - Arctic Challenge | 199898 | [199898-fast-and-furious-spy-racers-rise-of-sh1ft3r-arctic-challenge.json](./199898-fast-and-furious-spy-racers-rise-of-sh1ft3r-arctic-challenge.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r - Complete Edition | 218500 | [218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json](./218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json) |
@@ -7647,6 +7648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For The Freedom! | 240770 | [240770-for-the-freedom.json](./240770-for-the-freedom.json) |
 | For the Glory of Gods TCG | 311115 | [311115-for-the-glory-of-gods-tcg.json](./311115-for-the-glory-of-gods-tcg.json) |
 | For the Glory of Wilson | 401680 | [401680-for-the-glory-of-wilson.json](./401680-for-the-glory-of-wilson.json) |
+| For The Glory: A Europa Universalis Game | 2036 | [2036-for-the-glory-a-europa-universalis-game.json](./2036-for-the-glory-a-europa-universalis-game.json) |
 | For the Greater Good | 343045 | [343045-for-the-greater-good.json](./343045-for-the-greater-good.json) |
 | For the Hive | 190704 | [190704-for-the-hive.json](./190704-for-the-hive.json) |
 | For the Honor | 134646 | [134646-for-the-honor.json](./134646-for-the-honor.json) |
