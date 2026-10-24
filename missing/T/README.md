@@ -2617,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Bowl: Kickoff | 264889 | [264889-tecmo-bowl-kickoff.json](./264889-tecmo-bowl-kickoff.json) |
 | Tecmo Classic Arcade | 6192 | [6192-tecmo-classic-arcade.json](./6192-tecmo-classic-arcade.json) |
 | Tecmo Cup Soccer Game | 48227 | [48227-tecmo-cup-soccer-game.json](./48227-tecmo-cup-soccer-game.json) |
+| Tecmo Knight | 40002 | [40002-tecmo-knight.json](./40002-tecmo-knight.json) |
 | Tecmo NBA Basketball | 48226 | [48226-tecmo-nba-basketball.json](./48226-tecmo-nba-basketball.json) |
 | Tecmo Secret of the Stars | 15893 | [15893-tecmo-secret-of-the-stars.json](./15893-tecmo-secret-of-the-stars.json) |
 | Tecmo Stackers | 43939 | [43939-tecmo-stackers.json](./43939-tecmo-stackers.json) |
@@ -3592,6 +3593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Firma 2 | 366335 | [366335-terra-firma-2.json](./366335-terra-firma-2.json) |
 | Terra Flame | 197265 | [197265-terra-flame.json](./197265-terra-flame.json) |
 | Terra Foliata | 296631 | [296631-terra-foliata.json](./296631-terra-foliata.json) |
+| Terra Force | 40004 | [40004-terra-force.json](./40004-terra-force.json) |
 | Terra Formars: Akaki Hoshi no Gekito | 80339 | [80339-terra-formars-akaki-hoshi-no-gekito.json](./80339-terra-formars-akaki-hoshi-no-gekito.json) |
 | Terra Incognita | 129119 | [129119-terra-incognita.json](./129119-terra-incognita.json) |
 | Terra Incognito - Antarctica 1911 | 112666 | [112666-terra-incognito-antarctica-1911.json](./112666-terra-incognito-antarctica-1911.json) |
@@ -8055,6 +8057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Glitch Prison | 286038 | [286038-the-glitch-prison.json](./286038-the-glitch-prison.json) |
 | The Glitch Witch | 310829 | [310829-the-glitch-witch.json](./310829-the-glitch-witch.json) |
 | The Glitched Attraction | 221852 | [221852-the-glitched-attraction.json](./221852-the-glitched-attraction.json) |
+| The Glob | 40005 | [40005-the-glob.json](./40005-the-glob.json) |
 | The Global Dilemma: Guns or Butter | 70047 | [70047-the-global-dilemma-guns-or-butter.json](./70047-the-global-dilemma-guns-or-butter.json) |
 | The Glory of America | 322068 | [322068-the-glory-of-america.json](./322068-the-glory-of-america.json) |
 | The Glory of Walkure | 146660 | [146660-the-glory-of-walkure.json](./146660-the-glory-of-walkure.json) |
@@ -11345,6 +11348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -18423,6 +18427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Parallax: The Burial Vault | 262291 | [262291-time-parallax-the-burial-vault.json](./262291-time-parallax-the-burial-vault.json) |
 | Time Patrol | 165171 | [165171-time-patrol.json](./165171-time-patrol.json) |
 | Time Pilot | 246402 | [246402-time-pilot.json](./246402-time-pilot.json) |
+| Time Pilot 84 | 40008 | [40008-time-pilot-84.json](./40008-time-pilot-84.json) |
 | Time Pilot Demake | 303780 | [303780-time-pilot-demake.json](./303780-time-pilot-demake.json) |
 | Time Princess | 142715 | [142715-time-princess.json](./142715-time-princess.json) |
 | Time Raiders | 208321 | [208321-time-raiders.json](./208321-time-raiders.json) |
