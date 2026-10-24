@@ -3215,7 +3215,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -4131,6 +4130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Beyond | 124510 | [124510-wild-beyond.json](./124510-wild-beyond.json) |
 | Wild Beyond | 124696 | [124696-wild-beyond.json](./124696-wild-beyond.json) |
 | Wild Bird Hunter America | 88619 | [88619-wild-bird-hunter-america.json](./88619-wild-bird-hunter-america.json) |
+| Wild Blood | 18875 | [18875-wild-blood.json](./18875-wild-blood.json) |
 | Wild Blue Skies | 335296 | [335296-wild-blue-skies.json](./335296-wild-blue-skies.json) |
 | Wild Boater | 254983 | [254983-wild-boater.json](./254983-wild-boater.json) |
 | Wild Buster: Heroes of Titan | 75152 | [75152-wild-buster-heroes-of-titan.json](./75152-wild-buster-heroes-of-titan.json) |
