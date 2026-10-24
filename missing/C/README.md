@@ -1815,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Colony | 383343 | [383343-card-colony.json](./383343-card-colony.json) |
 | Card Conquest | 378427 | [378427-card-conquest.json](./378427-card-conquest.json) |
 | Card Corner | 390558 | [390558-card-corner.json](./390558-card-corner.json) |
+| Card Crawl | 56112 | [56112-card-crawl.json](./56112-card-crawl.json) |
 | Card Crawl 2 | 404815 | [404815-card-crawl-2.json](./404815-card-crawl-2.json) |
 | Card Crunch | 105954 | [105954-card-crunch.json](./105954-card-crunch.json) |
 | Card Cultivation | 369080 | [369080-card-cultivation.json](./369080-card-cultivation.json) |
@@ -10921,6 +10922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console War Giant | 380762 | [380762-console-war-giant.json](./380762-console-war-giant.json) |
 | Console War Giant | 407313 | [407313-console-war-giant.json](./407313-console-war-giant.json) |
 | Consonance | 374596 | [374596-consonance.json](./374596-consonance.json) |
+| Consortium | 9572 | [9572-consortium.json](./9572-consortium.json) |
 | Consortya | 150999 | [150999-consortya.json](./150999-consortya.json) |
 | Conspiracies of the Heart | 299004 | [299004-conspiracies-of-the-heart.json](./299004-conspiracies-of-the-heart.json) |
 | Conspiracy Crew | 312152 | [312152-conspiracy-crew.json](./312152-conspiracy-crew.json) |
@@ -15051,6 +15053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSI: Fatal Conspiracy | 4781 | [4781-csi-fatal-conspiracy.json](./4781-csi-fatal-conspiracy.json) |
 | CSI: Hard Evidence | 4782 | [4782-csi-hard-evidence.json](./4782-csi-hard-evidence.json) |
 | CSI: Hidden Crimes | 61730 | [61730-csi-hidden-crimes.json](./61730-csi-hidden-crimes.json) |
+| CSI: Miami | 50801 | [50801-csi-miami.json](./50801-csi-miami.json) |
 | CSI: Miami | 80816 | [80816-csi-miami.json](./80816-csi-miami.json) |
 | CSI: New York | 50800 | [50800-csi-new-york.json](./50800-csi-new-york.json) |
 | CSI: NY | 70640 | [70640-csi-ny.json](./70640-csi-ny.json) |
