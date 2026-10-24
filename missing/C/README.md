@@ -3332,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catan | 19435 | [19435-catan.json](./19435-catan.json) |
 | Catan | 196701 | [196701-catan.json](./196701-catan.json) |
 | Catan | 21830 | [21830-catan.json](./21830-catan.json) |
+| Catan Universe | 28278 | [28278-catan-universe.json](./28278-catan-universe.json) |
 | Catan: Cities & Knights | 238213 | [238213-catan-cities-and-knights.json](./238213-catan-cities-and-knights.json) |
 | Catan: Console Edition | 220832 | [220832-catan-console-edition.json](./220832-catan-console-edition.json) |
 | Catan: Console Edition - Championship Maps | 275050 | [275050-catan-console-edition-championship-maps.json](./275050-catan-console-edition-championship-maps.json) |
@@ -5368,6 +5369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Tiger | 103928 | [103928-chess-tiger.json](./103928-chess-tiger.json) |
 | Chess Titans | 26679 | [26679-chess-titans.json](./26679-chess-titans.json) |
 | Chess Twist | 284967 | [284967-chess-twist.json](./284967-chess-twist.json) |
+| Chess Ultra | 31561 | [31561-chess-ultra.json](./31561-chess-ultra.json) |
 | Chess Undress | 260338 | [260338-chess-undress.json](./260338-chess-undress.json) |
 | Chess Universe | 357416 | [357416-chess-universe.json](./357416-chess-universe.json) |
 | Chess Valley | 159534 | [159534-chess-valley.json](./159534-chess-valley.json) |
