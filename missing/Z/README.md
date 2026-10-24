@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenless Zone Zero: Update 3.1 - The Long Goodbye | 411735 | [411735-zenless-zone-zero-update-3-1-the-long-goodbye.json](./411735-zenless-zone-zero-update-3-1-the-long-goodbye.json) |
 | Zenmai Zamurai | 124128 | [124128-zenmai-zamurai.json](./124128-zenmai-zamurai.json) |
 | Zeno Archives | 52109 | [52109-zeno-archives.json](./52109-zeno-archives.json) |
+| Zeno Clash | 6360 | [6360-zeno-clash.json](./6360-zeno-clash.json) |
 | Zeno Clash II | 2048 | [2048-zeno-clash-ii.json](./2048-zeno-clash-ii.json) |
 | Zeno Clash: Ultimate Edition | 21578 | [21578-zeno-clash-ultimate-edition.json](./21578-zeno-clash-ultimate-edition.json) |
 | Zeno no Nichijou | 284577 | [284577-zeno-no-nichijou.json](./284577-zeno-no-nichijou.json) |
