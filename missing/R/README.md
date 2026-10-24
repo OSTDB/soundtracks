@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden III x Mikado Maniax: Deluxe Edition | 234207 | [234207-raiden-iii-x-mikado-maniax-deluxe-edition.json](./234207-raiden-iii-x-mikado-maniax-deluxe-edition.json) |
 | Raiden III: Digital Edition | 36271 | [36271-raiden-iii-digital-edition.json](./36271-raiden-iii-digital-edition.json) |
 | Raiden IV | 7154 | [7154-raiden-iv.json](./7154-raiden-iv.json) |
+| Raiden IV OverKill | 5646 | [5646-raiden-iv-overkill.json](./5646-raiden-iv-overkill.json) |
 | Raiden IV x Mikado Remix | 141863 | [141863-raiden-iv-x-mikado-remix.json](./141863-raiden-iv-x-mikado-remix.json) |
 | Raiden IV x Mikado Remix: Deluxe Edition | 210912 | [210912-raiden-iv-x-mikado-remix-deluxe-edition.json](./210912-raiden-iv-x-mikado-remix-deluxe-edition.json) |
 | Raiden IV x Mikado Remix: Limited Edition | 181616 | [181616-raiden-iv-x-mikado-remix-limited-edition.json](./181616-raiden-iv-x-mikado-remix-limited-edition.json) |
@@ -5937,6 +5938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riding to Bounce City | 215922 | [215922-riding-to-bounce-city.json](./215922-riding-to-bounce-city.json) |
 | Riding to Bounce City: Babydoll Set A | 293871 | [293871-riding-to-bounce-city-babydoll-set-a.json](./293871-riding-to-bounce-city-babydoll-set-a.json) |
 | Ridle | 188857 | [188857-ridle.json](./188857-ridle.json) |
+| Riff Racer | 18922 | [18922-riff-racer.json](./18922-riff-racer.json) |
 | Riff Raft | 184919 | [184919-riff-raft.json](./184919-riff-raft.json) |
 | Riff: The Music Trivia DVD Game | 360767 | [360767-riff-the-music-trivia-dvd-game.json](./360767-riff-the-music-trivia-dvd-game.json) |
 | Riffle Effect | 217511 | [217511-riffle-effect.json](./217511-riffle-effect.json) |
@@ -8453,6 +8455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon World Deluxe | 25053 | [25053-rollercoaster-tycoon-world-deluxe.json](./25053-rollercoaster-tycoon-world-deluxe.json) |
 | RollerCoaster Tycoon: Corkscrew Follies | 19528 | [19528-rollercoaster-tycoon-corkscrew-follies.json](./19528-rollercoaster-tycoon-corkscrew-follies.json) |
 | RollerCoaster Tycoon: Deluxe | 36444 | [36444-rollercoaster-tycoon-deluxe.json](./36444-rollercoaster-tycoon-deluxe.json) |
+| RollerCoaster Tycoon: Loopy Landscapes | 19529 | [19529-rollercoaster-tycoon-loopy-landscapes.json](./19529-rollercoaster-tycoon-loopy-landscapes.json) |
 | RollerCoaster VR Universe | 160153 | [160153-rollercoaster-vr-universe.json](./160153-rollercoaster-vr-universe.json) |
 | Rollercoaster World | 85842 | [85842-rollercoaster-world.json](./85842-rollercoaster-world.json) |
 | Rollercoaster World 2 | 230305 | [230305-rollercoaster-world-2.json](./230305-rollercoaster-world-2.json) |
