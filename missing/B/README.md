@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldi's Basics in 2D | 406248 | [406248-baldis-basics-in-2d.json](./406248-baldis-basics-in-2d.json) |
 | Baldi's Basics in Education and Learning | 102832 | [102832-baldis-basics-in-education-and-learning.json](./102832-baldis-basics-in-education-and-learning.json) |
 | Baldi's Basics in School Education | 102854 | [102854-baldis-basics-in-school-education.json](./102854-baldis-basics-in-school-education.json) |
+| Baldi's Basics Plus | 134745 | [134745-baldis-basics-plus.json](./134745-baldis-basics-plus.json) |
 | Baldi's Basics: Encounter Doors | 353384 | [353384-baldis-basics-encounter-doors.json](./353384-baldis-basics-encounter-doors.json) |
 | Baldi's Farm! | 263665 | [263665-baldis-farm.json](./263665-baldis-farm.json) |
 | Baldies | 90071 | [90071-baldies.json](./90071-baldies.json) |
@@ -10585,6 +10586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Blast | 108220 | [108220-boom-blast.json](./108220-boom-blast.json) |
 | Boom Blaster | 100891 | [100891-boom-blaster.json](./100891-boom-blaster.json) |
 | Boom Block | 108733 | [108733-boom-block.json](./108733-boom-block.json) |
+| Boom Blox Bash Party | 2260 | [2260-boom-blox-bash-party.json](./2260-boom-blox-bash-party.json) |
 | Boom Boom Bovine | 120118 | [120118-boom-boom-bovine.json](./120118-boom-boom-bovine.json) |
 | Boom Boom Hamster Doom | 344168 | [344168-boom-boom-hamster-doom.json](./344168-boom-boom-hamster-doom.json) |
 | Boom Boom Rocket | 16742 | [16742-boom-boom-rocket.json](./16742-boom-boom-rocket.json) |
@@ -14358,6 +14360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buried Memories | 317448 | [317448-buried-memories.json](./317448-buried-memories.json) |
 | Buried Shards | 277760 | [277760-buried-shards.json](./277760-buried-shards.json) |
 | Buried Spirits | 383038 | [383038-buried-spirits.json](./383038-buried-spirits.json) |
+| Buried Stars | 137192 | [137192-buried-stars.json](./137192-buried-stars.json) |
 | Buried: An Interactive Story | 33689 | [33689-buried-an-interactive-story.json](./33689-buried-an-interactive-story.json) |
 | BuriedTown | 33786 | [33786-buriedtown.json](./33786-buriedtown.json) |
 | Buriki One | 28139 | [28139-buriki-one.json](./28139-buriki-one.json) |
