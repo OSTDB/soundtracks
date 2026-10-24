@@ -2932,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gettysburg: The Turning Point | 26396 | [26396-gettysburg-the-turning-point.json](./26396-gettysburg-the-turning-point.json) |
 | Geunyeoneun Baekseolgongju | 234636 | [234636-geunyeoneun-baekseolgongju.json](./234636-geunyeoneun-baekseolgongju.json) |
 | Gevaudan | 41106 | [41106-gevaudan.json](./41106-gevaudan.json) |
+| Gex | 4309 | [4309-gex.json](./4309-gex.json) |
 | Gex 3: Deep Cover Gecko | 210294 | [210294-gex-3-deep-cover-gecko.json](./210294-gex-3-deep-cover-gecko.json) |
 | Gex 3: Deep Cover Gecko | 3505 | [3505-gex-3-deep-cover-gecko.json](./3505-gex-3-deep-cover-gecko.json) |
 | Gex 3: Deep Pocket Gecko | 49929 | [49929-gex-3-deep-pocket-gecko.json](./49929-gex-3-deep-pocket-gecko.json) |
