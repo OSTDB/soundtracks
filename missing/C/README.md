@@ -2195,6 +2195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival | 277196 | [277196-carnival.json](./277196-carnival.json) |
 | Carnival | 277204 | [277204-carnival.json](./277204-carnival.json) |
 | Carnival | 297810 | [297810-carnival.json](./297810-carnival.json) |
+| Carnival | 5666 | [5666-carnival.json](./5666-carnival.json) |
 | Carnival and Girls | 170915 | [170915-carnival-and-girls.json](./170915-carnival-and-girls.json) |
 | Carnival Cruise Line Tycoon 2005: Island Hopping | 23565 | [23565-carnival-cruise-line-tycoon-2005-island-hopping.json](./23565-carnival-cruise-line-tycoon-2005-island-hopping.json) |
 | Carnival Games | 108759 | [108759-carnival-games.json](./108759-carnival-games.json) |
@@ -6666,6 +6667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Refugia | 213401 | [213401-chronicles-of-refugia.json](./213401-chronicles-of-refugia.json) |
 | Chronicles of Sarval: Bridges of Koni | 173052 | [173052-chronicles-of-sarval-bridges-of-koni.json](./173052-chronicles-of-sarval-bridges-of-koni.json) |
 | Chronicles of TalDun: The Longing | 239787 | [239787-chronicles-of-taldun-the-longing.json](./239787-chronicles-of-taldun-the-longing.json) |
+| Chronicles of Teddy: Harmony of Exidus | 19391 | [19391-chronicles-of-teddy-harmony-of-exidus.json](./19391-chronicles-of-teddy-harmony-of-exidus.json) |
 | Chronicles of the Celestial Way | 347221 | [347221-chronicles-of-the-celestial-way.json](./347221-chronicles-of-the-celestial-way.json) |
 | Chronicles of the Great Wilderness | 339109 | [339109-chronicles-of-the-great-wilderness.json](./339109-chronicles-of-the-great-wilderness.json) |
 | Chronicles of the Mattock | 181676 | [181676-chronicles-of-the-mattock.json](./181676-chronicles-of-the-mattock.json) |
@@ -9381,6 +9383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Gay Sex: Episode 7 | 371061 | [371061-college-gay-sex-episode-7.json](./371061-college-gay-sex-episode-7.json) |
 | College Gay Sex: Episode 8 | 371063 | [371063-college-gay-sex-episode-8.json](./371063-college-gay-sex-episode-8.json) |
 | College Hoops 2K6 | 5782 | [5782-college-hoops-2k6.json](./5782-college-hoops-2k6.json) |
+| College Hoops 2K7 | 5783 | [5783-college-hoops-2k7.json](./5783-college-hoops-2k7.json) |
 | College Investigation | 91196 | [91196-college-investigation.json](./91196-college-investigation.json) |
 | College Kings 2: Episode 1 | 196041 | [196041-college-kings-2-episode-1.json](./196041-college-kings-2-episode-1.json) |
 | College Kings 2: Episode 2 "The Pool Party" Reworked | 354495 | [354495-college-kings-2-episode-2-the-pool-party-reworked.json](./354495-college-kings-2-episode-2-the-pool-party-reworked.json) |
@@ -13830,6 +13833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Opera Fandisk: The Caterpillar Candids | 330602 | [330602-crime-opera-fandisk-the-caterpillar-candids.json](./330602-crime-opera-fandisk-the-caterpillar-candids.json) |
 | Crime or Punishment | 294001 | [294001-crime-or-punishment.json](./294001-crime-or-punishment.json) |
 | Crime Passional | 236286 | [236286-crime-passional.json](./236286-crime-passional.json) |
+| Crime Patrol | 5373 | [5373-crime-patrol.json](./5373-crime-patrol.json) |
 | Crime Patrol 2: Drug Wars | 4242 | [4242-crime-patrol-2-drug-wars.json](./4242-crime-patrol-2-drug-wars.json) |
 | Crime Pays | 258530 | [258530-crime-pays.json](./258530-crime-pays.json) |
 | Crime Podcast: 1976 | 420520 | [420520-crime-podcast-1976.json](./420520-crime-podcast-1976.json) |
