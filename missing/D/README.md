@@ -11842,6 +11842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot - Special Edition | 233937 | [233937-dragon-ball-z-kakarot-special-edition.json](./233937-dragon-ball-z-kakarot-special-edition.json) |
 | Dragon Ball Z: Kakarot - Ultimate Edition | 136271 | [136271-dragon-ball-z-kakarot-ultimate-edition.json](./136271-dragon-ball-z-kakarot-ultimate-edition.json) |
 | Dragon Ball Z: Kakarot - Ultimate Special Edition | 233943 | [233943-dragon-ball-z-kakarot-ultimate-special-edition.json](./233943-dragon-ball-z-kakarot-ultimate-special-edition.json) |
+| Dragon Ball Z: Kakarot + A New Power Awakens Set | 152394 | [152394-dragon-ball-z-kakarot-a-new-power-awakens-set.json](./152394-dragon-ball-z-kakarot-a-new-power-awakens-set.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Deluxe Edition | 237860 | [237860-dragon-ball-z-kakarot-a-new-power-awakens-set-deluxe-edition.json](./237860-dragon-ball-z-kakarot-a-new-power-awakens-set-deluxe-edition.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Goku's Next Journey | 288303 | [288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json](./288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Legendary Edition | 232992 | [232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json](./232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json) |
@@ -14519,6 +14520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Builder S | 44199 | [44199-dungeon-builder-s.json](./44199-dungeon-builder-s.json) |
 | Dungeon Buster Ex-Plores | 66169 | [66169-dungeon-buster-ex-plores.json](./66169-dungeon-buster-ex-plores.json) |
 | Dungeon Campaign | 24803 | [24803-dungeon-campaign.json](./24803-dungeon-campaign.json) |
+| Dungeon Cards | 127627 | [127627-dungeon-cards.json](./127627-dungeon-cards.json) |
 | Dungeon Chess | 28546 | [28546-dungeon-chess.json](./28546-dungeon-chess.json) |
 | Dungeon Chest | 123847 | [123847-dungeon-chest.json](./123847-dungeon-chest.json) |
 | Dungeon Chop Chop | 82020 | [82020-dungeon-chop-chop.json](./82020-dungeon-chop-chop.json) |
@@ -15113,6 +15115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DungeonSlime | 195708 | [195708-dungeonslime.json](./195708-dungeonslime.json) |
 | DungeonSquad | 223615 | [223615-dungeonsquad.json](./223615-dungeonsquad.json) |
 | DungeonTomb | 291915 | [291915-dungeontomb.json](./291915-dungeontomb.json) |
+| DungeonTop: Spell Sword Cards | 127610 | [127610-dungeontop-spell-sword-cards.json](./127610-dungeontop-spell-sword-cards.json) |
 | DungeonTracks: In Charms Way | 184626 | [184626-dungeontracks-in-charms-way.json](./184626-dungeontracks-in-charms-way.json) |
 | DungeonUp | 34808 | [34808-dungeonup.json](./34808-dungeonup.json) |
 | Dungetris | 32981 | [32981-dungetris.json](./32981-dungetris.json) |
