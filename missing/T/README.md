@@ -4627,6 +4627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Tintin: Prisoners of the Sun | 42588 | [42588-the-adventures-of-tintin-prisoners-of-the-sun.json](./42588-the-adventures-of-tintin-prisoners-of-the-sun.json) |
 | The Adventures of Tintin: Prisoners of the Sun | 50042 | [50042-the-adventures-of-tintin-prisoners-of-the-sun.json](./50042-the-adventures-of-tintin-prisoners-of-the-sun.json) |
 | The Adventures of Tintin: The Game | 6473 | [6473-the-adventures-of-tintin-the-game.json](./6473-the-adventures-of-tintin-the-game.json) |
+| The Adventures of Tree | 35630 | [35630-the-adventures-of-tree.json](./35630-the-adventures-of-tree.json) |
 | The Adventures of Valdo and Marie | 56968 | [56968-the-adventures-of-valdo-and-marie.json](./56968-the-adventures-of-valdo-and-marie.json) |
 | The Adventures of Victor & Garu | 22133 | [22133-the-adventures-of-victor-and-garu.json](./22133-the-adventures-of-victor-and-garu.json) |
 | The Adventures of Victor and Garu | 22091 | [22091-the-adventures-of-victor-and-garu.json](./22091-the-adventures-of-victor-and-garu.json) |
@@ -4637,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aether II | 245708 | [245708-the-aether-ii.json](./245708-the-aether-ii.json) |
 | The Aetherlight: Chronicles of the Resistance | 58583 | [58583-the-aetherlight-chronicles-of-the-resistance.json](./58583-the-aetherlight-chronicles-of-the-resistance.json) |
 | The Aethra Chronicles, Volume One: Celystra's Bane | 70125 | [70125-the-aethra-chronicles-volume-one-celystras-bane.json](./70125-the-aethra-chronicles-volume-one-celystras-bane.json) |
+| The Afterglow of Grisaia | 32956 | [32956-the-afterglow-of-grisaia.json](./32956-the-afterglow-of-grisaia.json) |
 | The Afterlife Cafe | 367948 | [367948-the-afterlife-cafe.json](./367948-the-afterlife-cafe.json) |
 | The Aftermath: Unnatural Selection | 127011 | [127011-the-aftermath-unnatural-selection.json](./127011-the-aftermath-unnatural-selection.json) |
 | The Afterwoods | 72352 | [72352-the-afterwoods.json](./72352-the-afterwoods.json) |
@@ -10184,6 +10186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Knight Templar | 72567 | [72567-the-legend-of-knight-templar.json](./72567-the-legend-of-knight-templar.json) |
 | The Legend of Korra | 7877 | [7877-the-legend-of-korra.json](./7877-the-legend-of-korra.json) |
 | The Legend of Korra: A New Era Begins | 7996 | [7996-the-legend-of-korra-a-new-era-begins.json](./7996-the-legend-of-korra-a-new-era-begins.json) |
+| The Legend of Kusakari | 23421 | [23421-the-legend-of-kusakari.json](./23421-the-legend-of-kusakari.json) |
 | The Legend of Kyrandia | 1282 | [1282-the-legend-of-kyrandia.json](./1282-the-legend-of-kyrandia.json) |
 | The Legend of Legacy | 11317 | [11317-the-legend-of-legacy.json](./11317-the-legend-of-legacy.json) |
 | The Legend of Legacy: HD Remastered | 268421 | [268421-the-legend-of-legacy-hd-remastered.json](./268421-the-legend-of-legacy-hd-remastered.json) |
@@ -10456,6 +10459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legion of Maelstrom | 148802 | [148802-the-legion-of-maelstrom.json](./148802-the-legion-of-maelstrom.json) |
 | The Legion: FringeBound | 118028 | [118028-the-legion-fringebound.json](./118028-the-legion-fringebound.json) |
 | The Legions of Rome | 31353 | [31353-the-legions-of-rome.json](./31353-the-legions-of-rome.json) |
+| The LEGO Batman Movie Game | 80782 | [80782-the-lego-batman-movie-game.json](./80782-the-lego-batman-movie-game.json) |
 | The LEGO Games Bundle | 164574 | [164574-the-lego-games-bundle.json](./164574-the-lego-games-bundle.json) |
 | The LEGO Movie 2 Videogame | 112674 | [112674-the-lego-movie-2-videogame.json](./112674-the-lego-movie-2-videogame.json) |
 | The LEGO Movie 2 Videogame: Galactic Adventures Character & Level Pack | 238013 | [238013-the-lego-movie-2-videogame-galactic-adventures-character-and-level-pack.json](./238013-the-lego-movie-2-videogame-galactic-adventures-character-and-level-pack.json) |
@@ -10868,6 +10872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Sky | 102928 | [102928-the-lost-sky.json](./102928-the-lost-sky.json) |
 | The Lost Skywhales | 182976 | [182976-the-lost-skywhales.json](./182976-the-lost-skywhales.json) |
 | The Lost Son | 261886 | [261886-the-lost-son.json](./261886-the-lost-son.json) |
+| The Lost Souls | 33236 | [33236-the-lost-souls.json](./33236-the-lost-souls.json) |
 | The Lost Streamer | 413791 | [413791-the-lost-streamer.json](./413791-the-lost-streamer.json) |
 | The Lost Strings | 121449 | [121449-the-lost-strings.json](./121449-the-lost-strings.json) |
 | The Lost Temple | 276398 | [276398-the-lost-temple.json](./276398-the-lost-temple.json) |
@@ -10883,6 +10888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Uncle | 236334 | [236334-the-lost-uncle.json](./236334-the-lost-uncle.json) |
 | The Lost Valley | 171490 | [171490-the-lost-valley.json](./171490-the-lost-valley.json) |
 | The Lost Valley | 252295 | [252295-the-lost-valley.json](./252295-the-lost-valley.json) |
+| The Lost Valley | 35429 | [35429-the-lost-valley.json](./35429-the-lost-valley.json) |
 | The Lost Vikings | 214736 | [214736-the-lost-vikings.json](./214736-the-lost-vikings.json) |
 | The Lost Vikings | 214769 | [214769-the-lost-vikings.json](./214769-the-lost-vikings.json) |
 | The Lost Vikings | 454 | [454-the-lost-vikings.json](./454-the-lost-vikings.json) |
@@ -11150,6 +11156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Meek Mirtho | 385589 | [385589-the-meek-mirtho.json](./385589-the-meek-mirtho.json) |
 | The Mega FMV Bundle | 243800 | [243800-the-mega-fmv-bundle.json](./243800-the-mega-fmv-bundle.json) |
 | The Meldstorm | 129002 | [129002-the-meldstorm.json](./129002-the-meldstorm.json) |
+| The Melody of Grisaia | 32910 | [32910-the-melody-of-grisaia.json](./32910-the-melody-of-grisaia.json) |
 | The Melting Apartment | 278282 | [278282-the-melting-apartment.json](./278282-the-melting-apartment.json) |
 | The Membrane | 403012 | [403012-the-membrane.json](./403012-the-membrane.json) |
 | The Meme Hunter | 238745 | [238745-the-meme-hunter.json](./238745-the-meme-hunter.json) |
@@ -21197,6 +21204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Extreme Wrestling 2004 | 73008 | [73008-total-extreme-wrestling-2004.json](./73008-total-extreme-wrestling-2004.json) |
 | Total Extreme Wrestling 2005 | 73007 | [73007-total-extreme-wrestling-2005.json](./73007-total-extreme-wrestling-2005.json) |
 | Total Extreme Wrestling 2008 | 73010 | [73010-total-extreme-wrestling-2008.json](./73010-total-extreme-wrestling-2008.json) |
+| Total Extreme Wrestling 2010 | 35871 | [35871-total-extreme-wrestling-2010.json](./35871-total-extreme-wrestling-2010.json) |
 | Total Extreme Wrestling 2013 | 31239 | [31239-total-extreme-wrestling-2013.json](./31239-total-extreme-wrestling-2013.json) |
 | Total Extreme Wrestling 2016 | 27681 | [27681-total-extreme-wrestling-2016.json](./27681-total-extreme-wrestling-2016.json) |
 | Total Extreme Wrestling 2020 | 134545 | [134545-total-extreme-wrestling-2020.json](./134545-total-extreme-wrestling-2020.json) |
