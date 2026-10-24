@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond 007: Nightfire | 290069 | [290069-james-bond-007-nightfire.json](./290069-james-bond-007-nightfire.json) |
 | James Bond 007: Quantum of Solace | 1646 | [1646-james-bond-007-quantum-of-solace.json](./1646-james-bond-007-quantum-of-solace.json) |
 | James Bond 007: Quantum of Solace | 52679 | [52679-james-bond-007-quantum-of-solace.json](./52679-james-bond-007-quantum-of-solace.json) |
+| James Bond 007: The Duel | 1637 | [1637-james-bond-007-the-duel.json](./1637-james-bond-007-the-duel.json) |
 | James Bond 007: The Living Daylights | 44099 | [44099-james-bond-007-the-living-daylights.json](./44099-james-bond-007-the-living-daylights.json) |
 | James Bond 007: The Spy Who Loved Me | 44098 | [44098-james-bond-007-the-spy-who-loved-me.json](./44098-james-bond-007-the-spy-who-loved-me.json) |
 | James Bond 007: The Stealth Affair | 1636 | [1636-james-bond-007-the-stealth-affair.json](./1636-james-bond-007-the-stealth-affair.json) |
@@ -2329,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the Rift | 310830 | [310830-journey-to-the-rift.json](./310830-journey-to-the-rift.json) |
 | Journey to the Savage Planet | 113108 | [113108-journey-to-the-savage-planet.json](./113108-journey-to-the-savage-planet.json) |
 | Journey to the Savage Planet: Employee of the Month Edition | 143481 | [143481-journey-to-the-savage-planet-employee-of-the-month-edition.json](./143481-journey-to-the-savage-planet-employee-of-the-month-edition.json) |
+| Journey to the Savage Planet: Hot Garbage | 132870 | [132870-journey-to-the-savage-planet-hot-garbage.json](./132870-journey-to-the-savage-planet-hot-garbage.json) |
 | Journey to the Wand | 279515 | [279515-journey-to-the-wand.json](./279515-journey-to-the-wand.json) |
 | Journey to the West | 195043 | [195043-journey-to-the-west.json](./195043-journey-to-the-west.json) |
 | Journey to the West | 274550 | [274550-journey-to-the-west.json](./274550-journey-to-the-west.json) |
@@ -2697,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Queen | 266119 | [266119-jump-queen.json](./266119-jump-queen.json) |
 | Jump Race | 324998 | [324998-jump-race.json](./324998-jump-race.json) |
 | Jump Room | 261164 | [261164-jump-room.json](./261164-jump-room.json) |
+| Jump Rope Challenge | 135104 | [135104-jump-rope-challenge.json](./135104-jump-rope-challenge.json) |
 | Jump Runner | 200543 | [200543-jump-runner.json](./200543-jump-runner.json) |
 | Jump Shot | 46858 | [46858-jump-shot.json](./46858-jump-shot.json) |
 | Jump Sky-High Collection | 334097 | [334097-jump-sky-high-collection.json](./334097-jump-sky-high-collection.json) |
