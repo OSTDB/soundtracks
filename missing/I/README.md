@@ -2892,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infector | 184464 | [184464-infector.json](./184464-infector.json) |
 | Infectra | 146752 | [146752-infectra.json](./146752-infectra.json) |
 | Infees | 152904 | [152904-infees.json](./152904-infees.json) |
+| Infektor | 30561 | [30561-infektor.json](./30561-infektor.json) |
 | Inferiae | 399001 | [399001-inferiae.json](./399001-inferiae.json) |
 | Inferis: Dead Below | 359923 | [359923-inferis-dead-below.json](./359923-inferis-dead-below.json) |
 | Inferius | 272351 | [272351-inferius.json](./272351-inferius.json) |
@@ -4286,6 +4287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intruder in Antiquonia | 178382 | [178382-intruder-in-antiquonia.json](./178382-intruder-in-antiquonia.json) |
 | Intruder on the Bridge | 173839 | [173839-intruder-on-the-bridge.json](./173839-intruder-on-the-bridge.json) |
 | Intruder: Sakura Yashiki no Tansaku | 71983 | [71983-intruder-sakura-yashiki-no-tansaku.json](./71983-intruder-sakura-yashiki-no-tansaku.json) |
+| Intruder: War Areas | 30495 | [30495-intruder-war-areas.json](./30495-intruder-war-areas.json) |
 | Intruders | 110244 | [110244-intruders.json](./110244-intruders.json) |
 | Intrusion 2 | 6277 | [6277-intrusion-2.json](./6277-intrusion-2.json) |
 | Intrusion of Alice | 223175 | [223175-intrusion-of-alice.json](./223175-intrusion-of-alice.json) |
@@ -5206,6 +5208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isuta no Usagi | 295627 | [295627-isuta-no-usagi.json](./295627-isuta-no-usagi.json) |
 | iSwinging 2 | 101611 | [101611-iswinging-2.json](./101611-iswinging-2.json) |
 | iSwinging 2 - Record Breakers | 90498 | [90498-iswinging-2-record-breakers.json](./90498-iswinging-2-record-breakers.json) |
+| Isyium | 30551 | [30551-isyium.json](./30551-isyium.json) |
 | It Ain’t Over Till the Fat Lady Sings | 394635 | [394635-it-ain-t-over-till-the-fat-lady-sings.json](./394635-it-ain-t-over-till-the-fat-lady-sings.json) |
 | It All Boils Down to This | 184125 | [184125-it-all-boils-down-to-this.json](./184125-it-all-boils-down-to-this.json) |
 | It All Revolves Around You | 59781 | [59781-it-all-revolves-around-you.json](./59781-it-all-revolves-around-you.json) |
