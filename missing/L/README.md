@@ -1541,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazarus Doom | 198354 | [198354-lazarus-doom.json](./198354-lazarus-doom.json) |
 | Lazer Bykes | 94653 | [94653-lazer-bykes.json](./94653-lazer-bykes.json) |
 | Lazer Command | 40335 | [40335-lazer-command.json](./40335-lazer-command.json) |
+| Lazer Cycle | 8399 | [8399-lazer-cycle.json](./8399-lazer-cycle.json) |
 | Lazer Force | 53161 | [53161-lazer-force.json](./53161-lazer-force.json) |
 | Lazer Tag | 54536 | [54536-lazer-tag.json](./54536-lazer-tag.json) |
 | Lazer Tag Arena | 340907 | [340907-lazer-tag-arena.json](./340907-lazer-tag-arena.json) |
@@ -1878,7 +1879,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaving | 154622 | [154622-leaving.json](./154622-leaving.json) |
 | Leaving | 195532 | [195532-leaving.json](./195532-leaving.json) |
 | Leaving L.A. | 273138 | [273138-leaving-l-a.json](./273138-leaving-l-a.json) |
-| Leaving Lyndow | 27139 | [27139-leaving-lyndow.json](./27139-leaving-lyndow.json) |
 | Leaving The Hospital | 296240 | [296240-leaving-the-hospital.json](./296240-leaving-the-hospital.json) |
 | Leaving Whisper at Night | 326283 | [326283-leaving-whisper-at-night.json](./326283-leaving-whisper-at-night.json) |
 | Lecon De Cuisine: Qu'allons-Nous Manager? | 147311 | [147311-lecon-de-cuisine-quallons-nous-manager.json](./147311-lecon-de-cuisine-quallons-nous-manager.json) |
