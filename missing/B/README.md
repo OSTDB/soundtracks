@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2679,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Begins: Fast Pursuit | 245554 | [245554-batman-begins-fast-pursuit.json](./245554-batman-begins-fast-pursuit.json) |
 | Batman Begins: Fear the Bat | 245553 | [245553-batman-begins-fear-the-bat.json](./245553-batman-begins-fear-the-bat.json) |
 | Batman Beyond: Return of the Joker | 248765 | [248765-batman-beyond-return-of-the-joker.json](./248765-batman-beyond-return-of-the-joker.json) |
+| Batman Beyond: Return of the Joker | 3444 | [3444-batman-beyond-return-of-the-joker.json](./3444-batman-beyond-return-of-the-joker.json) |
 | Batman Doom | 138788 | [138788-batman-doom.json](./138788-batman-doom.json) |
 | Batman Forever | 20809 | [20809-batman-forever.json](./20809-batman-forever.json) |
 | Batman Forever | 77237 | [77237-batman-forever.json](./77237-batman-forever.json) |
@@ -2695,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Asylum - Game of the Year Edition | 27862 | [27862-batman-arkham-asylum-game-of-the-year-edition.json](./27862-batman-arkham-asylum-game-of-the-year-edition.json) |
 | Batman: Arkham Asylum - Play as the Joker Challenge Map | 25993 | [25993-batman-arkham-asylum-play-as-the-joker-challenge-map.json](./25993-batman-arkham-asylum-play-as-the-joker-challenge-map.json) |
 | Batman: Arkham City - Batman Inc. Batsuit Skin | 138111 | [138111-batman-arkham-city-batman-inc-batsuit-skin.json](./138111-batman-arkham-city-batman-inc-batsuit-skin.json) |
+| Batman: Arkham City - Catwoman Bundle | 26116 | [26116-batman-arkham-city-catwoman-bundle.json](./26116-batman-arkham-city-catwoman-bundle.json) |
 | Batman: Arkham City - Game of the Year Edition | 21704 | [21704-batman-arkham-city-game-of-the-year-edition.json](./21704-batman-arkham-city-game-of-the-year-edition.json) |
 | Batman: Arkham City - Harley Quinn's Revenge | 18442 | [18442-batman-arkham-city-harley-quinns-revenge.json](./18442-batman-arkham-city-harley-quinns-revenge.json) |
 | Batman: Arkham City - The Arkham Bundle | 138112 | [138112-batman-arkham-city-the-arkham-bundle.json](./138112-batman-arkham-city-the-arkham-bundle.json) |
@@ -2899,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Chess II: Chinese Chess | 11098 | [11098-battle-chess-ii-chinese-chess.json](./11098-battle-chess-ii-chinese-chess.json) |
 | Battle Chess: Special Edition | 51707 | [51707-battle-chess-special-edition.json](./51707-battle-chess-special-edition.json) |
 | Battle Chopper | 38542 | [38542-battle-chopper.json](./38542-battle-chopper.json) |
+| Battle Circuit | 38545 | [38545-battle-circuit.json](./38545-battle-circuit.json) |
 | Battle City | 4596 | [4596-battle-city.json](./4596-battle-city.json) |
 | Battle Clash | 283977 | [283977-battle-clash.json](./283977-battle-clash.json) |
 | Battle Clash | 42735 | [42735-battle-clash.json](./42735-battle-clash.json) |
@@ -4002,6 +4006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 4 | 357869 | [357869-bear-vs-wolf-jigsaw-puzzle-expansion-pack-4.json](./357869-bear-vs-wolf-jigsaw-puzzle-expansion-pack-4.json) |
 | Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 5 | 357870 | [357870-bear-vs-wolf-jigsaw-puzzle-expansion-pack-5.json](./357870-bear-vs-wolf-jigsaw-puzzle-expansion-pack-5.json) |
 | Bear Warrior | 306813 | [306813-bear-warrior.json](./306813-bear-warrior.json) |
+| Bear With Me | 22397 | [22397-bear-with-me.json](./22397-bear-with-me.json) |
 | Bear With Me: Episode 1 | 127135 | [127135-bear-with-me-episode-1.json](./127135-bear-with-me-episode-1.json) |
 | Bear With Me: Episode 2 | 127136 | [127136-bear-with-me-episode-2.json](./127136-bear-with-me-episode-2.json) |
 | Bear With Me: Episode 3 | 127137 | [127137-bear-with-me-episode-3.json](./127137-bear-with-me-episode-3.json) |
@@ -7759,6 +7764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blame him | 111802 | [111802-blame-him.json](./111802-blame-him.json) |
 | Blame the Intern | 185369 | [185369-blame-the-intern.json](./185369-blame-the-intern.json) |
 | BlameChat | 415969 | [415969-blamechat.json](./415969-blamechat.json) |
+| Blameless | 25847 | [25847-blameless.json](./25847-blameless.json) |
 | Blanc | 206812 | [206812-blanc.json](./206812-blanc.json) |
 | Blanche | 184566 | [184566-blanche.json](./184566-blanche.json) |
 | Blanco: The Color of Adventure | 23960 | [23960-blanco-the-color-of-adventure.json](./23960-blanco-the-color-of-adventure.json) |
