@@ -6910,6 +6910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CIA Operative: Solo Missions | 71228 | [71228-cia-operative-solo-missions.json](./71228-cia-operative-solo-missions.json) |
 | Ciao Bella: la Bella Romanza | 133957 | [133957-ciao-bella-la-bella-romanza.json](./133957-ciao-bella-la-bella-romanza.json) |
 | Ciao Pizza: Cooking Chaos | 415254 | [415254-ciao-pizza-cooking-chaos.json](./415254-ciao-pizza-cooking-chaos.json) |
+| Cibele | 14702 | [14702-cibele.json](./14702-cibele.json) |
 | Cicada Springs | 248714 | [248714-cicada-springs.json](./248714-cicada-springs.json) |
 | Cicadamata" | 377768 | [377768-cicadamata.json](./377768-cicadamata.json) |
 | Cicadas | 61599 | [61599-cicadas.json](./61599-cicadas.json) |
@@ -6959,6 +6960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderella's Spark | 184037 | [184037-cinderellas-spark.json](./184037-cinderellas-spark.json) |
 | Cinderline | 392394 | [392394-cinderline.json](./392394-cinderline.json) |
 | Cinders | 196163 | [196163-cinders.json](./196163-cinders.json) |
+| Cinders | 9723 | [9723-cinders.json](./9723-cinders.json) |
 | Cinderscratch | 349820 | [349820-cinderscratch.json](./349820-cinderscratch.json) |
 | Cinderstone Online | 132149 | [132149-cinderstone-online.json](./132149-cinderstone-online.json) |
 | Cindy's Caribbean Holiday | 278862 | [278862-cindys-caribbean-holiday.json](./278862-cindys-caribbean-holiday.json) |
