@@ -2080,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elixirs | 274561 | [274561-elixirs.json](./274561-elixirs.json) |
 | Eliza | 345129 | [345129-eliza.json](./345129-eliza.json) |
 | Elizabeth | 130081 | [130081-elizabeth.json](./130081-elizabeth.json) |
+| Elizabeth Find M.D.: Diagnosis Mystery - Season 2 | 14968 | [14968-elizabeth-find-m-d-diagnosis-mystery-season-2.json](./14968-elizabeth-find-m-d-diagnosis-mystery-season-2.json) |
 | Elizord's Tale | 250478 | [250478-elizords-tale.json](./250478-elizords-tale.json) |
 | Elk Attack | 282714 | [282714-elk-attack.json](./282714-elk-attack.json) |
 | Elk Simulator | 158565 | [158565-elk-simulator.json](./158565-elk-simulator.json) |
@@ -5768,8 +5769,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evocation 2: The Dream | 262409 | [262409-evocation-2-the-dream.json](./262409-evocation-2-the-dream.json) |
 | Evocation: Beyond the Dream | 262408 | [262408-evocation-beyond-the-dream.json](./262408-evocation-beyond-the-dream.json) |
 | Evocation: Oltre il Sogno | 242533 | [242533-evocation-oltre-il-sogno.json](./242533-evocation-oltre-il-sogno.json) |
+| Evochron Alliance | 15116 | [15116-evochron-alliance.json](./15116-evochron-alliance.json) |
 | Evochron Legacy | 34560 | [34560-evochron-legacy.json](./34560-evochron-legacy.json) |
+| Evochron Legends | 15118 | [15118-evochron-legends.json](./15118-evochron-legends.json) |
 | Evochron Mobile | 188288 | [188288-evochron-mobile.json](./188288-evochron-mobile.json) |
+| Evochron Renegades | 15117 | [15117-evochron-renegades.json](./15117-evochron-renegades.json) |
 | EvoGene | 248314 | [248314-evogene.json](./248314-evogene.json) |
 | Evoids | 331434 | [331434-evoids.json](./331434-evoids.json) |
 | Evoke | 111613 | [111613-evoke.json](./111613-evoke.json) |
