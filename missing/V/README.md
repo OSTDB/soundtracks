@@ -3325,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Football | 214596 | [214596-vs-football.json](./214596-vs-football.json) |
 | Vs. Football | 246485 | [246485-vs-football.json](./246485-vs-football.json) |
 | Vs. From Below | 186594 | [186594-vs-from-below.json](./186594-vs-from-below.json) |
+| Vs. Golf | 40540 | [40540-vs-golf.json](./40540-vs-golf.json) |
 | Vs. Gradius | 214578 | [214578-vs-gradius.json](./214578-vs-gradius.json) |
 | Vs. Great Tennis | 214599 | [214599-vs-great-tennis.json](./214599-vs-great-tennis.json) |
 | Vs. Head to Head Baseball | 214598 | [214598-vs-head-to-head-baseball.json](./214598-vs-head-to-head-baseball.json) |
@@ -3343,8 +3344,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Platoon | 214593 | [214593-vs-platoon.json](./214593-vs-platoon.json) |
 | Vs. Puyo Puyo Sun | 215749 | [215749-vs-puyo-puyo-sun.json](./215749-vs-puyo-puyo-sun.json) |
 | Vs. Racing | 259071 | [259071-vs-racing.json](./259071-vs-racing.json) |
+| Vs. Raid on Bungeling Bay | 40545 | [40545-vs-raid-on-bungeling-bay.json](./40545-vs-raid-on-bungeling-bay.json) |
 | Vs. RetroSpecter P2: Infernadise | 378156 | [378156-vs-retrospecter-p2-infernadise.json](./378156-vs-retrospecter-p2-infernadise.json) |
 | Vs. Self | 311143 | [311143-vs-self.json](./311143-vs-self.json) |
+| Vs. Slalom | 40543 | [40543-vs-slalom.json](./40543-vs-slalom.json) |
+| Vs. Soccer | 40542 | [40542-vs-soccer.json](./40542-vs-soccer.json) |
 | Vs. Star Luster | 214576 | [214576-vs-star-luster.json](./214576-vs-star-luster.json) |
 | Vs. Super Chinese | 214579 | [214579-vs-super-chinese.json](./214579-vs-super-chinese.json) |
 | Vs. Super Mario Bros. | 92342 | [92342-vs-super-mario-bros.json](./92342-vs-super-mario-bros.json) |
