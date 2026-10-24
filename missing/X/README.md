@@ -393,8 +393,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xain'd Sleena: Soldier of Light | 12854 | [12854-xaind-sleena-soldier-of-light.json](./12854-xaind-sleena-soldier-of-light.json) |
 | XAirports | 103931 | [103931-xairports.json](./103931-xairports.json) |
 | Xak I + II | 42006 | [42006-xak-i-ii.json](./42006-xak-i-ii.json) |
+| Xak II: Rising of the Redmoon | 41768 | [41768-xak-ii-rising-of-the-redmoon.json](./41768-xak-ii-rising-of-the-redmoon.json) |
 | Xak III: The Eternal Recurrence | 37606 | [37606-xak-iii-the-eternal-recurrence.json](./37606-xak-iii-the-eternal-recurrence.json) |
+| Xak Precious Package: The Tower of Gazzel | 41775 | [41775-xak-precious-package-the-tower-of-gazzel.json](./41775-xak-precious-package-the-tower-of-gazzel.json) |
 | Xak: The Art of Visual Stage | 377091 | [377091-xak-the-art-of-visual-stage.json](./377091-xak-the-art-of-visual-stage.json) |
+| Xak: The Art of Visual Stage | 41769 | [41769-xak-the-art-of-visual-stage.json](./41769-xak-the-art-of-visual-stage.json) |
 | Xalx no Monshou 98 | 92120 | [92120-xalx-no-monshou-98.json](./92120-xalx-no-monshou-98.json) |
 | Xam | 107154 | [107154-xam.json](./107154-xam.json) |
 | Xam Delivery | 414095 | [414095-xam-delivery.json](./414095-xam-delivery.json) |
@@ -903,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xyphoes Fantasy | 10854 | [10854-xyphoes-fantasy.json](./10854-xyphoes-fantasy.json) |
 | Xyphr | 71812 | [71812-xyphr.json](./71812-xyphr.json) |
 | Xyz Crossing | 214149 | [214149-xyz-crossing.json](./214149-xyz-crossing.json) |
+| Xyzolog | 41766 | [41766-xyzolog.json](./41766-xyzolog.json) |
 | Xyzygy | 184075 | [184075-xyzygy.json](./184075-xyzygy.json) |
 | XZ: XL | 102291 | [102291-xz-xl.json](./102291-xz-xl.json) |
 | XZR II: Kanketsu-hen | 191664 | [191664-xzr-ii-kanketsu-hen.json](./191664-xzr-ii-kanketsu-hen.json) |
