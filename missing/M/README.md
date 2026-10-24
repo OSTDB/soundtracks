@@ -5611,6 +5611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Heroes | 1312 | [1312-medal-of-honor-heroes.json](./1312-medal-of-honor-heroes.json) |
 | Medal of Honor: Pacific Assault - Director's Edition | 131852 | [131852-medal-of-honor-pacific-assault-directors-edition.json](./131852-medal-of-honor-pacific-assault-directors-edition.json) |
 | Medal of Honor: Tier 1 Edition | 47463 | [47463-medal-of-honor-tier-1-edition.json](./47463-medal-of-honor-tier-1-edition.json) |
+| Medal of Honor: Vanguard | 1313 | [1313-medal-of-honor-vanguard.json](./1313-medal-of-honor-vanguard.json) |
 | Medal of Honor: Warfighter | 1306 | [1306-medal-of-honor-warfighter.json](./1306-medal-of-honor-warfighter.json) |
 | Medal of Honor: Warfighter - Digital Deluxe Edition | 202061 | [202061-medal-of-honor-warfighter-digital-deluxe-edition.json](./202061-medal-of-honor-warfighter-digital-deluxe-edition.json) |
 | Medal of Valor 4 | 105803 | [105803-medal-of-valor-4.json](./105803-medal-of-valor-4.json) |
