@@ -4262,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online Episode I & II | 9890 | [9890-phantasy-star-online-episode-i-and-ii.json](./9890-phantasy-star-online-episode-i-and-ii.json) |
 | Phantasy Star Online Episode I & II Plus | 79149 | [79149-phantasy-star-online-episode-i-and-ii-plus.json](./79149-phantasy-star-online-episode-i-and-ii-plus.json) |
 | Phantasy Star Online Ver. 2 | 45812 | [45812-phantasy-star-online-ver-2.json](./45812-phantasy-star-online-ver-2.json) |
+| Phantasy Star Portable | 21873 | [21873-phantasy-star-portable.json](./21873-phantasy-star-portable.json) |
 | Phantasy Star Portable 2 | 19256 | [19256-phantasy-star-portable-2.json](./19256-phantasy-star-portable-2.json) |
 | Phantasy Star Portable 2 Infinity | 79771 | [79771-phantasy-star-portable-2-infinity.json](./79771-phantasy-star-portable-2-infinity.json) |
 | Phantasy Star Universe | 7129 | [7129-phantasy-star-universe.json](./7129-phantasy-star-universe.json) |
@@ -6266,6 +6267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates: Golden tits - Chapter 1 | 212956 | [212956-pirates-golden-tits-chapter-1.json](./212956-pirates-golden-tits-chapter-1.json) |
 | Pirates: Legend of the Black Buccaneer | 11286 | [11286-pirates-legend-of-the-black-buccaneer.json](./11286-pirates-legend-of-the-black-buccaneer.json) |
 | Pirates: Mystery of the Skeletons Island | 133425 | [133425-pirates-mystery-of-the-skeletons-island.json](./133425-pirates-mystery-of-the-skeletons-island.json) |
+| Pirates: The Key of Dreams | 21827 | [21827-pirates-the-key-of-dreams.json](./21827-pirates-the-key-of-dreams.json) |
 | Pirates: The Legend of Black Kat | 5983 | [5983-pirates-the-legend-of-black-kat.json](./5983-pirates-the-legend-of-black-kat.json) |
 | Pirates: Tides of Fortune | 23592 | [23592-pirates-tides-of-fortune.json](./23592-pirates-tides-of-fortune.json) |
 | Pirates! | 267320 | [267320-pirates.json](./267320-pirates.json) |
@@ -6384,6 +6386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pivotal | 176151 | [176151-pivotal.json](./176151-pivotal.json) |
 | Pivoting People | 105942 | [105942-pivoting-people.json](./105942-pivoting-people.json) |
 | Pivross | 96125 | [96125-pivross.json](./96125-pivross.json) |
+| Pivvot | 17285 | [17285-pivvot.json](./17285-pivvot.json) |
 | Piwall | 81939 | [81939-piwall.json](./81939-piwall.json) |
 | Piworld | 318224 | [318224-piworld.json](./318224-piworld.json) |
 | Pix Arts Masters Tennis | 335083 | [335083-pix-arts-masters-tennis.json](./335083-pix-arts-masters-tennis.json) |
@@ -7026,6 +7029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelJunk Shooter Ultimate | 23431 | [23431-pixeljunk-shooter-ultimate.json](./23431-pixeljunk-shooter-ultimate.json) |
 | PixelJunk SideScroller | 20445 | [20445-pixeljunk-sidescroller.json](./20445-pixeljunk-sidescroller.json) |
 | PixelJunk VR: Dead Hungry | 27322 | [27322-pixeljunk-vr-dead-hungry.json](./27322-pixeljunk-vr-dead-hungry.json) |
+| PixelJunk: 4am | 21714 | [21714-pixeljunk-4am.json](./21714-pixeljunk-4am.json) |
 | PixelJunk: Scrappers Deluxe | 213499 | [213499-pixeljunk-scrappers-deluxe.json](./213499-pixeljunk-scrappers-deluxe.json) |
 | PixelMaker | 84816 | [84816-pixelmaker.json](./84816-pixelmaker.json) |
 | PixelMaker | 85345 | [85345-pixelmaker.json](./85345-pixelmaker.json) |
@@ -7141,6 +7145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piyo Puzz: Piyokoro x Puzzle | 328493 | [328493-piyo-puzz-piyokoro-x-puzzle.json](./328493-piyo-puzz-piyokoro-x-puzzle.json) |
 | Piyokoro | 280072 | [280072-piyokoro.json](./280072-piyokoro.json) |
 | Piyopoyon | 394481 | [394481-piyopoyon.json](./394481-piyopoyon.json) |
+| Piyotama | 21882 | [21882-piyotama.json](./21882-piyotama.json) |
 | Pizz'Amore | 304233 | [304233-pizzamore.json](./304233-pizzamore.json) |
 | Pizza Apocalypse | 169748 | [169748-pizza-apocalypse.json](./169748-pizza-apocalypse.json) |
 | Pizza at Resort 64 | 394367 | [394367-pizza-at-resort-64.json](./394367-pizza-at-resort-64.json) |
@@ -11120,6 +11125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powertris | 147136 | [147136-powertris.json](./147136-powertris.json) |
 | Powerup | 327194 | [327194-powerup.json](./327194-powerup.json) |
 | PowerUp Elevation | 106318 | [106318-powerup-elevation.json](./106318-powerup-elevation.json) |
+| PowerUp Forever | 21705 | [21705-powerup-forever.json](./21705-powerup-forever.json) |
 | PowerUp Heroes | 510 | [510-powerup-heroes.json](./510-powerup-heroes.json) |
 | Powerup Humans | 290488 | [290488-powerup-humans.json](./290488-powerup-humans.json) |
 | PowerWash Adventure | 268977 | [268977-powerwash-adventure.json](./268977-powerwash-adventure.json) |
