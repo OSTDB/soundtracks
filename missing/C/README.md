@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Bandit | 19697 | [19697-candy-bandit.json](./19697-candy-bandit.json) |
 | Candy Bandits | 392221 | [392221-candy-bandits.json](./392221-candy-bandits.json) |
 | Candy Bear 2 | 157957 | [157957-candy-bear-2.json](./157957-candy-bear-2.json) |
+| Candy Blast | 32596 | [32596-candy-blast.json](./32596-candy-blast.json) |
 | Candy Blitz Deluxe | 59469 | [59469-candy-blitz-deluxe.json](./59469-candy-blitz-deluxe.json) |
 | Candy Boo: Esports Edition | 175619 | [175619-candy-boo-esports-edition.json](./175619-candy-boo-esports-edition.json) |
 | Candy Box | 3269 | [3269-candy-box.json](./3269-candy-box.json) |
@@ -2745,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Illusion Starring Mickey Mouse | 242816 | [242816-castle-of-illusion-starring-mickey-mouse.json](./242816-castle-of-illusion-starring-mickey-mouse.json) |
 | Castle of Illusion Starring Mickey Mouse | 8122 | [8122-castle-of-illusion-starring-mickey-mouse.json](./8122-castle-of-illusion-starring-mickey-mouse.json) |
 | Castle of Lord Velimir | 279507 | [279507-castle-of-lord-velimir.json](./279507-castle-of-lord-velimir.json) |
+| Castle of Lost Souls | 32590 | [32590-castle-of-lost-souls.json](./32590-castle-of-lost-souls.json) |
 | Castle of Lust: Hentai Fantasy Game | 368023 | [368023-castle-of-lust-hentai-fantasy-game.json](./368023-castle-of-lust-hentai-fantasy-game.json) |
 | Castle of no Escape | 41958 | [41958-castle-of-no-escape.json](./41958-castle-of-no-escape.json) |
 | Castle of no Escape 1+2 Bundle | 218464 | [218464-castle-of-no-escape-1-2-bundle.json](./218464-castle-of-no-escape-1-2-bundle.json) |
@@ -13311,6 +13313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Oce | 143544 | [143544-crazy-oce.json](./143544-crazy-oce.json) |
 | Crazy One | 242791 | [242791-crazy-one.json](./242791-crazy-one.json) |
 | Crazy Otto | 208322 | [208322-crazy-otto.json](./208322-crazy-otto.json) |
+| Crazy Otto | 32506 | [32506-crazy-otto.json](./32506-crazy-otto.json) |
 | Crazy Penguin Catapult 2 | 67968 | [67968-crazy-penguin-catapult-2.json](./67968-crazy-penguin-catapult-2.json) |
 | Crazy Penguin Diner Run | 101974 | [101974-crazy-penguin-diner-run.json](./101974-crazy-penguin-diner-run.json) |
 | Crazy Penguin Wars | 302614 | [302614-crazy-penguin-wars.json](./302614-crazy-penguin-wars.json) |
@@ -16013,6 +16016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutie Suzuki no Ringside Angel | 45732 | [45732-cutie-suzuki-no-ringside-angel.json](./45732-cutie-suzuki-no-ringside-angel.json) |
 | Cutie Tutti Frutti | 207534 | [207534-cutie-tutti-frutti.json](./207534-cutie-tutti-frutti.json) |
 | Cuties | 259066 | [259066-cuties.json](./259066-cuties.json) |
+| Cuties | 32532 | [32532-cuties.json](./32532-cuties.json) |
 | Cuties Hacked: Dakota Photo Pack | 325851 | [325851-cuties-hacked-dakota-photo-pack.json](./325851-cuties-hacked-dakota-photo-pack.json) |
 | Cuties Monster Girl | 297081 | [297081-cuties-monster-girl.json](./297081-cuties-monster-girl.json) |
 | Cutlass | 43093 | [43093-cutlass.json](./43093-cutlass.json) |
