@@ -3739,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catwalk Battle | 208912 | [208912-catwalk-battle.json](./208912-catwalk-battle.json) |
 | Catwave95 | 303728 | [303728-catwave95.json](./303728-catwave95.json) |
 | Catwifhat | 323436 | [323436-catwifhat.json](./323436-catwifhat.json) |
+| Catwoman | 248498 | [248498-catwoman.json](./248498-catwoman.json) |
 | Catwoman | 3851 | [3851-catwoman.json](./3851-catwoman.json) |
 | Catwoman | 67337 | [67337-catwoman.json](./67337-catwoman.json) |
 | CatWorld | 257516 | [257516-catworld.json](./257516-catworld.json) |
