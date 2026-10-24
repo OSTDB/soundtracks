@@ -1318,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: Showtime!! | 318522 | [318522-paper-mario-showtime.json](./318522-paper-mario-showtime.json) |
 | Paper Mario: Star Nova | 358284 | [358284-paper-mario-star-nova.json](./358284-paper-mario-star-nova.json) |
 | Paper Mario: Sticker Star | 3350 | [3350-paper-mario-sticker-star.json](./3350-paper-mario-sticker-star.json) |
+| Paper Mario: The Origami King | 133923 | [133923-paper-mario-the-origami-king.json](./133923-paper-mario-the-origami-king.json) |
 | Paper Mario: The Origami King Refolded | 281008 | [281008-paper-mario-the-origami-king-refolded.json](./281008-paper-mario-the-origami-king-refolded.json) |
 | Paper Mario: The Sparkling Lights | 323974 | [323974-paper-mario-the-sparkling-lights.json](./323974-paper-mario-the-sparkling-lights.json) |
 | Paper Mario: The Thousand-Year Door | 266690 | [266690-paper-mario-the-thousand-year-door.json](./266690-paper-mario-the-thousand-year-door.json) |
@@ -7163,6 +7164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Time Arcade | 128912 | [128912-pizza-time-arcade.json](./128912-pizza-time-arcade.json) |
 | Pizza Time Explosion | 125445 | [125445-pizza-time-explosion.json](./125445-pizza-time-explosion.json) |
 | Pizza to Osake to Suika-chan to! | 403162 | [403162-pizza-to-osake-to-suika-chan-to.json](./403162-pizza-to-osake-to-suika-chan-to.json) |
+| Pizza Tower | 135818 | [135818-pizza-tower.json](./135818-pizza-tower.json) |
 | Pizza Tower Repainted | 365807 | [365807-pizza-tower-repainted.json](./365807-pizza-tower-repainted.json) |
 | Pizza Tower: Chef's Kiss | 328398 | [328398-pizza-tower-chefs-kiss.json](./328398-pizza-tower-chefs-kiss.json) |
 | Pizza Tower: Counterfeit Edition | 352342 | [352342-pizza-tower-counterfeit-edition.json](./352342-pizza-tower-counterfeit-edition.json) |
@@ -7937,6 +7939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playsets | 89051 | [89051-playsets.json](./89051-playsets.json) |
 | Playshake | 92678 | [92678-playshake.json](./92678-playshake.json) |
 | Playskool Puzzles | 209361 | [209361-playskool-puzzles.json](./209361-playskool-puzzles.json) |
+| PlayStation All-Stars Battle Royale | 7390 | [7390-playstation-all-stars-battle-royale.json](./7390-playstation-all-stars-battle-royale.json) |
 | PlayStation All-Stars Battle Royale: Big Daddy Plushy | 315076 | [315076-playstation-all-stars-battle-royale-big-daddy-plushy.json](./315076-playstation-all-stars-battle-royale-big-daddy-plushy.json) |
 | PlayStation All-Stars Battle Royale: Bistro Toro | 315078 | [315078-playstation-all-stars-battle-royale-bistro-toro.json](./315078-playstation-all-stars-battle-royale-bistro-toro.json) |
 | PlayStation All-Stars Battle Royale: Fearless | 312972 | [312972-playstation-all-stars-battle-royale-fearless.json](./312972-playstation-all-stars-battle-royale-fearless.json) |
