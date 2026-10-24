@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jammes | 38168 | [38168-jammes.json](./38168-jammes.json) |
 | Jammin' | 126016 | [126016-jammin.json](./126016-jammin.json) |
 | Jammin' With Mario | 283911 | [283911-jammin-with-mario.json](./283911-jammin-with-mario.json) |
+| Jammit | 39018 | [39018-jammit.json](./39018-jammit.json) |
 | Jammo | 192743 | [192743-jammo.json](./192743-jammo.json) |
 | Jammo | 265766 | [265766-jammo.json](./265766-jammo.json) |
 | Jammy Road | 110260 | [110260-jammy-road.json](./110260-jammy-road.json) |
