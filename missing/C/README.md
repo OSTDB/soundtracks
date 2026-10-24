@@ -2874,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania Chronicles II: Simon's Quest | 233564 | [233564-castlevania-chronicles-ii-simons-quest.json](./233564-castlevania-chronicles-ii-simons-quest.json) |
 | Castlevania Dominus Collection | 314944 | [314944-castlevania-dominus-collection.json](./314944-castlevania-dominus-collection.json) |
 | Castlevania II: Belmont's Revenge | 1123 | [1123-castlevania-ii-belmonts-revenge.json](./1123-castlevania-ii-belmonts-revenge.json) |
+| Castlevania II: Simon's Quest | 1116 | [1116-castlevania-ii-simons-quest.json](./1116-castlevania-ii-simons-quest.json) |
 | Castlevania II: Simon's Quest - Rebitten | 217540 | [217540-castlevania-ii-simons-quest-rebitten.json](./217540-castlevania-ii-simons-quest-rebitten.json) |
 | Castlevania II: Simon's Quest Revamped | 317859 | [317859-castlevania-ii-simons-quest-revamped.json](./317859-castlevania-ii-simons-quest-revamped.json) |
 | Castlevania III: Dracula's Curse | 1119 | [1119-castlevania-iii-draculas-curse.json](./1119-castlevania-iii-draculas-curse.json) |
@@ -2922,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Lords of Shadow - Resurrection | 10076 | [10076-castlevania-lords-of-shadow-resurrection.json](./10076-castlevania-lords-of-shadow-resurrection.json) |
 | Castlevania: Lords of Shadow - Reverie | 10075 | [10075-castlevania-lords-of-shadow-reverie.json](./10075-castlevania-lords-of-shadow-reverie.json) |
 | Castlevania: Lords of Shadow - Special Edition | 386289 | [386289-castlevania-lords-of-shadow-special-edition.json](./386289-castlevania-lords-of-shadow-special-edition.json) |
+| Castlevania: Lords of Shadow 2 | 1182 | [1182-castlevania-lords-of-shadow-2.json](./1182-castlevania-lords-of-shadow-2.json) |
 | Castlevania: Lords of Shadow 2 - Dracula's Tomb Premium Edition | 112642 | [112642-castlevania-lords-of-shadow-2-draculas-tomb-premium-edition.json](./112642-castlevania-lords-of-shadow-2-draculas-tomb-premium-edition.json) |
 | Castlevania: Lords of Shadow 2 - Revelations | 6303 | [6303-castlevania-lords-of-shadow-2-revelations.json](./6303-castlevania-lords-of-shadow-2-revelations.json) |
 | Castlevania: Lords of Shadow 2 - Special Edition | 112640 | [112640-castlevania-lords-of-shadow-2-special-edition.json](./112640-castlevania-lords-of-shadow-2-special-edition.json) |
@@ -6018,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chivalry 2: Regicide Update | 312382 | [312382-chivalry-2-regicide-update.json](./312382-chivalry-2-regicide-update.json) |
 | Chivalry is Not Dead | 377271 | [377271-chivalry-is-not-dead.json](./377271-chivalry-is-not-dead.json) |
 | Chivalry: Deadliest Warrior | 10083 | [10083-chivalry-deadliest-warrior.json](./10083-chivalry-deadliest-warrior.json) |
+| Chivalry: Medieval Warfare | 2358 | [2358-chivalry-medieval-warfare.json](./2358-chivalry-medieval-warfare.json) |
 | Chivalware | 403821 | [403821-chivalware.json](./403821-chivalware.json) |
 | Chiyo | 266815 | [266815-chiyo.json](./266815-chiyo.json) |
 | Chiyokagi | 222356 | [222356-chiyokagi.json](./222356-chiyokagi.json) |
@@ -10149,6 +10152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comit the Astrodian 3 | 65821 | [65821-comit-the-astrodian-3.json](./65821-comit-the-astrodian-3.json) |
 | Comix Breaker | 174262 | [174262-comix-breaker.json](./174262-comix-breaker.json) |
 | Comix Zero | 324330 | [324330-comix-zero.json](./324330-comix-zero.json) |
+| Comix Zone | 3071 | [3071-comix-zone.json](./3071-comix-zone.json) |
 | Comixxx Desires | 187146 | [187146-comixxx-desires.json](./187146-comixxx-desires.json) |
 | Comixxx Duality | 196141 | [196141-comixxx-duality.json](./196141-comixxx-duality.json) |
 | Comixxx Flirtatious | 379647 | [379647-comixxx-flirtatious.json](./379647-comixxx-flirtatious.json) |
