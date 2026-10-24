@@ -2638,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advance, Fish! | 379476 | [379476-advance-fish.json](./379476-advance-fish.json) |
 | Advanced Basketball Simulator | 13791 | [13791-advanced-basketball-simulator.json](./13791-advanced-basketball-simulator.json) |
 | Advanced Battlegrounds: The Future of Combat | 73469 | [73469-advanced-battlegrounds-the-future-of-combat.json](./73469-advanced-battlegrounds-the-future-of-combat.json) |
+| Advanced Busterhawk Gley Lancer | 6470 | [6470-advanced-busterhawk-gley-lancer.json](./6470-advanced-busterhawk-gley-lancer.json) |
 | Advanced Circuits | 84973 | [84973-advanced-circuits.json](./84973-advanced-circuits.json) |
 | Advanced Civilization | 14433 | [14433-advanced-civilization.json](./14433-advanced-civilization.json) |
 | Advanced Daisenryaku 2001 | 60805 | [60805-advanced-daisenryaku-2001.json](./60805-advanced-daisenryaku-2001.json) |
@@ -2965,7 +2966,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -12159,6 +12159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspen Lane VR | 182827 | [182827-aspen-lane-vr.json](./182827-aspen-lane-vr.json) |
 | Aspen Ski! | 315332 | [315332-aspen-ski.json](./315332-aspen-ski.json) |
 | Asphalt | 36920 | [36920-asphalt.json](./36920-asphalt.json) |
+| Asphalt 3: Street Rules | 23295 | [23295-asphalt-3-street-rules.json](./23295-asphalt-3-street-rules.json) |
 | Asphalt 3: Street Rules 3D HD | 221065 | [221065-asphalt-3-street-rules-3d-hd.json](./221065-asphalt-3-street-rules-3d-hd.json) |
 | Asphalt 3D | 6746 | [6746-asphalt-3d.json](./6746-asphalt-3d.json) |
 | Asphalt 4: Elite Racing | 221067 | [221067-asphalt-4-elite-racing.json](./221067-asphalt-4-elite-racing.json) |
@@ -12189,6 +12190,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphalt: Urban GT 2 | 243028 | [243028-asphalt-urban-gt-2.json](./243028-asphalt-urban-gt-2.json) |
 | Asphalt: Urban GT 2 | 243029 | [243029-asphalt-urban-gt-2.json](./243029-asphalt-urban-gt-2.json) |
 | Asphalt: Urban GT 2 | 243030 | [243030-asphalt-urban-gt-2.json](./243030-asphalt-urban-gt-2.json) |
+| Asphalt: Urban GT 2 | 6261 | [6261-asphalt-urban-gt-2.json](./6261-asphalt-urban-gt-2.json) |
+| Asphalt: Xtreme | 23313 | [23313-asphalt-xtreme.json](./23313-asphalt-xtreme.json) |
 | Asphodelium | 314015 | [314015-asphodelium.json](./314015-asphodelium.json) |
 | Asphodelus | 229556 | [229556-asphodelus.json](./229556-asphodelus.json) |
 | Asphyx | 418304 | [418304-asphyx.json](./418304-asphyx.json) |
@@ -13519,6 +13522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomicrops: Invasive Species | 167929 | [167929-atomicrops-invasive-species.json](./167929-atomicrops-invasive-species.json) |
 | Atomicrops: Reap What You Bundle | 204273 | [204273-atomicrops-reap-what-you-bundle.json](./204273-atomicrops-reap-what-you-bundle.json) |
 | Atomicrops: Reap What You Crow | 196051 | [196051-atomicrops-reap-what-you-crow.json](./196051-atomicrops-reap-what-you-crow.json) |
+| Atomik: RunGunJumpGun | 23836 | [23836-atomik-rungunjumpgun.json](./23836-atomik-rungunjumpgun.json) |
 | Atomind | 93547 | [93547-atomind.json](./93547-atomind.json) |
 | Atomine | 28554 | [28554-atomine.json](./28554-atomine.json) |
 | Atominous | 257383 | [257383-atominous.json](./257383-atominous.json) |
