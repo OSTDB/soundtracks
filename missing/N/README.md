@@ -2422,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neurowake | 41896 | [41896-neurowake.json](./41896-neurowake.json) |
 | Neuroza | 335867 | [335867-neuroza.json](./335867-neuroza.json) |
 | Neuter Master | 372463 | [372463-neuter-master.json](./372463-neuter-master.json) |
+| Neutopia | 28524 | [28524-neutopia.json](./28524-neutopia.json) |
 | Neutral Mini Escape: Midsummer Night ver. | 317094 | [317094-neutral-mini-escape-midsummer-night-ver.json](./317094-neutral-mini-escape-midsummer-night-ver.json) |
 | Neutralized: Dark moon | 368680 | [368680-neutralized-dark-moon.json](./368680-neutralized-dark-moon.json) |
 | Neutrino | 212826 | [212826-neutrino.json](./212826-neutrino.json) |
