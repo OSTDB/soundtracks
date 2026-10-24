@@ -3332,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enslaved Odyssey: To The West - Collector's Edition | 44658 | [44658-enslaved-odyssey-to-the-west-collectors-edition.json](./44658-enslaved-odyssey-to-the-west-collectors-edition.json) |
 | Enslaved: Odyssey to the West | 2538 | [2538-enslaved-odyssey-to-the-west.json](./2538-enslaved-odyssey-to-the-west.json) |
 | Enslaved: Odyssey to the West - Pigsy's Perfect 10 | 17468 | [17468-enslaved-odyssey-to-the-west-pigsys-perfect-10.json](./17468-enslaved-odyssey-to-the-west-pigsys-perfect-10.json) |
+| Enslaved: Odyssey to the West Premium Edition | 24192 | [24192-enslaved-odyssey-to-the-west-premium-edition.json](./24192-enslaved-odyssey-to-the-west-premium-edition.json) |
 | Ensnared | 297091 | [297091-ensnared.json](./297091-ensnared.json) |
 | Ensol | 253963 | [253963-ensol.json](./253963-ensol.json) |
 | Ensorak Riddle | 174533 | [174533-ensorak-riddle.json](./174533-ensorak-riddle.json) |
@@ -3584,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Mayhem | 29026 | [29026-epic-mayhem.json](./29026-epic-mayhem.json) |
 | Epic Maze | 181005 | [181005-epic-maze.json](./181005-epic-maze.json) |
 | Epic Meal Time | 64751 | [64751-epic-meal-time.json](./64751-epic-meal-time.json) |
+| Epic Mickey | 1509 | [1509-epic-mickey.json](./1509-epic-mickey.json) |
 | Epic Mickey: Power of Illusion | 6765 | [6765-epic-mickey-power-of-illusion.json](./6765-epic-mickey-power-of-illusion.json) |
 | Epic Mickey: Rebrushed | 287849 | [287849-epic-mickey-rebrushed.json](./287849-epic-mickey-rebrushed.json) |
 | Epic Monster Quest | 271635 | [271635-epic-monster-quest.json](./271635-epic-monster-quest.json) |
