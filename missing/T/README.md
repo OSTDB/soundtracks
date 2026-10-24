@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TaikoVR | 116748 | [116748-taikovr.json](./116748-taikovr.json) |
 | Taikunda | 401731 | [401731-taikunda.json](./401731-taikunda.json) |
 | Taikyoku Igo: Goliath | 37797 | [37797-taikyoku-igo-goliath.json](./37797-taikyoku-igo-goliath.json) |
+| Taikyoku Igo: Heisei Kiin | 37534 | [37534-taikyoku-igo-heisei-kiin.json](./37534-taikyoku-igo-heisei-kiin.json) |
 | Taikyoku Igo: Idaten | 37796 | [37796-taikyoku-igo-idaten.json](./37796-taikyoku-igo-idaten.json) |
 | Taikyoku Renju | 257312 | [257312-taikyoku-renju.json](./257312-taikyoku-renju.json) |
 | Tail 'Gator | 49063 | [49063-tail-gator.json](./49063-tail-gator.json) |
@@ -11355,6 +11356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -26235,6 +26237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnover | 35196 | [35196-turnover.json](./35196-turnover.json) |
 | Turnpike | 308463 | [308463-turnpike.json](./308463-turnpike.json) |
 | TurnSkull | 280436 | [280436-turnskull.json](./280436-turnskull.json) |
+| Turntablist: DJ Battle | 37527 | [37527-turntablist-dj-battle.json](./37527-turntablist-dj-battle.json) |
 | Turochamp | 232670 | [232670-turochamp.json](./232670-turochamp.json) |
 | Turok | 1330 | [1330-turok.json](./1330-turok.json) |
 | Turok | 26701 | [26701-turok.json](./26701-turok.json) |
