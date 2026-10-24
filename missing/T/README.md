@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target: Renegade | 381638 | [381638-target-renegade.json](./381638-target-renegade.json) |
 | Target: Renegade | 381642 | [381642-target-renegade.json](./381642-target-renegade.json) |
 | Target: Renegade | 381643 | [381643-target-renegade.json](./381643-target-renegade.json) |
+| Target: Renegade | 39060 | [39060-target-renegade.json](./39060-target-renegade.json) |
 | Targeted: -10 Days | 309477 | [309477-targeted-10-days.json](./309477-targeted-10-days.json) |
 | Targeting Maths Lab 1 | 291992 | [291992-targeting-maths-lab-1.json](./291992-targeting-maths-lab-1.json) |
 | Targeting Maths Lab 2 | 291993 | [291993-targeting-maths-lab-2.json](./291993-targeting-maths-lab-2.json) |
@@ -2747,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles II: Back from the Sewers | 18639 | [18639-teenage-mutant-ninja-turtles-ii-back-from-the-sewers.json](./18639-teenage-mutant-ninja-turtles-ii-back-from-the-sewers.json) |
 | Teenage Mutant Ninja Turtles II: Splinter Speaks | 218929 | [218929-teenage-mutant-ninja-turtles-ii-splinter-speaks.json](./218929-teenage-mutant-ninja-turtles-ii-splinter-speaks.json) |
 | Teenage Mutant Ninja Turtles II: The Arcade Game | 3816 | [3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json](./3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json) |
+| Teenage Mutant Ninja Turtles III: Radical Rescue | 48927 | [48927-teenage-mutant-ninja-turtles-iii-radical-rescue.json](./48927-teenage-mutant-ninja-turtles-iii-radical-rescue.json) |
 | Teenage Mutant Ninja Turtles III: The Manhattan Project | 14731 | [14731-teenage-mutant-ninja-turtles-iii-the-manhattan-project.json](./14731-teenage-mutant-ninja-turtles-iii-the-manhattan-project.json) |
 | Teenage Mutant Ninja Turtles IV: Turtles in Time | 14697 | [14697-teenage-mutant-ninja-turtles-iv-turtles-in-time.json](./14697-teenage-mutant-ninja-turtles-iv-turtles-in-time.json) |
 | Teenage Mutant Ninja Turtles Legends | 58568 | [58568-teenage-mutant-ninja-turtles-legends.json](./58568-teenage-mutant-ninja-turtles-legends.json) |
@@ -6458,6 +6460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Eye Bundle | 275896 | [275896-the-dark-eye-bundle.json](./275896-the-dark-eye-bundle.json) |
 | The Dark Eye: Book of Heroes - Collector's Edition | 136376 | [136376-the-dark-eye-book-of-heroes-collectors-edition.json](./136376-the-dark-eye-book-of-heroes-collectors-edition.json) |
 | The Dark Eye: Chains of Satinav | 7146 | [7146-the-dark-eye-chains-of-satinav.json](./7146-the-dark-eye-chains-of-satinav.json) |
+| The Dark Eye: Demonicon | 3090 | [3090-the-dark-eye-demonicon.json](./3090-the-dark-eye-demonicon.json) |
 | The Dark Eye: Memoria | 7168 | [7168-the-dark-eye-memoria.json](./7168-the-dark-eye-memoria.json) |
 | The Dark Eye: Skilltree Saga | 53724 | [53724-the-dark-eye-skilltree-saga.json](./53724-the-dark-eye-skilltree-saga.json) |
 | The Dark Fables of Aesop | 254454 | [254454-the-dark-fables-of-aesop.json](./254454-the-dark-fables-of-aesop.json) |
@@ -21473,6 +21476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Fractured Transience | 238468 | [238468-touhou-fractured-transience.json](./238468-touhou-fractured-transience.json) |
 | Touhou Fumo Racing | 193872 | [193872-touhou-fumo-racing.json](./193872-touhou-fumo-racing.json) |
 | Touhou Fuumaroku: The Story of Eastern Wind | 375562 | [375562-touhou-fuumaroku-the-story-of-eastern-wind.json](./375562-touhou-fuumaroku-the-story-of-eastern-wind.json) |
+| Touhou Fuumaroku: The Story of Eastern Wonderland | 45966 | [45966-touhou-fuumaroku-the-story-of-eastern-wonderland.json](./45966-touhou-fuumaroku-the-story-of-eastern-wonderland.json) |
 | Touhou Gaiden | 404961 | [404961-touhou-gaiden.json](./404961-touhou-gaiden.json) |
 | Touhou Gakuen Ki: Shippuu no Shou | 201176 | [201176-touhou-gakuen-ki-shippuu-no-shou.json](./201176-touhou-gakuen-ki-shippuu-no-shou.json) |
 | Touhou Gekkatan | 214352 | [214352-touhou-gekkatan.json](./214352-touhou-gekkatan.json) |
