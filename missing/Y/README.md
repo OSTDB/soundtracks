@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi's Safari | 11604 | [11604-yoshis-safari.json](./11604-yoshis-safari.json) |
 | Yoshi's Story | 3213 | [3213-yoshis-story.json](./3213-yoshis-story.json) |
 | Yoshi's Strange Quest | 38305 | [38305-yoshis-strange-quest.json](./38305-yoshis-strange-quest.json) |
+| Yoshi's Woolly World | 7343 | [7343-yoshis-woolly-world.json](./7343-yoshis-woolly-world.json) |
 | Yoshi's Woolly World: Special Edition | 51141 | [51141-yoshis-woolly-world-special-edition.json](./51141-yoshis-woolly-world-special-edition.json) |
 | Yoshida Gakuen Senki | 240065 | [240065-yoshida-gakuen-senki.json](./240065-yoshida-gakuen-senki.json) |
 | Yoshida Koumuten | 265650 | [265650-yoshida-koumuten.json](./265650-yoshida-koumuten.json) |
