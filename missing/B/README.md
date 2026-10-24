@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5964,6 +5965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big City Adventure: Tokyo | 294742 | [294742-big-city-adventure-tokyo.json](./294742-big-city-adventure-tokyo.json) |
 | Big City Adventure: Vancouver | 65203 | [65203-big-city-adventure-vancouver.json](./65203-big-city-adventure-vancouver.json) |
 | Big City Driver: Truck Parking Simulator | 317901 | [317901-big-city-driver-truck-parking-simulator.json](./317901-big-city-driver-truck-parking-simulator.json) |
+| Big City Rigs: Bus Driver | 25456 | [25456-big-city-rigs-bus-driver.json](./25456-big-city-rigs-bus-driver.json) |
 | Big City Rigs: Garbage Truck | 52462 | [52462-big-city-rigs-garbage-truck.json](./52462-big-city-rigs-garbage-truck.json) |
 | Big Cock Simulator | 156194 | [156194-big-cock-simulator.json](./156194-big-cock-simulator.json) |
 | Big Company: Skytopia | 105526 | [105526-big-company-skytopia.json](./105526-big-company-skytopia.json) |
@@ -13300,6 +13302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buccaneer | 165522 | [165522-buccaneer.json](./165522-buccaneer.json) |
 | Buccaneer | 81060 | [81060-buccaneer.json](./81060-buccaneer.json) |
 | Buccaneer Blitz | 335990 | [335990-buccaneer-blitz.json](./335990-buccaneer-blitz.json) |
+| Buccaneer: The Pursuit of Infamy | 25410 | [25410-buccaneer-the-pursuit-of-infamy.json](./25410-buccaneer-the-pursuit-of-infamy.json) |
 | Buccaneer's Bounty | 69825 | [69825-buccaneers-bounty.json](./69825-buccaneers-bounty.json) |
 | Buccaneers | 247389 | [247389-buccaneers.json](./247389-buccaneers.json) |
 | Buccaneers Shipshape | 203899 | [203899-buccaneers-shipshape.json](./203899-buccaneers-shipshape.json) |
@@ -14745,4 +14748,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bytes: The Reverse Tower Defense | 244707 | [244707-bytes-the-reverse-tower-defense.json](./244707-bytes-the-reverse-tower-defense.json) |
 | Bytesize | 263489 | [263489-bytesize.json](./263489-bytesize.json) |
 | Bythzkel-Sombréa | 311820 | [311820-bythzkel-sombrea.json](./311820-bythzkel-sombrea.json) |
+| Byzantine: The Betrayal | 25457 | [25457-byzantine-the-betrayal.json](./25457-byzantine-the-betrayal.json) |
 | B画少说 | 114896 | [114896-b.json](./114896-b.json) |
