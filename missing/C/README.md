@@ -3402,6 +3402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Them If You Can | 215368 | [215368-catch-them-if-you-can.json](./215368-catch-them-if-you-can.json) |
 | Catch Them Sweetie | 271075 | [271075-catch-them-sweetie.json](./271075-catch-them-sweetie.json) |
 | Catch Thieves | 303726 | [303726-catch-thieves.json](./303726-catch-thieves.json) |
+| Catch Time | 40590 | [40590-catch-time.json](./40590-catch-time.json) |
 | Catch You: 1 to 10 Player Stickman Hunting Game | 103660 | [103660-catch-you-1-to-10-player-stickman-hunting-game.json](./103660-catch-you-1-to-10-player-stickman-hunting-game.json) |
 | Catch Your Kitty | 129122 | [129122-catch-your-kitty.json](./129122-catch-your-kitty.json) |
 | Catch-22 | 94163 | [94163-catch-22.json](./94163-catch-22.json) |
@@ -11233,6 +11234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Gluttons TD | 213334 | [213334-cookie-gluttons-td.json](./213334-cookie-gluttons-td.json) |
 | Cookie Invaders | 133124 | [133124-cookie-invaders.json](./133124-cookie-invaders.json) |
 | Cookie Match: Enhanced Edition | 232451 | [232451-cookie-match-enhanced-edition.json](./232451-cookie-match-enhanced-edition.json) |
+| Cookie Monster Munch | 40587 | [40587-cookie-monster-munch.json](./40587-cookie-monster-munch.json) |
 | Cookie Run | 74416 | [74416-cookie-run.json](./74416-cookie-run.json) |
 | Cookie Run: Kingdom | 142737 | [142737-cookie-run-kingdom.json](./142737-cookie-run-kingdom.json) |
 | Cookie Run: OvenBreak | 78951 | [78951-cookie-run-ovenbreak.json](./78951-cookie-run-ovenbreak.json) |
@@ -11834,6 +11836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Collapse | 275327 | [275327-cosmic-collapse.json](./275327-cosmic-collapse.json) |
 | Cosmic Commando | 60518 | [60518-cosmic-commando.json](./60518-cosmic-commando.json) |
 | Cosmic Commute | 229624 | [229624-cosmic-commute.json](./229624-cosmic-commute.json) |
+| Cosmic Commuter | 40598 | [40598-cosmic-commuter.json](./40598-cosmic-commuter.json) |
 | Cosmic Composer | 372630 | [372630-cosmic-composer.json](./372630-cosmic-composer.json) |
 | Cosmic Concealed | 367731 | [367731-cosmic-concealed.json](./367731-cosmic-concealed.json) |
 | Cosmic Conflict | 183880 | [183880-cosmic-conflict.json](./183880-cosmic-conflict.json) |
