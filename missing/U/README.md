@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.N. Squadron | 238967 | [238967-u-n-squadron.json](./238967-u-n-squadron.json) |
 | U.N.P.O.C. Vessel of Opportunity | 335706 | [335706-u-n-p-o-c-vessel-of-opportunity.json](./335706-u-n-p-o-c-vessel-of-opportunity.json) |
 | U.R.B.A.N The Cyborg Project | 126029 | [126029-u-r-b-a-n-the-cyborg-project.json](./126029-u-r-b-a-n-the-cyborg-project.json) |
+| U.S. Championship V'Ball | 39401 | [39401-u-s-championship-vball.json](./39401-u-s-championship-vball.json) |
 | U.S. Most Wanted: Nowhere to Hide | 73178 | [73178-u-s-most-wanted-nowhere-to-hide.json](./73178-u-s-most-wanted-nowhere-to-hide.json) |
 | U.S. Navy Fighters | 79890 | [79890-u-s-navy-fighters.json](./79890-u-s-navy-fighters.json) |
 | U.S. Navy Fighters - Marine Fighters | 70463 | [70463-u-s-navy-fighters-marine-fighters.json](./70463-u-s-navy-fighters-marine-fighters.json) |
@@ -773,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Strikers | 299606 | [299606-ultra-strikers.json](./299606-ultra-strikers.json) |
 | Ultra Sudoku | 338598 | [338598-ultra-sudoku.json](./338598-ultra-sudoku.json) |
 | Ultra Sweeper | 338597 | [338597-ultra-sweeper.json](./338597-ultra-sweeper.json) |
+| Ultra Tank | 39402 | [39402-ultra-tank.json](./39402-ultra-tank.json) |
 | Ultra Violet | 150057 | [150057-ultra-violet.json](./150057-ultra-violet.json) |
 | Ultra Vleurette | 267356 | [267356-ultra-vleurette.json](./267356-ultra-vleurette.json) |
 | Ultra Void | 402985 | [402985-ultra-void.json](./402985-ultra-void.json) |
