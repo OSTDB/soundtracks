@@ -7667,6 +7667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For the Night | 123486 | [123486-for-the-night.json](./123486-for-the-night.json) |
 | For the People | 135844 | [135844-for-the-people.json](./135844-for-the-people.json) |
 | For the Revenge | 107921 | [107921-for-the-revenge.json](./107921-for-the-revenge.json) |
+| For the Warp | 127685 | [127685-for-the-warp.json](./127685-for-the-warp.json) |
 | For the Wheat | 361734 | [361734-for-the-wheat.json](./361734-for-the-wheat.json) |
 | For The Win | 321509 | [321509-for-the-win.json](./321509-for-the-win.json) |
 | For Those We Forgot | 291369 | [291369-for-those-we-forgot.json](./291369-for-those-we-forgot.json) |
