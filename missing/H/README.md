@@ -6968,6 +6968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokkaido Rensa Satsujin: Okhotsk ni Kiyu | 206088 | [206088-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json](./206088-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json) |
 | Hokkaido Rensa Satsujin: Okhotsk ni Kiyu | 206134 | [206134-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json](./206134-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json) |
 | Hokkaido: 4,500km | 264073 | [264073-hokkaido-4-500km.json](./264073-hokkaido-4-500km.json) |
+| Hokko Life | 129791 | [129791-hokko-life.json](./129791-hokko-life.json) |
 | Hokko Spaces | 404866 | [404866-hokko-spaces.json](./404866-hokko-spaces.json) |
 | Hokra | 65032 | [65032-hokra.json](./65032-hokra.json) |
 | Hokusai | 106540 | [106540-hokusai.json](./106540-hokusai.json) |
