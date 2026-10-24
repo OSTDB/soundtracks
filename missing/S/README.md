@@ -1154,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors 4: Special Anime Pack | 178296 | [178296-samurai-warriors-4-special-anime-pack.json](./178296-samurai-warriors-4-special-anime-pack.json) |
 | Samurai Warriors 5: Ikkitousen Box | 146037 | [146037-samurai-warriors-5-ikkitousen-box.json](./146037-samurai-warriors-5-ikkitousen-box.json) |
 | Samurai Warriors 5: Treasure Box | 146035 | [146035-samurai-warriors-5-treasure-box.json](./146035-samurai-warriors-5-treasure-box.json) |
+| Samurai Warriors: Chronicles | 6882 | [6882-samurai-warriors-chronicles.json](./6882-samurai-warriors-chronicles.json) |
 | Samurai Warriors: Chronicles 2nd | 64991 | [64991-samurai-warriors-chronicles-2nd.json](./64991-samurai-warriors-chronicles-2nd.json) |
 | Samurai Warriors: Katana | 5137 | [5137-samurai-warriors-katana.json](./5137-samurai-warriors-katana.json) |
 | Samurai Warriors: Spirit of Sanada | 27272 | [27272-samurai-warriors-spirit-of-sanada.json](./27272-samurai-warriors-spirit-of-sanada.json) |
@@ -6187,6 +6188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Souls | 316428 | [316428-shattered-souls.json](./316428-shattered-souls.json) |
 | Shattered State | 203750 | [203750-shattered-state.json](./203750-shattered-state.json) |
 | Shattered Stone | 185545 | [185545-shattered-stone.json](./185545-shattered-stone.json) |
+| Shattered Union | 6046 | [6046-shattered-union.json](./6046-shattered-union.json) |
 | Shattered Vault | 390783 | [390783-shattered-vault.json](./390783-shattered-vault.json) |
 | Shattered Void | 340380 | [340380-shattered-void.json](./340380-shattered-void.json) |
 | Shattered World | 264632 | [264632-shattered-world.json](./264632-shattered-world.json) |
@@ -9892,6 +9894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skies Scrapper | 371030 | [371030-skies-scrapper.json](./371030-skies-scrapper.json) |
 | SkifY | 75075 | [75075-skify.json](./75075-skify.json) |
 | Skiing | 55104 | [55104-skiing.json](./55104-skiing.json) |
+| Skiing | 5686 | [5686-skiing.json](./5686-skiing.json) |
 | Skiing Fred | 112050 | [112050-skiing-fred.json](./112050-skiing-fred.json) |
 | Skiing Frenzy | 246787 | [246787-skiing-frenzy.json](./246787-skiing-frenzy.json) |
 | Skiing Race | 175245 | [175245-skiing-race.json](./175245-skiing-race.json) |
@@ -17186,6 +17189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellfolio | 289549 | [289549-spellfolio.json](./289549-spellfolio.json) |
 | SpellForce 2: Anniversary Edition | 29209 | [29209-spellforce-2-anniversary-edition.json](./29209-spellforce-2-anniversary-edition.json) |
 | SpellForce 2: Dragon Storm | 7037 | [7037-spellforce-2-dragon-storm.json](./7037-spellforce-2-dragon-storm.json) |
+| SpellForce 2: Faith in Destiny | 7041 | [7041-spellforce-2-faith-in-destiny.json](./7041-spellforce-2-faith-in-destiny.json) |
 | SpellForce 2: Faith in Destiny - Scenario 1: Flink's Secret Diary | 144284 | [144284-spellforce-2-faith-in-destiny-scenario-1-flinks-secret-diary.json](./144284-spellforce-2-faith-in-destiny-scenario-1-flinks-secret-diary.json) |
 | SpellForce 2: Faith in Destiny - Scenario 2: The Golden Fool | 144286 | [144286-spellforce-2-faith-in-destiny-scenario-2-the-golden-fool.json](./144286-spellforce-2-faith-in-destiny-scenario-2-the-golden-fool.json) |
 | SpellForce 2: Faith in Destiny - Scenario 3: The Last Stand | 144287 | [144287-spellforce-2-faith-in-destiny-scenario-3-the-last-stand.json](./144287-spellforce-2-faith-in-destiny-scenario-3-the-last-stand.json) |
@@ -19054,6 +19058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack'em | 206976 | [206976-stackem.json](./206976-stackem.json) |
 | Stack'em HD | 355001 | [355001-stackem-hd.json](./355001-stackem-hd.json) |
 | Stackbound | 351255 | [351255-stackbound.json](./351255-stackbound.json) |
+| Stacked with Daniel Negreanu | 6157 | [6157-stacked-with-daniel-negreanu.json](./6157-stacked-with-daniel-negreanu.json) |
 | Stacked! | 374938 | [374938-stacked.json](./374938-stacked.json) |
 | Stackems | 112501 | [112501-stackems.json](./112501-stackems.json) |
 | Stacker | 75715 | [75715-stacker.json](./75715-stacker.json) |
@@ -26144,6 +26149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball: Banana Rumble - Sonic and Shadow Skins | 317963 | [317963-super-monkey-ball-banana-rumble-sonic-and-shadow-skins.json](./317963-super-monkey-ball-banana-rumble-sonic-and-shadow-skins.json) |
 | Super Monkey Ball: Banana Rumble - Tails | 309068 | [309068-super-monkey-ball-banana-rumble-tails.json](./309068-super-monkey-ball-banana-rumble-tails.json) |
 | Super Monkey Ball: Sakura Edition | 64989 | [64989-super-monkey-ball-sakura-edition.json](./64989-super-monkey-ball-sakura-edition.json) |
+| Super Monkey Ball: Step & Roll | 5201 | [5201-super-monkey-ball-step-and-roll.json](./5201-super-monkey-ball-step-and-roll.json) |
 | Super Monkey Ball: Ticket Blitz | 64184 | [64184-super-monkey-ball-ticket-blitz.json](./64184-super-monkey-ball-ticket-blitz.json) |
 | Super Monkey Ball: Tip 'n Tilt | 336925 | [336925-super-monkey-ball-tip-n-tilt.json](./336925-super-monkey-ball-tip-n-tilt.json) |
 | Super Monkey Disco Ball | 383780 | [383780-super-monkey-disco-ball.json](./383780-super-monkey-disco-ball.json) |
