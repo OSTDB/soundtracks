@@ -787,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takemiya Masaki Kudan no Igo Taishou | 37794 | [37794-takemiya-masaki-kudan-no-igo-taishou.json](./37794-takemiya-masaki-kudan-no-igo-taishou.json) |
 | Taken Soul | 273400 | [273400-taken-soul.json](./273400-taken-soul.json) |
 | Taken Souls: Blood Ritual | 139427 | [139427-taken-souls-blood-ritual.json](./139427-taken-souls-blood-ritual.json) |
+| Taken Souls: Blood Ritual - Collector's Edition | 29577 | [29577-taken-souls-blood-ritual-collectors-edition.json](./29577-taken-souls-blood-ritual-collectors-edition.json) |
 | Takenoko | 127080 | [127080-takenoko.json](./127080-takenoko.json) |
 | Takenoko: Chibis | 170771 | [170771-takenoko-chibis.json](./170771-takenoko-chibis.json) |
 | Takenoko: Tilt Five AR | 336726 | [336726-takenoko-tilt-five-ar.json](./336726-takenoko-tilt-five-ar.json) |
@@ -4384,6 +4385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abettor's Letters | 58071 | [58071-the-abettors-letters.json](./58071-the-abettors-letters.json) |
 | The Abominable Shitpit | 418772 | [418772-the-abominable-shitpit.json](./418772-the-abominable-shitpit.json) |
 | The Abominable Snowmen | 15586 | [15586-the-abominable-snowmen.json](./15586-the-abominable-snowmen.json) |
+| The Absence | 29530 | [29530-the-absence.json](./29530-the-absence.json) |
 | The Absence of Is | 136429 | [136429-the-absence-of-is.json](./136429-the-absence-of-is.json) |
 | The Absence of Miriam Lane | 219792 | [219792-the-absence-of-miriam-lane.json](./219792-the-absence-of-miriam-lane.json) |
 | The Absolute Mage | 420486 | [420486-the-absolute-mage.json](./420486-the-absolute-mage.json) |
@@ -4829,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Artifacts | 117369 | [117369-the-artifacts.json](./117369-the-artifacts.json) |
 | The Artifacts of Marvelous Birds | 278627 | [278627-the-artifacts-of-marvelous-birds.json](./278627-the-artifacts-of-marvelous-birds.json) |
 | The Artisan of Glimmith | 383145 | [383145-the-artisan-of-glimmith.json](./383145-the-artisan-of-glimmith.json) |
+| The Artist | 29554 | [29554-the-artist.json](./29554-the-artist.json) |
 | The Artist Colors | 280630 | [280630-the-artist-colors.json](./280630-the-artist-colors.json) |
 | The Artist: Act One | 245732 | [245732-the-artist-act-one.json](./245732-the-artist-act-one.json) |
 | The Arys Expedition: Special Edition | 53714 | [53714-the-arys-expedition-special-edition.json](./53714-the-arys-expedition-special-edition.json) |
@@ -23847,6 +23850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traitors in Salem | 181143 | [181143-traitors-in-salem.json](./181143-traitors-in-salem.json) |
 | Traitors in the Hood | 258081 | [258081-traitors-in-the-hood.json](./258081-traitors-in-the-hood.json) |
 | Trajectile | 91417 | [91417-trajectile.json](./91417-trajectile.json) |
+| Trajectory | 29471 | [29471-trajectory.json](./29471-trajectory.json) |
 | Trajectory of summer flower Ⅱ | 289922 | [289922-trajectory-of-summer-flower-ii.json](./289922-trajectory-of-summer-flower-ii.json) |
 | Trajes Fatais Minimal | 176844 | [176844-trajes-fatais-minimal.json](./176844-trajes-fatais-minimal.json) |
 | Trajes Fatais: Suits of Fate | 124245 | [124245-trajes-fatais-suits-of-fate.json](./124245-trajes-fatais-suits-of-fate.json) |
