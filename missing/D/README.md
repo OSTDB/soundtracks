@@ -7658,6 +7658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Fighters | 241975 | [241975-dino-fighters.json](./241975-dino-fighters.json) |
 | Dino Force | 227801 | [227801-dino-force.json](./227801-dino-force.json) |
 | Dino Fossil Dig | 106940 | [106940-dino-fossil-dig.json](./106940-dino-fossil-dig.json) |
+| Dino Frontier | 26228 | [26228-dino-frontier.json](./26228-dino-frontier.json) |
 | Dino Gaïa | 326060 | [326060-dino-gaia.json](./326060-dino-gaia.json) |
 | Dino Galaxy Tennis | 144945 | [144945-dino-galaxy-tennis.json](./144945-dino-galaxy-tennis.json) |
 | Dino Genesis | 146924 | [146924-dino-genesis.json](./146924-dino-genesis.json) |
@@ -12686,6 +12687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn Together | 404311 | [404311-drawn-together.json](./404311-drawn-together.json) |
 | Drawn: Dark Flight - Collector's Edition | 33294 | [33294-drawn-dark-flight-collectors-edition.json](./33294-drawn-dark-flight-collectors-edition.json) |
 | Drawn: The Painted Tower | 11234 | [11234-drawn-the-painted-tower.json](./11234-drawn-the-painted-tower.json) |
+| Drawn: Trail of Shadows - Collector's Edition | 30124 | [30124-drawn-trail-of-shadows-collectors-edition.json](./30124-drawn-trail-of-shadows-collectors-edition.json) |
 | Drawngeon: Dungeons of Ink and Paper | 113810 | [113810-drawngeon-dungeons-of-ink-and-paper.json](./113810-drawngeon-dungeons-of-ink-and-paper.json) |
 | Drawquarium | 374055 | [374055-drawquarium.json](./374055-drawquarium.json) |
 | Drawsome Sketch Quest | 65548 | [65548-drawsome-sketch-quest.json](./65548-drawsome-sketch-quest.json) |
@@ -15186,6 +15188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunthera | 357837 | [357837-dunthera.json](./357837-dunthera.json) |
 | Dunwell | 133990 | [133990-dunwell.json](./133990-dunwell.json) |
 | Dunzhin | 2866 | [2866-dunzhin.json](./2866-dunzhin.json) |
+| Duo | 30003 | [30003-duo.json](./30003-duo.json) |
 | Duo | 32384 | [32384-duo.json](./32384-duo.json) |
 | Duō Bǎo Xiūxiān | 188524 | [188524-duo-bao-xiuxian.json](./188524-duo-bao-xiuxian.json) |
 | Duo Defenders | 172157 | [172157-duo-defenders.json](./172157-duo-defenders.json) |
