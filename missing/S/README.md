@@ -6452,6 +6452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: Crimes and Punishments Redux | 164780 | [164780-sherlock-holmes-crimes-and-punishments-redux.json](./164780-sherlock-holmes-crimes-and-punishments-redux.json) |
 | Sherlock Holmes: Nemesis | 6863 | [6863-sherlock-holmes-nemesis.json](./6863-sherlock-holmes-nemesis.json) |
 | Sherlock Holmes: Puzzle City | 222297 | [222297-sherlock-holmes-puzzle-city.json](./222297-sherlock-holmes-puzzle-city.json) |
+| Sherlock Holmes: The Awakened - Remastered Edition | 27849 | [27849-sherlock-holmes-the-awakened-remastered-edition.json](./27849-sherlock-holmes-the-awakened-remastered-edition.json) |
 | Sherlock Holmes: The Awakened - The Sleuth's Attire | 245169 | [245169-sherlock-holmes-the-awakened-the-sleuths-attire.json](./245169-sherlock-holmes-the-awakened-the-sleuths-attire.json) |
 | Sherlock Holmes: The Case of the Beheaded Smuggler | 230257 | [230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json](./230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json) |
 | Sherlock Holmes: The Devil's Daughter | 11563 | [11563-sherlock-holmes-the-devils-daughter.json](./11563-sherlock-holmes-the-devils-daughter.json) |
@@ -10591,6 +10592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Spire II | 296831 | [296831-slay-the-spire-ii.json](./296831-slay-the-spire-ii.json) |
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
 | Slay To The End | 293831 | [293831-slay-to-the-end.json](./293831-slay-to-the-end.json) |
+| Slayaway Camp | 25239 | [25239-slayaway-camp.json](./25239-slayaway-camp.json) |
 | Slayaway Camp 2 | 273976 | [273976-slayaway-camp-2.json](./273976-slayaway-camp-2.json) |
 | Slayblade | 394830 | [394830-slayblade.json](./394830-slayblade.json) |
 | Slaycation Paradise | 200679 | [200679-slaycation-paradise.json](./200679-slaycation-paradise.json) |
@@ -16380,6 +16382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceMerc | 55696 | [55696-spacemerc.json](./55696-spacemerc.json) |
 | SpaceNet: A Space Adventure | 169344 | [169344-spacenet-a-space-adventure.json](./169344-spacenet-a-space-adventure.json) |
 | SpacePig | 75650 | [75650-spacepig.json](./75650-spacepig.json) |
+| Spaceplan | 28454 | [28454-spaceplan.json](./28454-spaceplan.json) |
 | SpacePod | 142319 | [142319-spacepod.json](./142319-spacepod.json) |
 | SpacePom | 192367 | [192367-spacepom.json](./192367-spacepom.json) |
 | Spaceport Architect | 419992 | [419992-spaceport-architect.json](./419992-spaceport-architect.json) |
@@ -17839,6 +17842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash: Ocean Sanctuary | 122902 | [122902-splash-ocean-sanctuary.json](./122902-splash-ocean-sanctuary.json) |
 | Splashdown | 6149 | [6149-splashdown.json](./6149-splashdown.json) |
 | Splashdown: Rides Gone Wild | 6150 | [6150-splashdown-rides-gone-wild.json](./6150-splashdown-rides-gone-wild.json) |
+| Splasher | 26363 | [26363-splasher.json](./26363-splasher.json) |
 | Splashy Cube | 147937 | [147937-splashy-cube.json](./147937-splashy-cube.json) |
 | Splashy Dots | 54679 | [54679-splashy-dots.json](./54679-splashy-dots.json) |
 | Splashy Duck | 84893 | [84893-splashy-duck.json](./84893-splashy-duck.json) |
@@ -18707,6 +18711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square's Tom Sawyer | 73518 | [73518-squares-tom-sawyer.json](./73518-squares-tom-sawyer.json) |
 | Squareball | 67212 | [67212-squareball.json](./67212-squareball.json) |
 | Squareboy vs Bullies: Arena Edition | 75345 | [75345-squareboy-vs-bullies-arena-edition.json](./75345-squareboy-vs-bullies-arena-edition.json) |
+| SquareCells | 25209 | [25209-squarecells.json](./25209-squarecells.json) |
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
 | Squared Notebook Fight | 377413 | [377413-squared-notebook-fight.json](./377413-squared-notebook-fight.json) |
 | Squared Straight | 374819 | [374819-squared-straight.json](./374819-squared-straight.json) |
@@ -26126,6 +26131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Over! | 244799 | [244799-super-over.json](./244799-super-over.json) |
 | Super Owlboy | 211658 | [211658-super-owlboy.json](./211658-super-owlboy.json) |
 | Super Ox Wars | 22171 | [22171-super-ox-wars.json](./22171-super-ox-wars.json) |
+| Super Pac-Man | 21681 | [21681-super-pac-man.json](./21681-super-pac-man.json) |
 | Super Pac-Man | 239191 | [239191-super-pac-man.json](./239191-super-pac-man.json) |
 | Super Pac-Man | 345360 | [345360-super-pac-man.json](./345360-super-pac-man.json) |
 | Super Pachinko | 46663 | [46663-super-pachinko.json](./46663-super-pachinko.json) |
@@ -27584,6 +27590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival: The Ultimate Challenge | 51243 | [51243-survival-the-ultimate-challenge.json](./51243-survival-the-ultimate-challenge.json) |
 | Survival: Wicked Forest | 102626 | [102626-survival-wicked-forest.json](./102626-survival-wicked-forest.json) |
 | Survivalcraft | 87025 | [87025-survivalcraft.json](./87025-survivalcraft.json) |
+| Survivalist | 35994 | [35994-survivalist.json](./35994-survivalist.json) |
 | Survivalist: Invisible Strain | 117233 | [117233-survivalist-invisible-strain.json](./117233-survivalist-invisible-strain.json) |
 | Survivalizm - The Animal Simulator | 28082 | [28082-survivalizm-the-animal-simulator.json](./28082-survivalizm-the-animal-simulator.json) |
 | Survivalo | 337059 | [337059-survivalo.json](./337059-survivalo.json) |
