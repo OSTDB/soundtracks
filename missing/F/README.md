@@ -1997,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farland Saga I & II: Saturn Tribute | 360013 | [360013-farland-saga-i-and-ii-saturn-tribute.json](./360013-farland-saga-i-and-ii-saturn-tribute.json) |
 | Farland Story | 420580 | [420580-farland-story.json](./420580-farland-story.json) |
 | Farland Story | 44447 | [44447-farland-story.json](./44447-farland-story.json) |
+| Farland Story 2 | 42395 | [42395-farland-story-2.json](./42395-farland-story-2.json) |
 | Farland Story Denki: Arc Ou no Ensei | 73149 | [73149-farland-story-denki-arc-ou-no-ensei.json](./73149-farland-story-denki-arc-ou-no-ensei.json) |
 | Farland Story FX | 45953 | [45953-farland-story-fx.json](./45953-farland-story-fx.json) |
 | Farland Story: Daichi no Kizuna | 70455 | [70455-farland-story-daichi-no-kizuna.json](./70455-farland-story-daichi-no-kizuna.json) |
