@@ -4990,6 +4990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing Sunsets | 323816 | [323816-chasing-sunsets.json](./323816-chasing-sunsets.json) |
 | Chasing Tail | 160240 | [160240-chasing-tail.json](./160240-chasing-tail.json) |
 | Chasing the Dawn | 387140 | [387140-chasing-the-dawn.json](./387140-chasing-the-dawn.json) |
+| Chasing the Stars | 102135 | [102135-chasing-the-stars.json](./102135-chasing-the-stars.json) |
 | Chasing the Universe | 367524 | [367524-chasing-the-universe.json](./367524-chasing-the-universe.json) |
 | Chasing the Unseen | 223414 | [223414-chasing-the-unseen.json](./223414-chasing-the-unseen.json) |
 | Chasing the wind | 150697 | [150697-chasing-the-wind.json](./150697-chasing-the-wind.json) |
@@ -14888,6 +14889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptic Clash | 182907 | [182907-cryptic-clash.json](./182907-cryptic-clash.json) |
 | Cryptic College | 152084 | [152084-cryptic-college.json](./152084-cryptic-college.json) |
 | Cryptic Crawlz | 321478 | [321478-cryptic-crawlz.json](./321478-cryptic-crawlz.json) |
+| Cryptic Crosswords | 100885 | [100885-cryptic-crosswords.json](./100885-cryptic-crosswords.json) |
 | Cryptic Encounters | 208803 | [208803-cryptic-encounters.json](./208803-cryptic-encounters.json) |
 | Cryptic Escape | 62042 | [62042-cryptic-escape.json](./62042-cryptic-escape.json) |
 | Cryptic Glaze Mirror | 391174 | [391174-cryptic-glaze-mirror.json](./391174-cryptic-glaze-mirror.json) |
