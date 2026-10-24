@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto x Boruto: Ultimate NInja Storm Connections - DLC Pack 5 | 317957 | [317957-naruto-x-boruto-ultimate-ninja-storm-connections-dlc-pack-5.json](./317957-naruto-x-boruto-ultimate-ninja-storm-connections-dlc-pack-5.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections - Sound Ultimate Edition | 267240 | [267240-naruto-x-boruto-ultimate-ninja-storm-connections-sound-ultimate-edition.json](./267240-naruto-x-boruto-ultimate-ninja-storm-connections-sound-ultimate-edition.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections - Ultimate Edition | 268549 | [268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json](./268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json) |
+| Naruto: Clash of Ninja | 4026 | [4026-naruto-clash-of-ninja.json](./4026-naruto-clash-of-ninja.json) |
 | Naruto: Clash of Ninja 2 | 24289 | [24289-naruto-clash-of-ninja-2.json](./24289-naruto-clash-of-ninja-2.json) |
 | Naruto: Gekitou Ninja Taisen! 3 | 75836 | [75836-naruto-gekitou-ninja-taisen-3.json](./75836-naruto-gekitou-ninja-taisen-3.json) |
 | Naruto: Gekitou Ninja Taisen! 4 | 75837 | [75837-naruto-gekitou-ninja-taisen-4.json](./75837-naruto-gekitou-ninja-taisen-4.json) |
@@ -2562,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter Nights 2: Storm of Zehir | 3144 | [3144-neverwinter-nights-2-storm-of-zehir.json](./3144-neverwinter-nights-2-storm-of-zehir.json) |
 | Neverwinter Nights: Dark Dreams of Furiae | 155077 | [155077-neverwinter-nights-dark-dreams-of-furiae.json](./155077-neverwinter-nights-dark-dreams-of-furiae.json) |
 | Neverwinter Nights: Diamond | 50323 | [50323-neverwinter-nights-diamond.json](./50323-neverwinter-nights-diamond.json) |
+| Neverwinter Nights: Enhanced Edition | 23719 | [23719-neverwinter-nights-enhanced-edition.json](./23719-neverwinter-nights-enhanced-edition.json) |
 | Neverwinter Nights: Enhanced Edition - Doom of Icewind Dale | 332626 | [332626-neverwinter-nights-enhanced-edition-doom-of-icewind-dale.json](./332626-neverwinter-nights-enhanced-edition-doom-of-icewind-dale.json) |
 | Neverwinter Nights: Gold Edition | 210036 | [210036-neverwinter-nights-gold-edition.json](./210036-neverwinter-nights-gold-edition.json) |
 | Neverwinter Nights: Pirates of the Sword Coast | 124906 | [124906-neverwinter-nights-pirates-of-the-sword-coast.json](./124906-neverwinter-nights-pirates-of-the-sword-coast.json) |
