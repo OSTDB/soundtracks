@@ -1875,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementowers | 152841 | [152841-elementowers.json](./152841-elementowers.json) |
 | Elements | 186872 | [186872-elements.json](./186872-elements.json) |
 | Elements | 271485 | [271485-elements.json](./271485-elements.json) |
+| Elements | 27365 | [27365-elements.json](./27365-elements.json) |
 | Elements | 336927 | [336927-elements.json](./336927-elements.json) |
 | Elements | 383108 | [383108-elements.json](./383108-elements.json) |
 | Elements and Build | 321564 | [321564-elements-and-build.json](./321564-elements-and-build.json) |
