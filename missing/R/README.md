@@ -2872,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record of Agarest War Zero: Limited Edition | 43959 | [43959-record-of-agarest-war-zero-limited-edition.json](./43959-record-of-agarest-war-zero-limited-edition.json) |
 | Record of Agarest War: Limited Edition | 261541 | [261541-record-of-agarest-war-limited-edition.json](./261541-record-of-agarest-war-limited-edition.json) |
 | Record of Battle 3D Maiden Wars | 166209 | [166209-record-of-battle-3d-maiden-wars.json](./166209-record-of-battle-3d-maiden-wars.json) |
+| Record of Lodoss War | 42384 | [42384-record-of-lodoss-war.json](./42384-record-of-lodoss-war.json) |
 | Record of Lodoss War | 81386 | [81386-record-of-lodoss-war.json](./81386-record-of-lodoss-war.json) |
 | Record of Lodoss War II | 66140 | [66140-record-of-lodoss-war-ii.json](./66140-record-of-lodoss-war-ii.json) |
 | Record of Lodoss War Online | 59108 | [59108-record-of-lodoss-war-online.json](./59108-record-of-lodoss-war-online.json) |
@@ -10453,6 +10454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryuu ga Gotoku Kenzan! | 7442 | [7442-ryuu-ga-gotoku-kenzan.json](./7442-ryuu-ga-gotoku-kenzan.json) |
 | Ryuu ga Gotoku Kizuna | 305994 | [305994-ryuu-ga-gotoku-kizuna.json](./305994-ryuu-ga-gotoku-kizuna.json) |
 | Ryuu ga Gotoku Mobile for GREE | 305992 | [305992-ryuu-ga-gotoku-mobile-for-gree.json](./305992-ryuu-ga-gotoku-mobile-for-gree.json) |
+| Ryuuki Heidan Danzarb | 42397 | [42397-ryuuki-heidan-danzarb.json](./42397-ryuuki-heidan-danzarb.json) |
 | Ryuuko no Ken 2 | 38347 | [38347-ryuuko-no-ken-2.json](./38347-ryuuko-no-ken-2.json) |
 | Ryuuko No Ken Gaiden | 75517 | [75517-ryuuko-no-ken-gaiden.json](./75517-ryuuko-no-ken-gaiden.json) |
 | Ryuukyuu | 43197 | [43197-ryuukyuu.json](./43197-ryuukyuu.json) |
