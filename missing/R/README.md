@@ -5458,6 +5458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rezident Evil: It Is Escape | 260137 | [260137-rezident-evil-it-is-escape.json](./260137-rezident-evil-it-is-escape.json) |
 | Rezist: Tower Defense | 123500 | [123500-rezist-tower-defense.json](./123500-rezist-tower-defense.json) |
 | Rezon | 40186 | [40186-rezon.json](./40186-rezon.json) |
+| Rezrog | 23504 | [23504-rezrog.json](./23504-rezrog.json) |
 | Rezzil Player | 220710 | [220710-rezzil-player.json](./220710-rezzil-player.json) |
 | Rezzil Player: Forest Team Pack | 263130 | [263130-rezzil-player-forest-team-pack.json](./263130-rezzil-player-forest-team-pack.json) |
 | RF Project | 193820 | [193820-rf-project.json](./193820-rf-project.json) |
