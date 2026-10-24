@@ -535,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Warfare Collection | 414456 | [414456-galactic-warfare-collection.json](./414456-galactic-warfare-collection.json) |
 | Galactic Warp | 178637 | [178637-galactic-warp.json](./178637-galactic-warp.json) |
 | Galactic Warrior | 28817 | [28817-galactic-warrior.json](./28817-galactic-warrior.json) |
+| Galactic Warriors | 40036 | [40036-galactic-warriors.json](./40036-galactic-warriors.json) |
 | Galactic Wars | 133996 | [133996-galactic-wars.json](./133996-galactic-wars.json) |
 | Galactic Wars EX | 176351 | [176351-galactic-wars-ex.json](./176351-galactic-wars-ex.json) |
 | Galactic Wars: Defend Your Star Worlds | 286206 | [286206-galactic-wars-defend-your-star-worlds.json](./286206-galactic-wars-defend-your-star-worlds.json) |
@@ -795,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy War: The New Colony | 249658 | [249658-galaxy-war-the-new-colony.json](./249658-galaxy-war-the-new-colony.json) |
 | Galaxy Warfighter | 131984 | [131984-galaxy-warfighter.json](./131984-galaxy-warfighter.json) |
 | Galaxy Warrior | 152319 | [152319-galaxy-warrior.json](./152319-galaxy-warrior.json) |
+| Galaxy Wars | 39990 | [39990-galaxy-wars.json](./39990-galaxy-wars.json) |
 | Galaxy Wars 4 | 385552 | [385552-galaxy-wars-4.json](./385552-galaxy-wars-4.json) |
 | Galaxy Wars: Ice Empire | 102820 | [102820-galaxy-wars-ice-empire.json](./102820-galaxy-wars-ice-empire.json) |
 | Galaxy Wars: Space Launcher | 312874 | [312874-galaxy-wars-space-launcher.json](./312874-galaxy-wars-space-launcher.json) |
@@ -838,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galileo | 125676 | [125676-galileo.json](./125676-galileo.json) |
 | Galileo Mystery: The Crown of Midas | 268118 | [268118-galileo-mystery-the-crown-of-midas.json](./268118-galileo-mystery-the-crown-of-midas.json) |
 | Galimulator | 89971 | [89971-galimulator.json](./89971-galimulator.json) |
+| Galivan - Cosmo Police | 40020 | [40020-galivan-cosmo-police.json](./40020-galivan-cosmo-police.json) |
 | Galix: NewHorizons | 304695 | [304695-galix-newhorizons.json](./304695-galix-newhorizons.json) |
 | Gall Force - Eternal Story | 230225 | [230225-gall-force-eternal-story.json](./230225-gall-force-eternal-story.json) |
 | Gall Force: Defence of Chaos | 41746 | [41746-gall-force-defence-of-chaos.json](./41746-gall-force-defence-of-chaos.json) |
@@ -1292,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamp | 25717 | [25717-gamp.json](./25717-gamp.json) |
 | Gan! Gan! Pirates | 1366 | [1366-gan-gan-pirates.json](./1366-gan-gan-pirates.json) |
 | Ganbare Baseball | 284439 | [284439-ganbare-baseball.json](./284439-ganbare-baseball.json) |
+| Ganbare Ginkun | 40035 | [40035-ganbare-ginkun.json](./40035-ganbare-ginkun.json) |
 | Ganbare Goemon 2 | 74284 | [74284-ganbare-goemon-2.json](./74284-ganbare-goemon-2.json) |
 | Ganbare Goemon 2: Kiteretsu Shogun McGuiness | 42413 | [42413-ganbare-goemon-2-kiteretsu-shogun-mcguiness.json](./42413-ganbare-goemon-2-kiteretsu-shogun-mcguiness.json) |
 | Ganbare Goemon 3: Shishijuurokubee no Karakuri Manjigatame | 42412 | [42412-ganbare-goemon-3-shishijuurokubee-no-karakuri-manjigatame.json](./42412-ganbare-goemon-3-shishijuurokubee-no-karakuri-manjigatame.json) |
@@ -1694,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gary: Dark Secrets | 376172 | [376172-gary-dark-secrets.json](./376172-gary-dark-secrets.json) |
 | Gary's Fortune Telling Tent | 318643 | [318643-garys-fortune-telling-tent.json](./318643-garys-fortune-telling-tent.json) |
 | Gary's Wild Adventure | 103920 | [103920-garys-wild-adventure.json](./103920-garys-wild-adventure.json) |
+| Garyo Retsuden | 40034 | [40034-garyo-retsuden.json](./40034-garyo-retsuden.json) |
 | Garyouden Sangoku Seiha no Kei | 392738 | [392738-garyouden-sangoku-seiha-no-kei.json](./392738-garyouden-sangoku-seiha-no-kei.json) |
 | Garyuu-ou | 41726 | [41726-garyuu-ou.json](./41726-garyuu-ou.json) |
 | Garzey's Wing | 363152 | [363152-garzeys-wing.json](./363152-garzeys-wing.json) |
