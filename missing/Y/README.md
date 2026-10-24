@@ -1045,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're Gonna Miss the Bus! | 271385 | [271385-youre-gonna-miss-the-bus.json](./271385-youre-gonna-miss-the-bus.json) |
 | You're Gonna Miss the Bus! | 271683 | [271683-youre-gonna-miss-the-bus.json](./271683-youre-gonna-miss-the-bus.json) |
 | You're Grounded! | 322355 | [322355-youre-grounded.json](./322355-youre-grounded.json) |
+| You're in the Movies | 7258 | [7258-youre-in-the-movies.json](./7258-youre-in-the-movies.json) |
 | You're Mine! | 303275 | [303275-youre-mine.json](./303275-youre-mine.json) |
 | You're My Hero | 55934 | [55934-youre-my-hero.json](./55934-youre-my-hero.json) |
 | You're My Penguin | 254650 | [254650-youre-my-penguin.json](./254650-youre-my-penguin.json) |
@@ -1107,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Young Hearts | 272710 | [272710-young-hearts.json](./272710-young-hearts.json) |
 | Young Justice Shadow Mission | 80565 | [80565-young-justice-shadow-mission.json](./80565-young-justice-shadow-mission.json) |
 | Young Justice: Legacy | 194949 | [194949-young-justice-legacy.json](./194949-young-justice-legacy.json) |
+| Young Justice: Legacy | 7259 | [7259-young-justice-legacy.json](./7259-young-justice-legacy.json) |
 | Young Mage | 244665 | [244665-young-mage.json](./244665-young-mage.json) |
 | Young Merlin | 11665 | [11665-young-merlin.json](./11665-young-merlin.json) |
 | Young Souls | 106857 | [106857-young-souls.json](./106857-young-souls.json) |
