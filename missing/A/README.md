@@ -2978,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -11198,6 +11199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armada | 85501 | [85501-armada.json](./85501-armada.json) |
 | Armada 2: Exodus | 364362 | [364362-armada-2-exodus.json](./364362-armada-2-exodus.json) |
 | Armada 2525 | 50401 | [50401-armada-2525.json](./50401-armada-2525.json) |
+| Armada 2526 | 15027 | [15027-armada-2526.json](./15027-armada-2526.json) |
 | Armada 2526: Gold Edition | 30223 | [30223-armada-2526-gold-edition.json](./30223-armada-2526-gold-edition.json) |
 | Armada Fighters | 415284 | [415284-armada-fighters.json](./415284-armada-fighters.json) |
 | Armada Online | 60410 | [60410-armada-online.json](./60410-armada-online.json) |
@@ -13041,6 +13043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroplatformer | 121260 | [121260-astroplatformer.json](./121260-astroplatformer.json) |
 | Astropocalypse | 289033 | [289033-astropocalypse.json](./289033-astropocalypse.json) |
 | Astropods: Starside Glaze | 316076 | [316076-astropods-starside-glaze.json](./316076-astropods-starside-glaze.json) |
+| AstroPop | 3755 | [3755-astropop.json](./3755-astropop.json) |
 | AstroPuffs | 253505 | [253505-astropuffs.json](./253505-astropuffs.json) |
 | Astropulse: Reincarnation | 327646 | [327646-astropulse-reincarnation.json](./327646-astropulse-reincarnation.json) |
 | Astrorun | 330601 | [330601-astrorun.json](./330601-astrorun.json) |
@@ -13900,6 +13903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurelia: Stellar Arising | 201806 | [201806-aurelia-stellar-arising.json](./201806-aurelia-stellar-arising.json) |
 | Auri's Amazing Arch Adventure | 388247 | [388247-auris-amazing-arch-adventure.json](./388247-auris-amazing-arch-adventure.json) |
 | Auri's Tales | 113042 | [113042-auris-tales.json](./113042-auris-tales.json) |
+| Aurion: Legacy of the Kori-Odan | 14224 | [14224-aurion-legacy-of-the-kori-odan.json](./14224-aurion-legacy-of-the-kori-odan.json) |
 | Auris | 421353 | [421353-auris.json](./421353-auris.json) |
 | Aurium 2 | 317062 | [317062-aurium-2.json](./317062-aurium-2.json) |
 | Auro the Bunny | 188848 | [188848-auro-the-bunny.json](./188848-auro-the-bunny.json) |
