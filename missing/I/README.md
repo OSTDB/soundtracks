@@ -4819,6 +4819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Vulture | 132734 | [132734-iron-vulture.json](./132734-iron-vulture.json) |
 | Iron Warriors: T-72 Tank Command | 14794 | [14794-iron-warriors-t-72-tank-command.json](./14794-iron-warriors-t-72-tank-command.json) |
 | Iron Wasteland | 406572 | [406572-iron-wasteland.json](./406572-iron-wasteland.json) |
+| Iron Wings | 25953 | [25953-iron-wings.json](./25953-iron-wings.json) |
 | Iron Works | 383350 | [383350-iron-works.json](./383350-iron-works.json) |
 | Ironblood | 402498 | [402498-ironblood.json](./402498-ironblood.json) |
 | IronBorn | 109585 | [109585-ironborn.json](./109585-ironborn.json) |
