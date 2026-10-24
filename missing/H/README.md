@@ -2499,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Collector VR | 309436 | [309436-head-collector-vr.json](./309436-head-collector-vr.json) |
 | Head Games | 152351 | [152351-head-games.json](./152351-head-games.json) |
 | Head Games and Tank Battle Retro | 238047 | [238047-head-games-and-tank-battle-retro.json](./238047-head-games-and-tank-battle-retro.json) |
+| Head Goal: Soccer Online | 54447 | [54447-head-goal-soccer-online.json](./54447-head-goal-soccer-online.json) |
 | Head It!: VR Soccer Heading Game | 30754 | [30754-head-it-vr-soccer-heading-game.json](./30754-head-it-vr-soccer-heading-game.json) |
 | Head Mode | 178948 | [178948-head-mode.json](./178948-head-mode.json) |
 | Head North: The Inevitable | 269604 | [269604-head-north-the-inevitable.json](./269604-head-north-the-inevitable.json) |
@@ -8877,6 +8878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of 1000 Doors: Evil Inside - Collector's Edition | 273946 | [273946-house-of-1000-doors-evil-inside-collectors-edition.json](./273946-house-of-1000-doors-evil-inside-collectors-edition.json) |
 | House of 1000 Doors: Family Secrets | 36371 | [36371-house-of-1000-doors-family-secrets.json](./36371-house-of-1000-doors-family-secrets.json) |
 | House of 1000 Doors: Family Secrets | 79322 | [79322-house-of-1000-doors-family-secrets.json](./79322-house-of-1000-doors-family-secrets.json) |
+| House of 1000 Doors: Family Secrets - Collector's Edition | 53196 | [53196-house-of-1000-doors-family-secrets-collectors-edition.json](./53196-house-of-1000-doors-family-secrets-collectors-edition.json) |
 | House of 1000 Doors: Palm of Zoroaster | 50312 | [50312-house-of-1000-doors-palm-of-zoroaster.json](./50312-house-of-1000-doors-palm-of-zoroaster.json) |
 | House of 1000 Doors: Serpent Flame | 119031 | [119031-house-of-1000-doors-serpent-flame.json](./119031-house-of-1000-doors-serpent-flame.json) |
 | House of 1000 Doors: The Palm of Zoroaster | 125688 | [125688-house-of-1000-doors-the-palm-of-zoroaster.json](./125688-house-of-1000-doors-the-palm-of-zoroaster.json) |
