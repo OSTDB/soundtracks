@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.S.S. Builder | 78063 | [78063-m-a-s-s-builder.json](./78063-m-a-s-s-builder.json) |
 | M.A.T | 47018 | [47018-m-a-t.json](./47018-m-a-t.json) |
 | M.A.U.S | 380650 | [380650-m-a-u-s.json](./380650-m-a-u-s.json) |
+| M.A.V. | 17103 | [17103-m-a-v.json](./17103-m-a-v.json) |
 | M.A.X.: Mechanized Assault & Exploration | 775 | [775-m-a-x-mechanized-assault-and-exploration.json](./775-m-a-x-mechanized-assault-and-exploration.json) |
 | M.A.Y.A | 397827 | [397827-m-a-y-a.json](./397827-m-a-y-a.json) |
 | M.C Kids | 2718 | [2718-m-c-kids.json](./2718-m-c-kids.json) |
@@ -324,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Pack | 146046 | [146046-mad-pack.json](./146046-mad-pack.json) |
 | Mad Panic Coaster | 43835 | [43835-mad-panic-coaster.json](./43835-mad-panic-coaster.json) |
 | Mad Planets | 23500 | [23500-mad-planets.json](./23500-mad-planets.json) |
+| Mad Professor Mariarti | 12674 | [12674-mad-professor-mariarti.json](./12674-mad-professor-mariarti.json) |
 | Mad Quad | 80906 | [80906-mad-quad.json](./80906-mad-quad.json) |
 | Mad Rabbit | 120097 | [120097-mad-rabbit.json](./120097-mad-rabbit.json) |
 | Mad Racing Super Speed | 90424 | [90424-mad-racing-super-speed.json](./90424-mad-racing-super-speed.json) |
@@ -831,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Bows | 359400 | [359400-magic-bows.json](./359400-magic-bows.json) |
 | Magic Box | 29867 | [29867-magic-box.json](./29867-magic-box.json) |
 | Magic Boxes | 73749 | [73749-magic-boxes.json](./73749-magic-boxes.json) |
+| Magic Boy | 12675 | [12675-magic-boy.json](./12675-magic-boy.json) |
 | Magic Brick Wars | 317379 | [317379-magic-brick-wars.json](./317379-magic-brick-wars.json) |
 | Magic Bubble | 246100 | [246100-magic-bubble.json](./246100-magic-bubble.json) |
 | Magic Bubble | 246455 | [246455-magic-bubble.json](./246455-magic-bubble.json) |
@@ -4385,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Me If You Can | 248806 | [248806-match-me-if-you-can.json](./248806-match-me-if-you-can.json) |
 | Match More | 32671 | [32671-match-more.json](./32671-match-more.json) |
 | Match Morphosis | 381618 | [381618-match-morphosis.json](./381618-match-morphosis.json) |
+| Match of the Day | 12676 | [12676-match-of-the-day.json](./12676-match-of-the-day.json) |
 | Match of the Day: Kevin Keegan's Electronic Action Soccer Game | 245450 | [245450-match-of-the-day-kevin-keegans-electronic-action-soccer-game.json](./245450-match-of-the-day-kevin-keegans-electronic-action-soccer-game.json) |
 | Match Pair 3D Puzzle | 243638 | [243638-match-pair-3d-puzzle.json](./243638-match-pair-3d-puzzle.json) |
 | Match Point | 324904 | [324904-match-point.json](./324904-match-point.json) |
@@ -4533,6 +4537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Genius: Addition Edition | 318250 | [318250-math-genius-addition-edition.json](./318250-math-genius-addition-edition.json) |
 | Math Genius: Multiplication | 321483 | [321483-math-genius-multiplication.json](./321483-math-genius-multiplication.json) |
 | Math Genius: Subtraction | 333204 | [333204-math-genius-subtraction.json](./333204-math-genius-subtraction.json) |
+| Math Gran Prix | 17260 | [17260-math-gran-prix.json](./17260-math-gran-prix.json) |
 | Math Gym | 186703 | [186703-math-gym.json](./186703-math-gym.json) |
 | Math Heads | 411096 | [411096-math-heads.json](./411096-math-heads.json) |
 | Math Hero: Minimalist Puzzle | 163556 | [163556-math-hero-minimalist-puzzle.json](./163556-math-hero-minimalist-puzzle.json) |
@@ -5260,6 +5265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meal: Mystery Escape Room | 311828 | [311828-meal-mystery-escape-room.json](./311828-meal-mystery-escape-room.json) |
 | Mealmate | 388308 | [388308-mealmate.json](./388308-mealmate.json) |
 | Mealmates | 151009 | [151009-mealmates.json](./151009-mealmates.json) |
+| Mean Arenas | 12677 | [12677-mean-arenas.json](./12677-mean-arenas.json) |
 | Mean Bean Tsuu | 321399 | [321399-mean-bean-tsuu.json](./321399-mean-bean-tsuu.json) |
 | Mean Beans | 236289 | [236289-mean-beans.json](./236289-mean-beans.json) |
 | Mean Beans: Gotta Have It Hat Pack | 257858 | [257858-mean-beans-gotta-have-it-hat-pack.json](./257858-mean-beans-gotta-have-it-hat-pack.json) |
@@ -6715,6 +6721,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaton: Total Destruction | 69413 | [69413-megaton-total-destruction.json](./69413-megaton-total-destruction.json) |
 | Megatouch Mobile Arcade | 286675 | [286675-megatouch-mobile-arcade.json](./286675-megatouch-mobile-arcade.json) |
 | Megatramp: A Success Story | 312613 | [312613-megatramp-a-success-story.json](./312613-megatramp-a-success-story.json) |
+| MegaTraveller 1: The Zhodani Conspiracy | 12678 | [12678-megatraveller-1-the-zhodani-conspiracy.json](./12678-megatraveller-1-the-zhodani-conspiracy.json) |
+| MegaTraveller 2: Quest for the Ancients | 12679 | [12679-megatraveller-2-quest-for-the-ancients.json](./12679-megatraveller-2-quest-for-the-ancients.json) |
 | Megatron VGA | 46648 | [46648-megatron-vga.json](./46648-megatron-vga.json) |
 | Megatronic Void | 59226 | [59226-megatronic-void.json](./59226-megatronic-void.json) |
 | Megatudo 2096 | 43827 | [43827-megatudo-2096.json](./43827-megatudo-2096.json) |
@@ -7418,6 +7426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenary Brotherhood | 423295 | [423295-mercenary-brotherhood.json](./423295-mercenary-brotherhood.json) |
 | Mercenary Force | 48917 | [48917-mercenary-force.json](./48917-mercenary-force.json) |
 | Mercenary Guild Manager | 420500 | [420500-mercenary-guild-manager.json](./420500-mercenary-guild-manager.json) |
+| Mercenary III: The Dion Crisis | 12680 | [12680-mercenary-iii-the-dion-crisis.json](./12680-mercenary-iii-the-dion-crisis.json) |
 | Mercenary Leto | 105145 | [105145-mercenary-leto.json](./105145-mercenary-leto.json) |
 | Mercenary Ops | 65175 | [65175-mercenary-ops.json](./65175-mercenary-ops.json) |
 | Mercenary Squad Auto Chess | 285366 | [285366-mercenary-squad-auto-chess.json](./285366-mercenary-squad-auto-chess.json) |
@@ -9093,6 +9102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midway's Greatest Arcade Hits: Volume 1 | 286966 | [286966-midways-greatest-arcade-hits-volume-1.json](./286966-midways-greatest-arcade-hits-volume-1.json) |
 | Midwest Drag Racing | 395190 | [395190-midwest-drag-racing.json](./395190-midwest-drag-racing.json) |
 | Midwest Goodbye | 414183 | [414183-midwest-goodbye.json](./414183-midwest-goodbye.json) |
+| Midwinter | 12681 | [12681-midwinter.json](./12681-midwinter.json) |
 | Midwinter | 79580 | [79580-midwinter.json](./79580-midwinter.json) |
 | Midwinter II: Flames of Freedom | 15266 | [15266-midwinter-ii-flames-of-freedom.json](./15266-midwinter-ii-flames-of-freedom.json) |
 | MidZone | 110484 | [110484-midzone.json](./110484-midzone.json) |
@@ -9103,6 +9113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiG Alley | 789 | [789-mig-alley.json](./789-mig-alley.json) |
 | MIG-29 Fighter Pilot | 45773 | [45773-mig-29-fighter-pilot.json](./45773-mig-29-fighter-pilot.json) |
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
+| MiG-29M Super Fulcrum | 12683 | [12683-mig-29m-super-fulcrum.json](./12683-mig-29m-super-fulcrum.json) |
 | Migakamikagami: Reviver | 358631 | [358631-migakamikagami-reviver.json](./358631-migakamikagami-reviver.json) |
 | Migawari Shoujo | 150571 | [150571-migawari-shoujo.json](./150571-migawari-shoujo.json) |
 | Migblock | 387144 | [387144-migblock.json](./387144-migblock.json) |
@@ -9722,6 +9733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MindEscape | 379338 | [379338-mindescape.json](./379338-mindescape.json) |
 | MindFall | 314360 | [314360-mindfall.json](./314360-mindfall.json) |
 | Mindfate | 319064 | [319064-mindfate.json](./319064-mindfate.json) |
+| Mindfighter | 12684 | [12684-mindfighter.json](./12684-mindfighter.json) |
 | Mindflux: Dead Man Walking | 319701 | [319701-mindflux-dead-man-walking.json](./319701-mindflux-dead-man-walking.json) |
 | Mindform | 292367 | [292367-mindform.json](./292367-mindform.json) |
 | Mindframe Arena | 98276 | [98276-mindframe-arena.json](./98276-mindframe-arena.json) |
@@ -16766,6 +16778,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pet | 245431 | [245431-my-pet.json](./245431-my-pet.json) |
 | My Pet Fan | 351721 | [351721-my-pet-fan.json](./351721-my-pet-fan.json) |
 | My Pet Femboy | 355617 | [355617-my-pet-femboy.json](./355617-my-pet-femboy.json) |
+| My Pet Hotel | 17048 | [17048-my-pet-hotel.json](./17048-my-pet-hotel.json) |
+| My Pet Hotel 2 | 17049 | [17049-my-pet-hotel-2.json](./17049-my-pet-hotel-2.json) |
 | My Pet Puppy 3D | 65470 | [65470-my-pet-puppy-3d.json](./65470-my-pet-puppy-3d.json) |
 | My Pet Rock | 195218 | [195218-my-pet-rock.json](./195218-my-pet-rock.json) |
 | My Pet Store | 361007 | [361007-my-pet-store.json](./361007-my-pet-store.json) |
