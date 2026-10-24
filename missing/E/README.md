@@ -5369,6 +5369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ever Lasting Joy | 51527 | [51527-ever-lasting-joy.json](./51527-ever-lasting-joy.json) |
 | Ever Legion | 231954 | [231954-ever-legion.json](./231954-ever-legion.json) |
 | Ever Maiden: Daraku no Sono no Otome-tachi | 249497 | [249497-ever-maiden-daraku-no-sono-no-otome-tachi.json](./249497-ever-maiden-daraku-no-sono-no-otome-tachi.json) |
+| Ever Oasis | 19596 | [19596-ever-oasis.json](./19596-ever-oasis.json) |
 | Ever Planet | 67290 | [67290-ever-planet.json](./67290-ever-planet.json) |
 | Ever Seen a Cat? | 187258 | [187258-ever-seen-a-cat.json](./187258-ever-seen-a-cat.json) |
 | Ever Seen A Cat? 2 | 202531 | [202531-ever-seen-a-cat-2.json](./202531-ever-seen-a-cat-2.json) |
