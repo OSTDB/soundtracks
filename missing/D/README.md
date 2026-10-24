@@ -3013,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive M | 123262 | [123262-dead-or-alive-m.json](./123262-dead-or-alive-m.json) |
 | Dead or Alive New Project | 389426 | [389426-dead-or-alive-new-project.json](./389426-dead-or-alive-new-project.json) |
 | Dead or Alive Online | 66770 | [66770-dead-or-alive-online.json](./66770-dead-or-alive-online.json) |
+| Dead or Alive Paradise | 1395 | [1395-dead-or-alive-paradise.json](./1395-dead-or-alive-paradise.json) |
 | Dead or Alive Ultimate | 318500 | [318500-dead-or-alive-ultimate.json](./318500-dead-or-alive-ultimate.json) |
 | Dead or Alive Xtreme 3 Fortune: Collector's Edition | 166233 | [166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json](./166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json) |
 | Dead or Alive Xtreme 3: Fortune - VR Paradise | 26930 | [26930-dead-or-alive-xtreme-3-fortune-vr-paradise.json](./26930-dead-or-alive-xtreme-3-fortune-vr-paradise.json) |
@@ -4692,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degraman: Act I - Vincent | 196165 | [196165-degraman-act-i-vincent.json](./196165-degraman-act-i-vincent.json) |
 | Degraman: Act I - Vincent, Cassel & Loner | 196088 | [196088-degraman-act-i-vincent-cassel-and-loner.json](./196088-degraman-act-i-vincent-cassel-and-loner.json) |
 | Degraman: Act II - Victor | 265571 | [265571-degraman-act-ii-victor.json](./265571-degraman-act-ii-victor.json) |
+| Degrees of Lewdity | 136941 | [136941-degrees-of-lewdity.json](./136941-degrees-of-lewdity.json) |
 | Degu Squad | 282007 | [282007-degu-squad.json](./282007-degu-squad.json) |
 | DeHexTD | 154314 | [154314-dehextd.json](./154314-dehextd.json) |
 | Dehoarder 2 | 214509 | [214509-dehoarder-2.json](./214509-dehoarder-2.json) |
@@ -8503,6 +8505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Ready For Math With Pooh | 85959 | [85959-disneys-ready-for-math-with-pooh.json](./85959-disneys-ready-for-math-with-pooh.json) |
 | Disney's Stitch: Experiment 626 | 25911 | [25911-disneys-stitch-experiment-626.json](./25911-disneys-stitch-experiment-626.json) |
 | Disney's Story Studio: Disney's Mulan | 44839 | [44839-disneys-story-studio-disneys-mulan.json](./44839-disneys-story-studio-disneys-mulan.json) |
+| Disney's TaleSpin | 138106 | [138106-disneys-talespin.json](./138106-disneys-talespin.json) |
 | Disney's TaleSpin | 198936 | [198936-disneys-talespin.json](./198936-disneys-talespin.json) |
 | Disney's TaleSpin | 8067 | [8067-disneys-talespin.json](./8067-disneys-talespin.json) |
 | Disney's Tarzan | 116135 | [116135-disneys-tarzan.json](./116135-disneys-tarzan.json) |
@@ -9270,6 +9273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoDonPachi Dai-Ou-Jou V101 | 84158 | [84158-dodonpachi-dai-ou-jou-v101.json](./84158-dodonpachi-dai-ou-jou-v101.json) |
 | DoDonPachi Daifukkatsu Black Label | 77997 | [77997-dodonpachi-daifukkatsu-black-label.json](./77997-dodonpachi-daifukkatsu-black-label.json) |
 | DoDonPachi DaiFukkatsu Ver 1.5 | 84160 | [84160-dodonpachi-daifukkatsu-ver-1-5.json](./84160-dodonpachi-daifukkatsu-ver-1-5.json) |
+| DoDonPachi DaiOuJou | 1675 | [1675-dodonpachi-daioujou.json](./1675-dodonpachi-daioujou.json) |
 | DoDonPachi DaiOuJou | 294532 | [294532-dodonpachi-daioujou.json](./294532-dodonpachi-daioujou.json) |
 | DoDonPachi DaiOuJou DX | 214719 | [214719-dodonpachi-daioujou-dx.json](./214719-dodonpachi-daioujou-dx.json) |
 | DoDonPachi DaiOuJou: Black Label | 262448 | [262448-dodonpachi-daioujou-black-label.json](./262448-dodonpachi-daioujou-black-label.json) |
@@ -11779,6 +11783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Idainaru Son Goku Densetsu | 37599 | [37599-dragon-ball-z-idainaru-son-goku-densetsu.json](./37599-dragon-ball-z-idainaru-son-goku-densetsu.json) |
 | Dragon Ball Z: Infinite World | 2570 | [2570-dragon-ball-z-infinite-world.json](./2570-dragon-ball-z-infinite-world.json) |
 | Dragon Ball Z: Kakarot | 114009 | [114009-dragon-ball-z-kakarot.json](./114009-dragon-ball-z-kakarot.json) |
+| Dragon Ball Z: Kakarot - A New Power Awakens: Part 1 | 132643 | [132643-dragon-ball-z-kakarot-a-new-power-awakens-part-1.json](./132643-dragon-ball-z-kakarot-a-new-power-awakens-part-1.json) |
 | Dragon Ball Z: Kakarot - A New Power Awakens: Part 2 | 141042 | [141042-dragon-ball-z-kakarot-a-new-power-awakens-part-2.json](./141042-dragon-ball-z-kakarot-a-new-power-awakens-part-2.json) |
 | Dragon Ball Z: Kakarot - Bardock: Alone Against Fate | 227674 | [227674-dragon-ball-z-kakarot-bardock-alone-against-fate.json](./227674-dragon-ball-z-kakarot-bardock-alone-against-fate.json) |
 | Dragon Ball Z: Kakarot - Daima Edition | 386957 | [386957-dragon-ball-z-kakarot-daima-edition.json](./386957-dragon-ball-z-kakarot-daima-edition.json) |
@@ -12118,6 +12123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monsters: The Withered World - Digital Deluxe Edition | 418330 | [418330-dragon-quest-monsters-the-withered-world-digital-deluxe-edition.json](./418330-dragon-quest-monsters-the-withered-world-digital-deluxe-edition.json) |
 | Dragon Quest of the Stars | 131686 | [131686-dragon-quest-of-the-stars.json](./131686-dragon-quest-of-the-stars.json) |
 | Dragon Quest Rivals Ace | 31559 | [31559-dragon-quest-rivals-ace.json](./31559-dragon-quest-rivals-ace.json) |
+| Dragon Quest Swords: The Masked Queen and the Tower of Mirrors | 1822 | [1822-dragon-quest-swords-the-masked-queen-and-the-tower-of-mirrors.json](./1822-dragon-quest-swords-the-masked-queen-and-the-tower-of-mirrors.json) |
 | Dragon Quest Tact | 130037 | [130037-dragon-quest-tact.json](./130037-dragon-quest-tact.json) |
 | Dragon Quest Treasures | 150022 | [150022-dragon-quest-treasures.json](./150022-dragon-quest-treasures.json) |
 | Dragon Quest Treasures: Digital Deluxe Edition | 219485 | [219485-dragon-quest-treasures-digital-deluxe-edition.json](./219485-dragon-quest-treasures-digital-deluxe-edition.json) |
@@ -12167,6 +12173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Raja: ReRise | 402964 | [402964-dragon-raja-rerise.json](./402964-dragon-raja-rerise.json) |
 | Dragon Riddler | 348661 | [348661-dragon-riddler.json](./348661-dragon-riddler.json) |
 | Dragon Riders | 411136 | [411136-dragon-riders.json](./411136-dragon-riders.json) |
+| Dragon Riders: Chronicles of Pern | 132134 | [132134-dragon-riders-chronicles-of-pern.json](./132134-dragon-riders-chronicles-of-pern.json) |
 | Dragon Rising | 149307 | [149307-dragon-rising.json](./149307-dragon-rising.json) |
 | Dragon Roll | 184124 | [184124-dragon-roll.json](./184124-dragon-roll.json) |
 | Dragon Roller Coaster VR | 114331 | [114331-dragon-roller-coaster-vr.json](./114331-dragon-roller-coaster-vr.json) |
@@ -14859,6 +14866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DungeonGoGo | 68473 | [68473-dungeongogo.json](./68473-dungeongogo.json) |
 | Dungeoning | 290242 | [290242-dungeoning.json](./290242-dungeoning.json) |
 | Dungeonite | 152822 | [152822-dungeonite.json](./152822-dungeonite.json) |
+| Dungeonland | 2017 | [2017-dungeonland.json](./2017-dungeonland.json) |
 | Dungeonlike | 183574 | [183574-dungeonlike.json](./183574-dungeonlike.json) |
 | Dungeonlite Duelers | 175836 | [175836-dungeonlite-duelers.json](./175836-dungeonlite-duelers.json) |
 | Dungeonloop | 401092 | [401092-dungeonloop.json](./401092-dungeonloop.json) |
