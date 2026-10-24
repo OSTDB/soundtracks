@@ -5880,6 +5880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shannon Tweed's Attack of the Groupies | 36382 | [36382-shannon-tweeds-attack-of-the-groupies.json](./36382-shannon-tweeds-attack-of-the-groupies.json) |
 | Shanshui | 178485 | [178485-shanshui.json](./178485-shanshui.json) |
 | Shanshui Haven | 273347 | [273347-shanshui-haven.json](./273347-shanshui-haven.json) |
+| Shantae | 145978 | [145978-shantae.json](./145978-shantae.json) |
 | Shantae | 8432 | [8432-shantae.json](./8432-shantae.json) |
 | Shantae Advance: Risky Revolution | 276506 | [276506-shantae-advance-risky-revolution.json](./276506-shantae-advance-risky-revolution.json) |
 | Shantae and Asha: Dream Fantasia | 321075 | [321075-shantae-and-asha-dream-fantasia.json](./321075-shantae-and-asha-dream-fantasia.json) |
@@ -9351,6 +9352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Tincan: Adventures in the Castle | 147655 | [147655-sir-tincan-adventures-in-the-castle.json](./147655-sir-tincan-adventures-in-the-castle.json) |
 | Sir War-A-Lot | 158093 | [158093-sir-war-a-lot.json](./158093-sir-war-a-lot.json) |
 | Sir Whoopass & Switchball HD Bundle | 244792 | [244792-sir-whoopass-and-switchball-hd-bundle.json](./244792-sir-whoopass-and-switchball-hd-bundle.json) |
+| Sir Whoopass: Immortal Death | 142703 | [142703-sir-whoopass-immortal-death.json](./142703-sir-whoopass-immortal-death.json) |
 | Sir, We Have an Orc Problem | 400094 | [400094-sir-we-have-an-orc-problem.json](./400094-sir-we-have-an-orc-problem.json) |
 | Sir, You Are Being Hunted | 8478 | [8478-sir-you-are-being-hunted.json](./8478-sir-you-are-being-hunted.json) |
 | Sir! I'd Like to Report a Bug! | 34702 | [34702-sir-id-like-to-report-a-bug.json](./34702-sir-id-like-to-report-a-bug.json) |
@@ -12284,6 +12286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SNK vs. Capcom: Card Fighters 2 - Expand Edition | 75441 | [75441-snk-vs-capcom-card-fighters-2-expand-edition.json](./75441-snk-vs-capcom-card-fighters-2-expand-edition.json) |
 | SNK vs. Capcom: SVC Chaos | 309177 | [309177-snk-vs-capcom-svc-chaos.json](./309177-snk-vs-capcom-svc-chaos.json) |
 | Snk's Cool Cool Toon | 45820 | [45820-snks-cool-cool-toon.json](./45820-snks-cool-cool-toon.json) |
+| Snkrx | 148027 | [148027-snkrx.json](./148027-snkrx.json) |
 | Sno Pokeler | 237532 | [237532-sno-pokeler.json](./237532-sno-pokeler.json) |
 | Snø: Ultimate Freeriding | 317533 | [317533-sn-ultimate-freeriding.json](./317533-sn-ultimate-freeriding.json) |
 | Snoball in Hell | 293314 | [293314-snoball-in-hell.json](./293314-snoball-in-hell.json) |
@@ -12855,8 +12858,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Socks & Pants | 357300 | [357300-socks-and-pants.json](./357300-socks-and-pants.json) |
 | Socks! | 389699 | [389699-socks.json](./389699-socks.json) |
 | Sockventure | 128924 | [128924-sockventure.json](./128924-sockventure.json) |
+| SOCOM 3: U.S. Navy SEALs | 8241 | [8241-socom-3-u-s-navy-seals.json](./8241-socom-3-u-s-navy-seals.json) |
 | SOCOM 4: U.S. Navy SEALs | 7459 | [7459-socom-4-u-s-navy-seals.json](./7459-socom-4-u-s-navy-seals.json) |
 | SOCOM II: U.S. Navy SEALs | 8240 | [8240-socom-ii-u-s-navy-seals.json](./8240-socom-ii-u-s-navy-seals.json) |
+| SOCOM: U.S. Navy SEALs - Combined Assault | 8242 | [8242-socom-u-s-navy-seals-combined-assault.json](./8242-socom-u-s-navy-seals-combined-assault.json) |
 | SOCOM: U.S. Navy SEALs Fireteam Bravo 2 | 19431 | [19431-socom-u-s-navy-seals-fireteam-bravo-2.json](./19431-socom-u-s-navy-seals-fireteam-bravo-2.json) |
 | SOCOM: U.S. Navy SEALs Fireteam Bravo 3 | 21665 | [21665-socom-u-s-navy-seals-fireteam-bravo-3.json](./21665-socom-u-s-navy-seals-fireteam-bravo-3.json) |
 | SOCOM: US Navy SEALs | 22238 | [22238-socom-us-navy-seals.json](./22238-socom-us-navy-seals.json) |
@@ -14321,6 +14326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Gizoid | 326133 | [326133-sonic-the-gizoid.json](./326133-sonic-the-gizoid.json) |
 | Sonic the Hackable | 321071 | [321071-sonic-the-hackable.json](./321071-sonic-the-hackable.json) |
 | Sonic the Hedgehog | 106274 | [106274-sonic-the-hedgehog.json](./106274-sonic-the-hedgehog.json) |
+| Sonic the Hedgehog | 150029 | [150029-sonic-the-hedgehog.json](./150029-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 197617 | [197617-sonic-the-hedgehog.json](./197617-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 198248 | [198248-sonic-the-hedgehog.json](./198248-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 207208 | [207208-sonic-the-hedgehog.json](./207208-sonic-the-hedgehog.json) |
@@ -15058,6 +15064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulcreek | 229616 | [229616-soulcreek.json](./229616-soulcreek.json) |
 | Soulcrusher | 255881 | [255881-soulcrusher.json](./255881-soulcrusher.json) |
 | Souldead | 216895 | [216895-souldead.json](./216895-souldead.json) |
+| Souldiers | 155498 | [155498-souldiers.json](./155498-souldiers.json) |
 | Souldiers: Digital Deluxe Edition | 203687 | [203687-souldiers-digital-deluxe-edition.json](./203687-souldiers-digital-deluxe-edition.json) |
 | Souldrop | 198075 | [198075-souldrop.json](./198075-souldrop.json) |
 | Soulers | 280122 | [280122-soulers.json](./280122-soulers.json) |
@@ -17001,6 +17008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedy Golf | 90843 | [90843-speedy-golf.json](./90843-speedy-golf.json) |
 | Speedy Gonzales | 8077 | [8077-speedy-gonzales.json](./8077-speedy-gonzales.json) |
 | Speedy Gonzales: Aztec Adventure | 49970 | [49970-speedy-gonzales-aztec-adventure.json](./49970-speedy-gonzales-aztec-adventure.json) |
+| Speedy Gonzales: Los Gatos Bandidos | 8076 | [8076-speedy-gonzales-los-gatos-bandidos.json](./8076-speedy-gonzales-los-gatos-bandidos.json) |
 | Speedy Guys | 268956 | [268956-speedy-guys.json](./268956-speedy-guys.json) |
 | Speedy Lander | 73603 | [73603-speedy-lander.json](./73603-speedy-lander.json) |
 | Speedy Rush | 174908 | [174908-speedy-rush.json](./174908-speedy-rush.json) |
@@ -22451,6 +22459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Fighters | 126578 | [126578-stream-fighters.json](./126578-stream-fighters.json) |
 | Stream Madness | 150685 | [150685-stream-madness.json](./150685-stream-madness.json) |
 | Stream or Die! | 292306 | [292306-stream-or-die.json](./292306-stream-or-die.json) |
+| Stream Pairs | 191270 | [191270-stream-pairs.json](./191270-stream-pairs.json) |
 | Stream Quest | 142410 | [142410-stream-quest.json](./142410-stream-quest.json) |
 | Stream Quiz | 140027 | [140027-stream-quiz.json](./140027-stream-quiz.json) |
 | Stream Racer | 135295 | [135295-stream-racer.json](./135295-stream-racer.json) |
