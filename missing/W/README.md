@@ -2396,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Walked In Darkness | 81734 | [81734-we-walked-in-darkness.json](./81734-we-walked-in-darkness.json) |
 | We Want You | 242646 | [242646-we-want-you.json](./242646-we-want-you.json) |
 | We Want Your Head | 383154 | [383154-we-want-your-head.json](./383154-we-want-your-head.json) |
+| We Went Back | 130185 | [130185-we-went-back.json](./130185-we-went-back.json) |
 | We Were Here Tomorrow | 393015 | [393015-we-were-here-tomorrow.json](./393015-we-were-here-tomorrow.json) |
 | We Were Monkeys | 292437 | [292437-we-were-monkeys.json](./292437-we-were-monkeys.json) |
 | We Who Rise | 358814 | [358814-we-who-rise.json](./358814-we-who-rise.json) |
@@ -3219,7 +3220,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -7254,6 +7254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of Towers | 294383 | [294383-wrath-of-towers.json](./294383-wrath-of-towers.json) |
 | Wrath Rally | 184934 | [184934-wrath-rally.json](./184934-wrath-rally.json) |
 | Wrath: Aeon of Ruin VR - Brutal Edition | 313772 | [313772-wrath-aeon-of-ruin-vr-brutal-edition.json](./313772-wrath-aeon-of-ruin-vr-brutal-edition.json) |
+| WRC 10 | 145735 | [145735-wrc-10.json](./145735-wrc-10.json) |
 | WRC 10: Deluxe Edition | 169202 | [169202-wrc-10-deluxe-edition.json](./169202-wrc-10-deluxe-edition.json) |
 | WRC 2: FIA World Rally Championship | 9393 | [9393-wrc-2-fia-world-rally-championship.json](./9393-wrc-2-fia-world-rally-championship.json) |
 | WRC 2: FIA World Rally Championship 2011 | 51296 | [51296-wrc-2-fia-world-rally-championship-2011.json](./51296-wrc-2-fia-world-rally-championship-2011.json) |
@@ -7674,6 +7675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyatt Earp's Old West | 58072 | [58072-wyatt-earps-old-west.json](./58072-wyatt-earps-old-west.json) |
 | Wycheweald | 340730 | [340730-wycheweald.json](./340730-wycheweald.json) |
 | Wyld Land | 334480 | [334480-wyld-land.json](./334480-wyld-land.json) |
+| Wylde Flowers | 191747 | [191747-wylde-flowers.json](./191747-wylde-flowers.json) |
 | Wyldheart | 395042 | [395042-wyldheart.json](./395042-wyldheart.json) |
 | WyndBlast | 234752 | [234752-wyndblast.json](./234752-wyndblast.json) |
 | Wyprawa po zlote runo | 318490 | [318490-wyprawa-po-zlote-runo.json](./318490-wyprawa-po-zlote-runo.json) |
