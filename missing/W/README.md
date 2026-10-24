@@ -2150,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WaxHeart | 250758 | [250758-waxheart.json](./250758-waxheart.json) |
 | Waxweaver | 333997 | [333997-waxweaver.json](./333997-waxweaver.json) |
 | Waxwing Radio | 298829 | [298829-waxwing-radio.json](./298829-waxwing-radio.json) |
+| Waxworks | 24694 | [24694-waxworks.json](./24694-waxworks.json) |
 | Waxworks: Curse of the Ancestors | 126548 | [126548-waxworks-curse-of-the-ancestors.json](./126548-waxworks-curse-of-the-ancestors.json) |
 | Way | 98872 | [98872-way.json](./98872-way.json) |
 | Way Back Home | 127742 | [127742-way-back-home.json](./127742-way-back-home.json) |
@@ -3699,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whistle: Fuki Nukeru Kaze | 61407 | [61407-whistle-fuki-nukeru-kaze.json](./61407-whistle-fuki-nukeru-kaze.json) |
 | Whistle! Dai 37-kai Tokyo-to Chuugakkou Sougou Taiiku Soccer Taikai | 386986 | [386986-whistle-dai-37-kai-tokyo-to-chuugakkou-sougou-taiiku-soccer-taikai.json](./386986-whistle-dai-37-kai-tokyo-to-chuugakkou-sougou-taiiku-soccer-taikai.json) |
 | Whistle1 | 402524 | [402524-whistle1.json](./402524-whistle1.json) |
+| Whistler's Brother | 24686 | [24686-whistlers-brother.json](./24686-whistlers-brother.json) |
 | WhiTaers | 113663 | [113663-whitaers.json](./113663-whitaers.json) |
 | WhiTaers: Gongren Edition | 114310 | [114310-whitaers-gongren-edition.json](./114310-whitaers-gongren-edition.json) |
 | White | 54695 | [54695-white.json](./54695-white.json) |
