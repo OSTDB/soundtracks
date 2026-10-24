@@ -6234,6 +6234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Simulator Delivery: Cargo Business | 309633 | [309633-flight-simulator-delivery-cargo-business.json](./309633-flight-simulator-delivery-cargo-business.json) |
 | Flight Simulator FlyWings Online 2014 | 88495 | [88495-flight-simulator-flywings-online-2014.json](./88495-flight-simulator-flywings-online-2014.json) |
 | Flight Simulator Pro 2024 | 315896 | [315896-flight-simulator-pro-2024.json](./315896-flight-simulator-pro-2024.json) |
+| Flight Simulator With Torpedo Attack | 41751 | [41751-flight-simulator-with-torpedo-attack.json](./41751-flight-simulator-with-torpedo-attack.json) |
 | Flight Simulator Xtreme | 88109 | [88109-flight-simulator-xtreme.json](./88109-flight-simulator-xtreme.json) |
 | Flight Simulator: VR | 30047 | [30047-flight-simulator-vr.json](./30047-flight-simulator-vr.json) |
 | Flight Squadron | 69887 | [69887-flight-squadron.json](./69887-flight-squadron.json) |
