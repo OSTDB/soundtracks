@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikin Koi Shiteru? | 123410 | [123410-saikin-koi-shiteru.json](./123410-saikin-koi-shiteru.json) |
 | Saikin MMO | 306083 | [306083-saikin-mmo.json](./306083-saikin-mmo.json) |
 | Saikko-nee to Death Game | 301025 | [301025-saikko-nee-to-death-game.json](./301025-saikko-nee-to-death-game.json) |
+| Saiko no Sutoka | 141288 | [141288-saiko-no-sutoka.json](./141288-saiko-no-sutoka.json) |
 | Saiko no Sutoka no Shiki | 244705 | [244705-saiko-no-sutoka-no-shiki.json](./244705-saiko-no-sutoka-no-shiki.json) |
 | Saikoro Saiko Sebunsu Hebun | 230320 | [230320-saikoro-saiko-sebunsu-hebun.json](./230320-saikoro-saiko-sebunsu-hebun.json) |
 | Saikyo no Mahjong: 100 Mannin no Tame no Mahjong Dojo | 222373 | [222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json](./222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json) |
@@ -3583,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Admirer | 129225 | [129225-secret-admirer.json](./129225-secret-admirer.json) |
 | Secret Agent | 264045 | [264045-secret-agent.json](./264045-secret-agent.json) |
 | Secret Agent 001 | 224621 | [224621-secret-agent-001.json](./224621-secret-agent-001.json) |
+| Secret Agent Barbie | 71927 | [71927-secret-agent-barbie.json](./71927-secret-agent-barbie.json) |
 | Secret Agent Barbie: Royal Jewels Mission | 45170 | [45170-secret-agent-barbie-royal-jewels-mission.json](./45170-secret-agent-barbie-royal-jewels-mission.json) |
 | Secret Agent Cinder | 58702 | [58702-secret-agent-cinder.json](./58702-secret-agent-cinder.json) |
 | Secret Agent Clank | 317376 | [317376-secret-agent-clank.json](./317376-secret-agent-clank.json) |
@@ -6604,6 +6606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikanoko Fangame | 324962 | [324962-shikanoko-fangame.json](./324962-shikanoko-fangame.json) |
 | Shikari Rising | 142949 | [142949-shikari-rising.json](./142949-shikari-rising.json) |
 | Shikhondo: Blue Pieta | 395144 | [395144-shikhondo-blue-pieta.json](./395144-shikhondo-blue-pieta.json) |
+| Shikhondo: Soul Eater | 72492 | [72492-shikhondo-soul-eater.json](./72492-shikhondo-soul-eater.json) |
 | Shikhondo: Soul Eater - Limited Edition | 166994 | [166994-shikhondo-soul-eater-limited-edition.json](./166994-shikhondo-soul-eater-limited-edition.json) |
 | Shikhondo: Youkai Rampage | 283772 | [283772-shikhondo-youkai-rampage.json](./283772-shikhondo-youkai-rampage.json) |
 | Shiki | 125100 | [125100-shiki.json](./125100-shiki.json) |
