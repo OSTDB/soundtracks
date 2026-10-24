@@ -3069,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial_Knight's Never Yield | 138206 | [138206-aerial-knights-never-yield.json](./138206-aerial-knights-never-yield.json) |
 | Aerial_Knight's Never Yield: Deluxe Edition | 169190 | [169190-aerial-knights-never-yield-deluxe-edition.json](./169190-aerial-knights-never-yield-deluxe-edition.json) |
 | Aerial_Knight's We Never Yield | 290947 | [290947-aerial-knights-we-never-yield.json](./290947-aerial-knights-we-never-yield.json) |
+| AerialDrop | 23326 | [23326-aerialdrop.json](./23326-aerialdrop.json) |
 | Aeris & Zack | 157134 | [157134-aeris-and-zack.json](./157134-aeris-and-zack.json) |
 | Aero Cosmos | 335094 | [335094-aero-cosmos.json](./335094-aero-cosmos.json) |
 | Aero Dancing F: Todoroki Tsubasa no Hatsu Hikou | 267381 | [267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json](./267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json) |
@@ -9381,6 +9382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apt. 407 | 345437 | [345437-apt-407.json](./345437-apt-407.json) |
 | Aptly Rolling | 165661 | [165661-aptly-rolling.json](./165661-aptly-rolling.json) |
 | Apu's Journey | 276854 | [276854-apus-journey.json](./276854-apus-journey.json) |
+| Apventure to Atlantis | 23291 | [23291-apventure-to-atlantis.json](./23291-apventure-to-atlantis.json) |
 | AQ First Contact | 158934 | [158934-aq-first-contact.json](./158934-aq-first-contact.json) |
 | Aqi 155 | 222369 | [222369-aqi-155.json](./222369-aqi-155.json) |
 | AQRA Tenses: Learn English | 237280 | [237280-aqra-tenses-learn-english.json](./237280-aqra-tenses-learn-english.json) |
@@ -12025,6 +12027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphalt 3: Street Rules 3D HD | 221065 | [221065-asphalt-3-street-rules-3d-hd.json](./221065-asphalt-3-street-rules-3d-hd.json) |
 | Asphalt 3D | 6746 | [6746-asphalt-3d.json](./6746-asphalt-3d.json) |
 | Asphalt 4: Elite Racing | 221067 | [221067-asphalt-4-elite-racing.json](./221067-asphalt-4-elite-racing.json) |
+| Asphalt 4: Elite Racing | 23296 | [23296-asphalt-4-elite-racing.json](./23296-asphalt-4-elite-racing.json) |
 | Asphalt 6: Adrenaline | 23304 | [23304-asphalt-6-adrenaline.json](./23304-asphalt-6-adrenaline.json) |
 | Asphalt 7: Heat | 23305 | [23305-asphalt-7-heat.json](./23305-asphalt-7-heat.json) |
 | Asphalt 9 Legends Arcade | 242473 | [242473-asphalt-9-legends-arcade.json](./242473-asphalt-9-legends-arcade.json) |
