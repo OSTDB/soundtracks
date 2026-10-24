@@ -3888,6 +3888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive II: Scenery Disk - California Challenge | 74868 | [74868-test-drive-ii-scenery-disk-california-challenge.json](./74868-test-drive-ii-scenery-disk-california-challenge.json) |
 | Test Drive II: Scenery Disk - European Challenge | 72527 | [72527-test-drive-ii-scenery-disk-european-challenge.json](./72527-test-drive-ii-scenery-disk-european-challenge.json) |
 | Test Drive II: The Collection | 140039 | [140039-test-drive-ii-the-collection.json](./140039-test-drive-ii-the-collection.json) |
+| Test Drive III: The Passion | 2202 | [2202-test-drive-iii-the-passion.json](./2202-test-drive-iii-the-passion.json) |
 | Test Drive Off-Road Wide Open | 6198 | [6198-test-drive-off-road-wide-open.json](./6198-test-drive-off-road-wide-open.json) |
 | Test Drive Unlimited | 7215 | [7215-test-drive-unlimited.json](./7215-test-drive-unlimited.json) |
 | Test Drive Unlimited 2 | 7216 | [7216-test-drive-unlimited-2.json](./7216-test-drive-unlimited-2.json) |
@@ -6425,6 +6426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dabloon Project | 279491 | [279491-the-dabloon-project.json](./279491-the-dabloon-project.json) |
 | The Daedalic Comedy Selection | 53723 | [53723-the-daedalic-comedy-selection.json](./53723-the-daedalic-comedy-selection.json) |
 | The Daedalus Encounter | 4237 | [4237-the-daedalus-encounter.json](./4237-the-daedalus-encounter.json) |
+| The Dagger of Amon Ra | 9737 | [9737-the-dagger-of-amon-ra.json](./9737-the-dagger-of-amon-ra.json) |
 | The Daily Crossword | 103919 | [103919-the-daily-crossword.json](./103919-the-daily-crossword.json) |
 | The Daily Diaonal Sudoku | 266838 | [266838-the-daily-diaonal-sudoku.json](./266838-the-daily-diaonal-sudoku.json) |
 | The Daily Dozen Trivia | 319456 | [319456-the-daily-dozen-trivia.json](./319456-the-daily-dozen-trivia.json) |
@@ -11479,7 +11481,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -22273,6 +22274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Chase | 156912 | [156912-toy-chase.json](./156912-toy-chase.json) |
 | Toy Chute: Sort Chute Organizer! | 416853 | [416853-toy-chute-sort-chute-organizer.json](./416853-toy-chute-sort-chute-organizer.json) |
 | Toy Collector | 212429 | [212429-toy-collector.json](./212429-toy-collector.json) |
+| Toy Commander | 10125 | [10125-toy-commander.json](./10125-toy-commander.json) |
 | Toy Cowboy Royale: RPG Dragon's Challenge | 378955 | [378955-toy-cowboy-royale-rpg-dragons-challenge.json](./378955-toy-cowboy-royale-rpg-dragons-challenge.json) |
 | TOY DJ - An Electronic Music Rhythm Game | 100909 | [100909-toy-dj-an-electronic-music-rhythm-game.json](./100909-toy-dj-an-electronic-music-rhythm-game.json) |
 | Toy Drop Balance Challenge | 342152 | [342152-toy-drop-balance-challenge.json](./342152-toy-drop-balance-challenge.json) |
@@ -25740,6 +25742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Driver | 252258 | [252258-true-driver.json](./252258-true-driver.json) |
 | True Fantasy Live Online | 18106 | [18106-true-fantasy-live-online.json](./18106-true-fantasy-live-online.json) |
 | True Fear: Forsaken Souls - Part 1 | 33569 | [33569-true-fear-forsaken-souls-part-1.json](./33569-true-fear-forsaken-souls-part-1.json) |
+| True Fear: Forsaken Souls - Part 3 | 217625 | [217625-true-fear-forsaken-souls-part-3.json](./217625-true-fear-forsaken-souls-part-3.json) |
 | True Fear: Forsaken Souls Part 2 | 111276 | [111276-true-fear-forsaken-souls-part-2.json](./111276-true-fear-forsaken-souls-part-2.json) |
 | True Fishing 2 | 396750 | [396750-true-fishing-2.json](./396750-true-fishing-2.json) |
 | True Game | 148308 | [148308-true-game.json](./148308-true-game.json) |
