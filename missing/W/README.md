@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Races | 81547 | [81547-wacky-races.json](./81547-wacky-races.json) |
 | Wacky Races | 81548 | [81548-wacky-races.json](./81548-wacky-races.json) |
 | Wacky Races Starring Dastardly & Muttley | 43447 | [43447-wacky-races-starring-dastardly-and-muttley.json](./43447-wacky-races-starring-dastardly-and-muttley.json) |
+| Wacky Races: Crash & Dash | 5259 | [5259-wacky-races-crash-and-dash.json](./5259-wacky-races-crash-and-dash.json) |
 | Wacky Races: Mad Motors | 56544 | [56544-wacky-races-mad-motors.json](./56544-wacky-races-mad-motors.json) |
 | Wacky Run | 147094 | [147094-wacky-run.json](./147094-wacky-run.json) |
 | Wacky Ship | 180600 | [180600-wacky-ship.json](./180600-wacky-ship.json) |
@@ -4558,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Win, Lose or Draw | 359461 | [359461-win-lose-or-draw.json](./359461-win-lose-or-draw.json) |
 | Win, Lose or Draw | 48093 | [48093-win-lose-or-draw.json](./48093-win-lose-or-draw.json) |
 | WinAgrams | 83440 | [83440-winagrams.json](./83440-winagrams.json) |
+| WinBack 2: Project Poseidon | 6234 | [6234-winback-2-project-poseidon.json](./6234-winback-2-project-poseidon.json) |
 | WinBack: Covert Operations | 47680 | [47680-winback-covert-operations.json](./47680-winback-covert-operations.json) |
 | Wincars Racer | 33292 | [33292-wincars-racer.json](./33292-wincars-racer.json) |
 | Winch it Out | 300387 | [300387-winch-it-out.json](./300387-winch-it-out.json) |
