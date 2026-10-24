@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthlings Must Die | 123857 | [123857-earthlings-must-die.json](./123857-earthlings-must-die.json) |
 | Earthlock 2 | 136090 | [136090-earthlock-2.json](./136090-earthlock-2.json) |
 | Earthlock: Festival of Magic | 7202 | [7202-earthlock-festival-of-magic.json](./7202-earthlock-festival-of-magic.json) |
+| Earthly Delights | 24665 | [24665-earthly-delights.json](./24665-earthly-delights.json) |
 | EarthNight | 27742 | [27742-earthnight.json](./27742-earthnight.json) |
 | Earthpedia | 92393 | [92393-earthpedia.json](./92393-earthpedia.json) |
 | Earthquake | 349482 | [349482-earthquake.json](./349482-earthquake.json) |
@@ -4144,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Poalet | 157376 | [157376-escape-from-poalet.json](./157376-escape-from-poalet.json) |
 | Escape from police | 114294 | [114294-escape-from-police.json](./114294-escape-from-police.json) |
 | Escape From Prison Multiplayer | 337823 | [337823-escape-from-prison-multiplayer.json](./337823-escape-from-prison-multiplayer.json) |
+| Escape from Pulsar 7 | 24691 | [24691-escape-from-pulsar-7.json](./24691-escape-from-pulsar-7.json) |
 | Escape from Puzzlegate | 34373 | [34373-escape-from-puzzlegate.json](./34373-escape-from-puzzlegate.json) |
 | Escape from pyramid | 95272 | [95272-escape-from-pyramid.json](./95272-escape-from-pyramid.json) |
 | Escape from Rhetundo Island | 336061 | [336061-escape-from-rhetundo-island.json](./336061-escape-from-rhetundo-island.json) |
