@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octogram | 265686 | [265686-octogram.json](./265686-octogram.json) |
 | Octonauts | 230394 | [230394-octonauts.json](./230394-octonauts.json) |
 | Octopath Traveler + Octopath Traveler II Bundle | 304800 | [304800-octopath-traveler-octopath-traveler-ii-bundle.json](./304800-octopath-traveler-octopath-traveler-ii-bundle.json) |
+| Octopath Traveler II | 217554 | [217554-octopath-traveler-ii.json](./217554-octopath-traveler-ii.json) |
 | Octopath Traveler: Wayfarer's Edition | 136350 | [136350-octopath-traveler-wayfarers-edition.json](./136350-octopath-traveler-wayfarers-edition.json) |
 | Octopede | 94202 | [94202-octopede.json](./94202-octopede.json) |
 | Octopi: Snow Globe | 240112 | [240112-octopi-snow-globe.json](./240112-octopi-snow-globe.json) |
