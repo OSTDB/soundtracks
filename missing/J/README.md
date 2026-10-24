@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond 007 | 1639 | [1639-james-bond-007.json](./1639-james-bond-007.json) |
 | James Bond 007: A View to a Kill | 1650 | [1650-james-bond-007-a-view-to-a-kill.json](./1650-james-bond-007-a-view-to-a-kill.json) |
 | James Bond 007: Agent Under Fire | 1643 | [1643-james-bond-007-agent-under-fire.json](./1643-james-bond-007-agent-under-fire.json) |
+| James Bond 007: Blood Stone | 1648 | [1648-james-bond-007-blood-stone.json](./1648-james-bond-007-blood-stone.json) |
 | James Bond 007: Everything or Nothing | 1644 | [1644-james-bond-007-everything-or-nothing.json](./1644-james-bond-007-everything-or-nothing.json) |
 | James Bond 007: Everything or Nothing | 243013 | [243013-james-bond-007-everything-or-nothing.json](./243013-james-bond-007-everything-or-nothing.json) |
 | James Bond 007: From Russia with Love | 1645 | [1645-james-bond-007-from-russia-with-love.json](./1645-james-bond-007-from-russia-with-love.json) |
@@ -744,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jazz Smash | 260767 | [260767-jazz-smash.json](./260767-jazz-smash.json) |
 | Jazz Time | 181316 | [181316-jazz-time.json](./181316-jazz-time.json) |
 | Jazz: Trump's Journey | 61133 | [61133-jazz-trumps-journey.json](./61133-jazz-trumps-journey.json) |
+| Jazzpunk | 8114 | [8114-jazzpunk.json](./8114-jazzpunk.json) |
 | Jazzpunk: Director's Cut | 24415 | [24415-jazzpunk-directors-cut.json](./24415-jazzpunk-directors-cut.json) |
 | Jazzpunk: Flavour Nexus | 124832 | [124832-jazzpunk-flavour-nexus.json](./124832-jazzpunk-flavour-nexus.json) |
 | JB Hairboll in: Murder Flub | 59414 | [59414-jb-hairboll-in-murder-flub.json](./59414-jb-hairboll-in-murder-flub.json) |
