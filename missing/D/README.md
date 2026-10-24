@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Strokes: Sins of the Fathers - Collector's Edition | 52838 | [52838-dark-strokes-sins-of-the-fathers-collectors-edition.json](./52838-dark-strokes-sins-of-the-fathers-collectors-edition.json) |
 | Dark Strokes: The Legend of the Snow Kingdom - Collector's Edition | 81726 | [81726-dark-strokes-the-legend-of-the-snow-kingdom-collectors-edition.json](./81726-dark-strokes-the-legend-of-the-snow-kingdom-collectors-edition.json) |
 | Dark Succubus | 417401 | [417401-dark-succubus.json](./417401-dark-succubus.json) |
+| Dark Summit | 3869 | [3869-dark-summit.json](./3869-dark-summit.json) |
 | Dark Summoner | 38900 | [38900-dark-summoner.json](./38900-dark-summoner.json) |
 | Dark Sun | 278964 | [278964-dark-sun.json](./278964-dark-sun.json) |
 | Dark Sun Pictures' Dark Sun - The Space Shooter | 114262 | [114262-dark-sun-pictures-dark-sun-the-space-shooter.json](./114262-dark-sun-pictures-dark-sun-the-space-shooter.json) |
@@ -1672,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darken VR | 106334 | [106334-darken-vr.json](./106334-darken-vr.json) |
 | Darkend | 331684 | [331684-darkend.json](./331684-darkend.json) |
 | DarkEnd | 17217 | [17217-darkend.json](./17217-darkend.json) |
+| Darkened Skye | 3870 | [3870-darkened-skye.json](./3870-darkened-skye.json) |
 | Darkenstein 3D | 235996 | [235996-darkenstein-3d.json](./235996-darkenstein-3d.json) |
 | Darker | 77807 | [77807-darker.json](./77807-darker.json) |
 | Darker Ride Escape | 310578 | [310578-darker-ride-escape.json](./310578-darker-ride-escape.json) |
@@ -2242,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Magic 2 | 11025 | [11025-dawn-of-magic-2.json](./11025-dawn-of-magic-2.json) |
 | Dawn of Man | 102163 | [102163-dawn-of-man.json](./102163-dawn-of-man.json) |
 | Dawn of Man + Planetbase | 254294 | [254294-dawn-of-man-planetbase.json](./254294-dawn-of-man-planetbase.json) |
+| Dawn of Mana | 14989 | [14989-dawn-of-mana.json](./14989-dawn-of-mana.json) |
 | Dawn of Marionette | 259754 | [259754-dawn-of-marionette.json](./259754-dawn-of-marionette.json) |
 | Dawn of Misgiving | 128446 | [128446-dawn-of-misgiving.json](./128446-dawn-of-misgiving.json) |
 | Dawn of Shadow | 237082 | [237082-dawn-of-shadow.json](./237082-dawn-of-shadow.json) |
@@ -5079,6 +5082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition | 125341 | [125341-demolition.json](./125341-demolition.json) |
 | Demolition | 308335 | [308335-demolition.json](./308335-demolition.json) |
 | Demolition Ball | 102930 | [102930-demolition-ball.json](./102930-demolition-ball.json) |
+| Demolition Company | 3175 | [3175-demolition-company.json](./3175-demolition-company.json) |
 | Demolition Company | 344435 | [344435-demolition-company.json](./344435-demolition-company.json) |
 | Demolition Company: Gold Edition | 23397 | [23397-demolition-company-gold-edition.json](./23397-demolition-company-gold-edition.json) |
 | Demolition Crew | 119568 | [119568-demolition-crew.json](./119568-demolition-crew.json) |
@@ -6208,6 +6212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Bureau Simulator | 150015 | [150015-detective-bureau-simulator.json](./150015-detective-bureau-simulator.json) |
 | Detective Butler and the King of Hearts | 244238 | [244238-detective-butler-and-the-king-of-hearts.json](./244238-detective-butler-and-the-king-of-hearts.json) |
 | Detective Butler: Maiden Voyage Murder | 34660 | [34660-detective-butler-maiden-voyage-murder.json](./34660-detective-butler-maiden-voyage-murder.json) |
+| Detective Case and Clown Bot in: Murder in the Hotel Lisbon | 3373 | [3373-detective-case-and-clown-bot-in-murder-in-the-hotel-lisbon.json](./3373-detective-case-and-clown-bot-in-murder-in-the-hotel-lisbon.json) |
 | Detective Case and Clown Bot in: The Express Killer | 74222 | [74222-detective-case-and-clown-bot-in-the-express-killer.json](./74222-detective-case-and-clown-bot-in-the-express-killer.json) |
 | Detective Chirpums: Private Investigator | 249702 | [249702-detective-chirpums-private-investigator.json](./249702-detective-chirpums-private-investigator.json) |
 | Detective Clean | 221819 | [221819-detective-clean.json](./221819-detective-clean.json) |
@@ -7726,6 +7731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinobreak: Chronicles of Horror Collection | 331412 | [331412-dinobreak-chronicles-of-horror-collection.json](./331412-dinobreak-chronicles-of-horror-collection.json) |
 | Dinobreak: Crisis Collection | 331409 | [331409-dinobreak-crisis-collection.json](./331409-dinobreak-crisis-collection.json) |
 | Dinobreak: Gaiden Collection | 334111 | [334111-dinobreak-gaiden-collection.json](./334111-dinobreak-gaiden-collection.json) |
+| Dinocide | 14299 | [14299-dinocide.json](./14299-dinocide.json) |
 | Dinocop | 319445 | [319445-dinocop.json](./319445-dinocop.json) |
 | DinoDash | 244601 | [244601-dinodash.json](./244601-dinodash.json) |
 | Dinodon | 238624 | [238624-dinodon.json](./238624-dinodon.json) |
@@ -9414,6 +9420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogfight: Battle for the Pacific | 209118 | [209118-dogfight-battle-for-the-pacific.json](./209118-dogfight-battle-for-the-pacific.json) |
 | Dogfight: Battle in the Skies | 65464 | [65464-dogfight-battle-in-the-skies.json](./65464-dogfight-battle-in-the-skies.json) |
 | Dogfight! | 109451 | [109451-dogfight.json](./109451-dogfight.json) |
+| DogFighter | 15014 | [15014-dogfighter.json](./15014-dogfighter.json) |
 | Dogfighter: World War 2 | 102866 | [102866-dogfighter-world-war-2.json](./102866-dogfighter-world-war-2.json) |
 | Dogfighter: WW2 | 219033 | [219033-dogfighter-ww2.json](./219033-dogfighter-ww2.json) |
 | Dogfights in SLZ | 306785 | [306785-dogfights-in-slz.json](./306785-dogfights-in-slz.json) |
@@ -14849,6 +14856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Train | 333404 | [333404-dungeon-train.json](./333404-dungeon-train.json) |
 | Dungeon Train VR | 182837 | [182837-dungeon-train-vr.json](./182837-dungeon-train-vr.json) |
 | Dungeon Travelers 2-2: The Fallen Maidens & the Book of Beginnings | 60962 | [60962-dungeon-travelers-2-2-the-fallen-maidens-and-the-book-of-beginnings.json](./60962-dungeon-travelers-2-2-the-fallen-maidens-and-the-book-of-beginnings.json) |
+| Dungeon Travelers 2: The Royal Library & the Monster Seal | 13657 | [13657-dungeon-travelers-2-the-royal-library-and-the-monster-seal.json](./13657-dungeon-travelers-2-the-royal-library-and-the-monster-seal.json) |
 | Dungeon Travelers: To Heart 2 in Another World | 64235 | [64235-dungeon-travelers-to-heart-2-in-another-world.json](./64235-dungeon-travelers-to-heart-2-in-another-world.json) |
 | Dungeon Treaders | 388401 | [388401-dungeon-treaders.json](./388401-dungeon-treaders.json) |
 | Dungeon Trick | 391723 | [391723-dungeon-trick.json](./391723-dungeon-trick.json) |
