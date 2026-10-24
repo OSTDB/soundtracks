@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbeatable Wilderness | 111417 | [111417-unbeatable-wilderness.json](./111417-unbeatable-wilderness.json) |
 | Unbeatable: Breakout Edition | 402444 | [402444-unbeatable-breakout-edition.json](./402444-unbeatable-breakout-edition.json) |
 | Unbeatable: The Jamie Paige Content Companion | 408174 | [408174-unbeatable-the-jamie-paige-content-companion.json](./408174-unbeatable-the-jamie-paige-content-companion.json) |
+| Unbeatable: White Label | 146969 | [146969-unbeatable-white-label.json](./146969-unbeatable-white-label.json) |
 | Unbeknown | 59682 | [59682-unbeknown.json](./59682-unbeknown.json) |
 | Unbelievaboom! | 232815 | [232815-unbelievaboom.json](./232815-unbelievaboom.json) |
 | Unbeliever | 151431 | [151431-unbeliever.json](./151431-unbeliever.json) |
@@ -2488,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unusual and Not Safe Experiments | 368488 | [368488-unusual-and-not-safe-experiments.json](./368488-unusual-and-not-safe-experiments.json) |
 | Unusual End | 348981 | [348981-unusual-end.json](./348981-unusual-end.json) |
 | Unusual Farm Operations | 335395 | [335395-unusual-farm-operations.json](./335395-unusual-farm-operations.json) |
+| Unusual Findings | 153890 | [153890-unusual-findings.json](./153890-unusual-findings.json) |
 | Unusual Ghost | 232008 | [232008-unusual-ghost.json](./232008-unusual-ghost.json) |
 | Unusual Quest | 272885 | [272885-unusual-quest.json](./272885-unusual-quest.json) |
 | Unusual Tales: Deep Below | 380447 | [380447-unusual-tales-deep-below.json](./380447-unusual-tales-deep-below.json) |
