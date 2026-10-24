@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Blood RPG | 163735 | [163735-half-blood-rpg.json](./163735-half-blood-rpg.json) |
 | Half Built: Casino | 211721 | [211721-half-built-casino.json](./211721-half-built-casino.json) |
 | Half Dead | 33726 | [33726-half-dead.json](./33726-half-dead.json) |
+| Half Dead 2 | 110817 | [110817-half-dead-2.json](./110817-half-dead-2.json) |
 | Half Dead 3 | 165106 | [165106-half-dead-3.json](./165106-half-dead-3.json) |
 | Half Dragon | 335058 | [335058-half-dragon.json](./335058-half-dragon.json) |
 | Half Empty | 103510 | [103510-half-empty.json](./103510-half-empty.json) |
