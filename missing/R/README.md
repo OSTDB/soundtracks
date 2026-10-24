@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radar Chaos | 25551 | [25551-radar-chaos.json](./25551-radar-chaos.json) |
 | Radar Defense | 81053 | [81053-radar-defense.json](./81053-radar-defense.json) |
 | Radar Line | 414160 | [414160-radar-line.json](./414160-radar-line.json) |
+| Radar Lock | 17240 | [17240-radar-lock.json](./17240-radar-lock.json) |
 | Radar Mission | 11688 | [11688-radar-mission.json](./11688-radar-mission.json) |
 | Radar N Rockets | 256209 | [256209-radar-n-rockets.json](./256209-radar-n-rockets.json) |
 | Radar Scope | 39391 | [39391-radar-scope.json](./39391-radar-scope.json) |
@@ -5987,6 +5988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riftnote | 158920 | [158920-riftnote.json](./158920-riftnote.json) |
 | Riftopia | 346234 | [346234-riftopia.json](./346234-riftopia.json) |
 | Riftshot | 417536 | [417536-riftshot.json](./417536-riftshot.json) |
+| RiftSpace | 15115 | [15115-riftspace.json](./15115-riftspace.json) |
 | RiftStar Raiders | 27103 | [27103-riftstar-raiders.json](./27103-riftstar-raiders.json) |
 | Riftstorm | 244671 | [244671-riftstorm.json](./244671-riftstorm.json) |
 | Riftstrider | 293009 | [293009-riftstrider.json](./293009-riftstrider.json) |
@@ -9465,6 +9467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubble Trouble Tokyo | 326729 | [326729-rubble-trouble-tokyo.json](./326729-rubble-trouble-tokyo.json) |
 | Rube Goldberg Workshop | 250452 | [250452-rube-goldberg-workshop.json](./250452-rube-goldberg-workshop.json) |
 | Rube Works | 36337 | [36337-rube-works.json](./36337-rube-works.json) |
+| Rube Works: The Official Rube Goldberg Invention Game | 17212 | [17212-rube-works-the-official-rube-goldberg-invention-game.json](./17212-rube-works-the-official-rube-goldberg-invention-game.json) |
 | Rube-like Gold-berger | 364606 | [364606-rube-like-gold-berger.json](./364606-rube-like-gold-berger.json) |
 | Rube's Lab | 96571 | [96571-rubes-lab.json](./96571-rubes-lab.json) |
 | Rubek | 25069 | [25069-rubek.json](./25069-rubek.json) |
@@ -9605,6 +9608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rui wa Tomo o Yobu | 273890 | [273890-rui-wa-tomo-o-yobu.json](./273890-rui-wa-tomo-o-yobu.json) |
 | Ruiga Pirates | 274367 | [274367-ruiga-pirates.json](./274367-ruiga-pirates.json) |
 | Ruiga Pirates: Cursed Seas | 301823 | [301823-ruiga-pirates-cursed-seas.json](./301823-ruiga-pirates-cursed-seas.json) |
+| Ruin | 17021 | [17021-ruin.json](./17021-ruin.json) |
 | Ruin | 174083 | [174083-ruin.json](./174083-ruin.json) |
 | Ruin | 272378 | [272378-ruin.json](./272378-ruin.json) |
 | Ruin | 273246 | [273246-ruin.json](./273246-ruin.json) |
