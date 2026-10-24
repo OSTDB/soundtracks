@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vesta | 76845 | [76845-vesta.json](./76845-vesta.json) |
 | Vesta: Limited Edition | 166267 | [166267-vesta-limited-edition.json](./166267-vesta-limited-edition.json) |
 | Vestaria Saga Gaiden: Heroes of Lucca | 334000 | [334000-vestaria-saga-gaiden-heroes-of-lucca.json](./334000-vestaria-saga-gaiden-heroes-of-lucca.json) |
+| Vestaria Saga I: War of the Scions | 59613 | [59613-vestaria-saga-i-war-of-the-scions.json](./59613-vestaria-saga-i-war-of-the-scions.json) |
 | Vestaria Saga II: The Sacred Sword of Silvanister | 186886 | [186886-vestaria-saga-ii-the-sacred-sword-of-silvanister.json](./186886-vestaria-saga-ii-the-sacred-sword-of-silvanister.json) |
 | Vestenelon | 332625 | [332625-vestenelon.json](./332625-vestenelon.json) |
 | Vestige | 113069 | [113069-vestige.json](./113069-vestige.json) |
