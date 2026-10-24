@@ -10273,6 +10273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Ultimate Portable Video Game Player | 202790 | [202790-arcade-ultimate-portable-video-game-player.json](./202790-arcade-ultimate-portable-video-game-player.json) |
 | Arcade Ultimate: Street of Rage - Limited Edition | 202789 | [202789-arcade-ultimate-street-of-rage-limited-edition.json](./202789-arcade-ultimate-street-of-rage-limited-edition.json) |
 | Arcade Video Games Quiz | 241355 | [241355-arcade-video-games-quiz.json](./241355-arcade-video-games-quiz.json) |
+| Arcade Volleyball | 19232 | [19232-arcade-volleyball.json](./19232-arcade-volleyball.json) |
 | Arcade vs Player | 223410 | [223410-arcade-vs-player.json](./223410-arcade-vs-player.json) |
 | Arcade Waifu | 212841 | [212841-arcade-waifu.json](./212841-arcade-waifu.json) |
 | Arcade Zone | 50742 | [50742-arcade-zone.json](./50742-arcade-zone.json) |
@@ -11262,6 +11263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Battle | 245153 | [245153-armor-battle.json](./245153-armor-battle.json) |
 | Armor Battle | 245574 | [245574-armor-battle.json](./245574-armor-battle.json) |
 | Armor Battle | 305274 | [305274-armor-battle.json](./305274-armor-battle.json) |
+| Armor Battle | 5656 | [5656-armor-battle.json](./5656-armor-battle.json) |
 | Armor Blitz | 12647 | [12647-armor-blitz.json](./12647-armor-blitz.json) |
 | Armor Blitz | 276698 | [276698-armor-blitz.json](./276698-armor-blitz.json) |
 | Armor Clash | 34622 | [34622-armor-clash.json](./34622-armor-clash.json) |
@@ -14548,6 +14550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awrak | 348589 | [348589-awrak.json](./348589-awrak.json) |
 | AWS Argentina Wingshooting Simulator | 75032 | [75032-aws-argentina-wingshooting-simulator.json](./75032-aws-argentina-wingshooting-simulator.json) |
 | Awsome Metal Detecting | 74730 | [74730-awsome-metal-detecting.json](./74730-awsome-metal-detecting.json) |
+| Ax Battler: A Legend of Golden Axe | 19485 | [19485-ax-battler-a-legend-of-golden-axe.json](./19485-ax-battler-a-legend-of-golden-axe.json) |
 | AX-1: Arabian Rhapsody | 91462 | [91462-ax-1-arabian-rhapsody.json](./91462-ax-1-arabian-rhapsody.json) |
 | AX-10: Outlaw | 91459 | [91459-ax-10-outlaw.json](./91459-ax-10-outlaw.json) |
 | AX-2: Uchuu Yusousen Nostromo | 91513 | [91513-ax-2-uchuu-yusousen-nostromo.json](./91513-ax-2-uchuu-yusousen-nostromo.json) |
