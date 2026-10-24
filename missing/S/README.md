@@ -5600,6 +5600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowgate | 8697 | [8697-shadowgate.json](./8697-shadowgate.json) |
 | Shadowgate | 8866 | [8866-shadowgate.json](./8866-shadowgate.json) |
 | Shadowgate 2 | 291480 | [291480-shadowgate-2.json](./291480-shadowgate-2.json) |
+| Shadowgate 64: Trials of the Four Towers | 3600 | [3600-shadowgate-64-trials-of-the-four-towers.json](./3600-shadowgate-64-trials-of-the-four-towers.json) |
 | Shadowgate Classic | 8699 | [8699-shadowgate-classic.json](./8699-shadowgate-classic.json) |
 | Shadowgate PD | 272467 | [272467-shadowgate-pd.json](./272467-shadowgate-pd.json) |
 | Shadowgate: MacVenture Series | 35911 | [35911-shadowgate-macventure-series.json](./35911-shadowgate-macventure-series.json) |
@@ -18094,6 +18095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Patty Pursuit | 134492 | [134492-spongebob-squarepants-patty-pursuit.json](./134492-spongebob-squarepants-patty-pursuit.json) |
 | SpongeBob SquarePants: Plankton's Robotic Revenge | 194951 | [194951-spongebob-squarepants-planktons-robotic-revenge.json](./194951-spongebob-squarepants-planktons-robotic-revenge.json) |
 | SpongeBob SquarePants: Reef Rumble | 230891 | [230891-spongebob-squarepants-reef-rumble.json](./230891-spongebob-squarepants-reef-rumble.json) |
+| SpongeBob SquarePants: Revenge of the Flying Dutchman | 198665 | [198665-spongebob-squarepants-revenge-of-the-flying-dutchman.json](./198665-spongebob-squarepants-revenge-of-the-flying-dutchman.json) |
 | SpongeBob SquarePants: Revenge of the Flying Dutchman | 2762 | [2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json](./2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json) |
 | Spongebob Squarepants: Shrink n' Sink Golf | 394537 | [394537-spongebob-squarepants-shrink-n-sink-golf.json](./394537-spongebob-squarepants-shrink-n-sink-golf.json) |
 | SpongeBob SquarePants: Spatula Collector | 350775 | [350775-spongebob-squarepants-spatula-collector.json](./350775-spongebob-squarepants-spatula-collector.json) |
@@ -22763,6 +22765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Hoop | 46820 | [46820-street-hoop.json](./46820-street-hoop.json) |
 | Street Hoop: Basketball Playoffs 2018 | 103108 | [103108-street-hoop-basketball-playoffs-2018.json](./103108-street-hoop-basketball-playoffs-2018.json) |
 | Street Hoops | 242807 | [242807-street-hoops.json](./242807-street-hoops.json) |
+| Street Hoops | 4078 | [4078-street-hoops.json](./4078-street-hoops.json) |
 | Street Jam Basketball | 49219 | [49219-street-jam-basketball.json](./49219-street-jam-basketball.json) |
 | Street Karate | 104026 | [104026-street-karate.json](./104026-street-karate.json) |
 | Street Karate 3 | 169468 | [169468-street-karate-3.json](./169468-street-karate-3.json) |
@@ -27676,6 +27679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Zombies: The Inverted Evolution | 33575 | [33575-survival-zombies-the-inverted-evolution.json](./33575-survival-zombies-the-inverted-evolution.json) |
 | Survival Zone | 171881 | [171881-survival-zone.json](./171881-survival-zone.json) |
 | Survival Zone: Craft, Build & Grow | 336395 | [336395-survival-zone-craft-build-and-grow.json](./336395-survival-zone-craft-build-and-grow.json) |
+| Survival: Fountain of Youth | 199136 | [199136-survival-fountain-of-youth.json](./199136-survival-fountain-of-youth.json) |
 | Survival: Fountain of Youth - Captain's Edition | 317209 | [317209-survival-fountain-of-youth-captains-edition.json](./317209-survival-fountain-of-youth-captains-edition.json) |
 | Survival: Fountain of Youth - Sea Wolf Pack | 298249 | [298249-survival-fountain-of-youth-sea-wolf-pack.json](./298249-survival-fountain-of-youth-sea-wolf-pack.json) |
 | Survival: Man vs. Wild - Island Escape | 102685 | [102685-survival-man-vs-wild-island-escape.json](./102685-survival-man-vs-wild-island-escape.json) |
