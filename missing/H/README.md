@@ -1959,6 +1959,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hasty Snow | 117704 | [117704-hasty-snow.json](./117704-hasty-snow.json) |
 | Hat Hunters | 103428 | [103428-hat-hunters.json](./103428-hat-hunters.json) |
 | Hat Trick | 12326 | [12326-hat-trick.json](./12326-hat-trick.json) |
+| Hat Trick Hero '93 | 39375 | [39375-hat-trick-hero-93.json](./39375-hat-trick-hero-93.json) |
+| Hat Trick Hero '94 | 39374 | [39374-hat-trick-hero-94.json](./39374-hat-trick-hero-94.json) |
 | Hat Trick Hero 2 | 38332 | [38332-hat-trick-hero-2.json](./38332-hat-trick-hero-2.json) |
 | Hat Tricks: Hare in Box | 229054 | [229054-hat-tricks-hare-in-box.json](./229054-hat-tricks-hare-in-box.json) |
 | Hat Wizard | 95949 | [95949-hat-wizard.json](./95949-hat-wizard.json) |
@@ -2799,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat Wave: Offshore Superboat Racing | 74887 | [74887-heat-wave-offshore-superboat-racing.json](./74887-heat-wave-offshore-superboat-racing.json) |
 | Heatchain | 278404 | [278404-heatchain.json](./278404-heatchain.json) |
 | Heated | 211220 | [211220-heated.json](./211220-heated.json) |
+| Heated Barrel | 39377 | [39377-heated-barrel.json](./39377-heated-barrel.json) |
 | Heated Battles Shooter | 143005 | [143005-heated-battles-shooter.json](./143005-heated-battles-shooter.json) |
 | Heath Robinson Solutions | 239152 | [239152-heath-robinson-solutions.json](./239152-heath-robinson-solutions.json) |
 | Heath: The Unchosen Path | 120615 | [120615-heath-the-unchosen-path.json](./120615-heath-the-unchosen-path.json) |
