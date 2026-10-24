@@ -5322,6 +5322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
 | Golf Assassin: Break of Egghead Mafia | 204831 | [204831-golf-assassin-break-of-egghead-mafia.json](./204831-golf-assassin-break-of-egghead-mafia.json) |
 | Golf Ba Multimedia Shinchaku: Susono Country Club Hen | 254428 | [254428-golf-ba-multimedia-shinchaku-susono-country-club-hen.json](./254428-golf-ba-multimedia-shinchaku-susono-country-club-hen.json) |
+| Golf Battle | 111822 | [111822-golf-battle.json](./111822-golf-battle.json) |
 | Golf Blitz | 114534 | [114534-golf-blitz.json](./114534-golf-blitz.json) |
 | Golf Boy! | 103122 | [103122-golf-boy.json](./103122-golf-boy.json) |
 | Golf by the Way | 265350 | [265350-golf-by-the-way.json](./265350-golf-by-the-way.json) |
