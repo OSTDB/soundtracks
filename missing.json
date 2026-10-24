@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-24T11:34:49.428Z",
-  "total_missing": 255570,
+  "generated_at": "2026-10-24T11:36:46.180Z",
+  "total_missing": 255569,
   "games": [
     {
       "igdb_id": 191680,
@@ -141830,11 +141830,6 @@
       "igdb_id": 153760,
       "game_name": "Bos Wars",
       "file": "missing/B/153760-bos-wars.json"
-    },
-    {
-      "igdb_id": 18758,
-      "game_name": "Bosconian",
-      "file": "missing/B/18758-bosconian.json"
     },
     {
       "igdb_id": 13425,
