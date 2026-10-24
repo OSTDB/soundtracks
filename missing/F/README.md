@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faefever | 137341 | [137341-faefever.json](./137341-faefever.json) |
 | Faehnor Online | 386499 | [386499-faehnor-online.json](./386499-faehnor-online.json) |
 | Faeland | 96549 | [96549-faeland.json](./96549-faeland.json) |
+| Faeria | 12523 | [12523-faeria.json](./12523-faeria.json) |
 | Faeria: Chronicles of Gagana | 117519 | [117519-faeria-chronicles-of-gagana.json](./117519-faeria-chronicles-of-gagana.json) |
 | Faeria: Elements | 227419 | [227419-faeria-elements.json](./227419-faeria-elements.json) |
 | Faeria: Fall of Everlife | 163526 | [163526-faeria-fall-of-everlife.json](./163526-faeria-fall-of-everlife.json) |
@@ -4072,6 +4073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy V Spoof | 298939 | [298939-final-fantasy-v-spoof.json](./298939-final-fantasy-v-spoof.json) |
 | Final Fantasy V-Pixel Freemaster | 315635 | [315635-final-fantasy-v-pixel-freemaster.json](./315635-final-fantasy-v-pixel-freemaster.json) |
 | Final Fantasy VI | 146218 | [146218-final-fantasy-vi.json](./146218-final-fantasy-vi.json) |
+| Final Fantasy VI Advance | 20655 | [20655-final-fantasy-vi-advance.json](./20655-final-fantasy-vi-advance.json) |
 | Final Fantasy VI Reimagined | 339232 | [339232-final-fantasy-vi-reimagined.json](./339232-final-fantasy-vi-reimagined.json) |
 | Final Fantasy VI T-Edition + EX | 186095 | [186095-final-fantasy-vi-t-edition-ex.json](./186095-final-fantasy-vi-t-edition-ex.json) |
 | Final Fantasy VI: A Soldier's Contingency | 312346 | [312346-final-fantasy-vi-a-soldiers-contingency.json](./312346-final-fantasy-vi-a-soldiers-contingency.json) |
@@ -6070,6 +6072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlatOut | 309220 | [309220-flatout.json](./309220-flatout.json) |
 | FlatOut | 313773 | [313773-flatout.json](./313773-flatout.json) |
 | FlatOut 3: Chaos & Destruction | 3778 | [3778-flatout-3-chaos-and-destruction.json](./3778-flatout-3-chaos-and-destruction.json) |
+| FlatOut 4: Total Insanity | 27043 | [27043-flatout-4-total-insanity.json](./27043-flatout-4-total-insanity.json) |
 | FlatOut 4: Total Insanity VR | 360782 | [360782-flatout-4-total-insanity-vr.json](./360782-flatout-4-total-insanity-vr.json) |
 | FlatOut 4: Total Insanity Workshop Tools | 90606 | [90606-flatout-4-total-insanity-workshop-tools.json](./90606-flatout-4-total-insanity-workshop-tools.json) |
 | Flatout Pixel Racing | 200462 | [200462-flatout-pixel-racing.json](./200462-flatout-pixel-racing.json) |
