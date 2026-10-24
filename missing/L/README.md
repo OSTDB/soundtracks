@@ -7446,6 +7446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucinda Green's Equestrian Challenge | 43254 | [43254-lucinda-greens-equestrian-challenge.json](./43254-lucinda-greens-equestrian-challenge.json) |
 | Lucipurr | 346603 | [346603-lucipurr.json](./346603-lucipurr.json) |
 | Lucium Total War | 356240 | [356240-lucium-total-war.json](./356240-lucium-total-war.json) |
+| Lucius | 5778 | [5778-lucius.json](./5778-lucius.json) |
 | Luck be a Landlord | 142035 | [142035-luck-be-a-landlord.json](./142035-luck-be-a-landlord.json) |
 | Luck Breaker | 262318 | [262318-luck-breaker.json](./262318-luck-breaker.json) |
 | Luck of the Draw | 415123 | [415123-luck-of-the-draw.json](./415123-luck-of-the-draw.json) |
