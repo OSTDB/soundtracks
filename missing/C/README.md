@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops Cold War - Season Two | 144050 | [144050-call-of-duty-black-ops-cold-war-season-two.json](./144050-call-of-duty-black-ops-cold-war-season-two.json) |
 | Call of Duty: Black Ops Cold War - Ultimate Edition | 139887 | [139887-call-of-duty-black-ops-cold-war-ultimate-edition.json](./139887-call-of-duty-black-ops-cold-war-ultimate-edition.json) |
 | Call of Duty: Black Ops Collection | 136183 | [136183-call-of-duty-black-ops-collection.json](./136183-call-of-duty-black-ops-collection.json) |
+| Call of Duty: Black Ops II - Apocalypse | 21686 | [21686-call-of-duty-black-ops-ii-apocalypse.json](./21686-call-of-duty-black-ops-ii-apocalypse.json) |
 | Call of Duty: Black Ops II - Care Package | 18352 | [18352-call-of-duty-black-ops-ii-care-package.json](./18352-call-of-duty-black-ops-ii-care-package.json) |
 | Call of Duty: Black Ops II - Nuketown 2025 | 295256 | [295256-call-of-duty-black-ops-ii-nuketown-2025.json](./295256-call-of-duty-black-ops-ii-nuketown-2025.json) |
 | Call of Duty: Black Ops II - Nuketown Zombies | 295255 | [295255-call-of-duty-black-ops-ii-nuketown-zombies.json](./295255-call-of-duty-black-ops-ii-nuketown-zombies.json) |
@@ -13062,6 +13063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash the Comet | 102595 | [102595-crash-the-comet.json](./102595-crash-the-comet.json) |
 | Crash the Core | 139669 | [139669-crash-the-core.json](./139669-crash-the-core.json) |
 | Crash the Game | 129703 | [129703-crash-the-game.json](./129703-crash-the-game.json) |
+| Crash Time | 6945 | [6945-crash-time.json](./6945-crash-time.json) |
 | Crash Time 3D | 65544 | [65544-crash-time-3d.json](./65544-crash-time-3d.json) |
 | Crash Time 4: The Syndicate | 19973 | [19973-crash-time-4-the-syndicate.json](./19973-crash-time-4-the-syndicate.json) |
 | Crash Time 5: Undercover | 19974 | [19974-crash-time-5-undercover.json](./19974-crash-time-5-undercover.json) |
