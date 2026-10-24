@@ -2320,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basault VR | 190062 | [190062-basault-vr.json](./190062-basault-vr.json) |
 | Bascatball Coach | 174299 | [174299-bascatball-coach.json](./174299-bascatball-coach.json) |
 | BasCatball Saturn: Basketball & Cat | 169396 | [169396-bascatball-saturn-basketball-and-cat.json](./169396-bascatball-saturn-basketball-and-cat.json) |
+| Base Attack | 40589 | [40589-base-attack.json](./40589-base-attack.json) |
 | Base Blitz | 327854 | [327854-base-blitz.json](./327854-base-blitz.json) |
 | Base Commander | 211425 | [211425-base-commander.json](./211425-base-commander.json) |
 | Base Craft: Desolate Survival | 196239 | [196239-base-craft-desolate-survival.json](./196239-base-craft-desolate-survival.json) |
@@ -9469,6 +9470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BMP Puzzle | 217997 | [217997-bmp-puzzle.json](./217997-bmp-puzzle.json) |
 | BMPES | 319899 | [319899-bmpes.json](./319899-bmpes.json) |
 | BMW M3 Challenge | 27466 | [27466-bmw-m3-challenge.json](./27466-bmw-m3-challenge.json) |
+| BMX Air Master | 40588 | [40588-bmx-air-master.json](./40588-bmx-air-master.json) |
 | BMX Backflip King | 255173 | [255173-bmx-backflip-king.json](./255173-bmx-backflip-king.json) |
 | BMX Bastards | 273834 | [273834-bmx-bastards.json](./273834-bmx-bastards.json) |
 | BMX Burner | 349261 | [349261-bmx-burner.json](./349261-bmx-burner.json) |
