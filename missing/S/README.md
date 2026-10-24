@@ -7858,6 +7858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuttle Orbiter | 40694 | [40694-shuttle-orbiter.json](./40694-shuttle-orbiter.json) |
 | Shuttle Scuttle | 213931 | [213931-shuttle-scuttle.json](./213931-shuttle-scuttle.json) |
 | Shuttle Shuffle: Aliens Panic | 56393 | [56393-shuttle-shuffle-aliens-panic.json](./56393-shuttle-shuffle-aliens-panic.json) |
+| Shuttle Siege | 31520 | [31520-shuttle-siege.json](./31520-shuttle-siege.json) |
 | Shuttle World | 242541 | [242541-shuttle-world.json](./242541-shuttle-world.json) |
 | Shuttle: The Space Flight Simulator | 12766 | [12766-shuttle-the-space-flight-simulator.json](./12766-shuttle-the-space-flight-simulator.json) |
 | Shuttlecock Carbuncle | 253766 | [253766-shuttlecock-carbuncle.json](./253766-shuttlecock-carbuncle.json) |
@@ -10038,6 +10039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky is Arrows: Dragon Bracer Item Chest | 252231 | [252231-sky-is-arrows-dragon-bracer-item-chest.json](./252231-sky-is-arrows-dragon-bracer-item-chest.json) |
 | Sky Island | 308257 | [308257-sky-island.json](./308257-sky-island.json) |
 | Sky Islands | 267317 | [267317-sky-islands.json](./267317-sky-islands.json) |
+| Sky Jac | 31568 | [31568-sky-jac.json](./31568-sky-jac.json) |
 | Sky Jaguar | 41743 | [41743-sky-jaguar.json](./41743-sky-jaguar.json) |
 | Sky Jaguar | 69543 | [69543-sky-jaguar.json](./69543-sky-jaguar.json) |
 | Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
@@ -12213,6 +12215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snooker Loopy Pro | 159646 | [159646-snooker-loopy-pro.json](./159646-snooker-loopy-pro.json) |
 | Snooker Nation Championship | 33123 | [33123-snooker-nation-championship.json](./33123-snooker-nation-championship.json) |
 | Snooker Stars | 121613 | [121613-snooker-stars.json](./121613-snooker-stars.json) |
+| SnookerWorld | 31475 | [31475-snookerworld.json](./31475-snookerworld.json) |
 | Snoop Dogg Boxing | 224503 | [224503-snoop-dogg-boxing.json](./224503-snoop-dogg-boxing.json) |
 | Snoop Dogg Cruisin' | 225651 | [225651-snoop-dogg-cruisin.json](./225651-snoop-dogg-cruisin.json) |
 | Snooper Troops: Case #2 - The Case of the Disappearing Dolphin | 78945 | [78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json](./78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json) |
@@ -12832,6 +12835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soko Banana | 333712 | [333712-soko-banana.json](./333712-soko-banana.json) |
 | Soko Loco | 129576 | [129576-soko-loco.json](./129576-soko-loco.json) |
 | Soko Loco Deluxe | 115328 | [115328-soko-loco-deluxe.json](./115328-soko-loco-deluxe.json) |
+| Soko Match | 31570 | [31570-soko-match.json](./31570-soko-match.json) |
 | Soko Spectacle | 334258 | [334258-soko-spectacle.json](./334258-soko-spectacle.json) |
 | Soko-Ban | 11763 | [11763-soko-ban.json](./11763-soko-ban.json) |
 | Soko-Sex | 69778 | [69778-soko-sex.json](./69778-soko-sex.json) |
@@ -15449,6 +15453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Duels | 148809 | [148809-space-duels.json](./148809-space-duels.json) |
 | Space Duet | 130720 | [130720-space-duet.json](./130720-space-duet.json) |
 | Space Dust | 240673 | [240673-space-dust.json](./240673-space-dust.json) |
+| Space Dvrts | 31529 | [31529-space-dvrts.json](./31529-space-dvrts.json) |
 | Space Eater Force | 182919 | [182919-space-eater-force.json](./182919-space-eater-force.json) |
 | Space Egg Shooter | 199482 | [199482-space-egg-shooter.json](./199482-space-egg-shooter.json) |
 | Space electrician | 126668 | [126668-space-electrician.json](./126668-space-electrician.json) |
