@@ -13346,6 +13346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Road: Trouble Racer | 246251 | [246251-crazy-road-trouble-racer.json](./246251-crazy-road-trouble-racer.json) |
 | Crazy Roads | 399693 | [399693-crazy-roads.json](./399693-crazy-roads.json) |
 | Crazy Robot Ball | 356206 | [356206-crazy-robot-ball.json](./356206-crazy-robot-ball.json) |
+| Crazy Saloon VR | 30560 | [30560-crazy-saloon-vr.json](./30560-crazy-saloon-vr.json) |
 | Crazy Sapper 3D: Classic Mode | 170963 | [170963-crazy-sapper-3d-classic-mode.json](./170963-crazy-sapper-3d-classic-mode.json) |
 | Crazy School Simulator | 114228 | [114228-crazy-school-simulator.json](./114228-crazy-school-simulator.json) |
 | Crazy School: Schulverweis! | 327219 | [327219-crazy-school-schulverweis.json](./327219-crazy-school-schulverweis.json) |
@@ -14667,6 +14668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt | 376824 | [376824-crypt.json](./376824-crypt.json) |
 | Crypt Architect | 236269 | [236269-crypt-architect.json](./236269-crypt-architect.json) |
 | Crypt Capers | 348938 | [348938-crypt-capers.json](./348938-crypt-capers.json) |
+| Crypt Cards | 30571 | [30571-crypt-cards.json](./30571-crypt-cards.json) |
 | Crypt Carnage | 399628 | [399628-crypt-carnage.json](./399628-crypt-carnage.json) |
 | Crypt Hunter | 55785 | [55785-crypt-hunter.json](./55785-crypt-hunter.json) |
 | Crypt Killer | 20737 | [20737-crypt-killer.json](./20737-crypt-killer.json) |
