@@ -2574,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Deluxe | 70251 | [70251-empire-deluxe.json](./70251-empire-deluxe.json) |
 | Empire Deluxe: Masters Edition | 69745 | [69745-empire-deluxe-masters-edition.json](./69745-empire-deluxe-masters-edition.json) |
 | Empire Earth II | 1608 | [1608-empire-earth-ii.json](./1608-empire-earth-ii.json) |
+| Empire Earth II: The Art of Supremacy | 1607 | [1607-empire-earth-ii-the-art-of-supremacy.json](./1607-empire-earth-ii-the-art-of-supremacy.json) |
 | Empire Earth III | 1606 | [1606-empire-earth-iii.json](./1606-empire-earth-iii.json) |
 | Empire FactionWar | 290512 | [290512-empire-factionwar.json](./290512-empire-factionwar.json) |
 | Empire Game: Pixel Hero | 364053 | [364053-empire-game-pixel-hero.json](./364053-empire-game-pixel-hero.json) |
