@@ -3840,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavern Commandos | 171458 | [171458-cavern-commandos.json](./171458-cavern-commandos.json) |
 | Cavern Craze VR | 123318 | [123318-cavern-craze-vr.json](./123318-cavern-craze-vr.json) |
 | Cavern Creatures | 25602 | [25602-cavern-creatures.json](./25602-cavern-creatures.json) |
+| Cavern Crumblers | 43073 | [43073-cavern-crumblers.json](./43073-cavern-crumblers.json) |
 | Cavern Crusader | 73303 | [73303-cavern-crusader.json](./73303-cavern-crusader.json) |
 | Cavern Fighter | 69706 | [69706-cavern-fighter.json](./69706-cavern-fighter.json) |
 | Cavern of Dreams | 219095 | [219095-cavern-of-dreams.json](./219095-cavern-of-dreams.json) |
@@ -15977,6 +15978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuties | 259066 | [259066-cuties.json](./259066-cuties.json) |
 | Cuties Hacked: Dakota Photo Pack | 325851 | [325851-cuties-hacked-dakota-photo-pack.json](./325851-cuties-hacked-dakota-photo-pack.json) |
 | Cuties Monster Girl | 297081 | [297081-cuties-monster-girl.json](./297081-cuties-monster-girl.json) |
+| Cutlass | 43093 | [43093-cutlass.json](./43093-cutlass.json) |
 | Cutlass Call | 286031 | [286031-cutlass-call.json](./286031-cutlass-call.json) |
 | CutNRun | 93579 | [93579-cutnrun.json](./93579-cutnrun.json) |
 | Cutout | 415178 | [415178-cutout.json](./415178-cutout.json) |
