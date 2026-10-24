@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderer | 36866 | [36866-wanderer.json](./36866-wanderer.json) |
 | Wanderer | 95426 | [95426-wanderer.json](./95426-wanderer.json) |
 | Wanderer 2: The Seas of Fortune | 305549 | [305549-wanderer-2-the-seas-of-fortune.json](./305549-wanderer-2-the-seas-of-fortune.json) |
+| Wanderer of Teandria | 32553 | [32553-wanderer-of-teandria.json](./32553-wanderer-of-teandria.json) |
 | Wanderer: Broken Bed | 260327 | [260327-wanderer-broken-bed.json](./260327-wanderer-broken-bed.json) |
 | Wanderer: The Fragments of Fate | 253728 | [253728-wanderer-the-fragments-of-fate.json](./253728-wanderer-the-fragments-of-fate.json) |
 | Wanderer's Guide to Ocean and Islands | 300486 | [300486-wanderers-guide-to-ocean-and-islands.json](./300486-wanderers-guide-to-ocean-and-islands.json) |
@@ -1127,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargs | 122795 | [122795-wargs.json](./122795-wargs.json) |
 | Warhall | 182239 | [182239-warhall.json](./182239-warhall.json) |
 | Warhalla | 100589 | [100589-warhalla.json](./100589-warhalla.json) |
+| Warhammer 40,000: Agents of Death | 32602 | [32602-warhammer-40-000-agents-of-death.json](./32602-warhammer-40-000-agents-of-death.json) |
 | Warhammer 40,000: Armageddon | 17609 | [17609-warhammer-40-000-armageddon.json](./17609-warhammer-40-000-armageddon.json) |
 | Warhammer 40,000: Armageddon - Angels of Death | 53889 | [53889-warhammer-40-000-armageddon-angels-of-death.json](./53889-warhammer-40-000-armageddon-angels-of-death.json) |
 | Warhammer 40,000: Armageddon - Da Orks | 33186 | [33186-warhammer-40-000-armageddon-da-orks.json](./33186-warhammer-40-000-armageddon-da-orks.json) |
@@ -3211,7 +3213,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
