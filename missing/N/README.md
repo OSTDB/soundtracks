@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nannys Nightmare | 53397 | [53397-nannys-nightmare.json](./53397-nannys-nightmare.json) |
 | Nano Assault | 21075 | [21075-nano-assault.json](./21075-nano-assault.json) |
 | Nano Assault Neo | 21385 | [21385-nano-assault-neo.json](./21385-nano-assault-neo.json) |
+| Nano Assault Neo-X | 52606 | [52606-nano-assault-neo-x.json](./52606-nano-assault-neo-x.json) |
 | Nano Citizens | 260555 | [260555-nano-citizens.json](./260555-nano-citizens.json) |
 | Nano Code:X | 410908 | [410908-nano-code-x.json](./410908-nano-code-x.json) |
 | Nano Dash | 103163 | [103163-nano-dash.json](./103163-nano-dash.json) |
@@ -4141,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Battle Heroes | 24564 | [24564-ninja-battle-heroes.json](./24564-ninja-battle-heroes.json) |
 | Ninja Blade | 7121 | [7121-ninja-blade.json](./7121-ninja-blade.json) |
 | Ninja Box | 112080 | [112080-ninja-box.json](./112080-ninja-box.json) |
+| Ninja Boy 2 | 48966 | [48966-ninja-boy-2.json](./48966-ninja-boy-2.json) |
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
 | Ninja Break: Head to Head | 204992 | [204992-ninja-break-head-to-head.json](./204992-ninja-break-head-to-head.json) |
 | Ninja Brigade feat. Jonah Weingarten | 146101 | [146101-ninja-brigade-feat-jonah-weingarten.json](./146101-ninja-brigade-feat-jonah-weingarten.json) |
