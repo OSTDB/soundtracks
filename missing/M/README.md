@@ -3145,6 +3145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart CW | 151835 | [151835-mario-kart-cw.json](./151835-mario-kart-cw.json) |
 | Mario Kart DS N64 Circuit | 242435 | [242435-mario-kart-ds-n64-circuit.json](./242435-mario-kart-ds-n64-circuit.json) |
 | Mario Kart DS: GameCube Grand Prix | 313347 | [313347-mario-kart-ds-gamecube-grand-prix.json](./313347-mario-kart-ds-gamecube-grand-prix.json) |
+| Mario Kart Live: Home Circuit | 138251 | [138251-mario-kart-live-home-circuit.json](./138251-mario-kart-live-home-circuit.json) |
 | Mario Kart Midnight | 229509 | [229509-mario-kart-midnight.json](./229509-mario-kart-midnight.json) |
 | Mario Kart PC | 294712 | [294712-mario-kart-pc.json](./294712-mario-kart-pc.json) |
 | Mario Kart R | 42204 | [42204-mario-kart-r.json](./42204-mario-kart-r.json) |
