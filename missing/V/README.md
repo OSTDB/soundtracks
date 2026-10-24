@@ -2354,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vision of Aurora Borealis | 32347 | [32347-vision-of-aurora-borealis.json](./32347-vision-of-aurora-borealis.json) |
 | Vision Origin | 28735 | [28735-vision-origin.json](./28735-vision-origin.json) |
 | Vision Quench | 378413 | [378413-vision-quench.json](./378413-vision-quench.json) |
+| Vision Runner | 33850 | [33850-vision-runner.json](./33850-vision-runner.json) |
 | Vision Soft Reset | 113732 | [113732-vision-soft-reset.json](./113732-vision-soft-reset.json) |
 | Visionarium 2: The Descent | 197379 | [197379-visionarium-2-the-descent.json](./197379-visionarium-2-the-descent.json) |
 | Visions | 61867 | [61867-visions.json](./61867-visions.json) |
