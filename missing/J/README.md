@@ -2285,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to Stonehenge | 69812 | [69812-journey-to-stonehenge.json](./69812-journey-to-stonehenge.json) |
 | Journey to the Blue Mountain | 231083 | [231083-journey-to-the-blue-mountain.json](./231083-journey-to-the-blue-mountain.json) |
 | Journey to the Center of Hawkthorne | 47032 | [47032-journey-to-the-center-of-hawkthorne.json](./47032-journey-to-the-center-of-hawkthorne.json) |
+| Journey to the Center of the Earth | 32597 | [32597-journey-to-the-center-of-the-earth.json](./32597-journey-to-the-center-of-the-earth.json) |
 | Journey to the Center of the Earth | 375864 | [375864-journey-to-the-center-of-the-earth.json](./375864-journey-to-the-center-of-the-earth.json) |
 | Journey to the Center of the Earth | 59862 | [59862-journey-to-the-center-of-the-earth.json](./59862-journey-to-the-center-of-the-earth.json) |
 | Journey to the Center of the Earth | 81426 | [81426-journey-to-the-center-of-the-earth.json](./81426-journey-to-the-center-of-the-earth.json) |
