@@ -13374,6 +13374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProtoHunter | 133743 | [133743-protohunter.json](./133743-protohunter.json) |
 | Protolife | 89973 | [89973-protolife.json](./89973-protolife.json) |
 | Protolife: Other Side | 244889 | [244889-protolife-other-side.json](./244889-protolife-other-side.json) |
+| Protologic | 10430 | [10430-protologic.json](./10430-protologic.json) |
 | Proton Bus Simulator Road | 219822 | [219822-proton-bus-simulator-road.json](./219822-proton-bus-simulator-road.json) |
 | Proton Pulse + | 56526 | [56526-proton-pulse.json](./56526-proton-pulse.json) |
 | Proton VR | 392133 | [392133-proton-vr.json](./392133-proton-vr.json) |
