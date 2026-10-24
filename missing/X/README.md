@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XBlaze Lost: Memories | 11637 | [11637-xblaze-lost-memories.json](./11637-xblaze-lost-memories.json) |
 | Xbox Fitness | 19172 | [19172-xbox-fitness.json](./19172-xbox-fitness.json) |
 | Xbox Live Arcade | 267539 | [267539-xbox-live-arcade.json](./267539-xbox-live-arcade.json) |
+| Xbox Live Arcade Unplugged: Volume 1 | 7257 | [7257-xbox-live-arcade-unplugged-volume-1.json](./7257-xbox-live-arcade-unplugged-volume-1.json) |
 | Xbox Party Mansion | 339813 | [339813-xbox-party-mansion.json](./339813-xbox-party-mansion.json) |
 | Xcalibur 2 | 257245 | [257245-xcalibur-2.json](./257245-xcalibur-2.json) |
 | XCavalypse | 33412 | [33412-xcavalypse.json](./33412-xcavalypse.json) |
