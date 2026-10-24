@@ -1272,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballade2: the Celestial Promise | 118414 | [118414-ballade2-the-celestial-promise.json](./118414-ballade2-the-celestial-promise.json) |
 | Ballads at Midnight | 207399 | [207399-ballads-at-midnight.json](./207399-ballads-at-midnight.json) |
 | Ballads of Hongye | 197151 | [197151-ballads-of-hongye.json](./197151-ballads-of-hongye.json) |
+| Ballance | 20895 | [20895-ballance.json](./20895-ballance.json) |
 | Ballance: The Return | 127371 | [127371-ballance-the-return.json](./127371-ballance-the-return.json) |
 | Ballapalooza | 275110 | [275110-ballapalooza.json](./275110-ballapalooza.json) |
 | Ballastic | 336912 | [336912-ballastic.json](./336912-ballastic.json) |
@@ -2437,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BASED | 394231 | [394231-based.json](./394231-based.json) |
 | Based Refueling | 279075 | [279075-based-refueling.json](./279075-based-refueling.json) |
 | Baseless | 236192 | [236192-baseless.json](./236192-baseless.json) |
+| Basement | 19376 | [19376-basement.json](./19376-basement.json) |
 | Basement | 348383 | [348383-basement.json](./348383-basement.json) |
 | Basement | 68654 | [68654-basement.json](./68654-basement.json) |
 | Basement Breakout | 399857 | [399857-basement-breakout.json](./399857-basement-breakout.json) |
@@ -2684,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Beyond: Return of the Joker | 248765 | [248765-batman-beyond-return-of-the-joker.json](./248765-batman-beyond-return-of-the-joker.json) |
 | Batman Beyond: Return of the Joker | 3444 | [3444-batman-beyond-return-of-the-joker.json](./3444-batman-beyond-return-of-the-joker.json) |
 | Batman Doom | 138788 | [138788-batman-doom.json](./138788-batman-doom.json) |
+| Batman Forever | 19856 | [19856-batman-forever.json](./19856-batman-forever.json) |
 | Batman Forever | 20809 | [20809-batman-forever.json](./20809-batman-forever.json) |
 | Batman Forever | 77237 | [77237-batman-forever.json](./77237-batman-forever.json) |
 | Batman Forever | 7769 | [7769-batman-forever.json](./7769-batman-forever.json) |
@@ -2698,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Asylum | 240941 | [240941-batman-arkham-asylum.json](./240941-batman-arkham-asylum.json) |
 | Batman: Arkham Asylum - Game of the Year Edition | 27862 | [27862-batman-arkham-asylum-game-of-the-year-edition.json](./27862-batman-arkham-asylum-game-of-the-year-edition.json) |
 | Batman: Arkham Asylum - Play as the Joker Challenge Map | 25993 | [25993-batman-arkham-asylum-play-as-the-joker-challenge-map.json](./25993-batman-arkham-asylum-play-as-the-joker-challenge-map.json) |
+| Batman: Arkham City - Armored Edition | 20834 | [20834-batman-arkham-city-armored-edition.json](./20834-batman-arkham-city-armored-edition.json) |
 | Batman: Arkham City - Batman Inc. Batsuit Skin | 138111 | [138111-batman-arkham-city-batman-inc-batsuit-skin.json](./138111-batman-arkham-city-batman-inc-batsuit-skin.json) |
 | Batman: Arkham City - Catwoman Bundle | 26116 | [26116-batman-arkham-city-catwoman-bundle.json](./26116-batman-arkham-city-catwoman-bundle.json) |
 | Batman: Arkham City - Game of the Year Edition | 21704 | [21704-batman-arkham-city-game-of-the-year-edition.json](./21704-batman-arkham-city-game-of-the-year-edition.json) |
@@ -5123,6 +5127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Up to Speed | 88937 | [88937-ben-10-up-to-speed.json](./88937-ben-10-up-to-speed.json) |
 | Ben 10: Vengeance of Vilgax | 206736 | [206736-ben-10-vengeance-of-vilgax.json](./206736-ben-10-vengeance-of-vilgax.json) |
 | Ben 10/Generator Rex: Heroes United | 176854 | [176854-ben-10-generator-rex-heroes-united.json](./176854-ben-10-generator-rex-heroes-united.json) |
+| Ben and Ed | 20176 | [20176-ben-and-ed.json](./20176-ben-and-ed.json) |
 | Ben and Ed: Blood Party | 32115 | [32115-ben-and-ed-blood-party.json](./32115-ben-and-ed-blood-party.json) |
 | Ben and Holly: Big Star Fun | 109009 | [109009-ben-and-holly-big-star-fun.json](./109009-ben-and-holly-big-star-fun.json) |
 | Ben Bero Beh | 40265 | [40265-ben-bero-beh.json](./40265-ben-bero-beh.json) |
