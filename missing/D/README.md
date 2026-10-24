@@ -3779,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Wore Endless Feathers | 168383 | [168383-death-wore-endless-feathers.json](./168383-death-wore-endless-feathers.json) |
 | Death World | 136118 | [136118-death-world.json](./136118-death-world.json) |
 | Death Worm | 337201 | [337201-death-worm.json](./337201-death-worm.json) |
+| Death Worm | 70201 | [70201-death-worm.json](./70201-death-worm.json) |
 | Death Zone | 144854 | [144854-death-zone.json](./144854-death-zone.json) |
 | Death, Soul & Robots | 245854 | [245854-death-soul-and-robots.json](./245854-death-soul-and-robots.json) |
 | Death: The Ascension | 139652 | [139652-death-the-ascension.json](./139652-death-the-ascension.json) |
@@ -12208,6 +12209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Slaughter | 144604 | [144604-dragon-slaughter.json](./144604-dragon-slaughter.json) |
 | Dragon Slayer | 250231 | [250231-dragon-slayer.json](./250231-dragon-slayer.json) |
 | Dragon Slayer | 293747 | [293747-dragon-slayer.json](./293747-dragon-slayer.json) |
+| Dragon Slayer | 72810 | [72810-dragon-slayer.json](./72810-dragon-slayer.json) |
 | Dragon Slayer | 80519 | [80519-dragon-slayer.json](./80519-dragon-slayer.json) |
 | Dragon Slayer and The Leaf Town | 348966 | [348966-dragon-slayer-and-the-leaf-town.json](./348966-dragon-slayer-and-the-leaf-town.json) |
 | Dragon Slayer Chronicle | 112155 | [112155-dragon-slayer-chronicle.json](./112155-dragon-slayer-chronicle.json) |
@@ -12339,6 +12341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Hope | 113740 | [113740-dragons-hope.json](./113740-dragons-hope.json) |
 | Dragon's Keep | 21959 | [21959-dragons-keep.json](./21959-dragons-keep.json) |
 | Dragon's Lair | 126283 | [126283-dragons-lair.json](./126283-dragons-lair.json) |
+| Dragon's Lair | 142473 | [142473-dragons-lair.json](./142473-dragons-lair.json) |
 | Dragon's Lair | 272020 | [272020-dragons-lair.json](./272020-dragons-lair.json) |
 | Dragon's Lair | 272021 | [272021-dragons-lair.json](./272021-dragons-lair.json) |
 | Dragon's Lair | 272319 | [272319-dragons-lair.json](./272319-dragons-lair.json) |
@@ -12648,6 +12651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Delusion: Rise of the Skeletons | 272835 | [272835-dread-delusion-rise-of-the-skeletons.json](./272835-dread-delusion-rise-of-the-skeletons.json) |
 | Dread Dice | 184444 | [184444-dread-dice.json](./184444-dread-dice.json) |
 | Dread Flats | 351690 | [351690-dread-flats.json](./351690-dread-flats.json) |
+| Dread Hunger | 141365 | [141365-dread-hunger.json](./141365-dread-hunger.json) |
 | Dread Keep | 181170 | [181170-dread-keep.json](./181170-dread-keep.json) |
 | Dread Lock | 59744 | [59744-dread-lock.json](./59744-dread-lock.json) |
 | Dread Meridian | 362056 | [362056-dread-meridian.json](./362056-dread-meridian.json) |
@@ -14573,6 +14577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Exiles | 290847 | [290847-dungeon-exiles.json](./290847-dungeon-exiles.json) |
 | Dungeon Explorer | 193425 | [193425-dungeon-explorer.json](./193425-dungeon-explorer.json) |
 | Dungeon Explorer | 19742 | [19742-dungeon-explorer.json](./19742-dungeon-explorer.json) |
+| Dungeon Explorer | 74314 | [74314-dungeon-explorer.json](./74314-dungeon-explorer.json) |
 | Dungeon Explorer II | 42022 | [42022-dungeon-explorer-ii.json](./42022-dungeon-explorer-ii.json) |
 | Dungeon Explorer: Warriors of Ancient Arts | 42865 | [42865-dungeon-explorer-warriors-of-ancient-arts.json](./42865-dungeon-explorer-warriors-of-ancient-arts.json) |
 | Dungeon Explorer: Warriors of the Ancient Arts | 20274 | [20274-dungeon-explorer-warriors-of-the-ancient-arts.json](./20274-dungeon-explorer-warriors-of-the-ancient-arts.json) |
