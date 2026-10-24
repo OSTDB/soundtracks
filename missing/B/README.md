@@ -768,7 +768,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3716,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlezone 2: Combat Commander | 24122 | [24122-battlezone-2-combat-commander.json](./24122-battlezone-2-combat-commander.json) |
 | Battlezone 2000 | 13695 | [13695-battlezone-2000.json](./13695-battlezone-2000.json) |
 | Battlezone 98 Redux | 20076 | [20076-battlezone-98-redux.json](./20076-battlezone-98-redux.json) |
+| Battlezone 98 Redux: Odyssey Edition | 52453 | [52453-battlezone-98-redux-odyssey-edition.json](./52453-battlezone-98-redux-odyssey-edition.json) |
 | Battlezone 98 Redux: The Red Odyssey | 124824 | [124824-battlezone-98-redux-the-red-odyssey.json](./124824-battlezone-98-redux-the-red-odyssey.json) |
 | Battlezone Combat Commander | 76424 | [76424-battlezone-combat-commander.json](./76424-battlezone-combat-commander.json) |
 | Battlezone: Battle Grounds | 238578 | [238578-battlezone-battle-grounds.json](./238578-battlezone-battle-grounds.json) |
@@ -5640,6 +5640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Divinity | 9781 | [9781-beyond-divinity.json](./9781-beyond-divinity.json) |
 | Beyond Doors | 283992 | [283992-beyond-doors.json](./283992-beyond-doors.json) |
 | Beyond Dreams | 192681 | [192681-beyond-dreams.json](./192681-beyond-dreams.json) |
+| Beyond Eden | 37397 | [37397-beyond-eden.json](./37397-beyond-eden.json) |
 | Beyond El Dorado | 58841 | [58841-beyond-el-dorado.json](./58841-beyond-el-dorado.json) |
 | Beyond Enemy Lines 2: Enhanced Edition | 242371 | [242371-beyond-enemy-lines-2-enhanced-edition.json](./242371-beyond-enemy-lines-2-enhanced-edition.json) |
 | Beyond Enemy Lines: Covert Operations | 115467 | [115467-beyond-enemy-lines-covert-operations.json](./115467-beyond-enemy-lines-covert-operations.json) |
@@ -6643,6 +6644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bion Clash | 361009 | [361009-bion-clash.json](./361009-bion-clash.json) |
 | Bionic Attack | 36527 | [36527-bionic-attack.json](./36527-bionic-attack.json) |
 | Bionic Battle Mutants | 74990 | [74990-bionic-battle-mutants.json](./74990-bionic-battle-mutants.json) |
+| Bionic Battler | 48964 | [48964-bionic-battler.json](./48964-bionic-battler.json) |
 | Bionic Bay | 203909 | [203909-bionic-bay.json](./203909-bionic-bay.json) |
 | Bionic Chainsaw Pogo Gorilla | 14526 | [14526-bionic-chainsaw-pogo-gorilla.json](./14526-bionic-chainsaw-pogo-gorilla.json) |
 | Bionic Commando | 54535 | [54535-bionic-commando.json](./54535-bionic-commando.json) |
@@ -8593,6 +8595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Steady | 218887 | [218887-block-steady.json](./218887-block-steady.json) |
 | Block Story | 9175 | [9175-block-story.json](./9175-block-story.json) |
 | Block Strike | 28898 | [28898-block-strike.json](./28898-block-strike.json) |
+| Block Survival: Legend of the Lost Islands | 37041 | [37041-block-survival-legend-of-the-lost-islands.json](./37041-block-survival-legend-of-the-lost-islands.json) |
 | Block The Monster | 272783 | [272783-block-the-monster.json](./272783-block-the-monster.json) |
 | Block Tower TD 2 | 309432 | [309432-block-tower-td-2.json](./309432-block-tower-td-2.json) |
 | Block Tricks | 107364 | [107364-block-tricks.json](./107364-block-tricks.json) |
@@ -9682,6 +9685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bó Cócó Zinha | 255545 | [255545-bo-coco-zinha.json](./255545-bo-coco-zinha.json) |
 | Bo Jackson Baseball | 8673 | [8673-bo-jackson-baseball.json](./8673-bo-jackson-baseball.json) |
 | Bo Jackson Football and Baseball | 198701 | [198701-bo-jackson-football-and-baseball.json](./198701-bo-jackson-football-and-baseball.json) |
+| Bo Jackson: Two Games in One | 48962 | [48962-bo-jackson-two-games-in-one.json](./48962-bo-jackson-two-games-in-one.json) |
 | Bō: Path of the Teal Lotus - Tanuki Kabuki | 335294 | [335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json](./335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json) |
 | Bo's Adventure: Merging Islands | 187148 | [187148-bos-adventure-merging-islands.json](./187148-bos-adventure-merging-islands.json) |
 | Boa Retina | 134663 | [134663-boa-retina.json](./134663-boa-retina.json) |
@@ -11615,6 +11619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoxVR | 91208 | [91208-boxvr.json](./91208-boxvr.json) |
 | Boxworld | 287649 | [287649-boxworld.json](./287649-boxworld.json) |
 | Boxxle | 7799 | [7799-boxxle.json](./7799-boxxle.json) |
+| Boxxle II | 48961 | [48961-boxxle-ii.json](./48961-boxxle-ii.json) |
 | BoxxyQuest: The Gathering Storm | 143929 | [143929-boxxyquest-the-gathering-storm.json](./143929-boxxyquest-the-gathering-storm.json) |
 | Boxy & Prisma | 226083 | [226083-boxy-and-prisma.json](./226083-boxy-and-prisma.json) |
 | Boxy Boy | 277524 | [277524-boxy-boy.json](./277524-boxy-boy.json) |
