@@ -7870,6 +7870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue: Chrono Phantasma Extend - Additional Character Color 1 | 388880 | [388880-blazblue-chrono-phantasma-extend-additional-character-color-1.json](./388880-blazblue-chrono-phantasma-extend-additional-character-color-1.json) |
 | BlazBlue: Clone Phantasma | 64233 | [64233-blazblue-clone-phantasma.json](./64233-blazblue-clone-phantasma.json) |
 | BlazBlue: Continuum Shift | 6750 | [6750-blazblue-continuum-shift.json](./6750-blazblue-continuum-shift.json) |
+| BlazBlue: Continuum Shift Extend - Limited Edition | 43025 | [43025-blazblue-continuum-shift-extend-limited-edition.json](./43025-blazblue-continuum-shift-extend-limited-edition.json) |
 | BlazBlue: Continuum Shift II | 11611 | [11611-blazblue-continuum-shift-ii.json](./11611-blazblue-continuum-shift-ii.json) |
 | BlazBlue: Continuum Shift II - Manga Edition | 89902 | [89902-blazblue-continuum-shift-ii-manga-edition.json](./89902-blazblue-continuum-shift-ii-manga-edition.json) |
 | BlazBlue: Cross Tag Battle | 51448 | [51448-blazblue-cross-tag-battle.json](./51448-blazblue-cross-tag-battle.json) |
@@ -11714,6 +11715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Dwarves 2 | 144265 | [144265-brave-dwarves-2.json](./144265-brave-dwarves-2.json) |
 | Brave Dwarves: Back for Treasures | 73533 | [73533-brave-dwarves-back-for-treasures.json](./73533-brave-dwarves-back-for-treasures.json) |
 | Brave Dwarves: Creeping Shadows | 388323 | [388323-brave-dwarves-creeping-shadows.json](./388323-brave-dwarves-creeping-shadows.json) |
+| Brave Earth: Prologue | 43060 | [43060-brave-earth-prologue.json](./43060-brave-earth-prologue.json) |
 | Brave Fantasy | 293497 | [293497-brave-fantasy.json](./293497-brave-fantasy.json) |
 | Brave Fighter 2: Frontier Free | 38952 | [38952-brave-fighter-2-frontier-free.json](./38952-brave-fighter-2-frontier-free.json) |
 | Brave Fighter: Demon Revenge | 38953 | [38953-brave-fighter-demon-revenge.json](./38953-brave-fighter-demon-revenge.json) |
@@ -14596,6 +14598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz! Junior: Dino Den | 43507 | [43507-buzz-junior-dino-den.json](./43507-buzz-junior-dino-den.json) |
 | Buzz! Junior: Monster Rumble | 43506 | [43506-buzz-junior-monster-rumble.json](./43506-buzz-junior-monster-rumble.json) |
 | Buzz! Junior: Robo Jam | 44710 | [44710-buzz-junior-robo-jam.json](./44710-buzz-junior-robo-jam.json) |
+| Buzz! Quiz TV Bundle | 43045 | [43045-buzz-quiz-tv-bundle.json](./43045-buzz-quiz-tv-bundle.json) |
 | Buzz! The Schools Quiz | 93404 | [93404-buzz-the-schools-quiz.json](./93404-buzz-the-schools-quiz.json) |
 | Buzz! The Sports Quiz | 43520 | [43520-buzz-the-sports-quiz.json](./43520-buzz-the-sports-quiz.json) |
 | Buzz! The Ultimate Music Quiz | 44586 | [44586-buzz-the-ultimate-music-quiz.json](./44586-buzz-the-ultimate-music-quiz.json) |
