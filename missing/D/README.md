@@ -5606,6 +5606,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deru: The Art of Cooperation | 68702 | [68702-deru-the-art-of-cooperation.json](./68702-deru-the-art-of-cooperation.json) |
 | Derust | 401719 | [401719-derust.json](./401719-derust.json) |
 | Dervish | 13589 | [13589-dervish.json](./13589-dervish.json) |
+| Des Blood | 21948 | [21948-des-blood.json](./21948-des-blood.json) |
+| Des Blood 2 | 21949 | [21949-des-blood-2.json](./21949-des-blood-2.json) |
+| Des Blood 3 | 21950 | [21950-des-blood-3.json](./21950-des-blood-3.json) |
+| Des Blood 4: Lost Alone | 21952 | [21952-des-blood-4-lost-alone.json](./21952-des-blood-4-lost-alone.json) |
+| Des Blood Racing | 21951 | [21951-des-blood-racing.json](./21951-des-blood-racing.json) |
 | Des Blood VR | 81472 | [81472-des-blood-vr.json](./81472-des-blood-vr.json) |
 | Des Chiffres et des Lettres | 69743 | [69743-des-chiffres-et-des-lettres.json](./69743-des-chiffres-et-des-lettres.json) |
 | Des Racines et des Graines | 261724 | [261724-des-racines-et-des-graines.json](./261724-des-racines-et-des-graines.json) |
@@ -9200,6 +9205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoDonPachi Unlimited | 264093 | [264093-dodonpachi-unlimited.json](./264093-dodonpachi-unlimited.json) |
 | DoDoon | 390178 | [390178-dodoon.json](./390178-dodoon.json) |
 | Doeo | 254300 | [254300-doeo.json](./254300-doeo.json) |
+| Does Blood: VR | 21953 | [21953-does-blood-vr.json](./21953-does-blood-vr.json) |
 | Does Canned Rice Dream of a Napkin Heap? | 141752 | [141752-does-canned-rice-dream-of-a-napkin-heap.json](./141752-does-canned-rice-dream-of-a-napkin-heap.json) |
 | Does It Shoot? | 88174 | [88174-does-it-shoot.json](./88174-does-it-shoot.json) |
 | Does it Stack? | 261196 | [261196-does-it-stack.json](./261196-does-it-stack.json) |
@@ -12195,6 +12201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Heaven | 264306 | [264306-dragons-heaven.json](./264306-dragons-heaven.json) |
 | Dragon's Hoard | 93621 | [93621-dragons-hoard.json](./93621-dragons-hoard.json) |
 | Dragon's Hope | 113740 | [113740-dragons-hope.json](./113740-dragons-hope.json) |
+| Dragon's Keep | 21959 | [21959-dragons-keep.json](./21959-dragons-keep.json) |
 | Dragon's Lair | 126283 | [126283-dragons-lair.json](./126283-dragons-lair.json) |
 | Dragon's Lair | 272020 | [272020-dragons-lair.json](./272020-dragons-lair.json) |
 | Dragon's Lair | 272021 | [272021-dragons-lair.json](./272021-dragons-lair.json) |
@@ -12950,6 +12957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamrealm's Tower of Despair | 353379 | [353379-dreamrealms-tower-of-despair.json](./353379-dreamrealms-tower-of-despair.json) |
 | Dreams | 286686 | [286686-dreams.json](./286686-dreams.json) |
 | Dreams and Nightmares | 146277 | [146277-dreams-and-nightmares.json](./146277-dreams-and-nightmares.json) |
+| Dreams Chronicles | 21759 | [21759-dreams-chronicles.json](./21759-dreams-chronicles.json) |
 | Dreams Creator | 118197 | [118197-dreams-creator.json](./118197-dreams-creator.json) |
 | Dreams in the Witch House | 197158 | [197158-dreams-in-the-witch-house.json](./197158-dreams-in-the-witch-house.json) |
 | Dreams Keeper Solitaire | 138497 | [138497-dreams-keeper-solitaire.json](./138497-dreams-keeper-solitaire.json) |
@@ -14906,8 +14914,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunia: The North Wood | 254776 | [254776-dunia-the-north-wood.json](./254776-dunia-the-north-wood.json) |
 | Dunidle Idle RPG | 227477 | [227477-dunidle-idle-rpg.json](./227477-dunidle-idle-rpg.json) |
 | Dunjonquest: Curse of Ra | 94549 | [94549-dunjonquest-curse-of-ra.json](./94549-dunjonquest-curse-of-ra.json) |
+| Dunjonquest: Hellfire Warrior | 21957 | [21957-dunjonquest-hellfire-warrior.json](./21957-dunjonquest-hellfire-warrior.json) |
 | Dunjonquest: Hellfire Warrior - Danger in Drindisti | 23309 | [23309-dunjonquest-hellfire-warrior-danger-in-drindisti.json](./23309-dunjonquest-hellfire-warrior-danger-in-drindisti.json) |
 | Dunjonquest: Hellfire Warrior - The Keys to Acheron | 23308 | [23308-dunjonquest-hellfire-warrior-the-keys-to-acheron.json](./23308-dunjonquest-hellfire-warrior-the-keys-to-acheron.json) |
+| Dunjonquest: Morloc's Tower | 21958 | [21958-dunjonquest-morlocs-tower.json](./21958-dunjonquest-morlocs-tower.json) |
 | Dunjonquest: Temple of Apshai | 68778 | [68778-dunjonquest-temple-of-apshai.json](./68778-dunjonquest-temple-of-apshai.json) |
 | Dunjonquest: Upper Reaches of Apshai | 69915 | [69915-dunjonquest-upper-reaches-of-apshai.json](./69915-dunjonquest-upper-reaches-of-apshai.json) |
 | Dunjunguy | 240736 | [240736-dunjunguy.json](./240736-dunjunguy.json) |
