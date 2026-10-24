@@ -1601,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Universe | 256893 | [256893-dark-universe.json](./256893-dark-universe.json) |
 | Dark Universe | 69798 | [69798-dark-universe.json](./69798-dark-universe.json) |
 | Dark Valiance | 135499 | [135499-dark-valiance.json](./135499-dark-valiance.json) |
+| Dark Vampires | 25408 | [25408-dark-vampires.json](./25408-dark-vampires.json) |
 | Dark Vampires: The Shadows of Dust | 346472 | [346472-dark-vampires-the-shadows-of-dust.json](./346472-dark-vampires-the-shadows-of-dust.json) |
 | Dark Veer | 123816 | [123816-dark-veer.json](./123816-dark-veer.json) |
 | Dark Vengeance | 51368 | [51368-dark-vengeance.json](./51368-dark-vengeance.json) |
@@ -9310,6 +9311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggerfall | 236883 | [236883-doggerfall.json](./236883-doggerfall.json) |
 | Doggest Dungeon | 125767 | [125767-doggest-dungeon.json](./125767-doggest-dungeon.json) |
 | Doggie Blues 3D | 264472 | [264472-doggie-blues-3d.json](./264472-doggie-blues-3d.json) |
+| Doggie Daycare | 25445 | [25445-doggie-daycare.json](./25445-doggie-daycare.json) |
 | Doggie Ninja: The Burning Strikers | 147785 | [147785-doggie-ninja-the-burning-strikers.json](./147785-doggie-ninja-the-burning-strikers.json) |
 | Doggies | 25489 | [25489-doggies.json](./25489-doggies.json) |
 | Doggins | 61872 | [61872-doggins.json](./61872-doggins.json) |
@@ -15169,6 +15171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarves: Idle Battles | 413753 | [413753-dwarves-idle-battles.json](./413753-dwarves-idle-battles.json) |
 | DwarVRs | 83611 | [83611-dwarvrs.json](./83611-dwarvrs.json) |
 | Dweebers | 313187 | [313187-dweebers.json](./313187-dweebers.json) |
+| Dweebs 3 | 25406 | [25406-dweebs-3.json](./25406-dweebs-3.json) |
 | DweeMixed: Thwee Pack | 187477 | [187477-dweemixed-thwee-pack.json](./187477-dweemixed-thwee-pack.json) |
 | Dweep | 180148 | [180148-dweep.json](./180148-dweep.json) |
 | Dwell | 394155 | [394155-dwell.json](./394155-dwell.json) |
