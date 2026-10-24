@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calamari Clash | 127844 | [127844-calamari-clash.json](./127844-calamari-clash.json) |
 | Calamity | 303719 | [303719-calamity.json](./303719-calamity.json) |
 | Calamity | 364103 | [364103-calamity.json](./364103-calamity.json) |
+| Calamity Angels: Special Delivery | 293165 | [293165-calamity-angels-special-delivery.json](./293165-calamity-angels-special-delivery.json) |
 | Calamity Angels: Special Delivery - Digital Deluxe Edition | 391861 | [391861-calamity-angels-special-delivery-digital-deluxe-edition.json](./391861-calamity-angels-special-delivery-digital-deluxe-edition.json) |
 | Calamity Annie | 72689 | [72689-calamity-annie.json](./72689-calamity-annie.json) |
 | Calamity Black Dragon and the Princess of Lies | 365199 | [365199-calamity-black-dragon-and-the-princess-of-lies.json](./365199-calamity-black-dragon-and-the-princess-of-lies.json) |
@@ -16036,6 +16037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Maid 3D 2 | 26563 | [26563-custom-maid-3d-2.json](./26563-custom-maid-3d-2.json) |
 | Custom Mario Maker | 294782 | [294782-custom-mario-maker.json](./294782-custom-mario-maker.json) |
 | Custom Mate 2 | 368064 | [368064-custom-mate-2.json](./368064-custom-mate-2.json) |
+| Custom Mech Wars | 263983 | [263983-custom-mech-wars.json](./263983-custom-mech-wars.json) |
 | Custom Mech Wars: EDF Collab Edition | 268007 | [268007-custom-mech-wars-edf-collab-edition.json](./268007-custom-mech-wars-edf-collab-edition.json) |
 | Custom Mech Wars: Ultimate Edition | 268008 | [268008-custom-mech-wars-ultimate-edition.json](./268008-custom-mech-wars-ultimate-edition.json) |
 | Custom Monsters | 222498 | [222498-custom-monsters.json](./222498-custom-monsters.json) |
