@@ -12900,6 +12900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers in Arms DS | 21422 | [21422-brothers-in-arms-ds.json](./21422-brothers-in-arms-ds.json) |
 | Brothers in Arms: Art of War | 152213 | [152213-brothers-in-arms-art-of-war.json](./152213-brothers-in-arms-art-of-war.json) |
 | Brothers in Arms: Double Time | 4730 | [4730-brothers-in-arms-double-time.json](./4730-brothers-in-arms-double-time.json) |
+| Brothers in Arms: Furious 4 | 2034 | [2034-brothers-in-arms-furious-4.json](./2034-brothers-in-arms-furious-4.json) |
 | Brothers in Arms: Hell's Highway | 618 | [618-brothers-in-arms-hells-highway.json](./618-brothers-in-arms-hells-highway.json) |
 | Brothers in Arms: Hour of Heroes | 21648 | [21648-brothers-in-arms-hour-of-heroes.json](./21648-brothers-in-arms-hour-of-heroes.json) |
 | Brothers in Blood | 132559 | [132559-brothers-in-blood.json](./132559-brothers-in-blood.json) |
