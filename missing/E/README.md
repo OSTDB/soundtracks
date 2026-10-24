@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edgar's Room | 189939 | [189939-edgars-room.json](./189939-edgars-room.json) |
 | Edge Case | 208266 | [208266-edge-case.json](./208266-edge-case.json) |
 | Edge Extended | 391112 | [391112-edge-extended.json](./391112-edge-extended.json) |
+| Edge Guardian | 31546 | [31546-edge-guardian.json](./31546-edge-guardian.json) |
 | Edge Not Found | 177234 | [177234-edge-not-found.json](./177234-edge-not-found.json) |
 | Edge of Atlantis | 28946 | [28946-edge-of-atlantis.json](./28946-edge-of-atlantis.json) |
 | Edge of Book | 130229 | [130229-edge-of-book.json](./130229-edge-of-book.json) |
@@ -2324,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embrace of Ocean: Story of Hope | 51956 | [51956-embrace-of-ocean-story-of-hope.json](./51956-embrace-of-ocean-story-of-hope.json) |
 | Embrace the Fear | 29773 | [29773-embrace-the-fear.json](./29773-embrace-the-fear.json) |
 | Embrace the Three Kingdoms | 118229 | [118229-embrace-the-three-kingdoms.json](./118229-embrace-the-three-kingdoms.json) |
+| Embrace.io | 31560 | [31560-embrace-io.json](./31560-embrace-io.json) |
 | Embraced | 299429 | [299429-embraced.json](./299429-embraced.json) |
 | Embraced by Autumn | 154032 | [154032-embraced-by-autumn.json](./154032-embraced-by-autumn.json) |
 | Embracelet | 136409 | [136409-embracelet.json](./136409-embracelet.json) |
