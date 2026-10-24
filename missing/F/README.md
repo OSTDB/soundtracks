@@ -7184,6 +7184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog & Silver | 214144 | [214144-fog-and-silver.json](./214144-fog-and-silver.json) |
 | Fog Horror | 235892 | [235892-fog-horror.json](./235892-fog-horror.json) |
 | Fog of Life | 176403 | [176403-fog-of-life.json](./176403-fog-of-life.json) |
+| Fog of War | 29953 | [29953-fog-of-war.json](./29953-fog-of-war.json) |
 | Fog of War: Book One | 278264 | [278264-fog-of-war-book-one.json](./278264-fog-of-war-book-one.json) |
 | Fog of War: Extended Edition | 53038 | [53038-fog-of-war-extended-edition.json](./53038-fog-of-war-extended-edition.json) |
 | Fog: Battle Royale | 208186 | [208186-fog-battle-royale.json](./208186-fog-battle-royale.json) |
@@ -9837,6 +9838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Golf | 202694 | [202694-frog-golf.json](./202694-frog-golf.json) |
 | Frog Hands Steve | 147204 | [147204-frog-hands-steve.json](./147204-frog-hands-steve.json) |
 | Frog Heist | 342202 | [342202-frog-heist.json](./342202-frog-heist.json) |
+| Frog Hop | 30021 | [30021-frog-hop.json](./30021-frog-hop.json) |
 | Frog in a Blender | 282803 | [282803-frog-in-a-blender.json](./282803-frog-in-a-blender.json) |
 | Frog in the Fog | 393630 | [393630-frog-in-the-fog.json](./393630-frog-in-the-fog.json) |
 | Frog In the Well | 221615 | [221615-frog-in-the-well.json](./221615-frog-in-the-well.json) |
