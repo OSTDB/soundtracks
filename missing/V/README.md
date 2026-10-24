@@ -2087,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Tennis | 205980 | [205980-virtua-tennis.json](./205980-virtua-tennis.json) |
 | Virtua Tennis 2009 | 344146 | [344146-virtua-tennis-2009.json](./344146-virtua-tennis-2009.json) |
 | Virtua Tennis 2009 | 5257 | [5257-virtua-tennis-2009.json](./5257-virtua-tennis-2009.json) |
+| Virtua Tennis 3 | 7235 | [7235-virtua-tennis-3.json](./7235-virtua-tennis-3.json) |
 | Virtua Tennis 4 | 5258 | [5258-virtua-tennis-4.json](./5258-virtua-tennis-4.json) |
 | Virtua Tennis Challenge | 46754 | [46754-virtua-tennis-challenge.json](./46754-virtua-tennis-challenge.json) |
 | Virtua Tennis: Mobile Edition | 317005 | [317005-virtua-tennis-mobile-edition.json](./317005-virtua-tennis-mobile-edition.json) |
