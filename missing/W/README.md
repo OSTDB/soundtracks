@@ -7264,8 +7264,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 3: FIA World Rally Championship | 43037 | [43037-wrc-3-fia-world-rally-championship.json](./43037-wrc-3-fia-world-rally-championship.json) |
 | WRC 4 | 8316 | [8316-wrc-4.json](./8316-wrc-4.json) |
 | WRC 4 FIA World Rally Championship | 3089 | [3089-wrc-4-fia-world-rally-championship.json](./3089-wrc-4-fia-world-rally-championship.json) |
+| WRC 5 FIA World Rally Championship | 22092 | [22092-wrc-5-fia-world-rally-championship.json](./22092-wrc-5-fia-world-rally-championship.json) |
 | WRC 5: WRC - eSports Pack 1 | 168739 | [168739-wrc-5-wrc-esports-pack-1.json](./168739-wrc-5-wrc-esports-pack-1.json) |
 | WRC 5: WRC - eSports Pack 2 | 168740 | [168740-wrc-5-wrc-esports-pack-2.json](./168740-wrc-5-wrc-esports-pack-2.json) |
+| WRC 6 FIA World Rally Championship | 19462 | [19462-wrc-6-fia-world-rally-championship.json](./19462-wrc-6-fia-world-rally-championship.json) |
 | WRC 7 | 28863 | [28863-wrc-7.json](./28863-wrc-7.json) |
 | WRC 8 | 114432 | [114432-wrc-8.json](./114432-wrc-8.json) |
 | WRC 8: Deluxe Edition | 216231 | [216231-wrc-8-deluxe-edition.json](./216231-wrc-8-deluxe-edition.json) |
