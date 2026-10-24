@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waronoi | 149194 | [149194-waronoi.json](./149194-waronoi.json) |
 | Warota: I Live Next to The Demon King's Castle LOL | 399887 | [399887-warota-i-live-next-to-the-demon-kings-castle-lol.json](./399887-warota-i-live-next-to-the-demon-kings-castle-lol.json) |
 | Warp | 74327 | [74327-warp.json](./74327-warp.json) |
+| Warp & Warp | 39399 | [39399-warp-and-warp.json](./39399-warp-and-warp.json) |
 | Warp 1 | 131295 | [131295-warp-1.json](./131295-warp-1.json) |
 | Warp 7 | 231062 | [231062-warp-7.json](./231062-warp-7.json) |
 | Warp Bot | 347879 | [347879-warp-bot.json](./347879-warp-bot.json) |
@@ -3210,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
