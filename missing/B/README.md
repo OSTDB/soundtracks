@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Fooker: Zombie Fooker 2 | 273820 | [273820-back-to-the-fooker-zombie-fooker-2.json](./273820-back-to-the-fooker-zombie-fooker-2.json) |
 | Back to the Future | 8516 | [8516-back-to-the-future.json](./8516-back-to-the-future.json) |
 | Back to the Future III | 218360 | [218360-back-to-the-future-iii.json](./218360-back-to-the-future-iii.json) |
+| Back to the Future Part II | 12396 | [12396-back-to-the-future-part-ii.json](./12396-back-to-the-future-part-ii.json) |
 | Back to the Future Part II & III | 8517 | [8517-back-to-the-future-part-ii-and-iii.json](./8517-back-to-the-future-part-ii-and-iii.json) |
 | Back to the Future: The Game | 3232 | [3232-back-to-the-future-the-game.json](./3232-back-to-the-future-the-game.json) |
 | Back to the Future: The Game - Episode 1: It's About Time | 78249 | [78249-back-to-the-future-the-game-episode-1-its-about-time.json](./78249-back-to-the-future-the-game-episode-1-its-about-time.json) |
@@ -760,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -13213,6 +13215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bub-O Escape | 280739 | [280739-bub-o-escape.json](./280739-bub-o-escape.json) |
 | Bub's Big Blowout! | 265065 | [265065-bubs-big-blowout.json](./265065-bubs-big-blowout.json) |
 | Buba | 120348 | [120348-buba.json](./120348-buba.json) |
+| Bubba 'n' Stix | 11980 | [11980-bubba-n-stix.json](./11980-bubba-n-stix.json) |
 | Bubba in the Turd Dimension | 410990 | [410990-bubba-in-the-turd-dimension.json](./410990-bubba-in-the-turd-dimension.json) |
 | Bubba Yuga | 383523 | [383523-bubba-yuga.json](./383523-bubba-yuga.json) |
 | Bubba's Diner | 233969 | [233969-bubbas-diner.json](./233969-bubbas-diner.json) |
@@ -14520,6 +14523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 16: Gold Edition | 52488 | [52488-bus-simulator-16-gold-edition.json](./52488-bus-simulator-16-gold-edition.json) |
 | Bus Simulator 16: Man Lion's City CNG Pack | 163355 | [163355-bus-simulator-16-man-lions-city-cng-pack.json](./163355-bus-simulator-16-man-lions-city-cng-pack.json) |
 | Bus Simulator 17 | 31555 | [31555-bus-simulator-17.json](./31555-bus-simulator-17.json) |
+| Bus Simulator 18 | 96250 | [96250-bus-simulator-18.json](./96250-bus-simulator-18.json) |
 | Bus Simulator 18: Man Bus Pack 1 | 225061 | [225061-bus-simulator-18-man-bus-pack-1.json](./225061-bus-simulator-18-man-bus-pack-1.json) |
 | Bus Simulator 18: Mercedes-Benz Bus Pack 1 | 225062 | [225062-bus-simulator-18-mercedes-benz-bus-pack-1.json](./225062-bus-simulator-18-mercedes-benz-bus-pack-1.json) |
 | Bus Simulator 18: Official Map Extension | 163354 | [163354-bus-simulator-18-official-map-extension.json](./163354-bus-simulator-18-official-map-extension.json) |
