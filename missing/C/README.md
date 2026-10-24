@@ -1796,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carbox | 317997 | [317997-carbox.json](./317997-carbox.json) |
 | Carbuncle Pi | 400985 | [400985-carbuncle-pi.json](./400985-carbuncle-pi.json) |
 | Carcará: Asas da Justiça | 133857 | [133857-carcara-asas-da-justica.json](./133857-carcara-asas-da-justica.json) |
+| Carcassonne | 21832 | [21832-carcassonne.json](./21832-carcassonne.json) |
 | Carcassonne | 370250 | [370250-carcassonne.json](./370250-carcassonne.json) |
 | Carcassonne DS | 66992 | [66992-carcassonne-ds.json](./66992-carcassonne-ds.json) |
 | Carcassonne: The Official Board Game - Inns & Cathedrals | 171018 | [171018-carcassonne-the-official-board-game-inns-and-cathedrals.json](./171018-carcassonne-the-official-board-game-inns-and-cathedrals.json) |
@@ -2229,10 +2230,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnivores: Dinosaur Hunt - Cretaceous Terror Pack | 214450 | [214450-carnivores-dinosaur-hunt-cretaceous-terror-pack.json](./214450-carnivores-dinosaur-hunt-cretaceous-terror-pack.json) |
 | Carnivores: Dinosaur Hunter | 20569 | [20569-carnivores-dinosaur-hunter.json](./20569-carnivores-dinosaur-hunter.json) |
 | Carnivores: Dinosaur Hunter HD | 20570 | [20570-carnivores-dinosaur-hunter-hd.json](./20570-carnivores-dinosaur-hunter-hd.json) |
+| Carnivores: Dinosaur Hunter Reborn | 17236 | [17236-carnivores-dinosaur-hunter-reborn.json](./17236-carnivores-dinosaur-hunter-reborn.json) |
 | Carnor City | 417417 | [417417-carnor-city.json](./417417-carnor-city.json) |
 | Carnosis | 414556 | [414556-carnosis.json](./414556-carnosis.json) |
 | Carol Coral's: Open the Door | 319552 | [319552-carol-corals-open-the-door.json](./319552-carol-corals-open-the-door.json) |
 | Carol the Dark Angel | 209722 | [209722-carol-the-dark-angel.json](./209722-carol-the-dark-angel.json) |
+| Carol Vorderman's Sudoku | 21886 | [21886-carol-vordermans-sudoku.json](./21886-carol-vordermans-sudoku.json) |
 | Carol Vorderman's Sudoku DVD Game | 264474 | [264474-carol-vordermans-sudoku-dvd-game.json](./264474-carol-vordermans-sudoku-dvd-game.json) |
 | Caroline's Abyss | 169621 | [169621-carolines-abyss.json](./169621-carolines-abyss.json) |
 | Carols in July | 228911 | [228911-carols-in-july.json](./228911-carols-in-july.json) |
@@ -2789,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Lord Velimir | 279507 | [279507-castle-of-lord-velimir.json](./279507-castle-of-lord-velimir.json) |
 | Castle of Lost Souls | 32590 | [32590-castle-of-lost-souls.json](./32590-castle-of-lost-souls.json) |
 | Castle of Lust: Hentai Fantasy Game | 368023 | [368023-castle-of-lust-hentai-fantasy-game.json](./368023-castle-of-lust-hentai-fantasy-game.json) |
+| Castle of Magic | 21855 | [21855-castle-of-magic.json](./21855-castle-of-magic.json) |
 | Castle of no Escape | 41958 | [41958-castle-of-no-escape.json](./41958-castle-of-no-escape.json) |
 | Castle of no Escape 1+2 Bundle | 218464 | [218464-castle-of-no-escape-1-2-bundle.json](./218464-castle-of-no-escape-1-2-bundle.json) |
 | Castle of Pixel Skulls DX | 164301 | [164301-castle-of-pixel-skulls-dx.json](./164301-castle-of-pixel-skulls-dx.json) |
