@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Match | 185681 | [185681-zen-match.json](./185681-zen-match.json) |
 | Zen Mosaics | 415860 | [415860-zen-mosaics.json](./415860-zen-mosaics.json) |
 | Zen of Clover | 89520 | [89520-zen-of-clover.json](./89520-zen-of-clover.json) |
+| Zen of Sudoku | 14826 | [14826-zen-of-sudoku.json](./14826-zen-of-sudoku.json) |
 | Zen Pinball | 20730 | [20730-zen-pinball.json](./20730-zen-pinball.json) |
 | Zen Pinball 2 | 6008 | [6008-zen-pinball-2.json](./6008-zen-pinball-2.json) |
 | ZEN Pinball 2: The Walking Dead | 353719 | [353719-zen-pinball-2-the-walking-dead.json](./353719-zen-pinball-2-the-walking-dead.json) |
