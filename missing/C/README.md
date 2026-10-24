@@ -5042,6 +5042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheeky Cheerhythm | 412920 | [412920-cheeky-cheerhythm.json](./412920-cheeky-cheerhythm.json) |
 | Cheeky Chickens | 180029 | [180029-cheeky-chickens.json](./180029-cheeky-chickens.json) |
 | Cheeky Chickens 2 | 104603 | [104603-cheeky-chickens-2.json](./104603-cheeky-chickens-2.json) |
+| Cheeky Mouse | 40024 | [40024-cheeky-mouse.json](./40024-cheeky-mouse.json) |
 | Cheeky Princess | 189074 | [189074-cheeky-princess.json](./189074-cheeky-princess.json) |
 | Cheep Cheep Challenge | 268181 | [268181-cheep-cheep-challenge.json](./268181-cheep-cheep-challenge.json) |
 | Cheer and Track | 123517 | [123517-cheer-and-track.json](./123517-cheer-and-track.json) |
@@ -5595,6 +5596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Rune | 176320 | [176320-chicken-rune.json](./176320-chicken-rune.json) |
 | Chicken Rush Deluxe | 341617 | [341617-chicken-rush-deluxe.json](./341617-chicken-rush-deluxe.json) |
 | Chicken Scratch | 256558 | [256558-chicken-scratch.json](./256558-chicken-scratch.json) |
+| Chicken Shift | 40023 | [40023-chicken-shift.json](./40023-chicken-shift.json) |
 | Chicken Shoot | 248610 | [248610-chicken-shoot.json](./248610-chicken-shoot.json) |
 | Chicken Shoot | 248611 | [248611-chicken-shoot.json](./248611-chicken-shoot.json) |
 | Chicken Shoot - Edition 2012 | 52493 | [52493-chicken-shoot-edition-2012.json](./52493-chicken-shoot-edition-2012.json) |
@@ -11434,6 +11436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoopValor 2056: Ukraine WW3 | 256292 | [256292-coopvalor-2056-ukraine-ww3.json](./256292-coopvalor-2056-ukraine-ww3.json) |
 | CoopValor WW2 Battle of the Bulge | 263522 | [263522-coopvalor-ww2-battle-of-the-bulge.json](./263522-coopvalor-ww2-battle-of-the-bulge.json) |
 | Cooties | 279887 | [279887-cooties.json](./279887-cooties.json) |
+| Cop 01 | 40022 | [40022-cop-01.json](./40022-cop-01.json) |
 | Cop Car Police Simulator Chase | 187469 | [187469-cop-car-police-simulator-chase.json](./187469-cop-car-police-simulator-chase.json) |
 | Cop City | 236109 | [236109-cop-city.json](./236109-cop-city.json) |
 | Cop Drop | 329419 | [329419-cop-drop.json](./329419-cop-drop.json) |
@@ -11802,6 +11805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmi: Forbidden Forest & Beyond | 333789 | [333789-cosmi-forbidden-forest-and-beyond.json](./333789-cosmi-forbidden-forest-and-beyond.json) |
 | Cosmiads | 41191 | [41191-cosmiads.json](./41191-cosmiads.json) |
 | CosmiBall 3D | 234124 | [234124-cosmiball-3d.json](./234124-cosmiball-3d.json) |
+| Cosmic Alien | 40021 | [40021-cosmic-alien.json](./40021-cosmic-alien.json) |
 | Cosmic Arcade Tycoon | 333497 | [333497-cosmic-arcade-tycoon.json](./333497-cosmic-arcade-tycoon.json) |
 | Cosmic Ark | 8466 | [8466-cosmic-ark.json](./8466-cosmic-ark.json) |
 | Cosmic Armada | 269983 | [269983-cosmic-armada.json](./269983-cosmic-armada.json) |
@@ -11882,6 +11886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Galaxy Wars | 396754 | [396754-cosmic-galaxy-wars.json](./396754-cosmic-galaxy-wars.json) |
 | Cosmic Gravity | 106755 | [106755-cosmic-gravity.json](./106755-cosmic-gravity.json) |
 | Cosmic Guerilla | 276388 | [276388-cosmic-guerilla.json](./276388-cosmic-guerilla.json) |
+| Cosmic Guerrilla | 39991 | [39991-cosmic-guerrilla.json](./39991-cosmic-guerrilla.json) |
 | Cosmic Gunslinger: Alien Outlaws | 274572 | [274572-cosmic-gunslinger-alien-outlaws.json](./274572-cosmic-gunslinger-alien-outlaws.json) |
 | Cosmic High Schooler | 358510 | [358510-cosmic-high-schooler.json](./358510-cosmic-high-schooler.json) |
 | Cosmic Highway | 63834 | [63834-cosmic-highway.json](./63834-cosmic-highway.json) |
