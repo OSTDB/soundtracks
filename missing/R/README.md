@@ -10056,6 +10056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RunGX mini | 391011 | [391011-rungx-mini.json](./391011-rungx-mini.json) |
 | Runi's Math Castle | 306337 | [306337-runis-math-castle.json](./306337-runis-math-castle.json) |
 | Runic | 215881 | [215881-runic.json](./215881-runic.json) |
+| Runic - Legacy of Sin | 21964 | [21964-runic-legacy-of-sin.json](./21964-runic-legacy-of-sin.json) |
 | Runic Curse | 207851 | [207851-runic-curse.json](./207851-runic-curse.json) |
 | Runic Defenders: Trials of Ascension | 246800 | [246800-runic-defenders-trials-of-ascension.json](./246800-runic-defenders-trials-of-ascension.json) |
 | Runic Relay: The Trials | 159121 | [159121-runic-relay-the-trials.json](./159121-runic-relay-the-trials.json) |
