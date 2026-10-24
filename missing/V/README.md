@@ -1095,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veneficium: A witch's tale | 169903 | [169903-veneficium-a-witchs-tale.json](./169903-veneficium-a-witchs-tale.json) |
 | Venera 31 | 399257 | [399257-venera-31.json](./399257-venera-31.json) |
 | Venetian Blinds | 40748 | [40748-venetian-blinds.json](./40748-venetian-blinds.json) |
+| Venetica | 7233 | [7233-venetica.json](./7233-venetica.json) |
 | Venetica: Gold Edition | 53932 | [53932-venetica-gold-edition.json](./53932-venetica-gold-edition.json) |
 | Venge | 143958 | [143958-venge.json](./143958-venge.json) |
 | Venge.io | 137531 | [137531-venge-io.json](./137531-venge-io.json) |
@@ -2813,6 +2814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voleur! | 411693 | [411693-voleur.json](./411693-voleur.json) |
 | Volfied | 4469 | [4469-volfied.json](./4469-volfied.json) |
 | Volfoss | 66699 | [66699-volfoss.json](./66699-volfoss.json) |
+| Volgarr the Viking | 8465 | [8465-volgarr-the-viking.json](./8465-volgarr-the-viking.json) |
 | Volgarr the Viking I & II Bundle | 312973 | [312973-volgarr-the-viking-i-and-ii-bundle.json](./312973-volgarr-the-viking-i-and-ii-bundle.json) |
 | Volgarr the Viking II | 304741 | [304741-volgarr-the-viking-ii.json](./304741-volgarr-the-viking-ii.json) |
 | Volguard | 85934 | [85934-volguard.json](./85934-volguard.json) |
