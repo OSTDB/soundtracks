@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted: Gunslinger's Kiss | 298984 | [298984-wanted-gunslingers-kiss.json](./298984-wanted-gunslingers-kiss.json) |
 | Wanted: Romance Renegades | 238415 | [238415-wanted-romance-renegades.json](./238415-wanted-romance-renegades.json) |
 | Wanted: Yokai Uprising | 309889 | [309889-wanted-yokai-uprising.json](./309889-wanted-yokai-uprising.json) |
+| Wanted!: Monty Mole | 26278 | [26278-wanted-monty-mole.json](./26278-wanted-monty-mole.json) |
 | Wanted? | 327455 | [327455-wanted.json](./327455-wanted.json) |
 | Wanting Shock | 361675 | [361675-wanting-shock.json](./361675-wanting-shock.json) |
 | Wanting Wings | 278705 | [278705-wanting-wings.json](./278705-wanting-wings.json) |
@@ -3213,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -3826,6 +3828,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Are You!? | 256522 | [256522-who-are-you.json](./256522-who-are-you.json) |
 | Who Are You? | 148253 | [148253-who-are-you.json](./148253-who-are-you.json) |
 | Who Are You? | 169439 | [169439-who-are-you.json](./169439-who-are-you.json) |
+| Who Dares Wins | 26280 | [26280-who-dares-wins.json](./26280-who-dares-wins.json) |
+| Who Dares Wins | 26281 | [26281-who-dares-wins.json](./26281-who-dares-wins.json) |
 | Who Dares Wins | 360149 | [360149-who-dares-wins.json](./360149-who-dares-wins.json) |
 | Who Dares Wins II | 26283 | [26283-who-dares-wins-ii.json](./26283-who-dares-wins-ii.json) |
 | Who Did I Date Last Night? | 67784 | [67784-who-did-i-date-last-night.json](./67784-who-did-i-date-last-night.json) |
