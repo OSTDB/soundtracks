@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Doki! Shinkyoku Darake no Haru Matsuri | 123431 | [123431-taiko-no-tatsujin-doki-shinkyoku-darake-no-haru-matsuri.json](./123431-taiko-no-tatsujin-doki-shinkyoku-darake-no-haru-matsuri.json) |
 | Taiko no Tatsujin: Drum 'n' Fun! | 104992 | [104992-taiko-no-tatsujin-drum-n-fun.json](./104992-taiko-no-tatsujin-drum-n-fun.json) |
 | Taiko no Tatsujin: Drum 'n' Fun! Bundle | 136119 | [136119-taiko-no-tatsujin-drum-n-fun-bundle.json](./136119-taiko-no-tatsujin-drum-n-fun-bundle.json) |
+| Taiko no Tatsujin: Drum Session | 76643 | [76643-taiko-no-tatsujin-drum-session.json](./76643-taiko-no-tatsujin-drum-session.json) |
 | Taiko No Tatsujin: Drum Session! - Deluxe Edition | 118719 | [118719-taiko-no-tatsujin-drum-session-deluxe-edition.json](./118719-taiko-no-tatsujin-drum-session-deluxe-edition.json) |
 | Taiko no Tatsujin: Go! Go! Godaime | 123416 | [123416-taiko-no-tatsujin-go-go-godaime.json](./123416-taiko-no-tatsujin-go-go-godaime.json) |
 | Taiko no Tatsujin: Ongaku Lesson | 123620 | [123620-taiko-no-tatsujin-ongaku-lesson.json](./123620-taiko-no-tatsujin-ongaku-lesson.json) |
@@ -3263,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenet of the Spark | 249701 | [249701-tenet-of-the-spark.json](./249701-tenet-of-the-spark.json) |
 | Tenfold Loop | 290856 | [290856-tenfold-loop.json](./290856-tenfold-loop.json) |
 | Tenfold Tales | 365831 | [365831-tenfold-tales.json](./365831-tenfold-tales.json) |
+| Tengai | 79156 | [79156-tengai.json](./79156-tengai.json) |
 | Tengai Makyou Zero | 38186 | [38186-tengai-makyou-zero.json](./38186-tengai-makyou-zero.json) |
 | Tengai Makyou Zero: Shonen Jump no Shou | 186735 | [186735-tengai-makyou-zero-shonen-jump-no-shou.json](./186735-tengai-makyou-zero-shonen-jump-no-shou.json) |
 | Tengai Makyou: Daiyon no Mokushiroku - The Apocalypse IV | 80577 | [80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json](./80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json) |
@@ -11512,6 +11514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -12537,6 +12540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Real Ghostbusters | 12841 | [12841-the-real-ghostbusters.json](./12841-the-real-ghostbusters.json) |
 | The Real Ghostbusters | 218436 | [218436-the-real-ghostbusters.json](./218436-the-real-ghostbusters.json) |
 | The Real Ghostbusters | 218945 | [218945-the-real-ghostbusters.json](./218945-the-real-ghostbusters.json) |
+| The Real Ghostbusters | 81546 | [81546-the-real-ghostbusters.json](./81546-the-real-ghostbusters.json) |
 | The Real Laser Ball | 108307 | [108307-the-real-laser-ball.json](./108307-the-real-laser-ball.json) |
 | The Real Man Summer Championship 2019 | 119652 | [119652-the-real-man-summer-championship-2019.json](./119652-the-real-man-summer-championship-2019.json) |
 | The Real Stunt Experts | 13026 | [13026-the-real-stunt-experts.json](./13026-the-real-stunt-experts.json) |
@@ -12910,6 +12914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Samaritan Paradox | 18642 | [18642-the-samaritan-paradox.json](./18642-the-samaritan-paradox.json) |
 | The Same World 2 | 214022 | [214022-the-same-world-2.json](./214022-the-same-world-2.json) |
 | The Sand Dunes | 161613 | [161613-the-sand-dunes.json](./161613-the-sand-dunes.json) |
+| The Sand Man | 81095 | [81095-the-sand-man.json](./81095-the-sand-man.json) |
 | The Sandbox | 16872 | [16872-the-sandbox.json](./16872-the-sandbox.json) |
 | The Sandbox | 182468 | [182468-the-sandbox.json](./182468-the-sandbox.json) |
 | The Sandbox - Building & Craft | 90705 | [90705-the-sandbox-building-and-craft.json](./90705-the-sandbox-building-and-craft.json) |
@@ -15191,6 +15196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Onslaught - The Golden Weapons Deluxe Pack | 139956 | [139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json](./139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json) |
 | The Walking Dead: Our World | 55177 | [55177-the-walking-dead-our-world.json](./55177-the-walking-dead-our-world.json) |
 | The Walking Dead: Pinball | 131502 | [131502-the-walking-dead-pinball.json](./131502-the-walking-dead-pinball.json) |
+| The Walking Dead: Road to Survival | 77353 | [77353-the-walking-dead-road-to-survival.json](./77353-the-walking-dead-road-to-survival.json) |
 | The Walking Dead: Saints & Sinners | 105416 | [105416-the-walking-dead-saints-and-sinners.json](./105416-the-walking-dead-saints-and-sinners.json) |
 | The Walking Dead: Saints & Sinners - Ch 2: Retribution | 198232 | [198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json](./198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json) |
 | The Walking Dead: Saints & Sinners - Ch 2: Retribution - Payback Edition | 229123 | [229123-the-walking-dead-saints-and-sinners-ch-2-retribution-payback-edition.json](./229123-the-walking-dead-saints-and-sinners-ch-2-retribution-payback-edition.json) |
@@ -15908,6 +15914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Themis | 327856 | [327856-themis.json](./327856-themis.json) |
 | TheMist | 116335 | [116335-themist.json](./116335-themist.json) |
 | Themm: Harukanaru Meikyuu | 260070 | [260070-themm-harukanaru-meikyuu.json](./260070-themm-harukanaru-meikyuu.json) |
+| TheNightfall | 81230 | [81230-thenightfall.json](./81230-thenightfall.json) |
 | Theo Space Miner | 248818 | [248818-theo-space-miner.json](./248818-theo-space-miner.json) |
 | Theo's World | 150276 | [150276-theos-world.json](./150276-theos-world.json) |
 | Theocracy | 226158 | [226158-theocracy.json](./226158-theocracy.json) |
@@ -21935,6 +21942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower | 287566 | [287566-tower.json](./287566-tower.json) |
 | Tower | 315714 | [315714-tower.json](./315714-tower.json) |
 | Tower 22 | 79383 | [79383-tower-22.json](./79383-tower-22.json) |
+| Tower 57 | 28302 | [28302-tower-57.json](./28302-tower-57.json) |
 | Tower and Guardian | 54466 | [54466-tower-and-guardian.json](./54466-tower-and-guardian.json) |
 | Tower Arena | 118019 | [118019-tower-arena.json](./118019-tower-arena.json) |
 | Tower Arena Survive | 348022 | [348022-tower-arena-survive.json](./348022-tower-arena-survive.json) |
@@ -27159,6 +27167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Worlds II HD | 53865 | [53865-two-worlds-ii-hd.json](./53865-two-worlds-ii-hd.json) |
 | Two Worlds II HD: Call of the Tenebrae | 131960 | [131960-two-worlds-ii-hd-call-of-the-tenebrae.json](./131960-two-worlds-ii-hd-call-of-the-tenebrae.json) |
 | Two Worlds II HD: Shattered Embrace | 126972 | [126972-two-worlds-ii-hd-shattered-embrace.json](./126972-two-worlds-ii-hd-shattered-embrace.json) |
+| Two Worlds II: Call of the Tenebrae | 28283 | [28283-two-worlds-ii-call-of-the-tenebrae.json](./28283-two-worlds-ii-call-of-the-tenebrae.json) |
 | Two Worlds II: Echoes of the Dark Past | 124775 | [124775-two-worlds-ii-echoes-of-the-dark-past.json](./124775-two-worlds-ii-echoes-of-the-dark-past.json) |
 | Two Worlds II: Epic Edition | 51798 | [51798-two-worlds-ii-epic-edition.json](./51798-two-worlds-ii-epic-edition.json) |
 | Two Worlds II: Pirates of the Flying Fortress | 11032 | [11032-two-worlds-ii-pirates-of-the-flying-fortress.json](./11032-two-worlds-ii-pirates-of-the-flying-fortress.json) |
