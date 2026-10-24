@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vandal Hearts II | 6543 | [6543-vandal-hearts-ii.json](./6543-vandal-hearts-ii.json) |
 | Vandal Hearts: Flames of Judgment | 53025 | [53025-vandal-hearts-flames-of-judgment.json](./53025-vandal-hearts-flames-of-judgment.json) |
 | Vandalhalla | 153934 | [153934-vandalhalla.json](./153934-vandalhalla.json) |
+| Vandals | 95550 | [95550-vandals.json](./95550-vandals.json) |
 | Vandell: Knight of the Tortured Souls | 69753 | [69753-vandell-knight-of-the-tortured-souls.json](./69753-vandell-knight-of-the-tortured-souls.json) |
 | Vandozer | 137469 | [137469-vandozer.json](./137469-vandozer.json) |
 | Vane | 11669 | [11669-vane.json](./11669-vane.json) |
