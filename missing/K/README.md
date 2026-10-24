@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakyuusei Remake | 385824 | [385824-kakyuusei-remake.json](./385824-kakyuusei-remake.json) |
 | Kal | 391591 | [391591-kal.json](./391591-kal.json) |
 | Kāla | 252281 | [252281-kala.json](./252281-kala.json) |
+| Kalaban | 30094 | [30094-kalaban.json](./30094-kalaban.json) |
 | Kalah | 121727 | [121727-kalah.json](./121727-kalah.json) |
 | Kalaha | 369645 | [369645-kalaha.json](./369645-kalaha.json) |
 | Kalahari’s End | 292776 | [292776-kalahari-s-end.json](./292776-kalahari-s-end.json) |
@@ -1188,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keef the Thief: A Boy and His Lockpick | 8930 | [8930-keef-the-thief-a-boy-and-his-lockpick.json](./8930-keef-the-thief-a-boy-and-his-lockpick.json) |
 | Keek | 211679 | [211679-keek.json](./211679-keek.json) |
 | KeelOver | 399140 | [399140-keelover.json](./399140-keelover.json) |
+| Keen | 30163 | [30163-keen.json](./30163-keen.json) |
 | Keena The Voidslayer | 419332 | [419332-keena-the-voidslayer.json](./419332-keena-the-voidslayer.json) |
 | Keep Away | 359741 | [359741-keep-away.json](./359741-keep-away.json) |
 | Keep Combo | 255052 | [255052-keep-combo.json](./255052-keep-combo.json) |
