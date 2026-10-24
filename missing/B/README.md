@@ -9005,6 +9005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodborne Kart | 233928 | [233928-bloodborne-kart.json](./233928-bloodborne-kart.json) |
 | Bloodborne PSX | 179685 | [179685-bloodborne-psx.json](./179685-bloodborne-psx.json) |
 | Bloodborne: Collector's Edition | 44542 | [44542-bloodborne-collectors-edition.json](./44542-bloodborne-collectors-edition.json) |
+| Bloodborne: Complete Edition Bundle | 150034 | [150034-bloodborne-complete-edition-bundle.json](./150034-bloodborne-complete-edition-bundle.json) |
 | Bloodborne: Game of the Year Edition | 42931 | [42931-bloodborne-game-of-the-year-edition.json](./42931-bloodborne-game-of-the-year-edition.json) |
 | Bloodborne: Limited Hunter Edition | 166180 | [166180-bloodborne-limited-hunter-edition.json](./166180-bloodborne-limited-hunter-edition.json) |
 | Bloodborne: Nightmare Edition | 44651 | [44651-bloodborne-nightmare-edition.json](./44651-bloodborne-nightmare-edition.json) |
@@ -11469,6 +11470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxgame | 242919 | [242919-boxgame.json](./242919-boxgame.json) |
 | Boxguy Adventure | 358322 | [358322-boxguy-adventure.json](./358322-boxguy-adventure.json) |
 | Boxguy Adventure 2 | 358292 | [358292-boxguy-adventure-2.json](./358292-boxguy-adventure-2.json) |
+| Boxhead: 2Play Rooms | 147504 | [147504-boxhead-2play-rooms.json](./147504-boxhead-2play-rooms.json) |
 | Boxhead: A Halloween Special | 373637 | [373637-boxhead-a-halloween-special.json](./373637-boxhead-a-halloween-special.json) |
 | Boxhead: Immortal | 291083 | [291083-boxhead-immortal.json](./291083-boxhead-immortal.json) |
 | Boxigon! | 109656 | [109656-boxigon.json](./109656-boxigon.json) |
