@@ -3069,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Xtreme 2 | 43899 | [43899-nfl-xtreme-2.json](./43899-nfl-xtreme-2.json) |
 | NFL's Greatest: San Francisco vs. Dallas 1978-1993 | 46413 | [46413-nfls-greatest-san-francisco-vs-dallas-1978-1993.json](./46413-nfls-greatest-san-francisco-vs-dallas-1978-1993.json) |
 | NFT Museum | 231446 | [231446-nft-museum.json](./231446-nft-museum.json) |
+| NFUT Cards | 178283 | [178283-nfut-cards.json](./178283-nfut-cards.json) |
 | Nghtmn | 28640 | [28640-nghtmn.json](./28640-nghtmn.json) |
 | Ngolf | 283259 | [283259-ngolf.json](./283259-ngolf.json) |
 | Ngolf: Colorful Golf Balls 1 | 303875 | [303875-ngolf-colorful-golf-balls-1.json](./303875-ngolf-colorful-golf-balls-1.json) |
