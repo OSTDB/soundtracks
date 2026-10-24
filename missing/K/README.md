@@ -2262,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -2353,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinduo 2: Frostbite | 263043 | [263043-kinduo-2-frostbite.json](./263043-kinduo-2-frostbite.json) |
 | Kindvixen's | 296618 | [296618-kindvixens.json](./296618-kindvixens.json) |
 | Kine | 95225 | [95225-kine.json](./95225-kine.json) |
+| Kinect Adventures | 2657 | [2657-kinect-adventures.json](./2657-kinect-adventures.json) |
 | Kinect Fun Labs | 22939 | [22939-kinect-fun-labs.json](./22939-kinect-fun-labs.json) |
 | Kinect Fun Labs: 5 Micro Lab Challenge | 294558 | [294558-kinect-fun-labs-5-micro-lab-challenge.json](./294558-kinect-fun-labs-5-micro-lab-challenge.json) |
 | Kinect Fun Labs: Air Band | 329731 | [329731-kinect-fun-labs-air-band.json](./329731-kinect-fun-labs-air-band.json) |
@@ -4877,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Superstar | 116409 | [116409-kung-fu-superstar.json](./116409-kung-fu-superstar.json) |
 | Kung Fu Zombie | 106646 | [106646-kung-fu-zombie.json](./106646-kung-fu-zombie.json) |
 | Kung Fu: Shadow Fist | 56777 | [56777-kung-fu-shadow-fist.json](./56777-kung-fu-shadow-fist.json) |
+| Kung Fury: Street Rage | 11052 | [11052-kung-fury-street-rage.json](./11052-kung-fury-street-rage.json) |
 | Kung Fury: Street Rage - A Day at the Beach | 182181 | [182181-kung-fury-street-rage-a-day-at-the-beach.json](./182181-kung-fury-street-rage-a-day-at-the-beach.json) |
 | Kung Fury: Street Rage - Ultimate Edition | 204716 | [204716-kung-fury-street-rage-ultimate-edition.json](./204716-kung-fury-street-rage-ultimate-edition.json) |
 | Kung Pao Banqi | 320527 | [320527-kung-pao-banqi.json](./320527-kung-pao-banqi.json) |
