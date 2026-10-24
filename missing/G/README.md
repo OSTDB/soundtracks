@@ -3258,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts over the Water: Changing the Tides of Japan's Future | 242995 | [242995-ghosts-over-the-water-changing-the-tides-of-japans-future.json](./242995-ghosts-over-the-water-changing-the-tides-of-japans-future.json) |
 | Ghosts'n Demons | 138077 | [138077-ghostsn-demons.json](./138077-ghostsn-demons.json) |
 | Ghosts'n DJs | 129198 | [129198-ghostsn-djs.json](./129198-ghostsn-djs.json) |
+| Ghosts'n Goblins Arcade | 41139 | [41139-ghostsn-goblins-arcade.json](./41139-ghostsn-goblins-arcade.json) |
 | Ghostscape | 80158 | [80158-ghostscape.json](./80158-ghostscape.json) |
 | Ghoststory | 89954 | [89954-ghoststory.json](./89954-ghoststory.json) |
 | Ghostus | 263329 | [263329-ghostus.json](./263329-ghostus.json) |
@@ -4599,6 +4600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Sushi | 361792 | [361792-goblin-sushi.json](./361792-goblin-sushi.json) |
 | Goblin Takes No Argument[s] | 172163 | [172163-goblin-takes-no-argument-s.json](./172163-goblin-takes-no-argument-s.json) |
 | Goblin Times | 127378 | [127378-goblin-times.json](./127378-goblin-times.json) |
+| Goblin Towers | 41152 | [41152-goblin-towers.json](./41152-goblin-towers.json) |
 | Goblin Traders | 344014 | [344014-goblin-traders.json](./344014-goblin-traders.json) |
 | Goblin treasure | 129716 | [129716-goblin-treasure.json](./129716-goblin-treasure.json) |
 | Goblin Village | 353718 | [353718-goblin-village.json](./353718-goblin-village.json) |
@@ -6706,6 +6708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravitreX Arcade | 159635 | [159635-gravitrex-arcade.json](./159635-gravitrex-arcade.json) |
 | Gravitrex Plus | 63811 | [63811-gravitrex-plus.json](./63811-gravitrex-plus.json) |
 | Gravitrix | 365770 | [365770-gravitrix.json](./365770-gravitrix.json) |
+| Gravitrix | 41175 | [41175-gravitrix.json](./41175-gravitrix.json) |
 | Gravitron | 69925 | [69925-gravitron.json](./69925-gravitron.json) |
 | Gravitron360 | 92060 | [92060-gravitron360.json](./92060-gravitron360.json) |
 | Gravitronix | 21035 | [21035-gravitronix.json](./21035-gravitronix.json) |
@@ -8772,6 +8775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunRun | 266604 | [266604-gunrun.json](./266604-gunrun.json) |
 | Guns 'n Goblins | 399259 | [399259-guns-n-goblins.json](./399259-guns-n-goblins.json) |
 | Guns 'n Guts | 110973 | [110973-guns-n-guts.json](./110973-guns-n-guts.json) |
+| Guns 'n' Ghosts | 41157 | [41157-guns-n-ghosts.json](./41157-guns-n-ghosts.json) |
 | Guns & Ammo: Point of Impact Reloaded | 60843 | [60843-guns-and-ammo-point-of-impact-reloaded.json](./60843-guns-and-ammo-point-of-impact-reloaded.json) |
 | Guns & Bots | 304906 | [304906-guns-and-bots.json](./304906-guns-and-bots.json) |
 | Guns & Dragons | 403118 | [403118-guns-and-dragons.json](./403118-guns-and-dragons.json) |
