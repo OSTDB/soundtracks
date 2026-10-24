@@ -3163,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Train VR | 32260 | [32260-ghost-train-vr.json](./32260-ghost-train-vr.json) |
 | Ghost Trap | 208607 | [208607-ghost-trap.json](./208607-ghost-trap.json) |
 | Ghost Trap | 49599 | [49599-ghost-trap.json](./49599-ghost-trap.json) |
+| Ghost Trick: Phantom Detective | 1348 | [1348-ghost-trick-phantom-detective.json](./1348-ghost-trick-phantom-detective.json) |
 | Ghost Trick: Phantom Detective | 236660 | [236660-ghost-trick-phantom-detective.json](./236660-ghost-trick-phantom-detective.json) |
 | Ghost Truck: Death Arena | 415864 | [415864-ghost-truck-death-arena.json](./415864-ghost-truck-death-arena.json) |
 | Ghost Vanguard | 264694 | [264694-ghost-vanguard.json](./264694-ghost-vanguard.json) |
