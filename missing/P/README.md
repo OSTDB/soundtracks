@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man SDL | 334737 | [334737-pac-man-sdl.json](./334737-pac-man-sdl.json) |
 | Pac-Man Social | 64682 | [64682-pac-man-social.json](./64682-pac-man-social.json) |
 | Pac-Man VR | 65001 | [65001-pac-man-vr.json](./65001-pac-man-vr.json) |
+| Pac-Man Vs. | 4062 | [4062-pac-man-vs.json](./4062-pac-man-vs.json) |
 | Pac-Man vs. & Pac-Man World 2 | 349360 | [349360-pac-man-vs-and-pac-man-world-2.json](./349360-pac-man-vs-and-pac-man-world-2.json) |
 | Pac-Man World | 6530 | [6530-pac-man-world.json](./6530-pac-man-world.json) |
 | Pac-Man World | 84190 | [84190-pac-man-world.json](./84190-pac-man-world.json) |
@@ -5488,6 +5489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Action | 39419 | [39419-pinball-action.json](./39419-pinball-action.json) |
 | Pinball Advance | 49316 | [49316-pinball-advance.json](./49316-pinball-advance.json) |
 | Pinball Adventure | 359731 | [359731-pinball-adventure.json](./359731-pinball-adventure.json) |
+| Pinball Arcade | 196847 | [196847-pinball-arcade.json](./196847-pinball-arcade.json) |
 | Pinball Arcade Plus | 91189 | [91189-pinball-arcade-plus.json](./91189-pinball-arcade-plus.json) |
 | Pinball Arcade Season 2 | 141861 | [141861-pinball-arcade-season-2.json](./141861-pinball-arcade-season-2.json) |
 | Pinball Arcade: AC/DC | 349341 | [349341-pinball-arcade-ac-dc.json](./349341-pinball-arcade-ac-dc.json) |
@@ -9527,6 +9529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polda 5 | 64590 | [64590-polda-5.json](./64590-polda-5.json) |
 | Polda 7 | 205730 | [205730-polda-7.json](./205730-polda-7.json) |
 | Polders | 388320 | [388320-polders.json](./388320-polders.json) |
+| Pole Chudes: Capital Show | 194912 | [194912-pole-chudes-capital-show.json](./194912-pole-chudes-capital-show.json) |
 | Pole Dancers XXX | 249041 | [249041-pole-dancers-xxx.json](./249041-pole-dancers-xxx.json) |
 | Pole of Cold | 149339 | [149339-pole-of-cold.json](./149339-pole-of-cold.json) |
 | Pole Position | 310533 | [310533-pole-position.json](./310533-pole-position.json) |
@@ -13709,6 +13712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychopathy Assessment | 341438 | [341438-psychopathy-assessment.json](./341438-psychopathy-assessment.json) |
 | PsychoPhobia | 196025 | [196025-psychophobia.json](./196025-psychophobia.json) |
 | Psychophonies: What Ghosts Say | 238438 | [238438-psychophonies-what-ghosts-say.json](./238438-psychophonies-what-ghosts-say.json) |
+| Psychopomp | 284511 | [284511-psychopomp.json](./284511-psychopomp.json) |
 | Psychopomp 2 | 375510 | [375510-psychopomp-2.json](./375510-psychopomp-2.json) |
 | Psychopomp Gold | 319765 | [319765-psychopomp-gold.json](./319765-psychopomp-gold.json) |
 | Psychoscopy | 207195 | [207195-psychoscopy.json](./207195-psychoscopy.json) |
