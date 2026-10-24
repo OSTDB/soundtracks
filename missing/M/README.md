@@ -2091,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make-Up Touch 2 | 98831 | [98831-make-up-touch-2.json](./98831-make-up-touch-2.json) |
 | MakeBridge | 93438 | [93438-makebridge.json](./93438-makebridge.json) |
 | Maken Shao: Demon Sword | 43421 | [43421-maken-shao-demon-sword.json](./43421-maken-shao-demon-sword.json) |
+| Maken X | 46378 | [46378-maken-x.json](./46378-maken-x.json) |
 | Maken-shi Sara | 189001 | [189001-maken-shi-sara.json](./189001-maken-shi-sara.json) |
 | Makenines | 110254 | [110254-makenines.json](./110254-makenines.json) |
 | MakeNumber | 94243 | [94243-makenumber.json](./94243-makenumber.json) |
@@ -8865,6 +8866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Golf 2.0 | 21860 | [21860-microsoft-golf-2-0.json](./21860-microsoft-golf-2-0.json) |
 | Microsoft Golf 3.0 | 78572 | [78572-microsoft-golf-3-0.json](./78572-microsoft-golf-3-0.json) |
 | Microsoft Golf: Multimedia Edition | 314577 | [314577-microsoft-golf-multimedia-edition.json](./314577-microsoft-golf-multimedia-edition.json) |
+| Microsoft Hearts | 51353 | [51353-microsoft-hearts.json](./51353-microsoft-hearts.json) |
 | Microsoft International Soccer 2000 | 72170 | [72170-microsoft-international-soccer-2000.json](./72170-microsoft-international-soccer-2000.json) |
 | Microsoft Jewel 2 | 317539 | [317539-microsoft-jewel-2.json](./317539-microsoft-jewel-2.json) |
 | Microsoft Mahjong | 8977 | [8977-microsoft-mahjong.json](./8977-microsoft-mahjong.json) |
@@ -12030,6 +12032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole Hunter | 281635 | [281635-mole-hunter.json](./281635-mole-hunter.json) |
 | Mole in a Hole | 256195 | [256195-mole-in-a-hole.json](./256195-mole-in-a-hole.json) |
 | Mole Maiden | 205035 | [205035-mole-maiden.json](./205035-mole-maiden.json) |
+| Mole Mania | 49038 | [49038-mole-mania.json](./49038-mole-mania.json) |
 | Mole Mash | 359726 | [359726-mole-mash.json](./359726-mole-mash.json) |
 | Mole Mayhem | 346259 | [346259-mole-mayhem.json](./346259-mole-mayhem.json) |
 | Mole Mine Rocks 0.15 | 321164 | [321164-mole-mine-rocks-0-15.json](./321164-mole-mine-rocks-0-15.json) |
@@ -12231,6 +12234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monday Left Me Broken Collection | 397397 | [397397-monday-left-me-broken-collection.json](./397397-monday-left-me-broken-collection.json) |
 | Monday Meltdown | 260159 | [260159-monday-meltdown.json](./260159-monday-meltdown.json) |
 | Monday Meow | 388762 | [388762-monday-meow.json](./388762-monday-meow.json) |
+| Monday Night Combat | 9660 | [9660-monday-night-combat.json](./9660-monday-night-combat.json) |
 | Monday Night Mania | 239541 | [239541-monday-night-mania.json](./239541-monday-night-mania.json) |
 | Monday Night Monsters Football | 196626 | [196626-monday-night-monsters-football.json](./196626-monday-night-monsters-football.json) |
 | Mondays: A Sisyphean Typing Game | 209491 | [209491-mondays-a-sisyphean-typing-game.json](./209491-mondays-a-sisyphean-typing-game.json) |
