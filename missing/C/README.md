@@ -9467,6 +9467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colonial Combat | 332651 | [332651-colonial-combat.json](./332651-colonial-combat.json) |
 | Colonial Conquest | 97307 | [97307-colonial-conquest.json](./97307-colonial-conquest.json) |
 | Colonials Programme | 142179 | [142179-colonials-programme.json](./142179-colonials-programme.json) |
+| Coloniam | 127737 | [127737-coloniam.json](./127737-coloniam.json) |
 | Colonies | 118353 | [118353-colonies.json](./118353-colonies.json) |
 | Colonies End | 122829 | [122829-colonies-end.json](./122829-colonies-end.json) |
 | Colonies Online | 36439 | [36439-colonies-online.json](./36439-colonies-online.json) |
@@ -10828,6 +10829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect'Em | 56949 | [56949-connectem.json](./56949-connectem.json) |
 | Connect/Words | 87696 | [87696-connect-words.json](./87696-connect-words.json) |
 | Connect01 | 105657 | [105657-connect01.json](./105657-connect01.json) |
+| ConnecTank | 152381 | [152381-connectank.json](./152381-connectank.json) |
 | Connected Hearts | 54525 | [54525-connected-hearts.json](./54525-connected-hearts.json) |
 | Connected Hearts: Cost of Beauty DLC | 291064 | [291064-connected-hearts-cost-of-beauty-dlc.json](./291064-connected-hearts-cost-of-beauty-dlc.json) |
 | Connected Hearts: Hour of the Witch | 417688 | [417688-connected-hearts-hour-of-the-witch.json](./417688-connected-hearts-hour-of-the-witch.json) |
