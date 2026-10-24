@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla Knights 2: Battle Stance | 142322 | [142322-valhalla-knights-2-battle-stance.json](./142322-valhalla-knights-2-battle-stance.json) |
 | Valhalla Knights 3 | 20072 | [20072-valhalla-knights-3.json](./20072-valhalla-knights-3.json) |
 | Valhalla Knights 3 Gold | 53026 | [53026-valhalla-knights-3-gold.json](./53026-valhalla-knights-3-gold.json) |
+| Valhalla Knights: Eldar Saga | 5255 | [5255-valhalla-knights-eldar-saga.json](./5255-valhalla-knights-eldar-saga.json) |
 | Valhalla Mountain | 328465 | [328465-valhalla-mountain.json](./328465-valhalla-mountain.json) |
 | Valhalla Path | 382543 | [382543-valhalla-path.json](./382543-valhalla-path.json) |
 | Valhalla Wars | 249370 | [249370-valhalla-wars.json](./249370-valhalla-wars.json) |
@@ -385,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Profile | 3998 | [3998-valkyrie-profile.json](./3998-valkyrie-profile.json) |
 | Valkyrie Profile 2: Silmeria | 11793 | [11793-valkyrie-profile-2-silmeria.json](./11793-valkyrie-profile-2-silmeria.json) |
 | Valkyrie Profile Niffynee | 189996 | [189996-valkyrie-profile-niffynee.json](./189996-valkyrie-profile-niffynee.json) |
+| Valkyrie Profile: Covenant of the Plume | 6579 | [6579-valkyrie-profile-covenant-of-the-plume.json](./6579-valkyrie-profile-covenant-of-the-plume.json) |
 | Valkyrie Profile: Lenneth | 22756 | [22756-valkyrie-profile-lenneth.json](./22756-valkyrie-profile-lenneth.json) |
 | Valkyrie Rising: Hordes of Ragnarök | 361860 | [361860-valkyrie-rising-hordes-of-ragnarok.json](./361860-valkyrie-rising-hordes-of-ragnarok.json) |
 | Valkyrie Saga | 280437 | [280437-valkyrie-saga.json](./280437-valkyrie-saga.json) |
@@ -891,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VectroMirror | 140006 | [140006-vectromirror.json](./140006-vectromirror.json) |
 | Vectron | 287572 | [287572-vectron.json](./287572-vectron.json) |
 | Vectron | 295639 | [295639-vectron.json](./295639-vectron.json) |
+| Vectronom | 107182 | [107182-vectronom.json](./107182-vectronom.json) |
 | Vecxis | 59058 | [59058-vecxis.json](./59058-vecxis.json) |
 | Ved | 126673 | [126673-ved.json](./126673-ved.json) |
 | Ved: Journey Beyond the Cube | 346240 | [346240-ved-journey-beyond-the-cube.json](./346240-ved-journey-beyond-the-cube.json) |
@@ -2518,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vividerie | 189068 | [189068-vividerie.json](./189068-vividerie.json) |
 | ViviDex | 182983 | [182983-vividex.json](./182983-vividex.json) |
 | ViviEon | 120830 | [120830-vivieon.json](./120830-vivieon.json) |
+| Viviette | 107724 | [107724-viviette.json](./107724-viviette.json) |
 | Viviparous Dumpling | 354449 | [354449-viviparous-dumpling.json](./354449-viviparous-dumpling.json) |
 | Vivisection | 396584 | [396584-vivisection.json](./396584-vivisection.json) |
 | Vivisector: Beast Within | 54638 | [54638-vivisector-beast-within.json](./54638-vivisector-beast-within.json) |
