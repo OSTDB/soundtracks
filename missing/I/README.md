@@ -2385,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Groove 2 | 70591 | [70591-in-the-groove-2.json](./70591-in-the-groove-2.json) |
 | In the Hole | 195023 | [195023-in-the-hole.json](./195023-in-the-hole.json) |
 | In the Hollow of the Valley | 202569 | [202569-in-the-hollow-of-the-valley.json](./202569-in-the-hollow-of-the-valley.json) |
+| In the Hunt | 10456 | [10456-in-the-hunt.json](./10456-in-the-hunt.json) |
 | In the Intrigue of the Ratings | 145694 | [145694-in-the-intrigue-of-the-ratings.json](./145694-in-the-intrigue-of-the-ratings.json) |
 | In the Keeper's Shadow | 120884 | [120884-in-the-keepers-shadow.json](./120884-in-the-keepers-shadow.json) |
 | In the Kingdom | 61479 | [61479-in-the-kingdom.json](./61479-in-the-kingdom.json) |
@@ -3172,6 +3173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Blade FX | 356605 | [356605-infinity-blade-fx.json](./356605-infinity-blade-fx.json) |
 | Infinity Blade II | 20644 | [20644-infinity-blade-ii.json](./20644-infinity-blade-ii.json) |
 | Infinity Blade II PC | 342284 | [342284-infinity-blade-ii-pc.json](./342284-infinity-blade-ii-pc.json) |
+| Infinity Blade III | 12505 | [12505-infinity-blade-iii.json](./12505-infinity-blade-iii.json) |
 | Infinity Blade PC | 342045 | [342045-infinity-blade-pc.json](./342045-infinity-blade-pc.json) |
 | Infinity Blade Saga | 79077 | [79077-infinity-blade-saga.json](./79077-infinity-blade-saga.json) |
 | Infinity Blade: Dungeons | 65359 | [65359-infinity-blade-dungeons.json](./65359-infinity-blade-dungeons.json) |
