@@ -1811,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saut | 242578 | [242578-saut.json](./242578-saut.json) |
 | Savage | 129527 | [129527-savage.json](./129527-savage.json) |
 | Savage | 15361 | [15361-savage.json](./15361-savage.json) |
+| Savage 2: A Tortured Soul | 2243 | [2243-savage-2-a-tortured-soul.json](./2243-savage-2-a-tortured-soul.json) |
 | Savage Age | 294839 | [294839-savage-age.json](./294839-savage-age.json) |
 | Savage Arena | 68895 | [68895-savage-arena.json](./68895-savage-arena.json) |
 | Savage Bliss | 23919 | [23919-savage-bliss.json](./23919-savage-bliss.json) |
@@ -2574,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo and the Mystery of the Castle | 220107 | [220107-scooby-doo-and-the-mystery-of-the-castle.json](./220107-scooby-doo-and-the-mystery-of-the-castle.json) |
 | Scooby-Doo Cloning | 403005 | [403005-scooby-doo-cloning.json](./403005-scooby-doo-cloning.json) |
 | Scooby-Doo DVD Game: Funland of Freaky Frights | 231471 | [231471-scooby-doo-dvd-game-funland-of-freaky-frights.json](./231471-scooby-doo-dvd-game-funland-of-freaky-frights.json) |
+| Scooby-Doo Mystery | 137094 | [137094-scooby-doo-mystery.json](./137094-scooby-doo-mystery.json) |
 | Scooby-Doo Mystery Cases | 87730 | [87730-scooby-doo-mystery-cases.json](./87730-scooby-doo-mystery-cases.json) |
 | Scooby-Doo: Case File 1 - The Glowing Bug Man | 78685 | [78685-scooby-doo-case-file-1-the-glowing-bug-man.json](./78685-scooby-doo-case-file-1-the-glowing-bug-man.json) |
 | Scooby-Doo: Funland Frenzy | 73002 | [73002-scooby-doo-funland-frenzy.json](./73002-scooby-doo-funland-frenzy.json) |
@@ -9226,6 +9228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singularium | 270124 | [270124-singularium.json](./270124-singularium.json) |
 | Singulier | 413634 | [413634-singulier.json](./413634-singulier.json) |
 | Sinij Parovoz | 301402 | [301402-sinij-parovoz.json](./301402-sinij-parovoz.json) |
+| Sinisistar | 134633 | [134633-sinisistar.json](./134633-sinisistar.json) |
 | Sinisistar: Lite Version | 193662 | [193662-sinisistar-lite-version.json](./193662-sinisistar-lite-version.json) |
 | Sinisomnia | 375370 | [375370-sinisomnia.json](./375370-sinisomnia.json) |
 | Sinistar | 18693 | [18693-sinistar.json](./18693-sinistar.json) |
@@ -9364,6 +9367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir'Haxxx | 385709 | [385709-sirhaxxx.json](./385709-sirhaxxx.json) |
 | Sira | 61626 | [61626-sira.json](./61626-sira.json) |
 | Siralim 3 | 100422 | [100422-siralim-3.json](./100422-siralim-3.json) |
+| Siralim Ultimate | 133050 | [133050-siralim-ultimate.json](./133050-siralim-ultimate.json) |
 | Siranui: Devilish obscene prison | 97763 | [97763-siranui-devilish-obscene-prison.json](./97763-siranui-devilish-obscene-prison.json) |
 | Sire Abandon | 200432 | [200432-sire-abandon.json](./200432-sire-abandon.json) |
 | Siren | 195494 | [195494-siren.json](./195494-siren.json) |
@@ -18624,6 +18628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro 2: Ripto's Rage! | 142242 | [142242-spyro-2-riptos-rage.json](./142242-spyro-2-riptos-rage.json) |
 | Spyro 2: Ripto's Rage! | 1577 | [1577-spyro-2-riptos-rage.json](./1577-spyro-2-riptos-rage.json) |
 | Spyro 2: Season of Flame | 1588 | [1588-spyro-2-season-of-flame.json](./1588-spyro-2-season-of-flame.json) |
+| Spyro Orange: The Cortex Conspiracy | 1590 | [1590-spyro-orange-the-cortex-conspiracy.json](./1590-spyro-orange-the-cortex-conspiracy.json) |
 | Spyro Superpack | 130303 | [130303-spyro-superpack.json](./130303-spyro-superpack.json) |
 | Spyro the Dragon | 142213 | [142213-spyro-the-dragon.json](./142213-spyro-the-dragon.json) |
 | Spyro the Dragon | 280768 | [280768-spyro-the-dragon.json](./280768-spyro-the-dragon.json) |
