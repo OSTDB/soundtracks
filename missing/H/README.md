@@ -2058,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva Dreamy Theater | 65422 | [65422-hatsune-miku-project-diva-dreamy-theater.json](./65422-hatsune-miku-project-diva-dreamy-theater.json) |
 | Hatsune Miku: Project Diva Dreamy Theater 2nd | 65408 | [65408-hatsune-miku-project-diva-dreamy-theater-2nd.json](./65408-hatsune-miku-project-diva-dreamy-theater-2nd.json) |
 | Hatsune Miku: Project Diva Dreamy Theater Extend | 79220 | [79220-hatsune-miku-project-diva-dreamy-theater-extend.json](./79220-hatsune-miku-project-diva-dreamy-theater-extend.json) |
+| Hatsune Miku: Project Diva F 2nd | 9626 | [9626-hatsune-miku-project-diva-f-2nd.json](./9626-hatsune-miku-project-diva-f-2nd.json) |
 | Hatsune Miku: Project Diva Future Tone | 25821 | [25821-hatsune-miku-project-diva-future-tone.json](./25821-hatsune-miku-project-diva-future-tone.json) |
 | Hatsune Miku: Project Diva Future Tone DX | 117659 | [117659-hatsune-miku-project-diva-future-tone-dx.json](./117659-hatsune-miku-project-diva-future-tone-dx.json) |
 | Hatsune Miku: Project Diva Future Tone DX - Memorial Pack | 167080 | [167080-hatsune-miku-project-diva-future-tone-dx-memorial-pack.json](./167080-hatsune-miku-project-diva-future-tone-dx-memorial-pack.json) |
