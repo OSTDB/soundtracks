@@ -5779,6 +5779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shake That Controller! | 118702 | [118702-shake-that-controller.json](./118702-shake-that-controller.json) |
 | Shake the Baby! | 337068 | [337068-shake-the-baby.json](./337068-shake-the-baby.json) |
 | Shake Your Body | 128317 | [128317-shake-your-body.json](./128317-shake-your-body.json) |
+| Shake Your Money Simulator 2016 | 33354 | [33354-shake-your-money-simulator-2016.json](./33354-shake-your-money-simulator-2016.json) |
 | Shakedown Rally | 287031 | [287031-shakedown-rally.json](./287031-shakedown-rally.json) |
 | Shakes and Fidget | 18090 | [18090-shakes-and-fidget.json](./18090-shakes-and-fidget.json) |
 | Shakes and Fidget Remastered | 112346 | [112346-shakes-and-fidget-remastered.json](./112346-shakes-and-fidget-remastered.json) |
@@ -6060,6 +6061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of the Realm | 339696 | [339696-shards-of-the-realm.json](./339696-shards-of-the-realm.json) |
 | Shards of Titan | 102035 | [102035-shards-of-titan.json](./102035-shards-of-titan.json) |
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
+| Share | 33417 | [33417-share.json](./33417-share.json) |
 | Shared Beauty | 270760 | [270760-shared-beauty.json](./270760-shared-beauty.json) |
 | Shared RC | 415307 | [415307-shared-rc.json](./415307-shared-rc.json) |
 | Shareholders | 311573 | [311573-shareholders.json](./311573-shareholders.json) |
@@ -9654,6 +9656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skateboard Kidz | 78881 | [78881-skateboard-kidz.json](./78881-skateboard-kidz.json) |
 | Skateboard Knight | 338300 | [338300-skateboard-knight.json](./338300-skateboard-knight.json) |
 | Skateboard Madness Xtreme Edition | 66933 | [66933-skateboard-madness-xtreme-edition.json](./66933-skateboard-madness-xtreme-edition.json) |
+| Skateboard Park Tycoon | 23555 | [23555-skateboard-park-tycoon.json](./23555-skateboard-park-tycoon.json) |
 | Skateboard Park Tycoon: World Tour 2003 | 111166 | [111166-skateboard-park-tycoon-world-tour-2003.json](./111166-skateboard-park-tycoon-world-tour-2003.json) |
 | Skateboard Party 2 | 38937 | [38937-skateboard-party-2.json](./38937-skateboard-party-2.json) |
 | Skateboard Party 3 | 38936 | [38936-skateboard-party-3.json](./38936-skateboard-party-3.json) |
@@ -14632,6 +14635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic2.EXE | 313712 | [313712-sonic2-exe.json](./313712-sonic2-exe.json) |
 | SonicE | 330709 | [330709-sonice.json](./330709-sonice.json) |
 | SonicN | 175927 | [175927-sonicn.json](./175927-sonicn.json) |
+| SoniComi | 33528 | [33528-sonicomi.json](./33528-sonicomi.json) |
 | Sonik Adventure | 330875 | [330875-sonik-adventure.json](./330875-sonik-adventure.json) |
 | Sonikku Dance Dance Revolution | 331089 | [331089-sonikku-dance-dance-revolution.json](./331089-sonikku-dance-dance-revolution.json) |
 | SoniPro | 61906 | [61906-sonipro.json](./61906-sonipro.json) |
@@ -16643,6 +16647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkle Piglet Adventure | 234490 | [234490-sparkle-piglet-adventure.json](./234490-sparkle-piglet-adventure.json) |
 | Sparkle Snapshots | 67332 | [67332-sparkle-snapshots.json](./67332-sparkle-snapshots.json) |
 | Sparkle Unleashed | 20953 | [20953-sparkle-unleashed.json](./20953-sparkle-unleashed.json) |
+| Sparkle Zero | 33416 | [33416-sparkle-zero.json](./33416-sparkle-zero.json) |
 | Sparkles & Gems | 146538 | [146538-sparkles-and-gems.json](./146538-sparkles-and-gems.json) |
 | SparkleWand Puzzle | 239056 | [239056-sparklewand-puzzle.json](./239056-sparklewand-puzzle.json) |
 | Sparkling Bug | 335968 | [335968-sparkling-bug.json](./335968-sparkling-bug.json) |
@@ -20809,6 +20814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stasis: Special Edition | 53658 | [53658-stasis-special-edition.json](./53658-stasis-special-edition.json) |
 | State Connect: Traffic Control | 193779 | [193779-state-connect-traffic-control.json](./193779-state-connect-traffic-control.json) |
 | State Machine | 27311 | [27311-state-machine.json](./27311-state-machine.json) |
+| State of Anarchy | 32966 | [32966-state-of-anarchy.json](./32966-state-of-anarchy.json) |
 | State of Anarchy: Master of Mayhem | 29889 | [29889-state-of-anarchy-master-of-mayhem.json](./29889-state-of-anarchy-master-of-mayhem.json) |
 | State of Decay | 3049 | [3049-state-of-decay.json](./3049-state-of-decay.json) |
 | State of Decay 2: Curveball Update | 266858 | [266858-state-of-decay-2-curveball-update.json](./266858-state-of-decay-2-curveball-update.json) |
