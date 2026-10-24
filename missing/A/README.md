@@ -1628,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Despair Collection | 52556 | [52556-absolute-despair-collection.json](./52556-absolute-despair-collection.json) |
 | Absolute Doppelkopf | 79215 | [79215-absolute-doppelkopf.json](./79215-absolute-doppelkopf.json) |
 | Absolute Doppelkopf for Windows 11 | 264542 | [264542-absolute-doppelkopf-for-windows-11.json](./264542-absolute-doppelkopf-for-windows-11.json) |
+| Absolute Drift: Zen Edition | 23835 | [23835-absolute-drift-zen-edition.json](./23835-absolute-drift-zen-edition.json) |
 | Absolute Duo | 92286 | [92286-absolute-duo.json](./92286-absolute-duo.json) |
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
 | Absolute Fear: Aooni | 296243 | [296243-absolute-fear-aooni.json](./296243-absolute-fear-aooni.json) |
@@ -2760,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Canoe | 392769 | [392769-adventure-canoe.json](./392769-adventure-canoe.json) |
 | Adventure Climb VR | 116821 | [116821-adventure-climb-vr.json](./116821-adventure-climb-vr.json) |
 | Adventure Climb VR: Brave the Elements | 209300 | [209300-adventure-climb-vr-brave-the-elements.json](./209300-adventure-climb-vr-brave-the-elements.json) |
+| AdVenture Communist | 32997 | [32997-adventure-communist.json](./32997-adventure-communist.json) |
 | Adventure Company | 57326 | [57326-adventure-company.json](./57326-adventure-company.json) |
 | Adventure Cop | 118092 | [118092-adventure-cop.json](./118092-adventure-cop.json) |
 | Adventure Cop 2 | 121627 | [121627-adventure-cop-2.json](./121627-adventure-cop-2.json) |
@@ -5598,6 +5600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens versus Predator | 9979 | [9979-aliens-versus-predator.json](./9979-aliens-versus-predator.json) |
 | Aliens Versus Predator 2: Gold Edition | 256362 | [256362-aliens-versus-predator-2-gold-edition.json](./256362-aliens-versus-predator-2-gold-edition.json) |
 | Aliens Versus Predator 2: Primal Hunt | 19214 | [19214-aliens-versus-predator-2-primal-hunt.json](./19214-aliens-versus-predator-2-primal-hunt.json) |
+| Aliens Versus Predator Classic 2000 | 14818 | [14818-aliens-versus-predator-classic-2000.json](./14818-aliens-versus-predator-classic-2000.json) |
 | Aliens Versus Predator: Extinction | 5720 | [5720-aliens-versus-predator-extinction.json](./5720-aliens-versus-predator-extinction.json) |
 | Aliens vs. Ghosts | 208331 | [208331-aliens-vs-ghosts.json](./208331-aliens-vs-ghosts.json) |
 | Aliens vs. Predator | 560 | [560-aliens-vs-predator.json](./560-aliens-vs-predator.json) |
@@ -9330,6 +9333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apopia: Sugar Coated Tale | 392258 | [392258-apopia-sugar-coated-tale.json](./392258-apopia-sugar-coated-tale.json) |
 | Apoptosis | 383386 | [383386-apoptosis.json](./383386-apoptosis.json) |
 | Aporia in the Dark | 337449 | [337449-aporia-in-the-dark.json](./337449-aporia-in-the-dark.json) |
+| Aporia: Beyond the Valley | 24105 | [24105-aporia-beyond-the-valley.json](./24105-aporia-beyond-the-valley.json) |
 | Aporia: Beyond the Valley - Deluxe Edition | 52596 | [52596-aporia-beyond-the-valley-deluxe-edition.json](./52596-aporia-beyond-the-valley-deluxe-edition.json) |
 | Aporkalypse: Pigs of Doom | 333544 | [333544-aporkalypse-pigs-of-doom.json](./333544-aporkalypse-pigs-of-doom.json) |
 | Apostasy | 104063 | [104063-apostasy.json](./104063-apostasy.json) |
