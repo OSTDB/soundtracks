@@ -3687,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HelloWorldFactory | 276841 | [276841-helloworldfactory.json](./276841-helloworldfactory.json) |
 | Hellpit | 228448 | [228448-hellpit.json](./228448-hellpit.json) |
 | Hellpit 3D Platformer | 308517 | [308517-hellpit-3d-platformer.json](./308517-hellpit-3d-platformer.json) |
+| Hellpoint | 36476 | [36476-hellpoint.json](./36476-hellpoint.json) |
 | Hellpoint: Blue Sun | 164816 | [164816-hellpoint-blue-sun.json](./164816-hellpoint-blue-sun.json) |
 | Hellpoint: Signature Edition | 139838 | [139838-hellpoint-signature-edition.json](./139838-hellpoint-signature-edition.json) |
 | Hellpoint: The Thespian Feast | 130063 | [130063-hellpoint-the-thespian-feast.json](./130063-hellpoint-the-thespian-feast.json) |
