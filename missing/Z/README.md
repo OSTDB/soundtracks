@@ -2043,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zup! 5: DLC | 169708 | [169708-zup-5-dlc.json](./169708-zup-5-dlc.json) |
 | Zup! 7 | 76121 | [76121-zup-7.json](./76121-zup-7.json) |
 | Zup! 9 | 119469 | [119469-zup-9.json](./119469-zup-9.json) |
+| Zup! Arena | 110911 | [110911-zup-arena.json](./110911-zup-arena.json) |
 | Zup! F | 129833 | [129833-zup-f.json](./129833-zup-f.json) |
 | Zup! Q | 247058 | [247058-zup-q.json](./247058-zup-q.json) |
 | Zup! S | 111200 | [111200-zup-s.json](./111200-zup-s.json) |
