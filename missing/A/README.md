@@ -1790,6 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssmare | 254032 | [254032-abyssmare.json](./254032-abyssmare.json) |
 | Abyssopelagia | 145511 | [145511-abyssopelagia.json](./145511-abyssopelagia.json) |
 | Abyssopelagic | 382880 | [382880-abyssopelagic.json](./382880-abyssopelagic.json) |
+| Abyssus | 165393 | [165393-abyssus.json](./165393-abyssus.json) |
 | Abyssus | 335145 | [335145-abyssus.json](./335145-abyssus.json) |
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
 | Abyssus Scroll | 338532 | [338532-abyssus-scroll.json](./338532-abyssus-scroll.json) |
@@ -2961,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -5474,6 +5476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Poker | 270621 | [270621-alien-poker.json](./270621-alien-poker.json) |
 | Alien Prop Hunt | 190221 | [190221-alien-prop-hunt.json](./190221-alien-prop-hunt.json) |
 | Alien Puzzle Adventure | 84744 | [84744-alien-puzzle-adventure.json](./84744-alien-puzzle-adventure.json) |
+| Alien Quest: Eve | 159148 | [159148-alien-quest-eve.json](./159148-alien-quest-eve.json) |
 | Alien Race | 133644 | [133644-alien-race.json](./133644-alien-race.json) |
 | Alien Rain | 12251 | [12251-alien-rain.json](./12251-alien-rain.json) |
 | Alien Rampage | 46630 | [46630-alien-rampage.json](./46630-alien-rampage.json) |
@@ -6111,6 +6114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpaca Party: Grab & Run | 389635 | [389635-alpaca-party-grab-and-run.json](./389635-alpaca-party-grab-and-run.json) |
 | Alpaca Run | 62451 | [62451-alpaca-run.json](./62451-alpaca-run.json) |
 | Alpaca Sprint | 247670 | [247670-alpaca-sprint.json](./247670-alpaca-sprint.json) |
+| Alpaca Stacka | 154072 | [154072-alpaca-stacka.json](./154072-alpaca-stacka.json) |
 | Alpaca Wonders Why | 280175 | [280175-alpaca-wonders-why.json](./280175-alpaca-wonders-why.json) |
 | Alpaca World | 56343 | [56343-alpaca-world.json](./56343-alpaca-world.json) |
 | Alpacalypse | 240819 | [240819-alpacalypse.json](./240819-alpacalypse.json) |
