@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DanCop - Daniela on Duty | 118112 | [118112-dancop-daniela-on-duty.json](./118112-dancop-daniela-on-duty.json) |
 | DanDan | 258038 | [258038-dandan.json](./258038-dandan.json) |
 | Dàndàn Zhǎngmén Rìzhì | 148260 | [148260-dandan-zhangmen-rizhi.json](./148260-dandan-zhangmen-rizhi.json) |
+| Dandara | 27435 | [27435-dandara.json](./27435-dandara.json) |
 | Dandara | 296666 | [296666-dandara.json](./296666-dandara.json) |
 | Dandara: Trials of Fear - Enhanced Edition | 155057 | [155057-dandara-trials-of-fear-enhanced-edition.json](./155057-dandara-trials-of-fear-enhanced-edition.json) |
 | Dandelion | 181343 | [181343-dandelion.json](./181343-dandelion.json) |
@@ -8136,6 +8137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 3: Absence of Detention | 18370 | [18370-disgaea-3-absence-of-detention.json](./18370-disgaea-3-absence-of-detention.json) |
 | Disgaea 4 Complete+: A Promise of Sardines Edition | 205262 | [205262-disgaea-4-complete-a-promise-of-sardines-edition.json](./205262-disgaea-4-complete-a-promise-of-sardines-edition.json) |
 | Disgaea 4: A Promise Unforgotten | 7298 | [7298-disgaea-4-a-promise-unforgotten.json](./7298-disgaea-4-a-promise-unforgotten.json) |
+| Disgaea 5 Complete | 26768 | [26768-disgaea-5-complete.json](./26768-disgaea-5-complete.json) |
 | Disgaea 5: Alliance of Vengeance | 11594 | [11594-disgaea-5-alliance-of-vengeance.json](./11594-disgaea-5-alliance-of-vengeance.json) |
 | Disgaea 5: Alliance of Vengeance - Limited Edition | 167058 | [167058-disgaea-5-alliance-of-vengeance-limited-edition.json](./167058-disgaea-5-alliance-of-vengeance-limited-edition.json) |
 | Disgaea 6 Complete | 191497 | [191497-disgaea-6-complete.json](./191497-disgaea-6-complete.json) |
@@ -12013,6 +12015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Fushigi no Dungeon MOBILE | 314001 | [314001-dragon-quest-fushigi-no-dungeon-mobile.json](./314001-dragon-quest-fushigi-no-dungeon-mobile.json) |
 | Dragon Quest HD-2D Erdrick Trilogy Collection | 376240 | [376240-dragon-quest-hd-2d-erdrick-trilogy-collection.json](./376240-dragon-quest-hd-2d-erdrick-trilogy-collection.json) |
 | Dragon Quest Heroes I & II | 26771 | [26771-dragon-quest-heroes-i-and-ii.json](./26771-dragon-quest-heroes-i-and-ii.json) |
+| Dragon Quest Heroes II | 26341 | [26341-dragon-quest-heroes-ii.json](./26341-dragon-quest-heroes-ii.json) |
 | Dragon Quest Heroes II: Explorer's Edition | 136197 | [136197-dragon-quest-heroes-ii-explorers-edition.json](./136197-dragon-quest-heroes-ii-explorers-edition.json) |
 | Dragon Quest Heroes: The World Tree's Woe and the Blight Below | 9214 | [9214-dragon-quest-heroes-the-world-trees-woe-and-the-blight-below.json](./9214-dragon-quest-heroes-the-world-trees-woe-and-the-blight-below.json) |
 | Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | 417182 | [417182-dragon-quest-heroes-tornekos-mystery-dungeon-classic-hd.json](./417182-dragon-quest-heroes-tornekos-mystery-dungeon-classic-hd.json) |
