@@ -4702,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Xeno Arena | 397678 | [397678-no-mans-sky-xeno-arena.json](./397678-no-mans-sky-xeno-arena.json) |
 | No Mana, Just Dice | 389122 | [389122-no-mana-just-dice.json](./389122-no-mana-just-dice.json) |
 | No mans land | 37327 | [37327-no-mans-land.json](./37327-no-mans-land.json) |
+| No Mario's Sky | 23328 | [23328-no-marios-sky.json](./23328-no-marios-sky.json) |
 | No Me: The Future is Ours | 276753 | [276753-no-me-the-future-is-ours.json](./276753-no-me-the-future-is-ours.json) |
 | No Means Nothing | 380677 | [380677-no-means-nothing.json](./380677-no-means-nothing.json) |
 | No Men in This House | 223347 | [223347-no-men-in-this-house.json](./223347-no-men-in-this-house.json) |
