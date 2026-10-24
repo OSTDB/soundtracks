@@ -2020,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gee Bee Air Rally | 12115 | [12115-gee-bee-air-rally.json](./12115-gee-bee-air-rally.json) |
 | Geek Fighter | 90816 | [90816-geek-fighter.json](./90816-geek-fighter.json) |
 | Geek Mind | 124663 | [124663-geek-mind.json](./124663-geek-mind.json) |
+| Geek Resort | 35240 | [35240-geek-resort.json](./35240-geek-resort.json) |
 | Geeks vs Gangsters | 54903 | [54903-geeks-vs-gangsters.json](./54903-geeks-vs-gangsters.json) |
 | Geekwords: Game of Words | 156971 | [156971-geekwords-game-of-words.json](./156971-geekwords-game-of-words.json) |
 | Geenius: Cupid Dough | 395196 | [395196-geenius-cupid-dough.json](./395196-geenius-cupid-dough.json) |
@@ -6064,6 +6065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graham Gooch World Class Cricket | 14248 | [14248-graham-gooch-world-class-cricket.json](./14248-graham-gooch-world-class-cricket.json) |
 | Graham Gooch's Test Cricket | 63185 | [63185-graham-goochs-test-cricket.json](./63185-graham-goochs-test-cricket.json) |
 | Grail Tale | 231945 | [231945-grail-tale.json](./231945-grail-tale.json) |
+| Grail to the Thief | 35169 | [35169-grail-to-the-thief.json](./35169-grail-to-the-thief.json) |
 | Grailquest | 92846 | [92846-grailquest.json](./92846-grailquest.json) |
 | Grain Sling | 273916 | [273916-grain-sling.json](./273916-grain-sling.json) |
 | Grainhold | 390256 | [390256-grainhold.json](./390256-grainhold.json) |
@@ -7754,6 +7756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groovin' Blocks | 4898 | [4898-groovin-blocks.json](./4898-groovin-blocks.json) |
 | Groovity | 347791 | [347791-groovity.json](./347791-groovity.json) |
 | Groovy | 201709 | [201709-groovy.json](./201709-groovy.json) |
+| Groovy | 35203 | [35203-groovy.json](./35203-groovy.json) |
 | Groovy Labs | 336861 | [336861-groovy-labs.json](./336861-groovy-labs.json) |
 | Grordbattle | 116386 | [116386-grordbattle.json](./116386-grordbattle.json) |
 | Gross | 150091 | [150091-gross.json](./150091-gross.json) |
