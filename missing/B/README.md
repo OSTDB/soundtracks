@@ -10814,7 +10814,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borussia Dortmund Club Football 2005 | 267893 | [267893-borussia-dortmund-club-football-2005.json](./267893-borussia-dortmund-club-football-2005.json) |
 | Borzoi Adventure | 284783 | [284783-borzoi-adventure.json](./284783-borzoi-adventure.json) |
 | Bos Wars | 153760 | [153760-bos-wars.json](./153760-bos-wars.json) |
-| Bosconian | 18758 | [18758-bosconian.json](./18758-bosconian.json) |
 | Bosconian '87 | 13425 | [13425-bosconian-87.json](./13425-bosconian-87.json) |
 | Bosconian in 3-D | 378436 | [378436-bosconian-in-3-d.json](./378436-bosconian-in-3-d.json) |
 | Bosei Kanojo: Shikyuu Kikan-hen | 194638 | [194638-bosei-kanojo-shikyuu-kikan-hen.json](./194638-bosei-kanojo-shikyuu-kikan-hen.json) |
