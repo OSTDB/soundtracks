@@ -2961,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Luigi: Bowser's Inside Story | 270315 | [270315-mario-and-luigi-bowsers-inside-story.json](./270315-mario-and-luigi-bowsers-inside-story.json) |
 | Mario & Luigi: Bowser's Inside Story | 3363 | [3363-mario-and-luigi-bowsers-inside-story.json](./3363-mario-and-luigi-bowsers-inside-story.json) |
 | Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey | 90113 | [90113-mario-and-luigi-bowsers-inside-story-bowser-jr-s-journey.json](./90113-mario-and-luigi-bowsers-inside-story-bowser-jr-s-journey.json) |
+| Mario & Luigi: Brothership | 306137 | [306137-mario-and-luigi-brothership.json](./306137-mario-and-luigi-brothership.json) |
 | Mario & Luigi: Dream Team | 3365 | [3365-mario-and-luigi-dream-team.json](./3365-mario-and-luigi-dream-team.json) |
 | Mario & Luigi: Kola Kingdom Quest | 132856 | [132856-mario-and-luigi-kola-kingdom-quest.json](./132856-mario-and-luigi-kola-kingdom-quest.json) |
 | Mario & Luigi: Partners in Time | 3364 | [3364-mario-and-luigi-partners-in-time.json](./3364-mario-and-luigi-partners-in-time.json) |
@@ -3338,6 +3339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Undoukai | 132029 | [132029-mario-undoukai.json](./132029-mario-undoukai.json) |
 | Mario vs. Airman | 219121 | [219121-mario-vs-airman.json](./219121-mario-vs-airman.json) |
 | Mario vs. Bowser and Mighty No. 9 | 276790 | [276790-mario-vs-bowser-and-mighty-no-9.json](./276790-mario-vs-bowser-and-mighty-no-9.json) |
+| Mario vs. Donkey Kong | 266674 | [266674-mario-vs-donkey-kong.json](./266674-mario-vs-donkey-kong.json) |
 | Mario vs. Donkey Kong | 6505 | [6505-mario-vs-donkey-kong.json](./6505-mario-vs-donkey-kong.json) |
 | Mario vs. Donkey Kong 2: March of the Minis - Cannon Kaos | 231640 | [231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json](./231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json) |
 | Mario vs. Donkey Kong Card e+ | 220855 | [220855-mario-vs-donkey-kong-card-e.json](./220855-mario-vs-donkey-kong-card-e.json) |
@@ -10734,6 +10736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mion and the Cursed Killer Hamster | 224576 | [224576-mion-and-the-cursed-killer-hamster.json](./224576-mion-and-the-cursed-killer-hamster.json) |
 | Mir | 148952 | [148952-mir.json](./148952-mir.json) |
 | Mir | 363939 | [363939-mir.json](./363939-mir.json) |
+| Mir Korabley | 243611 | [243611-mir-korabley.json](./243611-mir-korabley.json) |
 | Mir Tankov | 252168 | [252168-mir-tankov.json](./252168-mir-tankov.json) |
 | Mir-Mahna | 191668 | [191668-mir-mahna.json](./191668-mir-mahna.json) |
 | Mira and the Legend of the Djinns | 197172 | [197172-mira-and-the-legend-of-the-djinns.json](./197172-mira-and-the-legend-of-the-djinns.json) |
