@@ -7819,6 +7819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LunaQuest | 190473 | [190473-lunaquest.json](./190473-lunaquest.json) |
 | Lunar // Drill | 320041 | [320041-lunar-drill.json](./320041-lunar-drill.json) |
 | Lunar 2: Eternal Blue Complete | 44998 | [44998-lunar-2-eternal-blue-complete.json](./44998-lunar-2-eternal-blue-complete.json) |
+| Lunar 2: Eternal Blue Complete - Collector's Edition | 43699 | [43699-lunar-2-eternal-blue-complete-collectors-edition.json](./43699-lunar-2-eternal-blue-complete-collectors-edition.json) |
 | Lunar Ascendant | 263101 | [263101-lunar-ascendant.json](./263101-lunar-ascendant.json) |
 | Lunar Assault 64 | 145457 | [145457-lunar-assault-64.json](./145457-lunar-assault-64.json) |
 | Lunar Ball | 92281 | [92281-lunar-ball.json](./92281-lunar-ball.json) |
