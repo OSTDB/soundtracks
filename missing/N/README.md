@@ -1504,8 +1504,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Unbound - Vol. 7 Premium Speed Pass | 301851 | [301851-need-for-speed-unbound-vol-7-premium-speed-pass.json](./301851-need-for-speed-unbound-vol-7-premium-speed-pass.json) |
 | Need for Speed: Undercover | 248137 | [248137-need-for-speed-undercover.json](./248137-need-for-speed-undercover.json) |
 | Need for Speed: Undercover | 248138 | [248138-need-for-speed-undercover.json](./248138-need-for-speed-undercover.json) |
-| Need for Speed: Undercover | 248142 | [248142-need-for-speed-undercover.json](./248142-need-for-speed-undercover.json) |
-| Need for Speed: Underground | 242990 | [242990-need-for-speed-underground.json](./242990-need-for-speed-underground.json) |
 | Need for Speed: Underground 2 | 229854 | [229854-need-for-speed-underground-2.json](./229854-need-for-speed-underground-2.json) |
 | Need for Speed: Underground 2 | 242997 | [242997-need-for-speed-underground-2.json](./242997-need-for-speed-underground-2.json) |
 | Need for Speed: V-Rally | 72073 | [72073-need-for-speed-v-rally.json](./72073-need-for-speed-v-rally.json) |
@@ -4785,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Road to Peak: Together | 358988 | [358988-no-road-to-peak-together.json](./358988-no-road-to-peak-together.json) |
 | No Roads: 4×4 Off-Road Challenge | 379723 | [379723-no-roads-4-4-off-road-challenge.json](./379723-no-roads-4-4-off-road-challenge.json) |
 | No Rules Box! | 301815 | [301815-no-rules-box.json](./301815-no-rules-box.json) |
+| No Rules: Get Phat | 6525 | [6525-no-rules-get-phat.json](./6525-no-rules-get-phat.json) |
 | No Rush | 25533 | [25533-no-rush.json](./25533-no-rush.json) |
 | No Rush! | 25522 | [25522-no-rush.json](./25522-no-rush.json) |
 | No safety | 84086 | [84086-no-safety.json](./84086-no-safety.json) |
