@@ -3818,6 +3818,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henry Danger Crime Warp | 106933 | [106933-henry-danger-crime-warp.json](./106933-henry-danger-crime-warp.json) |
 | Henry Danger: Day of Danger | 242381 | [242381-henry-danger-day-of-danger.json](./242381-henry-danger-day-of-danger.json) |
 | Henry Mosse and the Wormhole Conspiracy | 125689 | [125689-henry-mosse-and-the-wormhole-conspiracy.json](./125689-henry-mosse-and-the-wormhole-conspiracy.json) |
+| Henry Stickmin: Breaking the Bank | 145662 | [145662-henry-stickmin-breaking-the-bank.json](./145662-henry-stickmin-breaking-the-bank.json) |
+| Henry Stickmin: Completing the Mission | 172315 | [172315-henry-stickmin-completing-the-mission.json](./172315-henry-stickmin-completing-the-mission.json) |
 | Henry Stickmin: Defending the Mall | 378979 | [378979-henry-stickmin-defending-the-mall.json](./378979-henry-stickmin-defending-the-mall.json) |
 | Henry Stickmin: Escaping the Prison | 140712 | [140712-henry-stickmin-escaping-the-prison.json](./140712-henry-stickmin-escaping-the-prison.json) |
 | Henry Stickmin: Fleeing the Complex | 145664 | [145664-henry-stickmin-fleeing-the-complex.json](./145664-henry-stickmin-fleeing-the-complex.json) |
@@ -9407,6 +9409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanity: First Woman In Space | 153880 | [153880-humanity-first-woman-in-space.json](./153880-humanity-first-woman-in-space.json) |
 | Humanity's Fall | 392296 | [392296-humanitys-fall.json](./392296-humanitys-fall.json) |
 | Humanity's Last Hope | 360657 | [360657-humanitys-last-hope.json](./360657-humanitys-last-hope.json) |
+| HumanitZ | 172722 | [172722-humanitz.json](./172722-humanitz.json) |
 | Humankind in a nutshell | 188988 | [188988-humankind-in-a-nutshell.json](./188988-humankind-in-a-nutshell.json) |
 | Humankind: Collection | 205091 | [205091-humankind-collection.json](./205091-humankind-collection.json) |
 | Humankind: Cultures of Africa | 188046 | [188046-humankind-cultures-of-africa.json](./188046-humankind-cultures-of-africa.json) |
