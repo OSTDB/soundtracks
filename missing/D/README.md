@@ -5249,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Den | 265503 | [265503-demons-den.json](./265503-demons-den.json) |
 | Demon's Draw | 235349 | [235349-demons-draw.json](./235349-demons-draw.json) |
 | Demon's Island | 301576 | [301576-demons-island.json](./301576-demons-island.json) |
+| Demon's Mirror | 152170 | [152170-demons-mirror.json](./152170-demons-mirror.json) |
 | Demon's Residence | 164275 | [164275-demons-residence.json](./164275-demons-residence.json) |
 | Demon's Residence | 207878 | [207878-demons-residence.json](./207878-demons-residence.json) |
 | Demon's Revenge | 13587 | [13587-demons-revenge.json](./13587-demons-revenge.json) |
