@@ -2315,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are* | 56541 | [56541-we-are.json](./56541-we-are.json) |
 | We Bare Bears - StirFry Stunts | 112906 | [112906-we-bare-bears-stirfry-stunts.json](./112906-we-bare-bears-stirfry-stunts.json) |
 | We Bare Bears: Bearsketball | 196864 | [196864-we-bare-bears-bearsketball.json](./196864-we-bare-bears-bearsketball.json) |
+| We Become What We Behold | 25259 | [25259-we-become-what-we-behold.json](./25259-we-become-what-we-behold.json) |
 | We Belong Dead | 406217 | [406217-we-belong-dead.json](./406217-we-belong-dead.json) |
 | We Bowling?! | 335052 | [335052-we-bowling.json](./335052-we-bowling.json) |
 | We Build Below | 361760 | [361760-we-build-below.json](./361760-we-build-below.json) |
@@ -3215,7 +3216,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -3443,6 +3443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Stars Brought Us | 201549 | [201549-where-the-stars-brought-us.json](./201549-where-the-stars-brought-us.json) |
 | Where the Sun Always Shines | 401730 | [401730-where-the-sun-always-shines.json](./401730-where-the-sun-always-shines.json) |
 | Where the Two Flowers Meet | 267586 | [267586-where-the-two-flowers-meet.json](./267586-where-the-two-flowers-meet.json) |
+| Where the Water Tastes Like Wine | 15823 | [15823-where-the-water-tastes-like-wine.json](./15823-where-the-water-tastes-like-wine.json) |
 | Where the Water Tastes Like Wine: Xbox Edition | 134369 | [134369-where-the-water-tastes-like-wine-xbox-edition.json](./134369-where-the-water-tastes-like-wine-xbox-edition.json) |
 | Where the Wild Things Are | 5278 | [5278-where-the-wild-things-are.json](./5278-where-the-wild-things-are.json) |
 | Where there once was sand | 315802 | [315802-where-there-once-was-sand.json](./315802-where-there-once-was-sand.json) |
