@@ -14541,6 +14541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of the Gods | 184875 | [184875-dungeon-of-the-gods.json](./184875-dungeon-of-the-gods.json) |
 | Dungeon of Weirdos | 166295 | [166295-dungeon-of-weirdos.json](./166295-dungeon-of-weirdos.json) |
 | Dungeon of Windaria | 72637 | [72637-dungeon-of-windaria.json](./72637-dungeon-of-windaria.json) |
+| Dungeon of Zaar | 24703 | [24703-dungeon-of-zaar.json](./24703-dungeon-of-zaar.json) |
 | Dungeon of Zaar: Explorer Edition | 238545 | [238545-dungeon-of-zaar-explorer-edition.json](./238545-dungeon-of-zaar-explorer-edition.json) |
 | Dungeon of Zolthan | 32967 | [32967-dungeon-of-zolthan.json](./32967-dungeon-of-zolthan.json) |
 | Dungeon Origins | 128904 | [128904-dungeon-origins.json](./128904-dungeon-origins.json) |
