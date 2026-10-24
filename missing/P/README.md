@@ -3467,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peppa Pig: World Adventures | 229119 | [229119-peppa-pig-world-adventures.json](./229119-peppa-pig-world-adventures.json) |
 | Pepper | 291850 | [291850-pepper.json](./291850-pepper.json) |
 | Pepper Girl | 226191 | [226191-pepper-girl.json](./226191-pepper-girl.json) |
+| Pepper II | 18803 | [18803-pepper-ii.json](./18803-pepper-ii.json) |
 | Pepper Pengui | 363046 | [363046-pepper-pengui.json](./363046-pepper-pengui.json) |
 | Pepper Rush | 382890 | [382890-pepper-rush.json](./382890-pepper-rush.json) |
 | Pepper's Castle | 195398 | [195398-peppers-castle.json](./195398-peppers-castle.json) |
@@ -14538,6 +14539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putrid Snow 2: House of Yule | 402231 | [402231-putrid-snow-2-house-of-yule.json](./402231-putrid-snow-2-house-of-yule.json) |
 | Putrid/Sharp | 404947 | [404947-putrid-sharp.json](./404947-putrid-sharp.json) |
 | Putrika 2nd.Cut: For the Exquisite Attire | 352368 | [352368-putrika-2nd-cut-for-the-exquisite-attire.json](./352368-putrika-2nd-cut-for-the-exquisite-attire.json) |
+| Putt & Putter | 19505 | [19505-putt-and-putter.json](./19505-putt-and-putter.json) |
 | Putt Golf | 242458 | [242458-putt-golf.json](./242458-putt-golf.json) |
 | Putt Nutz | 59458 | [59458-putt-nutz.json](./59458-putt-nutz.json) |
 | Putt Party | 250223 | [250223-putt-party.json](./250223-putt-party.json) |
