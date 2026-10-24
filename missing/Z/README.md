@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Fill | 418733 | [418733-zero-fill.json](./418733-zero-fill.json) |
 | Zero Fire: Toaplan Arcade Garage | 246668 | [246668-zero-fire-toaplan-arcade-garage.json](./246668-zero-fire-toaplan-arcade-garage.json) |
 | Zero Friction | 126897 | [126897-zero-friction.json](./126897-zero-friction.json) |
+| Zero G Arena | 32705 | [32705-zero-g-arena.json](./32705-zero-g-arena.json) |
 | Zero G Golf | 181661 | [181661-zero-g-golf.json](./181661-zero-g-golf.json) |
 | Zero Glide VR | 334854 | [334854-zero-glide-vr.json](./334854-zero-glide-vr.json) |
 | Zero Gravity | 106303 | [106303-zero-gravity.json](./106303-zero-gravity.json) |
