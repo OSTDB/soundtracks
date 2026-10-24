@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mole in a Hole | 211249 | [211249-a-mole-in-a-hole.json](./211249-a-mole-in-a-hole.json) |
 | A Mole in Space | 322750 | [322750-a-mole-in-space.json](./322750-a-mole-in-space.json) |
 | A Moment of a Self Portrait | 179000 | [179000-a-moment-of-a-self-portrait.json](./179000-a-moment-of-a-self-portrait.json) |
+| A Monster's Expedition | 131845 | [131845-a-monsters-expedition.json](./131845-a-monsters-expedition.json) |
 | A Moon for the Sky | 9974 | [9974-a-moon-for-the-sky.json](./9974-a-moon-for-the-sky.json) |
 | A Morte | 268898 | [268898-a-morte.json](./268898-a-morte.json) |
 | A Mortician's Tale | 28073 | [28073-a-morticians-tale.json](./28073-a-morticians-tale.json) |
@@ -6381,6 +6382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alwa's Awakening & Cathedral | 214532 | [214532-alwas-awakening-and-cathedral.json](./214532-alwas-awakening-and-cathedral.json) |
 | Alwa's Awakening: The 8-Bit Edition | 207274 | [207274-alwas-awakening-the-8-bit-edition.json](./207274-alwas-awakening-the-8-bit-edition.json) |
 | Alwa's Collection | 171547 | [171547-alwas-collection.json](./171547-alwas-collection.json) |
+| Alwa's Legacy | 125277 | [125277-alwas-legacy.json](./125277-alwas-legacy.json) |
 | Alwa's Legacy + Alwa's Awakening | 288311 | [288311-alwas-legacy-alwas-awakening.json](./288311-alwas-legacy-alwas-awakening.json) |
 | Always & Forever: A ghost's promise | 183854 | [183854-always-and-forever-a-ghosts-promise.json](./183854-always-and-forever-a-ghosts-promise.json) |
 | Always 1-1 | 290688 | [290688-always-1-1.json](./290688-always-1-1.json) |
@@ -10613,6 +10615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Combat | 63888 | [63888-arctic-combat.json](./63888-arctic-combat.json) |
 | Arctic Digger TCG Collection | 358873 | [358873-arctic-digger-tcg-collection.json](./358873-arctic-digger-tcg-collection.json) |
 | Arctic Drive | 370782 | [370782-arctic-drive.json](./370782-arctic-drive.json) |
+| Arctic Eggs | 280931 | [280931-arctic-eggs.json](./280931-arctic-eggs.json) |
 | Arctic Escape | 84758 | [84758-arctic-escape.json](./84758-arctic-escape.json) |
 | Arctic Fleet | 112967 | [112967-arctic-fleet.json](./112967-arctic-fleet.json) |
 | Arctic Incident | 221924 | [221924-arctic-incident.json](./221924-arctic-incident.json) |
