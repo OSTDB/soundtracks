@@ -1082,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Bunny | 258609 | [258609-dark-bunny.json](./258609-dark-bunny.json) |
 | Dark Burial | 118090 | [118090-dark-burial.json](./118090-dark-burial.json) |
 | Dark Burial: Enhanced Edition | 238617 | [238617-dark-burial-enhanced-edition.json](./238617-dark-burial-enhanced-edition.json) |
+| Dark Canvas Brush with Death | 18876 | [18876-dark-canvas-brush-with-death.json](./18876-dark-canvas-brush-with-death.json) |
 | Dark Canvas Collection | 146305 | [146305-dark-canvas-collection.json](./146305-dark-canvas-collection.json) |
 | Dark Canvas: A Brush With Death | 139756 | [139756-dark-canvas-a-brush-with-death.json](./139756-dark-canvas-a-brush-with-death.json) |
 | Dark Canvas: A Brush With Death - Collector's Edition | 30718 | [30718-dark-canvas-a-brush-with-death-collectors-edition.json](./30718-dark-canvas-a-brush-with-death-collectors-edition.json) |
@@ -14449,6 +14450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Hotpot | 404814 | [404814-dungeon-hotpot.json](./404814-dungeon-hotpot.json) |
 | Dungeon Hunter | 23258 | [23258-dungeon-hunter.json](./23258-dungeon-hunter.json) |
 | Dungeon Hunter | 332435 | [332435-dungeon-hunter.json](./332435-dungeon-hunter.json) |
+| Dungeon Hunter 3 | 18899 | [18899-dungeon-hunter-3.json](./18899-dungeon-hunter-3.json) |
 | Dungeon Hunter 6 | 273292 | [273292-dungeon-hunter-6.json](./273292-dungeon-hunter-6.json) |
 | Dungeon Hunter Champions | 97279 | [97279-dungeon-hunter-champions.json](./97279-dungeon-hunter-champions.json) |
 | Dungeon Hunter Survival | 240881 | [240881-dungeon-hunter-survival.json](./240881-dungeon-hunter-survival.json) |
