@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Weapon Edition | 221907 | [221907-half-life-weapon-edition.json](./221907-half-life-weapon-edition.json) |
 | Half-Life: Xen-Warrior | 221808 | [221808-half-life-xen-warrior.json](./221808-half-life-xen-warrior.json) |
 | Half-Life: Zombie Edition | 196734 | [196734-half-life-zombie-edition.json](./196734-half-life-zombie-edition.json) |
+| Half-Minute Hero | 21943 | [21943-half-minute-hero.json](./21943-half-minute-hero.json) |
 | Half-Minute Hero: Super Mega Neo Climax | 78458 | [78458-half-minute-hero-super-mega-neo-climax.json](./78458-half-minute-hero-super-mega-neo-climax.json) |
 | Half-Nuked | 196730 | [196730-half-nuked.json](./196730-half-nuked.json) |
 | Half-Payne | 196014 | [196014-half-payne.json](./196014-half-payne.json) |
@@ -6170,6 +6171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway 2000 | 46097 | [46097-highway-2000.json](./46097-highway-2000.json) |
 | Highway Acceleroid Booster | 135502 | [135502-highway-acceleroid-booster.json](./135502-highway-acceleroid-booster.json) |
 | Highway Bikers: Moto Racing Simulator | 342405 | [342405-highway-bikers-moto-racing-simulator.json](./342405-highway-bikers-moto-racing-simulator.json) |
+| Highway Blossoms | 20688 | [20688-highway-blossoms.json](./20688-highway-blossoms.json) |
 | Highway Blossoms: Next Exit | 139123 | [139123-highway-blossoms-next-exit.json](./139123-highway-blossoms-next-exit.json) |
 | Highway Bus Rush | 352316 | [352316-highway-bus-rush.json](./352316-highway-bus-rush.json) |
 | Highway Cleaner | 234607 | [234607-highway-cleaner.json](./234607-highway-cleaner.json) |
@@ -7425,6 +7427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Story: 1971 | 101747 | [101747-home-story-1971.json](./101747-home-story-1971.json) |
 | Home Street: Dream House Sim | 90555 | [90555-home-street-dream-house-sim.json](./90555-home-street-dream-house-sim.json) |
 | Home Sweet Home | 181631 | [181631-home-sweet-home.json](./181631-home-sweet-home.json) |
+| Home Sweet Home | 21793 | [21793-home-sweet-home.json](./21793-home-sweet-home.json) |
 | Home Sweet Home | 346116 | [346116-home-sweet-home.json](./346116-home-sweet-home.json) |
 | Home Sweet Home | 346758 | [346758-home-sweet-home.json](./346758-home-sweet-home.json) |
 | Home Sweet Home | 81496 | [81496-home-sweet-home.json](./81496-home-sweet-home.json) |
@@ -9902,6 +9905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydlide | 320934 | [320934-hydlide.json](./320934-hydlide.json) |
 | Hydlide | 407550 | [407550-hydlide.json](./407550-hydlide.json) |
 | Hydlide | 411363 | [411363-hydlide.json](./411363-hydlide.json) |
+| Hydlide | 9071 | [9071-hydlide.json](./9071-hydlide.json) |
 | Hydlide Ev | 407599 | [407599-hydlide-ev.json](./407599-hydlide-ev.json) |
 | Hydlide II: Shine of Darkness | 41724 | [41724-hydlide-ii-shine-of-darkness.json](./41724-hydlide-ii-shine-of-darkness.json) |
 | Hydlide: Arranged | 411370 | [411370-hydlide-arranged.json](./411370-hydlide-arranged.json) |
