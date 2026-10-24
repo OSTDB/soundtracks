@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Collection | 6528 | [6528-pac-man-collection.json](./6528-pac-man-collection.json) |
 | Pac-Man Collection | 80452 | [80452-pac-man-collection.json](./80452-pac-man-collection.json) |
 | Pac-Man Couchcade | 304234 | [304234-pac-man-couchcade.json](./304234-pac-man-couchcade.json) |
+| Pac-Man Dash! | 38692 | [38692-pac-man-dash.json](./38692-pac-man-dash.json) |
 | Pac-Man Doom | 262564 | [262564-pac-man-doom.json](./262564-pac-man-doom.json) |
 | Pac-Man Double Feature | 378397 | [378397-pac-man-double-feature.json](./378397-pac-man-double-feature.json) |
 | Pac-Man Fever | 4061 | [4061-pac-man-fever.json](./4061-pac-man-fever.json) |
@@ -4623,6 +4624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PhotoWorld | 153403 | [153403-photoworld.json](./153403-photoworld.json) |
 | PhotoWorld | 209966 | [209966-photoworld.json](./209966-photoworld.json) |
 | PhotoWorld: Smooth Corners | 163799 | [163799-photoworld-smooth-corners.json](./163799-photoworld-smooth-corners.json) |
+| Phozon | 38745 | [38745-phozon.json](./38745-phozon.json) |
 | Phrase Craze Plus | 229804 | [229804-phrase-craze-plus.json](./229804-phrase-craze-plus.json) |
 | Phrase Frenzy - Catch It! | 108598 | [108598-phrase-frenzy-catch-it.json](./108598-phrase-frenzy-catch-it.json) |
 | Phrase Party! | 95916 | [95916-phrase-party.json](./95916-phrase-party.json) |
@@ -11743,11 +11745,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism | 363035 | [363035-prism.json](./363035-prism.json) |
 | Prism | 391823 | [391823-prism.json](./391823-prism.json) |
 | Prism | 86655 | [86655-prism.json](./86655-prism.json) |
+| Prism 3D | 38703 | [38703-prism-3d.json](./38703-prism-3d.json) |
 | Prism Ark: Awake | 379153 | [379153-prism-ark-awake.json](./379153-prism-ark-awake.json) |
 | Prism Ark: Prism Heart II | 72550 | [72550-prism-ark-prism-heart-ii.json](./72550-prism-ark-prism-heart-ii.json) |
 | Prism Break | 102171 | [102171-prism-break.json](./102171-prism-break.json) |
 | Prism Collider | 29643 | [29643-prism-collider.json](./29643-prism-collider.json) |
 | Prism Court | 123263 | [123263-prism-court.json](./123263-prism-court.json) |
+| Prism Crash | 38742 | [38742-prism-crash.json](./38742-prism-crash.json) |
 | Prism Cross | 354399 | [354399-prism-cross.json](./354399-prism-cross.json) |
 | Prism Crush | 372131 | [372131-prism-crush.json](./372131-prism-crush.json) |
 | Prism Heart | 283127 | [283127-prism-heart.json](./283127-prism-heart.json) |
