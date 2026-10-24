@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-LOC R360 | 363997 | [363997-g-loc-r360.json](./363997-g-loc-r360.json) |
 | G-LOC: Air Battle | 363179 | [363179-g-loc-air-battle.json](./363179-g-loc-air-battle.json) |
 | G-LOC: Air Battle | 363999 | [363999-g-loc-air-battle.json](./363999-g-loc-air-battle.json) |
+| G-LOC: Air Battle | 4464 | [4464-g-loc-air-battle.json](./4464-g-loc-air-battle.json) |
 | G-man Invasion | 222304 | [222304-g-man-invasion.json](./222304-g-man-invasion.json) |
 | G-Mode Archives 03: Kururin Cafe | 137538 | [137538-g-mode-archives-03-kururin-cafe.json](./137538-g-mode-archives-03-kururin-cafe.json) |
 | G-Mode Archives 04: Beach Volleyball Girl Shizuku | 221780 | [221780-g-mode-archives-04-beach-volleyball-girl-shizuku.json](./221780-g-mode-archives-04-beach-volleyball-girl-shizuku.json) |
