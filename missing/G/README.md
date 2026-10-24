@@ -4752,6 +4752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of the Arena Dungeon | 163196 | [163196-god-of-the-arena-dungeon.json](./163196-god-of-the-arena-dungeon.json) |
 | God of Thunder | 2526 | [2526-god-of-thunder.json](./2526-god-of-thunder.json) |
 | God of Track | 243076 | [243076-god-of-track.json](./243076-god-of-track.json) |
+| God of War II | 117882 | [117882-god-of-war-ii.json](./117882-god-of-war-ii.json) |
 | God of War II Remake | 389451 | [389451-god-of-war-ii-remake.json](./389451-god-of-war-ii-remake.json) |
 | God of War II: Special Edition | 43432 | [43432-god-of-war-ii-special-edition.json](./43432-god-of-war-ii-special-edition.json) |
 | God of War III Remake | 389452 | [389452-god-of-war-iii-remake.json](./389452-god-of-war-iii-remake.json) |
@@ -5116,6 +5117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Axe | 305875 | [305875-golden-axe.json](./305875-golden-axe.json) |
 | Golden Axe Classics | 202829 | [202829-golden-axe-classics.json](./202829-golden-axe-classics.json) |
 | Golden Axe II | 16214 | [16214-golden-axe-ii.json](./16214-golden-axe-ii.json) |
+| Golden Axe III | 16369 | [16369-golden-axe-iii.json](./16369-golden-axe-iii.json) |
 | Golden Axe III Redux | 219271 | [219271-golden-axe-iii-redux.json](./219271-golden-axe-iii-redux.json) |
 | Golden Axe Legend | 71584 | [71584-golden-axe-legend.json](./71584-golden-axe-legend.json) |
 | Golden Axe Plus | 233605 | [233605-golden-axe-plus.json](./233605-golden-axe-plus.json) |
@@ -8416,6 +8418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero: Avril Lavigne | 310674 | [310674-guitar-hero-avril-lavigne.json](./310674-guitar-hero-avril-lavigne.json) |
 | Guitar Hero: Barões da Pisadinha | 310671 | [310671-guitar-hero-baroes-da-pisadinha.json](./310671-guitar-hero-baroes-da-pisadinha.json) |
 | Guitar Hero: Brazucas | 275229 | [275229-guitar-hero-brazucas.json](./275229-guitar-hero-brazucas.json) |
+| Guitar Hero: Metallica | 2674 | [2674-guitar-hero-metallica.json](./2674-guitar-hero-metallica.json) |
 | Guitar Hero: On Tour - Decades | 7089 | [7089-guitar-hero-on-tour-decades.json](./7089-guitar-hero-on-tour-decades.json) |
 | Guitar Hero: On Tour - Modern Hits | 7090 | [7090-guitar-hero-on-tour-modern-hits.json](./7090-guitar-hero-on-tour-modern-hits.json) |
 | Guitar Hero: Smash Hits | 2677 | [2677-guitar-hero-smash-hits.json](./2677-guitar-hero-smash-hits.json) |
