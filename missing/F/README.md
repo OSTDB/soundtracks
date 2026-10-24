@@ -5435,6 +5435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fissure: Cubic | 297078 | [297078-fissure-cubic.json](./297078-fissure-cubic.json) |
 | Fist | 79787 | [79787-fist.json](./79787-fist.json) |
 | Fist 2 Face | 323559 | [323559-fist-2-face.json](./323559-fist-2-face.json) |
+| Fist 2: The Legend Continues | 28473 | [28473-fist-2-the-legend-continues.json](./28473-fist-2-the-legend-continues.json) |
 | Fist Fighter | 41007 | [41007-fist-fighter.json](./41007-fist-fighter.json) |
 | Fist Food | 285557 | [285557-fist-food.json](./285557-fist-food.json) |
 | Fist Hell | 318602 | [318602-fist-hell.json](./318602-fist-hell.json) |
@@ -6355,6 +6356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipi Rivals | 420685 | [420685-flipi-rivals.json](./420685-flipi-rivals.json) |
 | Flipinity | 256357 | [256357-flipinity.json](./256357-flipinity.json) |
 | Fliplomacy | 103399 | [103399-fliplomacy.json](./103399-fliplomacy.json) |
+| Flipnic: Ultimate Pinball | 28530 | [28530-flipnic-ultimate-pinball.json](./28530-flipnic-ultimate-pinball.json) |
 | Flipnote Studio | 85636 | [85636-flipnote-studio.json](./85636-flipnote-studio.json) |
 | Flipo: Gravity Adventure | 233456 | [233456-flipo-gravity-adventure.json](./233456-flipo-gravity-adventure.json) |
 | Flipol | 167596 | [167596-flipol.json](./167596-flipol.json) |
@@ -11135,6 +11137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Fortune | 173194 | [173194-future-fortune.json](./173194-future-fortune.json) |
 | Future Front | 241283 | [241283-future-front.json](./241283-future-front.json) |
 | Future Futures - Command Z | 116320 | [116320-future-futures-command-z.json](./116320-future-futures-command-z.json) |
+| Future Games | 28471 | [28471-future-games.json](./28471-future-games.json) |
 | Future Ghost | 86230 | [86230-future-ghost.json](./86230-future-ghost.json) |
 | Future GPX Cyber Formula: Road to the Evolution | 4150 | [4150-future-gpx-cyber-formula-road-to-the-evolution.json](./4150-future-gpx-cyber-formula-road-to-the-evolution.json) |
 | Future Knight | 13853 | [13853-future-knight.json](./13853-future-knight.json) |
