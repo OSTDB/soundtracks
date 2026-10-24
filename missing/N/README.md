@@ -1799,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis 2 | 1480 | [1480-nemesis-2.json](./1480-nemesis-2.json) |
 | Nemesis 3: The Eve of Destruction | 1479 | [1479-nemesis-3-the-eve-of-destruction.json](./1479-nemesis-3-the-eve-of-destruction.json) |
 | Nemesis Macana | 364630 | [364630-nemesis-macana.json](./364630-nemesis-macana.json) |
+| Nemesis of the Roman Empire | 10593 | [10593-nemesis-of-the-roman-empire.json](./10593-nemesis-of-the-roman-empire.json) |
 | Nemesis Realms | 80883 | [80883-nemesis-realms.json](./80883-nemesis-realms.json) |
 | Nemesis Shock | 346397 | [346397-nemesis-shock.json](./346397-nemesis-shock.json) |
 | Nemesis the Warlock | 37187 | [37187-nemesis-the-warlock.json](./37187-nemesis-the-warlock.json) |
@@ -2727,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Pokémon Snap | 135142 | [135142-new-pokemon-snap.json](./135142-new-pokemon-snap.json) |
 | New Quest: Don't Get Bored! | 178943 | [178943-new-quest-dont-get-bored.json](./178943-new-quest-dont-get-bored.json) |
 | New Rally-X Arrangement | 178411 | [178411-new-rally-x-arrangement.json](./178411-new-rally-x-arrangement.json) |
+| New Retro Arcade: Neon | 22398 | [22398-new-retro-arcade-neon.json](./22398-new-retro-arcade-neon.json) |
 | New Revolution | 188398 | [188398-new-revolution.json](./188398-new-revolution.json) |
 | New Roanoke | 270968 | [270968-new-roanoke.json](./270968-new-roanoke.json) |
 | New Roots | 203853 | [203853-new-roots.json](./203853-new-roots.json) |
@@ -3031,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Blitz | 19807 | [19807-nfl-blitz.json](./19807-nfl-blitz.json) |
 | NFL Blitz | 249135 | [249135-nfl-blitz.json](./249135-nfl-blitz.json) |
 | NFL Blitz | 812 | [812-nfl-blitz.json](./812-nfl-blitz.json) |
+| NFL Blitz 20-02 | 23443 | [23443-nfl-blitz-20-02.json](./23443-nfl-blitz-20-02.json) |
 | NFL Blitz 2000 | 217934 | [217934-nfl-blitz-2000.json](./217934-nfl-blitz-2000.json) |
 | NFL Blitz 2000 | 249126 | [249126-nfl-blitz-2000.json](./249126-nfl-blitz-2000.json) |
 | NFL Blitz 2000 | 4366 | [4366-nfl-blitz-2000.json](./4366-nfl-blitz-2000.json) |
