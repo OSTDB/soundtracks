@@ -2973,7 +2973,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3451,6 +3450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After-Image | 362285 | [362285-after-image.json](./362285-after-image.json) |
 | After... Prologue | 405063 | [405063-after-prologue.json](./405063-after-prologue.json) |
 | After... Wasureenu Kizuna | 283252 | [283252-after-wasureenu-kizuna.json](./283252-after-wasureenu-kizuna.json) |
+| Afterbeat | 33564 | [33564-afterbeat.json](./33564-afterbeat.json) |
 | Afterblast | 164434 | [164434-afterblast.json](./164434-afterblast.json) |
 | AfterBreach: Mystery Shooter | 174591 | [174591-afterbreach-mystery-shooter.json](./174591-afterbreach-mystery-shooter.json) |
 | Afterbright | 357794 | [357794-afterbright.json](./357794-afterbright.json) |
