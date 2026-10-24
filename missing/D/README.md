@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Prince A | 97723 | [97723-d-prince-a.json](./97723-d-prince-a.json) |
 | D-Return | 92112 | [92112-d-return.json](./92112-d-return.json) |
 | D-Star's | 130793 | [130793-d-stars.json](./130793-d-stars.json) |
+| D-topia | 369840 | [369840-d-topia.json](./369840-d-topia.json) |
 | D-Virus: Devilnitive Edition | 259847 | [259847-d-virus-devilnitive-edition.json](./259847-d-virus-devilnitive-edition.json) |
 | D-Virus: Evil Menance | 259846 | [259846-d-virus-evil-menance.json](./259846-d-virus-evil-menance.json) |
 | D-War | 252133 | [252133-d-war.json](./252133-d-war.json) |
@@ -3593,6 +3594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death End Re;Quest 2: Death End Box | 136721 | [136721-death-end-re-quest-2-death-end-box.json](./136721-death-end-re-quest-2-death-end-box.json) |
 | Death End Re;Quest 2: Limited Edition | 166236 | [166236-death-end-re-quest-2-limited-edition.json](./166236-death-end-re-quest-2-limited-edition.json) |
 | Death End Re;Quest 3 | 405964 | [405964-death-end-re-quest-3.json](./405964-death-end-re-quest-3.json) |
+| Death End Re;Quest Code Z | 292873 | [292873-death-end-re-quest-code-z.json](./292873-death-end-re-quest-code-z.json) |
 | Death End Re;Quest: Dungeon Re;Quest Pack | 223547 | [223547-death-end-re-quest-dungeon-re-quest-pack.json](./223547-death-end-re-quest-dungeon-re-quest-pack.json) |
 | Death Escape | 148495 | [148495-death-escape.json](./148495-death-escape.json) |
 | Death Everywhere, So Save Paranoiacally | 397401 | [397401-death-everywhere-so-save-paranoiacally.json](./397401-death-everywhere-so-save-paranoiacally.json) |
@@ -3875,6 +3877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathsmiles: Limited Edition | 47407 | [47407-deathsmiles-limited-edition.json](./47407-deathsmiles-limited-edition.json) |
 | DeathSpank | 2249 | [2249-deathspank.json](./2249-deathspank.json) |
 | DeathSpank: Thongs of Virtue | 2250 | [2250-deathspank-thongs-of-virtue.json](./2250-deathspank-thongs-of-virtue.json) |
+| DeathSprint 66 | 292868 | [292868-deathsprint-66.json](./292868-deathsprint-66.json) |
 | Deathstate : Abyssal Edition | 124010 | [124010-deathstate-abyssal-edition.json](./124010-deathstate-abyssal-edition.json) |
 | Deathstreak | 244208 | [244208-deathstreak.json](./244208-deathstreak.json) |
 | Deathsville | 13582 | [13582-deathsville.json](./13582-deathsville.json) |
@@ -5641,6 +5644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dereism | 216237 | [216237-dereism.json](./216237-dereism.json) |
 | Derelict | 168384 | [168384-derelict.json](./168384-derelict.json) |
 | Derelict | 32423 | [32423-derelict.json](./32423-derelict.json) |
+| Derelict Star | 376551 | [376551-derelict-star.json](./376551-derelict-star.json) |
 | Derelict Void | 144606 | [144606-derelict-void.json](./144606-derelict-void.json) |
 | Dereliction Derby | 262553 | [262553-dereliction-derby.json](./262553-dereliction-derby.json) |
 | DerenGo II | 62656 | [62656-derengo-ii.json](./62656-derengo-ii.json) |
@@ -9467,6 +9471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogotchi: Virtual Pet - Deluxe Edition | 256265 | [256265-dogotchi-virtual-pet-deluxe-edition.json](./256265-dogotchi-virtual-pet-deluxe-edition.json) |
 | Dogou Souken | 40104 | [40104-dogou-souken.json](./40104-dogou-souken.json) |
 | Dogpet | 167531 | [167531-dogpet.json](./167531-dogpet.json) |
+| Dogpile | 373491 | [373491-dogpile.json](./373491-dogpile.json) |
 | DogPunk | 391750 | [391750-dogpunk.json](./391750-dogpunk.json) |
 | Dogs | 311240 | [311240-dogs.json](./311240-dogs.json) |
 | Dogs and Paws | 308604 | [308604-dogs-and-paws.json](./308604-dogs-and-paws.json) |
@@ -13282,6 +13287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dress-Up With Helene: Deluxe! | 358860 | [358860-dress-up-with-helene-deluxe.json](./358860-dress-up-with-helene-deluxe.json) |
 | Dressed to Kill Sherlock Holmes for Playdate & C64! | 265737 | [265737-dressed-to-kill-sherlock-holmes-for-playdate-and-c64.json](./265737-dressed-to-kill-sherlock-holmes-for-playdate-and-c64.json) |
 | Dressing Room | 361320 | [361320-dressing-room.json](./361320-dressing-room.json) |
+| Dressmaker | 365465 | [365465-dressmaker.json](./365465-dressmaker.json) |
 | DressMaker | 168654 | [168654-dressmaker.json](./168654-dressmaker.json) |
 | Drevepsina | 256005 | [256005-drevepsina.json](./256005-drevepsina.json) |
 | Drew | 176747 | [176747-drew.json](./176747-drew.json) |
