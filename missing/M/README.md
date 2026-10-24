@@ -4053,6 +4053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 2: Collector's Edition | 43957 | [43957-mass-effect-2-collectors-edition.json](./43957-mass-effect-2-collectors-edition.json) |
 | Mass Effect 2: Digital Deluxe Edition | 202309 | [202309-mass-effect-2-digital-deluxe-edition.json](./202309-mass-effect-2-digital-deluxe-edition.json) |
 | Mass Effect 2: Firewalker Pack | 13790 | [13790-mass-effect-2-firewalker-pack.json](./13790-mass-effect-2-firewalker-pack.json) |
+| Mass Effect 2: Kasumi - Stolen Memory | 13885 | [13885-mass-effect-2-kasumi-stolen-memory.json](./13885-mass-effect-2-kasumi-stolen-memory.json) |
 | Mass Effect 2: Overlord | 783 | [783-mass-effect-2-overlord.json](./783-mass-effect-2-overlord.json) |
 | Mass Effect 2: Ultimate Edition | 99959 | [99959-mass-effect-2-ultimate-edition.json](./99959-mass-effect-2-ultimate-edition.json) |
 | Mass Effect 3: From Ashes | 13910 | [13910-mass-effect-3-from-ashes.json](./13910-mass-effect-3-from-ashes.json) |
@@ -9248,6 +9249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Morphin Power Rangers: Tiger Barcodzz - 22: Yellow Ranger | 362576 | [362576-mighty-morphin-power-rangers-tiger-barcodzz-22-yellow-ranger.json](./362576-mighty-morphin-power-rangers-tiger-barcodzz-22-yellow-ranger.json) |
 | Mighty Mouse Cheese Hunt | 334115 | [334115-mighty-mouse-cheese-hunt.json](./334115-mighty-mouse-cheese-hunt.json) |
 | Mighty Mulan | 66940 | [66940-mighty-mulan.json](./66940-mighty-mulan.json) |
+| Mighty No. 9 | 5327 | [5327-mighty-no-9.json](./5327-mighty-no-9.json) |
 | Mighty No. 9: Ganbare! Beck | 78361 | [78361-mighty-no-9-ganbare-beck.json](./78361-mighty-no-9-ganbare-beck.json) |
 | Mighty Party | 29865 | [29865-mighty-party.json](./29865-mighty-party.json) |
 | Mighty Quest: Rogue Palace | 248635 | [248635-mighty-quest-rogue-palace.json](./248635-mighty-quest-rogue-palace.json) |
@@ -10310,6 +10312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Motorways: Creative Mode | 347897 | [347897-mini-motorways-creative-mode.json](./347897-mini-motorways-creative-mode.json) |
 | Mini Moves: Among Stars | 160064 | [160064-mini-moves-among-stars.json](./160064-mini-moves-among-stars.json) |
 | Mini Murder Mysteries | 405019 | [405019-mini-murder-mysteries.json](./405019-mini-murder-mysteries.json) |
+| Mini Ninjas | 2192 | [2192-mini-ninjas.json](./2192-mini-ninjas.json) |
 | Mini Ninjas Adventures | 20234 | [20234-mini-ninjas-adventures.json](./20234-mini-ninjas-adventures.json) |
 | Mini Nuts | 61481 | [61481-mini-nuts.json](./61481-mini-nuts.json) |
 | Mini Party | 83857 | [83857-mini-party.json](./83857-mini-party.json) |
