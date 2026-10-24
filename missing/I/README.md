@@ -4028,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Table Tennis | 194251 | [194251-international-table-tennis.json](./194251-international-table-tennis.json) |
 | International Tennis | 70039 | [70039-international-tennis.json](./70039-international-tennis.json) |
 | International Tennis Open | 19078 | [19078-international-tennis-open.json](./19078-international-tennis-open.json) |
+| International Tennis Pro | 10440 | [10440-international-tennis-pro.json](./10440-international-tennis-pro.json) |
 | International Tennis Tour | 44453 | [44453-international-tennis-tour.json](./44453-international-tennis-tour.json) |
 | International Toe Stubber | 307676 | [307676-international-toe-stubber.json](./307676-international-toe-stubber.json) |
 | International Track & Field | 20406 | [20406-international-track-and-field.json](./20406-international-track-and-field.json) |
@@ -4831,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irritating Stick | 92863 | [92863-irritating-stick.json](./92863-irritating-stick.json) |
 | Iruka Iru Ka | 187491 | [187491-iruka-iru-ka.json](./187491-iruka-iru-ka.json) |
 | Iruka ni Uroko ga Nai Wake | 273352 | [273352-iruka-ni-uroko-ga-nai-wake.json](./273352-iruka-ni-uroko-ga-nai-wake.json) |
+| Irukandji | 10461 | [10461-irukandji.json](./10461-irukandji.json) |
 | Iruna Online | 54541 | [54541-iruna-online.json](./54541-iruna-online.json) |
 | Irwin Ego: Ace Attorney | 302652 | [302652-irwin-ego-ace-attorney.json](./302652-irwin-ego-ace-attorney.json) |
 | Is Anna OK? | 286661 | [286661-is-anna-ok.json](./286661-is-anna-ok.json) |
