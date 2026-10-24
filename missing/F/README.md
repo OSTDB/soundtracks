@@ -4986,6 +4986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firey's Candy Bar Adventure | 296227 | [296227-fireys-candy-bar-adventure.json](./296227-fireys-candy-bar-adventure.json) |
 | Firezone | 74397 | [74397-firezone.json](./74397-firezone.json) |
 | Firing Vibes | 139680 | [139680-firing-vibes.json](./139680-firing-vibes.json) |
+| Firma | 35232 | [35232-firma.json](./35232-firma.json) |
 | Firmament | 89994 | [89994-firmament.json](./89994-firmament.json) |
 | Firmament Wars | 104042 | [104042-firmament-wars.json](./104042-firmament-wars.json) |
 | Firo & Klawd | 28218 | [28218-firo-and-klawd.json](./28218-firo-and-klawd.json) |
@@ -10967,6 +10968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury of Dracula | 175327 | [175327-fury-of-dracula.json](./175327-fury-of-dracula.json) |
 | Fury of Dracula: Digital Edition | 129189 | [129189-fury-of-dracula-digital-edition.json](./129189-fury-of-dracula-digital-edition.json) |
 | Fury of the Furries 2 | 226799 | [226799-fury-of-the-furries-2.json](./226799-fury-of-the-furries-2.json) |
+| Fury of the Gods | 35174 | [35174-fury-of-the-gods.json](./35174-fury-of-the-gods.json) |
 | Fury Race Survivor | 273491 | [273491-fury-race-survivor.json](./273491-fury-race-survivor.json) |
 | Fury Strike | 107918 | [107918-fury-strike.json](./107918-fury-strike.json) |
 | Fury! | 372209 | [372209-fury.json](./372209-fury.json) |
