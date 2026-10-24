@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Ultimate Duel | 174605 | [174605-naruto-ultimate-duel.json](./174605-naruto-ultimate-duel.json) |
 | Naruto: Ultimate Ninja 3 | 19626 | [19626-naruto-ultimate-ninja-3.json](./19626-naruto-ultimate-ninja-3.json) |
 | Naruto: Ultimate Ninja Heroes | 24281 | [24281-naruto-ultimate-ninja-heroes.json](./24281-naruto-ultimate-ninja-heroes.json) |
+| Naruto: Ultimate Ninja Heroes 2 - The Phantom Fortress | 19660 | [19660-naruto-ultimate-ninja-heroes-2-the-phantom-fortress.json](./19660-naruto-ultimate-ninja-heroes-2-the-phantom-fortress.json) |
 | Naruto: Ultimate Ninja Storm | 19635 | [19635-naruto-ultimate-ninja-storm.json](./19635-naruto-ultimate-ninja-storm.json) |
 | Naruto: Ultimate Ninja Storm - Limited Edition | 44661 | [44661-naruto-ultimate-ninja-storm-limited-edition.json](./44661-naruto-ultimate-ninja-storm-limited-edition.json) |
 | Naruto: Ultimate Ninja Storm+ | 398845 | [398845-naruto-ultimate-ninja-storm.json](./398845-naruto-ultimate-ninja-storm.json) |
@@ -1865,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Static | 336607 | [336607-neo-static.json](./336607-neo-static.json) |
 | Neo Steam: The Shattered Continent | 51198 | [51198-neo-steam-the-shattered-continent.json](./51198-neo-steam-the-shattered-continent.json) |
 | Neo Testament | 270969 | [270969-neo-testament.json](./270969-neo-testament.json) |
+| Neo Turf Masters | 20323 | [20323-neo-turf-masters.json](./20323-neo-turf-masters.json) |
 | Neo Turf Masters | 392403 | [392403-neo-turf-masters.json](./392403-neo-turf-masters.json) |
 | Neo Turf Masters Scotland | 400237 | [400237-neo-turf-masters-scotland.json](./400237-neo-turf-masters-scotland.json) |
 | Neo XYX | 45814 | [45814-neo-xyx.json](./45814-neo-xyx.json) |
