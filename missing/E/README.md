@@ -1669,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elearning Development Intern | 116115 | [116115-elearning-development-intern.json](./116115-elearning-development-intern.json) |
 | EleBall | 302944 | [302944-eleball.json](./302944-eleball.json) |
 | Elebeater VR | 250242 | [250242-elebeater-vr.json](./250242-elebeater-vr.json) |
+| Elebits | 2747 | [2747-elebits.json](./2747-elebits.json) |
 | Elebits: The Adventures of Kai and Zero | 2748 | [2748-elebits-the-adventures-of-kai-and-zero.json](./2748-elebits-the-adventures-of-kai-and-zero.json) |
 | Elec | 163793 | [163793-elec.json](./163793-elec.json) |
 | Elecade | 400907 | [400907-elecade.json](./400907-elecade.json) |
