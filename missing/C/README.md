@@ -6747,6 +6747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronos Twins | 85540 | [85540-chronos-twins.json](./85540-chronos-twins.json) |
 | Chronos Twins DX | 23362 | [23362-chronos-twins-dx.json](./23362-chronos-twins-dx.json) |
 | Chronos: A Tapestry of Time | 69554 | [69554-chronos-a-tapestry-of-time.json](./69554-chronos-a-tapestry-of-time.json) |
+| Chronos: Before the Ashes | 138796 | [138796-chronos-before-the-ashes.json](./138796-chronos-before-the-ashes.json) |
 | Chronos: Dawn of Time | 234756 | [234756-chronos-dawn-of-time.json](./234756-chronos-dawn-of-time.json) |
 | Chronos: Trap in Time | 418530 | [418530-chronos-trap-in-time.json](./418530-chronos-trap-in-time.json) |
 | Chronoscript: The Endless End | 369997 | [369997-chronoscript-the-endless-end.json](./369997-chronoscript-the-endless-end.json) |
@@ -10187,6 +10188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer Remastered Collection | 112104 | [112104-command-and-conquer-remastered-collection.json](./112104-command-and-conquer-remastered-collection.json) |
 | Command & Conquer: Legions | 256912 | [256912-command-and-conquer-legions.json](./256912-command-and-conquer-legions.json) |
 | Command & Conquer: Legions - Season Red Alert | 314404 | [314404-command-and-conquer-legions-season-red-alert.json](./314404-command-and-conquer-legions-season-red-alert.json) |
+| Command & Conquer: Red Alert - Counterstrike | 676 | [676-command-and-conquer-red-alert-counterstrike.json](./676-command-and-conquer-red-alert-counterstrike.json) |
 | Command & Conquer: Red Alert - Retaliation | 18785 | [18785-command-and-conquer-red-alert-retaliation.json](./18785-command-and-conquer-red-alert-retaliation.json) |
 | Command & Conquer: Red Alert - The Aftermath | 652 | [652-command-and-conquer-red-alert-the-aftermath.json](./652-command-and-conquer-red-alert-the-aftermath.json) |
 | Command & Conquer: Red Alert 2 - Mental Omega | 180284 | [180284-command-and-conquer-red-alert-2-mental-omega.json](./180284-command-and-conquer-red-alert-2-mental-omega.json) |
@@ -14836,6 +14838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptograms | 116955 | [116955-cryptograms.json](./116955-cryptograms.json) |
 | Cryptographer | 120052 | [120052-cryptographer.json](./120052-cryptographer.json) |
 | CryptoGrid | 411789 | [411789-cryptogrid.json](./411789-cryptogrid.json) |
+| Cryptoman | 133040 | [133040-cryptoman.json](./133040-cryptoman.json) |
 | CryptoMania: Movie Quotes | 271693 | [271693-cryptomania-movie-quotes.json](./271693-cryptomania-movie-quotes.json) |
 | CryptoMines | 176139 | [176139-cryptomines.json](./176139-cryptomines.json) |
 | Cryptonaut | 190132 | [190132-cryptonaut.json](./190132-cryptonaut.json) |
