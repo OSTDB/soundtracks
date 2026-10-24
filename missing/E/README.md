@@ -1925,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elephant Hunter Hunter | 133991 | [133991-elephant-hunter-hunter.json](./133991-elephant-hunter-hunter.json) |
 | Elephant in the Room | 58003 | [58003-elephant-in-the-room.json](./58003-elephant-in-the-room.json) |
 | Elephant Preschool Playtime | 108595 | [108595-elephant-preschool-playtime.json](./108595-elephant-preschool-playtime.json) |
+| Elephant Quest | 141846 | [141846-elephant-quest.json](./141846-elephant-quest.json) |
 | Elephant Rampage | 253250 | [253250-elephant-rampage.json](./253250-elephant-rampage.json) |
 | Elephant Rave | 276834 | [276834-elephant-rave.json](./276834-elephant-rave.json) |
 | Elephant Rave 2 | 265084 | [265084-elephant-rave-2.json](./265084-elephant-rave-2.json) |
@@ -5771,6 +5772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Superhero VR: Superhero Simulator | 370884 | [370884-evil-superhero-vr-superhero-simulator.json](./370884-evil-superhero-vr-superhero-simulator.json) |
 | Evil Tactics | 236018 | [236018-evil-tactics.json](./236018-evil-tactics.json) |
 | Evil Timefall | 324162 | [324162-evil-timefall.json](./324162-evil-timefall.json) |
+| Evil Tonight | 143329 | [143329-evil-tonight.json](./143329-evil-tonight.json) |
 | Evil Twin | 22045 | [22045-evil-twin.json](./22045-evil-twin.json) |
 | Evil Twin | 352319 | [352319-evil-twin.json](./352319-evil-twin.json) |
 | Evil Twin: Cyprien's Chronicles | 18332 | [18332-evil-twin-cypriens-chronicles.json](./18332-evil-twin-cypriens-chronicles.json) |
