@@ -2013,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War 3: Epic Edition | 47456 | [47456-gears-of-war-3-epic-edition.json](./47456-gears-of-war-3-epic-edition.json) |
 | Gears of War 3: Fenix Rising | 20656 | [20656-gears-of-war-3-fenix-rising.json](./20656-gears-of-war-3-fenix-rising.json) |
 | Gears of War 3: Forces of Nature | 148248 | [148248-gears-of-war-3-forces-of-nature.json](./148248-gears-of-war-3-forces-of-nature.json) |
+| Gears of War 3: Raam's Shadow | 21844 | [21844-gears-of-war-3-raams-shadow.json](./21844-gears-of-war-3-raams-shadow.json) |
 | Gears of War 4: Amazon Exclusive Collector's Edition | 51540 | [51540-gears-of-war-4-amazon-exclusive-collectors-edition.json](./51540-gears-of-war-4-amazon-exclusive-collectors-edition.json) |
 | Gears of War 4: Collector's Edition - Outsider Variant | 89838 | [89838-gears-of-war-4-collectors-edition-outsider-variant.json](./89838-gears-of-war-4-collectors-edition-outsider-variant.json) |
 | Gears of War: Limited Collector's Edition | 47450 | [47450-gears-of-war-limited-collectors-edition.json](./47450-gears-of-war-limited-collectors-edition.json) |
