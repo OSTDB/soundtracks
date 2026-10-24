@@ -7521,6 +7521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Deluxe Edition | 53036 | [53036-for-honor-deluxe-edition.json](./53036-for-honor-deluxe-edition.json) |
 | For Honor: Eivor Wolf-Kissed – Berserker Hero Skin | 408890 | [408890-for-honor-eivor-wolf-kissed-berserker-hero-skin.json](./408890-for-honor-eivor-wolf-kissed-berserker-hero-skin.json) |
 | For Honor: Ezio Auditore – Peacekeeper Hero Skin | 305765 | [305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json](./305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json) |
+| For Honor: Gold Edition | 25440 | [25440-for-honor-gold-edition.json](./25440-for-honor-gold-edition.json) |
 | For Honor: Gold Heroes Pack | 305766 | [305766-for-honor-gold-heroes-pack.json](./305766-for-honor-gold-heroes-pack.json) |
 | For Honor: Gryphon Hero | 170438 | [170438-for-honor-gryphon-hero.json](./170438-for-honor-gryphon-hero.json) |
 | For Honor: Juren - Hero | 408969 | [408969-for-honor-juren-hero.json](./408969-for-honor-juren-hero.json) |
@@ -9654,6 +9655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz 6 | 281655 | [281655-fritz-6.json](./281655-fritz-6.json) |
 | Fritz 8 | 93016 | [93016-fritz-8.json](./93016-fritz-8.json) |
 | Fritz 9: Play Chess | 130848 | [130848-fritz-9-play-chess.json](./130848-fritz-9-play-chess.json) |
+| Fritz Chess 10 | 25429 | [25429-fritz-chess-10.json](./25429-fritz-chess-10.json) |
 | Fritz Chess 13 | 25054 | [25054-fritz-chess-13.json](./25054-fritz-chess-13.json) |
 | Fritz Chess 14 | 17050 | [17050-fritz-chess-14.json](./17050-fritz-chess-14.json) |
 | Fritz Chess 17 Steam Edition | 162708 | [162708-fritz-chess-17-steam-edition.json](./162708-fritz-chess-17-steam-edition.json) |
