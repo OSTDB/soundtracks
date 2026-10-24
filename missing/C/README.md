@@ -4790,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie and the Chocolate Factory | 243187 | [243187-charlie-and-the-chocolate-factory.json](./243187-charlie-and-the-chocolate-factory.json) |
 | Charlie and The Chocolate Factory DVD Games | 343343 | [343343-charlie-and-the-chocolate-factory-dvd-games.json](./343343-charlie-and-the-chocolate-factory-dvd-games.json) |
 | Charlie Blasts Territory | 10665 | [10665-charlie-blasts-territory.json](./10665-charlie-blasts-territory.json) |
+| Charlie Brown's ABC's | 39366 | [39366-charlie-browns-abcs.json](./39366-charlie-browns-abcs.json) |
 | Charlie Brown’s All-Stars | 291918 | [291918-charlie-brown-s-all-stars.json](./291918-charlie-brown-s-all-stars.json) |
 | Charlie Charlie the Challenge and Game | 175076 | [175076-charlie-charlie-the-challenge-and-game.json](./175076-charlie-charlie-the-challenge-and-game.json) |
 | Charlie Foxtrot & The Galaxy of Tomorrow | 166692 | [166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json](./166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json) |
@@ -15561,6 +15562,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curious George Car Driving Challenge | 406629 | [406629-curious-george-car-driving-challenge.json](./406629-curious-george-car-driving-challenge.json) |
 | Curious George Comes Home | 145899 | [145899-curious-george-comes-home.json](./145899-curious-george-comes-home.json) |
 | Curious George Early Learning Adventure | 384220 | [384220-curious-george-early-learning-adventure.json](./384220-curious-george-early-learning-adventure.json) |
+| Curious George Goes Shopping | 39367 | [39367-curious-george-goes-shopping.json](./39367-curious-george-goes-shopping.json) |
+| Curious George In Outer Space | 39364 | [39364-curious-george-in-outer-space.json](./39364-curious-george-in-outer-space.json) |
+| Curious George Visits the Library | 39365 | [39365-curious-george-visits-the-library.json](./39365-curious-george-visits-the-library.json) |
 | Curious Paws: Hidden Objects | 409206 | [409206-curious-paws-hidden-objects.json](./409206-curious-paws-hidden-objects.json) |
 | Curl! | 217347 | [217347-curl.json](./217347-curl.json) |
 | Curley Laboratory | 196691 | [196691-curley-laboratory.json](./196691-curley-laboratory.json) |
@@ -16131,6 +16135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Parkour | 317387 | [317387-cyber-parkour.json](./317387-cyber-parkour.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
+| Cyber Police ESWAT | 39357 | [39357-cyber-police-eswat.json](./39357-cyber-police-eswat.json) |
 | Cyber Pool | 194830 | [194830-cyber-pool.json](./194830-cyber-pool.json) |
 | Cyber Prison Management | 259505 | [259505-cyber-prison-management.json](./259505-cyber-prison-management.json) |
 | Cyber Protocol | 122655 | [122655-cyber-protocol.json](./122655-cyber-protocol.json) |
