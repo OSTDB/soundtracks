@@ -9378,6 +9378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Pwnd 2: Der Feather’s Revenge | 399458 | [399458-polar-pwnd-2-der-feather-s-revenge.json](./399458-polar-pwnd-2-der-feather-s-revenge.json) |
 | Polar Roller | 326682 | [326682-polar-roller.json](./326682-polar-roller.json) |
 | Polar Rollout | 96256 | [96256-polar-rollout.json](./96256-polar-rollout.json) |
+| Polar Star | 41772 | [41772-polar-star.json](./41772-polar-star.json) |
 | Polar Tubing | 209342 | [209342-polar-tubing.json](./209342-polar-tubing.json) |
 | Polar Tubing | 209343 | [209343-polar-tubing.json](./209343-polar-tubing.json) |
 | Polara | 64232 | [64232-polara.json](./64232-polara.json) |
