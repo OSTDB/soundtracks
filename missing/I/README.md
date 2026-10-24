@@ -1963,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Beast | 273789 | [273789-immortal-beast.json](./273789-immortal-beast.json) |
 | Immortal Blade | 220284 | [220284-immortal-blade.json](./220284-immortal-blade.json) |
 | Immortal Chess | 413174 | [413174-immortal-chess.json](./413174-immortal-chess.json) |
+| Immortal Cities: Children of the Nile | 7507 | [7507-immortal-cities-children-of-the-nile.json](./7507-immortal-cities-children-of-the-nile.json) |
 | Immortal Cities: Nile Online | 11274 | [11274-immortal-cities-nile-online.json](./11274-immortal-cities-nile-online.json) |
 | Immortal Clan: Grandmastery | 395726 | [395726-immortal-clan-grandmastery.json](./395726-immortal-clan-grandmastery.json) |
 | Immortal Coil | 411722 | [411722-immortal-coil.json](./411722-immortal-coil.json) |
@@ -4679,6 +4680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Blade: Medieval RPG | 112241 | [112241-iron-blade-medieval-rpg.json](./112241-iron-blade-medieval-rpg.json) |
 | Iron Blood | 68722 | [68722-iron-blood.json](./68722-iron-blood.json) |
 | Iron Bramble | 401010 | [401010-iron-bramble.json](./401010-iron-bramble.json) |
+| Iron Brigade | 7668 | [7668-iron-brigade.json](./7668-iron-brigade.json) |
 | Iron Carnage | 368292 | [368292-iron-carnage.json](./368292-iron-carnage.json) |
 | Iron Cauldron: Guess the Colorblock | 340762 | [340762-iron-cauldron-guess-the-colorblock.json](./340762-iron-cauldron-guess-the-colorblock.json) |
 | Iron Chef | 64456 | [64456-iron-chef.json](./64456-iron-chef.json) |
