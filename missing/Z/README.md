@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Warrior Man | 349890 | [349890-zombie-warrior-man.json](./349890-zombie-warrior-man.json) |
 | Zombie Wars | 151263 | [151263-zombie-wars.json](./151263-zombie-wars.json) |
 | Zombie Warz | 238459 | [238459-zombie-warz.json](./238459-zombie-warz.json) |
+| Zombie Watch | 82359 | [82359-zombie-watch.json](./82359-zombie-watch.json) |
 | Zombie Watch Part II | 241629 | [241629-zombie-watch-part-ii.json](./241629-zombie-watch-part-ii.json) |
 | Zombie Woods | 283859 | [283859-zombie-woods.json](./283859-zombie-woods.json) |
 | Zombie World | 284283 | [284283-zombie-world.json](./284283-zombie-world.json) |
