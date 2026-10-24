@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Crowns | 86424 | [86424-10-crowns.json](./86424-10-crowns.json) |
 | 10 Days to Save the World | 382905 | [382905-10-days-to-save-the-world.json](./382905-10-days-to-save-the-world.json) |
 | 10 Days with My Devil | 229848 | [229848-10-days-with-my-devil.json](./229848-10-days-with-my-devil.json) |
+| 10 Dead Doves | 216772 | [216772-10-dead-doves.json](./216772-10-dead-doves.json) |
 | 10 Feet Under | 374924 | [374924-10-feet-under.json](./374924-10-feet-under.json) |
 | 10 Flights of Ballooning | 195018 | [195018-10-flights-of-ballooning.json](./195018-10-flights-of-ballooning.json) |
 | 10 Frame Bowling | 64247 | [64247-10-frame-bowling.json](./64247-10-frame-bowling.json) |
@@ -353,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Pin Shuffle Pro Bowling | 88351 | [88351-10-pin-shuffle-pro-bowling.json](./88351-10-pin-shuffle-pro-bowling.json) |
 | 10 Second Escape | 342742 | [342742-10-second-escape.json](./342742-10-second-escape.json) |
 | 10 Second Mixtape | 308935 | [308935-10-second-mixtape.json](./308935-10-second-mixtape.json) |
+| 10 Second Ninja | 9848 | [9848-10-second-ninja.json](./9848-10-second-ninja.json) |
 | 10 Second Ninja X | 18686 | [18686-10-second-ninja-x.json](./18686-10-second-ninja-x.json) |
 | 10 Second Rule: Infinity Labo | 308934 | [308934-10-second-rule-infinity-labo.json](./308934-10-second-rule-infinity-labo.json) |
 | 10 Second Shuriken | 121374 | [121374-10-second-shuriken.json](./121374-10-second-shuriken.json) |
