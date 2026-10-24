@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dark Forest | 319186 | [319186-a-dark-forest.json](./319186-a-dark-forest.json) |
 | A Dark Ice Saga: The Rescue | 158223 | [158223-a-dark-ice-saga-the-rescue.json](./158223-a-dark-ice-saga-the-rescue.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
+| A Dark Room | 3245 | [3245-a-dark-room.json](./3245-a-dark-room.json) |
 | A Dark Sky Over Paradise | 228994 | [228994-a-dark-sky-over-paradise.json](./228994-a-dark-sky-over-paradise.json) |
 | A Dark World: The Glowing City | 126337 | [126337-a-dark-world-the-glowing-city.json](./126337-a-dark-world-the-glowing-city.json) |
 | A Date for the Ages | 260648 | [260648-a-date-for-the-ages.json](./260648-a-date-for-the-ages.json) |
@@ -5571,6 +5572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien's Egg | 237427 | [237427-aliens-egg.json](./237427-aliens-egg.json) |
 | Alien's Return | 11237 | [11237-aliens-return.json](./11237-aliens-return.json) |
 | Alien's Return | 79315 | [79315-aliens-return.json](./79315-aliens-return.json) |
+| Alien3: The Gun | 38520 | [38520-alien3-the-gun.json](./38520-alien3-the-gun.json) |
 | AlienAfterlife | 114220 | [114220-alienafterlife.json](./114220-alienafterlife.json) |
 | Alienation | 7600 | [7600-alienation.json](./7600-alienation.json) |
 | Alienator | 332245 | [332245-alienator.json](./332245-alienator.json) |
