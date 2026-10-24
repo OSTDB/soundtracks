@@ -2336,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Got Compagnie! | 263124 | [263124-we-got-compagnie.json](./263124-we-got-compagnie.json) |
 | We Gotta Go | 375823 | [375823-we-gotta-go.json](./375823-we-gotta-go.json) |
 | We Grew Up in War | 318776 | [318776-we-grew-up-in-war.json](./318776-we-grew-up-in-war.json) |
+| We Happy Few | 9182 | [9182-we-happy-few.json](./9182-we-happy-few.json) |
 | We Happy Few: They Came From Below | 116682 | [116682-we-happy-few-they-came-from-below.json](./116682-we-happy-few-they-came-from-below.json) |
 | We Happy Restaurant | 319241 | [319241-we-happy-restaurant.json](./319241-we-happy-restaurant.json) |
 | We Have a Frog Problem | 228997 | [228997-we-have-a-frog-problem.json](./228997-we-have-a-frog-problem.json) |
@@ -4081,6 +4082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wii Karaoke U by Joysound | 3107 | [3107-wii-karaoke-u-by-joysound.json](./3107-wii-karaoke-u-by-joysound.json) |
 | Wii Party U | 3106 | [3106-wii-party-u.json](./3106-wii-party-u.json) |
 | Wii Party: World Edition | 136208 | [136208-wii-party-world-edition.json](./136208-wii-party-world-edition.json) |
+| Wii Play | 2185 | [2185-wii-play.json](./2185-wii-play.json) |
 | Wii Sports + Wii Sports Resort | 130310 | [130310-wii-sports-wii-sports-resort.json](./130310-wii-sports-wii-sports-resort.json) |
 | Wii Sports Club | 23518 | [23518-wii-sports-club.json](./23518-wii-sports-club.json) |
 | Wii Sports Resort | 2182 | [2182-wii-sports-resort.json](./2182-wii-sports-resort.json) |
