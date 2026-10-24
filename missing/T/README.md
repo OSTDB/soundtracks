@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tailor Tales: Gray Plus | 305543 | [305543-tailor-tales-gray-plus.json](./305543-tailor-tales-gray-plus.json) |
 | Tailor Tales: James Plus | 257551 | [257551-tailor-tales-james-plus.json](./257551-tailor-tales-james-plus.json) |
 | Tailor Tales: Neil Plus | 257536 | [257536-tailor-tales-neil-plus.json](./257536-tailor-tales-neil-plus.json) |
+| Tails | 22500 | [22500-tails.json](./22500-tails.json) |
 | Tails & Titties: Hot Spring | 192696 | [192696-tails-and-titties-hot-spring.json](./192696-tails-and-titties-hot-spring.json) |
 | Tails 64 Revamped | 335635 | [335635-tails-64-revamped.json](./335635-tails-64-revamped.json) |
 | Tails Advance | 326961 | [326961-tails-advance.json](./326961-tails-advance.json) |
@@ -11492,7 +11493,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -21226,6 +21226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Shogun 2 - Fall of the Samurai: The Sendai Faction Pack | 167652 | [167652-total-war-shogun-2-fall-of-the-samurai-the-sendai-faction-pack.json](./167652-total-war-shogun-2-fall-of-the-samurai-the-sendai-faction-pack.json) |
 | Total War: Shogun 2 - Fall of the Samurai: The Tsu Faction Pack | 167638 | [167638-total-war-shogun-2-fall-of-the-samurai-the-tsu-faction-pack.json](./167638-total-war-shogun-2-fall-of-the-samurai-the-tsu-faction-pack.json) |
 | Total War: Shogun 2 - Otomo Clan Pack DLC | 83512 | [83512-total-war-shogun-2-otomo-clan-pack-dlc.json](./83512-total-war-shogun-2-otomo-clan-pack-dlc.json) |
+| Total War: Shogun 2 - Rise of the Samurai | 22650 | [22650-total-war-shogun-2-rise-of-the-samurai.json](./22650-total-war-shogun-2-rise-of-the-samurai.json) |
 | Total War: Shogun 2 - Saints and Heroes Unit Pack | 83518 | [83518-total-war-shogun-2-saints-and-heroes-unit-pack.json](./83518-total-war-shogun-2-saints-and-heroes-unit-pack.json) |
 | Total War: Shogun 2 - Sengoku Jidai Unit Pack | 83515 | [83515-total-war-shogun-2-sengoku-jidai-unit-pack.json](./83515-total-war-shogun-2-sengoku-jidai-unit-pack.json) |
 | Total War: Shogun 2 - The Hattori Clan Pack | 83514 | [83514-total-war-shogun-2-the-hattori-clan-pack.json](./83514-total-war-shogun-2-the-hattori-clan-pack.json) |
@@ -24539,6 +24540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traversion | 274527 | [274527-traversion.json](./274527-traversion.json) |
 | Travessia | 281894 | [281894-travessia.json](./281894-travessia.json) |
 | Travian: Kingdoms | 31910 | [31910-travian-kingdoms.json](./31910-travian-kingdoms.json) |
+| Travian: Legends | 22586 | [22586-travian-legends.json](./22586-travian-legends.json) |
 | Travians | 363543 | [363543-travians.json](./363543-travians.json) |
 | Travis Strikes Again: No More Heroes | 55195 | [55195-travis-strikes-again-no-more-heroes.json](./55195-travis-strikes-again-no-more-heroes.json) |
 | Travis Strikes Again: No More Heroes - Black Dandelion | 115482 | [115482-travis-strikes-again-no-more-heroes-black-dandelion.json](./115482-travis-strikes-again-no-more-heroes-black-dandelion.json) |
