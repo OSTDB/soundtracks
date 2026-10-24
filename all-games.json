@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-24T08:11:13.469Z",
-  "total_soundtracks": 2515,
+  "generated_at": "2026-10-24T08:22:06.325Z",
+  "total_soundtracks": 2532,
   "games": [
     {
       "igdb_id": 7522,
@@ -2651,6 +2651,20 @@
       ]
     },
     {
+      "igdb_id": 28966,
+      "game_name": "Battlefield 1: In the Name of the Tsar",
+      "game_url": "https://ostdb.net/games/battlefield-1-in-the-name-of-the-tsar",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27346144f1cb5b18719b2b1bcf5",
+      "albums": [
+        {
+          "album_name": "Battlefield 1: In the Name of the Tsar (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6T4p5rYSsKi0fo6m3oBdEo",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 26941,
       "game_name": "Battlefield 1: They Shall Not Pass",
       "game_url": "https://ostdb.net/games/battlefield-1-they-shall-not-pass",
@@ -3509,6 +3523,20 @@
       ]
     },
     {
+      "igdb_id": 153002,
+      "game_name": "Bloons TD Battles 2",
+      "game_url": "https://ostdb.net/games/bloons-td-battles-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273680a9dcba2b5754be2ac4d37",
+      "albums": [
+        {
+          "album_name": "Bloons TD Battles 2 (Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3a83hHkbYcX2msO8useAn5",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 27994,
       "game_name": "Blossom Tales: The Sleeping King",
       "game_url": "https://ostdb.net/games/blossom-tales-the-sleeping-king",
@@ -3829,6 +3857,20 @@
         {
           "album_name": "Brave (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 27419,
+      "game_name": "Brawlout",
+      "game_url": "https://ostdb.net/games/brawlout",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bef2f13bc526d8009ed8923f",
+      "albums": [
+        {
+          "album_name": "Brawlout (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1rxEBm5COL0G12n5qoEtXl",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -4721,6 +4763,20 @@
         {
           "album_name": "Chorus (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/28UEPM7X6cgVA6zag8u1bK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 23245,
+      "game_name": "ChromaGun",
+      "game_url": "https://ostdb.net/games/chromagun",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fdea9abf2bf6c7e089de1d6c",
+      "albums": [
+        {
+          "album_name": "ChromaGun (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5G7XYo5X5zotuPxiP6MDlZ",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -6163,6 +6219,20 @@
           "spotify_url": "https://open.spotify.com/album/26rpv16qyxVrs7xeXDNod1",
           "apple_music_url": "https://music.apple.com/us/album/dave-the-diver-original-soundtrack/1739549076",
           "album_link_url": "https://album.link/i/1739549076"
+        }
+      ]
+    },
+    {
+      "igdb_id": 152844,
+      "game_name": "Daymare: 1994 Sandcastle",
+      "game_url": "https://ostdb.net/games/daymare-1994-sandcastle",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a40cf58320ff6471ad27f364",
+      "albums": [
+        {
+          "album_name": "Daymare: 1994 Sandcastle (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3PpuVS9SnTOgMWTdLmCTjk",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -12397,6 +12467,20 @@
       ]
     },
     {
+      "igdb_id": 145822,
+      "game_name": "Hero's Hour",
+      "game_url": "https://ostdb.net/games/heros-hour",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a6105097bc23e62a6073fd89",
+      "albums": [
+        {
+          "album_name": "Hero's Hour (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1hC0vwfqcKkIYi3gVJhH6T",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 364,
       "game_name": "Heroes of Might and Magic III: The Restoration of Erathia",
       "game_url": "https://ostdb.net/games/heroes-of-might-and-magic-iii-the-restoration-of-erathia",
@@ -13915,6 +13999,20 @@
       ]
     },
     {
+      "igdb_id": 39216,
+      "game_name": "King of Thieves",
+      "game_url": "https://ostdb.net/games/king-of-thieves",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27353eddaee486d8dd9995adfa6",
+      "albums": [
+        {
+          "album_name": "King of Thieves (Original Soundtrack Album)",
+          "spotify_url": "https://open.spotify.com/album/1nkmoco71V4t3QIIvC1o3u",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 28048,
       "game_name": "King's Quest: Chapter 1 - A Knight to Remember",
       "game_url": "https://ostdb.net/games/kings-quest-chapter-1-a-knight-to-remember",
@@ -14133,6 +14231,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/%E7%A5%87-path-of-the-goddess-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1770464357?uo=4",
           "album_link_url": "https://album.link/i/1770464357"
+        }
+      ]
+    },
+    {
+      "igdb_id": 56026,
+      "game_name": "Kynseed",
+      "game_url": "https://ostdb.net/games/kynseed",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f409e97929652bfd29108c81",
+      "albums": [
+        {
+          "album_name": "Kynseed (Music from the Early Access version of the game)",
+          "spotify_url": "https://open.spotify.com/album/7CFzzKrmq3jJLzXfqp0TFY",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -14396,6 +14508,20 @@
           "album_name": "Welcome to Noxus (Original Soundtrack from League of Legends)",
           "spotify_url": "https://open.spotify.com/album/7oCUh77MwNd0x12QjA7F5K",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 27139,
+      "game_name": "Leaving Lyndow",
+      "game_url": "https://ostdb.net/games/leaving-lyndow",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cb3ae66f95047bbc7743e72e",
+      "albums": [
+        {
+          "album_name": "Leaving Lyndow (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/624KizLKd9JFfZGPK4EgJc",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -20599,6 +20725,20 @@
       ]
     },
     {
+      "igdb_id": 186059,
+      "game_name": "Redout 2",
+      "game_url": "https://ostdb.net/games/redout-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733875398e4d331f8bf87a482c",
+      "albums": [
+        {
+          "album_name": "Redout 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5LxsPgfpMSah5XisI48txy",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 109742,
       "game_name": "Relicta",
       "game_url": "https://ostdb.net/games/relicta",
@@ -22419,6 +22559,20 @@
       ]
     },
     {
+      "igdb_id": 25084,
+      "game_name": "Shenzhen I/O",
+      "game_url": "https://ostdb.net/games/shenzhen-i-o",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737752187161bf8acfeb985e9e",
+      "albums": [
+        {
+          "album_name": "Shenzhen I/O (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0DMp1uBe438udmOTSYN6Fx",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 134161,
       "game_name": "Sherlock Holmes: Chapter One",
       "game_url": "https://ostdb.net/games/sherlock-holmes-chapter-one",
@@ -23257,6 +23411,20 @@
       ]
     },
     {
+      "igdb_id": 182190,
+      "game_name": "Song of Nunu: A League of Legends Story",
+      "game_url": "https://ostdb.net/games/song-of-nunu-a-league-of-legends-story",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f13dc82bfd327c7380e62920",
+      "albums": [
+        {
+          "album_name": "Song of Nunu: A League of Legends Story (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4aTo1DgWwRfNPNyWCqtAnS",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 2174,
       "game_name": "Sonic & All-Stars Racing Transformed",
       "game_url": "https://ostdb.net/games/sonic-and-all-stars-racing-transformed",
@@ -23734,6 +23902,20 @@
           "album_name": "Space Quest I+II: The Sarien Encounter + Vohaul's Revenge: Roland MT-32 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0fJa954PznMqCmHBV8jwbe",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 28134,
+      "game_name": "Spark the Electric Jester",
+      "game_url": "https://ostdb.net/games/spark-the-electric-jester",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27318029b03547078316e8e4141",
+      "albums": [
+        {
+          "album_name": "Spark the Electric Jester (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5bm6gRHteTufakqjb8uV8h",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -27625,6 +27807,20 @@
       ]
     },
     {
+      "igdb_id": 140669,
+      "game_name": "The Wandering Village",
+      "game_url": "https://ostdb.net/games/the-wandering-village",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733c194429cffadb7a52cfd876",
+      "albums": [
+        {
+          "album_name": "The Wandering Village (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0fCMMLX7pyPQ8YmUtffOMP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 116522,
       "game_name": "The Wild at Heart",
       "game_url": "https://ostdb.net/games/the-wild-at-heart",
@@ -29459,6 +29655,20 @@
       ]
     },
     {
+      "igdb_id": 23429,
+      "game_name": "Velocity Ultra",
+      "game_url": "https://ostdb.net/games/velocity-ultra",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27396e6dab812e9ad6c52ec412d",
+      "albums": [
+        {
+          "album_name": "Velocity Ultra (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5DyQQIg9aLEGFk63KQ9hZk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 8036,
       "game_name": "Verdun",
       "game_url": "https://ostdb.net/games/verdun",
@@ -29621,6 +29831,20 @@
         {
           "album_name": "Wacky Wheels (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0E4o98RZN3QNQh0K8zNzvh",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 142095,
+      "game_name": "Walkabout Mini Golf",
+      "game_url": "https://ostdb.net/games/walkabout-mini-golf",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731c74b2b1604e2e8c40ce4771",
+      "albums": [
+        {
+          "album_name": "Walkabout Mini Golf (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5YnrA0GEU56D2KvL9HUetR",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -29805,6 +30029,20 @@
         {
           "album_name": "Wargroove (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2j7xt35Tr4VrwtchiUPuOx",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 143424,
+      "game_name": "Warhammer 40,000: Battlesector",
+      "game_url": "https://ostdb.net/games/warhammer-40-000-battlesector",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732a211e6757a525851d39f2c0",
+      "albums": [
+        {
+          "album_name": "Warhammer 40,000: Battlesector (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/27dXjxf8R31YZG9MSHyG51",
           "apple_music_url": "",
           "album_link_url": ""
         }
