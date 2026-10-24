@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talewind | 25307 | [25307-talewind.json](./25307-talewind.json) |
 | Tali: A Roman Empire Game of Chance | 344489 | [344489-tali-a-roman-empire-game-of-chance.json](./344489-tali-a-roman-empire-game-of-chance.json) |
 | Talion | 109508 | [109508-talion.json](./109508-talion.json) |
+| Talisman | 32540 | [32540-talisman.json](./32540-talisman.json) |
 | Talisman | 385400 | [385400-talisman.json](./385400-talisman.json) |
 | Talisman - Frostmarch | 53696 | [53696-talisman-frostmarch.json](./53696-talisman-frostmarch.json) |
 | Talisman Online | 140560 | [140560-talisman-online.json](./140560-talisman-online.json) |
@@ -4374,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abandoned Presence | 247885 | [247885-the-abandoned-presence.json](./247885-the-abandoned-presence.json) |
 | The Abbess Garden | 334464 | [334464-the-abbess-garden.json](./334464-the-abbess-garden.json) |
 | The Abbey | 17628 | [17628-the-abbey.json](./17628-the-abbey.json) |
+| The Abbey of Crime Extensum | 32595 | [32595-the-abbey-of-crime-extensum.json](./32595-the-abbey-of-crime-extensum.json) |
 | The Abbey of Montglane | 113445 | [113445-the-abbey-of-montglane.json](./113445-the-abbey-of-montglane.json) |
 | The Abbey: Director's cut | 115606 | [115606-the-abbey-directors-cut.json](./115606-the-abbey-directors-cut.json) |
 | The ABC | 243625 | [243625-the-abc.json](./243625-the-abc.json) |
@@ -11359,9 +11361,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 2 | 304432 | [304432-the-mythical-city-2.json](./304432-the-mythical-city-2.json) |
 | The Mythical City 3 | 304427 | [304427-the-mythical-city-3.json](./304427-the-mythical-city-3.json) |
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
+| The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -11452,6 +11454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Next World: Rocketship DLC | 163250 | [163250-the-next-world-rocketship-dlc.json](./163250-the-next-world-rocketship-dlc.json) |
 | The Niflhel Day | 168584 | [168584-the-niflhel-day.json](./168584-the-niflhel-day.json) |
 | The Night Before Star Wars | 233653 | [233653-the-night-before-star-wars.json](./233653-the-night-before-star-wars.json) |
+| The Night Cafe | 32491 | [32491-the-night-cafe.json](./32491-the-night-cafe.json) |
 | The Night Fisherman | 134493 | [134493-the-night-fisherman.json](./134493-the-night-fisherman.json) |
 | The Night Guard | 295385 | [295385-the-night-guard.json](./295385-the-night-guard.json) |
 | The Night is Darkening | 174573 | [174573-the-night-is-darkening.json](./174573-the-night-is-darkening.json) |
@@ -20737,6 +20740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tori Note | 289403 | [289403-tori-note.json](./289403-tori-note.json) |
 | Tori-Emaki | 206084 | [206084-tori-emaki.json](./206084-tori-emaki.json) |
 | Toribash | 314708 | [314708-toribash.json](./314708-toribash.json) |
+| Toricky | 32549 | [32549-toricky.json](./32549-toricky.json) |
 | Toricky S | 151650 | [151650-toricky-s.json](./151650-toricky-s.json) |
 | Torico's B-day Gift Hunt | 232968 | [232968-toricos-b-day-gift-hunt.json](./232968-toricos-b-day-gift-hunt.json) |
 | Torico's Mine Quest! | 241265 | [241265-toricos-mine-quest.json](./241265-toricos-mine-quest.json) |
