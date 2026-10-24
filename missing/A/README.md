@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Clareira | 379469 | [379469-a-clareira.json](./379469-a-clareira.json) |
 | A Clever Label | 152849 | [152849-a-clever-label.json](./152849-a-clever-label.json) |
 | A Clockwork Ley-Line: Daybreak of Remnants Shadow | 195795 | [195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json](./195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json) |
+| A Clumsy Adventure | 8627 | [8627-a-clumsy-adventure.json](./8627-a-clumsy-adventure.json) |
 | A Clumsy Flight | 208673 | [208673-a-clumsy-flight.json](./208673-a-clumsy-flight.json) |
 | A Cold Day In Shell | 328068 | [328068-a-cold-day-in-shell.json](./328068-a-cold-day-in-shell.json) |
 | A Collection of Bad Moments | 68618 | [68618-a-collection-of-bad-moments.json](./68618-a-collection-of-bad-moments.json) |
@@ -795,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Quest That Became Legend | 217294 | [217294-a-quest-that-became-legend.json](./217294-a-quest-that-became-legend.json) |
 | A Quest to Be the Best | 392242 | [392242-a-quest-to-be-the-best.json](./392242-a-quest-to-be-the-best.json) |
 | A Quest Too Far | 23509 | [23509-a-quest-too-far.json](./23509-a-quest-too-far.json) |
+| A Question of Sport | 8521 | [8521-a-question-of-sport.json](./8521-a-question-of-sport.json) |
 | A Quick Death | 41973 | [41973-a-quick-death.json](./41973-a-quick-death.json) |
 | A Quick Journey to the Edge and Back | 177844 | [177844-a-quick-journey-to-the-edge-and-back.json](./177844-a-quick-journey-to-the-edge-and-back.json) |
 | A Quick One Before Azathoth Devours Fodrian | 271299 | [271299-a-quick-one-before-azathoth-devours-fodrian.json](./271299-a-quick-one-before-azathoth-devours-fodrian.json) |
@@ -1357,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaargh! | 11883 | [11883-aaargh.json](./11883-aaargh.json) |
 | Aaarghpocalypse | 273874 | [273874-aaarghpocalypse.json](./273874-aaarghpocalypse.json) |
 | Aabahran: The Forsaken Lands | 229139 | [229139-aabahran-the-forsaken-lands.json](./229139-aabahran-the-forsaken-lands.json) |
+| Aabs Animals | 8626 | [8626-aabs-animals.json](./8626-aabs-animals.json) |
 | Aaero + Aaero2 Bundle | 331448 | [331448-aaero-aaero2-bundle.json](./331448-aaero-aaero2-bundle.json) |
 | Aaero 2: Arcade Paradise Music Pack | 377420 | [377420-aaero-2-arcade-paradise-music-pack.json](./377420-aaero-2-arcade-paradise-music-pack.json) |
 | Aaero 2: Lania Kea Music Pack | 377421 | [377421-aaero-2-lania-kea-music-pack.json](./377421-aaero-2-lania-kea-music-pack.json) |
@@ -2497,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adibou d'chou fête son anniversaire | 242535 | [242535-adibou-dchou-fete-son-anniversaire.json](./242535-adibou-dchou-fete-son-anniversaire.json) |
 | Adibou d'chou soigne les animaux | 242502 | [242502-adibou-dchou-soigne-les-animaux.json](./242502-adibou-dchou-soigne-les-animaux.json) |
 | Adibou d'chou: Jardin des surprises | 242504 | [242504-adibou-dchou-jardin-des-surprises.json](./242504-adibou-dchou-jardin-des-surprises.json) |
+| Adibou et les saisons magiques | 6469 | [6469-adibou-et-les-saisons-magiques.json](./6469-adibou-et-les-saisons-magiques.json) |
 | Adibou Nature et Sciences | 242531 | [242531-adibou-nature-et-sciences.json](./242531-adibou-nature-et-sciences.json) |
 | Adibou: À la recherche de Robilloc | 230420 | [230420-adibou-a-la-recherche-de-robilloc.json](./230420-adibou-a-la-recherche-de-robilloc.json) |
 | Adibou: Aventure dans le corps humain | 242530 | [242530-adibou-aventure-dans-le-corps-humain.json](./242530-adibou-aventure-dans-le-corps-humain.json) |
@@ -3932,6 +3936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Alpha Cat | 129524 | [129524-ai-alpha-cat.json](./129524-ai-alpha-cat.json) |
 | AI Asylum | 329034 | [329034-ai-asylum.json](./329034-ai-asylum.json) |
 | AI Battle Royale Generator | 148364 | [148364-ai-battle-royale-generator.json](./148364-ai-battle-royale-generator.json) |
+| Ai Chou Aniki | 6475 | [6475-ai-chou-aniki.json](./6475-ai-chou-aniki.json) |
 | AI Confidential | 304595 | [304595-ai-confidential.json](./304595-ai-confidential.json) |
 | Ai Dawn | 368678 | [368678-ai-dawn.json](./368678-ai-dawn.json) |
 | AI Doctor | 319307 | [319307-ai-doctor.json](./319307-ai-doctor.json) |
@@ -4443,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Madness Collection | 52566 | [52566-airport-madness-collection.json](./52566-airport-madness-collection.json) |
 | Airport Madness: World Edition | 35258 | [35258-airport-madness-world-edition.json](./35258-airport-madness-world-edition.json) |
 | Airport Manager | 379522 | [379522-airport-manager.json](./379522-airport-manager.json) |
+| Airport Mania: First Flight | 6476 | [6476-airport-mania-first-flight.json](./6476-airport-mania-first-flight.json) |
 | Airport Mania: First Flight HD | 175282 | [175282-airport-mania-first-flight-hd.json](./175282-airport-mania-first-flight-hd.json) |
 | Airport Master | 208904 | [208904-airport-master.json](./208904-airport-master.json) |
 | Airport Master | 29649 | [29649-airport-master.json](./29649-airport-master.json) |
@@ -4529,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aivx Push | 372791 | [372791-aivx-push.json](./372791-aivx-push.json) |
 | Aiyana | 211415 | [211415-aiyana.json](./211415-aiyana.json) |
 | Aiyoku no Eustia: Angel's Blessing | 62075 | [62075-aiyoku-no-eustia-angels-blessing.json](./62075-aiyoku-no-eustia-angels-blessing.json) |
+| Aiyoku no Eustia: Angel's Blessing | 8631 | [8631-aiyoku-no-eustia-angels-blessing.json](./8631-aiyoku-no-eustia-angels-blessing.json) |
 | Aiyra | 255772 | [255772-aiyra.json](./255772-aiyra.json) |
 | Aiza: New Generation | 228339 | [228339-aiza-new-generation.json](./228339-aiza-new-generation.json) |
 | Aizasia | 389015 | [389015-aizasia.json](./389015-aizasia.json) |
@@ -4623,6 +4630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akazukin Cha-cha | 228473 | [228473-akazukin-cha-cha.json](./228473-akazukin-cha-cha.json) |
 | Akazukin Cha-cha: Osawagase! Panic Race! | 60637 | [60637-akazukin-cha-cha-osawagase-panic-race.json](./60637-akazukin-cha-cha-osawagase-panic-race.json) |
 | Akazukin Dark Side | 150154 | [150154-akazukin-dark-side.json](./150154-akazukin-dark-side.json) |
+| AKB1/149: Renai Sousenkyo | 8632 | [8632-akb1-149-renai-sousenkyo.json](./8632-akb1-149-renai-sousenkyo.json) |
 | AKB1/153: Renai Sousenkyo - Ultra Luxury Limited Box | 89867 | [89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json](./89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json) |
 | AKB1/48: Idol to Guam to Koishitara... | 64710 | [64710-akb1-48-idol-to-guam-to-koishitara.json](./64710-akb1-48-idol-to-guam-to-koishitara.json) |
 | AKB1/48: Idol to Koishitara | 66373 | [66373-akb1-48-idol-to-koishitara.json](./66373-akb1-48-idol-to-koishitara.json) |
@@ -6936,6 +6944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amneron's Legacy | 152152 | [152152-amnerons-legacy.json](./152152-amnerons-legacy.json) |
 | Amnesia | 14436 | [14436-amnesia.json](./14436-amnesia.json) |
 | Amnesia | 153784 | [153784-amnesia.json](./153784-amnesia.json) |
+| Amnesia | 8637 | [8637-amnesia.json](./8637-amnesia.json) |
 | Amnesia Crowd | 62754 | [62754-amnesia-crowd.json](./62754-amnesia-crowd.json) |
 | Amnesia for Nintendo Switch | 136829 | [136829-amnesia-for-nintendo-switch.json](./136829-amnesia-for-nintendo-switch.json) |
 | Amnesia Later | 62753 | [62753-amnesia-later.json](./62753-amnesia-later.json) |
@@ -8451,6 +8460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ano Hi Mita Hana no Namae wo Boku-tachi ha Mada Shiranai | 122222 | [122222-ano-hi-mita-hana-no-namae-wo-boku-tachi-ha-mada-shiranai.json](./122222-ano-hi-mita-hana-no-namae-wo-boku-tachi-ha-mada-shiranai.json) |
 | Ano Hi wo Mou Ichido | 220318 | [220318-ano-hi-wo-mou-ichido.json](./220318-ano-hi-wo-mou-ichido.json) |
 | Ano Ko Doko no Ko | 314652 | [314652-ano-ko-doko-no-ko.json](./314652-ano-ko-doko-no-ko.json) |
+| Ano Ko wa Ore kara Hanarenai | 8640 | [8640-ano-ko-wa-ore-kara-hanarenai.json](./8640-ano-ko-wa-ore-kara-hanarenai.json) |
 | Ano Ko wo Numaraseru Koi no Mote-shinrigaku | 255525 | [255525-ano-ko-wo-numaraseru-koi-no-mote-shinrigaku.json](./255525-ano-ko-wo-numaraseru-koi-no-mote-shinrigaku.json) |
 | Ano Koro, Sobo wa Erokatta: Mukashi ni Modotte, Baa-chan ni Ecchi na Okaeshi o | 108870 | [108870-ano-koro-sobo-wa-erokatta-mukashi-ni-modotte-baa-chan-ni-ecchi-na-okaeshi-o.json](./108870-ano-koro-sobo-wa-erokatta-mukashi-ni-modotte-baa-chan-ni-ecchi-na-okaeshi-o.json) |
 | Ano ne DS | 130388 | [130388-ano-ne-ds.json](./130388-ano-ne-ds.json) |
@@ -10101,6 +10111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Games Collection | 368265 | [368265-arcade-games-collection.json](./368265-arcade-games-collection.json) |
 | Arcade Gears: Image Fight & X Multiply | 43756 | [43756-arcade-gears-image-fight-and-x-multiply.json](./43756-arcade-gears-image-fight-and-x-multiply.json) |
 | Arcade Hero | 358920 | [358920-arcade-hero.json](./358920-arcade-hero.json) |
+| Arcade Hits Pack: Gunblade NY and L.A. Machineguns | 6520 | [6520-arcade-hits-pack-gunblade-ny-and-l-a-machineguns.json](./6520-arcade-hits-pack-gunblade-ny-and-l-a-machineguns.json) |
 | Arcade Hole | 208907 | [208907-arcade-hole.json](./208907-arcade-hole.json) |
 | Arcade Hoops Basketball | 47848 | [47848-arcade-hoops-basketball.json](./47848-arcade-hoops-basketball.json) |
 | Arcade Horse Racing | 206137 | [206137-arcade-horse-racing.json](./206137-arcade-horse-racing.json) |
@@ -10196,6 +10207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadia: The Crystal Wars | 120703 | [120703-arcadia-the-crystal-wars.json](./120703-arcadia-the-crystal-wars.json) |
 | Arcadian Atlas | 18868 | [18868-arcadian-atlas.json](./18868-arcadian-atlas.json) |
 | Arcadian Rift | 162245 | [162245-arcadian-rift.json](./162245-arcadian-rift.json) |
+| Arcadians | 8525 | [8525-arcadians.json](./8525-arcadians.json) |
 | Arcadice | 353806 | [353806-arcadice.json](./353806-arcadice.json) |
 | Arcadie II: Cold Lands | 346625 | [346625-arcadie-ii-cold-lands.json](./346625-arcadie-ii-cold-lands.json) |
 | Arcadium | 137562 | [137562-arcadium.json](./137562-arcadium.json) |
@@ -10623,6 +10635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Smarter Than a 5th Grader? | 81347 | [81347-are-you-smarter-than-a-5th-grader.json](./81347-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than A 5th Grader? | 220072 | [220072-are-you-smarter-than-a-5th-grader.json](./220072-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than a 5th Grader? Game Time | 197940 | [197940-are-you-smarter-than-a-5th-grader-game-time.json](./197940-are-you-smarter-than-a-5th-grader-game-time.json) |
+| Are You Smarter Than a 5th Grader? Game Time | 6521 | [6521-are-you-smarter-than-a-5th-grader-game-time.json](./6521-are-you-smarter-than-a-5th-grader-game-time.json) |
 | Are You Smarter Than A 5th Grader?: Back to School | 50741 | [50741-are-you-smarter-than-a-5th-grader-back-to-school.json](./50741-are-you-smarter-than-a-5th-grader-back-to-school.json) |
 | Are You Smarter than a 5th Grader?: Extra Credit | 234304 | [234304-are-you-smarter-than-a-5th-grader-extra-credit.json](./234304-are-you-smarter-than-a-5th-grader-extra-credit.json) |
 | Are You Smarter Than Mario? | 231629 | [231629-are-you-smarter-than-mario.json](./231629-are-you-smarter-than-mario.json) |
@@ -11907,6 +11920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes | 43139 | [43139-ashes.json](./43139-ashes.json) |
 | Ashes 2 | 119774 | [119774-ashes-2.json](./119774-ashes-2.json) |
 | Ashes Cricket | 68282 | [68282-ashes-cricket.json](./68282-ashes-cricket.json) |
+| Ashes Cricket 2013 | 8550 | [8550-ashes-cricket-2013.json](./8550-ashes-cricket-2013.json) |
 | Ashes Nomad | 408126 | [408126-ashes-nomad.json](./408126-ashes-nomad.json) |
 | Ashes of Arcanum | 264687 | [264687-ashes-of-arcanum.json](./264687-ashes-of-arcanum.json) |
 | Ashes of Arcanum: Antique Pack | 313674 | [313674-ashes-of-arcanum-antique-pack.json](./313674-ashes-of-arcanum-antique-pack.json) |
@@ -12889,6 +12903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroRunner | 272858 | [272858-astrorunner.json](./272858-astrorunner.json) |
 | AstroScaper | 337774 | [337774-astroscaper.json](./337774-astroscaper.json) |
 | AstroShift | 68763 | [68763-astroshift.json](./68763-astroshift.json) |
+| AstroSlugs | 8393 | [8393-astroslugs.json](./8393-astroslugs.json) |
 | Astrosmash | 382989 | [382989-astrosmash.json](./382989-astrosmash.json) |
 | Astrosmash | 5657 | [5657-astrosmash.json](./5657-astrosmash.json) |
 | Astrostack | 311363 | [311363-astrostack.json](./311363-astrostack.json) |
