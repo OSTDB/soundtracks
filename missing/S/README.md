@@ -9517,6 +9517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skat und mehr | 93451 | [93451-skat-und-mehr.json](./93451-skat-und-mehr.json) |
 | Skate | 283373 | [283373-skate.json](./283373-skate.json) |
 | Skate & Date | 116276 | [116276-skate-and-date.json](./116276-skate-and-date.json) |
+| Skate 2 | 2586 | [2586-skate-2.json](./2586-skate-2.json) |
 | Skate 3 | 2587 | [2587-skate-3.json](./2587-skate-3.json) |
 | Skate 3: Maloof Money Cup 2010 NYC Pack | 367276 | [367276-skate-3-maloof-money-cup-2010-nyc-pack.json](./367276-skate-3-maloof-money-cup-2010-nyc-pack.json) |
 | Skate 3: Recompiled | 404797 | [404797-skate-3-recompiled.json](./404797-skate-3-recompiled.json) |
@@ -14817,6 +14818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Drifter | 265476 | [265476-soul-drifter.json](./265476-soul-drifter.json) |
 | Soul Eater | 292399 | [292399-soul-eater.json](./292399-soul-eater.json) |
 | Soul Eater: Battle Resonance | 44527 | [44527-soul-eater-battle-resonance.json](./44527-soul-eater-battle-resonance.json) |
+| Soul Edge | 1563 | [1563-soul-edge.json](./1563-soul-edge.json) |
 | Soul Edge Vs. Samurai Spirits | 45754 | [45754-soul-edge-vs-samurai-spirits.json](./45754-soul-edge-vs-samurai-spirits.json) |
 | Soul Elegy | 165666 | [165666-soul-elegy.json](./165666-soul-elegy.json) |
 | Soul Essence | 174827 | [174827-soul-essence.json](./174827-soul-essence.json) |
@@ -21875,6 +21877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stories to Tell: Greyville Stay | 327935 | [327935-stories-to-tell-greyville-stay.json](./327935-stories-to-tell-greyville-stay.json) |
 | Stories to Tell: Run Away | 290477 | [290477-stories-to-tell-run-away.json](./290477-stories-to-tell-run-away.json) |
 | Stories Untold | 27094 | [27094-stories-untold.json](./27094-stories-untold.json) |
+| Stories: The Path of Destinies | 12815 | [12815-stories-the-path-of-destinies.json](./12815-stories-the-path-of-destinies.json) |
 | Stories: The Path of Destinies - Collector's Edition | 53674 | [53674-stories-the-path-of-destinies-collectors-edition.json](./53674-stories-the-path-of-destinies-collectors-edition.json) |
 | Storm | 28573 | [28573-storm.json](./28573-storm.json) |
 | Storm | 45275 | [45275-storm.json](./45275-storm.json) |
