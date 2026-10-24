@@ -17667,6 +17667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spitfire | 282629 | [282629-spitfire.json](./282629-spitfire.json) |
 | Spitfire | 85829 | [85829-spitfire.json](./85829-spitfire.json) |
 | Spitfire 40 | 15375 | [15375-spitfire-40.json](./15375-spitfire-40.json) |
+| Spitfire Attack | 40601 | [40601-spitfire-attack.json](./40601-spitfire-attack.json) |
 | Spitfire Heroes: Tales of the Royal Air Force | 124055 | [124055-spitfire-heroes-tales-of-the-royal-air-force.json](./124055-spitfire-heroes-tales-of-the-royal-air-force.json) |
 | Spitfire: Moonpies Mission | 307950 | [307950-spitfire-moonpies-mission.json](./307950-spitfire-moonpies-mission.json) |
 | Spitkiss | 98074 | [98074-spitkiss.json](./98074-spitkiss.json) |
@@ -19203,6 +19204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Light Dynamics | 313961 | [313961-star-light-dynamics.json](./313961-star-light-dynamics.json) |
 | Star Loot | 348259 | [348259-star-loot.json](./348259-star-loot.json) |
 | Star Lover | 303280 | [303280-star-lover.json](./303280-star-lover.json) |
+| Star Luster | 40541 | [40541-star-luster.json](./40541-star-luster.json) |
 | Star Made | 50812 | [50812-star-made.json](./50812-star-made.json) |
 | Star Maidens Chronicle: Definitive Edition | 169368 | [169368-star-maidens-chronicle-definitive-edition.json](./169368-star-maidens-chronicle-definitive-edition.json) |
 | Star Man | 403783 | [403783-star-man.json](./403783-star-man.json) |
@@ -24509,6 +24511,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cave Boy: Forsaken Dungeon | 31190 | [31190-super-cave-boy-forsaken-dungeon.json](./31190-super-cave-boy-forsaken-dungeon.json) |
 | Super Cave Run | 276605 | [276605-super-cave-run.json](./276605-super-cave-run.json) |
 | Super Chains | 112941 | [112941-super-chains.json](./112941-super-chains.json) |
+| Super Challenge Baseball | 40602 | [40602-super-challenge-baseball.json](./40602-super-challenge-baseball.json) |
+| Super Challenge Football | 40595 | [40595-super-challenge-football.json](./40595-super-challenge-football.json) |
 | Super Champion Baseball | 125337 | [125337-super-champion-baseball.json](./125337-super-champion-baseball.json) |
 | Super Chariot | 93661 | [93661-super-chariot.json](./93661-super-chariot.json) |
 | Super Chase: Criminal Termination | 40430 | [40430-super-chase-criminal-termination.json](./40430-super-chase-criminal-termination.json) |
@@ -26692,6 +26696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super ZZT | 46656 | [46656-super-zzt.json](./46656-super-zzt.json) |
 | Super-B | 373220 | [373220-super-b.json](./373220-super-b.json) |
 | Super-Bikes: Riding Challenge | 43310 | [43310-super-bikes-riding-challenge.json](./43310-super-bikes-riding-challenge.json) |
+| Super-Ferrari | 40592 | [40592-super-ferrari.json](./40592-super-ferrari.json) |
 | Super-Patriota Simulator | 238998 | [238998-super-patriota-simulator.json](./238998-super-patriota-simulator.json) |
 | Super-VGA Harrier | 70114 | [70114-super-vga-harrier.json](./70114-super-vga-harrier.json) |
 | Super-X | 46861 | [46861-super-x.json](./46861-super-x.json) |
