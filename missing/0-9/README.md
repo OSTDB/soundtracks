@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1sland | 142339 | [142339-1sland.json](./142339-1sland.json) |
 | 1st CD-Edition | 112186 | [112186-1st-cd-edition.json](./112186-1st-cd-edition.json) |
 | 1st Core | 103444 | [103444-1st-core.json](./103444-1st-core.json) |
+| 1st Division Manager | 11871 | [11871-1st-division-manager.json](./11871-1st-division-manager.json) |
 | 1st Grade | 91743 | [91743-1st-grade.json](./91743-1st-grade.json) |
 | 1st Homizio | 378278 | [378278-1st-homizio.json](./378278-1st-homizio.json) |
 | 1st Kochobo Dourado | 215199 | [215199-1st-kochobo-dourado.json](./215199-1st-kochobo-dourado.json) |
@@ -1816,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Fast & Furious | 410226 | [410226-3d-fast-and-furious.json](./410226-3d-fast-and-furious.json) |
 | 3D Football | 243754 | [243754-3d-football.json](./243754-3d-football.json) |
 | 3D Frog Frenzy | 47046 | [47046-3d-frog-frenzy.json](./47046-3d-frog-frenzy.json) |
+| 3D Galax | 11872 | [11872-3d-galax.json](./11872-3d-galax.json) |
 | 3D Game Collection | 84663 | [84663-3d-game-collection.json](./84663-3d-game-collection.json) |
 | 3D Game Pack | 266189 | [266189-3d-game-pack.json](./266189-3d-game-pack.json) |
 | 3D Gear | 234587 | [234587-3d-gear.json](./234587-3d-gear.json) |
@@ -1965,6 +1967,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Water Driver | 47561 | [47561-3d-water-driver.json](./47561-3d-water-driver.json) |
 | 3D Watermelon Game | 277950 | [277950-3d-watermelon-game.json](./277950-3d-watermelon-game.json) |
 | 3D Workers Island | 321462 | [321462-3d-workers-island.json](./321462-3d-workers-island.json) |
+| 3D World Boxing | 11874 | [11874-3d-world-boxing.json](./11874-3d-world-boxing.json) |
+| 3D World Tennis | 11875 | [11875-3d-world-tennis.json](./11875-3d-world-tennis.json) |
 | 3D-Dungeon | 409220 | [409220-3d-dungeon.json](./409220-3d-dungeon.json) |
 | 3D-Laby | 98226 | [98226-3d-laby.json](./98226-3d-laby.json) |
 | 3D-Pac Plus | 122636 | [122636-3d-pac-plus.json](./122636-3d-pac-plus.json) |
@@ -2190,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4Tacos | 276274 | [276274-4tacos.json](./276274-4tacos.json) |
 | 4Team | 31104 | [31104-4team.json](./31104-4team.json) |
 | 4th & Goal Football | 61504 | [61504-4th-and-goal-football.json](./61504-4th-and-goal-football.json) |
+| 4th & Inches | 11876 | [11876-4th-and-inches.json](./11876-4th-and-inches.json) |
 | 4th Dawn | 219512 | [219512-4th-dawn.json](./219512-4th-dawn.json) |
 | 4th Dimension | 137934 | [137934-4th-dimension.json](./137934-4th-dimension.json) |
 | 4th Era: The RuneChild | 120320 | [120320-4th-era-the-runechild.json](./120320-4th-era-the-runechild.json) |
@@ -2344,6 +2349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5th Anniversary | 71960 | [71960-5th-anniversary.json](./71960-5th-anniversary.json) |
 | 5th Cataclysm | 334322 | [334322-5th-cataclysm.json](./334322-5th-cataclysm.json) |
 | 5th Fleet | 14471 | [14471-5th-fleet.json](./14471-5th-fleet.json) |
+| 5th Gear | 11877 | [11877-5th-gear.json](./11877-5th-gear.json) |
 | 5till L1 Complex | 263362 | [263362-5till-l1-complex.json](./263362-5till-l1-complex.json) |
 | 5X | 100095 | [100095-5x.json](./100095-5x.json) |
 | 5x Qube : addictive puzzle grid fill 10/10 | 88672 | [88672-5x-qube-addictive-puzzle-grid-fill-10-10.json](./88672-5x-qube-addictive-puzzle-grid-fill-10-10.json) |
@@ -2437,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Ate 9 | 316435 | [316435-7-ate-9.json](./316435-7-ate-9.json) |
 | 7 Blades | 27622 | [27622-7-blades.json](./27622-7-blades.json) |
 | 7 Card Games | 84685 | [84685-7-card-games.json](./84685-7-card-games.json) |
+| 7 Colors | 11878 | [11878-7-colors.json](./11878-7-colors.json) |
 | 7 Days | 314017 | [314017-7-days.json](./314017-7-days.json) |
 | 7 Days a Skeptic | 73478 | [73478-7-days-a-skeptic.json](./73478-7-days-a-skeptic.json) |
 | 7 Days Blood Moons | 292376 | [292376-7-days-blood-moons.json](./292376-7-days-blood-moons.json) |
@@ -2540,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7th Deep | 88084 | [88084-7th-deep.json](./88084-7th-deep.json) |
 | 7th Domain | 253471 | [253471-7th-domain.json](./253471-7th-domain.json) |
 | 7th Domain: Tree of Chaos | 308917 | [308917-7th-domain-tree-of-chaos.json](./308917-7th-domain-tree-of-chaos.json) |
+| 7th Dragon 2020-II | 11826 | [11826-7th-dragon-2020-ii.json](./11826-7th-dragon-2020-ii.json) |
 | 7th Sea: A Pirate's Pact | 113865 | [113865-7th-sea-a-pirates-pact.json](./113865-7th-sea-a-pirates-pact.json) |
 | 7th Sector | 115336 | [115336-7th-sector.json](./115336-7th-sector.json) |
 | 7th Sector: Museum | 172115 | [172115-7th-sector-museum.json](./172115-7th-sector-museum.json) |
@@ -2692,6 +2700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 in 1 Puzzles | 212336 | [212336-9-in-1-puzzles.json](./212336-9-in-1-puzzles.json) |
 | 9 in 1 Sports Games Mega Collection | 347307 | [347307-9-in-1-sports-games-mega-collection.json](./347307-9-in-1-sports-games-mega-collection.json) |
 | 9 Kings | 288741 | [288741-9-kings.json](./288741-9-kings.json) |
+| 9 Lives | 11879 | [11879-9-lives.json](./11879-9-lives.json) |
 | 9 Lives | 251003 | [251003-9-lives.json](./251003-9-lives.json) |
 | 9 Lives 9 Millimeters | 377410 | [377410-9-lives-9-millimeters.json](./377410-9-lives-9-millimeters.json) |
 | 9 Lives to Defend | 250947 | [250947-9-lives-to-defend.json](./250947-9-lives-to-defend.json) |
