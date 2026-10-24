@@ -4802,6 +4802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pit: Throw Things Into the Fire | 389688 | [389688-fire-pit-throw-things-into-the-fire.json](./389688-fire-pit-throw-things-into-the-fire.json) |
 | Fire Power | 110821 | [110821-fire-power.json](./110821-fire-power.json) |
 | Fire Pro Joshi: All Star Dream Slam | 42614 | [42614-fire-pro-joshi-all-star-dream-slam.json](./42614-fire-pro-joshi-all-star-dream-slam.json) |
+| Fire Pro Wrestling 2 | 6408 | [6408-fire-pro-wrestling-2.json](./6408-fire-pro-wrestling-2.json) |
 | Fire Pro Wrestling G | 45074 | [45074-fire-pro-wrestling-g.json](./45074-fire-pro-wrestling-g.json) |
 | Fire Pro Wrestling Gaiden | 45534 | [45534-fire-pro-wrestling-gaiden.json](./45534-fire-pro-wrestling-gaiden.json) |
 | Fire Pro Wrestling Returns | 28767 | [28767-fire-pro-wrestling-returns.json](./28767-fire-pro-wrestling-returns.json) |
@@ -8358,6 +8359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress | 13715 | [13715-fortress.json](./13715-fortress.json) |
 | Fortress | 313492 | [313492-fortress.json](./313492-fortress.json) |
 | Fortress | 319195 | [319195-fortress.json](./319195-fortress.json) |
+| Fortress | 6409 | [6409-fortress.json](./6409-fortress.json) |
 | Fortress | 86214 | [86214-fortress.json](./86214-fortress.json) |
 | Fortress 1024 | 261282 | [261282-fortress-1024.json](./261282-fortress-1024.json) |
 | Fortress 2 Blue | 340237 | [340237-fortress-2-blue.json](./340237-fortress-2-blue.json) |
@@ -8588,6 +8590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foster: Ghost Child | 211051 | [211051-foster-ghost-child.json](./211051-foster-ghost-child.json) |
 | Foster's Home for Imaginary Friends | 230313 | [230313-fosters-home-for-imaginary-friends.json](./230313-fosters-home-for-imaginary-friends.json) |
 | Foster's Home for Imaginary Friends | 230429 | [230429-fosters-home-for-imaginary-friends.json](./230429-fosters-home-for-imaginary-friends.json) |
+| Foster's Home for Imaginary Friends | 6410 | [6410-fosters-home-for-imaginary-friends.json](./6410-fosters-home-for-imaginary-friends.json) |
 | Foster's Home For Imaginary Friends: A Friend In Need | 277157 | [277157-fosters-home-for-imaginary-friends-a-friend-in-need.json](./277157-fosters-home-for-imaginary-friends-a-friend-in-need.json) |
 | Foster's Home for Imaginary Friends: Imagination Invaders | 8004 | [8004-fosters-home-for-imaginary-friends-imagination-invaders.json](./8004-fosters-home-for-imaginary-friends-imagination-invaders.json) |
 | Fostering Apocalypse | 153991 | [153991-fostering-apocalypse.json](./153991-fostering-apocalypse.json) |
@@ -9829,6 +9832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger 2 | 111559 | [111559-frogger-2.json](./111559-frogger-2.json) |
 | Frogger 3D | 6772 | [6772-frogger-3d.json](./6772-frogger-3d.json) |
 | Frogger 64 | 40917 | [40917-frogger-64.json](./40917-frogger-64.json) |
+| Frogger Advance: The Great Quest | 6412 | [6412-frogger-advance-the-great-quest.json](./6412-frogger-advance-the-great-quest.json) |
 | Frogger Arcade Game | 96929 | [96929-frogger-arcade-game.json](./96929-frogger-arcade-game.json) |
 | Frogger Beyond | 3922 | [3922-frogger-beyond.json](./3922-frogger-beyond.json) |
 | Frogger Evolution | 218547 | [218547-frogger-evolution.json](./218547-frogger-evolution.json) |
