@@ -3675,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightlife: Vista | 297359 | [297359-nightlife-vista.json](./297359-nightlife-vista.json) |
 | Nightline | 132031 | [132031-nightline.json](./132031-nightline.json) |
 | Nightlings | 338862 | [338862-nightlings.json](./338862-nightlings.json) |
+| Nightlong: Union City Conspiracy | 27379 | [27379-nightlong-union-city-conspiracy.json](./27379-nightlong-union-city-conspiracy.json) |
 | Nightly Hobo | 321463 | [321463-nightly-hobo.json](./321463-nightly-hobo.json) |
 | Nightly Maintenance | 196852 | [196852-nightly-maintenance.json](./196852-nightly-maintenance.json) |
 | Nightly Trash | 236238 | [236238-nightly-trash.json](./236238-nightly-trash.json) |
