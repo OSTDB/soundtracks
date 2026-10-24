@@ -6386,6 +6386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Zero 4 | 1778 | [1778-mega-man-zero-4.json](./1778-mega-man-zero-4.json) |
 | Mega Man Zero Collection | 24355 | [24355-mega-man-zero-collection.json](./24355-mega-man-zero-collection.json) |
 | Mega Man Zero Online | 218060 | [218060-mega-man-zero-online.json](./218060-mega-man-zero-online.json) |
+| Mega Man Zero/ZX: Legacy Collection | 122048 | [122048-mega-man-zero-zx-legacy-collection.json](./122048-mega-man-zero-zx-legacy-collection.json) |
 | Mega Man ZX | 1779 | [1779-mega-man-zx.json](./1779-mega-man-zx.json) |
 | Mega Man ZX Advent | 1780 | [1780-mega-man-zx-advent.json](./1780-mega-man-zx-advent.json) |
 | Mega Man ZX Prequel | 311210 | [311210-mega-man-zx-prequel.json](./311210-mega-man-zx-prequel.json) |
@@ -7971,6 +7972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug Rush | 409737 | [409737-metal-slug-rush.json](./409737-metal-slug-rush.json) |
 | Metal Slug SB Fanthology | 324895 | [324895-metal-slug-sb-fanthology.json](./324895-metal-slug-sb-fanthology.json) |
 | Metal Slug Triple Pack | 268630 | [268630-metal-slug-triple-pack.json](./268630-metal-slug-triple-pack.json) |
+| Metal Slug X | 191478 | [191478-metal-slug-x.json](./191478-metal-slug-x.json) |
 | Metal Slug Zero Online | 137929 | [137929-metal-slug-zero-online.json](./137929-metal-slug-zero-online.json) |
 | Metal Slug: Commander | 193975 | [193975-metal-slug-commander.json](./193975-metal-slug-commander.json) |
 | Metal Slug: Super Vehicle-001 | 191477 | [191477-metal-slug-super-vehicle-001.json](./191477-metal-slug-super-vehicle-001.json) |
@@ -16521,6 +16523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Holiday | 184330 | [184330-my-hero-holiday.json](./184330-my-hero-holiday.json) |
 | My Hero Kitty | 299402 | [299402-my-hero-kitty.json](./299402-my-hero-kitty.json) |
 | My Hero One's Justice | 76428 | [76428-my-hero-ones-justice.json](./76428-my-hero-ones-justice.json) |
+| My Hero One's Justice 2 | 122599 | [122599-my-hero-ones-justice-2.json](./122599-my-hero-ones-justice-2.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
 | My Hero One's Justice 2: Collector's Edition | 136129 | [136129-my-hero-ones-justice-2-collectors-edition.json](./136129-my-hero-ones-justice-2-collectors-edition.json) |
 | My Hero One's Justice 2: Deluxe Edition | 136286 | [136286-my-hero-ones-justice-2-deluxe-edition.json](./136286-my-hero-ones-justice-2-deluxe-edition.json) |
