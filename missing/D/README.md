@@ -8402,6 +8402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Extremely Goofy Skateboarding | 78286 | [78286-disneys-extremely-goofy-skateboarding.json](./78286-disneys-extremely-goofy-skateboarding.json) |
 | Disney's Goof Troop | 205930 | [205930-disneys-goof-troop.json](./205930-disneys-goof-troop.json) |
 | Disney's Goofy's Fun House | 43895 | [43895-disneys-goofys-fun-house.json](./43895-disneys-goofys-fun-house.json) |
+| Disney's Herbie: Fully Loaded | 6434 | [6434-disneys-herbie-fully-loaded.json](./6434-disneys-herbie-fully-loaded.json) |
 | Disney's Herbie: Rescue Rally | 73552 | [73552-disneys-herbie-rescue-rally.json](./73552-disneys-herbie-rescue-rally.json) |
 | Disney's Hercules | 205929 | [205929-disneys-hercules.json](./205929-disneys-hercules.json) |
 | Disney's Hercules Action Game | 9814 | [9814-disneys-hercules-action-game.json](./9814-disneys-hercules-action-game.json) |
@@ -9764,6 +9765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domo-kun no Card-e: Kyougi - Snowboard | 352797 | [352797-domo-kun-no-card-e-kyougi-snowboard.json](./352797-domo-kun-no-card-e-kyougi-snowboard.json) |
 | Domo-kun no Card-e: Kyougi - Speed Skate (Domo-kun) | 352799 | [352799-domo-kun-no-card-e-kyougi-speed-skate-domo-kun.json](./352799-domo-kun-no-card-e-kyougi-speed-skate-domo-kun.json) |
 | Domo-kun no Card-e: Winter Pack | 352825 | [352825-domo-kun-no-card-e-winter-pack.json](./352825-domo-kun-no-card-e-winter-pack.json) |
+| Domo-kun no Fushigi Terebi | 6383 | [6383-domo-kun-no-fushigi-terebi.json](./6383-domo-kun-no-fushigi-terebi.json) |
 | Domovoy | 316785 | [316785-domovoy.json](./316785-domovoy.json) |
 | Domum | 211965 | [211965-domum.json](./211965-domum.json) |
 | Domus Abscondita | 312765 | [312765-domus-abscondita.json](./312765-domus-abscondita.json) |
@@ -11997,6 +11999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monster Super Light | 80598 | [80598-dragon-quest-monster-super-light.json](./80598-dragon-quest-monster-super-light.json) |
 | Dragon Quest Monsters 1+2 | 24853 | [24853-dragon-quest-monsters-1-2.json](./24853-dragon-quest-monsters-1-2.json) |
 | Dragon Quest Monsters 2: Iru and Luca's Marvelous Mysterious Key | 24854 | [24854-dragon-quest-monsters-2-iru-and-lucas-marvelous-mysterious-key.json](./24854-dragon-quest-monsters-2-iru-and-lucas-marvelous-mysterious-key.json) |
+| Dragon Quest Monsters: Caravan Heart | 6388 | [6388-dragon-quest-monsters-caravan-heart.json](./6388-dragon-quest-monsters-caravan-heart.json) |
 | Dragon Quest Monsters: Joker | 17460 | [17460-dragon-quest-monsters-joker.json](./17460-dragon-quest-monsters-joker.json) |
 | Dragon Quest Monsters: Joker 2 | 21727 | [21727-dragon-quest-monsters-joker-2.json](./21727-dragon-quest-monsters-joker-2.json) |
 | Dragon Quest Monsters: Joker 2 Professional | 106012 | [106012-dragon-quest-monsters-joker-2-professional.json](./106012-dragon-quest-monsters-joker-2-professional.json) |
@@ -12118,6 +12121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Tale 5: The Queen's Destiny - Collector's Edition | 417525 | [417525-dragon-tale-5-the-queens-destiny-collectors-edition.json](./417525-dragon-tale-5-the-queens-destiny-collectors-edition.json) |
 | Dragon Tales | 320914 | [320914-dragon-tales.json](./320914-dragon-tales.json) |
 | Dragon Tales: Dragon Adventures | 248751 | [248751-dragon-tales-dragon-adventures.json](./248751-dragon-tales-dragon-adventures.json) |
+| Dragon Tales: Dragon Adventures | 6389 | [6389-dragon-tales-dragon-adventures.json](./6389-dragon-tales-dragon-adventures.json) |
 | Dragon Tales: Dragon Wings | 49939 | [49939-dragon-tales-dragon-wings.json](./49939-dragon-tales-dragon-wings.json) |
 | Dragon Tales: Learn & Fly With Dragons | 72127 | [72127-dragon-tales-learn-and-fly-with-dragons.json](./72127-dragon-tales-learn-and-fly-with-dragons.json) |
 | Dragon Tavern | 62715 | [62715-dragon-tavern.json](./62715-dragon-tavern.json) |
@@ -12344,6 +12348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakan: Order of the Flame | 7576 | [7576-drakan-order-of-the-flame.json](./7576-drakan-order-of-the-flame.json) |
 | Drake | 134654 | [134654-drake.json](./134654-drake.json) |
 | Drake | 217467 | [217467-drake.json](./217467-drake.json) |
+| Drake & Josh | 6385 | [6385-drake-and-josh.json](./6385-drake-and-josh.json) |
 | Drake Hollow | 125630 | [125630-drake-hollow.json](./125630-drake-hollow.json) |
 | Drake's Tower | 89229 | [89229-drakes-tower.json](./89229-drakes-tower.json) |
 | Drakefall | 345052 | [345052-drakefall.json](./345052-drakefall.json) |
@@ -13497,6 +13502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droning On | 334562 | [334562-droning-on.json](./334562-droning-on.json) |
 | Droom | 320299 | [320299-droom.json](./320299-droom.json) |
 | Droopy Balls Simulator 2021 | 168684 | [168684-droopy-balls-simulator-2021.json](./168684-droopy-balls-simulator-2021.json) |
+| Droopy's Tennis Open | 6395 | [6395-droopys-tennis-open.json](./6395-droopys-tennis-open.json) |
 | Drop | 301136 | [301136-drop.json](./301136-drop.json) |
 | Drop | 86201 | [86201-drop.json](./86201-drop.json) |
 | Drop 'n' Fill! | 330791 | [330791-drop-n-fill.json](./330791-drop-n-fill.json) |
@@ -13788,6 +13794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duake | 320260 | [320260-duake.json](./320260-duake.json) |
 | Dual | 255889 | [255889-dual.json](./255889-dual.json) |
 | Dual Blade: Battle of the Female Ninja | 123882 | [123882-dual-blade-battle-of-the-female-ninja.json](./123882-dual-blade-battle-of-the-female-ninja.json) |
+| Dual Blades | 6392 | [6392-dual-blades.json](./6392-dual-blades.json) |
 | Dual Brain Vol.1: Calculation | 127170 | [127170-dual-brain-vol-1-calculation.json](./127170-dual-brain-vol-1-calculation.json) |
 | Dual Brain Vol.2: Reflex | 147144 | [147144-dual-brain-vol-2-reflex.json](./147144-dual-brain-vol-2-reflex.json) |
 | Dual Brain Vol.3: Shapes | 147143 | [147143-dual-brain-vol-3-shapes.json](./147143-dual-brain-vol-3-shapes.json) |
