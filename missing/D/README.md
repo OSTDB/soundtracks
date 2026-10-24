@@ -3487,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Alley | 179681 | [179681-death-alley.json](./179681-death-alley.json) |
 | Death and Betrayal in Romania: A Dana Knightstone Novel - Collector's Edition | 107838 | [107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json](./107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json) |
 | Death and Tactics | 353364 | [353364-death-and-tactics.json](./353364-death-and-tactics.json) |
+| Death and the Fly | 15011 | [15011-death-and-the-fly.json](./15011-death-and-the-fly.json) |
 | Death Angel | 121287 | [121287-death-angel.json](./121287-death-angel.json) |
 | Death Angel Nightmare | 235877 | [235877-death-angel-nightmare.json](./235877-death-angel-nightmare.json) |
 | Death Angel Trial | 284334 | [284334-death-angel-trial.json](./284334-death-angel-trial.json) |
@@ -4874,6 +4875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Ops: Army Special Forces | 27481 | [27481-delta-ops-army-special-forces.json](./27481-delta-ops-army-special-forces.json) |
 | Delta Park | 274329 | [274329-delta-park.json](./274329-delta-park.json) |
 | Delta Particles | 196729 | [196729-delta-particles.json](./196729-delta-particles.json) |
+| Delta Patrol | 17277 | [17277-delta-patrol.json](./17277-delta-patrol.json) |
 | Delta Riddle | 96039 | [96039-delta-riddle.json](./96039-delta-riddle.json) |
 | Delta Squad | 115352 | [115352-delta-squad.json](./115352-delta-squad.json) |
 | Delta Squadron | 23947 | [23947-delta-squadron.json](./23947-delta-squadron.json) |
@@ -14879,6 +14881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Hell | 74228 | [74228-dungeons-of-hell.json](./74228-dungeons-of-hell.json) |
 | Dungeons of Hinterberg: Episode Renaud | 358904 | [358904-dungeons-of-hinterberg-episode-renaud.json](./358904-dungeons-of-hinterberg-episode-renaud.json) |
 | Dungeons of Honor | 191193 | [191193-dungeons-of-honor.json](./191193-dungeons-of-honor.json) |
+| Dungeons of Kragmor | 17006 | [17006-dungeons-of-kragmor.json](./17006-dungeons-of-kragmor.json) |
 | Dungeons of Kremlin: Remastered | 57038 | [57038-dungeons-of-kremlin-remastered.json](./57038-dungeons-of-kremlin-remastered.json) |
 | Dungeons of Legend: Cast Within | 115073 | [115073-dungeons-of-legend-cast-within.json](./115073-dungeons-of-legend-cast-within.json) |
 | Dungeons of Loot | 133989 | [133989-dungeons-of-loot.json](./133989-dungeons-of-loot.json) |
