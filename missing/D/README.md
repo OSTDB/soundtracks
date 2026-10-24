@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D1896 | 126365 | [126365-d1896.json](./126365-d1896.json) |
 | D2 | 36736 | [36736-d2.json](./36736-d2.json) |
 | D20 Dungeons | 126975 | [126975-d20-dungeons.json](./126975-d20-dungeons.json) |
+| d20: Sweet Roll Club | 36761 | [36761-d20-sweet-roll-club.json](./36761-d20-sweet-roll-club.json) |
 | D2048 | 125915 | [125915-d2048.json](./125915-d2048.json) |
 | d2b VS Deardrops -Cross the Future- | 125760 | [125760-d2b-vs-deardrops-cross-the-future.json](./125760-d2b-vs-deardrops-cross-the-future.json) |
 | D3ad Hand | 277528 | [277528-d3ad-hand.json](./277528-d3ad-hand.json) |
@@ -398,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisenryaku VII DX | 361319 | [361319-daisenryaku-vii-dx.json](./361319-daisenryaku-vii-dx.json) |
 | Daisenryaku: Master Combat | 166548 | [166548-daisenryaku-master-combat.json](./166548-daisenryaku-master-combat.json) |
 | Daisenryaku: Players's Spirit | 166549 | [166549-daisenryaku-playerss-spirit.json](./166549-daisenryaku-playerss-spirit.json) |
+| Daish Assault - The Videogame | 36735 | [36735-daish-assault-the-videogame.json](./36735-daish-assault-the-videogame.json) |
 | Daisia | 74739 | [74739-daisia.json](./74739-daisia.json) |
 | Daisu-Kiss | 65886 | [65886-daisu-kiss.json](./65886-daisu-kiss.json) |
 | Daisy Chain | 104137 | [104137-daisy-chain.json](./104137-daisy-chain.json) |
@@ -739,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandelions | 141716 | [141716-dandelions.json](./141716-dandelions.json) |
 | Dandelions and Me | 343040 | [343040-dandelions-and-me.json](./343040-dandelions-and-me.json) |
 | Dandelions in the Sky | 135756 | [135756-dandelions-in-the-sky.json](./135756-dandelions-in-the-sky.json) |
+| Dander | 36785 | [36785-dander.json](./36785-dander.json) |
 | Dandy | 13568 | [13568-dandy.json](./13568-dandy.json) |
 | Dandy & Randy | 110964 | [110964-dandy-and-randy.json](./110964-dandy-and-randy.json) |
 | Dandy Ace | 116533 | [116533-dandy-ace.json](./116533-dandy-ace.json) |
@@ -4531,6 +4534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of the Atlantic | 179479 | [179479-defenders-of-the-atlantic.json](./179479-defenders-of-the-atlantic.json) |
 | Defenders of the Last Colony | 36208 | [36208-defenders-of-the-last-colony.json](./36208-defenders-of-the-last-colony.json) |
 | Defenders of the Omniverse | 255385 | [255385-defenders-of-the-omniverse.json](./255385-defenders-of-the-omniverse.json) |
+| Defenders of the Realm VR | 36709 | [36709-defenders-of-the-realm-vr.json](./36709-defenders-of-the-realm-vr.json) |
 | Defenders of the West | 132541 | [132541-defenders-of-the-west.json](./132541-defenders-of-the-west.json) |
 | Defenders of Time | 17722 | [17722-defenders-of-time.json](./17722-defenders-of-time.json) |
 | Defenders: Survival and Tower Defense | 135661 | [135661-defenders-survival-and-tower-defense.json](./135661-defenders-survival-and-tower-defense.json) |
@@ -11182,6 +11186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Nekketsu Dodgeball | 50993 | [50993-downtown-nekketsu-dodgeball.json](./50993-downtown-nekketsu-dodgeball.json) |
 | Downtown Nekketsu Jidaigeki | 60562 | [60562-downtown-nekketsu-jidaigeki.json](./60562-downtown-nekketsu-jidaigeki.json) |
 | Downtown Nekketsu Koushinkyoku: Dokodemo Daiundoukai | 49109 | [49109-downtown-nekketsu-koushinkyoku-dokodemo-daiundoukai.json](./49109-downtown-nekketsu-koushinkyoku-dokodemo-daiundoukai.json) |
+| Downtown Nekketsu Koushinkyoku: Soreyuke Daiundoukai | 36753 | [36753-downtown-nekketsu-koushinkyoku-soreyuke-daiundoukai.json](./36753-downtown-nekketsu-koushinkyoku-soreyuke-daiundoukai.json) |
 | Downtown Nekketsu Monogatari | 145363 | [145363-downtown-nekketsu-monogatari.json](./145363-downtown-nekketsu-monogatari.json) |
 | Downtown Nekketsu Monogatari | 37624 | [37624-downtown-nekketsu-monogatari.json](./37624-downtown-nekketsu-monogatari.json) |
 | Downtown Nekketsu Monogatari 2 | 66084 | [66084-downtown-nekketsu-monogatari-2.json](./66084-downtown-nekketsu-monogatari-2.json) |
