@@ -2099,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achar Chronicles: Oblitus | 58068 | [58068-achar-chronicles-oblitus.json](./58068-achar-chronicles-oblitus.json) |
 | Acheron | 154386 | [154386-acheron.json](./154386-acheron.json) |
 | Acheron's Souls | 150121 | [150121-acherons-souls.json](./150121-acherons-souls.json) |
+| Acheton | 2296 | [2296-acheton.json](./2296-acheton.json) |
 | Achi: Strategy Game | 142973 | [142973-achi-strategy-game.json](./142973-achi-strategy-game.json) |
 | Achievement Chevo Lurker: Achievement Exodus | 72483 | [72483-achievement-chevo-lurker-achievement-exodus.json](./72483-achievement-chevo-lurker-achievement-exodus.json) |
 | Achievement Clicker | 75381 | [75381-achievement-clicker.json](./75381-achievement-clicker.json) |
@@ -2150,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achromatic | 203807 | [203807-achromatic.json](./203807-achromatic.json) |
 | Achtung die Kugel! | 110927 | [110927-achtung-die-kugel.json](./110927-achtung-die-kugel.json) |
 | Achtung Franz: Quest for Wine | 314993 | [314993-achtung-franz-quest-for-wine.json](./314993-achtung-franz-quest-for-wine.json) |
+| Achtung Panzer: Kharkov 1943 | 2008 | [2008-achtung-panzer-kharkov-1943.json](./2008-achtung-panzer-kharkov-1943.json) |
 | Achtung Spitfire | 86015 | [86015-achtung-spitfire.json](./86015-achtung-spitfire.json) |
 | Achtung, die Kurve! | 11251 | [11251-achtung-die-kurve.json](./11251-achtung-die-kurve.json) |
 | Achtung! Cthulhu Tactics | 106562 | [106562-achtung-cthulhu-tactics.json](./106562-achtung-cthulhu-tactics.json) |
@@ -2372,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actua Golf 4 | 356274 | [356274-actua-golf-4.json](./356274-actua-golf-4.json) |
 | Actua Ice Hockey | 68964 | [68964-actua-ice-hockey.json](./68964-actua-ice-hockey.json) |
 | Actua Ice Hockey 2 | 71553 | [71553-actua-ice-hockey-2.json](./71553-actua-ice-hockey-2.json) |
+| Actua Soccer: Club Edition | 1992 | [1992-actua-soccer-club-edition.json](./1992-actua-soccer-club-edition.json) |
 | Actua Tennis | 44736 | [44736-actua-tennis.json](./44736-actua-tennis.json) |
 | Actual Crimes: Jack the Ripper | 20411 | [20411-actual-crimes-jack-the-ripper.json](./20411-actual-crimes-jack-the-ripper.json) |
 | Actually Additions | 232420 | [232420-actually-additions.json](./232420-actually-additions.json) |
@@ -2696,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Tactical Fighter II | 8899 | [8899-advanced-tactical-fighter-ii.json](./8899-advanced-tactical-fighter-ii.json) |
 | Advanced V.G. | 37639 | [37639-advanced-v-g.json](./37639-advanced-v-g.json) |
 | Advanced World War Sen-nen Teikoku no Koubou: Last of the Millennium | 45448 | [45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json](./45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json) |
+| Advanced Xoru | 2297 | [2297-advanced-xoru.json](./2297-advanced-xoru.json) |
 | Advantage Tennis | 11888 | [11888-advantage-tennis.json](./11888-advantage-tennis.json) |
 | Advaria: Chronicles of Immortality | 283898 | [283898-advaria-chronicles-of-immortality.json](./283898-advaria-chronicles-of-immortality.json) |
 | Adven'chuta | 94542 | [94542-advenchuta.json](./94542-advenchuta.json) |
@@ -4671,6 +4675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akihabara: Feel the Rhythm | 26770 | [26770-akihabara-feel-the-rhythm.json](./26770-akihabara-feel-the-rhythm.json) |
 | Akiiwan: Survival | 361850 | [361850-akiiwan-survival.json](./361850-akiiwan-survival.json) |
 | Akimaho! | 97383 | [97383-akimaho.json](./97383-akimaho.json) |
+| Akimbo: Kung-Fu Hero | 1995 | [1995-akimbo-kung-fu-hero.json](./1995-akimbo-kung-fu-hero.json) |
 | Akimbot | 300484 | [300484-akimbot.json](./300484-akimbot.json) |
 | Akin | 32403 | [32403-akin.json](./32403-akin.json) |
 | Akin | 85902 | [85902-akin.json](./85902-akin.json) |
@@ -5391,6 +5396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Horizon | 200363 | [200363-alien-horizon.json](./200363-alien-horizon.json) |
 | Alien Hunt | 166706 | [166706-alien-hunt.json](./166706-alien-hunt.json) |
 | Alien Hunter | 108804 | [108804-alien-hunter.json](./108804-alien-hunter.json) |
+| Alien Incident | 2168 | [2168-alien-incident.json](./2168-alien-incident.json) |
 | Alien Infection | 120915 | [120915-alien-infection.json](./120915-alien-infection.json) |
 | Alien Infestation | 139132 | [139132-alien-infestation.json](./139132-alien-infestation.json) |
 | Alien Invader | 92417 | [92417-alien-invader.json](./92417-alien-invader.json) |
@@ -5504,6 +5510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Vendetta | 134559 | [134559-alien-vendetta.json](./134559-alien-vendetta.json) |
 | Alien Video Game Scientist | 320595 | [320595-alien-video-game-scientist.json](./320595-alien-video-game-scientist.json) |
 | Alien Virus | 147371 | [147371-alien-virus.json](./147371-alien-virus.json) |
+| Alien Virus | 2206 | [2206-alien-virus.json](./2206-alien-virus.json) |
 | Alien vs Predator | 8477 | [8477-alien-vs-predator.json](./8477-alien-vs-predator.json) |
 | Alien vs Predator: The Last of His Clan | 48965 | [48965-alien-vs-predator-the-last-of-his-clan.json](./48965-alien-vs-predator-the-last-of-his-clan.json) |
 | Alien vs. Predator | 227688 | [227688-alien-vs-predator.json](./227688-alien-vs-predator.json) |
@@ -5576,6 +5583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens vs. Predator: Requiem | 21675 | [21675-aliens-vs-predator-requiem.json](./21675-aliens-vs-predator-requiem.json) |
 | Aliens vs. Predator: Requiem - Combat Evolved | 343377 | [343377-aliens-vs-predator-requiem-combat-evolved.json](./343377-aliens-vs-predator-requiem-combat-evolved.json) |
 | Aliens, Plasma Guns & Chewing Gum | 305385 | [305385-aliens-plasma-guns-and-chewing-gum.json](./305385-aliens-plasma-guns-and-chewing-gum.json) |
+| Aliens: A Comic Book Adventure | 2169 | [2169-aliens-a-comic-book-adventure.json](./2169-aliens-a-comic-book-adventure.json) |
 | Aliens: Alien 2 | 36811 | [36811-aliens-alien-2.json](./36811-aliens-alien-2.json) |
 | Aliens: Colonial Marines | 1021 | [1021-aliens-colonial-marines.json](./1021-aliens-colonial-marines.json) |
 | Aliens: Colonial Marines - Bug Hunt | 118179 | [118179-aliens-colonial-marines-bug-hunt.json](./118179-aliens-colonial-marines-bug-hunt.json) |
@@ -6271,6 +6279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altered Beast | 202941 | [202941-altered-beast.json](./202941-altered-beast.json) |
 | Altered Beast | 2604 | [2604-altered-beast.json](./2604-altered-beast.json) |
 | Altered Beast: Guardian of the Realms | 49193 | [49193-altered-beast-guardian-of-the-realms.json](./49193-altered-beast-guardian-of-the-realms.json) |
+| Altered Destiny | 2304 | [2304-altered-destiny.json](./2304-altered-destiny.json) |
 | Alteredblood+ | 398990 | [398990-alteredblood.json](./398990-alteredblood.json) |
 | AlterEgo | 178545 | [178545-alterego.json](./178545-alterego.json) |
 | AlterEgo City | 306643 | [306643-alterego-city.json](./306643-alterego-city.json) |
@@ -6584,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing World | 17235 | [17235-amazing-world.json](./17235-amazing-world.json) |
 | Amazing Zombie Defense | 62663 | [62663-amazing-zombie-defense.json](./62663-amazing-zombie-defense.json) |
 | Amazing: A House In Kansas VR | 119767 | [119767-amazing-a-house-in-kansas-vr.json](./119767-amazing-a-house-in-kansas-vr.json) |
+| Amazon | 2305 | [2305-amazon.json](./2305-amazon.json) |
 | Amazon Odyssey | 75111 | [75111-amazon-odyssey.json](./75111-amazon-odyssey.json) |
 | Amazon Quest | 245785 | [245785-amazon-quest.json](./245785-amazon-quest.json) |
 | Amazon Rush | 89271 | [89271-amazon-rush.json](./89271-amazon-rush.json) |
@@ -7105,6 +7115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Amazing Wizard | 169313 | [169313-an-amazing-wizard.json](./169313-an-amazing-wizard.json) |
 | An American Tail | 68257 | [68257-an-american-tail.json](./68257-an-american-tail.json) |
 | An American Tail: Fievel Goes West | 217950 | [217950-an-american-tail-fievel-goes-west.json](./217950-an-american-tail-fievel-goes-west.json) |
+| An American Tail: Fievel Goes West | 2308 | [2308-an-american-tail-fievel-goes-west.json](./2308-an-american-tail-fievel-goes-west.json) |
 | An Angel's Final Desire | 319005 | [319005-an-angels-final-desire.json](./319005-an-angels-final-desire.json) |
 | An Ankou | 250946 | [250946-an-ankou.json](./250946-an-ankou.json) |
 | An Anniversary Dinner | 201985 | [201985-an-anniversary-dinner.json](./201985-an-anniversary-dinner.json) |
@@ -9506,6 +9517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquanoid 3: 3D | 66554 | [66554-aquanoid-3-3d.json](./66554-aquanoid-3-3d.json) |
 | Aquanore | 376451 | [376451-aquanore.json](./376451-aquanore.json) |
 | AquaNox | 1997 | [1997-aquanox.json](./1997-aquanox.json) |
+| AquaNox: The Angels Tears | 1999 | [1999-aquanox-the-angels-tears.json](./1999-aquanox-the-angels-tears.json) |
 | Aquapark io: Animals DLC | 263524 | [263524-aquapark-io-animals-dlc.json](./263524-aquapark-io-animals-dlc.json) |
 | Aquapark io: Complete Edition | 270300 | [270300-aquapark-io-complete-edition.json](./270300-aquapark-io-complete-edition.json) |
 | Aquapark io: Movie Stars DLC | 263526 | [263526-aquapark-io-movie-stars-dlc.json](./263526-aquapark-io-movie-stars-dlc.json) |
@@ -10473,6 +10485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archibald Applebrook's Abenteuer | 112058 | [112058-archibald-applebrooks-abenteuer.json](./112058-archibald-applebrooks-abenteuer.json) |
 | Archibald's Adventures | 33046 | [33046-archibalds-adventures.json](./33046-archibalds-adventures.json) |
 | Archie: Riverdale Rescue | 186060 | [186060-archie-riverdale-rescue.json](./186060-archie-riverdale-rescue.json) |
+| Archimedean Dynasty | 2197 | [2197-archimedean-dynasty.json](./2197-archimedean-dynasty.json) |
 | Archipel Logic Infinite | 310261 | [310261-archipel-logic-infinite.json](./310261-archipel-logic-infinite.json) |
 | Archipelagates | 258224 | [258224-archipelagates.json](./258224-archipelagates.json) |
 | Archipelago | 187171 | [187171-archipelago.json](./187171-archipelago.json) |
@@ -10625,6 +10638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are We There Yet? | 73794 | [73794-are-we-there-yet.json](./73794-are-we-there-yet.json) |
 | Are You A Wizard | 132566 | [132566-are-you-a-wizard.json](./132566-are-you-a-wizard.json) |
 | Are You Afraid of the Dark | 220347 | [220347-are-you-afraid-of-the-dark.json](./220347-are-you-afraid-of-the-dark.json) |
+| Are You Afraid of the Dark? The Tale of Orpheo's Curse | 2208 | [2208-are-you-afraid-of-the-dark-the-tale-of-orpheos-curse.json](./2208-are-you-afraid-of-the-dark-the-tale-of-orpheos-curse.json) |
 | Are You Happy | 338154 | [338154-are-you-happy.json](./338154-are-you-happy.json) |
 | Are you human? | 183394 | [183394-are-you-human.json](./183394-are-you-human.json) |
 | Are You Kidding Me? | 324922 | [324922-are-you-kidding-me.json](./324922-are-you-kidding-me.json) |
@@ -14620,6 +14634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azrael | 192457 | [192457-azrael.json](./192457-azrael.json) |
 | Azrael | 206572 | [206572-azrael.json](./206572-azrael.json) |
 | Azrael | 209697 | [209697-azrael.json](./209697-azrael.json) |
+| Azrael's Tear | 2210 | [2210-azraels-tear.json](./2210-azraels-tear.json) |
 | Aztaka | 16067 | [16067-aztaka.json](./16067-aztaka.json) |
 | Aztec Adventure | 45668 | [45668-aztec-adventure.json](./45668-aztec-adventure.json) |
 | Aztec Adventure: The Golden Road to Paradise | 71972 | [71972-aztec-adventure-the-golden-road-to-paradise.json](./71972-aztec-adventure-the-golden-road-to-paradise.json) |
