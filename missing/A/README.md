@@ -4395,6 +4395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airflow | 312675 | [312675-airflow.json](./312675-airflow.json) |
 | Airflow: Seattle ARTCC | 376106 | [376106-airflow-seattle-artcc.json](./376106-airflow-seattle-artcc.json) |
 | AirFMC | 90201 | [90201-airfmc.json](./90201-airfmc.json) |
+| Airforce Delta | 3710 | [3710-airforce-delta.json](./3710-airforce-delta.json) |
 | Airforce Delta | 47285 | [47285-airforce-delta.json](./47285-airforce-delta.json) |
 | AirForce Delta Storm | 5718 | [5718-airforce-delta-storm.json](./5718-airforce-delta-storm.json) |
 | Airframe Ultra | 257450 | [257450-airframe-ultra.json](./257450-airframe-ultra.json) |
@@ -4903,6 +4904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ALC no 10-Punkan Eigo Master: Chuukyuu | 269545 | [269545-alc-no-10-punkan-eigo-master-chuukyuu.json](./269545-alc-no-10-punkan-eigo-master-chuukyuu.json) |
 | ALC no 10-Punkan Eigo Master: Joukyuu | 269546 | [269546-alc-no-10-punkan-eigo-master-joukyuu.json](./269546-alc-no-10-punkan-eigo-master-joukyuu.json) |
 | ALC no 10-punkan Eigo Master: Shokyuu | 269547 | [269547-alc-no-10-punkan-eigo-master-shokyuu.json](./269547-alc-no-10-punkan-eigo-master-shokyuu.json) |
+| Alcahest | 3651 | [3651-alcahest.json](./3651-alcahest.json) |
 | Alcantor | 14162 | [14162-alcantor.json](./14162-alcantor.json) |
 | Alcatraz | 11892 | [11892-alcatraz.json](./11892-alcatraz.json) |
 | Alcatraz | 223928 | [223928-alcatraz.json](./223928-alcatraz.json) |
@@ -7977,6 +7979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing: New Leaf - Welcome Luxury | 294788 | [294788-animal-crossing-new-leaf-welcome-luxury.json](./294788-animal-crossing-new-leaf-welcome-luxury.json) |
 | Animal Crossing: New Murder | 251058 | [251058-animal-crossing-new-murder.json](./251058-animal-crossing-new-murder.json) |
 | Animal Crossing: Pocket Camp | 58630 | [58630-animal-crossing-pocket-camp.json](./58630-animal-crossing-pocket-camp.json) |
+| Animal Crossing: Pocket Camp Complete | 321011 | [321011-animal-crossing-pocket-camp-complete.json](./321011-animal-crossing-pocket-camp-complete.json) |
 | Animal Crossing: Wild World | 2645 | [2645-animal-crossing-wild-world.json](./2645-animal-crossing-wild-world.json) |
 | Animal Crush | 233429 | [233429-animal-crush.json](./233429-animal-crush.json) |
 | Animal Crush | 52770 | [52770-animal-crush.json](./52770-animal-crush.json) |
@@ -12311,6 +12314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Unity: Underground Armory Pack | 316131 | [316131-assassins-creed-unity-underground-armory-pack.json](./316131-assassins-creed-unity-underground-armory-pack.json) |
 | Assassin's Creed Valhalla: A Fated Encounter | 228706 | [228706-assassins-creed-valhalla-a-fated-encounter.json](./228706-assassins-creed-valhalla-a-fated-encounter.json) |
 | Assassin's Creed Valhalla: Collector's Edition | 141160 | [141160-assassins-creed-valhalla-collectors-edition.json](./141160-assassins-creed-valhalla-collectors-edition.json) |
+| Assassin's Creed Valhalla: Complete Edition | 191960 | [191960-assassins-creed-valhalla-complete-edition.json](./191960-assassins-creed-valhalla-complete-edition.json) |
 | Assassin's Creed Valhalla: Deluxe Edition | 164835 | [164835-assassins-creed-valhalla-deluxe-edition.json](./164835-assassins-creed-valhalla-deluxe-edition.json) |
 | Assassin's Creed Valhalla: Forgotten Saga | 211296 | [211296-assassins-creed-valhalla-forgotten-saga.json](./211296-assassins-creed-valhalla-forgotten-saga.json) |
 | Assassin's Creed Valhalla: Limited Edition | 136108 | [136108-assassins-creed-valhalla-limited-edition.json](./136108-assassins-creed-valhalla-limited-edition.json) |
