@@ -2234,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Flash | 235242 | [235242-unreal-flash.json](./235242-unreal-flash.json) |
 | Unreal Flash 2007 | 234155 | [234155-unreal-flash-2007.json](./234155-unreal-flash-2007.json) |
 | Unreal Flash 3 | 234154 | [234154-unreal-flash-3.json](./234154-unreal-flash-3.json) |
+| Unreal Gold | 29116 | [29116-unreal-gold.json](./29116-unreal-gold.json) |
 | Unreal Golf | 154408 | [154408-unreal-golf.json](./154408-unreal-golf.json) |
 | Unreal Heroes | 31680 | [31680-unreal-heroes.json](./31680-unreal-heroes.json) |
 | Unreal II: eXpanded MultiPlayer | 100089 | [100089-unreal-ii-expanded-multiplayer.json](./100089-unreal-ii-expanded-multiplayer.json) |
@@ -2397,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until the Last Philomel | 399077 | [399077-until-the-last-philomel.json](./399077-until-the-last-philomel.json) |
 | Until the Last Plane 1942 | 278347 | [278347-until-the-last-plane-1942.json](./278347-until-the-last-plane-1942.json) |
 | Until the Night | 202734 | [202734-until-the-night.json](./202734-until-the-night.json) |
+| Until Then | 134165 | [134165-until-then.json](./134165-until-then.json) |
 | Until They Burn | 400949 | [400949-until-they-burn.json](./400949-until-they-burn.json) |
 | Until We Die | 127240 | [127240-until-we-die.json](./127240-until-we-die.json) |
 | Until You Return to the Earth | 339430 | [339430-until-you-return-to-the-earth.json](./339430-until-you-return-to-the-earth.json) |
