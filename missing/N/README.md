@@ -2667,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Leaf Traveler and Youth's Memories | 272708 | [272708-new-leaf-traveler-and-youths-memories.json](./272708-new-leaf-traveler-and-youths-memories.json) |
 | New Legend of Sword and Fairy | 77971 | [77971-new-legend-of-sword-and-fairy.json](./77971-new-legend-of-sword-and-fairy.json) |
 | New Legends | 18268 | [18268-new-legends.json](./18268-new-legends.json) |
+| New Lethes | 16993 | [16993-new-lethes.json](./16993-new-lethes.json) |
 | New Life | 311796 | [311796-new-life.json](./311796-new-life.json) |
 | New LovePlus | 92165 | [92165-new-loveplus.json](./92165-new-loveplus.json) |
 | New LovePlus: Manaka Complete Set | 89886 | [89886-new-loveplus-manaka-complete-set.json](./89886-new-loveplus-manaka-complete-set.json) |
@@ -3971,6 +3972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nil Action Metronome | 197034 | [197034-nil-action-metronome.json](./197034-nil-action-metronome.json) |
 | Nil Admirari no Tenbin: Irodori Nadeshiko | 136831 | [136831-nil-admirari-no-tenbin-irodori-nadeshiko.json](./136831-nil-admirari-no-tenbin-irodori-nadeshiko.json) |
 | Nil Admirari no Tenbin: Kuroyuri Enyoutan | 131906 | [131906-nil-admirari-no-tenbin-kuroyuri-enyoutan.json](./131906-nil-admirari-no-tenbin-kuroyuri-enyoutan.json) |
+| Nil Admirari no Tenbin: Teito Genwaku Kitan | 12640 | [12640-nil-admirari-no-tenbin-teito-genwaku-kitan.json](./12640-nil-admirari-no-tenbin-teito-genwaku-kitan.json) |
 | Nil Admirari no Tenbin: Twin Pack | 200560 | [200560-nil-admirari-no-tenbin-twin-pack.json](./200560-nil-admirari-no-tenbin-twin-pack.json) |
 | Nil-Ninjahtic: Ronin | 33435 | [33435-nil-ninjahtic-ronin.json](./33435-nil-ninjahtic-ronin.json) |
 | Nila Dhuma | 57184 | [57184-nila-dhuma.json](./57184-nila-dhuma.json) |
@@ -5368,6 +5370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norah's Song | 298655 | [298655-norahs-song.json](./298655-norahs-song.json) |
 | Norco | 129097 | [129097-norco.json](./129097-norco.json) |
 | Nord | 18949 | [18949-nord.json](./18949-nord.json) |
+| Nord and Bert Couldn't Make Head or Tail of It | 12619 | [12619-nord-and-bert-couldnt-make-head-or-tail-of-it.json](./12619-nord-and-bert-couldnt-make-head-or-tail-of-it.json) |
 | Nordenfelt | 33883 | [33883-nordenfelt.json](./33883-nordenfelt.json) |
 | Nordhold | 308349 | [308349-nordhold.json](./308349-nordhold.json) |
 | Nordic Adventure Bundle | 277720 | [277720-nordic-adventure-bundle.json](./277720-nordic-adventure-bundle.json) |
@@ -5422,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Normenhill: Chapter 1 - "Your New Look" | 340806 | [340806-normenhill-chapter-1-your-new-look.json](./340806-normenhill-chapter-1-your-new-look.json) |
 | Normy's Beach Babe-O-Rama | 45768 | [45768-normys-beach-babe-o-rama.json](./45768-normys-beach-babe-o-rama.json) |
 | Norn9 Lofn for Nintendo Switch | 136896 | [136896-norn9-lofn-for-nintendo-switch.json](./136896-norn9-lofn-for-nintendo-switch.json) |
+| Norn9: Act Tune | 12641 | [12641-norn9-act-tune.json](./12641-norn9-act-tune.json) |
 | Norn9: Last Era - Limited Edition | 249735 | [249735-norn9-last-era-limited-edition.json](./249735-norn9-last-era-limited-edition.json) |
 | Norn9: Var Commons | 21589 | [21589-norn9-var-commons.json](./21589-norn9-var-commons.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
