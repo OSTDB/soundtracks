@@ -8290,6 +8290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollback | 149366 | [149366-rollback.json](./149366-rollback.json) |
 | Rollbot | 351031 | [351031-rollbot.json](./351031-rollbot.json) |
 | Rollcage | 8332 | [8332-rollcage.json](./8332-rollcage.json) |
+| Rollcage: Limited Edition | 43736 | [43736-rollcage-limited-edition.json](./43736-rollcage-limited-edition.json) |
 | Rolldown | 228366 | [228366-rolldown.json](./228366-rolldown.json) |
 | Rolldown | 305979 | [305979-rolldown.json](./305979-rolldown.json) |
 | Rolled: A Pinball Nightmare | 305626 | [305626-rolled-a-pinball-nightmare.json](./305626-rolled-a-pinball-nightmare.json) |
