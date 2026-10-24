@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Action 4 Pack | 85749 | [85749-ultimate-action-4-pack.json](./85749-ultimate-action-4-pack.json) |
 | Ultimate Action Hero | 124708 | [124708-ultimate-action-hero.json](./124708-ultimate-action-hero.json) |
 | Ultimate Action Hero | 306364 | [306364-ultimate-action-hero.json](./306364-ultimate-action-hero.json) |
+| Ultimate Admiral: Age of Sail | 118323 | [118323-ultimate-admiral-age-of-sail.json](./118323-ultimate-admiral-age-of-sail.json) |
 | Ultimate Admiral: Dreadnoughts | 125374 | [125374-ultimate-admiral-dreadnoughts.json](./125374-ultimate-admiral-dreadnoughts.json) |
 | Ultimate ADOM: Caverns of Chaos | 110243 | [110243-ultimate-adom-caverns-of-chaos.json](./110243-ultimate-adom-caverns-of-chaos.json) |
 | Ultimate ADOM: Caverns of Chaos - Save the World Edition | 186876 | [186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json](./186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json) |
@@ -1932,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unity Heroes | 297635 | [297635-unity-heroes.json](./297635-unity-heroes.json) |
 | Unity Invaders | 173206 | [173206-unity-invaders.json](./173206-unity-invaders.json) |
 | Unity of Command | 22645 | [22645-unity-of-command.json](./22645-unity-of-command.json) |
+| Unity of Command II | 115667 | [115667-unity-of-command-ii.json](./115667-unity-of-command-ii.json) |
 | Unity of Command II: Barbarossa | 150609 | [150609-unity-of-command-ii-barbarossa.json](./150609-unity-of-command-ii-barbarossa.json) |
 | Unity of Command II: Blitzkrieg | 166052 | [166052-unity-of-command-ii-blitzkrieg.json](./166052-unity-of-command-ii-blitzkrieg.json) |
 | Unity of Command II: Desert Fox | 235798 | [235798-unity-of-command-ii-desert-fox.json](./235798-unity-of-command-ii-desert-fox.json) |
