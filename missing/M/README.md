@@ -3564,6 +3564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars | 91393 | [91393-mars.json](./91393-mars.json) |
 | Mars 2030 | 51519 | [51519-mars-2030.json](./51519-mars-2030.json) |
 | Mars 2055 | 208437 | [208437-mars-2055.json](./208437-mars-2055.json) |
+| Mars 2120 | 154293 | [154293-mars-2120.json](./154293-mars-2120.json) |
 | Mars 3D | 159197 | [159197-mars-3d.json](./159197-mars-3d.json) |
 | Mars Accident | 157477 | [157477-mars-accident.json](./157477-mars-accident.json) |
 | Mars Assault: 3D Shooter | 294849 | [294849-mars-assault-3d-shooter.json](./294849-mars-assault-3d-shooter.json) |
@@ -11714,6 +11715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Bonds of the Battlefield | 68079 | [68079-mobile-suit-gundam-bonds-of-the-battlefield.json](./68079-mobile-suit-gundam-bonds-of-the-battlefield.json) |
 | Mobile Suit Gundam: Char's Counterattack | 65381 | [65381-mobile-suit-gundam-chars-counterattack.json](./65381-mobile-suit-gundam-chars-counterattack.json) |
 | Mobile Suit Gundam: Climax U.C. | 68012 | [68012-mobile-suit-gundam-climax-u-c.json](./68012-mobile-suit-gundam-climax-u-c.json) |
+| Mobile Suit Gundam: Crossfire | 7376 | [7376-mobile-suit-gundam-crossfire.json](./7376-mobile-suit-gundam-crossfire.json) |
 | Mobile Suit Gundam: Desert Operation | 242522 | [242522-mobile-suit-gundam-desert-operation.json](./242522-mobile-suit-gundam-desert-operation.json) |
 | Mobile Suit Gundam: EX Revue | 37332 | [37332-mobile-suit-gundam-ex-revue.json](./37332-mobile-suit-gundam-ex-revue.json) |
 | Mobile Suit Gundam: Extreme Versus 2 - Infinite Boost | 355089 | [355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json](./355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json) |
@@ -14423,10 +14425,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross: Trial Extreme | 239472 | [239472-motocross-trial-extreme.json](./239472-motocross-trial-extreme.json) |
 | MotoGP | 175917 | [175917-motogp.json](./175917-motogp.json) |
 | MotoGP | 282659 | [282659-motogp.json](./282659-motogp.json) |
+| MotoGP '06 | 7078 | [7078-motogp-06.json](./7078-motogp-06.json) |
 | MotoGP '07 | 186046 | [186046-motogp-07.json](./186046-motogp-07.json) |
 | MotoGP '07 | 7079 | [7079-motogp-07.json](./7079-motogp-07.json) |
 | MotoGP '08 | 5022 | [5022-motogp-08.json](./5022-motogp-08.json) |
 | MotoGP '17 | 28133 | [28133-motogp-17.json](./28133-motogp-17.json) |
+| MotoGP 09/10 | 7080 | [7080-motogp-09-10.json](./7080-motogp-09-10.json) |
 | MotoGP 10/11 | 20439 | [20439-motogp-10-11.json](./20439-motogp-10-11.json) |
 | MotoGP 13 | 7450 | [7450-motogp-13.json](./7450-motogp-13.json) |
 | MotoGP 13 Compact | 147303 | [147303-motogp-13-compact.json](./147303-motogp-13-compact.json) |
