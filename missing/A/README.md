@@ -1249,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Vroom! | 123927 | [123927-a-vroom.json](./123927-a-vroom.json) |
 | A-Z | 390157 | [390157-a-z.json](./390157-a-z.json) |
 | A.A.U. Black Site | 357776 | [357776-a-a-u-black-site.json](./357776-a-a-u-black-site.json) |
+| A.B.Cop Air Bike | 39363 | [39363-a-b-cop-air-bike.json](./39363-a-b-cop-air-bike.json) |
 | A.C.E | 338346 | [338346-a-c-e.json](./338346-a-c-e.json) |
 | A.C.I.T. Soup | 406706 | [406706-a-c-i-t-soup.json](./406706-a-c-i-t-soup.json) |
 | A.D. 2044 | 93168 | [93168-a-d-2044.json](./93168-a-d-2044.json) |
@@ -6727,6 +6728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Gold Rush | 417689 | [417689-american-gold-rush.json](./417689-american-gold-rush.json) |
 | American Hero Unrated | 254415 | [254415-american-hero-unrated.json](./254415-american-hero-unrated.json) |
 | American Heroes BF 92 Extra Version | 267574 | [267574-american-heroes-bf-92-extra-version.json](./267574-american-heroes-bf-92-extra-version.json) |
+| American Horseshoes | 39376 | [39376-american-horseshoes.json](./39376-american-horseshoes.json) |
 | American Idol | 248734 | [248734-american-idol.json](./248734-american-idol.json) |
 | American Idol: The Search For A Superstar | 63636 | [63636-american-idol-the-search-for-a-superstar.json](./63636-american-idol-the-search-for-a-superstar.json) |
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
@@ -9545,6 +9547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arab Drift Cars 3 | 362967 | [362967-arab-drift-cars-3.json](./362967-arab-drift-cars-3.json) |
 | Arabel | 142140 | [142140-arabel.json](./142140-arabel.json) |
 | Arabian | 13682 | [13682-arabian.json](./13682-arabian.json) |
+| Arabian Fight | 39362 | [39362-arabian-fight.json](./39362-arabian-fight.json) |
 | Arabian Kid | 304245 | [304245-arabian-kid.json](./304245-arabian-kid.json) |
 | Arabian Magic | 13684 | [13684-arabian-magic.json](./13684-arabian-magic.json) |
 | Arabian Nights | 10861 | [10861-arabian-nights.json](./10861-arabian-nights.json) |
@@ -14087,6 +14090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avenger | 280325 | [280325-avenger.json](./280325-avenger.json) |
 | Avenger | 91358 | [91358-avenger.json](./91358-avenger.json) |
 | Avenger Sharks | 249027 | [249027-avenger-sharks.json](./249027-avenger-sharks.json) |
+| Avengers in Galactic Storm | 39361 | [39361-avengers-in-galactic-storm.json](./39361-avengers-in-galactic-storm.json) |
 | Avengers: Damage Control | 122760 | [122760-avengers-damage-control.json](./122760-avengers-damage-control.json) |
 | Avengers: Laptop Infantil | 297740 | [297740-avengers-laptop-infantil.json](./297740-avengers-laptop-infantil.json) |
 | AvengeXX | 118836 | [118836-avengexx.json](./118836-avengexx.json) |
