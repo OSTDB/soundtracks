@@ -6381,6 +6381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Funkys | 241268 | [241268-rise-of-the-funkys.json](./241268-rise-of-the-funkys.json) |
 | Rise of the Ghostdom | 210895 | [210895-rise-of-the-ghostdom.json](./210895-rise-of-the-ghostdom.json) |
 | Rise of the Gorecats | 390800 | [390800-rise-of-the-gorecats.json](./390800-rise-of-the-gorecats.json) |
+| Rise of the Guardians: The Video Game | 5124 | [5124-rise-of-the-guardians-the-video-game.json](./5124-rise-of-the-guardians-the-video-game.json) |
 | Rise of the High Elf King: A Legacy of Blood | 243515 | [243515-rise-of-the-high-elf-king-a-legacy-of-blood.json](./243515-rise-of-the-high-elf-king-a-legacy-of-blood.json) |
 | Rise of The Kasai | 21557 | [21557-rise-of-the-kasai.json](./21557-rise-of-the-kasai.json) |
 | Rise of the Merchants | 415289 | [415289-rise-of-the-merchants.json](./415289-rise-of-the-merchants.json) |
@@ -8005,6 +8006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
 | Rodea the Sky Soldier | 138792 | [138792-rodea-the-sky-soldier.json](./138792-rodea-the-sky-soldier.json) |
+| Rodea the Sky Soldier | 6872 | [6872-rodea-the-sky-soldier.json](./6872-rodea-the-sky-soldier.json) |
 | Rodea the Sky Soldier: Launch Day Edition | 89892 | [89892-rodea-the-sky-soldier-launch-day-edition.json](./89892-rodea-the-sky-soldier-launch-day-edition.json) |
 | Rodea: The Sky Soldier Limited Edition | 51188 | [51188-rodea-the-sky-soldier-limited-edition.json](./51188-rodea-the-sky-soldier-limited-edition.json) |
 | Rodent Company | 387587 | [387587-rodent-company.json](./387587-rodent-company.json) |
@@ -8879,6 +8881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooms | 388930 | [388930-rooms.json](./388930-rooms.json) |
 | Rooms of Dread | 232027 | [232027-rooms-of-dread.json](./232027-rooms-of-dread.json) |
 | Rooms: The Adventure of Anne & George | 110803 | [110803-rooms-the-adventure-of-anne-and-george.json](./110803-rooms-the-adventure-of-anne-and-george.json) |
+| Rooms: The Main Building | 5130 | [5130-rooms-the-main-building.json](./5130-rooms-the-main-building.json) |
 | Rooms: The Toymaker's Mansion | 193678 | [193678-rooms-the-toymakers-mansion.json](./193678-rooms-the-toymakers-mansion.json) |
 | Rooms: The Unsolvable Puzzle | 19018 | [19018-rooms-the-unsolvable-puzzle.json](./19018-rooms-the-unsolvable-puzzle.json) |
 | Roomscale Coaster | 29479 | [29479-roomscale-coaster.json](./29479-roomscale-coaster.json) |
