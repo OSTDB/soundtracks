@@ -1900,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majesty 2: Monster Kingdom | 19197 | [19197-majesty-2-monster-kingdom.json](./19197-majesty-2-monster-kingdom.json) |
 | Majesty 2: Pocket Kingdom | 66529 | [66529-majesty-2-pocket-kingdom.json](./66529-majesty-2-pocket-kingdom.json) |
 | Majesty 2: The Fantasy Kingdom Sim | 2043 | [2043-majesty-2-the-fantasy-kingdom-sim.json](./2043-majesty-2-the-fantasy-kingdom-sim.json) |
+| Majesty Gold HD | 24528 | [24528-majesty-gold-hd.json](./24528-majesty-gold-hd.json) |
 | Majesty: Northern Kingdom | 224015 | [224015-majesty-northern-kingdom.json](./224015-majesty-northern-kingdom.json) |
 | Majesty: The Fantasy Kingdom Sim | 781 | [781-majesty-the-fantasy-kingdom-sim.json](./781-majesty-the-fantasy-kingdom-sim.json) |
 | Majesty: The Northern Expansion | 19182 | [19182-majesty-the-northern-expansion.json](./19182-majesty-the-northern-expansion.json) |
@@ -1959,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Baseball 2K6 | 240488 | [240488-major-league-baseball-2k6.json](./240488-major-league-baseball-2k6.json) |
 | Major League Baseball 2K6 | 248539 | [248539-major-league-baseball-2k6.json](./248539-major-league-baseball-2k6.json) |
 | Major League Baseball 2K6 | 248540 | [248540-major-league-baseball-2k6.json](./248540-major-league-baseball-2k6.json) |
+| Major League Baseball 2K7 | 7063 | [7063-major-league-baseball-2k7.json](./7063-major-league-baseball-2k7.json) |
 | Major League Baseball 2K8 | 4989 | [4989-major-league-baseball-2k8.json](./4989-major-league-baseball-2k8.json) |
 | Major League Baseball 2K8: Fantasy All-Stars | 20781 | [20781-major-league-baseball-2k8-fantasy-all-stars.json](./20781-major-league-baseball-2k8-fantasy-all-stars.json) |
 | Major League Baseball 2K9 | 4990 | [4990-major-league-baseball-2k9.json](./4990-major-league-baseball-2k9.json) |
@@ -3535,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marooned | 209558 | [209558-marooned.json](./209558-marooned.json) |
 | Marooned 2: Secrets of the Akoni | 209557 | [209557-marooned-2-secrets-of-the-akoni.json](./209557-marooned-2-secrets-of-the-akoni.json) |
 | Marooned: Arcanus Island | 7445 | [7445-marooned-arcanus-island.json](./7445-marooned-arcanus-island.json) |
+| Marooners | 23993 | [23993-marooners.json](./23993-marooners.json) |
 | Maroxyn Drarea | 350786 | [350786-maroxyn-drarea.json](./350786-maroxyn-drarea.json) |
 | Marquee Candle | 350021 | [350021-marquee-candle.json](./350021-marquee-candle.json) |
 | Marrakech | 188890 | [188890-marrakech.json](./188890-marrakech.json) |
@@ -3685,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martial Masters | 39386 | [39386-martial-masters.json](./39386-martial-masters.json) |
 | Martial Tricks | 394133 | [394133-martial-tricks.json](./394133-martial-tricks.json) |
 | Martian Escape | 191117 | [191117-martian-escape.json](./191117-martian-escape.json) |
+| Martian Gothic: Unification | 24120 | [24120-martian-gothic-unification.json](./24120-martian-gothic-unification.json) |
 | Martian Law | 121987 | [121987-martian-law.json](./121987-martian-law.json) |
 | Martian Panic | 4996 | [4996-martian-panic.json](./4996-martian-panic.json) |
 | Martian Potato | 157041 | [157041-martian-potato.json](./157041-martian-potato.json) |
@@ -12989,6 +12993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
 | Monster Rancher 1 DX | 184782 | [184782-monster-rancher-1-dx.json](./184782-monster-rancher-1-dx.json) |
 | Monster Rancher 2 DX | 184783 | [184783-monster-rancher-2-dx.json](./184783-monster-rancher-2-dx.json) |
+| Monster Rancher Advance | 6511 | [6511-monster-rancher-advance.json](./6511-monster-rancher-advance.json) |
 | Monster Rancher Advance 2 | 6512 | [6512-monster-rancher-advance-2.json](./6512-monster-rancher-advance-2.json) |
 | Monster Rancher Battle Card GB | 104241 | [104241-monster-rancher-battle-card-gb.json](./104241-monster-rancher-battle-card-gb.json) |
 | Monster Rancher Explorer | 49860 | [49860-monster-rancher-explorer.json](./49860-monster-rancher-explorer.json) |
@@ -15536,6 +15541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muramasa: The Demon Blade | 2266 | [2266-muramasa-the-demon-blade.json](./2266-muramasa-the-demon-blade.json) |
 | Murasaki | 34678 | [34678-murasaki.json](./34678-murasaki.json) |
 | Murasaki Baby | 19926 | [19926-murasaki-baby.json](./19926-murasaki-baby.json) |
+| Murasaki Baby | 23228 | [23228-murasaki-baby.json](./23228-murasaki-baby.json) |
 | Murasaki Mist: Akara's Journey | 61043 | [61043-murasaki-mist-akaras-journey.json](./61043-murasaki-mist-akaras-journey.json) |
 | Murasaki no Honoo | 215190 | [215190-murasaki-no-honoo.json](./215190-murasaki-no-honoo.json) |
 | Murasaki Tsurugi | 114128 | [114128-murasaki-tsurugi.json](./114128-murasaki-tsurugi.json) |
