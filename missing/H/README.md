@@ -4888,6 +4888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic III: Armageddon's Blade | 365 | [365-heroes-of-might-and-magic-iii-armageddons-blade.json](./365-heroes-of-might-and-magic-iii-armageddons-blade.json) |
 | Heroes of Might and Magic III: Complete | 51820 | [51820-heroes-of-might-and-magic-iii-complete.json](./51820-heroes-of-might-and-magic-iii-complete.json) |
 | Heroes of Might and Magic III: The Shadow of Death | 366 | [366-heroes-of-might-and-magic-iii-the-shadow-of-death.json](./366-heroes-of-might-and-magic-iii-the-shadow-of-death.json) |
+| Heroes of Might and Magic IV: The Gathering Storm | 368 | [368-heroes-of-might-and-magic-iv-the-gathering-storm.json](./368-heroes-of-might-and-magic-iv-the-gathering-storm.json) |
 | Heroes of Might and Magic IV: Winds of War | 369 | [369-heroes-of-might-and-magic-iv-winds-of-war.json](./369-heroes-of-might-and-magic-iv-winds-of-war.json) |
 | Heroes of Might and Magic Online | 77230 | [77230-heroes-of-might-and-magic-online.json](./77230-heroes-of-might-and-magic-online.json) |
 | Heroes of Might and Magic V: Bundle | 154441 | [154441-heroes-of-might-and-magic-v-bundle.json](./154441-heroes-of-might-and-magic-v-bundle.json) |
@@ -6943,6 +6944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hogs of War | 8877 | [8877-hogs-of-war.json](./8877-hogs-of-war.json) |
 | Hogtie | 348335 | [348335-hogtie.json](./348335-hogtie.json) |
 | Hogvalord: The Ranch | 236389 | [236389-hogvalord-the-ranch.json](./236389-hogvalord-the-ranch.json) |
+| Hogwarts Legacy: Deluxe Edition | 214873 | [214873-hogwarts-legacy-deluxe-edition.json](./214873-hogwarts-legacy-deluxe-edition.json) |
 | Hogwarts Legacy: Digital Deluxe Edition | 214440 | [214440-hogwarts-legacy-digital-deluxe-edition.json](./214440-hogwarts-legacy-digital-deluxe-edition.json) |
 | Hogwarts Legacy: Onyx Hippogriff Mount | 304809 | [304809-hogwarts-legacy-onyx-hippogriff-mount.json](./304809-hogwarts-legacy-onyx-hippogriff-mount.json) |
 | Hogwash | 125386 | [125386-hogwash.json](./125386-hogwash.json) |
