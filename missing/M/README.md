@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Defense | 155571 | [155571-magic-defense.json](./155571-magic-defense.json) |
 | Magic Dodgeball: Homeless Edition | 361875 | [361875-magic-dodgeball-homeless-edition.json](./361875-magic-dodgeball-homeless-edition.json) |
 | Magic Duck | 287787 | [287787-magic-duck.json](./287787-magic-duck.json) |
+| Magic Duels | 17696 | [17696-magic-duels.json](./17696-magic-duels.json) |
 | Magic Dungeon Hero: Freedom or Death | 328102 | [328102-magic-dungeon-hero-freedom-or-death.json](./328102-magic-dungeon-hero-freedom-or-death.json) |
 | Magic Easter Escape | 315573 | [315573-magic-easter-escape.json](./315573-magic-easter-escape.json) |
 | Magic Emperor 1 | 148867 | [148867-magic-emperor-1.json](./148867-magic-emperor-1.json) |
@@ -1132,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Сity Detective: Secret Desire - Collector's Edition | 211641 | [211641-magic-ity-detective-secret-desire-collectors-edition.json](./211641-magic-ity-detective-secret-desire-collectors-edition.json) |
 | Magic: ManaStrike | 125270 | [125270-magic-manastrike.json](./125270-magic-manastrike.json) |
 | Magic: Puzzle Quest | 111748 | [111748-magic-puzzle-quest.json](./111748-magic-puzzle-quest.json) |
+| Magic: The Gathering | 12443 | [12443-magic-the-gathering.json](./12443-magic-the-gathering.json) |
 | Magic: The Gathering - Battlegrounds | 5907 | [5907-magic-the-gathering-battlegrounds.json](./5907-magic-the-gathering-battlegrounds.json) |
 | Magic: The Gathering - Duels of the Planeswalkers 2012: Deck Pack 1 | 362462 | [362462-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-1.json](./362462-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-1.json) |
 | Magic: The Gathering - Duels of the Planeswalkers 2012: Deck Pack 2 | 362463 | [362463-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-2.json](./362463-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-2.json) |
@@ -4689,6 +4691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matter | 299869 | [299869-matter.json](./299869-matter.json) |
 | Matter | 80601 | [80601-matter.json](./80601-matter.json) |
 | Matter of the Dreams | 119467 | [119467-matter-of-the-dreams.json](./119467-matter-of-the-dreams.json) |
+| Matterfall | 14364 | [14364-matterfall.json](./14364-matterfall.json) |
 | Matterhorn | 306001 | [306001-matterhorn.json](./306001-matterhorn.json) |
 | Matterhorn Mirka | 179540 | [179540-matterhorn-mirka.json](./179540-matterhorn-mirka.json) |
 | Matthew: Last Journey | 152808 | [152808-matthew-last-journey.json](./152808-matthew-last-journey.json) |
@@ -8521,6 +8524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Machines 64 Turbo | 8497 | [8497-micro-machines-64-turbo.json](./8497-micro-machines-64-turbo.json) |
 | Micro Machines Military | 8513 | [8513-micro-machines-military.json](./8513-micro-machines-military.json) |
 | Micro Machines Mobile | 111552 | [111552-micro-machines-mobile.json](./111552-micro-machines-mobile.json) |
+| Micro Machines V3 | 24413 | [24413-micro-machines-v3.json](./24413-micro-machines-v3.json) |
 | Micro Machines V3 | 249154 | [249154-micro-machines-v3.json](./249154-micro-machines-v3.json) |
 | Micro Machines V4 | 8512 | [8512-micro-machines-v4.json](./8512-micro-machines-v4.json) |
 | Micro Machines: Mini Challenge Mayhem | 253193 | [253193-micro-machines-mini-challenge-mayhem.json](./253193-micro-machines-mini-challenge-mayhem.json) |
@@ -8905,6 +8909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Middle School Zombie 2 | 297905 | [297905-middle-school-zombie-2.json](./297905-middle-school-zombie-2.json) |
 | Middle-earth: Shadow of Mordor - Game of the Year Edition | 25773 | [25773-middle-earth-shadow-of-mordor-game-of-the-year-edition.json](./25773-middle-earth-shadow-of-mordor-game-of-the-year-edition.json) |
 | Middle-earth: Shadow of Mordor - Lord of the Hunt | 53360 | [53360-middle-earth-shadow-of-mordor-lord-of-the-hunt.json](./53360-middle-earth-shadow-of-mordor-lord-of-the-hunt.json) |
+| Middle-earth: Shadow of Mordor - The Bright Lord | 21596 | [21596-middle-earth-shadow-of-mordor-the-bright-lord.json](./21596-middle-earth-shadow-of-mordor-the-bright-lord.json) |
 | Middle-earth: Shadow of Mordor - The Power of Shadow | 289015 | [289015-middle-earth-shadow-of-mordor-the-power-of-shadow.json](./289015-middle-earth-shadow-of-mordor-the-power-of-shadow.json) |
 | Middle-earth: Shadow of War - Definitive Edition | 106764 | [106764-middle-earth-shadow-of-war-definitive-edition.json](./106764-middle-earth-shadow-of-war-definitive-edition.json) |
 | Middle-earth: Shadow of War - Mithril Edition | 36986 | [36986-middle-earth-shadow-of-war-mithril-edition.json](./36986-middle-earth-shadow-of-war-mithril-edition.json) |
