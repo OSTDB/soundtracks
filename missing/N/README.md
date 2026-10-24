@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N2O | 226133 | [226133-n2o.json](./226133-n2o.json) |
 | N2O: Nitrous Oxide | 45094 | [45094-n2o-nitrous-oxide.json](./45094-n2o-nitrous-oxide.json) |
 | N3: Ninety-Nine Nights | 7094 | [7094-n3-ninety-nine-nights.json](./7094-n3-ninety-nine-nights.json) |
+| N3II: Ninety-Nine Nights | 7095 | [7095-n3ii-ninety-nine-nights.json](./7095-n3ii-ninety-nine-nights.json) |
 | N3Rally | 310204 | [310204-n3rally.json](./310204-n3rally.json) |
 | N64 SP Map Jam | 300421 | [300421-n64-sp-map-jam.json](./300421-n64-sp-map-jam.json) |
 | Na-Re: Great Chain of Being | 341358 | [341358-na-re-great-chain-of-being.json](./341358-na-re-great-chain-of-being.json) |
@@ -2738,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Star Soccer 2010 | 7678 | [7678-new-star-soccer-2010.json](./7678-new-star-soccer-2010.json) |
 | New Star Soccer 3 | 7680 | [7680-new-star-soccer-3.json](./7680-new-star-soccer-3.json) |
 | New Star Soccer 4 | 7679 | [7679-new-star-soccer-4.json](./7679-new-star-soccer-4.json) |
+| New Star Soccer 5 | 7673 | [7673-new-star-soccer-5.json](./7673-new-star-soccer-5.json) |
 | New Star Soccer G-Story | 108163 | [108163-new-star-soccer-g-story.json](./108163-new-star-soccer-g-story.json) |
 | New Star Soccer Manager | 109583 | [109583-new-star-soccer-manager.json](./109583-new-star-soccer-manager.json) |
 | New Star Tennis | 77108 | [77108-new-star-tennis.json](./77108-new-star-tennis.json) |
@@ -3086,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Street 2 | 4042 | [4042-nfl-street-2.json](./4042-nfl-street-2.json) |
 | NFL Street 2: Unleashed | 243016 | [243016-nfl-street-2-unleashed.json](./243016-nfl-street-2-unleashed.json) |
 | NFL Street 3 | 8266 | [8266-nfl-street-3.json](./8266-nfl-street-3.json) |
+| NFL Tour | 7118 | [7118-nfl-tour.json](./7118-nfl-tour.json) |
 | NFL Xtreme 2 | 43899 | [43899-nfl-xtreme-2.json](./43899-nfl-xtreme-2.json) |
 | NFL's Greatest: San Francisco vs. Dallas 1978-1993 | 46413 | [46413-nfls-greatest-san-francisco-vs-dallas-1978-1993.json](./46413-nfls-greatest-san-francisco-vs-dallas-1978-1993.json) |
 | NFT Museum | 231446 | [231446-nft-museum.json](./231446-nft-museum.json) |
@@ -5570,6 +5573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoSpellHero | 341486 | [341486-nospellhero.json](./341486-nospellhero.json) |
 | NostalDoom | 269559 | [269559-nostaldoom.json](./269559-nostaldoom.json) |
 | NosTale | 55220 | [55220-nostale.json](./55220-nostale.json) |
+| Nostalgia | 21904 | [21904-nostalgia.json](./21904-nostalgia.json) |
 | Nostalgia | 360584 | [360584-nostalgia.json](./360584-nostalgia.json) |
 | Nostalgia Ain't What It Used to Be | 269101 | [269101-nostalgia-aint-what-it-used-to-be.json](./269101-nostalgia-aint-what-it-used-to-be.json) |
 | Nostalgia Game Shop: Tidy Up | 414768 | [414768-nostalgia-game-shop-tidy-up.json](./414768-nostalgia-game-shop-tidy-up.json) |
