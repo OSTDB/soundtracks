@@ -17429,6 +17429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Tales: Master of Puppets | 187948 | [187948-mystery-tales-master-of-puppets.json](./187948-mystery-tales-master-of-puppets.json) |
 | Mystery Tales: Master of Puppets - Collector's Edition | 170200 | [170200-mystery-tales-master-of-puppets-collectors-edition.json](./170200-mystery-tales-master-of-puppets-collectors-edition.json) |
 | Mystery Tales: The House of Others | 181645 | [181645-mystery-tales-the-house-of-others.json](./181645-mystery-tales-the-house-of-others.json) |
+| Mystery Tales: The Lost Hope - Collector's Edition | 29499 | [29499-mystery-tales-the-lost-hope-collectors-edition.json](./29499-mystery-tales-the-lost-hope-collectors-edition.json) |
 | Mystery Tales: The Twilight World | 140239 | [140239-mystery-tales-the-twilight-world.json](./140239-mystery-tales-the-twilight-world.json) |
 | Mystery Tales: The Twilight World - Collector's Edition | 74994 | [74994-mystery-tales-the-twilight-world-collectors-edition.json](./74994-mystery-tales-the-twilight-world-collectors-edition.json) |
 | Mystery Tales: Til Death | 140240 | [140240-mystery-tales-til-death.json](./140240-mystery-tales-til-death.json) |
