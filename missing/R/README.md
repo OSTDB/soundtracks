@@ -2767,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReBlade: The Death Spiral | 387145 | [387145-reblade-the-death-spiral.json](./387145-reblade-the-death-spiral.json) |
 | Rebloom | 351101 | [351101-rebloom.json](./351101-rebloom.json) |
 | Rebolt | 360062 | [360062-rebolt.json](./360062-rebolt.json) |
+| Rebons | 68890 | [68890-rebons.json](./68890-rebons.json) |
 | Rebooker | 377415 | [377415-rebooker.json](./377415-rebooker.json) |
 | Reboot | 171611 | [171611-reboot.json](./171611-reboot.json) |
 | ReBoot | 219015 | [219015-reboot.json](./219015-reboot.json) |
@@ -7492,6 +7493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band 4: 30 Song Mega Pack | 82460 | [82460-rock-band-4-30-song-mega-pack.json](./82460-rock-band-4-30-song-mega-pack.json) |
 | Rock Band 4: 6th Anniversary Free DLC Pack | 365736 | [365736-rock-band-4-6th-anniversary-free-dlc-pack.json](./365736-rock-band-4-6th-anniversary-free-dlc-pack.json) |
 | Rock Band 4: Any Other Heart | 366816 | [366816-rock-band-4-any-other-heart.json](./366816-rock-band-4-any-other-heart.json) |
+| Rock Band 4: Rivals Bundle | 82421 | [82421-rock-band-4-rivals-bundle.json](./82421-rock-band-4-rivals-bundle.json) |
 | Rock Band 4: Rivals Expansion | 175664 | [175664-rock-band-4-rivals-expansion.json](./175664-rock-band-4-rivals-expansion.json) |
 | Rock Band 4: Who Am I? (What's My Name?) | 371863 | [371863-rock-band-4-who-am-i-whats-my-name.json](./371863-rock-band-4-who-am-i-whats-my-name.json) |
 | Rock Band Blitz | 2696 | [2696-rock-band-blitz.json](./2696-rock-band-blitz.json) |
@@ -8617,6 +8619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms | 14509 | [14509-romance-of-the-three-kingdoms.json](./14509-romance-of-the-three-kingdoms.json) |
 | Romance of the Three Kingdoms | 336965 | [336965-romance-of-the-three-kingdoms.json](./336965-romance-of-the-three-kingdoms.json) |
 | Romance of the Three Kingdoms | 392223 | [392223-romance-of-the-three-kingdoms.json](./392223-romance-of-the-three-kingdoms.json) |
+| Romance of the Three Kingdoms 11 with Power Up Kit | 82406 | [82406-romance-of-the-three-kingdoms-11-with-power-up-kit.json](./82406-romance-of-the-three-kingdoms-11-with-power-up-kit.json) |
 | Romance of the Three Kingdoms 8 Remake | 266723 | [266723-romance-of-the-three-kingdoms-8-remake.json](./266723-romance-of-the-three-kingdoms-8-remake.json) |
 | Romance of The Three Kingdoms 8 Remake: Digital Deluxe Edition | 317904 | [317904-romance-of-the-three-kingdoms-8-remake-digital-deluxe-edition.json](./317904-romance-of-the-three-kingdoms-8-remake-digital-deluxe-edition.json) |
 | Romance of the Three Kingdoms 8 Remake: Scenario "Tiger and Wolf Unleashed" | 336966 | [336966-romance-of-the-three-kingdoms-8-remake-scenario-tiger-and-wolf-unleashed.json](./336966-romance-of-the-three-kingdoms-8-remake-scenario-tiger-and-wolf-unleashed.json) |
@@ -8651,6 +8654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 4th Wave: The Battle for Wu | 164496 | [164496-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-4th-wave-the-battle-for-wu.json](./164496-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-4th-wave-the-battle-for-wu.json) |
 | Romance of the Three Kingdoms XIII with Power-Up Kit | 136703 | [136703-romance-of-the-three-kingdoms-xiii-with-power-up-kit.json](./136703-romance-of-the-three-kingdoms-xiii-with-power-up-kit.json) |
 | Romance of the Three Kingdoms XIII: Ancient Officers Officer Data Set | 164503 | [164503-romance-of-the-three-kingdoms-xiii-ancient-officers-officer-data-set.json](./164503-romance-of-the-three-kingdoms-xiii-ancient-officers-officer-data-set.json) |
+| Romance of the Three Kingdoms XIII: Fame and Strategy Expansion Pack Bundle | 82420 | [82420-romance-of-the-three-kingdoms-xiii-fame-and-strategy-expansion-pack-bundle.json](./82420-romance-of-the-three-kingdoms-xiii-fame-and-strategy-expansion-pack-bundle.json) |
 | Romance of the Three Kingdoms XIII: Hero Mode Additional Stage Set 3 | 225915 | [225915-romance-of-the-three-kingdoms-xiii-hero-mode-additional-stage-set-3.json](./225915-romance-of-the-three-kingdoms-xiii-hero-mode-additional-stage-set-3.json) |
 | Romance of the Three Kingdoms XIII: Scenario - A Yellow Sky | 164492 | [164492-romance-of-the-three-kingdoms-xiii-scenario-a-yellow-sky.json](./164492-romance-of-the-three-kingdoms-xiii-scenario-a-yellow-sky.json) |
 | Romance of the Three Kingdoms XIII: Scenario - Battle of Tong Gate & Event Set | 164490 | [164490-romance-of-the-three-kingdoms-xiii-scenario-battle-of-tong-gate-and-event-set.json](./164490-romance-of-the-three-kingdoms-xiii-scenario-battle-of-tong-gate-and-event-set.json) |
