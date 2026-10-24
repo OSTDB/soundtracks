@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zack & Wiki: Quest for Barbaros' Treasure | 2264 | [2264-zack-and-wiki-quest-for-barbaros-treasure.json](./2264-zack-and-wiki-quest-for-barbaros-treasure.json) |
 | Zack 2: Celestine's Map | 139640 | [139640-zack-2-celestines-map.json](./139640-zack-2-celestines-map.json) |
 | Zack Y | 109724 | [109724-zack-y.json](./109724-zack-y.json) |
+| Zack Zero | 7490 | [7490-zack-zero.json](./7490-zack-zero.json) |
 | Zack! | 106300 | [106300-zack.json](./106300-zack.json) |
 | Zackman | 385842 | [385842-zackman.json](./385842-zackman.json) |
 | Zad Maldan My Bloody Sacrifice | 219679 | [219679-zad-maldan-my-bloody-sacrifice.json](./219679-zad-maldan-my-bloody-sacrifice.json) |
@@ -1932,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zorro | 81431 | [81431-zorro.json](./81431-zorro.json) |
 | Zorro and Zedd | 272891 | [272891-zorro-and-zedd.json](./272891-zorro-and-zedd.json) |
 | Zorro: Quest for Justice | 60504 | [60504-zorro-quest-for-justice.json](./60504-zorro-quest-for-justice.json) |
+| Zorro: The Chronicles | 149763 | [149763-zorro-the-chronicles.json](./149763-zorro-the-chronicles.json) |
 | ZorroMoro | 119796 | [119796-zorromoro.json](./119796-zorromoro.json) |
 | Zorropa y La Torre de las Sombras | 265693 | [265693-zorropa-y-la-torre-de-las-sombras.json](./265693-zorropa-y-la-torre-de-las-sombras.json) |
 | Zorse | 328256 | [328256-zorse.json](./328256-zorse.json) |
