@@ -1734,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Wash | 323503 | [323503-car-wash.json](./323503-car-wash.json) |
 | Car Wash Simulator | 343750 | [343750-car-wash-simulator.json](./343750-car-wash-simulator.json) |
 | Car Wash TD: Tower Defense | 174070 | [174070-car-wash-td-tower-defense.json](./174070-car-wash-td-tower-defense.json) |
+| Car Washer: Summer of the Ninja | 35260 | [35260-car-washer-summer-of-the-ninja.json](./35260-car-washer-summer-of-the-ninja.json) |
 | Car-Toon Chaos | 298170 | [298170-car-toon-chaos.json](./298170-car-toon-chaos.json) |
 | Car! | 314670 | [314670-car.json](./314670-car.json) |
 | Car's Empire | 176218 | [176218-cars-empire.json](./176218-cars-empire.json) |
@@ -3732,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Brawlers | 82034 | [82034-cave-brawlers.json](./82034-cave-brawlers.json) |
 | Cave Chaos | 250612 | [250612-cave-chaos.json](./250612-cave-chaos.json) |
 | Cave Chaos 2 | 276105 | [276105-cave-chaos-2.json](./276105-cave-chaos-2.json) |
+| Cave Coaster | 35207 | [35207-cave-coaster.json](./35207-cave-coaster.json) |
 | Cave Command | 292609 | [292609-cave-command.json](./292609-cave-command.json) |
 | Cave Confectioner | 126987 | [126987-cave-confectioner.json](./126987-cave-confectioner.json) |
 | Cave Crave: Tham Luang Cave VR | 406192 | [406192-cave-crave-tham-luang-cave-vr.json](./406192-cave-crave-tham-luang-cave-vr.json) |
@@ -6675,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronoclasm Chronicles | 417652 | [417652-chronoclasm-chronicles.json](./417652-chronoclasm-chronicles.json) |
 | ChronoClock | 326765 | [326765-chronoclock.json](./326765-chronoclock.json) |
 | ChronoClone | 301280 | [301280-chronoclone.json](./301280-chronoclone.json) |
+| Chronoclysm | 35285 | [35285-chronoclysm.json](./35285-chronoclysm.json) |
 | ChronoCodex | 237053 | [237053-chronocodex.json](./237053-chronocodex.json) |
 | Chronodog: Earth Defender | 185067 | [185067-chronodog-earth-defender.json](./185067-chronodog-earth-defender.json) |
 | ChronoForge | 365311 | [365311-chronoforge.json](./365311-chronoforge.json) |
@@ -9317,6 +9320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Wrestling Manager 2026 | 384514 | [384514-college-wrestling-manager-2026.json](./384514-college-wrestling-manager-2026.json) |
 | Collide-a-Ball 2 | 123297 | [123297-collide-a-ball-2.json](./123297-collide-a-ball-2.json) |
 | Collider | 116268 | [116268-collider.json](./116268-collider.json) |
+| Collider | 35186 | [35186-collider.json](./35186-collider.json) |
 | Colliderscope | 109673 | [109673-colliderscope.json](./109673-colliderscope.json) |
 | Colliding Forces | 63543 | [63543-colliding-forces.json](./63543-colliding-forces.json) |
 | Collie Call: Farm of Tomorrow | 344964 | [344964-collie-call-farm-of-tomorrow.json](./344964-collie-call-farm-of-tomorrow.json) |
