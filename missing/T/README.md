@@ -3206,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchu 3 Portable | 134329 | [134329-tenchu-3-portable.json](./134329-tenchu-3-portable.json) |
 | Tenchu: Fatal Shadows | 19266 | [19266-tenchu-fatal-shadows.json](./19266-tenchu-fatal-shadows.json) |
 | Tenchu: Shadow Assassins | 5216 | [5216-tenchu-shadow-assassins.json](./5216-tenchu-shadow-assassins.json) |
+| Tenchu: Stealth Assassins | 4113 | [4113-tenchu-stealth-assassins.json](./4113-tenchu-stealth-assassins.json) |
 | Tenchu: Time Of The Assassins | 44512 | [44512-tenchu-time-of-the-assassins.json](./44512-tenchu-time-of-the-assassins.json) |
 | Tenchu: Wrath of Heaven | 6194 | [6194-tenchu-wrath-of-heaven.json](./6194-tenchu-wrath-of-heaven.json) |
 | Tender | 179112 | [179112-tender.json](./179112-tender.json) |
@@ -9340,6 +9341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters '96 Collection | 75462 | [75462-the-king-of-fighters-96-collection.json](./75462-the-king-of-fighters-96-collection.json) |
 | The King of Fighters '97 | 15428 | [15428-the-king-of-fighters-97.json](./15428-the-king-of-fighters-97.json) |
 | The King of Fighters '97 OL | 80566 | [80566-the-king-of-fighters-97-ol.json](./80566-the-king-of-fighters-97-ol.json) |
+| The King of Fighters '98 | 15429 | [15429-the-king-of-fighters-98.json](./15429-the-king-of-fighters-98.json) |
 | The King of Fighters '98: Special Edition | 75472 | [75472-the-king-of-fighters-98-special-edition.json](./75472-the-king-of-fighters-98-special-edition.json) |
 | The King of Fighters '98: Ultimate Match | 43643 | [43643-the-king-of-fighters-98-ultimate-match.json](./43643-the-king-of-fighters-98-ultimate-match.json) |
 | The King of Fighters '98: Ultimate Match Online | 80866 | [80866-the-king-of-fighters-98-ultimate-match-online.json](./80866-the-king-of-fighters-98-ultimate-match-online.json) |
@@ -10312,6 +10314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Shénqí de Màozi | 163217 | [163217-the-legend-of-zelda-shenqi-de-maozi.json](./163217-the-legend-of-zelda-shenqi-de-maozi.json) |
 | The Legend of Zelda: Skyward Sword - Collector's Edition | 45136 | [45136-the-legend-of-zelda-skyward-sword-collectors-edition.json](./45136-the-legend-of-zelda-skyward-sword-collectors-edition.json) |
 | The Legend of Zelda: Skyward Sword - Limited Edition Pack | 136162 | [136162-the-legend-of-zelda-skyward-sword-limited-edition-pack.json](./136162-the-legend-of-zelda-skyward-sword-limited-edition-pack.json) |
+| The Legend of Zelda: Skyward Sword HD | 143614 | [143614-the-legend-of-zelda-skyward-sword-hd.json](./143614-the-legend-of-zelda-skyward-sword-hd.json) |
 | The Legend of Zelda: Skyward Sword HD Randomizer | 331139 | [331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json](./331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json) |
 | The Legend of Zelda: Skyward Sword Randomizer | 241895 | [241895-the-legend-of-zelda-skyward-sword-randomizer.json](./241895-the-legend-of-zelda-skyward-sword-randomizer.json) |
 | The Legend of Zelda: Specter's Oculus | 323365 | [323365-the-legend-of-zelda-specters-oculus.json](./323365-the-legend-of-zelda-specters-oculus.json) |
@@ -26372,6 +26375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turok | 308368 | [308368-turok.json](./308368-turok.json) |
 | Turok 2 | 146729 | [146729-turok-2.json](./146729-turok-2.json) |
 | Turok 2 | 308370 | [308370-turok-2.json](./308370-turok-2.json) |
+| Turok 2: Seeds of Evil | 1326 | [1326-turok-2-seeds-of-evil.json](./1326-turok-2-seeds-of-evil.json) |
 | Turok 2: Seeds of Evil | 146696 | [146696-turok-2-seeds-of-evil.json](./146696-turok-2-seeds-of-evil.json) |
 | Turok 2: Seeds of Evil | 27508 | [27508-turok-2-seeds-of-evil.json](./27508-turok-2-seeds-of-evil.json) |
 | Turok 3: Shadow of Oblivion | 1328 | [1328-turok-3-shadow-of-oblivion.json](./1328-turok-3-shadow-of-oblivion.json) |
