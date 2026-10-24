@@ -6144,6 +6144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exogen VR Experience | 117049 | [117049-exogen-vr-experience.json](./117049-exogen-vr-experience.json) |
 | Exogenesis: The Erebus Cycle | 390518 | [390518-exogenesis-the-erebus-cycle.json](./390518-exogenesis-the-erebus-cycle.json) |
 | Exographer | 295106 | [295106-exographer.json](./295106-exographer.json) |
+| Exoide-Z | 41756 | [41756-exoide-z.json](./41756-exoide-z.json) |
 | Exojet + | 41546 | [41546-exojet.json](./41546-exojet.json) |
 | ExolonFX | 298956 | [298956-exolonfx.json](./298956-exolonfx.json) |
 | Exolotl: Zian | 251995 | [251995-exolotl-zian.json](./251995-exolotl-zian.json) |
