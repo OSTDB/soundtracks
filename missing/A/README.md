@@ -2931,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -11348,6 +11349,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow Flash | 46522 | [46522-arrow-flash.json](./46522-arrow-flash.json) |
 | Arrow Flick | 262463 | [262463-arrow-flick.json](./262463-arrow-flick.json) |
 | Arrow Match | 201987 | [201987-arrow-match.json](./201987-arrow-match.json) |
+| Arrow of Death: Part 1 | 24688 | [24688-arrow-of-death-part-1.json](./24688-arrow-of-death-part-1.json) |
+| Arrow of Death: Part 2 | 24692 | [24692-arrow-of-death-part-2.json](./24692-arrow-of-death-part-2.json) |
 | Arrow of Laputa | 227979 | [227979-arrow-of-laputa.json](./227979-arrow-of-laputa.json) |
 | Arrow of Laputa: Kage Nashi Sensei to Kiron no Fuuken | 59210 | [59210-arrow-of-laputa-kage-nashi-sensei-to-kiron-no-fuuken.json](./59210-arrow-of-laputa-kage-nashi-sensei-to-kiron-no-fuuken.json) |
 | Arrow Patterns | 267361 | [267361-arrow-patterns.json](./267361-arrow-patterns.json) |
@@ -13458,6 +13461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Mutant Fishcrows | 113424 | [113424-attack-of-the-mutant-fishcrows.json](./113424-attack-of-the-mutant-fishcrows.json) |
 | Attack of the Mutant Penguins | 40819 | [40819-attack-of-the-mutant-penguins.json](./40819-attack-of-the-mutant-penguins.json) |
 | Attack of the Petscii Robots | 159163 | [159163-attack-of-the-petscii-robots.json](./159163-attack-of-the-petscii-robots.json) |
+| Attack of the Phantom Karate Devils | 24707 | [24707-attack-of-the-phantom-karate-devils.json](./24707-attack-of-the-phantom-karate-devils.json) |
 | Attack of the Retro Bots | 118043 | [118043-attack-of-the-retro-bots.json](./118043-attack-of-the-retro-bots.json) |
 | Attack of the Saucerman | 4143 | [4143-attack-of-the-saucerman.json](./4143-attack-of-the-saucerman.json) |
 | Attack of the Silver Ball | 248598 | [248598-attack-of-the-silver-ball.json](./248598-attack-of-the-silver-ball.json) |
