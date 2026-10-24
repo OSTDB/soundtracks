@@ -2911,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken Bowl | 63782 | [63782-tekken-bowl.json](./63782-tekken-bowl.json) |
 | Tekken Card Challenge | 1248 | [1248-tekken-card-challenge.json](./1248-tekken-card-challenge.json) |
 | Tekken Card Tournament | 25073 | [25073-tekken-card-tournament.json](./25073-tekken-card-tournament.json) |
+| Tekken Hybrid | 21570 | [21570-tekken-hybrid.json](./21570-tekken-hybrid.json) |
 | Tekken Mobile | 54783 | [54783-tekken-mobile.json](./54783-tekken-mobile.json) |
 | Tekken Resolute | 63942 | [63942-tekken-resolute.json](./63942-tekken-resolute.json) |
 | Tekken Tag Tournament 2 | 1238 | [1238-tekken-tag-tournament-2.json](./1238-tekken-tag-tournament-2.json) |
@@ -6778,6 +6779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Diseases, and Casualties this year being 1632 | 279080 | [279080-the-diseases-and-casualties-this-year-being-1632.json](./279080-the-diseases-and-casualties-this-year-being-1632.json) |
 | The Disgraced Prince | 171842 | [171842-the-disgraced-prince.json](./171842-the-disgraced-prince.json) |
 | The Disgusting Slaughterman | 126312 | [126312-the-disgusting-slaughterman.json](./126312-the-disgusting-slaughterman.json) |
+| The Dishwasher: Dead Samurai | 21178 | [21178-the-dishwasher-dead-samurai.json](./21178-the-dishwasher-dead-samurai.json) |
 | The Dismal Silhouette | 282620 | [282620-the-dismal-silhouette.json](./282620-the-dismal-silhouette.json) |
 | The Disney Afternoon Collection | 27791 | [27791-the-disney-afternoon-collection.json](./27791-the-disney-afternoon-collection.json) |
 | The Disney Collection: Quackshot Starring Donald Duck & Castle of Illusion Starring Mickey Mouse | 45561 | [45561-the-disney-collection-quackshot-starring-donald-duck-and-castle-of-illusion-starring-mickey-mouse.json](./45561-the-disney-collection-quackshot-starring-donald-duck-and-castle-of-illusion-starring-mickey-mouse.json) |
@@ -9733,6 +9735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Guardian: Limited Edition | 405004 | [405004-the-last-guardian-limited-edition.json](./405004-the-last-guardian-limited-edition.json) |
 | The Last Guardian: Steelbook Edition | 38488 | [38488-the-last-guardian-steelbook-edition.json](./38488-the-last-guardian-steelbook-edition.json) |
 | The Last Guild | 342200 | [342200-the-last-guild.json](./342200-the-last-guild.json) |
+| The Last Guy | 21348 | [21348-the-last-guy.json](./21348-the-last-guy.json) |
 | The Last Hair | 236219 | [236219-the-last-hair.json](./236219-the-last-hair.json) |
 | The Last Haven | 127615 | [127615-the-last-haven.json](./127615-the-last-haven.json) |
 | The Last Haven | 381306 | [381306-the-last-haven.json](./381306-the-last-haven.json) |
@@ -15200,6 +15203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ward | 70348 | [70348-the-ward.json](./70348-the-ward.json) |
 | The Warden | 34149 | [34149-the-warden.json](./34149-the-warden.json) |
 | The Warden's Paradise | 289951 | [289951-the-wardens-paradise.json](./289951-the-wardens-paradise.json) |
+| The Wardrobe | 22818 | [22818-the-wardrobe.json](./22818-the-wardrobe.json) |
 | The Wardrobe: Even Better Edition | 119400 | [119400-the-wardrobe-even-better-edition.json](./119400-the-wardrobe-even-better-edition.json) |
 | The Warehouse | 288624 | [288624-the-warehouse.json](./288624-the-warehouse.json) |
 | The Warfare | 417488 | [417488-the-warfare.json](./417488-the-warfare.json) |
@@ -19187,6 +19191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Troopers Joint Ops: Zombie Edition | 201818 | [201818-tiny-troopers-joint-ops-zombie-edition.json](./201818-tiny-troopers-joint-ops-zombie-edition.json) |
 | Tiny Troopers: Global Ops - Digital Deluxe Bundle | 242677 | [242677-tiny-troopers-global-ops-digital-deluxe-bundle.json](./242677-tiny-troopers-global-ops-digital-deluxe-bundle.json) |
 | Tiny Troopers: Global Ops - Digital Deluxe Edition | 241358 | [241358-tiny-troopers-global-ops-digital-deluxe-edition.json](./241358-tiny-troopers-global-ops-digital-deluxe-edition.json) |
+| Tiny Troopers: Joint Ops | 21320 | [21320-tiny-troopers-joint-ops.json](./21320-tiny-troopers-joint-ops.json) |
 | Tiny Tycoons | 63671 | [63671-tiny-tycoons.json](./63671-tiny-tycoons.json) |
 | Tiny Utopia | 390175 | [390175-tiny-utopia.json](./390175-tiny-utopia.json) |
 | Tiny Vikings | 276813 | [276813-tiny-vikings.json](./276813-tiny-vikings.json) |
