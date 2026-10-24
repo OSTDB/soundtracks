@@ -3182,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Bass Fishing | 176136 | [176136-sea-bass-fishing.json](./176136-sea-bass-fishing.json) |
 | Sea Bass Fishing 2 | 299829 | [299829-sea-bass-fishing-2.json](./299829-sea-bass-fishing-2.json) |
 | Sea Battle | 134381 | [134381-sea-battle.json](./134381-sea-battle.json) |
+| Sea Battle | 5694 | [5694-sea-battle.json](./5694-sea-battle.json) |
 | Sea Battle | 86250 | [86250-sea-battle.json](./86250-sea-battle.json) |
 | Sea Battle 2 | 294535 | [294535-sea-battle-2.json](./294535-sea-battle-2.json) |
 | Sea Battle Minimal | 192947 | [192947-sea-battle-minimal.json](./192947-sea-battle-minimal.json) |
@@ -4633,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serafina's Crown | 33338 | [33338-serafinas-crown.json](./33338-serafinas-crown.json) |
 | Serafina's Saga: Awakened | 252012 | [252012-serafinas-saga-awakened.json](./252012-serafinas-saga-awakened.json) |
 | Serania: Path of the Scion | 258008 | [258008-serania-path-of-the-scion.json](./258008-serania-path-of-the-scion.json) |
+| Seraph | 18717 | [18717-seraph.json](./18717-seraph.json) |
 | Seraph of the End: The Origin of Fate | 13638 | [13638-seraph-of-the-end-the-origin-of-fate.json](./13638-seraph-of-the-end-the-origin-of-fate.json) |
 | Seraph: In the Darkness | 277875 | [277875-seraph-in-the-darkness.json](./277875-seraph-in-the-darkness.json) |
 | Seraphic Blue | 124552 | [124552-seraphic-blue.json](./124552-seraphic-blue.json) |
@@ -4717,6 +4719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam HD: The Second Encounter | 13181 | [13181-serious-sam-hd-the-second-encounter.json](./13181-serious-sam-hd-the-second-encounter.json) |
 | Serious Sam HD: The Second Encounter - Legend of the Beast | 170923 | [170923-serious-sam-hd-the-second-encounter-legend-of-the-beast.json](./170923-serious-sam-hd-the-second-encounter-legend-of-the-beast.json) |
 | Serious Sam II | 787 | [787-serious-sam-ii.json](./787-serious-sam-ii.json) |
+| Serious Sam VR: The Last Hope | 19543 | [19543-serious-sam-vr-the-last-hope.json](./19543-serious-sam-vr-the-last-hope.json) |
 | Serious Sam VR: The Second Encounter | 91116 | [91116-serious-sam-vr-the-second-encounter.json](./91116-serious-sam-vr-the-second-encounter.json) |
 | Serious Sam: Dark Island | 361920 | [361920-serious-sam-dark-island.json](./361920-serious-sam-dark-island.json) |
 | Serious Sam: GOG Collection | 205226 | [205226-serious-sam-gog-collection.json](./205226-serious-sam-gog-collection.json) |
@@ -8615,6 +8618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silmaris: Dice Kingdom | 133109 | [133109-silmaris-dice-kingdom.json](./133109-silmaris-dice-kingdom.json) |
 | Silo | 348224 | [348224-silo.json](./348224-silo.json) |
 | Silph Road | 104578 | [104578-silph-road.json](./104578-silph-road.json) |
+| Silpheed | 5437 | [5437-silpheed.json](./5437-silpheed.json) |
 | Silpheed | 65578 | [65578-silpheed.json](./65578-silpheed.json) |
 | Silpheed: The Lost Planet | 22009 | [22009-silpheed-the-lost-planet.json](./22009-silpheed-the-lost-planet.json) |
 | Silt | 152261 | [152261-silt.json](./152261-silt.json) |
@@ -15758,6 +15762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hat | 290685 | [290685-space-hat.json](./290685-space-hat.json) |
 | Space Hauler | 182800 | [182800-space-hauler.json](./182800-space-hauler.json) |
 | Space Haven | 103246 | [103246-space-haven.json](./103246-space-haven.json) |
+| Space Hawk | 5699 | [5699-space-hawk.json](./5699-space-hawk.json) |
 | Space Hawks | 13035 | [13035-space-hawks.json](./13035-space-hawks.json) |
 | Space Hero 50 | 174569 | [174569-space-hero-50.json](./174569-space-hero-50.json) |
 | Space Hero Line | 43518 | [43518-space-hero-line.json](./43518-space-hero-line.json) |
@@ -16108,6 +16113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space RPG 3 | 99407 | [99407-space-rpg-3.json](./99407-space-rpg-3.json) |
 | Space Run | 202768 | [202768-space-run.json](./202768-space-run.json) |
 | Space Run : Super Car Endless Game 2014 | 106730 | [106730-space-run-super-car-endless-game-2014.json](./106730-space-run-super-car-endless-game-2014.json) |
+| Space Run Galaxy | 19158 | [19158-space-run-galaxy.json](./19158-space-run-galaxy.json) |
 | Space Run: Adventure Above Sky | 256131 | [256131-space-run-adventure-above-sky.json](./256131-space-run-adventure-above-sky.json) |
 | Space Run: Fast and Safe Delivery | 7421 | [7421-space-run-fast-and-safe-delivery.json](./7421-space-run-fast-and-safe-delivery.json) |
 | Space Runaway | 236224 | [236224-space-runaway.json](./236224-space-runaway.json) |
@@ -18633,6 +18639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpyHunt | 330294 | [330294-spyhunt.json](./330294-spyhunt.json) |
 | SpyHunter | 248443 | [248443-spyhunter.json](./248443-spyhunter.json) |
 | SpyHunter | 4166 | [4166-spyhunter.json](./4166-spyhunter.json) |
+| SpyHunter 2 | 6152 | [6152-spyhunter-2.json](./6152-spyhunter-2.json) |
 | Spykebots | 113706 | [113706-spykebots.json](./113706-spykebots.json) |
 | SpyLeaks | 63057 | [63057-spyleaks.json](./63057-spyleaks.json) |
 | SpyLens: Sex in focus | 368622 | [368622-spylens-sex-in-focus.json](./368622-spylens-sex-in-focus.json) |
@@ -19736,6 +19743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: The Next Generation - The Transinium Challenge | 69214 | [69214-star-trek-the-next-generation-the-transinium-challenge.json](./69214-star-trek-the-next-generation-the-transinium-challenge.json) |
 | Star Trek: The Next Generation - Trivia | 131258 | [131258-star-trek-the-next-generation-trivia.json](./131258-star-trek-the-next-generation-trivia.json) |
 | Star Trek: The Rebel Universe | 15376 | [15376-star-trek-the-rebel-universe.json](./15376-star-trek-the-rebel-universe.json) |
+| Star Trek: Timelines | 19327 | [19327-star-trek-timelines.json](./19327-star-trek-timelines.json) |
 | Star Trek: Timelines - Steam Fleet Commander Pack | 162713 | [162713-star-trek-timelines-steam-fleet-commander-pack.json](./162713-star-trek-timelines-steam-fleet-commander-pack.json) |
 | Star Trek: Voyager - Across the Unknown | 362088 | [362088-star-trek-voyager-across-the-unknown.json](./362088-star-trek-voyager-across-the-unknown.json) |
 | Star Trek: Voyager - Across the Unknown: Deluxe DLC | 386561 | [386561-star-trek-voyager-across-the-unknown-deluxe-dlc.json](./386561-star-trek-voyager-across-the-unknown-deluxe-dlc.json) |
@@ -19864,6 +19872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Episode I - Racer | 154 | [154-star-wars-episode-i-racer.json](./154-star-wars-episode-i-racer.json) |
 | Star Wars: Episode I - Underwater Race to Theed | 198916 | [198916-star-wars-episode-i-underwater-race-to-theed.json](./198916-star-wars-episode-i-underwater-race-to-theed.json) |
 | Star Wars: Episode II - Anakin Skywalker’s Lightsaber Duel | 198917 | [198917-star-wars-episode-ii-anakin-skywalker-s-lightsaber-duel.json](./198917-star-wars-episode-ii-anakin-skywalker-s-lightsaber-duel.json) |
+| Star Wars: Episode II - Attack of the Clones | 18951 | [18951-star-wars-episode-ii-attack-of-the-clones.json](./18951-star-wars-episode-ii-attack-of-the-clones.json) |
 | Star Wars: Episode III - Revenge of the Sith | 166484 | [166484-star-wars-episode-iii-revenge-of-the-sith.json](./166484-star-wars-episode-iii-revenge-of-the-sith.json) |
 | Star Wars: Episode III - Revenge of the Sith | 167612 | [167612-star-wars-episode-iii-revenge-of-the-sith.json](./167612-star-wars-episode-iii-revenge-of-the-sith.json) |
 | Star Wars: Episode III - Revenge of the Sith | 6159 | [6159-star-wars-episode-iii-revenge-of-the-sith.json](./6159-star-wars-episode-iii-revenge-of-the-sith.json) |
