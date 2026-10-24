@@ -2604,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mansions of Madness: Altered Fates | 155415 | [155415-mansions-of-madness-altered-fates.json](./155415-mansions-of-madness-altered-fates.json) |
 | Mansions of Madness: Dark Reflections | 168929 | [168929-mansions-of-madness-dark-reflections.json](./168929-mansions-of-madness-dark-reflections.json) |
 | Mansions of Madness: What Lies Within | 168928 | [168928-mansions-of-madness-what-lies-within.json](./168928-mansions-of-madness-what-lies-within.json) |
+| Mantis Burn Racing | 24918 | [24918-mantis-burn-racing.json](./24918-mantis-burn-racing.json) |
 | Mantis Burn Racing: Battle Cars | 170307 | [170307-mantis-burn-racing-battle-cars.json](./170307-mantis-burn-racing-battle-cars.json) |
 | Mantis Burn Racing: Elite Class | 170305 | [170305-mantis-burn-racing-elite-class.json](./170305-mantis-burn-racing-elite-class.json) |
 | Mantis Burn Racing: Snowbound Pack | 170306 | [170306-mantis-burn-racing-snowbound-pack.json](./170306-mantis-burn-racing-snowbound-pack.json) |
@@ -4321,6 +4322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters '98: Harukanaru Augusta | 47744 | [47744-masters-98-harukanaru-augusta.json](./47744-masters-98-harukanaru-augusta.json) |
 | Masters & Heroes | 225586 | [225586-masters-and-heroes.json](./225586-masters-and-heroes.json) |
 | Masters of Albion | 314272 | [314272-masters-of-albion.json](./314272-masters-of-albion.json) |
+| Masters of Anima | 28286 | [28286-masters-of-anima.json](./28286-masters-of-anima.json) |
 | Masters of Cards | 322585 | [322585-masters-of-cards.json](./322585-masters-of-cards.json) |
 | Masters of Chaos | 268757 | [268757-masters-of-chaos.json](./268757-masters-of-chaos.json) |
 | Masters of Chess | 29180 | [29180-masters-of-chess.json](./29180-masters-of-chess.json) |
@@ -7733,6 +7735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Message Quest | 13665 | [13665-message-quest.json](./13665-message-quest.json) |
 | Messages From The Universe Graveyard | 304986 | [304986-messages-from-the-universe-graveyard.json](./304986-messages-from-the-universe-graveyard.json) |
 | Messenger | 370380 | [370380-messenger.json](./370380-messenger.json) |
+| Messiah | 9282 | [9282-messiah.json](./9282-messiah.json) |
 | Messiah: The Road of Conviction | 145602 | [145602-messiah-the-road-of-conviction.json](./145602-messiah-the-road-of-conviction.json) |
 | Messier111 | 169363 | [169363-messier111.json](./169363-messier111.json) |
 | Messticulous | 319935 | [319935-messticulous.json](./319935-messticulous.json) |
@@ -7848,6 +7851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear GB | 181868 | [181868-metal-gear-gb.json](./181868-metal-gear-gb.json) |
 | Metal Gear Noah | 107207 | [107207-metal-gear-noah.json](./107207-metal-gear-noah.json) |
 | Metal Gear Online | 269417 | [269417-metal-gear-online.json](./269417-metal-gear-online.json) |
+| Metal Gear Rising: Revengeance - Blade Wolf | 20111 | [20111-metal-gear-rising-revengeance-blade-wolf.json](./20111-metal-gear-rising-revengeance-blade-wolf.json) |
 | Metal Gear Rising: Revengeance - Limited Edition | 44557 | [44557-metal-gear-rising-revengeance-limited-edition.json](./44557-metal-gear-rising-revengeance-limited-edition.json) |
 | Metal Gear Rising: Revengeance - Special Edition | 136809 | [136809-metal-gear-rising-revengeance-special-edition.json](./136809-metal-gear-rising-revengeance-special-edition.json) |
 | Metal Gear Rising: Revengeance - Ultimate Edition | 99949 | [99949-metal-gear-rising-revengeance-ultimate-edition.json](./99949-metal-gear-rising-revengeance-ultimate-edition.json) |
@@ -11918,6 +11922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moero Crystal H | 121766 | [121766-moero-crystal-h.json](./121766-moero-crystal-h.json) |
 | Moero Downhill Night | 331458 | [331458-moero-downhill-night.json](./331458-moero-downhill-night.json) |
 | Moero Downhill Night 2 | 335720 | [335720-moero-downhill-night-2.json](./335720-moero-downhill-night-2.json) |
+| Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan 2 | 23095 | [23095-moero-nekketsu-rhythm-damashii-osu-tatakae-ouendan-2.json](./23095-moero-nekketsu-rhythm-damashii-osu-tatakae-ouendan-2.json) |
 | Moero! Power Dodge | 385559 | [385559-moero-power-dodge.json](./385559-moero-power-dodge.json) |
 | Moero!! Jaleco Collection | 49721 | [49721-moero-jaleco-collection.json](./49721-moero-jaleco-collection.json) |
 | Moero!! Nettou Yakyuu '88 | 59990 | [59990-moero-nettou-yakyuu-88.json](./59990-moero-nettou-yakyuu-88.json) |
@@ -12505,6 +12510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly Plus and Monopoly Madness | 182497 | [182497-monopoly-plus-and-monopoly-madness.json](./182497-monopoly-plus-and-monopoly-madness.json) |
 | Monopoly Plus: My Little Pony | 242953 | [242953-monopoly-plus-my-little-pony.json](./242953-monopoly-plus-my-little-pony.json) |
 | Monopoly Poker | 191623 | [191623-monopoly-poker.json](./191623-monopoly-poker.json) |
+| Monopoly Streets | 21574 | [21574-monopoly-streets.json](./21574-monopoly-streets.json) |
 | Monopoly Sudoku | 292005 | [292005-monopoly-sudoku.json](./292005-monopoly-sudoku.json) |
 | Monopoly Tycoon | 197249 | [197249-monopoly-tycoon.json](./197249-monopoly-tycoon.json) |
 | Monopoly Tycoon | 9710 | [9710-monopoly-tycoon.json](./9710-monopoly-tycoon.json) |
@@ -13895,6 +13901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 3 | 242252 | [242252-mortal-kombat-3.json](./242252-mortal-kombat-3.json) |
 | Mortal Kombat 4 | 200683 | [200683-mortal-kombat-4.json](./200683-mortal-kombat-4.json) |
 | Mortal Kombat Advance | 45156 | [45156-mortal-kombat-advance.json](./45156-mortal-kombat-advance.json) |
+| Mortal Kombat Arcade Kollection | 19832 | [19832-mortal-kombat-arcade-kollection.json](./19832-mortal-kombat-arcade-kollection.json) |
 | Mortal Kombat Gold | 45155 | [45155-mortal-kombat-gold.json](./45155-mortal-kombat-gold.json) |
 | Mortal Kombat HD Arcade Kollection | 44618 | [44618-mortal-kombat-hd-arcade-kollection.json](./44618-mortal-kombat-hd-arcade-kollection.json) |
 | Mortal Kombat II | 223018 | [223018-mortal-kombat-ii.json](./223018-mortal-kombat-ii.json) |
@@ -14482,6 +14489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorstorm Pacific Rift: Speed Expansion | 277233 | [277233-motorstorm-pacific-rift-speed-expansion.json](./277233-motorstorm-pacific-rift-speed-expansion.json) |
 | Motorstorm: 3D Rift | 74322 | [74322-motorstorm-3d-rift.json](./74322-motorstorm-3d-rift.json) |
 | MotorStorm: Apocalypse | 2555 | [2555-motorstorm-apocalypse.json](./2555-motorstorm-apocalypse.json) |
+| MotorStorm: Arctic Edge | 21104 | [21104-motorstorm-arctic-edge.json](./21104-motorstorm-arctic-edge.json) |
 | MotorStorm: Pacific Rift | 2554 | [2554-motorstorm-pacific-rift.json](./2554-motorstorm-pacific-rift.json) |
 | MotorStorm: Pacific Rift - Voodoo Signature Livery | 278294 | [278294-motorstorm-pacific-rift-voodoo-signature-livery.json](./278294-motorstorm-pacific-rift-voodoo-signature-livery.json) |
 | MotoRun | 166739 | [166739-motorun.json](./166739-motorun.json) |
@@ -15014,6 +15022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Mueller's Grand Experiment | 284894 | [284894-mr-muellers-grand-experiment.json](./284894-mr-muellers-grand-experiment.json) |
 | Mr. Mullet | 396424 | [396424-mr-mullet.json](./396424-mr-mullet.json) |
 | Mr. Nibbles Forever | 33372 | [33372-mr-nibbles-forever.json](./33372-mr-nibbles-forever.json) |
+| Mr. Nutz | 19782 | [19782-mr-nutz.json](./19782-mr-nutz.json) |
 | Mr. Nutz | 249142 | [249142-mr-nutz.json](./249142-mr-nutz.json) |
 | Mr. Nutz | 249143 | [249143-mr-nutz.json](./249143-mr-nutz.json) |
 | Mr. Nutz 2 | 45735 | [45735-mr-nutz-2.json](./45735-mr-nutz-2.json) |
