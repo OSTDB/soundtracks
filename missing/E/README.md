@@ -4914,7 +4914,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EternaMine | 224721 | [224721-eternamine.json](./224721-eternamine.json) |
 | Eternia: Chronicles of Meranthe | 215366 | [215366-eternia-chronicles-of-meranthe.json](./215366-eternia-chronicles-of-meranthe.json) |
 | Eternia: Pet Whisperer | 145970 | [145970-eternia-pet-whisperer.json](./145970-eternia-pet-whisperer.json) |
-| Eternights | 203367 | [203367-eternights.json](./203367-eternights.json) |
 | Eternis: Death Match | 298433 | [298433-eternis-death-match.json](./298433-eternis-death-match.json) |
 | Eternity | 276757 | [276757-eternity.json](./276757-eternity.json) |
 | Eternity | 313863 | [313863-eternity.json](./313863-eternity.json) |
