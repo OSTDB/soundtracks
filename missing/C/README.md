@@ -6531,6 +6531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma Quaternion | 146839 | [146839-chroma-quaternion.json](./146839-chroma-quaternion.json) |
 | Chroma Quaternion: Experience & RP x2 | 171029 | [171029-chroma-quaternion-experience-and-rp-x2.json](./171029-chroma-quaternion-experience-and-rp-x2.json) |
 | Chroma Quaternion: Experience x3 | 171030 | [171030-chroma-quaternion-experience-x3.json](./171030-chroma-quaternion-experience-x3.json) |
+| Chroma Squad | 9046 | [9046-chroma-squad.json](./9046-chroma-squad.json) |
 | Chroma Tower | 183778 | [183778-chroma-tower.json](./183778-chroma-tower.json) |
 | Chroma Ways | 72022 | [72022-chroma-ways.json](./72022-chroma-ways.json) |
 | Chroma Zero | 319356 | [319356-chroma-zero.json](./319356-chroma-zero.json) |
