@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadence | 317844 | [317844-cadence.json](./317844-cadence.json) |
 | Cadence Crisis | 301142 | [301142-cadence-crisis.json](./301142-cadence-crisis.json) |
 | Cadence Cuties | 245791 | [245791-cadence-cuties.json](./245791-cadence-cuties.json) |
+| Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda | 116419 | [116419-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda.json](./116419-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda.json) |
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Character Pack | 141706 | [141706-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-character-pack.json](./141706-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-character-pack.json) |
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Melody Pack | 235331 | [235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json](./235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json) |
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Octavo's Ode | 235330 | [235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json](./235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json) |
@@ -7089,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus Attractions | 12003 | [12003-circus-attractions.json](./12003-circus-attractions.json) |
 | Circus Baby's Diner | 194384 | [194384-circus-babys-diner.json](./194384-circus-babys-diner.json) |
 | Circus Caper | 48099 | [48099-circus-caper.json](./48099-circus-caper.json) |
+| Circus Charlie | 25692 | [25692-circus-charlie.json](./25692-circus-charlie.json) |
 | Circus Convoy | 376721 | [376721-circus-convoy.json](./376721-circus-convoy.json) |
 | Circus Empire | 21490 | [21490-circus-empire.json](./21490-circus-empire.json) |
 | Circus Games | 12004 | [12004-circus-games.json](./12004-circus-games.json) |
@@ -11196,6 +11198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control the Body | 287303 | [287303-control-the-body.json](./287303-control-the-body.json) |
 | Control: AWE | 122313 | [122313-control-awe.json](./122313-control-awe.json) |
 | Control: Expeditions | 298854 | [298854-control-expeditions.json](./298854-control-expeditions.json) |
+| Control: The Foundation | 122312 | [122312-control-the-foundation.json](./122312-control-the-foundation.json) |
 | Control: Ultimate Asia Limited Edition | 167088 | [167088-control-ultimate-asia-limited-edition.json](./167088-control-ultimate-asia-limited-edition.json) |
 | Control: Ultimate Edition | 136604 | [136604-control-ultimate-edition.json](./136604-control-ultimate-edition.json) |
 | Control: Ultimate Edition - Cloud Version | 140503 | [140503-control-ultimate-edition-cloud-version.json](./140503-control-ultimate-edition-cloud-version.json) |
