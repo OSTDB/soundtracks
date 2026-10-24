@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-24T09:05:10.547Z",
-  "total_missing": 255139,
+  "generated_at": "2026-10-24T09:08:45.195Z",
+  "total_missing": 255124,
   "games": [
     {
       "igdb_id": 191680,
@@ -134920,11 +134920,6 @@
       "igdb_id": 112477,
       "game_name": "Blueprint Word: Classroom",
       "file": "missing/B/112477-blueprint-word-classroom.json"
-    },
-    {
-      "igdb_id": 11415,
-      "game_name": "Blues and Bullets",
-      "file": "missing/B/11415-blues-and-bullets.json"
     },
     {
       "igdb_id": 3425,
@@ -276622,11 +276617,6 @@
       "file": "missing/D/294844-device-0101.json"
     },
     {
-      "igdb_id": 6279,
-      "game_name": "Device 6",
-      "file": "missing/D/6279-device-6.json"
-    },
-    {
       "igdb_id": 290862,
       "game_name": "Device Doctor Simulator 2024",
       "file": "missing/D/290862-device-doctor-simulator-2024.json"
@@ -277985,11 +277975,6 @@
       "igdb_id": 299726,
       "game_name": "Diablo IV: Loot Reborn",
       "file": "missing/D/299726-diablo-iv-loot-reborn.json"
-    },
-    {
-      "igdb_id": 381239,
-      "game_name": "Diablo IV: Lord of Hatred",
-      "file": "missing/D/381239-diablo-iv-lord-of-hatred.json"
     },
     {
       "igdb_id": 380541,
@@ -346677,11 +346662,6 @@
       "file": "missing/E/145970-eternia-pet-whisperer.json"
     },
     {
-      "igdb_id": 203367,
-      "game_name": "Eternights",
-      "file": "missing/E/203367-eternights.json"
-    },
-    {
       "igdb_id": 298433,
       "game_name": "Eternis: Death Match",
       "file": "missing/E/298433-eternis-death-match.json"
@@ -375865,11 +375845,6 @@
       "igdb_id": 215385,
       "game_name": "Final Fantasy IV: Unprecedented Crisis",
       "file": "missing/F/215385-final-fantasy-iv-unprecedented-crisis.json"
-    },
-    {
-      "igdb_id": 340349,
-      "game_name": "Final Fantasy IX",
-      "file": "missing/F/340349-final-fantasy-ix.json"
     },
     {
       "igdb_id": 400428,
@@ -531147,11 +531122,6 @@
       "file": "missing/I/110244-intruders.json"
     },
     {
-      "igdb_id": 6277,
-      "game_name": "Intrusion 2",
-      "file": "missing/I/6277-intrusion-2.json"
-    },
-    {
       "igdb_id": 223175,
       "game_name": "Intrusion of Alice",
       "file": "missing/I/223175-intrusion-of-alice.json"
@@ -560015,11 +559985,6 @@
       "igdb_id": 82366,
       "game_name": "Katharsis: The second act",
       "file": "missing/K/82366-katharsis-the-second-act.json"
-    },
-    {
-      "igdb_id": 322691,
-      "game_name": "Kathy Rain 2: Soothsayer",
-      "file": "missing/K/322691-kathy-rain-2-soothsayer.json"
     },
     {
       "igdb_id": 186517,
@@ -591160,11 +591125,6 @@
       "igdb_id": 110721,
       "game_name": "Legend of Dragon Labyrinth",
       "file": "missing/L/110721-legend-of-dragon-labyrinth.json"
-    },
-    {
-      "igdb_id": 7885,
-      "game_name": "Legend of Dungeon",
-      "file": "missing/L/7885-legend-of-dungeon.json"
     },
     {
       "igdb_id": 34394,
@@ -740637,11 +740597,6 @@
       "file": "missing/N/126978-nubarron-the-adventure-of-an-unlucky-gnome.json"
     },
     {
-      "igdb_id": 324225,
-      "game_name": "Nubby's Number Factory",
-      "file": "missing/N/324225-nubbys-number-factory.json"
-    },
-    {
       "igdb_id": 345019,
       "game_name": "NubiaPhobia",
       "file": "missing/N/345019-nubiaphobia.json"
@@ -808700,11 +808655,6 @@
       "igdb_id": 1537,
       "game_name": "Pocky & Rocky with Becky",
       "file": "missing/P/1537-pocky-and-rocky-with-becky.json"
-    },
-    {
-      "igdb_id": 341844,
-      "game_name": "Poco",
-      "file": "missing/P/341844-poco.json"
     },
     {
       "igdb_id": 177449,
@@ -877092,11 +877042,6 @@
       "file": "missing/R/7160-ridge-racer-6.json"
     },
     {
-      "igdb_id": 7441,
-      "game_name": "Ridge Racer 7",
-      "file": "missing/R/7441-ridge-racer-7.json"
-    },
-    {
       "igdb_id": 339264,
       "game_name": "Ridge Racer 8",
       "file": "missing/R/339264-ridge-racer-8.json"
@@ -902315,11 +902260,6 @@
       "igdb_id": 220493,
       "game_name": "Saga Cube",
       "file": "missing/S/220493-saga-cube.json"
-    },
-    {
-      "igdb_id": 11310,
-      "game_name": "SaGa Frontier",
-      "file": "missing/S/11310-saga-frontier.json"
     },
     {
       "igdb_id": 2353,
@@ -957077,11 +957017,6 @@
       "file": "missing/S/201612-small-worlds.json"
     },
     {
-      "igdb_id": 77730,
-      "game_name": "Smalland: Survive the Wilds",
-      "file": "missing/S/77730-smalland-survive-the-wilds.json"
-    },
-    {
       "igdb_id": 299752,
       "game_name": "Smalland: Survive the Wilds VR",
       "file": "missing/S/299752-smalland-survive-the-wilds-vr.json"
@@ -1008100,11 +1008035,6 @@
       "igdb_id": 94905,
       "game_name": "Sticky Balls",
       "file": "missing/S/94905-sticky-balls.json"
-    },
-    {
-      "igdb_id": 240514,
-      "game_name": "Sticky Business",
-      "file": "missing/S/240514-sticky-business.json"
     },
     {
       "igdb_id": 344159,
@@ -1092285,11 +1092215,6 @@
       "igdb_id": 141715,
       "game_name": "The king is gone",
       "file": "missing/T/141715-the-king-is-gone.json"
-    },
-    {
-      "igdb_id": 282826,
-      "game_name": "The King is Watching",
-      "file": "missing/T/282826-the-king-is-watching.json"
     },
     {
       "igdb_id": 366575,
