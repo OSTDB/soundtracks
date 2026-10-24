@@ -2982,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 3 | 1389 | [1389-dead-or-alive-3.json](./1389-dead-or-alive-3.json) |
 | Dead or Alive 3++ | 182485 | [182485-dead-or-alive-3.json](./182485-dead-or-alive-3.json) |
 | Dead or Alive 5 Last Round | 8211 | [8211-dead-or-alive-5-last-round.json](./8211-dead-or-alive-5-last-round.json) |
+| Dead or Alive 5 Last Round: Core Fighters | 82548 | [82548-dead-or-alive-5-last-round-core-fighters.json](./82548-dead-or-alive-5-last-round-core-fighters.json) |
 | Dead or Alive 5 Last Round: Core Fighters - Samurai Warriors Mashup Set | 225905 | [225905-dead-or-alive-5-last-round-core-fighters-samurai-warriors-mashup-set.json](./225905-dead-or-alive-5-last-round-core-fighters-samurai-warriors-mashup-set.json) |
 | Dead or Alive 5 Plus | 11725 | [11725-dead-or-alive-5-plus.json](./11725-dead-or-alive-5-plus.json) |
 | Dead or Alive 5 Ultimate: Core Fighters | 99957 | [99957-dead-or-alive-5-ultimate-core-fighters.json](./99957-dead-or-alive-5-ultimate-core-fighters.json) |
@@ -6766,6 +6767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dialshift | 417466 | [417466-dialshift.json](./417466-dialshift.json) |
 | Diam's | 280869 | [280869-diams.json](./280869-diams.json) |
 | Diamic Days | 413854 | [413854-diamic-days.json](./413854-diamic-days.json) |
+| Diamo XL | 68596 | [68596-diamo-xl.json](./68596-diamo-xl.json) |
 | Diamon Jones: Amulet of the World | 59921 | [59921-diamon-jones-amulet-of-the-world.json](./59921-diamon-jones-amulet-of-the-world.json) |
 | Diamond | 247022 | [247022-diamond.json](./247022-diamond.json) |
 | Diamond | 314304 | [314304-diamond.json](./314304-diamond.json) |
@@ -10457,6 +10459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God: Fantasy World of Magic | 186346 | [186346-doodle-god-fantasy-world-of-magic.json](./186346-doodle-god-fantasy-world-of-magic.json) |
 | Doodle God: Genesis Secrets | 99617 | [99617-doodle-god-genesis-secrets.json](./99617-doodle-god-genesis-secrets.json) |
 | Doodle God: Merge Evolution | 334699 | [334699-doodle-god-merge-evolution.json](./334699-doodle-god-merge-evolution.json) |
+| Doodle God: Ultimate Edition | 82384 | [82384-doodle-god-ultimate-edition.json](./82384-doodle-god-ultimate-edition.json) |
 | Doodle Harmony | 267284 | [267284-doodle-harmony.json](./267284-doodle-harmony.json) |
 | Doodle Harmony Idle Merge | 303487 | [303487-doodle-harmony-idle-merge.json](./303487-doodle-harmony-idle-merge.json) |
 | Doodle Hex | 21475 | [21475-doodle-hex.json](./21475-doodle-hex.json) |
