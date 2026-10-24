@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenopathy | 183043 | [183043-xenopathy.json](./183043-xenopathy.json) |
 | Xenophage | 35508 | [35508-xenophage.json](./35508-xenophage.json) |
 | Xenophage: Alien BloodSport | 47105 | [47105-xenophage-alien-bloodsport.json](./47105-xenophage-alien-bloodsport.json) |
+| Xenophobe | 12245 | [12245-xenophobe.json](./12245-xenophobe.json) |
 | Xenophobe | 290276 | [290276-xenophobe.json](./290276-xenophobe.json) |
 | Xenopurge | 345292 | [345292-xenopurge.json](./345292-xenopurge.json) |
 | XenoRaptor | 17355 | [17355-xenoraptor.json](./17355-xenoraptor.json) |
