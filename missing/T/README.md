@@ -4669,6 +4669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Agency: Chapter 2 | 87939 | [87939-the-agency-chapter-2.json](./87939-the-agency-chapter-2.json) |
 | The Agent | 91767 | [91767-the-agent.json](./91767-the-agent.json) |
 | The Agent Saga: Rover Rescue | 54434 | [54434-the-agent-saga-rover-rescue.json](./54434-the-agent-saga-rover-rescue.json) |
+| The Agony | 30028 | [30028-the-agony.json](./30028-the-agony.json) |
 | The Ai Games | 286767 | [286767-the-ai-games.json](./286767-the-ai-games.json) |
 | The Airflow Trials | 347363 | [347363-the-airflow-trials.json](./347363-the-airflow-trials.json) |
 | The Airline Project | 52525 | [52525-the-airline-project.json](./52525-the-airline-project.json) |
@@ -7553,6 +7554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Famous Five: Kidnapped | 13772 | [13772-the-famous-five-kidnapped.json](./13772-the-famous-five-kidnapped.json) |
 | The Famous Five: Silver Tower | 13771 | [13771-the-famous-five-silver-tower.json](./13771-the-famous-five-silver-tower.json) |
 | The Famous Five: Treasure Island | 13770 | [13770-the-famous-five-treasure-island.json](./13770-the-famous-five-treasure-island.json) |
+| The Fan | 30114 | [30114-the-fan.json](./30114-the-fan.json) |
 | The Fan Game - Ghostbusters and The Secret of Monkey Island | 394785 | [394785-the-fan-game-ghostbusters-and-the-secret-of-monkey-island.json](./394785-the-fan-game-ghostbusters-and-the-secret-of-monkey-island.json) |
 | The Fan Game: Back to the Future - Part III: Timeline of Monkey Island | 279213 | [279213-the-fan-game-back-to-the-future-part-iii-timeline-of-monkey-island.json](./279213-the-fan-game-back-to-the-future-part-iii-timeline-of-monkey-island.json) |
 | The Fanciful Chronicle | 297833 | [297833-the-fanciful-chronicle.json](./297833-the-fanciful-chronicle.json) |
@@ -12036,6 +12038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Passenger | 266393 | [266393-the-passenger.json](./266393-the-passenger.json) |
 | The Past | 236225 | [236225-the-past.json](./236225-the-past.json) |
 | The Past Rhapsody | 211056 | [211056-the-past-rhapsody.json](./211056-the-past-rhapsody.json) |
+| The Pasture | 30017 | [30017-the-pasture.json](./30017-the-pasture.json) |
 | The Patashnik Parable | 176434 | [176434-the-patashnik-parable.json](./176434-the-patashnik-parable.json) |
 | The Path | 10199 | [10199-the-path.json](./10199-the-path.json) |
 | The Path of Blades | 367484 | [367484-the-path-of-blades.json](./367484-the-path-of-blades.json) |
@@ -19470,6 +19473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanfall 3 | 77418 | [77418-titanfall-3.json](./77418-titanfall-3.json) |
 | Titanfall Frontline | 26790 | [26790-titanfall-frontline.json](./26790-titanfall-frontline.json) |
 | Titanfall Frontline | 400292 | [400292-titanfall-frontline.json](./400292-titanfall-frontline.json) |
+| Titanfall: Assault | 28443 | [28443-titanfall-assault.json](./28443-titanfall-assault.json) |
 | Titanfall: Deluxe Edition | 83876 | [83876-titanfall-deluxe-edition.json](./83876-titanfall-deluxe-edition.json) |
 | Titanfall: Expedition | 21647 | [21647-titanfall-expedition.json](./21647-titanfall-expedition.json) |
 | Titanfall: Frontier's Edge | 21649 | [21649-titanfall-frontiers-edge.json](./21649-titanfall-frontiers-edge.json) |
@@ -27306,6 +27310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyko's Dying Together | 279245 | [279245-tykos-dying-together.json](./279245-tykos-dying-together.json) |
 | Tyler | 34770 | [34770-tyler.json](./34770-tyler.json) |
 | Tyler Tactics | 236953 | [236953-tyler-tactics.json](./236953-tyler-tactics.json) |
+| Tyler: Model 005 | 29943 | [29943-tyler-model-005.json](./29943-tyler-model-005.json) |
 | Tyler's White Lie | 339465 | [339465-tylers-white-lie.json](./339465-tylers-white-lie.json) |
 | Tynk! and the Final Phonorecord | 194610 | [194610-tynk-and-the-final-phonorecord.json](./194610-tynk-and-the-final-phonorecord.json) |
 | Type | 95255 | [95255-type.json](./95255-type.json) |
