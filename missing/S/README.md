@@ -2057,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SBK16 Official Mobile Game | 175667 | [175667-sbk16-official-mobile-game.json](./175667-sbk16-official-mobile-game.json) |
 | Sblobber 64 | 145456 | [145456-sblobber-64.json](./145456-sblobber-64.json) |
 | SBX 5K | 132214 | [132214-sbx-5k.json](./132214-sbx-5k.json) |
+| SBX: Invasion | 35180 | [35180-sbx-invasion.json](./35180-sbx-invasion.json) |
 | SC Cat Games Bundle | 331511 | [331511-sc-cat-games-bundle.json](./331511-sc-cat-games-bundle.json) |
 | SC Games Triple Bundle | 331514 | [331514-sc-games-triple-bundle.json](./331514-sc-games-triple-bundle.json) |
 | SC Triple Cat Games Bundle | 333689 | [333689-sc-triple-cat-games-bundle.json](./333689-sc-triple-cat-games-bundle.json) |
@@ -7489,6 +7490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShortStacked | 183958 | [183958-shortstacked.json](./183958-shortstacked.json) |
 | Shot & Dread Online | 293214 | [293214-shot-and-dread-online.json](./293214-shot-and-dread-online.json) |
 | Shot Dawn | 197355 | [197355-shot-dawn.json](./197355-shot-dawn.json) |
+| Shot in the Dark | 35162 | [35162-shot-in-the-dark.json](./35162-shot-in-the-dark.json) |
 | Shot of Rhythm | 156703 | [156703-shot-of-rhythm.json](./156703-shot-of-rhythm.json) |
 | Shot One | 130767 | [130767-shot-one.json](./130767-shot-one.json) |
 | Shot One Fighters | 399869 | [399869-shot-one-fighters.json](./399869-shot-one-fighters.json) |
@@ -11964,6 +11966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snares of Ruin Zero | 112352 | [112352-snares-of-ruin-zero.json](./112352-snares-of-ruin-zero.json) |
 | Snarewaves' Shooting Challenge | 329162 | [329162-snarewaves-shooting-challenge.json](./329162-snarewaves-shooting-challenge.json) |
 | Snarf | 94686 | [94686-snarf.json](./94686-snarf.json) |
+| SnarfQuest Tales | 35199 | [35199-snarfquest-tales.json](./35199-snarfquest-tales.json) |
 | SnarfQuest Tales, Episode 1: The Beginning | 32689 | [32689-snarfquest-tales-episode-1-the-beginning.json](./32689-snarfquest-tales-episode-1-the-beginning.json) |
 | Snark Busters Trilogy | 53639 | [53639-snark-busters-trilogy.json](./53639-snark-busters-trilogy.json) |
 | Snark Busters: All Revved Up | 96592 | [96592-snark-busters-all-revved-up.json](./96592-snark-busters-all-revved-up.json) |
@@ -15173,6 +15176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soviet Bear Uni Adventure | 125094 | [125094-soviet-bear-uni-adventure.json](./125094-soviet-bear-uni-adventure.json) |
 | Soviet Challenge: Javelin 1980 | 174329 | [174329-soviet-challenge-javelin-1980.json](./174329-soviet-challenge-javelin-1980.json) |
 | Soviet Lunapark VR | 97018 | [97018-soviet-lunapark-vr.json](./97018-soviet-lunapark-vr.json) |
+| Soviet Monsters: Ekranoplans | 35193 | [35193-soviet-monsters-ekranoplans.json](./35193-soviet-monsters-ekranoplans.json) |
 | Soviet Souls | 118329 | [118329-soviet-souls.json](./118329-soviet-souls.json) |
 | Soviet Union 2010 | 267567 | [267567-soviet-union-2010.json](./267567-soviet-union-2010.json) |
 | Soviet Union 2011 | 404414 | [404414-soviet-union-2011.json](./404414-soviet-union-2011.json) |
