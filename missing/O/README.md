@@ -3126,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbox C | 30786 | [30786-orbox-c.json](./30786-orbox-c.json) |
 | OrbQuest: The Search for Seven Wards | 140450 | [140450-orbquest-the-search-for-seven-wards.json](./140450-orbquest-the-search-for-seven-wards.json) |
 | OrbRider | 243525 | [243525-orbrider.json](./243525-orbrider.json) |
+| Orbs | 43089 | [43089-orbs.json](./43089-orbs.json) |
 | Orbs Match | 88157 | [88157-orbs-match.json](./88157-orbs-match.json) |
 | Orbs of Duality | 349114 | [349114-orbs-of-duality.json](./349114-orbs-of-duality.json) |
 | Orbs Orbs Orbs | 342160 | [342160-orbs-orbs-orbs.json](./342160-orbs-orbs-orbs.json) |
@@ -4755,6 +4756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ozark | 151045 | [151045-ozark.json](./151045-ozark.json) |
 | Ozeki Thrust | 92632 | [92632-ozeki-thrust.json](./92632-ozeki-thrust.json) |
 | Ozera | 401932 | [401932-ozera.json](./401932-ozera.json) |
+| OzGrind Virtual Reality Showroom | 43065 | [43065-ozgrind-virtual-reality-showroom.json](./43065-ozgrind-virtual-reality-showroom.json) |
 | Ozma Wars | 40069 | [40069-ozma-wars.json](./40069-ozma-wars.json) |
 | Ozmafia!! | 21061 | [21061-ozmafia.json](./21061-ozmafia.json) |
 | Ozmafia!! 0 Reflexion | 254574 | [254574-ozmafia-0-reflexion.json](./254574-ozmafia-0-reflexion.json) |
