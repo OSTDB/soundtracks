@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-24T08:41:08.327Z",
-  "total_soundtracks": 2547,
+  "generated_at": "2026-10-24T08:56:08.801Z",
+  "total_soundtracks": 2550,
   "games": [
     {
       "igdb_id": 7522,
@@ -2506,6 +2506,20 @@
           "album_name": "Bastion Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/2r4a3PREYIRF2QdbcPnrEO",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 3796,
+      "game_name": "Baten Kaitos Origins",
+      "game_url": "https://ostdb.net/games/baten-kaitos-origins",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c6f19397c00ab5002cc91169",
+      "albums": [
+        {
+          "album_name": "Baten Kaitos Origins - Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2F6DuzELqJ2dyHVHo57kWc",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -10588,6 +10602,20 @@
           "album_name": "Gears of War 4 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6w8Vd1h9utHK0DvBWbBV0C",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 305160,
+      "game_name": "Gears of War: E-Day",
+      "game_url": "https://ostdb.net/games/gears-of-war-e-day",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cd51a74931a8f48ecb716ba2",
+      "albums": [
+        {
+          "album_name": "Gears of War: E-Day (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0uMISbPUDEQEfWpeeEvTKl",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -30815,6 +30843,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/wildgate-original-game-soundtrack/1834323015?uo=4",
           "album_link_url": "https://album.link/i/1834323015"
+        }
+      ]
+    },
+    {
+      "igdb_id": 314421,
+      "game_name": "Will: Follow the Light",
+      "game_url": "https://ostdb.net/games/will-follow-the-light",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f8e597afa4708fb3c02dda60",
+      "albums": [
+        {
+          "album_name": "WILL: Follow the Light (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0H4P5hrvaTONKH5Jv6nr3M",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
