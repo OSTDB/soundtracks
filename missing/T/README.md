@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Manager | 86220 | [86220-tactical-manager.json](./86220-tactical-manager.json) |
 | Tactical Manager 2 | 182351 | [182351-tactical-manager-2.json](./182351-tactical-manager-2.json) |
 | Tactical Manager 2 | 70211 | [70211-tactical-manager-2.json](./70211-tactical-manager-2.json) |
+| Tactical Manager 2006 | 25454 | [25454-tactical-manager-2006.json](./25454-tactical-manager-2006.json) |
 | Tactical Manager 3 | 182377 | [182377-tactical-manager-3.json](./182377-tactical-manager-3.json) |
 | Tactical Manager Italia | 182376 | [182376-tactical-manager-italia.json](./182376-tactical-manager-italia.json) |
 | Tactical Mind | 82788 | [82788-tactical-mind.json](./82788-tactical-mind.json) |
@@ -935,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Agaris: The Legendary Rion | 225102 | [225102-tales-of-agaris-the-legendary-rion.json](./225102-tales-of-agaris-the-legendary-rion.json) |
 | Tales of Ancient Nights | 114334 | [114334-tales-of-ancient-nights.json](./114334-tales-of-ancient-nights.json) |
 | Tales of Androgyny | 235248 | [235248-tales-of-androgyny.json](./235248-tales-of-androgyny.json) |
+| Tales of Another Galaxy | 25421 | [25421-tales-of-another-galaxy.json](./25421-tales-of-another-galaxy.json) |
 | Tales of Anturia: Hejstos | 270513 | [270513-tales-of-anturia-hejstos.json](./270513-tales-of-anturia-hejstos.json) |
 | Tales of Aradia: Idle RPG | 358457 | [358457-tales-of-aradia-idle-rpg.json](./358457-tales-of-aradia-idle-rpg.json) |
 | Tales Of Aravorn: Reign Of War | 293832 | [293832-tales-of-aravorn-reign-of-war.json](./293832-tales-of-aravorn-reign-of-war.json) |
@@ -11380,7 +11382,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -25301,6 +25302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 4: Quick-Dry-Cement | 53844 | [53844-tropico-4-quick-dry-cement.json](./53844-tropico-4-quick-dry-cement.json) |
 | Tropico 4: The Academy | 25527 | [25527-tropico-4-the-academy.json](./25527-tropico-4-the-academy.json) |
 | Tropico 4: Vigilante | 53843 | [53843-tropico-4-vigilante.json](./53843-tropico-4-vigilante.json) |
+| Tropico 4: Voodoo | 25449 | [25449-tropico-4-voodoo.json](./25449-tropico-4-voodoo.json) |
 | Tropico 5: Complete Collection | 35253 | [35253-tropico-5-complete-collection.json](./35253-tropico-5-complete-collection.json) |
 | Tropico 5: DLC Bundle | 227319 | [227319-tropico-5-dlc-bundle.json](./227319-tropico-5-dlc-bundle.json) |
 | Tropico 5: Epic Meltdown | 75687 | [75687-tropico-5-epic-meltdown.json](./75687-tropico-5-epic-meltdown.json) |
