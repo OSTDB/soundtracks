@@ -8998,6 +8998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Puppeteer | 108881 | [108881-midnight-puppeteer.json](./108881-midnight-puppeteer.json) |
 | Midnight Racer | 290523 | [290523-midnight-racer.json](./290523-midnight-racer.json) |
 | Midnight Racing | 54203 | [54203-midnight-racing.json](./54203-midnight-racing.json) |
+| Midnight Racing: Long Night | 25414 | [25414-midnight-racing-long-night.json](./25414-midnight-racing-long-night.json) |
 | Midnight Raider | 272472 | [272472-midnight-raider.json](./272472-midnight-raider.json) |
 | Midnight Raiders | 19743 | [19743-midnight-raiders.json](./19743-midnight-raiders.json) |
 | Midnight Ramen | 273456 | [273456-midnight-ramen.json](./273456-midnight-ramen.json) |
@@ -10921,9 +10922,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Bullet | 362016 | [362016-miss-bullet.json](./362016-miss-bullet.json) |
 | Miss Cat | 118037 | [118037-miss-cat.json](./118037-miss-cat.json) |
 | Miss Cecilia | 201475 | [201475-miss-cecilia.json](./201475-miss-cecilia.json) |
+| Miss Chic | 25438 | [25438-miss-chic.json](./25438-miss-chic.json) |
 | Miss Chic Business | 54236 | [54236-miss-chic-business.json](./54236-miss-chic-business.json) |
 | Miss Chic Disco | 25518 | [25518-miss-chic-disco.json](./25518-miss-chic-disco.json) |
 | Miss Chic Romantic | 54235 | [54235-miss-chic-romantic.json](./54235-miss-chic-romantic.json) |
+| Miss Chic Sport | 25418 | [25418-miss-chic-sport.json](./25418-miss-chic-sport.json) |
 | Miss Chocolate Eater | 304259 | [304259-miss-chocolate-eater.json](./304259-miss-chocolate-eater.json) |
 | Miss Clue: Formula for Danger | 200655 | [200655-miss-clue-formula-for-danger.json](./200655-miss-clue-formula-for-danger.json) |
 | Miss Detective's Undercover | 202817 | [202817-miss-detectives-undercover.json](./202817-miss-detectives-undercover.json) |
@@ -10957,6 +10960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Spider's Tea Party | 73804 | [73804-miss-spiders-tea-party.json](./73804-miss-spiders-tea-party.json) |
 | Miss Teri Tale | 53385 | [53385-miss-teri-tale.json](./53385-miss-teri-tale.json) |
 | Miss Teri Tales - Danger Next Door | 54234 | [54234-miss-teri-tales-danger-next-door.json](./54234-miss-teri-tales-danger-next-door.json) |
+| Miss Teri Tales - Vote 4 Me | 25450 | [25450-miss-teri-tales-vote-4-me.json](./25450-miss-teri-tales-vote-4-me.json) |
 | Miss Teri Tales - Where's Jason | 54233 | [54233-miss-teri-tales-wheres-jason.json](./54233-miss-teri-tales-wheres-jason.json) |
 | Miss World '96 | 38567 | [38567-miss-world-96.json](./38567-miss-world-96.json) |
 | Miss World '96: Nude | 63152 | [63152-miss-world-96-nude.json](./63152-miss-world-96-nude.json) |
@@ -16220,6 +16224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dress-Up | 84331 | [84331-my-dress-up.json](./84331-my-dress-up.json) |
 | My Drug Cartel | 289736 | [289736-my-drug-cartel.json](./289736-my-drug-cartel.json) |
 | My Dystopian Robot Girlfriend | 207769 | [207769-my-dystopian-robot-girlfriend.json](./207769-my-dystopian-robot-girlfriend.json) |
+| My Early Words | 25420 | [25420-my-early-words.json](./25420-my-early-words.json) |
 | My Earth | 258489 | [258489-my-earth.json](./258489-my-earth.json) |
 | My Eerie Lair | 373749 | [373749-my-eerie-lair.json](./373749-my-eerie-lair.json) |
 | My Eggduck | 403183 | [403183-my-eggduck.json](./403183-my-eggduck.json) |
