@@ -5694,6 +5694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinballistik | 52654 | [52654-pinballistik.json](./52654-pinballistik.json) |
 | Pinballistik Alien Tycoon Bundle | 118858 | [118858-pinballistik-alien-tycoon-bundle.json](./118858-pinballistik-alien-tycoon-bundle.json) |
 | Pinballtoon | 289299 | [289299-pinballtoon.json](./289299-pinballtoon.json) |
+| Pinbo | 39987 | [39987-pinbo.json](./39987-pinbo.json) |
 | Pinbomb | 417419 | [417419-pinbomb.json](./417419-pinbomb.json) |
 | Pinbot | 295908 | [295908-pinbot.json](./295908-pinbot.json) |
 | PinBuilder | 368363 | [368363-pinbuilder.json](./368363-pinbuilder.json) |
@@ -7993,6 +7994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plebby Quest: The Promised Land | 174132 | [174132-plebby-quest-the-promised-land.json](./174132-plebby-quest-the-promised-land.json) |
 | Plebs | 261766 | [261766-plebs.json](./261766-plebs.json) |
 | Pleiades: A Subversion Saga Game | 150754 | [150754-pleiades-a-subversion-saga-game.json](./150754-pleiades-a-subversion-saga-game.json) |
+| Pleiads | 40009 | [40009-pleiads.json](./40009-pleiads.json) |
 | Plekos | 255032 | [255032-plekos.json](./255032-plekos.json) |
 | Plentiful | 341567 | [341567-plentiful.json](./341567-plentiful.json) |
 | Plenty of Fish in the Sea | 337492 | [337492-plenty-of-fish-in-the-sea.json](./337492-plenty-of-fish-in-the-sea.json) |
