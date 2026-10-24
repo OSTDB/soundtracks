@@ -759,7 +759,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4518,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Girls on Campus: Memories of Youth | 420678 | [420678-beautiful-girls-on-campus-memories-of-youth.json](./420678-beautiful-girls-on-campus-memories-of-youth.json) |
 | Beautiful Indie Worlds Bundle | 246112 | [246112-beautiful-indie-worlds-bundle.json](./246112-beautiful-indie-worlds-bundle.json) |
 | Beautiful Japanese Scenery: Animated Jigsaws | 31695 | [31695-beautiful-japanese-scenery-animated-jigsaws.json](./31695-beautiful-japanese-scenery-animated-jigsaws.json) |
+| Beautiful Katamari | 6456 | [6456-beautiful-katamari.json](./6456-beautiful-katamari.json) |
 | Beautiful Masseuse | 157939 | [157939-beautiful-masseuse.json](./157939-beautiful-masseuse.json) |
 | Beautiful Mystic Defenders | 159748 | [159748-beautiful-mystic-defenders.json](./159748-beautiful-mystic-defenders.json) |
 | Beautiful Mystic Survivors | 200465 | [200465-beautiful-mystic-survivors.json](./200465-beautiful-mystic-survivors.json) |
@@ -5281,6 +5281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berry Tree | 68726 | [68726-berry-tree.json](./68726-berry-tree.json) |
 | Berrywitched! | 330215 | [330215-berrywitched.json](./330215-berrywitched.json) |
 | Berrywitched! The Harvest | 374169 | [374169-berrywitched-the-harvest.json](./374169-berrywitched-the-harvest.json) |
+| Berserk and the Band of the Hawk | 19765 | [19765-berserk-and-the-band-of-the-hawk.json](./19765-berserk-and-the-band-of-the-hawk.json) |
 | Berserk and the Band of the Hawk: Additional Scenario Set | 168104 | [168104-berserk-and-the-band-of-the-hawk-additional-scenario-set.json](./168104-berserk-and-the-band-of-the-hawk-additional-scenario-set.json) |
 | Berserk and the Band of the Hawk: Additional Warhorse Set | 224121 | [224121-berserk-and-the-band-of-the-hawk-additional-warhorse-set.json](./224121-berserk-and-the-band-of-the-hawk-additional-warhorse-set.json) |
 | Berserk B.I.T.S | 307979 | [307979-berserk-b-i-t-s.json](./307979-berserk-b-i-t-s.json) |
@@ -5594,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Flesh and Blood | 18350 | [18350-beyond-flesh-and-blood.json](./18350-beyond-flesh-and-blood.json) |
 | Beyond Flesh and Blood Episode 1 | 34740 | [34740-beyond-flesh-and-blood-episode-1.json](./34740-beyond-flesh-and-blood-episode-1.json) |
 | Beyond Galaxyland | 296381 | [296381-beyond-galaxyland.json](./296381-beyond-galaxyland.json) |
+| Beyond Good & Evil HD | 20437 | [20437-beyond-good-and-evil-hd.json](./20437-beyond-good-and-evil-hd.json) |
 | Beyond Hanwell | 265409 | [265409-beyond-hanwell.json](./265409-beyond-hanwell.json) |
 | Beyond Horizon: The Astral Expedition | 311112 | [311112-beyond-horizon-the-astral-expedition.json](./311112-beyond-horizon-the-astral-expedition.json) |
 | Beyond Horror: Episode One - A Father's Journey | 170925 | [170925-beyond-horror-episode-one-a-fathers-journey.json](./170925-beyond-horror-episode-one-a-fathers-journey.json) |
@@ -6585,6 +6587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionic Commando | 6914 | [6914-bionic-commando.json](./6914-bionic-commando.json) |
 | Bionic Commando | 7786 | [7786-bionic-commando.json](./7786-bionic-commando.json) |
 | Bionic Commando | 9242 | [9242-bionic-commando.json](./9242-bionic-commando.json) |
+| Bionic Commando Rearmed | 15856 | [15856-bionic-commando-rearmed.json](./15856-bionic-commando-rearmed.json) |
 | Bionic Commando Rearmed 2 | 15858 | [15858-bionic-commando-rearmed-2.json](./15858-bionic-commando-rearmed-2.json) |
 | Bionic Commando: Elite Forces | 44077 | [44077-bionic-commando-elite-forces.json](./44077-bionic-commando-elite-forces.json) |
 | Bionic Commando: Re-Armed | 320474 | [320474-bionic-commando-re-armed.json](./320474-bionic-commando-re-armed.json) |
@@ -6643,6 +6646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bioshock 2: Rapture Edition | 44571 | [44571-bioshock-2-rapture-edition.json](./44571-bioshock-2-rapture-edition.json) |
 | BioShock 2: Rapture Metro Pack | 374312 | [374312-bioshock-2-rapture-metro-pack.json](./374312-bioshock-2-rapture-metro-pack.json) |
 | BioShock 2: Special Edition | 47440 | [47440-bioshock-2-special-edition.json](./47440-bioshock-2-special-edition.json) |
+| BioShock Infinite: Clash in the Clouds | 20115 | [20115-bioshock-infinite-clash-in-the-clouds.json](./20115-bioshock-infinite-clash-in-the-clouds.json) |
 | BioShock Infinite: Industrial Revolution | 64441 | [64441-bioshock-infinite-industrial-revolution.json](./64441-bioshock-infinite-industrial-revolution.json) |
 | BioShock Infinite: The Complete Edition | 41595 | [41595-bioshock-infinite-the-complete-edition.json](./41595-bioshock-infinite-the-complete-edition.json) |
 | BioShock Infinite: Ultimate Songbird Edition | 41598 | [41598-bioshock-infinite-ultimate-songbird-edition.json](./41598-bioshock-infinite-ultimate-songbird-edition.json) |
@@ -9219,6 +9223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons TD 5 HD | 88911 | [88911-bloons-td-5-hd.json](./88911-bloons-td-5-hd.json) |
 | Bloons TD 6: Frontier Legends | 381278 | [381278-bloons-td-6-frontier-legends.json](./381278-bloons-td-6-frontier-legends.json) |
 | Bloons TD 6: Rogue Legends | 330334 | [330334-bloons-td-6-rogue-legends.json](./330334-bloons-td-6-rogue-legends.json) |
+| Bloons TD Battles | 33501 | [33501-bloons-td-battles.json](./33501-bloons-td-battles.json) |
 | Bloons TDX | 138135 | [138135-bloons-tdx.json](./138135-bloons-tdx.json) |
 | Bloonz Toonz | 36275 | [36275-bloonz-toonz.json](./36275-bloonz-toonz.json) |
 | Bloop | 182984 | [182984-bloop.json](./182984-bloop.json) |
