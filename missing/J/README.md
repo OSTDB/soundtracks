@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaguar XJ220 | 5395 | [5395-jaguar-xj220.json](./5395-jaguar-xj220.json) |
 | Jagun: Clash of Kingdoms | 120350 | [120350-jagun-clash-of-kingdoms.json](./120350-jagun-clash-of-kingdoms.json) |
 | Jagur 5 | 69557 | [69557-jagur-5.json](./69557-jagur-5.json) |
+| Jahangir Khan's World Championship Squash | 12645 | [12645-jahangir-khans-world-championship-squash.json](./12645-jahangir-khans-world-championship-squash.json) |
 | Jahmong | 327412 | [327412-jahmong.json](./327412-jahmong.json) |
 | Jahto: Savior of the Sky | 214152 | [214152-jahto-savior-of-the-sky.json](./214152-jahto-savior-of-the-sky.json) |
 | Jai Kali | 368556 | [368556-jai-kali.json](./368556-jai-kali.json) |
@@ -1958,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johann Sebastian Joust | 65370 | [65370-johann-sebastian-joust.json](./65370-johann-sebastian-joust.json) |
 | John Adventure | 63574 | [63574-john-adventure.json](./63574-john-adventure.json) |
 | John Adventure | 63575 | [63575-john-adventure.json](./63575-john-adventure.json) |
+| John Barnes European Football | 12646 | [12646-john-barnes-european-football.json](./12646-john-barnes-european-football.json) |
 | John Black: Memories | 108417 | [108417-john-black-memories.json](./108417-john-black-memories.json) |
 | John Brick | 207787 | [207787-john-brick.json](./207787-john-brick.json) |
 | John Carter: Warlord of Mars | 172715 | [172715-john-carter-warlord-of-mars.json](./172715-john-carter-warlord-of-mars.json) |
