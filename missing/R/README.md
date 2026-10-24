@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race on Ice 2022 Pro | 237785 | [237785-race-on-ice-2022-pro.json](./237785-race-on-ice-2022-pro.json) |
 | Race or Crash: Secret Racer League | 341314 | [341314-race-or-crash-secret-racer-league.json](./341314-race-or-crash-secret-racer-league.json) |
 | Race Pro | 256136 | [256136-race-pro.json](./256136-race-pro.json) |
+| Race Pro | 7151 | [7151-race-pro.json](./7151-race-pro.json) |
 | Race Project | 152729 | [152729-race-project.json](./152729-race-project.json) |
 | Race Race Racer | 126996 | [126996-race-race-racer.json](./126996-race-race-racer.json) |
 | Race the Nags | 93379 | [93379-race-the-nags.json](./93379-race-the-nags.json) |
@@ -7537,6 +7538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Pit | 288108 | [288108-rock-pit.json](./288108-rock-pit.json) |
 | Rock Quest: A Rhythm Adventure | 346173 | [346173-rock-quest-a-rhythm-adventure.json](./346173-rock-quest-a-rhythm-adventure.json) |
 | Rock Revolution | 210456 | [210456-rock-revolution.json](./210456-rock-revolution.json) |
+| Rock Revolution | 7164 | [7164-rock-revolution.json](./7164-rock-revolution.json) |
 | Rock Rock Rock | 326105 | [326105-rock-rock-rock.json](./326105-rock-rock-rock.json) |
 | Rock Run | 103988 | [103988-rock-run.json](./103988-rock-run.json) |
 | Rock Runners | 23403 | [23403-rock-runners.json](./23403-rock-runners.json) |
@@ -8446,6 +8448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon 6 Pack | 228962 | [228962-rollercoaster-tycoon-6-pack.json](./228962-rollercoaster-tycoon-6-pack.json) |
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
 | RollerCoaster Tycoon on Nintendo Switch | 95855 | [95855-rollercoaster-tycoon-on-nintendo-switch.json](./95855-rollercoaster-tycoon-on-nintendo-switch.json) |
+| RollerCoaster Tycoon World | 7627 | [7627-rollercoaster-tycoon-world.json](./7627-rollercoaster-tycoon-world.json) |
 | RollerCoaster Tycoon World Deluxe | 25053 | [25053-rollercoaster-tycoon-world-deluxe.json](./25053-rollercoaster-tycoon-world-deluxe.json) |
 | RollerCoaster Tycoon: Corkscrew Follies | 19528 | [19528-rollercoaster-tycoon-corkscrew-follies.json](./19528-rollercoaster-tycoon-corkscrew-follies.json) |
 | RollerCoaster Tycoon: Deluxe | 36444 | [36444-rollercoaster-tycoon-deluxe.json](./36444-rollercoaster-tycoon-deluxe.json) |
@@ -8599,6 +8602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms 8 Remake: Scenario "Valor Triumphs" | 336968 | [336968-romance-of-the-three-kingdoms-8-remake-scenario-valor-triumphs.json](./336968-romance-of-the-three-kingdoms-8-remake-scenario-valor-triumphs.json) |
 | Romance of the Three Kingdoms Hadou | 371351 | [371351-romance-of-the-three-kingdoms-hadou.json](./371351-romance-of-the-three-kingdoms-hadou.json) |
 | Romance of the Three Kingdoms II | 350627 | [350627-romance-of-the-three-kingdoms-ii.json](./350627-romance-of-the-three-kingdoms-ii.json) |
+| Romance of the Three Kingdoms II | 7026 | [7026-romance-of-the-three-kingdoms-ii.json](./7026-romance-of-the-three-kingdoms-ii.json) |
 | Romance of the Three Kingdoms IV with Power Up Kit | 91114 | [91114-romance-of-the-three-kingdoms-iv-with-power-up-kit.json](./91114-romance-of-the-three-kingdoms-iv-with-power-up-kit.json) |
 | Romance of the Three Kingdoms IV: Wall of Fire | 350561 | [350561-romance-of-the-three-kingdoms-iv-wall-of-fire.json](./350561-romance-of-the-three-kingdoms-iv-wall-of-fire.json) |
 | Romance of the Three Kingdoms IV: Wall of Fire | 7040 | [7040-romance-of-the-three-kingdoms-iv-wall-of-fire.json](./7040-romance-of-the-three-kingdoms-iv-wall-of-fire.json) |
@@ -8612,7 +8616,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms VII | 7254 | [7254-romance-of-the-three-kingdoms-vii.json](./7254-romance-of-the-three-kingdoms-vii.json) |
 | Romance of the Three Kingdoms VII with Power Up Kit | 91185 | [91185-romance-of-the-three-kingdoms-vii-with-power-up-kit.json](./91185-romance-of-the-three-kingdoms-vii-with-power-up-kit.json) |
 | Romance of the Three Kingdoms VII: Power Up Kit | 350629 | [350629-romance-of-the-three-kingdoms-vii-power-up-kit.json](./350629-romance-of-the-three-kingdoms-vii-power-up-kit.json) |
+| Romance of the Three Kingdoms VIII | 7263 | [7263-romance-of-the-three-kingdoms-viii.json](./7263-romance-of-the-three-kingdoms-viii.json) |
 | Romance of the Three Kingdoms VIII with Power Up Kit | 55811 | [55811-romance-of-the-three-kingdoms-viii-with-power-up-kit.json](./55811-romance-of-the-three-kingdoms-viii-with-power-up-kit.json) |
+| Romance of the Three Kingdoms X | 7493 | [7493-romance-of-the-three-kingdoms-x.json](./7493-romance-of-the-three-kingdoms-x.json) |
 | Romance of the Three Kingdoms X: Power Up Kit | 350631 | [350631-romance-of-the-three-kingdoms-x-power-up-kit.json](./350631-romance-of-the-three-kingdoms-x-power-up-kit.json) |
 | Romance of the Three Kingdoms XII with Power Up Kit | 82407 | [82407-romance-of-the-three-kingdoms-xii-with-power-up-kit.json](./82407-romance-of-the-three-kingdoms-xii-with-power-up-kit.json) |
 | Romance of the Three Kingdoms XII: Competition Edition | 219028 | [219028-romance-of-the-three-kingdoms-xii-competition-edition.json](./219028-romance-of-the-three-kingdoms-xii-competition-edition.json) |
