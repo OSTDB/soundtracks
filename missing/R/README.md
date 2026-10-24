@@ -5098,6 +5098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Returnal: Digital Deluxe Edition | 221656 | [221656-returnal-digital-deluxe-edition.json](./221656-returnal-digital-deluxe-edition.json) |
 | Returner Alien | 108500 | [108500-returner-alien.json](./108500-returner-alien.json) |
 | Returner Zhero | 107202 | [107202-returner-zhero.json](./107202-returner-zhero.json) |
+| Returners | 101184 | [101184-returners.json](./101184-returners.json) |
 | ReturnHome | 170555 | [170555-returnhome.json](./170555-returnhome.json) |
 | Returning Nightmares | 202363 | [202363-returning-nightmares.json](./202363-returning-nightmares.json) |
 | Returning the favor of the dog | 169358 | [169358-returning-the-favor-of-the-dog.json](./169358-returning-the-favor-of-the-dog.json) |
