@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Rank Thunder Tanjouhen | 5355 | [5355-a-rank-thunder-tanjouhen.json](./5355-a-rank-thunder-tanjouhen.json) |
 | A-Red Walking Robot | 276712 | [276712-a-red-walking-robot.json](./276712-a-red-walking-robot.json) |
 | A-Ressha de Ikou | 272827 | [272827-a-ressha-de-ikou.json](./272827-a-ressha-de-ikou.json) |
+| A-Ressha de Ikou | 41739 | [41739-a-ressha-de-ikou.json](./41739-a-ressha-de-ikou.json) |
 | A-Ressha de Ikou 2001 | 98273 | [98273-a-ressha-de-ikou-2001.json](./98273-a-ressha-de-ikou-2001.json) |
 | A-Ressha de Ikou 4 | 98268 | [98268-a-ressha-de-ikou-4.json](./98268-a-ressha-de-ikou-4.json) |
 | A-Ressha de Ikou DS | 98272 | [98272-a-ressha-de-ikou-ds.json](./98272-a-ressha-de-ikou-ds.json) |
@@ -11891,6 +11892,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashforge: Whispers of the Deep | 358875 | [358875-ashforge-whispers-of-the-deep.json](./358875-ashforge-whispers-of-the-deep.json) |
 | Ashgard: Infinity Mask | 348320 | [348320-ashgard-infinity-mask.json](./348320-ashgard-infinity-mask.json) |
 | Ashgard: Tone Break | 199618 | [199618-ashgard-tone-break.json](./199618-ashgard-tone-break.json) |
+| AshGuine Story II: Kokuu no Gajou | 41722 | [41722-ashguine-story-ii-kokuu-no-gajou.json](./41722-ashguine-story-ii-kokuu-no-gajou.json) |
+| AshGuine Story III: Fukushuu no Honoo | 41720 | [41720-ashguine-story-iii-fukushuu-no-honoo.json](./41720-ashguine-story-iii-fukushuu-no-honoo.json) |
+| AshGuine: Densetsu no Seisenshi | 41721 | [41721-ashguine-densetsu-no-seisenshi.json](./41721-ashguine-densetsu-no-seisenshi.json) |
 | Ashi | 156990 | [156990-ashi.json](./156990-ashi.json) |
 | Ashi Wash | 91967 | [91967-ashi-wash.json](./91967-ashi-wash.json) |
 | Ashi: Lake of Light | 104538 | [104538-ashi-lake-of-light.json](./104538-ashi-lake-of-light.json) |
