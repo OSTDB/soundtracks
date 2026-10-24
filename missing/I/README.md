@@ -3668,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside the Backrooms | 201506 | [201506-inside-the-backrooms.json](./201506-inside-the-backrooms.json) |
 | Inside The Backrooms | 397869 | [397869-inside-the-backrooms.json](./397869-inside-the-backrooms.json) |
 | Inside the Clockwork Pussy | 280202 | [280202-inside-the-clockwork-pussy.json](./280202-inside-the-clockwork-pussy.json) |
+| Inside the Code | 33803 | [33803-inside-the-code.json](./33803-inside-the-code.json) |
 | Inside the Computer | 130095 | [130095-inside-the-computer.json](./130095-inside-the-computer.json) |
 | Inside the Crow's Nest | 353383 | [353383-inside-the-crows-nest.json](./353383-inside-the-crows-nest.json) |
 | Inside The Crystal Mountain | 278891 | [278891-inside-the-crystal-mountain.json](./278891-inside-the-crystal-mountain.json) |
