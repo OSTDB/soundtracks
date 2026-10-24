@@ -5243,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverie | 254161 | [254161-reverie.json](./254161-reverie.json) |
 | Reverie | 256825 | [256825-reverie.json](./256825-reverie.json) |
 | Reverie | 338839 | [338839-reverie.json](./338839-reverie.json) |
+| Reverie Knights Tactics | 151555 | [151555-reverie-knights-tactics.json](./151555-reverie-knights-tactics.json) |
 | Reverie Knights Tactics: Prologue | 156214 | [156214-reverie-knights-tactics-prologue.json](./156214-reverie-knights-tactics-prologue.json) |
 | Reverie: A Heroes Tale | 89951 | [89951-reverie-a-heroes-tale.json](./89951-reverie-a-heroes-tale.json) |
 | Reverie: An Odd Sim Date | 419152 | [419152-reverie-an-odd-sim-date.json](./419152-reverie-an-odd-sim-date.json) |
@@ -9256,6 +9257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rove: The Wanderer's Tale | 192720 | [192720-rove-the-wanderers-tale.json](./192720-rove-the-wanderers-tale.json) |
 | Rover Builder | 65829 | [65829-rover-builder.json](./65829-rover-builder.json) |
 | Rover Mechanic Challenge: ERC Competition | 168754 | [168754-rover-mechanic-challenge-erc-competition.json](./168754-rover-mechanic-challenge-erc-competition.json) |
+| Rover Mechanic Simulator | 128193 | [128193-rover-mechanic-simulator.json](./128193-rover-mechanic-simulator.json) |
 | Rover Mechanic Simulator: Perseverance Rover | 170991 | [170991-rover-mechanic-simulator-perseverance-rover.json](./170991-rover-mechanic-simulator-perseverance-rover.json) |
 | Rover Rescue | 10787 | [10787-rover-rescue.json](./10787-rover-rescue.json) |
 | Rover The Dragonslayer | 32498 | [32498-rover-the-dragonslayer.json](./32498-rover-the-dragonslayer.json) |
