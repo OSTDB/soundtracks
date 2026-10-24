@@ -1954,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Angler | 144863 | [144863-ace-angler.json](./144863-ace-angler.json) |
 | Ace Angler | 292017 | [292017-ace-angler.json](./292017-ace-angler.json) |
 | Ace Angler: Fishing Spirits | 222795 | [222795-ace-angler-fishing-spirits.json](./222795-ace-angler-fishing-spirits.json) |
+| ACE Arena: Cyber Evolution | 17155 | [17155-ace-arena-cyber-evolution.json](./17155-ace-arena-cyber-evolution.json) |
 | Ace Armstrong vs. The Alien Scumbags! | 42784 | [42784-ace-armstrong-vs-the-alien-scumbags.json](./42784-ace-armstrong-vs-the-alien-scumbags.json) |
 | Ace Arrow | 233121 | [233121-ace-arrow.json](./233121-ace-arrow.json) |
 | Ace Attorney Anthology | 304805 | [304805-ace-attorney-anthology.json](./304805-ace-attorney-anthology.json) |
@@ -5496,6 +5497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien X | 171579 | [171579-alien-x.json](./171579-alien-x.json) |
 | Alien Xenoblaster | 209133 | [209133-alien-xenoblaster.json](./209133-alien-xenoblaster.json) |
 | Alien Xenocide | 356796 | [356796-alien-xenocide.json](./356796-alien-xenocide.json) |
+| Alien Zombie Death | 15189 | [15189-alien-zombie-death.json](./15189-alien-zombie-death.json) |
 | Alien: Blackout | 112657 | [112657-alien-blackout.json](./112657-alien-blackout.json) |
 | Alien: Isolation | 197779 | [197779-alien-isolation.json](./197779-alien-isolation.json) |
 | Alien: Isolation - Corporate Lockdown | 15459 | [15459-alien-isolation-corporate-lockdown.json](./15459-alien-isolation-corporate-lockdown.json) |
@@ -8280,6 +8282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankoku-jou | 334900 | [334900-ankoku-jou.json](./334900-ankoku-jou.json) |
 | Ankora: Lost Days | 108867 | [108867-ankora-lost-days.json](./108867-ankora-lost-days.json) |
 | Anlife: Motion-Learning Life Evolution | 264202 | [264202-anlife-motion-learning-life-evolution.json](./264202-anlife-motion-learning-life-evolution.json) |
+| Anmynor Puzzles | 17040 | [17040-anmynor-puzzles.json](./17040-anmynor-puzzles.json) |
 | Ann | 165483 | [165483-ann.json](./165483-ann.json) |
 | Anna | 388893 | [388893-anna.json](./388893-anna.json) |
 | Anna & die Liebe | 269557 | [269557-anna-and-die-liebe.json](./269557-anna-and-die-liebe.json) |
@@ -11168,6 +11171,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Evolution | 81638 | [81638-armored-evolution.json](./81638-armored-evolution.json) |
 | Armored Fighter | 111573 | [111573-armored-fighter.json](./111573-armored-fighter.json) |
 | Armored Firestorm | 194995 | [194995-armored-firestorm.json](./194995-armored-firestorm.json) |
+| Armored Fist | 14983 | [14983-armored-fist.json](./14983-armored-fist.json) |
+| Armored Fist 2 | 14984 | [14984-armored-fist-2.json](./14984-armored-fist-2.json) |
 | Armored Freedom | 29625 | [29625-armored-freedom.json](./29625-armored-freedom.json) |
 | Armored Front | 114055 | [114055-armored-front.json](./114055-armored-front.json) |
 | Armored Head | 139033 | [139033-armored-head.json](./139033-armored-head.json) |
@@ -11672,6 +11677,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arvis Punch | 329015 | [329015-arvis-punch.json](./329015-arvis-punch.json) |
 | Arvis Punch 2 | 346380 | [346380-arvis-punch-2.json](./346380-arvis-punch-2.json) |
 | Arvita | 115802 | [115802-arvita.json](./115802-arvita.json) |
+| Arvoch Alliance | 15114 | [15114-arvoch-alliance.json](./15114-arvoch-alliance.json) |
+| Arvoch Conflict | 15113 | [15113-arvoch-conflict.json](./15113-arvoch-conflict.json) |
 | ArvusForge | 390724 | [390724-arvusforge.json](./390724-arvusforge.json) |
 | Arwinia | 141074 | [141074-arwinia.json](./141074-arwinia.json) |
 | Arx Fatalis | 602 | [602-arx-fatalis.json](./602-arx-fatalis.json) |
