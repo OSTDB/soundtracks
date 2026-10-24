@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagami no Kuni no Legend | 256323 | [256323-kagami-no-kuni-no-legend.json](./256323-kagami-no-kuni-no-legend.json) |
 | Kagamihara/Justice | 222256 | [222256-kagamihara-justice.json](./222256-kagamihara-justice.json) |
 | Kage Fumazu | 98056 | [98056-kage-fumazu.json](./98056-kage-fumazu.json) |
+| Kaged | 6519 | [6519-kaged.json](./6519-kaged.json) |
 | Kageninja | 385743 | [385743-kageninja.json](./385743-kageninja.json) |
 | Kagerou | 181658 | [181658-kagerou.json](./181658-kagerou.json) |
 | Kagerou Densetsu | 48448 | [48448-kagerou-densetsu.json](./48448-kagerou-densetsu.json) |
@@ -821,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karmaflow: The Rock Opera Videogame | 8439 | [8439-karmaflow-the-rock-opera-videogame.json](./8439-karmaflow-the-rock-opera-videogame.json) |
 | KarmaStar | 67811 | [67811-karmastar.json](./67811-karmastar.json) |
 | Karmasutra | 51474 | [51474-karmasutra.json](./51474-karmasutra.json) |
+| Karnaaj Rally | 6489 | [6489-karnaaj-rally.json](./6489-karnaaj-rally.json) |
 | Karnage Chronicles | 28272 | [28272-karnage-chronicles.json](./28272-karnage-chronicles.json) |
 | Karnn Age | 67969 | [67969-karnn-age.json](./67969-karnn-age.json) |
 | Karnov | 198791 | [198791-karnov.json](./198791-karnov.json) |
@@ -926,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katalyst | 163959 | [163959-katalyst.json](./163959-katalyst.json) |
 | Katamar1k | 284302 | [284302-katamar1k.json](./284302-katamar1k.json) |
 | Katamari | 284763 | [284763-katamari.json](./284763-katamari.json) |
+| Katamari Amore | 6460 | [6460-katamari-amore.json](./6460-katamari-amore.json) |
 | Katamari Damacy Mobile | 243426 | [243426-katamari-damacy-mobile.json](./243426-katamari-damacy-mobile.json) |
 | Katamari Damacy Reroll | 109458 | [109458-katamari-damacy-reroll.json](./109458-katamari-damacy-reroll.json) |
 | Katamari Damacy Reroll & We Love Katamari Reroll + Royal Reverie | 255503 | [255503-katamari-damacy-reroll-and-we-love-katamari-reroll-royal-reverie.json](./255503-katamari-damacy-reroll-and-we-love-katamari-reroll-royal-reverie.json) |
@@ -4377,12 +4380,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korin's Mines | 323167 | [323167-korins-mines.json](./323167-korins-mines.json) |
 | Korinki | 392204 | [392204-korinki.json](./392204-korinki.json) |
 | Korix | 22755 | [22755-korix.json](./22755-korix.json) |
+| Koro Koro Puzzle: Happy Panecchu! | 6496 | [6496-koro-koro-puzzle-happy-panecchu.json](./6496-koro-koro-puzzle-happy-panecchu.json) |
 | Koro Koro Quest | 40226 | [40226-koro-koro-quest.json](./40226-koro-koro-quest.json) |
 | Koro Pata | 91385 | [91385-koro-pata.json](./91385-koro-pata.json) |
 | Koro-koro Reimu | 255678 | [255678-koro-koro-reimu.json](./255678-koro-koro-reimu.json) |
 | Koro-koro Reimu 2 | 255799 | [255799-koro-koro-reimu-2.json](./255799-koro-koro-reimu-2.json) |
 | Koro-san's Home Wan! Derby | 354414 | [354414-koro-sans-home-wan-derby.json](./354414-koro-sans-home-wan-derby.json) |
 | Korobo | 309105 | [309105-korobo.json](./309105-korobo.json) |
+| Korogashi Puzzle Katamari Damacy | 6458 | [6458-korogashi-puzzle-katamari-damacy.json](./6458-korogashi-puzzle-katamari-damacy.json) |
 | Korokesu | 221578 | [221578-korokesu.json](./221578-korokesu.json) |
 | Korokke! Ban-Ou no Kiki wo Sukue | 3970 | [3970-korokke-ban-ou-no-kiki-wo-sukue.json](./3970-korokke-ban-ou-no-kiki-wo-sukue.json) |
 | Korokoro | 338756 | [338756-korokoro.json](./338756-korokoro.json) |
