@@ -10264,6 +10264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush | 7634 | [7634-rush.json](./7634-rush.json) |
 | Rush | 88768 | [88768-rush.json](./88768-rush.json) |
 | Rush & Command | 137902 | [137902-rush-and-command.json](./137902-rush-and-command.json) |
+| Rush 2: Extreme Racing USA | 3593 | [3593-rush-2-extreme-racing-usa.json](./3593-rush-2-extreme-racing-usa.json) |
 | Rush and Blush | 333782 | [333782-rush-and-blush.json](./333782-rush-and-blush.json) |
 | Rush Back | 270680 | [270680-rush-back.json](./270680-rush-back.json) |
 | Rush City | 270573 | [270573-rush-city.json](./270573-rush-city.json) |
