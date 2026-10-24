@@ -4113,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect: Infiltrator | 93517 | [93517-mass-effect-infiltrator.json](./93517-mass-effect-infiltrator.json) |
 | Mass Effect: Limited Collector's Edition | 45179 | [45179-mass-effect-limited-collectors-edition.json](./45179-mass-effect-limited-collectors-edition.json) |
 | Mass Effect: Pinnacle Station | 13781 | [13781-mass-effect-pinnacle-station.json](./13781-mass-effect-pinnacle-station.json) |
+| Mass Exodus Redux | 30164 | [30164-mass-exodus-redux.json](./30164-mass-exodus-redux.json) |
 | Mass Extinction | 261817 | [261817-mass-extinction.json](./261817-mass-extinction.json) |
 | Mass for the Dead | 115452 | [115452-mass-for-the-dead.json](./115452-mass-for-the-dead.json) |
 | Mass Harvest | 211183 | [211183-mass-harvest.json](./211183-mass-harvest.json) |
@@ -8089,6 +8090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamor Jupiter | 37631 | [37631-metamor-jupiter.json](./37631-metamor-jupiter.json) |
 | Metamor Panic: Doki Doki Youma Busters!! | 384782 | [384782-metamor-panic-doki-doki-youma-busters.json](./384782-metamor-panic-doki-doki-youma-busters.json) |
 | Metamorbob | 177760 | [177760-metamorbob.json](./177760-metamorbob.json) |
+| Metamorfose S | 30046 | [30046-metamorfose-s.json](./30046-metamorfose-s.json) |
 | Metamorph | 345519 | [345519-metamorph.json](./345519-metamorph.json) |
 | Metamorph | 368137 | [368137-metamorph.json](./368137-metamorph.json) |
 | Metamorphabet | 26400 | [26400-metamorphabet.json](./26400-metamorphabet.json) |
