@@ -3235,6 +3235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Stone Online | 35737 | [35737-red-stone-online.json](./35737-red-stone-online.json) |
 | Red Storm Rising | 15354 | [15354-red-storm-rising.json](./15354-red-storm-rising.json) |
 | Red Storm Survival | 96035 | [96035-red-storm-survival.json](./96035-red-storm-survival.json) |
+| Red String of Fate | 29563 | [29563-red-string-of-fate.json](./29563-red-string-of-fate.json) |
 | Red Sun Raiders | 130272 | [130272-red-sun-raiders.json](./130272-red-sun-raiders.json) |
 | Red Sunrise | 247963 | [247963-red-sunrise.json](./247963-red-sunrise.json) |
 | Red Supreme | 337733 | [337733-red-supreme.json](./337733-red-supreme.json) |
@@ -8788,6 +8789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooms: The Adventure of Anne & George | 110803 | [110803-rooms-the-adventure-of-anne-and-george.json](./110803-rooms-the-adventure-of-anne-and-george.json) |
 | Rooms: The Toymaker's Mansion | 193678 | [193678-rooms-the-toymakers-mansion.json](./193678-rooms-the-toymakers-mansion.json) |
 | Rooms: The Unsolvable Puzzle | 19018 | [19018-rooms-the-unsolvable-puzzle.json](./19018-rooms-the-unsolvable-puzzle.json) |
+| Roomscale Coaster | 29479 | [29479-roomscale-coaster.json](./29479-roomscale-coaster.json) |
 | Roomscale Tower | 31984 | [31984-roomscale-tower.json](./31984-roomscale-tower.json) |
 | Roomservice | 194840 | [194840-roomservice.json](./194840-roomservice.json) |
 | Rooniverse | 214984 | [214984-rooniverse.json](./214984-rooniverse.json) |
