@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall of Jake Paul Hop World | 195085 | [195085-fall-of-jake-paul-hop-world.json](./195085-fall-of-jake-paul-hop-world.json) |
 | Fall of Light: Deluxe Edition | 119076 | [119076-fall-of-light-deluxe-edition.json](./119076-fall-of-light-deluxe-edition.json) |
 | Fall of Magic: Digital Edition | 56480 | [56480-fall-of-magic-digital-edition.json](./56480-fall-of-magic-digital-edition.json) |
+| Fall of Porcupine | 165271 | [165271-fall-of-porcupine.json](./165271-fall-of-porcupine.json) |
 | Fall of Porcupine: Save the World Edition | 254153 | [254153-fall-of-porcupine-save-the-world-edition.json](./254153-fall-of-porcupine-save-the-world-edition.json) |
 | Fall of the Final Age | 384901 | [384901-fall-of-the-final-age.json](./384901-fall-of-the-final-age.json) |
 | Fall of the Mafia | 157395 | [157395-fall-of-the-mafia.json](./157395-fall-of-the-mafia.json) |
@@ -1152,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: Empire Wastes | 322274 | [322274-fallout-empire-wastes.json](./322274-fallout-empire-wastes.json) |
 | Fallout: Legacy Collection | 122725 | [122725-fallout-legacy-collection.json](./122725-fallout-legacy-collection.json) |
 | Fallout: Nevada | 237830 | [237830-fallout-nevada.json](./237830-fallout-nevada.json) |
+| Fallout: New California | 142745 | [142745-fallout-new-california.json](./142745-fallout-new-california.json) |
 | Fallout: New Vegas - Collector's Edition | 45129 | [45129-fallout-new-vegas-collectors-edition.json](./45129-fallout-new-vegas-collectors-edition.json) |
 | Fallout: New Vegas - Courier's Stash | 45127 | [45127-fallout-new-vegas-couriers-stash.json](./45127-fallout-new-vegas-couriers-stash.json) |
 | Fallout: New Vegas - Dead Money | 10304 | [10304-fallout-new-vegas-dead-money.json](./10304-fallout-new-vegas-dead-money.json) |
