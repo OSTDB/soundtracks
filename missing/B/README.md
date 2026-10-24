@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6844,6 +6845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Senshi Sailor Moon S: Kondo ha Puzzle de Oshioki yo!! | 38274 | [38274-bishoujo-senshi-sailor-moon-s-kondo-ha-puzzle-de-oshioki-yo.json](./38274-bishoujo-senshi-sailor-moon-s-kondo-ha-puzzle-de-oshioki-yo.json) |
 | Bishoujo Senshi Sailor Moon S: Quiz Taiketsu! Sailor Power Kesshuu | 138044 | [138044-bishoujo-senshi-sailor-moon-s-quiz-taiketsu-sailor-power-kesshuu.json](./138044-bishoujo-senshi-sailor-moon-s-quiz-taiketsu-sailor-power-kesshuu.json) |
 | Bishoujo Senshi Sailor Moon Sailor Stars: Fuwa-fuwa Panic 2 | 56370 | [56370-bishoujo-senshi-sailor-moon-sailor-stars-fuwa-fuwa-panic-2.json](./56370-bishoujo-senshi-sailor-moon-sailor-stars-fuwa-fuwa-panic-2.json) |
+| Bishoujo Senshi Sailor Moon Super S: Fuwa-fuwa Panic | 36731 | [36731-bishoujo-senshi-sailor-moon-super-s-fuwa-fuwa-panic.json](./36731-bishoujo-senshi-sailor-moon-super-s-fuwa-fuwa-panic.json) |
 | Bishoujo Senshi Sailor Moon Super S: Illustration Club | 225257 | [225257-bishoujo-senshi-sailor-moon-super-s-illustration-club.json](./225257-bishoujo-senshi-sailor-moon-super-s-illustration-club.json) |
 | Bishoujo Senshi Sailor Moon SuperS: Sailor Moon to Hajimete no Eigo | 63949 | [63949-bishoujo-senshi-sailor-moon-supers-sailor-moon-to-hajimete-no-eigo.json](./63949-bishoujo-senshi-sailor-moon-supers-sailor-moon-to-hajimete-no-eigo.json) |
 | Bishoujo Senshi Sailor Moon SuperS: Sailor Moon to Hiragana Lesson! | 63952 | [63952-bishoujo-senshi-sailor-moon-supers-sailor-moon-to-hiragana-lesson.json](./63952-bishoujo-senshi-sailor-moon-supers-sailor-moon-to-hiragana-lesson.json) |
@@ -11813,6 +11815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravery | 391078 | [391078-bravery.json](./391078-bravery.json) |
 | Bravery and Greed | 143577 | [143577-bravery-and-greed.json](./143577-bravery-and-greed.json) |
 | Bravery Network Online | 103322 | [103322-bravery-network-online.json](./103322-bravery-network-online.json) |
+| Bravery: Rise of the Last Hero | 36720 | [36720-bravery-rise-of-the-last-hero.json](./36720-bravery-rise-of-the-last-hero.json) |
 | Braverz | 127592 | [127592-braverz.json](./127592-braverz.json) |
 | Bravest Burden | 173291 | [173291-bravest-burden.json](./173291-bravest-burden.json) |
 | Bravest Chicken | 275878 | [275878-bravest-chicken.json](./275878-bravest-chicken.json) |
@@ -12089,6 +12092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakfree | 130847 | [130847-breakfree.json](./130847-breakfree.json) |
 | BreakFree Escape From the Mine | 101968 | [101968-breakfree-escape-from-the-mine.json](./101968-breakfree-escape-from-the-mine.json) |
 | Breaking Bad DS | 277201 | [277201-breaking-bad-ds.json](./277201-breaking-bad-ds.json) |
+| Breaking Bad: VR Experience | 36757 | [36757-breaking-bad-vr-experience.json](./36757-breaking-bad-vr-experience.json) |
 | Breaking Bound | 289799 | [289799-breaking-bound.json](./289799-breaking-bound.json) |
 | Breaking Box: Rush! | 271088 | [271088-breaking-box-rush.json](./271088-breaking-box-rush.json) |
 | Breaking Box: Walk | 264147 | [264147-breaking-box-walk.json](./264147-breaking-box-walk.json) |
