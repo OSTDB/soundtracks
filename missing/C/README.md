@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | California Games | 263890 | [263890-california-games.json](./263890-california-games.json) |
 | California Games | 263891 | [263891-california-games.json](./263891-california-games.json) |
 | California Games | 263893 | [263893-california-games.json](./263893-california-games.json) |
+| California Games II | 11985 | [11985-california-games-ii.json](./11985-california-games-ii.json) |
 | California Games II | 263899 | [263899-california-games-ii.json](./263899-california-games-ii.json) |
 | California Games II | 263900 | [263900-california-games-ii.json](./263900-california-games-ii.json) |
 | California Games II | 263902 | [263902-california-games-ii.json](./263902-california-games-ii.json) |
@@ -8188,6 +8189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicky Coven | 317990 | [317990-clicky-coven.json](./317990-clicky-coven.json) |
 | Clicky Islands | 388729 | [388729-clicky-islands.json](./388729-clicky-islands.json) |
 | Clientele | 213020 | [213020-clientele.json](./213020-clientele.json) |
+| Cliff Empire | 99124 | [99124-cliff-empire.json](./99124-cliff-empire.json) |
 | Cliff Johnson's Labyrinth of Crete | 55831 | [55831-cliff-johnsons-labyrinth-of-crete.json](./55831-cliff-johnsons-labyrinth-of-crete.json) |
 | Cliff Kingdom | 401152 | [401152-cliff-kingdom.json](./401152-cliff-kingdom.json) |
 | Cliff Rush 3D | 322986 | [322986-cliff-rush-3d.json](./322986-cliff-rush-3d.json) |
@@ -12041,6 +12043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Snake 8473/3671 | 101250 | [101250-cosmic-snake-8473-3671.json](./101250-cosmic-snake-8473-3671.json) |
 | Cosmic Soldier | 7544 | [7544-cosmic-soldier.json](./7544-cosmic-soldier.json) |
 | Cosmic Soldier 2: Psychic War | 62622 | [62622-cosmic-soldier-2-psychic-war.json](./62622-cosmic-soldier-2-psychic-war.json) |
+| Cosmic Spacehead | 12013 | [12013-cosmic-spacehead.json](./12013-cosmic-spacehead.json) |
 | Cosmic Spacehead | 374682 | [374682-cosmic-spacehead.json](./374682-cosmic-spacehead.json) |
 | Cosmic Star Lounge | 362412 | [362412-cosmic-star-lounge.json](./362412-cosmic-star-lounge.json) |
 | Cosmic Storm | 80623 | [80623-cosmic-storm.json](./80623-cosmic-storm.json) |
@@ -14516,6 +14519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowtel Renovations | 26723 | [26723-crowtel-renovations.json](./26723-crowtel-renovations.json) |
 | Crowz | 165380 | [165380-crowz.json](./165380-crowz.json) |
 | CRSED: Cuisine Royale | 231960 | [231960-crsed-cuisine-royale.json](./231960-crsed-cuisine-royale.json) |
+| CRSED: F.O.A.D. | 103381 | [103381-crsed-f-o-a-d.json](./103381-crsed-f-o-a-d.json) |
 | CRSED: F.O.A.D. - Age of Nagual | 171062 | [171062-crsed-f-o-a-d-age-of-nagual.json](./171062-crsed-f-o-a-d-age-of-nagual.json) |
 | CRSED: F.O.A.D. - Biker Queen | 171057 | [171057-crsed-f-o-a-d-biker-queen.json](./171057-crsed-f-o-a-d-biker-queen.json) |
 | CRSED: F.O.A.D. - Dark Horse | 197562 | [197562-crsed-f-o-a-d-dark-horse.json](./197562-crsed-f-o-a-d-dark-horse.json) |
