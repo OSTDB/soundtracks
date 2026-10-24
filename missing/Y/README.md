@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys IX: Monstrum Nox - Unique Mask Set | 411025 | [411025-ys-ix-monstrum-nox-unique-mask-set.json](./411025-ys-ix-monstrum-nox-unique-mask-set.json) |
 | Ys IX: Monstrum Nox - Variety Mask Set | 411026 | [411026-ys-ix-monstrum-nox-variety-mask-set.json](./411026-ys-ix-monstrum-nox-variety-mask-set.json) |
 | Ys IX: Monstrum Nox - White Cat's "Monstrum Troupe" Costume | 411027 | [411027-ys-ix-monstrum-nox-white-cats-monstrum-troupe-costume.json](./411027-ys-ix-monstrum-nox-white-cats-monstrum-troupe-costume.json) |
+| Ys Memoire: Revelations in Celceta | 363998 | [363998-ys-memoire-revelations-in-celceta.json](./363998-ys-memoire-revelations-in-celceta.json) |
 | Ys Memoire: The Oath in Felghana | 232700 | [232700-ys-memoire-the-oath-in-felghana.json](./232700-ys-memoire-the-oath-in-felghana.json) |
 | Ys Online: The Call of Solum | 15458 | [15458-ys-online-the-call-of-solum.json](./15458-ys-online-the-call-of-solum.json) |
 | Ys Origin | 10949 | [10949-ys-origin.json](./10949-ys-origin.json) |
