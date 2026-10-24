@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-24T08:23:11.063Z",
-  "total_missing": 255050,
+  "generated_at": "2026-10-24T08:31:53.050Z",
+  "total_missing": 255055,
   "games": [
     {
       "igdb_id": 191680,
@@ -28710,11 +28710,6 @@
       "igdb_id": 8130,
       "game_name": "Adventures in the Magic Kingdom",
       "file": "missing/A/8130-adventures-in-the-magic-kingdom.json"
-    },
-    {
-      "igdb_id": 342233,
-      "game_name": "Adventures In Time & Space",
-      "file": "missing/A/342233-adventures-in-time-and-space.json"
     },
     {
       "igdb_id": 134695,
@@ -91290,6 +91285,11 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
+    },
+    {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -555482,6 +555482,11 @@
       "file": "missing/K/98056-kage-fumazu.json"
     },
     {
+      "igdb_id": 6519,
+      "game_name": "Kaged",
+      "file": "missing/K/6519-kaged.json"
+    },
+    {
       "igdb_id": 385743,
       "game_name": "Kageninja",
       "file": "missing/K/385743-kageninja.json"
@@ -566060,6 +566065,11 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
+    },
+    {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -627897,6 +627907,11 @@
       "file": "missing/M/408264-magical-twirler-angel-rabbie.json"
     },
     {
+      "igdb_id": 6502,
+      "game_name": "Magical Vacation",
+      "file": "missing/M/6502-magical-vacation.json"
+    },
+    {
       "igdb_id": 153949,
       "game_name": "Magical Valkyrie Lyristia",
       "file": "missing/M/153949-magical-valkyrie-lyristia.json"
@@ -647267,6 +647282,11 @@
       "file": "missing/M/121778-mazes-and-mages-2.json"
     },
     {
+      "igdb_id": 6507,
+      "game_name": "Mazes of Fate",
+      "file": "missing/M/6507-mazes-of-fate.json"
+    },
+    {
       "igdb_id": 124484,
       "game_name": "Mazes of Fate DS",
       "file": "missing/M/124484-mazes-of-fate-ds.json"
@@ -648410,6 +648430,11 @@
       "igdb_id": 401622,
       "game_name": "Mech Ops 2092",
       "file": "missing/M/401622-mech-ops-2092.json"
+    },
+    {
+      "igdb_id": 6508,
+      "game_name": "Mech Platoon",
+      "file": "missing/M/6508-mech-platoon.json"
     },
     {
       "igdb_id": 211792,
@@ -667382,6 +667407,11 @@
       "file": "missing/M/348751-mighty-arms.json"
     },
     {
+      "igdb_id": 6510,
+      "game_name": "Mighty Beanz Pocket Puzzles",
+      "file": "missing/M/6510-mighty-beanz-pocket-puzzles.json"
+    },
+    {
       "igdb_id": 40531,
       "game_name": "Mighty Bomb Jack",
       "file": "missing/M/40531-mighty-bomb-jack.json"
@@ -685997,6 +686027,11 @@
       "file": "missing/M/184783-monster-rancher-2-dx.json"
     },
     {
+      "igdb_id": 6512,
+      "game_name": "Monster Rancher Advance 2",
+      "file": "missing/M/6512-monster-rancher-advance-2.json"
+    },
+    {
       "igdb_id": 104241,
       "game_name": "Monster Rancher Battle Card GB",
       "file": "missing/M/104241-monster-rancher-battle-card-gb.json"
@@ -692575,6 +692610,11 @@
       "igdb_id": 25019,
       "game_name": "Moto Racer 4: Deluxe Edition",
       "file": "missing/M/25019-moto-racer-4-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 6515,
+      "game_name": "Moto Racer Advance",
+      "file": "missing/M/6515-moto-racer-advance.json"
     },
     {
       "igdb_id": 36248,
@@ -1102352,11 +1102392,6 @@
       "file": "missing/T/47955-the-naked-brothers-band-the-video-game.json"
     },
     {
-      "igdb_id": 408022,
-      "game_name": "The Name I Wear",
-      "file": "missing/T/408022-the-name-i-wear.json"
-    },
-    {
       "igdb_id": 178458,
       "game_name": "The Nameless",
       "file": "missing/T/178458-the-nameless.json"
@@ -1197727,11 +1197762,6 @@
       "file": "missing/V/380519-valkyrie-drive-bhikkhuni-nyuu-nyuu-dx-pack.json"
     },
     {
-      "igdb_id": 194207,
-      "game_name": "Valkyrie Elysium",
-      "file": "missing/V/194207-valkyrie-elysium.json"
-    },
-    {
       "igdb_id": 120340,
       "game_name": "Valkyrie Galaxy",
       "file": "missing/V/120340-valkyrie-galaxy.json"
@@ -1229135,11 +1229165,6 @@
       "igdb_id": 282222,
       "game_name": "Wheelborn",
       "file": "missing/W/282222-wheelborn.json"
-    },
-    {
-      "igdb_id": 406738,
-      "game_name": "Wheelchair for Two",
-      "file": "missing/W/406738-wheelchair-for-two.json"
     },
     {
       "igdb_id": 103157,
