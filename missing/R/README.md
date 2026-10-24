@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racquet Sports | 51060 | [51060-racquet-sports.json](./51060-racquet-sports.json) |
 | Racquetball | 64813 | [64813-racquetball.json](./64813-racquetball.json) |
 | Racter | 26406 | [26406-racter.json](./26406-racter.json) |
+| Rad | 116414 | [116414-rad.json](./116414-rad.json) |
 | Rad Blaster | 130883 | [130883-rad-blaster.json](./130883-rad-blaster.json) |
 | Rad Dude | 167668 | [167668-rad-dude.json](./167668-rad-dude.json) |
 | Rad Mobile | 39570 | [39570-rad-mobile.json](./39570-rad-mobile.json) |
@@ -934,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad to Amberfield | 380204 | [380204-railroad-to-amberfield.json](./380204-railroad-to-amberfield.json) |
 | Railroad Tycoon 3 | 840 | [840-railroad-tycoon-3.json](./840-railroad-tycoon-3.json) |
 | Railroad Tycoon Collection | 53490 | [53490-railroad-tycoon-collection.json](./53490-railroad-tycoon-collection.json) |
+| Railroad Tycoon II | 285 | [285-railroad-tycoon-ii.json](./285-railroad-tycoon-ii.json) |
 | Railroad Tycoon II: Gold Edition | 45834 | [45834-railroad-tycoon-ii-gold-edition.json](./45834-railroad-tycoon-ii-gold-edition.json) |
 | Railroad Tycoon II: The Second Century | 71480 | [71480-railroad-tycoon-ii-the-second-century.json](./71480-railroad-tycoon-ii-the-second-century.json) |
 | Railroad X | 16663 | [16663-railroad-x.json](./16663-railroad-x.json) |
@@ -2511,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm Battle | 104399 | [104399-realm-battle.json](./104399-realm-battle.json) |
 | Realm Craft | 251811 | [251811-realm-craft.json](./251811-realm-craft.json) |
 | Realm Drifter | 309714 | [309714-realm-drifter.json](./309714-realm-drifter.json) |
+| Realm Grinder | 36721 | [36721-realm-grinder.json](./36721-realm-grinder.json) |
 | Realm Hacker | 132271 | [132271-realm-hacker.json](./132271-realm-hacker.json) |
 | Realm Lands | 125686 | [125686-realm-lands.json](./125686-realm-lands.json) |
 | Realm of Abhorrus | 182747 | [182747-realm-of-abhorrus.json](./182747-realm-of-abhorrus.json) |
