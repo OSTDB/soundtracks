@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint George's Tavern | 388731 | [388731-saint-georges-tavern.json](./388731-saint-georges-tavern.json) |
 | Saint Goddess | 368660 | [368660-saint-goddess.json](./368660-saint-goddess.json) |
 | Saint Hell | 249329 | [249329-saint-hell.json](./249329-saint-hell.json) |
+| Saint Kotar | 169552 | [169552-saint-kotar.json](./169552-saint-kotar.json) |
 | Saint Kotar: Digital Deluxe Edition | 246621 | [246621-saint-kotar-digital-deluxe-edition.json](./246621-saint-kotar-digital-deluxe-edition.json) |
 | Saint Kotar: The Crawling Man | 227124 | [227124-saint-kotar-the-crawling-man.json](./227124-saint-kotar-the-crawling-man.json) |
 | Saint Maker | 195551 | [195551-saint-maker.json](./195551-saint-maker.json) |
@@ -27502,6 +27503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surrender | 313798 | [313798-surrender.json](./313798-surrender.json) |
 | Surrender 2 | 313799 | [313799-surrender-2.json](./313799-surrender-2.json) |
 | Surrogate | 270889 | [270889-surrogate.json](./270889-surrogate.json) |
+| SurrounDead | 153225 | [153225-surroundead.json](./153225-surroundead.json) |
 | SurrounDead Poly Construction | 399158 | [399158-surroundead-poly-construction.json](./399158-surroundead-poly-construction.json) |
 | Surrounded | 187157 | [187157-surrounded.json](./187157-surrounded.json) |
 | Surrounded by Death | 311613 | [311613-surrounded-by-death.json](./311613-surrounded-by-death.json) |
