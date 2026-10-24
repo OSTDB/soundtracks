@@ -3466,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orphans | 280206 | [280206-orphans.json](./280206-orphans.json) |
 | Orphans Order | 174652 | [174652-orphans-order.json](./174652-orphans-order.json) |
 | Orphée: Voyage aux Enfers | 84184 | [84184-orphee-voyage-aux-enfers.json](./84184-orphee-voyage-aux-enfers.json) |
+| Orphen: Scion of Sorcery | 24165 | [24165-orphen-scion-of-sorcery.json](./24165-orphen-scion-of-sorcery.json) |
 | Orpheus | 111020 | [111020-orpheus.json](./111020-orpheus.json) |
 | Orpheus | 237084 | [237084-orpheus.json](./237084-orpheus.json) |
 | Orpheus | 262090 | [262090-orpheus.json](./262090-orpheus.json) |
