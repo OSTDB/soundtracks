@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iberia | 298787 | [298787-iberia.json](./298787-iberia.json) |
 | Ibix the Viking | 13250 | [13250-ibix-the-viking.json](./13250-ibix-the-viking.json) |
 | Ibiza Beach Party | 340341 | [340341-ibiza-beach-party.json](./340341-ibiza-beach-party.json) |
+| iBlast Moki | 23256 | [23256-iblast-moki.json](./23256-iblast-moki.json) |
 | iBlast Moki 2 HD | 174235 | [174235-iblast-moki-2-hd.json](./174235-iblast-moki-2-hd.json) |
 | Iblis | 344578 | [344578-iblis.json](./344578-iblis.json) |
 | Iblis2: Sorcery | 226703 | [226703-iblis2-sorcery.json](./226703-iblis2-sorcery.json) |
@@ -3075,6 +3076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Onslaught | 332295 | [332295-infinite-onslaught.json](./332295-infinite-onslaught.json) |
 | Infinite Origin | 348825 | [348825-infinite-origin.json](./348825-infinite-origin.json) |
 | Infinite Passengers | 88161 | [88161-infinite-passengers.json](./88161-infinite-passengers.json) |
+| Infinite Pinball | 23237 | [23237-infinite-pinball.json](./23237-infinite-pinball.json) |
 | Infinite Pixel | 62692 | [62692-infinite-pixel.json](./62692-infinite-pixel.json) |
 | Infinite Pixel Battles | 188851 | [188851-infinite-pixel-battles.json](./188851-infinite-pixel-battles.json) |
 | Infinite Pizza | 141819 | [141819-infinite-pizza.json](./141819-infinite-pizza.json) |
@@ -4377,6 +4379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion of the Space Aliens... | 71178 | [71178-invasion-of-the-space-aliens.json](./71178-invasion-of-the-space-aliens.json) |
 | Invasion of the Zombie Monsters | 197857 | [197857-invasion-of-the-zombie-monsters.json](./197857-invasion-of-the-zombie-monsters.json) |
 | Invasion Omega | 339899 | [339899-invasion-omega.json](./339899-invasion-omega.json) |
+| Invasion Orion | 23298 | [23298-invasion-orion.json](./23298-invasion-orion.json) |
 | Invasion Rush | 295077 | [295077-invasion-rush.json](./295077-invasion-rush.json) |
 | Invasion To Cane | 275469 | [275469-invasion-to-cane.json](./275469-invasion-to-cane.json) |
 | Invasion UAC | 257528 | [257528-invasion-uac.json](./257528-invasion-uac.json) |
