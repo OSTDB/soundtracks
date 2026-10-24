@@ -8027,6 +8027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon | 350058 | [350058-horizon.json](./350058-horizon.json) |
 | Horizon 1990 | 399171 | [399171-horizon-1990.json](./399171-horizon-1990.json) |
 | Horizon Beyond | 121592 | [121592-horizon-beyond.json](./121592-horizon-beyond.json) |
+| Horizon Chase 2 | 215062 | [215062-horizon-chase-2.json](./215062-horizon-chase-2.json) |
 | Horizon Chase Turbo: Rookie Series | 170428 | [170428-horizon-chase-turbo-rookie-series.json](./170428-horizon-chase-turbo-rookie-series.json) |
 | Horizon Chase Turbo: Senna Forever | 176882 | [176882-horizon-chase-turbo-senna-forever.json](./176882-horizon-chase-turbo-senna-forever.json) |
 | Horizon Chase Turbo: Summer Vibes | 170427 | [170427-horizon-chase-turbo-summer-vibes.json](./170427-horizon-chase-turbo-summer-vibes.json) |
