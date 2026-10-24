@@ -8076,6 +8076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleasure Delving | 395748 | [395748-pleasure-delving.json](./395748-pleasure-delving.json) |
 | Pleasure Kingdom | 190075 | [190075-pleasure-kingdom.json](./190075-pleasure-kingdom.json) |
 | Pleasure Party 2 | 262000 | [262000-pleasure-party-2.json](./262000-pleasure-party-2.json) |
+| Pleasure Puzzle: Portrait | 109901 | [109901-pleasure-puzzle-portrait.json](./109901-pleasure-puzzle-portrait.json) |
 | Pleasure Puzzle:Workshop - Part 1 | 163468 | [163468-pleasure-puzzle-workshop-part-1.json](./163468-pleasure-puzzle-workshop-part-1.json) |
 | Pleasure Puzzle:Workshop - Part 2 | 163467 | [163467-pleasure-puzzle-workshop-part-2.json](./163467-pleasure-puzzle-workshop-part-2.json) |
 | Pleasure Puzzle:Workshop - Part 3 | 163466 | [163466-pleasure-puzzle-workshop-part-3.json](./163466-pleasure-puzzle-workshop-part-3.json) |
