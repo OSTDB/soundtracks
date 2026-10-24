@@ -3568,6 +3568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Human | 135716 | [135716-hello-human.json](./135716-hello-human.json) |
 | Hello inc VR | 28941 | [28941-hello-inc-vr.json](./28941-hello-inc-vr.json) |
 | Hello Kitty & Friends: Rock n' World Tour | 83210 | [83210-hello-kitty-and-friends-rock-n-world-tour.json](./83210-hello-kitty-and-friends-rock-n-world-tour.json) |
+| Hello Kitty and Friends: Freeze Tag Party | 371418 | [371418-hello-kitty-and-friends-freeze-tag-party.json](./371418-hello-kitty-and-friends-freeze-tag-party.json) |
 | Hello Kitty and Friends: Happiness Parade | 204458 | [204458-hello-kitty-and-friends-happiness-parade.json](./204458-hello-kitty-and-friends-happiness-parade.json) |
 | Hello Kitty and Sanrio Friends Racing | 35243 | [35243-hello-kitty-and-sanrio-friends-racing.json](./35243-hello-kitty-and-sanrio-friends-racing.json) |
 | Hello Kitty Asobi no Omochabako | 226076 | [226076-hello-kitty-asobi-no-omochabako.json](./226076-hello-kitty-asobi-no-omochabako.json) |
@@ -4733,6 +4734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Royale | 181144 | [181144-hero-royale.json](./181144-hero-royale.json) |
 | Hero Rush: Mad King | 72417 | [72417-hero-rush-mad-king.json](./72417-hero-rush-mad-king.json) |
 | Hero Secret Realm Survivor Roguelike | 366293 | [366293-hero-secret-realm-survivor-roguelike.json](./366293-hero-secret-realm-survivor-roguelike.json) |
+| Hero Seekers | 378763 | [378763-hero-seekers.json](./378763-hero-seekers.json) |
 | Hero Shuugou!! Pinball Party | 228639 | [228639-hero-shuugou-pinball-party.json](./228639-hero-shuugou-pinball-party.json) |
 | Hero Siege | 11708 | [11708-hero-siege.json](./11708-hero-siege.json) |
 | Hero Siege Complete | 53188 | [53188-hero-siege-complete.json](./53188-hero-siege-complete.json) |
