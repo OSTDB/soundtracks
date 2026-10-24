@@ -7360,6 +7360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LP Recharge | 227970 | [227970-lp-recharge.json](./227970-lp-recharge.json) |
 | Lrrl or Rllr | 169441 | [169441-lrrl-or-rllr.json](./169441-lrrl-or-rllr.json) |
 | LSD Battlefield Simulator | 340927 | [340927-lsd-battlefield-simulator.json](./340927-lsd-battlefield-simulator.json) |
+| LSD: Dream Emulator | 9235 | [9235-lsd-dream-emulator.json](./9235-lsd-dream-emulator.json) |
 | LSD: Dream Emulator Retro | 333780 | [333780-lsd-dream-emulator-retro.json](./333780-lsd-dream-emulator-retro.json) |
 | LSD: Revamped | 25031 | [25031-lsd-revamped.json](./25031-lsd-revamped.json) |
 | LSD: The Game | 116998 | [116998-lsd-the-game.json](./116998-lsd-the-game.json) |
