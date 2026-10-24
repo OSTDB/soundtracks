@@ -8615,6 +8615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Extreme Racing | 45058 | [45058-hot-wheels-extreme-racing.json](./45058-hot-wheels-extreme-racing.json) |
 | Hot Wheels: Jetz | 166206 | [166206-hot-wheels-jetz.json](./166206-hot-wheels-jetz.json) |
 | Hot Wheels: Mechanix | 70991 | [70991-hot-wheels-mechanix.json](./70991-hot-wheels-mechanix.json) |
+| Hot Wheels: Race Off | 56246 | [56246-hot-wheels-race-off.json](./56246-hot-wheels-race-off.json) |
 | Hot Wheels: Rift Rally | 254347 | [254347-hot-wheels-rift-rally.json](./254347-hot-wheels-rift-rally.json) |
 | Hot Wheels: Stunt Track Challenge | 248755 | [248755-hot-wheels-stunt-track-challenge.json](./248755-hot-wheels-stunt-track-challenge.json) |
 | Hot Wheels: Track Attack | 328299 | [328299-hot-wheels-track-attack.json](./328299-hot-wheels-track-attack.json) |
