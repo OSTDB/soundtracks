@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vec Sports Boxing | 273284 | [273284-vec-sports-boxing.json](./273284-vec-sports-boxing.json) |
 | Vec-Man | 273908 | [273908-vec-man.json](./273908-vec-man.json) |
 | Veccol | 111535 | [111535-veccol.json](./111535-veccol.json) |
+| Vecitas | 30524 | [30524-vecitas.json](./30524-vecitas.json) |
 | Veck | 71208 | [71208-veck.json](./71208-veck.json) |
 | Vecmania | 46513 | [46513-vecmania.json](./46513-vecmania.json) |
 | Vecter | 124183 | [124183-vecter.json](./124183-vecter.json) |
@@ -1728,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Colony Builder Valhalla | 322979 | [322979-viking-colony-builder-valhalla.json](./322979-viking-colony-builder-valhalla.json) |
 | Viking Days Remaster | 327649 | [327649-viking-days-remaster.json](./327649-viking-days-remaster.json) |
 | Viking Dodge | 7837 | [7837-viking-dodge.json](./7837-viking-dodge.json) |
+| Viking Escape | 30559 | [30559-viking-escape.json](./30559-viking-escape.json) |
 | Viking Farm | 396909 | [396909-viking-farm.json](./396909-viking-farm.json) |
 | Viking Fish | 318620 | [318620-viking-fish.json](./318620-viking-fish.json) |
 | Viking Frontiers | 286113 | [286113-viking-frontiers.json](./286113-viking-frontiers.json) |
@@ -3041,6 +3043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Angry Cow Farm Simulator | 109021 | [109021-vr-angry-cow-farm-simulator.json](./109021-vr-angry-cow-farm-simulator.json) |
 | VR Animal Kids Rumble | 371902 | [371902-vr-animal-kids-rumble.json](./371902-vr-animal-kids-rumble.json) |
 | VR Another World | 152810 | [152810-vr-another-world.json](./152810-vr-another-world.json) |
+| VR Apocalypse | 30554 | [30554-vr-apocalypse.json](./30554-vr-apocalypse.json) |
 | VR Aquarium Miyabi | 29828 | [29828-vr-aquarium-miyabi.json](./29828-vr-aquarium-miyabi.json) |
 | VR Archeology: Secrets of Kulikovo Field | 226160 | [226160-vr-archeology-secrets-of-kulikovo-field.json](./226160-vr-archeology-secrets-of-kulikovo-field.json) |
 | VR AstroSmash | 157533 | [157533-vr-astrosmash.json](./157533-vr-astrosmash.json) |
