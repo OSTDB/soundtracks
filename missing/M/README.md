@@ -1543,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Hana no Momoko Gumi | 57595 | [57595-mahjong-hana-no-momoko-gumi.json](./57595-mahjong-hana-no-momoko-gumi.json) |
 | Mahjong Hanjouki | 37938 | [37938-mahjong-hanjouki.json](./37938-mahjong-hanjouki.json) |
 | Mahjong Haoh: Dankyuu Battle II | 204352 | [204352-mahjong-haoh-dankyuu-battle-ii.json](./204352-mahjong-haoh-dankyuu-battle-ii.json) |
+| Mahjong Haouden: Kaiser's Quest | 38098 | [38098-mahjong-haouden-kaisers-quest.json](./38098-mahjong-haouden-kaisers-quest.json) |
 | Mahjong Hishou-den: Shin Naki no Ryuu | 37937 | [37937-mahjong-hishou-den-shin-naki-no-ryuu.json](./37937-mahjong-hishou-den-shin-naki-no-ryuu.json) |
 | Mahjong Hot Gimmick Integral | 137932 | [137932-mahjong-hot-gimmick-integral.json](./137932-mahjong-hot-gimmick-integral.json) |
 | Mahjong Hourouki Classic | 136735 | [136735-mahjong-hourouki-classic.json](./136735-mahjong-hourouki-classic.json) |
