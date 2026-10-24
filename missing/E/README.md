@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports F1 2001 | 307801 | [307801-ea-sports-f1-2001.json](./307801-ea-sports-f1-2001.json) |
 | EA Sports Fantasy Football Live Draft Tracker | 72895 | [72895-ea-sports-fantasy-football-live-draft-tracker.json](./72895-ea-sports-fantasy-football-live-draft-tracker.json) |
 | EA Sports Fantasy Football Live Score Tracker | 90929 | [90929-ea-sports-fantasy-football-live-score-tracker.json](./90929-ea-sports-fantasy-football-live-score-tracker.json) |
+| EA Sports FC 24 | 256092 | [256092-ea-sports-fc-24.json](./256092-ea-sports-fc-24.json) |
 | EA Sports FC 24: Ultimate Edition | 256169 | [256169-ea-sports-fc-24-ultimate-edition.json](./256169-ea-sports-fc-24-ultimate-edition.json) |
 | EA Sports FC 25 | 308698 | [308698-ea-sports-fc-25.json](./308698-ea-sports-fc-25.json) |
 | EA Sports FC 25: Ultimate Edition | 309043 | [309043-ea-sports-fc-25-ultimate-edition.json](./309043-ea-sports-fc-25-ultimate-edition.json) |
