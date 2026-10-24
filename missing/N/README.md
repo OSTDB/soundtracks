@@ -2493,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Fall | 334187 | [334187-never-fall.json](./334187-never-fall.json) |
 | Never Forget Me | 31168 | [31168-never-forget-me.json](./31168-never-forget-me.json) |
 | Never Forgotten | 239639 | [239639-never-forgotten.json](./239639-never-forgotten.json) |
+| Never Give Up | 81183 | [81183-never-give-up.json](./81183-never-give-up.json) |
 | Never give up! | 30540 | [30540-never-give-up.json](./30540-never-give-up.json) |
 | Never Gives Up Her Dead | 290350 | [290350-never-gives-up-her-dead.json](./290350-never-gives-up-her-dead.json) |
 | Never Go Home | 120880 | [120880-never-go-home.json](./120880-never-go-home.json) |
@@ -6077,6 +6078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuke Them All | 250513 | [250513-nuke-them-all.json](./250513-nuke-them-all.json) |
 | Nuke Your Neighbor | 68535 | [68535-nuke-your-neighbor.json](./68535-nuke-your-neighbor.json) |
 | Nuke Zone | 130085 | [130085-nuke-zone.json](./130085-nuke-zone.json) |
+| Nuked Knight | 33380 | [33380-nuked-knight.json](./33380-nuked-knight.json) |
 | Nukeout | 100763 | [100763-nukeout.json](./100763-nukeout.json) |
 | Nukepath | 219625 | [219625-nukepath.json](./219625-nukepath.json) |
 | Nuketris | 145666 | [145666-nuketris.json](./145666-nuketris.json) |
