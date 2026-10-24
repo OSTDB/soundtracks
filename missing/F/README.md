@@ -7175,6 +7175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foo Foo | 138148 | [138148-foo-foo.json](./138148-foo-foo.json) |
 | Fooaaahh! | 182451 | [182451-fooaaahh.json](./182451-fooaaahh.json) |
 | Foobar 0 | 176722 | [176722-foobar-0.json](./176722-foobar-0.json) |
+| Fooblitzky | 26265 | [26265-fooblitzky.json](./26265-fooblitzky.json) |
 | Foobse | 403541 | [403541-foobse.json](./403541-foobse.json) |
 | Food Adventures | 395173 | [395173-food-adventures.json](./395173-food-adventures.json) |
 | Food and Girls | 148363 | [148363-food-and-girls.json](./148363-food-and-girls.json) |
@@ -7589,6 +7590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden | 195953 | [195953-forbidden.json](./195953-forbidden.json) |
 | Forbidden Arms: Bloodlust | 184853 | [184853-forbidden-arms-bloodlust.json](./184853-forbidden-arms-bloodlust.json) |
 | Forbidden Art | 123978 | [123978-forbidden-art.json](./123978-forbidden-art.json) |
+| Forbidden Castle | 26264 | [26264-forbidden-castle.json](./26264-forbidden-castle.json) |
 | Forbidden Castle: Mahjong Tale | 56404 | [56404-forbidden-castle-mahjong-tale.json](./56404-forbidden-castle-mahjong-tale.json) |
 | Forbidden City Journey | 240778 | [240778-forbidden-city-journey.json](./240778-forbidden-city-journey.json) |
 | Forbidden Compass | 404206 | [404206-forbidden-compass.json](./404206-forbidden-compass.json) |
@@ -9402,6 +9404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frequent Flyer: A Long Distance Love Story | 88089 | [88089-frequent-flyer-a-long-distance-love-story.json](./88089-frequent-flyer-a-long-distance-love-story.json) |
 | Frequenting Brothel | 82603 | [82603-frequenting-brothel.json](./82603-frequenting-brothel.json) |
 | Frequon Invaders | 73186 | [73186-frequon-invaders.json](./73186-frequon-invaders.json) |
+| Fresco | 26238 | [26238-fresco.json](./26238-fresco.json) |
 | Fresh Body | 30666 | [30666-fresh-body.json](./30666-fresh-body.json) |
 | Fresh Catch! | 346712 | [346712-fresh-catch.json](./346712-fresh-catch.json) |
 | Fresh Craft : Survival & Creative | 101292 | [101292-fresh-craft-survival-and-creative.json](./101292-fresh-craft-survival-and-creative.json) |
