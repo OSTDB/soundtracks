@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Fighter | 110520 | [110520-warrior-fighter.json](./110520-warrior-fighter.json) |
 | Warrior Heart | 200204 | [200204-warrior-heart.json](./200204-warrior-heart.json) |
 | Warrior Kings | 17343 | [17343-warrior-kings.json](./17343-warrior-kings.json) |
+| Warrior Kings: Battles | 24179 | [24179-warrior-kings-battles.json](./24179-warrior-kings-battles.json) |
 | Warrior Mage or Rogue alike | 359352 | [359352-warrior-mage-or-rogue-alike.json](./359352-warrior-mage-or-rogue-alike.json) |
 | Warrior Maiden | 210861 | [210861-warrior-maiden.json](./210861-warrior-maiden.json) |
 | Warrior Maiden Lecia and the Lost Fortress | 373646 | [373646-warrior-maiden-lecia-and-the-lost-fortress.json](./373646-warrior-maiden-lecia-and-the-lost-fortress.json) |
@@ -3236,7 +3237,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -4760,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Wor | 105255 | [105255-wings-of-wor.json](./105255-wings-of-wor.json) |
 | Wings of WW2 | 174112 | [174112-wings-of-ww2.json](./174112-wings-of-ww2.json) |
 | Wings Over China: Air Battles of the Flying Tigers | 69563 | [69563-wings-over-china-air-battles-of-the-flying-tigers.json](./69563-wings-over-china-air-battles-of-the-flying-tigers.json) |
+| Wings Over Europe: Cold War Gone Hot | 23120 | [23120-wings-over-europe-cold-war-gone-hot.json](./23120-wings-over-europe-cold-war-gone-hot.json) |
 | Wings Through Time | 174731 | [174731-wings-through-time.json](./174731-wings-through-time.json) |
 | Wings VR | 211221 | [211221-wings-vr.json](./211221-wings-vr.json) |
 | Wings: Emulated Amiga Edition | 154945 | [154945-wings-emulated-amiga-edition.json](./154945-wings-emulated-amiga-edition.json) |
