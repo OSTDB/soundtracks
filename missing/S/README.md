@@ -8401,6 +8401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Harmony | 394479 | [394479-silent-harmony.json](./394479-silent-harmony.json) |
 | Silent Hill | 349441 | [349441-silent-hill.json](./349441-silent-hill.json) |
 | Silent Hill 2: Deluxe Edition | 303813 | [303813-silent-hill-2-deluxe-edition.json](./303813-silent-hill-2-deluxe-edition.json) |
+| Silent Hill 2: Enhanced Edition | 222334 | [222334-silent-hill-2-enhanced-edition.json](./222334-silent-hill-2-enhanced-edition.json) |
 | Silent Hill 2: Restless Dreams | 22066 | [22066-silent-hill-2-restless-dreams.json](./22066-silent-hill-2-restless-dreams.json) |
 | Silent Hill 2: Special 2 Disc Set | 43277 | [43277-silent-hill-2-special-2-disc-set.json](./43277-silent-hill-2-special-2-disc-set.json) |
 | Silent Hill 2: Streets of Rage | 234020 | [234020-silent-hill-2-streets-of-rage.json](./234020-silent-hill-2-streets-of-rage.json) |
@@ -10736,6 +10737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Man: Rise Again | 323972 | [323972-slender-man-rise-again.json](./323972-slender-man-rise-again.json) |
 | Slender Multiplayer | 270731 | [270731-slender-multiplayer.json](./270731-slender-multiplayer.json) |
 | Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
+| Slender Threads | 127424 | [127424-slender-threads.json](./127424-slender-threads.json) |
 | Slender-Man | 64424 | [64424-slender-man.json](./64424-slender-man.json) |
 | Slender: Adrift | 321330 | [321330-slender-adrift.json](./321330-slender-adrift.json) |
 | Slender: Anxiety | 126274 | [126274-slender-anxiety.json](./126274-slender-anxiety.json) |
@@ -11775,6 +11777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smurfs' Village | 234053 | [234053-smurfs-village.json](./234053-smurfs-village.json) |
 | Smush | 119028 | [119028-smush.json](./119028-smush.json) |
 | Smush.TV | 111707 | [111707-smush-tv.json](./111707-smush-tv.json) |
+| Smushi Come Home | 211223 | [211223-smushi-come-home.json](./211223-smushi-come-home.json) |
 | Smuta | 294643 | [294643-smuta.json](./294643-smuta.json) |
 | Smuta: Inception | 204892 | [204892-smuta-inception.json](./204892-smuta-inception.json) |
 | Smuta: Zov serdtsa | 366715 | [366715-smuta-zov-serdtsa.json](./366715-smuta-zov-serdtsa.json) |
@@ -11826,6 +11829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snägäri Pinball | 388765 | [388765-snagari-pinball.json](./388765-snagari-pinball.json) |
 | Snail | 331342 | [331342-snail.json](./331342-snail.json) |
 | Snail Against Squirrel | 40696 | [40696-snail-against-squirrel.json](./40696-snail-against-squirrel.json) |
+| Snail Bob | 213636 | [213636-snail-bob.json](./213636-snail-bob.json) |
 | Snail Bob | 88162 | [88162-snail-bob.json](./88162-snail-bob.json) |
 | Snail Bob 2 | 213637 | [213637-snail-bob-2.json](./213637-snail-bob-2.json) |
 | Snail Bob 2 Deluxe | 96554 | [96554-snail-bob-2-deluxe.json](./96554-snail-bob-2-deluxe.json) |
@@ -14263,6 +14267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Scramble | 334685 | [334685-sonic-scramble.json](./334685-sonic-scramble.json) |
 | Sonic Seasons | 370301 | [370301-sonic-seasons.json](./370301-sonic-seasons.json) |
 | Sonic Shift | 330297 | [330297-sonic-shift.json](./330297-sonic-shift.json) |
+| Sonic Shuffle | 21969 | [21969-sonic-shuffle.json](./21969-sonic-shuffle.json) |
 | Sonic Skateboard | 152977 | [152977-sonic-skateboard.json](./152977-sonic-skateboard.json) |
 | Sonic Sky Chase Zone | 339670 | [339670-sonic-sky-chase-zone.json](./339670-sonic-sky-chase-zone.json) |
 | Sonic Skyfall | 316497 | [316497-sonic-skyfall.json](./316497-sonic-skyfall.json) |
@@ -22166,6 +22171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded With Darkness | 357667 | [357667-stranded-with-darkness.json](./357667-stranded-with-darkness.json) |
 | Stranded With You | 389969 | [389969-stranded-with-you.json](./389969-stranded-with-you.json) |
 | Stranded: A Mars Adventure | 99532 | [99532-stranded-a-mars-adventure.json](./99532-stranded-a-mars-adventure.json) |
+| Stranded: Alien Dawn | 214408 | [214408-stranded-alien-dawn.json](./214408-stranded-alien-dawn.json) |
 | Stranded: Alien Dawn Premium Edition | 275619 | [275619-stranded-alien-dawn-premium-edition.json](./275619-stranded-alien-dawn-premium-edition.json) |
 | Stranded: Escape the Room | 175876 | [175876-stranded-escape-the-room.json](./175876-stranded-escape-the-room.json) |
 | Stranded: Mars ONE | 128412 | [128412-stranded-mars-one.json](./128412-stranded-mars-one.json) |
@@ -23251,6 +23257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stygian | 141784 | [141784-stygian.json](./141784-stygian.json) |
 | Stygian Flowers | 209733 | [209733-stygian-flowers.json](./209733-stygian-flowers.json) |
 | Stygian: Outer Gods | 295657 | [295657-stygian-outer-gods.json](./295657-stygian-outer-gods.json) |
+| Stygian: Reign of the Old Ones | 21998 | [21998-stygian-reign-of-the-old-ones.json](./21998-stygian-reign-of-the-old-ones.json) |
 | Style Book: Cinnamoroll | 123453 | [123453-style-book-cinnamoroll.json](./123453-style-book-cinnamoroll.json) |
 | Style Book: Junior City | 123452 | [123452-style-book-junior-city.json](./123452-style-book-junior-city.json) |
 | Style Lab Makeover | 47980 | [47980-style-lab-makeover.json](./47980-style-lab-makeover.json) |
@@ -24991,6 +24998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Emo Alpaca | 330761 | [330761-super-emo-alpaca.json](./330761-super-emo-alpaca.json) |
 | Super Engine GT Turbo SPEC | 338922 | [338922-super-engine-gt-turbo-spec.json](./338922-super-engine-gt-turbo-spec.json) |
 | Super Erect Taisen S-EX | 272335 | [272335-super-erect-taisen-s-ex.json](./272335-super-erect-taisen-s-ex.json) |
+| Super Exploding Zoo | 22775 | [22775-super-exploding-zoo.json](./22775-super-exploding-zoo.json) |
 | Super Extra Team Dungeon Game | 287528 | [287528-super-extra-team-dungeon-game.json](./287528-super-extra-team-dungeon-game.json) |
 | Super Falling Fred | 295025 | [295025-super-falling-fred.json](./295025-super-falling-fred.json) |
 | Super Famicom Wars | 38320 | [38320-super-famicom-wars.json](./38320-super-famicom-wars.json) |
