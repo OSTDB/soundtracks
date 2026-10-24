@@ -4126,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII: Ever Crisis | 144040 | [144040-final-fantasy-vii-ever-crisis.json](./144040-final-fantasy-vii-ever-crisis.json) |
 | Final Fantasy VII: New Threat Mod | 144689 | [144689-final-fantasy-vii-new-threat-mod.json](./144689-final-fantasy-vii-new-threat-mod.json) |
 | Final Fantasy VII: Regenesis | 394328 | [394328-final-fantasy-vii-regenesis.json](./394328-final-fantasy-vii-regenesis.json) |
+| Final Fantasy VII: The First Soldier | 144038 | [144038-final-fantasy-vii-the-first-soldier.json](./144038-final-fantasy-vii-the-first-soldier.json) |
 | Final Fantasy VIII | 203524 | [203524-final-fantasy-viii.json](./203524-final-fantasy-viii.json) |
 | Final Fantasy VIII Remastered | 119374 | [119374-final-fantasy-viii-remastered.json](./119374-final-fantasy-viii-remastered.json) |
 | Final Fantasy VIII Remastered | 340338 | [340338-final-fantasy-viii-remastered.json](./340338-final-fantasy-viii-remastered.json) |
@@ -9257,6 +9258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Fall | 267940 | [267940-free-fall.json](./267940-free-fall.json) |
 | Free Fall | 321756 | [321756-free-fall.json](./321756-free-fall.json) |
 | Free Fall | 364961 | [364961-free-fall.json](./364961-free-fall.json) |
+| Free Fire Max | 149972 | [149972-free-fire-max.json](./149972-free-fire-max.json) |
 | Free Fishing | 344785 | [344785-free-fishing.json](./344785-free-fishing.json) |
 | Free for All | 262920 | [262920-free-for-all.json](./262920-free-for-all.json) |
 | Free for Fall | 192970 | [192970-free-for-fall.json](./192970-free-for-fall.json) |
