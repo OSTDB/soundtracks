@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarterback Attack | 4282 | [4282-quarterback-attack.json](./4282-quarterback-attack.json) |
 | Quarterback Attack with Mike Ditka | 176692 | [176692-quarterback-attack-with-mike-ditka.json](./176692-quarterback-attack-with-mike-ditka.json) |
 | Quarterback Attack with Mike Ditka | 38828 | [38828-quarterback-attack-with-mike-ditka.json](./38828-quarterback-attack-with-mike-ditka.json) |
+| Quarterback Snap | 32525 | [32525-quarterback-snap.json](./32525-quarterback-snap.json) |
 | Quartermain and the Cult of Cthulhu | 332389 | [332389-quartermain-and-the-cult-of-cthulhu.json](./332389-quartermain-and-the-cult-of-cthulhu.json) |
 | Quartermaster | 118639 | [118639-quartermaster.json](./118639-quartermaster.json) |
 | Quartermaster | 368478 | [368478-quartermaster.json](./368478-quartermaster.json) |
