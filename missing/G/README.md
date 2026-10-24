@@ -2008,7 +2008,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War 3: Forces of Nature | 148248 | [148248-gears-of-war-3-forces-of-nature.json](./148248-gears-of-war-3-forces-of-nature.json) |
 | Gears of War 4: Amazon Exclusive Collector's Edition | 51540 | [51540-gears-of-war-4-amazon-exclusive-collectors-edition.json](./51540-gears-of-war-4-amazon-exclusive-collectors-edition.json) |
 | Gears of War 4: Collector's Edition - Outsider Variant | 89838 | [89838-gears-of-war-4-collectors-edition-outsider-variant.json](./89838-gears-of-war-4-collectors-edition-outsider-variant.json) |
-| Gears of War: E-Day | 305160 | [305160-gears-of-war-e-day.json](./305160-gears-of-war-e-day.json) |
 | Gears of War: Limited Collector's Edition | 47450 | [47450-gears-of-war-limited-collectors-edition.json](./47450-gears-of-war-limited-collectors-edition.json) |
 | Gears of War: Reloaded | 342721 | [342721-gears-of-war-reloaded.json](./342721-gears-of-war-reloaded.json) |
 | Gears of War: Triple Pack | 136314 | [136314-gears-of-war-triple-pack.json](./136314-gears-of-war-triple-pack.json) |
