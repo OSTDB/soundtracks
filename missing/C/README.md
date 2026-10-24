@@ -13873,6 +13873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Annihilation | 36027 | [36027-critical-annihilation.json](./36027-critical-annihilation.json) |
 | Critical Bullet: 7th Target | 72121 | [72121-critical-bullet-7th-target.json](./72121-critical-bullet-7th-target.json) |
 | Critical Damage | 24732 | [24732-critical-damage.json](./24732-critical-damage.json) |
+| Critical Depth | 43704 | [43704-critical-depth.json](./43704-critical-depth.json) |
 | Critical Descent | 386548 | [386548-critical-descent.json](./386548-critical-descent.json) |
 | Critical Failure: No Man's Land | 415977 | [415977-critical-failure-no-mans-land.json](./415977-critical-failure-no-mans-land.json) |
 | Critical Fishing | 293144 | [293144-critical-fishing.json](./293144-critical-fishing.json) |
