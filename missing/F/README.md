@@ -6207,6 +6207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flesh & Wire | 392820 | [392820-flesh-and-wire.json](./392820-flesh-and-wire.json) |
 | Flesh 4 Boy | 178544 | [178544-flesh-4-boy.json](./178544-flesh-4-boy.json) |
 | Flesh Blossom | 398000 | [398000-flesh-blossom.json](./398000-flesh-blossom.json) |
+| Flesh Eaters | 34957 | [34957-flesh-eaters.json](./34957-flesh-eaters.json) |
 | Flesh Eating Geriatric Internet Predator | 144308 | [144308-flesh-eating-geriatric-internet-predator.json](./144308-flesh-eating-geriatric-internet-predator.json) |
 | Flesh Everest | 207356 | [207356-flesh-everest.json](./207356-flesh-everest.json) |
 | Flesh Feast | 93408 | [93408-flesh-feast.json](./93408-flesh-feast.json) |
