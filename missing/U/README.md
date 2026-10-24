@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO on Tape: First Contact | 117010 | [117010-ufo-on-tape-first-contact.json](./117010-ufo-on-tape-first-contact.json) |
 | UFO Patrol | 40594 | [40594-ufo-patrol.json](./40594-ufo-patrol.json) |
 | UFO Ride | 294725 | [294725-ufo-ride.json](./294725-ufo-ride.json) |
+| UFO Robo Dangar | 39994 | [39994-ufo-robo-dangar.json](./39994-ufo-robo-dangar.json) |
 | UFO Robot Grendizer: The Feast of the Wolves | 239407 | [239407-ufo-robot-grendizer-the-feast-of-the-wolves.json](./239407-ufo-robot-grendizer-the-feast-of-the-wolves.json) |
 | UFO Robot Grendizer: The Feast of the Wolves - Princely Outfit | 301563 | [301563-ufo-robot-grendizer-the-feast-of-the-wolves-princely-outfit.json](./301563-ufo-robot-grendizer-the-feast-of-the-wolves-princely-outfit.json) |
 | UFO Shooting | 312273 | [312273-ufo-shooting.json](./312273-ufo-shooting.json) |
@@ -1981,6 +1982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | University Tycoon: The College Management Simulator | 312418 | [312418-university-tycoon-the-college-management-simulator.json](./312418-university-tycoon-the-college-management-simulator.json) |
 | Univocity | 339916 | [339916-univocity.json](./339916-univocity.json) |
 | UniWar | 91536 | [91536-uniwar.json](./91536-uniwar.json) |
+| UniWar S | 40012 | [40012-uniwar-s.json](./40012-uniwar-s.json) |
 | Unizone's Underswap: Distrust Sans | 330365 | [330365-unizones-underswap-distrust-sans.json](./330365-unizones-underswap-distrust-sans.json) |
 | Unjou no Fairy Tale | 97466 | [97466-unjou-no-fairy-tale.json](./97466-unjou-no-fairy-tale.json) |
 | Unkillable Robots | 306342 | [306342-unkillable-robots.json](./306342-unkillable-robots.json) |
