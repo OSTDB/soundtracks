@@ -4382,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharabis | 342121 | [342121-pharabis.json](./342121-pharabis.json) |
 | Pharao Reloaded | 132524 | [132524-pharao-reloaded.json](./132524-pharao-reloaded.json) |
 | Pharaoh | 7510 | [7510-pharaoh.json](./7510-pharaoh.json) |
+| Pharaoh + Cleopatra | 30276 | [30276-pharaoh-cleopatra.json](./30276-pharaoh-cleopatra.json) |
 | Pharaoh III | 15340 | [15340-pharaoh-iii.json](./15340-pharaoh-iii.json) |
 | Pharaoh ISO | 209969 | [209969-pharaoh-iso.json](./209969-pharaoh-iso.json) |
 | Pharaoh Miracle Legend | 107097 | [107097-pharaoh-miracle-legend.json](./107097-pharaoh-miracle-legend.json) |
@@ -6339,6 +6340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitit Bac | 191505 | [191505-pitit-bac.json](./191505-pitit-bac.json) |
 | Pitman | 76178 | [76178-pitman.json](./76178-pitman.json) |
 | Pitstop Challenge | 25444 | [25444-pitstop-challenge.json](./25444-pitstop-challenge.json) |
+| Pitstop II | 24660 | [24660-pitstop-ii.json](./24660-pitstop-ii.json) |
 | PitterPot | 110811 | [110811-pitterpot.json](./110811-pitterpot.json) |
 | Pittsfield | 98322 | [98322-pittsfield.json](./98322-pittsfield.json) |
 | Pitty Meaty | 368657 | [368657-pitty-meaty.json](./368657-pitty-meaty.json) |
@@ -11661,6 +11663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: Limited Edition | 45292 | [45292-prince-of-persia-limited-edition.json](./45292-prince-of-persia-limited-edition.json) |
 | Prince of Persia: New Era Bundle | 407278 | [407278-prince-of-persia-new-era-bundle.json](./407278-prince-of-persia-new-era-bundle.json) |
 | Prince of Persia: Revelations | 22565 | [22565-prince-of-persia-revelations.json](./22565-prince-of-persia-revelations.json) |
+| Prince of Persia: Rival Swords | 22020 | [22020-prince-of-persia-rival-swords.json](./22020-prince-of-persia-rival-swords.json) |
 | Prince of Persia: Rival Swords | 243129 | [243129-prince-of-persia-rival-swords.json](./243129-prince-of-persia-rival-swords.json) |
 | Prince of Persia: Rival Swords | 243130 | [243130-prince-of-persia-rival-swords.json](./243130-prince-of-persia-rival-swords.json) |
 | Prince of Persia: The Forgotten Sands | 142709 | [142709-prince-of-persia-the-forgotten-sands.json](./142709-prince-of-persia-the-forgotten-sands.json) |
