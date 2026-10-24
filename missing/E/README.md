@@ -1823,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Mage Defense | 269269 | [269269-elemental-mage-defense.json](./269269-elemental-mage-defense.json) |
 | Elemental Magic Wars | 406228 | [406228-elemental-magic-wars.json](./406228-elemental-magic-wars.json) |
 | Elemental Master | 46218 | [46218-elemental-master.json](./46218-elemental-master.json) |
+| Elemental Monster | 43026 | [43026-elemental-monster.json](./43026-elemental-monster.json) |
 | Elemental Monster: Online Card Game | 94071 | [94071-elemental-monster-online-card-game.json](./94071-elemental-monster-online-card-game.json) |
 | Elemental Ninja | 61119 | [61119-elemental-ninja.json](./61119-elemental-ninja.json) |
 | Elemental Odyssey | 253373 | [253373-elemental-odyssey.json](./253373-elemental-odyssey.json) |
