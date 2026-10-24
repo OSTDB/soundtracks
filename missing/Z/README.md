@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z-Man | 284305 | [284305-z-man.json](./284305-z-man.json) |
 | Z-MMO | 55919 | [55919-z-mmo.json](./55919-z-mmo.json) |
 | Z-Opolis | 200983 | [200983-z-opolis.json](./200983-z-opolis.json) |
+| Z-Out | 12627 | [12627-z-out.json](./12627-z-out.json) |
 | Z-Race | 144005 | [144005-z-race.json](./144005-z-race.json) |
 | Z-Rush Survival | 191818 | [191818-z-rush-survival.json](./191818-z-rush-survival.json) |
 | Z-Stop | 212654 | [212654-z-stop.json](./212654-z-stop.json) |
@@ -379,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeebo Sports Vôlei | 92374 | [92374-zeebo-sports-volei.json](./92374-zeebo-sports-volei.json) |
 | Zeemenshu -Aftermath- | 415463 | [415463-zeemenshu-aftermath.json](./415463-zeemenshu-aftermath.json) |
 | Zeeverse | 224119 | [224119-zeeverse.json](./224119-zeeverse.json) |
+| Zeewolf | 12629 | [12629-zeewolf.json](./12629-zeewolf.json) |
 | Zeewolf 2: Wild Justice | 28516 | [28516-zeewolf-2-wild-justice.json](./28516-zeewolf-2-wild-justice.json) |
 | Zefira | 119000 | [119000-zefira.json](./119000-zefira.json) |
 | ZeGame | 19346 | [19346-zegame.json](./19346-zegame.json) |
