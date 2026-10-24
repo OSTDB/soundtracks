@@ -3750,6 +3750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter's History 2 | 58791 | [58791-fighters-history-2.json](./58791-fighters-history-2.json) |
 | Fighter's Rampage | 235309 | [235309-fighters-rampage.json](./235309-fighters-rampage.json) |
 | Fighters Kyodotai | 129612 | [129612-fighters-kyodotai.json](./129612-fighters-kyodotai.json) |
+| Fighters Megamix | 1550 | [1550-fighters-megamix.json](./1550-fighters-megamix.json) |
 | Fighters Megamix | 45821 | [45821-fighters-megamix.json](./45821-fighters-megamix.json) |
 | Fighters of Capcom | 280849 | [280849-fighters-of-capcom.json](./280849-fighters-of-capcom.json) |
 | Fighters Swords | 40133 | [40133-fighters-swords.json](./40133-fighters-swords.json) |
@@ -10053,6 +10054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Mission 2089: Borderscape | 228269 | [228269-front-mission-2089-borderscape.json](./228269-front-mission-2089-borderscape.json) |
 | Front Mission 3 | 1502 | [1502-front-mission-3.json](./1502-front-mission-3.json) |
 | Front Mission 3: Remake | 217552 | [217552-front-mission-3-remake.json](./217552-front-mission-3-remake.json) |
+| Front Mission 4 | 1503 | [1503-front-mission-4.json](./1503-front-mission-4.json) |
 | Front Mission 5: Scars of the War | 1506 | [1506-front-mission-5-scars-of-the-war.json](./1506-front-mission-5-scars-of-the-war.json) |
 | Front Mission Alternative | 1501 | [1501-front-mission-alternative.json](./1501-front-mission-alternative.json) |
 | Front Mission Evolved: Last Stand | 140460 | [140460-front-mission-evolved-last-stand.json](./140460-front-mission-evolved-last-stand.json) |
@@ -10209,6 +10211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostpunk: Complete Collection | 164768 | [164768-frostpunk-complete-collection.json](./164768-frostpunk-complete-collection.json) |
 | Frostpunk: Console Edition | 117420 | [117420-frostpunk-console-edition.json](./117420-frostpunk-console-edition.json) |
 | Frostpunk: Game of the Year Edition | 169208 | [169208-frostpunk-game-of-the-year-edition.json](./169208-frostpunk-game-of-the-year-edition.json) |
+| Frostpunk: On the Edge | 134402 | [134402-frostpunk-on-the-edge.json](./134402-frostpunk-on-the-edge.json) |
 | Frostpunk: The Fall of Winterhome | 109637 | [109637-frostpunk-the-fall-of-winterhome.json](./109637-frostpunk-the-fall-of-winterhome.json) |
 | Frostpunk: The Last Autumn | 135952 | [135952-frostpunk-the-last-autumn.json](./135952-frostpunk-the-last-autumn.json) |
 | Frostrail | 339609 | [339609-frostrail.json](./339609-frostrail.json) |
