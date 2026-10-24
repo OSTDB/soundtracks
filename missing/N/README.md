@@ -1087,8 +1087,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Hoopz | 10634 | [10634-nba-hoopz.json](./10634-nba-hoopz.json) |
 | NBA in the Zone | 20639 | [20639-nba-in-the-zone.json](./20639-nba-in-the-zone.json) |
 | NBA In The Zone | 309981 | [309981-nba-in-the-zone.json](./309981-nba-in-the-zone.json) |
+| NBA in the Zone '98 | 43719 | [43719-nba-in-the-zone-98.json](./43719-nba-in-the-zone-98.json) |
 | NBA in the Zone '99 | 72053 | [72053-nba-in-the-zone-99.json](./72053-nba-in-the-zone-99.json) |
 | NBA In the Zone 2 | 20729 | [20729-nba-in-the-zone-2.json](./20729-nba-in-the-zone-2.json) |
+| NBA In the Zone 2000 | 43718 | [43718-nba-in-the-zone-2000.json](./43718-nba-in-the-zone-2000.json) |
 | NBA Infinite | 257015 | [257015-nba-infinite.json](./257015-nba-infinite.json) |
 | NBA Inside Drive 2002 | 23446 | [23446-nba-inside-drive-2002.json](./23446-nba-inside-drive-2002.json) |
 | NBA Inside Drive 2004 | 24124 | [24124-nba-inside-drive-2004.json](./24124-nba-inside-drive-2004.json) |
@@ -1177,15 +1179,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Basketball 09 | 7109 | [7109-ncaa-basketball-09.json](./7109-ncaa-basketball-09.json) |
 | NCAA Basketball 09: March Madness Edition | 47427 | [47427-ncaa-basketball-09-march-madness-edition.json](./47427-ncaa-basketball-09-march-madness-edition.json) |
 | NCAA Basketball 10 | 7110 | [7110-ncaa-basketball-10.json](./7110-ncaa-basketball-10.json) |
+| NCAA Basketball Final Four 97 | 43717 | [43717-ncaa-basketball-final-four-97.json](./43717-ncaa-basketball-final-four-97.json) |
 | NCAA Championship Basketball | 69580 | [69580-ncaa-championship-basketball.json](./69580-ncaa-championship-basketball.json) |
 | NCAA College Basketball 2K3 | 4038 | [4038-ncaa-college-basketball-2k3.json](./4038-ncaa-college-basketball-2k3.json) |
 | NCAA College Football 2K2 | 46380 | [46380-ncaa-college-football-2k2.json](./46380-ncaa-college-football-2k2.json) |
 | NCAA College Football 2K3 | 4039 | [4039-ncaa-college-football-2k3.json](./4039-ncaa-college-football-2k3.json) |
 | NCAA College Hoops 2K8 | 43552 | [43552-ncaa-college-hoops-2k8.json](./43552-ncaa-college-hoops-2k8.json) |
+| NCAA Final Four 2000 | 43716 | [43716-ncaa-final-four-2000.json](./43716-ncaa-final-four-2000.json) |
+| NCAA Final Four 2001 | 43715 | [43715-ncaa-final-four-2001.json](./43715-ncaa-final-four-2001.json) |
 | NCAA Final Four 2002 | 68262 | [68262-ncaa-final-four-2002.json](./68262-ncaa-final-four-2002.json) |
 | NCAA Final Four 2003 | 68261 | [68261-ncaa-final-four-2003.json](./68261-ncaa-final-four-2003.json) |
 | NCAA Final Four 2004 | 68304 | [68304-ncaa-final-four-2004.json](./68304-ncaa-final-four-2004.json) |
 | NCAA Final Four 99 | 23154 | [23154-ncaa-final-four-99.json](./23154-ncaa-final-four-99.json) |
+| NCAA Football '98 | 43714 | [43714-ncaa-football-98.json](./43714-ncaa-football-98.json) |
+| NCAA Football '99 | 43713 | [43713-ncaa-football-99.json](./43713-ncaa-football-99.json) |
 | NCAA Football 07 | 5953 | [5953-ncaa-football-07.json](./5953-ncaa-football-07.json) |
 | NCAA Football 09 | 5065 | [5065-ncaa-football-09.json](./5065-ncaa-football-09.json) |
 | NCAA Football 09: All-Play | 137060 | [137060-ncaa-football-09-all-play.json](./137060-ncaa-football-09-all-play.json) |
@@ -1193,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Football 11 | 7112 | [7112-ncaa-football-11.json](./7112-ncaa-football-11.json) |
 | NCAA Football 12 | 7113 | [7113-ncaa-football-12.json](./7113-ncaa-football-12.json) |
 | NCAA Football 13 | 7114 | [7114-ncaa-football-13.json](./7114-ncaa-football-13.json) |
+| NCAA Football 2000 | 43712 | [43712-ncaa-football-2000.json](./43712-ncaa-football-2000.json) |
 | NCAA Football 2001 | 43823 | [43823-ncaa-football-2001.json](./43823-ncaa-football-2001.json) |
 | NCAA Football 2002 | 44644 | [44644-ncaa-football-2002.json](./44644-ncaa-football-2002.json) |
 | NCAA Football 2003 | 5955 | [5955-ncaa-football-2003.json](./5955-ncaa-football-2003.json) |
@@ -1201,10 +1209,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Football 2005 | 5957 | [5957-ncaa-football-2005.json](./5957-ncaa-football-2005.json) |
 | NCAA Football 2005 / Top Spin | 281904 | [281904-ncaa-football-2005-top-spin.json](./281904-ncaa-football-2005-top-spin.json) |
 | NCAA Gamebreaker | 20297 | [20297-ncaa-gamebreaker.json](./20297-ncaa-gamebreaker.json) |
+| NCAA GameBreaker 2000 | 43691 | [43691-ncaa-gamebreaker-2000.json](./43691-ncaa-gamebreaker-2000.json) |
 | NCAA Gamebreaker 98 | 43825 | [43825-ncaa-gamebreaker-98.json](./43825-ncaa-gamebreaker-98.json) |
+| NCAA GameBreaker 99 | 43711 | [43711-ncaa-gamebreaker-99.json](./43711-ncaa-gamebreaker-99.json) |
+| NCAA March Madness '98 | 43710 | [43710-ncaa-march-madness-98.json](./43710-ncaa-march-madness-98.json) |
 | NCAA March Madness 06 | 5958 | [5958-ncaa-march-madness-06.json](./5958-ncaa-march-madness-06.json) |
 | NCAA March Madness 07 | 21392 | [21392-ncaa-march-madness-07.json](./21392-ncaa-march-madness-07.json) |
 | NCAA March Madness 2000 | 43822 | [43822-ncaa-march-madness-2000.json](./43822-ncaa-march-madness-2000.json) |
+| NCAA March Madness 2001 | 43709 | [43709-ncaa-march-madness-2001.json](./43709-ncaa-march-madness-2001.json) |
 | NCAA March Madness 2002 | 62496 | [62496-ncaa-march-madness-2002.json](./62496-ncaa-march-madness-2002.json) |
 | NCAA March Madness 2003 | 43271 | [43271-ncaa-march-madness-2003.json](./43271-ncaa-march-madness-2003.json) |
 | NCAA March Madness 2004 | 5959 | [5959-ncaa-march-madness-2004.json](./5959-ncaa-march-madness-2004.json) |
@@ -2992,9 +3004,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Football | 78936 | [78936-nfl-football.json](./78936-nfl-football.json) |
 | NFL Football Trivia Challenge | 46414 | [46414-nfl-football-trivia-challenge.json](./46414-nfl-football-trivia-challenge.json) |
 | NFL Football: San Diego Chargers/Los Angeles Raiders | 62687 | [62687-nfl-football-san-diego-chargers-los-angeles-raiders.json](./62687-nfl-football-san-diego-chargers-los-angeles-raiders.json) |
+| NFL Full Contact | 43708 | [43708-nfl-full-contact.json](./43708-nfl-full-contact.json) |
 | NFL GameDay | 20254 | [20254-nfl-gameday.json](./20254-nfl-gameday.json) |
 | NFL GameDay '97 | 20716 | [20716-nfl-gameday-97.json](./20716-nfl-gameday-97.json) |
+| NFL GameDay 2000 | 43707 | [43707-nfl-gameday-2000.json](./43707-nfl-gameday-2000.json) |
 | NFL GameDay 2001 | 43763 | [43763-nfl-gameday-2001.json](./43763-nfl-gameday-2001.json) |
+| NFL GameDay 2003 | 43706 | [43706-nfl-gameday-2003.json](./43706-nfl-gameday-2003.json) |
+| NFL GameDay 2004 | 43705 | [43705-nfl-gameday-2004.json](./43705-nfl-gameday-2004.json) |
 | NFL GameDay 2005 | 209589 | [209589-nfl-gameday-2005.json](./209589-nfl-gameday-2005.json) |
 | NFL GameDay 98 | 45216 | [45216-nfl-gameday-98.json](./45216-nfl-gameday-98.json) |
 | NFL GameDay 99 | 45218 | [45218-nfl-gameday-99.json](./45218-nfl-gameday-99.json) |
@@ -3509,6 +3525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Racer: Street Racing 3D | 241827 | [241827-night-racer-street-racing-3d.json](./241827-night-racer-street-racing-3d.json) |
 | Night Racing: Miami Street Traffic Racer | 106004 | [106004-night-racing-miami-street-traffic-racer.json](./106004-night-racing-miami-street-traffic-racer.json) |
 | Night Raid | 291021 | [291021-night-raid.json](./291021-night-raid.json) |
+| Night Raid | 43697 | [43697-night-raid.json](./43697-night-raid.json) |
 | Night Raid | 80867 | [80867-night-raid.json](./80867-night-raid.json) |
 | Night Raider | 279474 | [279474-night-raider.json](./279474-night-raider.json) |
 | Night Ranger | 388213 | [388213-night-ranger.json](./388213-night-ranger.json) |
