@@ -6077,6 +6077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Star Girlfriend 3 | 315039 | [315039-destiny-star-girlfriend-3.json](./315039-destiny-star-girlfriend-3.json) |
 | Destiny Summoner | 249917 | [249917-destiny-summoner.json](./249917-destiny-summoner.json) |
 | Destiny Warfare: Sci-Fi FPS | 100366 | [100366-destiny-warfare-sci-fi-fps.json](./100366-destiny-warfare-sci-fi-fps.json) |
+| Destiny Warriors | 28031 | [28031-destiny-warriors.json](./28031-destiny-warriors.json) |
 | Destiny Worlds | 388909 | [388909-destiny-worlds.json](./388909-destiny-worlds.json) |
 | Destiny: Digital Guardian Edition | 147720 | [147720-destiny-digital-guardian-edition.json](./147720-destiny-digital-guardian-edition.json) |
 | Destiny: Limited Edition | 147699 | [147699-destiny-limited-edition.json](./147699-destiny-limited-edition.json) |
@@ -14855,6 +14856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Walk 4: Solitary Insect Princess | 391124 | [391124-dungeon-walk-4-solitary-insect-princess.json](./391124-dungeon-walk-4-solitary-insect-princess.json) |
 | Dungeon Walk: Ryuumeikyuu no Kanrisha | 236525 | [236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json](./236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json) |
 | Dungeon Ward | 193851 | [193851-dungeon-ward.json](./193851-dungeon-ward.json) |
+| Dungeon Warfare | 28205 | [28205-dungeon-warfare.json](./28205-dungeon-warfare.json) |
 | Dungeon Warfare 2 | 102273 | [102273-dungeon-warfare-2.json](./102273-dungeon-warfare-2.json) |
 | Dungeon Warriors | 155849 | [155849-dungeon-warriors.json](./155849-dungeon-warriors.json) |
 | Dungeon Warriors | 165727 | [165727-dungeon-warriors.json](./165727-dungeon-warriors.json) |
@@ -15418,6 +15420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light 2: Stay Human - The Walking Dead Bundle | 259068 | [259068-dying-light-2-stay-human-the-walking-dead-bundle.json](./259068-dying-light-2-stay-human-the-walking-dead-bundle.json) |
 | Dying Light 2: Stay Human - Ultimate Edition | 169196 | [169196-dying-light-2-stay-human-ultimate-edition.json](./169196-dying-light-2-stay-human-ultimate-edition.json) |
 | Dying Light: 5th Anniversary Bundle | 224132 | [224132-dying-light-5th-anniversary-bundle.json](./224132-dying-light-5th-anniversary-bundle.json) |
+| Dying Light: Bad Blood | 76891 | [76891-dying-light-bad-blood.json](./76891-dying-light-bad-blood.json) |
 | Dying Light: Bozak Horde | 16299 | [16299-dying-light-bozak-horde.json](./16299-dying-light-bozak-horde.json) |
 | Dying Light: Classified Operation Bundle | 224130 | [224130-dying-light-classified-operation-bundle.json](./224130-dying-light-classified-operation-bundle.json) |
 | Dying Light: Cuisine & Cargo | 150043 | [150043-dying-light-cuisine-and-cargo.json](./150043-dying-light-cuisine-and-cargo.json) |
