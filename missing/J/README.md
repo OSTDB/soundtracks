@@ -1949,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Danger Touch | 11242 | [11242-joe-danger-touch.json](./11242-joe-danger-touch.json) |
 | Joe Danger: Special Edition | 24235 | [24235-joe-danger-special-edition.json](./24235-joe-danger-special-edition.json) |
 | Joe Dever's Lone Wolf | 53247 | [53247-joe-devers-lone-wolf.json](./53247-joe-devers-lone-wolf.json) |
+| Joe Dever's Lone Wolf: Console Edition | 82541 | [82541-joe-devers-lone-wolf-console-edition.json](./82541-joe-devers-lone-wolf-console-edition.json) |
 | Joe Dever's Lone Wolf: HD Remastered | 25774 | [25774-joe-devers-lone-wolf-hd-remastered.json](./25774-joe-devers-lone-wolf-hd-remastered.json) |
 | Joe Dungeon | 236206 | [236206-joe-dungeon.json](./236206-joe-dungeon.json) |
 | Joe Gunn | 77385 | [77385-joe-gunn.json](./77385-joe-gunn.json) |
