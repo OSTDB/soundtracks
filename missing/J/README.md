@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacal | 223662 | [223662-jacal.json](./223662-jacal.json) |
 | Jacaranda Jim | 93463 | [93463-jacaranda-jim.json](./93463-jacaranda-jim.json) |
 | Jack | 369658 | [369658-jack.json](./369658-jack.json) |
+| Jack 'n' Hat | 149790 | [149790-jack-n-hat.json](./149790-jack-n-hat.json) |
 | Jack & Detectives: Black Magic Expansion | 364562 | [364562-jack-and-detectives-black-magic-expansion.json](./364562-jack-and-detectives-black-magic-expansion.json) |
 | Jack & the Beanstalk | 284214 | [284214-jack-and-the-beanstalk.json](./284214-jack-and-the-beanstalk.json) |
 | Jack & the Creepy Castle | 68923 | [68923-jack-and-the-creepy-castle.json](./68923-jack-and-the-creepy-castle.json) |
@@ -892,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jennifer | 141256 | [141256-jennifer.json](./141256-jennifer.json) |
 | Jennifer Capriati Tennis | 46205 | [46205-jennifer-capriati-tennis.json](./46205-jennifer-capriati-tennis.json) |
 | Jennifer Janowski is Doomed | 242818 | [242818-jennifer-janowski-is-doomed.json](./242818-jennifer-janowski-is-doomed.json) |
+| Jennifer Wilde: Unlikely Revolutionaries | 151177 | [151177-jennifer-wilde-unlikely-revolutionaries.json](./151177-jennifer-wilde-unlikely-revolutionaries.json) |
 | Jennifer's Fragments | 270056 | [270056-jennifers-fragments.json](./270056-jennifers-fragments.json) |
 | Jennifer's Lustful Journey | 340771 | [340771-jennifers-lustful-journey.json](./340771-jennifers-lustful-journey.json) |
 | Jennifer's Nonsensical Christmas Adventure | 399253 | [399253-jennifers-nonsensical-christmas-adventure.json](./399253-jennifers-nonsensical-christmas-adventure.json) |
@@ -2579,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juke | 43095 | [43095-juke.json](./43095-juke.json) |
 | Jukebeat | 79860 | [79860-jukebeat.json](./79860-jukebeat.json) |
 | Jukemeister | 181790 | [181790-jukemeister.json](./181790-jukemeister.json) |
+| Juken Jigoku | 127745 | [127745-juken-jigoku.json](./127745-juken-jigoku.json) |
 | Jules | 187368 | [187368-jules.json](./187368-jules.json) |
 | Jules Verne's Journey to the center of the moon | 95908 | [95908-jules-vernes-journey-to-the-center-of-the-moon.json](./95908-jules-vernes-journey-to-the-center-of-the-moon.json) |
 | Jules Verne's Return to Mysterious Island - Director's Cut | 89046 | [89046-jules-vernes-return-to-mysterious-island-directors-cut.json](./89046-jules-vernes-return-to-mysterious-island-directors-cut.json) |
