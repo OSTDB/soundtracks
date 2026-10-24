@@ -11645,6 +11645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smug.le | 183875 | [183875-smug-le.json](./183875-smug-le.json) |
 | SmugForce | 229132 | [229132-smugforce.json](./229132-smugforce.json) |
 | Smuggle Buddies | 114861 | [114861-smuggle-buddies.json](./114861-smuggle-buddies.json) |
+| SmuggleCraft | 29489 | [29489-smugglecraft.json](./29489-smugglecraft.json) |
 | Smuggler Simulator | 154048 | [154048-smuggler-simulator.json](./154048-smuggler-simulator.json) |
 | Smuggler's Cove | 294730 | [294730-smugglers-cove.json](./294730-smugglers-cove.json) |
 | Smuggler's Guild | 8987 | [8987-smugglers-guild.json](./8987-smugglers-guild.json) |
@@ -14484,6 +14485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sons of Saturn | 256546 | [256546-sons-of-saturn.json](./256546-sons-of-saturn.json) |
 | Sons of Sol | 56446 | [56446-sons-of-sol.json](./56446-sons-of-sol.json) |
 | Sons Of The Dream Forest | 315283 | [315283-sons-of-the-dream-forest.json](./315283-sons-of-the-dream-forest.json) |
+| Sons of Triskelion | 29487 | [29487-sons-of-triskelion.json](./29487-sons-of-triskelion.json) |
 | Sons of Tyr | 176424 | [176424-sons-of-tyr.json](./176424-sons-of-tyr.json) |
 | Sonsgorod: The Archipelago | 311900 | [311900-sonsgorod-the-archipelago.json](./311900-sonsgorod-the-archipelago.json) |
 | Sonucido: The Mage - A Dungeon Crawler by Daniel da Silva | 193200 | [193200-sonucido-the-mage-a-dungeon-crawler-by-daniel-da-silva.json](./193200-sonucido-the-mage-a-dungeon-crawler-by-daniel-da-silva.json) |
@@ -16696,6 +16698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed & Precision Collection | 328484 | [328484-speed-and-precision-collection.json](./328484-speed-and-precision-collection.json) |
 | Speed 2 | 268379 | [268379-speed-2.json](./268379-speed-2.json) |
 | Speed 3: Grand Prix | 139877 | [139877-speed-3-grand-prix.json](./139877-speed-3-grand-prix.json) |
+| Speed and Scream | 29535 | [29535-speed-and-scream.json](./29535-speed-and-scream.json) |
 | Speed Ball | 40121 | [40121-speed-ball.json](./40121-speed-ball.json) |
 | Speed Bike Racing | 250657 | [250657-speed-bike-racing.json](./250657-speed-bike-racing.json) |
 | Speed Blazers | 38989 | [38989-speed-blazers.json](./38989-speed-blazers.json) |
@@ -22757,6 +22760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striker! | 336650 | [336650-striker.json](./336650-striker.json) |
 | Striker's Instinct | 406155 | [406155-strikers-instinct.json](./406155-strikers-instinct.json) |
 | Strikers | 219577 | [219577-strikers.json](./219577-strikers.json) |
+| Strikers | 29571 | [29571-strikers.json](./29571-strikers.json) |
 | Strikers 1945 | 39300 | [39300-strikers-1945.json](./39300-strikers-1945.json) |
 | Strikers 1945 for Nintendo Switch | 105051 | [105051-strikers-1945-for-nintendo-switch.json](./105051-strikers-1945-for-nintendo-switch.json) |
 | Strikers 1945 II for Nintendo Switch | 234133 | [234133-strikers-1945-ii-for-nintendo-switch.json](./234133-strikers-1945-ii-for-nintendo-switch.json) |
@@ -24354,6 +24358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Arcade Soccer 2021 | 140421 | [140421-super-arcade-soccer-2021.json](./140421-super-arcade-soccer-2021.json) |
 | Super Arcade Soccer 2026 | 405743 | [405743-super-arcade-soccer-2026.json](./405743-super-arcade-soccer-2026.json) |
 | Super Armand | 134266 | [134266-super-armand.json](./134266-super-armand.json) |
+| Super Army of Tentacles 3: The Search for Army of Tentacles 2 | 29484 | [29484-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2.json](./29484-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - XPack II: Call of Koithulhu | 172367 | [172367-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-xpack-ii-call-of-koithulhu.json](./172367-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-xpack-ii-call-of-koithulhu.json) |
 | Super Arter | 287022 | [287022-super-arter.json](./287022-super-arter.json) |
