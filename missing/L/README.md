@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Thief | 367001 | [367001-laser-thief.json](./367001-laser-thief.json) |
 | Laser War | 41567 | [41567-laser-war.json](./41567-laser-war.json) |
 | Laser Z | 127081 | [127081-laser-z.json](./127081-laser-z.json) |
+| Laser Zone | 24705 | [24705-laser-zone.json](./24705-laser-zone.json) |
 | Laser! | 253011 | [253011-laser.json](./253011-laser.json) |
 | Laserade: Sugar Rush | 348452 | [348452-laserade-sugar-rush.json](./348452-laserade-sugar-rush.json) |
 | LaserAge | 342590 | [342590-laserage.json](./342590-laserage.json) |
@@ -3193,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lets Go Champ | 60539 | [60539-lets-go-champ.json](./60539-lets-go-champ.json) |
 | Lets Nuke Mars | 343224 | [343224-lets-nuke-mars.json](./343224-lets-nuke-mars.json) |
 | Lets Play Bingo | 87271 | [87271-lets-play-bingo.json](./87271-lets-play-bingo.json) |
+| Lets Ride Corral Club | 24709 | [24709-lets-ride-corral-club.json](./24709-lets-ride-corral-club.json) |
 | Letsss Play | 373153 | [373153-letsss-play.json](./373153-letsss-play.json) |
 | Letter Bender | 195107 | [195107-letter-bender.json](./195107-letter-bender.json) |
 | Letter Boxed | 296097 | [296097-letter-boxed.json](./296097-letter-boxed.json) |
