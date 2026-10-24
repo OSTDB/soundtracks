@@ -4889,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic Online | 77230 | [77230-heroes-of-might-and-magic-online.json](./77230-heroes-of-might-and-magic-online.json) |
 | Heroes of Might and Magic V: Bundle | 154441 | [154441-heroes-of-might-and-magic-v-bundle.json](./154441-heroes-of-might-and-magic-v-bundle.json) |
 | Heroes of Might and Magic V: Tribes of the East | 372 | [372-heroes-of-might-and-magic-v-tribes-of-the-east.json](./372-heroes-of-might-and-magic-v-tribes-of-the-east.json) |
+| Heroes of Might and Magic: A Strategic Quest | 362 | [362-heroes-of-might-and-magic-a-strategic-quest.json](./362-heroes-of-might-and-magic-a-strategic-quest.json) |
 | Heroes of Mount Dragon | 294053 | [294053-heroes-of-mount-dragon.json](./294053-heroes-of-mount-dragon.json) |
 | Heroes of Mythic Might | 253768 | [253768-heroes-of-mythic-might.json](./253768-heroes-of-mythic-might.json) |
 | Heroes of Nature 4 in 1 | 332023 | [332023-heroes-of-nature-4-in-1.json](./332023-heroes-of-nature-4-in-1.json) |
