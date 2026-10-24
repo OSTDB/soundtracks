@@ -4516,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Grim Beginnings | 298036 | [298036-resident-evil-grim-beginnings.json](./298036-resident-evil-grim-beginnings.json) |
 | Resident Evil: Mansion | 185361 | [185361-resident-evil-mansion.json](./185361-resident-evil-mansion.json) |
 | Resident Evil: Mortal Night | 185684 | [185684-resident-evil-mortal-night.json](./185684-resident-evil-mortal-night.json) |
+| Resident Evil: Operation Raccoon City | 977 | [977-resident-evil-operation-raccoon-city.json](./977-resident-evil-operation-raccoon-city.json) |
 | Resident Evil: Operation Raccoon City - Echo Six Expansion Pack 1 | 143001 | [143001-resident-evil-operation-raccoon-city-echo-six-expansion-pack-1.json](./143001-resident-evil-operation-raccoon-city-echo-six-expansion-pack-1.json) |
 | Resident Evil: Operation Raccoon City - Echo Six Expansion Pack 2 | 143002 | [143002-resident-evil-operation-raccoon-city-echo-six-expansion-pack-2.json](./143002-resident-evil-operation-raccoon-city-echo-six-expansion-pack-2.json) |
 | Resident Evil: Operation Raccoon City - Echo Six Prologue Mission | 405577 | [405577-resident-evil-operation-raccoon-city-echo-six-prologue-mission.json](./405577-resident-evil-operation-raccoon-city-echo-six-prologue-mission.json) |
@@ -4560,6 +4561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resistance 2 | 3205 | [3205-resistance-2.json](./3205-resistance-2.json) |
 | Resistance 2: Collector's Edition | 43041 | [43041-resistance-2-collectors-edition.json](./43041-resistance-2-collectors-edition.json) |
 | Resistance 204X | 202636 | [202636-resistance-204x.json](./202636-resistance-204x.json) |
+| Resistance 3 | 3206 | [3206-resistance-3.json](./3206-resistance-3.json) |
 | Resistance and Liberation | 46657 | [46657-resistance-and-liberation.json](./46657-resistance-and-liberation.json) |
 | Resistance Collection | 45291 | [45291-resistance-collection.json](./45291-resistance-collection.json) |
 | Resistance Element | 127923 | [127923-resistance-element.json](./127923-resistance-element.json) |
