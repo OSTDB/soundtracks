@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Cat Craft | 244803 | [244803-laser-cat-craft.json](./244803-laser-cat-craft.json) |
 | Laser Circle | 312180 | [312180-laser-circle.json](./312180-laser-circle.json) |
 | Laser Defense Extreme | 291333 | [291333-laser-defense-extreme.json](./291333-laser-defense-extreme.json) |
+| Laser Disco Defenders | 22362 | [22362-laser-disco-defenders.json](./22362-laser-disco-defenders.json) |
 | Laser Dolphin | 54169 | [54169-laser-dolphin.json](./54169-laser-dolphin.json) |
 | Laser Dreams | 58267 | [58267-laser-dreams.json](./58267-laser-dreams.json) |
 | Laser Drift: OverDrive | 28567 | [28567-laser-drift-overdrive.json](./28567-laser-drift-overdrive.json) |
@@ -3775,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifty! | 113581 | [113581-lifty.json](./113581-lifty.json) |
 | Liga do Tempo | 290086 | [290086-liga-do-tempo.json](./290086-liga-do-tempo.json) |
 | Lighark | 270557 | [270557-lighark.json](./270557-lighark.json) |
+| Light | 10515 | [10515-light.json](./10515-light.json) |
 | Light | 212975 | [212975-light.json](./212975-light.json) |
 | Light | 220607 | [220607-light.json](./220607-light.json) |
 | Light | 93759 | [93759-light.json](./93759-light.json) |
@@ -4957,6 +4959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Racer | 124023 | [124023-little-racer.json](./124023-little-racer.json) |
 | Little Racers | 91735 | [91735-little-racers.json](./91735-little-racers.json) |
 | Little Racers + Red Wings: American Aces | 287884 | [287884-little-racers-red-wings-american-aces.json](./287884-little-racers-red-wings-american-aces.json) |
+| Little Racers Street | 10518 | [10518-little-racers-street.json](./10518-little-racers-street.json) |
 | Little Races | 115148 | [115148-little-races.json](./115148-little-races.json) |
 | Little Raiders: Robin's Revenge | 60971 | [60971-little-raiders-robins-revenge.json](./60971-little-raiders-robins-revenge.json) |
 | Little Rats' Big Top | 180804 | [180804-little-rats-big-top.json](./180804-little-rats-big-top.json) |
