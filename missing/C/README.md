@@ -1594,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car | 243586 | [243586-car.json](./243586-car.json) |
 | Car & Driver Presents: Grand Tour Racing '98 | 45025 | [45025-car-and-driver-presents-grand-tour-racing-98.json](./45025-car-and-driver-presents-grand-tour-racing-98.json) |
 | Car and Driver | 72042 | [72042-car-and-driver.json](./72042-car-and-driver.json) |
+| Car Boosting | 25407 | [25407-car-boosting.json](./25407-car-boosting.json) |
 | Car Builder | 97187 | [97187-car-builder.json](./97187-car-builder.json) |
 | Car Car Crash Hands on Edition | 32623 | [32623-car-car-crash-hands-on-edition.json](./32623-car-car-crash-hands-on-edition.json) |
 | Car Carrier Simulator | 326460 | [326460-car-carrier-simulator.json](./326460-car-carrier-simulator.json) |
@@ -8015,6 +8016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clever Fox Moxie | 135486 | [135486-clever-fox-moxie.json](./135486-clever-fox-moxie.json) |
 | Clever Frog | 340209 | [340209-clever-frog.json](./340209-clever-frog.json) |
 | Clever Girl | 184639 | [184639-clever-girl.json](./184639-clever-girl.json) |
+| Clever Kids Pony World | 25412 | [25412-clever-kids-pony-world.json](./25412-clever-kids-pony-world.json) |
 | Clever Kids: Creepy Crawlies | 268113 | [268113-clever-kids-creepy-crawlies.json](./268113-clever-kids-creepy-crawlies.json) |
 | Clever Kids: Dino Land | 52504 | [52504-clever-kids-dino-land.json](./52504-clever-kids-dino-land.json) |
 | Clever Kids: Farmyard Fun | 123301 | [123301-clever-kids-farmyard-fun.json](./123301-clever-kids-farmyard-fun.json) |
@@ -13295,6 +13297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Machines 2: Halloween | 164368 | [164368-crazy-machines-2-halloween.json](./164368-crazy-machines-2-halloween.json) |
 | Crazy Machines 2: Happy New Year DLC | 164372 | [164372-crazy-machines-2-happy-new-year-dlc.json](./164372-crazy-machines-2-happy-new-year-dlc.json) |
 | Crazy Machines 2: Invaders from Space | 164371 | [164371-crazy-machines-2-invaders-from-space.json](./164371-crazy-machines-2-invaders-from-space.json) |
+| Crazy Machines 2: Invaders from Space - Bundle Edition | 25424 | [25424-crazy-machines-2-invaders-from-space-bundle-edition.json](./25424-crazy-machines-2-invaders-from-space-bundle-edition.json) |
 | Crazy Machines 2: Invaders From Space, 2nd Wave DLC | 164369 | [164369-crazy-machines-2-invaders-from-space-2nd-wave-dlc.json](./164369-crazy-machines-2-invaders-from-space-2nd-wave-dlc.json) |
 | Crazy Machines 2: Liquid Force Add-on | 164375 | [164375-crazy-machines-2-liquid-force-add-on.json](./164375-crazy-machines-2-liquid-force-add-on.json) |
 | Crazy Machines 2: Pirates | 164370 | [164370-crazy-machines-2-pirates.json](./164370-crazy-machines-2-pirates.json) |
@@ -14867,6 +14870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal in Carnations | 358303 | [358303-crystal-in-carnations.json](./358303-crystal-in-carnations.json) |
 | Crystal Journey | 260193 | [260193-crystal-journey.json](./260193-crystal-journey.json) |
 | Crystal Journey: Lum's Adventure | 266620 | [266620-crystal-journey-lums-adventure.json](./266620-crystal-journey-lums-adventure.json) |
+| Crystal Key 2: The Far Realm | 25419 | [25419-crystal-key-2-the-far-realm.json](./25419-crystal-key-2-the-far-realm.json) |
 | Crystal Kingdom | 62818 | [62818-crystal-kingdom.json](./62818-crystal-kingdom.json) |
 | Crystal Kingdom Dizzy | 12020 | [12020-crystal-kingdom-dizzy.json](./12020-crystal-kingdom-dizzy.json) |
 | Crystal Kingdom Dizzy 2017 | 45238 | [45238-crystal-kingdom-dizzy-2017.json](./45238-crystal-kingdom-dizzy-2017.json) |
