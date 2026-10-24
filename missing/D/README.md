@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Road: Color Ball Run! | 120309 | [120309-dancing-road-color-ball-run.json](./120309-dancing-road-color-ball-run.json) |
 | Dancing Snake | 89138 | [89138-dancing-snake.json](./89138-dancing-snake.json) |
 | Dancing Stage | 67248 | [67248-dancing-stage.json](./67248-dancing-stage.json) |
+| Dancing Stage EuroMix | 43746 | [43746-dancing-stage-euromix.json](./43746-dancing-stage-euromix.json) |
 | Dancing Stage EuroMix 2 | 144894 | [144894-dancing-stage-euromix-2.json](./144894-dancing-stage-euromix-2.json) |
 | Dancing Stage featuring Dreams Come True | 69572 | [69572-dancing-stage-featuring-dreams-come-true.json](./69572-dancing-stage-featuring-dreams-come-true.json) |
 | Dancing Stage featuring True Kiss Destination | 132805 | [132805-dancing-stage-featuring-true-kiss-destination.json](./132805-dancing-stage-featuring-true-kiss-destination.json) |
@@ -7791,6 +7792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Dash | 39827 | [39827-dirt-dash.json](./39827-dirt-dash.json) |
 | Dirt Devils | 39448 | [39448-dirt-devils.json](./39448-dirt-devils.json) |
 | Dirt Fox | 364396 | [364396-dirt-fox.json](./364396-dirt-fox.json) |
+| Dirt Jockey: Heavy Equipment Operator | 43738 | [43738-dirt-jockey-heavy-equipment-operator.json](./43738-dirt-jockey-heavy-equipment-operator.json) |
 | Dirt Journey | 216145 | [216145-dirt-journey.json](./216145-dirt-journey.json) |
 | Dirt Journey: Nitro | 216141 | [216141-dirt-journey-nitro.json](./216141-dirt-journey-nitro.json) |
 | Dirt Moto Racing | 63840 | [63840-dirt-moto-racing.json](./63840-dirt-moto-racing.json) |
@@ -8372,6 +8374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Peter Pan: The Legend of Never Land | 79954 | [79954-disneys-peter-pan-the-legend-of-never-land.json](./79954-disneys-peter-pan-the-legend-of-never-land.json) |
 | Disney's Pocahantas: Riverbend Adventures | 76602 | [76602-disneys-pocahantas-riverbend-adventures.json](./76602-disneys-pocahantas-riverbend-adventures.json) |
 | Disney's Pocahontas | 45780 | [45780-disneys-pocahontas.json](./45780-disneys-pocahontas.json) |
+| Disney's Pooh's Party Game: In Search of the Treasure | 43724 | [43724-disneys-poohs-party-game-in-search-of-the-treasure.json](./43724-disneys-poohs-party-game-in-search-of-the-treasure.json) |
 | Disney's Reading Quest with Aladdin | 208897 | [208897-disneys-reading-quest-with-aladdin.json](./208897-disneys-reading-quest-with-aladdin.json) |
 | Disney's Ready For Math With Pooh | 85959 | [85959-disneys-ready-for-math-with-pooh.json](./85959-disneys-ready-for-math-with-pooh.json) |
 | Disney's Stitch: Experiment 626 | 25911 | [25911-disneys-stitch-experiment-626.json](./25911-disneys-stitch-experiment-626.json) |
@@ -9115,6 +9118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DodgeCraft | 325101 | [325101-dodgecraft.json](./325101-dodgecraft.json) |
 | Dodgekill | 345687 | [345687-dodgekill.json](./345687-dodgekill.json) |
 | DodgeKing | 213989 | [213989-dodgeking.json](./213989-dodgeking.json) |
+| Dodgem Arena | 43693 | [43693-dodgem-arena.json](./43693-dodgem-arena.json) |
 | Dodgeout+ | 245199 | [245199-dodgeout.json](./245199-dodgeout.json) |
 | DodgerBall | 59415 | [59415-dodgerball.json](./59415-dodgerball.json) |
 | Dodgerman | 113645 | [113645-dodgerman.json](./113645-dodgerman.json) |
@@ -12237,6 +12241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragoon's Journey | 229225 | [229225-dragoons-journey.json](./229225-dragoons-journey.json) |
 | Dragot | 251821 | [251821-dragot.json](./251821-dragot.json) |
 | Drags Tavern | 315009 | [315009-drags-tavern.json](./315009-drags-tavern.json) |
+| Dragstars | 43692 | [43692-dragstars.json](./43692-dragstars.json) |
 | Dragster | 312255 | [312255-dragster.json](./312255-dragster.json) |
 | Dragster | 46885 | [46885-dragster.json](./46885-dragster.json) |
 | Dragster Mayhem: Top Fuel Sim | 257783 | [257783-dragster-mayhem-top-fuel-sim.json](./257783-dragster-mayhem-top-fuel-sim.json) |
@@ -12903,6 +12908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of Witchtown | 67282 | [67282-dreams-of-witchtown.json](./67282-dreams-of-witchtown.json) |
 | Dreams on a Pillow | 342893 | [342893-dreams-on-a-pillow.json](./342893-dreams-on-a-pillow.json) |
 | Dreams Stories Online | 396016 | [396016-dreams-stories-online.json](./396016-dreams-stories-online.json) |
+| Dreams to Reality | 43742 | [43742-dreams-to-reality.json](./43742-dreams-to-reality.json) |
 | Dreams with Furry | 207579 | [207579-dreams-with-furry.json](./207579-dreams-with-furry.json) |
 | Dreams: Dragons, Dungeons & Templates | 344458 | [344458-dreams-dragons-dungeons-and-templates.json](./344458-dreams-dragons-dungeons-and-templates.json) |
 | Dreams: Unlimited links | 266422 | [266422-dreams-unlimited-links.json](./266422-dreams-unlimited-links.json) |
