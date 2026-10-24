@@ -4668,6 +4668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Heart | 117355 | [117355-iron-heart.json](./117355-iron-heart.json) |
 | Iron Helix | 5394 | [5394-iron-helix.json](./5394-iron-helix.json) |
 | Iron Hopper | 256155 | [256155-iron-hopper.json](./256155-iron-hopper.json) |
+| Iron Horse | 39373 | [39373-iron-horse.json](./39373-iron-horse.json) |
 | Iron Hunters | 296943 | [296943-iron-hunters.json](./296943-iron-hunters.json) |
 | Iron Jaw | 201511 | [201511-iron-jaw.json](./201511-iron-jaw.json) |
 | Iron John Hawk: The Shards Of Power | 210025 | [210025-iron-john-hawk-the-shards-of-power.json](./210025-iron-john-hawk-the-shards-of-power.json) |
