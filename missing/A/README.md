@@ -3427,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Wane | 387356 | [387356-after-the-wane.json](./387356-after-the-wane.json) |
 | After the War | 5713 | [5713-after-the-war.json](./5713-after-the-war.json) |
 | After University | 263980 | [263980-after-university.json](./263980-after-university.json) |
+| After Us | 228524 | [228524-after-us.json](./228524-after-us.json) |
 | After Wave: Downfall | 212284 | [212284-after-wave-downfall.json](./212284-after-wave-downfall.json) |
 | After Work | 360586 | [360586-after-work.json](./360586-after-work.json) |
 | After Work | 417423 | [417423-after-work.json](./417423-after-work.json) |
@@ -6058,6 +6059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Dark: Collector's Edition | 270574 | [270574-alone-in-the-dark-collectors-edition.json](./270574-alone-in-the-dark-collectors-edition.json) |
 | Alone in the Dark: Digital Deluxe Edition | 293759 | [293759-alone-in-the-dark-digital-deluxe-edition.json](./293759-alone-in-the-dark-digital-deluxe-edition.json) |
 | Alone in the Dark: Illumination | 7716 | [7716-alone-in-the-dark-illumination.json](./7716-alone-in-the-dark-illumination.json) |
+| Alone in the Dark: Inferno | 21303 | [21303-alone-in-the-dark-inferno.json](./21303-alone-in-the-dark-inferno.json) |
 | Alone in the Dark: The Gates of Hell | 375455 | [375455-alone-in-the-dark-the-gates-of-hell.json](./375455-alone-in-the-dark-the-gates-of-hell.json) |
 | Alone in the Dark: The New Nightmare | 1960 | [1960-alone-in-the-dark-the-new-nightmare.json](./1960-alone-in-the-dark-the-new-nightmare.json) |
 | Alone in the Dark: The New Nightmare | 201090 | [201090-alone-in-the-dark-the-new-nightmare.json](./201090-alone-in-the-dark-the-new-nightmare.json) |
@@ -9142,6 +9144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ape Escape 2 | 6063 | [6063-ape-escape-2.json](./6063-ape-escape-2.json) |
 | Ape Escape 3 | 6064 | [6064-ape-escape-3.json](./6064-ape-escape-3.json) |
 | Ape Escape 4 | 511 | [511-ape-escape-4.json](./511-ape-escape-4.json) |
+| Ape Escape Academy | 22454 | [22454-ape-escape-academy.json](./22454-ape-escape-academy.json) |
 | Ape Escape Academy | 272555 | [272555-ape-escape-academy.json](./272555-ape-escape-academy.json) |
 | Ape Escape: Million Monkeys | 68008 | [68008-ape-escape-million-monkeys.json](./68008-ape-escape-million-monkeys.json) |
 | Ape Escape: On the Loose | 44530 | [44530-ape-escape-on-the-loose.json](./44530-ape-escape-on-the-loose.json) |
@@ -11336,6 +11339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men 3D | 22833 | [22833-army-men-3d.json](./22833-army-men-3d.json) |
 | Army Men Battle Simulator | 351039 | [351039-army-men-battle-simulator.json](./351039-army-men-battle-simulator.json) |
 | Army Men For Kids | 101941 | [101941-army-men-for-kids.json](./101941-army-men-for-kids.json) |
+| Army Men II | 22830 | [22830-army-men-ii.json](./22830-army-men-ii.json) |
 | Army Men Strike: Toy Wars | 280923 | [280923-army-men-strike-toy-wars.json](./280923-army-men-strike-toy-wars.json) |
 | Army Men World War: Team Assault | 43947 | [43947-army-men-world-war-team-assault.json](./43947-army-men-world-war-team-assault.json) |
 | Army Men: Air Attack | 3417 | [3417-army-men-air-attack.json](./3417-army-men-air-attack.json) |
