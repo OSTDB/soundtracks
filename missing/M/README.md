@@ -17216,6 +17216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious School | 212812 | [212812-mysterious-school.json](./212812-mysterious-school.json) |
 | Mysterious Science | 90520 | [90520-mysterious-science.json](./90520-mysterious-science.json) |
 | Mysterious Song | 170352 | [170352-mysterious-song.json](./170352-mysterious-song.json) |
+| Mysterious Space | 35286 | [35286-mysterious-space.json](./35286-mysterious-space.json) |
 | Mysterious Stars 3D: A Fairy Tale | 85609 | [85609-mysterious-stars-3d-a-fairy-tale.json](./85609-mysterious-stars-3d-a-fairy-tale.json) |
 | Mysterious Stars: A Fairy Tale | 61456 | [61456-mysterious-stars-a-fairy-tale.json](./61456-mysterious-stars-a-fairy-tale.json) |
 | Mysterious Stars: The Samurai | 61458 | [61458-mysterious-stars-the-samurai.json](./61458-mysterious-stars-the-samurai.json) |
