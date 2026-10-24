@@ -1846,6 +1846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gateway to Hell | 252038 | [252038-gateway-to-hell.json](./252038-gateway-to-hell.json) |
 | Gateway to Karos | 13720 | [13720-gateway-to-karos.json](./13720-gateway-to-karos.json) |
 | Gateway to the Kulikovo Field: The Battle of Yepifan | 276204 | [276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json](./276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json) |
+| Gateway to the Savage Frontier | 12113 | [12113-gateway-to-the-savage-frontier.json](./12113-gateway-to-the-savage-frontier.json) |
 | Gateworlds | 270155 | [270155-gateworlds.json](./270155-gateworlds.json) |
 | Gather CCG | 401543 | [401543-gather-ccg.json](./401543-gather-ccg.json) |
 | Gather the Gems! | 100013 | [100013-gather-the-gems.json](./100013-gather-the-gems.json) |
@@ -3029,6 +3030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Files: The Face of Guilt | 28781 | [28781-ghost-files-the-face-of-guilt.json](./28781-ghost-files-the-face-of-guilt.json) |
 | Ghost Follows | 191224 | [191224-ghost-follows.json](./191224-ghost-follows.json) |
 | Ghost For Hire | 295310 | [295310-ghost-for-hire.json](./295310-ghost-for-hire.json) |
+| Ghost Giant | 103272 | [103272-ghost-giant.json](./103272-ghost-giant.json) |
 | Ghost Grab 3000 | 116547 | [116547-ghost-grab-3000.json](./116547-ghost-grab-3000.json) |
 | Ghost Grimoire | 178949 | [178949-ghost-grimoire.json](./178949-ghost-grimoire.json) |
 | Ghost Gunners | 367822 | [367822-ghost-gunners.json](./367822-ghost-gunners.json) |
