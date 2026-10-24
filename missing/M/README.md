@@ -4193,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Monsters: Mado-ou no Shiren | 387092 | [387092-master-of-monsters-mado-ou-no-shiren.json](./387092-master-of-monsters-mado-ou-no-shiren.json) |
 | Master of Music | 279058 | [279058-master-of-music.json](./279058-master-of-music.json) |
 | Master of Mutations | 109716 | [109716-master-of-mutations.json](./109716-master-of-mutations.json) |
+| Master of Orion | 11507 | [11507-master-of-orion.json](./11507-master-of-orion.json) |
 | Master of Orion | 67 | [67-master-of-orion.json](./67-master-of-orion.json) |
 | Master of Orion II: Battle at Antares | 68 | [68-master-of-orion-ii-battle-at-antares.json](./68-master-of-orion-ii-battle-at-antares.json) |
 | Master of Orion III | 69 | [69-master-of-orion-iii.json](./69-master-of-orion-iii.json) |
@@ -17276,6 +17277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst Online: URU Live | 21540 | [21540-myst-online-uru-live.json](./21540-myst-online-uru-live.json) |
 | Myst Trilogy | 111547 | [111547-myst-trilogy.json](./111547-myst-trilogy.json) |
 | Myst V: End of Ages - Limited Edition | 51833 | [51833-myst-v-end-of-ages-limited-edition.json](./51833-myst-v-end-of-ages-limited-edition.json) |
+| Myst: Masterpiece Edition | 16203 | [16203-myst-masterpiece-edition.json](./16203-myst-masterpiece-edition.json) |
 | Myst: Through the Ages Collection | 230816 | [230816-myst-through-the-ages-collection.json](./230816-myst-through-the-ages-collection.json) |
 | MyStar | 126595 | [126595-mystar.json](./126595-mystar.json) |
 | Mystera Legacy | 182084 | [182084-mystera-legacy.json](./182084-mystera-legacy.json) |
