@@ -2300,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Baseball 3D | 232895 | [232895-real-baseball-3d.json](./232895-real-baseball-3d.json) |
 | Real Basketball | 89688 | [89688-real-basketball.json](./89688-real-basketball.json) |
 | Real Bird Fake Bird | 325241 | [325241-real-bird-fake-bird.json](./325241-real-bird-fake-bird.json) |
+| Real Bout Fatal Fury 2: The Newcomers | 370692 | [370692-real-bout-fatal-fury-2-the-newcomers.json](./370692-real-bout-fatal-fury-2-the-newcomers.json) |
 | Real Bout Fatal Fury 2: The Newcomers | 46787 | [46787-real-bout-fatal-fury-2-the-newcomers.json](./46787-real-bout-fatal-fury-2-the-newcomers.json) |
 | Real Bout Fatal Fury Best Collection | 70941 | [70941-real-bout-fatal-fury-best-collection.json](./70941-real-bout-fatal-fury-best-collection.json) |
 | Real Bout Garou Densetsu Best Collection | 176135 | [176135-real-bout-garou-densetsu-best-collection.json](./176135-real-bout-garou-densetsu-best-collection.json) |
@@ -4726,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restore | 305314 | [305314-restore.json](./305314-restore.json) |
 | Restore | 397658 | [397658-restore.json](./397658-restore.json) |
 | Restore the Luminous | 413935 | [413935-restore-the-luminous.json](./413935-restore-the-luminous.json) |
+| Restore Your Island | 363903 | [363903-restore-your-island.json](./363903-restore-your-island.json) |
 | Restore, Reflect, Retry | 335839 | [335839-restore-reflect-retry.json](./335839-restore-reflect-retry.json) |
 | Restoring Falmay | 326979 | [326979-restoring-falmay.json](./326979-restoring-falmay.json) |
 | Restoring the Past: The Beauty of Porcelain 3 | 382885 | [382885-restoring-the-past-the-beauty-of-porcelain-3.json](./382885-restoring-the-past-the-beauty-of-porcelain-3.json) |
@@ -5857,6 +5859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 5: Racing Icons Pack | 286994 | [286994-ride-5-racing-icons-pack.json](./286994-ride-5-racing-icons-pack.json) |
 | Ride 5: Short Track Pack | 272941 | [272941-ride-5-short-track-pack.json](./272941-ride-5-short-track-pack.json) |
 | Ride 5: Speed With Style Pack | 293411 | [293411-ride-5-speed-with-style-pack.json](./293411-ride-5-speed-with-style-pack.json) |
+| Ride 6 | 377690 | [377690-ride-6.json](./377690-ride-6.json) |
 | Ride Control Ultimate | 243403 | [243403-ride-control-ultimate.json](./243403-ride-control-ultimate.json) |
 | Ride Kamens | 304186 | [304186-ride-kamens.json](./304186-ride-kamens.json) |
 | Ride or Die: A Bad Boy Romance - Book 1 | 313719 | [313719-ride-or-die-a-bad-boy-romance-book-1.json](./313719-ride-or-die-a-bad-boy-romance-book-1.json) |
