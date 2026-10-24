@@ -4790,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Angry 4 | 186866 | [186866-the-angry-4.json](./186866-the-angry-4.json) |
 | The Angry Banana | 114918 | [114918-the-angry-banana.json](./114918-the-angry-banana.json) |
 | The Angry Beavers: Match-Master | 273882 | [273882-the-angry-beavers-match-master.json](./273882-the-angry-beavers-match-master.json) |
+| The Angry Birds Movie 2 VR: Under Pressure | 119333 | [119333-the-angry-birds-movie-2-vr-under-pressure.json](./119333-the-angry-birds-movie-2-vr-under-pressure.json) |
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
 | The Angry Video Game Nerd K.O. Boxing | 195569 | [195569-the-angry-video-game-nerd-k-o-boxing.json](./195569-the-angry-video-game-nerd-k-o-boxing.json) |
 | The Angry Viking | 59068 | [59068-the-angry-viking.json](./59068-the-angry-viking.json) |
@@ -6381,6 +6382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curio Society: New Order HD | 91336 | [91336-the-curio-society-new-order-hd.json](./91336-the-curio-society-new-order-hd.json) |
 | The Curiosity | 311801 | [311801-the-curiosity.json](./311801-the-curiosity.json) |
 | The Curious Study of Dr. Blackwood | 273846 | [273846-the-curious-study-of-dr-blackwood.json](./273846-the-curious-study-of-dr-blackwood.json) |
+| The Curious Tale of the Stolen Pets | 119332 | [119332-the-curious-tale-of-the-stolen-pets.json](./119332-the-curious-tale-of-the-stolen-pets.json) |
 | The Curry Simulator | 364106 | [364106-the-curry-simulator.json](./364106-the-curry-simulator.json) |
 | The Curse | 356144 | [356144-the-curse.json](./356144-the-curse.json) |
 | The Curse of Aristotle | 251241 | [251241-the-curse-of-aristotle.json](./251241-the-curse-of-aristotle.json) |
@@ -7099,6 +7101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Dark Brotherhood | 128473 | [128473-the-elder-scrolls-online-dark-brotherhood.json](./128473-the-elder-scrolls-online-dark-brotherhood.json) |
 | The Elder Scrolls Online: Deadlands | 180605 | [180605-the-elder-scrolls-online-deadlands.json](./180605-the-elder-scrolls-online-deadlands.json) |
 | The Elder Scrolls Online: Deluxe Collection - Gold Road | 306481 | [306481-the-elder-scrolls-online-deluxe-collection-gold-road.json](./306481-the-elder-scrolls-online-deluxe-collection-gold-road.json) |
+| The Elder Scrolls Online: Dragonhold | 119327 | [119327-the-elder-scrolls-online-dragonhold.json](./119327-the-elder-scrolls-online-dragonhold.json) |
 | The Elder Scrolls Online: Elsweyr - Collector's Edition | 118908 | [118908-the-elder-scrolls-online-elsweyr-collectors-edition.json](./118908-the-elder-scrolls-online-elsweyr-collectors-edition.json) |
 | The Elder Scrolls Online: Fallen Banners | 335415 | [335415-the-elder-scrolls-online-fallen-banners.json](./335415-the-elder-scrolls-online-fallen-banners.json) |
 | The Elder Scrolls Online: Feast of Shadows | 361156 | [361156-the-elder-scrolls-online-feast-of-shadows.json](./361156-the-elder-scrolls-online-feast-of-shadows.json) |
@@ -11379,6 +11382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moroccan Castle 3: Behind The Secrets | 242229 | [242229-the-moroccan-castle-3-behind-the-secrets.json](./242229-the-moroccan-castle-3-behind-the-secrets.json) |
 | The Moron Test | 117757 | [117757-the-moron-test.json](./117757-the-moron-test.json) |
 | The Morphine Western Revenge | 185622 | [185622-the-morphine-western-revenge.json](./185622-the-morphine-western-revenge.json) |
+| The Morrigan | 115552 | [115552-the-morrigan.json](./115552-the-morrigan.json) |
 | The Morrison Survival Game | 135070 | [135070-the-morrison-survival-game.json](./135070-the-morrison-survival-game.json) |
 | The Mors | 68489 | [68489-the-mors.json](./68489-the-mors.json) |
 | The Mortal | 374378 | [374378-the-mortal.json](./374378-the-mortal.json) |
@@ -11540,6 +11544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -12313,6 +12318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Princess is in Another Castle | 72504 | [72504-the-princess-is-in-another-castle.json](./72504-the-princess-is-in-another-castle.json) |
 | The Princess of the Tower wants a Hero | 200632 | [200632-the-princess-of-the-tower-wants-a-hero.json](./200632-the-princess-of-the-tower-wants-a-hero.json) |
 | The Princess Swap | 313869 | [313869-the-princess-swap.json](./313869-the-princess-swap.json) |
+| The Princess, the Stray Cat, and Matters of the Heart | 115580 | [115580-the-princess-the-stray-cat-and-matters-of-the-heart.json](./115580-the-princess-the-stray-cat-and-matters-of-the-heart.json) |
 | The Princess, the Stray Cat, and Matters of the Heart: Premium Limited Edition | 167020 | [167020-the-princess-the-stray-cat-and-matters-of-the-heart-premium-limited-edition.json](./167020-the-princess-the-stray-cat-and-matters-of-the-heart-premium-limited-edition.json) |
 | The Princess' Heart | 35022 | [35022-the-princess-heart.json](./35022-the-princess-heart.json) |
 | The Princess's Dragon | 264576 | [264576-the-princesss-dragon.json](./264576-the-princesss-dragon.json) |
@@ -15209,6 +15215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walk of Life | 179987 | [179987-the-walk-of-life.json](./179987-the-walk-of-life.json) |
 | The Walker | 52030 | [52030-the-walker.json](./52030-the-walker.json) |
 | The Walking Dead Match 3 Tales | 303175 | [303175-the-walking-dead-match-3-tales.json](./303175-the-walking-dead-match-3-tales.json) |
+| The Walking Dead Onslaught | 118485 | [118485-the-walking-dead-onslaught.json](./118485-the-walking-dead-onslaught.json) |
 | The Walking Dead: A New Frontier - Episode 1: Ties That Bind - Part One | 127062 | [127062-the-walking-dead-a-new-frontier-episode-1-ties-that-bind-part-one.json](./127062-the-walking-dead-a-new-frontier-episode-1-ties-that-bind-part-one.json) |
 | The Walking Dead: A New Frontier - Episode 2: Ties That Bind - Part Two | 127063 | [127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json](./127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json) |
 | The Walking Dead: A New Frontier - Episode 3: Above the Law | 127064 | [127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json](./127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json) |
@@ -15591,6 +15598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizards Arena | 348760 | [348760-the-wizards-arena.json](./348760-the-wizards-arena.json) |
 | The Wizards of Trinity Bellwoods | 58265 | [58265-the-wizards-of-trinity-bellwoods.json](./58265-the-wizards-of-trinity-bellwoods.json) |
 | The Wizards Pet | 108955 | [108955-the-wizards-pet.json](./108955-the-wizards-pet.json) |
+| The Wizards: Dark Times | 119331 | [119331-the-wizards-dark-times.json](./119331-the-wizards-dark-times.json) |
 | The Wizards: Enhanced Edition | 116134 | [116134-the-wizards-enhanced-edition.json](./116134-the-wizards-enhanced-edition.json) |
 | The Wizardz Dungeon | 216677 | [216677-the-wizardz-dungeon.json](./216677-the-wizardz-dungeon.json) |
 | The Wolf | 154308 | [154308-the-wolf.json](./154308-the-wolf.json) |
@@ -16113,6 +16121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Came from the Ground | 328620 | [328620-they-came-from-the-ground.json](./328620-they-came-from-the-ground.json) |
 | They Came From the Moon | 33790 | [33790-they-came-from-the-moon.json](./33790-they-came-from-the-moon.json) |
 | They came from the Skies | 54197 | [54197-they-came-from-the-skies.json](./54197-they-came-from-the-skies.json) |
+| They Came From the Sky | 118328 | [118328-they-came-from-the-sky.json](./118328-they-came-from-the-sky.json) |
 | They Come at Poop Time | 185355 | [185355-they-come-at-poop-time.json](./185355-they-come-at-poop-time.json) |
 | They Come in Fives | 370915 | [370915-they-come-in-fives.json](./370915-they-come-in-fives.json) |
 | They Die Tomorrow | 188567 | [188567-they-die-tomorrow.json](./188567-they-die-tomorrow.json) |
@@ -20230,6 +20239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom and Jerry: The Movie | 8043 | [8043-tom-and-jerry-the-movie.json](./8043-tom-and-jerry-the-movie.json) |
 | Tom Clancy's 3 Pack | 228965 | [228965-tom-clancys-3-pack.json](./228965-tom-clancys-3-pack.json) |
 | Tom Clancy's Action Pack Limited Edition | 43283 | [43283-tom-clancys-action-pack-limited-edition.json](./43283-tom-clancys-action-pack-limited-edition.json) |
+| Tom Clancy's Elite Squad | 119355 | [119355-tom-clancys-elite-squad.json](./119355-tom-clancys-elite-squad.json) |
 | Tom Clancy's EndWar | 7468 | [7468-tom-clancys-endwar.json](./7468-tom-clancys-endwar.json) |
 | Tom Clancy's Ghost Recon | 1294 | [1294-tom-clancys-ghost-recon.json](./1294-tom-clancys-ghost-recon.json) |
 | Tom Clancy's Ghost Recon 2 | 1298 | [1298-tom-clancys-ghost-recon-2.json](./1298-tom-clancys-ghost-recon-2.json) |
@@ -22071,6 +22081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Evil | 25731 | [25731-tower-of-evil.json](./25731-tower-of-evil.json) |
 | Tower of Fangs: Summoned to Another World, I Was Locked in a Tower with 299 Strikers, Only the Last Egoist Goes Home | 419376 | [419376-tower-of-fangs-summoned-to-another-world-i-was-locked-in-a-tower-with-299-strikers-only-the-last-egoist-goes-home.json](./419376-tower-of-fangs-summoned-to-another-world-i-was-locked-in-a-tower-with-299-strikers-only-the-last-egoist-goes-home.json) |
 | Tower of Fantasy | 256153 | [256153-tower-of-fantasy.json](./256153-tower-of-fantasy.json) |
+| Tower of Fate | 110830 | [110830-tower-of-fate.json](./110830-tower-of-fate.json) |
 | Tower of Fear | 73743 | [73743-tower-of-fear.json](./73743-tower-of-fear.json) |
 | Tower of Fortune | 130751 | [130751-tower-of-fortune.json](./130751-tower-of-fortune.json) |
 | Tower of Fortune 3 | 197738 | [197738-tower-of-fortune-3.json](./197738-tower-of-fortune-3.json) |
@@ -24355,6 +24366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transport Fever 3 | 344466 | [344466-transport-fever-3.json](./344466-transport-fever-3.json) |
 | Transport Giant: Down Under | 9445 | [9445-transport-giant-down-under.json](./9445-transport-giant-down-under.json) |
 | Transport Giant: Gold Edition 2012 | 53856 | [53856-transport-giant-gold-edition-2012.json](./53856-transport-giant-gold-edition-2012.json) |
+| Transport INC | 118521 | [118521-transport-inc.json](./118521-transport-inc.json) |
 | Transport INC: Map Pack | 226895 | [226895-transport-inc-map-pack.json](./226895-transport-inc-map-pack.json) |
 | Transport Tycoon | 5504 | [5504-transport-tycoon.json](./5504-transport-tycoon.json) |
 | Transport Tycoon | 5505 | [5505-transport-tycoon.json](./5505-transport-tycoon.json) |
