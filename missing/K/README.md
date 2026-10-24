@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ka-50 Hokum | 94959 | [94959-ka-50-hokum.json](./94959-ka-50-hokum.json) |
 | Ka-52 Team Alligator | 78646 | [78646-ka-52-team-alligator.json](./78646-ka-52-team-alligator.json) |
 | Ka-Blooey | 42660 | [42660-ka-blooey.json](./42660-ka-blooey.json) |
+| Ka-Ge-Ki: Fists of Steel | 4529 | [4529-ka-ge-ki-fists-of-steel.json](./4529-ka-ge-ki-fists-of-steel.json) |
 | Ka: Keepers & Assassins | 211975 | [211975-ka-keepers-and-assassins.json](./211975-ka-keepers-and-assassins.json) |
 | Ka'Roo | 79382 | [79382-karoo.json](./79382-karoo.json) |
 | Kaal Yoddha | 332445 | [332445-kaal-yoddha.json](./332445-kaal-yoddha.json) |
@@ -2259,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -2569,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Rabbit: Race | 185913 | [185913-king-rabbit-race.json](./185913-king-rabbit-race.json) |
 | King Randall's Party | 107800 | [107800-king-randalls-party.json](./107800-king-randalls-party.json) |
 | King Safety | 197320 | [197320-king-safety.json](./197320-king-safety.json) |
+| King Salmon: The Big Catch | 4480 | [4480-king-salmon-the-big-catch.json](./4480-king-salmon-the-big-catch.json) |
 | King Scribble | 382775 | [382775-king-scribble.json](./382775-king-scribble.json) |
 | King Solomon's Mines | 323289 | [323289-king-solomons-mines.json](./323289-king-solomons-mines.json) |
 | King Tongue | 87873 | [87873-king-tongue.json](./87873-king-tongue.json) |
