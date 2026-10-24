@@ -2462,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neuroza | 335867 | [335867-neuroza.json](./335867-neuroza.json) |
 | Neuter Master | 372463 | [372463-neuter-master.json](./372463-neuter-master.json) |
 | Neutopia | 28524 | [28524-neutopia.json](./28524-neutopia.json) |
+| Neutopia II | 28523 | [28523-neutopia-ii.json](./28523-neutopia-ii.json) |
 | Neutral Mini Escape: Midsummer Night ver. | 317094 | [317094-neutral-mini-escape-midsummer-night-ver.json](./317094-neutral-mini-escape-midsummer-night-ver.json) |
 | Neutralized: Dark moon | 368680 | [368680-neutralized-dark-moon.json](./368680-neutralized-dark-moon.json) |
 | Neutrino | 212826 | [212826-neutrino.json](./212826-neutrino.json) |
@@ -5653,6 +5654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Born to be King | 231842 | [231842-not-born-to-be-king.json](./231842-not-born-to-be-king.json) |
 | Not Burned Evil | 276977 | [276977-not-burned-evil.json](./276977-not-burned-evil.json) |
 | Not Dead Yet | 143500 | [143500-not-dead-yet.json](./143500-not-dead-yet.json) |
+| Not Dying Today | 29995 | [29995-not-dying-today.json](./29995-not-dying-today.json) |
 | Not Enough Souls | 179567 | [179567-not-enough-souls.json](./179567-not-enough-souls.json) |
 | Not Enough Time | 322943 | [322943-not-enough-time.json](./322943-not-enough-time.json) |
 | Not Escape Room | 194355 | [194355-not-escape-room.json](./194355-not-escape-room.json) |
