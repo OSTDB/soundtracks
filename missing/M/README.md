@@ -1801,6 +1801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mail Rabbit | 176417 | [176417-mail-rabbit.json](./176417-mail-rabbit.json) |
 | Mail Run Endless Delivery Rush | 216448 | [216448-mail-run-endless-delivery-rush.json](./216448-mail-run-endless-delivery-rush.json) |
 | Mail Tail | 236932 | [236932-mail-tail.json](./236932-mail-tail.json) |
+| Mail Time | 165385 | [165385-mail-time.json](./165385-mail-time.json) |
 | Mail Time + Cat Cafe Manager | 357023 | [357023-mail-time-cat-cafe-manager.json](./357023-mail-time-cat-cafe-manager.json) |
 | Mail To The Moon | 362336 | [362336-mail-to-the-moon.json](./362336-mail-to-the-moon.json) |
 | Mailbag for a Tattered Nation | 202607 | [202607-mailbag-for-a-tattered-nation.json](./202607-mailbag-for-a-tattered-nation.json) |
@@ -3650,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marsmare: Alienation | 199341 | [199341-marsmare-alienation.json](./199341-marsmare-alienation.json) |
 | Marsport | 45327 | [45327-marsport.json](./45327-marsport.json) |
 | Marsupilami | 18142 | [18142-marsupilami.json](./18142-marsupilami.json) |
+| Marsupilami: Hoobadventure | 150008 | [150008-marsupilami-hoobadventure.json](./150008-marsupilami-hoobadventure.json) |
 | Marsupilami: Hoobadventure - Tropical Edition | 152337 | [152337-marsupilami-hoobadventure-tropical-edition.json](./152337-marsupilami-hoobadventure-tropical-edition.json) |
 | Marswar | 257423 | [257423-marswar.json](./257423-marswar.json) |
 | Marswar TD | 169465 | [169465-marswar-td.json](./169465-marswar-td.json) |
@@ -7857,6 +7859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear GB | 181868 | [181868-metal-gear-gb.json](./181868-metal-gear-gb.json) |
 | Metal Gear Noah | 107207 | [107207-metal-gear-noah.json](./107207-metal-gear-noah.json) |
 | Metal Gear Online | 269417 | [269417-metal-gear-online.json](./269417-metal-gear-online.json) |
+| Metal Gear Online | 7367 | [7367-metal-gear-online.json](./7367-metal-gear-online.json) |
 | Metal Gear Rising: Revengeance - Blade Wolf | 20111 | [20111-metal-gear-rising-revengeance-blade-wolf.json](./20111-metal-gear-rising-revengeance-blade-wolf.json) |
 | Metal Gear Rising: Revengeance - Limited Edition | 44557 | [44557-metal-gear-rising-revengeance-limited-edition.json](./44557-metal-gear-rising-revengeance-limited-edition.json) |
 | Metal Gear Rising: Revengeance - Special Edition | 136809 | [136809-metal-gear-rising-revengeance-special-edition.json](./136809-metal-gear-rising-revengeance-special-edition.json) |
@@ -8939,6 +8942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Middle-earth: Shadow of Mordor - The Bright Lord | 21596 | [21596-middle-earth-shadow-of-mordor-the-bright-lord.json](./21596-middle-earth-shadow-of-mordor-the-bright-lord.json) |
 | Middle-earth: Shadow of Mordor - The Power of Shadow | 289015 | [289015-middle-earth-shadow-of-mordor-the-power-of-shadow.json](./289015-middle-earth-shadow-of-mordor-the-power-of-shadow.json) |
 | Middle-earth: Shadow of War - Definitive Edition | 106764 | [106764-middle-earth-shadow-of-war-definitive-edition.json](./106764-middle-earth-shadow-of-war-definitive-edition.json) |
+| Middle-earth: Shadow of War - Desolation of Mordor | 164812 | [164812-middle-earth-shadow-of-war-desolation-of-mordor.json](./164812-middle-earth-shadow-of-war-desolation-of-mordor.json) |
 | Middle-earth: Shadow of War - Mithril Edition | 36986 | [36986-middle-earth-shadow-of-war-mithril-edition.json](./36986-middle-earth-shadow-of-war-mithril-edition.json) |
 | Middle-earth: Shadow of War - Outlaw Tribe Nemesis | 164808 | [164808-middle-earth-shadow-of-war-outlaw-tribe-nemesis.json](./164808-middle-earth-shadow-of-war-outlaw-tribe-nemesis.json) |
 | Middle-earth: Shadow of War - Silver Edition | 53358 | [53358-middle-earth-shadow-of-war-silver-edition.json](./53358-middle-earth-shadow-of-war-silver-edition.json) |
@@ -11468,8 +11472,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MKL The Game | 331866 | [331866-mkl-the-game.json](./331866-mkl-the-game.json) |
 | MLB 06: The Show | 20525 | [20525-mlb-06-the-show.json](./20525-mlb-06-the-show.json) |
 | MLB 07: The Show | 7369 | [7369-mlb-07-the-show.json](./7369-mlb-07-the-show.json) |
+| MLB 09: The Show | 7371 | [7371-mlb-09-the-show.json](./7371-mlb-09-the-show.json) |
 | MLB 10: The Show | 7372 | [7372-mlb-10-the-show.json](./7372-mlb-10-the-show.json) |
 | MLB 12: The Show | 7374 | [7374-mlb-12-the-show.json](./7374-mlb-12-the-show.json) |
+| MLB 13: The Show | 7375 | [7375-mlb-13-the-show.json](./7375-mlb-13-the-show.json) |
 | MLB 13: The Show - Home Run Derby Edition | 99955 | [99955-mlb-13-the-show-home-run-derby-edition.json](./99955-mlb-13-the-show-home-run-derby-edition.json) |
 | MLB 14: The Show | 9642 | [9642-mlb-14-the-show.json](./9642-mlb-14-the-show.json) |
 | MLB 15: The Show | 8655 | [8655-mlb-15-the-show.json](./8655-mlb-15-the-show.json) |
