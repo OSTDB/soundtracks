@@ -2292,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Fubuki | 288744 | [288744-action-fubuki.json](./288744-action-fubuki.json) |
 | Action Game Maker | 344533 | [344533-action-game-maker.json](./344533-action-game-maker.json) |
 | Action Games Bundle | 305564 | [305564-action-games-bundle.json](./305564-action-games-bundle.json) |
+| Action Girlz Racing | 4658 | [4658-action-girlz-racing.json](./4658-action-girlz-racing.json) |
 | Action Half-Life | 221840 | [221840-action-half-life.json](./221840-action-half-life.json) |
 | Action Hall of Fame | 137511 | [137511-action-hall-of-fame.json](./137511-action-hall-of-fame.json) |
 | Action Hero | 313769 | [313769-action-hero.json](./313769-action-hero.json) |
@@ -2945,7 +2946,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3276,6 +3276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFK Football | 267314 | [267314-afk-football.json](./267314-afk-football.json) |
 | AFK Industarry | 405469 | [405469-afk-industarry.json](./405469-afk-industarry.json) |
 | AFK Shift | 347169 | [347169-afk-shift.json](./347169-afk-shift.json) |
+| AFL | 4662 | [4662-afl.json](./4662-afl.json) |
 | AFL 23 | 240298 | [240298-afl-23.json](./240298-afl-23.json) |
 | AFL 26 | 340723 | [340723-afl-26.json](./340723-afl-26.json) |
 | AFL 99 | 60580 | [60580-afl-99.json](./60580-afl-99.json) |
@@ -4794,6 +4795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alakenisland | 195161 | [195161-alakenisland.json](./195161-alakenisland.json) |
 | ALaLa: Wake Mi Up! | 36424 | [36424-alala-wake-mi-up.json](./36424-alala-wake-mi-up.json) |
 | Alaloth: Champions of the Four Kingdoms | 27406 | [27406-alaloth-champions-of-the-four-kingdoms.json](./27406-alaloth-champions-of-the-four-kingdoms.json) |
+| Alan Hansen's Sports Challenge | 4665 | [4665-alan-hansens-sports-challenge.json](./4665-alan-hansens-sports-challenge.json) |
 | Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
 | Alan Probe: Amateur Surgeon - Christmas Edition | 65917 | [65917-alan-probe-amateur-surgeon-christmas-edition.json](./65917-alan-probe-amateur-surgeon-christmas-edition.json) |
 | Alan Saves Christmas | 316476 | [316476-alan-saves-christmas.json](./316476-alan-saves-christmas.json) |
