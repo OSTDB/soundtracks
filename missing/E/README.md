@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ednoka | 341120 | [341120-ednoka.json](./341120-ednoka.json) |
 | Edo Bunka Rekishi Kentei | 123308 | [123308-edo-bunka-rekishi-kentei.json](./123308-edo-bunka-rekishi-kentei.json) |
 | Edo Mono | 250476 | [250476-edo-mono.json](./250476-edo-mono.json) |
+| Edo no Kiba | 42389 | [42389-edo-no-kiba.json](./42389-edo-no-kiba.json) |
 | Edogawa Ranpo no Kaijin Nijuu Mensou DS | 421197 | [421197-edogawa-ranpo-no-kaijin-nijuu-mensou-ds.json](./421197-edogawa-ranpo-no-kaijin-nijuu-mensou-ds.json) |
 | Edolie | 35755 | [35755-edolie.json](./35755-edolie.json) |
 | EdoPro | 234123 | [234123-edopro.json](./234123-edopro.json) |
@@ -3810,6 +3811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eri | 116282 | [116282-eri.json](./116282-eri.json) |
 | Eric & Yannik X | 318519 | [318519-eric-and-yannik-x.json](./318519-eric-and-yannik-x.json) |
 | Eric and the Floaters | 45324 | [45324-eric-and-the-floaters.json](./45324-eric-and-the-floaters.json) |
+| Eric Cantona Football Challenge | 42402 | [42402-eric-cantona-football-challenge.json](./42402-eric-cantona-football-challenge.json) |
 | Eric the Unready | 12426 | [12426-eric-the-unready.json](./12426-eric-the-unready.json) |
 | Eric's All-in-1 Solitaire | 86728 | [86728-erics-all-in-1-solitaire.json](./86728-erics-all-in-1-solitaire.json) |
 | Eric's Klondike Solitaire Pack | 95675 | [95675-erics-klondike-solitaire-pack.json](./95675-erics-klondike-solitaire-pack.json) |
