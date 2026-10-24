@@ -4308,7 +4308,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intruder: Sakura Yashiki no Tansaku | 71983 | [71983-intruder-sakura-yashiki-no-tansaku.json](./71983-intruder-sakura-yashiki-no-tansaku.json) |
 | Intruder: War Areas | 30495 | [30495-intruder-war-areas.json](./30495-intruder-war-areas.json) |
 | Intruders | 110244 | [110244-intruders.json](./110244-intruders.json) |
-| Intrusion 2 | 6277 | [6277-intrusion-2.json](./6277-intrusion-2.json) |
 | Intrusion of Alice | 223175 | [223175-intrusion-of-alice.json](./223175-intrusion-of-alice.json) |
 | Intrusive Thoughts | 325517 | [325517-intrusive-thoughts.json](./325517-intrusive-thoughts.json) |
 | Inu Dai Suki! | 46604 | [46604-inu-dai-suki.json](./46604-inu-dai-suki.json) |
