@@ -2373,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Wasteland | 391113 | [391113-legends-of-wasteland.json](./391113-legends-of-wasteland.json) |
 | Legends of Wrestling | 3974 | [3974-legends-of-wrestling.json](./3974-legends-of-wrestling.json) |
 | Legends of Wrestling II | 194214 | [194214-legends-of-wrestling-ii.json](./194214-legends-of-wrestling-ii.json) |
+| Legends of Wrestling II | 3975 | [3975-legends-of-wrestling-ii.json](./3975-legends-of-wrestling-ii.json) |
 | Legends of Yore | 50476 | [50476-legends-of-yore.json](./50476-legends-of-yore.json) |
 | Legends of Zork | 69302 | [69302-legends-of-zork.json](./69302-legends-of-zork.json) |
 | Legends Scrolls | 247215 | [247215-legends-scrolls.json](./247215-legends-scrolls.json) |
@@ -2563,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Indiana Jones Adventures | 235340 | [235340-lego-indiana-jones-adventures.json](./235340-lego-indiana-jones-adventures.json) |
 | LEGO Indiana Jones: Mobile Adventure | 344143 | [344143-lego-indiana-jones-mobile-adventure.json](./344143-lego-indiana-jones-mobile-adventure.json) |
 | LEGO Indiana Jones: The Original Adventures | 189 | [189-lego-indiana-jones-the-original-adventures.json](./189-lego-indiana-jones-the-original-adventures.json) |
+| LEGO Indiana Jones: The Original Adventures | 194936 | [194936-lego-indiana-jones-the-original-adventures.json](./194936-lego-indiana-jones-the-original-adventures.json) |
 | LEGO Indiana Jones: The Original Adventures / Kung Fu Panda | 142110 | [142110-lego-indiana-jones-the-original-adventures-kung-fu-panda.json](./142110-lego-indiana-jones-the-original-adventures-kung-fu-panda.json) |
 | LEGO Island | 5612 | [5612-lego-island.json](./5612-lego-island.json) |
 | LEGO Island 2: The Brickster's Revenge | 229841 | [229841-lego-island-2-the-bricksters-revenge.json](./229841-lego-island-2-the-bricksters-revenge.json) |
