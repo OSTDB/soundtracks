@@ -9042,6 +9042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Enter | 393492 | [393492-do-not-enter.json](./393492-do-not-enter.json) |
 | Do Not Fall | 36154 | [36154-do-not-fall.json](./36154-do-not-fall.json) |
 | Do Not Feed the Monkeys | 52014 | [52014-do-not-feed-the-monkeys.json](./52014-do-not-feed-the-monkeys.json) |
+| Do Not Feed the Monkeys 2099 | 199713 | [199713-do-not-feed-the-monkeys-2099.json](./199713-do-not-feed-the-monkeys-2099.json) |
 | Do Not Kill Me Jacob!! JAM Ver. | 176482 | [176482-do-not-kill-me-jacob-jam-ver.json](./176482-do-not-kill-me-jacob-jam-ver.json) |
 | Do Not Look at the Moon | 309360 | [309360-do-not-look-at-the-moon.json](./309360-do-not-look-at-the-moon.json) |
 | Do Not Open | 183869 | [183869-do-not-open.json](./183869-do-not-open.json) |
@@ -9870,6 +9871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Ask Succubus | 173822 | [173822-dont-ask-succubus.json](./173822-dont-ask-succubus.json) |
 | Don't Be Afraid | 80904 | [80904-dont-be-afraid.json](./80904-dont-be-afraid.json) |
 | Don't Be Afraid 2 | 287825 | [287825-dont-be-afraid-2.json](./287825-dont-be-afraid-2.json) |
+| Don't Be Afraid: The First Toy | 198068 | [198068-dont-be-afraid-the-first-toy.json](./198068-dont-be-afraid-the-first-toy.json) |
 | Don't be crushed | 54846 | [54846-dont-be-crushed.json](./54846-dont-be-crushed.json) |
 | Don't Be Greedy | 233522 | [233522-dont-be-greedy.json](./233522-dont-be-greedy.json) |
 | Don't Be Nervous Talking to Girls | 91628 | [91628-dont-be-nervous-talking-to-girls.json](./91628-dont-be-nervous-talking-to-girls.json) |
@@ -10907,6 +10909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorven Digger | 195916 | [195916-dorven-digger.json](./195916-dorven-digger.json) |
 | Dos-Plan | 271105 | [271105-dos-plan.json](./271105-dos-plan.json) |
 | Dose Response | 217458 | [217458-dose-response.json](./217458-dose-response.json) |
+| Doshin the Giant | 3894 | [3894-doshin-the-giant.json](./3894-doshin-the-giant.json) |
 | Doshin the Giant 1 | 159279 | [159279-doshin-the-giant-1.json](./159279-doshin-the-giant-1.json) |
 | Dosi | 221158 | [221158-dosi.json](./221158-dosi.json) |
 | DoSolFa-lite | 28146 | [28146-dosolfa-lite.json](./28146-dosolfa-lite.json) |
@@ -11284,6 +11287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downfall Hearts | 258487 | [258487-downfall-hearts.json](./258487-downfall-hearts.json) |
 | Downfall MMORPG | 351043 | [351043-downfall-mmorpg.json](./351043-downfall-mmorpg.json) |
 | Downfall to the Turnabout | 303757 | [303757-downfall-to-the-turnabout.json](./303757-downfall-to-the-turnabout.json) |
+| Downfall: A Slay the Spire Fan Expansion | 198469 | [198469-downfall-a-slay-the-spire-fan-expansion.json](./198469-downfall-a-slay-the-spire-fan-expansion.json) |
 | Downfall: Redux | 51750 | [51750-downfall-redux.json](./51750-downfall-redux.json) |
 | Downhell | 274127 | [274127-downhell.json](./274127-downhell.json) |
 | Downhill Challenge | 73798 | [73798-downhill-challenge.json](./73798-downhill-challenge.json) |
@@ -11437,6 +11441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Moonlight's Happyworld | 387515 | [387515-dr-moonlights-happyworld.json](./387515-dr-moonlights-happyworld.json) |
 | Dr. Murph | 304703 | [304703-dr-murph.json](./304703-dr-murph.json) |
 | Dr. Muto | 248455 | [248455-dr-muto.json](./248455-dr-muto.json) |
+| Dr. Muto | 3895 | [3895-dr-muto.json](./3895-dr-muto.json) |
 | Dr. Neo Cortex: Inventor's Madness | 314661 | [314661-dr-neo-cortex-inventors-madness.json](./314661-dr-neo-cortex-inventors-madness.json) |
 | Dr. Oil | 150458 | [150458-dr-oil.json](./150458-dr-oil.json) |
 | Dr. Oops! | 402421 | [402421-dr-oops.json](./402421-dr-oops.json) |
@@ -11773,6 +11778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Budokai Tenkaichi | 2253 | [2253-dragon-ball-z-budokai-tenkaichi.json](./2253-dragon-ball-z-budokai-tenkaichi.json) |
 | Dragon Ball Z: Budokai Tenkaichi 2 | 2252 | [2252-dragon-ball-z-budokai-tenkaichi-2.json](./2252-dragon-ball-z-budokai-tenkaichi-2.json) |
 | Dragon Ball Z: Budokai Tenkaichi 2 | 291555 | [291555-dragon-ball-z-budokai-tenkaichi-2.json](./291555-dragon-ball-z-budokai-tenkaichi-2.json) |
+| Dragon Ball Z: Budokai Tenkaichi 4 | 191296 | [191296-dragon-ball-z-budokai-tenkaichi-4.json](./191296-dragon-ball-z-budokai-tenkaichi-4.json) |
 | Dragon Ball Z: Burst Limit | 2569 | [2569-dragon-ball-z-burst-limit.json](./2569-dragon-ball-z-burst-limit.json) |
 | Dragon Ball Z: Buu's Fury | 19835 | [19835-dragon-ball-z-buus-fury.json](./19835-dragon-ball-z-buus-fury.json) |
 | Dragon Ball Z: Buu's Fury / Dragon Ball GT: Transformation | 79299 | [79299-dragon-ball-z-buus-fury-dragon-ball-gt-transformation.json](./79299-dragon-ball-z-buus-fury-dragon-ball-gt-transformation.json) |
