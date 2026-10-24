@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 97 | 48972 | [48972-madden-nfl-97.json](./48972-madden-nfl-97.json) |
 | Madden NFL 98 | 4590 | [4590-madden-nfl-98.json](./4590-madden-nfl-98.json) |
 | Madden NFL 99 | 779 | [779-madden-nfl-99.json](./779-madden-nfl-99.json) |
+| Madden NFL Arcade | 52551 | [52551-madden-nfl-arcade.json](./52551-madden-nfl-arcade.json) |
 | Madden NFL Football | 6845 | [6845-madden-nfl-football.json](./6845-madden-nfl-football.json) |
 | Madden NFL Football | 80472 | [80472-madden-nfl-football.json](./80472-madden-nfl-football.json) |
 | Madden NFL Mobile | 39182 | [39182-madden-nfl-mobile.json](./39182-madden-nfl-mobile.json) |
