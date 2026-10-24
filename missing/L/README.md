@@ -2108,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Krilona | 180021 | [180021-legend-of-krilona.json](./180021-legend-of-krilona.json) |
 | Legend of Kunoichi | 59368 | [59368-legend-of-kunoichi.json](./59368-legend-of-kunoichi.json) |
 | Legend of Labot: The Golden Pearl | 173280 | [173280-legend-of-labot-the-golden-pearl.json](./173280-legend-of-labot-the-golden-pearl.json) |
+| Legend of Legaia | 13676 | [13676-legend-of-legaia.json](./13676-legend-of-legaia.json) |
 | Legend of Love | 290632 | [290632-legend-of-love.json](./290632-legend-of-love.json) |
 | Legend of Mana | 14986 | [14986-legend-of-mana.json](./14986-legend-of-mana.json) |
 | Legend of Maratha Warriors | 158702 | [158702-legend-of-maratha-warriors.json](./158702-legend-of-maratha-warriors.json) |
