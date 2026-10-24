@@ -2545,6 +2545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Stocks | 304446 | [304446-king-of-stocks.json](./304446-king-of-stocks.json) |
 | King of Sweets | 155958 | [155958-king-of-sweets.json](./155958-king-of-sweets.json) |
 | King of the Cabbage World | 386402 | [386402-king-of-the-cabbage-world.json](./386402-king-of-the-cabbage-world.json) |
+| King of the Castle | 219196 | [219196-king-of-the-castle.json](./219196-king-of-the-castle.json) |
 | King of the Castle | 42146 | [42146-king-of-the-castle.json](./42146-king-of-the-castle.json) |
 | King of the Chat | 339918 | [339918-king-of-the-chat.json](./339918-king-of-the-chat.json) |
 | King of the Course | 58307 | [58307-king-of-the-course.json](./58307-king-of-the-course.json) |
