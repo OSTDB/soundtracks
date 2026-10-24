@@ -2476,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inazuma Eleven 3: Bomb Blast | 47676 | [47676-inazuma-eleven-3-bomb-blast.json](./47676-inazuma-eleven-3-bomb-blast.json) |
 | Inazuma Eleven 3: Lightning Bolt | 47675 | [47675-inazuma-eleven-3-lightning-bolt.json](./47675-inazuma-eleven-3-lightning-bolt.json) |
 | Inazuma Eleven 3: Team Ogre Attacks! | 47674 | [47674-inazuma-eleven-3-team-ogre-attacks.json](./47674-inazuma-eleven-3-team-ogre-attacks.json) |
+| Inazuma Eleven Go Galaxy: Supernova | 134112 | [134112-inazuma-eleven-go-galaxy-supernova.json](./134112-inazuma-eleven-go-galaxy-supernova.json) |
 | Inazuma Eleven GO Strikers 2013 | 22686 | [22686-inazuma-eleven-go-strikers-2013.json](./22686-inazuma-eleven-go-strikers-2013.json) |
 | Inazuma Eleven GO: Chrono Stones - Thunderflash | 23220 | [23220-inazuma-eleven-go-chrono-stones-thunderflash.json](./23220-inazuma-eleven-go-chrono-stones-thunderflash.json) |
 | Inazuma Eleven GO: Chrono Stones - Wildfire | 9693 | [9693-inazuma-eleven-go-chrono-stones-wildfire.json](./9693-inazuma-eleven-go-chrono-stones-wildfire.json) |
