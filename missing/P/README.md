@@ -5321,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pill Puzzle 2 | 163549 | [163549-pill-puzzle-2.json](./163549-pill-puzzle-2.json) |
 | Pilla's Paradise | 255573 | [255573-pillas-paradise.json](./255573-pillas-paradise.json) |
 | Pillaged Village: Humbled by Savages | 315133 | [315133-pillaged-village-humbled-by-savages.json](./315133-pillaged-village-humbled-by-savages.json) |
+| Pillar | 35188 | [35188-pillar.json](./35188-pillar.json) |
 | Pillar Builder Puzzle | 214684 | [214684-pillar-builder-puzzle.json](./214684-pillar-builder-puzzle.json) |
 | Pillar of Gods | 337077 | [337077-pillar-of-gods.json](./337077-pillar-of-gods.json) |
 | Pillar of Salt | 361729 | [361729-pillar-of-salt.json](./361729-pillar-of-salt.json) |
@@ -6848,6 +6849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Skater | 190205 | [190205-pixel-skater.json](./190205-pixel-skater.json) |
 | Pixel Sniper | 402343 | [402343-pixel-sniper.json](./402343-pixel-sniper.json) |
 | Pixel Soccer | 35814 | [35814-pixel-soccer.json](./35814-pixel-soccer.json) |
+| Pixel Space | 35182 | [35182-pixel-space.json](./35182-pixel-space.json) |
 | Pixel Stars | 97224 | [97224-pixel-stars.json](./97224-pixel-stars.json) |
 | Pixel Stars Digital Dreamhouse | 245424 | [245424-pixel-stars-digital-dreamhouse.json](./245424-pixel-stars-digital-dreamhouse.json) |
 | Pixel Starships | 56258 | [56258-pixel-starships.json](./56258-pixel-starships.json) |
@@ -7870,6 +7872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playing God VR | 179923 | [179923-playing-god-vr.json](./179923-playing-god-vr.json) |
 | Playing History - The Plague | 34628 | [34628-playing-history-the-plague.json](./34628-playing-history-the-plague.json) |
 | Playing History 2 - Slave Trade | 12073 | [12073-playing-history-2-slave-trade.json](./12073-playing-history-2-slave-trade.json) |
+| Playing History 3 - Vikings | 35290 | [35290-playing-history-3-vikings.json](./35290-playing-history-3-vikings.json) |
 | Playing History: Vikings | 12074 | [12074-playing-history-vikings.json](./12074-playing-history-vikings.json) |
 | Playing House | 335262 | [335262-playing-house.json](./335262-playing-house.json) |
 | Playing Kafka | 297978 | [297978-playing-kafka.json](./297978-playing-kafka.json) |
@@ -11102,6 +11105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predator | 74422 | [74422-predator.json](./74422-predator.json) |
 | Predator 2 | 15346 | [15346-predator-2.json](./15346-predator-2.json) |
 | Predator and Wreck | 151805 | [151805-predator-and-wreck.json](./151805-predator-and-wreck.json) |
+| Predator Simulator | 35303 | [35303-predator-simulator.json](./35303-predator-simulator.json) |
 | Predator VR | 125674 | [125674-predator-vr.json](./125674-predator-vr.json) |
 | Predator: Hunting Grounds | 118272 | [118272-predator-hunting-grounds.json](./118272-predator-hunting-grounds.json) |
 | Predator: Hunting Grounds - City Hunter Predator | 168758 | [168758-predator-hunting-grounds-city-hunter-predator.json](./168758-predator-hunting-grounds-city-hunter-predator.json) |
@@ -12328,6 +12332,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Watts Word Search: Space Voyage | 103820 | [103820-professor-watts-word-search-space-voyage.json](./103820-professor-watts-word-search-space-voyage.json) |
 | Professor Watts Word Search: Yummy Foods | 103468 | [103468-professor-watts-word-search-yummy-foods.json](./103468-professor-watts-word-search-yummy-foods.json) |
 | Professor Watts: Memory Match | 50760 | [50760-professor-watts-memory-match.json](./50760-professor-watts-memory-match.json) |
+| Professor Why: Chemistry 1 | 35165 | [35165-professor-why-chemistry-1.json](./35165-professor-why-chemistry-1.json) |
+| Professor Why: The Quantum Eye | 35266 | [35266-professor-why-the-quantum-eye.json](./35266-professor-why-the-quantum-eye.json) |
 | Professor Wise and His X-Ray Eyes | 209907 | [209907-professor-wise-and-his-x-ray-eyes.json](./209907-professor-wise-and-his-x-ray-eyes.json) |
 | Professora Abelha Aprendendo Figuras Geométricas | 294437 | [294437-professora-abelha-aprendendo-figuras-geometricas.json](./294437-professora-abelha-aprendendo-figuras-geometricas.json) |
 | Profi Girls | 247959 | [247959-profi-girls.json](./247959-profi-girls.json) |
