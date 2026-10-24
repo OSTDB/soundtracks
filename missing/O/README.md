@@ -2778,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation CrossCounter | 94043 | [94043-operation-crosscounter.json](./94043-operation-crosscounter.json) |
 | Operation CrossCounter | 94755 | [94755-operation-crosscounter.json](./94755-operation-crosscounter.json) |
 | Operation Crusader | 51278 | [51278-operation-crusader.json](./51278-operation-crusader.json) |
+| Operation Darkness | 7125 | [7125-operation-darkness.json](./7125-operation-darkness.json) |
 | Operation Dartness | 378187 | [378187-operation-dartness.json](./378187-operation-dartness.json) |
 | Operation Deadbolt | 365744 | [365744-operation-deadbolt.json](./365744-operation-deadbolt.json) |
 | Operation Deep Magic: Cryptanalysis | 128258 | [128258-operation-deep-magic-cryptanalysis.json](./128258-operation-deep-magic-cryptanalysis.json) |
