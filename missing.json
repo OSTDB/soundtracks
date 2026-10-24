@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-24T08:48:18.696Z",
-  "total_missing": 255093,
+  "generated_at": "2026-10-24T08:57:17.885Z",
+  "total_missing": 255089,
   "games": [
     {
       "igdb_id": 191680,
@@ -28720,11 +28720,6 @@
       "igdb_id": 8130,
       "game_name": "Adventures in the Magic Kingdom",
       "file": "missing/A/8130-adventures-in-the-magic-kingdom.json"
-    },
-    {
-      "igdb_id": 342233,
-      "game_name": "Adventures In Time & Space",
-      "file": "missing/A/342233-adventures-in-time-and-space.json"
     },
     {
       "igdb_id": 134695,
@@ -91317,6 +91312,11 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
+    },
+    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -100765,11 +100765,6 @@
       "igdb_id": 236710,
       "game_name": "Baten Kaitos Origins",
       "file": "missing/B/236710-baten-kaitos-origins.json"
-    },
-    {
-      "igdb_id": 3796,
-      "game_name": "Baten Kaitos Origins",
-      "file": "missing/B/3796-baten-kaitos-origins.json"
     },
     {
       "igdb_id": 236709,
@@ -422162,11 +422157,6 @@
       "file": "missing/G/89838-gears-of-war-4-collectors-edition-outsider-variant.json"
     },
     {
-      "igdb_id": 305160,
-      "game_name": "Gears of War: E-Day",
-      "file": "missing/G/305160-gears-of-war-e-day.json"
-    },
-    {
       "igdb_id": 47450,
       "game_name": "Gears of War: Limited Collector's Edition",
       "file": "missing/G/47450-gears-of-war-limited-collectors-edition.json"
@@ -566255,6 +566245,11 @@
       "igdb_id": 325666,
       "game_name": "Kimi ga Nozomu Muv-Luv",
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
+    },
+    {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
     },
     {
       "igdb_id": 413833,
@@ -1102592,11 +1102587,6 @@
       "file": "missing/T/47955-the-naked-brothers-band-the-video-game.json"
     },
     {
-      "igdb_id": 408022,
-      "game_name": "The Name I Wear",
-      "file": "missing/T/408022-the-name-i-wear.json"
-    },
-    {
       "igdb_id": 178458,
       "game_name": "The Nameless",
       "file": "missing/T/178458-the-nameless.json"
@@ -1229352,11 +1229342,6 @@
       "file": "missing/W/282222-wheelborn.json"
     },
     {
-      "igdb_id": 406738,
-      "game_name": "Wheelchair for Two",
-      "file": "missing/W/406738-wheelchair-for-two.json"
-    },
-    {
       "igdb_id": 103157,
       "game_name": "Wheelchair Simulator",
       "file": "missing/W/103157-wheelchair-simulator.json"
@@ -1235510,11 +1235495,6 @@
       "igdb_id": 34657,
       "game_name": "Will: A Wonderful World",
       "file": "missing/W/34657-will-a-wonderful-world.json"
-    },
-    {
-      "igdb_id": 314421,
-      "game_name": "Will: Follow the Light",
-      "file": "missing/W/314421-will-follow-the-light.json"
     },
     {
       "igdb_id": 368050,
