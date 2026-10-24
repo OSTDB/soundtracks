@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waaaaaa: A Prehistoric Adventure With Aliens | 392230 | [392230-waaaaaa-a-prehistoric-adventure-with-aliens.json](./392230-waaaaaa-a-prehistoric-adventure-with-aliens.json) |
 | Waba | 104821 | [104821-waba.json](./104821-waba.json) |
 | Wabash Cannonball | 175415 | [175415-wabash-cannonball.json](./175415-wabash-cannonball.json) |
+| Wabbit | 40603 | [40603-wabbit.json](./40603-wabbit.json) |
 | Wabisabi | 127786 | [127786-wabisabi.json](./127786-wabisabi.json) |
 | Wacca | 122641 | [122641-wacca.json](./122641-wacca.json) |
 | Wacca Lily R | 154811 | [154811-wacca-lily-r.json](./154811-wacca-lily-r.json) |
@@ -3829,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Dies First? | 318856 | [318856-who-dies-first.json](./318856-who-dies-first.json) |
 | Who Dies Last? | 214169 | [214169-who-dies-last.json](./214169-who-dies-last.json) |
 | Who Do You Want to Date? Professional Girls Collection | 288902 | [288902-who-do-you-want-to-date-professional-girls-collection.json](./288902-who-do-you-want-to-date-professional-girls-collection.json) |
+| Who Dunit | 40552 | [40552-who-dunit.json](./40552-who-dunit.json) |
 | Who Framed Roger Rabbit | 72470 | [72470-who-framed-roger-rabbit.json](./72470-who-framed-roger-rabbit.json) |
 | Who Framed Roger Rabbit | 75692 | [75692-who-framed-roger-rabbit.json](./75692-who-framed-roger-rabbit.json) |
 | Who Has the Biggest Brain? | 182214 | [182214-who-has-the-biggest-brain.json](./182214-who-has-the-biggest-brain.json) |
@@ -4663,6 +4665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing of Misadventure | 116065 | [116065-wing-of-misadventure.json](./116065-wing-of-misadventure.json) |
 | Wing Over | 67674 | [67674-wing-over.json](./67674-wing-over.json) |
 | Wing Over 2 | 67667 | [67667-wing-over-2.json](./67667-wing-over-2.json) |
+| Wing Shooting Championship | 40550 | [40550-wing-shooting-championship.json](./40550-wing-shooting-championship.json) |
 | Wing War | 131192 | [131192-wing-war.json](./131192-wing-war.json) |
 | Wing War | 24014 | [24014-wing-war.json](./24014-wing-war.json) |
 | Wing Warriors | 218921 | [218921-wing-warriors.json](./218921-wing-warriors.json) |
@@ -5057,6 +5060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wisps: The Redeeming | 2961 | [2961-wisps-the-redeeming.json](./2961-wisps-the-redeeming.json) |
 | Wissen Heroes | 123501 | [123501-wissen-heroes.json](./123501-wissen-heroes.json) |
 | Wit and Dice | 284838 | [284838-wit-and-dice.json](./284838-wit-and-dice.json) |
+| Wit's | 40549 | [40549-wits.json](./40549-wits.json) |
 | Witanlore: Dreamtime | 27309 | [27309-witanlore-dreamtime.json](./27309-witanlore-dreamtime.json) |
 | Witch | 120153 | [120153-witch.json](./120153-witch.json) |
 | Witch | 299159 | [299159-witch.json](./299159-witch.json) |
@@ -5713,6 +5717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Knights VIP : Retro Shooter RPG | 97209 | [97209-wonder-knights-vip-retro-shooter-rpg.json](./97209-wonder-knights-vip-retro-shooter-rpg.json) |
 | Wonder Land | 216483 | [216483-wonder-land.json](./216483-wonder-land.json) |
 | Wonder Land | 231873 | [231873-wonder-land.json](./231873-wonder-land.json) |
+| Wonder League Star: Sok-Magicball Fighting | 40548 | [40548-wonder-league-star-sok-magicball-fighting.json](./40548-wonder-league-star-sok-magicball-fighting.json) |
 | Wonder Library | 377142 | [377142-wonder-library.json](./377142-wonder-library.json) |
 | Wonder Library | 45605 | [45605-wonder-library.json](./45605-wonder-library.json) |
 | Wonder Loop Village | 312548 | [312548-wonder-loop-village.json](./312548-wonder-loop-village.json) |
@@ -6346,6 +6351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Basketball Manager 2014 | 53113 | [53113-world-basketball-manager-2014.json](./53113-world-basketball-manager-2014.json) |
 | World Basketball Manager Tycoon | 9365 | [9365-world-basketball-manager-tycoon.json](./9365-world-basketball-manager-tycoon.json) |
 | World Basketball Tycoon | 52129 | [52129-world-basketball-tycoon.json](./52129-world-basketball-tycoon.json) |
+| World Beach Volley | 40547 | [40547-world-beach-volley.json](./40547-world-beach-volley.json) |
 | World Beast War | 138230 | [138230-world-beast-war.json](./138230-world-beast-war.json) |
 | World Boss | 189872 | [189872-world-boss.json](./189872-world-boss.json) |
 | World Bowling | 49005 | [49005-world-bowling.json](./49005-world-bowling.json) |
@@ -6462,6 +6468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Geography | 216177 | [216177-world-geography.json](./216177-world-geography.json) |
 | World Golf | 68674 | [68674-world-golf.json](./68674-world-golf.json) |
 | World Gone Sour | 6759 | [6759-world-gone-sour.json](./6759-world-gone-sour.json) |
+| World Grand Prix 2 | 40572 | [40572-world-grand-prix-2.json](./40572-world-grand-prix-2.json) |
 | World Grand Prix: Pole to Finish | 215132 | [215132-world-grand-prix-pole-to-finish.json](./215132-world-grand-prix-pole-to-finish.json) |
 | World Guesser | 259006 | [259006-world-guesser.json](./259006-world-guesser.json) |
 | World Heritage True or False Quiz | 378790 | [378790-world-heritage-true-or-false-quiz.json](./378790-world-heritage-true-or-false-quiz.json) |
@@ -6741,6 +6748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Racing 2 | 20559 | [20559-world-racing-2.json](./20559-world-racing-2.json) |
 | World Racing 2: Champion Edition | 231399 | [231399-world-racing-2-champion-edition.json](./231399-world-racing-2-champion-edition.json) |
 | World Rally | 46834 | [46834-world-rally.json](./46834-world-rally.json) |
+| World Rally 2 | 40571 | [40571-world-rally-2.json](./40571-world-rally-2.json) |
 | World Rally Arcade | 319276 | [319276-world-rally-arcade.json](./319276-world-rally-arcade.json) |
 | World Rally Championship | 8313 | [8313-world-rally-championship.json](./8313-world-rally-championship.json) |
 | World Reborn | 334447 | [334447-world-reborn.json](./334447-world-reborn.json) |
@@ -6765,6 +6773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series of Poker Hold'em Legend | 61028 | [61028-world-series-of-poker-holdem-legend.json](./61028-world-series-of-poker-holdem-legend.json) |
 | World Series of Poker: Deluxe Casino Pak | 398918 | [398918-world-series-of-poker-deluxe-casino-pak.json](./398918-world-series-of-poker-deluxe-casino-pak.json) |
 | World Series of Poker: Full House Pro | 19970 | [19970-world-series-of-poker-full-house-pro.json](./19970-world-series-of-poker-full-house-pro.json) |
+| World Series: The Season | 40570 | [40570-world-series-the-season.json](./40570-world-series-the-season.json) |
 | World Serpent | 211064 | [211064-world-serpent.json](./211064-world-serpent.json) |
 | World Snooker Challenge 2007 | 42848 | [42848-world-snooker-challenge-2007.json](./42848-world-snooker-challenge-2007.json) |
 | World Snooker Championship 2007 | 7248 | [7248-world-snooker-championship-2007.json](./7248-world-snooker-championship-2007.json) |
@@ -6790,6 +6799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Spin | 260044 | [260044-world-spin.json](./260044-world-spin.json) |
 | World Sports Competition | 37731 | [37731-world-sports-competition.json](./37731-world-sports-competition.json) |
 | World Sports Party | 66581 | [66581-world-sports-party.json](./66581-world-sports-party.json) |
+| World Stadium '90 | 40569 | [40569-world-stadium-90.json](./40569-world-stadium-90.json) |
 | World Strategy War | 388261 | [388261-world-strategy-war.json](./388261-world-strategy-war.json) |
 | World Subway Simulator | 89234 | [89234-world-subway-simulator.json](./89234-world-subway-simulator.json) |
 | World Sweeper | 415917 | [415917-world-sweeper.json](./415917-world-sweeper.json) |
