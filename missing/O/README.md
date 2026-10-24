@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O-Bot The Robot: Re-Botted | 418740 | [418740-o-bot-the-robot-re-botted.json](./418740-o-bot-the-robot-re-botted.json) |
 | O-Box: Ball Shooter | 47170 | [47170-o-box-ball-shooter.json](./47170-o-box-ball-shooter.json) |
 | O-chan no Oekaki Logic | 186657 | [186657-o-chan-no-oekaki-logic.json](./186657-o-chan-no-oekaki-logic.json) |
+| O-chan no Oekaki Logic | 37561 | [37561-o-chan-no-oekaki-logic.json](./37561-o-chan-no-oekaki-logic.json) |
 | O-chan no Oekaki Logic 2 | 58530 | [58530-o-chan-no-oekaki-logic-2.json](./58530-o-chan-no-oekaki-logic-2.json) |
 | O-o-o | 232404 | [232404-o-o-o.json](./232404-o-o-o.json) |
 | O-Sim 22 | 222281 | [222281-o-sim-22.json](./222281-o-sim-22.json) |
@@ -2015,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One person story | 105707 | [105707-one-person-story.json](./105707-one-person-story.json) |
 | One Piece 2: Pirate King | 59466 | [59466-one-piece-2-pirate-king.json](./59466-one-piece-2-pirate-king.json) |
 | One Piece Clicker | 212282 | [212282-one-piece-clicker.json](./212282-one-piece-clicker.json) |
+| One Piece Grand Battle: Swan Colosseum | 37556 | [37556-one-piece-grand-battle-swan-colosseum.json](./37556-one-piece-grand-battle-swan-colosseum.json) |
 | One Piece King Battle | 175763 | [175763-one-piece-king-battle.json](./175763-one-piece-king-battle.json) |
 | One Piece Kings | 62044 | [62044-one-piece-kings.json](./62044-one-piece-kings.json) |
 | One Piece Mansion | 37288 | [37288-one-piece-mansion.json](./37288-one-piece-mansion.json) |
