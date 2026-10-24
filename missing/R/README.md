@@ -2530,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of the Ghost King | 81699 | [81699-realm-of-the-ghost-king.json](./81699-realm-of-the-ghost-king.json) |
 | Realm of the hero | 156128 | [156128-realm-of-the-hero.json](./156128-realm-of-the-hero.json) |
 | Realm of The Lieutenant | 282621 | [282621-realm-of-the-lieutenant.json](./282621-realm-of-the-lieutenant.json) |
+| Realm of the Mad God | 8188 | [8188-realm-of-the-mad-god.json](./8188-realm-of-the-mad-god.json) |
 | Realm of the Mad God: Free Welcome Pack | 289006 | [289006-realm-of-the-mad-god-free-welcome-pack.json](./289006-realm-of-the-mad-god-free-welcome-pack.json) |
 | Realm of the Paladin: Deception's Plague | 171541 | [171541-realm-of-the-paladin-deceptions-plague.json](./171541-realm-of-the-paladin-deceptions-plague.json) |
 | Realm of the Titans | 91797 | [91797-realm-of-the-titans.json](./91797-realm-of-the-titans.json) |
