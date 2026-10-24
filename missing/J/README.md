@@ -2440,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judge Dredd | 198785 | [198785-judge-dredd.json](./198785-judge-dredd.json) |
 | Judge Dredd | 265036 | [265036-judge-dredd.json](./265036-judge-dredd.json) |
 | Judge Dredd | 265037 | [265037-judge-dredd.json](./265037-judge-dredd.json) |
+| Judge Dredd | 36742 | [36742-judge-dredd.json](./36742-judge-dredd.json) |
 | Judge Dredd | 4387 | [4387-judge-dredd.json](./4387-judge-dredd.json) |
 | Judge Dredd vs. Zombies | 63637 | [63637-judge-dredd-vs-zombies.json](./63637-judge-dredd-vs-zombies.json) |
 | Judge Dredd: Dredd Vs. Death | 3961 | [3961-judge-dredd-dredd-vs-death.json](./3961-judge-dredd-dredd-vs-death.json) |
