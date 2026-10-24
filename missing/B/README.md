@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5769,6 +5770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Tokyo | 157447 | [157447-beyond-tokyo.json](./157447-beyond-tokyo.json) |
 | Beyond Truth | 184372 | [184372-beyond-truth.json](./184372-beyond-truth.json) |
 | Beyond Up | 386297 | [386297-beyond-up.json](./386297-beyond-up.json) |
+| Beyond Words | 375690 | [375690-beyond-words.json](./375690-beyond-words.json) |
 | Beyond Yardwork Simulator | 397238 | [397238-beyond-yardwork-simulator.json](./397238-beyond-yardwork-simulator.json) |
 | Beyond Ynth HDX | 103880 | [103880-beyond-ynth-hdx.json](./103880-beyond-ynth-hdx.json) |
 | Beyond You! | 122707 | [122707-beyond-you.json](./122707-beyond-you.json) |
@@ -9033,6 +9035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood: Endless Pursuit | 319409 | [319409-blood-endless-pursuit.json](./319409-blood-endless-pursuit.json) |
 | Blood: One Unit Whole Blood | 36299 | [36299-blood-one-unit-whole-blood.json](./36299-blood-one-unit-whole-blood.json) |
 | Blood: Plasma Pak | 18500 | [18500-blood-plasma-pak.json](./18500-blood-plasma-pak.json) |
+| Blood: Refreshed Supply | 370701 | [370701-blood-refreshed-supply.json](./370701-blood-refreshed-supply.json) |
 | Blood: Refreshed Supply - Death Wish | 394316 | [394316-blood-refreshed-supply-death-wish.json](./394316-blood-refreshed-supply-death-wish.json) |
 | Blood: The Last Vampire - First Volume | 65028 | [65028-blood-the-last-vampire-first-volume.json](./65028-blood-the-last-vampire-first-volume.json) |
 | Blood: The Last Vampire - Last Volume | 65026 | [65026-blood-the-last-vampire-last-volume.json](./65026-blood-the-last-vampire-last-volume.json) |
@@ -9339,6 +9342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossom Tales 2: The Minotaur Prince | 172489 | [172489-blossom-tales-2-the-minotaur-prince.json](./172489-blossom-tales-2-the-minotaur-prince.json) |
 | Blossom Voyage | 403740 | [403740-blossom-voyage.json](./403740-blossom-voyage.json) |
 | Blossom: La Jirafa Saga | 186496 | [186496-blossom-la-jirafa-saga.json](./186496-blossom-la-jirafa-saga.json) |
+| Blossom: The Seed of Life | 370981 | [370981-blossom-the-seed-of-life.json](./370981-blossom-the-seed-of-life.json) |
 | Blossoming Yandere | 114115 | [114115-blossoming-yandere.json](./114115-blossoming-yandere.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
 | Blow & Fly | 189358 | [189358-blow-and-fly.json](./189358-blow-and-fly.json) |
