@@ -2707,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Forever | 19856 | [19856-batman-forever.json](./19856-batman-forever.json) |
 | Batman Forever | 20809 | [20809-batman-forever.json](./20809-batman-forever.json) |
 | Batman Forever | 77237 | [77237-batman-forever.json](./77237-batman-forever.json) |
+| Batman Forever | 77350 | [77350-batman-forever.json](./77350-batman-forever.json) |
 | Batman Forever | 7769 | [7769-batman-forever.json](./7769-batman-forever.json) |
 | Batman Forever: The Arcade Game | 45202 | [45202-batman-forever-the-arcade-game.json](./45202-batman-forever-the-arcade-game.json) |
 | Batman Returns | 121244 | [121244-batman-returns.json](./121244-batman-returns.json) |
@@ -2823,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battery Check | 242641 | [242641-battery-check.json](./242641-battery-check.json) |
 | Battery Farm | 364982 | [364982-battery-farm.json](./364982-battery-farm.json) |
 | Battery Hunter | 259623 | [259623-battery-hunter.json](./259623-battery-hunter.json) |
+| Battery Jam | 78159 | [78159-battery-jam.json](./78159-battery-jam.json) |
 | Battery Navi | 245248 | [245248-battery-navi.json](./245248-battery-navi.json) |
 | Battery Samurai | 245983 | [245983-battery-samurai.json](./245983-battery-samurai.json) |
 | Battery-out | 193403 | [193403-battery-out.json](./193403-battery-out.json) |
@@ -5903,6 +5905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bifusion | 292057 | [292057-bifusion.json](./292057-bifusion.json) |
 | Big 10 | 54993 | [54993-big-10.json](./54993-big-10.json) |
 | Big 4 Sports Trivia | 89050 | [89050-big-4-sports-trivia.json](./89050-big-4-sports-trivia.json) |
+| Big Action Mega Fight! | 35586 | [35586-big-action-mega-fight.json](./35586-big-action-mega-fight.json) |
 | Big Adventure | 330271 | [330271-big-adventure.json](./330271-big-adventure.json) |
 | Big Adventure 5-in-1 Bundle | 328559 | [328559-big-adventure-5-in-1-bundle.json](./328559-big-adventure-5-in-1-bundle.json) |
 | Big Adventure of Fighting Chicken | 163848 | [163848-big-adventure-of-fighting-chicken.json](./163848-big-adventure-of-fighting-chicken.json) |
@@ -11783,6 +11786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainache | 13432 | [13432-brainache.json](./13432-brainache.json) |
 | Brainbots | 335464 | [335464-brainbots.json](./335464-brainbots.json) |
 | BrainBread | 138773 | [138773-brainbread.json](./138773-brainbread.json) |
+| BrainBread 2 | 35823 | [35823-brainbread-2.json](./35823-brainbread-2.json) |
 | brainCloud Bombers | 120400 | [120400-braincloud-bombers.json](./120400-braincloud-bombers.json) |
 | Braindead | 345660 | [345660-braindead.json](./345660-braindead.json) |
 | Braindead, Your Majesty | 108827 | [108827-braindead-your-majesty.json](./108827-braindead-your-majesty.json) |
@@ -12687,6 +12691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridget Bishop | 400317 | [400317-bridget-bishop.json](./400317-bridget-bishop.json) |
 | BridgeTeam: Ship Simulator | 190981 | [190981-bridgeteam-ship-simulator.json](./190981-bridgeteam-ship-simulator.json) |
 | Brie Parmesan Mysteries | 244909 | [244909-brie-parmesan-mysteries.json](./244909-brie-parmesan-mysteries.json) |
+| Brief Battles | 77536 | [77536-brief-battles.json](./77536-brief-battles.json) |
 | Brief Karate Foolish | 30877 | [30877-brief-karate-foolish.json](./30877-brief-karate-foolish.json) |
 | Brig 12 | 105714 | [105714-brig-12.json](./105714-brig-12.json) |
 | Brigade Commander | 14349 | [14349-brigade-commander.json](./14349-brigade-commander.json) |
@@ -13436,6 +13441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Trouble | 83918 | [83918-bubble-trouble.json](./83918-bubble-trouble.json) |
 | Bubble Trubble | 42829 | [42829-bubble-trubble.json](./42829-bubble-trubble.json) |
 | Bubble Truck | 235228 | [235228-bubble-truck.json](./235228-bubble-truck.json) |
+| Bubble Witch 3 Saga | 78386 | [78386-bubble-witch-3-saga.json](./78386-bubble-witch-3-saga.json) |
 | Bubble With Djealy | 157966 | [157966-bubble-with-djealy.json](./157966-bubble-with-djealy.json) |
 | Bubble Wizard III Saga | 347318 | [347318-bubble-wizard-iii-saga.json](./347318-bubble-wizard-iii-saga.json) |
 | Bubble Wizard IV Saga | 357027 | [357027-bubble-wizard-iv-saga.json](./357027-bubble-wizard-iv-saga.json) |
