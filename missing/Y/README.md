@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You are cursed, Mr.Mayor! | 183801 | [183801-you-are-cursed-mr-mayor.json](./183801-you-are-cursed-mr-mayor.json) |
 | You Are Dead! | 323798 | [323798-you-are-dead.json](./323798-you-are-dead.json) |
 | You are Dough | 243643 | [243643-you-are-dough.json](./243643-you-are-dough.json) |
+| You Are Empty | 54651 | [54651-you-are-empty.json](./54651-you-are-empty.json) |
 | You Are Empty: Absolute Edition | 414126 | [414126-you-are-empty-absolute-edition.json](./414126-you-are-empty-absolute-edition.json) |
 | You Are Family | 418531 | [418531-you-are-family.json](./418531-you-are-family.json) |
 | You Are Grounded | 370191 | [370191-you-are-grounded.json](./370191-you-are-grounded.json) |
@@ -1400,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist - Kaiba Deck | 334708 | [334708-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-kaiba-deck.json](./334708-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-kaiba-deck.json) |
 | Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories | 56978 | [56978-yu-gi-oh-duel-monsters-ii-dark-duel-stories.json](./56978-yu-gi-oh-duel-monsters-ii-dark-duel-stories.json) |
 | Yu-Gi-Oh! Duel Monsters Saikyo Card Battle | 58652 | [58652-yu-gi-oh-duel-monsters-saikyo-card-battle.json](./58652-yu-gi-oh-duel-monsters-saikyo-card-battle.json) |
+| Yu-Gi-Oh! Dungeon Dice Monsters | 49211 | [49211-yu-gi-oh-dungeon-dice-monsters.json](./49211-yu-gi-oh-dungeon-dice-monsters.json) |
 | Yu-Gi-Oh! Early Days Collection | 309038 | [309038-yu-gi-oh-early-days-collection.json](./309038-yu-gi-oh-early-days-collection.json) |
 | Yu-Gi-Oh! Forbidden Memories | 4108 | [4108-yu-gi-oh-forbidden-memories.json](./4108-yu-gi-oh-forbidden-memories.json) |
 | Yu-Gi-Oh! Forbidden Memories II Ultimate | 308412 | [308412-yu-gi-oh-forbidden-memories-ii-ultimate.json](./308412-yu-gi-oh-forbidden-memories-ii-ultimate.json) |
@@ -1420,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Online: Duel Evolution | 78165 | [78165-yu-gi-oh-online-duel-evolution.json](./78165-yu-gi-oh-online-duel-evolution.json) |
 | Yu-Gi-Oh! Power of Chaos: Joey the Passion | 50833 | [50833-yu-gi-oh-power-of-chaos-joey-the-passion.json](./50833-yu-gi-oh-power-of-chaos-joey-the-passion.json) |
 | Yu-Gi-Oh! Power of Chaos: Yugi the Destiny | 50834 | [50834-yu-gi-oh-power-of-chaos-yugi-the-destiny.json](./50834-yu-gi-oh-power-of-chaos-yugi-the-destiny.json) |
+| Yu-Gi-Oh! Reshef of Destruction | 49379 | [49379-yu-gi-oh-reshef-of-destruction.json](./49379-yu-gi-oh-reshef-of-destruction.json) |
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale | 159242 | [159242-yu-gi-oh-rush-duel-dawn-of-the-battle-royale.json](./159242-yu-gi-oh-rush-duel-dawn-of-the-battle-royale.json) |
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale - Let's Go! Go Rush!! | 217963 | [217963-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush.json](./217963-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush.json) |
 | Yu-Gi-Oh! The Dawn of Destiny | 6257 | [6257-yu-gi-oh-the-dawn-of-destiny.json](./6257-yu-gi-oh-the-dawn-of-destiny.json) |
