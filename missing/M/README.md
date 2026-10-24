@@ -14886,6 +14886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Golf | 57050 | [57050-mr-golf.json](./57050-mr-golf.json) |
 | Mr. Gray and the Island Invasion | 177729 | [177729-mr-gray-and-the-island-invasion.json](./177729-mr-gray-and-the-island-invasion.json) |
 | Mr. Grin's Final Act | 382591 | [382591-mr-grins-final-act.json](./382591-mr-grins-final-act.json) |
+| Mr. Heli | 10446 | [10446-mr-heli.json](./10446-mr-heli.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
 | Mr. Hibbl: The Lost Levels | 262237 | [262237-mr-hibbl-the-lost-levels.json](./262237-mr-hibbl-the-lost-levels.json) |
 | Mr. Hoob! | 372695 | [372695-mr-hoob.json](./372695-mr-hoob.json) |
@@ -17578,6 +17579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Realm Dizzy | 181208 | [181208-mystic-realm-dizzy.json](./181208-mystic-realm-dizzy.json) |
 | Mystic Rest Stop | 327949 | [327949-mystic-rest-stop.json](./327949-mystic-rest-stop.json) |
 | Mystic Rhythms | 171292 | [171292-mystic-rhythms.json](./171292-mystic-rhythms.json) |
+| Mystic Riders | 10454 | [10454-mystic-riders.json](./10454-mystic-riders.json) |
 | Mystic Ruin: A New Dawn | 150619 | [150619-mystic-ruin-a-new-dawn.json](./150619-mystic-ruin-a-new-dawn.json) |
 | Mystic Ruins | 106432 | [106432-mystic-ruins.json](./106432-mystic-ruins.json) |
 | Mystic RUS-files | 117635 | [117635-mystic-rus-files.json](./117635-mystic-rus-files.json) |
