@@ -2686,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Survivor | 271641 | [271641-geometry-survivor.json](./271641-geometry-survivor.json) |
 | Geometry Survivor | 293012 | [293012-geometry-survivor.json](./293012-geometry-survivor.json) |
 | Geometry Tower | 304964 | [304964-geometry-tower.json](./304964-geometry-tower.json) |
+| Geometry Wars 3: Dimensions Evolved | 17573 | [17573-geometry-wars-3-dimensions-evolved.json](./17573-geometry-wars-3-dimensions-evolved.json) |
 | Geometry Wars Portable | 339691 | [339691-geometry-wars-portable.json](./339691-geometry-wars-portable.json) |
 | Geometry Wars: Retro Evolved | 15756 | [15756-geometry-wars-retro-evolved.json](./15756-geometry-wars-retro-evolved.json) |
 | Geometry Waves | 195565 | [195565-geometry-waves.json](./195565-geometry-waves.json) |
@@ -9132,6 +9133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GwenBlade Witcheresque | 389530 | [389530-gwenblade-witcheresque.json](./389530-gwenblade-witcheresque.json) |
 | Gwendolyn: Pursuit of a Princess | 25830 | [25830-gwendolyn-pursuit-of-a-princess.json](./25830-gwendolyn-pursuit-of-a-princess.json) |
 | Gwent: Crimson Curse | 115776 | [115776-gwent-crimson-curse.json](./115776-gwent-crimson-curse.json) |
+| Gwent: Iron Judgment | 122661 | [122661-gwent-iron-judgment.json](./122661-gwent-iron-judgment.json) |
 | Gwent: Rogue Mage | 208307 | [208307-gwent-rogue-mage.json](./208307-gwent-rogue-mage.json) |
 | Gwiryungdan: Joseon's Twelve | 291361 | [291361-gwiryungdan-joseons-twelve.json](./291361-gwiryungdan-joseons-twelve.json) |
 | Gwonchong Sonyeo Kiugi | 234637 | [234637-gwonchong-sonyeo-kiugi.json](./234637-gwonchong-sonyeo-kiugi.json) |
