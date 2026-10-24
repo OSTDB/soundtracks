@@ -999,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand Cooking Simulator: Multi-Chef | 326403 | [326403-hand-cooking-simulator-multi-chef.json](./326403-hand-cooking-simulator-multi-chef.json) |
 | Hand Craft Prime | 97211 | [97211-hand-craft-prime.json](./97211-hand-craft-prime.json) |
 | Hand Doctor For Kids | 106926 | [106926-hand-doctor-for-kids.json](./106926-hand-doctor-for-kids.json) |
+| Hand Eye Cubination | 30573 | [30573-hand-eye-cubination.json](./30573-hand-eye-cubination.json) |
 | Hand Held Boggle | 239337 | [239337-hand-held-boggle.json](./239337-hand-held-boggle.json) |
 | Hand Maid Mahjong 2 | 97823 | [97823-hand-maid-mahjong-2.json](./97823-hand-maid-mahjong-2.json) |
 | Hand Me A Lighter | 273816 | [273816-hand-me-a-lighter.json](./273816-hand-me-a-lighter.json) |
@@ -2739,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts in Sirence | 298972 | [298972-hearts-in-sirence.json](./298972-hearts-in-sirence.json) |
 | Hearts Like Clockwork | 184331 | [184331-hearts-like-clockwork.json](./184331-hearts-like-clockwork.json) |
 | Hearts Lite | 91330 | [91330-hearts-lite.json](./91330-hearts-lite.json) |
+| Hearts of Chaos | 30492 | [30492-hearts-of-chaos.json](./30492-hearts-of-chaos.json) |
 | Hearts of Demons: Baron | 196029 | [196029-hearts-of-demons-baron.json](./196029-hearts-of-demons-baron.json) |
 | Hearts of Iron 2 Complete | 27833 | [27833-hearts-of-iron-2-complete.json](./27833-hearts-of-iron-2-complete.json) |
 | Hearts of Iron Anthology | 72283 | [72283-hearts-of-iron-anthology.json](./72283-hearts-of-iron-anthology.json) |
@@ -2915,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Hand: Pixel Tree Forest Fury - Deluxe Edition | 317254 | [317254-heavy-hand-pixel-tree-forest-fury-deluxe-edition.json](./317254-heavy-hand-pixel-tree-forest-fury-deluxe-edition.json) |
 | Heavy Hearts | 219825 | [219825-heavy-hearts.json](./219825-heavy-hearts.json) |
 | Heavy Hogur | 54079 | [54079-heavy-hogur.json](./54079-heavy-hogur.json) |
+| Heavy Impact | 30485 | [30485-heavy-impact.json](./30485-heavy-impact.json) |
 | Heavy Industries | 176199 | [176199-heavy-industries.json](./176199-heavy-industries.json) |
 | Heavy Machinery vs. Shumai | 409528 | [409528-heavy-machinery-vs-shumai.json](./409528-heavy-machinery-vs-shumai.json) |
 | Heavy Machines & Construction | 266261 | [266261-heavy-machines-and-construction.json](./266261-heavy-machines-and-construction.json) |
@@ -8471,6 +8474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Springs | 311567 | [311567-hot-springs.json](./311567-hot-springs.json) |
 | Hot Springs Story 2 | 180274 | [180274-hot-springs-story-2.json](./180274-hot-springs-story-2.json) |
 | Hot Sprint Trip With A Married Woman | 97506 | [97506-hot-sprint-trip-with-a-married-woman.json](./97506-hot-sprint-trip-with-a-married-woman.json) |
+| Hot Squat | 30574 | [30574-hot-squat.json](./30574-hot-squat.json) |
 | Hot Steam | 231300 | [231300-hot-steam.json](./231300-hot-steam.json) |
 | Hot Tentacles Shooter | 197528 | [197528-hot-tentacles-shooter.json](./197528-hot-tentacles-shooter.json) |
 | Hot Therapy | 243557 | [243557-hot-therapy.json](./243557-hot-therapy.json) |
