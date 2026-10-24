@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield | 95360 | [95360-garfield.json](./95360-garfield.json) |
 | Garfield 2 | 43528 | [43528-garfield-2.json](./43528-garfield-2.json) |
 | Garfield 2: Royal Adventure | 309657 | [309657-garfield-2-royal-adventure.json](./309657-garfield-2-royal-adventure.json) |
+| Garfield and His Nine Lives | 6417 | [6417-garfield-and-his-nine-lives.json](./6417-garfield-and-his-nine-lives.json) |
 | Garfield Collection 2 in 1 | 340739 | [340739-garfield-collection-2-in-1.json](./340739-garfield-collection-2-in-1.json) |
 | Garfield Double Dares | 306764 | [306764-garfield-double-dares.json](./306764-garfield-double-dares.json) |
 | Garfield Gets Real | 234567 | [234567-garfield-gets-real.json](./234567-garfield-gets-real.json) |
@@ -1620,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield: Saving Arlene | 43445 | [43445-garfield-saving-arlene.json](./43445-garfield-saving-arlene.json) |
 | Garfield: Survival of the Fattest | 108796 | [108796-garfield-survival-of-the-fattest.json](./108796-garfield-survival-of-the-fattest.json) |
 | Garfield: The Lost Levels | 234570 | [234570-garfield-the-lost-levels.json](./234570-garfield-the-lost-levels.json) |
+| Garfield: The Search for Pooky | 6416 | [6416-garfield-the-search-for-pooky.json](./6416-garfield-the-search-for-pooky.json) |
 | Garfield: Winter's Tail | 12112 | [12112-garfield-winters-tail.json](./12112-garfield-winters-tail.json) |
 | Garfield's Defense 2: The Food Invaders Strike Back | 63862 | [63862-garfields-defense-2-the-food-invaders-strike-back.json](./63862-garfields-defense-2-the-food-invaders-strike-back.json) |
 | Garfield's Defense: Attack of the Food Invaders | 63864 | [63864-garfields-defense-attack-of-the-food-invaders.json](./63864-garfields-defense-attack-of-the-food-invaders.json) |
@@ -2071,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekiatsu!! Pachige Tamashii Max Evangelion 7 x Seimei no Kodou | 249698 | [249698-gekiatsu-pachige-tamashii-max-evangelion-7-x-seimei-no-kodou.json](./249698-gekiatsu-pachige-tamashii-max-evangelion-7-x-seimei-no-kodou.json) |
 | Gekibo: Gekisha Boy | 43199 | [43199-gekibo-gekisha-boy.json](./43199-gekibo-gekisha-boy.json) |
 | Gekiden Youitan: Ep.1 | 83244 | [83244-gekiden-youitan-ep-1.json](./83244-gekiden-youitan-ep-1.json) |
+| Gekido Advance: Kintaro's Revenge | 6418 | [6418-gekido-advance-kintaros-revenge.json](./6418-gekido-advance-kintaros-revenge.json) |
 | Gekifu Bakegyamon: Ayakashi Fighting | 61346 | [61346-gekifu-bakegyamon-ayakashi-fighting.json](./61346-gekifu-bakegyamon-ayakashi-fighting.json) |
 | Gekihaden | 259417 | [259417-gekihaden.json](./259417-gekihaden.json) |
 | Gekiretsu Pachinkazu | 247347 | [247347-gekiretsu-pachinkazu.json](./247347-gekiretsu-pachinkazu.json) |
@@ -7982,6 +7985,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gst Wars | 360711 | [360711-gst-wars.json](./360711-gst-wars.json) |
 | GT 24 | 210726 | [210726-gt-24.json](./210726-gt-24.json) |
 | GT 64: Championship Edition | 3375 | [3375-gt-64-championship-edition.json](./3375-gt-64-championship-edition.json) |
+| GT Advance 2: Rally Racing | 6425 | [6425-gt-advance-2-rally-racing.json](./6425-gt-advance-2-rally-racing.json) |
+| GT Advance 3: Pro Concept Racing | 6426 | [6426-gt-advance-3-pro-concept-racing.json](./6426-gt-advance-3-pro-concept-racing.json) |
 | GT and the Evil Factory | 141611 | [141611-gt-and-the-evil-factory.json](./141611-gt-and-the-evil-factory.json) |
 | GT and the Evil Factory | 295856 | [295856-gt-and-the-evil-factory.json](./295856-gt-and-the-evil-factory.json) |
 | GT Cube | 3938 | [3938-gt-cube.json](./3938-gt-cube.json) |
