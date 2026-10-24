@@ -1966,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HassleHeart | 35732 | [35732-hassleheart.json](./35732-hassleheart.json) |
 | Haste | 167266 | [167266-haste.json](./167266-haste.json) |
 | Haste | 221845 | [221845-haste.json](./221845-haste.json) |
+| Haste | 228918 | [228918-haste.json](./228918-haste.json) |
 | Hastilude | 33127 | [33127-hastilude.json](./33127-hastilude.json) |
 | Hasty Snow | 117704 | [117704-hasty-snow.json](./117704-hasty-snow.json) |
 | Hat Hunters | 103428 | [103428-hat-hunters.json](./103428-hat-hunters.json) |
