@@ -2086,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Turbo's Arcade: Night Slashers | 111915 | [111915-johnny-turbos-arcade-night-slashers.json](./111915-johnny-turbos-arcade-night-slashers.json) |
 | Johnny Turbo's Arcade: Shoot Out | 105889 | [105889-johnny-turbos-arcade-shoot-out.json](./105889-johnny-turbos-arcade-shoot-out.json) |
 | Johnny Turbo's Arcade: Sly Spy | 100310 | [100310-johnny-turbos-arcade-sly-spy.json](./100310-johnny-turbos-arcade-sly-spy.json) |
+| Johnny Turbo's Arcade: Super Burger Time | 102307 | [102307-johnny-turbos-arcade-super-burger-time.json](./102307-johnny-turbos-arcade-super-burger-time.json) |
 | Johnny Turbo's Arcade: Super Real Darwin | 146861 | [146861-johnny-turbos-arcade-super-real-darwin.json](./146861-johnny-turbos-arcade-super-real-darwin.json) |
 | Johnny Turbo's Arcade: Two Crude Dudes | 104710 | [104710-johnny-turbos-arcade-two-crude-dudes.json](./104710-johnny-turbos-arcade-two-crude-dudes.json) |
 | Johnny Upgrade | 286642 | [286642-johnny-upgrade.json](./286642-johnny-upgrade.json) |
