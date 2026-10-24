@@ -4235,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Breaker: Battle Grounds | 11324 | [11324-phantom-breaker-battle-grounds.json](./11324-phantom-breaker-battle-grounds.json) |
 | Phantom Breaker: Battle Grounds Mobile | 363670 | [363670-phantom-breaker-battle-grounds-mobile.json](./363670-phantom-breaker-battle-grounds-mobile.json) |
 | Phantom Breaker: Battle Grounds Ultimate | 319268 | [319268-phantom-breaker-battle-grounds-ultimate.json](./319268-phantom-breaker-battle-grounds-ultimate.json) |
+| Phantom Breaker: Extra | 43038 | [43038-phantom-breaker-extra.json](./43038-phantom-breaker-extra.json) |
 | Phantom Brigade | 69488 | [69488-phantom-brigade.json](./69488-phantom-brigade.json) |
 | Phantom Cell | 265310 | [265310-phantom-cell.json](./265310-phantom-cell.json) |
 | Phantom City | 317826 | [317826-phantom-city.json](./317826-phantom-city.json) |
