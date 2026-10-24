@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OceanCraft | 156955 | [156955-oceancraft.json](./156955-oceancraft.json) |
 | OceanDive | 94369 | [94369-oceandive.json](./94369-oceandive.json) |
 | Oceanhorn | 22117 | [22117-oceanhorn.json](./22117-oceanhorn.json) |
+| Oceanhorn 2: Knights of the Lost Realm | 22800 | [22800-oceanhorn-2-knights-of-the-lost-realm.json](./22800-oceanhorn-2-knights-of-the-lost-realm.json) |
 | Oceanhorn 3: Legend of the Shadow Sea | 391260 | [391260-oceanhorn-3-legend-of-the-shadow-sea.json](./391260-oceanhorn-3-legend-of-the-shadow-sea.json) |
 | Oceanhorn: Chronos Dungeon | 142346 | [142346-oceanhorn-chronos-dungeon.json](./142346-oceanhorn-chronos-dungeon.json) |
 | Oceanhorn: Monster of Uncharted Seas | 18975 | [18975-oceanhorn-monster-of-uncharted-seas.json](./18975-oceanhorn-monster-of-uncharted-seas.json) |
