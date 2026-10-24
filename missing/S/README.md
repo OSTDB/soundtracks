@@ -12199,6 +12199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Seekers | 253609 | [253609-sneaky-seekers.json](./253609-sneaky-seekers.json) |
 | Sneaky Snake | 124560 | [124560-sneaky-snake.json](./124560-sneaky-snake.json) |
 | Sneaky Snakes | 49025 | [49025-sneaky-snakes.json](./49025-sneaky-snakes.json) |
+| Sneaky Sneaky | 14553 | [14553-sneaky-sneaky.json](./14553-sneaky-sneaky.json) |
 | Sneaky Squad | 419179 | [419179-sneaky-squad.json](./419179-sneaky-squad.json) |
 | Sneaky Stealy | 176359 | [176359-sneaky-stealy.json](./176359-sneaky-stealy.json) |
 | Sneezeman | 189099 | [189099-sneezeman.json](./189099-sneezeman.json) |
@@ -12889,6 +12890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccering | 115041 | [115041-soccering.json](./115041-soccering.json) |
 | Soccertron | 11132 | [11132-soccertron.json](./11132-soccertron.json) |
 | Soccerverse | 224165 | [224165-soccerverse.json](./224165-soccerverse.json) |
+| Sociable Soccer | 14713 | [14713-sociable-soccer.json](./14713-sociable-soccer.json) |
 | Social City | 65947 | [65947-social-city.json](./65947-social-city.json) |
 | Social Club VR : Casino Nights | 130746 | [130746-social-club-vr-casino-nights.json](./130746-social-club-vr-casino-nights.json) |
 | Social Credit Simulator | 226344 | [226344-social-credit-simulator.json](./226344-social-credit-simulator.json) |
@@ -17320,6 +17322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpelunKing: The Mine Match | 132545 | [132545-spelunking-the-mine-match.json](./132545-spelunking-the-mine-match.json) |
 | Spelunky 2 | 75239 | [75239-spelunky-2.json](./75239-spelunky-2.json) |
 | Spelunky64 | 316126 | [316126-spelunky64.json](./316126-spelunky64.json) |
+| Spelunx and the Caves of Mr. Seudo | 15067 | [15067-spelunx-and-the-caves-of-mr-seudo.json](./15067-spelunx-and-the-caves-of-mr-seudo.json) |
 | Spencer | 90124 | [90124-spencer.json](./90124-spencer.json) |
 | Spend Bill Gates' Money | 409850 | [409850-spend-bill-gates-money.json](./409850-spend-bill-gates-money.json) |
 | Spend the Night with Kitty | 288122 | [288122-spend-the-night-with-kitty.json](./288122-spend-the-night-with-kitty.json) |
@@ -28193,6 +28196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwapTales: Leon! | 116439 | [116439-swaptales-leon.json](./116439-swaptales-leon.json) |
 | SwapTiles | 100664 | [100664-swaptiles.json](./100664-swaptiles.json) |
 | Swapwood Quest R | 384253 | [384253-swapwood-quest-r.json](./384253-swapwood-quest-r.json) |
+| Swarm | 13766 | [13766-swarm.json](./13766-swarm.json) |
 | Swarm | 19138 | [19138-swarm.json](./19138-swarm.json) |
 | Swarm 2 | 280060 | [280060-swarm-2.json](./280060-swarm-2.json) |
 | Swarm Assault | 63166 | [63166-swarm-assault.json](./63166-swarm-assault.json) |
