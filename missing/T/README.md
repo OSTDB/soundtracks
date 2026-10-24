@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Craft Online | 34125 | [34125-tactical-craft-online.json](./34125-tactical-craft-online.json) |
 | Tactical Dual Pack: Necromunda - Underhive Wars & Space Hulk: Tactics | 223872 | [223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json](./223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json) |
 | Tactical Fighter | 56947 | [56947-tactical-fighter.json](./56947-tactical-fighter.json) |
+| Tactical Genius | 35067 | [35067-tactical-genius.json](./35067-tactical-genius.json) |
 | Tactical Intervention | 5566 | [5566-tactical-intervention.json](./5566-tactical-intervention.json) |
 | Tactical Manager | 182375 | [182375-tactical-manager.json](./182375-tactical-manager.json) |
 | Tactical Manager | 86220 | [86220-tactical-manager.json](./86220-tactical-manager.json) |
@@ -6870,6 +6871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doll's Window | 216672 | [216672-the-dolls-window.json](./216672-the-dolls-window.json) |
 | The Dollar Game | 108216 | [108216-the-dollar-game.json](./108216-the-dollar-game.json) |
 | The Dollmaker | 272919 | [272919-the-dollmaker.json](./272919-the-dollmaker.json) |
+| The Dolls | 32636 | [32636-the-dolls.json](./32636-the-dolls.json) |
 | The Dolphin's Pearl | 73630 | [73630-the-dolphins-pearl.json](./73630-the-dolphins-pearl.json) |
 | The Don't Do List | 398264 | [398264-the-dont-do-list.json](./398264-the-dont-do-list.json) |
 | The Donald Trump Simulator | 144237 | [144237-the-donald-trump-simulator.json](./144237-the-donald-trump-simulator.json) |
@@ -16865,6 +16867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Spirits | 46662 | [46662-thunder-spirits.json](./46662-thunder-spirits.json) |
 | Thunder Storm LX-3 & Road Blaster | 55870 | [55870-thunder-storm-lx-3-and-road-blaster.json](./55870-thunder-storm-lx-3-and-road-blaster.json) |
 | Thunder Striker | 187478 | [187478-thunder-striker.json](./187478-thunder-striker.json) |
+| Thunder Tier One | 35073 | [35073-thunder-tier-one.json](./35073-thunder-tier-one.json) |
 | Thunder Tiger | 334128 | [334128-thunder-tiger.json](./334128-thunder-tiger.json) |
 | Thunder Truck Rally | 20131 | [20131-thunder-truck-rally.json](./20131-thunder-truck-rally.json) |
 | Thunder Trucks: Heavy Racers | 409508 | [409508-thunder-trucks-heavy-racers.json](./409508-thunder-trucks-heavy-racers.json) |
