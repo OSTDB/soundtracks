@@ -743,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Combat Evolved VR | 324563 | [324563-halo-combat-evolved-vr.json](./324563-halo-combat-evolved-vr.json) |
 | Halo: Custom Edition | 243116 | [243116-halo-custom-edition.json](./243116-halo-custom-edition.json) |
 | Halo: Doom Evolved | 401297 | [401297-halo-doom-evolved.json](./401297-halo-doom-evolved.json) |
+| Halo: Fireteam Raven | 102066 | [102066-halo-fireteam-raven.json](./102066-halo-fireteam-raven.json) |
 | Halo: GoldSource | 352185 | [352185-halo-goldsource.json](./352185-halo-goldsource.json) |
 | Halo: New Covenant | 332316 | [332316-halo-new-covenant.json](./332316-halo-new-covenant.json) |
 | Halo: Operation - Solar Flare | 351087 | [351087-halo-operation-solar-flare.json](./351087-halo-operation-solar-flare.json) |
@@ -4268,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Pussy 4 | 214188 | [214188-hentai-pussy-4.json](./214188-hentai-pussy-4.json) |
 | Hentai Pussy 5 | 236183 | [236183-hentai-pussy-5.json](./236183-hentai-pussy-5.json) |
 | Hentai Pussy 6 | 238588 | [238588-hentai-pussy-6.json](./238588-hentai-pussy-6.json) |
+| Hentai Puzzle | 100599 | [100599-hentai-puzzle.json](./100599-hentai-puzzle.json) |
 | Hentai Puzzle Classic | 111481 | [111481-hentai-puzzle-classic.json](./111481-hentai-puzzle-classic.json) |
 | Hentai Puzzle Lamunation | 134620 | [134620-hentai-puzzle-lamunation.json](./134620-hentai-puzzle-lamunation.json) |
 | Hentai Puzzle Logic Game | 110379 | [110379-hentai-puzzle-logic-game.json](./110379-hentai-puzzle-logic-game.json) |
@@ -7608,6 +7610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hommage 25 | 269560 | [269560-hommage-25.json](./269560-hommage-25.json) |
 | Homo Evolution | 180572 | [180572-homo-evolution.json](./180572-homo-evolution.json) |
 | Homo Flimsy | 103433 | [103433-homo-flimsy.json](./103433-homo-flimsy.json) |
+| Homo Machina | 101468 | [101468-homo-machina.json](./101468-homo-machina.json) |
 | Homunculus | 255669 | [255669-homunculus.json](./255669-homunculus.json) |
 | Homunculus | 319807 | [319807-homunculus.json](./319807-homunculus.json) |
 | Homunculus Hotel | 192268 | [192268-homunculus-hotel.json](./192268-homunculus-hotel.json) |
