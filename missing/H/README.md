@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2: VR Mod - Episode Two | 243119 | [243119-half-life-2-vr-mod-episode-two.json](./243119-half-life-2-vr-mod-episode-two.json) |
 | Half-Life 3 | 28029 | [28029-half-life-3.json](./28029-half-life-3.json) |
 | Half-Life Alyx NoVR | 255791 | [255791-half-life-alyx-novr.json](./255791-half-life-alyx-novr.json) |
+| Half-Life Deathmatch: Source | 19348 | [19348-half-life-deathmatch-source.json](./19348-half-life-deathmatch-source.json) |
 | Half-Life Decay: Solo Mission | 196081 | [196081-half-life-decay-solo-mission.json](./196081-half-life-decay-solo-mission.json) |
 | Half-Life FX: Single | 323781 | [323781-half-life-fx-single.json](./323781-half-life-fx-single.json) |
 | Half-Life Legacy | 381342 | [381342-half-life-legacy.json](./381342-half-life-legacy.json) |
@@ -1509,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Relay Mario | 219117 | [219117-hard-relay-mario.json](./219117-hard-relay-mario.json) |
 | Hard Reset | 532 | [532-hard-reset.json](./532-hard-reset.json) |
 | Hard Reset: Extended Edition - Exile | 171405 | [171405-hard-reset-extended-edition-exile.json](./171405-hard-reset-extended-edition-exile.json) |
+| Hard Reset: Redux | 17994 | [17994-hard-reset-redux.json](./17994-hard-reset-redux.json) |
 | Hard Rock Casino | 21386 | [21386-hard-rock-casino.json](./21386-hard-rock-casino.json) |
 | Hard Rock Dice Party | 228298 | [228298-hard-rock-dice-party.json](./228298-hard-rock-dice-party.json) |
 | Hard Rock Pinball | 133434 | [133434-hard-rock-pinball.json](./133434-hard-rock-pinball.json) |
