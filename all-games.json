@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-24T08:30:52.354Z",
-  "total_soundtracks": 2533,
+  "generated_at": "2026-10-24T08:37:28.407Z",
+  "total_soundtracks": 2544,
   "games": [
     {
       "igdb_id": 7522,
@@ -3885,6 +3885,20 @@
         {
           "album_name": "Breach & Clear (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7udJhnuICIjPpQFuKMiaEc",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 204524,
+      "game_name": "Bread & Fred",
+      "game_url": "https://ostdb.net/games/bread-and-fred",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730f44235e5db2ce8b98375bb2",
+      "albums": [
+        {
+          "album_name": "Bread & Fred (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4irHZA3NlUHdwCKsK4FUIu",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -13779,6 +13793,20 @@
       ]
     },
     {
+      "igdb_id": 220535,
+      "game_name": "Just a To the Moon Series Beach Episode",
+      "game_url": "https://ostdb.net/games/just-a-to-the-moon-series-beach-episode",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d792582d2c0c4527614855cc",
+      "albums": [
+        {
+          "album_name": "Just a To the Moon Series Beach Episode OST",
+          "spotify_url": "https://open.spotify.com/album/4dPoIhs4uuj6nisSFGqpwy",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 28015,
       "game_name": "Kamiko",
       "game_url": "https://ostdb.net/games/kamiko",
@@ -15377,6 +15405,20 @@
         {
           "album_name": "Lunacid (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1xB4jG5LrAmXZVR4Bc2FLI",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 165287,
+      "game_name": "Lunistice",
+      "game_url": "https://ostdb.net/games/lunistice",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273080dc4f8f89e36198ee615fc",
+      "albums": [
+        {
+          "album_name": "Lunistice (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5dE3Q95MZnVi8JV8mLelbs",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -17879,6 +17921,20 @@
       ]
     },
     {
+      "igdb_id": 248142,
+      "game_name": "Need for Speed: Undercover",
+      "game_url": "https://ostdb.net/games/need-for-speed-undercover",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cd59c9f067b296fc69e65b73",
+      "albums": [
+        {
+          "album_name": "Need for Speed: Undercover (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/64YpBQd84gpKlQwt19I9GY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 96,
       "game_name": "Need for Speed: Underground",
       "game_url": "https://ostdb.net/games/need-for-speed-underground",
@@ -17888,6 +17944,20 @@
           "album_name": "Need for Speed: Underground (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1Q2lxZxlCweUaM29KGN9oc",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 242990,
+      "game_name": "Need for Speed: Underground",
+      "game_url": "https://ostdb.net/games/need-for-speed-underground",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a0dee0d149e8df588a72a345",
+      "albums": [
+        {
+          "album_name": "Need for Speed: Underground (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1Q2lxZxlCweUaM29KGN9oc",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -21153,6 +21223,20 @@
       ]
     },
     {
+      "igdb_id": 207796,
+      "game_name": "Resonance of the Ocean",
+      "game_url": "https://ostdb.net/games/resonance-of-the-ocean",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27328cd4c23f5ac97f111a90c60",
+      "albums": [
+        {
+          "album_name": "Resonance of the Ocean Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/76LVoeSYViAwGaWphxc8Fl",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 348168,
       "game_name": "Resonance: A Plague Tale Legacy",
       "game_url": "https://ostdb.net/games/resonance-a-plague-tale-legacy",
@@ -21988,6 +22072,20 @@
           "album_name": "Samson (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7vmGJV1hPgmhZftFn5qiMg",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 252846,
+      "game_name": "Sand: Raiders Of Sophie",
+      "game_url": "https://ostdb.net/games/sand-raiders-of-sophie",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736d5a413e2a3a3861f4575eb2",
+      "albums": [
+        {
+          "album_name": "Sand: Raiders of Sophie (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4zccjTtxUyY0ZdL73xoaFO",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -27535,6 +27633,20 @@
       ]
     },
     {
+      "igdb_id": 192906,
+      "game_name": "The Sims 2",
+      "game_url": "https://ostdb.net/games/the-sims-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e360fbb82e572bb9c59e1b46",
+      "albums": [
+        {
+          "album_name": "The Sims 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5y3IHg8hVlbfbFgIUWtCeL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 260,
       "game_name": "The Sims 3",
       "game_url": "https://ostdb.net/games/the-sims-3",
@@ -27766,6 +27878,20 @@
     },
     {
       "igdb_id": 2158,
+      "game_name": "The Urbz: Sims in the City",
+      "game_url": "https://ostdb.net/games/the-urbz-sims-in-the-city",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273094413ee0fc6ffbdea34d647",
+      "albums": [
+        {
+          "album_name": "The Urbz: Sims in the City (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4tjcTRQbo3ZO1Jpv8S4yDx",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 144555,
       "game_name": "The Urbz: Sims in the City",
       "game_url": "https://ostdb.net/games/the-urbz-sims-in-the-city",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b273094413ee0fc6ffbdea34d647",
@@ -30235,6 +30361,20 @@
       ]
     },
     {
+      "igdb_id": 146438,
+      "game_name": "Warpips",
+      "game_url": "https://ostdb.net/games/warpips",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d3f976a109057605a933c98d",
+      "albums": [
+        {
+          "album_name": "Warpips (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2s8gF0mQgiYwOE5radYLR4",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3101,
       "game_name": "Wasteland 2",
       "game_url": "https://ostdb.net/games/wasteland-2",
@@ -30333,6 +30473,20 @@
         {
           "album_name": "WaveTale (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6dXPJXdeFVqWyAmgrqTTGv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 198388,
+      "game_name": "Way of the Hunter",
+      "game_url": "https://ostdb.net/games/way-of-the-hunter",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734bda533f0bb9b474ef8ef6e9",
+      "albums": [
+        {
+          "album_name": "Way of the Hunter (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6Uu6d76gsPIV3WRHCCOGP5",
           "apple_music_url": "",
           "album_link_url": ""
         }
