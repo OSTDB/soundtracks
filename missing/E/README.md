@@ -1118,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eerie Worlds | 351704 | [351704-eerie-worlds.json](./351704-eerie-worlds.json) |
 | Eerskraft | 220058 | [220058-eerskraft.json](./220058-eerskraft.json) |
 | Eets Munchies | 15312 | [15312-eets-munchies.json](./15312-eets-munchies.json) |
+| Eets: Hunger. It's emotional. | 28960 | [28960-eets-hunger-its-emotional.json](./28960-eets-hunger-its-emotional.json) |
 | Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
 | Eexy Life: East End X Yuri | 252198 | [252198-eexy-life-east-end-x-yuri.json](./252198-eexy-life-east-end-x-yuri.json) |
 | EF Defense | 233408 | [233408-ef-defense.json](./233408-ef-defense.json) |
