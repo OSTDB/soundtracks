@@ -7249,6 +7249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GreySky&StarNavigator | 373689 | [373689-greysky-and-starnavigator.json](./373689-greysky-and-starnavigator.json) |
 | Greystone | 92926 | [92926-greystone.json](./92926-greystone.json) |
 | Greystorm | 73557 | [73557-greystorm.json](./73557-greystorm.json) |
+| Gribbly's Day Out | 28474 | [28474-gribblys-day-out.json](./28474-gribblys-day-out.json) |
 | Grid | 118871 | [118871-grid.json](./118871-grid.json) |
 | Grid | 327878 | [327878-grid.json](./327878-grid.json) |
 | Grid | 390054 | [390054-grid.json](./390054-grid.json) |
@@ -7831,6 +7832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grove: Nostalgia's End | 192952 | [192952-grove-nostalgias-end.json](./192952-grove-nostalgias-end.json) |
 | Groven | 199350 | [199350-groven.json](./199350-groven.json) |
 | Grover's Travels | 333206 | [333206-grovers-travels.json](./333206-grovers-travels.json) |
+| Grow | 28503 | [28503-grow.json](./28503-grow.json) |
 | Grow & Go: Cozy Deliveries | 414406 | [414406-grow-and-go-cozy-deliveries.json](./414406-grow-and-go-cozy-deliveries.json) |
 | Grow a Girlfriend | 353394 | [353394-grow-a-girlfriend.json](./353394-grow-a-girlfriend.json) |
 | Grow and Smile: For Balling | 242981 | [242981-grow-and-smile-for-balling.json](./242981-grow-and-smile-for-balling.json) |
