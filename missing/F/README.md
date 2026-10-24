@@ -8608,6 +8608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport: Race Day Car Pack | 267846 | [267846-forza-motorsport-race-day-car-pack.json](./267846-forza-motorsport-race-day-car-pack.json) |
 | Forza Motorsport: Racing Heroes Car Pack | 361776 | [361776-forza-motorsport-racing-heroes-car-pack.json](./361776-forza-motorsport-racing-heroes-car-pack.json) |
 | Forza Polpo | 137632 | [137632-forza-polpo.json](./137632-forza-polpo.json) |
+| Forza Street | 102867 | [102867-forza-street.json](./102867-forza-street.json) |
 | Forza Street: Tap to Race | 237369 | [237369-forza-street-tap-to-race.json](./237369-forza-street-tap-to-race.json) |
 | ForzeBreak | 107705 | [107705-forzebreak.json](./107705-forzebreak.json) |
 | Fos | 43153 | [43153-fos.json](./43153-fos.json) |
