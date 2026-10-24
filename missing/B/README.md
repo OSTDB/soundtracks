@@ -583,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Baseball '09 | 132055 | [132055-backyard-baseball-09.json](./132055-backyard-baseball-09.json) |
 | Backyard Baseball '97 | 317717 | [317717-backyard-baseball-97.json](./317717-backyard-baseball-97.json) |
 | Backyard Baseball (2003-2004) | 67805 | [67805-backyard-baseball-2003-2004.json](./67805-backyard-baseball-2003-2004.json) |
+| Backyard Baseball 2001 | 50908 | [50908-backyard-baseball-2001.json](./50908-backyard-baseball-2001.json) |
 | Backyard Baseball 2003 | 132053 | [132053-backyard-baseball-2003.json](./132053-backyard-baseball-2003.json) |
 | Backyard Baseball 2005 | 205906 | [205906-backyard-baseball-2005.json](./205906-backyard-baseball-2005.json) |
 | Backyard Baseball 2006 | 132054 | [132054-backyard-baseball-2006.json](./132054-backyard-baseball-2006.json) |
@@ -764,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -863,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baggio's Magical Kicks | 64973 | [64973-baggios-magical-kicks.json](./64973-baggios-magical-kicks.json) |
 | Baghdad Central: Desert Gunner | 63014 | [63014-baghdad-central-desert-gunner.json](./63014-baghdad-central-desert-gunner.json) |
 | Bagitman | 79324 | [79324-bagitman.json](./79324-bagitman.json) |
+| Bagman | 25829 | [25829-bagman.json](./25829-bagman.json) |
 | Bagman Comes Back | 185164 | [185164-bagman-comes-back.json](./185164-bagman-comes-back.json) |
 | Bago | 83449 | [83449-bago.json](./83449-bago.json) |
 | Bagration | 81665 | [81665-bagration.json](./81665-bagration.json) |
@@ -2180,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barking from the Dark | 392404 | [392404-barking-from-the-dark.json](./392404-barking-from-the-dark.json) |
 | Barking Irons | 57328 | [57328-barking-irons.json](./57328-barking-irons.json) |
 | Barking Puzzle | 156224 | [156224-barking-puzzle.json](./156224-barking-puzzle.json) |
+| Barkley, Shut Up and Jam: Gaiden | 50786 | [50786-barkley-shut-up-and-jam-gaiden.json](./50786-barkley-shut-up-and-jam-gaiden.json) |
 | Barko | 413751 | [413751-barko.json](./413751-barko.json) |
 | Barkour | 177202 | [177202-barkour.json](./177202-barkour.json) |
 | Barkour | 313588 | [313588-barkour.json](./313588-barkour.json) |
@@ -2776,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Telltale Series - Episode 2: Children of Arkham | 26964 | [26964-batman-the-telltale-series-episode-2-children-of-arkham.json](./26964-batman-the-telltale-series-episode-2-children-of-arkham.json) |
 | Batman: The Video Game | 10510 | [10510-batman-the-video-game.json](./10510-batman-the-video-game.json) |
 | Batman: The Video Game | 49226 | [49226-batman-the-video-game.json](./49226-batman-the-video-game.json) |
+| Batman: The Video Game | 49227 | [49227-batman-the-video-game.json](./49227-batman-the-video-game.json) |
 | Batman: Toxic Chill | 69699 | [69699-batman-toxic-chill.json](./69699-batman-toxic-chill.json) |
 | Batman: Vengeance | 197872 | [197872-batman-vengeance.json](./197872-batman-vengeance.json) |
 | Batman: Vengeance | 5740 | [5740-batman-vengeance.json](./5740-batman-vengeance.json) |
@@ -5574,6 +5579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyblade Burst: Battle Zero | 101309 | [101309-beyblade-burst-battle-zero.json](./101309-beyblade-burst-battle-zero.json) |
 | Beyblade Super Stars | 84429 | [84429-beyblade-super-stars.json](./84429-beyblade-super-stars.json) |
 | Beyblade V-Force: Super Tournament Battle | 3807 | [3807-beyblade-v-force-super-tournament-battle.json](./3807-beyblade-v-force-super-tournament-battle.json) |
+| Beyblade VForce: Ultimate Blader Jam | 49164 | [49164-beyblade-vforce-ultimate-blader-jam.json](./49164-beyblade-vforce-ultimate-blader-jam.json) |
 | Beyblade X Evobattle | 369115 | [369115-beyblade-x-evobattle.json](./369115-beyblade-x-evobattle.json) |
 | Beyblade x Evobattle: Digital Beybooster Metal Coat | 378877 | [378877-beyblade-x-evobattle-digital-beybooster-metal-coat.json](./378877-beyblade-x-evobattle-digital-beybooster-metal-coat.json) |
 | Beyblade x Evobattle: Digital Beybooster Vol. 2 | 378878 | [378878-beyblade-x-evobattle-digital-beybooster-vol-2.json](./378878-beyblade-x-evobattle-digital-beybooster-vol-2.json) |
@@ -6917,6 +6923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Senshi Sailor Moon | 37636 | [37636-bishoujo-senshi-sailor-moon.json](./37636-bishoujo-senshi-sailor-moon.json) |
 | Bishoujo Senshi Sailor Moon | 38279 | [38279-bishoujo-senshi-sailor-moon.json](./38279-bishoujo-senshi-sailor-moon.json) |
 | Bishoujo Senshi Sailor Moon R | 309013 | [309013-bishoujo-senshi-sailor-moon-r.json](./309013-bishoujo-senshi-sailor-moon-r.json) |
+| Bishoujo Senshi Sailor Moon R | 48987 | [48987-bishoujo-senshi-sailor-moon-r.json](./48987-bishoujo-senshi-sailor-moon-r.json) |
 | Bishoujo Senshi Sailor Moon R: Moon Sensation! | 385787 | [385787-bishoujo-senshi-sailor-moon-r-moon-sensation.json](./385787-bishoujo-senshi-sailor-moon-r-moon-sensation.json) |
 | Bishoujo Senshi Sailor Moon R: Sailor Senshi Sanjou! | 385783 | [385783-bishoujo-senshi-sailor-moon-r-sailor-senshi-sanjou.json](./385783-bishoujo-senshi-sailor-moon-r-sailor-senshi-sanjou.json) |
 | Bishoujo Senshi Sailor Moon S: Jougai Rantou!? Shuyaku Soudatsusen | 42399 | [42399-bishoujo-senshi-sailor-moon-s-jougai-rantou-shuyaku-soudatsusen.json](./42399-bishoujo-senshi-sailor-moon-s-jougai-rantou-shuyaku-soudatsusen.json) |
@@ -12755,6 +12762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brink | 502 | [502-brink.json](./502-brink.json) |
 | Brink Complete Pack | 25050 | [25050-brink-complete-pack.json](./25050-brink-complete-pack.json) |
 | Brink of Broken | 381353 | [381353-brink-of-broken.json](./381353-brink-of-broken.json) |
+| Brink of Consciousness: Dorian Gray Syndrome | 50313 | [50313-brink-of-consciousness-dorian-gray-syndrome.json](./50313-brink-of-consciousness-dorian-gray-syndrome.json) |
 | Brink of Consciousness: The Lonely Hearts Murders | 17918 | [17918-brink-of-consciousness-the-lonely-hearts-murders.json](./17918-brink-of-consciousness-the-lonely-hearts-murders.json) |
 | Brink of Extinction | 75648 | [75648-brink-of-extinction.json](./75648-brink-of-extinction.json) |
 | Brink of War | 310250 | [310250-brink-of-war.json](./310250-brink-of-war.json) |
