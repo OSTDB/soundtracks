@@ -2964,7 +2964,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -4417,6 +4416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Manager 4 | 152471 | [152471-airline-manager-4.json](./152471-airline-manager-4.json) |
 | Airline Pilots | 112070 | [112070-airline-pilots.json](./112070-airline-pilots.json) |
 | Airline Simulator | 306760 | [306760-airline-simulator.json](./306760-airline-simulator.json) |
+| Airline Tycoon | 9957 | [9957-airline-tycoon.json](./9957-airline-tycoon.json) |
 | Airline Tycoon 2: Falcon Airlines | 9956 | [9956-airline-tycoon-2-falcon-airlines.json](./9956-airline-tycoon-2-falcon-airlines.json) |
 | Airline Tycoon 2: Falcon Lines | 52568 | [52568-airline-tycoon-2-falcon-lines.json](./52568-airline-tycoon-2-falcon-lines.json) |
 | Airline Tycoon 2: Gold | 379524 | [379524-airline-tycoon-2-gold.json](./379524-airline-tycoon-2-gold.json) |
@@ -13023,6 +13023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrozone | 104240 | [104240-astrozone.json](./104240-astrozone.json) |
 | Astrumis: Survive Together | 321058 | [321058-astrumis-survive-together.json](./321058-astrumis-survive-together.json) |
 | Astrune Academy | 303834 | [303834-astrune-academy.json](./303834-astrune-academy.json) |
+| Astyanax | 215084 | [215084-astyanax.json](./215084-astyanax.json) |
 | Astyanax | 9036 | [9036-astyanax.json](./9036-astyanax.json) |
 | ASU | 231775 | [231775-asu.json](./231775-asu.json) |
 | Asu Kano! Asu mo Kanojo to Issho! | 209141 | [209141-asu-kano-asu-mo-kanojo-to-issho.json](./209141-asu-kano-asu-mo-kanojo-to-issho.json) |
