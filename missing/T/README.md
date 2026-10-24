@@ -4153,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tevris | 75656 | [75656-tevris.json](./75656-tevris.json) |
 | Tex Atomic's Big Bot Battles | 70268 | [70268-tex-atomics-big-bot-battles.json](./70268-tex-atomics-big-bot-battles.json) |
 | Tex Murphy: Killing Moon Rising | 404988 | [404988-tex-murphy-killing-moon-rising.json](./404988-tex-murphy-killing-moon-rising.json) |
+| Tex Murphy: Mean Streets | 1290 | [1290-tex-murphy-mean-streets.json](./1290-tex-murphy-mean-streets.json) |
 | Tex Murphy: Mean Streets + Martian Memorandum | 83575 | [83575-tex-murphy-mean-streets-martian-memorandum.json](./83575-tex-murphy-mean-streets-martian-memorandum.json) |
 | Tex Murphy: Overseer | 5544 | [5544-tex-murphy-overseer.json](./5544-tex-murphy-overseer.json) |
 | Tex Murphy: The Pandora Directive | 17424 | [17424-tex-murphy-the-pandora-directive.json](./17424-tex-murphy-the-pandora-directive.json) |
@@ -4371,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 4 Masters of Melody | 259767 | [259767-the-4-masters-of-melody.json](./259767-the-4-masters-of-melody.json) |
 | The 4 Sins | 286656 | [286656-the-4-sins.json](./286656-the-4-sins.json) |
 | The 46th | 143463 | [143463-the-46th.json](./143463-the-46th.json) |
+| The 4th Coming | 1986 | [1986-the-4th-coming.json](./1986-the-4th-coming.json) |
 | The 4th Unit | 78724 | [78724-the-4th-unit.json](./78724-the-4th-unit.json) |
 | The 4th Unit 2 | 78725 | [78725-the-4th-unit-2.json](./78725-the-4th-unit-2.json) |
 | The 4th Unit 3 - Dual Targets | 78726 | [78726-the-4th-unit-3-dual-targets.json](./78726-the-4th-unit-3-dual-targets.json) |
@@ -8976,6 +8978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Adventures of Van Helsing: The Complete Trilogy | 115460 | [115460-the-incredible-adventures-of-van-helsing-the-complete-trilogy.json](./115460-the-incredible-adventures-of-van-helsing-the-complete-trilogy.json) |
 | The Incredible Coneman | 262418 | [262418-the-incredible-coneman.json](./262418-the-incredible-coneman.json) |
 | The Incredible Crash Dummies | 198764 | [198764-the-incredible-crash-dummies.json](./198764-the-incredible-crash-dummies.json) |
+| The Incredible Crash Dummies | 2160 | [2160-the-incredible-crash-dummies.json](./2160-the-incredible-crash-dummies.json) |
 | The Incredible Hulk | 225619 | [225619-the-incredible-hulk.json](./225619-the-incredible-hulk.json) |
 | The Incredible Hulk | 368893 | [368893-the-incredible-hulk.json](./368893-the-incredible-hulk.json) |
 | The Incredible Hulk | 4928 | [4928-the-incredible-hulk.json](./4928-the-incredible-hulk.json) |
@@ -19316,6 +19319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan A.E. | 67820 | [67820-titan-a-e.json](./67820-titan-a-e.json) |
 | Titan Attack: Wall Defense FPS | 175716 | [175716-titan-attack-wall-defense-fps.json](./175716-titan-attack-wall-defense-fps.json) |
 | Titan Attacks! | 11460 | [11460-titan-attacks.json](./11460-titan-attacks.json) |
+| Titan Chaser | 132513 | [132513-titan-chaser.json](./132513-titan-chaser.json) |
 | Titan Empire | 24657 | [24657-titan-empire.json](./24657-titan-empire.json) |
 | Titan Empires | 323314 | [323314-titan-empires.json](./323314-titan-empires.json) |
 | Titan Force | 289944 | [289944-titan-force.json](./289944-titan-force.json) |
@@ -20971,6 +20975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toridama: Brave Challenge | 114887 | [114887-toridama-brave-challenge.json](./114887-toridama-brave-challenge.json) |
 | Toride | 37784 | [37784-toride.json](./37784-toride.json) |
 | ToriDori | 211825 | [211825-toridori.json](./211825-toridori.json) |
+| Torii | 141335 | [141335-torii.json](./141335-torii.json) |
 | Torii Path | 112932 | [112932-torii-path.json](./112932-torii-path.json) |
 | Torikago no Marriage | 202818 | [202818-torikago-no-marriage.json](./202818-torikago-no-marriage.json) |
 | Torikago no Mukougawa | 268665 | [268665-torikago-no-mukougawa.json](./268665-torikago-no-mukougawa.json) |
