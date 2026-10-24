@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabuki-Z | 146076 | [146076-kabuki-z.json](./146076-kabuki-z.json) |
 | Kabuki: Quantum Fighter | 27623 | [27623-kabuki-quantum-fighter.json](./27623-kabuki-quantum-fighter.json) |
 | Kabukicho Story | 142806 | [142806-kabukicho-story.json](./142806-kabukicho-story.json) |
+| Kabul Spy | 23317 | [23317-kabul-spy.json](./23317-kabul-spy.json) |
 | Kabus 22 | 63091 | [63091-kabus-22.json](./63091-kabus-22.json) |
 | Kabushiki Baibai Trainer Kabutore | 72977 | [72977-kabushiki-baibai-trainer-kabutore.json](./72977-kabushiki-baibai-trainer-kabutore.json) |
 | Kabuto | 239776 | [239776-kabuto.json](./239776-kabuto.json) |
