@@ -7747,6 +7747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Racing | 226776 | [226776-angry-birds-racing.json](./226776-angry-birds-racing.json) |
 | Angry Birds Refresh | 357348 | [357348-angry-birds-refresh.json](./357348-angry-birds-refresh.json) |
 | Angry Birds Reloaded | 159024 | [159024-angry-birds-reloaded.json](./159024-angry-birds-reloaded.json) |
+| Angry Birds Rio | 19271 | [19271-angry-birds-rio.json](./19271-angry-birds-rio.json) |
 | Angry Birds Rio HD | 88589 | [88589-angry-birds-rio-hd.json](./88589-angry-birds-rio-hd.json) |
 | Angry Birds Rush | 368638 | [368638-angry-birds-rush.json](./368638-angry-birds-rush.json) |
 | Angry Birds Seasons HD | 102139 | [102139-angry-birds-seasons-hd.json](./102139-angry-birds-seasons-hd.json) |
@@ -8440,6 +8441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 2070: Royal Edition | 180263 | [180263-anno-2070-royal-edition.json](./180263-anno-2070-royal-edition.json) |
 | Anno 2070: The Crisis Response Package | 335463 | [335463-anno-2070-the-crisis-response-package.json](./335463-anno-2070-the-crisis-response-package.json) |
 | Anno 2070: The Distrust Series Package | 335462 | [335462-anno-2070-the-distrust-series-package.json](./335462-anno-2070-the-distrust-series-package.json) |
+| Anno 2205 | 11205 | [11205-anno-2205.json](./11205-anno-2205.json) |
 | Anno 2205: Asteroid Miner | 180264 | [180264-anno-2205-asteroid-miner.json](./180264-anno-2205-asteroid-miner.json) |
 | Anno 2205: Collector's Edition | 97253 | [97253-anno-2205-collectors-edition.json](./97253-anno-2205-collectors-edition.json) |
 | Anno 2205: Frontiers | 24873 | [24873-anno-2205-frontiers.json](./24873-anno-2205-frontiers.json) |
@@ -12277,6 +12279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Syndicate - Gold Edition | 52626 | [52626-assassins-creed-syndicate-gold-edition.json](./52626-assassins-creed-syndicate-gold-edition.json) |
 | Assassin's Creed: Syndicate - Rooks Edition | 230499 | [230499-assassins-creed-syndicate-rooks-edition.json](./230499-assassins-creed-syndicate-rooks-edition.json) |
 | Assassin's Creed: The Americas Collection | 22815 | [22815-assassins-creed-the-americas-collection.json](./22815-assassins-creed-the-americas-collection.json) |
+| Assassin's Creed: The Ezio Collection | 23954 | [23954-assassins-creed-the-ezio-collection.json](./23954-assassins-creed-the-ezio-collection.json) |
 | Assassin's Creed: The Rebel Collection | 122236 | [122236-assassins-creed-the-rebel-collection.json](./122236-assassins-creed-the-rebel-collection.json) |
 | Assassin's Shadows | 331306 | [331306-assassins-shadows.json](./331306-assassins-shadows.json) |
 | Assassination Classroom VR Balloon Challenge Time | 44611 | [44611-assassination-classroom-vr-balloon-challenge-time.json](./44611-assassination-classroom-vr-balloon-challenge-time.json) |
