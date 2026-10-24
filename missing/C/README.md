@@ -9518,6 +9518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color FX Space Invaders | 245534 | [245534-color-fx-space-invaders.json](./245534-color-fx-space-invaders.json) |
 | Color Game | 151295 | [151295-color-game.json](./151295-color-game.json) |
 | Color Guardian | 109407 | [109407-color-guardian.json](./109407-color-guardian.json) |
+| Color Guardians | 19947 | [19947-color-guardians.json](./19947-color-guardians.json) |
 | Color Guys | 174047 | [174047-color-guys.json](./174047-color-guys.json) |
 | Color Hero | 116358 | [116358-color-hero.json](./116358-color-hero.json) |
 | Color Hockey | 105510 | [105510-color-hockey.json](./105510-color-hockey.json) |
