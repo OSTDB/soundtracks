@@ -2092,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re-Bounder | 40940 | [40940-re-bounder.json](./40940-re-bounder.json) |
 | Re-Exit | 336728 | [336728-re-exit.json](./336728-re-exit.json) |
 | Re-Fracture: The Prophet’s Awakening | 348410 | [348410-re-fracture-the-prophet-s-awakening.json](./348410-re-fracture-the-prophet-s-awakening.json) |
+| Re-Legion | 81352 | [81352-re-legion.json](./81352-re-legion.json) |
 | Re-Loaded | 72263 | [72263-re-loaded.json](./72263-re-loaded.json) |
 | Re-Move Blocks | 57454 | [57454-re-move-blocks.json](./57454-re-move-blocks.json) |
 | Re-Nullum | 149466 | [149466-re-nullum.json](./149466-re-nullum.json) |
