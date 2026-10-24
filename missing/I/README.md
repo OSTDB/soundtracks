@@ -3346,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice 2: Deluxe Edition | 212172 | [212172-injustice-2-deluxe-edition.json](./212172-injustice-2-deluxe-edition.json) |
 | Injustice 2: Demons Shader Pack | 323385 | [323385-injustice-2-demons-shader-pack.json](./323385-injustice-2-demons-shader-pack.json) |
 | Injustice 2: Enchantress | 165036 | [165036-injustice-2-enchantress.json](./165036-injustice-2-enchantress.json) |
+| Injustice 2: Fighter Pack 1 | 28492 | [28492-injustice-2-fighter-pack-1.json](./28492-injustice-2-fighter-pack-1.json) |
 | Injustice 2: Fighter Pack 2 | 55046 | [55046-injustice-2-fighter-pack-2.json](./55046-injustice-2-fighter-pack-2.json) |
 | Injustice 2: Fighter Pack 3 | 75691 | [75691-injustice-2-fighter-pack-3.json](./75691-injustice-2-fighter-pack-3.json) |
 | Injustice 2: Gods Shader Pack | 323384 | [323384-injustice-2-gods-shader-pack.json](./323384-injustice-2-gods-shader-pack.json) |
