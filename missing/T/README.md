@@ -2889,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 7: Collector's Edition | 166277 | [166277-tekken-7-collectors-edition.json](./166277-tekken-7-collectors-edition.json) |
 | Tekken 7: Craig Marduk | 173152 | [173152-tekken-7-craig-marduk.json](./173152-tekken-7-craig-marduk.json) |
 | Tekken 7: Definitive Edition | 188048 | [188048-tekken-7-definitive-edition.json](./188048-tekken-7-definitive-edition.json) |
+| Tekken 7: Deluxe Edition | 53717 | [53717-tekken-7-deluxe-edition.json](./53717-tekken-7-deluxe-edition.json) |
 | Tekken 7: Eliza | 173151 | [173151-tekken-7-eliza.json](./173151-tekken-7-eliza.json) |
 | Tekken 7: Fahkumram | 163263 | [163263-tekken-7-fahkumram.json](./163263-tekken-7-fahkumram.json) |
 | Tekken 7: Fated Retribution | 19555 | [19555-tekken-7-fated-retribution.json](./19555-tekken-7-fated-retribution.json) |
@@ -3659,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Mango | 47141 | [47141-terra-mango.json](./47141-terra-mango.json) |
 | Terra Memoria: Deluxe Edition | 292926 | [292926-terra-memoria-deluxe-edition.json](./292926-terra-memoria-deluxe-edition.json) |
 | Terra Militaris | 66367 | [66367-terra-militaris.json](./66367-terra-militaris.json) |
+| Terra Mystica | 37036 | [37036-terra-mystica.json](./37036-terra-mystica.json) |
 | Terra Nil Prototype | 123998 | [123998-terra-nil-prototype.json](./123998-terra-nil-prototype.json) |
 | Terra Nil: Deluxe Edition | 243138 | [243138-terra-nil-deluxe-edition.json](./243138-terra-nil-deluxe-edition.json) |
 | Terra Nova Pinball | 289034 | [289034-terra-nova-pinball.json](./289034-terra-nova-pinball.json) |
@@ -7152,6 +7154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls V: Skyrim VR | 37088 | [37088-the-elder-scrolls-v-skyrim-vr.json](./37088-the-elder-scrolls-v-skyrim-vr.json) |
 | The Elder Scrolls VI | 81249 | [81249-the-elder-scrolls-vi.json](./81249-the-elder-scrolls-vi.json) |
 | The Elder Scrolls: Arena - Deluxe Edition | 206663 | [206663-the-elder-scrolls-arena-deluxe-edition.json](./206663-the-elder-scrolls-arena-deluxe-edition.json) |
+| The Elder Scrolls: Legends - Heroes of Skyrim | 37033 | [37033-the-elder-scrolls-legends-heroes-of-skyrim.json](./37033-the-elder-scrolls-legends-heroes-of-skyrim.json) |
 | The Elder Scrolls: Legends - Return to Clockwork City | 76423 | [76423-the-elder-scrolls-legends-return-to-clockwork-city.json](./76423-the-elder-scrolls-legends-return-to-clockwork-city.json) |
 | The Elder Tales | 264606 | [264606-the-elder-tales.json](./264606-the-elder-tales.json) |
 | The Eldritch Ascent | 374787 | [374787-the-eldritch-ascent.json](./374787-the-eldritch-ascent.json) |
@@ -9629,6 +9632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lair of DOOMestic Animals | 271487 | [271487-the-lair-of-doomestic-animals.json](./271487-the-lair-of-doomestic-animals.json) |
 | The Lair of Nekro Neko | 307695 | [307695-the-lair-of-nekro-neko.json](./307695-the-lair-of-nekro-neko.json) |
 | The Lake House: Children of Silence | 54299 | [54299-the-lake-house-children-of-silence.json](./54299-the-lake-house-children-of-silence.json) |
+| The Lake House: Children of Silence - Collector's Edition | 53263 | [53263-the-lake-house-children-of-silence-collectors-edition.json](./53263-the-lake-house-children-of-silence-collectors-edition.json) |
 | The Lake of the Blind Mannequin | 228637 | [228637-the-lake-of-the-blind-mannequin.json](./228637-the-lake-of-the-blind-mannequin.json) |
 | The Lamb of the Sabbath is Standing Upon the Hill | 346651 | [346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json](./346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json) |
 | The Lamplighters League | 240893 | [240893-the-lamplighters-league.json](./240893-the-lamplighters-league.json) |
@@ -11492,6 +11496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mysterious Case of Dr. Jekyll & Mr. Hyde | 197946 | [197946-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./197946-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
 | The Mysterious Case of Dr. Jekyll & Mr. Hyde | 82157 | [82157-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./82157-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
 | The Mysterious Case of Dr.Jekyll and Mr.Hyde | 147945 | [147945-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./147945-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
+| The Mysterious Cities of Gold: Secret Paths | 53763 | [53763-the-mysterious-cities-of-gold-secret-paths.json](./53763-the-mysterious-cities-of-gold-secret-paths.json) |
 | The Mysterious Cities of Gold: Secret Paths - Director's Cut | 175577 | [175577-the-mysterious-cities-of-gold-secret-paths-directors-cut.json](./175577-the-mysterious-cities-of-gold-secret-paths-directors-cut.json) |
 | The Mysterious Mine Bouncin' Back Edition | 222344 | [222344-the-mysterious-mine-bouncin-back-edition.json](./222344-the-mysterious-mine-bouncin-back-edition.json) |
 | The Mysterious Misadventures of Mollie & Mordecai | 191120 | [191120-the-mysterious-misadventures-of-mollie-and-mordecai.json](./191120-the-mysterious-misadventures-of-mollie-and-mordecai.json) |
@@ -11548,6 +11553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -14814,6 +14820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treasures of Montezuma 4 Easter Bundle | 121421 | [121421-the-treasures-of-montezuma-4-easter-bundle.json](./121421-the-treasures-of-montezuma-4-easter-bundle.json) |
 | The Treasures of Montezuma 5 | 33510 | [33510-the-treasures-of-montezuma-5.json](./33510-the-treasures-of-montezuma-5.json) |
 | The Treasures of Mystery Island | 175802 | [175802-the-treasures-of-mystery-island.json](./175802-the-treasures-of-mystery-island.json) |
+| The Treasures of Mystery Island 2: The Gates of Fate | 53773 | [53773-the-treasures-of-mystery-island-2-the-gates-of-fate.json](./53773-the-treasures-of-mystery-island-2-the-gates-of-fate.json) |
 | The Treasures of Mystery Island 3: The Ghost Ship | 54295 | [54295-the-treasures-of-mystery-island-3-the-ghost-ship.json](./54295-the-treasures-of-mystery-island-3-the-ghost-ship.json) |
 | The Treasures of Mystery Island: The Ghost Ship | 53772 | [53772-the-treasures-of-mystery-island-the-ghost-ship.json](./53772-the-treasures-of-mystery-island-the-ghost-ship.json) |
 | The Tree | 156064 | [156064-the-tree.json](./156064-the-tree.json) |
@@ -19269,6 +19276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny T | 171445 | [171445-tiny-t.json](./171445-tiny-t.json) |
 | Tiny Tactics | 210879 | [210879-tiny-tactics.json](./210879-tiny-tactics.json) |
 | Tiny Tactics Go! | 373854 | [373854-tiny-tactics-go.json](./373854-tiny-tactics-go.json) |
+| Tiny Tales: Heart of the Forest | 36951 | [36951-tiny-tales-heart-of-the-forest.json](./36951-tiny-tales-heart-of-the-forest.json) |
 | Tiny Tales: Hidden Objects | 285523 | [285523-tiny-tales-hidden-objects.json](./285523-tiny-tales-hidden-objects.json) |
 | Tiny Tank | 189962 | [189962-tiny-tank.json](./189962-tiny-tank.json) |
 | Tiny Tank Showdown | 420658 | [420658-tiny-tank-showdown.json](./420658-tiny-tank-showdown.json) |
@@ -20116,6 +20124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Chronos | 101059 | [101059-tokyo-chronos.json](./101059-tokyo-chronos.json) |
 | Tokyo Chronos & Altedus: Beyond Chronos Twin Pack | 308616 | [308616-tokyo-chronos-and-altedus-beyond-chronos-twin-pack.json](./308616-tokyo-chronos-and-altedus-beyond-chronos-twin-pack.json) |
 | Tokyo City Nights | 409080 | [409080-tokyo-city-nights.json](./409080-tokyo-city-nights.json) |
+| Tokyo Clanpool | 36931 | [36931-tokyo-clanpool.json](./36931-tokyo-clanpool.json) |
 | Tokyo Coffee Pandechika | 206552 | [206552-tokyo-coffee-pandechika.json](./206552-tokyo-coffee-pandechika.json) |
 | Tokyo College Girls: The Nerd & Queen Bees | 345594 | [345594-tokyo-college-girls-the-nerd-and-queen-bees.json](./345594-tokyo-college-girls-the-nerd-and-queen-bees.json) |
 | Tokyo Cooking: Complete + | 328822 | [328822-tokyo-cooking-complete.json](./328822-tokyo-cooking-complete.json) |
@@ -21297,6 +21306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War Saga: Thrones of Britannia | 44102 | [44102-total-war-saga-thrones-of-britannia.json](./44102-total-war-saga-thrones-of-britannia.json) |
 | Total War Saga: Thrones of Britannia - Blood, Sweat and Spears | 167639 | [167639-total-war-saga-thrones-of-britannia-blood-sweat-and-spears.json](./167639-total-war-saga-thrones-of-britannia-blood-sweat-and-spears.json) |
 | Total War Saga: Thrones of Britannia - Limited Edition | 86390 | [86390-total-war-saga-thrones-of-britannia-limited-edition.json](./86390-total-war-saga-thrones-of-britannia-limited-edition.json) |
+| Total War Shogun 2: Fall of the Samurai Collection | 53811 | [53811-total-war-shogun-2-fall-of-the-samurai-collection.json](./53811-total-war-shogun-2-fall-of-the-samurai-collection.json) |
 | Total War: Arena | 12982 | [12982-total-war-arena.json](./12982-total-war-arena.json) |
 | Total War: Attila - Age of Charlemagne Campaign Pack | 82023 | [82023-total-war-attila-age-of-charlemagne-campaign-pack.json](./82023-total-war-attila-age-of-charlemagne-campaign-pack.json) |
 | Total War: Attila - Blood & Burning | 82024 | [82024-total-war-attila-blood-and-burning.json](./82024-total-war-attila-blood-and-burning.json) |
