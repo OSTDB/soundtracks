@@ -1443,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sansara Naga 1 | 341472 | [341472-sansara-naga-1.json](./341472-sansara-naga-1.json) |
 | Sansara Naga 1x2 | 49793 | [49793-sansara-naga-1x2.json](./49793-sansara-naga-1x2.json) |
 | Sansara Naga 2 | 341473 | [341473-sansara-naga-2.json](./341473-sansara-naga-2.json) |
+| Sansara Naga 2 | 42369 | [42369-sansara-naga-2.json](./42369-sansara-naga-2.json) |
 | Sansuu Driller | 222245 | [222245-sansuu-driller.json](./222245-sansuu-driller.json) |
 | Sansuu Tsuma Zuki | 345922 | [345922-sansuu-tsuma-zuki.json](./345922-sansuu-tsuma-zuki.json) |
 | Santa and Present Chaos | 278992 | [278992-santa-and-present-chaos.json](./278992-santa-and-present-chaos.json) |
@@ -5212,6 +5213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGS Taipings | 230923 | [230923-sgs-taipings.json](./230923-sgs-taipings.json) |
 | SGS We The People | 388972 | [388972-sgs-we-the-people.json](./388972-sgs-we-the-people.json) |
 | Sgt. Rock: On the Frontline | 62056 | [62056-sgt-rock-on-the-frontline.json](./62056-sgt-rock-on-the-frontline.json) |
+| Sgt. Saunders' Combat! | 42368 | [42368-sgt-saunders-combat.json](./42368-sgt-saunders-combat.json) |
 | SgyuinBaldo | 151436 | [151436-sgyuinbaldo.json](./151436-sgyuinbaldo.json) |
 | Sh*thead | 292748 | [292748-sh-thead.json](./292748-sh-thead.json) |
 | Sha Beast Dressage | 371269 | [371269-sha-beast-dressage.json](./371269-sha-beast-dressage.json) |
@@ -6873,6 +6875,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinseiki GPX Cyber Formula: Road to the Infinity 2 | 58058 | [58058-shinseiki-gpx-cyber-formula-road-to-the-infinity-2.json](./58058-shinseiki-gpx-cyber-formula-road-to-the-infinity-2.json) |
 | Shinseiki GPX Cyber Formula: Road to the Infinity 3 | 58060 | [58060-shinseiki-gpx-cyber-formula-road-to-the-infinity-3.json](./58060-shinseiki-gpx-cyber-formula-road-to-the-infinity-3.json) |
 | Shinseiki GPX Cyber Formula: Road to the Infinity 4 | 58059 | [58059-shinseiki-gpx-cyber-formula-road-to-the-infinity-4.json](./58059-shinseiki-gpx-cyber-formula-road-to-the-infinity-4.json) |
+| Shinseiki Odysselya | 42367 | [42367-shinseiki-odysselya.json](./42367-shinseiki-odysselya.json) |
+| Shinseiki Odysselya II | 42366 | [42366-shinseiki-odysselya-ii.json](./42366-shinseiki-odysselya-ii.json) |
 | Shinsen Renki | 163232 | [163232-shinsen-renki.json](./163232-shinsen-renki.json) |
 | Shinsen-den | 77406 | [77406-shinsen-den.json](./77406-shinsen-den.json) |
 | Shinsengumi Fukuchou no Yuuga na Hitotoki | 163348 | [163348-shinsengumi-fukuchou-no-yuuga-na-hitotoki.json](./163348-shinsengumi-fukuchou-no-yuuga-na-hitotoki.json) |
@@ -7159,11 +7163,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogi Revolution Gekisashi 13 | 336108 | [336108-shogi-revolution-gekisashi-13.json](./336108-shogi-revolution-gekisashi-13.json) |
 | Shogi Revolution: Gekisashi 9 | 66488 | [66488-shogi-revolution-gekisashi-9.json](./66488-shogi-revolution-gekisashi-9.json) |
 | Shogi Saikyou | 38299 | [38299-shogi-saikyou.json](./38299-shogi-saikyou.json) |
+| Shogi Saikyou II: Jissen Taikyoku-hen | 42382 | [42382-shogi-saikyou-ii-jissen-taikyoku-hen.json](./42382-shogi-saikyou-ii-jissen-taikyoku-hen.json) |
 | Shogi Shodan Icchokusen | 42032 | [42032-shogi-shodan-icchokusen.json](./42032-shogi-shodan-icchokusen.json) |
 | Shogi Shoko | 223964 | [223964-shogi-shoko.json](./223964-shogi-shoko.json) |
 | Shogi Shoshinsha Muyou | 57740 | [57740-shogi-shoshinsha-muyou.json](./57740-shogi-shoshinsha-muyou.json) |
 | Shogi Shoshisha Muyo | 42031 | [42031-shogi-shoshisha-muyo.json](./42031-shogi-shoshisha-muyo.json) |
 | Shogi Wars | 312359 | [312359-shogi-wars.json](./312359-shogi-wars.json) |
+| Shogi Zanmai | 42381 | [42381-shogi-zanmai.json](./42381-shogi-zanmai.json) |
 | Shogi: Japanese Chess | 221357 | [221357-shogi-japanese-chess.json](./221357-shogi-japanese-chess.json) |
 | Shogo: Mobile Armor Division | 12464 | [12464-shogo-mobile-armor-division.json](./12464-shogo-mobile-armor-division.json) |
 | Shogun | 298095 | [298095-shogun.json](./298095-shogun.json) |
@@ -7547,6 +7553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shounen Ninja Sasuke | 38232 | [38232-shounen-ninja-sasuke.json](./38232-shounen-ninja-sasuke.json) |
 | Shounen Tantei-dan to Oka no Ue no Kimyou na Karakuri Yashiki | 251623 | [251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json](./251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json) |
 | Shounen to Tenkiame | 397943 | [397943-shounen-to-tenkiame.json](./397943-shounen-to-tenkiame.json) |
+| Shounin yo, Taishi wo Idake!! | 42380 | [42380-shounin-yo-taishi-wo-idake.json](./42380-shounin-yo-taishi-wo-idake.json) |
 | Shout of Survival | 32857 | [32857-shout-of-survival.json](./32857-shout-of-survival.json) |
 | Shout Seven | 159245 | [159245-shout-seven.json](./159245-shout-seven.json) |
 | Shoutrageous! | 101952 | [101952-shoutrageous.json](./101952-shoutrageous.json) |
@@ -7859,6 +7866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuumatsu Shoujo | 206440 | [206440-shuumatsu-shoujo.json](./206440-shuumatsu-shoujo.json) |
 | Shuumatsu Shoujo Gensou Alicematic: Apocalypse | 412800 | [412800-shuumatsu-shoujo-gensou-alicematic-apocalypse.json](./412800-shuumatsu-shoujo-gensou-alicematic-apocalypse.json) |
 | Shuumatsu Shoujo to Saishuukai | 370553 | [370553-shuumatsu-shoujo-to-saishuukai.json](./370553-shuumatsu-shoujo-to-saishuukai.json) |
+| Shuushoku Game | 42379 | [42379-shuushoku-game.json](./42379-shuushoku-game.json) |
 | Shuusou Gyoku | 123608 | [123608-shuusou-gyoku.json](./123608-shuusou-gyoku.json) |
 | Shuutai Headless | 150575 | [150575-shuutai-headless.json](./150575-shuutai-headless.json) |
 | Shuv-It | 202002 | [202002-shuv-it.json](./202002-shuv-it.json) |
@@ -12192,6 +12200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoopy & The Great Mystery Club | 360904 | [360904-snoopy-and-the-great-mystery-club.json](./360904-snoopy-and-the-great-mystery-club.json) |
 | Snoopy & The Great Mystery Club: Deluxe Edition | 368775 | [368775-snoopy-and-the-great-mystery-club-deluxe-edition.json](./368775-snoopy-and-the-great-mystery-club-deluxe-edition.json) |
 | Snoopy & The Great Mystery Club: Joe Cool Fun Pack | 368784 | [368784-snoopy-and-the-great-mystery-club-joe-cool-fun-pack.json](./368784-snoopy-and-the-great-mystery-club-joe-cool-fun-pack.json) |
+| Snoopy Concert | 42383 | [42383-snoopy-concert.json](./42383-snoopy-concert.json) |
 | Snoopy DS: Let's Go Meet Snoopy and His Friends! | 302711 | [302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json](./302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json) |
 | Snoopy no Hajimete no Otsukai | 324912 | [324912-snoopy-no-hajimete-no-otsukai.json](./324912-snoopy-no-hajimete-no-otsukai.json) |
 | Snoopy Pop | 87016 | [87016-snoopy-pop.json](./87016-snoopy-pop.json) |
@@ -19133,6 +19142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox Zero: Limited First Print Edition | 23382 | [23382-star-fox-zero-limited-first-print-edition.json](./23382-star-fox-zero-limited-first-print-edition.json) |
 | Star Fox: Assault | 3243 | [3243-star-fox-assault.json](./3243-star-fox-assault.json) |
 | Star Fox: Event Horizon | 401708 | [401708-star-fox-event-horizon.json](./401708-star-fox-event-horizon.json) |
+| Star Fox: Super Weekend | 42365 | [42365-star-fox-super-weekend.json](./42365-star-fox-super-weekend.json) |
 | Star Fur Day | 313091 | [313091-star-fur-day.json](./313091-star-fur-day.json) |
 | Star Fury | 24777 | [24777-star-fury.json](./24777-star-fury.json) |
 | Star Gagnant | 247587 | [247587-star-gagnant.json](./247587-star-gagnant.json) |
@@ -24264,6 +24274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Agent | 272486 | [272486-super-agent.json](./272486-super-agent.json) |
 | Super Agent: Drunk Kent | 114928 | [114928-super-agent-drunk-kent.json](./114928-super-agent-drunk-kent.json) |
 | Super Air Combat | 63700 | [63700-super-air-combat.json](./63700-super-air-combat.json) |
+| Super Air Diver 2 | 42364 | [42364-super-air-diver-2.json](./42364-super-air-diver-2.json) |
 | Super Air Zonk | 37609 | [37609-super-air-zonk.json](./37609-super-air-zonk.json) |
 | Super Airwolf | 45548 | [45548-super-airwolf.json](./45548-super-airwolf.json) |
 | Super Alabama Beach Mouse | 377600 | [377600-super-alabama-beach-mouse.json](./377600-super-alabama-beach-mouse.json) |
@@ -24760,8 +24771,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Foosball | 129719 | [129719-super-foosball.json](./129719-super-foosball.json) |
 | Super Football | 94923 | [94923-super-football.json](./94923-super-football.json) |
 | Super Football Sunday | 94401 | [94401-super-football-sunday.json](./94401-super-football-sunday.json) |
+| Super Formation Soccer 94: World Cup Edition | 42362 | [42362-super-formation-soccer-94-world-cup-edition.json](./42362-super-formation-soccer-94-world-cup-edition.json) |
+| Super Formation Soccer 94: World Cup Final Data | 42361 | [42361-super-formation-soccer-94-world-cup-final-data.json](./42361-super-formation-soccer-94-world-cup-final-data.json) |
+| Super Formation Soccer 95: della Serie A | 42360 | [42360-super-formation-soccer-95-della-serie-a.json](./42360-super-formation-soccer-95-della-serie-a.json) |
 | Super Formation Soccer 95: della Serie A - Extra Package | 236675 | [236675-super-formation-soccer-95-della-serie-a-extra-package.json](./236675-super-formation-soccer-95-della-serie-a-extra-package.json) |
 | Super Formation Soccer 95: della Serie A - UCC Xaqua | 236673 | [236673-super-formation-soccer-95-della-serie-a-ucc-xaqua.json](./236673-super-formation-soccer-95-della-serie-a-ucc-xaqua.json) |
+| Super Formation Soccer 96: World Club Edition | 42359 | [42359-super-formation-soccer-96-world-club-edition.json](./42359-super-formation-soccer-96-world-club-edition.json) |
+| Super Formation Soccer II | 42363 | [42363-super-formation-soccer-ii.json](./42363-super-formation-soccer-ii.json) |
 | Super Fowlst 2 | 147611 | [147611-super-fowlst-2.json](./147611-super-fowlst-2.json) |
 | Super Fox 2 | 146920 | [146920-super-fox-2.json](./146920-super-fox-2.json) |
 | Super Freaks 1 Remastered | 266873 | [266873-super-freaks-1-remastered.json](./266873-super-freaks-1-remastered.json) |
@@ -24776,6 +24792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Funky Ball! | 152044 | [152044-super-funky-ball.json](./152044-super-funky-ball.json) |
 | Super Furi Puzzles | 334833 | [334833-super-furi-puzzles.json](./334833-super-furi-puzzles.json) |
 | Super G-Man | 73110 | [73110-super-g-man.json](./73110-super-g-man.json) |
+| Super Gachapon World: SD Gundam X | 42401 | [42401-super-gachapon-world-sd-gundam-x.json](./42401-super-gachapon-world-sd-gundam-x.json) |
 | Super Gahaku | 417571 | [417571-super-gahaku.json](./417571-super-gahaku.json) |
 | Super Galaxy Ball | 219579 | [219579-super-galaxy-ball.json](./219579-super-galaxy-ball.json) |
 | Super Galaxy Boy | 54867 | [54867-super-galaxy-boy.json](./54867-super-galaxy-boy.json) |
@@ -24903,6 +24920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Impossible Road | 33503 | [33503-super-impossible-road.json](./33503-super-impossible-road.json) |
 | Super Impostor Bros. | 202379 | [202379-super-impostor-bros.json](./202379-super-impostor-bros.json) |
 | Super Indie Square: Fight Against Time | 171350 | [171350-super-indie-square-fight-against-time.json](./171350-super-indie-square-fight-against-time.json) |
+| Super Indy Champ | 42358 | [42358-super-indy-champ.json](./42358-super-indy-champ.json) |
 | Super Inefficient Golf | 90074 | [90074-super-inefficient-golf.json](./90074-super-inefficient-golf.json) |
 | Super Intern Story | 164212 | [164212-super-intern-story.json](./164212-super-intern-story.json) |
 | Super International Cricket | 42456 | [42456-super-international-cricket.json](./42456-super-international-cricket.json) |
@@ -25110,6 +25128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lone Survivor | 140603 | [140603-super-lone-survivor.json](./140603-super-lone-survivor.json) |
 | Super Long Boy | 251022 | [251022-super-long-boy.json](./251022-super-long-boy.json) |
 | Super Long Cat | 368768 | [368768-super-long-cat.json](./368768-super-long-cat.json) |
+| Super Loopz | 42357 | [42357-super-loopz.json](./42357-super-loopz.json) |
 | Super Lotsa Added Stuff Hack | 19777 | [19777-super-lotsa-added-stuff-hack.json](./19777-super-lotsa-added-stuff-hack.json) |
 | Super Lovely Planet | 27321 | [27321-super-lovely-planet.json](./27321-super-lovely-planet.json) |
 | Super LSG World | 268356 | [268356-super-lsg-world.json](./268356-super-lsg-world.json) |
@@ -25132,6 +25151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mabus Mania | 223160 | [223160-super-mabus-mania.json](./223160-super-mabus-mania.json) |
 | Super Machok World | 268358 | [268358-super-machok-world.json](./268358-super-machok-world.json) |
 | Super Macklemore 64 | 418798 | [418798-super-macklemore-64.json](./418798-super-macklemore-64.json) |
+| Super Mad Champ | 42356 | [42356-super-mad-champ.json](./42356-super-mad-champ.json) |
 | Super Mado Paf!! | 229655 | [229655-super-mado-paf.json](./229655-super-mado-paf.json) |
 | Super Mafia Land | 294559 | [294559-super-mafia-land.json](./294559-super-mafia-land.json) |
 | Super Magbot | 132921 | [132921-super-magbot.json](./132921-super-magbot.json) |
