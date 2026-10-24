@@ -7296,6 +7296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planes.io | 194038 | [194038-planes-io.json](./194038-planes-io.json) |
 | Planescape Torment: Enhanced Edition - Digital Deluxe | 53462 | [53462-planescape-torment-enhanced-edition-digital-deluxe.json](./53462-planescape-torment-enhanced-edition-digital-deluxe.json) |
 | Planescape: The Shaper of Dreams | 369227 | [369227-planescape-the-shaper-of-dreams.json](./369227-planescape-the-shaper-of-dreams.json) |
+| Planescape: Torment - Enhanced Edition | 27988 | [27988-planescape-torment-enhanced-edition.json](./27988-planescape-torment-enhanced-edition.json) |
 | PlaneShift | 84309 | [84309-planeshift.json](./84309-planeshift.json) |
 | Planet | 17018 | [17018-planet.json](./17018-planet.json) |
 | Planet 2000 | 99523 | [99523-planet-2000.json](./99523-planet-2000.json) |
@@ -8090,6 +8091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plowing Through | 271806 | [271806-plowing-through.json](./271806-plowing-through.json) |
 | Pluck It | 105910 | [105910-pluck-it.json](./105910-pluck-it.json) |
 | Plucked Up | 385426 | [385426-plucked-up.json](./385426-plucked-up.json) |
+| Plug & Play | 18239 | [18239-plug-and-play.json](./18239-plug-and-play.json) |
 | Plug and Play Sudoku | 263432 | [263432-plug-and-play-sudoku.json](./263432-plug-and-play-sudoku.json) |
 | Plug It In | 288232 | [288232-plug-it-in.json](./288232-plug-it-in.json) |
 | Plug Wars: The Game | 148476 | [148476-plug-wars-the-game.json](./148476-plug-wars-the-game.json) |
@@ -10541,6 +10543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Hero: Bedbeard's Revenge | 392395 | [392395-post-hero-bedbeards-revenge.json](./392395-post-hero-bedbeards-revenge.json) |
 | Post Impact | 395188 | [395188-post-impact.json](./395188-post-impact.json) |
 | Post Memory | 318530 | [318530-post-memory.json](./318530-post-memory.json) |
+| Post Mortem | 14359 | [14359-post-mortem.json](./14359-post-mortem.json) |
 | Post Scriptum CTG: Collectible Token Game | 129676 | [129676-post-scriptum-ctg-collectible-token-game.json](./129676-post-scriptum-ctg-collectible-token-game.json) |
 | Post Solis | 199102 | [199102-post-solis.json](./199102-post-solis.json) |
 | Post Soviet Strike: Chernobyl Legacy | 294161 | [294161-post-soviet-strike-chernobyl-legacy.json](./294161-post-soviet-strike-chernobyl-legacy.json) |
