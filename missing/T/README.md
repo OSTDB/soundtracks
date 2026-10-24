@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Craft Online | 34125 | [34125-tactical-craft-online.json](./34125-tactical-craft-online.json) |
 | Tactical Dual Pack: Necromunda - Underhive Wars & Space Hulk: Tactics | 223872 | [223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json](./223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json) |
 | Tactical Fighter | 56947 | [56947-tactical-fighter.json](./56947-tactical-fighter.json) |
+| Tactical Intervention | 5566 | [5566-tactical-intervention.json](./5566-tactical-intervention.json) |
 | Tactical Manager | 182375 | [182375-tactical-manager.json](./182375-tactical-manager.json) |
 | Tactical Manager | 86220 | [86220-tactical-manager.json](./86220-tactical-manager.json) |
 | Tactical Manager 2 | 182351 | [182351-tactical-manager-2.json](./182351-tactical-manager-2.json) |
@@ -2343,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taz Cebula's Brides of Vampira: The Circle of Seven | 273402 | [273402-taz-cebulas-brides-of-vampira-the-circle-of-seven.json](./273402-taz-cebulas-brides-of-vampira-the-circle-of-seven.json) |
 | Taz Express | 3345 | [3345-taz-express.json](./3345-taz-express.json) |
 | Taz in Escape From Mars | 8065 | [8065-taz-in-escape-from-mars.json](./8065-taz-in-escape-from-mars.json) |
+| Taz-Mania | 19137 | [19137-taz-mania.json](./19137-taz-mania.json) |
 | Taz-Mania | 341846 | [341846-taz-mania.json](./341846-taz-mania.json) |
 | Taz-Mania | 365672 | [365672-taz-mania.json](./365672-taz-mania.json) |
 | Taz-Mania | 8066 | [8066-taz-mania.json](./8066-taz-mania.json) |
@@ -5355,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Lamb | 329937 | [329937-the-black-lamb.json](./329937-the-black-lamb.json) |
 | The Black Masses | 113833 | [113833-the-black-masses.json](./113833-the-black-masses.json) |
 | The Black Mirror | 11261 | [11261-the-black-mirror.json](./11261-the-black-mirror.json) |
+| The Black Onyx | 6099 | [6099-the-black-onyx.json](./6099-the-black-onyx.json) |
 | The Black Onyx II: Search for the Fire Crystal | 25861 | [25861-the-black-onyx-ii-search-for-the-fire-crystal.json](./25861-the-black-onyx-ii-search-for-the-fire-crystal.json) |
 | The Black Pepper Crew | 184629 | [184629-the-black-pepper-crew.json](./184629-the-black-pepper-crew.json) |
 | The Black Pool | 226447 | [226447-the-black-pool.json](./226447-the-black-pool.json) |
@@ -19825,6 +19828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TOEIC Test: Jissen Tokkun | 65291 | [65291-toeic-test-jissen-tokkun.json](./65291-toeic-test-jissen-tokkun.json) |
 | TOEIC Test: Jissen Tokkun 2 | 141476 | [141476-toeic-test-jissen-tokkun-2.json](./141476-toeic-test-jissen-tokkun-2.json) |
 | ToeJam & Earl | 8389 | [8389-toejam-and-earl.json](./8389-toejam-and-earl.json) |
+| ToeJam & Earl III: Mission to Earth | 6202 | [6202-toejam-and-earl-iii-mission-to-earth.json](./6202-toejam-and-earl-iii-mission-to-earth.json) |
 | ToeJam & Earl in Panic on Funkotron | 11123 | [11123-toejam-and-earl-in-panic-on-funkotron.json](./11123-toejam-and-earl-in-panic-on-funkotron.json) |
 | ToeJam & Earl: Back in the Groove | 11122 | [11122-toejam-and-earl-back-in-the-groove.json](./11122-toejam-and-earl-back-in-the-groove.json) |
 | Toem | 118193 | [118193-toem.json](./118193-toem.json) |
@@ -24275,6 +24279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transport Giant: Gold Edition 2012 | 53856 | [53856-transport-giant-gold-edition-2012.json](./53856-transport-giant-gold-edition-2012.json) |
 | Transport INC: Map Pack | 226895 | [226895-transport-inc-map-pack.json](./226895-transport-inc-map-pack.json) |
 | Transport Tycoon | 5504 | [5504-transport-tycoon.json](./5504-transport-tycoon.json) |
+| Transport Tycoon | 5505 | [5505-transport-tycoon.json](./5505-transport-tycoon.json) |
 | Transport Tycoon Deluxe | 5502 | [5502-transport-tycoon-deluxe.json](./5502-transport-tycoon-deluxe.json) |
 | Transport-inators of Doooom! | 230298 | [230298-transport-inators-of-doooom.json](./230298-transport-inators-of-doooom.json) |
 | Transporter | 272896 | [272896-transporter.json](./272896-transporter.json) |
@@ -26833,6 +26838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Robots: Ultimate Edition | 86236 | [86236-twin-robots-ultimate-edition.json](./86236-twin-robots-ultimate-edition.json) |
 | Twin Rockets | 392290 | [392290-twin-rockets.json](./392290-twin-rockets.json) |
 | Twin Ruin | 119729 | [119729-twin-ruin.json](./119729-twin-ruin.json) |
+| Twin Saga | 19567 | [19567-twin-saga.json](./19567-twin-saga.json) |
 | Twin Sector | 11031 | [11031-twin-sector.json](./11031-twin-sector.json) |
 | Twin Series Vol. 4: Ham Ham Monster EX + Fantasy Puzzle Hamster Monogatari Mahou no Meikyuu 1.2.3 | 74274 | [74274-twin-series-vol-4-ham-ham-monster-ex-fantasy-puzzle-hamster-monogatari-mahou-no-meikyuu-1-2-3.json](./74274-twin-series-vol-4-ham-ham-monster-ex-fantasy-puzzle-hamster-monogatari-mahou-no-meikyuu-1-2-3.json) |
 | Twin Series Vol. 5: Wan-wan Meitantei EX + Mahou no Kuni no Cake-ya-san Monogatari | 97960 | [97960-twin-series-vol-5-wan-wan-meitantei-ex-mahou-no-kuni-no-cake-ya-san-monogatari.json](./97960-twin-series-vol-5-wan-wan-meitantei-ex-mahou-no-kuni-no-cake-ya-san-monogatari.json) |
