@@ -603,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: League - Vegas Legion Team Pack 2024 | 281942 | [281942-call-of-duty-league-vegas-legion-team-pack-2024.json](./281942-call-of-duty-league-vegas-legion-team-pack-2024.json) |
 | Call of Duty: Legacy | 294560 | [294560-call-of-duty-legacy.json](./294560-call-of-duty-legacy.json) |
 | Call of Duty: Legends of War | 113383 | [113383-call-of-duty-legends-of-war.json](./113383-call-of-duty-legends-of-war.json) |
+| Call of Duty: Modern Warfare - Mobilized | 21198 | [21198-call-of-duty-modern-warfare-mobilized.json](./21198-call-of-duty-modern-warfare-mobilized.json) |
 | Call of Duty: Modern Warfare - Precision Edition | 136342 | [136342-call-of-duty-modern-warfare-precision-edition.json](./136342-call-of-duty-modern-warfare-precision-edition.json) |
 | Call of Duty: Modern Warfare - Reflex Edition | 21199 | [21199-call-of-duty-modern-warfare-reflex-edition.json](./21199-call-of-duty-modern-warfare-reflex-edition.json) |
 | Call of Duty: Modern Warfare - Season Five | 136976 | [136976-call-of-duty-modern-warfare-season-five.json](./136976-call-of-duty-modern-warfare-season-five.json) |
@@ -10158,6 +10159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Coloring Book: Complete Edition - DRAW Special | 277905 | [277905-comic-coloring-book-complete-edition-draw-special.json](./277905-comic-coloring-book-complete-edition-draw-special.json) |
 | Comic Company Manager | 152697 | [152697-comic-company-manager.json](./152697-comic-company-manager.json) |
 | Comic Days H | 97382 | [97382-comic-days-h.json](./97382-comic-days-h.json) |
+| Comic Jumper: The Adventures of Captain Smiley | 21094 | [21094-comic-jumper-the-adventures-of-captain-smiley.json](./21094-comic-jumper-the-adventures-of-captain-smiley.json) |
 | Comic Kicker Euro 2000 | 92593 | [92593-comic-kicker-euro-2000.json](./92593-comic-kicker-euro-2000.json) |
 | Comic Party Portable | 59388 | [59388-comic-party-portable.json](./59388-comic-party-portable.json) |
 | Comic Road | 79778 | [79778-comic-road.json](./79778-comic-road.json) |
@@ -15531,6 +15533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Dragon | 374987 | [374987-cult-of-the-dragon.json](./374987-cult-of-the-dragon.json) |
 | Cult of the Lamb: Arcade Edition | 380184 | [380184-cult-of-the-lamb-arcade-edition.json](./380184-cult-of-the-lamb-arcade-edition.json) |
 | Cult of the Lamb: Cultist Edition | 204780 | [204780-cult-of-the-lamb-cultist-edition.json](./204780-cult-of-the-lamb-cultist-edition.json) |
+| Cult of the Lamb: Cultist Pack | 223540 | [223540-cult-of-the-lamb-cultist-pack.json](./223540-cult-of-the-lamb-cultist-pack.json) |
 | Cult of the Lamb: Deluxe Edition | 222943 | [222943-cult-of-the-lamb-deluxe-edition.json](./222943-cult-of-the-lamb-deluxe-edition.json) |
 | Cult of the Lamb: Heretic Edition | 250654 | [250654-cult-of-the-lamb-heretic-edition.json](./250654-cult-of-the-lamb-heretic-edition.json) |
 | Cult of the Lamb: Heretic Pack | 246922 | [246922-cult-of-the-lamb-heretic-pack.json](./246922-cult-of-the-lamb-heretic-pack.json) |
