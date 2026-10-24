@@ -6452,6 +6452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Inside Us: Roots of Evil | 150782 | [150782-devil-inside-us-roots-of-evil.json](./150782-devil-inside-us-roots-of-evil.json) |
 | Devil Island | 247392 | [247392-devil-island.json](./247392-devil-island.json) |
 | Devil Jam | 291855 | [291855-devil-jam.json](./291855-devil-jam.json) |
+| Devil Kings | 22568 | [22568-devil-kings.json](./22568-devil-kings.json) |
 | Devil Legion: Battle war | 193889 | [193889-devil-legion-battle-war.json](./193889-devil-legion-battle-war.json) |
 | Devil Mail | 318758 | [318758-devil-mail.json](./318758-devil-mail.json) |
 | Devil Maker: Tokyo | 39183 | [39183-devil-maker-tokyo.json](./39183-devil-maker-tokyo.json) |
@@ -10074,6 +10075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Starve Together: Console Edition | 99751 | [99751-dont-starve-together-console-edition.json](./99751-dont-starve-together-console-edition.json) |
 | Don't Starve Together: Starter Pack 2025 | 374238 | [374238-dont-starve-together-starter-pack-2025.json](./374238-dont-starve-together-starter-pack-2025.json) |
 | Don't Starve: Console Edition | 154347 | [154347-dont-starve-console-edition.json](./154347-dont-starve-console-edition.json) |
+| Don't Starve: Giant Edition | 21662 | [21662-dont-starve-giant-edition.json](./21662-dont-starve-giant-edition.json) |
 | Don't Starve: Giant Edition + Shipwrecked Expansion | 164840 | [164840-dont-starve-giant-edition-shipwrecked-expansion.json](./164840-dont-starve-giant-edition-shipwrecked-expansion.json) |
 | Don't Starve: Hamlet | 103326 | [103326-dont-starve-hamlet.json](./103326-dont-starve-hamlet.json) |
 | Don't Starve: Mega Pack | 167117 | [167117-dont-starve-mega-pack.json](./167117-dont-starve-mega-pack.json) |
@@ -12743,6 +12745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Channel | 75929 | [75929-dream-channel.json](./75929-dream-channel.json) |
 | Dream Channel Zero | 250289 | [250289-dream-channel-zero.json](./250289-dream-channel-zero.json) |
 | Dream Chaser | 257074 | [257074-dream-chaser.json](./257074-dream-chaser.json) |
+| Dream Chronicles | 21735 | [21735-dream-chronicles.json](./21735-dream-chronicles.json) |
 | Dream Chronicles 2: The Eternal Maze | 50502 | [50502-dream-chronicles-2-the-eternal-maze.json](./50502-dream-chronicles-2-the-eternal-maze.json) |
 | Dream Chronicles: The Book of Air | 50501 | [50501-dream-chronicles-the-book-of-air.json](./50501-dream-chronicles-the-book-of-air.json) |
 | Dream Chronicles: The Book of Fire | 66000 | [66000-dream-chronicles-the-book-of-fire.json](./66000-dream-chronicles-the-book-of-fire.json) |
@@ -13475,6 +13478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver / Driver 2 Twin Pack | 382533 | [382533-driver-driver-2-twin-pack.json](./382533-driver-driver-2-twin-pack.json) |
 | Driver 2 Advance | 49199 | [49199-driver-2-advance.json](./49199-driver-2-advance.json) |
 | Driver 2: Back on the Streets | 6391 | [6391-driver-2-back-on-the-streets.json](./6391-driver-2-back-on-the-streets.json) |
+| Driver 76 | 22018 | [22018-driver-76.json](./22018-driver-76.json) |
 | Driver Dan's Story Train | 269827 | [269827-driver-dans-story-train.json](./269827-driver-dans-story-train.json) |
 | Driver Manager | 415422 | [415422-driver-manager.json](./415422-driver-manager.json) |
 | Driver Mini | 240107 | [240107-driver-mini.json](./240107-driver-mini.json) |
