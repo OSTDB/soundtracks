@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macross: Last Frontier | 65467 | [65467-macross-last-frontier.json](./65467-macross-last-frontier.json) |
 | Macross: Shooting Insight | 230620 | [230620-macross-shooting-insight.json](./230620-macross-shooting-insight.json) |
 | Macross: Space Fight | 385323 | [385323-macross-space-fight.json](./385323-macross-space-fight.json) |
+| Macross: True Love Song | 37574 | [37574-macross-true-love-song.json](./37574-macross-true-love-song.json) |
 | Macrotis: A Mother's Journey | 100581 | [100581-macrotis-a-mothers-journey.json](./100581-macrotis-a-mothers-journey.json) |
 | Macs World | 193714 | [193714-macs-world.json](./193714-macs-world.json) |
 | MacShot | 192447 | [192447-macshot.json](./192447-macshot.json) |
@@ -1175,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Drop | 71552 | [71552-magical-drop.json](./71552-magical-drop.json) |
 | Magical Drop 3 | 45319 | [45319-magical-drop-3.json](./45319-magical-drop-3.json) |
 | Magical Drop CPC | 170778 | [170778-magical-drop-cpc.json](./170778-magical-drop-cpc.json) |
+| Magical Drop for WonderSwan | 37573 | [37573-magical-drop-for-wonderswan.json](./37573-magical-drop-for-wonderswan.json) |
 | Magical Drop III: Toretate Zoukangou! | 171031 | [171031-magical-drop-iii-toretate-zoukangou.json](./171031-magical-drop-iii-toretate-zoukangou.json) |
 | Magical Drop III: Yokubari Tokudaigou! | 170790 | [170790-magical-drop-iii-yokubari-tokudaigou.json](./170790-magical-drop-iii-yokubari-tokudaigou.json) |
 | Magical Drop VI | 221060 | [221060-magical-drop-vi.json](./221060-magical-drop-vi.json) |
@@ -1969,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makai Toushi SaGa | 84142 | [84142-makai-toushi-saga.json](./84142-makai-toushi-saga.json) |
 | Makai Wars | 51444 | [51444-makai-wars.json](./51444-makai-wars.json) |
 | Makaimura | 393958 | [393958-makaimura.json](./393958-makaimura.json) |
+| Makaimura for WonderSwan | 37532 | [37532-makaimura-for-wonderswan.json](./37532-makaimura-for-wonderswan.json) |
 | Makaimura Gaiden: The Demon Darkness | 84640 | [84640-makaimura-gaiden-the-demon-darkness.json](./84640-makaimura-gaiden-the-demon-darkness.json) |
 | Makaimura Online | 63297 | [63297-makaimura-online.json](./63297-makaimura-online.json) |
 | Makato: Your Fantasy Shop | 240629 | [240629-makato-your-fantasy-shop.json](./240629-makato-your-fantasy-shop.json) |
@@ -5619,6 +5622,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot Parts Collection 2 | 92534 | [92534-medarot-parts-collection-2.json](./92534-medarot-parts-collection-2.json) |
 | Medarot R | 92425 | [92425-medarot-r.json](./92425-medarot-r.json) |
 | Medarot R Parts Collection | 92537 | [92537-medarot-r-parts-collection.json](./92537-medarot-r-parts-collection.json) |
+| Medarot: Perfect Edition - Kabuto Version | 37571 | [37571-medarot-perfect-edition-kabuto-version.json](./37571-medarot-perfect-edition-kabuto-version.json) |
+| Medarot: Perfect Edition - Kuwagata Version | 37570 | [37570-medarot-perfect-edition-kuwagata-version.json](./37570-medarot-perfect-edition-kuwagata-version.json) |
 | Medarots S: Unlimited Nova | 126475 | [126475-medarots-s-unlimited-nova.json](./126475-medarots-s-unlimited-nova.json) |
 | Medchess | 240781 | [240781-medchess.json](./240781-medchess.json) |
 | MedCorps | 58758 | [58758-medcorps.json](./58758-medcorps.json) |
@@ -7679,6 +7684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta Apes | 235261 | [235261-meta-apes.json](./235261-meta-apes.json) |
 | Meta Ball | 237245 | [237245-meta-ball.json](./237245-meta-ball.json) |
 | Meta Checkpoint | 179442 | [179442-meta-checkpoint.json](./179442-meta-checkpoint.json) |
+| Meta Communication Therapy: Nee Kiite! | 37572 | [37572-meta-communication-therapy-nee-kiite.json](./37572-meta-communication-therapy-nee-kiite.json) |
 | Meta Form | 198485 | [198485-meta-form.json](./198485-meta-form.json) |
 | Meta Fox | 39689 | [39689-meta-fox.json](./39689-meta-fox.json) |
 | Meta Knightmare Ultra | 271411 | [271411-meta-knightmare-ultra.json](./271411-meta-knightmare-ultra.json) |
@@ -10113,6 +10119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ming Dynasty: Cards & Court | 390606 | [390606-ming-dynasty-cards-and-court.json](./390606-ming-dynasty-cards-and-court.json) |
 | Míngjiào Fēngyún zhī Jiǔ Yīn Jiǔ Yáng | 155014 | [155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json](./155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json) |
 | Mingle | 214416 | [214416-mingle.json](./214416-mingle.json) |
+| Mingle Magnet | 37567 | [37567-mingle-magnet.json](./37567-mingle-magnet.json) |
 | Míngmíng Rú Yuè | 154333 | [154333-mingming-ru-yue.json](./154333-mingming-ru-yue.json) |
 | Mingy Jongo | 60609 | [60609-mingy-jongo.json](./60609-mingy-jongo.json) |
 | Mìngyùn Biānjì | 389498 | [389498-mingyun-bianji.json](./389498-mingyun-bianji.json) |
@@ -11526,6 +11533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam Gihren's Greed: The fear of Axis | 56745 | [56745-mobile-suit-gundam-gihrens-greed-the-fear-of-axis.json](./56745-mobile-suit-gundam-gihrens-greed-the-fear-of-axis.json) |
 | Mobile Suit Gundam Gihren's Greed: The Fear of Axis V | 75728 | [75728-mobile-suit-gundam-gihrens-greed-the-fear-of-axis-v.json](./75728-mobile-suit-gundam-gihrens-greed-the-fear-of-axis-v.json) |
 | Mobile Suit Gundam Gihren's Greed: Zeon Revolutionary War | 75727 | [75727-mobile-suit-gundam-gihrens-greed-zeon-revolutionary-war.json](./75727-mobile-suit-gundam-gihrens-greed-zeon-revolutionary-war.json) |
+| Mobile Suit Gundam MSVS | 37531 | [37531-mobile-suit-gundam-msvs.json](./37531-mobile-suit-gundam-msvs.json) |
 | Mobile Suit Gundam SEED | 66591 | [66591-mobile-suit-gundam-seed.json](./66591-mobile-suit-gundam-seed.json) |
 | Mobile Suit Gundam SEED Destiny | 66594 | [66594-mobile-suit-gundam-seed-destiny.json](./66594-mobile-suit-gundam-seed-destiny.json) |
 | Mobile Suit Gundam SEED: Battle Assault | 49325 | [49325-mobile-suit-gundam-seed-battle-assault.json](./49325-mobile-suit-gundam-seed-battle-assault.json) |
@@ -11811,6 +11819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moero!! Nettou Yakyuu '88 | 59990 | [59990-moero-nettou-yakyuu-88.json](./59990-moero-nettou-yakyuu-88.json) |
 | Moero!! Pro Yakyuu 2016 | 218985 | [218985-moero-pro-yakyuu-2016.json](./218985-moero-pro-yakyuu-2016.json) |
 | Moero!! Pro Yakyuu Homerun Kyousou | 40387 | [40387-moero-pro-yakyuu-homerun-kyousou.json](./40387-moero-pro-yakyuu-homerun-kyousou.json) |
+| Moero!! Pro Yakyuu Rookies | 37566 | [37566-moero-pro-yakyuu-rookies.json](./37566-moero-pro-yakyuu-rookies.json) |
 | Moeru Danmaku STG Moedan | 204490 | [204490-moeru-danmaku-stg-moedan.json](./204490-moeru-danmaku-stg-moedan.json) |
 | Moeru Mahjong: Moejong! | 398475 | [398475-moeru-mahjong-moejong.json](./398475-moeru-mahjong-moejong.json) |
 | Moeru! Onii-san | 48327 | [48327-moeru-onii-san.json](./48327-moeru-onii-san.json) |
