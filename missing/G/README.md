@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameCenter CX: Arino no Chousenjou 2 | 79923 | [79923-gamecenter-cx-arino-no-chousenjou-2.json](./79923-gamecenter-cx-arino-no-chousenjou-2.json) |
 | Gamecraft | 118424 | [118424-gamecraft.json](./118424-gamecraft.json) |
 | Gameday Live | 82066 | [82066-gameday-live.json](./82066-gameday-live.json) |
+| Gamedec | 121531 | [121531-gamedec.json](./121531-gamedec.json) |
 | Gamedec: Dafne Bennet | 196148 | [196148-gamedec-dafne-bennet.json](./196148-gamedec-dafne-bennet.json) |
 | Gamedec: Definitive Edition | 219788 | [219788-gamedec-definitive-edition.json](./219788-gamedec-definitive-edition.json) |
 | Gamedec: Definitive Edition - Free Characters Bundle | 219780 | [219780-gamedec-definitive-edition-free-characters-bundle.json](./219780-gamedec-definitive-edition-free-characters-bundle.json) |
