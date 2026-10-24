@@ -2806,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Inlay: Safari Edition | 52550 | [52550-adventure-inlay-safari-edition.json](./52550-adventure-inlay-safari-edition.json) |
 | Adventure Interpreter | 73272 | [73272-adventure-interpreter.json](./73272-adventure-interpreter.json) |
 | Adventure Island | 100068 | [100068-adventure-island.json](./100068-adventure-island.json) |
+| Adventure Island 3 | 8737 | [8737-adventure-island-3.json](./8737-adventure-island-3.json) |
 | Adventure Island II | 6471 | [6471-adventure-island-ii.json](./6471-adventure-island-ii.json) |
 | Adventure Island: The Beginning | 50697 | [50697-adventure-island-the-beginning.json](./50697-adventure-island-the-beginning.json) |
 | Adventure Joystick | 214687 | [214687-adventure-joystick.json](./214687-adventure-joystick.json) |
@@ -2950,7 +2951,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -4687,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akin Vol 2 | 50505 | [50505-akin-vol-2.json](./50505-akin-vol-2.json) |
 | Akina: Dotei Hunt Hen | 97773 | [97773-akina-dotei-hunt-hen.json](./97773-akina-dotei-hunt-hen.json) |
 | Akinakes | 342231 | [342231-akinakes.json](./342231-akinakes.json) |
+| Akinator | 18124 | [18124-akinator.json](./18124-akinator.json) |
 | Akindo | 200052 | [200052-akindo.json](./200052-akindo.json) |
 | Akinofa | 152700 | [152700-akinofa.json](./152700-akinofa.json) |
 | Akir8 | 178852 | [178852-akir8.json](./178852-akir8.json) |
@@ -8109,6 +8110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animamundi: Dark Alchemist | 72665 | [72665-animamundi-dark-alchemist.json](./72665-animamundi-dark-alchemist.json) |
 | Animaniacs | 228405 | [228405-animaniacs.json](./228405-animaniacs.json) |
 | Animaniacs | 228407 | [228407-animaniacs.json](./228407-animaniacs.json) |
+| Animaniacs | 7756 | [7756-animaniacs.json](./7756-animaniacs.json) |
 | Animaniacs Game Pack | 78028 | [78028-animaniacs-game-pack.json](./78028-animaniacs-game-pack.json) |
 | Animaniacs Splat Ball | 70771 | [70771-animaniacs-splat-ball.json](./70771-animaniacs-splat-ball.json) |
 | Animaniacs: A Gigantic Adventure | 69227 | [69227-animaniacs-a-gigantic-adventure.json](./69227-animaniacs-a-gigantic-adventure.json) |
@@ -10931,6 +10933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arizona Derby | 116376 | [116376-arizona-derby.json](./116376-arizona-derby.json) |
 | Arizona Derby 2 | 188873 | [188873-arizona-derby-2.json](./188873-arizona-derby-2.json) |
 | Arizona Rose and the Pharaohs' Riddles | 29870 | [29870-arizona-rose-and-the-pharaohs-riddles.json](./29870-arizona-rose-and-the-pharaohs-riddles.json) |
+| Arizona Sunshine | 18303 | [18303-arizona-sunshine.json](./18303-arizona-sunshine.json) |
 | Arizona Sunshine | 404896 | [404896-arizona-sunshine.json](./404896-arizona-sunshine.json) |
 | Arizona Sunshine II | 250628 | [250628-arizona-sunshine-ii.json](./250628-arizona-sunshine-ii.json) |
 | Arizona Sunshine VR Remake | 313768 | [313768-arizona-sunshine-vr-remake.json](./313768-arizona-sunshine-vr-remake.json) |
@@ -12251,6 +12254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: Tombs of the Fallen | 222834 | [222834-assassins-creed-valhalla-tombs-of-the-fallen.json](./222834-assassins-creed-valhalla-tombs-of-the-fallen.json) |
 | Assassin's Creed Valhalla: Tombs of the Fallen Pack 2 | 222835 | [222835-assassins-creed-valhalla-tombs-of-the-fallen-pack-2.json](./222835-assassins-creed-valhalla-tombs-of-the-fallen-pack-2.json) |
 | Assassin's Creed Valhalla: Ultimate Edition | 136132 | [136132-assassins-creed-valhalla-ultimate-edition.json](./136132-assassins-creed-valhalla-ultimate-edition.json) |
+| Assassin's Creed Valhalla: Wrath of the Druids | 140174 | [140174-assassins-creed-valhalla-wrath-of-the-druids.json](./140174-assassins-creed-valhalla-wrath-of-the-druids.json) |
 | Assassin's Creed: Altair's Chronicles | 21349 | [21349-assassins-creed-altairs-chronicles.json](./21349-assassins-creed-altairs-chronicles.json) |
 | Assassin's Creed: Anthology | 45120 | [45120-assassins-creed-anthology.json](./45120-assassins-creed-anthology.json) |
 | Assassin's Creed: Bloodlines | 10661 | [10661-assassins-creed-bloodlines.json](./10661-assassins-creed-bloodlines.json) |
@@ -12298,6 +12302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassinvisible | 378604 | [378604-assassinvisible.json](./378604-assassinvisible.json) |
 | Assau!t | 168221 | [168221-assau-t.json](./168221-assau-t.json) |
 | Assault | 6881 | [6881-assault.json](./6881-assault.json) |
+| Assault Android Cactus | 8644 | [8644-assault-android-cactus.json](./8644-assault-android-cactus.json) |
 | Assault Android Cactus+ | 115456 | [115456-assault-android-cactus.json](./115456-assault-android-cactus.json) |
 | Assault at Wounded Ankle | 350993 | [350993-assault-at-wounded-ankle.json](./350993-assault-at-wounded-ankle.json) |
 | Assault Bandit | 240347 | [240347-assault-bandit.json](./240347-assault-bandit.json) |
@@ -14486,6 +14491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axel & Pixel | 14845 | [14845-axel-and-pixel.json](./14845-axel-and-pixel.json) |
 | Axel City | 124767 | [124767-axel-city.json](./124767-axel-city.json) |
 | Axel's Journey | 183414 | [183414-axels-journey.json](./183414-axels-journey.json) |
+| Axelay | 6570 | [6570-axelay.json](./6570-axelay.json) |
 | Axembler | 265484 | [265484-axembler.json](./265484-axembler.json) |
 | Axes | 140967 | [140967-axes.json](./140967-axes.json) |
 | Axes and Arrows | 34355 | [34355-axes-and-arrows.json](./34355-axes-and-arrows.json) |
