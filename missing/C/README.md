@@ -3209,6 +3209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat of Khronos | 182356 | [182356-cat-of-khronos.json](./182356-cat-of-khronos.json) |
 | Cat of Monte Cristo | 155008 | [155008-cat-of-monte-cristo.json](./155008-cat-of-monte-cristo.json) |
 | Cat on a Diet | 33408 | [33408-cat-on-a-diet.json](./33408-cat-on-a-diet.json) |
+| Cat or Bread? | 29975 | [29975-cat-or-bread.json](./29975-cat-or-bread.json) |
 | Cat or Ice Cream? | 183543 | [183543-cat-or-ice-cream.json](./183543-cat-or-ice-cream.json) |
 | Cat Packs | 152690 | [152690-cat-packs.json](./152690-cat-packs.json) |
 | Cat Palette: Merging Colorful Kittens | 277755 | [277755-cat-palette-merging-colorful-kittens.json](./277755-cat-palette-merging-colorful-kittens.json) |
@@ -6656,6 +6657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicle of Daneya | 156969 | [156969-chronicle-of-daneya.json](./156969-chronicle-of-daneya.json) |
 | Chronicle of Ekan | 169980 | [169980-chronicle-of-ekan.json](./169980-chronicle-of-ekan.json) |
 | Chronicle of Forgotten Times: Pawn of the Gods | 202642 | [202642-chronicle-of-forgotten-times-pawn-of-the-gods.json](./202642-chronicle-of-forgotten-times-pawn-of-the-gods.json) |
+| Chronicle of Innsmouth | 28527 | [28527-chronicle-of-innsmouth.json](./28527-chronicle-of-innsmouth.json) |
 | Chronicle of Wuxia & Xianxia Survivors | 406548 | [406548-chronicle-of-wuxia-and-xianxia-survivors.json](./406548-chronicle-of-wuxia-and-xianxia-survivors.json) |
 | Chronicle Survivors | 287198 | [287198-chronicle-survivors.json](./287198-chronicle-survivors.json) |
 | Chronicle: Rewritten | 307845 | [307845-chronicle-rewritten.json](./307845-chronicle-rewritten.json) |
@@ -9477,6 +9479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colonel Wasabi | 345577 | [345577-colonel-wasabi.json](./345577-colonel-wasabi.json) |
 | Colonia | 207511 | [207511-colonia.json](./207511-colonia.json) |
 | Colonial Combat | 332651 | [332651-colonial-combat.json](./332651-colonial-combat.json) |
+| Colonial Conquest | 26015 | [26015-colonial-conquest.json](./26015-colonial-conquest.json) |
 | Colonial Conquest | 97307 | [97307-colonial-conquest.json](./97307-colonial-conquest.json) |
 | Colonials Programme | 142179 | [142179-colonials-programme.json](./142179-colonials-programme.json) |
 | Coloniam | 127737 | [127737-coloniam.json](./127737-coloniam.json) |
@@ -10711,6 +10714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conduct Together!: Track Pack | 307246 | [307246-conduct-together-track-pack.json](./307246-conduct-together-track-pack.json) |
 | Conduct Together!: Track Pack 2 | 307247 | [307247-conduct-together-track-pack-2.json](./307247-conduct-together-track-pack-2.json) |
 | Conductor | 179599 | [179599-conductor.json](./179599-conductor.json) |
+| Conductor | 28508 | [28508-conductor.json](./28508-conductor.json) |
 | Conductor & Abode | 52831 | [52831-conductor-and-abode.json](./52831-conductor-and-abode.json) |
 | Conductor Cat | 335364 | [335364-conductor-cat.json](./335364-conductor-cat.json) |
 | Conductus | 402437 | [402437-conductus.json](./402437-conductus.json) |
@@ -10904,6 +10908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquered Kingdoms | 69804 | [69804-conquered-kingdoms.json](./69804-conquered-kingdoms.json) |
 | Conquered Kingdoms: Scenario Disk #1 | 94610 | [94610-conquered-kingdoms-scenario-disk-1.json](./94610-conquered-kingdoms-scenario-disk-1.json) |
 | Conquering Everest | 262399 | [262399-conquering-everest.json](./262399-conquering-everest.json) |
+| Conquering New Ground: 1775 Rebellion | 26177 | [26177-conquering-new-ground-1775-rebellion.json](./26177-conquering-new-ground-1775-rebellion.json) |
 | Conquering Percents | 152026 | [152026-conquering-percents.json](./152026-conquering-percents.json) |
 | Conquering the Queen | 127965 | [127965-conquering-the-queen.json](./127965-conquering-the-queen.json) |
 | Conquering Worlds | 59903 | [59903-conquering-worlds.json](./59903-conquering-worlds.json) |
