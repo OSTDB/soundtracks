@@ -9009,12 +9009,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Make an Atomic Bomb in Your Garden | 391727 | [391727-how-to-make-an-atomic-bomb-in-your-garden.json](./391727-how-to-make-an-atomic-bomb-in-your-garden.json) |
 | How to Make Slime: DIY Jelly Toy Play Fun | 96975 | [96975-how-to-make-slime-diy-jelly-toy-play-fun.json](./96975-how-to-make-slime-diy-jelly-toy-play-fun.json) |
 | How to Make Slime: DIY Slime Making for Kids | 90838 | [90838-how-to-make-slime-diy-slime-making-for-kids.json](./90838-how-to-make-slime-diy-slime-making-for-kids.json) |
+| How to Make Your Grandpa Happy | 31469 | [31469-how-to-make-your-grandpa-happy.json](./31469-how-to-make-your-grandpa-happy.json) |
 | How to Mech Friends and Influence Goblings | 184800 | [184800-how-to-mech-friends-and-influence-goblings.json](./184800-how-to-mech-friends-and-influence-goblings.json) |
 | How to Melt a Maiden's Heart | 326280 | [326280-how-to-melt-a-maidens-heart.json](./326280-how-to-melt-a-maidens-heart.json) |
 | How to Punish a Witch | 163782 | [163782-how-to-punish-a-witch.json](./163782-how-to-punish-a-witch.json) |
 | How to Raise a Wolf Girl | 122825 | [122825-how-to-raise-a-wolf-girl.json](./122825-how-to-raise-a-wolf-girl.json) |
 | How to Ride Elevators Like a Human | 414761 | [414761-how-to-ride-elevators-like-a-human.json](./414761-how-to-ride-elevators-like-a-human.json) |
 | How to Say Goodbye | 126445 | [126445-how-to-say-goodbye.json](./126445-how-to-say-goodbye.json) |
+| How to shoot a criminal | 31565 | [31565-how-to-shoot-a-criminal.json](./31565-how-to-shoot-a-criminal.json) |
 | How to Sing to Open Your Heart: Remastered | 188424 | [188424-how-to-sing-to-open-your-heart-remastered.json](./188424-how-to-sing-to-open-your-heart-remastered.json) |
 | How to Snooker | 60950 | [60950-how-to-snooker.json](./60950-how-to-snooker.json) |
 | How to Sovle Rubiks Cube in 30 seconds | 103669 | [103669-how-to-sovle-rubiks-cube-in-30-seconds.json](./103669-how-to-sovle-rubiks-cube-in-30-seconds.json) |
