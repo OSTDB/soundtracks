@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Hockey | 287527 | [287527-ice-hockey.json](./287527-ice-hockey.json) |
 | Ice Hockey | 359191 | [359191-ice-hockey.json](./359191-ice-hockey.json) |
 | Ice Hockey | 57656 | [57656-ice-hockey.json](./57656-ice-hockey.json) |
+| Ice Hockey Club Manager 2005 | 25433 | [25433-ice-hockey-club-manager-2005.json](./25433-ice-hockey-club-manager-2005.json) |
 | Ice Hockey Slovakia 2011 | 85187 | [85187-ice-hockey-slovakia-2011.json](./85187-ice-hockey-slovakia-2011.json) |
 | Ice Hunter | 76249 | [76249-ice-hunter.json](./76249-ice-hunter.json) |
 | Ice Jump | 344240 | [344240-ice-jump.json](./344240-ice-jump.json) |
@@ -5386,6 +5387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Italy 1990 | 85520 | [85520-italy-1990.json](./85520-italy-1990.json) |
 | Itazura Madness | 305907 | [305907-itazura-madness.json](./305907-itazura-madness.json) |
 | Itazura Tenshi | 224946 | [224946-itazura-tenshi.json](./224946-itazura-tenshi.json) |
+| Itch | 25436 | [25436-itch.json](./25436-itch.json) |
 | Itch! | 143745 | [143745-itch.json](./143745-itch.json) |
 | Itchana Tchones Zombie Terror | 285139 | [285139-itchana-tchones-zombie-terror.json](./285139-itchana-tchones-zombie-terror.json) |
 | Itchy Scratchy | 215547 | [215547-itchy-scratchy.json](./215547-itchy-scratchy.json) |
