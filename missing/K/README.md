@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakos | 307877 | [307877-kakos.json](./307877-kakos.json) |
 | Kakosatsu | 109181 | [109181-kakosatsu.json](./109181-kakosatsu.json) |
 | Kaku-San-Sei Million Arthur | 44073 | [44073-kaku-san-sei-million-arthur.json](./44073-kaku-san-sei-million-arthur.json) |
+| Kaku: Ancient Seal | 126643 | [126643-kaku-ancient-seal.json](./126643-kaku-ancient-seal.json) |
 | Kakuchou Shoujo-kei Trinary | 346771 | [346771-kakuchou-shoujo-kei-trinary.json](./346771-kakuchou-shoujo-kei-trinary.json) |
 | Kakudo | 212985 | [212985-kakudo.json](./212985-kakudo.json) |
 | Kakuge Yarou: Fighting Game Creator | 43920 | [43920-kakuge-yarou-fighting-game-creator.json](./43920-kakuge-yarou-fighting-game-creator.json) |
@@ -2271,7 +2272,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -2950,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingsborn | 126279 | [126279-kingsborn.json](./126279-kingsborn.json) |
 | Kingsburg Serving the Crown | 205090 | [205090-kingsburg-serving-the-crown.json](./205090-kingsburg-serving-the-crown.json) |
 | Kingshunt | 114738 | [114738-kingshunt.json](./114738-kingshunt.json) |
+| KingSim | 126948 | [126948-kingsim.json](./126948-kingsim.json) |
 | Kingsland Online | 137551 | [137551-kingsland-online.json](./137551-kingsland-online.json) |
 | Kingslayer Tactics | 117065 | [117065-kingslayer-tactics.json](./117065-kingslayer-tactics.json) |
 | Kingslayers | 174052 | [174052-kingslayers.json](./174052-kingslayers.json) |
