@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2417,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Scouter | 379699 | [379699-baseball-scouter.json](./379699-baseball-scouter.json) |
 | Baseball Star | 46753 | [46753-baseball-star.json](./46753-baseball-star.json) |
 | Baseball Stars | 273094 | [273094-baseball-stars.json](./273094-baseball-stars.json) |
+| Baseball Stars 2 | 9942 | [9942-baseball-stars-2.json](./9942-baseball-stars-2.json) |
 | Baseball Stars II | 48296 | [48296-baseball-stars-ii.json](./48296-baseball-stars-ii.json) |
 | Baseball Stars Professional | 39595 | [39595-baseball-stars-professional.json](./39595-baseball-stars-professional.json) |
 | Baseball Stars: Pocket Sports Series | 85995 | [85995-baseball-stars-pocket-sports-series.json](./85995-baseball-stars-pocket-sports-series.json) |
@@ -2953,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Dungeon: Risen | 175438 | [175438-battle-dungeon-risen.json](./175438-battle-dungeon-risen.json) |
 | Battle Echoes | 283984 | [283984-battle-echoes.json](./283984-battle-echoes.json) |
 | Battle Engine Aquila | 344462 | [344462-battle-engine-aquila.json](./344462-battle-engine-aquila.json) |
+| Battle Engine Aquila | 5741 | [5741-battle-engine-aquila.json](./5741-battle-engine-aquila.json) |
 | Battle Factory Showdown | 306805 | [306805-battle-factory-showdown.json](./306805-battle-factory-showdown.json) |
 | Battle Fantasy | 46393 | [46393-battle-fantasy.json](./46393-battle-fantasy.json) |
 | Battle Fighter | 55861 | [55861-battle-fighter.json](./55861-battle-fighter.json) |
@@ -4725,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beeline | 15669 | [15669-beeline.json](./15669-beeline.json) |
 | Beellionaire Idle | 422147 | [422147-beellionaire-idle.json](./422147-beellionaire-idle.json) |
 | Beena Town he Youkoso | 300416 | [300416-beena-town-he-youkoso.json](./300416-beena-town-he-youkoso.json) |
+| Beeny | 219462 | [219462-beeny.json](./219462-beeny.json) |
 | Beep | 12879 | [12879-beep.json](./12879-beep.json) |
 | Beep | 133952 | [133952-beep.json](./133952-beep.json) |
 | Beep | 331671 | [331671-beep.json](./331671-beep.json) |
@@ -5570,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyblade X Xone | 314959 | [314959-beyblade-x-xone.json](./314959-beyblade-x-xone.json) |
 | Beyblade: Burst Rivals | 108628 | [108628-beyblade-burst-rivals.json](./108628-beyblade-burst-rivals.json) |
 | Beyblade: Evolution | 21566 | [21566-beyblade-evolution.json](./21566-beyblade-evolution.json) |
+| Beyblade: G-Revolution | 9726 | [9726-beyblade-g-revolution.json](./9726-beyblade-g-revolution.json) |
 | Beyblade: Let it Rip! | 4653 | [4653-beyblade-let-it-rip.json](./4653-beyblade-let-it-rip.json) |
 | Beyblade: Metal Fusion Cyber Pegasus | 48033 | [48033-beyblade-metal-fusion-cyber-pegasus.json](./48033-beyblade-metal-fusion-cyber-pegasus.json) |
 | Beyond | 111191 | [111191-beyond.json](./111191-beyond.json) |
@@ -6671,6 +6676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bioshock 2: Rapture Edition | 44571 | [44571-bioshock-2-rapture-edition.json](./44571-bioshock-2-rapture-edition.json) |
 | BioShock 2: Rapture Metro Pack | 374312 | [374312-bioshock-2-rapture-metro-pack.json](./374312-bioshock-2-rapture-metro-pack.json) |
 | BioShock 2: Special Edition | 47440 | [47440-bioshock-2-special-edition.json](./47440-bioshock-2-special-edition.json) |
+| BioShock 2: The Protector Trials | 214801 | [214801-bioshock-2-the-protector-trials.json](./214801-bioshock-2-the-protector-trials.json) |
 | BioShock Infinite: Clash in the Clouds | 20115 | [20115-bioshock-infinite-clash-in-the-clouds.json](./20115-bioshock-infinite-clash-in-the-clouds.json) |
 | BioShock Infinite: Industrial Revolution | 64441 | [64441-bioshock-infinite-industrial-revolution.json](./64441-bioshock-infinite-industrial-revolution.json) |
 | BioShock Infinite: The Complete Edition | 41595 | [41595-bioshock-infinite-the-complete-edition.json](./41595-bioshock-infinite-the-complete-edition.json) |
@@ -8815,6 +8821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bowl: Chaos Edition | 16400 | [16400-blood-bowl-chaos-edition.json](./16400-blood-bowl-chaos-edition.json) |
 | Blood Bowl: Death Zone | 105663 | [105663-blood-bowl-death-zone.json](./105663-blood-bowl-death-zone.json) |
 | Blood Bowl: Kerrunch | 34380 | [34380-blood-bowl-kerrunch.json](./34380-blood-bowl-kerrunch.json) |
+| Blood Bowl: Legendary Edition | 10055 | [10055-blood-bowl-legendary-edition.json](./10055-blood-bowl-legendary-edition.json) |
 | Blood Branched Sakura | 129754 | [129754-blood-branched-sakura.json](./129754-blood-branched-sakura.json) |
 | Blood Bros. | 39612 | [39612-blood-bros.json](./39612-blood-bros.json) |
 | Blood Brothers | 120125 | [120125-blood-brothers.json](./120125-blood-brothers.json) |
@@ -10329,6 +10336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone Stuff | 407338 | [407338-bone-stuff.json](./407338-bone-stuff.json) |
 | Bone Voyage | 116713 | [116713-bone-voyage.json](./116713-bone-voyage.json) |
 | Bone Warper | 323777 | [323777-bone-warper.json](./323777-bone-warper.json) |
+| Bone: Out From Boneville | 10059 | [10059-bone-out-from-boneville.json](./10059-bone-out-from-boneville.json) |
 | Bone's Cafe | 188921 | [188921-bones-cafe.json](./188921-bones-cafe.json) |
 | BoneBone | 19752 | [19752-bonebone.json](./19752-bonebone.json) |
 | BoneCraft | 51268 | [51268-bonecraft.json](./51268-bonecraft.json) |
