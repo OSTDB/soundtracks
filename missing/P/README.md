@@ -11495,6 +11495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Overseer | 232964 | [232964-pretty-overseer.json](./232964-pretty-overseer.json) |
 | Pretty Please | 177384 | [177384-pretty-please.json](./177384-pretty-please.json) |
 | Pretty Princess Party | 135339 | [135339-pretty-princess-party.json](./135339-pretty-princess-party.json) |
+| Pretty Princess: Magical Garden Island | 248295 | [248295-pretty-princess-magical-garden-island.json](./248295-pretty-princess-magical-garden-island.json) |
 | Pretty Rhythm: My Deco Rainbow Wedding | 141150 | [141150-pretty-rhythm-my-deco-rainbow-wedding.json](./141150-pretty-rhythm-my-deco-rainbow-wedding.json) |
 | Pretty Safe Airlines | 125480 | [125480-pretty-safe-airlines.json](./125480-pretty-safe-airlines.json) |
 | Pretty Soldier Sailor Moon | 46788 | [46788-pretty-soldier-sailor-moon.json](./46788-pretty-soldier-sailor-moon.json) |
@@ -11895,6 +11896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prinny Presents NIS Classics Volumes 1-3 Bundle | 234638 | [234638-prinny-presents-nis-classics-volumes-1-3-bundle.json](./234638-prinny-presents-nis-classics-volumes-1-3-bundle.json) |
 | Prinny Presents: NIS Classics Vol 1 - Deluxe Edition | 148545 | [148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json](./148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json) |
 | Prinny Presents: NIS Classics Vol 1 - Limited Edition | 165450 | [165450-prinny-presents-nis-classics-vol-1-limited-edition.json](./165450-prinny-presents-nis-classics-vol-1-limited-edition.json) |
+| Prinny Presents: NIS Classics Vol 2 | 170033 | [170033-prinny-presents-nis-classics-vol-2.json](./170033-prinny-presents-nis-classics-vol-2.json) |
 | Prinny Presents: NIS Classics Vol 3 | 194961 | [194961-prinny-presents-nis-classics-vol-3.json](./194961-prinny-presents-nis-classics-vol-3.json) |
 | Prinny Presents: NIS Classics Vol 3 - Deluxe Edition | 197610 | [197610-prinny-presents-nis-classics-vol-3-deluxe-edition.json](./197610-prinny-presents-nis-classics-vol-3-deluxe-edition.json) |
 | Prinny Presents: NIS Classics Volume 2 - Deluxe Edition | 170038 | [170038-prinny-presents-nis-classics-volume-2-deluxe-edition.json](./170038-prinny-presents-nis-classics-volume-2-deluxe-edition.json) |
