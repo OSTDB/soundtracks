@@ -2264,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passpartout 2: The Lost Artist | 152185 | [152185-passpartout-2-the-lost-artist.json](./152185-passpartout-2-the-lost-artist.json) |
 | Passpartout 2: The Lost Artist - Special Edition | 250284 | [250284-passpartout-2-the-lost-artist-special-edition.json](./250284-passpartout-2-the-lost-artist-special-edition.json) |
 | Passpartout: The One Man Band | 263452 | [263452-passpartout-the-one-man-band.json](./263452-passpartout-the-one-man-band.json) |
+| Passpartout: The Starving Artist | 25214 | [25214-passpartout-the-starving-artist.json](./25214-passpartout-the-starving-artist.json) |
 | Passport to Amsterdam | 55850 | [55850-passport-to-amsterdam.json](./55850-passport-to-amsterdam.json) |
 | Passport to Barcelona | 55873 | [55873-passport-to-barcelona.json](./55873-passport-to-barcelona.json) |
 | Passport to London | 55851 | [55851-passport-to-london.json](./55851-passport-to-london.json) |
@@ -9106,6 +9107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Psychic Seeds | 157527 | [157527-pokemon-psychic-seeds.json](./157527-pokemon-psychic-seeds.json) |
 | Pokémon Puffy Pink | 327204 | [327204-pokemon-puffy-pink.json](./327204-pokemon-puffy-pink.json) |
 | Pokémon PureBlue | 233600 | [233600-pokemon-pureblue.json](./233600-pokemon-pureblue.json) |
+| Pokémon Puzzle Challenge | 49857 | [49857-pokemon-puzzle-challenge.json](./49857-pokemon-puzzle-challenge.json) |
 | Pokémon Puzzle Collection | 66028 | [66028-pokemon-puzzle-collection.json](./66028-pokemon-puzzle-collection.json) |
 | Pokémon Puzzle Collection Vol. 2 | 66027 | [66027-pokemon-puzzle-collection-vol-2.json](./66027-pokemon-puzzle-collection-vol-2.json) |
 | Pokemon Pyrite Version | 269455 | [269455-pokemon-pyrite-version.json](./269455-pokemon-pyrite-version.json) |
@@ -11643,6 +11645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: Harem Adventures | 212850 | [212850-prince-of-persia-harem-adventures.json](./212850-prince-of-persia-harem-adventures.json) |
 | Prince of Persia: Limited Edition | 45292 | [45292-prince-of-persia-limited-edition.json](./45292-prince-of-persia-limited-edition.json) |
 | Prince of Persia: New Era Bundle | 407278 | [407278-prince-of-persia-new-era-bundle.json](./407278-prince-of-persia-new-era-bundle.json) |
+| Prince of Persia: Revelations | 22565 | [22565-prince-of-persia-revelations.json](./22565-prince-of-persia-revelations.json) |
 | Prince of Persia: Rival Swords | 243129 | [243129-prince-of-persia-rival-swords.json](./243129-prince-of-persia-rival-swords.json) |
 | Prince of Persia: Rival Swords | 243130 | [243130-prince-of-persia-rival-swords.json](./243130-prince-of-persia-rival-swords.json) |
 | Prince of Persia: The Forgotten Sands | 142709 | [142709-prince-of-persia-the-forgotten-sands.json](./142709-prince-of-persia-the-forgotten-sands.json) |
@@ -13629,6 +13632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Train | 88487 | [88487-psycho-train.json](./88487-psycho-train.json) |
 | Psycho Waluigi | 132724 | [132724-psycho-waluigi.json](./132724-psycho-waluigi.json) |
 | Psycho-Nics Oscar | 55193 | [55193-psycho-nics-oscar.json](./55193-psycho-nics-oscar.json) |
+| Psycho-Pass: Mandatory Happiness | 23849 | [23849-psycho-pass-mandatory-happiness.json](./23849-psycho-pass-mandatory-happiness.json) |
 | Psycho-Pass: Mandatory Happiness - Limited Edition | 166186 | [166186-psycho-pass-mandatory-happiness-limited-edition.json](./166186-psycho-pass-mandatory-happiness-limited-edition.json) |
 | Psycho-unstable Journey | 180792 | [180792-psycho-unstable-journey.json](./180792-psycho-unstable-journey.json) |
 | Psychoballs | 89401 | [89401-psychoballs.json](./89401-psychoballs.json) |
@@ -14836,6 +14840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Prism | 215015 | [215015-puzzle-prism.json](./215015-puzzle-prism.json) |
 | Puzzle Puppers | 29812 | [29812-puzzle-puppers.json](./29812-puzzle-puppers.json) |
 | Puzzle Putt | 197246 | [197246-puzzle-putt.json](./197246-puzzle-putt.json) |
+| Puzzle Quest 2 | 8979 | [8979-puzzle-quest-2.json](./8979-puzzle-quest-2.json) |
 | Puzzle Quest 3 | 142769 | [142769-puzzle-quest-3.json](./142769-puzzle-quest-3.json) |
 | Puzzle Quest Chapter 1: Battle of Gruulkar | 70416 | [70416-puzzle-quest-chapter-1-battle-of-gruulkar.json](./70416-puzzle-quest-chapter-1-battle-of-gruulkar.json) |
 | Puzzle Quest: Challenge of the Warlords | 2370 | [2370-puzzle-quest-challenge-of-the-warlords.json](./2370-puzzle-quest-challenge-of-the-warlords.json) |
