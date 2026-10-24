@@ -3375,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadZone: Survival Ops Zombie Shooter | 376225 | [376225-deadzone-survival-ops-zombie-shooter.json](./376225-deadzone-survival-ops-zombie-shooter.json) |
 | DeadZone: Survival Ops Zombie Shooter & WW2 Soldiers of Honor - Warzone Assault | 393065 | [393065-deadzone-survival-ops-zombie-shooter-and-ww2-soldiers-of-honor-warzone-assault.json](./393065-deadzone-survival-ops-zombie-shooter-and-ww2-soldiers-of-honor-warzone-assault.json) |
 | Deadzoned | 157461 | [157461-deadzoned.json](./157461-deadzoned.json) |
+| Deae Tonosama: Appare Ichiban | 42390 | [42390-deae-tonosama-appare-ichiban.json](./42390-deae-tonosama-appare-ichiban.json) |
 | Deaf Wish | 297883 | [297883-deaf-wish.json](./297883-deaf-wish.json) |
 | DeafBlind | 302434 | [302434-deafblind.json](./302434-deafblind.json) |
 | Deal & Wheeler | 241457 | [241457-deal-and-wheeler.json](./241457-deal-and-wheeler.json) |
