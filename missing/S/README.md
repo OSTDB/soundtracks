@@ -3484,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasons With Furry | 156722 | [156722-seasons-with-furry.json](./156722-seasons-with-furry.json) |
 | Seasons: Toddler learning game | 105435 | [105435-seasons-toddler-learning-game.json](./105435-seasons-toddler-learning-game.json) |
 | Seasonspree | 152195 | [152195-seasonspree.json](./152195-seasonspree.json) |
+| Seastalker | 12622 | [12622-seastalker.json](./12622-seastalker.json) |
 | Seat of War | 104832 | [104832-seat-of-war.json](./104832-seat-of-war.json) |
 | Seaward | 361870 | [361870-seaward.json](./361870-seaward.json) |
 | Seaway | 181901 | [181901-seaway.json](./181901-seaway.json) |
@@ -6439,6 +6440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Spot DX | 370823 | [370823-sherlock-spot-dx.json](./370823-sherlock-spot-dx.json) |
 | Sherlock: Hidden Object & Match-3 Mystery | 357304 | [357304-sherlock-hidden-object-and-match-3-mystery.json](./357304-sherlock-hidden-object-and-match-3-mystery.json) |
 | Sherlock: The Network | 285038 | [285038-sherlock-the-network.json](./285038-sherlock-the-network.json) |
+| Sherlock: The Riddle of the Crown Jewels | 12623 | [12623-sherlock-the-riddle-of-the-crown-jewels.json](./12623-sherlock-the-riddle-of-the-crown-jewels.json) |
 | Sherman Commander | 155650 | [155650-sherman-commander.json](./155650-sherman-commander.json) |
 | Sherman M4 | 15365 | [15365-sherman-m4.json](./15365-sherman-m4.json) |
 | Sherwood | 403549 | [403549-sherwood.json](./403549-sherwood.json) |
@@ -20676,6 +20678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stationeers: Human Cosmetics Pack | 227894 | [227894-stationeers-human-cosmetics-pack.json](./227894-stationeers-human-cosmetics-pack.json) |
 | Stationeers: Zrilian Species Pack | 227892 | [227892-stationeers-zrilian-species-pack.json](./227892-stationeers-zrilian-species-pack.json) |
 | Stationery Frontier | 188974 | [188974-stationery-frontier.json](./188974-stationery-frontier.json) |
+| Stationfall | 12624 | [12624-stationfall.json](./12624-stationfall.json) |
 | Stationflow | 127462 | [127462-stationflow.json](./127462-stationflow.json) |
 | Statix | 78883 | [78883-statix.json](./78883-statix.json) |
 | Stattogories | 239339 | [239339-stattogories.json](./239339-stattogories.json) |
@@ -27708,11 +27711,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SushiVR | 158910 | [158910-sushivr.json](./158910-sushivr.json) |
 | Susie's Buttons and Baubles | 246536 | [246536-susies-buttons-and-baubles.json](./246536-susies-buttons-and-baubles.json) |
 | Suske en Wiske: De Texas Rakkers | 305432 | [305432-suske-en-wiske-de-texas-rakkers.json](./305432-suske-en-wiske-de-texas-rakkers.json) |
+| Suspect | 12625 | [12625-suspect.json](./12625-suspect.json) |
 | Suspect: The Run! | 235143 | [235143-suspect-the-run.json](./235143-suspect-the-run.json) |
 | Suspecto | 374193 | [374193-suspecto.json](./374193-suspecto.json) |
 | Suspects Room: Keishichou Monzensho Torishirabe-han | 301143 | [301143-suspects-room-keishichou-monzensho-torishirabe-han.json](./301143-suspects-room-keishichou-monzensho-torishirabe-han.json) |
 | Suspects: Mobile Detective | 218056 | [218056-suspects-mobile-detective.json](./218056-suspects-mobile-detective.json) |
 | Suspects: Mystery Mansion | 143591 | [143591-suspects-mystery-mansion.json](./143591-suspects-mystery-mansion.json) |
+| Suspended | 12626 | [12626-suspended.json](./12626-suspended.json) |
 | Suspended Animation | 292403 | [292403-suspended-animation.json](./292403-suspended-animation.json) |
 | Suspended in Dusk | 256814 | [256814-suspended-in-dusk.json](./256814-suspended-in-dusk.json) |
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
@@ -27746,6 +27751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suugaku Rikiou: Joukyuu Naka-3-Level | 145391 | [145391-suugaku-rikiou-joukyuu-naka-3-level.json](./145391-suugaku-rikiou-joukyuu-naka-3-level.json) |
 | Suuji Atta! | 266165 | [266165-suuji-atta.json](./266165-suuji-atta.json) |
 | Suul | 312915 | [312915-suul.json](./312915-suul.json) |
+| Suuran Digit | 12636 | [12636-suuran-digit.json](./12636-suuran-digit.json) |
 | Suuri muumijuhla | 26377 | [26377-suuri-muumijuhla.json](./26377-suuri-muumijuhla.json) |
 | Suv 4x4 Car Parking Simulator | 276286 | [276286-suv-4x4-car-parking-simulator.json](./276286-suv-4x4-car-parking-simulator.json) |
 | Suvarnabhumi Mahayuth | 214752 | [214752-suvarnabhumi-mahayuth.json](./214752-suvarnabhumi-mahayuth.json) |
