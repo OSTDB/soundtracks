@@ -2373,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Heroes Firefighter 3D | 84911 | [84911-real-heroes-firefighter-3d.json](./84911-real-heroes-firefighter-3d.json) |
 | Real Horror Stories | 109479 | [109479-real-horror-stories.json](./109479-real-horror-stories.json) |
 | Real Horse 3D | 216152 | [216152-real-horse-3d.json](./216152-real-horse-3d.json) |
+| Real Kanojo | 22469 | [22469-real-kanojo.json](./22469-real-kanojo.json) |
 | Real Life Day: Threesome | 313508 | [313508-real-life-day-threesome.json](./313508-real-life-day-threesome.json) |
 | Real Life Simulator | 407365 | [407365-real-life-simulator.json](./407365-real-life-simulator.json) |
 | Real Lives | 93439 | [93439-real-lives.json](./93439-real-lives.json) |
@@ -2688,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel | 52756 | [52756-rebel.json](./52756-rebel.json) |
 | Rebel | 78086 | [78086-rebel.json](./78086-rebel.json) |
 | Rebel Charge at Chickamauga | 12742 | [12742-rebel-charge-at-chickamauga.json](./12742-rebel-charge-at-chickamauga.json) |
+| Rebel Cops | 122265 | [122265-rebel-cops.json](./122265-rebel-cops.json) |
 | Rebel Duet | 275837 | [275837-rebel-duet.json](./275837-rebel-duet.json) |
 | Rebel Engine | 201529 | [201529-rebel-engine.json](./201529-rebel-engine.json) |
 | Rebel Engine | 374272 | [374272-rebel-engine.json](./374272-rebel-engine.json) |
@@ -4552,6 +4554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Revelations 2 | 7725 | [7725-resident-evil-revelations-2.json](./7725-resident-evil-revelations-2.json) |
 | Resident Evil: Revelations 2 - Deluxe Edition | 53506 | [53506-resident-evil-revelations-2-deluxe-edition.json](./53506-resident-evil-revelations-2-deluxe-edition.json) |
 | Resident Evil: Revelations 2 - Episode 1: Penal Colony | 82435 | [82435-resident-evil-revelations-2-episode-1-penal-colony.json](./82435-resident-evil-revelations-2-episode-1-penal-colony.json) |
+| Resident Evil: Revelations 2 - Episode 3: Judgment | 116026 | [116026-resident-evil-revelations-2-episode-3-judgment.json](./116026-resident-evil-revelations-2-episode-3-judgment.json) |
 | Resident Evil: Revelations 2 - Episode 4: Metamorphosis | 116027 | [116027-resident-evil-revelations-2-episode-4-metamorphosis.json](./116027-resident-evil-revelations-2-episode-4-metamorphosis.json) |
 | Resident Evil: Revelations 2 - Extra Episode 2: Little Miss | 116029 | [116029-resident-evil-revelations-2-extra-episode-2-little-miss.json](./116029-resident-evil-revelations-2-extra-episode-2-little-miss.json) |
 | Resident Evil: Seamless HD Project | 322044 | [322044-resident-evil-seamless-hd-project.json](./322044-resident-evil-seamless-hd-project.json) |
@@ -4837,6 +4840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Football Boss | 31751 | [31751-retro-football-boss.json](./31751-retro-football-boss.json) |
 | Retro Force | 45017 | [45017-retro-force.json](./45017-retro-force.json) |
 | Retro Gadgets | 219688 | [219688-retro-gadgets.json](./219688-retro-gadgets.json) |
+| Retro Game Challenge | 21251 | [21251-retro-game-challenge.json](./21251-retro-game-challenge.json) |
 | Retro Game Crunch | 36349 | [36349-retro-game-crunch.json](./36349-retro-game-crunch.json) |
 | Retro Game Pack | 147902 | [147902-retro-game-pack.json](./147902-retro-game-pack.json) |
 | Retro Game Store Simulator | 331111 | [331111-retro-game-store-simulator.json](./331111-retro-game-store-simulator.json) |
