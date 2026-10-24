@@ -11502,6 +11502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prezzies | 270071 | [270071-prezzies.json](./270071-prezzies.json) |
 | Pri Pri: Primitive Princess! | 66205 | [66205-pri-pri-primitive-princess.json](./66205-pri-pri-primitive-princess.json) |
 | Pri-Pia: Prince Pia Carrot | 322817 | [322817-pri-pia-prince-pia-carrot.json](./322817-pri-pia-prince-pia-carrot.json) |
+| Price | 32771 | [32771-price.json](./32771-price.json) |
 | Price for Freedom: Avarice | 234035 | [234035-price-for-freedom-avarice.json](./234035-price-for-freedom-avarice.json) |
 | Price for Freedom: Gold and Sand | 295345 | [295345-price-for-freedom-gold-and-sand.json](./295345-price-for-freedom-gold-and-sand.json) |
 | Price of a Life | 358991 | [358991-price-of-a-life.json](./358991-price-of-a-life.json) |
@@ -13960,6 +13961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsari | 404782 | [404782-pulsari.json](./404782-pulsari.json) |
 | Pulsars & Crowbars | 271599 | [271599-pulsars-and-crowbars.json](./271599-pulsars-and-crowbars.json) |
 | Pulsator | 39130 | [39130-pulsator.json](./39130-pulsator.json) |
+| Pulse | 13359 | [13359-pulse.json](./13359-pulse.json) |
 | Pulse | 177421 | [177421-pulse.json](./177421-pulse.json) |
 | Pulse | 266480 | [266480-pulse.json](./266480-pulse.json) |
 | Pulse | 372810 | [372810-pulse.json](./372810-pulse.json) |
