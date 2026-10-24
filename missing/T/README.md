@@ -9881,6 +9881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Opening | 396902 | [396902-the-last-opening.json](./396902-the-last-opening.json) |
 | The Last Ores | 415421 | [415421-the-last-ores.json](./415421-the-last-ores.json) |
 | The Last Orgasm | 392897 | [392897-the-last-orgasm.json](./392897-the-last-orgasm.json) |
+| The Last Oricru | 152073 | [152073-the-last-oricru.json](./152073-the-last-oricru.json) |
 | The Last Orpheus | 276758 | [276758-the-last-orpheus.json](./276758-the-last-orpheus.json) |
 | The Last Phoenix | 375447 | [375447-the-last-phoenix.json](./375447-the-last-phoenix.json) |
 | The Last Photon | 33050 | [33050-the-last-photon.json](./33050-the-last-photon.json) |
@@ -12613,6 +12614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reign of an Early Fairy Sovereign | 56267 | [56267-the-reign-of-an-early-fairy-sovereign.json](./56267-the-reign-of-an-early-fairy-sovereign.json) |
 | The Reincarnation | 383107 | [383107-the-reincarnation.json](./383107-the-reincarnation.json) |
 | The Relentless | 74219 | [74219-the-relentless.json](./74219-the-relentless.json) |
+| The Relic: First Guardian | 165397 | [165397-the-relic-first-guardian.json](./165397-the-relic-first-guardian.json) |
 | The Relief of Impact | 179751 | [179751-the-relief-of-impact.json](./179751-the-relief-of-impact.json) |
 | The Remainder: Act 1 | 170855 | [170855-the-remainder-act-1.json](./170855-the-remainder-act-1.json) |
 | The Remainder: Act 2 | 171387 | [171387-the-remainder-act-2.json](./171387-the-remainder-act-2.json) |
@@ -14177,6 +14179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of (Your Name) | 282030 | [282030-the-tale-of-your-name.json](./282030-the-tale-of-your-name.json) |
 | The Tale of a Man named Tom | 57147 | [57147-the-tale-of-a-man-named-tom.json](./57147-the-tale-of-a-man-named-tom.json) |
 | The Tale of Alltynex Deluxe Edition | 368370 | [368370-the-tale-of-alltynex-deluxe-edition.json](./368370-the-tale-of-alltynex-deluxe-edition.json) |
+| The Tale of Bistun | 152395 | [152395-the-tale-of-bistun.json](./152395-the-tale-of-bistun.json) |
 | The Tale of Bistun: Digital Collector's Edition | 227172 | [227172-the-tale-of-bistun-digital-collectors-edition.json](./227172-the-tale-of-bistun-digital-collectors-edition.json) |
 | The Tale of Despereaux | 51163 | [51163-the-tale-of-despereaux.json](./51163-the-tale-of-despereaux.json) |
 | The Tale of Doris and the Dragon | 79274 | [79274-the-tale-of-doris-and-the-dragon.json](./79274-the-tale-of-doris-and-the-dragon.json) |
@@ -22393,6 +22396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Smash Kaboom! | 347357 | [347357-toy-smash-kaboom.json](./347357-toy-smash-kaboom.json) |
 | Toy soldier: Bastion | 102241 | [102241-toy-soldier-bastion.json](./102241-toy-soldier-bastion.json) |
 | Toy Soldiers | 9450 | [9450-toy-soldiers.json](./9450-toy-soldiers.json) |
+| Toy Soldiers HD | 147308 | [147308-toy-soldiers-hd.json](./147308-toy-soldiers-hd.json) |
 | Toy Soldiers: Boot Camp | 65424 | [65424-toy-soldiers-boot-camp.json](./65424-toy-soldiers-boot-camp.json) |
 | Toy Soldiers: Cold War | 9485 | [9485-toy-soldiers-cold-war.json](./9485-toy-soldiers-cold-war.json) |
 | Toy Soldiers: War Chest | 15187 | [15187-toy-soldiers-war-chest.json](./15187-toy-soldiers-war-chest.json) |
@@ -25242,6 +25246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinity Universe | 7474 | [7474-trinity-universe.json](./7474-trinity-universe.json) |
 | Trinity VR | 111991 | [111991-trinity-vr.json](./111991-trinity-vr.json) |
 | Trinity x Calamity: Midara na Shitsuke to Owaru Sekai | 133245 | [133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json](./133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json) |
+| Trinity: Souls of Zill O'll | 7475 | [7475-trinity-souls-of-zill-oll.json](./7475-trinity-souls-of-zill-oll.json) |
 | Trinium Wars | 18923 | [18923-trinium-wars.json](./18923-trinium-wars.json) |
 | Trinket Bag Maker | 382569 | [382569-trinket-bag-maker.json](./382569-trinket-bag-maker.json) |
 | Trinkets | 355078 | [355078-trinkets.json](./355078-trinkets.json) |
