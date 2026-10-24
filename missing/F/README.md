@@ -4802,6 +4802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Scarlet Rising | 143986 | [143986-fire-emblem-scarlet-rising.json](./143986-fire-emblem-scarlet-rising.json) |
 | Fire Emblem: Seisen no Keifu | 1436 | [1436-fire-emblem-seisen-no-keifu.json](./1436-fire-emblem-seisen-no-keifu.json) |
 | Fire Emblem: Shadow Dragon | 1444 | [1444-fire-emblem-shadow-dragon.json](./1444-fire-emblem-shadow-dragon.json) |
+| Fire Emblem: Shadow Dragon and the Blade of Light | 172410 | [172410-fire-emblem-shadow-dragon-and-the-blade-of-light.json](./172410-fire-emblem-shadow-dragon-and-the-blade-of-light.json) |
 | Fire Emblem: Shadow Dragon and the Blade of Light - 30th Anniversary Edition | 140611 | [140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json](./140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json) |
 | Fire Emblem: Souls of the Forest | 227963 | [227963-fire-emblem-souls-of-the-forest.json](./227963-fire-emblem-souls-of-the-forest.json) |
 | Fire Emblem: Storge | 312345 | [312345-fire-emblem-storge.json](./312345-fire-emblem-storge.json) |
