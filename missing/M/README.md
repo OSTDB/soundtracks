@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Knight | 39006 | [39006-machine-knight.json](./39006-machine-knight.json) |
 | Machine Learning: Episode I | 90571 | [90571-machine-learning-episode-i.json](./90571-machine-learning-episode-i.json) |
 | Machine Love 2069 | 247739 | [247739-machine-love-2069.json](./247739-machine-love-2069.json) |
+| Machine Made: Rebirth | 32479 | [32479-machine-made-rebirth.json](./32479-machine-made-rebirth.json) |
 | Machine Match | 277338 | [277338-machine-match.json](./277338-machine-match.json) |
 | Machine Men | 299448 | [299448-machine-men.json](./299448-machine-men.json) |
 | Machine Mind | 328621 | [328621-machine-mind.json](./328621-machine-mind.json) |
@@ -699,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maga Patalójika | 289222 | [289222-maga-patalojika.json](./289222-maga-patalojika.json) |
 | Magalumina | 392932 | [392932-magalumina.json](./392932-magalumina.json) |
 | Magatama | 59329 | [59329-magatama.json](./59329-magatama.json) |
+| Magatama Earrings | 32576 | [32576-magatama-earrings.json](./32576-magatama-earrings.json) |
 | Magatsu Barai | 172730 | [172730-magatsu-barai.json](./172730-magatsu-barai.json) |
 | Magatsu Wahrheit | 194004 | [194004-magatsu-wahrheit.json](./194004-magatsu-wahrheit.json) |
 | Magazine Editor | 29433 | [29433-magazine-editor.json](./29433-magazine-editor.json) |
@@ -2576,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mansion of the Dead | 337486 | [337486-mansion-of-the-dead.json](./337486-mansion-of-the-dead.json) |
 | Mansion Tour | 225561 | [225561-mansion-tour.json](./225561-mansion-tour.json) |
 | MansionDungeon | 404246 | [404246-mansiondungeon.json](./404246-mansiondungeon.json) |
+| Mansions of Madness | 32560 | [32560-mansions-of-madness.json](./32560-mansions-of-madness.json) |
 | Mansions of Madness: Altered Fates | 155415 | [155415-mansions-of-madness-altered-fates.json](./155415-mansions-of-madness-altered-fates.json) |
 | Mansions of Madness: Dark Reflections | 168929 | [168929-mansions-of-madness-dark-reflections.json](./168929-mansions-of-madness-dark-reflections.json) |
 | Mansions of Madness: What Lies Within | 168928 | [168928-mansions-of-madness-what-lies-within.json](./168928-mansions-of-madness-what-lies-within.json) |
@@ -5407,6 +5410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechachain | 276738 | [276738-mechachain.json](./276738-mechachain.json) |
 | Mechaconda | 348593 | [348593-mechaconda.json](./348593-mechaconda.json) |
 | Mechafare | 393125 | [393125-mechafare.json](./393125-mechafare.json) |
+| MechaGore | 32586 | [32586-mechagore.json](./32586-mechagore.json) |
 | Mechajammer | 152269 | [152269-mechajammer.json](./152269-mechajammer.json) |
 | MechaJourney | 369167 | [369167-mechajourney.json](./369167-mechajourney.json) |
 | Mechaknights Legends | 330107 | [330107-mechaknights-legends.json](./330107-mechaknights-legends.json) |
@@ -9338,6 +9342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milf Toys | 193663 | [193663-milf-toys.json](./193663-milf-toys.json) |
 | Milf Toys 2 | 195244 | [195244-milf-toys-2.json](./195244-milf-toys-2.json) |
 | Milf Toys 3 | 208587 | [208587-milf-toys-3.json](./208587-milf-toys-3.json) |
+| Milford Heaven - Luken's Chronicles | 32488 | [32488-milford-heaven-lukens-chronicles.json](./32488-milford-heaven-lukens-chronicles.json) |
 | MILFs in Paris | 366234 | [366234-milfs-in-paris.json](./366234-milfs-in-paris.json) |
 | Milfvania Ep. 1 | 295234 | [295234-milfvania-ep-1.json](./295234-milfvania-ep-1.json) |
 | Milfvania Ep. 1: Winter DLC | 295108 | [295108-milfvania-ep-1-winter-dlc.json](./295108-milfvania-ep-1-winter-dlc.json) |
@@ -11219,6 +11224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miszou | 224752 | [224752-miszou.json](./224752-miszou.json) |
 | Mitako Tatari’s Cursed Village Stream ZP | 376271 | [376271-mitako-tatari-s-cursed-village-stream-zp.json](./376271-mitako-tatari-s-cursed-village-stream-zp.json) |
 | Mitch | 393980 | [393980-mitch.json](./393980-mitch.json) |
+| Mitch: Berry Challenge | 32536 | [32536-mitch-berry-challenge.json](./32536-mitch-berry-challenge.json) |
 | MitchiriNeko Bubble | 228544 | [228544-mitchirineko-bubble.json](./228544-mitchirineko-bubble.json) |
 | Mite ha Ikenai | 300344 | [300344-mite-ha-ikenai.json](./300344-mite-ha-ikenai.json) |
 | Mite Kiite Nou de Kanjite Crossword Tengoku | 269440 | [269440-mite-kiite-nou-de-kanjite-crossword-tengoku.json](./269440-mite-kiite-nou-de-kanjite-crossword-tengoku.json) |
@@ -11470,6 +11476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moadra | 190169 | [190169-moadra.json](./190169-moadra.json) |
 | Moai 3: Trade Mission | 58646 | [58646-moai-3-trade-mission.json](./58646-moai-3-trade-mission.json) |
 | Moai 3: Trade Mission - Collector's Edition | 33654 | [33654-moai-3-trade-mission-collectors-edition.json](./33654-moai-3-trade-mission-collectors-edition.json) |
+| Moai 4: Terra Incognita - Collector's Edition | 32571 | [32571-moai-4-terra-incognita-collectors-edition.json](./32571-moai-4-terra-incognita-collectors-edition.json) |
 | Moai 6: Unexpected Guests - Collector's Edition | 170205 | [170205-moai-6-unexpected-guests-collectors-edition.json](./170205-moai-6-unexpected-guests-collectors-edition.json) |
 | Moai 7: Mystery Coast | 171437 | [171437-moai-7-mystery-coast.json](./171437-moai-7-mystery-coast.json) |
 | Moai Alley | 332802 | [332802-moai-alley.json](./332802-moai-alley.json) |
