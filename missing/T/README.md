@@ -5775,6 +5775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Castle of the West | 412533 | [412533-the-castle-of-the-west.json](./412533-the-castle-of-the-west.json) |
 | The Castle of Time | 197215 | [197215-the-castle-of-time.json](./197215-the-castle-of-time.json) |
 | The Castles of Burgundy | 115539 | [115539-the-castles-of-burgundy.json](./115539-the-castles-of-burgundy.json) |
+| The Castles of Doctor Creep | 24683 | [24683-the-castles-of-doctor-creep.json](./24683-the-castles-of-doctor-creep.json) |
 | The Cat | 289315 | [289315-the-cat.json](./289315-the-cat.json) |
 | The Cat and the Box | 116747 | [116747-the-cat-and-the-box.json](./116747-the-cat-and-the-box.json) |
 | The Cat and the Coup | 16241 | [16241-the-cat-and-the-coup.json](./16241-the-cat-and-the-coup.json) |
@@ -11497,7 +11498,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -13119,6 +13119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers II: Gold Edition | 2617 | [2617-the-settlers-ii-gold-edition.json](./2617-the-settlers-ii-gold-edition.json) |
 | The Settlers II: Veni, Vidi, Vici | 2596 | [2596-the-settlers-ii-veni-vidi-vici.json](./2596-the-settlers-ii-veni-vidi-vici.json) |
 | The Settlers III | 3696 | [3696-the-settlers-iii.json](./3696-the-settlers-iii.json) |
+| The Settlers III: Gold Edition | 50291 | [50291-the-settlers-iii-gold-edition.json](./50291-the-settlers-iii-gold-edition.json) |
 | The Settlers III: Mission CD | 125210 | [125210-the-settlers-iii-mission-cd.json](./125210-the-settlers-iii-mission-cd.json) |
 | The Settlers III: Quest of the Amazons | 11334 | [11334-the-settlers-iii-quest-of-the-amazons.json](./11334-the-settlers-iii-quest-of-the-amazons.json) |
 | The Settlers III: Ultimate Collection | 154448 | [154448-the-settlers-iii-ultimate-collection.json](./154448-the-settlers-iii-ultimate-collection.json) |
