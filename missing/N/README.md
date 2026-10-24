@@ -5206,6 +5206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noir Mafia Simulator: 1960s American Crime | 365562 | [365562-noir-mafia-simulator-1960s-american-crime.json](./365562-noir-mafia-simulator-1960s-american-crime.json) |
 | Noir Punk | 150240 | [150240-noir-punk.json](./150240-noir-punk.json) |
 | Noir Storm | 216984 | [216984-noir-storm.json](./216984-noir-storm.json) |
+| Noir Syndrome | 17380 | [17380-noir-syndrome.json](./17380-noir-syndrome.json) |
 | Noir Total: Deadly Party | 343270 | [343270-noir-total-deadly-party.json](./343270-noir-total-deadly-party.json) |
 | Noir: Dead On Arrival | 327892 | [327892-noir-dead-on-arrival.json](./327892-noir-dead-on-arrival.json) |
 | Noiramore Academy | 317543 | [317543-noiramore-academy.json](./317543-noiramore-academy.json) |
