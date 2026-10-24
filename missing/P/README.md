@@ -4810,6 +4810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick-A-Gem | 59460 | [59460-pick-a-gem.json](./59460-pick-a-gem.json) |
 | Pick, shoot, repeat! | 129075 | [129075-pick-shoot-repeat.json](./129075-pick-shoot-repeat.json) |
 | Pickaxe Tower | 362860 | [362860-pickaxe-tower.json](./362860-pickaxe-tower.json) |
+| PickCrafter | 27340 | [27340-pickcrafter.json](./27340-pickcrafter.json) |
 | PickCrafter | 76537 | [76537-pickcrafter.json](./76537-pickcrafter.json) |
 | Picker 3D | 387077 | [387077-picker-3d.json](./387077-picker-3d.json) |
 | Picker Bot 42 | 287189 | [287189-picker-bot-42.json](./287189-picker-bot-42.json) |
@@ -12668,6 +12669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Genom: Silver Avalon Pack | 225570 | [225570-project-genom-silver-avalon-pack.json](./225570-project-genom-silver-avalon-pack.json) |
 | Project Genome | 297194 | [297194-project-genome.json](./297194-project-genome.json) |
 | Project GGG | 273623 | [273623-project-ggg.json](./273623-project-ggg.json) |
+| Project Giant Robot | 27296 | [27296-project-giant-robot.json](./27296-project-giant-robot.json) |
 | Project Glasloc | 253577 | [253577-project-glasloc.json](./253577-project-glasloc.json) |
 | Project Glitch | 412526 | [412526-project-glitch.json](./412526-project-glitch.json) |
 | Project Glitch | 81730 | [81730-project-glitch.json](./81730-project-glitch.json) |
@@ -12857,6 +12859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Playtime: Phase 3 - Forsaken | 271727 | [271727-project-playtime-phase-3-forsaken.json](./271727-project-playtime-phase-3-forsaken.json) |
 | Project Plink | 197711 | [197711-project-plink.json](./197711-project-plink.json) |
 | Project Possession | 211950 | [211950-project-possession.json](./211950-project-possession.json) |
+| Project Prelude Rune | 27354 | [27354-project-prelude-rune.json](./27354-project-prelude-rune.json) |
 | Project Prison | 157190 | [157190-project-prison.json](./157190-project-prison.json) |
 | Project Progressive | 335406 | [335406-project-progressive.json](./335406-project-progressive.json) |
 | Project Proxima | 250185 | [250185-project-proxima.json](./250185-project-proxima.json) |
