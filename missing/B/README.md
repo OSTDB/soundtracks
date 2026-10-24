@@ -759,7 +759,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2717,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Knight - Crime Fighter Challenge Pack 2 | 15526 | [15526-batman-arkham-knight-crime-fighter-challenge-pack-2.json](./15526-batman-arkham-knight-crime-fighter-challenge-pack-2.json) |
 | Batman: Arkham Knight - Crime Fighter Challenge Pack 3 | 15528 | [15528-batman-arkham-knight-crime-fighter-challenge-pack-3.json](./15528-batman-arkham-knight-crime-fighter-challenge-pack-3.json) |
 | Batman: Arkham Knight - Earth 2 Dark Knight Skin | 138216 | [138216-batman-arkham-knight-earth-2-dark-knight-skin.json](./138216-batman-arkham-knight-earth-2-dark-knight-skin.json) |
+| Batman: Arkham Knight - GCPD Lockdown | 15523 | [15523-batman-arkham-knight-gcpd-lockdown.json](./15523-batman-arkham-knight-gcpd-lockdown.json) |
 | Batman: Arkham Knight - New 52 Skins Pack | 25983 | [25983-batman-arkham-knight-new-52-skins-pack.json](./25983-batman-arkham-knight-new-52-skins-pack.json) |
 | Batman: Arkham Knight - Original Arkham Batman Skin | 15525 | [15525-batman-arkham-knight-original-arkham-batman-skin.json](./15525-batman-arkham-knight-original-arkham-batman-skin.json) |
 | Batman: Arkham Knight - Red Hood Story Pack | 26034 | [26034-batman-arkham-knight-red-hood-story-pack.json](./26034-batman-arkham-knight-red-hood-story-pack.json) |
@@ -7421,6 +7421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black the Fall | 17555 | [17555-black-the-fall.json](./17555-black-the-fall.json) |
 | Black Thunder | 13816 | [13816-black-thunder.json](./13816-black-thunder.json) |
 | Black Tides: The Curse of Blackbeard | 406869 | [406869-black-tides-the-curse-of-blackbeard.json](./406869-black-tides-the-curse-of-blackbeard.json) |
+| Black Tiger | 11966 | [11966-black-tiger.json](./11966-black-tiger.json) |
 | Black Touch '96 | 267981 | [267981-black-touch-96.json](./267981-black-touch-96.json) |
 | Black Tower | 58824 | [58824-black-tower.json](./58824-black-tower.json) |
 | Black Tower Enigma | 359918 | [359918-black-tower-enigma.json](./359918-black-tower-enigma.json) |
@@ -7600,6 +7601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacktop Hoops | 196481 | [196481-blacktop-hoops.json](./196481-blacktop-hoops.json) |
 | Blacktop Hustle | 365741 | [365741-blacktop-hustle.json](./365741-blacktop-hustle.json) |
 | Blacktower | 403767 | [403767-blacktower.json](./403767-blacktower.json) |
+| Blackwake | 14206 | [14206-blackwake.json](./14206-blackwake.json) |
 | Blackwater | 6917 | [6917-blackwater.json](./6917-blackwater.json) |
 | Blackwater 100 | 92540 | [92540-blackwater-100.json](./92540-blackwater-100.json) |
 | Blackwater Exchange | 407396 | [407396-blackwater-exchange.json](./407396-blackwater-exchange.json) |
@@ -8270,6 +8272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitzcrank's Poro Roundup | 59871 | [59871-blitzcranks-poro-roundup.json](./59871-blitzcranks-poro-roundup.json) |
 | Blitzer | 94524 | [94524-blitzer.json](./94524-blitzer.json) |
 | BlitzKeep Unleashed | 110148 | [110148-blitzkeep-unleashed.json](./110148-blitzkeep-unleashed.json) |
+| Blitzkrieg | 10242 | [10242-blitzkrieg.json](./10242-blitzkrieg.json) |
 | Blitzkrieg | 122201 | [122201-blitzkrieg.json](./122201-blitzkrieg.json) |
 | Blitzkrieg 2 | 7288 | [7288-blitzkrieg-2.json](./7288-blitzkrieg-2.json) |
 | Blitzkrieg 2 Anthology | 36260 | [36260-blitzkrieg-2-anthology.json](./36260-blitzkrieg-2-anthology.json) |
@@ -9877,6 +9880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boil Cabbage Make Soup | 414516 | [414516-boil-cabbage-make-soup.json](./414516-boil-cabbage-make-soup.json) |
 | Boil Noodles at Night | 270733 | [270733-boil-noodles-at-night.json](./270733-boil-noodles-at-night.json) |
 | Boiling Over | 207168 | [207168-boiling-over.json](./207168-boiling-over.json) |
+| Boiling Point: Road to Hell | 9508 | [9508-boiling-point-road-to-hell.json](./9508-boiling-point-road-to-hell.json) |
 | Boin | 394455 | [394455-boin.json](./394455-boin.json) |
 | Boing | 13886 | [13886-boing.json](./13886-boing.json) |
 | Boing | 223338 | [223338-boing.json](./223338-boing.json) |
@@ -10253,6 +10257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bon Voyage | 415295 | [415295-bon-voyage.json](./415295-bon-voyage.json) |
 | Bona Fido | 321415 | [321415-bona-fido.json](./321415-bona-fido.json) |
 | Bonanit: A Menorcan Horror Story | 319753 | [319753-bonanit-a-menorcan-horror-story.json](./319753-bonanit-a-menorcan-horror-story.json) |
+| Bonanza Bros. | 4511 | [4511-bonanza-bros.json](./4511-bonanza-bros.json) |
 | Bonanza Burger | 288779 | [288779-bonanza-burger.json](./288779-bonanza-burger.json) |
 | Bonaparte: A Mechanized Revolution | 319762 | [319762-bonaparte-a-mechanized-revolution.json](./319762-bonaparte-a-mechanized-revolution.json) |
 | Bonaparte's Peninsular War | 144831 | [144831-bonapartes-peninsular-war.json](./144831-bonapartes-peninsular-war.json) |
@@ -10721,8 +10726,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 2: How Marcus Saved Mercenary Day | 13926 | [13926-borderlands-2-how-marcus-saved-mercenary-day.json](./13926-borderlands-2-how-marcus-saved-mercenary-day.json) |
 | Borderlands 2: Mad Moxxi and the Wedding Day Massacre | 13927 | [13927-borderlands-2-mad-moxxi-and-the-wedding-day-massacre.json](./13927-borderlands-2-mad-moxxi-and-the-wedding-day-massacre.json) |
 | Borderlands 2: Mr. Torgue's Campaign of Carnage | 13921 | [13921-borderlands-2-mr-torgues-campaign-of-carnage.json](./13921-borderlands-2-mr-torgues-campaign-of-carnage.json) |
+| Borderlands 2: Sir Hammerlock vs. the Son of Crawmerax | 13928 | [13928-borderlands-2-sir-hammerlock-vs-the-son-of-crawmerax.json](./13928-borderlands-2-sir-hammerlock-vs-the-son-of-crawmerax.json) |
 | Borderlands 2: Sir Hammerlock's Big Game Hunt | 13922 | [13922-borderlands-2-sir-hammerlocks-big-game-hunt.json](./13922-borderlands-2-sir-hammerlocks-big-game-hunt.json) |
 | Borderlands 2: T.K. Baha's Bloody Harvest | 13924 | [13924-borderlands-2-t-k-bahas-bloody-harvest.json](./13924-borderlands-2-t-k-bahas-bloody-harvest.json) |
+| Borderlands 2: The Horrible Hunger of the Ravenous Wattle Gobbler | 13925 | [13925-borderlands-2-the-horrible-hunger-of-the-ravenous-wattle-gobbler.json](./13925-borderlands-2-the-horrible-hunger-of-the-ravenous-wattle-gobbler.json) |
 | Borderlands 2: Tiny Tina's Assault on Dragon Keep | 13923 | [13923-borderlands-2-tiny-tinas-assault-on-dragon-keep.json](./13923-borderlands-2-tiny-tinas-assault-on-dragon-keep.json) |
 | Borderlands 2: Ultimate Edition | 118740 | [118740-borderlands-2-ultimate-edition.json](./118740-borderlands-2-ultimate-edition.json) |
 | Borderlands 3: Bounty of Blood - A Fistful of Redemption | 134100 | [134100-borderlands-3-bounty-of-blood-a-fistful-of-redemption.json](./134100-borderlands-3-bounty-of-blood-a-fistful-of-redemption.json) |
@@ -10746,6 +10753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands: Game of the Year Enhanced | 118993 | [118993-borderlands-game-of-the-year-enhanced.json](./118993-borderlands-game-of-the-year-enhanced.json) |
 | Borderlands: Mad Moxxi's Underdome Riot | 13914 | [13914-borderlands-mad-moxxis-underdome-riot.json](./13914-borderlands-mad-moxxis-underdome-riot.json) |
 | Borderlands: The Handsome Collection | 14548 | [14548-borderlands-the-handsome-collection.json](./14548-borderlands-the-handsome-collection.json) |
+| Borderlands: The Pre-Sequel - Claptastic Voyage | 13919 | [13919-borderlands-the-pre-sequel-claptastic-voyage.json](./13919-borderlands-the-pre-sequel-claptastic-voyage.json) |
 | Borderlands: The Pre-Sequel - Handsome Jack Doppelganger | 186629 | [186629-borderlands-the-pre-sequel-handsome-jack-doppelganger.json](./186629-borderlands-the-pre-sequel-handsome-jack-doppelganger.json) |
 | Borderlands: The Pre-Sequel - Shock Drop Slaughter Pit | 13917 | [13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json](./13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json) |
 | Borderlands: The Secret Armory of General Knoxx | 13915 | [13915-borderlands-the-secret-armory-of-general-knoxx.json](./13915-borderlands-the-secret-armory-of-general-knoxx.json) |
@@ -11403,6 +11411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box's Dream | 186741 | [186741-boxs-dream.json](./186741-boxs-dream.json) |
 | Box2Glory | 110241 | [110241-box2glory.json](./110241-box2glory.json) |
 | BoxBoxBoy! | 19598 | [19598-boxboxboy.json](./19598-boxboxboy.json) |
+| Boxboy! | 15654 | [15654-boxboy.json](./15654-boxboy.json) |
 | BoxCar Racing | 241209 | [241209-boxcar-racing.json](./241209-boxcar-racing.json) |
 | Boxcars | 318425 | [318425-boxcars.json](./318425-boxcars.json) |
 | Boxception | 211463 | [211463-boxception.json](./211463-boxception.json) |
