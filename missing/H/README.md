@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangaroo | 225814 | [225814-hangaroo.json](./225814-hangaroo.json) |
 | Hangcliff | 252598 | [252598-hangcliff.json](./252598-hangcliff.json) |
 | Hangeki | 17697 | [17697-hangeki.json](./17697-hangeki.json) |
+| Hanger World | 32504 | [32504-hanger-world.json](./32504-hanger-world.json) |
 | Hanging With Friends | 65346 | [65346-hanging-with-friends.json](./65346-hanging-with-friends.json) |
 | Hangler | 388728 | [388728-hangler.json](./388728-hangler.json) |
 | Hangman | 17259 | [17259-hangman.json](./17259-hangman.json) |
