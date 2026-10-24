@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Biohazard 5 | 61488 | [61488-pachi-slot-biohazard-5.json](./61488-pachi-slot-biohazard-5.json) |
 | Pachi-Slot Gambler | 42238 | [42238-pachi-slot-gambler.json](./42238-pachi-slot-gambler.json) |
 | Pachi-Slot Higurashi no Naku Koro ni Matsuri | 263021 | [263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json](./263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json) |
+| Pachi-Slot Kanzen Kouryaku | 38138 | [38138-pachi-slot-kanzen-kouryaku.json](./38138-pachi-slot-kanzen-kouryaku.json) |
 | Pachi-Slot Kanzen Kouryaku Uni-Colle'97 | 176134 | [176134-pachi-slot-kanzen-kouryaku-uni-colle97.json](./176134-pachi-slot-kanzen-kouryaku-uni-colle97.json) |
 | Pachi-Slot Kanzen Kouryaku: Universal Shindai Nyuuka Volume 1 | 66960 | [66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json](./66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json) |
 | Pachi-Slot Kenkyuu | 37900 | [37900-pachi-slot-kenkyuu.json](./37900-pachi-slot-kenkyuu.json) |
@@ -318,6 +319,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachio-kun Game Gallery | 86125 | [86125-pachio-kun-game-gallery.json](./86125-pachio-kun-game-gallery.json) |
 | Pachio-kun Juuban Shoubu | 46501 | [46501-pachio-kun-juuban-shoubu.json](./46501-pachio-kun-juuban-shoubu.json) |
 | Pachio-kun Special | 42228 | [42228-pachio-kun-special.json](./42228-pachio-kun-special.json) |
+| Pachio-kun Special 2 | 38141 | [38141-pachio-kun-special-2.json](./38141-pachio-kun-special-2.json) |
+| Pachio-kun Special 3 | 38139 | [38139-pachio-kun-special-3.json](./38139-pachio-kun-special-3.json) |
 | Pachio-kun: Maboroshi no Densetsu | 59509 | [59509-pachio-kun-maboroshi-no-densetsu.json](./59509-pachio-kun-maboroshi-no-densetsu.json) |
 | Pachio-kun: Pachinko Land Adventures | 59511 | [59511-pachio-kun-pachinko-land-adventures.json](./59511-pachio-kun-pachinko-land-adventures.json) |
 | Pachio-kun: Puzzle Castle | 59514 | [59514-pachio-kun-puzzle-castle.json](./59514-pachio-kun-puzzle-castle.json) |
@@ -2875,6 +2878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Jumps | 341587 | [341587-pc-jumps.json](./341587-pc-jumps.json) |
 | PC Kid 3 | 37721 | [37721-pc-kid-3.json](./37721-pc-kid-3.json) |
 | PC Mus | 327335 | [327335-pc-mus.json](./327335-pc-mus.json) |
+| PC Pachislot Idol Gambler | 38104 | [38104-pc-pachislot-idol-gambler.json](./38104-pc-pachislot-idol-gambler.json) |
 | PC Pool | 86039 | [86039-pc-pool.json](./86039-pc-pool.json) |
 | PC Pool Challenges | 93464 | [93464-pc-pool-challenges.json](./93464-pc-pool-challenges.json) |
 | PC Reciclator | 145894 | [145894-pc-reciclator.json](./145894-pc-reciclator.json) |
@@ -3007,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pease | 289750 | [289750-pease.json](./289750-pease.json) |
 | Pebble | 188610 | [188610-pebble.json](./188610-pebble.json) |
 | Pebble Beach Golf Links | 4273 | [4273-pebble-beach-golf-links.json](./4273-pebble-beach-golf-links.json) |
+| Pebble Beach no Hatou New: Tournament Edition | 38143 | [38143-pebble-beach-no-hatou-new-tournament-edition.json](./38143-pebble-beach-no-hatou-new-tournament-edition.json) |
 | Pebble End | 187772 | [187772-pebble-end.json](./187772-pebble-end.json) |
 | Pebble Knights | 347758 | [347758-pebble-knights.json](./347758-pebble-knights.json) |
 | Pebble of Time | 165145 | [165145-pebble-of-time.json](./165145-pebble-of-time.json) |
@@ -5173,6 +5178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikelets | 183947 | [183947-pikelets.json](./183947-pikelets.json) |
 | Pikes.io | 306978 | [306978-pikes-io.json](./306978-pikes-io.json) |
 | Piki 2 | 291559 | [291559-piki-2.json](./291559-piki-2.json) |
+| Pikiinya! | 38144 | [38144-pikiinya.json](./38144-pikiinya.json) |
 | Pikki Rikki | 255164 | [255164-pikki-rikki.json](./255164-pikki-rikki.json) |
 | Pikku Adventure | 395181 | [395181-pikku-adventure.json](./395181-pikku-adventure.json) |
 | Pikmin | 2239 | [2239-pikmin.json](./2239-pikmin.json) |
@@ -10780,6 +10786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power of Slide | 149041 | [149041-power-of-slide.json](./149041-power-of-slide.json) |
 | Power of Ten | 144169 | [144169-power-of-ten.json](./144169-power-of-ten.json) |
 | Power of the Ancients | 149501 | [149501-power-of-the-ancients.json](./149501-power-of-the-ancients.json) |
+| Power of the Hired | 38119 | [38119-power-of-the-hired.json](./38119-power-of-the-hired.json) |
 | Power of the Horde | 361807 | [361807-power-of-the-horde.json](./361807-power-of-the-horde.json) |
 | Power of The Void | 74364 | [74364-power-of-the-void.json](./74364-power-of-the-void.json) |
 | Power Off | 406913 | [406913-power-off.json](./406913-power-off.json) |
@@ -10869,6 +10876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Soccer | 320968 | [320968-power-soccer.json](./320968-power-soccer.json) |
 | Power Soccer | 48305 | [48305-power-soccer.json](./48305-power-soccer.json) |
 | Power Soccer 2 | 93996 | [93996-power-soccer-2.json](./93996-power-soccer-2.json) |
+| Power Sokoban | 38121 | [38121-power-sokoban.json](./38121-power-sokoban.json) |
 | Power Solenoid | 251845 | [251845-power-solenoid.json](./251845-power-solenoid.json) |
 | Power Solenoid: BennyJr | 332608 | [332608-power-solenoid-bennyjr.json](./332608-power-solenoid-bennyjr.json) |
 | Power Solitaire VR | 29658 | [29658-power-solitaire-vr.json](./29658-power-solitaire-vr.json) |
