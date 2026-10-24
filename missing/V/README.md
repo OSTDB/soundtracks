@@ -2574,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vocanova | 198307 | [198307-vocanova.json](./198307-vocanova.json) |
 | Voce. | 183238 | [183238-voce.json](./183238-voce.json) |
 | Vodobanka | 207831 | [207831-vodobanka.json](./207831-vodobanka.json) |
+| Voez | 27397 | [27397-voez.json](./27397-voez.json) |
 | Vogue | 183884 | [183884-vogue.json](./183884-vogue.json) |
 | Vogue, the Explorer | 104154 | [104154-vogue-the-explorer.json](./104154-vogue-the-explorer.json) |
 | Vogvhathos | 267275 | [267275-vogvhathos.json](./267275-vogvhathos.json) |
