@@ -6405,6 +6405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes Consulting Detective: Volume III | 73685 | [73685-sherlock-holmes-consulting-detective-volume-iii.json](./73685-sherlock-holmes-consulting-detective-volume-iii.json) |
 | Sherlock Holmes Essential Bundle | 201013 | [201013-sherlock-holmes-essential-bundle.json](./201013-sherlock-holmes-essential-bundle.json) |
 | Sherlock Holmes i el cas d'Arthur Gordon Pym | 345023 | [345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json](./345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json) |
+| Sherlock Holmes in "Another Bow" | 24680 | [24680-sherlock-holmes-in-another-bow.json](./24680-sherlock-holmes-in-another-bow.json) |
 | Sherlock Holmes: Chapter One - Beyond a Joke | 186894 | [186894-sherlock-holmes-chapter-one-beyond-a-joke.json](./186894-sherlock-holmes-chapter-one-beyond-a-joke.json) |
 | Sherlock Holmes: Chapter One - Clergyman Cassock | 245168 | [245168-sherlock-holmes-chapter-one-clergyman-cassock.json](./245168-sherlock-holmes-chapter-one-clergyman-cassock.json) |
 | Sherlock Holmes: Chapter One - Deluxe Edition | 173098 | [173098-sherlock-holmes-chapter-one-deluxe-edition.json](./173098-sherlock-holmes-chapter-one-deluxe-edition.json) |
@@ -20717,6 +20718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealpop's Basics | 341935 | [341935-stealpops-basics.json](./341935-stealpops-basics.json) |
 | Stealth | 114888 | [114888-stealth.json](./114888-stealth.json) |
 | Stealth | 147969 | [147969-stealth.json](./147969-stealth.json) |
+| Stealth | 24679 | [24679-stealth.json](./24679-stealth.json) |
 | Stealth | 86207 | [86207-stealth.json](./86207-stealth.json) |
 | Stealth ATF | 48237 | [48237-stealth-atf.json](./48237-stealth-atf.json) |
 | Stealth Bastard | 10923 | [10923-stealth-bastard.json](./10923-stealth-bastard.json) |
@@ -26011,6 +26013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pinkie World | 231496 | [231496-super-pinkie-world.json](./231496-super-pinkie-world.json) |
 | Super Pinkie World 2 | 231497 | [231497-super-pinkie-world-2.json](./231497-super-pinkie-world-2.json) |
 | Super Pinkie World 3 | 231498 | [231498-super-pinkie-world-3.json](./231498-super-pinkie-world-3.json) |
+| Super Pipeline | 24662 | [24662-super-pipeline.json](./24662-super-pipeline.json) |
 | Super Pipeline 2 | 13039 | [13039-super-pipeline-2.json](./13039-super-pipeline-2.json) |
 | Super Pipeline II | 39135 | [39135-super-pipeline-ii.json](./39135-super-pipeline-ii.json) |
 | Super Pitfall | 48233 | [48233-super-pitfall.json](./48233-super-pitfall.json) |
@@ -26451,6 +26454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Snake | 71997 | [71997-super-snake.json](./71997-super-snake.json) |
 | Super Snake 3D | 134940 | [134940-super-snake-3d.json](./134940-super-snake-3d.json) |
 | Super Snake Block DX | 267971 | [267971-super-snake-block-dx.json](./267971-super-snake-block-dx.json) |
+| Super Snake Heroes | 24656 | [24656-super-snake-heroes.json](./24656-super-snake-heroes.json) |
 | Super Snot Put | 326727 | [326727-super-snot-put.json](./326727-super-snot-put.json) |
 | Super Snow Fight | 35384 | [35384-super-snow-fight.json](./35384-super-snow-fight.json) |
 | Super Snowball Sunday | 74334 | [74334-super-snowball-sunday.json](./74334-super-snowball-sunday.json) |
