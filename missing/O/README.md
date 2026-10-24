@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddventure | 137646 | [137646-oddventure.json](./137646-oddventure.json) |
 | Oddware | 188924 | [188924-oddware.json](./188924-oddware.json) |
 | Oddwings Escape | 345263 | [345263-oddwings-escape.json](./345263-oddwings-escape.json) |
+| Oddworld Adventures | 49015 | [49015-oddworld-adventures.json](./49015-oddworld-adventures.json) |
 | Oddworld Adventures 2 | 49865 | [49865-oddworld-adventures-2.json](./49865-oddworld-adventures-2.json) |
 | Oddworld Collection | 145454 | [145454-oddworld-collection.json](./145454-oddworld-collection.json) |
 | Oddworld Soulstorm: Limited Oddition | 210461 | [210461-oddworld-soulstorm-limited-oddition.json](./210461-oddworld-soulstorm-limited-oddition.json) |
@@ -4172,6 +4173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Zombies For Days Collection | 308586 | [308586-outbreak-zombies-for-days-collection.json](./308586-outbreak-zombies-for-days-collection.json) |
 | Outbrk | 131609 | [131609-outbrk.json](./131609-outbrk.json) |
 | Outbuddies | 186547 | [186547-outbuddies.json](./186547-outbuddies.json) |
+| Outbuddies DX | 25352 | [25352-outbuddies-dx.json](./25352-outbuddies-dx.json) |
 | Outburst | 47130 | [47130-outburst.json](./47130-outburst.json) |
 | Outburst | 79240 | [79240-outburst.json](./79240-outburst.json) |
 | Outcast | 15331 | [15331-outcast.json](./15331-outcast.json) |
