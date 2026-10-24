@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam | 332595 | [332595-jam.json](./332595-jam.json) |
 | Jam Above Jam Below | 234114 | [234114-jam-above-jam-below.json](./234114-jam-above-jam-below.json) |
 | Jam City Rollergirls | 85200 | [85200-jam-city-rollergirls.json](./85200-jam-city-rollergirls.json) |
+| Jam It | 41178 | [41178-jam-it.json](./41178-jam-it.json) |
 | Jam Jam's Adventure | 105761 | [105761-jam-jams-adventure.json](./105761-jam-jams-adventure.json) |
 | Jam Jump | 304841 | [304841-jam-jump.json](./304841-jam-jump.json) |
 | Jam League Basketball | 237375 | [237375-jam-league-basketball.json](./237375-jam-league-basketball.json) |
@@ -650,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jarpug | 259012 | [259012-jarpug.json](./259012-jarpug.json) |
 | Jarrett & Labonte Stock Car Racing | 80496 | [80496-jarrett-and-labonte-stock-car-racing.json](./80496-jarrett-and-labonte-stock-car-racing.json) |
 | Jars | 167184 | [167184-jars.json](./167184-jars.json) |
+| Jars' Revenge | 41168 | [41168-jars-revenge.json](./41168-jars-revenge.json) |
 | Jartycuck's Basics in Coal and Goonin 2 'p | 400943 | [400943-jartycucks-basics-in-coal-and-goonin-2-p.json](./400943-jartycucks-basics-in-coal-and-goonin-2-p.json) |
 | Jarvis | 59383 | [59383-jarvis.json](./59383-jarvis.json) |
 | JASBIAC | 302619 | [302619-jasbiac.json](./302619-jasbiac.json) |
@@ -680,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Javelin Masters 2 | 344451 | [344451-javelin-masters-2.json](./344451-javelin-masters-2.json) |
 | Javelin Masters 3 | 235113 | [235113-javelin-masters-3.json](./235113-javelin-masters-3.json) |
 | Javols VR | 149220 | [149220-javols-vr.json](./149220-javols-vr.json) |
+| Jaw Breaker | 41141 | [41141-jaw-breaker.json](./41141-jaw-breaker.json) |
 | Jaw Breakers & The Confection Connection | 133165 | [133165-jaw-breakers-and-the-confection-connection.json](./133165-jaw-breakers-and-the-confection-connection.json) |
 | Jawaker | 315697 | [315697-jawaker.json](./315697-jawaker.json) |
 | Jawbreak | 271803 | [271803-jawbreak.json](./271803-jawbreak.json) |
