@@ -2708,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearth's Light: Potion Shop | 239669 | [239669-hearths-light-potion-shop.json](./239669-hearths-light-potion-shop.json) |
 | Hearthguard | 356677 | [356677-hearthguard.json](./356677-hearthguard.json) |
 | Hearthkeeper | 253489 | [253489-hearthkeeper.json](./253489-hearthkeeper.json) |
+| Hearthlands | 28325 | [28325-hearthlands.json](./28325-hearthlands.json) |
 | Hearthstone: Across the Timeways | 322150 | [322150-hearthstone-across-the-timeways.json](./322150-hearthstone-across-the-timeways.json) |
 | Hearthstone: Ashes of Outland | 131879 | [131879-hearthstone-ashes-of-outland.json](./131879-hearthstone-ashes-of-outland.json) |
 | Hearthstone: Ashes of Outland - Trial by Felfire | 135707 | [135707-hearthstone-ashes-of-outland-trial-by-felfire.json](./135707-hearthstone-ashes-of-outland-trial-by-felfire.json) |
