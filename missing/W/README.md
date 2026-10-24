@@ -3211,7 +3211,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -6801,6 +6800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Spin | 260044 | [260044-world-spin.json](./260044-world-spin.json) |
 | World Sports Competition | 37731 | [37731-world-sports-competition.json](./37731-world-sports-competition.json) |
 | World Sports Party | 66581 | [66581-world-sports-party.json](./66581-world-sports-party.json) |
+| World Stadium | 38101 | [38101-world-stadium.json](./38101-world-stadium.json) |
 | World Stadium '90 | 40569 | [40569-world-stadium-90.json](./40569-world-stadium-90.json) |
 | World Strategy War | 388261 | [388261-world-strategy-war.json](./388261-world-strategy-war.json) |
 | World Subway Simulator | 89234 | [89234-world-subway-simulator.json](./89234-world-subway-simulator.json) |
