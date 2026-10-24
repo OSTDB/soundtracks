@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 63639 | [63639-pac-man.json](./63639-pac-man.json) |
 | Pac-Man | 88904 | [88904-pac-man.json](./88904-pac-man.json) |
 | Pac-Man & Galaga Dimensions | 6861 | [6861-pac-man-and-galaga-dimensions.json](./6861-pac-man-and-galaga-dimensions.json) |
+| Pac-Man 2: The New Adventures | 11603 | [11603-pac-man-2-the-new-adventures.json](./11603-pac-man-2-the-new-adventures.json) |
 | Pac-Man 256 | 14701 | [14701-pac-man-256.json](./14701-pac-man-256.json) |
 | Pac-Man 256 | 219438 | [219438-pac-man-256.json](./219438-pac-man-256.json) |
 | Pac-Man 3D: White House Edition | 364837 | [364837-pac-man-3d-white-house-edition.json](./364837-pac-man-3d-white-house-edition.json) |
@@ -3474,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Per Aspera: Home | 232963 | [232963-per-aspera-home.json](./232963-per-aspera-home.json) |
 | Perash | 358442 | [358442-perash.json](./358442-perash.json) |
 | Perceptio | 195167 | [195167-perceptio.json](./195167-perceptio.json) |
+| Perception | 11070 | [11070-perception.json](./11070-perception.json) |
 | Perception | 271498 | [271498-perception.json](./271498-perception.json) |
 | Perceptions of the Dead 2 | 99050 | [99050-perceptions-of-the-dead-2.json](./99050-perceptions-of-the-dead-2.json) |
 | Percepts | 18392 | [18392-percepts.json](./18392-percepts.json) |
@@ -10961,6 +10963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Star Frenzy | 135090 | [135090-power-star-frenzy.json](./135090-power-star-frenzy.json) |
 | Power Star Unleashed | 315024 | [315024-power-star-unleashed.json](./315024-power-star-unleashed.json) |
 | Power Stealers | 121392 | [121392-power-stealers.json](./121392-power-stealers.json) |
+| Power Stone 2 | 13106 | [13106-power-stone-2.json](./13106-power-stone-2.json) |
 | Power Stone Collection | 13107 | [13107-power-stone-collection.json](./13107-power-stone-collection.json) |
 | Power Stone Mini | 227746 | [227746-power-stone-mini.json](./227746-power-stone-mini.json) |
 | Power Strike II | 80837 | [80837-power-strike-ii.json](./80837-power-strike-ii.json) |
