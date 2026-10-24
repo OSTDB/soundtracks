@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Treasure | 53028 | [53028-fairy-treasure.json](./53028-fairy-treasure.json) |
 | Fairy Treasure - Brick Breaker | 108859 | [108859-fairy-treasure-brick-breaker.json](./108859-fairy-treasure-brick-breaker.json) |
 | Fairy Village | 233625 | [233625-fairy-village.json](./233625-fairy-village.json) |
+| Fairy Well | 41165 | [41165-fairy-well.json](./41165-fairy-well.json) |
 | Fairy Whale | 345991 | [345991-fairy-whale.json](./345991-fairy-whale.json) |
 | Fairy: Paint by Numbers | 88490 | [88490-fairy-paint-by-numbers.json](./88490-fairy-paint-by-numbers.json) |
 | FairyLand | 413711 | [413711-fairyland.json](./413711-fairyland.json) |
