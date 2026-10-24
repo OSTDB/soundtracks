@@ -5324,6 +5324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Within Lattice | 376278 | [376278-within-lattice.json](./376278-within-lattice.json) |
 | Within of Static: Northgate Mall | 393564 | [393564-within-of-static-northgate-mall.json](./393564-within-of-static-northgate-mall.json) |
 | Within the Backrooms | 220634 | [220634-within-the-backrooms.json](./220634-within-the-backrooms.json) |
+| Within the Blade | 154594 | [154594-within-the-blade.json](./154594-within-the-blade.json) |
 | Within the Cosmos | 117457 | [117457-within-the-cosmos.json](./117457-within-the-cosmos.json) |
 | Within The Experiments | 414492 | [414492-within-the-experiments.json](./414492-within-the-experiments.json) |
 | Within the Range | 391045 | [391045-within-the-range.json](./391045-within-the-range.json) |
