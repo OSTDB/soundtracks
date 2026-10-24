@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaidan 00 | 146606 | [146606-kaidan-00.json](./146606-kaidan-00.json) |
 | Kaidann | 290470 | [290470-kaidann.json](./290470-kaidann.json) |
 | Kaidi Armed With a Cat | 113501 | [113501-kaidi-armed-with-a-cat.json](./113501-kaidi-armed-with-a-cat.json) |
+| Kaido Battle 2: Chain Reaction | 36744 | [36744-kaido-battle-2-chain-reaction.json](./36744-kaido-battle-2-chain-reaction.json) |
 | Kaido Genkai | 349376 | [349376-kaido-genkai.json](./349376-kaido-genkai.json) |
 | Kaidop | 297901 | [297901-kaidop.json](./297901-kaidop.json) |
 | Kaidou ni Kisu | 380806 | [380806-kaidou-ni-kisu.json](./380806-kaidou-ni-kisu.json) |
@@ -2241,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -4947,6 +4949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuroneko-sou Souzoku Satsujin Jiken | 222910 | [222910-kuroneko-sou-souzoku-satsujin-jiken.json](./222910-kuroneko-sou-souzoku-satsujin-jiken.json) |
 | Kuroobi | 272462 | [272462-kuroobi.json](./272462-kuroobi.json) |
 | Kuros | 16059 | [16059-kuros.json](./16059-kuros.json) |
+| Kuroshitsuji: Phantom & Ghost | 36752 | [36752-kuroshitsuji-phantom-and-ghost.json](./36752-kuroshitsuji-phantom-and-ghost.json) |
 | Kuroyuki Hime: Snow Black | 218951 | [218951-kuroyuki-hime-snow-black.json](./218951-kuroyuki-hime-snow-black.json) |
 | Kuroyuki Hime: Snow Magic | 218952 | [218952-kuroyuki-hime-snow-magic.json](./218952-kuroyuki-hime-snow-magic.json) |
 | Kurr Snaga | 117809 | [117809-kurr-snaga.json](./117809-kurr-snaga.json) |
