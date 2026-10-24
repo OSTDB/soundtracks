@@ -3778,6 +3778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Pinball | 19651 | [19651-marvel-pinball.json](./19651-marvel-pinball.json) |
 | Marvel Pinball 3D | 23672 | [23672-marvel-pinball-3d.json](./23672-marvel-pinball-3d.json) |
 | Marvel Pinball: Avengers Chronicles | 20821 | [20821-marvel-pinball-avengers-chronicles.json](./20821-marvel-pinball-avengers-chronicles.json) |
+| Marvel Pinball: Captain America | 21718 | [21718-marvel-pinball-captain-america.json](./21718-marvel-pinball-captain-america.json) |
 | Marvel Puzzle Quest: Dark Reign | 82445 | [82445-marvel-puzzle-quest-dark-reign.json](./82445-marvel-puzzle-quest-dark-reign.json) |
 | Marvel Realm of Champions | 122756 | [122756-marvel-realm-of-champions.json](./122756-marvel-realm-of-champions.json) |
 | Marvel Rivals: Pick-Up Bundle | 355093 | [355093-marvel-rivals-pick-up-bundle.json](./355093-marvel-rivals-pick-up-bundle.json) |
@@ -11341,6 +11342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miya Might Break | 390138 | [390138-miya-might-break.json](./390138-miya-might-break.json) |
 | Miya's Everyday Joy of Cooking | 202144 | [202144-miyas-everyday-joy-of-cooking.json](./202144-miyas-everyday-joy-of-cooking.json) |
 | Miyaji Shachou no Pachinko Fan: Shouri Sengen 2 | 37925 | [37925-miyaji-shachou-no-pachinko-fan-shouri-sengen-2.json](./37925-miyaji-shachou-no-pachinko-fan-shouri-sengen-2.json) |
+| Miyamori | 21965 | [21965-miyamori.json](./21965-miyamori.json) |
 | Miyamoto | 175328 | [175328-miyamoto.json](./175328-miyamoto.json) |
 | Miyamoto | 320443 | [320443-miyamoto.json](./320443-miyamoto.json) |
 | Miyamoto S | 188460 | [188460-miyamoto-s.json](./188460-miyamoto-s.json) |
@@ -14394,6 +14396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotorStorm: Pacific Rift | 2554 | [2554-motorstorm-pacific-rift.json](./2554-motorstorm-pacific-rift.json) |
 | MotorStorm: Pacific Rift - Voodoo Signature Livery | 278294 | [278294-motorstorm-pacific-rift-voodoo-signature-livery.json](./278294-motorstorm-pacific-rift-voodoo-signature-livery.json) |
 | MotoRun | 166739 | [166739-motorun.json](./166739-motorun.json) |
+| Motos | 21692 | [21692-motos.json](./21692-motos.json) |
 | Motoscafo | 376546 | [376546-motoscafo.json](./376546-motoscafo.json) |
 | Motoshow Idle | 212433 | [212433-motoshow-idle.json](./212433-motoshow-idle.json) |
 | MotoX | 224638 | [224638-motox.json](./224638-motox.json) |
