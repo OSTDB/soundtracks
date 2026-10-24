@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tahul | 160067 | [160067-tahul.json](./160067-tahul.json) |
 | Tai | 187878 | [187878-tai.json](./187878-tai.json) |
 | Tai Chi Game | 392748 | [392748-tai-chi-game.json](./392748-tai-chi-game.json) |
+| Tai Chi Tortoise | 41144 | [41144-tai-chi-tortoise.json](./41144-tai-chi-tortoise.json) |
 | Tai-Pan | 37297 | [37297-tai-pan.json](./37297-tai-pan.json) |
 | Taichi Panda | 69338 | [69338-taichi-panda.json](./69338-taichi-panda.json) |
 | Taiga | 153347 | [153347-taiga.json](./153347-taiga.json) |
@@ -4447,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Bayou Billy | 8740 | [8740-the-adventures-of-bayou-billy.json](./8740-the-adventures-of-bayou-billy.json) |
 | The Adventures of Bertram Fiddle: Episode 2 - A Bleaker Predicklement | 32834 | [32834-the-adventures-of-bertram-fiddle-episode-2-a-bleaker-predicklement.json](./32834-the-adventures-of-bertram-fiddle-episode-2-a-bleaker-predicklement.json) |
 | The Adventures of Big Faz | 206721 | [206721-the-adventures-of-big-faz.json](./206721-the-adventures-of-big-faz.json) |
+| The Adventures of Bond... Basildon Bond | 41149 | [41149-the-adventures-of-bond-basildon-bond.json](./41149-the-adventures-of-bond-basildon-bond.json) |
 | The Adventures of Bruce Flea | 258474 | [258474-the-adventures-of-bruce-flea.json](./258474-the-adventures-of-bruce-flea.json) |
 | The Adventures of Bryan Scott | 172541 | [172541-the-adventures-of-bryan-scott.json](./172541-the-adventures-of-bryan-scott.json) |
 | The Adventures of Bunny and Pig | 265127 | [265127-the-adventures-of-bunny-and-pig.json](./265127-the-adventures-of-bunny-and-pig.json) |
@@ -16799,6 +16801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger & Bunny: On Air Jack! | 64861 | [64861-tiger-and-bunny-on-air-jack.json](./64861-tiger-and-bunny-on-air-jack.json) |
 | Tiger Casino | 131276 | [131276-tiger-casino.json](./131276-tiger-casino.json) |
 | Tiger Casino & Slot Game | 373625 | [373625-tiger-casino-and-slot-game.json](./373625-tiger-casino-and-slot-game.json) |
+| Tiger Claw | 41176 | [41176-tiger-claw.json](./41176-tiger-claw.json) |
 | Tiger Eye Part I: Curse of the Riddle Box | 206789 | [206789-tiger-eye-part-i-curse-of-the-riddle-box.json](./206789-tiger-eye-part-i-curse-of-the-riddle-box.json) |
 | Tiger Fighter 1931 Tora!: MP028 | 173654 | [173654-tiger-fighter-1931-tora-mp028.json](./173654-tiger-fighter-1931-tora-mp028.json) |
 | Tiger Fighter 1931 Tora!: MP098 | 173652 | [173652-tiger-fighter-1931-tora-mp098.json](./173652-tiger-fighter-1931-tora-mp098.json) |
@@ -26028,6 +26031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Bullets | 311822 | [311822-turbo-bullets.json](./311822-turbo-bullets.json) |
 | Turbo Cat Fight | 223401 | [223401-turbo-cat-fight.json](./223401-turbo-cat-fight.json) |
 | Turbo Champ | 274365 | [274365-turbo-champ.json](./274365-turbo-champ.json) |
+| Turbo Charge | 41142 | [41142-turbo-charge.json](./41142-turbo-charge.json) |
 | Turbo Chess | 63074 | [63074-turbo-chess.json](./63074-turbo-chess.json) |
 | Turbo Cup | 72328 | [72328-turbo-cup.json](./72328-turbo-cup.json) |
 | Turbo Dash | 329066 | [329066-turbo-dash.json](./329066-turbo-dash.json) |
