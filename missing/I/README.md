@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Horses: Rider's Paradise | 51072 | [51072-i-love-horses-riders-paradise.json](./51072-i-love-horses-riders-paradise.json) |
 | I Love Hue | 94971 | [94971-i-love-hue.json](./94971-i-love-hue.json) |
 | I Love Hue Too | 177555 | [177555-i-love-hue-too.json](./177555-i-love-hue-too.json) |
+| I Love Katamari | 6457 | [6457-i-love-katamari.json](./6457-i-love-katamari.json) |
 | I Love Math | 337474 | [337474-i-love-math.json](./337474-i-love-math.json) |
 | I Love Me, I Love Me Not | 222737 | [222737-i-love-me-i-love-me-not.json](./222737-i-love-me-i-love-me-not.json) |
 | I Love Me, I Love Me Not | 313095 | [313095-i-love-me-i-love-me-not.json](./313095-i-love-me-i-love-me-not.json) |
@@ -364,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Puppies! | 70274 | [70274-i-love-puppies.json](./70274-i-love-puppies.json) |
 | I Love Softball | 48464 | [48464-i-love-softball.json](./48464-i-love-softball.json) |
 | I Love Spelling! | 339135 | [339135-i-love-spelling.json](./339135-i-love-spelling.json) |
+| I Love Strawberries | 8380 | [8380-i-love-strawberries.json](./8380-i-love-strawberries.json) |
 | I Love Traffic | 230511 | [230511-i-love-traffic.json](./230511-i-love-traffic.json) |
 | I Love You Freddy | 277010 | [277010-i-love-you-freddy.json](./277010-i-love-you-freddy.json) |
 | I Love You, Colonel Sanders! A Finger Lickin' Good Dating Simulator | 122318 | [122318-i-love-you-colonel-sanders-a-finger-lickin-good-dating-simulator.json](./122318-i-love-you-colonel-sanders-a-finger-lickin-good-dating-simulator.json) |
@@ -875,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Master | 92841 | [92841-ice-master.json](./92841-ice-master.json) |
 | Ice Maze | 246540 | [246540-ice-maze.json](./246540-ice-maze.json) |
 | Ice Muncher | 267214 | [267214-ice-muncher.json](./267214-ice-muncher.json) |
+| Ice Nine | 6447 | [6447-ice-nine.json](./6447-ice-nine.json) |
 | Ice Nosfe | 236499 | [236499-ice-nosfe.json](./236499-ice-nosfe.json) |
 | Ice on the Edge | 335288 | [335288-ice-on-the-edge.json](./335288-ice-on-the-edge.json) |
 | Ice Orange Pudding | 369378 | [369378-ice-orange-pudding.json](./369378-ice-orange-pudding.json) |
@@ -4610,6 +4613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irheobeorin Jeguk | 145580 | [145580-irheobeorin-jeguk.json](./145580-irheobeorin-jeguk.json) |
 | Iridescent | 298667 | [298667-iridescent.json](./298667-iridescent.json) |
 | Iridescent Crown | 350515 | [350515-iridescent-crown.json](./350515-iridescent-crown.json) |
+| Iridion 3D | 6449 | [6449-iridion-3d.json](./6449-iridion-3d.json) |
 | Iridis Alpha | 28570 | [28570-iridis-alpha.json](./28570-iridis-alpha.json) |
 | Iridium Runners | 21504 | [21504-iridium-runners.json](./21504-iridium-runners.json) |
 | Iris | 223674 | [223674-iris.json](./223674-iris.json) |
