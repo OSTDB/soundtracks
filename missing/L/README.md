@@ -5921,7 +5921,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looking Glass | 186605 | [186605-looking-glass.json](./186605-looking-glass.json) |
 | Looking Glass | 321831 | [321831-looking-glass.json](./321831-looking-glass.json) |
 | Looking Up | 391322 | [391322-looking-up.json](./391322-looking-up.json) |
-| Looking Up I See Only a Ceiling | 224733 | [224733-looking-up-i-see-only-a-ceiling.json](./224733-looking-up-i-see-only-a-ceiling.json) |
 | Lookouts | 177910 | [177910-lookouts.json](./177910-lookouts.json) |
 | Looksley's Line Up | 66584 | [66584-looksleys-line-up.json](./66584-looksleys-line-up.json) |
 | Loom | 240705 | [240705-loom.json](./240705-loom.json) |
