@@ -2667,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empyre: Dukes of the Far Frontier | 198555 | [198555-empyre-dukes-of-the-far-frontier.json](./198555-empyre-dukes-of-the-far-frontier.json) |
 | Empyreal | 324588 | [324588-empyreal.json](./324588-empyreal.json) |
 | Empyrean | 30464 | [30464-empyrean.json](./30464-empyrean.json) |
+| Empyrean Frontier | 29576 | [29576-empyrean-frontier.json](./29576-empyrean-frontier.json) |
 | Empyrean Swarm | 273649 | [273649-empyrean-swarm.json](./273649-empyrean-swarm.json) |
 | Empyrion - Galactic Survival: Complete Edition | 371228 | [371228-empyrion-galactic-survival-complete-edition.json](./371228-empyrion-galactic-survival-complete-edition.json) |
 | Empyrion: Galactic Survival | 19249 | [19249-empyrion-galactic-survival.json](./19249-empyrion-galactic-survival.json) |
@@ -3128,6 +3129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ener-G Gym Rockets | 47912 | [47912-ener-g-gym-rockets.json](./47912-ener-g-gym-rockets.json) |
 | Ener-G: Modern Dance | 201272 | [201272-ener-g-modern-dance.json](./201272-ener-g-modern-dance.json) |
 | Energetic | 373290 | [373290-energetic.json](./373290-energetic.json) |
+| Energia | 29488 | [29488-energia.json](./29488-energia.json) |
 | Energie-Manager | 94659 | [94659-energie-manager.json](./94659-energie-manager.json) |
 | Energy | 230354 | [230354-energy.json](./230354-energy.json) |
 | Energy | 63332 | [63332-energy.json](./63332-energy.json) |
@@ -3228,6 +3230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma Prison | 32096 | [32096-enigma-prison.json](./32096-enigma-prison.json) |
 | Enigma Quest | 266995 | [266995-enigma-quest.json](./266995-enigma-quest.json) |
 | Enigma Sphere | 139286 | [139286-enigma-sphere.json](./139286-enigma-sphere.json) |
+| Enigma Sphere: Enhanced Edition | 29533 | [29533-enigma-sphere-enhanced-edition.json](./29533-enigma-sphere-enhanced-edition.json) |
 | Enigma Squad: Animal Chaos | 298978 | [298978-enigma-squad-animal-chaos.json](./298978-enigma-squad-animal-chaos.json) |
 | Enigma: A Codebreaking Game | 186587 | [186587-enigma-a-codebreaking-game.json](./186587-enigma-a-codebreaking-game.json) |
 | Enigma: Rising Tide | 24099 | [24099-enigma-rising-tide.json](./24099-enigma-rising-tide.json) |
@@ -6700,6 +6703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ezmuze+ 2.0 | 93570 | [93570-ezmuze-2-0.json](./93570-ezmuze-2-0.json) |
 | Ezpz Saga | 174862 | [174862-ezpz-saga.json](./174862-ezpz-saga.json) |
 | EzQuiz | 290284 | [290284-ezquiz.json](./290284-ezquiz.json) |
+| Ezra: The Stranger | 29583 | [29583-ezra-the-stranger.json](./29583-ezra-the-stranger.json) |
 | Ezra's Legacy | 211597 | [211597-ezras-legacy.json](./211597-ezras-legacy.json) |
 | Ezrebeth | 333643 | [333643-ezrebeth.json](./333643-ezrebeth.json) |
 | Ezy | 94770 | [94770-ezy.json](./94770-ezy.json) |
