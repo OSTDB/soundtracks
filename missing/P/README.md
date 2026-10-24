@@ -2754,6 +2754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2: Cartel Optics Mod Pack | 252588 | [252588-payday-2-cartel-optics-mod-pack.json](./252588-payday-2-cartel-optics-mod-pack.json) |
 | Payday 2: City of Gold Collection | 252886 | [252886-payday-2-city-of-gold-collection.json](./252886-payday-2-city-of-gold-collection.json) |
 | Payday 2: Clover Character Pack | 225114 | [225114-payday-2-clover-character-pack.json](./225114-payday-2-clover-character-pack.json) |
+| Payday 2: Crimewave Edition | 20041 | [20041-payday-2-crimewave-edition.json](./20041-payday-2-crimewave-edition.json) |
 | Payday 2: Crimewave Edition - GOAT Simulator Heists | 164579 | [164579-payday-2-crimewave-edition-goat-simulator-heists.json](./164579-payday-2-crimewave-edition-goat-simulator-heists.json) |
 | Payday 2: Dragan Character Pack | 225115 | [225115-payday-2-dragan-character-pack.json](./225115-payday-2-dragan-character-pack.json) |
 | Payday 2: Dragon Pack | 225117 | [225117-payday-2-dragon-pack.json](./225117-payday-2-dragon-pack.json) |
@@ -6358,6 +6359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pix Arts Masters Tennis | 335083 | [335083-pix-arts-masters-tennis.json](./335083-pix-arts-masters-tennis.json) |
 | Pix Hop | 183359 | [183359-pix-hop.json](./183359-pix-hop.json) |
 | Pix Jungle Adventures | 151602 | [151602-pix-jungle-adventures.json](./151602-pix-jungle-adventures.json) |
+| Pix the Cat | 9374 | [9374-pix-the-cat.json](./9374-pix-the-cat.json) |
 | Pix! - Virtual Pet Widget Game | 97137 | [97137-pix-virtual-pet-widget-game.json](./97137-pix-virtual-pet-widget-game.json) |
 | Pix'Hard | 320579 | [320579-pixhard.json](./320579-pixhard.json) |
 | Pix'n Love Rush | 42815 | [42815-pixn-love-rush.json](./42815-pixn-love-rush.json) |
