@@ -10269,6 +10269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopCap Arcade Vol. 1 | 7132 | [7132-popcap-arcade-vol-1.json](./7132-popcap-arcade-vol-1.json) |
 | PopCap Arcade Vol. 2 | 7133 | [7133-popcap-arcade-vol-2.json](./7133-popcap-arcade-vol-2.json) |
 | PopCap Bundle | 82436 | [82436-popcap-bundle.json](./82436-popcap-bundle.json) |
+| PopCap Hits! | 23387 | [23387-popcap-hits.json](./23387-popcap-hits.json) |
 | PopCap Hits! Vol 2 | 80781 | [80781-popcap-hits-vol-2.json](./80781-popcap-hits-vol-2.json) |
 | Popcorn | 357459 | [357459-popcorn.json](./357459-popcorn.json) |
 | Popcorn | 44345 | [44345-popcorn.json](./44345-popcorn.json) |
