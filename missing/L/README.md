@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layover Lovers | 270204 | [270204-layover-lovers.json](./270204-layover-lovers.json) |
 | Laypo Simulator | 188895 | [188895-laypo-simulator.json](./188895-laypo-simulator.json) |
 | Laysara: Summit Kingdom | 186083 | [186083-laysara-summit-kingdom.json](./186083-laysara-summit-kingdom.json) |
+| Layton Brothers: Mystery Room | 20912 | [20912-layton-brothers-mystery-room.json](./20912-layton-brothers-mystery-room.json) |
 | Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy - Deluxe Edition Plus | 306201 | [306201-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-plus.json](./306201-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-plus.json) |
 | Laza Knitez!! | 134513 | [134513-laza-knitez.json](./134513-laza-knitez.json) |
 | Lazaret | 211740 | [211740-lazaret.json](./211740-lazaret.json) |
@@ -5416,6 +5417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock 'n Load Tactical Digital: The Untold Stories - Battlepack | 158736 | [158736-lock-n-load-tactical-digital-the-untold-stories-battlepack.json](./158736-lock-n-load-tactical-digital-the-untold-stories-battlepack.json) |
 | Lock 'n Load Tactical Digital: We Stand Alone - Battlepack | 158737 | [158737-lock-n-load-tactical-digital-we-stand-alone-battlepack.json](./158737-lock-n-load-tactical-digital-we-stand-alone-battlepack.json) |
 | Lock 'n' Chase | 169910 | [169910-lock-n-chase.json](./169910-lock-n-chase.json) |
+| Lock 'n' Chase | 22717 | [22717-lock-n-chase.json](./22717-lock-n-chase.json) |
 | Lock & Key: A Hunter's Legacy | 253920 | [253920-lock-and-key-a-hunters-legacy.json](./253920-lock-and-key-a-hunters-legacy.json) |
 | Lock & Key: A Magical Girl Mystery | 202633 | [202633-lock-and-key-a-magical-girl-mystery.json](./202633-lock-and-key-a-magical-girl-mystery.json) |
 | Lock 5 | 70429 | [70429-lock-5.json](./70429-lock-5.json) |
@@ -5776,6 +5778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Siren | 124670 | [124670-lone-siren.json](./124670-lone-siren.json) |
 | Lone Soldier | 44753 | [44753-lone-soldier.json](./44753-lone-soldier.json) |
 | Lone Stars | 377908 | [377908-lone-stars.json](./377908-lone-stars.json) |
+| Lone Survivor: The Director's Cut | 21683 | [21683-lone-survivor-the-directors-cut.json](./21683-lone-survivor-the-directors-cut.json) |
 | Lone Survivors | 373766 | [373766-lone-survivors.json](./373766-lone-survivors.json) |
 | Lone Tower Roguelite Defense | 255805 | [255805-lone-tower-roguelite-defense.json](./255805-lone-tower-roguelite-defense.json) |
 | Lone Traveler | 232947 | [232947-lone-traveler.json](./232947-lone-traveler.json) |
@@ -7468,6 +7471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucipurr | 346603 | [346603-lucipurr.json](./346603-lucipurr.json) |
 | Lucium Total War | 356240 | [356240-lucium-total-war.json](./356240-lucium-total-war.json) |
 | Lucius | 5778 | [5778-lucius.json](./5778-lucius.json) |
+| Lucius Demake | 22808 | [22808-lucius-demake.json](./22808-lucius-demake.json) |
 | Luck be a Landlord | 142035 | [142035-luck-be-a-landlord.json](./142035-luck-be-a-landlord.json) |
 | Luck Breaker | 262318 | [262318-luck-breaker.json](./262318-luck-breaker.json) |
 | Luck of the Draw | 415123 | [415123-luck-of-the-draw.json](./415123-luck-of-the-draw.json) |
@@ -7803,6 +7807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminous | 274662 | [274662-luminous.json](./274662-luminous.json) |
 | Luminous | 290643 | [290643-luminous.json](./290643-luminous.json) |
 | Luminous | 382191 | [382191-luminous.json](./382191-luminous.json) |
+| Luminous Arc | 21447 | [21447-luminous-arc.json](./21447-luminous-arc.json) |
 | Luminous Arc 2 | 21330 | [21330-luminous-arc-2.json](./21330-luminous-arc-2.json) |
 | Luminous Arc 3 | 25100 | [25100-luminous-arc-3.json](./25100-luminous-arc-3.json) |
 | Luminous Arc Infinity | 25101 | [25101-luminous-arc-infinity.json](./25101-luminous-arc-infinity.json) |
