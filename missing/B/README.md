@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Fooker: Zombie Fooker 2 | 273820 | [273820-back-to-the-fooker-zombie-fooker-2.json](./273820-back-to-the-fooker-zombie-fooker-2.json) |
 | Back to the Future | 8516 | [8516-back-to-the-future.json](./8516-back-to-the-future.json) |
 | Back to the Future III | 218360 | [218360-back-to-the-future-iii.json](./218360-back-to-the-future-iii.json) |
+| Back to the Future Part II & III | 8517 | [8517-back-to-the-future-part-ii-and-iii.json](./8517-back-to-the-future-part-ii-and-iii.json) |
 | Back to the Future: The Game | 3232 | [3232-back-to-the-future-the-game.json](./3232-back-to-the-future-the-game.json) |
 | Back to the Future: The Game - Episode 1: It's About Time | 78249 | [78249-back-to-the-future-the-game-episode-1-its-about-time.json](./78249-back-to-the-future-the-game-episode-1-its-about-time.json) |
 | Back to the Future: The Game - Episode 2: Get Tannen! | 78253 | [78253-back-to-the-future-the-game-episode-2-get-tannen.json](./78253-back-to-the-future-the-game-episode-2-get-tannen.json) |
@@ -3377,7 +3378,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 1: Revolution | 94085 | [94085-battlefield-1-revolution.json](./94085-battlefield-1-revolution.json) |
 | Battlefield 1: Revolution and Titanfall 2: Ultimate Edition Bundle | 136365 | [136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json](./136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json) |
 | Battlefield 1: Standard Collector's Edition | 112637 | [112637-battlefield-1-standard-collectors-edition.json](./112637-battlefield-1-standard-collectors-edition.json) |
-| Battlefield 1: They Shall Not Pass | 26941 | [26941-battlefield-1-they-shall-not-pass.json](./26941-battlefield-1-they-shall-not-pass.json) |
 | Battlefield 1: Turning Tides | 76190 | [76190-battlefield-1-turning-tides.json](./76190-battlefield-1-turning-tides.json) |
 | Battlefield 1: Ultimate Edition | 52640 | [52640-battlefield-1-ultimate-edition.json](./52640-battlefield-1-ultimate-edition.json) |
 | Battlefield 1914 | 188322 | [188322-battlefield-1914.json](./188322-battlefield-1914.json) |
@@ -4564,6 +4564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beavers | 12350 | [12350-beavers.json](./12350-beavers.json) |
 | Beavers Be Dammed | 81704 | [81704-beavers-be-dammed.json](./81704-beavers-be-dammed.json) |
 | Beavertale | 403519 | [403519-beavertale.json](./403519-beavertale.json) |
+| Beavis and Butt-head: Wiener Take All | 8460 | [8460-beavis-and-butt-head-wiener-take-all.json](./8460-beavis-and-butt-head-wiener-take-all.json) |
 | Bebder Game: Bebder Than the Rest | 209389 | [209389-bebder-game-bebder-than-the-rest.json](./209389-bebder-game-bebder-than-the-rest.json) |
 | Bebe Miner | 416664 | [416664-bebe-miner.json](./416664-bebe-miner.json) |
 | Beberserker | 132094 | [132094-beberserker.json](./132094-beberserker.json) |
@@ -5468,6 +5469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BetterVR | 386425 | [386425-bettervr.json](./386425-bettervr.json) |
 | Betty & Earl | 163977 | [163977-betty-and-earl.json](./163977-betty-and-earl.json) |
 | Betty Bad | 23449 | [23449-betty-bad.json](./23449-betty-bad.json) |
+| Betty Boop's Double Shift | 8455 | [8455-betty-boops-double-shift.json](./8455-betty-boops-double-shift.json) |
 | Betty's Beer Bar | 70365 | [70365-bettys-beer-bar.json](./70365-bettys-beer-bar.json) |
 | Betű Kereső | 137966 | [137966-betu-kereso.json](./137966-betu-kereso.json) |
 | Between | 236177 | [236177-between.json](./236177-between.json) |
@@ -7722,6 +7724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bladesong | 254662 | [254662-bladesong.json](./254662-bladesong.json) |
 | Bladestorm: The Hundred Years' War | 6919 | [6919-bladestorm-the-hundred-years-war.json](./6919-bladestorm-the-hundred-years-war.json) |
 | Bladeweave | 420011 | [420011-bladeweave.json](./420011-bladeweave.json) |
+| Blagger | 8527 | [8527-blagger.json](./8527-blagger.json) |
 | Blagmoz | 271672 | [271672-blagmoz.json](./271672-blagmoz.json) |
 | Blaine Bananatree | 97458 | [97458-blaine-bananatree.json](./97458-blaine-bananatree.json) |
 | Blair Witch | 119298 | [119298-blair-witch.json](./119298-blair-witch.json) |
@@ -9355,6 +9358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Intervention | 219213 | [219213-blue-intervention.json](./219213-blue-intervention.json) |
 | Blue Jay Joyride | 195628 | [195628-blue-jay-joyride.json](./195628-blue-jay-joyride.json) |
 | Blue June | 153405 | [153405-blue-june.json](./153405-blue-june.json) |
+| Blue Lacuna | 8381 | [8381-blue-lacuna.json](./8381-blue-lacuna.json) |
 | Blue Land | 302476 | [302476-blue-land.json](./302476-blue-land.json) |
 | Blue Lemon | 126656 | [126656-blue-lemon.json](./126656-blue-lemon.json) |
 | Blue Libra 2 | 25539 | [25539-blue-libra-2.json](./25539-blue-libra-2.json) |
@@ -10818,6 +10822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Life 3D | 224090 | [224090-boss-life-3d.json](./224090-boss-life-3d.json) |
 | Boss of FCs | 348418 | [348418-boss-of-fcs.json](./348418-boss-of-fcs.json) |
 | Boss Pit | 394823 | [394823-boss-pit.json](./394823-boss-pit.json) |
+| Boss Rally | 8431 | [8431-boss-rally.json](./8431-boss-rally.json) |
 | Boss Rush Bundle | 259136 | [259136-boss-rush-bundle.json](./259136-boss-rush-bundle.json) |
 | Boss Rush Delivery | 303355 | [303355-boss-rush-delivery.json](./303355-boss-rush-delivery.json) |
 | Boss Rush: Mythology | 141079 | [141079-boss-rush-mythology.json](./141079-boss-rush-mythology.json) |
