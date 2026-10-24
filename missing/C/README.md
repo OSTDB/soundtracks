@@ -1405,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain America and the Avengers | 275027 | [275027-captain-america-and-the-avengers.json](./275027-captain-america-and-the-avengers.json) |
 | Captain America and the Avengers | 275028 | [275028-captain-america-and-the-avengers.json](./275028-captain-america-and-the-avengers.json) |
 | Captain America and the Avengers | 275030 | [275030-captain-america-and-the-avengers.json](./275030-captain-america-and-the-avengers.json) |
+| Captain America and the Avengers | 7816 | [7816-captain-america-and-the-avengers.json](./7816-captain-america-and-the-avengers.json) |
 | Captain America: Brave New World | 301539 | [301539-captain-america-brave-new-world.json](./301539-captain-america-brave-new-world.json) |
 | Captain America: Shield of Justice | 65852 | [65852-captain-america-shield-of-justice.json](./65852-captain-america-shield-of-justice.json) |
 | Captain America: Super Soldier | 248740 | [248740-captain-america-super-soldier.json](./248740-captain-america-super-soldier.json) |
@@ -2691,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Corp | 280332 | [280332-castle-corp.json](./280332-castle-corp.json) |
 | Castle Craft | 250250 | [250250-castle-craft.json](./250250-castle-craft.json) |
 | Castle Crafter | 253208 | [253208-castle-crafter.json](./253208-castle-crafter.json) |
+| Castle Crashers Remastered | 20880 | [20880-castle-crashers-remastered.json](./20880-castle-crashers-remastered.json) |
 | Castle Crashers: Blacksmith Pack | 170863 | [170863-castle-crashers-blacksmith-pack.json](./170863-castle-crashers-blacksmith-pack.json) |
 | Castle Crashers: Painter Boss Paradise | 310640 | [310640-castle-crashers-painter-boss-paradise.json](./310640-castle-crashers-painter-boss-paradise.json) |
 | Castle Crashers: Pink Knight Pack | 170864 | [170864-castle-crashers-pink-knight-pack.json](./170864-castle-crashers-pink-knight-pack.json) |
@@ -3924,6 +3926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cawcaknight | 417695 | [417695-cawcaknight.json](./417695-cawcaknight.json) |
 | Caxy Gambá Encontra o Monstruário | 257103 | [257103-caxy-gamba-encontra-o-monstruario.json](./257103-caxy-gamba-encontra-o-monstruario.json) |
 | Caylus | 175231 | [175231-caylus.json](./175231-caylus.json) |
+| Cayne | 26968 | [26968-cayne.json](./26968-cayne.json) |
 | Cazzarion: Astro Bouncer | 290418 | [290418-cazzarion-astro-bouncer.json](./290418-cazzarion-astro-bouncer.json) |
 | Cazzarion: Builder | 335961 | [335961-cazzarion-builder.json](./335961-cazzarion-builder.json) |
 | Cazzarion: Car Chase | 304267 | [304267-cazzarion-car-chase.json](./304267-cazzarion-car-chase.json) |
@@ -10244,6 +10247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander Keen | 119309 | [119309-commander-keen.json](./119309-commander-keen.json) |
 | Commander Keen | 2447 | [2447-commander-keen.json](./2447-commander-keen.json) |
 | Commander Keen Enters RON | 71177 | [71177-commander-keen-enters-ron.json](./71177-commander-keen-enters-ron.json) |
+| Commander Keen in Goodbye, Galaxy!: Secret of the Oracle | 2443 | [2443-commander-keen-in-goodbye-galaxy-secret-of-the-oracle.json](./2443-commander-keen-in-goodbye-galaxy-secret-of-the-oracle.json) |
 | Commander Keen in Goodbye, Galaxy!: The Armageddon Machine | 2445 | [2445-commander-keen-in-goodbye-galaxy-the-armageddon-machine.json](./2445-commander-keen-in-goodbye-galaxy-the-armageddon-machine.json) |
 | Commander Keen in Invasion of the Vorticons: Keen Must Die! | 2441 | [2441-commander-keen-in-invasion-of-the-vorticons-keen-must-die.json](./2441-commander-keen-in-invasion-of-the-vorticons-keen-must-die.json) |
 | Commander Keen in Invasion of the Vorticons: Marooned on Mars | 2439 | [2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json](./2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json) |
@@ -11375,6 +11379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Game - Valentines Day Menu | 96577 | [96577-cooking-game-valentines-day-menu.json](./96577-cooking-game-valentines-day-menu.json) |
 | Cooking Joy - Fun Cooking Game | 103872 | [103872-cooking-joy-fun-cooking-game.json](./103872-cooking-joy-fun-cooking-game.json) |
 | Cooking Live | 226690 | [226690-cooking-live.json](./226690-cooking-live.json) |
+| Cooking Mama | 3060 | [3060-cooking-mama.json](./3060-cooking-mama.json) |
 | Cooking Mama 4: Kitchen Magic | 11359 | [11359-cooking-mama-4-kitchen-magic.json](./11359-cooking-mama-4-kitchen-magic.json) |
 | Cooking Mama Seasons | 290280 | [290280-cooking-mama-seasons.json](./290280-cooking-mama-seasons.json) |
 | Cooking Mama World: Combo Pack Volume 1 | 56335 | [56335-cooking-mama-world-combo-pack-volume-1.json](./56335-cooking-mama-world-combo-pack-volume-1.json) |
@@ -12891,6 +12896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash & Spyro Superpack I Crash Bandicoot: The Huge Adventure / Spyro: Season of Ice | 210236 | [210236-crash-and-spyro-superpack-i-crash-bandicoot-the-huge-adventure-spyro-season-of-ice.json](./210236-crash-and-spyro-superpack-i-crash-bandicoot-the-huge-adventure-spyro-season-of-ice.json) |
 | Crash + Spyro Triple Play Bundle | 218970 | [218970-crash-spyro-triple-play-bundle.json](./218970-crash-spyro-triple-play-bundle.json) |
 | Crash and Run | 238481 | [238481-crash-and-run.json](./238481-crash-and-run.json) |
+| Crash Bandicoot | 135449 | [135449-crash-bandicoot.json](./135449-crash-bandicoot.json) |
 | Crash Bandicoot | 210243 | [210243-crash-bandicoot.json](./210243-crash-bandicoot.json) |
 | Crash Bandicoot 2: Cortex Strikes Back | 135450 | [135450-crash-bandicoot-2-cortex-strikes-back.json](./135450-crash-bandicoot-2-cortex-strikes-back.json) |
 | Crash Bandicoot 2: N-Tranced | 1198 | [1198-crash-bandicoot-2-n-tranced.json](./1198-crash-bandicoot-2-n-tranced.json) |
