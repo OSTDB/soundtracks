@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Television Tycoon | 353814 | [353814-mad-television-tycoon.json](./353814-mad-television-tycoon.json) |
 | Mad Trapper | 210845 | [210845-mad-trapper.json](./210845-mad-trapper.json) |
 | Mad Trax | 46442 | [46442-mad-trax.json](./46442-mad-trax.json) |
+| Mad TV | 14719 | [14719-mad-tv.json](./14719-mad-tv.json) |
 | Mad TV 2 | 92915 | [92915-mad-tv-2.json](./92915-mad-tv-2.json) |
 | Mad Valley | 294135 | [294135-mad-valley.json](./294135-mad-valley.json) |
 | Mad Void | 321051 | [321051-mad-void.json](./321051-mad-void.json) |
@@ -6489,6 +6490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megacraft Hentai Survival | 149428 | [149428-megacraft-hentai-survival.json](./149428-megacraft-hentai-survival.json) |
 | MegaCryptoPolis | 182339 | [182339-megacryptopolis.json](./182339-megacryptopolis.json) |
 | Megadeka | 344474 | [344474-megadeka.json](./344474-megadeka.json) |
+| Megadimension Neptunia VII | 9620 | [9620-megadimension-neptunia-vii.json](./9620-megadimension-neptunia-vii.json) |
 | Megadimension Neptunia VII: Dream Edition | 212333 | [212333-megadimension-neptunia-vii-dream-edition.json](./212333-megadimension-neptunia-vii-dream-edition.json) |
 | Megadimension Neptunia VII: Party Character - God Eater | 238177 | [238177-megadimension-neptunia-vii-party-character-god-eater.json](./238177-megadimension-neptunia-vii-party-character-god-eater.json) |
 | Megadimension Neptunia VII: Party Character - Nitroplus | 238178 | [238178-megadimension-neptunia-vii-party-character-nitroplus.json](./238178-megadimension-neptunia-vii-party-character-nitroplus.json) |
@@ -15159,6 +15161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Space Fury | 40925 | [40925-ms-space-fury.json](./40925-ms-space-fury.json) |
 | Ms. Spell | 194177 | [194177-ms-spell.json](./194177-ms-spell.json) |
 | Ms. Spinderella | 408299 | [408299-ms-spinderella.json](./408299-ms-spinderella.json) |
+| Ms. Splosion Man | 15140 | [15140-ms-splosion-man.json](./15140-ms-splosion-man.json) |
 | Ms. Squeaker's Home for the Sick | 109402 | [109402-ms-squeakers-home-for-the-sick.json](./109402-ms-squeakers-home-for-the-sick.json) |
 | Ms.Lemons | 240156 | [240156-ms-lemons.json](./240156-ms-lemons.json) |
 | MSCR | 310930 | [310930-mscr.json](./310930-mscr.json) |
