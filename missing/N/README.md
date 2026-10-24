@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naked Porn Battle | 202205 | [202205-naked-porn-battle.json](./202205-naked-porn-battle.json) |
 | Naked Story | 127838 | [127838-naked-story.json](./127838-naked-story.json) |
 | Naked Warrior | 385305 | [385305-naked-warrior.json](./385305-naked-warrior.json) |
+| NakedMan vs. The Clothes | 29485 | [29485-nakedman-vs-the-clothes.json](./29485-nakedman-vs-the-clothes.json) |
 | Näkemiin: Hongkong | 85757 | [85757-nakemiin-hongkong.json](./85757-nakemiin-hongkong.json) |
 | Naki no Ryuu: Mahjong Hishou-den | 37912 | [37912-naki-no-ryuu-mahjong-hishou-den.json](./37912-naki-no-ryuu-mahjong-hishou-den.json) |
 | Nakiti Generations | 31762 | [31762-nakiti-generations.json](./31762-nakiti-generations.json) |
@@ -3212,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Pro? | 336749 | [336749-nice-pro.json](./336749-nice-pro.json) |
 | Nice Shot Golf | 123629 | [123629-nice-shot-golf.json](./123629-nice-shot-golf.json) |
 | Nice Shot! The Gun Golfing Game | 110942 | [110942-nice-shot-the-gun-golfing-game.json](./110942-nice-shot-the-gun-golfing-game.json) |
+| Nice Slice | 29541 | [29541-nice-slice.json](./29541-nice-slice.json) |
 | Nice to NO you | 139240 | [139240-nice-to-no-you.json](./139240-nice-to-no-you.json) |
 | Nice To Yeet You | 309761 | [309761-nice-to-yeet-you.json](./309761-nice-to-yeet-you.json) |
 | Nice Try! | 129229 | [129229-nice-try.json](./129229-nice-try.json) |
