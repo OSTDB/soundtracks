@@ -11978,6 +11978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monsters: The Withered World | 403174 | [403174-dragon-quest-monsters-the-withered-world.json](./403174-dragon-quest-monsters-the-withered-world.json) |
 | Dragon Quest Monsters: The Withered World - Digital Deluxe Edition | 418330 | [418330-dragon-quest-monsters-the-withered-world-digital-deluxe-edition.json](./418330-dragon-quest-monsters-the-withered-world-digital-deluxe-edition.json) |
 | Dragon Quest of the Stars | 131686 | [131686-dragon-quest-of-the-stars.json](./131686-dragon-quest-of-the-stars.json) |
+| Dragon Quest Rivals Ace | 31559 | [31559-dragon-quest-rivals-ace.json](./31559-dragon-quest-rivals-ace.json) |
 | Dragon Quest Tact | 130037 | [130037-dragon-quest-tact.json](./130037-dragon-quest-tact.json) |
 | Dragon Quest Treasures: Digital Deluxe Edition | 219485 | [219485-dragon-quest-treasures-digital-deluxe-edition.json](./219485-dragon-quest-treasures-digital-deluxe-edition.json) |
 | Dragon Quest V: Tenkuu no Hanayome | 205595 | [205595-dragon-quest-v-tenkuu-no-hanayome.json](./205595-dragon-quest-v-tenkuu-no-hanayome.json) |
