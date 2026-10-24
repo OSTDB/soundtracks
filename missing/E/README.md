@@ -1703,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electric Device Marian | 250206 | [250206-electric-device-marian.json](./250206-electric-device-marian.json) |
 | Electric Dreams | 313124 | [313124-electric-dreams.json](./313124-electric-dreams.json) |
 | Electric Fairyland | 314922 | [314922-electric-fairyland.json](./314922-electric-fairyland.json) |
+| Electric Highways | 18127 | [18127-electric-highways.json](./18127-electric-highways.json) |
 | Electric Racing Car | 59770 | [59770-electric-racing-car.json](./59770-electric-racing-car.json) |
 | Electric RC Sim | 101044 | [101044-electric-rc-sim.json](./101044-electric-rc-sim.json) |
 | Electric Road | 366422 | [366422-electric-road.json](./366422-electric-road.json) |
@@ -3536,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Auto Towers | 261702 | [261702-epic-auto-towers.json](./261702-epic-auto-towers.json) |
 | Epic Balls Smashing | 403101 | [403101-epic-balls-smashing.json](./403101-epic-balls-smashing.json) |
 | Epic Battle Dude | 62724 | [62724-epic-battle-dude.json](./62724-epic-battle-dude.json) |
+| Epic Battle Fantasy 4 | 16867 | [16867-epic-battle-fantasy-4.json](./16867-epic-battle-fantasy-4.json) |
 | Epic Battle Fantasy Collection | 199653 | [199653-epic-battle-fantasy-collection.json](./199653-epic-battle-fantasy-collection.json) |
 | Epic Battle Fantasy: Adventure Story | 143725 | [143725-epic-battle-fantasy-adventure-story.json](./143725-epic-battle-fantasy-adventure-story.json) |
 | Epic Battle Simulator | 99694 | [99694-epic-battle-simulator.json](./99694-epic-battle-simulator.json) |
