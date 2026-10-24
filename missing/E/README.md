@@ -1860,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementary math / Bingo Math | 169266 | [169266-elementary-math-bingo-math.json](./169266-elementary-math-bingo-math.json) |
 | Elementary My Dear Majesty! | 35902 | [35902-elementary-my-dear-majesty.json](./35902-elementary-my-dear-majesty.json) |
 | Elementaurus | 185326 | [185326-elementaurus.json](./185326-elementaurus.json) |
+| Elementerra | 36770 | [36770-elementerra.json](./36770-elementerra.json) |
 | Elementers | 304888 | [304888-elementers.json](./304888-elementers.json) |
 | ElementForger | 220751 | [220751-elementforger.json](./220751-elementforger.json) |
 | Elementico | 177789 | [177789-elementico.json](./177789-elementico.json) |
@@ -5862,6 +5863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EX-802 | 330942 | [330942-ex-802.json](./330942-ex-802.json) |
 | Ex-Argent: Menes no Sairyuu | 206566 | [206566-ex-argent-menes-no-sairyuu.json](./206566-ex-argent-menes-no-sairyuu.json) |
 | Ex-Fraktion | 181370 | [181370-ex-fraktion.json](./181370-ex-fraktion.json) |
+| Ex-Mutants | 36738 | [36738-ex-mutants.json](./36738-ex-mutants.json) |
 | EX-Xdriver | 272339 | [272339-ex-xdriver.json](./272339-ex-xdriver.json) |
 | Ex-Zodiac | 133089 | [133089-ex-zodiac.json](./133089-ex-zodiac.json) |
 | Ex/l | 376446 | [376446-ex-l.json](./376446-ex-l.json) |
