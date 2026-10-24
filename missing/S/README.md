@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctum Breach: Rebirth | 196579 | [196579-sanctum-breach-rebirth.json](./196579-sanctum-breach-rebirth.json) |
 | Sanctum Wars: Ex Infernis | 411542 | [411542-sanctum-wars-ex-infernis.json](./411542-sanctum-wars-ex-infernis.json) |
 | Sanctum: Cavern | 10810 | [10810-sanctum-cavern.json](./10810-sanctum-cavern.json) |
+| Sanctum: Map Pack 1 | 26274 | [26274-sanctum-map-pack-1.json](./26274-sanctum-map-pack-1.json) |
 | Sanctum: Map Pack 2 | 225076 | [225076-sanctum-map-pack-2.json](./225076-sanctum-map-pack-2.json) |
 | Sanctus | 235775 | [235775-sanctus.json](./235775-sanctus.json) |
 | Sanctus Mortem | 102912 | [102912-sanctus-mortem.json](./102912-sanctus-mortem.json) |
@@ -2129,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarab Shooter | 72065 | [72065-scarab-shooter.json](./72065-scarab-shooter.json) |
 | Scarab Solitaire | 209029 | [209029-scarab-solitaire.json](./209029-scarab-solitaire.json) |
 | Scarab Tales | 35273 | [35273-scarab-tales.json](./35273-scarab-tales.json) |
+| Scarabaeus | 26273 | [26273-scarabaeus.json](./26273-scarabaeus.json) |
 | Scarabeus | 48858 | [48858-scarabeus.json](./48858-scarabeus.json) |
 | Scarabeus: Pearls of Nile | 65037 | [65037-scarabeus-pearls-of-nile.json](./65037-scarabeus-pearls-of-nile.json) |
 | Scare Crow | 187090 | [187090-scare-crow.json](./187090-scare-crow.json) |
@@ -10402,6 +10404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slappy Board | 216886 | [216886-slappy-board.json](./216886-slappy-board.json) |
 | Slappy Paddles | 250181 | [250181-slappy-paddles.json](./250181-slappy-paddles.json) |
 | Slapshot | 120904 | [120904-slapshot.json](./120904-slapshot.json) |
+| Slapshot | 26245 | [26245-slapshot.json](./26245-slapshot.json) |
 | Slapshot Ice Hockey | 245409 | [245409-slapshot-ice-hockey.json](./245409-slapshot-ice-hockey.json) |
 | Slapstick Bosses | 349861 | [349861-slapstick-bosses.json](./349861-slapstick-bosses.json) |
 | Slapstick Fighter | 266257 | [266257-slapstick-fighter.json](./266257-slapstick-fighter.json) |
@@ -18529,6 +18532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squadron 42 | 19128 | [19128-squadron-42.json](./19128-squadron-42.json) |
 | Squadron II | 116444 | [116444-squadron-ii.json](./116444-squadron-ii.json) |
 | Squadron: Sky Guardians | 51420 | [51420-squadron-sky-guardians.json](./51420-squadron-sky-guardians.json) |
+| Squake | 26229 | [26229-squake.json](./26229-squake.json) |
 | Squally | 111118 | [111118-squally.json](./111118-squally.json) |
 | Squamations | 197219 | [197219-squamations.json](./197219-squamations.json) |
 | Squarcat | 124056 | [124056-squarcat.json](./124056-squarcat.json) |
@@ -21848,6 +21852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm United | 36153 | [36153-storm-united.json](./36153-storm-united.json) |
 | Storm VR | 33175 | [33175-storm-vr.json](./33175-storm-vr.json) |
 | Storm Wars | 56482 | [56482-storm-wars.json](./56482-storm-wars.json) |
+| Storm Wars CCG | 26236 | [26236-storm-wars-ccg.json](./26236-storm-wars-ccg.json) |
 | Storm: Frontline Nation | 10928 | [10928-storm-frontline-nation.json](./10928-storm-frontline-nation.json) |
 | Storm's Wrath | 360630 | [360630-storms-wrath.json](./360630-storms-wrath.json) |
 | Stormball | 77379 | [77379-stormball.json](./77379-stormball.json) |
@@ -22528,6 +22533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Gears | 92348 | [92348-street-gears.json](./92348-street-gears.json) |
 | Street Girls | 296991 | [296991-street-girls.json](./296991-street-girls.json) |
 | Street Gods | 360774 | [360774-street-gods.json](./360774-street-gods.json) |
+| Street Hawk | 26215 | [26215-street-hawk.json](./26215-street-hawk.json) |
 | Street Heat | 40434 | [40434-street-heat.json](./40434-street-heat.json) |
 | Street Hero | 150950 | [150950-street-hero.json](./150950-street-hero.json) |
 | Street Hero | 288129 | [288129-street-hero.json](./288129-street-hero.json) |
