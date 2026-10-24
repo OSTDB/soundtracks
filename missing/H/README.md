@@ -8684,6 +8684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Ever After: Ella's Wish | 119999 | [119999-hotel-ever-after-ellas-wish.json](./119999-hotel-ever-after-ellas-wish.json) |
 | Hotel for Dogs | 21256 | [21256-hotel-for-dogs.json](./21256-hotel-for-dogs.json) |
 | Hotel Giant | 292 | [292-hotel-giant.json](./292-hotel-giant.json) |
+| Hotel Giant 2 | 15004 | [15004-hotel-giant-2.json](./15004-hotel-giant-2.json) |
 | Hotel Giant Bundle | 193738 | [193738-hotel-giant-bundle.json](./193738-hotel-giant-bundle.json) |
 | Hotel Giant DS | 47934 | [47934-hotel-giant-ds.json](./47934-hotel-giant-ds.json) |
 | Hotel Giant: Edition 2012 | 53200 | [53200-hotel-giant-edition-2012.json](./53200-hotel-giant-edition-2012.json) |
@@ -9824,6 +9825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Unlimited | 69183 | [69183-hunting-unlimited.json](./69183-hunting-unlimited.json) |
 | Hunting Unlimited 2 | 24100 | [24100-hunting-unlimited-2.json](./24100-hunting-unlimited-2.json) |
 | Hunting Unlimited 2009 | 30860 | [30860-hunting-unlimited-2009.json](./30860-hunting-unlimited-2009.json) |
+| Hunting Unlimited 2010 | 14865 | [14865-hunting-unlimited-2010.json](./14865-hunting-unlimited-2010.json) |
 | Hunting Unlimited 4 | 69145 | [69145-hunting-unlimited-4.json](./69145-hunting-unlimited-4.json) |
 | Hunting Unlimited Trophy Collection | 69182 | [69182-hunting-unlimited-trophy-collection.json](./69182-hunting-unlimited-trophy-collection.json) |
 | Hunting World | 398039 | [398039-hunting-world.json](./398039-hunting-world.json) |
