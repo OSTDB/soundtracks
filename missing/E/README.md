@@ -3331,6 +3331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ensemble Girls!!: Memories | 397257 | [397257-ensemble-girls-memories.json](./397257-ensemble-girls-memories.json) |
 | Ensemble Stars | 102567 | [102567-ensemble-stars.json](./102567-ensemble-stars.json) |
 | Ensemble Stars! 2 | 197334 | [197334-ensemble-stars-2.json](./197334-ensemble-stars-2.json) |
+| Ensemble Stars!! Music | 145907 | [145907-ensemble-stars-music.json](./145907-ensemble-stars-music.json) |
 | Ensemble Training!! | 364828 | [364828-ensemble-training.json](./364828-ensemble-training.json) |
 | Enshrouded | 248643 | [248643-enshrouded.json](./248643-enshrouded.json) |
 | Enshrouded World: Home Truths | 27676 | [27676-enshrouded-world-home-truths.json](./27676-enshrouded-world-home-truths.json) |
