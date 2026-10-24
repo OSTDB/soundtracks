@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Junk League | 26782 | [26782-galactic-junk-league.json](./26782-galactic-junk-league.json) |
 | Galactic Keep | 29594 | [29594-galactic-keep.json](./29594-galactic-keep.json) |
 | Galactic Lander | 109676 | [109676-galactic-lander.json](./109676-galactic-lander.json) |
+| Galactic Landing | 30523 | [30523-galactic-landing.json](./30523-galactic-landing.json) |
 | Galactic Liberation | 201480 | [201480-galactic-liberation.json](./201480-galactic-liberation.json) |
 | Galactic Loader | 324304 | [324304-galactic-loader.json](./324304-galactic-loader.json) |
 | Galactic Lords | 252696 | [252696-galactic-lords.json](./252696-galactic-lords.json) |
@@ -5025,6 +5026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold and Glory: The Road to El Dorado | 209636 | [209636-gold-and-glory-the-road-to-el-dorado.json](./209636-gold-and-glory-the-road-to-el-dorado.json) |
 | Gold and Graves | 345281 | [345281-gold-and-graves.json](./345281-gold-and-graves.json) |
 | Gold Coast Gambits: Boca Raton & Palm Beach | 414353 | [414353-gold-coast-gambits-boca-raton-and-palm-beach.json](./414353-gold-coast-gambits-boca-raton-and-palm-beach.json) |
+| Gold Crusader | 30517 | [30517-gold-crusader.json](./30517-gold-crusader.json) |
 | Gold Digger | 13723 | [13723-gold-digger.json](./13723-gold-digger.json) |
 | Gold Digger | 147994 | [147994-gold-digger.json](./147994-gold-digger.json) |
 | Gold Digger Maze | 105380 | [105380-gold-digger-maze.json](./105380-gold-digger-maze.json) |
@@ -7374,6 +7376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Facade: Hidden Sins | 104659 | [104659-grim-facade-hidden-sins.json](./104659-grim-facade-hidden-sins.json) |
 | Grim Facade: Hidden Sins - Collector's Edition | 117552 | [117552-grim-facade-hidden-sins-collectors-edition.json](./117552-grim-facade-hidden-sins-collectors-edition.json) |
 | Grim Facade: Mystery of Venice | 140215 | [140215-grim-facade-mystery-of-venice.json](./140215-grim-facade-mystery-of-venice.json) |
+| Grim Facade: Mystery of Venice - Collector's Edition | 30525 | [30525-grim-facade-mystery-of-venice-collectors-edition.json](./30525-grim-facade-mystery-of-venice-collectors-edition.json) |
 | Grim Facade: Sinister Obsession | 140216 | [140216-grim-facade-sinister-obsession.json](./140216-grim-facade-sinister-obsession.json) |
 | Grim Facade: Sinister Obsession - Collector's Edition | 28744 | [28744-grim-facade-sinister-obsession-collectors-edition.json](./28744-grim-facade-sinister-obsession-collectors-edition.json) |
 | Grim Facade: The Artist and The Pretender | 140217 | [140217-grim-facade-the-artist-and-the-pretender.json](./140217-grim-facade-the-artist-and-the-pretender.json) |
