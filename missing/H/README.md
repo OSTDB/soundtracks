@@ -8935,6 +8935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hovershift | 336916 | [336916-hovershift.json](./336916-hovershift.json) |
 | Hoversteppers | 262106 | [262106-hoversteppers.json](./262106-hoversteppers.json) |
 | Hovertank | 95479 | [95479-hovertank.json](./95479-hovertank.json) |
+| Hovertank 3D | 18994 | [18994-hovertank-3d.json](./18994-hovertank-3d.json) |
 | Hovertron | 387349 | [387349-hovertron.json](./387349-hovertron.json) |
 | HOVR | 32066 | [32066-hovr.json](./32066-hovr.json) |
 | How | 241652 | [241652-how.json](./241652-how.json) |
