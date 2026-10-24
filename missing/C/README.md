@@ -1389,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cappuchino Spoontforce Deluxe VI: Girl of the Boiling Fury | 181872 | [181872-cappuchino-spoontforce-deluxe-vi-girl-of-the-boiling-fury.json](./181872-cappuchino-spoontforce-deluxe-vi-girl-of-the-boiling-fury.json) |
 | Capria: Magic of the Elements | 33142 | [33142-capria-magic-of-the-elements.json](./33142-capria-magic-of-the-elements.json) |
 | Capricious | 183824 | [183824-capricious.json](./183824-capricious.json) |
+| Capsa | 68694 | [68694-capsa.json](./68694-capsa.json) |
 | Capsella: The Lights of Lucerne | 103501 | [103501-capsella-the-lights-of-lucerne.json](./103501-capsella-the-lights-of-lucerne.json) |
 | Capsize | 122403 | [122403-capsize.json](./122403-capsize.json) |
 | Capsized | 3050 | [3050-capsized.json](./3050-capsized.json) |
@@ -6166,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of Rebels: Stormwright | 253383 | [253383-choice-of-rebels-stormwright.json](./253383-choice-of-rebels-stormwright.json) |
 | Choice of Rebels: Uprising | 75651 | [75651-choice-of-rebels-uprising.json](./75651-choice-of-rebels-uprising.json) |
 | Choice of Robots | 13093 | [13093-choice-of-robots.json](./13093-choice-of-robots.json) |
+| Choice of the Cat | 68614 | [68614-choice-of-the-cat.json](./68614-choice-of-the-cat.json) |
 | Choice of the Deathless | 17744 | [17744-choice-of-the-deathless.json](./17744-choice-of-the-deathless.json) |
 | Choice of the Dragon | 66762 | [66762-choice-of-the-dragon.json](./66762-choice-of-the-dragon.json) |
 | Choice of the Ninja | 76114 | [76114-choice-of-the-ninja.json](./76114-choice-of-the-ninja.json) |
@@ -7984,6 +7986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clawfish | 152190 | [152190-clawfish.json](./152190-clawfish.json) |
 | Clawless Coin | 405526 | [405526-clawless-coin.json](./405526-clawless-coin.json) |
 | Claws & Chaos | 261674 | [261674-claws-and-chaos.json](./261674-claws-and-chaos.json) |
+| Claws of Furry | 76436 | [76436-claws-of-furry.json](./76436-claws-of-furry.json) |
 | Clawsome | 334203 | [334203-clawsome.json](./334203-clawsome.json) |
 | Clawstar Wrestling | 227115 | [227115-clawstar-wrestling.json](./227115-clawstar-wrestling.json) |
 | Clay Beats | 334504 | [334504-clay-beats.json](./334504-clay-beats.json) |
@@ -8210,6 +8213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Planet: Bluestone Project | 160297 | [160297-clicker-planet-bluestone-project.json](./160297-clicker-planet-bluestone-project.json) |
 | Clicker Racing | 100716 | [100716-clicker-racing.json](./100716-clicker-racing.json) |
 | Clicker: Glad Valakas | 112479 | [112479-clicker-glad-valakas.json](./112479-clicker-glad-valakas.json) |
+| Clicker: Mining Simulator | 81967 | [81967-clicker-mining-simulator.json](./81967-clicker-mining-simulator.json) |
 | Clicker! | 177851 | [177851-clicker.json](./177851-clicker.json) |
 | ClickeRogue | 242547 | [242547-clickerogue.json](./242547-clickerogue.json) |
 | Clickertale 2 | 343883 | [343883-clickertale-2.json](./343883-clickertale-2.json) |
@@ -10698,6 +10702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condor Attack | 117413 | [117413-condor-attack.json](./117413-condor-attack.json) |
 | Condors vs. Ocelots | 164932 | [164932-condors-vs-ocelots.json](./164932-condors-vs-ocelots.json) |
 | Condottiero | 394132 | [394132-condottiero.json](./394132-condottiero.json) |
+| Conduct Deluxe! | 76438 | [76438-conduct-deluxe.json](./76438-conduct-deluxe.json) |
 | Conduct Together!: Track Pack | 307246 | [307246-conduct-together-track-pack.json](./307246-conduct-together-track-pack.json) |
 | Conduct Together!: Track Pack 2 | 307247 | [307247-conduct-together-track-pack-2.json](./307247-conduct-together-track-pack-2.json) |
 | Conductor | 179599 | [179599-conductor.json](./179599-conductor.json) |
@@ -14428,6 +14433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossPix Magic Express | 87096 | [87096-crosspix-magic-express.json](./87096-crosspix-magic-express.json) |
 | CrossPlanet | 165433 | [165433-crossplanet.json](./165433-crossplanet.json) |
 | Crossquare | 175241 | [175241-crossquare.json](./175241-crossquare.json) |
+| Crossroad | 82343 | [82343-crossroad.json](./82343-crossroad.json) |
 | Crossroad Crisis | 43739 | [43739-crossroad-crisis.json](./43739-crossroad-crisis.json) |
 | Crossroad of Sid | 109525 | [109525-crossroad-of-sid.json](./109525-crossroad-of-sid.json) |
 | Crossroad of Worlds: Cursed Letters - Collector's Edition | 257434 | [257434-crossroad-of-worlds-cursed-letters-collectors-edition.json](./257434-crossroad-of-worlds-cursed-letters-collectors-edition.json) |
@@ -16473,6 +16479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybercop | 287115 | [287115-cybercop.json](./287115-cybercop.json) |
 | Cybercore Leap | 279893 | [279893-cybercore-leap.json](./279893-cybercore-leap.json) |
 | CyberCorp | 120697 | [120697-cybercorp.json](./120697-cybercorp.json) |
+| Cybercube | 68709 | [68709-cybercube.json](./68709-cybercube.json) |
 | Cybercum 2069 | 305763 | [305763-cybercum-2069.json](./305763-cybercum-2069.json) |
 | CyberDeck: The Cyberpunk Roguelike Deckbuilder | 406742 | [406742-cyberdeck-the-cyberpunk-roguelike-deckbuilder.json](./406742-cyberdeck-the-cyberpunk-roguelike-deckbuilder.json) |
 | Cyberdillo | 39014 | [39014-cyberdillo.json](./39014-cyberdillo.json) |
