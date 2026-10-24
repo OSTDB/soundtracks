@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Command: The Future of Our World is in Your Hands | 209177 | [209177-earth-command-the-future-of-our-world-is-in-your-hands.json](./209177-earth-command-the-future-of-our-world-is-in-your-hands.json) |
 | Earth Craft | 299893 | [299893-earth-craft.json](./299893-earth-craft.json) |
 | Earth Daddy | 319282 | [319282-earth-daddy.json](./319282-earth-daddy.json) |
+| Earth Defence | 14049 | [14049-earth-defence.json](./14049-earth-defence.json) |
 | Earth Defender | 112318 | [112318-earth-defender.json](./112318-earth-defender.json) |
 | Earth Defender One | 144273 | [144273-earth-defender-one.json](./144273-earth-defender-one.json) |
 | Earth Defense Force | 46666 | [46666-earth-defense-force.json](./46666-earth-defense-force.json) |
@@ -354,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EarthKart | 269029 | [269029-earthkart.json](./269029-earthkart.json) |
 | Earthless | 252866 | [252866-earthless.json](./252866-earthless.json) |
 | Earthless | 312281 | [312281-earthless.json](./312281-earthless.json) |
+| Earthlight | 14050 | [14050-earthlight.json](./14050-earthlight.json) |
 | Earthling of Gaia | 294367 | [294367-earthling-of-gaia.json](./294367-earthling-of-gaia.json) |
 | Earthling Priorities | 229154 | [229154-earthling-priorities.json](./229154-earthling-priorities.json) |
 | Earthling's Undertaking | 371631 | [371631-earthlings-undertaking.json](./371631-earthlings-undertaking.json) |
@@ -402,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eason | 192695 | [192695-eason.json](./192695-eason.json) |
 | East | 182314 | [182314-east.json](./182314-east.json) |
 | East Defense | 305526 | [305526-east-defense.json](./305526-east-defense.json) |
+| East Front | 14051 | [14051-east-front.json](./14051-east-front.json) |
 | East Front Campaign CD 1 | 78704 | [78704-east-front-campaign-cd-1.json](./78704-east-front-campaign-cd-1.json) |
 | East Front II | 84257 | [84257-east-front-ii.json](./84257-east-front-ii.json) |
 | East India Company | 2013 | [2013-east-india-company.json](./2013-east-india-company.json) |
@@ -1777,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ElektraGlide | 13632 | [13632-elektraglide.json](./13632-elektraglide.json) |
 | Elektrek | 57589 | [57589-elektrek.json](./57589-elektrek.json) |
 | Elektrik | 76153 | [76153-elektrik.json](./76153-elektrik.json) |
+| Elektro Storm | 14052 | [14052-elektro-storm.json](./14052-elektro-storm.json) |
 | Elektrosoul | 207197 | [207197-elektrosoul.json](./207197-elektrosoul.json) |
 | Elemage | 288643 | [288643-elemage.json](./288643-elemage.json) |
 | Elemancer | 258397 | [258397-elemancer.json](./258397-elemancer.json) |
@@ -3191,6 +3195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engine Room | 47266 | [47266-engine-room.json](./47266-engine-room.json) |
 | Engine Sentai Go-Onger: Mach de Oboeru! Aiueo!! | 123618 | [123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json](./123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json) |
 | Engineer Arena | 121269 | [121269-engineer-arena.json](./121269-engineer-arena.json) |
+| Engineer Humpty | 14054 | [14054-engineer-humpty.json](./14054-engineer-humpty.json) |
 | Engineer's Last Stand | 257335 | [257335-engineers-last-stand.json](./257335-engineers-last-stand.json) |
 | Engineered to Purpose | 224521 | [224521-engineered-to-purpose.json](./224521-engineered-to-purpose.json) |
 | Engineerium | 302487 | [302487-engineerium.json](./302487-engineerium.json) |
@@ -3228,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma do Labirinto | 232455 | [232455-enigma-do-labirinto.json](./232455-enigma-do-labirinto.json) |
 | Enigma Engine | 143561 | [143561-enigma-engine.json](./143561-enigma-engine.json) |
 | Enigma Express: Hidden Objects | 233629 | [233629-enigma-express-hidden-objects.json](./233629-enigma-express-hidden-objects.json) |
+| Enigma Force | 14055 | [14055-enigma-force.json](./14055-enigma-force.json) |
 | Enigma Heart | 351000 | [351000-enigma-heart.json](./351000-enigma-heart.json) |
 | Enigma of Sector Sigma | 262986 | [262986-enigma-of-sector-sigma.json](./262986-enigma-of-sector-sigma.json) |
 | Enigma of Sépia | 331861 | [331861-enigma-of-sepia.json](./331861-enigma-of-sepia.json) |
@@ -4140,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Naraka | 149961 | [149961-escape-from-naraka.json](./149961-escape-from-naraka.json) |
 | Escape from NOM | 65225 | [65225-escape-from-nom.json](./65225-escape-from-nom.json) |
 | Escape from Nowhere | 158499 | [158499-escape-from-nowhere.json](./158499-escape-from-nowhere.json) |
+| Escape from Omicron | 14056 | [14056-escape-from-omicron.json](./14056-escape-from-omicron.json) |
 | Escape from Peruácru Island | 388911 | [388911-escape-from-peruacru-island.json](./388911-escape-from-peruacru-island.json) |
 | Escape from Playtime | 415180 | [415180-escape-from-playtime.json](./415180-escape-from-playtime.json) |
 | Escape from Pleasure Planet | 32138 | [32138-escape-from-pleasure-planet.json](./32138-escape-from-pleasure-planet.json) |
@@ -4167,6 +4174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Space Shredder | 51734 | [51734-escape-from-space-shredder.json](./51734-escape-from-space-shredder.json) |
 | Escape From Spikes | 359210 | [359210-escape-from-spikes.json](./359210-escape-from-spikes.json) |
 | Escape From Sunveil Starport | 299430 | [299430-escape-from-sunveil-starport.json](./299430-escape-from-sunveil-starport.json) |
+| Escape from Sylon 6 | 14057 | [14057-escape-from-sylon-6.json](./14057-escape-from-sylon-6.json) |
 | Escape from Tarkan | 389051 | [389051-escape-from-tarkan.json](./389051-escape-from-tarkan.json) |
 | Escape from Tarkov: Bear - Arktika | 399106 | [399106-escape-from-tarkov-bear-arktika.json](./399106-escape-from-tarkov-bear-arktika.json) |
 | Escape from Tarkov: Bear - Classic | 399113 | [399113-escape-from-tarkov-bear-classic.json](./399113-escape-from-tarkov-bear-classic.json) |
@@ -5373,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everdream Valley: GOG Exclusive DLC | 250652 | [250652-everdream-valley-gog-exclusive-dlc.json](./250652-everdream-valley-gog-exclusive-dlc.json) |
 | Everdream Valley: Summer Fun DLC | 255154 | [255154-everdream-valley-summer-fun-dlc.json](./255154-everdream-valley-summer-fun-dlc.json) |
 | Everest | 95437 | [95437-everest.json](./95437-everest.json) |
+| Everest Ascent | 14058 | [14058-everest-ascent.json](./14058-everest-ascent.json) |
 | Everest Search and Rescue | 149477 | [149477-everest-search-and-rescue.json](./149477-everest-search-and-rescue.json) |
 | Everest Truck Simulator | 367981 | [367981-everest-truck-simulator.json](./367981-everest-truck-simulator.json) |
 | Everest VR | 18971 | [18971-everest-vr.json](./18971-everest-vr.json) |
@@ -6612,6 +6621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of the Storm | 299731 | [299731-eye-of-the-storm.json](./299731-eye-of-the-storm.json) |
 | Eye of the Summoner | 302771 | [302771-eye-of-the-summoner.json](./302771-eye-of-the-summoner.json) |
 | Eye of the Temple | 95018 | [95018-eye-of-the-temple.json](./95018-eye-of-the-temple.json) |
+| Eye of Vartan | 14059 | [14059-eye-of-vartan.json](./14059-eye-of-vartan.json) |
 | Eye on the world | 258731 | [258731-eye-on-the-world.json](./258731-eye-on-the-world.json) |
 | Eye on You! | 340046 | [340046-eye-on-you.json](./340046-eye-on-you.json) |
 | Eye see fun | 285924 | [285924-eye-see-fun.json](./285924-eye-see-fun.json) |
