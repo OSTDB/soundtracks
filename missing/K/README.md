@@ -2223,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Time | 4334 | [4334-killing-time.json](./4334-killing-time.json) |
 | Killing Time | 82092 | [82092-killing-time.json](./82092-killing-time.json) |
 | Killing Time At Lightspeed | 20293 | [20293-killing-time-at-lightspeed.json](./20293-killing-time-at-lightspeed.json) |
+| Killing Time At Lightspeed: Enhanced Edition | 35001 | [35001-killing-time-at-lightspeed-enhanced-edition.json](./35001-killing-time-at-lightspeed-enhanced-edition.json) |
 | Killing Time: Resurrected | 304742 | [304742-killing-time-resurrected.json](./304742-killing-time-resurrected.json) |
 | Killing Tragedy Samsara | 372999 | [372999-killing-tragedy-samsara.json](./372999-killing-tragedy-samsara.json) |
 | Killing Trials | 114903 | [114903-killing-trials.json](./114903-killing-trials.json) |
@@ -2281,7 +2282,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -2317,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimono | 177240 | [177240-kimono.json](./177240-kimono.json) |
 | Kimono Cats | 249774 | [249774-kimono-cats.json](./249774-kimono-cats.json) |
 | Kimono Girls | 286449 | [286449-kimono-girls.json](./286449-kimono-girls.json) |
+| Kimulator : Fight for your destiny | 32569 | [32569-kimulator-fight-for-your-destiny.json](./32569-kimulator-fight-for-your-destiny.json) |
 | Kin | 84169 | [84169-kin.json](./84169-kin.json) |
 | Kin | 98306 | [98306-kin.json](./98306-kin.json) |
 | Kin and Conquest | 400228 | [400228-kin-and-conquest.json](./400228-kin-and-conquest.json) |
