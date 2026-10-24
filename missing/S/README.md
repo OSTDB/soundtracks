@@ -2987,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screwball | 356589 | [356589-screwball.json](./356589-screwball.json) |
 | Screwball Scramble | 277161 | [277161-screwball-scramble.json](./277161-screwball-scramble.json) |
 | Screwdom 3D | 332430 | [332430-screwdom-3d.json](./332430-screwdom-3d.json) |
+| Screwjumper! | 21884 | [21884-screwjumper.json](./21884-screwjumper.json) |
 | Scriball | 286684 | [286684-scriball.json](./286684-scriball.json) |
 | Scribble | 262675 | [262675-scribble.json](./262675-scribble.json) |
 | Scribble | 290697 | [290697-scribble.json](./290697-scribble.json) |
@@ -3234,6 +3235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Legends | 69733 | [69733-sea-legends.json](./69733-sea-legends.json) |
 | Sea Legends: Phantasmal Light | 59905 | [59905-sea-legends-phantasmal-light.json](./59905-sea-legends-phantasmal-light.json) |
 | Sea Legends: Phantasmal Light - Collector's Edition | 36244 | [36244-sea-legends-phantasmal-light-collectors-edition.json](./36244-sea-legends-phantasmal-light-collectors-edition.json) |
+| Sea Life Safari | 21829 | [21829-sea-life-safari.json](./21829-sea-life-safari.json) |
 | Sea Loot | 176275 | [176275-sea-loot.json](./176275-sea-loot.json) |
 | Sea Monkeys | 419846 | [419846-sea-monkeys.json](./419846-sea-monkeys.json) |
 | Sea Monster | 92823 | [92823-sea-monster.json](./92823-sea-monster.json) |
@@ -6217,6 +6219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaun the Sheep | 68942 | [68942-shaun-the-sheep.json](./68942-shaun-the-sheep.json) |
 | Shaun the Sheep: Shear Speed | 207861 | [207861-shaun-the-sheep-shear-speed.json](./207861-shaun-the-sheep-shear-speed.json) |
 | Shaun White Skateboarding | 5151 | [5151-shaun-white-skateboarding.json](./5151-shaun-white-skateboarding.json) |
+| Shaun White Snowboarding: Road Trip | 21878 | [21878-shaun-white-snowboarding-road-trip.json](./21878-shaun-white-snowboarding-road-trip.json) |
 | Shaun White Snowboarding: Target Edition | 23791 | [23791-shaun-white-snowboarding-target-edition.json](./23791-shaun-white-snowboarding-target-edition.json) |
 | Shaun White Snowboarding: World Stage | 5153 | [5153-shaun-white-snowboarding-world-stage.json](./5153-shaun-white-snowboarding-world-stage.json) |
 | Shavalyn Pop | 233115 | [233115-shavalyn-pop.json](./233115-shavalyn-pop.json) |
@@ -7784,6 +7787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek the Third | 3669 | [3669-shrek-the-third.json](./3669-shrek-the-third.json) |
 | Shrek the Third: Arthur's School Day Adventure | 72995 | [72995-shrek-the-third-arthurs-school-day-adventure.json](./72995-shrek-the-third-arthurs-school-day-adventure.json) |
 | Shrek Treasure Hunt | 44967 | [44967-shrek-treasure-hunt.json](./44967-shrek-treasure-hunt.json) |
+| Shrek-N-Roll | 21885 | [21885-shrek-n-roll.json](./21885-shrek-n-roll.json) |
 | Shrek: Fairy Tale Freakdown | 18576 | [18576-shrek-fairy-tale-freakdown.json](./18576-shrek-fairy-tale-freakdown.json) |
 | Shrek: Fire Donkey | 229066 | [229066-shrek-fire-donkey.json](./229066-shrek-fire-donkey.json) |
 | Shrek: Hassle at the Castle | 49241 | [49241-shrek-hassle-at-the-castle.json](./49241-shrek-hassle-at-the-castle.json) |
@@ -19527,6 +19531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ocean: Second Evolution | 80504 | [80504-star-ocean-second-evolution.json](./80504-star-ocean-second-evolution.json) |
 | Star Ocean: The Divine Force | 178298 | [178298-star-ocean-the-divine-force.json](./178298-star-ocean-the-divine-force.json) |
 | Star Ocean: The Last Hope | 7192 | [7192-star-ocean-the-last-hope.json](./7192-star-ocean-the-last-hope.json) |
+| Star Ocean: The Last Hope - International | 21750 | [21750-star-ocean-the-last-hope-international.json](./21750-star-ocean-the-last-hope-international.json) |
 | Star Ocean: The Second Story | 11210 | [11210-star-ocean-the-second-story.json](./11210-star-ocean-the-second-story.json) |
 | Star Ocean: Till the End of Time | 11212 | [11212-star-ocean-till-the-end-of-time.json](./11212-star-ocean-till-the-end-of-time.json) |
 | Star Odyssey | 45757 | [45757-star-odyssey.json](./45757-star-odyssey.json) |
@@ -19650,6 +19655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sled | 198159 | [198159-star-sled.json](./198159-star-sled.json) |
 | Star Soldier | 295667 | [295667-star-soldier.json](./295667-star-soldier.json) |
 | Star Soldier | 48240 | [48240-star-soldier.json](./48240-star-soldier.json) |
+| Star Soldier R | 21820 | [21820-star-soldier-r.json](./21820-star-soldier-r.json) |
 | Star Soldier vs. DoDonPachi Daioujou Caravan'06 | 365107 | [365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json](./365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json) |
 | Star Sonata 2 | 36276 | [36276-star-sonata-2.json](./36276-star-sonata-2.json) |
 | Star Soraight Fantasy: Magic to Reach the Sky | 343981 | [343981-star-soraight-fantasy-magic-to-reach-the-sky.json](./343981-star-soraight-fantasy-magic-to-reach-the-sky.json) |
@@ -24156,6 +24162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumikkogurashi Farm | 208066 | [208066-sumikkogurashi-farm.json](./208066-sumikkogurashi-farm.json) |
 | Sumikkogurashi the Movie Block Puzzle Game | 213635 | [213635-sumikkogurashi-the-movie-block-puzzle-game.json](./213635-sumikkogurashi-the-movie-block-puzzle-game.json) |
 | SuMine | 118163 | [118163-sumine.json](./118163-sumine.json) |
+| Sumioni: Demon Arts | 21852 | [21852-sumioni-demon-arts.json](./21852-sumioni-demon-arts.json) |
 | Sumire | 137960 | [137960-sumire.json](./137960-sumire.json) |
 | Sumire's Secret | 403603 | [403603-sumires-secret.json](./403603-sumires-secret.json) |
 | Summa Expeditionis | 216869 | [216869-summa-expeditionis.json](./216869-summa-expeditionis.json) |
