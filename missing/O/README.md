@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddyssey: Your Space, Your Way | 163736 | [163736-oddyssey-your-space-your-way.json](./163736-oddyssey-your-space-your-way.json) |
 | OddyTree | 134987 | [134987-oddytree.json](./134987-oddytree.json) |
 | Oddyverse | 307709 | [307709-oddyverse.json](./307709-oddyverse.json) |
+| Ode | 76416 | [76416-ode.json](./76416-ode.json) |
 | Ode of Resurrection | 315489 | [315489-ode-of-resurrection.json](./315489-ode-of-resurrection.json) |
 | Ode to a Moon | 111059 | [111059-ode-to-a-moon.json](./111059-ode-to-a-moon.json) |
 | Ode to Heroes | 137645 | [137645-ode-to-heroes.json](./137645-ode-to-heroes.json) |
@@ -4583,6 +4584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overknight Dungeon | 223980 | [223980-overknight-dungeon.json](./223980-overknight-dungeon.json) |
 | Overland Weekend | 150514 | [150514-overland-weekend.json](./150514-overland-weekend.json) |
 | Overlander | 12711 | [12711-overlander.json](./12711-overlander.json) |
+| Overlanders | 82346 | [82346-overlanders.json](./82346-overlanders.json) |
 | Overlapped | 192318 | [192318-overlapped.json](./192318-overlapped.json) |
 | Overlapping World | 284342 | [284342-overlapping-world.json](./284342-overlapping-world.json) |
 | Overlewd | 253343 | [253343-overlewd.json](./253343-overlewd.json) |
