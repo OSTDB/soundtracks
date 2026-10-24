@@ -3215,7 +3215,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -4841,6 +4840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Falling: Price of Life | 176352 | [176352-winter-falling-price-of-life.json](./176352-winter-falling-price-of-life.json) |
 | Winter Fox | 177762 | [177762-winter-fox.json](./177762-winter-fox.json) |
 | Winter Fragments | 285045 | [285045-winter-fragments.json](./285045-winter-fragments.json) |
+| Winter Games | 12268 | [12268-winter-games.json](./12268-winter-games.json) |
 | Winter Games | 281634 | [281634-winter-games.json](./281634-winter-games.json) |
 | Winter Games | 281636 | [281636-winter-games.json](./281636-winter-games.json) |
 | Winter Games | 281637 | [281637-winter-games.json](./281637-winter-games.json) |
