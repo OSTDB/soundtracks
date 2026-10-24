@@ -4423,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defcon 1: Alien Invasion | 216151 | [216151-defcon-1-alien-invasion.json](./216151-defcon-1-alien-invasion.json) |
 | Defcon 5 | 2505 | [2505-defcon-5.json](./2505-defcon-5.json) |
 | Defcon 5 | 39776 | [39776-defcon-5.json](./39776-defcon-5.json) |
+| DEFCON VR | 27325 | [27325-defcon-vr.json](./27325-defcon-vr.json) |
 | Defcon-2: Missiles of October | 107105 | [107105-defcon-2-missiles-of-october.json](./107105-defcon-2-missiles-of-october.json) |
 | Defe the Defender | 344972 | [344972-defe-the-defender.json](./344972-defe-the-defender.json) |
 | Defeat Akali | 138079 | [138079-defeat-akali.json](./138079-defeat-akali.json) |
@@ -4996,6 +4997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeMiriam Magic: Blueprint of Miracle | 291857 | [291857-demiriam-magic-blueprint-of-miracle.json](./291857-demiriam-magic-blueprint-of-miracle.json) |
 | Demise Sanctuary | 201243 | [201243-demise-sanctuary.json](./201243-demise-sanctuary.json) |
 | Demise: Revenge of the Tavern Keeper | 415940 | [415940-demise-revenge-of-the-tavern-keeper.json](./415940-demise-revenge-of-the-tavern-keeper.json) |
+| Demise: Rise of the Ku'tan | 27313 | [27313-demise-rise-of-the-kutan.json](./27313-demise-rise-of-the-kutan.json) |
 | Demise: Survival Uncharted | 260311 | [260311-demise-survival-uncharted.json](./260311-demise-survival-uncharted.json) |
 | Demise: The Revelation | 69922 | [69922-demise-the-revelation.json](./69922-demise-the-revelation.json) |
 | Demiurge Sacrifice | 380691 | [380691-demiurge-sacrifice.json](./380691-demiurge-sacrifice.json) |
