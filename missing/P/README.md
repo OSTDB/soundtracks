@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panema | 399413 | [399413-panema.json](./399413-panema.json) |
 | Panfu | 89508 | [89508-panfu.json](./89508-panfu.json) |
 | Pang & Bang | 110963 | [110963-pang-and-bang.json](./110963-pang-and-bang.json) |
+| Pang Adventures | 23372 | [23372-pang-adventures.json](./23372-pang-adventures.json) |
 | Pang Adventures: Buster Edition | 139846 | [139846-pang-adventures-buster-edition.json](./139846-pang-adventures-buster-edition.json) |
 | Pang Pang Terrible | 287571 | [287571-pang-pang-terrible.json](./287571-pang-pang-terrible.json) |
 | Pang Pom's | 40373 | [40373-pang-poms.json](./40373-pang-poms.json) |
@@ -2597,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paver Simulator | 265554 | [265554-paver-simulator.json](./265554-paver-simulator.json) |
 | Paver: Tidy Up Together | 414817 | [414817-paver-tidy-up-together.json](./414817-paver-tidy-up-together.json) |
 | Pavilion: Touch Edition | 90801 | [90801-pavilion-touch-edition.json](./90801-pavilion-touch-edition.json) |
+| Pavlov VR | 30548 | [30548-pavlov-vr.json](./30548-pavlov-vr.json) |
 | Pavlov's House | 153322 | [153322-pavlovs-house.json](./153322-pavlovs-house.json) |
 | Pavor | 116378 | [116378-pavor.json](./116378-pavor.json) |
 | Pavor | 215690 | [215690-pavor.json](./215690-pavor.json) |
@@ -4930,6 +4932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross | 311698 | [311698-picross.json](./311698-picross.json) |
 | PiCross | 228399 | [228399-picross.json](./228399-picross.json) |
 | Picross 2 | 49080 | [49080-picross-2.json](./49080-picross-2.json) |
+| Picross 3D: Round 2 | 26176 | [26176-picross-3d-round-2.json](./26176-picross-3d-round-2.json) |
 | Picross Advance | 195490 | [195490-picross-advance.json](./195490-picross-advance.json) |
 | Picross Beach Paradise | 149361 | [149361-picross-beach-paradise.json](./149361-picross-beach-paradise.json) |
 | Picross Beach Season | 89191 | [89191-picross-beach-season.json](./89191-picross-beach-season.json) |
@@ -6213,6 +6216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Caribbean: Isles Of War | 62529 | [62529-pirates-of-the-caribbean-isles-of-war.json](./62529-pirates-of-the-caribbean-isles-of-war.json) |
 | Pirates of the Caribbean: New Horizons | 310699 | [310699-pirates-of-the-caribbean-new-horizons.json](./310699-pirates-of-the-caribbean-new-horizons.json) |
 | Pirates of the Caribbean: The Curse of the Black Pearl | 19218 | [19218-pirates-of-the-caribbean-the-curse-of-the-black-pearl.json](./19218-pirates-of-the-caribbean-the-curse-of-the-black-pearl.json) |
+| Pirates of the Caribbean: The Legend of Jack Sparrow | 23138 | [23138-pirates-of-the-caribbean-the-legend-of-jack-sparrow.json](./23138-pirates-of-the-caribbean-the-legend-of-jack-sparrow.json) |
 | Pirates of the Caribbean: Tides of War | 97500 | [97500-pirates-of-the-caribbean-tides-of-war.json](./97500-pirates-of-the-caribbean-tides-of-war.json) |
 | Pirates of the Maverta | 187731 | [187731-pirates-of-the-maverta.json](./187731-pirates-of-the-maverta.json) |
 | Pirates of the Sea | 165770 | [165770-pirates-of-the-sea.json](./165770-pirates-of-the-sea.json) |
@@ -6985,6 +6989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelJunk Raiders | 144140 | [144140-pixeljunk-raiders.json](./144140-pixeljunk-raiders.json) |
 | PixelJunk Shooter | 9912 | [9912-pixeljunk-shooter.json](./9912-pixeljunk-shooter.json) |
 | PixelJunk Shooter 2 | 20446 | [20446-pixeljunk-shooter-2.json](./20446-pixeljunk-shooter-2.json) |
+| PixelJunk Shooter Ultimate | 23431 | [23431-pixeljunk-shooter-ultimate.json](./23431-pixeljunk-shooter-ultimate.json) |
 | PixelJunk SideScroller | 20445 | [20445-pixeljunk-sidescroller.json](./20445-pixeljunk-sidescroller.json) |
 | PixelJunk VR: Dead Hungry | 27322 | [27322-pixeljunk-vr-dead-hungry.json](./27322-pixeljunk-vr-dead-hungry.json) |
 | PixelJunk: Scrappers Deluxe | 213499 | [213499-pixeljunk-scrappers-deluxe.json](./213499-pixeljunk-scrappers-deluxe.json) |
@@ -9258,6 +9263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Unite: Season 1 | 194419 | [194419-pokemon-unite-season-1.json](./194419-pokemon-unite-season-1.json) |
 | Pokémon Unite: Season 2 | 194418 | [194418-pokemon-unite-season-2.json](./194418-pokemon-unite-season-2.json) |
 | Pokémon Unite: Season 3 | 194420 | [194420-pokemon-unite-season-3.json](./194420-pokemon-unite-season-3.json) |
+| Pokémon Uranium | 24949 | [24949-pokemon-uranium.json](./24949-pokemon-uranium.json) |
 | Pokémon Vanishing Point | 318563 | [318563-pokemon-vanishing-point.json](./318563-pokemon-vanishing-point.json) |
 | Pokémon Velvet: Special Hatenna Edition | 337422 | [337422-pokemon-velvet-special-hatenna-edition.json](./337422-pokemon-velvet-special-hatenna-edition.json) |
 | Pokémon Version Violette | 401803 | [401803-pokemon-version-violette.json](./401803-pokemon-version-violette.json) |
