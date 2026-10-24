@@ -5357,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Gunner: The Robot Wars | 144188 | [144188-shadow-gunner-the-robot-wars.json](./144188-shadow-gunner-the-robot-wars.json) |
 | Shadow Harvest: Phantom Ops | 16236 | [16236-shadow-harvest-phantom-ops.json](./16236-shadow-harvest-phantom-ops.json) |
 | Shadow Hawk One | 282140 | [282140-shadow-hawk-one.json](./282140-shadow-hawk-one.json) |
+| Shadow Hearts | 4170 | [4170-shadow-hearts.json](./4170-shadow-hearts.json) |
 | Shadow Hearts: Covenant | 4171 | [4171-shadow-hearts-covenant.json](./4171-shadow-hearts-covenant.json) |
 | Shadow Hold | 236223 | [236223-shadow-hold.json](./236223-shadow-hold.json) |
 | Shadow Hunt | 374077 | [374077-shadow-hunt.json](./374077-shadow-hunt.json) |
@@ -5405,6 +5406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Nebula | 20366 | [20366-shadow-of-nebula.json](./20366-shadow-of-nebula.json) |
 | Shadow of Paris | 385563 | [385563-shadow-of-paris.json](./385563-shadow-of-paris.json) |
 | Shadow of Pharos | 305951 | [305951-shadow-of-pharos.json](./305951-shadow-of-pharos.json) |
+| Shadow of Rome | 14406 | [14406-shadow-of-rome.json](./14406-shadow-of-rome.json) |
 | Shadow of Scintilla | 238634 | [238634-shadow-of-scintilla.json](./238634-shadow-of-scintilla.json) |
 | Shadow of Something | 81995 | [81995-shadow-of-something.json](./81995-shadow-of-something.json) |
 | Shadow of the Beast | 5434 | [5434-shadow-of-the-beast.json](./5434-shadow-of-the-beast.json) |
@@ -6344,6 +6346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelltered | 353359 | [353359-shelltered.json](./353359-shelltered.json) |
 | Shelltopia | 330311 | [330311-shelltopia.json](./330311-shelltopia.json) |
 | Shelly Duvall's It's A Bird's Life | 38820 | [38820-shelly-duvalls-its-a-birds-life.json](./38820-shelly-duvalls-its-a-birds-life.json) |
+| Shelter 2 | 11795 | [11795-shelter-2.json](./11795-shelter-2.json) |
 | Shelter 2 Mountains | 51910 | [51910-shelter-2-mountains.json](./51910-shelter-2-mountains.json) |
 | Shelter 2: Special Edition | 51911 | [51911-shelter-2-special-edition.json](./51911-shelter-2-special-edition.json) |
 | Shelter 3 | 116905 | [116905-shelter-3.json](./116905-shelter-3.json) |
@@ -13845,6 +13848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Beat | 58689 | [58689-sonic-beat.json](./58689-sonic-beat.json) |
 | Sonic Billiards | 261246 | [261246-sonic-billiards.json](./261246-sonic-billiards.json) |
 | Sonic Black Ace | 331957 | [331957-sonic-black-ace.json](./331957-sonic-black-ace.json) |
+| Sonic Blast | 19538 | [19538-sonic-blast.json](./19538-sonic-blast.json) |
 | Sonic Blast | 202267 | [202267-sonic-blast.json](./202267-sonic-blast.json) |
 | Sonic Blast Man | 39804 | [39804-sonic-blast-man.json](./39804-sonic-blast-man.json) |
 | Sonic Blast Man: Real Puncher | 56327 | [56327-sonic-blast-man-real-puncher.json](./56327-sonic-blast-man-real-puncher.json) |
@@ -13984,6 +13988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Gear | 332255 | [332255-sonic-gear.json](./332255-sonic-gear.json) |
 | Sonic Geda | 331745 | [331745-sonic-geda.json](./331745-sonic-geda.json) |
 | Sonic Gemini | 326820 | [326820-sonic-gemini.json](./326820-sonic-gemini.json) |
+| Sonic Gems Collection | 22510 | [22510-sonic-gems-collection.json](./22510-sonic-gems-collection.json) |
 | Sonic Generations | 128798 | [128798-sonic-generations.json](./128798-sonic-generations.json) |
 | Sonic Generations | 264885 | [264885-sonic-generations.json](./264885-sonic-generations.json) |
 | Sonic Generations | 320894 | [320894-sonic-generations.json](./320894-sonic-generations.json) |
@@ -19286,6 +19291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox 64: On-Foot Mode | 358252 | [358252-star-fox-64-on-foot-mode.json](./358252-star-fox-64-on-foot-mode.json) |
 | Star Fox 64: Survival | 146269 | [146269-star-fox-64-survival.json](./146269-star-fox-64-survival.json) |
 | Star Fox Adventures | 2686 | [2686-star-fox-adventures.json](./2686-star-fox-adventures.json) |
+| Star Fox Command | 20556 | [20556-star-fox-command.json](./20556-star-fox-command.json) |
 | Star Fox EX: Exploration Showcase | 233556 | [233556-star-fox-ex-exploration-showcase.json](./233556-star-fox-ex-exploration-showcase.json) |
 | Star Fox NES | 323905 | [323905-star-fox-nes.json](./323905-star-fox-nes.json) |
 | Star Fox Wii | 279750 | [279750-star-fox-wii.json](./279750-star-fox-wii.json) |
@@ -22050,6 +22056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Seasons: Pioneers of Olive Town Special | 197607 | [197607-story-of-seasons-pioneers-of-olive-town-special.json](./197607-story-of-seasons-pioneers-of-olive-town-special.json) |
 | Story of Seasons: Project Experiences | 250920 | [250920-story-of-seasons-project-experiences.json](./250920-story-of-seasons-project-experiences.json) |
 | Story of Seasons: Project You can Play with Everyone | 250921 | [250921-story-of-seasons-project-you-can-play-with-everyone.json](./250921-story-of-seasons-project-you-can-play-with-everyone.json) |
+| Story of Seasons: Trio of Towns | 15910 | [15910-story-of-seasons-trio-of-towns.json](./15910-story-of-seasons-trio-of-towns.json) |
 | Story of Seasons: Untitled 2024 | 303822 | [303822-story-of-seasons-untitled-2024.json](./303822-story-of-seasons-untitled-2024.json) |
 | Story of the Blanks | 281346 | [281346-story-of-the-blanks.json](./281346-story-of-the-blanks.json) |
 | Story of the Bug Eyed Monster | 91824 | [91824-story-of-the-bug-eyed-monster.json](./91824-story-of-the-bug-eyed-monster.json) |
@@ -28525,6 +28532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Fractured Daydream - Premium Upgrade | 331914 | [331914-sword-art-online-fractured-daydream-premium-upgrade.json](./331914-sword-art-online-fractured-daydream-premium-upgrade.json) |
 | Sword Art Online: Fractured Daydream - Symphony of a Dazzling Dawn | 356799 | [356799-sword-art-online-fractured-daydream-symphony-of-a-dazzling-dawn.json](./356799-sword-art-online-fractured-daydream-symphony-of-a-dazzling-dawn.json) |
 | Sword Art Online: Hollow Fragment | 9618 | [9618-sword-art-online-hollow-fragment.json](./9618-sword-art-online-hollow-fragment.json) |
+| Sword Art Online: Hollow Realization | 12632 | [12632-sword-art-online-hollow-realization.json](./12632-sword-art-online-hollow-realization.json) |
 | Sword Art Online: Hollow Realization - Limited Edition | 212317 | [212317-sword-art-online-hollow-realization-limited-edition.json](./212317-sword-art-online-hollow-realization-limited-edition.json) |
 | Sword Art Online: Hollow Realization Collector's Edition | 132182 | [132182-sword-art-online-hollow-realization-collectors-edition.json](./132182-sword-art-online-hollow-realization-collectors-edition.json) |
 | Sword Art Online: Infinity Moment | 11841 | [11841-sword-art-online-infinity-moment.json](./11841-sword-art-online-infinity-moment.json) |
@@ -28532,6 +28540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Last Recollection - Black Swordsman Swords Skins Set | 275831 | [275831-sword-art-online-last-recollection-black-swordsman-swords-skins-set.json](./275831-sword-art-online-last-recollection-black-swordsman-swords-skins-set.json) |
 | Sword Art Online: Last Recollection - Deluxe Edition | 271125 | [271125-sword-art-online-last-recollection-deluxe-edition.json](./271125-sword-art-online-last-recollection-deluxe-edition.json) |
 | Sword Art Online: Last Recollection - Digital Premium Edition | 271473 | [271473-sword-art-online-last-recollection-digital-premium-edition.json](./271473-sword-art-online-last-recollection-digital-premium-edition.json) |
+| Sword Art Online: Lost Song | 11842 | [11842-sword-art-online-lost-song.json](./11842-sword-art-online-lost-song.json) |
 | Sword Art Online: Lost Song - Limited Edition | 313299 | [313299-sword-art-online-lost-song-limited-edition.json](./313299-sword-art-online-lost-song-limited-edition.json) |
 | Sword Art Online: Unleash Blading | 318998 | [318998-sword-art-online-unleash-blading.json](./318998-sword-art-online-unleash-blading.json) |
 | Sword Art Online: Variant Showdown | 196564 | [196564-sword-art-online-variant-showdown.json](./196564-sword-art-online-variant-showdown.json) |
