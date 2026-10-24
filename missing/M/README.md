@@ -6315,6 +6315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X3: Tsuraranoma | 268418 | [268418-mega-man-x3-tsuraranoma.json](./268418-mega-man-x3-tsuraranoma.json) |
 | Mega Man X3: Zero Project | 76204 | [76204-mega-man-x3-zero-project.json](./76204-mega-man-x3-zero-project.json) |
 | Mega Man X4 | 1744 | [1744-mega-man-x4.json](./1744-mega-man-x4.json) |
+| Mega Man X5 | 1745 | [1745-mega-man-x5.json](./1745-mega-man-x5.json) |
 | Mega Man X5 Improvement Project | 196256 | [196256-mega-man-x5-improvement-project.json](./196256-mega-man-x5-improvement-project.json) |
 | Mega Man X5: Improvement Project Addendum | 308384 | [308384-mega-man-x5-improvement-project-addendum.json](./308384-mega-man-x5-improvement-project-addendum.json) |
 | Mega Man X6 Tweaks | 187363 | [187363-mega-man-x6-tweaks.json](./187363-mega-man-x6-tweaks.json) |
@@ -8829,6 +8830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Jewel 2 | 317539 | [317539-microsoft-jewel-2.json](./317539-microsoft-jewel-2.json) |
 | Microsoft Mahjong | 8977 | [8977-microsoft-mahjong.json](./8977-microsoft-mahjong.json) |
 | Microsoft Minesweeper | 127494 | [127494-microsoft-minesweeper.json](./127494-microsoft-minesweeper.json) |
+| Microsoft Minesweeper | 5421 | [5421-microsoft-minesweeper.json](./5421-microsoft-minesweeper.json) |
 | Microsoft Multiplan | 44366 | [44366-microsoft-multiplan.json](./44366-microsoft-multiplan.json) |
 | Microsoft Oceans | 146588 | [146588-microsoft-oceans.json](./146588-microsoft-oceans.json) |
 | Microsoft Pinball Arcade | 249159 | [249159-microsoft-pinball-arcade.json](./249159-microsoft-pinball-arcade.json) |
@@ -9155,6 +9157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic: Elemental Guardians | 70707 | [70707-might-and-magic-elemental-guardians.json](./70707-might-and-magic-elemental-guardians.json) |
 | Might & Magic: Heroes Kingdoms | 66416 | [66416-might-and-magic-heroes-kingdoms.json](./66416-might-and-magic-heroes-kingdoms.json) |
 | Might & Magic: Heroes Online | 20177 | [20177-might-and-magic-heroes-online.json](./20177-might-and-magic-heroes-online.json) |
+| Might & Magic: Heroes VI | 373 | [373-might-and-magic-heroes-vi.json](./373-might-and-magic-heroes-vi.json) |
 | Might & Magic: Heroes VI - Pirates of the Savage Sea | 13457 | [13457-might-and-magic-heroes-vi-pirates-of-the-savage-sea.json](./13457-might-and-magic-heroes-vi-pirates-of-the-savage-sea.json) |
 | Might & Magic: Heroes VI - Shades of Darkness | 8112 | [8112-might-and-magic-heroes-vi-shades-of-darkness.json](./8112-might-and-magic-heroes-vi-shades-of-darkness.json) |
 | Might & Magic: Showdown | 26854 | [26854-might-and-magic-showdown.json](./26854-might-and-magic-showdown.json) |
@@ -13194,6 +13197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Builders: Rushmore | 58648 | [58648-monument-builders-rushmore.json](./58648-monument-builders-rushmore.json) |
 | Monument Journey: Nitro | 213898 | [213898-monument-journey-nitro.json](./213898-monument-journey-nitro.json) |
 | Monument Valley 1&2 Bundle | 341446 | [341446-monument-valley-1-and-2-bundle.json](./341446-monument-valley-1-and-2-bundle.json) |
+| Monument Valley II | 36749 | [36749-monument-valley-ii.json](./36749-monument-valley-ii.json) |
 | Monument Valley II: Panoramic Edition | 203388 | [203388-monument-valley-ii-panoramic-edition.json](./203388-monument-valley-ii-panoramic-edition.json) |
 | Monument Valley II: The Lost Forest | 255779 | [255779-monument-valley-ii-the-lost-forest.json](./255779-monument-valley-ii-the-lost-forest.json) |
 | Monument Valley III | 121277 | [121277-monument-valley-iii.json](./121277-monument-valley-iii.json) |
@@ -13891,6 +13895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Tanya | 141050 | [141050-mortal-kombat-x-tanya.json](./141050-mortal-kombat-x-tanya.json) |
 | Mortal Kombat X: Triborg | 27887 | [27887-mortal-kombat-x-triborg.json](./27887-mortal-kombat-x-triborg.json) |
 | Mortal Kombat X: XL Pack | 141051 | [141051-mortal-kombat-x-xl-pack.json](./141051-mortal-kombat-x-xl-pack.json) |
+| Mortal Kombat XL | 18150 | [18150-mortal-kombat-xl.json](./18150-mortal-kombat-xl.json) |
 | Mortal Kombat: Arcade Edition | 214950 | [214950-mortal-kombat-arcade-edition.json](./214950-mortal-kombat-arcade-edition.json) |
 | Mortal Kombat: Armageddon - Premium Edition | 23793 | [23793-mortal-kombat-armageddon-premium-edition.json](./23793-mortal-kombat-armageddon-premium-edition.json) |
 | Mortal Kombat: Compatibility Pack 1 | 388882 | [388882-mortal-kombat-compatibility-pack-1.json](./388882-mortal-kombat-compatibility-pack-1.json) |
