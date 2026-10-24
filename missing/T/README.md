@@ -2183,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TatouPho Redact | 104546 | [104546-tatoupho-redact.json](./104546-tatoupho-redact.json) |
 | Tatsu | 33468 | [33468-tatsu.json](./33468-tatsu.json) |
 | Tatsu no Ko Fighter | 60762 | [60762-tatsu-no-ko-fighter.json](./60762-tatsu-no-ko-fighter.json) |
+| Tatsujin | 38096 | [38096-tatsujin.json](./38096-tatsujin.json) |
 | Tatsunami, let's clean up! | 353917 | [353917-tatsunami-lets-clean-up.json](./353917-tatsunami-lets-clean-up.json) |
 | Tatsuno Quest | 82767 | [82767-tatsuno-quest.json](./82767-tatsuno-quest.json) |
 | Tatsunoko Fight | 43811 | [43811-tatsunoko-fight.json](./43811-tatsunoko-fight.json) |
@@ -8195,6 +8196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Axe | 365824 | [365824-the-great-axe.json](./365824-the-great-axe.json) |
 | The Great Basement Escape | 385192 | [385192-the-great-basement-escape.json](./385192-the-great-basement-escape.json) |
 | The Great Bathroom Escape | 385190 | [385190-the-great-bathroom-escape.json](./385190-the-great-bathroom-escape.json) |
+| The Great Battle Gaiden 2: Matsuri da Wasshoi | 38124 | [38124-the-great-battle-gaiden-2-matsuri-da-wasshoi.json](./38124-the-great-battle-gaiden-2-matsuri-da-wasshoi.json) |
 | The Great Battle III | 66671 | [66671-the-great-battle-iii.json](./66671-the-great-battle-iii.json) |
 | The Great Battle of Shark Monkey Squirrel Dinossaur Bird Bee | 275681 | [275681-the-great-battle-of-shark-monkey-squirrel-dinossaur-bird-bee.json](./275681-the-great-battle-of-shark-monkey-squirrel-dinossaur-bird-bee.json) |
 | The Great Battle Pocket | 228554 | [228554-the-great-battle-pocket.json](./228554-the-great-battle-pocket.json) |
@@ -9355,6 +9357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Figthers 99 | 43912 | [43912-the-king-of-figthers-99.json](./43912-the-king-of-figthers-99.json) |
 | The King of Go | 417352 | [417352-the-king-of-go.json](./417352-the-king-of-go.json) |
 | The King of Golf | 228553 | [228553-the-king-of-golf.json](./228553-the-king-of-golf.json) |
+| The King of Rally | 38111 | [38111-the-king-of-rally.json](./38111-the-king-of-rally.json) |
 | The King of the Oceans | 157464 | [157464-the-king-of-the-oceans.json](./157464-the-king-of-the-oceans.json) |
 | The King of the Wood | 22368 | [22368-the-king-of-the-wood.json](./22368-the-king-of-the-wood.json) |
 | The King of Tower Defense | 360206 | [360206-the-king-of-tower-defense.json](./360206-the-king-of-tower-defense.json) |
@@ -21189,6 +21192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touchtone | 15550 | [15550-touchtone.json](./15550-touchtone.json) |
 | Toufra | 262948 | [262948-toufra.json](./262948-toufra.json) |
 | Touge Challenge | 161344 | [161344-touge-challenge.json](./161344-touge-challenge.json) |
+| Touge Densetsu: Saisoku Battle | 38125 | [38125-touge-densetsu-saisoku-battle.json](./38125-touge-densetsu-saisoku-battle.json) |
 | Touge King: The Spirits 2 | 66100 | [66100-touge-king-the-spirits-2.json](./66100-touge-king-the-spirits-2.json) |
 | Touge Max 2 | 66099 | [66099-touge-max-2.json](./66099-touge-max-2.json) |
 | Touge R | 60621 | [60621-touge-r.json](./60621-touge-r.json) |
