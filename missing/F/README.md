@@ -3989,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Digital Card Game | 113632 | [113632-final-fantasy-digital-card-game.json](./113632-final-fantasy-digital-card-game.json) |
 | Final Fantasy Dimensions | 19080 | [19080-final-fantasy-dimensions.json](./19080-final-fantasy-dimensions.json) |
 | Final Fantasy Essence | 323350 | [323350-final-fantasy-essence.json](./323350-final-fantasy-essence.json) |
+| Final Fantasy Explorers-Force | 27410 | [27410-final-fantasy-explorers-force.json](./27410-final-fantasy-explorers-force.json) |
 | Final Fantasy for Android | 84188 | [84188-final-fantasy-for-android.json](./84188-final-fantasy-for-android.json) |
 | Final Fantasy Grandmasters | 84174 | [84174-final-fantasy-grandmasters.json](./84174-final-fantasy-grandmasters.json) |
 | Final Fantasy I & II | 41835 | [41835-final-fantasy-i-and-ii.json](./41835-final-fantasy-i-and-ii.json) |
@@ -11119,6 +11120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futuclass: Oxygen Escape Room | 170493 | [170493-futuclass-oxygen-escape-room.json](./170493-futuclass-oxygen-escape-room.json) |
 | Futurama Saw Game | 384662 | [384662-futurama-saw-game.json](./384662-futurama-saw-game.json) |
 | Futurama: Game of Drones | 78620 | [78620-futurama-game-of-drones.json](./78620-futurama-game-of-drones.json) |
+| Futurama: Worlds of Tomorrow | 27412 | [27412-futurama-worlds-of-tomorrow.json](./27412-futurama-worlds-of-tomorrow.json) |
 | FuturCity Taxi | 246989 | [246989-futurcity-taxi.json](./246989-futurcity-taxi.json) |
 | Future & Girls | 368121 | [368121-future-and-girls.json](./368121-future-and-girls.json) |
 | Future Aero Racing S Ultra | 114077 | [114077-future-aero-racing-s-ultra.json](./114077-future-aero-racing-s-ultra.json) |
