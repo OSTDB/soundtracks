@@ -4017,6 +4017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages Puyo Puyo | 113379 | [113379-sega-ages-puyo-puyo.json](./113379-sega-ages-puyo-puyo.json) |
 | Sega Ages Thunder Force AC | 110060 | [110060-sega-ages-thunder-force-ac.json](./110060-sega-ages-thunder-force-ac.json) |
 | Sega Ages Virtua Racing | 110062 | [110062-sega-ages-virtua-racing.json](./110062-sega-ages-virtua-racing.json) |
+| Sega Ages Vol. 11: Phantasy Star Collection | 6533 | [6533-sega-ages-vol-11-phantasy-star-collection.json](./6533-sega-ages-vol-11-phantasy-star-collection.json) |
 | Sega Ages Wonder Boy: Monster Land | 117160 | [117160-sega-ages-wonder-boy-monster-land.json](./117160-sega-ages-wonder-boy-monster-land.json) |
 | Sega Ages: Columns Arcade Collection | 63125 | [63125-sega-ages-columns-arcade-collection.json](./63125-sega-ages-columns-arcade-collection.json) |
 | Sega Ages: Gain Ground | 110058 | [110058-sega-ages-gain-ground.json](./110058-sega-ages-gain-ground.json) |
@@ -6373,7 +6374,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shēnxiàn Mígōng | 157908 | [157908-shenxian-migong.json](./157908-shenxian-migong.json) |
 | Shényóu Kèběn | 373714 | [373714-shenyou-keben.json](./373714-shenyou-keben.json) |
 | Shēnyuān | 165700 | [165700-shenyuan.json](./165700-shenyuan.json) |
-| Shenzhen I/O | 25084 | [25084-shenzhen-i-o.json](./25084-shenzhen-i-o.json) |
 | Shenzhen Solitaire | 30085 | [30085-shenzhen-solitaire.json](./30085-shenzhen-solitaire.json) |
 | Sheol | 127871 | [127871-sheol.json](./127871-sheol.json) |
 | Sheol Inferno | 324943 | [324943-sheol-inferno.json](./324943-sheol-inferno.json) |
@@ -13608,7 +13608,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Memories | 76655 | [76655-song-of-memories.json](./76655-song-of-memories.json) |
 | Song of Morus: Limbo Express | 347492 | [347492-song-of-morus-limbo-express.json](./347492-song-of-morus-limbo-express.json) |
 | Song of Nanzhao | 360334 | [360334-song-of-nanzhao.json](./360334-song-of-nanzhao.json) |
-| Song of Nunu: A League of Legends Story | 182190 | [182190-song-of-nunu-a-league-of-legends-story.json](./182190-song-of-nunu-a-league-of-legends-story.json) |
 | Song of Pan | 38990 | [38990-song-of-pan.json](./38990-song-of-pan.json) |
 | Song of Slavs | 273405 | [273405-song-of-slavs.json](./273405-song-of-slavs.json) |
 | Song of Swords | 56302 | [56302-song-of-swords.json](./56302-song-of-swords.json) |
@@ -13998,6 +13997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Jump | 133940 | [133940-sonic-jump.json](./133940-sonic-jump.json) |
 | Sonic Jump | 64203 | [64203-sonic-jump.json](./64203-sonic-jump.json) |
 | Sonic Jump 2 | 133941 | [133941-sonic-jump-2.json](./133941-sonic-jump-2.json) |
+| Sonic Jump Fever | 8502 | [8502-sonic-jump-fever.json](./8502-sonic-jump-fever.json) |
 | Sonic Kaiser | 331377 | [331377-sonic-kaiser.json](./331377-sonic-kaiser.json) |
 | Sonic Kart 3DX | 261278 | [261278-sonic-kart-3dx.json](./261278-sonic-kart-3dx.json) |
 | Sonic Ki | 326148 | [326148-sonic-ki.json](./326148-sonic-ki.json) |
@@ -16463,7 +16463,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark of Survival | 280251 | [280251-spark-of-survival.json](./280251-spark-of-survival.json) |
 | Spark Protocol | 413036 | [413036-spark-protocol.json](./413036-spark-protocol.json) |
 | Spark Spark | 284255 | [284255-spark-spark.json](./284255-spark-spark.json) |
-| Spark the Electric Jester | 28134 | [28134-spark-the-electric-jester.json](./28134-spark-the-electric-jester.json) |
 | Spark the Electric Jester 3 | 153620 | [153620-spark-the-electric-jester-3.json](./153620-spark-the-electric-jester-3.json) |
 | Spark the Electric Jester: Recharged | 337175 | [337175-spark-the-electric-jester-recharged.json](./337175-spark-the-electric-jester-recharged.json) |
 | Spark! Photon Blast | 369082 | [369082-spark-photon-blast.json](./369082-spark-photon-blast.json) |
@@ -18889,6 +18888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Up (or dive trying) | 133132 | [133132-stack-up-or-dive-trying.json](./133132-stack-up-or-dive-trying.json) |
 | Stack World | 236383 | [236383-stack-world.json](./236383-stack-world.json) |
 | Stack-Making Neighbors | 258976 | [258976-stack-making-neighbors.json](./258976-stack-making-neighbors.json) |
+| Stack-up | 8579 | [8579-stack-up.json](./8579-stack-up.json) |
 | Stack,Clack,Clock! | 253211 | [253211-stack-clack-clock.json](./253211-stack-clack-clock.json) |
 | Stack! | 191216 | [191216-stack.json](./191216-stack.json) |
 | Stack'em | 206976 | [206976-stackem.json](./206976-stackem.json) |
@@ -22255,10 +22255,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Punch | 130664 | [130664-strawberry-punch.json](./130664-strawberry-punch.json) |
 | Strawberry Quest | 382370 | [382370-strawberry-quest.json](./382370-strawberry-quest.json) |
 | Strawberry Samurai | 197024 | [197024-strawberry-samurai.json](./197024-strawberry-samurai.json) |
+| Strawberry Shortcake: Amazing Cookie Party | 8569 | [8569-strawberry-shortcake-amazing-cookie-party.json](./8569-strawberry-shortcake-amazing-cookie-party.json) |
 | Strawberry Shortcake: And Her Berry Best Friends | 23813 | [23813-strawberry-shortcake-and-her-berry-best-friends.json](./23813-strawberry-shortcake-and-her-berry-best-friends.json) |
 | Strawberry Shortcake: Berry Rush | 259535 | [259535-strawberry-shortcake-berry-rush.json](./259535-strawberry-shortcake-berry-rush.json) |
+| Strawberry Shortcake: Ice Cream Island Riding Camp | 8571 | [8571-strawberry-shortcake-ice-cream-island-riding-camp.json](./8571-strawberry-shortcake-ice-cream-island-riding-camp.json) |
+| Strawberry Shortcake: Musical Match-ups | 8568 | [8568-strawberry-shortcake-musical-match-ups.json](./8568-strawberry-shortcake-musical-match-ups.json) |
+| Strawberry Shortcake: Strawberryland Games | 8573 | [8573-strawberry-shortcake-strawberryland-games.json](./8573-strawberry-shortcake-strawberryland-games.json) |
+| Strawberry Shortcake: Summertime Adventure | 8570 | [8570-strawberry-shortcake-summertime-adventure.json](./8570-strawberry-shortcake-summertime-adventure.json) |
 | Strawberry Shortcake: Summertime Adventure - Special Edition | 49501 | [49501-strawberry-shortcake-summertime-adventure-special-edition.json](./49501-strawberry-shortcake-summertime-adventure-special-edition.json) |
 | Strawberry Shortcake: Sweet Dreams | 49366 | [49366-strawberry-shortcake-sweet-dreams.json](./49366-strawberry-shortcake-sweet-dreams.json) |
+| Strawberry Shortcake: The Four Seasons Cake | 8574 | [8574-strawberry-shortcake-the-four-seasons-cake.json](./8574-strawberry-shortcake-the-four-seasons-cake.json) |
+| Strawberry Shortcake: The Sweet Dreams Game | 8572 | [8572-strawberry-shortcake-the-sweet-dreams-game.json](./8572-strawberry-shortcake-the-sweet-dreams-game.json) |
 | Strawberry Sweet Pop | 214960 | [214960-strawberry-sweet-pop.json](./214960-strawberry-sweet-pop.json) |
 | Strawberry Vinegar | 34341 | [34341-strawberry-vinegar.json](./34341-strawberry-vinegar.json) |
 | Strawhart | 123365 | [123365-strawhart.json](./123365-strawhart.json) |
@@ -23793,6 +23800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide Squad: Kill the Justice League - Season 3: Season of Lawless | 321529 | [321529-suicide-squad-kill-the-justice-league-season-3-season-of-lawless.json](./321529-suicide-squad-kill-the-justice-league-season-3-season-of-lawless.json) |
 | Suicide Squad: Kill the Justice League - Season of Freeze | 317869 | [317869-suicide-squad-kill-the-justice-league-season-of-freeze.json](./317869-suicide-squad-kill-the-justice-league-season-of-freeze.json) |
 | Suicide Squad: Kill the Justice League - Season of the Joker | 317868 | [317868-suicide-squad-kill-the-justice-league-season-of-the-joker.json](./317868-suicide-squad-kill-the-justice-league-season-of-the-joker.json) |
+| Suicide Strike | 8404 | [8404-suicide-strike.json](./8404-suicide-strike.json) |
 | Suicide Voyage | 67638 | [67638-suicide-voyage.json](./67638-suicide-voyage.json) |
 | Suicider | 82597 | [82597-suicider.json](./82597-suicider.json) |
 | Suidou Kozou | 91949 | [91949-suidou-kozou.json](./91949-suidou-kozou.json) |
@@ -24457,6 +24465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super B-Daman: Fighting Phoenix | 60594 | [60594-super-b-daman-fighting-phoenix.json](./60594-super-b-daman-fighting-phoenix.json) |
 | Super B-Dino's adventures | 101386 | [101386-super-b-dinos-adventures.json](./101386-super-b-dinos-adventures.json) |
 | Super Baby | 97678 | [97678-super-baby.json](./97678-super-baby.json) |
+| Super Back to the Future II | 8520 | [8520-super-back-to-the-future-ii.json](./8520-super-back-to-the-future-ii.json) |
 | Super Bad Hero | 296504 | [296504-super-bad-hero.json](./296504-super-bad-hero.json) |
 | Super Bafo Championship | 306784 | [306784-super-bafo-championship.json](./306784-super-bafo-championship.json) |
 | Super Bagman | 40003 | [40003-super-bagman.json](./40003-super-bagman.json) |
@@ -28519,6 +28528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Necromancer: Ultra Collector's Edition | 148543 | [148543-sword-of-the-necromancer-ultra-collectors-edition.json](./148543-sword-of-the-necromancer-ultra-collectors-edition.json) |
 | Sword of the Slayer | 123524 | [123524-sword-of-the-slayer.json](./123524-sword-of-the-slayer.json) |
 | Sword of the Spirit | 243123 | [243123-sword-of-the-spirit.json](./243123-sword-of-the-spirit.json) |
+| Sword of the Stars II: Lords of the Winter | 8544 | [8544-sword-of-the-stars-ii-lords-of-the-winter.json](./8544-sword-of-the-stars-ii-lords-of-the-winter.json) |
 | Sword of the Stars: A Murder of Crows | 10935 | [10935-sword-of-the-stars-a-murder-of-crows.json](./10935-sword-of-the-stars-a-murder-of-crows.json) |
 | Sword of the Stars: Argos Naval Yard | 10936 | [10936-sword-of-the-stars-argos-naval-yard.json](./10936-sword-of-the-stars-argos-naval-yard.json) |
 | Sword of the Stars: Born of Blood | 10934 | [10934-sword-of-the-stars-born-of-blood.json](./10934-sword-of-the-stars-born-of-blood.json) |
@@ -28735,6 +28745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symb Eco | 77362 | [77362-symb-eco.json](./77362-symb-eco.json) |
 | Symbio | 275827 | [275827-symbio.json](./275827-symbio.json) |
 | Symbio | 346012 | [346012-symbio.json](./346012-symbio.json) |
+| Symbiocom | 8417 | [8417-symbiocom.json](./8417-symbiocom.json) |
 | Symbiogenesis | 302964 | [302964-symbiogenesis.json](./302964-symbiogenesis.json) |
 | Symbiosis | 203684 | [203684-symbiosis.json](./203684-symbiosis.json) |
 | Symbiosis | 302916 | [302916-symbiosis.json](./302916-symbiosis.json) |
