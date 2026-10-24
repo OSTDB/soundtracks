@@ -5929,7 +5929,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nu//void | 183777 | [183777-nu-void.json](./183777-nu-void.json) |
 | Nuage | 93520 | [93520-nuage.json](./93520-nuage.json) |
 | Nubarron: The adventure of an unlucky gnome | 126978 | [126978-nubarron-the-adventure-of-an-unlucky-gnome.json](./126978-nubarron-the-adventure-of-an-unlucky-gnome.json) |
-| Nubby's Number Factory | 324225 | [324225-nubbys-number-factory.json](./324225-nubbys-number-factory.json) |
 | NubiaPhobia | 345019 | [345019-nubiaphobia.json](./345019-nubiaphobia.json) |
 | Nubla | 26813 | [26813-nubla.json](./26813-nubla.json) |
 | Nuclear Apocalypse 101 | 110032 | [110032-nuclear-apocalypse-101.json](./110032-nuclear-apocalypse-101.json) |
