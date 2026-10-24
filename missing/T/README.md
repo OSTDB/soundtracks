@@ -18513,6 +18513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Up | 68597 | [68597-time-up.json](./68597-time-up.json) |
 | Time Walker: Dark World | 220520 | [220520-time-walker-dark-world.json](./220520-time-walker-dark-world.json) |
 | Time Warp | 116770 | [116770-time-warp.json](./116770-time-warp.json) |
+| Time Warp | 40597 | [40597-time-warp.json](./40597-time-warp.json) |
 | Time Warpers | 110073 | [110073-time-warpers.json](./110073-time-warpers.json) |
 | Time Warrior | 221900 | [221900-time-warrior.json](./221900-time-warrior.json) |
 | Time Warrior Z VR | 116775 | [116775-time-warrior-z-vr.json](./116775-time-warrior-z-vr.json) |
@@ -24658,6 +24659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribal Mania | 377799 | [377799-tribal-mania.json](./377799-tribal-mania.json) |
 | Tribal Pass | 32646 | [32646-tribal-pass.json](./32646-tribal-pass.json) |
 | Tribal Rage | 78304 | [78304-tribal-rage.json](./78304-tribal-rage.json) |
+| Tribal Siege | 40562 | [40562-tribal-siege.json](./40562-tribal-siege.json) |
 | Tribal Towers: Siege of the Shifting Fortress | 296464 | [296464-tribal-towers-siege-of-the-shifting-fortress.json](./296464-tribal-towers-siege-of-the-shifting-fortress.json) |
 | Tribal Trouble | 64958 | [64958-tribal-trouble.json](./64958-tribal-trouble.json) |
 | Tribal Wars | 148522 | [148522-tribal-wars.json](./148522-tribal-wars.json) |
