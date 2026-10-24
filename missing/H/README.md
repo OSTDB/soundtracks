@@ -8475,6 +8475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Spring Beauties Japanese Inn Date Memory | 415061 | [415061-hot-spring-beauties-japanese-inn-date-memory.json](./415061-hot-spring-beauties-japanese-inn-date-memory.json) |
 | Hot Spring Hero | 171065 | [171065-hot-spring-hero.json](./171065-hot-spring-hero.json) |
 | Hot Springs | 311567 | [311567-hot-springs.json](./311567-hot-springs.json) |
+| Hot Springs Story | 26276 | [26276-hot-springs-story.json](./26276-hot-springs-story.json) |
 | Hot Springs Story 2 | 180274 | [180274-hot-springs-story-2.json](./180274-hot-springs-story-2.json) |
 | Hot Sprint Trip With A Married Woman | 97506 | [97506-hot-sprint-trip-with-a-married-woman.json](./97506-hot-sprint-trip-with-a-married-woman.json) |
 | Hot Squat | 30574 | [30574-hot-squat.json](./30574-hot-squat.json) |
