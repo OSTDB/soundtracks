@@ -5057,6 +5057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demo Disc: Flipside Frights | 398993 | [398993-demo-disc-flipside-frights.json](./398993-demo-disc-flipside-frights.json) |
 | Demo Disc: Spectral Mall | 214745 | [214745-demo-disc-spectral-mall.json](./214745-demo-disc-spectral-mall.json) |
 | Democracy | 5520 | [5520-democracy.json](./5520-democracy.json) |
+| Democracy 2 | 5521 | [5521-democracy-2.json](./5521-democracy-2.json) |
 | Democracy 3: Clones and Drones | 8766 | [8766-democracy-3-clones-and-drones.json](./8766-democracy-3-clones-and-drones.json) |
 | Democracy 3: Electioneering | 51754 | [51754-democracy-3-electioneering.json](./51754-democracy-3-electioneering.json) |
 | Democracy 3: Extremism | 51753 | [51753-democracy-3-extremism.json](./51753-democracy-3-extremism.json) |
@@ -7337,6 +7338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon World: Digital Card Battle | 186116 | [186116-digimon-world-digital-card-battle.json](./186116-digimon-world-digital-card-battle.json) |
 | Digimon World: Next Order | 225498 | [225498-digimon-world-next-order.json](./225498-digimon-world-next-order.json) |
 | Digimon Yolei and Hawkmon | 198725 | [198725-digimon-yolei-and-hawkmon.json](./198725-digimon-yolei-and-hawkmon.json) |
+| Digimon: Battle Spirit | 6374 | [6374-digimon-battle-spirit.json](./6374-digimon-battle-spirit.json) |
 | Digimon: Heroic Battle Spirit | 332590 | [332590-digimon-heroic-battle-spirit.json](./332590-digimon-heroic-battle-spirit.json) |
 | Digiquad | 301500 | [301500-digiquad.json](./301500-digiquad.json) |
 | Digit & Dash | 60255 | [60255-digit-and-dash.json](./60255-digit-and-dash.json) |
@@ -13508,6 +13510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver Pro: 2017 | 68602 | [68602-driver-pro-2017.json](./68602-driver-pro-2017.json) |
 | Driver Simulator Life | 245211 | [245211-driver-simulator-life.json](./245211-driver-simulator-life.json) |
 | Driver Test | 98799 | [98799-driver-test.json](./98799-driver-test.json) |
+| Driver: Renegade | 6758 | [6758-driver-renegade.json](./6758-driver-renegade.json) |
 | Driver: San Francisco | 554 | [554-driver-san-francisco.json](./554-driver-san-francisco.json) |
 | Driver: Speedboat Paradise | 60464 | [60464-driver-speedboat-paradise.json](./60464-driver-speedboat-paradise.json) |
 | Driver's Dread! | 311689 | [311689-drivers-dread.json](./311689-drivers-dread.json) |
