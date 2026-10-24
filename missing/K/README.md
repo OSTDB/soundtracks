@@ -2862,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdomino | 338728 | [338728-kingdomino.json](./338728-kingdomino.json) |
 | Kingdomonium | 157975 | [157975-kingdomonium.json](./157975-kingdomonium.json) |
 | Kingdoms | 259165 | [259165-kingdoms.json](./259165-kingdoms.json) |
+| Kingdoms and Castles | 26651 | [26651-kingdoms-and-castles.json](./26651-kingdoms-and-castles.json) |
 | Kingdoms and Slaves | 201713 | [201713-kingdoms-and-slaves.json](./201713-kingdoms-and-slaves.json) |
 | Kingdoms at War | 61455 | [61455-kingdoms-at-war.json](./61455-kingdoms-at-war.json) |
 | Kingdoms CCG | 17970 | [17970-kingdoms-ccg.json](./17970-kingdoms-ccg.json) |
@@ -3916,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knuckles the Echidna in Sonic the Hedgehog | 129185 | [129185-knuckles-the-echidna-in-sonic-the-hedgehog.json](./129185-knuckles-the-echidna-in-sonic-the-hedgehog.json) |
 | Knuckles the Echidna in Sonic the Hedgehog | 264457 | [264457-knuckles-the-echidna-in-sonic-the-hedgehog.json](./264457-knuckles-the-echidna-in-sonic-the-hedgehog.json) |
 | Knuckles Treasure Hunt | 325852 | [325852-knuckles-treasure-hunt.json](./325852-knuckles-treasure-hunt.json) |
+| Knuckles' Chaotix | 19762 | [19762-knuckles-chaotix.json](./19762-knuckles-chaotix.json) |
 | Knuckles' Emerald Hunt | 129184 | [129184-knuckles-emerald-hunt.json](./129184-knuckles-emerald-hunt.json) |
 | Knuckles' Emerald Hunt Mania | 333422 | [333422-knuckles-emerald-hunt-mania.json](./333422-knuckles-emerald-hunt-mania.json) |
 | Knuckles' Week At Sonic's | 400429 | [400429-knuckles-week-at-sonics.json](./400429-knuckles-week-at-sonics.json) |
