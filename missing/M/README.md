@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Gangster City | 151266 | [151266-mafia-gangster-city.json](./151266-mafia-gangster-city.json) |
 | Mafia Hotel | 416006 | [416006-mafia-hotel.json](./416006-mafia-hotel.json) |
 | Mafia II Mobile | 272451 | [272451-mafia-ii-mobile.json](./272451-mafia-ii-mobile.json) |
+| Mafia II: Definitive Edition | 134071 | [134071-mafia-ii-definitive-edition.json](./134071-mafia-ii-definitive-edition.json) |
 | Mafia II: Director's Cut | 47385 | [47385-mafia-ii-directors-cut.json](./47385-mafia-ii-directors-cut.json) |
 | Mafia II: Greaser Pack | 275236 | [275236-mafia-ii-greaser-pack.json](./275236-mafia-ii-greaser-pack.json) |
 | Mafia II: Made Man Pack | 275238 | [275238-mafia-ii-made-man-pack.json](./275238-mafia-ii-made-man-pack.json) |
@@ -3254,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party 1: Mambo Beach | 283633 | [283633-mario-party-1-mambo-beach.json](./283633-mario-party-1-mambo-beach.json) |
 | Mario Party 1: SNES Rainbow Road | 283421 | [283421-mario-party-1-snes-rainbow-road.json](./283421-mario-party-1-snes-rainbow-road.json) |
 | Mario Party 10 | 7340 | [7340-mario-party-10.json](./7340-mario-party-10.json) |
+| Mario Party 2 | 2328 | [2328-mario-party-2.json](./2328-mario-party-2.json) |
 | Mario Party 3 | 2329 | [2329-mario-party-3.json](./2329-mario-party-3.json) |
 | Mario Party 3 StarStruck | 248306 | [248306-mario-party-3-starstruck.json](./248306-mario-party-3-starstruck.json) |
 | Mario Party 4 | 231603 | [231603-mario-party-4.json](./231603-mario-party-4.json) |
@@ -8195,6 +8197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Nebulus | 324078 | [324078-metroid-nebulus.json](./324078-metroid-nebulus.json) |
 | Metroid Planets | 166150 | [166150-metroid-planets.json](./166150-metroid-planets.json) |
 | Metroid Prime 2: Echoes | 1108 | [1108-metroid-prime-2-echoes.json](./1108-metroid-prime-2-echoes.json) |
+| Metroid Prime 3: Corruption | 1111 | [1111-metroid-prime-3-corruption.json](./1111-metroid-prime-3-corruption.json) |
 | Metroid Prime Pinball | 1109 | [1109-metroid-prime-pinball.json](./1109-metroid-prime-pinball.json) |
 | Metroid Prime Remastered | 236663 | [236663-metroid-prime-remastered.json](./236663-metroid-prime-remastered.json) |
 | Metroid Prime: Google Translate Edition | 255380 | [255380-metroid-prime-google-translate-edition.json](./255380-metroid-prime-google-translate-edition.json) |
@@ -10922,6 +10925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misha | 371009 | [371009-misha.json](./371009-misha.json) |
 | Mishap 2: An Intentional Haunting - Collector's Edition | 54238 | [54238-mishap-2-an-intentional-haunting-collectors-edition.json](./54238-mishap-2-an-intentional-haunting-collectors-edition.json) |
 | Mishap: An Accidental Haunting | 16162 | [16162-mishap-an-accidental-haunting.json](./16162-mishap-an-accidental-haunting.json) |
+| MiSide | 255777 | [255777-miside.json](./255777-miside.json) |
 | Miside Reality | 335963 | [335963-miside-reality.json](./335963-miside-reality.json) |
 | MiSide: Zero | 384789 | [384789-miside-zero.json](./384789-miside-zero.json) |
 | Misión en África | 316782 | [316782-mision-en-africa.json](./316782-mision-en-africa.json) |
