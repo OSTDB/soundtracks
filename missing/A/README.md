@@ -1578,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above Below | 216462 | [216462-above-below.json](./216462-above-below.json) |
 | Above Earth | 121257 | [121257-above-earth.json](./121257-above-earth.json) |
 | Above Eden | 400942 | [400942-above-eden.json](./400942-above-eden.json) |
+| Above Snakes | 150562 | [150562-above-snakes.json](./150562-above-snakes.json) |
 | Above the Fold | 112605 | [112605-above-the-fold.json](./112605-above-the-fold.json) |
 | Above the Hill | 267280 | [267280-above-the-hill.json](./267280-above-the-hill.json) |
 | Above the Law | 195529 | [195529-above-the-law.json](./195529-above-the-law.json) |
@@ -8440,6 +8441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1701 A.D.: Gold Edition | 180265 | [180265-anno-1701-a-d-gold-edition.json](./180265-anno-1701-a-d-gold-edition.json) |
 | Anno 1701: History Edition | 135739 | [135739-anno-1701-history-edition.json](./135739-anno-1701-history-edition.json) |
 | Anno 1701: Limited Edition | 180266 | [180266-anno-1701-limited-edition.json](./180266-anno-1701-limited-edition.json) |
+| Anno 1701: The Sunken Dragon | 8226 | [8226-anno-1701-the-sunken-dragon.json](./8226-anno-1701-the-sunken-dragon.json) |
 | Anno 1800: Aesthetic Artisans Bundle | 317365 | [317365-anno-1800-aesthetic-artisans-bundle.json](./317365-anno-1800-aesthetic-artisans-bundle.json) |
 | Anno 1800: Amusements Pack | 227317 | [227317-anno-1800-amusements-pack.json](./227317-anno-1800-amusements-pack.json) |
 | Anno 1800: Botanica | 150963 | [150963-anno-1800-botanica.json](./150963-anno-1800-botanica.json) |
@@ -10527,6 +10529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Star | 106630 | [106630-archery-star.json](./106630-archery-star.json) |
 | Archery Talent | 181580 | [181580-archery-talent.json](./181580-archery-talent.json) |
 | Archery Tournament | 242563 | [242563-archery-tournament.json](./242563-archery-tournament.json) |
+| Arches | 145445 | [145445-arches.json](./145445-arches.json) |
 | Arches | 184230 | [184230-arches.json](./184230-arches.json) |
 | Archesis | 245955 | [245955-archesis.json](./245955-archesis.json) |
 | Archetypal Destroyer | 339311 | [339311-archetypal-destroyer.json](./339311-archetypal-destroyer.json) |
