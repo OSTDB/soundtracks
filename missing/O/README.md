@@ -2546,6 +2546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onsen Nozokimi Daisakusen | 306679 | [306679-onsen-nozokimi-daisakusen.json](./306679-onsen-nozokimi-daisakusen.json) |
 | Onsento | 399591 | [399591-onsento.json](./399591-onsento.json) |
 | OnsenVR | 75804 | [75804-onsenvr.json](./75804-onsenvr.json) |
+| Onset | 119395 | [119395-onset.json](./119395-onset.json) |
 | Onside Soccer | 37125 | [37125-onside-soccer.json](./37125-onside-soccer.json) |
 | Onslaught | 259137 | [259137-onslaught.json](./259137-onslaught.json) |
 | Onslaught | 341510 | [341510-onslaught.json](./341510-onslaught.json) |
