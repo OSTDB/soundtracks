@@ -2264,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Act-Fancer: Cybernetick Hyper Weapon | 12270 | [12270-act-fancer-cybernetick-hyper-weapon.json](./12270-act-fancer-cybernetick-hyper-weapon.json) |
 | Actala: The Hero's Shadow | 219700 | [219700-actala-the-heros-shadow.json](./219700-actala-the-heros-shadow.json) |
 | Acter World | 80364 | [80364-acter-world.json](./80364-acter-world.json) |
+| Acting Lessons | 121823 | [121823-acting-lessons.json](./121823-acting-lessons.json) |
 | Acting Out | 401278 | [401278-acting-out.json](./401278-acting-out.json) |
 | Action 52 | 238205 | [238205-action-52.json](./238205-action-52.json) |
 | Action 52 | 5340 | [5340-action-52.json](./5340-action-52.json) |
@@ -2435,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adarin Farm | 187408 | [187408-adarin-farm.json](./187408-adarin-farm.json) |
 | Adarna | 326038 | [326038-adarna.json](./326038-adarna.json) |
 | Adarna: Alamat ni Maria Blanca | 120168 | [120168-adarna-alamat-ni-maria-blanca.json](./120168-adarna-alamat-ni-maria-blanca.json) |
+| Adastra | 135341 | [135341-adastra.json](./135341-adastra.json) |
 | Add Flyers To Dreams | 400472 | [400472-add-flyers-to-dreams.json](./400472-add-flyers-to-dreams.json) |
 | Add It! | 130853 | [130853-add-it.json](./130853-add-it.json) |
 | Add Town | 316475 | [316475-add-town.json](./316475-add-town.json) |
@@ -2954,7 +2956,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3282,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affraid | 385267 | [385267-affraid.json](./385267-affraid.json) |
 | Afghan Hero Girl | 225701 | [225701-afghan-hero-girl.json](./225701-afghan-hero-girl.json) |
 | Afghanistan '11 | 29744 | [29744-afghanistan-11.json](./29744-afghanistan-11.json) |
+| AFK Arena | 125930 | [125930-afk-arena.json](./125930-afk-arena.json) |
 | AFK Champions | 193866 | [193866-afk-champions.json](./193866-afk-champions.json) |
 | AFK Dungeon | 266256 | [266256-afk-dungeon.json](./266256-afk-dungeon.json) |
 | AFK Football | 267314 | [267314-afk-football.json](./267314-afk-football.json) |
@@ -3682,6 +3684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Mahjong | 52376 | [52376-age-of-mahjong.json](./52376-age-of-mahjong.json) |
 | Age of Memology | 392819 | [392819-age-of-memology.json](./392819-age-of-memology.json) |
 | Age of Mythology: Extended Edition | 9902 | [9902-age-of-mythology-extended-edition.json](./9902-age-of-mythology-extended-edition.json) |
+| Age of Mythology: Gold Edition | 129851 | [129851-age-of-mythology-gold-edition.json](./129851-age-of-mythology-gold-edition.json) |
 | Age of Mythology: Retold - Heavenly Spear | 348197 | [348197-age-of-mythology-retold-heavenly-spear.json](./348197-age-of-mythology-retold-heavenly-spear.json) |
 | Age of Mythology: Retold - Obsidian Mirror | 395818 | [395818-age-of-mythology-retold-obsidian-mirror.json](./395818-age-of-mythology-retold-obsidian-mirror.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
@@ -3722,6 +3725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Warscape | 28209 | [28209-age-of-warscape.json](./28209-age-of-warscape.json) |
 | Age of Water | 254322 | [254322-age-of-water.json](./254322-age-of-water.json) |
 | Age of Wonders | 589 | [589-age-of-wonders.json](./589-age-of-wonders.json) |
+| Age of Wonders 4 | 232571 | [232571-age-of-wonders-4.json](./232571-age-of-wonders-4.json) |
 | Age of Wonders 4: Cosmic Wanderer | 371020 | [371020-age-of-wonders-4-cosmic-wanderer.json](./371020-age-of-wonders-4-cosmic-wanderer.json) |
 | Age of Wonders 4: Dragon Dawn | 252621 | [252621-age-of-wonders-4-dragon-dawn.json](./252621-age-of-wonders-4-dragon-dawn.json) |
 | Age of Wonders 4: Eldritch Realms | 258839 | [258839-age-of-wonders-4-eldritch-realms.json](./258839-age-of-wonders-4-eldritch-realms.json) |
