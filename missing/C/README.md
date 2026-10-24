@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C out | 37302 | [37302-c-out.json](./37302-c-out.json) |
 | C So! | 6095 | [6095-c-so.json](./6095-c-so.json) |
 | C ya laterrrr | 177817 | [177817-c-ya-laterrrr.json](./177817-c-ya-laterrrr.json) |
+| C-2048 | 41177 | [41177-c-2048.json](./41177-c-2048.json) |
 | C-4 | 165733 | [165733-c-4.json](./165733-c-4.json) |
 | C-Dogs | 23572 | [23572-c-dogs.json](./23572-c-dogs.json) |
 | C-Dogs SDL | 182203 | [182203-c-dogs-sdl.json](./182203-c-dogs-sdl.json) |
@@ -2754,6 +2755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Shikigami 3 | 331315 | [331315-castle-of-shikigami-3.json](./331315-castle-of-shikigami-3.json) |
 | Castle of Shikigami III | 4751 | [4751-castle-of-shikigami-iii.json](./4751-castle-of-shikigami-iii.json) |
 | Castle of Shikigami: Evolution | 174166 | [174166-castle-of-shikigami-evolution.json](./174166-castle-of-shikigami-evolution.json) |
+| Castle of Spirits | 41171 | [41171-castle-of-spirits.json](./41171-castle-of-spirits.json) |
 | Castle of the Countess | 343682 | [343682-castle-of-the-countess.json](./343682-castle-of-the-countess.json) |
 | Castle of The Dark Ages | 271754 | [271754-castle-of-the-dark-ages.json](./271754-castle-of-the-dark-ages.json) |
 | Castle of the Land | 153356 | [153356-castle-of-the-land.json](./153356-castle-of-the-land.json) |
@@ -5628,6 +5630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickens VS Zombies | 299414 | [299414-chickens-vs-zombies.json](./299414-chickens-vs-zombies.json) |
 | Chickens. Chickens? Chickens! | 417412 | [417412-chickens-chickens-chickens.json](./417412-chickens-chickens-chickens.json) |
 | ChickenZ | 192716 | [192716-chickenz.json](./192716-chickenz.json) |
+| Chickhack | 41169 | [41169-chickhack.json](./41169-chickhack.json) |
 | Chickip Dancers: Nori-nori Dance de Kokoro mo Odoru | 222365 | [222365-chickip-dancers-nori-nori-dance-de-kokoro-mo-odoru.json](./222365-chickip-dancers-nori-nori-dance-de-kokoro-mo-odoru.json) |
 | Chicklet | 365167 | [365167-chicklet.json](./365167-chicklet.json) |
 | Chicktionary | 375202 | [375202-chicktionary.json](./375202-chicktionary.json) |
@@ -10555,6 +10558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cones in Space | 254771 | [254771-cones-in-space.json](./254771-cones-in-space.json) |
 | Conexus | 202920 | [202920-conexus.json](./202920-conexus.json) |
 | Conexus | 243652 | [243652-conexus.json](./243652-conexus.json) |
+| Coney Island | 41136 | [41136-coney-island.json](./41136-coney-island.json) |
 | Coney's | 386913 | [386913-coneys.json](./386913-coneys.json) |
 | Confabulation: Homestead | 244776 | [244776-confabulation-homestead.json](./244776-confabulation-homestead.json) |
 | Confederate Express | 62730 | [62730-confederate-express.json](./62730-confederate-express.json) |
@@ -12602,6 +12606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cracked | 261769 | [261769-cracked.json](./261769-cracked.json) |
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
 | Cracked Up | 164961 | [164961-cracked-up.json](./164961-cracked-up.json) |
+| Crackers Revenge | 41151 | [41151-crackers-revenge.json](./41151-crackers-revenge.json) |
 | Crackheads | 396342 | [396342-crackheads.json](./396342-crackheads.json) |
 | Crackin' Smackin | 251960 | [251960-crackin-smackin.json](./251960-crackin-smackin.json) |
 | Cracking Sands | 64481 | [64481-cracking-sands.json](./64481-cracking-sands.json) |
