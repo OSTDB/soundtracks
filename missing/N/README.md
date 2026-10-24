@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nameless Shells | 267916 | [267916-nameless-shells.json](./267916-nameless-shells.json) |
 | Nameless Worlds | 117585 | [117585-nameless-worlds.json](./117585-nameless-worlds.json) |
 | Nameless: the Hackers | 200322 | [200322-nameless-the-hackers.json](./200322-nameless-the-hackers.json) |
+| Nameless: The One Thing You Must Recall | 28580 | [28580-nameless-the-one-thing-you-must-recall.json](./28580-nameless-the-one-thing-you-must-recall.json) |
 | Nami | 169846 | [169846-nami.json](./169846-nami.json) |
 | Nami no Iro: The Color of the Waves | 385775 | [385775-nami-no-iro-the-color-of-the-waves.json](./385775-nami-no-iro-the-color-of-the-waves.json) |
 | Nami no Mani Mani - Sazanami Shinryoushou | 70645 | [70645-nami-no-mani-mani-sazanami-shinryoushou.json](./70645-nami-no-mani-mani-sazanami-shinryoushou.json) |
@@ -1577,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negitlet | 360894 | [360894-negitlet.json](./360894-negitlet.json) |
 | Neglected | 133079 | [133079-neglected.json](./133079-neglected.json) |
 | Neglected: Trust test | 170904 | [170904-neglected-trust-test.json](./170904-neglected-trust-test.json) |
+| Negligee | 28207 | [28207-negligee.json](./28207-negligee.json) |
 | Negligee | 283135 | [283135-negligee.json](./283135-negligee.json) |
 | Negligee: Love Stories | 111743 | [111743-negligee-love-stories.json](./111743-negligee-love-stories.json) |
 | Negligee: Opposites Attract | 160126 | [160126-negligee-opposites-attract.json](./160126-negligee-opposites-attract.json) |
