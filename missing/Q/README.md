@@ -750,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest of Persia: The End of Innocence | 191671 | [191671-quest-of-persia-the-end-of-innocence.json](./191671-quest-of-persia-the-end-of-innocence.json) |
 | Quest of the Dragon Soul | 295926 | [295926-quest-of-the-dragon-soul.json](./295926-quest-of-the-dragon-soul.json) |
 | Quest of the Hero | 348988 | [348988-quest-of-the-hero.json](./348988-quest-of-the-hero.json) |
+| Quest of the Space Beagle | 24678 | [24678-quest-of-the-space-beagle.json](./24678-quest-of-the-space-beagle.json) |
 | Quest of Vidhuraa | 99591 | [99591-quest-of-vidhuraa.json](./99591-quest-of-vidhuraa.json) |
 | Quest of Wizard | 188909 | [188909-quest-of-wizard.json](./188909-quest-of-wizard.json) |
 | Quest of Yipe! | 139159 | [139159-quest-of-yipe.json](./139159-quest-of-yipe.json) |
@@ -796,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questor's Quest | 59693 | [59693-questors-quest.json](./59693-questors-quest.json) |
 | Questprobe featuring The Hulk | 12934 | [12934-questprobe-featuring-the-hulk.json](./12934-questprobe-featuring-the-hulk.json) |
 | Questris | 413871 | [413871-questris.json](./413871-questris.json) |
+| Questron | 24650 | [24650-questron.json](./24650-questron.json) |
 | Questscape | 294145 | [294145-questscape.json](./294145-questscape.json) |
 | Questscape: Survival | 310128 | [310128-questscape-survival.json](./310128-questscape-survival.json) |
 | Quetzal | 299302 | [299302-quetzal.json](./299302-quetzal.json) |
