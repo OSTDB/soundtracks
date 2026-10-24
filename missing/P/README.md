@@ -2616,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol | 298309 | [298309-paw-patrol.json](./298309-paw-patrol.json) |
 | Paw Patrol Bundle | 150141 | [150141-paw-patrol-bundle.json](./150141-paw-patrol-bundle.json) |
 | PAW Patrol Collection | 137559 | [137559-paw-patrol-collection.json](./137559-paw-patrol-collection.json) |
+| PAW Patrol Mighty Pups: Save Adventure Bay! | 137276 | [137276-paw-patrol-mighty-pups-save-adventure-bay.json](./137276-paw-patrol-mighty-pups-save-adventure-bay.json) |
 | Paw Patrol the Movie: Adventure City Calls | 152302 | [152302-paw-patrol-the-movie-adventure-city-calls.json](./152302-paw-patrol-the-movie-adventure-city-calls.json) |
 | Paw Patrol To The Rescue! Learning Video Game | 274682 | [274682-paw-patrol-to-the-rescue-learning-video-game.json](./274682-paw-patrol-to-the-rescue-learning-video-game.json) |
 | Paw Patrol World: Aqua Pups - Costume Pack | 272231 | [272231-paw-patrol-world-aqua-pups-costume-pack.json](./272231-paw-patrol-world-aqua-pups-costume-pack.json) |
@@ -4398,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharaoh Miracle Legend | 107097 | [107097-pharaoh-miracle-legend.json](./107097-pharaoh-miracle-legend.json) |
 | Pharaoh Rebirth+ | 20102 | [20102-pharaoh-rebirth.json](./20102-pharaoh-rebirth.json) |
 | Pharaoh Revenger | 221898 | [221898-pharaoh-revenger.json](./221898-pharaoh-revenger.json) |
+| Pharaoh: A New Era | 138205 | [138205-pharaoh-a-new-era.json](./138205-pharaoh-a-new-era.json) |
 | Pharaoh's Ascent | 73633 | [73633-pharaohs-ascent.json](./73633-pharaohs-ascent.json) |
 | Pharaoh's Curse | 40659 | [40659-pharaohs-curse.json](./40659-pharaohs-curse.json) |
 | Pharaoh's Purse | 314514 | [314514-pharaohs-purse.json](./314514-pharaohs-purse.json) |
@@ -7574,6 +7576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planets: The life of normalcy has ended! | 124678 | [124678-planets-the-life-of-normalcy-has-ended.json](./124678-planets-the-life-of-normalcy-has-ended.json) |
 | Planetship | 36098 | [36098-planetship.json](./36098-planetship.json) |
 | Planetside | 299854 | [299854-planetside.json](./299854-planetside.json) |
+| PlanetSide | 1829 | [1829-planetside.json](./1829-planetside.json) |
 | PlanetSide 2 | 1265 | [1265-planetside-2.json](./1265-planetside-2.json) |
 | PlanetSide 2: Essential Pack | 225573 | [225573-planetside-2-essential-pack.json](./225573-planetside-2-essential-pack.json) |
 | PlanetSide Arena | 113362 | [113362-planetside-arena.json](./113362-planetside-arena.json) |
@@ -11743,6 +11746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Evangile W Happiness | 140525 | [140525-princess-evangile-w-happiness.json](./140525-princess-evangile-w-happiness.json) |
 | Princess Evangile W Happiness | 43360 | [43360-princess-evangile-w-happiness.json](./43360-princess-evangile-w-happiness.json) |
 | Princess Fantasy Catventure | 410887 | [410887-princess-fantasy-catventure.json](./410887-princess-fantasy-catventure.json) |
+| Princess Farmer | 134882 | [134882-princess-farmer.json](./134882-princess-farmer.json) |
 | Princess Hit! | 125071 | [125071-princess-hit.json](./125071-princess-hit.json) |
 | Princess Home | 227243 | [227243-princess-home.json](./227243-princess-home.json) |
 | Princess in Airiness | 160161 | [160161-princess-in-airiness.json](./160161-princess-in-airiness.json) |
