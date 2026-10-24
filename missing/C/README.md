@@ -2230,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carpathian Night Starring Bela Lugosi | 330234 | [330234-carpathian-night-starring-bela-lugosi.json](./330234-carpathian-night-starring-bela-lugosi.json) |
 | Carpathian Skies | 310706 | [310706-carpathian-skies.json](./310706-carpathian-skies.json) |
 | Carpathian Survival | 315263 | [315263-carpathian-survival.json](./315263-carpathian-survival.json) |
+| Carpe Diem | 33949 | [33949-carpe-diem.json](./33949-carpe-diem.json) |
 | Carpe Diem Project | 226297 | [226297-carpe-diem-project.json](./226297-carpe-diem-project.json) |
 | Carpe Noctem | 309372 | [309372-carpe-noctem.json](./309372-carpe-noctem.json) |
 | Carpenter Genzo: Robot Empire | 55937 | [55937-carpenter-genzo-robot-empire.json](./55937-carpenter-genzo-robot-empire.json) |
@@ -5612,6 +5613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Invaders 2: Christmas Edition | 79049 | [79049-chicken-invaders-2-christmas-edition.json](./79049-chicken-invaders-2-christmas-edition.json) |
 | Chicken Invaders 3 Xmas | 89285 | [89285-chicken-invaders-3-xmas.json](./89285-chicken-invaders-3-xmas.json) |
 | Chicken Invaders 3: Easter Edition | 155576 | [155576-chicken-invaders-3-easter-edition.json](./155576-chicken-invaders-3-easter-edition.json) |
+| Chicken Invaders 3: Revenge of the Yolk | 35031 | [35031-chicken-invaders-3-revenge-of-the-yolk.json](./35031-chicken-invaders-3-revenge-of-the-yolk.json) |
 | Chicken Invaders 4 | 36308 | [36308-chicken-invaders-4.json](./36308-chicken-invaders-4.json) |
 | Chicken Invaders 4: Ultimate Omelette | 11716 | [11716-chicken-invaders-4-ultimate-omelette.json](./11716-chicken-invaders-4-ultimate-omelette.json) |
 | Chicken Invaders 5 Deluxe | 52743 | [52743-chicken-invaders-5-deluxe.json](./52743-chicken-invaders-5-deluxe.json) |
@@ -9442,6 +9444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony Siege | 127192 | [127192-colony-siege.json](./127192-colony-siege.json) |
 | Colony Simulator | 187196 | [187196-colony-simulator.json](./187196-colony-simulator.json) |
 | Colony Strikes Back | 175893 | [175893-colony-strikes-back.json](./175893-colony-strikes-back.json) |
+| Colony Survival | 35371 | [35371-colony-survival.json](./35371-colony-survival.json) |
 | Colony Wars 2494 | 19585 | [19585-colony-wars-2494.json](./19585-colony-wars-2494.json) |
 | Colony Wars: Red Sun | 8282 | [8282-colony-wars-red-sun.json](./8282-colony-wars-red-sun.json) |
 | Colony Wars: Vengeance | 8281 | [8281-colony-wars-vengeance.json](./8281-colony-wars-vengeance.json) |
@@ -11151,6 +11154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra: Hard Corps | 20192 | [20192-contra-hard-corps.json](./20192-contra-hard-corps.json) |
 | Contra: Locked 'N' Loaded | 221066 | [221066-contra-locked-n-loaded.json](./221066-contra-locked-n-loaded.json) |
 | Contra: Rogue Corps | 119385 | [119385-contra-rogue-corps.json](./119385-contra-rogue-corps.json) |
+| Contra: Shattered Soldier | 22226 | [22226-contra-shattered-soldier.json](./22226-contra-shattered-soldier.json) |
 | Contra: The War of the Worlds | 216358 | [216358-contra-the-war-of-the-worlds.json](./216358-contra-the-war-of-the-worlds.json) |
 | Contraband | 152240 | [152240-contraband.json](./152240-contraband.json) |
 | Contraband Patrol Simulator | 364973 | [364973-contraband-patrol-simulator.json](./364973-contraband-patrol-simulator.json) |
