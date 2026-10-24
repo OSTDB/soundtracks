@@ -878,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ECON | 112470 | [112470-econ.json](./112470-econ.json) |
 | Econia: Crypto Idle Tycoon! | 232376 | [232376-econia-crypto-idle-tycoon.json](./232376-econia-crypto-idle-tycoon.json) |
 | Economia: Millennium | 284834 | [284834-economia-millennium.json](./284834-economia-millennium.json) |
+| Economic Conquest | 29894 | [29894-economic-conquest.json](./29894-economic-conquest.json) |
 | Economic Miracle | 361486 | [361486-economic-miracle.json](./361486-economic-miracle.json) |
 | Economic War | 202701 | [202701-economic-war.json](./202701-economic-war.json) |
 | Economica | 131218 | [131218-economica.json](./131218-economica.json) |
@@ -2060,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EliosM: Red Battlefield | 174802 | [174802-eliosm-red-battlefield.json](./174802-eliosm-red-battlefield.json) |
 | Elis in Winterland | 261657 | [261657-elis-in-winterland.json](./261657-elis-in-winterland.json) |
 | Elisa: Seduce the Innkeeper | 63734 | [63734-elisa-seduce-the-innkeeper.json](./63734-elisa-seduce-the-innkeeper.json) |
+| Elisa: the Innkeeper | 29916 | [29916-elisa-the-innkeeper.json](./29916-elisa-the-innkeeper.json) |
 | Elisa: The Innkeeper - Prequel | 32622 | [32622-elisa-the-innkeeper-prequel.json](./32622-elisa-the-innkeeper-prequel.json) |
 | Elise | 245365 | [245365-elise.json](./245365-elise.json) |
 | Elise | 285130 | [285130-elise.json](./285130-elise.json) |
