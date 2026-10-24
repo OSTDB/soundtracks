@@ -4271,6 +4271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intruder | 292079 | [292079-intruder.json](./292079-intruder.json) |
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
 | Intruder | 378208 | [378208-intruder.json](./378208-intruder.json) |
+| Intruder | 40011 | [40011-intruder.json](./40011-intruder.json) |
 | Intruder -Sakura Yashiki no Tansaku- | 138224 | [138224-intruder-sakura-yashiki-no-tansaku.json](./138224-intruder-sakura-yashiki-no-tansaku.json) |
 | Intruder Alert | 279486 | [279486-intruder-alert.json](./279486-intruder-alert.json) |
 | Intruder Alert: Ixian Operations | 33126 | [33126-intruder-alert-ixian-operations.json](./33126-intruder-alert-ixian-operations.json) |
@@ -4455,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invincible Vs.: Universa - GDA Prisoner Skin | 411388 | [411388-invincible-vs-universa-gda-prisoner-skin.json](./411388-invincible-vs-universa-gda-prisoner-skin.json) |
 | Invincible Vs.: Zero-Suit Mark Cosmetic Skin | 410816 | [410816-invincible-vs-zero-suit-mark-cosmetic-skin.json](./410816-invincible-vs-zero-suit-mark-cosmetic-skin.json) |
 | Invincible: Guarding the Globe | 257102 | [257102-invincible-guarding-the-globe.json](./257102-invincible-guarding-the-globe.json) |
+| Invinco | 39992 | [39992-invinco.json](./39992-invinco.json) |
 | Invirium | 143346 | [143346-invirium.json](./143346-invirium.json) |
 | Invisiballs | 100552 | [100552-invisiballs.json](./100552-invisiballs.json) |
 | Invisible | 131556 | [131556-invisible.json](./131556-invisible.json) |
