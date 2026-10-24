@@ -6019,6 +6019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Girl Life Simulator | 102757 | [102757-high-school-girl-life-simulator.json](./102757-high-school-girl-life-simulator.json) |
 | High School Girl Simulator 3D | 299905 | [299905-high-school-girl-simulator-3d.json](./299905-high-school-girl-simulator-3d.json) |
 | High School Hook Ups | 239469 | [239469-high-school-hook-ups.json](./239469-high-school-hook-ups.json) |
+| High School Kimengumi | 41738 | [41738-high-school-kimengumi.json](./41738-high-school-kimengumi.json) |
 | High School Love Sim Life Game | 296756 | [296756-high-school-love-sim-life-game.json](./296756-high-school-love-sim-life-game.json) |
 | High School Love: A Visual Novel Romance | 328519 | [328519-high-school-love-a-visual-novel-romance.json](./328519-high-school-love-a-visual-novel-romance.json) |
 | High School Maze 3D | 297633 | [297633-high-school-maze-3d.json](./297633-high-school-maze-3d.json) |
@@ -9829,6 +9830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydlide | 407550 | [407550-hydlide.json](./407550-hydlide.json) |
 | Hydlide | 411363 | [411363-hydlide.json](./411363-hydlide.json) |
 | Hydlide Ev | 407599 | [407599-hydlide-ev.json](./407599-hydlide-ev.json) |
+| Hydlide II: Shine of Darkness | 41724 | [41724-hydlide-ii-shine-of-darkness.json](./41724-hydlide-ii-shine-of-darkness.json) |
 | Hydlide: Arranged | 411370 | [411370-hydlide-arranged.json](./411370-hydlide-arranged.json) |
 | Hydra | 12152 | [12152-hydra.json](./12152-hydra.json) |
 | Hydra | 126444 | [126444-hydra.json](./126444-hydra.json) |
