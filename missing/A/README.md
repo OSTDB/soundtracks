@@ -1531,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abnormal Status: Tattoo, Prohibited Books, Parasites | 226213 | [226213-abnormal-status-tattoo-prohibited-books-parasites.json](./226213-abnormal-status-tattoo-prohibited-books-parasites.json) |
 | Abnormal world: Season One | 96881 | [96881-abnormal-world-season-one.json](./96881-abnormal-world-season-one.json) |
 | Abo Hadeed | 84434 | [84434-abo-hadeed.json](./84434-abo-hadeed.json) |
+| Abo Mando | 33826 | [33826-abo-mando.json](./33826-abo-mando.json) |
 | Aboard the Adventure | 187395 | [187395-aboard-the-adventure.json](./187395-aboard-the-adventure.json) |
 | Abobo's Big Adventure | 8735 | [8735-abobos-big-adventure.json](./8735-abobos-big-adventure.json) |
 | Abode | 26370 | [26370-abode.json](./26370-abode.json) |
@@ -2925,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -14373,6 +14375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axe Prime | 115046 | [115046-axe-prime.json](./115046-axe-prime.json) |
 | Axe Slasher | 333065 | [333065-axe-slasher.json](./333065-axe-slasher.json) |
 | Axe Throw VR | 107850 | [107850-axe-throw-vr.json](./107850-axe-throw-vr.json) |
+| Axe, Bow & Staff | 33794 | [33794-axe-bow-and-staff.json](./33794-axe-bow-and-staff.json) |
 | AxE: Alliance Vs Empire | 125351 | [125351-axe-alliance-vs-empire.json](./125351-axe-alliance-vs-empire.json) |
 | Axe: Survival | 111389 | [111389-axe-survival.json](./111389-axe-survival.json) |
 | Axe.io | 100358 | [100358-axe-io.json](./100358-axe-io.json) |
