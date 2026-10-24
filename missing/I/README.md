@@ -1758,6 +1758,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illuminum | 343923 | [343923-illuminum.json](./343923-illuminum.json) |
 | Illumizzle: Finding the Lost Light | 368248 | [368248-illumizzle-finding-the-lost-light.json](./368248-illumizzle-finding-the-lost-light.json) |
 | Illurama: Masters of Illusions | 316276 | [316276-illurama-masters-of-illusions.json](./316276-illurama-masters-of-illusions.json) |
+| Illusia | 38739 | [38739-illusia.json](./38739-illusia.json) |
+| Illusia 2 | 38738 | [38738-illusia-2.json](./38738-illusia-2.json) |
 | Illusion | 196166 | [196166-illusion.json](./196166-illusion.json) |
 | Illusion | 211960 | [211960-illusion.json](./211960-illusion.json) |
 | Illusion | 272140 | [272140-illusion.json](./272140-illusion.json) |
@@ -3523,6 +3525,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inori's House | 118624 | [118624-inoris-house.json](./118624-inoris-house.json) |
 | Inorikaze | 113724 | [113724-inorikaze.json](./113724-inorikaze.json) |
 | InorStreet | 329445 | [329445-inorstreet.json](./329445-inorstreet.json) |
+| Inotia 3: Children of Carnia | 38740 | [38740-inotia-3-children-of-carnia.json](./38740-inotia-3-children-of-carnia.json) |
+| Inotia 4: Assassin of Berkel | 38741 | [38741-inotia-4-assassin-of-berkel.json](./38741-inotia-4-assassin-of-berkel.json) |
 | Inoue Mami: Kono Hoshi ni Tatta Hitori no Kimi | 222333 | [222333-inoue-mami-kono-hoshi-ni-tatta-hitori-no-kimi.json](./222333-inoue-mami-kono-hoshi-ni-tatta-hitori-no-kimi.json) |
 | Inoue Ryouko: Roommate | 362824 | [362824-inoue-ryouko-roommate.json](./362824-inoue-ryouko-roommate.json) |
 | Inoue Takehiko: Buzzer Beater - Kouhen | 209725 | [209725-inoue-takehiko-buzzer-beater-kouhen.json](./209725-inoue-takehiko-buzzer-beater-kouhen.json) |
