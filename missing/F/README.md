@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face of Fear: The Forester | 373320 | [373320-face-of-fear-the-forester.json](./373320-face-of-fear-the-forester.json) |
 | Face of the Killer | 289410 | [289410-face-of-the-killer.json](./289410-face-of-the-killer.json) |
 | Face of War | 216116 | [216116-face-of-war.json](./216116-face-of-war.json) |
+| Face Off | 40043 | [40043-face-off.json](./40043-face-off.json) |
 | Face on Fire | 143936 | [143936-face-on-fire.json](./143936-face-on-fire.json) |
 | Face Paint Party Salon | 96314 | [96314-face-paint-party-salon.json](./96314-face-paint-party-salon.json) |
 | Face Raiders | 66060 | [66060-face-raiders.json](./66060-face-raiders.json) |
@@ -3762,6 +3763,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Force Collection | 306653 | [306653-fighting-force-collection.json](./306653-fighting-force-collection.json) |
 | Fighting Frenzy: Swole Simulator | 120709 | [120709-fighting-frenzy-swole-simulator.json](./120709-fighting-frenzy-swole-simulator.json) |
 | Fighting Fury | 44627 | [44627-fighting-fury.json](./44627-fighting-fury.json) |
+| Fighting Golf | 40042 | [40042-fighting-golf.json](./40042-fighting-golf.json) |
+| Fighting Hawk | 40041 | [40041-fighting-hawk.json](./40041-fighting-hawk.json) |
 | Fighting Heart | 188422 | [188422-fighting-heart.json](./188422-fighting-heart.json) |
 | Fighting Hero | 48582 | [48582-fighting-hero.json](./48582-fighting-hero.json) |
 | Fighting Hero III | 48581 | [48581-fighting-hero-iii.json](./48581-fighting-hero-iii.json) |
@@ -4299,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Word Royale | 384900 | [384900-final-word-royale.json](./384900-final-word-royale.json) |
 | Final World | 90646 | [90646-final-world.json](./90646-final-world.json) |
 | FinalAdventure | 118811 | [118811-finaladventure.json](./118811-finaladventure.json) |
+| Finalizer: Super Transformation | 40040 | [40040-finalizer-super-transformation.json](./40040-finalizer-super-transformation.json) |
 | Finalloop | 348779 | [348779-finalloop.json](./348779-finalloop.json) |
 | Finally Free | 290625 | [290625-finally-free.json](./290625-finally-free.json) |
 | Finally, in Love Again | 238891 | [238891-finally-in-love-again.json](./238891-finally-in-love-again.json) |
@@ -9620,6 +9624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frisky Tom | 218323 | [218323-frisky-tom.json](./218323-frisky-tom.json) |
 | Frisky Tom | 240117 | [240117-frisky-tom.json](./240117-frisky-tom.json) |
 | Frisky Tom | 282833 | [282833-frisky-tom.json](./282833-frisky-tom.json) |
+| Frisky Tom | 40038 | [40038-frisky-tom.json](./40038-frisky-tom.json) |
 | Frisson | 197226 | [197226-frisson.json](./197226-frisson.json) |
 | Frisson | 288793 | [288793-frisson.json](./288793-frisson.json) |
 | Fritz & Chesster: Chess for Aliens | 356723 | [356723-fritz-and-chesster-chess-for-aliens.json](./356723-fritz-and-chesster-chess-for-aliens.json) |
@@ -11135,6 +11140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Shock | 13718 | [13718-future-shock.json](./13718-future-shock.json) |
 | Future Simulation World | 123937 | [123937-future-simulation-world.json](./123937-future-simulation-world.json) |
 | Future Snooker | 126386 | [126386-future-snooker.json](./126386-future-snooker.json) |
+| Future Spy | 40037 | [40037-future-spy.json](./40037-future-spy.json) |
 | Future Swashbuckler | 305945 | [305945-future-swashbuckler.json](./305945-future-swashbuckler.json) |
 | Future Tank | 68346 | [68346-future-tank.json](./68346-future-tank.json) |
 | Future Tanks Area | 193507 | [193507-future-tanks-area.json](./193507-future-tanks-area.json) |
