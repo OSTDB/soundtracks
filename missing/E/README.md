@@ -2282,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember's Verge | 324303 | [324303-embers-verge.json](./324303-embers-verge.json) |
 | Emberance | 309627 | [309627-emberance.json](./309627-emberance.json) |
 | Embercast | 421231 | [421231-embercast.json](./421231-embercast.json) |
+| Emberdoom | 32584 | [32584-emberdoom.json](./32584-emberdoom.json) |
 | Emberdoom VR | 106476 | [106476-emberdoom-vr.json](./106476-emberdoom-vr.json) |
 | Emberdrift | 290952 | [290952-emberdrift.json](./290952-emberdrift.json) |
 | Emberfall | 326838 | [326838-emberfall.json](./326838-emberfall.json) |
@@ -2441,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emily vs. the Unstable Creatures | 180853 | [180853-emily-vs-the-unstable-creatures.json](./180853-emily-vs-the-unstable-creatures.json) |
 | Emily Wants to Play | 16302 | [16302-emily-wants-to-play.json](./16302-emily-wants-to-play.json) |
 | Emily Wants to Play Too | 75074 | [75074-emily-wants-to-play-too.json](./75074-emily-wants-to-play-too.json) |
+| Emily: Displaced | 32522 | [32522-emily-displaced.json](./32522-emily-displaced.json) |
 | Emily's Bizarre Dreams | 343344 | [343344-emilys-bizarre-dreams.json](./343344-emilys-bizarre-dreams.json) |
 | Emily's Flights | 174531 | [174531-emilys-flights.json](./174531-emilys-flights.json) |
 | Emily's Hotel Solitaire | 227854 | [227854-emilys-hotel-solitaire.json](./227854-emilys-hotel-solitaire.json) |
