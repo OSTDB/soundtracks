@@ -13112,6 +13112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Shiba | 257228 | [257228-project-shiba.json](./257228-project-shiba.json) |
 | Project: Skyscape | 158618 | [158618-project-skyscape.json](./158618-project-skyscape.json) |
 | Project: SnowBound | 341444 | [341444-project-snowbound.json](./341444-project-snowbound.json) |
+| Project: Space Station | 26242 | [26242-project-space-station.json](./26242-project-space-station.json) |
 | Project: Special Forces | 163864 | [163864-project-special-forces.json](./163864-project-special-forces.json) |
 | Project: Starfighter | 62147 | [62147-project-starfighter.json](./62147-project-starfighter.json) |
 | Project: Station | 380434 | [380434-project-station.json](./380434-project-station.json) |
