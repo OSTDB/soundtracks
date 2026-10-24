@@ -1493,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banality Wars Carridin | 167538 | [167538-banality-wars-carridin.json](./167538-banality-wars-carridin.json) |
 | Banan Abanan | 417658 | [417658-banan-abanan.json](./417658-banan-abanan.json) |
 | Banan's Peel Out | 422155 | [422155-banans-peel-out.json](./422155-banans-peel-out.json) |
+| Banana | 296808 | [296808-banana.json](./296808-banana.json) |
 | Banana | 305277 | [305277-banana.json](./305277-banana.json) |
 | Banana | 305441 | [305441-banana.json](./305441-banana.json) |
 | Banana | 95469 | [95469-banana.json](./95469-banana.json) |
