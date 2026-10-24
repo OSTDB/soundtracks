@@ -1146,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack Three | 362467 | [362467-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-three.json](./362467-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-three.json) |
 | Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack Two | 362466 | [362466-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-two.json](./362466-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-two.json) |
 | Magic: The Gathering - Spells of the Ancients | 79082 | [79082-magic-the-gathering-spells-of-the-ancients.json](./79082-magic-the-gathering-spells-of-the-ancients.json) |
+| Magic: The Gathering Arena | 54538 | [54538-magic-the-gathering-arena.json](./54538-magic-the-gathering-arena.json) |
 | Magic: The Gathering Online | 79081 | [79081-magic-the-gathering-online.json](./79081-magic-the-gathering-online.json) |
 | Magica Arena | 216088 | [216088-magica-arena.json](./216088-magica-arena.json) |
 | Magica Memoria | 289019 | [289019-magica-memoria.json](./289019-magica-memoria.json) |
@@ -3881,6 +3882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Guardians of the Galaxy: The Telltale Series - Episode 3: More than a Feeling | 127041 | [127041-marvels-guardians-of-the-galaxy-the-telltale-series-episode-3-more-than-a-feeling.json](./127041-marvels-guardians-of-the-galaxy-the-telltale-series-episode-3-more-than-a-feeling.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series - Episode 4: Who Needs You | 127042 | [127042-marvels-guardians-of-the-galaxy-the-telltale-series-episode-4-who-needs-you.json](./127042-marvels-guardians-of-the-galaxy-the-telltale-series-episode-4-who-needs-you.json) |
 | Marvel's Iron Man VR: Digital Deluxe Edition | 255653 | [255653-marvels-iron-man-vr-digital-deluxe-edition.json](./255653-marvels-iron-man-vr-digital-deluxe-edition.json) |
+| Marvel's Midnight Suns | 165347 | [165347-marvels-midnight-suns.json](./165347-marvels-midnight-suns.json) |
 | Marvel's Midnight Suns: Blood Storm | 248352 | [248352-marvels-midnight-suns-blood-storm.json](./248352-marvels-midnight-suns-blood-storm.json) |
 | Marvel's Midnight Suns: Digital+ Edition | 205003 | [205003-marvels-midnight-suns-digital-edition.json](./205003-marvels-midnight-suns-digital-edition.json) |
 | Marvel's Midnight Suns: Enhanced Edition | 203808 | [203808-marvels-midnight-suns-enhanced-edition.json](./203808-marvels-midnight-suns-enhanced-edition.json) |
@@ -6318,6 +6320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X5 | 1745 | [1745-mega-man-x5.json](./1745-mega-man-x5.json) |
 | Mega Man X5 Improvement Project | 196256 | [196256-mega-man-x5-improvement-project.json](./196256-mega-man-x5-improvement-project.json) |
 | Mega Man X5: Improvement Project Addendum | 308384 | [308384-mega-man-x5-improvement-project-addendum.json](./308384-mega-man-x5-improvement-project-addendum.json) |
+| Mega Man X6 | 1746 | [1746-mega-man-x6.json](./1746-mega-man-x6.json) |
 | Mega Man X6 Tweaks | 187363 | [187363-mega-man-x6-tweaks.json](./187363-mega-man-x6-tweaks.json) |
 | Mega Man X6: Recompiled | 409014 | [409014-mega-man-x6-recompiled.json](./409014-mega-man-x6-recompiled.json) |
 | Mega Man X7 | 1747 | [1747-mega-man-x7.json](./1747-mega-man-x7.json) |
@@ -7933,6 +7936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug 3: ACA Neo Geo | 347163 | [347163-metal-slug-3-aca-neo-geo.json](./347163-metal-slug-3-aca-neo-geo.json) |
 | Metal Slug 3: Classic Edition | 347164 | [347164-metal-slug-3-classic-edition.json](./347164-metal-slug-3-classic-edition.json) |
 | Metal Slug 4 | 1409 | [1409-metal-slug-4.json](./1409-metal-slug-4.json) |
+| Metal Slug 5 | 1410 | [1410-metal-slug-5.json](./1410-metal-slug-5.json) |
 | Metal Slug Advance | 1406 | [1406-metal-slug-advance.json](./1406-metal-slug-advance.json) |
 | Metal Slug Anthology | 5004 | [5004-metal-slug-anthology.json](./5004-metal-slug-anthology.json) |
 | Metal Slug Bundle | 271120 | [271120-metal-slug-bundle.json](./271120-metal-slug-bundle.json) |
@@ -12968,6 +12972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Tower | 388363 | [388363-monster-tower.json](./388363-monster-tower.json) |
 | Monster Tower Quest | 234516 | [234516-monster-tower-quest.json](./234516-monster-tower-quest.json) |
 | Monster Town Defense | 314754 | [314754-monster-town-defense.json](./314754-monster-town-defense.json) |
+| Monster Train | 129483 | [129483-monster-train.json](./129483-monster-train.json) |
 | Monster Train 2: Destiny of the Railforged | 387479 | [387479-monster-train-2-destiny-of-the-railforged.json](./387479-monster-train-2-destiny-of-the-railforged.json) |
 | Monster Train Collection | 346010 | [346010-monster-train-collection.json](./346010-monster-train-collection.json) |
 | Monster Train: The Last Divinity | 148116 | [148116-monster-train-the-last-divinity.json](./148116-monster-train-the-last-divinity.json) |
