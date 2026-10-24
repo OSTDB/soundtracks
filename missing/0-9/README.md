@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Labours of Hercules IX: A Hero's Moonwalk - Collector's Edition | 338900 | [338900-12-labours-of-hercules-ix-a-heros-moonwalk-collectors-edition.json](./338900-12-labours-of-hercules-ix-a-heros-moonwalk-collectors-edition.json) |
 | 12 Labours of Hercules V: Kids of Hellas | 32821 | [32821-12-labours-of-hercules-v-kids-of-hellas.json](./32821-12-labours-of-hercules-v-kids-of-hellas.json) |
 | 12 Labours of Hercules V: Kids of Hellas - Collector's Edition | 338896 | [338896-12-labours-of-hercules-v-kids-of-hellas-collectors-edition.json](./338896-12-labours-of-hercules-v-kids-of-hellas-collectors-edition.json) |
+| 12 Labours of Hercules VI: Race for Olympus | 30014 | [30014-12-labours-of-hercules-vi-race-for-olympus.json](./30014-12-labours-of-hercules-vi-race-for-olympus.json) |
 | 12 Labours of Hercules VI: Race for Olympus - Collectors Edition | 338897 | [338897-12-labours-of-hercules-vi-race-for-olympus-collectors-edition.json](./338897-12-labours-of-hercules-vi-race-for-olympus-collectors-edition.json) |
 | 12 Labours of Hercules VII: Fleecing the Fleece | 81036 | [81036-12-labours-of-hercules-vii-fleecing-the-fleece.json](./81036-12-labours-of-hercules-vii-fleecing-the-fleece.json) |
 | 12 Labours of Hercules VII: Fleecing the Fleece - Collector's Edition | 338898 | [338898-12-labours-of-hercules-vii-fleecing-the-fleece-collectors-edition.json](./338898-12-labours-of-hercules-vii-fleecing-the-fleece-collectors-edition.json) |
