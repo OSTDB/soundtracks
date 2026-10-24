@@ -2780,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99Seconds | 84726 | [84726-99seconds.json](./84726-99seconds.json) |
 | 99Vidas | 26678 | [26678-99vidas.json](./26678-99vidas.json) |
 | 99Vidas: Definitive Edition | 112088 | [112088-99vidas-definitive-edition.json](./112088-99vidas-definitive-edition.json) |
+| 9mm | 18881 | [18881-9mm.json](./18881-9mm.json) |
 | 9mm Roulette | 377408 | [377408-9mm-roulette.json](./377408-9mm-roulette.json) |
 | 9pm | 177510 | [177510-9pm.json](./177510-9pm.json) |
 | 9PM Football Managers | 243078 | [243078-9pm-football-managers.json](./243078-9pm-football-managers.json) |
