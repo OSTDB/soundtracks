@@ -2090,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Status: Platinum Concierge | 253301 | [253301-elite-status-platinum-concierge.json](./253301-elite-status-platinum-concierge.json) |
 | Elite Tanks | 139414 | [139414-elite-tanks.json](./139414-elite-tanks.json) |
 | Elite Trials | 96778 | [96778-elite-trials.json](./96778-elite-trials.json) |
+| Elite Warriors: Vietnam | 23786 | [23786-elite-warriors-vietnam.json](./23786-elite-warriors-vietnam.json) |
 | Elite X: Street Racer | 282842 | [282842-elite-x-street-racer.json](./282842-elite-x-street-racer.json) |
 | Elite: Dangerous - Horizons | 15442 | [15442-elite-dangerous-horizons.json](./15442-elite-dangerous-horizons.json) |
 | Elite: Dangerous - Odyssey | 134873 | [134873-elite-dangerous-odyssey.json](./134873-elite-dangerous-odyssey.json) |
