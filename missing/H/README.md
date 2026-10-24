@@ -2378,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haywire | 180825 | [180825-haywire.json](./180825-haywire.json) |
 | Haywire | 400380 | [400380-haywire.json](./400380-haywire.json) |
 | Haywire Hospital | 233639 | [233639-haywire-hospital.json](./233639-haywire-hospital.json) |
+| Haywire on Fuel Station Zeta | 35297 | [35297-haywire-on-fuel-station-zeta.json](./35297-haywire-on-fuel-station-zeta.json) |
 | Hazar | 384068 | [384068-hazar.json](./384068-hazar.json) |
 | Hazard | 186147 | [186147-hazard.json](./186147-hazard.json) |
 | Hazard | 377355 | [377355-hazard.json](./377355-hazard.json) |
@@ -3084,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helen Keller Simulator | 412205 | [412205-helen-keller-simulator.json](./412205-helen-keller-simulator.json) |
 | Helen's Doll House | 184269 | [184269-helens-doll-house.json](./184269-helens-doll-house.json) |
 | Helen's Mysterious Castle | 27991 | [27991-helens-mysterious-castle.json](./27991-helens-mysterious-castle.json) |
+| Helena the 3rd | 35305 | [35305-helena-the-3rd.json](./35305-helena-the-3rd.json) |
 | Helena: Cloud District | 416638 | [416638-helena-cloud-district.json](./416638-helena-cloud-district.json) |
 | Helena's Flowers | 184904 | [184904-helenas-flowers.json](./184904-helenas-flowers.json) |
 | Helena's Mercenary Army: Fellows Are Cucked One by One | 82663 | [82663-helenas-mercenary-army-fellows-are-cucked-one-by-one.json](./82663-helenas-mercenary-army-fellows-are-cucked-one-by-one.json) |
@@ -3516,6 +3518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello inc VR | 28941 | [28941-hello-inc-vr.json](./28941-hello-inc-vr.json) |
 | Hello Kitty & Friends: Rock n' World Tour | 83210 | [83210-hello-kitty-and-friends-rock-n-world-tour.json](./83210-hello-kitty-and-friends-rock-n-world-tour.json) |
 | Hello Kitty and Friends: Happiness Parade | 204458 | [204458-hello-kitty-and-friends-happiness-parade.json](./204458-hello-kitty-and-friends-happiness-parade.json) |
+| Hello Kitty and Sanrio Friends Racing | 35243 | [35243-hello-kitty-and-sanrio-friends-racing.json](./35243-hello-kitty-and-sanrio-friends-racing.json) |
 | Hello Kitty Asobi no Omochabako | 226076 | [226076-hello-kitty-asobi-no-omochabako.json](./226076-hello-kitty-asobi-no-omochabako.json) |
 | Hello Kitty Birthday Party | 231386 | [231386-hello-kitty-birthday-party.json](./231386-hello-kitty-birthday-party.json) |
 | Hello Kitty Carnival | 268673 | [268673-hello-kitty-carnival.json](./268673-hello-kitty-carnival.json) |
@@ -8301,6 +8304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostages | 343204 | [343204-hostages.json](./343204-hostages.json) |
 | Hostia me acabo de acordar de lo que he soñao hoy, que puta paranoia | 302734 | [302734-hostia-me-acabo-de-acordar-de-lo-que-he-sonao-hoy-que-puta-paranoia.json](./302734-hostia-me-acabo-de-acordar-de-lo-que-he-sonao-hoy-que-puta-paranoia.json) |
 | Hostil | 75816 | [75816-hostil.json](./75816-hostil.json) |
+| Hostile Dimension | 35222 | [35222-hostile-dimension.json](./35222-hostile-dimension.json) |
 | Hostile Dreams | 239784 | [239784-hostile-dreams.json](./239784-hostile-dreams.json) |
 | Hostile Dreams 2 | 332458 | [332458-hostile-dreams-2.json](./332458-hostile-dreams-2.json) |
 | Hostile Entity | 408491 | [408491-hostile-entity.json](./408491-hostile-entity.json) |
