@@ -1188,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Desire Mute 4 | 245918 | [245918-dark-desire-mute-4.json](./245918-dark-desire-mute-4.json) |
 | Dark Desire Mute 5 | 250029 | [250029-dark-desire-mute-5.json](./250029-dark-desire-mute-5.json) |
 | Dark Desire Mute 6 | 260412 | [260412-dark-desire-mute-6.json](./260412-dark-desire-mute-6.json) |
+| Dark Devotion | 68582 | [68582-dark-devotion.json](./68582-dark-devotion.json) |
 | Dark DieMansion | 405687 | [405687-dark-diemansion.json](./405687-dark-diemansion.json) |
 | Dark Dimension | 195945 | [195945-dark-dimension.json](./195945-dark-dimension.json) |
 | Dark Dimensions: Blade Master | 187913 | [187913-dark-dimensions-blade-master.json](./187913-dark-dimensions-blade-master.json) |
@@ -2865,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead In Antares | 334669 | [334669-dead-in-antares.json](./334669-dead-in-antares.json) |
 | Dead In Bermuda | 18440 | [18440-dead-in-bermuda.json](./18440-dead-in-bermuda.json) |
 | Dead in Time | 103453 | [103453-dead-in-time.json](./103453-dead-in-time.json) |
+| Dead In Vinland | 54820 | [54820-dead-in-vinland.json](./54820-dead-in-vinland.json) |
 | Dead In Vinland: The Battle of the Heodenings | 114430 | [114430-dead-in-vinland-the-battle-of-the-heodenings.json](./114430-dead-in-vinland-the-battle-of-the-heodenings.json) |
 | Dead In Vinland: The Vallhund | 114431 | [114431-dead-in-vinland-the-vallhund.json](./114431-dead-in-vinland-the-vallhund.json) |
 | Dead in Vinland: True Viking Edition | 122905 | [122905-dead-in-vinland-true-viking-edition.json](./122905-dead-in-vinland-true-viking-edition.json) |
@@ -6383,6 +6385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devastated Path | 265436 | [265436-devastated-path.json](./265436-devastated-path.json) |
 | Devastating Blow | 66346 | [66346-devastating-blow.json](./66346-devastating-blow.json) |
 | Devastating Fog | 285018 | [285018-devastating-fog.json](./285018-devastating-fog.json) |
+| Devastation | 9274 | [9274-devastation.json](./9274-devastation.json) |
 | Devastation - Annihilate the Alien Race | 128927 | [128927-devastation-annihilate-the-alien-race.json](./128927-devastation-annihilate-the-alien-race.json) |
 | Devastator | 80872 | [80872-devastator.json](./80872-devastator.json) |
 | Devastator Arena | 105210 | [105210-devastator-arena.json](./105210-devastator-arena.json) |
@@ -14549,6 +14552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Keeper | 20093 | [20093-dungeon-keeper.json](./20093-dungeon-keeper.json) |
 | Dungeon Keeper 2 | 36 | [36-dungeon-keeper-2.json](./36-dungeon-keeper-2.json) |
 | Dungeon Keeper 3 | 12278 | [12278-dungeon-keeper-3.json](./12278-dungeon-keeper-3.json) |
+| Dungeon Keeper Gold | 46632 | [46632-dungeon-keeper-gold.json](./46632-dungeon-keeper-gold.json) |
 | Dungeon Keeper Online | 92414 | [92414-dungeon-keeper-online.json](./92414-dungeon-keeper-online.json) |
 | Dungeon Keeper Premium | 334252 | [334252-dungeon-keeper-premium.json](./334252-dungeon-keeper-premium.json) |
 | Dungeon Keeper: The Deeper Dungeons | 9226 | [9226-dungeon-keeper-the-deeper-dungeons.json](./9226-dungeon-keeper-the-deeper-dungeons.json) |
