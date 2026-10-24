@@ -4737,6 +4737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Fates: V.O.W Edition | 337600 | [337600-fire-emblem-fates-v-o-w-edition.json](./337600-fire-emblem-fates-v-o-w-edition.json) |
 | Fire Emblem Guess | 410101 | [410101-fire-emblem-guess.json](./410101-fire-emblem-guess.json) |
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
+| Fire Emblem Shadows | 370036 | [370036-fire-emblem-shadows.json](./370036-fire-emblem-shadows.json) |
 | Fire Emblem Warriors | 26769 | [26769-fire-emblem-warriors.json](./26769-fire-emblem-warriors.json) |
 | Fire Emblem Warriors + Season Pass Bundle | 294234 | [294234-fire-emblem-warriors-season-pass-bundle.json](./294234-fire-emblem-warriors-season-pass-bundle.json) |
 | Fire Emblem Warriors: Fire Emblem - Shadow Dragon DLC Pack | 238323 | [238323-fire-emblem-warriors-fire-emblem-shadow-dragon-dlc-pack.json](./238323-fire-emblem-warriors-fire-emblem-shadow-dragon-dlc-pack.json) |
@@ -10237,6 +10238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostory | 159086 | [159086-frostory.json](./159086-frostory.json) |
 | Frostpoint Toll | 380662 | [380662-frostpoint-toll.json](./380662-frostpoint-toll.json) |
 | Frostpoint VR: Proving Grounds | 139228 | [139228-frostpoint-vr-proving-grounds.json](./139228-frostpoint-vr-proving-grounds.json) |
+| Frostpunk 2: Fractured Utopias | 375800 | [375800-frostpunk-2-fractured-utopias.json](./375800-frostpunk-2-fractured-utopias.json) |
 | Frostpunk 2: Icebreaker Edition | 362011 | [362011-frostpunk-2-icebreaker-edition.json](./362011-frostpunk-2-icebreaker-edition.json) |
 | Frostpunk: 1886 | 341662 | [341662-frostpunk-1886.json](./341662-frostpunk-1886.json) |
 | Frostpunk: Complete Collection | 164768 | [164768-frostpunk-complete-collection.json](./164768-frostpunk-complete-collection.json) |
