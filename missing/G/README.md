@@ -2813,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get on Slime Level | 393614 | [393614-get-on-slime-level.json](./393614-get-on-slime-level.json) |
 | Get on Top! | 97452 | [97452-get-on-top.json](./97452-get-on-top.json) |
 | Get Order! | 274465 | [274465-get-order.json](./274465-get-order.json) |
+| Get Out | 27404 | [27404-get-out.json](./27404-get-out.json) |
 | Get Out | 287099 | [287099-get-out.json](./287099-get-out.json) |
 | Get Out | 395537 | [395537-get-out.json](./395537-get-out.json) |
 | Get Out Joey! | 248892 | [248892-get-out-joey.json](./248892-get-out-joey.json) |
