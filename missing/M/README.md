@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Warrior Diamond Heart: Liam Route DLC | 293459 | [293459-magical-warrior-diamond-heart-liam-route-dlc.json](./293459-magical-warrior-diamond-heart-liam-route-dlc.json) |
 | Magical Whip: Wizards of Phantasmal Forest | 65562 | [65562-magical-whip-wizards-of-phantasmal-forest.json](./65562-magical-whip-wizards-of-phantasmal-forest.json) |
 | Magical Witch Bell and Her Non-Magical Friends | 177884 | [177884-magical-witch-bell-and-her-non-magical-friends.json](./177884-magical-witch-bell-and-her-non-magical-friends.json) |
+| Magical x Spiral | 31488 | [31488-magical-x-spiral.json](./31488-magical-x-spiral.json) |
 | Magical Zunou Power!! DS | 70411 | [70411-magical-zunou-power-ds.json](./70411-magical-zunou-power-ds.json) |
 | MagicalGirl Mimi | 167397 | [167397-magicalgirl-mimi.json](./167397-magicalgirl-mimi.json) |
 | Magicalic Sky High: Soratobu Houki ni Omoi wo Nosete | 194554 | [194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json](./194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json) |
@@ -7960,6 +7961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metallic Metronome | 157906 | [157906-metallic-metronome.json](./157906-metallic-metronome.json) |
 | Metallicars | 234319 | [234319-metallicars.json](./234319-metallicars.json) |
 | MetalMercs | 311886 | [311886-metalmercs.json](./311886-metalmercs.json) |
+| MetalNoise | 31503 | [31503-metalnoise.json](./31503-metalnoise.json) |
 | Metalocalypse: Dethgame | 68300 | [68300-metalocalypse-dethgame.json](./68300-metalocalypse-dethgame.json) |
 | Metaloid: Origin | 113545 | [113545-metaloid-origin.json](./113545-metaloid-origin.json) |
 | Metaloids | 92837 | [92837-metaloids.json](./92837-metaloids.json) |
