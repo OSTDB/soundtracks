@@ -6956,6 +6956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love At First Squeak | 251068 | [251068-love-at-first-squeak.json](./251068-love-at-first-squeak.json) |
 | Love Bakudan | 152390 | [152390-love-bakudan.json](./152390-love-bakudan.json) |
 | Love Ball | 101111 | [101111-love-ball.json](./101111-love-ball.json) |
+| Love Balls | 100812 | [100812-love-balls.json](./100812-love-balls.json) |
 | Love Battle Spirit | 387744 | [387744-love-battle-spirit.json](./387744-love-battle-spirit.json) |
 | Love Begins with Goodbye | 344975 | [344975-love-begins-with-goodbye.json](./344975-love-begins-with-goodbye.json) |
 | Love Birds | 236734 | [236734-love-birds.json](./236734-love-birds.json) |
