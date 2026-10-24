@@ -537,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld: New 'n' Tasty | 5552 | [5552-oddworld-new-n-tasty.json](./5552-oddworld-new-n-tasty.json) |
 | Oddworld: New 'n' Tasty - Deluxe Edition | 132146 | [132146-oddworld-new-n-tasty-deluxe-edition.json](./132146-oddworld-new-n-tasty-deluxe-edition.json) |
 | Oddworld: New 'n' Tasty - Limited Edition | 139855 | [139855-oddworld-new-n-tasty-limited-edition.json](./139855-oddworld-new-n-tasty-limited-edition.json) |
+| Oddworld: Soulstorm | 18357 | [18357-oddworld-soulstorm.json](./18357-oddworld-soulstorm.json) |
 | Oddworld: Soulstorm - Collector's Oddition | 146008 | [146008-oddworld-soulstorm-collectors-oddition.json](./146008-oddworld-soulstorm-collectors-oddition.json) |
 | Oddworld: Soulstorm - Day 1 Oddition | 146118 | [146118-oddworld-soulstorm-day-1-oddition.json](./146118-oddworld-soulstorm-day-1-oddition.json) |
 | Oddworld: Soulstorm Oddtimized Edition | 222891 | [222891-oddworld-soulstorm-oddtimized-edition.json](./222891-oddworld-soulstorm-oddtimized-edition.json) |
