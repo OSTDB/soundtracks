@@ -5507,6 +5507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist of the North Star 6 | 42414 | [42414-fist-of-the-north-star-6.json](./42414-fist-of-the-north-star-6.json) |
 | Fist of the North Star Legends Revive | 120171 | [120171-fist-of-the-north-star-legends-revive.json](./120171-fist-of-the-north-star-legends-revive.json) |
 | Fist of the North Star: 10 Big Brawls for the King of the Universe | 64171 | [64171-fist-of-the-north-star-10-big-brawls-for-the-king-of-the-universe.json](./64171-fist-of-the-north-star-10-big-brawls-for-the-king-of-the-universe.json) |
+| Fist of the North Star: Ken's Rage | 6995 | [6995-fist-of-the-north-star-kens-rage.json](./6995-fist-of-the-north-star-kens-rage.json) |
 | Fist of the North Star: Ken's Rage 2 | 5313 | [5313-fist-of-the-north-star-kens-rage-2.json](./5313-fist-of-the-north-star-kens-rage-2.json) |
 | Fist of the North Star: Lost Paradise | 55112 | [55112-fist-of-the-north-star-lost-paradise.json](./55112-fist-of-the-north-star-lost-paradise.json) |
 | Fist of the North Star: Lost Paradise - Premium Edition | 212335 | [212335-fist-of-the-north-star-lost-paradise-premium-edition.json](./212335-fist-of-the-north-star-lost-paradise-premium-edition.json) |
@@ -11315,6 +11316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuze4 Nintendo Switch | 85161 | [85161-fuze4-nintendo-switch.json](./85161-fuze4-nintendo-switch.json) |
 | Fuzecat | 36525 | [36525-fuzecat.json](./36525-fuzecat.json) |
 | Fuzion Frenzy | 5842 | [5842-fuzion-frenzy.json](./5842-fuzion-frenzy.json) |
+| Fuzion Frenzy 2 | 6999 | [6999-fuzion-frenzy-2.json](./6999-fuzion-frenzy-2.json) |
 | Fuzoku Frame | 368118 | [368118-fuzoku-frame.json](./368118-fuzoku-frame.json) |
 | Fuzoroi no Lemon | 402552 | [402552-fuzoroi-no-lemon.json](./402552-fuzoroi-no-lemon.json) |
 | Fuzz | 240718 | [240718-fuzz.json](./240718-fuzz.json) |
