@@ -2235,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tau Defense | 120859 | [120859-tau-defense.json](./120859-tau-defense.json) |
 | TAU-09 | 392942 | [392942-tau-09.json](./392942-tau-09.json) |
 | TauCeti Unknown Origin | 130911 | [130911-tauceti-unknown-origin.json](./130911-tauceti-unknown-origin.json) |
+| Taur | 128799 | [128799-taur.json](./128799-taur.json) |
 | Tauren maze | 164057 | [164057-tauren-maze.json](./164057-tauren-maze.json) |
 | Tauriel Teaches Typing | 181883 | [181883-tauriel-teaches-typing.json](./181883-tauriel-teaches-typing.json) |
 | Taurion | 130594 | [130594-taurion.json](./130594-taurion.json) |
@@ -7840,6 +7841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fog Fall 2 | 386221 | [386221-the-fog-fall-2.json](./386221-the-fog-fall-2.json) |
 | The Fog Fall 3 | 392734 | [392734-the-fog-fall-3.json](./392734-the-fog-fall-3.json) |
 | The Fog Fall 4 | 392739 | [392739-the-fog-fall-4.json](./392739-the-fog-fall-4.json) |
+| The Fog Knows Your Name | 126246 | [126246-the-fog-knows-your-name.json](./126246-the-fog-knows-your-name.json) |
 | The Fog: Trap for Moths | 53738 | [53738-the-fog-trap-for-moths.json](./53738-the-fog-trap-for-moths.json) |
 | The FOO Show | 34193 | [34193-the-foo-show.json](./34193-the-foo-show.json) |
 | The Food Run: Extra 64 Levels | 165947 | [165947-the-food-run-extra-64-levels.json](./165947-the-food-run-extra-64-levels.json) |
@@ -8020,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Fourtune | 207591 | [207591-the-game-of-fourtune.json](./207591-the-game-of-fourtune.json) |
 | The Game of Life | 106271 | [106271-the-game-of-life.json](./106271-the-game-of-life.json) |
 | The Game of Life | 34432 | [34432-the-game-of-life.json](./34432-the-game-of-life.json) |
+| The Game of Life | 88882 | [88882-the-game-of-life.json](./88882-the-game-of-life.json) |
 | The Game of Life / Yahtzee / Payday | 137695 | [137695-the-game-of-life-yahtzee-payday.json](./137695-the-game-of-life-yahtzee-payday.json) |
 | The Game of Life 2: Age of Giants World | 171591 | [171591-the-game-of-life-2-age-of-giants-world.json](./171591-the-game-of-life-2-age-of-giants-world.json) |
 | The Game of Life 2: Complete Collection | 238044 | [238044-the-game-of-life-2-complete-collection.json](./238044-the-game-of-life-2-complete-collection.json) |
@@ -11517,6 +11520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -19882,6 +19886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tofu'Drift | 242629 | [242629-tofudrift.json](./242629-tofudrift.json) |
 | Toga | 256987 | [256987-toga.json](./256987-toga.json) |
 | Togainu no Chi | 17267 | [17267-togainu-no-chi.json](./17267-togainu-no-chi.json) |
+| Togainu no Chi: Lost Blood | 128480 | [128480-togainu-no-chi-lost-blood.json](./128480-togainu-no-chi-lost-blood.json) |
 | Togainu no Chi: True Blood | 145289 | [145289-togainu-no-chi-true-blood.json](./145289-togainu-no-chi-true-blood.json) |
 | Togainu no Chi: Typing | 237424 | [237424-togainu-no-chi-typing.json](./237424-togainu-no-chi-typing.json) |
 | Toganeyobi | 387702 | [387702-toganeyobi.json](./387702-toganeyobi.json) |
@@ -21295,6 +21300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Three Kingdoms - A World Betrayed | 167647 | [167647-total-war-three-kingdoms-a-world-betrayed.json](./167647-total-war-three-kingdoms-a-world-betrayed.json) |
 | Total War: Three Kingdoms - Eight Princes | 167640 | [167640-total-war-three-kingdoms-eight-princes.json](./167640-total-war-three-kingdoms-eight-princes.json) |
 | Total War: Three Kingdoms - Fates Divided | 227713 | [227713-total-war-three-kingdoms-fates-divided.json](./227713-total-war-three-kingdoms-fates-divided.json) |
+| Total War: Three Kingdoms - Mandate of Heaven | 127548 | [127548-total-war-three-kingdoms-mandate-of-heaven.json](./127548-total-war-three-kingdoms-mandate-of-heaven.json) |
 | Total War: Three Kingdoms - Reign of Blood | 167645 | [167645-total-war-three-kingdoms-reign-of-blood.json](./167645-total-war-three-kingdoms-reign-of-blood.json) |
 | Total War: Three Kingdoms - Royal Edition | 139841 | [139841-total-war-three-kingdoms-royal-edition.json](./139841-total-war-three-kingdoms-royal-edition.json) |
 | Total War: Three Kingdoms - Shi Xie | 167644 | [167644-total-war-three-kingdoms-shi-xie.json](./167644-total-war-three-kingdoms-shi-xie.json) |
@@ -24047,6 +24053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Simulator 12: PRR T1 | 162698 | [162698-trainz-simulator-12-prr-t1.json](./162698-trainz-simulator-12-prr-t1.json) |
 | Trainz Simulator 12: SNCF - AGC Languedoc | 162695 | [162695-trainz-simulator-12-sncf-agc-languedoc.json](./162695-trainz-simulator-12-sncf-agc-languedoc.json) |
 | Trainz Simulator 12: SS4 China Coal Heavy Haul Pack | 162697 | [162697-trainz-simulator-12-ss4-china-coal-heavy-haul-pack.json](./162697-trainz-simulator-12-ss4-china-coal-heavy-haul-pack.json) |
+| Trainz Simulator 2 | 89116 | [89116-trainz-simulator-2.json](./89116-trainz-simulator-2.json) |
 | Trainz Simulator 2009 | 50112 | [50112-trainz-simulator-2009.json](./50112-trainz-simulator-2009.json) |
 | Trainz Simulator 2009: Settle and Carlisle | 27898 | [27898-trainz-simulator-2009-settle-and-carlisle.json](./27898-trainz-simulator-2009-settle-and-carlisle.json) |
 | Trainz Simulator 2009: World Builder Edition | 11016 | [11016-trainz-simulator-2009-world-builder-edition.json](./11016-trainz-simulator-2009-world-builder-edition.json) |
@@ -26664,6 +26671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Wax | 317430 | [317430-turtle-wax.json](./317430-turtle-wax.json) |
 | Turtle WoW: Mysteries of Azeroth | 253071 | [253071-turtle-wow-mysteries-of-azeroth.json](./253071-turtle-wow-mysteries-of-azeroth.json) |
 | Turtle: Voidrunner | 74355 | [74355-turtle-voidrunner.json](./74355-turtle-voidrunner.json) |
+| TurtlePop: Journey to Freedom | 89568 | [89568-turtlepop-journey-to-freedom.json](./89568-turtlepop-journey-to-freedom.json) |
 | Turtles | 23686 | [23686-turtles.json](./23686-turtles.json) |
 | Turtles | 346135 | [346135-turtles.json](./346135-turtles.json) |
 | Turtles vs Zombies | 103841 | [103841-turtles-vs-zombies.json](./103841-turtles-vs-zombies.json) |
