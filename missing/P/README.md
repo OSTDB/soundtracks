@@ -1215,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Burgeria | 77672 | [77672-papas-burgeria.json](./77672-papas-burgeria.json) |
 | Papa's Burgeria HD | 86695 | [86695-papas-burgeria-hd.json](./86695-papas-burgeria-hd.json) |
 | Papa's Burgeria to Go! | 96986 | [96986-papas-burgeria-to-go.json](./96986-papas-burgeria-to-go.json) |
+| Papa's Cheeseria | 141812 | [141812-papas-cheeseria.json](./141812-papas-cheeseria.json) |
 | Papa's Cheeseria To Go! | 265876 | [265876-papas-cheeseria-to-go.json](./265876-papas-cheeseria-to-go.json) |
 | Papa's Cupcakeria | 210492 | [210492-papas-cupcakeria.json](./210492-papas-cupcakeria.json) |
 | Papa's Donuteria | 210502 | [210502-papas-donuteria.json](./210502-papas-donuteria.json) |
@@ -5458,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin To Win | 302351 | [302351-pin-to-win.json](./302351-pin-to-win.json) |
 | Pin Zhi | 304893 | [304893-pin-zhi.json](./304893-pin-zhi.json) |
 | Pin-Bang-Shot! | 368816 | [368816-pin-bang-shot.json](./368816-pin-bang-shot.json) |
+| Pin-Bot | 72809 | [72809-pin-bot.json](./72809-pin-bot.json) |
 | Pin-Bowler | 92541 | [92541-pin-bowler.json](./92541-pin-bowler.json) |
 | Pin-Crawl | 401697 | [401697-pin-crawl.json](./401697-pin-crawl.json) |
 | Pin-Kod. Poluchi patent pervym! | 347819 | [347819-pin-kod-poluchi-patent-pervym.json](./347819-pin-kod-poluchi-patent-pervym.json) |
@@ -11523,6 +11525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priest's Artifice: Raguna Series 2 | 98437 | [98437-priests-artifice-raguna-series-2.json](./98437-priests-artifice-raguna-series-2.json) |
 | Priestess In Training Sahnia : her fairest limbs devoured by the filthy forest | 82634 | [82634-priestess-in-training-sahnia-her-fairest-limbs-devoured-by-the-filthy-forest.json](./82634-priestess-in-training-sahnia-her-fairest-limbs-devoured-by-the-filthy-forest.json) |
 | Priklyucheniya Mishek Gammi | 210311 | [210311-priklyucheniya-mishek-gammi.json](./210311-priklyucheniya-mishek-gammi.json) |
+| Prim | 143333 | [143333-prim.json](./143333-prim.json) |
 | Prim Rogue | 93803 | [93803-prim-rogue.json](./93803-prim-rogue.json) |
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
 | Primage | 292969 | [292969-primage.json](./292969-primage.json) |
