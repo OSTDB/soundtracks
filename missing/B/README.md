@@ -5248,6 +5248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bernadette and the Demon Circus | 129449 | [129449-bernadette-and-the-demon-circus.json](./129449-bernadette-and-the-demon-circus.json) |
 | Bernard Arnault Sauve La France | 144238 | [144238-bernard-arnault-sauve-la-france.json](./144238-bernard-arnault-sauve-la-france.json) |
 | Bernband | 348252 | [348252-bernband.json](./348252-bernband.json) |
+| Bernie Needs Love | 35168 | [35168-bernie-needs-love.json](./35168-bernie-needs-love.json) |
 | Bernie's Nightmare | 105586 | [105586-bernies-nightmare.json](./105586-bernies-nightmare.json) |
 | Berries Challenge | 159830 | [159830-berries-challenge.json](./159830-berries-challenge.json) |
 | Berry | 193250 | [193250-berry.json](./193250-berry.json) |
@@ -11507,6 +11508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Games Mahjongg | 25011 | [25011-brain-games-mahjongg.json](./25011-brain-games-mahjongg.json) |
 | Brain Games: Brain Puzzles 2 | 206481 | [206481-brain-games-brain-puzzles-2.json](./206481-brain-games-brain-puzzles-2.json) |
 | Brain Games: Numbers Blast | 60384 | [60384-brain-games-numbers-blast.json](./60384-brain-games-numbers-blast.json) |
+| Brain Guzzler | 35270 | [35270-brain-guzzler.json](./35270-brain-guzzler.json) |
 | Brain Guzzlers from Beyond! | 59711 | [59711-brain-guzzlers-from-beyond.json](./59711-brain-guzzlers-from-beyond.json) |
 | Brain Hack Squad | 350026 | [350026-brain-hack-squad.json](./350026-brain-hack-squad.json) |
 | Brain Hole Girls | 242488 | [242488-brain-hole-girls.json](./242488-brain-hole-girls.json) |
