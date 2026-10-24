@@ -3579,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 2004 | 3136 | [3136-fifa-soccer-2004.json](./3136-fifa-soccer-2004.json) |
 | FIFA Soccer 2005: Mobile International Edition | 209186 | [209186-fifa-soccer-2005-mobile-international-edition.json](./209186-fifa-soccer-2005-mobile-international-edition.json) |
 | FIFA Soccer 64 | 10682 | [10682-fifa-soccer-64.json](./10682-fifa-soccer-64.json) |
+| FIFA Soccer 95 | 4539 | [4539-fifa-soccer-95.json](./4539-fifa-soccer-95.json) |
 | FIFA Soccer 96 | 209424 | [209424-fifa-soccer-96.json](./209424-fifa-soccer-96.json) |
 | FIFA Soccer 96 | 240232 | [240232-fifa-soccer-96.json](./240232-fifa-soccer-96.json) |
 | FIFA Soccer 96 | 240234 | [240234-fifa-soccer-96.json](./240234-fifa-soccer-96.json) |
