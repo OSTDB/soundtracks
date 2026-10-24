@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I, Ball II | 38927 | [38927-i-ball-ii.json](./38927-i-ball-ii.json) |
 | I, Chatbot: Aisylum | 290511 | [290511-i-chatbot-aisylum.json](./290511-i-chatbot-aisylum.json) |
 | I, For One, Welcome Our New Lady Knight Overlords! | 178506 | [178506-i-for-one-welcome-our-new-lady-knight-overlords.json](./178506-i-for-one-welcome-our-new-lady-knight-overlords.json) |
+| I, of the Mask | 26212 | [26212-i-of-the-mask.json](./26212-i-of-the-mask.json) |
 | I, Robot | 335831 | [335831-i-robot.json](./335831-i-robot.json) |
 | I, the I-piece | 175112 | [175112-i-the-i-piece.json](./175112-i-the-i-piece.json) |
 | I, W.O.M.A.N. | 188840 | [188840-i-w-o-m-a-n.json](./188840-i-w-o-m-a-n.json) |
@@ -3839,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intake | 16526 | [16526-intake.json](./16526-intake.json) |
 | Intake: Be Aggressive | 174225 | [174225-intake-be-aggressive.json](./174225-intake-be-aggressive.json) |
 | Integer | 178030 | [178030-integer.json](./178030-integer.json) |
+| Integer Snake | 26203 | [26203-integer-snake.json](./26203-integer-snake.json) |
 | Integrifix | 335845 | [335845-integrifix.json](./335845-integrifix.json) |
 | Integrity | 387500 | [387500-integrity.json](./387500-integrity.json) |
 | Integuments: Shadow of Shrek | 367700 | [367700-integuments-shadow-of-shrek.json](./367700-integuments-shadow-of-shrek.json) |
