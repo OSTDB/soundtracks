@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperball: Cherry Sky Pack | 227155 | [227155-paperball-cherry-sky-pack.json](./227155-paperball-cherry-sky-pack.json) |
 | Paperbound | 21849 | [21849-paperbound.json](./21849-paperbound.json) |
 | Paperbound Brawlers | 115753 | [115753-paperbound-brawlers.json](./115753-paperbound-brawlers.json) |
+| Paperboy | 11762 | [11762-paperboy.json](./11762-paperboy.json) |
 | Paperboy | 126289 | [126289-paperboy.json](./126289-paperboy.json) |
 | Paperboy | 19370 | [19370-paperboy.json](./19370-paperboy.json) |
 | Paperboy | 198844 | [198844-paperboy.json](./198844-paperboy.json) |
@@ -1797,6 +1798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ParaParaParadise 2nd mix | 78946 | [78946-paraparaparadise-2nd-mix.json](./78946-paraparaparadise-2nd-mix.json) |
 | Paraplasm: Beyond the Veil | 295160 | [295160-paraplasm-beyond-the-veil.json](./295160-paraplasm-beyond-the-veil.json) |
 | PaRappa the Rapper | 269666 | [269666-parappa-the-rapper.json](./269666-parappa-the-rapper.json) |
+| PaRappa the Rapper | 6080 | [6080-parappa-the-rapper.json](./6080-parappa-the-rapper.json) |
 | PaRappa the Rapper Remastered | 26232 | [26232-parappa-the-rapper-remastered.json](./26232-parappa-the-rapper-remastered.json) |
 | PaRappa the Rapper: Stage 5 Music A | 324831 | [324831-parappa-the-rapper-stage-5-music-a.json](./324831-parappa-the-rapper-stage-5-music-a.json) |
 | Pararecords | 325020 | [325020-pararecords.json](./325020-pararecords.json) |
@@ -2467,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathogenesis: Overcome | 122387 | [122387-pathogenesis-overcome.json](./122387-pathogenesis-overcome.json) |
 | Pathogenic | 349463 | [349463-pathogenic.json](./349463-pathogenic.json) |
 | Pathologic | 8074 | [8074-pathologic.json](./8074-pathologic.json) |
+| Pathologic 2 | 55322 | [55322-pathologic-2.json](./55322-pathologic-2.json) |
 | Pathologic 3 | 319087 | [319087-pathologic-3.json](./319087-pathologic-3.json) |
 | Pathologic 3: Quarantine | 326595 | [326595-pathologic-3-quarantine.json](./326595-pathologic-3-quarantine.json) |
 | Pathologic Classic HD | 13204 | [13204-pathologic-classic-hd.json](./13204-pathologic-classic-hd.json) |
@@ -6308,6 +6311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitfall: The Big Adventure | 84820 | [84820-pitfall-the-big-adventure.json](./84820-pitfall-the-big-adventure.json) |
 | Pitfall: The Lost Expedition | 209384 | [209384-pitfall-the-lost-expedition.json](./209384-pitfall-the-lost-expedition.json) |
 | Pitfall: The Mayan Adventure | 5410 | [5410-pitfall-the-mayan-adventure.json](./5410-pitfall-the-mayan-adventure.json) |
+| Pitfall! | 5411 | [5411-pitfall.json](./5411-pitfall.json) |
 | Pitfalls 64 | 411707 | [411707-pitfalls-64.json](./411707-pitfalls-64.json) |
 | Pithorox Gear | 145022 | [145022-pithorox-gear.json](./145022-pithorox-gear.json) |
 | Pitiri 1977 | 17513 | [17513-pitiri-1977.json](./17513-pitiri-1977.json) |
@@ -9091,6 +9095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Quest | 102874 | [102874-pokemon-quest.json](./102874-pokemon-quest.json) |
 | Pokémon R.O.W.E. | 305876 | [305876-pokemon-r-o-w-e.json](./305876-pokemon-r-o-w-e.json) |
 | Pokémon Race Mini | 91823 | [91823-pokemon-race-mini.json](./91823-pokemon-race-mini.json) |
+| Pokémon Ranger | 14606 | [14606-pokemon-ranger.json](./14606-pokemon-ranger.json) |
 | Pokémon Ranger Star | 387058 | [387058-pokemon-ranger-star.json](./387058-pokemon-ranger-star.json) |
 | Pokémon Ranger: Guardian Signs | 4565 | [4565-pokemon-ranger-guardian-signs.json](./4565-pokemon-ranger-guardian-signs.json) |
 | Pokémon Ranger: Shadows of Almia | 14699 | [14699-pokemon-ranger-shadows-of-almia.json](./14699-pokemon-ranger-shadows-of-almia.json) |
@@ -9218,6 +9223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Umbra Moon | 288202 | [288202-pokemon-umbra-moon.json](./288202-pokemon-umbra-moon.json) |
 | Pokémon Unbound | 141663 | [141663-pokemon-unbound.json](./141663-pokemon-unbound.json) |
 | Pokémon Unbreakable Ties | 271214 | [271214-pokemon-unbreakable-ties.json](./271214-pokemon-unbreakable-ties.json) |
+| Pokémon Unite | 135381 | [135381-pokemon-unite.json](./135381-pokemon-unite.json) |
 | Pokémon Unite: Season 1 | 194419 | [194419-pokemon-unite-season-1.json](./194419-pokemon-unite-season-1.json) |
 | Pokémon Unite: Season 2 | 194418 | [194418-pokemon-unite-season-2.json](./194418-pokemon-unite-season-2.json) |
 | Pokémon Unite: Season 3 | 194420 | [194420-pokemon-unite-season-3.json](./194420-pokemon-unite-season-3.json) |
