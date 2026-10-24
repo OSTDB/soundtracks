@@ -2636,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bassmaster Fishing: Digital Collector's Edition | 240221 | [240221-bassmaster-fishing-digital-collectors-edition.json](./240221-bassmaster-fishing-digital-collectors-edition.json) |
 | BassMasters 2000 | 3420 | [3420-bassmasters-2000.json](./3420-bassmasters-2000.json) |
 | BassTour | 142320 | [142320-basstour.json](./142320-basstour.json) |
+| Bastard | 101458 | [101458-bastard.json](./101458-bastard.json) |
 | Bastard Little Zombie | 133697 | [133697-bastard-little-zombie.json](./133697-bastard-little-zombie.json) |
 | Bastard!! Ankoku no Hakaishin | 65403 | [65403-bastard-ankoku-no-hakaishin.json](./65403-bastard-ankoku-no-hakaishin.json) |
 | Basted | 67666 | [67666-basted.json](./67666-basted.json) |
@@ -9313,6 +9314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons TD 2 | 109114 | [109114-bloons-td-2.json](./109114-bloons-td-2.json) |
 | Bloons TD 3 | 109113 | [109113-bloons-td-3.json](./109113-bloons-td-3.json) |
 | Bloons TD 4 | 85511 | [85511-bloons-td-4.json](./85511-bloons-td-4.json) |
+| Bloons TD 4 HD | 88190 | [88190-bloons-td-4-hd.json](./88190-bloons-td-4-hd.json) |
 | Bloons TD 5 | 17520 | [17520-bloons-td-5.json](./17520-bloons-td-5.json) |
 | Bloons TD 5 HD | 88911 | [88911-bloons-td-5-hd.json](./88911-bloons-td-5-hd.json) |
 | Bloons TD 6: Frontier Legends | 381278 | [381278-bloons-td-6-frontier-legends.json](./381278-bloons-td-6-frontier-legends.json) |
