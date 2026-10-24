@@ -2225,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptunia Riders vs. Dogoos | 317845 | [317845-neptunia-riders-vs-dogoos.json](./317845-neptunia-riders-vs-dogoos.json) |
 | Neptunia Riders vs. Dogoos: Deluxe Edition | 330203 | [330203-neptunia-riders-vs-dogoos-deluxe-edition.json](./330203-neptunia-riders-vs-dogoos-deluxe-edition.json) |
 | Neptunia Shooter | 117193 | [117193-neptunia-shooter.json](./117193-neptunia-shooter.json) |
+| Neptunia x Senran Kagura: Ninja Wars | 146337 | [146337-neptunia-x-senran-kagura-ninja-wars.json](./146337-neptunia-x-senran-kagura-ninja-wars.json) |
 | Neptunia: Sisters vs. Sisters - Digital Deluxe Edition | 255520 | [255520-neptunia-sisters-vs-sisters-digital-deluxe-edition.json](./255520-neptunia-sisters-vs-sisters-digital-deluxe-edition.json) |
 | Neptunia: Sisters vs. Sisters - Special Limited Edition | 185985 | [185985-neptunia-sisters-vs-sisters-special-limited-edition.json](./185985-neptunia-sisters-vs-sisters-special-limited-edition.json) |
 | Neptunia: Virtual Stars | 135338 | [135338-neptunia-virtual-stars.json](./135338-neptunia-virtual-stars.json) |
@@ -2727,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Solitaire Card Game | 96973 | [96973-new-solitaire-card-game.json](./96973-new-solitaire-card-game.json) |
 | New Star Cricket | 234614 | [234614-new-star-cricket.json](./234614-new-star-cricket.json) |
 | New Star Grand Prix | 67064 | [67064-new-star-grand-prix.json](./67064-new-star-grand-prix.json) |
+| New Star Soccer | 7674 | [7674-new-star-soccer.json](./7674-new-star-soccer.json) |
 | New Star Soccer | 7682 | [7682-new-star-soccer.json](./7682-new-star-soccer.json) |
 | New Star Soccer 2 | 7681 | [7681-new-star-soccer-2.json](./7681-new-star-soccer-2.json) |
 | New Star Soccer 2010 | 7678 | [7678-new-star-soccer-2010.json](./7678-new-star-soccer-2010.json) |
