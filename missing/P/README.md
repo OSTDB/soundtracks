@@ -10304,6 +10304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porntris | 299467 | [299467-porntris.json](./299467-porntris.json) |
 | Porp | 133656 | [133656-porp.json](./133656-porp.json) |
 | Porpetha | 249882 | [249882-porpetha.json](./249882-porpetha.json) |
+| Porradaria 2: Pagode of the Night | 33840 | [33840-porradaria-2-pagode-of-the-night.json](./33840-porradaria-2-pagode-of-the-night.json) |
 | Porradaria Upgrade | 91973 | [91973-porradaria-upgrade.json](./91973-porradaria-upgrade.json) |
 | Porrasturvat: Stair Dismount | 93059 | [93059-porrasturvat-stair-dismount.json](./93059-porrasturvat-stair-dismount.json) |
 | Porsche Challenge | 45023 | [45023-porsche-challenge.json](./45023-porsche-challenge.json) |
@@ -11742,6 +11743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Print Gallery of an Artist | 399606 | [399606-print-gallery-of-an-artist.json](./399606-print-gallery-of-an-artist.json) |
 | Printfarm Simulator | 371522 | [371522-printfarm-simulator.json](./371522-printfarm-simulator.json) |
 | Prinzessin Lillifee Puzzle: Echter Puzzlespass für Unterwegs | 252669 | [252669-prinzessin-lillifee-puzzle-echter-puzzlespass-fur-unterwegs.json](./252669-prinzessin-lillifee-puzzle-echter-puzzlespass-fur-unterwegs.json) |
+| PRiO | 33877 | [33877-prio.json](./33877-prio.json) |
 | Priority Realignment | 234900 | [234900-priority-realignment.json](./234900-priority-realignment.json) |
 | PriPara & Pretty Rhythm: PriPara de Tsukaeru Oshare Item 1450! | 177578 | [177578-pripara-and-pretty-rhythm-pripara-de-tsukaeru-oshare-item-1450.json](./177578-pripara-and-pretty-rhythm-pripara-de-tsukaeru-oshare-item-1450.json) |
 | PriPara Aim! Idol Grand Prix No.1! | 177573 | [177573-pripara-aim-idol-grand-prix-no-1.json](./177573-pripara-aim-idol-grand-prix-no-1.json) |
