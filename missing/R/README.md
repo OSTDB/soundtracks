@@ -9866,6 +9866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run-N-Jump-N-Jump-N-Run | 134913 | [134913-run-n-jump-n-jump-n-run.json](./134913-run-n-jump-n-jump-n-run.json) |
 | Run, chicken, run! | 113885 | [113885-run-chicken-run.json](./113885-run-chicken-run.json) |
 | Run, Doodleguy! | 211293 | [211293-run-doodleguy.json](./211293-run-doodleguy.json) |
+| Run, Goo, Run | 37544 | [37544-run-goo-run.json](./37544-run-goo-run.json) |
 | Run, Kitty! | 192771 | [192771-run-kitty.json](./192771-run-kitty.json) |
 | Run, my little pixel | 74215 | [74215-run-my-little-pixel.json](./74215-run-my-little-pixel.json) |
 | Run, Poo, Run! | 388967 | [388967-run-poo-run.json](./388967-run-poo-run.json) |
@@ -9888,6 +9889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run!ZombieFoods! | 51425 | [51425-run-zombiefoods.json](./51425-run-zombiefoods.json) |
 | Run'N'Get | 109884 | [109884-runnget.json](./109884-runnget.json) |
 | Run&Brake - Animal Escape | 108195 | [108195-run-and-brake-animal-escape.json](./108195-run-and-brake-animal-escape.json) |
+| Run=Dim: Return to Earth | 37557 | [37557-run-dim-return-to-earth.json](./37557-run-dim-return-to-earth.json) |
 | Run4YourLight | 203761 | [203761-run4yourlight.json](./203761-run4yourlight.json) |
 | Run8 Train Simulator | 78485 | [78485-run8-train-simulator.json](./78485-run8-train-simulator.json) |
 | Runa | 129162 | [129162-runa.json](./129162-runa.json) |
