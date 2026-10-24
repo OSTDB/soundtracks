@@ -2838,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Corporation | 165767 | [165767-fear-corporation.json](./165767-fear-corporation.json) |
 | Fear Dog The Bolota Escape | 379159 | [379159-fear-dog-the-bolota-escape.json](./379159-fear-dog-the-bolota-escape.json) |
 | Fear Effect | 320361 | [320361-fear-effect.json](./320361-fear-effect.json) |
+| Fear Effect | 8600 | [8600-fear-effect.json](./8600-fear-effect.json) |
 | Fear Effect 2: Retro Helix | 375601 | [375601-fear-effect-2-retro-helix.json](./375601-fear-effect-2-retro-helix.json) |
 | Fear Effect 2: Retro Helix | 8601 | [8601-fear-effect-2-retro-helix.json](./8601-fear-effect-2-retro-helix.json) |
 | Fear Effect: Reinvented | 55026 | [55026-fear-effect-reinvented.json](./55026-fear-effect-reinvented.json) |
@@ -5330,6 +5331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Nation | 252686 | [252686-fishing-nation.json](./252686-fishing-nation.json) |
 | Fishing Online | 274975 | [274975-fishing-online.json](./274975-fishing-online.json) |
 | Fishing Paradise 3D | 25744 | [25744-fishing-paradise-3d.json](./25744-fishing-paradise-3d.json) |
+| Fishing Planet | 12731 | [12731-fishing-planet.json](./12731-fishing-planet.json) |
 | Fishing Planet Anniversary Pack | 366005 | [366005-fishing-planet-anniversary-pack.json](./366005-fishing-planet-anniversary-pack.json) |
 | Fishing Planet Boat Series Pack | 366001 | [366001-fishing-planet-boat-series-pack.json](./366001-fishing-planet-boat-series-pack.json) |
 | Fishing Planet: Advanced Pack | 365993 | [365993-fishing-planet-advanced-pack.json](./365993-fishing-planet-advanced-pack.json) |
