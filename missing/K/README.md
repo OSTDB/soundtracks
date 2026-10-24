@@ -3614,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's Apprentice, Memorick's Adventures | 70469 | [70469-knights-apprentice-memoricks-adventures.json](./70469-knights-apprentice-memoricks-adventures.json) |
 | Knight's Castle | 213341 | [213341-knights-castle.json](./213341-knights-castle.json) |
 | Knight's Chance | 75478 | [75478-knights-chance.json](./75478-knights-chance.json) |
+| Knight's Contract | 21775 | [21775-knights-contract.json](./21775-knights-contract.json) |
 | Knight's Destiny | 149037 | [149037-knights-destiny.json](./149037-knights-destiny.json) |
 | Knight's Drop | 297369 | [297369-knights-drop.json](./297369-knights-drop.json) |
 | Knight's Dungeon | 360631 | [360631-knights-dungeon.json](./360631-knights-dungeon.json) |
