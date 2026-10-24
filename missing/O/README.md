@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ojou-sama, Chijoku no hate ni Warau. | 108940 | [108940-ojou-sama-chijoku-no-hate-ni-warau.json](./108940-ojou-sama-chijoku-no-hate-ni-warau.json) |
 | Ojousama Sousamou | 70400 | [70400-ojousama-sousamou.json](./70400-ojousama-sousamou.json) |
 | OK Boomer | 127160 | [127160-ok-boomer.json](./127160-ok-boomer.json) |
+| OK K.O.! Let's Play Heroes | 80012 | [80012-ok-k-o-lets-play-heroes.json](./80012-ok-k-o-lets-play-heroes.json) |
 | OK, Dracula | 124507 | [124507-ok-dracula.json](./124507-ok-dracula.json) |
 | OK! Bird: Wing Up | 240863 | [240863-ok-bird-wing-up.json](./240863-ok-bird-wing-up.json) |
 | Ok/Normal | 101635 | [101635-ok-normal.json](./101635-ok-normal.json) |
@@ -3162,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbtangle | 221119 | [221119-orbtangle.json](./221119-orbtangle.json) |
 | Orbtrain: Slot Racing | 151270 | [151270-orbtrain-slot-racing.json](./151270-orbtrain-slot-racing.json) |
 | Orbu | 101456 | [101456-orbu.json](./101456-orbu.json) |
+| OrbusVR | 76324 | [76324-orbusvr.json](./76324-orbusvr.json) |
 | OrbusVR: Reborn | 193679 | [193679-orbusvr-reborn.json](./193679-orbusvr-reborn.json) |
 | OrbWars | 154051 | [154051-orbwars.json](./154051-orbwars.json) |
 | Orbyss | 343264 | [343264-orbyss.json](./343264-orbyss.json) |
@@ -3669,6 +3671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Othello | 128892 | [128892-othello.json](./128892-othello.json) |
 | Othello | 134419 | [134419-othello.json](./134419-othello.json) |
 | Othello | 25159 | [25159-othello.json](./25159-othello.json) |
+| Othello | 28466 | [28466-othello.json](./28466-othello.json) |
 | Othello | 341376 | [341376-othello.json](./341376-othello.json) |
 | Othello | 408869 | [408869-othello.json](./408869-othello.json) |
 | Othello | 54795 | [54795-othello.json](./54795-othello.json) |
