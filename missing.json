@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-24T08:17:41.923Z",
-  "total_missing": 255066,
+  "generated_at": "2026-10-24T08:23:11.063Z",
+  "total_missing": 255050,
   "games": [
     {
       "igdb_id": 191680,
@@ -104367,11 +104367,6 @@
       "file": "missing/B/112635-battlefield-1-early-enlister-deluxe-edition.json"
     },
     {
-      "igdb_id": 28966,
-      "game_name": "Battlefield 1: In the Name of the Tsar",
-      "file": "missing/B/28966-battlefield-1-in-the-name-of-the-tsar.json"
-    },
-    {
       "igdb_id": 166991,
       "game_name": "Battlefield 1: Premium Edition",
       "file": "missing/B/166991-battlefield-1-premium-edition.json"
@@ -133542,11 +133537,6 @@
       "file": "missing/B/330334-bloons-td-6-rogue-legends.json"
     },
     {
-      "igdb_id": 153002,
-      "game_name": "Bloons TD Battles 2",
-      "file": "missing/B/153002-bloons-td-battles-2.json"
-    },
-    {
       "igdb_id": 138135,
       "game_name": "Bloons TDX",
       "file": "missing/B/138135-bloons-tdx.json"
@@ -147475,11 +147465,6 @@
       "igdb_id": 201288,
       "game_name": "Brawlin' Sailor",
       "file": "missing/B/201288-brawlin-sailor.json"
-    },
-    {
-      "igdb_id": 27419,
-      "game_name": "Brawlout",
-      "file": "missing/B/27419-brawlout.json"
     },
     {
       "igdb_id": 119077,
@@ -194210,11 +194195,6 @@
       "igdb_id": 73511,
       "game_name": "Chromadrome",
       "file": "missing/C/73511-chromadrome.json"
-    },
-    {
-      "igdb_id": 23245,
-      "game_name": "ChromaGun",
-      "file": "missing/C/23245-chromagun.json"
     },
     {
       "igdb_id": 305224,
@@ -256670,11 +256650,6 @@
       "igdb_id": 62702,
       "game_name": "Daymare Town 4",
       "file": "missing/D/62702-daymare-town-4.json"
-    },
-    {
-      "igdb_id": 152844,
-      "game_name": "Daymare: 1994 Sandcastle",
-      "file": "missing/D/152844-daymare-1994-sandcastle.json"
     },
     {
       "igdb_id": 277376,
@@ -481632,11 +481607,6 @@
       "file": "missing/H/50485-heros-heart.json"
     },
     {
-      "igdb_id": 145822,
-      "game_name": "Hero's Hour",
-      "file": "missing/H/145822-heros-hour.json"
-    },
-    {
       "igdb_id": 381190,
       "game_name": "Hero's Hour 2",
       "file": "missing/H/381190-heros-hour-2.json"
@@ -567587,11 +567557,6 @@
       "file": "missing/K/231986-king-of-the-west.json"
     },
     {
-      "igdb_id": 39216,
-      "game_name": "King of Thieves",
-      "file": "missing/K/39216-king-of-thieves.json"
-    },
-    {
       "igdb_id": 391281,
       "game_name": "King of Tokyo",
       "file": "missing/K/391281-king-of-tokyo.json"
@@ -589970,11 +589935,6 @@
       "igdb_id": 273138,
       "game_name": "Leaving L.A.",
       "file": "missing/L/273138-leaving-l-a.json"
-    },
-    {
-      "igdb_id": 27139,
-      "game_name": "Leaving Lyndow",
-      "file": "missing/L/27139-leaving-lyndow.json"
     },
     {
       "igdb_id": 296240,
@@ -864477,11 +864437,6 @@
       "file": "missing/R/114085-redo.json"
     },
     {
-      "igdb_id": 186059,
-      "game_name": "Redout 2",
-      "file": "missing/R/186059-redout-2.json"
-    },
-    {
       "igdb_id": 205571,
       "game_name": "Redout 2: Deluxe Edition",
       "file": "missing/R/205571-redout-2-deluxe-edition.json"
@@ -931832,11 +931787,6 @@
       "file": "missing/S/165700-shenyuan.json"
     },
     {
-      "igdb_id": 25084,
-      "game_name": "Shenzhen I/O",
-      "file": "missing/S/25084-shenzhen-i-o.json"
-    },
-    {
       "igdb_id": 30085,
       "game_name": "Shenzhen Solitaire",
       "file": "missing/S/30085-shenzhen-solitaire.json"
@@ -968007,11 +967957,6 @@
       "file": "missing/S/360334-song-of-nanzhao.json"
     },
     {
-      "igdb_id": 182190,
-      "game_name": "Song of Nunu: A League of Legends Story",
-      "file": "missing/S/182190-song-of-nunu-a-league-of-legends-story.json"
-    },
-    {
       "igdb_id": 38990,
       "game_name": "Song of Pan",
       "file": "missing/S/38990-song-of-pan.json"
@@ -982290,11 +982235,6 @@
       "igdb_id": 284255,
       "game_name": "Spark Spark",
       "file": "missing/S/284255-spark-spark.json"
-    },
-    {
-      "igdb_id": 28134,
-      "game_name": "Spark the Electric Jester",
-      "file": "missing/S/28134-spark-the-electric-jester.json"
     },
     {
       "igdb_id": 153620,
@@ -1120827,11 +1120767,6 @@
       "file": "missing/T/400498-the-wandering-her.json"
     },
     {
-      "igdb_id": 140669,
-      "game_name": "The Wandering Village",
-      "file": "missing/T/140669-the-wandering-village.json"
-    },
-    {
       "igdb_id": 404854,
       "game_name": "The Wandering Village: The Last Leviathan",
       "file": "missing/T/404854-the-wandering-village-the-last-leviathan.json"
@@ -1201122,11 +1201057,6 @@
       "file": "missing/V/108298-velocity-supernova.json"
     },
     {
-      "igdb_id": 23429,
-      "game_name": "Velocity Ultra",
-      "file": "missing/V/23429-velocity-ultra.json"
-    },
-    {
       "igdb_id": 411614,
       "game_name": "Velocity Uncapped",
       "file": "missing/V/411614-velocity-uncapped.json"
@@ -1214677,11 +1214607,6 @@
       "file": "missing/W/329364-walk-zero1.json"
     },
     {
-      "igdb_id": 142095,
-      "game_name": "Walkabout Mini Golf",
-      "file": "missing/W/142095-walkabout-mini-golf.json"
-    },
-    {
       "igdb_id": 220525,
       "game_name": "Walkabout Mini Golf: 20,000 Leagues Under the Sea",
       "file": "missing/W/220525-walkabout-mini-golf-20-000-leagues-under-the-sea.json"
@@ -1218845,11 +1218770,6 @@
       "igdb_id": 146646,
       "game_name": "Warhammer 40,000: Battle Sister",
       "file": "missing/W/146646-warhammer-40-000-battle-sister.json"
-    },
-    {
-      "igdb_id": 143424,
-      "game_name": "Warhammer 40,000: Battlesector",
-      "file": "missing/W/143424-warhammer-40-000-battlesector.json"
     },
     {
       "igdb_id": 302171,
