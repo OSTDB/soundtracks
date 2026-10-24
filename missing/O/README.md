@@ -1372,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Phenex Commenced Project Six | 326124 | [326124-omega-phenex-commenced-project-six.json](./326124-omega-phenex-commenced-project-six.json) |
 | Omega Pilot | 199364 | [199364-omega-pilot.json](./199364-omega-pilot.json) |
 | Omega Protocol | 374633 | [374633-omega-protocol.json](./374633-omega-protocol.json) |
+| Omega Quintet | 9907 | [9907-omega-quintet.json](./9907-omega-quintet.json) |
 | Omega Quintet: Limited Edition | 166239 | [166239-omega-quintet-limited-edition.json](./166239-omega-quintet-limited-edition.json) |
 | Omega Quintet: Mega Mic Pack | 226126 | [226126-omega-quintet-mega-mic-pack.json](./226126-omega-quintet-mega-mic-pack.json) |
 | Omega Quintet: Potent Protection Pack | 226125 | [226125-omega-quintet-potent-protection-pack.json](./226125-omega-quintet-potent-protection-pack.json) |
@@ -4580,6 +4581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlord II | 46 | [46-overlord-ii.json](./46-overlord-ii.json) |
 | Overlord: Dark Legend | 47 | [47-overlord-dark-legend.json](./47-overlord-dark-legend.json) |
 | Overlord: Escape From Nazarick - Limited Collector's Edition | 285683 | [285683-overlord-escape-from-nazarick-limited-collectors-edition.json](./285683-overlord-escape-from-nazarick-limited-collectors-edition.json) |
+| Overlord: Fellowship of Evil | 9901 | [9901-overlord-fellowship-of-evil.json](./9901-overlord-fellowship-of-evil.json) |
 | Overlord: Minions | 48 | [48-overlord-minions.json](./48-overlord-minions.json) |
 | Overlord: Nobody Know Victory Better Than Me | 193199 | [193199-overlord-nobody-know-victory-better-than-me.json](./193199-overlord-nobody-know-victory-better-than-me.json) |
 | Overlord: Raising Hell | 45 | [45-overlord-raising-hell.json](./45-overlord-raising-hell.json) |
