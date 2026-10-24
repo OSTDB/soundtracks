@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Slayer | 229227 | [229227-vampire-slayer.json](./229227-vampire-slayer.json) |
 | Vampire Slayer: New Blood | 192618 | [192618-vampire-slayer-new-blood.json](./192618-vampire-slayer-new-blood.json) |
 | Vampire Slayer: The Resurrection | 231065 | [231065-vampire-slayer-the-resurrection.json](./231065-vampire-slayer-the-resurrection.json) |
+| Vampire Survivors VR | 377650 | [377650-vampire-survivors-vr.json](./377650-vampire-survivors-vr.json) |
 | Vampire Survivors: 1.14 | 375523 | [375523-vampire-survivors-1-14.json](./375523-vampire-survivors-1-14.json) |
 | Vampire Survivors: 1.5 | 252864 | [252864-vampire-survivors-1-5.json](./252864-vampire-survivors-1-5.json) |
 | Vampire Survivors: Ante Chamber | 375522 | [375522-vampire-survivors-ante-chamber.json](./375522-vampire-survivors-ante-chamber.json) |
