@@ -1928,6 +1928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZP2KX: Zombies and Pterodactyls 20XX | 79927 | [79927-zp2kx-zombies-and-pterodactyls-20xx.json](./79927-zp2kx-zombies-and-pterodactyls-20xx.json) |
 | ZPack: Random Maps for ZDoom | 260981 | [260981-zpack-random-maps-for-zdoom.json](./260981-zpack-random-maps-for-zdoom.json) |
 | ZPC | 78915 | [78915-zpc.json](./78915-zpc.json) |
+| Zpeciation: Tough Days (TD) | 29492 | [29492-zpeciation-tough-days-td.json](./29492-zpeciation-tough-days-td.json) |
 | ZpellCatz | 206340 | [206340-zpellcatz.json](./206340-zpellcatz.json) |
 | ZpellCatz: Supporter Pack | 301639 | [301639-zpellcatz-supporter-pack.json](./301639-zpellcatz-supporter-pack.json) |
 | ZPF | 308919 | [308919-zpf.json](./308919-zpf.json) |
