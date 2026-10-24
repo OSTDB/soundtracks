@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammerin' Harry: Ghost Building Company | 49048 | [49048-hammerin-harry-ghost-building-company.json](./49048-hammerin-harry-ghost-building-company.json) |
 | Hammerin' Hero | 42842 | [42842-hammerin-hero.json](./42842-hammerin-hero.json) |
 | Hammerlock Wrestling | 42589 | [42589-hammerlock-wrestling.json](./42589-hammerlock-wrestling.json) |
+| Hammerwatch II | 245805 | [245805-hammerwatch-ii.json](./245805-hammerwatch-ii.json) |
 | Hammerwatch: Anniversary Edition | 261850 | [261850-hammerwatch-anniversary-edition.json](./261850-hammerwatch-anniversary-edition.json) |
 | Hammet P.I. | 346915 | [346915-hammet-p-i.json](./346915-hammet-p-i.json) |
 | Hammurabi | 311346 | [311346-hammurabi.json](./311346-hammurabi.json) |
@@ -1770,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Deathly Hallows: Part 2 - The Mobile Game | 266199 | [266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json](./266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json) |
 | Harry Potter and the Goblet of Fire | 166333 | [166333-harry-potter-and-the-goblet-of-fire.json](./166333-harry-potter-and-the-goblet-of-fire.json) |
 | Harry Potter and the Goblet of Fire | 248544 | [248544-harry-potter-and-the-goblet-of-fire.json](./248544-harry-potter-and-the-goblet-of-fire.json) |
+| Harry Potter and the Goblet of Fire | 248545 | [248545-harry-potter-and-the-goblet-of-fire.json](./248545-harry-potter-and-the-goblet-of-fire.json) |
 | Harry Potter and the Goblet of Fire | 3942 | [3942-harry-potter-and-the-goblet-of-fire.json](./3942-harry-potter-and-the-goblet-of-fire.json) |
 | Harry Potter and the Goblet of Fire: The Triwizard Tournament | 266502 | [266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json](./266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json) |
 | Harry Potter and the Half-Blood Prince | 266197 | [266197-harry-potter-and-the-half-blood-prince.json](./266197-harry-potter-and-the-half-blood-prince.json) |
@@ -1871,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Havoc | 276664 | [276664-harvest-havoc.json](./276664-harvest-havoc.json) |
 | Harvest Health | 236868 | [236868-harvest-health.json](./236868-harvest-health.json) |
 | Harvest Hills | 237221 | [237221-harvest-hills.json](./237221-harvest-hills.json) |
+| Harvest Hunt | 244410 | [244410-harvest-hunt.json](./244410-harvest-hunt.json) |
 | Harvest Hustlers | 302363 | [302363-harvest-hustlers.json](./302363-harvest-hustlers.json) |
 | Harvest Island | 133155 | [133155-harvest-island.json](./133155-harvest-island.json) |
 | Harvest Island: Beginnings | 159878 | [159878-harvest-island-beginnings.json](./159878-harvest-island-beginnings.json) |
@@ -5906,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Threats | 95323 | [95323-hidden-threats.json](./95323-hidden-threats.json) |
 | Hidden Through Time | 128909 | [128909-hidden-through-time.json](./128909-hidden-through-time.json) |
 | Hidden Through Time 2: Discovery | 291422 | [291422-hidden-through-time-2-discovery.json](./291422-hidden-through-time-2-discovery.json) |
+| Hidden Through Time 2: Myths & Magic | 247907 | [247907-hidden-through-time-2-myths-and-magic.json](./247907-hidden-through-time-2-myths-and-magic.json) |
 | Hidden Through Time: Aztec Rituals | 212224 | [212224-hidden-through-time-aztec-rituals.json](./212224-hidden-through-time-aztec-rituals.json) |
 | Hidden Through Time: Definitive Edition | 198127 | [198127-hidden-through-time-definitive-edition.json](./198127-hidden-through-time-definitive-edition.json) |
 | Hidden Through Time: Deluxe Edition | 237852 | [237852-hidden-through-time-deluxe-edition.json](./237852-hidden-through-time-deluxe-edition.json) |
