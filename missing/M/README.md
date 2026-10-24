@@ -13132,6 +13132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montjoie! | 66719 | [66719-montjoie.json](./66719-montjoie.json) |
 | Montone | 415887 | [415887-montone.json](./415887-montone.json) |
 | MonTowers2 | 224008 | [224008-montowers2.json](./224008-montowers2.json) |
+| Monty is Innocent | 26279 | [26279-monty-is-innocent.json](./26279-monty-is-innocent.json) |
 | Monty Mole Island | 282731 | [282731-monty-mole-island.json](./282731-monty-mole-island.json) |
 | Monty on the Norm | 71243 | [71243-monty-on-the-norm.json](./71243-monty-on-the-norm.json) |
 | Monty on the Run | 376192 | [376192-monty-on-the-run.json](./376192-monty-on-the-run.json) |
@@ -14318,6 +14319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Rally 2 | 358836 | [358836-motor-rally-2.json](./358836-motor-rally-2.json) |
 | Motor Show | 85957 | [85957-motor-show.json](./85957-motor-show.json) |
 | Motor Storm | 247039 | [247039-motor-storm.json](./247039-motor-storm.json) |
+| Motor Strike: Immortal Legends | 26210 | [26210-motor-strike-immortal-legends.json](./26210-motor-strike-immortal-legends.json) |
 | Motor Stunt Xtreme | 175596 | [175596-motor-stunt-xtreme.json](./175596-motor-stunt-xtreme.json) |
 | Motor Toon Grand Prix | 43887 | [43887-motor-toon-grand-prix.json](./43887-motor-toon-grand-prix.json) |
 | Motor Toon Grand Prix | 45109 | [45109-motor-toon-grand-prix.json](./45109-motor-toon-grand-prix.json) |
@@ -15184,6 +15186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mughaan | 238522 | [238522-mughaan.json](./238522-mughaan.json) |
 | Mugogy Jump | 298300 | [298300-mugogy-jump.json](./298300-mugogy-jump.json) |
 | Mugsy | 25719 | [25719-mugsy.json](./25719-mugsy.json) |
+| Mugsy's Revenge | 26216 | [26216-mugsys-revenge.json](./26216-mugsys-revenge.json) |
 | Muhammad Ali | 228360 | [228360-muhammad-ali.json](./228360-muhammad-ali.json) |
 | Muhammad Ali Heavyweight Boxing | 288070 | [288070-muhammad-ali-heavyweight-boxing.json](./288070-muhammad-ali-heavyweight-boxing.json) |
 | Muhammad Ali Heavyweight Boxing | 46269 | [46269-muhammad-ali-heavyweight-boxing.json](./46269-muhammad-ali-heavyweight-boxing.json) |
