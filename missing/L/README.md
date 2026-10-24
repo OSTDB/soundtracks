@@ -1495,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawyer Hunt | 94377 | [94377-lawyer-hunt.json](./94377-lawyer-hunt.json) |
 | Laxius Force | 50802 | [50802-laxius-force.json](./50802-laxius-force.json) |
 | Laxius Force | 63127 | [63127-laxius-force.json](./63127-laxius-force.json) |
+| Laxius Force II: The Queen of Adretana | 10504 | [10504-laxius-force-ii-the-queen-of-adretana.json](./10504-laxius-force-ii-the-queen-of-adretana.json) |
 | Laxius Force III | 24731 | [24731-laxius-force-iii.json](./24731-laxius-force-iii.json) |
 | Laxius Party | 256689 | [256689-laxius-party.json](./256689-laxius-party.json) |
 | Laxius Power II | 72040 | [72040-laxius-power-ii.json](./72040-laxius-power-ii.json) |
@@ -2080,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Golfer | 3972 | [3972-legend-of-golfer.json](./3972-legend-of-golfer.json) |
 | Legend of Grimrock | 6328 | [6328-legend-of-grimrock.json](./6328-legend-of-grimrock.json) |
 | Legend of Herkules | 66941 | [66941-legend-of-herkules.json](./66941-legend-of-herkules.json) |
+| Legend of Hero Tonma | 10453 | [10453-legend-of-hero-tonma.json](./10453-legend-of-hero-tonma.json) |
 | Legend of Heroes: Eternal Arena | 151200 | [151200-legend-of-heroes-eternal-arena.json](./151200-legend-of-heroes-eternal-arena.json) |
 | Legend of Heroes: Three Kingdoms | 333603 | [333603-legend-of-heroes-three-kingdoms.json](./333603-legend-of-heroes-three-kingdoms.json) |
 | Legend of Hidden Flows | 252288 | [252288-legend-of-hidden-flows.json](./252288-legend-of-hidden-flows.json) |
@@ -2331,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Old | 278470 | [278470-legends-of-old.json](./278470-legends-of-old.json) |
 | Legends of Oz: Dorothy's Return | 57055 | [57055-legends-of-oz-dorothys-return.json](./57055-legends-of-oz-dorothys-return.json) |
 | Legends of Pegasus | 10389 | [10389-legends-of-pegasus.json](./10389-legends-of-pegasus.json) |
+| Legends of Persia | 10390 | [10390-legends-of-persia.json](./10390-legends-of-persia.json) |
 | Legends of Pixelia | 35227 | [35227-legends-of-pixelia.json](./35227-legends-of-pixelia.json) |
 | Legends of Runeterra | 124701 | [124701-legends-of-runeterra.json](./124701-legends-of-runeterra.json) |
 | Legends of Savvarah: Time of Pariah | 264002 | [264002-legends-of-savvarah-time-of-pariah.json](./264002-legends-of-savvarah-time-of-pariah.json) |
