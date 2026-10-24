@@ -6391,6 +6391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piverantum | 261752 | [261752-piverantum.json](./261752-piverantum.json) |
 | Pivo | 132136 | [132136-pivo.json](./132136-pivo.json) |
 | Pivot of Hearts | 191165 | [191165-pivot-of-hearts.json](./191165-pivot-of-hearts.json) |
+| Pivot Pilot | 30048 | [30048-pivot-pilot.json](./30048-pivot-pilot.json) |
 | Pivot Puzzles | 65780 | [65780-pivot-puzzles.json](./65780-pivot-puzzles.json) |
 | Pivot XL | 99426 | [99426-pivot-xl.json](./99426-pivot-xl.json) |
 | Pivotal | 176151 | [176151-pivotal.json](./176151-pivotal.json) |
@@ -12935,6 +12936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Lumoria | 136481 | [136481-project-lumoria.json](./136481-project-lumoria.json) |
 | Project Luna | 220659 | [220659-project-luna.json](./220659-project-luna.json) |
 | Project Lunky | 396762 | [396762-project-lunky.json](./396762-project-lunky.json) |
+| Project LUX | 29955 | [29955-project-lux.json](./29955-project-lux.json) |
 | Project Lynx | 326165 | [326165-project-lynx.json](./326165-project-lynx.json) |
 | Project M | 127155 | [127155-project-m.json](./127155-project-m.json) |
 | Project M | 174687 | [174687-project-m.json](./174687-project-m.json) |
@@ -14582,6 +14584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putinization | 102919 | [102919-putinization.json](./102919-putinization.json) |
 | Putrefaction | 26533 | [26533-putrefaction.json](./26533-putrefaction.json) |
 | Putrefaction 2: Rumble in the Hometown | 68797 | [68797-putrefaction-2-rumble-in-the-hometown.json](./68797-putrefaction-2-rumble-in-the-hometown.json) |
+| Putrefaction 2: Void Walker | 30131 | [30131-putrefaction-2-void-walker.json](./30131-putrefaction-2-void-walker.json) |
 | Putrefier | 256824 | [256824-putrefier.json](./256824-putrefier.json) |
 | Putrid Shot Ultra | 207273 | [207273-putrid-shot-ultra.json](./207273-putrid-shot-ultra.json) |
 | Putrid Snow 2: House of Yule | 402231 | [402231-putrid-snow-2-house-of-yule.json](./402231-putrid-snow-2-house-of-yule.json) |
