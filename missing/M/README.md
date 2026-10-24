@@ -1028,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Pen Tracing Book | 400061 | [400061-magic-pen-tracing-book.json](./400061-magic-pen-tracing-book.json) |
 | Magic Pengel: The Quest for Color | 11357 | [11357-magic-pengel-the-quest-for-color.json](./11357-magic-pengel-the-quest-for-color.json) |
 | Magic Petals | 100987 | [100987-magic-petals.json](./100987-magic-petals.json) |
+| Magic Piano Tiles 2018 - Music Game | 110594 | [110594-magic-piano-tiles-2018-music-game.json](./110594-magic-piano-tiles-2018-music-game.json) |
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
 | Magic Pixel Survival | 233419 | [233419-magic-pixel-survival.json](./233419-magic-pixel-survival.json) |
 | Magic Pot&ter Battlegrounds | 150500 | [150500-magic-pot-and-ter-battlegrounds.json](./150500-magic-pot-and-ter-battlegrounds.json) |
@@ -1189,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Date: Doki-doki Kokuhaku Daisakusen | 360723 | [360723-magical-date-doki-doki-kokuhaku-daisakusen.json](./360723-magical-date-doki-doki-kokuhaku-daisakusen.json) |
 | Magical Days: The Brats' Parade | 358326 | [358326-magical-days-the-brats-parade.json](./358326-magical-days-the-brats-parade.json) |
 | Magical Delicacy | 238948 | [238948-magical-delicacy.json](./238948-magical-delicacy.json) |
+| Magical Diary: Horse Hall | 28035 | [28035-magical-diary-horse-hall.json](./28035-magical-diary-horse-hall.json) |
 | Magical Diary: Secrets Sharing | 85271 | [85271-magical-diary-secrets-sharing.json](./85271-magical-diary-secrets-sharing.json) |
 | Magical Dice Kids | 130337 | [130337-magical-dice-kids.json](./130337-magical-dice-kids.json) |
 | Magical Dinosaur Tour | 42014 | [42014-magical-dinosaur-tour.json](./42014-magical-dinosaur-tour.json) |
@@ -16851,6 +16853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Name is Sarah | 129221 | [129221-my-name-is-sarah.json](./129221-my-name-is-sarah.json) |
 | My Name is Uncle Groucho You Win a Fat Cigar | 253895 | [253895-my-name-is-uncle-groucho-you-win-a-fat-cigar.json](./253895-my-name-is-uncle-groucho-you-win-a-fat-cigar.json) |
 | My name is Uter | 210559 | [210559-my-name-is-uter.json](./210559-my-name-is-uter.json) |
+| My Name is You | 29296 | [29296-my-name-is-you.json](./29296-my-name-is-you.json) |
 | My Name is You and it's the only unusual thing in my life | 127707 | [127707-my-name-is-you-and-its-the-only-unusual-thing-in-my-life.json](./127707-my-name-is-you-and-its-the-only-unusual-thing-in-my-life.json) |
 | My Name Is... | 372803 | [372803-my-name-is.json](./372803-my-name-is.json) |
 | My Naughty Shotgun | 197400 | [197400-my-naughty-shotgun.json](./197400-my-naughty-shotgun.json) |
