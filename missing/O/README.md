@@ -2177,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Ton Bang Bang | 234722 | [234722-one-ton-bang-bang.json](./234722-one-ton-bang-bang.json) |
 | One Ton Reloaded | 234173 | [234173-one-ton-reloaded.json](./234173-one-ton-reloaded.json) |
 | One Tower Defense | 390517 | [390517-one-tower-defense.json](./390517-one-tower-defense.json) |
+| One Troll Army | 19302 | [19302-one-troll-army.json](./19302-one-troll-army.json) |
 | One True Cuddle | 158633 | [158633-one-true-cuddle.json](./158633-one-true-cuddle.json) |
 | One True Hero | 208434 | [208434-one-true-hero.json](./208434-one-true-hero.json) |
 | One True Path | 334151 | [334151-one-true-path.json](./334151-one-true-path.json) |
