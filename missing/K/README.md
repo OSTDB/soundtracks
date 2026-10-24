@@ -2080,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Comet | 40049 | [40049-killer-comet.json](./40049-killer-comet.json) |
 | Killer Depths | 362392 | [362392-killer-depths.json](./362392-killer-depths.json) |
 | Killer Dog | 135814 | [135814-killer-dog.json](./135814-killer-dog.json) |
+| Killer Elite: Time to Die | 29549 | [29549-killer-elite-time-to-die.json](./29549-killer-elite-time-to-die.json) |
 | Killer Escape 4 | 386945 | [386945-killer-escape-4.json](./386945-killer-escape-4.json) |
 | Killer Escape III | 386938 | [386938-killer-escape-iii.json](./386938-killer-escape-iii.json) |
 | Killer Eyelashes | 372724 | [372724-killer-eyelashes.json](./372724-killer-eyelashes.json) |
@@ -2243,7 +2244,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
