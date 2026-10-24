@@ -6371,5 +6371,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyx Legacy | 387508 | [387508-nyx-legacy.json](./387508-nyx-legacy.json) |
 | NYX x Barbie: The Movie | 256453 | [256453-nyx-x-barbie-the-movie.json](./256453-nyx-x-barbie-the-movie.json) |
 | NYX: The Awakening | 122055 | [122055-nyx-the-awakening.json](./122055-nyx-the-awakening.json) |
+| NyxQuest: Kindred Spirits | 10262 | [10262-nyxquest-kindred-spirits.json](./10262-nyxquest-kindred-spirits.json) |
 | Nyyo | 210569 | [210569-nyyo.json](./210569-nyyo.json) |
 | NYZD | 291442 | [291442-nyzd.json](./291442-nyzd.json) |
