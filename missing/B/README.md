@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7927,6 +7928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue Revolution Reburning | 38977 | [38977-blazblue-revolution-reburning.json](./38977-blazblue-revolution-reburning.json) |
 | BlazBlue: Battle Cards | 61502 | [61502-blazblue-battle-cards.json](./61502-blazblue-battle-cards.json) |
 | BlazBlue: Calamity Trigger Portable | 46018 | [46018-blazblue-calamity-trigger-portable.json](./46018-blazblue-calamity-trigger-portable.json) |
+| BlazBlue: Central Fiction | 11613 | [11613-blazblue-central-fiction.json](./11613-blazblue-central-fiction.json) |
 | BlazBlue: Central Fiction - Limited Edition | 212326 | [212326-blazblue-central-fiction-limited-edition.json](./212326-blazblue-central-fiction-limited-edition.json) |
 | BlazBlue: Central Fiction - Special Edition | 109607 | [109607-blazblue-central-fiction-special-edition.json](./109607-blazblue-central-fiction-special-edition.json) |
 | BlazBlue: Chrono Phantasma | 5643 | [5643-blazblue-chrono-phantasma.json](./5643-blazblue-chrono-phantasma.json) |
@@ -9334,6 +9336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Crystal | 116914 | [116914-blue-crystal.json](./116914-blue-crystal.json) |
 | Blue Delta | 350599 | [350599-blue-delta.json](./350599-blue-delta.json) |
 | Blue Detective: A Hotel in Scarlet | 400505 | [400505-blue-detective-a-hotel-in-scarlet.json](./400505-blue-detective-a-hotel-in-scarlet.json) |
+| Blue Dragon | 6923 | [6923-blue-dragon.json](./6923-blue-dragon.json) |
 | Blue Dragon | 79116 | [79116-blue-dragon.json](./79116-blue-dragon.json) |
 | Blue Dragon: Awakened Shadow | 20465 | [20465-blue-dragon-awakened-shadow.json](./20465-blue-dragon-awakened-shadow.json) |
 | Blue Dragon: Shuffle Dungeon | 259863 | [259863-blue-dragon-shuffle-dungeon.json](./259863-blue-dragon-shuffle-dungeon.json) |
@@ -10726,6 +10729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands: Claptrap's New Robot Revolution | 13916 | [13916-borderlands-claptraps-new-robot-revolution.json](./13916-borderlands-claptraps-new-robot-revolution.json) |
 | Borderlands: Game of the Year Edition | 21758 | [21758-borderlands-game-of-the-year-edition.json](./21758-borderlands-game-of-the-year-edition.json) |
 | Borderlands: Game of the Year Enhanced | 118993 | [118993-borderlands-game-of-the-year-enhanced.json](./118993-borderlands-game-of-the-year-enhanced.json) |
+| Borderlands: Mad Moxxi's Underdome Riot | 13914 | [13914-borderlands-mad-moxxis-underdome-riot.json](./13914-borderlands-mad-moxxis-underdome-riot.json) |
 | Borderlands: The Handsome Collection | 14548 | [14548-borderlands-the-handsome-collection.json](./14548-borderlands-the-handsome-collection.json) |
 | Borderlands: The Pre-Sequel - Handsome Jack Doppelganger | 186629 | [186629-borderlands-the-pre-sequel-handsome-jack-doppelganger.json](./186629-borderlands-the-pre-sequel-handsome-jack-doppelganger.json) |
 | Borderlands: The Pre-Sequel - Shock Drop Slaughter Pit | 13917 | [13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json](./13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json) |
@@ -12499,6 +12503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Challenge | 15687 | [15687-bridge-challenge.json](./15687-bridge-challenge.json) |
 | Bridge Champion with Omar Sharif | 148390 | [148390-bridge-champion-with-omar-sharif.json](./148390-bridge-champion-with-omar-sharif.json) |
 | Bridge Construction Set | 25006 | [25006-bridge-construction-set.json](./25006-bridge-construction-set.json) |
+| Bridge Constructor | 9784 | [9784-bridge-constructor.json](./9784-bridge-constructor.json) |
 | Bridge Constructor Bundle | 196830 | [196830-bridge-constructor-bundle.json](./196830-bridge-constructor-bundle.json) |
 | Bridge Constructor Compilation | 131601 | [131601-bridge-constructor-compilation.json](./131601-bridge-constructor-compilation.json) |
 | Bridge Constructor Portal: Portal Proficiency | 155047 | [155047-bridge-constructor-portal-portal-proficiency.json](./155047-bridge-constructor-portal-portal-proficiency.json) |
