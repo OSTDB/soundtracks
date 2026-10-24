@@ -5595,3 +5595,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Izuna: Legend of the Unemployed Ninja | 20671 | [20671-izuna-legend-of-the-unemployed-ninja.json](./20671-izuna-legend-of-the-unemployed-ninja.json) |
 | Izurana's Walk | 357248 | [357248-izuranas-walk.json](./357248-izuranas-walk.json) |
 | Izzy's Adventure | 221928 | [221928-izzys-adventure.json](./221928-izzys-adventure.json) |
+| Izzy's Quest for the Olympic Rings | 4455 | [4455-izzys-quest-for-the-olympic-rings.json](./4455-izzys-quest-for-the-olympic-rings.json) |
