@@ -5070,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Chase | 137901 | [137901-maze-chase.json](./137901-maze-chase.json) |
 | Maze City: A Cyberpunk Lost and Found Centre | 217241 | [217241-maze-city-a-cyberpunk-lost-and-found-centre.json](./217241-maze-city-a-cyberpunk-lost-and-found-centre.json) |
 | Maze Company | 326093 | [326093-maze-company.json](./326093-maze-company.json) |
+| Maze Craze: A Game of Cops 'n Robbers | 70265 | [70265-maze-craze-a-game-of-cops-n-robbers.json](./70265-maze-craze-a-game-of-cops-n-robbers.json) |
 | Maze Crusher | 104827 | [104827-maze-crusher.json](./104827-maze-crusher.json) |
 | Maze Death Race | 319586 | [319586-maze-death-race.json](./319586-maze-death-race.json) |
 | Maze Defenders | 255734 | [255734-maze-defenders.json](./255734-maze-defenders.json) |
@@ -12769,6 +12770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Frontier G6 | 144181 | [144181-monster-hunter-frontier-g6.json](./144181-monster-hunter-frontier-g6.json) |
 | Monster Hunter Frontier Online | 7075 | [7075-monster-hunter-frontier-online.json](./7075-monster-hunter-frontier-online.json) |
 | Monster Hunter Frontier Z | 78360 | [78360-monster-hunter-frontier-z.json](./78360-monster-hunter-frontier-z.json) |
+| Monster Hunter G | 70413 | [70413-monster-hunter-g.json](./70413-monster-hunter-g.json) |
 | Monster Hunter Generations Ultimate | 25623 | [25623-monster-hunter-generations-ultimate.json](./25623-monster-hunter-generations-ultimate.json) |
 | Monster Hunter i | 341145 | [341145-monster-hunter-i.json](./341145-monster-hunter-i.json) |
 | Monster Hunter Ltd: Part I | 256821 | [256821-monster-hunter-ltd-part-i.json](./256821-monster-hunter-ltd-part-i.json) |
@@ -16797,6 +16799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Love Match | 240855 | [240855-my-love-match.json](./240855-my-love-match.json) |
 | My Love With The GirlsGroup | 292418 | [292418-my-love-with-the-girlsgroup.json](./292418-my-love-with-the-girlsgroup.json) |
 | My Lovely Cat: Remastered | 325733 | [325733-my-lovely-cat-remastered.json](./325733-my-lovely-cat-remastered.json) |
+| My Lovely Daughter | 74250 | [74250-my-lovely-daughter.json](./74250-my-lovely-daughter.json) |
 | My Lovely Daughter: The Inquisitor | 170233 | [170233-my-lovely-daughter-the-inquisitor.json](./170233-my-lovely-daughter-the-inquisitor.json) |
 | My Lovely Dog Adventure | 263231 | [263231-my-lovely-dog-adventure.json](./263231-my-lovely-dog-adventure.json) |
 | My Lovely Empress | 266612 | [266612-my-lovely-empress.json](./266612-my-lovely-empress.json) |
