@@ -9673,6 +9673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DomiCard | 107904 | [107904-domicard.json](./107904-domicard.json) |
 | DomiDo | 118144 | [118144-domido.json](./118144-domido.json) |
 | Domin'Ant | 131948 | [131948-dominant.json](./131948-dominant.json) |
+| Domina | 31173 | [31173-domina.json](./31173-domina.json) |
 | Dominacy | 109058 | [109058-dominacy.json](./109058-dominacy.json) |
 | Dominance | 116371 | [116371-dominance.json](./116371-dominance.json) |
 | DominancE | 153783 | [153783-dominance.json](./153783-dominance.json) |
@@ -11005,6 +11006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon II: The Revenge | 281525 | [281525-double-dragon-ii-the-revenge.json](./281525-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: The Revenge | 6790 | [6790-double-dragon-ii-the-revenge.json](./6790-double-dragon-ii-the-revenge.json) |
 | Double Dragon III: The Sacred Stones | 79335 | [79335-double-dragon-iii-the-sacred-stones.json](./79335-double-dragon-iii-the-sacred-stones.json) |
+| Double Dragon Neon | 5968 | [5968-double-dragon-neon.json](./5968-double-dragon-neon.json) |
 | Double Dragon Revive | 308051 | [308051-double-dragon-revive.json](./308051-double-dragon-revive.json) |
 | Double Dragon Revive: Additional Character Color | 375155 | [375155-double-dragon-revive-additional-character-color.json](./375155-double-dragon-revive-additional-character-color.json) |
 | Double Dragon SNES Port | 377222 | [377222-double-dragon-snes-port.json](./377222-double-dragon-snes-port.json) |
@@ -14879,6 +14881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons 2: A Clash of Pumpkins | 138050 | [138050-dungeons-2-a-clash-of-pumpkins.json](./138050-dungeons-2-a-clash-of-pumpkins.json) |
 | Dungeons 2: A Game of Winter | 51770 | [51770-dungeons-2-a-game-of-winter.json](./51770-dungeons-2-a-game-of-winter.json) |
 | Dungeons 2: A Song of Sand and Fire | 51769 | [51769-dungeons-2-a-song-of-sand-and-fire.json](./51769-dungeons-2-a-song-of-sand-and-fire.json) |
+| Dungeons 3 | 27353 | [27353-dungeons-3.json](./27353-dungeons-3.json) |
 | Dungeons 3: A Multitude of Maps | 138060 | [138060-dungeons-3-a-multitude-of-maps.json](./138060-dungeons-3-a-multitude-of-maps.json) |
 | Dungeons 3: An Unexpected DLC | 115420 | [115420-dungeons-3-an-unexpected-dlc.json](./115420-dungeons-3-an-unexpected-dlc.json) |
 | Dungeons 3: Complete Collection | 136320 | [136320-dungeons-3-complete-collection.json](./136320-dungeons-3-complete-collection.json) |
