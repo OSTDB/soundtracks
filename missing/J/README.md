@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpac | 187877 | [187877-jetpac.json](./187877-jetpac.json) |
 | Jetpac Refuelled | 7854 | [7854-jetpac-refuelled.json](./7854-jetpac-refuelled.json) |
 | Jetpac Too | 239653 | [239653-jetpac-too.json](./239653-jetpac-too.json) |
+| Jetpack | 19237 | [19237-jetpack.json](./19237-jetpack.json) |
 | Jetpack 2 | 137947 | [137947-jetpack-2.json](./137947-jetpack-2.json) |
 | Jetpack Astronaut | 171564 | [171564-jetpack-astronaut.json](./171564-jetpack-astronaut.json) |
 | Jetpack Basketball | 242443 | [242443-jetpack-basketball.json](./242443-jetpack-basketball.json) |
