@@ -1800,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidnappers | 301610 | [301610-kidnappers.json](./301610-kidnappers.json) |
 | Kidney Stone Clicker | 369630 | [369630-kidney-stone-clicker.json](./369630-kidney-stone-clicker.json) |
 | Kido Keisatstsu Patlabor: Griffon-hen | 75897 | [75897-kido-keisatstsu-patlabor-griffon-hen.json](./75897-kido-keisatstsu-patlabor-griffon-hen.json) |
+| Kidou Butou-den G Gundam | 42371 | [42371-kidou-butou-den-g-gundam.json](./42371-kidou-butou-den-g-gundam.json) |
 | Kidou Club G: Braver Burst | 206549 | [206549-kidou-club-g-braver-burst.json](./206549-kidou-club-g-braver-burst.json) |
 | Kidou Gekidan Haro Ichiza: Gundam Mahjong + Z: Sara ni Deki Ruyouni Nattana! | 79185 | [79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json](./79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json) |
 | Kidou Keisatsu Patlabor | 44435 | [44435-kidou-keisatsu-patlabor.json](./44435-kidou-keisatsu-patlabor.json) |
@@ -4366,6 +4367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koru | 189008 | [189008-koru.json](./189008-koru.json) |
 | Korunu Kopia: Fushigi no Sumu Machi | 135895 | [135895-korunu-kopia-fushigi-no-sumu-machi.json](./135895-korunu-kopia-fushigi-no-sumu-machi.json) |
 | Korwin the Game | 35114 | [35114-korwin-the-game.json](./35114-korwin-the-game.json) |
+| Koryuu no Mimi | 42385 | [42385-koryuu-no-mimi.json](./42385-koryuu-no-mimi.json) |
 | Korza Motor | 335982 | [335982-korza-motor.json](./335982-korza-motor.json) |
 | Kosaka-san: Remaster | 283066 | [283066-kosaka-san-remaster.json](./283066-kosaka-san-remaster.json) |
 | Kosaka-san. | 152014 | [152014-kosaka-san.json](./152014-kosaka-san.json) |
