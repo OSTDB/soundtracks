@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally | 152186 | [152186-sally.json](./152186-sally.json) |
 | Sally Acorn in Sonic the Hedgehog | 141883 | [141883-sally-acorn-in-sonic-the-hedgehog.json](./141883-sally-acorn-in-sonic-the-hedgehog.json) |
 | Sally Acorn in Sonic the Hedgehog 2 | 141884 | [141884-sally-acorn-in-sonic-the-hedgehog-2.json](./141884-sally-acorn-in-sonic-the-hedgehog-2.json) |
+| Sally Face | 26580 | [26580-sally-face.json](./26580-sally-face.json) |
 | Sally Face 2 | 413934 | [413934-sally-face-2.json](./413934-sally-face-2.json) |
 | Sally.EXE: Discovery | 317358 | [317358-sally-exe-discovery.json](./317358-sally-exe-discovery.json) |
 | Sally's Salon | 24328 | [24328-sallys-salon.json](./24328-sallys-salon.json) |
@@ -14292,6 +14293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog 3 & Knuckles | 206597 | [206597-sonic-the-hedgehog-3-and-knuckles.json](./206597-sonic-the-hedgehog-3-and-knuckles.json) |
 | Sonic the Hedgehog 3D | 144907 | [144907-sonic-the-hedgehog-3d.json](./144907-sonic-the-hedgehog-3d.json) |
 | Sonic the Hedgehog 4 Remastered | 332614 | [332614-sonic-the-hedgehog-4-remastered.json](./332614-sonic-the-hedgehog-4-remastered.json) |
+| Sonic the Hedgehog 4: Episode I | 9473 | [9473-sonic-the-hedgehog-4-episode-i.json](./9473-sonic-the-hedgehog-4-episode-i.json) |
 | Sonic the Hedgehog 4: Episode Metal | 197602 | [197602-sonic-the-hedgehog-4-episode-metal.json](./197602-sonic-the-hedgehog-4-episode-metal.json) |
 | Sonic the Hedgehog Beta Hoax | 323857 | [323857-sonic-the-hedgehog-beta-hoax.json](./323857-sonic-the-hedgehog-beta-hoax.json) |
 | Sonic the Hedgehog Chaos & Spinball | 202266 | [202266-sonic-the-hedgehog-chaos-and-spinball.json](./202266-sonic-the-hedgehog-chaos-and-spinball.json) |
@@ -19790,6 +19792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Return of the Jedi - Death Star Battle | 10204 | [10204-star-wars-return-of-the-jedi-death-star-battle.json](./10204-star-wars-return-of-the-jedi-death-star-battle.json) |
 | Star Wars: Revenge of the Sith | 220263 | [220263-star-wars-revenge-of-the-sith.json](./220263-star-wars-revenge-of-the-sith.json) |
 | Star Wars: Rogue Leaders - Rogue Squadron Wii | 261815 | [261815-star-wars-rogue-leaders-rogue-squadron-wii.json](./261815-star-wars-rogue-leaders-rogue-squadron-wii.json) |
+| Star Wars: Rogue Squadron II - Rogue Leader | 4181 | [4181-star-wars-rogue-squadron-ii-rogue-leader.json](./4181-star-wars-rogue-squadron-ii-rogue-leader.json) |
 | Star Wars: Saga Edition: Lightsaber Battle Game | 255561 | [255561-star-wars-saga-edition-lightsaber-battle-game.json](./255561-star-wars-saga-edition-lightsaber-battle-game.json) |
 | Star Wars: Secrets of the Empire | 134955 | [134955-star-wars-secrets-of-the-empire.json](./134955-star-wars-secrets-of-the-empire.json) |
 | Star Wars: Starfighter - Special Edition | 242773 | [242773-star-wars-starfighter-special-edition.json](./242773-star-wars-starfighter-special-edition.json) |
@@ -22028,6 +22031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storyseeker | 135252 | [135252-storyseeker.json](./135252-storyseeker.json) |
 | Storyshift Asriel Battle! | 306665 | [306665-storyshift-asriel-battle.json](./306665-storyshift-asriel-battle.json) |
 | StorySpark | 303283 | [303283-storyspark.json](./303283-storyspark.json) |
+| Storyteller | 159299 | [159299-storyteller.json](./159299-storyteller.json) |
 | Storyteller | 383135 | [383135-storyteller.json](./383135-storyteller.json) |
 | Storyteller: Devilish Update | 269078 | [269078-storyteller-devilish-update.json](./269078-storyteller-devilish-update.json) |
 | Storyvale | 57464 | [57464-storyvale.json](./57464-storyvale.json) |
@@ -23030,6 +23034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuart Little: His Adventures in Numberland | 208357 | [208357-stuart-little-his-adventures-in-numberland.json](./208357-stuart-little-his-adventures-in-numberland.json) |
 | Stuart Little: The Journey Home | 49884 | [49884-stuart-little-the-journey-home.json](./49884-stuart-little-the-journey-home.json) |
 | Stubborn Shibas | 382408 | [382408-stubborn-shibas.json](./382408-stubborn-shibas.json) |
+| Stubbs the Zombie in Rebel Without a Pulse | 79 | [79-stubbs-the-zombie-in-rebel-without-a-pulse.json](./79-stubbs-the-zombie-in-rebel-without-a-pulse.json) |
 | Stuck at Home | 71004 | [71004-stuck-at-home.json](./71004-stuck-at-home.json) |
 | Stuck In Paris | 182132 | [182132-stuck-in-paris.json](./182132-stuck-in-paris.json) |
 | Stuck in the Airport | 357186 | [357186-stuck-in-the-airport.json](./357186-stuck-in-the-airport.json) |
