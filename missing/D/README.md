@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D4 Complete Edition | 52846 | [52846-d4-complete-edition.json](./52846-d4-complete-edition.json) |
 | D4: Dark Dreams Don't Die - Season 1 | 4758 | [4758-d4-dark-dreams-dont-die-season-1.json](./4758-d4-dark-dreams-dont-die-season-1.json) |
 | D4: Dark Dreams Don't Die - Season 1: Deluxe Edition | 51756 | [51756-d4-dark-dreams-dont-die-season-1-deluxe-edition.json](./51756-d4-dark-dreams-dont-die-season-1-deluxe-edition.json) |
+| D4DJ Groovy Mix | 130305 | [130305-d4dj-groovy-mix.json](./130305-d4dj-groovy-mix.json) |
 | D8gn | 184433 | [184433-d8gn.json](./184433-d8gn.json) |
 | D96: Kansei | 258353 | [258353-d96-kansei.json](./258353-d96-kansei.json) |
 | Da Box | 59672 | [59672-da-box.json](./59672-da-box.json) |
@@ -3770,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death's Dichotomy | 261173 | [261173-deaths-dichotomy.json](./261173-deaths-dichotomy.json) |
 | Death's Door: Ultimate Edition | 206673 | [206673-deaths-door-ultimate-edition.json](./206673-deaths-door-ultimate-edition.json) |
 | Death's Dungeon | 235671 | [235671-deaths-dungeon.json](./235671-deaths-dungeon.json) |
+| Death's Gambit: Afterlife | 152130 | [152130-deaths-gambit-afterlife.json](./152130-deaths-gambit-afterlife.json) |
 | Death's Gambit: Afterlife - Ashes of Vados | 193750 | [193750-deaths-gambit-afterlife-ashes-of-vados.json](./193750-deaths-gambit-afterlife-ashes-of-vados.json) |
 | Death's Gambit: Afterlife - Definitive Edition | 170045 | [170045-deaths-gambit-afterlife-definitive-edition.json](./170045-deaths-gambit-afterlife-definitive-edition.json) |
 | Death's Life | 32030 | [32030-deaths-life.json](./32030-deaths-life.json) |
