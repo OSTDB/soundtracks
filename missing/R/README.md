@@ -2906,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recorded | 59691 | [59691-recorded.json](./59691-recorded.json) |
 | Recording the Predestined Time | 135013 | [135013-recording-the-predestined-time.json](./135013-recording-the-predestined-time.json) |
 | Records of the Flycatcher | 319803 | [319803-records-of-the-flycatcher.json](./319803-records-of-the-flycatcher.json) |
+| ReCore | 11131 | [11131-recore.json](./11131-recore.json) |
 | Recore: Collector's Edition | 41624 | [41624-recore-collectors-edition.json](./41624-recore-collectors-edition.json) |
 | ReCore: Definitive Edition | 54787 | [54787-recore-definitive-edition.json](./54787-recore-definitive-edition.json) |
 | Recore: Eye of Obsidian | 139396 | [139396-recore-eye-of-obsidian.json](./139396-recore-eye-of-obsidian.json) |
@@ -4474,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Archives: Resident Evil | 22993 | [22993-resident-evil-archives-resident-evil.json](./22993-resident-evil-archives-resident-evil.json) |
 | Resident Evil Archives: Resident Evil Zero | 23251 | [23251-resident-evil-archives-resident-evil-zero.json](./23251-resident-evil-archives-resident-evil-zero.json) |
 | Resident Evil Assault the Nightmare | 356222 | [356222-resident-evil-assault-the-nightmare.json](./356222-resident-evil-assault-the-nightmare.json) |
+| Resident Evil Code: Veronica | 968 | [968-resident-evil-code-veronica.json](./968-resident-evil-code-veronica.json) |
 | Resident Evil Code: Veronica X | 24369 | [24369-resident-evil-code-veronica-x.json](./24369-resident-evil-code-veronica-x.json) |
 | Resident Evil Code: Veronica X HD | 20622 | [20622-resident-evil-code-veronica-x-hd.json](./20622-resident-evil-code-veronica-x-hd.json) |
 | Resident Evil Confidential Report File #2 | 402391 | [402391-resident-evil-confidential-report-file-2.json](./402391-resident-evil-confidential-report-file-2.json) |
