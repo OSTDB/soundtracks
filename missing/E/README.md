@@ -3795,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eradicate | 183769 | [183769-eradicate.json](./183769-eradicate.json) |
 | Eradicator | 8340 | [8340-eradicator.json](./8340-eradicator.json) |
 | Eradicator Genesis | 384187 | [384187-eradicator-genesis.json](./384187-eradicator-genesis.json) |
+| Eragon | 5821 | [5821-eragon.json](./5821-eragon.json) |
 | Eramthgin | 144155 | [144155-eramthgin.json](./144155-eramthgin.json) |
 | Eramthgin 2 | 144156 | [144156-eramthgin-2.json](./144156-eramthgin-2.json) |
 | Erannorth Chronicles | 164287 | [164287-erannorth-chronicles.json](./164287-erannorth-chronicles.json) |
@@ -4045,6 +4046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Darkness | 290550 | [290550-escape-darkness.json](./290550-escape-darkness.json) |
 | Escape Dash Journey | 347876 | [347876-escape-dash-journey.json](./347876-escape-dash-journey.json) |
 | Escape Dead Earth | 129036 | [129036-escape-dead-earth.json](./129036-escape-dead-earth.json) |
+| Escape Dead Island | 7499 | [7499-escape-dead-island.json](./7499-escape-dead-island.json) |
 | Escape Dead Island: Underwater Labs | 174149 | [174149-escape-dead-island-underwater-labs.json](./174149-escape-dead-island-underwater-labs.json) |
 | Escape Depths of Immanis | 322989 | [322989-escape-depths-of-immanis.json](./322989-escape-depths-of-immanis.json) |
 | Escape Doom | 399182 | [399182-escape-doom.json](./399182-escape-doom.json) |
