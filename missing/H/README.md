@@ -3035,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heirs of the Moon | 413922 | [413922-heirs-of-the-moon.json](./413922-heirs-of-the-moon.json) |
 | Heirs to the Throne | 69893 | [69893-heirs-to-the-throne.json](./69893-heirs-to-the-throne.json) |
 | Heise Biji | 330272 | [330272-heise-biji.json](./330272-heise-biji.json) |
+| Heisei Inu Monogatari Bow: Pop'n Smash | 38123 | [38123-heisei-inu-monogatari-bow-popn-smash.json](./38123-heisei-inu-monogatari-bow-popn-smash.json) |
 | Heisei Kyouiku Iinkai Jr. Mezase Yuutousei | 303758 | [303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json](./303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json) |
 | Heisei Pistol Show | 176864 | [176864-heisei-pistol-show.json](./176864-heisei-pistol-show.json) |
 | Heisei Shin Onigashima | 170336 | [170336-heisei-shin-onigashima.json](./170336-heisei-shin-onigashima.json) |
@@ -6495,6 +6496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiryuu no Ken III: Go-nin no Ryuu Senshi | 61161 | [61161-hiryuu-no-ken-iii-go-nin-no-ryuu-senshi.json](./61161-hiryuu-no-ken-iii-go-nin-no-ryuu-senshi.json) |
 | Hiryuu no Ken Retsuden GB | 186591 | [186591-hiryuu-no-ken-retsuden-gb.json](./186591-hiryuu-no-ken-retsuden-gb.json) |
 | Hiryuu no Ken S: Golden Fighter | 73683 | [73683-hiryuu-no-ken-s-golden-fighter.json](./73683-hiryuu-no-ken-s-golden-fighter.json) |
+| Hiryuu no Ken S: Hyper Version | 38126 | [38126-hiryuu-no-ken-s-hyper-version.json](./38126-hiryuu-no-ken-s-hyper-version.json) |
 | Hiryuu no Ken Special: Fighting Wars | 63936 | [63936-hiryuu-no-ken-special-fighting-wars.json](./63936-hiryuu-no-ken-special-fighting-wars.json) |
 | Hiryuu no Ken Stadium DD: Real Version | 351573 | [351573-hiryuu-no-ken-stadium-dd-real-version.json](./351573-hiryuu-no-ken-stadium-dd-real-version.json) |
 | Hiryuu no Ken Stadium DD: SD Version | 351571 | [351571-hiryuu-no-ken-stadium-dd-sd-version.json](./351571-hiryuu-no-ken-stadium-dd-sd-version.json) |
@@ -7671,6 +7673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honoo no Takkyubin | 138839 | [138839-honoo-no-takkyubin.json](./138839-honoo-no-takkyubin.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 267660 | [267660-honoo-no-toukyuuji-dodge-danpei.json](./267660-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 272812 | [272812-honoo-no-toukyuuji-dodge-danpei.json](./272812-honoo-no-toukyuuji-dodge-danpei.json) |
+| Honoo no Toukyuuji: Dodge Danpei | 38106 | [38106-honoo-no-toukyuuji-dodge-danpei.json](./38106-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 42053 | [42053-honoo-no-toukyuuji-dodge-danpei.json](./42053-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honoo no Toukyuuji: Dodge Danpei 2 | 58524 | [58524-honoo-no-toukyuuji-dodge-danpei-2.json](./58524-honoo-no-toukyuuji-dodge-danpei-2.json) |
 | Honor and Duty: Arcade Edition | 99530 | [99530-honor-and-duty-arcade-edition.json](./99530-honor-and-duty-arcade-edition.json) |
