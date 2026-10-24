@@ -7461,6 +7461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Siberia | 68471 | [68471-ancient-siberia.json](./68471-ancient-siberia.json) |
 | Ancient Souls Tamag | 167676 | [167676-ancient-souls-tamag.json](./167676-ancient-souls-tamag.json) |
 | Ancient Souls: Starship Renata | 172378 | [172378-ancient-souls-starship-renata.json](./172378-ancient-souls-starship-renata.json) |
+| Ancient Space | 7676 | [7676-ancient-space.json](./7676-ancient-space.json) |
 | Ancient Spider | 190936 | [190936-ancient-spider.json](./190936-ancient-spider.json) |
 | Ancient Spirits: Columbus' Legacy | 104503 | [104503-ancient-spirits-columbus-legacy.json](./104503-ancient-spirits-columbus-legacy.json) |
 | Ancient Stars | 277014 | [277014-ancient-stars.json](./277014-ancient-stars.json) |
@@ -10297,6 +10298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade's Greatest Hits: The Midway Collection 2 | 43924 | [43924-arcades-greatest-hits-the-midway-collection-2.json](./43924-arcades-greatest-hits-the-midway-collection-2.json) |
 | Arcadebnb | 187220 | [187220-arcadebnb.json](./187220-arcadebnb.json) |
 | Arcadecraft | 17338 | [17338-arcadecraft.json](./17338-arcadecraft.json) |
+| Arcadegeddon | 154814 | [154814-arcadegeddon.json](./154814-arcadegeddon.json) |
 | Arcadeon VR | 148826 | [148826-arcadeon-vr.json](./148826-arcadeon-vr.json) |
 | Arcadia | 202654 | [202654-arcadia.json](./202654-arcadia.json) |
 | Arcadia | 236852 | [236852-arcadia.json](./236852-arcadia.json) |
