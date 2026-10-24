@@ -3275,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fesnia | 104448 | [104448-fesnia.json](./104448-fesnia.json) |
 | Fest Guests | 302389 | [302389-fest-guests.json](./302389-fest-guests.json) |
 | Festa!! Hyper Girls Party | 326637 | [326637-festa-hyper-girls-party.json](./326637-festa-hyper-girls-party.json) |
+| Fester Mudd: Curse of the Gold - Episode 1 | 7726 | [7726-fester-mudd-curse-of-the-gold-episode-1.json](./7726-fester-mudd-curse-of-the-gold-episode-1.json) |
 | Fester's Quest | 5343 | [5343-festers-quest.json](./5343-festers-quest.json) |
 | Festival | 201493 | [201493-festival.json](./201493-festival.json) |
 | Festival Days Sim Date | 198243 | [198243-festival-days-sim-date.json](./198243-festival-days-sim-date.json) |
@@ -6048,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Splash | 94592 | [94592-flash-splash.json](./94592-flash-splash.json) |
 | Flash Traffic: City of Angels | 70063 | [70063-flash-traffic-city-of-angels.json](./70063-flash-traffic-city-of-angels.json) |
 | Flashback | 236148 | [236148-flashback.json](./236148-flashback.json) |
+| Flashback 2 | 146699 | [146699-flashback-2.json](./146699-flashback-2.json) |
 | Flashback 2: Collector's Edition | 283623 | [283623-flashback-2-collectors-edition.json](./283623-flashback-2-collectors-edition.json) |
 | Flashback 2: Limited Edition | 210910 | [210910-flashback-2-limited-edition.json](./210910-flashback-2-limited-edition.json) |
 | Flashback Legend | 49378 | [49378-flashback-legend.json](./49378-flashback-legend.json) |
@@ -9981,6 +9983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrogStatue | 104046 | [104046-frogstatue.json](./104046-frogstatue.json) |
 | Frogstool | 337479 | [337479-frogstool.json](./337479-frogstool.json) |
 | Froguelike | 244836 | [244836-froguelike.json](./244836-froguelike.json) |
+| Frogun | 152051 | [152051-frogun.json](./152051-frogun.json) |
 | Frogurai | 226454 | [226454-frogurai.json](./226454-frogurai.json) |
 | Frogvale | 113600 | [113600-frogvale.json](./113600-frogvale.json) |
 | Frogvival | 235482 | [235482-frogvival.json](./235482-frogvival.json) |
@@ -10548,6 +10551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Animal Party | 132551 | [132551-full-animal-party.json](./132551-full-animal-party.json) |
 | Full Auto | 6998 | [6998-full-auto.json](./6998-full-auto.json) |
 | Full Auto 2: Battlelines | 197931 | [197931-full-auto-2-battlelines.json](./197931-full-auto-2-battlelines.json) |
+| Full Auto 2: Battlelines | 7309 | [7309-full-auto-2-battlelines.json](./7309-full-auto-2-battlelines.json) |
 | Full Belly Breakout | 402912 | [402912-full-belly-breakout.json](./402912-full-belly-breakout.json) |
 | Full Bet: Fighting Casino | 392189 | [392189-full-bet-fighting-casino.json](./392189-full-bet-fighting-casino.json) |
 | Full Blast Hitchhike | 344479 | [344479-full-blast-hitchhike.json](./344479-full-blast-hitchhike.json) |
