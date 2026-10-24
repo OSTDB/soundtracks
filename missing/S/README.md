@@ -7275,6 +7275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Hit | 107103 | [107103-shoot-hit.json](./107103-shoot-hit.json) |
 | Shoot Loop VR | 72498 | [72498-shoot-loop-vr.json](./72498-shoot-loop-vr.json) |
 | Shoot Mania VR: Fun Zombies | 32213 | [32213-shoot-mania-vr-fun-zombies.json](./32213-shoot-mania-vr-fun-zombies.json) |
+| Shoot Many Robots | 11643 | [11643-shoot-many-robots.json](./11643-shoot-many-robots.json) |
 | Shoot Many Robots: Arena Kings | 64915 | [64915-shoot-many-robots-arena-kings.json](./64915-shoot-many-robots-arena-kings.json) |
 | Shoot n Scroll 3D | 261518 | [261518-shoot-n-scroll-3d.json](./261518-shoot-n-scroll-3d.json) |
 | Shoot or Date | 303215 | [303215-shoot-or-date.json](./303215-shoot-or-date.json) |
@@ -10285,6 +10286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skygerfall | 316726 | [316726-skygerfall.json](./316726-skygerfall.json) |
 | Skyguard 0: Air Arcade | 259097 | [259097-skyguard-0-air-arcade.json](./259097-skyguard-0-air-arcade.json) |
 | Skyhammer | 40807 | [40807-skyhammer.json](./40807-skyhammer.json) |
+| Skyhill | 11562 | [11562-skyhill.json](./11562-skyhill.json) |
 | SKYHILL: Black Mist | 117770 | [117770-skyhill-black-mist.json](./117770-skyhill-black-mist.json) |
 | Skyhood's Innocent Six | 250256 | [250256-skyhoods-innocent-six.json](./250256-skyhoods-innocent-six.json) |
 | Skyhook | 19303 | [19303-skyhook.json](./19303-skyhook.json) |
@@ -24669,6 +24671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Brawl Rush | 204856 | [204856-super-brawl-rush.json](./204856-super-brawl-rush.json) |
 | Super Brawl Universe | 125347 | [125347-super-brawl-universe.json](./125347-super-brawl-universe.json) |
 | Super Brawl World | 71180 | [71180-super-brawl-world.json](./71180-super-brawl-world.json) |
+| Super Breakout | 12321 | [12321-super-breakout.json](./12321-super-breakout.json) |
 | Super Breakout | 239502 | [239502-super-breakout.json](./239502-super-breakout.json) |
 | Super Breakout | 239520 | [239520-super-breakout.json](./239520-super-breakout.json) |
 | Super Breakout Ultra | 64401 | [64401-super-breakout-ultra.json](./64401-super-breakout-ultra.json) |
