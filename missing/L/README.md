@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lapin Malin : J'apprends à lire et à ecrire | 147201 | [147201-lapin-malin-japprends-a-lire-et-a-ecrire.json](./147201-lapin-malin-japprends-a-lire-et-a-ecrire.json) |
 | Lapinka and Hidden Shield | 392716 | [392716-lapinka-and-hidden-shield.json](./392716-lapinka-and-hidden-shield.json) |
 | Lapis Lazuli | 307049 | [307049-lapis-lazuli.json](./307049-lapis-lazuli.json) |
+| Lapis Philosophorum: The Philosophers' Stone | 28480 | [28480-lapis-philosophorum-the-philosophers-stone.json](./28480-lapis-philosophorum-the-philosophers-stone.json) |
 | Lapis x Labyrinth | 109233 | [109233-lapis-x-labyrinth.json](./109233-lapis-x-labyrinth.json) |
 | Lapis x Labyrinth: Limited Edition | 107260 | [107260-lapis-x-labyrinth-limited-edition.json](./107260-lapis-x-labyrinth-limited-edition.json) |
 | Lapistasia | 377675 | [377675-lapistasia.json](./377675-lapistasia.json) |
@@ -3473,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Library of Ruina | 131760 | [131760-library-of-ruina.json](./131760-library-of-ruina.json) |
 | Library of Souls | 183568 | [183568-library-of-souls.json](./183568-library-of-souls.json) |
 | Libre TrainSim | 184426 | [184426-libre-trainsim.json](./184426-libre-trainsim.json) |
+| LibreCars | 28479 | [28479-librecars.json](./28479-librecars.json) |
 | LibreQuake | 383788 | [383788-librequake.json](./383788-librequake.json) |
 | Librerama | 176992 | [176992-librerama.json](./176992-librerama.json) |
 | Libretta | 56129 | [56129-libretta.json](./56129-libretta.json) |
