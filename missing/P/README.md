@@ -5008,6 +5008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piczle Cross: Story of Seasons | 280465 | [280465-piczle-cross-story-of-seasons.json](./280465-piczle-cross-story-of-seasons.json) |
 | Piczle Lines | 69524 | [69524-piczle-lines.json](./69524-piczle-lines.json) |
 | Piczle Lines 2: Into the Puzzleverse | 237363 | [237363-piczle-lines-2-into-the-puzzleverse.json](./237363-piczle-lines-2-into-the-puzzleverse.json) |
+| Piczle Lines DX | 28493 | [28493-piczle-lines-dx.json](./28493-piczle-lines-dx.json) |
 | Piczle Lines DX 500 More Puzzles! | 106351 | [106351-piczle-lines-dx-500-more-puzzles.json](./106351-piczle-lines-dx-500-more-puzzles.json) |
 | Piczle Lines DX Bundle | 147788 | [147788-piczle-lines-dx-bundle.json](./147788-piczle-lines-dx-bundle.json) |
 | Piczle Lines DX+α | 116247 | [116247-piczle-lines-dx.json](./116247-piczle-lines-dx.json) |
@@ -15039,6 +15040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyon-pyon Kyaruru no Mahjong-Biyori | 279678 | [279678-pyon-pyon-kyaruru-no-mahjong-biyori.json](./279678-pyon-pyon-kyaruru-no-mahjong-biyori.json) |
 | Pyongyang Racer | 64090 | [64090-pyongyang-racer.json](./64090-pyongyang-racer.json) |
 | Pyoro 64 | 142231 | [142231-pyoro-64.json](./142231-pyoro-64.json) |
+| Pyracurse | 28483 | [28483-pyracurse.json](./28483-pyracurse.json) |
 | Pyramania | 379901 | [379901-pyramania.json](./379901-pyramania.json) |
 | Pyramax | 12726 | [12726-pyramax.json](./12726-pyramax.json) |
 | PyraMaze | 177850 | [177850-pyramaze.json](./177850-pyramaze.json) |
