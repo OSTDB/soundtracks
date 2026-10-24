@@ -4428,6 +4428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aching Aversion: Blood Orange Dreams | 312589 | [312589-the-aching-aversion-blood-orange-dreams.json](./312589-the-aching-aversion-blood-orange-dreams.json) |
 | The Acorn Protocol | 408036 | [408036-the-acorn-protocol.json](./408036-the-acorn-protocol.json) |
 | The Act | 64990 | [64990-the-act.json](./64990-the-act.json) |
+| The Activision Decathlon | 11855 | [11855-the-activision-decathlon.json](./11855-the-activision-decathlon.json) |
 | The Addams Family | 14207 | [14207-the-addams-family.json](./14207-the-addams-family.json) |
 | The Addams Family | 14208 | [14208-the-addams-family.json](./14208-the-addams-family.json) |
 | The Addams Family | 145932 | [145932-the-addams-family.json](./145932-the-addams-family.json) |
@@ -4684,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Spider-Man 2 | 203150 | [203150-the-amazing-spider-man-2.json](./203150-the-amazing-spider-man-2.json) |
 | The Amazing Spider-Man 2 | 4755 | [4755-the-amazing-spider-man-2.json](./4755-the-amazing-spider-man-2.json) |
 | The Amazing Spider-Man 2 | 83901 | [83901-the-amazing-spider-man-2.json](./83901-the-amazing-spider-man-2.json) |
+| The Amazing Spider-Man and Captain America in Dr. Doom's Revenge! | 11895 | [11895-the-amazing-spider-man-and-captain-america-in-dr-dooms-revenge.json](./11895-the-amazing-spider-man-and-captain-america-in-dr-dooms-revenge.json) |
 | The Amazing Spider-Man Franchise Pack | 99796 | [99796-the-amazing-spider-man-franchise-pack.json](./99796-the-amazing-spider-man-franchise-pack.json) |
 | The Amazing Spider-Man in the Villain Round-Up | 220113 | [220113-the-amazing-spider-man-in-the-villain-round-up.json](./220113-the-amazing-spider-man-in-the-villain-round-up.json) |
 | The Amazing Spider-Man: Countdown to Doom | 230280 | [230280-the-amazing-spider-man-countdown-to-doom.json](./230280-the-amazing-spider-man-countdown-to-doom.json) |
@@ -4713,6 +4715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anchorite | 325079 | [325079-the-anchorite.json](./325079-the-anchorite.json) |
 | The Ancient Art of Staying Alive | 134268 | [134268-the-ancient-art-of-staying-alive.json](./134268-the-ancient-art-of-staying-alive.json) |
 | The Ancient Art of War | 14600 | [14600-the-ancient-art-of-war.json](./14600-the-ancient-art-of-war.json) |
+| The Ancient Art of War in the Skies | 11901 | [11901-the-ancient-art-of-war-in-the-skies.json](./11901-the-ancient-art-of-war-in-the-skies.json) |
 | The Ancient Key | 179562 | [179562-the-ancient-key.json](./179562-the-ancient-key.json) |
 | The Ancient Land of Ys | 2411 | [2411-the-ancient-land-of-ys.json](./2411-the-ancient-land-of-ys.json) |
 | The Ancient Magus' Bride: Midsummer Pilgrimage | 336511 | [336511-the-ancient-magus-bride-midsummer-pilgrimage.json](./336511-the-ancient-magus-bride-midsummer-pilgrimage.json) |
@@ -11408,6 +11411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -15926,6 +15930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Sold a Million II | 73335 | [73335-they-sold-a-million-ii.json](./73335-they-sold-a-million-ii.json) |
 | They Speak From The Abyss: Zenith | 252033 | [252033-they-speak-from-the-abyss-zenith.json](./252033-they-speak-from-the-abyss-zenith.json) |
 | They Started It | 181224 | [181224-they-started-it.json](./181224-they-started-it.json) |
+| They Stole a Million | 11850 | [11850-they-stole-a-million.json](./11850-they-stole-a-million.json) |
 | They Stop for Gas at Night | 404445 | [404445-they-stop-for-gas-at-night.json](./404445-they-stop-for-gas-at-night.json) |
 | They Suspect Nothing | 107600 | [107600-they-suspect-nothing.json](./107600-they-suspect-nothing.json) |
 | They Suspect Nothing: Overclocked | 143321 | [143321-they-suspect-nothing-overclocked.json](./143321-they-suspect-nothing-overclocked.json) |
@@ -19530,9 +19535,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaplan Arcade Shoot'em Ups 3 | 336054 | [336054-toaplan-arcade-shootem-ups-3.json](./336054-toaplan-arcade-shootem-ups-3.json) |
 | Toaplan Shooting Battle 1 | 125986 | [125986-toaplan-shooting-battle-1.json](./125986-toaplan-shooting-battle-1.json) |
 | Toaru Kagaku no Railgun | 12380 | [12380-toaru-kagaku-no-railgun.json](./12380-toaru-kagaku-no-railgun.json) |
+| Toaru Majutsu no Index | 11864 | [11864-toaru-majutsu-no-index.json](./11864-toaru-majutsu-no-index.json) |
 | Toaru Majutsu no Index | 412324 | [412324-toaru-majutsu-no-index.json](./412324-toaru-majutsu-no-index.json) |
 | Toaru Majutsu No Index: Struggle Battle | 412322 | [412322-toaru-majutsu-no-index-struggle-battle.json](./412322-toaru-majutsu-no-index-struggle-battle.json) |
 | Toaru Majutsu no Virtual-On | 55040 | [55040-toaru-majutsu-no-virtual-on.json](./55040-toaru-majutsu-no-virtual-on.json) |
+| Toaru Majutsu to Kagaku no Ensemble | 11862 | [11862-toaru-majutsu-to-kagaku-no-ensemble.json](./11862-toaru-majutsu-to-kagaku-no-ensemble.json) |
 | Toaru Pantsu no Railgun | 204322 | [204322-toaru-pantsu-no-railgun.json](./204322-toaru-pantsu-no-railgun.json) |
 | Toast | 237271 | [237271-toast.json](./237271-toast.json) |
 | Toast Defense | 150977 | [150977-toast-defense.json](./150977-toast-defense.json) |
