@@ -1285,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Soccer | 4292 | [4292-olympic-soccer.json](./4292-olympic-soccer.json) |
 | Olympic Spectacular | 73103 | [73103-olympic-spectacular.json](./73103-olympic-spectacular.json) |
 | Olympic Summer Games | 4493 | [4493-olympic-summer-games.json](./4493-olympic-summer-games.json) |
+| Olympic Summer Games: Atlanta '96 | 43735 | [43735-olympic-summer-games-atlanta-96.json](./43735-olympic-summer-games-atlanta-96.json) |
 | Olympic Trials | 71184 | [71184-olympic-trials.json](./71184-olympic-trials.json) |
 | Olympics VR | 75942 | [75942-olympics-vr.json](./75942-olympics-vr.json) |
 | Olympimania | 354592 | [354592-olympimania.json](./354592-olympimania.json) |
