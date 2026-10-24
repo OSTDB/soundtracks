@@ -9477,7 +9477,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blueprint Hell | 315782 | [315782-blueprint-hell.json](./315782-blueprint-hell.json) |
 | BluePrint Racer 4D | 68646 | [68646-blueprint-racer-4d.json](./68646-blueprint-racer-4d.json) |
 | Blueprint Word: Classroom | 112477 | [112477-blueprint-word-classroom.json](./112477-blueprint-word-classroom.json) |
-| Blues and Bullets | 11415 | [11415-blues-and-bullets.json](./11415-blues-and-bullets.json) |
 | Blues Brothers 2000 | 3425 | [3425-blues-brothers-2000.json](./3425-blues-brothers-2000.json) |
 | Blues Brothers 2023 | 281314 | [281314-blues-brothers-2023.json](./281314-blues-brothers-2023.json) |
 | Blues Brothers 2025 | 375502 | [375502-blues-brothers-2025.json](./375502-blues-brothers-2025.json) |
