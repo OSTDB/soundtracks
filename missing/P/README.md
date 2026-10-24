@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Maine | 79229 | [79229-pac-maine.json](./79229-pac-maine.json) |
 | Pac-Man | 198842 | [198842-pac-man.json](./198842-pac-man.json) |
 | Pac-Man | 200339 | [200339-pac-man.json](./200339-pac-man.json) |
+| Pac-Man | 204385 | [204385-pac-man.json](./204385-pac-man.json) |
 | Pac-Man | 204387 | [204387-pac-man.json](./204387-pac-man.json) |
 | Pac-Man | 213899 | [213899-pac-man.json](./213899-pac-man.json) |
 | Pac-Man | 213900 | [213900-pac-man.json](./213900-pac-man.json) |
@@ -8993,6 +8994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Home | 141960 | [141960-pokemon-home.json](./141960-pokemon-home.json) |
 | Pokémon I Choose You Challenge | 198863 | [198863-pokemon-i-choose-you-challenge.json](./198863-pokemon-i-choose-you-challenge.json) |
 | Pokémon Iberia | 145370 | [145370-pokemon-iberia.json](./145370-pokemon-iberia.json) |
+| Pokémon Infinite Fusion | 143761 | [143761-pokemon-infinite-fusion.json](./143761-pokemon-infinite-fusion.json) |
 | Pokémon Infinite Fusion 2: Hoenn | 406249 | [406249-pokemon-infinite-fusion-2-hoenn.json](./406249-pokemon-infinite-fusion-2-hoenn.json) |
 | Pokémon Infinite Heardle | 283399 | [283399-pokemon-infinite-heardle.json](./283399-pokemon-infinite-heardle.json) |
 | Pokémon Infinity | 186130 | [186130-pokemon-infinity.json](./186130-pokemon-infinity.json) |
@@ -9569,6 +9571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Simulator | 54285 | [54285-police-simulator.json](./54285-police-simulator.json) |
 | Police Simulator 2 | 10711 | [10711-police-simulator-2.json](./10711-police-simulator-2.json) |
 | Police Simulator: Patrol Duty | 143318 | [143318-police-simulator-patrol-duty.json](./143318-police-simulator-patrol-duty.json) |
+| Police Simulator: Patrol Officers | 152297 | [152297-police-simulator-patrol-officers.json](./152297-police-simulator-patrol-officers.json) |
 | Police Simulator: Patrol Officers - Complete Edition | 399824 | [399824-police-simulator-patrol-officers-complete-edition.json](./399824-police-simulator-patrol-officers-complete-edition.json) |
 | Police Simulator: Patrol Officers - Extended Edition | 292618 | [292618-police-simulator-patrol-officers-extended-edition.json](./292618-police-simulator-patrol-officers-extended-edition.json) |
 | Police Simulator: Patrol Officers - Gold Edition | 293933 | [293933-police-simulator-patrol-officers-gold-edition.json](./293933-police-simulator-patrol-officers-gold-edition.json) |
@@ -10285,6 +10288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poppy Playtime Toybox Bundle 1 | 375863 | [375863-poppy-playtime-toybox-bundle-1.json](./375863-poppy-playtime-toybox-bundle-1.json) |
 | Poppy Playtime Triple Pack | 314441 | [314441-poppy-playtime-triple-pack.json](./314441-poppy-playtime-triple-pack.json) |
 | Poppy Playtime VR | 360783 | [360783-poppy-playtime-vr.json](./360783-poppy-playtime-vr.json) |
+| Poppy Playtime: Chapter 2 - Fly in a Web | 194467 | [194467-poppy-playtime-chapter-2-fly-in-a-web.json](./194467-poppy-playtime-chapter-2-fly-in-a-web.json) |
 | Poppy Playtime: Chapter 4 - Safe Haven | 318284 | [318284-poppy-playtime-chapter-4-safe-haven.json](./318284-poppy-playtime-chapter-4-safe-haven.json) |
 | Poppy Sanctum | 396891 | [396891-poppy-sanctum.json](./396891-poppy-sanctum.json) |
 | Poppy's Nightmare | 121577 | [121577-poppys-nightmare.json](./121577-poppys-nightmare.json) |
