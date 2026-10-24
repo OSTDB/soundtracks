@@ -2519,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juice Fresh: Fruit Elimination | 187901 | [187901-juice-fresh-fruit-elimination.json](./187901-juice-fresh-fruit-elimination.json) |
 | Juice Fruity Splash | 106467 | [106467-juice-fruity-splash.json](./106467-juice-fruity-splash.json) |
 | Juice Galaxy | 142940 | [142940-juice-galaxy.json](./142940-juice-galaxy.json) |
+| Juice! | 8405 | [8405-juice.json](./8405-juice.json) |
 | Juiced | 248738 | [248738-juiced.json](./248738-juiced.json) |
 | Juiced | 5870 | [5870-juiced.json](./5870-juiced.json) |
 | Juiced 2: Hot Import Nights | 328308 | [328308-juiced-2-hot-import-nights.json](./328308-juiced-2-hot-import-nights.json) |
@@ -3108,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park | 217956 | [217956-jurassic-park.json](./217956-jurassic-park.json) |
 | Jurassic Park | 25880 | [25880-jurassic-park.json](./25880-jurassic-park.json) |
 | Jurassic Park | 4519 | [4519-jurassic-park.json](./4519-jurassic-park.json) |
+| Jurassic Park : Aftermath | 8367 | [8367-jurassic-park-aftermath.json](./8367-jurassic-park-aftermath.json) |
 | Jurassic Park III | 40093 | [40093-jurassic-park-iii.json](./40093-jurassic-park-iii.json) |
 | Jurassic Park III: Dino Defender | 74091 | [74091-jurassic-park-iii-dino-defender.json](./74091-jurassic-park-iii-dino-defender.json) |
 | Jurassic Park III: T-Rex Jaw Chomping Action Game | 198789 | [198789-jurassic-park-iii-t-rex-jaw-chomping-action-game.json](./198789-jurassic-park-iii-t-rex-jaw-chomping-action-game.json) |
@@ -3195,7 +3197,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just a Phrase by Powgi | 140412 | [140412-just-a-phrase-by-powgi.json](./140412-just-a-phrase-by-powgi.json) |
 | Just a Regular Arcade | 235281 | [235281-just-a-regular-arcade.json](./235281-just-a-regular-arcade.json) |
 | Just a Simple Turn-based RPG | 390180 | [390180-just-a-simple-turn-based-rpg.json](./390180-just-a-simple-turn-based-rpg.json) |
-| Just a To the Moon Series Beach Episode | 220535 | [220535-just-a-to-the-moon-series-beach-episode.json](./220535-just-a-to-the-moon-series-beach-episode.json) |
 | Just A Walk In The Park | 253927 | [253927-just-a-walk-in-the-park.json](./253927-just-a-walk-in-the-park.json) |
 | Just Act Natural | 148161 | [148161-just-act-natural.json](./148161-just-act-natural.json) |
 | Just Act Natural: Museum | 295388 | [295388-just-act-natural-museum.json](./295388-just-act-natural-museum.json) |
