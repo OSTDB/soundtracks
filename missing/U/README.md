@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbound Saga | 21101 | [21101-unbound-saga.json](./21101-unbound-saga.json) |
 | Unbound: Worlds Apart | 89597 | [89597-unbound-worlds-apart.json](./89597-unbound-worlds-apart.json) |
 | Unbounded | 396496 | [396496-unbounded.json](./396496-unbounded.json) |
+| Unbox | 19001 | [19001-unbox.json](./19001-unbox.json) |
 | Unbox the Room | 304642 | [304642-unbox-the-room.json](./304642-unbox-the-room.json) |
 | Unbox your Workspace | 398308 | [398308-unbox-your-workspace.json](./398308-unbox-your-workspace.json) |
 | Unboxathon | 346186 | [346186-unboxathon.json](./346186-unboxathon.json) |
