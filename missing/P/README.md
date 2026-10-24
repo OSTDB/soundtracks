@@ -5763,6 +5763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Bomb | 179593 | [179593-ping-bomb.json](./179593-ping-bomb.json) |
 | Ping Of Death: Odyssey Live | 375862 | [375862-ping-of-death-odyssey-live.json](./375862-ping-of-death-odyssey-live.json) |
 | Ping Phonk | 179980 | [179980-ping-phonk.json](./179980-ping-phonk.json) |
+| Ping Ping | 32605 | [32605-ping-ping.json](./32605-ping-ping.json) |
 | Ping Pong | 246273 | [246273-ping-pong.json](./246273-ping-pong.json) |
 | Ping Pong | 247006 | [247006-ping-pong.json](./247006-ping-pong.json) |
 | Ping Pong | 343478 | [343478-ping-pong.json](./343478-ping-pong.json) |
@@ -9700,6 +9701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyDestroyer | 291370 | [291370-polydestroyer.json](./291370-polydestroyer.json) |
 | Polydeuces | 138132 | [138132-polydeuces.json](./138132-polydeuces.json) |
 | PolyDodge | 108816 | [108816-polydodge.json](./108816-polydodge.json) |
+| PolyDome | 32499 | [32499-polydome.json](./32499-polydome.json) |
 | PolyDrift | 309878 | [309878-polydrift.json](./309878-polydrift.json) |
 | Polyemisokos | 205572 | [205572-polyemisokos.json](./205572-polyemisokos.json) |
 | Polyfield WW2 | 102148 | [102148-polyfield-ww2.json](./102148-polyfield-ww2.json) |
@@ -10188,6 +10190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popil | 264314 | [264314-popil.json](./264314-popil.json) |
 | Popils | 45262 | [45262-popils.json](./45262-popils.json) |
 | Popit Sanic Goo! | 320034 | [320034-popit-sanic-goo.json](./320034-popit-sanic-goo.json) |
+| PoPixel | 32487 | [32487-popixel.json](./32487-popixel.json) |
 | Popmoji | 282053 | [282053-popmoji.json](./282053-popmoji.json) |
 | Popmundo | 307602 | [307602-popmundo.json](./307602-popmundo.json) |
 | Popo & Rob | 341561 | [341561-popo-and-rob.json](./341561-popo-and-rob.json) |
