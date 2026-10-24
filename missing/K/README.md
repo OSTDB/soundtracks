@@ -2411,6 +2411,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur: Knights and Vassals | 164421 | [164421-king-arthur-knights-and-vassals.json](./164421-king-arthur-knights-and-vassals.json) |
 | King Arthur: Legends Rise | 244483 | [244483-king-arthur-legends-rise.json](./244483-king-arthur-legends-rise.json) |
 | King Arthur: Legion IX | 285440 | [285440-king-arthur-legion-ix.json](./285440-king-arthur-legion-ix.json) |
+| King Arthur: The Druids | 10483 | [10483-king-arthur-the-druids.json](./10483-king-arthur-the-druids.json) |
+| King Arthur: The Saxons | 10482 | [10482-king-arthur-the-saxons.json](./10482-king-arthur-the-saxons.json) |
 | King Arthur's Gold | 7209 | [7209-king-arthurs-gold.json](./7209-king-arthurs-gold.json) |
 | King Arthur's Heir | 23970 | [23970-king-arthurs-heir.json](./23970-king-arthurs-heir.json) |
 | King Arthur's K.O.R.T. | 69839 | [69839-king-arthurs-k-o-r-t.json](./69839-king-arthurs-k-o-r-t.json) |
@@ -2627,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Knight: Wrath of the Dark Dragon | 24010 | [24010-kings-knight-wrath-of-the-dark-dragon.json](./24010-kings-knight-wrath-of-the-dark-dragon.json) |
 | King's League II | 113688 | [113688-kings-league-ii.json](./113688-kings-league-ii.json) |
 | King's League: Odyssey | 174594 | [174594-kings-league-odyssey.json](./174594-kings-league-odyssey.json) |
+| King's Legacy | 10488 | [10488-kings-legacy.json](./10488-kings-legacy.json) |
 | King's Legacy: A Crown Divided - Collector's Edition | 338057 | [338057-kings-legacy-a-crown-divided-collectors-edition.json](./338057-kings-legacy-a-crown-divided-collectors-edition.json) |
 | King's Mug | 393138 | [393138-kings-mug.json](./393138-kings-mug.json) |
 | King's Odyssey | 287589 | [287589-kings-odyssey.json](./287589-kings-odyssey.json) |
@@ -2810,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Shell | 122713 | [122713-kingdom-shell.json](./122713-kingdom-shell.json) |
 | Kingdom Simulator | 260601 | [260601-kingdom-simulator.json](./260601-kingdom-simulator.json) |
 | Kingdom Story: Brave Legion | 108897 | [108897-kingdom-story-brave-legion.json](./108897-kingdom-story-brave-legion.json) |
+| Kingdom Tales 2 | 10487 | [10487-kingdom-tales-2.json](./10487-kingdom-tales-2.json) |
 | Kingdom Traveler | 189080 | [189080-kingdom-traveler.json](./189080-kingdom-traveler.json) |
 | Kingdom Treasury Collection | 121422 | [121422-kingdom-treasury-collection.json](./121422-kingdom-treasury-collection.json) |
 | Kingdom Two Crowns: Essentials Pack | 324494 | [324494-kingdom-two-crowns-essentials-pack.json](./324494-kingdom-two-crowns-essentials-pack.json) |
@@ -4292,6 +4296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kontrol Flow | 142196 | [142196-kontrol-flow.json](./142196-kontrol-flow.json) |
 | Konung 1 + 2 | 153008 | [153008-konung-1-2.json](./153008-konung-1-2.json) |
 | Konung III: Ties of the Dynasty | 13162 | [13162-konung-iii-ties-of-the-dynasty.json](./13162-konung-iii-ties-of-the-dynasty.json) |
+| Konung: Legend of the North | 10492 | [10492-konung-legend-of-the-north.json](./10492-konung-legend-of-the-north.json) |
 | Konyok-Gorbunok | 180455 | [180455-konyok-gorbunok.json](./180455-konyok-gorbunok.json) |
 | Koo & Yuu | 127580 | [127580-koo-and-yuu.json](./127580-koo-and-yuu.json) |
 | Koob Dog | 289777 | [289777-koob-dog.json](./289777-koob-dog.json) |
@@ -4612,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krazy Kart Racing | 67688 | [67688-krazy-kart-racing.json](./67688-krazy-kart-racing.json) |
 | Krazy Kart! | 310968 | [310968-krazy-kart.json](./310968-krazy-kart.json) |
 | Krazy Kobra | 94620 | [94620-krazy-kobra.json](./94620-krazy-kobra.json) |
+| Krazy Kreatures | 10503 | [10503-krazy-kreatures.json](./10503-krazy-kreatures.json) |
 | Kreatur Bout | 391825 | [391825-kreatur-bout.json](./391825-kreatur-bout.json) |
 | KreatureKind | 152194 | [152194-kreaturekind.json](./152194-kreaturekind.json) |
 | Kredolis | 151143 | [151143-kredolis.json](./151143-kredolis.json) |
@@ -4699,6 +4705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KryptCrawler | 51521 | [51521-kryptcrawler.json](./51521-kryptcrawler.json) |
 | Kryptic | 178845 | [178845-kryptic.json](./178845-kryptic.json) |
 | Krypton Comet | 137312 | [137312-krypton-comet.json](./137312-krypton-comet.json) |
+| Krypton Egg | 10493 | [10493-krypton-egg.json](./10493-krypton-egg.json) |
 | Kryptonite: Flamez Hedgehog | 266700 | [266700-kryptonite-flamez-hedgehog.json](./266700-kryptonite-flamez-hedgehog.json) |
 | Kryptoria | 229633 | [229633-kryptoria.json](./229633-kryptoria.json) |
 | Krysolov | 343848 | [343848-krysolov.json](./343848-krysolov.json) |
