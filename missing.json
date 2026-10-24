@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-24T08:39:48.490Z",
-  "total_missing": 255045,
+  "generated_at": "2026-10-24T08:42:51.390Z",
+  "total_missing": 255042,
   "games": [
     {
       "igdb_id": 191680,
@@ -284785,11 +284785,6 @@
       "igdb_id": 360140,
       "game_name": "Disciples: Domination",
       "file": "missing/D/360140-disciples-domination.json"
-    },
-    {
-      "igdb_id": 152125,
-      "game_name": "Disciples: Liberation",
-      "file": "missing/D/152125-disciples-liberation.json"
     },
     {
       "igdb_id": 174188,
@@ -610145,11 +610140,6 @@
       "igdb_id": 391322,
       "game_name": "Looking Up",
       "file": "missing/L/391322-looking-up.json"
-    },
-    {
-      "igdb_id": 224733,
-      "game_name": "Looking Up I See Only a Ceiling",
-      "file": "missing/L/224733-looking-up-i-see-only-a-ceiling.json"
     },
     {
       "igdb_id": 177910,
@@ -1140520,11 +1140510,6 @@
       "igdb_id": 244629,
       "game_name": "Tiny Terrariums",
       "file": "missing/T/244629-tiny-terrariums.json"
-    },
-    {
-      "igdb_id": 253106,
-      "game_name": "Tiny Terry's Turbo Trip",
-      "file": "missing/T/253106-tiny-terrys-turbo-trip.json"
     },
     {
       "igdb_id": 28295,
