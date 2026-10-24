@@ -1111,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Symphonia | 221717 | [221717-tales-of-symphonia.json](./221717-tales-of-symphonia.json) |
 | Tales of Symphonia Remastered | 217564 | [217564-tales-of-symphonia-remastered.json](./217564-tales-of-symphonia-remastered.json) |
 | Tales of Symphonia: Dawn of the New World | 222629 | [222629-tales-of-symphonia-dawn-of-the-new-world.json](./222629-tales-of-symphonia-dawn-of-the-new-world.json) |
+| Tales of Symphonia: Dawn of the New World | 5210 | [5210-tales-of-symphonia-dawn-of-the-new-world.json](./5210-tales-of-symphonia-dawn-of-the-new-world.json) |
 | Tales of Tarium: Awakening from the Ashes | 213538 | [213538-tales-of-tarium-awakening-from-the-ashes.json](./213538-tales-of-tarium-awakening-from-the-ashes.json) |
 | Tales of Terrabanthis | 237301 | [237301-tales-of-terrabanthis.json](./237301-tales-of-terrabanthis.json) |
 | Tales of Terror: Estate of the Heart | 19209 | [19209-tales-of-terror-estate-of-the-heart.json](./19209-tales-of-terror-estate-of-the-heart.json) |
@@ -2520,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tear Them All | 409861 | [409861-tear-them-all.json](./409861-tear-them-all.json) |
 | Tearaway | 6363 | [6363-tearaway.json](./6363-tearaway.json) |
 | Tearaway Thomas | 57577 | [57577-tearaway-thomas.json](./57577-tearaway-thomas.json) |
+| Tearaway: Unfolded | 7606 | [7606-tearaway-unfolded.json](./7606-tearaway-unfolded.json) |
 | Teardown | 122666 | [122666-teardown.json](./122666-teardown.json) |
 | Teardown: Creative Mode | 252848 | [252848-teardown-creative-mode.json](./252848-teardown-creative-mode.json) |
 | Teardown: Deluxe Edition | 270589 | [270589-teardown-deluxe-edition.json](./270589-teardown-deluxe-edition.json) |
@@ -7146,6 +7148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End Grows | 274580 | [274580-the-end-grows.json](./274580-the-end-grows.json) |
 | The End is Nahual: If I May Say So | 216415 | [216415-the-end-is-nahual-if-i-may-say-so.json](./216415-the-end-is-nahual-if-i-may-say-so.json) |
 | The End is Never the End | 269850 | [269850-the-end-is-never-the-end.json](./269850-the-end-is-never-the-end.json) |
+| The End Is Nigh | 36846 | [36846-the-end-is-nigh.json](./36846-the-end-is-nigh.json) |
 | The End o,,,o | 31847 | [31847-the-end-o-o.json](./31847-the-end-o-o.json) |
 | The End of Allegoria | 416565 | [416565-the-end-of-allegoria.json](./416565-the-end-of-allegoria.json) |
 | The End of an Actress | 126961 | [126961-the-end-of-an-actress.json](./126961-the-end-of-an-actress.json) |
@@ -11434,6 +11437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -19691,6 +19695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toeic Test DS Training | 124095 | [124095-toeic-test-ds-training.json](./124095-toeic-test-ds-training.json) |
 | TOEIC Test: Jissen Tokkun | 65291 | [65291-toeic-test-jissen-tokkun.json](./65291-toeic-test-jissen-tokkun.json) |
 | TOEIC Test: Jissen Tokkun 2 | 141476 | [141476-toeic-test-jissen-tokkun-2.json](./141476-toeic-test-jissen-tokkun-2.json) |
+| ToeJam & Earl | 8389 | [8389-toejam-and-earl.json](./8389-toejam-and-earl.json) |
 | ToeJam & Earl in Panic on Funkotron | 11123 | [11123-toejam-and-earl-in-panic-on-funkotron.json](./11123-toejam-and-earl-in-panic-on-funkotron.json) |
 | Toem | 118193 | [118193-toem.json](./118193-toem.json) |
 | Toem 2 | 325182 | [325182-toem-2.json](./325182-toem-2.json) |
@@ -21483,6 +21488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Koumadan | 377364 | [377364-touhou-koumadan.json](./377364-touhou-koumadan.json) |
 | Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil | 405461 | [405461-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil.json](./405461-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil.json) |
 | Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil: Deluxe Edition | 418331 | [418331-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil-deluxe-edition.json](./418331-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil-deluxe-edition.json) |
+| Touhou Koumakyou: The Embodiment of Scarlet Devil | 27155 | [27155-touhou-koumakyou-the-embodiment-of-scarlet-devil.json](./27155-touhou-koumakyou-the-embodiment-of-scarlet-devil.json) |
 | Touhou Kourinden: Mythos of Phantasmagoria | 289935 | [289935-touhou-kourinden-mythos-of-phantasmagoria.json](./289935-touhou-kourinden-mythos-of-phantasmagoria.json) |
 | Touhou Kourokuen: Glorious and Huge Singer | 377213 | [377213-touhou-kourokuen-glorious-and-huge-singer.json](./377213-touhou-kourokuen-glorious-and-huge-singer.json) |
 | Touhou Kouryuudou: Unconnected Marketeers | 144093 | [144093-touhou-kouryuudou-unconnected-marketeers.json](./144093-touhou-kouryuudou-unconnected-marketeers.json) |
