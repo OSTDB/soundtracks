@@ -10402,6 +10402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Fishing 4 | 56012 | [56012-russian-fishing-4.json](./56012-russian-fishing-4.json) |
 | Russian Fishing 4: Amber Lake | 161308 | [161308-russian-fishing-4-amber-lake.json](./161308-russian-fishing-4-amber-lake.json) |
 | Russian Fishing 4: Lower Tunguska River | 161307 | [161307-russian-fishing-4-lower-tunguska-river.json](./161307-russian-fishing-4-lower-tunguska-river.json) |
+| Russian Front | 34908 | [34908-russian-front.json](./34908-russian-front.json) |
 | Russian Front II: The Kursk Campaign | 79128 | [79128-russian-front-ii-the-kursk-campaign.json](./79128-russian-front-ii-the-kursk-campaign.json) |
 | Russian Gangsta in Hell | 99063 | [99063-russian-gangsta-in-hell.json](./99063-russian-gangsta-in-hell.json) |
 | Russian Hentai 3 | 155461 | [155461-russian-hentai-3.json](./155461-russian-hentai-3.json) |
