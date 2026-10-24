@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Labours of Hercules IV: Mother Nature - Collector's Edition | 338895 | [338895-12-labours-of-hercules-iv-mother-nature-collectors-edition.json](./338895-12-labours-of-hercules-iv-mother-nature-collectors-edition.json) |
 | 12 Labours of Hercules IX: A Hero's Moonwalk | 125358 | [125358-12-labours-of-hercules-ix-a-heros-moonwalk.json](./125358-12-labours-of-hercules-ix-a-heros-moonwalk.json) |
 | 12 Labours of Hercules IX: A Hero's Moonwalk - Collector's Edition | 338900 | [338900-12-labours-of-hercules-ix-a-heros-moonwalk-collectors-edition.json](./338900-12-labours-of-hercules-ix-a-heros-moonwalk-collectors-edition.json) |
+| 12 Labours of Hercules V: Kids of Hellas | 32821 | [32821-12-labours-of-hercules-v-kids-of-hellas.json](./32821-12-labours-of-hercules-v-kids-of-hellas.json) |
 | 12 Labours of Hercules V: Kids of Hellas - Collector's Edition | 338896 | [338896-12-labours-of-hercules-v-kids-of-hellas-collectors-edition.json](./338896-12-labours-of-hercules-v-kids-of-hellas-collectors-edition.json) |
 | 12 Labours of Hercules VI: Race for Olympus - Collectors Edition | 338897 | [338897-12-labours-of-hercules-vi-race-for-olympus-collectors-edition.json](./338897-12-labours-of-hercules-vi-race-for-olympus-collectors-edition.json) |
 | 12 Labours of Hercules VII: Fleecing the Fleece | 81036 | [81036-12-labours-of-hercules-vii-fleecing-the-fleece.json](./81036-12-labours-of-hercules-vii-fleecing-the-fleece.json) |
@@ -1697,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 days to Defence | 126267 | [126267-30-days-to-defence.json](./126267-30-days-to-defence.json) |
 | 30 Days to Survive | 89775 | [89775-30-days-to-survive.json](./89775-30-days-to-survive.json) |
 | 30 Floors of Madness | 308952 | [308952-30-floors-of-madness.json](./308952-30-floors-of-madness.json) |
+| 30 Impossible Levels | 33054 | [33054-30-impossible-levels.json](./33054-30-impossible-levels.json) |
 | 30 in 1 Family Games Mega Collection | 391259 | [391259-30-in-1-family-games-mega-collection.json](./391259-30-in-1-family-games-mega-collection.json) |
 | 30 Minutes to Die | 214691 | [214691-30-minutes-to-die.json](./214691-30-minutes-to-die.json) |
 | 30 Minutes to Rescue | 398035 | [398035-30-minutes-to-rescue.json](./398035-30-minutes-to-rescue.json) |
