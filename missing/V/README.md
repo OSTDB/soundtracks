@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vecmania | 46513 | [46513-vecmania.json](./46513-vecmania.json) |
 | Vecter | 124183 | [124183-vecter.json](./124183-vecter.json) |
 | Vecter Assault | 251978 | [251978-vecter-assault.json](./251978-vecter-assault.json) |
+| Vectonic | 29522 | [29522-vectonic.json](./29522-vectonic.json) |
 | Vectopia | 46514 | [46514-vectopia.json](./46514-vectopia.json) |
 | Vector | 15545 | [15545-vector.json](./15545-vector.json) |
 | Vector 2 | 101939 | [101939-vector-2.json](./101939-vector-2.json) |
@@ -1951,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violet rE:-The Final reExistence- | 120781 | [120781-violet-re-the-final-reexistence.json](./120781-violet-re-the-final-reexistence.json) |
 | Violet Storm | 253241 | [253241-violet-storm.json](./253241-violet-storm.json) |
 | Violet Wisteria | 212099 | [212099-violet-wisteria.json](./212099-violet-wisteria.json) |
+| Violet's Dream VR | 29477 | [29477-violets-dream-vr.json](./29477-violets-dream-vr.json) |
 | Violet's Party Mania | 219518 | [219518-violets-party-mania.json](./219518-violets-party-mania.json) |
 | Violeta | 176940 | [176940-violeta.json](./176940-violeta.json) |
 | Violeta | 327043 | [327043-violeta.json](./327043-violeta.json) |
@@ -3305,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRNinja | 22041 | [22041-vrninja.json](./22041-vrninja.json) |
 | VRobot: VR Giant Robot Destruction Simulator | 29572 | [29572-vrobot-vr-giant-robot-destruction-simulator.json](./29572-vrobot-vr-giant-robot-destruction-simulator.json) |
 | VRock | 187439 | [187439-vrock.json](./187439-vrock.json) |
+| VRog | 29545 | [29545-vrog.json](./29545-vrog.json) |
 | VRogue | 264211 | [264211-vrogue.json](./264211-vrogue.json) |
 | Vroom | 12813 | [12813-vroom.json](./12813-vroom.json) |
 | Vroom Data Disk | 330763 | [330763-vroom-data-disk.json](./330763-vroom-data-disk.json) |
