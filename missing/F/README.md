@@ -11020,6 +11020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FusionFall Retro | 54747 | [54747-fusionfall-retro.json](./54747-fusionfall-retro.json) |
 | Fusionist | 250945 | [250945-fusionist.json](./250945-fusionist.json) |
 | Fuss-Ball | 59802 | [59802-fuss-ball.json](./59802-fuss-ball.json) |
+| Fussball Live | 43741 | [43741-fussball-live.json](./43741-fussball-live.json) |
 | Fussball Manager 25 | 335346 | [335346-fussball-manager-25.json](./335346-fussball-manager-25.json) |
 | Fussball Manager 26 | 392424 | [392424-fussball-manager-26.json](./392424-fussball-manager-26.json) |
 | Fussball Manager Bundesliga 2001 | 209417 | [209417-fussball-manager-bundesliga-2001.json](./209417-fussball-manager-bundesliga-2001.json) |
