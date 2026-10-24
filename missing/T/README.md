@@ -1874,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Football Star! 20-21 | 174014 | [174014-tap-football-star-20-21.json](./174014-tap-football-star-20-21.json) |
 | Tap Force | 214671 | [214671-tap-force.json](./214671-tap-force.json) |
 | Tap Gun | 247436 | [247436-tap-gun.json](./247436-tap-gun.json) |
+| Tap Hero | 27380 | [27380-tap-hero.json](./27380-tap-hero.json) |
 | Tap Heroes | 35228 | [35228-tap-heroes.json](./35228-tap-heroes.json) |
 | Tap It Away | 304169 | [304169-tap-it-away.json](./304169-tap-it-away.json) |
 | Tap It Big | 59470 | [59470-tap-it-big.json](./59470-tap-it-big.json) |
@@ -4190,6 +4191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thalassophobia | 303799 | [303799-thalassophobia.json](./303799-thalassophobia.json) |
 | Thalu: Dreamtime is Now | 113707 | [113707-thalu-dreamtime-is-now.json](./113707-thalu-dreamtime-is-now.json) |
 | Thamz in a Wheelchair | 268720 | [268720-thamz-in-a-wheelchair.json](./268720-thamz-in-a-wheelchair.json) |
+| Thanatophobia | 27393 | [27393-thanatophobia.json](./27393-thanatophobia.json) |
 | Thanatophobia | 278966 | [278966-thanatophobia.json](./278966-thanatophobia.json) |
 | Thandor: The Invasion | 54432 | [54432-thandor-the-invasion.json](./54432-thandor-the-invasion.json) |
 | Thang Online | 135838 | [135838-thang-online.json](./135838-thang-online.json) |
@@ -8310,6 +8312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Greenskins | 74374 | [74374-the-greenskins.json](./74374-the-greenskins.json) |
 | The Grey Company | 362324 | [362324-the-grey-company.json](./362324-the-grey-company.json) |
 | The Grey Dream | 260325 | [260325-the-grey-dream.json](./260325-the-grey-dream.json) |
+| The Grey Man | 27305 | [27305-the-grey-man.json](./27305-the-grey-man.json) |
 | The Grey Wolves - Knight's Cross Edition | 416013 | [416013-the-grey-wolves-knights-cross-edition.json](./416013-the-grey-wolves-knights-cross-edition.json) |
 | The Greys: Human Abductions | 371546 | [371546-the-greys-human-abductions.json](./371546-the-greys-human-abductions.json) |
 | The Grid | 185943 | [185943-the-grid.json](./185943-the-grid.json) |
@@ -18655,6 +18658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timespinner 2: Unwoven Dream | 268677 | [268677-timespinner-2-unwoven-dream.json](./268677-timespinner-2-unwoven-dream.json) |
 | TimeSplitters | 317415 | [317415-timesplitters.json](./317415-timesplitters.json) |
 | TimeSplitters 2 | 317414 | [317414-timesplitters-2.json](./317414-timesplitters-2.json) |
+| TimeSplitters Rewind | 27286 | [27286-timesplitters-rewind.json](./27286-timesplitters-rewind.json) |
 | TimeSplitters: Future Perfect | 2144 | [2144-timesplitters-future-perfect.json](./2144-timesplitters-future-perfect.json) |
 | TimeSplitters: Future Perfect | 317416 | [317416-timesplitters-future-perfect.json](./317416-timesplitters-future-perfect.json) |
 | Timestamps: Lost Love | 310041 | [310041-timestamps-lost-love.json](./310041-timestamps-lost-love.json) |
@@ -19626,6 +19630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Togedemaru's Hop to the Top | 84121 | [84121-togedemarus-hop-to-the-top.json](./84121-togedemarus-hop-to-the-top.json) |
 | Togepi no Daibouken | 66024 | [66024-togepi-no-daibouken.json](./66024-togepi-no-daibouken.json) |
 | Together | 152248 | [152248-together.json](./152248-together.json) |
+| Together | 27348 | [27348-together.json](./27348-together.json) |
 | Together | 82054 | [82054-together.json](./82054-together.json) |
 | Together | 96269 | [96269-together.json](./96269-together.json) |
 | Together After Dark | 286654 | [286654-together-after-dark.json](./286654-together-after-dark.json) |
@@ -21020,6 +21025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Three Kingdoms - Yellow Turban Rebellion | 167646 | [167646-total-war-three-kingdoms-yellow-turban-rebellion.json](./167646-total-war-three-kingdoms-yellow-turban-rebellion.json) |
 | Total War: Warhammer - Blood For the Blood God | 25660 | [25660-total-war-warhammer-blood-for-the-blood-god.json](./25660-total-war-warhammer-blood-for-the-blood-god.json) |
 | Total War: Warhammer - Bretonnia | 81293 | [81293-total-war-warhammer-bretonnia.json](./81293-total-war-warhammer-bretonnia.json) |
+| Total War: Warhammer - Call of the Beastmen | 27356 | [27356-total-war-warhammer-call-of-the-beastmen.json](./27356-total-war-warhammer-call-of-the-beastmen.json) |
 | Total War: Warhammer - Chaos Warriors | 53832 | [53832-total-war-warhammer-chaos-warriors.json](./53832-total-war-warhammer-chaos-warriors.json) |
 | Total War: Warhammer - Dark Gods Edition | 170027 | [170027-total-war-warhammer-dark-gods-edition.json](./170027-total-war-warhammer-dark-gods-edition.json) |
 | Total War: Warhammer - Grey Wizard | 81349 | [81349-total-war-warhammer-grey-wizard.json](./81349-total-war-warhammer-grey-wizard.json) |
@@ -21028,6 +21034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer - Jade Wizard | 81294 | [81294-total-war-warhammer-jade-wizard.json](./81294-total-war-warhammer-jade-wizard.json) |
 | Total War: Warhammer - Norsca | 53833 | [53833-total-war-warhammer-norsca.json](./53833-total-war-warhammer-norsca.json) |
 | Total War: Warhammer - Realm of the Wood Elves | 26423 | [26423-total-war-warhammer-realm-of-the-wood-elves.json](./26423-total-war-warhammer-realm-of-the-wood-elves.json) |
+| Total War: Warhammer - The Grim and the Grave | 27355 | [27355-total-war-warhammer-the-grim-and-the-grave.json](./27355-total-war-warhammer-the-grim-and-the-grave.json) |
 | Total War: Warhammer - The King and the Warlord | 81202 | [81202-total-war-warhammer-the-king-and-the-warlord.json](./81202-total-war-warhammer-the-king-and-the-warlord.json) |
 | Total War: Warhammer - Wurrzag | 81295 | [81295-total-war-warhammer-wurrzag.json](./81295-total-war-warhammer-wurrzag.json) |
 | Total War: Warhammer 40,000 | 381245 | [381245-total-war-warhammer-40-000.json](./381245-total-war-warhammer-40-000.json) |
