@@ -4641,6 +4641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kritika: The White Knights | 39231 | [39231-kritika-the-white-knights.json](./39231-kritika-the-white-knights.json) |
 | Kritzel Krieg | 414873 | [414873-kritzel-krieg.json](./414873-kritzel-krieg.json) |
 | Krizl | 106297 | [106297-krizl.json](./106297-krizl.json) |
+| Kroc & Roll | 25427 | [25427-kroc-and-roll.json](./25427-kroc-and-roll.json) |
 | Krolewna Sniezka | 318484 | [318484-krolewna-sniezka.json](./318484-krolewna-sniezka.json) |
 | Kroll | 67787 | [67787-kroll.json](./67787-kroll.json) |
 | Kromaia | 8815 | [8815-kromaia.json](./8815-kromaia.json) |
