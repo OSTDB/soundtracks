@@ -1800,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
 | ACA Neo Geo: Crossed Swords | 118707 | [118707-aca-neo-geo-crossed-swords.json](./118707-aca-neo-geo-crossed-swords.json) |
 | ACA Neo Geo: Cyber-Lip | 112912 | [112912-aca-neo-geo-cyber-lip.json](./112912-aca-neo-geo-cyber-lip.json) |
+| ACA Neo Geo: Fatal Fury | 28507 | [28507-aca-neo-geo-fatal-fury.json](./28507-aca-neo-geo-fatal-fury.json) |
 | ACA Neo Geo: Fatal Fury 2 | 99510 | [99510-aca-neo-geo-fatal-fury-2.json](./99510-aca-neo-geo-fatal-fury-2.json) |
 | ACA Neo Geo: Fatal Fury 3 | 99484 | [99484-aca-neo-geo-fatal-fury-3.json](./99484-aca-neo-geo-fatal-fury-3.json) |
 | ACA Neo Geo: Fatal Fury Special | 99742 | [99742-aca-neo-geo-fatal-fury-special.json](./99742-aca-neo-geo-fatal-fury-special.json) |
@@ -1817,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Nam-1975 | 28409 | [28409-aca-neo-geo-nam-1975.json](./28409-aca-neo-geo-nam-1975.json) |
 | ACA Neo Geo: Ninja Combat | 103852 | [103852-aca-neo-geo-ninja-combat.json](./103852-aca-neo-geo-ninja-combat.json) |
 | ACA Neo Geo: Ninja Master's | 114147 | [114147-aca-neo-geo-ninja-masters.json](./114147-aca-neo-geo-ninja-masters.json) |
+| ACA Neo Geo: Over Top | 28500 | [28500-aca-neo-geo-over-top.json](./28500-aca-neo-geo-over-top.json) |
 | ACA Neo Geo: Pleasure Goal - 5 on 5 Mini Soccer | 111644 | [111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json](./111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json) |
 | ACA Neo Geo: Power Spikes II | 82392 | [82392-aca-neo-geo-power-spikes-ii.json](./82392-aca-neo-geo-power-spikes-ii.json) |
 | ACA Neo Geo: Pulstar | 99511 | [99511-aca-neo-geo-pulstar.json](./99511-aca-neo-geo-pulstar.json) |
@@ -2928,7 +2930,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -12761,6 +12762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrocat: Milky Way Journey | 196264 | [196264-astrocat-milky-way-journey.json](./196264-astrocat-milky-way-journey.json) |
 | Astrocat: Skylar's Memories | 204804 | [204804-astrocat-skylars-memories.json](./204804-astrocat-skylars-memories.json) |
 | Astrochibbi | 377677 | [377677-astrochibbi.json](./377677-astrochibbi.json) |
+| Astroclone | 28478 | [28478-astroclone.json](./28478-astroclone.json) |
 | Astrocode | 383119 | [383119-astrocode.json](./383119-astrocode.json) |
 | Astrocop | 295848 | [295848-astrocop.json](./295848-astrocop.json) |
 | Astrodelia | 290827 | [290827-astrodelia.json](./290827-astrodelia.json) |
