@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | {Undefined} | 159190 | [159190-undefined.json](./159190-undefined.json) |
 | @ Home Mate | 22467 | [22467-home-mate.json](./22467-home-mate.json) |
 | @Card SD Gundam Gaiden | 130888 | [130888-card-sd-gundam-gaiden.json](./130888-card-sd-gundam-gaiden.json) |
+| @Field | 8615 | [8615-field.json](./8615-field.json) |
 | @Simple V Series Vol.1 - The Docodemo Gal Mahjong | 141475 | [141475-simple-v-series-vol-1-the-docodemo-gal-mahjong.json](./141475-simple-v-series-vol-1-the-docodemo-gal-mahjong.json) |
 | *Hello, Planet. | 142744 | [142744-hello-planet.json](./142744-hello-planet.json) |
 | *N Sync: Get to the Show | 94742 | [94742-n-sync-get-to-the-show.json](./94742-n-sync-get-to-the-show.json) |
@@ -130,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | /R | 329554 | [329554-r.json](./329554-r.json) |
 | \\\//\\/\\\/// | 139880 | [139880-.json](./139880-.json) |
 | & in the War I Find You | 178584 | [178584-and-in-the-war-i-find-you.json](./178584-and-in-the-war-i-find-you.json) |
+| &: Sora no Mukou de Saki Masuyou ni | 8616 | [8616-and-sora-no-mukou-de-saki-masuyou-ni.json](./8616-and-sora-no-mukou-de-saki-masuyou-ni.json) |
 | && | 166454 | [166454-and-and.json](./166454-and-and.json) |
 | &0 | 255619 | [255619-and-0.json](./255619-and-0.json) |
 | #!/Bin/Bash | 302821 | [302821-bin-bash.json](./302821-bin-bash.json) |
@@ -328,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Million Pixels | 413109 | [413109-10-million-pixels.json](./413109-10-million-pixels.json) |
 | 10 Minute Barbarian | 34776 | [34776-10-minute-barbarian.json](./34776-10-minute-barbarian.json) |
 | 10 Minute Massacre | 316985 | [316985-10-minute-massacre.json](./316985-10-minute-massacre.json) |
+| 10 Minute Solution | 6464 | [6464-10-minute-solution.json](./6464-10-minute-solution.json) |
 | 10 Minute Tower | 32589 | [32589-10-minute-tower.json](./32589-10-minute-tower.json) |
 | 10 Minutes Till Dawn | 202828 | [202828-10-minutes-till-dawn.json](./202828-10-minutes-till-dawn.json) |
 | 10 Mississippi | 183239 | [183239-10-mississippi.json](./183239-10-mississippi.json) |
@@ -1005,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 17 MPH | 377922 | [377922-17-mph.json](./377922-17-mph.json) |
 | 17 Seconds VR | 374234 | [374234-17-seconds-vr.json](./374234-17-seconds-vr.json) |
 | 171 | 136712 | [136712-171.json](./136712-171.json) |
+| 177 | 8562 | [8562-177.json](./8562-177.json) |
 | 1775: Rebellion | 34000 | [34000-1775-rebellion.json](./34000-1775-rebellion.json) |
 | 1775: Rebellion - Southern Theatre Scenario | 168108 | [168108-1775-rebellion-southern-theatre-scenario.json](./168108-1775-rebellion-southern-theatre-scenario.json) |
 | 18 Cadence | 63378 | [63378-18-cadence.json](./63378-18-cadence.json) |
@@ -1777,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Blade Skating | 217723 | [217723-3d-blade-skating.json](./217723-3d-blade-skating.json) |
 | 3D Blitz | 245388 | [245388-3d-blitz.json](./245388-3d-blitz.json) |
 | 3D Block | 48905 | [48905-3d-block.json](./48905-3d-block.json) |
+| 3D Bomb Alley | 8522 | [8522-3d-bomb-alley.json](./8522-3d-bomb-alley.json) |
 | 3D Bomberman | 198218 | [198218-3d-bomberman.json](./198218-3d-bomberman.json) |
 | 3D Bomberman Atomic | 198214 | [198214-3d-bomberman-atomic.json](./198214-3d-bomberman-atomic.json) |
 | 3D Bowling Master | 105848 | [105848-3d-bowling-master.json](./105848-3d-bowling-master.json) |
@@ -1807,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Dinosaur Hunter | 263459 | [263459-3d-dinosaur-hunter.json](./263459-3d-dinosaur-hunter.json) |
 | 3D Don't Die Mr Robot | 219510 | [219510-3d-dont-die-mr-robot.json](./219510-3d-dont-die-mr-robot.json) |
 | 3D Dot Game Heroes | 7265 | [7265-3d-dot-game-heroes.json](./7265-3d-dot-game-heroes.json) |
+| 3D Dotty | 8523 | [8523-3d-dotty.json](./8523-3d-dotty.json) |
 | 3D Dragon Castle | 205837 | [205837-3d-dragon-castle.json](./205837-3d-dragon-castle.json) |
 | 3D Driving School | 52544 | [52544-3d-driving-school.json](./52544-3d-driving-school.json) |
 | 3d Engineers | 35889 | [35889-3d-engineers.json](./35889-3d-engineers.json) |
@@ -2761,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Arrows | 67204 | [67204-99-arrows.json](./67204-99-arrows.json) |
 | 99 Bottles of Beer | 249256 | [249256-99-bottles-of-beer.json](./249256-99-bottles-of-beer.json) |
 | 99 Bricks | 252618 | [252618-99-bricks.json](./252618-99-bricks.json) |
+| 99 Bricks Wizard Academy | 8619 | [8619-99-bricks-wizard-academy.json](./8619-99-bricks-wizard-academy.json) |
 | 99 brushes or less | 309200 | [309200-99-brushes-or-less.json](./309200-99-brushes-or-less.json) |
 | 99 Cars: Zig Zag Racer | 240209 | [240209-99-cars-zig-zag-racer.json](./240209-99-cars-zig-zag-racer.json) |
 | 99 Dead Pirates | 240886 | [240886-99-dead-pirates.json](./240886-99-dead-pirates.json) |
