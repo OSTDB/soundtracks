@@ -4044,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Party Deluxe | 21099 | [21099-tetris-party-deluxe.json](./21099-tetris-party-deluxe.json) |
 | Tetris Plus | 20712 | [20712-tetris-plus.json](./20712-tetris-plus.json) |
 | Tetris Plus | 254518 | [254518-tetris-plus.json](./254518-tetris-plus.json) |
+| Tetris Plus 2 | 39403 | [39403-tetris-plus-2.json](./39403-tetris-plus-2.json) |
 | Tetris Pro | 95421 | [95421-tetris-pro.json](./95421-tetris-pro.json) |
 | Tetris Rosy Retrospection DX | 359081 | [359081-tetris-rosy-retrospection-dx.json](./359081-tetris-rosy-retrospection-dx.json) |
 | Tetris Royale | 120266 | [120266-tetris-royale.json](./120266-tetris-royale.json) |
@@ -11731,6 +11732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outfit | 7126 | [7126-the-outfit.json](./7126-the-outfit.json) |
 | The Outforce | 1167 | [1167-the-outforce.json](./1167-the-outforce.json) |
 | The Outforce | 279508 | [279508-the-outforce.json](./279508-the-outforce.json) |
+| The Outfoxies | 39381 | [39381-the-outfoxies.json](./39381-the-outfoxies.json) |
 | The Outlast Trials: Deluxe Edition | 289556 | [289556-the-outlast-trials-deluxe-edition.json](./289556-the-outlast-trials-deluxe-edition.json) |
 | The Outlast Trials: Exotica Pack | 332013 | [332013-the-outlast-trials-exotica-pack.json](./332013-the-outlast-trials-exotica-pack.json) |
 | The Outlast Trials: Porcelain Observer Pack | 366838 | [366838-the-outlast-trials-porcelain-observer-pack.json](./366838-the-outlast-trials-porcelain-observer-pack.json) |
