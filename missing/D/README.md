@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution Dance Wars | 3681 | [3681-dance-dance-revolution-dance-wars.json](./3681-dance-dance-revolution-dance-wars.json) |
 | Dance Dance Revolution Disney Mix | 44796 | [44796-dance-dance-revolution-disney-mix.json](./44796-dance-dance-revolution-disney-mix.json) |
 | Dance Dance Revolution ExtraMix | 93034 | [93034-dance-dance-revolution-extramix.json](./93034-dance-dance-revolution-extramix.json) |
+| Dance Dance Revolution Extreme | 43680 | [43680-dance-dance-revolution-extreme.json](./43680-dance-dance-revolution-extreme.json) |
 | Dance Dance Revolution Extreme 2 | 43577 | [43577-dance-dance-revolution-extreme-2.json](./43577-dance-dance-revolution-extreme-2.json) |
 | Dance Dance Revolution GB | 72734 | [72734-dance-dance-revolution-gb.json](./72734-dance-dance-revolution-gb.json) |
 | Dance Dance Revolution GB 2 | 72735 | [72735-dance-dance-revolution-gb-2.json](./72735-dance-dance-revolution-gb-2.json) |
@@ -6615,6 +6616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dexter's Lab: Dee Dee's Moon Squad | 203085 | [203085-dexters-lab-dee-dees-moon-squad.json](./203085-dexters-lab-dee-dees-moon-squad.json) |
 | Dexter's Laboratory Security Alert! | 23608 | [23608-dexters-laboratory-security-alert.json](./23608-dexters-laboratory-security-alert.json) |
 | Dexter's Laboratory: Deesaster Strikes! | 2813 | [2813-dexters-laboratory-deesaster-strikes.json](./2813-dexters-laboratory-deesaster-strikes.json) |
+| Dexter's Laboratory: Mandark's Lab? | 2814 | [2814-dexters-laboratory-mandarks-lab.json](./2814-dexters-laboratory-mandarks-lab.json) |
 | Dexter's Laboratory: Robot Rampage | 2815 | [2815-dexters-laboratory-robot-rampage.json](./2815-dexters-laboratory-robot-rampage.json) |
 | Dexter's Laboratory: Science Ain't Fair | 8003 | [8003-dexters-laboratory-science-aint-fair.json](./8003-dexters-laboratory-science-aint-fair.json) |
 | Dexter's Momatory | 280444 | [280444-dexters-momatory.json](./280444-dexters-momatory.json) |
@@ -8462,6 +8464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Magic Artist Cartoon Maker | 46433 | [46433-disneys-magic-artist-cartoon-maker.json](./46433-disneys-magic-artist-cartoon-maker.json) |
 | Disney's Magic Artist Deluxe | 50307 | [50307-disneys-magic-artist-deluxe.json](./50307-disneys-magic-artist-deluxe.json) |
 | Disney's Magic Artist Studio | 51281 | [51281-disneys-magic-artist-studio.json](./51281-disneys-magic-artist-studio.json) |
+| Disney's Magical Mirror Starring Mickey Mouse | 3773 | [3773-disneys-magical-mirror-starring-mickey-mouse.json](./3773-disneys-magical-mirror-starring-mickey-mouse.json) |
 | Disney's Magical Quest 2 Starring Mickey & Minnie | 188634 | [188634-disneys-magical-quest-2-starring-mickey-and-minnie.json](./188634-disneys-magical-quest-2-starring-mickey-and-minnie.json) |
 | Disney's Mahjongg | 142431 | [142431-disneys-mahjongg.json](./142431-disneys-mahjongg.json) |
 | Disney's Mulan | 46673 | [46673-disneys-mulan.json](./46673-disneys-mulan.json) |
@@ -11712,6 +11715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Xenoverse 2: Lite Version | 116372 | [116372-dragon-ball-xenoverse-2-lite-version.json](./116372-dragon-ball-xenoverse-2-lite-version.json) |
 | Dragon Ball Xenoverse and Dragon Ball Xenoverse 2 Double Pack | 141765 | [141765-dragon-ball-xenoverse-and-dragon-ball-xenoverse-2-double-pack.json](./141765-dragon-ball-xenoverse-and-dragon-ball-xenoverse-2-double-pack.json) |
 | Dragon Ball Z | 220086 | [220086-dragon-ball-z.json](./220086-dragon-ball-z.json) |
+| Dragon Ball Z | 2560 | [2560-dragon-ball-z.json](./2560-dragon-ball-z.json) |
 | Dragon Ball Z 2 V | 2565 | [2565-dragon-ball-z-2-v.json](./2565-dragon-ball-z-2-v.json) |
 | Dragon Ball Z 5 | 242098 | [242098-dragon-ball-z-5.json](./242098-dragon-ball-z-5.json) |
 | Dragon Ball Z For Kinect | 2575 | [2575-dragon-ball-z-for-kinect.json](./2575-dragon-ball-z-for-kinect.json) |
@@ -11736,6 +11740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Burst Limit | 2569 | [2569-dragon-ball-z-burst-limit.json](./2569-dragon-ball-z-burst-limit.json) |
 | Dragon Ball Z: Buu's Fury | 19835 | [19835-dragon-ball-z-buus-fury.json](./19835-dragon-ball-z-buus-fury.json) |
 | Dragon Ball Z: Buu's Fury / Dragon Ball GT: Transformation | 79299 | [79299-dragon-ball-z-buus-fury-dragon-ball-gt-transformation.json](./79299-dragon-ball-z-buus-fury-dragon-ball-gt-transformation.json) |
+| Dragon Ball Z: Buyuu Retsuden | 2548 | [2548-dragon-ball-z-buyuu-retsuden.json](./2548-dragon-ball-z-buyuu-retsuden.json) |
 | Dragon Ball Z: Cell To Kogeki Da | 322346 | [322346-dragon-ball-z-cell-to-kogeki-da.json](./322346-dragon-ball-z-cell-to-kogeki-da.json) |
 | Dragon Ball Z: Dokkan Battle | 88818 | [88818-dragon-ball-z-dokkan-battle.json](./88818-dragon-ball-z-dokkan-battle.json) |
 | Dragon Ball Z: Extreme Butouden | 20033 | [20033-dragon-ball-z-extreme-butouden.json](./20033-dragon-ball-z-extreme-butouden.json) |
@@ -12303,6 +12308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Wandering Tavern | 153985 | [153985-dragons-wandering-tavern.json](./153985-dragons-wandering-tavern.json) |
 | Dragon's Wrath | 114136 | [114136-dragons-wrath.json](./114136-dragons-wrath.json) |
 | Dragona: Fireborne | 289010 | [289010-dragona-fireborne.json](./289010-dragona-fireborne.json) |
+| Dragonball Evolution: The Game | 2571 | [2571-dragonball-evolution-the-game.json](./2571-dragonball-evolution-the-game.json) |
 | DragonBall Heroes: Ultimate Mission 2 | 61952 | [61952-dragonball-heroes-ultimate-mission-2.json](./61952-dragonball-heroes-ultimate-mission-2.json) |
 | DragonBlast VR | 31671 | [31671-dragonblast-vr.json](./31671-dragonblast-vr.json) |
 | Dragonbolt Vanguard | 55893 | [55893-dragonbolt-vanguard.json](./55893-dragonbolt-vanguard.json) |
