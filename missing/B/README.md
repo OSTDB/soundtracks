@@ -2167,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barkour | 313588 | [313588-barkour.json](./313588-barkour.json) |
 | Barles Charkley's Shut Up and Paint | 180507 | [180507-barles-charkleys-shut-up-and-paint.json](./180507-barles-charkleys-shut-up-and-paint.json) |
 | Barman Simulator | 334465 | [334465-barman-simulator.json](./334465-barman-simulator.json) |
+| Barmy Burgers | 41185 | [41185-barmy-burgers.json](./41185-barmy-burgers.json) |
 | Barn & Farm Renovator | 152984 | [152984-barn-and-farm-renovator.json](./152984-barn-and-farm-renovator.json) |
 | Barn Bashers | 177009 | [177009-barn-bashers.json](./177009-barn-bashers.json) |
 | Barn Finders VR | 172184 | [172184-barn-finders-vr.json](./172184-barn-finders-vr.json) |
@@ -2187,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barney's Hide & Seek Game | 46286 | [46286-barneys-hide-and-seek-game.json](./46286-barneys-hide-and-seek-game.json) |
 | BarnFinders: The Pilot | 133072 | [133072-barnfinders-the-pilot.json](./133072-barnfinders-the-pilot.json) |
 | Barnicle | 344380 | [344380-barnicle.json](./344380-barnicle.json) |
+| Barnsley Badger | 41173 | [41173-barnsley-badger.json](./41173-barnsley-badger.json) |
 | Barnstormer | 92849 | [92849-barnstormer.json](./92849-barnstormer.json) |
 | Barnstormers: Determined to Win | 241304 | [241304-barnstormers-determined-to-win.json](./241304-barnstormers-determined-to-win.json) |
 | Barnstorming | 18032 | [18032-barnstorming.json](./18032-barnstorming.json) |
@@ -9004,6 +9006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodWarrior | 47982 | [47982-bloodwarrior.json](./47982-bloodwarrior.json) |
 | Bloodwash | 170938 | [170938-bloodwash.json](./170938-bloodwash.json) |
 | Bloodwatch | 211121 | [211121-bloodwatch.json](./211121-bloodwatch.json) |
+| Bloodwheels | 41166 | [41166-bloodwheels.json](./41166-bloodwheels.json) |
 | Bloodwings: Pumpkinhead's Revenge | 67291 | [67291-bloodwings-pumpkinheads-revenge.json](./67291-bloodwings-pumpkinheads-revenge.json) |
 | Bloodwolf | 142899 | [142899-bloodwolf.json](./142899-bloodwolf.json) |
 | Bloodwood Dungeon | 297847 | [297847-bloodwood-dungeon.json](./297847-bloodwood-dungeon.json) |
@@ -10889,6 +10892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash Construction Kit | 12943 | [12943-boulder-dash-construction-kit.json](./12943-boulder-dash-construction-kit.json) |
 | Boulder Dash EX | 78733 | [78733-boulder-dash-ex.json](./78733-boulder-dash-ex.json) |
 | Boulder Dash IV: The Game | 60874 | [60874-boulder-dash-iv-the-game.json](./60874-boulder-dash-iv-the-game.json) |
+| Boulder Dash UX | 41180 | [41180-boulder-dash-ux.json](./41180-boulder-dash-ux.json) |
 | Boulder Dash-XL | 65854 | [65854-boulder-dash-xl.json](./65854-boulder-dash-xl.json) |
 | Boulder Dash-XL 3D | 47624 | [47624-boulder-dash-xl-3d.json](./47624-boulder-dash-xl-3d.json) |
 | Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
@@ -13371,6 +13375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Blaster | 15688 | [15688-bug-blaster.json](./15688-bug-blaster.json) |
 | Bug Blasters: The Exterminators | 46550 | [46550-bug-blasters-the-exterminators.json](./46550-bug-blasters-the-exterminators.json) |
 | Bug Blazer | 270166 | [270166-bug-blazer.json](./270166-bug-blazer.json) |
+| Bug Blitz | 41146 | [41146-bug-blitz.json](./41146-bug-blitz.json) |
 | Bug Bomb | 15689 | [15689-bug-bomb.json](./15689-bug-bomb.json) |
 | Bug Bomber | 14351 | [14351-bug-bomber.json](./14351-bug-bomber.json) |
 | Bug Bounce | 401068 | [401068-bug-bounce.json](./401068-bug-bounce.json) |
@@ -13426,6 +13431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BuGarden | 392302 | [392302-bugarden.json](./392302-bugarden.json) |
 | Bugatron | 69332 | [69332-bugatron.json](./69332-bugatron.json) |
 | Bugatron Worlds | 307267 | [307267-bugatron-worlds.json](./307267-bugatron-worlds.json) |
+| Bugbomber | 41170 | [41170-bugbomber.json](./41170-bugbomber.json) |
 | Bugboy | 329080 | [329080-bugboy.json](./329080-bugboy.json) |
 | BugBurgh | 305268 | [305268-bugburgh.json](./305268-bugburgh.json) |
 | Bugby | 283133 | [283133-bugby.json](./283133-bugby.json) |
