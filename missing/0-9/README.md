@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Joys | 205073 | [205073-3d-joys.json](./205073-3d-joys.json) |
 | 3D Kaleidoscope: Baby Universe | 143644 | [143644-3d-kaleidoscope-baby-universe.json](./143644-3d-kaleidoscope-baby-universe.json) |
 | 3D Knifflis | 365464 | [365464-3d-knifflis.json](./365464-3d-knifflis.json) |
+| 3D Lunattack | 28476 | [28476-3d-lunattack.json](./28476-3d-lunattack.json) |
 | 3D Magic Chess HD | 90089 | [90089-3d-magic-chess-hd.json](./90089-3d-magic-chess-hd.json) |
 | 3D Mahjong | 65552 | [65552-3d-mahjong.json](./65552-3d-mahjong.json) |
 | 3D Mahjong + Janpai Tori | 269319 | [269319-3d-mahjong-janpai-tori.json](./269319-3d-mahjong-janpai-tori.json) |
@@ -1922,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Retro Dungeon Puzzle Challenge | 100567 | [100567-3d-retro-dungeon-puzzle-challenge.json](./100567-3d-retro-dungeon-puzzle-challenge.json) |
 | 3D Reversi | 54936 | [54936-3d-reversi.json](./54936-3d-reversi.json) |
 | 3D Rollercoaster Rush | 133916 | [133916-3d-rollercoaster-rush.json](./133916-3d-rollercoaster-rush.json) |
+| 3D Seiddab Attack | 28477 | [28477-3d-seiddab-attack.json](./28477-3d-seiddab-attack.json) |
 | 3D Shooting Tsukuuru | 60581 | [60581-3d-shooting-tsukuuru.json](./60581-3d-shooting-tsukuuru.json) |
 | 3D Slime | 320843 | [320843-3d-slime.json](./320843-3d-slime.json) |
 | 3D Snake . io | 100864 | [100864-3d-snake-io.json](./100864-3d-snake-io.json) |
@@ -1932,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Space Invaders | 286676 | [286676-3d-space-invaders.json](./286676-3d-space-invaders.json) |
 | 3D Space Ranger | 15578 | [15578-3d-space-ranger.json](./15578-3d-space-ranger.json) |
 | 3D Space Station Adventure | 205951 | [205951-3d-space-station-adventure.json](./205951-3d-space-station-adventure.json) |
+| 3D Space Wars | 28475 | [28475-3d-space-wars.json](./28475-3d-space-wars.json) |
 | 3D Spades Deluxe | 205952 | [205952-3d-spades-deluxe.json](./205952-3d-spades-deluxe.json) |
 | 3D Star Fighter | 279697 | [279697-3d-star-fighter.json](./279697-3d-star-fighter.json) |
 | 3D Starstrike | 13271 | [13271-3d-starstrike.json](./13271-3d-starstrike.json) |
