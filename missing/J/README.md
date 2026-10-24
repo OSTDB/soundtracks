@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Keane 2: The Fire Within | 10464 | [10464-jack-keane-2-the-fire-within.json](./10464-jack-keane-2-the-fire-within.json) |
 | Jack Mason: Ace Attorney | 303777 | [303777-jack-mason-ace-attorney.json](./303777-jack-mason-ace-attorney.json) |
 | Jack N' Jill 3D | 25846 | [25846-jack-n-jill-3d.json](./25846-jack-n-jill-3d.json) |
+| Jack N' Jill DX | 107044 | [107044-jack-n-jill-dx.json](./107044-jack-n-jill-dx.json) |
 | Jack Nicklaus 4 | 94690 | [94690-jack-nicklaus-4.json](./94690-jack-nicklaus-4.json) |
 | Jack Nicklaus 5 | 761 | [761-jack-nicklaus-5.json](./761-jack-nicklaus-5.json) |
 | Jack Nicklaus 6: Golden Bear Challenge | 762 | [762-jack-nicklaus-6-golden-bear-challenge.json](./762-jack-nicklaus-6-golden-bear-challenge.json) |
@@ -292,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Alliance: Back in Action - Shades of Red | 10469 | [10469-jagged-alliance-back-in-action-shades-of-red.json](./10469-jagged-alliance-back-in-action-shades-of-red.json) |
 | Jagged Alliance: Complete Edition | 98495 | [98495-jagged-alliance-complete-edition.json](./98495-jagged-alliance-complete-edition.json) |
 | Jagged Alliance: Deadly Games | 8 | [8-jagged-alliance-deadly-games.json](./8-jagged-alliance-deadly-games.json) |
+| Jagged Alliance: Rage! | 107138 | [107138-jagged-alliance-rage.json](./107138-jagged-alliance-rage.json) |
 | Jagged Bone | 177826 | [177826-jagged-bone.json](./177826-jagged-bone.json) |
 | Jaghund Armoured Organ Delivery Service | 329941 | [329941-jaghund-armoured-organ-delivery-service.json](./329941-jaghund-armoured-organ-delivery-service.json) |
 | Jagot | 267393 | [267393-jagot.json](./267393-jagot.json) |
