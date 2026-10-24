@@ -2920,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -10840,6 +10841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arizona Sunshine VR Remake | 313768 | [313768-arizona-sunshine-vr-remake.json](./313768-arizona-sunshine-vr-remake.json) |
 | Arizona Sunshine: Dead Man | 171323 | [171323-arizona-sunshine-dead-man.json](./171323-arizona-sunshine-dead-man.json) |
 | Ark and Ade | 157022 | [157022-ark-and-ade.json](./157022-ark-and-ade.json) |
+| Ark Area | 40016 | [40016-ark-area.json](./40016-ark-area.json) |
 | Ark Bubble | 242562 | [242562-ark-bubble.json](./242562-ark-bubble.json) |
 | Ark Mobius | 169794 | [169794-ark-mobius.json](./169794-ark-mobius.json) |
 | Ark Noir | 82880 | [82880-ark-noir.json](./82880-ark-noir.json) |
@@ -11112,6 +11114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Brigade | 109035 | [109035-armored-brigade.json](./109035-armored-brigade.json) |
 | Armored Brigade Nation Pack: France - Belgium | 155059 | [155059-armored-brigade-nation-pack-france-belgium.json](./155059-armored-brigade-nation-pack-france-belgium.json) |
 | Armored Brigade Nation Pack: Italy - Yugoslavia | 155058 | [155058-armored-brigade-nation-pack-italy-yugoslavia.json](./155058-armored-brigade-nation-pack-italy-yugoslavia.json) |
+| Armored Car | 40015 | [40015-armored-car.json](./40015-armored-car.json) |
 | Armored Combat Tank Warfare Online | 205083 | [205083-armored-combat-tank-warfare-online.json](./205083-armored-combat-tank-warfare-online.json) |
 | Armored Core 2 | 31719 | [31719-armored-core-2.json](./31719-armored-core-2.json) |
 | Armored Core 2: Another Age | 46029 | [46029-armored-core-2-another-age.json](./46029-armored-core-2-another-age.json) |
@@ -13008,6 +13011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Recharged: Volume Two | 324500 | [324500-atari-recharged-volume-two.json](./324500-atari-recharged-volume-two.json) |
 | Atari Retro Handheld Console | 277413 | [277413-atari-retro-handheld-console.json](./277413-atari-retro-handheld-console.json) |
 | Atari Revival | 93395 | [93395-atari-revival.json](./93395-atari-revival.json) |
+| Atari Soccer | 40014 | [40014-atari-soccer.json](./40014-atari-soccer.json) |
 | Atari Vault: 50 Game Add-On Pack | 169904 | [169904-atari-vault-50-game-add-on-pack.json](./169904-atari-vault-50-game-add-on-pack.json) |
 | Atari Video Cube | 12243 | [12243-atari-video-cube.json](./12243-atari-video-cube.json) |
 | Atari's Freeway for MSX-BASIC 2 | 267560 | [267560-ataris-freeway-for-msx-basic-2.json](./267560-ataris-freeway-for-msx-basic-2.json) |
