@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tak: The Great Juju Challenge | 2780 | [2780-tak-the-great-juju-challenge.json](./2780-tak-the-great-juju-challenge.json) |
 | Taka Taka | 244162 | [244162-taka-taka.json](./244162-taka-taka.json) |
 | Takahashi Akiko no Mahjong Seminar | 54944 | [54944-takahashi-akiko-no-mahjong-seminar.json](./54944-takahashi-akiko-no-mahjong-seminar.json) |
+| Takahashi Meijin no Bouken-jima | 41748 | [41748-takahashi-meijin-no-bouken-jima.json](./41748-takahashi-meijin-no-bouken-jima.json) |
 | Takahashi Meijin no Bouken-jima IV | 84868 | [84868-takahashi-meijin-no-bouken-jima-iv.json](./84868-takahashi-meijin-no-bouken-jima-iv.json) |
 | Takahashi Meijin no Bug-tte Honey | 48662 | [48662-takahashi-meijin-no-bug-tte-honey.json](./48662-takahashi-meijin-no-bug-tte-honey.json) |
 | Takahashi Naoko no Marathon Shiyouyo | 215056 | [215056-takahashi-naoko-no-marathon-shiyouyo.json](./215056-takahashi-naoko-no-marathon-shiyouyo.json) |
@@ -5935,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coagulation | 360506 | [360506-the-coagulation.json](./360506-the-coagulation.json) |
 | The Coal Room | 323617 | [323617-the-coal-room.json](./323617-the-coal-room.json) |
 | The Cobalt Palace | 271457 | [271457-the-cobalt-palace.json](./271457-the-cobalt-palace.json) |
+| The Cockpit | 41755 | [41755-the-cockpit.json](./41755-the-cockpit.json) |
 | The Code Zone Retro Pack | 198521 | [198521-the-code-zone-retro-pack.json](./198521-the-code-zone-retro-pack.json) |
 | The Code: Room Escape | 101502 | [101502-the-code-room-escape.json](./101502-the-code-room-escape.json) |
 | The Codemasters 'Full Tilt' Racing Bundle | 99761 | [99761-the-codemasters-full-tilt-racing-bundle.json](./99761-the-codemasters-full-tilt-racing-bundle.json) |
