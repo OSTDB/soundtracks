@@ -4043,6 +4043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globulos Mania | 62447 | [62447-globulos-mania.json](./62447-globulos-mania.json) |
 | Globulos Party | 66981 | [66981-globulos-party.json](./66981-globulos-party.json) |
 | Globy | 326061 | [326061-globy.json](./326061-globy.json) |
+| Glocal Hexcite | 37529 | [37529-glocal-hexcite.json](./37529-glocal-hexcite.json) |
 | Glocktopus | 397195 | [397195-glocktopus.json](./397195-glocktopus.json) |
 | Gloctopus | 345682 | [345682-gloctopus.json](./345682-gloctopus.json) |
 | Gloggy | 261697 | [261697-gloggy.json](./261697-gloggy.json) |
