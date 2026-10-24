@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon | 14280 | [14280-backgammon.json](./14280-backgammon.json) |
 | Backgammon | 152338 | [152338-backgammon.json](./152338-backgammon.json) |
 | Backgammon | 15656 | [15656-backgammon.json](./15656-backgammon.json) |
+| Backgammon | 17254 | [17254-backgammon.json](./17254-backgammon.json) |
 | Backgammon | 214045 | [214045-backgammon.json](./214045-backgammon.json) |
 | Backgammon | 339276 | [339276-backgammon.json](./339276-backgammon.json) |
 | Backgammon | 54874 | [54874-backgammon.json](./54874-backgammon.json) |
@@ -3595,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlesloths 2025: The Great Pizza Wars | 33090 | [33090-battlesloths-2025-the-great-pizza-wars.json](./33090-battlesloths-2025-the-great-pizza-wars.json) |
 | Battlesmiths: Blade and Forge | 269762 | [269762-battlesmiths-blade-and-forge.json](./269762-battlesmiths-blade-and-forge.json) |
 | Battlesnake | 151464 | [151464-battlesnake.json](./151464-battlesnake.json) |
+| BattleSouls | 15013 | [15013-battlesouls.json](./15013-battlesouls.json) |
 | BattleSound | 151739 | [151739-battlesound.json](./151739-battlesound.json) |
 | BattleSpace | 17530 | [17530-battlespace.json](./17530-battlespace.json) |
 | Battlespace Command | 408067 | [408067-battlespace-command.json](./408067-battlespace-command.json) |
