@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammerin' Harry: Ghost Building Company | 49048 | [49048-hammerin-harry-ghost-building-company.json](./49048-hammerin-harry-ghost-building-company.json) |
 | Hammerin' Hero | 42842 | [42842-hammerin-hero.json](./42842-hammerin-hero.json) |
 | Hammerlock Wrestling | 42589 | [42589-hammerlock-wrestling.json](./42589-hammerlock-wrestling.json) |
+| Hammerting | 119217 | [119217-hammerting.json](./119217-hammerting.json) |
 | Hammerwatch II | 245805 | [245805-hammerwatch-ii.json](./245805-hammerwatch-ii.json) |
 | Hammerwatch: Anniversary Edition | 261850 | [261850-hammerwatch-anniversary-edition.json](./261850-hammerwatch-anniversary-edition.json) |
 | Hammet P.I. | 346915 | [346915-hammet-p-i.json](./346915-hammet-p-i.json) |
@@ -1916,6 +1917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Light of Hope - Special Edition: Divine Marriageable Characters Pack | 225043 | [225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json](./225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json) |
 | Harvest Moon: Light of Hope - Special Edition: Doc's & Melanie's Special Episodes | 171296 | [171296-harvest-moon-light-of-hope-special-edition-docs-and-melanies-special-episodes.json](./171296-harvest-moon-light-of-hope-special-edition-docs-and-melanies-special-episodes.json) |
 | Harvest Moon: Light of Hope - Special Edition: New Marriageable Characters Pack | 171415 | [171415-harvest-moon-light-of-hope-special-edition-new-marriageable-characters-pack.json](./171415-harvest-moon-light-of-hope-special-edition-new-marriageable-characters-pack.json) |
+| Harvest Moon: Mad Dash | 119173 | [119173-harvest-moon-mad-dash.json](./119173-harvest-moon-mad-dash.json) |
 | Harvest Moon: Magical Melody | 3386 | [3386-harvest-moon-magical-melody.json](./3386-harvest-moon-magical-melody.json) |
 | Harvest Moon: My Little Shop | 67793 | [67793-harvest-moon-my-little-shop.json](./67793-harvest-moon-my-little-shop.json) |
 | Harvest Moon: One World | 135333 | [135333-harvest-moon-one-world.json](./135333-harvest-moon-one-world.json) |
@@ -6898,6 +6900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hnefatafl | 133083 | [133083-hnefatafl.json](./133083-hnefatafl.json) |
 | Hnefatafl Online | 291399 | [291399-hnefatafl-online.json](./291399-hnefatafl-online.json) |
 | Ho Ho Ho Sokoban | 411131 | [411131-ho-ho-ho-sokoban.json](./411131-ho-ho-ho-sokoban.json) |
+| Ho Tu Lo Shu: The Books of Dragon | 110943 | [110943-ho-tu-lo-shu-the-books-of-dragon.json](./110943-ho-tu-lo-shu-the-books-of-dragon.json) |
 | Ho-Ho-Home Invasion | 141655 | [141655-ho-ho-home-invasion.json](./141655-ho-ho-home-invasion.json) |
 | Ho-Ho-Maze! | 340476 | [340476-ho-ho-maze.json](./340476-ho-ho-maze.json) |
 | Ho-K | 180470 | [180470-ho-k.json](./180470-ho-k.json) |
