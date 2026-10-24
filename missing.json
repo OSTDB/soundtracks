@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-24T02:03:52.648Z",
-  "total_missing": 253783,
+  "generated_at": "2026-10-24T02:18:40.621Z",
+  "total_missing": 253833,
   "games": [
     {
       "igdb_id": 191680,
@@ -39637,6 +39637,11 @@
       "file": "missing/A/218120-alice-in-windowland.json"
     },
     {
+      "igdb_id": 38091,
+      "game_name": "Alice in Wonderdream",
+      "file": "missing/A/38091-alice-in-wonderdream.json"
+    },
+    {
       "igdb_id": 12250,
       "game_name": "Alice in Wonderland",
       "file": "missing/A/12250-alice-in-wonderland.json"
@@ -55180,6 +55185,11 @@
       "igdb_id": 54737,
       "game_name": "Anki",
       "file": "missing/A/54737-anki.json"
+    },
+    {
+      "igdb_id": 38095,
+      "game_name": "Ankoku Densetsu",
+      "file": "missing/A/38095-ankoku-densetsu.json"
     },
     {
       "igdb_id": 48633,
@@ -101022,6 +101032,11 @@
       "file": "missing/B/168435-battle-academy-rommel-in-normandy.json"
     },
     {
+      "igdb_id": 38103,
+      "game_name": "Battle Ace",
+      "file": "missing/B/38103-battle-ace.json"
+    },
+    {
       "igdb_id": 58634,
       "game_name": "Battle Ages",
       "file": "missing/B/58634-battle-ages.json"
@@ -130067,6 +130082,11 @@
       "file": "missing/B/313263-blocus.json"
     },
     {
+      "igdb_id": 38100,
+      "game_name": "Blodia",
+      "file": "missing/B/38100-blodia.json"
+    },
+    {
       "igdb_id": 48542,
       "game_name": "Blodia Land",
       "file": "missing/B/48542-blodia-land.json"
@@ -135550,6 +135570,11 @@
       "igdb_id": 328555,
       "game_name": "Body Cam Shooter",
       "file": "missing/B/328555-body-cam-shooter.json"
+    },
+    {
+      "igdb_id": 38099,
+      "game_name": "Body Conquest II ~The Messiah~",
+      "file": "missing/B/38099-body-conquest-ii-the-messiah.json"
     },
     {
       "igdb_id": 273366,
@@ -182862,6 +182887,11 @@
       "file": "missing/C/6093-champion-tennis.json"
     },
     {
+      "igdb_id": 38092,
+      "game_name": "Champion Wrestler",
+      "file": "missing/C/38092-champion-wrestler.json"
+    },
+    {
       "igdb_id": 66482,
       "game_name": "Champion Wrestler: Jikkyou Raibu",
       "file": "missing/C/66482-champion-wrestler-jikkyou-raibu.json"
@@ -193785,6 +193815,11 @@
       "igdb_id": 38266,
       "game_name": "Chrono Trigger: Crimson Echoes",
       "file": "missing/C/38266-chrono-trigger-crimson-echoes.json"
+    },
+    {
+      "igdb_id": 38105,
+      "game_name": "Chrono Trigger: Jet Bike Special",
+      "file": "missing/C/38105-chrono-trigger-jet-bike-special.json"
     },
     {
       "igdb_id": 219077,
@@ -244827,6 +244862,16 @@
       "file": "missing/D/44415-daibakushou-jinsei-gekijoh.json"
     },
     {
+      "igdb_id": 38146,
+      "game_name": "Daibakushou: Jinsei Gekijoh - Doki-doki Seishun-hen",
+      "file": "missing/D/38146-daibakushou-jinsei-gekijoh-doki-doki-seishun-hen.json"
+    },
+    {
+      "igdb_id": 38145,
+      "game_name": "Daibakushou: Jinsei Gekijoh - Ooedo Nikki",
+      "file": "missing/D/38145-daibakushou-jinsei-gekijoh-ooedo-nikki.json"
+    },
+    {
       "igdb_id": 44416,
       "game_name": "Daibakushou: Jinsei Gekijoh - Zukkoke Salaryman-hen",
       "file": "missing/D/44416-daibakushou-jinsei-gekijoh-zukkoke-salaryman-hen.json"
@@ -270897,6 +270942,11 @@
       "file": "missing/D/412502-derby-heroines-run-bet-win.json"
     },
     {
+      "igdb_id": 38137,
+      "game_name": "Derby Jockey 2",
+      "file": "missing/D/38137-derby-jockey-2.json"
+    },
+    {
       "igdb_id": 60463,
       "game_name": "Derby Jockey: Kishou he no Michi",
       "file": "missing/D/60463-derby-jockey-kishou-he-no-michi.json"
@@ -270977,6 +271027,11 @@
       "file": "missing/D/47743-derby-stallion-64.json"
     },
     {
+      "igdb_id": 38135,
+      "game_name": "Derby Stallion 96",
+      "file": "missing/D/38135-derby-stallion-96.json"
+    },
+    {
       "igdb_id": 234888,
       "game_name": "Derby Stallion 96 Taiou: Shuboba Data",
       "file": "missing/D/234888-derby-stallion-96-taiou-shuboba-data.json"
@@ -271010,6 +271065,16 @@
       "igdb_id": 123050,
       "game_name": "Derby Stallion Gold",
       "file": "missing/D/123050-derby-stallion-gold.json"
+    },
+    {
+      "igdb_id": 38136,
+      "game_name": "Derby Stallion II",
+      "file": "missing/D/38136-derby-stallion-ii.json"
+    },
+    {
+      "igdb_id": 38134,
+      "game_name": "Derby Stallion III",
+      "file": "missing/D/38134-derby-stallion-iii.json"
     },
     {
       "igdb_id": 59387,
@@ -290092,9 +290157,19 @@
       "file": "missing/D/79598-dokapon.json"
     },
     {
+      "igdb_id": 38133,
+      "game_name": "Dokapon 3-2-1: Arashi wo Yobu Yuujou",
+      "file": "missing/D/38133-dokapon-3-2-1-arashi-wo-yobu-yuujou.json"
+    },
+    {
       "igdb_id": 3888,
       "game_name": "Dokapon DX: Wataru Sekai ha Oni Darake",
       "file": "missing/D/3888-dokapon-dx-wataru-sekai-ha-oni-darake.json"
+    },
+    {
+      "igdb_id": 38132,
+      "game_name": "Dokapon Gaiden: Honoo no Audition",
+      "file": "missing/D/38132-dokapon-gaiden-honoo-no-audition.json"
     },
     {
       "igdb_id": 21121,
@@ -291155,6 +291230,11 @@
       "igdb_id": 38209,
       "game_name": "Dolucky no Kusayakiu",
       "file": "missing/D/38209-dolucky-no-kusayakiu.json"
+    },
+    {
+      "igdb_id": 38131,
+      "game_name": "Dolucky no Puzzle Tour '94",
+      "file": "missing/D/38131-dolucky-no-puzzle-tour-94.json"
     },
     {
       "igdb_id": 248022,
@@ -296537,6 +296617,11 @@
       "file": "missing/D/79111-doraemon.json"
     },
     {
+      "igdb_id": 38128,
+      "game_name": "Doraemon 2: Nobita no Toys Land Daibouken",
+      "file": "missing/D/38128-doraemon-2-nobita-no-toys-land-daibouken.json"
+    },
+    {
       "igdb_id": 3473,
       "game_name": "Doraemon 2: Nobita to Hikari no Shinden",
       "file": "missing/D/3473-doraemon-2-nobita-to-hikari-no-shinden.json"
@@ -296550,6 +296635,11 @@
       "igdb_id": 3474,
       "game_name": "Doraemon 3: Nobita no Machi SOS!",
       "file": "missing/D/3474-doraemon-3-nobita-no-machi-sos.json"
+    },
+    {
+      "igdb_id": 38127,
+      "game_name": "Doraemon 3: Nobita to Toki no Hougyoku",
+      "file": "missing/D/38127-doraemon-3-nobita-to-toki-no-hougyoku.json"
     },
     {
       "igdb_id": 78578,
@@ -296780,6 +296870,11 @@
       "igdb_id": 349424,
       "game_name": "Doraemon: Nobita to Tetsu-jin Heidan",
       "file": "missing/D/349424-doraemon-nobita-to-tetsu-jin-heidan.json"
+    },
+    {
+      "igdb_id": 38130,
+      "game_name": "Doraemon: Nobita to Yousei no Kuni",
+      "file": "missing/D/38130-doraemon-nobita-to-yousei-no-kuni.json"
     },
     {
       "igdb_id": 144660,
@@ -303310,6 +303405,11 @@
       "igdb_id": 218553,
       "game_name": "Dragon Run Classic",
       "file": "missing/D/218553-dragon-run-classic.json"
+    },
+    {
+      "igdb_id": 38097,
+      "game_name": "Dragon Saber",
+      "file": "missing/D/38097-dragon-saber.json"
     },
     {
       "igdb_id": 71944,
@@ -436802,6 +436902,16 @@
       "file": "missing/G/88204-gomoku-online-game-hall.json"
     },
     {
+      "igdb_id": 38093,
+      "game_name": "Gomola Speed",
+      "file": "missing/G/38093-gomola-speed.json"
+    },
+    {
+      "igdb_id": 38094,
+      "game_name": "Gomola Speed",
+      "file": "missing/G/38094-gomola-speed.json"
+    },
+    {
       "igdb_id": 238351,
       "game_name": "Gomorrah",
       "file": "missing/G/238351-gomorrah.json"
@@ -470527,6 +470637,11 @@
       "file": "missing/H/330272-heise-biji.json"
     },
     {
+      "igdb_id": 38123,
+      "game_name": "Heisei Inu Monogatari Bow: Pop'n Smash",
+      "file": "missing/H/38123-heisei-inu-monogatari-bow-popn-smash.json"
+    },
+    {
       "igdb_id": 303758,
       "game_name": "Heisei Kyouiku Iinkai Jr. Mezase Yuutousei",
       "file": "missing/H/303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json"
@@ -487827,6 +487942,11 @@
       "file": "missing/H/73683-hiryuu-no-ken-s-golden-fighter.json"
     },
     {
+      "igdb_id": 38126,
+      "game_name": "Hiryuu no Ken S: Hyper Version",
+      "file": "missing/H/38126-hiryuu-no-ken-s-hyper-version.json"
+    },
+    {
       "igdb_id": 63936,
       "game_name": "Hiryuu no Ken Special: Fighting Wars",
       "file": "missing/H/63936-hiryuu-no-ken-special-fighting-wars.json"
@@ -493705,6 +493825,11 @@
       "igdb_id": 272812,
       "game_name": "Honoo no Toukyuuji: Dodge Danpei",
       "file": "missing/H/272812-honoo-no-toukyuuji-dodge-danpei.json"
+    },
+    {
+      "igdb_id": 38106,
+      "game_name": "Honoo no Toukyuuji: Dodge Danpei",
+      "file": "missing/H/38106-honoo-no-toukyuuji-dodge-danpei.json"
     },
     {
       "igdb_id": 42053,
@@ -585577,6 +585702,16 @@
       "file": "missing/L/46004-leading-company.json"
     },
     {
+      "igdb_id": 38108,
+      "game_name": "Leading Jockey",
+      "file": "missing/L/38108-leading-jockey.json"
+    },
+    {
+      "igdb_id": 38107,
+      "game_name": "Leading Jockey 2",
+      "file": "missing/L/38107-leading-jockey-2.json"
+    },
+    {
       "igdb_id": 138701,
       "game_name": "Leading Lap MPV",
       "file": "missing/L/138701-leading-lap-mpv.json"
@@ -625805,6 +625940,11 @@
       "igdb_id": 204352,
       "game_name": "Mahjong Haoh: Dankyuu Battle II",
       "file": "missing/M/204352-mahjong-haoh-dankyuu-battle-ii.json"
+    },
+    {
+      "igdb_id": 38098,
+      "game_name": "Mahjong Haouden: Kaiser's Quest",
+      "file": "missing/M/38098-mahjong-haouden-kaisers-quest.json"
     },
     {
       "igdb_id": 37937,
@@ -728462,6 +728602,16 @@
       "file": "missing/N/37741-nintama-rantarou.json"
     },
     {
+      "igdb_id": 38114,
+      "game_name": "Nintama Rantarou 2",
+      "file": "missing/N/38114-nintama-rantarou-2.json"
+    },
+    {
+      "igdb_id": 38113,
+      "game_name": "Nintama Rantarou 3",
+      "file": "missing/N/38113-nintama-rantarou-3.json"
+    },
+    {
       "igdb_id": 138095,
       "game_name": "Nintama Rantarou GB",
       "file": "missing/N/138095-nintama-rantarou-gb.json"
@@ -756747,6 +756897,11 @@
       "file": "missing/O/417651-otisdub-tag-plus.json"
     },
     {
+      "igdb_id": 38118,
+      "game_name": "Otoboke Ninja Colosseum",
+      "file": "missing/O/38118-otoboke-ninja-colosseum.json"
+    },
+    {
       "igdb_id": 395764,
       "game_name": "Otoca D'or",
       "file": "missing/O/395764-otoca-dor.json"
@@ -763512,6 +763667,11 @@
       "file": "missing/P/263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json"
     },
     {
+      "igdb_id": 38138,
+      "game_name": "Pachi-Slot Kanzen Kouryaku",
+      "file": "missing/P/38138-pachi-slot-kanzen-kouryaku.json"
+    },
+    {
       "igdb_id": 176134,
       "game_name": "Pachi-Slot Kanzen Kouryaku Uni-Colle'97",
       "file": "missing/P/176134-pachi-slot-kanzen-kouryaku-uni-colle97.json"
@@ -763710,6 +763870,16 @@
       "igdb_id": 42228,
       "game_name": "Pachio-kun Special",
       "file": "missing/P/42228-pachio-kun-special.json"
+    },
+    {
+      "igdb_id": 38141,
+      "game_name": "Pachio-kun Special 2",
+      "file": "missing/P/38141-pachio-kun-special-2.json"
+    },
+    {
+      "igdb_id": 38139,
+      "game_name": "Pachio-kun Special 3",
+      "file": "missing/P/38139-pachio-kun-special-3.json"
     },
     {
       "igdb_id": 59509,
@@ -776497,6 +776667,11 @@
       "file": "missing/P/327335-pc-mus.json"
     },
     {
+      "igdb_id": 38104,
+      "game_name": "PC Pachislot Idol Gambler",
+      "file": "missing/P/38104-pc-pachislot-idol-gambler.json"
+    },
+    {
       "igdb_id": 86039,
       "game_name": "PC Pool",
       "file": "missing/P/86039-pc-pool.json"
@@ -777155,6 +777330,11 @@
       "igdb_id": 4273,
       "game_name": "Pebble Beach Golf Links",
       "file": "missing/P/4273-pebble-beach-golf-links.json"
+    },
+    {
+      "igdb_id": 38143,
+      "game_name": "Pebble Beach no Hatou New: Tournament Edition",
+      "file": "missing/P/38143-pebble-beach-no-hatou-new-tournament-edition.json"
     },
     {
       "igdb_id": 187772,
@@ -787985,6 +788165,11 @@
       "igdb_id": 291559,
       "game_name": "Piki 2",
       "file": "missing/P/291559-piki-2.json"
+    },
+    {
+      "igdb_id": 38144,
+      "game_name": "Pikiinya!",
+      "file": "missing/P/38144-pikiinya.json"
     },
     {
       "igdb_id": 255164,
@@ -816022,6 +816207,11 @@
       "file": "missing/P/149501-power-of-the-ancients.json"
     },
     {
+      "igdb_id": 38119,
+      "game_name": "Power of the Hired",
+      "file": "missing/P/38119-power-of-the-hired.json"
+    },
+    {
       "igdb_id": 361807,
       "game_name": "Power of the Horde",
       "file": "missing/P/361807-power-of-the-horde.json"
@@ -816465,6 +816655,11 @@
       "igdb_id": 93996,
       "game_name": "Power Soccer 2",
       "file": "missing/P/93996-power-soccer-2.json"
+    },
+    {
+      "igdb_id": 38121,
+      "game_name": "Power Sokoban",
+      "file": "missing/P/38121-power-sokoban.json"
     },
     {
       "igdb_id": 251845,
@@ -928327,6 +928522,11 @@
       "file": "missing/S/72619-shin-lucky-star-moe-drill-tabidachi.json"
     },
     {
+      "igdb_id": 38129,
+      "game_name": "Shin Mahjong",
+      "file": "missing/S/38129-shin-mahjong.json"
+    },
+    {
       "igdb_id": 188085,
       "game_name": "Shin Mahjong Tenka Fubu",
       "file": "missing/S/188085-shin-mahjong-tenka-fubu.json"
@@ -959495,6 +959695,11 @@
       "igdb_id": 308565,
       "game_name": "Sokoban World",
       "file": "missing/S/308565-sokoban-world.json"
+    },
+    {
+      "igdb_id": 38102,
+      "game_name": "Sokoban World",
+      "file": "missing/S/38102-sokoban-world.json"
     },
     {
       "igdb_id": 311344,
@@ -1019242,6 +1019447,11 @@
       "file": "missing/S/266139-super-fishermind.json"
     },
     {
+      "igdb_id": 38109,
+      "game_name": "Super Fishing: Big Fight",
+      "file": "missing/S/38109-super-fishing-big-fight.json"
+    },
+    {
       "igdb_id": 105387,
       "game_name": "Super Flail",
       "file": "missing/S/105387-super-flail.json"
@@ -1050867,6 +1051077,11 @@
       "file": "missing/T/60762-tatsu-no-ko-fighter.json"
     },
     {
+      "igdb_id": 38096,
+      "game_name": "Tatsujin",
+      "file": "missing/T/38096-tatsujin.json"
+    },
+    {
       "igdb_id": 353917,
       "game_name": "Tatsunami, let's clean up!",
       "file": "missing/T/353917-tatsunami-lets-clean-up.json"
@@ -1080927,6 +1081142,11 @@
       "file": "missing/T/385190-the-great-bathroom-escape.json"
     },
     {
+      "igdb_id": 38124,
+      "game_name": "The Great Battle Gaiden 2: Matsuri da Wasshoi",
+      "file": "missing/T/38124-the-great-battle-gaiden-2-matsuri-da-wasshoi.json"
+    },
+    {
       "igdb_id": 66671,
       "game_name": "The Great Battle III",
       "file": "missing/T/66671-the-great-battle-iii.json"
@@ -1086725,6 +1086945,11 @@
       "igdb_id": 228553,
       "game_name": "The King of Golf",
       "file": "missing/T/228553-the-king-of-golf.json"
+    },
+    {
+      "igdb_id": 38111,
+      "game_name": "The King of Rally",
+      "file": "missing/T/38111-the-king-of-rally.json"
     },
     {
       "igdb_id": 157464,
@@ -1145895,6 +1146120,11 @@
       "igdb_id": 161344,
       "game_name": "Touge Challenge",
       "file": "missing/T/161344-touge-challenge.json"
+    },
+    {
+      "igdb_id": 38125,
+      "game_name": "Touge Densetsu: Saisoku Battle",
+      "file": "missing/T/38125-touge-densetsu-saisoku-battle.json"
     },
     {
       "igdb_id": 66100,
@@ -1240982,6 +1241212,11 @@
       "file": "missing/W/66581-world-sports-party.json"
     },
     {
+      "igdb_id": 38101,
+      "game_name": "World Stadium",
+      "file": "missing/W/38101-world-stadium.json"
+    },
+    {
       "igdb_id": 40569,
       "game_name": "World Stadium '90",
       "file": "missing/W/40569-world-stadium-90.json"
@@ -1263200,6 +1263435,21 @@
       "igdb_id": 241997,
       "game_name": "Zig Zag Boom",
       "file": "missing/Z/241997-zig-zag-boom.json"
+    },
+    {
+      "igdb_id": 38115,
+      "game_name": "Zig Zag Cat",
+      "file": "missing/Z/38115-zig-zag-cat.json"
+    },
+    {
+      "igdb_id": 38116,
+      "game_name": "Zig Zag Cat",
+      "file": "missing/Z/38116-zig-zag-cat.json"
+    },
+    {
+      "igdb_id": 38117,
+      "game_name": "Zig Zag Cat: Ostrich Club mo Oosawagi da",
+      "file": "missing/Z/38117-zig-zag-cat-ostrich-club-mo-oosawagi-da.json"
     },
     {
       "igdb_id": 84470,
