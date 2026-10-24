@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lacrosse Dodge | 61038 | [61038-lacrosse-dodge.json](./61038-lacrosse-dodge.json) |
 | Lacrosse Shot | 61041 | [61041-lacrosse-shot.json](./61041-lacrosse-shot.json) |
 | Lacrymo Tennis 2016 | 135065 | [135065-lacrymo-tennis-2016.json](./135065-lacrymo-tennis-2016.json) |
+| Lacuna | 138733 | [138733-lacuna.json](./138733-lacuna.json) |
 | Lacuna Draft | 220592 | [220592-lacuna-draft.json](./220592-lacuna-draft.json) |
 | Lacuna Passage | 28780 | [28780-lacuna-passage.json](./28780-lacuna-passage.json) |
 | Lacuna: Save the World Edition | 159699 | [159699-lacuna-save-the-world-edition.json](./159699-lacuna-save-the-world-edition.json) |
@@ -2618,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars II: The Original Trilogy | 194937 | [194937-lego-star-wars-ii-the-original-trilogy.json](./194937-lego-star-wars-ii-the-original-trilogy.json) |
 | LEGO Star Wars II: The Original Trilogy | 248527 | [248527-lego-star-wars-ii-the-original-trilogy.json](./248527-lego-star-wars-ii-the-original-trilogy.json) |
 | LEGO Star Wars II: The Original Trilogy | 248528 | [248528-lego-star-wars-ii-the-original-trilogy.json](./248528-lego-star-wars-ii-the-original-trilogy.json) |
+| LEGO Star Wars II: The Original Trilogy | 248529 | [248529-lego-star-wars-ii-the-original-trilogy.json](./248529-lego-star-wars-ii-the-original-trilogy.json) |
 | LEGO Star Wars II: The Original Trilogy | 335050 | [335050-lego-star-wars-ii-the-original-trilogy.json](./335050-lego-star-wars-ii-the-original-trilogy.json) |
 | LEGO Star Wars III: The Clone Wars | 194948 | [194948-lego-star-wars-iii-the-clone-wars.json](./194948-lego-star-wars-iii-the-clone-wars.json) |
 | LEGO Star Wars III: The Clone Wars | 250156 | [250156-lego-star-wars-iii-the-clone-wars.json](./250156-lego-star-wars-iii-the-clone-wars.json) |
