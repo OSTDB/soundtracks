@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valthazar's Sanctum | 266306 | [266306-valthazars-sanctum.json](./266306-valthazars-sanctum.json) |
 | Valthirian Arc: Hero School Story 2 | 163873 | [163873-valthirian-arc-hero-school-story-2.json](./163873-valthirian-arc-hero-school-story-2.json) |
 | Valtica | 413509 | [413509-valtica.json](./413509-valtica.json) |
+| Valtric | 39995 | [39995-valtric.json](./39995-valtric.json) |
 | Value 1500: O-chan no Oekaki Logic 3 | 58531 | [58531-value-1500-o-chan-no-oekaki-logic-3.json](./58531-value-1500-o-chan-no-oekaki-logic-3.json) |
 | ValueHunt | 281338 | [281338-valuehunt.json](./281338-valuehunt.json) |
 | Valve Complete Pack | 55025 | [55025-valve-complete-pack.json](./55025-valve-complete-pack.json) |
@@ -702,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vapor Memories | 184122 | [184122-vapor-memories.json](./184122-vapor-memories.json) |
 | Vapor Music Tour | 160172 | [160172-vapor-music-tour.json](./160172-vapor-music-tour.json) |
 | Vapor Tanks | 261786 | [261786-vapor-tanks.json](./261786-vapor-tanks.json) |
+| Vapor Trail | 39996 | [39996-vapor-trail.json](./39996-vapor-trail.json) |
 | Vapor Up! With Man with Apple | 260622 | [260622-vapor-up-with-man-with-apple.json](./260622-vapor-up-with-man-with-apple.json) |
 | Vapor World: Over the Mind | 172712 | [172712-vapor-world-over-the-mind.json](./172712-vapor-world-over-the-mind.json) |
 | VaporFly | 121402 | [121402-vaporfly.json](./121402-vaporfly.json) |
@@ -1852,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vilovejets | 413657 | [413657-vilovejets.json](./413657-vilovejets.json) |
 | Vilset | 137607 | [137607-vilset.json](./137607-vilset.json) |
 | Vilzam: Cosmic Struggle | 265649 | [265649-vilzam-cosmic-struggle.json](./265649-vilzam-cosmic-struggle.json) |
+| Vimana | 39997 | [39997-vimana.json](./39997-vimana.json) |
 | Vincemus: Air Combat | 195259 | [195259-vincemus-air-combat.json](./195259-vincemus-air-combat.json) |
 | Vincent | 242243 | [242243-vincent.json](./242243-vincent.json) |
 | Vincent | 310751 | [310751-vincent.json](./310751-vincent.json) |
@@ -1871,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vindicators | 198951 | [198951-vindicators.json](./198951-vindicators.json) |
 | Vindicators | 355960 | [355960-vindicators.json](./355960-vindicators.json) |
 | Vindicators | 83909 | [83909-vindicators.json](./83909-vindicators.json) |
+| Vindicators Part II | 39998 | [39998-vindicators-part-ii.json](./39998-vindicators-part-ii.json) |
 | Vindicta Arcade | 88229 | [88229-vindicta-arcade.json](./88229-vindicta-arcade.json) |
 | Vindictive Drive | 31913 | [31913-vindictive-drive.json](./31913-vindictive-drive.json) |
 | Vindictive Drive 2: Maidbot Archive | 272362 | [272362-vindictive-drive-2-maidbot-archive.json](./272362-vindictive-drive-2-maidbot-archive.json) |
