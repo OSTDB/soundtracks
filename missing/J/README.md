@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JDM Pixel Street Car Racing | 340526 | [340526-jdm-pixel-street-car-racing.json](./340526-jdm-pixel-street-car-racing.json) |
 | JDM Racing | 147854 | [147854-jdm-racing.json](./147854-jdm-racing.json) |
 | JDM Racing 2 | 147853 | [147853-jdm-racing-2.json](./147853-jdm-racing-2.json) |
+| JDM Tuner Racing | 32886 | [32886-jdm-tuner-racing.json](./32886-jdm-tuner-racing.json) |
 | Jealousy Duel X | 93347 | [93347-jealousy-duel-x.json](./93347-jealousy-duel-x.json) |
 | Jeam's Big Day | 185606 | [185606-jeams-big-day.json](./185606-jeams-big-day.json) |
 | Jean's Boutique | 197028 | [197028-jeans-boutique.json](./197028-jeans-boutique.json) |
