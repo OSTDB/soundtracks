@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 2: Fortune's Edition | 46633 | [46633-far-cry-2-fortunes-edition.json](./46633-far-cry-2-fortunes-edition.json) |
 | Far Cry 3 + 4 Double Pack | 136783 | [136783-far-cry-3-4-double-pack.json](./136783-far-cry-3-4-double-pack.json) |
 | Far Cry 3: Blood Dragon - Classic Edition | 188063 | [188063-far-cry-3-blood-dragon-classic-edition.json](./188063-far-cry-3-blood-dragon-classic-edition.json) |
+| Far Cry 3: Classic Edition | 86389 | [86389-far-cry-3-classic-edition.json](./86389-far-cry-3-classic-edition.json) |
 | Far Cry 3: High Tides | 284318 | [284318-far-cry-3-high-tides.json](./284318-far-cry-3-high-tides.json) |
 | Far Cry 3: Insane Edition | 142163 | [142163-far-cry-3-insane-edition.json](./142163-far-cry-3-insane-edition.json) |
 | Far Cry 3: Monkey Business | 229538 | [229538-far-cry-3-monkey-business.json](./229538-far-cry-3-monkey-business.json) |
@@ -3496,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 19: Ultimate Edition | 111047 | [111047-fifa-19-ultimate-edition.json](./111047-fifa-19-ultimate-edition.json) |
 | FIFA 20 | 114287 | [114287-fifa-20.json](./114287-fifa-20.json) |
 | FIFA 2000 | 229742 | [229742-fifa-2000.json](./229742-fifa-2000.json) |
+| FIFA 2000: Major League Soccer | 126294 | [126294-fifa-2000-major-league-soccer.json](./126294-fifa-2000-major-league-soccer.json) |
 | FIFA 2001: Major League Soccer | 240243 | [240243-fifa-2001-major-league-soccer.json](./240243-fifa-2001-major-league-soccer.json) |
 | FIFA 2001: Major League Soccer | 698 | [698-fifa-2001-major-league-soccer.json](./698-fifa-2001-major-league-soccer.json) |
 | FIFA 21 | 134101 | [134101-fifa-21.json](./134101-fifa-21.json) |
@@ -3583,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 97 | 45582 | [45582-fifa-soccer-97.json](./45582-fifa-soccer-97.json) |
 | FIFA Soccer Manager | 79955 | [79955-fifa-soccer-manager.json](./79955-fifa-soccer-manager.json) |
 | FIFA Soccer: Prime Stars | 58312 | [58312-fifa-soccer-prime-stars.json](./58312-fifa-soccer-prime-stars.json) |
+| FIFA Street | 5575 | [5575-fifa-street.json](./5575-fifa-street.json) |
 | FIFA Street | 5832 | [5832-fifa-street.json](./5832-fifa-street.json) |
 | FIFA Street 2 | 240364 | [240364-fifa-street-2.json](./240364-fifa-street-2.json) |
 | FIFA Street 2 | 240365 | [240365-fifa-street-2.json](./240365-fifa-street-2.json) |
@@ -4014,6 +4017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy II: Job System | 343369 | [343369-final-fantasy-ii-job-system.json](./343369-final-fantasy-ii-job-system.json) |
 | Final Fantasy III | 340017 | [340017-final-fantasy-iii.json](./340017-final-fantasy-iii.json) |
 | Final Fantasy III | 340019 | [340019-final-fantasy-iii.json](./340019-final-fantasy-iii.json) |
+| Final Fantasy III | 77234 | [77234-final-fantasy-iii.json](./77234-final-fantasy-iii.json) |
 | Final Fantasy III + Final Fantasy IV: Double Pack Edition | 301387 | [301387-final-fantasy-iii-final-fantasy-iv-double-pack-edition.json](./301387-final-fantasy-iii-final-fantasy-iv-double-pack-edition.json) |
 | Final Fantasy IV | 282725 | [282725-final-fantasy-iv.json](./282725-final-fantasy-iv.json) |
 | Final Fantasy IV | 283093 | [283093-final-fantasy-iv.json](./283093-final-fantasy-iv.json) |
@@ -4028,6 +4032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IV: Ultima | 215388 | [215388-final-fantasy-iv-ultima.json](./215388-final-fantasy-iv-ultima.json) |
 | Final Fantasy IV: Unprecedented Crisis | 215385 | [215385-final-fantasy-iv-unprecedented-crisis.json](./215385-final-fantasy-iv-unprecedented-crisis.json) |
 | Final Fantasy IX | 400428 | [400428-final-fantasy-ix.json](./400428-final-fantasy-ix.json) |
+| Final Fantasy IX | 88970 | [88970-final-fantasy-ix.json](./88970-final-fantasy-ix.json) |
 | Final Fantasy IX Remake | 309656 | [309656-final-fantasy-ix-remake.json](./309656-final-fantasy-ix-remake.json) |
 | Final Fantasy IX: Alternate Fantasy | 360108 | [360108-final-fantasy-ix-alternate-fantasy.json](./360108-final-fantasy-ix-alternate-fantasy.json) |
 | Final Fantasy Legend II DX | 364843 | [364843-final-fantasy-legend-ii-dx.json](./364843-final-fantasy-legend-ii-dx.json) |
@@ -4075,6 +4080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VI: Presentiment Era | 339252 | [339252-final-fantasy-vi-presentiment-era.json](./339252-final-fantasy-vi-presentiment-era.json) |
 | Final Fantasy VI: Revised Old Style Edition | 379343 | [379343-final-fantasy-vi-revised-old-style-edition.json](./379343-final-fantasy-vi-revised-old-style-edition.json) |
 | Final Fantasy VI: The Eternal Crystals | 309600 | [309600-final-fantasy-vi-the-eternal-crystals.json](./309600-final-fantasy-vi-the-eternal-crystals.json) |
+| Final Fantasy VII | 207026 | [207026-final-fantasy-vii.json](./207026-final-fantasy-vii.json) |
 | Final Fantasy VII | 207028 | [207028-final-fantasy-vii.json](./207028-final-fantasy-vii.json) |
 | Final Fantasy VII | 381337 | [381337-final-fantasy-vii.json](./381337-final-fantasy-vii.json) |
 | Final Fantasy VII | 392808 | [392808-final-fantasy-vii.json](./392808-final-fantasy-vii.json) |
@@ -7429,6 +7435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2021 Touch | 139257 | [139257-football-manager-2021-touch.json](./139257-football-manager-2021-touch.json) |
 | Football Manager 2021: Limited Edition | 139962 | [139962-football-manager-2021-limited-edition.json](./139962-football-manager-2021-limited-edition.json) |
 | Football Manager 2021: Xbox Edition | 142214 | [142214-football-manager-2021-xbox-edition.json](./142214-football-manager-2021-xbox-edition.json) |
+| Football Manager 2022 | 168537 | [168537-football-manager-2022.json](./168537-football-manager-2022.json) |
 | Football Manager 2022 Mobile | 187830 | [187830-football-manager-2022-mobile.json](./187830-football-manager-2022-mobile.json) |
 | Football Manager 2023 Touch | 226336 | [226336-football-manager-2023-touch.json](./226336-football-manager-2023-touch.json) |
 | Football Manager 2024 | 266382 | [266382-football-manager-2024.json](./266382-football-manager-2024.json) |
