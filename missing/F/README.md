@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-1 World Grand Prix | 248741 | [248741-f-1-world-grand-prix.json](./248741-f-1-world-grand-prix.json) |
 | F-1 World Grand Prix | 3487 | [3487-f-1-world-grand-prix.json](./3487-f-1-world-grand-prix.json) |
 | F-1 World Grand Prix for Dreamcast | 248742 | [248742-f-1-world-grand-prix-for-dreamcast.json](./248742-f-1-world-grand-prix-for-dreamcast.json) |
+| F-1 World Grand Prix II | 3488 | [3488-f-1-world-grand-prix-ii.json](./3488-f-1-world-grand-prix-ii.json) |
 | F-1 World Grand Prix II for Game Boy Color | 249131 | [249131-f-1-world-grand-prix-ii-for-game-boy-color.json](./249131-f-1-world-grand-prix-ii-for-game-boy-color.json) |
 | F-117 Night Storm | 46216 | [46216-f-117-night-storm.json](./46216-f-117-night-storm.json) |
 | F-117A Stealth Fighter | 69582 | [69582-f-117a-stealth-fighter.json](./69582-f-117a-stealth-fighter.json) |
@@ -3750,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter's History | 8564 | [8564-fighters-history.json](./8564-fighters-history.json) |
 | Fighter's History 2 | 58791 | [58791-fighters-history-2.json](./58791-fighters-history-2.json) |
 | Fighter's Rampage | 235309 | [235309-fighters-rampage.json](./235309-fighters-rampage.json) |
+| Fighters Destiny | 3496 | [3496-fighters-destiny.json](./3496-fighters-destiny.json) |
 | Fighters Kyodotai | 129612 | [129612-fighters-kyodotai.json](./129612-fighters-kyodotai.json) |
 | Fighters Megamix | 1550 | [1550-fighters-megamix.json](./1550-fighters-megamix.json) |
 | Fighters Megamix | 45821 | [45821-fighters-megamix.json](./45821-fighters-megamix.json) |
@@ -4200,6 +4202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XV Mobile | 129157 | [129157-final-fantasy-xv-mobile.json](./129157-final-fantasy-xv-mobile.json) |
 | Final Fantasy XV Multiplayer: Comrades | 76163 | [76163-final-fantasy-xv-multiplayer-comrades.json](./76163-final-fantasy-xv-multiplayer-comrades.json) |
 | Final Fantasy XV: A New Empire | 41052 | [41052-final-fantasy-xv-a-new-empire.json](./41052-final-fantasy-xv-a-new-empire.json) |
+| Final Fantasy XV: Assassin's Festival | 191559 | [191559-final-fantasy-xv-assassins-festival.json](./191559-final-fantasy-xv-assassins-festival.json) |
 | Final Fantasy XV: Day One Edition | 75681 | [75681-final-fantasy-xv-day-one-edition.json](./75681-final-fantasy-xv-day-one-edition.json) |
 | Final Fantasy XV: Deluxe Edition | 38492 | [38492-final-fantasy-xv-deluxe-edition.json](./38492-final-fantasy-xv-deluxe-edition.json) |
 | Final Fantasy XV: Episode Ardyn | 76430 | [76430-final-fantasy-xv-episode-ardyn.json](./76430-final-fantasy-xv-episode-ardyn.json) |
@@ -6867,6 +6870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flushed | 340812 | [340812-flushed.json](./340812-flushed.json) |
 | Flushed Away | 243193 | [243193-flushed-away.json](./243193-flushed-away.json) |
 | Flushed Away | 243194 | [243194-flushed-away.json](./243194-flushed-away.json) |
+| Flushed Away | 3917 | [3917-flushed-away.json](./3917-flushed-away.json) |
 | Flushed Regrets | 257089 | [257089-flushed-regrets.json](./257089-flushed-regrets.json) |
 | FlushFall | 369355 | [369355-flushfall.json](./369355-flushfall.json) |
 | Fluster Cluck | 52210 | [52210-fluster-cluck.json](./52210-fluster-cluck.json) |
@@ -9213,6 +9217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddi Fish 3: The Case of the Stolen Conch Shell | 3745 | [3745-freddi-fish-3-the-case-of-the-stolen-conch-shell.json](./3745-freddi-fish-3-the-case-of-the-stolen-conch-shell.json) |
 | Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch | 3746 | [3746-freddi-fish-4-the-case-of-the-hogfish-rustlers-of-briny-gulch.json](./3746-freddi-fish-4-the-case-of-the-hogfish-rustlers-of-briny-gulch.json) |
 | Freddi Fish 5: The Case of the Creature of Coral Cove | 3747 | [3747-freddi-fish-5-the-case-of-the-creature-of-coral-cove.json](./3747-freddi-fish-5-the-case-of-the-creature-of-coral-cove.json) |
+| Freddi Fish and Luther's Maze Madness | 3748 | [3748-freddi-fish-and-luthers-maze-madness.json](./3748-freddi-fish-and-luthers-maze-madness.json) |
 | Freddi Fish and Luther's Water Worries | 17296 | [17296-freddi-fish-and-luthers-water-worries.json](./17296-freddi-fish-and-luthers-water-worries.json) |
 | Freddi Fish and The Case of the Missing Kelp Seeds | 3743 | [3743-freddi-fish-and-the-case-of-the-missing-kelp-seeds.json](./3743-freddi-fish-and-the-case-of-the-missing-kelp-seeds.json) |
 | Freddi Fish Collection | 300717 | [300717-freddi-fish-collection.json](./300717-freddi-fish-collection.json) |
