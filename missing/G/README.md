@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gabibbo Massacre | 319168 | [319168-gabibbo-massacre.json](./319168-gabibbo-massacre.json) |
 | Gabriel Knight 3: Blood of the Sacred, Blood of the Damned | 1252 | [1252-gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned.json](./1252-gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned.json) |
 | Gabriel Knight: Sins of the Fathers | 1250 | [1250-gabriel-knight-sins-of-the-fathers.json](./1250-gabriel-knight-sins-of-the-fathers.json) |
+| Gabriel Knight: Sins of the Fathers - 20th Anniversary Edition | 7859 | [7859-gabriel-knight-sins-of-the-fathers-20th-anniversary-edition.json](./7859-gabriel-knight-sins-of-the-fathers-20th-anniversary-edition.json) |
 | Gabriel's Auditory Playground | 197365 | [197365-gabriels-auditory-playground.json](./197365-gabriels-auditory-playground.json) |
 | Gabriel's Worlds: The Adventure | 163954 | [163954-gabriels-worlds-the-adventure.json](./163954-gabriels-worlds-the-adventure.json) |
 | Gabriel’s Worlds: The Sokoban Adventure | 378192 | [378192-gabriel-s-worlds-the-sokoban-adventure.json](./378192-gabriel-s-worlds-the-sokoban-adventure.json) |
@@ -1643,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gargouti Simulator | 351775 | [351775-gargouti-simulator.json](./351775-gargouti-simulator.json) |
 | Gargoyle Garden | 386883 | [386883-gargoyle-garden.json](./386883-gargoyle-garden.json) |
 | Gargoyle Ruins | 175331 | [175331-gargoyle-ruins.json](./175331-gargoyle-ruins.json) |
+| Gargoyle's Quest | 15934 | [15934-gargoyles-quest.json](./15934-gargoyles-quest.json) |
 | Gargoyles Remastered | 216282 | [216282-gargoyles-remastered.json](./216282-gargoyles-remastered.json) |
 | Gargoyles: Night Flight | 198745 | [198745-gargoyles-night-flight.json](./198745-gargoyles-night-flight.json) |
 | Garin Game: Curse of Revival Ceremony | 214747 | [214747-garin-game-curse-of-revival-ceremony.json](./214747-garin-game-curse-of-revival-ceremony.json) |
@@ -3113,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Recon: Heroes Unleashed | 283119 | [283119-ghost-recon-heroes-unleashed.json](./283119-ghost-recon-heroes-unleashed.json) |
 | Ghost Restaurant | 390599 | [390599-ghost-restaurant.json](./390599-ghost-restaurant.json) |
 | Ghost Rider | 218142 | [218142-ghost-rider.json](./218142-ghost-rider.json) |
+| Ghost Rider | 6420 | [6420-ghost-rider.json](./6420-ghost-rider.json) |
 | Ghost Road | 272707 | [272707-ghost-road.json](./272707-ghost-road.json) |
 | Ghost Room | 291882 | [291882-ghost-room.json](./291882-ghost-room.json) |
 | Ghost Run | 53082 | [53082-ghost-run.json](./53082-ghost-run.json) |
