@@ -1526,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp Destroyer | 234775 | [234775-warp-destroyer.json](./234775-warp-destroyer.json) |
 | Warp Drive | 143530 | [143530-warp-drive.json](./143530-warp-drive.json) |
 | Warp Factor | 131830 | [131830-warp-factor.json](./131830-warp-factor.json) |
+| Warp Frontier | 149117 | [149117-warp-frontier.json](./149117-warp-frontier.json) |
 | Warp Gate World Kingdom Tales | 254653 | [254653-warp-gate-world-kingdom-tales.json](./254653-warp-gate-world-kingdom-tales.json) |
 | Warp Glider | 112073 | [112073-warp-glider.json](./112073-warp-glider.json) |
 | Warp Knights | 391891 | [391891-warp-knights.json](./391891-warp-knights.json) |
@@ -3238,7 +3239,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
