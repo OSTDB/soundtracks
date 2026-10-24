@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon Gold | 33852 | [33852-falcon-gold.json](./33852-falcon-gold.json) |
 | Falcon Operation: Counterstrike | 73738 | [73738-falcon-operation-counterstrike.json](./73738-falcon-operation-counterstrike.json) |
 | Falcon Operation: Firefight | 70781 | [70781-falcon-operation-firefight.json](./70781-falcon-operation-firefight.json) |
+| Falcon Patrol 2 | 18963 | [18963-falcon-patrol-2.json](./18963-falcon-patrol-2.json) |
 | Falcon Patrol II | 40945 | [40945-falcon-patrol-ii.json](./40945-falcon-patrol-ii.json) |
 | Falcon Simulator | 86859 | [86859-falcon-simulator.json](./86859-falcon-simulator.json) |
 | Falcon Squad | 227953 | [227953-falcon-squad.json](./227953-falcon-squad.json) |
