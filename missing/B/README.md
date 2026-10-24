@@ -7964,6 +7964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasteroids | 11967 | [11967-blasteroids.json](./11967-blasteroids.json) |
 | Blasteroids | 371558 | [371558-blasteroids.json](./371558-blasteroids.json) |
 | Blasteron | 75176 | [75176-blasteron.json](./75176-blasteron.json) |
+| Blasters of the Universe | 32845 | [32845-blasters-of-the-universe.json](./32845-blasters-of-the-universe.json) |
 | Blastforge Breach | 368628 | [368628-blastforge-breach.json](./368628-blastforge-breach.json) |
 | BlastFort | 164265 | [164265-blastfort.json](./164265-blastfort.json) |
 | Blastful | 147122 | [147122-blastful.json](./147122-blastful.json) |
@@ -9953,6 +9954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boidtrancer | 295625 | [295625-boidtrancer.json](./295625-boidtrancer.json) |
 | Boil Cabbage Make Soup | 414516 | [414516-boil-cabbage-make-soup.json](./414516-boil-cabbage-make-soup.json) |
 | Boil Noodles at Night | 270733 | [270733-boil-noodles-at-night.json](./270733-boil-noodles-at-night.json) |
+| Boiling Bolt | 32983 | [32983-boiling-bolt.json](./32983-boiling-bolt.json) |
 | Boiling Over | 207168 | [207168-boiling-over.json](./207168-boiling-over.json) |
 | Boiling Point: Road to Hell | 9508 | [9508-boiling-point-road-to-hell.json](./9508-boiling-point-road-to-hell.json) |
 | Boin | 394455 | [394455-boin.json](./394455-boin.json) |
@@ -13929,6 +13931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Dodge | 38723 | [38723-bullet-dodge.json](./38723-bullet-dodge.json) |
 | Bullet Echo | 142122 | [142122-bullet-echo.json](./142122-bullet-echo.json) |
 | Bullet Express | 185477 | [185477-bullet-express.json](./185477-bullet-express.json) |
+| Bullet Force | 33306 | [33306-bullet-force.json](./33306-bullet-force.json) |
 | Bullet Fractals | 181894 | [181894-bullet-fractals.json](./181894-bullet-fractals.json) |
 | Bullet Frenzy | 269041 | [269041-bullet-frenzy.json](./269041-bullet-frenzy.json) |
 | Bullet Girls | 8683 | [8683-bullet-girls.json](./8683-bullet-girls.json) |
