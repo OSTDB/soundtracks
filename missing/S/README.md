@@ -6482,6 +6482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes Consulting Detective Complete | 147288 | [147288-sherlock-holmes-consulting-detective-complete.json](./147288-sherlock-holmes-consulting-detective-complete.json) |
 | Sherlock Holmes Consulting Detective: Collection | 78363 | [78363-sherlock-holmes-consulting-detective-collection.json](./78363-sherlock-holmes-consulting-detective-collection.json) |
 | Sherlock Holmes Consulting Detective: The Case of Banker's Final Debt | 259177 | [259177-sherlock-holmes-consulting-detective-the-case-of-bankers-final-debt.json](./259177-sherlock-holmes-consulting-detective-the-case-of-bankers-final-debt.json) |
+| Sherlock Holmes Consulting Detective: The Case of the Tin Soldier | 35062 | [35062-sherlock-holmes-consulting-detective-the-case-of-the-tin-soldier.json](./35062-sherlock-holmes-consulting-detective-the-case-of-the-tin-soldier.json) |
 | Sherlock Holmes Consulting Detective: Volume III | 73685 | [73685-sherlock-holmes-consulting-detective-volume-iii.json](./73685-sherlock-holmes-consulting-detective-volume-iii.json) |
 | Sherlock Holmes Essential Bundle | 201013 | [201013-sherlock-holmes-essential-bundle.json](./201013-sherlock-holmes-essential-bundle.json) |
 | Sherlock Holmes i el cas d'Arthur Gordon Pym | 345023 | [345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json](./345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json) |
@@ -18090,6 +18091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splodey | 282965 | [282965-splodey.json](./282965-splodey.json) |
 | Splodey Vaders | 134262 | [134262-splodey-vaders.json](./134262-splodey-vaders.json) |
 | Splodge Royale | 190166 | [190166-splodge-royale.json](./190166-splodge-royale.json) |
+| Splody | 32704 | [32704-splody.json](./32704-splody.json) |
 | Splort | 312175 | [312175-splort.json](./312175-splort.json) |
 | Splosion Man | 8354 | [8354-splosion-man.json](./8354-splosion-man.json) |
 | Splotches | 60436 | [60436-splotches.json](./60436-splotches.json) |
@@ -18870,6 +18872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaredance | 58308 | [58308-squaredance.json](./58308-squaredance.json) |
 | Squaredle | 213881 | [213881-squaredle.json](./213881-squaredle.json) |
 | Squareface | 31585 | [31585-squareface.json](./31585-squareface.json) |
+| Squarelands | 34956 | [34956-squarelands.json](./34956-squarelands.json) |
 | Squarelaxy | 137350 | [137350-squarelaxy.json](./137350-squarelaxy.json) |
 | Squarelaxy | 183326 | [183326-squarelaxy.json](./183326-squarelaxy.json) |
 | Squarelets | 297054 | [297054-squarelets.json](./297054-squarelets.json) |
@@ -22938,6 +22941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Vendor Simulator | 347330 | [347330-street-vendor-simulator.json](./347330-street-vendor-simulator.json) |
 | Street volleyball: Invitation | 220671 | [220671-street-volleyball-invitation.json](./220671-street-volleyball-invitation.json) |
 | Street Warrior | 44621 | [44621-street-warrior.json](./44621-street-warrior.json) |
+| Street Warriors Online | 34067 | [34067-street-warriors-online.json](./34067-street-warriors-online.json) |
 | Street-food Tycoon Chef Fever: World Cook-ing Star | 248067 | [248067-street-food-tycoon-chef-fever-world-cook-ing-star.json](./248067-street-food-tycoon-chef-fever-world-cook-ing-star.json) |
 | Streetball 2: On Fire | 256168 | [256168-streetball-2-on-fire.json](./256168-streetball-2-on-fire.json) |
 | Streetball Allstar: Showdown | 244092 | [244092-streetball-allstar-showdown.json](./244092-streetball-allstar-showdown.json) |
@@ -24184,6 +24188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumetrick | 81621 | [81621-sumetrick.json](./81621-sumetrick.json) |
 | Sumi Sumi | 108511 | [108511-sumi-sumi.json](./108511-sumi-sumi.json) |
 | Sumi Sumi Party: Tap Puzzle | 235158 | [235158-sumi-sumi-party-tap-puzzle.json](./235158-sumi-sumi-party-tap-puzzle.json) |
+| Sumico: The Numbers Game | 34952 | [34952-sumico-the-numbers-game.json](./34952-sumico-the-numbers-game.json) |
 | Sumigami | 334171 | [334171-sumigami.json](./334171-sumigami.json) |
 | Sumiii | 219585 | [219585-sumiii.json](./219585-sumiii.json) |
 | SumiKen: Ink Blade Samurai | 208951 | [208951-sumiken-ink-blade-samurai.json](./208951-sumiken-ink-blade-samurai.json) |
@@ -24389,6 +24394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumo | 110716 | [110716-sumo.json](./110716-sumo.json) |
 | Sumo | 281686 | [281686-sumo.json](./281686-sumo.json) |
 | Sumo | 303084 | [303084-sumo.json](./303084-sumo.json) |
+| Sumo Revise | 35024 | [35024-sumo-revise.json](./35024-sumo-revise.json) |
 | Sumo Rumble | 307974 | [307974-sumo-rumble.json](./307974-sumo-rumble.json) |
 | Sumo Seals | 211612 | [211612-sumo-seals.json](./211612-sumo-seals.json) |
 | Sumo Smashdown | 177246 | [177246-sumo-smashdown.json](./177246-sumo-smashdown.json) |
@@ -28930,6 +28936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Bones: Extended Edition | 239494 | [239494-swords-and-bones-extended-edition.json](./239494-swords-and-bones-extended-edition.json) |
 | Swords & Bones: Premium Edition | 244819 | [244819-swords-and-bones-premium-edition.json](./244819-swords-and-bones-premium-edition.json) |
 | Swords & Bones: Special Edition | 242054 | [242054-swords-and-bones-special-edition.json](./242054-swords-and-bones-special-edition.json) |
+| Swords & Crossbones: An Epic Pirate Story | 34915 | [34915-swords-and-crossbones-an-epic-pirate-story.json](./34915-swords-and-crossbones-an-epic-pirate-story.json) |
 | Swords & Crystals | 268947 | [268947-swords-and-crystals.json](./268947-swords-and-crystals.json) |
 | Swords & Crystals: Dragon Hatchling Pet | 298185 | [298185-swords-and-crystals-dragon-hatchling-pet.json](./298185-swords-and-crystals-dragon-hatchling-pet.json) |
 | Swords & Darkness | 85411 | [85411-swords-and-darkness.json](./85411-swords-and-darkness.json) |
