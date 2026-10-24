@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Beauty | 326256 | [326256-zen-beauty.json](./326256-zen-beauty.json) |
 | Zen Blocks | 74480 | [74480-zen-blocks.json](./74480-zen-blocks.json) |
 | Zen Blossom | 220221 | [220221-zen-blossom.json](./220221-zen-blossom.json) |
+| Zen Bound | 15102 | [15102-zen-bound.json](./15102-zen-bound.json) |
 | Zen Bound 2 | 15063 | [15063-zen-bound-2.json](./15063-zen-bound-2.json) |
 | Zen Chess Collection | 125752 | [125752-zen-chess-collection.json](./125752-zen-chess-collection.json) |
 | Zen Chess: Blindfold Masters | 125730 | [125730-zen-chess-blindfold-masters.json](./125730-zen-chess-blindfold-masters.json) |
