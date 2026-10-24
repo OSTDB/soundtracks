@@ -12551,6 +12551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monophobia | 122821 | [122821-monophobia.json](./122821-monophobia.json) |
 | Monophobia | 395993 | [395993-monophobia.json](./395993-monophobia.json) |
 | Monopolist: Technological Revolution | 105143 | [105143-monopolist-technological-revolution.json](./105143-monopolist-technological-revolution.json) |
+| Monopolka | 68592 | [68592-monopolka.json](./68592-monopolka.json) |
 | Monopoly | 131463 | [131463-monopoly.json](./131463-monopoly.json) |
 | Monopoly | 131548 | [131548-monopoly.json](./131548-monopoly.json) |
 | Monopoly | 186723 | [186723-monopoly.json](./186723-monopoly.json) |
@@ -12563,6 +12564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly | 335112 | [335112-monopoly.json](./335112-monopoly.json) |
 | Monopoly | 335884 | [335884-monopoly.json](./335884-monopoly.json) |
 | Monopoly | 37740 | [37740-monopoly.json](./37740-monopoly.json) |
+| Monopoly / Boggle / Yahtzee / Battleship | 82281 | [82281-monopoly-boggle-yahtzee-battleship.json](./82281-monopoly-boggle-yahtzee-battleship.json) |
 | Monopoly and Monopoly Madness | 178280 | [178280-monopoly-and-monopoly-madness.json](./178280-monopoly-and-monopoly-madness.json) |
 | Monopoly Casino | 78950 | [78950-monopoly-casino.json](./78950-monopoly-casino.json) |
 | Monopoly City | 275217 | [275217-monopoly-city.json](./275217-monopoly-city.json) |
