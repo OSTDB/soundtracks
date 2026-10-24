@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zapper | 202182 | [202182-zapper.json](./202182-zapper.json) |
 | Zapper: One Wicked Cricket! | 4583 | [4583-zapper-one-wicked-cricket.json](./4583-zapper-one-wicked-cricket.json) |
 | ZAR | 161374 | [161374-zar.json](./161374-zar.json) |
+| Zarathrusta | 28514 | [28514-zarathrusta.json](./28514-zarathrusta.json) |
 | Zarathustra: Cybergeddon | 276096 | [276096-zarathustra-cybergeddon.json](./276096-zarathustra-cybergeddon.json) |
 | Zardoz | 106301 | [106301-zardoz.json](./106301-zardoz.json) |
 | Zardy's Maze | 139234 | [139234-zardys-maze.json](./139234-zardys-maze.json) |
@@ -378,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeebo Sports Vôlei | 92374 | [92374-zeebo-sports-volei.json](./92374-zeebo-sports-volei.json) |
 | Zeemenshu -Aftermath- | 415463 | [415463-zeemenshu-aftermath.json](./415463-zeemenshu-aftermath.json) |
 | Zeeverse | 224119 | [224119-zeeverse.json](./224119-zeeverse.json) |
+| Zeewolf 2: Wild Justice | 28516 | [28516-zeewolf-2-wild-justice.json](./28516-zeewolf-2-wild-justice.json) |
 | Zefira | 119000 | [119000-zefira.json](./119000-zefira.json) |
 | ZeGame | 19346 | [19346-zegame.json](./19346-zegame.json) |
 | Zegapain NOT | 68015 | [68015-zegapain-not.json](./68015-zegapain-not.json) |
@@ -722,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Glide VR | 334854 | [334854-zero-glide-vr.json](./334854-zero-glide-vr.json) |
 | Zero Gravity | 106303 | [106303-zero-gravity.json](./106303-zero-gravity.json) |
 | Zero Gravity | 229795 | [229795-zero-gravity.json](./229795-zero-gravity.json) |
+| Zero Gravity | 28517 | [28517-zero-gravity.json](./28517-zero-gravity.json) |
 | Zero Gravity Pool | 81990 | [81990-zero-gravity-pool.json](./81990-zero-gravity-pool.json) |
 | Zero Grounds | 249073 | [249073-zero-grounds.json](./249073-zero-grounds.json) |
 | Zero Gunner 2 | 21014 | [21014-zero-gunner-2.json](./21014-zero-gunner-2.json) |
