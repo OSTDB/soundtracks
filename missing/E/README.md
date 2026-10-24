@@ -1785,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electroplankton Trapy | 85110 | [85110-electroplankton-trapy.json](./85110-electroplankton-trapy.json) |
 | Electroplankton Varvoice | 85109 | [85109-electroplankton-varvoice.json](./85109-electroplankton-varvoice.json) |
 | Electroquest: Resistance is Futile | 101310 | [101310-electroquest-resistance-is-futile.json](./101310-electroquest-resistance-is-futile.json) |
+| Elefunk | 21808 | [21808-elefunk.json](./21808-elefunk.json) |
 | Elegant Sleuth: Mystic Family | 349311 | [349311-elegant-sleuth-mystic-family.json](./349311-elegant-sleuth-mystic-family.json) |
 | Elegos | 197069 | [197069-elegos.json](./197069-elegos.json) |
 | Elegy for a Dead World | 16680 | [16680-elegy-for-a-dead-world.json](./16680-elegy-for-a-dead-world.json) |
@@ -2156,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elman España: Anarchy | 121364 | [121364-elman-espana-anarchy.json](./121364-elman-espana-anarchy.json) |
 | Elmarion: The Lost Temple | 149894 | [149894-elmarion-the-lost-temple.json](./149894-elmarion-the-lost-temple.json) |
 | Elmin | 345588 | [345588-elmin.json](./345588-elmin.json) |
+| Elminage Gothic | 17210 | [17210-elminage-gothic.json](./17210-elminage-gothic.json) |
 | Elminage Gothic 3D Remix: Ulm Zakir to Yami no Gishiki | 136933 | [136933-elminage-gothic-3d-remix-ulm-zakir-to-yami-no-gishiki.json](./136933-elminage-gothic-3d-remix-ulm-zakir-to-yami-no-gishiki.json) |
 | Elminage III: Ankoku no Shito to Taiyou no Kyuuden | 38468 | [38468-elminage-iii-ankoku-no-shito-to-taiyou-no-kyuuden.json](./38468-elminage-iii-ankoku-no-shito-to-taiyou-no-kyuuden.json) |
 | Elminage Original | 21033 | [21033-elminage-original.json](./21033-elminage-original.json) |
