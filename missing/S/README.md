@@ -17939,6 +17939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spookity Hollow | 170549 | [170549-spookity-hollow.json](./170549-spookity-hollow.json) |
 | Spooklands | 61064 | [61064-spooklands.json](./61064-spooklands.json) |
 | Spooks | 135717 | [135717-spooks.json](./135717-spooks.json) |
+| Spooks | 41137 | [41137-spooks.json](./41137-spooks.json) |
 | Spookshow | 371956 | [371956-spookshow.json](./371956-spookshow.json) |
 | Spookulele | 204715 | [204715-spookulele.json](./204715-spookulele.json) |
 | Spookville: Cabin Escape | 291298 | [291298-spookville-cabin-escape.json](./291298-spookville-cabin-escape.json) |
@@ -18391,6 +18392,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Swatter 2 | 219643 | [219643-spy-swatter-2.json](./219643-spy-swatter-2.json) |
 | Spy Tactics | 120359 | [120359-spy-tactics.json](./120359-spy-tactics.json) |
 | Spy vs Spy III: Arctic Antics | 12773 | [12773-spy-vs-spy-iii-arctic-antics.json](./12773-spy-vs-spy-iii-arctic-antics.json) |
+| Spy vs. Spy 2 | 41163 | [41163-spy-vs-spy-2.json](./41163-spy-vs-spy-2.json) |
+| Spy vs. Spy 3 | 41162 | [41162-spy-vs-spy-3.json](./41162-spy-vs-spy-3.json) |
 | Spy vs. Spy II: The Island Caper | 12772 | [12772-spy-vs-spy-ii-the-island-caper.json](./12772-spy-vs-spy-ii-the-island-caper.json) |
 | Spy vs. Spy Trilogy | 71431 | [71431-spy-vs-spy-trilogy.json](./71431-spy-vs-spy-trilogy.json) |
 | Spy vs. Spy: Operation - Booby Trap | 48925 | [48925-spy-vs-spy-operation-booby-trap.json](./48925-spy-vs-spy-operation-booby-trap.json) |
@@ -26701,6 +26704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superbeat: Xonic - The X-Clusive Limited Edition | 89913 | [89913-superbeat-xonic-the-x-clusive-limited-edition.json](./89913-superbeat-xonic-the-x-clusive-limited-edition.json) |
 | Superbeat: Xonic - The X-Otic Limited Edition | 89912 | [89912-superbeat-xonic-the-x-otic-limited-edition.json](./89912-superbeat-xonic-the-x-otic-limited-edition.json) |
 | Superbike 2000 | 886 | [886-superbike-2000.json](./886-superbike-2000.json) |
+| Superbike Challenge | 41145 | [41145-superbike-challenge.json](./41145-superbike-challenge.json) |
 | Superbike GP | 43328 | [43328-superbike-gp.json](./43328-superbike-gp.json) |
 | Superbike Masters | 43860 | [43860-superbike-masters.json](./43860-superbike-masters.json) |
 | Superbike Racing | 54415 | [54415-superbike-racing.json](./54415-superbike-racing.json) |
