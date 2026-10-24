@@ -2135,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Klowns From Outer Space: Infernal Ranger - Fluxo | 304471 | [304471-killer-klowns-from-outer-space-infernal-ranger-fluxo.json](./304471-killer-klowns-from-outer-space-infernal-ranger-fluxo.json) |
 | Killer Klowns From Outer Space: Infernal Tank - Gutso | 322736 | [322736-killer-klowns-from-outer-space-infernal-tank-gutso.json](./322736-killer-klowns-from-outer-space-infernal-tank-gutso.json) |
 | Killer Klowns From Outer Space: Infernal Tracker - Slappy | 322734 | [322734-killer-klowns-from-outer-space-infernal-tracker-slappy.json](./322734-killer-klowns-from-outer-space-infernal-tracker-slappy.json) |
+| Killer Klowns from Outer Space: The Game | 214411 | [214411-killer-klowns-from-outer-space-the-game.json](./214411-killer-klowns-from-outer-space-the-game.json) |
 | Killer Klowns From Outer Space: The Game - Digital Deluxe Edition | 303285 | [303285-killer-klowns-from-outer-space-the-game-digital-deluxe-edition.json](./303285-killer-klowns-from-outer-space-the-game-digital-deluxe-edition.json) |
 | Killer Koobs | 224078 | [224078-killer-koobs.json](./224078-killer-koobs.json) |
 | Killer Loop | 45210 | [45210-killer-loop.json](./45210-killer-loop.json) |
@@ -2268,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -4826,6 +4828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kulm Skiflug WM 2016 | 18965 | [18965-kulm-skiflug-wm-2016.json](./18965-kulm-skiflug-wm-2016.json) |
 | KuloNiku: Bowl Up! | 346735 | [346735-kuloniku-bowl-up.json](./346735-kuloniku-bowl-up.json) |
 | Kult of Ktulu: Olympic | 29629 | [29629-kult-of-ktulu-olympic.json](./29629-kult-of-ktulu-olympic.json) |
+| Kult: Heretic Kingdoms | 9675 | [9675-kult-heretic-kingdoms.json](./9675-kult-heretic-kingdoms.json) |
 | Kuma no Pooh-San: 100 Acre no Mori no Cooking Book | 130752 | [130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json](./130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json) |
 | Kuma no Puutarou: Takara Sagashi da Ohiri Game Battle! | 228600 | [228600-kuma-no-puutarou-takara-sagashi-da-ohiri-game-battle.json](./228600-kuma-no-puutarou-takara-sagashi-da-ohiri-game-battle.json) |
 | Kuma Story | 170046 | [170046-kuma-story.json](./170046-kuma-story.json) |
