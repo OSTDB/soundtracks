@@ -7585,6 +7585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fifth Bell | 370770 | [370770-the-fifth-bell.json](./370770-the-fifth-bell.json) |
 | The Fifth Day | 17599 | [17599-the-fifth-day.json](./17599-the-fifth-day.json) |
 | The Fifth Disciple | 73185 | [73185-the-fifth-disciple.json](./73185-the-fifth-disciple.json) |
+| The Fifth Element | 50805 | [50805-the-fifth-element.json](./50805-the-fifth-element.json) |
 | The Fifth Expedition | 33260 | [33260-the-fifth-expedition.json](./33260-the-fifth-expedition.json) |
 | The Fifth Horseman | 118058 | [118058-the-fifth-horseman.json](./118058-the-fifth-horseman.json) |
 | The Fifth Paradox | 232710 | [232710-the-fifth-paradox.json](./232710-the-fifth-paradox.json) |
@@ -11458,7 +11459,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -15426,6 +15426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher 3: Wild Hunt - New Quest 'Where the Cat and Wolf Play...' | 170449 | [170449-the-witcher-3-wild-hunt-new-quest-where-the-cat-and-wolf-play.json](./170449-the-witcher-3-wild-hunt-new-quest-where-the-cat-and-wolf-play.json) |
 | The Witcher 3: Wild Hunt - Songs of the Past | 403150 | [403150-the-witcher-3-wild-hunt-songs-of-the-past.json](./403150-the-witcher-3-wild-hunt-songs-of-the-past.json) |
 | The Witcher 3: Wild Hunt + Dark Souls III | 141472 | [141472-the-witcher-3-wild-hunt-dark-souls-iii.json](./141472-the-witcher-3-wild-hunt-dark-souls-iii.json) |
+| The Witcher Battle Arena | 9689 | [9689-the-witcher-battle-arena.json](./9689-the-witcher-battle-arena.json) |
 | The Witcher Franchise Bundle | 154960 | [154960-the-witcher-franchise-bundle.json](./154960-the-witcher-franchise-bundle.json) |
 | The Witcher Remake | 220277 | [220277-the-witcher-remake.json](./220277-the-witcher-remake.json) |
 | The Witcher: Crimson Trail | 187249 | [187249-the-witcher-crimson-trail.json](./187249-the-witcher-crimson-trail.json) |
@@ -18899,6 +18900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tintin in Tibet | 249147 | [249147-tintin-in-tibet.json](./249147-tintin-in-tibet.json) |
 | Tintin in Tibet | 249148 | [249148-tintin-in-tibet.json](./249148-tintin-in-tibet.json) |
 | Tintin in Tibet | 249149 | [249149-tintin-in-tibet.json](./249149-tintin-in-tibet.json) |
+| Tintin in Tibet | 46493 | [46493-tintin-in-tibet.json](./46493-tintin-in-tibet.json) |
 | Tintin on the Moon | 12797 | [12797-tintin-on-the-moon.json](./12797-tintin-on-the-moon.json) |
 | Tintin on the Moon | 316928 | [316928-tintin-on-the-moon.json](./316928-tintin-on-the-moon.json) |
 | Tintin Reporter: Cigars of the Pharaoh | 223863 | [223863-tintin-reporter-cigars-of-the-pharaoh.json](./223863-tintin-reporter-cigars-of-the-pharaoh.json) |
@@ -20895,6 +20897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torej 3 | 67922 | [67922-torej-3.json](./67922-torej-3.json) |
 | Torej 4 | 67921 | [67921-torej-4.json](./67921-torej-4.json) |
 | Torej: Red Cubes | 61611 | [61611-torej-red-cubes.json](./61611-torej-red-cubes.json) |
+| Toren | 10240 | [10240-toren.json](./10240-toren.json) |
 | Toren: Deluxe Edition | 51803 | [51803-toren-deluxe-edition.json](./51803-toren-deluxe-edition.json) |
 | Torevetchi | 230184 | [230184-torevetchi.json](./230184-torevetchi.json) |
 | Torgar's Quest | 33361 | [33361-torgars-quest.json](./33361-torgars-quest.json) |
