@@ -6467,6 +6467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Star | 187043 | [187043-rising-star.json](./187043-rising-star.json) |
 | Rising Star: The Horse Game | 220707 | [220707-rising-star-the-horse-game.json](./220707-rising-star-the-horse-game.json) |
 | Rising Storm 2: Vietnam | 18166 | [18166-rising-storm-2-vietnam.json](./18166-rising-storm-2-vietnam.json) |
+| Rising Storm/Red Orchestra 2 Multiplayer | 93834 | [93834-rising-storm-red-orchestra-2-multiplayer.json](./93834-rising-storm-red-orchestra-2-multiplayer.json) |
 | Rising Sun | 850 | [850-rising-sun.json](./850-rising-sun.json) |
 | Rising Sun Mahjong | 257079 | [257079-rising-sun-mahjong.json](./257079-rising-sun-mahjong.json) |
 | Rising Sun VR | 193125 | [193125-rising-sun-vr.json](./193125-rising-sun-vr.json) |
