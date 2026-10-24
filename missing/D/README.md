@@ -939,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danmaku Shimai: La soeur de barrage | 286593 | [286593-danmaku-shimai-la-soeur-de-barrage.json](./286593-danmaku-shimai-la-soeur-de-barrage.json) |
 | Danmaku Unlimited | 124756 | [124756-danmaku-unlimited.json](./124756-danmaku-unlimited.json) |
 | Danmaku Unlimited 2 | 17107 | [17107-danmaku-unlimited-2.json](./17107-danmaku-unlimited-2.json) |
+| Danmaku Unlimited 3 | 33290 | [33290-danmaku-unlimited-3.json](./33290-danmaku-unlimited-3.json) |
 | Danmaku Unlimited 4 Wyver Ultra | 359529 | [359529-danmaku-unlimited-4-wyver-ultra.json](./359529-danmaku-unlimited-4-wyver-ultra.json) |
 | Dànmù Nàgè Èrén | 116113 | [116113-danmu-nage-eren.json](./116113-danmu-nage-eren.json) |
 | Dann Fox & the Time Machine | 192383 | [192383-dann-fox-and-the-time-machine.json](./192383-dann-fox-and-the-time-machine.json) |
@@ -3046,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Raid | 249686 | [249686-dead-raid.json](./249686-dead-raid.json) |
 | Dead Rails | 335356 | [335356-dead-rails.json](./335356-dead-rails.json) |
 | Dead Rampage | 101996 | [101996-dead-rampage.json](./101996-dead-rampage.json) |
+| Dead Realm | 11596 | [11596-dead-realm.json](./11596-dead-realm.json) |
 | Dead Reckoner | 406220 | [406220-dead-reckoner.json](./406220-dead-reckoner.json) |
 | Dead Reckoning | 71536 | [71536-dead-reckoning.json](./71536-dead-reckoning.json) |
 | Dead Reckoning: Brassfield Manor | 22126 | [22126-dead-reckoning-brassfield-manor.json](./22126-dead-reckoning-brassfield-manor.json) |
@@ -13486,6 +13488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Zone Online | 269096 | [269096-drive-zone-online.json](./269096-drive-zone-online.json) |
 | Drive-By | 138696 | [138696-drive-by.json](./138696-drive-by.json) |
 | Drive-In | 25134 | [25134-drive-in.json](./25134-drive-in.json) |
+| Drive!Drive!Drive! | 13231 | [13231-drive-drive-drive.json](./13231-drive-drive-drive.json) |
 | Driveby Gangster | 34452 | [34452-driveby-gangster.json](./34452-driveby-gangster.json) |
 | DriveCraft | 392909 | [392909-drivecraft.json](./392909-drivecraft.json) |
 | DriveCrazy | 151746 | [151746-drivecrazy.json](./151746-drivecrazy.json) |
