@@ -374,7 +374,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Drive: Bhikkhuni - Complete DLC Pack | 226892 | [226892-valkyrie-drive-bhikkhuni-complete-dlc-pack.json](./226892-valkyrie-drive-bhikkhuni-complete-dlc-pack.json) |
 | Valkyrie Drive: Bhikkhuni - Liberator's Edition | 42678 | [42678-valkyrie-drive-bhikkhuni-liberators-edition.json](./42678-valkyrie-drive-bhikkhuni-liberators-edition.json) |
 | Valkyrie Drive: Bhikkhuni - Nyuu Nyuu DX Pack | 380519 | [380519-valkyrie-drive-bhikkhuni-nyuu-nyuu-dx-pack.json](./380519-valkyrie-drive-bhikkhuni-nyuu-nyuu-dx-pack.json) |
-| Valkyrie Elysium | 194207 | [194207-valkyrie-elysium.json](./194207-valkyrie-elysium.json) |
 | Valkyrie Galaxy | 120340 | [120340-valkyrie-galaxy.json](./120340-valkyrie-galaxy.json) |
 | Valkyrie Idle | 248095 | [248095-valkyrie-idle.json](./248095-valkyrie-idle.json) |
 | Valkyrie Iteration: Mecha Pilot Raising Pocket Simulator | 361061 | [361061-valkyrie-iteration-mecha-pilot-raising-pocket-simulator.json](./361061-valkyrie-iteration-mecha-pilot-raising-pocket-simulator.json) |
