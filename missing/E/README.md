@@ -408,6 +408,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | East Front Campaign CD 1 | 78704 | [78704-east-front-campaign-cd-1.json](./78704-east-front-campaign-cd-1.json) |
 | East Front II | 84257 | [84257-east-front-ii.json](./84257-east-front-ii.json) |
 | East India Company | 2013 | [2013-east-india-company.json](./2013-east-india-company.json) |
+| East India Company: Battle of Trafalgar | 2014 | [2014-east-india-company-battle-of-trafalgar.json](./2014-east-india-company-battle-of-trafalgar.json) |
+| East India Company: Pirate Bay | 2015 | [2015-east-india-company-pirate-bay.json](./2015-east-india-company-pirate-bay.json) |
+| East India Company: Privateer | 2016 | [2016-east-india-company-privateer.json](./2016-east-india-company-privateer.json) |
 | East Legend | 39219 | [39219-east-legend.json](./39219-east-legend.json) |
 | East Prussia '14 | 59185 | [59185-east-prussia-14.json](./59185-east-prussia-14.json) |
 | East Scarp | 299612 | [299612-east-scarp.json](./299612-east-scarp.json) |
@@ -6691,6 +6694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyeshield 21: Portable Edition | 58277 | [58277-eyeshield-21-portable-edition.json](./58277-eyeshield-21-portable-edition.json) |
 | EyeToy Play Hero | 44638 | [44638-eyetoy-play-hero.json](./44638-eyetoy-play-hero.json) |
 | EyeToy Play: Astro Zoo | 43211 | [43211-eyetoy-play-astro-zoo.json](./43211-eyetoy-play-astro-zoo.json) |
+| EyeToy Play: PomPom Party | 2215 | [2215-eyetoy-play-pompom-party.json](./2215-eyetoy-play-pompom-party.json) |
 | EyeToy: AntiGrav | 19253 | [19253-eyetoy-antigrav.json](./19253-eyetoy-antigrav.json) |
 | EyeToy: Chat | 262194 | [262194-eyetoy-chat.json](./262194-eyetoy-chat.json) |
 | EyeToy: Operation Spy | 43222 | [43222-eyetoy-operation-spy.json](./43222-eyetoy-operation-spy.json) |
