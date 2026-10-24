@@ -6641,6 +6641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzle Picross | 55732 | [55732-pixel-puzzle-picross.json](./55732-pixel-puzzle-picross.json) |
 | Pixel Puzzler | 69693 | [69693-pixel-puzzler.json](./69693-pixel-puzzler.json) |
 | Pixel Puzzles | 243639 | [243639-pixel-puzzles.json](./243639-pixel-puzzles.json) |
+| Pixel Puzzles 2: Anime | 35740 | [35740-pixel-puzzles-2-anime.json](./35740-pixel-puzzles-2-anime.json) |
 | Pixel Puzzles 2: Christmas | 112743 | [112743-pixel-puzzles-2-christmas.json](./112743-pixel-puzzles-2-christmas.json) |
 | Pixel Puzzles 2: Halloween | 125736 | [125736-pixel-puzzles-2-halloween.json](./125736-pixel-puzzles-2-halloween.json) |
 | Pixel Puzzles 2: Paintings | 116762 | [116762-pixel-puzzles-2-paintings.json](./116762-pixel-puzzles-2-paintings.json) |
@@ -8236,6 +8237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pluto's Sheep-Dog Day | 246516 | [246516-plutos-sheep-dog-day.json](./246516-plutos-sheep-dog-day.json) |
 | Pluto's Tears | 176974 | [176974-plutos-tears.json](./176974-plutos-tears.json) |
 | Plutobi: The Dwarf Planet Tales | 99514 | [99514-plutobi-the-dwarf-planet-tales.json](./99514-plutobi-the-dwarf-planet-tales.json) |
+| Plutocracy | 80995 | [80995-plutocracy.json](./80995-plutocracy.json) |
 | Plutonia 1024: The Plutinya Exeriment | 269468 | [269468-plutonia-1024-the-plutinya-exeriment.json](./269468-plutonia-1024-the-plutinya-exeriment.json) |
 | Plutonia 2 | 136705 | [136705-plutonia-2.json](./136705-plutonia-2.json) |
 | Plutonia 3: Going to Surface | 260951 | [260951-plutonia-3-going-to-surface.json](./260951-plutonia-3-going-to-surface.json) |
@@ -11771,6 +11773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Erch | 165741 | [165741-princess-erch.json](./165741-princess-erch.json) |
 | Princess escape | 174119 | [174119-princess-escape.json](./174119-princess-escape.json) |
 | Princess Escape | 82645 | [82645-princess-escape.json](./82645-princess-escape.json) |
+| Princess Evangile | 35882 | [35882-princess-evangile.json](./35882-princess-evangile.json) |
 | Princess Evangile W Happiness | 140525 | [140525-princess-evangile-w-happiness.json](./140525-princess-evangile-w-happiness.json) |
 | Princess Evangile W Happiness | 43360 | [43360-princess-evangile-w-happiness.json](./43360-princess-evangile-w-happiness.json) |
 | Princess Fantasy Catventure | 410887 | [410887-princess-fantasy-catventure.json](./410887-princess-fantasy-catventure.json) |
@@ -13642,6 +13645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSXFunkin' | 279587 | [279587-psxfunkin.json](./279587-psxfunkin.json) |
 | PSXFunkin' with Parappa | 342833 | [342833-psxfunkin-with-parappa.json](./342833-psxfunkin-with-parappa.json) |
 | PSXGarcello | 404439 | [404439-psxgarcello.json](./404439-psxgarcello.json) |
+| Psy High | 36030 | [36030-psy-high.json](./36030-psy-high.json) |
 | Psy High 2: High Summer | 121702 | [121702-psy-high-2-high-summer.json](./121702-psy-high-2-high-summer.json) |
 | PSY in Apocalypse | 270953 | [270953-psy-in-apocalypse.json](./270953-psy-in-apocalypse.json) |
 | Psy-O-Blade | 28023 | [28023-psy-o-blade.json](./28023-psy-o-blade.json) |
@@ -14004,6 +14008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsonic Electronic Baseball | 245418 | [245418-pulsonic-electronic-baseball.json](./245418-pulsonic-electronic-baseball.json) |
 | Pulsor | 117438 | [117438-pulsor.json](./117438-pulsor.json) |
 | Pulstar | 7255 | [7255-pulstar.json](./7255-pulstar.json) |
+| Pulstar | 77264 | [77264-pulstar.json](./77264-pulstar.json) |
 | Pulsus | 138524 | [138524-pulsus.json](./138524-pulsus.json) |
 | Pultimush | 282461 | [282461-pultimush.json](./282461-pultimush.json) |
 | Pulut Adventure RPG | 151451 | [151451-pulut-adventure-rpg.json](./151451-pulut-adventure-rpg.json) |
