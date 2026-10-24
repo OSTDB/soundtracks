@@ -5495,6 +5495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gongo | 168572 | [168572-gongo.json](./168572-gongo.json) |
 | Gongpoui Sullaejapgi | 220286 | [220286-gongpoui-sullaejapgi.json](./220286-gongpoui-sullaejapgi.json) |
 | Gonne Wrong | 151142 | [151142-gonne-wrong.json](./151142-gonne-wrong.json) |
+| Gonner | 19002 | [19002-gonner.json](./19002-gonner.json) |
 | Gonner: Press Jump to Die Edition | 51831 | [51831-gonner-press-jump-to-die-edition.json](./51831-gonner-press-jump-to-die-edition.json) |
 | Gonner2: Lose Your Head Bundle | 154963 | [154963-gonner2-lose-your-head-bundle.json](./154963-gonner2-lose-your-head-bundle.json) |
 | Gonner2: The Full Ikk Edition | 154552 | [154552-gonner2-the-full-ikk-edition.json](./154552-gonner2-the-full-ikk-edition.json) |
