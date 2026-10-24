@@ -4204,6 +4204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Ones | 55258 | [55258-deep-ones.json](./55258-deep-ones.json) |
 | Deep Panic | 402271 | [402271-deep-panic.json](./402271-deep-panic.json) |
 | Deep Pixel Melancholy | 347185 | [347185-deep-pixel-melancholy.json](./347185-deep-pixel-melancholy.json) |
+| Deep Pockets-Super Pro Pool and Billiards | 40605 | [40605-deep-pockets-super-pro-pool-and-billiards.json](./40605-deep-pockets-super-pro-pool-and-billiards.json) |
 | Deep Race: Battle | 121557 | [121557-deep-race-battle.json](./121557-deep-race-battle.json) |
 | Deep Race: Space | 117360 | [117360-deep-race-space.json](./117360-deep-race-space.json) |
 | Deep Raider | 71758 | [71758-deep-raider.json](./71758-deep-raider.json) |
