@@ -9828,6 +9828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong de las Tortugas Ninja | 195513 | [195513-pong-de-las-tortugas-ninja.json](./195513-pong-de-las-tortugas-ninja.json) |
 | Pong Doubles | 18154 | [18154-pong-doubles.json](./18154-pong-doubles.json) |
 | Pong for VideoPac and Odyssey 2! | 64118 | [64118-pong-for-videopac-and-odyssey-2.json](./64118-pong-for-videopac-and-odyssey-2.json) |
+| Pong It! VR | 31508 | [31508-pong-it-vr.json](./31508-pong-it-vr.json) |
 | Pong Kombat | 73326 | [73326-pong-kombat.json](./73326-pong-kombat.json) |
 | Pong Legends | 263661 | [263661-pong-legends.json](./263661-pong-legends.json) |
 | Pong Like | 96123 | [96123-pong-like.json](./96123-pong-like.json) |
