@@ -3232,7 +3232,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -6748,6 +6747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: The War Within - Undermine(d) | 322152 | [322152-world-of-warcraft-the-war-within-undermine-d.json](./322152-world-of-warcraft-the-war-within-undermine-d.json) |
 | World of Warcraft: Warlords of Draenor - Collector's Edition | 13622 | [13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json](./13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json) |
 | World of Warcraft: Wrath of the Lich King - Collector's Edition | 23788 | [23788-world-of-warcraft-wrath-of-the-lich-king-collectors-edition.json](./23788-world-of-warcraft-wrath-of-the-lich-king-collectors-edition.json) |
+| World of Warcraft: Wrath of the Lich King Classic | 198161 | [198161-world-of-warcraft-wrath-of-the-lich-king-classic.json](./198161-world-of-warcraft-wrath-of-the-lich-king-classic.json) |
 | World of Warplanes | 3432 | [3432-world-of-warplanes.json](./3432-world-of-warplanes.json) |
 | World of Warplanes: Potez 540 Pack | 289894 | [289894-world-of-warplanes-potez-540-pack.json](./289894-world-of-warplanes-potez-540-pack.json) |
 | World of Warriors | 95064 | [95064-world-of-warriors.json](./95064-world-of-warriors.json) |
