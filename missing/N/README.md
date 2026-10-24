@@ -2695,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Nintendo 3DS Internet Browser: Breakout | 251587 | [251587-new-nintendo-3ds-internet-browser-breakout.json](./251587-new-nintendo-3ds-internet-browser-breakout.json) |
 | New Path 1: Adventure or Normality? | 124237 | [124237-new-path-1-adventure-or-normality.json](./124237-new-path-1-adventure-or-normality.json) |
 | New Planets | 128249 | [128249-new-planets.json](./128249-new-planets.json) |
+| New Pokémon Snap | 135142 | [135142-new-pokemon-snap.json](./135142-new-pokemon-snap.json) |
 | New Quest: Don't Get Bored! | 178943 | [178943-new-quest-dont-get-bored.json](./178943-new-quest-dont-get-bored.json) |
 | New Rally-X Arrangement | 178411 | [178411-new-rally-x-arrangement.json](./178411-new-rally-x-arrangement.json) |
 | New Revolution | 188398 | [188398-new-revolution.json](./188398-new-revolution.json) |
