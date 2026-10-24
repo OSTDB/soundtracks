@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M. Stain | 356108 | [356108-m-stain.json](./356108-m-stain.json) |
 | M.A.C.E. | 30542 | [30542-m-a-c-e.json](./30542-m-a-c-e.json) |
 | M.A.C.E. TD | 87607 | [87607-m-a-c-e-td.json](./87607-m-a-c-e-td.json) |
+| M.A.C.E. Tower Defense | 43088 | [43088-m-a-c-e-tower-defense.json](./43088-m-a-c-e-tower-defense.json) |
 | M.A.C.H | 44508 | [44508-m-a-c-h.json](./44508-m-a-c-h.json) |
 | M.A.C.S. | 90645 | [90645-m-a-c-s.json](./90645-m-a-c-s.json) |
 | M.A.D. Cows | 279879 | [279879-m-a-d-cows.json](./279879-m-a-d-cows.json) |
