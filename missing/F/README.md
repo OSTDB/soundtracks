@@ -6954,6 +6954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Neko Delivery | 202136 | [202136-flying-neko-delivery.json](./202136-flying-neko-delivery.json) |
 | Flying Nightmares | 4257 | [4257-flying-nightmares.json](./4257-flying-nightmares.json) |
 | Flying over the Penguin's Hollow | 413134 | [413134-flying-over-the-penguins-hollow.json](./413134-flying-over-the-penguins-hollow.json) |
+| Flying Pengy | 31530 | [31530-flying-pengy.json](./31530-flying-pengy.json) |
 | Flying Propeller | 161777 | [161777-flying-propeller.json](./161777-flying-propeller.json) |
 | Flying PuPu | 125926 | [125926-flying-pupu.json](./125926-flying-pupu.json) |
 | Flying Red Barrel: The Diary of a Little Aviator | 50841 | [50841-flying-red-barrel-the-diary-of-a-little-aviator.json](./50841-flying-red-barrel-the-diary-of-a-little-aviator.json) |
