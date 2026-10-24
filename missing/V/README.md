@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkkryes: Ashes of War | 221230 | [221230-valkkryes-ashes-of-war.json](./221230-valkkryes-ashes-of-war.json) |
 | Valknut | 74367 | [74367-valknut.json](./74367-valknut.json) |
 | Valkyr | 47152 | [47152-valkyr.json](./47152-valkyr.json) |
+| Valkyria Chronicles | 7477 | [7477-valkyria-chronicles.json](./7477-valkyria-chronicles.json) |
 | Valkyria Chronicles 2: Additional Stickers DLC | 140351 | [140351-valkyria-chronicles-2-additional-stickers-dlc.json](./140351-valkyria-chronicles-2-additional-stickers-dlc.json) |
 | Valkyria Chronicles 2: Banquet of Ghosts | 140338 | [140338-valkyria-chronicles-2-banquet-of-ghosts.json](./140338-valkyria-chronicles-2-banquet-of-ghosts.json) |
 | Valkyria Chronicles 2: Battle at Doeffein EX | 140330 | [140330-valkyria-chronicles-2-battle-at-doeffein-ex.json](./140330-valkyria-chronicles-2-battle-at-doeffein-ex.json) |
