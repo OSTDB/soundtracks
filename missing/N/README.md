@@ -4281,6 +4281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja World | 268104 | [268104-ninja-world.json](./268104-ninja-world.json) |
 | Ninja World 2 | 268105 | [268105-ninja-world-2.json](./268105-ninja-world-2.json) |
 | Ninja World 3 | 268106 | [268106-ninja-world-3.json](./268106-ninja-world-3.json) |
+| Ninja-Kid II | 41742 | [41742-ninja-kid-ii.json](./41742-ninja-kid-ii.json) |
 | Ninja-kun: Ashura no Shou | 230290 | [230290-ninja-kun-ashura-no-shou.json](./230290-ninja-kun-ashura-no-shou.json) |
 | Ninja-kun: Ashura no Shou | 37326 | [37326-ninja-kun-ashura-no-shou.json](./37326-ninja-kun-ashura-no-shou.json) |
 | Ninja-kun: Majou no Bouken | 39457 | [39457-ninja-kun-majou-no-bouken.json](./39457-ninja-kun-majou-no-bouken.json) |
@@ -6244,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyan-Tech | 80157 | [80157-nyan-tech.json](./80157-nyan-tech.json) |
 | Nyana | 265501 | [265501-nyana.json](./265501-nyana.json) |
 | Nyanaconda | 229237 | [229237-nyanaconda.json](./229237-nyanaconda.json) |
+| Nyancle | 41741 | [41741-nyancle.json](./41741-nyancle.json) |
 | Nyancle Racing | 94668 | [94668-nyancle-racing.json](./94668-nyancle-racing.json) |
 | Nyanco | 120044 | [120044-nyanco.json](./120044-nyanco.json) |
 | Nyanco Card | 133076 | [133076-nyanco-card.json](./133076-nyanco-card.json) |
