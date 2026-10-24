@@ -2604,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casper and the Ghostly Trio | 83232 | [83232-casper-and-the-ghostly-trio.json](./83232-casper-and-the-ghostly-trio.json) |
 | Casper Brainy Book | 125318 | [125318-casper-brainy-book.json](./125318-casper-brainy-book.json) |
 | Casper: Friends Around the World | 44956 | [44956-casper-friends-around-the-world.json](./44956-casper-friends-around-the-world.json) |
+| Casper: Spirit Dimensions | 3850 | [3850-casper-spirit-dimensions.json](./3850-casper-spirit-dimensions.json) |
 | Casper: The Interactive Adventure | 215183 | [215183-casper-the-interactive-adventure.json](./215183-casper-the-interactive-adventure.json) |
 | Casper's Scare School: Spooky Sports Day | 51040 | [51040-caspers-scare-school-spooky-sports-day.json](./51040-caspers-scare-school-spooky-sports-day.json) |
 | Caspers | 337837 | [337837-caspers.json](./337837-caspers.json) |
@@ -14711,6 +14712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush Penguin | 219233 | [219233-crush-penguin.json](./219233-crush-penguin.json) |
 | Crush Roller | 39641 | [39641-crush-roller.json](./39641-crush-roller.json) |
 | Crush Roller | 72747 | [72747-crush-roller.json](./72747-crush-roller.json) |
+| Crush the Castle 2 | 192099 | [192099-crush-the-castle-2.json](./192099-crush-the-castle-2.json) |
 | Crush the Castle 2 Players Pack | 399454 | [399454-crush-the-castle-2-players-pack.json](./399454-crush-the-castle-2-players-pack.json) |
 | Crush the Castle Players Pack | 399453 | [399453-crush-the-castle-players-pack.json](./399453-crush-the-castle-players-pack.json) |
 | Crush the Castle TD | 399451 | [399451-crush-the-castle-td.json](./399451-crush-the-castle-td.json) |
@@ -15715,6 +15717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curious Expedition 2: Shores of Taishi | 200928 | [200928-curious-expedition-2-shores-of-taishi.json](./200928-curious-expedition-2-shores-of-taishi.json) |
 | Curious Fishing | 249746 | [249746-curious-fishing.json](./249746-curious-fishing.json) |
 | Curious George | 242930 | [242930-curious-george.json](./242930-curious-george.json) |
+| Curious George | 3867 | [3867-curious-george.json](./3867-curious-george.json) |
 | Curious George Car Driving Challenge | 406629 | [406629-curious-george-car-driving-challenge.json](./406629-curious-george-car-driving-challenge.json) |
 | Curious George Comes Home | 145899 | [145899-curious-george-comes-home.json](./145899-curious-george-comes-home.json) |
 | Curious George Early Learning Adventure | 384220 | [384220-curious-george-early-learning-adventure.json](./384220-curious-george-early-learning-adventure.json) |
@@ -16008,6 +16011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Order Maid 3D2&2.5+: X1+Vol.01 | 311723 | [311723-custom-order-maid-3d2-and-2-5-x1-vol-01.json](./311723-custom-order-maid-3d2-and-2-5-x1-vol-01.json) |
 | Custom Order Maild 3D2: It's a Night Magic Love Hotel Karaoke All in Pack | 275541 | [275541-custom-order-maild-3d2-its-a-night-magic-love-hotel-karaoke-all-in-pack.json](./275541-custom-order-maild-3d2-its-a-night-magic-love-hotel-karaoke-all-in-pack.json) |
 | Custom Party | 310831 | [310831-custom-party.json](./310831-custom-party.json) |
+| Custom Robo | 3462 | [3462-custom-robo.json](./3462-custom-robo.json) |
 | Custom Robo | 3465 | [3465-custom-robo.json](./3465-custom-robo.json) |
 | Custom Robo Arena | 3466 | [3466-custom-robo-arena.json](./3466-custom-robo-arena.json) |
 | Custom Robo Arena Redux | 219276 | [219276-custom-robo-arena-redux.json](./219276-custom-robo-arena-redux.json) |
