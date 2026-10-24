@@ -5731,6 +5731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows Unveiled: Agnes | 293145 | [293145-shadows-unveiled-agnes.json](./293145-shadows-unveiled-agnes.json) |
 | Shadows: Awakening | 54775 | [54775-shadows-awakening.json](./54775-shadows-awakening.json) |
 | Shadowsense. | 207510 | [207510-shadowsense.json](./207510-shadowsense.json) |
+| ShadowSide | 81194 | [81194-shadowside.json](./81194-shadowside.json) |
 | Shadowstone | 388342 | [388342-shadowstone.json](./388342-shadowstone.json) |
 | ShadowStorm | 275832 | [275832-shadowstorm.json](./275832-shadowstorm.json) |
 | ShadowStrikeVR | 285114 | [285114-shadowstrikevr.json](./285114-shadowstrikevr.json) |
@@ -7213,6 +7214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shock Hop | 243089 | [243089-shock-hop.json](./243089-shock-hop.json) |
 | Shock Lobster | 220781 | [220781-shock-lobster.json](./220781-shock-lobster.json) |
 | Shock Tactics | 18811 | [18811-shock-tactics.json](./18811-shock-tactics.json) |
+| Shock Troopers | 35377 | [35377-shock-troopers.json](./35377-shock-troopers.json) |
 | Shock Troopers: 2nd Squad | 32778 | [32778-shock-troopers-2nd-squad.json](./32778-shock-troopers-2nd-squad.json) |
 | Shock Troops | 212303 | [212303-shock-troops.json](./212303-shock-troops.json) |
 | Shock Wave | 292941 | [292941-shock-wave.json](./292941-shock-wave.json) |
@@ -7271,6 +7273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogun Curse | 289779 | [289779-shogun-curse.json](./289779-shogun-curse.json) |
 | Shogun Warriors | 39584 | [39584-shogun-warriors.json](./39584-shogun-warriors.json) |
 | Shogun: Total War | 436 | [436-shogun-total-war.json](./436-shogun-total-war.json) |
+| Shogun: Total War - Gold Edition | 35893 | [35893-shogun-total-war-gold-edition.json](./35893-shogun-total-war-gold-edition.json) |
 | Shogun: Total War - Mongol Invasion | 443 | [443-shogun-total-war-mongol-invasion.json](./443-shogun-total-war-mongol-invasion.json) |
 | Shogun: Total War - Warlord Edition | 206025 | [206025-shogun-total-war-warlord-edition.json](./206025-shogun-total-war-warlord-edition.json) |
 | Shogun's Blade | 43293 | [43293-shoguns-blade.json](./43293-shoguns-blade.json) |
@@ -9302,6 +9305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinkr 2 | 111667 | [111667-sinkr-2.json](./111667-sinkr-2.json) |
 | Sinkr 3 | 169430 | [169430-sinkr-3.json](./169430-sinkr-3.json) |
 | SinkSub | 61013 | [61013-sinksub.json](./61013-sinksub.json) |
+| Sinless | 36004 | [36004-sinless.json](./36004-sinless.json) |
 | Sinless: Remastered | 197237 | [197237-sinless-remastered.json](./197237-sinless-remastered.json) |
 | Sinned | 217411 | [217411-sinned.json](./217411-sinned.json) |
 | Sinner | 118817 | [118817-sinner.json](./118817-sinner.json) |
@@ -13288,6 +13292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Söldner-X Complete Collection | 318615 | [318615-soldner-x-complete-collection.json](./318615-soldner-x-complete-collection.json) |
 | Söldner-X: Himmelsstürmer | 21270 | [21270-soldner-x-himmelssturmer.json](./21270-soldner-x-himmelssturmer.json) |
 | Söldner: Marine Corps | 93196 | [93196-soldner-marine-corps.json](./93196-soldner-marine-corps.json) |
+| Söldner: Secret Wars | 78587 | [78587-soldner-secret-wars.json](./78587-soldner-secret-wars.json) |
 | Söldner: Secret Wars Remastered | 249615 | [249615-soldner-secret-wars-remastered.json](./249615-soldner-secret-wars-remastered.json) |
 | Soldnerschild | 92103 | [92103-soldnerschild.json](./92103-soldnerschild.json) |
 | Sole Iron Tail | 132693 | [132693-sole-iron-tail.json](./132693-sole-iron-tail.json) |
@@ -18429,6 +18434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spotted | 200720 | [200720-spotted.json](./200720-spotted.json) |
 | Spotted Garden Eel Adventure | 196043 | [196043-spotted-garden-eel-adventure.json](./196043-spotted-garden-eel-adventure.json) |
 | Spotter | 110163 | [110163-spotter.json](./110163-spotter.json) |
+| Spotto! | 80154 | [80154-spotto.json](./80154-spotto.json) |
 | SPQR: The Empire's Darkest Hour | 73328 | [73328-spqr-the-empires-darkest-hour.json](./73328-spqr-the-empires-darkest-hour.json) |
 | Spram's Metroid Doom | 142220 | [142220-sprams-metroid-doom.json](./142220-sprams-metroid-doom.json) |
 | Sprawl | 143627 | [143627-sprawl.json](./143627-sprawl.json) |
@@ -20088,6 +20094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starblind | 293175 | [293175-starblind.json](./293175-starblind.json) |
 | Starblood Arena | 26231 | [26231-starblood-arena.json](./26231-starblood-arena.json) |
 | StarBlox Inc. | 124060 | [124060-starblox-inc.json](./124060-starblox-inc.json) |
+| Starbo | 80009 | [80009-starbo.json](./80009-starbo.json) |
 | Starboard | 192366 | [192366-starboard.json](./192366-starboard.json) |
 | Starboard | 334157 | [334157-starboard.json](./334157-starboard.json) |
 | Starboi | 360603 | [360603-starboi.json](./360603-starboi.json) |
@@ -20900,6 +20907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay | 261689 | [261689-stay.json](./261689-stay.json) |
 | Stay | 348238 | [348238-stay.json](./348238-stay.json) |
 | STAY | 150507 | [150507-stay.json](./150507-stay.json) |
+| Stay Alight | 35890 | [35890-stay-alight.json](./35890-stay-alight.json) |
 | Stay Alive | 197373 | [197373-stay-alive.json](./197373-stay-alive.json) |
 | Stay Alive | 258444 | [258444-stay-alive.json](./258444-stay-alive.json) |
 | Stay Alive | 339667 | [339667-stay-alive.json](./339667-stay-alive.json) |
@@ -21160,6 +21168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Empire | 45536 | [45536-steel-empire.json](./45536-steel-empire.json) |
 | Steel Empire | 45588 | [45588-steel-empire.json](./45588-steel-empire.json) |
 | Steel Empire | 49383 | [49383-steel-empire.json](./49383-steel-empire.json) |
+| Steel Empire | 80860 | [80860-steel-empire.json](./80860-steel-empire.json) |
 | Steel Fight | 116920 | [116920-steel-fight.json](./116920-steel-fight.json) |
 | Steel Flood | 275710 | [275710-steel-flood.json](./275710-steel-flood.json) |
 | Steel Force | 39670 | [39670-steel-force.json](./39670-steel-force.json) |
