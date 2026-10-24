@@ -4930,6 +4930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung-Fu Acho | 41770 | [41770-kung-fu-acho.json](./41770-kung-fu-acho.json) |
 | Kung-fu Beat | 332672 | [332672-kung-fu-beat.json](./332672-kung-fu-beat.json) |
 | Kung-Fu Fighter | 56838 | [56838-kung-fu-fighter.json](./56838-kung-fu-fighter.json) |
+| Kung-Fu for Kinect | 82537 | [82537-kung-fu-for-kinect.json](./82537-kung-fu-for-kinect.json) |
 | Kung-Fu Heroes | 214619 | [214619-kung-fu-heroes.json](./214619-kung-fu-heroes.json) |
 | Kung-Fu Live | 52530 | [52530-kung-fu-live.json](./52530-kung-fu-live.json) |
 | Kung-Fu Master | 214459 | [214459-kung-fu-master.json](./214459-kung-fu-master.json) |
