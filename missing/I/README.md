@@ -3448,6 +3448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkball adventures | 130148 | [130148-inkball-adventures.json](./130148-inkball-adventures.json) |
 | Inkblood | 380440 | [380440-inkblood.json](./380440-inkblood.json) |
 | Inkbowser.exe | 283097 | [283097-inkbowser-exe.json](./283097-inkbowser-exe.json) |
+| Inked | 96278 | [96278-inked.json](./96278-inked.json) |
 | Inken | 394555 | [394555-inken.json](./394555-inken.json) |
 | Inkfish | 190874 | [190874-inkfish.json](./190874-inkfish.json) |
 | Inkheart | 123332 | [123332-inkheart.json](./123332-inkheart.json) |
