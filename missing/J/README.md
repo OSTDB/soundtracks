@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jerry Wanker and the Quest to get Laid | 153339 | [153339-jerry-wanker-and-the-quest-to-get-laid.json](./153339-jerry-wanker-and-the-quest-to-get-laid.json) |
 | Jerry's Autowalking Adventure to Rescue His Cheese | 278080 | [278080-jerrys-autowalking-adventure-to-rescue-his-cheese.json](./278080-jerrys-autowalking-adventure-to-rescue-his-cheese.json) |
 | Jerry's Merry Christmas | 310659 | [310659-jerrys-merry-christmas.json](./310659-jerrys-merry-christmas.json) |
+| Jersey Devil | 45077 | [45077-jersey-devil.json](./45077-jersey-devil.json) |
 | Jesse 'The Body' Ventura Wrestling Superstars | 46256 | [46256-jesse-the-body-ventura-wrestling-superstars.json](./46256-jesse-the-body-ventura-wrestling-superstars.json) |
 | Jessica Deliverson | 340772 | [340772-jessica-deliverson.json](./340772-jessica-deliverson.json) |
 | Jessica Plunkenstein and the Dusseldorf Conspiracy | 169992 | [169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json](./169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json) |
