@@ -992,7 +992,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katharsis | 55461 | [55461-katharsis.json](./55461-katharsis.json) |
 | Katharsis Project | 117624 | [117624-katharsis-project.json](./117624-katharsis-project.json) |
 | Katharsis: The second act | 82366 | [82366-katharsis-the-second-act.json](./82366-katharsis-the-second-act.json) |
-| Kathy Rain 2: Soothsayer | 322691 | [322691-kathy-rain-2-soothsayer.json](./322691-kathy-rain-2-soothsayer.json) |
 | Kathy Rain: Director's Cut - Deluxe Edition | 186517 | [186517-kathy-rain-directors-cut-deluxe-edition.json](./186517-kathy-rain-directors-cut-deluxe-edition.json) |
 | Kati the Astronaut | 212642 | [212642-kati-the-astronaut.json](./212642-kati-the-astronaut.json) |
 | Katie | 99612 | [99612-katie.json](./99612-katie.json) |
