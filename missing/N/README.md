@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napalm: The Crimson Crisis | 69892 | [69892-napalm-the-crimson-crisis.json](./69892-napalm-the-crimson-crisis.json) |
 | Napobination | 320946 | [320946-napobination.json](./320946-napobination.json) |
 | Napoleon | 125336 | [125336-napoleon.json](./125336-napoleon.json) |
+| Napoleon | 6501 | [6501-napoleon.json](./6501-napoleon.json) |
 | Napoleon 1813 | 62209 | [62209-napoleon-1813.json](./62209-napoleon-1813.json) |
 | Napoleon at Waterloo | 25092 | [25092-napoleon-at-waterloo.json](./25092-napoleon-at-waterloo.json) |
 | Napoleon Dynamite: The Game | 2824 | [2824-napoleon-dynamite-the-game.json](./2824-napoleon-dynamite-the-game.json) |
