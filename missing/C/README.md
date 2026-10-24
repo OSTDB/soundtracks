@@ -7977,6 +7977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clayborn Idle | 382301 | [382301-clayborn-idle.json](./382301-clayborn-idle.json) |
 | Claybreaker: VR Clay Shooting | 41920 | [41920-claybreaker-vr-clay-shooting.json](./41920-claybreaker-vr-clay-shooting.json) |
 | Clayers | 348326 | [348326-clayers.json](./348326-clayers.json) |
+| ClayFighter 2: Judgment Clay | 73298 | [73298-clayfighter-2-judgment-clay.json](./73298-clayfighter-2-judgment-clay.json) |
 | ClayFighter: Tournament Edition | 42616 | [42616-clayfighter-tournament-edition.json](./42616-clayfighter-tournament-edition.json) |
 | Claymates | 42623 | [42623-claymates.json](./42623-claymates.json) |
 | Claymore: Gingan no Majo | 123300 | [123300-claymore-gingan-no-majo.json](./123300-claymore-gingan-no-majo.json) |
@@ -14097,6 +14098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croaked | 251652 | [251652-croaked.json](./251652-croaked.json) |
 | Croaking Around | 265696 | [265696-croaking-around.json](./265696-croaking-around.json) |
 | Croakspire | 361224 | [361224-croakspire.json](./361224-croakspire.json) |
+| Croc | 143008 | [143008-croc.json](./143008-croc.json) |
 | Croc 2 | 7902 | [7902-croc-2.json](./7902-croc-2.json) |
 | Croc 2: Kingdom of the Gobbos | 411706 | [411706-croc-2-kingdom-of-the-gobbos.json](./411706-croc-2-kingdom-of-the-gobbos.json) |
 | Croc Cannon | 317435 | [317435-croc-cannon.json](./317435-croc-cannon.json) |
