@@ -6681,6 +6681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravels of Endless War | 149565 | [149565-gravels-of-endless-war.json](./149565-gravels-of-endless-war.json) |
 | Gravely Silent: House of Deadlock | 209775 | [209775-gravely-silent-house-of-deadlock.json](./209775-gravely-silent-house-of-deadlock.json) |
 | Gravemyst | 336711 | [336711-gravemyst.json](./336711-gravemyst.json) |
+| Graven | 138982 | [138982-graven.json](./138982-graven.json) |
 | Graven: Deluxe Edition | 336046 | [336046-graven-deluxe-edition.json](./336046-graven-deluxe-edition.json) |
 | GraveRun | 33286 | [33286-graverun.json](./33286-graverun.json) |
 | GraveRunners | 152637 | [152637-graverunners.json](./152637-graverunners.json) |
