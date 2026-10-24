@@ -2644,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol: The Movie Learning Phone | 274652 | [274652-paw-patrol-the-movie-learning-phone.json](./274652-paw-patrol-the-movie-learning-phone.json) |
 | Paw Patrol: World | 252175 | [252175-paw-patrol-world.json](./252175-paw-patrol-world.json) |
 | Paw Paw Destiny | 241786 | [241786-paw-paw-destiny.json](./241786-paw-paw-destiny.json) |
+| Paw Paw Paw | 118289 | [118289-paw-paw-paw.json](./118289-paw-paw-paw.json) |
 | Pawafuru Puroyakyu 2024-2025 | 287890 | [287890-pawafuru-puroyakyu-2024-2025.json](./287890-pawafuru-puroyakyu-2024-2025.json) |
 | Pawafuru Puroyakyu: Eikan Nine Crossroad | 265625 | [265625-pawafuru-puroyakyu-eikan-nine-crossroad.json](./265625-pawafuru-puroyakyu-eikan-nine-crossroad.json) |
 | Pawapuro Adventures | 396373 | [396373-pawapuro-adventures.json](./396373-pawapuro-adventures.json) |
@@ -3601,6 +3602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Performer: The Yellow Monkey | 301350 | [301350-perfect-performer-the-yellow-monkey.json](./301350-perfect-performer-the-yellow-monkey.json) |
 | Perfect Plan | 29226 | [29226-perfect-plan.json](./29226-perfect-plan.json) |
 | Perfect Porcelain | 391135 | [391135-perfect-porcelain.json](./391135-perfect-porcelain.json) |
+| Perfect Round Disc Golf | 118583 | [118583-perfect-round-disc-golf.json](./118583-perfect-round-disc-golf.json) |
 | Perfect Shot | 370722 | [370722-perfect-shot.json](./370722-perfect-shot.json) |
 | Perfect Slices | 253282 | [253282-perfect-slices.json](./253282-perfect-slices.json) |
 | Perfect Split | 173804 | [173804-perfect-split.json](./173804-perfect-split.json) |
