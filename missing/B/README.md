@@ -1817,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bara Beach Bear | 207166 | [207166-bara-beach-bear.json](./207166-bara-beach-bear.json) |
 | Bara Blackjack | 207169 | [207169-bara-blackjack.json](./207169-bara-blackjack.json) |
 | Bara Boarders | 183046 | [183046-bara-boarders.json](./183046-bara-boarders.json) |
+| Bara ni Kakusareshi Verite | 12642 | [12642-bara-ni-kakusareshi-verite.json](./12642-bara-ni-kakusareshi-verite.json) |
 | Bara no Ki ni Bara no Hanasaku Fandisk | 218954 | [218954-bara-no-ki-ni-bara-no-hanasaku-fandisk.json](./218954-bara-no-ki-ni-bara-no-hanasaku-fandisk.json) |
 | Bara no Ki ni: Bara no Hanasaku | 56522 | [56522-bara-no-ki-ni-bara-no-hanasaku.json](./56522-bara-no-ki-ni-bara-no-hanasaku.json) |
 | Bara to Tsubaki to Fata Morgana | 284844 | [284844-bara-to-tsubaki-to-fata-morgana.json](./284844-bara-to-tsubaki-to-fata-morgana.json) |
@@ -12890,6 +12891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers Apart | 157460 | [157460-brothers-apart.json](./157460-brothers-apart.json) |
 | Brothers Conflict: Brilliant Blue | 45991 | [45991-brothers-conflict-brilliant-blue.json](./45991-brothers-conflict-brilliant-blue.json) |
 | Brothers Conflict: Passion Pink | 45990 | [45990-brothers-conflict-passion-pink.json](./45990-brothers-conflict-passion-pink.json) |
+| Brothers Conflict: Precious Baby | 12644 | [12644-brothers-conflict-precious-baby.json](./12644-brothers-conflict-precious-baby.json) |
 | Brothers in Arms 2: Global Front | 64301 | [64301-brothers-in-arms-2-global-front.json](./64301-brothers-in-arms-2-global-front.json) |
 | Brothers in Arms 3: Sons of War | 19263 | [19263-brothers-in-arms-3-sons-of-war.json](./19263-brothers-in-arms-3-sons-of-war.json) |
 | Brothers in Arms DS | 21422 | [21422-brothers-in-arms-ds.json](./21422-brothers-in-arms-ds.json) |
@@ -14155,6 +14157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burdock 2 | 353766 | [353766-burdock-2.json](./353766-burdock-2.json) |
 | Bureau 13 | 47012 | [47012-bureau-13.json](./47012-bureau-13.json) |
 | Bureau of Contacts | 288669 | [288669-bureau-of-contacts.json](./288669-bureau-of-contacts.json) |
+| Bureaucracy | 12618 | [12618-bureaucracy.json](./12618-bureaucracy.json) |
 | Bureaucromancer | 408233 | [408233-bureaucromancer.json](./408233-bureaucromancer.json) |
 | Burg Battle | 153391 | [153391-burg-battle.json](./153391-burg-battle.json) |
 | Burg Schreckenstein: Der Dieb von Burg Schreckenstein | 376559 | [376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json](./376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json) |
