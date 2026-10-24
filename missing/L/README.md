@@ -5288,6 +5288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liz and Rose's Alchemy Factory | 337806 | [337806-liz-and-roses-alchemy-factory.json](./337806-liz-and-roses-alchemy-factory.json) |
 | Liz Art Gallery | 413168 | [413168-liz-art-gallery.json](./413168-liz-art-gallery.json) |
 | Liz: Before the Plague | 94874 | [94874-liz-before-the-plague.json](./94874-liz-before-the-plague.json) |
+| Liz: The Tower and the Grimoire | 118415 | [118415-liz-the-tower-and-the-grimoire.json](./118415-liz-the-tower-and-the-grimoire.json) |
 | Liza: The Ungrateful | 221841 | [221841-liza-the-ungrateful.json](./221841-liza-the-ungrateful.json) |
 | Lizard | 19574 | [19574-lizard.json](./19574-lizard.json) |
 | Lizard | 89223 | [89223-lizard.json](./89223-lizard.json) |
