@@ -13423,6 +13423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droids & Wizards | 124769 | [124769-droids-and-wizards.json](./124769-droids-and-wizards.json) |
 | Droids: The White Witch | 255557 | [255557-droids-the-white-witch.json](./255557-droids-the-white-witch.json) |
 | Droidscape: Basilica | 257259 | [257259-droidscape-basilica.json](./257259-droidscape-basilica.json) |
+| Droidz | 14041 | [14041-droidz.json](./14041-droidz.json) |
 | Droiyan | 146529 | [146529-droiyan.json](./146529-droiyan.json) |
 | Droiyan 2: Absolute Monarch | 146531 | [146531-droiyan-2-absolute-monarch.json](./146531-droiyan-2-absolute-monarch.json) |
 | Droiyan Next | 146530 | [146530-droiyan-next.json](./146530-droiyan-next.json) |
@@ -14359,6 +14360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Dan | 156028 | [156028-dungeon-dan.json](./156028-dungeon-dan.json) |
 | Dungeon Danger Traps | 174043 | [174043-dungeon-danger-traps.json](./174043-dungeon-danger-traps.json) |
 | Dungeon Danger Traps 2 | 372543 | [372543-dungeon-danger-traps-2.json](./372543-dungeon-danger-traps-2.json) |
+| Dungeon Dare | 14043 | [14043-dungeon-dare.json](./14043-dungeon-dare.json) |
 | Dungeon Darkness | 176215 | [176215-dungeon-darkness.json](./176215-dungeon-darkness.json) |
 | Dungeon Dealer | 179064 | [179064-dungeon-dealer.json](./179064-dungeon-dealer.json) |
 | Dungeon Death | 190480 | [190480-dungeon-death.json](./190480-dungeon-death.json) |
@@ -15092,6 +15094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustland | 260393 | [260393-dustland.json](./260393-dustland.json) |
 | Dustland Delivery | 302379 | [302379-dustland-delivery.json](./302379-dustland-delivery.json) |
 | Dustland Rider | 195119 | [195119-dustland-rider.json](./195119-dustland-rider.json) |
+| Dustman | 14044 | [14044-dustman.json](./14044-dustman.json) |
 | Dustnet | 117904 | [117904-dustnet.json](./117904-dustnet.json) |
 | Dustoff Heli Rescue 2 | 30572 | [30572-dustoff-heli-rescue-2.json](./30572-dustoff-heli-rescue-2.json) |
 | Dustoff Z | 137344 | [137344-dustoff-z.json](./137344-dustoff-z.json) |
@@ -15333,6 +15336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Soccer 2002 | 61340 | [61340-dynamite-soccer-2002.json](./61340-dynamite-soccer-2002.json) |
 | Dynamite Soccer 2004 Final | 61335 | [61335-dynamite-soccer-2004-final.json](./61335-dynamite-soccer-2004-final.json) |
 | Dynamite Soccer 98 | 61337 | [61337-dynamite-soccer-98.json](./61337-dynamite-soccer-98.json) |
+| Dynamix | 14045 | [14045-dynamix.json](./14045-dynamix.json) |
 | Dynamix | 56355 | [56355-dynamix.json](./56355-dynamix.json) |
 | Dynamo Frank | 413035 | [413035-dynamo-frank.json](./413035-dynamo-frank.json) |
 | Dynamo Kid | 399924 | [399924-dynamo-kid.json](./399924-dynamo-kid.json) |
@@ -15402,6 +15406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty's Defender: The Scroll's Curse | 312745 | [312745-dynastys-defender-the-scrolls-curse.json](./312745-dynastys-defender-the-scrolls-curse.json) |
 | Dynatech | 93486 | [93486-dynatech.json](./93486-dynatech.json) |
 | DynaTrip | 417957 | [417957-dynatrip.json](./417957-dynatrip.json) |
+| Dynatron Mission | 14046 | [14046-dynatron-mission.json](./14046-dynatron-mission.json) |
 | Dynetzzle Extended | 20101 | [20101-dynetzzle-extended.json](./20101-dynetzzle-extended.json) |
 | Dynogems | 42826 | [42826-dynogems.json](./42826-dynogems.json) |
 | Dynopunk | 147348 | [147348-dynopunk.json](./147348-dynopunk.json) |
