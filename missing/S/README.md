@@ -17396,6 +17396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man & Friends: Doc Ock's Challenge | 72999 | [72999-spider-man-and-friends-doc-ocks-challenge.json](./72999-spider-man-and-friends-doc-ocks-challenge.json) |
 | Spider-Man & Friends: Secret Missions | 73001 | [73001-spider-man-and-friends-secret-missions.json](./73001-spider-man-and-friends-secret-missions.json) |
 | Spider-Man 2 | 200980 | [200980-spider-man-2.json](./200980-spider-man-2.json) |
+| Spider-Man 2 | 218127 | [218127-spider-man-2.json](./218127-spider-man-2.json) |
 | Spider-Man 2 | 243027 | [243027-spider-man-2.json](./243027-spider-man-2.json) |
 | Spider-Man 2 | 80446 | [80446-spider-man-2.json](./80446-spider-man-2.json) |
 | Spider-Man 2 Handheld Game | 230180 | [230180-spider-man-2-handheld-game.json](./230180-spider-man-2-handheld-game.json) |
@@ -17907,6 +17908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatoon 3: Expansion Pass | 236681 | [236681-splatoon-3-expansion-pass.json](./236681-splatoon-3-expansion-pass.json) |
 | Splatoon 3: Inkopolis | 236677 | [236677-splatoon-3-inkopolis.json](./236677-splatoon-3-inkopolis.json) |
 | Splatoon 3: Rainbow Alterna | 358239 | [358239-splatoon-3-rainbow-alterna.json](./358239-splatoon-3-rainbow-alterna.json) |
+| Splatoon 3: Side Order | 236680 | [236680-splatoon-3-side-order.json](./236680-splatoon-3-side-order.json) |
 | Splatoon 3: Sizzle Season | 306191 | [306191-splatoon-3-sizzle-season.json](./306191-splatoon-3-sizzle-season.json) |
 | Splatoon Raiders | 348977 | [348977-splatoon-raiders.json](./348977-splatoon-raiders.json) |
 | Splatoon: Torrential Climb | 316713 | [316713-splatoon-torrential-climb.json](./316713-splatoon-torrential-climb.json) |
@@ -19951,6 +19953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wing | 385716 | [385716-star-wing.json](./385716-star-wing.json) |
 | Star Wish Traveler | 166837 | [166837-star-wish-traveler.json](./166837-star-wish-traveler.json) |
 | Star Witch | 190224 | [190224-star-witch.json](./190224-star-witch.json) |
+| Star Wolves | 9849 | [9849-star-wolves.json](./9849-star-wolves.json) |
 | Star Wolves 3: Ashes of Victory | 65847 | [65847-star-wolves-3-ashes-of-victory.json](./65847-star-wolves-3-ashes-of-victory.json) |
 | Star Wolves 3: Civil War | 9851 | [9851-star-wolves-3-civil-war.json](./9851-star-wolves-3-civil-war.json) |
 | Star Word | 318784 | [318784-star-word.json](./318784-star-word.json) |
