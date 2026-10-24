@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-24T08:56:08.801Z",
-  "total_soundtracks": 2550,
+  "generated_at": "2026-10-24T09:07:14.458Z",
+  "total_soundtracks": 2567,
   "games": [
     {
       "igdb_id": 7522,
@@ -3599,6 +3599,20 @@
       ]
     },
     {
+      "igdb_id": 11415,
+      "game_name": "Blues and Bullets",
+      "game_url": "https://ostdb.net/games/blues-and-bullets",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732efbbc27d366b98de29c1460",
+      "albums": [
+        {
+          "album_name": "Blues and Bullets (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2oQAZCDZbRt5XAK3gvFHaw",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 154161,
       "game_name": "Bō: Path of the Teal Lotus",
       "game_url": "https://ostdb.net/games/bo-path-of-the-teal-lotus",
@@ -7025,6 +7039,20 @@
       ]
     },
     {
+      "igdb_id": 6279,
+      "game_name": "Device 6",
+      "game_url": "https://ostdb.net/games/device-6",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d6695b83967e8e6b85f0b4d2",
+      "albums": [
+        {
+          "album_name": "DEVICE 6 Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4NS2gyqfRuu66hWGkQqKVv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 134,
       "game_name": "Devil May Cry",
       "game_url": "https://ostdb.net/games/devil-may-cry",
@@ -7166,6 +7194,20 @@
           "album_name": "Diablo IV: Vessel of Hatred (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3F4ROg6ZRKuevgBULADLrI",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 381239,
+      "game_name": "Diablo IV: Lord of Hatred",
+      "game_url": "https://ostdb.net/games/diablo-iv-lord-of-hatred",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27388ea627fdab4c16a49fd10fe",
+      "albums": [
+        {
+          "album_name": "Diablo IV: Lord of Hatred (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6OLXEVN6KSOllsVNF95Ejy",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -7687,6 +7729,20 @@
         {
           "album_name": "DOOM: The Dark Ages | Revelations (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0IcVOJRawIvLvHklsVCUW7",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 59078,
+      "game_name": "Door Kickers 2",
+      "game_url": "https://ostdb.net/games/door-kickers-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273341f53a23e46b846b8d2b4c1",
+      "albums": [
+        {
+          "album_name": "Door Kickers 2 - Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5OVAn4RIsYaUPgGwgxekNF",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -8781,6 +8837,20 @@
       ]
     },
     {
+      "igdb_id": 203367,
+      "game_name": "Eternights",
+      "game_url": "https://ostdb.net/games/eternights",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a9bc57e31c0d3387dd9a2541",
+      "albums": [
+        {
+          "album_name": "Eternights (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6tGnxDFsbbWFgwy2iqiYfQ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 342919,
       "game_name": "Europa Universalis V",
       "game_url": "https://ostdb.net/games/europa-universalis-v",
@@ -9520,6 +9590,20 @@
     },
     {
       "igdb_id": 205673,
+      "game_name": "Final Fantasy IX",
+      "game_url": "https://ostdb.net/games/final-fantasy-ix",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27373fdbf8281a526452f942410",
+      "albums": [
+        {
+          "album_name": "FINAL FANTASY IX Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 340349,
       "game_name": "Final Fantasy IX",
       "game_url": "https://ostdb.net/games/final-fantasy-ix",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b27373fdbf8281a526452f942410",
@@ -13577,6 +13661,20 @@
       ]
     },
     {
+      "igdb_id": 6277,
+      "game_name": "Intrusion 2",
+      "game_url": "https://ostdb.net/games/intrusion-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739abc6f0bf39ee94a87a2500c",
+      "albums": [
+        {
+          "album_name": "Intrusion 2 OST",
+          "spotify_url": "https://open.spotify.com/album/16ECN1T8vv26GTGpgqWQ6a",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 348216,
       "game_name": "Invincible Vs.",
       "game_url": "https://ostdb.net/games/invincible-vs",
@@ -13932,6 +14030,20 @@
           "album_name": "Katana Zero (Original Soundtrack) [Live] [Live Version]",
           "spotify_url": "https://open.spotify.com/album/7ks5XEczAEqIcp6pLiZCZL",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 322691,
+      "game_name": "Kathy Rain 2: Soothsayer",
+      "game_url": "https://ostdb.net/games/kathy-rain-2-soothsayer",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b192463faa72dbf1ef612f52",
+      "albums": [
+        {
+          "album_name": "Kathy Rain 2: Soothsayer (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/60jaaMfhibs2eiaFfLmMWs",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -14607,6 +14719,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/legacy-of-kain-soul-reaver-the-dead-shall-rise/1871224645?uo=4",
           "album_link_url": "https://album.link/i/1871224645"
+        }
+      ]
+    },
+    {
+      "igdb_id": 7885,
+      "game_name": "Legend of Dungeon",
+      "game_url": "https://ostdb.net/games/legend-of-dungeon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27397488e4075aff6bd4a322cde",
+      "albums": [
+        {
+          "album_name": "Legend of Dungeon the Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1Zu9ZlpGKsjGH06xktD2u4",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -18543,6 +18669,20 @@
       ]
     },
     {
+      "igdb_id": 324225,
+      "game_name": "Nubby's Number Factory",
+      "game_url": "https://ostdb.net/games/nubbys-number-factory",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730a19b8d8f638b4d753687b31",
+      "albums": [
+        {
+          "album_name": "Nubby's Number Factory (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5xt2bhzBVRBu9FkzoLhFVp",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3227,
       "game_name": "Nuclear Throne",
       "game_url": "https://ostdb.net/games/nuclear-throne",
@@ -19813,6 +19953,20 @@
         {
           "album_name": "PLAYBOY: The Mansion Soundtrack- Mixed By Felix da Housecat",
           "spotify_url": "https://open.spotify.com/album/3dlg0F9FTXCV408qqcKpYU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 341844,
+      "game_name": "Poco",
+      "game_url": "https://ostdb.net/games/poco",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a00ffdb53a709a233026e493",
+      "albums": [
+        {
+          "album_name": "Poco (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3adjcyDlPxYCiAQ6PwkqED",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -21425,6 +21579,20 @@
       ]
     },
     {
+      "igdb_id": 7441,
+      "game_name": "Ridge Racer 7",
+      "game_url": "https://ostdb.net/games/ridge-racer-7",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27331248ebf69d0a64bdf04858d",
+      "albums": [
+        {
+          "album_name": "RIDGE RACER 7 Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7FrmC8vmYyEoKEeXcR02kH",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 18697,
       "game_name": "Ridge Racer Revolution",
       "game_url": "https://ostdb.net/games/ridge-racer-revolution",
@@ -22031,6 +22199,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/sable-original-video-game-soundtrack/1581665050?uo=4",
           "album_link_url": "https://album.link/i/1581665050"
+        }
+      ]
+    },
+    {
+      "igdb_id": 11310,
+      "game_name": "SaGa Frontier",
+      "game_url": "https://ostdb.net/games/saga-frontier",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a1bab97666065c2cf048f2bb",
+      "albums": [
+        {
+          "album_name": "SaGa Frontier Original SoundTrack",
+          "spotify_url": "https://open.spotify.com/album/7md7YyJpvjOFH1UgdTFFZ9",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -22651,6 +22833,20 @@
         {
           "album_name": "Shadowrun: Hong Kong (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2cPhBpK0IFYL75OP2mDT3e",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 14694,
+      "game_name": "Shakedown: Hawaii",
+      "game_url": "https://ostdb.net/games/shakedown-hawaii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c95ca9cbc46d4f94a7174df4",
+      "albums": [
+        {
+          "album_name": "Shakedown Hawaii (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5lRcZdcs4ey3HckSzlZqkc",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -23379,6 +23575,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/slitterhead-original-game-soundtrack/1784820377?uo=4",
           "album_link_url": "https://album.link/i/1784820377"
+        }
+      ]
+    },
+    {
+      "igdb_id": 77730,
+      "game_name": "Smalland: Survive the Wilds",
+      "game_url": "https://ostdb.net/games/smalland-survive-the-wilds",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bb60281b0143f6223856acc0",
+      "albums": [
+        {
+          "album_name": "Smalland: Survive the Wilds (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5Jfloldqcks0lRdVVpIBzU",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -24801,6 +25011,20 @@
           "spotify_url": "https://open.spotify.com/album/5db1v8e3BJu4ymP3sCmcM8",
           "apple_music_url": "https://music.apple.com/us/album/stick-fight-the-game-original-soundtrack-ep/1290806376",
           "album_link_url": "https://album.link/i/1290806376"
+        }
+      ]
+    },
+    {
+      "igdb_id": 240514,
+      "game_name": "Sticky Business",
+      "game_url": "https://ostdb.net/games/sticky-business",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273994f3283f629569a736125df",
+      "albums": [
+        {
+          "album_name": "Sticky Business (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5X4DUn7gjzEiFetj6KKJyv",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -26981,6 +27205,20 @@
         {
           "album_name": "The Jackbox Party Pack 8 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/76RmhNFfUB7tNfB6ZddywU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 282826,
+      "game_name": "The King is Watching",
+      "game_url": "https://ostdb.net/games/the-king-is-watching",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736b9613eeb75f48a927c89856",
+      "albums": [
+        {
+          "album_name": "The King Is Watching (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0BgBbm5K48A6BnEVCTY0O2",
           "apple_music_url": "",
           "album_link_url": ""
         }
