@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karnaaj Rally | 6489 | [6489-karnaaj-rally.json](./6489-karnaaj-rally.json) |
 | Karnage Chronicles | 28272 | [28272-karnage-chronicles.json](./28272-karnage-chronicles.json) |
 | Karnn Age | 67969 | [67969-karnn-age.json](./67969-karnn-age.json) |
+| Karnov | 13234 | [13234-karnov.json](./13234-karnov.json) |
 | Karnov | 198791 | [198791-karnov.json](./198791-karnov.json) |
 | Karnov | 288188 | [288188-karnov.json](./288188-karnov.json) |
 | Karnov's Revenge | 39546 | [39546-karnovs-revenge.json](./39546-karnovs-revenge.json) |
@@ -2262,7 +2263,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -3486,6 +3486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klondike Solitaire Kings | 54336 | [54336-klondike-solitaire-kings.json](./54336-klondike-solitaire-kings.json) |
 | Klondike Solitaire Pro | 391349 | [391349-klondike-solitaire-pro.json](./391349-klondike-solitaire-pro.json) |
 | Klondike's Hike | 321479 | [321479-klondikes-hike.json](./321479-klondikes-hike.json) |
+| Klonoa | 21184 | [21184-klonoa.json](./21184-klonoa.json) |
 | Klonoa 2: Dream Champ Tournament | 6493 | [6493-klonoa-2-dream-champ-tournament.json](./6493-klonoa-2-dream-champ-tournament.json) |
 | Klonoa 2: Lunatea's Veil | 272023 | [272023-klonoa-2-lunateas-veil.json](./272023-klonoa-2-lunateas-veil.json) |
 | Klonoa 2: Lunatea's Veil | 9709 | [9709-klonoa-2-lunateas-veil.json](./9709-klonoa-2-lunateas-veil.json) |
