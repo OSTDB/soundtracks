@@ -4469,6 +4469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensible Soccer: European Champions | 165408 | [165408-sensible-soccer-european-champions.json](./165408-sensible-soccer-european-champions.json) |
 | Sensible Soccer: European Club Edition | 79250 | [79250-sensible-soccer-european-club-edition.json](./79250-sensible-soccer-european-club-edition.json) |
 | Sensible Train-Spotting | 77374 | [77374-sensible-train-spotting.json](./77374-sensible-train-spotting.json) |
+| Sensible World of Soccer | 10121 | [10121-sensible-world-of-soccer.json](./10121-sensible-world-of-soccer.json) |
 | Sensible World of Soccer | 165468 | [165468-sensible-world-of-soccer.json](./165468-sensible-world-of-soccer.json) |
 | Sensible World of Soccer '95/'96 | 165465 | [165465-sensible-world-of-soccer-95-96.json](./165465-sensible-world-of-soccer-95-96.json) |
 | Sensible World of Soccer '97/'98 | 165474 | [165474-sensible-world-of-soccer-97-98.json](./165474-sensible-world-of-soccer-97-98.json) |
@@ -6435,6 +6436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: Crimes & Punishments | 5541 | [5541-sherlock-holmes-crimes-and-punishments.json](./5541-sherlock-holmes-crimes-and-punishments.json) |
 | Sherlock Holmes: Crimes and Punishments + Sherlock Holmes: The Devil's Daughter Bundle | 196515 | [196515-sherlock-holmes-crimes-and-punishments-sherlock-holmes-the-devils-daughter-bundle.json](./196515-sherlock-holmes-crimes-and-punishments-sherlock-holmes-the-devils-daughter-bundle.json) |
 | Sherlock Holmes: Crimes and Punishments Redux | 164780 | [164780-sherlock-holmes-crimes-and-punishments-redux.json](./164780-sherlock-holmes-crimes-and-punishments-redux.json) |
+| Sherlock Holmes: Nemesis | 6863 | [6863-sherlock-holmes-nemesis.json](./6863-sherlock-holmes-nemesis.json) |
 | Sherlock Holmes: Puzzle City | 222297 | [222297-sherlock-holmes-puzzle-city.json](./222297-sherlock-holmes-puzzle-city.json) |
 | Sherlock Holmes: The Awakened - The Sleuth's Attire | 245169 | [245169-sherlock-holmes-the-awakened-the-sleuths-attire.json](./245169-sherlock-holmes-the-awakened-the-sleuths-attire.json) |
 | Sherlock Holmes: The Case of the Beheaded Smuggler | 230257 | [230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json](./230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json) |
@@ -14267,6 +14269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Tennis DX | 261295 | [261295-sonic-tennis-dx.json](./261295-sonic-tennis-dx.json) |
 | Sonic Test Labs | 265209 | [265209-sonic-test-labs.json](./265209-sonic-test-labs.json) |
 | Sonic the Broad Jump | 274392 | [274392-sonic-the-broad-jump.json](./274392-sonic-the-broad-jump.json) |
+| Sonic the Fighters | 7728 | [7728-sonic-the-fighters.json](./7728-sonic-the-fighters.json) |
 | Sonic the Fighters 2 | 331300 | [331300-sonic-the-fighters-2.json](./331300-sonic-the-fighters-2.json) |
 | Sonic the Fighters Blitz | 321766 | [321766-sonic-the-fighters-blitz.json](./321766-sonic-the-fighters-blitz.json) |
 | Sonic The Funk | 392430 | [392430-sonic-the-funk.json](./392430-sonic-the-funk.json) |
@@ -14307,6 +14310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog 3D | 144907 | [144907-sonic-the-hedgehog-3d.json](./144907-sonic-the-hedgehog-3d.json) |
 | Sonic the Hedgehog 4 Remastered | 332614 | [332614-sonic-the-hedgehog-4-remastered.json](./332614-sonic-the-hedgehog-4-remastered.json) |
 | Sonic the Hedgehog 4: Episode I | 9473 | [9473-sonic-the-hedgehog-4-episode-i.json](./9473-sonic-the-hedgehog-4-episode-i.json) |
+| Sonic the Hedgehog 4: Episode II | 9474 | [9474-sonic-the-hedgehog-4-episode-ii.json](./9474-sonic-the-hedgehog-4-episode-ii.json) |
 | Sonic the Hedgehog 4: Episode Metal | 197602 | [197602-sonic-the-hedgehog-4-episode-metal.json](./197602-sonic-the-hedgehog-4-episode-metal.json) |
 | Sonic the Hedgehog Beta Hoax | 323857 | [323857-sonic-the-hedgehog-beta-hoax.json](./323857-sonic-the-hedgehog-beta-hoax.json) |
 | Sonic the Hedgehog Chaos & Spinball | 202266 | [202266-sonic-the-hedgehog-chaos-and-spinball.json](./202266-sonic-the-hedgehog-chaos-and-spinball.json) |
@@ -18508,6 +18512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Story | 142350 | [142350-spy-story.json](./142350-spy-story.json) |
 | Spy Swatter 2 | 219643 | [219643-spy-swatter-2.json](./219643-spy-swatter-2.json) |
 | Spy Tactics | 120359 | [120359-spy-tactics.json](./120359-spy-tactics.json) |
+| Spy vs Spy | 9166 | [9166-spy-vs-spy.json](./9166-spy-vs-spy.json) |
 | Spy vs Spy III: Arctic Antics | 12773 | [12773-spy-vs-spy-iii-arctic-antics.json](./12773-spy-vs-spy-iii-arctic-antics.json) |
 | Spy vs. Spy 2 | 41163 | [41163-spy-vs-spy-2.json](./41163-spy-vs-spy-2.json) |
 | Spy vs. Spy 3 | 41162 | [41162-spy-vs-spy-3.json](./41162-spy-vs-spy-3.json) |
@@ -19366,6 +19371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ocean: Second Evolution | 80504 | [80504-star-ocean-second-evolution.json](./80504-star-ocean-second-evolution.json) |
 | Star Ocean: The Divine Force | 178298 | [178298-star-ocean-the-divine-force.json](./178298-star-ocean-the-divine-force.json) |
 | Star Ocean: The Last Hope | 7192 | [7192-star-ocean-the-last-hope.json](./7192-star-ocean-the-last-hope.json) |
+| Star Ocean: The Second Story | 11210 | [11210-star-ocean-the-second-story.json](./11210-star-ocean-the-second-story.json) |
 | Star Ocean: Till the End of Time | 11212 | [11212-star-ocean-till-the-end-of-time.json](./11212-star-ocean-till-the-end-of-time.json) |
 | Star Odyssey | 45757 | [45757-star-odyssey.json](./45757-star-odyssey.json) |
 | Star of Games | 399434 | [399434-star-of-games.json](./399434-star-of-games.json) |
