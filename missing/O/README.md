@@ -4743,6 +4743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxy Con Brio | 151986 | [151986-oxy-con-brio.json](./151986-oxy-con-brio.json) |
 | Oxyblack Fortress | 271317 | [271317-oxyblack-fortress.json](./271317-oxyblack-fortress.json) |
 | Oxyd | 126335 | [126335-oxyd.json](./126335-oxyd.json) |
+| Oxyd | 18867 | [18867-oxyd.json](./18867-oxyd.json) |
 | Oxyd Extra | 93036 | [93036-oxyd-extra.json](./93036-oxyd-extra.json) |
 | OxyDungeon | 422501 | [422501-oxydungeon.json](./422501-oxydungeon.json) |
 | Oxygen | 177802 | [177802-oxygen.json](./177802-oxygen.json) |
