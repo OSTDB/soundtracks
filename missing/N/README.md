@@ -3222,6 +3222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ni no Kuni II: Revenant Kingdom - Premium Edition | 136328 | [136328-ni-no-kuni-ii-revenant-kingdom-premium-edition.json](./136328-ni-no-kuni-ii-revenant-kingdom-premium-edition.json) |
 | Ni no Kuni II: Revenant Kingdom - Tale of a Timeless Tome | 115646 | [115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json](./115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json) |
 | Ni no Kuni II: Revenant Kingdom - The Lair of the Lost Lord | 154455 | [154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json](./154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json) |
+| Ni no Kuni: Dominion of the Dark Djinn | 18856 | [18856-ni-no-kuni-dominion-of-the-dark-djinn.json](./18856-ni-no-kuni-dominion-of-the-dark-djinn.json) |
 | Ni no Kuni: Wrath of the White Witch | 1864 | [1864-ni-no-kuni-wrath-of-the-white-witch.json](./1864-ni-no-kuni-wrath-of-the-white-witch.json) |
 | Ni no Kuni: Wrath of the White Witch - Wizard's Edition | 223042 | [223042-ni-no-kuni-wrath-of-the-white-witch-wizards-edition.json](./223042-ni-no-kuni-wrath-of-the-white-witch-wizards-edition.json) |
 | Ni no Kuni: Wrath of the White Witch Remastered | 119390 | [119390-ni-no-kuni-wrath-of-the-white-witch-remastered.json](./119390-ni-no-kuni-wrath-of-the-white-witch-remastered.json) |
