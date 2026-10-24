@@ -4166,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XI: Vana'diel Collection 2008 | 41853 | [41853-final-fantasy-xi-vanadiel-collection-2008.json](./41853-final-fantasy-xi-vanadiel-collection-2008.json) |
 | Final Fantasy XI: Vision of Abyssea | 255774 | [255774-final-fantasy-xi-vision-of-abyssea.json](./255774-final-fantasy-xi-vision-of-abyssea.json) |
 | Final Fantasy XI: Wings of the Goddess | 402 | [402-final-fantasy-xi-wings-of-the-goddess.json](./402-final-fantasy-xi-wings-of-the-goddess.json) |
+| Final Fantasy XII International: Zodiac Job System | 129890 | [129890-final-fantasy-xii-international-zodiac-job-system.json](./129890-final-fantasy-xii-international-zodiac-job-system.json) |
 | Final Fantasy XII: Collector's Edition | 41851 | [41851-final-fantasy-xii-collectors-edition.json](./41851-final-fantasy-xii-collectors-edition.json) |
 | Final Fantasy XII: The Zodiac Age | 19455 | [19455-final-fantasy-xii-the-zodiac-age.json](./19455-final-fantasy-xii-the-zodiac-age.json) |
 | Final Fantasy XII: The Zodiac Age - Collector's Edition | 136364 | [136364-final-fantasy-xii-the-zodiac-age-collectors-edition.json](./136364-final-fantasy-xii-the-zodiac-age-collectors-edition.json) |
@@ -4879,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Theft | 141749 | [141749-fire-theft.json](./141749-fire-theft.json) |
 | Fire Thief | 286053 | [286053-fire-thief.json](./286053-fire-thief.json) |
 | Fire Trap | 39551 | [39551-fire-trap.json](./39551-fire-trap.json) |
+| Fire Truck | 143172 | [143172-fire-truck.json](./143172-fire-truck.json) |
 | Fire Truck | 40039 | [40039-fire-truck.json](./40039-fire-truck.json) |
 | Fire Truck: Airport Rescue | 96909 | [96909-fire-truck-airport-rescue.json](./96909-fire-truck-airport-rescue.json) |
 | Fire Trump: Air Combat VR | 171362 | [171362-fire-trump-air-combat-vr.json](./171362-fire-trump-air-combat-vr.json) |
@@ -7996,6 +7998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Hill Disillusion | 121472 | [121472-forgotten-hill-disillusion.json](./121472-forgotten-hill-disillusion.json) |
 | Forgotten Hill First Steps | 153157 | [153157-forgotten-hill-first-steps.json](./153157-forgotten-hill-first-steps.json) |
 | Forgotten Hill Mementoes | 87980 | [87980-forgotten-hill-mementoes.json](./87980-forgotten-hill-mementoes.json) |
+| Forgotten Hill Tales | 142330 | [142330-forgotten-hill-tales.json](./142330-forgotten-hill-tales.json) |
 | Forgotten Hill: Fall | 317638 | [317638-forgotten-hill-fall.json](./317638-forgotten-hill-fall.json) |
 | Forgotten Hill: Surgery | 101764 | [101764-forgotten-hill-surgery.json](./101764-forgotten-hill-surgery.json) |
 | Forgotten Hill: The Wardrobe | 340235 | [340235-forgotten-hill-the-wardrobe.json](./340235-forgotten-hill-the-wardrobe.json) |
