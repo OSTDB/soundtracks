@@ -1432,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Law Mower | 41933 | [41933-law-mower.json](./41933-law-mower.json) |
 | Law of Creation 2 | 193935 | [193935-law-of-creation-2.json](./193935-law-of-creation-2.json) |
 | Law of Dispute | 295393 | [295393-law-of-dispute.json](./295393-law-of-dispute.json) |
+| Law of the West | 26259 | [26259-law-of-the-west.json](./26259-law-of-the-west.json) |
 | Law School | 347220 | [347220-law-school.json](./347220-law-school.json) |
 | Law: Transporter | 292425 | [292425-law-transporter.json](./292425-law-transporter.json) |
 | Lawang Sewu: Basement B | 364238 | [364238-lawang-sewu-basement-b.json](./364238-lawang-sewu-basement-b.json) |
