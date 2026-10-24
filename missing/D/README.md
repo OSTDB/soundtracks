@@ -4506,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender | 278302 | [278302-defender.json](./278302-defender.json) |
 | Defender | 287077 | [287077-defender.json](./287077-defender.json) |
 | Defender | 346133 | [346133-defender.json](./346133-defender.json) |
+| Defender | 3873 | [3873-defender.json](./3873-defender.json) |
 | Defender | 388144 | [388144-defender.json](./388144-defender.json) |
 | Defender 2000 | 40817 | [40817-defender-2000.json](./40817-defender-2000.json) |
 | Defender 3D | 110744 | [110744-defender-3d.json](./110744-defender-3d.json) |
@@ -7273,6 +7274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Up | 395561 | [395561-digimon-up.json](./395561-digimon-up.json) |
 | Digimon Vital Bracelet Lab | 185990 | [185990-digimon-vital-bracelet-lab.json](./185990-digimon-vital-bracelet-lab.json) |
 | Digimon World | 8614 | [8614-digimon-world.json](./8614-digimon-world.json) |
+| Digimon World 2 | 36508 | [36508-digimon-world-2.json](./36508-digimon-world-2.json) |
 | Digimon World 2 Alternative | 322120 | [322120-digimon-world-2-alternative.json](./322120-digimon-world-2-alternative.json) |
 | Digimon World 3 | 19678 | [19678-digimon-world-3.json](./19678-digimon-world-3.json) |
 | Digimon World 4 | 3878 | [3878-digimon-world-4.json](./3878-digimon-world-4.json) |
@@ -12014,6 +12016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest I & II HD-2D Remake | 306144 | [306144-dragon-quest-i-and-ii-hd-2d-remake.json](./306144-dragon-quest-i-and-ii-hd-2d-remake.json) |
 | Dragon Quest I.II | 89204 | [89204-dragon-quest-i-ii.json](./89204-dragon-quest-i-ii.json) |
 | Dragon Quest II: Akuryo no Kamigami | 239186 | [239186-dragon-quest-ii-akuryo-no-kamigami.json](./239186-dragon-quest-ii-akuryo-no-kamigami.json) |
+| Dragon Quest II: Luminaries of the Legendary Line | 1813 | [1813-dragon-quest-ii-luminaries-of-the-legendary-line.json](./1813-dragon-quest-ii-luminaries-of-the-legendary-line.json) |
 | Dragon Quest II: Luminaries of the Legendary Line | 287153 | [287153-dragon-quest-ii-luminaries-of-the-legendary-line.json](./287153-dragon-quest-ii-luminaries-of-the-legendary-line.json) |
 | Dragon Quest III HD-2D Remake | 149980 | [149980-dragon-quest-iii-hd-2d-remake.json](./149980-dragon-quest-iii-hd-2d-remake.json) |
 | Dragon Quest III: The Seeds of Salvation | 1814 | [1814-dragon-quest-iii-the-seeds-of-salvation.json](./1814-dragon-quest-iii-the-seeds-of-salvation.json) |
@@ -12507,6 +12510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawdl.io | 362062 | [362062-drawdl-io.json](./362062-drawdl-io.json) |
 | Drawer | 187849 | [187849-drawer.json](./187849-drawer.json) |
 | DrawFighters | 99494 | [99494-drawfighters.json](./99494-drawfighters.json) |
+| Drawful 2 | 19083 | [19083-drawful-2.json](./19083-drawful-2.json) |
 | Drawgaem | 158605 | [158605-drawgaem.json](./158605-drawgaem.json) |
 | Drawing Carnival | 276958 | [276958-drawing-carnival.json](./276958-drawing-carnival.json) |
 | Drawing Carnival: Anime Style | 276960 | [276960-drawing-carnival-anime-style.json](./276960-drawing-carnival-anime-style.json) |
