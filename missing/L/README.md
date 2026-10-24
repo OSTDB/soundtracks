@@ -4762,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Jumper! | 175403 | [175403-little-jumper.json](./175403-little-jumper.json) |
 | Little Keepers | 256418 | [256418-little-keepers.json](./256418-little-keepers.json) |
 | Little King's Story | 4974 | [4974-little-kings-story.json](./4974-little-kings-story.json) |
+| Little Kingdom 2 | 30569 | [30569-little-kingdom-2.json](./30569-little-kingdom-2.json) |
 | Little Kingdom RTS | 349319 | [349319-little-kingdom-rts.json](./349319-little-kingdom-rts.json) |
 | Little Kingdoms: Chapters 1-3 | 262930 | [262930-little-kingdoms-chapters-1-3.json](./262930-little-kingdoms-chapters-1-3.json) |
 | Little Kite | 61892 | [61892-little-kite.json](./61892-little-kite.json) |
