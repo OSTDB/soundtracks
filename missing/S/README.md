@@ -2592,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo! Night of 100 Frights | 2860 | [2860-scooby-doo-night-of-100-frights.json](./2860-scooby-doo-night-of-100-frights.json) |
 | Scooby-Doo! Unmasked | 210729 | [210729-scooby-doo-unmasked.json](./210729-scooby-doo-unmasked.json) |
 | Scooby-Doo! Unmasked | 228909 | [228909-scooby-doo-unmasked.json](./228909-scooby-doo-unmasked.json) |
+| Scooby-Doo! Unmasked | 2854 | [2854-scooby-doo-unmasked.json](./2854-scooby-doo-unmasked.json) |
 | Scooby-Doo!: Big Air | 222811 | [222811-scooby-doo-big-air.json](./222811-scooby-doo-big-air.json) |
 | Scooby-Doo!: Catch Shaggy | 245412 | [245412-scooby-doo-catch-shaggy.json](./245412-scooby-doo-catch-shaggy.json) |
 | Scooby-Doo!: Creepy Run | 401284 | [401284-scooby-doo-creepy-run.json](./401284-scooby-doo-creepy-run.json) |
@@ -4708,6 +4709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam: GOG Collection | 205226 | [205226-serious-sam-gog-collection.json](./205226-serious-sam-gog-collection.json) |
 | Serious Sam: Gold Edition | 206017 | [206017-serious-sam-gold-edition.json](./206017-serious-sam-gold-edition.json) |
 | Serious Sam: Kamikaze Attack | 28077 | [28077-serious-sam-kamikaze-attack.json](./28077-serious-sam-kamikaze-attack.json) |
+| Serious Sam: Next Encounter | 4103 | [4103-serious-sam-next-encounter.json](./4103-serious-sam-next-encounter.json) |
 | Serious Sam: Portals | 299202 | [299202-serious-sam-portals.json](./299202-serious-sam-portals.json) |
 | Serious Sam: Realm of Thoth | 400049 | [400049-serious-sam-realm-of-thoth.json](./400049-serious-sam-realm-of-thoth.json) |
 | Serious Sam: The Greek Encounter | 79181 | [79181-serious-sam-the-greek-encounter.json](./79181-serious-sam-the-greek-encounter.json) |
@@ -5364,6 +5366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Hawk One | 282140 | [282140-shadow-hawk-one.json](./282140-shadow-hawk-one.json) |
 | Shadow Hearts | 4170 | [4170-shadow-hearts.json](./4170-shadow-hearts.json) |
 | Shadow Hearts: Covenant | 4171 | [4171-shadow-hearts-covenant.json](./4171-shadow-hearts-covenant.json) |
+| Shadow Hearts: From the New World | 4172 | [4172-shadow-hearts-from-the-new-world.json](./4172-shadow-hearts-from-the-new-world.json) |
 | Shadow Hold | 236223 | [236223-shadow-hold.json](./236223-shadow-hold.json) |
 | Shadow Hunt | 374077 | [374077-shadow-hunt.json](./374077-shadow-hunt.json) |
 | Shadow Hunter | 35386 | [35386-shadow-hunter.json](./35386-shadow-hunter.json) |
@@ -7736,6 +7739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek Smash n' Crash Racing | 248508 | [248508-shrek-smash-n-crash-racing.json](./248508-shrek-smash-n-crash-racing.json) |
 | Shrek Smash n' Crash Racing | 3671 | [3671-shrek-smash-n-crash-racing.json](./3671-shrek-smash-n-crash-racing.json) |
 | Shrek Sugar Fever | 97357 | [97357-shrek-sugar-fever.json](./97357-shrek-sugar-fever.json) |
+| Shrek Super Slam | 2628 | [2628-shrek-super-slam.json](./2628-shrek-super-slam.json) |
 | Shrek SuperSlam | 10628 | [10628-shrek-superslam.json](./10628-shrek-superslam.json) |
 | Shrek SuperSlam | 141642 | [141642-shrek-superslam.json](./141642-shrek-superslam.json) |
 | Shrek the Third | 200881 | [200881-shrek-the-third.json](./200881-shrek-the-third.json) |
@@ -15819,6 +15823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space is Red | 128573 | [128573-space-is-red.json](./128573-space-is-red.json) |
 | Space Is Red | 379341 | [379341-space-is-red.json](./379341-space-is-red.json) |
 | Space Jack | 60598 | [60598-space-jack.json](./60598-space-jack.json) |
+| Space Jam | 46096 | [46096-space-jam.json](./46096-space-jam.json) |
 | Space Jam: A New Legacy - Full Court Pinball | 227827 | [227827-space-jam-a-new-legacy-full-court-pinball.json](./227827-space-jam-a-new-legacy-full-court-pinball.json) |
 | Space Jammers | 27651 | [27651-space-jammers.json](./27651-space-jammers.json) |
 | Space Jelly | 297479 | [297479-space-jelly.json](./297479-space-jelly.json) |
@@ -16875,6 +16880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Overflow | 306537 | [306537-speed-overflow.json](./306537-speed-overflow.json) |
 | Speed Plumber | 290270 | [290270-speed-plumber.json](./290270-speed-plumber.json) |
 | Speed Power Gunbike | 92832 | [92832-speed-power-gunbike.json](./92832-speed-power-gunbike.json) |
+| Speed Punks | 4119 | [4119-speed-punks.json](./4119-speed-punks.json) |
 | Speed Race DX | 342140 | [342140-speed-race-dx.json](./342140-speed-race-dx.json) |
 | Speed Racer | 111562 | [111562-speed-racer.json](./111562-speed-racer.json) |
 | Speed Racer | 245401 | [245401-speed-racer.json](./245401-speed-racer.json) |
@@ -19761,6 +19767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Racer and Commando Combo | 168392 | [168392-star-wars-racer-and-commando-combo.json](./168392-star-wars-racer-and-commando-combo.json) |
 | Star Wars Rebels: Chopper Chase | 97498 | [97498-star-wars-rebels-chopper-chase.json](./97498-star-wars-rebels-chopper-chase.json) |
 | Star Wars Rebels: Recon Missions | 23976 | [23976-star-wars-rebels-recon-missions.json](./23976-star-wars-rebels-recon-missions.json) |
+| Star Wars Trilogy Arcade | 39351 | [39351-star-wars-trilogy-arcade.json](./39351-star-wars-trilogy-arcade.json) |
 | Star Wars Trilogy: Apprentice of the Force | 6609 | [6609-star-wars-trilogy-apprentice-of-the-force.json](./6609-star-wars-trilogy-apprentice-of-the-force.json) |
 | Star Wars: 1313 | 1386 | [1386-star-wars-1313.json](./1386-star-wars-1313.json) |
 | Star Wars: Attack Squadrons | 62510 | [62510-star-wars-attack-squadrons.json](./62510-star-wars-attack-squadrons.json) |
@@ -22950,6 +22957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strikers | 29571 | [29571-strikers.json](./29571-strikers.json) |
 | Strikers 1945 | 39300 | [39300-strikers-1945.json](./39300-strikers-1945.json) |
 | Strikers 1945 for Nintendo Switch | 105051 | [105051-strikers-1945-for-nintendo-switch.json](./105051-strikers-1945-for-nintendo-switch.json) |
+| Strikers 1945 II | 39299 | [39299-strikers-1945-ii.json](./39299-strikers-1945-ii.json) |
 | Strikers 1945 II for Nintendo Switch | 234133 | [234133-strikers-1945-ii-for-nintendo-switch.json](./234133-strikers-1945-ii-for-nintendo-switch.json) |
 | Strikers 1945 III for Nintendo Switch | 212270 | [212270-strikers-1945-iii-for-nintendo-switch.json](./212270-strikers-1945-iii-for-nintendo-switch.json) |
 | Strikers 1945 Plus | 72911 | [72911-strikers-1945-plus.json](./72911-strikers-1945-plus.json) |
@@ -26242,6 +26250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Punchy Face | 181116 | [181116-super-punchy-face.json](./181116-super-punchy-face.json) |
 | Super Putty | 39039 | [39039-super-putty.json](./39039-super-putty.json) |
 | Super Puyo Puyo | 42406 | [42406-super-puyo-puyo.json](./42406-super-puyo-puyo.json) |
+| Super Puyo Puyo 2 | 42470 | [42470-super-puyo-puyo-2.json](./42470-super-puyo-puyo-2.json) |
 | Super Puyo Puyo Tsuu Remix | 42544 | [42544-super-puyo-puyo-tsuu-remix.json](./42544-super-puyo-puyo-tsuu-remix.json) |
 | Super Puzzle Blasters | 312689 | [312689-super-puzzle-blasters.json](./312689-super-puzzle-blasters.json) |
 | Super Puzzle Bobble | 138063 | [138063-super-puzzle-bobble.json](./138063-super-puzzle-bobble.json) |
