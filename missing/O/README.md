@@ -2347,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onigami | 184562 | [184562-onigami.json](./184562-onigami.json) |
 | Onigami Korinden Oni | 67612 | [67612-onigami-korinden-oni.json](./67612-onigami-korinden-oni.json) |
 | Onigashima: Awakening | 406103 | [406103-onigashima-awakening.json](./406103-onigashima-awakening.json) |
+| Onigiri | 18132 | [18132-onigiri.json](./18132-onigiri.json) |
 | Onigiri Heroes | 174699 | [174699-onigiri-heroes.json](./174699-onigiri-heroes.json) |
 | Onigiri Run | 351781 | [351781-onigiri-run.json](./351781-onigiri-run.json) |
 | Onigiri Shop Simulator | 361911 | [361911-onigiri-shop-simulator.json](./361911-onigiri-shop-simulator.json) |
