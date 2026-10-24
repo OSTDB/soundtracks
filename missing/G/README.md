@@ -1974,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear.Club | 55983 | [55983-gear-club.json](./55983-gear-club.json) |
 | Gear.Club Stradale | 194331 | [194331-gear-club-stradale.json](./194331-gear-club-stradale.json) |
 | Gear.Club Unlimited 1 & 2 | 409521 | [409521-gear-club-unlimited-1-and-2.json](./409521-gear-club-unlimited-1-and-2.json) |
+| Gear.Club Unlimited 2 | 107196 | [107196-gear-club-unlimited-2.json](./107196-gear-club-unlimited-2.json) |
 | Gear.Club Unlimited 2: Definitive Edition | 172590 | [172590-gear-club-unlimited-2-definitive-edition.json](./172590-gear-club-unlimited-2-definitive-edition.json) |
 | Gear.Club Unlimited 2: Tracks Edition | 139963 | [139963-gear-club-unlimited-2-tracks-edition.json](./139963-gear-club-unlimited-2-tracks-edition.json) |
 | Gear.Club Unlimited 2: Ultimate Edition | 172591 | [172591-gear-club-unlimited-2-ultimate-edition.json](./172591-gear-club-unlimited-2-ultimate-edition.json) |
@@ -2173,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemblades | 386881 | [386881-gemblades.json](./386881-gemblades.json) |
 | GemCore | 214157 | [214157-gemcore.json](./214157-gemcore.json) |
 | GemCraft | 23979 | [23979-gemcraft.json](./23979-gemcraft.json) |
+| GemCraft - Chasing Shadows | 17321 | [17321-gemcraft-chasing-shadows.json](./17321-gemcraft-chasing-shadows.json) |
 | GemCraft Chapter One: The Forgotten | 79289 | [79289-gemcraft-chapter-one-the-forgotten.json](./79289-gemcraft-chapter-one-the-forgotten.json) |
 | GemCraft Chapter Zero: Gem of Eternity | 62003 | [62003-gemcraft-chapter-zero-gem-of-eternity.json](./62003-gemcraft-chapter-zero-gem-of-eternity.json) |
 | GemCraft Lost Chapter: Labyrinth | 79288 | [79288-gemcraft-lost-chapter-labyrinth.json](./79288-gemcraft-lost-chapter-labyrinth.json) |
@@ -4508,6 +4510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Mile Smile | 40178 | [40178-go-go-mile-smile.json](./40178-go-go-mile-smile.json) |
 | Go! Go! Nippon! 2015 | 166656 | [166656-go-go-nippon-2015.json](./166656-go-go-nippon-2015.json) |
 | Go! Go! Nippon! 2016 | 166659 | [166659-go-go-nippon-2016.json](./166659-go-go-nippon-2016.json) |
+| Go! Go! Nippon!: My First Trip to Japan | 16675 | [16675-go-go-nippon-my-first-trip-to-japan.json](./16675-go-go-nippon-my-first-trip-to-japan.json) |
 | Go! Go! PogoGirl | 188125 | [188125-go-go-pogogirl.json](./188125-go-go-pogogirl.json) |
 | Go! Go! Shurihito | 181341 | [181341-go-go-shurihito.json](./181341-go-go-shurihito.json) |
 | Go! Go! Tank | 48997 | [48997-go-go-tank.json](./48997-go-go-tank.json) |
@@ -4924,6 +4927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of the Fallen Land | 51413 | [51413-gods-of-the-fallen-land.json](./51413-gods-of-the-fallen-land.json) |
 | Gods Play Dice | 409766 | [409766-gods-play-dice.json](./409766-gods-play-dice.json) |
 | Gods Remastered | 112099 | [112099-gods-remastered.json](./112099-gods-remastered.json) |
+| Gods Unchained | 109087 | [109087-gods-unchained.json](./109087-gods-unchained.json) |
 | Gods Wars Ex: Vampire | 194011 | [194011-gods-wars-ex-vampire.json](./194011-gods-wars-ex-vampire.json) |
 | Gods Wars: Infinity Epic | 267462 | [267462-gods-wars-infinity-epic.json](./267462-gods-wars-infinity-epic.json) |
 | Gods Will Be Watching: Special Edition | 51832 | [51832-gods-will-be-watching-special-edition.json](./51832-gods-will-be-watching-special-edition.json) |
@@ -9024,6 +9028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guntu Western Front June, 1944 | 62288 | [62288-guntu-western-front-june-1944.json](./62288-guntu-western-front-june-1944.json) |
 | Gunvein | 211693 | [211693-gunvein.json](./211693-gunvein.json) |
 | GunViper | 269484 | [269484-gunviper.json](./269484-gunviper.json) |
+| Gunvolt Chronicles: Luminous Avenger iX | 101177 | [101177-gunvolt-chronicles-luminous-avenger-ix.json](./101177-gunvolt-chronicles-luminous-avenger-ix.json) |
 | Gunvolt Chronicles: Luminous Avenger iX - Extra Mission: "VS ???" | 170842 | [170842-gunvolt-chronicles-luminous-avenger-ix-extra-mission-vs.json](./170842-gunvolt-chronicles-luminous-avenger-ix-extra-mission-vs.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Jason Frudnick | 196153 | [196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json](./196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC Boss: Kurona | 199876 | [199876-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kurona.json](./199876-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kurona.json) |
