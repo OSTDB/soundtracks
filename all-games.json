@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-24T09:22:32.741Z",
-  "total_soundtracks": 2572,
+  "generated_at": "2026-10-24T11:35:49.247Z",
+  "total_soundtracks": 2573,
   "games": [
     {
       "igdb_id": 7522,
@@ -3788,6 +3788,20 @@
           "album_name": "Borderlands: The Pre-Sequel - Claptastic Voyage (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4w6dJISMPFbanSqo3wafmL",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 18758,
+      "game_name": "Bosconian",
+      "game_url": "https://ostdb.net/games/bosconian",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738441efa1165e8837a6d5bb3b",
+      "albums": [
+        {
+          "album_name": "BOSCONIAN Original Soundtrack (Game Sound Effect)",
+          "spotify_url": "https://open.spotify.com/album/12dxAmog8Bv1OpxUdpdVQl",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
