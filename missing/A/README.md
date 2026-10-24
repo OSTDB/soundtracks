@@ -1272,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.I. Wars: The Insect Mind | 69707 | [69707-a-i-wars-the-insect-mind.json](./69707-a-i-wars-the-insect-mind.json) |
 | A.I.D.: Artificial Intelligence Defence | 195910 | [195910-a-i-d-artificial-intelligence-defence.json](./195910-a-i-d-artificial-intelligence-defence.json) |
 | A.I.Liens | 270859 | [270859-a-i-liens.json](./270859-a-i-liens.json) |
+| A.I.M. Artificial Intelligence Machine | 18959 | [18959-a-i-m-artificial-intelligence-machine.json](./18959-a-i-m-artificial-intelligence-machine.json) |
 | A.I.M. Racing | 9955 | [9955-a-i-m-racing.json](./9955-a-i-m-racing.json) |
 | A.I.M. War Protocol | 126871 | [126871-a-i-m-war-protocol.json](./126871-a-i-m-war-protocol.json) |
 | A.I.M.2 Clan Wars | 18960 | [18960-a-i-m-2-clan-wars.json](./18960-a-i-m-2-clan-wars.json) |
@@ -2931,7 +2932,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3413,6 +3413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftereffect | 405349 | [405349-aftereffect.json](./405349-aftereffect.json) |
 | Afterfall: Insanity | 8375 | [8375-afterfall-insanity.json](./8375-afterfall-insanity.json) |
 | AfterFall: Insanity - Dirty Arena Edition | 50832 | [50832-afterfall-insanity-dirty-arena-edition.json](./50832-afterfall-insanity-dirty-arena-edition.json) |
+| Afterfall: Reconquest | 18961 | [18961-afterfall-reconquest.json](./18961-afterfall-reconquest.json) |
 | Afterglitch | 189933 | [189933-afterglitch.json](./189933-afterglitch.json) |
 | Afterglow | 168117 | [168117-afterglow.json](./168117-afterglow.json) |
 | Afterglow Bytes: Reverie by the Shore | 382378 | [382378-afterglow-bytes-reverie-by-the-shore.json](./382378-afterglow-bytes-reverie-by-the-shore.json) |
@@ -7773,6 +7774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angst | 216203 | [216203-angst.json](./216203-angst.json) |
 | Angst: A Game of Urban Survival | 222743 | [222743-angst-a-game-of-urban-survival.json](./222743-angst-a-game-of-urban-survival.json) |
 | Angst: A Tale of Survival | 320716 | [320716-angst-a-tale-of-survival.json](./320716-angst-a-tale-of-survival.json) |
+| Angst: Rahz's Revenge | 18999 | [18999-angst-rahzs-revenge.json](./18999-angst-rahzs-revenge.json) |
 | Angstrage | 150478 | [150478-angstrage.json](./150478-angstrage.json) |
 | Angstrom Station VR | 132669 | [132669-angstrom-station-vr.json](./132669-angstrom-station-vr.json) |
 | Anguished | 30614 | [30614-anguished.json](./30614-anguished.json) |
@@ -9219,6 +9221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apokalipso | 133105 | [133105-apokalipso.json](./133105-apokalipso.json) |
 | Apokalypsis | 30817 | [30817-apokalypsis.json](./30817-apokalypsis.json) |
 | Apollo 11 VR | 33145 | [33145-apollo-11-vr.json](./33145-apollo-11-vr.json) |
+| Apollo 11 VR Experience | 19016 | [19016-apollo-11-vr-experience.json](./19016-apollo-11-vr-experience.json) |
 | Apollo 11 VR HD | 111144 | [111144-apollo-11-vr-hd.json](./111144-apollo-11-vr-hd.json) |
 | Apollo 11 VR HD: First Steps | 120713 | [120713-apollo-11-vr-hd-first-steps.json](./120713-apollo-11-vr-hd-first-steps.json) |
 | Apollo 13 | 199021 | [199021-apollo-13.json](./199021-apollo-13.json) |
@@ -12048,6 +12051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphalt Xtreme: Offroad Racing | 38940 | [38940-asphalt-xtreme-offroad-racing.json](./38940-asphalt-xtreme-offroad-racing.json) |
 | Asphalt: Car Racing Game | 418318 | [418318-asphalt-car-racing-game.json](./418318-asphalt-car-racing-game.json) |
 | Asphalt: Nitro | 23310 | [23310-asphalt-nitro.json](./23310-asphalt-nitro.json) |
+| Asphalt: Overdrive | 18995 | [18995-asphalt-overdrive.json](./18995-asphalt-overdrive.json) |
 | Asphalt: Urban GT | 243184 | [243184-asphalt-urban-gt.json](./243184-asphalt-urban-gt.json) |
 | Asphalt: Urban GT | 6260 | [6260-asphalt-urban-gt.json](./6260-asphalt-urban-gt.json) |
 | Asphalt: Urban GT 2 | 243028 | [243028-asphalt-urban-gt-2.json](./243028-asphalt-urban-gt-2.json) |
@@ -14148,6 +14152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aventura na Selva com Gilberto Barros | 145386 | [145386-aventura-na-selva-com-gilberto-barros.json](./145386-aventura-na-selva-com-gilberto-barros.json) |
 | Aventuras na Selva | 215309 | [215309-aventuras-na-selva.json](./215309-aventuras-na-selva.json) |
 | Avenue Escape | 390485 | [390485-avenue-escape.json](./390485-avenue-escape.json) |
+| Avenue Flo | 18878 | [18878-avenue-flo.json](./18878-avenue-flo.json) |
 | Average Human Ball Game | 349368 | [349368-average-human-ball-game.json](./349368-average-human-ball-game.json) |
 | Average Maria Individual | 293891 | [293891-average-maria-individual.json](./293891-average-maria-individual.json) |
 | Average Routine | 387671 | [387671-average-routine.json](./387671-average-routine.json) |
