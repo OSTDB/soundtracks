@@ -11413,7 +11413,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -13279,7 +13278,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons: Tapped Out | 2845 | [2845-the-simpsons-tapped-out.json](./2845-the-simpsons-tapped-out.json) |
 | The Simpsons: Virtual Springfield | 2839 | [2839-the-simpsons-virtual-springfield.json](./2839-the-simpsons-virtual-springfield.json) |
 | The Simpsons.exe | 388397 | [388397-the-simpsons-exe.json](./388397-the-simpsons-exe.json) |
-| The Sims 2 | 192906 | [192906-the-sims-2.json](./192906-the-sims-2.json) |
 | The Sims 2 | 210459 | [210459-the-sims-2.json](./210459-the-sims-2.json) |
 | The Sims 2 | 210460 | [210460-the-sims-2.json](./210460-the-sims-2.json) |
 | The Sims 2: Apartment Life | 5538 | [5538-the-sims-2-apartment-life.json](./5538-the-sims-2-apartment-life.json) |
@@ -14865,7 +14863,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Upper Hand | 311862 | [311862-the-upper-hand.json](./311862-the-upper-hand.json) |
 | The Uprising | 263365 | [263365-the-uprising.json](./263365-the-uprising.json) |
 | The Ur-Quan Masters | 46575 | [46575-the-ur-quan-masters.json](./46575-the-ur-quan-masters.json) |
-| The Urbz: Sims in the City | 144555 | [144555-the-urbz-sims-in-the-city.json](./144555-the-urbz-sims-in-the-city.json) |
 | The Urbz: Sims in the City | 248680 | [248680-the-urbz-sims-in-the-city.json](./248680-the-urbz-sims-in-the-city.json) |
 | The Urinal Game | 60050 | [60050-the-urinal-game.json](./60050-the-urinal-game.json) |
 | The USB Stick Found in the Grass | 169467 | [169467-the-usb-stick-found-in-the-grass.json](./169467-the-usb-stick-found-in-the-grass.json) |
