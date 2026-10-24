@@ -1786,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Blitz: WWII | 133235 | [133235-card-blitz-wwii.json](./133235-card-blitz-wwii.json) |
 | Card Brawl: Dungeon Slayer | 233395 | [233395-card-brawl-dungeon-slayer.json](./233395-card-brawl-dungeon-slayer.json) |
 | Card Captor Sakura: Sakura Card-hen - Sakura Card to Tomodachi | 49518 | [49518-card-captor-sakura-sakura-card-hen-sakura-card-to-tomodachi.json](./49518-card-captor-sakura-sakura-card-hen-sakura-card-to-tomodachi.json) |
+| Card Captor Sakura: Sakura to Fushigi na Clow Card | 37523 | [37523-card-captor-sakura-sakura-to-fushigi-na-clow-card.json](./37523-card-captor-sakura-sakura-to-fushigi-na-clow-card.json) |
 | Card Chronicles: Devious Deck | 312308 | [312308-card-chronicles-devious-deck.json](./312308-card-chronicles-devious-deck.json) |
 | Card City Nights | 14565 | [14565-card-city-nights.json](./14565-card-city-nights.json) |
 | Card City Nights Forever | 407880 | [407880-card-city-nights-forever.json](./407880-card-city-nights-forever.json) |
@@ -4657,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Galaxy | 126953 | [126953-chaos-galaxy.json](./126953-chaos-galaxy.json) |
 | Chaos Galaxy | 304960 | [304960-chaos-galaxy.json](./304960-chaos-galaxy.json) |
 | Chaos Galaxy 2 | 148997 | [148997-chaos-galaxy-2.json](./148997-chaos-galaxy-2.json) |
+| Chaos Gear: Michibi Kareshi Mono | 37533 | [37533-chaos-gear-michibi-kareshi-mono.json](./37533-chaos-gear-michibi-kareshi-mono.json) |
 | Chaos Girl | 192201 | [192201-chaos-girl.json](./192201-chaos-girl.json) |
 | Chaos Heat | 122943 | [122943-chaos-heat.json](./122943-chaos-heat.json) |
 | Chaos Hero | 335328 | [335328-chaos-hero.json](./335328-chaos-hero.json) |
@@ -6246,6 +6248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Aniki Zero | 42859 | [42859-chou-aniki-zero.json](./42859-chou-aniki-zero.json) |
 | Chou Aniki: Bakuretsu Rantou-hen | 42391 | [42391-chou-aniki-bakuretsu-rantou-hen.json](./42391-chou-aniki-bakuretsu-rantou-hen.json) |
 | Chou Aniki: Kyuukyoku Muteki Ginga Saikyou Otoko | 95478 | [95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json](./95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json) |
+| Chou Aniki: Otoko no Tamafuda | 37521 | [37521-chou-aniki-otoko-no-tamafuda.json](./37521-chou-aniki-otoko-no-tamafuda.json) |
 | Chou Crème Collect Whip | 376875 | [376875-chou-creme-collect-whip.json](./376875-chou-creme-collect-whip.json) |
 | Chou Dengeki Stryker | 23436 | [23436-chou-dengeki-stryker.json](./23436-chou-dengeki-stryker.json) |
 | Chou Ga Shin Zangard | 246106 | [246106-chou-ga-shin-zangard.json](./246106-chou-ga-shin-zangard.json) |
