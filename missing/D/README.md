@@ -8736,6 +8736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Orders | 333108 | [333108-divine-orders.json](./333108-divine-orders.json) |
 | Divine Right | 175240 | [175240-divine-right.json](./175240-divine-right.json) |
 | Divine Rush | 295638 | [295638-divine-rush.json](./295638-divine-rush.json) |
+| Divine Sealing | 4505 | [4505-divine-sealing.json](./4505-divine-sealing.json) |
 | Divine Sin | 373151 | [373151-divine-sin.json](./373151-divine-sin.json) |
 | Divine Souls | 36303 | [36303-divine-souls.json](./36303-divine-souls.json) |
 | Divine Souls Online | 51264 | [51264-divine-souls-online.json](./51264-divine-souls-online.json) |
@@ -15303,6 +15304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyna Blade | 271402 | [271402-dyna-blade.json](./271402-dyna-blade.json) |
 | Dyna Bomb | 32732 | [32732-dyna-bomb.json](./32732-dyna-bomb.json) |
 | Dyna Bomb 2 | 206423 | [206423-dyna-bomb-2.json](./206423-dyna-bomb-2.json) |
+| Dyna Brothers 2 | 4547 | [4547-dyna-brothers-2.json](./4547-dyna-brothers-2.json) |
 | Dyna Marisa 3D | 206571 | [206571-dyna-marisa-3d.json](./206571-dyna-marisa-3d.json) |
 | Dynablaster Revenge | 18445 | [18445-dynablaster-revenge.json](./18445-dynablaster-revenge.json) |
 | Dynabusters | 92413 | [92413-dynabusters.json](./92413-dynabusters.json) |
