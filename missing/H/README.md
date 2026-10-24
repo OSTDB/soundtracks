@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack Match | 143035 | [143035-hack-match.json](./143035-hack-match.json) |
 | Hack n Slash | 8438 | [8438-hack-n-slash.json](./8438-hack-n-slash.json) |
 | Hack Run | 16323 | [16323-hack-run.json](./16323-hack-run.json) |
+| Hack Run Zero | 34898 | [34898-hack-run-zero.json](./34898-hack-run-zero.json) |
 | Hack the Babel Inc. | 207558 | [207558-hack-the-babel-inc.json](./207558-hack-the-babel-inc.json) |
 | Hack the Core | 108367 | [108367-hack-the-core.json](./108367-hack-the-core.json) |
 | Hack the FBI | 29702 | [29702-hack-the-fbi.json](./29702-hack-the-fbi.json) |
