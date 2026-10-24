@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rance Quest Magnum | 384830 | [384830-rance-quest-magnum.json](./384830-rance-quest-magnum.json) |
 | Rance VI Sonogo | 329187 | [329187-rance-vi-sonogo.json](./329187-rance-vi-sonogo.json) |
 | Rance VI: Collapse of Zeth | 132656 | [132656-rance-vi-collapse-of-zeth.json](./132656-rance-vi-collapse-of-zeth.json) |
+| Rance: Hikari wo Motomete | 72298 | [72298-rance-hikari-wo-motomete.json](./72298-rance-hikari-wo-motomete.json) |
 | Ranch Battle | 283053 | [283053-ranch-battle.json](./283053-ranch-battle.json) |
 | Ranch Mayhem | 298049 | [298049-ranch-mayhem.json](./298049-ranch-mayhem.json) |
 | Ranch Planet | 104270 | [104270-ranch-planet.json](./104270-ranch-planet.json) |
