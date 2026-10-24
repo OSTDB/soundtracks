@@ -6441,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherwood | 403549 | [403549-sherwood.json](./403549-sherwood.json) |
 | Sherwood Forest | 24936 | [24936-sherwood-forest.json](./24936-sherwood-forest.json) |
 | Sheryl: The Alchemist of the Island Ruins | 292524 | [292524-sheryl-the-alchemist-of-the-island-ruins.json](./292524-sheryl-the-alchemist-of-the-island-ruins.json) |
+| Shh, Zombies | 21979 | [21979-shh-zombies.json](./21979-shh-zombies.json) |
 | Shhh! | 278288 | [278288-shhh.json](./278288-shhh.json) |
 | Shhh!Saw | 291823 | [291823-shhh-saw.json](./291823-shhh-saw.json) |
 | Shi no Homura | 305605 | [305605-shi-no-homura.json](./305605-shi-no-homura.json) |
@@ -12243,6 +12244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoopy & The Great Mystery Club: Joe Cool Fun Pack | 368784 | [368784-snoopy-and-the-great-mystery-club-joe-cool-fun-pack.json](./368784-snoopy-and-the-great-mystery-club-joe-cool-fun-pack.json) |
 | Snoopy Concert | 42383 | [42383-snoopy-concert.json](./42383-snoopy-concert.json) |
 | Snoopy DS: Let's Go Meet Snoopy and His Friends! | 302711 | [302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json](./302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json) |
+| Snoopy Flying Ace | 21887 | [21887-snoopy-flying-ace.json](./21887-snoopy-flying-ace.json) |
 | Snoopy no Hajimete no Otsukai | 324912 | [324912-snoopy-no-hajimete-no-otsukai.json](./324912-snoopy-no-hajimete-no-otsukai.json) |
 | Snoopy Pop | 87016 | [87016-snoopy-pop.json](./87016-snoopy-pop.json) |
 | Snoopy Tennis | 363311 | [363311-snoopy-tennis.json](./363311-snoopy-tennis.json) |
@@ -16920,6 +16922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Card Collection | 269456 | [269456-spell-card-collection.json](./269456-spell-card-collection.json) |
 | Spell Caster: Puzzle RPG | 233107 | [233107-spell-caster-puzzle-rpg.json](./233107-spell-caster-puzzle-rpg.json) |
 | Spell Casting | 135624 | [135624-spell-casting.json](./135624-spell-casting.json) |
+| Spell Casting: Meowgically Enhanced Edition | 21981 | [21981-spell-casting-meowgically-enhanced-edition.json](./21981-spell-casting-meowgically-enhanced-edition.json) |
 | Spell Casting: Purrfectly Portable Edition | 119541 | [119541-spell-casting-purrfectly-portable-edition.json](./119541-spell-casting-purrfectly-portable-edition.json) |
 | Spell Castle | 84181 | [84181-spell-castle.json](./84181-spell-castle.json) |
 | Spell Crisis | 192697 | [192697-spell-crisis.json](./192697-spell-crisis.json) |
@@ -17966,6 +17969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Titans of the Tide - Tidal Season Pass | 376256 | [376256-spongebob-squarepants-titans-of-the-tide-tidal-season-pass.json](./376256-spongebob-squarepants-titans-of-the-tide-tidal-season-pass.json) |
 | SpongeBob SquarePants: Underpants Slam | 2775 | [2775-spongebob-squarepants-underpants-slam.json](./2775-spongebob-squarepants-underpants-slam.json) |
 | SpongeBob SquigglePants | 5184 | [5184-spongebob-squigglepants.json](./5184-spongebob-squigglepants.json) |
+| SpongeBob SquigglePants 3D | 21719 | [21719-spongebob-squigglepants-3d.json](./21719-spongebob-squigglepants-3d.json) |
 | SpongeBob: Bubble Pop F.U.N. | 320381 | [320381-spongebob-bubble-pop-f-u-n.json](./320381-spongebob-bubble-pop-f-u-n.json) |
 | SpongeBob: Krusty Cook-Off | 130748 | [130748-spongebob-krusty-cook-off.json](./130748-spongebob-krusty-cook-off.json) |
 | SpongeBob: Krusty Cook-Off - Extra Krusty Edition | 221331 | [221331-spongebob-krusty-cook-off-extra-krusty-edition.json](./221331-spongebob-krusty-cook-off-extra-krusty-edition.json) |
