@@ -4524,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty and the Beast | 211430 | [211430-beauty-and-the-beast.json](./211430-beauty-and-the-beast.json) |
 | Beauty and the Beast | 292649 | [292649-beauty-and-the-beast.json](./292649-beauty-and-the-beast.json) |
 | Beauty and the Beast | 63376 | [63376-beauty-and-the-beast.json](./63376-beauty-and-the-beast.json) |
+| Beauty and the Beast: Perfect Match | 31554 | [31554-beauty-and-the-beast-perfect-match.json](./31554-beauty-and-the-beast-perfect-match.json) |
 | Beauty and the Thug | 371621 | [371621-beauty-and-the-thug.json](./371621-beauty-and-the-thug.json) |
 | Beauty and Violence: Valkyries | 122299 | [122299-beauty-and-violence-valkyries.json](./122299-beauty-and-violence-valkyries.json) |
 | Beauty Clicker | 371612 | [371612-beauty-clicker.json](./371612-beauty-clicker.json) |
@@ -8093,6 +8094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind | 216787 | [216787-blind.json](./216787-blind.json) |
 | Blind Affection | 180562 | [180562-blind-affection.json](./180562-blind-affection.json) |
 | Blind and Schizophrenic | 242965 | [242965-blind-and-schizophrenic.json](./242965-blind-and-schizophrenic.json) |
+| Blind Blades | 31461 | [31461-blind-blades.json](./31461-blind-blades.json) |
 | Blind Boris | 84061 | [84061-blind-boris.json](./84061-blind-boris.json) |
 | Blind Box | 379348 | [379348-blind-box.json](./379348-blind-box.json) |
 | Blind Date 3D | 286396 | [286396-blind-date-3d.json](./286396-blind-date-3d.json) |
@@ -9367,6 +9369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Ridge Hunting | 265390 | [265390-blue-ridge-hunting.json](./265390-blue-ridge-hunting.json) |
 | Blue Roses: Yousei to Aoi Hitomi no Senshi-tachi | 56538 | [56538-blue-roses-yousei-to-aoi-hitomi-no-senshi-tachi.json](./56538-blue-roses-yousei-to-aoi-hitomi-no-senshi-tachi.json) |
 | Blue Sango | 263595 | [263595-blue-sango.json](./263595-blue-sango.json) |
+| Blue Screen Adventures | 31519 | [31519-blue-screen-adventures.json](./31519-blue-screen-adventures.json) |
 | Blue Sign | 412477 | [412477-blue-sign.json](./412477-blue-sign.json) |
 | Blue Skies | 63858 | [63858-blue-skies.json](./63858-blue-skies.json) |
 | Blue Sky | 89068 | [89068-blue-sky.json](./89068-blue-sky.json) |
@@ -14363,6 +14366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 16 | 19882 | [19882-bus-simulator-16.json](./19882-bus-simulator-16.json) |
 | Bus Simulator 16: Gold Edition | 52488 | [52488-bus-simulator-16-gold-edition.json](./52488-bus-simulator-16-gold-edition.json) |
 | Bus Simulator 16: Man Lion's City CNG Pack | 163355 | [163355-bus-simulator-16-man-lions-city-cng-pack.json](./163355-bus-simulator-16-man-lions-city-cng-pack.json) |
+| Bus Simulator 17 | 31555 | [31555-bus-simulator-17.json](./31555-bus-simulator-17.json) |
 | Bus Simulator 18: Man Bus Pack 1 | 225061 | [225061-bus-simulator-18-man-bus-pack-1.json](./225061-bus-simulator-18-man-bus-pack-1.json) |
 | Bus Simulator 18: Mercedes-Benz Bus Pack 1 | 225062 | [225062-bus-simulator-18-mercedes-benz-bus-pack-1.json](./225062-bus-simulator-18-mercedes-benz-bus-pack-1.json) |
 | Bus Simulator 18: Official Map Extension | 163354 | [163354-bus-simulator-18-official-map-extension.json](./163354-bus-simulator-18-official-map-extension.json) |
