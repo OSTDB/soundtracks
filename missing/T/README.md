@@ -3726,6 +3726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraScape: Ancient Egypt | 357004 | [357004-terrascape-ancient-egypt.json](./357004-terrascape-ancient-egypt.json) |
 | Terraspace | 356046 | [356046-terraspace.json](./356046-terraspace.json) |
 | TerraStorm | 289314 | [289314-terrastorm.json](./289314-terrastorm.json) |
+| TerraTech | 14314 | [14314-terratech.json](./14314-terratech.json) |
 | TerraTech Legion | 348307 | [348307-terratech-legion.json](./348307-terratech-legion.json) |
 | TerraTech Worlds | 252865 | [252865-terratech-worlds.json](./252865-terratech-worlds.json) |
 | TerraTech: Deluxe Edition | 51928 | [51928-terratech-deluxe-edition.json](./51928-terratech-deluxe-edition.json) |
@@ -8939,6 +8940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Adventures of Van Helsing II: Complete Pack | 223550 | [223550-the-incredible-adventures-of-van-helsing-ii-complete-pack.json](./223550-the-incredible-adventures-of-van-helsing-ii-complete-pack.json) |
 | The Incredible Adventures of Van Helsing II: Ink Hunt | 10969 | [10969-the-incredible-adventures-of-van-helsing-ii-ink-hunt.json](./10969-the-incredible-adventures-of-van-helsing-ii-ink-hunt.json) |
 | The Incredible Adventures of Van Helsing II: Pigasus | 10970 | [10970-the-incredible-adventures-of-van-helsing-ii-pigasus.json](./10970-the-incredible-adventures-of-van-helsing-ii-pigasus.json) |
+| The Incredible Adventures of Van Helsing III | 11703 | [11703-the-incredible-adventures-of-van-helsing-iii.json](./11703-the-incredible-adventures-of-van-helsing-iii.json) |
 | The Incredible Adventures of Van Helsing: Blue Blood | 10968 | [10968-the-incredible-adventures-of-van-helsing-blue-blood.json](./10968-the-incredible-adventures-of-van-helsing-blue-blood.json) |
 | The Incredible Adventures of Van Helsing: Extended Edition | 27680 | [27680-the-incredible-adventures-of-van-helsing-extended-edition.json](./27680-the-incredible-adventures-of-van-helsing-extended-edition.json) |
 | The Incredible Adventures of Van Helsing: Final Cut | 26129 | [26129-the-incredible-adventures-of-van-helsing-final-cut.json](./26129-the-incredible-adventures-of-van-helsing-final-cut.json) |
@@ -10835,6 +10837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost World: Jurassic Park | 147442 | [147442-the-lost-world-jurassic-park.json](./147442-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 147443 | [147443-the-lost-world-jurassic-park.json](./147443-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 217957 | [217957-the-lost-world-jurassic-park.json](./217957-the-lost-world-jurassic-park.json) |
+| The Lost World: Jurassic Park | 8075 | [8075-the-lost-world-jurassic-park.json](./8075-the-lost-world-jurassic-park.json) |
 | The Lot | 116317 | [116317-the-lot.json](./116317-the-lot.json) |
 | The Lotus | 187844 | [187844-the-lotus.json](./187844-the-lotus.json) |
 | The Lotus Eater | 184610 | [184610-the-lotus-eater.json](./184610-the-lotus-eater.json) |
@@ -11451,6 +11454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -13503,6 +13507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims: Deluxe Edition | 45115 | [45115-the-sims-deluxe-edition.json](./45115-the-sims-deluxe-edition.json) |
 | The Sims: Double Deluxe | 45112 | [45112-the-sims-double-deluxe.json](./45112-the-sims-double-deluxe.json) |
 | The Sims: Legacy Collection | 329954 | [329954-the-sims-legacy-collection.json](./329954-the-sims-legacy-collection.json) |
+| The Sims: Life Stories | 13138 | [13138-the-sims-life-stories.json](./13138-the-sims-life-stories.json) |
 | The Sims: Livin' Large | 5528 | [5528-the-sims-livin-large.json](./5528-the-sims-livin-large.json) |
 | The Sims: Makin' Magic | 5533 | [5533-the-sims-makin-magic.json](./5533-the-sims-makin-magic.json) |
 | The Simulacrum | 230858 | [230858-the-simulacrum.json](./230858-the-simulacrum.json) |
@@ -15654,6 +15659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thea Bundle | 192306 | [192306-thea-bundle.json](./192306-thea-bundle.json) |
 | Thea is Drowning | 179072 | [179072-thea-is-drowning.json](./179072-thea-is-drowning.json) |
 | Thea Realm Fighters | 270273 | [270273-thea-realm-fighters.json](./270273-thea-realm-fighters.json) |
+| Thea: The Awakening | 14685 | [14685-thea-the-awakening.json](./14685-thea-the-awakening.json) |
 | Thea: The Awakening - Return of the Giants | 171334 | [171334-thea-the-awakening-return-of-the-giants.json](./171334-thea-the-awakening-return-of-the-giants.json) |
 | Thearchy | 158929 | [158929-thearchy.json](./158929-thearchy.json) |
 | Theater of Carnage | 157452 | [157452-theater-of-carnage.json](./157452-theater-of-carnage.json) |
@@ -19724,6 +19730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TOEIC Test: Jissen Tokkun 2 | 141476 | [141476-toeic-test-jissen-tokkun-2.json](./141476-toeic-test-jissen-tokkun-2.json) |
 | ToeJam & Earl | 8389 | [8389-toejam-and-earl.json](./8389-toejam-and-earl.json) |
 | ToeJam & Earl in Panic on Funkotron | 11123 | [11123-toejam-and-earl-in-panic-on-funkotron.json](./11123-toejam-and-earl-in-panic-on-funkotron.json) |
+| ToeJam & Earl: Back in the Groove | 11122 | [11122-toejam-and-earl-back-in-the-groove.json](./11122-toejam-and-earl-back-in-the-groove.json) |
 | Toem | 118193 | [118193-toem.json](./118193-toem.json) |
 | Toem 2 | 325182 | [325182-toem-2.json](./325182-toem-2.json) |
 | Toewr le Fence | 157143 | [157143-toewr-le-fence.json](./157143-toewr-le-fence.json) |
@@ -21128,6 +21135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Shogun 2 - Blood Pack DLC | 83513 | [83513-total-war-shogun-2-blood-pack-dlc.json](./83513-total-war-shogun-2-blood-pack-dlc.json) |
 | Total War: Shogun 2 - Collection | 53812 | [53812-total-war-shogun-2-collection.json](./53812-total-war-shogun-2-collection.json) |
 | Total War: Shogun 2 - Dragon War Battle Pack | 83517 | [83517-total-war-shogun-2-dragon-war-battle-pack.json](./83517-total-war-shogun-2-dragon-war-battle-pack.json) |
+| Total War: Shogun 2 - Fall of the Samurai | 15155 | [15155-total-war-shogun-2-fall-of-the-samurai.json](./15155-total-war-shogun-2-fall-of-the-samurai.json) |
 | Total War: Shogun 2 - Fall of the Samurai: The Obama Faction Pack | 167648 | [167648-total-war-shogun-2-fall-of-the-samurai-the-obama-faction-pack.json](./167648-total-war-shogun-2-fall-of-the-samurai-the-obama-faction-pack.json) |
 | Total War: Shogun 2 - Fall of the Samurai: The Saga Faction Pack | 167649 | [167649-total-war-shogun-2-fall-of-the-samurai-the-saga-faction-pack.json](./167649-total-war-shogun-2-fall-of-the-samurai-the-saga-faction-pack.json) |
 | Total War: Shogun 2 - Fall of the Samurai: The Sendai Faction Pack | 167652 | [167652-total-war-shogun-2-fall-of-the-samurai-the-sendai-faction-pack.json](./167652-total-war-shogun-2-fall-of-the-samurai-the-sendai-faction-pack.json) |
@@ -26458,6 +26466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turrican Anthology Vol. 2 | 137325 | [137325-turrican-anthology-vol-2.json](./137325-turrican-anthology-vol-2.json) |
 | Turrican Collector's Edition | 137329 | [137329-turrican-collectors-edition.json](./137329-turrican-collectors-edition.json) |
 | Turrican Flashback | 140253 | [140253-turrican-flashback.json](./140253-turrican-flashback.json) |
+| Turrican II: The Final Fight | 11845 | [11845-turrican-ii-the-final-fight.json](./11845-turrican-ii-the-final-fight.json) |
 | Turrican III | 37098 | [37098-turrican-iii.json](./37098-turrican-iii.json) |
 | Turrican: Ultra Collector's Edition | 137330 | [137330-turrican-ultra-collectors-edition.json](./137330-turrican-ultra-collectors-edition.json) |
 | Turrim 3D | 176250 | [176250-turrim-3d.json](./176250-turrim-3d.json) |
@@ -27162,6 +27171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrant's Blessing: Deluxe Edition | 230818 | [230818-tyrants-blessing-deluxe-edition.json](./230818-tyrants-blessing-deluxe-edition.json) |
 | Tyrant's Realm | 177253 | [177253-tyrants-realm.json](./177253-tyrants-realm.json) |
 | Tyrants Must Fall | 406753 | [406753-tyrants-must-fall.json](./406753-tyrants-must-fall.json) |
+| Tyrants: Fight Through Time | 12183 | [12183-tyrants-fight-through-time.json](./12183-tyrants-fight-through-time.json) |
 | Tyre Trax | 269057 | [269057-tyre-trax.json](./269057-tyre-trax.json) |
 | Tyrfing Cycle \|Vanilla\| | 90587 | [90587-tyrfing-cycle-vanilla.json](./90587-tyrfing-cycle-vanilla.json) |
 | Tyrian 2000 | 14432 | [14432-tyrian-2000.json](./14432-tyrian-2000.json) |
