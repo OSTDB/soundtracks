@@ -1512,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls II: Crown of the Old Iron King | 22502 | [22502-dark-souls-ii-crown-of-the-old-iron-king.json](./22502-dark-souls-ii-crown-of-the-old-iron-king.json) |
 | Dark Souls II: Crown of the Sunken King | 19924 | [19924-dark-souls-ii-crown-of-the-sunken-king.json](./19924-dark-souls-ii-crown-of-the-sunken-king.json) |
 | Dark Souls II: Seeker of Fire | 238899 | [238899-dark-souls-ii-seeker-of-fire.json](./238899-dark-souls-ii-seeker-of-fire.json) |
+| Dark Souls III: Ashes of Ariandel | 23158 | [23158-dark-souls-iii-ashes-of-ariandel.json](./23158-dark-souls-iii-ashes-of-ariandel.json) |
 | Dark Souls III: Born From the Ashes | 317520 | [317520-dark-souls-iii-born-from-the-ashes.json](./317520-dark-souls-iii-born-from-the-ashes.json) |
 | Dark Souls III: Day One Edition | 89841 | [89841-dark-souls-iii-day-one-edition.json](./89841-dark-souls-iii-day-one-edition.json) |
 | Dark Souls III: Deluxe Edition | 47486 | [47486-dark-souls-iii-deluxe-edition.json](./47486-dark-souls-iii-deluxe-edition.json) |
@@ -1778,7 +1779,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkside | 60515 | [60515-darkside.json](./60515-darkside.json) |
 | Darkside | 78657 | [78657-darkside.json](./78657-darkside.json) |
 | Darkside Adventures: A Game with a Kitty 2 | 313564 | [313564-darkside-adventures-a-game-with-a-kitty-2.json](./313564-darkside-adventures-a-game-with-a-kitty-2.json) |
+| Darksiders Genesis | 119244 | [119244-darksiders-genesis.json](./119244-darksiders-genesis.json) |
 | Darksiders II: Argul's Tomb | 135000 | [135000-darksiders-ii-arguls-tomb.json](./135000-darksiders-ii-arguls-tomb.json) |
+| Darksiders II: Deathinitive Edition | 20048 | [20048-darksiders-ii-deathinitive-edition.json](./20048-darksiders-ii-deathinitive-edition.json) |
 | Darksiders II: Limited Edition | 216196 | [216196-darksiders-ii-limited-edition.json](./216196-darksiders-ii-limited-edition.json) |
 | Darksiders II: Season Pass | 343755 | [343755-darksiders-ii-season-pass.json](./343755-darksiders-ii-season-pass.json) |
 | Darksiders II: The Abyssal Forge | 135003 | [135003-darksiders-ii-the-abyssal-forge.json](./135003-darksiders-ii-the-abyssal-forge.json) |
@@ -8171,6 +8174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored 3 | 267308 | [267308-dishonored-3.json](./267308-dishonored-3.json) |
 | Dishonored: Death of the Outsider Deluxe Bundle | 83510 | [83510-dishonored-death-of-the-outsider-deluxe-bundle.json](./83510-dishonored-death-of-the-outsider-deluxe-bundle.json) |
 | Dishonored: Definitive Edition | 20863 | [20863-dishonored-definitive-edition.json](./20863-dishonored-definitive-edition.json) |
+| Dishonored: The Knife of Dunwall | 14568 | [14568-dishonored-the-knife-of-dunwall.json](./14568-dishonored-the-knife-of-dunwall.json) |
 | Dishonored: Void Walker Arsenal | 14571 | [14571-dishonored-void-walker-arsenal.json](./14571-dishonored-void-walker-arsenal.json) |
 | Dishventory | 347110 | [347110-dishventory.json](./347110-dishventory.json) |
 | Dishwasher | 103436 | [103436-dishwasher.json](./103436-dishwasher.json) |
