@@ -5049,6 +5049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hesperian Wars | 229367 | [229367-hesperian-wars.json](./229367-hesperian-wars.json) |
 | Hessian | 80337 | [80337-hessian.json](./80337-hessian.json) |
 | Hessian Landing | 386268 | [386268-hessian-landing.json](./386268-hessian-landing.json) |
+| Hestebanden | 2257 | [2257-hestebanden.json](./2257-hestebanden.json) |
 | HestiaFort | 393046 | [393046-hestiafort.json](./393046-hestiafort.json) |
 | Het Huis Anubis: Het geheim van Osiris | 330105 | [330105-het-huis-anubis-het-geheim-van-osiris.json](./330105-het-huis-anubis-het-geheim-van-osiris.json) |
 | Het Labyrint van Toetanchamon | 69901 | [69901-het-labyrint-van-toetanchamon.json](./69901-het-labyrint-van-toetanchamon.json) |
