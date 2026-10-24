@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Seiya: The Hades | 23113 | [23113-saint-seiya-the-hades.json](./23113-saint-seiya-the-hades.json) |
 | Saint Seiya: The Sanctuary | 43345 | [43345-saint-seiya-the-sanctuary.json](./43345-saint-seiya-the-sanctuary.json) |
 | Saint Seiya: Ultimate Cosmo | 166519 | [166519-saint-seiya-ultimate-cosmo.json](./166519-saint-seiya-ultimate-cosmo.json) |
+| Saint Slayer: Spear of Sacrilege | 376985 | [376985-saint-slayer-spear-of-sacrilege.json](./376985-saint-slayer-spear-of-sacrilege.json) |
 | Saint Spell's Love Guide to the Magical Student's Spellbook | 191603 | [191603-saint-spells-love-guide-to-the-magical-students-spellbook.json](./191603-saint-spells-love-guide-to-the-magical-students-spellbook.json) |
 | Saint Sword | 46199 | [46199-saint-sword.json](./46199-saint-sword.json) |
 | Saint Warner's Angels | 239768 | [239768-saint-warners-angels.json](./239768-saint-warners-angels.json) |
@@ -1028,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samuel Sage: The Mystery at Penby Inn | 285505 | [285505-samuel-sage-the-mystery-at-penby-inn.json](./285505-samuel-sage-the-mystery-at-penby-inn.json) |
 | Samurado | 244254 | [244254-samurado.json](./244254-samurado.json) |
 | Samurai | 140531 | [140531-samurai.json](./140531-samurai.json) |
+| Samurai Academy: Paws of Fury | 366773 | [366773-samurai-academy-paws-of-fury.json](./366773-samurai-academy-paws-of-fury.json) |
 | Samurai Aces | 39844 | [39844-samurai-aces.json](./39844-samurai-aces.json) |
 | Samurai Aces III: Sengoku Cannon | 135721 | [135721-samurai-aces-iii-sengoku-cannon.json](./135721-samurai-aces-iii-sengoku-cannon.json) |
 | Samurai Aces III: Sengoku Cannon for Nintendo Switch | 212633 | [212633-samurai-aces-iii-sengoku-cannon-for-nintendo-switch.json](./212633-samurai-aces-iii-sengoku-cannon-for-nintendo-switch.json) |
@@ -12891,6 +12893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccertron | 11132 | [11132-soccertron.json](./11132-soccertron.json) |
 | Soccerverse | 224165 | [224165-soccerverse.json](./224165-soccerverse.json) |
 | Sociable Soccer | 14713 | [14713-sociable-soccer.json](./14713-sociable-soccer.json) |
+| Sociable Soccer 24 | 264200 | [264200-sociable-soccer-24.json](./264200-sociable-soccer-24.json) |
 | Social City | 65947 | [65947-social-city.json](./65947-social-city.json) |
 | Social Club VR : Casino Nights | 130746 | [130746-social-club-vr-casino-nights.json](./130746-social-club-vr-casino-nights.json) |
 | Social Credit Simulator | 226344 | [226344-social-credit-simulator.json](./226344-social-credit-simulator.json) |
@@ -13595,6 +13598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somari Insanity | 331871 | [331871-somari-insanity.json](./331871-somari-insanity.json) |
 | Somari the Adventurer | 198522 | [198522-somari-the-adventurer.json](./198522-somari-the-adventurer.json) |
 | Somber | 216892 | [216892-somber.json](./216892-somber.json) |
+| Somber Echoes | 293058 | [293058-somber-echoes.json](./293058-somber-echoes.json) |
 | Somber: Card Game | 185431 | [185431-somber-card-game.json](./185431-somber-card-game.json) |
 | Sombra | 311212 | [311212-sombra.json](./311212-sombra.json) |
 | Sombras | 261304 | [261304-sombras.json](./261304-sombras.json) |
@@ -17663,6 +17667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Rhythm | 107592 | [107592-spin-rhythm.json](./107592-spin-rhythm.json) |
 | Spin Rhythm XD | 122416 | [122416-spin-rhythm-xd.json](./122416-spin-rhythm-xd.json) |
 | Spin Rhythm XD: Chillhop | 332606 | [332606-spin-rhythm-xd-chillhop.json](./332606-spin-rhythm-xd-chillhop.json) |
+| Spin Rhythm XD: Indie Pack DLC | 379593 | [379593-spin-rhythm-xd-indie-pack-dlc.json](./379593-spin-rhythm-xd-indie-pack-dlc.json) |
 | Spin Rhythm XD: Supporter Pack DLC | 273312 | [273312-spin-rhythm-xd-supporter-pack-dlc.json](./273312-spin-rhythm-xd-supporter-pack-dlc.json) |
 | Spin Royale | 344459 | [344459-spin-royale.json](./344459-spin-royale.json) |
 | Spin Spell | 63556 | [63556-spin-spell.json](./63556-spin-spell.json) |
@@ -19893,6 +19898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Battlefront - Deluxe Edition | 129535 | [129535-star-wars-battlefront-deluxe-edition.json](./129535-star-wars-battlefront-deluxe-edition.json) |
 | Star Wars: Battlefront - Elite Squadron | 192925 | [192925-star-wars-battlefront-elite-squadron.json](./192925-star-wars-battlefront-elite-squadron.json) |
 | Star Wars: Battlefront - Renegade Squadron | 23063 | [23063-star-wars-battlefront-renegade-squadron.json](./23063-star-wars-battlefront-renegade-squadron.json) |
+| Star Wars: Beyond Victory | 372103 | [372103-star-wars-beyond-victory.json](./372103-star-wars-beyond-victory.json) |
 | Star Wars: Bounty Hunter | 307040 | [307040-star-wars-bounty-hunter.json](./307040-star-wars-bounty-hunter.json) |
 | Star Wars: Clone Wars Adventures | 21739 | [21739-star-wars-clone-wars-adventures.json](./21739-star-wars-clone-wars-adventures.json) |
 | Star Wars: Clone Wars: Planetary Forces | 314981 | [314981-star-wars-clone-wars-planetary-forces.json](./314981-star-wars-clone-wars-planetary-forces.json) |
@@ -22109,6 +22115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Generations | 99666 | [99666-storm-generations.json](./99666-storm-generations.json) |
 | Storm Horse Simulator | 357860 | [357860-storm-horse-simulator.json](./357860-storm-horse-simulator.json) |
 | Storm in Desert | 29174 | [29174-storm-in-desert.json](./29174-storm-in-desert.json) |
+| Storm Lancers | 362635 | [362635-storm-lancers.json](./362635-storm-lancers.json) |
 | Storm Lover | 76133 | [76133-storm-lover.json](./76133-storm-lover.json) |
 | Storm Lover 2nd | 132071 | [132071-storm-lover-2nd.json](./132071-storm-lover-2nd.json) |
 | Storm Lover 2nd V | 132073 | [132073-storm-lover-2nd-v.json](./132073-storm-lover-2nd-v.json) |
@@ -25147,6 +25154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fangame Maker | 322607 | [322607-super-fangame-maker.json](./322607-super-fangame-maker.json) |
 | Super Fantasy Kingdom | 235823 | [235823-super-fantasy-kingdom.json](./235823-super-fantasy-kingdom.json) |
 | Super Farm | 43290 | [43290-super-farm.json](./43290-super-farm.json) |
+| Super Farming Boy | 293869 | [293869-super-farming-boy.json](./293869-super-farming-boy.json) |
 | Super Fight | 132240 | [132240-super-fight.json](./132240-super-fight.json) |
 | Super Fight | 247221 | [247221-super-fight.json](./247221-super-fight.json) |
 | Super Fighter | 247061 | [247061-super-fighter.json](./247061-super-fighter.json) |
@@ -29207,6 +29215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: INXS - "New Sensation" | 298701 | [298701-synth-riders-inxs-new-sensation.json](./298701-synth-riders-inxs-new-sensation.json) |
 | Synth Riders: Jack Harlow - "Lovin On Me" | 354555 | [354555-synth-riders-jack-harlow-lovin-on-me.json](./354555-synth-riders-jack-harlow-lovin-on-me.json) |
 | Synth Riders: Jamie Berry - "Guilty Pleasure" | 288238 | [288238-synth-riders-jamie-berry-guilty-pleasure.json](./288238-synth-riders-jamie-berry-guilty-pleasure.json) |
+| Synth Riders: Kendrick Lamar - "Humble." + Experience | 372106 | [372106-synth-riders-kendrick-lamar-humble-experience.json](./372106-synth-riders-kendrick-lamar-humble-experience.json) |
 | Synth Riders: League of Legends - "Legends Never Die" | 353649 | [353649-synth-riders-league-of-legends-legends-never-die.json](./353649-synth-riders-league-of-legends-legends-never-die.json) |
 | Synth Riders: Lindsey Stirling - "First Light" | 356173 | [356173-synth-riders-lindsey-stirling-first-light.json](./356173-synth-riders-lindsey-stirling-first-light.json) |
 | Synth Riders: Lindsey Stirling - "Mirage" | 356082 | [356082-synth-riders-lindsey-stirling-mirage.json](./356082-synth-riders-lindsey-stirling-mirage.json) |
