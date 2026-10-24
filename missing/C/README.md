@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.A.T.S.: Carefully Attempting Not to Screw Up | 120743 | [120743-c-a-t-s-carefully-attempting-not-to-screw-up.json](./120743-c-a-t-s-carefully-attempting-not-to-screw-up.json) |
 | C.B.T | 249075 | [249075-c-b-t.json](./249075-c-b-t.json) |
 | C.E.O. | 19793 | [19793-c-e-o.json](./19793-c-e-o.json) |
+| C.H.A.I.N. | 140652 | [140652-c-h-a-i-n.json](./140652-c-h-a-i-n.json) |
 | C.H.A.O.S Tournament | 117726 | [117726-c-h-a-o-s-tournament.json](./117726-c-h-a-o-s-tournament.json) |
 | C.I.E.B The Backrooms Project | 265402 | [265402-c-i-e-b-the-backrooms-project.json](./265402-c-i-e-b-the-backrooms-project.json) |
 | C.I.T.Y. 2000 | 70022 | [70022-c-i-t-y-2000.json](./70022-c-i-t-y-2000.json) |
@@ -2262,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier | 71183 | [71183-carrier.json](./71183-carrier.json) |
 | Carrier 2: The Next Mutation | 291916 | [291916-carrier-2-the-next-mutation.json](./291916-carrier-2-the-next-mutation.json) |
 | Carrier Aces | 42632 | [42632-carrier-aces.json](./42632-carrier-aces.json) |
+| Carrier Air Wing | 38534 | [38534-carrier-air-wing.json](./38534-carrier-air-wing.json) |
 | Carrier Battles 4 Guadalcanal | 242201 | [242201-carrier-battles-4-guadalcanal.json](./242201-carrier-battles-4-guadalcanal.json) |
 | Carrier Battles 4 Guadalcanal: Advanced Fog of War in the Pacific | 170520 | [170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json](./170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json) |
 | Carrier Battles WW2: Admiral of the Fleet | 171481 | [171481-carrier-battles-ww2-admiral-of-the-fleet.json](./171481-carrier-battles-ww2-admiral-of-the-fleet.json) |
@@ -6003,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip's Challenge | 282560 | [282560-chips-challenge.json](./282560-chips-challenge.json) |
 | Chip's Challenge | 282561 | [282561-chips-challenge.json](./282561-chips-challenge.json) |
 | Chip's Challenge (Amiga/C64/Lynx/Mega Drive/SNES/Spectrum) | 413030 | [413030-chips-challenge-amiga-c64-lynx-mega-drive-snes-spectrum.json](./413030-chips-challenge-amiga-c64-lynx-mega-drive-snes-spectrum.json) |
+| Chip's Challenge 1 | 35839 | [35839-chips-challenge-1.json](./35839-chips-challenge-1.json) |
 | Chip's Challenge 2 | 22151 | [22151-chips-challenge-2.json](./22151-chips-challenge-2.json) |
 | Chipdle | 395838 | [395838-chipdle.json](./395838-chipdle.json) |
 | Chipichapas Evolution: Clicker | 288147 | [288147-chipichapas-evolution-clicker.json](./288147-chipichapas-evolution-clicker.json) |
@@ -8057,6 +8060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clem | 203449 | [203449-clem.json](./203449-clem.json) |
 | Clem: The First Attribute | 280093 | [280093-clem-the-first-attribute.json](./280093-clem-the-first-attribute.json) |
 | Clency and Livia | 284293 | [284293-clency-and-livia.json](./284293-clency-and-livia.json) |
+| Cleo: A Pirate's Tale | 137216 | [137216-cleo-a-pirates-tale.json](./137216-cleo-a-pirates-tale.json) |
 | Cleo: A Pirate's Tale - Deluxe Edition | 186887 | [186887-cleo-a-pirates-tale-deluxe-edition.json](./186887-cleo-a-pirates-tale-deluxe-edition.json) |
 | Cleopatra Fortune Plus | 254954 | [254954-cleopatra-fortune-plus.json](./254954-cleopatra-fortune-plus.json) |
 | Cleopatra Fortune: S-Tribute | 225886 | [225886-cleopatra-fortune-s-tribute.json](./225886-cleopatra-fortune-s-tribute.json) |
