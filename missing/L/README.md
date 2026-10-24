@@ -4973,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Rooms | 341173 | [341173-little-rooms.json](./341173-little-rooms.json) |
 | Little Runmo | 275803 | [275803-little-runmo.json](./275803-little-runmo.json) |
 | Little Samson | 375604 | [375604-little-samson.json](./375604-little-samson.json) |
+| Little Samson | 48114 | [48114-little-samson.json](./48114-little-samson.json) |
 | Little Savior | 118094 | [118094-little-savior.json](./118094-little-savior.json) |
 | Little Scavenger | 267451 | [267451-little-scavenger.json](./267451-little-scavenger.json) |
 | Little Screamies | 319583 | [319583-little-screamies.json](./319583-little-screamies.json) |
