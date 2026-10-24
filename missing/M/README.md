@@ -7885,6 +7885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid Delta: Snake Eater - Sneaking DLC Pack | 331467 | [331467-metal-gear-solid-delta-snake-eater-sneaking-dlc-pack.json](./331467-metal-gear-solid-delta-snake-eater-sneaking-dlc-pack.json) |
 | Metal Gear Solid HD Collection | 20741 | [20741-metal-gear-solid-hd-collection.json](./20741-metal-gear-solid-hd-collection.json) |
 | Metal Gear Solid HD Edition - Premium Package | 298015 | [298015-metal-gear-solid-hd-edition-premium-package.json](./298015-metal-gear-solid-hd-edition-premium-package.json) |
+| Metal Gear Solid HD Edition: 2 & 3 | 136811 | [136811-metal-gear-solid-hd-edition-2-and-3.json](./136811-metal-gear-solid-hd-edition-2-and-3.json) |
 | Metal Gear Solid Master Collection: Volume 2 | 389433 | [389433-metal-gear-solid-master-collection-volume-2.json](./389433-metal-gear-solid-master-collection-volume-2.json) |
 | Metal Gear Solid Touch | 12212 | [12212-metal-gear-solid-touch.json](./12212-metal-gear-solid-touch.json) |
 | Metal Gear Solid V: The Definitive Experience | 25637 | [25637-metal-gear-solid-v-the-definitive-experience.json](./25637-metal-gear-solid-v-the-definitive-experience.json) |
@@ -8061,6 +8062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamorph | 345519 | [345519-metamorph.json](./345519-metamorph.json) |
 | Metamorph | 368137 | [368137-metamorph.json](./368137-metamorph.json) |
 | Metamorphic | 27474 | [27474-metamorphic.json](./27474-metamorphic.json) |
+| Metamorphic Force | 39385 | [39385-metamorphic-force.json](./39385-metamorphic-force.json) |
 | MetaMorphic Rippers | 223165 | [223165-metamorphic-rippers.json](./223165-metamorphic-rippers.json) |
 | Metamorphism | 259461 | [259461-metamorphism.json](./259461-metamorphism.json) |
 | Metamorphosis | 131990 | [131990-metamorphosis.json](./131990-metamorphosis.json) |
@@ -10019,6 +10021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Pi Edition | 129495 | [129495-minecraft-pi-edition.json](./129495-minecraft-pi-edition.json) |
 | Minecraft: Pirates of the Caribbean Mash-up | 235328 | [235328-minecraft-pirates-of-the-caribbean-mash-up.json](./235328-minecraft-pirates-of-the-caribbean-mash-up.json) |
 | Minecraft: Plastic Texture Pack | 255347 | [255347-minecraft-plastic-texture-pack.json](./255347-minecraft-plastic-texture-pack.json) |
+| Minecraft: PlayStation 3 Edition | 140272 | [140272-minecraft-playstation-3-edition.json](./140272-minecraft-playstation-3-edition.json) |
 | Minecraft: PlayStation 4 Edition | 93620 | [93620-minecraft-playstation-4-edition.json](./93620-minecraft-playstation-4-edition.json) |
 | Minecraft: Playstation Vita Edition | 42696 | [42696-minecraft-playstation-vita-edition.json](./42696-minecraft-playstation-vita-edition.json) |
 | Minecraft: Power Grid Hero | 315516 | [315516-minecraft-power-grid-hero.json](./315516-minecraft-power-grid-hero.json) |
@@ -11852,6 +11855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Warplanes | 193818 | [193818-modern-warplanes.json](./193818-modern-warplanes.json) |
 | Modern Warplanes Sky Fighters | 296770 | [296770-modern-warplanes-sky-fighters.json](./296770-modern-warplanes-sky-fighters.json) |
 | Modern Warrior Special Tactics | 54232 | [54232-modern-warrior-special-tactics.json](./54232-modern-warrior-special-tactics.json) |
+| Modern Warships | 141233 | [141233-modern-warships.json](./141233-modern-warships.json) |
 | Modern Warships: Sea Battle Online | 174797 | [174797-modern-warships-sea-battle-online.json](./174797-modern-warships-sea-battle-online.json) |
 | Modern Zombie | 24943 | [24943-modern-zombie.json](./24943-modern-zombie.json) |
 | ModernArcheryVR | 100832 | [100832-modernarcheryvr.json](./100832-modernarcheryvr.json) |
