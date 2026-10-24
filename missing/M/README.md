@@ -1955,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League | 58739 | [58739-major-league.json](./58739-major-league.json) |
 | Major League Baseball | 218908 | [218908-major-league-baseball.json](./218908-major-league-baseball.json) |
 | Major League Baseball | 347008 | [347008-major-league-baseball.json](./347008-major-league-baseball.json) |
+| Major League Baseball | 5682 | [5682-major-league-baseball.json](./5682-major-league-baseball.json) |
 | Major League Baseball | 80424 | [80424-major-league-baseball.json](./80424-major-league-baseball.json) |
 | Major League Baseball 2K10 | 4991 | [4991-major-league-baseball-2k10.json](./4991-major-league-baseball-2k10.json) |
 | Major League Baseball 2K12 | 4993 | [4993-major-league-baseball-2k12.json](./4993-major-league-baseball-2k12.json) |
@@ -17449,6 +17450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Dire Grove, Sacred Grove | 140230 | [140230-mystery-case-files-dire-grove-sacred-grove.json](./140230-mystery-case-files-dire-grove-sacred-grove.json) |
 | Mystery Case Files: Dire Grove, Sacred Grove - Collector's Edition | 135809 | [135809-mystery-case-files-dire-grove-sacred-grove-collectors-edition.json](./135809-mystery-case-files-dire-grove-sacred-grove-collectors-edition.json) |
 | Mystery Case Files: Escape from Ravenhearst | 5516 | [5516-mystery-case-files-escape-from-ravenhearst.json](./5516-mystery-case-files-escape-from-ravenhearst.json) |
+| Mystery Case Files: Fate's Carnival | 5518 | [5518-mystery-case-files-fates-carnival.json](./5518-mystery-case-files-fates-carnival.json) |
 | Mystery Case Files: Fates Carnival - Collector's Edition | 202083 | [202083-mystery-case-files-fates-carnival-collectors-edition.json](./202083-mystery-case-files-fates-carnival-collectors-edition.json) |
 | Mystery Case Files: House That Love Built - Collector's Edition | 409715 | [409715-mystery-case-files-house-that-love-built-collectors-edition.json](./409715-mystery-case-files-house-that-love-built-collectors-edition.json) |
 | Mystery Case Files: Huntsville | 5509 | [5509-mystery-case-files-huntsville.json](./5509-mystery-case-files-huntsville.json) |
