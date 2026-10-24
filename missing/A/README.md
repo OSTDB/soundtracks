@@ -5074,6 +5074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfred Chicken | 272843 | [272843-alfred-chicken.json](./272843-alfred-chicken.json) |
 | Alfred Chicken | 76821 | [76821-alfred-chicken.json](./76821-alfred-chicken.json) |
 | Alfred Chicken | 7749 | [7749-alfred-chicken.json](./7749-alfred-chicken.json) |
+| Alfred Hitchcock Presents: The Final Cut | 27392 | [27392-alfred-hitchcock-presents-the-final-cut.json](./27392-alfred-hitchcock-presents-the-final-cut.json) |
 | Alfred Hitchcock: Vertigo | 151844 | [151844-alfred-hitchcock-vertigo.json](./151844-alfred-hitchcock-vertigo.json) |
 | Alfred Hitchcock: Vertigo - Digital Deluxe Edition | 165621 | [165621-alfred-hitchcock-vertigo-digital-deluxe-edition.json](./165621-alfred-hitchcock-vertigo-digital-deluxe-edition.json) |
 | Alfred Hitchcock: Vertigo - Limited Edition | 207386 | [207386-alfred-hitchcock-vertigo-limited-edition.json](./207386-alfred-hitchcock-vertigo-limited-edition.json) |
@@ -11882,6 +11883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Arcanum: The Necromancer Pack | 361898 | [361898-ashes-of-arcanum-the-necromancer-pack.json](./361898-ashes-of-arcanum-the-necromancer-pack.json) |
 | Ashes of Arcanum: The Pirate Pack | 361897 | [361897-ashes-of-arcanum-the-pirate-pack.json](./361897-ashes-of-arcanum-the-pirate-pack.json) |
 | Ashes of Arcanum: The Witch Pack | 361895 | [361895-ashes-of-arcanum-the-witch-pack.json](./361895-ashes-of-arcanum-the-witch-pack.json) |
+| Ashes of Creation | 27420 | [27420-ashes-of-creation.json](./27420-ashes-of-creation.json) |
 | Ashes of Equestria | 121722 | [121722-ashes-of-equestria.json](./121722-ashes-of-equestria.json) |
 | Ashes of Immortality II | 35456 | [35456-ashes-of-immortality-ii.json](./35456-ashes-of-immortality-ii.json) |
 | Ashes of Immortality II: Bad Blood | 35457 | [35457-ashes-of-immortality-ii-bad-blood.json](./35457-ashes-of-immortality-ii-bad-blood.json) |
