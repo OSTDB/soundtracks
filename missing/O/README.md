@@ -2539,6 +2539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onward to walls! | 176268 | [176268-onward-to-walls.json](./176268-onward-to-walls.json) |
 | Onwelt | 278881 | [278881-onwelt.json](./278881-onwelt.json) |
 | Onyx | 131338 | [131338-onyx.json](./131338-onyx.json) |
+| Onyx | 35244 | [35244-onyx.json](./35244-onyx.json) |
 | oO | 35316 | [35316-oo.json](./35316-oo.json) |
 | Oo-Topos | 25611 | [25611-oo-topos.json](./25611-oo-topos.json) |
 | Oodlescape - The Apocalypse | 29598 | [29598-oodlescape-the-apocalypse.json](./29598-oodlescape-the-apocalypse.json) |
@@ -3287,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orebound | 316787 | [316787-orebound.json](./316787-orebound.json) |
 | Oreflux | 373331 | [373331-oreflux.json](./373331-oreflux.json) |
 | Oregon Trail II | 47099 | [47099-oregon-trail-ii.json](./47099-oregon-trail-ii.json) |
+| OreLight | 35293 | [35293-orelight.json](./35293-orelight.json) |
 | OreMania | 389097 | [389097-oremania.json](./389097-oremania.json) |
 | Orendale | 317995 | [317995-orendale.json](./317995-orendale.json) |
 | Orenji-iro no Kumo | 164597 | [164597-orenji-iro-no-kumo.json](./164597-orenji-iro-no-kumo.json) |
