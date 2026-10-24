@@ -2658,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorpio | 68453 | [68453-scorpio.json](./68453-scorpio.json) |
 | Scorpion | 22729 | [22729-scorpion.json](./22729-scorpion.json) |
 | Scorpion Champions: Island Warfare | 397719 | [397719-scorpion-champions-island-warfare.json](./397719-scorpion-champions-island-warfare.json) |
+| Scorpion Disfigured | 25400 | [25400-scorpion-disfigured.json](./25400-scorpion-disfigured.json) |
 | Scorpion Garrison | 280227 | [280227-scorpion-garrison.json](./280227-scorpion-garrison.json) |
 | Scorpion Overdrive | 193464 | [193464-scorpion-overdrive.json](./193464-scorpion-overdrive.json) |
 | Scorpion Simulator | 96600 | [96600-scorpion-simulator.json](./96600-scorpion-simulator.json) |
@@ -10740,6 +10741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Adventure: Magkid | 69702 | [69702-slide-adventure-magkid.json](./69702-slide-adventure-magkid.json) |
 | Slide And Perform | 340958 | [340958-slide-and-perform.json](./340958-slide-and-perform.json) |
 | Slide Circus HD | 235154 | [235154-slide-circus-hd.json](./235154-slide-circus-hd.json) |
+| Slide Colors | 25399 | [25399-slide-colors.json](./25399-slide-colors.json) |
 | Slide Defenders | 334079 | [334079-slide-defenders.json](./334079-slide-defenders.json) |
 | Slide Fall: Don't Stack High | 174719 | [174719-slide-fall-dont-stack-high.json](./174719-slide-fall-dont-stack-high.json) |
 | Slide Faster | 319795 | [319795-slide-faster.json](./319795-slide-faster.json) |
@@ -11492,6 +11494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashing Spirits: Brazil's First Boxer | 135713 | [135713-smashing-spirits-brazils-first-boxer.json](./135713-smashing-spirits-brazils-first-boxer.json) |
 | Smashing Star | 202855 | [202855-smashing-star.json](./202855-smashing-star.json) |
 | Smashing the Battle Ghost Soul | 165617 | [165617-smashing-the-battle-ghost-soul.json](./165617-smashing-the-battle-ghost-soul.json) |
+| Smashing Toys | 25413 | [25413-smashing-toys.json](./25413-smashing-toys.json) |
 | Smashmak | 396422 | [396422-smashmak.json](./396422-smashmak.json) |
 | Smashmons: Spirit Red | 313342 | [313342-smashmons-spirit-red.json](./313342-smashmons-spirit-red.json) |
 | Smashmuck Champions | 15323 | [15323-smashmuck-champions.json](./15323-smashmuck-champions.json) |
@@ -16140,6 +16143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space War - Retro Shooter | 96596 | [96596-space-war-retro-shooter.json](./96596-space-war-retro-shooter.json) |
 | Space War Arena | 114884 | [114884-space-war-arena.json](./114884-space-war-arena.json) |
 | Space War Attack | 43546 | [43546-space-war-attack.json](./43546-space-war-attack.json) |
+| Space War Commander | 25431 | [25431-space-war-commander.json](./25431-space-war-commander.json) |
 | Space War Economy Idle | 346253 | [346253-space-war-economy-idle.json](./346253-space-war-economy-idle.json) |
 | Space War: Infinity | 118608 | [118608-space-war-infinity.json](./118608-space-war-infinity.json) |
 | Space War: Protect the Moon | 110289 | [110289-space-war-protect-the-moon.json](./110289-space-war-protect-the-moon.json) |
@@ -28010,6 +28014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Holiday Jigsaws: Trick or Treat | 226349 | [226349-sweet-holiday-jigsaws-trick-or-treat.json](./226349-sweet-holiday-jigsaws-trick-or-treat.json) |
 | Sweet Home | 310820 | [310820-sweet-home.json](./310820-sweet-home.json) |
 | Sweet Home | 9426 | [9426-sweet-home.json](./9426-sweet-home.json) |
+| Sweet Home - Pets | 25411 | [25411-sweet-home-pets.json](./25411-sweet-home-pets.json) |
 | Sweet Home 3: Look and Find - Collector's Edition | 339459 | [339459-sweet-home-3-look-and-find-collectors-edition.json](./339459-sweet-home-3-look-and-find-collectors-edition.json) |
 | Sweet Home Puzzle | 156047 | [156047-sweet-home-puzzle.json](./156047-sweet-home-puzzle.json) |
 | Sweet Home: Design & Blast | 207810 | [207810-sweet-home-design-and-blast.json](./207810-sweet-home-design-and-blast.json) |
