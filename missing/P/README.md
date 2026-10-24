@@ -3462,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pepsi Max Extreme Sports | 110806 | [110806-pepsi-max-extreme-sports.json](./110806-pepsi-max-extreme-sports.json) |
 | Pepsi Nex Game | 315595 | [315595-pepsi-nex-game.json](./315595-pepsi-nex-game.json) |
 | Pepsi Summer Quest | 227663 | [227663-pepsi-summer-quest.json](./227663-pepsi-summer-quest.json) |
+| Pepsiman | 79500 | [79500-pepsiman.json](./79500-pepsiman.json) |
 | Pequeno Eu | 290082 | [290082-pequeno-eu.json](./290082-pequeno-eu.json) |
 | Pequod | 126449 | [126449-pequod.json](./126449-pequod.json) |
 | Per Aspera Test | 289441 | [289441-per-aspera-test.json](./289441-per-aspera-test.json) |
@@ -9153,6 +9154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Shinju Adventures | 331943 | [331943-pokemon-shinju-adventures.json](./331943-pokemon-shinju-adventures.json) |
 | Pokémon Shiny Gold Sigma | 306768 | [306768-pokemon-shiny-gold-sigma.json](./306768-pokemon-shiny-gold-sigma.json) |
 | Pokémon Showdown | 87797 | [87797-pokemon-showdown.json](./87797-pokemon-showdown.json) |
+| Pokémon Shuffle | 8592 | [8592-pokemon-shuffle.json](./8592-pokemon-shuffle.json) |
 | Pokémon Sigma Platinum | 197927 | [197927-pokemon-sigma-platinum.json](./197927-pokemon-sigma-platinum.json) |
 | Pokémon Sinking Sapphire | 163228 | [163228-pokemon-sinking-sapphire.json](./163228-pokemon-sinking-sapphire.json) |
 | Pokémon Sky Stacker | 288369 | [288369-pokemon-sky-stacker.json](./288369-pokemon-sky-stacker.json) |
@@ -9203,6 +9205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Tower Defense 2 | 180292 | [180292-pokemon-tower-defense-2.json](./180292-pokemon-tower-defense-2.json) |
 | Pokémon Trading Card Game | 4567 | [4567-pokemon-trading-card-game.json](./4567-pokemon-trading-card-game.json) |
 | Pokémon Trading Card Game Live | 171816 | [171816-pokemon-trading-card-game-live.json](./171816-pokemon-trading-card-game-live.json) |
+| Pokémon Trading Card Game Online | 24423 | [24423-pokemon-trading-card-game-online.json](./24423-pokemon-trading-card-game-online.json) |
 | Pokémon Trading Card Game Pocket: Celestial Guardians | 341686 | [341686-pokemon-trading-card-game-pocket-celestial-guardians.json](./341686-pokemon-trading-card-game-pocket-celestial-guardians.json) |
 | Pokémon Trading Card Game Pocket: Crimson Blaze | 381911 | [381911-pokemon-trading-card-game-pocket-crimson-blaze.json](./381911-pokemon-trading-card-game-pocket-crimson-blaze.json) |
 | Pokémon Trading Card Game Pocket: Deluxe pack ex | 370869 | [370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json](./370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json) |
@@ -10424,6 +10427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Returns CE | 285154 | [285154-portal-returns-ce.json](./285154-portal-returns-ce.json) |
 | Portal Runner | 49954 | [49954-portal-runner.json](./49954-portal-runner.json) |
 | Portal Shot Gun Teleport | 290436 | [290436-portal-shot-gun-teleport.json](./290436-portal-shot-gun-teleport.json) |
+| Portal Stories: Mel | 47107 | [47107-portal-stories-mel.json](./47107-portal-stories-mel.json) |
 | Portal Together | 410208 | [410208-portal-together.json](./410208-portal-together.json) |
 | Portal Touch | 115783 | [115783-portal-touch.json](./115783-portal-touch.json) |
 | Portal Unity | 219160 | [219160-portal-unity.json](./219160-portal-unity.json) |
