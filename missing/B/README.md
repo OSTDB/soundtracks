@@ -734,6 +734,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Hop Baseball | 235368 | [235368-bad-hop-baseball.json](./235368-bad-hop-baseball.json) |
 | Bad House | 418601 | [418601-bad-house.json](./418601-bad-house.json) |
 | Bad Ice Cream | 106009 | [106009-bad-ice-cream.json](./106009-bad-ice-cream.json) |
+| Bad Ice Cream 2 | 142551 | [142551-bad-ice-cream-2.json](./142551-bad-ice-cream-2.json) |
+| Bad Ice Cream 3 | 142552 | [142552-bad-ice-cream-3.json](./142552-bad-ice-cream-3.json) |
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
 | Bad Janitor | 346250 | [346250-bad-janitor.json](./346250-bad-janitor.json) |
 | Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
@@ -762,7 +764,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7268,6 +7269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Friday | 176745 | [176745-black-friday.json](./176745-black-friday.json) |
 | Black Friday | 249699 | [249699-black-friday.json](./249699-black-friday.json) |
 | Black Friday: The Game | 68600 | [68600-black-friday-the-game.json](./68600-black-friday-the-game.json) |
+| Black Future '88 | 74561 | [74561-black-future-88.json](./74561-black-future-88.json) |
 | Black Geyser: Couriers of Darkness - Tales of the Moon Cult | 379444 | [379444-black-geyser-couriers-of-darkness-tales-of-the-moon-cult.json](./379444-black-geyser-couriers-of-darkness-tales-of-the-moon-cult.json) |
 | Black Goat | 355193 | [355193-black-goat.json](./355193-black-goat.json) |
 | Black Gold | 136436 | [136436-black-gold.json](./136436-black-gold.json) |
@@ -7574,6 +7576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout Route | 419157 | [419157-blackout-route.json](./419157-blackout-route.json) |
 | Blackout Rugby Manager | 126260 | [126260-blackout-rugby-manager.json](./126260-blackout-rugby-manager.json) |
 | Blackout Z | 139717 | [139717-blackout-z.json](./139717-blackout-z.json) |
+| Blackout Z: Slaughterhouse Edition | 74244 | [74244-blackout-z-slaughterhouse-edition.json](./74244-blackout-z-slaughterhouse-edition.json) |
 | Blackout: Director's Cut | 338244 | [338244-blackout-directors-cut.json](./338244-blackout-directors-cut.json) |
 | Blackout: Sightless Home | 227257 | [227257-blackout-sightless-home.json](./227257-blackout-sightless-home.json) |
 | Blackout: The Darkest Night | 118192 | [118192-blackout-the-darkest-night.json](./118192-blackout-the-darkest-night.json) |
@@ -9792,6 +9795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobcos | 368479 | [368479-bobcos.json](./368479-bobcos.json) |
 | Bober Bros: The Hole | 306350 | [306350-bober-bros-the-hole.json](./306350-bober-bros-the-hole.json) |
 | Bober Constructions | 330759 | [330759-bober-constructions.json](./330759-bober-constructions.json) |
+| Böbl | 141431 | [141431-bobl.json](./141431-bobl.json) |
 | Bobls | 185156 | [185156-bobls.json](./185156-bobls.json) |
 | BoBo | 14328 | [14328-bobo.json](./14328-bobo.json) |
 | Bobo and the Chest of Nightmares | 332274 | [332274-bobo-and-the-chest-of-nightmares.json](./332274-bobo-and-the-chest-of-nightmares.json) |
@@ -12817,6 +12821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broforce: Forever | 260721 | [260721-broforce-forever.json](./260721-broforce-forever.json) |
 | Broilers | 218673 | [218673-broilers.json](./218673-broilers.json) |
 | Brok Complete Bundle | 384200 | [384200-brok-complete-bundle.json](./384200-brok-complete-bundle.json) |
+| Brok the Investigator | 141057 | [141057-brok-the-investigator.json](./141057-brok-the-investigator.json) |
 | Brok the Investigator: The Brawl Bar | 304428 | [304428-brok-the-investigator-the-brawl-bar.json](./304428-brok-the-investigator-the-brawl-bar.json) |
 | Brok: Natal Tail, A New Christmas | 325648 | [325648-brok-natal-tail-a-new-christmas.json](./325648-brok-natal-tail-a-new-christmas.json) |
 | Brok: Natal Tail, A New Christmas - Special | 380711 | [380711-brok-natal-tail-a-new-christmas-special.json](./380711-brok-natal-tail-a-new-christmas-special.json) |
@@ -13889,6 +13894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Cove | 141701 | [141701-bullet-cove.json](./141701-bullet-cove.json) |
 | Bullet Destroyer | 226273 | [226273-bullet-destroyer.json](./226273-bullet-destroyer.json) |
 | Bullet Dodge | 38723 | [38723-bullet-dodge.json](./38723-bullet-dodge.json) |
+| Bullet Echo | 142122 | [142122-bullet-echo.json](./142122-bullet-echo.json) |
 | Bullet Express | 185477 | [185477-bullet-express.json](./185477-bullet-express.json) |
 | Bullet Fractals | 181894 | [181894-bullet-fractals.json](./181894-bullet-fractals.json) |
 | Bullet Frenzy | 269041 | [269041-bullet-frenzy.json](./269041-bullet-frenzy.json) |
