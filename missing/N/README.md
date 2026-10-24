@@ -3390,6 +3390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nigate Tale | 139175 | [139175-nigate-tale.json](./139175-nigate-tale.json) |
 | Nige-ron-pa | 43961 | [43961-nige-ron-pa.json](./43961-nige-ron-pa.json) |
 | Nigel | 134885 | [134885-nigel.json](./134885-nigel.json) |
+| Nigel Mansell's World Championship Racing | 12702 | [12702-nigel-mansells-world-championship-racing.json](./12702-nigel-mansells-world-championship-racing.json) |
 | Nigel: The Minuscule Adventure | 121456 | [121456-nigel-the-minuscule-adventure.json](./121456-nigel-the-minuscule-adventure.json) |
 | Nigel's Journey: A Working Day | 133378 | [133378-nigels-journey-a-working-day.json](./133378-nigels-journey-a-working-day.json) |
 | Nigel's World Adventure: Geography | 209402 | [209402-nigels-world-adventure-geography.json](./209402-nigels-world-adventure-geography.json) |
