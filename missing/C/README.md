@@ -6235,6 +6235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chotto xx na Watashi no Nichijou: Kiki Dasshutsu!? Gyakuten no Nazotoki Life | 251532 | [251532-chotto-xx-na-watashi-no-nichijou-kiki-dasshutsu-gyakuten-no-nazotoki-life.json](./251532-chotto-xx-na-watashi-no-nichijou-kiki-dasshutsu-gyakuten-no-nazotoki-life.json) |
 | Chou à la Crème Collect | 304665 | [304665-chou-a-la-creme-collect.json](./304665-chou-a-la-creme-collect.json) |
 | Chou Aniki Zero | 42859 | [42859-chou-aniki-zero.json](./42859-chou-aniki-zero.json) |
+| Chou Aniki: Bakuretsu Rantou-hen | 42391 | [42391-chou-aniki-bakuretsu-rantou-hen.json](./42391-chou-aniki-bakuretsu-rantou-hen.json) |
 | Chou Aniki: Kyuukyoku Muteki Ginga Saikyou Otoko | 95478 | [95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json](./95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json) |
 | Chou Crème Collect Whip | 376875 | [376875-chou-creme-collect-whip.json](./376875-chou-creme-collect-whip.json) |
 | Chou Dengeki Stryker | 23436 | [23436-chou-dengeki-stryker.json](./23436-chou-dengeki-stryker.json) |
