@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Odyssey | 130881 | [130881-warhammer-odyssey.json](./130881-warhammer-odyssey.json) |
 | Warhammer: Shadow of the Horned Rat | 5527 | [5527-warhammer-shadow-of-the-horned-rat.json](./5527-warhammer-shadow-of-the-horned-rat.json) |
 | Warhammer: Snotling Fling | 34227 | [34227-warhammer-snotling-fling.json](./34227-warhammer-snotling-fling.json) |
+| Warhammer: The End Times - Vermintide: Digital Value Pack | 82405 | [82405-warhammer-the-end-times-vermintide-digital-value-pack.json](./82405-warhammer-the-end-times-vermintide-digital-value-pack.json) |
 | Warhammer: Vermintide 2 - A Treacherous Adventure | 321734 | [321734-warhammer-vermintide-2-a-treacherous-adventure.json](./321734-warhammer-vermintide-2-a-treacherous-adventure.json) |
 | Warhammer: Vermintide 2 - Back to Ubersreik | 112087 | [112087-warhammer-vermintide-2-back-to-ubersreik.json](./112087-warhammer-vermintide-2-back-to-ubersreik.json) |
 | Warhammer: Vermintide 2 - Chaos Wastes | 148707 | [148707-warhammer-vermintide-2-chaos-wastes.json](./148707-warhammer-vermintide-2-chaos-wastes.json) |
@@ -3240,7 +3241,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
