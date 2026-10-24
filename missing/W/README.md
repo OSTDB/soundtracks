@@ -3211,7 +3211,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -7034,6 +7033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm War I | 22556 | [22556-worm-war-i.json](./22556-worm-war-i.json) |
 | Worm War: Greengrocer | 290420 | [290420-worm-war-greengrocer.json](./290420-worm-war-greengrocer.json) |
 | Worm.is: The Game | 32723 | [32723-worm-is-the-game.json](./32723-worm-is-the-game.json) |
+| Wormate.io | 36808 | [36808-wormate-io.json](./36808-wormate-io.json) |
 | Wormatozoa | 190722 | [190722-wormatozoa.json](./190722-wormatozoa.json) |
 | Wormax.io | 115449 | [115449-wormax-io.json](./115449-wormax-io.json) |
 | Wormax2.io | 125811 | [125811-wormax2-io.json](./125811-wormax2-io.json) |
