@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.H.E. | 183800 | [183800-s-h-e.json](./183800-s-h-e.json) |
 | S.I.N. Unit: Ghost Investigation & Removal | 165528 | [165528-s-i-n-unit-ghost-investigation-and-removal.json](./165528-s-i-n-unit-ghost-investigation-and-removal.json) |
 | S.I.P. SE: Safety is Power | 302386 | [302386-s-i-p-se-safety-is-power.json](./302386-s-i-p-se-safety-is-power.json) |
+| S.K.I.L.L.: Special Force 2 | 17174 | [17174-s-k-i-l-l-special-force-2.json](./17174-s-k-i-l-l-special-force-2.json) |
 | S.K.R.U.B. Squad | 412352 | [412352-s-k-r-u-b-squad.json](./412352-s-k-r-u-b-squad.json) |
 | S.M.A.C.K. | 225097 | [225097-s-m-a-c-k.json](./225097-s-m-a-c-k.json) |
 | S.M.A.R.T. Adventures: Mission Math - Sabotage at the Space Station | 86092 | [86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json](./86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json) |
@@ -8574,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Bandz | 10620 | [10620-silly-bandz.json](./10620-silly-bandz.json) |
 | Silly Billy | 295397 | [295397-silly-billy.json](./295397-silly-billy.json) |
 | Silly Frog | 261664 | [261664-silly-frog.json](./261664-silly-frog.json) |
+| Silly Linguine Cat Simulator Deluxe Online | 396383 | [396383-silly-linguine-cat-simulator-deluxe-online.json](./396383-silly-linguine-cat-simulator-deluxe-online.json) |
 | Silly Little Guys | 300270 | [300270-silly-little-guys.json](./300270-silly-little-guys.json) |
 | Silly Polly Beast | 157379 | [157379-silly-polly-beast.json](./157379-silly-polly-beast.json) |
 | Silly Royale: Devil Amongst Us | 242233 | [242233-silly-royale-devil-amongst-us.json](./242233-silly-royale-devil-amongst-us.json) |
@@ -19284,6 +19286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Exodus | 217306 | [217306-star-exodus.json](./217306-star-exodus.json) |
 | Star Explorers | 32051 | [32051-star-explorers.json](./32051-star-explorers.json) |
 | Star Fetched | 194338 | [194338-star-fetched.json](./194338-star-fetched.json) |
+| Star Fetchers | 126573 | [126573-star-fetchers.json](./126573-star-fetchers.json) |
 | Star Fetchers : Episode 1 | 220500 | [220500-star-fetchers-episode-1.json](./220500-star-fetchers-episode-1.json) |
 | Star Fetchers: Escape from Pork Belly | 298240 | [298240-star-fetchers-escape-from-pork-belly.json](./298240-star-fetchers-escape-from-pork-belly.json) |
 | Star Fiction | 348276 | [348276-star-fiction.json](./348276-star-fiction.json) |
@@ -26805,6 +26808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Technos World: River City & Arcade Classics | 337064 | [337064-super-technos-world-river-city-and-arcade-classics.json](./337064-super-technos-world-river-city-and-arcade-classics.json) |
 | Super Tekkyu Fight! | 42222 | [42222-super-tekkyu-fight.json](./42222-super-tekkyu-fight.json) |
 | Super Tennis | 147960 | [147960-super-tennis.json](./147960-super-tennis.json) |
+| Super Tennis | 18144 | [18144-super-tennis.json](./18144-super-tennis.json) |
 | Super Tennis Blast | 116486 | [116486-super-tennis-blast.json](./116486-super-tennis-blast.json) |
 | Super Tennis Breakout | 349088 | [349088-super-tennis-breakout.json](./349088-super-tennis-breakout.json) |
 | Super Tennis Champs | 56442 | [56442-super-tennis-champs.json](./56442-super-tennis-champs.json) |
@@ -28061,6 +28065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swat | 71547 | [71547-swat.json](./71547-swat.json) |
 | SWAT | 307058 | [307058-swat.json](./307058-swat.json) |
 | SWAT 3: Close Quarters Battle | 313 | [313-swat-3-close-quarters-battle.json](./313-swat-3-close-quarters-battle.json) |
+| SWAT 3: Close Quarters Battle - Elite Edition | 17255 | [17255-swat-3-close-quarters-battle-elite-edition.json](./17255-swat-3-close-quarters-battle-elite-edition.json) |
 | SWAT 3: Tactical Game of the Year Edition | 30391 | [30391-swat-3-tactical-game-of-the-year-edition.json](./30391-swat-3-tactical-game-of-the-year-edition.json) |
 | SWAT 4 | 316 | [316-swat-4.json](./316-swat-4.json) |
 | SWAT 4: Elite Force | 217800 | [217800-swat-4-elite-force.json](./217800-swat-4-elite-force.json) |
