@@ -2531,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of Thrones | 356159 | [356159-realm-of-thrones.json](./356159-realm-of-thrones.json) |
 | Realm of Valor | 56503 | [56503-realm-of-valor.json](./56503-realm-of-valor.json) |
 | Realm of Virtuals | 116823 | [116823-realm-of-virtuals.json](./116823-realm-of-virtuals.json) |
+| Realm of Wretched Nightmares: Episode 2 | 27350 | [27350-realm-of-wretched-nightmares-episode-2.json](./27350-realm-of-wretched-nightmares-episode-2.json) |
 | Realm Quest | 59256 | [59256-realm-quest.json](./59256-realm-quest.json) |
 | Realm Racer | 382379 | [382379-realm-racer.json](./382379-realm-racer.json) |
 | Realm Revolutions | 81696 | [81696-realm-revolutions.json](./81696-realm-revolutions.json) |
@@ -2558,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Arkania: Blade of Destiny - For the Gods | 170452 | [170452-realms-of-arkania-blade-of-destiny-for-the-gods.json](./170452-realms-of-arkania-blade-of-destiny-for-the-gods.json) |
 | Realms of Arkania: Blade of Destiny - Ogredeath | 170453 | [170453-realms-of-arkania-blade-of-destiny-ogredeath.json](./170453-realms-of-arkania-blade-of-destiny-ogredeath.json) |
 | Realms of Arkania: Blade of Destiny + Star Trail | 93214 | [93214-realms-of-arkania-blade-of-destiny-star-trail.json](./93214-realms-of-arkania-blade-of-destiny-star-trail.json) |
+| Realms of Arkania: Star Trail | 27346 | [27346-realms-of-arkania-star-trail.json](./27346-realms-of-arkania-star-trail.json) |
 | Realms of Conquest | 54835 | [54835-realms-of-conquest.json](./54835-realms-of-conquest.json) |
 | Realms of Cronos | 268916 | [268916-realms-of-cronos.json](./268916-realms-of-cronos.json) |
 | Realms of Darkness | 130730 | [130730-realms-of-darkness.json](./130730-realms-of-darkness.json) |
@@ -10151,6 +10153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruriiro Days: Heavenly Blue | 221242 | [221242-ruriiro-days-heavenly-blue.json](./221242-ruriiro-days-heavenly-blue.json) |
 | Rurizakura | 157566 | [157566-rurizakura.json](./157566-rurizakura.json) |
 | Rurouni Kenshin: Meiji Kenkaku Roman-tan - Ishin Gekitou-hen | 44771 | [44771-rurouni-kenshin-meiji-kenkaku-roman-tan-ishin-gekitou-hen.json](./44771-rurouni-kenshin-meiji-kenkaku-roman-tan-ishin-gekitou-hen.json) |
+| Rurouni Kenshin: Meiji Kenkaku Roman-tan - Juuyuushi Inbou-hen | 27320 | [27320-rurouni-kenshin-meiji-kenkaku-roman-tan-juuyuushi-inbou-hen.json](./27320-rurouni-kenshin-meiji-kenkaku-roman-tan-juuyuushi-inbou-hen.json) |
 | Rurouni Kenshin: Meiji Kenkaku Roman-tan - Kengeki Kenran | 153693 | [153693-rurouni-kenshin-meiji-kenkaku-roman-tan-kengeki-kenran.json](./153693-rurouni-kenshin-meiji-kenkaku-roman-tan-kengeki-kenran.json) |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Enjou, Kyoto Rinne! | 73695 | [73695-rurouni-kenshin-meiji-kenkaku-romantan-enjou-kyoto-rinne.json](./73695-rurouni-kenshin-meiji-kenkaku-romantan-enjou-kyoto-rinne.json) |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kansen | 44492 | [44492-rurouni-kenshin-meiji-kenkaku-romantan-kansen.json](./44492-rurouni-kenshin-meiji-kenkaku-romantan-kansen.json) |
