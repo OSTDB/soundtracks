@@ -11037,6 +11037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Midnight Lapse: Reborn | 26984 | [26984-the-midnight-lapse-reborn.json](./26984-the-midnight-lapse-reborn.json) |
 | The Midnight Monkey | 177274 | [177274-the-midnight-monkey.json](./177274-the-midnight-monkey.json) |
 | The Midnight Park | 183066 | [183066-the-midnight-park.json](./183066-the-midnight-park.json) |
+| The Midnight Sanctuary | 36759 | [36759-the-midnight-sanctuary.json](./36759-the-midnight-sanctuary.json) |
 | The Midnight Station | 60856 | [60856-the-midnight-station.json](./60856-the-midnight-station.json) |
 | The Midnight Town Stories: Adam's Diary | 260530 | [260530-the-midnight-town-stories-adams-diary.json](./260530-the-midnight-town-stories-adams-diary.json) |
 | The Midnight Town Stories: Matt's Nightmare | 336580 | [336580-the-midnight-town-stories-matts-nightmare.json](./336580-the-midnight-town-stories-matts-nightmare.json) |
@@ -11356,7 +11357,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -12317,6 +12317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Radio Chaser | 292074 | [292074-the-radio-chaser.json](./292074-the-radio-chaser.json) |
 | The Radio Tower | 373894 | [373894-the-radio-tower.json](./373894-the-radio-tower.json) |
 | The Radio Wave Bureau | 280433 | [280433-the-radio-wave-bureau.json](./280433-the-radio-wave-bureau.json) |
+| The Raft | 36788 | [36788-the-raft.json](./36788-the-raft.json) |
 | The Ragdoll | 108272 | [108272-the-ragdoll.json](./108272-the-ragdoll.json) |
 | The Rage of Valhalla | 213779 | [213779-the-rage-of-valhalla.json](./213779-the-rage-of-valhalla.json) |
 | The Raid of Brunswick | 397919 | [397919-the-raid-of-brunswick.json](./397919-the-raid-of-brunswick.json) |
@@ -19132,6 +19133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan78 | 190147 | [190147-titan78.json](./190147-titan78.json) |
 | Titanfall 2: Angel City's Most Wanted Bundle | 170861 | [170861-titanfall-2-angel-citys-most-wanted-bundle.json](./170861-titanfall-2-angel-citys-most-wanted-bundle.json) |
 | Titanfall 2: Deluxe Edition | 53805 | [53805-titanfall-2-deluxe-edition.json](./53805-titanfall-2-deluxe-edition.json) |
+| Titanfall 2: Monarch's Reign | 36700 | [36700-titanfall-2-monarchs-reign.json](./36700-titanfall-2-monarchs-reign.json) |
 | Titanfall 2: Nitro Scorch Pack | 170862 | [170862-titanfall-2-nitro-scorch-pack.json](./170862-titanfall-2-nitro-scorch-pack.json) |
 | Titanfall 2: SteelBook Edition | 17522 | [17522-titanfall-2-steelbook-edition.json](./17522-titanfall-2-steelbook-edition.json) |
 | Titanfall 2: Vanguard Collector's Edition | 21729 | [21729-titanfall-2-vanguard-collectors-edition.json](./21729-titanfall-2-vanguard-collectors-edition.json) |
@@ -19725,6 +19727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Memorial Girl's Side Triple Pack | 109045 | [109045-tokimeki-memorial-girls-side-triple-pack.json](./109045-tokimeki-memorial-girls-side-triple-pack.json) |
 | Tokimeki Memorial Girl's Side: 1st Love | 124096 | [124096-tokimeki-memorial-girls-side-1st-love.json](./124096-tokimeki-memorial-girls-side-1st-love.json) |
 | Tokimeki Memorial Girl's Side: 1st Love Plus | 124097 | [124097-tokimeki-memorial-girls-side-1st-love-plus.json](./124097-tokimeki-memorial-girls-side-1st-love-plus.json) |
+| Tokimeki Memorial Girl's Side: 2nd Kiss | 36791 | [36791-tokimeki-memorial-girls-side-2nd-kiss.json](./36791-tokimeki-memorial-girls-side-2nd-kiss.json) |
 | Tokimeki Memorial Girl's Side: 2nd Season | 124098 | [124098-tokimeki-memorial-girls-side-2nd-season.json](./124098-tokimeki-memorial-girls-side-2nd-season.json) |
 | Tokimeki Memorial Girl's Side: 3rd Story | 47863 | [47863-tokimeki-memorial-girls-side-3rd-story.json](./47863-tokimeki-memorial-girls-side-3rd-story.json) |
 | Tokimeki Memorial Pocket Culture Version: Komorebi no Melody | 108753 | [108753-tokimeki-memorial-pocket-culture-version-komorebi-no-melody.json](./108753-tokimeki-memorial-pocket-culture-version-komorebi-no-melody.json) |
@@ -21136,6 +21139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Battle Tank 3D-2 | 55912 | [55912-touch-battle-tank-3d-2.json](./55912-touch-battle-tank-3d-2.json) |
 | Touch Battle Tank 3D-3 | 58832 | [58832-touch-battle-tank-3d-3.json](./58832-touch-battle-tank-3d-3.json) |
 | Touch Battle Tank SP | 55908 | [55908-touch-battle-tank-sp.json](./55908-touch-battle-tank-sp.json) |
+| Touch Battle Tank Tag Combat | 36774 | [36774-touch-battle-tank-tag-combat.json](./36774-touch-battle-tank-tag-combat.json) |
 | Touch Carrom: Striker Edition | 239887 | [239887-touch-carrom-striker-edition.json](./239887-touch-carrom-striker-edition.json) |
 | Touch Darts | 21434 | [21434-touch-darts.json](./21434-touch-darts.json) |
 | Touch de Zuno DS | 58164 | [58164-touch-de-zuno-ds.json](./58164-touch-de-zuno-ds.json) |
