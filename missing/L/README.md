@@ -4807,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Man Has a Day | 260022 | [260022-little-man-has-a-day.json](./260022-little-man-has-a-day.json) |
 | Little Marisa's Disaster Journey | 99440 | [99440-little-marisas-disaster-journey.json](./99440-little-marisas-disaster-journey.json) |
 | Little Martian | 153332 | [153332-little-martian.json](./153332-little-martian.json) |
+| Little Master: Niji Iro no Maseki | 42372 | [42372-little-master-niji-iro-no-maseki.json](./42372-little-master-niji-iro-no-maseki.json) |
 | Little Medusa | 106984 | [106984-little-medusa.json](./106984-little-medusa.json) |
 | Little Memories | 109741 | [109741-little-memories.json](./109741-little-memories.json) |
 | Little Memory | 93025 | [93025-little-memory.json](./93025-little-memory.json) |
