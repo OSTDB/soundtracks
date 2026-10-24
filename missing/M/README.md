@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madland | 121598 | [121598-madland.json](./121598-madland.json) |
 | Madman | 272280 | [272280-madman.json](./272280-madman.json) |
 | Madman's Dice | 374801 | [374801-madmans-dice.json](./374801-madmans-dice.json) |
+| Madness | 30519 | [30519-madness.json](./30519-madness.json) |
 | Madness | 309846 | [309846-madness.json](./309846-madness.json) |
 | Madness & the Minotaur | 24851 | [24851-madness-and-the-minotaur.json](./24851-madness-and-the-minotaur.json) |
 | Madness Accelerant | 65891 | [65891-madness-accelerant.json](./65891-madness-accelerant.json) |
@@ -17494,6 +17495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Cleaver | 344334 | [344334-mystic-cleaver.json](./344334-mystic-cleaver.json) |
 | Mystic Code | 133751 | [133751-mystic-code.json](./133751-mystic-code.json) |
 | Mystic Defender | 27989 | [27989-mystic-defender.json](./27989-mystic-defender.json) |
+| Mystic Defense | 30581 | [30581-mystic-defense.json](./30581-mystic-defense.json) |
 | Mystic Destinies: Serendipity of Aeons | 33805 | [33805-mystic-destinies-serendipity-of-aeons.json](./33805-mystic-destinies-serendipity-of-aeons.json) |
 | Mystic Diary: Lost Brother | 32216 | [32216-mystic-diary-lost-brother.json](./32216-mystic-diary-lost-brother.json) |
 | Mystic Duel: Heroes Realm | 299419 | [299419-mystic-duel-heroes-realm.json](./299419-mystic-duel-heroes-realm.json) |
