@@ -7053,6 +7053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Egg | 403231 | [403231-the-egg.json](./403231-the-egg.json) |
 | The Egg of Human Endeavors | 223133 | [223133-the-egg-of-human-endeavors.json](./223133-the-egg-of-human-endeavors.json) |
 | The Eggsperts | 373560 | [373560-the-eggsperts.json](./373560-the-eggsperts.json) |
+| The Egyptian Prophecy: The Fate of Ramses | 17414 | [17414-the-egyptian-prophecy-the-fate-of-ramses.json](./17414-the-egyptian-prophecy-the-fate-of-ramses.json) |
 | The Eidolon | 12950 | [12950-the-eidolon.json](./12950-the-eidolon.json) |
 | The Eigengrau Menagerie | 90480 | [90480-the-eigengrau-menagerie.json](./90480-the-eigengrau-menagerie.json) |
 | The Eighth Continent | 369383 | [369383-the-eighth-continent.json](./369383-the-eighth-continent.json) |
@@ -11527,7 +11528,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
