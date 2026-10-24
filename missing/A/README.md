@@ -5410,6 +5410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Hominid | 2690 | [2690-alien-hominid.json](./2690-alien-hominid.json) |
 | Alien Hominid | 314892 | [314892-alien-hominid.json](./314892-alien-hominid.json) |
 | Alien Hominid 360 | 314895 | [314895-alien-hominid-360.json](./314895-alien-hominid-360.json) |
+| Alien Hominid HD | 20673 | [20673-alien-hominid-hd.json](./20673-alien-hominid-hd.json) |
 | Alien Hominid: PDA Classic Pack 2 | 280416 | [280416-alien-hominid-pda-classic-pack-2.json](./280416-alien-hominid-pda-classic-pack-2.json) |
 | Alien Hominid: PDA Games | 61164 | [61164-alien-hominid-pda-games.json](./61164-alien-hominid-pda-games.json) |
 | Alien Hominid: The Extra Terrestrial Bundle | 274442 | [274442-alien-hominid-the-extra-terrestrial-bundle.json](./274442-alien-hominid-the-extra-terrestrial-bundle.json) |
@@ -6151,6 +6152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Pairs | 203854 | [203854-alpha-pairs.json](./203854-alpha-pairs.json) |
 | Alpha Point | 361730 | [361730-alpha-point.json](./361730-alpha-point.json) |
 | Alpha Polaris | 14199 | [14199-alpha-polaris.json](./14199-alpha-polaris.json) |
+| Alpha Prime | 9173 | [9173-alpha-prime.json](./9173-alpha-prime.json) |
 | Alpha Protocol | 2539 | [2539-alpha-protocol.json](./2539-alpha-protocol.json) |
 | Alpha Response | 345614 | [345614-alpha-response.json](./345614-alpha-response.json) |
 | Alpha Roid | 47558 | [47558-alpha-roid.json](./47558-alpha-roid.json) |
@@ -9640,6 +9642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AR Shot 2 | 344787 | [344787-ar-shot-2.json](./344787-ar-shot-2.json) |
 | Ar tonelico II: Melody of Metafalica | 43658 | [43658-ar-tonelico-ii-melody-of-metafalica.json](./43658-ar-tonelico-ii-melody-of-metafalica.json) |
 | Ar Tonelico Qoga: Knell of Ar Ciel | 7274 | [7274-ar-tonelico-qoga-knell-of-ar-ciel.json](./7274-ar-tonelico-qoga-knell-of-ar-ciel.json) |
+| Ar tonelico: Melody of Elemia | 21538 | [21538-ar-tonelico-melody-of-elemia.json](./21538-ar-tonelico-melody-of-elemia.json) |
 | Ar-K | 16929 | [16929-ar-k.json](./16929-ar-k.json) |
 | Ar-K: End Game | 110962 | [110962-ar-k-end-game.json](./110962-ar-k-end-game.json) |
 | AR-K: The Great Escape | 24334 | [24334-ar-k-the-great-escape.json](./24334-ar-k-the-great-escape.json) |
@@ -13556,6 +13559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Earthlings Mobile | 299288 | [299288-attack-of-the-earthlings-mobile.json](./299288-attack-of-the-earthlings-mobile.json) |
 | Attack of the Evil Poop | 119733 | [119733-attack-of-the-evil-poop.json](./119733-attack-of-the-evil-poop.json) |
 | Attack of the Evil Poop VR | 166738 | [166738-attack-of-the-evil-poop-vr.json](./166738-attack-of-the-evil-poop-vr.json) |
+| Attack of the Friday Monsters! A Tokyo Tale | 19923 | [19923-attack-of-the-friday-monsters-a-tokyo-tale.json](./19923-attack-of-the-friday-monsters-a-tokyo-tale.json) |
 | Attack of the Giant Crab | 188506 | [188506-attack-of-the-giant-crab.json](./188506-attack-of-the-giant-crab.json) |
 | Attack of the Giant Mutant Lizard | 113711 | [113711-attack-of-the-giant-mutant-lizard.json](./113711-attack-of-the-giant-mutant-lizard.json) |
 | Attack of the Gigant Zombie vs Unity chan | 87996 | [87996-attack-of-the-gigant-zombie-vs-unity-chan.json](./87996-attack-of-the-gigant-zombie-vs-unity-chan.json) |
@@ -13750,6 +13754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AudioWizards | 129054 | [129054-audiowizards.json](./129054-audiowizards.json) |
 | Audition 2 | 135805 | [135805-audition-2.json](./135805-audition-2.json) |
 | Audition Next Gen | 123258 | [123258-audition-next-gen.json](./123258-audition-next-gen.json) |
+| Audition Online | 9555 | [9555-audition-online.json](./9555-audition-online.json) |
 | Audition Portable | 56520 | [56520-audition-portable.json](./56520-audition-portable.json) |
 | Auditorium | 15282 | [15282-auditorium.json](./15282-auditorium.json) |
 | Audo | 181348 | [181348-audo.json](./181348-audo.json) |
