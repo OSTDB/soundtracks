@@ -2085,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impact Trial: First Encounter | 279126 | [279126-impact-trial-first-encounter.json](./279126-impact-trial-first-encounter.json) |
 | Impact Trial: Simulation | 164508 | [164508-impact-trial-simulation.json](./164508-impact-trial-simulation.json) |
 | Impact Trial: The Lost Planet | 258128 | [258128-impact-trial-the-lost-planet.json](./258128-impact-trial-the-lost-planet.json) |
+| Impact Winter | 26145 | [26145-impact-winter.json](./26145-impact-winter.json) |
 | Impact! | 289584 | [289584-impact.json](./289584-impact.json) |
 | Impale Your Friends! | 117573 | [117573-impale-your-friends.json](./117573-impale-your-friends.json) |
 | Impaler Gold | 196078 | [196078-impaler-gold.json](./196078-impaler-gold.json) |
