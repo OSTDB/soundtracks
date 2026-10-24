@@ -1116,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Unicorn Nail Salon | 90353 | [90353-rainbow-unicorn-nail-salon.json](./90353-rainbow-unicorn-nail-salon.json) |
 | Rainbow Warhead | 244859 | [244859-rainbow-warhead.json](./244859-rainbow-warhead.json) |
 | Rainbow Warrior | 71711 | [71711-rainbow-warrior.json](./71711-rainbow-warrior.json) |
+| Rainbow Web | 25397 | [25397-rainbow-web.json](./25397-rainbow-web.json) |
 | Rainbow Web 2 | 54309 | [54309-rainbow-web-2.json](./54309-rainbow-web-2.json) |
 | Rainbow Web 3 | 108642 | [108642-rainbow-web-3.json](./108642-rainbow-web-3.json) |
 | Rainbow Witch | 250263 | [250263-rainbow-witch.json](./250263-rainbow-witch.json) |
@@ -3388,6 +3389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redneck Deer Huntin' | 9005 | [9005-redneck-deer-huntin.json](./9005-redneck-deer-huntin.json) |
 | Redneck Ed: Astro Monsters Show | 132230 | [132230-redneck-ed-astro-monsters-show.json](./132230-redneck-ed-astro-monsters-show.json) |
 | Redneck Joe vs The Swamp Zombies | 261749 | [261749-redneck-joe-vs-the-swamp-zombies.json](./261749-redneck-joe-vs-the-swamp-zombies.json) |
+| Redneck Kentucky | 25447 | [25447-redneck-kentucky.json](./25447-redneck-kentucky.json) |
 | Redneck Party | 151026 | [151026-redneck-party.json](./151026-redneck-party.json) |
 | Redneck Racers | 17199 | [17199-redneck-racers.json](./17199-redneck-racers.json) |
 | Redneck Rampage | 9002 | [9002-redneck-rampage.json](./9002-redneck-rampage.json) |
@@ -4160,6 +4162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repentant | 106564 | [106564-repentant.json](./106564-repentant.json) |
 | Repentless | 213640 | [213640-repentless.json](./213640-repentless.json) |
 | Repentless 2 | 223062 | [223062-repentless-2.json](./223062-repentless-2.json) |
+| Reperfection: Volume 1 | 25426 | [25426-reperfection-volume-1.json](./25426-reperfection-volume-1.json) |
 | Repetendium | 207744 | [207744-repetendium.json](./207744-repetendium.json) |
 | RePirates | 181332 | [181332-repirates.json](./181332-repirates.json) |
 | Repit 2 | 220685 | [220685-repit-2.json](./220685-repit-2.json) |
@@ -6168,6 +6171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riot Stars | 166557 | [166557-riot-stars.json](./166557-riot-stars.json) |
 | Riot Zone | 37611 | [37611-riot-zone.json](./37611-riot-zone.json) |
 | Riot: Civil Unrest | 19934 | [19934-riot-civil-unrest.json](./19934-riot-civil-unrest.json) |
+| RiotBall | 25416 | [25416-riotball.json](./25416-riotball.json) |
 | Rioters 2025 | 147328 | [147328-rioters-2025.json](./147328-rioters-2025.json) |
 | Riotous | 152619 | [152619-riotous.json](./152619-riotous.json) |
 | RiotZ | 41923 | [41923-riotz.json](./41923-riotz.json) |
@@ -7187,6 +7191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Anomaly | 344986 | [344986-robot-anomaly.json](./344986-robot-anomaly.json) |
 | Robot Arena | 9015 | [9015-robot-arena.json](./9015-robot-arena.json) |
 | Robot Arena 2: Design and Destroy | 8854 | [8854-robot-arena-2-design-and-destroy.json](./8854-robot-arena-2-design-and-destroy.json) |
+| Robot Arena III | 25441 | [25441-robot-arena-iii.json](./25441-robot-arena-iii.json) |
 | Robot Arena Survivors | 297836 | [297836-robot-arena-survivors.json](./297836-robot-arena-survivors.json) |
 | Robot Arena: Design & Destroy | 79323 | [79323-robot-arena-design-and-destroy.json](./79323-robot-arena-design-and-destroy.json) |
 | Robot Auto Racing Simulator | 127950 | [127950-robot-auto-racing-simulator.json](./127950-robot-auto-racing-simulator.json) |
