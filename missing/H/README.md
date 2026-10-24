@@ -3598,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty's The Land of Hidden Objects: DokokanaArcana | 284432 | [284432-hello-kittys-the-land-of-hidden-objects-dokokanaarcana.json](./284432-hello-kittys-the-land-of-hidden-objects-dokokanaarcana.json) |
 | Hello Lady! | 95168 | [95168-hello-lady.json](./95168-hello-lady.json) |
 | Hello Lady! Complete Edition | 187447 | [187447-hello-lady-complete-edition.json](./187447-hello-lady-complete-edition.json) |
+| Hello Lady! Superior Dynamis | 28498 | [28498-hello-lady-superior-dynamis.json](./28498-hello-lady-superior-dynamis.json) |
 | Hello Loaf | 367496 | [367496-hello-loaf.json](./367496-hello-loaf.json) |
 | Hello Mr. President | 54900 | [54900-hello-mr-president.json](./54900-hello-mr-president.json) |
 | Hello Neighbor | 18167 | [18167-hello-neighbor.json](./18167-hello-neighbor.json) |
@@ -7939,6 +7940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopy-ONE | 93037 | [93037-hopy-one.json](./93037-hopy-one.json) |
 | Hora | 364980 | [364980-hora.json](./364980-hora.json) |
 | Horace | 120323 | [120323-horace.json](./120323-horace.json) |
+| Horace and the Spiders | 28518 | [28518-horace-and-the-spiders.json](./28518-horace-and-the-spiders.json) |
 | Horace Goes Skiing | 13881 | [13881-horace-goes-skiing.json](./13881-horace-goes-skiing.json) |
 | Horace to the Rescue | 242035 | [242035-horace-to-the-rescue.json](./242035-horace-to-the-rescue.json) |
 | Horas Extra Terrestres | 298989 | [298989-horas-extra-terrestres.json](./298989-horas-extra-terrestres.json) |
@@ -8394,6 +8396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Girls VR | 110945 | [110945-hot-girls-vr.json](./110945-hot-girls-vr.json) |
 | Hot Glue | 210469 | [210469-hot-glue.json](./210469-hot-glue.json) |
 | Hot Goths Murder Mystery Dating Sim | 237825 | [237825-hot-goths-murder-mystery-dating-sim.json](./237825-hot-goths-murder-mystery-dating-sim.json) |
+| Hot Guns | 28505 | [28505-hot-guns.json](./28505-hot-guns.json) |
 | Hot Guns: International Missions | 213967 | [213967-hot-guns-international-missions.json](./213967-hot-guns-international-missions.json) |
 | Hot Hands! | 87171 | [87171-hot-hands.json](./87171-hot-hands.json) |
 | Hot Hatch Adventure | 278640 | [278640-hot-hatch-adventure.json](./278640-hot-hatch-adventure.json) |
