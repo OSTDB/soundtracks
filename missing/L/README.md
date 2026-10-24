@@ -1656,6 +1656,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaderboard Tournament | 22526 | [22526-leaderboard-tournament.json](./22526-leaderboard-tournament.json) |
 | Leadersheep | 183509 | [183509-leadersheep.json](./183509-leadersheep.json) |
 | Leading Company | 46004 | [46004-leading-company.json](./46004-leading-company.json) |
+| Leading Jockey | 38108 | [38108-leading-jockey.json](./38108-leading-jockey.json) |
+| Leading Jockey 2 | 38107 | [38107-leading-jockey-2.json](./38107-leading-jockey-2.json) |
 | Leading Lap MPV | 138701 | [138701-leading-lap-mpv.json](./138701-leading-lap-mpv.json) |
 | Leading the Dead | 186677 | [186677-leading-the-dead.json](./186677-leading-the-dead.json) |
 | Leadlight | 330903 | [330903-leadlight.json](./330903-leadlight.json) |
