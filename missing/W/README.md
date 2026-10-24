@@ -6442,6 +6442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Class Champion Soccer | 225510 | [225510-world-class-champion-soccer.json](./225510-world-class-champion-soccer.json) |
 | World Class Fussball/Soccer | 175907 | [175907-world-class-fussball-soccer.json](./175907-world-class-fussball-soccer.json) |
 | World Class Golf | 239338 | [239338-world-class-golf.json](./239338-world-class-golf.json) |
+| World Class Leaderboard | 19492 | [19492-world-class-leaderboard.json](./19492-world-class-leaderboard.json) |
 | World Class Leaderboard Golf | 262861 | [262861-world-class-leaderboard-golf.json](./262861-world-class-leaderboard-golf.json) |
 | World Class Poker with T.J. Cloutier | 53112 | [53112-world-class-poker-with-t-j-cloutier.json](./53112-world-class-poker-with-t-j-cloutier.json) |
 | World Class Rugby 2 | 37766 | [37766-world-class-rugby-2.json](./37766-world-class-rugby-2.json) |
@@ -7621,6 +7622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Mobile Madness | 23758 | [23758-wwe-mobile-madness.json](./23758-wwe-mobile-madness.json) |
 | WWE Presents: Rockpocalypse | 63263 | [63263-wwe-presents-rockpocalypse.json](./63263-wwe-presents-rockpocalypse.json) |
 | WWE Racing Showdown | 227163 | [227163-wwe-racing-showdown.json](./227163-wwe-racing-showdown.json) |
+| WWE Raw 2 | 6249 | [6249-wwe-raw-2.json](./6249-wwe-raw-2.json) |
 | WWE Raw 2: Ruthless Aggression | 24123 | [24123-wwe-raw-2-ruthless-aggression.json](./24123-wwe-raw-2-ruthless-aggression.json) |
 | WWE Slam | 57378 | [57378-wwe-slam.json](./57378-wwe-slam.json) |
 | WWE SmackDown vs. Raw 2008 | 328306 | [328306-wwe-smackdown-vs-raw-2008.json](./328306-wwe-smackdown-vs-raw-2008.json) |
