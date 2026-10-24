@@ -1282,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VertalStrike | 400892 | [400892-vertalstrike.json](./400892-vertalstrike.json) |
 | Vertex | 142255 | [142255-vertex.json](./142255-vertex.json) |
 | Vertex | 384677 | [384677-vertex.json](./384677-vertex.json) |
+| Vertex Dispenser | 15133 | [15133-vertex-dispenser.json](./15133-vertex-dispenser.json) |
 | Vertex-1: Ainia | 418523 | [418523-vertex-1-ainia.json](./418523-vertex-1-ainia.json) |
 | Verti-Go Home! | 118690 | [118690-verti-go-home.json](./118690-verti-go-home.json) |
 | Vertiball | 86123 | [86123-vertiball.json](./86123-vertiball.json) |
@@ -1520,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victoria: Revolutions | 11035 | [11035-victoria-revolutions.json](./11035-victoria-revolutions.json) |
 | Victoria's Body | 158655 | [158655-victorias-body.json](./158655-victorias-body.json) |
 | Victoriam | 374917 | [374917-victoriam.json](./374917-victoriam.json) |
+| Victorian Admirals | 17039 | [17039-victorian-admirals.json](./17039-victorian-admirals.json) |
 | Victorian Admirals Anthology | 36399 | [36399-victorian-admirals-anthology.json](./36399-victorian-admirals-anthology.json) |
 | Victorian Admirals: Caroline Crisis 1885 | 58290 | [58290-victorian-admirals-caroline-crisis-1885.json](./58290-victorian-admirals-caroline-crisis-1885.json) |
 | Victorian Admirals: Marianas Incident 1887 | 58293 | [58293-victorian-admirals-marianas-incident-1887.json](./58293-victorian-admirals-marianas-incident-1887.json) |
