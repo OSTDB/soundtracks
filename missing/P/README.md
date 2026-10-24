@@ -2529,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patriotic Pinball | 43847 | [43847-patriotic-pinball.json](./43847-patriotic-pinball.json) |
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
 | Patriots by John Dondzila | 84155 | [84155-patriots-by-john-dondzila.json](./84155-patriots-by-john-dondzila.json) |
+| Patriots III Ballistic Busters | 37540 | [37540-patriots-iii-ballistic-busters.json](./37540-patriots-iii-ballistic-busters.json) |
 | Patriots Remix | 37704 | [37704-patriots-remix.json](./37704-patriots-remix.json) |
 | Patriots: A Nation Under Fire | 27588 | [27588-patriots-a-nation-under-fire.json](./27588-patriots-a-nation-under-fire.json) |
 | Patriots: Back to Civilization | 182369 | [182369-patriots-back-to-civilization.json](./182369-patriots-back-to-civilization.json) |
@@ -14432,6 +14433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Touch | 251500 | [251500-puyo-puyo-touch.json](./251500-puyo-puyo-touch.json) |
 | Puyo Puyo Trainer | 421232 | [421232-puyo-puyo-trainer.json](./421232-puyo-puyo-trainer.json) |
 | Puyo Puyo Tsuu | 222469 | [222469-puyo-puyo-tsuu.json](./222469-puyo-puyo-tsuu.json) |
+| Puyo Puyo Tsuu | 37560 | [37560-puyo-puyo-tsuu.json](./37560-puyo-puyo-tsuu.json) |
 | Puyo Puyo Tsuu | 45976 | [45976-puyo-puyo-tsuu.json](./45976-puyo-puyo-tsuu.json) |
 | Puyo Puyo Zurashi | 251502 | [251502-puyo-puyo-zurashi.json](./251502-puyo-puyo-zurashi.json) |
 | Puyo Puyo! The Medal Edition | 251496 | [251496-puyo-puyo-the-medal-edition.json](./251496-puyo-puyo-the-medal-edition.json) |
