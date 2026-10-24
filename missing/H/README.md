@@ -4533,6 +4533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hercules V: Platinum Edition | 255765 | [255765-hercules-v-platinum-edition.json](./255765-hercules-v-platinum-edition.json) |
 | Hercules: Slayer of the Damned! | 67193 | [67193-hercules-slayer-of-the-damned.json](./67193-hercules-slayer-of-the-damned.json) |
 | Hercules: The Legendary Journeys | 186028 | [186028-hercules-the-legendary-journeys.json](./186028-hercules-the-legendary-journeys.json) |
+| Hercules: The Legendary Journeys | 3511 | [3511-hercules-the-legendary-journeys.json](./3511-hercules-the-legendary-journeys.json) |
 | Hercules: The True Story | 57439 | [57439-hercules-the-true-story.json](./57439-hercules-the-true-story.json) |
 | Herd is Coming | 118300 | [118300-herd-is-coming.json](./118300-herd-is-coming.json) |
 | Herd!!! | 234004 | [234004-herd.json](./234004-herd.json) |
@@ -5489,6 +5490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats in Jigsaw Puzzle: Spooky Town | 312698 | [312698-hidden-cats-in-jigsaw-puzzle-spooky-town.json](./312698-hidden-cats-in-jigsaw-puzzle-spooky-town.json) |
 | Hidden Cats in London | 211681 | [211681-hidden-cats-in-london.json](./211681-hidden-cats-in-london.json) |
 | Hidden Cats in New York | 237236 | [237236-hidden-cats-in-new-york.json](./237236-hidden-cats-in-new-york.json) |
+| Hidden Cats in Paris | 195373 | [195373-hidden-cats-in-paris.json](./195373-hidden-cats-in-paris.json) |
 | Hidden Cats in Rio de Janeiro | 350069 | [350069-hidden-cats-in-rio-de-janeiro.json](./350069-hidden-cats-in-rio-de-janeiro.json) |
 | Hidden Cats in Rome | 264699 | [264699-hidden-cats-in-rome.json](./264699-hidden-cats-in-rome.json) |
 | Hidden Cats in Santa's Realm | 279125 | [279125-hidden-cats-in-santas-realm.json](./279125-hidden-cats-in-santas-realm.json) |
