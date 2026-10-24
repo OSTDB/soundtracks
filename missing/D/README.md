@@ -1483,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Room | 356630 | [356630-dark-room.json](./356630-dark-room.json) |
 | Dark Room | 405623 | [405623-dark-room.json](./405623-dark-room.json) |
 | Dark Rooms | 240346 | [240346-dark-rooms.json](./240346-dark-rooms.json) |
+| Dark Rose Valkyrie | 25746 | [25746-dark-rose-valkyrie.json](./25746-dark-rose-valkyrie.json) |
 | Dark Rose Valkyrie: Limited Edition | 167148 | [167148-dark-rose-valkyrie-limited-edition.json](./167148-dark-rose-valkyrie-limited-edition.json) |
 | Dark Rose Valkyrie: Limited Edition Famitsu DX Pack | 167147 | [167147-dark-rose-valkyrie-limited-edition-famitsu-dx-pack.json](./167147-dark-rose-valkyrie-limited-edition-famitsu-dx-pack.json) |
 | Dark Rune | 239755 | [239755-dark-rune.json](./239755-dark-rune.json) |
@@ -5125,6 +5126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Gaze Extra | 148525 | [148525-demon-gaze-extra.json](./148525-demon-gaze-extra.json) |
 | Demon Gaze Extra: Digital Deluxe Edition | 199816 | [199816-demon-gaze-extra-digital-deluxe-edition.json](./199816-demon-gaze-extra-digital-deluxe-edition.json) |
 | Demon Gaze Extra: Memorial Edition | 148520 | [148520-demon-gaze-extra-memorial-edition.json](./148520-demon-gaze-extra-memorial-edition.json) |
+| Demon Gaze II | 25586 | [25586-demon-gaze-ii.json](./25586-demon-gaze-ii.json) |
 | Demon Go! | 209653 | [209653-demon-go.json](./209653-demon-go.json) |
 | Demon God's Tower | 102869 | [102869-demon-gods-tower.json](./102869-demon-gods-tower.json) |
 | Demon Grade | 75159 | [75159-demon-grade.json](./75159-demon-grade.json) |
@@ -12286,6 +12288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Warrior Monsters | 24818 | [24818-dragon-warrior-monsters.json](./24818-dragon-warrior-monsters.json) |
 | Dragon Warrior Monsters 2: Cobi's Journey | 222275 | [222275-dragon-warrior-monsters-2-cobis-journey.json](./222275-dragon-warrior-monsters-2-cobis-journey.json) |
 | Dragon Warrior Monsters 2: Tara's Adventure | 222276 | [222276-dragon-warrior-monsters-2-taras-adventure.json](./222276-dragon-warrior-monsters-2-taras-adventure.json) |
+| Dragon Warrior Monsters 2: Tara's Adventure | 24820 | [24820-dragon-warrior-monsters-2-taras-adventure.json](./24820-dragon-warrior-monsters-2-taras-adventure.json) |
 | Dragon Warrior VII | 1818 | [1818-dragon-warrior-vii.json](./1818-dragon-warrior-vii.json) |
 | Dragon Wars | 11406 | [11406-dragon-wars.json](./11406-dragon-wars.json) |
 | Dragon World | 13608 | [13608-dragon-world.json](./13608-dragon-world.json) |
