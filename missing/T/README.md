@@ -2518,7 +2518,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tear Ring Saga Series: Berwick Saga: Lazberia Chronicle Chapter 174 | 80578 | [80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json](./80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json) |
 | Tear Ripple | 305305 | [305305-tear-ripple.json](./305305-tear-ripple.json) |
 | Tear Them All | 409861 | [409861-tear-them-all.json](./409861-tear-them-all.json) |
+| Tearaway | 6363 | [6363-tearaway.json](./6363-tearaway.json) |
 | Tearaway Thomas | 57577 | [57577-tearaway-thomas.json](./57577-tearaway-thomas.json) |
+| Teardown | 122666 | [122666-teardown.json](./122666-teardown.json) |
 | Teardown: Creative Mode | 252848 | [252848-teardown-creative-mode.json](./252848-teardown-creative-mode.json) |
 | Teardown: Deluxe Edition | 270589 | [270589-teardown-deluxe-edition.json](./270589-teardown-deluxe-edition.json) |
 | Teardown: Folkrace | 307673 | [307673-teardown-folkrace.json](./307673-teardown-folkrace.json) |
@@ -5161,6 +5163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beat, The Step, and the Cowboys | 59041 | [59041-the-beat-the-step-and-the-cowboys.json](./59041-the-beat-the-step-and-the-cowboys.json) |
 | The Beat: A Glam Noir Game | 108319 | [108319-the-beat-a-glam-noir-game.json](./108319-the-beat-a-glam-noir-game.json) |
 | The Beatles: Adventures in Pepperland | 198501 | [198501-the-beatles-adventures-in-pepperland.json](./198501-the-beatles-adventures-in-pepperland.json) |
+| The Beatles: Rock Band | 2693 | [2693-the-beatles-rock-band.json](./2693-the-beatles-rock-band.json) |
 | The Beautiful World | 384228 | [384228-the-beautiful-world.json](./384228-the-beautiful-world.json) |
 | The Beauty Cult's: Nectarmancer | 219547 | [219547-the-beauty-cults-nectarmancer.json](./219547-the-beauty-cults-nectarmancer.json) |
 | The Bed Was Cold | 179489 | [179489-the-bed-was-cold.json](./179489-the-bed-was-cold.json) |
@@ -9603,6 +9606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Cadet | 172966 | [172966-the-last-cadet.json](./172966-the-last-cadet.json) |
 | The Last Camp | 334177 | [334177-the-last-camp.json](./334177-the-last-camp.json) |
 | The Last Camp 1990 | 289997 | [289997-the-last-camp-1990.json](./289997-the-last-camp-1990.json) |
+| The Last Campfire | 113115 | [113115-the-last-campfire.json](./113115-the-last-campfire.json) |
 | The Last Caretaker | 333443 | [333443-the-last-caretaker.json](./333443-the-last-caretaker.json) |
 | The Last Case of John Morley | 366598 | [366598-the-last-case-of-john-morley.json](./366598-the-last-case-of-john-morley.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
@@ -10655,6 +10659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: The Fellowship of the Ring | 78501 | [78501-the-lord-of-the-rings-the-fellowship-of-the-ring.json](./78501-the-lord-of-the-rings-the-fellowship-of-the-ring.json) |
 | The Lord of the Rings: The Return of the King | 135708 | [135708-the-lord-of-the-rings-the-return-of-the-king.json](./135708-the-lord-of-the-rings-the-return-of-the-king.json) |
 | The Lord of the Rings: The Third Age | 127953 | [127953-the-lord-of-the-rings-the-third-age.json](./127953-the-lord-of-the-rings-the-third-age.json) |
+| The Lord of the Rings: The Third Age | 6500 | [6500-the-lord-of-the-rings-the-third-age.json](./6500-the-lord-of-the-rings-the-third-age.json) |
 | The Lord of the Rings: The Two Towers | 248460 | [248460-the-lord-of-the-rings-the-two-towers.json](./248460-the-lord-of-the-rings-the-two-towers.json) |
 | The Lord of the Rings: The Two Towers | 2965 | [2965-the-lord-of-the-rings-the-two-towers.json](./2965-the-lord-of-the-rings-the-two-towers.json) |
 | The Lord of the Rings: Total War | 356262 | [356262-the-lord-of-the-rings-total-war.json](./356262-the-lord-of-the-rings-total-war.json) |
@@ -13292,6 +13297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons: Itchy & Scratchy in Miniature Golf Madness | 2836 | [2836-the-simpsons-itchy-and-scratchy-in-miniature-golf-madness.json](./2836-the-simpsons-itchy-and-scratchy-in-miniature-golf-madness.json) |
 | The Simpsons: Itchy & Scratchy Land | 190876 | [190876-the-simpsons-itchy-and-scratchy-land.json](./190876-the-simpsons-itchy-and-scratchy-land.json) |
 | The Simpsons: Minutes to Meltdown | 256656 | [256656-the-simpsons-minutes-to-meltdown.json](./256656-the-simpsons-minutes-to-meltdown.json) |
+| The Simpsons: Road Rage | 2842 | [2842-the-simpsons-road-rage.json](./2842-the-simpsons-road-rage.json) |
 | The Simpsons: Tapped Out | 2845 | [2845-the-simpsons-tapped-out.json](./2845-the-simpsons-tapped-out.json) |
 | The Simpsons: Virtual Springfield | 2839 | [2839-the-simpsons-virtual-springfield.json](./2839-the-simpsons-virtual-springfield.json) |
 | The Simpsons.exe | 388397 | [388397-the-simpsons-exe.json](./388397-the-simpsons-exe.json) |
@@ -13907,6 +13913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sugar Killerz | 94058 | [94058-the-sugar-killerz.json](./94058-the-sugar-killerz.json) |
 | The Suicide Forest | 133428 | [133428-the-suicide-forest.json](./133428-the-suicide-forest.json) |
 | The Suicide Game | 179075 | [179075-the-suicide-game.json](./179075-the-suicide-game.json) |
+| The Suicide of Rachel Foster | 121947 | [121947-the-suicide-of-rachel-foster.json](./121947-the-suicide-of-rachel-foster.json) |
 | The Suitcase | 196559 | [196559-the-suitcase.json](./196559-the-suitcase.json) |
 | The Suite Life of Zack & Cody: Circle of Spies | 47775 | [47775-the-suite-life-of-zack-and-cody-circle-of-spies.json](./47775-the-suite-life-of-zack-and-cody-circle-of-spies.json) |
 | The Suite Life of Zack & Cody: Maddie's Snack Encounter | 281326 | [281326-the-suite-life-of-zack-and-cody-maddies-snack-encounter.json](./281326-the-suite-life-of-zack-and-cody-maddies-snack-encounter.json) |
@@ -15805,6 +15812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Is No Fangame | 406811 | [406811-there-is-no-fangame.json](./406811-there-is-no-fangame.json) |
 | There Is No Game | 28336 | [28336-there-is-no-game.json](./28336-there-is-no-game.json) |
 | There Is No Game: Jam Edition 2015 | 132522 | [132522-there-is-no-game-jam-edition-2015.json](./132522-there-is-no-game-jam-edition-2015.json) |
+| There Is No Game: Wrong Dimension | 132907 | [132907-there-is-no-game-wrong-dimension.json](./132907-there-is-no-game-wrong-dimension.json) |
 | There is No GreenDam | 126532 | [126532-there-is-no-greendam.json](./126532-there-is-no-greendam.json) |
 | There Is No Light | 138213 | [138213-there-is-no-light.json](./138213-there-is-no-light.json) |
 | There Is No Light 616 | 180203 | [180203-there-is-no-light-616.json](./180203-there-is-no-light-616.json) |
