@@ -2320,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Man A.T.O.M.: Alpha Teens on Machines | 83248 | [83248-action-man-a-t-o-m-alpha-teens-on-machines.json](./83248-action-man-a-t-o-m-alpha-teens-on-machines.json) |
 | Action Man: Destruction X | 44848 | [44848-action-man-destruction-x.json](./44848-action-man-destruction-x.json) |
 | Action Man: Jungle Storm | 70235 | [70235-action-man-jungle-storm.json](./70235-action-man-jungle-storm.json) |
+| Action Man: Operation Extreme | 28090 | [28090-action-man-operation-extreme.json](./28090-action-man-operation-extreme.json) |
 | Action Man: Raid on Island X | 72539 | [72539-action-man-raid-on-island-x.json](./72539-action-man-raid-on-island-x.json) |
 | Action Man: Search For Base X | 49868 | [49868-action-man-search-for-base-x.json](./49868-action-man-search-for-base-x.json) |
 | Action Mania | 255866 | [255866-action-mania.json](./255866-action-mania.json) |
@@ -2969,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -12346,6 +12348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Odyssey - Gold Steelbook Edition | 18412 | [18412-assassins-creed-odyssey-gold-steelbook-edition.json](./18412-assassins-creed-odyssey-gold-steelbook-edition.json) |
 | Assassin's Creed: Odyssey - Medusa Edition | 109423 | [109423-assassins-creed-odyssey-medusa-edition.json](./109423-assassins-creed-odyssey-medusa-edition.json) |
 | Assassin's Creed: Odyssey - Spartan Edition | 125126 | [125126-assassins-creed-odyssey-spartan-edition.json](./125126-assassins-creed-odyssey-spartan-edition.json) |
+| Assassin's Creed: Odyssey - Ultimate Edition | 27567 | [27567-assassins-creed-odyssey-ultimate-edition.json](./27567-assassins-creed-odyssey-ultimate-edition.json) |
 | Assassin's Creed: Origins - Deluxe Edition | 39034 | [39034-assassins-creed-origins-deluxe-edition.json](./39034-assassins-creed-origins-deluxe-edition.json) |
 | Assassin's Creed: Origins - God's Edition | 39045 | [39045-assassins-creed-origins-gods-edition.json](./39045-assassins-creed-origins-gods-edition.json) |
 | Assassin's Creed: Project Legacy | 64737 | [64737-assassins-creed-project-legacy.json](./64737-assassins-creed-project-legacy.json) |
