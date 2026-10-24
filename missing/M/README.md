@@ -4167,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Ives | 284879 | [284879-master-of-ives.json](./284879-master-of-ives.json) |
 | Master of Luna | 249867 | [249867-master-of-luna.json](./249867-master-of-luna.json) |
 | Master of Magic | 147189 | [147189-master-of-magic.json](./147189-master-of-magic.json) |
+| Master of Magic | 6466 | [6466-master-of-magic.json](./6466-master-of-magic.json) |
 | Master of Magic | 7548 | [7548-master-of-magic.json](./7548-master-of-magic.json) |
 | Master of Magic: Rise of the Soultrapped | 256261 | [256261-master-of-magic-rise-of-the-soultrapped.json](./256261-master-of-magic-rise-of-the-soultrapped.json) |
 | Master of Magic: Scourge of the Seas | 280347 | [280347-master-of-magic-scourge-of-the-seas.json](./280347-master-of-magic-scourge-of-the-seas.json) |
