@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Martina-Bloody Day 228 | 124222 | [124222-vampire-martina-bloody-day-228.json](./124222-vampire-martina-bloody-day-228.json) |
 | Vampire Master | 341047 | [341047-vampire-master.json](./341047-vampire-master.json) |
 | Vampire Memories | 247954 | [247954-vampire-memories.json](./247954-vampire-memories.json) |
+| Vampire Moon: The Mystery of the Hidden Sun | 23663 | [23663-vampire-moon-the-mystery-of-the-hidden-sun.json](./23663-vampire-moon-the-mystery-of-the-hidden-sun.json) |
 | Vampire Night | 13902 | [13902-vampire-night.json](./13902-vampire-night.json) |
 | Vampire Night Shift | 138187 | [138187-vampire-night-shift.json](./138187-vampire-night-shift.json) |
 | Vampire Nights | 184756 | [184756-vampire-nights.json](./184756-vampire-nights.json) |
@@ -3172,6 +3173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Journey | 31345 | [31345-vr-journey.json](./31345-vr-journey.json) |
 | VR Jurassic island roller coaster | 208645 | [208645-vr-jurassic-island-roller-coaster.json](./208645-vr-jurassic-island-roller-coaster.json) |
 | VR Kart 360 | 309681 | [309681-vr-kart-360.json](./309681-vr-kart-360.json) |
+| VR Karts | 35536 | [35536-vr-karts.json](./35536-vr-karts.json) |
 | VR Kayaking Game | 186255 | [186255-vr-kayaking-game.json](./186255-vr-kayaking-game.json) |
 | VR King Arthur's Sword in Romano Britania | 164422 | [164422-vr-king-arthurs-sword-in-romano-britania.json](./164422-vr-king-arthurs-sword-in-romano-britania.json) |
 | VR King of Battle Cards | 155674 | [155674-vr-king-of-battle-cards.json](./155674-vr-king-of-battle-cards.json) |
