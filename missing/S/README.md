@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Jack: Code of the Samurai | 327029 | [327029-samurai-jack-code-of-the-samurai.json](./327029-samurai-jack-code-of-the-samurai.json) |
 | Samurai Jack: Desert Quest | 338746 | [338746-samurai-jack-desert-quest.json](./338746-samurai-jack-desert-quest.json) |
 | Samurai Jack: The Amulet of Time | 2822 | [2822-samurai-jack-the-amulet-of-time.json](./2822-samurai-jack-the-amulet-of-time.json) |
+| Samurai Jack: The Shadow of Aku | 2823 | [2823-samurai-jack-the-shadow-of-aku.json](./2823-samurai-jack-the-shadow-of-aku.json) |
 | Samurai Jack: Way of the Warrior | 338747 | [338747-samurai-jack-way-of-the-warrior.json](./338747-samurai-jack-way-of-the-warrior.json) |
 | Samurai Journey | 165648 | [165648-samurai-journey.json](./165648-samurai-journey.json) |
 | Samurai Katana Rampage: Stickman Saga | 304272 | [304272-samurai-katana-rampage-stickman-saga.json](./304272-samurai-katana-rampage-stickman-saga.json) |
@@ -7445,6 +7446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooty and the Catfish: Episode 1 | 181838 | [181838-shooty-and-the-catfish-episode-1.json](./181838-shooty-and-the-catfish-episode-1.json) |
 | Shooty and the Catfish: Episode 2 | 181936 | [181936-shooty-and-the-catfish-episode-2.json](./181936-shooty-and-the-catfish-episode-2.json) |
 | Shooty Ballz | 184656 | [184656-shooty-ballz.json](./184656-shooty-ballz.json) |
+| Shooty Fruity | 54700 | [54700-shooty-fruity.json](./54700-shooty-fruity.json) |
 | Shooty Mine | 129043 | [129043-shooty-mine.json](./129043-shooty-mine.json) |
 | Shooty Shooty Robot Invasion | 349889 | [349889-shooty-shooty-robot-invasion.json](./349889-shooty-shooty-robot-invasion.json) |
 | Shooty Skies | 59547 | [59547-shooty-skies.json](./59547-shooty-skies.json) |
@@ -9284,6 +9286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinking Island | 36163 | [36163-sinking-island.json](./36163-sinking-island.json) |
 | Sinking Ships | 176455 | [176455-sinking-ships.json](./176455-sinking-ships.json) |
 | Sinking the Boats | 346402 | [346402-sinking-the-boats.json](./346402-sinking-the-boats.json) |
+| Sinkr | 55451 | [55451-sinkr.json](./55451-sinkr.json) |
 | Sinkr 2 | 111667 | [111667-sinkr-2.json](./111667-sinkr-2.json) |
 | Sinkr 3 | 169430 | [169430-sinkr-3.json](./169430-sinkr-3.json) |
 | SinkSub | 61013 | [61013-sinksub.json](./61013-sinksub.json) |
@@ -11623,6 +11626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashy Dash 2 | 100996 | [100996-smashy-dash-2.json](./100996-smashy-dash-2.json) |
 | Smashy Drift | 100784 | [100784-smashy-drift.json](./100784-smashy-drift.json) |
 | Smashy Road: Race | 187887 | [187887-smashy-road-race.json](./187887-smashy-road-race.json) |
+| Smashy Road: Wanted | 58364 | [58364-smashy-road-wanted.json](./58364-smashy-road-wanted.json) |
 | Smashy Road: Wanted 2 | 144196 | [144196-smashy-road-wanted-2.json](./144196-smashy-road-wanted-2.json) |
 | Smaze | 306775 | [306775-smaze.json](./306775-smaze.json) |
 | SMB RMX Land | 265877 | [265877-smb-rmx-land.json](./265877-smb-rmx-land.json) |
@@ -12361,6 +12365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoopy & The Great Mystery Club | 360904 | [360904-snoopy-and-the-great-mystery-club.json](./360904-snoopy-and-the-great-mystery-club.json) |
 | Snoopy & The Great Mystery Club: Deluxe Edition | 368775 | [368775-snoopy-and-the-great-mystery-club-deluxe-edition.json](./368775-snoopy-and-the-great-mystery-club-deluxe-edition.json) |
 | Snoopy & The Great Mystery Club: Joe Cool Fun Pack | 368784 | [368784-snoopy-and-the-great-mystery-club-joe-cool-fun-pack.json](./368784-snoopy-and-the-great-mystery-club-joe-cool-fun-pack.json) |
+| Snoopy and the Red Baron | 2757 | [2757-snoopy-and-the-red-baron.json](./2757-snoopy-and-the-red-baron.json) |
 | Snoopy Concert | 42383 | [42383-snoopy-concert.json](./42383-snoopy-concert.json) |
 | Snoopy DS: Let's Go Meet Snoopy and His Friends! | 302711 | [302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json](./302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json) |
 | Snoopy Flying Ace | 21887 | [21887-snoopy-flying-ace.json](./21887-snoopy-flying-ace.json) |
@@ -14606,6 +14611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SonKnuck Adventure 3 | 326805 | [326805-sonknuck-adventure-3.json](./326805-sonknuck-adventure-3.json) |
 | SonKnuck RPG | 330337 | [330337-sonknuck-rpg.json](./330337-sonknuck-rpg.json) |
 | Sonnet | 402478 | [402478-sonnet.json](./402478-sonnet.json) |
+| Sonny | 56972 | [56972-sonny.json](./56972-sonny.json) |
 | Sonny 2 | 56971 | [56971-sonny-2.json](./56971-sonny-2.json) |
 | Sonny Legacy Collection | 299891 | [299891-sonny-legacy-collection.json](./299891-sonny-legacy-collection.json) |
 | Sonny with a Chance | 66903 | [66903-sonny-with-a-chance.json](./66903-sonny-with-a-chance.json) |
@@ -24687,6 +24693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Beast Hunt | 229090 | [229090-super-beast-hunt.json](./229090-super-beast-hunt.json) |
 | Super Beasts: Gang up! | 260708 | [260708-super-beasts-gang-up.json](./260708-super-beasts-gang-up.json) |
 | Super Beat 'em up World | 415317 | [415317-super-beat-em-up-world.json](./415317-super-beat-em-up-world.json) |
+| Super Beat Sports | 55174 | [55174-super-beat-sports.json](./55174-super-beat-sports.json) |
 | Super Beco World | 267888 | [267888-super-beco-world.json](./267888-super-beco-world.json) |
 | Super Beco World 2 | 267890 | [267890-super-beco-world-2.json](./267890-super-beco-world-2.json) |
 | Super Beco World 3 | 267892 | [267892-super-beco-world-3.json](./267892-super-beco-world-3.json) |
