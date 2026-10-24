@@ -1700,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratatouille | 210731 | [210731-ratatouille.json](./210731-ratatouille.json) |
 | Ratatouille | 281842 | [281842-ratatouille.json](./281842-ratatouille.json) |
 | Ratatouille | 281843 | [281843-ratatouille.json](./281843-ratatouille.json) |
+| Ratatouille | 4081 | [4081-ratatouille.json](./4081-ratatouille.json) |
 | Ratatouille | 78482 | [78482-ratatouille.json](./78482-ratatouille.json) |
 | Ratatouille: Food Frenzy | 18296 | [18296-ratatouille-food-frenzy.json](./18296-ratatouille-food-frenzy.json) |
 | Ratatouille: Remy's New Recipes | 70688 | [70688-ratatouille-remys-new-recipes.json](./70688-ratatouille-remys-new-recipes.json) |
@@ -4098,6 +4099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renegade Grounds: Episode 2 | 127579 | [127579-renegade-grounds-episode-2.json](./127579-renegade-grounds-episode-2.json) |
 | Renegade Legion: Interceptor | 73333 | [73333-renegade-legion-interceptor.json](./73333-renegade-legion-interceptor.json) |
 | Renegade Line | 58091 | [58091-renegade-line.json](./58091-renegade-line.json) |
+| Renegade Ops | 2139 | [2139-renegade-ops.json](./2139-renegade-ops.json) |
 | Renegade Ops: Coldstrike Campaign | 140394 | [140394-renegade-ops-coldstrike-campaign.json](./140394-renegade-ops-coldstrike-campaign.json) |
 | Renegade Ops: Reinforcement Pack | 140393 | [140393-renegade-ops-reinforcement-pack.json](./140393-renegade-ops-reinforcement-pack.json) |
 | Renegade Racing | 257872 | [257872-renegade-racing.json](./257872-renegade-racing.json) |
@@ -4455,6 +4457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 4: Treasure Map - Expansion | 266389 | [266389-resident-evil-4-treasure-map-expansion.json](./266389-resident-evil-4-treasure-map-expansion.json) |
 | Resident Evil 4: Ultimate HD Edition | 24223 | [24223-resident-evil-4-ultimate-hd-edition.json](./24223-resident-evil-4-ultimate-hd-edition.json) |
 | Resident Evil 4: VR Mode | 250644 | [250644-resident-evil-4-vr-mode.json](./250644-resident-evil-4-vr-mode.json) |
+| Resident Evil 4: Wii Edition | 21533 | [21533-resident-evil-4-wii-edition.json](./21533-resident-evil-4-wii-edition.json) |
 | Resident Evil 4: Zeebo Edition | 227780 | [227780-resident-evil-4-zeebo-edition.json](./227780-resident-evil-4-zeebo-edition.json) |
 | Resident Evil 5 Remastered | 23215 | [23215-resident-evil-5-remastered.json](./23215-resident-evil-5-remastered.json) |
 | Resident Evil 5: Collector's Edition | 41593 | [41593-resident-evil-5-collectors-edition.json](./41593-resident-evil-5-collectors-edition.json) |
@@ -7132,6 +7135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop: Rogue City - Unfinished Business - Prime Directives Pack | 383132 | [383132-robocop-rogue-city-unfinished-business-prime-directives-pack.json](./383132-robocop-rogue-city-unfinished-business-prime-directives-pack.json) |
 | RoboCop: Rogue City - Vanguard Pack | 275074 | [275074-robocop-rogue-city-vanguard-pack.json](./275074-robocop-rogue-city-vanguard-pack.json) |
 | RoboCorps | 58794 | [58794-robocorps.json](./58794-robocorps.json) |
+| Robocraft | 7871 | [7871-robocraft.json](./7871-robocraft.json) |
 | Robocraft 2 | 217298 | [217298-robocraft-2.json](./217298-robocraft-2.json) |
 | Robocraft Royale | 89976 | [89976-robocraft-royale.json](./89976-robocraft-royale.json) |
 | RoboCritters | 38749 | [38749-robocritters.json](./38749-robocritters.json) |
