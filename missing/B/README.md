@@ -4923,6 +4923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Light: The Extraordinary Life of Luca Comerio | 387134 | [387134-behind-the-light-the-extraordinary-life-of-luca-comerio.json](./387134-behind-the-light-the-extraordinary-life-of-luca-comerio.json) |
 | Behind the Masc | 176930 | [176930-behind-the-masc.json](./176930-behind-the-masc.json) |
 | Behind The Mask Bundle | 308578 | [308578-behind-the-mask-bundle.json](./308578-behind-the-mask-bundle.json) |
+| Behind the Memory | 29998 | [29998-behind-the-memory.json](./29998-behind-the-memory.json) |
 | Behind the Red Dais | 252036 | [252036-behind-the-red-dais.json](./252036-behind-the-red-dais.json) |
 | Behind the Reflection | 52446 | [52446-behind-the-reflection.json](./52446-behind-the-reflection.json) |
 | Behind the Reflection 2: Witch's Revenge | 52445 | [52445-behind-the-reflection-2-witchs-revenge.json](./52445-behind-the-reflection-2-witchs-revenge.json) |
@@ -9255,6 +9256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Walls: The Darkness | 166221 | [166221-bloody-walls-the-darkness.json](./166221-bloody-walls-the-darkness.json) |
 | Bloody Warriors: Shan-Go Troop Strikes Back! | 48541 | [48541-bloody-warriors-shan-go-troop-strikes-back.json](./48541-bloody-warriors-shan-go-troop-strikes-back.json) |
 | Bloody Zombies | 100185 | [100185-bloody-zombies.json](./100185-bloody-zombies.json) |
+| Bloody Zombies | 28522 | [28522-bloody-zombies.json](./28522-bloody-zombies.json) |
 | BloodyXmas 2010 | 257789 | [257789-bloodyxmas-2010.json](./257789-bloodyxmas-2010.json) |
 | Bloodz | 217211 | [217211-bloodz.json](./217211-bloodz.json) |
 | Bloom | 110476 | [110476-bloom.json](./110476-bloom.json) |
@@ -10547,6 +10549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogey Hunters | 333429 | [333429-boogey-hunters.json](./333429-boogey-hunters.json) |
 | Boogey's Wicked Game | 340042 | [340042-boogeys-wicked-game.json](./340042-boogeys-wicked-game.json) |
 | Boogeyman | 19015 | [19015-boogeyman.json](./19015-boogeyman.json) |
+| Boogeyman 2 | 30133 | [30133-boogeyman-2.json](./30133-boogeyman-2.json) |
 | Boogeyman 3 | 270159 | [270159-boogeyman-3.json](./270159-boogeyman-3.json) |
 | Boogie | 210265 | [210265-boogie.json](./210265-boogie.json) |
 | Boogie | 4725 | [4725-boogie.json](./4725-boogie.json) |
@@ -14070,6 +14073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullseye | 74169 | [74169-bullseye.json](./74169-bullseye.json) |
 | Bullseye! | 323852 | [323852-bullseye.json](./323852-bullseye.json) |
 | Bullship! | 375297 | [375297-bullship.json](./375297-bullship.json) |
+| Bullshot | 26221 | [26221-bullshot.json](./26221-bullshot.json) |
 | BullTales | 393568 | [393568-bulltales.json](./393568-bulltales.json) |
 | Bullwagon Business | 278554 | [278554-bullwagon-business.json](./278554-bullwagon-business.json) |
 | Bully Ball Brigade | 347727 | [347727-bully-ball-brigade.json](./347727-bully-ball-brigade.json) |
