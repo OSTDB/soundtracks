@@ -1181,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hannah Montana: Pop Star Exclusive | 79855 | [79855-hannah-montana-pop-star-exclusive.json](./79855-hannah-montana-pop-star-exclusive.json) |
 | Hannah Montana: Pop Tour | 221686 | [221686-hannah-montana-pop-tour.json](./221686-hannah-montana-pop-tour.json) |
 | Hannah Montana: Rock out the Show | 44487 | [44487-hannah-montana-rock-out-the-show.json](./44487-hannah-montana-rock-out-the-show.json) |
+| Hannah Montana: Spotlight World Tour | 50611 | [50611-hannah-montana-spotlight-world-tour.json](./50611-hannah-montana-spotlight-world-tour.json) |
 | Hannibal | 405536 | [405536-hannibal.json](./405536-hannibal.json) |
 | Hannibal: Rome and Carthage in the Second Punic War | 129583 | [129583-hannibal-rome-and-carthage-in-the-second-punic-war.json](./129583-hannibal-rome-and-carthage-in-the-second-punic-war.json) |
 | Hanno | 289870 | [289870-hanno.json](./289870-hanno.json) |
@@ -1691,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmonies | 314626 | [314626-harmonies.json](./314626-harmonies.json) |
 | Harmonis: The Hand-Made Kingdoms | 287073 | [287073-harmonis-the-hand-made-kingdoms.json](./287073-harmonis-the-hand-made-kingdoms.json) |
 | Harmonium: The Musical | 279616 | [279616-harmonium-the-musical.json](./279616-harmonium-the-musical.json) |
+| Harmonix Music VR | 24783 | [24783-harmonix-music-vr.json](./24783-harmonix-music-vr.json) |
 | Harmony | 131412 | [131412-harmony.json](./131412-harmony.json) |
 | Harmony | 212661 | [212661-harmony.json](./212661-harmony.json) |
 | Harmony | 260660 | [260660-harmony.json](./260660-harmony.json) |
@@ -3719,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellscaper | 394647 | [394647-hellscaper.json](./394647-hellscaper.json) |
 | Hellseed | 127607 | [127607-hellseed.json](./127607-hellseed.json) |
 | Hellshots Golf | 113593 | [113593-hellshots-golf.json](./113593-hellshots-golf.json) |
+| HellSign | 24989 | [24989-hellsign.json](./24989-hellsign.json) |
 | HellSinker | 50441 | [50441-hellsinker.json](./50441-hellsinker.json) |
 | Hellsino | 405554 | [405554-hellsino.json](./405554-hellsino.json) |
 | HellSlave II: Judgment of the Archon | 345575 | [345575-hellslave-ii-judgment-of-the-archon.json](./345575-hellslave-ii-judgment-of-the-archon.json) |
