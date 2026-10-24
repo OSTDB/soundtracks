@@ -1261,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamers Choice | 86083 | [86083-gamers-choice.json](./86083-gamers-choice.json) |
 | Gamers Pack | 72043 | [72043-gamers-pack.json](./72043-gamers-pack.json) |
 | Gamers Unknown Survival | 54484 | [54484-gamers-unknown-survival.json](./54484-gamers-unknown-survival.json) |
+| GamersGoMakers | 13176 | [13176-gamersgomakers.json](./13176-gamersgomakers.json) |
 | GamerZ CastlE Rush! | 174026 | [174026-gamerz-castle-rush.json](./174026-gamerz-castle-rush.json) |
 | Games 1 | 319581 | [319581-games-1.json](./319581-games-1.json) |
 | Games 4 | 152112 | [152112-games-4.json](./152112-games-4.json) |
