@@ -4149,6 +4149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Boxers | 110997 | [110997-beat-boxers.json](./110997-beat-boxers.json) |
 | Beat Boxing | 120129 | [120129-beat-boxing.json](./120129-beat-boxing.json) |
 | Beat Boy | 148803 | [148803-beat-boy.json](./148803-beat-boy.json) |
+| Beat Breaker | 27401 | [27401-beat-breaker.json](./27401-beat-breaker.json) |
 | Beat Bricks | 243605 | [243605-beat-bricks.json](./243605-beat-bricks.json) |
 | Beat Bros | 52633 | [52633-beat-bros.json](./52633-beat-bros.json) |
 | Beat Bulwark | 351179 | [351179-beat-bulwark.json](./351179-beat-bulwark.json) |
@@ -6321,6 +6322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy the Cleaner | 178861 | [178861-billy-the-cleaner.json](./178861-billy-the-cleaner.json) |
 | Billy the Hero | 411755 | [411755-billy-the-hero.json](./411755-billy-the-hero.json) |
 | Billy the Kid | 355142 | [355142-billy-the-kid.json](./355142-billy-the-kid.json) |
+| Billy the Kid Returns! | 27312 | [27312-billy-the-kid-returns.json](./27312-billy-the-kid-returns.json) |
 | Billy the Wizard: Rocket Broomstick Racing | 4717 | [4717-billy-the-wizard-rocket-broomstick-racing.json](./4717-billy-the-wizard-rocket-broomstick-racing.json) |
 | Billy's Boot Camp: Wii de Enjoy Diet! | 136884 | [136884-billys-boot-camp-wii-de-enjoy-diet.json](./136884-billys-boot-camp-wii-de-enjoy-diet.json) |
 | Billy's Bootcamp | 92601 | [92601-billys-bootcamp.json](./92601-billys-bootcamp.json) |
@@ -6375,6 +6377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binaural Odyssey | 153365 | [153365-binaural-odyssey.json](./153365-binaural-odyssey.json) |
 | Bincho-tan: Shiawase-goyomi | 194932 | [194932-bincho-tan-shiawase-goyomi.json](./194932-bincho-tan-shiawase-goyomi.json) |
 | Bind Her | 128870 | [128870-bind-her.json](./128870-bind-her.json) |
+| Bind More | 27368 | [27368-bind-more.json](./27368-bind-more.json) |
 | Bind: Brain teaser puzzle game | 88292 | [88292-bind-brain-teaser-puzzle-game.json](./88292-bind-brain-teaser-puzzle-game.json) |
 | Binding of Elements | 249227 | [249227-binding-of-elements.json](./249227-binding-of-elements.json) |
 | Binding of Isaac Bundle | 341547 | [341547-binding-of-isaac-bundle.json](./341547-binding-of-isaac-bundle.json) |
@@ -9216,6 +9219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blowback | 184611 | [184611-blowback.json](./184611-blowback.json) |
 | Blower | 180664 | [180664-blower.json](./180664-blower.json) |
 | Blowfly: DungHole Wanderer | 202745 | [202745-blowfly-dunghole-wanderer.json](./202745-blowfly-dunghole-wanderer.json) |
+| Blowhards | 27342 | [27342-blowhards.json](./27342-blowhards.json) |
 | Blown Away | 175638 | [175638-blown-away.json](./175638-blown-away.json) |
 | Blown Away | 187703 | [187703-blown-away.json](./187703-blown-away.json) |
 | Blowout & Cosmic Alphabet | 14325 | [14325-blowout-and-cosmic-alphabet.json](./14325-blowout-and-cosmic-alphabet.json) |
@@ -10069,6 +10073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BomberFun | 92978 | [92978-bomberfun.json](./92978-bomberfun.json) |
 | BomberGast | 179383 | [179383-bombergast.json](./179383-bombergast.json) |
 | Bombergeddon | 129745 | [129745-bombergeddon.json](./129745-bombergeddon.json) |
+| Bombergirl | 27285 | [27285-bombergirl.json](./27285-bombergirl.json) |
 | BomberHit | 303066 | [303066-bomberhit.json](./303066-bomberhit.json) |
 | Bomberic 2 | 91561 | [91561-bomberic-2.json](./91561-bomberic-2.json) |
 | Bomberland | 179150 | [179150-bomberland.json](./179150-bomberland.json) |
