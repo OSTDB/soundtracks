@@ -2262,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal World | 250449 | [250449-unreal-world.json](./250449-unreal-world.json) |
 | UnReal World | 18283 | [18283-unreal-world.json](./18283-unreal-world.json) |
 | Unreal Zombies | 346552 | [346552-unreal-zombies.json](./346552-unreal-zombies.json) |
+| Unreal: Return to Na Pali | 24419 | [24419-unreal-return-to-na-pali.json](./24419-unreal-return-to-na-pali.json) |
 | UnrealGundy | 231800 | [231800-unrealgundy.json](./231800-unrealgundy.json) |
 | Unreally Survivors | 330786 | [330786-unreally-survivors.json](./330786-unreally-survivors.json) |
 | UnReaMod | 265333 | [265333-unreamod.json](./265333-unreamod.json) |
