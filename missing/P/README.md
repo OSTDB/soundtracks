@@ -4095,6 +4095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA European Tour | 12713 | [12713-pga-european-tour.json](./12713-pga-european-tour.json) |
 | PGA European Tour | 209984 | [209984-pga-european-tour.json](./209984-pga-european-tour.json) |
 | PGA European Tour Golf | 209983 | [209983-pga-european-tour-golf.json](./209983-pga-european-tour-golf.json) |
+| PGA Tour '98 | 43734 | [43734-pga-tour-98.json](./43734-pga-tour-98.json) |
 | PGA Tour 2K21 | 133939 | [133939-pga-tour-2k21.json](./133939-pga-tour-2k21.json) |
 | PGA Tour 2K21: Baller Edition | 176792 | [176792-pga-tour-2k21-baller-edition.json](./176792-pga-tour-2k21-baller-edition.json) |
 | PGA Tour 2K21: Deluxe Edition | 136291 | [136291-pga-tour-2k21-deluxe-edition.json](./136291-pga-tour-2k21-deluxe-edition.json) |
@@ -5658,6 +5659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Paladins | 364703 | [364703-pinball-paladins.json](./364703-pinball-paladins.json) |
 | Pinball Parlor | 31684 | [31684-pinball-parlor.json](./31684-pinball-parlor.json) |
 | Pinball Planet | 68920 | [68920-pinball-planet.json](./68920-pinball-planet.json) |
+| Pinball Power | 43740 | [43740-pinball-power.json](./43740-pinball-power.json) |
 | Pinball Prelude | 15564 | [15564-pinball-prelude.json](./15564-pinball-prelude.json) |
 | Pinball Pulse: The Ancients Beckon | 67355 | [67355-pinball-pulse-the-ancients-beckon.json](./67355-pinball-pulse-the-ancients-beckon.json) |
 | Pinball Quest | 48026 | [48026-pinball-quest.json](./48026-pinball-quest.json) |
@@ -10806,6 +10808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers Time Force | 3293 | [3293-power-rangers-time-force.json](./3293-power-rangers-time-force.json) |
 | Power Rangers Time Force and Power Rangers Ninja Storm | 136206 | [136206-power-rangers-time-force-and-power-rangers-ninja-storm.json](./136206-power-rangers-time-force-and-power-rangers-ninja-storm.json) |
 | Power Rangers vs Teenage Mutant Ninja Turtles: Ultimate Hero Clash 2 | 56846 | [56846-power-rangers-vs-teenage-mutant-ninja-turtles-ultimate-hero-clash-2.json](./56846-power-rangers-vs-teenage-mutant-ninja-turtles-ultimate-hero-clash-2.json) |
+| Power Rangers Zeo - Full Tilt Battle Pinball | 43733 | [43733-power-rangers-zeo-full-tilt-battle-pinball.json](./43733-power-rangers-zeo-full-tilt-battle-pinball.json) |
 | Power Rangers Zeo: Battle Racers | 3295 | [3295-power-rangers-zeo-battle-racers.json](./3295-power-rangers-zeo-battle-racers.json) |
 | Power Rangers: Battle for the Grid | 114032 | [114032-power-rangers-battle-for-the-grid.json](./114032-power-rangers-battle-for-the-grid.json) |
 | Power Rangers: Battle for the Grid - Adam Park | 326725 | [326725-power-rangers-battle-for-the-grid-adam-park.json](./326725-power-rangers-battle-for-the-grid-adam-park.json) |
@@ -11140,6 +11143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Manager 04/05 | 171941 | [171941-premier-manager-04-05.json](./171941-premier-manager-04-05.json) |
 | Premier Manager 08 | 174003 | [174003-premier-manager-08.json](./174003-premier-manager-08.json) |
 | Premier Manager 2 | 73617 | [73617-premier-manager-2.json](./73617-premier-manager-2.json) |
+| Premier Manager 2000 | 43725 | [43725-premier-manager-2000.json](./43725-premier-manager-2000.json) |
 | Premier Manager 2002-03 | 95428 | [95428-premier-manager-2002-03.json](./95428-premier-manager-2002-03.json) |
 | Premier Manager 2004-2005 | 248630 | [248630-premier-manager-2004-2005.json](./248630-premier-manager-2004-2005.json) |
 | Premier Manager 2004-2005 | 49355 | [49355-premier-manager-2004-2005.json](./49355-premier-manager-2004-2005.json) |
