@@ -1378,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangstar: Crime City | 264076 | [264076-gangstar-crime-city.json](./264076-gangstar-crime-city.json) |
 | Gangstar: Miami Vindication | 152331 | [152331-gangstar-miami-vindication.json](./152331-gangstar-miami-vindication.json) |
 | Gangstar: Miami Vindication 2D | 260873 | [260873-gangstar-miami-vindication-2d.json](./260873-gangstar-miami-vindication-2d.json) |
+| Gangstar: West Coast Hustle | 23263 | [23263-gangstar-west-coast-hustle.json](./23263-gangstar-west-coast-hustle.json) |
 | Gangster | 13855 | [13855-gangster.json](./13855-gangster.json) |
 | Gangster Alley | 18555 | [18555-gangster-alley.json](./18555-gangster-alley.json) |
 | Gangster Bros | 282577 | [282577-gangster-bros.json](./282577-gangster-bros.json) |
@@ -1822,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gatewalkers | 121384 | [121384-gatewalkers.json](./121384-gatewalkers.json) |
 | Gateway | 248204 | [248204-gateway.json](./248204-gateway.json) |
 | Gateway II: Homeworld | 51391 | [51391-gateway-ii-homeworld.json](./51391-gateway-ii-homeworld.json) |
+| Gateway to Apshai | 23311 | [23311-gateway-to-apshai.json](./23311-gateway-to-apshai.json) |
 | Gateway to English: Eigo de Go! | 245313 | [245313-gateway-to-english-eigo-de-go.json](./245313-gateway-to-english-eigo-de-go.json) |
 | Gateway to Hell | 252038 | [252038-gateway-to-hell.json](./252038-gateway-to-hell.json) |
 | Gateway to Karos | 13720 | [13720-gateway-to-karos.json](./13720-gateway-to-karos.json) |
@@ -2587,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geocells Tricells | 107869 | [107869-geocells-tricells.json](./107869-geocells-tricells.json) |
 | GeoChampion | 233627 | [233627-geochampion.json](./233627-geochampion.json) |
 | Geocraft | 388241 | [388241-geocraft.json](./388241-geocraft.json) |
+| geoDefence Swarm | 23254 | [23254-geodefence-swarm.json](./23254-geodefence-swarm.json) |
 | geoDefense | 90909 | [90909-geodefense.json](./90909-geodefense.json) |
 | GeoDefense Swarm | 41499 | [41499-geodefense-swarm.json](./41499-geodefense-swarm.json) |
 | Geodessey | 111753 | [111753-geodessey.json](./111753-geodessey.json) |
@@ -2926,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gex: Enter the Gecko | 3506 | [3506-gex-enter-the-gecko.json](./3506-gex-enter-the-gecko.json) |
 | GF Becomes SexCare Manager of Baseball Club: Cucked In Sportsmen's Sex | 98451 | [98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json](./98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json) |
 | GFL Championshop Football II | 97473 | [97473-gfl-championshop-football-ii.json](./97473-gfl-championshop-football-ii.json) |
+| GFS Sorceress | 23324 | [23324-gfs-sorceress.json](./23324-gfs-sorceress.json) |
 | GG Bundle 2015 | 25986 | [25986-gg-bundle-2015.json](./25986-gg-bundle-2015.json) |
 | GG Date Me | 178567 | [178567-gg-date-me.json](./178567-gg-date-me.json) |
 | GG Land | 210847 | [210847-gg-land.json](./210847-gg-land.json) |
@@ -7092,6 +7096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Magic | 359080 | [359080-green-magic.json](./359080-green-magic.json) |
 | Green Mirror | 30598 | [30598-green-mirror.json](./30598-green-mirror.json) |
 | Green Mist Over Portland | 400558 | [400558-green-mist-over-portland.json](./400558-green-mist-over-portland.json) |
+| Green Moon | 23247 | [23247-green-moon.json](./23247-green-moon.json) |
 | Green Moon 2 | 31773 | [31773-green-moon-2.json](./31773-green-moon-2.json) |
 | Green Mountain | 307409 | [307409-green-mountain.json](./307409-green-mountain.json) |
 | Green Ninja: Year of the Frog | 280914 | [280914-green-ninja-year-of-the-frog.json](./280914-green-ninja-year-of-the-frog.json) |
