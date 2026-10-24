@@ -10793,6 +10793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slight Mechanical Destruction | 402793 | [402793-slight-mechanical-destruction.json](./402793-slight-mechanical-destruction.json) |
 | Slightly Heroes | 112852 | [112852-slightly-heroes.json](./112852-slightly-heroes.json) |
 | Slightly Magic | 97124 | [97124-slightly-magic.json](./97124-slightly-magic.json) |
+| Slightly Magic: 8bit Legacy Edition | 32573 | [32573-slightly-magic-8bit-legacy-edition.json](./32573-slightly-magic-8bit-legacy-edition.json) |
 | Sliiide! | 221757 | [221757-sliiide.json](./221757-sliiide.json) |
 | Sliko | 156141 | [156141-sliko.json](./156141-sliko.json) |
 | Slim World | 101930 | [101930-slim-world.json](./101930-slim-world.json) |
@@ -16095,6 +16096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Turret Gunner | 103961 | [103961-space-turret-gunner.json](./103961-space-turret-gunner.json) |
 | Space Tyrant | 30348 | [30348-space-tyrant.json](./30348-space-tyrant.json) |
 | Space UFO | 329991 | [329991-space-ufo.json](./329991-space-ufo.json) |
+| Space Universe | 32531 | [32531-space-universe.json](./32531-space-universe.json) |
 | Space Valet | 177005 | [177005-space-valet.json](./177005-space-valet.json) |
 | Space Valkyries | 309729 | [309729-space-valkyries.json](./309729-space-valkyries.json) |
 | Space Variance Authority | 337641 | [337641-space-variance-authority.json](./337641-space-variance-authority.json) |
@@ -16395,6 +16397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark & Kling | 290293 | [290293-spark-and-kling.json](./290293-spark-and-kling.json) |
 | Spark & Sparkle | 125696 | [125696-spark-and-sparkle.json](./125696-spark-and-sparkle.json) |
 | Spark and The Digital Daydream | 117372 | [117372-spark-and-the-digital-daydream.json](./117372-spark-and-the-digital-daydream.json) |
+| Spark Dimension | 32542 | [32542-spark-dimension.json](./32542-spark-dimension.json) |
 | Spark Era | 229112 | [229112-spark-era.json](./229112-spark-era.json) |
 | Spark Era: Echo to Universe | 227171 | [227171-spark-era-echo-to-universe.json](./227171-spark-era-echo-to-universe.json) |
 | Spark Five | 111683 | [111683-spark-five.json](./111683-spark-five.json) |
@@ -26077,6 +26080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Realistic Autocross VR | 123474 | [123474-super-realistic-autocross-vr.json](./123474-super-realistic-autocross-vr.json) |
 | Super Rebellion | 125072 | [125072-super-rebellion.json](./125072-super-rebellion.json) |
 | Super Recoilfight | 117814 | [117814-super-recoilfight.json](./117814-super-recoilfight.json) |
+| Super Red-Hot Hero | 32514 | [32514-super-red-hot-hero.json](./32514-super-red-hot-hero.json) |
 | Super Releasio 64 | 344171 | [344171-super-releasio-64.json](./344171-super-releasio-64.json) |
 | Super Retro BoxBot | 279470 | [279470-super-retro-boxbot.json](./279470-super-retro-boxbot.json) |
 | Super Retro Charge | 164291 | [164291-super-retro-charge.json](./164291-super-retro-charge.json) |
@@ -27202,6 +27206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SurfTank | 268860 | [268860-surftank.json](./268860-surftank.json) |
 | Surfwords | 219573 | [219573-surfwords.json](./219573-surfwords.json) |
 | Surge | 275573 | [275573-surge.json](./275573-surge.json) |
+| Surge | 32541 | [32541-surge.json](./32541-surge.json) |
 | Surge | 343610 | [343610-surge.json](./343610-surge.json) |
 | Surge | 86219 | [86219-surge.json](./86219-surge.json) |
 | Surge Breaker | 185693 | [185693-surge-breaker.json](./185693-surge-breaker.json) |
@@ -28197,6 +28202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swinging-Man | 188428 | [188428-swinging-man.json](./188428-swinging-man.json) |
 | Swingmania | 304039 | [304039-swingmania.json](./304039-swingmania.json) |
 | SwingShot | 185384 | [185384-swingshot.json](./185384-swingshot.json) |
+| SwingStar VR | 32578 | [32578-swingstar-vr.json](./32578-swingstar-vr.json) |
 | Swingularity | 333566 | [333566-swingularity.json](./333566-swingularity.json) |
 | Swingworm | 213791 | [213791-swingworm.json](./213791-swingworm.json) |
 | Swingy boy | 150444 | [150444-swingy-boy.json](./150444-swingy-boy.json) |
