@@ -1981,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major Minor 2.0: (Re)Vision | 277924 | [277924-major-minor-2-0-re-vision.json](./277924-major-minor-2-0-re-vision.json) |
 | Major Motion | 15255 | [15255-major-motion.json](./15255-major-motion.json) |
 | Major Party Racing | 358994 | [358994-major-party-racing.json](./358994-major-party-racing.json) |
+| Major Stryker | 35504 | [35504-major-stryker.json](./35504-major-stryker.json) |
 | Major Title | 40363 | [40363-major-title.json](./40363-major-title.json) |
 | Major Title Tournament Leader | 40362 | [40362-major-title-tournament-leader.json](./40362-major-title-tournament-leader.json) |
 | Major's Heart | 403182 | [403182-majors-heart.json](./403182-majors-heart.json) |
@@ -5783,6 +5784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Horse Dealer Simulator | 357857 | [357857-medieval-horse-dealer-simulator.json](./357857-medieval-horse-dealer-simulator.json) |
 | Medieval Idle: Quest | 249185 | [249185-medieval-idle-quest.json](./249185-medieval-idle-quest.json) |
 | Medieval II: Total War | 440 | [440-medieval-ii-total-war.json](./440-medieval-ii-total-war.json) |
+| Medieval II: Total War - Collection | 82071 | [82071-medieval-ii-total-war-collection.json](./82071-medieval-ii-total-war-collection.json) |
 | Medieval II: Total War - Gold Edition | 28983 | [28983-medieval-ii-total-war-gold-edition.json](./28983-medieval-ii-total-war-gold-edition.json) |
 | Medieval II: Total War - Kingdoms | 447 | [447-medieval-ii-total-war-kingdoms.json](./447-medieval-ii-total-war-kingdoms.json) |
 | Medieval Invasion | 412515 | [412515-medieval-invasion.json](./412515-medieval-invasion.json) |
@@ -9333,6 +9335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Strike Team | 59869 | [59869-mighty-strike-team.json](./59869-mighty-strike-team.json) |
 | Mighty Switch Force! | 22919 | [22919-mighty-switch-force.json](./22919-mighty-switch-force.json) |
 | Mighty Switch Force! 2 | 20081 | [20081-mighty-switch-force-2.json](./20081-mighty-switch-force-2.json) |
+| Mighty Switch Force! Academy | 35729 | [35729-mighty-switch-force-academy.json](./35729-mighty-switch-force-academy.json) |
 | Mighty Switch Force! Collection | 120200 | [120200-mighty-switch-force-collection.json](./120200-mighty-switch-force-collection.json) |
 | Mighty Switch Force! Hose It Down! | 35124 | [35124-mighty-switch-force-hose-it-down.json](./35124-mighty-switch-force-hose-it-down.json) |
 | Mighty Switch Force! Hyper Drive Edition | 2176 | [2176-mighty-switch-force-hyper-drive-edition.json](./2176-mighty-switch-force-hyper-drive-edition.json) |
@@ -14055,6 +14058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Tiger Barcodzz - Sub-Zero | 362621 | [362621-mortal-kombat-tiger-barcodzz-sub-zero.json](./362621-mortal-kombat-tiger-barcodzz-sub-zero.json) |
 | Mortal Kombat: Unchained | 1615 | [1615-mortal-kombat-unchained.json](./1615-mortal-kombat-unchained.json) |
 | Mortal Kombat: Warrior Kenshi | 388955 | [388955-mortal-kombat-warrior-kenshi.json](./388955-mortal-kombat-warrior-kenshi.json) |
+| Mortal Manor | 81888 | [81888-mortal-manor.json](./81888-mortal-manor.json) |
 | Mortal Mythos: Island of Fairies | 386553 | [386553-mortal-mythos-island-of-fairies.json](./386553-mortal-mythos-island-of-fairies.json) |
 | Mortal Online 2 | 127546 | [127546-mortal-online-2.json](./127546-mortal-online-2.json) |
 | Mortal Quest | 333130 | [333130-mortal-quest.json](./333130-mortal-quest.json) |
@@ -14637,6 +14641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mount Wingsuit | 32082 | [32082-mount-wingsuit.json](./32082-mount-wingsuit.json) |
 | Mount Wingsuit 2 | 199301 | [199301-mount-wingsuit-2.json](./199301-mount-wingsuit-2.json) |
 | Mount Your Friends | 15916 | [15916-mount-your-friends.json](./15916-mount-your-friends.json) |
+| Mount Your Friends 3D: A Hard Man is Good to Climb | 78155 | [78155-mount-your-friends-3d-a-hard-man-is-good-to-climb.json](./78155-mount-your-friends-3d-a-hard-man-is-good-to-climb.json) |
 | Mountain 78 | 338212 | [338212-mountain-78.json](./338212-mountain-78.json) |
 | Mountain Bicycle Rider Simulator | 264779 | [264779-mountain-bicycle-rider-simulator.json](./264779-mountain-bicycle-rider-simulator.json) |
 | Mountain Bike Adrenaline | 27578 | [27578-mountain-bike-adrenaline.json](./27578-mountain-bike-adrenaline.json) |
@@ -14679,6 +14684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mourning Tide | 306174 | [306174-mourning-tide.json](./306174-mourning-tide.json) |
 | Mourningwood Lodge | 370104 | [370104-mourningwood-lodge.json](./370104-mourningwood-lodge.json) |
 | Mourningwood Lodge 2: Hidden Voice | 375487 | [375487-mourningwood-lodge-2-hidden-voice.json](./375487-mourningwood-lodge-2-hidden-voice.json) |
+| Mouse (Sneaking) | 81968 | [81968-mouse-sneaking.json](./81968-mouse-sneaking.json) |
 | Mouse & Crane | 302243 | [302243-mouse-and-crane.json](./302243-mouse-and-crane.json) |
 | Mouse Attack | 42143 | [42143-mouse-attack.json](./42143-mouse-attack.json) |
 | Mouse Boy | 54228 | [54228-mouse-boy.json](./54228-mouse-boy.json) |
