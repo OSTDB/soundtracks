@@ -5722,6 +5722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Boy: Asha in Monster World Mega Collector's Edition | 147910 | [147910-wonder-boy-asha-in-monster-world-mega-collectors-edition.json](./147910-wonder-boy-asha-in-monster-world-mega-collectors-edition.json) |
 | Wonder Boy: Monster Land | 212884 | [212884-wonder-boy-monster-land.json](./212884-wonder-boy-monster-land.json) |
 | Wonder Boy: Monster Land | 39335 | [39335-wonder-boy-monster-land.json](./39335-wonder-boy-monster-land.json) |
+| Wonder Boy: The Dragon's Trap | 19452 | [19452-wonder-boy-the-dragons-trap.json](./19452-wonder-boy-the-dragons-trap.json) |
 | Wonder Boy: The Dragon's Trap | 212882 | [212882-wonder-boy-the-dragons-trap.json](./212882-wonder-boy-the-dragons-trap.json) |
 | Wonder Cat | 128231 | [128231-wonder-cat.json](./128231-wonder-cat.json) |
 | Wonder Cave | 155953 | [155953-wonder-cave.json](./155953-wonder-cave.json) |
@@ -7516,6 +7517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K17: New Moves Pack | 168354 | [168354-wwe-2k17-new-moves-pack.json](./168354-wwe-2k17-new-moves-pack.json) |
 | WWE 2K17: Nxt Edition | 205827 | [205827-wwe-2k17-nxt-edition.json](./205827-wwe-2k17-nxt-edition.json) |
 | WWE 2K17: NXT Enhancement Pack | 168351 | [168351-wwe-2k17-nxt-enhancement-pack.json](./168351-wwe-2k17-nxt-enhancement-pack.json) |
+| WWE 2K18 | 31558 | [31558-wwe-2k18.json](./31558-wwe-2k18.json) |
 | WWE 2K18: Deluxe Edition | 99116 | [99116-wwe-2k18-deluxe-edition.json](./99116-wwe-2k18-deluxe-edition.json) |
 | WWE 2K19 | 102805 | [102805-wwe-2k19.json](./102805-wwe-2k19.json) |
 | WWE 2K19: Deluxe Edition | 136359 | [136359-wwe-2k19-deluxe-edition.json](./136359-wwe-2k19-deluxe-edition.json) |
@@ -7584,6 +7586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE SmackDown vs. Raw 2011 | 2265 | [2265-wwe-smackdown-vs-raw-2011.json](./2265-wwe-smackdown-vs-raw-2011.json) |
 | WWE SmackDown vs. Raw Online | 128895 | [128895-wwe-smackdown-vs-raw-online.json](./128895-wwe-smackdown-vs-raw-online.json) |
 | WWE SmackDown: Shock Value | 260800 | [260800-wwe-smackdown-shock-value.json](./260800-wwe-smackdown-shock-value.json) |
+| WWE Smackdown! Here Comes the Pain | 6442 | [6442-wwe-smackdown-here-comes-the-pain.json](./6442-wwe-smackdown-here-comes-the-pain.json) |
 | WWE SmackDown! Shut Your Mouth | 6461 | [6461-wwe-smackdown-shut-your-mouth.json](./6461-wwe-smackdown-shut-your-mouth.json) |
 | WWE SmackDown! vs. Raw 2006 | 18323 | [18323-wwe-smackdown-vs-raw-2006.json](./18323-wwe-smackdown-vs-raw-2006.json) |
 | WWE SuperCard | 79072 | [79072-wwe-supercard.json](./79072-wwe-supercard.json) |
