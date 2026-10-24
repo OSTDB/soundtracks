@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage | 3055 | [3055-rampage.json](./3055-rampage.json) |
 | Rampage | 374778 | [374778-rampage.json](./374778-rampage.json) |
 | Rampage 2: Universal Tour | 200417 | [200417-rampage-2-universal-tour.json](./200417-rampage-2-universal-tour.json) |
+| Rampage 2: Universal Tour | 3583 | [3583-rampage-2-universal-tour.json](./3583-rampage-2-universal-tour.json) |
 | Rampage Agents | 262298 | [262298-rampage-agents.json](./262298-rampage-agents.json) |
 | Rampage of the Dead | 105355 | [105355-rampage-of-the-dead.json](./105355-rampage-of-the-dead.json) |
 | Rampage Ragdoll | 81937 | [81937-rampage-ragdoll.json](./81937-rampage-ragdoll.json) |
