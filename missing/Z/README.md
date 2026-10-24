@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaum Gadget | 259455 | [259455-zaum-gadget.json](./259455-zaum-gadget.json) |
 | Zavas | 232825 | [232825-zavas.json](./232825-zavas.json) |
 | Zavas II: The Prophecy of Mehitae | 232826 | [232826-zavas-ii-the-prophecy-of-mehitae.json](./232826-zavas-ii-the-prophecy-of-mehitae.json) |
+| Zaviga | 40567 | [40567-zaviga.json](./40567-zaviga.json) |
 | Zavix Tower | 25104 | [25104-zavix-tower.json](./25104-zavix-tower.json) |
 | Zavod | 367584 | [367584-zavod.json](./367584-zavod.json) |
 | Zavod: Conveyor Logic | 298623 | [298623-zavod-conveyor-logic.json](./298623-zavod-conveyor-logic.json) |
