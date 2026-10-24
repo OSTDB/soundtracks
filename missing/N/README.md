@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanoloop | 93994 | [93994-nanoloop.json](./93994-nanoloop.json) |
 | NanoMachina | 188915 | [188915-nanomachina.json](./188915-nanomachina.json) |
 | Nanoman | 238377 | [238377-nanoman.json](./238377-nanoman.json) |
+| Nanooborg | 31562 | [31562-nanooborg.json](./31562-nanooborg.json) |
 | Nanopesos | 125256 | [125256-nanopesos.json](./125256-nanopesos.json) |
 | Nanopineapple 2018 | 315618 | [315618-nanopineapple-2018.json](./315618-nanopineapple-2018.json) |
 | Nanoplanet Survivors | 236145 | [236145-nanoplanet-survivors.json](./236145-nanoplanet-survivors.json) |
