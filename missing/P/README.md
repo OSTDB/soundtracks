@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Cheeseria | 141812 | [141812-papas-cheeseria.json](./141812-papas-cheeseria.json) |
 | Papa's Cheeseria To Go! | 265876 | [265876-papas-cheeseria-to-go.json](./265876-papas-cheeseria-to-go.json) |
 | Papa's Cupcakeria | 210492 | [210492-papas-cupcakeria.json](./210492-papas-cupcakeria.json) |
+| Papa's Cupcakeria to Go! | 100849 | [100849-papas-cupcakeria-to-go.json](./100849-papas-cupcakeria-to-go.json) |
 | Papa's Donuteria | 210502 | [210502-papas-donuteria.json](./210502-papas-donuteria.json) |
 | Papa's Donutria | 143040 | [143040-papas-donutria.json](./143040-papas-donutria.json) |
 | Papa's Freezeria | 191917 | [191917-papas-freezeria.json](./191917-papas-freezeria.json) |
@@ -4959,6 +4960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picowars | 184630 | [184630-picowars.json](./184630-picowars.json) |
 | Picowings | 290297 | [290297-picowings.json](./290297-picowings.json) |
 | PicPu | 175358 | [175358-picpu.json](./175358-picpu.json) |
+| Picrastination | 88119 | [88119-picrastination.json](./88119-picrastination.json) |
 | PicRoad - Pixel art puzzle | 95943 | [95943-picroad-pixel-art-puzzle.json](./95943-picroad-pixel-art-puzzle.json) |
 | Picronix 2 | 390503 | [390503-picronix-2.json](./390503-picronix-2.json) |
 | Picross | 311698 | [311698-picross.json](./311698-picross.json) |
@@ -10104,6 +10106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Shark | 205949 | [205949-pool-shark.json](./205949-pool-shark.json) |
 | Pool Shark 2 | 5984 | [5984-pool-shark-2.json](./5984-pool-shark-2.json) |
 | Pool Sharks | 92437 | [92437-pool-sharks.json](./92437-pool-sharks.json) |
+| Pool Slide Story | 101512 | [101512-pool-slide-story.json](./101512-pool-slide-story.json) |
 | Pool Together | 251477 | [251477-pool-together.json](./251477-pool-together.json) |
 | Pool Together 2 | 287039 | [287039-pool-together-2.json](./287039-pool-together-2.json) |
 | Pool Together Bundle | 315842 | [315842-pool-together-bundle.json](./315842-pool-together-bundle.json) |
@@ -14564,6 +14567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putin Kills: Coronavirus | 393108 | [393108-putin-kills-coronavirus.json](./393108-putin-kills-coronavirus.json) |
 | Putin Life | 130049 | [130049-putin-life.json](./130049-putin-life.json) |
 | Putin Orcs Defender | 204421 | [204421-putin-orcs-defender.json](./204421-putin-orcs-defender.json) |
+| Putin Run Away From Trump | 102409 | [102409-putin-run-away-from-trump.json](./102409-putin-run-away-from-trump.json) |
 | Putin takes taxes | 86569 | [86569-putin-takes-taxes.json](./86569-putin-takes-taxes.json) |
 | Putin, Boobs and Trump | 96940 | [96940-putin-boobs-and-trump.json](./96940-putin-boobs-and-trump.json) |
 | Putin, Trump and Xin Jinping | 108375 | [108375-putin-trump-and-xin-jinping.json](./108375-putin-trump-and-xin-jinping.json) |
@@ -14649,6 +14653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzigo | 416601 | [416601-puzigo.json](./416601-puzigo.json) |
 | Puzkend | 68930 | [68930-puzkend.json](./68930-puzkend.json) |
 | Puzlkind: Jigsaw Puzzles | 162205 | [162205-puzlkind-jigsaw-puzzles.json](./162205-puzlkind-jigsaw-puzzles.json) |
+| Puzlogic | 101698 | [101698-puzlogic.json](./101698-puzlogic.json) |
 | Puztrix | 315769 | [315769-puztrix.json](./315769-puztrix.json) |
 | Puzz 3D: The Orient Express | 70932 | [70932-puzz-3d-the-orient-express.json](./70932-puzz-3d-the-orient-express.json) |
 | Puzz Loop 2 | 39669 | [39669-puzz-loop-2.json](./39669-puzz-loop-2.json) |
