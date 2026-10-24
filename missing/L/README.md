@@ -3777,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Catcher | 100226 | [100226-light-catcher.json](./100226-light-catcher.json) |
 | Light Chaser: End of Dawn | 108269 | [108269-light-chaser-end-of-dawn.json](./108269-light-chaser-end-of-dawn.json) |
 | Light City District | 257912 | [257912-light-city-district.json](./257912-light-city-district.json) |
+| Light Crusader | 15073 | [15073-light-crusader.json](./15073-light-crusader.json) |
 | Light Cry | 268993 | [268993-light-cry.json](./268993-light-cry.json) |
 | Light Cubed | 121443 | [121443-light-cubed.json](./121443-light-cubed.json) |
 | Light Cycle | 96525 | [96525-light-cycle.json](./96525-light-cycle.json) |
@@ -6824,6 +6825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus Challenge | 248446 | [248446-lotus-challenge.json](./248446-lotus-challenge.json) |
 | Lotus Challenge | 3983 | [3983-lotus-challenge.json](./3983-lotus-challenge.json) |
 | Lotus Digital | 90973 | [90973-lotus-digital.json](./90973-lotus-digital.json) |
+| Lotus Esprit Turbo Challenge | 12671 | [12671-lotus-esprit-turbo-challenge.json](./12671-lotus-esprit-turbo-challenge.json) |
 | Lotus F3 | 373025 | [373025-lotus-f3.json](./373025-lotus-f3.json) |
 | Lotus III: The Ultimate Challenge | 12672 | [12672-lotus-iii-the-ultimate-challenge.json](./12672-lotus-iii-the-ultimate-challenge.json) |
 | Lotus Lantern: Rescue Mother | 286380 | [286380-lotus-lantern-rescue-mother.json](./286380-lotus-lantern-rescue-mother.json) |
@@ -7927,6 +7929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Timepiece: Shadow of Twelve | 121343 | [121343-lunar-timepiece-shadow-of-twelve.json](./121343-lunar-timepiece-shadow-of-twelve.json) |
 | Lunar: Dragon Song | 13908 | [13908-lunar-dragon-song.json](./13908-lunar-dragon-song.json) |
 | Lunar: Eternal Blue | 5401 | [5401-lunar-eternal-blue.json](./5401-lunar-eternal-blue.json) |
+| Lunar: Silver Star Story Complete | 13905 | [13905-lunar-silver-star-story-complete.json](./13905-lunar-silver-star-story-complete.json) |
 | Lunar: The Silver Star | 5334 | [5334-lunar-the-silver-star.json](./5334-lunar-the-silver-star.json) |
 | Lunar's Chosen | 280781 | [280781-lunars-chosen.json](./280781-lunars-chosen.json) |
 | Lunar's Chosen: Episode 2 | 277748 | [277748-lunars-chosen-episode-2.json](./277748-lunars-chosen-episode-2.json) |
