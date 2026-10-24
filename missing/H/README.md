@@ -1529,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard to be a God | 20779 | [20779-hard-to-be-a-god.json](./20779-hard-to-be-a-god.json) |
 | Hard to be a King | 120854 | [120854-hard-to-be-a-king.json](./120854-hard-to-be-a-king.json) |
 | Hard Truck | 94917 | [94917-hard-truck.json](./94917-hard-truck.json) |
+| Hard Truck 2: King of the Road | 36987 | [36987-hard-truck-2-king-of-the-road.json](./36987-hard-truck-2-king-of-the-road.json) |
 | Hard Truck Apocalypse: Rise of Clans | 17170 | [17170-hard-truck-apocalypse-rise-of-clans.json](./17170-hard-truck-apocalypse-rise-of-clans.json) |
 | Hard Truck: 18 Wheels of Steel | 50455 | [50455-hard-truck-18-wheels-of-steel.json](./50455-hard-truck-18-wheels-of-steel.json) |
 | Hard Truck: Road to Victory | 28143 | [28143-hard-truck-road-to-victory.json](./28143-hard-truck-road-to-victory.json) |
@@ -6298,6 +6299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi When They Cry | 9700 | [9700-higurashi-when-they-cry.json](./9700-higurashi-when-they-cry.json) |
 | Higurashi When They Cry Hou - Console Arcs | 347709 | [347709-higurashi-when-they-cry-hou-console-arcs.json](./347709-higurashi-when-they-cry-hou-console-arcs.json) |
 | Higurashi When They Cry Hou: Answer Arcs | 263403 | [263403-higurashi-when-they-cry-hou-answer-arcs.json](./263403-higurashi-when-they-cry-hou-answer-arcs.json) |
+| Higurashi When They Cry Hou: Ch.1 Onikakushi | 33967 | [33967-higurashi-when-they-cry-hou-ch-1-onikakushi.json](./33967-higurashi-when-they-cry-hou-ch-1-onikakushi.json) |
 | Higurashi When They Cry Hou: Ch.2 Watanagashi | 34268 | [34268-higurashi-when-they-cry-hou-ch-2-watanagashi.json](./34268-higurashi-when-they-cry-hou-ch-2-watanagashi.json) |
 | Higurashi When They Cry Hou: Ch.4 Himatsubushi | 31363 | [31363-higurashi-when-they-cry-hou-ch-4-himatsubushi.json](./31363-higurashi-when-they-cry-hou-ch-4-himatsubushi.json) |
 | Higurashi When They Cry Hou: Ch.5 Meakashi | 29837 | [29837-higurashi-when-they-cry-hou-ch-5-meakashi.json](./29837-higurashi-when-they-cry-hou-ch-5-meakashi.json) |
