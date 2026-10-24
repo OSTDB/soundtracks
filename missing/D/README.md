@@ -8462,6 +8462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Goofy's Fun House | 43895 | [43895-disneys-goofys-fun-house.json](./43895-disneys-goofys-fun-house.json) |
 | Disney's Herbie: Fully Loaded | 6434 | [6434-disneys-herbie-fully-loaded.json](./6434-disneys-herbie-fully-loaded.json) |
 | Disney's Herbie: Rescue Rally | 73552 | [73552-disneys-herbie-rescue-rally.json](./73552-disneys-herbie-rescue-rally.json) |
+| Disney's Hercules | 140649 | [140649-disneys-hercules.json](./140649-disneys-hercules.json) |
 | Disney's Hercules | 205929 | [205929-disneys-hercules.json](./205929-disneys-hercules.json) |
 | Disney's Hercules Action Game | 9814 | [9814-disneys-hercules-action-game.json](./9814-disneys-hercules-action-game.json) |
 | Disney's Hercules: Animated Storybook | 139313 | [139313-disneys-hercules-animated-storybook.json](./139313-disneys-hercules-animated-storybook.json) |
@@ -12513,6 +12514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw 2 Save: Stickman Puzzle | 208980 | [208980-draw-2-save-stickman-puzzle.json](./208980-draw-2-save-stickman-puzzle.json) |
 | Draw a Perfect Circle | 328844 | [328844-draw-a-perfect-circle.json](./328844-draw-a-perfect-circle.json) |
 | Draw a Stickman: Epic | 5032 | [5032-draw-a-stickman-epic.json](./5032-draw-a-stickman-epic.json) |
+| Draw a Stickman: Epic 2 | 34433 | [34433-draw-a-stickman-epic-2.json](./34433-draw-a-stickman-epic-2.json) |
 | Draw a Stickman: Epic 3 | 132523 | [132523-draw-a-stickman-epic-3.json](./132523-draw-a-stickman-epic-3.json) |
 | Draw A Stickman: Episode 2 | 99999 | [99999-draw-a-stickman-episode-2.json](./99999-draw-a-stickman-episode-2.json) |
 | Draw Action: Freestyle Fight | 281241 | [281241-draw-action-freestyle-fight.json](./281241-draw-action-freestyle-fight.json) |
@@ -12637,6 +12639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Templar | 144585 | [144585-dread-templar.json](./144585-dread-templar.json) |
 | Dread the Rabbit | 183595 | [183595-dread-the-rabbit.json](./183595-dread-the-rabbit.json) |
 | Dread Weight | 249334 | [249334-dread-weight.json](./249334-dread-weight.json) |
+| Dread X Collection | 137056 | [137056-dread-x-collection.json](./137056-dread-x-collection.json) |
 | Dread X Collection 3 | 140041 | [140041-dread-x-collection-3.json](./140041-dread-x-collection-3.json) |
 | Dread X Collection 5 | 196045 | [196045-dread-x-collection-5.json](./196045-dread-x-collection-5.json) |
 | Dread X Collection: The Hunt | 145624 | [145624-dread-x-collection-the-hunt.json](./145624-dread-x-collection-the-hunt.json) |
