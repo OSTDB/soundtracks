@@ -12218,6 +12218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Slayer Gaiden: Nemuri no Oukan | 73347 | [73347-dragon-slayer-gaiden-nemuri-no-oukan.json](./73347-dragon-slayer-gaiden-nemuri-no-oukan.json) |
 | Dragon Slayer I | 344961 | [344961-dragon-slayer-i.json](./344961-dragon-slayer-i.json) |
 | Dragon Slayer IV: Drasle Family | 19113 | [19113-dragon-slayer-iv-drasle-family.json](./19113-dragon-slayer-iv-drasle-family.json) |
+| Dragon Slayer: The Legend of Heroes | 5579 | [5579-dragon-slayer-the-legend-of-heroes.json](./5579-dragon-slayer-the-legend-of-heroes.json) |
 | Dragon Slayers | 123012 | [123012-dragon-slayers.json](./123012-dragon-slayers.json) |
 | Dragon Snack | 362966 | [362966-dragon-snack.json](./362966-dragon-snack.json) |
 | Dragon Snack: From Ice to Ember | 399624 | [399624-dragon-snack-from-ice-to-ember.json](./399624-dragon-snack-from-ice-to-ember.json) |
@@ -12481,6 +12482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drake | 217467 | [217467-drake.json](./217467-drake.json) |
 | Drake & Josh | 6385 | [6385-drake-and-josh.json](./6385-drake-and-josh.json) |
 | Drake Hollow | 125630 | [125630-drake-hollow.json](./125630-drake-hollow.json) |
+| Drake of the 99 Dragons | 5815 | [5815-drake-of-the-99-dragons.json](./5815-drake-of-the-99-dragons.json) |
 | Drake's Tower | 89229 | [89229-drakes-tower.json](./89229-drakes-tower.json) |
 | Drakefall | 345052 | [345052-drakefall.json](./345052-drakefall.json) |
 | Drakeling Labs | 90130 | [90130-drakeling-labs.json](./90130-drakeling-labs.json) |
@@ -14974,6 +14976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons: Dark Sun Series | 51747 | [51747-dungeons-and-dragons-dark-sun-series.json](./51747-dungeons-and-dragons-dark-sun-series.json) |
 | Dungeons & Dragons: Dragonshard | 674 | [674-dungeons-and-dragons-dragonshard.json](./674-dungeons-and-dragons-dragonshard.json) |
 | Dungeons & Dragons: Eye of the Beholder | 49197 | [49197-dungeons-and-dragons-eye-of-the-beholder.json](./49197-dungeons-and-dragons-eye-of-the-beholder.json) |
+| Dungeons & Dragons: Heroes | 5819 | [5819-dungeons-and-dragons-heroes.json](./5819-dungeons-and-dragons-heroes.json) |
 | Dungeons & Dragons: Krynn Series | 51746 | [51746-dungeons-and-dragons-krynn-series.json](./51746-dungeons-and-dragons-krynn-series.json) |
 | Dungeons & Dragons: Ravenloft Series | 51745 | [51745-dungeons-and-dragons-ravenloft-series.json](./51745-dungeons-and-dragons-ravenloft-series.json) |
 | Dungeons & Dragons: Shadow over Mystara | 10253 | [10253-dungeons-and-dragons-shadow-over-mystara.json](./10253-dungeons-and-dragons-shadow-over-mystara.json) |
