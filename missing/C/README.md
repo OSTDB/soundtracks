@@ -355,6 +355,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Kingdom Story | 238296 | [238296-cake-kingdom-story.json](./238296-cake-kingdom-story.json) |
 | Cake Laboratory | 114184 | [114184-cake-laboratory.json](./114184-cake-laboratory.json) |
 | Cake Maker Deluxe | 103151 | [103151-cake-maker-deluxe.json](./103151-cake-maker-deluxe.json) |
+| Cake Mania 2 | 15045 | [15045-cake-mania-2.json](./15045-cake-mania-2.json) |
+| Cake Mania 3 | 15046 | [15046-cake-mania-3.json](./15046-cake-mania-3.json) |
+| Cake Mania: Back to the Bakery | 15044 | [15044-cake-mania-back-to-the-bakery.json](./15044-cake-mania-back-to-the-bakery.json) |
+| Cake Mania: Lights, Camera, Action! | 15047 | [15047-cake-mania-lights-camera-action.json](./15047-cake-mania-lights-camera-action.json) |
+| Cake Mania: To the Max! | 15048 | [15048-cake-mania-to-the-max.json](./15048-cake-mania-to-the-max.json) |
 | Cake Master | 313251 | [313251-cake-master.json](./313251-cake-master.json) |
 | Cake or Bomb? | 360922 | [360922-cake-or-bomb.json](./360922-cake-or-bomb.json) |
 | Cake Platformer | 329089 | [329089-cake-platformer.json](./329089-cake-platformer.json) |
@@ -5156,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chelsea Club Football | 267882 | [267882-chelsea-club-football.json](./267882-chelsea-club-football.json) |
 | Chelsea Club Football 2005 | 267908 | [267908-chelsea-club-football-2005.json](./267908-chelsea-club-football-2005.json) |
 | Chelsea of the South Sea Islands | 309339 | [309339-chelsea-of-the-south-sea-islands.json](./309339-chelsea-of-the-south-sea-islands.json) |
+| ChemCaper | 16986 | [16986-chemcaper.json](./16986-chemcaper.json) |
 | Chemical Combat | 356217 | [356217-chemical-combat.json](./356217-chemical-combat.json) |
 | Chemical Cubes | 62698 | [62698-chemical-cubes.json](./62698-chemical-cubes.json) |
 | Chemical Existence | 222305 | [222305-chemical-existence.json](./222305-chemical-existence.json) |
@@ -7677,6 +7683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Evil: The Comeback | 272815 | [272815-clash-of-evil-the-comeback.json](./272815-clash-of-evil-the-comeback.json) |
 | Clash of Fingers | 237958 | [237958-clash-of-fingers.json](./237958-clash-of-fingers.json) |
 | Clash of Irons: Blitzkrieg | 157483 | [157483-clash-of-irons-blitzkrieg.json](./157483-clash-of-irons-blitzkrieg.json) |
+| Clash of Kings | 15200 | [15200-clash-of-kings.json](./15200-clash-of-kings.json) |
 | Clash of Legends | 108178 | [108178-clash-of-legends.json](./108178-clash-of-legends.json) |
 | Clash of Magic VR | 86626 | [86626-clash-of-magic-vr.json](./86626-clash-of-magic-vr.json) |
 | Clash of Magic: Spectator Mode | 99027 | [99027-clash-of-magic-spectator-mode.json](./99027-clash-of-magic-spectator-mode.json) |
@@ -9884,12 +9891,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Columns | 4446 | [4446-columns.json](./4446-columns.json) |
 | Columns 97 | 63128 | [63128-columns-97.json](./63128-columns-97.json) |
 | Columns GB: Tezuka Osamu Characters | 72044 | [72044-columns-gb-tezuka-osamu-characters.json](./72044-columns-gb-tezuka-osamu-characters.json) |
+| Columns II: The Voyage Through Time | 14985 | [14985-columns-ii-the-voyage-through-time.json](./14985-columns-ii-the-voyage-through-time.json) |
 | Columns III | 14971 | [14971-columns-iii.json](./14971-columns-iii.json) |
 | Com__et | 267808 | [267808-com-et.json](./267808-com-et.json) |
 | Com2uS Pro Baseball V24 | 303176 | [303176-com2us-pro-baseball-v24.json](./303176-com2us-pro-baseball-v24.json) |
 | Coma: A Mind Adventure | 64976 | [64976-coma-a-mind-adventure.json](./64976-coma-a-mind-adventure.json) |
 | Coma: Lost in the Maze | 186816 | [186816-coma-lost-in-the-maze.json](./186816-coma-lost-in-the-maze.json) |
 | Coma: Mortuary | 36321 | [36321-coma-mortuary.json](./36321-coma-mortuary.json) |
+| Coma:Mortuary | 17232 | [17232-coma-mortuary.json](./17232-coma-mortuary.json) |
 | Comanche | 121758 | [121758-comanche.json](./121758-comanche.json) |
 | Comanche 2 | 5610 | [5610-comanche-2.json](./5610-comanche-2.json) |
 | Comanche 3 | 643 | [643-comanche-3.json](./643-comanche-3.json) |
@@ -14650,6 +14659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crux Diaries | 345286 | [345286-crux-diaries.json](./345286-crux-diaries.json) |
 | Crux: The Great Outdoors | 200161 | [200161-crux-the-great-outdoors.json](./200161-crux-the-great-outdoors.json) |
 | Cruxade | 212246 | [212246-cruxade.json](./212246-cruxade.json) |
+| Cruxata | 17256 | [17256-cruxata.json](./17256-cruxata.json) |
 | CruxFlaw | 266616 | [266616-cruxflaw.json](./266616-cruxflaw.json) |
 | Cruz Brothers | 55293 | [55293-cruz-brothers.json](./55293-cruz-brothers.json) |
 | Cruzcredo: Become a Legend! | 332272 | [332272-cruzcredo-become-a-legend.json](./332272-cruzcredo-become-a-legend.json) |
