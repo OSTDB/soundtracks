@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rafting Frenzy | 253367 | [253367-rafting-frenzy.json](./253367-rafting-frenzy.json) |
 | Rag Doll Kung Fu | 19349 | [19349-rag-doll-kung-fu.json](./19349-rag-doll-kung-fu.json) |
 | Rag Doll Kung Fu: Black Belt Edition | 201793 | [201793-rag-doll-kung-fu-black-belt-edition.json](./201793-rag-doll-kung-fu-black-belt-edition.json) |
+| Rag Doll Kung Fu: Fists of Plastic | 20705 | [20705-rag-doll-kung-fu-fists-of-plastic.json](./20705-rag-doll-kung-fu-fists-of-plastic.json) |
 | Raga | 216942 | [216942-raga.json](./216942-raga.json) |
 | RaGaBa | 27780 | [27780-ragaba.json](./27780-ragaba.json) |
 | RagBlo Set2 | 97824 | [97824-ragblo-set2.json](./97824-ragblo-set2.json) |
@@ -3058,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Colony 3 | 192073 | [192073-red-colony-3.json](./192073-red-colony-3.json) |
 | Red Comrades 2: For the Great Justice - Reloaded | 33509 | [33509-red-comrades-2-for-the-great-justice-reloaded.json](./33509-red-comrades-2-for-the-great-justice-reloaded.json) |
 | Red Comrades 3: Return of Alaska - Reloaded | 30871 | [30871-red-comrades-3-return-of-alaska-reloaded.json](./30871-red-comrades-3-return-of-alaska-reloaded.json) |
+| Red Comrades Save the Galaxy: Reloaded | 27752 | [27752-red-comrades-save-the-galaxy-reloaded.json](./27752-red-comrades-save-the-galaxy-reloaded.json) |
 | Red Comrades: For the Great Justice | 52753 | [52753-red-comrades-for-the-great-justice.json](./52753-red-comrades-for-the-great-justice.json) |
 | Red Conquer | 186862 | [186862-red-conquer.json](./186862-red-conquer.json) |
 | Red Crimes: Hidden Murders | 108508 | [108508-red-crimes-hidden-murders.json](./108508-red-crimes-hidden-murders.json) |
@@ -10010,6 +10012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory 5: Premium Box Limited Edition | 148156 | [148156-rune-factory-5-premium-box-limited-edition.json](./148156-rune-factory-5-premium-box-limited-edition.json) |
 | Rune Factory 6 | 250924 | [250924-rune-factory-6.json](./250924-rune-factory-6.json) |
 | Rune Factory Frontier | 5132 | [5132-rune-factory-frontier.json](./5132-rune-factory-frontier.json) |
+| Rune Factory: A Fantasy Harvest Moon | 20767 | [20767-rune-factory-a-fantasy-harvest-moon.json](./20767-rune-factory-a-fantasy-harvest-moon.json) |
 | Rune Factory: Guardians of Azuma - Rune Factory 4 Bachelorette Outfit Bundle | 351193 | [351193-rune-factory-guardians-of-azuma-rune-factory-4-bachelorette-outfit-bundle.json](./351193-rune-factory-guardians-of-azuma-rune-factory-4-bachelorette-outfit-bundle.json) |
 | Rune Factory: Guardians of Azuma - Story of Seasons Bundle | 377761 | [377761-rune-factory-guardians-of-azuma-story-of-seasons-bundle.json](./377761-rune-factory-guardians-of-azuma-story-of-seasons-bundle.json) |
 | Rune Factory: Tides of Destiny | 5133 | [5133-rune-factory-tides-of-destiny.json](./5133-rune-factory-tides-of-destiny.json) |
