@@ -3532,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Fit | 243698 | [243698-perfect-fit.json](./243698-perfect-fit.json) |
 | Perfect Fit - Totemland | 31114 | [31114-perfect-fit-totemland.json](./31114-perfect-fit-totemland.json) |
 | Perfect Gold: The Alchemy of Happiness | 145997 | [145997-perfect-gold-the-alchemy-of-happiness.json](./145997-perfect-gold-the-alchemy-of-happiness.json) |
+| Perfect Golf | 17193 | [17193-perfect-golf.json](./17193-perfect-golf.json) |
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
 | Perfect Harmony | 128913 | [128913-perfect-harmony.json](./128913-perfect-harmony.json) |
 | Perfect Heist 2 | 157499 | [157499-perfect-heist-2.json](./157499-perfect-heist-2.json) |
@@ -4172,6 +4173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmal Exosteel | 377814 | [377814-phantasmal-exosteel.json](./377814-phantasmal-exosteel.json) |
 | Phantasmal: City of Darkness | 18793 | [18793-phantasmal-city-of-darkness.json](./18793-phantasmal-city-of-darkness.json) |
 | Phantasmat | 22114 | [22114-phantasmat.json](./22114-phantasmat.json) |
+| Phantasmat: Collector's Edition | 17280 | [17280-phantasmat-collectors-edition.json](./17280-phantasmat-collectors-edition.json) |
 | Phantasmat: Crucible Peak | 140316 | [140316-phantasmat-crucible-peak.json](./140316-phantasmat-crucible-peak.json) |
 | Phantasmat: Crucible Peak - Collector's Edition | 31066 | [31066-phantasmat-crucible-peak-collectors-edition.json](./31066-phantasmat-crucible-peak-collectors-edition.json) |
 | Phantasmat: Death in Hardcover | 187924 | [187924-phantasmat-death-in-hardcover.json](./187924-phantasmat-death-in-hardcover.json) |
@@ -6203,6 +6205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates vs Corsairs: Davy Jones's Gold | 35613 | [35613-pirates-vs-corsairs-davy-joness-gold.json](./35613-pirates-vs-corsairs-davy-joness-gold.json) |
 | Pirates vs monkeys | 162851 | [162851-pirates-vs-monkeys.json](./162851-pirates-vs-monkeys.json) |
 | Pirates, Vikings and Knights | 221933 | [221933-pirates-vikings-and-knights.json](./221933-pirates-vikings-and-knights.json) |
+| Pirates, Vikings and Knights II | 14978 | [14978-pirates-vikings-and-knights-ii.json](./14978-pirates-vikings-and-knights-ii.json) |
 | Pirates: Captain's Quest | 145521 | [145521-pirates-captains-quest.json](./145521-pirates-captains-quest.json) |
 | Pirates: Caribbean Chronicles | 285353 | [285353-pirates-caribbean-chronicles.json](./285353-pirates-caribbean-chronicles.json) |
 | Pirates: Duels on the High Seas | 21274 | [21274-pirates-duels-on-the-high-seas.json](./21274-pirates-duels-on-the-high-seas.json) |
@@ -7281,6 +7284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planescape Torment: Enhanced Edition - Digital Deluxe | 53462 | [53462-planescape-torment-enhanced-edition-digital-deluxe.json](./53462-planescape-torment-enhanced-edition-digital-deluxe.json) |
 | Planescape: The Shaper of Dreams | 369227 | [369227-planescape-the-shaper-of-dreams.json](./369227-planescape-the-shaper-of-dreams.json) |
 | PlaneShift | 84309 | [84309-planeshift.json](./84309-planeshift.json) |
+| Planet | 17018 | [17018-planet.json](./17018-planet.json) |
 | Planet 2000 | 99523 | [99523-planet-2000.json](./99523-planet-2000.json) |
 | Planet 2117 | 43145 | [43145-planet-2117.json](./43145-planet-2117.json) |
 | Planet 51: The Game | 21088 | [21088-planet-51-the-game.json](./21088-planet-51-the-game.json) |
