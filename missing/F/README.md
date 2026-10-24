@@ -3113,7 +3113,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felt Mansion | 187315 | [187315-felt-mansion.json](./187315-felt-mansion.json) |
 | Felt That: Boxing | 347117 | [347117-felt-that-boxing.json](./347117-felt-that-boxing.json) |
 | Feltopia | 325282 | [325282-feltopia.json](./325282-feltopia.json) |
-| Felvidek | 238782 | [238782-felvidek.json](./238782-felvidek.json) |
 | Female Knight Fllay: Tentacle Party | 97285 | [97285-female-knight-fllay-tentacle-party.json](./97285-female-knight-fllay-tentacle-party.json) |
 | Female Nation Takeover: josei Kokka Nottori Keikaku - Touzoku no Ore ga Ou ni naru | 260696 | [260696-female-nation-takeover-josei-kokka-nottori-keikaku-touzoku-no-ore-ga-ou-ni-naru.json](./260696-female-nation-takeover-josei-kokka-nottori-keikaku-touzoku-no-ore-ga-ou-ni-naru.json) |
 | Female Swordsman | 360573 | [360573-female-swordsman.json](./360573-female-swordsman.json) |
@@ -3845,7 +3844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIL | 160096 | [160096-fil.json](./160096-fil.json) |
 | Fila Decathlon | 62641 | [62641-fila-decathlon.json](./62641-fila-decathlon.json) |
 | FILA World Tour Tennis | 166490 | [166490-fila-world-tour-tennis.json](./166490-fila-world-tour-tennis.json) |
-| Filament | 121885 | [121885-filament.json](./121885-filament.json) |
 | Filament | 146233 | [146233-filament.json](./146233-filament.json) |
 | Filament: Marmalade Edition | 154517 | [154517-filament-marmalade-edition.json](./154517-filament-marmalade-edition.json) |
 | Filaments | 405492 | [405492-filaments.json](./405492-filaments.json) |
