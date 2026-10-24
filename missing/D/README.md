@@ -4867,6 +4867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Chase | 183339 | [183339-delta-chase.json](./183339-delta-chase.json) |
 | Delta Dash | 213621 | [213621-delta-dash.json](./213621-delta-dash.json) |
 | Delta Directive | 412266 | [412266-delta-directive.json](./412266-delta-directive.json) |
+| Delta Force 2 | 9349 | [9349-delta-force-2.json](./9349-delta-force-2.json) |
 | Delta Force: Angel Falls | 9353 | [9353-delta-force-angel-falls.json](./9353-delta-force-angel-falls.json) |
 | Delta Force: Black Hawk Down | 200997 | [200997-delta-force-black-hawk-down.json](./200997-delta-force-black-hawk-down.json) |
 | Delta Force: Black Hawk Down | 332541 | [332541-delta-force-black-hawk-down.json](./332541-delta-force-black-hawk-down.json) |
@@ -7245,6 +7246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon New Century | 174707 | [174707-digimon-new-century.json](./174707-digimon-new-century.json) |
 | Digimon Pendulum Ver.20th | 276079 | [276079-digimon-pendulum-ver-20th.json](./276079-digimon-pendulum-ver-20th.json) |
 | Digimon Pocket | 247403 | [247403-digimon-pocket.json](./247403-digimon-pocket.json) |
+| Digimon Rumble Arena | 4133 | [4133-digimon-rumble-arena.json](./4133-digimon-rumble-arena.json) |
 | Digimon Soul Chaser | 59178 | [59178-digimon-soul-chaser.json](./59178-digimon-soul-chaser.json) |
 | Digimon Story Cyber Sleuth: Complete Edition | 120551 | [120551-digimon-story-cyber-sleuth-complete-edition.json](./120551-digimon-story-cyber-sleuth-complete-edition.json) |
 | Digimon Story Time Stranger: A Hero's Eternal Legacy | 416127 | [416127-digimon-story-time-stranger-a-heros-eternal-legacy.json](./416127-digimon-story-time-stranger-a-heros-eternal-legacy.json) |
@@ -7827,6 +7829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Directory Dungeon | 387158 | [387158-directory-dungeon.json](./387158-directory-dungeon.json) |
 | Direland | 396883 | [396883-direland.json](./396883-direland.json) |
 | Dirge | 145680 | [145680-dirge.json](./145680-dirge.json) |
+| Dirge of Cerberus: Final Fantasy VII | 18068 | [18068-dirge-of-cerberus-final-fantasy-vii.json](./18068-dirge-of-cerberus-final-fantasy-vii.json) |
 | Dirge of the Scarlet Star | 387028 | [387028-dirge-of-the-scarlet-star.json](./387028-dirge-of-the-scarlet-star.json) |
 | Dirk Vander Wilt's Kasia | 159141 | [159141-dirk-vander-wilts-kasia.json](./159141-dirk-vander-wilts-kasia.json) |
 | Dirt 3 | 524 | [524-dirt-3.json](./524-dirt-3.json) |
@@ -8616,6 +8619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distorted: Night Shift Anomalies | 420693 | [420693-distorted-night-shift-anomalies.json](./420693-distorted-night-shift-anomalies.json) |
 | Distortion Nation | 135048 | [135048-distortion-nation.json](./135048-distortion-nation.json) |
 | Distraction Machine | 204226 | [204226-distraction-machine.json](./204226-distraction-machine.json) |
+| Distraint | 13664 | [13664-distraint.json](./13664-distraint.json) |
 | Distraint Collection | 186910 | [186910-distraint-collection.json](./186910-distraint-collection.json) |
 | Distraint: Deluxe Edition | 100761 | [100761-distraint-deluxe-edition.json](./100761-distraint-deluxe-edition.json) |
 | Distraint: Pocket Pixel Horror | 134442 | [134442-distraint-pocket-pixel-horror.json](./134442-distraint-pocket-pixel-horror.json) |
