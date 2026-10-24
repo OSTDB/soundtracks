@@ -3510,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 19 | 240453 | [240453-fifa-19.json](./240453-fifa-19.json) |
 | FIFA 19 | 96209 | [96209-fifa-19.json](./96209-fifa-19.json) |
 | FIFA 19: Champions Edition | 103377 | [103377-fifa-19-champions-edition.json](./103377-fifa-19-champions-edition.json) |
+| FIFA 19: Legacy Edition | 111048 | [111048-fifa-19-legacy-edition.json](./111048-fifa-19-legacy-edition.json) |
 | FIFA 19: Ultimate Edition | 111047 | [111047-fifa-19-ultimate-edition.json](./111047-fifa-19-ultimate-edition.json) |
 | FIFA 20 | 114287 | [114287-fifa-20.json](./114287-fifa-20.json) |
 | FIFA 2000 | 229742 | [229742-fifa-2000.json](./229742-fifa-2000.json) |
