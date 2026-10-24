@@ -3416,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redneck Skeet Shooting | 120258 | [120258-redneck-skeet-shooting.json](./120258-redneck-skeet-shooting.json) |
 | ReDo | 340711 | [340711-redo.json](./340711-redo.json) |
 | Redo! | 114085 | [114085-redo.json](./114085-redo.json) |
+| Redout | 13197 | [13197-redout.json](./13197-redout.json) |
 | Redout 2: Deluxe Edition | 205571 | [205571-redout-2-deluxe-edition.json](./205571-redout-2-deluxe-edition.json) |
 | Redout 2: Summer Pack | 224209 | [224209-redout-2-summer-pack.json](./224209-redout-2-summer-pack.json) |
 | Redout 2: Ultimate Edition | 205570 | [205570-redout-2-ultimate-edition.json](./205570-redout-2-ultimate-edition.json) |
@@ -4133,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renovators | 163882 | [163882-renovators.json](./163882-renovators.json) |
 | Renown | 152656 | [152656-renown.json](./152656-renown.json) |
 | Renowned Explorers: Definitive Edition | 124777 | [124777-renowned-explorers-definitive-edition.json](./124777-renowned-explorers-definitive-edition.json) |
+| Renowned Explorers: International Society | 12510 | [12510-renowned-explorers-international-society.json](./12510-renowned-explorers-international-society.json) |
 | Renowned Explorers: International Society - More to Explore | 19387 | [19387-renowned-explorers-international-society-more-to-explore.json](./19387-renowned-explorers-international-society-more-to-explore.json) |
 | Renowned Explorers: The Emperor's Challenge | 51876 | [51876-renowned-explorers-the-emperors-challenge.json](./51876-renowned-explorers-the-emperors-challenge.json) |
 | Renshin no Astral | 196601 | [196601-renshin-no-astral.json](./196601-renshin-no-astral.json) |
@@ -8698,6 +8700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rong Yu Zhi Hui Guan | 283406 | [283406-rong-yu-zhi-hui-guan.json](./283406-rong-yu-zhi-hui-guan.json) |
 | Róngshēn zhī Dìtiě | 117649 | [117649-rongshen-zhi-ditie.json](./117649-rongshen-zhi-ditie.json) |
 | Rongu | 403719 | [403719-rongu.json](./403719-rongu.json) |
+| Ronin | 11183 | [11183-ronin.json](./11183-ronin.json) |
 | Ronin 2072 | 133062 | [133062-ronin-2072.json](./133062-ronin-2072.json) |
 | Ronin Awakening | 374933 | [374933-ronin-awakening.json](./374933-ronin-awakening.json) |
 | Ronin Heart | 366393 | [366393-ronin-heart.json](./366393-ronin-heart.json) |
@@ -9144,6 +9147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Round The U-Bend | 271306 | [271306-round-the-u-bend.json](./271306-round-the-u-bend.json) |
 | Round Trip | 244280 | [244280-round-trip.json](./244280-round-trip.json) |
 | Round Up 5: Super Delta Force | 407524 | [407524-round-up-5-super-delta-force.json](./407524-round-up-5-super-delta-force.json) |
+| Roundabout | 15852 | [15852-roundabout.json](./15852-roundabout.json) |
 | Roundabout 3 | 210567 | [210567-roundabout-3.json](./210567-roundabout-3.json) |
 | Roundball: 2 on 2 Challenge | 48203 | [48203-roundball-2-on-2-challenge.json](./48203-roundball-2-on-2-challenge.json) |
 | Rounded | 156011 | [156011-rounded.json](./156011-rounded.json) |
