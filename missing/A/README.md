@@ -2970,7 +2970,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3582,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agatha Christie: Peril at End House | 78604 | [78604-agatha-christie-peril-at-end-house.json](./78604-agatha-christie-peril-at-end-house.json) |
 | Agatha Christie: The ABC Murders | 17470 | [17470-agatha-christie-the-abc-murders.json](./17470-agatha-christie-the-abc-murders.json) |
 | Agatha Christie: The ABC Murders | 19657 | [19657-agatha-christie-the-abc-murders.json](./19657-agatha-christie-the-abc-murders.json) |
+| Agatha Knife | 28312 | [28312-agatha-knife.json](./28312-agatha-knife.json) |
 | Agatha's Folly | 58866 | [58866-agathas-folly.json](./58866-agathas-folly.json) |
 | Age | 270014 | [270014-age.json](./270014-age.json) |
 | Age After Age | 379512 | [379512-age-after-age.json](./379512-age-after-age.json) |
@@ -3659,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires Mobile | 280839 | [280839-age-of-empires-mobile.json](./280839-age-of-empires-mobile.json) |
 | Age of Empires Mobile: PC Edition | 408535 | [408535-age-of-empires-mobile-pc-edition.json](./408535-age-of-empires-mobile-pc-edition.json) |
 | Age of Empires Online: Celeste Fan Project | 131926 | [131926-age-of-empires-online-celeste-fan-project.json](./131926-age-of-empires-online-celeste-fan-project.json) |
+| Age of Empires: Collector's Edition | 50321 | [50321-age-of-empires-collectors-edition.json](./50321-age-of-empires-collectors-edition.json) |
 | Age of Empires: Gold Edition | 47076 | [47076-age-of-empires-gold-edition.json](./47076-age-of-empires-gold-edition.json) |
 | Age of Empires: Mythologies | 21221 | [21221-age-of-empires-mythologies.json](./21221-age-of-empires-mythologies.json) |
 | Age of Empires: Online | 5571 | [5571-age-of-empires-online.json](./5571-age-of-empires-online.json) |
