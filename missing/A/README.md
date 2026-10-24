@@ -3060,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeons Past | 223482 | [223482-aeons-past.json](./223482-aeons-past.json) |
 | Aequitas Orbis | 75064 | [75064-aequitas-orbis.json](./75064-aequitas-orbis.json) |
 | Aequor | 276752 | [276752-aequor.json](./276752-aequor.json) |
+| AER: Memories of Old | 11560 | [11560-aer-memories-of-old.json](./11560-aer-memories-of-old.json) |
 | Aera Flying Heroes | 337796 | [337796-aera-flying-heroes.json](./337796-aera-flying-heroes.json) |
 | Aerannis | 20028 | [20028-aerannis.json](./20028-aerannis.json) |
 | Aerea | 27794 | [27794-aerea.json](./27794-aerea.json) |
