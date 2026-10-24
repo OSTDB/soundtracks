@@ -2956,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Truck Simulator | 58250 | [58250-heavy-truck-simulator.json](./58250-heavy-truck-simulator.json) |
 | Heavy Trucking | 271698 | [271698-heavy-trucking.json](./271698-heavy-trucking.json) |
 | Heavy Unit | 46859 | [46859-heavy-unit.json](./46859-heavy-unit.json) |
+| Heavy Unit: Mega Drive Special | 4495 | [4495-heavy-unit-mega-drive-special.json](./4495-heavy-unit-mega-drive-special.json) |
 | Heavy Water Jogger | 73812 | [73812-heavy-water-jogger.json](./73812-heavy-water-jogger.json) |
 | Heavy Weapon | 20397 | [20397-heavy-weapon.json](./20397-heavy-weapon.json) |
 | Heavy Weapon Deluxe | 27812 | [27812-heavy-weapon-deluxe.json](./27812-heavy-weapon-deluxe.json) |
