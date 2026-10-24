@@ -8122,6 +8122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunder Squad | 107797 | [107797-plunder-squad.json](./107797-plunder-squad.json) |
 | Plunder: Scourge of the Sea | 260658 | [260658-plunder-scourge-of-the-sea.json](./260658-plunder-scourge-of-the-sea.json) |
 | Plunderball | 46570 | [46570-plunderball.json](./46570-plunderball.json) |
+| Plundered Hearts | 12621 | [12621-plundered-hearts.json](./12621-plundered-hearts.json) |
 | Plunderer's Adventures | 192074 | [192074-plunderers-adventures.json](./192074-plunderers-adventures.json) |
 | Plunderers Adventures: Sea of Whores | 147412 | [147412-plunderers-adventures-sea-of-whores.json](./147412-plunderers-adventures-sea-of-whores.json) |
 | Plunderland | 118874 | [118874-plunderland.json](./118874-plunderland.json) |
