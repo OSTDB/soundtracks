@@ -6881,6 +6881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Whirled | 66640 | [66640-pixel-whirled.json](./66640-pixel-whirled.json) |
 | Pixel Wizard | 356996 | [356996-pixel-wizard.json](./356996-pixel-wizard.json) |
 | Pixel World | 388147 | [388147-pixel-world.json](./388147-pixel-world.json) |
+| Pixel Worlds | 36708 | [36708-pixel-worlds.json](./36708-pixel-worlds.json) |
 | Pixel Xiuzhen | 106508 | [106508-pixel-xiuzhen.json](./106508-pixel-xiuzhen.json) |
 | Pixel Z - Gun Day | 33690 | [33690-pixel-z-gun-day.json](./33690-pixel-z-gun-day.json) |
 | Pixel Z Hunter 3D | 282685 | [282685-pixel-z-hunter-3d.json](./282685-pixel-z-hunter-3d.json) |
@@ -12565,6 +12566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project CPW | 216083 | [216083-project-cpw.json](./216083-project-cpw.json) |
 | Project Cradle | 286081 | [286081-project-cradle.json](./286081-project-cradle.json) |
 | Project Crimson | 166735 | [166735-project-crimson.json](./166735-project-crimson.json) |
+| Project Crossfire | 36769 | [36769-project-crossfire.json](./36769-project-crossfire.json) |
 | Project Crucible | 154865 | [154865-project-crucible.json](./154865-project-crucible.json) |
 | Project Crypt | 201131 | [201131-project-crypt.json](./201131-project-crypt.json) |
 | Project Cube | 305920 | [305920-project-cube.json](./305920-project-cube.json) |
@@ -12653,6 +12655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Glitch | 81730 | [81730-project-glitch.json](./81730-project-glitch.json) |
 | Project Goblin | 404986 | [404986-project-goblin.json](./404986-project-goblin.json) |
 | Project Gold | 141018 | [141018-project-gold.json](./141018-project-gold.json) |
+| Project Golem | 36768 | [36768-project-golem.json](./36768-project-golem.json) |
 | Project Gotham Racing 2 | 3321 | [3321-project-gotham-racing-2.json](./3321-project-gotham-racing-2.json) |
 | Project Gotham Racing 3 | 3322 | [3322-project-gotham-racing-3.json](./3322-project-gotham-racing-3.json) |
 | Project Gotham Racing 4 | 2540 | [2540-project-gotham-racing-4.json](./2540-project-gotham-racing-4.json) |
@@ -14163,6 +14166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purgatory Dungeoneer | 202581 | [202581-purgatory-dungeoneer.json](./202581-purgatory-dungeoneer.json) |
 | Purgatory Fell | 90254 | [90254-purgatory-fell.json](./90254-purgatory-fell.json) |
 | Purgatory Guardian | 130084 | [130084-purgatory-guardian.json](./130084-purgatory-guardian.json) |
+| Purgatory II | 36723 | [36723-purgatory-ii.json](./36723-purgatory-ii.json) |
 | Purgatory Of the Golden Witch | 382438 | [382438-purgatory-of-the-golden-witch.json](./382438-purgatory-of-the-golden-witch.json) |
 | Purgatory Overkill | 160071 | [160071-purgatory-overkill.json](./160071-purgatory-overkill.json) |
 | Purgatory Pitstop | 390774 | [390774-purgatory-pitstop.json](./390774-purgatory-pitstop.json) |
