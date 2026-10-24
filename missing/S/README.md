@@ -6706,6 +6706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Devil Summoner | 357453 | [357453-shin-megami-tensei-devil-summoner.json](./357453-shin-megami-tensei-devil-summoner.json) |
 | Shin Megami Tensei: Devil Summoner - Raidou Kuzunoha vs. the Fiefdom of Death | 386457 | [386457-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-fiefdom-of-death.json](./386457-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-fiefdom-of-death.json) |
 | Shin Megami Tensei: Devil Summoner - Soul Hackers | 281414 | [281414-shin-megami-tensei-devil-summoner-soul-hackers.json](./281414-shin-megami-tensei-devil-summoner-soul-hackers.json) |
+| Shin Megami Tensei: Devil Summoner 2 - Raidou Kuzunoha vs King Abaddon | 21192 | [21192-shin-megami-tensei-devil-summoner-2-raidou-kuzunoha-vs-king-abaddon.json](./21192-shin-megami-tensei-devil-summoner-2-raidou-kuzunoha-vs-king-abaddon.json) |
 | Shin Megami Tensei: Devil Summoner Digital Collection | 146785 | [146785-shin-megami-tensei-devil-summoner-digital-collection.json](./146785-shin-megami-tensei-devil-summoner-digital-collection.json) |
 | Shin Megami Tensei: Devil Summoner Special Box | 74067 | [74067-shin-megami-tensei-devil-summoner-special-box.json](./74067-shin-megami-tensei-devil-summoner-special-box.json) |
 | Shin Megami Tensei: Devil Survivor | 6884 | [6884-shin-megami-tensei-devil-survivor.json](./6884-shin-megami-tensei-devil-survivor.json) |
@@ -19840,6 +19841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Project Stardust | 137006 | [137006-star-wars-project-stardust.json](./137006-star-wars-project-stardust.json) |
 | Star Wars: Puzzle Droids | 97355 | [97355-star-wars-puzzle-droids.json](./97355-star-wars-puzzle-droids.json) |
 | Star Wars: Racer Arcade | 67944 | [67944-star-wars-racer-arcade.json](./67944-star-wars-racer-arcade.json) |
+| Star Wars: Racer Revenge | 19419 | [19419-star-wars-racer-revenge.json](./19419-star-wars-racer-revenge.json) |
 | Star Wars: Rebel Assault | 161 | [161-star-wars-rebel-assault.json](./161-star-wars-rebel-assault.json) |
 | Star Wars: Rebel Assault I + II | 33161 | [33161-star-wars-rebel-assault-i-ii.json](./33161-star-wars-rebel-assault-i-ii.json) |
 | Star Wars: Rebel Assault II - The Hidden Empire | 300715 | [300715-star-wars-rebel-assault-ii-the-hidden-empire.json](./300715-star-wars-rebel-assault-ii-the-hidden-empire.json) |
@@ -20011,6 +20013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcom: Nexus | 107854 | [107854-starcom-nexus.json](./107854-starcom-nexus.json) |
 | Starcom: Unknown Space | 211207 | [211207-starcom-unknown-space.json](./211207-starcom-unknown-space.json) |
 | Starcraft | 417642 | [417642-starcraft.json](./417642-starcraft.json) |
+| StarCraft 64 | 9067 | [9067-starcraft-64.json](./9067-starcraft-64.json) |
 | StarCraft II: Battle Chest | 136312 | [136312-starcraft-ii-battle-chest.json](./136312-starcraft-ii-battle-chest.json) |
 | StarCraft II: Campaign Collection | 356059 | [356059-starcraft-ii-campaign-collection.json](./356059-starcraft-ii-campaign-collection.json) |
 | Starcraft II: Heart of the Swarm - Collector's Edition | 46441 | [46441-starcraft-ii-heart-of-the-swarm-collectors-edition.json](./46441-starcraft-ii-heart-of-the-swarm-collectors-edition.json) |
@@ -22219,6 +22222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger of Paradise: Final Fantasy Origin - Digital Deluxe Edition | 173775 | [173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json](./173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json) |
 | Stranger of Paradise: Final Fantasy Origin - Trials of the Dragon King | 207128 | [207128-stranger-of-paradise-final-fantasy-origin-trials-of-the-dragon-king.json](./207128-stranger-of-paradise-final-fantasy-origin-trials-of-the-dragon-king.json) |
 | Stranger of Paradise: Final Fantasy Origin - Wanderer of the Rift | 217790 | [217790-stranger-of-paradise-final-fantasy-origin-wanderer-of-the-rift.json](./217790-stranger-of-paradise-final-fantasy-origin-wanderer-of-the-rift.json) |
+| Stranger of Sword City | 18905 | [18905-stranger-of-sword-city.json](./18905-stranger-of-sword-city.json) |
 | Stranger of Sword City 2 | 19801 | [19801-stranger-of-sword-city-2.json](./19801-stranger-of-sword-city-2.json) |
 | Stranger of Sword City Revisited | 27303 | [27303-stranger-of-sword-city-revisited.json](./27303-stranger-of-sword-city-revisited.json) |
 | Stranger of Sword City: Limited Edition | 42681 | [42681-stranger-of-sword-city-limited-edition.json](./42681-stranger-of-sword-city-limited-edition.json) |
@@ -22669,6 +22673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter: Duel | 142490 | [142490-street-fighter-duel.json](./142490-street-fighter-duel.json) |
 | Street Fighter: Puzzle Spirits | 60889 | [60889-street-fighter-puzzle-spirits.json](./60889-street-fighter-puzzle-spirits.json) |
 | Street Fighter: The Movie | 134337 | [134337-street-fighter-the-movie.json](./134337-street-fighter-the-movie.json) |
+| Street Fighter: The Movie | 19754 | [19754-street-fighter-the-movie.json](./19754-street-fighter-the-movie.json) |
 | Street Fighting Grandma | 252264 | [252264-street-fighting-grandma.json](./252264-street-fighting-grandma.json) |
 | Street Flicker | 311235 | [311235-street-flicker.json](./311235-street-flicker.json) |
 | Street Food Restaurant Owner | 327979 | [327979-street-food-restaurant-owner.json](./327979-street-food-restaurant-owner.json) |
