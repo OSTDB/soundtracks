@@ -1661,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Your Hands | 188826 | [188826-on-your-hands.json](./188826-on-your-hands.json) |
 | On Your Mark | 120115 | [120115-on-your-mark.json](./120115-on-your-mark.json) |
 | On Your Notebook | 365845 | [365845-on-your-notebook.json](./365845-on-your-notebook.json) |
+| On-Court Tennis | 26244 | [26244-on-court-tennis.json](./26244-on-court-tennis.json) |
 | On-looker | 129203 | [129203-on-looker.json](./129203-on-looker.json) |
 | On-Together | 347835 | [347835-on-together.json](./347835-on-together.json) |
 | On/off | 217798 | [217798-on-off.json](./217798-on-off.json) |
