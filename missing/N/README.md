@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Revolution | 22832 | [22832-nascar-revolution.json](./22832-nascar-revolution.json) |
 | NASCAR Rivals: 2022 Patriotic Pack | 231360 | [231360-nascar-rivals-2022-patriotic-pack.json](./231360-nascar-rivals-2022-patriotic-pack.json) |
 | NASCAR Rivals: Throwback Pack | 231254 | [231254-nascar-rivals-throwback-pack.json](./231254-nascar-rivals-throwback-pack.json) |
+| NASCAR Rumble | 44879 | [44879-nascar-rumble.json](./44879-nascar-rumble.json) |
 | NASCAR Thunder 2002 | 5946 | [5946-nascar-thunder-2002.json](./5946-nascar-thunder-2002.json) |
 | NASCAR Thunder 2003 | 242427 | [242427-nascar-thunder-2003.json](./242427-nascar-thunder-2003.json) |
 | NASCAR Thunder 2004 | 5947 | [5947-nascar-thunder-2004.json](./5947-nascar-thunder-2004.json) |
@@ -3172,6 +3173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL Eastside Hockey Manager 2005 | 80334 | [80334-nhl-eastside-hockey-manager-2005.json](./80334-nhl-eastside-hockey-manager-2005.json) |
 | NHL Eastside Hockey Manager 2007 | 70454 | [70454-nhl-eastside-hockey-manager-2007.json](./70454-nhl-eastside-hockey-manager-2007.json) |
 | NHL Face Off '97 | 43696 | [43696-nhl-face-off-97.json](./43696-nhl-face-off-97.json) |
+| NHL Hitz 2002 | 4046 | [4046-nhl-hitz-2002.json](./4046-nhl-hitz-2002.json) |
 | NHL Hitz 2003 | 4047 | [4047-nhl-hitz-2003.json](./4047-nhl-hitz-2003.json) |
 | NHL Hockey | 210102 | [210102-nhl-hockey.json](./210102-nhl-hockey.json) |
 | NHL Hockey | 210499 | [210499-nhl-hockey.json](./210499-nhl-hockey.json) |
@@ -4448,6 +4450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendogs + Cats: French Bulldog & New Friends | 85600 | [85600-nintendogs-cats-french-bulldog-and-new-friends.json](./85600-nintendogs-cats-french-bulldog-and-new-friends.json) |
 | Nintendogs + Cats: Golden Retriever & New Friends | 21935 | [21935-nintendogs-cats-golden-retriever-and-new-friends.json](./21935-nintendogs-cats-golden-retriever-and-new-friends.json) |
 | Nintendogs + Cats: Shiba Inu & New Friends | 222328 | [222328-nintendogs-cats-shiba-inu-and-new-friends.json](./222328-nintendogs-cats-shiba-inu-and-new-friends.json) |
+| Nintendogs + Cats: Toy Poodle & New Friends | 3059 | [3059-nintendogs-cats-toy-poodle-and-new-friends.json](./3059-nintendogs-cats-toy-poodle-and-new-friends.json) |
 | Nintendogs: Best Friends | 47727 | [47727-nintendogs-best-friends.json](./47727-nintendogs-best-friends.json) |
 | Nintendogs: Chihuahua & Friends | 47707 | [47707-nintendogs-chihuahua-and-friends.json](./47707-nintendogs-chihuahua-and-friends.json) |
 | Nintendogs: Dachshund & Friends | 47710 | [47710-nintendogs-dachshund-and-friends.json](./47710-nintendogs-dachshund-and-friends.json) |
