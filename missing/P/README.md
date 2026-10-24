@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Gunner | 92470 | [92470-pacific-gunner.json](./92470-pacific-gunner.json) |
 | Pacific Liberation Force | 17627 | [17627-pacific-liberation-force.json](./17627-pacific-liberation-force.json) |
 | Pacific Minesweeper | 289242 | [289242-pacific-minesweeper.json](./289242-pacific-minesweeper.json) |
+| Pacific Rim | 3763 | [3763-pacific-rim.json](./3763-pacific-rim.json) |
 | Pacific Strike | 14562 | [14562-pacific-strike.json](./14562-pacific-strike.json) |
 | Pacific Strike Speech Pack | 137375 | [137375-pacific-strike-speech-pack.json](./137375-pacific-strike-speech-pack.json) |
 | Pacific Theatre | 208985 | [208985-pacific-theatre.json](./208985-pacific-theatre.json) |
@@ -14578,11 +14579,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putt Putt World - AR Mini Golf | 105898 | [105898-putt-putt-world-ar-mini-golf.json](./105898-putt-putt-world-ar-mini-golf.json) |
 | Putt-Putt and Fatty Bear's Activity Pack | 10730 | [10730-putt-putt-and-fatty-bears-activity-pack.json](./10730-putt-putt-and-fatty-bears-activity-pack.json) |
 | Putt-Putt and Pep's Balloon-O-Rama | 3742 | [3742-putt-putt-and-peps-balloon-o-rama.json](./3742-putt-putt-and-peps-balloon-o-rama.json) |
+| Putt-Putt and Pep's Dog on a Stick | 3741 | [3741-putt-putt-and-peps-dog-on-a-stick.json](./3741-putt-putt-and-peps-dog-on-a-stick.json) |
 | Putt-Putt Enters the Race | 3738 | [3738-putt-putt-enters-the-race.json](./3738-putt-putt-enters-the-race.json) |
 | Putt-Putt Goes to the Moon | 3734 | [3734-putt-putt-goes-to-the-moon.json](./3734-putt-putt-goes-to-the-moon.json) |
 | Putt-Putt Joins the Circus | 3739 | [3739-putt-putt-joins-the-circus.json](./3739-putt-putt-joins-the-circus.json) |
 | Putt-Putt Saves the Zoo | 3736 | [3736-putt-putt-saves-the-zoo.json](./3736-putt-putt-saves-the-zoo.json) |
 | Putt-Putt Travels Through Time | 3737 | [3737-putt-putt-travels-through-time.json](./3737-putt-putt-travels-through-time.json) |
+| Putt-Putt: Pep's Birthday Surprise | 3740 | [3740-putt-putt-peps-birthday-surprise.json](./3740-putt-putt-peps-birthday-surprise.json) |
 | Putt.day | 413151 | [413151-putt-day.json](./413151-putt-day.json) |
 | Puttball | 58220 | [58220-puttball.json](./58220-puttball.json) |
 | Puttin' Around | 114171 | [114171-puttin-around.json](./114171-puttin-around.json) |
