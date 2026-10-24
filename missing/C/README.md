@@ -12247,6 +12247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton 2: Saturn Tribute | 173782 | [173782-cotton-2-saturn-tribute.json](./173782-cotton-2-saturn-tribute.json) |
 | Cotton Boomerang | 39830 | [39830-cotton-boomerang.json](./39830-cotton-boomerang.json) |
 | Cotton Boomerang: Saturn Tribute | 173781 | [173781-cotton-boomerang-saturn-tribute.json](./173781-cotton-boomerang-saturn-tribute.json) |
+| Cotton Fantasy | 153647 | [153647-cotton-fantasy.json](./153647-cotton-fantasy.json) |
 | Cotton Games' New Game Bundle | 196811 | [196811-cotton-games-new-game-bundle.json](./196811-cotton-games-new-game-bundle.json) |
 | Cotton Guardian Force Saturn Tribute: Special Edition | 166980 | [166980-cotton-guardian-force-saturn-tribute-special-edition.json](./166980-cotton-guardian-force-saturn-tribute-special-edition.json) |
 | Cotton Guardian Force: Saturn Tribute | 146808 | [146808-cotton-guardian-force-saturn-tribute.json](./146808-cotton-guardian-force-saturn-tribute.json) |
@@ -14253,6 +14254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross the Gap | 184976 | [184976-cross-the-gap.json](./184976-cross-the-gap.json) |
 | Cross the Hell Master | 214120 | [214120-cross-the-hell-master.json](./214120-cross-the-hell-master.json) |
 | Cross the Maze World | 290471 | [290471-cross-the-maze-world.json](./290471-cross-the-maze-world.json) |
+| Cross the Moon | 152151 | [152151-cross-the-moon.json](./152151-cross-the-moon.json) |
 | Cross the Red Line | 113859 | [113859-cross-the-red-line.json](./113859-cross-the-red-line.json) |
 | Cross the Road | 186057 | [186057-cross-the-road.json](./186057-cross-the-road.json) |
 | Cross the Road | 230687 | [230687-cross-the-road.json](./230687-cross-the-road.json) |
