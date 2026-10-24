@@ -1452,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kensei: Sacred Fist | 36746 | [36746-kensei-sacred-fist.json](./36746-kensei-sacred-fist.json) |
 | Kenseiden | 65579 | [65579-kenseiden.json](./65579-kenseiden.json) |
 | Kenseiki Alpha Ride | 336507 | [336507-kenseiki-alpha-ride.json](./336507-kenseiki-alpha-ride.json) |
+| Kenshi | 30225 | [30225-kenshi.json](./30225-kenshi.json) |
 | Kenshin Dragon Quest: Yomigaerishi Densetsu no Tsurugi | 267376 | [267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json](./267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json) |
 | Kenshuui Tendou Dokuta | 92634 | [92634-kenshuui-tendou-dokuta.json](./92634-kenshuui-tendou-dokuta.json) |
 | Kentilla | 26465 | [26465-kentilla.json](./26465-kentilla.json) |
@@ -3107,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Epic Yarn | 2184 | [2184-kirbys-epic-yarn.json](./2184-kirbys-epic-yarn.json) |
 | Kirby's Halloween Adventure | 212961 | [212961-kirbys-halloween-adventure.json](./212961-kirbys-halloween-adventure.json) |
 | Kirby's Pinball Land DX | 279225 | [279225-kirbys-pinball-land-dx.json](./279225-kirbys-pinball-land-dx.json) |
+| Kirby's Return to Dream Land | 3725 | [3725-kirbys-return-to-dream-land.json](./3725-kirbys-return-to-dream-land.json) |
 | Kirchhoff's Revenge | 89398 | [89398-kirchhoffs-revenge.json](./89398-kirchhoffs-revenge.json) |
 | Kirei Zukin Seikatsu 2 | 325723 | [325723-kirei-zukin-seikatsu-2.json](./325723-kirei-zukin-seikatsu-2.json) |
 | Kirel | 36917 | [36917-kirel.json](./36917-kirel.json) |
