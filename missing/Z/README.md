@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ziggy Putts | 58188 | [58188-ziggy-putts.json](./58188-ziggy-putts.json) |
 | Ziggy Road | 235136 | [235136-ziggy-road.json](./235136-ziggy-road.json) |
 | Ziggy Zaggy | 276120 | [276120-ziggy-zaggy.json](./276120-ziggy-zaggy.json) |
+| Ziggy's Chase | 27400 | [27400-ziggys-chase.json](./27400-ziggys-chase.json) |
 | Ziggy's Labyrinth | 286573 | [286573-ziggys-labyrinth.json](./286573-ziggys-labyrinth.json) |
 | ZigZag | 231998 | [231998-zigzag.json](./231998-zigzag.json) |
 | ZigZag | 26920 | [26920-zigzag.json](./26920-zigzag.json) |
