@@ -4203,6 +4203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XVI Expansion Pass | 279665 | [279665-final-fantasy-xvi-expansion-pass.json](./279665-final-fantasy-xvi-expansion-pass.json) |
 | Final Fantasy XVI: Complete Edition | 318557 | [318557-final-fantasy-xvi-complete-edition.json](./318557-final-fantasy-xvi-complete-edition.json) |
 | Final Fantasy XVI: Deluxe Edition | 228738 | [228738-final-fantasy-xvi-deluxe-edition.json](./228738-final-fantasy-xvi-deluxe-edition.json) |
+| Final Fantasy: 20th Anniversary Edition | 397 | [397-final-fantasy-20th-anniversary-edition.json](./397-final-fantasy-20th-anniversary-edition.json) |
 | Final Fantasy: Blackmoon Prophecy | 210027 | [210027-final-fantasy-blackmoon-prophecy.json](./210027-final-fantasy-blackmoon-prophecy.json) |
 | Final Fantasy: Blackmoon Prophecy II | 210030 | [210030-final-fantasy-blackmoon-prophecy-ii.json](./210030-final-fantasy-blackmoon-prophecy-ii.json) |
 | Final Fantasy: Crystal Chronicles | 412 | [412-final-fantasy-crystal-chronicles.json](./412-final-fantasy-crystal-chronicles.json) |
@@ -9750,6 +9751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Daddy's Dash | 229255 | [229255-frog-daddys-dash.json](./229255-frog-daddys-dash.json) |
 | Frog Demon | 113289 | [113289-frog-demon.json](./113289-frog-demon.json) |
 | Frog Detective -1 | 325675 | [325675-frog-detective-1.json](./325675-frog-detective-1.json) |
+| Frog Detective 2: The Case of the Invisible Wizard | 121338 | [121338-frog-detective-2-the-case-of-the-invisible-wizard.json](./121338-frog-detective-2-the-case-of-the-invisible-wizard.json) |
 | Frog Detective 3: Corruption at Cowboy County | 161552 | [161552-frog-detective-3-corruption-at-cowboy-county.json](./161552-frog-detective-3-corruption-at-cowboy-county.json) |
 | Frog Fable | 95971 | [95971-frog-fable.json](./95971-frog-fable.json) |
 | Frog Fall | 410328 | [410328-frog-fall.json](./410328-frog-fall.json) |
