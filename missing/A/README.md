@@ -2978,7 +2978,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -4813,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Al Andalus 711 | 213273 | [213273-al-andalus-711.json](./213273-al-andalus-711.json) |
 | Al Capone | 421189 | [421189-al-capone.json](./421189-al-capone.json) |
 | Al Crepuscolo VR | 227677 | [227677-al-crepuscolo-vr.json](./227677-al-crepuscolo-vr.json) |
+| Al Emmo and the Lost Dutchman's Mine | 17330 | [17330-al-emmo-and-the-lost-dutchmans-mine.json](./17330-al-emmo-and-the-lost-dutchmans-mine.json) |
 | Al Gurbish in... Nick it & Run!!! | 316060 | [316060-al-gurbish-in-nick-it-and-run.json](./316060-al-gurbish-in-nick-it-and-run.json) |
 | Al Qaeda Hunting 3D | 370846 | [370846-al-qaeda-hunting-3d.json](./370846-al-qaeda-hunting-3d.json) |
 | Al Qmrah Restaurant | 213975 | [213975-al-qmrah-restaurant.json](./213975-al-qmrah-restaurant.json) |
@@ -10829,6 +10829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Constellation | 295012 | [295012-arena-constellation.json](./295012-arena-constellation.json) |
 | Arena Drift Master | 192212 | [192212-arena-drift-master.json](./192212-arena-drift-master.json) |
 | Arena Football | 5731 | [5731-arena-football.json](./5731-arena-football.json) |
+| Arena Football: Road to Glory | 17276 | [17276-arena-football-road-to-glory.json](./17276-arena-football-road-to-glory.json) |
 | Arena Gods | 34267 | [34267-arena-gods.json](./34267-arena-gods.json) |
 | Arena II | 359082 | [359082-arena-ii.json](./359082-arena-ii.json) |
 | Arena Kingdoms | 265690 | [265690-arena-kingdoms.json](./265690-arena-kingdoms.json) |
@@ -11068,6 +11069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark's Wonder Dungeon | 321588 | [321588-arks-wonder-dungeon.json](./321588-arks-wonder-dungeon.json) |
 | Arkadia | 193835 | [193835-arkadia.json](./193835-arkadia.json) |
 | Arkadia | 338155 | [338155-arkadia.json](./338155-arkadia.json) |
+| Arkadian Warriors | 21867 | [21867-arkadian-warriors.json](./21867-arkadian-warriors.json) |
 | Arkadianax | 62654 | [62654-arkadianax.json](./62654-arkadianax.json) |
 | Arkady Survive | 117658 | [117658-arkady-survive.json](./117658-arkady-survive.json) |
 | Arkagis Revolution | 141025 | [141025-arkagis-revolution.json](./141025-arkagis-revolution.json) |
