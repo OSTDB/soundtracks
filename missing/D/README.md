@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls III: Day One Edition | 89841 | [89841-dark-souls-iii-day-one-edition.json](./89841-dark-souls-iii-day-one-edition.json) |
 | Dark Souls III: Deluxe Edition | 47486 | [47486-dark-souls-iii-deluxe-edition.json](./47486-dark-souls-iii-deluxe-edition.json) |
 | Dark Souls III: The Convergence | 188607 | [188607-dark-souls-iii-the-convergence.json](./188607-dark-souls-iii-the-convergence.json) |
+| Dark Souls III: The Fire Fades Edition | 28210 | [28210-dark-souls-iii-the-fire-fades-edition.json](./28210-dark-souls-iii-the-fire-fades-edition.json) |
 | Dark Souls III: The Ringed City | 26916 | [26916-dark-souls-iii-the-ringed-city.json](./26916-dark-souls-iii-the-ringed-city.json) |
 | Dark Souls Trilogy | 114143 | [114143-dark-souls-trilogy.json](./114143-dark-souls-trilogy.json) |
 | Dark Souls Trilogy Box | 81201 | [81201-dark-souls-trilogy-box.json](./81201-dark-souls-trilogy-box.json) |
@@ -5451,6 +5452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deploy and Destroy: Ash vs ED | 103550 | [103550-deploy-and-destroy-ash-vs-ed.json](./103550-deploy-and-destroy-ash-vs-ed.json) |
 | DEPO: Death Epileptic Pixel Origins | 207316 | [207316-depo-death-epileptic-pixel-origins.json](./207316-depo-death-epileptic-pixel-origins.json) |
 | Deponia Collection | 119068 | [119068-deponia-collection.json](./119068-deponia-collection.json) |
+| Deponia Doomsday | 19300 | [19300-deponia-doomsday.json](./19300-deponia-doomsday.json) |
 | Deponia: The Complete Journey | 17224 | [17224-deponia-the-complete-journey.json](./17224-deponia-the-complete-journey.json) |
 | Deported 2: Build That Wall | 112784 | [112784-deported-2-build-that-wall.json](./112784-deported-2-build-that-wall.json) |
 | Deported: Drain the Swamp | 111422 | [111422-deported-drain-the-swamp.json](./111422-deported-drain-the-swamp.json) |
@@ -5969,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Black Armory | 112408 | [112408-destiny-2-black-armory.json](./112408-destiny-2-black-armory.json) |
 | Destiny 2: Digital Deluxe Edition | 52887 | [52887-destiny-2-digital-deluxe-edition.json](./52887-destiny-2-digital-deluxe-edition.json) |
 | Destiny 2: Echoes | 305328 | [305328-destiny-2-echoes.json](./305328-destiny-2-echoes.json) |
+| Destiny 2: Forsaken | 103204 | [103204-destiny-2-forsaken.json](./103204-destiny-2-forsaken.json) |
 | Destiny 2: Forsaken - Digital Deluxe Edition | 132150 | [132150-destiny-2-forsaken-digital-deluxe-edition.json](./132150-destiny-2-forsaken-digital-deluxe-edition.json) |
 | Destiny 2: Forsaken - Legendary Collection | 118692 | [118692-destiny-2-forsaken-legendary-collection.json](./118692-destiny-2-forsaken-legendary-collection.json) |
 | Destiny 2: Forsaken Pack | 227352 | [227352-destiny-2-forsaken-pack.json](./227352-destiny-2-forsaken-pack.json) |
@@ -10173,6 +10176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Country: Pacifist Mode | 361715 | [361715-donkey-kong-country-pacifist-mode.json](./361715-donkey-kong-country-pacifist-mode.json) |
 | Donkey Kong Country: The Trilogy | 172504 | [172504-donkey-kong-country-the-trilogy.json](./172504-donkey-kong-country-the-trilogy.json) |
 | Donkey Kong Country: Tropical Freeze | 2923 | [2923-donkey-kong-country-tropical-freeze.json](./2923-donkey-kong-country-tropical-freeze.json) |
+| Donkey Kong Country: Tropical Freeze | 85576 | [85576-donkey-kong-country-tropical-freeze.json](./85576-donkey-kong-country-tropical-freeze.json) |
 | Donkey Kong Craze | 191268 | [191268-donkey-kong-craze.json](./191268-donkey-kong-craze.json) |
 | Donkey Kong Game Watch | 172538 | [172538-donkey-kong-game-watch.json](./172538-donkey-kong-game-watch.json) |
 | Donkey Kong GB: Dinky Kong & Dixie Kong | 50039 | [50039-donkey-kong-gb-dinky-kong-and-dixie-kong.json](./50039-donkey-kong-gb-dinky-kong-and-dixie-kong.json) |
@@ -10787,6 +10791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoReMi Fantasy: Milon's DokiDoki Adventure | 15908 | [15908-doremi-fantasy-milons-dokidoki-adventure.json](./15908-doremi-fantasy-milons-dokidoki-adventure.json) |
 | Doremikko | 41315 | [41315-doremikko.json](./41315-doremikko.json) |
 | Dorf the Dwarf | 309378 | [309378-dorf-the-dwarf.json](./309378-dorf-the-dwarf.json) |
+| Dorfromantik | 134799 | [134799-dorfromantik.json](./134799-dorfromantik.json) |
 | Dorfs: Hammers for Hire | 203936 | [203936-dorfs-hammers-for-hire.json](./203936-dorfs-hammers-for-hire.json) |
 | Doria & the Tide Song | 410378 | [410378-doria-and-the-tide-song.json](./410378-doria-and-the-tide-song.json) |
 | Dorian Morris Adventure | 110750 | [110750-dorian-morris-adventure.json](./110750-dorian-morris-adventure.json) |
@@ -14125,6 +14130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Hard | 218118 | [218118-duke-hard.json](./218118-duke-hard.json) |
 | Duke It's Zero Hour | 270656 | [270656-duke-its-zero-hour.json](./270656-duke-its-zero-hour.json) |
 | Duke Mansion | 308472 | [308472-duke-mansion.json](./308472-duke-mansion.json) |
+| Duke Nukem | 957 | [957-duke-nukem.json](./957-duke-nukem.json) |
 | Duke Nukem 1+2 | 137548 | [137548-duke-nukem-1-2.json](./137548-duke-nukem-1-2.json) |
 | Duke Nukem 1+2 Remastered | 251709 | [251709-duke-nukem-1-2-remastered.json](./251709-duke-nukem-1-2-remastered.json) |
 | Duke Nukem 3D | 198734 | [198734-duke-nukem-3d.json](./198734-duke-nukem-3d.json) |
