@@ -3965,6 +3965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remember When | 155382 | [155382-remember-when.json](./155382-remember-when.json) |
 | Remember, Lights Out | 126882 | [126882-remember-lights-out.json](./126882-remember-lights-out.json) |
 | Remember, Remember | 36495 | [36495-remember-remember.json](./36495-remember-remember.json) |
+| Remember11: The Age of Infinity | 18040 | [18040-remember11-the-age-of-infinity.json](./18040-remember11-the-age-of-infinity.json) |
 | Remembering Emily | 348865 | [348865-remembering-emily.json](./348865-remembering-emily.json) |
 | Remembering Which Buttons Take However Long to Press | 57713 | [57713-remembering-which-buttons-take-however-long-to-press.json](./57713-remembering-which-buttons-take-however-long-to-press.json) |
 | Remembrance | 181889 | [181889-remembrance.json](./181889-remembrance.json) |
@@ -7368,6 +7369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotics in VR | 189924 | [189924-robotics-in-vr.json](./189924-robotics-in-vr.json) |
 | Robotics;Notes | 7162 | [7162-robotics-notes.json](./7162-robotics-notes.json) |
 | Robotics;Notes Double Pack | 132650 | [132650-robotics-notes-double-pack.json](./132650-robotics-notes-double-pack.json) |
+| Robotics;Notes Elite | 103406 | [103406-robotics-notes-elite.json](./103406-robotics-notes-elite.json) |
 | Robotics! | 362170 | [362170-robotics.json](./362170-robotics.json) |
 | Robotix: The Escape | 128841 | [128841-robotix-the-escape.json](./128841-robotix-the-escape.json) |
 | Robotization: A Last Human | 225223 | [225223-robotization-a-last-human.json](./225223-robotization-a-last-human.json) |
@@ -8449,6 +8451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollerpede | 108809 | [108809-rollerpede.json](./108809-rollerpede.json) |
 | RollerPlay | 121017 | [121017-rollerplay.json](./121017-rollerplay.json) |
 | Rollers | 127223 | [127223-rollers.json](./127223-rollers.json) |
+| Rollers of the Realm | 16823 | [16823-rollers-of-the-realm.json](./16823-rollers-of-the-realm.json) |
 | Rollick N' Roll | 339645 | [339645-rollick-n-roll.json](./339645-rollick-n-roll.json) |
 | Rollie | 143073 | [143073-rollie.json](./143073-rollie.json) |
 | Rollie Panda Hat Edition | 105672 | [105672-rollie-panda-hat-edition.json](./105672-rollie-panda-hat-edition.json) |
@@ -8995,6 +8998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose in the Embers | 238910 | [238910-rose-in-the-embers.json](./238910-rose-in-the-embers.json) |
 | Rose of Longevity | 326822 | [326822-rose-of-longevity.json](./326822-rose-of-longevity.json) |
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
+| Rose Online | 16391 | [16391-rose-online.json](./16391-rose-online.json) |
 | Rose Puzzle | 91097 | [91097-rose-puzzle.json](./91097-rose-puzzle.json) |
 | Rose Racer | 60946 | [60946-rose-racer.json](./60946-rose-racer.json) |
 | Rose Riddle 2: Werewolf Shadow | 127619 | [127619-rose-riddle-2-werewolf-shadow.json](./127619-rose-riddle-2-werewolf-shadow.json) |
@@ -9179,6 +9183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rounded Strategy | 102042 | [102042-rounded-strategy.json](./102042-rounded-strategy.json) |
 | Rounders | 220746 | [220746-rounders.json](./220746-rounders.json) |
 | Rounders (Arena) | 98991 | [98991-rounders-arena.json](./98991-rounders-arena.json) |
+| Roundguard | 97114 | [97114-roundguard.json](./97114-roundguard.json) |
 | Rounding Demon | 123505 | [123505-rounding-demon.json](./123505-rounding-demon.json) |
 | RoundRick: Brick Breaker | 251201 | [251201-roundrick-brick-breaker.json](./251201-roundrick-brick-breaker.json) |
 | RoundRunners Playground | 253608 | [253608-roundrunners-playground.json](./253608-roundrunners-playground.json) |
