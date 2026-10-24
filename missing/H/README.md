@@ -4880,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic II: Gold | 51821 | [51821-heroes-of-might-and-magic-ii-gold.json](./51821-heroes-of-might-and-magic-ii-gold.json) |
 | Heroes of Might and Magic II: The Price of Loyalty | 7742 | [7742-heroes-of-might-and-magic-ii-the-price-of-loyalty.json](./7742-heroes-of-might-and-magic-ii-the-price-of-loyalty.json) |
 | Heroes of Might and Magic II: The Succession Wars | 209871 | [209871-heroes-of-might-and-magic-ii-the-succession-wars.json](./209871-heroes-of-might-and-magic-ii-the-succession-wars.json) |
+| Heroes of Might and Magic II: The Succession Wars | 363 | [363-heroes-of-might-and-magic-ii-the-succession-wars.json](./363-heroes-of-might-and-magic-ii-the-succession-wars.json) |
 | Heroes of Might and Magic III: Armageddon's Blade | 365 | [365-heroes-of-might-and-magic-iii-armageddons-blade.json](./365-heroes-of-might-and-magic-iii-armageddons-blade.json) |
 | Heroes of Might and Magic III: Complete | 51820 | [51820-heroes-of-might-and-magic-iii-complete.json](./51820-heroes-of-might-and-magic-iii-complete.json) |
 | Heroes of Might and Magic III: The Shadow of Death | 366 | [366-heroes-of-might-and-magic-iii-the-shadow-of-death.json](./366-heroes-of-might-and-magic-iii-the-shadow-of-death.json) |
