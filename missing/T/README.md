@@ -1727,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks Online | 384275 | [384275-tanks-online.json](./384275-tanks-online.json) |
 | Tanks Racing Sim | 339417 | [339417-tanks-racing-sim.json](./339417-tanks-racing-sim.json) |
 | Tanks Rebirth | 357342 | [357342-tanks-rebirth.json](./357342-tanks-rebirth.json) |
+| Tanks VR | 82401 | [82401-tanks-vr.json](./82401-tanks-vr.json) |
 | Tanks VS Demons | 118079 | [118079-tanks-vs-demons.json](./118079-tanks-vs-demons.json) |
 | Tanks vs Tanks: PvP | 214044 | [214044-tanks-vs-tanks-pvp.json](./214044-tanks-vs-tanks-pvp.json) |
 | Tanks vs. Aliens | 36500 | [36500-tanks-vs-aliens.json](./36500-tanks-vs-aliens.json) |
@@ -3324,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis | 359292 | [359292-tennis.json](./359292-tennis.json) |
 | Tennis | 64208 | [64208-tennis.json](./64208-tennis.json) |
 | Tennis | 74548 | [74548-tennis.json](./74548-tennis.json) |
+| Tennis | 82527 | [82527-tennis.json](./82527-tennis.json) |
 | Tennis 2003 | 23712 | [23712-tennis-2003.json](./23712-tennis-2003.json) |
 | Tennis 2024 Simulator | 280149 | [280149-tennis-2024-simulator.json](./280149-tennis-2024-simulator.json) |
 | Tennis 2K2 | 45843 | [45843-tennis-2k2.json](./45843-tennis-2k2.json) |
@@ -6817,6 +6819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dis-United States of America | 126405 | [126405-the-dis-united-states-of-america.json](./126405-the-dis-united-states-of-america.json) |
 | The Disappearance of Emily Crowe | 406859 | [406859-the-disappearance-of-emily-crowe.json](./406859-the-disappearance-of-emily-crowe.json) |
 | The Disappearance of the Mitchells | 134083 | [134083-the-disappearance-of-the-mitchells.json](./134083-the-disappearance-of-the-mitchells.json) |
+| The Disappearing of Gensokyo | 81958 | [81958-the-disappearing-of-gensokyo.json](./81958-the-disappearing-of-gensokyo.json) |
 | The Disappearing of Gensokyo: Kogasa, Iku Character Pack | 170423 | [170423-the-disappearing-of-gensokyo-kogasa-iku-character-pack.json](./170423-the-disappearing-of-gensokyo-kogasa-iku-character-pack.json) |
 | The Disappearing of Gensokyo: Patchouli | 210118 | [210118-the-disappearing-of-gensokyo-patchouli.json](./210118-the-disappearing-of-gensokyo-patchouli.json) |
 | The Disappearing of Gensokyo: Sakuya, Koishi, Suika | 210121 | [210121-the-disappearing-of-gensokyo-sakuya-koishi-suika.json](./210121-the-disappearing-of-gensokyo-sakuya-koishi-suika.json) |
@@ -11545,7 +11548,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -12032,6 +12034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Path of Calydra | 138527 | [138527-the-path-of-calydra.json](./138527-the-path-of-calydra.json) |
 | The Path of Greatest Resistance | 32372 | [32372-the-path-of-greatest-resistance.json](./32372-the-path-of-greatest-resistance.json) |
 | The Path of Hercules | 356230 | [356230-the-path-of-hercules.json](./356230-the-path-of-hercules.json) |
+| The Path of Motus | 68864 | [68864-the-path-of-motus.json](./68864-the-path-of-motus.json) |
 | The Path of Ren | 149379 | [149379-the-path-of-ren.json](./149379-the-path-of-ren.json) |
 | The Path of the Pumpkin | 125141 | [125141-the-path-of-the-pumpkin.json](./125141-the-path-of-the-pumpkin.json) |
 | The Path of Veins | 319270 | [319270-the-path-of-veins.json](./319270-the-path-of-veins.json) |
@@ -12448,6 +12451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Queens Gondola | 404841 | [404841-the-queens-gondola.json](./404841-the-queens-gondola.json) |
 | The Queens Number | 133750 | [133750-the-queens-number.json](./133750-the-queens-number.json) |
 | The Quest | 23962 | [23962-the-quest.json](./23962-the-quest.json) |
+| The Quest | 82015 | [82015-the-quest.json](./82015-the-quest.json) |
 | The Quest - Hero of Lukomorye III | 105770 | [105770-the-quest-hero-of-lukomorye-iii.json](./105770-the-quest-hero-of-lukomorye-iii.json) |
 | The Quest Classic: Asteroids | 205603 | [205603-the-quest-classic-asteroids.json](./205603-the-quest-classic-asteroids.json) |
 | The Quest for Achievements | 334744 | [334744-the-quest-for-achievements.json](./334744-the-quest-for-achievements.json) |
@@ -22385,6 +22389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic Crusaders | 8022 | [8022-toxic-crusaders.json](./8022-toxic-crusaders.json) |
 | Toxic Grind | 6215 | [6215-toxic-grind.json](./6215-toxic-grind.json) |
 | Toxic Mayhem: The Troma Project | 74009 | [74009-toxic-mayhem-the-troma-project.json](./74009-toxic-mayhem-the-troma-project.json) |
+| Toxic Plumbing | 81972 | [81972-toxic-plumbing.json](./81972-toxic-plumbing.json) |
 | Toxic Terror: Episode 2 - The Lich's Lair | 170391 | [170391-toxic-terror-episode-2-the-lichs-lair.json](./170391-toxic-terror-episode-2-the-lichs-lair.json) |
 | Toxic Therapy | 306420 | [306420-toxic-therapy.json](./306420-toxic-therapy.json) |
 | Toxic Toads | 322973 | [322973-toxic-toads.json](./322973-toxic-toads.json) |
@@ -24733,6 +24738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunter | 327577 | [327577-treasure-hunter.json](./327577-treasure-hunter.json) |
 | Treasure Hunter | 60042 | [60042-treasure-hunter.json](./60042-treasure-hunter.json) |
 | Treasure Hunter | 76627 | [76627-treasure-hunter.json](./76627-treasure-hunter.json) |
+| Treasure Hunter Claire | 82844 | [82844-treasure-hunter-claire.json](./82844-treasure-hunter-claire.json) |
 | Treasure Hunter G | 15844 | [15844-treasure-hunter-g.json](./15844-treasure-hunter-g.json) |
 | Treasure Hunter Simulator 2 | 153995 | [153995-treasure-hunter-simulator-2.json](./153995-treasure-hunter-simulator-2.json) |
 | Treasure Hunter X | 85522 | [85522-treasure-hunter-x.json](./85522-treasure-hunter-x.json) |
