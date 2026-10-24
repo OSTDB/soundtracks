@@ -6123,6 +6123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of Broadsides | 63202 | [63202-choice-of-broadsides.json](./63202-choice-of-broadsides.json) |
 | Choice of Broadsides: HMS Foraker | 109340 | [109340-choice-of-broadsides-hms-foraker.json](./109340-choice-of-broadsides-hms-foraker.json) |
 | Choice of Life: Floors | 390183 | [390183-choice-of-life-floors.json](./390183-choice-of-life-floors.json) |
+| Choice of Life: Middle Ages | 142312 | [142312-choice-of-life-middle-ages.json](./142312-choice-of-life-middle-ages.json) |
 | Choice of Life: Samosbor | 158645 | [158645-choice-of-life-samosbor.json](./158645-choice-of-life-samosbor.json) |
 | Choice of Life: Wild Islands | 253576 | [253576-choice-of-life-wild-islands.json](./253576-choice-of-life-wild-islands.json) |
 | Choice of Magics | 107060 | [107060-choice-of-magics.json](./107060-choice-of-magics.json) |
@@ -14793,6 +14794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt: The Black Tower | 84059 | [84059-crypt-the-black-tower.json](./84059-crypt-the-black-tower.json) |
 | Cryptage | 333114 | [333114-cryptage.json](./333114-cryptage.json) |
 | CryptantCrab | 110043 | [110043-cryptantcrab.json](./110043-cryptantcrab.json) |
+| Cryptark | 13365 | [13365-cryptark.json](./13365-cryptark.json) |
 | CryptaSync Cyber: Urban Depths | 271111 | [271111-cryptasync-cyber-urban-depths.json](./271111-cryptasync-cyber-urban-depths.json) |
 | Cryptic | 122425 | [122425-cryptic.json](./122425-cryptic.json) |
 | Cryptic Castle | 146854 | [146854-cryptic-castle.json](./146854-cryptic-castle.json) |
