@@ -4676,6 +4676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beef Cat Ultra | 295104 | [295104-beef-cat-ultra.json](./295104-beef-cat-ultra.json) |
 | Beef Street | 343425 | [343425-beef-street.json](./343425-beef-street.json) |
 | BeefArena | 345262 | [345262-beefarena.json](./345262-beefarena.json) |
+| BeefeaterXO | 29517 | [29517-beefeaterxo.json](./29517-beefeaterxo.json) |
 | BeeFender | 89267 | [89267-beefender.json](./89267-beefender.json) |
 | BeeFense | 29096 | [29096-beefense.json](./29096-beefense.json) |
 | BeeFense BeeMastered | 148400 | [148400-beefense-beemastered.json](./148400-beefense-beemastered.json) |
@@ -5390,6 +5391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bestie Walzer | 98435 | [98435-bestie-walzer.json](./98435-bestie-walzer.json) |
 | Bestowers of Eternity | 73763 | [73763-bestowers-of-eternity.json](./73763-bestowers-of-eternity.json) |
 | Bestri | 263649 | [263649-bestri.json](./263649-bestri.json) |
+| Bestseller: Curse of the Golden Owl | 29506 | [29506-bestseller-curse-of-the-golden-owl.json](./29506-bestseller-curse-of-the-golden-owl.json) |
 | BeSwitched Magic Match 3 | 106472 | [106472-beswitched-magic-match-3.json](./106472-beswitched-magic-match-3.json) |
 | Bet on Beta | 415119 | [415119-bet-on-beta.json](./415119-bet-on-beta.json) |
 | Bet on Man | 114857 | [114857-bet-on-man.json](./114857-bet-on-man.json) |
