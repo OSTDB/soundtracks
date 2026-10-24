@@ -3067,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Golf | 3401 | [3401-mario-golf.json](./3401-mario-golf.json) |
 | Mario Golf | 340732 | [340732-mario-golf.json](./340732-mario-golf.json) |
 | Mario Golf: Super Rush | 143609 | [143609-mario-golf-super-rush.json](./143609-mario-golf-super-rush.json) |
+| Mario Golf: Toadstool Tour | 3403 | [3403-mario-golf-toadstool-tour.json](./3403-mario-golf-toadstool-tour.json) |
 | Mario Golf: World Tour | 3405 | [3405-mario-golf-world-tour.json](./3405-mario-golf-world-tour.json) |
 | Mario Golf: World Tour - Flower Pack | 309117 | [309117-mario-golf-world-tour-flower-pack.json](./309117-mario-golf-world-tour-flower-pack.json) |
 | Mario Golf: World Tour - Mushroom Pack | 309116 | [309116-mario-golf-world-tour-mushroom-pack.json](./309116-mario-golf-world-tour-mushroom-pack.json) |
@@ -4048,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Brawl | 256354 | [256354-mass-brawl.json](./256354-mass-brawl.json) |
 | Mass Conflict: Ignition | 309458 | [309458-mass-conflict-ignition.json](./309458-mass-conflict-ignition.json) |
 | Mass Destruction | 2613 | [2613-mass-destruction.json](./2613-mass-destruction.json) |
+| Mass Effect | 243928 | [243928-mass-effect.json](./243928-mass-effect.json) |
 | Mass Effect 2: Arrival | 13794 | [13794-mass-effect-2-arrival.json](./13794-mass-effect-2-arrival.json) |
 | Mass Effect 2: Cerberus Network | 202312 | [202312-mass-effect-2-cerberus-network.json](./202312-mass-effect-2-cerberus-network.json) |
 | Mass Effect 2: Collector's Edition | 43957 | [43957-mass-effect-2-collectors-edition.json](./43957-mass-effect-2-collectors-edition.json) |
@@ -5978,6 +5980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man | 236703 | [236703-mega-man.json](./236703-mega-man.json) |
 | Mega Man | 281415 | [281415-mega-man.json](./281415-mega-man.json) |
 | Mega Man & Mega Man X 5in1 Special Box | 124033 | [124033-mega-man-and-mega-man-x-5in1-special-box.json](./124033-mega-man-and-mega-man-x-5in1-special-box.json) |
+| Mega Man 10 | 1723 | [1723-mega-man-10.json](./1723-mega-man-10.json) |
 | Mega Man 11 | 76723 | [76723-mega-man-11.json](./76723-mega-man-11.json) |
 | Mega Man 11: Amiibo Edition | 178398 | [178398-mega-man-11-amiibo-edition.json](./178398-mega-man-11-amiibo-edition.json) |
 | Mega Man 11: Collector's Package | 167160 | [167160-mega-man-11-collectors-package.json](./167160-mega-man-11-collectors-package.json) |
@@ -11012,6 +11015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss World '96: Nude | 63152 | [63152-miss-world-96-nude.json](./63152-miss-world-96-nude.json) |
 | Miss You | 157915 | [157915-miss-you.json](./157915-miss-you.json) |
 | Missão Bioma | 341277 | [341277-missao-bioma.json](./341277-missao-bioma.json) |
+| Missed Messages. | 118171 | [118171-missed-messages.json](./118171-missed-messages.json) |
 | Misshapen | 128977 | [128977-misshapen.json](./128977-misshapen.json) |
 | Missi | 333971 | [333971-missi.json](./333971-missi.json) |
 | Missile Attack | 245437 | [245437-missile-attack.json](./245437-missile-attack.json) |
