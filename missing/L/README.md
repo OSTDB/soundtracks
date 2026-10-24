@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Attraction | 144762 | [144762-laser-attraction.json](./144762-laser-attraction.json) |
 | Laser Ball | 57556 | [57556-laser-ball.json](./57556-laser-ball.json) |
 | Laser Ball | 95664 | [95664-laser-ball.json](./95664-laser-ball.json) |
+| Laser Base | 40584 | [40584-laser-base.json](./40584-laser-base.json) |
 | Laser Battle Cats: Travel & Destroy! | 364058 | [364058-laser-battle-cats-travel-and-destroy.json](./364058-laser-battle-cats-travel-and-destroy.json) |
 | Laser Blast | 18034 | [18034-laser-blast.json](./18034-laser-blast.json) |
 | Laser Blast! | 290341 | [290341-laser-blast.json](./290341-laser-blast.json) |
@@ -6748,6 +6749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotia | 30621 | [30621-lotia.json](./30621-lotia.json) |
 | Lotion Samurai | 161400 | [161400-lotion-samurai.json](./161400-lotion-samurai.json) |
 | Lotion Samurai for Nintendo Switch | 249785 | [249785-lotion-samurai-for-nintendo-switch.json](./249785-lotion-samurai-for-nintendo-switch.json) |
+| Lotlot | 40565 | [40565-lotlot.json](./40565-lotlot.json) |
 | LotR: Realms in Exile | 277527 | [277527-lotr-realms-in-exile.json](./277527-lotr-realms-in-exile.json) |
 | Lots of Balls | 84015 | [84015-lots-of-balls.json](./84015-lots-of-balls.json) |
 | Lots of Bugs | 405064 | [405064-lots-of-bugs.json](./405064-lots-of-bugs.json) |
