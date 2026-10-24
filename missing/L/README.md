@@ -5754,6 +5754,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Voyage | 345648 | [345648-lone-voyage.json](./345648-lone-voyage.json) |
 | Lone Wolf DS I: Flight From The Dark | 308379 | [308379-lone-wolf-ds-i-flight-from-the-dark.json](./308379-lone-wolf-ds-i-flight-from-the-dark.json) |
 | Lone Wolf Saga | 273956 | [273956-lone-wolf-saga.json](./273956-lone-wolf-saga.json) |
+| Lone Wolf: Fire on the Water | 14069 | [14069-lone-wolf-fire-on-the-water.json](./14069-lone-wolf-fire-on-the-water.json) |
+| Lone Wolf: Flight from the Dark | 14074 | [14074-lone-wolf-flight-from-the-dark.json](./14074-lone-wolf-flight-from-the-dark.json) |
 | Lone Wolf: Horizon | 33857 | [33857-lone-wolf-horizon.json](./33857-lone-wolf-horizon.json) |
 | Lone Wolf: World War 2 | 142264 | [142264-lone-wolf-world-war-2.json](./142264-lone-wolf-world-war-2.json) |
 | lone.AI | 295404 | [295404-lone-ai.json](./295404-lone-ai.json) |
@@ -6711,6 +6713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Souls | 229110 | [229110-lost-souls.json](./229110-lost-souls.json) |
 | Lost Souls: Timeless Fables - Collector's Edition | 88500 | [88500-lost-souls-timeless-fables-collectors-edition.json](./88500-lost-souls-timeless-fables-collectors-edition.json) |
 | Lost Space: Ascend | 103100 | [103100-lost-space-ascend.json](./103100-lost-space-ascend.json) |
+| Lost Squad | 17129 | [17129-lost-squad.json](./17129-lost-squad.json) |
 | Lost Station | 250866 | [250866-lost-station.json](./250866-lost-station.json) |
 | Lost Summoner Kitty | 80900 | [80900-lost-summoner-kitty.json](./80900-lost-summoner-kitty.json) |
 | Lost Sunday Comics | 192797 | [192797-lost-sunday-comics.json](./192797-lost-sunday-comics.json) |
