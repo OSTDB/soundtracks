@@ -2850,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead in Your TrackZ | 358913 | [358913-dead-in-your-trackz.json](./358913-dead-in-your-trackz.json) |
 | Dead Ink | 164259 | [164259-dead-ink.json](./164259-dead-ink.json) |
 | Dead Inside | 240136 | [240136-dead-inside.json](./240136-dead-inside.json) |
+| Dead Inside | 30556 | [30556-dead-inside.json](./30556-dead-inside.json) |
 | Dead Inside | 377576 | [377576-dead-inside.json](./377576-dead-inside.json) |
 | Dead Invaders: Modern War 3D | 216164 | [216164-dead-invaders-modern-war-3d.json](./216164-dead-invaders-modern-war-3d.json) |
 | Dead Island 2: Character Pack - Cyber Slayer Amy | 304454 | [304454-dead-island-2-character-pack-cyber-slayer-amy.json](./304454-dead-island-2-character-pack-cyber-slayer-amy.json) |
@@ -3861,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debris II | 151855 | [151855-debris-ii.json](./151855-debris-ii.json) |
 | Debris Infinity | 76331 | [76331-debris-infinity.json](./76331-debris-infinity.json) |
 | Debrisverse | 408000 | [408000-debrisverse.json](./408000-debrisverse.json) |
+| Debrysis - an Awesome Badtrip | 30498 | [30498-debrysis-an-awesome-badtrip.json](./30498-debrysis-an-awesome-badtrip.json) |
 | Debt | 192816 | [192816-debt.json](./192816-debt.json) |
 | Debt Deadline | 272383 | [272383-debt-deadline.json](./272383-debt-deadline.json) |
 | Debt of Life | 419903 | [419903-debt-of-life.json](./419903-debt-of-life.json) |
@@ -5696,6 +5698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Rats | 12419 | [12419-desert-rats.json](./12419-desert-rats.json) |
 | Desert Revenant | 204835 | [204835-desert-revenant.json](./204835-desert-revenant.json) |
 | Desert Revenant 2: The Reawakening | 381356 | [381356-desert-revenant-2-the-reawakening.json](./381356-desert-revenant-2-the-reawakening.json) |
+| Desert Ride Coaster | 30584 | [30584-desert-ride-coaster.json](./30584-desert-ride-coaster.json) |
 | Desert Rider | 42149 | [42149-desert-rider.json](./42149-desert-rider.json) |
 | Desert Rigs | 134060 | [134060-desert-rigs.json](./134060-desert-rigs.json) |
 | Desert Runners | 130679 | [130679-desert-runners.json](./130679-desert-runners.json) |
@@ -9792,6 +9795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Die Roguelike | 395892 | [395892-dont-die-roguelike.json](./395892-dont-die-roguelike.json) |
 | Don't Die, Kangel! | 283604 | [283604-dont-die-kangel.json](./283604-dont-die-kangel.json) |
 | Don't Die, Mr. Robot! | 52178 | [52178-dont-die-mr-robot.json](./52178-dont-die-mr-robot.json) |
+| Don't Die: Survival | 30558 | [30558-dont-die-survival.json](./30558-dont-die-survival.json) |
 | Don't Die! | 343340 | [343340-dont-die.json](./343340-dont-die.json) |
 | Don't Die! | 41924 | [41924-dont-die.json](./41924-dont-die.json) |
 | Don't Die! Douche! | 149336 | [149336-dont-die-douche.json](./149336-dont-die-douche.json) |
@@ -13453,6 +13457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drones | 119566 | [119566-drones.json](./119566-drones.json) |
 | Drones and Ruins | 87978 | [87978-drones-and-ruins.json](./87978-drones-and-ruins.json) |
 | Drones Attack | 410863 | [410863-drones-attack.json](./410863-drones-attack.json) |
+| Drones: The Human Condition | 30508 | [30508-drones-the-human-condition.json](./30508-drones-the-human-condition.json) |
 | Drongo's Festive Adventures | 261685 | [261685-drongos-festive-adventures.json](./261685-drongos-festive-adventures.json) |
 | Dronihilation VR | 67928 | [67928-dronihilation-vr.json](./67928-dronihilation-vr.json) |
 | Droning On | 334562 | [334562-droning-on.json](./334562-droning-on.json) |
