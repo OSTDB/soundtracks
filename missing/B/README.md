@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BackStab HD | 19257 | [19257-backstab-hd.json](./19257-backstab-hd.json) |
 | Backstage | 206727 | [206727-backstage.json](./206727-backstage.json) |
 | Backstage at Naked Porn Battle | 280204 | [280204-backstage-at-naked-porn-battle.json](./280204-backstage-at-naked-porn-battle.json) |
+| Backstage Pass | 17194 | [17194-backstage-pass.json](./17194-backstage-pass.json) |
 | Backstage Pass | 234907 | [234907-backstage-pass.json](./234907-backstage-pass.json) |
 | Backstage Pass: The Ultimate Rock and Roll Trivia Game | 205902 | [205902-backstage-pass-the-ultimate-rock-and-roll-trivia-game.json](./205902-backstage-pass-the-ultimate-rock-and-roll-trivia-game.json) |
 | Backstage: Murdered Sleep | 297777 | [297777-backstage-murdered-sleep.json](./297777-backstage-murdered-sleep.json) |
@@ -767,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1273,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballad of Angels | 310927 | [310927-ballad-of-angels.json](./310927-ballad-of-angels.json) |
 | Ballad of Antara | 303809 | [303809-ballad-of-antara.json](./303809-ballad-of-antara.json) |
 | Ballad of Ba'al | 189181 | [189181-ballad-of-baal.json](./189181-ballad-of-baal.json) |
+| Ballad of Solar | 17428 | [17428-ballad-of-solar.json](./17428-ballad-of-solar.json) |
 | Ballad of the Asura | 161182 | [161182-ballad-of-the-asura.json](./161182-ballad-of-the-asura.json) |
 | Ballad of the Judgment Night | 180542 | [180542-ballad-of-the-judgment-night.json](./180542-ballad-of-the-judgment-night.json) |
 | Ballad of the Masked Bandits | 132255 | [132255-ballad-of-the-masked-bandits.json](./132255-ballad-of-the-masked-bandits.json) |
@@ -8452,6 +8455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Breaker | 384648 | [384648-block-breaker.json](./384648-block-breaker.json) |
 | Block Breaker 2 | 200568 | [200568-block-breaker-2.json](./200568-block-breaker-2.json) |
 | Block Breaker 3 Unlimited | 239471 | [239471-block-breaker-3-unlimited.json](./239471-block-breaker-3-unlimited.json) |
+| Block Breaker Deluxe | 21822 | [21822-block-breaker-deluxe.json](./21822-block-breaker-deluxe.json) |
 | Block Breaker Deluxe | 243748 | [243748-block-breaker-deluxe.json](./243748-block-breaker-deluxe.json) |
 | Block Breaker Deluxe 2 | 85718 | [85718-block-breaker-deluxe-2.json](./85718-block-breaker-deluxe-2.json) |
 | Block Breaker Ninja | 158917 | [158917-block-breaker-ninja.json](./158917-block-breaker-ninja.json) |
@@ -10731,6 +10735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boot Camp Endless Runner | 223497 | [223497-boot-camp-endless-runner.json](./223497-boot-camp-endless-runner.json) |
 | Boot Camp Tycoon: Built for Victory | 206464 | [206464-boot-camp-tycoon-built-for-victory.json](./206464-boot-camp-tycoon-built-for-victory.json) |
 | Boot Hill Blaster | 74740 | [74740-boot-hill-blaster.json](./74740-boot-hill-blaster.json) |
+| Boot Hill Heroes | 17264 | [17264-boot-hill-heroes.json](./17264-boot-hill-heroes.json) |
 | Boot Hill Heroes 2 | 60561 | [60561-boot-hill-heroes-2.json](./60561-boot-hill-heroes-2.json) |
 | Boot Hill Heroes: The Hangman's Ballad | 18388 | [18388-boot-hill-heroes-the-hangmans-ballad.json](./18388-boot-hill-heroes-the-hangmans-ballad.json) |
 | Bootèe | 195499 | [195499-bootee.json](./195499-bootee.json) |
