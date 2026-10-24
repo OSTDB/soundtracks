@@ -907,6 +907,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: Beyond Time and Space - Episode 4: Chariots of the Dogs | 27838 | [27838-sam-and-max-beyond-time-and-space-episode-4-chariots-of-the-dogs.json](./27838-sam-and-max-beyond-time-and-space-episode-4-chariots-of-the-dogs.json) |
 | Sam & Max: Save the World | 140878 | [140878-sam-and-max-save-the-world.json](./140878-sam-and-max-save-the-world.json) |
 | Sam & Max: Save the World | 862 | [862-sam-and-max-save-the-world.json](./862-sam-and-max-save-the-world.json) |
+| Sam & Max: Save the World - Episode 2: Situation Comedy | 27822 | [27822-sam-and-max-save-the-world-episode-2-situation-comedy.json](./27822-sam-and-max-save-the-world-episode-2-situation-comedy.json) |
+| Sam & Max: Save the World - Episode 5: Reality 2.0 | 27824 | [27824-sam-and-max-save-the-world-episode-5-reality-2-0.json](./27824-sam-and-max-save-the-world-episode-5-reality-2-0.json) |
 | Sam & Max: The Devil's Playhouse | 9534 | [9534-sam-and-max-the-devils-playhouse.json](./9534-sam-and-max-the-devils-playhouse.json) |
 | Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone | 106205 | [106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json](./106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json) |
 | Sam & Max: The Devil's Playhouse - Episode 4: Beyond the Alley of the Dolls | 127133 | [127133-sam-and-max-the-devils-playhouse-episode-4-beyond-the-alley-of-the-dolls.json](./127133-sam-and-max-the-devils-playhouse-episode-4-beyond-the-alley-of-the-dolls.json) |
@@ -5527,6 +5529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Warrior 3: Definitive Edition | 237681 | [237681-shadow-warrior-3-definitive-edition.json](./237681-shadow-warrior-3-definitive-edition.json) |
 | Shadow Warrior 3: Deluxe Edition | 193749 | [193749-shadow-warrior-3-deluxe-edition.json](./193749-shadow-warrior-3-deluxe-edition.json) |
 | Shadow Warrior Classic Complete | 51914 | [51914-shadow-warrior-classic-complete.json](./51914-shadow-warrior-classic-complete.json) |
+| Shadow Warrior Classic Redux | 30156 | [30156-shadow-warrior-classic-redux.json](./30156-shadow-warrior-classic-redux.json) |
 | Shadow Warrior Collection | 53591 | [53591-shadow-warrior-collection.json](./53591-shadow-warrior-collection.json) |
 | Shadow Warrior: Special Edition | 53592 | [53592-shadow-warrior-special-edition.json](./53592-shadow-warrior-special-edition.json) |
 | Shadow Warriors | 6878 | [6878-shadow-warriors.json](./6878-shadow-warriors.json) |
@@ -8365,6 +8368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Anomalies | 337071 | [337071-silent-anomalies.json](./337071-silent-anomalies.json) |
 | Silent Apartment | 245369 | [245369-silent-apartment.json](./245369-silent-apartment.json) |
 | Silent Authority: Blood & Bourbon | 415876 | [415876-silent-authority-blood-and-bourbon.json](./415876-silent-authority-blood-and-bourbon.json) |
+| Silent Bomber | 24131 | [24131-silent-bomber.json](./24131-silent-bomber.json) |
 | Silent Breach | 323267 | [323267-silent-breach.json](./323267-silent-breach.json) |
 | Silent Breath | 287462 | [287462-silent-breath.json](./287462-silent-breath.json) |
 | Silent Castle | 212491 | [212491-silent-castle.json](./212491-silent-castle.json) |
@@ -11367,6 +11371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Pile of Gibs | 402797 | [402797-small-pile-of-gibs.json](./402797-small-pile-of-gibs.json) |
 | Small Pixel | 105094 | [105094-small-pixel.json](./105094-small-pixel.json) |
 | Small Press Tycoon | 157102 | [157102-small-press-tycoon.json](./157102-small-press-tycoon.json) |
+| Small Radios Big Televisions | 24458 | [24458-small-radios-big-televisions.json](./24458-small-radios-big-televisions.json) |
 | Small Rage | 125789 | [125789-small-rage.json](./125789-small-rage.json) |
 | Small Rockets Mahjongg | 208956 | [208956-small-rockets-mahjongg.json](./208956-small-rockets-mahjongg.json) |
 | Small Sister | 105631 | [105631-small-sister.json](./105631-small-sister.json) |
@@ -24708,6 +24713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bunny Woman | 403663 | [403663-super-bunny-woman.json](./403663-super-bunny-woman.json) |
 | Super Burger Master | 235159 | [235159-super-burger-master.json](./235159-super-burger-master.json) |
 | Super BurgerTime | 77876 | [77876-super-burgertime.json](./77876-super-burgertime.json) |
+| Super Buster Bros. | 38423 | [38423-super-buster-bros.json](./38423-super-buster-bros.json) |
 | Super Button Soccer | 33927 | [33927-super-button-soccer.json](./33927-super-button-soccer.json) |
 | Super Buzzy: Star of Eternity | 323902 | [323902-super-buzzy-star-of-eternity.json](./323902-super-buzzy-star-of-eternity.json) |
 | Super C | 84919 | [84919-super-c.json](./84919-super-c.json) |
