@@ -7371,6 +7371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Lust | 333573 | [333573-planet-lust.json](./333573-planet-lust.json) |
 | Planet Miners | 24808 | [24808-planet-miners.json](./24808-planet-miners.json) |
 | Planet Minigolf | 21575 | [21575-planet-minigolf.json](./21575-planet-minigolf.json) |
+| Planet Minigolf: Stronghold Island | 21756 | [21756-planet-minigolf-stronghold-island.json](./21756-planet-minigolf-stronghold-island.json) |
 | Planet Modular Tower Defense. Sci-Fi TD Strategy | 126597 | [126597-planet-modular-tower-defense-sci-fi-td-strategy.json](./126597-planet-modular-tower-defense-sci-fi-td-strategy.json) |
 | Planet Monsters | 49359 | [49359-planet-monsters.json](./49359-planet-monsters.json) |
 | Planet Morph | 216636 | [216636-planet-morph.json](./216636-planet-morph.json) |
@@ -11754,6 +11755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pringles Chip Racer | 335431 | [335431-pringles-chip-racer.json](./335431-pringles-chip-racer.json) |
 | Prinny 1 & 2: Exploded and Reloaded | 133809 | [133809-prinny-1-and-2-exploded-and-reloaded.json](./133809-prinny-1-and-2-exploded-and-reloaded.json) |
 | Prinny 1•2: Exploded and Reloaded - Just Desserts Edition | 136215 | [136215-prinny-1-2-exploded-and-reloaded-just-desserts-edition.json](./136215-prinny-1-2-exploded-and-reloaded-just-desserts-edition.json) |
+| Prinny 2: Dawn of Operation Panties, Dood! | 21769 | [21769-prinny-2-dawn-of-operation-panties-dood.json](./21769-prinny-2-dawn-of-operation-panties-dood.json) |
 | Prinny Party: Going Overboard! | 394548 | [394548-prinny-party-going-overboard.json](./394548-prinny-party-going-overboard.json) |
 | Prinny Presents NIS Classics Volumes 1-3 Bundle | 234638 | [234638-prinny-presents-nis-classics-volumes-1-3-bundle.json](./234638-prinny-presents-nis-classics-volumes-1-3-bundle.json) |
 | Prinny Presents: NIS Classics Vol 1 - Deluxe Edition | 148545 | [148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json](./148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json) |
