@@ -8210,6 +8210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortify | 35030 | [35030-fortify.json](./35030-fortify.json) |
 | Fortify: Special Edition | 25055 | [25055-fortify-special-edition.json](./25055-fortify-special-edition.json) |
 | Fortiori | 374937 | [374937-fortiori.json](./374937-fortiori.json) |
+| Fortissimo | 12643 | [12643-fortissimo.json](./12643-fortissimo.json) |
 | Fortissimo FA Intl. Ver | 105750 | [105750-fortissimo-fa-intl-ver.json](./105750-fortissimo-fa-intl-ver.json) |
 | Fortissimo FA//Akkord:Nachsten Phase | 101597 | [101597-fortissimo-fa-akkord-nachsten-phase.json](./101597-fortissimo-fa-akkord-nachsten-phase.json) |
 | Fortitude Invasion | 208273 | [208273-fortitude-invasion.json](./208273-fortitude-invasion.json) |
