@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I・S・U | 96236 | [96236-i-s-u.json](./96236-i-s-u.json) |
 | I, Ball II | 38927 | [38927-i-ball-ii.json](./38927-i-ball-ii.json) |
 | I, Chatbot: Aisylum | 290511 | [290511-i-chatbot-aisylum.json](./290511-i-chatbot-aisylum.json) |
+| I, Damiano | 24671 | [24671-i-damiano.json](./24671-i-damiano.json) |
 | I, For One, Welcome Our New Lady Knight Overlords! | 178506 | [178506-i-for-one-welcome-our-new-lady-knight-overlords.json](./178506-i-for-one-welcome-our-new-lady-knight-overlords.json) |
 | I, of the Mask | 26212 | [26212-i-of-the-mask.json](./26212-i-of-the-mask.json) |
 | I, Robot | 335831 | [335831-i-robot.json](./335831-i-robot.json) |
