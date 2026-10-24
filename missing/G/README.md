@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy of Trian Board Game | 85603 | [85603-galaxy-of-trian-board-game.json](./85603-galaxy-of-trian-board-game.json) |
 | Galaxy on Fire | 79895 | [79895-galaxy-on-fire.json](./79895-galaxy-on-fire.json) |
 | Galaxy on Fire 2 | 389026 | [389026-galaxy-on-fire-2.json](./389026-galaxy-on-fire-2.json) |
+| Galaxy on Fire 2 | 8041 | [8041-galaxy-on-fire-2.json](./8041-galaxy-on-fire-2.json) |
 | Galaxy on Fire 2 Full HD | 25471 | [25471-galaxy-on-fire-2-full-hd.json](./25471-galaxy-on-fire-2-full-hd.json) |
 | Galaxy on Fire 2: Supernova | 402965 | [402965-galaxy-on-fire-2-supernova.json](./402965-galaxy-on-fire-2-supernova.json) |
 | Galaxy on Fire 2: Valkyrie | 399404 | [399404-galaxy-on-fire-2-valkyrie.json](./399404-galaxy-on-fire-2-valkyrie.json) |
