@@ -7862,6 +7862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Dogs: New Dog Addition - Labrador Retriever | 302919 | [302919-metal-dogs-new-dog-addition-labrador-retriever.json](./302919-metal-dogs-new-dog-addition-labrador-retriever.json) |
 | Metal Dragon | 325243 | [325243-metal-dragon.json](./325243-metal-dragon.json) |
 | Metal Dragon/Life on Mars | 325244 | [325244-metal-dragon-life-on-mars.json](./325244-metal-dragon-life-on-mars.json) |
+| Metal Drift | 14957 | [14957-metal-drift.json](./14957-metal-drift.json) |
 | Metal Earth Ashes of the Alliance | 220825 | [220825-metal-earth-ashes-of-the-alliance.json](./220825-metal-earth-ashes-of-the-alliance.json) |
 | Metal Exile | 264691 | [264691-metal-exile.json](./264691-metal-exile.json) |
 | Metal Eye | 308246 | [308246-metal-eye.json](./308246-metal-eye.json) |
