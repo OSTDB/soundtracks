@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game & Lynx: Critter Championship | 297595 | [297595-game-and-lynx-critter-championship.json](./297595-game-and-lynx-critter-championship.json) |
 | Game & Watch Ball | 76971 | [76971-game-and-watch-ball.json](./76971-game-and-watch-ball.json) |
 | Game & Watch Chef | 84556 | [84556-game-and-watch-chef.json](./84556-game-and-watch-chef.json) |
+| Game & Watch Collection | 78002 | [78002-game-and-watch-collection.json](./78002-game-and-watch-collection.json) |
 | Game & Watch Donkey Kong Jr | 339261 | [339261-game-and-watch-donkey-kong-jr.json](./339261-game-and-watch-donkey-kong-jr.json) |
 | Game & Watch Donkey Kong Jr. | 206932 | [206932-game-and-watch-donkey-kong-jr.json](./206932-game-and-watch-donkey-kong-jr.json) |
 | Game & Watch Flagman | 84554 | [84554-game-and-watch-flagman.json](./84554-game-and-watch-flagman.json) |
@@ -1546,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Paws | 105443 | [105443-garden-paws.json](./105443-garden-paws.json) |
 | Garden Pets | 233615 | [233615-garden-pets.json](./233615-garden-pets.json) |
 | Garden Renovator | 224606 | [224606-garden-renovator.json](./224606-garden-renovator.json) |
+| Garden Rescue | 35868 | [35868-garden-rescue.json](./35868-garden-rescue.json) |
 | Garden Rescue: Christmas Edition | 34078 | [34078-garden-rescue-christmas-edition.json](./34078-garden-rescue-christmas-edition.json) |
 | Garden Shop: Rush Hour! | 24751 | [24751-garden-shop-rush-hour.json](./24751-garden-shop-rush-hour.json) |
 | Garden Simulator | 215944 | [215944-garden-simulator.json](./215944-garden-simulator.json) |
@@ -1860,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gathera | 405563 | [405563-gathera.json](./405563-gathera.json) |
 | Gatherers | 208179 | [208179-gatherers.json](./208179-gatherers.json) |
 | Gathering Our Childhoods | 249756 | [249756-gathering-our-childhoods.json](./249756-gathering-our-childhoods.json) |
+| Gathering Sky | 35590 | [35590-gathering-sky.json](./35590-gathering-sky.json) |
 | GatherX | 362937 | [362937-gatherx.json](./362937-gatherx.json) |
 | Gatlin' | 122790 | [122790-gatlin.json](./122790-gatlin.json) |
 | Gato | 19702 | [19702-gato.json](./19702-gato.json) |
@@ -7307,6 +7310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Galactic | 236950 | [236950-grey-galactic.json](./236950-grey-galactic.json) |
 | Grey Goo Definitive Edition | 54057 | [54057-grey-goo-definitive-edition.json](./54057-grey-goo-definitive-edition.json) |
 | Grey Goo: Emergence | 21731 | [21731-grey-goo-emergence.json](./21731-grey-goo-emergence.json) |
+| Grey Hack | 81273 | [81273-grey-hack.json](./81273-grey-hack.json) |
 | Grey Haven | 239664 | [239664-grey-haven.json](./239664-grey-haven.json) |
 | Grey Heritage: Faded Vision | 189115 | [189115-grey-heritage-faded-vision.json](./189115-grey-heritage-faded-vision.json) |
 | Grey Heritage: Noble Duty | 266425 | [266425-grey-heritage-noble-duty.json](./266425-grey-heritage-noble-duty.json) |
