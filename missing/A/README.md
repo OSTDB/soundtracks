@@ -5149,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Videoland | 13802 | [13802-alice-in-videoland.json](./13802-alice-in-videoland.json) |
 | Alice In VR | 102565 | [102565-alice-in-vr.json](./102565-alice-in-vr.json) |
 | Alice in Windowland | 218120 | [218120-alice-in-windowland.json](./218120-alice-in-windowland.json) |
+| Alice in Wonderdream | 38091 | [38091-alice-in-wonderdream.json](./38091-alice-in-wonderdream.json) |
 | Alice in Wonderland | 12250 | [12250-alice-in-wonderland.json](./12250-alice-in-wonderland.json) |
 | Alice in Wonderland | 125307 | [125307-alice-in-wonderland.json](./125307-alice-in-wonderland.json) |
 | Alice in Wonderland | 140323 | [140323-alice-in-wonderland.json](./140323-alice-in-wonderland.json) |
@@ -8255,6 +8256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankhet | 213958 | [213958-ankhet.json](./213958-ankhet.json) |
 | Ankhway: The Interplanetary Legacy | 344876 | [344876-ankhway-the-interplanetary-legacy.json](./344876-ankhway-the-interplanetary-legacy.json) |
 | Anki | 54737 | [54737-anki.json](./54737-anki.json) |
+| Ankoku Densetsu | 38095 | [38095-ankoku-densetsu.json](./38095-ankoku-densetsu.json) |
 | Ankoku Shinwa: Yamato Takeru Densetsu | 48633 | [48633-ankoku-shinwa-yamato-takeru-densetsu.json](./48633-ankoku-shinwa-yamato-takeru-densetsu.json) |
 | Ankoku-jou | 334900 | [334900-ankoku-jou.json](./334900-ankoku-jou.json) |
 | Ankora: Lost Days | 108867 | [108867-ankora-lost-days.json](./108867-ankora-lost-days.json) |
