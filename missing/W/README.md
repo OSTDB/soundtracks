@@ -2852,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Journey War | 174647 | [174647-west-journey-war.json](./174647-west-journey-war.json) |
 | West Legends | 112237 | [112237-west-legends.json](./112237-west-legends.json) |
 | West Mafia Redemption | 95882 | [95882-west-mafia-redemption.json](./95882-west-mafia-redemption.json) |
+| West of Dead | 125625 | [125625-west-of-dead.json](./125625-west-of-dead.json) |
 | West of Dead: Path of the Crow Edition | 154954 | [154954-west-of-dead-path-of-the-crow-edition.json](./154954-west-of-dead-path-of-the-crow-edition.json) |
 | West of the Witchlands | 272882 | [272882-west-of-the-witchlands.json](./272882-west-of-the-witchlands.json) |
 | West Ride | 256334 | [256334-west-ride.json](./256334-west-ride.json) |
@@ -6707,6 +6708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft Classic: Season of Discovery | 275175 | [275175-world-of-warcraft-classic-season-of-discovery.json](./275175-world-of-warcraft-classic-season-of-discovery.json) |
 | World of Warcraft: 15th Anniversary - Collector's Edition | 136120 | [136120-world-of-warcraft-15th-anniversary-collectors-edition.json](./136120-world-of-warcraft-15th-anniversary-collectors-edition.json) |
 | World of Warcraft: Battle for Azeroth | 75380 | [75380-world-of-warcraft-battle-for-azeroth.json](./75380-world-of-warcraft-battle-for-azeroth.json) |
+| World of Warcraft: Burning Crusade Classic | 143683 | [143683-world-of-warcraft-burning-crusade-classic.json](./143683-world-of-warcraft-burning-crusade-classic.json) |
 | World of Warcraft: Burning Crusade Classic - Anniversary Edition | 390778 | [390778-world-of-warcraft-burning-crusade-classic-anniversary-edition.json](./390778-world-of-warcraft-burning-crusade-classic-anniversary-edition.json) |
 | World of Warcraft: Cataclysm - Collector's Edition | 136266 | [136266-world-of-warcraft-cataclysm-collectors-edition.json](./136266-world-of-warcraft-cataclysm-collectors-edition.json) |
 | World of Warcraft: Collector's Edition | 136994 | [136994-world-of-warcraft-collectors-edition.json](./136994-world-of-warcraft-collectors-edition.json) |
@@ -7256,6 +7258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 4 FIA World Rally Championship | 3089 | [3089-wrc-4-fia-world-rally-championship.json](./3089-wrc-4-fia-world-rally-championship.json) |
 | WRC 5: WRC - eSports Pack 1 | 168739 | [168739-wrc-5-wrc-esports-pack-1.json](./168739-wrc-5-wrc-esports-pack-1.json) |
 | WRC 5: WRC - eSports Pack 2 | 168740 | [168740-wrc-5-wrc-esports-pack-2.json](./168740-wrc-5-wrc-esports-pack-2.json) |
+| WRC 8 | 114432 | [114432-wrc-8.json](./114432-wrc-8.json) |
 | WRC 8: Deluxe Edition | 216231 | [216231-wrc-8-deluxe-edition.json](./216231-wrc-8-deluxe-edition.json) |
 | WRC 9 | 133773 | [133773-wrc-9.json](./133773-wrc-9.json) |
 | WRC 9: Audi Quattro A2 1984 | 196111 | [196111-wrc-9-audi-quattro-a2-1984.json](./196111-wrc-9-audi-quattro-a2-1984.json) |
