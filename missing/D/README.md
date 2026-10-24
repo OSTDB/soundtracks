@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Cavern | 278723 | [278723-dark-cavern.json](./278723-dark-cavern.json) |
 | Dark Cellar Death Trial | 294015 | [294015-dark-cellar-death-trial.json](./294015-dark-cellar-death-trial.json) |
 | Dark Century | 12035 | [12035-dark-century.json](./12035-dark-century.json) |
+| Dark Chambers | 11869 | [11869-dark-chambers.json](./11869-dark-chambers.json) |
 | Dark Chaser | 109034 | [109034-dark-chaser.json](./109034-dark-chaser.json) |
 | Dark Chess | 125697 | [125697-dark-chess.json](./125697-dark-chess.json) |
 | Dark Chess+ | 175242 | [175242-dark-chess.json](./175242-dark-chess.json) |
@@ -2050,6 +2051,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Datastorm | 73131 | [73131-datastorm.json](./73131-datastorm.json) |
 | Datbyel's Nebula | 309744 | [309744-datbyels-nebula.json](./309744-datbyels-nebula.json) |
 | Date A Live | 193790 | [193790-date-a-live.json](./193790-date-a-live.json) |
+| Date A Live Twin Edition: Rio Reincarnation | 11830 | [11830-date-a-live-twin-edition-rio-reincarnation.json](./11830-date-a-live-twin-edition-rio-reincarnation.json) |
+| Date A Live: Arusu Install | 11829 | [11829-date-a-live-arusu-install.json](./11829-date-a-live-arusu-install.json) |
 | Date A Live: Arusu Install - Limited Edition | 86225 | [86225-date-a-live-arusu-install-limited-edition.json](./86225-date-a-live-arusu-install-limited-edition.json) |
 | Date A Live: Ren Dystopia | 114150 | [114150-date-a-live-ren-dystopia.json](./114150-date-a-live-ren-dystopia.json) |
 | Date A Live: Ren Dystopia - Limited Edition | 114151 | [114151-date-a-live-ren-dystopia-limited-edition.json](./114151-date-a-live-ren-dystopia-limited-edition.json) |
@@ -5687,6 +5690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Dive | 317425 | [317425-desert-dive.json](./317425-desert-dive.json) |
 | Desert Domination | 122922 | [122922-desert-domination.json](./122922-desert-domination.json) |
 | Desert Dungeons | 258635 | [258635-desert-dungeons.json](./258635-desert-dungeons.json) |
+| Desert Falcon | 11870 | [11870-desert-falcon.json](./11870-desert-falcon.json) |
 | Desert Force: Rescue Mission | 259072 | [259072-desert-force-rescue-mission.json](./259072-desert-force-rescue-mission.json) |
 | Desert Fox | 26235 | [26235-desert-fox.json](./26235-desert-fox.json) |
 | Desert Gunman | 277708 | [277708-desert-gunman.json](./277708-desert-gunman.json) |
