@@ -3210,6 +3210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penance | 135017 | [135017-penance.json](./135017-penance.json) |
 | Penance | 367401 | [367401-penance.json](./367401-penance.json) |
 | Penance | 370685 | [370685-penance.json](./370685-penance.json) |
+| Penarium | 14381 | [14381-penarium.json](./14381-penarium.json) |
 | PenBall | 192760 | [192760-penball.json](./192760-penball.json) |
 | Pencak Silat 1.2 | 323943 | [323943-pencak-silat-1-2.json](./323943-pencak-silat-1-2.json) |
 | Pencak Silat 2.1 | 323944 | [323944-pencak-silat-2-1.json](./323944-pencak-silat-2-1.json) |
