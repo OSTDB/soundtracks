@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Dreams RHN | 127567 | [127567-dark-dreams-rhn.json](./127567-dark-dreams-rhn.json) |
 | Dark Drive | 95620 | [95620-dark-drive.json](./95620-dark-drive.json) |
 | Dark Dungeon Feminized | 334340 | [334340-dark-dungeon-feminized.json](./334340-dark-dungeon-feminized.json) |
+| Dark Dungeons | 41187 | [41187-dark-dungeons.json](./41187-dark-dungeons.json) |
 | Dark Dynasty: The Siege of Londor | 317522 | [317522-dark-dynasty-the-siege-of-londor.json](./317522-dark-dynasty-the-siege-of-londor.json) |
 | Dark Earth | 18137 | [18137-dark-earth.json](./18137-dark-earth.json) |
 | Dark Earth | 410975 | [410975-dark-earth.json](./410975-dark-earth.json) |
@@ -10027,6 +10028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey BoM | 398315 | [398315-donkey-bom.json](./398315-donkey-bom.json) |
 | Donkey Gorilla | 267992 | [267992-donkey-gorilla.json](./267992-donkey-gorilla.json) |
 | Donkey Jump: In the Loop | 364883 | [364883-donkey-jump-in-the-loop.json](./364883-donkey-jump-in-the-loop.json) |
+| Donkey King | 41183 | [41183-donkey-king.json](./41183-donkey-king.json) |
 | Donkey King Arcade Game | 96713 | [96713-donkey-king-arcade-game.json](./96713-donkey-king-arcade-game.json) |
 | Donkey Kong | 1086 | [1086-donkey-kong.json](./1086-donkey-kong.json) |
 | Donkey Kong | 1089 | [1089-donkey-kong.json](./1089-donkey-kong.json) |
@@ -10951,6 +10953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Shoulders | 338800 | [338800-double-shoulders.json](./338800-double-shoulders.json) |
 | Double sided: TriJam edition | 184425 | [184425-double-sided-trijam-edition.json](./184425-double-sided-trijam-edition.json) |
 | Double Smash Ninja | 246083 | [246083-double-smash-ninja.json](./246083-double-smash-ninja.json) |
+| Double Sphere | 41153 | [41153-double-sphere.json](./41153-double-sphere.json) |
 | Double Stretch | 108359 | [108359-double-stretch.json](./108359-double-stretch.json) |
 | Double Switch | 139169 | [139169-double-switch.json](./139169-double-switch.json) |
 | Double Switch | 5375 | [5375-double-switch.json](./5375-double-switch.json) |
