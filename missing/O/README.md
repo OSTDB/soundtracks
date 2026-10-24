@@ -1906,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Line: Connect the Dots | 207811 | [207811-one-line-connect-the-dots.json](./207811-one-line-connect-the-dots.json) |
 | One Line: Letters and Codes | 192789 | [192789-one-line-letters-and-codes.json](./192789-one-line-letters-and-codes.json) |
 | One Little Ghost | 279733 | [279733-one-little-ghost.json](./279733-one-little-ghost.json) |
+| One Lonely Outpost | 141682 | [141682-one-lonely-outpost.json](./141682-one-lonely-outpost.json) |
 | One Lonely Outpost + Echoes of the Plum Grove | 357022 | [357022-one-lonely-outpost-echoes-of-the-plum-grove.json](./357022-one-lonely-outpost-echoes-of-the-plum-grove.json) |
 | One Love | 97663 | [97663-one-love.json](./97663-one-love.json) |
 | One Man and His Dinosaur | 396430 | [396430-one-man-and-his-dinosaur.json](./396430-one-man-and-his-dinosaur.json) |
