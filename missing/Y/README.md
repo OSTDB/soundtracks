@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Sinclair Magnificent 7 February 1992 | 96509 | [96509-your-sinclair-magnificent-7-february-1992.json](./96509-your-sinclair-magnificent-7-february-1992.json) |
 | Your Sinclair Magnificent 7 July 1991 | 71389 | [71389-your-sinclair-magnificent-7-july-1991.json](./71389-your-sinclair-magnificent-7-july-1991.json) |
 | Your Sister's Drown'd, Laertes | 135302 | [135302-your-sisters-drownd-laertes.json](./135302-your-sisters-drownd-laertes.json) |
+| Your Star | 31534 | [31534-your-star.json](./31534-your-star.json) |
 | Your Story | 130093 | [130093-your-story.json](./130093-your-story.json) |
 | Your Story: Games with Death | 345067 | [345067-your-story-games-with-death.json](./345067-your-story-games-with-death.json) |
 | Your Study Mate | 325061 | [325061-your-study-mate.json](./325061-your-study-mate.json) |
