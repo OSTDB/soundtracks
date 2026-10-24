@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Dream: Afterlife | 372663 | [372663-bad-dream-afterlife.json](./372663-bad-dream-afterlife.json) |
 | Bad Dream: Bridge | 133931 | [133931-bad-dream-bridge.json](./133931-bad-dream-bridge.json) |
 | Bad Dream: Butcher | 133925 | [133925-bad-dream-butcher.json](./133925-bad-dream-butcher.json) |
+| Bad Dream: Coma | 27874 | [27874-bad-dream-coma.json](./27874-bad-dream-coma.json) |
 | Bad Dream: Cyclops | 133928 | [133928-bad-dream-cyclops.json](./133928-bad-dream-cyclops.json) |
 | Bad Dream: Graveyard | 133926 | [133926-bad-dream-graveyard.json](./133926-bad-dream-graveyard.json) |
 | Bad Dream: Hospital | 133927 | [133927-bad-dream-hospital.json](./133927-bad-dream-hospital.json) |
@@ -2668,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman | 14288 | [14288-batman.json](./14288-batman.json) |
 | Batman | 164313 | [164313-batman.json](./164313-batman.json) |
 | Batman | 200135 | [200135-batman.json](./200135-batman.json) |
+| Batman | 26457 | [26457-batman.json](./26457-batman.json) |
 | Batman & Flash | 326624 | [326624-batman-and-flash.json](./326624-batman-and-flash.json) |
 | Batman & Robin | 199423 | [199423-batman-and-robin.json](./199423-batman-and-robin.json) |
 | Batman & Robin | 234179 | [234179-batman-and-robin.json](./234179-batman-and-robin.json) |
@@ -6070,6 +6072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Oil | 91864 | [91864-big-oil.json](./91864-big-oil.json) |
 | Big Ol' Bass 2 | 43921 | [43921-big-ol-bass-2.json](./43921-big-ol-bass-2.json) |
 | Big Orbit | 308450 | [308450-big-orbit.json](./308450-big-orbit.json) |
+| Big Pharma | 24396 | [24396-big-pharma.json](./24396-big-pharma.json) |
 | Big Pharma: Marketing and Malpractice | 154418 | [154418-big-pharma-marketing-and-malpractice.json](./154418-big-pharma-marketing-and-malpractice.json) |
 | Big Pharma: Special Edition | 167042 | [167042-big-pharma-special-edition.json](./167042-big-pharma-special-edition.json) |
 | Big Quest 2: the Adventure | 163738 | [163738-big-quest-2-the-adventure.json](./163738-big-quest-2-the-adventure.json) |
@@ -8077,6 +8080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleb | 346792 | [346792-bleb.json](./346792-bleb.json) |
 | Bleed | 9706 | [9706-bleed.json](./9706-bleed.json) |
 | Bleed + Bleed 2: Limited Edition | 167059 | [167059-bleed-bleed-2-limited-edition.json](./167059-bleed-bleed-2-limited-edition.json) |
+| Bleed 2 | 26725 | [26725-bleed-2.json](./26725-bleed-2.json) |
 | Bleed 2: Deluxe Edition | 118743 | [118743-bleed-2-deluxe-edition.json](./118743-bleed-2-deluxe-edition.json) |
 | Bleed Complete Bundle | 118854 | [118854-bleed-complete-bundle.json](./118854-bleed-complete-bundle.json) |
 | Bleed Runner | 276237 | [276237-bleed-runner.json](./276237-bleed-runner.json) |
@@ -9417,6 +9421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Powder Grey Smoke | 362429 | [362429-blue-powder-grey-smoke.json](./362429-blue-powder-grey-smoke.json) |
 | Blue Rabbit | 149975 | [149975-blue-rabbit.json](./149975-blue-rabbit.json) |
 | Blue rabbit a world of shapes and lost colors | 195263 | [195263-blue-rabbit-a-world-of-shapes-and-lost-colors.json](./195263-blue-rabbit-a-world-of-shapes-and-lost-colors.json) |
+| Blue Reflection | 25708 | [25708-blue-reflection.json](./25708-blue-reflection.json) |
 | Blue Reflection | 396236 | [396236-blue-reflection.json](./396236-blue-reflection.json) |
 | Blue Reflection Quartet | 396199 | [396199-blue-reflection-quartet.json](./396199-blue-reflection-quartet.json) |
 | Blue Reflection Quartet: Premium Box | 402232 | [402232-blue-reflection-quartet-premium-box.json](./402232-blue-reflection-quartet-premium-box.json) |
