@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Soccer V-Shoot | 40344 | [40344-j-league-soccer-v-shoot.json](./40344-j-league-soccer-v-shoot.json) |
 | J.League Soccer: Prime Goal | 38330 | [38330-j-league-soccer-prime-goal.json](./38330-j-league-soccer-prime-goal.json) |
 | J.League Soccer: Prime Goal 2 | 38329 | [38329-j-league-soccer-prime-goal-2.json](./38329-j-league-soccer-prime-goal-2.json) |
+| J.League Super Soccer '95: Jikkyou Stadium | 42392 | [42392-j-league-super-soccer-95-jikkyou-stadium.json](./42392-j-league-super-soccer-95-jikkyou-stadium.json) |
 | J.League Super Top Players | 48519 | [48519-j-league-super-top-players.json](./48519-j-league-super-top-players.json) |
 | J.League Supporter Soccer | 64980 | [64980-j-league-supporter-soccer.json](./64980-j-league-supporter-soccer.json) |
 | J.League Tactics Soccer | 3522 | [3522-j-league-tactics-soccer.json](./3522-j-league-tactics-soccer.json) |
@@ -1612,6 +1613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 14 | 69203 | [69203-jikkyou-pawafuru-puroyakyu-14.json](./69203-jikkyou-pawafuru-puroyakyu-14.json) |
 | Jikkyou Pawafuru Puroyakyu 14: Kettei-ban | 229547 | [229547-jikkyou-pawafuru-puroyakyu-14-kettei-ban.json](./229547-jikkyou-pawafuru-puroyakyu-14-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 15 | 69204 | [69204-jikkyou-pawafuru-puroyakyu-15.json](./69204-jikkyou-pawafuru-puroyakyu-15.json) |
+| Jikkyou Pawafuru Puroyakyu 2 | 42393 | [42393-jikkyou-pawafuru-puroyakyu-2.json](./42393-jikkyou-pawafuru-puroyakyu-2.json) |
 | Jikkyou Pawafuru Puroyakyu 2000 | 136733 | [136733-jikkyou-pawafuru-puroyakyu-2000.json](./136733-jikkyou-pawafuru-puroyakyu-2000.json) |
 | Jikkyou Pawafuru Puroyakyu 2000: Kaimaku-ban | 229575 | [229575-jikkyou-pawafuru-puroyakyu-2000-kaimaku-ban.json](./229575-jikkyou-pawafuru-puroyakyu-2000-kaimaku-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 2000: Kettei-ban | 229542 | [229542-jikkyou-pawafuru-puroyakyu-2000-kettei-ban.json](./229542-jikkyou-pawafuru-puroyakyu-2000-kettei-ban.json) |
@@ -3432,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justy x Nasty: Maou Hajimemashita | 60778 | [60778-justy-x-nasty-maou-hajimemashita.json](./60778-justy-x-nasty-maou-hajimemashita.json) |
 | Justy×Nasty: Maou Hajimemashita - Limited Edition | 149969 | [149969-justy-nasty-maou-hajimemashita-limited-edition.json](./149969-justy-nasty-maou-hajimemashita-limited-edition.json) |
 | Jut | 129578 | [129578-jut.json](./129578-jut.json) |
+| Jutei Senki | 42387 | [42387-jutei-senki.json](./42387-jutei-senki.json) |
 | Juuden Youshuugi: Crimson Paraselene | 253929 | [253929-juuden-youshuugi-crimson-paraselene.json](./253929-juuden-youshuugi-crimson-paraselene.json) |
 | Juuken Sentai Gekiranger: Niki-niki! Kazu Katachi ni Challenge! | 327594 | [327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json](./327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json) |
 | Juukou Senki: Bullet Battlers | 228567 | [228567-juukou-senki-bullet-battlers.json](./228567-juukou-senki-bullet-battlers.json) |
