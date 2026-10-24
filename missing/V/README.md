@@ -2166,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual K'nex | 206020 | [206020-virtual-knex.json](./206020-virtual-knex.json) |
 | Virtual Karting | 15567 | [15567-virtual-karting.json](./15567-virtual-karting.json) |
 | Virtual Karts | 92982 | [92982-virtual-karts.json](./92982-virtual-karts.json) |
+| Virtual Kasparov | 6413 | [6413-virtual-kasparov.json](./6413-virtual-kasparov.json) |
 | Virtual Knee Surgery | 337200 | [337200-virtual-knee-surgery.json](./337200-virtual-knee-surgery.json) |
 | Virtual Kyoutei | 108850 | [108850-virtual-kyoutei.json](./108850-virtual-kyoutei.json) |
 | Virtual Kyoutei '98 | 166510 | [166510-virtual-kyoutei-98.json](./166510-virtual-kyoutei-98.json) |
