@@ -7,9 +7,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | K Station | 19603 | [19603-k-station.json](./19603-k-station.json) |
+| K-1 Grand Prix | 43722 | [43722-k-1-grand-prix.json](./43722-k-1-grand-prix.json) |
 | K-1 Premium 2004 Dynamite!! | 67047 | [67047-k-1-premium-2004-dynamite.json](./67047-k-1-premium-2004-dynamite.json) |
 | K-1 Premium Dynamite!! | 44646 | [44646-k-1-premium-dynamite.json](./44646-k-1-premium-dynamite.json) |
 | K-1 Revenge | 45075 | [45075-k-1-revenge.json](./45075-k-1-revenge.json) |
+| K-1 The Arena Fighters | 43723 | [43723-k-1-the-arena-fighters.json](./43723-k-1-the-arena-fighters.json) |
 | K-1 World Grand Prix | 23710 | [23710-k-1-world-grand-prix.json](./23710-k-1-world-grand-prix.json) |
 | K-1 World Grand Prix 2001 | 23469 | [23469-k-1-world-grand-prix-2001.json](./23469-k-1-world-grand-prix-2001.json) |
 | K-1 World Grand Prix 2001 Kaimakuden | 66883 | [66883-k-1-world-grand-prix-2001-kaimakuden.json](./66883-k-1-world-grand-prix-2001-kaimakuden.json) |
@@ -2237,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -4939,6 +4942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kursk - Battle at Prochorovka | 29223 | [29223-kursk-battle-at-prochorovka.json](./29223-kursk-battle-at-prochorovka.json) |
 | Kursor | 165771 | [165771-kursor.json](./165771-kursor.json) |
 | Kurt '99: The Football Manager | 259518 | [259518-kurt-99-the-football-manager.json](./259518-kurt-99-the-football-manager.json) |
+| Kurt Warner's Arena Football Unleashed | 43721 | [43721-kurt-warners-arena-football-unleashed.json](./43721-kurt-warners-arena-football-unleashed.json) |
 | Kurt: Der Fussballmanager | 171616 | [171616-kurt-der-fussballmanager.json](./171616-kurt-der-fussballmanager.json) |
 | KurtzPel | 76064 | [76064-kurtzpel.json](./76064-kurtzpel.json) |
 | Kuru-kuru Action Kuru Pachi 6 | 220845 | [220845-kuru-kuru-action-kuru-pachi-6.json](./220845-kuru-kuru-action-kuru-pachi-6.json) |
