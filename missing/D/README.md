@@ -3738,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Slayer V | 180013 | [180013-death-slayer-v.json](./180013-death-slayer-v.json) |
 | Death Space | 111406 | [111406-death-space.json](./111406-death-space.json) |
 | Death Spiral | 408297 | [408297-death-spiral.json](./408297-death-spiral.json) |
+| Death Stair | 33462 | [33462-death-stair.json](./33462-death-stair.json) |
 | Death Stalker | 13579 | [13579-death-stalker.json](./13579-death-stalker.json) |
 | Death Star | 12949 | [12949-death-star.json](./12949-death-star.json) |
 | Death Star Interceptor | 45334 | [45334-death-star-interceptor.json](./45334-death-star-interceptor.json) |
@@ -5491,6 +5492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depixtion | 119465 | [119465-depixtion.json](./119465-depixtion.json) |
 | Depixtion: Halloween Edition | 336909 | [336909-depixtion-halloween-edition.json](./336909-depixtion-halloween-edition.json) |
 | Deploy and Destroy: Ash vs ED | 103550 | [103550-deploy-and-destroy-ash-vs-ed.json](./103550-deploy-and-destroy-ash-vs-ed.json) |
+| Deployment | 80985 | [80985-deployment.json](./80985-deployment.json) |
 | DEPO: Death Epileptic Pixel Origins | 207316 | [207316-depo-death-epileptic-pixel-origins.json](./207316-depo-death-epileptic-pixel-origins.json) |
 | Deponia Collection | 119068 | [119068-deponia-collection.json](./119068-deponia-collection.json) |
 | Deponia Doomsday | 19300 | [19300-deponia-doomsday.json](./19300-deponia-doomsday.json) |
@@ -6402,6 +6404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deutsch für Zwerge 2 | 91623 | [91623-deutsch-fur-zwerge-2.json](./91623-deutsch-fur-zwerge-2.json) |
 | Deutsch Pfiffikus 2009 | 91621 | [91621-deutsch-pfiffikus-2009.json](./91621-deutsch-pfiffikus-2009.json) |
 | Deutschland sucht den Superstar | 130904 | [130904-deutschland-sucht-den-superstar.json](./130904-deutschland-sucht-den-superstar.json) |
+| Dev Guy | 35720 | [35720-dev-guy.json](./35720-dev-guy.json) |
 | Dev Inc | 152835 | [152835-dev-inc.json](./152835-dev-inc.json) |
 | Dev_me | 111945 | [111945-dev-me.json](./111945-dev-me.json) |
 | Deva | 403684 | [403684-deva.json](./403684-deva.json) |
@@ -14587,6 +14590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Dwarves | 204968 | [204968-dungeon-dwarves.json](./204968-dungeon-dwarves.json) |
 | Dungeon Encounters | 172756 | [172756-dungeon-encounters.json](./172756-dungeon-encounters.json) |
 | Dungeon Escape | 207291 | [207291-dungeon-escape.json](./207291-dungeon-escape.json) |
+| Dungeon Escape | 33436 | [33436-dungeon-escape.json](./33436-dungeon-escape.json) |
 | Dungeon Escape | 372573 | [372573-dungeon-escape.json](./372573-dungeon-escape.json) |
 | Dungeon Escape VR | 28890 | [28890-dungeon-escape-vr.json](./28890-dungeon-escape-vr.json) |
 | Dungeon Escape: Console Edition | 164750 | [164750-dungeon-escape-console-edition.json](./164750-dungeon-escape-console-edition.json) |
@@ -15091,6 +15095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DungeonTomb | 291915 | [291915-dungeontomb.json](./291915-dungeontomb.json) |
 | DungeonTracks: In Charms Way | 184626 | [184626-dungeontracks-in-charms-way.json](./184626-dungeontracks-in-charms-way.json) |
 | DungeonUp | 34808 | [34808-dungeonup.json](./34808-dungeonup.json) |
+| Dungetris | 32981 | [32981-dungetris.json](./32981-dungetris.json) |
 | Dungeum | 310793 | [310793-dungeum.json](./310793-dungeum.json) |
 | DunginDragin | 386400 | [386400-dungindragin.json](./386400-dungindragin.json) |
 | Dungleon | 191637 | [191637-dungleon.json](./191637-dungleon.json) |
