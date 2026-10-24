@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vandalhalla | 153934 | [153934-vandalhalla.json](./153934-vandalhalla.json) |
 | Vandell: Knight of the Tortured Souls | 69753 | [69753-vandell-knight-of-the-tortured-souls.json](./69753-vandell-knight-of-the-tortured-souls.json) |
 | Vandozer | 137469 | [137469-vandozer.json](./137469-vandozer.json) |
+| Vane | 11669 | [11669-vane.json](./11669-vane.json) |
 | Vanessa | 237783 | [237783-vanessa.json](./237783-vanessa.json) |
 | Vangaro Tactics | 275094 | [275094-vangaro-tactics.json](./275094-vangaro-tactics.json) |
 | Vangers | 8830 | [8830-vangers.json](./8830-vangers.json) |
@@ -2062,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter 5 R | 94701 | [94701-virtua-fighter-5-r.json](./94701-virtua-fighter-5-r.json) |
 | Virtua Fighter 5 R.E.V.O. | 322751 | [322751-virtua-fighter-5-r-e-v-o.json](./322751-virtua-fighter-5-r-e-v-o.json) |
 | Virtua Fighter 5 R.E.V.O. World Stage | 358822 | [358822-virtua-fighter-5-r-e-v-o-world-stage.json](./358822-virtua-fighter-5-r-e-v-o-world-stage.json) |
+| Virtua Fighter 5: Final Showdown | 21669 | [21669-virtua-fighter-5-final-showdown.json](./21669-virtua-fighter-5-final-showdown.json) |
 | Virtua Fighter 5: Ultimate Showdown | 148696 | [148696-virtua-fighter-5-ultimate-showdown.json](./148696-virtua-fighter-5-ultimate-showdown.json) |
 | Virtua Fighter Animation | 1548 | [1548-virtua-fighter-animation.json](./1548-virtua-fighter-animation.json) |
 | Virtua Fighter CG Portrait Series Vol. 8: Lion Rafale | 97818 | [97818-virtua-fighter-cg-portrait-series-vol-8-lion-rafale.json](./97818-virtua-fighter-cg-portrait-series-vol-8-lion-rafale.json) |
