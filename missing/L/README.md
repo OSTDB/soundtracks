@@ -2751,6 +2751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemony Snicket's A Series of Unfortunate Events | 248493 | [248493-lemony-snickets-a-series-of-unfortunate-events.json](./248493-lemony-snickets-a-series-of-unfortunate-events.json) |
 | Lempo | 214175 | [214175-lempo.json](./214175-lempo.json) |
 | Lems | 102975 | [102975-lems.json](./102975-lems.json) |
+| Lemure | 25417 | [25417-lemure.json](./25417-lemure.json) |
 | Lemures Blue's 2 A.M. | 137068 | [137068-lemures-blues-2-a-m.json](./137068-lemures-blues-2-a-m.json) |
 | Lemuria | 112689 | [112689-lemuria.json](./112689-lemuria.json) |
 | Lemuria | 207042 | [207042-lemuria.json](./207042-lemuria.json) |
@@ -4727,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Garden | 240044 | [240044-little-garden.json](./240044-little-garden.json) |
 | Little Gardens | 128385 | [128385-little-gardens.json](./128385-little-gardens.json) |
 | Little Genius Kids | 89542 | [89542-little-genius-kids.json](./89542-little-genius-kids.json) |
+| Little Ghost | 25455 | [25455-little-ghost.json](./25455-little-ghost.json) |
 | Little Girl in Underland | 323733 | [323733-little-girl-in-underland.json](./323733-little-girl-in-underland.json) |
 | Little Gods | 244259 | [244259-little-gods.json](./244259-little-gods.json) |
 | Little Gods of the Abyss | 169434 | [169434-little-gods-of-the-abyss.json](./169434-little-gods-of-the-abyss.json) |
