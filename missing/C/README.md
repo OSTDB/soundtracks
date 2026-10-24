@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caleria | 409017 | [409017-caleria.json](./409017-caleria.json) |
 | CaliaQuest | 303722 | [303722-caliaquest.json](./303722-caliaquest.json) |
 | Caliban | 401293 | [401293-caliban.json](./401293-caliban.json) |
+| Caliber | 125779 | [125779-caliber.json](./125779-caliber.json) |
 | Caliber .50 | 39491 | [39491-caliber-50.json](./39491-caliber-50.json) |
 | Calibration Sequence | 423278 | [423278-calibration-sequence.json](./423278-calibration-sequence.json) |
 | Calibre 10 Racing | 30249 | [30249-calibre-10-racing.json](./30249-calibre-10-racing.json) |
@@ -15854,6 +15855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Station | 343025 | [343025-cursed-station.json](./343025-cursed-station.json) |
 | Cursed Swamp Escape 3 | 315470 | [315470-cursed-swamp-escape-3.json](./315470-cursed-swamp-escape-3.json) |
 | Cursed Theatre Escape | 315583 | [315583-cursed-theatre-escape.json](./315583-cursed-theatre-escape.json) |
+| Cursed to Golf | 142358 | [142358-cursed-to-golf.json](./142358-cursed-to-golf.json) |
 | Cursed to Golf | 251390 | [251390-cursed-to-golf.json](./251390-cursed-to-golf.json) |
 | Cursed Town | 192734 | [192734-cursed-town.json](./192734-cursed-town.json) |
 | Cursed Toy | 387650 | [387650-cursed-toy.json](./387650-cursed-toy.json) |
