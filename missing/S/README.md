@@ -5610,7 +5610,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowless | 351081 | [351081-shadowless.json](./351081-shadowless.json) |
 | ShadowLight Siblings | 314300 | [314300-shadowlight-siblings.json](./314300-shadowlight-siblings.json) |
 | Shadowlings | 103463 | [103463-shadowlings.json](./103463-shadowlings.json) |
-| Shadowmatic | 19496 | [19496-shadowmatic.json](./19496-shadowmatic.json) |
 | Shadownest | 158199 | [158199-shadownest.json](./158199-shadownest.json) |
 | Shadoworld: The Impossible Escape Game | 204082 | [204082-shadoworld-the-impossible-escape-game.json](./204082-shadoworld-the-impossible-escape-game.json) |
 | Shadoworlds | 84205 | [84205-shadoworlds.json](./84205-shadoworlds.json) |
@@ -26074,7 +26073,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Moo World | 223021 | [223021-super-moo-world.json](./223021-super-moo-world.json) |
 | Super Morial Arms | 13092 | [13092-super-morial-arms.json](./13092-super-morial-arms.json) |
 | Super Morph | 76904 | [76904-super-morph.json](./76904-super-morph.json) |
-| Super Motherload | 20078 | [20078-super-motherload.json](./20078-super-motherload.json) |
 | Super Motocross | 345913 | [345913-super-motocross.json](./345913-super-motocross.json) |
 | Super Motocross | 359743 | [359743-super-motocross.json](./359743-super-motocross.json) |
 | Super Move Fun | 246421 | [246421-super-move-fun.json](./246421-super-move-fun.json) |
