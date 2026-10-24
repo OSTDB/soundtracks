@@ -2463,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untold Chronicles: The Harvest | 374829 | [374829-untold-chronicles-the-harvest.json](./374829-untold-chronicles-the-harvest.json) |
 | Untold History: Descendant of the Sun - Collector's Edition | 416161 | [416161-untold-history-descendant-of-the-sun-collectors-edition.json](./416161-untold-history-descendant-of-the-sun-collectors-edition.json) |
 | Untold Legends: Brotherhood of the Blade | 22508 | [22508-untold-legends-brotherhood-of-the-blade.json](./22508-untold-legends-brotherhood-of-the-blade.json) |
+| Untold Legends: Dark Kingdom | 7476 | [7476-untold-legends-dark-kingdom.json](./7476-untold-legends-dark-kingdom.json) |
 | Untold Legends: The Warrior's Code | 23006 | [23006-untold-legends-the-warriors-code.json](./23006-untold-legends-the-warriors-code.json) |
 | Untold Love Stories | 240135 | [240135-untold-love-stories.json](./240135-untold-love-stories.json) |
 | Untold Memories: Potter's Field | 391311 | [391311-untold-memories-potters-field.json](./391311-untold-memories-potters-field.json) |
