@@ -4645,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Memory | 177227 | [177227-hero-of-memory.json](./177227-hero-of-memory.json) |
 | Hero of Not Our Time | 144818 | [144818-hero-of-not-our-time.json](./144818-hero-of-not-our-time.json) |
 | Hero of Sparta | 21690 | [21690-hero-of-sparta.json](./21690-hero-of-sparta.json) |
+| Hero of Sparta II | 21691 | [21691-hero-of-sparta-ii.json](./21691-hero-of-sparta-ii.json) |
 | Hero of Sunset | 364375 | [364375-hero-of-sunset.json](./364375-hero-of-sunset.json) |
 | Hero of the Demon | 156917 | [156917-hero-of-the-demon.json](./156917-hero-of-the-demon.json) |
 | Hero of the Forest | 122818 | [122818-hero-of-the-forest.json](./122818-hero-of-the-forest.json) |
@@ -8467,6 +8468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Shots Shorties: Red | 209922 | [209922-hot-shots-shorties-red.json](./209922-hot-shots-shorties-red.json) |
 | Hot Shots Shorties: Yellow | 209923 | [209923-hot-shots-shorties-yellow.json](./209923-hot-shots-shorties-yellow.json) |
 | Hot Shots Soccer | 101570 | [101570-hot-shots-soccer.json](./101570-hot-shots-soccer.json) |
+| Hot Shots Tennis: Get a Grip | 21754 | [21754-hot-shots-tennis-get-a-grip.json](./21754-hot-shots-tennis-get-a-grip.json) |
 | Hot Slice: Lust Exposed | 340487 | [340487-hot-slice-lust-exposed.json](./340487-hot-slice-lust-exposed.json) |
 | Hot Slide | 152920 | [152920-hot-slide.json](./152920-hot-slide.json) |
 | Hot Slots | 78980 | [78980-hot-slots.json](./78980-hot-slots.json) |
