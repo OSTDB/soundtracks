@@ -4561,6 +4561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Hope | 192679 | [192679-phoenix-hope.json](./192679-phoenix-hope.json) |
 | Phoenix Nightmare | 235314 | [235314-phoenix-nightmare.json](./235314-phoenix-nightmare.json) |
 | Phoenix Point | 27804 | [27804-phoenix-point.json](./27804-phoenix-point.json) |
+| Phoenix Point: Behemoth Edition | 155517 | [155517-phoenix-point-behemoth-edition.json](./155517-phoenix-point-behemoth-edition.json) |
 | Phoenix Point: Blood and Titanium | 149580 | [149580-phoenix-point-blood-and-titanium.json](./149580-phoenix-point-blood-and-titanium.json) |
 | Phoenix Point: Corrupted Horizons | 171628 | [171628-phoenix-point-corrupted-horizons.json](./171628-phoenix-point-corrupted-horizons.json) |
 | Phoenix Point: Festering Skies | 149592 | [149592-phoenix-point-festering-skies.json](./149592-phoenix-point-festering-skies.json) |
