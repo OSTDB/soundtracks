@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Guns | 12758 | [12758-safari-guns.json](./12758-safari-guns.json) |
 | Safari Hunt | 94935 | [94935-safari-hunt.json](./94935-safari-hunt.json) |
 | Safari Hunt 2018 | 108513 | [108513-safari-hunt-2018.json](./108513-safari-hunt-2018.json) |
+| Safari Hunting | 6474 | [6474-safari-hunting.json](./6474-safari-hunting.json) |
 | Safari Islands | 241532 | [241532-safari-islands.json](./241532-safari-islands.json) |
 | Safari Kart | 263579 | [263579-safari-kart.json](./263579-safari-kart.json) |
 | Safari Kongo | 79243 | [79243-safari-kongo.json](./79243-safari-kongo.json) |
