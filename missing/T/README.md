@@ -6897,6 +6897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Duel: Reloaded | 124668 | [124668-the-duel-reloaded.json](./124668-the-duel-reloaded.json) |
 | The Duel: Test Drive II | 2201 | [2201-the-duel-test-drive-ii.json](./2201-the-duel-test-drive-ii.json) |
 | The Dukes of Hazzard | 122629 | [122629-the-dukes-of-hazzard.json](./122629-the-dukes-of-hazzard.json) |
+| The Dukes of Hazzard | 14042 | [14042-the-dukes-of-hazzard.json](./14042-the-dukes-of-hazzard.json) |
 | The Dukes of Hazzard | 24137 | [24137-the-dukes-of-hazzard.json](./24137-the-dukes-of-hazzard.json) |
 | The Dukes of Hazzard: Racing for Home | 144950 | [144950-the-dukes-of-hazzard-racing-for-home.json](./144950-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Racing for Home | 49889 | [49889-the-dukes-of-hazzard-racing-for-home.json](./49889-the-dukes-of-hazzard-racing-for-home.json) |
@@ -7098,6 +7099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Emperor and State | 278977 | [278977-the-emperor-and-state.json](./278977-the-emperor-and-state.json) |
 | The Emperor's Mahjong | 70922 | [70922-the-emperors-mahjong.json](./70922-the-emperors-mahjong.json) |
 | The Emperor's Own | 178557 | [178557-the-emperors-own.json](./178557-the-emperors-own.json) |
+| The Empire Fights Back | 14053 | [14053-the-empire-fights-back.json](./14053-the-empire-fights-back.json) |
 | The Employee | 143922 | [143922-the-employee.json](./143922-the-employee.json) |
 | The Employment Collection | 204673 | [204673-the-employment-collection.json](./204673-the-employment-collection.json) |
 | The Empress of Aeser | 236227 | [236227-the-empress-of-aeser.json](./236227-the-empress-of-aeser.json) |
@@ -7550,6 +7552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fifth Expedition | 33260 | [33260-the-fifth-expedition.json](./33260-the-fifth-expedition.json) |
 | The Fifth Horseman | 118058 | [118058-the-fifth-horseman.json](./118058-the-fifth-horseman.json) |
 | The Fifth Paradox | 232710 | [232710-the-fifth-paradox.json](./232710-the-fifth-paradox.json) |
+| The Fifth Quadrant | 14064 | [14064-the-fifth-quadrant.json](./14064-the-fifth-quadrant.json) |
 | The Fifth Rite | 250951 | [250951-the-fifth-rite.json](./250951-the-fifth-rite.json) |
 | The Fight for Glorton | 196797 | [196797-the-fight-for-glorton.json](./196797-the-fight-for-glorton.json) |
 | The Fight of the Sumo-Hoppers | 314465 | [314465-the-fight-of-the-sumo-hoppers.json](./314465-the-fight-of-the-sumo-hoppers.json) |
@@ -7588,6 +7591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Hours of Mass Effect 3 | 202354 | [202354-the-final-hours-of-mass-effect-3.json](./202354-the-final-hours-of-mass-effect-3.json) |
 | The Final Hours of Titanfall | 36336 | [36336-the-final-hours-of-titanfall.json](./36336-the-final-hours-of-titanfall.json) |
 | The Final Image | 118650 | [118650-the-final-image.json](./118650-the-final-image.json) |
+| The Final Matrix | 14066 | [14066-the-final-matrix.json](./14066-the-final-matrix.json) |
 | The Final Payphone | 351235 | [351235-the-final-payphone.json](./351235-the-final-payphone.json) |
 | The Final Pin | 262277 | [262277-the-final-pin.json](./262277-the-final-pin.json) |
 | The Final Print | 347777 | [347777-the-final-print.json](./347777-the-final-print.json) |
@@ -11398,6 +11402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
