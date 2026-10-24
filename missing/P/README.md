@@ -1639,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paragliding Sim | 362588 | [362588-paragliding-sim.json](./362588-paragliding-sim.json) |
 | Paragnosia | 320184 | [320184-paragnosia.json](./320184-paragnosia.json) |
 | Paragnosia: Museum | 365305 | [365305-paragnosia-museum.json](./365305-paragnosia-museum.json) |
+| Paragon | 14410 | [14410-paragon.json](./14410-paragon.json) |
 | Paragon of Time | 339907 | [339907-paragon-of-time.json](./339907-paragon-of-time.json) |
 | Paragon Pioneers | 206351 | [206351-paragon-pioneers.json](./206351-paragon-pioneers.json) |
 | Paragon Pioneers 2: Happy Southburghs | 310045 | [310045-paragon-pioneers-2-happy-southburghs.json](./310045-paragon-pioneers-2-happy-southburghs.json) |
@@ -4207,6 +4208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star II | 1232 | [1232-phantasy-star-ii.json](./1232-phantasy-star-ii.json) |
 | Phantasy Star III: Generations of Doom | 1231 | [1231-phantasy-star-iii-generations-of-doom.json](./1231-phantasy-star-iii-generations-of-doom.json) |
 | Phantasy Star Nova | 42674 | [42674-phantasy-star-nova.json](./42674-phantasy-star-nova.json) |
+| Phantasy Star Online | 21968 | [21968-phantasy-star-online.json](./21968-phantasy-star-online.json) |
 | Phantasy Star Online 2 -Ragol Edition- | 132155 | [132155-phantasy-star-online-2-ragol-edition.json](./132155-phantasy-star-online-2-ragol-edition.json) |
 | Phantasy Star Online 2 New Genesis | 136042 | [136042-phantasy-star-online-2-new-genesis.json](./136042-phantasy-star-online-2-new-genesis.json) |
 | Phantasy Star Online 2 New Genesis: Limited Edition | 146336 | [146336-phantasy-star-online-2-new-genesis-limited-edition.json](./146336-phantasy-star-online-2-new-genesis-limited-edition.json) |
@@ -5354,6 +5356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillars of Eternity II: Deadfire - Scalawags Pack | 154456 | [154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json](./154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json) |
 | Pillars of Eternity II: Deadfire - Ultimate Collector's Edition | 136131 | [136131-pillars-of-eternity-ii-deadfire-ultimate-collectors-edition.json](./136131-pillars-of-eternity-ii-deadfire-ultimate-collectors-edition.json) |
 | Pillars of Eternity: Champion Edition | 51890 | [51890-pillars-of-eternity-champion-edition.json](./51890-pillars-of-eternity-champion-edition.json) |
+| Pillars of Eternity: Complete Edition | 38780 | [38780-pillars-of-eternity-complete-edition.json](./38780-pillars-of-eternity-complete-edition.json) |
 | Pillars of Eternity: Definitive Edition | 75357 | [75357-pillars-of-eternity-definitive-edition.json](./75357-pillars-of-eternity-definitive-edition.json) |
 | Pillars of Eternity: Hero Edition | 51889 | [51889-pillars-of-eternity-hero-edition.json](./51889-pillars-of-eternity-hero-edition.json) |
 | Pillars of Eternity: Royal Edition | 51888 | [51888-pillars-of-eternity-royal-edition.json](./51888-pillars-of-eternity-royal-edition.json) |
@@ -8882,6 +8885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Dark Energy | 386952 | [386952-pokemon-dark-energy.json](./386952-pokemon-dark-energy.json) |
 | Pokémon Darkness | 275505 | [275505-pokemon-darkness.json](./275505-pokemon-darkness.json) |
 | Pokémon DarkViolet Version | 194827 | [194827-pokemon-darkviolet-version.json](./194827-pokemon-darkviolet-version.json) |
+| Pokémon Dash | 18594 | [18594-pokemon-dash.json](./18594-pokemon-dash.json) |
 | Pokémon Daybreak | 241389 | [241389-pokemon-daybreak.json](./241389-pokemon-daybreak.json) |
 | Pokemon Daycare | 264130 | [264130-pokemon-daycare.json](./264130-pokemon-daycare.json) |
 | Pokémon Decay | 360192 | [360192-pokemon-decay.json](./360192-pokemon-decay.json) |
@@ -9070,6 +9074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Phoenix Red | 397755 | [397755-pokemon-phoenix-red.json](./397755-pokemon-phoenix-red.json) |
 | Pokémon Photon | 361346 | [361346-pokemon-photon.json](./361346-pokemon-photon.json) |
 | Pokémon Photonic Sun | 214739 | [214739-pokemon-photonic-sun.json](./214739-pokemon-photonic-sun.json) |
+| Pokémon Picross | 20039 | [20039-pokemon-picross.json](./20039-pokemon-picross.json) |
 | Pokémon Pikachu | 194330 | [194330-pokemon-pikachu.json](./194330-pokemon-pikachu.json) |
 | Pokémon Pikachu 2 | 212726 | [212726-pokemon-pikachu-2.json](./212726-pokemon-pikachu-2.json) |
 | Pokémon Pinball | 4068 | [4068-pokemon-pinball.json](./4068-pokemon-pinball.json) |
