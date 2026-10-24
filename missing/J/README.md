@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack of Clubs | 319394 | [319394-jack-of-clubs.json](./319394-jack-of-clubs.json) |
 | Jack of Skies | 176833 | [176833-jack-of-skies.json](./176833-jack-of-skies.json) |
 | Jack of Spades | 182861 | [182861-jack-of-spades.json](./182861-jack-of-spades.json) |
+| Jack Orlando | 10465 | [10465-jack-orlando.json](./10465-jack-orlando.json) |
 | Jack Pilgrim: Space Within | 195150 | [195150-jack-pilgrim-space-within.json](./195150-jack-pilgrim-space-within.json) |
 | Jack Pottwin: House of Odds | 407876 | [407876-jack-pottwin-house-of-odds.json](./407876-jack-pottwin-house-of-odds.json) |
 | Jack Rabbit | 40052 | [40052-jack-rabbit.json](./40052-jack-rabbit.json) |
@@ -286,6 +287,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Alliance Online: Reloaded - Raven | 168750 | [168750-jagged-alliance-online-reloaded-raven.json](./168750-jagged-alliance-online-reloaded-raven.json) |
 | Jagged Alliance Online: Reloaded - Shadow | 168752 | [168752-jagged-alliance-online-reloaded-shadow.json](./168752-jagged-alliance-online-reloaded-shadow.json) |
 | Jagged Alliance: Back in Action | 1008 | [1008-jagged-alliance-back-in-action.json](./1008-jagged-alliance-back-in-action.json) |
+| Jagged Alliance: Back in Action - Point Blank | 10468 | [10468-jagged-alliance-back-in-action-point-blank.json](./10468-jagged-alliance-back-in-action-point-blank.json) |
+| Jagged Alliance: Back in Action - Shades of Red | 10469 | [10469-jagged-alliance-back-in-action-shades-of-red.json](./10469-jagged-alliance-back-in-action-shades-of-red.json) |
 | Jagged Alliance: Complete Edition | 98495 | [98495-jagged-alliance-complete-edition.json](./98495-jagged-alliance-complete-edition.json) |
 | Jagged Alliance: Deadly Games | 8 | [8-jagged-alliance-deadly-games.json](./8-jagged-alliance-deadly-games.json) |
 | Jagged Bone | 177826 | [177826-jagged-bone.json](./177826-jagged-bone.json) |
@@ -792,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeju's Fantasy | 236137 | [236137-jejus-fantasy.json](./236137-jejus-fantasy.json) |
 | Jeklynn Heights | 30247 | [30247-jeklynn-heights.json](./30247-jeklynn-heights.json) |
 | Jekoos Ware | 137431 | [137431-jekoos-ware.json](./137431-jekoos-ware.json) |
+| Jekyll & Hyde | 10471 | [10471-jekyll-and-hyde.json](./10471-jekyll-and-hyde.json) |
 | Jekyll Hakase no Houma ga Toki | 275067 | [275067-jekyll-hakase-no-houma-ga-toki.json](./275067-jekyll-hakase-no-houma-ga-toki.json) |
 | Jelda II | 78705 | [78705-jelda-ii.json](./78705-jelda-ii.json) |
 | Jeller Fellers | 337654 | [337654-jeller-fellers.json](./337654-jeller-fellers.json) |
@@ -1223,10 +1227,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest | 85622 | [85622-jewel-quest.json](./85622-jewel-quest.json) |
 | Jewel Quest 4 Heritage | 85215 | [85215-jewel-quest-4-heritage.json](./85215-jewel-quest-4-heritage.json) |
 | Jewel Quest 4: Heritage | 85621 | [85621-jewel-quest-4-heritage.json](./85621-jewel-quest-4-heritage.json) |
+| Jewel Quest II | 10473 | [10473-jewel-quest-ii.json](./10473-jewel-quest-ii.json) |
 | Jewel Quest Mysteries 3: The Seventh Gate | 85214 | [85214-jewel-quest-mysteries-3-the-seventh-gate.json](./85214-jewel-quest-mysteries-3-the-seventh-gate.json) |
 | Jewel Quest Mysteries IV: The Oracle of Ur | 206729 | [206729-jewel-quest-mysteries-iv-the-oracle-of-ur.json](./206729-jewel-quest-mysteries-iv-the-oracle-of-ur.json) |
+| Jewel Quest Mysteries: Curse of the Emerald Tear | 10474 | [10474-jewel-quest-mysteries-curse-of-the-emerald-tear.json](./10474-jewel-quest-mysteries-curse-of-the-emerald-tear.json) |
 | Jewel Quest Mysteries: The Seventh Gate | 90739 | [90739-jewel-quest-mysteries-the-seventh-gate.json](./90739-jewel-quest-mysteries-the-seventh-gate.json) |
 | Jewel Quest Pack | 29206 | [29206-jewel-quest-pack.json](./29206-jewel-quest-pack.json) |
+| Jewel Quest Solitaire 3 | 10476 | [10476-jewel-quest-solitaire-3.json](./10476-jewel-quest-solitaire-3.json) |
 | Jewel Quest Solitaire II | 53250 | [53250-jewel-quest-solitaire-ii.json](./53250-jewel-quest-solitaire-ii.json) |
 | Jewel Quest Trilogy | 50633 | [50633-jewel-quest-trilogy.json](./50633-jewel-quest-trilogy.json) |
 | Jewel Quest: Expeditions | 21279 | [21279-jewel-quest-expeditions.json](./21279-jewel-quest-expeditions.json) |
@@ -1236,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest: Seven Seas - Collector's Edition | 31047 | [31047-jewel-quest-seven-seas-collectors-edition.json](./31047-jewel-quest-seven-seas-collectors-edition.json) |
 | Jewel Quest: The Sapphire Dragon | 210021 | [210021-jewel-quest-the-sapphire-dragon.json](./210021-jewel-quest-the-sapphire-dragon.json) |
 | Jewel Quest: The Sapphire Dragon | 85213 | [85213-jewel-quest-the-sapphire-dragon.json](./85213-jewel-quest-the-sapphire-dragon.json) |
+| Jewel Shooter | 10477 | [10477-jewel-shooter.json](./10477-jewel-shooter.json) |
 | Jewel Spirits | 347733 | [347733-jewel-spirits.json](./347733-jewel-spirits.json) |
 | Jewel Thief | 78923 | [78923-jewel-thief.json](./78923-jewel-thief.json) |
 | Jewel Time Deluxe | 110322 | [110322-jewel-time-deluxe.json](./110322-jewel-time-deluxe.json) |
@@ -2446,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judas Priest: Road to Valhalla | 175162 | [175162-judas-priest-road-to-valhalla.json](./175162-judas-priest-road-to-valhalla.json) |
 | Jude | 172141 | [172141-jude.json](./172141-jude.json) |
 | Judero | 221649 | [221649-judero.json](./221649-judero.json) |
+| Judge Dee | 10478 | [10478-judge-dee.json](./10478-judge-dee.json) |
 | Judge Dee: The City God Case | 64833 | [64833-judge-dee-the-city-god-case.json](./64833-judge-dee-the-city-god-case.json) |
 | Judge Dredd | 198785 | [198785-judge-dredd.json](./198785-judge-dredd.json) |
 | Judge Dredd | 265036 | [265036-judge-dredd.json](./265036-judge-dredd.json) |
