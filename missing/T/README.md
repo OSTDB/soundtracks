@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Tennis Simulation | 72076 | [72076-table-tennis-simulation.json](./72076-table-tennis-simulation.json) |
 | Table Tennis Star | 58654 | [58654-table-tennis-star.json](./58654-table-tennis-star.json) |
 | Table Tennis Toon! | 278943 | [278943-table-tennis-toon.json](./278943-table-tennis-toon.json) |
+| Table Tennis Touch | 57191 | [57191-table-tennis-touch.json](./57191-table-tennis-touch.json) |
 | Table Tennis VR | 32289 | [32289-table-tennis-vr.json](./32289-table-tennis-vr.json) |
 | Table Top Racing | 8350 | [8350-table-top-racing.json](./8350-table-top-racing.json) |
 | Table Top Racing: Nitro Edition | 136192 | [136192-table-top-racing-nitro-edition.json](./136192-table-top-racing-nitro-edition.json) |
@@ -4735,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Universe of the Psychotrons | 315610 | [315610-the-amazing-universe-of-the-psychotrons.json](./315610-the-amazing-universe-of-the-psychotrons.json) |
 | The Amazing Virtual Sea-Monkeys | 49267 | [49267-the-amazing-virtual-sea-monkeys.json](./49267-the-amazing-virtual-sea-monkeys.json) |
 | The Amazing World of Gumball Mini Games | 352173 | [352173-the-amazing-world-of-gumball-mini-games.json](./352173-the-amazing-world-of-gumball-mini-games.json) |
+| The Amazon Trail | 2306 | [2306-the-amazon-trail.json](./2306-the-amazon-trail.json) |
 | The Ambassador: Fractured Timelines | 128228 | [128228-the-ambassador-fractured-timelines.json](./128228-the-ambassador-fractured-timelines.json) |
 | The Amber Throne | 19517 | [19517-the-amber-throne.json](./19517-the-amber-throne.json) |
 | The Amen Variations | 382200 | [382200-the-amen-variations.json](./382200-the-amen-variations.json) |
@@ -9145,6 +9147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isolation Ward | 177840 | [177840-the-isolation-ward.json](./177840-the-isolation-ward.json) |
 | The Italianeer | 105552 | [105552-the-italianeer.json](./105552-the-italianeer.json) |
 | The Itch | 120002 | [120002-the-itch.json](./120002-the-itch.json) |
+| The Itchy & Scratchy Game | 2834 | [2834-the-itchy-and-scratchy-game.json](./2834-the-itchy-and-scratchy-game.json) |
 | The Itchy & Scratchy Game | 368895 | [368895-the-itchy-and-scratchy-game.json](./368895-the-itchy-and-scratchy-game.json) |
 | The Jackbox Big Bang Bundle | 376263 | [376263-the-jackbox-big-bang-bundle.json](./376263-the-jackbox-big-bang-bundle.json) |
 | The Jackbox Bundle | 53750 | [53750-the-jackbox-bundle.json](./53750-the-jackbox-bundle.json) |
@@ -11494,6 +11497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystifying Trial | 163455 | [163455-the-mystifying-trial.json](./163455-the-mystifying-trial.json) |
 | The Myth Seekers 2: The Sunken City | 119615 | [119615-the-myth-seekers-2-the-sunken-city.json](./119615-the-myth-seekers-2-the-sunken-city.json) |
 | The Myth Seekers Collection | 277244 | [277244-the-myth-seekers-collection.json](./277244-the-myth-seekers-collection.json) |
+| The Myth Seekers: The Legacy of Vulcan | 55519 | [55519-the-myth-seekers-the-legacy-of-vulcan.json](./55519-the-myth-seekers-the-legacy-of-vulcan.json) |
 | The Mythical City | 264232 | [264232-the-mythical-city.json](./264232-the-mythical-city.json) |
 | The Mythical City 2 | 304432 | [304432-the-mythical-city-2.json](./304432-the-mythical-city-2.json) |
 | The Mythical City 3 | 304427 | [304427-the-mythical-city-3.json](./304427-the-mythical-city-3.json) |
@@ -11501,6 +11505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -13056,6 +13061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Weepstone | 360921 | [360921-the-secret-of-weepstone.json](./360921-the-secret-of-weepstone.json) |
 | The Secret Ops | 232933 | [232933-the-secret-ops.json](./232933-the-secret-ops.json) |
 | The Secret Order 4: Beyond Time | 31586 | [31586-the-secret-order-4-beyond-time.json](./31586-the-secret-order-4-beyond-time.json) |
+| The Secret Order 6: Bloodline | 55697 | [55697-the-secret-order-6-bloodline.json](./55697-the-secret-order-6-bloodline.json) |
 | The Secret Order 7: Shadow Breach | 115584 | [115584-the-secret-order-7-shadow-breach.json](./115584-the-secret-order-7-shadow-breach.json) |
 | The Secret Order 8: Return to the Buried Kingdom | 127205 | [127205-the-secret-order-8-return-to-the-buried-kingdom.json](./127205-the-secret-order-8-return-to-the-buried-kingdom.json) |
 | The Secret Order Collection | 53780 | [53780-the-secret-order-collection.json](./53780-the-secret-order-collection.json) |
@@ -13673,6 +13679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs | 287144 | [287144-the-smurfs.json](./287144-the-smurfs.json) |
 | The Smurfs | 287151 | [287151-the-smurfs.json](./287151-the-smurfs.json) |
 | The Smurfs | 80521 | [80521-the-smurfs.json](./80521-the-smurfs.json) |
+| The Smurfs 2 | 2597 | [2597-the-smurfs-2.json](./2597-the-smurfs-2.json) |
 | The Smurfs 2 | 83900 | [83900-the-smurfs-2.json](./83900-the-smurfs-2.json) |
 | The Smurfs 2: The Prisoner of the Green Stone: Corrupted Outfit / Farmer Outfit / Adorable Outfit | 275060 | [275060-the-smurfs-2-the-prisoner-of-the-green-stone-corrupted-outfit-farmer-outfit-adorable-outfit.json](./275060-the-smurfs-2-the-prisoner-of-the-green-stone-corrupted-outfit-farmer-outfit-adorable-outfit.json) |
 | The Smurfs Bakery | 248647 | [248647-the-smurfs-bakery.json](./248647-the-smurfs-bakery.json) |
@@ -16276,6 +16283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Game Might Improve Your Memory | 149695 | [149695-this-game-might-improve-your-memory.json](./149695-this-game-might-improve-your-memory.json) |
 | This Game Will End In 205 Clicks. | 359013 | [359013-this-game-will-end-in-205-clicks.json](./359013-this-game-will-end-in-205-clicks.json) |
 | This Girl Does Not Exist | 215727 | [215727-this-girl-does-not-exist.json](./215727-this-girl-does-not-exist.json) |
+| This Grand Life | 59250 | [59250-this-grand-life.json](./59250-this-grand-life.json) |
 | This Grand Life 2 | 253572 | [253572-this-grand-life-2.json](./253572-this-grand-life-2.json) |
 | This hole in my chest | 176242 | [176242-this-hole-in-my-chest.json](./176242-this-hole-in-my-chest.json) |
 | This House Looks Familiar | 176969 | [176969-this-house-looks-familiar.json](./176969-this-house-looks-familiar.json) |
@@ -19011,6 +19019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Brains | 7649 | [7649-tiny-brains.json](./7649-tiny-brains.json) |
 | Tiny Breakers Camp | 270005 | [270005-tiny-breakers-camp.json](./270005-tiny-breakers-camp.json) |
 | Tiny Brush | 232583 | [232583-tiny-brush.json](./232583-tiny-brush.json) |
+| Tiny Bubbles | 54978 | [54978-tiny-bubbles.json](./54978-tiny-bubbles.json) |
 | Tiny Bullets | 4146 | [4146-tiny-bullets.json](./4146-tiny-bullets.json) |
 | Tiny Cafe | 319297 | [319297-tiny-cafe.json](./319297-tiny-cafe.json) |
 | Tiny Candy Guardian | 264034 | [264034-tiny-candy-guardian.json](./264034-tiny-candy-guardian.json) |
