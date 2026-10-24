@@ -7192,6 +7192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men in Black: The Game | 200455 | [200455-men-in-black-the-game.json](./200455-men-in-black-the-game.json) |
 | Men in Black: The Series | 240165 | [240165-men-in-black-the-series.json](./240165-men-in-black-the-series.json) |
 | Men in Black: The Series | 49285 | [49285-men-in-black-the-series.json](./49285-men-in-black-the-series.json) |
+| Men in Black: The Series - Crashdown | 43745 | [43745-men-in-black-the-series-crashdown.json](./43745-men-in-black-the-series-crashdown.json) |
 | Men in Hats: Attack of the Evangelists | 324146 | [324146-men-in-hats-attack-of-the-evangelists.json](./324146-men-in-hats-attack-of-the-evangelists.json) |
 | Men in Pants | 256750 | [256750-men-in-pants.json](./256750-men-in-pants.json) |
 | Men of Conviction | 316357 | [316357-men-of-conviction.json](./316357-men-of-conviction.json) |
@@ -12425,6 +12426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Bargain | 283403 | [283403-monster-bargain.json](./283403-monster-bargain.json) |
 | Monster Bark | 264131 | [264131-monster-bark.json](./264131-monster-bark.json) |
 | Monster Bash | 18059 | [18059-monster-bash.json](./18059-monster-bash.json) |
+| Monster Bass | 43720 | [43720-monster-bass.json](./43720-monster-bass.json) |
 | Monster Battle | 240661 | [240661-monster-battle.json](./240661-monster-battle.json) |
 | Monster Battle | 302368 | [302368-monster-battle.json](./302368-monster-battle.json) |
 | Monster Battle Quest | 156930 | [156930-monster-battle-quest.json](./156930-monster-battle-quest.json) |
