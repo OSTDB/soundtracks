@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7514,6 +7515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout: Uma Aventura Energética | 293896 | [293896-blackout-uma-aventura-energetica.json](./293896-blackout-uma-aventura-energetica.json) |
 | Blackout!! | 197087 | [197087-blackout.json](./197087-blackout.json) |
 | Blackpink: The Game | 250430 | [250430-blackpink-the-game.json](./250430-blackpink-the-game.json) |
+| Blackroom | 18915 | [18915-blackroom.json](./18915-blackroom.json) |
 | Blackroot: Medieval Survival | 348571 | [348571-blackroot-medieval-survival.json](./348571-blackroot-medieval-survival.json) |
 | Blacksad: Under the Skin - Collector's Edition | 166272 | [166272-blacksad-under-the-skin-collectors-edition.json](./166272-blacksad-under-the-skin-collectors-edition.json) |
 | BlackSands | 391334 | [391334-blacksands.json](./391334-blacksands.json) |
