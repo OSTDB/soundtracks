@@ -6969,6 +6969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravityscape DX | 287590 | [287590-gravityscape-dx.json](./287590-gravityscape-dx.json) |
 | GravityTunnelVR | 52773 | [52773-gravitytunnelvr.json](./52773-gravitytunnelvr.json) |
 | GravMetal | 335736 | [335736-gravmetal.json](./335736-gravmetal.json) |
+| GravNewton | 52249 | [52249-gravnewton.json](./52249-gravnewton.json) |
 | GravPool | 32180 | [32180-gravpool.json](./32180-gravpool.json) |
 | GravSheep | 90904 | [90904-gravsheep.json](./90904-gravsheep.json) |
 | GravShift | 337575 | [337575-gravshift.json](./337575-gravshift.json) |
@@ -9259,6 +9260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyron | 79623 | [79623-gyron.json](./79623-gyron.json) |
 | Gyropod | 145367 | [145367-gyropod.json](./145367-gyropod.json) |
 | Gyroscope | 13866 | [13866-gyroscope.json](./13866-gyroscope.json) |
+| GyroSphere Trials | 52264 | [52264-gyrosphere-trials.json](./52264-gyrosphere-trials.json) |
 | Gyrostarr | 21791 | [21791-gyrostarr.json](./21791-gyrostarr.json) |
 | Gyruss | 12308 | [12308-gyruss.json](./12308-gyruss.json) |
 | Gyruss | 281033 | [281033-gyruss.json](./281033-gyruss.json) |
