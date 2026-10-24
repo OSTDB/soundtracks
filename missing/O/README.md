@@ -3394,6 +3394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Original Journey | 40968 | [40968-original-journey.json](./40968-original-journey.json) |
 | Original Story from Fairy Tail: Gekitotsu! Kardia Daiseidou | 80340 | [80340-original-story-from-fairy-tail-gekitotsu-kardia-daiseidou.json](./80340-original-story-from-fairy-tail-gekitotsu-kardia-daiseidou.json) |
 | Original Switch Color 2 | 90379 | [90379-original-switch-color-2.json](./90379-original-switch-color-2.json) |
+| Original War | 9538 | [9538-original-war.json](./9538-original-war.json) |
 | Originals: Interactive Story Series | 342107 | [342107-originals-interactive-story-series.json](./342107-originals-interactive-story-series.json) |
 | Origins | 235685 | [235685-origins.json](./235685-origins.json) |
 | Origins | 300704 | [300704-origins.json](./300704-origins.json) |
@@ -4479,6 +4480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overboss | 214604 | [214604-overboss.json](./214604-overboss.json) |
 | Overcast and Light Rain | 185011 | [185011-overcast-and-light-rain.json](./185011-overcast-and-light-rain.json) |
 | Overcat | 373530 | [373530-overcat.json](./373530-overcat.json) |
+| Overclocked: A History of Violence | 21485 | [21485-overclocked-a-history-of-violence.json](./21485-overclocked-a-history-of-violence.json) |
 | Overclocked: The Aclockalypse | 96863 | [96863-overclocked-the-aclockalypse.json](./96863-overclocked-the-aclockalypse.json) |
 | Overcome | 113631 | [113631-overcome.json](./113631-overcome.json) |
 | Overcome Your Fears: Caretaker | 333822 | [333822-overcome-your-fears-caretaker.json](./333822-overcome-your-fears-caretaker.json) |
