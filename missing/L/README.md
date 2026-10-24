@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Pocket | 261099 | [261099-last-pocket.json](./261099-last-pocket.json) |
 | Last Protection | 122374 | [122374-last-protection.json](./122374-last-protection.json) |
 | Last Question | 334920 | [334920-last-question.json](./334920-last-question.json) |
+| Last Rebellion | 7363 | [7363-last-rebellion.json](./7363-last-rebellion.json) |
 | Last Regiment | 119908 | [119908-last-regiment.json](./119908-last-regiment.json) |
 | Last Remains | 249467 | [249467-last-remains.json](./249467-last-remains.json) |
 | Last Report | 333277 | [333277-last-report.json](./333277-last-report.json) |
@@ -8193,6 +8194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxor Solitaire | 115524 | [115524-luxor-solitaire.json](./115524-luxor-solitaire.json) |
 | Luxor: Amun Rising | 7538 | [7538-luxor-amun-rising.json](./7538-luxor-amun-rising.json) |
 | Luxor: Mah Jong | 16004 | [16004-luxor-mah-jong.json](./16004-luxor-mah-jong.json) |
+| Luxor: Quest for the Afterlife | 7537 | [7537-luxor-quest-for-the-afterlife.json](./7537-luxor-quest-for-the-afterlife.json) |
 | Luxor: The Wrath of Set | 42766 | [42766-luxor-the-wrath-of-set.json](./42766-luxor-the-wrath-of-set.json) |
 | Luxoral Prime | 168139 | [168139-luxoral-prime.json](./168139-luxoral-prime.json) |
 | Luxsor: Nights Over Egypt | 400338 | [400338-luxsor-nights-over-egypt.json](./400338-luxsor-nights-over-egypt.json) |
