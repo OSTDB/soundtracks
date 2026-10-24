@@ -3620,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terracards | 258426 | [258426-terracards.json](./258426-terracards.json) |
 | Terracide | 77393 | [77393-terracide.json](./77393-terracide.json) |
 | Terraclysm Survivors | 401888 | [401888-terraclysm-survivors.json](./401888-terraclysm-survivors.json) |
+| Terracon | 43688 | [43688-terracon.json](./43688-terracon.json) |
 | Terracosmic | 132622 | [132622-terracosmic.json](./132622-terracosmic.json) |
 | Terracotta | 143435 | [143435-terracotta.json](./143435-terracotta.json) |
 | Terracotta | 271235 | [271235-terracotta.json](./271235-terracotta.json) |
@@ -4049,6 +4050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Ultimate | 8194 | [8194-tetris-ultimate.json](./8194-tetris-ultimate.json) |
 | Tetris Worlds | 243183 | [243183-tetris-worlds.json](./243183-tetris-worlds.json) |
 | Tetris Worlds: Online Edition | 23709 | [23709-tetris-worlds-online-edition.json](./23709-tetris-worlds-online-edition.json) |
+| Tetris X | 43727 | [43727-tetris-x.json](./43727-tetris-x.json) |
 | Tetris Zone | 78032 | [78032-tetris-zone.json](./78032-tetris-zone.json) |
 | Tetris: Flower Garden | 195739 | [195739-tetris-flower-garden.json](./195739-tetris-flower-garden.json) |
 | Tetris: Rosy Retrospection | 247519 | [247519-tetris-rosy-retrospection.json](./247519-tetris-rosy-retrospection.json) |
@@ -11333,7 +11335,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -19677,6 +19678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Mahjong Paradise Special: Koi no Tenpai Beat | 98283 | [98283-tokimeki-mahjong-paradise-special-koi-no-tenpai-beat.json](./98283-tokimeki-mahjong-paradise-special-koi-no-tenpai-beat.json) |
 | Tokimeki Mahjong Paradise: Koi no Tenpai Beat | 98281 | [98281-tokimeki-mahjong-paradise-koi-no-tenpai-beat.json](./98281-tokimeki-mahjong-paradise-koi-no-tenpai-beat.json) |
 | Tokimeki Memorial | 72984 | [72984-tokimeki-memorial.json](./72984-tokimeki-memorial.json) |
+| Tokimeki Memorial 2 | 43695 | [43695-tokimeki-memorial-2.json](./43695-tokimeki-memorial-2.json) |
 | Tokimeki Memorial 2 Substories: Dancing Summer Vacation | 108746 | [108746-tokimeki-memorial-2-substories-dancing-summer-vacation.json](./108746-tokimeki-memorial-2-substories-dancing-summer-vacation.json) |
 | Tokimeki Memorial 2 Substories: Leaping School Festival | 108742 | [108742-tokimeki-memorial-2-substories-leaping-school-festival.json](./108742-tokimeki-memorial-2-substories-leaping-school-festival.json) |
 | Tokimeki Memorial 2 Substories: Memories Ringing On | 108743 | [108743-tokimeki-memorial-2-substories-memories-ringing-on.json](./108743-tokimeki-memorial-2-substories-memories-ringing-on.json) |
@@ -20102,6 +20104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider II: The Forbidden Place | 255842 | [255842-tomb-raider-ii-the-forbidden-place.json](./255842-tomb-raider-ii-the-forbidden-place.json) |
 | Tomb Raider III | 266699 | [266699-tomb-raider-iii.json](./266699-tomb-raider-iii.json) |
 | Tomb Raider III: Adventures of Lara Croft | 1157 | [1157-tomb-raider-iii-adventures-of-lara-croft.json](./1157-tomb-raider-iii-adventures-of-lara-croft.json) |
+| Tomb Raider III: Adventures of Lara Croft - Collector's Edition | 43689 | [43689-tomb-raider-iii-adventures-of-lara-croft-collectors-edition.json](./43689-tomb-raider-iii-adventures-of-lara-croft-collectors-edition.json) |
 | Tomb Raider IV•V•VI Remastered: Deluxe Edition | 382879 | [382879-tomb-raider-iv-v-vi-remastered-deluxe-edition.json](./382879-tomb-raider-iv-v-vi-remastered-deluxe-edition.json) |
 | Tomb Raider Level Editor | 130808 | [130808-tomb-raider-level-editor.json](./130808-tomb-raider-level-editor.json) |
 | Tomb Raider Reloaded | 143139 | [143139-tomb-raider-reloaded.json](./143139-tomb-raider-reloaded.json) |
@@ -20116,6 +20119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Catalyst | 381234 | [381234-tomb-raider-catalyst.json](./381234-tomb-raider-catalyst.json) |
 | Tomb Raider: Caves and Cliffs Multiplayer Map Pack | 406533 | [406533-tomb-raider-caves-and-cliffs-multiplayer-map-pack.json](./406533-tomb-raider-caves-and-cliffs-multiplayer-map-pack.json) |
 | Tomb Raider: Chronicles | 319750 | [319750-tomb-raider-chronicles.json](./319750-tomb-raider-chronicles.json) |
+| Tomb Raider: Collector's Edition | 43690 | [43690-tomb-raider-collectors-edition.json](./43690-tomb-raider-collectors-edition.json) |
 | Tomb Raider: Definitive Edition | 19965 | [19965-tomb-raider-definitive-edition.json](./19965-tomb-raider-definitive-edition.json) |
 | Tomb Raider: Definitive Survivor Trilogy | 144771 | [144771-tomb-raider-definitive-survivor-trilogy.json](./144771-tomb-raider-definitive-survivor-trilogy.json) |
 | Tomb Raider: Demolition Skin | 406536 | [406536-tomb-raider-demolition-skin.json](./406536-tomb-raider-demolition-skin.json) |
