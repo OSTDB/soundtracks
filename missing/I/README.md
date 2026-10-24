@@ -2281,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Cubation | 73715 | [73715-in-cubation.json](./73715-in-cubation.json) |
 | In Darkness | 83570 | [83570-in-darkness.json](./83570-in-darkness.json) |
 | In Darkness We Hide | 277779 | [277779-in-darkness-we-hide.json](./277779-in-darkness-we-hide.json) |
+| In Death | 81225 | [81225-in-death.json](./81225-in-death.json) |
 | In Death Unchained | 135118 | [135118-in-death-unchained.json](./135118-in-death-unchained.json) |
 | In Death We Love | 329374 | [329374-in-death-we-love.json](./329374-in-death-we-love.json) |
 | In Drmzzz | 225288 | [225288-in-drmzzz.json](./225288-in-drmzzz.json) |
@@ -3966,6 +3967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interior Designer | 295882 | [295882-interior-designer.json](./295882-interior-designer.json) |
 | Interior Worlds | 223460 | [223460-interior-worlds.json](./223460-interior-worlds.json) |
 | Interitus | 201249 | [201249-interitus.json](./201249-interitus.json) |
+| Interkosmos | 28239 | [28239-interkosmos.json](./28239-interkosmos.json) |
 | Interkosmos 2000 | 215398 | [215398-interkosmos-2000.json](./215398-interkosmos-2000.json) |
 | Interland | 55999 | [55999-interland.json](./55999-interland.json) |
 | Interlayer | 216745 | [216745-interlayer.json](./216745-interlayer.json) |
