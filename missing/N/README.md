@@ -3685,6 +3685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Break | 340550 | [340550-nightmare-break.json](./340550-nightmare-break.json) |
 | Nightmare Breaker | 230312 | [230312-nightmare-breaker.json](./230312-nightmare-breaker.json) |
 | Nightmare Burger Hell | 181885 | [181885-nightmare-burger-hell.json](./181885-nightmare-burger-hell.json) |
+| Nightmare Busters | 42375 | [42375-nightmare-busters.json](./42375-nightmare-busters.json) |
 | Nightmare Busters Rebirth | 392366 | [392366-nightmare-busters-rebirth.json](./392366-nightmare-busters-rebirth.json) |
 | Nightmare Cafe II | 339165 | [339165-nightmare-cafe-ii.json](./339165-nightmare-cafe-ii.json) |
 | Nightmare Class Project | 390137 | [390137-nightmare-class-project.json](./390137-nightmare-class-project.json) |
