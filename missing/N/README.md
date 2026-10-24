@@ -4136,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden | 175905 | [175905-ninja-gaiden.json](./175905-ninja-gaiden.json) |
 | Ninja Gaiden | 198837 | [198837-ninja-gaiden.json](./198837-ninja-gaiden.json) |
 | Ninja Gaiden | 198839 | [198839-ninja-gaiden.json](./198839-ninja-gaiden.json) |
+| Ninja Gaiden | 210484 | [210484-ninja-gaiden.json](./210484-ninja-gaiden.json) |
 | Ninja Gaiden | 221646 | [221646-ninja-gaiden.json](./221646-ninja-gaiden.json) |
 | Ninja Gaiden | 239925 | [239925-ninja-gaiden.json](./239925-ninja-gaiden.json) |
 | Ninja Gaiden 3 | 7122 | [7122-ninja-gaiden-3.json](./7122-ninja-gaiden-3.json) |
