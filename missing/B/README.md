@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2284,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barren Roads | 35954 | [35954-barren-roads.json](./35954-barren-roads.json) |
 | Barrhell | 276702 | [276702-barrhell.json](./276702-barrhell.json) |
 | Barricade | 18116 | [18116-barricade.json](./18116-barricade.json) |
+| Barricadez | 127854 | [127854-barricadez.json](./127854-barricadez.json) |
 | Barricadez ReVisited | 169897 | [169897-barricadez-revisited.json](./169897-barricadez-revisited.json) |
 | Barrier | 317304 | [317304-barrier.json](./317304-barrier.json) |
 | Barrier | 346049 | [346049-barrier.json](./346049-barrier.json) |
@@ -9350,6 +9352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blow Away | 244885 | [244885-blow-away.json](./244885-blow-away.json) |
 | Blow Away Survivors | 250507 | [250507-blow-away-survivors.json](./250507-blow-away-survivors.json) |
 | Blow Fish Music Quiz | 195441 | [195441-blow-fish-music-quiz.json](./195441-blow-fish-music-quiz.json) |
+| Blow it up | 150867 | [150867-blow-it-up.json](./150867-blow-it-up.json) |
 | Blow Out | 312823 | [312823-blow-out.json](./312823-blow-out.json) |
 | Blow Up Pieces: Unleashed | 116791 | [116791-blow-up-pieces-unleashed.json](./116791-blow-up-pieces-unleashed.json) |
 | Blow Up! | 47556 | [47556-blow-up.json](./47556-blow-up.json) |
@@ -11029,6 +11032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bots | 58817 | [58817-bots.json](./58817-bots.json) |
 | Bots & Belts | 139484 | [139484-bots-and-belts.json](./139484-bots-and-belts.json) |
 | Bots & Mods | 291725 | [291725-bots-and-mods.json](./291725-bots-and-mods.json) |
+| Bots Are Stupid | 151103 | [151103-bots-are-stupid.json](./151103-bots-are-stupid.json) |
 | Bots Can Feel Too | 200045 | [200045-bots-can-feel-too.json](./200045-bots-can-feel-too.json) |
 | Bots Chaos | 243595 | [243595-bots-chaos.json](./243595-bots-chaos.json) |
 | Bots City | 207690 | [207690-bots-city.json](./207690-bots-city.json) |
@@ -14259,6 +14263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Mazes | 324986 | [324986-bunny-mazes.json](./324986-bunny-mazes.json) |
 | Bunny Minesweeper | 106579 | [106579-bunny-minesweeper.json](./106579-bunny-minesweeper.json) |
 | Bunny on Rails | 298831 | [298831-bunny-on-rails.json](./298831-bunny-on-rails.json) |
+| Bunny Park | 127749 | [127749-bunny-park.json](./127749-bunny-park.json) |
 | Bunny Parking | 116064 | [116064-bunny-parking.json](./116064-bunny-parking.json) |
 | Bunny Pop 2: Beat the Wolf | 103890 | [103890-bunny-pop-2-beat-the-wolf.json](./103890-bunny-pop-2-beat-the-wolf.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
