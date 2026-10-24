@@ -2062,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Your Country Great Again | 309541 | [309541-make-your-country-great-again.json](./309541-make-your-country-great-again.json) |
 | Make Your Kingdom | 112781 | [112781-make-your-kingdom.json](./112781-make-your-kingdom.json) |
 | Make Your Move | 348322 | [348322-make-your-move.json](./348322-make-your-move.json) |
+| Make Your Own Murder Party | 36751 | [36751-make-your-own-murder-party.json](./36751-make-your-own-murder-party.json) |
 | Make Zombies Great Again | 99149 | [99149-make-zombies-great-again.json](./99149-make-zombies-great-again.json) |
 | Make-Up Touch 2 | 98831 | [98831-make-up-touch-2.json](./98831-make-up-touch-2.json) |
 | MakeBridge | 93438 | [93438-makebridge.json](./93438-makebridge.json) |
@@ -9537,6 +9538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimic | 80902 | [80902-mimic.json](./80902-mimic.json) |
 | Mimic Arena | 33785 | [33785-mimic-arena.json](./33785-mimic-arena.json) |
 | Mimic Busters | 418674 | [418674-mimic-busters.json](./418674-mimic-busters.json) |
+| Mimic Hunter | 36703 | [36703-mimic-hunter.json](./36703-mimic-hunter.json) |
 | Mimic Hunters | 239761 | [239761-mimic-hunters.json](./239761-mimic-hunters.json) |
 | Mimic Man | 217185 | [217185-mimic-man.json](./217185-mimic-man.json) |
 | Mimic Party | 413646 | [413646-mimic-party.json](./413646-mimic-party.json) |
@@ -10811,6 +10813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirrorscape | 270120 | [270120-mirrorscape.json](./270120-mirrorscape.json) |
 | Mirrorscape: Deluxe Starter Pack | 301849 | [301849-mirrorscape-deluxe-starter-pack.json](./301849-mirrorscape-deluxe-starter-pack.json) |
 | Mirrorscape: Outdoor Starter Pack | 301848 | [301848-mirrorscape-outdoor-starter-pack.json](./301848-mirrorscape-outdoor-starter-pack.json) |
+| Mirt. Tales of the Cold Land | 36710 | [36710-mirt-tales-of-the-cold-land.json](./36710-mirt-tales-of-the-cold-land.json) |
 | Mirt. Tales of the Cold Land. Chapter one | 71031 | [71031-mirt-tales-of-the-cold-land-chapter-one.json](./71031-mirt-tales-of-the-cold-land-chapter-one.json) |
 | Mirth Island | 249854 | [249854-mirth-island.json](./249854-mirth-island.json) |
 | Mirth Melody | 313781 | [313781-mirth-melody.json](./313781-mirth-melody.json) |
@@ -15144,6 +15147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugen no Shinzou III | 281031 | [281031-mugen-no-shinzou-iii.json](./281031-mugen-no-shinzou-iii.json) |
 | Mugen no Yoru | 284608 | [284608-mugen-no-yoru.json](./284608-mugen-no-yoru.json) |
 | Mugen RPG | 301613 | [301613-mugen-rpg.json](./301613-mugen-rpg.json) |
+| Mugen Senshi Valis: The Fantasm Soldier | 36789 | [36789-mugen-senshi-valis-the-fantasm-soldier.json](./36789-mugen-senshi-valis-the-fantasm-soldier.json) |
 | Mugen Senshi Valis: The Legend of a Fantasm Soldier | 186074 | [186074-mugen-senshi-valis-the-legend-of-a-fantasm-soldier.json](./186074-mugen-senshi-valis-the-legend-of-a-fantasm-soldier.json) |
 | Mugen Souls | 11501 | [11501-mugen-souls.json](./11501-mugen-souls.json) |
 | Mugen Souls Double Pack | 262325 | [262325-mugen-souls-double-pack.json](./262325-mugen-souls-double-pack.json) |
@@ -17156,6 +17160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst: Through the Ages Collection | 230816 | [230816-myst-through-the-ages-collection.json](./230816-myst-through-the-ages-collection.json) |
 | MyStar | 126595 | [126595-mystar.json](./126595-mystar.json) |
 | Mystera Legacy | 182084 | [182084-mystera-legacy.json](./182084-mystera-legacy.json) |
+| Mystereet F: The Detectives' Curtain Call | 36756 | [36756-mystereet-f-the-detectives-curtain-call.json](./36756-mystereet-f-the-detectives-curtain-call.json) |
 | Mystereet: Detective Vacation | 122855 | [122855-mystereet-detective-vacation.json](./122855-mystereet-detective-vacation.json) |
 | Mystereet: Fukagyaku Sekai no Tantei Shinshi | 61540 | [61540-mystereet-fukagyaku-sekai-no-tantei-shinshi.json](./61540-mystereet-fukagyaku-sekai-no-tantei-shinshi.json) |
 | Mystereet: Other Side of Church | 122856 | [122856-mystereet-other-side-of-church.json](./122856-mystereet-other-side-of-church.json) |
