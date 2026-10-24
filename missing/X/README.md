@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoblade Chronicles 2 | 26766 | [26766-xenoblade-chronicles-2.json](./26766-xenoblade-chronicles-2.json) |
 | Xenoblade Chronicles 2: Expansion Pass | 245690 | [245690-xenoblade-chronicles-2-expansion-pass.json](./245690-xenoblade-chronicles-2-expansion-pass.json) |
 | Xenoblade Chronicles 2: Nintendo Switch 2 Edition | 405447 | [405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json](./405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json) |
+| Xenoblade Chronicles 2: Special Edition | 27298 | [27298-xenoblade-chronicles-2-special-edition.json](./27298-xenoblade-chronicles-2-special-edition.json) |
 | Xenoblade Chronicles 2: Torna - The Golden Country | 103340 | [103340-xenoblade-chronicles-2-torna-the-golden-country.json](./103340-xenoblade-chronicles-2-torna-the-golden-country.json) |
 | Xenoblade Chronicles 3 | 191411 | [191411-xenoblade-chronicles-3.json](./191411-xenoblade-chronicles-3.json) |
 | Xenoblade Chronicles 3 Randomizer | 380732 | [380732-xenoblade-chronicles-3-randomizer.json](./380732-xenoblade-chronicles-3-randomizer.json) |
@@ -581,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenosaga Pied Piper Recreation | 341010 | [341010-xenosaga-pied-piper-recreation.json](./341010-xenosaga-pied-piper-recreation.json) |
 | Xenosaga: Pied Piper | 127790 | [127790-xenosaga-pied-piper.json](./127790-xenosaga-pied-piper.json) |
 | Xenoscape | 142886 | [142886-xenoscape.json](./142886-xenoscape.json) |
+| Xenoscape | 27287 | [27287-xenoscape.json](./27287-xenoscape.json) |
 | XenoShyft: Dreadmire | 170380 | [170380-xenoshyft-dreadmire.json](./170380-xenoshyft-dreadmire.json) |
 | XenoShyft: Forbidden Sciences | 170378 | [170378-xenoshyft-forbidden-sciences.json](./170378-xenoshyft-forbidden-sciences.json) |
 | XenoShyft: NorTec Elite | 170379 | [170379-xenoshyft-nortec-elite.json](./170379-xenoshyft-nortec-elite.json) |
