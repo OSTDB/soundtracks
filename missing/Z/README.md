@@ -972,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zill O'll | 94007 | [94007-zill-oll.json](./94007-zill-oll.json) |
 | Zill O'll Infinite | 80486 | [80486-zill-oll-infinite.json](./80486-zill-oll-infinite.json) |
 | Zilla: Shadow of the Bridge | 257989 | [257989-zilla-shadow-of-the-bridge.json](./257989-zilla-shadow-of-the-bridge.json) |
+| Zillion | 18141 | [18141-zillion.json](./18141-zillion.json) |
 | Zillion II: The Tri Formation | 46114 | [46114-zillion-ii-the-tri-formation.json](./46114-zillion-ii-the-tri-formation.json) |
 | Zillions of Games | 311470 | [311470-zillions-of-games.json](./311470-zillions-of-games.json) |
 | Zilm: a game of reflex | 64135 | [64135-zilm-a-game-of-reflex.json](./64135-zilm-a-game-of-reflex.json) |
@@ -1173,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Ants VR: Definitive Edition | 359219 | [359219-zombie-ants-vr-definitive-edition.json](./359219-zombie-ants-vr-definitive-edition.json) |
 | Zombie Apocalypse | 106306 | [106306-zombie-apocalypse.json](./106306-zombie-apocalypse.json) |
 | Zombie Apocalypse | 147819 | [147819-zombie-apocalypse.json](./147819-zombie-apocalypse.json) |
+| Zombie Apocalypse | 18053 | [18053-zombie-apocalypse.json](./18053-zombie-apocalypse.json) |
 | Zombie Apocalypse 2021 | 154381 | [154381-zombie-apocalypse-2021.json](./154381-zombie-apocalypse-2021.json) |
 | Zombie Apocalypse Mini Golf | 118606 | [118606-zombie-apocalypse-mini-golf.json](./118606-zombie-apocalypse-mini-golf.json) |
 | Zombie Apocalypse Survivor | 99616 | [99616-zombie-apocalypse-survivor.json](./99616-zombie-apocalypse-survivor.json) |
