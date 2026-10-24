@@ -1914,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vintage Records from Hell | 202616 | [202616-vintage-records-from-hell.json](./202616-vintage-records-from-hell.json) |
 | Vintage VR | 32749 | [32749-vintage-vr.json](./32749-vintage-vr.json) |
 | Vintergard | 354654 | [354654-vintergard.json](./354654-vintergard.json) |
+| Vinyl | 35299 | [35299-vinyl.json](./35299-vinyl.json) |
 | Vinyl Freak: Unsorted | 419996 | [419996-vinyl-freak-unsorted.json](./419996-vinyl-freak-unsorted.json) |
 | Vinyl Goddess from Mars | 70953 | [70953-vinyl-goddess-from-mars.json](./70953-vinyl-goddess-from-mars.json) |
 | VinylMinty's Video Game Quiz | 320980 | [320980-vinylmintys-video-game-quiz.json](./320980-vinylmintys-video-game-quiz.json) |
