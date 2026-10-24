@@ -2464,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius: Im Zentrum der Macht | 86122 | [86122-genius-im-zentrum-der-macht.json](./86122-genius-im-zentrum-der-macht.json) |
 | Genius! Nazi-Girl GoePpels-Chan Ep2 | 118018 | [118018-genius-nazi-girl-goeppels-chan-ep2.json](./118018-genius-nazi-girl-goeppels-chan-ep2.json) |
 | Genji Koi Emaki | 130010 | [130010-genji-koi-emaki.json](./130010-genji-koi-emaki.json) |
+| Genji: Dawn of the Samurai | 14407 | [14407-genji-dawn-of-the-samurai.json](./14407-genji-dawn-of-the-samurai.json) |
 | Genji: Days of the Blade | 7315 | [7315-genji-days-of-the-blade.json](./7315-genji-days-of-the-blade.json) |
 | Genji: Time Suspense Adventure | 66150 | [66150-genji-time-suspense-adventure.json](./66150-genji-time-suspense-adventure.json) |
 | Genji: Time Suspense Adventure | 66634 | [66634-genji-time-suspense-adventure.json](./66634-genji-time-suspense-adventure.json) |
@@ -3838,6 +3839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladio and Glory | 144881 | [144881-gladio-and-glory.json](./144881-gladio-and-glory.json) |
 | Gladio Mori | 278415 | [278415-gladio-mori.json](./278415-gladio-mori.json) |
 | Gladium | 120784 | [120784-gladium.json](./120784-gladium.json) |
+| Gladius | 3932 | [3932-gladius.json](./3932-gladius.json) |
 | GladMort | 320021 | [320021-gladmort.json](./320021-gladmort.json) |
 | Gladom: The 2D MOBA in Pixel Art | 121469 | [121469-gladom-the-2d-moba-in-pixel-art.json](./121469-gladom-the-2d-moba-in-pixel-art.json) |
 | Glais Gawizt | 266765 | [266765-glais-gawizt.json](./266765-glais-gawizt.json) |
