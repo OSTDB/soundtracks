@@ -1332,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Fun Pack | 391196 | [391196-family-fun-pack.json](./391196-family-fun-pack.json) |
 | Family Funday | 310582 | [310582-family-funday.json](./310582-family-funday.json) |
 | Family Game Mega Pack 14 in 1 | 294842 | [294842-family-game-mega-pack-14-in-1.json](./294842-family-game-mega-pack-14-in-1.json) |
+| Family Game Night 2 | 21786 | [21786-family-game-night-2.json](./21786-family-game-night-2.json) |
 | Family Game Night 4: The Game Show | 20220 | [20220-family-game-night-4-the-game-show.json](./20220-family-game-night-4-the-game-show.json) |
 | Family Game Night 4: The Game Show | 47421 | [47421-family-game-night-4-the-game-show.json](./47421-family-game-night-4-the-game-show.json) |
 | Family Game Pack | 131184 | [131184-family-game-pack.json](./131184-family-game-pack.json) |
@@ -6992,6 +6993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyhight Cloudia | 287881 | [287881-flyhight-cloudia.json](./287881-flyhight-cloudia.json) |
 | Flyhight Cloudia II | 288189 | [288189-flyhight-cloudia-ii.json](./288189-flyhight-cloudia-ii.json) |
 | Flyhight Cloudia IV - Eien no Kizuna | 292092 | [292092-flyhight-cloudia-iv-eien-no-kizuna.json](./292092-flyhight-cloudia-iv-eien-no-kizuna.json) |
+| Flyhunter Origins | 17390 | [17390-flyhunter-origins.json](./17390-flyhunter-origins.json) |
 | Flyin' High | 72060 | [72060-flyin-high.json](./72060-flyin-high.json) |
 | Flyin' High Data Disk 1 | 93009 | [93009-flyin-high-data-disk-1.json](./93009-flyin-high-data-disk-1.json) |
 | Flyin' High Data Disk 2 | 79965 | [79965-flyin-high-data-disk-2.json](./79965-flyin-high-data-disk-2.json) |
@@ -10831,6 +10833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: Wicked Movie Pack 3 | 354230 | [354230-funko-fusion-wicked-movie-pack-3.json](./354230-funko-fusion-wicked-movie-pack-3.json) |
 | Funko Fusion: Wolfie Pack | 354241 | [354241-funko-fusion-wolfie-pack.json](./354241-funko-fusion-wolfie-pack.json) |
 | Funko Fusion: Yuletide Pack | 332471 | [332471-funko-fusion-yuletide-pack.json](./332471-funko-fusion-yuletide-pack.json) |
+| Funky Barn | 21698 | [21698-funky-barn.json](./21698-funky-barn.json) |
 | Funky Barn 3D | 65333 | [65333-funky-barn-3d.json](./65333-funky-barn-3d.json) |
 | Funky Bay - Farm & Adventure | 106356 | [106356-funky-bay-farm-and-adventure.json](./106356-funky-bay-farm-and-adventure.json) |
 | Funky Bee | 40131 | [40131-funky-bee.json](./40131-funky-bee.json) |
