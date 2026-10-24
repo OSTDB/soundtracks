@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakota Winchester's Adventures 2 | 310557 | [310557-dakota-winchesters-adventures-2.json](./310557-dakota-winchesters-adventures-2.json) |
 | Dakota Winchester's Adventures 3 | 310558 | [310558-dakota-winchesters-adventures-3.json](./310558-dakota-winchesters-adventures-3.json) |
 | Dakpo | 144655 | [144655-dakpo.json](./144655-dakpo.json) |
+| Dal Segno | 37038 | [37038-dal-segno.json](./37038-dal-segno.json) |
 | Dal'X | 94601 | [94601-dalx.json](./94601-dalx.json) |
 | Dala and The Cursed Forest | 292768 | [292768-dala-and-the-cursed-forest.json](./292768-dala-and-the-cursed-forest.json) |
 | Daldzah | 277978 | [277978-daldzah.json](./277978-daldzah.json) |
