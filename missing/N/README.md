@@ -4342,6 +4342,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninpuchi! Cryptoninja Petit | 333933 | [333933-ninpuchi-cryptoninja-petit.json](./333933-ninpuchi-cryptoninja-petit.json) |
 | Ninshi Masuta | 131617 | [131617-ninshi-masuta.json](./131617-ninshi-masuta.json) |
 | Nintama Rantarou | 37741 | [37741-nintama-rantarou.json](./37741-nintama-rantarou.json) |
+| Nintama Rantarou 2 | 38114 | [38114-nintama-rantarou-2.json](./38114-nintama-rantarou-2.json) |
+| Nintama Rantarou 3 | 38113 | [38113-nintama-rantarou-3.json](./38113-nintama-rantarou-3.json) |
 | Nintama Rantarou GB | 138095 | [138095-nintama-rantarou-gb.json](./138095-nintama-rantarou-gb.json) |
 | Nintama Rantarou GB: E-awase Challenge Puzzle | 97862 | [97862-nintama-rantarou-gb-e-awase-challenge-puzzle.json](./97862-nintama-rantarou-gb-e-awase-challenge-puzzle.json) |
 | Nintama Rantarou Mugen no Tsubo Daibousou no Dan | 227251 | [227251-nintama-rantarou-mugen-no-tsubo-daibousou-no-dan.json](./227251-nintama-rantarou-mugen-no-tsubo-daibousou-no-dan.json) |
