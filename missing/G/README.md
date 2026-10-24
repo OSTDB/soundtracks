@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardens of Time | 65951 | [65951-gardens-of-time.json](./65951-gardens-of-time.json) |
 | Gardens of Vextro | 229091 | [229091-gardens-of-vextro.json](./229091-gardens-of-vextro.json) |
 | Gardenscapes | 320939 | [320939-gardenscapes.json](./320939-gardenscapes.json) |
+| Gardenscapes | 63434 | [63434-gardenscapes.json](./63434-gardenscapes.json) |
 | Gardenscapes: Mansion Makeover | 294685 | [294685-gardenscapes-mansion-makeover.json](./294685-gardenscapes-mansion-makeover.json) |
 | Gardia | 39684 | [39684-gardia.json](./39684-gardia.json) |
 | Gardman | 282687 | [282687-gardman.json](./282687-gardman.json) |
@@ -6097,6 +6098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius Origins | 337028 | [337028-gradius-origins.json](./337028-gradius-origins.json) |
 | Gradius ReBirth | 1489 | [1489-gradius-rebirth.json](./1489-gradius-rebirth.json) |
 | Gradius V | 1488 | [1488-gradius-v.json](./1488-gradius-v.json) |
+| Gradius: The Interstellar Assault | 48996 | [48996-gradius-the-interstellar-assault.json](./48996-gradius-the-interstellar-assault.json) |
 | Gradually Forward | 119611 | [119611-gradually-forward.json](./119611-gradually-forward.json) |
 | Graduate Battle | 358511 | [358511-graduate-battle.json](./358511-graduate-battle.json) |
 | Graduated | 117617 | [117617-graduated.json](./117617-graduated.json) |
