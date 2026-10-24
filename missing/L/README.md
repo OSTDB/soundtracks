@@ -3681,6 +3681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life's Too Short: On Reflection | 329912 | [329912-lifes-too-short-on-reflection.json](./329912-lifes-too-short-on-reflection.json) |
 | Life's Too Short! | 259139 | [259139-lifes-too-short.json](./259139-lifes-too-short.json) |
 | LifeAfter | 115660 | [115660-lifeafter.json](./115660-lifeafter.json) |
+| LifeBase | 29521 | [29521-lifebase.json](./29521-lifebase.json) |
 | Lifeblood | 103357 | [103357-lifeblood.json](./103357-lifeblood.json) |
 | Lifeboat | 363308 | [363308-lifeboat.json](./363308-lifeboat.json) |
 | Lifecycles of the Traveler Spider | 390575 | [390575-lifecycles-of-the-traveler-spider.json](./390575-lifecycles-of-the-traveler-spider.json) |
@@ -3784,6 +3785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light in the Woods | 343849 | [343849-light-in-the-woods.json](./343849-light-in-the-woods.json) |
 | Light Infantry | 161157 | [161157-light-infantry.json](./161157-light-infantry.json) |
 | Light Instinct | 357818 | [357818-light-instinct.json](./357818-light-instinct.json) |
+| Light It | 29497 | [29497-light-it.json](./29497-light-it.json) |
 | Light Kin | 219635 | [219635-light-kin.json](./219635-light-kin.json) |
 | Light Leak | 395170 | [395170-light-leak.json](./395170-light-leak.json) |
 | Light Magic 2 | 316683 | [316683-light-magic-2.json](./316683-light-magic-2.json) |
