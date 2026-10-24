@@ -1156,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Breakers | 45231 | [45231-ball-breakers.json](./45231-ball-breakers.json) |
 | Ball Breakers Corp. | 70051 | [70051-ball-breakers-corp.json](./70051-ball-breakers-corp.json) |
 | Ball Bulét | 304632 | [304632-ball-bulet.json](./304632-ball-bulet.json) |
+| Ball Bullet Gun: Survival Game Simulation | 42378 | [42378-ball-bullet-gun-survival-game-simulation.json](./42378-ball-bullet-gun-survival-game-simulation.json) |
 | Ball Buster | 134976 | [134976-ball-buster.json](./134976-ball-buster.json) |
 | Ball Buster Breakout | 404372 | [404372-ball-buster-breakout.json](./404372-ball-buster-breakout.json) |
 | Ball Busters | 386496 | [386496-ball-busters.json](./386496-ball-busters.json) |
@@ -6829,6 +6830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Senshi Sailor Moon R | 309013 | [309013-bishoujo-senshi-sailor-moon-r.json](./309013-bishoujo-senshi-sailor-moon-r.json) |
 | Bishoujo Senshi Sailor Moon R: Moon Sensation! | 385787 | [385787-bishoujo-senshi-sailor-moon-r-moon-sensation.json](./385787-bishoujo-senshi-sailor-moon-r-moon-sensation.json) |
 | Bishoujo Senshi Sailor Moon R: Sailor Senshi Sanjou! | 385783 | [385783-bishoujo-senshi-sailor-moon-r-sailor-senshi-sanjou.json](./385783-bishoujo-senshi-sailor-moon-r-sailor-senshi-sanjou.json) |
+| Bishoujo Senshi Sailor Moon S: Jougai Rantou!? Shuyaku Soudatsusen | 42399 | [42399-bishoujo-senshi-sailor-moon-s-jougai-rantou-shuyaku-soudatsusen.json](./42399-bishoujo-senshi-sailor-moon-s-jougai-rantou-shuyaku-soudatsusen.json) |
 | Bishoujo Senshi Sailor Moon S: Kondo ha Puzzle de Oshioki yo!! | 38274 | [38274-bishoujo-senshi-sailor-moon-s-kondo-ha-puzzle-de-oshioki-yo.json](./38274-bishoujo-senshi-sailor-moon-s-kondo-ha-puzzle-de-oshioki-yo.json) |
 | Bishoujo Senshi Sailor Moon S: Quiz Taiketsu! Sailor Power Kesshuu | 138044 | [138044-bishoujo-senshi-sailor-moon-s-quiz-taiketsu-sailor-power-kesshuu.json](./138044-bishoujo-senshi-sailor-moon-s-quiz-taiketsu-sailor-power-kesshuu.json) |
 | Bishoujo Senshi Sailor Moon Sailor Stars: Fuwa-fuwa Panic 2 | 56370 | [56370-bishoujo-senshi-sailor-moon-sailor-stars-fuwa-fuwa-panic-2.json](./56370-bishoujo-senshi-sailor-moon-sailor-stars-fuwa-fuwa-panic-2.json) |
