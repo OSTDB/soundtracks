@@ -1289,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys I & II Chronicles+ | 21032 | [21032-ys-i-and-ii-chronicles.json](./21032-ys-i-and-ii-chronicles.json) |
 | Ys I & II: Eternal Story | 124499 | [124499-ys-i-and-ii-eternal-story.json](./124499-ys-i-and-ii-eternal-story.json) |
 | Ys I Chronicals | 410166 | [410166-ys-i-chronicals.json](./410166-ys-i-chronicals.json) |
+| Ys I Chronicles+ | 145897 | [145897-ys-i-chronicles.json](./145897-ys-i-chronicles.json) |
 | Ys I Complete | 124501 | [124501-ys-i-complete.json](./124501-ys-i-complete.json) |
 | Ys II | 206537 | [206537-ys-ii.json](./206537-ys-ii.json) |
 | Ys II Chronicals | 410167 | [410167-ys-ii-chronicals.json](./410167-ys-ii-chronicals.json) |
