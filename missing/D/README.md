@@ -11667,6 +11667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Atsumare! Goku's World | 230282 | [230282-dragon-ball-z-atsumare-gokus-world.json](./230282-dragon-ball-z-atsumare-gokus-world.json) |
 | Dragon Ball Z: Bakuretsu Impact | 66917 | [66917-dragon-ball-z-bakuretsu-impact.json](./66917-dragon-ball-z-bakuretsu-impact.json) |
 | Dragon Ball Z: Budokai 2 | 2564 | [2564-dragon-ball-z-budokai-2.json](./2564-dragon-ball-z-budokai-2.json) |
+| Dragon Ball Z: Budokai 3 | 2566 | [2566-dragon-ball-z-budokai-3.json](./2566-dragon-ball-z-budokai-3.json) |
 | Dragon Ball Z: Budokai 3 - Collector's Edition | 291591 | [291591-dragon-ball-z-budokai-3-collectors-edition.json](./291591-dragon-ball-z-budokai-3-collectors-edition.json) |
 | Dragon Ball Z: Budokai 3 HD | 288870 | [288870-dragon-ball-z-budokai-3-hd.json](./288870-dragon-ball-z-budokai-3-hd.json) |
 | Dragon Ball Z: Budokai HD | 288866 | [288866-dragon-ball-z-budokai-hd.json](./288866-dragon-ball-z-budokai-hd.json) |
@@ -11763,6 +11764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse - Season Pass | 269071 | [269071-dragon-ball-xenoverse-season-pass.json](./269071-dragon-ball-xenoverse-season-pass.json) |
 | Dragon Ball: Xenoverse - Time Travel Edition | 118894 | [118894-dragon-ball-xenoverse-time-travel-edition.json](./118894-dragon-ball-xenoverse-time-travel-edition.json) |
 | Dragon Ball: Xenoverse + GT Pack 1 Bundle | 99784 | [99784-dragon-ball-xenoverse-gt-pack-1-bundle.json](./99784-dragon-ball-xenoverse-gt-pack-1-bundle.json) |
+| Dragon Ball: Xenoverse 2 | 19449 | [19449-dragon-ball-xenoverse-2.json](./19449-dragon-ball-xenoverse-2.json) |
 | Dragon Ball: Xenoverse 2 - Conton City Vote Pack | 223592 | [223592-dragon-ball-xenoverse-2-conton-city-vote-pack.json](./223592-dragon-ball-xenoverse-2-conton-city-vote-pack.json) |
 | Dragon Ball: Xenoverse 2 - Day One Edition | 362979 | [362979-dragon-ball-xenoverse-2-day-one-edition.json](./362979-dragon-ball-xenoverse-2-day-one-edition.json) |
 | Dragon Ball: Xenoverse 2 - Extra DLC Pack 1 | 168747 | [168747-dragon-ball-xenoverse-2-extra-dlc-pack-1.json](./168747-dragon-ball-xenoverse-2-extra-dlc-pack-1.json) |
@@ -12045,6 +12047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest X: Nemureru Yuusha to Michibiki no Meiyuu Online | 203731 | [203731-dragon-quest-x-nemureru-yuusha-to-michibiki-no-meiyuu-online.json](./203731-dragon-quest-x-nemureru-yuusha-to-michibiki-no-meiyuu-online.json) |
 | Dragon Quest X: Tensei no Eiyuu-tachi Online | 159205 | [159205-dragon-quest-x-tensei-no-eiyuu-tachi-online.json](./159205-dragon-quest-x-tensei-no-eiyuu-tachi-online.json) |
 | Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition | 110069 | [110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json](./110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json) |
+| Dragon Quest XI: Echoes of an Elusive Age | 11667 | [11667-dragon-quest-xi-echoes-of-an-elusive-age.json](./11667-dragon-quest-xi-echoes-of-an-elusive-age.json) |
 | Dragon Quest XI: Echoes of an Elusive Age S - Ultimate Edition | 313423 | [313423-dragon-quest-xi-echoes-of-an-elusive-age-s-ultimate-edition.json](./313423-dragon-quest-xi-echoes-of-an-elusive-age-s-ultimate-edition.json) |
 | Dragon Quest XII: Beyond Dreams | 149978 | [149978-dragon-quest-xii-beyond-dreams.json](./149978-dragon-quest-xii-beyond-dreams.json) |
 | Dragon Quest: Legacy of the Lost | 300697 | [300697-dragon-quest-legacy-of-the-lost.json](./300697-dragon-quest-legacy-of-the-lost.json) |
