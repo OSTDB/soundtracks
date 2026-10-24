@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3645,6 +3646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlethorne | 272207 | [272207-battlethorne.json](./272207-battlethorne.json) |
 | Battlethorne: Reckoning | 370907 | [370907-battlethorne-reckoning.json](./370907-battlethorne-reckoning.json) |
 | BattleTime | 31886 | [31886-battletime.json](./31886-battletime.json) |
+| Battletoads | 103289 | [103289-battletoads.json](./103289-battletoads.json) |
 | Battletoads | 136619 | [136619-battletoads.json](./136619-battletoads.json) |
 | Battletoads | 262942 | [262942-battletoads.json](./262942-battletoads.json) |
 | Battletoads | 284226 | [284226-battletoads.json](./284226-battletoads.json) |
@@ -14273,6 +14275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buriki One | 28139 | [28139-buriki-one.json](./28139-buriki-one.json) |
 | Burkina Faso: Radical Insurgency | 293518 | [293518-burkina-faso-radical-insurgency.json](./293518-burkina-faso-radical-insurgency.json) |
 | Burlesque | 292650 | [292650-burlesque.json](./292650-burlesque.json) |
+| Burly Men at Sea | 24501 | [24501-burly-men-at-sea.json](./24501-burly-men-at-sea.json) |
 | Burn | 171449 | [171449-burn.json](./171449-burn.json) |
 | Burn | 311118 | [311118-burn.json](./311118-burn.json) |
 | Burn | 365241 | [365241-burn.json](./365241-burn.json) |
