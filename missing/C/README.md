@@ -4553,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager 2010 Express | 118918 | [118918-championship-manager-2010-express.json](./118918-championship-manager-2010-express.json) |
 | Championship Manager 2010 Special Edition | 324735 | [324735-championship-manager-2010-special-edition.json](./324735-championship-manager-2010-special-edition.json) |
 | Championship Manager 3 | 93149 | [93149-championship-manager-3.json](./93149-championship-manager-3.json) |
+| Championship Manager 4 | 18870 | [18870-championship-manager-4.json](./18870-championship-manager-4.json) |
 | Championship Manager Quiz | 43786 | [43786-championship-manager-quiz.json](./43786-championship-manager-quiz.json) |
 | Championship Manager: End of Season Edition | 73351 | [73351-championship-manager-end-of-season-edition.json](./73351-championship-manager-end-of-season-edition.json) |
 | Championship Manager: Season 01/02 | 5769 | [5769-championship-manager-season-01-02.json](./5769-championship-manager-season-01-02.json) |
@@ -13041,6 +13042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash'em Derby | 139207 | [139207-crashem-derby.json](./139207-crashem-derby.json) |
 | Crashawk | 336162 | [336162-crashawk.json](./336162-crashawk.json) |
 | Crashbots | 109627 | [109627-crashbots.json](./109627-crashbots.json) |
+| Crashday | 22516 | [22516-crashday.json](./22516-crashday.json) |
 | Crashday: Redline Edition | 50093 | [50093-crashday-redline-edition.json](./50093-crashday-redline-edition.json) |
 | Crashed | 329598 | [329598-crashed.json](./329598-crashed.json) |
 | Crashed Bandicoot | 184342 | [184342-crashed-bandicoot.json](./184342-crashed-bandicoot.json) |
