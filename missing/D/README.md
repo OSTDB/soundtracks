@@ -5412,6 +5412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deosurge | 183080 | [183080-deosurge.json](./183080-deosurge.json) |
 | Dep Brothers! | 133729 | [133729-dep-brothers.json](./133729-dep-brothers.json) |
 | Dépanneur Nocturne | 134162 | [134162-depanneur-nocturne.json](./134162-depanneur-nocturne.json) |
+| Departed | 26248 | [26248-departed.json](./26248-departed.json) |
 | Departed | 320594 | [320594-departed.json](./320594-departed.json) |
 | Departed Away | 265112 | [265112-departed-away.json](./265112-departed-away.json) |
 | Department 14 | 271656 | [271656-department-14.json](./271656-department-14.json) |
@@ -5677,6 +5678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Domination | 122922 | [122922-desert-domination.json](./122922-desert-domination.json) |
 | Desert Dungeons | 258635 | [258635-desert-dungeons.json](./258635-desert-dungeons.json) |
 | Desert Force: Rescue Mission | 259072 | [259072-desert-force-rescue-mission.json](./259072-desert-force-rescue-mission.json) |
+| Desert Fox | 26235 | [26235-desert-fox.json](./26235-desert-fox.json) |
 | Desert Gunman | 277708 | [277708-desert-gunman.json](./277708-desert-gunman.json) |
 | Desert Gunner | 17116 | [17116-desert-gunner.json](./17116-desert-gunner.json) |
 | Desert Hawk | 28486 | [28486-desert-hawk.json](./28486-desert-hawk.json) |
@@ -8776,6 +8778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dizzel | 63687 | [63687-dizzel.json](./63687-dizzel.json) |
 | Dizziness | 181375 | [181375-dizziness.json](./181375-dizziness.json) |
 | Dizzy 3 and a Half: Into Magicland | 45239 | [45239-dizzy-3-and-a-half-into-magicland.json](./45239-dizzy-3-and-a-half-into-magicland.json) |
+| Dizzy Ball | 26206 | [26206-dizzy-ball.json](./26206-dizzy-ball.json) |
 | Dizzy Bee 2 | 182333 | [182333-dizzy-bee-2.json](./182333-dizzy-bee-2.json) |
 | Dizzy Dice | 13594 | [13594-dizzy-dice.json](./13594-dizzy-dice.json) |
 | Dizzy Down the Rapids | 18543 | [18543-dizzy-down-the-rapids.json](./18543-dizzy-down-the-rapids.json) |
