@@ -2950,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3673,6 +3674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Magic CCG | 33894 | [33894-age-of-magic-ccg.json](./33894-age-of-magic-ccg.json) |
 | Age of Mahjong | 52376 | [52376-age-of-mahjong.json](./52376-age-of-mahjong.json) |
 | Age of Memology | 392819 | [392819-age-of-memology.json](./392819-age-of-memology.json) |
+| Age of Mythology: Extended Edition | 9902 | [9902-age-of-mythology-extended-edition.json](./9902-age-of-mythology-extended-edition.json) |
 | Age of Mythology: Retold - Heavenly Spear | 348197 | [348197-age-of-mythology-retold-heavenly-spear.json](./348197-age-of-mythology-retold-heavenly-spear.json) |
 | Age of Mythology: Retold - Obsidian Mirror | 395818 | [395818-age-of-mythology-retold-obsidian-mirror.json](./395818-age-of-mythology-retold-obsidian-mirror.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
@@ -4814,6 +4816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alan Wake Remastered | 167611 | [167611-alan-wake-remastered.json](./167611-alan-wake-remastered.json) |
 | Alan Wake: Limited Collector's Edition | 47474 | [47474-alan-wake-limited-collectors-edition.json](./47474-alan-wake-limited-collectors-edition.json) |
 | Alan Wake: The Signal | 20316 | [20316-alan-wake-the-signal.json](./20316-alan-wake-the-signal.json) |
+| Alan Wake: The Writer | 20317 | [20317-alan-wake-the-writer.json](./20317-alan-wake-the-writer.json) |
 | Alan Walker: The Aviation Game | 234642 | [234642-alan-walker-the-aviation-game.json](./234642-alan-walker-the-aviation-game.json) |
 | Alan's Automaton Workshop | 160262 | [160262-alans-automaton-workshop.json](./160262-alans-automaton-workshop.json) |
 | Alara Prime | 207827 | [207827-alara-prime.json](./207827-alara-prime.json) |
