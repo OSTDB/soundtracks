@@ -3233,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinos Gaiden | 81841 | [81841-infinos-gaiden.json](./81841-infinos-gaiden.json) |
 | Inflatable doll | 155462 | [155462-inflatable-doll.json](./155462-inflatable-doll.json) |
 | Inflatables | 309033 | [309033-inflatables.json](./309033-inflatables.json) |
+| Inflatality | 36760 | [36760-inflatality.json](./36760-inflatality.json) |
 | Inflate Me to the Moon | 177494 | [177494-inflate-me-to-the-moon.json](./177494-inflate-me-to-the-moon.json) |
 | Inflation Bay | 274139 | [274139-inflation-bay.json](./274139-inflation-bay.json) |
 | Inflation RPG | 208481 | [208481-inflation-rpg.json](./208481-inflation-rpg.json) |
@@ -4348,6 +4349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion | 274895 | [274895-invasion.json](./274895-invasion.json) |
 | Invasion | 320342 | [320342-invasion.json](./320342-invasion.json) |
 | Invasion | 343614 | [343614-invasion.json](./343614-invasion.json) |
+| Invasion | 36706 | [36706-invasion.json](./36706-invasion.json) |
 | Invasion | 47145 | [47145-invasion.json](./47145-invasion.json) |
 | Invasion | 95388 | [95388-invasion.json](./95388-invasion.json) |
 | Invasion - The Abductors | 39624 | [39624-invasion-the-abductors.json](./39624-invasion-the-abductors.json) |
