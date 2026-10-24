@@ -2924,7 +2924,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -4396,6 +4395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport | 346048 | [346048-airport.json](./346048-airport.json) |
 | Airport Administrator Simulator | 199598 | [199598-airport-administrator-simulator.json](./199598-airport-administrator-simulator.json) |
 | Airport Antiterror | 304674 | [304674-airport-antiterror.json](./304674-airport-antiterror.json) |
+| Airport Architect | 36765 | [36765-airport-architect.json](./36765-airport-architect.json) |
 | Airport Baggage Simulator | 372497 | [372497-airport-baggage-simulator.json](./372497-airport-baggage-simulator.json) |
 | Airport Boss | 297230 | [297230-airport-boss.json](./297230-airport-boss.json) |
 | Airport CEO | 52524 | [52524-airport-ceo.json](./52524-airport-ceo.json) |
@@ -12862,6 +12862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asu Owaru Sekai, Sono Zenya | 255325 | [255325-asu-owaru-sekai-sono-zenya.json](./255325-asu-owaru-sekai-sono-zenya.json) |
 | Asuji: The Legend of You | 244080 | [244080-asuji-the-legend-of-you.json](./244080-asuji-the-legend-of-you.json) |
 | Asuka & Asuka | 38515 | [38515-asuka-and-asuka.json](./38515-asuka-and-asuka.json) |
+| Asuka 120% Burning Fest. | 36728 | [36728-asuka-120-burning-fest.json](./36728-asuka-120-burning-fest.json) |
 | Asuka 120% Burning Fest. Exallent | 382789 | [382789-asuka-120-burning-fest-exallent.json](./382789-asuka-120-burning-fest-exallent.json) |
 | Asuka 120% Burning Fest. Excellent | 191681 | [191681-asuka-120-burning-fest-excellent.json](./191681-asuka-120-burning-fest-excellent.json) |
 | Asuka 120% Excellent Burning Fest. | 81336 | [81336-asuka-120-excellent-burning-fest.json](./81336-asuka-120-excellent-burning-fest.json) |
