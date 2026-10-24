@@ -5682,6 +5682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricky Raccoon | 34666 | [34666-ricky-raccoon.json](./34666-ricky-raccoon.json) |
 | Ricky Recharge | 121593 | [121593-ricky-recharge.json](./121593-ricky-recharge.json) |
 | Ricky's Furry Duck Hunt | 255265 | [255265-rickys-furry-duck-hunt.json](./255265-rickys-furry-duck-hunt.json) |
+| Rico | 43367 | [43367-rico.json](./43367-rico.json) |
 | Rico London | 143454 | [143454-rico-london.json](./143454-rico-london.json) |
 | Rico: A Tale of Two Brothers | 125184 | [125184-rico-a-tale-of-two-brothers.json](./125184-rico-a-tale-of-two-brothers.json) |
 | Rico: Breakout | 171328 | [171328-rico-breakout.json](./171328-rico-breakout.json) |
@@ -7371,6 +7372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotragedy | 171546 | [171546-robotragedy.json](./171546-robotragedy.json) |
 | Robotragedy 2: Countdown to Doomsday | 171548 | [171548-robotragedy-2-countdown-to-doomsday.json](./171548-robotragedy-2-countdown-to-doomsday.json) |
 | RoboTraps | 43429 | [43429-robotraps.json](./43429-robotraps.json) |
+| Robotrek | 42649 | [42649-robotrek.json](./42649-robotrek.json) |
 | RobotRiot | 25505 | [25505-robotriot.json](./25505-robotriot.json) |
 | RobotRiot: Hyper Edition | 99491 | [99491-robotriot-hyper-edition.json](./99491-robotriot-hyper-edition.json) |
 | Robotron: 2084 | 3592 | [3592-robotron-2084.json](./3592-robotron-2084.json) |
