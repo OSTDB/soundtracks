@@ -1297,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 Useless Apps | 243962 | [243962-20-useless-apps.json](./243962-20-useless-apps.json) |
 | 20 Words // 20 Seconds | 280751 | [280751-20-words-20-seconds.json](./280751-20-words-20-seconds.json) |
 | 20,000 Leagues Above the Clouds | 61726 | [61726-20-000-leagues-above-the-clouds.json](./61726-20-000-leagues-above-the-clouds.json) |
+| 20,000 Leagues Under the Sea | 2292 | [2292-20-000-leagues-under-the-sea.json](./2292-20-000-leagues-under-the-sea.json) |
 | 20,000 Leagues Under the Sea: Extended Edition | 382906 | [382906-20-000-leagues-under-the-sea-extended-edition.json](./382906-20-000-leagues-under-the-sea-extended-edition.json) |
 | 20.000 Leagues Under the Sea: Captain Nemo | 93764 | [93764-20-000-leagues-under-the-sea-captain-nemo.json](./93764-20-000-leagues-under-the-sea-captain-nemo.json) |
 | 20.8 Percent | 58476 | [58476-20-8-percent.json](./58476-20-8-percent.json) |
@@ -1440,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 22 Minutes | 298440 | [298440-22-minutes.json](./298440-22-minutes.json) |
 | 22 Racing Series | 97343 | [97343-22-racing-series.json](./97343-22-racing-series.json) |
 | 22/7 Ongaku no Jikan | 341856 | [341856-22-7-ongaku-no-jikan.json](./341856-22-7-ongaku-no-jikan.json) |
+| 221B Baker Street | 2293 | [2293-221b-baker-street.json](./2293-221b-baker-street.json) |
 | 222 Hearts | 74462 | [74462-222-hearts.json](./74462-222-hearts.json) |
 | 2222 Abyss of the Universe | 329437 | [329437-2222-abyss-of-the-universe.json](./329437-2222-abyss-of-the-universe.json) |
 | 2248: Number Puzzle Block Game | 208906 | [208906-2248-number-puzzle-block-game.json](./208906-2248-number-puzzle-block-game.json) |
@@ -1621,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Shapes | 252715 | [252715-3-shapes.json](./252715-3-shapes.json) |
 | 3 Sheep Puzzle | 399851 | [399851-3-sheep-puzzle.json](./399851-3-sheep-puzzle.json) |
 | 3 Shots Left | 294243 | [294243-3-shots-left.json](./294243-3-shots-left.json) |
+| 3 Skulls of the Toltecs | 2204 | [2204-3-skulls-of-the-toltecs.json](./2204-3-skulls-of-the-toltecs.json) |
 | 3 Slices | 132105 | [132105-3-slices.json](./132105-3-slices.json) |
 | 3 Stars of Destiny | 9933 | [9933-3-stars-of-destiny.json](./9933-3-stars-of-destiny.json) |
 | 3 Tactical Lines | 158538 | [158538-3-tactical-lines.json](./158538-3-tactical-lines.json) |
@@ -1629,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-choume no Tama: Tama and Friends - 3-choume Obake Panic!! | 49149 | [49149-3-choume-no-tama-tama-and-friends-3-choume-obake-panic.json](./49149-3-choume-no-tama-tama-and-friends-3-choume-obake-panic.json) |
 | 3-D Body Adventure | 129505 | [129505-3-d-body-adventure.json](./129505-3-d-body-adventure.json) |
 | 3-D Bomberman | 85953 | [85953-3-d-bomberman.json](./85953-3-d-bomberman.json) |
+| 3-D Dinosaur Adventure | 2294 | [2294-3-d-dinosaur-adventure.json](./2294-3-d-dinosaur-adventure.json) |
 | 3-D Docking Mission | 342821 | [342821-3-d-docking-mission.json](./342821-3-d-docking-mission.json) |
 | 3-D Escape!: 1000 Mazes | 245577 | [245577-3-d-escape-1000-mazes.json](./245577-3-d-escape-1000-mazes.json) |
 | 3-D Frog Man | 85896 | [85896-3-d-frog-man.json](./85896-3-d-frog-man.json) |
