@@ -757,7 +757,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2201,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnstorming | 234093 | [234093-barnstorming.json](./234093-barnstorming.json) |
 | Barnyard | 242988 | [242988-barnyard.json](./242988-barnyard.json) |
 | Barnyard Blast: Swine of the Night | 47917 | [47917-barnyard-blast-swine-of-the-night.json](./47917-barnyard-blast-swine-of-the-night.json) |
+| Barnyard Blaster | 11866 | [11866-barnyard-blaster.json](./11866-barnyard-blaster.json) |
 | Barnyard Blaster Lite | 100327 | [100327-barnyard-blaster-lite.json](./100327-barnyard-blaster-lite.json) |
 | Barnyard Games For Kids | 96737 | [96737-barnyard-games-for-kids.json](./96737-barnyard-games-for-kids.json) |
 | Barnyard Mahjong | 90736 | [90736-barnyard-mahjong.json](./90736-barnyard-mahjong.json) |
@@ -7621,6 +7621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Eagle 3-D | 45663 | [45663-blade-eagle-3-d.json](./45663-blade-eagle-3-d.json) |
 | Blade Exload | 231872 | [231872-blade-exload.json](./231872-blade-exload.json) |
 | Blade Flash Death | 151278 | [151278-blade-flash-death.json](./151278-blade-flash-death.json) |
+| Blade Force | 11860 | [11860-blade-force.json](./11860-blade-force.json) |
 | Blade II: The Return of Evil | 57547 | [57547-blade-ii-the-return-of-evil.json](./57547-blade-ii-the-return-of-evil.json) |
 | Blade Kitten | 14847 | [14847-blade-kitten.json](./14847-blade-kitten.json) |
 | Blade Kitten: Dirty Angels | 62089 | [62089-blade-kitten-dirty-angels.json](./62089-blade-kitten-dirty-angels.json) |
@@ -14341,6 +14342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Skies Arcade: Extra Content | 380209 | [380209-burning-skies-arcade-extra-content.json](./380209-burning-skies-arcade-extra-content.json) |
 | Burning Skies Arcade: Supporter Pack | 380210 | [380210-burning-skies-arcade-supporter-pack.json](./380210-burning-skies-arcade-supporter-pack.json) |
 | Burning Sky | 336709 | [336709-burning-sky.json](./336709-burning-sky.json) |
+| Burning Soldier | 11861 | [11861-burning-soldier.json](./11861-burning-soldier.json) |
 | Burning Steel: Superschiffe im Atlantik | 92067 | [92067-burning-steel-superschiffe-im-atlantik.json](./92067-burning-steel-superschiffe-im-atlantik.json) |
 | Burning Sword: Death Sun | 272780 | [272780-burning-sword-death-sun.json](./272780-burning-sword-death-sun.json) |
 | Burning Tail Banquet | 403789 | [403789-burning-tail-banquet.json](./403789-burning-tail-banquet.json) |
