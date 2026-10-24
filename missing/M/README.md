@@ -5468,6 +5468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Mining Marvelous Martian Minerals | 363934 | [363934-mecha-mining-marvelous-martian-minerals.json](./363934-mecha-mining-marvelous-martian-minerals.json) |
 | Mecha Nun-chuck Redeemer | 275842 | [275842-mecha-nun-chuck-redeemer.json](./275842-mecha-nun-chuck-redeemer.json) |
 | Mecha Party | 286043 | [286043-mecha-party.json](./286043-mecha-party.json) |
+| Mecha Ritz: Steel Rondo | 32959 | [32959-mecha-ritz-steel-rondo.json](./32959-mecha-ritz-steel-rondo.json) |
 | Mecha Ritz: Steel Rondo 2.0 | 229042 | [229042-mecha-ritz-steel-rondo-2-0.json](./229042-mecha-ritz-steel-rondo-2-0.json) |
 | Mecha Royale Online | 104212 | [104212-mecha-royale-online.json](./104212-mecha-royale-online.json) |
 | Mecha Snake | 148130 | [148130-mecha-snake.json](./148130-mecha-snake.json) |
@@ -12159,6 +12160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momentum | 174092 | [174092-momentum.json](./174092-momentum.json) |
 | Momentum | 183386 | [183386-momentum.json](./183386-momentum.json) |
 | Momentum | 199918 | [199918-momentum.json](./199918-momentum.json) |
+| Momentum | 23568 | [23568-momentum.json](./23568-momentum.json) |
 | Momentum Mayhem | 309560 | [309560-momentum-mayhem.json](./309560-momentum-mayhem.json) |
 | Momentum Missile Mayhem | 388200 | [388200-momentum-missile-mayhem.json](./388200-momentum-missile-mayhem.json) |
 | Momentum Missile Mayhem 2015 | 388205 | [388205-momentum-missile-mayhem-2015.json](./388205-momentum-missile-mayhem-2015.json) |
@@ -14184,6 +14186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moshi Monsters Food Factory | 395500 | [395500-moshi-monsters-food-factory.json](./395500-moshi-monsters-food-factory.json) |
 | Moshi Monsters Village | 395522 | [395522-moshi-monsters-village.json](./395522-moshi-monsters-village.json) |
 | Moshi Monsters: Buster's Lost Moshlings | 96897 | [96897-moshi-monsters-busters-lost-moshlings.json](./96897-moshi-monsters-busters-lost-moshlings.json) |
+| Moshi Monsters: Katsuma Unleashed | 23423 | [23423-moshi-monsters-katsuma-unleashed.json](./23423-moshi-monsters-katsuma-unleashed.json) |
 | Moshi Monsters: Moshling Zoo | 47892 | [47892-moshi-monsters-moshling-zoo.json](./47892-moshi-monsters-moshling-zoo.json) |
 | Moshi Monsters: Moshlings Theme Park | 47658 | [47658-moshi-monsters-moshlings-theme-park.json](./47658-moshi-monsters-moshlings-theme-park.json) |
 | Moshi Monsters: School of ROX | 230391 | [230391-moshi-monsters-school-of-rox.json](./230391-moshi-monsters-school-of-rox.json) |
