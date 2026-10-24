@@ -4212,6 +4212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replay Boys | 259188 | [259188-replay-boys.json](./259188-replay-boys.json) |
 | Replay Value: Second Hand Games | 347748 | [347748-replay-value-second-hand-games.json](./347748-replay-value-second-hand-games.json) |
 | Replay: A Puzzle Game | 157200 | [157200-replay-a-puzzle-game.json](./157200-replay-a-puzzle-game.json) |
+| Replay: VHS Is Not Dead | 22671 | [22671-replay-vhs-is-not-dead.json](./22671-replay-vhs-is-not-dead.json) |
 | Replaying: The Game | 191568 | [191568-replaying-the-game.json](./191568-replaying-the-game.json) |
 | Replica | 20125 | [20125-replica.json](./20125-replica.json) |
 | Replica : A Little Temporary Safety | 98846 | [98846-replica-a-little-temporary-safety.json](./98846-replica-a-little-temporary-safety.json) |
@@ -10109,6 +10110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runerod | 61988 | [61988-runerod.json](./61988-runerod.json) |
 | Runeroots | 211800 | [211800-runeroots.json](./211800-runeroots.json) |
 | Runeroots TD | 253865 | [253865-runeroots-td.json](./253865-runeroots-td.json) |
+| Runers | 10801 | [10801-runers.json](./10801-runers.json) |
 | Runes | 82009 | [82009-runes.json](./82009-runes.json) |
 | Runes Magica | 197541 | [197541-runes-magica.json](./197541-runes-magica.json) |
 | Runes of Aereal | 257944 | [257944-runes-of-aereal.json](./257944-runes-of-aereal.json) |
@@ -10278,6 +10280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush 2: Extreme Racing USA | 3593 | [3593-rush-2-extreme-racing-usa.json](./3593-rush-2-extreme-racing-usa.json) |
 | Rush and Blush | 333782 | [333782-rush-and-blush.json](./333782-rush-and-blush.json) |
 | Rush Back | 270680 | [270680-rush-back.json](./270680-rush-back.json) |
+| Rush Bros. | 10802 | [10802-rush-bros.json](./10802-rush-bros.json) |
 | Rush City | 270573 | [270573-rush-city.json](./270573-rush-city.json) |
 | Rush Commander | 265564 | [265564-rush-commander.json](./265564-rush-commander.json) |
 | Rush Delivery | 304850 | [304850-rush-delivery.json](./304850-rush-delivery.json) |
