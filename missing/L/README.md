@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lanadgel | 112664 | [112664-lanadgel.json](./112664-lanadgel.json) |
 | Lancaster | 292836 | [292836-lancaster.json](./292836-lancaster.json) |
 | Lancaster | 71943 | [71943-lancaster.json](./71943-lancaster.json) |
+| Lance A Lot | 18948 | [18948-lance-a-lot.json](./18948-lance-a-lot.json) |
 | Lancelot | 12169 | [12169-lancelot.json](./12169-lancelot.json) |
 | Lancelot's Hangover : The Quest for the Holy Booze | 107775 | [107775-lancelots-hangover-the-quest-for-the-holy-booze.json](./107775-lancelots-hangover-the-quest-for-the-holy-booze.json) |
 | Lancen Adventure | 321814 | [321814-lancen-adventure.json](./321814-lancen-adventure.json) |
@@ -1577,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazy Galaxy Bundle | 335624 | [335624-lazy-galaxy-bundle.json](./335624-lazy-galaxy-bundle.json) |
 | Lazy Galaxy: Rebel Story | 102624 | [102624-lazy-galaxy-rebel-story.json](./102624-lazy-galaxy-rebel-story.json) |
 | Lazy gang | 157910 | [157910-lazy-gang.json](./157910-lazy-gang.json) |
+| Lazy Jones | 18964 | [18964-lazy-jones.json](./18964-lazy-jones.json) |
 | Lazy Kickers | 407559 | [407559-lazy-kickers.json](./407559-lazy-kickers.json) |
 | Lazy Master | 251445 | [251445-lazy-master.json](./251445-lazy-master.json) |
 | Lazy Paper | 415884 | [415884-lazy-paper.json](./415884-lazy-paper.json) |
