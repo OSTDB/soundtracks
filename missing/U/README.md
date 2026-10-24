@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UEFA Dream Soccer | 45803 | [45803-uefa-dream-soccer.json](./45803-uefa-dream-soccer.json) |
 | UEFA Euro 2000 | 44831 | [44831-uefa-euro-2000.json](./44831-uefa-euro-2000.json) |
 | UEFA Euro 2024 | 317534 | [317534-uefa-euro-2024.json](./317534-uefa-euro-2024.json) |
+| UEFA Euro 96 England | 18945 | [18945-uefa-euro-96-england.json](./18945-uefa-euro-96-england.json) |
 | UEFA Striker | 46370 | [46370-uefa-striker.json](./46370-uefa-striker.json) |
 | Ueki no Housoku: Jingi Sakuretsu! Nouryokusha Battle | 188652 | [188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json](./188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json) |
 | Ueki no Housoku: Taosu ze Robert Juudan!! | 228934 | [228934-ueki-no-housoku-taosu-ze-robert-juudan.json](./228934-ueki-no-housoku-taosu-ze-robert-juudan.json) |
