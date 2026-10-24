@@ -5337,6 +5337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loading Story | 169144 | [169144-loading-story.json](./169144-loading-story.json) |
 | Loading Zone | 193469 | [193469-loading-zone.json](./193469-loading-zone.json) |
 | Loading... | 365761 | [365761-loading.json](./365761-loading.json) |
+| Loadout | 3224 | [3224-loadout.json](./3224-loadout.json) |
 | Loadout: Premium Edition | 118718 | [118718-loadout-premium-edition.json](./118718-loadout-premium-edition.json) |
 | Loadstar: The Legend of Tully Bodine | 46424 | [46424-loadstar-the-legend-of-tully-bodine.json](./46424-loadstar-the-legend-of-tully-bodine.json) |
 | Loaf the Video Game 3 | 407858 | [407858-loaf-the-video-game-3.json](./407858-loaf-the-video-game-3.json) |
@@ -6656,6 +6657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Oasis | 334099 | [334099-lost-oasis.json](./334099-lost-oasis.json) |
 | Lost Oath | 260600 | [260600-lost-oath.json](./260600-lost-oath.json) |
 | Lost Oddies | 243097 | [243097-lost-oddies.json](./243097-lost-oddies.json) |
+| Lost Odyssey | 7057 | [7057-lost-odyssey.json](./7057-lost-odyssey.json) |
 | Lost Odyssey: Seeker of the Deep! | 120313 | [120313-lost-odyssey-seeker-of-the-deep.json](./120313-lost-odyssey-seeker-of-the-deep.json) |
 | Lost Oliver | 235595 | [235595-lost-oliver.json](./235595-lost-oliver.json) |
 | Lost on Jupiter | 185927 | [185927-lost-on-jupiter.json](./185927-lost-on-jupiter.json) |
