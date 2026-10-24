@@ -2207,6 +2207,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acropolis: The Archaic Age | 111635 | [111635-acropolis-the-archaic-age.json](./111635-acropolis-the-archaic-age.json) |
 | Across | 172028 | [172028-across.json](./172028-across.json) |
 | Across | 30823 | [30823-across.json](./30823-across.json) |
+| Across Age DX | 38714 | [38714-across-age-dx.json](./38714-across-age-dx.json) |
+| Across Age II | 38713 | [38713-across-age-ii.json](./38713-across-age-ii.json) |
 | Across Icaria | 337794 | [337794-across-icaria.json](./337794-across-icaria.json) |
 | Across Kiloparsecs | 259022 | [259022-across-kiloparsecs.json](./259022-across-kiloparsecs.json) |
 | Across the demon realm | 150546 | [150546-across-the-demon-realm.json](./150546-across-the-demon-realm.json) |
@@ -2676,6 +2678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced World War Sen-nen Teikoku no Koubou: Last of the Millennium | 45448 | [45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json](./45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json) |
 | Advaria: Chronicles of Immortality | 283898 | [283898-advaria-chronicles-of-immortality.json](./283898-advaria-chronicles-of-immortality.json) |
 | Adven'chuta | 94542 | [94542-advenchuta.json](./94542-advenchuta.json) |
+| Advena | 38719 | [38719-advena.json](./38719-advena.json) |
 | Advendows Calendar OS 2022 | 229038 | [229038-advendows-calendar-os-2022.json](./229038-advendows-calendar-os-2022.json) |
 | Advenger of Stuart | 236271 | [236271-advenger-of-stuart.json](./236271-advenger-of-stuart.json) |
 | Advent Arena | 370292 | [370292-advent-arena.json](./370292-advent-arena.json) |
@@ -2921,7 +2924,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -6325,6 +6327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
 | Ama Me (In Incisis) | 297551 | [297551-ama-me-in-incisis.json](./297551-ama-me-in-incisis.json) |
 | AMA Superbike | 94233 | [94233-ama-superbike.json](./94233-ama-superbike.json) |
+| Ama-Hina | 38715 | [38715-ama-hina.json](./38715-ama-hina.json) |
 | Ama's Lullaby | 303156 | [303156-amas-lullaby.json](./303156-amas-lullaby.json) |
 | Amadeus | 195995 | [195995-amadeus.json](./195995-amadeus.json) |
 | Amadeus Revenge | 70471 | [70471-amadeus-revenge.json](./70471-amadeus-revenge.json) |
@@ -10244,6 +10247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Shores | 343800 | [343800-arcane-shores.json](./343800-arcane-shores.json) |
 | Arcane Sorcery | 34548 | [34548-arcane-sorcery.json](./34548-arcane-sorcery.json) |
 | Arcane Soul | 193966 | [193966-arcane-soul.json](./193966-arcane-soul.json) |
+| Arcane Soul + | 38712 | [38712-arcane-soul.json](./38712-arcane-soul.json) |
 | Arcane Straight: Summoned Soul | 101406 | [101406-arcane-straight-summoned-soul.json](./101406-arcane-straight-summoned-soul.json) |
 | Arcane Survivors | 250825 | [250825-arcane-survivors.json](./250825-arcane-survivors.json) |
 | Arcane TD | 307297 | [307297-arcane-td.json](./307297-arcane-td.json) |
@@ -10607,6 +10611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AreaZ | 110925 | [110925-areaz.json](./110925-areaz.json) |
 | Areena 4 | 317423 | [317423-areena-4.json](./317423-areena-4.json) |
 | Areena 5 | 134570 | [134570-areena-5.json](./134570-areena-5.json) |
+| Arel Wars | 38727 | [38727-arel-wars.json](./38727-arel-wars.json) |
 | Arelite Core: Horse Armor | 156140 | [156140-arelite-core-horse-armor.json](./156140-arelite-core-horse-armor.json) |
 | Arelt City | 138456 | [138456-arelt-city.json](./138456-arelt-city.json) |
 | Aren't You Overcompensating for Something? | 225804 | [225804-arent-you-overcompensating-for-something.json](./225804-arent-you-overcompensating-for-something.json) |
@@ -12293,6 +12298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assimilation X | 150975 | [150975-assimilation-x.json](./150975-assimilation-x.json) |
 | Assistant to the Lost Detective: Remaster | 298126 | [298126-assistant-to-the-lost-detective-remaster.json](./298126-assistant-to-the-lost-detective-remaster.json) |
 | Associate | 354527 | [354527-associate.json](./354527-associate.json) |
+| Assoluto Racing | 38711 | [38711-assoluto-racing.json](./38711-assoluto-racing.json) |
 | Assortment | 82637 | [82637-assortment.json](./82637-assortment.json) |
 | Assualt cube | 178444 | [178444-assualt-cube.json](./178444-assualt-cube.json) |
 | AST-Hero | 130384 | [130384-ast-hero.json](./130384-ast-hero.json) |
@@ -12861,6 +12867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asura | 244393 | [244393-asura.json](./244393-asura.json) |
 | Asura | 28158 | [28158-asura.json](./28158-asura.json) |
 | Asura Blade: Sword of Dynasty | 38514 | [38514-asura-blade-sword-of-dynasty.json](./38514-asura-blade-sword-of-dynasty.json) |
+| Asura Cross | 38710 | [38710-asura-cross.json](./38710-asura-cross.json) |
 | Asura Girls | 248923 | [248923-asura-girls.json](./248923-asura-girls.json) |
 | Asura The Striker | 247093 | [247093-asura-the-striker.json](./247093-asura-the-striker.json) |
 | Asura's Trial | 249853 | [249853-asuras-trial.json](./249853-asuras-trial.json) |
@@ -13700,6 +13707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurrery | 74871 | [74871-aurrery.json](./74871-aurrery.json) |
 | Aurule Dynasty | 406856 | [406856-aurule-dynasty.json](./406856-aurule-dynasty.json) |
 | Aurum | 373636 | [373636-aurum.json](./373636-aurum.json) |
+| Aurum Blade | 38709 | [38709-aurum-blade.json](./38709-aurum-blade.json) |
 | Aurum Kings | 100148 | [100148-aurum-kings.json](./100148-aurum-kings.json) |
 | Aurum Online | 158968 | [158968-aurum-online.json](./158968-aurum-online.json) |
 | Auryn Quest | 94591 | [94591-auryn-quest.json](./94591-auryn-quest.json) |
