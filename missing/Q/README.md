@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q: A Neon Platformer | 137962 | [137962-q-a-neon-platformer.json](./137962-q-a-neon-platformer.json) |
 | Q: Cue | 153738 | [153738-q-cue.json](./153738-q-cue.json) |
 | Q.U.B.E: Director's Cut | 19961 | [19961-q-u-b-e-directors-cut.json](./19961-q-u-b-e-directors-cut.json) |
+| Q.U.B.E. | 5445 | [5445-q-u-b-e.json](./5445-q-u-b-e.json) |
 | Q.U.B.E. 10th Anniversary | 206756 | [206756-q-u-b-e-10th-anniversary.json](./206756-q-u-b-e-10th-anniversary.json) |
 | Q.U.B.E. 2: Deluxe Edition | 169210 | [169210-q-u-b-e-2-deluxe-edition.json](./169210-q-u-b-e-2-deluxe-edition.json) |
 | Q.U.B.E. 2: Puzzle Pack 1 - Lost Orbit | 163544 | [163544-q-u-b-e-2-puzzle-pack-1-lost-orbit.json](./163544-q-u-b-e-2-puzzle-pack-1-lost-orbit.json) |
@@ -1062,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QV | 141251 | [141251-qv.json](./141251-qv.json) |
 | Qvabllock | 99631 | [99631-qvabllock.json](./99631-qvabllock.json) |
 | Qvadriga | 17347 | [17347-qvadriga.json](./17347-qvadriga.json) |
+| Qwak | 8528 | [8528-qwak.json](./8528-qwak.json) |
 | Qwepoi | 292255 | [292255-qwepoi.json](./292255-qwepoi.json) |
 | Qwert: A New Type of Word Game! | 250270 | [250270-qwert-a-new-type-of-word-game.json](./250270-qwert-a-new-type-of-word-game.json) |
 | Qwerty | 209743 | [209743-qwerty.json](./209743-qwerty.json) |
