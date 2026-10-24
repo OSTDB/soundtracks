@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Battle | 237305 | [237305-jelly-battle.json](./237305-jelly-battle.json) |
 | Jelly Blocks | 117165 | [117165-jelly-blocks.json](./117165-jelly-blocks.json) |
 | Jelly Bomber | 107713 | [107713-jelly-bomber.json](./107713-jelly-bomber.json) |
+| Jelly Boy | 23858 | [23858-jelly-boy.json](./23858-jelly-boy.json) |
 | Jelly Boy | 365693 | [365693-jelly-boy.json](./365693-jelly-boy.json) |
 | Jelly Boy 2 | 38364 | [38364-jelly-boy-2.json](./38364-jelly-boy-2.json) |
 | Jelly Brawl | 132591 | [132591-jelly-brawl.json](./132591-jelly-brawl.json) |
