@@ -7964,7 +7964,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunia Z:Revival | 259020 | [259020-lunia-z-revival.json](./259020-lunia-z-revival.json) |
 | Lunicus | 79597 | [79597-lunicus.json](./79597-lunicus.json) |
 | Lunistice | 139168 | [139168-lunistice.json](./139168-lunistice.json) |
-| Lunistice | 165287 | [165287-lunistice.json](./165287-lunistice.json) |
 | Lunium | 282674 | [282674-lunium.json](./282674-lunium.json) |
 | Lunnye Devitsy | 16491 | [16491-lunnye-devitsy.json](./16491-lunnye-devitsy.json) |
 | Lunorbit | 342850 | [342850-lunorbit.json](./342850-lunorbit.json) |
