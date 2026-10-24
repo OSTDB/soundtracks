@@ -3016,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Shooter | 406110 | [406110-voxel-shooter.json](./406110-voxel-shooter.json) |
 | Voxel Sword | 113513 | [113513-voxel-sword.json](./113513-voxel-sword.json) |
 | Voxel Tank VR | 74291 | [74291-voxel-tank-vr.json](./74291-voxel-tank-vr.json) |
+| Voxel Tanks | 102246 | [102246-voxel-tanks.json](./102246-voxel-tanks.json) |
 | Voxel Turf | 54798 | [54798-voxel-turf.json](./54798-voxel-turf.json) |
 | Voxel Warfare Online | 124508 | [124508-voxel-warfare-online.json](./124508-voxel-warfare-online.json) |
 | Voxel Works Quest | 182836 | [182836-voxel-works-quest.json](./182836-voxel-works-quest.json) |
