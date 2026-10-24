@@ -17359,6 +17359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spike C64 Dislike | 71156 | [71156-spike-c64-dislike.json](./71156-spike-c64-dislike.json) |
 | Spike City | 100558 | [100558-spike-city.json](./100558-spike-city.json) |
 | Spike Dislike GB | 58636 | [58636-spike-dislike-gb.json](./58636-spike-dislike-gb.json) |
+| Spike Goes Skiing | 37539 | [37539-spike-goes-skiing.json](./37539-spike-goes-skiing.json) |
 | Spike Hike | 112203 | [112203-spike-hike.json](./112203-spike-hike.json) |
 | Spike Hoppin' | 41984 | [41984-spike-hoppin.json](./41984-spike-hoppin.json) |
 | Spike in Transylvania | 70278 | [70278-spike-in-transylvania.json](./70278-spike-in-transylvania.json) |
@@ -19134,6 +19135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fighter | 170804 | [170804-star-fighter.json](./170804-star-fighter.json) |
 | Star Fighter | 383702 | [383702-star-fighter.json](./383702-star-fighter.json) |
 | Star Fire | 408210 | [408210-star-fire.json](./408210-star-fire.json) |
+| Star Fire Spirits | 37538 | [37538-star-fire-spirits.json](./37538-star-fire-spirits.json) |
 | Star Fire: Eternal Cycle | 316656 | [316656-star-fire-eternal-cycle.json](./316656-star-fire-eternal-cycle.json) |
 | Star Firebirds | 30215 | [30215-star-firebirds.json](./30215-star-firebirds.json) |
 | Star Fish | 349979 | [349979-star-fish.json](./349979-star-fish.json) |
