@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable Anniversary: Scythe Content Pack | 226845 | [226845-fable-anniversary-scythe-content-pack.json](./226845-fable-anniversary-scythe-content-pack.json) |
 | Fable Clinic | 56768 | [56768-fable-clinic.json](./56768-fable-clinic.json) |
 | Fable Forts! | 261883 | [261883-fable-forts.json](./261883-fable-forts.json) |
+| Fable Fortune | 19388 | [19388-fable-fortune.json](./19388-fable-fortune.json) |
 | Fable Grove | 309476 | [309476-fable-grove.json](./309476-fable-grove.json) |
 | Fable II Bonus Game Content | 289012 | [289012-fable-ii-bonus-game-content.json](./289012-fable-ii-bonus-game-content.json) |
 | Fable II: Game of the Year Edition | 47477 | [47477-fable-ii-game-of-the-year-edition.json](./47477-fable-ii-game-of-the-year-edition.json) |
@@ -3386,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiction Fixers: The Curse of Oz & Adventures in Wonderland | 209421 | [209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json](./209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json) |
 | Fiction.Colors | 341152 | [341152-fiction-colors.json](./341152-fiction-colors.json) |
 | Fictophilia: A fools hope | 184266 | [184266-fictophilia-a-fools-hope.json](./184266-fictophilia-a-fools-hope.json) |
+| Fictorum | 19604 | [19604-fictorum.json](./19604-fictorum.json) |
 | Fida Puti Samurai | 146648 | [146648-fida-puti-samurai.json](./146648-fida-puti-samurai.json) |
 | Fidchell | 139338 | [139338-fidchell.json](./139338-fidchell.json) |
 | Fiddle | 80534 | [80534-fiddle.json](./80534-fiddle.json) |
@@ -6360,6 +6362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flingin' Poo | 394475 | [394475-flingin-poo.json](./394475-flingin-poo.json) |
 | Flingleberries! | 171418 | [171418-flingleberries.json](./171418-flingleberries.json) |
 | Flingo | 416736 | [416736-flingo.json](./416736-flingo.json) |
+| Flink | 5387 | [5387-flink.json](./5387-flink.json) |
 | Flint | 368493 | [368493-flint.json](./368493-flint.json) |
 | Flint | 369680 | [369680-flint.json](./369680-flint.json) |
 | Flint and Charlie | 19957 | [19957-flint-and-charlie.json](./19957-flint-and-charlie.json) |
@@ -8507,6 +8510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forward Motion | 366378 | [366378-forward-motion.json](./366378-forward-motion.json) |
 | Forward Team | 215579 | [215579-forward-team.json](./215579-forward-team.json) |
 | Forward to the Past | 396034 | [396034-forward-to-the-past.json](./396034-forward-to-the-past.json) |
+| Forward to the Sky | 19244 | [19244-forward-to-the-sky.json](./19244-forward-to-the-sky.json) |
 | Forward Toward Uranus X | 401897 | [401897-forward-toward-uranus-x.json](./401897-forward-toward-uranus-x.json) |
 | Forward Winds | 206594 | [206594-forward-winds.json](./206594-forward-winds.json) |
 | Forwards | 270042 | [270042-forwards.json](./270042-forwards.json) |
@@ -10637,6 +10641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fullmetal Alchemist and the Broken Angel | 19071 | [19071-fullmetal-alchemist-and-the-broken-angel.json](./19071-fullmetal-alchemist-and-the-broken-angel.json) |
 | Fullmetal Alchemist: Brotherhood | 25172 | [25172-fullmetal-alchemist-brotherhood.json](./25172-fullmetal-alchemist-brotherhood.json) |
 | Fullmetal Alchemist: Daughter of the Dusk | 77766 | [77766-fullmetal-alchemist-daughter-of-the-dusk.json](./77766-fullmetal-alchemist-daughter-of-the-dusk.json) |
+| Fullmetal Alchemist: Dual Sympathy | 19073 | [19073-fullmetal-alchemist-dual-sympathy.json](./19073-fullmetal-alchemist-dual-sympathy.json) |
 | Fullmetal Alchemist: Omoide no Sonata | 49594 | [49594-fullmetal-alchemist-omoide-no-sonata.json](./49594-fullmetal-alchemist-omoide-no-sonata.json) |
 | Fullmetal Alchemist: Prince of the Dawn | 69180 | [69180-fullmetal-alchemist-prince-of-the-dawn.json](./69180-fullmetal-alchemist-prince-of-the-dawn.json) |
 | Fullmetal Alchemist: Stray Rondo | 57444 | [57444-fullmetal-alchemist-stray-rondo.json](./57444-fullmetal-alchemist-stray-rondo.json) |
