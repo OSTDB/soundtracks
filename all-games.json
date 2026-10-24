@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-24T09:07:14.458Z",
-  "total_soundtracks": 2567,
+  "generated_at": "2026-10-24T09:22:32.741Z",
+  "total_soundtracks": 2572,
   "games": [
     {
       "igdb_id": 7522,
@@ -9421,6 +9421,20 @@
       ]
     },
     {
+      "igdb_id": 238782,
+      "game_name": "Felvidek",
+      "game_url": "https://ostdb.net/games/felvidek",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27325133326f33c62aa5ebc3c65",
+      "albums": [
+        {
+          "album_name": "Felvidék (OST)",
+          "spotify_url": "https://open.spotify.com/album/7yYUW5HULOYozYX5qMCm5X",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 59573,
       "game_name": "Fight'N Rage",
       "game_url": "https://ostdb.net/games/fightn-rage",
@@ -9457,6 +9471,20 @@
         {
           "album_name": "Figment 2: Creed Valley (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5R8DEMbMahVe9NdwWc38LL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 121885,
+      "game_name": "Filament",
+      "game_url": "https://ostdb.net/games/filament",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f6d22ffdad8c9d6448cc4c9b",
+      "albums": [
+        {
+          "album_name": "Filament Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5n3toVcl9RDxiVW9hPM8I5",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -19763,6 +19791,20 @@
       ]
     },
     {
+      "igdb_id": 11324,
+      "game_name": "Phantom Breaker: Battle Grounds",
+      "game_url": "https://ostdb.net/games/phantom-breaker-battle-grounds",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733c4216cc4f5d4f3dcd21577b",
+      "albums": [
+        {
+          "album_name": "Phantom Breaker: Battle Grounds (Official Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1fkuNlkofCBnl0XUJ4EClS",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 55121,
       "game_name": "Phantom Doctrine",
       "game_url": "https://ostdb.net/games/phantom-doctrine",
@@ -25663,6 +25705,20 @@
       ]
     },
     {
+      "igdb_id": 10783,
+      "game_name": "Swords & Soldiers",
+      "game_url": "https://ostdb.net/games/swords-and-soldiers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d413b0472885f596f7a1df5d",
+      "albums": [
+        {
+          "album_name": "Swords & Soldiers (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/74trRMEBsZZPe4lcImfjQC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 13163,
       "game_name": "Syberia 3",
       "game_url": "https://ostdb.net/games/syberia-3",
@@ -28137,6 +28193,20 @@
         {
           "album_name": "The Thaumaturge (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0Jv7YFzhS8O4xuDvtgaTkb",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 4207,
+      "game_name": "The Tower of Druaga",
+      "game_url": "https://ostdb.net/games/the-tower-of-druaga",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e11c555bff87b3d40e731502",
+      "albums": [
+        {
+          "album_name": "THE TOWER OF DRUAGA(Game Sound Effect) Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1IwRtXwqrWyt6H923rmOi8",
           "apple_music_url": "",
           "album_link_url": ""
         }
