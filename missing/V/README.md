@@ -1615,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Time Machine | 40770 | [40770-video-time-machine.json](./40770-video-time-machine.json) |
 | Video World | 142746 | [142746-video-world.json](./142746-video-world.json) |
 | Video's Revenge | 178065 | [178065-videos-revenge.json](./178065-videos-revenge.json) |
+| VideoBall | 19607 | [19607-videoball.json](./19607-videoball.json) |
 | Videocart 20 - Schach | 18586 | [18586-videocart-20-schach.json](./18586-videocart-20-schach.json) |
 | Videocart-1: Tic-Tac-Toe & Shooting Gallery & Doodle & Quadra-Doodle | 41222 | [41222-videocart-1-tic-tac-toe-and-shooting-gallery-and-doodle-and-quadra-doodle.json](./41222-videocart-1-tic-tac-toe-and-shooting-gallery-and-doodle-and-quadra-doodle.json) |
 | Videocart-10: Maze, Cat and Mouse | 41212 | [41212-videocart-10-maze-cat-and-mouse.json](./41212-videocart-10-maze-cat-and-mouse.json) |
