@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pancake House | 156698 | [156698-pancake-house.json](./156698-pancake-house.json) |
 | Pancake Patrol | 268967 | [268967-pancake-patrol.json](./268967-pancake-patrol.json) |
 | Pancake Sailor | 149333 | [149333-pancake-sailor.json](./149333-pancake-sailor.json) |
+| Pancake Surprise! | 18913 | [18913-pancake-surprise.json](./18913-pancake-surprise.json) |
 | Pancake: The Game | 103856 | [103856-pancake-the-game.json](./103856-pancake-the-game.json) |
 | Panchin is Frustrated | 258875 | [258875-panchin-is-frustrated.json](./258875-panchin-is-frustrated.json) |
 | Panchito Chepas | 325639 | [325639-panchito-chepas.json](./325639-panchito-chepas.json) |
@@ -11289,6 +11290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
 | Press “A” to Party | 147712 | [147712-press-a-to-party.json](./147712-press-a-to-party.json) |
 | Press a Button Simulator | 369920 | [369920-press-a-button-simulator.json](./369920-press-a-button-simulator.json) |
+| Press all the buttons | 18891 | [18891-press-all-the-buttons.json](./18891-press-all-the-buttons.json) |
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
 | Press Axe | 252000 | [252000-press-axe.json](./252000-press-axe.json) |
@@ -15145,6 +15147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyschotic Adventures | 53485 | [53485-pyschotic-adventures.json](./53485-pyschotic-adventures.json) |
 | PySol Fan Club Edition | 141728 | [141728-pysol-fan-club-edition.json](./141728-pysol-fan-club-edition.json) |
 | Pyssla med Mamma Mu och Kråkan | 352515 | [352515-pyssla-med-mamma-mu-och-krakan.json](./352515-pyssla-med-mamma-mu-och-krakan.json) |
+| Pyst | 18920 | [18920-pyst.json](./18920-pyst.json) |
 | Pythagorea | 57739 | [57739-pythagorea.json](./57739-pythagorea.json) |
 | Pythagorea 60° | 309096 | [309096-pythagorea-60.json](./309096-pythagorea-60.json) |
 | Pythagorean Complex | 130288 | [130288-pythagorean-complex.json](./130288-pythagorean-complex.json) |
