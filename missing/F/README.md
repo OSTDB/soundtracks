@@ -7933,6 +7933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forge of Destiny | 226348 | [226348-forge-of-destiny.json](./226348-forge-of-destiny.json) |
 | Forge of Empires | 62923 | [62923-forge-of-empires.json](./62923-forge-of-empires.json) |
 | Forge of Freedom: The American Civil War 1861-1865 | 230545 | [230545-forge-of-freedom-the-american-civil-war-1861-1865.json](./230545-forge-of-freedom-the-american-civil-war-1861-1865.json) |
+| Forge of Gods | 33021 | [33021-forge-of-gods.json](./33021-forge-of-gods.json) |
 | Forge of Neon 3D | 90350 | [90350-forge-of-neon-3d.json](./90350-forge-of-neon-3d.json) |
 | Forge of Titans | 120223 | [120223-forge-of-titans.json](./120223-forge-of-titans.json) |
 | Forge Quest | 16652 | [16652-forge-quest.json](./16652-forge-quest.json) |
@@ -8063,6 +8064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Warrior | 243728 | [243728-forgotten-warrior.json](./243728-forgotten-warrior.json) |
 | Forgotten Waters | 258536 | [258536-forgotten-waters.json](./258536-forgotten-waters.json) |
 | Forgotten Worlds | 6794 | [6794-forgotten-worlds.json](./6794-forgotten-worlds.json) |
+| Forgotten, Not Lost - A Kinetic Novel | 33132 | [33132-forgotten-not-lost-a-kinetic-novel.json](./33132-forgotten-not-lost-a-kinetic-novel.json) |
 | Forgotten: Whispers From Ashes | 373194 | [373194-forgotten-whispers-from-ashes.json](./373194-forgotten-whispers-from-ashes.json) |
 | Fork Frog | 350438 | [350438-fork-frog.json](./350438-fork-frog.json) |
 | Fork in the Road | 294155 | [294155-fork-in-the-road.json](./294155-fork-in-the-road.json) |
@@ -10200,6 +10202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froooog | 315943 | [315943-froooog.json](./315943-froooog.json) |
 | Froot Basket Valentine | 179720 | [179720-froot-basket-valentine.json](./179720-froot-basket-valentine.json) |
 | Frooty Loops | 364695 | [364695-frooty-loops.json](./364695-frooty-loops.json) |
+| Frost | 32851 | [32851-frost.json](./32851-frost.json) |
 | Frost | 88972 | [88972-frost.json](./88972-frost.json) |
 | Frost & Flame: King of Avalon | 271382 | [271382-frost-and-flame-king-of-avalon.json](./271382-frost-and-flame-king-of-avalon.json) |
 | Frost Bite | 317454 | [317454-frost-bite.json](./317454-frost-bite.json) |
