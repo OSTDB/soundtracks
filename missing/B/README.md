@@ -3522,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlehawks 1942 | 178 | [178-battlehawks-1942.json](./178-battlehawks-1942.json) |
 | Battleheart | 89488 | [89488-battleheart.json](./89488-battleheart.json) |
 | Battleheart 2 | 104236 | [104236-battleheart-2.json](./104236-battleheart-2.json) |
+| Battleheart Legacy | 7397 | [7397-battleheart-legacy.json](./7397-battleheart-legacy.json) |
 | Battleheart Legacy+ | 224991 | [224991-battleheart-legacy.json](./224991-battleheart-legacy.json) |
 | BattleHeights | 327220 | [327220-battleheights.json](./327220-battleheights.json) |
 | Battlejack | 55074 | [55074-battlejack.json](./55074-battlejack.json) |
@@ -6314,6 +6315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill & Ted's Excellent Adventure | 175897 | [175897-bill-and-teds-excellent-adventure.json](./175897-bill-and-teds-excellent-adventure.json) |
 | Bill & Ted's Excellent Adventure: The Computer Game! | 83911 | [83911-bill-and-teds-excellent-adventure-the-computer-game.json](./83911-bill-and-teds-excellent-adventure-the-computer-game.json) |
 | Bill & Ted's Excellent Game Boy Adventure | 290651 | [290651-bill-and-teds-excellent-game-boy-adventure.json](./290651-bill-and-teds-excellent-game-boy-adventure.json) |
+| Bill & Ted's Excellent Game Boy Adventure: A Bogus Journey! | 7784 | [7784-bill-and-teds-excellent-game-boy-adventure-a-bogus-journey.json](./7784-bill-and-teds-excellent-game-boy-adventure-a-bogus-journey.json) |
 | Bill & Ted's Excellent Retro Collection: Collector's Edition | 207048 | [207048-bill-and-teds-excellent-retro-collection-collectors-edition.json](./207048-bill-and-teds-excellent-retro-collection-collectors-edition.json) |
 | Bill & Ted's Excellent Video Game Adventure | 155412 | [155412-bill-and-teds-excellent-video-game-adventure.json](./155412-bill-and-teds-excellent-video-game-adventure.json) |
 | Bill and Ted's Excellent Retro Collection | 203772 | [203772-bill-and-teds-excellent-retro-collection.json](./203772-bill-and-teds-excellent-retro-collection.json) |
@@ -7933,6 +7935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Cop | 68759 | [68759-blaster-cop.json](./68759-blaster-cop.json) |
 | Blaster Lilo | 113868 | [113868-blaster-lilo.json](./113868-blaster-lilo.json) |
 | Blaster Master 2 | 46238 | [46238-blaster-master-2.json](./46238-blaster-master-2.json) |
+| Blaster Master Boy | 7790 | [7790-blaster-master-boy.json](./7790-blaster-master-boy.json) |
 | Blaster Master SNES Port | 377231 | [377231-blaster-master-snes-port.json](./377231-blaster-master-snes-port.json) |
 | Blaster Master Zero | 27438 | [27438-blaster-master-zero.json](./27438-blaster-master-zero.json) |
 | Blaster Master Zero 2: Kanna Raising Simulator | 168165 | [168165-blaster-master-zero-2-kanna-raising-simulator.json](./168165-blaster-master-zero-2-kanna-raising-simulator.json) |
@@ -10241,6 +10244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Fantasy Race | 22773 | [22773-bomberman-fantasy-race.json](./22773-bomberman-fantasy-race.json) |
 | Bomberman for Gree | 198192 | [198192-bomberman-for-gree.json](./198192-bomberman-for-gree.json) |
 | Bomberman GB | 135909 | [135909-bomberman-gb.json](./135909-bomberman-gb.json) |
+| Bomberman GB | 7793 | [7793-bomberman-gb.json](./7793-bomberman-gb.json) |
 | Bomberman Generation | 3832 | [3832-bomberman-generation.json](./3832-bomberman-generation.json) |
 | Bomberman Hardball | 45295 | [45295-bomberman-hardball.json](./45295-bomberman-hardball.json) |
 | Bomberman Hero | 3453 | [3453-bomberman-hero.json](./3453-bomberman-hero.json) |
@@ -10893,6 +10897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Born In Reverie | 267859 | [267859-born-in-reverie.json](./267859-born-in-reverie.json) |
 | Born Into Darkness | 341059 | [341059-born-into-darkness.json](./341059-born-into-darkness.json) |
 | Born Into Fear | 164980 | [164980-born-into-fear.json](./164980-born-into-fear.json) |
+| Born of Bread | 146525 | [146525-born-of-bread.json](./146525-born-of-bread.json) |
 | Born of Bread: Baker Edition | 278720 | [278720-born-of-bread-baker-edition.json](./278720-born-of-bread-baker-edition.json) |
 | Born Punk | 128459 | [128459-born-punk.json](./128459-born-punk.json) |
 | Born to Fight | 269598 | [269598-born-to-fight.json](./269598-born-to-fight.json) |
