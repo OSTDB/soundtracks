@@ -922,8 +922,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamtaro Card e: Gekijou Gentei - 03-A019: Nonno-chan | 356419 | [356419-hamtaro-card-e-gekijou-gentei-03-a019-nonno-chan.json](./356419-hamtaro-card-e-gekijou-gentei-03-a019-nonno-chan.json) |
 | Hamtaro Card e: Gekijou Gentei - 03-A020: Good-chan | 356420 | [356420-hamtaro-card-e-gekijou-gentei-03-a020-good-chan.json](./356420-hamtaro-card-e-gekijou-gentei-03-a020-good-chan.json) |
 | Hamtaro Card e: Ham Ham Ham-ja! Maboroshi no Princess - Gekijou Gentei Minihamuzu & Mo Hams & Ko Hams Version | 356398 | [356398-hamtaro-card-e-ham-ham-ham-ja-maboroshi-no-princess-gekijou-gentei-minihamuzu-and-mo-hams-and-ko-hams-version.json](./356398-hamtaro-card-e-ham-ham-ham-ja-maboroshi-no-princess-gekijou-gentei-minihamuzu-and-mo-hams-and-ko-hams-version.json) |
+| Hamtaro: Ham-Ham Games | 6429 | [6429-hamtaro-ham-ham-games.json](./6429-hamtaro-ham-ham-games.json) |
 | Hamtaro: Ham-Ham Heartbreak | 6428 | [6428-hamtaro-ham-ham-heartbreak.json](./6428-hamtaro-ham-ham-heartbreak.json) |
 | Hamtaro: Little Hamsters, Big Adventures | 63221 | [63221-hamtaro-little-hamsters-big-adventures.json](./63221-hamtaro-little-hamsters-big-adventures.json) |
+| Hamtaro: Rainbow Rescue | 6427 | [6427-hamtaro-rainbow-rescue.json](./6427-hamtaro-rainbow-rescue.json) |
 | Hamtaro: Wake Up Snoozer! | 63223 | [63223-hamtaro-wake-up-snoozer.json](./63223-hamtaro-wake-up-snoozer.json) |
 | Hamurabi | 11302 | [11302-hamurabi.json](./11302-hamurabi.json) |
 | Hamurabi | 366374 | [366374-hamurabi.json](./366374-hamurabi.json) |
@@ -1650,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harker | 79127 | [79127-harker.json](./79127-harker.json) |
 | Harlem Blade II: Dark Angel | 249630 | [249630-harlem-blade-ii-dark-angel.json](./249630-harlem-blade-ii-dark-angel.json) |
 | Harlem Blade: The Greatest of All Time | 187208 | [187208-harlem-blade-the-greatest-of-all-time.json](./187208-harlem-blade-the-greatest-of-all-time.json) |
+| Harlem Globetrotters World Tour | 6430 | [6430-harlem-globetrotters-world-tour.json](./6430-harlem-globetrotters-world-tour.json) |
 | HarleQuest! | 246111 | [246111-harlequest.json](./246111-harlequest.json) |
 | Harlequin Fair: Harbour Dawn | 275501 | [275501-harlequin-fair-harbour-dawn.json](./275501-harlequin-fair-harbour-dawn.json) |
 | Harlequin's Nightmare | 108817 | [108817-harlequins-nightmare.json](./108817-harlequins-nightmare.json) |
@@ -1993,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hate Plus | 16542 | [16542-hate-plus.json](./16542-hate-plus.json) |
 | Hate You | 346394 | [346394-hate-you.json](./346394-hate-you.json) |
 | Hateful Days | 292424 | [292424-hateful-days.json](./292424-hateful-days.json) |
+| Hatena Satena | 6431 | [6431-hatena-satena.json](./6431-hatena-satena.json) |
 | Haters | 149263 | [149263-haters.json](./149263-haters.json) |
 | Haters, kill them all! | 86540 | [86540-haters-kill-them-all.json](./86540-haters-kill-them-all.json) |
 | Hatetris | 280702 | [280702-hatetris.json](./280702-hatetris.json) |
