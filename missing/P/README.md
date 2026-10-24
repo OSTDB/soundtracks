@@ -5392,6 +5392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillars of Eternity II: Deadfire - Rum Runner’s Pack | 154457 | [154457-pillars-of-eternity-ii-deadfire-rum-runner-s-pack.json](./154457-pillars-of-eternity-ii-deadfire-rum-runner-s-pack.json) |
 | Pillars of Eternity II: Deadfire - Scalawags Pack | 154456 | [154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json](./154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json) |
 | Pillars of Eternity II: Deadfire - Ultimate Collector's Edition | 136131 | [136131-pillars-of-eternity-ii-deadfire-ultimate-collectors-edition.json](./136131-pillars-of-eternity-ii-deadfire-ultimate-collectors-edition.json) |
+| Pillars of Eternity II: Deadfire - Ultimate Edition | 127257 | [127257-pillars-of-eternity-ii-deadfire-ultimate-edition.json](./127257-pillars-of-eternity-ii-deadfire-ultimate-edition.json) |
 | Pillars of Eternity: Champion Edition | 51890 | [51890-pillars-of-eternity-champion-edition.json](./51890-pillars-of-eternity-champion-edition.json) |
 | Pillars of Eternity: Complete Edition | 38780 | [38780-pillars-of-eternity-complete-edition.json](./38780-pillars-of-eternity-complete-edition.json) |
 | Pillars of Eternity: Definitive Edition | 75357 | [75357-pillars-of-eternity-definitive-edition.json](./75357-pillars-of-eternity-definitive-edition.json) |
@@ -13875,6 +13876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pudding Up! | 371324 | [371324-pudding-up.json](./371324-pudding-up.json) |
 | Pudding: Lyre Knight | 375851 | [375851-pudding-lyre-knight.json](./375851-pudding-lyre-knight.json) |
 | Puddle | 377567 | [377567-puddle.json](./377567-puddle.json) |
+| Puddle Knights | 126338 | [126338-puddle-knights.json](./126338-puddle-knights.json) |
 | Puddle Pirates | 176398 | [176398-puddle-pirates.json](./176398-puddle-pirates.json) |
 | Pueblo | 236905 | [236905-pueblo.json](./236905-pueblo.json) |
 | Pueblo | 333767 | [333767-pueblo.json](./333767-pueblo.json) |
