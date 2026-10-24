@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown 64: Warriors Rage | 19991 | [19991-samurai-shodown-64-warriors-rage.json](./19991-samurai-shodown-64-warriors-rage.json) |
 | Samurai Shodown Anthology | 50648 | [50648-samurai-shodown-anthology.json](./50648-samurai-shodown-anthology.json) |
 | Samurai Shodown Enhanced | 142821 | [142821-samurai-shodown-enhanced.json](./142821-samurai-shodown-enhanced.json) |
+| Samurai Shodown III | 19987 | [19987-samurai-shodown-iii.json](./19987-samurai-shodown-iii.json) |
 | Samurai Shodown NeoGeo Collection | 116809 | [116809-samurai-shodown-neogeo-collection.json](./116809-samurai-shodown-neogeo-collection.json) |
 | Samurai Shodown NeoGeo Collection: Limited Edition Pack | 167069 | [167069-samurai-shodown-neogeo-collection-limited-edition-pack.json](./167069-samurai-shodown-neogeo-collection-limited-edition-pack.json) |
 | Samurai Shodown Sen | 23272 | [23272-samurai-shodown-sen.json](./23272-samurai-shodown-sen.json) |
@@ -4382,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Ninja Tai | 83391 | [83391-sengoku-ninja-tai.json](./83391-sengoku-ninja-tai.json) |
 | Sengoku no Hasha | 37888 | [37888-sengoku-no-hasha.json](./37888-sengoku-no-hasha.json) |
 | Sengoku Otome: Legend Battle | 58465 | [58465-sengoku-otome-legend-battle.json](./58465-sengoku-otome-legend-battle.json) |
+| Sengoku Rance | 37138 | [37138-sengoku-rance.json](./37138-sengoku-rance.json) |
 | Sengoku Rance: Limited Edition | 185689 | [185689-sengoku-rance-limited-edition.json](./185689-sengoku-rance-limited-edition.json) |
 | Sengoku Tenka Touitsu | 69195 | [69195-sengoku-tenka-touitsu.json](./69195-sengoku-tenka-touitsu.json) |
 | Sengoku Turb | 246940 | [246940-sengoku-turb.json](./246940-sengoku-turb.json) |
@@ -4442,6 +4444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura: Peach and Reflexions Limited Double Pack | 136928 | [136928-senran-kagura-peach-and-reflexions-limited-double-pack.json](./136928-senran-kagura-peach-and-reflexions-limited-double-pack.json) |
 | Senran Kagura: Peach Beach Splash - No Shirt, No Shoes, All Service Edition | 136217 | [136217-senran-kagura-peach-beach-splash-no-shirt-no-shoes-all-service-edition.json](./136217-senran-kagura-peach-beach-splash-no-shirt-no-shoes-all-service-edition.json) |
 | Senran Kagura: Peach Beach Splash - Sexy Soaker Edition | 300524 | [300524-senran-kagura-peach-beach-splash-sexy-soaker-edition.json](./300524-senran-kagura-peach-beach-splash-sexy-soaker-edition.json) |
+| Senran Kagura: Shinovi Versus | 11536 | [11536-senran-kagura-shinovi-versus.json](./11536-senran-kagura-shinovi-versus.json) |
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
 | Senritsu no Stratus | 65953 | [65953-senritsu-no-stratus.json](./65953-senritsu-no-stratus.json) |
@@ -5695,6 +5698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowtime | 336860 | [336860-shadowtime.json](./336860-shadowtime.json) |
 | Shadowvane | 254781 | [254781-shadowvane.json](./254781-shadowvane.json) |
 | Shadowveil: Legend of The Five Rings | 321163 | [321163-shadowveil-legend-of-the-five-rings.json](./321163-shadowveil-legend-of-the-five-rings.json) |
+| Shadowverse | 25811 | [25811-shadowverse.json](./25811-shadowverse.json) |
 | Shadowverse: Champion's Battle | 134301 | [134301-shadowverse-champions-battle.json](./134301-shadowverse-champions-battle.json) |
 | Shadowverse: Wonderland Dreams | 37072 | [37072-shadowverse-wonderland-dreams.json](./37072-shadowverse-wonderland-dreams.json) |
 | Shadowverse: Worlds Beyond | 339985 | [339985-shadowverse-worlds-beyond.json](./339985-shadowverse-worlds-beyond.json) |
@@ -6444,6 +6448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: The Hound of the Baskervilles - Collector's Edition | 208999 | [208999-sherlock-holmes-the-hound-of-the-baskervilles-collectors-edition.json](./208999-sherlock-holmes-the-hound-of-the-baskervilles-collectors-edition.json) |
 | Sherlock Holmes: The Mystery of the Mummy | 6786 | [6786-sherlock-holmes-the-mystery-of-the-mummy.json](./6786-sherlock-holmes-the-mystery-of-the-mummy.json) |
 | Sherlock Holmes: The Mystery of the Persian Carpet | 14854 | [14854-sherlock-holmes-the-mystery-of-the-persian-carpet.json](./14854-sherlock-holmes-the-mystery-of-the-persian-carpet.json) |
+| Sherlock Holmes: The Silver Earring | 6812 | [6812-sherlock-holmes-the-silver-earring.json](./6812-sherlock-holmes-the-silver-earring.json) |
 | Sherlock Holmes: The Tea Shop Murder Mystery | 310948 | [310948-sherlock-holmes-the-tea-shop-murder-mystery.json](./310948-sherlock-holmes-the-tea-shop-murder-mystery.json) |
 | Sherlock Holmes: The Vatican Cameos | 31188 | [31188-sherlock-holmes-the-vatican-cameos.json](./31188-sherlock-holmes-the-vatican-cameos.json) |
 | Sherlock Horse's Horror Academy | 125468 | [125468-sherlock-horses-horror-academy.json](./125468-sherlock-horses-horror-academy.json) |
@@ -8664,6 +8669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimAnimals | 371270 | [371270-simanimals.json](./371270-simanimals.json) |
 | SimAnimals | 5155 | [5155-simanimals.json](./5155-simanimals.json) |
 | SimAnimals Africa | 20669 | [20669-simanimals-africa.json](./20669-simanimals-africa.json) |
+| SimAnt | 9520 | [9520-simant.json](./9520-simant.json) |
 | Simantik | 224685 | [224685-simantik.json](./224685-simantik.json) |
 | Simba the Cat | 204820 | [204820-simba-the-cat.json](./204820-simba-the-cat.json) |
 | SimbaQuest | 243699 | [243699-simbaquest.json](./243699-simbaquest.json) |
@@ -11829,6 +11835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake | 186242 | [186242-snake.json](./186242-snake.json) |
 | Snake | 195495 | [195495-snake.json](./195495-snake.json) |
 | Snake | 256767 | [256767-snake.json](./256767-snake.json) |
+| Snake | 28395 | [28395-snake.json](./28395-snake.json) |
 | Snake | 288267 | [288267-snake.json](./288267-snake.json) |
 | Snake | 294214 | [294214-snake.json](./294214-snake.json) |
 | Snake | 305744 | [305744-snake.json](./305744-snake.json) |
@@ -16559,6 +16566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartan X | 214523 | [214523-spartan-x.json](./214523-spartan-x.json) |
 | Spartan X | 2901 | [2901-spartan-x.json](./2901-spartan-x.json) |
 | Spartan X 2 | 48650 | [48650-spartan-x-2.json](./48650-spartan-x-2.json) |
+| Spartan: Total Warrior | 439 | [439-spartan-total-warrior.json](./439-spartan-total-warrior.json) |
 | Spartan's Spear | 273407 | [273407-spartans-spear.json](./273407-spartans-spear.json) |
 | Sparticles | 107271 | [107271-sparticles.json](./107271-sparticles.json) |
 | Spårvagn | 142361 | [142361-sparvagn.json](./142361-sparvagn.json) |
@@ -19981,6 +19989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarCraft II: Campaign Collection | 356059 | [356059-starcraft-ii-campaign-collection.json](./356059-starcraft-ii-campaign-collection.json) |
 | Starcraft II: Heart of the Swarm - Collector's Edition | 46441 | [46441-starcraft-ii-heart-of-the-swarm-collectors-edition.json](./46441-starcraft-ii-heart-of-the-swarm-collectors-edition.json) |
 | StarCraft II: Legacy of the Void - Collector's Edition | 51293 | [51293-starcraft-ii-legacy-of-the-void-collectors-edition.json](./51293-starcraft-ii-legacy-of-the-void-collectors-edition.json) |
+| StarCraft II: Nova Covert Ops | 14524 | [14524-starcraft-ii-nova-covert-ops.json](./14524-starcraft-ii-nova-covert-ops.json) |
 | StarCraft II: Trilogy | 46986 | [46986-starcraft-ii-trilogy.json](./46986-starcraft-ii-trilogy.json) |
 | StarCraft II: Wings of Liberty - Collector's Edition | 282514 | [282514-starcraft-ii-wings-of-liberty-collectors-edition.json](./282514-starcraft-ii-wings-of-liberty-collectors-edition.json) |
 | StarCraft Universe | 19177 | [19177-starcraft-universe.json](./19177-starcraft-universe.json) |
@@ -23019,6 +23028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold Deluxe | 98961 | [98961-stronghold-deluxe.json](./98961-stronghold-deluxe.json) |
 | Stronghold HD | 86652 | [86652-stronghold-hd.json](./86652-stronghold-hd.json) |
 | Stronghold Kingdoms | 15030 | [15030-stronghold-kingdoms.json](./15030-stronghold-kingdoms.json) |
+| Stronghold Legends | 9932 | [9932-stronghold-legends.json](./9932-stronghold-legends.json) |
 | Stronghold Siege | 266292 | [266292-stronghold-siege.json](./266292-stronghold-siege.json) |
 | Stronghold: A Hero's Fate | 112755 | [112755-stronghold-a-heros-fate.json](./112755-stronghold-a-heros-fate.json) |
 | Stronghold: Caverns of Sorcery | 339654 | [339654-stronghold-caverns-of-sorcery.json](./339654-stronghold-caverns-of-sorcery.json) |
@@ -26758,6 +26768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Thunder Blade | 4471 | [4471-super-thunder-blade.json](./4471-super-thunder-blade.json) |
 | Super Tilt Bro. | 118213 | [118213-super-tilt-bro.json](./118213-super-tilt-bro.json) |
 | Super Time Force | 5336 | [5336-super-time-force.json](./5336-super-time-force.json) |
+| Super Time Force Ultra | 8879 | [8879-super-time-force-ultra.json](./8879-super-time-force-ultra.json) |
 | Super Tiny Leap | 409890 | [409890-super-tiny-leap.json](./409890-super-tiny-leap.json) |
 | Super Tits Rush | 86752 | [86752-super-tits-rush.json](./86752-super-tits-rush.json) |
 | Super Toboggan 3D | 410883 | [410883-super-toboggan-3d.json](./410883-super-toboggan-3d.json) |
