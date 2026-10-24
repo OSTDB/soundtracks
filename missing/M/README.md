@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MacGuffin | 34526 | [34526-macguffin.json](./34526-macguffin.json) |
 | Mach Go Go Go | 228608 | [228608-mach-go-go-go.json](./228608-mach-go-go-go.json) |
 | Mach K9 | 300348 | [300348-mach-k9.json](./300348-mach-k9.json) |
+| Mach Rider | 4616 | [4616-mach-rider.json](./4616-mach-rider.json) |
 | Mach Storm | 124522 | [124522-mach-storm.json](./124522-mach-storm.json) |
 | Mach's noch einmal, Sven | 206794 | [206794-machs-noch-einmal-sven.json](./206794-machs-noch-einmal-sven.json) |
 | Macheesmo: The Animated Series - The Game | 197580 | [197580-macheesmo-the-animated-series-the-game.json](./197580-macheesmo-the-animated-series-the-game.json) |
@@ -668,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia III: Collector's Edition | 75679 | [75679-mafia-iii-collectors-edition.json](./75679-mafia-iii-collectors-edition.json) |
 | Mafia III: Definitive Edition | 134073 | [134073-mafia-iii-definitive-edition.json](./134073-mafia-iii-definitive-edition.json) |
 | Mafia III: Faster, Baby! | 39761 | [39761-mafia-iii-faster-baby.json](./39761-mafia-iii-faster-baby.json) |
+| Mafia III: Stones Unturned | 39760 | [39760-mafia-iii-stones-unturned.json](./39760-mafia-iii-stones-unturned.json) |
 | Mafia in Town | 239756 | [239756-mafia-in-town.json](./239756-mafia-in-town.json) |
 | Mafia Inc. | 249692 | [249692-mafia-inc.json](./249692-mafia-inc.json) |
 | Mafia Infiltration | 379044 | [379044-mafia-infiltration.json](./379044-mafia-infiltration.json) |
@@ -5561,6 +5563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechwarrior 5: Clans - Ghost Bear Flash Storm | 345013 | [345013-mechwarrior-5-clans-ghost-bear-flash-storm.json](./345013-mechwarrior-5-clans-ghost-bear-flash-storm.json) |
 | MechWarrior 5: Clans - Trials of War | 402397 | [402397-mechwarrior-5-clans-trials-of-war.json](./402397-mechwarrior-5-clans-trials-of-war.json) |
 | Mechwarrior 5: Clans - Wolves of Tukayyid | 377889 | [377889-mechwarrior-5-clans-wolves-of-tukayyid.json](./377889-mechwarrior-5-clans-wolves-of-tukayyid.json) |
+| MechWarrior 5: Mercenaries | 26227 | [26227-mechwarrior-5-mercenaries.json](./26227-mechwarrior-5-mercenaries.json) |
 | MechWarrior 5: Mercenaries - Call to Arms | 202533 | [202533-mechwarrior-5-mercenaries-call-to-arms.json](./202533-mechwarrior-5-mercenaries-call-to-arms.json) |
 | MechWarrior 5: Mercenaries - Chaos Reign | 402396 | [402396-mechwarrior-5-mercenaries-chaos-reign.json](./402396-mechwarrior-5-mercenaries-chaos-reign.json) |
 | MechWarrior 5: Mercenaries - Dropship Collection | 154618 | [154618-mechwarrior-5-mercenaries-dropship-collection.json](./154618-mechwarrior-5-mercenaries-dropship-collection.json) |
@@ -14210,6 +14213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mothercore | 211130 | [211130-mothercore.json](./211130-mothercore.json) |
 | Motherflakker | 132018 | [132018-motherflakker.json](./132018-motherflakker.json) |
 | Motherfunkin | 315105 | [315105-motherfunkin.json](./315105-motherfunkin.json) |
+| Mothergunship | 27208 | [27208-mothergunship.json](./27208-mothergunship.json) |
 | Mothergunship: Forge | 197579 | [197579-mothergunship-forge.json](./197579-mothergunship-forge.json) |
 | Motherland | 181041 | [181041-motherland.json](./181041-motherland.json) |
 | Motherland | 229702 | [229702-motherland.json](./229702-motherland.json) |
