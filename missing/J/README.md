@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jasmine | 321735 | [321735-jasmine.json](./321735-jasmine.json) |
 | Jasmine Summer | 113761 | [113761-jasmine-summer.json](./113761-jasmine-summer.json) |
 | Jason and Medea | 364632 | [364632-jason-and-medea.json](./364632-jason-and-medea.json) |
+| Jason et la Toison d'Or | 15086 | [15086-jason-et-la-toison-dor.json](./15086-jason-et-la-toison-dor.json) |
 | Jason Maxx | 349316 | [349316-jason-maxx.json](./349316-jason-maxx.json) |
 | Jason The Greek: The Ladies of Lemnos | 110237 | [110237-jason-the-greek-the-ladies-of-lemnos.json](./110237-jason-the-greek-the-ladies-of-lemnos.json) |
 | Jason: Coming of Age | 344882 | [344882-jason-coming-of-age.json](./344882-jason-coming-of-age.json) |
@@ -982,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jesus Saves | 408017 | [408017-jesus-saves.json](./408017-jesus-saves.json) |
 | Jesus Simulator | 387742 | [387742-jesus-simulator.json](./387742-jesus-simulator.json) |
 | JESUS: Kyoufu no Bio Monster | 48452 | [48452-jesus-kyoufu-no-bio-monster.json](./48452-jesus-kyoufu-no-bio-monster.json) |
+| Jet | 15087 | [15087-jet.json](./15087-jet.json) |
 | Jet & Sky | 215588 | [215588-jet-and-sky.json](./215588-jet-and-sky.json) |
 | Jet Ace | 308020 | [308020-jet-ace.json](./308020-jet-ace.json) |
 | Jet Ace | 377241 | [377241-jet-ace.json](./377241-jet-ace.json) |
@@ -1592,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiji the Bajillionaire | 366577 | [366577-jiji-the-bajillionaire.json](./366577-jiji-the-bajillionaire.json) |
 | Jiji...Love | 329715 | [329715-jiji-love.json](./329715-jiji-love.json) |
 | Jikai Shounen Mettomag | 41321 | [41321-jikai-shounen-mettomag.json](./41321-jikai-shounen-mettomag.json) |
+| Jikandia: The Timeless Land | 17268 | [17268-jikandia-the-timeless-land.json](./17268-jikandia-the-timeless-land.json) |
 | Jikki Pachi-Slot Simulator Vol. 1 | 254450 | [254450-jikki-pachi-slot-simulator-vol-1.json](./254450-jikki-pachi-slot-simulator-vol-1.json) |
 | Jikkyou GI Stable | 3524 | [3524-jikkyou-gi-stable.json](./3524-jikkyou-gi-stable.json) |
 | Jikkyou Golf Master 2000 | 143661 | [143661-jikkyou-golf-master-2000.json](./143661-jikkyou-golf-master-2000.json) |
@@ -2779,6 +2782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping in the middle of the sky | 289775 | [289775-jumping-in-the-middle-of-the-sky.json](./289775-jumping-in-the-middle-of-the-sky.json) |
 | Jumping Jack | 14139 | [14139-jumping-jack.json](./14139-jumping-jack.json) |
 | Jumping Jack | 340780 | [340780-jumping-jack.json](./340780-jumping-jack.json) |
+| Jumping Jack'Son | 15088 | [15088-jumping-jackson.json](./15088-jumping-jackson.json) |
 | Jumping Jacks | 243100 | [243100-jumping-jacks.json](./243100-jumping-jacks.json) |
 | Jumping Jax | 141040 | [141040-jumping-jax.json](./141040-jumping-jax.json) |
 | Jumping Jean | 364235 | [364235-jumping-jean.json](./364235-jumping-jean.json) |
@@ -3050,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jupiter Junkworks | 296355 | [296355-jupiter-junkworks.json](./296355-jupiter-junkworks.json) |
 | Jupiter Lander | 86198 | [86198-jupiter-lander.json](./86198-jupiter-lander.json) |
 | Jupiter Melon | 284901 | [284901-jupiter-melon.json](./284901-jupiter-melon.json) |
+| Jupiter Probe | 15089 | [15089-jupiter-probe.json](./15089-jupiter-probe.json) |
 | Jupiter Strike | 20251 | [20251-jupiter-strike.json](./20251-jupiter-strike.json) |
 | Jupiter-Saturn: Testing Conviction | 410439 | [410439-jupiter-saturn-testing-conviction.json](./410439-jupiter-saturn-testing-conviction.json) |
 | Jupiter's Masterdrive | 71232 | [71232-jupiters-masterdrive.json](./71232-jupiters-masterdrive.json) |
@@ -3276,6 +3281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance: Best Of | 3303 | [3303-just-dance-best-of.json](./3303-just-dance-best-of.json) |
 | Just Dance: Decades of Hits | 409690 | [409690-just-dance-decades-of-hits.json](./409690-just-dance-decades-of-hits.json) |
 | Just Dance: Greatest Hits | 241441 | [241441-just-dance-greatest-hits.json](./241441-just-dance-greatest-hits.json) |
+| Just Dance: Summer Party | 14982 | [14982-just-dance-summer-party.json](./14982-just-dance-summer-party.json) |
 | Just Dance: Vitality School | 250329 | [250329-just-dance-vitality-school.json](./250329-just-dance-vitality-school.json) |
 | Just Dance.exe | 292066 | [292066-just-dance-exe.json](./292066-just-dance-exe.json) |
 | Just Dash | 107912 | [107912-just-dash.json](./107912-just-dash.json) |
