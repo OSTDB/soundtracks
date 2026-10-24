@@ -2363,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onimusha: Blade Warriors | 10551 | [10551-onimusha-blade-warriors.json](./10551-onimusha-blade-warriors.json) |
 | Onimusha: Dawn of Dreams | 11759 | [11759-onimusha-dawn-of-dreams.json](./11759-onimusha-dawn-of-dreams.json) |
 | Onimusha: Dawn of Dreams | 404056 | [404056-onimusha-dawn-of-dreams.json](./404056-onimusha-dawn-of-dreams.json) |
+| Onimusha: Warlords | 5845 | [5845-onimusha-warlords.json](./5845-onimusha-warlords.json) |
 | Onimusha: Warlords - Genma Seal Box | 294703 | [294703-onimusha-warlords-genma-seal-box.json](./294703-onimusha-warlords-genma-seal-box.json) |
 | Onimusha: Way of the Sword | 325602 | [325602-onimusha-way-of-the-sword.json](./325602-onimusha-way-of-the-sword.json) |
 | Onimusha: Way of the Sword - Sword Appearance: Whittled Oar | 407136 | [407136-onimusha-way-of-the-sword-sword-appearance-whittled-oar.json](./407136-onimusha-way-of-the-sword-sword-appearance-whittled-oar.json) |
