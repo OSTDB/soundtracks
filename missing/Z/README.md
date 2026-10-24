@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeldo's Challenge Ch. 2: The Tower of Memories | 243619 | [243619-zeldos-challenge-ch-2-the-tower-of-memories.json](./243619-zeldos-challenge-ch-2-the-tower-of-memories.json) |
 | Zelene Lux: Spirit Notes | 387548 | [387548-zelene-lux-spirit-notes.json](./387548-zelene-lux-spirit-notes.json) |
 | Zelene Lux: Spirit Notes - Collector's Edition | 415959 | [415959-zelene-lux-spirit-notes-collectors-edition.json](./415959-zelene-lux-spirit-notes-collectors-edition.json) |
+| Zeliard | 2409 | [2409-zeliard.json](./2409-zeliard.json) |
 | Zeliria Sanctuary: Isle's Memories | 170772 | [170772-zeliria-sanctuary-isles-memories.json](./170772-zeliria-sanctuary-isles-memories.json) |
 | Zellige: The Tilemaker of Granada | 220734 | [220734-zellige-the-tilemaker-of-granada.json](./220734-zellige-the-tilemaker-of-granada.json) |
 | Zelter | 138243 | [138243-zelter.json](./138243-zelter.json) |
