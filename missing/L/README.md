@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab Runner: X | 126437 | [126437-lab-runner-x.json](./126437-lab-runner-x.json) |
 | Lab.Ar | 247955 | [247955-lab-ar.json](./247955-lab-ar.json) |
 | Lab.Gen. | 108372 | [108372-lab-gen.json](./108372-lab-gen.json) |
+| Lab2: Under Ground | 77811 | [77811-lab2-under-ground.json](./77811-lab2-under-ground.json) |
 | Lab47 | 407425 | [407425-lab47.json](./407425-lab47.json) |
 | Laballatory | 409584 | [409584-laballatory.json](./409584-laballatory.json) |
 | Labarynth of Legendary Loot | 143044 | [143044-labarynth-of-legendary-loot.json](./143044-labarynth-of-legendary-loot.json) |
@@ -2244,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Eleven: Epic Football | 102260 | [102260-legendary-eleven-epic-football.json](./102260-legendary-eleven-epic-football.json) |
 | Legendary Fighter: Battle of God | 208093 | [208093-legendary-fighter-battle-of-god.json](./208093-legendary-fighter-battle-of-god.json) |
 | Legendary Fishing | 110788 | [110788-legendary-fishing.json](./110788-legendary-fishing.json) |
+| Legendary Gary | 76560 | [76560-legendary-gary.json](./76560-legendary-gary.json) |
 | Legendary Heroes Survivors | 337419 | [337419-legendary-heroes-survivors.json](./337419-legendary-heroes-survivors.json) |
 | Legendary Heroes Unchained | 324106 | [324106-legendary-heroes-unchained.json](./324106-legendary-heroes-unchained.json) |
 | Legendary Heros in the Three Kingdoms | 96941 | [96941-legendary-heros-in-the-three-kingdoms.json](./96941-legendary-heros-in-the-three-kingdoms.json) |
@@ -2756,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings | 240324 | [240324-lemmings.json](./240324-lemmings.json) |
 | Lemmings | 240326 | [240326-lemmings.json](./240326-lemmings.json) |
 | Lemmings | 4239 | [4239-lemmings.json](./4239-lemmings.json) |
+| Lemmings | 76216 | [76216-lemmings.json](./76216-lemmings.json) |
 | LemminGS | 240379 | [240379-lemmings.json](./240379-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 242242 | [242242-lemmings-and-oh-no-more-lemmings.json](./242242-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 243377 | [243377-lemmings-and-oh-no-more-lemmings.json](./243377-lemmings-and-oh-no-more-lemmings.json) |
@@ -6501,6 +6504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Gold | 156065 | [156065-lost-gold.json](./156065-lost-gold.json) |
 | Lost Grimoires 1-3 | 185983 | [185983-lost-grimoires-1-3.json](./185983-lost-grimoires-1-3.json) |
 | Lost Grimoires 2: Shard of Mystery | 29961 | [29961-lost-grimoires-2-shard-of-mystery.json](./29961-lost-grimoires-2-shard-of-mystery.json) |
+| Lost Grimoires 3: The Forgotten Well | 76939 | [76939-lost-grimoires-3-the-forgotten-well.json](./76939-lost-grimoires-3-the-forgotten-well.json) |
 | Lost Grimoires Collection | 125138 | [125138-lost-grimoires-collection.json](./125138-lost-grimoires-collection.json) |
 | Lost Group | 291188 | [291188-lost-group.json](./291188-lost-group.json) |
 | Lost Hammer | 221754 | [221754-lost-hammer.json](./221754-lost-hammer.json) |
