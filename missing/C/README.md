@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caapora Adventure: Ojibe's Revenge | 171379 | [171379-caapora-adventure-ojibes-revenge.json](./171379-caapora-adventure-ojibes-revenge.json) |
 | Cab Driver Commander | 335319 | [335319-cab-driver-commander.json](./335319-cab-driver-commander.json) |
 | Cab Ride | 172552 | [172552-cab-ride.json](./172552-cab-ride.json) |
+| Cabal | 6317 | [6317-cabal.json](./6317-cabal.json) |
 | Cabal 2 | 12132 | [12132-cabal-2.json](./12132-cabal-2.json) |
 | Cabal M: Heroes of Nevareth | 174724 | [174724-cabal-m-heroes-of-nevareth.json](./174724-cabal-m-heroes-of-nevareth.json) |
 | Caball | 267282 | [267282-caball.json](./267282-caball.json) |
@@ -4552,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager 3 | 93149 | [93149-championship-manager-3.json](./93149-championship-manager-3.json) |
 | Championship Manager Quiz | 43786 | [43786-championship-manager-quiz.json](./43786-championship-manager-quiz.json) |
 | Championship Manager: End of Season Edition | 73351 | [73351-championship-manager-end-of-season-edition.json](./73351-championship-manager-end-of-season-edition.json) |
+| Championship Manager: Season 01/02 | 5769 | [5769-championship-manager-season-01-02.json](./5769-championship-manager-season-01-02.json) |
 | Championship Manager: Season 03/04 | 628 | [628-championship-manager-season-03-04.json](./628-championship-manager-season-03-04.json) |
 | Championship Manager: Season 97/98 | 50125 | [50125-championship-manager-season-97-98.json](./50125-championship-manager-season-97-98.json) |
 | Championship Motocross 2001 featuring Ricky Carmichael | 292793 | [292793-championship-motocross-2001-featuring-ricky-carmichael.json](./292793-championship-motocross-2001-featuring-ricky-carmichael.json) |
@@ -8536,6 +8538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clowns and Balloons | 40781 | [40781-clowns-and-balloons.json](./40781-clowns-and-balloons.json) |
 | ClownScapades Rally | 257924 | [257924-clownscapades-rally.json](./257924-clownscapades-rally.json) |
 | CLS: Signal Person | 119778 | [119778-cls-signal-person.json](./119778-cls-signal-person.json) |
+| Clu Clu Land | 7573 | [7573-clu-clu-land.json](./7573-clu-clu-land.json) |
 | Clu Clu Land D | 170022 | [170022-clu-clu-land-d.json](./170022-clu-clu-land-d.json) |
 | Clu Clu Land-e | 170007 | [170007-clu-clu-land-e.json](./170007-clu-clu-land-e.json) |
 | Cluaido | 297852 | [297852-cluaido.json](./297852-cluaido.json) |
