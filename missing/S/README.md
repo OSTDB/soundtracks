@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown Anthology | 50648 | [50648-samurai-shodown-anthology.json](./50648-samurai-shodown-anthology.json) |
 | Samurai Shodown Enhanced | 142821 | [142821-samurai-shodown-enhanced.json](./142821-samurai-shodown-enhanced.json) |
 | Samurai Shodown III | 19987 | [19987-samurai-shodown-iii.json](./19987-samurai-shodown-iii.json) |
+| Samurai Shodown IV: Amakusa's Revenge | 19988 | [19988-samurai-shodown-iv-amakusas-revenge.json](./19988-samurai-shodown-iv-amakusas-revenge.json) |
 | Samurai Shodown NeoGeo Collection | 116809 | [116809-samurai-shodown-neogeo-collection.json](./116809-samurai-shodown-neogeo-collection.json) |
 | Samurai Shodown NeoGeo Collection: Limited Edition Pack | 167069 | [167069-samurai-shodown-neogeo-collection-limited-edition-pack.json](./167069-samurai-shodown-neogeo-collection-limited-edition-pack.json) |
 | Samurai Shodown Sen | 23272 | [23272-samurai-shodown-sen.json](./23272-samurai-shodown-sen.json) |
@@ -9829,6 +9830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skies Above | 272931 | [272931-skies-above.json](./272931-skies-above.json) |
 | Skies Above the Great War | 244876 | [244876-skies-above-the-great-war.json](./244876-skies-above-the-great-war.json) |
 | Skies of Arcadia | 19007 | [19007-skies-of-arcadia.json](./19007-skies-of-arcadia.json) |
+| Skies of Arcadia Legends | 4152 | [4152-skies-of-arcadia-legends.json](./4152-skies-of-arcadia-legends.json) |
 | Skies of Blue: Remake | 204220 | [204220-skies-of-blue-remake.json](./204220-skies-of-blue-remake.json) |
 | Skies of Chaos | 111844 | [111844-skies-of-chaos.json](./111844-skies-of-chaos.json) |
 | Skies of Glory | 62446 | [62446-skies-of-glory.json](./62446-skies-of-glory.json) |
@@ -21341,6 +21343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stephen King's F13 | 74412 | [74412-stephen-kings-f13.json](./74412-stephen-kings-f13.json) |
 | Stephen King's F13 | 92828 | [92828-stephen-kings-f13.json](./92828-stephen-kings-f13.json) |
 | Stephen Sharer’s Rocket Slide | 244109 | [244109-stephen-sharer-s-rocket-slide.json](./244109-stephen-sharer-s-rocket-slide.json) |
+| Stephen's Sausage Roll | 19942 | [19942-stephens-sausage-roll.json](./19942-stephens-sausage-roll.json) |
 | StepMania | 51311 | [51311-stepmania.json](./51311-stepmania.json) |
 | StepManiaX | 77796 | [77796-stepmaniax.json](./77796-stepmaniax.json) |
 | Stepped Reckoner | 137304 | [137304-stepped-reckoner.json](./137304-stepped-reckoner.json) |
