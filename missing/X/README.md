@@ -785,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xordle | 197903 | [197903-xordle.json](./197903-xordle.json) |
 | Xorple | 86555 | [86555-xorple.json](./86555-xorple.json) |
 | Xoru | 324973 | [324973-xoru.json](./324973-xoru.json) |
+| Xotic | 15085 | [15085-xotic.json](./15085-xotic.json) |
 | Xoxo Academy | 184314 | [184314-xoxo-academy.json](./184314-xoxo-academy.json) |
 | XOXO Blood Droplets | 111606 | [111606-xoxo-blood-droplets.json](./111606-xoxo-blood-droplets.json) |
 | XOXO Droplets | 28678 | [28678-xoxo-droplets.json](./28678-xoxo-droplets.json) |
