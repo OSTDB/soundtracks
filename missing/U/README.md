@@ -1872,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uniseas | 131555 | [131555-uniseas.json](./131555-uniseas.json) |
 | Unishroom | 116816 | [116816-unishroom.json](./116816-unishroom.json) |
 | Unislot | 128572 | [128572-unislot.json](./128572-unislot.json) |
+| Unison League | 38697 | [38697-unison-league.json](./38697-unison-league.json) |
 | Unison: Rebels of Rhythm & Dance | 71355 | [71355-unison-rebels-of-rhythm-and-dance.json](./71355-unison-rebels-of-rhythm-and-dance.json) |
 | Unispies: Chapter 1 - Havana Cuba | 270870 | [270870-unispies-chapter-1-havana-cuba.json](./270870-unispies-chapter-1-havana-cuba.json) |
 | Unistar | 178508 | [178508-unistar.json](./178508-unistar.json) |
