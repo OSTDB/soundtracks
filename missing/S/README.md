@@ -2160,6 +2160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet 7: The Mightiest Women | 70930 | [70930-scarlet-7-the-mightiest-women.json](./70930-scarlet-7-the-mightiest-women.json) |
 | Scarlet and Blank | 180674 | [180674-scarlet-and-blank.json](./180674-scarlet-and-blank.json) |
 | Scarlet Backrooms | 392200 | [392200-scarlet-backrooms.json](./392200-scarlet-backrooms.json) |
+| Scarlet Blade | 1977 | [1977-scarlet-blade.json](./1977-scarlet-blade.json) |
 | Scarlet City of Devils | 356880 | [356880-scarlet-city-of-devils.json](./356880-scarlet-city-of-devils.json) |
 | Scarlet Cross | 314618 | [314618-scarlet-cross.json](./314618-scarlet-cross.json) |
 | Scarlet Deer Inn | 143710 | [143710-scarlet-deer-inn.json](./143710-scarlet-deer-inn.json) |
@@ -15186,6 +15187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park: Snow Day! - Nonconformist Weapon Variation Pack | 316257 | [316257-south-park-snow-day-nonconformist-weapon-variation-pack.json](./316257-south-park-snow-day-nonconformist-weapon-variation-pack.json) |
 | South Park: Snow Day! - To Danse with the Veiled Horde | 316258 | [316258-south-park-snow-day-to-danse-with-the-veiled-horde.json](./316258-south-park-snow-day-to-danse-with-the-veiled-horde.json) |
 | South Park: Tenorman's Revenge | 1261 | [1261-south-park-tenormans-revenge.json](./1261-south-park-tenormans-revenge.json) |
+| South Park: The Fractured But Whole - Amazon Steel Book Edition | 2026 | [2026-south-park-the-fractured-but-whole-amazon-steel-book-edition.json](./2026-south-park-the-fractured-but-whole-amazon-steel-book-edition.json) |
 | South Park: The Fractured but Whole - Collector's Edition | 11003 | [11003-south-park-the-fractured-but-whole-collectors-edition.json](./11003-south-park-the-fractured-but-whole-collectors-edition.json) |
 | South Park: The Fractured But Whole - Danger Deck | 153697 | [153697-south-park-the-fractured-but-whole-danger-deck.json](./153697-south-park-the-fractured-but-whole-danger-deck.json) |
 | South Park: The Fractured But Whole - From Dusk Till Casa Bonita | 96134 | [96134-south-park-the-fractured-but-whole-from-dusk-till-casa-bonita.json](./96134-south-park-the-fractured-but-whole-from-dusk-till-casa-bonita.json) |
@@ -19550,6 +19552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: D-A-C | 21195 | [21195-star-trek-d-a-c.json](./21195-star-trek-d-a-c.json) |
 | Star Trek: Deep Space Nine - Crossroads of Time | 3280 | [3280-star-trek-deep-space-nine-crossroads-of-time.json](./3280-star-trek-deep-space-nine-crossroads-of-time.json) |
 | Star Trek: Deep Space Nine - Dominion Wars | 3282 | [3282-star-trek-deep-space-nine-dominion-wars.json](./3282-star-trek-deep-space-nine-dominion-wars.json) |
+| Star Trek: Deep Space Nine - Harbinger | 2230 | [2230-star-trek-deep-space-nine-harbinger.json](./2230-star-trek-deep-space-nine-harbinger.json) |
 | Star Trek: Deep Space Nine - The Fallen | 3281 | [3281-star-trek-deep-space-nine-the-fallen.json](./3281-star-trek-deep-space-nine-the-fallen.json) |
 | Star Trek: Discovery - Away Mission | 121360 | [121360-star-trek-discovery-away-mission.json](./121360-star-trek-discovery-away-mission.json) |
 | Star Trek: Elite Force II | 8420 | [8420-star-trek-elite-force-ii.json](./8420-star-trek-elite-force-ii.json) |
@@ -20572,6 +20575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starving | 28754 | [28754-starving.json](./28754-starving.json) |
 | Starving Gods | 401928 | [401928-starving-gods.json](./401928-starving-gods.json) |
 | Starving Merchant | 390760 | [390760-starving-merchant.json](./390760-starving-merchant.json) |
+| Starvoid | 2019 | [2019-starvoid.json](./2019-starvoid.json) |
 | Starvoly | 157106 | [157106-starvoly.json](./157106-starvoly.json) |
 | Starward | 301139 | [301139-starward.json](./301139-starward.json) |
 | Starward Rogue + Moonshine Inc.: Galactic Spirit Bundle | 286971 | [286971-starward-rogue-moonshine-inc-galactic-spirit-bundle.json](./286971-starward-rogue-moonshine-inc-galactic-spirit-bundle.json) |
@@ -28867,6 +28871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synesthesia | 337105 | [337105-synesthesia.json](./337105-synesthesia.json) |
 | Synesthetic | 175334 | [175334-synesthetic.json](./175334-synesthetic.json) |
 | Synestia | 134936 | [134936-synestia.json](./134936-synestia.json) |
+| Synnergist | 2227 | [2227-synnergist.json](./2227-synnergist.json) |
 | Synnergy Games Bundle | 331474 | [331474-synnergy-games-bundle.json](./331474-synnergy-games-bundle.json) |
 | Synonym | 161587 | [161587-synonym.json](./161587-synonym.json) |
 | Synonym Match | 105759 | [105759-synonym-match.json](./105759-synonym-match.json) |
