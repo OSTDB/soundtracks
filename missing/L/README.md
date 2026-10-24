@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaving Whisper at Night | 326283 | [326283-leaving-whisper-at-night.json](./326283-leaving-whisper-at-night.json) |
 | Lecon De Cuisine: Qu'allons-Nous Manager? | 147311 | [147311-lecon-de-cuisine-quallons-nous-manager.json](./147311-lecon-de-cuisine-quallons-nous-manager.json) |
 | Lectro | 192773 | [192773-lectro.json](./192773-lectro.json) |
+| Lectrovolt II | 31566 | [31566-lectrovolt-ii.json](./31566-lectrovolt-ii.json) |
 | Lecture Me Later | 348921 | [348921-lecture-me-later.json](./348921-lecture-me-later.json) |
 | Led It Rain | 32912 | [32912-led-it-rain.json](./32912-led-it-rain.json) |
 | Led It Rain VR | 120373 | [120373-led-it-rain-vr.json](./120373-led-it-rain-vr.json) |
@@ -3618,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Museum | 265338 | [265338-life-museum.json](./265338-life-museum.json) |
 | Life Not Supported | 210704 | [210704-life-not-supported.json](./210704-life-not-supported.json) |
 | Life of a Capitalist | 118407 | [118407-life-of-a-capitalist.json](./118407-life-of-a-capitalist.json) |
+| Life of a caveman | 31484 | [31484-life-of-a-caveman.json](./31484-life-of-a-caveman.json) |
 | Life of a Cockroach | 398904 | [398904-life-of-a-cockroach.json](./398904-life-of-a-cockroach.json) |
 | Life of A Commenter | 183917 | [183917-life-of-a-commenter.json](./183917-life-of-a-commenter.json) |
 | Life of a Goldfish | 364670 | [364670-life-of-a-goldfish.json](./364670-life-of-a-goldfish.json) |
@@ -5104,6 +5106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Empire | 169403 | [169403-live-empire.json](./169403-live-empire.json) |
 | Live for Speed | 9492 | [9492-live-for-speed.json](./9492-live-for-speed.json) |
 | Live Hard, Die Hard | 265826 | [265826-live-hard-die-hard.json](./265826-live-hard-die-hard.json) |
+| Live In Color | 31571 | [31571-live-in-color.json](./31571-live-in-color.json) |
 | Live in the Moment | 208077 | [208077-live-in-the-moment.json](./208077-live-in-the-moment.json) |
 | Live Labyrinth | 149530 | [149530-live-labyrinth.json](./149530-live-labyrinth.json) |
 | Live Lens | 312179 | [312179-live-lens.json](./312179-live-lens.json) |
@@ -6158,6 +6161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Race | 260656 | [260656-lord-of-the-race.json](./260656-lord-of-the-race.json) |
 | Lord of the Rings: Warrior of Middle Earth | 190102 | [190102-lord-of-the-rings-warrior-of-middle-earth.json](./190102-lord-of-the-rings-warrior-of-middle-earth.json) |
 | Lord of the Sea | 150253 | [150253-lord-of-the-sea.json](./150253-lord-of-the-sea.json) |
+| Lord of the Seal | 31474 | [31474-lord-of-the-seal.json](./31474-lord-of-the-seal.json) |
 | Lord of the Shades | 72031 | [72031-lord-of-the-shades.json](./72031-lord-of-the-shades.json) |
 | Lord of the Sword | 46671 | [46671-lord-of-the-sword.json](./46671-lord-of-the-sword.json) |
 | Lord of the Wilds | 337437 | [337437-lord-of-the-wilds.json](./337437-lord-of-the-wilds.json) |
@@ -6374,6 +6378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Cosmonaut | 33402 | [33402-lost-cosmonaut.json](./33402-lost-cosmonaut.json) |
 | Lost Cosmonauts ARG | 109366 | [109366-lost-cosmonauts-arg.json](./109366-lost-cosmonauts-arg.json) |
 | Lost Crab​ | 417663 | [417663-lost-crab.json](./417663-lost-crab.json) |
+| Lost Crew | 31462 | [31462-lost-crew.json](./31462-lost-crew.json) |
 | Lost Crypts | 94759 | [94759-lost-crypts.json](./94759-lost-crypts.json) |
 | Lost Crystals | 257427 | [257427-lost-crystals.json](./257427-lost-crystals.json) |
 | Lost Cube | 156619 | [156619-lost-cube.json](./156619-lost-cube.json) |
