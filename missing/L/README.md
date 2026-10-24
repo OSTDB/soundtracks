@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Langrisser IV | 69226 | [69226-langrisser-iv.json](./69226-langrisser-iv.json) |
 | Langrisser IV & V: Final Edition | 44862 | [44862-langrisser-iv-and-v-final-edition.json](./44862-langrisser-iv-and-v-final-edition.json) |
 | Langrisser Millennium | 45800 | [45800-langrisser-millennium.json](./45800-langrisser-millennium.json) |
+| Langrisser Millennium WS: The Last Century | 37576 | [37576-langrisser-millennium-ws-the-last-century.json](./37576-langrisser-millennium-ws-the-last-century.json) |
 | Langrisser Mobile | 106104 | [106104-langrisser-mobile.json](./106104-langrisser-mobile.json) |
 | Langrisser Re:Incarnation Tensei | 20080 | [20080-langrisser-re-incarnation-tensei.json](./20080-langrisser-re-incarnation-tensei.json) |
 | Langrisser Tribute | 76893 | [76893-langrisser-tribute.json](./76893-langrisser-tribute.json) |
@@ -5482,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lode Runner Classic | 64881 | [64881-lode-runner-classic.json](./64881-lode-runner-classic.json) |
 | Lode Runner Clone for Commodore PET | 302948 | [302948-lode-runner-clone-for-commodore-pet.json](./302948-lode-runner-clone-for-commodore-pet.json) |
 | Lode Runner Extra | 109027 | [109027-lode-runner-extra.json](./109027-lode-runner-extra.json) |
+| Lode Runner for WonderSwan | 37575 | [37575-lode-runner-for-wonderswan.json](./37575-lode-runner-for-wonderswan.json) |
 | Lode Runner III - The Golden Labyrinth | 40082 | [40082-lode-runner-iii-the-golden-labyrinth.json](./40082-lode-runner-iii-the-golden-labyrinth.json) |
 | Lode Runner Legacy | 37008 | [37008-lode-runner-legacy.json](./37008-lode-runner-legacy.json) |
 | Lode Runner On-Line: The Mad Monks' Revenge | 72299 | [72299-lode-runner-on-line-the-mad-monks-revenge.json](./72299-lode-runner-on-line-the-mad-monks-revenge.json) |
