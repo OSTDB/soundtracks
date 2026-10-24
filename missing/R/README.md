@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Tycoon 3 | 840 | [840-railroad-tycoon-3.json](./840-railroad-tycoon-3.json) |
 | Railroad Tycoon Collection | 53490 | [53490-railroad-tycoon-collection.json](./53490-railroad-tycoon-collection.json) |
 | Railroad Tycoon II | 285 | [285-railroad-tycoon-ii.json](./285-railroad-tycoon-ii.json) |
+| Railroad Tycoon II Platinum | 27823 | [27823-railroad-tycoon-ii-platinum.json](./27823-railroad-tycoon-ii-platinum.json) |
 | Railroad Tycoon II: Gold Edition | 45834 | [45834-railroad-tycoon-ii-gold-edition.json](./45834-railroad-tycoon-ii-gold-edition.json) |
 | Railroad Tycoon II: The Second Century | 71480 | [71480-railroad-tycoon-ii-the-second-century.json](./71480-railroad-tycoon-ii-the-second-century.json) |
 | Railroad X | 16663 | [16663-railroad-x.json](./16663-railroad-x.json) |
@@ -9417,6 +9418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Maker 2003 | 53529 | [53529-rpg-maker-2003.json](./53529-rpg-maker-2003.json) |
 | RPG Maker 3 | 24144 | [24144-rpg-maker-3.json](./24144-rpg-maker-3.json) |
 | RPG Maker Coloring Book | 338946 | [338946-rpg-maker-coloring-book.json](./338946-rpg-maker-coloring-book.json) |
+| RPG Maker Fes | 27291 | [27291-rpg-maker-fes.json](./27291-rpg-maker-fes.json) |
 | RPG Maker II | 43556 | [43556-rpg-maker-ii.json](./43556-rpg-maker-ii.json) |
 | RPG Maker MV Trinity | 136722 | [136722-rpg-maker-mv-trinity.json](./136722-rpg-maker-mv-trinity.json) |
 | RPG Maker U2U | 402546 | [402546-rpg-maker-u2u.json](./402546-rpg-maker-u2u.json) |
@@ -9831,6 +9833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run & Gun: Banditos | 109513 | [109513-run-and-gun-banditos.json](./109513-run-and-gun-banditos.json) |
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
 | Run 2 | 80484 | [80484-run-2.json](./80484-run-2.json) |
+| Run 3 | 28123 | [28123-run-3.json](./28123-run-3.json) |
 | Run a Café | 245743 | [245743-run-a-cafe.json](./245743-run-a-cafe.json) |
 | Run and Fire | 274566 | [274566-run-and-fire.json](./274566-run-and-fire.json) |
 | Run and Fire | 35499 | [35499-run-and-fire.json](./35499-run-and-fire.json) |
