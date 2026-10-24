@@ -1649,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors Orochi | 7242 | [7242-warriors-orochi.json](./7242-warriors-orochi.json) |
 | Warriors Orochi 2 | 7243 | [7243-warriors-orochi-2.json](./7243-warriors-orochi-2.json) |
 | Warriors Orochi 3 | 5324 | [5324-warriors-orochi-3.json](./5324-warriors-orochi-3.json) |
+| Warriors Orochi 3 Hyper | 28368 | [28368-warriors-orochi-3-hyper.json](./28368-warriors-orochi-3-hyper.json) |
 | Warriors Orochi 3: Ultimate | 20058 | [20058-warriors-orochi-3-ultimate.json](./20058-warriors-orochi-3-ultimate.json) |
 | Warriors Orochi 4 | 93746 | [93746-warriors-orochi-4.json](./93746-warriors-orochi-4.json) |
 | Warriors Orochi 4: Deluxe Edition | 118941 | [118941-warriors-orochi-4-deluxe-edition.json](./118941-warriors-orochi-4-deluxe-edition.json) |
@@ -3235,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
