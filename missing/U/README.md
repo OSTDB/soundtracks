@@ -1118,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncanny Tales: 1992 | 348579 | [348579-uncanny-tales-1992.json](./348579-uncanny-tales-1992.json) |
 | Uncanny Tales: Cold Road | 340276 | [340276-uncanny-tales-cold-road.json](./340276-uncanny-tales-cold-road.json) |
 | Uncanny Tales: The Watcher | 390221 | [390221-uncanny-tales-the-watcher.json](./390221-uncanny-tales-the-watcher.json) |
+| Uncanny Valley | 10140 | [10140-uncanny-valley.json](./10140-uncanny-valley.json) |
 | Uncanny Valley: Checkpoint | 404186 | [404186-uncanny-valley-checkpoint.json](./404186-uncanny-valley-checkpoint.json) |
 | Uncanyon | 416106 | [416106-uncanyon.json](./416106-uncanyon.json) |
 | Uncaptive | 251999 | [251999-uncaptive.json](./251999-uncaptive.json) |
