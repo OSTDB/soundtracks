@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icewind Dale | 753 | [753-icewind-dale.json](./753-icewind-dale.json) |
 | Icewind Dale 3-in-1 Compilation | 143401 | [143401-icewind-dale-3-in-1-compilation.json](./143401-icewind-dale-3-in-1-compilation.json) |
 | Icewind Dale II | 876 | [876-icewind-dale-ii.json](./876-icewind-dale-ii.json) |
+| Icewind Dale II: Adventure Pack | 69782 | [69782-icewind-dale-ii-adventure-pack.json](./69782-icewind-dale-ii-adventure-pack.json) |
 | Icewind Dale II: Collector's Edition | 232152 | [232152-icewind-dale-ii-collectors-edition.json](./232152-icewind-dale-ii-collectors-edition.json) |
 | Icewind Dale: Complete | 143699 | [143699-icewind-dale-complete.json](./143699-icewind-dale-complete.json) |
 | Icewind Dale: Enhanced Edition | 36240 | [36240-icewind-dale-enhanced-edition.json](./36240-icewind-dale-enhanced-edition.json) |
@@ -4206,6 +4207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Dark | 229514 | [229514-into-the-dark.json](./229514-into-the-dark.json) |
 | Into the Dark | 6613 | [6613-into-the-dark.json](./6613-into-the-dark.json) |
 | Into the Darkness VR | 220141 | [220141-into-the-darkness-vr.json](./220141-into-the-darkness-vr.json) |
+| Into the Dead 2 | 74828 | [74828-into-the-dead-2.json](./74828-into-the-dead-2.json) |
 | Into the Dead 2: Ghostbusters | 237848 | [237848-into-the-dead-2-ghostbusters.json](./237848-into-the-dead-2-ghostbusters.json) |
 | Into the Dead 2: Unleashed | 197325 | [197325-into-the-dead-2-unleashed.json](./197325-into-the-dead-2-unleashed.json) |
 | Into the Dead 2: Zombie Survival | 101418 | [101418-into-the-dead-2-zombie-survival.json](./101418-into-the-dead-2-zombie-survival.json) |
