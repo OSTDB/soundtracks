@@ -7050,7 +7050,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shirotsume Souwa Bangai-hen: Tsunakawa-sanchi no Christmas | 376706 | [376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json](./376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json) |
 | Shirotsume Souwa: Episode of the Clovers | 354005 | [354005-shirotsume-souwa-episode-of-the-clovers.json](./354005-shirotsume-souwa-episode-of-the-clovers.json) |
 | Shirushi | 202364 | [202364-shirushi.json](./202364-shirushi.json) |
+| Shiryou Sensen: War of the Dead | 41736 | [41736-shiryou-sensen-war-of-the-dead.json](./41736-shiryou-sensen-war-of-the-dead.json) |
 | Shiryou Sensen: War of the Dead | 42041 | [42041-shiryou-sensen-war-of-the-dead.json](./42041-shiryou-sensen-war-of-the-dead.json) |
+| Shiryou Sensen: War of the Dead - Part 2 | 41737 | [41737-shiryou-sensen-war-of-the-dead-part-2.json](./41737-shiryou-sensen-war-of-the-dead-part-2.json) |
 | Shiseido Beauty Solution Kaihatsu Center Kanshuu: Project Beauty | 220601 | [220601-shiseido-beauty-solution-kaihatsu-center-kanshuu-project-beauty.json](./220601-shiseido-beauty-solution-kaihatsu-center-kanshuu-project-beauty.json) |
 | Shisen-Sho Nikakudori | 147657 | [147657-shisen-sho-nikakudori.json](./147657-shisen-sho-nikakudori.json) |
 | Shisen-shou: Match-Mania | 154802 | [154802-shisen-shou-match-mania.json](./154802-shisen-shou-match-mania.json) |
@@ -10026,6 +10028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky is Arrows: Dragon Bracer Item Chest | 252231 | [252231-sky-is-arrows-dragon-bracer-item-chest.json](./252231-sky-is-arrows-dragon-bracer-item-chest.json) |
 | Sky Island | 308257 | [308257-sky-island.json](./308257-sky-island.json) |
 | Sky Islands | 267317 | [267317-sky-islands.json](./267317-sky-islands.json) |
+| Sky Jaguar | 41743 | [41743-sky-jaguar.json](./41743-sky-jaguar.json) |
 | Sky Jaguar | 69543 | [69543-sky-jaguar.json](./69543-sky-jaguar.json) |
 | Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
 | Sky Jinks | 18529 | [18529-sky-jinks.json](./18529-sky-jinks.json) |
@@ -16392,6 +16395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SparkChess | 110728 | [110728-sparkchess.json](./110728-sparkchess.json) |
 | Sparked | 382199 | [382199-sparked.json](./382199-sparked.json) |
 | Sparkhunt | 270153 | [270153-sparkhunt.json](./270153-sparkhunt.json) |
+| Sparkie | 41760 | [41760-sparkie.json](./41760-sparkie.json) |
 | Sparking Beam Strike 1000 | 328485 | [328485-sparking-beam-strike-1000.json](./328485-sparking-beam-strike-1000.json) |
 | Sparkle | 88277 | [88277-sparkle.json](./88277-sparkle.json) |
 | Sparkle & Umbra | 387564 | [387564-sparkle-and-umbra.json](./387564-sparkle-and-umbra.json) |
@@ -19504,6 +19508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Valor | 100418 | [100418-star-valor.json](./100418-star-valor.json) |
 | Star Vikings Forever | 51899 | [51899-star-vikings-forever.json](./51899-star-vikings-forever.json) |
 | Star Vikings: Deluxe Edition | 53665 | [53665-star-vikings-deluxe-edition.json](./53665-star-vikings-deluxe-edition.json) |
+| Star Virgin | 41734 | [41734-star-virgin.json](./41734-star-virgin.json) |
 | Star Vortex | 154021 | [154021-star-vortex.json](./154021-star-vortex.json) |
 | Star Vortex | 213833 | [213833-star-vortex.json](./213833-star-vortex.json) |
 | Star Voyage: Treasure Hunting | 301240 | [301240-star-voyage-treasure-hunting.json](./301240-star-voyage-treasure-hunting.json) |
@@ -24434,6 +24439,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super BoxMan Ultra | 75270 | [75270-super-boxman-ultra.json](./75270-super-boxman-ultra.json) |
 | Super Boy Allan | 41305 | [41305-super-boy-allan.json](./41305-super-boy-allan.json) |
 | Super Boy Commander Bros | 231881 | [231881-super-boy-commander-bros.json](./231881-super-boy-commander-bros.json) |
+| Super Boy I | 41754 | [41754-super-boy-i.json](./41754-super-boy-i.json) |
+| Super Boy II | 41753 | [41753-super-boy-ii.json](./41753-super-boy-ii.json) |
 | Super Boy III | 47524 | [47524-super-boy-iii.json](./47524-super-boy-iii.json) |
 | Super Brain Eat 3 | 63854 | [63854-super-brain-eat-3.json](./63854-super-brain-eat-3.json) |
 | Super Brain Tease: Football Edition | 123456 | [123456-super-brain-tease-football-edition.json](./123456-super-brain-tease-football-edition.json) |
