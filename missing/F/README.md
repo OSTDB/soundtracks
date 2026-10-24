@@ -3727,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fightin' Spirit | 12096 | [12096-fightin-spirit.json](./12096-fightin-spirit.json) |
 | Fightin' Words | 297074 | [297074-fightin-words.json](./297074-fightin-words.json) |
 | Fighting | 280316 | [280316-fighting.json](./280316-fighting.json) |
+| Fighting Angels | 36732 | [36732-fighting-angels.json](./36732-fighting-angels.json) |
 | Fighting Basketball | 40134 | [40134-fighting-basketball.json](./40134-fighting-basketball.json) |
 | Fighting Block | 156218 | [156218-fighting-block.json](./156218-fighting-block.json) |
 | Fighting Box | 68657 | [68657-fighting-box.json](./68657-fighting-box.json) |
@@ -6388,6 +6389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipping Frogs 64 | 369060 | [369060-flipping-frogs-64.json](./369060-flipping-frogs-64.json) |
 | Flipping in the air | 278703 | [278703-flipping-in-the-air.json](./278703-flipping-in-the-air.json) |
 | Flipping is Hard | 351111 | [351111-flipping-is-hard.json](./351111-flipping-is-hard.json) |
+| Flipping Legend | 36799 | [36799-flipping-legend.json](./36799-flipping-legend.json) |
 | Flipping Phantom | 358861 | [358861-flipping-phantom.json](./358861-flipping-phantom.json) |
 | Flipping Two Minutes | 267358 | [267358-flipping-two-minutes.json](./267358-flipping-two-minutes.json) |
 | FlipPix Art - Civilizations | 107561 | [107561-flippix-art-civilizations.json](./107561-flippix-art-civilizations.json) |
@@ -8675,6 +8677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fowling | 305453 | [305453-fowling.json](./305453-fowling.json) |
 | Fowling | 47257 | [47257-fowling.json](./47257-fowling.json) |
 | Fowlplay | 80429 | [80429-fowlplay.json](./80429-fowlplay.json) |
+| Fowlst | 36702 | [36702-fowlst.json](./36702-fowlst.json) |
 | Fox & Goat | 40740 | [40740-fox-and-goat.json](./40740-fox-and-goat.json) |
 | Fox & Hounds | 175108 | [175108-fox-and-hounds.json](./175108-fox-and-hounds.json) |
 | Fox Adventure: Homeward Journey | 253439 | [253439-fox-adventure-homeward-journey.json](./253439-fox-adventure-homeward-journey.json) |
