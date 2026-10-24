@@ -10397,6 +10397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylanders: Spyro's Adventure | 256678 | [256678-skylanders-spyros-adventure.json](./256678-skylanders-spyros-adventure.json) |
 | Skylanders: Spyro's Adventure - Empire of Ice | 340392 | [340392-skylanders-spyros-adventure-empire-of-ice.json](./340392-skylanders-spyros-adventure-empire-of-ice.json) |
 | Skylanders: SuperChargers | 317015 | [317015-skylanders-superchargers.json](./317015-skylanders-superchargers.json) |
+| Skylanders: SuperChargers - Portal Owner's Pack | 82418 | [82418-skylanders-superchargers-portal-owners-pack.json](./82418-skylanders-superchargers-portal-owners-pack.json) |
 | Skylanders: Swap Force | 256681 | [256681-skylanders-swap-force.json](./256681-skylanders-swap-force.json) |
 | Skylanders: Swap Force | 5159 | [5159-skylanders-swap-force.json](./5159-skylanders-swap-force.json) |
 | Skylanders: Trap Team | 256683 | [256683-skylanders-trap-team.json](./256683-skylanders-trap-team.json) |
@@ -20219,6 +20220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarDrive 2: Digital Deluxe Edition | 53662 | [53662-stardrive-2-digital-deluxe-edition.json](./53662-stardrive-2-digital-deluxe-edition.json) |
 | StarDrive 2: Sector Zero | 53660 | [53660-stardrive-2-sector-zero.json](./53660-stardrive-2-sector-zero.json) |
 | StarDrone | 10890 | [10890-stardrone.json](./10890-stardrone.json) |
+| StarDrone | 82029 | [82029-stardrone.json](./82029-stardrone.json) |
 | StarDrone Extreme | 20815 | [20815-stardrone-extreme.json](./20815-stardrone-extreme.json) |
 | StarDrone VR | 118930 | [118930-stardrone-vr.json](./118930-stardrone-vr.json) |
 | StarDroneVR | 105983 | [105983-stardronevr.json](./105983-stardronevr.json) |
