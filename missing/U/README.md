@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima: The Black Gate | 42437 | [42437-ultima-the-black-gate.json](./42437-ultima-the-black-gate.json) |
 | Ultima: The Savage Empire | 186734 | [186734-ultima-the-savage-empire.json](./186734-ultima-the-savage-empire.json) |
 | Ultima: Warriors of Destiny | 48096 | [48096-ultima-warriors-of-destiny.json](./48096-ultima-warriors-of-destiny.json) |
+| Ultima: Worlds of Adventure 2 - Martian Dreams | 14443 | [14443-ultima-worlds-of-adventure-2-martian-dreams.json](./14443-ultima-worlds-of-adventure-2-martian-dreams.json) |
 | UltiMage | 385191 | [385191-ultimage.json](./385191-ultimage.json) |
 | Ultimagus | 29845 | [29845-ultimagus.json](./29845-ultimagus.json) |
 | UltiMahjong | 289928 | [289928-ultimahjong.json](./289928-ultimahjong.json) |
