@@ -6283,6 +6283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Gun | 243514 | [243514-rise-of-gun.json](./243514-rise-of-gun.json) |
 | Rise of Heroes | 67671 | [67671-rise-of-heroes.json](./67671-rise-of-heroes.json) |
 | Rise of Immortals | 1053 | [1053-rise-of-immortals.json](./1053-rise-of-immortals.json) |
+| Rise of Immortals: Battle for Graxia | 2046 | [2046-rise-of-immortals-battle-for-graxia.json](./2046-rise-of-immortals-battle-for-graxia.json) |
 | Rise of Industry: 2130 | 154521 | [154521-rise-of-industry-2130.json](./154521-rise-of-industry-2130.json) |
 | Rise of Insanity | 34665 | [34665-rise-of-insanity.json](./34665-rise-of-insanity.json) |
 | Rise of Jericho | 248027 | [248027-rise-of-jericho.json](./248027-rise-of-jericho.json) |
@@ -6306,6 +6307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Nosferacula | 179516 | [179516-rise-of-nosferacula.json](./179516-rise-of-nosferacula.json) |
 | Rise of Peles | 152794 | [152794-rise-of-peles.json](./152794-rise-of-peles.json) |
 | Rise of Piracy | 154973 | [154973-rise-of-piracy.json](./154973-rise-of-piracy.json) |
+| Rise of Prussia | 2069 | [2069-rise-of-prussia.json](./2069-rise-of-prussia.json) |
 | Rise of Prussia Gold | 36319 | [36319-rise-of-prussia-gold.json](./36319-rise-of-prussia-gold.json) |
 | Rise of Queendom | 255119 | [255119-rise-of-queendom.json](./255119-rise-of-queendom.json) |
 | Rise of Ragnarok - Asunder | 83884 | [83884-rise-of-ragnarok-asunder.json](./83884-rise-of-ragnarok-asunder.json) |
