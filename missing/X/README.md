@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiǎoguàiwù Bìxū Sǐ | 369354 | [369354-xiaoguaiwu-bixu-si.json](./369354-xiaoguaiwu-bixu-si.json) |
 | Xiǎohēihé Jiāsùqì | 147369 | [147369-xiaoheihe-jiasuqi.json](./147369-xiaoheihe-jiasuqi.json) |
 | Xiǎojiě Wànsuì | 399289 | [399289-xiaojie-wansui.json](./399289-xiaojie-wansui.json) |
+| Xiaolin Showdown | 5742 | [5742-xiaolin-showdown.json](./5742-xiaolin-showdown.json) |
 | Xiaomei and the Flame Dragon's Fist | 242398 | [242398-xiaomei-and-the-flame-dragons-fist.json](./242398-xiaomei-and-the-flame-dragons-fist.json) |
 | Xiǎoyuán Kǒusuàn | 333446 | [333446-xiaoyuan-kousuan.json](./333446-xiaoyuan-kousuan.json) |
 | Xiàrì de Huíyì | 163905 | [163905-xiari-de-huiyi.json](./163905-xiari-de-huiyi.json) |
