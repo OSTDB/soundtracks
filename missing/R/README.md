@@ -1819,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenholm | 319744 | [319744-ravenholm.json](./319744-ravenholm.json) |
 | Ravenix: The Card Master | 139337 | [139337-ravenix-the-card-master.json](./139337-ravenix-the-card-master.json) |
 | Ravenloft: Stone Prophet | 2504 | [2504-ravenloft-stone-prophet.json](./2504-ravenloft-stone-prophet.json) |
+| Ravenloft: Strahd's Possession | 2508 | [2508-ravenloft-strahds-possession.json](./2508-ravenloft-strahds-possession.json) |
 | Ravenmark: Mercenaries | 63534 | [63534-ravenmark-mercenaries.json](./63534-ravenmark-mercenaries.json) |
 | Ravenmoore Psychiatric Hospital | 376463 | [376463-ravenmoore-psychiatric-hospital.json](./376463-ravenmoore-psychiatric-hospital.json) |
 | Ravenous | 361635 | [361635-ravenous.json](./361635-ravenous.json) |
@@ -2585,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Arkania: Blade of Destiny - For the Gods | 170452 | [170452-realms-of-arkania-blade-of-destiny-for-the-gods.json](./170452-realms-of-arkania-blade-of-destiny-for-the-gods.json) |
 | Realms of Arkania: Blade of Destiny - Ogredeath | 170453 | [170453-realms-of-arkania-blade-of-destiny-ogredeath.json](./170453-realms-of-arkania-blade-of-destiny-ogredeath.json) |
 | Realms of Arkania: Blade of Destiny + Star Trail | 93214 | [93214-realms-of-arkania-blade-of-destiny-star-trail.json](./93214-realms-of-arkania-blade-of-destiny-star-trail.json) |
+| Realms of Arkania: Star Trail | 2512 | [2512-realms-of-arkania-star-trail.json](./2512-realms-of-arkania-star-trail.json) |
 | Realms of Arkania: Star Trail | 27346 | [27346-realms-of-arkania-star-trail.json](./27346-realms-of-arkania-star-trail.json) |
 | Realms of Chaos | 8496 | [8496-realms-of-chaos.json](./8496-realms-of-chaos.json) |
 | Realms of Conquest | 54835 | [54835-realms-of-conquest.json](./54835-realms-of-conquest.json) |
@@ -7380,6 +7382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotica | 384783 | [384783-robotica.json](./384783-robotica.json) |
 | Robotics in VR | 189924 | [189924-robotics-in-vr.json](./189924-robotics-in-vr.json) |
 | Robotics;Notes | 7162 | [7162-robotics-notes.json](./7162-robotics-notes.json) |
+| Robotics;Notes DaSH | 56043 | [56043-robotics-notes-dash.json](./56043-robotics-notes-dash.json) |
 | Robotics;Notes Double Pack | 132650 | [132650-robotics-notes-double-pack.json](./132650-robotics-notes-double-pack.json) |
 | Robotics;Notes Elite | 103406 | [103406-robotics-notes-elite.json](./103406-robotics-notes-elite.json) |
 | Robotics! | 362170 | [362170-robotics.json](./362170-robotics.json) |
