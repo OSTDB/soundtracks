@@ -7580,6 +7580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Kitten | 14847 | [14847-blade-kitten.json](./14847-blade-kitten.json) |
 | Blade Kitten: Dirty Angels | 62089 | [62089-blade-kitten-dirty-angels.json](./62089-blade-kitten-dirty-angels.json) |
 | Blade Knight | 420577 | [420577-blade-knight.json](./420577-blade-knight.json) |
+| Blade Lords | 41719 | [41719-blade-lords.json](./41719-blade-lords.json) |
 | Blade Man's Less Successful Business Ventures | 421196 | [421196-blade-mans-less-successful-business-ventures.json](./421196-blade-mans-less-successful-business-ventures.json) |
 | Blade Master | 10458 | [10458-blade-master.json](./10458-blade-master.json) |
 | Blade Master | 414470 | [414470-blade-master.json](./414470-blade-master.json) |
@@ -10488,6 +10489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomerang Survivor 3 | 386550 | [386550-boomerang-survivor-3.json](./386550-boomerang-survivor-3.json) |
 | Boomeraxe | 258522 | [258522-boomeraxe.json](./258522-boomeraxe.json) |
 | Boomies | 307256 | [307256-boomies.json](./307256-boomies.json) |
+| Booming Boy | 41732 | [41732-booming-boy.json](./41732-booming-boy.json) |
 | Boomliner | 376866 | [376866-boomliner.json](./376866-boomliner.json) |
 | Boomlings | 61067 | [61067-boomlings.json](./61067-boomlings.json) |
 | Boomlings MatchUp | 61066 | [61066-boomlings-matchup.json](./61066-boomlings-matchup.json) |
@@ -10666,6 +10668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boredom Survivors | 365264 | [365264-boredom-survivors.json](./365264-boredom-survivors.json) |
 | Borewicz | 387066 | [387066-borewicz.json](./387066-borewicz.json) |
 | BOREWORKS | 413654 | [413654-boreworks.json](./413654-boreworks.json) |
+| Borfesu to 5-Jin no Akuma | 41731 | [41731-borfesu-to-5-jin-no-akuma.json](./41731-borfesu-to-5-jin-no-akuma.json) |
 | Borg Nukem | 291978 | [291978-borg-nukem.json](./291978-borg-nukem.json) |
 | Borgia | 24774 | [24774-borgia.json](./24774-borgia.json) |
 | BorielZONE | 279734 | [279734-borielzone.json](./279734-borielzone.json) |
