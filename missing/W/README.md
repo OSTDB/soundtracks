@@ -1417,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlock | 13044 | [13044-warlock.json](./13044-warlock.json) |
 | Warlock | 19773 | [19773-warlock.json](./19773-warlock.json) |
 | Warlock II: Great Mage Edition | 53910 | [53910-warlock-ii-great-mage-edition.json](./53910-warlock-ii-great-mage-edition.json) |
+| Warlock II: The Exiled | 6774 | [6774-warlock-ii-the-exiled.json](./6774-warlock-ii-the-exiled.json) |
 | Warlock II: The Exiled - The Good, the Bad, & the Muddy | 170192 | [170192-warlock-ii-the-exiled-the-good-the-bad-and-the-muddy.json](./170192-warlock-ii-the-exiled-the-good-the-bad-and-the-muddy.json) |
 | Warlock II: The Exiled - The Thrilling Trio | 170186 | [170186-warlock-ii-the-exiled-the-thrilling-trio.json](./170186-warlock-ii-the-exiled-the-thrilling-trio.json) |
 | Warlock II: The Exiled - Three Mighty Mages | 170789 | [170789-warlock-ii-the-exiled-three-mighty-mages.json](./170789-warlock-ii-the-exiled-three-mighty-mages.json) |
@@ -3228,7 +3229,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
