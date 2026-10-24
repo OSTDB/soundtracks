@@ -2807,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Academy: Operation Market Garden | 167801 | [167801-battle-academy-operation-market-garden.json](./167801-battle-academy-operation-market-garden.json) |
 | Battle Academy: Operation Sealion | 168437 | [168437-battle-academy-operation-sealion.json](./168437-battle-academy-operation-sealion.json) |
 | Battle Academy: Rommel in Normandy | 168435 | [168435-battle-academy-rommel-in-normandy.json](./168435-battle-academy-rommel-in-normandy.json) |
+| Battle Ace | 38103 | [38103-battle-ace.json](./38103-battle-ace.json) |
 | Battle Ages | 58634 | [58634-battle-ages.json](./58634-battle-ages.json) |
 | Battle Air Hockey Break Beats! | 338203 | [338203-battle-air-hockey-break-beats.json](./338203-battle-air-hockey-break-beats.json) |
 | Battle Alchemy | 157068 | [157068-battle-alchemy.json](./157068-battle-alchemy.json) |
@@ -8616,6 +8617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloclash | 389045 | [389045-bloclash.json](./389045-bloclash.json) |
 | Blocos Mágicos | 359754 | [359754-blocos-magicos.json](./359754-blocos-magicos.json) |
 | Blocus | 313263 | [313263-blocus.json](./313263-blocus.json) |
+| Blodia | 38100 | [38100-blodia.json](./38100-blodia.json) |
 | Blodia Land | 48542 | [48542-blodia-land.json](./48542-blodia-land.json) |
 | Blofeld X | 269108 | [269108-blofeld-x.json](./269108-blofeld-x.json) |
 | bLogic Blox | 110767 | [110767-blogic-blox.json](./110767-blogic-blox.json) |
@@ -9713,6 +9715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body Blows | 11974 | [11974-body-blows.json](./11974-body-blows.json) |
 | Body Blows Galactic | 11975 | [11975-body-blows-galactic.json](./11975-body-blows-galactic.json) |
 | Body Cam Shooter | 328555 | [328555-body-cam-shooter.json](./328555-body-cam-shooter.json) |
+| Body Conquest II ~The Messiah~ | 38099 | [38099-body-conquest-ii-the-messiah.json](./38099-body-conquest-ii-the-messiah.json) |
 | Body Count | 273366 | [273366-body-count.json](./273366-body-count.json) |
 | Body Count | 45761 | [45761-body-count.json](./45761-body-count.json) |
 | Body Discovery | 117598 | [117598-body-discovery.json](./117598-body-discovery.json) |
