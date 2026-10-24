@@ -5583,6 +5583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Beco World | 267886 | [267886-beyond-beco-world.json](./267886-beyond-beco-world.json) |
 | Beyond Blue: After the Storm | 329974 | [329974-beyond-blue-after-the-storm.json](./329974-beyond-blue-after-the-storm.json) |
 | Beyond Border | 317417 | [317417-beyond-border.json](./317417-beyond-border.json) |
+| Beyond Castle Wolfenstein | 3032 | [3032-beyond-castle-wolfenstein.json](./3032-beyond-castle-wolfenstein.json) |
 | Beyond Castle Wolfenstein | 307296 | [307296-beyond-castle-wolfenstein.json](./307296-beyond-castle-wolfenstein.json) |
 | Beyond Castle Wolfenstein | 317532 | [317532-beyond-castle-wolfenstein.json](./317532-beyond-castle-wolfenstein.json) |
 | Beyond Castle Wolfenstein | 317535 | [317535-beyond-castle-wolfenstein.json](./317535-beyond-castle-wolfenstein.json) |
