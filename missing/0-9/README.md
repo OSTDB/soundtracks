@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | △ to X no Nazotoki | 267246 | [267246-to-x-no-nazotoki.json](./267246-to-x-no-nazotoki.json) |
 | $1 Ride | 31922 | [31922-1-ride.json](./31922-1-ride.json) |
 | $1,000,000 Kid: Maboroshi no Teiou-hen | 215126 | [215126-1-000-000-kid-maboroshi-no-teiou-hen.json](./215126-1-000-000-kid-maboroshi-no-teiou-hen.json) |
+| 0 Day | 30555 | [30555-0-day.json](./30555-0-day.json) |
 | 0 Day Attack on Earth | 6172 | [6172-0-day-attack-on-earth.json](./6172-0-day-attack-on-earth.json) |
 | 0 de Waru Kinou | 376633 | [376633-0-de-waru-kinou.json](./376633-0-de-waru-kinou.json) |
 | 0 Gravity Y3030 | 59721 | [59721-0-gravity-y3030.json](./59721-0-gravity-y3030.json) |
@@ -688,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Ultimate Mahjong 2 | 111457 | [111457-1001-ultimate-mahjong-2.json](./111457-1001-ultimate-mahjong-2.json) |
 | 1001-Kai-me no Aoi Tsuki | 98429 | [98429-1001-kai-me-no-aoi-tsuki.json](./98429-1001-kai-me-no-aoi-tsuki.json) |
 | 1001st Hyper Tower | 146644 | [146644-1001st-hyper-tower.json](./146644-1001st-hyper-tower.json) |
+| 100nya | 30580 | [30580-100nya.json](./30580-100nya.json) |
 | 101 Airborne: The Airborne Invasion of Normandy | 582 | [582-101-airborne-the-airborne-invasion-of-normandy.json](./582-101-airborne-the-airborne-invasion-of-normandy.json) |
 | 101 Bunny Pets | 202175 | [202175-101-bunny-pets.json](./202175-101-bunny-pets.json) |
 | 101 Card & Board Games | 228408 | [228408-101-card-and-board-games.json](./228408-101-card-and-board-games.json) |
