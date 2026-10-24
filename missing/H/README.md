@@ -3423,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellcam | 354486 | [354486-hellcam.json](./354486-hellcam.json) |
 | Hellcard | 127193 | [127193-hellcard.json](./127193-hellcard.json) |
 | Hellcard II | 388355 | [388355-hellcard-ii.json](./388355-hellcard-ii.json) |
+| HellCat | 102938 | [102938-hellcat.json](./102938-hellcat.json) |
 | Hellcat Ace | 25042 | [25042-hellcat-ace.json](./25042-hellcat-ace.json) |
 | Hellcats Over the Pacific | 71323 | [71323-hellcats-over-the-pacific.json](./71323-hellcats-over-the-pacific.json) |
 | Hellcats: Missions at Leyte Gulf | 337196 | [337196-hellcats-missions-at-leyte-gulf.json](./337196-hellcats-missions-at-leyte-gulf.json) |
@@ -7325,6 +7326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Knight Bitch | 82902 | [82902-holy-knight-bitch.json](./82902-holy-knight-bitch.json) |
 | Holy Light | 305966 | [305966-holy-light.json](./305966-holy-light.json) |
 | Holy Ocean | 239744 | [239744-holy-ocean.json](./239744-holy-ocean.json) |
+| Holy Potatoes! A Spy Story?! | 96384 | [96384-holy-potatoes-a-spy-story.json](./96384-holy-potatoes-a-spy-story.json) |
 | Holy Potatoes! A Weapon Shop?!: Spud Tales - Journey to Olympus | 124836 | [124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json](./124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json) |
 | Holy Potatoes! Compedium: Badge Edition | 139833 | [139833-holy-potatoes-compedium-badge-edition.json](./139833-holy-potatoes-compedium-badge-edition.json) |
 | Holy Potatoes! Compendium | 137674 | [137674-holy-potatoes-compendium.json](./137674-holy-potatoes-compendium.json) |
@@ -9402,6 +9404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Rights | 115792 | [115792-human-rights.json](./115792-human-rights.json) |
 | Human Rocket Person | 111700 | [111700-human-rocket-person.json](./111700-human-rocket-person.json) |
 | Human Save Plan | 234577 | [234577-human-save-plan.json](./234577-human-save-plan.json) |
+| Human Simulator | 128246 | [128246-human-simulator.json](./128246-human-simulator.json) |
 | Human Souvenir | 298369 | [298369-human-souvenir.json](./298369-human-souvenir.json) |
 | Human Spiderweb | 374230 | [374230-human-spiderweb.json](./374230-human-spiderweb.json) |
 | Human Upgrade Labs | 298114 | [298114-human-upgrade-labs.json](./298114-human-upgrade-labs.json) |
