@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Central 2: Flo Rida & T-Pain - "Low" | 353201 | [353201-dance-central-2-flo-rida-and-t-pain-low.json](./353201-dance-central-2-flo-rida-and-t-pain-low.json) |
 | Dance Central 2: LMFAO - "Party Rock Anthem" | 353200 | [353200-dance-central-2-lmfao-party-rock-anthem.json](./353200-dance-central-2-lmfao-party-rock-anthem.json) |
 | Dance Central 2: Nelly - "Hot In Herre" | 353202 | [353202-dance-central-2-nelly-hot-in-herre.json](./353202-dance-central-2-nelly-hot-in-herre.json) |
+| Dance Central 3 | 19910 | [19910-dance-central-3.json](./19910-dance-central-3.json) |
 | Dance Central 3: Carly Rae Jepsen - "Call Me Maybe" | 353204 | [353204-dance-central-3-carly-rae-jepsen-call-me-maybe.json](./353204-dance-central-3-carly-rae-jepsen-call-me-maybe.json) |
 | Dance Central 3: Lady Gaga - "Paparazzi" | 353205 | [353205-dance-central-3-lady-gaga-paparazzi.json](./353205-dance-central-3-lady-gaga-paparazzi.json) |
 | Dance Central 3: LMFAO - "Sorry for Party Rocking" | 353206 | [353206-dance-central-3-lmfao-sorry-for-party-rocking.json](./353206-dance-central-3-lmfao-sorry-for-party-rocking.json) |
@@ -5004,6 +5005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demented | 34070 | [34070-demented.json](./34070-demented.json) |
 | Dementia | 184583 | [184583-dementia.json](./184583-dementia.json) |
 | Dementium II HD | 5837 | [5837-dementium-ii-hd.json](./5837-dementium-ii-hd.json) |
+| Dementium: The Ward | 21238 | [21238-dementium-the-ward.json](./21238-dementium-the-ward.json) |
 | Demeo Battles | 251555 | [251555-demeo-battles.json](./251555-demeo-battles.json) |
 | Demeo x Dungeons & Dragons: Battlemarked | 346959 | [346959-demeo-x-dungeons-and-dragons-battlemarked.json](./346959-demeo-x-dungeons-and-dragons-battlemarked.json) |
 | Demeo: PC Edition | 194737 | [194737-demeo-pc-edition.json](./194737-demeo-pc-edition.json) |
@@ -8202,6 +8204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored 3 | 267308 | [267308-dishonored-3.json](./267308-dishonored-3.json) |
 | Dishonored: Death of the Outsider Deluxe Bundle | 83510 | [83510-dishonored-death-of-the-outsider-deluxe-bundle.json](./83510-dishonored-death-of-the-outsider-deluxe-bundle.json) |
 | Dishonored: Definitive Edition | 20863 | [20863-dishonored-definitive-edition.json](./20863-dishonored-definitive-edition.json) |
+| Dishonored: Definitive Edition | 41590 | [41590-dishonored-definitive-edition.json](./41590-dishonored-definitive-edition.json) |
 | Dishonored: The Knife of Dunwall | 14568 | [14568-dishonored-the-knife-of-dunwall.json](./14568-dishonored-the-knife-of-dunwall.json) |
 | Dishonored: Void Walker Arsenal | 14571 | [14571-dishonored-void-walker-arsenal.json](./14571-dishonored-void-walker-arsenal.json) |
 | Dishventory | 347110 | [347110-dishventory.json](./347110-dishventory.json) |
@@ -11713,6 +11716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z Life | 328039 | [328039-dragon-ball-z-life.json](./328039-dragon-ball-z-life.json) |
 | Dragon Ball Z Tournament | 141526 | [141526-dragon-ball-z-tournament.json](./141526-dragon-ball-z-tournament.json) |
 | Dragon Ball Z: Atsumare! Goku's World | 230282 | [230282-dragon-ball-z-atsumare-gokus-world.json](./230282-dragon-ball-z-atsumare-gokus-world.json) |
+| Dragon Ball Z: Attack of the Saiyans | 21196 | [21196-dragon-ball-z-attack-of-the-saiyans.json](./21196-dragon-ball-z-attack-of-the-saiyans.json) |
 | Dragon Ball Z: Bakuretsu Impact | 66917 | [66917-dragon-ball-z-bakuretsu-impact.json](./66917-dragon-ball-z-bakuretsu-impact.json) |
 | Dragon Ball Z: Budokai 2 | 2564 | [2564-dragon-ball-z-budokai-2.json](./2564-dragon-ball-z-budokai-2.json) |
 | Dragon Ball Z: Budokai 3 | 2566 | [2566-dragon-ball-z-budokai-3.json](./2566-dragon-ball-z-budokai-3.json) |
@@ -14072,6 +14076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dude The Dark Agent | 399691 | [399691-dude-the-dark-agent.json](./399691-dude-the-dark-agent.json) |
 | Dude Theft Wars | 96569 | [96569-dude-theft-wars.json](./96569-dude-theft-wars.json) |
 | Dude World | 59918 | [59918-dude-world.json](./59918-dude-world.json) |
+| Dude, Stop | 29965 | [29965-dude-stop.json](./29965-dude-stop.json) |
 | Dude, Where Is My Beer? | 140482 | [140482-dude-where-is-my-beer.json](./140482-dude-where-is-my-beer.json) |
 | DudeGo | 292967 | [292967-dudego.json](./292967-dudego.json) |
 | Dudeology 1 | 234730 | [234730-dudeology-1.json](./234730-dudeology-1.json) |
@@ -14697,6 +14702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Shooting | 129516 | [129516-dungeon-shooting.json](./129516-dungeon-shooting.json) |
 | Dungeon Siege Collection | 154612 | [154612-dungeon-siege-collection.json](./154612-dungeon-siege-collection.json) |
 | Dungeon Siege II | 9269 | [9269-dungeon-siege-ii.json](./9269-dungeon-siege-ii.json) |
+| Dungeon Siege II: Broken World | 9275 | [9275-dungeon-siege-ii-broken-world.json](./9275-dungeon-siege-ii-broken-world.json) |
 | Dungeon Siege II: Deluxe Edition | 46439 | [46439-dungeon-siege-ii-deluxe-edition.json](./46439-dungeon-siege-ii-deluxe-edition.json) |
 | Dungeon Siege III: Limited Edition | 44551 | [44551-dungeon-siege-iii-limited-edition.json](./44551-dungeon-siege-iii-limited-edition.json) |
 | Dungeon Siege III: Treasures of the Sun | 10254 | [10254-dungeon-siege-iii-treasures-of-the-sun.json](./10254-dungeon-siege-iii-treasures-of-the-sun.json) |
