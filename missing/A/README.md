@@ -2950,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -5512,6 +5513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Town Invasion | 223398 | [223398-alien-town-invasion.json](./223398-alien-town-invasion.json) |
 | Alien Transporter | 409887 | [409887-alien-transporter.json](./409887-alien-transporter.json) |
 | Alien Tribe 2 | 97309 | [97309-alien-tribe-2.json](./97309-alien-tribe-2.json) |
+| Alien Trilogy | 6825 | [6825-alien-trilogy.json](./6825-alien-trilogy.json) |
 | Alien Up | 230963 | [230963-alien-up.json](./230963-alien-up.json) |
 | Alien Vendetta | 134559 | [134559-alien-vendetta.json](./134559-alien-vendetta.json) |
 | Alien Video Game Scientist | 320595 | [320595-alien-video-game-scientist.json](./320595-alien-video-game-scientist.json) |
@@ -6972,6 +6974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnesia: A Coward's Debt | 352198 | [352198-amnesia-a-cowards-debt.json](./352198-amnesia-a-cowards-debt.json) |
 | Amnesia: Day One Edition Dual Pack | 196820 | [196820-amnesia-day-one-edition-dual-pack.json](./196820-amnesia-day-one-edition-dual-pack.json) |
 | Amnesia: Final Revelations | 116950 | [116950-amnesia-final-revelations.json](./116950-amnesia-final-revelations.json) |
+| Amnesia: Justine | 15534 | [15534-amnesia-justine.json](./15534-amnesia-justine.json) |
 | Amnesia: Rain | 376173 | [376173-amnesia-rain.json](./376173-amnesia-rain.json) |
 | Amnesia: Rebirth | 131785 | [131785-amnesia-rebirth.json](./131785-amnesia-rebirth.json) |
 | Amnesia: The Great Work | 196001 | [196001-amnesia-the-great-work.json](./196001-amnesia-the-great-work.json) |
@@ -12248,6 +12251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: Tombs of the Fallen | 222834 | [222834-assassins-creed-valhalla-tombs-of-the-fallen.json](./222834-assassins-creed-valhalla-tombs-of-the-fallen.json) |
 | Assassin's Creed Valhalla: Tombs of the Fallen Pack 2 | 222835 | [222835-assassins-creed-valhalla-tombs-of-the-fallen-pack-2.json](./222835-assassins-creed-valhalla-tombs-of-the-fallen-pack-2.json) |
 | Assassin's Creed Valhalla: Ultimate Edition | 136132 | [136132-assassins-creed-valhalla-ultimate-edition.json](./136132-assassins-creed-valhalla-ultimate-edition.json) |
+| Assassin's Creed: Altair's Chronicles | 21349 | [21349-assassins-creed-altairs-chronicles.json](./21349-assassins-creed-altairs-chronicles.json) |
 | Assassin's Creed: Anthology | 45120 | [45120-assassins-creed-anthology.json](./45120-assassins-creed-anthology.json) |
 | Assassin's Creed: Bloodlines | 10661 | [10661-assassins-creed-bloodlines.json](./10661-assassins-creed-bloodlines.json) |
 | Assassin's Creed: Bloodsail | 26917 | [26917-assassins-creed-bloodsail.json](./26917-assassins-creed-bloodsail.json) |
@@ -14199,6 +14203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avem33 | 94128 | [94128-avem33.json](./94128-avem33.json) |
 | Avem888 | 105751 | [105751-avem888.json](./105751-avem888.json) |
 | Avem888 VR | 105128 | [105128-avem888-vr.json](./105128-avem888-vr.json) |
+| Aven Colony | 23212 | [23212-aven-colony.json](./23212-aven-colony.json) |
 | Aven Colony: The Cerulean Vale | 227353 | [227353-aven-colony-the-cerulean-vale.json](./227353-aven-colony-the-cerulean-vale.json) |
 | Avenge Myself | 332893 | [332893-avenge-myself.json](./332893-avenge-myself.json) |
 | Avenger | 109598 | [109598-avenger.json](./109598-avenger.json) |
