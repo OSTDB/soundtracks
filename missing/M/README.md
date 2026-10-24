@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mado no Naka no Saki ni Aru Mono | 152115 | [152115-mado-no-naka-no-saki-ni-aru-mono.json](./152115-mado-no-naka-no-saki-ni-aru-mono.json) |
 | Mado Paf! | 229263 | [229263-mado-paf.json](./229263-mado-paf.json) |
 | Madojeongi: Secret of Elysium | 252163 | [252163-madojeongi-secret-of-elysium.json](./252163-madojeongi-secret-of-elysium.json) |
+| Madoka Magica Grief Syndrome | 27361 | [27361-madoka-magica-grief-syndrome.json](./27361-madoka-magica-grief-syndrome.json) |
 | Madoka Magica Magia Exedra | 307774 | [307774-madoka-magica-magia-exedra.json](./307774-madoka-magica-magia-exedra.json) |
 | Madonna Simulator | 176379 | [176379-madonna-simulator.json](./176379-madonna-simulator.json) |
 | Madorica Real Estate 2 | 225483 | [225483-madorica-real-estate-2.json](./225483-madorica-real-estate-2.json) |
@@ -742,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Rumble | 173050 | [173050-mage-rumble.json](./173050-mage-rumble.json) |
 | Mage Saga | 235292 | [235292-mage-saga.json](./235292-mage-saga.json) |
 | Mage Supreme | 124558 | [124558-mage-supreme.json](./124558-mage-supreme.json) |
+| Mage the Ascension: Refuge | 27423 | [27423-mage-the-ascension-refuge.json](./27423-mage-the-ascension-refuge.json) |
 | Mage Tower | 187191 | [187191-mage-tower.json](./187191-mage-tower.json) |
 | Mage Tower, A Tower Defense Card Game | 246803 | [246803-mage-tower-a-tower-defense-card-game.json](./246803-mage-tower-a-tower-defense-card-game.json) |
 | Mage VR -Mini Version- | 114344 | [114344-mage-vr-mini-version.json](./114344-mage-vr-mini-version.json) |
@@ -5961,6 +5963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 2 Randomizer | 324885 | [324885-mega-man-2-randomizer.json](./324885-mega-man-2-randomizer.json) |
 | Mega Man 2 Revamped | 391133 | [391133-mega-man-2-revamped.json](./391133-mega-man-2-revamped.json) |
 | Mega Man 2: The Power Fighters | 1725 | [1725-mega-man-2-the-power-fighters.json](./1725-mega-man-2-the-power-fighters.json) |
+| Mega Man 2.5D | 27306 | [27306-mega-man-2-5d.json](./27306-mega-man-2-5d.json) |
 | Mega Man 3 | 1716 | [1716-mega-man-3.json](./1716-mega-man-3.json) |
 | Mega Man 3 | 198813 | [198813-mega-man-3.json](./198813-mega-man-3.json) |
 | Mega Man 3 | 236706 | [236706-mega-man-3.json](./236706-mega-man-3.json) |
@@ -6603,6 +6606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMan: Citrus Cult | 323767 | [323767-megaman-citrus-cult.json](./323767-megaman-citrus-cult.json) |
 | Megaman: The Great Catastrophe | 323882 | [323882-megaman-the-great-catastrophe.json](./323882-megaman-the-great-catastrophe.json) |
 | Megamania | 12312 | [12312-megamania.json](./12312-megamania.json) |
+| Megamari: Marisa no Yabou | 27347 | [27347-megamari-marisa-no-yabou.json](./27347-megamari-marisa-no-yabou.json) |
 | Megamaze | 208393 | [208393-megamaze.json](./208393-megamaze.json) |
 | Megamedia's Megapak 3 | 113531 | [113531-megamedias-megapak-3.json](./113531-megamedias-megapak-3.json) |
 | MegaMegaEggs | 309484 | [309484-megamegaeggs.json](./309484-megamegaeggs.json) |
