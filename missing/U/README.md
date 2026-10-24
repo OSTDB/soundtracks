@@ -2252,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Tournament 2004: Editor's Choice Edition | 27811 | [27811-unreal-tournament-2004-editors-choice-edition.json](./27811-unreal-tournament-2004-editors-choice-edition.json) |
 | Unreal Tournament III | 928 | [928-unreal-tournament-iii.json](./928-unreal-tournament-iii.json) |
 | Unreal Tournament III: Black Edition | 46624 | [46624-unreal-tournament-iii-black-edition.json](./46624-unreal-tournament-iii-black-edition.json) |
+| Unreal Tournament: Game of the Year Edition | 24723 | [24723-unreal-tournament-game-of-the-year-edition.json](./24723-unreal-tournament-game-of-the-year-edition.json) |
 | Unreal Trail: In the name of the Strongest, 30 Hunters Forced to Evolve | 292936 | [292936-unreal-trail-in-the-name-of-the-strongest-30-hunters-forced-to-evolve.json](./292936-unreal-trail-in-the-name-of-the-strongest-30-hunters-forced-to-evolve.json) |
 | Unreal Vendetta | 213414 | [213414-unreal-vendetta.json](./213414-unreal-vendetta.json) |
 | Unreal World | 250449 | [250449-unreal-world.json](./250449-unreal-world.json) |
