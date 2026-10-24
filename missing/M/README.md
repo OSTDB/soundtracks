@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Drop 3 | 45319 | [45319-magical-drop-3.json](./45319-magical-drop-3.json) |
 | Magical Drop CPC | 170778 | [170778-magical-drop-cpc.json](./170778-magical-drop-cpc.json) |
 | Magical Drop for WonderSwan | 37573 | [37573-magical-drop-for-wonderswan.json](./37573-magical-drop-for-wonderswan.json) |
+| Magical Drop II | 39348 | [39348-magical-drop-ii.json](./39348-magical-drop-ii.json) |
 | Magical Drop III: Toretate Zoukangou! | 171031 | [171031-magical-drop-iii-toretate-zoukangou.json](./171031-magical-drop-iii-toretate-zoukangou.json) |
 | Magical Drop III: Yokubari Tokudaigou! | 170790 | [170790-magical-drop-iii-yokubari-tokudaigou.json](./170790-magical-drop-iii-yokubari-tokudaigou.json) |
 | Magical Drop VI | 221060 | [221060-magical-drop-vi.json](./221060-magical-drop-vi.json) |
@@ -8301,6 +8302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metropolis Crimes | 67686 | [67686-metropolis-crimes.json](./67686-metropolis-crimes.json) |
 | Metropolis Odyssey | 165377 | [165377-metropolis-odyssey.json](./165377-metropolis-odyssey.json) |
 | Metropolis Origins | 183871 | [183871-metropolis-origins.json](./183871-metropolis-origins.json) |
+| Metropolis Street Racer | 3319 | [3319-metropolis-street-racer.json](./3319-metropolis-street-racer.json) |
 | Metropolis: Lux Obscura | 68442 | [68442-metropolis-lux-obscura.json](./68442-metropolis-lux-obscura.json) |
 | Metropolisim | 110699 | [110699-metropolisim.json](./110699-metropolisim.json) |
 | Metropolismania | 26661 | [26661-metropolismania.json](./26661-metropolismania.json) |
@@ -11806,6 +11808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Combat | 166216 | [166216-modern-combat.json](./166216-modern-combat.json) |
 | Modern Combat 2: Black Pegasus | 239484 | [239484-modern-combat-2-black-pegasus.json](./239484-modern-combat-2-black-pegasus.json) |
 | Modern Combat 3: Fallen Nation | 18882 | [18882-modern-combat-3-fallen-nation.json](./18882-modern-combat-3-fallen-nation.json) |
+| Modern Combat 4: Zero Hour | 38679 | [38679-modern-combat-4-zero-hour.json](./38679-modern-combat-4-zero-hour.json) |
 | Modern Combat 5: Blackout | 23409 | [23409-modern-combat-5-blackout.json](./23409-modern-combat-5-blackout.json) |
 | Modern Combat Versus | 71910 | [71910-modern-combat-versus.json](./71910-modern-combat-versus.json) |
 | Modern Combat: Sandstorm | 18884 | [18884-modern-combat-sandstorm.json](./18884-modern-combat-sandstorm.json) |
@@ -12720,6 +12723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Home | 263987 | [263987-monster-home.json](./263987-monster-home.json) |
 | Monster Hospital - Kids Game | 90368 | [90368-monster-hospital-kids-game.json](./90368-monster-hospital-kids-game.json) |
 | Monster House | 112156 | [112156-monster-house.json](./112156-monster-house.json) |
+| Monster House | 4018 | [4018-monster-house.json](./4018-monster-house.json) |
 | Monster House Racing | 376708 | [376708-monster-house-racing.json](./376708-monster-house-racing.json) |
 | Monster Hunt | 79235 | [79235-monster-hunt.json](./79235-monster-hunt.json) |
 | Monster Hunter | 352353 | [352353-monster-hunter.json](./352353-monster-hunter.json) |
