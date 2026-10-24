@@ -2961,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marine Sharpshooter | 77242 | [77242-marine-sharpshooter.json](./77242-marine-sharpshooter.json) |
 | Marine Sharpshooter 3 | 27561 | [27561-marine-sharpshooter-3.json](./27561-marine-sharpshooter-3.json) |
 | Marine Sharpshooter 4 | 27562 | [27562-marine-sharpshooter-4.json](./27562-marine-sharpshooter-4.json) |
+| Marine Sharpshooter II: Jungle Warfare | 10537 | [10537-marine-sharpshooter-ii-jungle-warfare.json](./10537-marine-sharpshooter-ii-jungle-warfare.json) |
 | Marine Survivors | 213970 | [213970-marine-survivors.json](./213970-marine-survivors.json) |
 | Marine Tour | 243393 | [243393-marine-tour.json](./243393-marine-tour.json) |
 | Marine Wars | 40583 | [40583-marine-wars.json](./40583-marine-wars.json) |
@@ -8270,6 +8271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Prime 3: Corruption | 1111 | [1111-metroid-prime-3-corruption.json](./1111-metroid-prime-3-corruption.json) |
 | Metroid Prime Pinball | 1109 | [1109-metroid-prime-pinball.json](./1109-metroid-prime-pinball.json) |
 | Metroid Prime Remastered | 236663 | [236663-metroid-prime-remastered.json](./236663-metroid-prime-remastered.json) |
+| Metroid Prime: Blast Ball | 23492 | [23492-metroid-prime-blast-ball.json](./23492-metroid-prime-blast-ball.json) |
 | Metroid Prime: Google Translate Edition | 255380 | [255380-metroid-prime-google-translate-edition.json](./255380-metroid-prime-google-translate-edition.json) |
 | Metroid Prime: Trial of Strength | 339260 | [339260-metroid-prime-trial-of-strength.json](./339260-metroid-prime-trial-of-strength.json) |
 | Metroid Prime: Trilogy - Collector's Edition | 115548 | [115548-metroid-prime-trilogy-collectors-edition.json](./115548-metroid-prime-trilogy-collectors-edition.json) |
@@ -11546,6 +11548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Rivals | 255104 | [255104-mlb-rivals.json](./255104-mlb-rivals.json) |
 | MLB Slam! | 47568 | [47568-mlb-slam.json](./47568-mlb-slam.json) |
 | MLB Slugfest 2003 | 47334 | [47334-mlb-slugfest-2003.json](./47334-mlb-slugfest-2003.json) |
+| MLB SlugFest: Loaded | 23537 | [23537-mlb-slugfest-loaded.json](./23537-mlb-slugfest-loaded.json) |
 | MLB Superstars | 5011 | [5011-mlb-superstars.json](./5011-mlb-superstars.json) |
 | MLB Tap Baseball 2023 | 242462 | [242462-mlb-tap-baseball-2023.json](./242462-mlb-tap-baseball-2023.json) |
 | MLB Tap Sports Baseball 2017 | 90064 | [90064-mlb-tap-sports-baseball-2017.json](./90064-mlb-tap-sports-baseball-2017.json) |
@@ -12090,6 +12093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole's Quest | 343208 | [343208-moles-quest.json](./343208-moles-quest.json) |
 | Mole's World | 245050 | [245050-moles-world.json](./245050-moles-world.json) |
 | Molebasher | 312262 | [312262-molebasher.json](./312262-molebasher.json) |
+| Molecats | 22743 | [22743-molecats.json](./22743-molecats.json) |
 | Molecule - a chemistry challenge | 98265 | [98265-molecule-a-chemistry-challenge.json](./98265-molecule-a-chemistry-challenge.json) |
 | Molecule Make Lab | 201133 | [201133-molecule-make-lab.json](./201133-molecule-make-lab.json) |
 | Molecule Man | 28485 | [28485-molecule-man.json](./28485-molecule-man.json) |
@@ -13801,6 +13805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mornings with Java | 229770 | [229770-mornings-with-java.json](./229770-mornings-with-java.json) |
 | Morningstar | 254446 | [254446-morningstar.json](./254446-morningstar.json) |
 | Morningstar | 415929 | [415929-morningstar.json](./415929-morningstar.json) |
+| Morningstar: Descent to Deadrock | 10558 | [10558-morningstar-descent-to-deadrock.json](./10558-morningstar-descent-to-deadrock.json) |
 | Morningtide Motel | 318970 | [318970-morningtide-motel.json](./318970-morningtide-motel.json) |
 | Morodashi Sumo | 211046 | [211046-morodashi-sumo.json](./211046-morodashi-sumo.json) |
 | Moroi | 137050 | [137050-moroi.json](./137050-moroi.json) |
@@ -16147,6 +16152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: On the Edge | 18267 | [18267-mx-vs-atv-on-the-edge.json](./18267-mx-vs-atv-on-the-edge.json) |
 | MX vs. ATV: Reflex | 248570 | [248570-mx-vs-atv-reflex.json](./248570-mx-vs-atv-reflex.json) |
 | MX vs. ATV: Reflex | 248571 | [248571-mx-vs-atv-reflex.json](./248571-mx-vs-atv-reflex.json) |
+| MX vs. ATV: Supercross | 24306 | [24306-mx-vs-atv-supercross.json](./24306-mx-vs-atv-supercross.json) |
 | MX vs. ATV: Supercross - Encore | 14297 | [14297-mx-vs-atv-supercross-encore.json](./14297-mx-vs-atv-supercross-encore.json) |
 | MX vs. ATV: Unleashed | 24150 | [24150-mx-vs-atv-unleashed.json](./24150-mx-vs-atv-unleashed.json) |
 | MX vs. ATV: Untamed | 248554 | [248554-mx-vs-atv-untamed.json](./248554-mx-vs-atv-untamed.json) |
