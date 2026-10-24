@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jazz Jackrabbit 2: The Christmas Chronicles | 134282 | [134282-jazz-jackrabbit-2-the-christmas-chronicles.json](./134282-jazz-jackrabbit-2-the-christmas-chronicles.json) |
 | Jazz Jackrabbit 2: The Secret Files | 51347 | [51347-jazz-jackrabbit-2-the-secret-files.json](./51347-jazz-jackrabbit-2-the-secret-files.json) |
 | Jazz Jackrabbit 3 | 72667 | [72667-jazz-jackrabbit-3.json](./72667-jazz-jackrabbit-3.json) |
+| Jazz Jackrabbit Advance | 6477 | [6477-jazz-jackrabbit-advance.json](./6477-jazz-jackrabbit-advance.json) |
 | Jazz Jackrabbit: Holiday Hare 1994 | 79517 | [79517-jazz-jackrabbit-holiday-hare-1994.json](./79517-jazz-jackrabbit-holiday-hare-1994.json) |
 | Jazz Jackrabbit: Holiday Hare 1995 | 47050 | [47050-jazz-jackrabbit-holiday-hare-1995.json](./47050-jazz-jackrabbit-holiday-hare-1995.json) |
 | Jazz Lightning : Castle Dungeons | 126644 | [126644-jazz-lightning-castle-dungeons.json](./126644-jazz-lightning-castle-dungeons.json) |
@@ -1722,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jimmy Johnson's VR Football '98 | 45076 | [45076-jimmy-johnsons-vr-football-98.json](./45076-jimmy-johnsons-vr-football-98.json) |
 | Jimmy Jumps | 390649 | [390649-jimmy-jumps.json](./390649-jimmy-jumps.json) |
 | Jimmy Kamikaze | 108436 | [108436-jimmy-kamikaze.json](./108436-jimmy-kamikaze.json) |
+| Jimmy Neutron vs. Jimmy Negatron | 6478 | [6478-jimmy-neutron-vs-jimmy-negatron.json](./6478-jimmy-neutron-vs-jimmy-negatron.json) |
 | Jimmy Neutron: Boy Genius | 2966 | [2966-jimmy-neutron-boy-genius.json](./2966-jimmy-neutron-boy-genius.json) |
 | Jimmy Neutron: Boy Genius | 49291 | [49291-jimmy-neutron-boy-genius.json](./49291-jimmy-neutron-boy-genius.json) |
 | Jimmy White's 'Whirlwind' Snooker | 12159 | [12159-jimmy-whites-whirlwind-snooker.json](./12159-jimmy-whites-whirlwind-snooker.json) |
@@ -3112,7 +3114,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park : Aftermath | 8367 | [8367-jurassic-park-aftermath.json](./8367-jurassic-park-aftermath.json) |
 | Jurassic Park III | 40093 | [40093-jurassic-park-iii.json](./40093-jurassic-park-iii.json) |
 | Jurassic Park III: Dino Defender | 74091 | [74091-jurassic-park-iii-dino-defender.json](./74091-jurassic-park-iii-dino-defender.json) |
+| Jurassic Park III: Island Attack | 6482 | [6482-jurassic-park-iii-island-attack.json](./6482-jurassic-park-iii-island-attack.json) |
+| Jurassic Park III: Park Builder | 6483 | [6483-jurassic-park-iii-park-builder.json](./6483-jurassic-park-iii-park-builder.json) |
 | Jurassic Park III: T-Rex Jaw Chomping Action Game | 198789 | [198789-jurassic-park-iii-t-rex-jaw-chomping-action-game.json](./198789-jurassic-park-iii-t-rex-jaw-chomping-action-game.json) |
+| Jurassic Park III: The DNA Factor | 6481 | [6481-jurassic-park-iii-the-dna-factor.json](./6481-jurassic-park-iii-the-dna-factor.json) |
 | Jurassic Park: Builder | 10531 | [10531-jurassic-park-builder.json](./10531-jurassic-park-builder.json) |
 | Jurassic Park: Rampage Edition | 10678 | [10678-jurassic-park-rampage-edition.json](./10678-jurassic-park-rampage-edition.json) |
 | Jurassic Park: Scan Command | 72570 | [72570-jurassic-park-scan-command.json](./72570-jurassic-park-scan-command.json) |
@@ -3436,10 +3441,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice League Heroes | 197882 | [197882-justice-league-heroes.json](./197882-justice-league-heroes.json) |
 | Justice League Heroes | 248573 | [248573-justice-league-heroes.json](./248573-justice-league-heroes.json) |
 | Justice League Heroes | 5872 | [5872-justice-league-heroes.json](./5872-justice-league-heroes.json) |
+| Justice League Heroes: The Flash | 6486 | [6486-justice-league-heroes-the-flash.json](./6486-justice-league-heroes-the-flash.json) |
 | Justice League United | 313329 | [313329-justice-league-united.json](./313329-justice-league-united.json) |
 | Justice League VR: The Complete Experience | 76819 | [76819-justice-league-vr-the-complete-experience.json](./76819-justice-league-vr-the-complete-experience.json) |
+| Justice League: Chronicles | 6485 | [6485-justice-league-chronicles.json](./6485-justice-league-chronicles.json) |
 | Justice League: Dangerous Pursuit | 338691 | [338691-justice-league-dangerous-pursuit.json](./338691-justice-league-dangerous-pursuit.json) |
 | Justice League: Earth's Final Defense | 63693 | [63693-justice-league-earths-final-defense.json](./63693-justice-league-earths-final-defense.json) |
+| Justice League: Injustice for All | 6484 | [6484-justice-league-injustice-for-all.json](./6484-justice-league-injustice-for-all.json) |
 | Justice League: Laptop Infantil | 297741 | [297741-justice-league-laptop-infantil.json](./297741-justice-league-laptop-infantil.json) |
 | Justice League: Save Planet Earth | 245459 | [245459-justice-league-save-planet-earth.json](./245459-justice-league-save-planet-earth.json) |
 | Justice League: Superheroes | 188325 | [188325-justice-league-superheroes.json](./188325-justice-league-superheroes.json) |
