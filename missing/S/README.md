@@ -2210,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarred Stars: Traumatic Edition | 173405 | [173405-scarred-stars-traumatic-edition.json](./173405-scarred-stars-traumatic-edition.json) |
 | Scarred Steel | 374780 | [374780-scarred-steel.json](./374780-scarred-steel.json) |
 | Scarry Village | 301995 | [301995-scarry-village.json](./301995-scarry-village.json) |
+| Scars Above | 152074 | [152074-scars-above.json](./152074-scars-above.json) |
 | Scars of Honor | 133695 | [133695-scars-of-honor.json](./133695-scars-of-honor.json) |
 | Scars of Mars | 267687 | [267687-scars-of-mars.json](./267687-scars-of-mars.json) |
 | Scars of Summer | 169438 | [169438-scars-of-summer.json](./169438-scars-of-summer.json) |
@@ -6170,6 +6171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatterhand | 48648 | [48648-shatterhand.json](./48648-shatterhand.json) |
 | Shatterhold | 406135 | [406135-shatterhold.json](./406135-shatterhold.json) |
 | Shattering Obsidian | 155961 | [155961-shattering-obsidian.json](./155961-shattering-obsidian.json) |
+| Shatterline | 212877 | [212877-shatterline.json](./212877-shatterline.json) |
 | Shatterspace | 197395 | [197395-shatterspace.json](./197395-shatterspace.json) |
 | Shattle | 182189 | [182189-shattle.json](./182189-shattle.json) |
 | Shaun Palmer's Pro Snowboarder | 248602 | [248602-shaun-palmers-pro-snowboarder.json](./248602-shaun-palmers-pro-snowboarder.json) |
@@ -17538,6 +17540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Poker | 95325 | [95325-spin-poker.json](./95325-spin-poker.json) |
 | Spin Quest: A Slot Adventure | 220670 | [220670-spin-quest-a-slot-adventure.json](./220670-spin-quest-a-slot-adventure.json) |
 | Spin Rhythm | 107592 | [107592-spin-rhythm.json](./107592-spin-rhythm.json) |
+| Spin Rhythm XD | 122416 | [122416-spin-rhythm-xd.json](./122416-spin-rhythm-xd.json) |
 | Spin Rhythm XD: Chillhop | 332606 | [332606-spin-rhythm-xd-chillhop.json](./332606-spin-rhythm-xd-chillhop.json) |
 | Spin Rhythm XD: Supporter Pack DLC | 273312 | [273312-spin-rhythm-xd-supporter-pack-dlc.json](./273312-spin-rhythm-xd-supporter-pack-dlc.json) |
 | Spin Royale | 344459 | [344459-spin-royale.json](./344459-spin-royale.json) |
@@ -24058,6 +24061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Haze/Glory Days | 309718 | [309718-summer-haze-glory-days.json](./309718-summer-haze-glory-days.json) |
 | Summer Heat | 278092 | [278092-summer-heat.json](./278092-summer-heat.json) |
 | Summer Horrordays | 177492 | [177492-summer-horrordays.json](./177492-summer-horrordays.json) |
+| Summer in Mara | 109601 | [109601-summer-in-mara.json](./109601-summer-in-mara.json) |
 | Summer in Mara + Deiland Bundle | 188018 | [188018-summer-in-mara-deiland-bundle.json](./188018-summer-in-mara-deiland-bundle.json) |
 | Summer in Mara + Koa and the Five Pirates of Mara | 274429 | [274429-summer-in-mara-koa-and-the-five-pirates-of-mara.json](./274429-summer-in-mara-koa-and-the-five-pirates-of-mara.json) |
 | Summer In Mara: Collector's Edition | 172589 | [172589-summer-in-mara-collectors-edition.json](./172589-summer-in-mara-collectors-edition.json) |
@@ -25472,6 +25476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64: Royal Legacy - Definitive Edition | 314021 | [314021-super-mario-64-royal-legacy-definitive-edition.json](./314021-super-mario-64-royal-legacy-definitive-edition.json) |
 | Super Mario 64: Shadow Edition | 194313 | [194313-super-mario-64-shadow-edition.json](./194313-super-mario-64-shadow-edition.json) |
 | Super Mario 64: Shindou Improvement | 172481 | [172481-super-mario-64-shindou-improvement.json](./172481-super-mario-64-shindou-improvement.json) |
+| Super Mario 64: Shindou Pak Taiou Version | 132642 | [132642-super-mario-64-shindou-pak-taiou-version.json](./132642-super-mario-64-shindou-pak-taiou-version.json) |
 | Super Mario 64: Sonic Edition Plus | 309614 | [309614-super-mario-64-sonic-edition-plus.json](./309614-super-mario-64-sonic-edition-plus.json) |
 | Super Mario 64: Star Revenge | 132839 | [132839-super-mario-64-star-revenge.json](./132839-super-mario-64-star-revenge.json) |
 | Super Mario 64: Star Revenge Redone | 132840 | [132840-super-mario-64-star-revenge-redone.json](./132840-super-mario-64-star-revenge-redone.json) |
