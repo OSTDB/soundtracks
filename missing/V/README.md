@@ -1743,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Invasion | 230864 | [230864-viking-invasion.json](./230864-viking-invasion.json) |
 | Viking Invasion | 67331 | [67331-viking-invasion.json](./67331-viking-invasion.json) |
 | Viking Invasion 2 - Tower Defense | 85476 | [85476-viking-invasion-2-tower-defense.json](./85476-viking-invasion-2-tower-defense.json) |
+| Viking Raider | 24666 | [24666-viking-raider.json](./24666-viking-raider.json) |
 | Viking Raiders | 415427 | [415427-viking-raiders.json](./415427-viking-raiders.json) |
 | Viking Rise | 246290 | [246290-viking-rise.json](./246290-viking-rise.json) |
 | Viking Rush: Clan Defenders' Glory Clash Chronicle | 235147 | [235147-viking-rush-clan-defenders-glory-clash-chronicle.json](./235147-viking-rush-clan-defenders-glory-clash-chronicle.json) |
