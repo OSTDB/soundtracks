@@ -2262,7 +2262,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -2649,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Quest IV: The Perils of Rosella Retold | 230506 | [230506-kings-quest-iv-the-perils-of-rosella-retold.json](./230506-kings-quest-iv-the-perils-of-rosella-retold.json) |
 | King's Quest V: Absence Makes the Heart Go Yonder! | 2238 | [2238-kings-quest-v-absence-makes-the-heart-go-yonder.json](./2238-kings-quest-v-absence-makes-the-heart-go-yonder.json) |
 | King's Quest V: Absence Makes The Heart Go Yonder! | 322088 | [322088-kings-quest-v-absence-makes-the-heart-go-yonder.json](./322088-kings-quest-v-absence-makes-the-heart-go-yonder.json) |
+| King's Quest VI: Heir Today, Gone Tomorrow | 7501 | [7501-kings-quest-vi-heir-today-gone-tomorrow.json](./7501-kings-quest-vi-heir-today-gone-tomorrow.json) |
 | King's Quest VIII: The Mask of Eternity | 7528 | [7528-kings-quest-viii-the-mask-of-eternity.json](./7528-kings-quest-viii-the-mask-of-eternity.json) |
 | King's Quest: Chapter 3 - Once Upon A Climb | 28062 | [28062-kings-quest-chapter-3-once-upon-a-climb.json](./28062-kings-quest-chapter-3-once-upon-a-climb.json) |
 | King's Quest: Chapter 4 - Snow Place Like Home | 28064 | [28064-kings-quest-chapter-4-snow-place-like-home.json](./28064-kings-quest-chapter-4-snow-place-like-home.json) |
