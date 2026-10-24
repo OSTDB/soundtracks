@@ -3346,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Yeah Simulator | 326405 | [326405-hell-yeah-simulator.json](./326405-hell-yeah-simulator.json) |
 | Hell Yeah! Pocket Inferno | 78672 | [78672-hell-yeah-pocket-inferno.json](./78672-hell-yeah-pocket-inferno.json) |
 | Hell Yeah! Virtual Rabbit: Missions | 174135 | [174135-hell-yeah-virtual-rabbit-missions.json](./174135-hell-yeah-virtual-rabbit-missions.json) |
+| Hell Yeah! Wrath of the Dead Rabbit | 5618 | [5618-hell-yeah-wrath-of-the-dead-rabbit.json](./5618-hell-yeah-wrath-of-the-dead-rabbit.json) |
 | Hell-Hell | 206182 | [206182-hell-hell.json](./206182-hell-hell.json) |
 | Hell-IX | 110238 | [110238-hell-ix.json](./110238-hell-ix.json) |
 | Hell-o | 301963 | [301963-hell-o.json](./301963-hell-o.json) |
@@ -9054,6 +9055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Snooker | 60950 | [60950-how-to-snooker.json](./60950-how-to-snooker.json) |
 | How to Sovle Rubiks Cube in 30 seconds | 103669 | [103669-how-to-sovle-rubiks-cube-in-30-seconds.json](./103669-how-to-sovle-rubiks-cube-in-30-seconds.json) |
 | How to Spend Holidays | 82989 | [82989-how-to-spend-holidays.json](./82989-how-to-spend-holidays.json) |
+| How to Survive 2 | 13210 | [13210-how-to-survive-2.json](./13210-how-to-survive-2.json) |
 | How to Survive 2: Dead Dynamite | 169929 | [169929-how-to-survive-2-dead-dynamite.json](./169929-how-to-survive-2-dead-dynamite.json) |
 | How to Survive 2: Kovac's Ultimate Edition | 53194 | [53194-how-to-survive-2-kovacs-ultimate-edition.json](./53194-how-to-survive-2-kovacs-ultimate-edition.json) |
 | How to Survive the Night shift | 295870 | [295870-how-to-survive-the-night-shift.json](./295870-how-to-survive-the-night-shift.json) |
