@@ -3024,6 +3024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Siege Online | 218696 | [218696-endless-siege-online.json](./218696-endless-siege-online.json) |
 | Endless Silent Night | 404330 | [404330-endless-silent-night.json](./404330-endless-silent-night.json) |
 | Endless Sky | 128413 | [128413-endless-sky.json](./128413-endless-sky.json) |
+| Endless Sky | 34409 | [34409-endless-sky.json](./34409-endless-sky.json) |
 | Endless Snake | 401789 | [401789-endless-snake.json](./401789-endless-snake.json) |
 | Endless Soul Light Solitaire | 169867 | [169867-endless-soul-light-solitaire.json](./169867-endless-soul-light-solitaire.json) |
 | Endless Space | 9634 | [9634-endless-space.json](./9634-endless-space.json) |
