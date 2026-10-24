@@ -1906,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Light of Hope - Special Edition: New Marriageable Characters Pack | 171415 | [171415-harvest-moon-light-of-hope-special-edition-new-marriageable-characters-pack.json](./171415-harvest-moon-light-of-hope-special-edition-new-marriageable-characters-pack.json) |
 | Harvest Moon: Magical Melody | 3386 | [3386-harvest-moon-magical-melody.json](./3386-harvest-moon-magical-melody.json) |
 | Harvest Moon: My Little Shop | 67793 | [67793-harvest-moon-my-little-shop.json](./67793-harvest-moon-my-little-shop.json) |
+| Harvest Moon: One World | 135333 | [135333-harvest-moon-one-world.json](./135333-harvest-moon-one-world.json) |
 | Harvest Moon: One World - Collector's Edition | 200691 | [200691-harvest-moon-one-world-collectors-edition.json](./200691-harvest-moon-one-world-collectors-edition.json) |
 | Harvest Moon: One World - Far East Adventure Pack | 174165 | [174165-harvest-moon-one-world-far-east-adventure-pack.json](./174165-harvest-moon-one-world-far-east-adventure-pack.json) |
 | Harvest Moon: One World - Precious Pets Pack | 174151 | [174151-harvest-moon-one-world-precious-pets-pack.json](./174151-harvest-moon-one-world-precious-pets-pack.json) |
