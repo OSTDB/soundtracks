@@ -898,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamsterball | 70100 | [70100-hamsterball.json](./70100-hamsterball.json) |
 | HamsterBall Soccer | 256116 | [256116-hamsterball-soccer.json](./256116-hamsterball-soccer.json) |
 | HamsterCraft | 391567 | [391567-hamstercraft.json](./391567-hamstercraft.json) |
+| Hamsterdam | 107219 | [107219-hamsterdam.json](./107219-hamsterdam.json) |
 | Hamsteria! | 390684 | [390684-hamsteria.json](./390684-hamsteria.json) |
 | Hamstermind | 335227 | [335227-hamstermind.json](./335227-hamstermind.json) |
 | HamsterVeRse | 153887 | [153887-hamsterverse.json](./153887-hamsterverse.json) |
@@ -4013,6 +4014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Games Collection | 305906 | [305906-hentai-games-collection.json](./305906-hentai-games-collection.json) |
 | Hentai Games Collection Vol. 3 | 362202 | [362202-hentai-games-collection-vol-3.json](./362202-hentai-games-collection-vol-3.json) |
 | Hentai GIF Puzzle | 163541 | [163541-hentai-gif-puzzle.json](./163541-hentai-gif-puzzle.json) |
+| Hentai Girl | 107887 | [107887-hentai-girl.json](./107887-hentai-girl.json) |
 | Hentai Girl Betty | 111252 | [111252-hentai-girl-betty.json](./111252-hentai-girl-betty.json) |
 | Hentai Girl Clicker | 158403 | [158403-hentai-girl-clicker.json](./158403-hentai-girl-clicker.json) |
 | Hentai Girl Division | 194201 | [194201-hentai-girl-division.json](./194201-hentai-girl-division.json) |
