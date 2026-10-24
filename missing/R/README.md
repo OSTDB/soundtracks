@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Bros | 135604 | [135604-racing-bros.json](./135604-racing-bros.json) |
 | Racing Burnout | 90419 | [90419-racing-burnout.json](./90419-racing-burnout.json) |
 | Racing Car | 346068 | [346068-racing-car.json](./346068-racing-car.json) |
+| Racing Car | 40586 | [40586-racing-car.json](./40586-racing-car.json) |
 | Racing Car Chaos: Extreme Stunt Showdown | 308503 | [308503-racing-car-chaos-extreme-stunt-showdown.json](./308503-racing-car-chaos-extreme-stunt-showdown.json) |
 | Racing Car Forge | 193840 | [193840-racing-car-forge.json](./193840-racing-car-forge.json) |
 | Racing Champions | 322413 | [322413-racing-champions.json](./322413-racing-champions.json) |
@@ -2598,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealSports Boxing | 18417 | [18417-realsports-boxing.json](./18417-realsports-boxing.json) |
 | RealSports Football | 18418 | [18418-realsports-football.json](./18418-realsports-football.json) |
 | RealSports Football | 239515 | [239515-realsports-football.json](./239515-realsports-football.json) |
+| RealSports Soccer | 40574 | [40574-realsports-soccer.json](./40574-realsports-soccer.json) |
 | RealSports Tennis | 18419 | [18419-realsports-tennis.json](./18419-realsports-tennis.json) |
 | RealSports Tennis | 239516 | [239516-realsports-tennis.json](./239516-realsports-tennis.json) |
 | RealSports Volleyball | 18420 | [18420-realsports-volleyball.json](./18420-realsports-volleyball.json) |
@@ -6624,6 +6626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Pirates | 264499 | [264499-river-pirates.json](./264499-river-pirates.json) |
 | River Raid | 5693 | [5693-river-raid.json](./5693-river-raid.json) |
 | River Raid 3D | 204070 | [204070-river-raid-3d.json](./204070-river-raid-3d.json) |
+| River Raid II | 40573 | [40573-river-raid-ii.json](./40573-river-raid-ii.json) |
 | River Relaxation VR | 110701 | [110701-river-relaxation-vr.json](./110701-river-relaxation-vr.json) |
 | River Rescue | 23897 | [23897-river-rescue.json](./23897-river-rescue.json) |
 | River Runners | 384510 | [384510-river-runners.json](./384510-river-runners.json) |
