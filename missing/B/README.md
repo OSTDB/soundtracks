@@ -756,7 +756,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3065,6 +3064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Night | 228434 | [228434-battle-night.json](./228434-battle-night.json) |
 | Battle of 2048: Fantasy Edition | 234350 | [234350-battle-of-2048-fantasy-edition.json](./234350-battle-of-2048-fantasy-edition.json) |
 | Battle of Angels | 137681 | [137681-battle-of-angels.json](./137681-battle-of-angels.json) |
+| Battle of Antietam | 26261 | [26261-battle-of-antietam.json](./26261-battle-of-antietam.json) |
 | Battle of Arachnidia | 337048 | [337048-battle-of-arachnidia.json](./337048-battle-of-arachnidia.json) |
 | Battle of Archers | 180990 | [180990-battle-of-archers.json](./180990-battle-of-archers.json) |
 | Battle of Arrow | 82146 | [82146-battle-of-arrow.json](./82146-battle-of-arrow.json) |
@@ -5116,6 +5116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben Pixel 10: Raging Fist | 193864 | [193864-ben-pixel-10-raging-fist.json](./193864-ben-pixel-10-raging-fist.json) |
 | Ben Tennyson: Ace Attorney | 308534 | [308534-ben-tennyson-ace-attorney.json](./308534-ben-tennyson-ace-attorney.json) |
 | Ben the Binder | 378303 | [378303-ben-the-binder.json](./378303-ben-the-binder.json) |
+| Ben the Exorcist | 26251 | [26251-ben-the-exorcist.json](./26251-ben-the-exorcist.json) |
 | Ben There, Dan That! | 9541 | [9541-ben-there-dan-that.json](./9541-ben-there-dan-that.json) |
 | Ben Was Assimilated | 184292 | [184292-ben-was-assimilated.json](./184292-ben-was-assimilated.json) |
 | Ben's Game | 73127 | [73127-bens-game.json](./73127-bens-game.json) |
@@ -5634,6 +5635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Doors | 380009 | [380009-beyond-the-doors.json](./380009-beyond-the-doors.json) |
 | Beyond the Evil | 161365 | [161365-beyond-the-evil.json](./161365-beyond-the-evil.json) |
 | Beyond the Eyes | 392264 | [392264-beyond-the-eyes.json](./392264-beyond-the-eyes.json) |
+| Beyond the Forbidden Forest | 26213 | [26213-beyond-the-forbidden-forest.json](./26213-beyond-the-forbidden-forest.json) |
 | Beyond the Forbidden Lands | 310657 | [310657-beyond-the-forbidden-lands.json](./310657-beyond-the-forbidden-lands.json) |
 | Beyond The Frame | 411756 | [411756-beyond-the-frame.json](./411756-beyond-the-frame.json) |
 | Beyond the Fringe | 296498 | [296498-beyond-the-fringe.json](./296498-beyond-the-fringe.json) |
@@ -7568,6 +7570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackwood Division | 373110 | [373110-blackwood-division.json](./373110-blackwood-division.json) |
 | Blackwood: Beneath the Silence | 365181 | [365181-blackwood-beneath-the-silence.json](./365181-blackwood-beneath-the-silence.json) |
 | Blackwoods | 312577 | [312577-blackwoods.json](./312577-blackwoods.json) |
+| Blackwyche | 26250 | [26250-blackwyche.json](./26250-blackwyche.json) |
 | Bladam Topaz | 149395 | [149395-bladam-topaz.json](./149395-bladam-topaz.json) |
 | Blade | 122191 | [122191-blade.json](./122191-blade.json) |
 | Blade | 14312 | [14312-blade.json](./14312-blade.json) |
