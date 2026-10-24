@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force 2025 | 5585 | [5585-earth-defense-force-2025.json](./5585-earth-defense-force-2025.json) |
 | Earth Defense Force 3 for Nintendo Switch | 172720 | [172720-earth-defense-force-3-for-nintendo-switch.json](./172720-earth-defense-force-3-for-nintendo-switch.json) |
 | Earth Defense Force 4.1 for Nintendo Switch | 218057 | [218057-earth-defense-force-4-1-for-nintendo-switch.json](./218057-earth-defense-force-4-1-for-nintendo-switch.json) |
+| Earth Defense Force 4.1: The Shadow of New Despair | 11002 | [11002-earth-defense-force-4-1-the-shadow-of-new-despair.json](./11002-earth-defense-force-4-1-the-shadow-of-new-despair.json) |
 | Earth Defense Force 4.1: Wing Diver the Shooter | 57020 | [57020-earth-defense-force-4-1-wing-diver-the-shooter.json](./57020-earth-defense-force-4-1-wing-diver-the-shooter.json) |
 | Earth Defense Force 4.1: Wing Diver the Shooter - Training Mode | 168224 | [168224-earth-defense-force-4-1-wing-diver-the-shooter-training-mode.json](./168224-earth-defense-force-4-1-wing-diver-the-shooter-training-mode.json) |
 | Earth Defense Force 5 | 27283 | [27283-earth-defense-force-5.json](./27283-earth-defense-force-5.json) |
@@ -5375,6 +5376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ever War | 349995 | [349995-ever-war.json](./349995-ever-war.json) |
 | Ever17 | 221220 | [221220-ever17.json](./221220-ever17.json) |
 | Ever17: CrossOver Impression | 231449 | [231449-ever17-crossover-impression.json](./231449-ever17-crossover-impression.json) |
+| Ever17: The Out of Infinity | 18037 | [18037-ever17-the-out-of-infinity.json](./18037-ever17-the-out-of-infinity.json) |
 | Everafter Falls | 158629 | [158629-everafter-falls.json](./158629-everafter-falls.json) |
 | Everbark | 397202 | [397202-everbark.json](./397202-everbark.json) |
 | Everbee | 270130 | [270130-everbee.json](./270130-everbee.json) |
