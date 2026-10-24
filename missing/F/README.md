@@ -9031,6 +9031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrankenSketch | 413808 | [413808-frankensketch.json](./413808-frankensketch.json) |
 | Frankenstein | 37191 | [37191-frankenstein.json](./37191-frankenstein.json) |
 | Frankenstein 2000 | 57169 | [57169-frankenstein-2000.json](./57169-frankenstein-2000.json) |
+| Frankenstein Jnr. | 13441 | [13441-frankenstein-jnr.json](./13441-frankenstein-jnr.json) |
 | Frankenstein: Beyond the Time | 103752 | [103752-frankenstein-beyond-the-time.json](./103752-frankenstein-beyond-the-time.json) |
 | Frankenstein: Birth of a Myth | 109569 | [109569-frankenstein-birth-of-a-myth.json](./109569-frankenstein-birth-of-a-myth.json) |
 | Frankenstein: Room Escape | 313761 | [313761-frankenstein-room-escape.json](./313761-frankenstein-room-escape.json) |
