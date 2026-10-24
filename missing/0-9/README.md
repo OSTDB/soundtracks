@@ -1060,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1914: Prelude to Chaos | 28642 | [28642-1914-prelude-to-chaos.json](./28642-1914-prelude-to-chaos.json) |
 | 1916: Der Unbekannte Krieg | 92397 | [92397-1916-der-unbekannte-krieg.json](./92397-1916-der-unbekannte-krieg.json) |
 | 1917: The Alien Invasion | 19749 | [19749-1917-the-alien-invasion.json](./19749-1917-the-alien-invasion.json) |
+| 1917: The Alien Invasion DX | 32692 | [32692-1917-the-alien-invasion-dx.json](./32692-1917-the-alien-invasion-dx.json) |
 | 1917: The Alien Invasion DX Remastered | 332592 | [332592-1917-the-alien-invasion-dx-remastered.json](./332592-1917-the-alien-invasion-dx-remastered.json) |
 | 1919 | 189015 | [189015-1919.json](./189015-1919.json) |
 | 1930 Langman Tan | 187087 | [187087-1930-langman-tan.json](./187087-1930-langman-tan.json) |
@@ -2574,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7th Deep | 88084 | [88084-7th-deep.json](./88084-7th-deep.json) |
 | 7th Domain | 253471 | [253471-7th-domain.json](./253471-7th-domain.json) |
 | 7th Domain: Tree of Chaos | 308917 | [308917-7th-domain-tree-of-chaos.json](./308917-7th-domain-tree-of-chaos.json) |
+| 7th Dragon | 11817 | [11817-7th-dragon.json](./11817-7th-dragon.json) |
 | 7th Dragon 2020-II | 11826 | [11826-7th-dragon-2020-ii.json](./11826-7th-dragon-2020-ii.json) |
 | 7th Dragon III Code: VFD | 11828 | [11828-7th-dragon-iii-code-vfd.json](./11828-7th-dragon-iii-code-vfd.json) |
 | 7th Sea: A Pirate's Pact | 113865 | [113865-7th-sea-a-pirates-pact.json](./113865-7th-sea-a-pirates-pact.json) |
@@ -2781,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 911 Tiger Shark | 71962 | [71962-911-tiger-shark.json](./71962-911-tiger-shark.json) |
 | 911 TS | 93487 | [93487-911-ts.json](./93487-911-ts.json) |
 | 911: Cannibal | 245837 | [245837-911-cannibal.json](./245837-911-cannibal.json) |
+| 911: First Responders | 11436 | [11436-911-first-responders.json](./11436-911-first-responders.json) |
 | 93, Kuindzhi | 402479 | [402479-93-kuindzhi.json](./402479-93-kuindzhi.json) |
 | 94 Degrees: fun trivia quiz | 27787 | [27787-94-degrees-fun-trivia-quiz.json](./27787-94-degrees-fun-trivia-quiz.json) |
 | 94 Seconds: category word game | 27788 | [27788-94-seconds-category-word-game.json](./27788-94-seconds-category-word-game.json) |
