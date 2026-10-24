@@ -7790,6 +7790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Racers Elite | 146787 | [146787-classic-racers-elite.json](./146787-classic-racers-elite.json) |
 | Classic Racing Pack: Moto Roader MC + Rider's Spirits | 317238 | [317238-classic-racing-pack-moto-roader-mc-riders-spirits.json](./317238-classic-racing-pack-moto-roader-mc-riders-spirits.json) |
 | Classic Road | 38150 | [38150-classic-road.json](./38150-classic-road.json) |
+| Classic Road II | 36734 | [36734-classic-road-ii.json](./36734-classic-road-ii.json) |
 | Classic Snake | 86701 | [86701-classic-snake.json](./86701-classic-snake.json) |
 | Classic Snake Adventures | 130395 | [130395-classic-snake-adventures.json](./130395-classic-snake-adventures.json) |
 | Classic snake final | 88791 | [88791-classic-snake-final.json](./88791-classic-snake-final.json) |
@@ -10715,6 +10716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ConnecTrade | 290303 | [290303-connectrade.json](./290303-connectrade.json) |
 | Connectris | 79232 | [79232-connectris.json](./79232-connectris.json) |
 | Connectrode | 232347 | [232347-connectrode.json](./232347-connectrode.json) |
+| Conner | 36786 | [36786-conner.json](./36786-conner.json) |
 | Connex | 94516 | [94516-connex.json](./94516-connex.json) |
 | Connie and the Essence of Chaos | 301325 | [301325-connie-and-the-essence-of-chaos.json](./301325-connie-and-the-essence-of-chaos.json) |
 | Connie Talbot: Over the Rainbow | 68099 | [68099-connie-talbot-over-the-rainbow.json](./68099-connie-talbot-over-the-rainbow.json) |
