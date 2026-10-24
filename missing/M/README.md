@@ -3723,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Heroes | 220262 | [220262-marvel-heroes.json](./220262-marvel-heroes.json) |
 | Marvel Heroes | 363910 | [363910-marvel-heroes.json](./363910-marvel-heroes.json) |
 | Marvel Heroes | 50867 | [50867-marvel-heroes.json](./50867-marvel-heroes.json) |
+| Marvel Heroes Omega | 28080 | [28080-marvel-heroes-omega.json](./28080-marvel-heroes-omega.json) |
 | Marvel Heroes: 001 - Character: Spider-Man | 363438 | [363438-marvel-heroes-001-character-spider-man.json](./363438-marvel-heroes-001-character-spider-man.json) |
 | Marvel Heroes: 002 - Character: Captain America | 363439 | [363439-marvel-heroes-002-character-captain-america.json](./363439-marvel-heroes-002-character-captain-america.json) |
 | Marvel Heroes: 003 - Character: Hulk | 363440 | [363440-marvel-heroes-003-character-hulk.json](./363440-marvel-heroes-003-character-hulk.json) |
@@ -7881,6 +7882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid: Peace Walker - HD Edition | 45178 | [45178-metal-gear-solid-peace-walker-hd-edition.json](./45178-metal-gear-solid-peace-walker-hd-edition.json) |
 | Metal Gear Solid: Peace Walker - Master Collection Version | 391792 | [391792-metal-gear-solid-peace-walker-master-collection-version.json](./391792-metal-gear-solid-peace-walker-master-collection-version.json) |
 | Metal Gear Solid: Portable Ops | 381 | [381-metal-gear-solid-portable-ops.json](./381-metal-gear-solid-portable-ops.json) |
+| Metal Gear Solid: Portable Ops Plus | 21617 | [21617-metal-gear-solid-portable-ops-plus.json](./21617-metal-gear-solid-portable-ops-plus.json) |
 | Metal Gear Solid: Portable Ops Plus - Deluxe Pack | 294698 | [294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json](./294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json) |
 | Metal Gear Solid: Snake Eater 3D | 21073 | [21073-metal-gear-solid-snake-eater-3d.json](./21073-metal-gear-solid-snake-eater-3d.json) |
 | Metal Gear Solid: The Legacy Collection | 20196 | [20196-metal-gear-solid-the-legacy-collection.json](./20196-metal-gear-solid-the-legacy-collection.json) |
@@ -8537,6 +8539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Machines V3 | 24413 | [24413-micro-machines-v3.json](./24413-micro-machines-v3.json) |
 | Micro Machines V3 | 249154 | [249154-micro-machines-v3.json](./249154-micro-machines-v3.json) |
 | Micro Machines V4 | 8512 | [8512-micro-machines-v4.json](./8512-micro-machines-v4.json) |
+| Micro Machines World Series | 26853 | [26853-micro-machines-world-series.json](./26853-micro-machines-world-series.json) |
 | Micro Machines: Mini Challenge Mayhem | 253193 | [253193-micro-machines-mini-challenge-mayhem.json](./253193-micro-machines-mini-challenge-mayhem.json) |
 | Micro Macro Farm | 276266 | [276266-micro-macro-farm.json](./276266-micro-macro-farm.json) |
 | Micro Madness | 252819 | [252819-micro-madness.json](./252819-micro-madness.json) |
@@ -15316,6 +15319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muku wo Saku | 308877 | [308877-muku-wo-saku.json](./308877-muku-wo-saku.json) |
 | Mul-Ty-Player | 315191 | [315191-mul-ty-player.json](./315191-mul-ty-player.json) |
 | Mul.Mash.Tab.Ba.Gal.Gal | 239498 | [239498-mul-mash-tab-ba-gal-gal.json](./239498-mul-mash-tab-ba-gal-gal.json) |
+| Mulaka | 28692 | [28692-mulaka.json](./28692-mulaka.json) |
 | Mulan | 203659 | [203659-mulan.json](./203659-mulan.json) |
 | Mulan 2125 | 372883 | [372883-mulan-2125.json](./372883-mulan-2125.json) |
 | Muldulamulom | 129502 | [129502-muldulamulom.json](./129502-muldulamulom.json) |
