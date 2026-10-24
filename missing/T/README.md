@@ -1504,6 +1504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanima | 204188 | [204188-tanima.json](./204188-tanima.json) |
 | Tanimura Hitoshi no Don Quixote ga Iku | 282672 | [282672-tanimura-hitoshi-no-don-quixote-ga-iku.json](./282672-tanimura-hitoshi-no-don-quixote-ga-iku.json) |
 | TaniNani | 127185 | [127185-taninani.json](./127185-taninani.json) |
+| Tanita: Plasticine Dream | 35204 | [35204-tanita-plasticine-dream.json](./35204-tanita-plasticine-dream.json) |
 | Tanium | 142767 | [142767-tanium.json](./142767-tanium.json) |
 | Tanjas Sudoku | 101508 | [101508-tanjas-sudoku.json](./101508-tanjas-sudoku.json) |
 | Tanjou Debut | 41997 | [41997-tanjou-debut.json](./41997-tanjou-debut.json) |
@@ -20294,6 +20295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomoyo After: It's a Wonderful Life - Memorial Edition | 33000 | [33000-tomoyo-after-its-a-wonderful-life-memorial-edition.json](./33000-tomoyo-after-its-a-wonderful-life-memorial-edition.json) |
 | Tomoyo Venture Episode 1 | 98033 | [98033-tomoyo-venture-episode-1.json](./98033-tomoyo-venture-episode-1.json) |
 | Tomoyo Venture Episode 2 | 98034 | [98034-tomoyo-venture-episode-2.json](./98034-tomoyo-venture-episode-2.json) |
+| Tompi Jones | 35236 | [35236-tompi-jones.json](./35236-tompi-jones.json) |
 | Tomscape | 129570 | [129570-tomscape.json](./129570-tomscape.json) |
 | Tomte Trouble | 333661 | [333661-tomte-trouble.json](./333661-tomte-trouble.json) |
 | TomTom Adventures | 82851 | [82851-tomtom-adventures.json](./82851-tomtom-adventures.json) |
@@ -24477,6 +24479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treehouse Trouble | 181133 | [181133-treehouse-trouble.json](./181133-treehouse-trouble.json) |
 | Treehouse Truants | 69333 | [69333-treehouse-truants.json](./69333-treehouse-truants.json) |
 | Treekeepers | 219535 | [219535-treekeepers.json](./219535-treekeepers.json) |
+| Treeker: The Lost Glasses | 35269 | [35269-treeker-the-lost-glasses.json](./35269-treeker-the-lost-glasses.json) |
 | Treelogy | 176173 | [176173-treelogy.json](./176173-treelogy.json) |
 | Treepury | 303802 | [303802-treepury.json](./303802-treepury.json) |
 | Trees Adventure | 398044 | [398044-trees-adventure.json](./398044-trees-adventure.json) |
@@ -25255,6 +25258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 4: Quick-Dry-Cement | 53844 | [53844-tropico-4-quick-dry-cement.json](./53844-tropico-4-quick-dry-cement.json) |
 | Tropico 4: The Academy | 25527 | [25527-tropico-4-the-academy.json](./25527-tropico-4-the-academy.json) |
 | Tropico 4: Vigilante | 53843 | [53843-tropico-4-vigilante.json](./53843-tropico-4-vigilante.json) |
+| Tropico 5: Complete Collection | 35253 | [35253-tropico-5-complete-collection.json](./35253-tropico-5-complete-collection.json) |
 | Tropico 5: DLC Bundle | 227319 | [227319-tropico-5-dlc-bundle.json](./227319-tropico-5-dlc-bundle.json) |
 | Tropico 5: Epic Meltdown | 75687 | [75687-tropico-5-epic-meltdown.json](./75687-tropico-5-epic-meltdown.json) |
 | Tropico 5: Espionage | 53842 | [53842-tropico-5-espionage.json](./53842-tropico-5-espionage.json) |
@@ -26795,6 +26799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Slices of Love | 254986 | [254986-two-slices-of-love.json](./254986-two-slices-of-love.json) |
 | Two Smudges In Infrared | 178921 | [178921-two-smudges-in-infrared.json](./178921-two-smudges-in-infrared.json) |
 | Two Spies | 141043 | [141043-two-spies.json](./141043-two-spies.json) |
+| Two Steps Back | 35231 | [35231-two-steps-back.json](./35231-two-steps-back.json) |
 | Two Strikes | 149693 | [149693-two-strikes.json](./149693-two-strikes.json) |
 | Two Strikes: Baki Hanma | 372085 | [372085-two-strikes-baki-hanma.json](./372085-two-strikes-baki-hanma.json) |
 | Two Tamarind Seeds | 179106 | [179106-two-tamarind-seeds.json](./179106-two-tamarind-seeds.json) |
