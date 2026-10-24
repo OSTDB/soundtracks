@@ -7204,6 +7204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities XXL | 10094 | [10094-cities-xxl.json](./10094-cities-xxl.json) |
 | Cities: Skylines - 90s Pop Radio | 257082 | [257082-cities-skylines-90s-pop-radio.json](./257082-cities-skylines-90s-pop-radio.json) |
 | Cities: Skylines - African Vibes | 227401 | [227401-cities-skylines-african-vibes.json](./227401-cities-skylines-african-vibes.json) |
+| Cities: Skylines - After Dark | 16604 | [16604-cities-skylines-after-dark.json](./16604-cities-skylines-after-dark.json) |
 | Cities: Skylines - Airports | 227412 | [227412-cities-skylines-airports.json](./227412-cities-skylines-airports.json) |
 | Cities: Skylines - Coast to Coast Radio | 149996 | [149996-cities-skylines-coast-to-coast-radio.json](./149996-cities-skylines-coast-to-coast-radio.json) |
 | Cities: Skylines - Content Creator Pack | 241073 | [241073-cities-skylines-content-creator-pack.json](./241073-cities-skylines-content-creator-pack.json) |
@@ -16607,6 +16608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyclothymic | 202244 | [202244-cyclothymic.json](./202244-cyclothymic.json) |
 | Cyco | 204958 | [204958-cyco.json](./204958-cyco.json) |
 | Cydonia | 256838 | [256838-cydonia.json](./256838-cydonia.json) |
+| Cygni: All Guns Blazing | 133904 | [133904-cygni-all-guns-blazing.json](./133904-cygni-all-guns-blazing.json) |
 | Cygnus Enterprises | 228913 | [228913-cygnus-enterprises.json](./228913-cygnus-enterprises.json) |
 | Cygnus IV | 263597 | [263597-cygnus-iv.json](./263597-cygnus-iv.json) |
 | Cygnus Leapt | 381395 | [381395-cygnus-leapt.json](./381395-cygnus-leapt.json) |
