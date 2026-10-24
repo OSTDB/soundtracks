@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails of Glimmervale | 289867 | [289867-tails-of-glimmervale.json](./289867-tails-of-glimmervale.json) |
 | Tails of Iron | 116422 | [116422-tails-of-iron.json](./116422-tails-of-iron.json) |
 | Tails of Iron II: Blood and Brine | 414781 | [414781-tails-of-iron-ii-blood-and-brine.json](./414781-tails-of-iron-ii-blood-and-brine.json) |
+| Tails of Iron II: Whiskers of Winter | 292877 | [292877-tails-of-iron-ii-whiskers-of-winter.json](./292877-tails-of-iron-ii-whiskers-of-winter.json) |
 | Tails of Iron II: Whiskers of Winter - Augur of the Draugr Armour Pack | 371224 | [371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json](./371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json) |
 | Tails of Iron II: Whiskers of Winter - Hair to the Throne Pack | 371223 | [371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json](./371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json) |
 | Tails of Iron: Crimson Knight Edition | 159209 | [159209-tails-of-iron-crimson-knight-edition.json](./159209-tails-of-iron-crimson-knight-edition.json) |
@@ -9689,6 +9690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Camp 1990 | 289997 | [289997-the-last-camp-1990.json](./289997-the-last-camp-1990.json) |
 | The Last Campfire | 113115 | [113115-the-last-campfire.json](./113115-the-last-campfire.json) |
 | The Last Caretaker | 333443 | [333443-the-last-caretaker.json](./333443-the-last-caretaker.json) |
+| The Last Case of Benedict Fox: Definitive Edition | 292897 | [292897-the-last-case-of-benedict-fox-definitive-edition.json](./292897-the-last-case-of-benedict-fox-definitive-edition.json) |
 | The Last Case of John Morley | 366598 | [366598-the-last-case-of-john-morley.json](./366598-the-last-case-of-john-morley.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
 | The Last Cell | 181020 | [181020-the-last-cell.json](./181020-the-last-cell.json) |
@@ -11531,7 +11533,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -13467,6 +13468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: University Life | 3158 | [3158-the-sims-3-university-life.json](./3158-the-sims-3-university-life.json) |
 | The Sims 4 Halloween Bundle | 272558 | [272558-the-sims-4-halloween-bundle.json](./272558-the-sims-4-halloween-bundle.json) |
 | The Sims 4 Love & Family Bundle | 366930 | [366930-the-sims-4-love-and-family-bundle.json](./366930-the-sims-4-love-and-family-bundle.json) |
+| The Sims 4: Adventure Awaits | 365588 | [365588-the-sims-4-adventure-awaits.json](./365588-the-sims-4-adventure-awaits.json) |
 | The Sims 4: Artist Studio Kit | 317646 | [317646-the-sims-4-artist-studio-kit.json](./317646-the-sims-4-artist-studio-kit.json) |
 | The Sims 4: Autumn Apparel Kit | 375441 | [375441-the-sims-4-autumn-apparel-kit.json](./375441-the-sims-4-autumn-apparel-kit.json) |
 | The Sims 4: Back to School Bundle | 159331 | [159331-the-sims-4-back-to-school-bundle.json](./159331-the-sims-4-back-to-school-bundle.json) |
@@ -13746,6 +13748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Flower Defense | 352946 | [352946-the-smurfs-flower-defense.json](./352946-the-smurfs-flower-defense.json) |
 | The Smurfs: Learn and Play | 275887 | [275887-the-smurfs-learn-and-play.json](./275887-the-smurfs-learn-and-play.json) |
 | The Smurfs: Learn and Play - Deluxe Edition | 328798 | [328798-the-smurfs-learn-and-play-deluxe-edition.json](./328798-the-smurfs-learn-and-play-deluxe-edition.json) |
+| The Smurfs: Village Party | 292150 | [292150-the-smurfs-village-party.json](./292150-the-smurfs-village-party.json) |
 | The Smurfs' Village and the Magical Meadow | 109158 | [109158-the-smurfs-village-and-the-magical-meadow.json](./109158-the-smurfs-village-and-the-magical-meadow.json) |
 | The Snack World: TreJarers | 26501 | [26501-the-snack-world-trejarers.json](./26501-the-snack-world-trejarers.json) |
 | The Snake Kingdom of Gennibar-Six | 337649 | [337649-the-snake-kingdom-of-gennibar-six.json](./337649-the-snake-kingdom-of-gennibar-six.json) |
@@ -20521,6 +20524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Towers | 99610 | [99610-tomb-towers.json](./99610-tomb-towers.json) |
 | Tomba! | 4097 | [4097-tomba.json](./4097-tomba.json) |
 | Tomba! 2: The Evil Swine Return | 4100 | [4100-tomba-2-the-evil-swine-return.json](./4100-tomba-2-the-evil-swine-return.json) |
+| Tomba! 2: The Evil Swine Return Special Edition | 377890 | [377890-tomba-2-the-evil-swine-return-special-edition.json](./377890-tomba-2-the-evil-swine-return-special-edition.json) |
 | Tomba! Special Edition: Whoopee Edition | 342885 | [342885-tomba-special-edition-whoopee-edition.json](./342885-tomba-special-edition-whoopee-edition.json) |
 | Tombbound | 382594 | [382594-tombbound.json](./382594-tombbound.json) |
 | Tombeaux | 111426 | [111426-tombeaux.json](./111426-tombeaux.json) |
@@ -27156,6 +27160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Point Hospital: Culture Shock | 140283 | [140283-two-point-hospital-culture-shock.json](./140283-two-point-hospital-culture-shock.json) |
 | Two Point Hospital: Exhibition Items Pack | 223541 | [223541-two-point-hospital-exhibition-items-pack.json](./223541-two-point-hospital-exhibition-items-pack.json) |
 | Two Point Hospital: Fancy Dress Pack | 223545 | [223545-two-point-hospital-fancy-dress-pack.json](./223545-two-point-hospital-fancy-dress-pack.json) |
+| Two Point Hospital: Full Health Collection | 370588 | [370588-two-point-hospital-full-health-collection.json](./370588-two-point-hospital-full-health-collection.json) |
 | Two Point Hospital: Jumbo Edition | 142815 | [142815-two-point-hospital-jumbo-edition.json](./142815-two-point-hospital-jumbo-edition.json) |
 | Two Point Hospital: Off the Grid | 131842 | [131842-two-point-hospital-off-the-grid.json](./131842-two-point-hospital-off-the-grid.json) |
 | Two Point Hospital: Pebberley Island | 116007 | [116007-two-point-hospital-pebberley-island.json](./116007-two-point-hospital-pebberley-island.json) |
