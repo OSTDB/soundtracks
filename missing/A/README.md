@@ -2289,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action 69 | 118200 | [118200-action-69.json](./118200-action-69.json) |
 | Action Adventure | 341831 | [341831-action-adventure.json](./341831-action-adventure.json) |
 | Action Adventure Bundle | 125128 | [125128-action-adventure-bundle.json](./125128-action-adventure-bundle.json) |
+| Action Alien | 34934 | [34934-action-alien.json](./34934-action-alien.json) |
 | Action Alien : Prelude | 81907 | [81907-action-alien-prelude.json](./81907-action-alien-prelude.json) |
 | Action Arcade Wrestling | 62516 | [62516-action-arcade-wrestling.json](./62516-action-arcade-wrestling.json) |
 | Action Arcade Wrestling 2 | 62515 | [62515-action-arcade-wrestling-2.json](./62515-action-arcade-wrestling-2.json) |
@@ -13939,6 +13940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Hex: Pattern Puzzles | 117616 | [117616-aurora-hex-pattern-puzzles.json](./117616-aurora-hex-pattern-puzzles.json) |
 | Aurora Light Pony: Ponies and Horses in the Valley of Stars | 336408 | [336408-aurora-light-pony-ponies-and-horses-in-the-valley-of-stars.json](./336408-aurora-light-pony-ponies-and-horses-in-the-valley-of-stars.json) |
 | Aurora Memoria: Philosophical Data Session 2093 | 75146 | [75146-aurora-memoria-philosophical-data-session-2093.json](./75146-aurora-memoria-philosophical-data-session-2093.json) |
+| Aurora Nights | 32720 | [32720-aurora-nights.json](./32720-aurora-nights.json) |
 | Aurora Nova | 269044 | [269044-aurora-nova.json](./269044-aurora-nova.json) |
 | Aurora Polaris | 341690 | [341690-aurora-polaris.json](./341690-aurora-polaris.json) |
 | Aurora Quest: Otaku no Seiza in Another World | 69765 | [69765-aurora-quest-otaku-no-seiza-in-another-world.json](./69765-aurora-quest-otaku-no-seiza-in-another-world.json) |
