@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Blazers | 39579 | [39579-karate-blazers.json](./39579-karate-blazers.json) |
 | Karate Bros | 336067 | [336067-karate-bros.json](./336067-karate-bros.json) |
 | Karate Challenge | 421220 | [421220-karate-challenge.json](./421220-karate-challenge.json) |
+| Karate Champ | 25835 | [25835-karate-champ.json](./25835-karate-champ.json) |
 | Karate Champ | 285600 | [285600-karate-champ.json](./285600-karate-champ.json) |
 | Karate Champ XL | 174539 | [174539-karate-champ-xl.json](./174539-karate-champ-xl.json) |
 | Karate Combat | 13732 | [13732-karate-combat.json](./13732-karate-combat.json) |
@@ -1358,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keltika | 259606 | [259606-keltika.json](./259606-keltika.json) |
 | Keltis HD | 223603 | [223603-keltis-hd.json](./223603-keltis-hd.json) |
 | Kelvin and The Chateau | 162432 | [162432-kelvin-and-the-chateau.json](./162432-kelvin-and-the-chateau.json) |
+| Kelvin and the Infamous Machine | 21631 | [21631-kelvin-and-the-infamous-machine.json](./21631-kelvin-and-the-infamous-machine.json) |
 | Kem Alpha 1 | 267830 | [267830-kem-alpha-1.json](./267830-kem-alpha-1.json) |
 | Kemco RPG Omnibus | 130304 | [130304-kemco-rpg-omnibus.json](./130304-kemco-rpg-omnibus.json) |
 | Kemco RPG Selection Vol. 3 | 130312 | [130312-kemco-rpg-selection-vol-3.json](./130312-kemco-rpg-selection-vol-3.json) |
@@ -2265,7 +2267,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -3192,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss Trilogy: Premium Edition | 136826 | [136826-kiss-trilogy-premium-edition.json](./136826-kiss-trilogy-premium-edition.json) |
 | KISS U | 194891 | [194891-kiss-u.json](./194891-kiss-u.json) |
 | Kiss Yori... | 73766 | [73766-kiss-yori.json](./73766-kiss-yori.json) |
+| Kiss: Psycho Circus - The Nightmare Child | 9096 | [9096-kiss-psycho-circus-the-nightmare-child.json](./9096-kiss-psycho-circus-the-nightmare-child.json) |
 | Kiss/Off | 189994 | [189994-kiss-off.json](./189994-kiss-off.json) |
 | Kissa | 181891 | [181891-kissa.json](./181891-kissa.json) |
 | Kissed by a Star | 349981 | [349981-kissed-by-a-star.json](./349981-kissed-by-a-star.json) |
@@ -3473,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klinok Doblesti 2 | 71791 | [71791-klinok-doblesti-2.json](./71791-klinok-doblesti-2.json) |
 | Klitorax | 221173 | [221173-klitorax.json](./221173-klitorax.json) |
 | Kloa: Child of the Forest | 209916 | [209916-kloa-child-of-the-forest.json](./209916-kloa-child-of-the-forest.json) |
+| Klocki | 20472 | [20472-klocki.json](./20472-klocki.json) |
 | Kloinks! | 335051 | [335051-kloinks.json](./335051-kloinks.json) |
 | Klomanager: Regurgitated | 195974 | [195974-klomanager-regurgitated.json](./195974-klomanager-regurgitated.json) |
 | Klondike | 14503 | [14503-klondike.json](./14503-klondike.json) |
@@ -4870,6 +4873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Panda World | 357266 | [357266-kung-fu-panda-world.json](./357266-kung-fu-panda-world.json) |
 | Kung Fu Panda: Legendary Warriors | 259266 | [259266-kung-fu-panda-legendary-warriors.json](./259266-kung-fu-panda-legendary-warriors.json) |
 | Kung Fu Panda: Path of the Panda | 70689 | [70689-kung-fu-panda-path-of-the-panda.json](./70689-kung-fu-panda-path-of-the-panda.json) |
+| Kung Fu Panda: Showdown of Legendary Legends | 20089 | [20089-kung-fu-panda-showdown-of-legendary-legends.json](./20089-kung-fu-panda-showdown-of-legendary-legends.json) |
 | Kung Fu Panda: Showdown of Legendary Legends - Armored Mr. Ping and Jombie Oogway | 170753 | [170753-kung-fu-panda-showdown-of-legendary-legends-armored-mr-ping-and-jombie-oogway.json](./170753-kung-fu-panda-showdown-of-legendary-legends-armored-mr-ping-and-jombie-oogway.json) |
 | Kung Fu Panda: Showdown of Legendary Legends - Bao and Panda Vista | 170752 | [170752-kung-fu-panda-showdown-of-legendary-legends-bao-and-panda-vista.json](./170752-kung-fu-panda-showdown-of-legendary-legends-bao-and-panda-vista.json) |
 | Kung Fu Panda: Showdown of Legendary Legends - Jombie Porcupine and Jombie Master Croc | 170755 | [170755-kung-fu-panda-showdown-of-legendary-legends-jombie-porcupine-and-jombie-master-croc.json](./170755-kung-fu-panda-showdown-of-legendary-legends-jombie-porcupine-and-jombie-master-croc.json) |
