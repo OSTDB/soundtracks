@@ -2287,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | onEscapee | 93044 | [93044-onescapee.json](./93044-onescapee.json) |
 | OneScreen Solar Sails | 37399 | [37399-onescreen-solar-sails.json](./37399-onescreen-solar-sails.json) |
 | OneScreen Wagons | 74475 | [74475-onescreen-wagons.json](./74475-onescreen-wagons.json) |
+| OneShot | 23181 | [23181-oneshot.json](./23181-oneshot.json) |
 | OneShot Challenge | 392416 | [392416-oneshot-challenge.json](./392416-oneshot-challenge.json) |
 | Oneshot Voca | 92400 | [92400-oneshot-voca.json](./92400-oneshot-voca.json) |
 | OneShot: Fading Memory | 166079 | [166079-oneshot-fading-memory.json](./166079-oneshot-fading-memory.json) |
@@ -3488,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oruna | 139420 | [139420-oruna.json](./139420-oruna.json) |
 | Orwell: Deluxe Edition | 51859 | [51859-orwell-deluxe-edition.json](./51859-orwell-deluxe-edition.json) |
 | Orwell: Ignorance Is Strength - Deluxe Edition | 227187 | [227187-orwell-ignorance-is-strength-deluxe-edition.json](./227187-orwell-ignorance-is-strength-deluxe-edition.json) |
+| Orwell: Keeping an Eye on You | 22704 | [22704-orwell-keeping-an-eye-on-you.json](./22704-orwell-keeping-an-eye-on-you.json) |
 | Oryks | 311159 | [311159-oryks.json](./311159-oryks.json) |
 | Orzmic | 174689 | [174689-orzmic.json](./174689-orzmic.json) |
 | Os Cavaleiros do Zodíaco: A Guerra Galáctica | 278870 | [278870-os-cavaleiros-do-zodiaco-a-guerra-galactica.json](./278870-os-cavaleiros-do-zodiaco-a-guerra-galactica.json) |
@@ -4716,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owl's Nest | 392736 | [392736-owls-nest.json](./392736-owls-nest.json) |
 | Owlbears | 387518 | [387518-owlbears.json](./387518-owlbears.json) |
 | OwlBox: Fantasy Gaming System | 359861 | [359861-owlbox-fantasy-gaming-system.json](./359861-owlbox-fantasy-gaming-system.json) |
+| Owlboy | 12597 | [12597-owlboy.json](./12597-owlboy.json) |
 | Owlboy: Collector's Edition | 51858 | [51858-owlboy-collectors-edition.json](./51858-owlboy-collectors-edition.json) |
 | Owlboy: Limited Edition | 68672 | [68672-owlboy-limited-edition.json](./68672-owlboy-limited-edition.json) |
 | Owlen and the Spirits of the Past | 385084 | [385084-owlen-and-the-spirits-of-the-past.json](./385084-owlen-and-the-spirits-of-the-past.json) |
@@ -4752,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxygen | 177802 | [177802-oxygen.json](./177802-oxygen.json) |
 | Oxygen Caliber | 238544 | [238544-oxygen-caliber.json](./238544-oxygen-caliber.json) |
 | Oxygen Cocktail | 249275 | [249275-oxygen-cocktail.json](./249275-oxygen-cocktail.json) |
+| Oxygen Not Included | 19542 | [19542-oxygen-not-included.json](./19542-oxygen-not-included.json) |
 | Oxygen Not Included: The Frosty Planet Pack | 310683 | [310683-oxygen-not-included-the-frosty-planet-pack.json](./310683-oxygen-not-included-the-frosty-planet-pack.json) |
 | Oxyjet | 112811 | [112811-oxyjet.json](./112811-oxyjet.json) |
 | Oxytone | 267287 | [267287-oxytone.json](./267287-oxytone.json) |
