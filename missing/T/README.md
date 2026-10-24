@@ -4023,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 91204 | [91204-tetris.json](./91204-tetris.json) |
 | Tetris 2 | 254511 | [254511-tetris-2.json](./254511-tetris-2.json) |
 | Tetris 2 | 254512 | [254512-tetris-2.json](./254512-tetris-2.json) |
+| Tetris 2 | 9083 | [9083-tetris-2.json](./9083-tetris-2.json) |
 | Tetris 2 + BomBliss | 78699 | [78699-tetris-2-bombliss.json](./78699-tetris-2-bombliss.json) |
 | Tetris 4000 | 92874 | [92874-tetris-4000.json](./92874-tetris-4000.json) |
 | Tetris 4D | 70207 | [70207-tetris-4d.json](./70207-tetris-4d.json) |
@@ -6701,6 +6702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Desperate Flight of Hand Solo | 293923 | [293923-the-desperate-flight-of-hand-solo.json](./293923-the-desperate-flight-of-hand-solo.json) |
 | The Destiny Star of Girlfriend: Episode of Fujiko | 305322 | [305322-the-destiny-star-of-girlfriend-episode-of-fujiko.json](./305322-the-destiny-star-of-girlfriend-episode-of-fujiko.json) |
 | The Destroyer from Jail | 378377 | [378377-the-destroyer-from-jail.json](./378377-the-destroyer-from-jail.json) |
+| The Detail | 9080 | [9080-the-detail.json](./9080-the-detail.json) |
 | The Detail: Episode 2 - From the Ashes | 171455 | [171455-the-detail-episode-2-from-the-ashes.json](./171455-the-detail-episode-2-from-the-ashes.json) |
 | The Detail: Episode 3 - Devil in the Detail | 171613 | [171613-the-detail-episode-3-devil-in-the-detail.json](./171613-the-detail-episode-3-devil-in-the-detail.json) |
 | The Detective | 275700 | [275700-the-detective.json](./275700-the-detective.json) |
@@ -11456,6 +11458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -13838,6 +13841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Static | 253832 | [253832-the-static.json](./253832-the-static.json) |
 | The Static | 408196 | [408196-the-static.json](./408196-the-static.json) |
 | The Static Speaks My Name | 11765 | [11765-the-static-speaks-my-name.json](./11765-the-static-speaks-my-name.json) |
+| The Station | 30264 | [30264-the-station.json](./30264-the-station.json) |
 | The Station | 337572 | [337572-the-station.json](./337572-the-station.json) |
 | The Station VR | 112687 | [112687-the-station-vr.json](./112687-the-station-vr.json) |
 | The Station: Escape Room | 151011 | [151011-the-station-escape-room.json](./151011-the-station-escape-room.json) |
@@ -19147,6 +19151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tots | 360719 | [360719-tiny-tots.json](./360719-tiny-tots.json) |
 | Tiny Touchdown | 241058 | [241058-tiny-touchdown.json](./241058-tiny-touchdown.json) |
 | Tiny Touring Cars | 263961 | [263961-tiny-touring-cars.json](./263961-tiny-touring-cars.json) |
+| Tiny Tower | 39208 | [39208-tiny-tower.json](./39208-tiny-tower.json) |
 | Tiny Tower Vegas | 60892 | [60892-tiny-tower-vegas.json](./60892-tiny-tower-vegas.json) |
 | Tiny Town Mail | 202131 | [202131-tiny-town-mail.json](./202131-tiny-town-mail.json) |
 | Tiny Town VR | 51976 | [51976-tiny-town-vr.json](./51976-tiny-town-vr.json) |
@@ -20350,6 +20355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: The Last Revelation | 1158 | [1158-tomb-raider-the-last-revelation.json](./1158-tomb-raider-the-last-revelation.json) |
 | Tomb Raider: The Last Revelation | 319749 | [319749-tomb-raider-the-last-revelation.json](./319749-tomb-raider-the-last-revelation.json) |
 | Tomb Raider: The Last Revelation - The Times | 68115 | [68115-tomb-raider-the-last-revelation-the-times.json](./68115-tomb-raider-the-last-revelation-the-times.json) |
+| Tomb Raider: The Lost Artifact | 27555 | [27555-tomb-raider-the-lost-artifact.json](./27555-tomb-raider-the-lost-artifact.json) |
 | Tomb Raider: The Osiris Codex | 165176 | [165176-tomb-raider-the-osiris-codex.json](./165176-tomb-raider-the-osiris-codex.json) |
 | Tomb Raider: The Prophecy | 18809 | [18809-tomb-raider-the-prophecy.json](./18809-tomb-raider-the-prophecy.json) |
 | Tomb Raider: The Trilogy | 161713 | [161713-tomb-raider-the-trilogy.json](./161713-tomb-raider-the-trilogy.json) |
@@ -21405,6 +21411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Blooming Soul | 203848 | [203848-touhou-blooming-soul.json](./203848-touhou-blooming-soul.json) |
 | Touhou Cannonball | 111052 | [111052-touhou-cannonball.json](./111052-touhou-cannonball.json) |
 | Touhou Chaos of Black Loong | 322860 | [322860-touhou-chaos-of-black-loong.json](./322860-touhou-chaos-of-black-loong.json) |
+| Touhou Chireiden: Subterranean Animism | 27165 | [27165-touhou-chireiden-subterranean-animism.json](./27165-touhou-chireiden-subterranean-animism.json) |
 | Touhou Chouhatsuyou: Burgeoning Tresses of Longevity | 337504 | [337504-touhou-chouhatsuyou-burgeoning-tresses-of-longevity.json](./337504-touhou-chouhatsuyou-burgeoning-tresses-of-longevity.json) |
 | Touhou Chouseisho: Sapphire Panlogism | 181892 | [181892-touhou-chouseisho-sapphire-panlogism.json](./181892-touhou-chouseisho-sapphire-panlogism.json) |
 | Touhou Chronicle of Youkai Prayers | 356567 | [356567-touhou-chronicle-of-youkai-prayers.json](./356567-touhou-chronicle-of-youkai-prayers.json) |
@@ -21676,6 +21683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: New World | 242038 | [242038-touhou-new-world.json](./242038-touhou-new-world.json) |
 | Touhou: Phantom Assembler | 230169 | [230169-touhou-phantom-assembler.json](./230169-touhou-phantom-assembler.json) |
 | Touhou: Red Empress Devil | 225180 | [225180-touhou-red-empress-devil.json](./225180-touhou-red-empress-devil.json) |
+| Touhou: Scarlet Curiosity | 24462 | [24462-touhou-scarlet-curiosity.json](./24462-touhou-scarlet-curiosity.json) |
 | Touhou: Shooting Star | 150753 | [150753-touhou-shooting-star.json](./150753-touhou-shooting-star.json) |
 | Touhou: Sougetsu-tou | 284603 | [284603-touhou-sougetsu-tou.json](./284603-touhou-sougetsu-tou.json) |
 | Touhou: Tales of the Scarlet | 379443 | [379443-touhou-tales-of-the-scarlet.json](./379443-touhou-tales-of-the-scarlet.json) |
