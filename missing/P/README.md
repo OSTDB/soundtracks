@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painball | 70618 | [70618-painball.json](./70618-painball.json) |
 | Paincult | 177022 | [177022-paincult.json](./177022-paincult.json) |
 | PainFighting | 255984 | [255984-painfighting.json](./255984-painfighting.json) |
+| Painkiller | 152077 | [152077-painkiller.json](./152077-painkiller.json) |
 | Painkiller | 828 | [828-painkiller.json](./828-painkiller.json) |
 | Painkiller Pandemonium | 54262 | [54262-painkiller-pandemonium.json](./54262-painkiller-pandemonium.json) |
 | Painkiller Universe | 54261 | [54261-painkiller-universe.json](./54261-painkiller-universe.json) |
@@ -4262,6 +4263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom | 47147 | [47147-phantom.json](./47147-phantom.json) |
 | Phantom 3D | 387492 | [387492-phantom-3d.json](./387492-phantom-3d.json) |
 | Phantom 9 | 416629 | [416629-phantom-9.json](./416629-phantom-9.json) |
+| Phantom Abyss | 147021 | [147021-phantom-abyss.json](./147021-phantom-abyss.json) |
 | Phantom Astronaut Lucid VR | 122340 | [122340-phantom-astronaut-lucid-vr.json](./122340-phantom-astronaut-lucid-vr.json) |
 | Phantom Asylum VR | 333651 | [333651-phantom-asylum-vr.json](./333651-phantom-asylum-vr.json) |
 | Phantom Beast Solitaire | 301627 | [301627-phantom-beast-solitaire.json](./301627-phantom-beast-solitaire.json) |
@@ -8058,6 +8060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please, Don't Touch Anything VR | 103922 | [103922-please-dont-touch-anything-vr.json](./103922-please-dont-touch-anything-vr.json) |
 | Please, Don't Touch Anything: Classic | 151565 | [151565-please-dont-touch-anything-classic.json](./151565-please-dont-touch-anything-classic.json) |
 | Please, Forgive Me | 256995 | [256995-please-forgive-me.json](./256995-please-forgive-me.json) |
+| Please, Touch the Artwork | 148945 | [148945-please-touch-the-artwork.json](./148945-please-touch-the-artwork.json) |
 | Please, Visit Grandma | 138545 | [138545-please-visit-grandma.json](./138545-please-visit-grandma.json) |
 | Please! Please Confess First | 385899 | [385899-please-please-confess-first.json](./385899-please-please-confess-first.json) |
 | Please!! I want to Beg the Voluptuous Koume-chan into Consent! | 82824 | [82824-please-i-want-to-beg-the-voluptuous-koume-chan-into-consent.json](./82824-please-i-want-to-beg-the-voluptuous-koume-chan-into-consent.json) |
