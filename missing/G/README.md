@@ -2981,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Castle | 192821 | [192821-ghost-castle.json](./192821-ghost-castle.json) |
 | Ghost Castle: Gengar's Love Quest | 357418 | [357418-ghost-castle-gengars-love-quest.json](./357418-ghost-castle-gengars-love-quest.json) |
 | Ghost Catchers | 272294 | [272294-ghost-catchers.json](./272294-ghost-catchers.json) |
+| Ghost Chaser | 26220 | [26220-ghost-chaser.json](./26220-ghost-chaser.json) |
 | Ghost Chaser | 81429 | [81429-ghost-chaser.json](./81429-ghost-chaser.json) |
 | Ghost Chaser Densei | 15828 | [15828-ghost-chaser-densei.json](./15828-ghost-chaser-densei.json) |
 | Ghost College | 150640 | [150640-ghost-college.json](./150640-ghost-college.json) |
@@ -6964,6 +6965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Powers | 291482 | [291482-great-powers.json](./291482-great-powers.json) |
 | Great Powers At War | 325898 | [325898-great-powers-at-war.json](./325898-great-powers-at-war.json) |
 | Great Race: Route 66 | 233111 | [233111-great-race-route-66.json](./233111-great-race-route-66.json) |
+| Great Sam | 26209 | [26209-great-sam.json](./26209-great-sam.json) |
 | Great Secrets: Da Vinci | 72529 | [72529-great-secrets-da-vinci.json](./72529-great-secrets-da-vinci.json) |
 | Great Sluggers: New World Stadium | 140480 | [140480-great-sluggers-new-world-stadium.json](./140480-great-sluggers-new-world-stadium.json) |
 | Great Soccer | 100299 | [100299-great-soccer.json](./100299-great-soccer.json) |
@@ -7938,6 +7940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gruta | 367186 | [367186-gruta.json](./367186-gruta.json) |
 | Grym Wonder | 286956 | [286956-grym-wonder.json](./286956-grym-wonder.json) |
 | Grym: Knights in the Garden | 334534 | [334534-grym-knights-in-the-garden.json](./334534-grym-knights-in-the-garden.json) |
+| Gryphon | 26260 | [26260-gryphon.json](./26260-gryphon.json) |
 | Gryphon Knight Epic | 19949 | [19949-gryphon-knight-epic.json](./19949-gryphon-knight-epic.json) |
 | Gryphon Knight Epic: Definitive Edition | 147738 | [147738-gryphon-knight-epic-definitive-edition.json](./147738-gryphon-knight-epic-definitive-edition.json) |
 | gShift | 24740 | [24740-gshift.json](./24740-gshift.json) |
