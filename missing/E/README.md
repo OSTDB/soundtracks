@@ -6719,6 +6719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyeless Jack | 300016 | [300016-eyeless-jack.json](./300016-eyeless-jack.json) |
 | Eyelord | 5559 | [5559-eyelord.json](./5559-eyelord.json) |
 | EyePet | 7303 | [7303-eyepet.json](./7303-eyepet.json) |
+| EyePet & Friends | 52216 | [52216-eyepet-and-friends.json](./52216-eyepet-and-friends.json) |
 | EyePet Adventures | 52215 | [52215-eyepet-adventures.json](./52215-eyepet-adventures.json) |
 | EyePet PSP | 91591 | [91591-eyepet-psp.json](./91591-eyepet-psp.json) |
 | EyePet: Move Edition | 52214 | [52214-eyepet-move-edition.json](./52214-eyepet-move-edition.json) |
