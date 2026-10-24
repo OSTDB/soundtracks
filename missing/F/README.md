@@ -5899,6 +5899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flame VS Blaze | 27720 | [27720-flame-vs-blaze.json](./27720-flame-vs-blaze.json) |
 | Flame Zapper Kotsujin | 144086 | [144086-flame-zapper-kotsujin.json](./144086-flame-zapper-kotsujin.json) |
 | Flame, Forest & Flood | 404179 | [404179-flame-forest-and-flood.json](./404179-flame-forest-and-flood.json) |
+| Flamebreak | 24622 | [24622-flamebreak.json](./24622-flamebreak.json) |
 | Flamefall | 342143 | [342143-flamefall.json](./342143-flamefall.json) |
 | Flamel's Miracle | 90479 | [90479-flamels-miracle.json](./90479-flamels-miracle.json) |
 | Flameruby | 106542 | [106542-flameruby.json](./106542-flameruby.json) |
@@ -10634,6 +10635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fullmetal Alchemist 2: Curse of the Crimson Elixir | 19072 | [19072-fullmetal-alchemist-2-curse-of-the-crimson-elixir.json](./19072-fullmetal-alchemist-2-curse-of-the-crimson-elixir.json) |
 | Fullmetal Alchemist 3: Kami wo Tsugu Shoujo | 57443 | [57443-fullmetal-alchemist-3-kami-wo-tsugu-shoujo.json](./57443-fullmetal-alchemist-3-kami-wo-tsugu-shoujo.json) |
 | Fullmetal Alchemist and the Broken Angel | 19071 | [19071-fullmetal-alchemist-and-the-broken-angel.json](./19071-fullmetal-alchemist-and-the-broken-angel.json) |
+| Fullmetal Alchemist: Brotherhood | 25172 | [25172-fullmetal-alchemist-brotherhood.json](./25172-fullmetal-alchemist-brotherhood.json) |
 | Fullmetal Alchemist: Daughter of the Dusk | 77766 | [77766-fullmetal-alchemist-daughter-of-the-dusk.json](./77766-fullmetal-alchemist-daughter-of-the-dusk.json) |
 | Fullmetal Alchemist: Omoide no Sonata | 49594 | [49594-fullmetal-alchemist-omoide-no-sonata.json](./49594-fullmetal-alchemist-omoide-no-sonata.json) |
 | Fullmetal Alchemist: Prince of the Dawn | 69180 | [69180-fullmetal-alchemist-prince-of-the-dawn.json](./69180-fullmetal-alchemist-prince-of-the-dawn.json) |
@@ -11271,6 +11273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Tank | 68346 | [68346-future-tank.json](./68346-future-tank.json) |
 | Future Tanks Area | 193507 | [193507-future-tanks-area.json](./193507-future-tanks-area.json) |
 | Future Theater | 251842 | [251842-future-theater.json](./251842-future-theater.json) |
+| Future Unfolding | 25803 | [25803-future-unfolding.json](./25803-future-unfolding.json) |
 | Future Vibe Check | 335292 | [335292-future-vibe-check.json](./335292-future-vibe-check.json) |
 | Future Vox Imaginarium Dot Exe | 198444 | [198444-future-vox-imaginarium-dot-exe.json](./198444-future-vox-imaginarium-dot-exe.json) |
 | Future Vox Imaginarium Dot Exe V1.1: Doge Lover Edition | 198445 | [198445-future-vox-imaginarium-dot-exe-v1-1-doge-lover-edition.json](./198445-future-vox-imaginarium-dot-exe-v1-1-doge-lover-edition.json) |
