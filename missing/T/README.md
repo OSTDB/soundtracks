@@ -4791,6 +4791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Answer is 42 | 127234 | [127234-the-answer-is-42.json](./127234-the-answer-is-42.json) |
 | The Answer Is Behind You | 376037 | [376037-the-answer-is-behind-you.json](./376037-the-answer-is-behind-you.json) |
 | The Ant Bully | 206163 | [206163-the-ant-bully.json](./206163-the-ant-bully.json) |
+| The Ant Bully | 3787 | [3787-the-ant-bully.json](./3787-the-ant-bully.json) |
 | The Antarctic Sphere | 217414 | [217414-the-antarctic-sphere.json](./217414-the-antarctic-sphere.json) |
 | The Antaresian Spacepond | 267994 | [267994-the-antaresian-spacepond.json](./267994-the-antaresian-spacepond.json) |
 | The Anthurium | 115767 | [115767-the-anthurium.json](./115767-the-anthurium.json) |
@@ -6777,6 +6778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The DinoHunters | 142967 | [142967-the-dinohunters.json](./142967-the-dinohunters.json) |
 | The Dinosaur Dooley | 46109 | [46109-the-dinosaur-dooley.json](./46109-the-dinosaur-dooley.json) |
 | The Dinosaurs Are Here | 152732 | [152732-the-dinosaurs-are-here.json](./152732-the-dinosaurs-are-here.json) |
+| The DioField Chronicle | 194209 | [194209-the-diofield-chronicle.json](./194209-the-diofield-chronicle.json) |
 | The DioField Chronicle: Digital Deluxe Edition | 212339 | [212339-the-diofield-chronicle-digital-deluxe-edition.json](./212339-the-diofield-chronicle-digital-deluxe-edition.json) |
 | The Diplomat | 183828 | [183828-the-diplomat.json](./183828-the-diplomat.json) |
 | The Directed | 89253 | [89253-the-directed.json](./89253-the-directed.json) |
@@ -7440,6 +7442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fairly OddParents: Fairies of Fury | 325004 | [325004-the-fairly-oddparents-fairies-of-fury.json](./325004-the-fairly-oddparents-fairies-of-fury.json) |
 | The Fairly OddParents: Shadow Showdown | 248497 | [248497-the-fairly-oddparents-shadow-showdown.json](./248497-the-fairly-oddparents-shadow-showdown.json) |
 | The Fairly OddParents: Shadow Showdown | 332836 | [332836-the-fairly-oddparents-shadow-showdown.json](./332836-the-fairly-oddparents-shadow-showdown.json) |
+| The Fairly OddParents: Shadow Showdown | 3912 | [3912-the-fairly-oddparents-shadow-showdown.json](./3912-the-fairly-oddparents-shadow-showdown.json) |
 | The Fairway Club | 264572 | [264572-the-fairway-club.json](./264572-the-fairway-club.json) |
 | The Fairy's Song | 140405 | [140405-the-fairys-song.json](./140405-the-fairys-song.json) |
 | The Fairyland Story | 205665 | [205665-the-fairyland-story.json](./205665-the-fairyland-story.json) |
@@ -11797,6 +11800,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Order: 1886 - Blackwater Edition | 62666 | [62666-the-order-1886-blackwater-edition.json](./62666-the-order-1886-blackwater-edition.json) |
 | The ordinary case of Margaret Luoni | 152819 | [152819-the-ordinary-case-of-margaret-luoni.json](./152819-the-ordinary-case-of-margaret-luoni.json) |
 | The Oregon Trail | 11325 | [11325-the-oregon-trail.json](./11325-the-oregon-trail.json) |
+| The Oregon Trail | 191526 | [191526-the-oregon-trail.json](./191526-the-oregon-trail.json) |
+| The Oregon Trail | 193664 | [193664-the-oregon-trail.json](./193664-the-oregon-trail.json) |
 | The Oregon Trail Deluxe | 83359 | [83359-the-oregon-trail-deluxe.json](./83359-the-oregon-trail-deluxe.json) |
 | The Oregon Trail: 3rd Edition | 73240 | [73240-the-oregon-trail-3rd-edition.json](./73240-the-oregon-trail-3rd-edition.json) |
 | The Oregon Trail: 40th Anniversary Edition | 202693 | [202693-the-oregon-trail-40th-anniversary-edition.json](./202693-the-oregon-trail-40th-anniversary-edition.json) |
@@ -12169,6 +12174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Poisoner | 118825 | [118825-the-poisoner.json](./118825-the-poisoner.json) |
 | The Polar Explorer: Hokkyoku he no VR Soriasobi | 308903 | [308903-the-polar-explorer-hokkyoku-he-no-vr-soriasobi.json](./308903-the-polar-explorer-hokkyoku-he-no-vr-soriasobi.json) |
 | The Polar Express | 210732 | [210732-the-polar-express.json](./210732-the-polar-express.json) |
+| The Polar Express | 4071 | [4071-the-polar-express.json](./4071-the-polar-express.json) |
 | The Police Interceptors Simulator: War Against Racers | 263111 | [263111-the-police-interceptors-simulator-war-against-racers.json](./263111-the-police-interceptors-simulator-war-against-racers.json) |
 | The Police Mystery | 274876 | [274876-the-police-mystery.json](./274876-the-police-mystery.json) |
 | The Political Compass: Devil's Labyrinth | 135063 | [135063-the-political-compass-devils-labyrinth.json](./135063-the-political-compass-devils-labyrinth.json) |
@@ -13372,6 +13378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2: Apartment Life | 5538 | [5538-the-sims-2-apartment-life.json](./5538-the-sims-2-apartment-life.json) |
 | The Sims 2: Apartment Pets | 21464 | [21464-the-sims-2-apartment-pets.json](./21464-the-sims-2-apartment-pets.json) |
 | The Sims 2: Bon Voyage | 5536 | [5536-the-sims-2-bon-voyage.json](./5536-the-sims-2-bon-voyage.json) |
+| The Sims 2: Castaway | 192907 | [192907-the-sims-2-castaway.json](./192907-the-sims-2-castaway.json) |
 | The Sims 2: Castaway | 192908 | [192908-the-sims-2-castaway.json](./192908-the-sims-2-castaway.json) |
 | The Sims 2: Celebration! Stuff | 13131 | [13131-the-sims-2-celebration-stuff.json](./13131-the-sims-2-celebration-stuff.json) |
 | The Sims 2: Family Fun Stuff | 13128 | [13128-the-sims-2-family-fun-stuff.json](./13128-the-sims-2-family-fun-stuff.json) |
@@ -19605,8 +19612,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Max | 164242 | [164242-to-the-max.json](./164242-to-the-max.json) |
 | To the Moon | 339932 | [339932-to-the-moon.json](./339932-to-the-moon.json) |
 | To the Moon and Beyond | 203832 | [203832-to-the-moon-and-beyond.json](./203832-to-the-moon-and-beyond.json) |
+| To the Moon: Sigmund Minisode 1 | 191336 | [191336-to-the-moon-sigmund-minisode-1.json](./191336-to-the-moon-sigmund-minisode-1.json) |
 | To the Moon: Sigmund Minisode 1 (Holiday Special) | 327443 | [327443-to-the-moon-sigmund-minisode-1-holiday-special.json](./327443-to-the-moon-sigmund-minisode-1-holiday-special.json) |
 | To the Moon: Sigmund Minisode 1 & 2 (Holiday Special) | 332533 | [332533-to-the-moon-sigmund-minisode-1-and-2-holiday-special.json](./332533-to-the-moon-sigmund-minisode-1-and-2-holiday-special.json) |
+| To the Moon: Sigmund Minisode 2 | 191337 | [191337-to-the-moon-sigmund-minisode-2.json](./191337-to-the-moon-sigmund-minisode-2.json) |
 | To the Moon: Sigmund Minisode 2 (Holiday Special) | 327444 | [327444-to-the-moon-sigmund-minisode-2-holiday-special.json](./327444-to-the-moon-sigmund-minisode-2-holiday-special.json) |
 | To the Mountain | 331128 | [331128-to-the-mountain.json](./331128-to-the-mountain.json) |
 | To the Ones We Lost | 186600 | [186600-to-the-ones-we-lost.json](./186600-to-the-ones-we-lost.json) |
@@ -19870,6 +19879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toil & Trubble | 404933 | [404933-toil-and-trubble.json](./404933-toil-and-trubble.json) |
 | Toilet 8 | 378306 | [378306-toilet-8.json](./378306-toilet-8.json) |
 | Toilet Boom | 373805 | [373805-toilet-boom.json](./373805-toilet-boom.json) |
+| Toilet Chronicles | 199576 | [199576-toilet-chronicles.json](./199576-toilet-chronicles.json) |
 | Toilet Farm | 185005 | [185005-toilet-farm.json](./185005-toilet-farm.json) |
 | Toilet Fight: Open World | 273945 | [273945-toilet-fight-open-world.json](./273945-toilet-fight-open-world.json) |
 | Toilet Flushing Simulator | 175710 | [175710-toilet-flushing-simulator.json](./175710-toilet-flushing-simulator.json) |
@@ -20953,6 +20963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torchure | 352262 | [352262-torchure.json](./352262-torchure.json) |
 | Torebia: Island Odyssey | 392386 | [392386-torebia-island-odyssey.json](./392386-torebia-island-odyssey.json) |
 | Torecower | 235712 | [235712-torecower.json](./235712-torecower.json) |
+| Toree 3D: Jumbled Jam | 194765 | [194765-toree-3d-jumbled-jam.json](./194765-toree-3d-jumbled-jam.json) |
 | Toree Jolly Jam | 279783 | [279783-toree-jolly-jam.json](./279783-toree-jolly-jam.json) |
 | Toree Jumbled Jam 2 | 310614 | [310614-toree-jumbled-jam-2.json](./310614-toree-jumbled-jam-2.json) |
 | Toree Missions | 310613 | [310613-toree-missions.json](./310613-toree-missions.json) |
