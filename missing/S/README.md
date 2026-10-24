@@ -11392,6 +11392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Court Tennis Pro Tournament 2 | 20184 | [20184-smash-court-tennis-pro-tournament-2.json](./20184-smash-court-tennis-pro-tournament-2.json) |
 | Smash Crabs | 151744 | [151744-smash-crabs.json](./151744-smash-crabs.json) |
 | Smash Dash: Demolition Run | 406575 | [406575-smash-dash-demolition-run.json](./406575-smash-dash-demolition-run.json) |
+| Smash Derby | 36776 | [36776-smash-derby.json](./36776-smash-derby.json) |
 | Smash Drums: Pop Rock Legends | 306954 | [306954-smash-drums-pop-rock-legends.json](./306954-smash-drums-pop-rock-legends.json) |
 | Smash Dungeon | 115189 | [115189-smash-dungeon.json](./115189-smash-dungeon.json) |
 | Smash Frenzy | 54373 | [54373-smash-frenzy.json](./54373-smash-frenzy.json) |
@@ -24696,6 +24697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Donkey Kong 64 | 134017 | [134017-super-donkey-kong-64.json](./134017-super-donkey-kong-64.json) |
 | Super Donuts! | 175412 | [175412-super-donuts.json](./175412-super-donuts.json) |
 | Super Doom TV | 299449 | [299449-super-doom-tv.json](./299449-super-doom-tv.json) |
+| Super Doomed'n Damned | 36795 | [36795-super-doomedn-damned.json](./36795-super-doomedn-damned.json) |
 | Super Doopliss World | 323360 | [323360-super-doopliss-world.json](./323360-super-doopliss-world.json) |
 | Super Doors | 277539 | [277539-super-doors.json](./277539-super-doors.json) |
 | Super Dot Jump | 25960 | [25960-super-dot-jump.json](./25960-super-dot-jump.json) |
