@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet-Paco: Hyper Special Space Agent! | 312227 | [312227-jet-paco-hyper-special-space-agent.json](./312227-jet-paco-hyper-special-space-agent.json) |
 | JetBall Arena | 113697 | [113697-jetball-arena.json](./113697-jetball-arena.json) |
 | Jetbike Gang | 207233 | [207233-jetbike-gang.json](./207233-jetbike-gang.json) |
+| Jetboard Joust | 126670 | [126670-jetboard-joust.json](./126670-jetboard-joust.json) |
 | Jetboat Superchamps | 73626 | [73626-jetboat-superchamps.json](./73626-jetboat-superchamps.json) |
 | Jetboat Superchamps 2 | 92952 | [92952-jetboat-superchamps-2.json](./92952-jetboat-superchamps-2.json) |
 | Jetborne Racing | 150003 | [150003-jetborne-racing.json](./150003-jetborne-racing.json) |
@@ -1174,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Fever | 246341 | [246341-jewel-fever.json](./246341-jewel-fever.json) |
 | Jewel Fever | 257466 | [257466-jewel-fever.json](./257466-jewel-fever.json) |
 | Jewel Fever | 90740 | [90740-jewel-fever.json](./90740-jewel-fever.json) |
+| Jewel Fever 2 | 89082 | [89082-jewel-fever-2.json](./89082-jewel-fever-2.json) |
 | Jewel Fever 3 | 328391 | [328391-jewel-fever-3.json](./328391-jewel-fever-3.json) |
 | Jewel Hunter : Lost Temple | 105853 | [105853-jewel-hunter-lost-temple.json](./105853-jewel-hunter-lost-temple.json) |
 | Jewel Jungle Temple | 104579 | [104579-jewel-jungle-temple.json](./104579-jewel-jungle-temple.json) |
