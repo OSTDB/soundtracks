@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EarthBound Zero Remake | 324007 | [324007-earthbound-zero-remake.json](./324007-earthbound-zero-remake.json) |
 | Earthbreakers | 126458 | [126458-earthbreakers.json](./126458-earthbreakers.json) |
 | EarthCraft 2: World Exploration & Survival | 99705 | [99705-earthcraft-2-world-exploration-and-survival.json](./99705-earthcraft-2-world-exploration-and-survival.json) |
+| Earthfall | 27186 | [27186-earthfall.json](./27186-earthfall.json) |
 | Earthfall: Alien Horde | 122651 | [122651-earthfall-alien-horde.json](./122651-earthfall-alien-horde.json) |
 | Earthfall: Alien Horde Deluxe | 238334 | [238334-earthfall-alien-horde-deluxe.json](./238334-earthfall-alien-horde-deluxe.json) |
 | Earthfall: Deluxe Edition | 136297 | [136297-earthfall-deluxe-edition.json](./136297-earthfall-deluxe-edition.json) |
@@ -4888,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Samurai | 201490 | [201490-eternal-samurai.json](./201490-eternal-samurai.json) |
 | Eternal Seas | 236509 | [236509-eternal-seas.json](./236509-eternal-seas.json) |
 | Eternal Secret | 158421 | [158421-eternal-secret.json](./158421-eternal-secret.json) |
+| Eternal Senia | 35715 | [35715-eternal-senia.json](./35715-eternal-senia.json) |
 | Eternal Senia: Hydrangea After the Rain | 139189 | [139189-eternal-senia-hydrangea-after-the-rain.json](./139189-eternal-senia-hydrangea-after-the-rain.json) |
 | Eternal Silence | 29121 | [29121-eternal-silence.json](./29121-eternal-silence.json) |
 | Eternal Slumber Party | 224582 | [224582-eternal-slumber-party.json](./224582-eternal-slumber-party.json) |
@@ -5315,6 +5317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EVE: New Generation | 70779 | [70779-eve-new-generation.json](./70779-eve-new-generation.json) |
 | Eve: Rebirth Terror | 112911 | [112911-eve-rebirth-terror.json](./112911-eve-rebirth-terror.json) |
 | Eve: The Fatal Attraction | 44730 | [44730-eve-the-fatal-attraction.json](./44730-eve-the-fatal-attraction.json) |
+| EVE: Valkyrie | 9267 | [9267-eve-valkyrie.json](./9267-eve-valkyrie.json) |
 | EVE: Valkyrie - Warzone | 68444 | [68444-eve-valkyrie-warzone.json](./68444-eve-valkyrie-warzone.json) |
 | EVE: War of Ascension | 74277 | [74277-eve-war-of-ascension.json](./74277-eve-war-of-ascension.json) |
 | Evector: Acid Thirst | 149846 | [149846-evector-acid-thirst.json](./149846-evector-acid-thirst.json) |
@@ -5362,6 +5365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eventide Escape | 83952 | [83952-eventide-escape.json](./83952-eventide-escape.json) |
 | Eventide Matter | 258315 | [258315-eventide-matter.json](./258315-eventide-matter.json) |
 | Eventide Night | 28940 | [28940-eventide-night.json](./28940-eventide-night.json) |
+| Eventide: Slavic Fable | 20362 | [20362-eventide-slavic-fable.json](./20362-eventide-slavic-fable.json) |
 | Events | 339278 | [339278-events.json](./339278-events.json) |
 | Eventyr | 272476 | [272476-eventyr.json](./272476-eventyr.json) |
 | Ever 17: The Out of Infinity | 323127 | [323127-ever-17-the-out-of-infinity.json](./323127-ever-17-the-out-of-infinity.json) |
@@ -6717,6 +6721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeToy: Chat | 262194 | [262194-eyetoy-chat.json](./262194-eyetoy-chat.json) |
 | EyeToy: Operation Spy | 43222 | [43222-eyetoy-operation-spy.json](./43222-eyetoy-operation-spy.json) |
 | EyeToy: Play 2 | 19842 | [19842-eyetoy-play-2.json](./19842-eyetoy-play-2.json) |
+| EyeToy: Play 3 | 19843 | [19843-eyetoy-play-3.json](./19843-eyetoy-play-3.json) |
 | Eyewear Cleaner 2077 | 194358 | [194358-eyewear-cleaner-2077.json](./194358-eyewear-cleaner-2077.json) |
 | Eyewinder | 266086 | [266086-eyewinder.json](./266086-eyewinder.json) |
 | Eyewire | 108802 | [108802-eyewire.json](./108802-eyewire.json) |
