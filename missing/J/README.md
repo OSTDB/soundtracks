@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janshin Densetsu: Quest of Jongmaster | 75458 | [75458-janshin-densetsu-quest-of-jongmaster.json](./75458-janshin-densetsu-quest-of-jongmaster.json) |
 | Jansou Ou | 78089 | [78089-jansou-ou.json](./78089-jansou-ou.json) |
 | Jantaku Boy | 62577 | [62577-jantaku-boy.json](./62577-jantaku-boy.json) |
+| Jantei Monogatari | 4453 | [4453-jantei-monogatari.json](./4453-jantei-monogatari.json) |
 | Jantei Monogatari 3: Saver Angels | 321173 | [321173-jantei-monogatari-3-saver-angels.json](./321173-jantei-monogatari-3-saver-angels.json) |
 | January | 124545 | [124545-january.json](./124545-january.json) |
 | Janusz: The Handyman Simulator | 163404 | [163404-janusz-the-handyman-simulator.json](./163404-janusz-the-handyman-simulator.json) |
@@ -1172,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Mania | 360069 | [360069-jewel-mania.json](./360069-jewel-mania.json) |
 | Jewel Master | 222473 | [222473-jewel-master.json](./222473-jewel-master.json) |
 | Jewel Master | 246342 | [246342-jewel-master.json](./246342-jewel-master.json) |
+| Jewel Master | 4536 | [4536-jewel-master.json](./4536-jewel-master.json) |
 | Jewel Master 3 | 358906 | [358906-jewel-master-3.json](./358906-jewel-master-3.json) |
 | Jewel Master Atlantis 3D | 85205 | [85205-jewel-master-atlantis-3d.json](./85205-jewel-master-atlantis-3d.json) |
 | Jewel Master Double Pack | 145392 | [145392-jewel-master-double-pack.json](./145392-jewel-master-double-pack.json) |
@@ -2000,6 +2002,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Madden Football | 13240 | [13240-john-madden-football.json](./13240-john-madden-football.json) |
 | John Madden Football | 295034 | [295034-john-madden-football.json](./295034-john-madden-football.json) |
 | John Madden Football | 295035 | [295035-john-madden-football.json](./295035-john-madden-football.json) |
+| John Madden Football | 4587 | [4587-john-madden-football.json](./4587-john-madden-football.json) |
+| John Madden Football '92 | 4588 | [4588-john-madden-football-92.json](./4588-john-madden-football-92.json) |
+| John Madden Football '93: Championship Edition | 4482 | [4482-john-madden-football-93-championship-edition.json](./4482-john-madden-football-93-championship-edition.json) |
 | John Madden Football II | 47042 | [47042-john-madden-football-ii.json](./47042-john-madden-football-ii.json) |
 | John Mambo | 101268 | [101268-john-mambo.json](./101268-john-mambo.json) |
 | John Novak | 270552 | [270552-john-novak.json](./270552-john-novak.json) |
