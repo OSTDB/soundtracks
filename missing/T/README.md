@@ -3478,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tequila Zombies | 93552 | [93552-tequila-zombies.json](./93552-tequila-zombies.json) |
 | Tequila Zombies 2 | 93551 | [93551-tequila-zombies-2.json](./93551-tequila-zombies-2.json) |
 | Tequila Zombies 3: Things to Die For | 59063 | [59063-tequila-zombies-3-things-to-die-for.json](./59063-tequila-zombies-3-things-to-die-for.json) |
+| Tera | 7533 | [7533-tera.json](./7533-tera.json) |
 | Tera: La Cité des Crânes | 356857 | [356857-tera-la-cite-des-cranes.json](./356857-tera-la-cite-des-cranes.json) |
 | Terabey: The Room Builder | 183291 | [183291-terabey-the-room-builder.json](./183291-terabey-the-room-builder.json) |
 | TeraBlaster | 34925 | [34925-terablaster.json](./34925-terablaster.json) |
@@ -6515,6 +6516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkest Tales: Extended Edition | 221630 | [221630-the-darkest-tales-extended-edition.json](./221630-the-darkest-tales-extended-edition.json) |
 | The Darkest Woods | 103762 | [103762-the-darkest-woods.json](./103762-the-darkest-woods.json) |
 | The Darkest Woods 2 | 111711 | [111711-the-darkest-woods-2.json](./111711-the-darkest-woods-2.json) |
+| The Darkness | 1347 | [1347-the-darkness.json](./1347-the-darkness.json) |
 | The Darkness | 281559 | [281559-the-darkness.json](./281559-the-darkness.json) |
 | The Darkness | 331150 | [331150-the-darkness.json](./331150-the-darkness.json) |
 | The Darkness Assault | 53725 | [53725-the-darkness-assault.json](./53725-the-darkness-assault.json) |
@@ -6998,6 +7000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Reality | 271486 | [271486-the-elder-reality.json](./271486-the-elder-reality.json) |
 | The Elder Scrolls Adventures: Redguard | 55 | [55-the-elder-scrolls-adventures-redguard.json](./55-the-elder-scrolls-adventures-redguard.json) |
 | The Elder Scrolls Anthology | 23832 | [23832-the-elder-scrolls-anthology.json](./23832-the-elder-scrolls-anthology.json) |
+| The Elder Scrolls II: Daggerfall | 53 | [53-the-elder-scrolls-ii-daggerfall.json](./53-the-elder-scrolls-ii-daggerfall.json) |
 | The Elder Scrolls III: Morrowind - Game of the Year Edition | 24775 | [24775-the-elder-scrolls-iii-morrowind-game-of-the-year-edition.json](./24775-the-elder-scrolls-iii-morrowind-game-of-the-year-edition.json) |
 | The Elder Scrolls III: Tribunal | 57 | [57-the-elder-scrolls-iii-tribunal.json](./57-the-elder-scrolls-iii-tribunal.json) |
 | The Elder Scrolls IV: Knights of the Nine | 7959 | [7959-the-elder-scrolls-iv-knights-of-the-nine.json](./7959-the-elder-scrolls-iv-knights-of-the-nine.json) |
@@ -8006,6 +8009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gardener | 389404 | [389404-the-gardener.json](./389404-the-gardener.json) |
 | The Gardener and the Wild Vines | 141524 | [141524-the-gardener-and-the-wild-vines.json](./141524-the-gardener-and-the-wild-vines.json) |
 | The Gardener Simulator: Plant, Grow, Decorate, Build Sim | 283234 | [283234-the-gardener-simulator-plant-grow-decorate-build-sim.json](./283234-the-gardener-simulator-plant-grow-decorate-build-sim.json) |
+| The Gardens Between | 27324 | [27324-the-gardens-between.json](./27324-the-gardens-between.json) |
 | The Gas Station: Graveyard Shift | 379883 | [379883-the-gas-station-graveyard-shift.json](./379883-the-gas-station-graveyard-shift.json) |
 | The Gate | 319411 | [319411-the-gate.json](./319411-the-gate.json) |
 | The Gate | 323315 | [323315-the-gate.json](./323315-the-gate.json) |
@@ -10338,6 +10342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Trident of Power | 262254 | [262254-the-legend-of-zelda-trident-of-power.json](./262254-the-legend-of-zelda-trident-of-power.json) |
 | The Legend of Zelda: Triforce Duo | 241230 | [241230-the-legend-of-zelda-triforce-duo.json](./241230-the-legend-of-zelda-triforce-duo.json) |
 | The Legend of Zelda: Triforce Power | 359011 | [359011-the-legend-of-zelda-triforce-power.json](./359011-the-legend-of-zelda-triforce-power.json) |
+| The Legend of Zelda: Twilight Princess | 134014 | [134014-the-legend-of-zelda-twilight-princess.json](./134014-the-legend-of-zelda-twilight-princess.json) |
 | The Legend of Zelda: Twilight Princess HD | 18017 | [18017-the-legend-of-zelda-twilight-princess-hd.json](./18017-the-legend-of-zelda-twilight-princess-hd.json) |
 | The Legend of Zelda: Twilight Princess HD - Special Edition | 45134 | [45134-the-legend-of-zelda-twilight-princess-hd-special-edition.json](./45134-the-legend-of-zelda-twilight-princess-hd-special-edition.json) |
 | The Legend of Zelda: Twilight Princess Randomizer | 241894 | [241894-the-legend-of-zelda-twilight-princess-randomizer.json](./241894-the-legend-of-zelda-twilight-princess-randomizer.json) |
@@ -16597,6 +16602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thumbelina | 100030 | [100030-thumbelina.json](./100030-thumbelina.json) |
 | Thumblemania | 348346 | [348346-thumblemania.json](./348346-thumblemania.json) |
 | Thumbling | 289947 | [289947-thumbling.json](./289947-thumbling.json) |
+| Thumper | 10960 | [10960-thumper.json](./10960-thumper.json) |
 | Thumpies | 66730 | [66730-thumpies.json](./66730-thumpies.json) |
 | Thumps & Blows | 348327 | [348327-thumps-and-blows.json](./348327-thumps-and-blows.json) |
 | Thunder | 249655 | [249655-thunder.json](./249655-thunder.json) |
@@ -20247,6 +20253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Anniversary - Collectors Edition | 202972 | [202972-tomb-raider-anniversary-collectors-edition.json](./202972-tomb-raider-anniversary-collectors-edition.json) |
 | Tomb Raider: Catalyst | 381234 | [381234-tomb-raider-catalyst.json](./381234-tomb-raider-catalyst.json) |
 | Tomb Raider: Caves and Cliffs Multiplayer Map Pack | 406533 | [406533-tomb-raider-caves-and-cliffs-multiplayer-map-pack.json](./406533-tomb-raider-caves-and-cliffs-multiplayer-map-pack.json) |
+| Tomb Raider: Chronicles | 1160 | [1160-tomb-raider-chronicles.json](./1160-tomb-raider-chronicles.json) |
 | Tomb Raider: Chronicles | 319750 | [319750-tomb-raider-chronicles.json](./319750-tomb-raider-chronicles.json) |
 | Tomb Raider: Collector's Edition | 43690 | [43690-tomb-raider-collectors-edition.json](./43690-tomb-raider-collectors-edition.json) |
 | Tomb Raider: Definitive Edition | 19965 | [19965-tomb-raider-definitive-edition.json](./19965-tomb-raider-definitive-edition.json) |
@@ -26763,6 +26770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Lovestruck | 243425 | [243425-twisted-lovestruck.json](./243425-twisted-lovestruck.json) |
 | Twisted Metal | 256773 | [256773-twisted-metal.json](./256773-twisted-metal.json) |
 | Twisted Metal 2 | 256777 | [256777-twisted-metal-2.json](./256777-twisted-metal-2.json) |
+| Twisted Metal 2 | 4696 | [4696-twisted-metal-2.json](./4696-twisted-metal-2.json) |
 | Twisted Metal 4 | 347127 | [347127-twisted-metal-4.json](./347127-twisted-metal-4.json) |
 | Twisted Metal III | 347126 | [347126-twisted-metal-iii.json](./347126-twisted-metal-iii.json) |
 | Twisted Metal: Black | 5413 | [5413-twisted-metal-black.json](./5413-twisted-metal-black.json) |
