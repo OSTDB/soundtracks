@@ -755,7 +755,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1458,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balthazar's Dream | 26240 | [26240-balthazars-dream.json](./26240-balthazars-dream.json) |
 | Baltic 1985 | 70290 | [70290-baltic-1985.json](./70290-baltic-1985.json) |
 | Baltron | 48588 | [48588-baltron.json](./48588-baltron.json) |
+| Baluba-louk no Densetsu | 40013 | [40013-baluba-louk-no-densetsu.json](./40013-baluba-louk-no-densetsu.json) |
 | Baluno | 297780 | [297780-baluno.json](./297780-baluno.json) |
 | BAM | 271386 | [271386-bam.json](./271386-bam.json) |
 | Bam 'N Jam | 61547 | [61547-bam-n-jam.json](./61547-bam-n-jam.json) |
@@ -3028,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Kid: Fortress of Peril | 11145 | [11145-battle-kid-fortress-of-peril.json](./11145-battle-kid-fortress-of-peril.json) |
 | Battle Kingdom | 419147 | [419147-battle-kingdom.json](./419147-battle-kingdom.json) |
 | Battle Kitty | 322249 | [322249-battle-kitty.json](./322249-battle-kitty.json) |
+| Battle Lane Vol. 5 | 40028 | [40028-battle-lane-vol-5.json](./40028-battle-lane-vol-5.json) |
 | Battle Leet | 265727 | [265727-battle-leet.json](./265727-battle-leet.json) |
 | Battle Legends | 144805 | [144805-battle-legends.json](./144805-battle-legends.json) |
 | Battle Legends Arena | 196573 | [196573-battle-legends-arena.json](./196573-battle-legends-arena.json) |
@@ -3060,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Arachnidia | 337048 | [337048-battle-of-arachnidia.json](./337048-battle-of-arachnidia.json) |
 | Battle of Archers | 180990 | [180990-battle-of-archers.json](./180990-battle-of-archers.json) |
 | Battle of Arrow | 82146 | [82146-battle-of-arrow.json](./82146-battle-of-arrow.json) |
+| Battle of Atlantis | 40032 | [40032-battle-of-atlantis.json](./40032-battle-of-atlantis.json) |
 | Battle of Atlantis | 85845 | [85845-battle-of-atlantis.json](./85845-battle-of-atlantis.json) |
 | Battle of BackYard | 276260 | [276260-battle-of-backyard.json](./276260-battle-of-backyard.json) |
 | Battle of Billionaires | 204808 | [204808-battle-of-billionaires.json](./204808-battle-of-billionaires.json) |
@@ -6442,6 +6444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binky show | 123512 | [123512-binky-show.json](./123512-binky-show.json) |
 | Binky XXIV: Game Streamer "Binky" Plays Grotto of the Grebulons | 279024 | [279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json](./279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json) |
 | Binky's Trash Service | 142483 | [142483-binkys-trash-service.json](./142483-binkys-trash-service.json) |
+| Bio Attack | 40031 | [40031-bio-attack.json](./40031-bio-attack.json) |
 | Bio Blaster | 354889 | [354889-bio-blaster.json](./354889-bio-blaster.json) |
 | Bio Block | 274518 | [274518-bio-block.json](./274518-bio-block.json) |
 | Bio Bytes | 220274 | [220274-bio-bytes.json](./220274-bio-bytes.json) |
@@ -7844,6 +7847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlastMania | 201458 | [201458-blastmania.json](./201458-blastmania.json) |
 | BlastMorph: Pinball | 372572 | [372572-blastmorph-pinball.json](./372572-blastmorph-pinball.json) |
 | Blasto | 377825 | [377825-blasto.json](./377825-blasto.json) |
+| Blasto | 40030 | [40030-blasto.json](./40030-blasto.json) |
 | Blasto | 86213 | [86213-blasto.json](./86213-blasto.json) |
 | Blastocitos | 192205 | [192205-blastocitos.json](./192205-blastocitos.json) |
 | Blastoids | 394380 | [394380-blastoids.json](./394380-blastoids.json) |
@@ -8372,6 +8376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
 | Block Heads: Instakill | 108305 | [108305-block-heads-instakill.json](./108305-block-heads-instakill.json) |
 | Block Heist | 189893 | [189893-block-heist.json](./189893-block-heist.json) |
+| Block Hole | 40029 | [40029-block-hole.json](./40029-block-hole.json) |
 | Block Hopper | 283388 | [283388-block-hopper.json](./283388-block-hopper.json) |
 | Block In | 390148 | [390148-block-in.json](./390148-block-in.json) |
 | Block Jam | 323702 | [323702-block-jam.json](./323702-block-jam.json) |
@@ -9756,6 +9761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bogey Blows Golf Simulator | 181677 | [181677-bogey-blows-golf-simulator.json](./181677-bogey-blows-golf-simulator.json) |
 | Bogey Brian | 216643 | [216643-bogey-brian.json](./216643-bogey-brian.json) |
 | Bogey Dead 6 | 20590 | [20590-bogey-dead-6.json](./20590-bogey-dead-6.json) |
+| Bogey Manor | 40027 | [40027-bogey-manor.json](./40027-bogey-manor.json) |
 | Bogey's Report | 344327 | [344327-bogeys-report.json](./344327-bogeys-report.json) |
 | Bogeyman | 138145 | [138145-bogeyman.json](./138145-bogeyman.json) |
 | Boggle | 206463 | [206463-boggle.json](./206463-boggle.json) |
@@ -10894,6 +10900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash Construction Kit | 12943 | [12943-boulder-dash-construction-kit.json](./12943-boulder-dash-construction-kit.json) |
 | Boulder Dash EX | 78733 | [78733-boulder-dash-ex.json](./78733-boulder-dash-ex.json) |
 | Boulder Dash IV: The Game | 60874 | [60874-boulder-dash-iv-the-game.json](./60874-boulder-dash-iv-the-game.json) |
+| Boulder Dash Part 2 | 40026 | [40026-boulder-dash-part-2.json](./40026-boulder-dash-part-2.json) |
 | Boulder Dash UX | 41180 | [41180-boulder-dash-ux.json](./41180-boulder-dash-ux.json) |
 | Boulder Dash-XL | 65854 | [65854-boulder-dash-xl.json](./65854-boulder-dash-xl.json) |
 | Boulder Dash-XL 3D | 47624 | [47624-boulder-dash-xl-3d.json](./47624-boulder-dash-xl-3d.json) |
@@ -14500,6 +14507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | But You Seem Fine | 120267 | [120267-but-you-seem-fine.json](./120267-but-you-seem-fine.json) |
 | Buta | 204413 | [204413-buta.json](./204413-buta.json) |
 | Buta Hime-sama | 82971 | [82971-buta-hime-sama.json](./82971-buta-hime-sama.json) |
+| Buta-san | 40025 | [40025-buta-san.json](./40025-buta-san.json) |
 | Butamaru Pants | 97802 | [97802-butamaru-pants.json](./97802-butamaru-pants.json) |
 | Butano Fighter | 184306 | [184306-butano-fighter.json](./184306-butano-fighter.json) |
 | Butanooo! Simulator | 303805 | [303805-butanooo-simulator.json](./303805-butanooo-simulator.json) |
