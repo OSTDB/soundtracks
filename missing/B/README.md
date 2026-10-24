@@ -2292,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barro T23: Pack #2 | 322732 | [322732-barro-t23-pack-2.json](./322732-barro-t23-pack-2.json) |
 | Barrok | 309877 | [309877-barrok.json](./309877-barrok.json) |
 | Barrok 2 | 382290 | [382290-barrok-2.json](./382290-barrok-2.json) |
+| Barrow Hill: Curse of the Ancient Circle | 10023 | [10023-barrow-hill-curse-of-the-ancient-circle.json](./10023-barrow-hill-curse-of-the-ancient-circle.json) |
 | Barrow Hill: The Dark Path | 31509 | [31509-barrow-hill-the-dark-path.json](./31509-barrow-hill-the-dark-path.json) |
 | Barry Bonds enter the world of Myst | 322363 | [322363-barry-bonds-enter-the-world-of-myst.json](./322363-barry-bonds-enter-the-world-of-myst.json) |
 | Barry Bradford's Putt Panic Party | 122865 | [122865-barry-bradfords-putt-panic-party.json](./122865-barry-bradfords-putt-panic-party.json) |
@@ -8644,6 +8645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks of Nature | 216754 | [216754-blocks-of-nature.json](./216754-blocks-of-nature.json) |
 | Blocks Racing | 255060 | [255060-blocks-racing.json](./255060-blocks-racing.json) |
 | Blocks Stacking | 153352 | [153352-blocks-stacking.json](./153352-blocks-stacking.json) |
+| Blocks That Matter | 8984 | [8984-blocks-that-matter.json](./8984-blocks-that-matter.json) |
 | Blocks Tracks Trains | 224594 | [224594-blocks-tracks-trains.json](./224594-blocks-tracks-trains.json) |
 | Blocks: New Tangram Puzzles | 101070 | [101070-blocks-new-tangram-puzzles.json](./101070-blocks-new-tangram-puzzles.json) |
 | Blocks: Richard III | 120791 | [120791-blocks-richard-iii.json](./120791-blocks-richard-iii.json) |
@@ -9231,6 +9233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons Card Storm | 314325 | [314325-bloons-card-storm.json](./314325-bloons-card-storm.json) |
 | Bloons Insanity | 63568 | [63568-bloons-insanity.json](./63568-bloons-insanity.json) |
 | Bloons Junior | 335446 | [335446-bloons-junior.json](./335446-bloons-junior.json) |
+| Bloons Monkey City | 60738 | [60738-bloons-monkey-city.json](./60738-bloons-monkey-city.json) |
 | Bloons Player Pack 1 | 335453 | [335453-bloons-player-pack-1.json](./335453-bloons-player-pack-1.json) |
 | Bloons Player Pack 2 | 335452 | [335452-bloons-player-pack-2.json](./335452-bloons-player-pack-2.json) |
 | Bloons Player Pack 3 | 335451 | [335451-bloons-player-pack-3.json](./335451-bloons-player-pack-3.json) |
