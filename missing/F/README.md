@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-16 Renegade | 66706 | [66706-f-16-renegade.json](./66706-f-16-renegade.json) |
 | F-18 Hornet | 12322 | [12322-f-18-hornet.json](./12322-f-18-hornet.json) |
 | F-18 Thunder Strike | 49931 | [49931-f-18-thunder-strike.json](./49931-f-18-thunder-strike.json) |
+| F-19 Stealth Fighter | 10206 | [10206-f-19-stealth-fighter.json](./10206-f-19-stealth-fighter.json) |
 | F-22 Air Dominance Fighter | 693 | [693-f-22-air-dominance-fighter.json](./693-f-22-air-dominance-fighter.json) |
 | F-22 Interceptor | 19494 | [19494-f-22-interceptor.json](./19494-f-22-interceptor.json) |
 | F-22 Raptor | 70468 | [70468-f-22-raptor.json](./70468-f-22-raptor.json) |
@@ -3985,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Destiny | 307244 | [307244-final-destiny.json](./307244-final-destiny.json) |
 | Final Directive | 83588 | [83588-final-directive.json](./83588-final-directive.json) |
 | Final District | 345045 | [345045-final-district.json](./345045-final-district.json) |
+| Final Doom | 218185 | [218185-final-doom.json](./218185-final-doom.json) |
 | Final Doom | 8191 | [8191-final-doom.json](./8191-final-doom.json) |
 | Final Doomer | 300445 | [300445-final-doomer.json](./300445-final-doomer.json) |
 | Final Dream | 340973 | [340973-final-dream.json](./340973-final-dream.json) |
