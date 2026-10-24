@@ -2007,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HatMania | 223388 | [223388-hatmania.json](./223388-hatmania.json) |
 | Hatomo Battles the Yomi Demons | 281316 | [281316-hatomo-battles-the-yomi-demons.json](./281316-hatomo-battles-the-yomi-demons.json) |
 | Hatone | 260620 | [260620-hatone.json](./260620-hatone.json) |
+| Hatred | 7857 | [7857-hatred.json](./7857-hatred.json) |
 | Hatris | 265016 | [265016-hatris.json](./265016-hatris.json) |
 | Hatris | 265017 | [265017-hatris.json](./265017-hatris.json) |
 | Hatris | 40063 | [40063-hatris.json](./40063-hatris.json) |
