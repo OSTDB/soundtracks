@@ -3833,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator X | 130795 | [130795-gladiator-x.json](./130795-gladiator-x.json) |
 | Gladiator: Blades of Fury | 115586 | [115586-gladiator-blades-of-fury.json](./115586-gladiator-blades-of-fury.json) |
 | Gladiator: Road to the Colosseum | 120836 | [120836-gladiator-road-to-the-colosseum.json](./120836-gladiator-road-to-the-colosseum.json) |
+| Gladiator: Sword of Vengeance | 5846 | [5846-gladiator-sword-of-vengeance.json](./5846-gladiator-sword-of-vengeance.json) |
 | Gladiator's Arena | 236530 | [236530-gladiators-arena.json](./236530-gladiators-arena.json) |
 | Gladiatori | 188893 | [188893-gladiatori.json](./188893-gladiatori.json) |
 | Gladiatorial Conquest: Battle Arena of Legends | 283266 | [283266-gladiatorial-conquest-battle-arena-of-legends.json](./283266-gladiatorial-conquest-battle-arena-of-legends.json) |
@@ -4414,6 +4415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Home | 210886 | [210886-go-home.json](./210886-go-home.json) |
 | Go Home - Rage incoming | 35400 | [35400-go-home-rage-incoming.json](./35400-go-home-rage-incoming.json) |
 | Go Home 1986 | 392928 | [392928-go-home-1986.json](./392928-go-home-1986.json) |
+| Go Home Annie: An SCP Game | 211029 | [211029-go-home-annie-an-scp-game.json](./211029-go-home-annie-an-scp-game.json) |
 | Go Home Dinosaurs! | 16396 | [16396-go-home-dinosaurs.json](./16396-go-home-dinosaurs.json) |
 | Go Home, Mr. Fisk! | 173215 | [173215-go-home-mr-fisk.json](./173215-go-home-mr-fisk.json) |
 | Go home, you're drunk! | 134345 | [134345-go-home-youre-drunk.json](./134345-go-home-youre-drunk.json) |
