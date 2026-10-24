@@ -1256,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ollie's Follies | 25896 | [25896-ollies-follies.json](./25896-ollies-follies.json) |
 | Ollie's Manor | 196536 | [196536-ollies-manor.json](./196536-ollies-manor.json) |
 | Olliefrog Toad Skater | 204522 | [204522-olliefrog-toad-skater.json](./204522-olliefrog-toad-skater.json) |
+| OlliOlli | 7768 | [7768-olliolli.json](./7768-olliolli.json) |
 | OlliOlli World | 145782 | [145782-olliolli-world.json](./145782-olliolli-world.json) |
 | OlliOlli World: Close Encounter Skate Deck | 353282 | [353282-olliolli-world-close-encounter-skate-deck.json](./353282-olliolli-world-close-encounter-skate-deck.json) |
 | OlliOlli World: Expansion Pass | 293734 | [293734-olliolli-world-expansion-pass.json](./293734-olliolli-world-expansion-pass.json) |
@@ -2841,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Ushkurat | 242104 | [242104-operation-ushkurat.json](./242104-operation-ushkurat.json) |
 | Operation Valor | 121310 | [121310-operation-valor.json](./121310-operation-valor.json) |
 | Operation Whirlwind | 23964 | [23964-operation-whirlwind.json](./23964-operation-whirlwind.json) |
+| Operation Wolf | 12190 | [12190-operation-wolf.json](./12190-operation-wolf.json) |
 | Operation Wolf 3 | 40377 | [40377-operation-wolf-3.json](./40377-operation-wolf-3.json) |
 | Operation Wolf Returns: First Mission | 218213 | [218213-operation-wolf-returns-first-mission.json](./218213-operation-wolf-returns-first-mission.json) |
 | Operation Wolf Returns: First Mission - Rescue Edition | 270583 | [270583-operation-wolf-returns-first-mission-rescue-edition.json](./270583-operation-wolf-returns-first-mission-rescue-edition.json) |
