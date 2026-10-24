@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dale and Peakot | 270736 | [270736-dale-and-peakot.json](./270736-dale-and-peakot.json) |
 | Dale Earnhardt Winner's Circle | 198718 | [198718-dale-earnhardt-winners-circle.json](./198718-dale-earnhardt-winners-circle.json) |
 | Dale Earnhardt Winner's Circle: Pacesetter Games | 198719 | [198719-dale-earnhardt-winners-circle-pacesetter-games.json](./198719-dale-earnhardt-winners-circle-pacesetter-games.json) |
+| Dale Hardshovel HD | 35229 | [35229-dale-hardshovel-hd.json](./35229-dale-hardshovel-hd.json) |
 | Dalek Attack | 12029 | [12029-dalek-attack.json](./12029-dalek-attack.json) |
 | Dalek Mod | 232664 | [232664-dalek-mod.json](./232664-dalek-mod.json) |
 | Dalek: Dissolution Earth | 239580 | [239580-dalek-dissolution-earth.json](./239580-dalek-dissolution-earth.json) |
@@ -11165,6 +11166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downland | 93146 | [93146-downland.json](./93146-downland.json) |
 | Download RAM Idle | 400222 | [400222-download-ram-idle.json](./400222-download-ram-idle.json) |
 | Download RAM Idle 2 | 400221 | [400221-download-ram-idle-2.json](./400221-download-ram-idle-2.json) |
+| Downpour | 35221 | [35221-downpour.json](./35221-downpour.json) |
 | Downpour Dash! | 303485 | [303485-downpour-dash.json](./303485-downpour-dash.json) |
 | Downpurr | 201169 | [201169-downpurr.json](./201169-downpurr.json) |
 | DownRiver | 179928 | [179928-downriver.json](./179928-downriver.json) |
@@ -11341,6 +11343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Slump: Arale-chan | 138108 | [138108-dr-slump-arale-chan.json](./138108-dr-slump-arale-chan.json) |
 | Dr. Slump: Arale-chan | 61519 | [61519-dr-slump-arale-chan.json](./61519-dr-slump-arale-chan.json) |
 | Dr. Smart Space Adventure: In the Space | 241413 | [241413-dr-smart-space-adventure-in-the-space.json](./241413-dr-smart-space-adventure-in-the-space.json) |
+| Dr. Spacezoo | 35220 | [35220-dr-spacezoo.json](./35220-dr-spacezoo.json) |
 | Dr. Stanley's House I | 141091 | [141091-dr-stanleys-house-i.json](./141091-dr-stanleys-house-i.json) |
 | Dr. Stone Battle Craft | 278451 | [278451-dr-stone-battle-craft.json](./278451-dr-stone-battle-craft.json) |
 | Dr. Stop! | 68730 | [68730-dr-stop.json](./68730-dr-stop.json) |
@@ -14663,6 +14666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonborne: Mithril Satchel | 382563 | [382563-dungeonborne-mithril-satchel.json](./382563-dungeonborne-mithril-satchel.json) |
 | Dungeonbowl: Knockout Edition | 28084 | [28084-dungeonbowl-knockout-edition.json](./28084-dungeonbowl-knockout-edition.json) |
 | DungeonBox | 355028 | [355028-dungeonbox.json](./355028-dungeonbox.json) |
+| Dungeoncraft | 35249 | [35249-dungeoncraft.json](./35249-dungeoncraft.json) |
 | DungeonCrawlers | 363008 | [363008-dungeoncrawlers.json](./363008-dungeoncrawlers.json) |
 | Dungeoned | 213790 | [213790-dungeoned.json](./213790-dungeoned.json) |
 | Dungeoneer | 377334 | [377334-dungeoneer.json](./377334-dungeoneer.json) |
