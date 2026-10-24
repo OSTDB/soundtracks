@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon Gold | 33852 | [33852-falcon-gold.json](./33852-falcon-gold.json) |
 | Falcon Operation: Counterstrike | 73738 | [73738-falcon-operation-counterstrike.json](./73738-falcon-operation-counterstrike.json) |
 | Falcon Operation: Firefight | 70781 | [70781-falcon-operation-firefight.json](./70781-falcon-operation-firefight.json) |
+| Falcon Patrol | 24496 | [24496-falcon-patrol.json](./24496-falcon-patrol.json) |
 | Falcon Patrol 2 | 18963 | [18963-falcon-patrol-2.json](./18963-falcon-patrol-2.json) |
 | Falcon Patrol II | 40945 | [40945-falcon-patrol-ii.json](./40945-falcon-patrol-ii.json) |
 | Falcon Simulator | 86859 | [86859-falcon-simulator.json](./86859-falcon-simulator.json) |
@@ -9902,6 +9903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger: The Great Quest | 11467 | [11467-frogger-the-great-quest.json](./11467-frogger-the-great-quest.json) |
 | Frogger: Walkable City | 408851 | [408851-frogger-walkable-city.json](./408851-frogger-walkable-city.json) |
 | Frogger's Adventures 2: The Lost Wand | 11468 | [11468-froggers-adventures-2-the-lost-wand.json](./11468-froggers-adventures-2-the-lost-wand.json) |
+| Frogger's Adventures: Temple of the Frog | 6411 | [6411-froggers-adventures-temple-of-the-frog.json](./6411-froggers-adventures-temple-of-the-frog.json) |
 | Frogger's Journey: The Forgotten Relic | 11480 | [11480-froggers-journey-the-forgotten-relic.json](./11480-froggers-journey-the-forgotten-relic.json) |
 | Froggerty Arcade | 161384 | [161384-froggerty-arcade.json](./161384-froggerty-arcade.json) |
 | Froggerty Arcade 2 | 189185 | [189185-froggerty-arcade-2.json](./189185-froggerty-arcade-2.json) |
@@ -10606,6 +10608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Throttle: Hell on Wheels | 72722 | [72722-full-throttle-hell-on-wheels.json](./72722-full-throttle-hell-on-wheels.json) |
 | Full Throttle: Payback | 92659 | [92659-full-throttle-payback.json](./92659-full-throttle-payback.json) |
 | Full Tilt Poker | 33940 | [33940-full-tilt-poker.json](./33940-full-tilt-poker.json) |
+| Full Tilt! Pinball | 23335 | [23335-full-tilt-pinball.json](./23335-full-tilt-pinball.json) |
 | Full Tilt! Pinball 2 | 74316 | [74316-full-tilt-pinball-2.json](./74316-full-tilt-pinball-2.json) |
 | Full Uso: Complete Four Seasons | 379636 | [379636-full-uso-complete-four-seasons.json](./379636-full-uso-complete-four-seasons.json) |
 | Full Voice Throttle | 181352 | [181352-full-voice-throttle.json](./181352-full-voice-throttle.json) |
