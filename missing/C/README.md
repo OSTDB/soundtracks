@@ -1439,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Forever Trilogy | 100603 | [100603-captain-forever-trilogy.json](./100603-captain-forever-trilogy.json) |
 | Captain Frogger | 160199 | [160199-captain-frogger.json](./160199-captain-frogger.json) |
 | Captain Gazman: Day of the Rage | 207715 | [207715-captain-gazman-day-of-the-rage.json](./207715-captain-gazman-day-of-the-rage.json) |
+| Captain Goodnight and the Islands of Fear | 24698 | [24698-captain-goodnight-and-the-islands-of-fear.json](./24698-captain-goodnight-and-the-islands-of-fear.json) |
 | Captain Goose | 260161 | [260161-captain-goose.json](./260161-captain-goose.json) |
 | Captain Hannon: The Belanzano | 129759 | [129759-captain-hannon-the-belanzano.json](./129759-captain-hannon-the-belanzano.json) |
 | Captain Hardcore | 278686 | [278686-captain-hardcore.json](./278686-captain-hardcore.json) |
@@ -7063,6 +7064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circumference Encompass | 306955 | [306955-circumference-encompass.json](./306955-circumference-encompass.json) |
 | Circus | 12944 | [12944-circus.json](./12944-circus.json) |
 | Circus | 206349 | [206349-circus.json](./206349-circus.json) |
+| Circus | 24690 | [24690-circus.json](./24690-circus.json) |
 | Circus Atari | 78374 | [78374-circus-atari.json](./78374-circus-atari.json) |
 | Circus Attractions | 12003 | [12003-circus-attractions.json](./12003-circus-attractions.json) |
 | Circus Baby's Diner | 194384 | [194384-circus-babys-diner.json](./194384-circus-babys-diner.json) |
@@ -7967,6 +7969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleanup Crew | 286088 | [286088-cleanup-crew.json](./286088-cleanup-crew.json) |
 | Cleanup On Aisle 3 | 414428 | [414428-cleanup-on-aisle-3.json](./414428-cleanup-on-aisle-3.json) |
 | Cleanup Project | 255256 | [255256-cleanup-project.json](./255256-cleanup-project.json) |
+| Clear for Action | 24675 | [24675-clear-for-action.json](./24675-clear-for-action.json) |
 | Clear Mosaic | 253990 | [253990-clear-mosaic.json](./253990-clear-mosaic.json) |
 | Clear Plan | 271070 | [271070-clear-plan.json](./271070-clear-plan.json) |
 | Clear Rain | 387047 | [387047-clear-rain.json](./387047-clear-rain.json) |
@@ -13686,6 +13689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimanimals | 372082 | [372082-crimanimals.json](./372082-crimanimals.json) |
 | Crimax | 130912 | [130912-crimax.json](./130912-crimax.json) |
 | cRiMe | 93459 | [93459-crime.json](./93459-crime.json) |
+| Crime and Punishment | 24663 | [24663-crime-and-punishment.json](./24663-crime-and-punishment.json) |
 | Crime Boss: Heavy Hitters Pack | 276298 | [276298-crime-boss-heavy-hitters-pack.json](./276298-crime-boss-heavy-hitters-pack.json) |
 | Crime Boss: Rockay City - Baker's Bundle | 334548 | [334548-crime-boss-rockay-city-bakers-bundle.json](./334548-crime-boss-rockay-city-bakers-bundle.json) |
 | Crime Boss: Rockay City - Cagnali's Order | 315500 | [315500-crime-boss-rockay-city-cagnalis-order.json](./315500-crime-boss-rockay-city-cagnalis-order.json) |
