@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeda | 71714 | [71714-takeda.json](./71714-takeda.json) |
 | Takeda 2 | 67323 | [67323-takeda-2.json](./67323-takeda-2.json) |
 | Takeda 3 | 24923 | [24923-takeda-3.json](./24923-takeda-3.json) |
+| Takeda Nobuhiro no Super League Soccer | 42355 | [42355-takeda-nobuhiro-no-super-league-soccer.json](./42355-takeda-nobuhiro-no-super-league-soccer.json) |
 | Takeda Shingen | 37729 | [37729-takeda-shingen.json](./37729-takeda-shingen.json) |
 | Takeda Shingen | 81334 | [81334-takeda-shingen.json](./81334-takeda-shingen.json) |
 | TakeDogs | 337715 | [337715-takedogs.json](./337715-takedogs.json) |
