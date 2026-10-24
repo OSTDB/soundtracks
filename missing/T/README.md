@@ -4230,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thapster TV: 2nd Wave | 127741 | [127741-thapster-tv-2nd-wave.json](./127741-thapster-tv-2nd-wave.json) |
 | Tharaba | 280321 | [280321-tharaba.json](./280321-tharaba.json) |
 | Tharolian Tunnels | 23318 | [23318-tharolian-tunnels.json](./23318-tharolian-tunnels.json) |
+| Tharsis | 15903 | [15903-tharsis.json](./15903-tharsis.json) |
 | That | 294538 | [294538-that.json](./294538-that.json) |
 | That Bastard is Trying to Steal Our Gold! | 33301 | [33301-that-bastard-is-trying-to-steal-our-gold.json](./33301-that-bastard-is-trying-to-steal-our-gold.json) |
 | That Blooming Feeling | 182510 | [182510-that-blooming-feeling.json](./182510-that-blooming-feeling.json) |
@@ -6146,6 +6147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Council: Episode 5 - Checkmate | 120976 | [120976-the-council-episode-5-checkmate.json](./120976-the-council-episode-5-checkmate.json) |
 | The Count | 18518 | [18518-the-count.json](./18518-the-count.json) |
 | The Count is Down for Blood | 411533 | [411533-the-count-is-down-for-blood.json](./411533-the-count-is-down-for-blood.json) |
+| The Count Lucanor | 21767 | [21767-the-count-lucanor.json](./21767-the-count-lucanor.json) |
 | The Count of Monster Disco | 36428 | [36428-the-count-of-monster-disco.json](./36428-the-count-of-monster-disco.json) |
 | The Count of Monte Carlo | 151696 | [151696-the-count-of-monte-carlo.json](./151696-the-count-of-monte-carlo.json) |
 | The Count of Monte Clicker | 339082 | [339082-the-count-of-monte-clicker.json](./339082-the-count-of-monte-clicker.json) |
@@ -7047,6 +7049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Imperial City | 117156 | [117156-the-elder-scrolls-online-imperial-city.json](./117156-the-elder-scrolls-online-imperial-city.json) |
 | The Elder Scrolls Online: Lost Depths | 237338 | [237338-the-elder-scrolls-online-lost-depths.json](./237338-the-elder-scrolls-online-lost-depths.json) |
 | The Elder Scrolls Online: Markarth | 237336 | [237336-the-elder-scrolls-online-markarth.json](./237336-the-elder-scrolls-online-markarth.json) |
+| The Elder Scrolls Online: Morrowind | 27030 | [27030-the-elder-scrolls-online-morrowind.json](./27030-the-elder-scrolls-online-morrowind.json) |
 | The Elder Scrolls Online: Morrowind - Collector's Edition | 136339 | [136339-the-elder-scrolls-online-morrowind-collectors-edition.json](./136339-the-elder-scrolls-online-morrowind-collectors-edition.json) |
 | The Elder Scrolls Online: Morrowind - Digital Collector's Edition | 53729 | [53729-the-elder-scrolls-online-morrowind-digital-collectors-edition.json](./53729-the-elder-scrolls-online-morrowind-digital-collectors-edition.json) |
 | The Elder Scrolls Online: Necrom | 233587 | [233587-the-elder-scrolls-online-necrom.json](./233587-the-elder-scrolls-online-necrom.json) |
@@ -8409,6 +8412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guided Fate Paradox | 19802 | [19802-the-guided-fate-paradox.json](./19802-the-guided-fate-paradox.json) |
 | The Guides | 96263 | [96263-the-guides.json](./96263-the-guides.json) |
 | The Guiding Spirit | 391890 | [391890-the-guiding-spirit.json](./391890-the-guiding-spirit.json) |
+| The Guild 2 | 6258 | [6258-the-guild-2.json](./6258-the-guild-2.json) |
 | The Guild 2: Platinium Edition | 53742 | [53742-the-guild-2-platinium-edition.json](./53742-the-guild-2-platinium-edition.json) |
 | The Guild 2: Renaissance | 11620 | [11620-the-guild-2-renaissance.json](./11620-the-guild-2-renaissance.json) |
 | The Guild 2: Venice | 9324 | [9324-the-guild-2-venice.json](./9324-the-guild-2-venice.json) |
@@ -11440,7 +11444,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -13330,6 +13333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3 | 248568 | [248568-the-sims-3.json](./248568-the-sims-3.json) |
 | The Sims 3 | 327976 | [327976-the-sims-3.json](./327976-the-sims-3.json) |
 | The Sims 3: 70s, 80s, & 90s Stuff | 13124 | [13124-the-sims-3-70s-80s-and-90s-stuff.json](./13124-the-sims-3-70s-80s-and-90s-stuff.json) |
+| The Sims 3: Ambitions | 13098 | [13098-the-sims-3-ambitions.json](./13098-the-sims-3-ambitions.json) |
 | The Sims 3: Aurora Skies | 14583 | [14583-the-sims-3-aurora-skies.json](./14583-the-sims-3-aurora-skies.json) |
 | The Sims 3: Expansion Bundle | 136301 | [136301-the-sims-3-expansion-bundle.json](./136301-the-sims-3-expansion-bundle.json) |
 | The Sims 3: Into the Future | 13116 | [13116-the-sims-3-into-the-future.json](./13116-the-sims-3-into-the-future.json) |
@@ -13663,6 +13667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Solitaire Conspiracy: Return of the Merry | 243808 | [243808-the-solitaire-conspiracy-return-of-the-merry.json](./243808-the-solitaire-conspiracy-return-of-the-merry.json) |
 | The Solitaire Conspiracy: The Atlantis Project | 243807 | [243807-the-solitaire-conspiracy-the-atlantis-project.json](./243807-the-solitaire-conspiracy-the-atlantis-project.json) |
 | The Solitary Existence of a Little Universe | 370226 | [370226-the-solitary-existence-of-a-little-universe.json](./370226-the-solitary-existence-of-a-little-universe.json) |
+| The Solus Project | 11221 | [11221-the-solus-project.json](./11221-the-solus-project.json) |
 | The Solyani's Code | 403431 | [403431-the-solyanis-code.json](./403431-the-solyanis-code.json) |
 | The Song of Awakening | 311178 | [311178-the-song-of-awakening.json](./311178-the-song-of-awakening.json) |
 | The Song of Calirum | 182890 | [182890-the-song-of-calirum.json](./182890-the-song-of-calirum.json) |
@@ -13800,6 +13805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Standard Model | 307208 | [307208-the-standard-model.json](./307208-the-standard-model.json) |
 | The Standing Stones | 24786 | [24786-the-standing-stones.json](./24786-the-standing-stones.json) |
 | The Stanley Parable | 18453 | [18453-the-stanley-parable.json](./18453-the-stanley-parable.json) |
+| The Stanley Parable Demonstration | 14544 | [14544-the-stanley-parable-demonstration.json](./14544-the-stanley-parable-demonstration.json) |
 | The Star Bowling DX | 386680 | [386680-the-star-bowling-dx.json](./386680-the-star-bowling-dx.json) |
 | The Star Named Eos | 226505 | [226505-the-star-named-eos.json](./226505-the-star-named-eos.json) |
 | The Starfallen Prince | 385241 | [385241-the-starfallen-prince.json](./385241-the-starfallen-prince.json) |
@@ -20688,6 +20694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Fighter 2000 MK VIII | 45752 | [45752-top-fighter-2000-mk-viii.json](./45752-top-fighter-2000-mk-viii.json) |
 | Top Flight Turtle | 234171 | [234171-top-flight-turtle.json](./234171-top-flight-turtle.json) |
 | Top Gear | 27461 | [27461-top-gear.json](./27461-top-gear.json) |
+| Top Gear 2 | 13057 | [13057-top-gear-2.json](./13057-top-gear-2.json) |
 | Top Gear GT Championship | 49342 | [49342-top-gear-gt-championship.json](./49342-top-gear-gt-championship.json) |
 | Top Gear Pocket | 93431 | [93431-top-gear-pocket.json](./93431-top-gear-pocket.json) |
 | Top Gear Rally | 248591 | [248591-top-gear-rally.json](./248591-top-gear-rally.json) |
@@ -21897,6 +21904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of the Sage | 195140 | [195140-tower-of-the-sage.json](./195140-tower-of-the-sage.json) |
 | Tower of the Sorceror | 202778 | [202778-tower-of-the-sorceror.json](./202778-tower-of-the-sorceror.json) |
 | Tower of the Wizard: Gameboy Adventure | 106886 | [106886-tower-of-the-wizard-gameboy-adventure.json](./106886-tower-of-the-wizard-gameboy-adventure.json) |
+| Tower of Time | 27359 | [27359-tower-of-time.json](./27359-tower-of-time.json) |
 | Tower of Titans | 375320 | [375320-tower-of-titans.json](./375320-tower-of-titans.json) |
 | Tower of Tori | 339289 | [339289-tower-of-tori.json](./339289-tower-of-tori.json) |
 | Tower of Traceability | 242955 | [242955-tower-of-traceability.json](./242955-tower-of-traceability.json) |
@@ -24122,6 +24130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transport 2 | 308339 | [308339-transport-2.json](./308339-transport-2.json) |
 | Transport Defender | 65828 | [65828-transport-defender.json](./65828-transport-defender.json) |
 | Transport Empire | 19524 | [19524-transport-empire.json](./19524-transport-empire.json) |
+| Transport Fever | 18727 | [18727-transport-fever.json](./18727-transport-fever.json) |
 | Transport Fever 2 | 117820 | [117820-transport-fever-2.json](./117820-transport-fever-2.json) |
 | Transport Fever 2: Console Edition | 229117 | [229117-transport-fever-2-console-edition.json](./229117-transport-fever-2-console-edition.json) |
 | Transport Fever 2: Console Edition - Deluxe Edition | 241357 | [241357-transport-fever-2-console-edition-deluxe-edition.json](./241357-transport-fever-2-console-edition-deluxe-edition.json) |
@@ -27053,6 +27062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type To Report | 308045 | [308045-type-to-report.json](./308045-type-to-report.json) |
 | Type-Rope | 98219 | [98219-type-rope.json](./98219-type-rope.json) |
 | Type: Jump | 242076 | [242076-type-jump.json](./242076-type-jump.json) |
+| Type: Rider | 16765 | [16765-type-rider.json](./16765-type-rider.json) |
 | Type: Turbo | 391740 | [391740-type-turbo.json](./391740-type-turbo.json) |
 | Type: Unstable Vampire | 180822 | [180822-type-unstable-vampire.json](./180822-type-unstable-vampire.json) |
 | TypeCaster | 374215 | [374215-typecaster.json](./374215-typecaster.json) |
