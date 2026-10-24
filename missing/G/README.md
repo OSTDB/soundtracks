@@ -4577,6 +4577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | goalunited PRO | 29778 | [29778-goalunited-pro.json](./29778-goalunited-pro.json) |
 | Goat Detective Supah Star | 115453 | [115453-goat-detective-supah-star.json](./115453-goat-detective-supah-star.json) |
 | Goat Herd and the Gods | 169889 | [169889-goat-herd-and-the-gods.json](./169889-goat-herd-and-the-gods.json) |
+| Goat Life | 101619 | [101619-goat-life.json](./101619-goat-life.json) |
 | Goat of Duty | 118115 | [118115-goat-of-duty.json](./118115-goat-of-duty.json) |
 | Goat on Boat | 176284 | [176284-goat-on-boat.json](./176284-goat-on-boat.json) |
 | Goat over it | 143340 | [143340-goat-over-it.json](./143340-goat-over-it.json) |
@@ -4913,6 +4914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godless Tower | 200381 | [200381-godless-tower.json](./200381-godless-tower.json) |
 | Godlike | 133768 | [133768-godlike.json](./133768-godlike.json) |
 | Godlike Burger | 143010 | [143010-godlike-burger.json](./143010-godlike-burger.json) |
+| Godly Corp | 88122 | [88122-godly-corp.json](./88122-godly-corp.json) |
 | GodMod | 215581 | [215581-godmod.json](./215581-godmod.json) |
 | Godmode Epochs | 252688 | [252688-godmode-epochs.json](./252688-godmode-epochs.json) |
 | Godmorgon: Spooky Ride | 187227 | [187227-godmorgon-spooky-ride.json](./187227-godmorgon-spooky-ride.json) |
@@ -9221,6 +9223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gym Nights | 274487 | [274487-gym-nights.json](./274487-gym-nights.json) |
 | Gym Orgasm | 340407 | [340407-gym-orgasm.json](./340407-gym-orgasm.json) |
 | Gym Rat Simulator | 410888 | [410888-gym-rat-simulator.json](./410888-gym-rat-simulator.json) |
+| Gym Simulator | 101396 | [101396-gym-simulator.json](./101396-gym-simulator.json) |
 | Gym Simulator 24 | 263793 | [263793-gym-simulator-24.json](./263793-gym-simulator-24.json) |
 | Gym Simulator 26 | 397070 | [397070-gym-simulator-26.json](./397070-gym-simulator-26.json) |
 | Gym Simulator Ultimate | 312441 | [312441-gym-simulator-ultimate.json](./312441-gym-simulator-ultimate.json) |
