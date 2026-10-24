@@ -11057,6 +11057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission 3000 | 71781 | [71781-mission-3000.json](./71781-mission-3000.json) |
 | Mission 3000 A.D. | 40591 | [40591-mission-3000-a-d.json](./40591-mission-3000-a-d.json) |
 | Mission 9 | 131897 | [131897-mission-9.json](./131897-mission-9.json) |
+| Mission A.D. | 28469 | [28469-mission-a-d.json](./28469-mission-a-d.json) |
 | Mission Against Terror | 51395 | [51395-mission-against-terror.json](./51395-mission-against-terror.json) |
 | Mission Against Terror 2 | 213474 | [213474-mission-against-terror-2.json](./213474-mission-against-terror-2.json) |
 | Mission Angel Angelic Pink | 82908 | [82908-mission-angel-angelic-pink.json](./82908-mission-angel-angelic-pink.json) |
@@ -11952,6 +11953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molebasher | 312262 | [312262-molebasher.json](./312262-molebasher.json) |
 | Molecule - a chemistry challenge | 98265 | [98265-molecule-a-chemistry-challenge.json](./98265-molecule-a-chemistry-challenge.json) |
 | Molecule Make Lab | 201133 | [201133-molecule-make-lab.json](./201133-molecule-make-lab.json) |
+| Molecule Man | 28485 | [28485-molecule-man.json](./28485-molecule-man.json) |
 | Molecule: A Chemical Challenge | 86584 | [86584-molecule-a-chemical-challenge.json](./86584-molecule-a-chemical-challenge.json) |
 | Molefest | 351746 | [351746-molefest.json](./351746-molefest.json) |
 | Molehill Empire 2 | 347203 | [347203-molehill-empire-2.json](./347203-molehill-empire-2.json) |
@@ -14304,6 +14306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Massacre | 12745 | [12745-motor-massacre.json](./12745-motor-massacre.json) |
 | Motor Mayhem | 43305 | [43305-motor-mayhem.json](./43305-motor-mayhem.json) |
 | Motor Money Crash! | 185552 | [185552-motor-money-crash.json](./185552-motor-money-crash.json) |
+| Motor Psycho | 28529 | [28529-motor-psycho.json](./28529-motor-psycho.json) |
 | Motor Racing Battle | 364981 | [364981-motor-racing-battle.json](./364981-motor-racing-battle.json) |
 | Motor Raid | 39798 | [39798-motor-raid.json](./39798-motor-raid.json) |
 | Motor Rally | 246387 | [246387-motor-rally.json](./246387-motor-rally.json) |
