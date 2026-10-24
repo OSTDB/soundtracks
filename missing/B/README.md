@@ -756,7 +756,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11038,6 +11037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Church | 102727 | [102727-bouncing-church.json](./102727-bouncing-church.json) |
 | Bouncing Duck Simulator | 55728 | [55728-bouncing-duck-simulator.json](./55728-bouncing-duck-simulator.json) |
 | Bouncing DVD : The Game | 114565 | [114565-bouncing-dvd-the-game.json](./114565-bouncing-dvd-the-game.json) |
+| Bouncing Kamungas! | 24658 | [24658-bouncing-kamungas.json](./24658-bouncing-kamungas.json) |
 | Bouncing Music | 236744 | [236744-bouncing-music.json](./236744-bouncing-music.json) |
 | Bouncing Odyssey | 81034 | [81034-bouncing-odyssey.json](./81034-bouncing-odyssey.json) |
 | Bouncing Over It with friends | 106406 | [106406-bouncing-over-it-with-friends.json](./106406-bouncing-over-it-with-friends.json) |
@@ -11820,6 +11820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BraveCart | 347864 | [347864-bravecart.json](./347864-bravecart.json) |
 | BraveEmini | 280127 | [280127-braveemini.json](./280127-braveemini.json) |
 | Braveheart | 213218 | [213218-braveheart.json](./213218-braveheart.json) |
+| Braveheart | 24700 | [24700-braveheart.json](./24700-braveheart.json) |
 | Bravehood | 244151 | [244151-bravehood.json](./244151-bravehood.json) |
 | Braveland | 8999 | [8999-braveland.json](./8999-braveland.json) |
 | Braveland Heroes | 110344 | [110344-braveland-heroes.json](./110344-braveland-heroes.json) |
@@ -12077,6 +12078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break-It | 339689 | [339689-break-it.json](./339689-break-it.json) |
 | Break.Up | 326288 | [326288-break-up.json](./326288-break-up.json) |
 | Breakage | 165521 | [165521-breakage.json](./165521-breakage.json) |
+| Breakaway | 24652 | [24652-breakaway.json](./24652-breakaway.json) |
 | Breakaway Hockey League | 415167 | [415167-breakaway-hockey-league.json](./415167-breakaway-hockey-league.json) |
 | BreakBall | 304651 | [304651-breakball.json](./304651-breakball.json) |
 | Breakball Lost In Space | 146514 | [146514-breakball-lost-in-space.json](./146514-breakball-lost-in-space.json) |
