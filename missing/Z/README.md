@@ -645,8 +645,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenonia | 38725 | [38725-zenonia.json](./38725-zenonia.json) |
 | Zenonia | 415849 | [415849-zenonia.json](./415849-zenonia.json) |
 | Zenonia 2: The Lost Memories | 39232 | [39232-zenonia-2-the-lost-memories.json](./39232-zenonia-2-the-lost-memories.json) |
+| Zenonia 3: The Midgard Story | 38724 | [38724-zenonia-3-the-midgard-story.json](./38724-zenonia-3-the-midgard-story.json) |
 | Zenonia 4 | 38722 | [38722-zenonia-4.json](./38722-zenonia-4.json) |
 | Zenonia 5 | 75155 | [75155-zenonia-5.json](./75155-zenonia-5.json) |
+| Zenonia 5: Wheel of Destiny | 38721 | [38721-zenonia-5-wheel-of-destiny.json](./38721-zenonia-5-wheel-of-destiny.json) |
+| Zenonia S: Rifts in Time | 38690 | [38690-zenonia-s-rifts-in-time.json](./38690-zenonia-s-rifts-in-time.json) |
 | Zenonzard | 135498 | [135498-zenonzard.json](./135498-zenonzard.json) |
 | Zenpu-kun | 324968 | [324968-zenpu-kun.json](./324968-zenpu-kun.json) |
 | Zenquarium | 78552 | [78552-zenquarium.json](./78552-zenquarium.json) |
