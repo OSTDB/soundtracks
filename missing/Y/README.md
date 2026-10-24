@@ -1404,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Forbidden Memories: Alpha Mod | 308396 | [308396-yu-gi-oh-forbidden-memories-alpha-mod.json](./308396-yu-gi-oh-forbidden-memories-alpha-mod.json) |
 | Yu-Gi-Oh! Forbidden Memories: Deep Fried Mod | 309602 | [309602-yu-gi-oh-forbidden-memories-deep-fried-mod.json](./309602-yu-gi-oh-forbidden-memories-deep-fried-mod.json) |
 | Yu-Gi-Oh! GX Card Almanac | 328252 | [328252-yu-gi-oh-gx-card-almanac.json](./328252-yu-gi-oh-gx-card-almanac.json) |
+| Yu-Gi-Oh! GX Spirit Caller | 20670 | [20670-yu-gi-oh-gx-spirit-caller.json](./20670-yu-gi-oh-gx-spirit-caller.json) |
 | Yu-Gi-Oh! GX Tag Force | 78167 | [78167-yu-gi-oh-gx-tag-force.json](./78167-yu-gi-oh-gx-tag-force.json) |
 | Yu-Gi-Oh! GX Tag Force 2 | 21945 | [21945-yu-gi-oh-gx-tag-force-2.json](./21945-yu-gi-oh-gx-tag-force-2.json) |
 | Yu-Gi-Oh! GX Tag Force 3 | 44494 | [44494-yu-gi-oh-gx-tag-force-3.json](./44494-yu-gi-oh-gx-tag-force-3.json) |
