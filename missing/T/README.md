@@ -4159,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Chainsaw Dodge | 307613 | [307613-texas-chainsaw-dodge.json](./307613-texas-chainsaw-dodge.json) |
 | Texas Cheat 'Em | 92652 | [92652-texas-cheat-em.json](./92652-texas-cheat-em.json) |
 | Texas Hold 'Em Poker | 131511 | [131511-texas-hold-em-poker.json](./131511-texas-hold-em-poker.json) |
+| Texas Hold 'Em Poker | 18051 | [18051-texas-hold-em-poker.json](./18051-texas-hold-em-poker.json) |
 | Texas Hold 'em Tournament | 21293 | [21293-texas-hold-em-tournament.json](./21293-texas-hold-em-tournament.json) |
 | Texas Hold'em | 137058 | [137058-texas-holdem.json](./137058-texas-holdem.json) |
 | Texas Hold'Em | 246381 | [246381-texas-holdem.json](./246381-texas-holdem.json) |
@@ -6014,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coffin of Andrew and Renee | 356043 | [356043-the-coffin-of-andrew-and-renee.json](./356043-the-coffin-of-andrew-and-renee.json) |
 | The Coil of Possibility | 137968 | [137968-the-coil-of-possibility.json](./137968-the-coil-of-possibility.json) |
 | The Coin | 383159 | [383159-the-coin.json](./383159-the-coin.json) |
+| The Coin Game | 99192 | [99192-the-coin-game.json](./99192-the-coin-game.json) |
 | The Cold Case | 302140 | [302140-the-cold-case.json](./302140-the-cold-case.json) |
 | The Cold Forest | 211946 | [211946-the-cold-forest.json](./211946-the-cold-forest.json) |
 | The Cold Hand Reef | 326980 | [326980-the-cold-hand-reef.json](./326980-the-cold-hand-reef.json) |
@@ -8848,6 +8850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hypnic Chain | 336729 | [336729-the-hypnic-chain.json](./336729-the-hypnic-chain.json) |
 | The Hypno Shop | 228364 | [228364-the-hypno-shop.json](./228364-the-hypno-shop.json) |
 | The I of It | 225292 | [225292-the-i-of-it.json](./225292-the-i-of-it.json) |
+| The I of the Dragon | 17093 | [17093-the-i-of-the-dragon.json](./17093-the-i-of-the-dragon.json) |
 | The IBM Basic Quiz | 79603 | [79603-the-ibm-basic-quiz.json](./79603-the-ibm-basic-quiz.json) |
 | The Icarus Experiment | 317307 | [317307-the-icarus-experiment.json](./317307-the-icarus-experiment.json) |
 | The Ice Cream Culprit | 309164 | [309164-the-ice-cream-culprit.json](./309164-the-ice-cream-culprit.json) |
@@ -11476,6 +11479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -11696,6 +11700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Office | 203564 | [203564-the-office.json](./203564-the-office.json) |
 | The Office | 94901 | [94901-the-office.json](./94901-the-office.json) |
 | The Office Killer | 344386 | [344386-the-office-killer.json](./344386-the-office-killer.json) |
+| The Office Quest | 99521 | [99521-the-office-quest.json](./99521-the-office-quest.json) |
 | The Office Rooms | 373305 | [373305-the-office-rooms.json](./373305-the-office-rooms.json) |
 | The Office Simulation | 148319 | [148319-the-office-simulation.json](./148319-the-office-simulation.json) |
 | The Official Everton FC Intelligensia | 314965 | [314965-the-official-everton-fc-intelligensia.json](./314965-the-official-everton-fc-intelligensia.json) |
