@@ -1621,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ika Blade | 268913 | [268913-ika-blade.json](./268913-ika-blade.json) |
 | Ika's Odyssey | 340510 | [340510-ikas-odyssey.json](./340510-ikas-odyssey.json) |
 | IkachanDS | 339243 | [339243-ikachands.json](./339243-ikachands.json) |
+| Ikai | 157133 | [157133-ikai.json](./157133-ikai.json) |
 | Ikanoid | 78600 | [78600-ikanoid.json](./78600-ikanoid.json) |
 | Ikao: The lost souls | 114533 | [114533-ikao-the-lost-souls.json](./114533-ikao-the-lost-souls.json) |
 | Ikari III: The Rescue | 274104 | [274104-ikari-iii-the-rescue.json](./274104-ikari-iii-the-rescue.json) |
