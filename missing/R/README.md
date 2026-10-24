@@ -6242,6 +6242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripley's Believe It or Not!: The Riddle of Master Lu | 12472 | [12472-ripleys-believe-it-or-not-the-riddle-of-master-lu.json](./12472-ripleys-believe-it-or-not-the-riddle-of-master-lu.json) |
 | Ripout | 150433 | [150433-ripout.json](./150433-ripout.json) |
 | Ripped/Apart | 133397 | [133397-ripped-apart.json](./133397-ripped-apart.json) |
+| Ripper | 6829 | [6829-ripper.json](./6829-ripper.json) |
 | Ripper Ribbit | 130899 | [130899-ripper-ribbit.json](./130899-ripper-ribbit.json) |
 | Ripper! | 24668 | [24668-ripper.json](./24668-ripper.json) |
 | Ripple | 198510 | [198510-ripple.json](./198510-ripple.json) |
