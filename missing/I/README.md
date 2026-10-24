@@ -2008,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Magus | 344360 | [344360-immortal-magus.json](./344360-immortal-magus.json) |
 | Immortal Mantis | 196671 | [196671-immortal-mantis.json](./196671-immortal-mantis.json) |
 | Immortal Markets Stock Market Simulator Game | 312444 | [312444-immortal-markets-stock-market-simulator-game.json](./312444-immortal-markets-stock-market-simulator-game.json) |
+| Immortal Planet | 27282 | [27282-immortal-planet.json](./27282-immortal-planet.json) |
 | Immortal Quest | 106398 | [106398-immortal-quest.json](./106398-immortal-quest.json) |
 | Immortal Realms: Vampire Wars | 119258 | [119258-immortal-realms-vampire-wars.json](./119258-immortal-realms-vampire-wars.json) |
 | Immortal Realms: Vampire Wars - Fangs and Bones | 238480 | [238480-immortal-realms-vampire-wars-fangs-and-bones.json](./238480-immortal-realms-vampire-wars-fangs-and-bones.json) |
@@ -5395,6 +5396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Six Random Characters and a Single Floor Dungeon: That's the Whole Game | 140848 | [140848-its-six-random-characters-and-a-single-floor-dungeon-thats-the-whole-game.json](./140848-its-six-random-characters-and-a-single-floor-dungeon-thats-the-whole-game.json) |
 | It's Skrot-Robot Time! | 293978 | [293978-its-skrot-robot-time.json](./293978-its-skrot-robot-time.json) |
 | It's Slime-Creep Time! | 293972 | [293972-its-slime-creep-time.json](./293972-its-slime-creep-time.json) |
+| It's Spring Again | 27885 | [27885-its-spring-again.json](./27885-its-spring-again.json) |
 | It's Still a Space Thing | 200053 | [200053-its-still-a-space-thing.json](./200053-its-still-a-space-thing.json) |
 | It's Summer | 153159 | [153159-its-summer.json](./153159-its-summer.json) |
 | It's T-Time | 230843 | [230843-its-t-time.json](./230843-its-t-time.json) |
