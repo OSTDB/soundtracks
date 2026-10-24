@@ -9889,6 +9889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skies of Arcadia Legends | 4152 | [4152-skies-of-arcadia-legends.json](./4152-skies-of-arcadia-legends.json) |
 | Skies of Blue: Remake | 204220 | [204220-skies-of-blue-remake.json](./204220-skies-of-blue-remake.json) |
 | Skies of Chaos | 111844 | [111844-skies-of-chaos.json](./111844-skies-of-chaos.json) |
+| Skies of Fury DX | 80881 | [80881-skies-of-fury-dx.json](./80881-skies-of-fury-dx.json) |
 | Skies of Glory | 62446 | [62446-skies-of-glory.json](./62446-skies-of-glory.json) |
 | Skies of Valor | 60865 | [60865-skies-of-valor.json](./60865-skies-of-valor.json) |
 | Skies Scrapper | 371030 | [371030-skies-scrapper.json](./371030-skies-scrapper.json) |
@@ -11278,6 +11279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slow.Bullet VR | 392797 | [392797-slow-bullet-vr.json](./392797-slow-bullet-vr.json) |
 | SlowAndSteady.io | 313322 | [313322-slowandsteady-io.json](./313322-slowandsteady-io.json) |
 | Slowburn | 292762 | [292762-slowburn.json](./292762-slowburn.json) |
+| Slowdrive | 28297 | [28297-slowdrive.json](./28297-slowdrive.json) |
 | Słowica | 214508 | [214508-s-owica.json](./214508-s-owica.json) |
 | Slowly | 140553 | [140553-slowly.json](./140553-slowly.json) |
 | Slowly Fighter | 333926 | [333926-slowly-fighter.json](./333926-slowly-fighter.json) |
@@ -13328,6 +13330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire | 312270 | [312270-solitaire.json](./312270-solitaire.json) |
 | Solitaire | 313972 | [313972-solitaire.json](./313972-solitaire.json) |
 | Solitaire | 74206 | [74206-solitaire.json](./74206-solitaire.json) |
+| Solitaire | 80743 | [80743-solitaire.json](./80743-solitaire.json) |
 | Solitaire | 80744 | [80744-solitaire.json](./80744-solitaire.json) |
 | Solitaire | 86374 | [86374-solitaire.json](./86374-solitaire.json) |
 | Solitaire - Classic Game | 91123 | [91123-solitaire-classic-game.json](./91123-solitaire-classic-game.json) |
@@ -27229,6 +27232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman | 207162 | [207162-superman.json](./207162-superman.json) |
 | Superman | 361718 | [361718-superman.json](./361718-superman.json) |
 | Superman | 68440 | [68440-superman.json](./68440-superman.json) |
+| Superman | 81521 | [81521-superman.json](./81521-superman.json) |
 | Superman in Supervillain Showdown | 220123 | [220123-superman-in-supervillain-showdown.json](./220123-superman-in-supervillain-showdown.json) |
 | Superman Returns: Fortress of Solitude | 19074 | [19074-superman-returns-fortress-of-solitude.json](./19074-superman-returns-fortress-of-solitude.json) |
 | Superman Returns: The Videogame | 47867 | [47867-superman-returns-the-videogame.json](./47867-superman-returns-the-videogame.json) |
@@ -29023,6 +29027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphony of Science | 271850 | [271850-symphony-of-science.json](./271850-symphony-of-science.json) |
 | Symphony of Souls | 253573 | [253573-symphony-of-souls.json](./253573-symphony-of-souls.json) |
 | Symphony of Stars | 114255 | [114255-symphony-of-stars.json](./114255-symphony-of-stars.json) |
+| Symphony of the Machine | 28238 | [28238-symphony-of-the-machine.json](./28238-symphony-of-the-machine.json) |
 | Symphony of the Night | 181156 | [181156-symphony-of-the-night.json](./181156-symphony-of-the-night.json) |
 | Symphony of the Origin | 39783 | [39783-symphony-of-the-origin.json](./39783-symphony-of-the-origin.json) |
 | Symphony of the Stars | 321464 | [321464-symphony-of-the-stars.json](./321464-symphony-of-the-stars.json) |
