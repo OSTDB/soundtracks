@@ -3417,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orion Drift | 322571 | [322571-orion-drift.json](./322571-orion-drift.json) |
 | Orion Everton: Mysteries of Metrosomia | 291774 | [291774-orion-everton-mysteries-of-metrosomia.json](./291774-orion-everton-mysteries-of-metrosomia.json) |
 | Orion Sandbox | 395783 | [395783-orion-sandbox.json](./395783-orion-sandbox.json) |
+| Orion Sandbox Enhanced | 109848 | [109848-orion-sandbox-enhanced.json](./109848-orion-sandbox-enhanced.json) |
 | Orion shadow of jerboa | 127339 | [127339-orion-shadow-of-jerboa.json](./127339-orion-shadow-of-jerboa.json) |
 | Orion Trail | 34971 | [34971-orion-trail.json](./34971-orion-trail.json) |
 | Orion: A Sci-Fi Visual Novel | 34962 | [34962-orion-a-sci-fi-visual-novel.json](./34962-orion-a-sci-fi-visual-novel.json) |
