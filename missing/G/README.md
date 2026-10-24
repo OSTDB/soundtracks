@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Storm | 264082 | [264082-galactic-storm.json](./264082-galactic-storm.json) |
 | Galactic Story | 221190 | [221190-galactic-story.json](./221190-galactic-story.json) |
 | Galactic Striker | 329174 | [329174-galactic-striker.json](./329174-galactic-striker.json) |
+| Galactic Taz Ball | 23643 | [23643-galactic-taz-ball.json](./23643-galactic-taz-ball.json) |
 | Galactic Tower Defense | 114096 | [114096-galactic-tower-defense.json](./114096-galactic-tower-defense.json) |
 | Galactic Traffic Control | 325839 | [325839-galactic-traffic-control.json](./325839-galactic-traffic-control.json) |
 | Galactic Tree Frog | 109906 | [109906-galactic-tree-frog.json](./109906-galactic-tree-frog.json) |
