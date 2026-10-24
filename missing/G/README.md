@@ -2867,6 +2867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Out! 2 | 226741 | [226741-get-out-2.json](./226741-get-out-2.json) |
 | Get Over Here | 34715 | [34715-get-over-here.json](./34715-get-over-here.json) |
 | Get Over Here! | 286794 | [286794-get-over-here.json](./286794-get-over-here.json) |
+| Get Packed: Fully Loaded | 152278 | [152278-get-packed-fully-loaded.json](./152278-get-packed-fully-loaded.json) |
 | Get Ready for Kindergarten | 230432 | [230432-get-ready-for-kindergarten.json](./230432-get-ready-for-kindergarten.json) |
 | Get Ready For School, Charlie Brown! | 209596 | [209596-get-ready-for-school-charlie-brown.json](./209596-get-ready-for-school-charlie-brown.json) |
 | Get Rektorized | 207522 | [207522-get-rektorized.json](./207522-get-rektorized.json) |
@@ -3177,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Sweeper | 32214 | [32214-ghost-sweeper.json](./32214-ghost-sweeper.json) |
 | Ghost Sweeper Mikami | 37634 | [37634-ghost-sweeper-mikami.json](./37634-ghost-sweeper-mikami.json) |
 | Ghost Switch | 178907 | [178907-ghost-switch.json](./178907-ghost-switch.json) |
+| Ghost Sync | 150061 | [150061-ghost-sync.json](./150061-ghost-sync.json) |
 | Ghost Tag | 266069 | [266069-ghost-tag.json](./266069-ghost-tag.json) |
 | Ghost Talker | 295768 | [295768-ghost-talker.json](./295768-ghost-talker.json) |
 | Ghost Teen Escape from Limbo | 300996 | [300996-ghost-teen-escape-from-limbo.json](./300996-ghost-teen-escape-from-limbo.json) |
@@ -4891,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godfall: Ascended Edition | 139946 | [139946-godfall-ascended-edition.json](./139946-godfall-ascended-edition.json) |
 | Godfall: Challenger Edition | 185638 | [185638-godfall-challenger-edition.json](./185638-godfall-challenger-edition.json) |
 | Godfall: Deluxe Edition | 139853 | [139853-godfall-deluxe-edition.json](./139853-godfall-deluxe-edition.json) |
+| Godfall: Fire and Darkness | 152238 | [152238-godfall-fire-and-darkness.json](./152238-godfall-fire-and-darkness.json) |
 | Godfall: Primal Update | 312371 | [312371-godfall-primal-update.json](./312371-godfall-primal-update.json) |
 | Godfall: Ultimate Edition | 195237 | [195237-godfall-ultimate-edition.json](./195237-godfall-ultimate-edition.json) |
 | GodFinger | 66697 | [66697-godfinger.json](./66697-godfinger.json) |
