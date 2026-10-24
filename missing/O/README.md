@@ -3698,6 +3698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otiiz's adventure - Sushi Champ | 113178 | [113178-otiizs-adventure-sushi-champ.json](./113178-otiizs-adventure-sushi-champ.json) |
 | Otis | 64428 | [64428-otis.json](./64428-otis.json) |
 | Otisdub Tag Plus | 417651 | [417651-otisdub-tag-plus.json](./417651-otisdub-tag-plus.json) |
+| Otoboke Ninja Colosseum | 38118 | [38118-otoboke-ninja-colosseum.json](./38118-otoboke-ninja-colosseum.json) |
 | Otoca D'or | 395764 | [395764-otoca-dor.json](./395764-otoca-dor.json) |
 | Otocky | 41234 | [41234-otocky.json](./41234-otocky.json) |
 | Otogi Banashi Taisen | 228629 | [228629-otogi-banashi-taisen.json](./228629-otogi-banashi-taisen.json) |
