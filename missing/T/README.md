@@ -6041,6 +6041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Contract | 177530 | [177530-the-contract.json](./177530-the-contract.json) |
 | The Contract | 271756 | [271756-the-contract.json](./271756-the-contract.json) |
 | The Contract Bound | 224479 | [224479-the-contract-bound.json](./224479-the-contract-bound.json) |
+| The Contractor | 43072 | [43072-the-contractor.json](./43072-the-contractor.json) |
 | The Contractor | 44091 | [44091-the-contractor.json](./44091-the-contractor.json) |
 | The Contrast of 2 Worlds | 178939 | [178939-the-contrast-of-2-worlds.json](./178939-the-contrast-of-2-worlds.json) |
 | The Conundrum Collection | 327783 | [327783-the-conundrum-collection.json](./327783-the-conundrum-collection.json) |
@@ -7019,6 +7020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Tales | 264606 | [264606-the-elder-tales.json](./264606-the-elder-tales.json) |
 | The Eldritch Ascent | 374787 | [374787-the-eldritch-ascent.json](./374787-the-eldritch-ascent.json) |
 | The Eldritch Monarch | 324692 | [324692-the-eldritch-monarch.json](./324692-the-eldritch-monarch.json) |
+| The Eldritch Zookeeper | 43074 | [43074-the-eldritch-zookeeper.json](./43074-the-eldritch-zookeeper.json) |
 | The Election Game | 12951 | [12951-the-election-game.json](./12951-the-election-game.json) |
 | The Electric Odyssey | 219554 | [219554-the-electric-odyssey.json](./219554-the-electric-odyssey.json) |
 | The Electric State: Kid Cosmo | 336003 | [336003-the-electric-state-kid-cosmo.json](./336003-the-electric-state-kid-cosmo.json) |
@@ -7618,6 +7620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Templar: Special Edition | 154539 | [154539-the-first-templar-special-edition.json](./154539-the-first-templar-special-edition.json) |
 | The First Thing You Do When You Become A Girl | 97827 | [97827-the-first-thing-you-do-when-you-become-a-girl.json](./97827-the-first-thing-you-do-when-you-become-a-girl.json) |
 | The first thrust of God | 81917 | [81917-the-first-thrust-of-god.json](./81917-the-first-thrust-of-god.json) |
+| The First Time I Died | 43071 | [43071-the-first-time-i-died.json](./43071-the-first-time-i-died.json) |
 | The first titans | 161398 | [161398-the-first-titans.json](./161398-the-first-titans.json) |
 | The Fish and the Furious | 132826 | [132826-the-fish-and-the-furious.json](./132826-the-fish-and-the-furious.json) |
 | The Fish Files | 50037 | [50037-the-fish-files.json](./50037-the-fish-files.json) |
@@ -8614,6 +8617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hotel | 360649 | [360649-the-hotel.json](./360649-the-hotel.json) |
 | The Hotel 2 | 118436 | [118436-the-hotel-2.json](./118436-the-hotel-2.json) |
 | The Hotel: Floor 13 | 272576 | [272576-the-hotel-floor-13.json](./272576-the-hotel-floor-13.json) |
+| The Houchi Play | 43076 | [43076-the-houchi-play.json](./43076-the-houchi-play.json) |
 | The Hound of Shadow | 12147 | [12147-the-hound-of-shadow.json](./12147-the-hound-of-shadow.json) |
 | The Hour Has Come | 110951 | [110951-the-hour-has-come.json](./110951-the-hour-has-come.json) |
 | The Hour of the Rat | 129444 | [129444-the-hour-of-the-rat.json](./129444-the-hour-of-the-rat.json) |
@@ -10819,6 +10823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magus Circle | 295074 | [295074-the-magus-circle.json](./295074-the-magus-circle.json) |
 | The Mahjong | 84459 | [84459-the-mahjong.json](./84459-the-mahjong.json) |
 | The Mahjong Touhai-den | 37935 | [37935-the-mahjong-touhai-den.json](./37935-the-mahjong-touhai-den.json) |
+| The Mahjong: Tsuushin Taikyoku Kinoudzuke | 43046 | [43046-the-mahjong-tsuushin-taikyoku-kinoudzuke.json](./43046-the-mahjong-tsuushin-taikyoku-kinoudzuke.json) |
 | The Maid | 335680 | [335680-the-maid.json](./335680-the-maid.json) |
 | The Maid-san's Caving Adventure | 90644 | [90644-the-maid-sans-caving-adventure.json](./90644-the-maid-sans-caving-adventure.json) |
 | The Maiden and the Cow | 349087 | [349087-the-maiden-and-the-cow.json](./349087-the-maiden-and-the-cow.json) |
@@ -15919,6 +15924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thieves' Paradise | 200934 | [200934-thieves-paradise.json](./200934-thieves-paradise.json) |
 | Thigh Climbers | 126342 | [126342-thigh-climbers.json](./126342-thigh-climbers.json) |
 | Thimbleweed Park 2 | 411759 | [411759-thimbleweed-park-2.json](./411759-thimbleweed-park-2.json) |
+| Thin Judgment | 43090 | [43090-thin-judgment.json](./43090-thin-judgment.json) |
 | Thin Line | 333759 | [333759-thin-line.json](./333759-thin-line.json) |
 | Thin Threads | 332415 | [332415-thin-threads.json](./332415-thin-threads.json) |
 | Thine Cometh | 184258 | [184258-thine-cometh.json](./184258-thine-cometh.json) |
