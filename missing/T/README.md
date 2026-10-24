@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Something Literally 2 | 341285 | [341285-take-something-literally-2.json](./341285-take-something-literally-2.json) |
 | Take Stock | 348369 | [348369-take-stock.json](./348369-take-stock.json) |
 | Take the Cake | 76290 | [76290-take-the-cake.json](./76290-take-the-cake.json) |
+| Take the Dream IX | 33887 | [33887-take-the-dream-ix.json](./33887-take-the-dream-ix.json) |
 | Take the Earth | 258439 | [258439-take-the-earth.json](./258439-take-the-earth.json) |
 | Take the King! | 270737 | [270737-take-the-king.json](./270737-take-the-king.json) |
 | Take the Throne | 142301 | [142301-take-the-throne.json](./142301-take-the-throne.json) |
@@ -5408,6 +5409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Blood | 392172 | [392172-the-book-of-blood.json](./392172-the-book-of-blood.json) |
 | The Book of Commands: Lost Symbol | 32894 | [32894-the-book-of-commands-lost-symbol.json](./32894-the-book-of-commands-lost-symbol.json) |
 | The Book of Death for Dummies | 273643 | [273643-the-book-of-death-for-dummies.json](./273643-the-book-of-death-for-dummies.json) |
+| The Book of Desires | 33874 | [33874-the-book-of-desires.json](./33874-the-book-of-desires.json) |
 | The Book of Distance | 161568 | [161568-the-book-of-distance.json](./161568-the-book-of-distance.json) |
 | The Book of Lulu | 281295 | [281295-the-book-of-lulu.json](./281295-the-book-of-lulu.json) |
 | The Book of Outcasts | 397697 | [397697-the-book-of-outcasts.json](./397697-the-book-of-outcasts.json) |
@@ -10289,6 +10291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Whomp's Fortress | 299484 | [299484-the-legend-of-zelda-whomps-fortress.json](./299484-the-legend-of-zelda-whomps-fortress.json) |
 | The Legend of Zelda: Winter Solstice | 254478 | [254478-the-legend-of-zelda-winter-solstice.json](./254478-the-legend-of-zelda-winter-solstice.json) |
 | The Legend of Zelda: Z for 2 | 413804 | [413804-the-legend-of-zelda-z-for-2.json](./413804-the-legend-of-zelda-z-for-2.json) |
+| The Legend: A University Story | 33797 | [33797-the-legend-a-university-story.json](./33797-the-legend-a-university-story.json) |
 | The Legendary Assassin KAL | 181785 | [181785-the-legendary-assassin-kal.json](./181785-the-legendary-assassin-kal.json) |
 | The Legendary Axe | 42121 | [42121-the-legendary-axe.json](./42121-the-legendary-axe.json) |
 | The Legendary Blacksmith | 28651 | [28651-the-legendary-blacksmith.json](./28651-the-legendary-blacksmith.json) |
@@ -11358,6 +11361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -12712,6 +12716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sacred Geography of Kazakhstan | 214701 | [214701-the-sacred-geography-of-kazakhstan.json](./214701-the-sacred-geography-of-kazakhstan.json) |
 | The Sacred Hero | 26872 | [26872-the-sacred-hero.json](./26872-the-sacred-hero.json) |
 | The Sacred Mirror of Kofun | 70081 | [70081-the-sacred-mirror-of-kofun.json](./70081-the-sacred-mirror-of-kofun.json) |
+| The Sacred Stone: A Story Adventure | 33777 | [33777-the-sacred-stone-a-story-adventure.json](./33777-the-sacred-stone-a-story-adventure.json) |
 | The Sacred Tears True | 9483 | [9483-the-sacred-tears-true.json](./9483-the-sacred-tears-true.json) |
 | The Sacrifice | 294370 | [294370-the-sacrifice.json](./294370-the-sacrifice.json) |
 | The Sacrifice | 89210 | [89210-the-sacrifice.json](./89210-the-sacrifice.json) |
@@ -15838,6 +15843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Came From Below | 190409 | [190409-they-came-from-below.json](./190409-they-came-from-below.json) |
 | They Came From Dimension X | 213978 | [213978-they-came-from-dimension-x.json](./213978-they-came-from-dimension-x.json) |
 | They Came from the Ground | 328620 | [328620-they-came-from-the-ground.json](./328620-they-came-from-the-ground.json) |
+| They Came From the Moon | 33790 | [33790-they-came-from-the-moon.json](./33790-they-came-from-the-moon.json) |
 | They came from the Skies | 54197 | [54197-they-came-from-the-skies.json](./54197-they-came-from-the-skies.json) |
 | They Come at Poop Time | 185355 | [185355-they-come-at-poop-time.json](./185355-they-come-at-poop-time.json) |
 | They Come in Fives | 370915 | [370915-they-come-in-fives.json](./370915-they-come-in-fives.json) |
@@ -26426,6 +26432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Bride: Vormslegend | 202621 | [202621-twilight-bride-vormslegend.json](./202621-twilight-bride-vormslegend.json) |
 | Twilight Canyon | 306421 | [306421-twilight-canyon.json](./306421-twilight-canyon.json) |
 | Twilight City | 315643 | [315643-twilight-city.json](./315643-twilight-city.json) |
+| Twilight City: Love as a Cure | 33875 | [33875-twilight-city-love-as-a-cure.json](./33875-twilight-city-love-as-a-cure.json) |
 | Twilight Crusade | 227902 | [227902-twilight-crusade.json](./227902-twilight-crusade.json) |
 | Twilight Dream | 364683 | [364683-twilight-dream.json](./364683-twilight-dream.json) |
 | Twilight Drive | 148366 | [148366-twilight-drive.json](./148366-twilight-drive.json) |
