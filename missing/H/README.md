@@ -9550,6 +9550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Giraffe | 20808 | [20808-hungry-giraffe.json](./20808-hungry-giraffe.json) |
 | Hungry Harry 3D | 182710 | [182710-hungry-harry-3d.json](./182710-hungry-harry-3d.json) |
 | Hungry Hearts Diner 2: Moonlit Memories | 172603 | [172603-hungry-hearts-diner-2-moonlit-memories.json](./172603-hungry-hearts-diner-2-moonlit-memories.json) |
+| Hungry Hearts Diner: A Tale of Star-Crossed Souls | 142131 | [142131-hungry-hearts-diner-a-tale-of-star-crossed-souls.json](./142131-hungry-hearts-diner-a-tale-of-star-crossed-souls.json) |
 | Hungry Hearts Diner: Memories | 280280 | [280280-hungry-hearts-diner-memories.json](./280280-hungry-hearts-diner-memories.json) |
 | Hungry Hearts Ramen: Soulful Bowl | 370455 | [370455-hungry-hearts-ramen-soulful-bowl.json](./370455-hungry-hearts-ramen-soulful-bowl.json) |
 | Hungry Hearts Restaurant | 356276 | [356276-hungry-hearts-restaurant.json](./356276-hungry-hearts-restaurant.json) |
