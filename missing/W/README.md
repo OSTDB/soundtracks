@@ -3238,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -5203,6 +5204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's Mystery | 215654 | [215654-witchs-mystery.json](./215654-witchs-mystery.json) |
 | Witch's Pranks: Frog's Fortune - Collector's Edition | 35929 | [35929-witchs-pranks-frogs-fortune-collectors-edition.json](./35929-witchs-pranks-frogs-fortune-collectors-edition.json) |
 | Witch's Reign | 153858 | [153858-witchs-reign.json](./153858-witchs-reign.json) |
+| Witch's Rhythm Puzzle | 244594 | [244594-witchs-rhythm-puzzle.json](./244594-witchs-rhythm-puzzle.json) |
 | Witch's Tower | 355199 | [355199-witchs-tower.json](./355199-witchs-tower.json) |
 | Witch's Weapon | 196331 | [196331-witchs-weapon.json](./196331-witchs-weapon.json) |
 | WitchAction | 111614 | [111614-witchaction.json](./111614-witchaction.json) |
