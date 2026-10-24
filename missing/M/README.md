@@ -3850,6 +3850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel vs. Capcom Infinite: Space Suit Rocket Raccoon Costume | 386530 | [386530-marvel-vs-capcom-infinite-space-suit-rocket-raccoon-costume.json](./386530-marvel-vs-capcom-infinite-space-suit-rocket-raccoon-costume.json) |
 | Marvel vs. Capcom Infinite: Special X Costume | 386531 | [386531-marvel-vs-capcom-infinite-special-x-costume.json](./386531-marvel-vs-capcom-infinite-special-x-costume.json) |
 | Marvel vs. Capcom Infinite: Spencer Gottfried Costume | 386532 | [386532-marvel-vs-capcom-infinite-spencer-gottfried-costume.json](./386532-marvel-vs-capcom-infinite-spencer-gottfried-costume.json) |
+| Marvel vs. Capcom Origins | 21568 | [21568-marvel-vs-capcom-origins.json](./21568-marvel-vs-capcom-origins.json) |
 | Marvel vs. Capcom: Clash of Super Heroes | 8246 | [8246-marvel-vs-capcom-clash-of-super-heroes.json](./8246-marvel-vs-capcom-clash-of-super-heroes.json) |
 | Marvel vs. Capcom: Infinite - Arthur Fallen Angel Armor Costume | 386464 | [386464-marvel-vs-capcom-infinite-arthur-fallen-angel-armor-costume.json](./386464-marvel-vs-capcom-infinite-arthur-fallen-angel-armor-costume.json) |
 | Marvel vs. Capcom: Infinite - Black Panther | 161319 | [161319-marvel-vs-capcom-infinite-black-panther.json](./161319-marvel-vs-capcom-infinite-black-panther.json) |
