@@ -1916,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs 2: Zodiac Killer | 168214 | [168214-watch-dogs-2-zodiac-killer.json](./168214-watch-dogs-2-zodiac-killer.json) |
 | Watch Dogs: Access Granted Pack | 399905 | [399905-watch-dogs-access-granted-pack.json](./399905-watch-dogs-access-granted-pack.json) |
 | Watch Dogs: Bad Blood | 17473 | [17473-watch-dogs-bad-blood.json](./17473-watch-dogs-bad-blood.json) |
+| Watch Dogs: Complete Edition | 42951 | [42951-watch-dogs-complete-edition.json](./42951-watch-dogs-complete-edition.json) |
 | Watch Dogs: DEDSEC Edition | 103379 | [103379-watch-dogs-dedsec-edition.json](./103379-watch-dogs-dedsec-edition.json) |
 | Watch Dogs: Legion - Collector's Edition | 119354 | [119354-watch-dogs-legion-collectors-edition.json](./119354-watch-dogs-legion-collectors-edition.json) |
 | Watch Dogs: Legion - Gold Edition | 119575 | [119575-watch-dogs-legion-gold-edition.json](./119575-watch-dogs-legion-gold-edition.json) |
