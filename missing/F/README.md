@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Legion Revenants: Digital Deluxe Edition | 227175 | [227175-fallen-legion-revenants-digital-deluxe-edition.json](./227175-fallen-legion-revenants-digital-deluxe-edition.json) |
 | Fallen Legion Revenants: Vanguard Edition | 139961 | [139961-fallen-legion-revenants-vanguard-edition.json](./139961-fallen-legion-revenants-vanguard-edition.json) |
 | Fallen Legion: Flames of Rebellion | 52018 | [52018-fallen-legion-flames-of-rebellion.json](./52018-fallen-legion-flames-of-rebellion.json) |
+| Fallen Legion: Rise to Glory | 78128 | [78128-fallen-legion-rise-to-glory.json](./78128-fallen-legion-rise-to-glory.json) |
 | Fallen Legion: Rise to Glory - Digital Deluxe Edition | 227176 | [227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json](./227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json) |
 | Fallen Legion: Rise to Glory / Fallen Legion Revenants - Deluxe Edition | 197611 | [197611-fallen-legion-rise-to-glory-fallen-legion-revenants-deluxe-edition.json](./197611-fallen-legion-rise-to-glory-fallen-legion-revenants-deluxe-edition.json) |
 | Fallen Lights | 310695 | [310695-fallen-lights.json](./310695-fallen-lights.json) |
@@ -4521,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finder Love: Hara Fumina - Futari no Futari de... | 196716 | [196716-finder-love-hara-fumina-futari-no-futari-de.json](./196716-finder-love-hara-fumina-futari-no-futari-de.json) |
 | Finder Love: Hoshino Aki - Nangoku Trouble Rendezvous | 196715 | [196715-finder-love-hoshino-aki-nangoku-trouble-rendezvous.json](./196715-finder-love-hoshino-aki-nangoku-trouble-rendezvous.json) |
 | Finder Love: Kudo Risa - First Shoot ha Kimi to | 196717 | [196717-finder-love-kudo-risa-first-shoot-ha-kimi-to.json](./196717-finder-love-kudo-risa-first-shoot-ha-kimi-to.json) |
+| Finders | 35677 | [35677-finders.json](./35677-finders.json) |
 | Finders Keepers | 13845 | [13845-finders-keepers.json](./13845-finders-keepers.json) |
 | Finders Keepers | 184821 | [184821-finders-keepers.json](./184821-finders-keepers.json) |
 | Finders Reapers | 124210 | [124210-finders-reapers.json](./124210-finders-reapers.json) |
