@@ -8280,6 +8280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Assault | 118818 | [118818-pocket-assault.json](./118818-pocket-assault.json) |
 | Pocket Battle | 418587 | [418587-pocket-battle.json](./418587-pocket-battle.json) |
 | Pocket Battles: NFT War | 237445 | [237445-pocket-battles-nft-war.json](./237445-pocket-battles-nft-war.json) |
+| Pocket Bike Racer | 2729 | [2729-pocket-bike-racer.json](./2729-pocket-bike-racer.json) |
 | Pocket Billiard Funk: The 9 Ball | 50558 | [50558-pocket-billiard-funk-the-9-ball.json](./50558-pocket-billiard-funk-the-9-ball.json) |
 | Pocket Billiards! | 41559 | [41559-pocket-billiards.json](./41559-pocket-billiards.json) |
 | Pocket Bite d20 | 184616 | [184616-pocket-bite-d20.json](./184616-pocket-bite-d20.json) |
