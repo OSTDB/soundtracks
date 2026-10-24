@@ -1309,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Chaosbane - Slayer Edition | 139948 | [139948-warhammer-chaosbane-slayer-edition.json](./139948-warhammer-chaosbane-slayer-edition.json) |
 | Warhammer: Chaosbane - Tomb Kings | 154602 | [154602-warhammer-chaosbane-tomb-kings.json](./154602-warhammer-chaosbane-tomb-kings.json) |
 | Warhammer: Chaosbane - Witch Hunter | 171806 | [171806-warhammer-chaosbane-witch-hunter.json](./171806-warhammer-chaosbane-witch-hunter.json) |
+| Warhammer: Dark Omen | 11336 | [11336-warhammer-dark-omen.json](./11336-warhammer-dark-omen.json) |
 | Warhammer: Doomwheel | 98025 | [98025-warhammer-doomwheel.json](./98025-warhammer-doomwheel.json) |
 | Warhammer: End Times - Vermintide Collector's Edition | 53139 | [53139-warhammer-end-times-vermintide-collectors-edition.json](./53139-warhammer-end-times-vermintide-collectors-edition.json) |
 | Warhammer: End Times - Vermintide Death on the Reik | 148715 | [148715-warhammer-end-times-vermintide-death-on-the-reik.json](./148715-warhammer-end-times-vermintide-death-on-the-reik.json) |
@@ -3218,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -5461,6 +5463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry Twin Pack | 125955 | [125955-wizardry-twin-pack.json](./125955-wizardry-twin-pack.json) |
 | Wizardry V: Heart of the Maelstrom | 10495 | [10495-wizardry-v-heart-of-the-maelstrom.json](./10495-wizardry-v-heart-of-the-maelstrom.json) |
 | Wizardry Variants: Daphne | 150013 | [150013-wizardry-variants-daphne.json](./150013-wizardry-variants-daphne.json) |
+| Wizardry: Bane of the Cosmic Forge | 10496 | [10496-wizardry-bane-of-the-cosmic-forge.json](./10496-wizardry-bane-of-the-cosmic-forge.json) |
 | Wizardry: Boukyaku no Isan | 245027 | [245027-wizardry-boukyaku-no-isan.json](./245027-wizardry-boukyaku-no-isan.json) |
 | Wizardry: High School Exam | 272881 | [272881-wizardry-high-school-exam.json](./272881-wizardry-high-school-exam.json) |
 | Wizardry: Inochi no Kusabi | 85870 | [85870-wizardry-inochi-no-kusabi.json](./85870-wizardry-inochi-no-kusabi.json) |
@@ -5475,6 +5478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards | 131444 | [131444-wizards.json](./131444-wizards.json) |
 | Wizards & Warriors | 218341 | [218341-wizards-and-warriors.json](./218341-wizards-and-warriors.json) |
 | Wizards & Warriors | 80498 | [80498-wizards-and-warriors.json](./80498-wizards-and-warriors.json) |
+| Wizards & Warriors | 9720 | [9720-wizards-and-warriors.json](./9720-wizards-and-warriors.json) |
 | Wizards & Warriors III: Kuros - Visions of Power | 48092 | [48092-wizards-and-warriors-iii-kuros-visions-of-power.json](./48092-wizards-and-warriors-iii-kuros-visions-of-power.json) |
 | Wizards & Warriors X: Fortress of Fear | 48922 | [48922-wizards-and-warriors-x-fortress-of-fear.json](./48922-wizards-and-warriors-x-fortress-of-fear.json) |
 | Wizards 2: Better Dead Than Red | 105813 | [105813-wizards-2-better-dead-than-red.json](./105813-wizards-2-better-dead-than-red.json) |
