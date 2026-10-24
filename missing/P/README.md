@@ -6267,6 +6267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit of the Condemned | 59692 | [59692-pit-of-the-condemned.json](./59692-pit-of-the-condemned.json) |
 | Pit of the Lord | 389728 | [389728-pit-of-the-lord.json](./389728-pit-of-the-lord.json) |
 | Pit Panic | 401839 | [401839-pit-panic.json](./401839-pit-panic.json) |
+| Pit People | 17207 | [17207-pit-people.json](./17207-pit-people.json) |
 | Pit Pioneers | 391153 | [391153-pit-pioneers.json](./391153-pit-pioneers.json) |
 | Pit Pot | 46113 | [46113-pit-pot.json](./46113-pit-pot.json) |
 | Pit Rush | 183382 | [183382-pit-rush.json](./183382-pit-rush.json) |
@@ -9038,6 +9039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mystery Dungeon: Origins | 365792 | [365792-pokemon-mystery-dungeon-origins.json](./365792-pokemon-mystery-dungeon-origins.json) |
 | Pokémon Mystery Dungeon: Outlaw's Paradise | 294718 | [294718-pokemon-mystery-dungeon-outlaws-paradise.json](./294718-pokemon-mystery-dungeon-outlaws-paradise.json) |
 | Pokémon Mystery Dungeon: Red Rescue Team | 2319 | [2319-pokemon-mystery-dungeon-red-rescue-team.json](./2319-pokemon-mystery-dungeon-red-rescue-team.json) |
+| Pokémon Mystery Dungeon: Rescue Team DX | 128069 | [128069-pokemon-mystery-dungeon-rescue-team-dx.json](./128069-pokemon-mystery-dungeon-rescue-team-dx.json) |
 | Pokémon Mystery Dungeon: Special Episode 0 - In A Dark Past | 298965 | [298965-pokemon-mystery-dungeon-special-episode-0-in-a-dark-past.json](./298965-pokemon-mystery-dungeon-special-episode-0-in-a-dark-past.json) |
 | Pokémon Mystery Dungeon: Turnabout Dimension | 210550 | [210550-pokemon-mystery-dungeon-turnabout-dimension.json](./210550-pokemon-mystery-dungeon-turnabout-dimension.json) |
 | Pokémon Myth | 266156 | [266156-pokemon-myth.json](./266156-pokemon-myth.json) |
@@ -13160,6 +13162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Run | 393466 | [393466-project-run.json](./393466-project-run.json) |
 | Project: Shiba | 257228 | [257228-project-shiba.json](./257228-project-shiba.json) |
 | Project: Skyscape | 158618 | [158618-project-skyscape.json](./158618-project-skyscape.json) |
+| Project: Snowblind | 5991 | [5991-project-snowblind.json](./5991-project-snowblind.json) |
 | Project: SnowBound | 341444 | [341444-project-snowbound.json](./341444-project-snowbound.json) |
 | Project: Space Station | 26242 | [26242-project-space-station.json](./26242-project-space-station.json) |
 | Project: Special Forces | 163864 | [163864-project-special-forces.json](./163864-project-special-forces.json) |
