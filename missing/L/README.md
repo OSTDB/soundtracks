@@ -1822,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn Colors Shapes Preschool Games for Kids Games | 232169 | [232169-learn-colors-shapes-preschool-games-for-kids-games.json](./232169-learn-colors-shapes-preschool-games-for-kids-games.json) |
 | Learn Geography | 47904 | [47904-learn-geography.json](./47904-learn-geography.json) |
 | Learn Japanese Kana & Vocab with Sushi | 368886 | [368886-learn-japanese-kana-and-vocab-with-sushi.json](./368886-learn-japanese-kana-and-vocab-with-sushi.json) |
+| Learn Japanese to Survive! Hiragana Battle | 33622 | [33622-learn-japanese-to-survive-hiragana-battle.json](./33622-learn-japanese-to-survive-hiragana-battle.json) |
 | Learn Japanese to Survive! Katakana War | 27684 | [27684-learn-japanese-to-survive-katakana-war.json](./27684-learn-japanese-to-survive-katakana-war.json) |
 | Learn Kana the Fun Way! | 65805 | [65805-learn-kana-the-fun-way.json](./65805-learn-kana-the-fun-way.json) |
 | Learn Katakana!! | 252697 | [252697-learn-katakana.json](./252697-learn-katakana.json) |
@@ -6654,6 +6655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lands: Stories About the Sorceress, the Prince and the Minotaur - Collector's Edition | 416618 | [416618-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur-collectors-edition.json](./416618-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur-collectors-edition.json) |
 | Lost Lands: Stories of the First Brotherhood | 290430 | [290430-lost-lands-stories-of-the-first-brotherhood.json](./290430-lost-lands-stories-of-the-first-brotherhood.json) |
 | Lost Lands: The Four Horsemen | 35164 | [35164-lost-lands-the-four-horsemen.json](./35164-lost-lands-the-four-horsemen.json) |
+| Lost Lands: The Golden Curse | 33754 | [33754-lost-lands-the-golden-curse.json](./33754-lost-lands-the-golden-curse.json) |
 | Lost Lands: The Wanderer | 28654 | [28654-lost-lands-the-wanderer.json](./28654-lost-lands-the-wanderer.json) |
 | Lost Legacy: The Awakening of the Seals | 273765 | [273765-lost-legacy-the-awakening-of-the-seals.json](./273765-lost-legacy-the-awakening-of-the-seals.json) |
 | Lost Legend | 104822 | [104822-lost-legend.json](./104822-lost-legend.json) |
