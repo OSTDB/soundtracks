@@ -9314,7 +9314,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King in the Shades | 259852 | [259852-the-king-in-the-shades.json](./259852-the-king-in-the-shades.json) |
 | The King is Dead | 310792 | [310792-the-king-is-dead.json](./310792-the-king-is-dead.json) |
 | The king is gone | 141715 | [141715-the-king-is-gone.json](./141715-the-king-is-gone.json) |
-| The King is Watching | 282826 | [282826-the-king-is-watching.json](./282826-the-king-is-watching.json) |
 | The King is Watching | 366575 | [366575-the-king-is-watching.json](./366575-the-king-is-watching.json) |
 | The King is Watching: Crowns of History | 394315 | [394315-the-king-is-watching-crowns-of-history.json](./394315-the-king-is-watching-crowns-of-history.json) |
 | The King of Alzoria | 276724 | [276724-the-king-of-alzoria.json](./276724-the-king-of-alzoria.json) |
