@@ -4103,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Docy | 189875 | [189875-escape-from-docy.json](./189875-escape-from-docy.json) |
 | Escape From Duck | 394564 | [394564-escape-from-duck.json](./394564-escape-from-duck.json) |
 | Escape From Duckness | 395218 | [395218-escape-from-duckness.json](./395218-escape-from-duckness.json) |
+| Escape from Duckov | 329309 | [329309-escape-from-duckov.json](./329309-escape-from-duckov.json) |
 | Escape from DuFo | 163574 | [163574-escape-from-dufo.json](./163574-escape-from-dufo.json) |
 | Escape From Earth | 121458 | [121458-escape-from-earth.json](./121458-escape-from-earth.json) |
 | Escape from Elm Street | 320295 | [320295-escape-from-elm-street.json](./320295-escape-from-elm-street.json) |
@@ -5931,6 +5932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Examination Chambers | 182213 | [182213-examination-chambers.json](./182213-examination-chambers.json) |
 | Examination of Fear | 255665 | [255665-examination-of-fear.json](./255665-examination-of-fear.json) |
 | Example Block Game | 289018 | [289018-example-block-game.json](./289018-example-block-game.json) |
+| Exanima | 14174 | [14174-exanima.json](./14174-exanima.json) |
 | Exanimate | 311189 | [311189-exanimate.json](./311189-exanimate.json) |
 | Exanimora | 371959 | [371959-exanimora.json](./371959-exanimora.json) |
 | Exanimum: The Silent Call | 290410 | [290410-exanimum-the-silent-call.json](./290410-exanimum-the-silent-call.json) |
