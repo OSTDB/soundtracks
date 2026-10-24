@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zip Puzzle | 348119 | [348119-zip-puzzle.json](./348119-zip-puzzle.json) |
 | Zip Up | 395853 | [395853-zip-up.json](./395853-zip-up.json) |
 | Zip Zap | 45357 | [45357-zip-zap.json](./45357-zip-zap.json) |
+| Zip Zap | 95687 | [95687-zip-zap.json](./95687-zip-zap.json) |
 | Zip: Set One | 186160 | [186160-zip-set-one.json](./186160-zip-set-one.json) |
 | Zipangu Jima: Unmei ha Saikoro ga Kimeru!? | 350188 | [350188-zipangu-jima-unmei-ha-saikoro-ga-kimeru.json](./350188-zipangu-jima-unmei-ha-saikoro-ga-kimeru.json) |
 | ZiParate | 218122 | [218122-ziparate.json](./218122-ziparate.json) |
