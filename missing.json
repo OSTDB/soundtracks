@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-24T08:31:53.050Z",
-  "total_missing": 255055,
+  "generated_at": "2026-10-24T08:39:48.490Z",
+  "total_missing": 255045,
   "games": [
     {
       "igdb_id": 191680,
@@ -147675,11 +147675,6 @@
       "igdb_id": 178027,
       "game_name": "Bread",
       "file": "missing/B/178027-bread.json"
-    },
-    {
-      "igdb_id": 204524,
-      "game_name": "Bread & Fred",
-      "file": "missing/B/204524-bread-and-fred.json"
     },
     {
       "igdb_id": 373334,
@@ -553332,11 +553327,6 @@
       "file": "missing/J/390180-just-a-simple-turn-based-rpg.json"
     },
     {
-      "igdb_id": 220535,
-      "game_name": "Just a To the Moon Series Beach Episode",
-      "file": "missing/J/220535-just-a-to-the-moon-series-beach-episode.json"
-    },
-    {
       "igdb_id": 253927,
       "game_name": "Just A Walk In The Park",
       "file": "missing/J/253927-just-a-walk-in-the-park.json"
@@ -620380,11 +620370,6 @@
       "igdb_id": 139168,
       "game_name": "Lunistice",
       "file": "missing/L/139168-lunistice.json"
-    },
-    {
-      "igdb_id": 165287,
-      "game_name": "Lunistice",
-      "file": "missing/L/165287-lunistice.json"
     },
     {
       "igdb_id": 282674,
@@ -718165,16 +718150,6 @@
       "igdb_id": 248138,
       "game_name": "Need for Speed: Undercover",
       "file": "missing/N/248138-need-for-speed-undercover.json"
-    },
-    {
-      "igdb_id": 248142,
-      "game_name": "Need for Speed: Undercover",
-      "file": "missing/N/248142-need-for-speed-undercover.json"
-    },
-    {
-      "igdb_id": 242990,
-      "game_name": "Need for Speed: Underground",
-      "file": "missing/N/242990-need-for-speed-underground.json"
     },
     {
       "igdb_id": 229854,
@@ -870365,11 +870340,6 @@
       "igdb_id": 167150,
       "game_name": "Resonance of Fate 4K/HD Edition: Collector's Edition",
       "file": "missing/R/167150-resonance-of-fate-4k-hd-edition-collectors-edition.json"
-    },
-    {
-      "igdb_id": 207796,
-      "game_name": "Resonance of the Ocean",
-      "file": "missing/R/207796-resonance-of-the-ocean.json"
     },
     {
       "igdb_id": 193786,
@@ -1111717,11 +1111687,6 @@
       "file": "missing/T/388397-the-simpsons-exe.json"
     },
     {
-      "igdb_id": 192906,
-      "game_name": "The Sims 2",
-      "file": "missing/T/192906-the-sims-2.json"
-    },
-    {
       "igdb_id": 210459,
       "game_name": "The Sims 2",
       "file": "missing/T/210459-the-sims-2.json"
@@ -1119645,11 +1119610,6 @@
       "igdb_id": 46575,
       "game_name": "The Ur-Quan Masters",
       "file": "missing/T/46575-the-ur-quan-masters.json"
-    },
-    {
-      "igdb_id": 144555,
-      "game_name": "The Urbz: Sims in the City",
-      "file": "missing/T/144555-the-urbz-sims-in-the-city.json"
     },
     {
       "igdb_id": 248680,
@@ -1220877,11 +1220837,6 @@
       "file": "missing/W/30724-warpin-creation-vr.json"
     },
     {
-      "igdb_id": 146438,
-      "game_name": "Warpips",
-      "file": "missing/W/146438-warpips.json"
-    },
-    {
       "igdb_id": 172412,
       "game_name": "Warpitout",
       "file": "missing/W/172412-warpitout.json"
@@ -1223975,11 +1223930,6 @@
       "igdb_id": 290866,
       "game_name": "Way of the Exploding Stick",
       "file": "missing/W/290866-way-of-the-exploding-stick.json"
-    },
-    {
-      "igdb_id": 198388,
-      "game_name": "Way of the Hunter",
-      "file": "missing/W/198388-way-of-the-hunter.json"
     },
     {
       "igdb_id": 383019,
