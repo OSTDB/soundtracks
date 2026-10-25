@@ -2545,6 +2545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tearaway | 6363 | [6363-tearaway.json](./6363-tearaway.json) |
 | Tearaway Thomas | 57577 | [57577-tearaway-thomas.json](./57577-tearaway-thomas.json) |
 | Tearaway: Unfolded | 7606 | [7606-tearaway-unfolded.json](./7606-tearaway-unfolded.json) |
+| Tearaway: Unfolded - Crafted Edition | 24219 | [24219-tearaway-unfolded-crafted-edition.json](./24219-tearaway-unfolded-crafted-edition.json) |
 | Teardown | 122666 | [122666-teardown.json](./122666-teardown.json) |
 | Teardown: Creative Mode | 252848 | [252848-teardown-creative-mode.json](./252848-teardown-creative-mode.json) |
 | Teardown: Deluxe Edition | 270589 | [270589-teardown-deluxe-edition.json](./270589-teardown-deluxe-edition.json) |
@@ -20210,6 +20211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Walled City | 402258 | [402258-tokyo-walled-city.json](./402258-tokyo-walled-city.json) |
 | Tokyo Xanadu eX+ | 26915 | [26915-tokyo-xanadu-ex.json](./26915-tokyo-xanadu-ex.json) |
 | Tokyo Xanadu eX+: Limited Edition | 89846 | [89846-tokyo-xanadu-ex-limited-edition.json](./89846-tokyo-xanadu-ex-limited-edition.json) |
+| Tokyo Xtreme Racer 3 | 24184 | [24184-tokyo-xtreme-racer-3.json](./24184-tokyo-xtreme-racer-3.json) |
 | Tokyo Xtreme Racer Advance | 49341 | [49341-tokyo-xtreme-racer-advance.json](./49341-tokyo-xtreme-racer-advance.json) |
 | Tokyo Xtreme Racer Drift | 44632 | [44632-tokyo-xtreme-racer-drift.json](./44632-tokyo-xtreme-racer-drift.json) |
 | Tokyo Xtreme Racer Drift 2 | 21441 | [21441-tokyo-xtreme-racer-drift-2.json](./21441-tokyo-xtreme-racer-drift-2.json) |
