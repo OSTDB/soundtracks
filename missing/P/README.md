@@ -10075,6 +10075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pomegranate Tea | 235667 | [235667-pomegranate-tea.json](./235667-pomegranate-tea.json) |
 | Pomelo & Friends: Sevilla | 373137 | [373137-pomelo-and-friends-sevilla.json](./373137-pomelo-and-friends-sevilla.json) |
 | Pomeraider | 316381 | [316381-pomeraider.json](./316381-pomeraider.json) |
+| Pomeron no Senshi Tachi 2 | 392992 | [392992-pomeron-no-senshi-tachi-2.json](./392992-pomeron-no-senshi-tachi-2.json) |
 | Pommy | 86103 | [86103-pommy.json](./86103-pommy.json) |
 | Pomo Post | 319389 | [319389-pomo-post.json](./319389-pomo-post.json) |
 | PomoFish | 339081 | [339081-pomofish.json](./339081-pomofish.json) |
