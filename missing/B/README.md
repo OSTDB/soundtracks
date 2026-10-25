@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bag Boy Memory | 204209 | [204209-bag-boy-memory.json](./204209-bag-boy-memory.json) |
 | Bag Closure | 137975 | [137975-bag-closure.json](./137975-bag-closure.json) |
 | Bag Fight | 402299 | [402299-bag-fight.json](./402299-bag-fight.json) |
+| Bag Fight: Gem Satchel Edition | 412589 | [412589-bag-fight-gem-satchel-edition.json](./412589-bag-fight-gem-satchel-edition.json) |
 | Bag Fight: Handful Edition | 410852 | [410852-bag-fight-handful-edition.json](./410852-bag-fight-handful-edition.json) |
 | Bag Game | 411696 | [411696-bag-game.json](./411696-bag-game.json) |
 | Bag Hero | 345985 | [345985-bag-hero.json](./345985-bag-hero.json) |
@@ -1244,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Partner | 159540 | [159540-ball-partner.json](./159540-ball-partner.json) |
 | Ball Physics Draw Puzzles | 166677 | [166677-ball-physics-draw-puzzles.json](./166677-ball-physics-draw-puzzles.json) |
 | Ball Physics Draw Puzzles 2 | 187356 | [187356-ball-physics-draw-puzzles-2.json](./187356-ball-physics-draw-puzzles-2.json) |
+| Ball Picker: Clean Up the Golf Yard | 412590 | [412590-ball-picker-clean-up-the-golf-yard.json](./412590-ball-picker-clean-up-the-golf-yard.json) |
 | Ball Pit King 3D | 276257 | [276257-ball-pit-king-3d.json](./276257-ball-pit-king-3d.json) |
 | Ball Platformer | 88053 | [88053-ball-platformer.json](./88053-ball-platformer.json) |
 | Ball Points | 304693 | [304693-ball-points.json](./304693-ball-points.json) |
@@ -1404,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Pop for Toddlers & Kids: Learn Numbers, Letters, Colors & Animals | 147925 | [147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json](./147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json) |
 | Balloon Pop Plus | 64305 | [64305-balloon-pop-plus.json](./64305-balloon-pop-plus.json) |
 | Balloon Rescue | 67699 | [67699-balloon-rescue.json](./67699-balloon-rescue.json) |
+| Balloon Ride | 412625 | [412625-balloon-ride.json](./412625-balloon-ride.json) |
 | Balloon Slider Mania | 307371 | [307371-balloon-slider-mania.json](./307371-balloon-slider-mania.json) |
 | Balloon Smash | 130693 | [130693-balloon-smash.json](./130693-balloon-smash.json) |
 | Balloon to the Moon 2 | 316083 | [316083-balloon-to-the-moon-2.json](./316083-balloon-to-the-moon-2.json) |
@@ -2262,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baron | 128441 | [128441-baron.json](./128441-baron.json) |
 | Baron | 283906 | [283906-baron.json](./283906-baron.json) |
 | Baron Baldric: A Grave Adventure | 14287 | [14287-baron-baldric-a-grave-adventure.json](./14287-baron-baldric-a-grave-adventure.json) |
+| Baron Misanthrope | 412592 | [412592-baron-misanthrope.json](./412592-baron-misanthrope.json) |
 | Baron of Blood | 159153 | [159153-baron-of-blood.json](./159153-baron-of-blood.json) |
 | Baron of Shell | 256772 | [256772-baron-of-shell.json](./256772-baron-of-shell.json) |
 | Baron von Puttyngton versus the Cancerous M.C. Escher Maze of Cheese | 80428 | [80428-baron-von-puttyngton-versus-the-cancerous-m-c-escher-maze-of-cheese.json](./80428-baron-von-puttyngton-versus-the-cancerous-m-c-escher-maze-of-cheese.json) |
@@ -4954,6 +4958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Beyond | 176908 | [176908-behind-the-beyond.json](./176908-behind-the-beyond.json) |
 | Behind The Beyond | 344424 | [344424-behind-the-beyond.json](./344424-behind-the-beyond.json) |
 | Behind the Beyond: Ulti | 277979 | [277979-behind-the-beyond-ulti.json](./277979-behind-the-beyond-ulti.json) |
+| Behind the Broadcast: The Director's Cut | 412620 | [412620-behind-the-broadcast-the-directors-cut.json](./412620-behind-the-broadcast-the-directors-cut.json) |
 | Behind the Curtain | 342609 | [342609-behind-the-curtain.json](./342609-behind-the-curtain.json) |
 | Behind the Door | 55450 | [55450-behind-the-door.json](./55450-behind-the-door.json) |
 | Behind the Frame: The Finest Scenery - Deluxe Edition | 203690 | [203690-behind-the-frame-the-finest-scenery-deluxe-edition.json](./203690-behind-the-frame-the-finest-scenery-deluxe-edition.json) |
@@ -8338,6 +8343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Spot | 343775 | [343775-blind-spot.json](./343775-blind-spot.json) |
 | Blind Spot | 377586 | [377586-blind-spot.json](./377586-blind-spot.json) |
 | Blind Touch | 346760 | [346760-blind-touch.json](./346760-blind-touch.json) |
+| Blind Touch VR | 412610 | [412610-blind-touch-vr.json](./412610-blind-touch-vr.json) |
 | Blind Trust | 32672 | [32672-blind-trust.json](./32672-blind-trust.json) |
 | Blind Trust: The City | 357383 | [357383-blind-trust-the-city.json](./357383-blind-trust-the-city.json) |
 | Blind Wars | 69795 | [69795-blind-wars.json](./69795-blind-wars.json) |
@@ -11514,6 +11520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Fever: Grand Edition | 396914 | [396914-bowling-fever-grand-edition.json](./396914-bowling-fever-grand-edition.json) |
 | Bowling Fever: Hyper Edition | 410853 | [410853-bowling-fever-hyper-edition.json](./410853-bowling-fever-hyper-edition.json) |
 | Bowling Fever: Master Edition | 404274 | [404274-bowling-fever-master-edition.json](./404274-bowling-fever-master-edition.json) |
+| Bowling Fever: Max Edition | 412588 | [412588-bowling-fever-max-edition.json](./412588-bowling-fever-max-edition.json) |
 | Bowling Fever: Power Edition | 399811 | [399811-bowling-fever-power-edition.json](./399811-bowling-fever-power-edition.json) |
 | Bowling Fever: Superior Edition | 317915 | [317915-bowling-fever-superior-edition.json](./317915-bowling-fever-superior-edition.json) |
 | Bowling Game 3D | 88584 | [88584-bowling-game-3d.json](./88584-bowling-game-3d.json) |
