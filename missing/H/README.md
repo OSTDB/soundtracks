@@ -6209,6 +6209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HigherLower | 353627 | [353627-higherlower.json](./353627-higherlower.json) |
 | HighFleet | 157439 | [157439-highfleet.json](./157439-highfleet.json) |
 | HighKing | 320036 | [320036-highking.json](./320036-highking.json) |
+| Highland Games | 417472 | [417472-highland-games.json](./417472-highland-games.json) |
 | Highland Huntress | 302079 | [302079-highland-huntress.json](./302079-highland-huntress.json) |
 | Highland Panic | 248077 | [248077-highland-panic.json](./248077-highland-panic.json) |
 | Highland Solitaire | 209908 | [209908-highland-solitaire.json](./209908-highland-solitaire.json) |
@@ -6986,6 +6987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Agent | 244802 | [244802-hockey-agent.json](./244802-hockey-agent.json) |
 | Hockey Agent | 58134 | [58134-hockey-agent.json](./58134-hockey-agent.json) |
 | Hockey Allstar Shootout | 85182 | [85182-hockey-allstar-shootout.json](./85182-hockey-allstar-shootout.json) |
+| Hockey Beasts | 417275 | [417275-hockey-beasts.json](./417275-hockey-beasts.json) |
 | Hockey Blitz | 244800 | [244800-hockey-blitz.json](./244800-hockey-blitz.json) |
 | Hockey Camp - Goaltender | 114930 | [114930-hockey-camp-goaltender.json](./114930-hockey-camp-goaltender.json) |
 | Hockey Classic 16 | 175252 | [175252-hockey-classic-16.json](./175252-hockey-classic-16.json) |
@@ -7093,6 +7095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold The Noise | 292286 | [292286-hold-the-noise.json](./292286-hold-the-noise.json) |
 | Hold Your Fire: A Game About Responsibility | 20029 | [20029-hold-your-fire-a-game-about-responsibility.json](./20029-hold-your-fire-a-game-about-responsibility.json) |
 | Hold Your Ground | 126909 | [126909-hold-your-ground.json](./126909-hold-your-ground.json) |
+| Hold Your Horses | 417468 | [417468-hold-your-horses.json](./417468-hold-your-horses.json) |
 | Hold your houses | 29621 | [29621-hold-your-houses.json](./29621-hold-your-houses.json) |
 | Hold-Up | 240779 | [240779-hold-up.json](./240779-hold-up.json) |
 | Hold-Up | 74016 | [74016-hold-up.json](./74016-hold-up.json) |
