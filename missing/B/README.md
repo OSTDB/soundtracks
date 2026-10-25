@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balkadia | 129618 | [129618-balkadia.json](./129618-balkadia.json) |
 | Balkan Bloodbath | 310726 | [310726-balkan-bloodbath.json](./310726-balkan-bloodbath.json) |
 | Balkan Horror Tales | 330542 | [330542-balkan-horror-tales.json](./330542-balkan-horror-tales.json) |
+| Balkan Shop Simulator | 396667 | [396667-balkan-shop-simulator.json](./396667-balkan-shop-simulator.json) |
 | Balkiri Sonyeo Kiugi | 216112 | [216112-balkiri-sonyeo-kiugi.json](./216112-balkiri-sonyeo-kiugi.json) |
 | Ball | 140884 | [140884-ball.json](./140884-ball.json) |
 | Ball | 231388 | [231388-ball.json](./231388-ball.json) |
@@ -2727,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batalj | 112225 | [112225-batalj.json](./112225-batalj.json) |
 | Batalla de Arquitectos | 353307 | [353307-batalla-de-arquitectos.json](./353307-batalla-de-arquitectos.json) |
 | Batalyx | 26418 | [26418-batalyx.json](./26418-batalyx.json) |
+| Batara: Fate Unbound | 396640 | [396640-batara-fate-unbound.json](./396640-batara-fate-unbound.json) |
 | Batbarian: Testament of the Primordials | 139177 | [139177-batbarian-testament-of-the-primordials.json](./139177-batbarian-testament-of-the-primordials.json) |
 | Batch 17 | 75187 | [75187-batch-17.json](./75187-batch-17.json) |
 | Baten Kaitos I & II HD Remaster | 236711 | [236711-baten-kaitos-i-and-ii-hd-remaster.json](./236711-baten-kaitos-i-and-ii-hd-remaster.json) |
@@ -5071,6 +5073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BelisBelus | 308022 | [308022-belisbelus.json](./308022-belisbelus.json) |
 | Bell Bot | 369319 | [369319-bell-bot.json](./369319-bell-bot.json) |
 | Bell Kingdom | 211447 | [211447-bell-kingdom.json](./211447-bell-kingdom.json) |
+| Bell Knight | 396665 | [396665-bell-knight.json](./396665-bell-knight.json) |
 | Bell Park, Youth Detective | 139308 | [139308-bell-park-youth-detective.json](./139308-bell-park-youth-detective.json) |
 | Bell Ringer | 33919 | [33919-bell-ringer.json](./33919-bell-ringer.json) |
 | Bell, Book and Candleban | 237544 | [237544-bell-book-and-candleban.json](./237544-bell-book-and-candleban.json) |
@@ -7756,6 +7759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith Shop Simulator | 344980 | [344980-blacksmith-shop-simulator.json](./344980-blacksmith-shop-simulator.json) |
 | Blacksmith Simulator | 326469 | [326469-blacksmith-simulator.json](./326469-blacksmith-simulator.json) |
 | Blacksmith Simulator | 353951 | [353951-blacksmith-simulator.json](./353951-blacksmith-simulator.json) |
+| Blacksmith Together | 396641 | [396641-blacksmith-together.json](./396641-blacksmith-together.json) |
 | Blacksmith Village | 156109 | [156109-blacksmith-village.json](./156109-blacksmith-village.json) |
 | Blacksmith War | 201803 | [201803-blacksmith-war.json](./201803-blacksmith-war.json) |
 | Blacksmith Weapon Merchant | 213987 | [213987-blacksmith-weapon-merchant.json](./213987-blacksmith-weapon-merchant.json) |
