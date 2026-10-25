@@ -2677,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Slasher 4-in-1 Horror Demakes | 255083 | [255083-8-bit-slasher-4-in-1-horror-demakes.json](./255083-8-bit-slasher-4-in-1-horror-demakes.json) |
 | 8-Bit Waterslide | 101105 | [101105-8-bit-waterslide.json](./101105-8-bit-waterslide.json) |
 | 8-BIT Yu-No's Great Adventure | 209737 | [209737-8-bit-yu-nos-great-adventure.json](./209737-8-bit-yu-nos-great-adventure.json) |
+| 8-gatsu 7-ka no Amayadori | 403956 | [403956-8-gatsu-7-ka-no-amayadori.json](./403956-8-gatsu-7-ka-no-amayadori.json) |
 | 8-in-1 Games | 247011 | [247011-8-in-1-games.json](./247011-8-in-1-games.json) |
 | 8-in-1 IQ Scale Bundle | 81896 | [81896-8-in-1-iq-scale-bundle.json](./81896-8-in-1-iq-scale-bundle.json) |
 | 8:00 AM: Still Morning | 394616 | [394616-8-00-am-still-morning.json](./394616-8-00-am-still-morning.json) |
