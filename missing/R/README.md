@@ -2719,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Planet | 26479 | [26479-rebel-planet.json](./26479-rebel-planet.json) |
 | Rebel Planet Orion | 120891 | [120891-rebel-planet-orion.json](./120891-rebel-planet-orion.json) |
 | Rebel Racing | 137368 | [137368-rebel-racing.json](./137368-rebel-racing.json) |
+| Rebel Raiders: Operation Nighthawk | 5120 | [5120-rebel-raiders-operation-nighthawk.json](./5120-rebel-raiders-operation-nighthawk.json) |
 | Rebel Reenactment: Battle of the Wilderness | 164429 | [164429-rebel-reenactment-battle-of-the-wilderness.json](./164429-rebel-reenactment-battle-of-the-wilderness.json) |
 | Rebel Roar | 408736 | [408736-rebel-roar.json](./408736-rebel-roar.json) |
 | Rebel Spirit! | 339156 | [339156-rebel-spirit.json](./339156-rebel-spirit.json) |
@@ -6065,6 +6066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riftwalker | 112730 | [112730-riftwalker.json](./112730-riftwalker.json) |
 | Riftwalker | 178679 | [178679-riftwalker.json](./178679-riftwalker.json) |
 | Riftwalker | 381181 | [381181-riftwalker.json](./381181-riftwalker.json) |
+| Rig Racer 2 | 5123 | [5123-rig-racer-2.json](./5123-rig-racer-2.json) |
 | Rig'n' Roll: Cut-Throat Highway | 209162 | [209162-rign-roll-cut-throat-highway.json](./209162-rign-roll-cut-throat-highway.json) |
 | Rig's Dream 3D | 28102 | [28102-rigs-dream-3d.json](./28102-rigs-dream-3d.json) |
 | Rigby Saw Game | 384923 | [384923-rigby-saw-game.json](./384923-rigby-saw-game.json) |
@@ -7491,6 +7493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock 'N Roll | 90647 | [90647-rock-n-roll.json](./90647-rock-n-roll.json) |
 | Rock 'N Roll: G.E.O.S. Wars | 170880 | [170880-rock-n-roll-g-e-o-s-wars.json](./170880-rock-n-roll-g-e-o-s-wars.json) |
 | Rock 'n Shaolin: Legend of the Seven Paladins 3D | 159188 | [159188-rock-n-shaolin-legend-of-the-seven-paladins-3d.json](./159188-rock-n-shaolin-legend-of-the-seven-paladins-3d.json) |
+| Rock 'n' Roll Adventures | 5125 | [5125-rock-n-roll-adventures.json](./5125-rock-n-roll-adventures.json) |
 | Rock 'N' Roll Clams | 289170 | [289170-rock-n-roll-clams.json](./289170-rock-n-roll-clams.json) |
 | Rock 'N' Roll Defense | 33583 | [33583-rock-n-roll-defense.json](./33583-rock-n-roll-defense.json) |
 | Rock 'n' Roll Will Never Die! | 199358 | [199358-rock-n-roll-will-never-die.json](./199358-rock-n-roll-will-never-die.json) |
@@ -8819,6 +8822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop Renegade | 139449 | [139449-rooftop-renegade.json](./139449-rooftop-renegade.json) |
 | Rooftop Story | 370717 | [370717-rooftop-story.json](./370717-rooftop-story.json) |
 | Rooftops & Alleys: The Parkour Game | 279900 | [279900-rooftops-and-alleys-the-parkour-game.json](./279900-rooftops-and-alleys-the-parkour-game.json) |
+| Roogoo | 5128 | [5128-roogoo.json](./5128-roogoo.json) |
 | Roogoo Attack! | 21242 | [21242-roogoo-attack.json](./21242-roogoo-attack.json) |
 | Roogoo Twisted Towers! | 21248 | [21248-roogoo-twisted-towers.json](./21248-roogoo-twisted-towers.json) |
 | Roojack | 75627 | [75627-roojack.json](./75627-roojack.json) |
@@ -9687,6 +9691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby League Raw | 385080 | [385080-rugby-league-raw.json](./385080-rugby-league-raw.json) |
 | Rugby League Riot | 274478 | [274478-rugby-league-riot.json](./274478-rugby-league-riot.json) |
 | Rugby League Team Manager 2018 | 68707 | [68707-rugby-league-team-manager-2018.json](./68707-rugby-league-team-manager-2018.json) |
+| Rugby League Team Manager 3 | 128263 | [128263-rugby-league-team-manager-3.json](./128263-rugby-league-team-manager-3.json) |
 | Rugby Nations 15 | 194164 | [194164-rugby-nations-15.json](./194164-rugby-nations-15.json) |
 | Rugby Nations 16 | 86713 | [86713-rugby-nations-16.json](./86713-rugby-nations-16.json) |
 | Rugby Nations 18 | 86865 | [86865-rugby-nations-18.json](./86865-rugby-nations-18.json) |
