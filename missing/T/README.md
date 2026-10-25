@@ -1777,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantalus | 28556 | [28556-tantalus.json](./28556-tantalus.json) |
 | Tantalus | 330577 | [330577-tantalus.json](./330577-tantalus.json) |
 | Tantalus | 377197 | [377197-tantalus.json](./377197-tantalus.json) |
+| TanTan Teo | 395987 | [395987-tantan-teo.json](./395987-tantan-teo.json) |
 | Tantei Gakuen Q: Kioukan no Satsui | 359064 | [359064-tantei-gakuen-q-kioukan-no-satsui.json](./359064-tantei-gakuen-q-kioukan-no-satsui.json) |
 | Tantei Gakuen Q: Kyuukyoku no Trick ni Idome! | 49824 | [49824-tantei-gakuen-q-kyuukyoku-no-trick-ni-idome.json](./49824-tantei-gakuen-q-kyuukyoku-no-trick-ni-idome.json) |
 | Tantei Gakuen Q: Meitantei Hakimida! | 49853 | [49853-tantei-gakuen-q-meitantei-hakimida.json](./49853-tantei-gakuen-q-meitantei-hakimida.json) |
@@ -2087,6 +2088,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target Dragon 2: Maze Runner | 410692 | [410692-target-dragon-2-maze-runner.json](./410692-target-dragon-2-maze-runner.json) |
 | Target Earth | 93087 | [93087-target-earth.json](./93087-target-earth.json) |
 | Target G | 238619 | [238619-target-g.json](./238619-target-g.json) |
+| Target Gear | 395989 | [395989-target-gear.json](./395989-target-gear.json) |
+| Target Gear Alga 2nd | 395992 | [395992-target-gear-alga-2nd.json](./395992-target-gear-alga-2nd.json) |
 | Target of Desire: Episode 1 | 52745 | [52745-target-of-desire-episode-1.json](./52745-target-of-desire-episode-1.json) |
 | Target Party | 254302 | [254302-target-party.json](./254302-target-party.json) |
 | Target Pinball | 307399 | [307399-target-pinball.json](./307399-target-pinball.json) |
@@ -14088,6 +14091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The SpongeBob SquarePants Movie | 253744 | [253744-the-spongebob-squarepants-movie.json](./253744-the-spongebob-squarepants-movie.json) |
 | The SpongeBob SquarePants Movie | 2767 | [2767-the-spongebob-squarepants-movie.json](./2767-the-spongebob-squarepants-movie.json) |
 | The SpongeBob SquarePants Movie 3D | 135811 | [135811-the-spongebob-squarepants-movie-3d.json](./135811-the-spongebob-squarepants-movie-3d.json) |
+| The SpongeBob SquarePants Movie: Revealing Image | 396063 | [396063-the-spongebob-squarepants-movie-revealing-image.json](./396063-the-spongebob-squarepants-movie-revealing-image.json) |
 | The Spookening | 34602 | [34602-the-spookening.json](./34602-the-spookening.json) |
 | The Spooky Cave | 181194 | [181194-the-spooky-cave.json](./181194-the-spooky-cave.json) |
 | The Spooky Island | 394167 | [394167-the-spooky-island.json](./394167-the-spooky-island.json) |
@@ -14660,6 +14664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Titan's Grave | 141032 | [141032-the-titans-grave.json](./141032-the-titans-grave.json) |
 | The Titty-Fucking Hot Spring Ryokan Ghost | 385827 | [385827-the-titty-fucking-hot-spring-ryokan-ghost.json](./385827-the-titty-fucking-hot-spring-ryokan-ghost.json) |
 | The Toho Datsui Hanafuda | 95157 | [95157-the-toho-datsui-hanafuda.json](./95157-the-toho-datsui-hanafuda.json) |
+| The toilet zone | 395962 | [395962-the-toilet-zone.json](./395962-the-toilet-zone.json) |
 | The Tolerance Group | 408940 | [408940-the-tolerance-group.json](./408940-the-tolerance-group.json) |
 | The Tomatoes are OK | 184993 | [184993-the-tomatoes-are-ok.json](./184993-the-tomatoes-are-ok.json) |
 | The Tomb | 85905 | [85905-the-tomb.json](./85905-the-tomb.json) |
@@ -25450,6 +25455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick the Ninjalinos | 359438 | [359438-trick-the-ninjalinos.json](./359438-trick-the-ninjalinos.json) |
 | Trick Trap | 46874 | [46874-trick-trap.json](./46874-trick-trap.json) |
 | Trick x Trick | 386689 | [386689-trick-x-trick.json](./386689-trick-x-trick.json) |
+| Trick-or-Treat Adventure! | 395951 | [395951-trick-or-treat-adventure.json](./395951-trick-or-treat-adventure.json) |
 | Trickcal: Chibi Go | 172648 | [172648-trickcal-chibi-go.json](./172648-trickcal-chibi-go.json) |
 | Tricked N' Tuned: West Coast Streets | 206665 | [206665-tricked-n-tuned-west-coast-streets.json](./206665-tricked-n-tuned-west-coast-streets.json) |
 | Trickery&Strategy | 148905 | [148905-trickery-and-strategy.json](./148905-trickery-and-strategy.json) |
