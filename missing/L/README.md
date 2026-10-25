@@ -3768,6 +3768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifetakers & Heartbreakers | 340917 | [340917-lifetakers-and-heartbreakers.json](./340917-lifetakers-and-heartbreakers.json) |
 | Lifetime | 236400 | [236400-lifetime.json](./236400-lifetime.json) |
 | Lifeway | 211768 | [211768-lifeway.json](./211768-lifeway.json) |
+| LifeZ - Survival | 93707 | [93707-lifez-survival.json](./93707-lifez-survival.json) |
 | Lifing | 167362 | [167362-lifing.json](./167362-lifing.json) |
 | Lifo | 185615 | [185615-lifo.json](./185615-lifo.json) |
 | Lifo Harvester | 55237 | [55237-lifo-harvester.json](./55237-lifo-harvester.json) |
@@ -4826,6 +4827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Journeys | 213836 | [213836-little-journeys.json](./213836-little-journeys.json) |
 | Little Jumper! | 175403 | [175403-little-jumper.json](./175403-little-jumper.json) |
 | Little Keepers | 256418 | [256418-little-keepers.json](./256418-little-keepers.json) |
+| Little Kids Dentist | 89165 | [89165-little-kids-dentist.json](./89165-little-kids-dentist.json) |
 | Little King's Story | 4974 | [4974-little-kings-story.json](./4974-little-kings-story.json) |
 | Little Kingdom 2 | 30569 | [30569-little-kingdom-2.json](./30569-little-kingdom-2.json) |
 | Little Kingdom RTS | 349319 | [349319-little-kingdom-rts.json](./349319-little-kingdom-rts.json) |
