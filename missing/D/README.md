@@ -3026,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 6: Helena | 155439 | [155439-dead-or-alive-6-helena.json](./155439-dead-or-alive-6-helena.json) |
 | Dead or Alive 6: Jann Lee | 155429 | [155429-dead-or-alive-6-jann-lee.json](./155429-dead-or-alive-6-jann-lee.json) |
 | Dead or Alive 6: Kula Diamond | 155427 | [155427-dead-or-alive-6-kula-diamond.json](./155427-dead-or-alive-6-kula-diamond.json) |
+| Dead or Alive 6: Last Round - Minato | 417319 | [417319-dead-or-alive-6-last-round-minato.json](./417319-dead-or-alive-6-last-round-minato.json) |
 | Dead or Alive 6: Leifang | 155432 | [155432-dead-or-alive-6-leifang.json](./155432-dead-or-alive-6-leifang.json) |
 | Dead or Alive 6: Mai Shiranui | 155424 | [155424-dead-or-alive-6-mai-shiranui.json](./155424-dead-or-alive-6-mai-shiranui.json) |
 | Dead or Alive 6: Marie Rose | 155434 | [155434-dead-or-alive-6-marie-rose.json](./155434-dead-or-alive-6-marie-rose.json) |
@@ -4858,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious: Emily's True Love | 68946 | [68946-delicious-emilys-true-love.json](./68946-delicious-emilys-true-love.json) |
 | Delicious: Emily's Wonder Wedding | 88825 | [88825-delicious-emilys-wonder-wedding.json](./88825-delicious-emilys-wonder-wedding.json) |
 | Delicious: Mansion Mystery | 304710 | [304710-delicious-mansion-mystery.json](./304710-delicious-mansion-mystery.json) |
+| Delicious: Recipe for Renewal | 417600 | [417600-delicious-recipe-for-renewal.json](./417600-delicious-recipe-for-renewal.json) |
 | Delicious! Pretty Girls Mahjong Solitaire | 31053 | [31053-delicious-pretty-girls-mahjong-solitaire.json](./31053-delicious-pretty-girls-mahjong-solitaire.json) |
 | DeLight | 208101 | [208101-delight.json](./208101-delight.json) |
 | DeLight: The Journey Home - Chapter 4 | 314898 | [314898-delight-the-journey-home-chapter-4.json](./314898-delight-the-journey-home-chapter-4.json) |
@@ -12376,6 +12378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Syndicate | 363782 | [363782-dragon-syndicate.json](./363782-dragon-syndicate.json) |
 | Dragon Tale 4: The Raven Plot - Collector's Edition | 337221 | [337221-dragon-tale-4-the-raven-plot-collectors-edition.json](./337221-dragon-tale-4-the-raven-plot-collectors-edition.json) |
 | Dragon Tale 5: The Queen's Destiny - Collector's Edition | 417525 | [417525-dragon-tale-5-the-queens-destiny-collectors-edition.json](./417525-dragon-tale-5-the-queens-destiny-collectors-edition.json) |
+| Dragon Tale 6: Veil of Time - Collector's Edition | 417513 | [417513-dragon-tale-6-veil-of-time-collectors-edition.json](./417513-dragon-tale-6-veil-of-time-collectors-edition.json) |
 | Dragon Tales | 320914 | [320914-dragon-tales.json](./320914-dragon-tales.json) |
 | Dragon Tales: Dragon Adventures | 248751 | [248751-dragon-tales-dragon-adventures.json](./248751-dragon-tales-dragon-adventures.json) |
 | Dragon Tales: Dragon Adventures | 6389 | [6389-dragon-tales-dragon-adventures.json](./6389-dragon-tales-dragon-adventures.json) |
