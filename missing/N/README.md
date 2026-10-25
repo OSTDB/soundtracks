@@ -6363,6 +6363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nusnur | 330248 | [330248-nusnur.json](./330248-nusnur.json) |
 | Nusrat | 19495 | [19495-nusrat.json](./19495-nusrat.json) |
 | Nusunde Asobo! Dorobou Youchien | 222254 | [222254-nusunde-asobo-dorobou-youchien.json](./222254-nusunde-asobo-dorobou-youchien.json) |
+| Nusutto Kouza | 395984 | [395984-nusutto-kouza.json](./395984-nusutto-kouza.json) |
 | Nut City Blues | 274936 | [274936-nut-city-blues.json](./274936-nut-city-blues.json) |
 | Nutcracker | 115758 | [115758-nutcracker.json](./115758-nutcracker.json) |
 | Nutcraka | 349629 | [349629-nutcraka.json](./349629-nutcraka.json) |
