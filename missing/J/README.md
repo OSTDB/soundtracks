@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Joyride 2 | 287036 | [287036-jetpack-joyride-2.json](./287036-jetpack-joyride-2.json) |
 | Jetpack Joyride Deluxe | 99802 | [99802-jetpack-joyride-deluxe.json](./99802-jetpack-joyride-deluxe.json) |
 | Jetpack Joyride India Exclusive | 238204 | [238204-jetpack-joyride-india-exclusive.json](./238204-jetpack-joyride-india-exclusive.json) |
+| Jetpack Joyride Racing | 399050 | [399050-jetpack-joyride-racing.json](./399050-jetpack-joyride-racing.json) |
 | Jetpack Joyride: Test Labs | 336326 | [336326-jetpack-joyride-test-labs.json](./336326-jetpack-joyride-test-labs.json) |
 | Jetpack Kiwi | 257813 | [257813-jetpack-kiwi.json](./257813-jetpack-kiwi.json) |
 | Jetpack Man | 312207 | [312207-jetpack-man.json](./312207-jetpack-man.json) |
