@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagicBeans | 257857 | [257857-magicbeans.json](./257857-magicbeans.json) |
 | MagicCraft | 224409 | [224409-magiccraft.json](./224409-magiccraft.json) |
 | Magician | 319093 | [319093-magician.json](./319093-magician.json) |
+| Magician | 397291 | [397291-magician.json](./397291-magician.json) |
 | Magician | 94209 | [94209-magician.json](./94209-magician.json) |
 | Magician Lord | 19109 | [19109-magician-lord.json](./19109-magician-lord.json) |
 | Magician Lord 2 | 324158 | [324158-magician-lord-2.json](./324158-magician-lord-2.json) |
@@ -16777,6 +16778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Garden | 139119 | [139119-my-garden.json](./139119-my-garden.json) |
 | My GF Doesn't Know What I'm Into | 225805 | [225805-my-gf-doesnt-know-what-im-into.json](./225805-my-gf-doesnt-know-what-im-into.json) |
 | My Ghost Pet Is Zhong Kui | 309362 | [309362-my-ghost-pet-is-zhong-kui.json](./309362-my-ghost-pet-is-zhong-kui.json) |
+| My Ghost Roommate | 397281 | [397281-my-ghost-roommate.json](./397281-my-ghost-roommate.json) |
 | My Giant Friend | 220677 | [220677-my-giant-friend.json](./220677-my-giant-friend.json) |
 | My Giant Sexy Sensei Bullies Me 10 | 384738 | [384738-my-giant-sexy-sensei-bullies-me-10.json](./384738-my-giant-sexy-sensei-bullies-me-10.json) |
 | My Giant Sexy Sensei Bullies Me 5 | 384724 | [384724-my-giant-sexy-sensei-bullies-me-5.json](./384724-my-giant-sexy-sensei-bullies-me-5.json) |
