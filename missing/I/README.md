@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Zoo Park | 260661 | [260661-idle-zoo-park.json](./260661-idle-zoo-park.json) |
 | Idle Zoo Tycoon | 220814 | [220814-idle-zoo-tycoon.json](./220814-idle-zoo-tycoon.json) |
 | Idle: Generators | 252289 | [252289-idle-generators.json](./252289-idle-generators.json) |
+| IDLE: Intergalactic Defense League Exterminators | 408578 | [408578-idle-intergalactic-defense-league-exterminators.json](./408578-idle-intergalactic-defense-league-exterminators.json) |
 | Idle: Multipliers | 250186 | [250186-idle-multipliers.json](./250186-idle-multipliers.json) |
 | Idleant | 376104 | [376104-idleant.json](./376104-idleant.json) |
 | idleBeer | 55814 | [55814-idlebeer.json](./55814-idlebeer.json) |
@@ -3287,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity ZigZag | 148688 | [148688-infinity-zigzag.json](./148688-infinity-zigzag.json) |
 | Infinity: Battlescape | 26990 | [26990-infinity-battlescape.json](./26990-infinity-battlescape.json) |
 | Infinity: HexaDome Tactics | 275699 | [275699-infinity-hexadome-tactics.json](./275699-infinity-hexadome-tactics.json) |
+| InfinityMine | 408592 | [408592-infinitymine.json](./408592-infinitymine.json) |
 | Infinitype | 195470 | [195470-infinitype.json](./195470-infinitype.json) |
 | Infinium | 311192 | [311192-infinium.json](./311192-infinium.json) |
 | Infinium | 314700 | [314700-infinium.json](./314700-infinium.json) |
