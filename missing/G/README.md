@@ -2637,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gently Down the Marsh | 184913 | [184913-gently-down-the-marsh.json](./184913-gently-down-the-marsh.json) |
 | Gently Packed | 395267 | [395267-gently-packed.json](./395267-gently-packed.json) |
 | Gentoo Rescue | 291516 | [291516-gentoo-rescue.json](./291516-gentoo-rescue.json) |
+| Gentoo Rescue 1.2: Anniversary Update | 403326 | [403326-gentoo-rescue-1-2-anniversary-update.json](./403326-gentoo-rescue-1-2-anniversary-update.json) |
 | Genzai: Serialization | 223428 | [223428-genzai-serialization.json](./223428-genzai-serialization.json) |
 | Genzee NFT Game | 186590 | [186590-genzee-nft-game.json](./186590-genzee-nft-game.json) |
 | Geo | 31785 | [31785-geo.json](./31785-geo.json) |
