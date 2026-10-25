@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctum Breach | 122977 | [122977-sanctum-breach.json](./122977-sanctum-breach.json) |
 | Sanctum Breach: Rebirth | 196579 | [196579-sanctum-breach-rebirth.json](./196579-sanctum-breach-rebirth.json) |
 | Sanctum Mage | 391782 | [391782-sanctum-mage.json](./391782-sanctum-mage.json) |
+| Sanctum Push | 387311 | [387311-sanctum-push.json](./387311-sanctum-push.json) |
 | Sanctum Wars: Ex Infernis | 411542 | [411542-sanctum-wars-ex-infernis.json](./411542-sanctum-wars-ex-infernis.json) |
 | Sanctum: Cavern | 10810 | [10810-sanctum-cavern.json](./10810-sanctum-cavern.json) |
 | Sanctum: Map Pack 1 | 26274 | [26274-sanctum-map-pack-1.json](./26274-sanctum-map-pack-1.json) |
@@ -4384,6 +4385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selini | 159885 | [159885-selini.json](./159885-selini.json) |
 | Selknam Defense | 10816 | [10816-selknam-defense.json](./10816-selknam-defense.json) |
 | Selkö | 229507 | [229507-selko.json](./229507-selko.json) |
+| Selling & Parking & Crash Simulator Bundle | 387414 | [387414-selling-and-parking-and-crash-simulator-bundle.json](./387414-selling-and-parking-and-crash-simulator-bundle.json) |
 | Selling Souls | 283244 | [283244-selling-souls.json](./283244-selling-souls.json) |
 | Selling Sunlight | 118412 | [118412-selling-sunlight.json](./118412-selling-sunlight.json) |
 | Selling Sunlight | 68479 | [68479-selling-sunlight.json](./68479-selling-sunlight.json) |
@@ -6760,6 +6762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiki Oni no Koku: Chuugoku-hen - Dainishou | 240303 | [240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json](./240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Daisanshou | 240304 | [240304-shiki-oni-no-koku-chuugoku-hen-daisanshou.json](./240304-shiki-oni-no-koku-chuugoku-hen-daisanshou.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Daiyonshou | 240305 | [240305-shiki-oni-no-koku-chuugoku-hen-daiyonshou.json](./240305-shiki-oni-no-koku-chuugoku-hen-daiyonshou.json) |
+| Shiki Oriori no Bass Tsuri | 387289 | [387289-shiki-oriori-no-bass-tsuri.json](./387289-shiki-oriori-no-bass-tsuri.json) |
 | Shiki Tea House | 419956 | [419956-shiki-tea-house.json](./419956-shiki-tea-house.json) |
 | Shiki-Tei | 93616 | [93616-shiki-tei.json](./93616-shiki-tei.json) |
 | Shiki: The Four Seasons | 123554 | [123554-shiki-the-four-seasons.json](./123554-shiki-the-four-seasons.json) |
@@ -13904,6 +13907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something Strange in the Woods | 149531 | [149531-something-strange-in-the-woods.json](./149531-something-strange-in-the-woods.json) |
 | Something That Shouldn't Be There Is Visible. | 410371 | [410371-something-that-shouldnt-be-there-is-visible.json](./410371-something-that-shouldnt-be-there-is-visible.json) |
 | Something to Do with Love | 54839 | [54839-something-to-do-with-love.json](./54839-something-to-do-with-love.json) |
+| Something to Drink? | 387312 | [387312-something-to-drink.json](./387312-something-to-drink.json) |
 | Something To Write About: Unbroken - Book One | 336066 | [336066-something-to-write-about-unbroken-book-one.json](./336066-something-to-write-about-unbroken-book-one.json) |
 | Something Took Her | 335247 | [335247-something-took-her.json](./335247-something-took-her.json) |
 | Something Unlimited | 283106 | [283106-something-unlimited.json](./283106-something-unlimited.json) |
@@ -14641,6 +14645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Tameshi | 316499 | [316499-sonic-tameshi.json](./316499-sonic-tameshi.json) |
 | Sonic Team Arena | 330964 | [330964-sonic-team-arena.json](./330964-sonic-team-arena.json) |
 | Sonic Tennis DX | 261295 | [261295-sonic-tennis-dx.json](./261295-sonic-tennis-dx.json) |
+| Sonic Terror | 387319 | [387319-sonic-terror.json](./387319-sonic-terror.json) |
 | Sonic Test Labs | 265209 | [265209-sonic-test-labs.json](./265209-sonic-test-labs.json) |
 | Sonic the Broad Jump | 274392 | [274392-sonic-the-broad-jump.json](./274392-sonic-the-broad-jump.json) |
 | Sonic the Fighters | 7728 | [7728-sonic-the-fighters.json](./7728-sonic-the-fighters.json) |
@@ -20629,6 +20634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starforge | 2649 | [2649-starforge.json](./2649-starforge.json) |
 | Starforge | 295305 | [295305-starforge.json](./295305-starforge.json) |
 | Starfox | 54519 | [54519-starfox.json](./54519-starfox.json) |
+| Starfox 64: Recompiled | 387287 | [387287-starfox-64-recompiled.json](./387287-starfox-64-recompiled.json) |
 | StarFringe: Adversus | 33148 | [33148-starfringe-adversus.json](./33148-starfringe-adversus.json) |
 | Starfront: Collision | 87701 | [87701-starfront-collision.json](./87701-starfront-collision.json) |
 | Starfuse | 260214 | [260214-starfuse.json](./260214-starfuse.json) |
@@ -22969,6 +22975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streakshot | 97169 | [97169-streakshot.json](./97169-streakshot.json) |
 | Stream - Circuit Puzzle | 102128 | [102128-stream-circuit-puzzle.json](./102128-stream-circuit-puzzle.json) |
 | Stream Animals: Free for All | 116031 | [116031-stream-animals-free-for-all.json](./116031-stream-animals-free-for-all.json) |
+| Stream Arena RPG | 387402 | [387402-stream-arena-rpg.json](./387402-stream-arena-rpg.json) |
 | Stream Avatars | 52432 | [52432-stream-avatars.json](./52432-stream-avatars.json) |
 | Stream Bakery | 409789 | [409789-stream-bakery.json](./409789-stream-bakery.json) |
 | Stream Battlecards | 130703 | [130703-stream-battlecards.json](./130703-stream-battlecards.json) |
@@ -24392,6 +24399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Lust | 276963 | [276963-sugar-lust.json](./276963-sugar-lust.json) |
 | Sugar Madness | 406178 | [406178-sugar-madness.json](./406178-sugar-madness.json) |
 | Sugar Mess: Let's Play Jolly Battle | 263752 | [263752-sugar-mess-lets-play-jolly-battle.json](./263752-sugar-mess-lets-play-jolly-battle.json) |
+| Sugar Orbit | 387418 | [387418-sugar-orbit.json](./387418-sugar-orbit.json) |
 | Sugar Overdrive | 332985 | [332985-sugar-overdrive.json](./332985-sugar-overdrive.json) |
 | Sugar Ray Leonard: Talking Boxing | 198930 | [198930-sugar-ray-leonard-talking-boxing.json](./198930-sugar-ray-leonard-talking-boxing.json) |
 | Sugar Rush | 311738 | [311738-sugar-rush.json](./311738-sugar-rush.json) |
