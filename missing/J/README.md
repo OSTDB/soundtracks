@@ -1623,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Realms: Lost Isles | 387412 | [387412-jigsaw-realms-lost-isles.json](./387412-jigsaw-realms-lost-isles.json) |
 | Jigsaw Realms: Nature | 386369 | [386369-jigsaw-realms-nature.json](./386369-jigsaw-realms-nature.json) |
 | Jigsaw Realms: Oasis | 389066 | [389066-jigsaw-realms-oasis.json](./389066-jigsaw-realms-oasis.json) |
+| Jigsaw Realms: Seasons | 386795 | [386795-jigsaw-realms-seasons.json](./386795-jigsaw-realms-seasons.json) |
 | Jigsaw Realms: Villages | 386370 | [386370-jigsaw-realms-villages.json](./386370-jigsaw-realms-villages.json) |
 | Jigsaw Rogue | 355182 | [355182-jigsaw-rogue.json](./355182-jigsaw-rogue.json) |
 | Jigsaw Royal Princess | 295684 | [295684-jigsaw-royal-princess.json](./295684-jigsaw-royal-princess.json) |
