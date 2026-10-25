@@ -2155,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Castle | 315360 | [315360-haunted-castle.json](./315360-haunted-castle.json) |
 | Haunted Childhood | 73487 | [73487-haunted-childhood.json](./73487-haunted-childhood.json) |
 | Haunted Cities Volume 4 | 140618 | [140618-haunted-cities-volume-4.json](./140618-haunted-cities-volume-4.json) |
+| Haunted Cleaner | 403937 | [403937-haunted-cleaner.json](./403937-haunted-cleaner.json) |
 | Haunted Club Manager 88 | 391705 | [391705-haunted-club-manager-88.json](./391705-haunted-club-manager-88.json) |
 | Haunted Corny Maize | 178906 | [178906-haunted-corny-maize.json](./178906-haunted-corny-maize.json) |
 | Haunted Dawn: The Zombie Apocalypse | 150267 | [150267-haunted-dawn-the-zombie-apocalypse.json](./150267-haunted-dawn-the-zombie-apocalypse.json) |
@@ -3335,8 +3336,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose: Airborne M1942 Reinforced | 323252 | [323252-hell-let-loose-airborne-m1942-reinforced.json](./323252-hell-let-loose-airborne-m1942-reinforced.json) |
 | Hell Let Loose: Anniversary Edition | 226784 | [226784-hell-let-loose-anniversary-edition.json](./226784-hell-let-loose-anniversary-edition.json) |
 | Hell Let Loose: Battle Scarred | 371226 | [371226-hell-let-loose-battle-scarred.json](./371226-hell-let-loose-battle-scarred.json) |
+| Hell Let Loose: Canadian Airborne | 403960 | [403960-hell-let-loose-canadian-airborne.json](./403960-hell-let-loose-canadian-airborne.json) |
+| Hell Let Loose: Canadian Western Europe Pack | 403959 | [403959-hell-let-loose-canadian-western-europe-pack.json](./403959-hell-let-loose-canadian-western-europe-pack.json) |
 | Hell Let Loose: Deluxe Edition | 273004 | [273004-hell-let-loose-deluxe-edition.json](./273004-hell-let-loose-deluxe-edition.json) |
 | Hell Let Loose: Devotion to Duty | 252863 | [252863-hell-let-loose-devotion-to-duty.json](./252863-hell-let-loose-devotion-to-duty.json) |
+| Hell Let Loose: False Front | 403961 | [403961-hell-let-loose-false-front.json](./403961-hell-let-loose-false-front.json) |
 | Hell Let Loose: Lethal Tide | 168794 | [168794-hell-let-loose-lethal-tide.json](./168794-hell-let-loose-lethal-tide.json) |
 | Hell Let Loose: Long Range Desert Group | 372250 | [372250-hell-let-loose-long-range-desert-group.json](./372250-hell-let-loose-long-range-desert-group.json) |
 | Hell Let Loose: Luftwaffe Eagles | 272194 | [272194-hell-let-loose-luftwaffe-eagles.json](./272194-hell-let-loose-luftwaffe-eagles.json) |
